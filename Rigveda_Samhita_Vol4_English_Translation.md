@@ -8650,15 +8650,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.9 (pp. 521–524, PDF 535–538)
+### Rik 44.9 (pp. 521–524, PDF 535–538; better scan PDF 536–539)
 
-**Saṃhitā-pāṭha** *(p. 521; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 521)*
 
-> **पतिर्ह्यध्वराणामग्ने दूतो विशामसि ।**
-> **उषर्बुध आ वह सोमपीतये देवाँ अद्य स्वर्दृशः ॥ ९ ॥**
+> **पति॒र्ह्य॑ध्व॒राणा॒मग्ने॑ दू॒तो वि॒शामसि॑ ।**
+> **उ॒ष॒र्बुध॒ आ व॑ह॒ सोम॑पीतये दे॒वाँ अ॒द्य स्व॒र्दृशः॑ ॥ ९ ॥**
 
-*patir hy adhvarāṇām agne dūto viśām asi |*
-*uṣarbudha ā vaha somapītaye devām̐ adya svardṛśaḥ || 9 ||*
+*patir hy adhvarā́ṇām ágne dūtó viśā́mási |*
+*uṣarbúdha ā́ vaha sómapītaye devā́m̐ adyá svardṛ́śaḥ || 9 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 521)*
 
@@ -8672,13 +8674,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(pp. 521–522)*
 
-> **हे अग्ने विशां प्रजानां सम्बन्धिनो येऽध्वरा योगास्तेषां पतिः पालकस्त्वं दूतोऽसि हि । देवानां वार्ताहारो भवसि खलु । उषर्बुध उषःकाले प्रबुद्धान् स्वर्दृशः सूर्यदर्शिनो देवानद्यास्मिन्दिने सोमपीतये सोमपानार्थमा वह । अभिमुख्येन प्रापय ॥ असि । हि चेति निघातप्रतिषेधः । सोमपीतये । पा पाने । स्थागापापचो भाव इति भावे क्तिन् । घुमास्थेतीत्वं । सोमस्य पीतिः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं । स्वर्दृशः । सुष्ठ्वर्ति गच्छतीति स्वरादित्यः । अर्तेरन्येभ्योऽपि दृश्यन्त इति विच् । तं पश्यन्तीति स्वर्दृशः । क्विप्चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं ॥ ९ ॥**
+> **हे अग्ने विशां प्रजानां सम्बन्धिनो येऽध्वरा योगास्तेषां पतिः पालकस्त्वं दूतोऽसि हि । देवानां वार्ताहारो भवसि खलु । उषर्बुध उषःकाले प्रबुद्धान् स्वर्दृशः सूर्यदर्शिनो देवानद्यास्मिन्दिने सोमपीतये सोमपानार्थमा वह । अभिमुख्येन प्रापय ॥ असि । हि चेति निघातप्रतिषेधः । सोमपीतये । पा पाने । स्थागापापचो भाव इति भावे क्तिन् । घुमास्थेतीत्वं । सोमस्य पीतिः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं । स्वर्दृशः । सुष्ठ्वर्ति गच्छतीति स्वरादित्यः । अर्तेरन्येभ्योऽपि दृश्यन्त इति विच् । तं पश्यन्तीति स्वर्दृशः । क्विप्चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं ॥**
 
 *he agne viśāṃ prajānāṃ sambandhino ye 'dhvarā yogās teṣāṃ patiḥ pālakas tvaṃ dūto 'si hi | devānāṃ vārtāhāro bhavasi khalu | uṣarbudha uṣaḥkāle prabuddhān svardṛśaḥ sūryadarśino devān adyāsmin dine somapītaye somapānārtham ā vaha | abhimukhyena prāpaya || asi | hi ceti nighātapratiṣedhaḥ | somapītaye | pā pāne | sthāgāpāpaco bhāva iti bhāve ktin | ghumāstheti ītvaṃ | somasya pītiḥ | dāsībhārāditvāt pūrvapadaprakṛtisvaratvaṃ | svardṛśaḥ | suṣṭhv arti gacchatīti svarādityaḥ | arter anyebhyo 'pi dṛśyanta iti vic | taṃ paśyantīti svardṛśaḥ | kvip ceti kvip | kṛduttarapadaprakṛtisvaratvaṃ || 9 ||*
 
-*(In the grammatical tail the words "svarādityaḥ" (for* svar ādityaḥ*, 'svar' = the Sun) and the rule-name* sthāgāpāpaco bhāve *are as read, doubtful [?].)*
+*(Checked on the better scan, PDF 537: "svarādityaḥ" and "sthāgāpāpaco bhāva iti" are clear in the print; the bhāṣya ends "॥" without a number.)*
 
-**Translation:** "O Agni, you, the *patiḥ*, the protector, of the *adhvarāṇām*, sacrifices that belong to *viśām*, the people — *dūtaḥ asi hi*, you are the messenger of the gods, the carrier of tidings. *Uṣarbudhaḥ*, the gods who have awakened at the time of Uṣas, *svardṛśaḥ*, who see the sun, *adya*, today, *somapītaye*, for the drinking of Soma, *ā vaha*, bring, make [them] reach face to face. *Asi*: the prohibition of *nighāta* by *hi ca*. *Somapītaye*: root *pā pāne*; *ktin* in the abstract sense by *sthāgāpāpacaḥ* [as read]; *ī* by *ghumāsthā…*; 'the drinking of Soma': by belonging to the *dāsībhārādi* group the first member keeps its accent. *Svardṛśaḥ*: '*suṣṭhu arti gacchati*' [gives] *svar*, the sun; *vic* by *anyebhyo 'pi dṛśyante* after *ṛ*; '*taṃ paśyanti*', those who see him: *svardṛśaḥ*; *kvip* by *kvip ca*; the accent of the first member in a compound ending in a *kṛt*."
+**Translation:** "O Agni, you, the *patiḥ*, the protector, of the *adhvarāṇām*, sacrifices that belong to *viśām*, the people — *dūtaḥ asi hi*, you are the messenger of the gods, the carrier of tidings. *Uṣarbudhaḥ*, the gods who have awakened at the time of Uṣas, *svardṛśaḥ*, who see the sun, *adya*, today, *somapītaye*, for the drinking of Soma, *ā vaha*, bring, make [them] reach face to face. *Asi*: the prohibition of *nighāta* by *hi ca*. *Somapītaye*: root *pā pāne*; *ktin* in the abstract sense by *sthāgāpāpaco bhāve*; *ī* by *ghumāsthā…*; 'the drinking of Soma': by belonging to the *dāsībhārādi* group the first member keeps its accent. *Svardṛśaḥ*: '*suṣṭhu arti gacchati*' [gives] *svar*, the sun; *vic* by *anyebhyo 'pi dṛśyante* after *ṛ*; '*taṃ paśyanti*', those who see him: *svardṛśaḥ*; *kvip* by *kvip ca*; the accent of the first member in a compound ending in a *kṛt*."
 
 **Pratipadārtha** *(p. 522)* — "**agne** — O Agni; **viśām** — of the people; **adhvarāṇām** — of the sacrifices; **patiḥ** — as protector; **dūtaḥ** — as messenger of the gods; **asi hi** — you are; **uṣarbudhaḥ** — those who rise at dawn; **svardṛśaḥ** — and who look at the sun; **devān** — the gods; **adya** — today; **somapītaye** — for the drinking of the Soma juice; **ā vaha** — bring [them] face to face to [us]."
 
@@ -8689,16 +8691,18 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 522–523**
 - **adhvarāṇāṃ patiḥ** — "*yajñānāṃ pālakaḥ*: the protector of sacrifices: 'protector of sacrifices or lord of the sacrifices' (English as printed). Lord of sacrifices: since Agni has pre-eminence in sacrifices, he is called *yajñapati*."
 - **viśāṃ** — "*prajānāṃ sambandhino ye adhvarās teṣām*: the commentator says it means 'the protector of the sacrifices that the people perform'. Rather than this, it seems more suitable to connect the word *viśām* with the word *dūtaḥ* and take *dūto viśām asi* as 'you are the messenger who goes from the people to the gods'."
+### Page 523
+
 - **uṣarbudhaḥ** — "the explanation of this word I have given in the first ṛk of this sūkta."
 - **svardṛśaḥ** — "*suṣṭhu arti gacchatīti svaḥ* — it is one who goes in the atmosphere; thus *svaḥ* means the Sun; those who see him are *svardṛśaḥ*. The gods are in heaven, so they look at the Sun who is in heaven. Or, taken with the word *uṣarbudhaḥ*: the gods who, rising at dawn, look at the Sun at the time of his rising."
 
 **Vyākaraṇa-prakriyā** *(pp. 523–524 — grammar pages, noted briefly)*
-- **patiḥ**: root *pā rakṣaṇe*; *pāter ḍatiḥ* — पातेर्डतिः — [Uṇ. 4-[?] as read]: the suffix *ḍati*, with loss of *ṭi*; by the suffix accent first-syllable acute (as printed: *ādyudātta*).
+- **patiḥ**: root *pā rakṣaṇe*; *pāter ḍatiḥ* — पातेर्डतिः — (no number printed): the suffix *ḍati*, with loss of *ṭi*; by the suffix accent first-syllable acute (as printed: *ādyudātta*).
 - **adhvarāṇām**: "*na vidyate dhvaraḥ* (injury) *yeṣu te adhvarāḥ*, of those"; a bahuvrīhi; *nañ-subhyām* gives the latter member final-acute.
-- **agne**: begins a *pāda*; the eighth-*adhyāya* unaccentedness does not come; *āmantritasya ca* gives first-syllable acute.
+- **agne**: begins a *pāda*; the eighth-*adhyāya* unaccentedness does not come; the sūtra of the sixth adhyāya gives the *āmantrita* first-syllable acute.
 - **asi**: root *as bhuvi*, *adādi*; *sip*; *śap* → *luk*; *tāsasty…* gives the loss of the *s* of the root; the prohibition of the wholly-unaccented by *hi ca*; *sip* being *pit* is unaccented.
-- **somapītaye**: "*ṣuñ abhiṣave*; *mun*… [Uṇ. 1-1-62 as read: *ārtistusuhusṛghṛkṣiptabhāyāvāpadiyakṣinībhyo man*]: the suffix *man* after *ṣuñ*, *guṇa*: *soma*; root *pā pāne*; *sthāgāpāpacō bhāve* — स्थागापापचो भावे — [Pā. 3-3-95 as read]: after these roots *ktin* in the abstract; *ghumāsthāgāpājahātisāṃ hali* [Pā. 6-4-66 as read]: *ī* for the *ā* of these roots before a *kit* or *ñit* *ārdhadhātuka* beginning with a consonant: *pīti*; '*somasya pītiḥ*': a *ṣaṣṭhī*-tatpuruṣa; *kurugārhapatarikta-guru-sūtajaratśleṣmīla* [— the rule *kurugārhapatarikta…* is Pā. 6-2-42 as read]: a list of seven compounds — words belonging to the *dāsībhārādi* group keep the accent of the first member, so the first member keeps its accent; the first member is first-syllable acute by the *nit*-accent; so this stays.
-- **svardṛśaḥ**: "*suṣṭhu ati* = goes [well], hence *svaḥ*, the Sun; '*ṛ gatau*' after *su* as *upapada*; *anyebhyo 'pi dṛśyante* [Pā. 3-2-75 as read]: *manin*, *kvanip*, *vanip*, *vic* — the four suffixes come after roots, hence *vic*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* with *raparatva*: *su + ar*; *yaṇ*: *svar*; '*svaḥ paśyanti*'; *kvip ca*: after *dṛśir prekṣaṇe*, *kvip*, *svardṛk*; by *gatikārakopapadāt kṛt* the *kṛt*-ending latter member keeps its accent; accusative plural *śas*: *svardṛśaḥ*." Rik 9 ends here (*|| 9 ||*).
+- **somapītaye**: "*ṣuñ abhiṣave*; *mun*… (Uṇ. 1-1-37 as printed, the last digit matching the 7 of "3-2-75" on p. 524: *artistusuhusṛdhṛkṣikṣubhāyāvāpadiyakṣinībhyo man*): the suffix *man* after *ṣuñ*, *guṇa*: *soma*; root *pā pāne*; *sthāgāpāpaco bhāve* — स्थागापापचो भावे — (Pā. 3-3-95): after these roots *ktin* in the abstract; *ghumāsthāgāpājahātisāṃ hali* (Pā. 6-4-66): *ī* for the *ā* of these roots before a *kit* or *ñit* *ārdhadhātuka* beginning with a consonant: *pīti*; '*somasya pītiḥ*': a *ṣaṣṭhī*-tatpuruṣa; *kurugārhapatarikta-guru-sūtajaratśleṣmīla* (Pā. 6-2-42): a list of seven compounds — words belonging to the *dāsībhārādi* group keep the accent of the first member, so the first member keeps its accent; the first member is first-syllable acute by the *nit*-accent; so this stays.
+- **svardṛśaḥ**: "*suṣṭhu ati* = goes [well], hence *svaḥ*, the Sun; '*ṛ gatau*' after *su* as *upapada*; *[p. 524]* *anyebhyo 'pi dṛśyante* (Pā. 3-2-75): *manin*, *kvanip*, *vanip*, *vic* — the four suffixes come after roots, hence *vic*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* with *raparatva*: *su + ar*; *yaṇ*: *svar*; '*svaḥ paśyanti*'; *kvip ca*: after *dṛśir prekṣaṇe*, *kvip*, *svardṛk*; by *gatikārakopapadāt kṛt* the *kṛt*-ending latter member keeps its accent; accusative plural *śas*: *svardṛśaḥ*." Rik 9 ends here (*|| 9 ||*).
 
 ---
 
