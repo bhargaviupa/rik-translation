@@ -7342,38 +7342,61 @@ is initially acute: the *a* after *m* is udātta. Because the *yad*-word (*yath�
 
 ---
 
-### Pages 301–302 — Sūkta 25, Rik 3
+### Page 301 — Sūkta 25, Rik 3
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वि मृळीकाय ते मनो रथीरश्वं न संदितम् ।
-> गीर्भिर्वरुण सीमहि ॥ ३ ॥
+> वि मृ॑ळी॒काय॑ ते॒ मनो॑ र॒थीरश्वं॒ न संदि॑तं ।
+> गी॒र्भिर्व॑रुण सीमहि ॥३॥
+>
+> *ví mṛḷīkā́ya te máno rathī́raśvaṃ ná sáṃditaṃ |*
+> *gīrbhírvaruṇa sīmahi ||3||*
 
-*vi mṛḷīkāya te mano rathīr aśvaṃ na saṃditam | gīrbhir varuṇa sīmahi || 3 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> वि । मृळीकाय । ते । मनः । रथीः । अश्वम् । न । संऽदितम् ॥ गीःऽभिः । वरुण । सीमहि ॥ ३ ॥
+> वि । मृळीकाय । ते । मनः । रथीः । अश्वं । न । संऽदितं । गीःऽभिः । वरुण । सीमहि ॥३॥
 
-*vi | mṛḷīkāya | te | manaḥ | rathīḥ | aśvam | na | saṃ-ditam || gīḥ-bhiḥ | varuṇa | sīmahi || 3 ||*
+> *vi | mṛḷīkāya | te | manaḥ | rathīḥ | aśvaṃ | na | saṃ-ditaṃ | gīḥ-bhiḥ | varuṇa | sīmahi ‖3‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 301)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> हे वरुण मृळीकायास्मत्सुखाय ते तव गीर्भिः स्तुतिभिर्वि सीमहि । विशेषेण बध्नीमः । प्रसादयाम इत्यर्थः । तत्र दृष्टान्तः । रथीः रथस्वामी संदितं सम्यक् खण्डितं दूरगमनेन श्रान्तमश्वं न अश्वमिव । यथा स्वामी श्रान्तमश्वं घासप्रदानादिना प्रसादयति तद्वत् ॥ रथीः । मत्वर्थीय ईकारः । संदितम् । दो अवखण्डने । निष्ठेति क्तः । द्यतिस्यतिमास्थामित्त्वं किति । पा. ६-४-४० । इतीकारान्तादेशः । गतिरनन्तरेति गतेः प्रकृतिस्वरत्वम् । गीर्भिः । सावेकाच इति भिस उदात्तत्वम् । सीमहि । षिञ् बन्धने । व्यत्ययेनात्मनेपदम् । बहुलं छन्दसीति विकरणस्य लुक् । वलि लोपः । पा. ६-१-६६ । यद्वा । षिञ् बन्धन इत्यस्माद्द्विकरणस्य लुक् । दीर्घश्छान्दसः ॥
+> हे वरुण मृळीकायास्मत्सुखाय ते तव गीर्भिः स्तुतिभिर्वि सीमहि । विशेषेण बध्नीमः । प्रसादयाम इत्यर्थः । तत्र दृष्टांतः । रथीः रथस्वामी संदितं सम्यक् खंडितं दूरगमनेन श्रांतमश्वं न अश्वमिव । यथा स्वामी श्रांतमश्वं घासप्रदानादिना प्रसादयति तद्वत् ॥ रथीः । मत्वर्थीय ईकारः । संदितं । दो अवखंडने । निष्ठेति क्तः । द्यतिस्यतिमास्थां । पा. ७-४-४० । इतीकारांतादेशः । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । गीर्भिः । सावेकाच इति भिस उदात्तत्वं । सीमहि । षिवु तंतुसंताने । व्यत्ययेनात्मनेपदं । बहुलं छंदसीति विकरणस्य लुक् । वलि लोपः । पा. ६-१-६६ । यद्वा । षिञ् बंधन इत्यस्माद्विकरणस्य लुक् । दीर्घश्छांदसः ॥
 
-*he varuṇa mṛḷīkāyāsmatsukhāya te tava gīrbhiḥ stutibhir vi sīmahi | viśeṣeṇa badhnīmaḥ | prasādayāma ity arthaḥ | tatra dṛṣṭāntaḥ | rathīḥ rathasvāmī saṃditaṃ samyak khaṇḍitaṃ dūragamanena śrāntam aśvaṃ na aśvam iva | yathā svāmī śrāntam aśvaṃ ghāsapradānādinā prasādayati tadvat || rathīḥ | matvarthīya īkāraḥ | saṃditam | do avakhaṇḍane | niṣṭheti ktaḥ | dyatisyatimāsthām itvaṃ kiti | pā. 6-4-40 | itīkārāntādeśaḥ | gatir anantareti gateḥ prakṛtisvaratvam | gīrbhiḥ | sāvekāca iti bhisa udāttatvam | sīmahi | ṣiñ bandhane | vyatyayenātmanepadam | bahulaṃ chandasīti vikaraṇasya luk | vali lopaḥ | pā. 6-1-66 | yadvā | ṣiñ bandhana ity asmād dvikaraṇasya luk | dīrghaś chāndasaḥ ||*
+> *he varuṇa mṛḷīkāyāsmatsukhāya te tava gīrbhiḥ stutibhirvi sīmahi | viśeṣeṇa badhnīmaḥ | prasādayāma ityarthaḥ | tatra dṛṣṭāṃtaḥ | rathīḥ rathasvāmī saṃditaṃ samyak khaṃḍitaṃ dūragamanena śrāṃtamaśvaṃ na aśvamiva | yathā svāmī śrāṃtamaśvaṃ ghāsapradānādinā prasādayati tadvat ‖ rathīḥ | matvarthīya īkāraḥ | saṃditaṃ | do avakhaṃḍane | niṣṭheti ktaḥ | dyatisyatimāsthāṃ | pā. 7-4-40 | itīkārāṃtādeśaḥ | gatiranaṃtara iti gateḥ prakṛtisvaratvaṃ | gīrbhiḥ | sāvekāca iti bhisa udāttatvaṃ | sīmahi | ṣivu taṃtusaṃtāne | vyatyayenātmanepadaṃ | bahulaṃ chaṃdasīti vikaraṇasya luk | vali lopaḥ | pā. 6-1-66 | yadvā | ṣiñ baṃdhana ityasmādvikaraṇasya luk | dīrghaśchāṃdasaḥ ‖*
 
-**Translation:** "O Varuṇa! For our happiness we bind (*vi sīmahi*) — we bring [your] mind (*manaḥ*) round — by your *gīrbhiḥ*, our praises: we propitiate. An illustration: *rathīḥ* — the chariot-owner — [propitiates] his horse that is *saṃditam* — wearied, broken down by going far — by giving it fodder and the like; so [we]. *Rathīḥ*: the *ī* in the sense of possession. *Saṃditam*: *do avakhaṇḍane*; *kta*; *i* for the root-vowel by P. 6-4-40 [*dyatisyatimāsthām it ti kiti*]; the *gati* keeps its accent. *Gīrbhiḥ*: acute on the ending by *sāvekāca*. *Sīmahi*: *ṣiñ bandhane* ['to bind'], the *ātmanepada* by *vyatyaya*; the *vikaraṇa* lost; the loss before *val* (P. 6-1-66); the lengthening is Vedic." *(Grammar page 302, noted briefly: the words treated are* rathīḥ *[*ratha* + *matup*-sense *ī*; accent],* saṃditam *[*sam* + *do* + *kta*; the *i* substitute by P. 7-4-40 *dyatisyatimāsthām ittiki kiti*; *gati* accent P. 6-2-49],* gīrbhiḥ *[*gir* + *bhis*; the rule *vor upadhāyāḥ* P. 8-2-76 lengthens the *i* before *r* to *ī*, hence *gīrbhiḥ*; the acute on the case-ending P. 6-1-168 *sāvekācas tṛtīyādir vibhaktiḥ*] and* sīmahi *[*ṣiñ bandhane*, class 5/9; the *ātmanepada* *laṭ* 1st plural *mahiṅ* with *vikaraṇa* *śnu* lost by *bahulaṃ chandasi*; the long *ī* is Vedic; the loss of *v* before *val* — P. 6-1-66 *lopo vyor vali*; the verb is lowered since it follows an acute word, P. 8-1-28]; numerals as read, pointers only.)*
+*(Numbers read at 450 dpi: पा. ७-४-४०, ६-१-६६. The print has no* मनः *in the gloss sentence.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 301)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa | **रथीः (rathīḥ)** — the owner of the chariot [the charioteer] | **संदितम् (saṃditam)** — fatigued by the long journey | **अश्वम् न (aśvam na)** — like the horse | **ते मनः (te manaḥ)** — your mind | **मृळीकाय (mṛḷīkāya)** — for our happiness | **गीर्भिः (gīrbhiḥ)** — with our praises | **वि सीमहि (vi sīmahi)** — we bind [we please].
+*Gist:* O Varuṇa, for our happiness we bind (win over) your mind with praises, as a chariot-owner soothes his horse worn out by a long journey with fodder and the like.
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! As a charioteer, by giving water and grass, makes his horse, tired from a long journey, agreeable, so do we, for our happiness, make your mind agreeable with our praises.
+**॥ Prati-padārthaḥ ॥** **वरुण (varuṇa)** — O Varuṇa | **रथीः (rathīḥ)** — the owner of the chariot (the charioteer) | **संदितं (saṃditaṃ)** — (by a long journey) worn out | **अश्वं न (aśvaṃ na)** — as (one) soothes the horse (by giving grass, water and so on) (so we too) | **मृळीकाय (mṛḷīkāya)** — for our happiness | **ते (te)** — your | **मनः (manaḥ)** — mind | **गीर्भिः (gīrbhiḥ)** — with words of praise | **वि सीमहि (vi sīmahi)** — we satisfy.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥** O Varuṇa, as a charioteer soothes his tired horse by giving it water and putting down grass, so we too, for our happiness, satisfy your mind with our words of praise.
+
+### Page 302 — Rik 3: English, Special Topics, grammar
+
+**॥ English Translation ॥** *(as printed)*
 
 > O Varuna, We soothe your mind by our praises for our good as a charioteer soothes (or unties) his weary horse.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 302)* **मृळीकाय** — for happiness. **रथीः अश्वं न संदितम्** — as the charioteer of a chariot gently pats with his hand his horse that has come tired and makes it settled, so we, by words of praise, appease you, Varuṇa; that is, we make you contented. **संदितम्** — *do avakhaṇḍane*: *samyak khaṇḍitam*, *dūragamanena śrāntam*: tired by long journeys; greatly fatigued, worn out, and the like.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**मृळीकाय (mṛḷīkāya)** — for happiness.
+
+**रथीः अश्वं न संदितं (rathīḥ aśvaṃ na saṃditaṃ)** — as the charioteer of a chariot soothes his horse that has come in tired by gently patting it with his hand, so we satisfy Varuṇa with words in the form of praise; that is, we make him pleased.
+
+**संदितं (saṃditaṃ)** — *do avakhaṇḍane*; *samyak khaṇḍitaṃ dūragamanena śrāntaṃ*: much fatigued, worn out by a long journey, and so on.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read at 450 dpi, v3a)*
+
+**रथीः (rathīḥ)** — *ratha asya asti iti rathīḥ*; the suffix *ī* in the possessive sense; nominative singular.
+
+**संदितम् (saṃditam)** — *do avakhaṇḍane*, divādi, with *sam*; *kta* in the past sense by "निष्ठा" (Pā. Sū. 3-2-102); by "द्यतिस्यतिमास्थामित्ति किति" (Pā. Sū. 7-4-40) these roots take *i* as final before a *t*-initial *kit* suffix: *saṃdita*; accusative singular; by "गतिरनन्तरः" (Pā. Sū. 6-2-49) the prefix keeps its accent: initially acute.
+
+**गीर्भिः (gīrbhiḥ)** — *gir* with *bhis*: the *i* lengthened by "र्वोरुपधाया दीर्घ इकः" (named in short, no number); by "सावेकाचः" (Pā. Sū. 6-1-168) the *bhis* after a monosyllable is udātta.
+
+**सीमहि (sīmahi)** — *ṣivu tantusantāne*, divādi; *s* for the initial *ṣ*; though parasmaipadin it takes the ātmanepada by *vyatyaya*; first plural; the *śyan* takes *luk* by "बहुलं छन्दसि"; the penultimate is lengthened (stem in *v*), and the *v* is dropped before a *val* by "लोपो व्योर्वलि" (Pā. Sū. 6-1-66). Or: *ṣiñ bandhane*, svādi, ubhayapadin; *luk* of the *śnu* by "बहुलं छन्दसि"; the lengthening is Vedic; *sīmahi*; the *tiṅanta* takes the *nighāta* accent. ॥३॥
 
 ---
 
