@@ -1431,70 +1431,80 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 - **asme**: *asmad* + seventh-case plural *sup*; *supāṃ sulug…* — Pā. 7-1-39 — gives *śe* in place of *sup*; *asmad + e*; by *śeṣe lopaḥ* — Pā. 7-2-90 the *ṭi* is lost; the *e* is acute by the acute-restoring accent; in the alternative of final-letter loss, *asma + e*, Vedic *pararūpa* and the single-substitute accent.
 - **akṣarā iva**: root *aśū vyāptau*; *aśnuvanti* = "they pervade [all]"; *akṣarāṇi* means water; the Uṇādi suffix *kṣara* after *aś*; *aś + śara*; *ś* → *ṣ* by *vraścabhrasja…ṣaḥ* — Pā. 8-2-66 as printed [sic: for 8-2-36; both glyphs have the top-left hook of 6]; *ṣ* → *k* by *ṣaḍhoḥ kassi*; *ṣatva*: *akṣara*; *jas*, replaced by *śi* by *jaśśasoḥ śiḥ* — Pā. 7-1-20; loss of *śi* by *śeś chandasi bahulam* — Pā. 6-1-70; the augment *num* by *napuṃsakasya jhalacaḥ* — Pā. 7-1-72; lengthening by *sarvanāmasthāne cāsambuddhau* — Pā. 6-4-8; loss of the *n*; compounded with *iva* as a nitya-samāsa. Rik 4 ends here (*|| 4 ||*).
 
-### Rik 34.5 (pp. 93–96, PDF 107–110)
+### Rik 34.5 (pp. 93–97, PDF 108–112)
 
-**Saṃhitā-pāṭha** *(p. 93; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 93; Saṃhitā accents as printed; Pada unaccented)*
 
-> **त्रिर्नो रयिं वहतमश्विना युवं त्रिर्देवताता त्रिरुतावतं धियः ।**
-> **त्रिः सौभगत्वं त्रिरुत श्रवांसि नस्त्रिष्ठं वां सूरे दुहिता रुहद्रथम् ॥ ५ ॥**
-
-*trir no rayiṃ vahatam aśvinā yuvaṃ trir devatātā trir utāvataṃ dhiyaḥ |*
-*triḥ saubhagatvaṃ trir uta śravāṃsi nas triṣṭhaṃ vāṃ sūre duhitā ruhad ratham || 5 ||*
+> त्रिर्नो॑ र॒यिं व॑हतमश्विना यु॒वं त्रिर्दे॒वता॑ता॒ त्रिरु॒ताव॑तं॒ धियः॑ ।
+> त्रिः सौ॑भग॒त्वं त्रिरु॒त श्रवां॑सि न॒स्त्रिष्ठं वां॒ सूरे॑ दुहि॒ता रु॑ह॒द्रथ॑म् ॥ ५ ॥
+>
+> *trír no rayíṃ vahatam aśvinā yuváṃ trir devátātā trír utā́vataṃ dhíyaḥ |*
+> *tríḥ saubhagatváṃ trir utá śrávāṃsi nas tríṣṭhaṃ vāṃ sū́re duhitā́ ruhad rátham || 5 ||*
 
 **Pada-pāṭha** *(p. 93)*
 
-> त्रिः । नः । रयिम् । वहतम् । अश्विना । युवम् । त्रिः । देवऽताता । त्रिः । उत । अवतम् । धियः ॥
+> त्रिः । नः । रयिम् । वहतम् । अश्विना । युवम् । त्रिः । देवऽताता । त्रिः । उत । अवतम् । धियः ।
 > त्रिः । सौभगऽत्वम् । त्रिः । उत । श्रवांसि । नः । त्रिऽस्थम् । वाम् । सूरे । दुहिता । आ । रुहत् । रथम् ॥ ५ ॥
 
-*triḥ | naḥ | rayim | vahatam | aśvinā | yuvam | triḥ | devatātā | triḥ | uta | avatam | dhiyaḥ ||*
+*triḥ | naḥ | rayim | vahatam | aśvinā | yuvam | triḥ | deva-tātā | triḥ | uta | avatam | dhiyaḥ |*
 *triḥ | saubhaga-tvam | triḥ | uta | śravāṃsi | naḥ | tri-stham | vām | sūre | duhitā | ā | ruhat | ratham || 5 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 93–94; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 93–94, in full; numerals zoom-checked)*
 
-> हे अश्विना युवं नोऽस्मभ्यं [read thus; the print is garbled: "नोऽस्मान्न ... यिं"] रयिं धनं त्रिर्वहतम् । त्रिवारं प्रापयतम् । देवताता देवताती देवैर्युक्ते कर्मणि त्रिस्त्रिवारमागच्छतमिति शेषः । उताऽपि च धियोऽस्मद्बुद्धीस्त्रिस्त्रिवारं रक्षतम् । सौभगत्वं सौभाग्यं त्रिर्वहतमिति शेषः । उताऽपि च श्रवांसि अन्नानि नोऽस्मभ्यं त्रिर्वहतम् । वां युवयोः सम्बन्धिनं त्रिष्ठं चक्रत्रयोपस्थितं रथं सूरे सूर्यस्य दुहिता पुत्री । दुहिता दुर्हिता दूरे हिता दोग्धेर्वा । नि. ३-४ [?] । इति यास्कः । सारूढवती ॥
+> हे अश्विना युवं नोऽस्मान्न[?] रयिं धनं त्रिर्वहतम् । त्रिवारं प्रापयतम् । देवताता देवतातौ देवैर्युक्ते कर्मणि त्रिस्त्रिवारमागच्छतमिति शेषः । उतापि च धियोऽस्मद्बुद्धीस्त्रिस्त्रिवारं रक्षतम् । सौभगत्वं सौभाग्यं त्रिर्वहतमिति शेषः । उतापि च श्रवांस्यन्नानि नोऽस्मभ्यं त्रिर्वहतम् । वां युवयोः संबन्धिनं त्रिष्ठं चक्रत्रयेऽवस्थितं रथं सूरे सूर्यस्य दुहिता पुत्री । दुहिता दुर्हिता दूरे हिता । नि. ३-३ । इति यास्कः । आरूढवती ॥ देवताता । सर्वदेवात्तातिल् । पा. ४-४-१४२ । इति स्वार्थिकस्तातिल्प्रत्ययः । तेन देवतातिशब्देन देवसंबद्धो यज्ञो लक्ष्यते । देवताता मख इति तन्नामसु पठितत्वात् । लितीति प्रत्ययात्पूर्वस्योदात्तत्वम् । सुपां सुलुगिति सप्तम्या डादेशः । त्रिष्ठम् । त्रिषु चक्रेषु तिष्ठतीति त्रिष्ठः । सुपि स्थः । पा. ३-२-४ । इति कः । अम्बाम्बेत्यादिना । पा. ८-३-९७ । सकारस्य षत्वम् । सूरे । षू प्रेरणे । सुसूधागृधिभ्यः क्रन् । उ. ४-२५ । इति क्रन् । नित्त्वादाद्युदात्तः । विभक्तिव्यत्ययः । आ रुहत् । कृमृदृरुहिभ्यश्छन्दसि । पा. ३-१-५९ । इति च्लेरङादेशः ॥
 
-*he aśvinā yuvaṃ no 'smabhyaṃ [the print is garbled here] rayiṃ dhanaṃ trir vahatam | trivāraṃ prāpayatam | devatātā devatātau devair yukte karmaṇi tris trivāram āgacchatam iti śeṣaḥ | utāpi ca dhiyo 'smadbuddhīs tris trivāraṃ rakṣatam | saubhagatvaṃ saubhāgyaṃ trir vahatam iti śeṣaḥ | utāpi ca śravāṃsi annāni no 'smabhyaṃ trir vahatam | vāṃ yuvayoḥ sambandhinaṃ triṣṭhaṃ cakratrayopasthitaṃ rathaṃ sūre sūryasya duhitā putrī | duhitā durhitā dūre hitā dogdher vā | ni. 3-4 [?] | iti yāskaḥ | sārūḍhavatī ||*
+*he aśvinā yuvaṃ no 'smānna[?] rayiṃ dhanaṃ trirvahatam | trivāraṃ prāpayatam | devatātā devatātau devairyukte karmaṇi tristrivāramāgacchatamiti śeṣaḥ | utāpi ca dhiyo 'smadbuddhīstristrivāraṃ rakṣatam | saubhagatvaṃ saubhāgyaṃ trirvahatamiti śeṣaḥ | utāpi ca śravāṃsyannāni no 'smabhyaṃ trirvahatam | vāṃ yuvayoḥ saṃbandhinaṃ triṣṭhaṃ cakratraye 'vasthitaṃ rathaṃ sūre sūryasya duhitā putrī | duhitā durhitā dūre hitā | ni. 3-3 | iti yāskaḥ | ārūḍhavatī ‖ devatātā | sarvadevāttātil | pā. 4-4-142 | iti svārthikastātilpratyayaḥ | tena devatātiśabdena devasaṃbaddho yajño lakṣyate | devatātā makha iti tannāmasu paṭhitatvāt | litīti pratyayātpūrvasyodāttatvam | supāṃ sulugiti saptamyā ḍādeśaḥ | triṣṭham | triṣu cakreṣu tiṣṭhatīti triṣṭhaḥ | supi sthaḥ | pā. 3-2-4 | iti kaḥ | ambāmbetyādinā | pā. 8-3-97 | sakārasya ṣatvam | sūre | ṣū preraṇe | susūdhāgṛdhibhyaḥ kran | u. 4-25 | iti kran | nittvādādyudāttaḥ | vibhaktivyatyayaḥ | ā ruhat | kṛmṛdṛruhibhyaśchandasi | pā. 3-1-59 | iti cleraṅādeśaḥ ‖*
 
-**Translation:** "O Aśvins, *triḥ vahatam* — bring three times — *rayim*, wealth, to us. *Devatātā* — at the rite that is joined with gods — come thrice (so the sentence is to be completed). *Uta* — and — *dhiyaḥ*, our thoughts, *avatam* — protect, thrice. *Saubhagatvam* — good fortune — [bring] thrice, as is to be supplied. And *śravāṃsi*, food [for us], bring thrice. *Vām* — your *triṣṭham* — [the chariot] standing on three wheels — *ratham*, the chariot, *sūre duhitā* — the Sun's daughter, his *duhitā*: '*duhitā* is *durhitā* (ill-placed [= placed far away]), or *dūre hitā* (placed far), or from *dogdhi* (milks)' (Ni. 3-4 [?]), so says Yāska — *ā ruhat* — has mounted."
+(As printed: "ನೋಽಸ್ಮಾನ್ನ್ರಯಿಂ" — the word after *naḥ* is garbled in the print (for *no 'smabhyaṃ*?); the Nirukta reference in the bhāṣya is printed 3-3 (both glyphs ೩), the Special Topics print 3-4; the Uṇādi number is read 4-25 (the grammar on p. 96 prints 2-182).)
 
-**Grammar within the bhāṣya** *(p. 94, characterized)*: *devatātā* (*devatāti* is the suffix *tātil* added in its own sense, so the word denotes a sacrifice connected with the gods; *devatātā mukhaḥ* is read among the names of the sacrifice in the Nirukta; the accent of the syllable before *lit*-suffixes is acute; *ḍā* in place of the seventh-case ending by *supāṃ sulug…*); *triṣṭham* (*triṣu cakreṣu tiṣṭhatīti triṣṭhaḥ*; the suffix *ka* after *sthā* when a *sup*-ending word is the *upapada*, by *supi sthaḥ* — सुपि स्थः — Pā. 3-2-4; *s* → *ṣ* by the rule beginning *ambāmbagobhūmi…*); *sūre* (root *ṣū preraṇe*; the Uṇādi suffix *kran* after *su*, *sū*, *dhā*, *gṛdhi* [Uṇ. 2-[?]]; the initial acute of a *nit* suffix; the seventh case in place of the first by *vyatyaya*); *ā ruhat* (root *ruha*; *aṅ* in place of *cli* in the Veda by *kṛmṛdṛruhibhyaś chandasi* — कृमृदृरुहिभ्यश्छन्दसि — Pā. 3-1-59).
+**Translation:** "O Aśvins, *triḥ vahatam* — bring three times — *rayim*, wealth, to us. *Devatātā* — at the rite that is joined with gods — come thrice (so the sentence is to be completed). *Uta* — and — *dhiyaḥ*, our thoughts, *avatam* — protect, thrice. *Saubhagatvam* — good fortune — [bring] thrice, as is to be supplied. And *śravāṃsi*, food [for us], bring thrice. *Vām* — your *triṣṭham* — [the chariot] standing on three wheels — *ratham*, the chariot, *sūre duhitā* — the Sun's daughter, his *duhitā*: '*duhitā* is *durhitā* (ill-placed [= placed far away]), or *dūre hitā* (placed far), or from *dogdhi* (milks)' (Ni. 3-3 as printed), so says Yāska — *ā ruhat* — has mounted."
+
+### Page 94
+
+(The grammatical tail, transcribed above, runs onto p. 94: *devatātā* — the self-sense suffix *tātil* by *sarvadevāt tātil*, Pā. 4-4-142, so the sacrifice connected with the gods is indicated, since *devatātā* is read among its names (with *makha*); the syllable before a *lit* suffix is acute; *ḍā* for the locative by *supāṃ suluk…*; *triṣṭham* — "standing on three wheels", *ka* by *supi sthaḥ*, Pā. 3-2-4, *ṣ* by *ambāmba…*, Pā. 8-3-97; *sūre* — root *sū* "to impel", *kran* by *susūdhāgṛdhibhyaḥ kran*, initial acute as *nit*, case-ending by *vyatyaya*; *ā ruhat* — *aṅ* for *cli* by *kṛmṛdṛruhibhyaś chandasi*, Pā. 3-1-59.)
 
 **Pratipadārtha** *(p. 94)* — "**aśvinā** — O Aśvin deities; **yuvam** — you; **naḥ** — to us; **rayim** — wealth; **triḥ vahatam** — bring thrice; **devatātā** — at our rite meant for the gods; **triḥ** [**āgacchatam**] — come three times; **uta** — and; **dhiyaḥ** — our thoughts; **triḥ** [**rakṣatam**] — protect thrice; **saubhagatvam** — prosperity; **triḥ** [**vahatam**] — bring thrice; **uta** — and; **śravāṃsi** — food; **naḥ** — to us; **triḥ** [**vahatam**] — bring thrice; **vām** — your; **triṣṭham** — [which stands] on three wheels; **ratham** — chariot; **sūre** — of the Sun; **duhitā** — daughter; **ā ruhat** — mounted."
 
-**Bhāvārtha** *(p. 94)* — "O Aśvin deities, the daughter of the Sun has mounted your chariot, which rests on three wheels. [Pleased with that,] grant us wealth and prosperity thrice; come thrice to the rites we perform in honour of the gods; protect our thoughts thrice. Give us food thrice."
+**Bhāvārtha** *(p. 94)* — "O Aśvin deities, the daughter of the Sun, your wife, has mounted your chariot, which rests on three wheels. [Pleased with that,] grant us wealth and prosperity thrice; come thrice to the rites we perform in honour of the gods; protect our thoughts thrice. Give us food thrice."
 
 **English Translation (the source's own, p. 94)** — "O Aswins, thrice bestow upon us riches; thrice approach our divine rite ; thrice protect our intellects; thrice grant us prosperity and thrice food ; the daughter of the Sun has ascended your three-wheeled car."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 94–95**
+### Page 95 [Special Topics, continued]
+
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 94–95** (they begin on p. 94 with *triṣṭham* and *sūre duhitā*)
 - **triṣṭham** = *triṣu cakreṣu tiṣṭhatīti triṣṭhaḥ*: "a chariot with three wheels."
 - **sūre duhitā** = *sūryasya putrī*: "the daughter of the Sun: the goddess Sūryā, or Sāvitrī. On this Yāska says:"
 
-> दुहिता दुर्हिता दूरे हिता दोग्धेर्वा ॥ (नि. ३-४ [?])
+> दुहिता दुर्हिता दूरे हिता दोग्धेर्वा ॥ (नि. ३-४)
 
-*duhitā durhitā dūre hitā dogdher vā || (ni. 3-4 [?])*
+*duhitā durhitā dūre hitā dogdher vā || (ni. 3-4)*
 
 "That is: *durhitā* — she who is ill-placed [= made to live elsewhere] where she is given; for she, in the very place where she is given [in marriage], is *durhitā*; or *dūre satī sā pituḥ hitā pathyā bhavatīti duhitety ucyate* — 'being far off she is [still] a benefit to her father, so she is called *duhitā*'; or *dogdher vā* — 'from the root *duh*, since she is always milking wealth from her father by requests'. *Duhitā* means daughter. Since a girl dwelling in her husband's house is not well placed among strangers, she is called *durhitā* or *duhitā*; or, since she lives in the husband's house, far from her father's home, the daughter is named *dūre hitā*, 'placed afar'; or, since she, entreating her father (many times pressing him), takes wealth and the like for her husband, the daughter is named *duhitā*: so Yāska has explained the word *duhitā* in his Nirukta."
 - **sūre duhitā ruhad ratham**: "On the thought that the Sun's daughter mounted the chariot of the Aśvins, see what we have written in the Special Topics of the second ṛk of this sūkta [*sic*: the print says 'the 2nd'; the relevant matter is in the notes on Rik 2, pp. 83–84]. And:"
 
-> युवो रथं दुहिता सूर्यस्य सह श्रिया नासत्यावृणीत ॥ (ऋ. सं. १-११६-१७ [?])
-> आ वां रथं युवतिस्तिष्ठदत्र जुष्ट्वी नरा दुहिता सूर्यस्य ॥ (ऋ. सं. १-११९-५ [?])
-> आ यद्वां सूर्या रथं तिष्ठद्रघुष्यदं सदा ॥ (ऋ. सं. ५-७३-५ [?])
+> युवो रथं दुहिता सूर्यस्य सह श्रिया नासत्यावृणीत ॥ (ऋ. सं. १-११७-१३)
+> आ वां रथं युवतिस्तिष्ठदत्र जुष्ट्वी नरा दुहिता सूर्यस्य ॥ (ऋ. सं. १-११८-५)
+> आ यद्वां सूर्या रथं तिष्ठद्रघुष्यदं सदा ॥ (ऋ. सं. ५-७३-५)
 
-*yuvo rathaṃ duhitā sūryasya saha śriyā nāsatyāvṛṇīta || (ṛ. saṃ. 1-116-17 [?])*
-*ā vāṃ rathaṃ yuvatis tiṣṭhad atra juṣṭvī narā duhitā sūryasya || (ṛ. saṃ. 1-119-5 [?])*
-*ā yad vāṃ sūryā rathaṃ tiṣṭhad raghuṣyadaṃ sadā || (ṛ. saṃ. 5-73-5 [?])*
+*yuvo rathaṃ duhitā sūryasya saha śriyā nāsatyāvṛṇīta || (ṛ. saṃ. 1-117-13)*
+*ā vāṃ rathaṃ yuvatis tiṣṭhad atra juṣṭvī narā duhitā sūryasya || (ṛ. saṃ. 1-118-5)*
+*ā yad vāṃ sūryā rathaṃ tiṣṭhad raghuṣyadaṃ sadā || (ṛ. saṃ. 5-73-5)*
 
-"These ṛks inform us that the Sun's daughter was seated in the chariot of the Aśvins; for in some places it is said that the Aśvins married the Sun's daughter. Therefore, descriptions are suggested here and there that the Aśvins seated the Sun's daughter, who was dear to them, in their chariot and travelled toward their home." *(The source leaves these ṛks untranslated. My glosses, **mine and tentative**: 1. "O Nāsatyas, the Sun's daughter chose your chariot, with [her] splendour"; 2. "The maiden, the Sun's daughter, rejoicing, mounted your chariot here, O heroes"; 3. "When Sūryā mounted your swift-running chariot always". The reference numerals are read from small Kannada digits and are [?].)*
+"These ṛks inform us that the Sun's daughter was seated in the chariot of the Aśvins; for in some places it is said that the Aśvins married the Sun's daughter. Therefore, descriptions are suggested here and there that the Aśvins seated the Sun's daughter, who was dear to them, in their chariot and travelled toward their home." *(The source leaves these ṛks untranslated. My glosses, **mine and tentative**: 1. "O Nāsatyas, the Sun's daughter chose your chariot, with [her] splendour"; 2. "The maiden, the Sun's daughter, rejoicing, mounted your chariot here, O heroes"; 3. "When Sūryā mounted your swift-running chariot always". The references zoom-checked: 1-117-13 and 1-118-5 replace 1-116-17 and 1-119-5.)*
 
-**Vyākaraṇa-prakriyā** *(pp. 95–96, PDF 109–110 — grammar pages, noted briefly)*
-*Note on page numbering:* the leaf at **PDF 110** carries a printed **95** in its header — the same number as the preceding leaf (PDF 109) — although its text continues without repeat; so it is evidently a misprint for 96. The offset (printed = PDF − 14) is therefore kept, and the printed number "95" on PDF 110 is read as 96.
-- **devatātā** (p. 95): *sarvadevāt tātil* — सर्वदेवात्तातिल् — Pā. 4-4-142 [as printed; I recall this as 4-4-142]: the suffix *tātil* is added, in its own sense, after the words *sarva* and *deva*; so *deva + tāti* — *devatāti* means "the divine [thing]"; the page notes that here the sacrifice with divinities is denoted by *lakṣaṇā*; Yāska reads this word among the names of sacrifice in the Nirukta (*devatātā makhaḥ*, Ni. 3-[?]-[?] [?]). *Lit* (*litī* — लिति — Pā. 6-1-193): the vowel before a suffix with *l* as the marker is acute; hence the *va* is acute. After *devatāti*, the *ṅi*-ending, replaced by *ḍā* by *supāṃ sulug…*; the *ḍ* of *ḍā* [as the page says, on the strength of the marker] causes loss of *ṭi*.
-- **triṣṭham** (p. 96): *triṣu tiṣṭhati iti triṣṭhaḥ* — "that which stands on three"; root *ṣṭhā gatinivṛttau*, the *ṣ* → *s*; the *ṣ* of *ṣṭhā* is dropped by *nimittāpāye naimittikasyāpy apāyaḥ*; *sthā*, *supi sthaḥ* — सुपि स्थः — Pā. 3-2-4 [as printed 3-2-[?]], which the print divides as *supi — sthaḥ*. The print then discusses the paribhāṣā *kṛtrimākṛtrimayoḥ kṛtrimasyaivagrahaṇam* — कृत्रिमाकृत्रिमयोः कृत्रिमस्यैवग्रहणम् — ("where both the technical and the non-technical are possible, only the technical is taken"): the word *sup* as seventh-case plural; if *sup* is formed as a *pratyāhāra* — the first *su* of the case-endings together with the *p* of the last, by *ādir antyena sahetā* — आदिरन्त्येन सहेता — Pā. 1-1-71 — it indicates all the twenty-one case-endings, a convention made by the sages of Pāṇini's school; so by the paribhāṣā just mentioned *sup* here covers all twenty-one endings. *Dhātoḥ* — धातोः — Pā. 3-1-91 is the governing heading; *kartari kṛt* — कर्तरि कृत् — Pā. 3-4-67 makes it agentive; so when a *sup*-ending word is the *upapada*, the suffix *ka* comes after roots in the agent sense: after the *sthā* with the object word *tri* as *upapada* in the verbal-noun [read: agent] sense; *kṛdanta* status, *prātipadika* status, loss of the *sup* by *luk*; *tri + sthā + a*; loss of *ā* by *ātolopa iṭi ca* — Pā. 6-4-64; then *ambāmbagobhūmisavyāpadvitriku­śekuśaṅkvaṅgumañjipuñjiparame barhirdivyagnibhyaḥ sthaḥ* — अम्बाम्बगोभूमिसव्यापद्वित्रिकुशेकुशङ्क्वङ्गुमञ्जिपुञ्जिपरमे बर्हिर्दिव्यग्निभ्यः स्थः — Pā. 8-3-97: after these eighteen words — *amba*, *āmba*, *go*, *bhūmi*, *savya*, *apa*, *dvi*, *tri*, *kuśe*, *ku*, *śaṅku*, *aṅgu*, *mañji*, *puñji*, *parame*, *barhis*, *divi*, *agni* — the *s* of a *sthā* ending in a *ka*-suffix becomes *ṣ*; *ṣṭunā ṣṭuḥ* — ष्टुना ष्टुः — Pā. 8-4-41: the second letter of the *t*-class, *th*, becomes *ṭh*: *triṣṭha*; second-case singular.
-- **sūre** (p. 96): root *ṣū preraṇe* ("to impel"); *ṣ* → *s* by *dhātvādeḥ ṣaḥ saḥ* — Pā. 6-1-64; the Uṇādi sūtra *susūdhāgṛdhibhyaḥ kran* — सुसूधागृधिभ्यः क्रन् — [Uṇ. 2-[?]] — gives *kran* after the roots *ṣuñ abhiṣave*, *ṣū preraṇe*, *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *gṛdhu abhikāṅkṣāyām*; so *kran* after *sū*: *sū + ra*; the suffix is *kit* [read: *nit*? the print says *kittvāt*], so there is no *guṇa*; the *nit* accent makes the first syllable acute; the seventh case is used for the first by Vedic *vyatyaya*.
+**Vyākaraṇa-prakriyā** *(pp. 95–97, grammar pages — noted briefly; numerals zoom-checked)*
 
-### Rik 34.5 — Vyākaraṇa-prakriyā, concluded (p. 97, PDF 111; grammar page, noted briefly)
+- **devatātā** (p. 95): *sarvadevāt tātil* — सर्वदेवात्तातिल् (*sarvadevāt tātil*) — Pā. 4-4-142: after *sarva* and *deva* the suffix *tātil* comes in the self-sense: *deva + tāti*; *devatāti* means simply "deity"; here the sacrifice connected with the deity is conveyed by *lakṣaṇā*. Yāska reads the word among the names of sacrifice, *devatātā makhaḥ* (Ni. 3-17-10 as printed, zoom-checked: the middle glyph is the flat-footed 7). *Liti* — लिति (*liti*) — Pā. 6-1-193: before a suffix with the marker *l* the preceding syllable is acute, so *va* is acute.
 
-- **ā ruhat**: root *ruha bījajanmani prādurbhāve ca*; *luṅ*, the augment *aṭ*, *cli*; *cli luṅi* — च्लि लुङि — Pā. 3-1-43; by *kṛmṛdṛruhibhyaś chandasi* — कृमृदृरुहिभ्यश्छन्दसि — Pā. 3-1-59 — *cli* after *ḍukṛñ karaṇe*, *mṛṅ prāṇatyāge*, *dṛ vidāraṇe*, *ruha bījajanmādau* optionally becomes *aṅ* in the Veda: *cli* → *aṅ*; *ā* + *ruha*; *savarṇadīrgha*; *āruhat* — "in the world it would be *ārukṣat*". Rik 5 ends here (*|| 5 ||*).
+### Page 96
+
+(*devatātā*, continued) After *devatāti* the ending *ṅi*; by *supāṃ suluk…* *ḍā* replaces *ṅi*, and by the force of its *ḍ*-marker the *ṭi* is dropped.
+- **triṣṭham**: *triṣu tiṣṭhatīti triṣṭhaḥ* — the chariot standing on three wheels; root *ṣṭhā gatinivṛttau*, *s* for *ṣ*; by *nimittāpāye…* the cerebralisation goes: *sthā*; *supi sthaḥ* — सुपि स्थः (*supi sthaḥ*) — Pā. 3-2-4, a sūtra the print says is split into *supi* and *sthaḥ*. The paribhāṣā *kṛtrimākṛtrimayoḥ kṛtrimasyaiva grahaṇam* — कृत्रिमाकृत्रिमयोः कृत्रिमस्यैव ग्रहणम् — "where both the technical and the ordinary sense are possible, the technical is taken": *sup* as a word is the locative plural, but taken with the *p* of *sup* by *ādir antyena sahetā* — आदिरन्त्येन सहेता (*ādir antyena sahetā*) — Pā. 1-1-71 it is the *pratyāhāra* of all twenty-one case-endings, Pāṇini's convention, so all twenty-one are meant. *Dhātoḥ* — धातोः (*dhātoḥ*) — Pā. 3-1-91 is the heading; by *kartari kṛt* — कर्तरि कृत् (*kartari kṛt*) — Pā. 3-4-67 the suffix is in the agent sense. So: with a *sup*-ending word as upapada, *ka* after roots in the agent sense (the first part, *supi*); and by the second part, with a *sup*-ending upapada, *ka* after *sthā* in the state-sense; here, by the first part, *ka* after *sthā* in the agent sense; as a *kṛdanta* it is a *prātipadika* and its *sup* is dropped: *tri + sthā + a*; *āto lopa iṭi ca* — आतो लोप इटि च (*āto lopa iṭi ca*) — Pā. 6-4-64 drops the *ā*: *tri + stha*; *ambāmbagobhūmisavyāpadvitrikuśekuśaṅkvaṅgumañjipuñjiparamebarhirdivyagnibhyaḥ sthaḥ* — अम्बाम्बगोभूमिसव्यापद्वित्रिकुशेकुशङ्क्वङ्गुमञ्जिपुञ्जिपरमेबर्हिर्दिव्यग्निभ्यः स्थः — Pā. 8-3-97: after these eighteen words (*amba*, *āmba*, *go*, *bhūmi*, *savya*, *apa*, *dvi*, *tri*, *kuśe*, *ku*, *śaṅku*, *aṅgu*, *mañji*, *puñji*, *parame*, *barhis*, *divi*, *agni*) the *s* of *sthā* ending in the *ka*-suffix becomes *ṣ*; *ṣṭunā ṣṭuḥ* — ष्टुना ष्टुः (*ṣṭunā ṣṭuḥ*) — Pā. 8-4-4 as printed [sic: for 8-4-41] gives *ṭh* for *th*; accusative singular.
+- **sūre**: root *ṣū preraṇe*; *s* for *ṣ* by *dhātvādeḥ ṣaḥ saḥ*; *susūdhāgṛdhibhyaḥ kran* — सुसूधागृधिभ्यः क्रन् (*susūdhāgṛdhibhyaḥ kran*) — Uṇ. Sū. 2-182: after *ṣuñ abhiṣave*, *ṣū preraṇe*, *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *gṛdhu abhikāṅkṣāyām* the suffix *kran*: *sū + ra*; as the suffix is *kit* there is no *guṇa*, and by the *nit* accent the first syllable is acute. The locative stands for the nominative by Vedic usage.
+
+### Page 97
+
+- **ā ruhat**: root *ruha bījajanmani prādurbhāve ca*; *luṅ*, the augment *aṭ*; *cli luṅi* — च्लि लुङि (*cli luṅi*) — Pā. 3-1-43 gives *cli*: *aruh + cli*; *luṅ*, *tip*, loss of *i*; *kṛmṛdṛruhibhyaś chandasi* — कृमृदृरुहिभ्यश्छन्दसि (*kṛmṛdṛruhibhyaś chandasi*) — Pā. 3-1-59: after *ḍukṛñ karaṇe*, *mṛṅ prāṇatyāge*, *dṛ vidāraṇe*, *ruha bījajanmādau*, *cli* optionally becomes *aṅ* in the Veda; with the preverb *āṅ*, *savarṇadīrgha*: *āruhat*; in the classical language *ārukṣat*. Rik 5 ends here (*|| 5 ||*); a tailpiece ornament follows.
 
 ### Rik 34.6 (pp. 97–100, PDF 111–114)
 
