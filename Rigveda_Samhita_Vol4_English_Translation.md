@@ -9395,15 +9395,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 45.4 (pp. 553–555, PDF 567–569)
+### Rik 45.4 (pp. 553–555, PDF 567–569; better scan PDF 568–570)
 
-**Saṃhitā-pāṭha** *(p. 553; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 553)*
 
-> **महिकेरव ऊतये प्रियमेधा अहूषत ।**
-> **राजन्तमध्वराणामग्निं शुक्रेण शोचिषा ॥ ४ ॥**
+> **महि॑केरव ऊ॒तये॑ प्रि॒यमे॑धा अहूषत ।**
+> **राज॑न्तमध्व॒राणा॑म॒ग्निं शु॒क्रे॑ण शो॒चिषा॑ ॥ ४ ॥**
 
-*mahikerava ūtaye priyamedhā ahūṣata |*
-*rājantam adhvarāṇām agniṃ śukreṇa śociṣā || 4 ||*
+*máhikerava ūtáye priyámedhā ahūṣata |*
+*rā́jantam adhvarā́ṇām agníṃ śukreṇa śocíṣā || 4 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 553)*
 
@@ -9413,13 +9415,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 *mahi-keravaḥ | ūtaye | priya-medhāḥ | ahūṣata |*
 *rājantam | adhvarāṇām | agnim | śukreṇa | śociṣā || 4 ||*
 
+### Page 554
+
 **Sāyaṇa-bhāṣya** *(p. 554)*
 
-> **महिकेरवः प्रौढकर्माणः प्रियमेधाः प्रियेण यज्ञेनोपेता ऋषयः ऊतये रक्षार्थमग्निमहूषत । आहूतवन्तः । कीदृशं अध्वराणां यज्ञानां मध्ये शुक्रेण शोचिषा शुद्धेन प्रकाशेन राजन्तं दीप्यमानं ॥ महिकेरवः । मह पूजायां । औणादिक इन्प्रत्ययः । डुकृञ् करणे । कृवापाजीत्युण् [?] । महयो महान्तः कारवो येषां ते तथोक्ताः । आकारस्यैकारादेशश्छान्दसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । प्रियमेधाः । प्रियो मेधो येषां ते । आहूषत । ह्वेञ् स्पर्धायां शब्दे च । लुङि [?] सिचि बहुलं छन्दसीति संप्रसारणं परपूर्वत्वं । हल इति दीर्घत्वं । आदेशप्रत्यययोरिति षत्वं ॥**
+> **महिकेरवः प्रौढकर्माणः प्रियमेधाः प्रियेण यज्ञेनोपेता ऋषयः ऊतये रक्षार्थमग्निमहूषत । आहूतवन्तः । कीदृशं अध्वराणां यज्ञानां मध्ये शुक्रेण शोचिषा शुद्धेन प्रकाशेन राजन्तं दीप्यमानं ॥ महिकेरवः । मह पूजायां । औणादिक इन्प्रत्ययः । डुकृञ् करणे । कृवापाजीत्युण् । महयो महान्तः कारवो येषां ते तथोक्ताः । आकारस्यैकारादेशश्छान्दसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । प्रियमेधाः । प्रियो मेधो येषां ते । आहूषत । ह्वेञ् स्पर्धायां शब्दे च । लुङि सिचि बहुलं छन्दसीति संप्रसारणं परपूर्वत्वं । हल इति दीर्घत्वं । आदेशप्रत्यययोरिति षत्वं ॥**
 
-*mahikeravaḥ prauḍhakarmāṇaḥ priyamedhāḥ priyeṇa yajñenopetā ṛṣayaḥ ūtaye rakṣārtham agnim ahūṣata | āhūtavantaḥ | kīdṛśaṃ adhvarāṇāṃ yajñānāṃ madhye śukreṇa śociṣā śuddhena prakāśena rājantaṃ dīpyamānaṃ || mahikeravaḥ | maha pūjāyāṃ | auṇādika inpratyayaḥ | ḍukṛñ karaṇe | kṛvāpājītyuṇ [?] | mahayo mahāntaḥ kāravo yeṣāṃ te tathoktāḥ | ākārasyaikārādeśaś chāndasaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | priyamedhāḥ | priyo medho yeṣāṃ te | āhūṣata | hveñ spardhāyāṃ śabde ca | luṅi [?] sici bahulaṃ chandasīti saṃprasāraṇaṃ parapūrvatvaṃ | hala iti dīrghatvaṃ | ādeśapratyayayor iti ṣatvaṃ ||*
+*mahikeravaḥ prauḍhakarmāṇaḥ priyamedhāḥ priyeṇa yajñenopetā ṛṣayaḥ ūtaye rakṣārtham agnim ahūṣata | āhūtavantaḥ | kīdṛśaṃ adhvarāṇāṃ yajñānāṃ madhye śukreṇa śociṣā śuddhena prakāśena rājantaṃ dīpyamānaṃ || mahikeravaḥ | maha pūjāyāṃ | auṇādika inpratyayaḥ | ḍukṛñ karaṇe | kṛvāpājītyuṇ | mahayo mahāntaḥ kāravo yeṣāṃ te tathoktāḥ | ākārasyaikārādeśaś chāndasaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | priyamedhāḥ | priyo medho yeṣāṃ te | āhūṣata | hveñ spardhāyāṃ śabde ca | luṅi sici bahulaṃ chandasīti saṃprasāraṇaṃ parapūrvatvaṃ | hala iti dīrghatvaṃ | ādeśapratyayayor iti ṣatvaṃ ||*
 
-*(Two small words in the tail are crowded: the Uṇādi-sūtra name "kṛvāpājī-…" and the mood-name "luṅi", marked [?].)*
+*("kṛvāpājītyuṇ" and "luṅi" are clear on the better scan, PDF 569.)*
 
 **Translation:** "The *mahikeravaḥ*, doers of mighty works, the *priyamedhāḥ*, sages joined to a dear sacrifice, *ahūṣata*, called (*āhūtavantaḥ*) Agni *ūtaye*, for protection. What kind of Agni? He who *rājantam*, shines, *śukreṇa śociṣā*, with pure light, among the *adhvarāṇām*, sacrifices. *Mahikeravaḥ*: root *maha pūjāyām*, the Uṇādi suffix *in*; root *ḍukṛñ karaṇe*, the suffix *uṇ*; 'those whose workers (*kāravaḥ*) are great (*mahayaḥ*)'; the substitution of *e* for *ā* is Vedic; in the bahuvrīhi the first member keeps its natural accent. *Priyamedhāḥ*: those whose *medha* (sacrifice) is dear. *Āhūṣata*: root *hveñ spardhāyāṃ śabde ca*; in the aorist with *sic* the Vedic *saṃprasāraṇa* ('*bahulaṃ chandasi*'), the *pūrvarūpa*, the lengthening by *halaḥ*, and the *ṣa* by *ādeśapratyayayoḥ*."
 
@@ -9427,17 +9431,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Bhāvārtha** *(p. 554)* — "The sages are of pure heart. They do excellent works. They love the sacrifice. The descendants of such a sage, Priyamedha, have called the god Agni, with prayers, both for their own protection and for the protection of the sacrifice. He is shining in the midst of the sacrifices with a pure flame."
 
-**English Translation (the source's own, p. 554)** — "The performers of great ceremonies, the offerers of acceptable sacrifices (or the Priyamedhas) have invoked for their protection Agni, shining with brilliant spelendour [sic] in the midst of sacrifices."
+**English Translation (the source's own, p. 554)** — "The performers of great ceremonies, the offerers of acceptable sacrifices (or the Priyamedhas) have invoked for their protection Agni, shining with brilliant splendour in the midst of sacrifices."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 554–555**
 - **mahikeravaḥ** — "*prauḍhakarmāṇaḥ*: [in Kannada] those who do great and great sacrifices and the like; [the source adds in English:] 'performers of great sacrifices'."
 - **priyamedhāḥ** — "*priyeṇa yajñenopetāḥ*: those who perform a sacrifice dear to the deities, or to Agni; or, if desired, the word may be said to mean the descendants of the sage Priyamedha."
 - **agniṃ śukreṇa śociṣā** — "Agni, who shines with a greatly radiant splendour." *(The sentence is cut off at the end of the line in the print, "… the shining Agni — …").*
 
+### Page 555
+
 **Vyākaraṇa-prakriyā** *(p. 555 — grammar page, noted briefly)*
-- **mahikeravaḥ**: root *maha pūjāyām*, the Uṇādi suffix *in*: *mahi*; root *ḍukṛñ karaṇe*, the suffix *uṇ* by the Uṇādi rule beginning *kṛ-vā-pā-ji-mi-sv…* (Uṇ. 1-1 as read; the print of the rule is crowded [?]) — कृ-वा-पा-जि-मि-स्वदि-साध्य-शूभ्य उण् [as I read it, [?]] — *kṛ-vā-pā-ji-mi-svadi-sādhy-aśūbhya uṇ*; *añco 'ñṇiti* (Pā. 7-2-115 as read [?]) — अचोऽञ्णिति — when a *ñit* or *ṇit* suffix follows, the final vowel of the *aṅga* takes *vṛddhi*: *ṛ* → *ār*; *mahikāru*; the *ā* becomes *e* by the Vedic rule; *mahikeru*; before *jas*, *guṇa* by *jasi ca*; *avādeśa*; *ru*, *visarga*. "*Mahayaḥ kāravaḥ yeṣāṃ te*", a bahuvrīhi; the first member keeps its natural accent.
+- **mahikeravaḥ**: root *maha pūjāyām*, the Uṇādi suffix *in*: *mahi*; root *ḍukṛñ karaṇe*, the suffix *uṇ* by the Uṇādi rule beginning *kṛ-vā-pā-ji-mi-sv…* (Uṇ. 1-1) — कृवापाजिमिस्वदिसाध्यशूभ्य उण् — *kṛvāpājimisvadisādhyaśūbhya uṇ*; *aco 'ñṇiti* (printed "Pā. 7-1-115" [as printed; for 7-2-115]) — अचोऽञ्णिति — when a *ñit* or *ṇit* suffix follows, the final vowel of the *aṅga* takes *vṛddhi*: *ṛ* → *ār*; *mahikāru*; the *ā* becomes *e* by the Vedic rule; *mahikeru*; before *jas*, *guṇa* by *jasi ca*; *avādeśa*; *ru*, *visarga*. "*Mahayaḥ kāravaḥ yeṣāṃ te*", a bahuvrīhi; the first member keeps its natural accent.
 - **priyamedhāḥ**: "*priyaḥ medhaḥ yeṣāṃ te*".
-- **āhūṣata**: root *hveñ spardhāyāṃ śabde ca*; *luṅ*; the *ātmanepada* by *svaritañitaḥ kartrabhiprāye kriyāphale* (Pā. 1-3-72 as read) — स्वरितञितः कर्त्रभिप्राये क्रियाफले — when the fruit of the action goes to the agent; *jhi* → *jha* → *ata*; *cleḥ sic* (Pā. 3-1-44 as read) the *sic* for *cli*; the *aṭ* augment; *āhve + s + jha*; *ātmanepadeṣv anataḥ* (Pā. 7-1-5 as read) gives *at* for *jha*; "*bahulaṃ chandasi*" (Pā. 6-1-34 as read) a variety of *saṃprasāraṇa* of the root *hveñ* in the Chandas; *ahu + e + s + ata*; *saṃprasāraṇāc ca* (Pā. 6-1-108 as read) makes a single *pūrvarūpa* substitute *u* for *u + e*; *halaḥ* (Pā. 6-4-2 as read) lengthens the *u* (the *saṃprasāraṇa* standing after a consonant at the end of the *aṅga*); *ādeśapratyayayoḥ* (Pā. 8-3-59 as read) gives *ṣ* for *s*: *āhūṣata*. **|| 4 ||**
+- **āhūṣata**: root *hveñ spardhāyāṃ śabde ca*; *luṅ*; the *ātmanepada* by *svaritañitaḥ kartrabhiprāye kriyāphale* (printed "Pā. 1-3-7" with one digit in the last group, the 2/7 glyph [?]; for 1-3-72) — स्वरितञितः कर्त्रभिप्राये क्रियाफले — when the fruit of the action goes to the agent; *jhi* → *jha* → *ata*; *cleḥ sic* (no number printed) the *sic* for *cli*; the *aṭ* augment; *āhve + s + jha*; *ātmanepadeṣv anataḥ* (no number printed) gives *at* for *jha*; "*bahulaṃ chandasi*" (Pā. 6-1-34) a variety of *saṃprasāraṇa* of the root *hveñ* in the Chandas; *ahu + e + s + ata*; *saṃprasāraṇāc ca* (Pā. 6-1-108) makes a single *pūrvarūpa* substitute *u* for *u + e*; *halaḥ* (Pā. 6-4-2) lengthens the *u* (the *saṃprasāraṇa* standing after a consonant at the end of the *aṅga*); *ādeśapratyayayoḥ* (no number printed) gives *ṣ* for *s*: *āhūṣata*. **|| 4 ||**
 
 ---
 
