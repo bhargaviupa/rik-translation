@@ -7774,13 +7774,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.7 (pp. 430–433, PDF 446–449; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 430)*
+**Saṃhitā-pāṭha** *(p. 430; accents as printed)*
 
-> **होतारं सप्त जुह्वो यजिष्ठं यं वाघतो वृणते अध्वरेषु ।**
-> **अग्निं विश्वेषामरतिं वसूनां सपर्यामि प्रयसा यामि रत्नम् ॥ ७ ॥**
+> **होता॑रं स॒प्त जु॒ह्वो॑३॒॑ यजि॑ष्ठं॒ यं वा॒घतो॑ वृ॒णते॑ अ॒ध्वरे॑षु ।**
+> **अ॒ग्निं विश्वे॑षामर॒तिं वसू॑नां सप॒र्यामि॒ प्रय॑सा॒ यामि॒ रत्न॑म् ॥ ७ ॥**
 
-*hotāraṃ sapta juhvo yajiṣṭhaṃ yaṃ vāghato vṛṇate adhvareṣu |*
-*agniṃ viśveṣām aratiṃ vasūnāṃ saparyāmi prayasā yāmi ratnam || 7 ||*
+*hótāraṃ saptá juhvò yájiṣṭhaṃ yáṃ vāgháto vṛṇáte adhváreṣu |*
+*agníṃ víśveṣām aratíṃ vásūnāṃ saparyā́mi práyasā yā́mi rátnam || 7 ||*
+
+*(The print marks the independent svarita of जुह्वो with the figure ೩ (३), carrying both marks. [accent ?]: the strokes over अध्वरेषु, विश्वेषाम् and रत्नम् stand on the syllable boundary and are not placed with certainty.)*
 
 **Pada-pāṭha** *(p. 430)*
 
@@ -7792,11 +7794,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 430)*
 
-> **सप्त सप्तसंख्याका जुह्वो होतारो वाघत ऋत्विजोऽध्वरेषु योगेषु यजिष्ठं यष्टृतमं होतारं देवानामाह्वातारं यमग्निं वृणते संभजन्ते विश्वेषां सर्वेषां वसूनामरतिं प्रापयितारं तमग्निं प्रयसा हविर्लक्षणेनान्नेन सपर्यामि । परिचरामि । रत्नं रमणीयं कर्मफलं च यामि । याचामि ॥**
+> **सप्त सप्तसंख्याका जुह्वो होतारो वाघत ऋत्विजोऽध्वरेषु यागेषु यजिष्ठं यष्टृतमं होतारं देवानामाह्वातारं यमग्निं वृणते संभजन्ते विश्वेषां सर्वेषां वसूनामरतिं प्रापयितारं तमग्निं प्रयसा हविर्लक्षणेनान्नेन सपर्यामि । परिचरामि । रत्नं रमणीयं कर्मफलं च यामि । याचामि ॥**
 
-*sapta saptasaṃkhyākā juhvo hotāro vāghata ṛtvijo 'dhvareṣu yogeṣu yajiṣṭhaṃ yaṣṭṛtamaṃ hotāraṃ devānām āhvātāraṃ yam agniṃ vṛṇate saṃbhajante viśveṣāṃ sarveṣāṃ vasūnām aratiṃ prāpayitāraṃ tam agniṃ prayasā havirlakṣaṇenānnena saparyāmi | paricarāmi | ratnaṃ ramaṇīyaṃ karmaphalaṃ ca yāmi | yācāmi ||*
+*sapta saptasaṃkhyākā juhvo hotāro vāghata ṛtvijo 'dhvareṣu yāgeṣu yajiṣṭhaṃ yaṣṭṛtamaṃ hotāraṃ devānām āhvātāraṃ yam agniṃ vṛṇate saṃbhajante viśveṣāṃ sarveṣāṃ vasūnām aratiṃ prāpayitāraṃ tam agniṃ prayasā havirlakṣaṇenānnena saparyāmi | paricarāmi | ratnaṃ ramaṇīyaṃ karmaphalaṃ ca yāmi | yācāmi ||*
 
-*(The tail, p. 431: on *vṛṇate* (*vṛñ saṃbhaktau*, *kryādi*), *aratim* (*ṛ gatiprāpaṇayoḥ*, Uṇādi *ati*), *saparyāmi* (*sapara pūjāyām*, *kaṇḍvādi*, *ya*), *yāmi* (*yāc*, loss of the letter) — characterized.)*
+*(The tail, p. 431: on *vṛṇate* (*vṛñ saṃbhaktau*, *kraiyādika*; suffix-accent), *aratim* (*ṛ gatiprāpaṇayoḥ*; *vahivasyartibhyaś cit*, Uṇ. 4-60: *ati*; end-acute), *saparyāmi* (*saparyatiḥ paricaraṇakarmā*; *sapara pūjāyām*, *kaṇḍvādi*: the accent of *yak* remains; at the head of a pāda: no *nighāta*), *yāmi* (for *yācāmi*: loss of a letter, Vedic) — characterized.)*
 
 **Translation of the bhāṣya:** "The seven *juhvaḥ*, hotṛs — the *vāghataḥ*, officiating priests — in the sacrifices (*adhvareṣu*) *vṛṇate*, choose (resort to) Agni, the most worshipful, the invoker of the gods; that Agni, who brings to all *vasūnām*, wealths, I serve *prayasā*, with food in the form of oblation, and *ratnam yāmi*, I ask for delightful fruit of rites."
 
@@ -7804,11 +7806,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Bhāvārtha** *(p. 431)* — "I worship, with food in the form of oblation, that Agni whom the seven priests who stand in the place of the hotṛ choose as the most worshipful invoker of the gods in sacrifices, the giver of all wealth; and I ask of him lovely wealth."
 
-**English Translation (the source's own, p. 431)** — "I worship with oblations that Agni whom the seven invoking priests invite as the invoker of the gods; who is most worthy of adoration at sacrifices, and who is the giver of all riches; I solicit of him riches;"
+**English Translation (the source's own, p. 431)** — "I worship with oblations that Agni whom the seven invoking priests invite as the invoker of the gods; who is most worthy of adoration at sacrifies [sic], and who is the giver of all riches; I solicit of him riches;"
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 431–432**
 - **sapta juhvaḥ** — "The seven hotṛs; there is a group of hotṛs consisting of seven priests, to invoke the deities in the sacrifice."
-- **vāghataḥ** — "Priests. Among the eight priest-names beginning with *bhāratāḥ*, *kuravaḥ* [the print lists them], the word *vāghataḥ* is read as 'priests' (Ni. 3-… as read [?])." *(The rest of the Special Topics and the grammar are on p. 432 (PDF 448) and are given in the next batch.)*
+- **vāghataḥ** — "Priests. Among the eight priest-names beginning with *bhāratāḥ*, *kuravaḥ* [the print lists them], the word *vāghataḥ* is read as 'priests' (Ni. 3-18)." *(The rest of the Special Topics and the grammar are on p. 432 (PDF 448) and are given in the next batch.)*
 
 ---
 
@@ -7825,8 +7827,8 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **Vyākaraṇa-prakriyā** *(p. 432 — grammar page, noted briefly)*
 - **yajiṣṭham**: *yaṣṭṛ*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: loss of *tṛc*; *nit*: initial-acute.
 - **vṛṇate**: *vṛñ saṃbhaktau*, *kryādi*; *laṭ* third plural, *jha*; *kryādibhyaḥ śnā*; *ātmanepadeṣv anataḥ*: *at* for *jha*; the *ā* of *śnā* dropped (*śnābhyastayor ātaḥ*); no *guṇa* of the *ṛ* (*sārvadhātukam apit*, *kit*-like); *yat*: no *nighāta*; suffix-accent: middle-acute.
-- **aratim**: *ṛ gatiprāpaṇayoḥ*; Uṇādi *ati* (*vahivasyarti…*, Uṇ. 4-… as read [?]): *guṇa*; *uraṇ raparaḥ*; *citaḥ*: end-acute; accusative.
-- **saparyāmi**: *sapara pūjāyām*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak*: *yak*; *laṭ* first singular *mip*; *ato lope*: loss of the *a*; *atodīrgho yañi*: lengthening before *y*-ending; at the head of a pāda: no *nighāta*.
+- **aratim**: *ṛ gatiprāpaṇayoḥ*; Uṇādi *ati* (*vahivasyarti…*, Uṇ. 4-500 as printed here; the tail prints 4-60): *guṇa*; *uraṇ raparaḥ*; *citaḥ*: end-acute; accusative.
+- **saparyāmi**: *sapara pūjāyām*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak* (Pā. 3-1-27): *yak*; *laṭ* first singular *mip*; *ato lope*: loss of the *a*; *atodīrgho yañi*: lengthening before *y*-ending; at the head of a pāda: no *nighāta*.
 - **yāmi**: *ṭuyāc yācñāyām*, *ubhayapadī*; *laṭ* first singular; *vyatyaya*: *mip*; the middle *c* dropped in the Veda. **|| 7 ||**
 
 ---
