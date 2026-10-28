@@ -1675,33 +1675,45 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 - **rathyā**: root *ramu krīḍāyām*; the Uṇādi suffix *kthan* by *hanikuṣinīramikāśibhyaḥ kthan* — हनिकुषिनीरमिकाशिभ्यः क्थन् (*hanikuṣinīramikāśibhyaḥ kthan*) — Uṇ. Sū. 2-149; the suffix is *kit*, so *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* — अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति — Pā. 6-4-37 drops the *m*: *ratha*. *Ratham arhataḥ rathyau* — "who deserve a chariot" — by *chandasi ca* — छन्दसि च — Pā. 5-1-67: *yat* in the Veda after a base in the second case, in the sense *arhati*; *ratha + ya*; *yasyeti ca* — Pā. 6-4-148: loss of *a*; *rathya*; the vocative dual in *ā*.
 - **svasarāṇi**: root *sṛ gatau*; *saranti gacchanti iti sarāḥ*, "that which goes toward its objects" — the senses; *sve sarāḥ yeṣāṃ tāni* — "those whose senses are their own": a *bahuvrīhi*, the first member's accent holds; *sva* is acute as a base by the accent of the nominal stem. Rik 7 ends here (*|| 7 ||*).
 
-### Rik 34.8 (pp. 107–111, PDF 121–125)
+### Rik 34.8 (pp. 108–111, PDF 123–126)
 
-**Saṃhitā-pāṭha** *(p. 108; accents not reproduced)*
+### Page 108
 
-> **त्रिरश्विना सिन्धुभिः सप्तमातृभिस्त्रय आहावास्त्रेधा हविष्कृतम् ।**
-> **तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितम् ॥ ८ ॥**
+**Saṃhitā-pāṭha** *(p. 108; Saṃhitā accents as printed; Pada unaccented)*
 
-*trir aśvinā sindhubhiḥ saptamātṛbhis traya āhāvās tredhā haviṣkṛtam |*
-*tisraḥ pṛthivīr upari pravā divo nākaṃ rakṣethe dyubhir aktubhir hitam || 8 ||*
+> त्रि॒र॑श्विना सिन्धु॑भिः स॒प्तमा॑तृभिस्त्रय॑ आहा॒वास्त्रे॒धा ह॒विष्कृतम् । [accent ?]
+> ति॒स्रः पृ॑थि॒वीरु॒परि॑ प्र॒वा दि॒वो नाकं॑ रक्षेथे॒ द्युभि॑रक्तुभि॑र्हितम् ॥ ८ ॥ [accent ?]
+>
+> *trir aśvinā síndhubhiḥ saptámātṛbhis tráya āhāvā́s tredhā́ havíṣkṛtam | [accent ?]*
+> *tisráḥ pṛthivī́r upári pravā́ divó nā́kaṃ rakṣethe dyúbhir aktúbhir hitam || 8 || [accent ?]*
+
+([accent ?]: line 1 — a faint underline under ತ್ರಿ, a possible mark under ಭಿ of *saptamātṛbhis* (not given), and dashes under ಹ and ಷ್ಕೃ of *haviṣkṛtam* (only the one under ಹ given); line 2 — in *dyubhir aktubhir hitam* only two svarita strokes (over ಭಿ of each word) are visible, no underlines.)
 
 **Pada-pāṭha** *(p. 108)*
 
-> त्रिः । अश्विना । सिन्धुऽभिः । सप्तमातृऽभिः । त्रयः । आऽहावाः । त्रेधा । हविः । कृतम् ॥
-> तिस्रः । पृथिवीः । उपरि । प्रवा । दिवः । नाकम् । रक्षेथे इति । द्युऽभिः । अक्तुऽभिः । हितम् ॥ ८ ॥
+> त्रिः । अश्विना । सिन्धुऽभिः । सप्तमातृऽभिः । त्रयः ।
+> आऽहावाः । त्रेधा । हविः । कृतम् ।
+> तिस्रः । पृथिवीः । उपरि । प्रवा । दिवः । नाकम् । रक्षेथे इति ।
+> द्युऽभिः । अक्तुऽभिः । हितम् ॥ ८ ॥
 
-*triḥ | aśvinā | sindhu-bhiḥ | sapta-mātṛ-bhiḥ | trayaḥ | ā-hāvāḥ | tredhā | haviḥ | kṛtam ||*
-*tisraḥ | pṛthivīḥ | upari | pravā | divaḥ | nākam | rakṣethe iti | dyu-bhiḥ | aktu-bhiḥ | hitam || 8 ||*
+*triḥ | aśvinā | sindhu-bhiḥ | saptamātṛ-bhiḥ | trayaḥ |*
+*ā-hāvāḥ | tredhā | haviḥ | kṛtam |*
+*tisraḥ | pṛthivīḥ | upari | pravā | divaḥ | nākam | rakṣethe iti |*
+*dyu-bhiḥ | aktu-bhiḥ | hitam || 8 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 108–109; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 108–109, in full; numerals zoom-checked)*
 
-> हे अश्विना सप्तमातृभिः । इमं मे गङ्गे । ऋग्वे. १०-७५-५ [?] । इत्यादि मन्त्रोक्ताः सप्तसंख्याका गङ्गाद्या नद्यो मातर उत्पादिका येषां जलविशेषाणां ते सप्तमातरः । तैः सिन्धुभिः स्यन्दनस्वभावैर्जलैर्वसतीवरीनामभिस्त्रिः सोमाभिषवः कृत इति शेषः । तथा चान्यत्र ब्राह्मणे समाम्नातम् । अष्टौ कृत्वोऽभिषुणोति एकादश कृत्वो द्वितीयं द्वादश कृत्वस्तृतीयमिति । तै. सं. ६-४-३-१ [?] । आहावा यथोक्तजलयुक्तस्य सोमस्याधारभूताः कूपसदृशास्त्रयस्त्रिसंख्याका द्रोणकलशाधवनीयपूतभृदाख्या निष्पन्ना इति शेषः । तेषु त्रिषु पात्रविशेषेषु त्रेधा त्रिभिः प्रकारैः सवनत्रयगतैर्हविष्कृतम् । सोमाख्यं हविः सम्पादितं द्रव्यं वर्तत इति शेषः । तिस्रः पृथिवीरुपरि त्रिभ्यः पृथिव्यादिलोकेभ्य ऊर्ध्वं प्रवा प्रवन्तौ गच्छन्तौ युवां दिवो नाकं द्युलोकसम्बन्धिनमादित्यं रक्षेथे । कीदृशं नाकम् । द्युभिरहोभिरक्तुभी रात्रिभिश्च हितं स्थापितम् । अहनि सूर्य उदेति रात्र्यवस्तं गच्छतीत्येवमहोरात्राभ्यां सूर्यो व्यवस्थाप्यत इत्यर्थः ॥
+> हे अश्विना सप्तमातृभिः । इमं मे गङ्गे । ऋग्वे. १०-७५-५ । इत्यादि मन्त्रोक्ताः सप्तसंख्याका गङ्गाद्या नद्यो मातर उत्पादिका येषां जलविशेषाणां ते सप्तमातरः । तैः सिन्धुभिः स्यन्दनस्वभावैर्जलैर्वसतीवरीनामभिस्त्रिः सोमाभिषवः कृत इति शेषः । तथा चान्यत्र ब्राह्मणे समाम्नातम् । अष्टौ कृत्वोऽभिषुणोति एकादश कृत्वो द्वितीयं द्वादश कृत्वस्तृतीयमिति । तै. सं. ६-४-५-१ । आहावा यथोक्तजलयुक्तस्य सोमस्याधारभूताः कूपसदृशास्त्रयस्त्रिसंख्याका द्रोणकलशाधवनीयपूतभृदाख्या निष्पन्ना इति शेषः । तेषु त्रिषु पात्रविशेषेषु त्रेधा त्रिभिः प्रकारैः सवनत्रयगतैर्हविष्कृतम् । सोमाख्यं हविः संपादितं द्रव्यं वर्तत इति शेषः । तिस्रः पृथिवीरुपरि त्रिभ्यः पृथिव्यादिलोकेभ्य ऊर्ध्वं प्रवा प्रवन्तौ गच्छन्तौ युवां दिवो नाकं द्युलोकसंबन्धिनमादित्यं रक्षेथे । कीदृशं नाकम् । द्युभिरहोभिरक्तुभी रात्रिभिश्च हितं स्थापितम् । अहनि सूर्य उदेति रात्रावस्तं गच्छतीत्येवमहोरात्राभ्यां सूर्यो व्यवस्थाप्यत इत्यर्थः ॥ सप्तमातृभिः । बहुव्रीहिस्वरः । आहावाः । निपानमाहावः । पा. ३-३-७४ । इत्याङ्पूर्वाद्ध्वयतेरप्प्रत्ययः संप्रसारणं वृद्धिश्च निपातनात् । थाथादिनोत्तरपदान्तोदात्तत्वम् । प्रवा । च्युङ् प्लुङ् गतौ । प्रवेते गच्छत इति प्रवौ । पचाद्यच् । सुपां सुलुगित्याकारः । नाकम् । नास्मिन्नकमस्तीति नाकः । नभ्राण्नपादित्यादिना नञः प्रकृतिभावः । द्युभिः । ऊडिदमित्यादिना प्राप्तस्य विभक्त्युदात्तत्वस्य दिवो झल् । पा. ६-१-१८२ । इति प्रतिषेधः ॥
 
-*he aśvinā saptamātṛbhiḥ | imaṃ me gaṅge | ṛgve. 10-75-5 [?] | ity ādi mantroktāḥ saptasaṃkhyākā gaṅgādyā nadyo mātara utpādikā yeṣāṃ jalaviśeṣāṇāṃ te saptamātaraḥ | taiḥ sindhubhiḥ syandanasvabhāvair jalair vasatīvarīnāmabhis triḥ somābhiṣavaḥ kṛta iti śeṣaḥ | tathā cānyatra brāhmaṇe samāmnātam | aṣṭau kṛtvo 'bhiṣuṇoti ekādaśa kṛtvo dvitīyaṃ dvādaśa kṛtvas tṛtīyam iti | tai. saṃ. 6-4-3-1 [?] | āhāvā yathoktajalayuktasya somasyādhārabhūtāḥ kūpasadṛśās trayas trisaṃkhyākā droṇakalaśādhavanīyapūtabhṛdākhyā niṣpannā iti śeṣaḥ | teṣu triṣu pātraviśeṣeṣu tredhā tribhiḥ prakāraiḥ savanatrayagatair haviṣkṛtam | somākhyaṃ haviḥ sampāditaṃ dravyaṃ vartata iti śeṣaḥ | tisraḥ pṛthivīr upari tribhyaḥ pṛthivyādilokebhya ūrdhvaṃ pravā pravantau gacchantau yuvāṃ divo nākaṃ dyulokasambandhinam ādityaṃ rakṣethe | kīdṛśaṃ nākam | dyubhir ahobhir aktubhī rātribhiś ca hitaṃ sthāpitam | ahani sūrya udeti rātryavastaṃ gacchatīty evam ahorātrābhyāṃ sūryo vyavasthāpyata ity arthaḥ ||*
+*he aśvinā saptamātṛbhiḥ | imaṃ me gaṅge | ṛgve. 10-75-5 | ityādi mantroktāḥ saptasaṃkhyākā gaṅgādyā nadyo mātara utpādikā yeṣāṃ jalaviśeṣāṇāṃ te saptamātaraḥ | taiḥ sindhubhiḥ syandanasvabhāvairjalairvasatīvarīnāmabhistriḥ somābhiṣavaḥ kṛta iti śeṣaḥ | tathā cānyatra brāhmaṇe samāmnātam | aṣṭau kṛtvo 'bhiṣuṇoti ekādaśa kṛtvo dvitīyaṃ dvādaśa kṛtvastṛtīyamiti | tai. saṃ. 6-4-5-1 | āhāvā yathoktajalayuktasya somasyādhārabhūtāḥ kūpasadṛśāstrayastrisaṃkhyākā droṇakalaśādhavanīyapūtabhṛdākhyā niṣpannā iti śeṣaḥ | teṣu triṣu pātraviśeṣeṣu tredhā tribhiḥ prakāraiḥ savanatrayagatairhaviṣkṛtam | somākhyaṃ haviḥ saṃpāditaṃ dravyaṃ vartata iti śeṣaḥ | tisraḥ pṛthivīrupari tribhyaḥ pṛthivyādilokebhya ūrdhvaṃ pravā pravantau gacchantau yuvāṃ divo nākaṃ dyulokasaṃbandhinamādityaṃ rakṣethe | kīdṛśaṃ nākam | dyubhirahobhiraktubhī rātribhiśca hitaṃ sthāpitam | ahani sūrya udeti rātrāvastaṃ gacchatītyevamahorātrābhyāṃ sūryo vyavasthāpyata ityarthaḥ ‖ saptamātṛbhiḥ | bahuvrīhisvaraḥ | āhāvāḥ | nipānamāhāvaḥ | pā. 3-3-74 | ityāṅpūrvāddhvayaterappratyayaḥ saṃprasāraṇaṃ vṛddhiśca nipātanāt | thāthādinottarapadāntodāttatvam | pravā | cyuṅ pluṅ gatau | pravete gacchata iti pravau | pacādyac | supāṃ sulugityākāraḥ | nākam | nāsminnakamastīti nākaḥ | nabhrāṇnapādityādinā nañaḥ prakṛtibhāvaḥ | dyubhiḥ | ūḍidamityādinā prāptasya vibhaktyudāttatvasya divo jhal | pā. 6-1-182 | iti pratiṣedhaḥ ‖*
 
-**Translation:** "O Aśvins, *saptamātṛbhiḥ* — by the seven mothers: the seven rivers beginning with the Gaṅgā named in the mantra '*imaṃ me gaṅge*' (Ṛg. 10-75-5 [?]), the mothers, the producers of those particular waters. *Sindhubhiḥ* — with the flowing waters, named *vasatīvarī*, the soma pressing has been done *triḥ*, three times (the sentence is to be completed so). And so in another Brāhmaṇa it is handed down: 'Eight times he presses; the second, eleven times; the third, twelve times' (Tai. Saṃ. 6-4-3-1 [?]). *Āhāvāḥ* — [the vessels] that hold the soma with the water so described, like wells, three in number, called *droṇakalaśa*, *ādhavanīya*, *pūtabhṛt*, are ready. In these three particular vessels, *tredhā* — in three ways, belonging to the three pressings — the oblation (*havis*) called soma has been made. *Tisraḥ pṛthivīḥ upari* — above the three worlds, earth and the others — *pravā* — you two, who go forward — *divo nākam* — the sun belonging to the heavenly world — *rakṣethe* protect. What sort of sun? *Dyubhiḥ* — by days — *aktubhiḥ* — by nights — *hitam*, established: the sun rises in the day, goes down at night; so the sun is regulated by day and night."
+(As printed: Ṛg. 10-75-5; Tai. Saṃ. 6-4-5-1; *divo jhal* printed Pā. 6-1-182 (the last glyph is the looped 2; the grammar on p. 111 prints 6-3-183). The bhāṣya runs onto p. 109 at "नाकं द्युलोकसंबन्धिनम्…".)
 
-**Grammar within the bhāṣya** *(p. 109, characterized)*: *saptamātṛbhiḥ* (a *bahuvrīhi*, with its characteristic accent); *āhāvāḥ* (*nipānam āhāvaḥ* — निपानमाहावः — Pā. 3-3-74: after the root *hve* with *ā* the suffix *ap*, *saṃprasāraṇa* and *vṛddhi*, by *nipātana*; the accent of the later member by *thāthaghañkta…* — Pā. 6-2-144); *pravā* (root *plu*/*pru gatau*, *pravete* "they two go", *pracady-ac*; the dual ending in *ā*); *nākam* (*na asmin akam asti iti nākaḥ*; the *nañ* keeps its natural form by *nabhrāṇ…*); *dyubhiḥ* (the ending-accent that would come by *ūḍidam…* is barred by *divo 'jhal* [*divo jhal*, Pā. 6-1-181 [?]]).
+**Translation:** "O Aśvins, *saptamātṛbhiḥ* — by the seven mothers: the seven rivers beginning with the Gaṅgā named in the mantra '*imaṃ me gaṅge*' (Ṛg. 10-75-5), the mothers, the producers of those particular waters. *Sindhubhiḥ* — with the flowing waters, named *vasatīvarī*, the soma pressing has been done *triḥ*, three times (the sentence is to be completed so). And so in another Brāhmaṇa it is handed down: 'Eight times he presses; the second, eleven times; the third, twelve times' (Tai. Saṃ. 6-4-5-1). *Āhāvāḥ* — [the vessels] that hold the soma with the water so described, like wells, three in number, called *droṇakalaśa*, *ādhavanīya*, *pūtabhṛt*, are ready. In these three particular vessels, *tredhā* — in three ways, belonging to the three pressings — the oblation (*havis*) called soma has been made. *Tisraḥ pṛthivīḥ upari* — above the three worlds, earth and the others — *pravā* — you two, who go forward — *divo nākam* — the sun belonging to the heavenly world — *rakṣethe* protect. What sort of sun? *Dyubhiḥ* — by days — *aktubhiḥ* — by nights — *hitam*, established: the sun rises in the day, goes down at night; so the sun is regulated by day and night."
+
+### Page 109
+
+(The grammatical tail, transcribed above: *saptamātṛbhiḥ* — *bahuvrīhi* accent; *āhāvāḥ* — *ap* after *hve* with *ā*, *saṃprasāraṇa* and *vṛddhi* by *nipātana* in *nipānam āhāvaḥ*, Pā. 3-3-74; final acute of the later member by *thātha…*; *pravā* — root *pru* "to go", "the two who go", *ac* of the *pacādi* class, *ā* by *supāṃ suluk…*; *nākam* — "in which there is no *aka* (pain)", the *nañ* kept by *nabhrāṇnapāt…*; *dyubhiḥ* — the ending's acute, due by *ūḍidam…*, barred by *divo jhal*.)
 
 **Pratipadārtha** *(p. 109)* — "**aśvinā** — O Aśvin deities; **saptamātṛbhiḥ** — by the seven rivers beginning with the Gaṅgā, which are the sources of streams (the mothers of the flow); **sindhubhiḥ** — [by those] flowing waters named *vasatīvarī*; **triḥ** — [the soma juice has been] pressed three times; **āhāvāḥ** — [vessels] like the well [for the one who is to drink soma]; **trayaḥ** — three [vessels called *droṇakalaśa*, *dhavanīya*, *pūtabhṛt*, are ready]; **tredhā** — in three ways; **haviḥ kṛtam** — the soma oblation has been prepared; **tisraḥ** — three; **pṛthivīḥ upari** — above the earth and the other worlds; **pravā** — [you two] who travel; **dyubhiḥ** — by days; **aktubhiḥ** — by nights; **hitam** — regulated; **divaḥ** — of the heavenly world; **nākam** — the sun; **rakṣethe** — you protect."
 
@@ -1709,40 +1721,44 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 
 **English Translation (the source's own, p. 109)** — "Aswins, thrice the three jars are filled with the seven mothered streams for you and in three ways the oblations is prepared ; rising above the three worlds you keep **the** [printed as a raised word] sun steady in the sky, who is established for both night and day." *(Printed so, with "oblations is prepared" [sic].)*
 
+### Page 110
+
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 110–111**
-- **saptamātṛbhiḥ** — "in the mantra '*imaṃ me gaṅge*' stated in the Ṛgveda 10-75-5 [?] the seven rivers named Gaṅgā, Yamunā, Sarasvatī, Śutudri, Paruṣṇī, Asikni, Marudvṛdhā are addressed here as the seven mothers."
+- **saptamātṛbhiḥ** — "in the mantra '*imaṃ me gaṅge*' stated in the Ṛgveda (Ṛ. Saṃ. 10-75-5) the seven rivers named Gaṅgā, Yamunā, Sarasvatī, Śutudri, Paruṣṇī, Asikni, Marudvṛdhā are addressed here as the seven mothers."
 - **sindhubhiḥ** = *syandanasvabhāvair jalaiḥ*: "by waters."
 - **āhāvāḥ** — "the three vessels in which the soma juice is held: *droṇakalaśa*, *dhavanīya*, *pūtabhṛt*. Ordinarily these are made of wood."
 - **divo nākam** — "the peak of heaven, the summit of heaven, a very high place in the mid-region. Here the bhāṣyakāra has explained the word *nāka* as the sun. In regard to the word *nāka* Yāska says:"
 
-> स्वः । पृश्निः । नाकः । गौः । विष्टपम् । नभः ॥ इति षट् साधारणानि दिवश्चादित्यस्य च ॥ (नि. २-१४ [?])
-> नाक आदित्यो भवति । नेता रसान्, नेता भासाम्, ज्योतिषां प्रणयः ॥ (नि. २-१४ [?])
+> स्वः । पृश्निः । नाकः । गौः । विष्टपम् । नभः ॥ इति षट् साधारणानि दिवश्चादित्यस्य च ॥ (नि. २-१३)
+> नाक आदित्यो भवति । नेता रसान्, नेता भासाम्, ज्योतिषां प्रणयः ॥ (नि. ३-१४)
 
-*svaḥ | pṛśniḥ | nākaḥ | gauḥ | viṣṭapam | nabhaḥ || iti ṣaṭ sādhāraṇāni divaś cādityasya ca || (ni. 2-14 [?])*
-*nāka ādityo bhavati | netā rasān, netā bhāsām, jyotiṣāṃ praṇayaḥ || (ni. 2-14 [?])*
+*svaḥ | pṛśniḥ | nākaḥ | gauḥ | viṣṭapam | nabhaḥ || iti ṣaṭ sādhāraṇāni divaś cādityasya ca || (ni. 2-13)*
+*nāka ādityo bhavati | netā rasān, netā bhāsām, jyotiṣāṃ praṇayaḥ || (ni. 3-14)*
 
 "The six words beginning with *svaḥ* (among them the word *nāka*) are words denoting the common senses 'heaven' and 'sun'; and '*nāka* is the name of Āditya — because [he is] the leader of the *rasa*, i.e. of water, who draws water by his rays and makes it fall as rain; or the leader of light, the chief support, who illuminates the whole world through his rays; therefore Sūrya is called *nāka*'. The expressions *divaḥ nākam* in this sense occur in many places in the Ṛgveda:"
 
-> सहस्रधारेव ते समस्वरन् दिवो नाके मधुजिह्वा असश्चतः ॥ (ऋ. सं. ९-६२-४ [?])
+> सहस्रधारेव ते समस्वरन् दिवो नाके मधुजिह्वा असश्चतः ॥ (ऋ. सं. ९-७३-४)
 
-*sahasradhāreva te samasvaran divo nāke madhujihvā asaścataḥ || (ṛ. saṃ. 9-62-4 [?])*
+*sahasradhāreva te samasvaran divo nāke madhujihvā asaścataḥ || (ṛ. saṃ. 9-73-4)*
 
-"and so on: many examples may be given." *(Untranslated in the source; my gloss, **mine and tentative**: "like [a stream] of a thousand streams they sounded together, in the vault of heaven, the honey-tongued, unfailing [?]".)*
+"and so on: many examples may be given." *(Untranslated in the source; my gloss, **mine and tentative**: "like [a stream] of a thousand streams they sounded together, in the vault of heaven, the honey-tongued, unfailing"; the reference zoom-checked, 9-73-4 replaces 9-62-4.)*
 - **dyubhiḥ aktubhiḥ** — "by days and by nights; this sense [is shown in]:"
 
-> द्युभिरक्तुभिः परि पातमस्मानरिष्टेभिरश्विना सौभगेभिः ॥ (ऋ. सं. १-११२-२५ [?])
-> वि द्यामेषि रजस्पृथ्वहा मिमानो अक्तुभिः ॥ (ऋ. सं. १-५०-७ [?])
+> द्युभिरक्तुभिः परि पातमस्मानरिष्टेभिरश्विना सौभगेभिः ॥ (ऋ. सं. १-११२-२५)
+### Page 111
 
-*dyubhir aktubhiḥ pari pātam asmān ariṣṭebhir aśvinā saubhagebhiḥ || (ṛ. saṃ. 1-112-25 [?])*
-*vi dyām eṣi rajas pṛthv ahā mimāno aktubhiḥ || (ṛ. saṃ. 1-50-7 [?])*
+> वि द्यामेषि रजस्पृथ्वहा मिमानो अक्तुभिः ॥ (ऋ. सं. १-५०-७)
 
-"and so on: many examples may be given." *(My gloss, tentative: "protect us by days and nights, O Aśvins, with unharmed good fortunes"; "you go through heaven, the wide mid-region, measuring out days with nights". Both references are read from small Kannada numerals and are [?].)*
+*dyubhir aktubhiḥ pari pātam asmān ariṣṭebhir aśvinā saubhagebhiḥ || (ṛ. saṃ. 1-112-25)*
+*vi dyām eṣi rajas pṛthv ahā mimāno aktubhiḥ || (ṛ. saṃ. 1-50-7)*
 
-**Vyākaraṇa-prakriyā** *(p. 111, PDF 125 — grammar page, noted briefly)*
-- **āhāvāḥ**: *nipānam āhāvaḥ* — निपानमाहावः — Pā. 3-3-74: when the sense "a drinking-place" is meant, the suffix *ap* after the root *hve* with the preverb *ā*, with *saṃprasāraṇa* (the *v* becoming *u*) and *vṛddhi*, is given by *nipātana*; *ā + hve + a*; after *saṃprasāraṇa*, *saṃprasāraṇāc ca* — संप्रसारणाच्च — Pā. 6-1-108, the earlier form: *ā + hu + a*, *vṛddhi*, *āv* for *au* by *eco 'yavāyāvaḥ* — एचोऽयवायावः — Pā. 6-1-78: *ā + hāv + a*, *āhāva*; since the suffix ends in *ap*, *thāthaghañktājabitrakāṇām* — थाथघञ्क्ताजबित्रकाणाम् — Pā. 6-2-144 [as printed 6-2-1[?]]: a word ending in a suffix *tha*, *āth*, *ghañ*, *kta*, *ac*, *ap* or *itra*, standing after a *gati* or a *kāraka*, is final-acute.
+"and so on: many examples may be given." *(My gloss, tentative: "protect us by days and nights, O Aśvins, with unharmed good fortunes"; "you go through heaven, the wide mid-region, measuring out days with nights". Both references zoom-checked.)*
+
+**Vyākaraṇa-prakriyā** *(p. 111, grammar page — noted briefly; numerals zoom-checked)*
+- **āhāvāḥ**: *nipānam āhāvaḥ* — निपानमाहावः — Pā. 3-3-74: when the sense "a drinking-place" is meant, the suffix *ap* after the root *hve* with the preverb *ā*, with *saṃprasāraṇa* (the *v* becoming *u*) and *vṛddhi*, is given by *nipātana*; *ā + hve + a*; after *saṃprasāraṇa*, *saṃprasāraṇāc ca* — संप्रसारणाच्च (no number printed), the earlier form: *ā + hu + a*, *vṛddhi*, *āv* for *au* by *eco 'yavāyāvaḥ* — एचोऽयवायावः (no number printed): *ā + hāv + a*, *āhāva*; since the suffix ends in *ap*, *thāthaghañktājabitrakāṇām* — थाथघञ्क्ताजबित्रकाणाम् — Pā. 6-2-144: a word ending in a suffix *tha*, *āth*, *ghañ*, *kta*, *ac*, *ap* or *itra*, standing after a *gati* or a *kāraka*, is final-acute.
 - **pravā**: root *cyuṅ plugṅ gatau*; *pravete* = *gacchataḥ* "the two who go"; the suffix *ac* of the *pacādi* group by *nandigrahipacādibhyo lyuṇinyacaḥ* — Pā. 3-1-134; *guṇa*, *āv*-substitution; the dual *au* replaced by *ā* by *supāṃ sulug…*; *savarṇadīrgha*; single-substitute accent.
 - **nākam**: *na akam asminn iti nākam*: *ka* is happiness, *āka* = unhappiness (*duḥkha*); the place without unhappiness is *nāka*. The *n* of the *nañ* would be lost by *nalopo nañaḥ*; but *prakṛtibhāva* is specially laid down by *nabhrāṇnapānnavedānāsatyānamucinakulanakhanapuṃsakanakṣatranakranāsikāsu prakṛtyā* — Pā. 6-3-75 (the print's abridgement "*nabhrāṇ… nakranākeṣu prakṛtyā*") — so the *n* is not lost.
-- **dyubhiḥ**: after *div*, *bhis*; *divaūṭ* — दिव उत् — Pā. 6-1-131: in the *pada*-final case the last letter of *div* becomes *u*; so *v* → *u*; *yaṇ*; *anudāttau suppitau* — अनुदात्तौ सुप्पितौ — Pā. 3-1-4 would make the ending unaccented; this is overridden by *ūḍidaṃ…* — Pā. 6-1-171, which would make the ending after *div* acute; but *divo jhal* — दिवो झल् — [Pā. 6-1-181 (as read)] prohibits acute for a *jhal*-initial ending after *div*; hence, by *anudāttau suppitau*, the ending remains unaccented. Rik 8 ends here (*|| 8 ||*).
+- **dyubhiḥ**: after *div*, *bhis*; *diva ut* — दिव उत् (*diva ut*) — Pā. 6-1-131: in the *pada*-final case the last letter of *div* becomes *u*; so *v* → *u*; *yaṇ*; *anudāttau suppitau* — अनुदात्तौ सुप्पितौ (no number printed) would make the ending unaccented; this is overridden by *ūḍidaṃ…* (the print opens "(Pā. Sū." but gives no number), which would make the ending after *div* acute; but *divo jhal* — दिवो झल् — Pā. 6-3-183 as printed [sic: for 6-1-183; the bhāṣya prints 6-1-182] prohibits acute for a *jhal*-initial ending after *div*; hence, by *anudāttau suppitau*, the ending remains unaccented. Rik 8 ends here (*|| 8 ||*); a tailpiece ornament follows.
 
 ---
 
