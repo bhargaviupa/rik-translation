@@ -4857,29 +4857,31 @@
 
 ### Rik 53.2 (pp. 269–, PDF 285–)
 
-**Saṃhitā-pāṭha** *(p. 269; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 269; accents as printed)*
 
-> **दुरो अश्वस्य दुर इन्द्र गोरसि दुरो यवस्य वसुन इनस्पतिः ।**
-> **शिक्षानरः प्रदिवो अकामकर्शनः सखा सखिभ्यस्तमिदं गृणीमसि ॥ २ ॥**
+> **दु॒रो अश्व॑स्य दु॒र इन्द्र॒ गोर॑सि दु॒रो यव॑स्य॒ वसु॑न इ॒नस्प॑तिः ।**
+> **शि॒क्षान॒रः प्र॒दिवो॒ अका॑मकर्श॒नः सखा॒ सखि॑भ्य॒स्तमि॒दं गृ॑णीमसि ॥ २ ॥** [accent ?]
 
-*duro aśvasya dura indra gor asi duro yavasya vasuna inas patiḥ |*
-*śikṣānaraḥ pradivo akāmakarśanaḥ sakhā sakhibhyas tam idaṃ gṛṇīmasi || 2 ||*
+*duró áśvasya durá indra gór asi duró yávasya vásuna inás pátiḥ |*
+*śikṣānaráḥ pradívo ákāmakarśanaḥ sákhā sákhibhyas tám idáṃ gṛṇīmasi || 2 ||*
+
+*(Pass: [accent ?] — several marks in this Ṛk sit between syllables in the print and are given as best seen.)*
 
 **Pada-pāṭha** *(p. 269)*
 
 > दुरः । अश्वस्य । दुरः । इन्द्र । गोः । असि । दुरः । यवस्य । वसुनः । इनः । पतिः ।
-> शिक्षानरः । प्रऽदिवः । अकामऽकर्शनः । सखा । सखिऽभ्यः । तम् । इदम् । गृणीमसि ॥ २ ॥
+> शिक्षाऽनरः । प्रऽदिवः । अकामऽकर्शनः । सखा । सखिऽभ्यः । तम् । इदम् । गृणीमसि ॥ २ ॥
 
 *duraḥ | aśvasya | duraḥ | indra | goḥ | asi | duraḥ | yavasya | vasunaḥ | inaḥ | patiḥ |*
-*śikṣānaraḥ | pra-divaḥ | akāma-karśanaḥ | sakhā | sakhi-bhyaḥ | tam | idam | gṛṇīmasi || 2 ||*
+*śikṣā-naraḥ | pra-divaḥ | akāma-karśanaḥ | sakhā | sakhi-bhyaḥ | tam | idam | gṛṇīmasi || 2 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 269)*
 
-> **हे इन्द्र त्वमश्वस्य दुरो दाताऽसि । तथा गोः पश्वादेर्दुरो दाताऽसि । तथा यवस्य यवादेर्धान्यजातस्य दुरो दाताऽसि । वसुनो निवासहेतोर्धनस्येनः स्वामी पतिः सर्वेषां पालयिता शिक्षानरः । शिक्षतिर्दानकर्मा । शिक्षायां दानस्य नेताऽसि । प्रदिवः पुराणः । प्रगता दिवो दिवसा यस्मिन्स तथोक्तः । अकामकर्शनः । कामान्कर्शयति नाशयतीति कामकर्शनः । न कामकर्शनोऽकामकर्शनः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । हविर्दत्त्वतां यजमानानां कामानभिमतफलप्रदानेन पूरयितेत्यर्थः । सखिभ्यः समानख्यानेभ्य ऋत्विग्भ्यः सखा सखिवदत्यन्तं प्रियः । एवंभूतो य इन्द्रस्तं प्रतीदं स्तोत्रलक्षणं वचो गृणीमसि ब्रूमहे ॥**
+> **हे इन्द्र त्वमश्वस्य दुरो दाताऽसि । तथा गोः पश्वादेर्दुरो दाताऽसि । तथा यवस्य यवादेर्धान्यजातस्य दुरो दाताऽसि । वसुनो निवासहेतोर्धनस्येनः स्वामी पतिः सर्वेषां पालयिता शिक्षानरः । शिक्षतिर्दानकर्मा । शिक्षायां दानस्य नेताऽसि । प्रदिवः पुराणः । प्रगता दिवो दिवसा यस्मिन्स तथोक्तः । अकामकर्शनः । कामान्कर्शयति नाशयतीति कामकर्शनः । न कामकर्शनोऽकामकर्शनः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । हविर्दत्तवतां यजमानानां कामानभिमतफलप्रदानेन पूरयितेत्यर्थः । सखिभ्यः समानख्यानेभ्य ऋत्विग्भ्यः सखा सखिवदत्यन्तं प्रियः । एवंभूतो य इन्द्रस्तं प्रतीदं स्तोत्रलक्षणं वचो गृणीमसि ब्रूमहे ॥**
 
-*he indra tvam aśvasya duro dātāsi | tathā goḥ paśvāder duro dātāsi | tathā yavasya yavāder dhānyajātasya duro dātāsi | vasuno nivāsahetor dhanasyenaḥ svāmī patiḥ sarveṣāṃ pālayitā śikṣānaraḥ | śikṣatir dānakarmā | śikṣāyāṃ dānasya netāsi | pradivaḥ purāṇaḥ | pragatā divo divasā yasmin sa tathoktaḥ | akāmakarśanaḥ | kāmān karśayati nāśayatīti kāmakarśanaḥ | na kāmakarśano 'kāmakarśanaḥ | avyayapūrvapadaprakṛtisvaratvam | havirdattvatāṃ yajamānānāṃ kāmān abhimataphalapradānena pūrayitety arthaḥ | sakhibhyaḥ samānakhyānebhya ṛtvigbhyaḥ sakhā sakhivad atyantaṃ priyaḥ | evaṃbhūto ya indras taṃ pratīdaṃ stotralakṣaṇaṃ vaco gṛṇīmasi brūmahe ||*
+*he indra tvam aśvasya duro dātāsi | tathā goḥ paśvāder duro dātāsi | tathā yavasya yavāder dhānyajātasya duro dātāsi | vasuno nivāsahetor dhanasyenaḥ svāmī patiḥ sarveṣāṃ pālayitā śikṣānaraḥ | śikṣatir dānakarmā | śikṣāyāṃ dānasya netāsi | pradivaḥ purāṇaḥ | pragatā divo divasā yasmin sa tathoktaḥ | akāmakarśanaḥ | kāmān karśayati nāśayatīti kāmakarśanaḥ | na kāmakarśano 'kāmakarśanaḥ | avyayapūrvapadaprakṛtisvaratvam | havirdattavatāṃ yajamānānāṃ kāmān abhimataphalapradānena pūrayitety arthaḥ | sakhibhyaḥ samānakhyānebhya ṛtvigbhyaḥ sakhā sakhivad atyantaṃ priyaḥ | evaṃbhūto ya indras taṃ pratīdaṃ stotralakṣaṇaṃ vaco gṛṇīmasi brūmahe ||*
 
-*(The tail of the bhāṣya, p. 270 head: on* duraḥ *(*ḍudāñ dāne*, with the Uṇādi* uraca *by* mandivāśimathicaticaṅkyaṅkibhya uraca*, Uṇ. 1-… as read [?]; the loss of* a *before* eva… [crowded]);* śikṣānaraḥ *(*śikṣa vidyopādāne*, *guroś ca halaḥ* gives *a*-suffix; *ṣaṣṭhīsamāsaḥ*, the accent of the last member);* gṛṇīmasi *(*gṝ śabde*, kryādi, *prādīnāṃ hrasvaḥ*, "*idantaḥ… maseriḥ*": the *mas* → *masi*) — is characterized.)*
+*(The tail of the bhāṣya, p. 270 head: on* duraḥ *(*ḍudāñ dāne*, with the Uṇādi* uraca *by* mandivāśimathicaticaṅkyaṅkibhya uraca*, Uṇ. 1-38; the loss of* a *before* eva… [crowded]);* śikṣānaraḥ *(*śikṣa vidyopādāne*, *guroś ca halaḥ* gives *a*-suffix; *ṣaṣṭhīsamāsaḥ*, the accent of the last member);* gṛṇīmasi *(*gṝ śabde*, kryādi, *prādīnāṃ hrasvaḥ*, "*idantaḥ… maseriḥ*": the *mas* → *masi*) — is characterized.)*
 
 **Translation of the bhāṣya:** "O Indra, you are the *duraḥ*, the giver, of horses; likewise of cows, cattle and the like; likewise of *yavasya*, barley and the rest, of the kinds of grain — *vasunaḥ inaḥ patiḥ*, the lord, the master, of wealth which is the cause of dwelling, the protector of all; *śikṣānaraḥ* — *śikṣati* is a verb of giving: you are the leader of giving in the bestowing; *pradivaḥ*, old: he of whom the days of the sky have gone forth, so called; *akāmakarśanaḥ*: *kāmakarśana* is one who thins out, destroys desires; *akāmakarśana*, not a destroyer of desires — one who fulfils, by granting the desired fruit, the desires of sacrificers who have given the offering; *sakhā sakhibhyaḥ*, a friend to the *sakhis*, the priests who are named *sakhi*: exceedingly dear, like a friend. Such an Indra — to him we *gṛṇīmasi*, we speak, this praise-speech."
 
@@ -4900,17 +4902,17 @@
 **Rik 53.2, continued** *(pp. 271–272, PDF 287–288)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 271 (continued)**
-- **śikṣānaraḥ** — "As in the Nirukta sentence '*śikṣatir dānakarmā*' (Ni. 3-10 as read [?]), the root *śikṣ* has the sense of the action of giving. This word, formed from the root *śikṣa vidyopādāne*, indicates that Indra is the giver of all qualities, such as knowledge."
+- **śikṣānaraḥ** — "As in the Nirukta sentence '*śikṣatir dānakarmā*' (Ni. 3-10), the root *śikṣ* has the sense of the action of giving. This word, formed from the root *śikṣa vidyopādāne*, indicates that Indra is the giver of all qualities, such as knowledge."
 - **pradivaḥ** — "By the derivation '*pragatā divo divasā yasmin saḥ*' the word *pradiva* has the sense 'having no beginning', and 'one who has existed for a very long time'."
 - **akāmakarśanaḥ** — "One who destroys desired ends is called *kāmakarśana*: '*kāmān karśayati nāśayatīti kāmakarśanaḥ*'; *na kāmakarśanaḥ*: *akāmakarśanaḥ*. The sense is that Indra is gracious to the sacrificers who offer the oblation, and does not destroy any of the desired ends they ask for."
 
 **Vyākaraṇa-prakriyā** *(p. 271 foot – p. 272 head — grammar page, noted briefly)*
-- **duraḥ**: *ḍudāñ dāne*; by the plural in *uṇādayo bahulam*, the Uṇādi suffix *uraca* (*mandivāśimathicaticiṅkyaṅkibhya uraca*, Uṇ. 1-… as read [?]) also comes after this root; before *uraca*, by the plural, the *ā* of the root is dropped; *duraḥ*; end-acute by *citaḥ*.
+- **duraḥ**: *ḍudāñ dāne*; by the plural in *uṇādayo bahulam*, the Uṇādi suffix *uraca* (*mandivāśimathicaticiṅkyaṅkibhya uraca*, Uṇ. sū. 1-38) also comes after this root; before *uraca*, by the plural, the *ā* of the root is dropped; *duraḥ*; end-acute by *citaḥ*.
 - **indra**: the vocative; the *nighāta* by *āmantritasya ca*.
 - **asi**: *as bhuvi*; *laṭ* second singular; *tāsastyoḥ* [as printed: *tāsasty…lopaḥ*, Pā. 7-4-50 as read, [?]] drops the *s* of the root before an ending beginning with *s*: *asi*; following an *atiṅ*, *nighāta*.
-- **śikṣānaraḥ**: *śikṣa vidyopādāne*; *guroś ca halaḥ* (Pā. 3-3-103) gives *a*; since *saṃyoge guru* the *i* is heavy; feminine *ṭāp* by *ajādyatas ṭāp*; "*śikṣāyāḥ naraḥ*", a genitive compound; *samāsasya* (Pā. 6-1-223) gives the end-acute.
-- **akāmakarśanaḥ**: "*kāmān karśayati nāśayati iti kāmakarśanaḥ*"; *lyuṭ* in the agent sense; *yuvor anākau* gives *ana*; *pugantalaghūpadhasya ca* gives *guṇa* to the root's penultimate; *na kāmakarśanaḥ*: *tatpuruṣe tulyārtha…* (Pā. 6-2-2) gives the accent of the first member, the particle.
-- **gṛṇīmasi**: *gṝ śabde*, *kryādi*; *masi* in the first person plural; *kryādibhyaḥ śnā*; *prādīnāṃ hrasvaḥ* shortens the root's vowel before *śnā*; *īhalyaghoḥ* (Pā. 6-4-113) gives *ī* to *śnā*'s *ā* before a *kit*/*ṅit* suffix; *yuvarṇānnasya ṇatvaṃ vācyam* — the *ṇatva* for the *n*; *idantomasi* (Pā. 7-1-46 as read [?]) gives an *i*-augment to the ending: *gṛṇīmasi*; *tiṅ atiṅaḥ*, *nighāta*. **|| 2 ||**
+- **śikṣānaraḥ**: *śikṣa vidyopādāne*; *guroś ca halaḥ* (Pā. sū. 3-3-103) gives *a*; since *saṃyoge guru* the *i* is heavy; feminine *ṭāp* by *ajādyatas ṭāp*; "*śikṣāyāḥ naraḥ*", a genitive compound; *samāsasya* (Pā. sū. 6-1-223) gives the end-acute.
+- **akāmakarśanaḥ**: "*kāmān karśayati nāśayati iti kāmakarśanaḥ*"; *lyuṭ* in the agent sense; *yuvor anākau* gives *ana*; *pugantalaghūpadhasya ca* gives *guṇa* to the root's penultimate; *na kāmakarśanaḥ*: *tatpuruṣe tulyārtha…* (Pā. sū. 6-2-2) gives the accent of the first member, the particle.
+- **gṛṇīmasi**: *gṝ śabde*, *kryādi*; *masi* in the first person plural; *kryādibhyaḥ śnā*; *prādīnāṃ hrasvaḥ* shortens the root's vowel before *śnā*; *īhalyaghoḥ* (no number printed) gives *ī* to *śnā*'s *ā* before a *kit*/*ṅit* suffix; *yuvarṇānnasya ṇatvaṃ vācyam* — the *ṇatva* for the *n*; *idantomasi* (Pā. sū. 7-1-46) gives an *i*-augment to the ending: *gṛṇīmasi*; *tiṅ atiṅaḥ*, *nighāta*. **|| 2 ||**
 
 ---
 
