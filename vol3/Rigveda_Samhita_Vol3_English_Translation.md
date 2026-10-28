@@ -4330,38 +4330,67 @@ O Marut deities, leaders, when you go to the sacrifices and other good rites, th
 
 ---
 
-### Pages 184–186 — Sūkta 23, Rik 12
+### Page 184 (lower) — Sūkta 23, Rik 12
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> हस्काराद्विद्युतस्पर्यतो जाता अवन्तु नः ।
-> मरुतो मृळयन्तु नः ॥ १२ ॥
+> ह॒स्का॒रा॒द्वि॒द्यु॒त॒स्पर्य॑तो जा॒ता॑ अवन्तु नः । [accent ?]
+> म॒रुतो॑ मृळयन्तु नः ॥१२॥
+>
+> *haskārād vidyutas páry ato jātā avantu naḥ |* [accent ?]
+> *marúto mṛḷayantu naḥ ||12||*
 
-*haskārād vidyutas pary ato jātā avantu naḥ | maruto mṛḷayantu naḥ || 12 ||*
+*(Bars under ह, स्का, द्वि, त (द्युतस्) and जा; strokes over र्य and, after जाता, at the start of अवन्तु (read as over ता [accent ?]). Line 2: a bar under म, a stroke over तो.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> हस्कारात् । विऽद्युतः । परि । अतः । जाताः । अवन्तु । नः ॥ मरुतः । मृळयन्तु । नः ॥ १२ ॥
-
-*haskārāt | vi-dyutaḥ | pari | ataḥ | jātāḥ | avantu | naḥ || marutaḥ | mṛḷayantu | naḥ || 12 ||*
+> हस्कारात् । विऽद्युतः । परि । अतः । जाताः । अवन्तु । नः ॥
+> मरुतः । मृळयन्तु । नः ॥१२॥
+>
+> *haskārāt | vi 'dyutaḥ | pari | ataḥ | jātāḥ | avantu | naḥ ||*
+> *marutaḥ | mṛḷayantu | naḥ ||12||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हस्काराद्दीप्तिकराद्विद्युतो विशेषेण दीप्यमानादतोऽन्तरिक्षात्परि जाताः सर्वतः उत्पन्ना मरुतो नोऽस्मानवन्तु । रक्षन्तु । तथाविधा मरुतो नोऽस्मान्मृळयन्तु । सुखयन्तु ॥ हस्कारात् । हसे हसने । अत्र तु प्रकाशमात्रे वर्तते । अस्मात्संपदादिलक्षणः क्विप् । अस्मिन्नुपपदे डुकृञ् करण इत्यस्मात्कर्मण्यण् (पा. ३-२-१) इत्यण्प्रत्ययः । तत्पुरुषे तुल्यार्थेत्यादिना पूर्वपदप्रकृतिस्वरत्वे प्राप्ते गतिकारकेत्यादिना कृदुत्तरपदप्रकृतिस्वरत्वम् । अतः कृकमिकंसकुम्भपात्रकुशाकर्णीष्वनव्ययस्य [?] (पा. ८-३-४६) विसर्जनीयस्य सत्वम् ॥
+*(Numbers as printed: पा० ३-२-१, ८-३-४६.)*
 
-*haskārād dīptikarād vidyuto viśeṣeṇa dīpyamānād ato 'ntarikṣāt pari jātāḥ sarvataḥ utpannā maruto no 'smān avantu | rakṣantu | tathāvidhā maruto no 'smān mṛḷayantu | sukhayantu || haskārāt | hase hasane | atra tu prakāśamātre vartate | asmāt saṃpadādilakṣaṇaḥ kvip | asminn upapade ḍukṛñ karaṇa ity asmāt karmaṇy aṇ (pā. 3-2-1) ity aṇpratyayaḥ | tatpuruṣe tulyārthety ādinā pūrvapadaprakṛtisvaratve prāpte gatikārakety ādinā kṛduttarapadaprakṛtisvaratvam | ataḥ kṛkamikaṃsakumbhapātrakuśākarṇīṣv anavyayasya [?] (pā. 8-3-46) visarjanīyasya satvam ||*
+> हस्काराद्दीप्तिकराद्विद्युतो विशेषेण दीप्यमानादतोऽन्तरिक्षात्परि जाताः सर्वत उत्पन्ना मरुतो नोऽस्मानवन्तु । रक्षन्तु । तथाविधा मरुतो नोऽस्मान्मृळयन्तु । सुखयन्तु ॥ हस्कारात् । हसे हसने । अत्र तु प्रकाशमात्रे वर्तते । अस्मात्संपदादिलक्षणः क्विप् । अस्मिन्नुपपदे डुकृञ् करण इत्यस्मात्कर्मण्यण् । पा० ३-२-१ । इत्यण्प्रत्ययः । तत्पुरुषे तुल्यार्थेत्यादिना पूर्वपदप्रकृतिस्वरत्वे प्राप्ते गतिकारकेत्यादिना कृदुत्तरपदप्रकृतिस्वरत्वं । अतः । कृकमीत्यादिना । पा० ८-३-४६ । विसर्जनीयस्य सत्वं ॥
+>
+> *haskārāddīptikarādvidyuto viśeṣeṇa dīpyamānādato 'ntarikṣātpari jātāḥ sarvata utpannā maruto no 'smānavantu | rakṣantu | tathāvidhā maruto no 'smānmṛḷayantu | sukhayantu || haskārāt | hase hasane | atra tu prakāśamātre vartate | asmātsaṃpadādilakṣaṇaḥ kvip | asminnupapade ḍukṛñ karaṇa ityasmātkarmaṇyaṇ | pā0 3-2-1 | ityaṇpratyayaḥ | tatpuruṣe tulyārthetyādinā pūrvapadaprakṛtisvaratve prāpte gatikāraketyādinā kṛduttarapadaprakṛtisvaratvaṃ | ataḥ | kṛkamītyādinā | pā0 8-3-46 | visarjanīyasya satvaṃ ||*
 
-**Translation:** "May the Maruts — born [all round] from this (*ataḥ*) *antarikṣa*, from *haskāra* — the light-making — from the lightning that shines specially — protect us; may such Maruts make us happy. *Haskārāt*: from *hase hasane* ['to laugh']; here it is used in the sense of mere brightness [prakāśa]. From this, *kvip* [added] by the *saṃpadādi* class [the loss of all letters]; with this as the upapada, from *ḍukṛñ karaṇe* the suffix *aṇ* in the sense of the object (P. 3-2-1); in the *tatpuruṣa*, though the accent of the first member would come by *tulyārthaiḥ…*, the accent of the *kṛdanta* second member comes by *gatikāraka-upapadāt kṛt* (P. 6-2-139); the *visarga* [after *ataḥ*] becomes *s* by P. 8-3-46 *ataḥ kṛkamikaṃsakumbhapātrakuśākarṇīṣv anavyayasya*." *(Grammar pages 185–186, noted briefly: the word treated is* haskārāt *[*has* + *kāra*: the root *hase hasane*, meaning 'brightness' here, takes *kvip* by the *saṃpadādi* vārttika with loss of all letters leaving* has*; *kāra* from *kṛ* + *aṇ* by P. 3-2-1 *karmaṇy aṇ*, with the vṛddhi, *ṛ* → *ār*; the compound is a *tatpuruṣa*; accent rules P. 6-2-2 *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* and P. 6-2-139 *gatikārakopapadāt kṛt*; the sūtra P. 3-2-22 *karmaṇi*…; *upapada* — the words *has*, etc.; the *visarga* rules — P. 8-3-34 *visarjanīyasya saḥ*, 8-2-66 *sasajuṣo ruḥ*, 8-3-15 *kharavasānayor visarjanīyaḥ*; the compound is *has-kāra*, with *s* by P. 8-3-46 and 8-3-45 *ataḥ kṛkamikaṃsa…* — *haskāra*]; numerals as read, pointers only.)*
+**Translation:** "May the Maruts, *pari jātāḥ*, born on all sides, *ataḥ*, from this mid-air, *vidyutaḥ*, from the lightning shining in a special way, *haskārāt*, which makes brightness, *avantu*, protect, *naḥ*, us. May such Maruts *mṛḷayantu*, make us happy." (Grammatical tail: *haskārāt*, *hase hasane*, here meaning only 'light'; *kvip* of the *sampadādi* type after it; with this as *upapada*, after *ḍukṛñ karaṇe*, *aṇ* by *karmaṇy aṇ* (Pā. 3-2-1); the first-member accent being due by *tatpuruṣe tulyārtha…*, the *kṛt* final member's accent by *gatikāraka…*; *ataḥ*, *s* for the *visarga* by *kṛkami…* (Pā. 8-3-46).)
 
-**॥ Prati-padārthaḥ ॥** **हस्कारात् (haskārāt)** — [from the lightning] which makes light | **विद्युतः (vidyutaḥ)** — from the lightning which shines specially | **अतः (ataḥ)** — from that, i.e. from the *antarikṣa* | **परि (pari)** — in the upper region | **जाताः (jātāḥ)** — born | **मरुतः (marutaḥ)** — the Marut-deities | **नः (naḥ)** — us | **अवन्तु (avantu)** — may protect | **नः (naḥ)** — us | **मृळयन्तु (mṛḷayantu)** — may they make happy.
+### Page 185 — Rik 12: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ Bhāvārthaḥ ॥** May the Maruts who are born in the upper region of the *antarikṣa*, from the dazzling flashes of lightning, protect us and give us happiness.
+**॥ Prati-padārthaḥ ॥**
+
+**हस्कारात् (haskārāt)** — making light | **विद्युतः (vidyutaḥ)** — shining especially | **अतः (ataḥ)** — from it, that is, from the mid-air | **परि (pari)** — in the upper part | **जाताः (jātāḥ)** — born | **मरुतः (marutaḥ)** — the Marut deities | **नः (naḥ)** — us | **अवन्तु (avantu)** — may they protect | (and) **नः (naḥ)** — for us | **मृळयन्तु (mṛḷayantu)** — may they make happiness.
+
+**॥ Bhāvārthaḥ ॥**
+
+May the Marut deities, born in the upper part of the lightning, which is very bright so as to dazzle in the mid-air, protect us and make happiness for us.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > May the Maruts born from the lightning in the resplendent region protect us and make us happy.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 185)* **हस्कारात्** — *hase hasane atra tu prakāśamātre vartate*: though the root *has* means 'to laugh', the commentator says that here it is used in the sense of 'brightness'; *haḥ* + *kārāt* — 'that which makes light'. Skandasvāmin takes *haḥ* as a word expressing the cry of pain made by people when they suffer; for this rik he explains: 'may the Maruts, having removed the cries of distress of men, making the cloud rain, protect us and give us happiness.' **विद्युतः** — *viśeṣeṇa dīpyamānāt*: 'from the one that shines specially'; for this word the meaning 'from lightning' may also be given. **परि अतः जाताः** — born in the upper region of the *antarikṣa*, which is spread over by light and lightning — that is, in the *antarikṣa* above the earth — the Marut deities. Since the movement of the Marut deities is always in the *antarikṣa*, it may be a usage that they are said to be born in the *antarikṣa*.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**हस्कारात् (haskārāt)** — *hase hasane atra tu prakāśamātre vartate ||* Though the root *has* means laughing, the commentator says it is used here in the sense of light. *Haḥ* + *kārāt* means: making light. Skandasvāmin explains the word *haḥ* as a sound marking the cry of distress people use when in trouble, and gives this ṛk the sense: removing the cry of distress of the people, may the cloud make rain fall, protect us and make happiness.
+
+**विद्युतः (vidyutaḥ)** — *viśeṣeṇa dīpyamānāt |* shining especially. The meaning 'from the lightning' can also be given to this word.
+
+**परि अतः जाताः (pari ataḥ jātāḥ)** — the Marut deities born in the upper part of the mid-air, covered by light and lightning, that is, in the mid-air above the earth. Since the movement of the Marut deities is always in the mid-air itself, there may be a custom of saying that the Maruts are born in the mid-air.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**हस्कारात् (haskārāt)** — *has*, light; *karoti*, makes: so the analysis. The root *hase hasane*; here the root is in the sense of light, because roots have many meanings. By *sampadādibhyaḥ*
+
+### Page 186 — Rik 12: grammar (end)
+
+*kvip* (Pā. Sū. 3-3-108, Vā. 9) — after the roots read in the *sampadādi* class, *kvip* comes in the action sense — when *kvip* comes after the root *has* and all its letters are dropped, only *has* remains. When the object-word *has* in the accusative singular is *upapada*, by *karmaṇy aṇ* (Pā. Sū. 3-2-1) — when an object-word is *upapada*, *aṇ* comes after the root — the suffix *aṇ* comes after the root *kṛ*, *ḍukṛñ karaṇe*: *has* + *kṛ* + *a*. By *aco 'ñṇiti* (Pā. Sū. 7-11, as printed) *vṛddhi* *ār* for the *ṛ*: it becomes *haskāra*. This is a tatpuruṣa compound. So by *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* (Pā. Sū. 6-2-2) — in a tatpuruṣa compound the seven first members beginning with *tulyārthaka* (words meaning 'equal') keep their own accent — the own accent of *has*, ending in the second case, that is, by *dhātoḥ* (Pā. Sū. 6-1-162), its being udātta, would be due; overriding it, by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139) — in a tatpuruṣa compound, a *kṛt*-final word after a *gati*, a *kāraka* or an *upapada* keeps its own accent — the last member keeps its own accent; the last member *kāra* is final udātta by the suffix accent. So after compounding too that own accent stays. By *tatropapadaṃ saptamīstham* (Pā. Sū. 3-1-92) — in the sūtras under the heading *dhātoḥ* (Pā. Sū. 3-1-91), words such as *has* that express the meaning conveyed by words in the seventh case such as *karmaṇi* get the name *upapada* — *has* has the name *upapada*. For the *s* in *has* + *kāra*, by *sasajuṣo ruḥ* (Pā. Sū. 8-2-66) — the final *s* of a *pada* and the word *sajuṣ* take the substitute *ru* — the substitute *ru*; by *kharavasānayor visarjanīyaḥ* (Pā. Sū. 8-3-15) — at the end of a *pada*, *visarga* comes for an *r* before a *khar* letter and for an *r* at a pause — *visarga*. *Haḥ* + *kāra*: by *ataḥ kṛkamikaṃsakumbhapātrakuśākarṇīṣv anavyayasya* (Pā. Sū. 8-3-46) — when the seven words *kṛ* and the rest follow, for a *visarga* after *a* that does not belong to an indeclinable, *s* comes always in a compound; but a *visarga* in a last member does not get the *s* — so *s* for the *visarga*: *haskāra* is established. ॥12॥
+
+*(An ornament follows.)*
 
 ---
 
