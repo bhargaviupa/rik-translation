@@ -10412,29 +10412,35 @@ Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is 
 
 **Saṃhitā-pāṭha** *(p. 513)*
 
-> वयं हि ते अमन्मह्यान्तादा पराकात् ।
-> अश्वे न चित्रे अरुषि ॥ २१ ॥
+*(Line 2 flagged [accent ?]: the bar stands under* श्वे*, not under* अ*.)*
 
-> *vayaṃ hi te amanmahyāntādā parākāt |*
-> *aśve na citre aruṣi ‖ 21 ‖*
+> व॒यं हि ते॒ अम॑न्म॒ह्यान्ता॒दा प॑रा॒कात् ।
+> अश्वे॒ न चि॑त्रे अरुषि ॥ २१ ॥ [accent ?]
+
+> *vayáṃ hi te ámanmahyā́ntādā́ parākā́t |*
+> *aśve ná citre aruṣi || 21 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> वयम् । हि । ते । अमन्महि । आ । अन्तात् । आ । पराकात् ।
+> वयं । हि । ते । अमन्महि । आ । अन्तात् । आ । पराकात् ।
 > अश्वे । न । चित्रे । अरुषि ॥ २१ ॥
 
-> *vayam | hi | te | amanmahi | ā | antāt | ā | parākāt |*
+> *vayaṃ | hi | te | amanmahi | ā | antāt | ā | parākāt |*
 > *aśve | na | citre | aruṣi ‖ 21 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 513)*
 
-> अश्वे व्यापनशीले चित्रे चायनीये अरुषि आरोचमाने उषःकालाभिमानिनि देवते तव स्वरूपमान्तादासन्नसमीपपर्यन्तमा पराकाद्दूरपर्यन्तं वयं मनुष्या नामन्महि न बोद्धुं समर्थाः । हिशब्दः प्रसिद्ध्यर्थः । देवतामहिम्नः पारावारयोरज्ञानमस्माभिः प्रसिद्धमित्यर्थः ॥ अमन्महि । मन ज्ञाने । बहुलं छन्दसीति बहुलवचनात् श्यनो लुक् । लुङ्लङ्लृङ्क्ष्वडुदात्तः । हि चेति निघातप्रतिषेधः । अश्वे । अशू व्याप्तौ । अशिप्रुषि… इत्यादिना क्वन्प्रत्ययः । आमन्त्रिताद्युदात्तत्वम् ॥
+> अश्वे व्यापनशीले चित्रे चायनीये अरुषि आरोचमान उषःकालाभिमानिनि देवते तव स्वरूपमान्तात्समीपपर्यन्तमा पराकाद्दूरपर्यन्तं वयं मनुष्या नामन्महि । न बोद्धुं समर्थाः । हिशब्दः प्रसिद्धौ । देवतामहिम्नः पारावारयोरज्ञानमस्मासु प्रसिद्धमित्यर्थः ॥ अमन्महि । मन ज्ञाने । बहुलं छन्दसीति बहुलवचनात् श्यनो लुक् । लुङ्लङ्लृङ्क्ष्वडुदात्तः । हि चेति निघातप्रतिषेधः । अश्वे । अशू व्याप्तौ । अशिप्रुषीत्यादिना क्वन्प्रत्ययः । आमन्त्रिताद्युदात्तत्वम् ॥
 
-> *aśve vyāpanaśīle citre cāyanīye aruṣi ārocamāne uṣaḥkālābhimānini devate tava svarūpamāntādāsannasamīpaparyantamā parākāddūraparyantaṃ vayaṃ manuṣyā nāmanmahi na boddhuṃ samarthāḥ | hiśabdaḥ prasiddhyarthaḥ | devatāmahimnaḥ pārāvārayorajñānamasmābhiḥ prasiddhamityarthaḥ ‖ amanmahi | mana jñāne | bahulaṃ chandasīti bahulavacanāt śyano luk | luṅlaṅlṛṅkṣvaḍudāttaḥ | hi ceti nighātapratiṣedhaḥ | aśve | aśū vyāptau | aśipruṣi… ityādinā kvanpratyayaḥ | āmantritādyudāttatvam ‖*
+> *aśve vyāpanaśīle citre cāyanīye aruṣi ārocamāna uṣaḥkālābhimānini devate tava svarūpamāntātsamīpaparyantamā parākāddūraparyantaṃ vayaṃ manuṣyā nāmanmahi | na boddhuṃ samarthāḥ | hiśabdaḥ prasiddhau | devatāmahimnaḥ pārāvārayorajñānamasmāsu prasiddhamityarthaḥ ‖ amanmahi | mana jñāne | bahulaṃ chandasīti bahulavacanāt śyano luk | luṅlaṅlṛṅkṣvaḍudāttaḥ | hi ceti nighātapratiṣedhaḥ | aśve | aśū vyāptau | aśipruṣītyādinā kvanpratyayaḥ | āmantritādyudāttatvam ‖*
 
-*Translation:* "O Uṣas, goddess presiding over the dawn-time — pervading (*aśve*), lovely/various (*citre*), shining (*aruṣi*)! We mortals are unable to know your nature either as near at hand (*āntāt*) or as far (*parākāt*). *Hi* means 'as is well known': it is well known that we cannot comprehend either shore of the goddess's greatness. *Amanmahi*: *mana jñāne*; *śyan* dropped by the *bahula* rule; the *aṭ* augment is acute; the lowering is barred by *hi ca*. *Aśve*: *aśū vyāptau* with *kvan*; initial acute of the vocative."
+*Translation:* "O pervading (*aśve*), lovely (*citre*: to be looked at), shining (*aruṣi*) goddess presiding over the dawn-time! Your nature, from near (*āntāt*: up to what is close) to far (*ā parākāt*: up to what is distant), we men do not know (*na amanmahi*): we are unable to understand it. The word *hi* is in the sense 'well known': that we do not know the near and far shores of the goddess's greatness is well known among us." The grammatical tail treats *amanmahi* (*mana jñāne*; *luk* of *śyan* by the word *bahula* in *bahulaṃ chandasi*; the augment *aṭ* udātta; not grave by *hi ca*) and *aśve* (*aśū vyāptau*; *kvan* by *aśipruṣi…*; initial udātta of the vocative).
 
 **Pratipadārtha** *(p. 513, rendered)* — **अश्वे** [O Uṣas,] widely pervading; **चित्रे** of many-coloured splendour; **अरुषि** shining; **आ अन्तात्** from your form that is near; **आ पराकात्** from your form that is far; **वयम्** we [mortals]; **न अमन्महि** cannot know.
+
+### Page 514 — Sūkta 30, Rik 21 (continued)
 
 **Bhāvārtha** *(p. 514)* — O goddess Uṣas, widely pervading, of manifold hue and shining! Your greatness is immeasurable. We mortals are unable rightly to know your greatness, whether in your form near us or in your form far away.
 
@@ -10442,9 +10448,9 @@ Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is 
 
 > O Ushas, spreading in all places, with tinted and brilliant rays we do not know your limit whether we are near or far off.
 
-**Viśeṣa-viṣayagaḷu** *(p. 514)* — **अश्वे** — *aśū vyāptau*: she who pervades everything, all regions, with her rays. **चित्रे** — endowed with manifold splendour. **अरुषि** — shining. **अश्वे चित्रे अरुषि** — Skandasvāmin gives *vicitrāyāḥ*, 'endowed with horses of various colours', and explains *citre* as 'worshipful'.
+**Viśeṣa-viṣayagaḷu** *(p. 514)* — **अश्वे** — *aśū vyāptau*: she who pervades everything, all regions, with her rays. **चित्रे** — endowed with manifold splendour. **अरुषे** [as printed, for अरुषि] — shining. **अश्वे चित्रे अरुषि** — Skandasvāmin explains: *vicitra*, that is, endowed with horses of various colours; and *citre* as 'worshipful'.
 
-**Grammar (p. 514), noted briefly:** *te* (explained in the 20th Rik [as printed: 'in the 30th mantra' [?]]); *amanmahi* (*mana jñāne*, *divādi*; *laṅ*/*luṅ* 1st pl., *mahiṅ*; *śyan* P. 3-1-69 dropped by *bahulaṃ chandasi*; *aṭ* acute; lowering barred P. 8-1-34); *aśve* (vocative dual-form; *aśū vyāptau*, *rudhādi*; *kvan* by Uṇ. 1-?? *aśipruṣilaṭikaṇikhaṭivišibhyaḥ kvan* [as read]; initial acute P. 6-1-198); *citre, aruṣi* (all-low P. 8-1-19). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(p. 514, noted briefly)* — *te*: explained in the thirtieth mantra [as printed; the explanation is in Ṛk 20]. *amanmahi*: *mana jñāne*, *divādi*, *laṅ* first person plural *mahiṅ*; *śyan* due by '*divādibhyaḥ śyan*' is dropped by '*bahulaṃ chandasi*'; *aṭ* to the stem (Pā. sū. 6-4-71, so printed), and as *aṭ* is '*udāttaḥ*' the word is initial-acute; the *tiṅ*-lowering barred by '*hi ca*' (Pā. sū. 8-1-34). *aśve*: printed as a vocative dual form; *aśū vyāptau*, *rudhādi*; *kvan* by '*aśipruṣilaṭikaṇi-*' (U. sū. 1-149); at the head of the pāda the all-grave accent does not come (*apādādau*); initial udātta by '*āmantritasya*' (Pā. sū. 6-1-198). *citre*, *aruṣi*: all grave by '*āmantritasya ca*' (Pā. sū. 8-1-19).
 
 ---
 
