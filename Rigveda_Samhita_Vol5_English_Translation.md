@@ -7963,19 +7963,19 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Anuvāda (Kannada, p. 439)** — "'*Vayā it*' is the second sūkta in the eleventh anuvāka. It has seven Riks. The seer of this sūkta is Nodhas Gautama; the metre is Triṣṭubh; the deity is Agni named Vaiśvānara. In the Anukramaṇikā: '*vayā it sapta vaiśvānarīyam*'. The ritual use of the sūkta is to be learned from the sense."
 
-**Heading block** *(p. 439)*: Maṇḍala 1 · Anuvāka 11 · Sūkta 59 · Aṣṭaka 1 · Adhyāya 4 · Varga 25 [as read, [?]] · Riks: 7 · Ṛṣi: Nodhas Gautama · Deity: Agni Vaiśvānara · Metre: Triṣṭubh.
+**Heading block** *(p. 439)*: Maṇḍala 1 · Anuvāka 11 · Sūkta 59 · Aṣṭaka 1 · Adhyāya 4 · Varga 25 · Riks: 7 · Ṛṣi: Nodhas Gautama · Deity: Agni Vaiśvānara · Metre: Triṣṭubh.
 
 ---
 
 ### Rik 59.1 (p. 439 –, PDF 455 –)
 
-**Saṃhitā-pāṭha** *(p. 439; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 439; accents as printed)*
 
-> **वया इदग्ने अग्नयस्ते अन्ये त्वे विश्वे अमृता मादयन्ते ।**
-> **वैश्वानर नाभिरसि क्षितीनां स्थूणेव जनाँ उपमिद्ययन्थ ॥ १ ॥**
+> **व॒या इद॑ग्ने अ॒ग्नय॑स्ते अ॒न्ये त्वे विश्वे॑ अ॒मृता॑ मादयन्ते ।**
+> **वैश्वा॑नर॒ नाभि॑रसि क्षिती॒नां स्थूणे॑व॒ जनाँ उप॒मिद्य॑यन्थ ॥ १ ॥**
 
-*vayā id agne agnayas te anye tve viśve amṛtā mādayante |*
-*vaiśvānara nābhir asi kṣitīnāṃ sthūṇeva janāṁ upamid yayantha || 1 ||*
+*vayā́ íd agne agnáyas te anyé tve víśve amṛ́tā mādayante |*
+*vaíśvānara nā́bhir asi kṣitīnā́ṃ sthū́ṇeva jánām̐ upamíd yayantha || 1 ||*
 
 *(The Pada, on p. 440, is given with the next batch.)*
 
@@ -7988,7 +7988,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **Pada-pāṭha** *(p. 440)*
 
 > वयाः । इत् । अग्ने । अग्नयः । ते । अन्ये । त्वे इति । विश्वे । अमृताः । मादयन्ते ।
-> वैश्वानर । नाभिः । असि । क्षितीनाम् । स्थूणाऽइव । जनान् । उपऽमित् । यमन्थ ॥ १ ॥
+> वैश्वानर । नाभिः । असि । क्षितीनाम् । स्थूणाऽइव । जनान् । उपऽमित् । ययन्थ ॥ १ ॥
 
 *vayāḥ | it | agne | agnayaḥ | te | anye | tve iti | viśve | amṛtāḥ | mādayante |*
 *vaiśvānara | nābhiḥ | asi | kṣitīnām | sthūṇā-iva | janān | upa-mit | yayantha || 1 ||*
@@ -7997,11 +7997,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 440)*
 
-> **वयाः शाखा वेतेर्वातायना भवन्तीति यास्कः । नि. १-४ । हे अग्ने येऽत्र नैवान्येऽग्नयः सन्ति ते सर्वेऽपि ते तव वया इत् शाखा एव । तत्स्वतोऽन्ये न सन्तीति भावः । किंच त्वे त्वयि सति विश्वे सर्वेऽमृता अमरणधर्माणो देवा मादयन्ते । हृष्यन्ति । न हि त्वद्व्यतिरेकेण तैर्जीवितुं शक्यते । हे वैश्वानर विश्वेषां नराणां जाठररूपेण संबन्धिन्नग्ने क्षितीनां मनुष्याणां नाभिः संनद्धासि । आवस्थापको भवसि । अतस्त्वमुपमिदुपस्थापयिता सन् । यद्वा । उपमिदित्येतद्दृष्टान्तविशेषणं । जनान्ययन्थ । आधारयेः । तत्र दृष्टान्तः । उपमिदुपनिखाता स्थूणेव वंशधारणार्थं निखातः स्तम्भो यथा गृहोपरिस्थं वंशं धारयति तद्वत् ॥**
+> **वयाः शाखा वेतेर्वातायना भवन्तीति यास्कः । नि. १-४ । हे अग्ने येऽन्येऽग्नयः सन्ति ते सर्वेऽपि ते तव वया इत् शाखा एव । ततस्त्वत्तोऽन्ये न सन्तीति भावः । किंच त्वे त्वयि सति विश्वे सर्वेऽमृता अमरणधर्माणो देवा मादयन्ते । हृष्यन्ति । न हि त्वद्व्यतिरेकेण तैर्जीवितुं शक्यते । हे वैश्वानर विश्वेषां नराणां जाठररूपेण संबन्धिन्नग्ने क्षितीनां मनुष्याणां नाभिः संनद्धासि । अवस्थापको भवसि । अतस्त्वमुपमिदुपस्थापयिता सन् । यद्वा । उपमिदित्येतद्दृष्टान्तविशेषणं । जनान्ययन्थ । आधारयः । तत्र दृष्टान्तः । उपमिदुपनिखाता स्थूणेव वंशधारणार्थं निखातः स्तम्भो यथा गृहोपरिस्थं वंशं धारयति तद्वत् ॥**
 
-*vayāḥ śākhā veter vātāyanā bhavantīti yāskaḥ | ni. 1-4 [?] | he agne ye 'tra naivānye 'gnayaḥ santi te sarve 'pi te tava vayā it śākhā eva | tat svato 'nye na santīti bhāvaḥ | kiṃca tve tvayi sati viśve sarve 'mṛtā amaraṇadharmāṇo devā mādayante | hṛṣyanti | na hi tvadvyatirekeṇa tair jīvituṃ śakyate | he vaiśvānara viśveṣāṃ narāṇāṃ jāṭharūpeṇa saṃbandhinn agne kṣitīnāṃ manuṣyāṇāṃ nābhiḥ saṃnaddhāsi | āvasthāpako bhavasi | atas tvam upamid upasthāpayitā san | yadvā | upamid ity etad dṛṣṭāntaviśeṣaṇaṃ | janān yayantha | ādhārayeḥ | tatra dṛṣṭāntaḥ | upamid upanikhātā sthūṇeva vaṃśadhāraṇārthaṃ nikhātaḥ stambho yathā gṛhoparisthaṃ vaṃśaṃ dhārayati tadvat ||*
+*vayāḥ śākhā veter vātāyanā bhavantīti yāskaḥ | ni. 1-4 | he agne ye 'nye 'gnayaḥ santi te sarve 'pi te tava vayā it śākhā eva | tatas tvatto 'nye na santīti bhāvaḥ | kiṃca tve tvayi sati viśve sarve 'mṛtā amaraṇadharmāṇo devā mādayante | hṛṣyanti | na hi tvadvyatirekeṇa tair jīvituṃ śakyate | he vaiśvānara viśveṣāṃ narāṇāṃ jāṭhararūpeṇa saṃbandhinn agne kṣitīnāṃ manuṣyāṇāṃ nābhiḥ saṃnaddhāsi | avasthāpako bhavasi | atas tvam upamid upasthāpayitā san | yadvā | upamid ity etad dṛṣṭāntaviśeṣaṇaṃ | janān yayantha | ādhārayaḥ | tatra dṛṣṭāntaḥ | upamid upanikhātā sthūṇeva vaṃśadhāraṇārthaṃ nikhātaḥ stambho yathā gṛhoparisthaṃ vaṃśaṃ dhārayati tadvat ||*
 
-**Translation of the bhāṣya:** "*Vayāḥ* are branches — 'the *vayāḥ* are from *vetiḥ*; they are the wind-passages [i.e. branches]', says Yāska (Ni. 1-4 [?]). O Agni, whatever other fires there are here, all of them are only your *vayā it*, branches; apart from you they do not exist on their own. Further, *tve*, when you are, *viśve amṛtāḥ*, all the immortal gods *mādayante*, rejoice; they cannot live without you. O *vaiśvānara*, Agni, related to all men in the form of the belly-fire, you are *nābhiḥ*, the navel, the centre, of *kṣitīnām*, men: you are the establisher. Therefore you, *upamit*, as one who sets firmly, *janān yayantha*, uphold the people — an example: *sthūṇā iva*, as a pillar planted deep to hold the beam holds the roof-beam over a house."
+*(The tail, pp. 440–441, is characterized: on* vaiśvānara *(*nare saṃjñāyām*, Pā. 6-3-129; *tasyedam*: *aṇ*),* nābhiḥ *(*naho bhaś ca*, Uṇ. 4-125: *iñ*, *bh* for *h*; *ñit*: initial-acute),* asi *(*tāsastyor lopaḥ*),* kṣitīnām *(*ktic ktau ca saṃjñāyām*; *nāmanyatarasyām*: acute ending),* upamit *(*ḍumiñ*; *kvip*; *tuk*),* yayantha *(*iṭ* barred by *upadeśe 'tvataḥ*, Pā. 7-2-62).)*
+
+**Translation of the bhāṣya:** "*Vayāḥ* are branches — 'the *vayāḥ* are from *vetiḥ*; they are the wind-passages [i.e. branches]', says Yāska (Ni. 1-4). O Agni, whatever other fires there are, all of them are only your *vayā it*, branches; there are none other than you. Further, *tve*, when you are, *viśve amṛtāḥ*, all the immortal gods *mādayante*, rejoice; they cannot live without you. O *vaiśvānara*, Agni, related to all men in the form of the belly-fire, you are *nābhiḥ*, the navel, the centre, of *kṣitīnām*, men: you are the establisher. Therefore you, *upamit*, as one who sets firmly, *janān yayantha*, uphold the people — an example: *sthūṇā iva*, as a pillar planted deep to hold the beam holds the roof-beam over a house."
 
 **Pratipadārtha** *(pp. 440–441)* — "**agne** — O Agni; **anye agnayaḥ** — whichever other fires; **vayā it** — are but your branches; **tve** — in you; **viśve amṛtāḥ** — all the deathless gods; **mādayante** — rejoice; **vaiśvānara** — O Agni, who among all men in the form of the belly-fire; **kṣitīnām** — of men; **nābhiḥ asi** — are the centre, as the navel; **upamit** — set deep; **sthūṇā iva** — as a pillar [holds the house up well]; **janān** — men; **yayantha** — you hold, giving support."
 
@@ -8010,20 +8012,20 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 441)** — "O Agni, whatever other fires there may be, they are but ramifications of you; all the immortals rejoice in you; you Vaiswanara, are the navel of men and uphold them like a deep-planted column."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 441**
-- **vayāḥ** — "*Vayā śākhā veter vātāyanā bhavanti* (Ni. 1-4 [?]): the word *vayas* means 'branch'. The Nirukta explains *vayaḥ* as a synonym of *śākhā*: '*vayaḥ śākhāḥ*'."
+- **vayāḥ** — "*Vayā śākhā veter vātāyanā bhavanti* (Niru. 1-4): the word *vayas* means 'branch'. The Nirukta explains *vayaḥ* as a synonym of *śākhā*: '*vayaḥ śākhāḥ*'."
 - **mādayante** — "*Hṛṣyanti*: if the gods are to rejoice greatly, Agni's help is absolutely necessary: that is the sense — without Agni they cannot be satisfied."
 - **vaiśvānara** — "*Viśve ca ime narāḥ viśvānarāḥ tatsaṃbandhī vaiśvānaraḥ*: Agni who abides in the heart of all men in the form of the belly-fire."
 - **upamit** — "One who establishes. This word may be made an epithet of Agni or of the post given as an illustration here: as a pillar planted to bear the burden of a house bears all the weight of the house, you, standing in the belly of men, are the support of the life of all."
 
 **Vyākaraṇa-prakriyā** *(pp. 442–443 — grammar pages, noted briefly)*
 - **mādayante**: *mada tṛptiyoge*, *curādi*; *satyāpapāśa…*: *ṇic* in the own sense; *ata upadhāyāḥ*: *vṛddhi*; *laṭ* third plural; *nighāta*.
-- **vaiśvānara**: *viśve ca ime narāś ca viśvānarāḥ*; *nare saṃjñāyām* (Pā. 6-3-129): lengthening of the first member; *viśvānarasya ayaṃ vaiśvānaraḥ*: *tasyedam*: *aṇ*; *ñit*: *ādivṛddhi*; the vocative: *eṅhrasvāt sambuddheḥ*: *sulopa*; at the head of a pāda: no *nighāta*; *āmantritasya ca*: initial-acute.
-- **nābhiḥ**: *ṇah bandhane*; *ṇo naḥ*: *na* for *ṇa*; *nahobhaś ca* (Uṇ. 4-… as read [?]): *iñ*; *bh* by *ante* for the root's *h*; *ñit*: *ata upadhāyāḥ*: *vṛddhi*; *ñnityādir nityam*: initial-acute.
-- **asi**: *as bhuvi*; *sip*; *tāsasty…*: loss of *s*; *nighāta*.
-- **kṣitīnām**: *kṣi nivāsagatyoḥ*; *ktic ktau ca saṃjñāyām*: *ktic*; *kit*: no *guṇa*; *citaḥ*: end-acute; genitive plural *nām*; *hrasvanadyāpo nuṭ*: *nuṭ*; *nāmi*: lengthening; *nāmanyatarasyām*: acute of the vowel.
+- **vaiśvānara**: *viśve ca ime narāś ca viśvānarāḥ*; *nare saṃjñāyām* (Pā. 6-3-129): lengthening of the first member; *viśvānarasya ayaṃ vaiśvānaraḥ*: *tasyedam* (Pā. 4-3-120): *aṇ*; *ñit*: *ādivṛddhi*; the vocative: *eṅhrasvāt sambuddheḥ*: *sulopa*; at the head of a pāda: no *nighāta*; *āmantritasya ca* (Pā. 6-1-198): initial-acute.
+- **nābhiḥ**: *ṇah bandhane*; *ṇo naḥ*: *na* for *ṇa*; *naho bhaś ca* (Uṇ. 4-565 as printed here; the tail prints 4-125): *iñ*; *bh* by *ante* for the root's *h*; *ñit*: *ata upadhāyāḥ*: *vṛddhi*; *ñnityādir nityam*: initial-acute.
+- **asi**: *as bhuvi*; *sip*; *tāsastyor lopaḥ* (Pā. 7-4-50): loss of *s*; *nighāta*.
+- **kṣitīnām**: *kṣi nivāsagatyoḥ*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174): *ktic*; *kit*: no *guṇa*; *citaḥ*: end-acute; genitive plural *nām*; *hrasvanadyāpo nuṭ*: *nuṭ*; *nāmi*: lengthening; *nāmanyatarasyām* (Pā. 6-1-177): acute of the vowel.
 - **janān**: accusative plural; *dīrghād aṭi samānapāde*: *n* → *ru*; *ato 'ṭ ni…*: nasalization of the preceding *ā*.
 - **upamit**: *ḍumiñ prakṣepaṇe*; with *upa* before: *bahulavacanāt*: *kvip* in the object sense; *hrasvasya piti kṛti tuk*: *tuk*; *gatikārakopapadāt kṛt*: the *kṛdanta*'s accent.
-- **yayantha**: *yamu uparame*; *liṭ* second singular; *parasmaipadānām ṇalatusus…*: *thal*; doubling; though the root is *aniṭ*, *kradiniyama*: *iṭ* would be obtained for *thal*, but *upadeśe 'tvataḥ*: *iṇ-niṣedha* because the root has *a* in the *upadeśa*; the *m* before *th*: *anusvāra*, then *anusvārasya yayi parasavarṇaḥ*: *n*; *nighāta*. **|| 1 ||**
+- **yayantha**: *yamu uparame*; *liṭ* second singular; *parasmaipadānām ṇalatusus…*: *thal*; doubling; though the root is *aniṭ*, *kradiniyama*: *iṭ* would be obtained for *thal*, but *upadeśe 'tvataḥ* (Pā. 7-2-62): *iṭ-niṣedha* because the root has *a* in the *upadeśa*; the *m* before *th*: *anusvāra*, then *anusvārasya yayi parasavarṇaḥ*: *n*; *nighāta*. **|| 1 ||**
 
 ---
 
