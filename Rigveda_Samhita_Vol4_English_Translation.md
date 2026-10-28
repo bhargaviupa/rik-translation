@@ -151,9 +151,6 @@ The grammar of Rik 1 runs on from p. 5 through p. 7 in Kannada prose, with the s
 > *upedaháṃ dhanadā́mápratītaṃ júṣṭāṃ ná śyenó vasatíṃ patāmi |* [accent ?]
 > *índraṃ namasyánn upamébhir arkyáir yaḥ stotṛ́bhyo hávyo ásti yā́man || 2 ||*
 
-*uped ahaṃ dhanadām apratītaṃ juṣṭāṃ na śyeno vasatiṃ patāmi |*
-*indraṃ namasyann upamebhir arkyair yaḥ stotṛbhyo havyo asti yāman || 2 ||*
-
 **Pada-pāṭha** *(p. 8; the line "arkyaiḥ" was checked on an enlarged slice at 300 dpi: the print reads *arkyaiḥ*, with a *y*; the bhāṣya below writes the word as *arkaiḥ* — recorded as printed)*
 
 > उप । इत् । अहम् । धनऽदाम् । अप्रतिऽइतम् । जुष्टाम् । न । श्येनः । वसतिम् । पतामि ।
@@ -193,9 +190,6 @@ The grammar of Rik 1 runs on from p. 5 through p. 7 in Kannada prose, with the s
 >
 > *ni sárvasena iṣudhī́m̐r asakta sámaryó gā́ ajati yásya vaṣṭi |*
 > *coṣkūyámāṇa indra bhū́ri vāmáṃ mā paṇírbhūr asmádádhi pravṛddha || 3 ||*
-
-*ni sarvasena iṣudhīm̐r asakta sam aryo gā ajati yasya vaṣṭi |*
-*coṣkūyamāṇa indra bhūri vāmaṃ mā paṇir bhūr asmad adhi pravṛddha || 3 ||*
 
 **Pada-pāṭha** *(p. 12)*
 
@@ -245,9 +239,6 @@ Kannada prose with sūtras quoted; the numerals are small; those given were re-r
 >
 > *vadhīr hí dásyuṃ dhaninaṃ ghanéna̐ ékaś cáran nupaśākébhir indra |*
 > *dhanor ádhi viṣuṇák té vyāyann áyajvānáḥ sanakā́ḥ prétimīyuḥ || 4 ||*
-
-*vadhīr hi dasyuṃ dhaninaṃ ghanena ekaś carann upaśākebhir indra |*
-*dhanor adhi viṣuṇak te vy āyann ayajvānaḥ sanakāḥ pretim īyuḥ || 4 ||*
 
 *(Reading note: the Saṃhitā text of the second line is read as printed — *viṣuṇak te* — the second word being a single printed unit "ವಿಷುಣಕ್ತೇ"; the Pada on the next page will show how the print divides it. The Saṃhitā is **not** completed with the Pada here; Rik 4's Pada, bhāṣya and the rest follow from p. 17 and are not yet written.)*
 
@@ -312,13 +303,13 @@ Kannada prose with sūtras quoted; the numerals are small; those given were re-r
 
 ### Rik 33.5 (pp. 22–24, PDF 36–38)
 
-**Saṃhitā-pāṭha** *(p. 22; accents not reproduced; the Pada's *yajvabhiḥ* is read for the Saṃhitā's printed word, which is small and could be read *yajñabhiḥ*)*
+**Saṃhitā-pāṭha** *(p. 22; Saṃhitā accents as printed; Pada unaccented. The word *yajvabhiḥ*: at 658 dpi its subscript is the same *-va* form as in *ayajvānaḥ* in the same line, so *jva* is settled; the old Devanagari had an extra *va* in *vavṛjus*, corrected to the print's *vavṛjus ta*.)*
 
-> **परा चिच्छीर्षा वववृजुस्त इन्द्रायज्वानो यज्वभिः स्पर्धमानाः ।**
-> **प्र यद्दिवो हरिवः स्थातरुग्र निरव्रताँ अधमो रोदस्योः ॥ ५ ॥**
-
-*parā cic chīrṣā vavṛjus ta indrāyajvāno yajvabhiḥ spardhamānāḥ |*
-*pra yad divo harivaḥ sthātar ugra nir avratām̐ adhamo rodasyoḥ || 5 ||*
+> परा॑ चिच्छी॒र्षा व॑वृजु॒स्त इ॒न्द्राय॑ज्वानो॒ यज्व॑भिः॒ स्पर्ध॑मानाः ।
+> प्र यद्दि॒वो ह॑रिवः स्थातरुग्र॒ निर॑व्र॒ताँ अ॑धमो॒ रोद॑स्योः ॥ ५ ॥
+>
+> *párā cic chīrṣā́ vavṛjus tá indrā́yajvāno yájvabhiḥ spárdhamānāḥ |*
+> *pra yaddivó harivaḥ sthātarugra níravratā́m̐ adhamo ródasyoḥ || 5 ||*
 
 **Pada-pāṭha** *(pp. 22–23)*
 
