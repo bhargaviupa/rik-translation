@@ -1,0 +1,24 @@
+# Volume 2 cleaning audit
+
+- **removed (draft header)** (draft line 1): # Rigveda Samhita — Volume 2
+- **removed (draft header)** (draft line 3): ## English Translation of Sayana's Bhashya and Kannada Commentary (H. P. Venkata Rao)
+- **removed (draft header)** (draft line 5): **Source:** Sri Jayachamarajendra Vedaratnamala series, Volume 2. First Ashtaka, First Adhyaya, First Mandala, Suktas 3–9. Translated with exhaustive critical notes by Asthana Mahavidwan H. P. Venkata Rao, Editor. Printed at Sri Chamundeswa…
+- **removed (draft header)** (draft line 7): **Continuity note:** This is the direct continuation of Volume 1 (which covered the Purvapithika/Bhumika front matter in full, and Suktas 1–2 of Mandala 1). Volume 2 covers Suktas 3 through 9 of the same Adhyaya.
+- **removed (draft header)** (draft line 9): ---
+- **removed (progress / target)** (draft line 190): **Progress: Through PDF page 21 of Rig_Vol2.pdf (printed page 6) — covering the Preface, full Table of Contents, and pages 1–6 of the actual content.** This establishes Sukta 3's formal introduction: its application (viniyoga) as the closin…
+- **removed (progress / target)** (draft line 410): **Progress: Through PDF page 31 of Rig_Vol2.pdf (printed page 16) — a larger batch covering printed pages 7–16.** This batch completed the structural setup (full Savana/Stotra-Shastra tables, cross-referenced to Volume 1) and then the compl…
+- **removed (progress / target)** (draft line 539): **Progress: Through printed page 24 — a larger batch covering pages 17–24.** This batch completed the full apparatus for **Rik 3.2** ("aśvinā purudaṃsasā narā śavīrayā dhiyā | dhiṣṇyā vanataṃ giraḥ" — *"O Aswins, performers of mighty deeds,…
+- **removed (next-sūkta working remark)** (draft line 5628): *(Printed p. 257 then continues with the heading "॥ ॐ ॥ — ಏಳನೆಯ ಸೂಕ್ತವು — Seventh Sūkta" and the opening of Sāyaṇa's bhāṣya on Sūkta 7, "indram ity ādikaṃ daśarcam…"; that belongs to the next batch and is not translated here.)*
+- **converted to heading** (draft line 6601): **॥ ಎಂಟನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 8 — *"ā indra sānasiṃ rayim"* ("The Eighth Sūkta")**
+- **converted to heading** (draft line 7350): **॥ ಒಂಭತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 9 — *"indrehi matsy andhasaḥ"* ("The Ninth Sūkta")**
+- **trimmed (next-sūkta working remark)** (draft line 8143): **End of Sūkta 9.** *(The same page, 380, then opens the tenth sūkta, "gāyanti tvā gāyatriṇaḥ", with its application note; its heading, with the varga numerals and Rik 1 text, is on p. 381.)*
+- **converted to heading** (draft line 8149): **॥ ಹತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 10 — *"gāyanti tvā gāyatriṇaḥ"* ("The Tenth Sūkta")**
+- **removed (next-sūkta working remark)** (draft line 9135): *(A printed ornament follows. The next printed page, 448, opens the eleventh sūkta, "indraṃ viśvā avīvṛdhan" — its application note names Jetā, son of Madhucchandas, as the ṛṣi — and follows below.)*
+- **converted to heading** (draft line 9143): **॥ ಹನ್ನೊಂದನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 11 — *"indraṃ viśvā avīvṛdhan"* ("The Eleventh Sūkta")**
+- **removed (next-sūkta working remark)** (draft line 9831): *(A printed ornament follows. The page carries no separate Sanskrit colophon and no Kannada closing line for this sūkta, unlike Sūkta 10. The next printed page, 483, opens the twelfth sūkta, "agniṃ dūtaṃ vṛṇīmahe," and follows below.)*
+- **converted to heading** (draft line 9839): **॥ ಹನ್ನೆರಡನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 12 — *"agniṃ dūtaṃ vṛṇīmahe"* ("The Twelfth Sūkta")**
+- **removed (next-sūkta working remark)** (draft line 10704): *(A printed ornament follows. The page carries no Sanskrit or Kannada colophon for this sūkta. The next printed page, 525, opens the thirteenth sūkta, "suśamiddho na ā vaha," which the table of contents calls an Āpri-sūkta.)*
+- **converted to heading** (draft line 10712): **॥ ಹದಿಮೂರನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 13 — *"suśamiddho na ā vaha"* ("The Thirteenth Sūkta")**
+- **removed (next-sūkta working remark)** (draft line 12011): *(A printed ornament follows; the page has no colophon for Sūkta 13. Then on the same page the Fourteenth Sūkta begins.)*
+- **removed (scan-end remark)** (draft line 17944): *(The scan ends here: PDF page 823, printed page 808.)*
+- **removed (progress / target)** (draft line 17948): **Progress note — Volume 2 complete (printed p. 808, end of the scanned source); numeral, [?] and accent pass complete (Oct 2026).**
