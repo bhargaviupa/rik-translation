@@ -4655,15 +4655,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 (continued, p. 276) but since *yāma* is read in the *vṛṣādi* group, *vṛṣādīnāṃ ca* gives first-syllable acute.
 - **rejate** (p. 276): root *rejṛ kampane*; *śap* being an *adupadeśa* [an *a*-final element], the *te* after it is unaccented by *tāsyanudāttet…*, so the root's accent stays; the relative being connected, there is no wholly-unaccented accent. Rik 8 ends here (*|| 8 ||*).
 
-### Rik 37.9 (pp. 276–278, PDF 290–292)
+### Rik 37.9 (pp. 276–278, PDF 291–293)
 
-**Saṃhitā-pāṭha** *(p. 276; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 276)*
 
-> **स्थिरं हि जानमेषां वयो मातुर्निरेतवे ।**
-> **यत्सीमनु द्विता शवः ॥ ९ ॥**
+> स्थि॒रं हि जान॑मेषां॒ वयो॑ मा॒तुर्निरे॑तवे ।
+> यत्सी॒मनु॑ द्वि॒ता शवः॑ ॥ ९ ॥
 
-*sthiraṃ hi jānam eṣāṃ vayo mātur niretave |*
-*yat sīm anu dvitā śavaḥ || 9 ||*
+*sthiráṃ hi jā́nam eṣāṃ váyo mātúr nirétave |*
+*yát sīmánu dvitā́ śávaḥ || 9 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 276)*
 
@@ -4673,7 +4675,7 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *sthiram | hi | jānam | eṣām | vayaḥ | mātuḥ | niḥ-etave ||*
 *yat | sīm | anu | dvitā | śavaḥ || 9 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 276; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 276, in full, with its grammatical tail)*
 
 > एषां मरुतां जानं जन्मस्थानमाकाशं स्थिरं हि । चलनरहितं खलु । मातुर्मरुतां जननीस्थानीयादाकाशाद्वयः पक्षिणो निरेतवे निर्गन्तुं समर्था भवन्तीति शेषः । तादृशादाकाशाद्भवज्जन्मेति मरुतां स्तुतिः । यद्यस्मात्कारणाच्छवो भवदीयं बलमनुक्रमेण सीं सर्वतो द्विता द्वित्वेन द्यावापृथिव्योर्विभज्य वर्तते । अतो भवदीयं जानं स्थिरं हीति पूर्वत्रान्वयः ॥ जानम् । जन्यतेऽस्मिन्निति जानमन्तरिक्षम् । अधिकरणे घञ् । एषाम् । इदमोऽन्वादेश इत्येशादेशोऽनुदात्तः । विभक्तिश्च सुप्त्वादनुदात्ता । न चोडिदमित्यादिना विभक्त्युदात्तत्वम् । अन्तोदात्तादिदंशब्दात्तस्य विधानात् । निरेतवे । इण् गतौ । तुमर्थे सेसेनिति तवेन्प्रत्ययः । तादौ चेति गतेः प्रकृतिस्वरत्वम् ॥
 
@@ -4682,6 +4684,8 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 **Translation:** "*Eṣām* — of these Maruts — *jānam*, the birth-place, the sky, is *sthiram* — firm, indeed without movement. *Mātuḥ* — from the sky, which stands in the place of the Maruts' mother — *vayaḥ*, the birds, *niretave* — [are] able to go out: so it is to be supplied. So, praising the Maruts: 'your birth is from such a sky'. *Yat* — for this reason — *śavaḥ* — your strength — *anukrameṇa* — successively — *sīm* — on all sides — *dvitā* — in two parts — it rests, dividing heaven and earth. Therefore: 'your *jāna* is firm' — the connection with what went before."
 
 **Grammar within the bhāṣya** *(p. 276, characterized)*: *jānam* (*janyate 'smin*, *adhikaraṇe ghañ*); *eṣām* (the *eś* substitute for *idam* in the *anvādeśa* is unaccented; the ending is unaccented as a *sup*; the acute of the ending that *ūḍidam…* would give does not arise, since the rule applies only to an *idam* that is final-acute); *niretave* (*iṇ gatau*; *tumarthe sasenasen…*: the suffix *tavenḥ*; *tādau ca niti kṛtyatau*: *nir* keeps its natural accent).
+
+### Page 277
 
 **Pratipadārtha** *(p. 277)* — "**eṣām** — of these (Maruts); **jānam** — the sky, [their] birth-place; **sthiram hi** — [is] firm, devoid of movement; **mātuḥ** — from the sky [which is your mother, the place of birth]; **vayaḥ** — birds; **niretave** — to come out and move about [are enabled]; **yat** — for which reason; **śavaḥ** — your strength; **anukrameṇa** — in succession; **sīm** — all round; **dvitā** — in both worlds, heaven and earth, in two parts; [pervades]."
 
@@ -4696,9 +4700,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **dvitā** — "dividing into two: that is, since the sky stands between the earth and the heavenly world, it makes the earth and heaven separate, that is, it makes two [of them]: such is the sense."
 - **śavaḥ** — "strength, power."
 
-**Vyākaraṇa-prakriyā** *(p. 278, PDF 292 — grammar page, noted briefly)*
-- **jānam**: *janyate 'smin iti jānam* — "in it, origin takes place; the sky, the support of origin, is indicated by this word"; *halaś ca* — हलश्च — [Pā. 3-3-121, as read]: *ghañ* in the locus sense.
-- **eṣām**: after *idam*, the genitive plural *ām*; *tyadādīnām aḥ* — त्यदादीनामः — [Pā. 7-2-102, as read]: before a *vibhakti* the final of the words from *tyad* to *dvi* is replaced by *a*: *ida + ām*; *idamo 'nvādeśe 'śanudāttas tṛtīyādau* [the rule as I read the print, *Pā. 2-4-32 [?]*]: when a vibhakti from the third on follows, in the *anvādeśa* [*idam*] takes *aś*, which is unaccented; the *ś* is a marker: *a + ām*. "*Anvādeśa* means the repeated mention, for a further operation, of a term already used for one operation: for example *anena vyākaraṇam adhītam, enaṃ chando 'dhyāpaya*." *Āmi sarvanāmnaḥ suṭ* — आमि सर्वनाम्नः सुट् — [Pā. 7-1-52]: the augment *suṭ* for *ām*; *bahuvacane jhaly et* — बहुवचने झल्येत् — [Pā. 7-3-103]: *a* → *e*; *ādeśapratyayayoḥ*: *ṣatva*: *eṣām*; the *a* that comes by *aś* is unaccented; *ām* is a *sup* and so unaccented by *anudāttau suppitau*: thus *eṣām* is wholly unaccented. "One might say that the ending after *idam* should be acute by *ūḍidaṃ padādy…* [Pā. 6-1-171]; but from *sāvekācaḥ* [Pā. 6-1-168] the word *ekācaḥ* and from *antodāttāt* [Pā. 6-1-169] the word *antodāttāt* — the two words — are carried forward: so the sense is that the ending after the words *ūṭ* etc., which are one-vowelled and final-acute, is acute; here, since the *aś* that has come for *idam* is unaccented, there is no final-acute *idam*-word, and the *ām* ending does not get the acute."
+### Page 278
+
+**Vyākaraṇa-prakriyā** *(p. 278, PDF 293 — grammar page, noted briefly)*
+- **jānam**: *janyate 'smin iti jānam* — "in it, origin takes place; the sky, the support of origin, is indicated by this word"; *halaś ca* — हलश्च — (Pā. 3-3-121): *ghañ* in the locus sense.
+- **eṣām**: after *idam*, the genitive plural *ām*; *tyadādīnām aḥ* — त्यदादीनामः — (Pā. 7-2-102): before a *vibhakti* the final of the words from *tyad* to *dvi* is replaced by *a*: *ida + ām*; *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. 2-4-32): when a vibhakti from the third on follows, in the *anvādeśa* [*idam*] takes *aś*, which is unaccented; the *ś* is a marker: *a + ām*. "*Anvādeśa* means the repeated mention, for a further operation, of a term already used for one operation: for example *anena vyākaraṇam adhītam, enaṃ chando 'dhyāpaya*." *Āmi sarvanāmnaḥ suṭ* — आमि सर्वनाम्नः सुट् — (Pā. 7-1-52): the augment *suṭ* for *ām*; *bahuvacane jhaly et* — बहुवचने झल्येत् — (Pā. 7-3-103): *a* → *e*; *ādeśapratyayayoḥ*: *ṣatva*: *eṣām*; the *a* that comes by *aś* is unaccented; *ām* is a *sup* and so unaccented by *anudāttau suppitau*: thus *eṣām* is wholly unaccented. "One might say that the ending after *idam* should be acute by *ūḍidaṃ padādy…* (Pā. 6-1-171); but from *sāvekācaḥ* (Pā. 6-1-168) the word *ekācaḥ* and from *antodāttāt* (Pā. 6-1-169) the word *antodāttāt* — the two words — are carried forward: so the sense is that the ending after the words *ūṭ* etc., which are one-vowelled and final-acute, is acute; here, since the *aś* that has come for *idam* is unaccented, there is no final-acute *idam*-word, and the *ām* ending does not get the acute."
 - **niretave**: *nir* the preverb; *iṇ gatau*; *tumarthe sasenase…* — the suffix *tavenḥ*; *guṇa*; *tādau ca niti kṛtyatau*: *nir* keeps its natural accent. Rik 9 ends here (*|| 9 ||*).
 
 ### Rik 37.10 (pp. 279–281, PDF 293–295)
