@@ -9945,11 +9945,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 485)*
 
-> तथा तदस्तु सोमपाः सखे वज्रिन्तथा कृणु ।
-> यथा त उश्मसीष्टये ॥ १२ ॥
+> त॒था तद॑स्तु सोम॒पाः सखे॑ व॒ज्रिन्तथा॑ कृणु ।
+> यथा॑ त उ॒श्मसी॒ष्टये॑ ॥ १२ ॥
 
-> *tathā tadastu somapāḥ sakhe vajrintathā kṛṇu |*
-> *yathā ta uśmasīṣṭaye ‖ 12 ‖*
+> *tathā́ tádastu somapā́ḥ sákhe vajríntáthā kṛṇu |*
+> *yáthā ta uśmásīṣṭáye || 12 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
@@ -9961,13 +9963,15 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Sāyaṇa-bhāṣya** *(p. 485)*
 
-> हे सोमपाः सखे वज्रिन् इष्टयेऽभिलषितार्थं ते तवानुग्रहं यथा येन प्रकारेणोश्मसि वयं कामयामहे त्वं तथा कुरु । त्वत्प्रसादात्तदभीप्सितं तथास्तु ॥ कृणु । कृवि हिंसाकरणयोश्च । इदित्त्वान्नुम् । धिन्विकृण्व्योर च । इत्युप्रत्ययः । तत्संनियोगेन वकारस्य चाकारः । अतो लोप इति तस्य लोपः । तस्य स्थानिवद्भावाल्लघूपधगुणाभावः । उतश्च प्रत्ययादसंयोगपूर्वादिति हेर्लुक् । उश्मसि । वश कान्तौ । इदन्तो मसि । अदादित्वाच्छपो लुक् । ग्रहिज्यादिना संप्रसारणम् । प्रत्ययस्वरः । यद्वृत्तयोगादनिघातः । इष्टये । इषु इच्छायाम् । क्तिनि तितुत्रेत्यादिनेट्प्रतिषेधः । यद्वा । यजतेः क्तिनि वचिस्वपीत्यादिना संप्रसारणम् । व्रश्चादिना षत्वे ष्टुत्वम् । पूर्वस्मिन्पक्षे मन्त्रे वृषेषेति क्तिन उदात्तत्वम् । द्वितीये तु व्यत्ययेन ॥
+> हे सोमपाः सखे वज्रिन् इष्टयेऽभिलषितार्थं ते तवानुग्रहं यथा येन प्रकारेणोश्मसि वयं कामयामहे त्वं तथा कुरु । त्वत्प्रसादात्तदभीष्टं तथास्तु ॥ कृणु । कृवि हिंसाकरणयोश्च । इदित्त्वान्नुम् । धिन्विकृण्व्योरच्चेत्युप्रत्ययः । तत्संनियोगेन वकारस्य चाकारः । अतो लोप इति तस्य लोपः । तस्य स्थानिवद्भावाल्लघूपधगुणाभावः । उतश्च प्रत्ययादसंयोगपूर्वादिति हेर्लुक् । उश्मसि । वश कान्तौ । इदन्तो मसिः । अदादित्वाच्छपो लुक् । ग्रहिज्यादिना संप्रसारणम् । प्रत्ययस्वरः । यद्वृत्तयोगादनिघातः । इष्टये । इषु इच्छायाम् । क्तिनि तितुत्रेत्यादिनेट्प्रतिषेधः । यद्वा । यजतेः क्तिनि वचिस्वपीत्यादिना । पा. ६-१-१५ । संप्रसारणम् । व्रश्चादिना षत्वे ष्टुत्वम् । पूर्वस्मिन्पक्षे मन्त्रे वृषेति क्तिन उदात्तत्वम् । द्वितीये तु व्यत्ययेन ॥
 
-> *he somapāḥ sakhe vajrin iṣṭaye 'bhilaṣitārthaṃ te tavānugrahaṃ yathā yena prakāreṇośmasi vayaṃ kāmayāmahe tvaṃ tathā kuru | tvatprasādāttadabhīpsitaṃ tathāstu ‖ kṛṇu | kṛvi hiṃsākaraṇayośca | idittvānnum | dhinvikṛṇvyora ca | ityupratyayaḥ | tatsaṃniyogena vakārasya cākāraḥ | ato lopa iti tasya lopaḥ | tasya sthānivadbhāvāllaghūpadhaguṇābhāvaḥ | utaśca pratyayādasaṃyogapūrvāditi herluk | uśmasi | vaśa kāntau | idanto masi | adāditvācchapo luk | grahijyādinā saṃprasāraṇam | pratyayasvaraḥ | yadvṛttayogādanighātaḥ | iṣṭaye | iṣu icchāyām | ktini titutretyādineṭpratiṣedhaḥ | yadvā | yajateḥ ktini vacisvapītyādinā saṃprasāraṇam | vraścādinā ṣatve ṣṭutvam | pūrvasminpakṣe mantre vṛṣeṣeti ktina udāttatvam | dvitīye tu vyatyayena ‖*
+> *he somapāḥ sakhe vajrin iṣṭaye 'bhilaṣitārthaṃ te tavānugrahaṃ yathā yena prakāreṇośmasi vayaṃ kāmayāmahe tvaṃ tathā kuru | tvatprasādāttadabhīṣṭaṃ tathāstu ‖ kṛṇu | kṛvi hiṃsākaraṇayośca | idittvānnum | dhinvikṛṇvyoraccetyupratyayaḥ | tatsaṃniyogena vakārasya cākāraḥ | ato lopa iti tasya lopaḥ | tasya sthānivadbhāvāllaghūpadhaguṇābhāvaḥ | utaśca pratyayādasaṃyogapūrvāditi herluk | uśmasi | vaśa kāntau | idanto masiḥ | adāditvācchapo luk | grahijyādinā saṃprasāraṇam | pratyayasvaraḥ | yadvṛttayogādanighātaḥ | iṣṭaye | iṣu icchāyām | ktini titutretyādineṭpratiṣedhaḥ | yadvā | yajateḥ ktini vacisvapītyādinā | pā. 6-1-15 | saṃprasāraṇam | vraścādinā ṣatve ṣṭutvam | pūrvasminpakṣe mantre vṛṣeti ktina udāttatvam | dvitīye tu vyatyayena ‖*
 
-*Translation:* "O Soma-drinker, friend, thunderbolt-bearer! For the fulfilment (*iṣṭaye*) of the wish — in the way (*yathā*) in which we desire (*uśmasi*) your favour — do (*kṛṇu*) so; by your grace let that wish be so [fulfilled]." *(Grammar clauses on* kṛṇu *[*kṛvi hiṃsākaraṇayoś ca*; *num*; *u* by *dhinvikṛṇvyor a ca*; *hi* dropped], *uśmasi* [*vaśa kāntau*; *masi*; *saṃprasāraṇa*] *and* iṣṭaye *[from *iṣu icchāyām* or from *yaj*, with *ktin*] follow.)*
+*Translation:* "O Soma-drinker, friend, thunderbolt-bearer! For the desired object (*iṣṭaye*), in the way (*yathā*) in which we desire (*uśmasi*) your (*te*) favour, so (*tathā*) do (*kṛṇu*) you; by your grace let that wish be so (*tathā astu*)." The grammatical tail treats *kṛṇu* (*kṛvi hiṃsākaraṇayoś ca*; *num* as *idit*; *u* by *dhinvikṛṇvyor a ca*, with *a* for the *v*, then its loss by *ato lopaḥ*, which, by *sthānivadbhāva*, prevents the guṇa of the light penult; *hi* dropped by *utaś ca pratyayād asaṃyogapūrvāt*), *uśmasi* (*vaśa kāntau*; *masi* by *idanto masiḥ*; *luk* of *śap*; *saṃprasāraṇa* by *grahijyā…*; the suffix accent; not grave because of *yad*) and *iṣṭaye* (*iṣu icchāyām* with *ktin*, no *iṭ* by *tituatra…*; or from *yaj*, with *saṃprasāraṇa* by Pā. 6-1-15, *ṣ* by *vraśca…* and *ṣṭutva*; the udātta of *ktin* by *mantre vṛṣa…* in the first view, by *vyatyaya* in the second).
 
 **Pratipadārtha** *(p. 485, rendered)* — **सोमपाः** drinker of Soma; **सखे** friend; **वज्रिन्** holder of the thunderbolt; **इष्टये** for the fulfilment of our wish; **ते** your [favour]; **यथा** in whatever manner; **उश्मसि** we desire; **तथा** in that manner [bestow]; **तत्** that wish; **तथा अस्तु** be fulfilled in that very way.
+
+### Page 486 — Sūkta 30, Rik 12 (continued)
 
 **Bhāvārtha** *(p. 486)* — O Indra, Soma-drinker, holder of the thunderbolt, our friend! Grant your favour in the manner in which we desire it for the fulfilment of our wish; and may our wish also be fulfilled in the same manner.
 
@@ -9977,7 +9981,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Viśeṣa-viṣayagaḷu** *(p. 486)* — **इष्टये** — *abhilaṣitārtham*: for the wished-for object; or *iṣṭaye tava yogāya*: for the sake of joining with you. Since *iṣṭi* can mean 'sacrifice', *iṣṭaye* may also be explained as 'for the sake of sacrificing to you' ("for the purpose of performing the sacrifice").
 
-**Grammar (pp. 486–487), noted briefly:** *kṛṇu* (*kṛvi hiṃsākaraṇayoś ca*, *bhvādi*; *idito num* P. 7-1-58; *u* by P. 3-1-80 *dhinvikṛṇvyor a ca*; *ato lopaḥ* P. 6-4-48; *acaḥ parasmin pūrvavidhau* P. 1-1-57 keeps the light penult from guṇa; *hi* dropped by P. 6-4-106 *uto…* [as read]; *ṇatva* P. 8-4-1); *uśmasi* (*vaśa kāntau*, *adādi*; *idanto masi* P. 7-1-46; *śap* *luk* P. 2-4-72; *grahijyā…* P. 6-1-16 and *saṃprasāraṇāc ca* P. 6-1-108, giving *uśmasi*; lowering barred by P. 8-1-66 *yadvṛttān nityam*); *iṣṭaye* (*iṣu icchāyām*, *divādi*, *striyāṃ ktin* P. 3-3-94; *iṭ* barred by P. 7-2-9 *titutratatheṣu…* [as read]; or *yaja*, *vacisvapi…* P. 6-1-15, *vraścabhrasja…* P. 8-2-36 and *ṣṭunā ṣṭuḥ*; accent *mantre vṛṣeṣapacamanavidabhūvīrā udāttaḥ* P. 3-3-96 [as read], or *vyatyaya*). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(pp. 486–487, noted briefly)* — *kṛṇu*: *kṛvi hiṃsākaraṇayoś ca*, *bhvādi*, *loṭ* second person singular, *sip* → *hi*; *num* by '*idito num dhātoḥ*' (Pā. sū. 7-1-58); *u* instead of *śap* by '*dhinvikṛṇvyor a ca*' (Pā. sū. 3-1-80), with *a* for the *v*; loss of that *a* by '*ato lopaḥ*' (Pā. sū. 6-4-48); by '*acaḥ parasmin pūrvavidhau*' (Pā. sū. 1-1-57) the lost vowel counts, so no guṇa of the light penult *ṛ*; *luk* of *hi* by '*utaś ca pratyayād asaṃyogapūrvāt*' (Pā. sū. 6-4-106); *ṇatva*; grave as a *tiṅ* form. *uśmasi*: *vaśa kāntau*, *adādi*, *laṭ* first person plural *mas*; *i* added by '*idanto masi*' (Pā. sū. 7-1-46); *luk* of *śap* by '*adiprabhṛtibhyaḥ śapaḥ*' (Pā. sū. 2-4-72); as *mas* is treated as *ṅit*, *saṃprasāraṇa* by '*grahijyāvayi-*' (Pā. sū. 6-1-16) and *pūrvarūpa* by '*saṃprasāraṇāc ca*'; *(p. 487)* initial udātta of the suffix: the *a* after *m* is udātta; not grave by '*yadvṛttayogān nityam*' (*yathā* precedes). *iṣṭaye*: *iṣu icchāyām*, *divādi*; *ktin* by '*striyāṃ ktin*' (Pā. sū. 3-3-94); no *iṭ* by '*titutratatha-*' (Pā. sū. 7-2-9); *ṣṭutva*: *iṣṭi*; or *yaja devapūjāsaṃgatikaraṇadāneṣu*, *bhvādi*, with *ktin*: *saṃprasāraṇa* by '*vacisvapiyajādīnāṃ kiti*' (Pā. sū. 6-1-15), *pūrvarūpa*, *ṣ* for *j* by '*vraścabhrasja-*', *ṣṭutva*: *iṣṭi*; dative singular. Accent: in the first view the udātta of *ktin* by '*mantre vṛṣa-*' (Pā. sū. 3-3-96); in the second, initial udātta would be due, but *ktin* is udātta by '*vyatyayo bahulam*' (Pā. sū. 3-1-85).
+
+*(p. 487 is read from the old scan, `scans/Rig_Vol3.pdf` PDF 502: it is missing from the better scan.)*
 
 ---
 
