@@ -4527,15 +4527,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **dhūtayaḥ**: root *dhūñ kampane*, *svādi*; *ktic ktau ca saṃjñāyām*: *ktic*; *titutra…*: no *iṭ* for *ti*; *āmantritasya ca* — the eighth *adhyāya*'s (no number printed): wholly unaccented.
 - **dhūnutha**: root *dhūñ*, *laṭ*, second-person plural *tha*; *svādibhyaḥ śnuḥ* — स्वादिभ्यः श्नुः — (Pā. 3-1-73): *śnu* as the *vikaraṇa*; *dhū + nu + tha*; since the *śnu* comes at the end the accent that comes to it is *satiśiṣṭa*; the dictum *satiśiṣṭasvarabalīyastvam anyatra vikaraṇebhyaḥ* — "the *satiśiṣṭa* accent is stronger, except against the *vikaraṇas*" — means the accent from the *vikaraṇa* is not stronger; the accent of the *tiṅ* alone remains. *Yat sīmantam*: the relative *yat* is connected, so *yadvṛttānnityam* forbids the wholly-unaccented. Rik 6 ends here (*|| 6 ||*).
 
-### Rik 37.7 (pp. 270–, PDF 284–)
+### Rik 37.7 (pp. 270–273, PDF 285–288)
 
-**Saṃhitā-pāṭha** *(p. 270; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 270)*
 
-> **नि वो यामाय मानुषो दध्र उग्राय मन्यवे ।**
-> **जिहीत पर्वतो गिरिः ॥ ७ ॥**
+> नि वो॒ यामा॑य॒ मानु॑षो द॒ध्र उ॒ग्राय॑ म॒न्यवे॑ ।
+> जिही॑त॒ पर्व॑तो गि॒रिः ॥ ७ ॥
 
-*ni vo yāmāya mānuṣo dadhra ugrāya manyave |*
-*jihīta parvato giriḥ || 7 ||*
+*ni vo yā́māya mā́nuṣo dadhrá ugrā́ya manyáve |*
+*jihī́ta párvato giríḥ || 7 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 270)*
 
@@ -4547,15 +4549,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 *(The Saṃhitā's "dadhra ugrāya" is the Pada's* dadhre | ugrāya*, with* e *changed to* a *before the vowel, by Vedic sandhi.)*
 
-**Sāyaṇa-bhāṣya** *(p. 271; the first half in full, the grammatical tail characterized)*
+### Page 271
 
-> हे मरुतो वो युष्माकं यामाय गमनार्थं मानुषो गृहस्वामी कश्चिन्मनुजो नि दध्रे । गृहदार्ढ्यार्थं दृढं स्तम्भं निक्षिप्तवान् । भवदीयगमनेन चालितं गृहं पतिष्यतीति भीत्या तन्निवारणाय दृढस्तम्भप्रक्षेपः । कीदृशाय यामाय । उग्राय तीव्राय मन्यवे चालनार्थमभिमन्यमानाय । युज्यते हि भवद्गमनाद्भीतिः । यतो भवद्गत्या चालितः पर्वतो बहुविधपर्वयुक्तो गिरिः शिखरी जिहीत गच्छेत् ॥ मानुषः । मनोर्जाताववश्यतौ षुक् च । पा. ४-१-१६१ । इति मनुशब्दादपत्यार्थेऽञ् षुगागमश्च । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । दध्रे । धृ अवस्थाने [the indicatory letter of the root is not clear in the print] इत्यस्य लिटि कित्त्वाद्गुणाभावे सति यणादेशः । प्रत्ययस्वरः । पादादित्वान्न निघातः । जिहीत । ओहाङ् गतौ लिङ् जुहोत्यादित्वाच्छपः श्लुः । भृञामित् । पा. ७-४-७६ । इत्यभ्यासस्येत्वम् । शाभ्यस्तयोरात इत्याकारलोपः । पर्ववान् पर्वतः । मत्वर्थीयस्तप्रत्ययः ॥
+**Sāyaṇa-bhāṣya** *(p. 271, in full, with its grammatical tail)*
 
-*he maruto vo yuṣmākaṃ yāmāya gamanārthaṃ mānuṣo gṛhasvāmī kaścin manujo ni dadhre | gṛhadārḍhyārthaṃ dṛḍhaṃ stambhaṃ nikṣiptavān | bhavadīyagamanena cālitaṃ gṛhaṃ patiṣyatīti bhītyā tannivāraṇāya dṛḍhastambhaprakṣepaḥ | kīdṛśāya yāmāya | ugrāya tīvrāya manyave cālanārtham abhimanyamānāya | yujyate hi bhavadgamanād bhītiḥ | yato bhavadgatyā cālitaḥ parvato bahuvidhaparvayukto giriḥ śikharī jihīta gacchet || mānuṣaḥ | manor jātāv avaśyatau ṣuk ca | pā. 4-1-161 | iti manuśabdād apatyārthe 'ñ ṣugāgamaś ca | ñnityādir nityam ity ādyudāttatvam | dadhre | dhṛ avasthāne [the indicatory letter of the root is not clear in the print] ity asya liṭi kittvād guṇābhāve sati yaṇādeśaḥ | pratyayasvaraḥ | pādāditvān na nighātaḥ | jihīta | ohāṅ gatau liṅ juhotyāditvāc chapaḥ śluḥ | bhṛñām it | pā. 7-4-76 | ity abhyāsasyetvam | śābhyastayor āta ity ākāralopaḥ | parvavān parvataḥ | matvarthīyas taprayayaḥ ||*
+> हे मरुतो वो युष्माकं यामाय गमनार्थं मानुषो गृहस्वामी कश्चिन्मनुजो नि दध्रे । गृहदार्ढ्यार्थं दृढं स्तम्भं निक्षिप्तवान् । भवदीयगमनेन चालितं गृहं पतिष्यतीति भीत्या तन्निवारणाय दृढस्तम्भप्रक्षेपः । कीदृशाय यामाय । उग्राय तीव्राय मन्यवे चालनार्थमभिमन्यमानाय । युज्यते हि भवद्गमनाद्भीतिः । यतो भवद्गत्या चालितः पर्वतो बहुविधपर्वयुक्तो गिरिः शिखरी जिहीत गच्छेत् ॥ मानुषः । मनोर्जातावञ्यतौ षुक् च । पा. ४-१-१६१ । इति मनुशब्दादपत्यार्थेऽञ् षुगागमश्च । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । दध्रे । धृञ् अवस्थान इत्यस्य लिटि कित्त्वाद्गुणाभावे सति यणादेशः । प्रत्ययस्वरः । पादादित्वान्न निघातः । जिहीत । ओहाङ् गतौ लिङ् जुहोत्यादित्वाच्छपः श्लुः । भृञामित् । पा. ७-४-७६ । इत्यभ्यासस्येत्वम् । शाभ्यस्तयोरात इत्याकारलोपः । पर्ववान् पर्वतः । मत्वर्थीयस्तप्रत्ययः ॥
+
+*he maruto vo yuṣmākaṃ yāmāya gamanārthaṃ mānuṣo gṛhasvāmī kaścinmanujo ni dadhre | gṛhadārḍhyārthaṃ dṛḍhaṃ stambhaṃ nikṣiptavān | bhavadīyagamanena cālitaṃ gṛhaṃ patiṣyatīti bhītyā tannivāraṇāya dṛḍhastambhaprakṣepaḥ | kīdṛśāya yāmāya | ugrāya tīvrāya manyave cālanārthamabhimanyamānāya | yujyate hi bhavadgamanādbhītiḥ | yato bhavadgatyā cālitaḥ parvato bahuvidhaparvayukto giriḥ śikharī jihīta gacchet ‖ mānuṣaḥ | manorjātāvañyatau ṣuk ca | pā. 4-1-161 | iti manuśabdādapatyārthe 'ñ ṣugāgamaśca | ñnityādirnityamityādyudāttatvam | dadhre | dhṛñ avasthāna ityasya liṭi kittvādguṇābhāve sati yaṇādeśaḥ | pratyayasvaraḥ | pādāditvānna nighātaḥ | jihīta | ohāṅ gatau liṅ juhotyāditvācchapaḥ śluḥ | bhṛñāmit | pā. 7-4-76 | ityabhyāsasyetvam | śābhyastayorāta ityākāralopaḥ | parvavān parvataḥ | matvarthīyastapratyayaḥ ‖*
 
 **Translation:** "O Maruts, for your *yāma*, your going, *mānuṣaḥ* — some man, a householder — *ni dadhre* — has set down, driven, a firm post, to make his house firm: the planting of the firm post is in fear that the house, shaken by your going, may fall, and to prevent this. For what *yāma*? *Ugrāya manyave* — [your going which is] fierce, keen, bent on shaking. Fear at your going is indeed fitting: *parvataḥ*, the mountain [that has] many kinds of joints (*parva*) — *giriḥ*, the peaked mountain, being shaken by your passage, *jihīta* — goes [= is shattered]."
 
-**Grammar within the bhāṣya** *(p. 271, characterized)*: *mānuṣaḥ* (*manor jātāv añ ṣuk ca* — Pā. 4-1-161, as read: *añ* with the augment *ṣuk* after *manu* in the sense of descendant; *ñnityādir nityam*: first-syllable acute); *dadhre* (the root's *liṭ* is *kit*, so no *guṇa* and *yaṇ* for the vowel; suffix accent; no lowering because the word begins a pāda [*pādāditvāt*]); *jihīta* (*ohāṅ gatau*; *liṅ*; *śap* → *ślu* as the root belongs to the *juhotyādi*; *bhṛñām it* — Pā. 7-4-76 — *i* for the reduplicate vowel; *śābhyastayor ātaḥ*: loss of the *ā*); *parvataḥ* (*parva asyāsti*, the *mat*-sense suffix *ta* [as read]).
+**Grammar within the bhāṣya** *(p. 271, characterized)*: *mānuṣaḥ* (*manor jātāv añyatau ṣuk ca* — Pā. 4-1-161: *añ* with the augment *ṣuk* after *manu* in the sense of descendant; *ñnityādir nityam*: first-syllable acute); *dadhre* (the root's *liṭ* is *kit*, so no *guṇa* and *yaṇ* for the vowel; suffix accent; no lowering because the word begins a pāda [*pādāditvāt*]); *jihīta* (*ohāṅ gatau*; *liṅ*; *śap* → *ślu* as the root belongs to the *juhotyādi*; *bhṛñām it* — Pā. 7-4-76 — *i* for the reduplicate vowel; *śābhyastayor ātaḥ*: loss of the *ā*); *parvataḥ* (*parva asyāsti*, the *mat*-sense suffix *ta* [as read]).
 
 **Pratipadārtha** *(p. 271)* — "**vaḥ** — (O Maruts) your; **ugrāya** — fierce; **manyave** — [that has] a tendency to shake firmly; **yāmāya** — for the going (so that in the time of your going the house should not fall by shaking); **mānuṣaḥ** — the man (the householder); **ni dadhre** — has set a post (to hold the house); **parvataḥ** — [the one] with many ridges; **giriḥ** — the mountain too; **jihīta** — would be shattered (by your violence)."
 
@@ -4565,21 +4569,29 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 37.7 (continued) — Special Topics and grammar (pp. 272–273, PDF 286–287)
+### Rik 37.7 (continued) — Special Topics and grammar (pp. 272–273, PDF 287–288)
+
+### Page 272
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 272**
 - **Main idea** — "The Maruts blow with great speed and terror, so that even the mountain-tops, unable to withstand their force, shake. When that is so, how can the houses in which men live stand firm? For that very reason men set up strong posts in their houses, so that the houses may not be shaken by the wind that blows with great violence, to keep their houses firm."
 
-**Vyākaraṇa-prakriyā** *(pp. 272–273 — grammar pages, noted briefly)*
-- **mānuṣaḥ**: *manor jātāv añyatau ṣuk ca* — मनोर्जाताविञ्यतौ षुक् च — [Pā. 4-1-161]: after the base *manu*, in the sense of *jāti*, the suffixes *añ* and *yat* come, and the augment *ṣuk* is added to *manu*; with *añ* and the augment *ṣuk* at its end: *mānuṣa*. "The person who has completed his Vedic study and performs the works enjoined by the Veda is indicated by the word *mānuṣa*; if he is not so, one should say *māṇava*." The print cites a verse in support, which I read as:
+**Vyākaraṇa-prakriyā** *(pp. 272–273, PDF 287–288 — grammar pages, noted briefly)*
+- **mānuṣaḥ**: *manor jātāv añyatau ṣuk ca* — मनोर्जातावञ्यतौ षुक् च — (Pā. 4-1-161): after the base *manu*, in the sense of *jāti*, the suffixes *añ* and *yat* come, and the augment *ṣuk* is added to *manu*; with *añ* and the augment *ṣuk* at its end: *mānuṣa*. "The person who has completed his Vedic study and performs the works enjoined by the Veda is indicated by the word *mānuṣa*; if he is not so, one should say *māṇava*." The print cites a verse in support, which I read as:
 
-> अपत्ये कुत्सिते मूढे मनोरौत्सर्गिकः स्मृतः । नकारस्य च मूर्धन्यस्त्वेनसिद्ध्यति माणवः ॥ [?]
+> अपत्ये कुत्सिते मूढे मनोरौत्सर्गिकः स्मृतः ।
+> नकारस्य च मूर्धन्यस्तेन सिद्ध्यति माणवः ॥
 
-*apatye kutsite mūḍhe manor autsargikaḥ smṛtaḥ | nakārasya ca mūrdhanyas tv enasiddhyati māṇavaḥ || [?]*
+*apatye kutsite mūḍhe manor autsargikaḥ smṛtaḥ |*
+*nakārasya ca mūrdhanyas tena siddhyati māṇavaḥ ||*
 
-"[In the sense of] a descendant, and of the contemptible and the foolish, the general [suffix] after *manu* is held [to apply]; and the cerebral for the *n* … [the last words are unclear to me]: [thus] *māṇava* is formed." *(Verse and translation read with doubt; the translation is mine and tentative.)* "*Ñnityādir nityam* — first-syllable acute."
-- **dadhre**: root *dhṛ* [the indicatory letter is not clear in the print], *avasthāne*; *liṭ*, *ta*, *e* (*liṭas tajhayor eśirec*); doubling: *dhṛ + dhṛ + e*; *ur at* — उरत् — (no number given): *a* for the *ṛ* of the reduplicate, with *raparatva*; the loss of the reduplicate's final and *jaś*-substitution: *dadhṛ + e*; *kṅiti ca* — क्ङिति च — bars *guṇa*; *yaṇ*; because the word stands at the beginning of a pāda, *tiṅ ṅatiṅaḥ* does not make it wholly unaccented; the suffix-accent alone holds.
-- **jihīta**: root *ohāṅ gatau*; *liṅ*, *ta*; *liṅaḥ sīyuṭ* — the augment *sīyuṭ*; *yalopa* [loss of *y*] and loss of *s*: *hā + īta*; *juhotyādibhyaḥ śluḥ* — जुहोत्यादिभ्यः श्लुः — [Pā. 2-4-75]: *ślu* for *śap*; *ślau* — श्लौ — [Pā. 6-1-10]: doubling: *hā + hā + īta*; *bhṛñām it* — भृञामित् — [Pā. 7-4-76]: *i* for the reduplicate of *bhṛ*, *māṅ*, *ohāṅ* when *ślu* has come: *hi + hā + īta*; *kuhoś cuḥ*: *h* → *j*; *śnābhyastayor ātaḥ* — श्नाभ्यस्तयोरातः — [Pā. 6-4-112]: the *ā* of *śnā* and of an *abhyasta* base is lost before a *kit* or *ñit* *sārvadhātuka*; "the *ī* which *ī hali aghoḥ* — ई हल्यघोः — [Pā. 6-4-113] enjoins for a consonant-initial *sārvadhātuka* does not come here [p. 273]; since this latter is a special rule, it is an exception to the former, and so when a vowel-initial suffix follows, the former rule operates."
+"[In the sense of] a descendant who is contemptible or foolish, the general [suffix] after *manu* is held [to apply], and the cerebral for the *n*: by that *māṇava* is formed." *(Translation mine and tentative.)* "By this statement the point made above is established." "*Ñnityādir nityam* — first-syllable acute."
+- **dadhre**: root *dhṛñ avasthāne*; *liṭ*, *ta*, *e* (*liṭas tajhayor eśirec*); doubling: *dhṛ + dhṛ + e*; *ur at* — उरत् — (no number given): *a* for the *ṛ* of the reduplicate, with *raparatva*; the loss of the reduplicate's final and *jaś*-substitution: *dadhṛ + e*; *kṅiti ca* — क्ङिति च — bars *guṇa*; *yaṇ*; because the word stands at the beginning of a pāda, *tiṅ ṅatiṅaḥ* does not make it wholly unaccented; the suffix-accent alone holds.
+- **jihīta**: root *ohāṅ gatau*; *liṅ*, *ta*; *liṅaḥ sīyuṭ* — the augment *sīyuṭ*; *yalopa* [loss of *y*] and loss of *s*: *hā + īta*; *juhotyādibhyaḥ śluḥ* — जुहोत्यादिभ्यः श्लुः — (Pā. 2-4-75): *ślu* for *śap*; *ślau* — श्लौ — (Pā. 6-1-10): doubling: *hā + hā + īta*; *bhṛñām it* — भृञामित् — (Pā. 7-4-76): *i* for the reduplicate of *bhṛ*, *māṅ*, *ohāṅ* when *ślu* has come: *hi + hā + īta*; *kuhoś cuḥ*: *h* → *j*; *śnābhyastayor ātaḥ* — श्नाभ्यस्तयोरातः — (Pā. 6-4-112): the *ā* of *śnā* and of an *abhyasta* base is lost before a *kit* or *ñit* *sārvadhātuka*; "the *ī* which *ī hali aghoḥ* — ई हल्यघोः — (Pā. 6-4-113) enjoins for a consonant-initial *sārvadhātuka*
+
+### Page 273
+
+(continued, p. 273) does not come here; since this latter is a special rule, it is an exception to the former, and so when a vowel-initial suffix follows, the former rule operates."
 - **parvataḥ**: after *parva*, the suffix *ta* in the sense of *matup*. Rik 7 ends here (*|| 7 ||*).
 
 ### Rik 37.8 (pp. 273–275, PDF 287–289)
