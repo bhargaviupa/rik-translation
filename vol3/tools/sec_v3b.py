@@ -17,7 +17,7 @@ def sam(t):
     return '\n'.join(f'> {a}{b}' for a,b in map(fl,L))+'\n\n'+'\n'.join(f'> *{acc_iast(a)}*{b}' for a,b in map(fl,L))
 G={'blk':blk,'sam':sam}; exec(open(sys.argv[1],encoding='utf8').read(),G)
 t=open(EN,encoding='utf8').read(); n0=len(t)
-h=t.index('\n'+G['HEAD'])+1; nx=t.find('\n### ',h+5); nx2=t.find('\n## ',h+5)
+h=t.index('\n'+G['HEAD'])+1; nx=t.find('\n### Pages ',h+5); nx2=t.find('\n## ',h+5)
 e=min(x for x in (nx,nx2,len(t)) if x>0)
 S=t[h:e]
 for a,b,new in G['EDITS']:
