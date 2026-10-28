@@ -5959,38 +5959,65 @@ the *sic* after the roots *gai*, *sthā*, *dā*, *dhā*, *pā* and *bhū* is dro
 
 ---
 
-### Pages 251–253 — Sūkta 24, Rik 2
+### Page 251 (lower) — Sūkta 24, Rik 2
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अग्नेर्वयं प्रथमस्यामृतानां मनामहे चारु देवस्य नाम ।
-> स नो मह्या अदितये पुनर्दात्पितरं च दृशेयं मातरं च ॥ २ ॥
+> अ॒ग्नेर्व॒यं प्र॑थ॒मस्या॒मृता॑नां॒ मना॑महे॒ चारु॑ दे॒वस्य॒ नाम॑ ।
+> स नो॑ म॒ह्या अदि॑तये॒ पुन॑र्दात्पि॒तरं॑ च दृ॒शेयं॑ मा॒तरं॑ च ॥२॥
+>
+> *agnér vayáṃ prathamásyāmṛ́tānāṃ mánāmahe cā́ru devásya nā́ma |*
+> *sá no mahyā́ áditaye púnar dāt pitáraṃ ca dṛśéyaṃ mātáraṃ ca ||2||*
 
-*agner vayaṃ prathamasyāmṛtānāṃ manāmahe cāru devasya nāma | sa no mahyā aditaye punar dāt pitaraṃ ca dṛśeyaṃ mātaraṃ ca || 2 ||*
+*(Strokes over प्र, ता (मृता), ना (मना), रु and म (नाम); bars under अ, व (वयं), थ, स्या, नां, हे, दे and स्य. Line 2: strokes over नो, दि, न (पुन), रं (पितरं), यं (दृशेयं) and रं (मातरं); bars under म (मह्या), ये, त्पि, दृ and मा. In Ṛk 1 the stroke in दृशेयं stands over शे; here it stands over यं.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अग्नेः । वयम् । प्रथमस्य । अमृतानाम् । मनामहे । चारु । देवस्य । नाम ॥ सः । नः । मह्यै । अदितये । पुनः । दात् । पितरम् । च । दृशेयम् । मातरम् । च ॥ २ ॥
+> अग्नेः । वयं । प्रथमस्य । अमृतानां । मनामहे । चारु । देवस्य । नाम ।
+> सः । नः । मह्यै । अदितये । पुनः । दात् । पितरं । च । दृशेयं । मातरं । च ॥२॥
+>
+> *agneḥ | vayaṃ | prathamasya | amṛtānāṃ | manāmahe | cāru | devasya | nāma |*
+> *saḥ | naḥ | mahyai | aditaye | punaḥ | dāt | pitaraṃ | ca | dṛśeyaṃ | mātaraṃ | ca ||2||*
 
-*agneḥ | vayam | prathamasya | amṛtānām | manāmahe | cāru | devasya | nāma || saḥ | naḥ | mahyai | aditaye | punaḥ | dāt | pitaram | ca | dṛśeyam | mātaram | ca || 2 ||*
+### Page 252 — Rik 2: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 252)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> इत्थं प्रथमयर्चा विचिकित्सां कृत्वा प्रजापतेः सकाशात्तं देवमग्निं निश्चित्यानयर्चा तुष्टाव । तथा च श्रूयते — तं प्रजापतिरुवाचाग्निर्वै देवानां नेदिष्ठस्तमेवोपधावेति सोऽग्निमुपससाराग्नेर्वयं प्रथमस्यामृतानामित्येतयर्चा (ऐ. ब्रा. ७-१६) इति । पूर्ववद्योजना । दात्, दृशेयमित्येवमाशीःपरत्वेन पदद्वयं योज्यम् ॥
+> इत्थं प्रथमयर्चा विचिकित्सां कृत्वा प्रजापतेः सकाशात्तं देवमग्निं निश्चित्यानयर्चा तुष्टाव । तथा च श्रूयते । तं प्रजापतिरुवाचाग्निर्वै देवानां नेदिष्ठस्तमेवोपधावेति सोऽग्निमुपससाराग्नेर्वयं प्रथमस्यामृतानामित्येतयर्चा । ऐ. ब्रा. ७-१६ । इति । पूर्ववद्योजना । दाद्ददातु दृशेयं पश्यानीत्येवमाशीःपरत्वेन पदद्वयं योज्यं ॥
+>
+> *itthaṃ prathamayarcā vicikitsāṃ kṛtvā prajāpateḥ sakāśāttaṃ devamagniṃ niścityānayarcā tuṣṭāva | tathā ca śrūyate | taṃ prajāpatiruvācāgnirvai devānāṃ nediṣṭhastamevopadhāveti so 'gnimupasasārāgnervayaṃ prathamasyāmṛtānāmityetayarcā | ai. brā. 7-16 | iti | pūrvavadyojanā | dāddadātu dṛśeyaṃ paśyānītyevamāśīḥparatvena padadvayaṃ yojyaṃ ||*
 
-*itthaṃ prathamayarcā vicikitsāṃ kṛtvā prajāpateḥ sakāśāt taṃ devam agniṃ niścityānayarcā tuṣṭāva | tathā ca śrūyate — taṃ prajāpatir uvācāgnir vai devānāṃ nediṣṭhas tam evopadhāveti so 'gnim upasasārāgner vayaṃ prathamasyāmṛtānām ity etayarcā (ai. brā. 7-16) iti | pūrvad yojanā | dāt, dṛśeyam ity evam āśīḥparatvena padadvayaṃ yojyam ||*
+*Gist:* Having voiced his doubt in the first ṛk and learnt from Prajāpati that the god is Agni, he praised Agni with this ṛk. So it is heard: "Prajāpati said to him: 'Agni is the nearest of the gods; run to him.' He went to Agni with this ṛk, *agner vayaṃ prathamasyāmṛtānām*" (Ai. Brā. 7-16). The construction is as before. The two words are to be construed as a wish: *dāt* = "may he give", *dṛśeyam* = "may I see".
 
-**Translation:** "Thus, having expressed his doubt in the first rik, and having learnt from Prajāpati that the god is Agni, he praised him with this rik. So it is heard: 'Prajāpati said to him, "Agni is the nearest of the gods; run to him." He went to Agni with this rik, *agner vayaṃ prathamasyāmṛtānām*' (Ai. Brā. 7-16). The construction is as before; the two words *dāt* and *dṛśeyam* are to be taken in the sense of a blessing (āśīḥ)." *(Grammar page 253, noted briefly: the words treated are* mahyai *[as printed: *mahī* + *ṅe* — the *ṅe* with *ṅit* substitutions for a feminine in *ī*: P. 7-3-112 *āṇ nadyāḥ* gives *āṭ* — and the rule P. 6-1-174 that a case-ending after a *nadī*-word and a *śasādi* ending is acute: *udāttayaṇo hal-pūrvāt*; the long argument that follows on whether the *yaṇ* is preceded by a consonant is not reproduced] and* dṛśeyam *[the process is as in the previous mantra; the *ca* of *mātaraṃ ca* draws *dṛśeyam* in as a repetition (*anukarṣaṇa*); the verb stands first in the *pāda* in the previous mantra, so it is accented there; the lowering of its accent is blocked by P. 8-1-59 *cavāyoge prathamā* because of the connection with *ca*]; numerals as read, pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 252)* **वयम् (vayam)** — we [Śunaḥśepas] | **अमृतानाम् (amṛtānām)** — of the immortals [the gods] | **प्रथमस्य (prathamasya)** — of the first | **देवस्य (devasya)** — of the god | **अग्नेः (agneḥ)** — of Agni | **चारु (cāru)** — auspicious | **नाम (nāma)** — name | **मनामहे (manāmahe)** — utter | **सः (saḥ)** — that Agni | **नः (naḥ)** — [dying] us | **मह्यै (mahyai)** — to the great | **अदितये (aditaye)** — to the earth | **पुनः दात् (punaḥ dāt)** — may give again | **पितरं च मातरं च (pitaraṃ ca mātaraṃ ca)** — father and mother | **दृशेयम् (dṛśeyam)** — may I see.
+**वयं (vayaṃ)** — we (Śunaḥśepa) | **अमृतानां (amṛtānāṃ)** — (among the gods) who are free from death | **प्रथमस्य (prathamasya)** — who is the first | **देवस्य (devasya)** — who is a god | **अग्नेः (agneḥ)** — of Agni | **चारु (cāru)** — auspicious | **नाम (nāma)** — the name | **मनामहे (manāmahe)** — let us utter | **सः (saḥ)** — that god Agni | **नः (naḥ)** — us (who are facing death) | **मह्यै (mahyai)** — to the great | **अदितये (aditaye)** — to the earth | **पुनः दात् (punaḥ dāt)** — may he give again | **पितरं मातरं च (pitaraṃ mātaraṃ ca)** — father and mother | **दृशेयं (dṛśeyaṃ)** — may I see.
 
-**॥ Bhāvārthaḥ ॥** Learning from Prajāpati that Agni is the first of the gods, I [Śunaḥśepa] utter the auspicious name of Agni, the chief of the gods. May Agni, in his favour, send me back to the great earth, to live again; may I see my father and mother.
+**॥ Bhāvārthaḥ ॥**
 
-**॥ English Translation ॥** *(as printed in the source)*
+Having learnt from Prajāpati that Agni is the first among the gods, I (Śunaḥśepa) utter the auspicious name of Agni, the chief of the gods. May Agni (pleased by this) send me (who am facing death) back to the great earth. (Freed from death by Agni's grace,) I shall see my father and mother.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Of many immortal gods we shall contemplate the god Agni's name first; he will deliver us back to this vast earth that I may again behold my father and mother.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 252)* As said before, Śunaḥśepa, knowing from Prajāpati that Agni is able to save him, prays to Agni first — "Agni is the best of the gods" — and asks to be allowed to live on the earth again and to see his father and mother once more. The special explanations given under the preceding rik apply to this rik too. **वयम्** — although the plural is used here, it refers to Śunaḥśepa, who is praying to Agni.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+As said before, Śunaḥśepa learnt from Prajāpati that Agni is able to protect him. So Śunaḥśepa first prays to Agni, as the best among the gods, to protect him, to let him live on the earth again, and to grant that he see his father and mother again.
+
+The special explanation given under the previous ṛk applies to this ṛk too.
+
+**वयं (vayaṃ)** — although the plural "we" is used here, it is to be understood as applying to Śunaḥśepa, who is praying to Agni.
+
+### Page 253 (upper) — Rik 2: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**मह्यै (mahyai)** — meaning *mahatyai*, "to the great". By *vartamāne pṛṣadbṛhanmahajjagacchatṛvac ca* (Uṇ. Sū. 2-…; the digits are not clear [?]), these words are formed irregularly (*nipātana*) as ending in the suffix *ati*. Because they are treated like words in *śatṛ*, by *ugitaś ca* (Pā. Sū. 4-1-6) *ṅīp* comes; the *at* is dropped as a Vedic usage. By *bṛhanmahator upasaṅkhyānam* (Pā. Sū. 6-1-173 vā. 1) the *ṅīp* is acute. The suffix *ṅe* follows the word *mahī*. By *āṇ nadyāḥ* (Pā. Sū. 7-3-12 [as printed; for 7-3-112]), *āṭ* comes before a *ṅit* case-ending after a stem ending in a *nadī*; by *āṭaś ca* (Pā. Sū. 6-1-70 [as printed; for 6-1-90]), *vṛddhi*. *mahī* + *ai*: *yaṇ* substitution. By *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-17 [as printed; for 6-1-174]), after a *yaṇ* standing in place of an acute vowel and preceded by a consonant, a *nadī* ending and a case-ending from *śas* onwards are acute. So the case-ending is acute.
+
+**दृशेयं (dṛśeyaṃ)** — its derivation is given under the previous mantra. Through the *ca* in *mātaraṃ ca*, *dṛśeyaṃ* is drawn in (*anukṛṣṭa*). Compared with that, the *dṛśeyaṃ* that stands in the mantra is the one uttered first. By *cavāyoge prathamā* (Pā. Sū. 8-1-59), a finite verb uttered first does not become unaccented when there is a connection with *ca* or *vā*; so the loss of all accents is blocked. ॥2॥
+
+*(An ornament follows.)*
 
 ---
 
