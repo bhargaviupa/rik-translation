@@ -6109,38 +6109,81 @@ The main sense of this ṛk may be this: "O god Savitṛ, you are the lord of th
 
 ---
 
-### Pages 256–258 — Sūkta 24, Rik 4
+### Page 256 (lower) — Sūkta 24, Rik 4
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यश्चिद्धि त इत्था भगः शशमानः पुरा निदः ।
-> अद्वेषो हस्तयोर्दधे ॥ ४ ॥
+> यश्चि॒द्धि त॑ इ॒त्था भगः॑ शशमा॒नः पु॒रा नि॒दः । [accent ?]
+> अ॒द्वे॒षो हस्त॑योर्द॒धे ॥४॥
+>
+> *yaś cid dhí ta itthā́ bhágaḥ śaśamānáḥ purā́ nidáḥ |* [accent ?]
+> *adveṣó hástayor dadhé ||4||*
 
-*yaś cid dhi ta itthā bhagaḥ śaśamānaḥ purā nidaḥ | adveṣo hastayor dadhe || 4 ||*
+*(Strokes over त (ते), the stroke near भ/ग of भगः (read as भगः॑ [accent ?]) and स्त (हस्त); bars under श्चि, इ, मा, पु, नि, अ, द्वे and द (दधे).)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> यः । चित् । हि । ते । इत्था । भगः । शशमानः । पुरा । निदः ॥ अद्वेषः । हस्तयोः । दधे ॥ ४ ॥
+> यः । चित् । हि । ते । इत्था । भगः । शशमानः । पुरा । निदः ।
+> अद्वेषः । हस्तयोः । दधे ॥४॥
+>
+> *yaḥ | cit | hi | te | itthā | bhagaḥ | śaśamānaḥ | purā | nidaḥ |*
+> *adveṣaḥ | hastayoḥ | dadhe ||4||*
 
-*yaḥ | cit | hi | te | itthā | bhagaḥ | śaśamānaḥ | purā | nidaḥ || adveṣaḥ | hastayoḥ | dadhe || 4 ||*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 256–257; some sentences read with doubt)*
+> हे सवितर्यो भगो भजनीयो धनविशेषस्ते तव हस्तयोर्दधे धृतोऽभूत्तं धनविशेषमीमह इति पूर्वत्रान्वयः । चिच्छब्दः पूजार्थे हिशब्दः प्रसिद्धौ । धनस्य पूज्यत्वं सर्वत्र प्रसिद्धं । तामेव पूज्यत्वप्रसिद्धिं विशदयति । इत्था शशमानोऽनेन प्रकारेण शस्यमानः स्तूयमानः । धनस्तुतिप्रकारं च सर्वे जानन्ति । ननु
+>
+> *he savitaryo bhago bhajanīyo dhanaviśeṣaste tava hastayordadhe dhṛto 'bhūttaṃ dhanaviśeṣamīmaha iti pūrvatrānvayaḥ | cicchabdaḥ pūjārthe hiśabdaḥ prasiddhau | dhanasya pūjyatvaṃ sarvatra prasiddhaṃ | tāmeva pūjyatvaprasiddhiṃ viśadayati | itthā śaśamāno 'nena prakāreṇa śasyamānaḥ stūyamānaḥ | dhanastutiprakāraṃ ca sarve jānanti | nanu*
 
-> हे सवितर्यो भगो भजनीयो धनविशेषस्ते तव हस्तयोर्दधे धृतोऽभूत्तं धनविशेषमीमह इति पूर्वत्रान्वयः । चिच्छब्दः पूजार्थो हिशब्दः प्रसिद्धौ । धनस्य पूज्यत्वं सर्वत्र प्रसिद्धम् । तामेव पूज्यत्वप्रसिद्धिं विशदयति । इत्था शशमानोऽनेन प्रकारेण शस्यमानः स्तूयमानः । धनस्तुतिप्रकारं च सर्वे जानन्ति । ननु स्वकीये धने वैरिभिरपहृते सति वैरिगृहीतं धनं सर्वो लोको निन्दति द्वेष्टि च । अतो धनस्तुतिर्न नियतेत्याशंकयाह — निदः पुरा । अद्वेषः । निन्दायाः पूर्वं स्वकीयत्वेन व्यवस्थिते सति तदानीं द्वेषरहितः । तस्मात्स्वकीयत्वाभिप्रायेण स्तूयमानत्वमुक्तमित्यर्थः [?] ॥ इत्था । प्रकारवचन इदमस्थमुः (पा. ५-३-२४) । सुपां सुलुगिति वृत्त्ययेन विभक्तेः ङेडा [?] … शशमानः । शश प्लुतगतौ [?] । ताच्छील्यवयोवचनबन्धुषु चानश् (पा. ३-२-१२९) । चित इत्यन्तोदात्तत्वम् । निदः । णिदि कुत्सायाम् । संपदादिलक्षणः क्विप् । सावेकाच इति तृतीयम्या उदात्तत्वम् । अद्वेषः । न विद्यते द्वेषोऽस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । दधे । कर्मणि लिट् । तस्यार्धधातुकत्वेनाभ्यस्तानामादिरित्याद्युदात्तो न भवति । प्रत्ययस्वर एव शिष्यते । यद्वृत्तयोगान्निघाताभावः ॥
+### Page 257 — Rik 4: bhāṣya (continued), word-meanings, overall sense, English, Special Topics
 
-*he savitar yo bhago bhajanīyo dhanaviśeṣas te tava hastayor dadhe dhṛto 'bhūt taṃ dhanaviśeṣam īmaha iti pūrvatrānvayaḥ | cic chabdaḥ pūjārtho hiśabdaḥ prasiddhau | dhanasya pūjyatvaṃ sarvatra prasiddham | tām eva pūjyatvaprasiddhiṃ viśadayati | itthā śaśamāno 'nena prakāreṇa śasyamānaḥ stūyamānaḥ | dhanastutiprakāraṃ ca sarve jānanti | nanu svakīye dhane vairibhir apahṛte sati vairigṛhītaṃ dhanaṃ sarvo loko nindati dveṣṭi ca | ato dhanastutir na niyatety āśaṅkyāha — nidaḥ purā | adveṣaḥ | nindāyāḥ pūrvaṃ svakīyatvena vyavasthite sati tadānīṃ dveṣarahitaḥ | tasmāt svakīyatvābhiprāyeṇa stūyamānatvam uktam ity arthaḥ [?] || itthā | prakāravacana idamasthamuḥ (pā. 5-3-24) | supāṃ suluk iti vṛttyayena vibhakter ṅeḍā [?] … śaśamānaḥ | śaśa plutagatau [?] | tācchīlyavayovacanabandhuṣu cānaś (pā. 3-2-129) | cita ity antodāttatvam | nidaḥ | ṇidi kutsāyām | saṃpadādilakṣaṇaḥ kvip | sāvekāca iti tṛtīyasyā udāttatvam | adveṣaḥ | na vidyate dveṣo 'sy eti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam | dadhe | karmaṇi liṭ | tasyārdhadhātukatvenābhyastānām ādir ity ādyudātto na bhavati | pratyayasvara eva śiṣyate | yadvṛttayogān nighātābhāvaḥ ||*
+> स्वकीये धने वैरिभिरपहृते सति वैरिगृहीतं धनं सर्वो लोको निन्दति द्वेष्टि च । अतो धनस्तुतिर्न नियतेत्याशङ्क्याह । निदः पुरा अद्वेषो निन्दायाः पूर्वं स्वकीयत्वेन व्यवस्थिते सति तदानीं द्वेषरहितः । तस्मात्स्वकीयत्वाभिप्रायेण स्तूयमानत्वमुक्तमित्यर्थः ॥
+> इत्था । प्रकारवचने इदमुस्थमुः । पा. ५-३-२४ । सुपां सुलुगिति व्यत्ययेन विभक्तेर्डादेशः । टिलोप उदात्तनिवृत्तिस्वरेणाकार उदात्तः । शशमानः । शश प्लुतगतौ । इह तु स्तुत्यर्थः । ताच्छील्यवयोवचनेति । पा. ३-२-१२९ । ताच्छीलिकश्चानश् । कर्तरि शप् । चित इत्यन्तोदात्तत्वं । निदः । णिदि कुत्सायां । संपदादिलक्षणः क्विप् । सावेकाच इति पञ्चम्या उदात्तत्वं । अद्वेषः । न विद्यते द्वेषोऽस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । दधे । कर्मणि लिट् । तस्यार्धधातुकत्वेनाभ्यस्तानामादिरित्याद्युदात्तो न भवति । प्रत्ययस्वर एव शिष्यते । यद्वृत्तयोगान्निघाताभावः ॥
+>
+> *svakīye dhane vairibhirapahṛte sati vairigṛhītaṃ dhanaṃ sarvo loko nindati dveṣṭi ca | ato dhanastutirna niyatetyāśaṅkyāha | nidaḥ purā adveṣo nindāyāḥ pūrvaṃ svakīyatvena vyavasthite sati tadānīṃ dveṣarahitaḥ | tasmātsvakīyatvābhiprāyeṇa stūyamānatvamuktamityarthaḥ ||*
+> *itthā | prakāravacane idamusthamuḥ | pā. 5-3-24 | supāṃ sulugiti vyatyayena vibhakterḍādeśaḥ | ṭilopa udāttanivṛttisvareṇākāra udāttaḥ | śaśamānaḥ | śaśa plutagatau | iha tu stutyarthaḥ | tācchīlyavayovacaneti | pā. 3-2-129 | tācchīlikaścānaś | kartari śap | cita ityantodāttatvaṃ | nidaḥ | ṇidi kutsāyāṃ | saṃpadādilakṣaṇaḥ kvip | sāvekāca iti pañcamyā udāttatvaṃ | adveṣaḥ | na vidyate dveṣo 'syeti bahuvrīhau nañsubhyāmityuttarapadāntodāttatvaṃ | dadhe | karmaṇi liṭ | tasyārdhadhātukatvenābhyastānāmādirityādyudātto na bhavati | pratyayasvara eva śiṣyate | yadvṛttayogānnighātābhāvaḥ ||*
 
-**Translation:** "O Savitṛ! That *bhaga* — that wealth to be enjoyed — which (*yaḥ*) is held (*dadhe*) in your two hands: we ask of that wealth — so the construction runs with the preceding [rik]. *Cit* is in the sense of honour; *hi* in the sense of 'well-known'. That wealth is worthy of honour is well known everywhere; he makes the matter clear: *itthā śaśamānaḥ* — praised in this manner, extolled. Everyone knows the manner of praising wealth. If it is objected: when one's own wealth has been carried off by enemies, everybody blames and hates wealth seized by the enemy, so praise of wealth is not constant — [he answers] *nidaḥ purā adveṣaḥ*: before the blame, when it stood as one's own, it was free of hatred; the meaning is that the praise is meant of the wealth as one's own [my paraphrase; the sense of this passage is doubtful]. *Itthā*: *idam* + *thamu* in the sense of 'manner' (P. 5-3-24). *Śaśamānaḥ*: *śaśa plutagatau*; *cānaś* by P. 3-2-129; the final acute through *cit*. *Nidaḥ*: *ṇidi kutsāyām* [to blame]; *kvip* of the *saṃpadādi* class; acute of the ending by *sāvekāca*. *Adveṣaḥ*: *bahuvrīhi* with *nañ*; end-acute by *nañsubhyām*. *Dadhe*: *liṭ* in the passive; as an *ārdhadhātuka* ending it does not take the initial acute by *abhyastānām ādiḥ*, but keeps the suffix accent; no lowering after *yat*-connection." *(Grammar page 258, noted briefly: the words treated are* itthā *[*idam* + *thamu*, P. 5-3-24 *idamas thamuḥ*; *idam* → *it* by P. 5-3-3 *eta ith*; as an *avyaya* the case-ending is dropped by P. 2-4-82; but the *ṭā* of the third case appears by *vyatyaya* and is changed to *ḍā* …, whence *itthā*] and* śaśamānaḥ *[*śaśa plutagatau*, a class-1 root meaning 'to go quickly'; the sense 'to praise' is given here; *laṭ* → *śānac*/*cānaś* by P. 3-2-129 *tācchīlyavayovacanaśaktiṣu cānaś*; *śap*; *āna* with the *muk* augment (P. 7-2-82 *āne muk*); accent by *cit*]; numerals as read, pointers only.)*
+*Gist:* "O Savitṛ, the desirable wealth that has been held in your hands, that wealth we ask for" (construed with the previous ṛk). *Cit* is for honour, *hi* for "well known"; that wealth deserves honour is known everywhere. *Itthā śaśamānaḥ*: praised in this way. To the objection that wealth seized by enemies is blamed and hated by all, he answers *nidaḥ purā adveṣaḥ*: before such blame, while it is still one's own, it is free from hatred; so it is praised as one's own. The grammatical tail covers *itthā* (*thamu*; *ḍā* for the case-ending), *śaśamānaḥ* (*cānaś*; final acute), *nidaḥ* (*kvip*; acute ablative), *adveṣaḥ* (bahuvrīhi; final acute by *nañsubhyām*) and *dadhe* (passive *liṭ*; suffix accent; no lowering because of *yat*).
 
-**॥ Prati-padārthaḥ ॥** *(p. 257)* **(हे सविता) ((he savitā))** — O Savitṛ | **निदः पुरा (nidaḥ purā)** — before [it is] blamed | **अद्वेषः (adveṣaḥ)** — [of wealth] not to be hated | **इत्था (itthā)** — in this manner | **शशमानः (śaśamānaḥ)** — [wealth] praised | **यः भगः (yaḥ bhagaḥ)** — which wealth | **ते (te)** — your | **हस्तयोः (hastayoḥ)** — in the hands | **दधे (dadhe)** — is held | **चित् हि (cit hi)** — [wealth is praised] as well known.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O Savitṛ! [Wealth, once lost, becomes worthy of blame, but] before it is blamed it is not to be hated; so praised, the wealth that is in your hands [we ask of you].
+(**हे सवितः (he savitaḥ)** — O god Savitṛ) **निदः पुरा (nidaḥ purā)** — before it is blamed | **अद्वेषः (adveṣaḥ)** — not deserving hatred | **इत्था (itthā)** — in this way | **शशमानः (śaśamānaḥ)** — praised | **यः भगः (yaḥ bhagaḥ)** — which desirable wealth | **ते (te)** — your | **हस्तयोः (hastayoḥ)** — in the hands | **दधे (dadhe)** — was held (that wealth we ask for) | **चित् हि (cit hi)** — (that wealth deserves praise) is well known, is it not? *(sic: the print ends ".?")*
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥**
+
+O god Savitṛ, (although wealth that is carried off and lost deserves blame,) before that it does not deserve hatred; (that wealth,) thus praised, which is in your hands (we ask for).
+
+**॥ English Translation ॥** *(as printed)*
 
 > (We ask for) that wealth which has been retained in your hand and is so much praised against every envy or reproach
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 257–258)* The sense of this rik is obscure; the intention does not fit well. **चित्** — the commentator says that this word is used in the sense of honour, and *hi* to mean 'well-known'. **इत्था** — in this manner; that is, everyone takes wealth to be the best of things. **भगः** — *bhajanīyaḥ dhanaviśeṣaḥ*: the wealth that is desired. **शशमानः** — *śaśa plutagatau*: *śasyamānaḥ stūyamānaḥ*: praised, extolled. **पुरा निदः** — the use of these words in this rik, and their meaning, is not clear. *Nidaḥ* — *ṇidi kutsāyām*: blamed; no one blames wealth; everyone praises it. The commentator explains: when enemies carry off wealth, one blames it [hates it], as the Nirukta-reading says; the sense is not well fitted. **भगः** — the commentator says it means *bhajanīyo dhanaviśeṣaḥ*, a kind of wealth to be desired; but since the thing desired here is not wealth, it should be taken as *āyus* — life. **अद्वेषः** — *avidyamāno dveṣo yasmin so 'dveṣaḥ*: one in whom there is no hatred; or *dveṣavarjitaḥ*: free of hatred, needed by all, approached by all. In this rik Śunaḥśepa may be praying to Savitṛ to give him the life that everyone wishes for.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+The meaning of this ṛk is obscure. The intent does not fit properly.
+
+**चित् (cit)** — the commentator says that this word is used in the sense of honour and that the word **hi** denotes "well known".
+
+**इत्था (itthā)** — in this way; that is, everyone praises wealth as an excellent thing. Such **भगः (bhagaḥ)**, that is, **भजनीयो धनविशेषः (bhajanīyo dhanaviśeṣaḥ)**: the particular wealth that one longs for.
+
+### Page 258 — Rik 4: Special Topics (continued), grammar
+
+**शशमानः (śaśamānaḥ)** — **शश प्लुतपतौ । शस्यमानः स्तूयमानः (śaśa plutapatau | śasyamānaḥ stūyamānaḥ)** *[sic: प्लुतपतौ for प्लुतगतौ]*: being praised, being extolled.
+
+**पुरा निदः (purā nidaḥ)** — what use these words have in this ṛk, and what meaning, is not at all clear. **निदः (nidaḥ)** — *ṇidi kutsāyāṃ*: being blamed. No one blames wealth; everyone praises it. But when enemies, that is foes, carry it off, people blame it: so the commentator explains. The intent does not fit properly.
+
+**भगः — भजनीयः धनविशेषः (bhagaḥ — bhajanīyaḥ dhanaviśeṣaḥ)** — although the commentator has said "the particular wealth that is desired", here the thing desired should be understood to be not wealth but life-span, that is, life itself.
+
+**अद्वेषः — अविद्यमानो द्वेषो यस्मिन्सोऽद्वेषः । द्वेषवर्जितः (adveṣaḥ — avidyamāno dveṣo yasmin so 'dveṣaḥ | dveṣavarjitaḥ)** — free from hatred, needed by all, praised by all, and so on.
+
+In this ṛk Śunaḥśepa may have prayed to Savitṛ to give him the life that all desire.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**इत्था (itthā)** — by *idamas thamuḥ* (Pā. Sū. 5-3-24), the suffix *thamu* comes after the word *idam* in the sense of manner: *idam* + *tham*. By *etetau rathoḥ* (Pā. Sū. 5-3-4), when a suffix beginning with *r* or *th* follows, *idam* is replaced by *eta* and *it* respectively; so the substitute *it*: *it* + *tham* = *ittham*. By *taddhitaś cāsarvavibhaktiḥ* (Pā. Sū. 1-1-38) this is an indeclinable, so the following case-ending would properly be dropped. Yet, by Vedic interchange, through *supāṃ suluk* (Pā. Sū. 7-1-39) the instrumental singular *ṭā* is replaced by *ḍā*; the *ṭi* *am* is dropped, giving *itthā*.
+
+**शशमानः (śaśamānaḥ)** — *śaśa plutagatau*, here in the sense of praise. By *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. Sū. 3-2-129), *cānaś* comes for *laṭ* in the sense of habit; the *vikaraṇa* *śap*: *śaś* + *a* + *āna*. By *āne muk* (Pā. Sū. 7-2-82), the *muk* augment. By *citaḥ*, the final acute. ॥4॥
+
+*(An ornament follows.)*
 
 ---
 
