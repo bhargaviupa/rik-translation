@@ -90,3 +90,5 @@ Never `git reset --hard`, never force-push, never touch other volumes.
 11. **Order of work:** do the open `[?]` of already-checked pages first (small, finishes a region), then move on page by page.
 
 (The zoom helper scripts live in `vol3/tools/zoom_*.py`; copy them to `vol4/tools/` and change their review-JSON path and `WORK` folder to Vol 4 before use.)
+
+**No OCR for any reading (user, Oct 28):** numbers and words come only from crops actually viewed; OCR text may at most help locate a line on a page.
