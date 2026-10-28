@@ -2,7 +2,7 @@
 import sys,os,subprocess
 from PIL import Image
 import numpy as np
-sys.path.insert(0,'/home/user/rik-translation/vol4/tools')
+import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from cfg import part_of
 g=int(sys.argv[1]); n=int(sys.argv[2]); f=f'/tmp/v4num/full{g}.png'
 if not os.path.exists(f):
