@@ -9901,39 +9901,43 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 483)*
 
-> अस्माकं शिप्रिणीनां सोमपाः सोमपाव्नाम् ।
-> सखे वज्रिन्त्सखीनाम् ॥ ११ ॥
+> अ॒स्माकं॑ शि॒प्रिणी॑नां॒ सोम॑पाः सोम॒पाव्नां॑ ।
+> सखे॑ व॒ज्रिन्त्सखी॑नां ॥ ११ ॥
 
-> *asmākaṃ śipriṇīnāṃ somapāḥ somapāvnām |*
-> *sakhe vajrintsakhīnām ‖ 11 ‖*
+> *asmā́kaṃ śipríṇīnāṃ sómapāḥ somapā́vnāṃ |*
+> *sákhe vajríntsákhīnāṃ || 11 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> अस्माकम् । शिप्रिणीनाम् । सोमऽपाः । सोमऽपाव्नाम् ।
-> सखे । वज्रिन् । सखीनाम् ॥ ११ ॥
+> अस्माकं । शिप्रिणीनां । सोमऽपाः । सोमऽपाव्नां ।
+> सखे । वज्रिन् । सखीनां ॥ ११ ॥
 
-> *asmākam | śipriṇīnām | soma 'pāḥ | soma 'pāvnām |*
-> *sakhe | vajrin | sakhīnām ‖ 11 ‖*
+> *asmākaṃ | śipriṇīnāṃ | soma 'pāḥ | soma 'pāvnāṃ |*
+> *sakhe | vajrin | sakhīnāṃ ‖ 11 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 483)*
 
-> हे सोमपाः सोमस्य पातः सखे सखिवत्प्रिय वज्रिन्वज्रयुक्तेन्द्र सखीनां सखिवत्प्रियाणां सोमपाव्नां सोमस्य पात्रीणामस्माकं शिप्रिणीनां दीर्घाभ्यां हनूभ्यां नासिकाभ्यां वा युक्तानां गवां समूहस्त्वत्प्रसादादस्तीति शेषः ॥ शिप्रिणीनाम् । ऋन्नेभ्यो ङीबिति ङीप् । तस्य पित्त्वादनुदात्तत्वे सति प्रत्ययस्वरः शिष्यते । सोमपाः । आमन्त्रितस्य सति शिष्टत्वादामन्त्रिताद्युदात्तत्वम् । सोमपाव्नाम् । आतो मनिन्क्वनिब्वनिपश्चेत्यादिना वनिप् । अल्लोपोऽनः । पा. ६-४-१३४ । इत्यनोऽकारस्य लोपः ॥
+> हे सोमपाः सोमस्य पातः सखे सखिवत्प्रिय वज्रिन्वज्रयुक्तेन्द्र सखीनां सखिवत्प्रियाणां सोमपाव्नां सोमस्य पातॄणामस्माकं शिप्रिणीनां दीर्घाभ्यां हनूभ्यां नासिकाभ्यां वा युक्तानां गवां समूहस्त्वत्प्रसादादस्त्विति शेषः ॥ शिप्रिणीनाम् । ऋन्नेभ्यो ङीबिति ङीप् । तस्य पित्त्वादनुदात्तत्वे सति प्रत्ययस्वरः शिष्यते । सोमपाः । आमन्त्रितस्य सतिशिष्टत्वादामन्त्रिताद्युदात्तत्वम् । सोमपाव्नाम् । आतो मनिन्नित्यादिना वनिप् । अल्लोपोऽनः । पा. ६-४-१३४ । इत्यनोऽकारस्य लोपः ॥
 
-> *he somapāḥ somasya pātaḥ sakhe sakhivatpriya vajrinvajrayuktendra sakhīnāṃ sakhivatpriyāṇāṃ somapāvnāṃ somasya pātrīṇāmasmākaṃ śipriṇīnāṃ dīrghābhyāṃ hanūbhyāṃ nāsikābhyāṃ vā yuktānāṃ gavāṃ samūhastvatprasādādastīti śeṣaḥ ‖ śipriṇīnām | ṛnnebhyo ṅībiti ṅīp | tasya pittvādanudāttatve sati pratyayasvaraḥ śiṣyate | somapāḥ | āmantritasya sati śiṣṭatvādāmantritādyudāttatvam | somapāvnām | āto maninkvanibvanipaścetyādinā vanip | allopo 'naḥ | pā. 6-4-134 | ityano 'kārasya lopaḥ ‖*
+> *he somapāḥ somasya pātaḥ sakhe sakhivatpriya vajrinvajrayuktendra sakhīnāṃ sakhivatpriyāṇāṃ somapāvnāṃ somasya pātṝṇāmasmākaṃ śipriṇīnāṃ dīrghābhyāṃ hanūbhyāṃ nāsikābhyāṃ vā yuktānāṃ gavāṃ samūhastvatprasādādastviti śeṣaḥ ‖ śipriṇīnām | ṛnnebhyo ṅībiti ṅīp | tasya pittvādanudāttatve sati pratyayasvaraḥ śiṣyate | somapāḥ | āmantritasya satiśiṣṭatvādāmantritādyudāttatvam | somapāvnām | āto maninnityādinā vanip | allopo 'naḥ | pā. 6-4-134 | ityano 'kārasya lopaḥ ‖*
 
-*Translation:* "O Soma-drinker, friend, thunderbolt-bearing Indra! [By] your favour there is a herd of cows with long jaws or noses (*śipriṇīnām*) for us, your friends and Soma-drinkers (*somapāvnām*) — this is the supplied remainder. *Śipriṇīnām* — *ṅīp* [as printed: *ṅīb*] after the stem; the suffix's accent remains. *Somapāvnām* — *vanip* by *āto manin kvanib vanipaś ca*; the *a* of *an* dropped by P. 6-4-134 *allopo 'naḥ*."
+*Translation:* "O Soma-drinker (*somapāḥ*), friend (*sakhe*: dear like a friend), Indra with the thunderbolt (*vajrin*)! For us, your friends (*sakhīnām*: dear like friends) and drinkers of Soma (*somapāvnām*), may there be by your favour a herd of cows *śipriṇīnām* — with long jaws or noses: so the remainder is supplied." The grammatical tail treats *śipriṇīnām* (*ṅīp* by *ṛnnebhyo ṅīp*; as it is *pit* and grave, the accent of the [*ini*] suffix remains), *somapāḥ* (initial udātta of the vocative, which comes last) and *somapāvnām* (*vanip* by *āto manin…*; loss of the *a* of *an* by '*allopo 'naḥ*', Pā. 6-4-134).
 
 **Pratipadārtha** *(p. 483, rendered)* — **सोमपाः** [O Indra,] drinker of Soma; **सखे** dear like a friend; **वज्रिन्** holder of the thunderbolt; **सखीनाम्** of [your] friends; **सोमपाव्नाम्** drinkers of Soma; **अस्माकम्** to us; **शिप्रिणीनाम्** of the cows with strong jaws (well-developed bodies) [the herd, favour us with].
 
 **Bhāvārtha** *(p. 483)* — O Indra, drinker of Soma, dear like a friend, holder of the thunderbolt! To us, your friends and drinkers of Soma, grant a herd of strong-jawed cows.
 
+### Page 484 — Sūkta 30, Rik 11 (continued)
+
 **English Translation** *(as printed, p. 484)*
 
 > Drinker of the Soma-juice, weilder [sic] of the thunderbolt, O friend, bestow upon us a herd of cows with projecting jaws.
 
-**Viśeṣa-viṣayagaḷu** *(p. 484)* — **शिप्रिणीनाम्** — *śipra* is jaw or nose; since *śipriṇīnām* is a feminine genitive plural, the commentator explains it as 'of cows with well-developed bodies' (the Kannada: *udvāda mūtigaḷuḷḷa gōvugaḷa*, "of cows with projecting forms"). **सोमपाः** — *somasya pātā*: vocative of a stem in *-ā*. **सोमपाव्नाम्** — *somapasya pātṝṇām asmākam*: to us who drink Soma. **वज्रिन्** — one who has the *vajra*. **सखीनाम्** — to us dear to you like friends.
+**Viśeṣa-viṣayagaḷu** *(p. 484)* — **शिप्रिणीनाम्** — *śipra* is jaw or nose; since *śipriṇīnām* is a feminine genitive plural, the commentator explains it as 'of cows with well-developed bodies' (the Kannada: *udvāda mūtigaḷuḷḷa gōvugaḷa*, "of cows with projecting forms"). **सोमपाः** — *somasya pātaḥ*: O Indra who drinks Soma; the word is [explained as] the vocative singular of *somapātṛ*, a stem in *-ṛ*. **सोमपाव्नाम्** — *somapasya pātṝṇām asmākam*: to us who drink Soma. **वज्रिन्** — *vajraḥ vajrāyudhaḥ asyāstīti*: Indra who bears the thunderbolt. **सखीनाम्** — to us dear to you like friends.
 
-**Grammar (p. 484), noted briefly:** *śipriṇīnām* (*ata ini* P. 5-2-115 *ata ini ṭhanau*; feminine by *ṛnnebhyo ṅīp* P. 4-1-5; *ṇatva* P. 8-4-1; the suffix's accent); *somapāḥ* (vocative; initial acute from *āmantritasya ca*); *somapāvnām* (*vanip* by P. 3-2-74 *ato maninkvanibvanipaś ca*, *pit* so unaccented; *allopo 'naḥ* P. 6-4-134). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(p. 484, noted briefly)* — *śipriṇīnām*: in the possessive sense '*śipre asya staḥ*', *ini* by '*ata ini ṭhanau*'; *ṅīp* in the feminine by '*ṛnnebhyo ṅīp*' (Pā. sū. 4-1-5); *ṇatva* after *r*; genitive plural; the *ini* accent, coming last, stands: the *i* of *pri* is udātta. *somapāḥ*: '*somaṃ pibati*', vocative singular; at the head of the pāda, not grave; initial udātta by the *ṣāṣṭha* rule (*āmantritasya*). *somapāvnām*: *vanip* after *pā* with a *sup* upapada by '*āto manin kvanip vanipaś ca*' (Pā. sū. 3-2-74); genitive plural *ām*; loss of the *a* of *an* in the *bha* stem by '*allopo 'naḥ*' (Pā. sū. 6-4-134); *vanip* is *pit* and grave, the root accent remains.
 
 ---
 
