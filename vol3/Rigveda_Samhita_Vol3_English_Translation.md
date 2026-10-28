@@ -5460,40 +5460,68 @@ In the animal sacrifice, at the time of attending on the *āhavanīya* fire, the
 
 ---
 
-### Pages 232–234 — Sūkta 23, Rik 24
+### Page 232 (lower) — Sūkta 23, Rik 24 (last ṛk of the sūkta)
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सं माग्ने वर्चसा सृज सं प्रजया समायुषा ।
-> विद्युर्मे अस्य देवा इन्द्रो विद्यात्सह ऋषिभिः ॥ २४ ॥
+> सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा ।
+> वि॒द्युर्मे॑ अ॒स्य दे॒वा इन्द्रो॑ वि॒द्यात्स॒ह ऋषि॑भिः ॥२४॥ [accent ?]
+>
+> *sáṃ māgne várcasā sṛja sáṃ prajáyā sám ā́yuṣā |*
+> *vidyúr me asyá devā́ índro vidyā́t sahá ṛ́ṣibhiḥ ||24||* [accent ?]
 
-*saṃ māgne varcasā sṛja saṃ prajayā sam āyuṣā | vidyur me asya devā indro vidyāt saha ṛṣibhiḥ || 24 ||*
+*(Strokes over मा, र्च and यु; bars under ग्ने, ज (सृज), प्र and या. Line 2: bars under वि, अ, दे, वि (विद्यात्) and ह (सह); strokes over मे, द्रो and षि; read with the Pada [accent ?].)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> सम् । मा । अग्ने । वर्चसा । सृज । सम् । प्रऽजया । सम् । आयुषा ॥ विद्युः । मे । अस्य । देवाः । इन्द्रः । विद्यात् । सह । ऋषिऽभिः ॥ २४ ॥
-
-*sam | mā | agne | varcasā | sṛja | sam | pra-jayā | sam | āyuṣā || vidyuḥ | me | asya | devāḥ | indraḥ | vidyāt | saha | ṛṣi-bhiḥ || 24 ||*
+> सं । मा । अग्ने । वर्चसा । सृज । सं । प्रऽजया । सं । आयुषा ॥
+> विद्युः । मे । अस्य । देवाः । इन्द्रः । विद्यात् । सह । ऋषिऽभिः ॥२४॥
+>
+> *saṃ | mā | agne | varcasā | sṛja | saṃ | pra 'jayā | saṃ | āyuṣā ||*
+> *vidyuḥ | me | asya | devāḥ | indraḥ | vidyāt | saha | ṛṣi 'bhiḥ ||24||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे अग्ने वर्चःप्रजायुर्भिर्मां संयोजय । देवाः सोमपातारोऽस्य मे यजमानस्य विद्युः । अनुष्ठानं जानीयुः । किंचेन्द्रश्च ऋषिगणैः सह ममानुष्ठानं विद्यात् । जानीयात् ॥ विद्युः । विद ज्ञाने । लिङ् झेर्जुस् (पा. ३-४-१०८ [?]) । … लिङः सलोपोऽनन्त्यस्य (पा. ७-२-७९) इति सकारलोपः । उस्यपदान्तात् (पा. ६-१-९६) इति पररूपत्वम् । यासुट् उदात्तत्वे … [आगम् उदात्तः] । अस्य । इदमो न्ना … विभक्तिरपि … ऋषिभिः । ऋत्यकः (पा. ६-१-१२८) इति प्रकृतिभावः ॥
+*(Numbers as printed: पा० ३-४-१०८, ७-२-७९, ६-१-९६, ६-१-१२८. The bhāṣya ends with ॥१२॥ (the twelfth varga) and ॥४॥ (the end of the fourth sūkta of the anuvāka [as read]).)*
 
-*he agne varcaḥprajāyurbhir māṃ saṃyojaya | devāḥ somapātāro 'sya me yajamānasya vidyuḥ | anuṣṭhānaṃ jānīyuḥ | kiṃcendraś ca ṛṣigaṇaiḥ saha mamānuṣṭhānaṃ vidyāt | jānīyāt || vidyuḥ | vida jñāne | liṅ jher jus (pā. 3-4-108 [?]) | … liṅaḥ salopo 'nantyasya (pā. 7-2-79) iti sakāralopaḥ | usy apadāntāt (pā. 6-1-96) iti pararūpatvam | yāsuṭ udāttatve … | asya | idamo … | ṛṣibhiḥ | ṛty akaḥ (pā. 6-1-128) iti prakṛtibhāvaḥ ||*
+> हे अग्ने वर्चःप्रजायुर्भिर्मां संयोजय । देवाः सोमपातारोऽस्य मे यजमानस्य विद्युः । अनुष्ठानं जानीयुः । किंच इन्द्रश्च ऋषिगणैः सह ममानुष्ठानं विद्यात् । जानीयात् ॥ विद्युः । विद ज्ञाने । लिङो झेर्जुस् । पा० ३-४-१०८ । यासुट् । लिङः सलोपः । पा० ७-२-७९ । इति सकारलोपः । उस्यपदान्तात् । पा० ६-१-९६ । इति पररूपत्वं । यासुट उदात्तत्वेऽप्येकादेश उकारोऽप्युदात्तः ॥ अस्य । इदमोऽन्वादेश इत्यशनुदात्तः । विभक्तिरपि सुप्त्वेनानुदात्ता । सह ऋषिभिरित्यत्र ऋत्यकः । पा० ६-१-१२८ । इति प्रकृतिभावः ॥१२॥ ॥४॥
+>
+> *he agne varcaḥprajāyurbhirmāṃ saṃyojaya | devāḥ somapātāro 'sya me yajamānasya vidyuḥ | anuṣṭhānaṃ jānīyuḥ | kiṃca indraśca ṛṣigaṇaiḥ saha mamānuṣṭhānaṃ vidyāt | jānīyāt || vidyuḥ | vida jñāne | liṅo jherjus | pā0 3-4-108 | yāsuṭ | liṅaḥ salopaḥ | pā0 7-2-79 | iti sakāralopaḥ | usyapadāntāt | pā0 6-1-96 | iti pararūpatvaṃ | yāsuṭa udāttatve 'pyekādeśa ukāro 'pyudāttaḥ || asya | idamo 'nvādeśa ityaśanudāttaḥ | vibhaktirapi suptvenānudāttā | saha ṛṣibhirityatra ṛtyakaḥ | pā0 6-1-128 | iti prakṛtibhāvaḥ ||12|| ||4||*
 
-**Translation:** "O Agni! Unite me with splendour (*varcas*), offspring (*prajā*) and long life (*āyus*). May the gods, the drinkers of soma, know (*vidyuḥ*) this [rite] of mine, the sacrificer — may they know the performance. And may Indra, with the hosts of seers, know my rite. *Vidyuḥ*: *vida jñāne*, *liṅ*, *jhi* → *jus* [P. 3-4-108]; the loss of the *s* of *liṅ* by P. 7-2-79; the single substitute *pararūpa* by P. 6-1-96 *usy apadāntāt* … *Ṛṣibhiḥ*: *prakṛtibhāva* by P. 6-1-128 *ṛty akaḥ*." *(Grammar pages 233–234, noted briefly: the words treated are* vidyuḥ *[*vida jñāne*, *liṅ* 3rd plural; *jhi* → *jus* by P. 3-4-108 *jher jus*; the augment *yāsuṭ* and the loss of its *s* by P. 7-2-79 *liṅaḥ salopo 'nantyasya*; the *jus* with *s* lost by P. 8-2-29 *skoḥ saṃyogādyor ante ca*; *pararūpa* by P. 6-1-96 *usy apadāntāt*, giving the single *u*; the accent: the *yāsuṭ* being *udātta* by P. 3-1-… the *u* of *jus* … hence *vidyuḥ* is accented on the first syllable by P. 6-1-… and *rutva-visarga*] and* saha ṛṣibhiḥ *[*saha ṛṣibhiḥ*: *ṛty akaḥ* P. 6-1-128 — before *ṛ* a short *a*, *i*, *u* or *ṛ* at the end of a word takes *hrasva* and *prakṛtibhāva*; hence no guṇa, *saha ṛṣibhiḥ*; the print says P. 6-1-128 *ṛty akaḥ* without further discussion]. The grammar ends at the head of p. 234 with an ornament; numerals as read, pointers only.)*
+### Page 233 — Rik 24: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Prati-padārthaḥ ॥** **(हे) अग्ने ((he) agne)** — O Agni | **मा (mā)** — me | **वर्चसा (varcasā)** — with splendour [strength] | **प्रजया (prajayā)** — with offspring | **आयुषा (āyuṣā)** — with life | **सं सृज (saṃ sṛja)** — unite | **देवाः (devāḥ)** — the gods [who drink soma] | **अस्य मे (asya me)** — my [performed] sacrifice | **विद्युः (vidyuḥ)** — may they know | **इन्द्रः (indraḥ)** — Indra | **ऋषिभिः सह (ṛṣibhiḥ saha)** — together with the seers | **विद्यात् (vidyāt)** — may know [the sacrifice performed by me].
+**Translation:** "O Agni, join me with splendour, offspring and life. May the gods, the soma-drinkers, *vidyuḥ*, know, the rite *asya me*, of me, this sacrificer. And may Indra too, *saha ṛṣibhiḥ*, together with the hosts of ṛṣis, *vidyāt*, know my rite." (Grammatical tail: *vidyuḥ*, *vida jñāne*, *jus* for *jhi* of *liṅ* by *liṅo jher jus* [as printed; *jher jus*] (Pā. 3-4-108), *yāsuṭ*, the *s* dropped by *liṅaḥ salopaḥ…* (Pā. 7-2-79), the following form by *usy apadāntāt* (Pā. 6-1-96); since *yāsuṭ* is udātta, the single substitute *u* is also udātta; *asya*, the unaccented *aś* by *idamo 'nvādeśe…*, and the case-ending too unaccented as a *sup*; in *saha ṛṣibhiḥ* the original state by *ṛty akaḥ* (Pā. 6-1-128).)
 
-**॥ Bhāvārthaḥ ॥** O Agni! Grant me splendour, offspring and long life. May the gods, and Indra together with the seers, know the sacrificial rite I have performed.
+**॥ Prati-padārthaḥ ॥**
+
+**हे अग्ने (he agne)** — O Agni | **मा (mā)** — me | **वर्चसा (varcasā)** — with splendour (with power) | **प्रजया (prajayā)** — with sons and descendants | **आयुषा (āyuṣā)** — with life | **सं सृज (saṃ sṛja)** — join | **देवाः (devāḥ)** — the gods (who have drunk soma) | **अस्य मे (asya me)** — my performance of sacrifice (may they know) | **इन्द्रः (indraḥ)** — Indra | **ऋषिभिः सह (ṛṣibhiḥ saha)** — together with the ṛṣis | **विद्यात् (vidyāt)** — may he know the sacrifice I have performed.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Agni, grant me splendour, sons and descendants, and long life. May the gods, and Indra together with the ṛṣis, know the sacrifice I have performed.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > O Agni, confer upon me vigour, progeny and long life; the gods may know of this my sacrifice and Indra, with the Rishis may know it.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 233)* The sense of the first half of this rik is easily understood: Agni is prayed to grant long life, offspring and vigour (*varcas*). The sense of the second half is not very clear. The commentator explains *vidyur me asya* as '*anuṣṭhānaṃ jānīyuḥ*' — 'may they know the rite I perform'. In the words *indro vidyāt saha ṛṣibhiḥ* the word *ṛṣibhiḥ* has been used for some reason that is again not clear. The ṛṣi's intention seems to be that this sacrifice or praise of mine be known to Indra, to the gods, and to the other seers.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Close of Sūkta 23 ॥** *(p. 234, upper part: the grammar ends and an ornamental rule is printed; no colophon with a varga number appears. The headline of printed p. 234 gives "Maṇḍala 1, Aṣṭaka 1, Adhyāya 2, Sūkta 24" [numerals as printed, small].)*
+The meaning of the first half of this ṛk can be known easily. Agni is prayed to give splendour, sons and descendants, and long life. The meaning of the second half is not so clear; for the words *vidyur me asya* the commentator has explained the meaning "the performance of sacrifice I do". In the sentence *indro vidyāt saha ṛṣibhiḥ*, why the word *ṛṣibhiḥ* is used is also unclear. It seems the ṛṣi's intention is that this sacrifice, or hymn, made with regard to the deities, should be known to Indra, to the deities and to the other ṛṣis.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**विद्युः (vidyuḥ)** — *vida jñāne*; *liṅ*, third person plural *jhi*; by *jher jus* (Pā. Sū. 6-1-96 [as printed; for 3-4-108]) *jus* comes for the *jhi* in place of *liṅ*; *jus*, the augment *yāsuṭ*: *vid* + *yās* + *us*; dropping of the *s*,
+
+### Page 234 (upper) — Rik 24: grammar (end)
+
+*vidyā* + *us*: by *usy apadāntāt* (Pā. Sū. 6-1-96) — when *us* follows an *a*/*ā* not at the end of a *pada*, the following form comes as a single substitute — when the following form comes, *vidyus*; *ru* and *visarga*.
+
+**सह ऋषिभिः (saha ṛṣibhiḥ)** — by *ṛty akaḥ* (Pā. Sū. 6-1-128) — when a short *ṛ* follows, the *a*, *i*, *u*, *ṛ* at the end of a *pada* are made short and also keep their original state — shortening and the original state come. So *guṇa* does not come. ॥24॥
+
+*(An ornament follows: the close of Sūkta 23. The header of p. 234 reads "Maṃ. 1 A. 6 Sū. 24", the new anuvāka.)*
+
+---
+
 ## ॥ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 24 — *"kasya nūnaṃ katamasyāmṛtānām"* ("The Twenty-fourth Sūkta"; first sūkta of the Sixth Anuvāka)
 
 *(Printed pp. 234 lower half–294. The heading, Sāyaṇa's note and the Kannada rendering are on pp. 234–235; Rik 1 begins on p. 236.)*
