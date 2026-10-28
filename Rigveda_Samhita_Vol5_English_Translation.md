@@ -7666,29 +7666,33 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.5 (pp. 424–427, PDF 440–443)
 
-**Saṃhitā-pāṭha** *(p. 424)*
+**Saṃhitā-pāṭha** *(p. 424; accents as printed)*
 
-> **तपुर्जम्भो वन आ वातचोदितो यूथे न साह्वाँ अव वाति वंसगः ।**
-> **अभिव्रजन्नक्षितं पाजसा रजः स्थातुश्चरथं भयते पतत्रिणः ॥ ५ ॥**
+> **तपु॑र्जम्भो॒ वन॒ आ वा॑तचोदितो यू॒थे न सा॒ह्वाँ अव॑ वाति॒ वंस॑गः ।**
+> **अ॒भि॒व्रज॒न्नक्षि॑तं॒ पाज॑सा॒ रजः॑ स्था॒तुश्च॒रथं॑ भयते पत॒त्रिणः॑ ॥ ५ ॥**
 
-*tapurjambho vana ā vātacodito yūthe na sāhvāñ ava vāti vaṃsagaḥ |*
-*abhivrajann akṣitaṃ pājasā rajaḥ sthātuś carathaṃ bhayate patatriṇaḥ || 5 ||*
+*tápurjambho vána ā́ vātacodito yūthé na sāhvā́m̐ áva vāti váṃsagaḥ |*
+*abhivrajann ákṣitam pā́jasā rájaḥ sthātúś caráthaṃ bhayate patatríṇaḥ || 5 ||*
+
+*([accent ?]: the underlines beneath अभिव्रजन्न are crowded and their placement under व्र/ज is not certain; a heavy dot stands over प of पतत्रिणः, probably a blot.)*
 
 **Pada-pāṭha** *(p. 425)*
 
-> तपुःऽजम्भः । वने । आ । वातऽचोदितः । यूथे । न । साह्वान् । अव । वाति । वंसगः ।
+> तपुःऽजम्भः । वने । आ । वातऽचोदितः । यूथे । न । सह्वान् । अव । वाति । वंसगः ।
 > अभिऽव्रजन् । अक्षितम् । पाजसा । रजः । स्थातुः । चरथम् । भयते । पतत्रिणः ॥ ५ ॥
 
-*tapuḥ-jambhaḥ | vane | ā | vāta-coditaḥ | yūthe | na | sāhvān | ava | vāti | vaṃsagaḥ |*
+*tapuḥ-jambhaḥ | vane | ā | vāta-coditaḥ | yūthe | na | sahvān | ava | vāti | vaṃsagaḥ |*
 *abhi-vrajan | akṣitam | pājasā | rajaḥ | sthātuḥ | caratham | bhayate | patatriṇaḥ || 5 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 425)*
 
-> **तपुर्जम्भः । तपूंषि ज्वाला एव जम्भा आयुधानि मुखानि वा यस्य स तथोक्तः । वातचोदितो वायुना प्रेरितः । एवंभूतोऽग्नियूर्थे ज्वालासमूहे सत्यक्षितमक्षीणं रजः आर्द्रवृक्षान्तर्गतमुदकं पाजसा तेजोबलेनाभिव्रजन् अभिमुखेन गच्छन्नेवारण्ये साह्वान् सर्वमभिभवन् आ अभिमुखेनाव वाति । व्याप्नोति । तत्र दृष्टान्तः । वंसगो न । यथा वननीयगतिर्वृषो गोयूथे सर्वमभिभवन्वर्तते तद्वत् । यस्मादेवं तस्मात्पतत्रिणः पतनवतोऽग्नेः सकाशात्स्थातुः स्थावरं चरथं चं जङ्गमं च भयते । बिभेति ॥**
+> **तपुर्जम्भः । तपूंषि ज्वाला एव जम्भा आयुधानि मुखानि वा यस्य स तथोक्तः । वातचोदितो वायुना प्रेरितः । एवंभूतोऽग्नियूर्थे ज्वालासमूहे सत्यक्षितमक्षीणं रज आर्द्रवृक्षान्तर्गतमुदकं पाजसा तेजोबलेनाभिव्रजन् अभिमुखेन गच्छन्वनेऽरण्ये साह्वान् सर्वमभिभवन् आ अभिमुखेनाव वाति । व्याप्नोति । तत्र दृष्टान्तः । वंसगो न । यथा वननीयगतिर्वृषो गोयूथे सर्वमभिभवन्वर्तते तद्वत् । यस्मादेवं तस्मात्पतत्रिणः पतनवतोऽग्नेः सकाशात्स्थातुः स्थावरं चरथं च जङ्गमं च भयते । बिभेति ॥**
 
-*tapurjambhaḥ | tapūṃṣi jvālā eva jambhā āyudhāni mukhāni vā yasya sa tathoktaḥ | vātacodito vāyunā preritaḥ | evaṃbhūto 'gnir yūthe jvālāsamūhe saty akṣitam akṣīṇaṃ rajaḥ ārdravṛkṣāntargatam udakaṃ pājasā tejobalenābhivrajan abhimukhena gacchann evāraṇye sāhvān sarvam abhibhavan ā abhimukhenāva vāti | vyāpnoti | tatra dṛṣṭāntaḥ | vaṃsago na | yathā vananīyagatir vṛṣo goyūthe sarvam abhibhavan vartate tadvat | yasmād evaṃ tasmāt patatriṇaḥ patanavato 'gneḥ sakāśāt sthātuḥ sthāvaraṃ carathaṃ ca jaṅgamaṃ ca bhayate | bibheti ||*
+*tapurjambhaḥ | tapūṃṣi jvālā eva jambhā āyudhāni mukhāni vā yasya sa tathoktaḥ | vātacodito vāyunā preritaḥ | evaṃbhūto 'gnir yūthe jvālāsamūhe saty akṣitam akṣīṇaṃ rajaḥ ārdravṛkṣāntargatam udakaṃ pājasā tejobalenābhivrajan abhimukhena gacchan vane 'raṇye sāhvān sarvam abhibhavan ā abhimukhenāva vāti | vyāpnoti | tatra dṛṣṭāntaḥ | vaṃsago na | yathā vananīyagatir vṛṣo goyūthe sarvam abhibhavan vartate tadvat | yasmād evaṃ tasmāt patatriṇaḥ patanavato 'gneḥ sakāśāt sthātuḥ sthāvaraṃ carathaṃ ca jaṅgamaṃ ca bhayate | bibheti ||*
 
-*(The tail of the bhāṣya, p. 425, is characterized: on *sāhvān* (*dāśvān sāhvān…* *kvasu* nipātana; the lengthening *dīrghād aṭ samānapāde*, the *ru* of *n*; *yatvalopaḥ*), *sthātuḥ* (*kimimanijanī…*: *tun*), and *bhayate* (*ñibhī bhaye*; *vyatyaya*: *ātmanepada*; *bahulaṃ chandasi*: *śluk* absent; *guṇa*).)*
+*(The tail of the bhāṣya, p. 425, is characterized: on *sāhvān* (*dāśvān sāhvān…*: *kvasu* by *nipātana*; *dīrghād aṭi samānapāde*: *ru* of the *n*; *āto 'ṭi nityam*: nasalized *ā*; *ya*-loss; the short vowel [of the Pada's *sahvān*] is Vedic), *sthātuḥ* (*kamimanijanī…*, Uṇ. 1-73: *tu*; or: first the stationary, then the moving is afraid), *caratham* (Uṇādi *atha*), and *bhayate* (*ñibhī bhaye*; *vyatyaya*: *ātmanepada*; *bahulaṃ chandasi*: no *ślu*; *guṇa*, *ay*).)*
+
+*(The Pada prints* सह्वान् *(ಸಹ್ವಾನ್, short first vowel), as the tail's "hrasvatvaṃ chāndasam" explains.)*
 
 **Translation of the bhāṣya:** "*Tapurjambhaḥ*: *tapūṃsi*, the flames, are his *jambhāḥ*, weapons or mouths; *vātacoditaḥ*, urged on by the wind. Such Agni, *yūthe*, in the mass of flames, *akṣitam rajaḥ*, the undecayed water that is inside the wet trees, *pājasā*, by the strength of his radiance, *abhivrajan*, going towards, *sāhvān*, overcoming everything, in the forest, *ā ava vāti*, blows through and pervades. An illustration: *vaṃsago na*, as a bull of attractive gait overcomes everything in a herd of cows. Therefore *patatriṇaḥ*, from the flying Agni, the *sthātuḥ* — the immovable — and the *caratham*, the movable, *bhayate*, are afraid."
 
@@ -7705,16 +7709,16 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 426)** — "The flame-weaponed and breeze-excited Agni, assailing the unexhaled moisture (of the trees) with all his strength, in a volume of fire, rushes triumphant (against all things) in the forest, like a bull, and all, whether stationary or moveable, are afraid of him as he flies along."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 426**
-- **tapurjambhaḥ** — "*Tapūṃṣi jvālā eva jambhā āyudhāni mukhāni vā yasya*: the flames are Agni's weapons; or, since he receives everything by the flame, the flames are his mouths (see Ṛ. Saṃ. Part 4, p. 234 [?])."
+- **tapurjambhaḥ** — "*Tapūṃṣi jvālā eva jambhā āyudhāni mukhāni vā yasya*: the flames are Agni's weapons; or, since he receives everything by the flame, the flames are his mouths (see Ṛ. Saṃ. Part 4, p. 234)."
 - **rajaḥ** — "*Ārdravṛkṣāntargatam udakam*: Agni, by his mass of flame, dries up the water inside the trees and burns them up, leaving nothing in them. Here the word *rajas* is used in the sense of water."
 - **vaṃsagaḥ na** — "*Vananīyagatiḥ vṛṣaḥ goyūthe sarvam abhibhavan vartate tadvat*: like a bull that moves bravely, which in a herd of cows moves without concern for anything: so Agni burns everything, stationary or moving, without regard."
 - **sthātuḥ caratham ca** — "*Sthāvara* means trees and the like that stand without moving; *caratha*, the animals that move. Here it is also praised: 'having first burnt the stationary things, afterwards I shall burn the moving things'. In the word *caratham* the root *car* has the sense of motion. In this Rik a forest fire (*dāvāgni*) is described."
 
 **Vyākaraṇa-prakriyā** *(pp. 426–427 — grammar pages, noted briefly)*
-- **sāhvān**: *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12): irregularly formed ending in *kvasu*; *sāhvān + ava*: *dīrghād aṭi samānapāde*: *n* becomes *ru* before the following *a* in the same pāda (*nṝn pe*…); *ato roraplutād aplute*: *u*; *bhobhago…*: *yatva*; *lopaḥ śākalyasya*.
+- **sāhvān**: *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12): irregularly formed ending in *kvasu*; *sāhvān + ava*: *dīrghād aṭi samānapāde* (Pā. 8-3-9): *n* becomes *ru* before the following *a* in the same pāda (*nṝn pe*…); *ato roraplutād aplute*: *u*; *bhobhago…*: *yatva*; *lopaḥ śākalyasya*.
 - **vāti**: *vā gatigandhanayoḥ*, *adādi*; *laṭ*; *nighāta*.
-- **sthātuḥ**: Uṇādi *tun* by *kimimanijanīty…*: *kvip* optional; or *tṛc*: *sthātṛ*; then "after the stationary the moving one is afraid" is construed. Genitive *sthātuḥ*.
-- **caratham**: *cara gatibhakṣaṇayoḥ*; here in the sense of motion; Uṇādi *atha*; suffix-accent.
+- **sthātuḥ**: *ṣṭhā gatinivṛttau*; Uṇādi *tu* by *kamimanijani…* (Uṇ. 1-73), by *bahula*; or *tṛc*: *sthātṛ*; then "after the stationary the moving one is afraid" is construed; the print calls *sthātuḥ* the ablative singular (*pañcamī*).
+- **caratham**: *cara gatibhakṣaṇayoḥ*; here in the sense of motion; Uṇādi *atha*; suffix-accent: middle-acute.
 - **bhayate**: *ñibhī bhaye*; *vyatyaya*: *ātmanepada*; *juhotyādi* but *bahulaṃ chandasi*: no *śluk*; *kartari śap*; *guṇa*; *ayādeśa*; *ṭita…*: *e*; *nighāta*. **|| 5 ||**
 
 ---
