@@ -8193,15 +8193,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.2 (pp. 499–, PDF 513–)
+### Rik 44.2 (pp. 499–503, PDF 513–517)
 
-**Saṃhitā-pāṭha** *(p. 499 foot; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 499 foot)*
 
-> **जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणाम् ।**
-> **सजूरश्विभ्यामुषसा सुवीर्यमस्मे धेहि श्रवो बृहत् ॥ २ ॥**
+> **जु॒ष्टो हि दू॒तो असि॑ हव्य॒वाह॒नोऽग्ने॑ र॒थीर॑ध्व॒राणा॑म् ।**
+> **स॒जूर॒श्विभ्या॑मु॒षसा॑ सु॒वीर्य॑म॒स्मे धे॑हि॒ श्रवो॑ बृ॒हत् ॥ २ ॥**
 
-*juṣṭo hi dūto asi havyavāhano 'gne rathīr adhvarāṇām |*
-*sajūr aśvibhyām uṣasā suvīryam asme dhehi śravo bṛhat || 2 ||*
+*juṣṭó hi dūtó ási havyavā́hanó 'gne rathī́r adhvarā́ṇām |*
+*sajū́r aśvíbhyām uṣásā suvī́ryam asmé dhehi śrávo bṛhát || 2 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The svarita over* bhyā *stands at the joint of* śvi *and* bhyā*; read as* bhyā*.)*
+
+### Page 500
 
 **Pada-pāṭha** *(p. 500)*
 
@@ -8217,11 +8221,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 500)*
 
-> **हे अग्ने त्वं जुष्टत्वादिविशेषगुणयुक्तोऽसि । जुष्टः सेवितो दूतो देवानां वार्ताहारो हव्यवाहनो हविषां वोढा अध्वराणां क्रतूनां रथीः रथस्थानीयः । तथा च मन्त्रान्तरं ब्राह्मणेनैव व्याख्यातं । रथीरध्वराणामित्यैष हि देवरथ इति । ब्राह्मणान्तरं च । रथीरध्वराणामित्याह रथो ह वा एष भूतो देवेभ्यो हव्यं वहतीति । तादृशस्त्वमश्विभ्यां देवताभ्यामुषसा देवतया च सजूः सहितो भूत्वा सुवीर्यं शोभनवीर्योपेतं बृहत् प्रभूतं श्रवोऽन्नमस्मे धेहि । अस्मासु प्रक्षिप ॥ जुष्टः । जुषी प्रीतिसेवनयोः । नित्यं मन्त्र इत्याद्युदात्तत्वं । असि । सिपि तासस्त्योर्लोपः । पा. ७-४-५० [?] । इति सलोपः । हि चेति निघातप्रतिषेधः । हव्यवाहनः । हव्यं वहतीति हव्यवाहनः । हव्येऽनन्तःपादम् । पा. ३-२-६६ [?] । इति ण्युट् । योरनादेशः । ञित्त्वादाद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वं । अग्ने । पादादित्वादाष्टमिकनिघाताभावः । रथीः । रथशब्दात्स्वार्थिक ईकारप्रत्ययः । अध्वराणां । ध्वरो नास्त्येष्विति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । सुवीर्यं । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं । अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः ॥ २ ॥ **
+> **हे अग्ने त्वं जुष्टत्वादिविशेषगुणयुक्तोऽसि । जुष्टः सेवितो दूतो देवानां वार्ताहारो हव्यवाहनो हविषां वोढा अध्वराणां क्रतूनां रथीः रथस्थानीयः । तथा च मन्त्रान्तरं ब्राह्मणेनैव व्याख्यातं । रथीरध्वराणामित्यैष हि देवरथ इति । ब्राह्मणान्तरं च । रथीरध्वराणामित्याह रथो ह वा एष भूतो देवेभ्यो हव्यं वहतीति । तादृशस्त्वमश्विभ्यां देवताभ्यामुषसा देवतया च सजूः सहितो भूत्वा सुवीर्यं शोभनवीर्योपेतं बृहत् प्रभूतं श्रवोऽन्नमस्मे धेहि । अस्मासु प्रक्षिप ॥ जुष्टः । जुषी प्रीतिसेवनयोः । नित्यं मन्त्र इत्याद्युदात्तत्वं । असि । सिपि तासस्त्योर्लोपः । पा. ७-४-५० । इति सलोपः । हि चेति निघातप्रतिषेधः । हव्यवाहनः । हव्यं वहतीति हव्यवाहनः । हव्येऽनन्तःपादम् । पा. ३-२-६६ । इति ण्युट् । योरनादेशः । ञित्त्वादाद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वं । अग्ने । पादादित्वादाष्टमिकनिघाताभावः । रथीः । रथशब्दात्स्वार्थिक ईकारप्रत्ययः । अध्वराणां । ध्वरो नास्त्येष्विति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । सुवीर्यं । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं । अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः ॥ २ ॥ **
 
-*he agne tvaṃ juṣṭatvādiviśeṣaguṇayukto 'si | juṣṭaḥ sevito dūto devānāṃ vārtāhāro havyavāhano haviṣāṃ voḍhā adhvarāṇāṃ kratūnāṃ rathīḥ rathasthānīyaḥ | tathā ca mantrāntaraṃ brāhmaṇenaiva vyākhyātaṃ | rathīr adhvarāṇām ity aiṣa hi devaratha iti | brāhmaṇāntaraṃ ca | rathīr adhvarāṇām ity āha ratho ha vā eṣa bhūto devebhyo havyaṃ vahatīti | tādṛśas tvam aśvibhyāṃ devatābhyām uṣasā devatayā ca sajūḥ sahito bhūtvā suvīryaṃ śobhanavīryopetaṃ bṛhat prabhūtaṃ śravo 'nnam asme dhehi | asmāsu prakṣipa || juṣṭaḥ | juṣī prītisevanayoḥ | nityaṃ mantra ityādyudāttatvaṃ | asi | sipi tāsastyor lopaḥ | pā. 7-4-50 [?] | iti salopaḥ | hi ceti nighātapratiṣedhaḥ | havyavāhanaḥ | havyaṃ vahatīti havyavāhanaḥ | havye 'nantaḥpādam | pā. 3-2-66 [?] | iti ṇyuṭ | yor anādeśaḥ | ñittvād ādyudāttatve kṛduttarapadaprakṛtisvaratvaṃ | agne | pādāditvād āṣṭamikanighātābhāvaḥ | rathīḥ | rathaśabdāt svārthika īkārapratyayaḥ | adhvarāṇāṃ | dhvaro nāsty eṣv iti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvaṃ | suvīryaṃ | vīravīryau cety uttarapadādyudāttatvaṃ | asme | supāṃ sulug iti saptamyāḥ śe ādeśaḥ ||*
+*he agne tvaṃ juṣṭatvādiviśeṣaguṇayukto 'si | juṣṭaḥ sevito dūto devānāṃ vārtāhāro havyavāhano haviṣāṃ voḍhā adhvarāṇāṃ kratūnāṃ rathīḥ rathasthānīyaḥ | tathā ca mantrāntaraṃ brāhmaṇenaiva vyākhyātaṃ | rathīr adhvarāṇām ity aiṣa hi devaratha iti | brāhmaṇāntaraṃ ca | rathīr adhvarāṇām ity āha ratho ha vā eṣa bhūto devebhyo havyaṃ vahatīti | tādṛśas tvam aśvibhyāṃ devatābhyām uṣasā devatayā ca sajūḥ sahito bhūtvā suvīryaṃ śobhanavīryopetaṃ bṛhat prabhūtaṃ śravo 'nnam asme dhehi | asmāsu prakṣipa || juṣṭaḥ | juṣī prītisevanayoḥ | nityaṃ mantra ityādyudāttatvaṃ | asi | sipi tāsastyor lopaḥ | pā. 7-4-50 | iti salopaḥ | hi ceti nighātapratiṣedhaḥ | havyavāhanaḥ | havyaṃ vahatīti havyavāhanaḥ | havye 'nantaḥpādam | pā. 3-2-66 | iti ṇyuṭ | yor anādeśaḥ | ñittvād ādyudāttatve kṛduttarapadaprakṛtisvaratvaṃ | agne | pādāditvād āṣṭamikanighātābhāvaḥ | rathīḥ | rathaśabdāt svārthika īkārapratyayaḥ | adhvarāṇāṃ | dhvaro nāsty eṣv iti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvaṃ | suvīryaṃ | vīravīryau cety uttarapadādyudāttatvaṃ | asme | supāṃ sulug iti saptamyāḥ śe ādeśaḥ ||*
 
-*(The grammatical tail, which I at first left unfinished with a placeholder, is completed above from the foot of p. 500; the numerals and the clause on* havye 'nantaḥpādam *are read with doubt [?]. The Pratipadārtha begins at the foot of p. 500 and continues on p. 501.)*
+*(The grammatical tail, which I at first left unfinished with a placeholder, is completed above from the foot of p. 500; the numerals (Pā. 7-4-50, 3-2-66) and the clause on* havye 'nantaḥpādam *were zoom-checked on the better scan, PDF 515. The Pratipadārtha begins at the foot of p. 500 and continues on p. 501.)*
 
 **Translation of this part:** "O Agni, you are endowed with special qualities beginning with being *juṣṭa* ['dear']. *Juṣṭaḥ*, served, the *dūtaḥ*, messenger of the gods, the carrier of tidings; *havyavāhanaḥ*, the bearer of oblations; *adhvarāṇām rathīḥ*, [as] the charioteer, in the position of the chariot, of the sacrifices. And so, in another mantra, it is explained by the Brāhmaṇa itself: '*rathīr adhvarāṇām*: this indeed is the chariot of the gods'; and in another Brāhmaṇa: 'he says *rathīr adhvarāṇām*: this [Agni] having become a chariot carries the oblation to the gods.' Such as you are, *sajūḥ*, together with the two deities, the Aśvins, and the deity Uṣas, *suvīryam*, endowed with fine heroism, *bṛhat*, abundant, *śravaḥ*, food, *asme dhehi*, place upon us; put it into us."
 
@@ -8231,13 +8235,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Rik 44.2, continued** *(from the foot of p. 500)*
 
-**Translation of the grammatical tail** *(characterized; numerals as read [?])*: *Juṣṭaḥ* — root *juṣī prītisevanayoḥ*; the first-syllable acute by *nityaṃ mantre* [as read]. *Asi* — in *sip* the loss of the *s* of *tās* and *as* [Pā. 7-4-50 [?]]; the prohibition of *nighāta* by *hi ca*. *Havyavāhanaḥ* — '*havyaṃ vahati*'; *ṇyuṭ* by *havye 'nantaḥpādam* [Pā. 3-2-66 [?]]; *ana* for *yu*; since it is *ñit* it is first-syllable acute, [but] the accent of the first member of a *kṛt*-ending compound prevails. *Agne* — because it begins a *pāda* the eighth-*adhyāya* *nighāta* does not come. *Rathīḥ* — a suffix *ī* in its own sense after *ratha*. *Adhvarāṇām* — '*dhvaro nāsty eṣu*', a bahuvrīhi; the latter member is final-acute by *nañ-subhyām*. *Suvīryam* — the latter member is first-syllable acute by *vīravīryau ca*. *Asme* — *śe* for the locative by *supāṃ sulug…*.
+**Translation of the grammatical tail** *(characterized)*: *Juṣṭaḥ* — root *juṣī prītisevanayoḥ*; the first-syllable acute by *nityaṃ mantre* [as read]. *Asi* — in *sip* the loss of the *s* of *tās* and *as* (Pā. 7-4-50); the prohibition of *nighāta* by *hi ca*. *Havyavāhanaḥ* — '*havyaṃ vahati*'; *ṇyuṭ* by *havye 'nantaḥpādam* (Pā. 3-2-66); *ana* for *yu*; since it is *ñit* it is first-syllable acute, [but] the accent of the first member of a *kṛt*-ending compound prevails. *Agne* — because it begins a *pāda* the eighth-*adhyāya* *nighāta* does not come. *Rathīḥ* — a suffix *ī* in its own sense after *ratha*. *Adhvarāṇām* — '*dhvaro nāsty eṣu*', a bahuvrīhi; the latter member is final-acute by *nañ-subhyām*. *Suvīryam* — the latter member is first-syllable acute by *vīravīryau ca*. *Asme* — *śe* for the locative by *supāṃ sulug…*.
 
 **Pratipadārtha** *(pp. 500–501)* — "**agne** — O Agni, (you); **juṣṭaḥ** — served with confidence; **dūtaḥ** — the messenger of the gods; **havyavāhanaḥ** — bearer of oblations [to the deities]; **adhvarāṇām** — for sacrifices; **rathīḥ** — in the position of the charioteer; **asi** — you are (such); **aśvibhyām** — with the Aśvin deities; **uṣasā** — with the goddess Uṣas; **sajūḥ** — joining; **suvīryam** — excellent and heroic; **bṛhat** — abundant; **śravaḥ** — food; **asme** — to us; **dhehi** — grant."
 
 **Bhāvārtha** *(p. 501)* — "O Agni, as you stand in the place of the manager for the sacrifices, carry the oblations and share them with all the gods, you are served with confidence by all, being the messenger of the gods. Joining with the Aśvin deities and with the goddess Uṣas, who are objects of the delight of all these gods, grant us food that is excellent, heroic and abundant."
 
-**English Translation (the source's own, p. 501)** — "O Agani [sic], you are well-iiked [sic] messenger of the gods, the bearer of oblations, the conducter [sic] of sacrifices ; together with Ushas, and Aswins bestow upon us abundant and invigorating food."
+**English Translation (the source's own, p. 501)** — "O Agni, you are well-liked messenger of the gods, the bearer of oblations, the conducter [sic] of sacrifices ; together with Ushas, and Aswins bestow upon us abundant and invigorating food."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 501**
 - **juṣṭaḥ** = *juṣī prītisevanayoḥ* — "one who is the object of the gods' love, or who is served by sacrificers and other people."
@@ -8245,14 +8249,18 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **sajūḥ** = *sahito bhūtvā* — "having joined."
 - **śravo bṛhat** — "abundant food, or nourishment."
 
+### Page 502
+
 **Vyākaraṇa-prakriyā** *(pp. 502–503 — grammar pages, noted briefly)*
-- **juṣṭaḥ**: root *juṣī prītisevanayoḥ*; the suffix *kta*; *śvīdito niṣṭhāyām* [Pā. 7-2-14 as read]: no *iṭ* before the *kta* and *ktavatu* suffixes after the roots *śvi* and *idit* roots; *ṛtvā juṣṭa*; *juṣṭārpite ca chandasi* [Pā. 6-1-207 as read]: *juṣṭa* and *arpita* are optionally first-syllable acute in the Veda; *nityaṃ mantre* [Pā. 6-1-210 as read]: in a mantra they are always first-syllable acute. The print remarks that since the first rule already settles the sense this second sūtra need not be made, but that usage in the Veda is *vyavasthita* (fixed), so even optionality cannot prove final-acuteness, and the Śruti has final-acuteness in a passage such as '*arpitāḥ ṣaṭ ṣaṭ…*' [as read, crowded [?]].
-- **asi**: root *as bhuvi*, *laṭ*, *sip*, *śap* → *luk* by *adiprabhṛtibhyaḥ śapaḥ*; *tāsasty-ṛlopaḥ* — तासस्त्योर्लोपः — [Pā. 7-4-50 as read]: the loss of the *s* before a suffix beginning with *s*; the prohibition of *nighāta* since the verb is joined with *hi* (*hi ca*, [Pā. 8-1-34 as read]).
-- **havyavāhanaḥ**: *havye 'nantaḥpādam* — हव्येऽनन्तःपादम् — [Pā. 3-2-66 as read]: after *vah*, *ṇyuṭ* when *havya* is the *upapada*; not when it stands within the *pāda* (here it does not); *yuvor anākau*: *ana*; *upadhāvṛddhi*; the *ṇyuṭ* is *ñit* [the *ṇ*], so first-syllable acute would arise; but by *gatikārakopapadāt kṛt* the accent of the first member stands.
-- **agne**: begins a *pāda*; therefore the eighth-*adhyāya* unaccentedness does not apply; by *āmantritasya ca* first-syllable acute.
-- **rathīḥ**: root *ramu krīḍāyām*; *hanikuṣinīramikāśibhyaḥ kthan* [Uṇ. 2-[?] as read]: *kthan*; *anudāttopadeśa…* [Pā. 6-4-37 as read] loss of *m*; the suffix comes in its own sense after *ratha*.
+- **juṣṭaḥ**: root *juṣī prītisevanayoḥ*; the suffix *kta*; *śvīdito niṣṭhāyām* (printed "Pā. 7-2-1" [as printed; for 7-2-14]): no *iṭ* before the *kta* and *ktavatu* suffixes after the roots *śvi* and *idit* roots; by *ṣṭutva*, *juṣṭa*; *juṣṭārpite ca chandasi* (Pā. 6-1-209): *juṣṭa* and *arpita* are optionally first-syllable acute in the Veda; *nityaṃ mantre* (Pā. 6-1-210): in a mantra they are always first-syllable acute. The print remarks that since the first rule already settles the sense this second sūtra need not be made, but that usage in the Veda is *vyavasthita* (fixed), so even optionality cannot prove final-acuteness, and the Śruti has final-acuteness in '*arpitāḥ ṣaṣṭir na calācalāsaḥ*'; that would not be established by the sūtra *nityaṃ mantre*.
+- **asi**: root *as bhuvi*, *laṭ*, *sip*, *śap* → *luk* by *adiprabhṛtibhyaḥ śapaḥ*; *tāsastyor lopaḥ* — तासस्त्योर्लोपः — (Pā. 7-4-50): the loss of the *s* before a suffix beginning with *s*; the prohibition of *nighāta* since the verb is joined with *hi* (*hi ca*, Pā. 8-1-34).
+- **havyavāhanaḥ**: *havye 'nantaḥpādam* — हव्येऽनन्तःपादम् — (Pā. 3-2-66): after *vah*, *ṇyuṭ* when *havya* is the *upapada*; not when it stands within the *pāda* (here it does not); *yuvor anākau*: *ana*; *upadhāvṛddhi*; the *ṇyuṭ* is *ñit* [the *ṇ*], so first-syllable acute would arise; but by *gatikārakopapadāt kṛt* the accent of the first member stands.
+- **agne**: begins a *pāda*; therefore the eighth-*adhyāya* unaccentedness does not apply; first-syllable acute by the sūtra of the sixth adhyāya (*ṣāṣṭha sūtra*).
+- **rathīḥ**: root *ramu krīḍāyām*; *hanikuṣinīramikāśibhyaḥ kthan* (Uṇ. 2-159 as read; the middle digit is the ೫ shape): *kthan*; *anudāttopadeśa…* (Pā. 6-4-37) loss of *m*; the suffix comes in its own sense after *ratha*.
 - **adhvarāṇām**: *dhvaraḥ* = injury; '*na vidyate dhvaraḥ yeṣu te*': a bahuvrīhi; by *nañ-subhyām* the latter member is final-acute.
-- **suvīryam**: *vīra vīryau ca* [Pā. 6-2-120 as read]: in a bahuvrīhi after *su* the words *vīra* and *vīrya* are first-syllable acute; *vīrya* is first-syllable acute.
+### Page 503
+
+- **suvīryam**: *vīra vīryau ca* (Pā. 6-2-120): in a bahuvrīhi after *su* the words *vīra* and *vīrya* are first-syllable acute; *vīrya* is first-syllable acute.
 - **asme**: *supāṃ sulug…*: *śe* for the locative; *śeṣe lopaḥ*: the loss of the *d* of *asmad*; the accent that follows the loss of an acute; if the loss of the final [*ad*] is chosen, *asma + e*, *ato guṇe* gives *pararūpa*, and the single-substitute accent comes. Rik 2 ends here (*|| 2 ||*).
 
 ---
