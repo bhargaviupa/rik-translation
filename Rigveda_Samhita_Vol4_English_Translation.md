@@ -840,123 +840,136 @@ beginning with *didyut*, *nemiḥ* (Ni. 3-11 as printed, zoom-checked), the word
 
 **śāśadānaḥ** — *śadḷ śātane*, a *tudādi* root; *dhātor ekāco…* gives *yaṅ*; *sanyaṅoḥ* — सन्यङोः (*sanyaṅoḥ*) — Pā. 6-1-9 doubling; *halādiḥ śeṣaḥ* removes the reduplicate's extra consonant: *śaśad + ya*; *dīrgho 'kitaḥ* — दीर्घोऽकितः (*dīrgho 'kitaḥ*) — Pā. 7-4-83: before *yaṅ* a reduplicate that is not *kit* is lengthened: *śāśad + ya*; then *laṭ*, and *laṭaḥ śatṛśānacau* gives *śānac*; *chandasy ubhayathā* — छन्दस्युभयथा (*chandasy ubhayathā*) — Pā. 6-4-117 [as printed]: a suffix prescribed in the section on roots has, in the Veda, both the *sārvadhātuka* and the *ārdhadhātuka* designation; so it is *ārdhadhātuka*; *yasya halaḥ* — यस्य हलः (*yasya halaḥ*) — Pā. 6-4-49 takes *yasya* as a sequence: before an *ārdhadhātuka*, *ya* after a consonant is dropped; by the paribhāṣā *ādeḥ parasya* — आदेः परस्य (*ādeḥ parasya*) — Pā. 1-1-54, an operation prescribed for what follows applies to its first letter, so it comes to *y*; then *ato lopaḥ* — अतो लोपः (*ato lopaḥ*) — Pā. 6-4-48 drops the *a*; as it is *ārdhadhātuka*, *śap* does not come. It also has the *sārvadhātuka* designation, so by *abhyastānām ādiḥ* — अभ्यस्तानामादिः (*abhyastānām ādiḥ*) — Pā. 6-1-189, before a vowel-initial *lasārvadhātuka* without *iṭ*, the beginning of the *abhyasta* is acute, and the acute comes on the first syllable of *śāśad*. Rik 13 ends here (*|| 13 ||*).
 
-### Rik 33.14 (p. 60 onward, PDF 74–)
+### Rik 33.14 (pp. 60–66, PDF 74–80)
 
-**Saṃhitā-pāṭha** *(p. 60; accents not reproduced; the *-ucchvaitreyo* conjunct is read as *uc chvaitreyo*)*
+**Saṃhitā-pāṭha** *(p. 60; Saṃhitā accents as printed; Pada unaccented)*
 
-> **आवः कुत्समिन्द्र यस्मिञ्चाकन्प्रावो युध्यन्तं वृषभं दशद्युम् ।**
-> **शफच्युतो रेणुर्नक्षत द्यामुच्छ्वैत्रेयो नृषाह्याय तस्थौ ॥ १४ ॥**
+> आवः॒ कुत्स॑मिन्द्र॒ यस्मि॑ञ्चा॒कन्प्रावो॒ युध्य॑न्तं वृष॒भं दश॑द्युम् ।
+> श॒फच्यु॑तो रे॒णुर्न॑क्षत॒ द्यामुच्छ्वै॑त्रे॒यो नृ॒षाह्या॑य तस्थौ ॥ १४ ॥
+>
+> *āvaḥ kútsam indra yásmiñ cākán prāvo yúdhyantaṃ vṛṣabháṃ dáśadyum |*
+> *śaphácyuto reṇúr nakṣata dyā́m úcchvaitreyó nṛṣā́hyāya tasthau || 14 ||*
 
-*āvaḥ kutsam indra yasmiñ cākan prāvo yudhyantaṃ vṛṣabhaṃ daśadyum |*
-*śaphacyuto reṇur nakṣata dyām uc chvaitreyo nṛṣāhyāya tasthau || 14 ||*
+(As printed: the only marks in *āvaḥ* and *prāvo* are the underlines under ವಃ and ವೋ; in *yudhyantam* a single svarita stroke over ಧ್ಯ; in *nakṣata* the stroke stands over ರ್ನ. The IAST acutes are derived mechanically from these marks.)
 
-**Pada-pāṭha** *(the first line only, at the foot of p. 60; the rest on p. 61 is not yet written)*
+**Pada-pāṭha** *(pp. 60–61)*
 
 > आवः । कुत्सम् । इन्द्र । यस्मिन् । चाकन् । प्र । आवः । युध्यन्तम् । वृषभम् । दशऽद्युम् ।
 
-*āvaḥ | kutsam | indra | yasmin | cākan | pra | āvaḥ | yudhyantam | vṛṣabham | daśa-dyum |*
+### Page 61
 
-### Rik 33.14 (continued) — Pada-pāṭha, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics (pp. 61–64, PDF 75–78)
-
-**Pada-pāṭha** *(pp. 60–61; the first line was given at the foot of p. 60)*
-
-> आवः । कुत्सम् । इन्द्र । यस्मिन् । चाकन् । प्र । आवः । युध्यन्तम् । वृषभम् । दशऽद्युम् ॥
 > शफऽच्युतः । रेणुः । नक्षत । द्याम् । उत् । श्वैत्रेयः । नृऽसह्याय । तस्थौ ॥ १४ ॥
 
-*āvaḥ | kutsam | indra | yasmin | cākan | pra | āvaḥ | yudhyantam | vṛṣabham | daśa-dyum ||*
+*āvaḥ | kutsam | indra | yasmin | cākan | pra | āvaḥ | yudhyantam | vṛṣabham | daśa-dyum |*
 *śapha-cyutaḥ | reṇuḥ | nakṣata | dyām | ut | śvaitreyaḥ | nṛ-sahyāya | tasthau || 14 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 61; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 61, in full; numerals zoom-checked)*
 
-> हे इन्द्र कुत्समेतन्नामकं गोत्रप्रवर्तकमृषिमावः । रक्षितवानसि । यस्मिन्कुत्से चाकन् स्तुतिं कामयमानो वर्तसे । तं कुत्समिति पूर्वत्रान्वयः । तथा दशद्युमेतन्नामकं दशसु दिक्षु दीप्यमानमृषिं प्रावः । प्रकर्षेण रक्षितवानसि ॥ कीदृशम् । युध्यन्तं स्वकीयैः शत्रुभिः सह युद्धं कुर्वन्तं वृषभं गुणैः श्रेष्ठम् । शफच्युतस्त्वदीयाश्वस्य शफात्प्रच्युतो रेणुर्धूलिर्द्यां द्युलोकं नक्षत । प्राप्नोति । श्वैत्रेयः । श्वित्राख्याया योषितः पुत्रः पुरा शत्रुभयाज्जले मग्नः सन् त्वदनुग्रहान्नृसह्याय नृभिः पुरुषैः सोढव्यायोत्तस्थौ । जलादुत्थितवान् ॥
+> हे इन्द्र कुत्समेतन्नामकं गोत्रप्रवर्तकमृषिमावः । रक्षितवानसि । यस्मिन्कुत्से चाकन् स्तुतिं कामयमानो वर्तसे । तं कुत्समिति पूर्वत्रान्वयः । तथा दशद्युमेतन्नामकं दशसु दिक्षु दीप्यमानमृषिं प्रावः । प्रकर्षेण रक्षितवानसि ॥ कीदृशम् । युध्यन्तं स्वकीयैः शत्रुभिः सह युद्धं कुर्वन्तं वृषभं गुणैः श्रेष्ठम् । शफच्युतस्त्वदीयाश्वस्य शफात्पतितो रेणुर्धूलिर्द्यां द्युलोकं नक्षत । प्राप्नोति । श्वैत्रेयः । श्वित्राख्याया योषितः पुत्रः पुरा शत्रुभयाज्जले मग्नः सन् त्वदनुग्रहान्नृसह्याय नृभिः पुरुषैः सोढव्यायोत्तस्थौ । जलादुत्थितवान् ॥ चाकन् । चक तृप्तौ । अस्माण्ण्यन्ताच्छतृ । छन्दस्युभयथेत्यार्धधातुकत्वाण्णिलोपः शबभावश्च । प्रत्ययस्वरेणान्तोदात्तत्वम् । यद्वा । कमु कान्तावित्यस्माद्यङ्लुगन्ताल्लङि सिप्यभ्यासस्य नुमभावश्छान्दसः । दीर्घोऽकित इति दीर्घत्वम् । सिलोपे मो नो धातोः । पा. ८-२-६४ । इति मकारस्य नकारः । धातुस्वरः । यद्वृत्तयोगादनिघातः । युध्यन्तम् । व्यत्ययेन परस्मैपदम् । दशद्युम् । दीव्यतेः प्रकाशार्थात्संपदादिलक्षणः क्विप् । च्छ्वोः शूडित्यूठ् । दशसु दिक्षु द्युर्यस्यासौ दशद्युः । छान्दसं ह्रस्वत्वम् । यद्वा । द्युशब्दोऽहर्नामसु पठितः । तेन प्रवृत्तिनिमित्तभूतः प्रकाशो लक्ष्यते । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । शफच्युतः शफेन च्युतः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । नक्षत । नक्ष गतौ । व्यत्ययेनात्मनेपदम् । श्वैत्रेयः । श्वित्राया अपत्यम् । स्त्रीभ्यो ढक् । पा. ४-१-१२० । नृसह्याय शकिसहोश्च । पा. ३-१-९९ । इति कर्मणि यत् । यतोऽनाव इत्याद्युदात्तत्वम् । समासे कृदुत्तरपदप्रकृतिस्वरत्वम् । पूर्वपदात् । पा. ८-३-१०६ । इति षत्वम् । संहितायां दीर्घश्छान्दसः ॥
 
-*he indra kutsam etannāmakaṃ gotrapravartakam ṛṣim āvaḥ | rakṣitavān asi | yasmin kutse cākan stutiṃ kāmayamāno vartase | taṃ kutsam iti pūrvatrānvayaḥ | tathā daśadyum etannāmakaṃ daśasu dikṣu dīpyamānam ṛṣiṃ prāvaḥ | prakarṣeṇa rakṣitavān asi || kīdṛśam | yudhyantaṃ svakīyaiḥ śatrubhiḥ saha yuddhaṃ kurvantaṃ vṛṣabhaṃ guṇaiḥ śreṣṭham | śaphacyutas tvadīyāśvasya śaphāt pracyuto reṇur dhūlir dyāṃ dyulokaṃ nakṣata | prāpnoti | śvaitreyaḥ | śvitrākhyāyā yoṣitaḥ putraḥ purā śatrubhayāj jale magnaḥ san tvadanugrahān nṛsahyāya nṛbhiḥ puruṣaiḥ soḍhavyāyottasthau | jalād utthitavān ||*
+*he indra kutsametannāmakaṃ gotrapravartakamṛṣimāvaḥ | rakṣitavānasi | yasminkutse cākan stutiṃ kāmayamāno vartase | taṃ kutsamiti pūrvatrānvayaḥ | tathā daśadyumetannāmakaṃ daśasu dikṣu dīpyamānamṛṣiṃ prāvaḥ | prakarṣeṇa rakṣitavānasi ‖ kīdṛśam | yudhyantaṃ svakīyaiḥ śatrubhiḥ saha yuddhaṃ kurvantaṃ vṛṣabhaṃ guṇaiḥ śreṣṭham | śaphacyutastvadīyāśvasya śaphātpatito reṇurdhūlirdyāṃ dyulokaṃ nakṣata | prāpnoti | śvaitreyaḥ | śvitrākhyāyā yoṣitaḥ putraḥ purā śatrubhayājjale magnaḥ san tvadanugrahānnṛsahyāya nṛbhiḥ puruṣaiḥ soḍhavyāyottasthau | jalādutthitavān ‖ cākan | caka tṛptau | asmāṇṇyantācchatṛ | chandasyubhayathetyārdhadhātukatvāṇṇilopaḥ śababhāvaśca | pratyayasvareṇāntodāttatvam | yadvā | kamu kāntāvityasmādyaṅlugantāllaṅi sipyabhyāsasya numabhāvaśchāndasaḥ | dīrgho 'kita iti dīrghatvam | silope mo no dhātoḥ | pā. 8-2-64 | iti makārasya nakāraḥ | dhātusvaraḥ | yadvṛttayogādanighātaḥ | yudhyantam | vyatyayena parasmaipadam | daśadyum | dīvyateḥ prakāśārthātsaṃpadādilakṣaṇaḥ kvip | cchvoḥ śūḍityūṭh | daśasu dikṣu dyuryasyāsau daśadyuḥ | chāndasaṃ hrasvatvam | yadvā | dyuśabdo 'harnāmasu paṭhitaḥ | tena pravṛttinimittabhūtaḥ prakāśo lakṣyate | bahuvrīhau pūrvapadaprakṛtisvaratvam | śaphacyutaḥ śaphena cyutaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam | nakṣata | nakṣa gatau | vyatyayenātmanepadam | śvaitreyaḥ | śvitrāyā apatyam | strībhyo ḍhak | pā. 4-1-120 | nṛsahyāya śakisahośca | pā. 3-1-99 | iti karmaṇi yat | yato 'nāva ityādyudāttatvam | samāse kṛduttarapadaprakṛtisvaratvam | pūrvapadāt | pā. 8-3-106 | iti ṣatvam | saṃhitāyāṃ dīrghaśchāndasaḥ ‖*
 
-**Translation:** "O Indra, you *āvaḥ* — protected — the ṛṣi named Kutsa, the founder of a gotra: in whom you [are] *cākan*, desiring praise: so the connection with the preceding is 'Kutsa'. Likewise you *prāvaḥ* — protected excellently — the ṛṣi named Daśadyu, shining in the ten directions. What was he like? *Yudhyantam* — fighting with his own enemies; *vṛṣabham* — excellent in qualities. *Śaphacyutaḥ* — the dust (*reṇuḥ*) that has fallen from the hoofs of your horse *nakṣata* — reaches — *dyām*, the heavenly world. *Śvaitreyaḥ* — the son of the woman named Śvitrī, who formerly, plunged in water from fear of enemies, by your favour *ut tasthau* — rose out of the water — *nṛsahyāya* — to be supported by men."
+*(The print has* शफात्पतितो *(the earlier text had* प्रच्युतो*).)*
 
-**Grammar within the bhāṣya** *(p. 61, characterized; the print is crowded and I did not chase the small numerals)*: *cākan* (root *caka tṛptau* with the causative *ṇic*, treated as *ārdhadhātuka* by *chandasy ubhayathā*, so that the *ṇi* is lost and *śap* appears as a substitute; the accent on the last syllable by the suffix; or alternatively root *kamu kāntau*, *luṅ*, *caṅ*, with the Vedic absence of the *num* augment, lengthening of the reduplicate, and loss of *s*); *yudhyantam* (a *vyatyaya* of voice: *parasmaipada* for *ātmanepada*); *daśadyum* (root *divu*, *kvip* by *sampadādi*, "he who has brilliance in the ten directions", with Vedic shortening); *nakṣata* (root *nakṣa gatau*, *vyatyaya* of voice); *śvaitreyaḥ* (*strībhyo ḍhak* — स्त्रीभ्यो ढक् — Pā. 4-1-120); *nṛsahyāya* (*śakisahoś ca* — शकिसहोश्च — Pā. 3-1-99, *yat* in the object sense; the *yato nāvaḥ* initial-acute rule; a compound with the accent of the last member of a *kṛt*-compound; *ṣatva* by *pūrvapadāt* — Pā. 8-3-106; lengthening, which is Vedic, in the Saṃhitā).
+**Translation:** "O Indra, you *āvaḥ* — protected — the ṛṣi named Kutsa, the founder of a gotra, in whom you are *cākan*, desiring praise: 'that Kutsa' is to be construed with what precedes. Likewise you *prāvaḥ* — protected excellently — the ṛṣi named Daśadyu, shining in the ten directions. What was he like? *Yudhyantam* — fighting with his own enemies; *vṛṣabham* — excellent in qualities. *Śaphacyutaḥ* — the dust (*reṇuḥ*) fallen from the hoofs of your horse — *nakṣata*, reaches, *dyām*, the heavenly world. *Śvaitreyaḥ* — the son of the woman named Śvitrā [as printed], who formerly, from fear of enemies, had sunk in the water, by your favour *ut tasthau* — rose out of the water — *nṛsahyāya*, to be borne by men." (The grammatical tail: *cākan* — root *cak* "to be satisfied", *śatṛ* after its causative; by *chandasy ubhayathā* it is *ārdhadhātuka*, so *ṇi* is dropped and there is no *śap*; final acute by the suffix accent. Or: from *kam* "to desire", *yaṅ-luk*, *laṅ*, *sip*; absence of the reduplicate's *nuk* is Vedic; lengthening by *dīrgho 'kitaḥ*; after the loss of *s*, *n* for *m* by *mo no dhātoḥ*, Pā. 8-2-64; root accent; no loss of accent because of *yat*. *Yudhyantam* — *parasmaipada* by *vyatyaya*. *Daśadyum* — *kvip* of the *sampadādi* type after *div* "to shine"; *ūṭh* by *cchvoḥ śūṭ…*; "he whose brilliance is in the ten directions"; the shortening is Vedic; or *dyu* is read among the names of day, and so indicates the light that is the ground of its use; first-member accent in the *bahuvrīhi*. *Śaphacyutaḥ* — "fallen by the hoof", first-member accent by *tṛtīyā karmaṇi*. *Nakṣata* — root *nakṣ* "to go", *ātmanepada* by *vyatyaya*. *Śvaitreyaḥ* — "offspring of Śvitrā", *ḍhak* by *strībhyo ḍhak*, Pā. 4-1-120. *Nṛsahyāya* — *yat* in the object sense by *śakisahoś ca*, Pā. 3-1-99; initial acute by *yato 'nāvaḥ*; in the compound the *kṛt*-final last member keeps its accent; *ṣ* by *pūrvapadāt*, Pā. 8-3-106; the lengthening in the Saṃhitā is Vedic.)
 
-**Pratipadārtha** *(pp. 61–62)* — "**indra** — O Indra; **yasmin** — in which ṛṣi, Kutsa; **cākan** — (to hear the hymns) you who are pleased; **kutsam** — Kutsa; **āvaḥ** — [you] protected; **yudhyantam** — who was fighting with enemies; **vṛṣabham** — endowed with the best qualities; **daśadyum** — the ṛṣi named Daśadyu; **prāvaḥ** — [you] protected well; **śaphacyutaḥ** — (your horse's) thrown up by hoofs; **reṇuḥ** — dust; **dyām** — the mid-region; **nakṣata** — touches; (in water, immersed from fear of enemies) **śvaitreyaḥ** — the son of [the woman] Śvitrī (by your favour); **nṛsahyāya** — in order to be lifted by men, with respect; **ut tasthau** — rose up from the water."
+**Pratipadārtha** *(pp. 61–62)* — "**indra** — O Indra; **yasmin** — in which ṛṣi named Kutsa (from the ṛṣi); **cākan** — (to hear the hymns) you who were pleased; **kutsam** — Kutsa; **āvaḥ** — you protected; **yudhyantam** — fighting with enemies; **vṛṣabham** — endowed with the best qualities;
 
-**Bhāvārtha** *(p. 62)* — "O Indra, you protect all who depend on you. You protected Kutsa, skilled in praise, being pleased with his praise, with kindly regard. You protected Daśadyu, endowed with the best qualities, who was engaged in battle with enemies. The dust raised by the hooves of your horses spreads even through the mid-region. The son of Śvitrī, who had plunged into the water out of fear of enemies, by your help rose up without fear. He was honoured by men."
+### Page 62
+
+**daśadyum** — the ṛṣi named Daśadyu; **prāvaḥ** — you protected well; **śaphacyutaḥ** — (your horse's) risen up from the hoofs; **reṇuḥ** — dust; **dyum** [as printed] — the mid-region; **nakṣata** — touches; (sunk in the water from fear of enemies) **śvaitreyaḥ** — the son of the woman called Śvitrī (by your favour); **nṛsahyāya** — in order to be lifted by men with respect; **ut tasthau** — rose up from the water."
+
+**Bhāvārtha** *(pp. 62–63)* — "O Indra, you protect all who depend on you. Pleased by his hymns, you protected with regard Kutsa, skilled in making hymns. You protected Daśadyu too, endowed with the best qualities, who was engaged in battle with enemies. The dust raised by the hoofs of your horse pervades even the mid-region. The son of Śvitrī, who had sunk in the water from fear of enemies, rose up fearless with your help. He was honoured by men."
 
 **English Translation (the source's own, p. 62)** — "O Indra, you have protected Kutsa grateful for his praises; you have defended the excellent Dasadyu engaged in battle ; the dust of your horses' hoofs ascended to heaven ; the Son of Swithra through your favour rose up (from the waters) to be again borne by men."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 62–64**
 
-**kutsam** — "Kutsa is a well-known ṛṣi and the progenitor of the gotra named Kutsa. In many places in the Ṛgveda it is said that this ṛṣi was a chief friend of Indra. This ṛṣi is the seer of the sūktas 94–98 [?] of the first maṇḍala of the Ṛgveda and of the ṛks 45–58 [?] of the ninth maṇḍala's 97th [?] sūkta, in all 23 [?] ṛks. In the Ṛgveda there is, in:"
+**kutsam** — "The one called Kutsa is a well-known ṛṣi and the founder of the gotra called Kutsa. It is said in many places of the Ṛgveda that this ṛṣi was Indra's chief friend. This ṛṣi is the seer of sūktas 94–98 and 101–115 of the first maṇḍala of the Ṛgveda, and of ṛks 45–58 in the 97th sūkta of the ninth maṇḍala — in all 226 ṛks *(all as printed, zoom-checked)*. In the Ṛgveda there is, in —"
 
-> कुत्सा एते हर्यश्वाय शूषमिन्द्रे सहो देवजूतमियानाः ॥ (ऋ. सं. ७-१९-८ [?])
+> कुत्सा एते हर्यश्वाय शूषमिन्द्रे सहो देवजूतमियानाः ॥ (ऋ. सं. ७-२५-५)
 
-*kutsā ete haryaśvāya śūṣam indre saho devajūtam iyānāḥ || (ṛ. saṃ. 7-19-8 [?])*
+*kutsā ete haryaśvāya śūṣam indre saho devajūtam iyānāḥ || (ṛ. saṃ. 7-25-5)*
 
-"an account of the descendants of the ṛṣi Kutsa. We have not learned much more about this ṛṣi from the Ṛgveda. But in the Ṛgveda, in:"
+"— an account of the descendants of the ṛṣi Kutsa. Not much more about this ṛṣi has come down to us in the Ṛgveda. But in the Ṛgveda, in —"
 
-> आहं कुत्समार्जुनेयं न्यृञ्जेऽहं कविरुशना पश्य मा ॥ (ऋ. सं. ४-२६-१ [?])
+> अहं कुत्समार्जुनेयं न्यृञ्जेऽहं कविरुशना पश्य मा ॥ (ऋ. सं. ४-२६-१)
+
+### Page 63
+
 > त्वं ह त्यदिन्द्र कुत्समावः शुश्रूषमाणस्तन्वा समर्ये ।
-> दासं यच्छुष्णं कुयवं न्यस्मा अरन्धय आर्जुनेयाय शिक्षन् ॥ (ऋ. सं. ७-१९-२ [?])
-> वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ॥ (ऋ. सं. ८-१-११ [?])
+> दासं यच्छुष्णं कुयवं न्यस्मा अरन्धय आर्जुनेयाय शिक्षन् ॥ (ऋ. सं. ७-१९-२)
+> वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ॥ (ऋ. सं. ८-१-११)
 
-*āhaṃ kutsam ārjuneyaṃ nyṛñje 'haṃ kavir uśanā paśya mā || (ṛ. saṃ. 4-26-1 [?])*
+*ahaṃ kutsam ārjuneyaṃ nyṛñje 'haṃ kavir uśanā paśya mā || (ṛ. saṃ. 4-26-1)*
 *tvaṃ ha tyad indra kutsam āvaḥ śuśrūṣamāṇas tanvā samarye |*
-*dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhaya ārjuneyāya śikṣan || (ṛ. saṃ. 7-19-2 [?])*
-*vahat kutsam ārjuneyaṃ śatakratus tsarad gandharvam astṛtam || (ṛ. saṃ. 8-1-11 [?])*
+*dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhaya ārjuneyāya śikṣan || (ṛ. saṃ. 7-19-2)*
+*vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam || (ṛ. saṃ. 8-1-11)*
 
-"in these ṛks Kutsa is called *Ārjuneya*, 'son of Arjuna'. But the Anukramaṇikā, naming the ṛṣi of the sūktas mentioned above, says '*Kutsa Āṅgirasa*', i.e. Kutsa the son of the ṛṣi Aṅgiras. Probably *Kutsa Āṅgirasa* means that Arjuna was a descendant of the ṛṣi Aṅgiras. And:"
+"— in these ṛks Kutsa is called *Ārjuneya*, i.e. 'the son of Arjuna'. But in the Anukramaṇikā, when naming the ṛṣi of the sūktas mentioned above, it is said '*Kutsa Āṅgirasaḥ*', i.e. Kutsa the son of the ṛṣi Aṅgiras. Probably *Kutsa Āṅgirasa* means that Arjuna was a descendant of the ṛṣi Aṅgiras. And —"
 
-> अहं पितेव वेतसूँरभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ॥ (ऋ. सं. १०-४९-४ [?])
+> अहं पितेव वेतसूँरभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ॥ (ऋ. सं. १०-४९ ४)
 
-*ahaṃ piteva vetasūm̐r abhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam || (ṛ. saṃ. 10-49-4 [?])*
+*ahaṃ piteva vetasūm̐r abhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam || (ṛ. saṃ. 10-49 4)*
 
-"in this ṛk it is said that Kutsa had Vetasu, Tugra and Smadibha defeated in battle." And, the source continues, in the following ṛks:
+"— in this ṛk it is said that Kutsa defeated the Vetasus, Tugra and Smadibha in battle."
 
-> (१) त्वमाविथ सुश्रवसं तवोतिभिस्तव त्रामभिरिन्द्र तूर्वयाणम् ।
-> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः [?] ॥ (ऋ. सं. १-५३-१० [?])
-> (२) कुत्सस्यायोरतिथिग्वस्य वीरान् न्यावृणग्भरता सोममस्मै ॥ (ऋ. सं. २-१४-७ [?])
-> (३) य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे ॥ (ऋ. सं. ८-५३-२ [?])
+> (१) त्वमाविथ सुश्रवसं तवोतिभिस्तव त्रा[?]मभिरिन्द्र तूर्वयाणम् ।
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनाय ॥ (ऋ. सं. १-५३-१०)
+> (२) कुत्सस्यायोरतिथिग्वस्य वीरान् न्यावृणग्भरता सोममस्मै । (ऋ. सं. २-१४-७)
+> (३) य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे । (ऋ. सं. ८-५३-२)
 
-*(1) tvam āvitha suśravasaṃ tavotibhis tava trāmabhir indra tūrvayāṇam | tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ [?] || (ṛ. saṃ. 1-53-10 [?])*
-*(2) kutsasyāyor atithigvasya vīrān ny āvṛṇag bharatā somam asmai || (ṛ. saṃ. 2-14-7 [?])*
-*(3) ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive || (ṛ. saṃ. 8-53-2 [?])*
+*(1) tvam āvitha suśravasaṃ tavotibhis tava trā[?]mabhir indra tūrvayāṇam | tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāya || (ṛ. saṃ. 1-53-10)*
+*(2) kutsasyāyor atithigvasya vīrān ny āvṛṇag bharatā somam asmai | (ṛ. saṃ. 2-14-7)*
+*(3) ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive | (ṛ. saṃ. 8-53-2)*
 
-"Indra is said in these ṛks to have defeated the kings Kutsa, Atithigva and Āyu, and to have subdued and protected the kings Suśravas and Tūrvayāṇa. Therefore the Kutsa spoken of here may be the name of a king; this king and the ṛṣi Kutsa mentioned above have no connection with each other and must be said to be two different persons. And:"
+*(In no. 1 the print reads ತಾಮ್ರಭಿ / ತ್ರಾಮಭಿ — the conjunct is unclear; no. 1 ends अरन्धनाय in the print.)* "— in these ṛks it is said that Indra defeated the kings named Kutsa, Atithigva and Āyu, and subdued and protected the kings named Suśravas and Tūrvayāṇa. Therefore the one called Kutsa mentioned here may be the name of a king; one has to say that this king and the ṛṣi Kutsa mentioned above have no connection whatever and are two different persons. And —"
 
-> त्वं कुत्सं शुष्णहत्येष्वाविथारन्धयोऽतिथिग्वाय शम्बरम् ॥ (ऋ. सं. १-५१-६ [?])
-> त्वं कविं चोदयोऽर्कसातौ त्वं कुत्साय शुष्णं दाशुषे वर्क् ॥ (ऋ. सं. ६-२६-३ [?])
+> त्वं कुत्सं शुष्णहत्येष्वाविथारन्धयोऽतिथिग्वाय शम्बरम् । (ऋ. सं. १-५१-६)
+> त्व कविं चोदयोऽर्कसातौ त्वं कुत्साय शुष्णं दाशुषे वर्क् । (ऋ. सं. ६-२६-३)
 
-*tvaṃ kutsaṃ śuṣṇahatyeṣv āvithārandhayo 'tithigvāya śambaram || (ṛ. saṃ. 1-51-6 [?])*
-*tvaṃ kaviṃ codayo 'rkasātau tvaṃ kutsāya śuṣṇaṃ dāśuṣe vark || (ṛ. saṃ. 6-26-3 [?])*
+*tvaṃ kutsaṃ śuṣṇahatyeṣv āvithārandhayo 'tithigvāya śambaram | (ṛ. saṃ. 1-51-6)*
+*tva kaviṃ codayo 'rkasātau tvaṃ kutsāya śuṣṇaṃ dāśuṣe vark | (ṛ. saṃ. 6-26-3)*
 
-"in these ṛks Indra is praised for having protected Kutsa by fighting the asura Śuṣṇa as well." *(The source leaves all the ṛks above untranslated. My glosses, **mine and tentative**: 10.49.4 "I, like a father, for his desire, subdued for Kutsa the Vetasus, Tugra and Smadibha"; 1.51.6 "you, O Indra, protected Kutsa in the killings of Śuṣṇa, and subdued Śambara for Atithigva"; 6.26.3 "you urged on the poet in the winning of the [shining] prize, you drove Śuṣṇa [away] for Kutsa who gave [offerings]". The others I leave unglossed. All numerals are read from small Kannada digits and are uncertain.)*
+"— in these ṛks Indra is praised for having fought the asura called Śuṣṇa and protected Kutsa." *(All references zoom-checked on the better scan; they replace the earlier 7-19-8, 1-53-10 etc. marked [?]. "त्व कविं" and "१०-४९ ४" (no dash) are as printed. The source leaves these ṛks untranslated. My glosses, **mine and tentative**: 10.49.4 "I, like a father, for his desire, subdued for Kutsa the Vetasus, Tugra and Smadibha"; 1.51.6 "you protected Kutsa in the slayings of Śuṣṇa, you subdued Śambara for Atithigva"; 6.26.3 "you urged on the poet in the winning of the hymn's prize, you tore away Śuṣṇa for Kutsa the worshipper".)*
 
-**cākan** = *caka tṛptau | stutiṃ kāmayamānaḥ*: "eager to hear hymns."
+**cākan** — *caka tṛptau | stutiṃ kāmayamānaḥ |*: "one who longs to hear hymns."
 
-**daśadyum** = *daśasu dikṣu dīpyamānam etannāmakam ṛṣim*: "the bhāṣyakāra explains this word as 'the ṛṣi named Daśadyu, shining in the ten directions with brilliance'. Apart from this ṛk the word occurs in the Ṛgveda only in:"
+### Page 64
 
-> त्वं रथं प्र भरो योधमृष्वमावो युध्यन्तं वृषभं दशद्युम् ॥ (ऋ. सं. ६-२६-४ [?])
+**daśadyum** — *daśasu dikṣu dīpyamānam etannāmakam ṛṣim |*: "The bhāṣyakāra explains this word as 'the ṛṣi named Daśadyu, who shines with brilliance in all ten directions'. This word occurs in the Ṛgveda, apart from this ṛk, only in —"
 
-*tvaṃ rathaṃ pra bharo yodham ṛṣvam āvo yudhyantaṃ vṛṣabhaṃ daśadyum || (ṛ. saṃ. 6-26-4 [?])*
+> त्वं रथ प्रं भरो योधमृष्वमावो युध्यन्तं वृषभं दशद्युम् ॥ (ऋ. सं. ६-२६-४.)
 
-"There too is the praise of Indra, 'you protected this ṛṣi'. Nothing special about this ṛṣi has been learned."
+*tvaṃ ratha praṃ bharo yodham ṛṣvam āvo yudhyantaṃ vṛṣabhaṃ daśadyum || (ṛ. saṃ. 6-26-4.)*
 
-**śvaitreyaḥ** — "This word, outside this ṛk, occurs in the Ṛgveda only in:"
+"— there too Indra is praised: 'you protected this ṛṣi'. No particular facts are known about this ṛṣi." *("रथ प्रं" is as printed here; the same line is printed "रथं प्र" below.)*
 
-> आ श्वैत्रेयस्य जन्तवो द्युमद्वर्धन्त कृष्टयः [?] ॥ (ऋ. सं. ५-१९-३ [?])
+**śvaitreyaḥ** — "This word, apart from this ṛk, occurs in the Ṛgveda only in —"
 
-*ā śvaitreyasya jantavo dyumad vardhanta kṛṣṭayaḥ [?] || (ṛ. saṃ. 5-19-3 [?])*
+> आ श्वैत्रेयस्य जन्तवो द्युमद्वर्धन्त कृष्टयः ॥ (ऋ. सं. ५-१९-३.)
 
-"*Śvaitreyaḥ* means *śvitrākhyāyā yoṣitaḥ putraḥ* — 'the son of the woman named Śvitrī', says the bhāṣyakāra. In the ṛk quoted above, **tvaṃ rathaṃ pra bharo yodham ṛṣvam āvo yudhyantaṃ vṛṣabhaṃ daśadyum** (6-26-4), a pāda is exactly the same as in this ṛk, *āvo yudhyantaṃ vṛṣabhaṃ daśadyum*, without any difference; so Western scholars such as **Ludwig** [name in the print's Latin letters] and others take this Śvaitreya and Daśadyu to be the same person: in one ṛk the name Śvaitreya is mentioned, in the other it is not, but both names refer to one person. These two ṛks have different ṛṣis — one Hiraṇyastūpa Āṅgirasa, the other Bharadvāja Bārhaspatya — of different gotras; yet the pāda *āvo yudhyantaṃ vṛṣabhaṃ daśadyum* is exactly the same. So there is a difference of opinion on whether the names Śvaitreya and Dyumat [as printed] in the present ṛk belong to one person or to two different persons. The word *śvitrya* or *śvaitreya* occurs also in the following ṛk. It is the belief that this Śvaitreya formerly sank in the water for fear of enemies, and that Indra drove off his fear and helped him to rise out of the water."
+*ā śvaitreyasya jantavo dyumad vardhanta kṛṣṭayaḥ || (ṛ. saṃ. 5-19-3.)*
 
-**nṛṣāhyāya** = *nṛbhiḥ puruṣaiḥ soḍhavyāya*: "to be lifted by men, i.e. the men who came to help him lifted him, who was sunk in the water, out of it — such is the sense."
+"*Śvaitreyaḥ* means *śvitrākhyāyā yoṣitaḥ putraḥ* — 'the son of the woman called Śvitrī', says the bhāṣyakāra. In the ṛk mentioned above —"
 
-### Rik 33.14 — Vyākaraṇa-prakriyā (pp. 65–66, PDF 79–80; grammar pages, noted briefly)
+> त्वं रथं प्र भरो योधमृष्वमावो युध्यन्तं वृषभं दशद्युम् ॥ (ऋ. सं. ६-२६-४.)
 
-Kannada prose with sūtras quoted; numerals read at 150 dpi, [?] where not firm.
+*tvaṃ rathaṃ pra bharo yodham ṛṣvam āvo yudhyantaṃ vṛṣabhaṃ daśadyum || (ṛ. saṃ. 6-26-4.)*
 
-- **cākan** (p. 65): root *caki tṛptau*, 1st class (the root is restated in the *ghaṭādi* list for the sake of marking it *mit*); the causative *ṇic*, *upadhā-vṛddhi*, *laṭ*, *śatṛ*; by *chandasy ubhayathā* — छन्दस्युभयथा — Pā. 6-4-117 [as printed] the *śatṛ* counts also as *ārdhadhātuka*, so the *ṇi* is lost by *ṇer aniṭi* — णेरनिटि — Pā. 6-4-51, and, since it is not *sārvadhātuka* here, there is no *śap* by *kartari śap*; *śatṛ* is acute by *ādyudāttaś ca*; after *cākat* comes *su*, with the augment *num* by *ugidacāṃ…*, loss of *su* by *halṅyābhyaḥ…*, loss of *t* by *saṃyogāntasya lopaḥ*, which by *pūrvatrāsiddham* is "unseen", so *nalopaḥ prātipadikāntasya* does not apply. Taken as a *kṛdanta* the sentence needs the verb *vartase* supplied — "in Kutsa you are *cākan*, delighted" — but the sense "desiring praise" is not yielded; hence the form is also derived as a *tiṅanta*: root *kamu kāntau* ("to wish"), *yaṅ*, loss of *yaṅ* by *yaṅo 'ci ca* [Pā. 2-4-74 [?]], doubling by *sanyaṅoḥ* — *kam-kam*; the augment *nuk* by *nugato 'nunāsikāntasya* — Pā. 7-4-85 [?], which the Veda does not apply here; lengthening of the reduplicate by *dīrgho 'kitaḥ* — Pā. 7-4-83; *k* → *c* by *kuhoś cuḥ* — Pā. 7-4-62; loss of the *s* of *sic*; *m* → *n* by *mo no dhātoḥ* — मो नो धातोः — Pā. 8-2-64: *cākan*.
-- **yudhyantam**: root *yudha saṃprahāre*, 4th class, *śyan*, whose *ś* and *y*… the *n* of *śap*… [the print: "its *n* and *ś* vanish as *it*-letters; the suffix *śatṛ* comes"]; the *parasmaipada* appears because the rule "*anudāttetaś ca lakṣaṇam ātmanepadam anityam*" does not hold here; root-accent.
-- **daśadyum**: the root *div*, which has many meanings, is taken here in the sense of light; *kvip* in the *sampadādi* sense; *cchvoḥ śūḍ anunāsike ca* — च्छ्वोः शूडनुनासिके च — Pā. 6-4-19 gives *ūṭh*: *dyuḥ*; Vedic shortening. *Dyuḥ* is listed among the words for "day" in the Nirukta (Ni. 1-9 [?]), hence it means light; the *bahuvrīhi* *daśasu dikṣu dyuḥ yasya* gives the first-member accent.
-- **śaphacyutaḥ**: *śaphena cyutaḥ*, an instrumental compound; first-member accent by *tṛtīyā karmaṇi* — तृतीया कर्मणि — Pā. 6-2-48. **nakṣata**: the root *nakṣa gatau* used in the *ātmanepada*. **śvaitreyaḥ**: *śvitrāyāḥ apatyam* — "son of Śvitrī" — by *strībhyo ḍhak* — Pā. 4-1-120; *ādi-vṛddhi* and *eya* substitution. **nṛsahyāya**: root *saha marṣaṇe*; *yat* in the object sense by *śakisahoś ca* — Pā. 3-1-99; initial acute by *yato 'nāvaḥ* — Pā. 6-1-213; because the word is a compound member the *kṛt*-suffix is the later member and the accent is the natural one (*prakṛtisvara*); *ṣatva* by *pūrvapadāt* — Pā. 8-3-106; lengthening in the Saṃhitā, Vedic. Rik 14 ends here (*|| 14 ||*).
+"— too, the pāda **āvo yudhyantaṃ vṛṣabhaṃ daśadyum**, as in this ṛk, is wholly without the slightest difference; so among Western scholars Ludwig [so printed, in Latin letters] and others hold that this Śvaitreya and the one called Daśadyu are one person: though one ṛk mentions the name Śvaitreya and the other does not, both names refer to one person. The two ṛks have different ṛṣis: one, Hiraṇyastūpa Āṅgirasa; the other, Bharadvāja Bārhaspatya — ṛṣis of different gotras. Yet the pāda *āvo yudhyantaṃ vṛṣabhaṃ daśadyum* alone is in the same form without any difference. So there is a difference of opinion on whether the names Śvaitreya and Dyumat [as printed] mentioned in the present ṛk refer to one person or to two different persons.
+
+"The word *śvitrya* or *śvaitreya* occurs also in the following ṛk. There is the belief that this Śvaitreya had formerly hidden in the water from fear of enemies, and that Indra drove away his fear of enemies and helped him rise up from the water."
+
+**nṛṣāhyāya** — *nṛbhiḥ puruṣaiḥ soḍhavyāya |*: "to be lifted by men — that is, the men who came to help lifted him, who had sunk in the water, up out of the water: such is the sense."
+
+### Page 65
+
+**Vyākaraṇa-prakriyā** *(pp. 65–66, grammar pages — noted briefly; numerals zoom-checked)*: **cākan** — *caka tṛptau*, 1st class; it is restated in the *ghaṭādi* list to make it *mit*; then *ṇic*, *upadhā-vṛddhi*, *laṭ*, *śatṛ*; *chandasy ubhayathā* — छन्दस्युभयथा (*chandasy ubhayathā*) — Pā. 6-4-117 [as printed] gives the *śatṛ* the *ārdhadhātuka* designation; *ṇer aniṭi* — णेरनिटि (*ṇer aniṭi*) — Pā. 6-4-51 drops *ṇi* before an *ārdhadhātuka* without *iṭ*; since it is *ārdhadhātuka* and not followed by a *sārvadhātuka*, *kartari śap* gives no *śap*; *ādyudāttaś ca* makes *śatṛ* acute by the suffix accent. After *cākat*, *su*; *ugidacām* gives *num*; *halṅyābbhyaḥ* drops *su*; *saṃyogāntasya lopaḥ* drops the *t*; this is *asiddha* by *pūrvatrāsiddham*, so *nalopaḥ prātipadikāntasya* does not drop the *n*. If the form is derived as a *kṛdanta*, the verb *vartase* must be supplied: in this view the sense is "*yasmin*, in the matter of which Kutsa, *cākan vartase*, you are satisfied"; the intended sense "desiring praise" is not obtained; therefore they give the derivation as a *tiṅanta*: *kamu kāntau* — *kānti* means desire; *yaṅ*, and *yaṅo 'ci ca* gives its *luk*; *sanyaṅoḥ* gives doubling: *kam-kam*; *nugato 'nunāsikāntasya* — नुगतोऽनुनासिकान्तस्य (*nugato 'nunāsikāntasya*) — Pā. 7-4-85: the reduplicate of a nasal-final *aṅga*, ending in short *a*, takes the augment *nuk*; that *num*-augment, by Vedic usage, does not come here; *dīrgho 'kitaḥ* — दीर्घोऽकितः (*dīrgho 'kitaḥ*) — Pā. 7-4-83: in *yaṅ* and *yaṅ-luk* a non-*kit* reduplicate is lengthened; *kuhoś cuḥ* — कुहोश्चुः (*kuhoś cuḥ*) — Pā. 7-4-62: the guttural and *h* of the reduplicate become palatal, so *c* for *k*; the *s* of *sic* [as printed] dropped; *mo no dhātoḥ* — मो नो धातोः (*mo no dhātoḥ*) — Pā. 8-2-64 —
+
+### Page 66
+
+(*cākan*, continued) gives *n* for the root's *m*, so the form is *cākan*. — **yudhyantam** — *yudha saṃprahāre*, read in the fourth class; the *vikaraṇa* *śyan* comes, of which the *n* and *ś* are *it* and vanish; the suffix *śatṛ* comes; because of *anudātteta lakṣaṇam ātmanepadam anityam* ("the *ātmanepada* marked by an *anudātta* marker is not obligatory") the *ātmanepada* does not come and the *parasmaipada* comes; the root's natural accent comes. — **daśadyum** — the root *div*, of many senses, is taken here in the sense of light; after *div* in the sense of light the suffix *kvip* in the *sampadādi* sense; *cchvoḥ śūṭ* — च्छ्वोः शूठ् (*cchvoḥ śūṭh*) — Pā. 6-4-19 gives the augment *ūṭh*, and the form is *dyuḥ*; in the Veda shortening, giving *dyuḥ*; the word *dyu*, denoting day, is read in the Nirukta (printed "Pā. Sū. 1-9-2" [sic: for the Nirukta]); so *dyu* conveys light; since the *bahuvrīhi* *daśasu dikṣu dyuḥ yasya* is stated, the first-member accent is established. — **śaphacyutaḥ** — since a third-case compound *śaphena cyutaḥ* is made, *tṛtīyā karmaṇi* — तृतीया कर्मणि (*tṛtīyā karmaṇi*) — Pā. 6-2-48 gives the first-member accent. — **nakṣata** — the root *nakṣa gatau* is used here in the *ātmanepada*. — **śvaitreyaḥ** — *śvitrāyāḥ apatyam*: in the offspring-sense *strībhyo ḍhak* — स्त्रीभ्यो ढक् (*strībhyo ḍhak*) — Pā. 4-1-120 gives *ḍhak*; hence *ādi-vṛddhi* and the substitution *eya*. — **nṛsahyāya** — *ṣaha marṣaṇe*; *śakisahoś ca* — शकिसहोश्च (*śakisahoś ca*) — Pā. 3-1-99 gives *yat* in the object sense; *yato 'nāvaḥ* — यतोऽनावः (*yato 'nāvaḥ*) — Pā. 6-1-213 makes the word initial-acute; here, as it is in a compound and the *kṛt* suffix is in the last member, the natural accent comes; *pūrvapadāt* — पूर्वपदात् (*pūrvapadāt*) — Pā. 8-3-106 gives *ṣ*; the lengthening in the Saṃhitā is for the sake of the Veda (Vedic). Rik 14 ends here (*|| 14 ||*).
 
 ### Rik 33.15 (p. 66 onward, PDF 80–)
 
