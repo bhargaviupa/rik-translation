@@ -6187,38 +6187,75 @@ In this ṛk Śunaḥśepa may have prayed to Savitṛ to give him the life that
 
 ---
 
-### Pages 258–260 — Sūkta 24, Rik 5
+### Page 258 (lower) — Sūkta 24, Rik 5
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> भगभक्तस्य ते वयमुदशेम तवावसा ।
-> मूर्धानं राय आरभे ॥ ५ ॥
+> भ॑गभक्तस्य ते व॒यमुद॑शेम॒ तवाव॑सा ।
+> मू॒र्धानं॑ रा॒य आ॒रभे॑ ॥५॥
+>
+> *bhagabhaktasya te vayám úd aśema távā́vasā |*
+> *mūrdhā́naṃ rāyá ārábhe ||5||*
 
-*bhagabhaktasya te vayam ud aśema tavāvasā | mūrdhānaṃ rāya ārabhe || 5 ||*
+*(Strokes over भ (first), द (उद) and व (अव), and in line 2 (p. 259) over नं and भे; bars under व (वयं), म (शेम), मू, रा and आ.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 259 — Rik 5: Pada, bhāṣya, word-meanings, overall sense, English
 
-> भगऽभक्तस्य । ते । वयम् । उत् । अशेम । तव । अवसा ॥ मूर्धानम् । रायः । आऽरभे ॥ ५ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*bhaga-bhaktasya | te | vayam | ut | aśema | tava | avasā || mūrdhānam | rāyaḥ | ā-rabhe || 5 ||*
+> भगऽभक्तस्य । ते । वयं । उत् । अशेम । तव । अवसा ।
+> मूर्धानं । रायः । आऽरभे ॥५॥
+>
+> *bhaga 'bhaktasya | te | vayaṃ | ut | aśema | tava | avasā |*
+> *mūrdhānaṃ | rāyaḥ | ā 'rabhe ||5||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 259)*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे सवितः ते त्वदीया वयं शुनःशेपनामानो भगभक्तस्य धनेन संयुक्तस्य तवावसा रक्षणेनोदशेमः । उत्कर्षेण व्याप्नुमः । किं कर्तुम् । रायो धनस्य मूर्धानमुत्कर्षमारभे । प्रारब्धुम् । धनिकत्वप्रसिद्ध्या व्याप्ता भूयास्मेत्यर्थः । भगशब्दो वृषादित्वादाद्युदात्तः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् । अशेमु । अशू व्याप्तौ । लिङि व्यत्ययेन परस्मैपदम् । शप् । रायः । ऊडिदमिति षष्ठ्याः उदात्तत्वम् । आरभे । कृत्यार्थे तवैकेनिति तुमर्थे केन्प्रत्ययः । नित्स्वरेणाद्युदात्तत्वम् ॥
+*As printed: रक्षणेनोदशेम (not -शेमः); the bhāṣya ends with the varga number ॥१३॥ (Varga 13 ends here).*
 
-*he savitaḥ te tvadīyā vayaṃ śunaḥśepanāmāno bhagabhaktasya dhanena saṃyuktasya tavāvasā rakṣaṇenodaśemaḥ | utkarṣeṇa vyāpnumaḥ | kiṃ kartum | rāyo dhanasya mūrdhānam utkarṣam ārabhe | prārabdhum | dhanikatvaprasiddhyā vyāptā bhūyāsmety arthaḥ | bhagaśabdo vṛṣādivād ādyudāttaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam | aśemu [aśema] | aśū vyāptau | liṅi vyatyayena parasmaipadam | śap | rāyaḥ | ūḍidam iti ṣaṣṭhyāḥ udāttatvam | ārabhe | kṛtyārthe tavaikeneti tumarthe kenpratyayaḥ | nitsvareṇādyudāttatvam ||*
+> हे सवितः ते त्वदीया वयं शुनःशेपनामानो भगभक्तस्य धनेन संयुक्तस्य तवावसा रक्षणेनोदशेम । उत्कर्षेण व्याप्नुमः । किं कर्तुं । रायो धनस्य मूर्धानमुत्कर्षमारभे । प्रारब्धुं । धनिकत्वप्रसिद्ध्या व्याप्ता भूयास्मेत्यर्थः ।
+> भगशब्दो वृषादित्वादाद्युदात्तः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । अशेम । अशू व्याप्तौ । लिङि व्यत्ययेन परस्मैपदं । शप् । रायः । ऊडिदमिति षष्ठ्या उदात्तत्वं । आरभे । कृत्यार्थे तवैकेनिति तुमर्थे केन्प्रत्ययः । नित्स्वरेणाद्युदात्तत्वं ॥१३॥
+>
+> *he savitaḥ te tvadīyā vayaṃ śunaḥśepanāmāno bhagabhaktasya dhanena saṃyuktasya tavāvasā rakṣaṇenodaśema | utkarṣeṇa vyāpnumaḥ | kiṃ kartuṃ | rāyo dhanasya mūrdhānamutkarṣamārabhe | prārabdhuṃ | dhanikatvaprasiddhyā vyāptā bhūyāsmetyarthaḥ |*
+> *bhagaśabdo vṛṣāditvādādyudāttaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | aśema | aśū vyāptau | liṅi vyatyayena parasmaipadaṃ | śap | rāyaḥ | ūḍidamiti ṣaṣṭhyā udāttatvaṃ | ārabhe | kṛtyārthe tavaikeniti tumarthe kenpratyayaḥ | nitsvareṇādyudāttatvaṃ ||13||*
 
-**Translation:** "O Savitṛ! We, yours, named Śunaḥśepa, *ud aśema* — may we pervade, by excellence — through your protection (*avasā*), you who are *bhagabhakta* — joined with wealth. For what? *Rāyaḥ mūrdhānam ārabhe* — to take up, to begin, the head [the best] of wealth; the sense is: may we become pervaded with fame for riches. *Bhaga* has the initial acute, being in the *vṛṣādi* group. *Bhagabhakta*: the third-case tatpuruṣa takes the first member's accent by P. 6-2-48 [*tṛtīyā karmaṇi*]. *Aśema*: *aśū vyāptau*; the *parasmaipada* in the benedictive by *vyatyaya*; *śap*. *Rāyaḥ*: the genitive ending is acute by *ūḍidam…*. *Ārabhe*: the suffix *ken* in the sense of the infinitive (P. 3-4-14); the first syllable acute by the *n*-it." *(Grammar pages 260, noted briefly: the words treated are* bhagabhaktasya *[*bhaja* + *kta* by P. 3-4-… *ktaḥ* in the sense of the object; *bhagena bhaktaḥ* a third-case tatpuruṣa; *bhaga* acute on the first syllable through the *vṛṣādi* group; the compound keeps the first member's accent by P. 6-2-48 *tṛtīyā karmaṇi*, overriding the *kṛt*-final accent] and* ārabhe *[P. 3-4-14 *kṛtyārthe tavaikenkenyatvanaḥ* with P. 3-4-… ; *ā + rabh + ken* → *ārabhe*; accent from *nit*]; numerals as read, pointers only.)*
+*Gist:* "O Savitṛ, may we, yours, named Śunaḥśepa, through the protection of you who are endowed with wealth, rise to and take hold of the height of wealth": may we be filled with the fame of being rich. The grammatical tail notes the accents of *bhaga* (*vṛṣādi*, initial acute) and of the compound (*tṛtīyā karmaṇi*), *aśema* (parasmaipada by interchange; *śap*), *rāyaḥ* (acute genitive by *ūḍidam*) and *ārabhe* (*ken* in the sense of the infinitive; initial acute).
 
-**॥ Prati-padārthaḥ ॥** *(p. 259)* **(हे सवितः) ((he savitaḥ))** — O Savitṛ | **ते (te)** — your | **वयम् (vayam)** — we [Śunaḥśepa] | **भगभक्तस्य (bhagabhaktasya)** — endowed with wealth | **तव (tava)** — your | **अवसा (avasā)** — with protection | **रायः (rāyaḥ)** — of wealth | **मूर्धानम् (mūrdhānam)** — the best state | **आरभे (ārabhe)** — to begin to enjoy | **उदशेम (udaśema)** — may we pervade.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O Savitṛ! By your protection, rich in wealth as you are, may we begin to attain the best state of wealth — the fame of great riches.
+(**हे सवितः (he savitaḥ)** — O Savitṛ) | **ते (te)** — who are yours | **वयं (vayaṃ)** — we (Śunaḥśepas) | **भगभक्तस्य (bhagabhaktasya)** — who is endowed with wealth | **तव (tava)** — your | **अवसा (avasā)** — by the protection | **रायः (rāyaḥ)** — of wealth | **मूर्धानं (mūrdhānaṃ)** — the highest state | **आरभे (ārabhe)** — to begin (to enjoy) | **उदशेम (udaśema)** — may we pervade (may we proceed).
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥**
+
+O Savitṛ, may we who are yours, through the protection of you who are endowed with wealth, begin to enjoy the height of wealth (the fame of being very rich).
+
+**॥ English Translation ॥** *(as printed)*
 
 > (O Savitri,) may we under the protection of you who are rich in wealth obtain the best of prosperity that we may enjoy it.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 260)* **भगभक्तस्य** — *dhanena saṃyuktasya*: endowed with wealth; Skandasvāmin explains this word thus: *bhago devaḥ tenāpi sevitasya, bhajanīyena vā haviṣā stotreṇa vā sarvair manuṣyaiḥ sevitasya* — 'served by the deity Bhaga; or served by all men with an oblation or praise worthy of being served'; that is, one served by the deity named Bhaga, or served by all men with a worshipful oblation. **उत् अशेम** — *utkarṣeṇa vyāpnumaḥ*: may we pervade especially — may we obtain. **तव अवसा** — by your protection; may we obtain your protection; the sense is, may we ask for your protection. **मूर्धानं रायः** — the excellence of wealth, i.e. much wealth (*Plenty of riches*). **आरभे, आरब्धुम्** — to begin, to enjoy.
+### Page 260 — Rik 5: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**भगभक्तस्य — धनेन संयुक्तस्य (bhagabhaktasya — dhanena saṃyuktasya)** — possessed of wealth. Skandasvāmin explains this word as
+
+> भगो देवः तेनापि सेवितस्य, भजनीयेन वा हविषा स्तोत्रेण वा सर्वमनुष्यैः सेवितस्य ॥
+>
+> *bhago devaḥ tenāpi sevitasya, bhajanīyena vā haviṣā stotreṇa vā sarvamanuṣyaiḥ sevitasya ||*
+
+that is, "served by the deity named Bhaga; or served by all men with objects of worship such as worshipful oblations".
+
+**उत् अशेम — उत्कर्षेण व्याप्नुमः (ut aśema — utkarṣeṇa vyāpnumaḥ)** — we pervade in a special way, that is, we obtain. **तव अवसा (tava avasā)** — by your protection we pervade, that is, we obtain your protection; the intent is: we desire your protection.
+
+**मूर्धानं रायः (mūrdhānaṃ rāyaḥ)** — the excellence of wealth, that is, abundant wealth: "Plenty of riches."
+
+**आरभे, आरब्धुं (ārabhe, ārabdhuṃ)** — to begin, to enjoy.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**भगभक्तस्य (bhagabhaktasya)** — by *ghañarthe kavidhānam*, the suffix *ka* comes after the root *bhaj*, with *kutva*. *Bhagena bhaktaḥ*: an instrumental tatpuruṣa. The word *bhaga* is initial-acute, being in the *vṛṣādi* group. By *śeṣanighāta*, the final syllable, which is unaccented, becomes svarita. Even after compounding, by *tṛtīyā karmaṇi* (Pā. Sū. 6-2-48), when a word ending in *kta* in the passive sense follows, a word in the instrumental keeps its own accent. So, as an exception to the *thāthādi* accent, the first member keeps its own accent.
+
+**आरभे (ārabhe)** — by *kṛtyārthe tavaikenkenyatvanaḥ* (Pā. Sū. 3-4-14) and *tayor eva kṛtyaktakhalarthāḥ*, since the *kṛtya* suffixes are enjoined in the senses of *bhāva* and *karman*, *bhāva* and *karman* are the *kṛtyārtha*s; in those senses the suffixes *tavai*, *ken*, *kenya* and *tvan* come. Here the suffix *ken* comes after the root *rabh*, preceded by *āṅ*. Only its *e* remains: *ā* + *rabh* + *e* = *ārabhe*. By the *nit* accent it is initial-acute. ॥5॥
 
 ---
 
