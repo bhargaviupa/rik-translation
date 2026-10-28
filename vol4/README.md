@@ -10,7 +10,7 @@ numeral/[?]/accent pass, laid out like `vol2/` and `vol3/`. **The pass has not s
 | `vol4_runbook.md` | How each 100-PDF-page batch is done (adapted from `vol3/vol3_runbook.md`). |
 | `vol4_pass_log.md` | One log entry per finished batch. |
 | `review/` | Per batch: `review_PDFA-B.html/.json`, `edits_PDFA-B.txt`, `notes_PDFA-B.txt`. Empty so far. |
-| `scans/` | Empty. Vol 4 has only the single scan `../Rig_Vol4.pdf` (622 PDF pp., printed = PDF − 14). A better scan can be added here later. |
+| `scans/` | The better scan in 7 parts (701 PDF pages; see `vol4_state.md` for the page map). The old single scan stays at `../Rig_Vol4.pdf`. |
 | `tools/` | Pass tools copied from `vol3/tools/` and pointed at Vol 4 (`cfg.py` = paths, `pages.py` = page map; run from this folder). |
 
 **Files that stay at the repository root** (the build pipeline reads them there; not moved): `Rigveda_Samhita_Vol4_English_Translation.md`

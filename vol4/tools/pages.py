@@ -4,15 +4,19 @@ sys.path.insert(0,os.path.dirname(__file__))
 from cfg import EN
 ROMAN=['i','ii','iii','iv','v','vi','vii','viii','ix','x','xi','xii','xiii','xiv','xv','xvi','xvii','xviii','xix','xx']
 FRONT={}; PRINTED_AS={}
-# Vol 4, Rig_Vol4.pdf (622 PDF pages): PDF 15 = printed p. 1, printed = PDF - 14 (checked on PDF 16 = 2, 20 = 6, 24 = 10);
-# PDF 622 = p. 608, the last page. PDF 1-14 = front matter (Kannada title page 1, English dedication 3, board 5, portrait 6,
-# preface 7-10). Not yet re-checked against page headers for missing or duplicate pages: do that in batch 1.
-DUP={}
-MISSING={}
+# Vol 4 BETTER SCAN (7 parts, 701 PDF pages), page map checked by pnum.py OCR of the header numbers (Oct 28, noisy; majority vote per 50 pages):
+# printed = PDF - 14 for about PDF 1-101, printed = PDF - 15 from about PDF 105 on: ONE EXTRA PAGE (duplicate or inserted) lies between
+# PDF 101 and 105 -- find it by eye (header montage) and record it in DUP below. Printed p. 608 (the last page of the old scan) should then be
+# PDF 623; PDF 624-701 (78 pages) are UNEXPLAINED (OCR finds no header numbers there): look at them first (contact sheet), they may be an index,
+# blank/duplicate pages or part of the next volume. Front matter: PDF 1-14 (old scan: Kannada title page 1, dedication 3, board 5, portrait 6,
+# preface 7-10 -- not translated by design). Printed page numbers are Latin digits.
+DUP={}      # fill in: {duplicate PDF page: the page it repeats}
+MISSING={}  # printed pages absent from the better scan (read them from ../Rig_Vol4.pdf, printed = PDF - 14 there)
 def printed(g):
     if g in FRONT: return FRONT[g]
     if g in DUP: return printed(DUP[g])
-    if 15<=g<=622: return str(g-14)
+    if 15<=g<=101: return str(g-14)   # PROVISIONAL
+    if 105<=g<=623: return str(g-15)  # PROVISIONAL
     return None
 def label(g):
     p=printed(g)
