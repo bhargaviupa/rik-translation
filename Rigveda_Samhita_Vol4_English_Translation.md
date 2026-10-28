@@ -186,10 +186,13 @@ The grammar of Rik 1 runs on from p. 5 through p. 7 in Kannada prose, with the s
 
 ### Rik 33.3 (pp. 11–14, PDF 25–28)
 
-**Saṃhitā-pāṭha** *(p. 11; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 11; Saṃhitā accents as printed; Pada unaccented. Svarita marks stand over *va* of "sarva" and over *ra* of "-rasakta" as read from the strokes; where a conjunct carries a repha the stroke was placed on the vowel-bearing consonant.)*
 
-> **नि सर्वसेन इषुधीँरसक्त समर्यो गा अजति यस्य वष्टि ।**
-> **चोष्कूयमाण इन्द्र भूरि वामं मा पणिर्भूरस्मदधि प्रवृद्ध ॥ ३ ॥**
+> नि सर्व॑सेन इषु॒धीँर॑सक्त॒ सम॒र्यो गा अ॑जति॒ यस्य॒ व॑ष्टि ।
+> चो॒ष्कू॒यमा॑ण इन्द्र॒ भूरि॑ वा॒मं मा प॒णिर्भू॑र॒स्मदधि॑ प्रवृद्ध ॥ ३ ॥
+>
+> *ni sárvasena iṣudhī́m̐r asakta sámaryó gā́ ajati yásya vaṣṭi |*
+> *coṣkūyámāṇa indra bhū́ri vāmáṃ mā paṇírbhūr asmádádhi pravṛddha || 3 ||*
 
 *ni sarvasena iṣudhīm̐r asakta sam aryo gā ajati yasya vaṣṭi |*
 *coṣkūyamāṇa indra bhūri vāmaṃ mā paṇir bhūr asmad adhi pravṛddha || 3 ||*
