@@ -248,13 +248,13 @@
 
 ### Rik 47.3 (pp. 9–, PDF 25–)
 
-**Saṃhitā-pāṭha** *(p. 9; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 9; accents as printed)*
 
-> **अश्विना मधुमत्तमं पातं सोममृतावृधा ।**
-> **अथाद्य दस्रा वसु बिभ्रता रथे दाश्वांसमुप गच्छतम् ॥ ३ ॥**
+> **अश्वि॑ना॒ मधु॑मत्तमं पा॒तं सोम॑मृतावृधा ।**
+> **अथा॒द्य द॑स्रा॒ वसु॒ बिभ्र॑ता॒ रथे॑ दा॒श्वांस॒मुप॑ गच्छतम् ॥ ३ ॥**
 
-*aśvinā madhumattamaṃ pātaṃ somam ṛtāvṛdhā |*
-*athādya dasrā vasu bibhratā rathe dāśvāṃsam upa gacchatam || 3 ||*
+*áśvinā mádhumattamaṃ pātáṃ sómam ṛtāvṛdhā |*
+*áthādyá dasrā vásu bíbhratā ráthe dāśvā́ṃsam úpa gacchatam || 3 ||*
 
 **Pada-pāṭha** *(p. 9)*
 
@@ -292,8 +292,8 @@
 - **dasrā** — "among the Aśvin gods one is named *dasra* and the other *nāsatya*; though so, here this word is used to indicate both."
 
 **Vyākaraṇa-prakriyā** *(pp. 10–11 — grammar pages, noted briefly)*
-- **bibhratā**: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *laṭ*; *laṭaḥ śatṛśānacau* (Pā. 3-2-124 as read [?]) gives *śatṛ* for *laṭ*; *śap*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75 as read [?]) gives *ślu* for *śap*; *ślau* (Pā. 6-1-10 as read [?]) gives doubling when *ślu* follows: *bhṛ + bhṛ + at*; *bhṛñām it* (Pā. 7-4-76 as read [?]) — भृञामित् — *i* for the reduplicative syllable of the three roots *bhṛñ*, *māṅ* and *ohāṅ*, when *ślu* follows [the Kannada author says "of the three roots beginning with *bhṛñ*"]; the *i* standing for *ṛ*, *uraṇ raparaḥ* (Pā. 1-1-51) gives it a *repha*: *bhir*; *halādiḥ śeṣaḥ* drops the *r*: *bhi + bhṛ + at*. The suffix *śatṛ* is not *pit* but is *sārvadhātuka*; by *sārvadhātukam apit* (Pā. 1-2-4 as read) a *sārvadhātuka* that is not *pit* is *ṅit*, so *śatṛ* acts as *ṅit*; therefore, by *kṅiti ca* (Pā. 1-1-5 as read), the *guṇa* that would arise through *gi*, *ki* or *ṅit* suffixes as cause is forbidden, and *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84 as read) gives no *guṇa*; *iko yaṇaci* gives *yaṇ*: *ṛ* → *r*; in the nominative dual the *au* takes *ā* by *supāṃ suluk…* (Pā. 7-1-39 as read): *bibhratā*.
-- *abhyastānām ādiḥ* (Pā. 6-1-189 as read) — the *sārvadhātuka* suffix coming in place of *l*, beginning with a vowel and not being *iṭ*: the first of the repeated word is acute — here *at* is a vowel-initial *laḥ-sthānika sārvadhātuka*; *bibhṛ* is *abhyasta*, its first *bhi* is acute. **|| 3 ||**
+- **bibhratā**: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *laṭ*; *laṭaḥ śatṛśānacau* (Pā. 3-2-124) gives *śatṛ* for *laṭ*; *śap*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75) gives *ślu* for *śap*; *ślau* (Pā. 6-1-10) gives doubling when *ślu* follows: *bhṛ + bhṛ + at*; *bhṛñām it* (Pā. 7-4-76) — भृञामित् — *i* for the reduplicative syllable of the three roots *bhṛñ*, *māṅ* and *ohāṅ*, when *ślu* follows [the words *trayāṇāṃ ślau* are carried on from the sūtra *nijāṃ trayāṇāṃ guṇaḥ ślau* (Pā. 7-4-75); the Kannada author says "of the three roots beginning with *bhṛñ*"]; the *i* standing for *ṛ*, *uraṇ raparaḥ* (no number printed) gives it a *repha*: *bhir*; *halādiḥ śeṣaḥ* drops the *r*: *bhi + bhṛ + at*. The suffix *śatṛ* is not *pit* but is *sārvadhātuka*; by *sārvadhātukam apit* (Pā. 1-2-4) a *sārvadhātuka* that is not *pit* is *ṅit*, so *śatṛ* acts as *ṅit*; therefore, by *kṅiti ca* (Pā. 1-1-5), the *guṇa* that would arise through *gi*, *ki* or *ṅit* suffixes as cause is forbidden, and *sārvadhātukārdhadhātukayoḥ* (Pā. 7-3-84) gives no *guṇa*; *iko yaṇaci* gives *yaṇ*: *ṛ* → *r*; in the nominative dual the *au* takes *ā* by *supāṃ suluk…* (Pā. 7-1-39): *bibhratā*.
+- *abhyastānām ādiḥ* (Pā. 6-1-189) — the *sārvadhātuka* suffix coming in place of *l*, beginning with a vowel and not being *iṭ*: the first of the repeated word is acute — here *at* is a vowel-initial *laḥ-sthānika sārvadhātuka*; *bibhṛ* is *abhyasta*, its first *bhi* is acute. **|| 3 ||**
 
 ---
 
