@@ -4228,13 +4228,15 @@
 
 ### Rik 52.7 (pp. 237–239, PDF 253–255)
 
-**Saṃhitā-pāṭha** *(p. 237; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 237; accents as printed)*
 
-> **ह्रदं न हि त्वा न्यृषन्त्यूर्मयो ब्रह्माणीन्द्र तव यानि वर्धना ।**
-> **त्वष्टा चित्ते युज्यं वावृधे शवस्ततक्ष वज्रमभिभूत्योजसम् ॥ ७ ॥**
+> **ह्र॒दं न हि त्वा॑ न्यृ॒षन्त्यू॒र्मयो॒ ब्रह्मा॑णीन्द्र॒ तव॒ यानि॒ वर्ध॑या [sic; for वर्धना] ।**
+> **त्वष्टा॑ चित्ते॒ यु॑ज्यं वावृधे॒ शव॑स्त॒तक्ष॒ वज्र॑मभि॒भूत्यो॑जसं ॥ ७ ॥**
 
-*hradaṃ na hi tvā nyṛṣanty ūrmayo brahmāṇīndra tava yāni vardhanā |*
-*tvaṣṭā cit te yujyaṃ vāvṛdhe śavas tatakṣa vajram abhibhūtyojasam || 7 ||*
+*hradáṃ ná hí tvā nyṛṣánty ūrmáyo bráhmāṇīndra táva yā́ni várdhayā [sic; for vardhanā] |*
+*tváṣṭā cit te yùjyaṃ vāvṛdhe śávas tatákṣa vájram abhibhū́tyojasaṃ || 7 ||*
+
+*(Pass: the Saṃhitā prints "ವರ್ಧಯಾ" (the Pada and bhāṣya have* vardhanā*); the svarita stroke of* yujyaṃ *stands over ಯು, directly after the anudātta of* te*.)*
 
 **Pada-pāṭha** *(p. 237)*
 
@@ -4246,11 +4248,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 237)*
 
-> **हे इन्द्र यानि ब्रह्माणि स्तोत्रशस्त्ररूपाणि मन्त्रजातानि तव वर्धना वर्धयित्रीणि तानि त्वा त्वां न्यृषन्ति हि । नितरां प्राप्नुवन्त्येव । तत्र दृष्टान्तः । ऊर्मयो जलप्रवाहा ह्रदं न । यथा जलाशयं प्राप्नुवन्ति तद्वत् । त्वष्टा चित् स त्वष्टा च देवस्ते तव युज्यं योग्यं शवो बलं वावृधे प्रावर्धयत् । अपि चाभिभूत्योजसं शत्रूणामभिभवित्रीणामोजसा बलेन युक्तं वज्रं ततक्ष । तीक्ष्णीचकार ॥**
+> **हे इन्द्र यानि ब्रह्माणि स्तोत्रशस्त्ररूपाणि मन्त्रजातानि तव वर्धना वर्धयित्रीणि तानि त्वा त्वां न्यृषन्ति हि । नितरां प्राप्नुवन्त्येव । तत्र दृष्टान्तः । ऊर्मयो जलप्रवाहा ह्रदं न । यथा जलाशयं प्राप्नुवन्ति तद्वत् । त्वष्टा चित् स त्वष्टा च देवस्ते तव युज्यं योग्यं शवो बलं ववृधे प्रावर्धयत् । अपि चाभिभूत्योजसं शत्रूणामभिभवित्रीणामोजसा बलेन युक्तं वज्रं ततक्ष । तीक्ष्णीचकार ॥**
 
-*he indra yāni brahmāṇi stotraśastrarūpāṇi mantrajātāni tava vardhanā vardhayitrīṇi tāni tvā tvāṃ nyṛṣanti hi | nitarāṃ prāpnuvanty eva | tatra dṛṣṭāntaḥ | ūrmayo jalapravāhā hradaṃ na | yathā jalāśayaṃ prāpnuvanti tadvat | tvaṣṭā cit sa tvaṣṭā ca devas te tava yujyaṃ yogyaṃ śavo balaṃ vāvṛdhe prāvardhayat | api cābhibhūtyojasaṃ śatrūṇām abhibhavitrīṇām ojasā balena yuktaṃ vajraṃ tatakṣa | tīkṣṇīcakāra ||*
+*he indra yāni brahmāṇi stotraśastrarūpāṇi mantrajātāni tava vardhanā vardhayitrīṇi tāni tvā tvāṃ nyṛṣanti hi | nitarāṃ prāpnuvanty eva | tatra dṛṣṭāntaḥ | ūrmayo jalapravāhā hradaṃ na | yathā jalāśayaṃ prāpnuvanti tadvat | tvaṣṭā cit sa tvaṣṭā ca devas te tava yujyaṃ yogyaṃ śavo balaṃ vavṛdhe prāvardhayat | api cābhibhūtyojasaṃ śatrūṇām abhibhavitrīṇām ojasā balena yuktaṃ vajraṃ tatakṣa | tīkṣṇīcakāra ||*
 
-*(The tail of the bhāṣya, pp. 237–238, is characterized:* nyṛṣanti *(*ṛṣī gatau*, tudādi; *jher antaḥ*;* śa*; the single substitute* ato guṇe*; the* nighāta *is forbidden by* hi ca, Pā. 8-1-34 as read [?]);* ūrmayaḥ *(*ṛ gatau*, Uṇādi* mi*, *ārter ūc ca*, Uṇ. 4-… as read [?];* ūrmi*);* vardhanā *(*vṛdhu vṛddhau*, *lyuṭ* in the instrument sense, *yu* → *ana*, the Vedic* śeś chandasi bahulam*);* tatakṣa *(*takṣū tvakṣū tanūkaraṇe*, *liṭ* third singular, *ṇal*, the acute before* ṇal *by* liti*);* abhibhūtyojasam *(*abhibhūyate 'neneti abhibhūti*, *ktin*… *kti* with *tāḍau ca*, the prefix keeps its own accent).)*
+*(The tail of the bhāṣya, pp. 237–238, is characterized:* nyṛṣanti *(*ṛṣī gatau*, tudādi; *jher antaḥ*;* śa*; the single substitute* ato guṇe*; the* nighāta *is forbidden by* hi ca*, no number in the tail);* ūrmayaḥ *(*ṛ gatau*, Uṇādi* mi*, *ārter ūc ca*, Uṇ. 4-44;* ūrmi*);* vardhanā *(*vṛdhu vṛddhau*, *lyuṭ* in the instrument sense, *yu* → *ana*, the Vedic* śeś chandasi bahulam*);* tatakṣa *(*takṣū tvakṣū tanūkaraṇe*, *liṭ* third singular, *ṇal*, the acute before* ṇal *by* liti*);* abhibhūtyojasam *(*abhibhūyate 'neneti abhibhūti*, *ktin*… *kti* with *tādau ca niti*, the prefix keeps its own accent).)*
 
 **Translation of the bhāṣya:** "O Indra, those *brahmāṇi*, the groups of mantras in the form of hymns and recitations, that are your *vardhanā*, 'increasers' — they attain you indeed, enter you completely: as *ūrmayaḥ*, waves, streams of water, enter a lake (*hradam na*). And the god Tvaṣṭṛ himself increased your suitable strength; and sharpened your thunderbolt, which is joined with *abhibhūtyojas*, the strength that overcomes the enemies."
 
@@ -4267,11 +4269,11 @@
 - **abhibhūtyojasam** — "*abhibhūti* + *ojasam*: *abhibhūti ojo yasya tat*; 'that which has the capacity to overpower or humble the enemies' — this qualifies the thunderbolt. *Abhibhūyate 'neneti abhibhūti*: that by which one is overcome."
 
 **Vyākaraṇa-prakriyā** *(p. 239 — grammar page, noted briefly)*
-- **nyṛṣanti**: *ni* + *ṛṣanti*; *ṛṣī gatau*, *tudādi*; the *jhi* replaced by *ant* by *jher antaḥ*; *tudādibhyaḥ śaḥ*; *ato guṇe* (Pā. 6-1-97) gives the *pararūpa*: *ṛṣanti*; being after a non-*tiṅ*, the *nighāta* would come by *tiṅ atiṅaḥ*, which is blocked by *hi ca* (Pā. 8-1-34 as read [?]); the characteristic's accent remains.
-- **ūrmayaḥ**: *ṛ gatau*; "*ṛcchanti gacchantīti ūrmayaḥ*"; *mi* by *ārter ūc ca* (Uṇ. 4-… as read [?]); *guṇa* before *mi*; the *a* of *ar* becomes *ū*: *ūrmi*; end-acute by the suffix-accent.
+- **nyṛṣanti**: *ni* + *ṛṣanti*; *ṛṣī gatau*, *tudādi*; the *jhi* replaced by *ant* by *jher antaḥ*; *tudādibhyaḥ śaḥ*; *ato guṇe* (no number printed) gives the *pararūpa*: *ṛṣanti*; being after a non-*tiṅ*, the *nighāta* would come by *tiṅ atiṅaḥ*, which is blocked by *hi ca* (Pā. sū. 8-1-34); the characteristic's accent remains.
+- **ūrmayaḥ**: *ṛ gatau*; "*ṛcchanti gacchantīti ūrmayaḥ*"; *mi* by *ārter ūc ca* (Uṇ. sū. 4-634; the tail has Uṇ. 4-44); *guṇa* before *mi*; the *a* of *ar* becomes *ū*: *ūrmi*; end-acute by the suffix-accent.
 - **vardhanā**: *vṛdhu vṛddhau*; "*vardhate ebhir iti vardhanā*"; *lyuṭ* in the instrumental sense; *yuvor anākau* gives *ana*; in the nominative plural, *num* and the lengthening; *śeś chandasi bahulam* drops the *śi*: *vardhanā*.
 - **tatakṣa**: *takṣū tvakṣū tanūkaraṇe*; *liṭ* third singular *tip*, *ṇal* by *parasmaipadānāṃ ṇalatusus…*; reduplication by the *liṅ*-nimitta; *halādiḥ śeṣaḥ*; *ṇal* is *lit*, so the vowel before the suffix is acute by *liti*; since it is the beginning of the *pāda*, *āpādādau* prohibits the *nighāta*… no *nighāta* comes.
-- **abhibhūtyojasam**: *abhibhūyate 'neneti abhibhūti*; *bhū* with *ktin* in the instrumental sense; *tāḍau ca* (Pā. 6-2-50 as read [?]) the prefix *abhi* keeps its natural accent; "*abhibhūti ojo yasya tat*", a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*. **|| 7 ||**
+- **abhibhūtyojasam**: *abhibhūyate 'neneti abhibhūti*; *bhū* with *ktin* in the instrumental sense; *tādau ca niti* (Pā. sū. 6-2-50) the prefix *abhi* keeps its natural accent; "*abhibhūti ojo yasya tat*", a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*. **|| 7 ||**
 
 ---
 
