@@ -6444,38 +6444,116 @@ The meaning of this ṛk is difficult; the sense does not fit properly. The chie
 
 ---
 
-### Pages 267–270 — Sūkta 24, Rik 8
+### Page 267 (lower) — Sūkta 24, Rik 8
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उरुं हि राजा वरुणश्चकार सूर्याय पन्थामन्वेतवा उ ।
-> अपदे पादा प्रतिधातवेऽकरुतापवक्ता हृदयाविधश्चित् ॥ ८ ॥
+> उ॒रुं हि राजा॒ वरु॑णश्च॒कार॒ सूर्या॑य॒ पन्थामन्वे॑त॒वा उ॑ । [accent ?]
+> अ॒पदे॒ पादा॒ प्रतिधातवेऽकरु॒ताप॑व॒क्ता हृ॑दया॒विधश्चित् ॥८॥ [accent ?]
 
-*uruṃ hi rājā varuṇaś cakāra sūryāya panthām anvetavā u | apade pādā pratidhātave 'kar utāpavaktā hṛdayāvidhaś cit || 8 ||*
+> *u̱ruṃ hi rājā̱ varṷṇaśca̱kāra̱ sūryā̭ya̱ panthāmanvḙta̱vā ṷ |*
+> *a̱pade̱ pādā̱ pratidhātave 'karu̱tāpa̭va̱ktā hṛ̭dayā̱vidhaścit ‖8‖*
+>
+> *urúṃ hi rājā váruṇaś cakā́ra sū́ryāya pánthām ánvetavā́ u |*
+> *apáde pā́dā prátidhātave 'kar utā́pavaktā́ hṛdayāvídhaś cit ||8||* [accent ?]
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the verse in four lines, breaking after* पन्था-*,* उ *and* हृदया-*. Marks left out and flagged [accent ?]: over* था *at the end of line 1 (in* पन्था-*) the print has a double mark — a vertical stroke crossed by a horizontal bar, with a bar below — that I could not resolve; in line 3 a svarita-like stroke stands at the junction of* प्र *and* ति *(in* प्रतिधातवे*), and in line 4 at the junction of* वि *and* ध *(in* विधश्चित्*) — both left unmarked. The mark after* प *in* ताप॑व॒क्ता *stands at the right edge of* प*, and the bar under* रु *in* करु॒ता *is read as printed.)*
 
-> उरुम् । हि । राजा । वरुणः । चकार । सूर्याय । पन्थाम् । अनुऽएतवै । ऊं इति ॥ अपदे । पादा । प्रतिऽधातवे । अकः । उत । अपऽवक्ता । हृदयऽविधः । चित् ॥ ८ ॥
+### Page 268 — Rik 8: Pada, bhāṣya
 
-*urum | hi | rājā | varuṇaḥ | cakāra | sūryāya | panthām | anu-etavai | ūṃ iti || apade | pādā | prati-dhātave | akaḥ | uta | apa-vaktā | hṛdaya-vidhaḥ | cit || 8 ||*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 268)*
+> उरुं । हि । राजा । वरुणः । चकार । सूर्याय । पंथां । अनुऽएतवै । ऊं इति ॥ अपदे । पादा । प्रतिऽधातवे । अकः । उत । अपऽवक्ता । हृदयऽविधः । चित् ॥८॥
 
-> वरुणो राजा सूर्याय सूर्यस्य पन्थां मार्गमुरुं विस्तीर्णं चकार । हिशब्दः प्रसिद्धौ । उत्तरायणदक्षिणायनमार्गस्य विस्तारः प्रसिद्धः । किमर्थमेनं कृतवानिति तदुच्यते । अन्वेतवा उ अनुक्रमेणोदयास्तमयौ गन्तुमेव । तथापदे पादरहितेऽन्तरिक्षे पादा पादौ प्रतिधातवे । पादौ प्रक्षेप्तुम् । अकः । अकरोत् । पूर्वात्र रथस्य मार्गः । अत्र पादयोरिति विशेषः । यद्वा । अपदे यूपे बद्धेन मया गन्तुमशक्ये भूप्रदेशे पादौ प्रक्षेप्तुमुपायं बन्धनिमोचनरूपं करोतीत्यर्थः । उतापि च हृदयाविधश्चित्सदस्मदीयेधकस्य शत्रोरपवक्ता पवादिना निराकर्ता भवतु ॥ चकार । लिट्परस्मैपदे । द्वित्वे । णलोऽ उत्तमवर्जम् [?] … पन्थाम् । पथिमथ्यृभुक्षामात् (पा. ७-१-८५) इति द्वितीयायामपि व्यत्ययेनात्वम् । पथिनब्दस्य पथेष्ठश्च (उ. ४-१०५) इति प्रत्ययान्तत्वेनान्तोदात्तत्वे प्राप्ते पथिमथोः सर्वनामस्थाने (पा. ६-१-१९९) इत्याद्युदात्तत्वम् । अन्वेतवै । अनुपूर्वादेतेः सेसेनिति तवैप्रत्ययः । तवै चान्तश्च युगपत् (पा. ६-१-१५०) इत्याद्यन्तोरुदात्तत्वम् । पादा । सुपां सुलुगित्याकारः । प्रतिधातवे । दधातेस्तुमर्थे सेसेनिति तवेप्रत्ययः । तादौ च निति (पा. ६-२-५०) इति गतेः प्रकृतिस्वरत्वम् । अकः । करोतेश्छन्दसि लुङ्लङ्लिटः (पा. ३-४-६) इति लोडर्थे लुङ् । तस्य तिप् । मन्त्रे घसेत्यादिना (पा. २-४-८०) च्लेर्लुक् । गुणो रपरत्वम् । हल्ङ्याब्भ्यः (पा. ६-१-६८) इति तिपो लोपः । आडागमः । हृदयाविधः । हृञ् हरणे । वृङ्ग्रहोर्भुगुकौ च (उ. ४-१०० [?]) इति कयन् । व्यध ताडने । क्विप् । नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ (पा. ६-३-११६) इति पूर्वपदस्य दीर्घत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> *uruṃ | hi | rājā | varuṇaḥ | cakāra | sūryāya | paṃthāṃ | anu 'etavai | ūṃ iti ‖ apade | pādā | prati 'dhātave | akaḥ | uta | apa 'vaktā | hṛdaya 'vidhaḥ | cit ‖8‖*
 
-*varuṇo rājā sūryāya sūryasya panthāṃ mārgam uruṃ vistīrṇaṃ cakāra | hiśabdaḥ prasiddhau | uttarāyaṇadakṣiṇāyanamārgasya vistāraḥ prasiddhaḥ | kimartham enaṃ kṛtavān iti tad ucyate | anvetavā u anukrameṇodayāstamayau gantum eva | tathāpade pādarahite 'ntarikṣe pādā pādau pratidhātave | pādau prakṣeptum | akaḥ | akarot | pūrvātra rathasya mārgaḥ | atra pādayor iti viśeṣaḥ | yadvā | apade yūpe baddhena mayā gantum aśakye bhūpradeśe pādau prakṣeptum upāyaṃ bandhanimocanarūpaṃ karotīty arthaḥ | utāpi ca hṛdayāvidhaś cit sad asmadīyedhakasya śatror apavaktā pavādinā nirākartā bhavatu || cakāra | liṭ parasmaipade | dvitve | ṇalo … | panthām | pathimathyṛbhukṣām āt (pā. 7-1-85) iti dvitīyāyām api vyatyayenātvam | pathinśabdasya patheṣṭhaś ca (u. 4-105) iti pratyayāntatvenāntodāttatve prāpte pathimathoḥ sarvanāmasthāne (pā. 6-1-199) ity ādyudāttatvam | anvetavai | anupūrvād eteḥ sesen iti tavaipratyayaḥ | tavai cāntaś ca yugapat (pā. 6-1-150) ity ādyantorudāttatvam | pādā | supāṃ suluk ity ākāraḥ | pratidhātave | dadhāter tumarthe sesen iti tavepratyayaḥ | tādau ca niti (pā. 6-2-50) iti gateḥ prakṛtisvaratvam | akaḥ | karoteś chandasi luṅlaṅliṭaḥ (pā. 3-4-6) iti loḍarthe luṅ | tasya tip | mantre ghasety ādinā (pā. 2-4-80) ca cler luk | guṇo raparatvam | halṅyābbhyaḥ (pā. 6-1-68) iti tipo lopaḥ | āḍāgamaḥ | hṛdayāvidhaḥ | hṛñ haraṇe | vṛṅgrahor bhugukau ca (u. 4-100 [?]) iti kayan | vyadha tāḍane | kvip | nahivṛtivṛṣivyadhiruci­sahitaniṣu kvau (pā. 6-3-116) iti pūrvapadasya dīrghatvam | kṛduttarapadaprakṛtisvaratvam ||*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**Translation:** "Varuṇa, the king, made for Sūrya the path (*panthā*) of the sun wide (*uru*): *hi* is for 'well-known' — the wideness of the path of the northern and southern courses is well known. For what purpose did he make it so? That is stated: *anvetavā u* — in order to go in succession, rising and setting. And *apade* — in the *antarikṣa*, which is footless — [he made] *pādā* — feet — *pratidhātave* — for placing: to set down his feet. *Akaḥ*: he made. [In the previous clause it was the path of the chariot; here the difference is 'of the feet'.] Or: for me, bound to the sacrificial post and unable to go to a [good] place on earth, he provides *apade* — [where there is no foot-hold] — a means of placing my feet: a means in the form of release from bondage. And may he also be *hṛdayāvidhaḥ* — the repeller, the one who drives away by [verbal] rebuke the enemy *edhaka* who afflicts us, [the heart-piercer]." *(Grammar pages 268–270, noted briefly: the words treated are* cakāra *[*kṛ*, *liṭ*, doubling; vṛddhi],* panthām *[the accusative of* pathin *by P. 7-1-85 *pathimathyṛbhukṣām āt*, with* ā *for* i *in the accusative singular as well by *vyatyaya*, so *panthām*; the suffix *thak*/*in* by Uṇ. 4-105; the acute on the first syllable by P. 6-1-199 *pathimathoḥ sarvanāmasthāne*; the long exposition of how *pathin* declines — *pathin*, *panthā*, *pathaḥ*, *panthānam*… and the *nuṭ*/*thuk* augments],* anvetavai *[*anu* + *i* + *tavai*, the Vedic infinitive of P. 3-4-9 *tumarthe sesenasenasenasetavaityādi*; accent on both the first and last syllable by P. 6-1-200 *tavai cāntaś ca yugapat*],* pādā *[*pādau* → *pādā* by P. 7-1-39 *supāṃ suluk*],* pratidhātave *[*prati* + *dhā* + *tave*; the *gati* retains its accent by P. 6-2-50],* akaḥ *[*kṛ*, *luṅ* in the sense of the imperative in the Veda, P. 3-4-6; *tip*; *cli* lost by P. 2-4-80; guṇa; *tip* lost by P. 6-1-68; *aṭ* augment — the final *s* → *visarga*],* hṛdayāvidhaḥ *[*hṛñ haraṇe* + *kayan* (Uṇ. 4-100 [?]); *vyadha tāḍane* + *kvip*; the lengthening of the preceding member by P. 6-3-116 *nahivṛtivṛṣivyadhiruci­sahitaniṣu kvau*; accent of the second member]; numerals as read, pointers only.)*
+*As printed: पंथां (with anusvara, here and in the bhāṣya's grammar tail; the Kannada grammar on p. 270 has पन्थां); तथापदे, शत्रोरप्यपवक्तापवदिता (the print joins the words by sandhi at the line break); पा. ७-१-८५; the Uṇādi reference after the pathin-śabda sentence is printed उ. ४-१२, and the word before ब्दस्य is not clear (पथिन्[?]ब्दस्य); पतेस्थ च; पा. ६-१-१९९; the sūtra तवै चान्तश्च युगपत् is printed with पा. ६-२-५१ (tavai printed with a glyph that looks like त्वै); पा. ६-२-५०; पा. २-४-८०; पा. ६-१-६८; the sūtra वृह्रोः षुग्दुकौ च with उ. ४-१००; पा. ६-३-११६. The print's ङ/ञ glyph is the same in लुङ्, हल्ङ्या and हृञ्, डुकृञ्.*
 
-**॥ Prati-padārthaḥ ॥** *(p. 269)* **वरुणः राजा (varuṇaḥ rājā)** — king Varuṇa | **सूर्याय (sūryāya)** — for the sun | **पन्थाम् (panthām)** — the path of the sun | **अन्वेतवै उ (anvetavai u)** — to travel in succession, for rising and setting | **उरुं चकार (uruṃ cakāra)** — made wide | **हि (hi)** — [the path of the sun, northern and southern, is] well known | **अपदे (apade)** — in the footless [*antarikṣa*] | **पादा (pādā)** — the feet | **प्रतिधातवे (pratidhātave)** — for placing | **अकः (akaḥ)** — made [a way] | **(अथवा) अपदे ((athavā) apade)** — [for me, bound to the post] on the earth where I cannot go | **(पादा प्रतिधातवे) ((pādā pratidhātave))** — [to set the feet, the means of releasing the bond] | **अकः (akaḥ)** — made | **उत (uta)** — and | **हृदयाविधः चित् (hṛdayāvidhaḥ cit)** — also [the enemy] who pierces [me] | **अपवक्ता (apavaktā)** — [may he be] the repeller.
+> वरुणो राजा सूर्याय सूर्यस्य पंथां मार्गमुरुं विस्तीर्णं चकार । हिशब्दः प्रसिद्धौ । उत्तरायणदक्षिणायनमार्गस्य विस्तारः प्रसिद्धः । किमर्थमेवं कृतवानिति तदुच्यते । अन्वेतवा उ । अनुक्रमेणोदयास्तमयौ गंतुमेव । तथापदे पादरहितेऽंतरिक्षे पादा प्रतिधातवे । पादौ प्रक्षेप्तुं । अकः । मार्गं कृतवान् । पूर्वत्र रथस्य मार्गः अत्र पादयोरिति विशेषः । यद्वा । अपदे यूपे बद्धेन मया गंतुमशक्ये भूप्रदेशे पादौ प्रक्षेप्तुमुपायं बंधविमोचनरूपं करोत्वित्यर्थः । उतापि च हृदयाविधश्चिदस्मदीयवेधकस्य शत्रोरप्यपवक्तापवदिता निराकर्ता भवतु ॥ चकार । लिट्स्वरेणाकार उदात्तः । हि चेति निघातप्रतिषेधः । पंथां । पथिमथ्यृभुक्षामात् । पा. ७-१-८५ । इति द्वितीयायामपि व्यत्ययेनात्वं । पथिन्[?]ब्दस्य पतेस्थ च । उ. ४-१२ । इति प्रत्ययांतत्वेनांतोदात्तत्वे प्राप्ते पथिमथोः सर्वनामस्थाने । पा. ६-१-१९९ । इत्याद्युदात्तत्वं । अन्वेतवै । अनुपूर्वादेतेस्तुमर्थे सेसेनिति तवैप्रत्ययः । तवै चांतश्च युगपत् । पा. ६-२-५१ । इत्याद्यंतयोरुदात्तत्वं । पादा । सुपां सुलुगित्याकारः । प्रतिधातवे । दधातेस्तुमर्थ इति सूत्रेणैव तवेन्प्रत्ययः । तादौ च निति । पा. ६-२-५० । इति गतेः प्रकृतिस्वरत्वं । अकः । करोतेश्छंदसि लुङ्लङ्लिट इति लोडर्थे लुङ् । तस्य तिप् । मंत्रे घसेत्यादिना । पा. २-४-८० । च्लेर्लुक् । गुणो रपरत्वं । हल्ङ्याब्भ्यः । पा. ६-१-६८ । इति तिपो लोपः । अडागमः । हृदयाविधः । हृञ् हरणे । वृह्रोः षुग्दुकौ च । उ. ४-१०० । इति कयन् । व्यध ताडने । क्विप् । नहिवृतीत्यादिना । पा. ६-३-११६ । पूर्वपदस्य दीर्घत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥
 
-**॥ Bhāvārthaḥ ॥** King Varuṇa made wide the path, known from the northern and southern courses, along which the sun travels. He made a path in the footless *antarikṣa*. [Such a Varuṇa], devise for me bound [to the post] a means of release, so that I may travel on the earth, and repel my tormenting enemy.
+> *varuṇo rājā sūryāya sūryasya paṃthāṃ mārgamuruṃ vistīrṇaṃ cakāra | hiśabdaḥ prasiddhau | uttarāyaṇadakṣiṇāyanamārgasya vistāraḥ prasiddhaḥ | kimarthamevaṃ kṛtavāniti taducyate | anvetavā u | anukrameṇodayāstamayau gaṃtumeva | tathāpade pādarahite 'ṃtarikṣe pādā pratidhātave | pādau prakṣeptuṃ | akaḥ | mārgaṃ kṛtavān | pūrvatra rathasya mārgaḥ atra pādayoriti viśeṣaḥ | yadvā | apade yūpe baddhena mayā gaṃtumaśakye bhūpradeśe pādau prakṣeptumupāyaṃ baṃdhavimocanarūpaṃ karotvityarthaḥ | utāpi ca hṛdayāvidhaścidasmadīyavedhakasya śatrorapyapavaktāpavaditā nirākartā bhavatu ‖ cakāra | liṭsvareṇākāra udāttaḥ | hi ceti nighātapratiṣedhaḥ | paṃthāṃ | pathimathyṛbhukṣāmāt | pā. 7-1-85 | iti dvitīyāyāmapi vyatyayenātvaṃ | pathin[?]bdasya patestha ca | u. 4-12 | iti pratyayāṃtatvenāṃtodāttatve prāpte pathimathoḥ sarvanāmasthāne | pā. 6-1-199 | ityādyudāttatvaṃ | anvetavai | anupūrvādetestumarthe seseniti tavaipratyayaḥ | tavai cāṃtaśca yugapat | pā. 6-2-51 | ityādyaṃtayorudāttatvaṃ | pādā | supāṃ sulugityākāraḥ | pratidhātave | dadhātestumartha iti sūtreṇaiva tavenpratyayaḥ | tādau ca niti | pā. 6-2-50 | iti gateḥ prakṛtisvaratvaṃ | akaḥ | karoteśchaṃdasi luṅlaṅliṭa iti loḍarthe luṅ | tasya tip | maṃtre ghasetyādinā | pā. 2-4-80 | clerluk | guṇo raparatvaṃ | halṅyābbhyaḥ | pā. 6-1-68 | iti tipo lopaḥ | aḍāgamaḥ | hṛdayāvidhaḥ | hṛñ haraṇe | vṛhroḥ ṣugdukau ca | u. 4-100 | iti kayan | vyadha tāḍane | kvip | nahivṛtītyādinā | pā. 6-3-116 | pūrvapadasya dīrghatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ ‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Varuṇa the king made the sun's path wide — *hi* means "well known", the width of the northern and southern courses being well known; and he did so in order that the sun might go in succession through rising and setting. Likewise in the footless sky he made [a path] for the feet to be set down (*akaḥ*: "he made the path"; the difference from the previous ṛk is that there it was the chariot's path, here it is the feet's). Or: for me, tied to the post, where I cannot go on the ground, let him make a means of setting the feet — release from the bond. And may he be the repeller, the one who turns away, of the enemy who pierces our heart. The grammatical tail notes: *cakāra* (the *ā* is udātta by the *liṭ* accent; no lowering after *hi*), *panthām* (*ā* in the accusative too by *vyatyaya* of Pā. 7-1-85; the Uṇādi suffix; initial acute by Pā. 6-1-199), *anvetavai* (suffix *tavai*; acute on first and last by Pā. 6-2-51), *pādā* (*suluk*), *pratidhātave* (suffix *taven*, by the same sūtra; the *gati* keeps its accent by Pā. 6-2-50), *akaḥ* (*luṅ* in the sense of *loṭ*; *tip*; loss of *cli* by Pā. 2-4-80; guṇa and *raparatva*; loss of *tip* by Pā. 6-1-68; augment *aṭ*), *hṛdayāvidhaḥ* (*hṛñ* + *kayan*, Uṇ. 4-100 as printed; *vyadh* + *kvip*; lengthening of the first member by Pā. 6-3-116; the accent of the second member).
+
+### Page 269 — Rik 8: word-meanings, overall sense, English, Special Topics (beginning)
+
+**॥ Prati-padārthaḥ ॥**
+
+**वरुणः राजा (varuṇaḥ rājā)** — King Varuṇa | **सूर्याय (sūryāya)** — for the sun | **पंथां (panthāṃ)** — the path of the sun | **अन्वेतवा उ (anvetavā u)** — only for the sake of attaining rising and setting | **उरुं चकार (uruṃ cakāra)** — made wide | **हि (hi)** — (it is well known, is it not, that the path of the sun is wide, in the form of the northern and southern courses) | **अपदे (apade)** — in the footless antarikṣa | **पादा (pādā)** — the feet | **प्रतिधातवे (pratidhātave)** — only for placing | **अकः (akaḥ)** — (the path) he made | **(अथवा) अपदे ((athavā) apade)** — (for me, bound to the post) on the earth, which it is impossible to move over | **(पादा प्रतिधातवे) ((pādā pratidhātave))** — (for placing the feet, the means of release from the bond) | **अकः (akaḥ)** — let him make | **उत (uta)** — and | **हृदयाविधश्चित् (hṛdayāvidhaś cit)** — (the enemy) who torments (me) as well | **अपवक्ता (apavaktā)** — one who removes (may he be).
+
+**॥ Bhāvārthaḥ ॥**
+
+King Varuṇa made wide, only for the sun's rising and setting, the path known as the southern and northern courses. He made a path in the antarikṣa, which has no support at all. May such a Varuṇa, for me who am bound, make a means of release from the bond, so that I may move over the earth, which is fit for moving; and may he remove my tormenting enemy.
+
+**॥ English Translation ॥** *(as printed)*
 
 > The King Varuna made wide the path of the sun by which to travel on his daily course; a path to traverse in pathless space; may he be the repeller of every foe that breaks the heart.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 269–270)* **अन्वेतवै उ** — so as to be convenient for going in the places of rising and setting. **चकार सूर्याय पन्थाम्** — he made the path convenient for the sun's travel (widening it). How Varuṇa widens the sun's path here is not explained clearly. **अपदे** — *pādarahite 'ntarikṣe*: in the footless *antarikṣa*; or *apade yūpe baddhena mayā gantum aśakye bhūpradeśe* — 'in the place on the earth where I, tied to the sacrificial post, cannot go' — that is, so that, released from the post, I can go to another place. **पादा प्रतिधातवे** — *pādau prakṣeptuṃ, pādau prati nidhātum*: to place the feet; to walk. **अकः** — he made [the way]. **अपवक्ता** — *apavadiṭā*: one who speaks evil. **हृदयाविधः** — *asmadīyedhakasya śatroḥ*: of our tormenting enemy; or the one who, with harsh words, bad conduct or wrong deeds, causes pain to our heart (mind); the intention is that Varuṇa [is the one to] keep such men in check.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 269–270)*
+
+**अन्वेतवै उ (anvetavai u)** — so that it may be convenient for going in the rising and setting.
+
+**चकार सूर्याय पंथां (cakāra sūryāya panthāṃ)** — he made the path (wide) so that it is convenient for the sun's going. How Varuṇa widens the path of the sun's going is not explained here in detail.
+
+**अपदे (apade)** — *pādarahite 'ntarikṣe*:
+
+> पादरहितेऽन्तरिक्षे
+
+> *pādarahite 'ntarikṣe*
+
+the region where it is not possible to go on foot, that is, the antarikṣa. Or *apade, yūpe baddhena mayā gantum aśakye bhūpradeśe*:
+
+> अपदे, यूपे बद्धेन मया गन्तुमशक्ये भूप्रदेशे
+
+> *apade, yūpe baddhena mayā gantumaśakye bhūpradeśe*
+
+the earthly region where I, tied to the sacrificial post (Śunaḥśepa), cannot go having freed myself; that is, so that it is convenient, having freed myself from the sacrificial post, to go to another place.
+
+### Page 270 — Rik 8: Special Topics (end), grammar
+
+**पादा प्रतिधातवे (pādā pratidhātave)** — *pādau prakṣeptuṃ, pādau prati nidhātum*:
+
+> पादौ प्रक्षेप्तुं, पादौ प्रति निधातुं
+
+> *pādau prakṣeptuṃ, pādau prati nidhātuṃ*
+
+for placing the feet; for going on foot.
+
+**अकः (akaḥ)** — (he made the path.)
+
+**अपवक्ता (apavaktā)** — *apavaditā*:
+
+> अपवदिता
+
+> *apavaditā*
+
+one who speaks evil words.
+
+**हृदयाविधः (hṛdayāvidhaḥ)** — *asmadīyavedhakasya śatroḥ*:
+
+> अस्मदीयवेधकस्य शत्रोः
+
+> *asmadīyavedhakasya śatroḥ*
+
+of the enemy who hurts us. Or:
+
+> अथवा परुषवचनायोग्यव्यवहारसमाचरणादिभिर्हृदयं यो विध्यति पीडयति स हृदयावित् तस्य
+
+> *athavā paruṣavacanāyogyavyavahārasamācaraṇādibhirhṛdayaṃ yo vidhyati pīḍayati sa hṛdayāvit tasya*
+
+one who afflicts the heart (the mind) by harsh words, improper dealings and conduct is called *hṛdayāvidh*; that is, of the enemy who causes pain to our mind, or of the man who causes pain to the heart (mind) by the practice of bad words, bad conduct, *durvyāra* [as printed; sense unclear] and the like. The intention is Varuṇa as the one who restrains such a man.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पन्थां (panthāṃ)** — the root *patḷṛ gatau* (as printed); by *pateḥ stha ca* (Uṇ. Sū. 4-452, as printed): after the root *pat* the suffix *in* comes and *t* is replaced by *th*; so with *in* and *th* it becomes *pathin*. Accusative singular *am*: by *pathimathyṛbhukṣām āt* (Pā. Sū. 7-1-85) — when *su* follows, the last letter of *pathi* and the like becomes *ā*; this *ā*, enjoined in the nominative singular, comes by *vyatyaya*, because the language is Vedic, also in the accusative singular. *pathi + ā + am*: by *ito 'tsarvanāmasthāne* (Pā. Sū. 7-1-86) — when the five endings beginning with *su* follow, the *i* of *pathi* and the like becomes *a*: that is the substitute *a*. By *tho nthaḥ* (Pā. Sū. 7-1-87) — when the five *su*-endings are present, the *th* of *pathi* and *mathi* becomes *nth*; when *nth* has come: *panthā + am*, single substitute of the earlier form. By *pathimathoḥ sarvanāmasthāne* (Pā. Sū. 6-1-199) — when the five *su*-endings are present, the first of *pathi* and *mathi* becomes udātta: so, setting aside the suffix accent, the udātta comes on the first syllable.
+
+**अकः (akaḥ)** — *ḍukṛñ karaṇe*. By *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6): showing the connection of the meanings of the roots, these suffixes come in the Veda in the three times. *luṅ* — *tip* — *kṛ + ti*; by *mantre ghasa-hvaraṇaśavṛdahādvṛc-kagamijanibhyo leḥ* (Pā. Sū. 2-4-80; the middle of the sūtra read with doubt [?]) — in a mantra the *li* following these [roots] takes *luk*; so the *cli* that comes by *cli luṅ* (as printed) takes *luk*; guṇa comes and it becomes *ar*. *kar + ti*: by *halṅyābbhyaḥ* (Pā. Sū. 6-1-68) the *ti*, which is *apṛkta*, is dropped. Augment *aṭ*; *r* becomes visarga.
+
+**हृदयाविधः (hṛdayāvidhaḥ)** — *hṛñ haraṇe*; by *vṛhroḥ ṣugdukau* (Uṇ. Sū. 4-540, as printed; the sūtra is read letter by letter) — after the roots *vṛñ varaṇe* and *hṛñ* the suffix *kayan* comes and, respectively, the augments *ṣuk* and *duk*; so after *hṛ* the suffix *kayan* comes, *hṛ + aya*, augment *d*: *hṛd + aya = hṛdaya*. After the root *vyadh* the suffix *kvip*; by *nahivṛtivṛṣivyadhiruci­sahitaniṣu kvau* (Pā. Sū. 6-3-116) the earlier member is lengthened; genitive singular. ॥8॥
+
+*(The Saṃhitā of Rik 9 begins on p. 271.)*
 
 ---
 
