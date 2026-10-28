@@ -3,8 +3,8 @@
 Range: Sūkta 24 Ṛk 14 (printed p. 288 = PDF 302) through the end of Sūkta 29 (before the Sūkta 30 heading, ~p. 458 = PDF 472). Better scan: printed = PDF − 14.
 Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
-Done through: Ṛk 25.10 (p. 319 = PDF 333).
-Next unit: Ṛk 25.11 (pp. 319–322 = PDF 333–336).
+Done through: Ṛk 25.11 (p. 322 upper = PDF 336).
+Next unit: Ṛk 25.12 (pp. 322–324 = PDF 336–338).
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
@@ -13,3 +13,4 @@ Open items:
 - p. 296: फि. ४-१७ in the bhāṣya against Phi. Sū. 85 in the grammar (two numbering systems); kept as printed.
 - p. 315: grammar prints 3-1-82 (karmavat, std 87) and 3-1-87 (yak, std 67); vārttika 6-1-1[?]5-3.
 - p. 318: Saṃhitā पस्त्यास्वा printed with a stray ಇ-shaped glyph; [accent ?].
+- p. 321: Pā. 6-1-10 as printed for śeś chandasi bahulam (std 6-1-70).
