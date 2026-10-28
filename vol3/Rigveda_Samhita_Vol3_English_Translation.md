@@ -7462,38 +7462,61 @@ is initially acute: the *a* after *m* is udātta. Because the *yad*-word (*yath�
 
 ---
 
-### Pages 305–307 — Sūkta 25, Rik 5
+### Page 305 (lower) — Sūkta 25, Rik 5
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> कदा क्षत्रश्रियं नरमा वरुणं करामहे ।
-> मृळीकायोरुचक्षसम् ॥ ५ ॥
+> क॒दा क्ष॑त्र॒श्रियं॒ नर॒मा वरु॑णं करामहे ।
+> मृ॒ळी॒कायो॑रु॒चक्ष॑सं ॥५॥
+>
+> *kadā́ kṣatraśríyaṃ náramā́ váruṇaṃ karāmahe |*
+> *mṛḷīkā́yorucákṣasaṃ ||5||*
 
-*kadā kṣatraśriyaṃ naram ā varuṇaṃ karāmahe | mṛḷīkāyoruccakṣasam || 5 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> कदा । क्षत्रऽश्रियम् । नरम् । आ । वरुणम् । करामहे ॥ मृळीकाय । उरुऽचक्षसम् ॥ ५ ॥
+> कदा । क्षत्रऽश्रियं । नरं । आ । वरुणं । करामहे । मृळीकाय । उरुऽचक्षसं ॥५॥
 
-*kadā | kṣatra-śriyam | naram | ā | varuṇam | karāmahe || mṛḷīkāya | uru-cakṣasam || 5 ||*
+> *kadā | kṣatra-śriyaṃ | naraṃ | ā | varuṇaṃ | karāmahe | mṛḷīkāya | uru-cakṣasaṃ ‖5‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 305)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> मृळीकायास्मत्सुखाय वरुणं कदा कस्मिन्काले आ करामहे । अस्मिन्कर्मण्यागतं करवाम । कीदृशम् । क्षत्रश्रियं बलसेविनं नरं नेतारमुरुचक्षसं बहूनां द्रष्टारम् ॥ क्षत्रश्रियम् । क्षत्राणि श्रयतीति क्षत्रश्रीः । क्विप् । वचीत्यादिना । पा. ३-२-७६-३ । क्विप् दीर्घश्च । कृदुत्तरपदप्रकृतिस्वरत्वम् । नरम् । नृ(नयेः) नेरुरुत्वञ्च । आद्युदात्तः । करामहे । करोतेर्व्यत्ययेन शप् । उरुचक्षसम् । चक्षेर्बहुलं शिच्च । उ. ४-१८३ । इत्यसुन् । शिद्भावाद्वाधातुर्नश्छन्दसि [?] ॥
+> मृळीकायास्मत्सुखाय वरुणं कदा कस्मिन्काल आ करामहे । अस्मिन्कर्मण्यागतं करवाम । कीदृशं । क्षत्रश्रियं । बलसेविनं नरं नेतारं उरुचक्षसं बहूनां द्रष्टारं ॥ क्षत्रश्रियं । क्षत्राणि श्रयतीति क्षत्रश्रीः । क्विप् । वचीत्यादिना । पा. ३-२-१७८-२ । क्विप् दीर्घश्च । कृदुत्तरपदप्रकृतिस्वरत्वं । नरं । ऋदोरबित्यबंत आद्युदात्तः । करामहे । करोतेर्व्यत्ययेन शप् । उरुचक्षसं । चक्षेर्बहुलं शिच्च । उ. ४-२३२ । इत्यसुन् । शिद्वद्भावात्ख्याञादेशाभावः ॥१६॥
 
-*mṛḷīkāyāsmatsukhāya varuṇaṃ kadā kasmin kāle ā karāmahe | asmin karmaṇy āgataṃ karavāma | kīdṛśam | kṣatraśriyaṃ balasevinaṃ naram netāram uruccakṣasaṃ bahūnāṃ draṣṭāram || kṣatraśriyam | kṣatrāṇi śrayatīti kṣatraśrīḥ | kvip | vacīty ādinā | pā. 3-2-76 [?] | kvip dīrghaś ca | kṛduttarapadaprakṛtisvaratvam | naram | nṛ (nayeḥ) ner urutvaṃ ca | ādyudāttaḥ | karāmahe | karoter vyatyayena śap | uruccakṣasam | cakṣer bahulaṃ śic ca | u. 4-183 | ity asun | śidbhāvād vā dhātur naś chandasi [?] ||*
+> *mṛḷīkāyāsmatsukhāya varuṇaṃ kadā kasminkāla ā karāmahe | asminkarmaṇyāgataṃ karavāma | kīdṛśaṃ | kṣatraśriyaṃ | balasevinaṃ naraṃ netāraṃ urucakṣasaṃ bahūnāṃ draṣṭāraṃ ‖ kṣatraśriyaṃ | kṣatrāṇi śrayatīti kṣatraśrīḥ | kvip | vacītyādinā | pā. 3-2-178-2 | kvip dīrghaśca | kṛduttarapadaprakṛtisvaratvaṃ | naraṃ | ṛdorabityabaṃta ādyudāttaḥ | karāmahe | karotervyatyayena śap | urucakṣasaṃ | cakṣerbahulaṃ śicca | u. 4-232 | ityasun | śidvadbhāvātkhyāñādeśābhāvaḥ ‖16‖*
 
-**Translation:** "When (*kadā*) shall we bring (*ā karāmahe*) Varuṇa to our rite — for *mṛḷīka*, our happiness? To this rite: may we cause him to come. How is he? *Kṣatraśriyam* — he who is attended by strength, *naram* — the leader, *uruccakṣasam* — the seer of many. *Kṣatraśriyam*: 'he who resorts to (*śrayati*) *kṣatras*'; *kvip*, with lengthening; the accent of the last member of a *kṛt*-compound. *Naram*: from *nṛ*, the *u* substitute; first-syllable acute. *Karāmahe*: *śap* of *kṛ* by *vyatyaya*. *Uruccakṣasam*: from *cakṣ* with *asun* by Uṇ. 4-183, being *śit*…" *(Grammar pages 306–307, noted briefly: the words treated are* kṣatraśriyam *[*kṣatra* + *śri* + *kvip*; *kṣatra* as the *upapada* by P. 3-2-76 *kvip ca* [numeral doubtful]; the lengthening of the *i* of *śri* by the same rule; *gati-kāraka-upapadāt kṛt* P. 6-2-139 gives the accent of the final],* naram *[*nī prāpaṇe*, + *ap*; *nṝ* with *ṇic*; guṇa; the Uṇādi *ṇeḥ* [?]; *nṛ* is declined; accusative singular *naram* with the root-accent through *śap*-less rule — the author says the stem has the first-syllable acute],* karāmahe *[*ḍukṛñ karaṇe*, *laṭ*, *mahiṅ*, *ṭa-ṭita ātmanepadānām* P. 3-4-79 *ṭita ātmanepadānāṃ ṭere* giving *e*; *u*-*vikaraṇa* by P. 3-1-79 *tanādikṛñbhya uḥ*, replaced by *śap* by *vyatyaya*; guṇa; lengthening of the *a* before *mahi* by P. 7-3-101 *ato dīrgho yañi*; the verb's accent is lowered] and* uruccakṣasam *[*cakṣiṅ vyaktāyāṃ vāci* + *asun* by Uṇ. 4-183 *cakṣer bahulaṃ śic ca*; *śit*, so the *khyāñ* substitution does not occur; the first syllable of *cakṣas* is acute because of *nit*; the compound *urucakṣas* with the *c* doubled by P. 6-1-73 *che ca*]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. ३-२-१७८-२ (a vārttika number), उ. ४-२३२ (curled 2, ಇ-shaped 3, curled 2). The closing ॥१६॥ marks the end of Varga 16 (Ṛks 1–5); the page headers from p. 307 read "ವ. ೧೭".)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 305)* **क्षत्रश्रियम् (kṣatraśriyam)** — served by strength [endowed] | **नरम् (naram)** — the guide | **उरुचक्षसम् (uruccakṣasam)** — the one who sees many | **वरुणम् (varuṇam)** — the deity Varuṇa | **मृळीकाय (mṛḷīkāya)** — for [our] happiness | **कदा (kadā)** — when | **आ करामहे (ā karāmahe)** — may we bring [to this rite].
+*Gist:* When shall we bring to this rite, for our happiness, Varuṇa, who is attended by strength, the leader, the seer of many?
 
-**॥ Bhāvārthaḥ ॥** When shall we invite to this rite the mighty Varuṇa, the guide of all, the one who sees the many, for the sake of our happiness?
+**॥ Prati-padārthaḥ ॥** **क्षत्रश्रियं (kṣatraśriyaṃ)** — attended by (endowed with) strength | **नरं (naraṃ)** — the guide | **उरुचक्षसं (urucakṣasaṃ)** — who sees many people | **वरुणं (varuṇaṃ)** — the god Varuṇa | **मृळीकाय (mṛḷīkāya)** — for (our) happiness | **कदा (kadā)** — when | **आ करामहे (ā karāmahe)** — shall we make (him) come (to this sacrifice of ours)?
 
-**॥ English Translation ॥** *(as printed in the source)*
+### Page 306 — Rik 5: overall sense, English, Special Topics, grammar
+
+**॥ Bhāvārthaḥ ॥** When shall we, for the gaining of our happiness, make the god Varuṇa — mighty, the guide of all, who watches over many people — come to this sacrifice?
+
+**॥ English Translation ॥** *(as printed)*
 
 > When, for our happiness shall we bring Varuna, the mighty, the guide of men, and beholder of many?
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 306)* **क्षत्रश्रियम्** — *kṣatra* means bodily strength, as the commentator explained in the 6th rik of the 24th sūkta; *kṣatraśriyam* means 'possessing strength and wealth', 'of much strength'. **उरुचक्षसम्** — *bahūnāṃ draṣṭāram*: one who looks on many — seen by many, or praised by many.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**क्षत्रश्रियं (kṣatraśriyaṃ)** — the commentator has explained in the 6th ṛk of the 24th sūkta that *kṣatra* means bodily strength. *Kṣatraśriyaṃ* means rich in strength, of great strength.
+
+**उरुचक्षसं (urucakṣasaṃ)** — *bahūnāṃ draṣṭāraṃ*: one who sees many people; that is, one who is seen, or praised, by many people.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read, v3a)*
+
+**क्षत्रश्रियम् (kṣatraśriyam)** — *kṣatrāṇi śrayati iti kṣatraśrīḥ*; by the vārttika "क्विब्वचिप्रच्छ्यायत-" (Pā. 3-2-178-3, as printed; the bhāṣya gives ३-२-१७८-२) *kvip* after *śriñ* with an upapada, with lengthening; accusative singular. By "गतिकारकोपपदात्कृत्" (Pā. Sū. 6-2-139) the *kṛt* final member keeps its accent: the *i* of *śri* is udātta.
+
+**नरम् (naram)** — *nṝ naye*, kryādi; *ap* after a root in *ṛ* by "ऋदोरप्" (Pā. Sū. 3-3-57); guṇa, *r*; accusative singular *naram*; *ap* being *pit* is anudātta, so the root's end-acute (by "धातोः"), being *sati-śiṣṭa*, makes *naram* initially acute.
+
+**करामहे (karāmahe)** — *ḍukṛñ karaṇe*; *laṭ* first plural *mahiṅ*, *e* by "टित आत्मने-" (Pā. Sū. 3-4-79); the *u* vikaraṇa due by "तनादिकृञ्भ्य उः" (Pā. Sū. 3-1-79) is replaced by *śap* by *vyatyaya*; guṇa; *kara* + *mahe*, lengthening by "अतो दीर्घो यञि" (Pā. Sū. 7-3-101); the *tiṅanta* takes the *nighāta* accent.
+
+### Page 307 (upper) — Rik 5: grammar (end)
+
+**उरुचक्षसम् (urucakṣasam)** — *cakṣiṅ vyaktāyāṃ vāci*; *asun* by "चक्षेर्बहुलं शिच्च" (Uṇ. Sū. 4-672, as printed in the Kannada series: hook-6, flat-footed 7, curled 2; the bhāṣya gives उ. ४-२३२), treated as *śit*; *urucakṣas*, a stem in *s*; accusative singular. Because the suffix is *śit*, the *khyāñ* substitution of "चक्षिङः ख्याञ्" (Pā. Sū. 2-4-54), conditioned by an ārdhadhātuka, does not come; being *nit*, *cakṣas* is initially acute. ॥५॥ *(A printed ornament follows.)*
 
 ---
 
