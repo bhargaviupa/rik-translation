@@ -8706,15 +8706,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.10 (p. 524 foot, PDF 538–)
+### Rik 44.10 (pp. 524–527, PDF 538–541; better scan PDF 539–542)
 
-**Saṃhitā-pāṭha** *(p. 524; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 524)*
 
-> **अग्ने पूर्वा अनूषसो विभावसो दीदेथ विश्वदर्शतः ।**
-> **असि ग्रामेष्वविता पुरोहितोऽसि यज्ञेषु मानुषः ॥ १० ॥**
+> **अग्ने॒ पूर्वा॒ अनू॒षसो॑ विभावसो दी॒देथ॑ वि॒श्वद॑र्शतः ।**
+> **असि॒ ग्रामे॑ष्ववि॒ता पु॒रोहि॒तोऽसि॑ य॒ज्ञेषु॒ मानु॑षः ॥**
 
-*agne pūrvā anūṣaso vibhāvaso dīdetha viśvadarśataḥ |*
-*asi grāmeṣv avitā purohito 'si yajñeṣu mānuṣaḥ || 10 ||*
+*agne pū́rvā ánūṣáso vibhāvaso dīdétha viśvádarśataḥ |*
+*asi grā́meṣv avitā́ puróhitó 'si yajñéṣu mā́nuṣaḥ ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print gives only "॥" after the Saṃhitā; the Pada ends "॥ 10 ॥".)*
 
 **Pada-pāṭha** *(p. 524)*
 
@@ -8730,44 +8732,48 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 *(The Saṃhitā prints* anūṣasaḥ *with a long* ū *where the Pada has* anu uṣasaḥ*; I give both as printed.)*
 
-*(The bhāṣya of Rik 10 begins on p. 525, not yet written.)*
-
----
+### Page 525
 
 **Rik 44.10, continued** *(from p. 525)*
 
 **Sāyaṇa-bhāṣya** *(p. 525)*
 
-> **हे विभावसो विशिष्टप्रकाशनरूपधनवन्नग्ने विश्वदर्शतः सर्वैर्दर्शनीयस्त्वं । पूर्वा उषसोऽनु अतीतानुषःकालाननुलक्ष्य दीदेथ दीप्तवानसि । तादृशस्त्वं ग्रामेषु जननिवासस्थानेष्वविताऽसि । रक्षकोऽभवसि । यज्ञेष्वनुष्ठेयकर्मसु पुरोहितो वेदेः पूर्वस्यां दिश्यवस्थितो मानुषोऽसि । ऋत्विग्यजमानानां मनुष्याणां हितोऽसि ॥**
+> **हे विभावसो विशिष्टप्रकाशनरूपधनवन्नग्ने विश्वदर्शतः सर्वैर्दर्शनीयस्त्वं । पूर्वा उषसोऽनु अतीतानुषःकालाननुलक्ष्य दीदेथ दीप्तवानसि । तादृशस्त्वं ग्रामेषु जननिवासस्थानेष्वविताऽसि । रक्षको भवसि । यज्ञेष्वनुष्ठेयकर्मसु पुरोहितो वेदेः पूर्वस्यां दिश्यवस्थितो मानुषोऽसि । ऋत्विग्यजमानानां मनुष्याणां हितोऽसि ॥**
 
-*he vibhāvaso viśiṣṭaprakāśanarūpadhanavann agne viśvadarśataḥ sarvair darśanīyas tvaṃ | pūrvā uṣaso 'nu atītān uṣaḥkālān anulakṣya dīdetha dīptavān asi | tādṛśas tvaṃ grāmeṣu jananivāsasthāneṣv avitā 'si | rakṣako 'bhavasi | yajñeṣv anuṣṭheyakarmasu purohito vedeḥ pūrvasyāṃ diśy avasthito mānuṣo 'si | ṛtvigyajamānānāṃ manuṣyāṇāṃ hito 'si ||*
+*he vibhāvaso viśiṣṭaprakāśanarūpadhanavann agne viśvadarśataḥ sarvair darśanīyas tvaṃ | pūrvā uṣaso 'nu atītān uṣaḥkālān anulakṣya dīdetha dīptavān asi | tādṛśas tvaṃ grāmeṣu jananivāsasthāneṣv avitā 'si | rakṣako bhavasi | yajñeṣv anuṣṭheyakarmasu purohito vedeḥ pūrvasyāṃ diśy avasthito mānuṣo 'si | ṛtvigyajamānānāṃ manuṣyāṇāṃ hito 'si ||*
 
 **Translation:** "O Agni, *vibhāvaso*, you whose wealth is the splendour of special brilliance; *viśvadarśataḥ*, to be seen by all: you have shone, *pūrvā uṣasaḥ anu*, following (keeping in view) the past times of dawn — you have been blazing. Such as you are, you are the protector, *avitā*, in *grāmeṣu*, the dwelling-places of people; you are the guardian. In *yajñeṣu*, in the rites to be performed, you are *purohitaḥ*, set in front, placed on the east side of the altar; you are *mānuṣaḥ*, beneficial to the human beings, the priests and the sacrificers."
 
-**Grammatical tail** *(characterized; the numerals are as read, doubtful [?])*
-- *dīdetha*: the root *dīdī* is of the Veda only; the *iṭ* augment is not added because the grammarians' augment-rules are not invariable (*āgamaśāstram anityam*, as printed); doubling is avoided by the statement "in the doubling-section, optionally in the Chandas" (cited from the Kāśikā, number as read "6-1-8-1" [?]).
-- *viśvadarśataḥ*: "to be seen by all"; the suffix *atac* after *dṛś* by a rule beginning *bhṛmṛdṛśi…* (as printed); the first member keeps its end-acute, the word being of the *marudvṛdh*-class (Pā. 6-2-106 as read [?]).
-- *purohitaḥ*: *puras* formed with the suffix *asi* after *pūrva, adhara, avara* (the rule beginning *pūrvādharāvarāṇām asi puradhavaś caiṣām*, as printed); the word is indeclinable because a *taddhita* that does not take all case-endings is *avyaya* (Pā. 1-1-38 would be the standard number; as printed it is hard to read [?]); then *gati*-designation (Pā. 1-4-62 as read) and the *gati*-compound, with the first member retaining its own accent by *gatir anantaraḥ*.
-- Closing numeral of the Rik: "|| 10 ||".
+**Sāyaṇa-bhāṣya, grammatical tail** *(p. 525; transcribed from the better scan, PDF 540)*
+
+> **दीदेथ । दीदेतिश्छान्दसो दीप्तिकर्मा । आगमानुशासनस्यानित्यत्वादिडभावः । द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यं । का. ६-१-८-१ । इति वचनाद्द्विर्वचनाभावः । विश्वदर्शतः । विश्वैर्दर्शनीयः । भृमृदृशीत्यादिना दृशेरतच् । मरुद्वृधादित्वात्पूर्वपदान्तोदात्तत्वं । पा. ६-२-१०६-२ । पुरोहितः । पूर्वाधरावराणामसि पुरधवश्चैषामित्यसिप्रत्ययान्तः पुरस्शब्दः । तद्धितश्चासर्वविभक्तिरित्यव्ययत्वात् पुरोऽव्ययं । पा. १-४-६७ । इति गतिसंज्ञायां सत्यां गतिसमासे गतिरनन्तर इति पूर्वपदप्रकृतिस्वरत्वं ॥ २९ ॥**
+
+*dīdetha | dīdetiś chāndaso dīptikarmā | āgamānuśāsanasyānityatvād iḍabhāvaḥ | dvirvacanaprakaraṇe chandasi veti vaktavyaṃ | kā. 6-1-8-1 | iti vacanād dvirvacanābhāvaḥ | viśvadarśataḥ | viśvair darśanīyaḥ | bhṛmṛdṛśītyādinā dṛśer atac | marudvṛdhāditvāt pūrvapadāntodāttatvaṃ | pā. 6-2-106-2 | purohitaḥ | pūrvādharāvarāṇām asi puradhavaś caiṣām ity asipratyayāntaḥ puraśśabdaḥ | taddhitaś cāsarvavibhaktir ity avyayatvāt puro 'vyayaṃ | pā. 1-4-67 | iti gatisaṃjñāyāṃ satyāṃ gatisamāse gatir anantara iti pūrvapadaprakṛtisvaratvaṃ || 29 ||*
+
+*(Gist of the tail: no iṭ and no reduplication in* dīdetha *(Kāśikā 6-1-8-1); the suffix* atac *in* viśvadarśata *with the first member end-acute; the* gati-*compound* purohita *keeps the accent of its first member. The closing "॥ 29 ॥" is the varga number (Varga 29 ends with this Ṛk), not the Ṛk number.)*
 
 **Pratipadārtha** *(p. 525)* — "**vibhāvaso** — O Agni, who have the wealth of illuminating all; **agne** — O Agni; **viśvadarśataḥ** — you who are to be seen by the eyes of all; **pūrvāḥ uṣasaḥ anu** — after the many dawns that have passed; **dīdetha** — you have made bright (such as you); **grāmeṣu** — in the villages (where people live); **avitā** — as protector; **asi** — you are; **yajñeṣu** — in the sacrificial rites; **purohitaḥ** — seated in the eastern part of the altar; **mānuṣaḥ** — as one beneficial to men (priests and sacrificers); **asi** — you are."
 
 **Bhāvārtha** *(p. 525)* — "O Agni, by the greatness of your brilliance you not only illuminate everything in the world but are visible to all people. You have lit up thousands of dawns that have passed. Such a great one, you are the protector of every village where men dwell. Such a protector, you are *purohita* in our sacrifices, that is, seated in the eastern part of the altar, and are the benefactor of men, both priests and sacrificers."
 
-**English Translation (the source's own, p. 526)** — "Resplendent Agni, visible to all, you have always shone after many preceding dawns [sic: "dawn⁠s" with a raised s], you are the protector of people in villages [sic: "iu"], and you are placed in front (on the east side of ths [sic] altar) for the benefit of man-" *(the sentence breaks off at the end of the printed line; the last word is evidently "mankind", the rest of the word is not in the print as I see it).*
+### Page 526
+
+**English Translation (the source's own, p. 526)** — "Resplendent Agni, visible to all, you have always shone after many preceding dawns, you are the protector of peope [sic] in villages, and you are placed in front (on the east side of the altar) for the benefit of man." *(Read from the better scan, PDF 541; the earlier [sic] notes came from the old scan.)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 526**
 - **anu uṣasaḥ** — "after the dawns, that is, every day after the dawn-times, before the sun's rising."
 - **vibhāvaso** — "*viśiṣṭaprakāśarūpadhanavān*: one who has the capacity to illuminate special things; one whose wealth is that capacity, i.e. who shines well, who blazes brightly."
-- **dīdetha** — "*dīdeśiś chandaso dīptikarmā* [reading doubtful, ?]: you shine; you are shining."
+- **dīdetha** — "*dīdetiś chāndaso dīptikarmā*: you shine; you are shining."
 - **viśvadarśataḥ** — "*sarvair darśanīyaḥ*: one who is looked at by all; you whom all see."
-- **purohitaḥ** — "*vedeḥ pūrvasyāṃ diśy avasthitaḥ*: established in the form of the *āhavanīya* on the east of the altar; one who is in front of the sacrifice. The explanation of this word is given in the Special Topics of the first ṛk of the first sūkta of the first maṇḍala, Ṛgveda Saṃhitā part 1, pp. 614–615 [numerals as read, ?]; see there."
+- **purohitaḥ** — "*vedeḥ pūrvasyāṃ diśy avasthitaḥ*: established in the form of the *āhavanīya* on the east of the altar; one who is in front of the sacrifice. The explanation of this word is given in the Special Topics of the first ṛk of the first sūkta of the first maṇḍala, Ṛgveda Saṃhitā part 1, pp. 614–615; see there."
 - **mānuṣaḥ** — "*ṛtvigyajamānānāṃ manuṣyāṇāṃ hito 'si*: the commentator has explained the word *mānuṣaḥ* as one who does good to people such as priests and sacrificers. But, taking the words *purohito 'si yajñeṣu mānuṣaḥ* together as general ('of men'), 'in the sacrifices that men perform you are *purohita*'; *purohita* means one placed in the foremost position, or one established in the *āhavanīya* fire-pit on the east side of the altar. If this sense is given, the meaning fits properly."
 
 **Vyākaraṇa-prakriyā** *(pp. 526–527 — grammar pages, noted briefly)*
-- **dīdetha**: root *dīdī dīptau*, used in the Veda only; *liṭ*, *sip*, *thal* in place of *sip* by a rule beginning *parasmaipadānāṃ ṇalatusus…* (as printed); doubling avoided by the Kāśikā statement quoted in the bhāṣya, hence *liṭ*-doubling absent; the *iṭ* augment likewise does not come (*āgamaśāstram anityam*, as printed); *guṇa*: *dīdetha*; the all-unaccented (*sarvānudātta*) does not come since the word is at the beginning of a *pāda*; the end-acute from the root remains.
-- **viśvadarśataḥ**: root *viś praveśane*; the suffix *kvan* by an Uṇādi-sūtra beginning *āśū pṛṣi…* (as printed, number not legible [?]); the word is *ādyudātta* by *nit* (the suffix being *nit*). For *dṛś prekṣaṇe*: the suffix *atac* by "*bhṛmṛdṛśi yajiparvi pacy amitanināmi haryibhyo 'tac*" (Uṇ. 3-[?]0 as read); *dṛś + ata*, *guṇa*; *viśvaiḥ darśataḥ* = "*darśanīyaḥ*, one fit to be seen by all". By the *antodātta*-rule: "*marudvṛdhādīnāṃ chandasy upasaṅkhyānam*" (Pā. 6-2-106 [vārttika, as read, ?]) the first member gets end-acute.
-- **purohitaḥ**: *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39 as read [?]): after *pūrva, adhara, avara*, the suffix *asi* (in the senses of direction, place or time), and in place of *pūrva*, *pur*; of *adhara*, *adh*; of *avara*, *av*. Here *pūrva* + *asi* → *pur + as* = *puras*. *taddhitaś cāsarvavibhaktiḥ* (Pā. 1-1-38 [?]): a *taddhita*-ending word that cannot take all the case-endings is called *avyaya*; so *puras* is an indeclinable. The *taddhita*-suffixes counted begin with *bahvalpārthāc chas kārakād anyatarasyām* (Pā. 5-4-42 [?]) and run to *samāsāntāḥ* (Pā. 5-4-68 [?]), so *asi* is counted. *puro 'vyayam* (Pā. 1-4-67 as read, [?]): *gati*-designation; *kugatiprādayaḥ* gives the compound with *hita*; *gatir anantaraḥ* (Pā. 6-2-49 as read [?]): when a word ending with a *karmaṇi*-suffix follows, the preceding *gati* retains its natural accent. The word *puras* has end-acute by its suffix. From *ḍudhāñ*, the *kta* suffix; *dadhāter hiḥ* (Pā. 7-4-42 as read [?]): *hi* in place of *dhā*; *hita*. **|| 10 ||**
+- **dīdetha**: root *dīdī dīptau*, used in the Veda only; *liṭ*, *sip*, *thal* in place of *sip* by a rule beginning *parasmaipadānāṃ ṇalatusus…* (as printed); doubling avoided by the Kāśikā statement quoted in the bhāṣya (printed "Kāśi 6-1-8-1"), hence *liṭ*-doubling absent; the *iṭ* augment likewise does not come (*āgamaśāstram anityam*, printed as "paribhā[ṣā] 96"); *guṇa*: *dīdetha*; the all-unaccented (*sarvānudātta*) does not come since the word is at the beginning of a *pāda*; the end-acute from the root remains.
+### Page 527
+
+- **viśvadarśataḥ**: root *viś praveśane*; the suffix *kvan* by an Uṇādi-sūtra beginning *āśū pṛṣi…* (no number printed); the word is *ādyudātta* by *nit* (the suffix being *nit*). For *dṛś prekṣaṇe*: the suffix *atac* by "*bhṛmṛdṛśi yajiparvi pacy amitanināmi haryibhyo 'tac*" (Uṇ. 3-390); *dṛś + ata*, *guṇa*; *viśvaiḥ darśataḥ* = "*darśanīyaḥ*, one fit to be seen by all". By the *antodātta*-rule: "*marudvṛdhādīnāṃ chandasy upasaṅkhyānam*" (Pā. 6-2-106-2) the first member gets end-acute.
+- **purohitaḥ**: *pūrvādharāvarāṇām asi puradhavaś caiṣām* (printed "Pā. 5-4-3-9" [as printed; for 5-3-39]): after *pūrva, adhara, avara*, the suffix *asi* (in the senses of direction, place or time), and in place of *pūrva*, *pur*; of *adhara*, *adh*; of *avara*, *av*. Here *pūrva* + *asi* → *pur + as* = *puras*. *taddhitaś cāsarvavibhaktiḥ* (Pā. 1-1-38): a *taddhita*-ending word that cannot take all the case-endings is called *avyaya*; so *puras* is an indeclinable. The *taddhita*-suffixes counted begin with *bahvalpārthāc chas kārakād anyatarasyām* (Pā. 5-4-42) and run to *samāsāntāḥ* (Pā. 5-4-68), so *asi* is counted. *puro 'vyayam* (Pā. 1-4-67): *gati*-designation; *kugatiprādayaḥ* gives the compound with *hita*; *gatir anantaraḥ* (Pā. 6-2-49): when a word ending with a *karmaṇi*-suffix follows, the preceding *gati* retains its natural accent. The word *puras* has end-acute by its suffix. From *ḍudhāñ*, the *kta* suffix; *dadhāter hiḥ* (Pā. 7-4-42): *hi* in place of *dhā*; *hita*. **|| 10 ||**
 
 ---
 
