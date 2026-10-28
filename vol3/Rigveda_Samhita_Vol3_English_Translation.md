@@ -9483,39 +9483,45 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 462)*
 
-> शतं वा यः शुचीनां सहस्रं वा समाशिराम् ।
-> एदु निम्नं न रीयते ॥ २ ॥
+*(As printed, the anudātta bar stands under* वा *after* शतं *and under* स *of* सहस्रं*, and the svarita stroke over* मा *of* समाशिरां*.)*
 
-> *śataṃ vā yaḥ śucīnāṃ sahasraṃ vā samāśirām |*
-> *edu nimnaṃ na rīyate ‖ 2 ‖*
+> श॒तं वा॒ यः शुची॑नां स॒हस्रं॑ वा॒ समा॑शिरां ।
+> एदु॑ नि॒म्नं न री॑यते ॥ २ ॥
+
+> *śatáṃ vā yáḥ śúcīnāṃ sahásraṃ vā sámāśirāṃ |*
+> *édu nimnáṃ ná rīyate || 2 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> शतम् । वा । यः । शुचीनाम् । सहस्रम् । वा । सम्ऽआशिराम् ।
-> आ । इत् । ऊं इति । निम्नम् । न । रीयते ॥ २ ॥
+> शतं । वा । यः । शुचीनां । सहस्रं । वा । संऽआशिरां ।
+> आ । इत् । ऊं इति । निम्नं । न । रीयते ॥ २ ॥
 
-> *śatam | vā | yaḥ | śucīnām | sahasram | vā | sam 'āśirām |*
-> *ā | it | ūṃ iti | nimnam | na | rīyate ‖ 2 ‖*
+> *śataṃ | vā | yaḥ | śucīnāṃ | sahasraṃ | vā | saṃ 'āśirāṃ |*
+> *ā | it | ūṃ iti | nimnaṃ | na | rīyate ‖ 2 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 462)*
 
-> य इन्द्रः शुचीनां शुद्धानां सोमानां शतं वा शतसंख्याकं समूहं वा । समाशिरां समीचीनेनाशिराख्येन श्रपणद्रव्येणोपेतानां सोमानां सहस्रं वा सहस्रसंख्याकं समूहं वा । एदु ईयते । आगच्छत्येव । सोऽस्मानन्ग्रहीष्यतीति [?] शेषः । सोमप्राप्तौ दृष्टान्तः । निम्नं न । यथा निम्नप्रदेशमापः आप्नुवन्ति तद्वत् ॥ समाशिराम् । श्रीञ् पाके इत्यस्य समाङ्पूर्वस्य क्विप्यस्पृधेथामानृचु इत्यादावाशीरादेशो निपातितः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । रीयते । रीङ् श्रवणे । दिवादिभ्यः श्यन् ॥
+> य इन्द्रः शुचीनां शुद्धानां सोमानां शतं वा शतसंख्याकं समूहं वा । समाशिरां समीचीनेनाशिराख्येन श्रपणद्रव्येणोपेतानां सोमानां सहस्रं वा सहस्रसंख्याकं समूहं वा एदुरीयते । आगच्छत्येव । सोऽस्माननुगृह्णात्विति शेषः । सोमप्राप्तौ दृष्टान्तः । निम्नं न । यथा निम्नप्रदेशमाप आप्नुवन्ति तद्वत् ॥ समाशिराम् । श्रीञ् पाक इत्यस्य समाङ्पूर्वस्य क्विप्यपस्पृधेथामित्यादावाशीरादेशो निपातितः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । रीयते । रीङ् श्रवणे । दिवादिभ्यः श्यन् ॥
 
-> *ya indraḥ śucīnāṃ śuddhānāṃ somānāṃ śataṃ vā śatasaṃkhyākaṃ samūhaṃ vā | samāśirāṃ samīcīnenāśirākhyena śrapaṇadravyeṇopetānāṃ somānāṃ sahasraṃ vā sahasrasaṃkhyākaṃ samūhaṃ vā | edu īyate | āgacchatyeva | so 'smānangrahīṣyatīti [?] śeṣaḥ | somaprāptau dṛṣṭāntaḥ | nimnaṃ na | yathā nimnapradeśamāpaḥ āpnuvanti tadvat ‖ samāśirām | śrīñ pāke ityasya samāṅpūrvasya kvipyaspṛdhethāmānṛcu ityādāvāśīrādeśo nipātitaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | rīyate | rīṅ śravaṇe | divādibhyaḥ śyan ‖*
+> *ya indraḥ śucīnāṃ śuddhānāṃ somānāṃ śataṃ vā śatasaṃkhyākaṃ samūhaṃ vā | samāśirāṃ samīcīnenāśirākhyena śrapaṇadravyeṇopetānāṃ somānāṃ sahasraṃ vā sahasrasaṃkhyākaṃ samūhaṃ vā edurīyate | āgacchatyeva | so 'smānanugṛhṇātviti śeṣaḥ | somaprāptau dṛṣṭāntaḥ | nimnaṃ na | yathā nimnapradeśamāpa āpnuvanti tadvat ‖ samāśirām | śrīñ pāka ityasya samāṅpūrvasya kvipyapaspṛdhethāmityādāvāśīrādeśo nipātitaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | rīyate | rīṅ śravaṇe | divādibhyaḥ śyan ‖*
 
-*Translation:* "The Indra who [receives] a hundred — a group of a hundred — of pure Soma-offerings, or a thousand — a group of a thousand — of Soma-offerings joined with the *āśir* (mixing) substance: he comes (*ed u īyate*) — comes indeed; [the supplied rest:] 'he will favour us'. Illustration of reaching the Soma: *nimnaṃ na* — as waters reach a low place." *(The Sanskrit after* anugrahīṣyati *is read with doubt [?].)* Grammar tail: *samāśirām* — *śrīñ pāke* with *sam* and *ā*; *kvip*; the substitute *āśīr* fixed as a *nipātana* (P. 6-1-36 *āpasprdhethām…* [as read]); a bahuvrīhi with first-member accent; *rīyate* — *rīṅ śravaṇe*, *divādi*, *śyan*.
+*Translation:* "The Indra who [receives] a hundred — a group of a hundred — of pure Soma-offerings, or a thousand — a group of a thousand — of Soma-offerings joined with the *āśir*, the right cooking (mixing) substance: he comes (*ed u rīyate*) — comes indeed; [the supplied rest:] 'may he favour us'. Illustration of reaching the Soma: *nimnaṃ na* — as waters reach a low place, so." The grammatical tail treats *samāśirām* (*śrīñ pāke* with *sam* and *āṅ*; *kvip*; the substitute *āśīr* fixed by *nipātana* in the rule beginning *apaspṛdhethām*; a bahuvrīhi with the first member's own accent) and *rīyate* (*rīṅ śravaṇe*; *śyan* of the *divādi* class). No sūtra numbers are printed in the bhāṣya.
 
 **Pratipadārtha** *(p. 462, rendered)* — **यः** which Indra; **शुचीनाम्** of pure; **शतं वा** a hundred [Soma-juices] or; **समाशिराम्** of Soma-juices mixed with purified sweet substances; **सहस्रं वा** a thousand [to receive them]; **निम्नं न** as water [flows] to a low place; **एदु रीयते** comes (naturally) [may that Indra favour us].
 
 **Bhāvārtha** *(pp. 462–463)* — May that Indra, who accepts a hundred pure Soma-juices and a thousand mixed with sweet substances, come to us, easy and natural, like a stream of water flowing to a low place, and favour us.
 
+### Page 463 — Sūkta 30, Rik 2 (continued)
+
 **English Translation** *(as printed, p. 463)*
 
 > May he who (drinks) of a hundred pure and thousand mixed libations of Soma come to this sacrifice as water runs to a low place.
 
-**Viśeṣa-viṣayagaḷu** *(p. 463)* — **शतं, सहस्रम्** — though *śata* and *sahasra* mean only a hundred and a thousand, the sense is a hundred or a thousand vessels (or sacrificial offerings) of Soma-juice. **समाशिराम्** — Soma-juices joined with *āśir* substances: milk, curds, barley-meal; with milk it is *gavāśir*, with curds *dadhyāśir*, with barley *yavāśir*; the rik names none, so it is Soma mixed with some one of them. **आ इत् उ रीयते** — *āgacchatīva, dhāvatīva*: comes, runs, quickly. **निम्नं न** — *nimna* is a low place, a hollow; as water runs naturally to a lower place, so Indra comes to our sacrifice to drink Soma.
+**Viśeṣa-viṣayagaḷu** *(p. 463)* — **शतं, सहस्रम्** — though *śata* and *sahasra* mean only a hundred and a thousand, the sense is a hundred or a thousand vessels (or sacrificial offerings) of Soma-juice. **समाशिराम्** — Soma-juices joined with *āśir* substances: milk, curds, barley-meal; with milk it is *gavāśir*, with curds *dadhyāśir*, with barley *yavāśir*; the rik names none, so it is Soma mixed with some one of them. **आ इत् उ रीयते** — *āgacchaty eva, dhāvaty eva*: he does come, comes quickly. **निम्नं न** — *nimna* is a low place, a hollow; as water runs naturally to a lower place, so Indra comes to our sacrifice to drink Soma.
 
-**Grammar (pp. 463–464), noted briefly:** *samāśirām* (*śrīñ pāke*, *kryādi*; *kvip* P. 3-2-76; *āśīr* by *nipātana* P. 6-1-36 [as read]; bahuvrīhi P. 6-2-1); *rīyate* (*rīṅ śravaṇe*, *divādi*; *śyan* P. 3-1-69; *e* by P. 3-4-79; lowering P. 8-1-28 [as read]).
+**Vyākaraṇa-prakriyā** *(pp. 463–464, noted briefly)* — *samāśirām*: *śrīñ pāke*, *kryādi*, with *sam* and *āṅ*; *kvip* by '*kvip ca*' (Pā. sū. 3-2-76); *āśīr* by *nipātana* under '*apaspṛdhethām ānṛcuḥ*' (Pā. sū. 6-1-36); genitive plural; *(p. 464)* first-member accent by '*bahuvrīhau prakṛtyā pūrvapadam*' (Pā. sū. 6-2-1), initial udātta. *rīyate*: *rīṅ śravaṇe*, *divādi*, the sense changed by the preverb; *ātmanepada* (*ṅit*); *e* by '*ṭita ātmanepadānām*' (Pā. sū. 3-4-79); *śyan* by '*divādibhyaḥ śyan*' (Pā. sū. 3-1-69); unaccented by '*tiṅṅ atiṅaḥ*' (Pā. sū. 8-1-28).
 
 ---
 
