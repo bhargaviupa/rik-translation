@@ -11,7 +11,7 @@ fresh session: read this file and `vol4/vol4_state.md` first, continue from wher
 ## Inputs
 - Main file: `Rigveda_Samhita_Vol4_English_Translation.md` at the **repository root** (not in `vol4/`; the build reads it there). Same pass
   as Vol 3: numeral corrections, `[?]` resolution, other errors found against the scan, printed Saṃhitā accents.
-- Scan: the better scan `scans/04 RigvedaSamhithaVolume04 1..7.pdf` (701 PDF pages, `tools/cfg.py`); page map and open questions (extra page near PDF 101–105, 78 unexplained pages after PDF 623) in `vol4_state.md`. The old `Rig_Vol4.pdf` is the fallback for any missing page.
+- Scan: the better scan `scans/04 RigvedaSamhithaVolume04 1..7.pdf` (701 PDF pages, `tools/cfg.py`); page map notes in `vol4_state.md`. **Work strictly in page order from the front; the extra page near PDF 101–105 is handled when reached, the 78 unexplained pages after PDF 623 only in the last batch.** The old `Rig_Vol4.pdf` is the fallback for any missing page.
 - Tools in `vol4/tools/` (copied from `vol3/tools/`; run from that folder; `cfg.py` holds the paths, `WORK=/tmp/v4num/`). Review pages, edits and
   notes go to `vol4/review/`; the batch log is `vol4/vol4_pass_log.md`.
 - No Vol 3-style special sections are known for Vol 4 (no redone block, no restored note). The preface (PDF 7–10) is untranslated by design.
