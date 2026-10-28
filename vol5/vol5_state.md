@@ -1,6 +1,6 @@
 # Vol 5 numeral + [?] pass — state
 
-Status: not started (translation complete; scans not yet placed in `vol5/scans/`).
+Status: not started. **Better scan uploaded by the user (Oct 28)** in `vol5/scans/` (parts of 100 PDF pages; at first 3 parts = PDF 1–300, more to follow). `tools/cfg.py` finds the parts automatically; `tools/view.py` reads them. Page map checked at the start: PDF 17 = printed p. 1, PDF 18 = p. 2 (printed = PDF − 16, as in the old scan); re-check as the pass goes.
 **Last PDF page done: none.**
 
 ## Reference
