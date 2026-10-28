@@ -471,23 +471,17 @@ Kannada prose with sūtras quoted; numerals re-read on the better scan (zoomed o
 
 (the explanation continues: "… the *śas* is acute"). — **jakṣataḥ** — root *jakṣa bhakṣahasanayoḥ*, *laṭ*, *śatṛ*, *śap* elided as before; *jakṣityādayaḥ ṣaṭ* — जक्षित्यादयः षट् (*jakṣityādayaḥ ṣaṭ*) — Pā. 6-1-6: *jakṣ* and the six roots beginning with *jāgṛ* (the *bahuvrīhi* "*ādir yeṣāṃ te*" read as *tadguṇasaṃvijñāna*, so that *jakṣ* itself is included) are called *abhyasta*; then *abhyastānām ādiḥ* — अभ्यस्तानामादिः (*abhyastānām ādiḥ*) — Pā. 6-1-189 makes the first syllable acute before a vowel-initial *lasārvadhātuka* without *iṭ*. — **sunvataḥ** — root *ṣuñ abhiṣave*; *dhātvādeḥ ṣaḥ saḥ* — धात्वादेः षः सः (*dhātvādeḥ ṣaḥ saḥ*) — Pā. 6-1-64; *laṭ*–*śatṛ*; *svādibhyaḥ śnuḥ* — स्वादिभ्यः श्नुः (*svādibhyaḥ śnuḥ*) — Pā. 3-1-73; *huśnuvoḥ sārvadhātuke* — हुश्नुवोः सार्वधातुके (*huśnuvoḥ sārvadhātuke*) — Pā. 6-4-87 gives *yaṇ* (*u* → *v*); genitive singular *ṅas*; ending acute by *śatur anumaḥ*. — **stuvataḥ** — root *ṣṭuñ stutau*; *ṣ* → *s*, and the *ṭ* goes by *nimittāpāye naimittikasyāpy apāyaḥ*; *śap* elided (*adādi*); *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* — अचि श्नुधातुभ्रुवां य्वोरियङुवङौ (*aci śnudhātubhruvāṃ yvor iyaṅuvaṅau*) — Pā. 6-4-77 gives *uvaṅ*: *stuvat*; *ṅas* acute as before. Rik 7 ends here (*|| 7 ||*).
 
-### Rik 33.8 (p. 36 onward, PDF 50–)
+### Rik 33.8 (pp. 36–39, PDF 50–53)
 
-**Saṃhitā-pāṭha** *(first line only, at the foot of p. 36; the rest follows on p. 37 and is not yet written)*
+**Saṃhitā-pāṭha** *(first line at the foot of p. 36, second line on p. 37; Saṃhitā accents as printed; Pada unaccented)*
 
-> **चक्राणासः परीणहं पृथिव्या हिरण्येन मणिना शुम्भमानाः ।**
+> च॒क्रा॒णास॑ः परी॒णहं॑ पृथि॒व्या हिर॑ण्येन म॒णिना॒ शुम्भ॑मानाः ।
+> न हि॑न्वा॒नास॑स्तितिरु॒स्त इन्द्रं॒ परि॒ स्पशो॑ अदधा॒त्सूर्ये॑ण ॥ ८ ॥
+>
+> *cakrāṇā́saḥ parīṇáhaṃ pṛthivyā́ híraṇyena maṇínā śúmbhamānāḥ |*
+> *ná hinvānā́sas titirus tá indram pári spáśo adadhāt sū́ryeṇa || 8 ||*
 
-*cakrāṇāsaḥ parīṇahaṃ pṛthivyā hiraṇyena maṇinā śumbhamānāḥ |*
-
-### Rik 33.8 (pp. 37–39, PDF 51–53)
-
-**Saṃhitā-pāṭha** *(pp. 36–37; accents not reproduced; the first line was given at the foot of p. 36)*
-
-> **चक्राणासः परीणहं पृथिव्या हिरण्येन मणिना शुम्भमानाः ।**
-> **न हिन्वानासस्तितिरुस्त इन्द्रं परि स्पशो अदधात्सूर्येण ॥ ८ ॥**
-
-*cakrāṇāsaḥ parīṇahaṃ pṛthivyā hiraṇyena maṇinā śumbhamānāḥ |*
-*na hinvānāsas titirus ta indraṃ pari spaśo adadhāt sūryeṇa || 8 ||*
+### Page 37
 
 **Pada-pāṭha** *(p. 37)*
 
@@ -497,25 +491,33 @@ Kannada prose with sūtras quoted; numerals re-read on the better scan (zoomed o
 *cakrāṇāsaḥ | pari-naham | pṛthivyāḥ | hiraṇyena | maṇinā | śumbhamānāḥ ||*
 *na | hinvānāsaḥ | titiruḥ | te | indram | pari | spaśaḥ | adadhāt | sūryeṇa || 8 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 37; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 37, in full; numerals zoom-checked)*
 
-> ये वृत्रानुचराः पृथिव्या भूमेः परीणहमाच्छादनं सर्वतो व्याप्तिं चक्राणासः कुर्वाणा हिरण्येन हिरण्ययुक्तेन मणिना कण्ठबाह्वादिगतेन मण्याद्याभरणेन शुम्भमानाः शोभमानाः हिन्वानासो वर्धमानाः सन्तो वर्तन्ते ते तथाविधा वृत्रानुचरा इन्द्रं युद्धायोद्यन्तं न तितिरुः । जेतुं न समर्था आसन् । तदानीं स इन्द्रः स्पशो बाधकान्वृत्रानुचरान्सूर्येणादित्येन पर्यदधात् । परिहितान्व्यवहितानकरोत् । तथा च ब्राह्मणम् । आदित्यो हैवोद्यन्पुरस्ताद्रक्षांस्यपहन्तीति ॥
+> ये वृत्रानुचराः पृथिव्या भूमेः परीणहमाच्छादनं सर्वतो व्याप्तिं चक्राणासः कुर्वाणा हिरण्येन हिरण्ययुक्तेन मणिना कण्ठबाह्वादिगतेन मण्याद्याभरणेन शुम्भमानाः शोभमाना हिन्वानासो वर्धमानाः सन्तो वर्तन्ते ते तथाविधा वृत्रानुचरा इन्द्रं युद्धायोद्यन्तं न तितिरुः । जेतुं न समर्था आसन् । तदानीं स इन्द्रः स्पशो बाधकान्वृत्रानुचरान् सूर्येणादित्येन पर्यदधात् । परिहितान् व्यवहितानकरोत् । तथा च ब्राह्मणम् । आदित्यो ह्येवोद्यन् पुरस्ताद्रक्षांस्यपहन्तीति ॥ चक्राणासः । करोतेश्छन्दसि लिडिति वर्तमाने लिटः कानच् । ततोऽसुक् । चित इत्यन्तोदात्तत्वम् । परीणहम् । परिणहनं परीणत् । परिपूर्वान्नह्यतेर्भावे क्विपि नहिवृतीत्यादिना । पा. ६-३-११६ । पूर्वपदस्य दीर्घः । पृथिव्याः । उदात्तयण इति विभक्तेरुदात्तत्वम् । हिन्वानासः । हि गतौ वृद्धौ च । ताच्छीलिकश्चानश् । तितिरुः । तिरतिर्गत्यर्थः ॥ ॥ ८ ॥
 
-*ye vṛtrānucarāḥ pṛthivyā bhūmeḥ parīṇaham ācchādanaṃ sarvato vyāptiṃ cakrāṇāsaḥ kurvāṇā hiraṇyena hiraṇyayuktena maṇinā kaṇṭhabāhvādigatena maṇyādyābharaṇena śumbhamānāḥ śobhamānāḥ hinvānāso vardhamānāḥ santo vartante te tathāvidhā vṛtrānucarā indraṃ yuddhāyodyantaṃ na titiruḥ | jetuṃ na samarthā āsan | tadānīṃ sa indraḥ spaśo bādhakān vṛtrānucarān sūryeṇādityena paryadadhāt | parihitān vyavahitān akarot | tathā ca brāhmaṇam | ādityo haivodyan purastād rakṣāṃsy apahantīti ||*
+*ye vṛtrānucarāḥ pṛthivyā bhūmeḥ parīṇahamācchādanaṃ sarvato vyāptiṃ cakrāṇāsaḥ kurvāṇā hiraṇyena hiraṇyayuktena maṇinā kaṇṭhabāhvādigatena maṇyādyābharaṇena śumbhamānāḥ śobhamānā hinvānāso vardhamānāḥ santo vartante te tathāvidhā vṛtrānucarā indraṃ yuddhāyodyantaṃ na titiruḥ | jetuṃ na samarthā āsan | tadānīṃ sa indraḥ spaśo bādhakānvṛtrānucarān sūryeṇādityena paryadadhāt | parihitān vyavahitānakarot | tathā ca brāhmaṇam | ādityo hyevodyan purastādrakṣāṃsyapahantīti ‖ cakrāṇāsaḥ | karoteśchandasi liḍiti vartamāne liṭaḥ kānac | tato 'suk | cita ityantodāttatvam | parīṇaham | pariṇahanaṃ parīṇat | paripūrvānnahyaterbhāve kvipi nahivṛtītyādinā | pā. 6-3-116 | pūrvapadasya dīrghaḥ | pṛthivyāḥ | udāttayaṇa iti vibhakterudāttatvam | hinvānāsaḥ | hi gatau vṛddhau ca | tācchīlikaścānaś | titiruḥ | tiratirgatyarthaḥ ‖ ‖ 8 ‖*
 
-**Translation:** "Those followers of Vṛtra who *cakrāṇāsaḥ* — making — a *parīṇaha* of the earth, a covering, an all-round pervasion; *hiraṇyena maṇinā* — shining with golden jewel-ornaments worn on the neck, arms and so on; *hinvānāsaḥ* — growing — *na titiruḥ* — were unable to overcome Indra as he rose for battle: they were not strong enough to conquer. Then that Indra *pari adadhāt* — put round, i.e. cut off, hid away — the *spaśaḥ*, the harassers, the followers of Vṛtra, by means of Sūrya, the Sun. So says a Brāhmaṇa: 'The sun, rising in the east, indeed drives away the rākṣasas.'"
+*(Print: "ಆದಿತ್ಯೋ ಹ್ಯೇವೋದ್ಯನ್" = आदित्यो ह्येवोद्यन्, where the earlier text had हैवोद्यन्; "परीणत्" as printed, for the *kvip* form *parīṇah*.)*
 
-**Grammar within the bhāṣya** *(p. 37, characterized)*: *cakrāṇāsaḥ* (the root *kṛ*, the Vedic *liṭ* in the present sense, the participle *kānac*, *āsuk* augment [the print's cited sūtras are *chandasi liḍ…* and *ājjaser asuk*]; accent on the last syllable by *cit*), *parīṇaham* (root *ṇaha bandhane* with *pari*, *kvip*, and the lengthening of the first member by *nahivṛtivṛṣivyadhiruci…* — Pā. 6-3-116 [as printed]), *pṛthivyāḥ* (the ending acute by the *udāttayaṇo hal-pūrvāt* rule), *hinvānāsaḥ* (root *hi gatau vṛddhau ca*, suffix *cānaś* by *tācchīlyavayovacanaśaktiṣu cānaś*, the plural *jas* with *asuk*), *titiruḥ* (root *tṝ*, *liṭ* third plural *us*).
+**Translation:** "Those followers of Vṛtra who *cakrāṇāsaḥ* — making — a *parīṇaha* of the earth, a covering, an all-round pervasion; *hiraṇyena maṇinā* — shining with golden jewel-ornaments worn on the neck, arms and so on; *hinvānāsaḥ* — growing — *na titiruḥ* — were unable to overcome Indra as he rose for battle: they were not strong enough to conquer. Then that Indra *pari adadhāt* — put round, i.e. cut off, hid away — the *spaśaḥ*, the harassers, the followers of Vṛtra, by means of Sūrya, the Sun. So says a Brāhmaṇa: 'The sun indeed, rising in the east, drives away the rākṣasas.'" *(The grammatical tail: *cakrāṇāsaḥ* — root *kṛ*, Vedic *liṭ* in the present, *kānac*, then *asuk*, final acute because *kānac* is *cit*; *parīṇaham* — *pari* + *nah* + *kvip* in the state-sense, lengthening of the first member by *nahivṛti…*, Pā. 6-3-116; *pṛthivyāḥ* — the ending acute by *udāttayaṇaḥ…*; *hinvānāsaḥ* — root *hi*, the habitual *cānaś*; *titiruḥ* — the root *tṛ* in the sense of going.)*
 
-**Pratipadārtha** *(pp. 37–38)* — "(**ye** — those followers of Vṛtra who) **pṛthivyāḥ** — of the earth; **parīṇaham** — a covering all round; **cakrāṇāsaḥ** — making; **hiraṇyena** — with ornaments of gold; **maṇinā** — with those set with gems; **śumbhamānāḥ** — shining; **hinvānāsaḥ** — flourishing; **te** — those rākṣasas; **indram** — Indra; **na titiruḥ** — could not conquer; **spaśaḥ** — those harassing rākṣasas; **sūryeṇa** — by means of the sun; **pari adadhāt** — (Indra) scattered and destroyed."
+**Pratipadārtha** *(pp. 37–38)* — "(**ye** — those followers of Vṛtra who) **pṛthivyāḥ** — for the earth; **parīṇaham** — a covering all round; **cakrāṇāsaḥ** — making; **hiraṇyena** — with ornaments of gold; **maṇinā** — with gem-set
 
-**Bhāvārtha** *(p. 38)* — "The rākṣasas, the followers of Vṛtra, covered all the earth. They shone with ornaments set with gold and gems, and they were increasing. Yet they could not conquer Indra. With the help of the Sun Indra scattered such oppressing rākṣasas."
+### Page 38
+
+ornaments; **śumbhamānāḥ** — shining; **hinvānāsaḥ** — though they were growing; **te** — those rākṣasas; **indram** — Indra; **na titiruḥ** — could not conquer; **spaśaḥ** — those harassing rākṣasas; **sūryeṇa** — by means of the sun; **pari adadhāt** — (Indra) scattered and destroyed."
+
+**Bhāvārtha** *(p. 38)* — "The rākṣasas, the followers of the asura Vṛtra, covered all the earth. They shone with ornaments set with gold and gems, and they were increasing. Yet they could not conquer Indra. With the help of the Sun Indra scattered such oppressing rākṣasas."
 
 **English Translation (the source's own, p. 38)** — "Decorated with gold and jewels they (demons) were spreading over (round) the earth ; but though they were mighty they could not vanquish Indra ; he (Indra) dispersed them (with the light of the Sun) at Sunrise" *(no full stop in the print)*.
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 38** — **parīṇaham** = *ācchādanaṃ sarvato vyāptim*: "pervasion, covering. In the Taittirīya Saṃhitā of the Yajurveda (Tai. Saṃ. 6-2-1-1 [?]), in the sentence '*pārīṇahyasyaiśe patnyaivānumataṃ nirvapati*' [as read from the print; the second word is uncertain], the word *pārīṇahya* is used in the sense 'vessels used for household work'."
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 38** — **parīṇaham** = *ācchādanaṃ sarvato vyāptim*: "pervasion, covering. In the Taittirīya Saṃhitā of the Yajurveda (Tai. Saṃ. 6-2-1-1, zoom-checked), in the sentence पारीण्यह्यस्यैशे पत्नि[य्यै?]वानुमतं निर्वपति (*pārīṇyahyasyaiśe patni[yyai?]vānumataṃ nirvapati*) [as printed, letter by letter; the print's conjuncts are crowded], the word *pārīṇahya* is used in the sense 'vessels used for household work'."
 
-**Vyākaraṇa-prakriyā** *(pp. 38–39, grammar pages — noted briefly)*: **cakrāṇāsaḥ** (root *(ḍu)kṛñ karaṇe*; *liṭ* shown to be in the present sense by *chandasi luṅlaṅliṭaḥ* — छन्दसि लुङ्लङ्लिटः — Pā. 3-4-6; *kānac* for *liṭ* by *liṭaḥ kānajvā* — लिटः कानज्वा — Pā. 3-2-106; doubling by *liṭi dhātor anabhyāsasya* — Pā. 6-1-8; *ur at* — उरत् — Pā. 7-4-66 with *halādiḥ śeṣaḥ*, *ścutva*, then *yaṇ*: *cakrāna*; *na* → *ṇa*; *jas* with the augment *asuk* by *ājjaser asuk* — आज्जसेरसुक् — Pā. 7-1-50; *ru*, *visarga*; the *kānac* ending is *cit* so the word is final-acute — *cita* [Pā. 6-1-163]). **parīṇaham** (*pari* + root *ṇaha bandhane* + *kvip*; lengthening of *pari* by *nahivṛtivṛṣivyadhiruci­sahitanīṣu kvau* — Pā. 6-3-116; *n* → *ṇ* by *aṭkupvāṅnumvyavāye 'pi* — Pā. 8-4-2; accusative singular *am*). **pṛthivyāḥ** (the Uṇādi sūtra *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् संप्रसारणं च — [Uṇ. number as printed: 4-2-?? [?]]; root *prath prakhyāne*, *ṣivan*, *saṃprasāraṇa* of the *r*, giving *pṛthivi*; being *ṣit*, it takes *ṅīṣ* by *ṣiddhaurādibhyaś ca* — Pā. 4-1-41; loss of the *a* by *yasyeti ca* — Pā. 6-4-148; *ī* acute by the suffix accent; the augment *āṭ* before *ṅas* by *āṇ nadyāḥ* — Pā. 7-3-112; *vṛddhi* by *āṭaś ca* — Pā. 6-1-90; *yaṇ* in place of the acute *ī*; the ending acute by *udāttayaṇo hal-pūrvāt* — Pā. 6-1-174). **hinvānāsaḥ** (root *hi gatau vṛddhau ca*, with *cānaś* by *tācchīlyavayovacanaśaktiṣu cānaś* — Pā. 3-2-129 — "of a habitual nature, age, power": the sense is "growing by habit"; *śnu* by *svādibhyaḥ śnuḥ* — Pā. 3-1-73; *yaṇ* by *huśnuvoḥ…*; *jas* with *asuk*; *ru*, *visarga*). Rik 8 ends here (*|| 8 ||*).
+**Vyākaraṇa-prakriyā** *(pp. 38–39, grammar pages — noted briefly; numerals zoom-checked)*: **cakrāṇāsaḥ** — root *(ḍu)kṛñ karaṇe*; *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ* — छन्दसि लुङ्लङ्लिटः (*chandasi luṅlaṅliṭaḥ*) — Pā. 3-4-6; *kānac* for *liṭ* by *liṭaḥ kānaj vā* — लिटः कानज्वा (*liṭaḥ kānaj vā*) — Pā. 3-2-106; doubling by *liṭi dhātor anabhyāsasya* — लिटि धातोरनभ्यासस्य (*liṭi dhātor anabhyāsasya*) — Pā. 6-1-8; *a* (with *r*) for the reduplicate's vowel by *ur at* — उरत् (*ur at*) — Pā. 7-4-55 as printed [sic: both digits are the 5-glyph, as in 7-1-50 below; the usual number is 7-4-66]; *halādiḥ śeṣaḥ*, *ścutva*, *yaṇ*: *cakrāna*, *n* → *ṇ*; *jas* takes *asuk* by *ājjaser asuk* — आज्जसेरसुक् (*ājjaser asuk*) — Pā. 7-1-50; *ru* and *visarga*; *kānac* is *cit*, so by *citaḥ* — चितः (*citaḥ*) — Pā. 6-1-163 the word is final-acute.
+
+### Page 39
+
+**parīṇaham** — *pari* + root *ṇaha bandhane* + *kvip*; *nahivṛtivṛṣivyadhirucisahitaniṣu kvau* — नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ (*nahivṛtivṛṣivyadhirucisahitaniṣu kvau*) — Pā. 6-3-116 lengthens the first member before these roots ending in *kvip*; *aṭkupvāṅ…* — Pā. 8-4-2 gives *ṇ*; accusative singular *am*. — **pṛthivyāḥ** — *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् संप्रसारणं च (*pratheḥ ṣivan saṃprasāraṇaṃ ca*) — Uṇ. Sū. 5-2-148 (as printed): root *pratha prakhyāne* + *ṣivan* with *saṃprasāraṇa* of the *r*: *pṛthiva*; being *ṣit*, *ṣidgaurādibhyaś ca* — षिद्गौरादिभ्यश्च (*ṣidgaurādibhyaś ca*) — Pā. 4-1-41 gives *ṅīṣ*; *yasyeti ca* (Pā. Sū., no number printed) drops the *a*; the *ī* of *ṅīṣ* is acute by the suffix accent; *ṅas*; *āṇ nadyāḥ* — आण्नद्याः (*āṇ nadyāḥ*) — Pā. 7-3-112 gives the augment *āṭ*; *āṭaś ca* (Pā. Sū., no number printed) gives *vṛddhi*; *yaṇ* comes in place of the acute *ī*; *udāttayaṇo halpūrvāt* — उदात्तयणो हल्पूर्वात् (*udāttayaṇo halpūrvāt*) — Pā. 6-1-174 makes the ending acute. — **hinvānāsaḥ** — root *hi gatau vṛddhau ca*; *tācchīlyavayovacanaśaktiṣu cānaś* — ताच्छील्यवयोवचनशक्तिषु चानश् (*tācchīlyavayovacanaśaktiṣu cānaś*) — Pā. 3-2-129 (*cānaś* in the agent sense for habit, age or ability: "those whose nature is to grow"); *svādibhyaḥ śnuḥ* — Pā. 3-1-73; *yaṇ* by *huśnuvoḥ…*; *jas* with *asuk*; *ru* and *visarga*. Rik 8 ends here (*|| 8 ||*).
 
 ### Rik 33.9 (pp. 39–42, PDF 53–56)
 
