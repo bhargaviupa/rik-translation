@@ -1210,24 +1210,20 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 - **vāsasaḥ**: root *vasa ācchādane*, "to cover, to clothe"; *vāsaḥ* denotes the day (*ahaḥ*) because it covers with light; with the causative *ṇic*, the Uṇādi suffix *asun*, *upadhā-vṛddhi*, loss of *ṇi*, *jas*, *ru* and *visarga*.
 - **abhyāyaṃsenyā**: the two preverbs *abhi*, *ā* before *yama uparame*, the Uṇādi suffix *senya*: *abhi + ā + yam + senya*; *yaṇ*-substitution; *abhyāyam + senya*; *m* → anusvāra by *naś cāpadāntasya jhali* — Pā. 8-3-24; the dual ending replaced by *ā* by *supāṃ sulug…*. Rik 1 ends here (*|| 1 ||*).
 
-### Rik 34.2 (p. 80 onward, PDF 94–)
+### Rik 34.2 (pp. 80–85, PDF 94–99)
 
-**Saṃhitā-pāṭha** *(first line only, at the foot of p. 80; accents not reproduced; the second line is on p. 81 and is not yet written)*
+**Saṃhitā-pāṭha** *(pp. 80–81; Saṃhitā accents as printed; Pada unaccented)*
 
-> **त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः ।**
+> त्रयः॑ प॒वयो॑ मधु॒वाह॑ने॒ रथे॒ सोम॑स्य वे॒नामनु॒ विश्व॒ इद्वि॑दुः ।
 
-*trayaḥ pavayo madhuvāhane rathe somasya venām anu viśva id viduḥ |*
-### Rik 34.2 (pp. 80–84, PDF 94–98)
+### Page 81
 
-**Saṃhitā-pāṭha** *(pp. 80–81; accents not reproduced)*
+> त्रयः॑ स्क॒म्भासः॑ स्कभि॒तास॑ आ॒रभे॒ त्रिर्नक्तं॑ या॒थस्त्रिर्व॑श्विना॒ दिवा॑ ॥ २ ॥ [accent ?]
+>
+> *tráyaḥ paváyo madhuvā́hane ráthe sómasya venā́m anu víśva íd viduḥ |*
+> *tráyaḥ skambhā́saḥ skabhitā́sa ārábhe trír náktaṃ yāthás trír v aśvinā dívā || 2 || [accent ?]*
 
-> **त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः ।**
-> **त्रयः स्कम्भासः स्कभितास आरभे त्रिर्नक्तं याथस्त्रिर्वश्विना दिवा ॥ २ ॥**
-
-*trayaḥ pavayo madhuvāhane rathe somasya venām anu viśva id viduḥ |*
-*trayaḥ skambhāsaḥ skabhitāsa ārabhe trir naktaṃ yāthas trir v aśvinā divā || 2 ||*
-
-*(Reading note, written after viewing the Pada on p. 81: the Saṃhitā prints "trirv-aśvinā"; the Pada divides this as* triḥ | ūṃ iti | aśvinā*, so* trir v aśvinā *is the particle* ū *joined to* aśvinā *by sandhi.)*
+(As printed: no underline is visible under the first syllable of *trayaḥ* in either line. [accent ?]: in *ārabhe* the second underline stands under ರ/ಭೇ and is given on भे; a short dash under ಕ್ತ of *naktaṃ* is taken as part of the subscript letter. The Saṃhitā prints *trir v aśvinā* ("ತ್ರಿರ್ವ-ಶ್ವಿನಾ"); the Pada divides it *triḥ | ūṃ iti | aśvinā*.)
 
 **Pada-pāṭha** *(p. 81)*
 
@@ -1237,21 +1233,25 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 *trayaḥ | pavayaḥ | madhu-vāhane | rathe | somasya | venām | anu | viśve | it | viduḥ ||*
 *trayaḥ | skambhāsaḥ | skabhitāsaḥ | ā-rabhe | triḥ | naktam | yāthaḥ | triḥ | ūṃ iti | aśvinā | divā || 2 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 81–82; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 81–82, in full)*
 
-> मधुवाहने मधुरद्रव्याणां नानाविधखाद्यादीनां वहनेन युक्तेऽश्विनोः सम्बन्धिनि रथे पवयो वज्रसमाना दृढाश्चक्रविशेषास्त्रयस्त्रिसंख्याकाः सन्ति । इत् इत्थं चक्रत्रयसद्भावप्रकारं विश्वे सर्वे देवाः सोमस्य चन्द्रस्य वेनां कमनीयां भार्यामभिलक्ष्य योत्रायां विदुः । जानन्ति । यदा सोमस्य वेनया सह विवाहस्तदानीं नानाविधखाद्ययुक्तं चक्रत्रयोपेतं प्रौढं रथमारुह्याश्विनौ गच्छत इति सर्वे देवा जानन्तीत्यर्थः । तस्य रथस्योपरि स्कम्भासः स्तम्भविशेषास्त्रयस्त्रिसंख्याकाः स्कभितासः । स्थापिताः । किमर्थम् । आरभे । आरब्धुम् । अवलम्बितुम् । यदा रथस्त्वरया याति तदानीं पतनभीतिनिवृत्त्यर्थं हस्तालम्बनभूताः स्तम्भा इत्यर्थः । हे अश्विना युवां तादृशेन रथेन नक्तं रात्रौ त्रिर्याथः । त्रिवारं गच्छथः । तथा दिवा दिवसेऽपि त्रिर्याथः । रात्र्यहनि च रथमारुह्य पुनःपुनः क्रीडथ इत्यर्थः ॥
+> मधुवाहने मधुरद्रव्याणां नानाविधखाद्यादीनां वहनेन युक्तेऽश्विनोः संबन्धिनि रथे पवयो वज्रसमाना दृढाश्चक्रविशेषास्त्रयस्त्रिसंख्याकाः सन्ति । इत् इत्थं चक्रत्रयसद्भावप्रकारं विश्वे सर्वे देवाः सोमस्य चन्द्रस्य वेनां कमनीयां भार्यामभिलक्ष्य यात्रायां विदुः । जानन्ति । यदा सोमस्य वेनया सह विवाहस्तदानीं नानाविधखाद्ययुक्तं चक्रत्रयोपेतं प्रौढं रथमारुह्याश्विनौ गच्छत इति सर्वे देवा जानन्तीत्यर्थः । तस्य रथस्योपरि स्कम्भासः स्तम्भविशेषास्त्रयस्त्रिसंख्याकाः स्कभितासः । स्थापिताः । किमर्थम् । आरभे । आरब्धुम् । अवलम्बितुम् । यदा रथस्त्वरया याति तदानीं पतनभीतिनिवृत्त्यर्थं हस्तालम्बनभूताः स्तम्भा इत्यर्थः । हे अश्विना युवां तादृशेन रथेन नक्तं रात्रौ त्रिर्याथः । त्रिवारं गच्छथः । तथा दिवा दिवसेऽपि त्रिर्याथः । रात्रावहनि च रथमारुह्य पुनःपुनः क्रीडथ इत्यर्थः ॥ मधुवाहने । मधु वाह्यतेऽनेनेति मधुवाहनः । करणे ल्युट् । विदुः । वेत्तेर्लटि विदो लटो वेति झेरुसादेशः । स्कम्भासः । ष्टभि स्कभि गतिप्रतिबन्धे । स्कम्भन्ते प्रतिबद्धा भवन्तीति स्कम्भाः । पचाद्यच् । स्कभितासः । स्कम्भुः सौत्रो धातुः । अस्मान्निष्ठायां यस्य विभाषेतीट्प्रतिषेधे प्राप्ते ग्रसितस्कभितेत्यादिनेडागमो निपातितः । आरभे । रभ राभस्ये । अस्मादाङ्पूर्वात्संपदादिलक्षणो भावे क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
 
-*madhuvāhane madhuradravyāṇāṃ nānāvidhakhādyādīnāṃ vahanena yukte 'śvinoḥ sambandhini rathe pavayo vajrasamānā dṛḍhāś cakraviśeṣās trayas trisaṃkhyākāḥ santi | it itthaṃ cakratrayasadbhāvaprakāraṃ viśve sarve devāḥ somasya candrasya venāṃ kamanīyāṃ bhāryām abhilakṣya yotrāyāṃ [?] viduḥ | jānanti | yadā somasya venayā saha vivāhas tadānīṃ nānāvidhakhādyayuktaṃ cakratrayopetaṃ prauḍhaṃ ratham āruhyāśvinau gacchata iti sarve devā jānantīty arthaḥ | tasya rathasyopari skambhāsaḥ stambhaviśeṣās trayas trisaṃkhyākāḥ skabhitāsaḥ | sthāpitāḥ | kimartham | ārabhe | ārabdhum | avalambitum | yadā rathas tvarayā yāti tadānīṃ patanabhītinivṛttyarthaṃ hastālambanabhūtāḥ stambhā ity arthaḥ | he aśvinā yuvāṃ tādṛśena rathena naktaṃ rātrau trir yāthaḥ | trivāraṃ gacchathaḥ | tathā divā divase 'pi trir yāthaḥ | rātryahani ca ratham āruhya punaḥ punaḥ krīḍatha ity arthaḥ ||*
+*madhuvāhane madhuradravyāṇāṃ nānāvidhakhādyādīnāṃ vahanena yukte 'śvinoḥ saṃbandhini rathe pavayo vajrasamānā dṛḍhāścakraviśeṣāstrayastrisaṃkhyākāḥ santi | it itthaṃ cakratrayasadbhāvaprakāraṃ viśve sarve devāḥ somasya candrasya venāṃ kamanīyāṃ bhāryāmabhilakṣya yātrāyāṃ viduḥ | jānanti | yadā somasya venayā saha vivāhastadānīṃ nānāvidhakhādyayuktaṃ cakratrayopetaṃ prauḍhaṃ rathamāruhyāśvinau gacchata iti sarve devā jānantītyarthaḥ | tasya rathasyopari skambhāsaḥ stambhaviśeṣāstrayastrisaṃkhyākāḥ skabhitāsaḥ | sthāpitāḥ | kimartham | ārabhe | ārabdhum | avalambitum | yadā rathastvarayā yāti tadānīṃ patanabhītinivṛttyarthaṃ hastālambanabhūtāḥ stambhā ityarthaḥ | he aśvinā yuvāṃ tādṛśena rathena naktaṃ rātrau triryāthaḥ | trivāraṃ gacchathaḥ | tathā divā divase 'pi triryāthaḥ | rātrāvahani ca rathamāruhya punaḥpunaḥ krīḍatha ityarthaḥ ‖ madhuvāhane | madhu vāhyate 'neneti madhuvāhanaḥ | karaṇe lyuṭ | viduḥ | vetterlaṭi vido laṭo veti jherusādeśaḥ | skambhāsaḥ | ṣṭabhi skabhi gatipratibandhe | skambhante pratibaddhā bhavantīti skambhāḥ | pacādyac | skabhitāsaḥ | skambhuḥ sautro dhātuḥ | asmānniṣṭhāyāṃ yasya vibhāṣetīṭpratiṣedhe prāpte grasitaskabhitetyādineḍāgamo nipātitaḥ | ārabhe | rabha rābhasye | asmādāṅpūrvātsaṃpadādilakṣaṇo bhāve kvip | kṛduttarapadaprakṛtisvaratvam ‖*
 
-**Translation:** "In the chariot of the Aśvins, which is *madhuvāhane* — furnished with the carrying of sweet things, various kinds of food and the like — there are *pavayaḥ*, wheels, firm and hard as the vajra, *trayaḥ* — three in number. *It* — in this very way, the state of having three wheels — *viśve*, all the gods *viduḥ* — know, *somasya venām anu* — with reference to Soma's, the moon's, lovely wife Vena ['at the [bridal] procession' — the word I read as *yotrāyām* is doubtful]. When Soma's marriage with Vena [took place], all the gods know that the two Aśvins went mounted on a splendid chariot with three wheels, carrying various foods. On that chariot, *skambhāsaḥ* — pillars, three in number — *skabhitāsaḥ* — were set up. For what purpose? *Ārabhe* — to take hold, to hold on to: when the chariot moves swiftly, the pillars are the supports for the hand, to remove the fear of falling. O Aśvins, with such a chariot you go *naktam*, by night, *triḥ*, three times; and likewise *divā*, by day, you go three times: by night and by day you mount the chariot and sport again and again."
+**Translation:** "In the chariot of the Aśvins, which is *madhuvāhane* — furnished with the carrying of sweet things, various kinds of food and the like — there are *pavayaḥ*, wheels, firm and hard as the vajra, *trayaḥ* — three in number. *It* — in this very way, the state of having three wheels — *viśve*, all the gods *viduḥ* — know, *somasya venām anu* — with reference to Soma's, the moon's, lovely wife Vena at the journey (*yātrāyām*). When Soma's marriage with Vena [took place], all the gods know that the two Aśvins went mounted on a splendid chariot with three wheels, carrying various foods. On that chariot, *skambhāsaḥ* — pillars, three in number — *skabhitāsaḥ* — were set up. For what purpose? *Ārabhe* — to take hold, to hold on to: when the chariot moves swiftly, the pillars are the supports for the hand, to remove the fear of falling. O Aśvins, with such a chariot you go *naktam*, by night, *triḥ*, three times; and likewise *divā*, by day, you go three times: by night and by day you mount the chariot and sport again and again."
 
-**Grammar within the bhāṣya** *(p. 82, characterized; the print is crowded and I did not chase the numerals)*: *madhuvāhane* (root *vaha prāpaṇe*; *lyuṭ* in the instrument/locus sense, *kṛdutta­rapadaprakṛtisvaratva*); *viduḥ* (root *vida jñāne*, *laṭ* → *jhi* → *us* by the optional rule *vido laṭo vā*, *śap* elided); *skambhāsaḥ* (root *skabhi*/*stabhi* "to hold back", the suffix *ac* of the *pacādi* class); *skabhitāsaḥ* (*skabhu* of the *sautra*-root list, marked *udit*, so *iṭ* is optional before *ktvā*; the *iṭ* augment is therefore introduced "as an augment of the participle"; *niṣṭhā* with *iṭ*; *asun* ...); *ārabhe* (root *rabha rābhasye*, the suffix *kvip* [*bhāve kvip*] with the first-member accent of a *kṛt*-compound).
+(The grammatical tail, transcribed above: *madhuvāhane* — "that by which honey is carried", *lyuṭ* in the instrument sense; *viduḥ* — *us* for *jhi* by *vido laṭo vā*; *skambhāsaḥ* — root *skabh* "to check", *ac* of the *pacādi* class; *skabhitāsaḥ* — the *sautra* root *skambh*; in the *niṣṭhā* the *iṭ* barred by *yasya vibhāṣā* is supplied by the irregular list *grasita-skabhita…*; *ārabhe* — *kvip* in the state-sense after *rabh* with *ā*; the *kṛt*-final last member keeps its accent.)
+
+### Page 82
 
 **Pratipadārtha** *(p. 82)* — "**aśvinā** — O Aśvin deities (you two); **madhuvāhane** — [laden] with delicious foods; **rathe** — [in your] chariot; **trayaḥ pavayaḥ** — three wheels firm as the vajra; **it** — in this manner; **somasya** — of the moon; **venām anu** — in the wedding procession with Vena, his wife; **viśve** — all the gods; **viduḥ** — know; **ārabhe** — for the sake of holding on; **skabhitāsaḥ** — [that are] supports; **trayaḥ** — three; **skambhāsaḥ** — pillars [in that chariot]; **naktam** — at night; **triḥ yāthaḥ** — you go three times; **divā** — by day; **triḥ** — three times [you go]."
 
 **Bhāvārtha** *(p. 82)* — "O Aśvin deities, at the time of the wedding of the beloved Vena, Soma's wife, you went in your chariot, filled with sweet foods, to take part in the wedding. All the gods know that your chariot has three auspicious wheels and, so that those who sit within may not fall when it runs fast, three pillars to hold on to. In your chariot you go three times by day and three times by night for sport. Spend the time always in this way, with delight."
 
-**English Translation (the source's own, p. 82)** — "There are three wheels to your honey-**bearig** [sic] (foods!& c) chariot as all the gods have known it to be when attending the marriage of Vena, the beloved of Soma ; O Aswins, there are three posts fixed in the chariot for support, and in it thrice you drive by night and thrice by day."
+**English Translation (the source's own, p. 82)** — "There are three wheels to your honey-bearig [sic] (foods!& c) chariot as all the gods have known it to be when attending the marriage of Vena, the beloved of Soma ; O Aswins, there are three posts fixed in the chariot for support, and in it thrice you drive by night and thrice by day."
+
+### Page 83
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 83–84**
 
@@ -1263,39 +1263,39 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 
 "'Then Sītā, the daughter of Savitṛ, desired King Soma.' *(The source's Kannada: 'Sītā, the daughter of Savitṛ (the Sun), desired — was pleased with — King Soma'; the reference is not given in the print here.)* It is worth noting that this matter is connected with the matter of Venā and Soma mentioned in this ṛk. In this context the following two ṛks are also worth noticing:"
 
-> सूर्याया अश्विना वराग्निरासीत्पुरोगवः ॥ (ऋ. सं. १०-८५-८ [?])
+> सूर्याया अश्विना वराग्निरासीत्पुरोगवः ॥ (ऋ. सं. १०-८५-८)
 > सोमो वधूयुरभवदश्विनास्तामुभा वरा ।
-> सूर्यां यत्पत्ये शंसन्तीं मनसा सविताददात् ॥ (ऋ. सं. १०-८५-९ [?])
+> सूर्यां यत्पत्ये शंसन्तीं मनसा सविताददात् ॥ (ऋ. सं. १०-८५-९)
 
-*sūryāyā aśvinā varāgnir āsīt purogavaḥ || (ṛ. saṃ. 10-85-8 [?])*
-*somo vadhūyur abhavad aśvināstām ubhā varā | sūryāṃ yat patye śaṃsantīṃ manasā savitādadāt || (ṛ. saṃ. 10-85-9 [?])*
+*sūryāyā aśvinā varāgnir āsīt purogavaḥ || (ṛ. saṃ. 10-85-8)*
+*somo vadhūyur abhavad aśvināstām ubhā varā | sūryāṃ yat patye śaṃsantīṃ manasā savitādadāt || (ṛ. saṃ. 10-85-9)*
 
-*(The source leaves these untranslated. My gloss, **mine and tentative**: "Agni was the leader of the wooers of Sūryā [the second half-verse: 'Soma was the one who desired the bride; the two Aśvins were both the wooers; when Savitṛ gave Sūryā, who was praising [?] her husband, with the mind']". The numerals are read from small Kannada digits and are uncertain.)*
+*(The source leaves these untranslated. My gloss, **mine and tentative**: "Agni was the leader of the wooers of Sūryā [the second half-verse: 'Soma was the one who desired the bride; the two Aśvins were both the wooers; when Savitṛ gave Sūryā, who was praising [?] her husband, with the mind']". The references zoom-checked.)*
 
 "The matter stated in these two ṛks is worth noting: Soma desired Sūryā-devī, the daughter of Savitṛ, as wife. In the same way the Aśvin deities too wished to become suitors of Sūryā-devī; and [it is] described that Savitṛ gave Sūryā-devī to Soma, and so on. Besides this, in the Aitareya Brāhmaṇa [the source reads]:"
 
-> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्मै सर्वे देवा वरा आगच्छन् ॥ (ऐ. ब्रा. ४-७ [?])
+> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्मै सर्वे देवा वरा आगच्छन् ॥ (ऐ. ब्रा. ४-७)
 
-*prajāpatir vai somāya rājñe duhitaraṃ prāyacchat sūryāṃ sāvitrīṃ tasmai sarve devā varā āgacchan || (ai. brā. 4-7 [?])*
+*prajāpatir vai somāya rājñe duhitaraṃ prāyacchat sūryāṃ sāvitrīṃ tasmai sarve devā varā āgacchan || (ai. brā. 4-7)*
 
 "'Prajāpati gave his daughter Sūryā Sāvitrī to King Soma; to her all the gods came as suitors.'" *(Translation mine from the Sanskrit; the source gives it in a Kannada paraphrase as above.)*
 
+### Page 84
+
 - **madhuvāhane** = *madhu vāhyate 'neneti madhuvāhanaḥ*: "*madhu* means honey, or delicious food; a chariot that bears these, i.e. a chariot filled [with them], is meant."
-- **somasya venām anu id viduḥ**: "*All the gods knew of the wedding that took place with Venā*: that is, as stated above (Ai. Brā. 4-7 [?]), when Soma had wished to marry Sūryā-devī the Aśvins and all the other gods, too, came to that wedding rite desiring that the woman should become [their] bride; as the Aśvins also themselves wished to marry her (ṛ. saṃ. 10-85-8 and 9 [?]). For this reason — that is, in order to win the bride — the Aśvins filled their chariot with sweet foods and went to Soma's wedding; and since all the gods had come there, all of them knew of this matter: such is the main idea of the description in this ṛk."
+- **somasya venām anu id viduḥ**: "*All the gods knew of the wedding that took place with Venā*: that is, as stated above (Ai. Brā. 4-7), when Soma had wished to marry Sūryā-devī the Aśvins and all the other gods, too, came to that wedding rite desiring that the woman should become [their] bride; as the Aśvins also themselves wished to marry her (Ṛ. Saṃ. 10-85-8 and 9). For this reason — that is, in order to win the bride — the Aśvins filled their chariot with sweet foods and went to Soma's wedding; and since all the gods had come there, all of them knew of this matter: such is the main idea of the description in this ṛk."
 - **ārabhe** = *ārabdhuṃ | avalambitum*: "*to hold on to*. When a chariot goes fast it is natural for it to shake; then, for those sitting inside to hold on firmly lest they fall, there are three pillars in the chariot — such is the sense."
 
-**Vyākaraṇa-prakriyā** *(p. 84, PDF 98 — grammar page, noted briefly; begun, to continue on p. 85)*
-- **madhuvāhane**: the Uṇādi sūtra beginning *phalipāṭanami-mani-jana…* — फलिपाटनमिमनिजनांगुक्पटिनाकिधतश्च — [Uṇ. 1-[?]] gives the suffix *u* after the root *mana*, with *dha* in place of the *n*: *madhu*; the word is final-acute by the suffix-accent. *Karaṇādhikaraṇayoś ca* — करणाधिकरणयोश्च — Pā. 3-3-117: *lyuṭ* after a root in the instrument or locus sense; so *lyuṭ* after the causative stem of *vah*, *upadhā-vṛddhi*, loss of *ṇi*, *ana* for *yu*.
+**Vyākaraṇa-prakriyā** *(pp. 84–85, grammar pages — noted briefly; numerals zoom-checked)*
+- **madhuvāhane**: the Uṇādi sūtra beginning *phalipāṭanami-mani-jana…* — फलिपाटिनमिमनिजनां गुक्पटिनाकिधतश्च (*phalipāṭinamimanijanāṃ gukpaṭinākidhataś ca*) — Uṇ. Sū. 1-18 gives the suffix *u* after the root *mana*, with *dha* in place of the *n*: *madhu*; the word is final-acute by the suffix-accent. *Karaṇādhikaraṇayoś ca* — करणाधिकरणयोश्च — Pā. 3-3-117: *lyuṭ* after a root in the instrument or locus sense; so *lyuṭ* after the causative stem of *vah*, *upadhā-vṛddhi*, loss of *ṇi*, *ana* for *yu*.
 - **viduḥ**: root *vida jñāne*; *laṭ*; *jhi*; *vido laṭo vā* — विदो लटो वा — Pā. 3-4-83: the substitutes *ṇal*, *atus*, *us* etc. optionally replace the *laṭ*-endings of *vid*; here *us* for *jhi*; *śap*, elided as the root is of the *ad*-class; *vid + us*, *ru*, *visarga*.
 - **skambhāsaḥ**: root *skabhi*/*stabhi* "to hold back, to stop" (*gatipratibandhe*); *skambhate* "is checked"; the suffix *ac* of the *pacādi* class by *nandigrahipacādibhyo lyuṇinyacaḥ* — नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः — Pā. 3-1-134.
 - **skabhitāsaḥ**: the root *skabhu* of the *sautra* list, marked *udit*; *udito vā* — उदितो वा — Pā. 7-2-56: before *ktvā* the *iṭ* augment is optional for an *udit* root; hence the augment, here.
 
----
+### Page 85
 
-### Rik 34.2 — Vyākaraṇa-prakriyā, concluded (p. 85, PDF 99; grammar page, noted briefly)
-
-- **skabhitāsaḥ** (concluded): *yasya vibhāṣā* — यस्य विभाषा — Pā. 7-2-15 bars the *iṭ* of *ktvā*/*kta* after a root whose *iṭ* is optional somewhere; so with *skabh + ta* the *iṭ* would be barred; but the sūtra *grasitaskabhitastabhita…* — ग्रसितस्कभितस्तभित… — Pā. 7-2-34 [as printed 7-2-3[?]] lists *skabhita* as an irregular form, so *iṭ* comes; *jas* takes *asuk*.
-- **ārabhe**: root *rabha rābhasye* with the preverb *ā*; *sampadādibhyaḥ kvip* — a vārtika — gives *kvip* in the verbal-noun sense; *gatikārakopapadāt kṛt* — Pā. 6-2-139 — the later member keeps its natural accent; the case-ending is replaced by *śe*. Rik 2 ends here (*|| 2 ||*).
+- **skabhitāsaḥ** (concluded): *yasya vibhāṣā* — यस्य विभाषा — Pā. 7-2-15 bars the *iṭ* of *ktvā*/*kta* after a root whose *iṭ* is optional somewhere; so with *skabh + ta* the *iṭ* would be barred; but the sūtra *grasitaskabhitastabhita…* — ग्रसितस्कभितस्तभित… — Pā. 7-2-34 lists *skabhita* as an irregular form, so *iṭ* comes; *jas* takes *asuk*.
+- **ārabhe**: root *rabha rābhasye* with the preverb *ā*; *sampadādibhyaḥ kvip* — a vārtika — gives *kvip* in the verbal-noun sense; *gatikārakopapadāt kṛt* (no number printed) — the later member keeps its natural accent; the case-ending is replaced by *śe*. Rik 2 ends here (*|| 2 ||*).
 
 ### Rik 34.3 (pp. 85–89, PDF 99–103)
 
