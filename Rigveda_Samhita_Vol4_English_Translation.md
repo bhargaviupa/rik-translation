@@ -2949,13 +2949,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.6 (p. 195 onward, PDF 209–)
 
-**Saṃhitā-pāṭha** *(p. 195; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 195)*
 
-> **त्वे इदग्ने सुभगे यविष्ठ्य विश्वमा हूयते हविः ।**
-> **स त्वं नो अद्य सुमना उतापरं यक्षि देवान्त्सुवीर्या ॥ ६ ॥**
+> त्वे॒ इद॑ग्ने सु॒भगे॑ यविष्ठ्य॒ विश्व॒मा हू॑यते ह॒विः ।
+> स त्वं॑ नो अ॒द्य सु॒मना॑ उ॒ताप॒रं यक्षि॑ दे॒वान्त्सु॒वी॑र्या ॥ ६ ॥
 
-*tve id agne subhage yaviṣṭhya viśvam ā hūyate haviḥ |*
-*sa tvaṃ no adya sumanā utāparaṃ yakṣi devān suvīryā || 6 ||*
+*tve íd agne subháge yaviṣṭhya víśvam ā́ hūyate havíḥ |*
+*sá tvaṃ no adyá sumánā utā́paráṃ yákṣi devā́nt suvīryā || 6 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The underlines in "yaviṣṭhya", "viśvamā" and "devāntsu…" stand under the conjunct letters ṣṭhya, śva and ntsu; placed on those syllables.)*
 
 **Pada-pāṭha** *(p. 195)*
 
@@ -2969,15 +2971,23 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.6 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 195–197, PDF 209–211)
 
-**Sāyaṇa-bhāṣya** *(foot of p. 195 – p. 196; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(foot of p. 195 – p. 196, in full)*
 
-> हे यविष्ठ्य युवत्तमाग्ने सुभगे सौभाग्ययुक्ते त्वे इत् त्वय्येव विश्वं सर्वं हविरा हूयते । सर्वतः प्रक्षिप्यते । स त्वं नोऽस्मान्प्रति सुमनाः शोभनमनस्को भूत्वाद्यास्मिन्दिन उताऽपि चापरं श्वोऽपरश्व इत्यादिकमुत्तरं कालं सर्वस्मिन्नपि काले नैरन्तर्येण सुवीर्यान् शोभनवीर्योपेतान्देवान्यक्षि । यज ॥
+> हे यविष्ठ्य युवत्तमाग्ने सुभगे सौभाग्ययुक्ते त्वे इत् त्वय्येव विश्वं सर्वं हविरा हूयते । सर्वतः प्रक्षिप्यते । स त्वं नोऽस्मान्प्रति सुमनाः शोभनमनस्को भूत्वाद्यास्मिन्दिन उतापि चापरं श्वोऽपरं श्व इत्यादिकमुत्तरं कालं सर्वस्मिन्नपि काले नैरन्तर्येण सुवीर्या शोभनवीर्योपेतान्देवान्यक्षि । यज ॥
 
-*he yaviṣṭhya yuvattamāgne subhage saubhāgyayukte tve it tvayy eva viśvaṃ sarvaṃ havir ā hūyate | sarvataḥ prakṣipyate | sa tvaṃ no 'smān prati sumanāḥ śobhanamanasko bhūtvādyāsmin dina utāpi cāparaṃ śvo 'paraśva ity ādikam uttaraṃ kālaṃ sarvasminn api kāle nairantaryeṇa suvīryān śobhanavīryopetān devān yakṣi | yaja ||*
+*he yaviṣṭhya yuvattamāgne subhage saubhāgyayukte tve it tvayyeva viśvaṃ sarvaṃ havirā hūyate | sarvataḥ prakṣipyate | sa tvaṃ no 'smānprati sumanāḥ śobhanamanasko bhūtvādyāsmindina utāpi cāparaṃ śvo 'paraṃ śva ityādikamuttaraṃ kālaṃ sarvasminnapi kāle nairantaryeṇa suvīryā śobhanavīryopetāndevānyakṣi | yaja ‖*
 
-**Translation:** "O *yaviṣṭhya* — the very youngest — Agni, *subhage*, endowed with good fortune: *tve it*, in you alone, *viśvaṃ haviḥ* — every oblation — *ā hūyate*, is cast on all sides. That [you], being *sumanāḥ*, well-minded towards us, today, on this day, *uta* — and — *aparam*, in the later time, tomorrow, the day after, and so on — in all times, continuously, *yakṣi* — sacrifice to, i.e. perform the worship of — the *devān suvīryān*, the gods endowed with good heroic strength. (*Yakṣi* = *yaja*.)"
+**Translation:** "O *yaviṣṭhya* — the very youngest — Agni, *subhage*, endowed with good fortune: *tve it*, in you alone, *viśvaṃ haviḥ* — every oblation — *ā hūyate*, is cast on all sides. That [you], being *sumanāḥ*, well-minded towards us, today, on this day, *uta* — and — *aparam*, in the later time, tomorrow, the day after, and so on — in all times, continuously, *yakṣi* — sacrifice to, i.e. perform the worship of — the *devān suvīryā* (printed so, glossed *śobhanavīryopetān*), the gods endowed with good heroic strength. (*Yakṣi* = *yaja*.)"
 
-**Grammar within the bhāṣya** *(p. 196, characterized)*: *subhage* (*śobhano bhago yasya*, a bahuvrīhi; first-syllable acute); *yaviṣṭhya* (*yuvan* + *iṣṭhan*; *sthūladūra…* — the *ya* of *yuvan* is dropped and the preceding vowel takes *guṇa*; the *y* is inserted by Vedic usage); *yakṣi* (*laṭ*/*loṭ* sense; *śap* lost by *bahulaṃ chandasi*; *ś* → *ṣ*, *ṣ* → *k*, *ṣatva*); *suvīryā* (*śobhanaṃ vīryaṃ yeṣām*; *vīravīryau ca*: first-syllable acute; the *śas* ending replaced by *ā*).
+### Page 196
+
+**Grammatical tail of the bhāṣya** *(p. 196)*
+
+> सुभगे । शोभनो भगो यस्येति बहुव्रीहावाद्युदात्तत्वम् । द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वम् । यविष्ठ्य । युवशब्दादिष्ठन् । स्थूलदूरेत्यादिना । पा. ६-४-१५६ । यणादेः परस्य लोपः पूर्वस्य च गुणः । छान्दसो यकारोपजनः । यक्षि । बहुलं छन्दसि शपो लुक् । सुवीर्या । शोभनं वीर्यं येषाम् । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वम् । सुपां सुलुगिति विभक्तेराकारः ॥
+
+*subhage | śobhano bhago yasyeti bahuvrīhāvādyudāttatvam | dvyacchandasītyuttarapadādyudāttatvam | yaviṣṭhya | yuvaśabdādiṣṭhan | sthūladūretyādinā | pā. 6-4-156 | yaṇādeḥ parasya lopaḥ pūrvasya ca guṇaḥ | chāndaso yakāropajanaḥ | yakṣi | bahulaṃ chandasi śapo luk | suvīryā | śobhanaṃ vīryaṃ yeṣām | vīravīryau cetyuttarapadādyudāttatvam | supāṃ sulugiti vibhakterākāraḥ ‖*
+
+*(Sense:)* *subhage* (*śobhano bhago yasya*, a bahuvrīhi; first-syllable acute); *yaviṣṭhya* (*yuvan* + *iṣṭhan*; *sthūladūra…* — the *ya* of *yuvan* is dropped and the preceding vowel takes *guṇa*; the *y* is inserted by Vedic usage); *yakṣi* (*laṭ*/*loṭ* sense; *śap* lost by *bahulaṃ chandasi*; *ś* → *ṣ*, *ṣ* → *k*, *ṣatva*); *suvīryā* (*śobhanaṃ vīryaṃ yeṣām*; *vīravīryau ca*: first-syllable acute; the *śas* ending replaced by *ā*).
 
 **Pratipadārtha** *(p. 196)* — "**yaviṣṭhya** — exceedingly youthful; **agne** — O Agni; **subhage** — meritorious; **tve it** — in you alone; **viśvam** — all; **haviḥ** — oblation; **ā hūyate** — is offered everywhere; **saḥ tvam** — such a you; **naḥ** — with regard to us; **sumanāḥ** — with an auspicious mind; **adya** — today; **uta** — and; **aparam** — on other days too (without interruption); **suvīryā** — [on behalf of] gods who give prosperity and are powerful; **devān** — in the name of the gods; **yakṣi** — perform sacrifice."
 
@@ -2985,15 +2995,17 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **English Translation (the source's own, p. 196)** — "Youthfull and good natured Agni, all the oblations intended for the gods are offered through you ; be well disposed towards us now or at any other time and convey the oblations to the powerful gods." *("Youthfull" and "disposed" [printed "dispcsed"] as in the print.)*
 
+### Page 197
+
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 197**
 - **adya uta aparam** — "now, and at other times: that is, on this day, on which we are performing the sacrifice, and on other days, in future, on which we may perform sacrifices — *now and in future* [the print's English]."
 - **suvīryā** = *suvīryān* | *śobhanavīryopetān*: "of very mighty valour; this word is in the accusative plural, an adjective of the word *devān*."
 
 **Vyākaraṇa-prakriyā** *(p. 197, PDF 211 — grammar page, noted briefly)*
-- **subhage**: *śobhano bhago yasya saḥ*, a *bahuvrīhi*; *ādyudāttaṃ dvyac chandasi* — आद्युदात्तं द्व्यच्छन्दसि — [Pā. 6-2-119, as read]: in a *bahuvrīhi* compound a second member of two vowels, beginning with an acute, after *su*, is first-syllable acute; the first member's natural accent does not arise.
-- **yaviṣṭhya**: after *yuvan*, *atiśāyane tamabiṣṭhanau* — *iṣṭhan*; *yuvan + iṣṭha*; *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ* — स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः — [Pā. 6-4-156, as read]: before *iṣṭhan*, *imanic* and *īyasun*, the part of these six words [*sthūla*, *dūra*, *yuvan*, *hrasva*, *kṣipra*, *kṣudra*] beginning with the *yaṇ* is dropped and the preceding vowel takes *guṇa*: so *yuva* → *yo*, then *av*-substitution; the *y* is, in the Veda, added extra.
-- **yakṣi**: root *yaja devapūjādau*, *loṭ*, *sip*; *bahulaṃ chandasi* — [Pā. 2-4-73]: *luk* of *śap*; *vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ* — [Pā. 8-2-36]: *j* → *ṣ*; *ṣaḍhoḥ kaḥ si* — *ṣ* → *k*; *ādeśapratyayayoḥ* — *s* → *ṣ*.
-- **suvīryā**: *śobhanaṃ vīryaṃ yeṣāṃ te*, a *bahuvrīhi*; *vīravīryau ca* — वीरवीर्यौ च — [Pā. 6-2-120]: in a *bahuvrīhi* the words *vīra*, *vīrya* after *su* are first-syllable acute in the Veda; *vīra vikrāntau* with *ac* gives *vīra*, and *aco yat* or *tatra sādhuḥ* gives *vīrya*; the print then argues that the sūtra *yato 'nāvaḥ* would already give the first-syllable acute for *vīrya*, so the mention of *vīrya* in this sūtra shows that *yato 'nāvaḥ* does not apply to *vīrya*; the accusative plural *śas* is replaced by *ā* by *supāṃ sulug…*. Rik 6 ends here (*|| 6 ||*).
+- **subhage**: *śobhano bhago yasya saḥ*, a *bahuvrīhi*; *ādyudāttaṃ dvyac chandasi* — आद्युदात्तं द्व्यच्छन्दसि — (Pā. 6-2-119): in a *bahuvrīhi* compound a second member of two vowels, beginning with an acute, after *su*, is first-syllable acute; the first member's natural accent does not arise.
+- **yaviṣṭhya**: after *yuvan*, *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55) — *iṣṭhan*; *yuvan + iṣṭha*; *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ* — स्थूलदूरयुवह्रस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः — (Pā. 6-4-156): before *iṣṭhan*, *imanic* and *īyasun*, the part of these six words [*sthūla*, *dūra*, *yuvan*, *hrasva*, *kṣipra*, *kṣudra*] beginning with the *yaṇ* is dropped and the preceding vowel takes *guṇa*: so *yuva* → *yo*, then *av*-substitution; the *y* is, in the Veda, added extra.
+- **yakṣi**: root *yaja devapūjādau*, *loṭ*, *sip*; *bahulaṃ chandasi* (Pā. 2-4-73): *luk* of *śap*; *vraścabhrasjasṛjamṛjayajarājabhrājacchaśāṃ ṣaḥ* (Pā. 8-2-36): *j* → *ṣ*; *ṣaḍhoḥ kaḥ si* — *ṣ* → *k*; *ādeśapratyayayoḥ* — *s* → *ṣ*.
+- **suvīryā**: *śobhanaṃ vīryaṃ yeṣāṃ te*, a *bahuvrīhi*; *vīravīryau ca* — वीरवीर्यौ च — (Pā. 6-2-120; the print sets "(Pā. Sū." twice): in a *bahuvrīhi* the words *vīra*, *vīrya* after *su* are first-syllable acute in the Veda; *vīra vikrāntau* with *ac* gives *vīra*, and *aco yat* or *tatra sādhuḥ* gives *vīrya*; the print then argues that the sūtra *yato 'nāvaḥ* would already give the first-syllable acute for *vīrya*, so the mention of *vīrya* in this sūtra shows that *yato 'nāvaḥ* does not apply to *vīrya*; the accusative plural *śas* is replaced by *ā* by *supāṃ sulug…*. Rik 6 ends here (*|| 6 ||*).
 
 ### Rik 36.7 (pp. 198–202, PDF 212–216)
 

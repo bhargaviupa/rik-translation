@@ -38,7 +38,7 @@ else:
     out=sys.argv[2]; K=int(os.environ.get('K','2')); Z=float(os.environ.get('Z','1.3')); tiles=[]
     for r in sys.argv[3:]:
         p,q=(int(v) for v in r.split('-')) if '-' in r else (int(r),int(r))
-        top=runs[p][0]-12; bot=runs[q][1]+12; W=x1-x0
+        top=runs[p][0]-int(os.environ.get("PAD","12")); bot=runs[q][1]+12; W=x1-x0
         for k in range(K):
             c=im.crop((int(x0+W*k/K-(40 if k else 0)),top,int(x0+W*(k+1)/K+40),bot)); tiles.append(c.resize((int(c.width*Z),int(c.height*Z)),Image.LANCZOS))
     Wm=max(t.width for t in tiles); H=sum(t.height+10 for t in tiles); m=Image.new('L',(Wm,H),255); yy=0
