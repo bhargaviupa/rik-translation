@@ -9529,27 +9529,33 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 464)*
 
-> सं यन्मदाय शुष्मिण एना ह्यस्योदरे ।
-> समुद्रो न व्यचो दधे ॥ ३ ॥
+> सं यन्मदा॑य शु॒ष्मिण॑ ए॒ना ह्य॑स्यो॒दरे॑ ।
+> स॒मु॒द्रो न व्यचो॑ द॒धे ॥ ३ ॥
 
-> *saṃ yanmadāya śuṣmiṇa enā hyasyodare |*
-> *samudro na vyaco dadhe ‖ 3 ‖*
+> *saṃ yanmádāya śuṣmíṇa enā́ hyasyodáre |*
+> *samudró na vyáco dadhé || 3 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> सम् । यत् । मदाय । शुष्मिणे । एना । हि । अस्य । उदरे ।
+> सं । यत् । मदाय । शुष्मिणे । एना । हि । अस्य । उदरे ।
 > समुद्रः । न । व्यचः । दधे ॥ ३ ॥
 
-> *sam | yat | madāya | śuṣmiṇe | enā | hi | asya | udare |*
+> *saṃ | yat | madāya | śuṣmiṇe | enā | hi | asya | udare |*
 > *samudraḥ | na | vyacaḥ | dadhe ‖ 3 ‖*
 
-**Sāyaṇa-bhāṣya** *(p. 464)*
+**Sāyaṇa-bhāṣya** *(pp. 464–465)*
 
-> यत्पूर्वोक्तं शतं सहस्रं वा शुष्मिणे बलवत इन्द्रस्य मदाय मदार्थं संगतं भवति । एना ह्येनेनैव शतेन सहस्रेण चास्येन्द्रस्योदरे व्यचो व्याप्त्यर्थे धृतं भवति । तत्र दृष्टान्तः । समुद्रो न समुद्र इव । यथा समुद्रमध्ये जलं व्याप्तं तद्वत् ॥ एना । सुपां सुलुगिति तृतीयाया आडादेशः । व्यचः । व्यच व्याजीकरणे [?] कुटादित्वमनसि … ग्रहिज्येत्यादिना संप्रसारणं न भवति । असुनो नित्त्वादाद्युदात्तत्वम् । दधे । दधातेः कर्मण्यात्मनेपदे … लिटि … ॥
+*(The bhāṣya runs over the page break after* संप्र- *(p. 464) /* सारणं *(p. 465).)*
 
-> *yatpūrvoktaṃ śataṃ sahasraṃ vā śuṣmiṇe balavata indrasya madāya madārthaṃ saṃgataṃ bhavati | enā hyenenaiva śatena sahasreṇa cāsyendrasyodare vyaco vyāptyarthe dhṛtaṃ bhavati | tatra dṛṣṭāntaḥ | samudro na samudra iva | yathā samudramadhye jalaṃ vyāptaṃ tadvat ‖ enā | supāṃ sulugiti tṛtīyāyā āḍādeśaḥ | vyacaḥ | vyaca vyājīkaraṇe [?] kuṭāditvamanasi … grahijyetyādinā saṃprasāraṇaṃ na bhavati | asuno nittvādādyudāttatvam | dadhe | dadhāteḥ karmaṇyātmanepade … liṭi … ‖*
+> यत्पूर्वोक्तं शतं सहस्रं वा शुष्मिणे बलवत इन्द्रस्य मदाय मदार्थं संगतं भवति । एना ह्यनेनैव शतेन सहस्रेण चास्येन्द्रस्योदरे व्यचो व्याप्तिर्दधे । धृता भवति । तत्र दृष्टान्तः । समुद्रो न समुद्र इव । यथा समुद्रमध्ये जलं व्याप्तं तद्वत् ॥ एना । सुपां सुलुगिति तृतीयाया आडादेशः । व्यचः । व्यचेः कुटादित्वमनसि । का. १-२-१-१ । इति ङिद्वद्भावस्य प्रतिषिद्धत्वाद्ग्रहिज्येत्यादिना संप्रसारणं न भवति असुनो नित्त्वादाद्युदात्तत्वम् । दधे । दधातेः कर्मण्यभ्यासह्रस्वजश्त्वेषु कृतेष्वातो लोप इटि चेत्याकारलोपः । प्रत्ययस्वरेणान्तोदात्तत्वम् । हि चेति प्रतिषेधान्निघाताभावः ॥
 
-*Translation:* "The aforesaid hundred or thousand [of Soma] is brought together for the exhilaration (*mada*) of mighty (*śuṣmin*) Indra. By this very hundred and thousand [it is] held in this Indra's belly, spreading through it (*vyacaḥ* = for pervading). Illustration: *samudro na* — as water, in the middle of the sea, pervades it." *(The grammar clauses on* vyacaḥ *and* dadhe *are read with doubt: [?].)*
+> *yatpūrvoktaṃ śataṃ sahasraṃ vā śuṣmiṇe balavata indrasya madāya madārthaṃ saṃgataṃ bhavati | enā hyanenaiva śatena sahasreṇa cāsyendrasyodare vyaco vyāptirdadhe | dhṛtā bhavati | tatra dṛṣṭāntaḥ | samudro na samudra iva | yathā samudramadhye jalaṃ vyāptaṃ tadvat ‖ enā | supāṃ sulugiti tṛtīyāyā āḍādeśaḥ | vyacaḥ | vyaceḥ kuṭāditvamanasi | kā. 1-2-1-1 | iti ṅidvadbhāvasya pratiṣiddhatvādgrahijyetyādinā saṃprasāraṇaṃ na bhavati asuno nittvādādyudāttatvam | dadhe | dadhāteḥ karmaṇyabhyāsahrasvajaśtveṣu kṛteṣvāto lopa iṭi cetyākāralopaḥ | pratyayasvareṇāntodāttatvam | hi ceti pratiṣedhānnighātābhāvaḥ ‖*
+
+*Translation:* "The aforesaid hundred or thousand [of Soma] is brought together for the exhilaration (*madāya*) of mighty (*śuṣmiṇe*: strong) Indra. By this very hundred and thousand (*enā hi*), in this Indra's belly, the pervasion (*vyacaḥ*) is held (*dadhe*): is held. Illustration: *samudro na* — like the sea: as water pervades the middle of the sea, so." The grammatical tail treats *enā* (*ā* for the instrumental by *supāṃ suluk*), *vyacaḥ* (the *kuṭādi* status of *vyac* is denied before *asi* (Kā. 1-2-1-1), so the *ṅit*-like treatment lapses and *grahijyā…* gives no *saṃprasāraṇa*; initial udātta as *asun* is *nit*) and *dadhe* (passive *liṭ*; after the reduplicated syllable's shortening and *jaś*, loss of *ā* by *āto lopa iṭi ca*; final udātta by the suffix accent; not made grave because of *hi ca*).
+
+### Page 465 — Sūkta 30, Rik 3 (continued)
 
 **Pratipadārtha** *(p. 465, rendered)* — **यत्** those (described before) hundreds and thousands of Soma-juices; **शुष्मिणे** for the strong Indra; **मदाय** for satisfaction (exhilaration); **एना हि** these [Soma-juices]; **समुद्रः न** as the sea [is filled with water]; **अस्य** this Indra's; **उदरे** in the belly; **व्यचः दधे** [they] fill.
 
@@ -9559,9 +9565,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > All those libations of Soma (which were mentioned above) are, for his intoxication, accumulated in the belly of powerful Indra as the water in the sea.
 
-**Viśeṣa-viṣayagaḷu** *(p. 465)* — **मदाय** — for contentment, to bring about intoxication. **शुष्मिणे** — *balavate*: to the strong Indra. **समुद्रो न** — as water gathers in the sea, so the hundreds and thousands of Soma-juices we offer collect in Indra's belly and give him exhilaration. **व्यचो दधे** — *vyāptyarthe dhṛtā bhavati*: 'spreading' means they are held filling the belly.
+**Viśeṣa-viṣayagaḷu** *(p. 465)* — **मदाय** — for contentment, to bring about intoxication. **शुष्मिणे** — *balavate*: to the strong Indra. **समुद्रो न** — as water gathers in the sea, so the hundreds and thousands of Soma-juices we offer collect in Indra's belly and give him exhilaration. **व्यचो दधे** — *vyāptir dadhe | dhṛtā bhavati*: 'pervasion' means they are held, gathered together in the belly.
 
-**Grammar (pp. 465–466), noted briefly:** *enā* (*dvitīyāṭausv enaḥ* P. 2-4-34: *ena* for *idam* after a prior mention; *ṭā* → *ā*, *supāṃ suluk* P. 7-1-39); *vyacaḥ* (*vyaca vyājīkaraṇe*, *tudādi*; *sarvadhātubhyo 'sun* Uṇ. 4-?? [?]; no *saṃprasāraṇa*; initial acute as *asun* is *nit*, P. 6-1-197); *dadhe* (*ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* ātmanepada, *e* by *liṭas tajhayor eśirec* P. 3-4-81; doubling; *ato lopa iṭi ca* P. 6-4-64; the lowering is barred because *hi* precedes, P. 8-1-34 *hi ca*). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(pp. 465–466, noted briefly)* — *enā*: '*dvitīyāṭausv enaḥ*' (Pā. sū. 2-4-34): *ena* for *idam*/*etad* in *anvādeśa* before the accusative, *ṭā* and *os*; *(p. 466)* *ā* for *ṭā* by '*supāṃ suluk*' (Pā. sū. 7-1-39). *vyacaḥ*: *vyaca vyājīkaraṇe*, *tudādi*; *asun* by '*sarvadhātubhyo 'sun*' (U. sū. 4-628); '*vyaceḥ kuṭāditvam anasi*' (Kā. 1-2-1-1), so no *ṅit*-treatment under '*gāṅkuṭādi*', and no *saṃprasāraṇa* by '*grahijyāvayi*' (Pā. sū. 6-1-16); initial udātta by '*ñnity ādir nityam*' (Pā. sū. 6-1-197). *dadhe*: *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*, passive *liṭ* third person singular; *eś* by '*liṭas tajhayor eśirec*' (Pā. sū. 3-4-81); doubling, shortening, *jaśtva*; loss of *ā* by '*āto lopa iṭi ca*' (Pā. sū. 6-4-64); final udātta; no lowering, by '*hi ca*' (Pā. sū. 8-1-34).
 
 ---
 ### Pages 466–468 — Sūkta 30, Rik 4
