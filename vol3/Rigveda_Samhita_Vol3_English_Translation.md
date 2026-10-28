@@ -6885,6 +6885,20 @@ Those who know tell me, Śunaḥśepa, that I should do Varuṇa's praise by nig
 
 **मह्यम् (mahyam)** — after the word *asmad*, when the fourth case singular is intended, the suffix *ṅe*; "ङेप्रथमयोरम्" gives *am* for it (the print gives the sūtra by name, no number); "तुभ्यमह्यौ ङयि" (Pā. Sū. 7-2-95, as read) gives, in the fourth singular, the substitute *mahya* for the stem *asmat* up to its *ma* (as the print says: *maparyantakke*); "शेषे लोपः" drops the remaining *ad*; *mahya* + *am*, "अमि पूर्वः" gives the earlier form: *mahyam*.
 
+### Page 283 — Rik 12: grammar (continued)
+
+*(Grammar page, noted briefly; numbers as read at page width, not zoomed.)*
+
+**मह्यम् (mahyam)** *(end)* — "ङयि च" (Pā. Sū. 6-1-2[?]): in the fourth case singular the words *yuṣmad* and *asmad* take the ādyudātta accent; hence the ādyudātta accent here.
+
+**आहुः (āhuḥ)** — root *brūñ vyaktāyāṃ vāci*, adādi; *laṭ*, third person plural, parasmaipada *jhi*. By "ब्रुवः पंचानामादित आहो ब्रुवः" (Pā. Sū. 3-4-84) the first five parasmaipada endings of *brū* in the *laṭ* take the *ṇal* etc. substitutes optionally and the root takes *āh*; so *jhi* becomes *us*; *āh* + *us*, and by "उस्यपदांतात्" (Pā. Sū. 6-1-96) the following form remains: *āhuḥ*.
+
+**हृदः (hṛdaḥ)** — the ablative of *hṛdaya*. *hṛdaya* + *ṅasi*: by "पद्दन्नोमास्हृ-…" (as printed) (Pā. Sū. 6-1-63) *hṛd* is substituted for *hṛdaya*; *ruttva* and visarga give *hṛdaḥ*. By "ऊडिदंपदादि-…" (as printed) (Pā. Sū. 6-1-1[?]) the ablative ending, being anudātta, is set aside and the udātta accent comes; the six substitutions of the "padda…" sūtra are to be taken together, so *hṛdaḥ* is a word with final udātta.
+
+**शुनःशेपः (śunaḥśepaḥ)** — *śuna iva śepo yasya saḥ* (one whose organ is like a dog's), *śunaḥśepaḥ*. Here the case-ending would be dropped by "सुपो धातुप्रातिपदिकयोः"; but by "शुनः शेपपुच्छलांगूलेषु संज्ञायां षष्ठ्या अलुग्वक्तव्यः" (Pā. Sū. 6-3-[?]) the genitive of *śvan* does not drop before the three words *śepa* etc. in a compound that is a name; *śunaḥśepaḥ* is here a person's name, so it holds. As a bahuvrīhi the first member's accent would come by "बहुव्रीहौ प्रकृत्या पूर्वपदम्", but by "उभे वनस्पत्यादिषु युगपत्" (Pā. Sū. 6-2-140, as read) both members of the compounds in the *vanaspati* group keep their own accent at the same time; this word belongs to that group, so both members keep their accent, and two udāttas are heard here.
+
+**अह्वत् (ahvat)** — root *hveñ spardhāyām*, bhvādi, *luṅ*, third person singular *tip*; "इतश्च" drops the *i*; for the *cli* of *luṅ*, "लिपिसिचिह्वश्च" (Pā. Sū. 3-1-5[?], printed ३-१-५३ as read) gives *aṅ*; since a suffix beginning with a vowel with *ṅ* follows, "आतो लोप इटि च" (Pā. Sū. 6-4-64) with "आदेच" (as printed; the sūtra is not otherwise named) drops the final *ā* of the root; the *luṅ*-marked *aṭ* augment comes, and *ahvat* results.
+
 ---
 
 ### Pages 284–287 — Sūkta 24, Rik 13
