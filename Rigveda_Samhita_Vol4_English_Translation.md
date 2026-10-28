@@ -3379,13 +3379,17 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.12 (pp. 217–220, PDF 231–234)
 
-**Saṃhitā-pāṭha** *(p. 217; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 217)*
 
-> **रायस्पूर्धि स्वधावोऽस्ति हि तेऽग्ने देवेष्वाप्यम् ।**
-> **त्वं वाजस्य श्रुत्यस्य राजसि स नो मृळ महाँ असि ॥ १२ ॥**
+> रा॒यस्पू॑र्धि स्वधा॒वोऽस्ति॒ हि तेऽग्ने॑ दे॒वेष्वाप्यं॑ ।
+> त्वं वाज॑स्य॒ श्रुत्य॑स्य राजसि॒ स नो॑ मृळ म॒हाँ अ॑सि ॥ १२ ॥
 
-*rāyas pūrdhi svadhāvo 'sti hi te 'gne deveṣv āpyam |*
-*tvaṃ vājasya śrutyasya rājasi sa no mṛḷa mahām̐ asi || 12 ||*
+*rāyás pūrdhi svadhā́vo 'stí hí té 'gne devéṣvā́pyaṃ |*
+*tváṃ vā́jasya śrútyasya rā́jasí sa no mṛḷa mahā́m̐ asi || 12 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The underline in "rājasi" stands under* si*, as printed.)*
+
+### Page 218
 
 **Pada-pāṭha** *(p. 218)*
 
@@ -3395,36 +3399,48 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *rāyaḥ | pūrdhi | svadhā-vaḥ | asti | hi | te | agne | deveṣu | āpyam ||*
 *tvam | vājasya | śrutyasya | rājasi | saḥ | naḥ | mṛḷa | mahān | asi || 12 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 218; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 218, in full)*
 
-> हे स्वधावोऽन्नवन्नग्ने । स्वधा अर्क इति तन्नामसु पाठात् [as printed; the Special Topics below give 'svadhā' as a word for food]। अस्माकं रायो धनानि पूर्धि पूरय देहि वा । पूर्धि पूरय देहीति वा । नि. ४-३ [?] । इति यास्कः । हे अग्ने ते तव देवेष्वाप्यं प्रापणीयं सख्यमस्ति हि । विद्यते खलु । त्वं श्रुत्यस्य श्रवणीयस्य वाजस्यान्नस्य राजसि । ईश्वरो भवसि । स त्वं नोऽस्मान्मृळ । सुखय । महान् गुणैरधिकोऽसि ॥
+> हे स्वधावोऽन्नवन्नग्ने । स्वधा अर्क इति तन्नामसु पाठात् [as printed; the Special Topics below give 'svadhā' as a word for food]। अस्माकं रायो धनानि पूर्धि पूरय देहि वा । पूर्धि पूरय देहीति वा । नि. ४-३ । इति यास्कः । हे अग्ने ते तव देवेष्वाप्यं प्रापणीयं सख्यमस्ति हि । विद्यते खलु । त्वं श्रुत्यस्य श्रवणीयस्य वाजस्यान्नस्य राजसि । ईश्वरो भवसि । स त्वं नोऽस्मान्मृळ । सुखय । महान् गुणैरधिकोऽसि ॥
 
-*he svadhāvo 'nnavann agne | svadhā arka iti tannāmasu pāṭhāt [as printed] | asmākaṃ rāyo dhanāni pūrdhi pūraya dehi vā | pūrdhi pūraya dehīti vā | ni. 4-3 [?] | iti yāskaḥ | he agne te tava deveṣv āpyaṃ prāpaṇīyaṃ sakhyam asti hi | vidyate khalu | tvaṃ śrutyasya śravaṇīyasya vājasyānnasya rājasi | īśvaro bhavasi | sa tvaṃ no 'smān mṛḷa | sukhaya | mahān guṇair adhiko 'si ||*
+*he svadhāvo 'nnavann agne | svadhā arka iti tannāmasu pāṭhāt [as printed] | asmākaṃ rāyo dhanāni pūrdhi pūraya dehi vā | pūrdhi pūraya dehīti vā | ni. 4-3 | iti yāskaḥ | he agne te tava deveṣv āpyaṃ prāpaṇīyaṃ sakhyam asti hi | vidyate khalu | tvaṃ śrutyasya śravaṇīyasya vājasyānnasya rājasi | īśvaro bhavasi | sa tvaṃ no 'smān mṛḷa | sukhaya | mahān guṇair adhiko 'si ||*
 
-**Translation:** "O *svadhāvaḥ* — Agni, possessed of food (*svadhā* is read among the lists of such names [the print's word is "*arka*", which does not suit; the Special Topics below give 'food'] ) — *rāyaḥ pūrdhi* — fill [us] with wealth, or give: '*pūrdhi* = *pūraya*, or *dehi*' (Ni. 4-3 [?]), so Yāska. O Agni, indeed there is *āpyam* — friendship to be obtained — with the gods, in you. You *rājasi* — are the lord — of the *śrutya* [famed, to-be-heard-of] *vāja*, food. That you, *mṛḷa* — make [us] happy. *Mahān asi* — you are great, superior in qualities."
+**Translation:** "O *svadhāvaḥ* — Agni, possessed of food (*svadhā* is read among the lists of such names [the print's word is "*arka*", which does not suit; the Special Topics below give 'food'] ) — *rāyaḥ pūrdhi* — fill [us] with wealth, or give: '*pūrdhi* = *pūraya*, or *dehi*' (Ni. 4-3), so Yāska. O Agni, indeed there is *āpyam* — friendship to be obtained — with the gods, in you. You *rājasi* — are the lord — of the *śrutya* [famed, to-be-heard-of] *vāja*, food. That you, *mṛḷa* — make [us] happy. *Mahān asi* — you are great, superior in qualities."
 
-**Grammar within the bhāṣya** *(p. 218, characterized)*: *rāyaḥ* (the ending acute by *ūḍidam…*); *pūrdhi* (*pṝ pālanapūraṇayoḥ*; *hi* for *sip*; *śruśṛṇupṝkṛvṛbhyaś chandasi* — *dhi* for *hi*; *śap* lost by *bahulaṃ chandasi*; *hi* is *apit*, so *ṅit*, *kṅiti ca*: no *guṇa*; *udoṣṭhyapūrvasya*: *u* for *ṛ* after a labial; *halica*: lengthening); *svadhāvaḥ* (*svadhā asyāsti*, *matup*; the *su* of the vocative becomes *ru*, by *matuvasor ru sambuddhau chandasi*; *māduparadhāyāś ca*: *m* → *v*); *āpyam* (*āpa vyāptau*, *yat*, by *poradupadhāt*; the accent of *yato 'nāvaḥ*); *śrutyasya* (*śru śravaṇe*, *kyap* by the Uṇādi [*oṇādika*], with *tuk*; or *śrutau bhavaḥ*, *yat* by *bhave chandasi*; *yasyeti ca*); *mṛḷa* (*mṛḍa sukhane*; *loṭ*, *hi*; *śa*; *ito 'tohe luk*, and the Bahvṛca *ḍ* → *ḷ*).
+**Grammatical tail of the bhāṣya** *(p. 218)*
+
+> रायः । ऊडिदमिति विभक्तेरुदात्तत्वम् । पूर्धि । पॄ पालनपूरणयोः । श्रुशृणुपॄकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति शपो लुक् । हेरपित्त्वेन ङित्त्वाद्गुणाभाव उदोष्ठ्यपूर्वस्य । पा. ७-१-१०२ । इत्युत्त्वम् । हलि चेति दीर्घः । स्वधावः । संबुद्धौ मतुवसोरिति रुत्वम् । आप्यम् । अदुपधत्वाभावेऽपि व्यत्ययेन पोरदुपधात् । पा. ३-१-९८ । इति कर्मणि यत् । यतोऽनाव इत्याद्युदात्तत्वम् । यद्वा । ण्यति छान्दसमाद्युदात्तत्वम् । श्रुत्यस्य । श्रु श्रवणे । औणादिकः क्यप् । तुगागमः । यद्वा । श्रुतिशब्दाद्भवे छन्दसीति यत् । मृळ । मृड सुखने । शस्य ङित्त्वाल्लघूपधगुणाभावः ॥
+
+*rāyaḥ | ūḍidamiti vibhakterudāttatvam | pūrdhi | pṝ pālanapūraṇayoḥ | śruśṛṇupṝkṛvṛbhyaśchandasīti herdhirādeśaḥ | bahulaṃ chandasīti śapo luk | herapittvena ṅittvādguṇābhāva udoṣṭhyapūrvasya | pā. 7-1-102 | ityuttvam | hali ceti dīrghaḥ | svadhāvaḥ | saṃbuddhau matuvasoriti rutvam | āpyam | adupadhatvābhāve 'pi vyatyayena poradupadhāt | pā. 3-1-98 | iti karmaṇi yat | yato 'nāva ityādyudāttatvam | yadvā | ṇyati chāndasamādyudāttatvam | śrutyasya | śru śravaṇe | auṇādikaḥ kyap | tugāgamaḥ | yadvā | śrutiśabdādbhave chandasīti yat | mṛḷa | mṛḍa sukhane | śasya ṅittvāllaghūpadhaguṇābhāvaḥ ‖*
+
+*(Sense:)* *rāyaḥ* (the ending acute by *ūḍidam…*); *pūrdhi* (*pṝ pālanapūraṇayoḥ*; *hi* for *sip*; *śruśṛṇupṝkṛvṛbhyaś chandasi* — *dhi* for *hi*; *śap* lost by *bahulaṃ chandasi*; *hi* is *apit*, so *ṅit*, *kṅiti ca*: no *guṇa*; *udoṣṭhyapūrvasya*: *u* for *ṛ* after a labial; *hali ca* (Pā. 8-2-77): lengthening); *svadhāvaḥ* (*svadhā asyāsti*, *matup*; the *su* of the vocative becomes *ru*, by *matuvasor ru sambuddhau chandasi*; *māduparadhāyāś ca*: *m* → *v*); *āpyam* (*āpa vyāptau*, *yat*, by *poradupadhāt*; the accent of *yato 'nāvaḥ*); *śrutyasya* (*śru śravaṇe*, *kyap* by the Uṇādi [*oṇādika*], with *tuk*; or *śrutau bhavaḥ*, *yat* by *bhave chandasi*; *yasyeti ca*); *mṛḷa* (*mṛḍa sukhane*; *loṭ*, *hi*; *śa*; *ito 'tohe luk*, and the Bahvṛca *ḍ* → *ḷ*).
 
 **Pratipadārtha** *(p. 218)* — "**svadhāvaḥ** — O Agni [you who are] endowed with food (the giver); **asmākam** — to us; **rāyaḥ** — riches; **pūrdhi** — fill; **agne** — O Agni; **te** — your; **deveṣu** — among the gods; **āpyam** — friendship [that can be had, i.e. our friendship with the gods can be had through you]; **asti hi** — it truly exists; **tvam** — you; **śrutyasya** — [of the food that is] famous to the ears; **vājasya** — of food; **rājasi** — are the lord; **saḥ tvam** — such a you; **naḥ** — us; **mṛḷa** — make happy; **mahān asi** — you are great, of eminent qualities."
+
+### Page 219
 
 **Bhāvārtha** *(p. 219)* — "O Agni, you are endowed with excellent qualities and have eminence. You are always the giver of food, rich in abundance of food, to all of us. You are lord of all famous gain of food. Give us food and make us happy. As you are the friend of the gods, make us too stand with those gods; for the sake of pleasing them, fill us with the riches that are needed to perform the sacrifice."
 
 **English Translation (the source's own, p. 219)** — "Agni, giver of food, fill us with wealth ; you are friendly with the gods (or our friendship of the gods is obtainable through you) you are lord of famous food, make happy, for you are great·" *(the print ends with a raised dot)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 219**
-- **pūrdhi** = *pūraya dehi vā*: "fill; that is, give. Yāska has explained the word *pūrdhi* as '*pūrdhi pūraya dehīti vā*' (Ni. 4-3 [?])."
-- **svadhāvaḥ** — "the vocative singular of *svadhāvān*. Since the word *svadhā* is read among the twenty-eight words for food beginning *andhaḥ*, *vājaḥ* (Ni. 2-7 [?]), *svadhā* means food, an eating; *svadhāvān* means one who has food, or an eater."
+- **pūrdhi** = *pūraya dehi vā*: "fill; that is, give. Yāska has explained the word *pūrdhi* as '*pūrdhi pūraya dehīti vā*' (Ni. 4-3)."
+- **svadhāvaḥ** — "the vocative singular of *svadhāvān*. Since the word *svadhā* is read among the twenty-eight words for food beginning *andhaḥ*, *vājaḥ* (no reference printed), *svadhā* means food, an eating; *svadhāvān* means one who has food, or an eater."
 - **āpyam** = *prāpaṇīyam*: "that which is fit to be obtained, that which can be reached: the friendship of the gods can be had only through you, is the sense."
 - **śrutyasya** = *śravaṇīyasya*, *prasiddhasya*: "that which is famous, needed by all, desired."
 - **rājasi** = *īśvaro bhavasi*: "you shine as the chief, the lord."
 
 **Vyākaraṇa-prakriyā** *(pp. 219–220, PDF 233–234 — grammar pages, noted briefly)*
 - **rāyaḥ**: *ūḍidaṃ padādyāpumrai­dyubhyaḥ*: the *śas* ending is acute.
-- **pūrdhi**: root *pṝ pālanapūraṇayoḥ*; *loṭ*, *sip*; *sip* → *hi* [*serhy apic ca*]; *bahulaṃ chandasi*: *luk* of *śap*; *śruśṛṇupṝkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — [Pā. 6-4-102]: *dhi* for *hi* after *śru*, *śṛṇu*, *pṝ*, *kṛ*, *vṛ* in the Veda; *hi* is *apit* by *serhy apic ca*, so *sārvadhātukam apit* makes it *ṅit*; *kṅiti ca* bars *guṇa*; *udoṣṭhyapūrvasya* — उदोष्ठ्यपूर्वस्य — [Pā. 7-1-102]: the *ṛ* at the end of a base preceded by a labial becomes *u*: the labials are *u*, the *p*-series, *upadhmānīya*; *pur + dhi*; *halica* — हलि च — [Pā. 8-2-77]: the lengthening of *i*, *u*, *ṛ* as penultimates of bases ending in *r* or *v* before a consonant: *pūrdhi*.
-- **svadhāvaḥ**: *svadhā asyāsti iti svadhāvān*; *tadasyāstyasminn iti matup*; *matuvasoru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि — [Pā. 8-3-1]: *ru* for the last letter of a word ending in *matup* or *vasu*; *māduparadhāyāś ca matorvo 'yavādibhyaḥ*: *m* → *v*.
-- **āpyam**: root *āpḷ vyāptau* — "this root does not have a short *a* penultimate; but by *vyatyaya* *poradupadhāt* — पोरदुपधात् — [Pā. 3-1-98] gives *yat* after a root ending in a labial and with a short *a* penultimate"; *yato 'nāvaḥ*: first-syllable acute for a *yat*-ending word of two vowels (other than *nau*); or the *ṇyat* of *ṛhaloṇyat*, by the Vedic first-syllable acute.
-- **śrutyasya**: *śru śravaṇe*; the *oṇādika* *kyap*, with *hrasvasya piti kṛti tuk*: *tuk*; or *śrutau bhavaḥ* — *bhave chandasi* [Pā. 4-4-110]: *yat*; *yasyeti ca*: loss of *i*.
-- **mṛḷa**: root *mṛḍa sukhane*, *loṭ*, *sip*, *hi*; *tudādibhyaḥ śaḥ*: *śa*, which is *ṅit* by the *ik*-letter *ś* [as read], so no *laghūpadha-guṇa*; *ato heḥ* — अतो हेः — [Pā. 6-4-105]: *luk* of *hi* after a base ending in *a*; *ḍ* → *ḷ* in the Bahvṛca tradition. Rik 12 ends here (*|| 12 ||*).
+- **pūrdhi**: root *pṝ pālanapūraṇayoḥ*; *loṭ*, *sip*; *sip* → *hi* [*serhy apic ca*]; *bahulaṃ chandasi*: *luk* of *śap*; *śruśṛṇupṝkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — (Pā. 6-4-102): *dhi* for *hi* after *śru*, *śṛṇu*, *pṝ*, *kṛ*, *vṛ* in the Veda;
+
+### Page 220
+
+(continued, p. 220) *hi* is *apit* by *serhy apic ca*, so *sārvadhātukam apit* (Pā. 1-2-4) makes it *ṅit*; *kṅiti ca* (Pā. 1-1-5) bars *guṇa*; *udoṣṭhyapūrvasya* — उदोष्ठ्यपूर्वस्य (Pā. 7-1-102): the *ṛ* at the end of a base preceded by a labial becomes *u*: the labials are *u*, the *p*-series, *upadhmānīya*; *pur + dhi*; *hali ca* (Pā. 8-2-77) — हलि च — [Pā. 8-2-77]: the lengthening of *i*, *u*, *ṛ* as penultimates of bases ending in *r* or *v* before a consonant: *pūrdhi*.
+- **svadhāvaḥ**: *svadhā asyāsti iti svadhāvān*; *tadasyāstyasminn iti matup*; *matuvasoru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि (Pā. 8-3-1): *ru* for the last letter of a word ending in *matup* or *vasu*; *māduparadhāyāś ca matorvo 'yavādibhyaḥ*: *m* → *v*.
+- **āpyam**: root *āpḷ vyāptau* — "this root does not have a short *a* penultimate; but by *vyatyaya* *poradupadhāt* — पोरदुपधात् (Pā. 3-1-98) gives *yat* after a root ending in a labial and with a short *a* penultimate"; *yato 'nāvaḥ* (Pā. 6-1-213): first-syllable acute for a *yat*-ending word of two vowels (other than *nau*); or the *ṇyat* of *ṛhaloṇyat*, by the Vedic first-syllable acute.
+- **śrutyasya**: *śru śravaṇe*; the *oṇādika* *kyap*, with *hrasvasya piti kṛti tuk*: *tuk*; or *śrutau bhavaḥ* — *bhave chandasi* (Pā. 4-4-110): *yat*; *yasyeti ca*: loss of *i*.
+- **mṛḷa**: root *mṛḍa sukhane*, *loṭ*, *sip*, *hi*; *tudādibhyaḥ śaḥ*: *śa*, which is *ṅit*, so no *laghūpadha-guṇa*; *ato heḥ* — अतो हेः — (no number printed): *luk* of *hi* after a base ending in *a*; *ḍ* → *ḷ* in the Bahvṛca tradition. Rik 12 ends here (*|| 12 ||*).
 
 ### Rik 36.13 (p. 220 foot, PDF 234–)
 
