@@ -9077,38 +9077,65 @@ This ṛk may also be explained differently: *svagnayaḥ prasannāgniyuktā dev
 
 ---
 
-### Pages 368–370 — Sūkta 26, Rik 9
+### Page 368 (lower) — Sūkta 26, Rik 9
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अथा न उभयेषाममृत मर्त्यानाम् ।
-> मिथः सन्तु प्रशस्तयः ॥ ९ ॥
+> अथा॑ न उ॒भये॑षा॒ममृ॑त॒ मर्त्या॑नां ।
+> मि॒थः स॑न्तु॒ प्रश॑स्तयः ॥९॥
+>
+> *áthā na ubháyeṣāmámṛta mártyānāṃ |*
+> *mitháḥ santu práśastayaḥ ||9||*
 
-*athā na ubhayeṣām amṛta martyānām | mithaḥ santu praśastayaḥ || 9 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अथ । नः । उभयेषाम् । अमृत । मर्त्यानाम् ॥ मिथः । सन्तु । प्रऽशस्तयः ॥ ९ ॥
+> अथ । नः । उभयेषां । अमृत । मर्त्यानां । मिथः । संतु । प्रऽशस्तयः ॥९॥
 
-*atha | naḥ | ubhayeṣām | amṛta | martyānām || mithaḥ | santu | pra-śastayaḥ || 9 ||*
+> *atha | naḥ | ubhayeṣāṃ | amṛta | martyānāṃ | mithaḥ | saṃtu | pra-śastayaḥ ‖9‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 368)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> हे अग्ने अमृत मरणरहिताग्ने अथ कर्मानुष्ठानानन्तरं मर्त्यानां मनुष्याणां नोऽस्माकमस्मत्स्वामिनश्च त्वत्स्वामिनश्चोभयेषां मिथः परस्परं प्रशस्तयः प्रशंसारूपा वाचः सन्तु । सम्यग्गनुष्ठितमिति यजमानविषया प्रशंसा । सम्यग्गनुगृहीतमित्यग्निविषया ॥ अथ । निपातस्य चेति संहितायां दीर्घः । अमृत । अपादादाविति पर्युदासाष्टमिकमामुद्यादुदात्तत्वम् । मर्त्यानाम् । मृञ् प्राणत्यागे । असिहसीत्यादिना तन्प्रत्ययांतो मर्तशब्दः । तस्माद्भवे छन्दसि । पा. ४-४-११० । इति यत् । यस्येति लोपे प्रत्ययस्वरेण मध्योदात्तत्वम् । सन्तु । शसोरल्लोपः । प्रशस्तयः । तादौ चेति गतेः प्रकृतिस्वरत्वम् ॥
+> हे अग्ने अमृत मरणरहिताग्ने अथ कर्मानुष्ठानानंतरं मर्त्यानां मनुष्याणां नोऽस्माकमस्मत्स्वामिनस्तव चोभयेषां मिथः परस्परं प्रशस्तयः प्रशंसारूपा वाचः संतु । सम्यगनुष्ठितमिति यजमानविषया प्रशंसा । सम्यगनुगृहीतमित्यग्निविषया ॥ अथ । निपातस्य चेति संहितायां दीर्घः । अमृत । अपादादाविति पर्युदासात्षाष्ठिकमाद्युदात्तत्वं । मर्त्यानां । मृङ् प्राणत्यागे । असिहसीत्यादिना तन्प्रत्ययांतो मर्तशब्दः । तस्माद्भवे छंदसि । पा. ४-४-११० । इति यत् । यतोऽनाव इत्याद्युदात्तत्वं । संतु । श्नसोरल्लोपः । प्रशस्तयः । तादौ चेति गतेः प्रकृतिस्वरत्वं ॥
 
-*he agne amṛta maraṇarahitāgne atha karmānuṣṭhānānantaraṃ martyānāṃ manuṣyāṇāṃ no 'smākam asmatsvāminaś ca tvatsvāminaś cobhayeṣāṃ mithaḥ parasparaṃ praśastayaḥ praśaṃsārūpā vācaḥ santu | samyag anuṣṭhitam iti yajamānaviṣayā praśaṃsā | samyag anugṛhītam ity agniviṣayā || atha | nipātasya ceti saṃhitāyāṃ dīrghaḥ | amṛta | apādādāv iti paryudāsād aṣṭamikamāmudyād udāttatvam | martyānām | mṛñ prāṇatyāge | asihasīty ādinā tanpratyayānto martaśabdaḥ | tasmād bhave chandasi | pā. 4-4-110 | iti yat | yasyeti lope pratyayasvareṇa madhyodāttatvam | santu | śnasor allopaḥ | praśastayaḥ | tādau ceti gateḥ prakṛtisvaratvam ||*
+> *he agne amṛta maraṇarahitāgne atha karmānuṣṭhānānaṃtaraṃ martyānāṃ manuṣyāṇāṃ no 'smākamasmatsvāminastava cobhayeṣāṃ mithaḥ parasparaṃ praśastayaḥ praśaṃsārūpā vācaḥ saṃtu | samyaganuṣṭhitamiti yajamānaviṣayā praśaṃsā | samyaganugṛhītamityagniviṣayā ‖ atha | nipātasya ceti saṃhitāyāṃ dīrghaḥ | amṛta | apādādāviti paryudāsātṣāṣṭhikamādyudāttatvaṃ | martyānāṃ | mṛṅ prāṇatyāge | asihasītyādinā tanpratyayāṃto martaśabdaḥ | tasmādbhave chaṃdasi | pā. 4-4-110 | iti yat | yato 'nāva ityādyudāttatvaṃ | saṃtu | śnasorallopaḥ | praśastayaḥ | tādau ceti gateḥ prakṛtisvaratvaṃ ‖*
 
-**Translation:** "O Agni, *amṛta* — deathless! *Atha* — after the performance of the rite, may there be between us mortals — [that is] between both parties, the master of us [the sacrificer] and your master [?] — *mithaḥ* — mutually — *praśastayaḥ*: words of praise. Praise addressed to the sacrificer is: 'well performed'; to Agni: 'well favoured'. *Atha*: lengthening of the particle in the Saṃhitā. *Amṛta*: [vocative]. *Martyānām*: *mṛñ prāṇatyāge* ['to die']; the word *marta* ends in *tan* by Uṇ. 3-94; from it *yat* in the sense 'being in' in the Veda (P. 4-4-110); the *a* lost by P. 6-4-148; the accent is that of the suffix (middle). *Santu*: loss of the *a* of *śnas*. *Praśastayaḥ*: the *gati* keeps its accent." *(Grammar pages 369–370, noted briefly: the words treated are* athā *[*atha* is a *nipāta* by P. 1-4-57 *cādayo 'sattve*; lengthened in the Saṃhitā by P. 6-3-136 *nipātasya ca*],* amṛta *[*mṛṅ prāṇatyāge*, *tudādi*, *kta*; the *nañ*-compound; because it stands at the head of the pāda the lowering of the vocative is not applied (*apādādau*, P. 8-1-18); the first-syllable acute by P. 6-1-198 *āmantritasya ca*],* martyānām *[*mṛñ* + *tan* by Uṇ. 3-86 *asihasimṛgrinyāṅ* [?]; guṇa → *marta*; *bhave chandasi* P. 4-4-110 → *yat*; the final *a* of *marta* lost P. 6-4-148 *yasyeti ca*; genitive plural with *nuṭ* P. 7-1-54 and lengthening by P. 6-4-3 *nāmi*; the *yat*-final is *tit*-svarita so the middle syllable is acute],* santu *[*as bhuvi*, *adādi*; *loṭ* 3rd plural *jhi* → *antu* by P. 3-4-86 *eruḥ* and *anta* by P. 7-1-3 *jho 'ntaḥ*; *śap* lost by P. 2-4-72 *adiprabhṛtibhyaḥ śapaḥ*; the *a* of *as* lost by P. 6-4-111 *śnasor allopaḥ*] and* praśastayaḥ *[*pra* + *śaṃsu stutau* + *ktin*; loss of the nasal by P. 6-4-24; the *gati* keeps its accent before a *kṛt* beginning with *t*, P. 6-2-50 *tādau ca niti kṛtyatau*; so first-syllable acute]; numerals as read, pointers only.)*
+*(Number read at 450 dpi: पा. ४-४-११०.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 369)* **अमृत (amṛta)** — O Agni, free of death | **अथ (atha)** — after the completion of the rite | **प्रशस्तयः (praśastayaḥ)** — words of praise | **मर्त्यानाम् (martyānām)** — of us mortals | **नः (naḥ)** — to us | **उभयेषाम् (ubhayeṣām)** — of both parties [you and us] | **मिथः (mithaḥ)** — mutually [for each other's good] | **सन्तु (santu)** — may there be.
+*Gist:* O immortal Agni, after the rite let there be words of praise between both of us, us mortals and you: "well performed" for the sacrificer, "well favoured" for Agni.
 
-**॥ Bhāvārthaḥ ॥** O deathless Agni! After the performance of the rite, may praises, offered mutually, bring happiness to both sides — to us and to you.
+### Page 369 — Rik 9: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **अमृत (amṛta)** — O Agni, free from death | **अथ (atha)** — after the completion of the sacrificial rite | **प्रशस्तयः (praśastayaḥ)** — (in the matter of the rite, ours and yours) words in the form of praise | **मर्त्यानां (martyānāṃ)** — being human | **नः (naḥ)** — to us | **उभयेषां (ubhayeṣāṃ)** — (we and you) to both sides | **मिथः (mithaḥ)** — mutually (and for the happiness of both) | **संतु (saṃtu)** — may they be fulfilled.
+
+**॥ Bhāvārthaḥ ॥** O Agni, free from death, after the sacrificial rite, may the words of praise, ours and yours, that ought to pass concerning the rite, praising the fruitfulness of the sacrifice, bring happiness to both sides, to us who are human and to you.
+
+**॥ English Translation ॥** *(as printed)*
 
 > And now, Agni, may there be an interchange of praises between you, the immortal, and us the mortals.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 369)* **उभयेषाम्** — of you, Agni, and of us men: both [sides]. **अमृते** — free of death. **प्रशस्तयः** — *praśaṃsārūpā vācaḥ*; the commentator says: 'praise addressed to the sacrificer — "[the rite] was well performed" — and praise addressed to Agni — "[he] has been well favoured" — as mutual speech of praise'; so there is conversation and mutual praise between the sacrificer and Agni: 'carry out the sacrificial work well' [to Agni], and the sacrificer is blessed with honour and congratulations by Agni and by those who attend.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**उभयेषां (ubhayeṣāṃ)** — to both, to you who are Agni and to us who are men.
+
+**अमृत (amṛta)** — free from death.
+
+**प्रशस्तयः (praśastayaḥ)** — *praśaṃsārūpā vācaḥ | samyag anuṣṭhitam iti yajamānaviṣayā praśaṃsā | samyag anugṛhītam ity agniviṣayā*: conversation in the form of mutual praise; Agni says, "you have carried out the sacrifice well", and the people, the sacrificers, say, "we have been favoured by you": they greet each other in this way.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**अथ (atha)** — by "चादयोऽसत्त्वे" (Pā. Sū. 1-4-57) it is called *nipāta*; by "निपातस्य च" (Pā. Sū. 6-3-136) it is lengthened in the Saṃhitā: *athā*.
+
+**अमृत (amṛta)** — *mṛṅ prāṇatyāge*; *kta* in the abstract sense; *na vidyate mṛtaṃ yasya saḥ amṛtaḥ*; in the vocative *amṛta*. Standing at the beginning of a pāda, the exclusion "अपादादौ" bars the *nighāta* of the eighth book; by "आमन्त्रितस्य च" (Pā. Sū. 6-1-198) it is initially acute.
+
+### Page 370 — Rik 9: grammar (end)
+
+**मर्त्यानाम् (martyānām)** — *mṛṅ prāṇatyāge*; by "असिहसिमृग्रि-" (Uṇ. Sū. 3-366, in the Kannada grammar's series) the suffix *tan*; guṇa of the root before *tan*, followed by *r*: *marta*. Then by "भवे छन्दसि" (Pā. Sū. 4-4-110) *yat* in the sense of "being there"; before a *y* by "यस्येति च" (Pā. Sū. 6-4-148) the preceding *a* is dropped: *martya*; genitive plural *martyānām*. By "यतोऽनावः" (Pā. Sū. 6-1-213), as it is not the word *nau* and ends in *yat*, it is initially acute.
+
+**संतु (saṃtu)** — *asa bhuvi*, adādi; in the *loṭ* third plural the *anta* substitute for *jha*; by "एरुः" (Pā. Sū. 3-4-86) *u*. With *as* + *antu*, by "अदिप्रभृतिभ्यः शपः" (Pā. Sū. 2-4-72) the vikaraṇa takes *luk*; by "श्नसोरल्लोपः" (Pā. Sū. 6-4-111), before a vowel-initial *ṅit* suffix, the *a* of *as* is dropped: *santu*.
+
+**प्रशस्तयः (praśastayaḥ)** — *śaṃsu stutau*; before *ktin*, by "अनिदितां हल-" (Pā. Sū. 6-4-24) the penultimate *n* is dropped: *praśasti*; nominative plural. By "तादौ च निति कृत्यतौ" (Pā. Sū. 6-2-50), before a *t*-initial *nit* *kṛt* suffix other than *tu*, the *gati* keeps its own accent; since *ktin* follows, the *gati*'s udātta is not set aside: *praśastayaḥ* is initially acute. ॥९॥ *(A printed rule follows; Ṛk 10 begins on the same page.)*
 
 ---
 
