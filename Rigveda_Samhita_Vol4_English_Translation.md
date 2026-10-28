@@ -8846,15 +8846,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.12 (pp. 531–534)
+### Rik 44.12 (pp. 531–534; better scan PDF 546–549)
 
-**Saṃhitā-pāṭha** *(p. 531; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 531)*
 
-> **यद्देवानां मित्रमहः पुरोहितोऽन्तरो यासि दूत्यम् ।**
-> **सिन्धोरिव प्रस्वनितास ऊर्मयोऽग्नेर्भ्राजन्ते अर्चयः ॥ १२ ॥**
+> **यद्दे॒वानां॑ मित्र॒महः पु॒रोहि॒तोऽन्त॑रो॒ यासि॑ दू॒त्यं॑ ।**
+> **सिन्धो॑रिव॒ प्र॒स्व॑नितास ऊ॒र्मयो॒ऽग्नेर्भ्रा॑जन्ते अ॒र्चयः॑ ॥ १२ ॥**
 
-*yad devānāṃ mitramahaḥ purohito 'ntaro yāsi dūtyam |*
-*sindhor iva prasvanitāsa ūrmayo 'gner bhrājante arcayaḥ || 12 ||*
+*yad devā́nāṃ mitramáhaḥ puróhitó 'ntaro yā́si dūtyaṃ |*
+*síndhor iva prasvanitāsa ūrmáyo 'gnér bhrājante arcáyaḥ || 12 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 531)*
 
@@ -8876,18 +8878,21 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Translation:** "O *mitramahaḥ*, O Agni, worshipped by friends (or: worshipper of friends); *yat*, when you, set up as *purohita* on the east side of the altar, being *antaraḥ*, in the middle of the place of divine worship, *yāsi dūtyam*, perform and attain the office of messenger of the gods, *tadānīm*, then your *arcayaḥ*, flames, *bhrājante*, blaze, shine. The simile: *sindhor iva*, just as the *prasvanitāsaḥ*, loudly resounding *ūrmayaḥ*, waves, of the ocean shine, so do they."
 
-**Grammatical tail** *(p. 532; characterized, numerals as read [?])*
-- *mitramahaḥ*: root *maha pūjāyām*; "he who is honoured (*mahyate*) by friends, the priests"; the Uṇādi suffix *asun*.
-- *yāsi*: because of the *yad*-relation (*yadvṛtta*) the verb is not unaccented (*anighāta*).
-- *dūtyam*: "the work of a messenger"; the suffix *yat* by "*dūtasya bhāgakarmaṇī*" (Pā. 4-4-120 as read [?]); by the saying "all rules are optional in the Chandas" the initial acute does not arise, and by *tit svaritam* a *svarita* comes.
-- *prasvanitāsaḥ*: root *svana / dhvana śabde*; *niṣṭhā* in the abstract sense; "those whose sounding is excellent" (*prakṛṣṭaṃ svanitaṃ yeṣāṃ te*); the *āsuk*-augment (printed "*āsugāgamaḥ*", doubtful reading [?]; the grammar page names it *asuk*); in the bahuvrīhi the first member keeps its natural accent.
-- *ūrmayaḥ*: *arter ūc ca* (Uṇ. 4-[?] as read), the suffix *mi*.
+**Sāyaṇa-bhāṣya, grammatical tail** *(p. 532; transcribed from the better scan, PDF 547)*
+
+> **मित्रमहः । मह पूजायां । मित्रैरृत्विग्भिर्महते पूज्यत इति मित्रमहाः । औणादिकोऽसुन् । यासि । यद्वृत्तयोगादनिघातः । दूत्यं । दूतस्य कर्म दूत्यं । दूतस्य भागकर्मणी । पा. ४-४-१२० । इति यत्प्रत्ययः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनाद्यतोऽनाव इत्याद्युदात्तत्वाभावे तित्स्वरितमिति स्वरितत्वं । प्रस्वनितासः । स्यमु स्वन ध्वन शब्दे । भावे निष्ठा । प्रकृष्टं स्वनितं येषां ते प्रस्वनिताः । असुगागमः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । ऊर्मयः । अर्तेरूच्च । उ. ४-४-४४ । इति मिप्रत्ययः ॥**
+
+*mitramahaḥ | maha pūjāyāṃ | mitrair ṛtvigbhir mahate pūjyata iti mitramahāḥ | auṇādiko 'sun | yāsi | yadvṛttayogād anighātaḥ | dūtyaṃ | dūtasya karma dūtyaṃ | dūtasya bhāgakarmaṇī | pā. 4-4-120 | iti yatpratyayaḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād yato 'nāva ity ādyudāttatvābhāve tit svaritam iti svaritatvaṃ | prasvanitāsaḥ | syamu svana dhvana śabde | bhāve niṣṭhā | prakṛṣṭaṃ svanitaṃ yeṣāṃ te prasvanitāḥ | asugāgamaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | ūrmayaḥ | arter ūc ca | u. 4-4-44 | iti mipratyayaḥ ||*
+
+*(Gist: mitramahas with asun; yāsi not unaccented after yad; dūtya with yat (Pā. 4-4-120), svarita by tit svaritam; prasvanita a bahuvrīhi with the asuk augment; ūrmi with mi (Uṇ. "4-4-44" as printed). The bhāṣya ends "॥" without a number.)*
 
 **Pratipadārtha** *(p. 532)* — "**mitramahaḥ** — O Agni, worshipped by the priests or by friendly people; **yat** — when; **purohitaḥ** — placed as *purohita* in the eastern part of the altar; **antaraḥ** — being in the middle part of the sacrificial place; **devānām** — of the gods; **dūtyam** — the work of messenger; **yāsi** — you take up (then); **agneḥ** — of you, god Agni; **arcayaḥ** — the flames; **sindhoḥ** — of the ocean; **prasvanitāsaḥ** — roaring with sound; **ūrmayaḥ** — the waves; **(iva** — as if, shining**)**; **bhrājante** — shine."
 
 **Bhāvārtha** *(p. 532)* — "O god Agni, many priests worship you. When you are placed in the eastern part of the altar as *purohita* and, being in the middle of the sacrificial place, take up the work of messenger of the gods — then, since you alone carry all the oblations offered to all the gods, your flames rise very high. Then, like the waves of the ocean that roar and shine, they shine with sound and with brilliance."
 
 **English Translation (the source's own, p. 532)** — "O Agni, you are being worshipped by the friendly priests ; when you are placed in front of the altar ( or as a Purohita at a sacrifice ) and are installed as the messenger of the gods, then your flames roar like the resounding billows of the ocean."
+
+### Page 533
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 533**
 - **yat** — "*yadā*: when."
@@ -8898,11 +8903,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **arcayaḥ** — "the flames of Agni; the flames of Agni that blaze well, with a crackling, from the oblations such as ghee which the priests pour in the sacrifice. The idea is that they blaze up, as the waves of the ocean, struck by the wind, come to the shore and dash and roar loudly."
 
 **Vyākaraṇa-prakriyā** *(pp. 533–534 — grammar pages, noted briefly)*
-- **mitramahaḥ**: analysis "*mitraiḥ mahyate pūjyate*"; root *maha pūjāyām*; the suffix *asun* by "*sarvadhātubhyo 'sun*" (Uṇ. 4-[?], as printed without a number I could read).
-- **yāsi**: *yadvṛttān nityam* (Pā. 8-1-66 as read [?]) — यद्वृत्तान्नित्यम् — forbids the all-unaccented (*sarvānudātta*) of the verb.
-- **dūtyam**: *dūtasya bhāgakarmaṇī* (Pā. 4-4-120 as read [?]) — दूतस्य भागकर्मणी — the suffix *yat* in the senses of "share" and "work"; *dūta + ya*, *yasyeti ca* (the *a* is dropped); the rule on acute *yato 'nāvaḥ* is optional in the Veda by the maxim "*sarve vidhayaś chandasi vikalpyante*" (paribhāṣā, number as read "63" [?]), so does not come here; by *tit svaritam* a *svarita* arises. The Kāśikā-author is said to quote the statement "*dūtavaṇigbhyāṃ ca*" [as read, ?] at this place; from this too the desired accent is not obtained when *ya* comes.
+- **mitramahaḥ**: analysis "*mitraiḥ mahyate pūjyate*"; root *maha pūjāyām*; the suffix *asun* by "*sarvadhātubhyo 'sun*" (no number printed).
+- **yāsi**: *yadvṛttān nityam* (no number printed) — यद्वृत्तान्नित्यम् — forbids the all-unaccented (*sarvānudātta*) of the verb.
+- **dūtyam**: *dūtasya bhāgakarmaṇī* (Pā. 4-4-120) — दूतस्य भागकर्मणी — the suffix *yat* in the senses of "share" and "work"; *dūta + ya*, *yasyeti ca* (the *a* is dropped); the rule on acute *yato 'nāvaḥ* is optional in the Veda by the maxim "*sarve vidhayaś chandasi vikalpyante*" (printed "paribhā[ṣā] 35"), so does not come here; by *tit svaritam* a *svarita* arises. The Kāśikā-author is said to quote the statement "*dūtavaṇigbhyāṃ ca*" at Pā. 5-1-126 (as printed); from this too the desired accent is not obtained when *ya* comes.
 - **prasvanitāsaḥ**: root *svana* (or *dhvana*) *śabde*; *niṣṭhā* (*kta*) in the abstract sense by "*niṣṭhā*" (as printed); *ārdhadhātukasyeḍ valādeḥ* gives *iṭ*; *svanita*; *prakṛṣṭaṃ svanitaṃ yeṣāṃ te*, a bahuvrīhi (the sense of *pra* being "excellent"); first member keeps its accent; then *jas*; *prasvanita + as* with the *asuk* augment by *ājjaser asuk* (Pā. 7-1-50).
-- **ūrmayaḥ**: root *ṛ gatau*; *arter ūc ca* (Uṇ. 4-[?] as read): the suffix *mi* after *ṛ* and *ū* as the substitute for the root's vowel; the *ū* replacing *ṛ* is *raparatva*: *ūr + mi = ūrmi*. Some hold that the *ū* without the *repha* is enough and that by *hali ca* (Pā. 8-2-77 as read) lengthening follows, so that *ūrmi* is obtained thus. **|| 12 ||**
+- **ūrmayaḥ**: root *ṛ gatau*; *arter ūc ca* (Uṇ. 4-484, as printed here; the bhāṣya gives "4-4-44"): the suffix *mi* after *ṛ* and *ū* as the substitute for the root's vowel; the *ū* replacing *ṛ* is *raparatva*: *ūr + mi = ūrmi*. Some hold that the *ū* without the *repha* is enough and that by *hali ca* (Pā. 8-2-77) lengthening follows, so that *ūrmi* is obtained thus. **|| 12 ||**
 
 ---
 
