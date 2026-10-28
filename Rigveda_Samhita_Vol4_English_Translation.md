@@ -1593,39 +1593,45 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 - **omānam** (p. 102): root *ava rakṣaṇe*; *anyebhyo 'pi dṛśyante* — अन्येभ्योऽपि दृश्यन्ते — Pā. 3-2-75: *manin*, *kvanip*, *vanip*, *vic* come also after other roots; so *manin*: *av + man*; by *jvaratvarasrivyaviyamy… upadhāyāś ca* — ज्वरत्वरस्रिव्यविमवामुपधायाश्च — Pā. 6-4-20 [as printed] — and the sūtra before it, *cchvoḥ śūḍ anunāsike ca* — च्छ्वोः शूडनुनासिके च — Pā. 6-4-19 — *ūṭh* replaces the *v* [and the penultimate]; the continuing words *anunāsike* and *kvijhaloḥ* are discussed (the print explains that *kṅiti* does not run on, but *kvijhaloḥ* does, so that the rule applies when *kvip*, a *jhal*-initial or nasal-initial suffix follows: for the *jvarādi* roots both the *v* and the penultimate become *ū*); *av + man* → *ū + man*; *guṇa* by *sārvadhātukārdhadhātukayoḥ* (no number printed): *o + man*. If *ū* were taken from the sūtra *jvaratvara…* without the continuing *anunāsike*, then with *a + ū + man* the *vṛddhi* of *eti-edhaty-ūṭhsu* — एत्येधत्यूठ्सु — Pā. 6-1-89 would apply and the word would be *aumānam*, not *omānam*; for this reason the Kaumudī says: "*anunāsikagrahaṇaṃ cānuvartate; avater manpratyaye tasya ṭilope om iti darśanāt*" — "the word *anunāsike* continues; for from *av* with the suffix *man*, with the loss of its *ṭi*, *om* is seen". In the Veda-bhāṣya the passage *yad ijjyaratvara…* is also used. The print notes two views: that *ūṭh* replaces the two letters (*v* and the penultimate) one after the other, and that the one substitute, owing to the *sthāne* [“in the place of”] language, replaces both at once; both views are set out in the bhāṣya.
 - **śubhaspatī** (p. 102 end – p. 103): root *śubha dīptau*; *kvip* by the *sampadādi* group; *ṣaṣṭhyāḥ patiputrapṛṣṭhapārapadapayaspoṣeṣu* — षष्ठ्याः पतिपुत्रपृष्ठपारपदपयस्पोषेषु — Pā. 8-3-53: in the Saṃhitā the *visarga* of a genitive ending becomes *s* before these words; *patī* is a vocative dual, *āmantrita* by *sāmantritam* — सामन्त्रितम् — Pā. 2-3-48; for the accent, the *sup*-word *śubhaḥ* is treated as part of the *pada* beside *patī* by *subāmantrite parāṅgavat svare* — सुबामन्त्रिते पराङ्गवत्स्वरे — Pā. 2-1-2, so the two make one word; *āmantritasya ca* — आमन्त्रितस्य च — Pā. 8-1-19: both words are wholly unaccented. Rik 6 ends here (*|| 6 ||*).
 
-### Rik 34.7 (pp. 103–106, PDF 117–120)
+### Rik 34.7 (pp. 103–107, PDF 118–122)
 
-**Saṃhitā-pāṭha** *(p. 103; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 103; Saṃhitā accents as printed; Pada unaccented)*
 
-> **त्रिर्नो अश्विना यजता दिवेदिवे परि त्रिधातु पृथिवीमशायतम् ।**
-> **तिस्रो नासत्या रथ्या परावत आत्मेव वातः स्वसराणि गच्छतम् ॥ ७ ॥**
+> त्रिर्नो॑ अश्विना यज॒ता दि॒वेदि॑वे॒ परि॑ त्रि॒धातु॑ पृथि॒वीम॑शायतम् ।
+> त्रि॒स्रो ना॑सत्या रथ्या परा॒व॑त आ॒त्मेव॒ वातः॒ स्वस॑राणि गच्छतम् ॥ ७ ॥ [accent ?]
+>
+> *trír no aśvinā yajatā́ divédive pári tridhā́tu pṛthivī́m aśāyatam |*
+> *trisró nāsatyā rathyā parāvata ātméva vā́taḥ svásarāṇi gacchatam || 7 || [accent ?]*
 
-*trir no aśvinā yajatā dive-dive pari tridhātu pṛthivīm aśāyatam |*
-*tisro nāsatyā rathyā parāvata ātmeva vātaḥ svasarāṇi gacchatam || 7 ||*
+(As printed: *yajatā* has only an underline under ಜ, *aśvinā*, *rathyā* and *gacchatam* no marks. [accent ?]: in *parāvata* the svarita stroke stands between ವ and ತ and is given on व.)
 
 **Pada-pāṭha** *(p. 103)*
 
-> त्रिः । नः । अश्विना । यजता । दिवेऽदिवे । परि । त्रिऽधातु । पृथिवीम् । अशायतम् ॥
+> त्रिः । नः । अश्विना । यजता । दिवेऽदिवे । परि । त्रिऽधातु । पृथिवीम् । अशायतम् ।
 > तिस्रः । नासत्या । रथ्या । पराऽवतः । आत्माऽइव । वातः । स्वसराणि । गच्छतम् ॥ ७ ॥
 
-*triḥ | naḥ | aśvinā | yajatā | dive-dive | pari | tri-dhātu | pṛthivīm | aśāyatam ||*
+*triḥ | naḥ | aśvinā | yajatā | dive-dive | pari | tri-dhātu | pṛthivīm | aśāyatam |*
 *tisraḥ | nāsatyā | rathyā | parā-vataḥ | ātmā-iva | vātaḥ | svasarāṇi | gacchatam || 7 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 103–104; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 103–104, in full; numerals zoom-checked)*
 
-> हे अश्विना दिवे दिवे प्रतिदिनम् । दिवेदिवे द्यौर्विद्येत्यहर्नामसु पठितत्वात् । यजता यष्टव्यौ युवां नोऽस्मदीयां पृथिवीं वेदिरूपां भूमिं परि सर्वतः प्राप्य त्रिधातु कक्ष्यात्रययुक्ते आस्तीर्णे बर्हिषि त्रिस्त्रिवारमशायतम् । शयनं कुरुतम् । हे रथ्या रथ्यौ रथस्वामिनौ तिस्रस्त्रिसंख्याका ऐष्टिकपाशुकसौमिकरूपा वेदीर्गच्छतम् । तत्र दृष्टान्तः । स्वसराणि शरीराण्यात्मेव वातः । यथा प्राणिनामात्मभूतः प्राणवायुस्त्वदीयानि शरीराणि गच्छति तद्वत् ॥
+> हे अश्विना दिवे दिवे प्रतिदिनम् । दिवेदिवे द्यविद्यवीत्यहर्नामसु पठितत्वात् । यजता यष्टव्यौ युवां नोऽस्मदीयां पृथिवीं वेदिरूपां भूमिं परि सर्वतः प्राप्य त्रिधातु कक्ष्यात्रययुक्त आस्तीर्णे बर्हिषि त्रिस्त्रिवारमशायतम् । शयनं कुरुतम् । हे रथ्या रथ्यौ रथस्वामिनौ तिस्रस्त्रिसंख्याका ऐष्टिकपाशुकसौमिकरूपा वेदीर्गच्छतम् । तत्र दृष्टान्तः । स्वसराणि शरीराण्यात्मेव वातः । यथा प्राणिनामात्मभूतः प्राणवायुस्त्वदीयानि शरीराणि गच्छति तद्वत् ॥ यजता । यजतेर्भृमृदृशीत्यादिना । उ. ३-११० । अतच् । चित इत्यन्तोदात्तत्वम् । त्रिधातु । त्रेधा धीयते निधीयत इति त्रिधातु । सितनिगमीत्यादिना धाञस्तुन् । नित्त्वादाद्युदात्तत्वम् । समासे कृदुत्तरपदप्रकृतिस्वरत्वेन तदेव शिष्यते । सुपां सुलुगिति सप्तम्या लुक् । अशायतम् । अदादित्वाच्छपो लुक् । अशयातामित्यस्य ह्रस्वदीर्घयोर्व्यत्यासः । नासत्या । सत्सु साधू सत्यौ । न सत्यावसत्यौ । न असत्यौ नासत्यौ । सत्यावेव नासत्यावित्यौर्णवाभ इति यास्कः । नि. ६-१३ । नभ्राण्नपादित्यादिना नञः प्रकृतिभावः । रथ्या रथार्हौ स्वामिनावित्यर्थः । छन्दसि च । पा. ५-१-६७ । इति यप्रत्ययः । स्वसराणि । सरन्ति गच्छन्तीति सरा इन्द्रियाणि । स्वकीयाः सरा येषां शरीराणाम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-*he aśvinā dive dive pratidinam | dive-dive dyaur vidyety ahar nāmasu paṭhitatvāt | yajatā yaṣṭavyau yuvāṃ no 'smadīyāṃ pṛthivīṃ vedirūpāṃ bhūmiṃ pari sarvataḥ prāpya tridhātu kakṣyātrayayukte āstīrṇe barhiṣi tris trivāram aśāyatam | śayanaṃ kurutam | he rathyā rathyau rathasvāminau tisras trisaṃkhyākā aiṣṭikapāśukasaumikarūpā vedīr gacchatam | tatra dṛṣṭāntaḥ | svasarāṇi śarīrāṇy ātmeva vātaḥ | yathā prāṇināṃ ātmabhūtaḥ prāṇavāyus tvadīyāni śarīrāṇi gacchati tadvat ||*
+*he aśvinā dive dive pratidinam | divedive dyavidyavītyaharnāmasu paṭhitatvāt | yajatā yaṣṭavyau yuvāṃ no 'smadīyāṃ pṛthivīṃ vedirūpāṃ bhūmiṃ pari sarvataḥ prāpya tridhātu kakṣyātrayayukta āstīrṇe barhiṣi tristrivāramaśāyatam | śayanaṃ kurutam | he rathyā rathyau rathasvāminau tisrastrisaṃkhyākā aiṣṭikapāśukasaumikarūpā vedīrgacchatam | tatra dṛṣṭāntaḥ | svasarāṇi śarīrāṇyātmeva vātaḥ | yathā prāṇināmātmabhūtaḥ prāṇavāyustvadīyāni śarīrāṇi gacchati tadvat ‖ yajatā | yajaterbhṛmṛdṛśītyādinā | u. 3-110 | atac | cita ityantodāttatvam | tridhātu | tredhā dhīyate nidhīyata iti tridhātu | sitanigamītyādinā dhāñastun | nittvādādyudāttatvam | samāse kṛduttarapadaprakṛtisvaratvena tadeva śiṣyate | supāṃ sulugiti saptamyā luk | aśāyatam | adāditvācchapo luk | aśayātāmityasya hrasvadīrghayorvyatyāsaḥ | nāsatyā | satsu sādhū satyau | na satyāvasatyau | na asatyau nāsatyau | satyāveva nāsatyāvityaurṇavābha iti yāskaḥ | ni. 6-13 | nabhrāṇnapādityādinā nañaḥ prakṛtibhāvaḥ | rathyā rathārhau svāmināvityarthaḥ | chandasi ca | pā. 5-1-67 | iti yapratyayaḥ | svasarāṇi | saranti gacchantīti sarā indriyāṇi | svakīyāḥ sarā yeṣāṃ śarīrāṇām | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
 
-*(Reading note: the print's phrase "kakṣyātrayayukte" is clear; "tvadīyāni" in the last sentence is as printed, though the sense is "their [the beings'] bodies".)*
+(As printed: "द्यविद्यवीति" — the print's ದ್ಯವಿದ್ಯವೀ; "त्वदीयानि" though the sense is "their bodies".)
 
-**Translation:** "O Aśvins, *dive-dive* — day by day (*dive-dive* being read among the names of 'day' as '*dyauḥ*, *vidyā*...'). *Yajatā* — [you who are] to be worshipped — having reached all round (*pari*) our earth, the ground that is the sacrificial altar, *tridhātu* — on the spread *barhis* furnished with three layers [?] (*kakṣyā*) — *aśāyatam* — lie down, three times. O *rathyā*, you two lords of the chariot, go to *tisraḥ* — three — altars, the altars of the *iṣṭi*, the animal and the soma rites. The illustration: *ātmeva vātaḥ svasarāṇi* — as the vital breath, the self of beings, goes to its bodies, so [you go to the sacrificers' altars]."
+**Translation:** "O Aśvins, *dive-dive* — day by day (*dive-dive* being read among the names of 'day' as '*dyavi-dyavi*'). *Yajatā* — [you who are] to be worshipped — having reached all round (*pari*) our earth, the ground that is the sacrificial altar, *tridhātu* — on the spread *barhis* furnished with three layers (*kakṣyā*) — *aśāyatam* — lie down, three times. O *rathyā*, you two lords of the chariot, go to *tisraḥ* — three — altars, the altars of the *iṣṭi*, the animal and the soma rites. The illustration: *ātmeva vātaḥ svasarāṇi* — as the vital breath, the self of beings, goes to its bodies, so [you go to the sacrificers' altars]."
 
-**Grammar within the bhāṣya** *(p. 104, characterized)*: *yajatā* (root *yaja*, the Uṇādi sūtra *bhṛmṛdṛśiyajiparvipaci…* — भृमृदृशियजिपर्विपच्यमितमिनमिदयि… — [Uṇ. 3-110 (as read)] giving *atac*; the *ca* in *atac* is a marker, so the final syllable is acute by *cita*; the dual ending replaced by *ā*); *tridhātu* (*tredhā dhīyate nidhīyate iti*; the Uṇādi suffix *tun* as above, with the accent of the later member of a *kṛt*-compound; the seventh case dropped by *supāṃ sulug…*); *aśāyatam* (root *śīṅ*, *śap* dropped as the root is of the *ad* class; the shortening and lengthening of the vowels interchanged in *aśayo*-: "*aśayotām*" → *aśāyatam*); *nāsatyā* (*satsu sādhū satyau*, "good among the good"; *na satyau asatyau*, *na asatyau nāsatyau*; "[or] they are true indeed: *nāsatyau*" so Aurṇavābha, per Yāska, Ni. 6-13 [?]; the retention of the natural form of *nañ* by *nabhrāṇnapāt…* [Pā. 6-3-75]); *rathyā* (*rathārhau svāminau*, "the two lords worthy of the chariot", *yat* in the Veda by *chandasi ca* [Pā. 4-4-[?]]); *svasarāṇi* (*sarantīti sarā indriyāṇi*, "those that go are the *sarāḥ*, the senses"; *svakīyāḥ sarā yeṣām śarīrāṇām*, a *bahuvrīhi*, with the accent of the first member).
+### Page 104
+
+(The grammatical tail, transcribed above, on p. 104: *yajatā* — *atac* by *bhṛmṛdṛśi…*, Uṇ. 3-110, final acute by *citaḥ*; *tridhātu* — "placed in three ways", *tun* after *dhā* by *sitanigami…*, initial acute as *nit*, and in the compound it remains by the *kṛt*-last-member accent; locative dropped by *supāṃ suluk…*; *aśāyatam* — *śap* dropped (*adādi*), short and long interchanged from *aśayātām*; *nāsatyā* — "good among the good" *satyau*, *asatyau*, *nāsatyau*: "true indeed, *nāsatyau*", says Aurṇavābha (so Yāska, Ni. 6-13); *nañ* kept by *nabhrāṇnapāt…*; *rathyā* — "lords worthy of a chariot", *ya* by *chandasi ca*, Pā. 5-1-67; *svasarāṇi* — *sarāḥ*, the senses, "that go"; "[bodies] whose senses are their own", first-member accent in the *bahuvrīhi*.)
 
 **Pratipadārtha** *(p. 104)* — "**aśvinā** — O Aśvin deities; **dive-dive** — every day; **yajatā** — you who are entitled to a share in the sacrifice; **naḥ** — our; **pṛthivīm** — the earth that is the sacrificial altar; **pari** — pervading all round; **tridhātu** — on the *darbha* seat that has three [layers? 'padaras'; the Kannada word is *padaragaḷu*, "folds"]; **triḥ** — three times; **aśāyatam** — lie down (take rest); **rathyā** — [O two] charioteers, chariot-lords, **nāsatyā** — Aśvin deities [good among the good]; **ātmā iva vātaḥ** — as the vital breath, which is like the soul [of beings]; **svasarāṇi iva** — as it goes and enters its own bodies, which have the senses; **tisraḥ** — to the three altars, forms of the *iṣṭi*, the animal and the soma sacrifice; **gacchatam** — go and be seated."
 
 **Bhāvārtha** *(pp. 104–105)* — "O Aśvin deities, you are always fit to move about in a chariot as sacrificers [charioteers]. You are worthy of worship every day in our sacrifice. Pervading our sacrificial ground, the altar, all round, rest on the *darbha* seats we have spread. As the vital breath, which is like the soul, enters the bodies of beings, so do you also enter our sacrificial altars, which are in the forms of the *iṣṭi*, the animal and the soma sacrifices, as our very soul, and sit down on the seats."
+
+### Page 105
 
 **English Translation (the source's own, p. 105)** — "O Aswins, you who deserve to be sacrificed to by us surround the earth from all sides; O good charioteers, pervade the three distant worlds as the vital breath enters its habitations ( bodies )"
 
@@ -1633,40 +1639,40 @@ pressings); **bhavatam** — (coming) be; **yuvoḥ** — of you two; **yantram 
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 105–106**
 - **yajatā** = *yaṣṭavyau*: "worthy to be worshipped with hymns of praise and the like in the performance of the sacrifice."
-- **dive-dive**: "Among the twelve names for day beginning *vastoḥ*, *dyauḥ* [Ni. 1-9 [?]] the word *dive-dive* is read; so this word means 'by day', or 'daily'."
+- **dive-dive**: "Among the twelve names for day beginning *vastoḥ*, *dyauḥ* (Ni. 2-?1 as printed: the middle and last glyphs are not settled) the word *dive-dive* is read; so this word means 'by day', or 'daily'."
 - **nāsatyā** = *aśvinau na asatyau*, or *nāsatyau*: "Yāska explains this word as follows:"
 
-> सत्यावेव नासत्यावित्यौर्णवाभः । सत्यस्य प्रणेतारावित्याग्रायणः । नासिकाप्रभवौ बभूवुरिति वा ॥ (नि. ६-१३ [?])
+> सत्यावेव नासत्यावित्यौर्णवाभः । सत्यस्य प्रणेतारावित्याग्रायणः । नासिकाप्रभवौ बभूवुरिति वा ॥ (नि. ६-१३.)
 
-*satyāv eva nāsatyāv ity aurṇavābhaḥ | satyasya praṇetārāv ity āgrāyaṇaḥ | nāsikāprabhavau babhūvatur iti vā || (ni. 6-13 [?])*
+*satyāv eva nāsatyāv ity aurṇavābhaḥ | satyasya praṇetārāv ity āgrāyaṇaḥ | nāsikāprabhavau babhūvatur iti vā || (ni. 6-13.)*
 
 "That is: those who speak truth only, who are never speakers of untruth, are called *nāsatyā* — the opinion of the teacher Aurṇavābha; 'leaders [or: inspirers] of *satya*, of water or of sacrifice' — the opinion of Āgrāyaṇa; and, according to the historians (*aitihāsikas*), since they were born from the nose, they are called *nāsatyā*. They explain: in former times the goddess Chāyā, the wife of Sūrya, becoming angry with Sūrya for some reason, took the form of a mare and lived in the forest; and Sūrya, knowing this, took the form of a stallion and went to the place where she was; and while they were together the Aśvins were born from the nose of the goddess Chāyā, who was in the form of a mare: this account is found in the Brahma-purāṇa and other texts." *(Translation of the Nirukta passage mine and tentative; the Kannada paraphrase is rendered as printed. The reference numeral is [?].)*
 - **rathyā** = *rathārhau svāminau*: "worthy to move about in a chariot; charioteers."
+### Page 106
+
 - **parāvataḥ** = *dūrasthitān trīn lokān*: "three distant worlds: the three worlds, earth, mid-region [and heaven], that are far off. This word occurs in many ṛks, such as:"
 
-> येभिस्तिस्रः परावतो दिवो विश्वानि रोचना ॥ (ऋ. सं. ८-५-८ [?])
-> इहि तिस्रः परावत इहि पञ्च जनाँ अति ॥ (ऋ. सं. ८-३२-२२ [?])
-> परावतो ये दिधिषन्त आप्यं मनुप्रीतासो जनिमा विवस्वतः ॥ (ऋ. सं. १०-६३-१ [?])
+> येभिस्तिस्रः परावतो दिवो विश्वानि रोचना ॥ (ऋ. सं. ८ ५-८.)
+> इहि तिस्रः परावत इहि पञ्च जनाँ अति ॥ (ऋ. सं. ८-३२-२२.)
+> परावतो ये दिधिषन्त आप्यं मनुप्रीतासो जनिमा विवस्वतः ॥ (ऋ. सं. १०-६३-१)
 
-*yebhis tisraḥ parāvato divo viśvāni rocanā || (ṛ. saṃ. 8-5-8 [?])*
-*ihi tisraḥ parāvata ihi pañca janām̐ ati || (ṛ. saṃ. 8-32-22 [?])*
-*parāvato ye didhiṣanta āpyaṃ manuprītāso janimā vivasvataḥ || (ṛ. saṃ. 10-63-1 [?])*
+*yebhis tisraḥ parāvato divo viśvāni rocanā || (ṛ. saṃ. 8 5-8.)*
+*ihi tisraḥ parāvata ihi pañca janām̐ ati || (ṛ. saṃ. 8-32-22.)*
+*parāvato ye didhiṣanta āpyaṃ manuprītāso janimā vivasvataḥ || (ṛ. saṃ. 10-63-1)*
 
-*(Untranslated in the source. My glosses, **mine and tentative**: 1. "with which [you go to] three distant [regions], all the shining [realms] of heaven"; 2. "come, over three distant [lands], come, over the five peoples"; 3. "those who from afar seek kinship, dear to Manu, the births of Vivasvat". All three references are read from small Kannada numerals and are [?].)*
+*(Untranslated in the source. My glosses, **mine and tentative**: 1. "with which [you go to] three distant [regions], all the shining [realms] of heaven"; 2. "come, over three distant [lands], come, over the five peoples"; 3. "those who from afar seek kinship, dear to Manu, the births of Vivasvat". All three references zoom-checked.)*
 - **ātmeva vātaḥ svasarāṇi** = *prāṇavāyuḥ śarīrarūpāṇi svagṛhāṇi yathā vyāpnoti tathety arthaḥ*: "as the vital breath goes to and enters the body, its own dwelling-place, so do you come to this sacrificial altar — such is the sense."
 - **tisraḥ** = *aiṣṭikapāśukasaumikarūpā vedīḥ*: "*tisraḥ* means three, or three places; the three places the bhāṣyakāra explains as the altar or sacrificial ground in the three kinds of sacrifice — the *iṣṭi*, the animal sacrifice and the soma sacrifice."
 
-**Vyākaraṇa-prakriyā** *(p. 106, PDF 120 — grammar page, noted briefly; begun, to continue on p. 107)*
-- **yajatā**: root *yaja devapūjādau*; *bhṛmṛdṛśiyajiparvipacy-amitamin amidayi…* [as printed: *bhṛmṛdṛśiyajiparvipacyamitamina­midayibhyo 'tac*] — the Uṇādi sūtra [Uṇ. 3-110 (as read)] gives the suffix *atac* after the roots *bhṛñ bharaṇe*, *mṛṅ prāṇatyāge*, *dṛśir prekṣaṇe*, *yaja devapūjādau*, *parva pūraṇe*, *ḍupacaṣ pāke*, *amu gatyādiṣu*, *tamu kāṅkṣāyām*, *ṇamu prahvatve śabde*, *paryu gatikānte*; the *c* of *atac* is a marker — *cit* [as printed: *citaḥ*, Pā. 6-1-163] — hence the final syllable of *yajata* is acute, since "the letter *c* in a suffix is for the sake of the accent on the last letter of the base-and-suffix group" (the print's explanation of *citaḥ saprakṛter bahvakajartham*, read as printed); the nominative dual, with *ā* by *supāṃ sulug…*.
+**Vyākaraṇa-prakriyā** *(pp. 106–107, grammar pages — noted briefly; numerals zoom-checked)*
+- **yajatā**: root *yaja devapūjādau*; *bhṛmṛdṛśiyajiparvipacy-amitamin amidayi…* [as printed: *bhṛmṛdṛśiyajiparvipacyamitamina­midayibhyo 'tac*] — the Uṇādi sūtra (Uṇ. Sū. 3-390 as printed; the bhāṣya prints 3-110) gives the suffix *atac* after the roots *bhṛñ bharaṇe*, *mṛṅ prāṇatyāge*, *dṛśir prekṣaṇe*, *yaja devapūjādau*, *parva pūraṇe*, *ḍupacaṣ pāke*, *amu gatyādiṣu*, *tamu kāṅkṣāyām*, *ṇamu prahvatve śabde*, *paryu gatikānte*; the *c* of *atac* is a marker — *citaḥ* (Pā. 6-1-163) — hence the final syllable of *yajata* is acute, since "the letter *c* in a suffix is for the sake of the accent on the last letter of the base-and-suffix group" (the print's explanation of *citaḥ saprakṛter bahvakajartham*, read as printed); the nominative dual, with *ā* by *supāṃ sulug…*.
 - **tridhātu**: "its derivation is in the preceding mantra [Rik 6]; the two words differ in meaning; here the locative singular is dropped by *supāṃ sulug…* and the *n* is lost."
 
----
+### Page 107
 
-### Rik 34.7 — Vyākaraṇa-prakriyā, concluded (p. 107, PDF 121; grammar page, noted briefly)
-
-- **aśāyatam**: root *śīṅ svapne*, *ad*-class; *laṅ*, third person dual *ātām* of the *ātmanepada*; *śī + ātām*; *śap* elided by *ādiprabhṛtibhyaḥ śapaḥ* — आदिप्रभृतिभ्यः शपः — Pā. 2-4-72; *guṇa* of *śī* before a *sārvadhātuka* ending by *śīṅaḥ sārvadhātuke guṇaḥ* — शीङः सार्वधातुके गुणः — [Pā. 7-4-21 (as I read the numerals)], an exception to the ban *kṅiti ca*; *aśe + ātām*, *ay*-substitution, *aśayātām*; the long *ā* before the *t* and the short vowel are interchanged by Vedic usage: *aśāyatam*.
-- **nāsatyā**: *satsu sādhū satyau* — "good among the good": *tatra sādhuḥ* — तत्र साधुः — Pā. 4-4-98 gives *yat*; *na satyau asatyau*, a *nañ*-compound; the *n* of *nañ* lost by *nalopo nañaḥ* — नलोपो नञः — Pā. 6-3-73; again *na asatyau*, a *nañ*-compound; the *n* would again be lost, but *prakṛtibhāva* — the retention of the natural form — is taught by *nabhrāṇnapānnavedānāsatyānamucinakulanakhanapuṃsakanakṣatranakranāsikāsu prakṛtyā* — नभ्राण्नपान्नवेदानासत्यानमुचि… — Pā. 6-3-75 (the print cuts the sūtra short), "[the word] *nāsatyā* being enumerated there"; the sense is "among the good ones, not those who are not good — that is, the good", for "*dvau nañau prakṛtam artham draḍhayetaḥ*" — "two negatives confirm the original sense"; Yāska, in the passage *satyāv eva nāsatyāv ity aurṇavābhaḥ* (Ni. 6-13 [?]), says that what was said before is acceptable to Aurṇavābha.
-- **rathyā**: root *ramu krīḍāyām*; the Uṇādi suffix *kthan* by *hanikuṣinīramikāśibhyaḥ kthan* — हनिकुषिनीरमिकाशिभ्यः क्थन् — [Uṇ. 2-[?]]; the suffix is *kit*, so *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* — अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति — Pā. 6-4-37 drops the *m*: *ratha*. *Ratham arhataḥ rathyau* — "who deserve a chariot" — by *chandasi ca* — छन्दसि च — [Pā. 5-1-67 (as read)]: *yat* in the Veda after a base in the second case, in the sense *arhati*; *ratha + ya*; *yasyeti ca* — Pā. 6-4-148: loss of *a*; *rathya*; the vocative dual in *ā*.
+- **aśāyatam**: root *śīṅ svapne*, *ad*-class; *laṅ*, third person dual *ātām* of the *ātmanepada*; *śī + ātām*; *śap* elided by *ādiprabhṛtibhyaḥ śapaḥ* — आदिप्रभृतिभ्यः शपः — Pā. 2-4-72; *guṇa* of *śī* before a *sārvadhātuka* ending by *śīṅaḥ sārvadhātuke guṇaḥ* — शीङः सार्वधातुके गुणः — Pā. 7-4-21, an exception to the ban *kṅiti ca*; *aśe + ātām*, *ay*-substitution, *aśayātām*; the long *ā* before the *t* and the short vowel are interchanged by Vedic usage: *aśāyatam*.
+- **nāsatyā**: *satsu sādhū satyau* — "good among the good": *tatra sādhuḥ* — तत्र साधुः — Pā. 4-4-98 gives *yat*; *na satyau asatyau*, a *nañ*-compound; the *n* of *nañ* lost by *nalopo nañaḥ* — नलोपो नञः — Pā. 6-3-73; again *na asatyau*, a *nañ*-compound; the *n* would again be lost, but *prakṛtibhāva* — the retention of the natural form — is taught by *nabhrāṇnapānnavedānāsatyānamucinakulanakhanapuṃsakanakṣatranakranāsikāsu prakṛtyā* — नभ्राण्नपान्नवेदानासत्यानमुचि… — Pā. 6-3-75 (the print cuts the sūtra short), "[the word] *nāsatyā* being enumerated there"; the sense is "among the good ones, not those who are not good — that is, the good", for "*dvau nañau prakṛtam artham draḍhayetaḥ*" — "two negatives confirm the original sense"; Yāska, in the passage *satyāv eva nāsatyāv ity aurṇavābhaḥ* (Ni. 6-13), says that what was said before is acceptable to Aurṇavābha.
+- **rathyā**: root *ramu krīḍāyām*; the Uṇādi suffix *kthan* by *hanikuṣinīramikāśibhyaḥ kthan* — हनिकुषिनीरमिकाशिभ्यः क्थन् (*hanikuṣinīramikāśibhyaḥ kthan*) — Uṇ. Sū. 2-149; the suffix is *kit*, so *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* — अनुदात्तोपदेशवनतितनोत्यादीनामनुनासिकलोपो झलि क्ङिति — Pā. 6-4-37 drops the *m*: *ratha*. *Ratham arhataḥ rathyau* — "who deserve a chariot" — by *chandasi ca* — छन्दसि च — Pā. 5-1-67: *yat* in the Veda after a base in the second case, in the sense *arhati*; *ratha + ya*; *yasyeti ca* — Pā. 6-4-148: loss of *a*; *rathya*; the vocative dual in *ā*.
 - **svasarāṇi**: root *sṛ gatau*; *saranti gacchanti iti sarāḥ*, "that which goes toward its objects" — the senses; *sve sarāḥ yeṣāṃ tāni* — "those whose senses are their own": a *bahuvrīhi*, the first member's accent holds; *sva* is acute as a base by the accent of the nominal stem. Rik 7 ends here (*|| 7 ||*).
 
 ### Rik 34.8 (pp. 107–111, PDF 121–125)
