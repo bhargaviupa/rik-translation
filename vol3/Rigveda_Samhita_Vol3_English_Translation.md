@@ -5020,48 +5020,97 @@ I call that excellent water, in whatever body of water, a river and the like, ou
 
 ---
 
-### Pages 215–219 — Sūkta 23, Rik 19
+### Page 215 (lower) — Sūkta 23, Rik 19
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अप्स्वन्तरमृतमप्सु भेषजमपामुत प्रशस्तये ।
-> देवा भवत वाजिनः ॥ १९ ॥
+> अ॒प्स्व१॒॑न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त प्रश॑स्तये । [accent ?]
+> देवा॒ भव॑त वा॒जिनः॑ ॥१९॥
+>
+> *apsv antár amṛ́tam apsú bheṣajám apā́m utá práśastaye |* [accent ?]
+> *devā bhávata vājínaḥ ||19||*
 
-*apsv antar amṛtam apsu bheṣajam apām uta praśastaye | devā bhavata vājinaḥ || 19 ||*
+*(Line 1, read with care: bars under अ (अप्स्व), the conjunct न्त, र (अन्तर), त (मृतम्), म (अप्सु), ष, म (जम्) and मु (अपामु); strokes over प्स्व (marked with the independent svarita), मृ, भे, पा and श. The exact marks around अप्स्वन्तः are not certain [accent ?]. Line 2: a bar under वा (देवा), strokes over व (भवत) and नः, a bar under वा (वाजिनः). The Pada of p. 216 has प्रऽशस्तये in line 1 of its second row.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 216 — Rik 19: Pada, bhāṣya, word-meanings, overall sense
 
-> अप्ऽसु । अन्तः । अमृतम् । अप्ऽसु । भेषजम् । अपाम् । उत । प्रऽशस्तये ॥ देवाः । भवत । वाजिनः ॥ १९ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*ap-su | antaḥ | amṛtam | ap-su | bheṣajam | apām | uta | pra-śastaye || devāḥ | bhavata | vājinaḥ || 19 ||*
+> अप्ऽसु । अन्तः । अमृतं । अप्ऽसु । भेषजं । अपां । उत । प्रऽशस्तये ॥
+> देवाः । भवत । वाजिनः ॥१९॥
+>
+> *ap 'su | antaḥ | amṛtaṃ | ap 'su | bheṣajaṃ | apāṃ | uta | pra 'śastaye ||*
+> *devāḥ | bhavata | vājinaḥ ||19||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> अप्सु जलेऽप्यन्तर्मध्येऽमृतं पीयूषं वर्तते । तस्याप्सु कारणत्वात् । अमृतं वा आप इति श्रुत्यन्तरात् । तथैवाप्सु भेषजमौषधं वर्तते । क्षुद्रोगाग्निवर्धकस्यान्नस्य [?] पाचकत्वात् । उतापि च तादृशीनामपां देवताना[म्] प्रशस्तये प्रशंसार्थं हे देवा ऋत्विजादयो ब्राह्मणाः । एते वै देवाः प्रत्यक्षं यद्ब्राह्मणा इति श्रुत्यन्तरात् । वाजिनो वेगवन्तो भवत । शीघ्रं स्तुतिं कुरुतेत्यर्थः ॥ अप्सु । ऊडिदमित्यादिना सप्तम्या उदात्तत्वम् । सञ्हितायामुदात्तस्वरितयोर्यणः स्वरितः इति स्वरितत्वम् । अमृतम् । नञ्मृतः [जरमरमित्रमृताः] (पा. ६-२-११६) इत्युत्तरपदाद्युदात्तत्वम् । प्रशस्तये । ताडौ च निति (पा. ६-२-५०) इति गतेः प्रकृतिस्वरत्वम् । भवत । आमन्त्रितं पूर्वमविद्यमानवदिति पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वेन पादादित्वान्न निघातः ॥
+*(Numbers as printed: पा० ६-२-११६, ६-२-५०.)*
 
-*apsu jale 'py antar madhye 'mṛtaṃ pīyūṣaṃ vartate | tasyāpsu kāraṇatvāt | amṛtaṃ vā āpa iti śrutyantarāt | tathaivāpsu bheṣajam auṣadhaṃ vartate | kṣudrogāgnivardhakasyānnasya [?] pācakatvāt | utāpi ca tādṛśīnām apāṃ devatānām [?] praśastaye praśaṃsārthaṃ he devā ṛtvijādayo brāhmaṇāḥ | ete vai devāḥ pratyakṣaṃ yad brāhmaṇā iti śrutyantarāt | vājino vegavanto bhavata | śīghraṃ stutiṃ kurutety arthaḥ || apsu | ūḍidam ity ādinā saptamyā udāttatvam | saṃhitāyām udāttasvaritayor yaṇaḥ svaritaḥ iti svaritatvam | amṛtam | nañmṛtaḥ [jaramaramitramṛtāḥ] (pā. 6-2-116) ity uttarapadādyudāttatvam | praśastaye | tāḍau ca niti (pā. 6-2-50) iti gateḥ prakṛtisvaratvam | bhavata | āmantritaṃ pūrvam avidyamānavad iti pūrvasyāmantritasyāvidyamānavattvena pādāditvān na nighātaḥ ||*
+> अप्सु जलेष्वन्तर्मध्येऽमृतं पीयूषं वर्तते । तस्याब्विकारत्वात् । अमृतं वा आप इति श्रुत्यन्तराच्च । तथैवाप्सु भेषजमौषधं वर्तते । क्षुद्रोगनिवर्तकस्यान्नस्याप्कार्यत्वात् । उतापि च तादृशीनामपां देवतानां प्रशस्तये प्रशंसार्थं हे देवा ऋत्विजादयो ब्राह्मणाः । एते वै देवाः प्रत्यक्षं यद्ब्राह्मणा इति श्रुत्यन्तरात् । वाजिनो वेगवन्तो भवत । शीघ्रं स्तुतिं कुरुतेत्यर्थः ॥ अप्सु । ऊडिदमित्यादिना सप्तम्या उदात्तत्वं । संहितायामुदात्तस्वरितयोर्यणः स्वरित इति स्वरितत्वं । अमृतं । नञो जरमरमित्रमृताः । पा० ६-२-११६ । इत्युत्तरपदाद्युदात्तत्वं । प्रशस्तये । तादौ च निति । पा० ६-२-५० । इति गतेः प्रकृतिस्वरत्वं । भवत । आमन्त्रितं पूर्वमविद्यमानवदिति पूर्वस्यामन्त्रितस्याविद्यमानवत्त्वेन पादादित्वान्न निघातः ॥
+>
+> *apsu jaleṣvantarmadhye 'mṛtaṃ pīyūṣaṃ vartate | tasyābvikāratvāt | amṛtaṃ vā āpa iti śrutyantarācca | tathaivāpsu bheṣajamauṣadhaṃ vartate | kṣudroganivartakasyānnasyāpkāryatvāt | utāpi ca tādṛśīnāmapāṃ devatānāṃ praśastaye praśaṃsārthaṃ he devā ṛtvijādayo brāhmaṇāḥ | ete vai devāḥ pratyakṣaṃ yadbrāhmaṇā iti śrutyantarāt | vājino vegavanto bhavata | śīghraṃ stutiṃ kurutetyarthaḥ || apsu | ūḍidamityādinā saptamyā udāttatvaṃ | saṃhitāyāmudāttasvaritayoryaṇaḥ svarita iti svaritatvaṃ | amṛtaṃ | naño jaramaramitramṛtāḥ | pā0 6-2-116 | ityuttarapadādyudāttatvaṃ | praśastaye | tādau ca niti | pā0 6-2-50 | iti gateḥ prakṛtisvaratvaṃ | bhavata | āmantritaṃ pūrvamavidyamānavaditi pūrvasyāmantritasyāvidyamānavattvena pādāditvānna nighātaḥ ||*
 
-**Translation:** "In the waters, even within (*antaḥ*, in the middle), is *amṛta* — the nectar; for the waters are its cause; as another śruti says, 'the waters are indeed *amṛta*'. Likewise, in the waters is *bheṣaja* — medicine — since they cook [i.e. digest] the food that increases the hunger-fire [?]. And for the *praśasti* — the praise — of such waters, the deities, O *devāḥ* — O priests, the Brahmins and the rest, for 'these Brahmins are gods visibly' says another śruti — become *vājinaḥ*: swift; praise quickly. *Apsu*: the locative plural, acute by *ūḍidam…*; in the Saṃhitā the *yaṇ* of an *udātta* becomes *svarita*. *Amṛtam*: by P. 6-2-116 *jaramaramitramṛtāḥ* the second member's first syllable is acute. *Praśastaye*: the *gati* keeps its accent by P. 6-2-50 [?]. *Bhavata*: the preceding vocative is as if non-existent (P. 8-1-72 *āmantritaṃ pūrvam avidyamānavat*); being at the beginning of the pāda, the verb's accent is not lowered." *(Grammar pages 217–219, noted briefly: the words treated are* apsu *[the long argument on the locative plural of* ap *with the *ūṭh* element — whether the case-ending is acute; P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ*; the *yaṇ* of the *udātta*: P. 8-2-4 *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya*, hence *apsv antaḥ* with *svarita*],* amṛtam *[*nañ* + *mṛta*; bahuvrīhi; accent by P. 6-2-116 *nañaḥ jaramaramitramṛtāḥ*],* praśastaye *[*pra* + *śaṃsu stutau* + *ktin* by P. 3-3-94 *striyāṃ ktin*; loss of the nasal by P. 6-4-24 *aniditāṃ hala upadhāyāḥ kṅiti*; *śaṃsu* gives* śast*; the accent: P. 6-2-50 *tādau ca niti kṛtyatau* — the *gati* keeps its own accent before a *kṛt* beginning with *t*, except *tavai*… — and P. 6-2-139 gives the accent of the *kṛdanta*, which this rule overrides; *pra* has the Phiṭ-accent *upasargāś cābhivarjam*],* bhavata *[the vocative *devāḥ* before it is *avidyamānavat* by P. 8-1-72; the verb is *pādādi*, so P. 8-1-19 does not apply; and P. 8-1-28 *tiṅ atiṅaḥ* does not apply]; numerals as read, pointers only.)*
+**Translation:** "*Apsu antaḥ*, within the waters, is *amṛtam*, nectar, because it is a product of water, and from the other *śruti* 'the waters indeed are nectar'. Likewise *apsu*, in the waters, is *bheṣajam*, medicine, since food, which removes the disease of hunger, is a product of water. *Uta*, and, *praśastaye*, for the praise of such waters, the deities, O *devāḥ*, priests and the rest, the brāhmaṇas — from the other *śruti* 'these indeed are the visible gods, the brāhmaṇas' — *bhavata*, be, *vājinaḥ*, swift: that is, make the praise quickly." (Grammatical tail: *apsu*, the locative udātta by *ūḍidam…*; in the Saṃhitā svarita by *udāttasvaritayor yaṇaḥ svaritaḥ*; *amṛtam*, the last member's initial udātta by *nañño jaramaramitramṛtāḥ* (Pā. 6-2-116); *praśastaye*, the prefix keeps its own accent by *tādau ca niti…* (Pā. 6-2-50); *bhavata*, since the preceding vocative is treated as not there by *āmantritaṃ pūrvam avidyamānavat*, it is at the beginning of the *pāda*, so no loss of accent.)
 
-**॥ Prati-padārthaḥ ॥** **अप्सु अन्तः (apsu antaḥ)** — in the middle of the waters | **अमृतम् (amṛtam)** — the immortal [nectar] | **अप्सु (apsu)** — in the waters | **भेषजम् (bheṣajam)** — the medicine which cures disease | **उत (uta)** — and | **(हे) देवाः ((he) devāḥ)** — O all gods and the priests [the Brahmins] and the rest | **अपाम् (apām)** — of the waters | **प्रशस्तये (praśastaye)** — for praising [the deity] | **वाजिनः (vājinaḥ)** — swift [prepared quickly] | **भवत (bhavata)** — become.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** In water there is nectar; in water there is the medicine that cures disease. Therefore, O all gods, priests and the rest, be quickly ready to praise those waters.
+**अप्सु अन्तः (apsu antaḥ)** — in the midst of the waters (in water) | **अमृतं (amṛtaṃ)** — there is nectar | **अप्सु (apsu)** — in water | **भेषजं (bheṣajaṃ)** — there is medicine that destroys disease | **उत (uta)** — and | **(हे) देवाः ((he) devāḥ)** — O deities (and people, priests, sacrificers and the rest) | **अपां (apāṃ)** — of the waters | **प्रशस्तये (praśastaye)** — for praise, or to make hymns | **वाजिनः (vājinaḥ)** — swift (ready quickly) | **भवत (bhavata)** — be.
+
+**॥ Bhāvārthaḥ ॥**
+
+There is nectar in water; in water there is the power that cures disease, that is, of medicine. Therefore, O deities and people, priests, sacrificers and the rest, be ready quickly to praise those waters.
+
+### Page 217 — Rik 19: English, Special Topics
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > (There is) ambrosia in the waters, (there is) medicine in the waters; therefore divine priests, be prompt in their praise.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 217)* The qualities and pre-eminence of water are described in great variety in the śruti passage of the Taittirīya Āraṇyaka:
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-> आपो वा इदꣳ सर्वं विश्वा भूतान्यापः प्राणा वा आपः पशव आपोऽन्नमापोऽमृतमापः सम्राडापो विराडापः स्वराडापश्छन्दांस्यापो ज्योतींष्यापो यजूंष्यापः सत्यमापः सर्वा देवता आपो भूर्भुवः सुवरापः ओम् ॥
+The *śruti* statement of the Taittirīya Upaniṣad describes very well the qualities and pre-eminence of water —
 
-*āpo vā idaṃ sarvaṃ viśvā bhūtāny āpaḥ prāṇā vā āpaḥ paśava āpo 'nnam āpo 'mṛtam āpaḥ samrāḍ āpo virāḍ āpaḥ svarāḍ āpaś chandāṃsy āpo jyotīṃṣy āpo yajūṃṣy āpaḥ satyam āpaḥ sarvā devatā āpo bhūr bhuvaḥ suvar āpa om ||* — "The waters are all this, all beings; the waters are breath; the waters are cattle, food, *amṛta*; the waters are *samrāj*, *virāj*, *svarāj*; the waters are the metres, the lights, the *yajus* formulas, the truth; the waters are all the deities; *bhūr bhuvaḥ suvar*; the waters; *om*." *(my rendering; the Sanskrit is printed with a few small variants from the standard text — I have kept the printed words as far as legible)*
+> आपो वा इदꣳ सर्वं विश्वा भूतान्यापः प्राणा वा आपः पशव आपोऽन्नमापोऽमृतमापः सम्राडापो विराडापः स्वराडापश्छन्दाꣳस्यापो ज्योतीꣳष्यापो यजूꣳष्यापः सत्यमापः सर्वा देवता आपो भूर्भुवः सुवराप ओं ॥
+>
+> *āpo vā idam̐ sarvaṃ viśvā bhūtānyāpaḥ prāṇā vā āpaḥ paśava āpo 'nnamāpo 'mṛtamāpaḥ samrāḍāpo virāḍāpaḥ svarāḍāpaśchandām̐syāpo jyotīm̐ṣyāpo yajūm̐ṣyāpaḥ satyamāpaḥ sarvā devatā āpo bhūrbhuvaḥ suvarāpa oṃ ||*
 
-That is, everything is produced from water. All living beings and animals live by water; water is the support of all living things, even trees and plants; if there were no water no creature could live. Hence it is said that water is life (*prāṇa*). From water herbs, trees and the vegetable kingdom grow, so water is the food of living beings, directly and indirectly. Without food some can live some days; without water none can live. Since much of our body is water — blood and the like are liquid — water is essential to life. Hence to call water *amṛta* is no exaggeration. Since water is one of the five elements, and since the śruti says *apo vā idam agre salilam āsīt* ('in the beginning this was water'), it is proper to say that all things are produced from water or that water is the root of all things; hence śruti declares water to be the form of all the deities.
+— that is, everything has arisen from water. All living beings and animals live by water; that is, water itself is the support of all living creatures and plants. Without water no living being can live. So water itself is said to be life. Since plants, trees and the vegetable kingdom grow by water, water is directly and indirectly food for living beings. Without food one can live some days; without water it is impossible to live. In our body most is water; since blood and the rest are in liquid form, water is most necessary for living. So it is no exaggeration to call water nectar. Since water is one of the five elements, since there is the *śruti* statement *āpo vā idam agre salilam āsīt*, and since the *śruti* says that other things were created from water, it is fitting to say that everything is the very form of water, or that water is the root of all things. So the *śruti* proclaims that water is the form of all the deities.
 
-**अमृतं भेषजम्** — water is called *amṛta* because it is indispensable to living things and is the support of life. Since the word *apaḥ* indicates things in liquid form, it is also reasonable to call water *amṛta*. Many diseases can be cured with water. And since herbs are generally mixed with water in liquid form, it is right to say that the herbs are in the water. How important water is in curing disease is described at length in medical books such as the *Āyurveda*.
+> आपो वा इदमग्रे सलिलमासीत् ।
+>
+> *āpo vā idamagre salilamāsīt |*
 
-**देवाः** — though addressed to the *devas*, the word can be taken as meaning the priests and sacrificers, and also the deities; or as the Brahmin priests, who are visible deities: the śruti passages say *ete vai devāḥ pratyakṣaṃ yad brāhmaṇāḥ* ('these Brahmins are visibly the gods'), and so the Brahmins are addressed by the word *deva*. **वाजिनः** — *vegavantaḥ, śīghragāminaḥ*: swift, quick, without delay; or, since *annaṃ vai vājaḥ* ('food is *vāja*', śruti), 'possessing food or oblation': 'praise with offerings' may be taken as the sense.
+**अमृतं भेषजं (amṛtaṃ bheṣajaṃ)** — since water is most necessary for living beings and is the support of life, it is called nectar. Since nectar is in liquid form, and since all liquid things are indicated by the word *āpaḥ*, 'water', it is right to call water nectar. Many diseases can be cured by water; and since medicines are generally in liquid form mixed with water, it is also fitting to say that medicines are in water. How great the pre-eminence of water is in the matter of curing disease is described specially in medical works such as the Āyurveda.
+
+**देवाः (devāḥ)** — though the deities are addressed here as *devāḥ*, it may be said to mean either people such as priests and sacrificers, or the deities. Or since *śruti* statements such as —
+
+### Page 218 — Rik 19: Special Topics (end), grammar
+
+> एते वै देवाः प्रत्यक्षं यद्ब्राह्मणाः ।
+>
+> *ete vai devāḥ pratyakṣaṃ yadbrāhmaṇāḥ |*
+
+— say that brāhmaṇa priests are visible deities, the brāhmaṇas have been addressed by the word *deva*.
+
+**वाजिनः (vājinaḥ)** — *vegavantaḥ, śīghragāminaḥ*: quickly, promptly, without delay, and so on. Or, since there is the *śruti* statement *annaṃ vai vājaḥ*, that *vāja* means food, it may be explained as: furnished with food or oblation, that is, praise with offerings of oblation and the like.
+
+> अन्नं वै वाजः ।
+>
+> *annaṃ vai vājaḥ |*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**अप्सु (apsu)** — after the word *ap*, the locative plural suffix *su*; for the meaning of *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171) see the previous mantra. By this the case-ending *su* is udātta. In place of this udātta *u*, at the time of the Saṃhitā, when the vowel of the word *antaḥ* follows, by *iko yaṇ aci* (Pā. Sū. 6-1-77) the *yaṇ* *v* comes. And so this *v* is a *yaṇ* that has come in place of an udātta; by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. Sū. 8-2-4) — an unaccented after a *yaṇ* that has come in place of an udātta or svarita becomes svarita — the unaccented *a* of the word *antaḥ* becomes svarita.
+
+**अमृतं (amṛtaṃ)** — when a bahuvrīhi compound of *nañ* with the word *mṛta* comes, the *n* is dropped and only *a* remains. By *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the own accent would be due; overriding it, by *nañño jaramaramitramṛtāḥ* (Pā. Sū. 6-2-116) — in a bahuvrīhi compound, the four words *jara*, *mara*, *mitra*, *mṛta* after *nañ* take the initial udātta — the last member *mṛta* gets the initial udātta accent.
+
+**प्रशस्तये (praśastaye)** — the prefix *pra*, the root *śaṃsu stutau*. By *striyāṃ ktin* (Pā. Sū. 3-3-94) the suffix *ktin*; the *n* is dropped by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24): *praśasti*; dative singular *praśastaye*. Here by *tādau ca niti kṛty atau* (Pā. Sū. 6-2-50) — when a *kṛt* suffix other than *tu*, without the marker *n* and beginning with *t*, follows, the immediately preceding *gati* keeps its own accent — the *gati* *pra* gets its own accent. This is an exception to the *kṛt* accent laid down by *gatikārakopapadāt kṛt* (Pā. Sū. 6-2-139); *pra* is initially udātta by *upasargāś cābhivarjam* (Phi. Sū. 81). This same accent stays after compounding, in the manner shown before.
+
+**भवत (bhavata)** — before it is the *āmantrita* *devāḥ*; by *āmantritaṃ pūrvam avidyamānavat* (Pā. Sū. 8-1-72) — a preceding word ending in a vocative first case is as if not there — the treatment as not there comes. And so *bhavata* does not follow a *pada*. It comes to be at the beginning of the *pāda* —
+
+### Page 219 (upper) — Rik 19: grammar (end)
+
+— too. Since in the rule of the unaccented there is the heading *padāt* (Pā. Sū. 8-1-17), the unaccented comes only for what follows a *pada*. Since it is said *anudāttaṃ sarvam apādādau* (Pā. Sū. 8-1-18), the unaccented does not come for what is at the beginning of a *pāda*. So for the word *bhavata* the total lack of accent by *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) does not come. ॥19॥
 
 ---
 
