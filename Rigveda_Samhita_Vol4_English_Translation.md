@@ -3446,13 +3446,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 *(The thirteenth and fourteenth ṛks are the two addressed to the *yūpa* (or Agni as its support), per the introduction on p. 177.)*
 
-**Saṃhitā-pāṭha** *(p. 220; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 220)*
 
-> **ऊर्ध्व ऊ षु ण ऊतये तिष्ठा देवो न सविता ।**
-> **ऊर्ध्वो वाजस्य सनिता यदञ्जिभिर्वाघद्भिर्विह्वयामहे ॥ १३ ॥**
+> ऊ॒र्ध्व ऊ॒ षु ण॑ ऊत॒ये तिष्ठा॑ दे॒वो न स॑वि॒ता । [accent ?]
+> ऊ॒र्ध्वो वाज॑स्य॒ स॑निता॒ यद॒ञ्जिभि॑र्वा॒घद्भि॑र्वि॒ह्वया॑महे ॥ १३ ॥ [accent ?]
 
-*ūrdhva ū ṣu ṇa ūtaye tiṣṭhā devo na savitā |*
-*ūrdhvo vājasya sanitā yad añjibhir vāghadbhir vihvayāmahe || 13 ||*
+*ūrdhvá ū ṣú ṇa ūtayé tíṣṭhā devó ná savitā́ |* [accent ?]
+*ūrdhvó vā́jasya sanitā yádañjíbhir vāghádbhir vihváyāmahe || 13 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: the marks are placed where they stand in the print — the underline of "ūtaye" under* ta*, a stroke over* sa *of "savitā" and of "sanitā", the underline of "sanitā" under* tā*; the IAST acutes follow the marks mechanically.)*
 
 ---
 
@@ -3466,17 +3468,27 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *ūrdhvaḥ | ūṃ iti | su | naḥ | ūtaye | tiṣṭha | devaḥ | na | savitā ||*
 *ūrdhvaḥ | vājasya | sanitā | yat | añji-bhiḥ | vāghat-bhiḥ | vi-hvayāmahe || 13 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 221; the viniyoga and the first half in full, the grammatical tail characterized)*
+### Page 221
 
-> यूपोच्छ्रयणे ऊर्ध्व ऊ षु ण ऊतय इति द्वे । पशाविष्टिरिति खण्डे सूत्रितम् । ऊर्ध्व ऊ षु ण ऊतये इति द्वे । आ. ३-१ [?] । इति ॥ एते एवाभिप्लवेऽपि विनियुक्ते । अथोत्तरमिति खण्डे सूत्रितम् । सखे सखायमभ्या ववृत्स्वोर्ध्व ऊ षु ण ऊतय इति द्वे । आ. ४-२ [?] । इति ॥
-> हे यूप यद्वा यूपात्मकदारुनिष्ठाग्ने नोऽस्माकमूतये रक्षणायोर्ध्व उन्नतस्तिष्ठ । तत्र दृष्टान्तः । सविता देवो न । यथा सूर्यो देव उन्नतस्तिष्ठति तद्वत् । ऊर्ध्व उन्नतस्सन् वाजस्यान्नस्य सनिता दाता भविष्यसि । यद्यस्मात्कारणादञ्जिभिराज्येन यूपमञ्जद्भिर्वाघद्भिर्ऋत्विग्भिः सह यज्ञं वहद्भिः [?] विह्वयामहे अन्नदानाय त्वां विशेषेणाह्वयामः । तस्मादन्नस्य दाता भवेति पूर्वत्रान्वयः ॥
+**Sāyaṇa-bhāṣya** *(p. 221, in full)*
 
-*yūpocchrayaṇe ūrdhva ū ṣu ṇa ūtaya iti dve | paśāv iṣṭir iti khaṇḍe sūtritam | ūrdhva ū ṣu ṇa ūtaye iti dve | ā. 3-1 [?] | iti || ete evābhiplave 'pi viniyukte | athottaram iti khaṇḍe sūtritam | sakhe sakhāyam abhyā vavṛtsvordhva ū ṣu ṇa ūtaya iti dve | ā. 4-2 [?] | iti ||*
-*he yūpa yadvā yūpātmakadāruniṣṭhāgne no 'smākam ūtaye rakṣaṇāyordhva unnatas tiṣṭha | tatra dṛṣṭāntaḥ | savitā devo na | yathā sūryo deva unnatas tiṣṭhati tadvat | ūrdhva unnatas san vājasyānnasya sanitā dātā bhaviṣyasi | yad yasmāt kāraṇād añjibhir ājyena yūpam añjadbhir vāghadbhir ṛtvigbhiḥ saha yajñaṃ vahadbhiḥ [?] vihvayāmahe annadānāya tvāṃ viśeṣeṇāhvayāmaḥ | tasmād annasya dātā bhaveti pūrvatrānvayaḥ ||*
+> यूपोच्छ्रयणे ऊर्ध्व ऊ षु ण ऊतय इति द्वे । पशाविष्टिरिति खण्डे सूत्रितम् । ऊर्ध्व ऊ षु ण ऊतये इति द्वे । आ. ३-१ । इति ॥ एते एवाभिप्लवेऽपि विनियुक्ते । अथोत्तरमिति खण्डे सूत्रितम् । सखे सखायमभ्या ववृत्स्वोर्ध्व ऊ षु ण ऊतय इति द्वे । आ. ४-२ । इति ॥
+> हे यूप यद्वा यूपात्मकदारुनिष्ठाग्ने नोऽस्माकमूतये रक्षणायोर्ध्व उन्नतस्तिष्ठ । तत्र दृष्टान्तः । सविता देवो न । यथा सूर्यो देव उन्नतस्तिष्ठति तद्वत् । ऊर्ध्व उन्नतस्सन् वाजस्यान्नस्य सनिता दाता भविष्यसि । यद्यस्मात्कारणादञ्जिभिराज्येन यूपमञ्जद्भिर्वाघद्भिर्ऋत्विग्भिः सह यज्ञं वहद्भिः विह्वयामहे अन्नदानाय त्वां विशेषेणाह्वयामः । तस्मादन्नस्य दाता भवेति पूर्वत्रान्वयः ॥
 
-**Translation:** "At the raising of the *yūpa* [the two ṛks] '*ūrdhva ū ṣu ṇa ūtaye*' [are used]: it is laid down in the section '*paśāv iṣṭiḥ*': 'the two [ṛks] *ūrdhva ū ṣu ṇa ūtaye*' (Āś. 3-1 [?]). The same two are also applied in the *abhiplava*: it is laid down in the section '*athottaram*': '*sakhe sakhāyam abhyā vavṛtsva*, and the two *ūrdhva ū ṣu ṇa ūtaye*' (Āś. 4-2 [?]). — O *yūpa*, or O Agni abiding in the wooden *yūpa*, *ūtaye* — for our protection — *ūrdhvaḥ tiṣṭha* — stand erect. The illustration is *savitā devo na*: as the god Sūrya stands high, so [do you]. Standing high, you will be *vājasya sanitā*, the giver of food, since *yat* — because — *vihvayāmahe* — we call you specially for the giving of food — *añjibhiḥ*, with the anointers (those who anoint the *yūpa* with ghee), *vāghadbhiḥ*, with the priests, who bear the sacrifice [?]: therefore be the giver of food — the connection with the foregoing."
+*yūpocchrayaṇe ūrdhva ū ṣu ṇa ūtaya iti dve | paśāv iṣṭir iti khaṇḍe sūtritam | ūrdhva ū ṣu ṇa ūtaye iti dve | ā. 3-1 | iti || ete evābhiplave 'pi viniyukte | athottaram iti khaṇḍe sūtritam | sakhe sakhāyam abhyā vavṛtsvordhva ū ṣu ṇa ūtaya iti dve | ā. 4-2 | iti ||*
+*he yūpa yadvā yūpātmakadāruniṣṭhāgne no 'smākam ūtaye rakṣaṇāyordhva unnatas tiṣṭha | tatra dṛṣṭāntaḥ | savitā devo na | yathā sūryo deva unnatas tiṣṭhati tadvat | ūrdhva unnatas san vājasyānnasya sanitā dātā bhaviṣyasi | yad yasmāt kāraṇād añjibhir ājyena yūpam añjadbhir vāghadbhir ṛtvigbhiḥ saha yajñaṃ vahadbhiḥ vihvayāmahe annadānāya tvāṃ viśeṣeṇāhvayāmaḥ | tasmād annasya dātā bhaveti pūrvatrānvayaḥ ||*
 
-**Grammar within the bhāṣya** *(pp. 221–222, characterized; the print is crowded and several rule-names are only partly legible [?])*: *ū ṣu ṇaḥ* (*ikaḥ suñi* — the lengthening of the *u* before *suñ* in a ṛk; *suñaḥ* — *s* → *ṣ* after *ik*-letters; *ṇatva* of *naḥ* by *naś ca dhātusthoruṣubhyaḥ*); *ūtaye* (*avater ktin*, with *ūṭh* by *jvaratvara…*; *ūtiyūtijūti…*: *ktin* acute); *tiṣṭha* (*śap*, with *tiṣṭha* in place of *sthā* by *pāghrādhmā…*; *dvyacotastiṅaḥ*: lengthening in the Saṃhitā); *vājasya* ("*kriyāgrahaṇaṃ kartavyam*" — the vārtika on *karmaṇā yam abhipraiti sa sampradānam*: the dative sense given by the sixth case); *sanitā* (*ṣaṇu dāne*, *luṭ*, *tāsi*, *ṭi* → *ḍā*; *valādilakṣaṇa iṭ*; *tāsyanudāttet…*); *añjibhiḥ* (*añjū vyaktimrakṣaṇagatiṣu*; the Uṇādi *i* [*khanikaṣyañji…*, Uṇ. 4-[?], numerals not read]); *vihvayāmahe* (*ni-sam-upa-vibhyo hvaḥ*: *ātmanepada*; *śap* is *pit*; *tiṅ* and the accent *tiṅ ṅatiṅaḥ*; *jity ṅa* …).
+**Translation:** "At the raising of the *yūpa* [the two ṛks] '*ūrdhva ū ṣu ṇa ūtaye*' [are used]: it is laid down in the section '*paśāv iṣṭiḥ*': 'the two [ṛks] *ūrdhva ū ṣu ṇa ūtaye*' (Āś. 3-1). The same two are also applied in the *abhiplava*: it is laid down in the section '*athottaram*': '*sakhe sakhāyam abhyā vavṛtsva*, and the two *ūrdhva ū ṣu ṇa ūtaye*' (Āś. 4-2). — O *yūpa*, or O Agni abiding in the wooden *yūpa*, *ūtaye* — for our protection — *ūrdhvaḥ tiṣṭha* — stand erect. The illustration is *savitā devo na*: as the god Sūrya stands high, so [do you]. Standing high, you will be *vājasya sanitā*, the giver of food, since *yat* — because — *vihvayāmahe* — we call you specially for the giving of food — *añjibhiḥ*, with the anointers (those who anoint the *yūpa* with ghee), *vāghadbhiḥ*, with the priests, who bear the sacrifice: therefore be the giver of food — the connection with the foregoing."
+
+**Grammatical tail of the bhāṣya** *(pp. 221–222)*
+
+> ऊ षु णः । इकः सुञि । पा. ६-३-१३४ । इति संहितायां दीर्घः । सुञः । पा. ८-३-१०७ । इति षत्वम् । नश्च धातुस्थोरुषुभ्यः । पा. ८-४-२७ । इति णत्वम् । ऊतये । अवतेः क्तिनि ज्वरत्वरेत्यादिना ऊठ् । ऊतियूतीत्यादिना क्तिन्नुदात्तत्वम् । तिष्ठ । तिष्ठ । शपि पाघ्रेत्यादिना तिष्ठादेशः । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । वाजस्य । क्रियाग्रहणं कर्तव्यम् । पा. १-४-३२-१ । इति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । सनिता । षणु दाने । लुटि तासिः । वलादिलक्षण इट् । पा. ७-२-३५ । तिपो डादेशः । पा. २-४-८५ । टिलोपः । उदात्तनिवृत्तिस्वरेण डादेशस्योदात्तत्वे प्राप्ते तास्यनुदात्तेदिति तस्यानुदात्तत्वं धातुस्वरः । न लुट् । पा. ८-१-२९ । इति निघातप्रतिषेधः । अञ्जिभिः । अञ्जू व्यक्तिम्रक्षणगतिषु । खनिकष्यञ्जीत्यादिना । उ. ४-१३९ । इप्रत्ययः । विह्वयामहे । निसमुपविभ्यो ह्वः । पा. १-३-३० । इत्यकर्त्रभिप्रायेऽप्यात्मनेपदम् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । तिङि चोदात्तवतीति गतेरनुदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥
+
+*ū ṣu ṇaḥ | ikaḥ suñi | pā. 6-3-134 | iti saṃhitāyāṃ dīrghaḥ | suñaḥ | pā. 8-3-107 | iti ṣatvam | naśca dhātusthoruṣubhyaḥ | pā. 8-4-27 | iti ṇatvam | ūtaye | avateḥ ktini jvaratvaretyādinā ūṭh | ūtiyūtītyādinā ktinnudāttatvam | tiṣṭha | tiṣṭha | śapi pāghretyādinā tiṣṭhādeśaḥ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | vājasya | kriyāgrahaṇaṃ kartavyam | pā. 1-4-32-1 | iti karmaṇaḥ saṃpradānatvāccaturthyarthe ṣaṣṭhī | sanitā | ṣaṇu dāne | luṭi tāsiḥ | valādilakṣaṇa iṭ | pā. 7-2-35 | tipo ḍādeśaḥ | pā. 2-4-85 | ṭilopaḥ | udāttanivṛttisvareṇa ḍādeśasyodāttatve prāpte tāsyanudāttediti tasyānudāttatvaṃ dhātusvaraḥ | na luṭ | pā. 8-1-29 | iti nighātapratiṣedhaḥ | añjibhiḥ | añjū vyaktimrakṣaṇagatiṣu | khanikaṣyañjītyādinā | u. 4-139 | ipratyayaḥ | vihvayāmahe | nisamupavibhyo hvaḥ | pā. 1-3-30 | ityakartrabhiprāye 'pyātmanepadam | adupadeśāllasārvadhātukānudāttatve dhātusvaraḥ | tiṅi codāttavatīti gateranudāttatvam | yadvṛttayogādanighātaḥ ‖*
+
+*(Sense:)* *ū ṣu ṇaḥ* (*ikaḥ suñi* — the lengthening of the *u* before *suñ* in a ṛk; *suñaḥ* — *s* → *ṣ* after *ik*-letters; *ṇatva* of *naḥ* by *naś ca dhātusthoruṣubhyaḥ*); *ūtaye* (*avater ktin*, with *ūṭh* by *jvaratvara…*; *ūtiyūtijūti…*: *ktin* acute); *tiṣṭha* (*śap*, with *tiṣṭha* in place of *sthā* by *pāghrādhmā…*; *dvyacotastiṅaḥ*: lengthening in the Saṃhitā); *vājasya* ("*kriyāgrahaṇaṃ kartavyam*" — the vārtika on *karmaṇā yam abhipraiti sa sampradānam*: the dative sense given by the sixth case); *sanitā* (*ṣaṇu dāne*, *luṭ*, *tāsi*, *ṭi* → *ḍā*; *valādilakṣaṇa iṭ*; *tāsyanudāttet…*); *añjibhiḥ* (*añjū vyaktimrakṣaṇagatiṣu*; the Uṇādi *i* [*khanikaṣyañji…*, Uṇ. 4-139]); *vihvayāmahe* (*ni-sam-upa-vibhyo hvaḥ*: *ātmanepada*; *śap* is *pit*; *tiṅ* and the accent *tiṅ ṅatiṅaḥ*; *jity ṅa* …).
+
+### Page 222
 
 **Pratipadārtha** *(p. 222)* — "(O Agni, fixed to the sacrificial post) **savitā devaḥ na** — as the divine Savitṛ (the Sun); **ūrdhvaḥ** — standing high above; **tiṣṭha** — stand; **naḥ** — for our; **ūtaye** — for protection; **ūrdhvaḥ** — as you stand erect; **yat** — for which reason; **añjibhiḥ** — with the priests who smear the post (with ghee); **vāghadbhiḥ** — with the priests who carry out the sacrifice; **vihvayāmahe** — we call you specially (for this purpose); **vājasya** — of food; **sanitā** — be the giver."
 
@@ -3485,46 +3497,55 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 **English Translation (the source's own, p. 222)** — "Stand up erect for our protection like the divine Savitri ; you, giver of food, be erect ; we invoke you through our annointing priests who are offering oblations·" *("annointing" [sic]; the print ends with a raised dot.)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 222–224**
-- "For this ṛk and the next, *ūrdhvo naḥ*, the deity is the *yūpa* — that is, the post to which an animal is tied in the animal sacrifice, a pillar, or [wooden] beam — [or] Agni of that form, it is held [that Agni is] the deity. Therefore in animal sacrifices, at the time of raising the *yūpa*, these two ṛks beginning *ūrdhva ū ṣu* are recited. This matter is explained in the Āśvalāyana Śrauta-sūtra, in the section *paśāviṣṭi*, by the sūtra '*ūrdhva ū ṣu ṇa ūtaye iti dve*' (Āś. 3-1 [?]); and also in the *abhiplava* [it is explained] in the section *athottaram* by the sūtra '*sakhe sakhāyam abhyāvavṛtsva* (Ṛg. 4-[?]-[?]) *ūrdhva ū ṣu ṇa ūtaye* (Ṛg. 1-36-13 and 14) *iti dve*' (Āś. 4-2)."
+- "For this ṛk and the next, *ūrdhvo naḥ*, the deity is the *yūpa* — that is, the post to which an animal is tied in the animal sacrifice, a pillar, or [wooden] beam — [or] Agni of that form, it is held [that Agni is] the deity. Therefore in animal sacrifices, at the time of raising the *yūpa*, these two ṛks beginning *ūrdhva ū ṣu* are recited. This matter is explained in the Āśvalāyana Śrauta-sūtra, in the section *paśāviṣṭi*, by the sūtra '*ūrdhva ū ṣu ṇa ūtaye iti dve*' (Āś. 3-1); and also in the *abhiplava* [it is explained] in the section *athottaram* by the sūtra '*sakhe sakhāyam abhyāvavṛtsva* (Ṛ. Saṃ. 4-1-3) *ūrdhva ū ṣu ṇa ūtaye* (Ṛ. Saṃ. 1-36-13 and 14) *iti dve*' (Āś. 4-2)."
+
+### Page 223
+
 - **ūtaye** — "for protection: how the *yūpa*-post protects us is that the post is a help to the sacrifice; by performing the sacrifice the gods will give us protection: such is the sense."
 - **devo na savitā** — "like the shining Sun; that is, as the Sun, when he shines well, stands very high (above the head): so you too, O *yūpa*-post, stand high. In the sacrifice, praying to the *yūpa*-post to 'stand straight' or 'stand erect' is the established usage. On this matter:"
 
-> यदूर्ध्वस्तिष्ठा द्रविणेह धत्तादद्वा क्षयो मातुरस्या उपस्थे । (ऋ. सं. ३-८-१ [?])
-> उच्छ्रयस्व वनस्पते वर्ष्मन् पृथिव्या अधि । (ऋ. सं. ३-८-३ [?])
-> तं धीरासः कवय उन्नयन्ति स्वाधियो मनसा देवयन्तः । (ऋ. सं. ३-८-४ [?])
-> उन्नीयमानः कविभिः पुरस्ताद्देवा देवानामपि यन्ति पाथः ॥ (ऋ. सं. ३-८-९ [?])
+> यदूर्ध्वस्तिष्ठा द्रविणेह धत्तादद्वा क्षयो मातुरस्या उपस्थे । (ऋ. सं. ३-८-१)
+> उच्छ्रयस्व वनस्पते वर्ष्मन् पृथिव्या अधि । (ऋ. सं. ३-८-३)
+> तं धीरासः कवय उन्नयन्ति स्वाधियो मनसा देवयन्तः । (ऋ. सं. ३-८-४)
+> उन्नीयमानः कविभिः पुरस्ताद्देवा देवानामपि यन्ति पाथः ॥ (ऋ. सं. ३-८-९)
 
-*yad ūrdhvas tiṣṭhā draviṇeha dhattād ad vā kṣayo mātur asyā upasthe | (ṛ. saṃ. 3-8-1 [?])*
-*ucchrayasva vanaspate varṣman pṛthivyā adhi | (ṛ. saṃ. 3-8-3 [?])*
-*taṃ dhīrāsaḥ kavaya unnayanti svādhiyo manasā devayantaḥ | (ṛ. saṃ. 3-8-4 [?])*
-*unnīyamānaḥ kavibhiḥ purastād devā devānām api yanti pāthaḥ || (ṛ. saṃ. 3-8-9 [?])*
+*yad ūrdhvas tiṣṭhā draviṇeha dhattād ad vā kṣayo mātur asyā upasthe | (ṛ. saṃ. 3-8-1)*
+*ucchrayasva vanaspate varṣman pṛthivyā adhi | (ṛ. saṃ. 3-8-3)*
+*taṃ dhīrāsaḥ kavaya unnayanti svādhiyo manasā devayantaḥ | (ṛ. saṃ. 3-8-4)*
+*unnīyamānaḥ kavibhiḥ purastād devā devānām api yanti pāthaḥ || (ṛ. saṃ. 3-8-9)*
 
-"— in such ṛks it is said that the *yūpa*-post is raised high." *(The source leaves the ṛks untranslated. My glosses, **mine and tentative**: "when you stand erect, … establish wealth here, or [your] dwelling in the lap of this mother [earth]"; "rise up, O lord of the forest, on the height of the earth"; "him the wise poets, the pious, lift up with the mind, desiring the gods"; "being led up by the poets in front, the gods go to the path of the gods too". The first line is read with difficulty; all references are small and uncertain.)*
+"— in such ṛks it is said that the *yūpa*-post is raised high." *(The source leaves the ṛks untranslated. My glosses, **mine and tentative**: "when you stand erect, … establish wealth here, or [your] dwelling in the lap of this mother [earth]"; "rise up, O lord of the forest, on the height of the earth"; "him the wise poets, the pious, lift up with the mind, desiring the gods"; "being led up by the poets in front, the gods go to the path of the gods too". References re-read from the better scan.)*
 - **vājasya sanitā** = *annasya dātā*: "one who gives food or sustenance."
 - **yad añjibhiḥ** = *ājyena yūpam añjadbhiḥ*: "it is the custom to smear the *yūpa*-post with ghee. Such work is done by the priests, with [the help of] mantras. 'By the priests' is the sense. On the matter of the *yūpa*-post being smeared with ghee:"
 
-> अञ्जन्ति त्वामध्वरे देवयन्तो वनस्पते मधुना दैव्येन । (ऋ. सं. ३-८-१ [?])
+> अञ्जन्ति त्वामध्वरे देवयन्तो वनस्पते मधुना दैव्येन । (ऋ. सं. ३-८-१)
 
-*añjanti tvām adhvare devayanto vanaspate madhunā daivyena | (ṛ. saṃ. 3-8-1 [?])*
+*añjanti tvām adhvare devayanto vanaspate madhunā daivyena | (ṛ. saṃ. 3-8-1)*
 
 "— this ṛk clearly explains this ghee-anointing." *(Gloss mine, tentative: "the god-desiring anoint you in the sacrifice, O lord of the forest, with divine honey [= ghee]".)*
+
+### Page 224
+
 - **vāghadbhiḥ** = *yajñaṃ vahadbhiḥ ṛtvigbhiḥ*: "by the priests who carry out the sacrificial work in the sacrifice; on this matter:"
 
-> वाघद्भिर्वा विह्वे श्रोषमाणा अस्मा अवन्तु पृतनाज्येषु । (ऋ. सं. ३-८-१० [?])
+> वाघद्भिर्वा विह्वे श्रोषमाणा अस्मा अवन्तु पृतनाज्येषु ॥ (ऋ. सं. ३-८-१०)
 
-*vāghadbhir vā vihve śroṣamāṇā asmā avantu pṛtanājyeṣu | (ṛ. saṃ. 3-8-10 [?])*
+*vāghadbhir vā vihve śroṣamāṇā asmā avantu pṛtanājyeṣu || (ṛ. saṃ. 3-8-10)*
 
 "— this ṛk explains it." *(Gloss mine, tentative: "may [they], listening to our call with the priests, help us in the battles".)*
 - **vihvayāmahe** = *viśeṣeṇāhvayāmaḥ*: "we call in a special way; that is, we call with praises and the like."
 
 **Vyākaraṇa-prakriyā** *(pp. 224–225, PDF 238–239 — grammar pages, noted briefly)*
-- **ū ṣu ṇaḥ** (p. 224): *ikaḥ suñi* — इकः सुञि — [Pā. 6-3-134]: in a ṛk the vowel of an *ik*-ending word is lengthened before the particle *suñ*; so the *u* becomes *ū*; *suñaḥ* — सुञः — [Pā. 8-3-107, as read]: *s* of *suñ* becomes *ṣ* after an *ik* or *k*-class letter; *naś ca dhātusthoruṣubhyaḥ* — नश्च धातुस्थोरुषुभ्यः — [Pā. 8-4-27]: the *n* of *nas* after *r*, *ṣ* in a root, or after *uru* or *ṣu*, becomes *ṇ*: so the *n* of *nas*, the substitute of *asmad*, becomes *ṇ*.
-- **ūtaye**: root *ava rakṣaṇe*; *striyāṃ ktin*; *ūtiyūtijūtisātihetikīrtayaś ca* — ऊतियूतिजूतिसातिहेतिकीर्तयश्च — [Pā. 3-3-97]: *ktin* is acute [on the first syllable, by *ūti*, etc.]; *jvaratvarasrivyaviyamavām…*: *ū* for *av*.
-- **tiṣṭha**: root *ṣṭhā gatinivṛttau*, *loṭ*, *sip*, *śap*; *pāghrādhmāsthā…*: *tiṣṭha* for *sthā*; *ato heḥ*: *luk* of *hi*; *dvyacotastiṅaḥ* — in the Saṃhitā the *a* of a two-vowelled *tiṅ* form in a ṛk is lengthened: *tiṣṭhā*.
-- **vājasya** (p. 224): "*vājasya sanitā* means the giver of food. In the sūtra *karmaṇā yam abhipraiti sa sampradānam* — कर्मणा यमभिप्रैति स सम्प्रदानम् — [Pā. 1-4-32] [the print notes the vārtika] *kriyāgrahaṇaṃ kartavyam* — 'the word *kriyā* is to be added': the one at whom an action is aimed is also *sampradāna* through the action implied by the *san*-root; so *vāja*, aimed at by the action of [the root] *sanoti*, takes the name *sampradāna*; but if it is regarded as a remainder (*śeṣa*), the sixth case arises."
-- **sanitā**: root *ṣaṇu dāne*, *luṭ*, *syatāsī lṛluṭoḥ* — स्यतासी लृलुटोः — [Pā. 3-1-33]: *tāsi*; *tip*; *luṭaḥ prathamasya ḍārauras* — लुटः प्रथमस्य डारौरसः — [Pā. 2-4-85]: *ḍā* for *tip*; by the force of the *ḍ* the *ṭi* of *tāsi* is lost; the augment *iṭ* for the *ārdhadhātuka tāsi*; *tāsyanudāttenṅid…*: the *ḍā* after *tāsi* is unaccented; *nalut* — नलुट् — [Pā. 6-1-83]: a word ending in *luṭ* is not unaccented, hence the prohibition of the wholly-unaccented; the root's accent stands.
-- **añjibhiḥ** (p. 225): root *añjū vyaktimrakṣaṇagatiṣu*; *khanikaṣyañjivasivanisanidhvanigranthicalibhyaś ca* [as read; Uṇ. 4-[?]]: *i* after these roots; so *i* after *añj*.
-- **vihvayāmahe**: *ni-sam-upa-vibhyo hvaḥ* — नि-सम्-उप-विभ्यो ह्वः — [Pā. 1-3-30]: the root *hve̐* after the preverbs *ni*, *sam*, *upa*, *vi* takes the *ātmanepada* even where the fruit goes to another; *ātmanepada*, *mahiṅ*, *e*; *śap*; *tāsyanudāttet…*: since it is after an *anupadeśa* [*anudātta*-marked] root, the *lasārvadhātuka* is unaccented and the root's accent stays; *tiṅ ca udāttavati* [as read: *tiṅ ṅatiṅaḥ*, Pā. 8-1-28]: a *tiṅ* after a non-*tiṅ* is unaccented, and since *yat* is connected [*yad vṛttayogād anighātaḥ*] [as read] the *gati* … *(the page notes that the verb, standing after a *tiṅ*-less word with an acute, takes the accent as stated)*. Rik 13 ends here (*|| 13 ||*).
+- **ū ṣu ṇaḥ** (p. 224): *ikaḥ suñi* — इकः सुञि — (Pā. 6-3-134): in a ṛk the vowel of an *ik*-ending word is lengthened before the particle *suñ*; so the *u* becomes *ū*; *suñaḥ* — सुञः — (printed "Pā. Sū. 8-3-2" [sic]; the bhāṣya tail gives 8-3-107): *s* of *suñ* becomes *ṣ* after an *ik* or *k*-class letter; *naś ca dhātusthoruṣubhyaḥ* — नश्च धातुस्थोरुषुभ्यः — (Pā. 8-4-27): the *n* of *nas* after *r*, *ṣ* in a root, or after *uru* or *ṣu*, becomes *ṇ*: so the *n* of *nas*, the substitute of *asmad*, becomes *ṇ*.
+- **ūtaye**: root *ava rakṣaṇe*; *striyāṃ ktin*; *ūtiyūtijūtisātihetikīrtayaś ca* — ऊतियूतिजूतिसातिहेतिकीर्तयश्च — (no number printed): *ktin* is acute [on the first syllable, by *ūti*, etc.]; *jvaratvarasrivyaviyamavām…*: *ū* for *av*.
+- **tiṣṭha**: root *ṣṭhā gatinivṛttau*, *loṭ*, *sip*, *śap*; *pāghrādhmāsthā…* (Pā. 7-3-78): *tiṣṭha* for *sthā*; *ato heḥ*: *luk* of *hi*; *dvyacotastiṅaḥ* (Pā. 6-3-135) — in the Saṃhitā the *a* of a two-vowelled *tiṅ* form in a ṛk is lengthened: *tiṣṭhā*.
+- **vājasya** (p. 224): "*vājasya sanitā* means the giver of food. In the sūtra *karmaṇā yam abhipraiti sa sampradānam* — कर्मणा यमभिप्रैति स सम्प्रदानम् — (Pā. 1-4-32) [the print notes the vārtika] *kriyāgrahaṇaṃ kartavyam* — 'the word *kriyā* is to be added': the one at whom an action is aimed is also *sampradāna* through the action implied by the *san*-root; so *vāja*, aimed at by the action of [the root] *sanoti*, takes the name *sampradāna*; but if it is regarded as a remainder (*śeṣa*), the sixth case arises."
+- **sanitā**: root *ṣaṇu dāne*, *luṭ*, *syatāsī lṛluṭoḥ* — स्यतासी लृलुटोः — (no number printed): *tāsi*; *tip*; *luṭaḥ prathamasya ḍārauras* — लुटः प्रथमस्य डारौरसः — (Pā. 2-4-85): *ḍā* for *tip*; by the force of the *ḍ* the *ṭi* of *tāsi* is lost; the augment *iṭ* for the *ārdhadhātuka tāsi*; *tāsyanudāttenṅid…*: the *ḍā* after *tāsi* is unaccented; *nalut* — नलुट् — (Pā. 8-1-29): a word ending in *luṭ* is not unaccented, hence the prohibition of the wholly-unaccented; the root's accent stands.
+
+### Page 225
+
+- **añjibhiḥ** (p. 225): root *añjū vyaktimrakṣaṇagatiṣu*; *khanikaṣyañjivasivanisanidhvanigranthicalibhyaś ca* (Uṇ. 4-139 as in the bhāṣya tail; on p. 225 the number is printed less clearly, ೪-೫?೯ [?]): *i* after these roots; so *i* after *añj*.
+- **vihvayāmahe**: *ni-sam-upa-vibhyo hvaḥ* — नि-सम्-उप-विभ्यो ह्वः — (Pā. 1-3-30): the root *hve̐* after the preverbs *ni*, *sam*, *upa*, *vi* takes the *ātmanepada* even where the fruit goes to another; *ātmanepada*, *mahiṅ*, *e*; *śap*; *tāsyanudāttet…*: since it is after an *anupadeśa* [*anudātta*-marked] root, the *lasārvadhātuka* is unaccented and the root's accent stays; *tiṅi codāttavati* (Pā. 8-1-71): when a *tiṅ*-ending word with an acute follows, the *gati* is unaccented — so *vi* is unaccented. Rik 13 ends here (*|| 13 ||*).
 
 ### Rik 36.14 (pp. 225–228, PDF 239–242)
 
