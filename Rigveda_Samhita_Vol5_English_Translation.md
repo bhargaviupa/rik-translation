@@ -4463,13 +4463,15 @@
 
 ### Rik 52.11 (pp. 249–252, PDF 265–268)
 
-**Saṃhitā-pāṭha** *(p. 249; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 249; accents as printed)*
 
-> **यदिन्न्विन्द्र पृथिवी दशभुजिरहानि विश्वा ततनन्त कृष्टयः ।**
-> **अत्राह ते मघवन्विश्रुतं सहो द्यामनु शवसा बर्हणा भुवत् ॥ ११ ॥**
+> **यदिन्न्वि॑न्द्र पृथि॒वी दश॑भुजि॒रहा॑नि॒ विश्वा॑ त॒तन॑न्त कृ॒ष्टयः॑ ।**
+> **अत्राह॑ ते मघव॒न्विश्रु॑तं॒ सहो॒ द्यामनु॒ शव॑सा ब॒र्हणा॑ भुवत् ॥ ११ ॥**
 
-*yad in nv indra pṛthivī daśabhujir ahāni viśvā tatananta kṛṣṭayaḥ |*
-*atrāha te maghavan viśrutaṃ saho dyām anu śavasā barhaṇā bhuvat || 11 ||*
+*yád ín nv indra pṛthivī́ dáśabhujir áhāni víśvā tatánanta kṛṣṭáyaḥ |*
+*atrā́ha te maghavan víśrutaṃ sáho dyā́m anu śávasā barháṇā bhuvat || 11 ||*
+
+*(Pass: no accent mark is printed on* bhuvat*.)*
 
 **Pada-pāṭha** *(p. 249)*
 
@@ -4485,7 +4487,7 @@
 
 *yad in nu yadā khalu pṛthivī daśabhujir daśaguṇitā bhavet | yadi vā kṛṣṭayaḥ sarve manuṣyā viśvā sarvāṇy ahāni tatananta | vistārayeyuḥ | he maghavan dhanavann indra atrāha atraiva pūrvokteṣv eva deśakālakartṛkeṣu te tvadīyaṃ saho vṛtravadhādikāraṇaṃ balaṃ viśrutaṃ vikhyātaṃ prasiddham | śavasā tvadīyena balena kṛtā barhaṇā vṛtrāder vadharūpā kriyā dyām anu bhuvat | anubhavati | yathā dyaur mahatī tathā tvatkṛtaṃ vṛtrāder hiṃsanam api mahad iti bhāvaḥ ||*
 
-*(The tail of the bhāṣya, pp. 249–250, is characterized:* tatananta *(*tanu vistāre*, with the Vedic* ātmanepada*,* luṅ/laṅ/liṭ *in the sense of the* liṭ*,* śap *in place of* u*, the substitution* ant*, the doubling and the* ata ādeḥ*); *viśrutam *(*śru śravaṇe*, *kta*, the prefix's accent by* gatir anantaraḥ*);* barhaṇā *(*barha vala hiṃsāchādaneṣu*, "*nibarhayati*", Ni. 6-… [?], with the Uṇādi* kyu *and the* ṭāp*; the* vabayor abhedaḥ*);* bhuvat *(*leṭ* third singular, with* aṭ*, *itaś ca* [loss of *i*], *bhūsuvos tiṅi*, the* uvaṅ *substitute by* bahulaṃ chandasi*).)*
+*(The tail of the bhāṣya, pp. 249–250, is characterized:* tatananta *(*tanu vistāre*, with the Vedic* ātmanepada*,* luṅ/laṅ/liṭ *in the sense of the* liṭ*,* śap *in place of* u*, the substitution* ant*, the doubling and the* ata ādeḥ*); *viśrutam *(*śru śravaṇe*, *kta*, the prefix's accent by* gatir anantaraḥ*);* barhaṇā *(*barha vala hiṃsāchādaneṣu*, "*nibarhayati*", cited without a number, with the Uṇādi* kyu *and the* ṭāp*; the* vabayor abhedaḥ*);* bhuvat *(*leṭ* third singular, with* aṭ*, *itaś ca* [loss of *i*], *bhūsuvos tiṅi*, the* uvaṅ *substitute by* bahulaṃ chandasi*).)*
 
 **Translation of the bhāṣya:** "*Yad in nu*: if the earth, *daśabhujiḥ*, were ten times (as large), or if all men, *kṛṣṭayaḥ*, *viśvā ahāni*, day by day, *tatananta*, were to multiply (spread) — then, O wealthy *maghavan* Indra, *atra aha*, even there, in the very places, times and persons aforesaid, *te saho*, your strength, the cause of the slaying of Vṛtra and the rest, *viśrutam*, is renowned. *Śavasā*, by your strength, the deed *barhaṇā*, the act of killing Vṛtra and the rest, *dyām anu bhuvat*, comes to equal heaven: as heaven is great, so your slaying of Vṛtra and the rest is great — this is the sense."
 
@@ -4498,19 +4500,19 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 250–251**
 - **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
 
-  > **अत्रेदमुक्तं भवति । इन्द्रस्य वृत्रहननादिक्रियायां प्रकाशितेन पराक्रमेण यद्यपि तस्य प्रभावः प्रसिद्ध एवास्ति तदपि तस्य प्रसेधयित्वाणां [?] मनुष्यभावजन्यादल्पायुष्ट्वात्तेषां च स्थानभूतायाः पृथिव्या अल्पत्वात्तस्य महिमा द्युलोकादाश्रावयितुं न शक्यते । यदि तु पृथिवी दशगुणिता भवेत्सा च स्तोतृभिर्मनुष्यैः परिपूर्णा स्यात्स्तोतारश्च मरणरहिता भूत्वाहर्निशमिन्द्रस्य तपसो महिमानमेव वर्णयेयुस्तदैव स सर्वामपि द्यां व्याप्नुयान्न प्रागिति ॥**
+  > **अत्रेदमुक्तं भवति । इन्द्रस्य वृत्रहननादिक्रियायां प्रकाशितेन पराक्रमेण यद्यपि तस्य प्रभावः प्रसिद्ध एवास्ति तदपि तस्य प्रसेधयितॄणां मनुष्यभावजन्यादल्पायुष्ट्वात्तेषां च स्थानभूतायाः पृथिव्या अल्पत्वात्तस्य महिमा द्युलोकादाश्रावयितुं न शक्यते । यदि तु पृथिवी दशगुणिता भवेत्सा च स्तोतृभिर्मनुष्यैः परिपूर्णा स्यात्स्तोतारश्च मरणरहिता भूत्वाहर्निशमिन्द्रस्य सहसो महिमानमेव वर्णयेयुस्तदैव स सर्वामपि द्यां व्याप्नुयान्न प्रागिति ॥**
 
-  *atredam uktaṃ bhavati | indrasya vṛtrahananādikriyāyāṃ prakāśitena parākrameṇa yady api tasya prabhāvaḥ prasiddha evāsti tad api tasya prasedhayitvāṇāṃ [?] manuṣyabhāvajanyād alpāyuṣṭvāt teṣāṃ ca sthānabhūtāyāḥ pṛthivyā alpatvāt tasya mahimā dyulokād āśrāvayituṃ na śakyate | yadi tu pṛthivī daśaguṇitā bhavet sā ca stotṛbhir manuṣyaiḥ paripūrṇā syāt stotāraś ca maraṇarahitā bhūtvāhar-niśam indrasya tapaso mahimānam eva varṇayeyus tadaiva sa sarvām api dyāṃ vyāpnuyān na prāg iti ||* — "Here this is meant: although Indra's majesty is indeed well known through the valour displayed in the act of slaying Vṛtra and the rest, yet [by the men who tell of it — crowded, [?]], because they are short-lived by being men, and because their place, the earth, is small, his greatness cannot be made to reach the world of heaven. If the earth were ten times as large, and filled with men who praise, and the praisers were free from death and described by day and night only the greatness of Indra's power, then only would it extend over all heaven — not before." The Kannada adds: "Though the daring deeds done by Indra, such as the slaying of Vṛtra, are very well known, it is impossible for the praise made by men — short-lived, and subject to death, inhabitants of the earth — to be heard from the earth up to heaven. If the earth's extent were ten times larger, and the praising men lived long as though free from death, then the description of Indra's daring deeds made by the men of earth could fill the whole of heaven. Otherwise it is impossible. The sense is that Indra's greatness is as extraordinary as that."
+  *atredam uktaṃ bhavati | indrasya vṛtrahananādikriyāyāṃ prakāśitena parākrameṇa yady api tasya prabhāvaḥ prasiddha evāsti tad api tasya prasedhayitṝṇāṃ manuṣyabhāvajanyād alpāyuṣṭvāt teṣāṃ ca sthānabhūtāyāḥ pṛthivyā alpatvāt tasya mahimā dyulokād āśrāvayituṃ na śakyate | yadi tu pṛthivī daśaguṇitā bhavet sā ca stotṛbhir manuṣyaiḥ paripūrṇā syāt stotāraś ca maraṇarahitā bhūtvāhar-niśam indrasya sahaso mahimānam eva varṇayeyus tadaiva sa sarvām api dyāṃ vyāpnuyān na prāg iti ||* — "Here this is meant: although Indra's majesty is indeed well known through the valour displayed in the act of slaying Vṛtra and the rest, yet, as for those who would proclaim it (*prasedhayitṝṇām*; gloss mine and tentative), because they are short-lived by being men, and because their place, the earth, is small, his greatness cannot be made to reach the world of heaven. If the earth were ten times as large, and filled with men who praise, and the praisers were free from death and described by day and night only the greatness of Indra's power, then only would it extend over all heaven — not before." The Kannada adds: "Though the daring deeds done by Indra, such as the slaying of Vṛtra, are very well known, it is impossible for the praise made by men — short-lived, and subject to death, inhabitants of the earth — to be heard from the earth up to heaven. If the earth's extent were ten times larger, and the praising men lived long as though free from death, then the description of Indra's daring deeds made by the men of earth could fill the whole of heaven. Otherwise it is impossible. The sense is that Indra's greatness is as extraordinary as that."
 - **yad-it-nu** — "*yadinnu*: the particles *yat*, *it* and *nu* are used here in the sense of 'if indeed'."
-- **barhaṇā** — "*vṛtrādeḥ vadharūpā kriyā*: the word formed from the root *barha*, in accordance with the worldly rule *vabayor abhedaḥ*, has become *barhaṇā*. The Nirukta writers have used this word with the sense of 'killer' in the sūtra *barhaṇā* (Ni. 6-… as read [?])."
+- **barhaṇā** — "*vṛtrādeḥ vadharūpā kriyā*: the word formed from the root *barha*, in accordance with the worldly rule *vabayor abhedaḥ*, has become *barhaṇā*. The Nirukta writers have used this word with the sense of 'killer' in the sūtra *barhaṇā* (Ni. 6-19)."
 - **dyām anu bhuvat** — "'It becomes as vast as the atmosphere': the sense comes from the connection with *anu*; and one may see in the śruti the Vedic (*leṭ*) form of the root *bhū*."
 
 **Vyākaraṇa-prakriyā** *(pp. 251–252 — grammar pages, noted briefly)*
 - **tatananta**: *tanu vistāre*; with the sense of the fruit of the action going to the agent, *ātmanepada* by *svaritañitaḥ kartrabhiprāye kriyāphale*; *chandasi luṅlaṅliṭaḥ* gives *laṅ*/*liṭ* in the sense of *liṭ*; *tanādikṛñbhya uḥ* would give *u*, but *vyatyayo bahulam* gives *śap*; the plural *jha* → *anta* by *jho 'ntaḥ*; the Vedic reduplication of the root; *halādiḥ śeṣaḥ*; *ato guṇe* gives *pararūpa* with *śap*'s *a*: *tatananta*; *śap* being *pit*, anudātta by *tāsyanudāttenṅidadupadeśāl…*, so the root's end-acute remains; because of the connected *yat*, no *nighāta*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes.
-- **viśrutam**: *śru śravaṇe*; *kta* in the sense of the object; being *kit*, no *guṇa*; *gatir anantaraḥ* (Pā. 6-2-49) gives the prefix *vi* its natural accent.
-- **barhaṇā**: *barha valha paribhāṣaṇahiṃsāchādaneṣu*; the Uṇādi suffix *kyu*; *yuvor anākau* gives *ana*; *vabayor abhedaḥ* gives *b* for the *v* of *valha*: *barhaṇ*; in the feminine, since it ends in *a*, *ṭāp*; by the suffix-accent, the *ā* after *ṇ* is acute; "*nibarhayati*" (Ni. 6-… as read [?]) is read in the sense of killing.
+- **viśrutam**: *śru śravaṇe*; *kta* in the sense of the object; being *kit*, no *guṇa*; *gatir anantaraḥ* (Pā. sū. 6-2-49) gives the prefix *vi* its natural accent.
+- **barhaṇā**: *barha valha paribhāṣaṇahiṃsāchādaneṣu*; the Uṇādi suffix *kyu*; *yuvor anākau* gives *ana*; *vabayor abhedaḥ* gives *b* for the *v* of *valha*: *barhaṇ*; in the feminine, since it ends in *a*, *ṭāp*; by the suffix-accent, the *ā* after *ṇ* is acute; "*nibarhayati*" (no number printed) is read in the sense of killing.
 - **maghavan**: the process was told earlier; the *nighāta* by *āmantritasya ca*.
-- **bhuvat**: *bhū sattāyām*; *leṭ* third singular *tip*; *leṭo 'ṭāṭau* gives *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* drops the *i* of *tip*; since *bhūsuvos tiṅi* (Pā. 7-3-88) forbids *guṇa*, *āciśnudhātubhruvāṃ…* (Pā. 6-4-77) gives *uvaṅ*: *bhuvat*; being after an *atiṅ*, *nighāta*. **|| 11 ||**
+- **bhuvat**: *bhū sattāyām*; *leṭ* third singular *tip*; *leṭo 'ṭāṭau* gives *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. sū. 3-4-97) drops the *i* of *tip*; since *bhūsuvos tiṅi* (Pā. sū. 7-3-88) forbids *guṇa*, *āciśnudhātubhruvāṃ…* (no number printed) gives *uvaṅ*: *bhuvat*; being after an *atiṅ*, *nighāta*. **|| 11 ||**
 
 ---
 
