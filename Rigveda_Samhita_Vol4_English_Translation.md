@@ -4299,15 +4299,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **ajāyanta**: root *janī prādurbhāve*, *divādi*, *ātmanepada*; *laṅ*, *jha*, *ant* [by *jho 'ntaḥ*]; *divādibhyaḥ śyan*; the augment *aṭ*; *ajan + ya + anta*; *jñājanor jā* — ज्ञाजनोर्जा — (Pā. 7-3-79): *jā* in place of *jñā* and *jan* before a *śit* suffix: *ajāya + anta*; *pararūpa*; the augment *aṭ* is acute.
 - **svabhānavaḥ**: *svakīyāḥ bhānavaḥ yeṣāṃ te*, a bahuvrīhi: "whose light is their own"; the first member keeps its natural accent. Rik 2 ends here (*|| 2 ||*).
 
-### Rik 37.3 (pp. 260–262, PDF 274–276)
+### Rik 37.3 (pp. 260–262, PDF 275–277)
 
-**Saṃhitā-pāṭha** *(p. 260; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 260)*
 
-> **इहेव शृण्व एषां कशा हस्तेषु यद्वदान् ।**
-> **नि यामञ्चित्रमृञ्जते ॥ ३ ॥**
+> इ॒हेव॑ शृण्व एषां॒ कशा॒ हस्ते॑षु॒ यद्वदा॑न् ।
+> नि याम॑ञ्चि॒त्रमृ॑ञ्जते ॥ ३ ॥
 
-*iheva śṛṇva eṣāṃ kaśā hasteṣu yad vadān |*
-*ni yāmañ citram ṛñjate || 3 ||*
+*ihéva śṛṇva eṣāṃ káśā hásteṣu yád vádān |*
+*ni yā́mañ citrám ṛñjate || 3 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 260)*
 
@@ -4317,17 +4319,23 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *iha-iva | śṛṇve | eṣām | kaśāḥ | hasteṣu | yat | vadān ||*
 *ni | yāman | citram | ṛñjate || 3 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 260; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 260, in full, with its grammatical tail)*
 
-> एषां मरुतां हस्तेषु स्थिताः कशाः स्वस्ववाहनताडनहेतवो यद्वदान् यद्वदन्ति यं ध्वनिं कुर्वन्ति तं ध्वनिमिहेवात्रेव स्थित्वा शृण्वे । शृणोमि । स ध्वनिविशेषो यामन् संग्रामे चित्रं विविधं शौर्यं न्यृञ्जते । नितरामलंकरोति । ऋजन्तिः प्रसाधनकर्मेति यास्कः । नि. ६-२० [?] ॥
+> एषां मरुतां हस्तेषु स्थिताः कशाः स्वस्ववाहनताडनहेतवो यद्वदान् यद्वदन्ति यं ध्वनिं कुर्वन्ति तं ध्वनिमिहेवात्रेव स्थित्वा शृण्वे । शृणोमि । स ध्वनिविशेषो यामन् संग्रामे चित्रं विविधं शौर्यं न्यृञ्जते । नितरामलंकरोति । ऋजन्तिः प्रसाधनकर्मेति यास्कः । नि. ६-२१ ॥ शृण्वे । श्रु श्रवणे । व्यत्ययेनात्मनेपदम् । श्रुवः शृ चेति श्नुः । हुश्नुवोः सार्वधातुक इति यणादेशः । वदान् । वद व्यक्तायां वाचि । लेट्यडागमः । इतश्च लोप इतीकारलोपे संयोगान्तलोपः । आगमानुदात्तत्वे धातुस्वरः शिष्यते । यद्वृत्तयोगादनिघातः । यामन् । सुपां सुलुगिति सप्तम्या लुक् । न ङिसंबुद्ध्योः । पा. ८-२-८ । इति नलोपप्रतिषेधः । ऋञ्जते । ऋजि भृजी भर्जने । अत्र प्रसाधनार्थः ॥
 
-*eṣāṃ marutāṃ hasteṣu sthitāḥ kaśāḥ svasvavāhanatāḍanahetavo yad vadān yad vadanti yaṃ dhvaniṃ kurvanti taṃ dhvanim ihevātreva sthitvā śṛṇve | śṛṇomi | sa dhvaniviśeṣo yāman saṃgrāme citraṃ vividhaṃ śauryaṃ ny ṛñjate | nitarām alaṃkaroti | ṛjantiḥ prasādhanakarmeti yāskaḥ | ni. 6-20 [?] ||*
+*eṣāṃ marutāṃ hasteṣu sthitāḥ kaśāḥ svasvavāhanatāḍanahetavo yadvadān yadvadanti yaṃ dhvaniṃ kurvanti taṃ dhvanimihevātreva sthitvā śṛṇve | śṛṇomi | sa dhvaniviśeṣo yāman saṃgrāme citraṃ vividhaṃ śauryaṃ nyṛñjate | nitarāmalaṃkaroti | ṛjantiḥ prasādhanakarmeti yāskaḥ | ni. 6-21 ‖ śṛṇve | śru śravaṇe | vyatyayenātmanepadam | śruvaḥ śṛ ceti śnuḥ | huśnuvoḥ sārvadhātuka iti yaṇādeśaḥ | vadān | vada vyaktāyāṃ vāci | leṭyaḍāgamaḥ | itaśca lopa itīkāralope saṃyogāntalopaḥ | āgamānudāttatve dhātusvaraḥ śiṣyate | yadvṛttayogādanighātaḥ | yāman | supāṃ sulugiti saptamyā luk | na ṅisaṃbuddhyoḥ | pā. 8-2-8 | iti nalopapratiṣedhaḥ | ṛñjate | ṛji bhṛjī bharjane | atra prasādhanārthaḥ ‖*
 
-**Translation:** "The whips (*kaśāḥ*) held in the hands of these Maruts, which are the means of whipping their own vehicles, *yad vadān* — make a sound — that sound I, standing as it were *iha* — right here — *śṛṇve*, hear. That particular sound, *yāman* — in battle — *citram*, manifold, *śauryam*, valour, *ny ṛñjate* — adorns thoroughly (*ṛjanti* being, says Yāska, a verb of *prasādhana* [= adorning, accomplishing]; Ni. 6-20 [?])."
+*(The print has "ṛjantiḥ" (ಋಜಂತಿಃ) in the bhāṣya; "ṛñjatiḥ" in the grammar note on p. 262.)*
 
-**Grammar within the bhāṣya** *(p. 260, characterized)*: *śṛṇve* (*śru śravaṇe*; *vyatyaya*: *ātmanepada*; *śruvaḥ śṛ ca*: *śnu* for *śap* and *śṛ* for *śru*; *huśnuvoḥ sārvadhātuke*: *yaṇ*); *vadān* (*vada vyaktāyāṃ vāci*; *leṭ*, the augment *aṭ*; *itaś ca lopa*; the loss of the final conjunct; the root's accent; *yadvṛttayogād anighātaḥ*); *yāman* (the seventh-case singular dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ*: no loss of the *n*); *ṛñjate* (*ṛji bhṛjī bharjane*, in the sense of *prasādhana*).
+**Translation:** "The whips (*kaśāḥ*) held in the hands of these Maruts, which are the means of whipping their own vehicles, *yad vadān* — make a sound — that sound I, standing as it were *iha* — right here — *śṛṇve*, hear. That particular sound, *yāman* — in battle — *citram*, manifold, *śauryam*, valour, *ny ṛñjate* — adorns thoroughly (*ṛñjati* being, says Yāska, a verb of *prasādhana* [= adorning, accomplishing]; Ni. 6-21)."
 
-**Pratipadārtha** *(pp. 260–261)* — "**eṣām** — of these Maruts; **hasteṣu** — in the hands (which are); **kaśāḥ** — whips [that strike the horses]; **yat vadān** — which make the sound; **iha iva** — standing here, as it were; **śṛṇve** — I hear [that special sound]; **yāman** — in battle; **citram** — manifold and wonderful valour; **ni ṛñjate** — adorns completely (gives incitement to valour)."
+*(Sense of the tail:)* *śṛṇve* (*śru śravaṇe*; *vyatyaya*: *ātmanepada*; *śruvaḥ śṛ ca*: *śnu* for *śap* and *śṛ* for *śru*; *huśnuvoḥ sārvadhātuke*: *yaṇ*); *vadān* (*vada vyaktāyāṃ vāci*; *leṭ*, the augment *aṭ*; *itaś ca lopa*; the loss of the final conjunct; the root's accent; *yadvṛttayogād anighātaḥ*); *yāman* (the seventh-case singular dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ*: no loss of the *n*); *ṛñjate* (*ṛji bhṛjī bharjane*, in the sense of *prasādhana*).
+
+**Pratipadārtha** *(pp. 260–261)* — "**eṣām** — of these Maruts; **hasteṣu** — in the hands (which are); **kaśāḥ** — whips [that strike the horses]; **yat vadān** — which make the sound; **iha iva** — standing here, as it were; **śṛṇve** — I hear [that special sound]; 
+
+### Page 261
+
+(continued, p. 261) **yāman** — in battle; **citram** — manifold and wonderful valour; **ni ṛñjate** — adorns completely (gives incitement to valour)."
 
 **Bhāvārtha** *(p. 261)* — "However far away they may be, the sound of the whips in the hands of these Maruts is heard clearly. As I stand here, I hear the cracking sound of their whips. When I hear it, then in the time of battle our valour grows and is spurred to the crushing of our enemies."
 
@@ -4338,13 +4346,16 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **kaśā hasteṣu yad vadān** — "the sound of the whips in the hands of the Marut deities."
 - **ihaiva śṛṇva eṣām** — "I hear here, from where I stand, the sound of the whips of those Maruts with which they strike their horses; that is, it is audible to me here."
 - **citram** — "manifold valour, bravery and the like."
-- **ṛñjate** = *ṛji bhṛjī bharjane | ṛjantiḥ prasādhanakarmā* (Ni. 6-[?] [?]): "to favour, to incite; the sound of the whips of the Marut deities incites in us valour, bravery and the like."
+- **ṛñjate** = *ṛji bhṛjī bharjane | ṛjantiḥ prasādhanakarmā* (Ni. 6-21): "to favour, to incite; the sound of the whips of the Marut deities incites in us valour, bravery and the like."
 
 **Vyākaraṇa-prakriyā** *(pp. 261–262, PDF 275–276 — grammar pages, noted briefly)*
-- **śṛṇve** (p. 261): root *śru śravaṇe*, class 1; *parasmaipada* gives way to *ātmanepada* by *vyatyaya*; *laṭ*, *iṭ* → *e* [*ṭita ātmanepadānāṃ ṭere*]; *śruvaḥ śṛ ca* — श्रुवः शृ च — [Pā. 3-1-74]: *śnu* in place of *śap* and *śṛ* in place of *śru*: *śṛ + nu + e*; *huśnuvoḥ sārvadhātuke* — हुश्नुवोः सार्वधातुके — [Pā. 6-4-87]: *yaṇ* for the *u* of a *śnu*-ending base of several vowels before a vowel-initial *sārvadhātuka*: *v*.
-- **vadān** (p. 262): root *vada vyaktāyāṃ vāci*; *leṭ*, the third-person plural *jhi*; *jhy*'s *anti* by *jhor antaḥ* [read: *jha* → *ant*]; *śap*; *vad + a + anti*; *leṭo 'ḍāṭau*: the augment *aṭ*; *savarṇadīrgha* for the repeated *a*'s; *itaś ca lopaḥ*: the *i* of *anti* lost; *saṃyogāntasya lopaḥ*: the *t* lost; *śap* is *pit*, so unaccented; *tāsyanudāttenṅid…*: the *lasārvadhātuka* is unaccented as it stands after an *anupadeśa* [*śap*]; the root's accent stays; *yadvṛttānnityam*: no wholly-unaccented, since *yat* is connected.
-- **yāman**: after *yāman* the seventh-case singular *ṅi*, dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ* — न ङिसम्बुद्ध्योः — [Pā. 8-2-8]: the *n* is not lost when *ṅi* or a vocative follows, so *nalopaḥ prātipadikāntasya* is blocked.
-- **ṛñjate**: root *ṛji bhṛjī bharjane*; "here the sense *prasādhana* means *alaṃkāra*; this sense follows from the Nirukta passage *ṛñjatiḥ prasādhanakarmā* (Ni. 6-[?] [?])." Rik 3 ends here (*|| 3 ||*).
+- **śṛṇve** (p. 261): root *śru śravaṇe*, class 1; *parasmaipada* gives way to *ātmanepada* by *vyatyaya*; *laṭ*, *iṭ* → *e* [*ṭita ātmanepadānāṃ ṭere*]; *śruvaḥ śṛ ca* — श्रुवः शृ च — (Pā. 3-1-74): *śnu* in place of *śap* and *śṛ* in place of *śru*: *śṛ + nu + e*; *huśnuvoḥ sārvadhātuke* — हुश्नुवोः सार्वधातुके — (Pā. 6-4-82 [as printed; for 6-4-87]): *yaṇ* for the *u* of a *śnu*-ending base of several vowels before a vowel-initial *sārvadhātuka*: *v*.
+
+### Page 262
+
+- **vadān** (p. 262): root *vada vyaktāyāṃ vāci*; *leṭ*, the third-person plural *jhi*; *jho 'ntaḥ*: *anti* for *jhi*; *śap*; *vad + a + anti*; *leṭo 'ḍāṭau*: the augment *aṭ*; *savarṇadīrgha* for the repeated *a*'s; *itaś ca lopaḥ*: the *i* of *anti* lost; *saṃyogāntasya lopaḥ*: the *t* lost; *śap* is *pit*, so unaccented; *tāsyanudāttet…*: the *lasārvadhātuka* *anti* is unaccented as it stands after an *adupadeśa* [an *a*-final base]; the root's accent stays; *yadvṛttānnityam*: no wholly-unaccented, since *yat* is connected.
+- **yāman**: after *yāman* the seventh-case singular *ṅi*, dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ* — न ङिसम्बुद्ध्योः — (Pā. 8-2-8): the *n* is not lost when *ṅi* or a vocative follows, so *nalopaḥ prātipadikāntasya* is blocked.
+- **ṛñjate**: root *ṛji bhṛjī bharjane*; "here the sense *prasādhana* means *alaṃkāra*; this sense follows from the Nirukta passage *ṛñjatiḥ prasādhanakarmā* (Ni. 6-21)." Rik 3 ends here (*|| 3 ||*).
 
 ### Rik 37.4 (pp. 262–, PDF 276–)
 
