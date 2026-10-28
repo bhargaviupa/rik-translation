@@ -4707,15 +4707,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **eṣām**: after *idam*, the genitive plural *ām*; *tyadādīnām aḥ* — त्यदादीनामः — (Pā. 7-2-102): before a *vibhakti* the final of the words from *tyad* to *dvi* is replaced by *a*: *ida + ām*; *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. 2-4-32): when a vibhakti from the third on follows, in the *anvādeśa* [*idam*] takes *aś*, which is unaccented; the *ś* is a marker: *a + ām*. "*Anvādeśa* means the repeated mention, for a further operation, of a term already used for one operation: for example *anena vyākaraṇam adhītam, enaṃ chando 'dhyāpaya*." *Āmi sarvanāmnaḥ suṭ* — आमि सर्वनाम्नः सुट् — (Pā. 7-1-52): the augment *suṭ* for *ām*; *bahuvacane jhaly et* — बहुवचने झल्येत् — (Pā. 7-3-103): *a* → *e*; *ādeśapratyayayoḥ*: *ṣatva*: *eṣām*; the *a* that comes by *aś* is unaccented; *ām* is a *sup* and so unaccented by *anudāttau suppitau*: thus *eṣām* is wholly unaccented. "One might say that the ending after *idam* should be acute by *ūḍidaṃ padādy…* (Pā. 6-1-171); but from *sāvekācaḥ* (Pā. 6-1-168) the word *ekācaḥ* and from *antodāttāt* (Pā. 6-1-169) the word *antodāttāt* — the two words — are carried forward: so the sense is that the ending after the words *ūṭ* etc., which are one-vowelled and final-acute, is acute; here, since the *aś* that has come for *idam* is unaccented, there is no final-acute *idam*-word, and the *ām* ending does not get the acute."
 - **niretave**: *nir* the preverb; *iṇ gatau*; *tumarthe sasenase…* — the suffix *tavenḥ*; *guṇa*; *tādau ca niti kṛtyatau*: *nir* keeps its natural accent. Rik 9 ends here (*|| 9 ||*).
 
-### Rik 37.10 (pp. 279–281, PDF 293–295)
+### Rik 37.10 (pp. 279–281, PDF 294–296)
 
-**Saṃhitā-pāṭha** *(p. 279; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 279)*
 
-> **उदु त्ये सूनवो गिरः काष्ठा अज्मेष्वत्नत ।**
-> **वाश्रा अभिज्ञु यातवे ॥ १० ॥**
+> उदु॒ त्ये सू॒नवो॒ गिरः॒ काष्ठा॒ अज्मे॑ष्वत्नत ।
+> वा॒श्रा अ॑भि॒ज्ञु यात॑वे ॥ १० ॥
 
-*udu tye sūnavo giraḥ kāṣṭhā ajmeṣv atnata |*
-*vāśrā abhijñu yātave || 10 ||*
+*udu tyé sūnávo giráḥ kāṣṭhā ajméṣvatnata |*
+*vāśrā́ abhijñú yā́tave || 10 ||*
+
+*(Saṃhitā accents as printed (underline under* ṣṭhā *of kāṣṭhā, stroke over* jme*); Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 279)*
 
@@ -4725,17 +4727,19 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *ut | ūṃ iti | tye | sūnavaḥ | giraḥ | kāṣṭhāḥ | ajmeṣu | atnata ||*
 *vāśrāḥ | abhi-jñu | yātave || 10 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 279; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 279, in full, with its grammatical tail; varga १३ closes here)*
 
-> त्ये पूर्वप्रकृता गिरः सूनवो वाच उत्पादका मरुतः । वायवो हि तालूष्मादिषु सञ्चरन्तो वाचमुत्पादयन्ति । अज्मेषु स्वकीयेषु गमनेषु सत्सु काष्ठा अपः । आपोऽपि काष्ठा उच्यन्ते क्रान्त्वा स्थिता भवन्ति । नि. २-१३ [?] । इति यास्कः । उदु उत्कर्षेणैवात्नत । अतनिषत । विस्तारितवन्तः । उदकं विस्तार्य तत्स्थानार्थं वाश्रा हम्भारवोपेता गा अभिज्ञु जान्वभिमुखं यथा भवति तथा यातवे गन्तुं प्रेरितवन्त इति शेषः ॥ सूनवः । षूङ् प्रेरणे । सुवः कित् । उ. ३-३६ [?] । इति नुप्रत्ययः । कित्त्वाद्गुणाभावः । अत्नत । तनु विस्तारे । लङ् [the next words are unclear [?]] बहुलं छन्दसीति विकरणस्य लुक् । तनिपत्योश्छन्दसि । पा. ६-४-९९ । इत्युपधालोपः । अडागमः । अभिज्ञु । अभिगते जानुनी यस्य तदभिज्ञु । प्रसम्भ्यां जानुनोर्ज्ञुः । पा. ५-४-१२९ । इति व्यत्ययेनाभिपूर्वस्यापि जानुशब्दस्य ज्ञुशब्दादेशः समासान्तः । यातवे । तुमर्थे सेसेनिति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
+> त्ये पूर्वप्रकृता गिरः सूनवो वाच उत्पादका मरुतः । वायवो हि ताल्वोष्ठादिषु सञ्चरन्तो वाचमुत्पादयन्ति । अज्मेषु स्वकीयेषु गमनेषु सत्सु काष्ठा अपः । आपोऽपि काष्ठा उच्यन्ते क्रान्त्वा स्थिता भवन्ति । नि. २-१५ । इति यास्कः । उदु उत्कर्षेणैवात्नत । अतनिषत । विस्तारितवन्तः । उदकं विस्तार्य तत्पानार्थं वाश्रा हम्भारवोपेता गा अभिज्ञु जान्वभिमुखं यथा भवति तथा यातवे गन्तुं प्रेरितवन्त इति शेषः ॥ सूनवः । षूङ् प्रेरणे । सुवः कित् । उ. ३-३५ । इति नुप्रत्ययः । कित्त्वाद्गुणाभावः । अत्नत । तनु विस्तारे । लङि झस्यादादेशे बहुलं छन्दसीति विकरणस्य लुक् । तनिपत्योश्छन्दसि । पा. ६-४-९९ । इत्युपधालोपः । अडागमः । अभिज्ञु । अभिगते जानुनी यस्य तदभिज्ञु । प्रसम्भ्यां जानुनोर्ज्ञुः । पा. ५-४-१२९ । इति व्यत्ययेनाभिपूर्वस्यापि जानुशब्दस्य ज्ञुशब्दादेशः समासान्तः । यातवे । तुमर्थे सेसेनिति तवेन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
 
-*tye pūrvaprakṛtā giraḥ sūnavo vāca utpādakā marutaḥ | vāyavo hi tālūṣmādiṣu sañcaranto vācam utpādayanti | ajmeṣu svakīyeṣu gamaneṣu satsu kāṣṭhā apaḥ | āpo 'pi kāṣṭhā ucyante krāntvā sthitā bhavanti | ni. 2-13 [?] | iti yāskaḥ | udu utkarṣeṇaivātnata | atanisata | vistāritavantaḥ | udakaṃ vistārya tatsthānārthaṃ vāśrā hambhāravopetā gā abhijñu jānvabhimukhaṃ yathā bhavati tathā yātave gantuṃ preritavanta iti śeṣaḥ || sūnavaḥ | ṣūṅ preraṇe | suvaḥ kit | u. 3-36 [?] | iti nupratyayaḥ | kittvād guṇābhāvaḥ | atnata | tanu vistāre | laṅ […] bahulaṃ chandasīti vikaraṇasya luk | tanipatyoś chandasi | pā. 6-4-99 | ity upadhālopaḥ | aḍāgamaḥ | abhijñu | abhigate jānunī yasya tad abhijñu | prasambhyāṃ jānunor jñuḥ | pā. 5-4-129 | iti vyatyayenābhipūrvasyāpi jānuśabdasya jñuśabdādeśaḥ samāsāntaḥ | yātave | tumarthe sasenaseneti tavenpratyayaḥ | nittvād ādyudāttatvam ||*
+*tye pūrvaprakṛtā giraḥ sūnavo vāca utpādakā marutaḥ | vāyavo hi tālvoṣṭhādiṣu sañcaranto vācamutpādayanti | ajmeṣu svakīyeṣu gamaneṣu satsu kāṣṭhā apaḥ | āpo 'pi kāṣṭhā ucyante krāntvā sthitā bhavanti | ni. 2-15 | iti yāskaḥ | udu utkarṣeṇaivātnata | ataniṣata | vistāritavantaḥ | udakaṃ vistārya tatpānārthaṃ vāśrā hambhāravopetā gā abhijñu jānvabhimukhaṃ yathā bhavati tathā yātave gantuṃ preritavanta iti śeṣaḥ ‖ sūnavaḥ | ṣūṅ preraṇe | suvaḥ kit | u. 3-35 | iti nupratyayaḥ | kittvādguṇābhāvaḥ | atnata | tanu vistāre | laṅi jhasyādādeśe bahulaṃ chandasīti vikaraṇasya luk | tanipatyośchandasi | pā. 6-4-99 | ityupadhālopaḥ | aḍāgamaḥ | abhijñu | abhigate jānunī yasya tadabhijñu | prasambhyāṃ jānunorjñuḥ | pā. 5-4-129 | iti vyatyayenābhipūrvasyāpi jānuśabdasya jñuśabdādeśaḥ samāsāntaḥ | yātave | tumarthe seseniti tavenpratyayaḥ | nittvādādyudāttatvam ‖*
 
 **Translation:** "*Tye* — those [Maruts] spoken of before — *giraḥ sūnavaḥ*, the producers of speech: for the winds, moving in the palate, the lips and so on, produce speech. *Ajmeṣu* — when there are their own goings — *kāṣṭhāḥ*, the waters ('waters also are called *kāṣṭhāḥ*: having gone, they stand', says Yāska, Ni. 2-13 [?]) — *ud u atnata*, they spread well, i.e. they made [them] spread. Having made the water spread, [they] urged the cows, bellowing for the sake of its place, *abhijñu* — as far as the knees — *yātave*, to go [in]: so it is to be supplied."
 
 **Grammar within the bhāṣya** *(p. 279, characterized)*: *sūnavaḥ* (*ṣūṅ preraṇe*; the Uṇādi *nu* after *su*, *kit*; so no *guṇa*); *atnata* (*tanu vistāre*; *laṅ*; the *vikaraṇa* is lost by *bahulaṃ chandasi*; *tanipatyoś chandasi* — Pā. 6-4-99 — the loss of the penultimate; the augment *aṭ*); *abhijñu* (*abhigate jānunī yasya*; *prasambhyāṃ jānunor jñuḥ* — Pā. 5-4-129 — *jñu* for *jānu*, as a compound-final, also after *abhi* by *vyatyaya*); *yātave* (*tumarthe seseneti tavenpratyayaḥ*; *nit*: first-syllable acute).
 
 **Pratipadārtha** *(p. 279)* — "**tye** — those aforementioned; **giraḥ sūnavaḥ** — the Maruts, producers of words; **ajmeṣu** — at the times of their goings; **kāṣṭhāḥ** — the waters; **ud u** — well; **atnata** — made to spread; **vāśrāḥ** — the cows that [were] crying out [for water]; **abhijñu** — up to the knees; **yātave** — [urge them] to go [into the water]."
+
+### Page 280
 
 **Bhāvārtha** *(p. 280)* — "The Maruts are the support of speech, of all beings. For human beings, and for other beings too, it is possible to make known their experiences, such as hunger and thirst, only with the help of the Maruts. And not only this: when beings make known their experiences by words, the Maruts, by their goings, spread the waters well and make them flow, and urge the cows that are lowing for water to enter the water up to their knees and drink."
 
@@ -4744,15 +4748,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 280**
 - **tye** = *te*: "those mentioned before."
 - **giraḥ sūnavaḥ** = *vāca utpādakāḥ*: "in the organs inside the mouth — palate, lips and so on — speaking is possible by the movement of the air: this is the sense."
-- **kāṣṭhāḥ** = *āpaḥ*: "water. Since there is the Nirukta statement '*āpo 'pi kāṣṭhā ucyante*' (Ni. 2-[?] [?]), *kāṣṭhāḥ* means water."
+- **kāṣṭhāḥ** = *āpaḥ*: "water. Since there is the Nirukta statement '*āpo 'pi kāṣṭhā ucyante*' (Ni. 2-15), *kāṣṭhāḥ* means water."
 - **atnata** = *atanisata*, *vistāritavantaḥ*: "spread, flowed. Water flows everywhere (in the form of rain) with the help of the wind: such is the sense."
 - **vāśrāḥ** — "cows that are lowing."
 - **abhijñu** = *abhigate jānunī yasya | jānvabhimukhyaṃ yathā bhavati tathā*: "when cows go to water-places to drink water, they naturally go into the water as far as their knees and drink. Here it is not made clear how the Maruts urge the cows to drink water."
 
-**Vyākaraṇa-prakriyā** *(p. 281, PDF 295 — grammar page, noted briefly)*
-- **sūnavaḥ**: root *ṣū preraṇe*; *dhātvādeḥ ṣaḥ saḥ*: *s*; *suvaḥ kit* — सुवः कित् — [Uṇ. 3-[?], as read]: the suffix *nu* after *sū*, which is *kit*; *kṅiti ca*: no *guṇa*.
-- **atnata**: root *tanu vistāre*, *ubhayapadī*, *laṅ*, *jha*; "the *u*-*vikaraṇa* that comes by *tanādikṛñbhya uḥ* is lost, by the word *bahulam* in *bahulaṃ chandasi*"; *ātmanepadeṣv nataḥ*: *at* for *jha*; *tan + ata*; *tanipatyoś chandasi* — तनिपत्योश्छन्दसि — [Pā. 6-4-99]: in the Veda the *a* of *tan* and *pat* is lost before a *kit* or *ñit* suffix, so the loss of the *a*; the augment *aṭ*.
-- **abhijñu**: *abhigate jānunī yasya tat*, "that of which the knees are bent": an adverb; *prasambhyāṃ jānunor jñuḥ* — प्रसम्भ्यां जानुनोर्ज्ञुः — [Pā. 5-4-129]: in a bahuvrīhi the word *jānu* after the preverbs *pra* and *sam* takes the substitute *jñu*; "by Vedic usage this also happens when *abhi* is the prefix."
+### Page 281
+
+**Vyākaraṇa-prakriyā** *(p. 281, PDF 296 — grammar page, noted briefly)*
+- **sūnavaḥ**: root *ṣū preraṇe*; *dhātvādeḥ ṣaḥ saḥ*: *s*; *suvaḥ kit* — सुवः कित् — (Uṇ. 3-35): the suffix *nu* after *sū*, which is *kit*; *kṅiti ca*: no *guṇa*.
+- **atnata**: root *tanu vistāre*, *ubhayapadī*, *laṅ*, *jha*; "the *u*-*vikaraṇa* that comes by *tanādikṛñbhya uḥ* is lost, by the word *bahulam* in *bahulaṃ chandasi*"; *ātmanepadeṣv nataḥ*: *at* for *jha*; *tan + ata*; *tanipatyoś chandasi* — तनिपत्योश्छन्दसि — (Pā. 6-4-99): in the Veda the *a* of *tan* and *pat* is lost before a *kit* or *ñit* suffix, so the loss of the *a*; the augment *aṭ*.
+- **abhijñu**: *abhigate jānunī yasya tat*, "that of which the knees are bent": an adverb; *prasambhyāṃ jānunor jñuḥ* — प्रसम्भ्यां जानुनोर्ज्ञुः — (Pā. 5-4-129): in a bahuvrīhi the word *jānu* after the preverbs *pra* and *sam* takes the substitute *jñu*; "by Vedic usage this also happens when *abhi* is the prefix."
 - **yātave**: root *yā prāpaṇe*; *tumarthe sasenase…*: the suffix *tavenḥ*; being *nit*, first-syllable acute. Rik 10 ends here (*|| 10 ||*).
 
 ### Rik 37.11 (p. 281 foot, PDF 295–)
