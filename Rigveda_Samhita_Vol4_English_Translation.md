@@ -9618,15 +9618,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 45.8 (pp. 563–565, PDF 577–579)
+### Rik 45.8 (pp. 563–565, PDF 577–579; better scan PDF 578–580)
 
-**Saṃhitā-pāṭha** *(p. 563; accents not reproduced)*
+### Page 563
 
-> **आ त्वा विप्रा अचुच्यवुः सुतसोमा अभि प्रयः ।**
-> **बृहद्भा बिभ्रतो हविरग्ने मर्ताय दाशुषे ॥ ८ ॥**
+**Saṃhitā-pāṭha** *(p. 563)*
 
-*ā tvā viprā acucyavuḥ sutasomā abhi prayaḥ |*
-*bṛhadbhā bibhrato havir agne martāya dāśuṣe || 8 ||*
+> **आ त्वा॒ विप्रा॑ अचुच्यवुः सु॒तसो॑मा अ॒भि प्रयः॑ ।**
+> **बृ॒हद्भा बिभ्र॑तो ह॒विरग्ने॒ मर्ता॑य दा॒शुषे॑ ॥ ८ ॥**
+
+*ā tvā víprā acucyavuḥ sutásomā abhí práyaḥ |*
+*bṛhádbhā bíbhrato havír agne mártāya dāśúṣe || 8 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. A small dot, not an accent stroke, stands over* ṣe *of* dāśuṣe*.)*
 
 **Pada-pāṭha** *(p. 563)*
 
@@ -9640,20 +9644,22 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 563)*
 
-> **हे अग्ने सुतसोमा अभिषुतसोमयुक्ता विप्रा मेधाविन ऋत्विजः प्रयोऽभि हविर्लक्षणमन्नमभिलक्ष्य त्वा आचुच्यवुः । त्वामागमयन्ति । कीदृशं त्वां । बृहन्महान्तं भा भासमानं । कीदृशा विप्राः । दाशुषे मर्ताय हविष्प्रदस्य [?] यजमानस्य सम्बन्धि हविर्बिभ्रतो धारयन्तः ॥ आचुच्यवुः । च्युङ् गतौ । अस्मादन्तर्भावितण्यर्थात् लङ् व्यत्ययेन परस्मैपदं । बहुलं छन्दसीति शपः श्लुः । सिजभ्यस्तविदिभ्यश्च । पा. ३-४-१०९ [?] । इति झेर्जुसादेशः । जुसि च । पा. ७-३-८३ [?] । इति गुणः । बृहत् । भाः । उभयत्र सुपां सुलुगिति विभक्तेर्लुक् । बिभ्रतः । डुभृञ् धारणपोषणयोः । शतरि नाभ्यस्ताच्छतुरिति नुमागमप्रतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । मर्ताय दाशुषे । उभयत्र षष्ठ्यर्थे चतुर्थी वक्तव्या । पा. २-३-६२-१ [?] । इति चतुर्थी ॥**
+> **हे अग्ने सुतसोमा अभिषुतसोमयुक्ता विप्रा मेधाविन ऋत्विजः प्रयोऽभि हविर्लक्षणमन्नमभिलक्ष्य त्वा आचुच्यवुः । त्वामागमयन्ति । कीदृशं त्वां । बृहन्महान्तं भा भासमानं । कीदृशा विप्राः । दाशुषे मर्ताय हविष्प्रदस्य यजमानस्य सम्बन्धि हविर्बिभ्रतो धारयन्तः ॥ आचुच्यवुः । च्युङ् गतौ । अस्मादन्तर्भावितण्यर्थात् लङ् व्यत्ययेन परस्मैपदं । बहुलं छन्दसीति शपः श्लुः । सिजभ्यस्तविदिभ्यश्च । पा. ३-४-१०९ । इति झेर्जुसादेशः । जुसि च । पा. ७-३-८३ । इति गुणः । बृहत् । भाः । उभयत्र सुपां सुलुगिति विभक्तेर्लुक् । बिभ्रतः । डुभृञ् धारणपोषणयोः । शतरि नाभ्यस्ताच्छतुरिति नुमागमप्रतिषेधः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । मर्ताय दाशुषे । उभयत्र षष्ठ्यर्थे चतुर्थी वक्तव्या । पा. २-३-६२-१ । इति चतुर्थी ॥**
 
-*he agne sutasomā abhiṣutasomayuktā viprā medhāvina ṛtvijaḥ prayo 'bhi havirlakṣaṇam annam abhilakṣya tvā ācucyavuḥ | tvām āgamayanti | kīdṛśaṃ tvāṃ | bṛhan mahāntaṃ bhā bhāsamānaṃ | kīdṛśā viprāḥ | dāśuṣe martāya haviṣpradasya [?] yajamānasya sambandhi havir bibhrato dhārayantaḥ || ācucyavuḥ | cyuṅ gatau | asmād antarbhāvitaṇyarthāt laṅ vyatyayena parasmaipadaṃ | bahulaṃ chandasīti śapaḥ śluḥ | sijabhyastavidibhyaś ca | pā. 3-4-109 [?] | iti jher jusādeśaḥ | jusi ca | pā. 7-3-83 [?] | iti guṇaḥ | bṛhat | bhāḥ | ubhayatra supāṃ sulug iti vibhakter luk | bibhrataḥ | ḍubhṛñ dhāraṇapoṣaṇayoḥ | śatari nābhyastāc chatur iti numāgamapratiṣedhaḥ | abhyastānām ādir ity ādyudāttatvaṃ | martāya dāśuṣe | ubhayatra ṣaṣṭhyarthe caturthī vaktavyā | pā. 2-3-62-1 [?] | iti caturthī ||*
+*he agne sutasomā abhiṣutasomayuktā viprā medhāvina ṛtvijaḥ prayo 'bhi havirlakṣaṇam annam abhilakṣya tvā ācucyavuḥ | tvām āgamayanti | kīdṛśaṃ tvāṃ | bṛhan mahāntaṃ bhā bhāsamānaṃ | kīdṛśā viprāḥ | dāśuṣe martāya haviṣpradasya yajamānasya sambandhi havir bibhrato dhārayantaḥ || ācucyavuḥ | cyuṅ gatau | asmād antarbhāvitaṇyarthāt laṅ vyatyayena parasmaipadaṃ | bahulaṃ chandasīti śapaḥ śluḥ | sijabhyastavidibhyaś ca | pā. 3-4-109 | iti jher jusādeśaḥ | jusi ca | pā. 7-3-83 | iti guṇaḥ | bṛhat | bhāḥ | ubhayatra supāṃ sulug iti vibhakter luk | bibhrataḥ | ḍubhṛñ dhāraṇapoṣaṇayoḥ | śatari nābhyastāc chatur iti numāgamapratiṣedhaḥ | abhyastānām ādir ity ādyudāttatvaṃ | martāya dāśuṣe | ubhayatra ṣaṣṭhyarthe caturthī vaktavyā | pā. 2-3-62-1 | iti caturthī ||*
 
-*(The phrase "haviṣpradasya" in the middle of the bhāṣya is crowded in the print, [?]; the verb-form* ācucyavuḥ *is* ā *+* acucyavuḥ *joined.)*
+*(The phrase "haviṣpradasya" and the numerals were checked on the better scan, PDF 578; the verb-form* ācucyavuḥ *is* ā *+* acucyavuḥ *joined.)*
 
 **Translation:** "O Agni, the *sutasomāḥ*, those furnished with pressed Soma, the *viprāḥ*, the wise priests, *abhi prayaḥ*, with the food in the form of the oblation in view, *ā acucyavuḥ*, have made you come. What kind of you? *Bṛhat*, great, *bhāḥ*, shining. What kind of priests? *Bibhrataḥ*, bearing, holding, the *haviḥ* of the sacrificer who is the *dāśuṣe martāya*, the mortal who gives the oblation."
 
-**Grammatical tail** *(characterized; numerals as read [?])*
-- *ācucyavuḥ*: root *cyuṅ gatau*, with the causative sense (*ṇic*) included; the imperfect (*laṅ*) with the *parasmaipada* by the principle of exchange (*vyatyaya*); *śap* → *ślu* "because of the Chandas"; *jhi* → *jus* by *sijabhyastavidibhyaś ca* (Pā. 3-4-109 as read [?]); *guṇa* by *jusi ca* (Pā. 7-3-83 as read [?]).
+**Grammatical tail** *(characterized)*
+- *ācucyavuḥ*: root *cyuṅ gatau*, with the causative sense (*ṇic*) included; the imperfect (*laṅ*) with the *parasmaipada* by the principle of exchange (*vyatyaya*); *śap* → *ślu* "because of the Chandas"; *jhi* → *jus* by *sijabhyastavidibhyaś ca* (Pā. 3-4-109); *guṇa* by *jusi ca* (Pā. 7-3-83).
 - *bṛhat*, *bhāḥ*: in both the case-ending is dropped (*supāṃ suluk…*). *Bibhrataḥ*: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; before *śatṛ*, the augment *num* is forbidden by *nābhyastāc chatuḥ*; the initial acute by *abhyastānām ādiḥ*.
-- *martāya dāśuṣe*: in both, the dative is to be said in the sense of the genitive (vārttika, Pā. 2-3-62-1 as read [?]).
+- *martāya dāśuṣe*: in both, the dative is to be said in the sense of the genitive (vārttika, Pā. 2-3-62-1).
 
 **Pratipadārtha** *(p. 563)* — "**agne** — O Agni; **sutasomāḥ** — those furnished with pressed Soma juice; **dāśuṣe** — who gives the oblation; **martāya** — (on behalf) of the human sacrificer; **haviḥ** — the oblation; **bibhrataḥ** — and holding; **viprāḥ** — the wise priests; **bṛhat** — of great form; **bhāḥ** — and shining; **tvā** — you; **prayaḥ abhi** — towards the food in the form of the oblation; **ā acucyavuḥ** — have caused to come."
+
+### Page 564
 
 **Bhāvārtha** *(p. 564)* — "O Agni, the wise priests, having pressed the Soma juice, have taken the oblation up to offer it to you on behalf of the sacrificer who gives the oblation. You are of great form and shining. They have caused you, endowed with radiance, to come towards the food in the form of the oblation."
 
@@ -9667,10 +9673,10 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **prayaḥ** — "food in the form of the oblation."
 
 **Vyākaraṇa-prakriyā** *(pp. 564–565 — grammar pages, noted briefly)*
-- **acucyavuḥ**: root *cyuṅ gatau* (class 1), the root including *ṇic*; *laṅ*; the *ātmanepada* "should lawfully come" by *anudātta-ṅita ātmanepadam* (Pā. 1-3-12 as read) but by *vyatyayo bahulam* (Pā. 3-1-85 as read) the *parasmaipada*; the *aṭ* augment; *jhi*; *śap* → *śla* by *bahulaṃ chandasi* (Pā. 2-4-73 as read); doubling after *śla*; *halādiḥ śeṣaḥ* drops the *y* of the reduplicative syllable (*cyu → cu*); *pūrvo 'bhyāsaḥ* (Pā. 6-1-4) names the first part of the doubled word the *abhyāsa*; *sijabhyastavidibhyaś ca* (Pā. 3-4-109 as read) — सिजभ्यस्तविदिभ्यश्च — *jus* in place of *jhi* after *sic*, an *abhyasta* or *vid*; *ubhe abhyastam* (Pā. 6-1-5 as read) — the whole doubled word is named *abhyasta*; *jusi ca* (Pā. 7-3-83 as read) — जुसि च — *guṇa* for the *ik*-ending *aṅga* before *jus*: *u* → *o*; *acucyo + us*; *avādeśa*: *acucyavus*; *ru*, *visarga*.
-- **bṛhat-bhāḥ**: in both, the case-ending drops by *supāṃ suluk…* (Pā. 7-1-39 as read).
-- **bibhrataḥ**: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*; *laṭaḥ śatṛśānacau* — *śatṛ* in place of *laṭ*; by *nābhyastāc chatuḥ* (Pā. 7-1-78 as read) no *num* after an *abhyasta* stem; so when *jas* follows, the *num* that would come by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* does not come; *abhyastānām ādiḥ* (Pā. 6-1-189 as read) gives the initial acute.
-- **martāya, dāśuṣe**: *ṣaṣṭhyarthe caturthī vacanam* (Pā. 2-3-62 [vārttika], as read "2-3-62-1" [?]) — षष्ठ्यर्थे चतुर्थी वचनम् — the dative in the sense of the genitive. **|| 8 ||**
+- **acucyavuḥ**: root *cyuṅ gatau* (class 1), the root including *ṇic*; *laṅ*; the *ātmanepada* "should lawfully come" by *anudāttaṅita ātmanepadam* (no number printed) but by *vyatyayo bahulam* (Pā. 3-1-85) the *parasmaipada*; the *aṭ* augment; *jhi*; *śap* → *ślu* by *bahulaṃ chandasi* (no number printed); doubling after *śla*; *halādiḥ śeṣaḥ* drops the *y* of the reduplicative syllable (*cyu → cu*); *pūrvo 'bhyāsaḥ* (Pā. 6-1-4) names the first part of the doubled word the *abhyāsa*; *sijabhyastavidibhyaś ca* (Pā. 3-4-109) — सिजभ्यस्तविदिभ्यश्च — *jus* in place of *jhi* after *sic*, an *abhyasta* or *vid*; *ubhe abhyastam* (Pā. 6-1-5) — the whole doubled word is named *abhyasta*; *jusi ca* (Pā. 7-3-83) — जुसि च — *guṇa* for the *ik*-ending *aṅga* before *jus*: *u* → *o*; *acucyo + us*; *avādeśa*: *acucyavus*; *ru*, *visarga*.
+- **bṛhat-bhāḥ**: in both, the case-ending drops by *supāṃ suluk…* (no number printed).
+- **bibhrataḥ**: root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*; *laṭaḥ śatṛśānacau* — *śatṛ* in place of *laṭ*; by *nābhyastāc chatuḥ* (Pā. 7-1-78) no *num* after an *abhyasta* stem; so when *jas* follows, the *num* that would come by *ugidacāṃ sarvanāmasthāne 'dhātoḥ* does not come; *abhyastānām ādiḥ* (no number printed) gives the initial acute.
+- **martāya, dāśuṣe**: *ṣaṣṭhyarthe caturthī vacanam* (Pā. 2-3-62-1) — षष्ठ्यर्थे चतुर्थी वचनम् — the dative in the sense of the genitive. **|| 8 ||**
 
 ---
 
