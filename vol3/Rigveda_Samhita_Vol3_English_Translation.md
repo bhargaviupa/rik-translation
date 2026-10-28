@@ -5300,43 +5300,83 @@ here, since there is the word *ca*, two sentences result. *Yū stryākhyau nadī
 
 ---
 
-### Pages 227–229 — Sūkta 23, Rik 22
+### Page 227 — Sūkta 23, Rik 22
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इदमापः प्र वहत यत्किं च दुरितं मयि ।
-> यद्वाहमभिदुद्रोह यद्वा शेपे उतानृतम् ॥ २२ ॥
+> इ॒दमा॑पः॒ प्र व॑हत॒ यत्किं च॑ दुरि॒तं मयि॑ ।
+> यद्वा॒हम॑भिदु॒द्रोह॒ यद्वा॑ शे॒प उ॒तानृ॑तं ॥२२॥
+>
+> *idám āpaḥ prá vahata yát kíṃ ca duritáṃ máyi |*
+> *yad vāhám abhidudróha yád vā śepá utā́nṛtaṃ ||22||*
 
-*idam āpaḥ pra vahata yat kiṃ ca duritaṃ mayi | yad vāham abhidudroha yad vā śepa utānṛtam || 22 ||*
+*(Bars under इ, पः, त (वहत) and रि; strokes over मा, व (वहत), च and यि. Line 2: bars under द्वा, दु and शे; strokes over म (अहम्), द्वा (the second यद्वा) and नृ; a bar under उ (उत).)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> इदम् । आपः । प्र । वहत । यत् । किम् । च । दुःऽइतम् । मयि ॥ यत् । वा । अहम् । अभिऽदुद्रोह । यत् । वा । शेपे । उत । अनृतम् ॥ २२ ॥
-
-*idam | āpaḥ | pra | vahata | yat | kim | ca | duḥ-itam | mayi || yat | vā | aham | abhi-dudroha | yat | vā | śepe | uta | anṛtam || 22 ||*
+> इदं । आपः । प्र । वहत । यत् । किं । च । दुःऽइतं । मयि ॥
+> यत् । वा । अहं । अभिऽदुद्रोह । यत् । वा । शेपे । उत । अनृतं ॥२२॥
+>
+> *idaṃ | āpaḥ | pra | vahata | yat | kiṃ | ca | duḥ 'itaṃ | mayi ||*
+> *yat | vā | ahaṃ | abhi 'dudroha | yat | vā | śepe | uta | anṛtaṃ ||22||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> पशौ मार्जन इदमापः प्र वहतेत्येषा विनियुक्ता । हुतायां वपायामिति खण्डे सूत्रितम् — इदमापः प्रवहतेति (आ. ३-[९] [?]) इति ॥ एषैवावभृथेष्वपि स्नाने विनियुक्ता । पत्नीसंयाजैश्चरित्वेति खण्डे इदमापः प्र वहत सुमित्र्या न आप ओषधयः सन्तु (आ. ६-[१३] [?]) इति सूत्रितम् ॥
+*(Numbers as printed: आ० ३-५, ६-१३, पा० ६-४-१२०.)*
+
+> पशौ मार्जन इदमापः प्र वहतेत्येषा विनियुक्ता । हुतायां वपायामिति खण्डे सूत्रितं । इदमापः प्रवहत । आ० ३-५ । इति ॥ एषैवावभृथेष्टौ स्नाने विनियुक्ता । पत्नीसंयाजैश्चरित्वेति खण्ड इदमापः प्र वहत सुमित्र्या न आप ओषधयः सन्तु । आ० ६-१३ । इति सूत्रितं ॥
 >
-> मयि यजमाने यत्किं च दुरितमज्ञानात्कृतं पापं वर्तते । वाथवाहं यजमानोऽभिदुद्रोह सर्वतो बुद्धिपूर्वकं द्रोहं कृतवानस्मि । वाथवा शेपे साधुजनमाक्रुष्टवानस्मि । उतापि चानृतमुक्तवानिति यदस्ति । तदिदं सर्वमपराधजातं प्र वहत । मत्सकाशादपनीय प्रवाहेणान्यत्रोन्नयत ॥ मयि । [मध्य अर्थात्] त्वमावेकवचने इति मादेशे [?] । योऽचि [पा. ७-२-८९ [?]] इति । ... दुद्रोह । द्रुह जिघांसायाम् । लिट् परस्मैपदानाम् । णलतुसुस् (पा. ३-४-८२) इति णल् । लिटि धातोः (पा. ६-१-८) इति द्वित्वम् । हस्वः (पा. ७-४-५९) । उत्तमपुरुषैकवचन । इट्प्रत्ययः । शेपे । शप आक्रोशे । लट् । व्यत्ययेनात्मनेपदम् । उत्तमपुरुष एकवचन इट् । टित आत्मनेदः (पा. ३-४-७९) इत्येत्वम् । [अत एकहल्मध्ये० (पा. ६-४-१२०)] इत्येत्वाभ्यासलोपौ ॥
+> *paśau mārjana idamāpaḥ pra vahatetyeṣā viniyuktā | hutāyāṃ vapāyāmiti khaṇḍe sūtritaṃ | idamāpaḥ pravahata | ā0 3-5 | iti || eṣaivāvabhṛtheṣṭau snāne viniyuktā | patnīsaṃyājaiścaritveti khaṇḍa idamāpaḥ pra vahata sumitryā na āpa oṣadhayaḥ santu | ā0 6-13 | iti sūtritaṃ ||*
 
-*paśau mārjana idam āpaḥ pra vahatety eṣā viniyuktā | hutāyāṃ vapāyām iti khaṇḍe sūtritam — idam āpaḥ pravahateti (ā. 3-[9] [?]) iti || eṣaivāvabhṛtheṣv api snāne viniyuktā | patnīsaṃyājaiś caritveti khaṇḍe idam āpaḥ pra vahata sumitryā na āpa oṣadhayaḥ santu (ā. 6-[13] [?]) iti sūtritam ||*
-*mayi yajamāne yat kiṃ ca duritam ajñānāt kṛtaṃ pāpaṃ vartate | vāthavāhaṃ yajamāno 'bhidudroha sarvato buddhipūrvakaṃ droham kṛtavān asmi | vāthavā śepe sādhujanam ākruṣṭavān asmi | utāpi cānṛtam uktavān iti yad asti | tad idaṃ sarvam aparādhajātaṃ pra vahata | matsakāśād apanīya pravāheṇānyatronnayata || mayi | [madhya arthāt] tvamāvekavacane iti mādeśe [?] | yo 'ci [pā. 7-2-89 [?]] iti | … dudroha | druha jighāṃsāyām | liṭ parasmaipadānām | ṇalatusus (pā. 3-4-82) iti ṇal | liṭi dhātoḥ (pā. 6-1-8) iti dvitvam | hrasvaḥ (pā. 7-4-59) | uttamapuruṣaikavacana | iṭpratyayaḥ | śepe | śapa ākrośe | laṭ | vyatyayenātmanepadam | uttamapuruṣa ekavacana iṭ | ṭita ātmanedaḥ (pā. 3-4-79) ity etvam | [ata ekahalmadhye… (pā. 6-4-120)] ity etvābhyāsalopau ||*
+**Translation (application):** "At the animal sacrifice, at the cleansing, this ṛk *idam āpaḥ pra vahata* is used; it is laid down in the section *hutāyāṃ vapāyām*: '*idam āpaḥ pra vahata*' (Āśv. 3-5). This same ṛk is used at the bath in the *avabhṛtha-iṣṭi*; it is laid down in the section *patnīsaṃyājaiś caritvā*: '*idam āpaḥ pra vahata*, *sumitryā na āpa oṣadhayaḥ santu*' (Āśv. 6-13)."
 
-**Translation:** "At the *paśu* [animal-sacrifice], at the *mārjana* [sprinkling], this rik *idam āpaḥ pra vahata* is applied. In the section *hutāyāṃ vapāyām*: '*idam āpaḥ pravahata*' (Āś. [3-9] [?]). The same rik is applied also at the bath in the *avabhṛtha* rites; in the section *patnīsaṃyājaiś caritvā*: '*idam āpaḥ pra vahata* [and] *sumitryā na āpa oṣadhayaḥ santu*' (Āś. [6-13] [?]). Whatever (*yat kiṃ ca*) sin (*duritam*) done through ignorance is in me, the sacrificer; or [*vā*] whatever hostility I have shown (*abhidudroha*) knowingly, on all sides; or whatever I have cursed (*śepe*) — abusing good people; and whatever *anṛta* — untruth — I have uttered: all this offence, carry (*pra vahata*) away; remove it from me and carry it off by the current elsewhere. *Dudroha*: *druha jighāṃsāyām* [to wish to harm], perfect, with *ṇal* of P. 3-4-82; doubling by P. 6-1-8; shortening by P. 7-4-59. *Śepe*: *śapa ākrośe* [to curse]; present; the *ātmanepada* by *vyatyaya*; first person singular *iṭ*; *e* by P. 3-4-79 *ṭita ātmanepadānāṃ ṭer e*." *(Grammar page 229, noted briefly: the words treated are* mayi *[the locative of *asmad*: *mad* + *ṅi* with *ma*-ending, P. 7-2-97 *tvamāv ekavacane*; *ā* + *i*; P. 6-1-87 *ād guṇaḥ*; the *yat*… *aci* rule P. 7-2-89 *yo 'ci* gives *y*; in the Vedic forms *yuṣmad/asmad*'s final *d* is replaced by *y* before a vowel-initial case-ending, giving *tvayi*/*mayi*] and* dudroha *[*druha jighāṃsāyām*; *liṭ* → *ṇal* by P. 3-4-82 *parasmaipadānāṃ ṇalatusus…*; doubling P. 6-1-8; *hrasva* P. 7-4-59; *halādiḥ śeṣaḥ* P. 7-4-60 drops the *h*; the accent: P. 8-1-66 *yadvṛttān nityam* — the verb after *yad* is not lowered; and P. 8-1-72 pūjā — the word *pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ*; the author of the *Kāśikā* is cited on whether *pūjita* includes the *abhi* compound],* śepe *[*śapa ākrośe*, *laṭ*, the *ātmanepada* by *vyatyaya*; *iṭ* → *e* by P. 3-4-79; *e* for the stem vowel and loss of the reduplicate — P. 6-4-120 *ata ekahalmadhye 'nādeśāder liṭi* — forms *śepe*; no *num*; the accent not lowered]; numerals as read, pointers only.)*
+> मयि यजमाने यत्किं च दुरितमज्ञानान्निष्पन्नं । वाथवाहं यजमानोऽभिदुद्रोह सर्वतो बुद्धिपूर्वकं द्रोहं कृतवानस्मि वाथवा शेपे साधुजनं शप्तवानस्मीति यदस्ति । उतापि चानृतमुक्तवानिति यदस्ति । तदिदं सर्वमपराधजातं प्र वहत । मत्तोऽपनीय प्रवाहेणान्यतो नयत ॥ मयि । मपर्यन्तस्य त्वमावेकवचन इति मादेशे कृतेऽतो गुण इति पररूपे च सति योऽचीति दकारस्य यकारादेशः । एकादेशस्वरेण मकारात्परस्याकारस्योदात्तत्वं । दुद्रोह । द्रुह जिघांसायां । णलि गुणे द्विर्वचनह्रस्वहलादिशेषाः । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । यद्वृत्तयोगान्निघाताभावः । शेपे । शप आक्रोशे । लिटि व्यत्ययेन तङ् । उत्तमैकवचनमिट् । टेरेत्वं । अत एकहल्मध्ये । पा० ६-४-१२० । इत्येत्वाभ्यासलोपौ । प्रत्ययस्वरेणान्तोदात्तत्वं । पूर्ववन्निघाताभावः ॥
+>
+> *mayi yajamāne yatkiṃ ca duritamajñānānniṣpannaṃ | vāthavāhaṃ yajamāno 'bhidudroha sarvato buddhipūrvakaṃ drohaṃ kṛtavānasmi vāthavā śepe sādhujanaṃ śaptavānasmīti yadasti | utāpi cānṛtamuktavāniti yadasti | tadidaṃ sarvamaparādhajātaṃ pra vahata | matto 'panīya pravāheṇānyato nayata || mayi | maparyantasya tvamāvekavacana iti mādeśe kṛte 'to guṇa iti pararūpe ca sati yo 'cīti dakārasya yakārādeśaḥ | ekādeśasvareṇa makārātparasyākārasyodāttatvaṃ | dudroha | druha jighāṃsāyāṃ | ṇali guṇe dvirvacanahrasvahalādiśeṣāḥ | litīti pratyayātpūrvasyodāttatvaṃ | yadvṛttayogānnighātābhāvaḥ | śepe | śapa ākrośe | liṭi vyatyayena taṅ | uttamaikavacanamiṭ | ṭeretvaṃ | ata ekahalmadhye | pā0 6-4-120 | ityetvābhyāsalopau | pratyayasvareṇāntodāttatvaṃ | pūrvavannighātābhāvaḥ ||*
 
-**॥ Prati-padārthaḥ ॥** **मयि (mayi)** — in me, the sacrificer | **यत् किं च (yat kiṃ ca)** — whatever | **दुरितम् (duritam)** — sins done through ignorance | **वा (vā)** — or | **अहम् (aham)** — I | **यत् (yat)** — whomever | **अभिदुद्रोह (abhidudroha)** — have knowingly harmed | **यत् वा शेपे (yat vā śepe)** — and whom I have cursed [spoken ill of] | **उत (uta)** — and | **अनृतम् (anṛtam)** — falsehoods [which I have uttered] | **इदम् (idam)** — all this [sin] | **आपः (āpaḥ)** — O waters | **प्र वहत (pra vahata)** — carry off in the stream.
+**Translation:** "Whatever *duritam*, sin arising from ignorance, there is *mayi*, in me, the sacrificer; or, *yad vā*, what there is of my, the sacrificer's, having *abhidudroha*, done hurt knowingly on all sides; or of my having *śepe*, cursed, good people; *uta*, and also of my having spoken *anṛtam*, falsehood — *idam*, all this mass of offences, *pra vahata*, carry away: taking it from me, lead it elsewhere by your current." (Grammatical tail: *mayi*, after the substitute *ma* by *tvamāv ekavacane* for the part up to *m*, and the following form by *ato guṇe*, *y* for the *d* by *yo 'ci*; the *a* after *m* udātta by the single-substitute accent; *dudroha*, *druha jighāṃsāyām*, with *ṇal*, *guṇa*, reduplication, shortening and *halādiḥ śeṣaḥ*; the syllable before the suffix udātta by *liti*; no loss of accent because of connection with *yad*; *śepe*, *śapa ākrośe*, in *liṭ* the middle endings by *vyatyaya*, first person singular *iṭ*, *e* for the *ṭi*, the *e* and the dropping of the reduplicate by *ata ekahalmadhye…* (Pā. 6-4-120); final udātta by the suffix accent; no loss of accent as before.)
 
-**॥ Bhāvārthaḥ ॥** The sins I have committed through ignorance, or the harm I have done to anyone knowingly, or the abuse and the lies I have uttered — may the waters carry away all these in their flow.
+### Page 228 — Rik 22: word-meanings, overall sense, English, Special Topics
+
+**॥ Prati-padārthaḥ ॥**
+
+**मयि (mayi)** — in me, the sacrificer | **यत्किं च (yat kiṃ ca)** — whatever | **दुरितं (duritaṃ)** — sins done through ignorance there are | **वा (vā)** — or | **अहं (ahaṃ)** — I | **यत् अभिदुद्रोह (yat abhidudroha)** — though I have done hurt (to anyone) knowingly | **वा (vā)** — or | **यत् शेपे (yat śepe)** — though I have spoken evil words about someone | **उत (uta)** — and | **अनृतं (anṛtaṃ)** — though (I have spoken) a lie | **इदं (idaṃ)** — such sin | **आपः (āpaḥ)** — the waters | **प्र वहत (pra vahata)** — (separating it from me) may they carry it away in the form of a current.
+
+**॥ Bhāvārthaḥ ॥**
+
+May the waters (the flowing water) carry away in their current all such sins: the sins that may be in me, done through ignorance; or if I have done hurt to anyone; or if I have spoken evil words; and if I have told lies.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> O Waters, whatever sin there is in me, whatever ill-will I may have borne to others, whatever imprecations I may have uttered, and whatever falsehood I may have told, wash it away all from me.
+> O Waters, whatever sin there is in me, whatever ill-will I may have borne to others, whatever imprecations I may have uttered, and whatever falschood [sic] I may have told, wash it away all from me.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 228)* **Application.** In the animal sacrifice, to perform the sprinkling (*mārjana*, *prokṣaṇa*), the rik *idam āpaḥ pravahata* is to be used; Āśvalāyana's Śrauta-sūtra, in the section *hutāyāṃ vapāyām*, says that the rik *idam āpaḥ pravahate* is to be used as the sprinkling mantra (Āś. [3-9]). The same rik is used also at bathing time in the *avabhṛtha* [final bath] at the end of the sacrifice; stated in the section *patnīsaṃyājaiś caritvā*, where the mantras *idam āpaḥ pra vahata* and *sumitryā na āpa oṣadhayaḥ santu* are to be used (Āś. [6-13]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**दुरितम्** — *ajñānān niṣpannaṃ kāyikaṃ pāpam*: the sin done by the body through ignorance, or the sin which is the result of an act done knowingly — that is, acts such as striking someone, the sins done by physical force. **अभिदुद्रोह** — *droha* is the name for thinking evil with the mind; this is a mental sin. **शेपे, अनृतम्** — sins done with speech, such as cursing and telling falsehoods; this is a prayer that the flowing waters may carry away these three kinds of sin — mental, bodily and verbal.
+In the animal sacrifice this ṛk *idam āpaḥ pra vahata* is recited for the cleansing (sprinkling). In the section *hutāyāṃ vapāyām* of the Āśvalāyana Śrautasūtra it is said that the ṛk *idam āpaḥ pra vahata* is to be recited as the cleansing mantra (Ā. 3-5). Besides this, in the *avabhṛtha-iṣṭi* performed at the end of the sacrifice, this mantra is used at the time of bathing. This matter is stated in the section *patnīsaṃyājaiś caritvā*, that the mantras *idam āpaḥ pra vahata* and *sumitryā na āpa oṣadhayaḥ santu* are to be recited (Ā. 6-13).
+
+**दुरितं (duritaṃ)** — *ajñānān niṣpannaṃ kāyikaṃ pāpam ||* the sin in the form of acts done through ignorance or knowingly, that is, sins done by the use of force, such as beating someone: this is the meaning.
+
+**अभिदुद्रोह (abhidudroha)** — thinking evil with the mind is called *droha*. This is a sin of the mind.
+
+**शेपे, अनृतं (śepe, anṛtaṃ)** — cursing, telling lies and the like are sins done by speech. These are of speech. The prayer is that the flowing water may carry away these three kinds of sins.
+
+### Page 229 (upper) — Rik 22: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**मयि (mayi)** — the word *yuṣmad* [as printed; for *asmad*], locative singular; for the part up to *m*, by *tvamāv ekavacane* (Pā. Sū. 7-2-97) the substitute *ma*: *ma* + *ad* + *i*; by *ato guṇe* (Pā. Sū. 6-1-97) the following form: *mad* + *i*; by *yo 'ci* (Pā. Sū. 7-2-89) — when a vowel-initial case-ending without a substitute follows, the *d* of the words *yuṣmad*, *asmad* takes *y* — so when *y* comes it becomes *tvayi* [as printed; *mayi*].
+
+**दुद्रोह (dudroha)** — the root *druha jighāṃsāyām*. *Liṭ*, *parasmaipada*, third person singular *ti*; by *parasmaipadānāṃ ṇal…* (Pā. Sū. 3-4-82) *ṇal*: *druh* + *a*. By *liṭi dhātoḥ…* (Pā. Sū. 6-1-8) reduplication. By *hrasvaḥ* (Pā. Sū. 7-4-59) shortening: though it is already short here, since it is said *parjanyaval lakṣaṇaṃ pravartate* (Paribhā. 120), the shortening comes. By *halādiḥ śeṣaḥ* (Pā. Sū. 7-4-60) the *r* and *h* of the first *druh* are dropped: *dudruh* + *a*, *guṇa* of the light penultimate. *Yadvṛttān nityam* (Pā. Sū. 8-1-66): a word ending in *tiṅ* after a word in which there is the word *yad* is not unaccented. Here, by the further mention of *pūjita* in *pūjanāt pūjitam* (Pā. Sū. 8-1-67), it is made known that *atra prakaraṇe pañcamīnirdeśe 'pi nānantaryam iṣyate*. So even though there is an intervention, the prohibition of the unaccented comes by this. In the same way in *śepe* too the unaccented is barred.
+
+> पर्जन्यवल्लक्षणं प्रवर्तते ।
+> अत्र प्रकरणे पञ्चमीनिर्देशेऽपि नानन्तर्यमिष्यते ।
+>
+> *parjanyavallakṣaṇaṃ pravartate |*
+> *atra prakaraṇe pañcamīnirdeśe 'pi nānantaryamiṣyate |*
+
+**शेपे (śepe)** — the root *śapa ākrośe*; *liṭ*: though this is a *parasmaipada* root, the middle-voice suffix comes by *vyatyaya*. First person singular, *iṭ*: *śap* + *i*. By *ṭita ātmanepadānāṃ ṭer e* (Pā. Sū. 3-4-79) *e* for the *i*; reduplication; by *ata ekahalmadhye 'nādeśāder liṭi* (Pā. Sū. 6-4-120) — when a *liṭ* that is *kit* follows, a short *a* standing between single consonants and belonging to a stem whose initial is not a substitute takes *e*, and the reduplicate is dropped — when the *e* and the dropping of the reduplicate come, it becomes *śepe*. ॥22॥
+
+*(An ornament follows.)*
 
 ---
 
