@@ -235,7 +235,7 @@
 
   "In these ṛks, the chariot of the Aśvin gods is described in many places as having three wheels. Therefore, in describing the chariot of the Aśvin gods, the words *trivandhura*, *trivṛt* and *tricakra* have been used by many sages, and so it can be understood that these words have a definite meaning."
 - **kaṇvāsaḥ** — "*medhāvino ṛtvijaḥ*: wise priests; or the sons of the sage Kaṇva; the descendants of the sage Kaṇva."
-- **brahma** — "among the twenty-eight names of food beginning *andhaḥ, vājaḥ*, the word *brahma* is read, so *brahma* means food (Ni. 2-9); and among the twenty-eight names of wealth beginning *maghaṃ, rekṇaḥ*, the word *brahma* is read, so *brahma* means wealth (Ni. 2-9); and, according to (Ni. 12-34), *brahma* means stotra: three meanings. Here any of the meanings may be given."
+- **brahma** — "among the twenty-eight names of food beginning *andhaḥ, vājaḥ*, the word *brahma* is read, so *brahma* means food (Ni. 3-9); and among the twenty-eight names of wealth beginning *maghaṃ, rekṇaḥ*, the word *brahma* is read, so *brahma* means wealth (Ni. 3-9); and, according to (Ni. 12-34), *brahma* means stotra: three meanings. Here any of the meanings may be given."
 
 **Vyākaraṇa-prakriyā** *(pp. 8–9 — grammar pages, noted briefly)*
 - **tribandhureṇa** *(the print here spells the first member with* b*: "tribanduraṇa" / "tribandhura")*: root *bandha bandhane*; "*badhnanti iti bandhurāḥ*"; the Uṇādi suffix *uran*; "*trayaḥ bandhurāḥ yasya saḥ*", a bahuvrīhi meaning "having a carriage of wood tied in three ways". *Bandhura* by the *nit*-accent is initial-acute; *tri* by the *prātipadika* accent is end-acute; after the compound is formed, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read) would give the first member's natural accent; but in the section on end-acute (*antodātta*), the vārttika "*tricakrādīnāṃ chandasy upasaṃkhyānam*" (Pā. 6-2-199-1, vārttika) — "*tricakra* and the like are to be added in the Chandas" — gives the end of such words as *tricakra* and *tribandhura* the acute in the Chandas; this overrides the first member's natural accent, giving end-acute.
@@ -448,7 +448,7 @@
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 18–19**
 - **sudāse** — "Sudās was the son of a well-known king named Pijavana. In the Viṣṇu Purāṇa it is described that a king named Sudās was born in the solar line; another king of the same name in the lunar line; and yet another king of the same name in the lunar line as the son of the king Divodāsa. The name of Divodāsa is mentioned in the Ṛgveda."
-- **pṛkṣaḥ** — "since the word *pṛkṣaḥ* is read among the twenty-eight words that signify food, beginning *andhaḥ*, *vājaḥ* (Ni. 2-9), *pṛkṣa* means food or sustenance."
+- **pṛkṣaḥ** — "since the word *pṛkṣaḥ* is read among the twenty-eight words that signify food, beginning *andhaḥ*, *vājaḥ* (Ni. 3-9), *pṛkṣa* means food or sustenance."
 - **samudrāt** — "since the word *samudraḥ* is read among the sixteen names of the atmosphere beginning *ambaram*, *viyat* (Ni. 2-10), *samudrāt* means 'from the atmosphere'. Besides this, because the words *uta vā divas pari* are used in this ṛk, the ṛṣi prays that the Aśvin gods bring wealth from their own place, heaven or the atmosphere."
 - **puruspṛham** — "*bahubhiḥ spṛhaṇīyam*: desired by many; all desire riches such as wealth, power; it is wanted by all. The ṛṣi's idea is that such wealth be given."
 
@@ -461,13 +461,15 @@
 
 ### Rik 47.7 (pp. 19–20, PDF 35–36)
 
-**Saṃhitā-pāṭha** *(p. 19; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 19; accents as printed)*
 
-> **यन्नासत्या परावति यद्वा स्थो अधि तुर्वशे ।**
-> **अतो रथेन सुवृता न आ गतं साकं सूर्यस्य रश्मिभिः ॥ ७ ॥**
+> **यन्ना॑सत्या परा॒वति॒ यद्वा॒ स्थो अधि॑ तु॒र्वशे॑ ।**
+> **अतो॒ रथे॑न सु॒वृता॑ न॒ आ ग॑तं सा॒कं सूर्य॑स्य र॒श्मिभिः ॥ ७ ॥**
 
-*yan nāsatyā parāvati yad vā stho adhi turvaśe |*
-*ato rathena suvṛtā na ā gatam sākaṃ sūryasya raśmibhiḥ || 7 ||*
+*yán nāsatyā parāváti yád vā sthó ádhi turváśe |*
+*áto ráthena suvṛ́tā na ā́ gataṃ sākáṃ sū́ryasya raśmibhiḥ || 7 ||*
+
+*[accent ?] line 2: a svarita stroke stands over* śmi*/*bhiḥ *of* raśmibhiḥ *(placement unclear); it is left unmarked.*
 
 **Pada-pāṭha** *(p. 20)*
 
@@ -484,8 +486,6 @@
 > **हे नासत्यावसत्यरहितावश्विनौ यद्यदि युवां परावति दूरदेशे स्थो वर्तेथे । यद्वा अथवाधि तुर्वशेऽधिके समीपे स्थः । अतोऽस्माद्दूरात्समीपाद्वा सूर्यस्य रश्मिभिः साकं सूर्योदयकाले सुवृता शोभनवर्तनयुक्तेन रथेन नोऽस्मान् प्रत्या गतं । आगच्छतम् ॥ नासत्या । सत्सु भवौ सत्यौ । न सत्यावसत्यौ । न असत्यौ नासत्यौ । नभ्राण्नपादित्यादिना नञः प्रकृतिभावः । स्थः । अस भुवि । श्नसोरल्लोप इत्यकारलोपः । यद्वृत्तयोगादनिघातः । गतं । गमेर्लोटि बहुलं छन्दसीति शपो लुक् । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः ॥**
 
 *he nāsatyāv asatyarahitāv aśvinau yad yadi yuvāṃ parāvati dūradeśe stho vartethe | yad vā athavādhi turvaśe 'dhike samīpe sthaḥ | ato 'smād dūrāt samīpād vā sūryasya raśmibhiḥ sākaṃ sūryodayakāle suvṛtā śobhanavartanayuktena rathena no 'smān pratyā gataṃ | āgacchataṃ || nāsatyā | satsu bhavau satyau | na satyāv asatyau | na asatyau nāsatyau | nabhrāṇnapād ity ādinā nañaḥ prakṛtibhāvaḥ | sthaḥ | asa bhuvi | śnasor allopa ity akāralopaḥ | yadvṛttayogād anighātaḥ | gataṃ | gamer loṭi bahulaṃ chandasīti śapo luk | anudāttopadeśety ādinānunāsikalopaḥ ||*
-
-*(The clause "nāsatyā | satsu bhavau satyau | …" is as I read it; the Kannada print of the etymology is crowded [?].)*
 
 **Translation:** "O Nāsatyas — you who are free of untruth — O Aśvins, *yat*, if you two *parāvati*, are in a far-off place, *yad vā*, or *adhi turvaśe*, are in a nearer place: *ataḥ*, from that far place or near place, *sūryasya raśmibhiḥ sākam*, together with the rays of the Sun, at the time of the Sun's rising, *rathena suvṛtā*, with your chariot of fair movement, *naḥ ā gatam*, come to us. *Nāsatyā*: 'those who exist among the true are true'; 'not true' is *asatya*; 'not untrue' is *nāsatya*; the natural state of *na* by *nabhrāṇ-napāt…*. *Sthaḥ*: root *asa bhuvi*; the *a* drops by *śnasor allopaḥ*; because of the *yad*-connexion, there is no all-unaccented. *Gatam*: *loṭ* of *gam*; *śap* drops; the nasal drops by *anudāttopadeśa…*."
 
@@ -504,14 +504,14 @@
 **Rik 47.7, continued** *(from p. 21)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 21**
-- **parāvati** — "since the word *parāvat* is read among the five names of 'far' beginning *ākāt, parākāt* (Ni. 3-[?]0 as read), *parāvati* means 'in the distance'."
-- **turvaśe** — "since the word *turvaśe* is read among the eleven names that signify 'near', beginning *taḷit, āsāt* (Ni. 3-[?] as read), *turvaśe* means 'in the neighbourhood'."
+- **parāvati** — "since the word *parāvat* is read among the five names of 'far' beginning *ākāt, parākāt* (Ni. 3-20), *parāvati* means 'in the distance'."
+- **turvaśe** — "since the word *turvaśe* is read among the eleven names that signify 'near', beginning *taḷit, āsāt* (Ni. 3-9), *turvaśe* means 'in the neighbourhood'."
 - **ā gatam sākaṃ sūryasya raśmibhiḥ** — "'come with the rays of the Sun': that is, come as soon as the Sun has risen in the morning; this is the idea."
 
 **Vyākaraṇa-prakriyā** *(p. 21 — grammar page, noted briefly)*
-- **nāsatyā**: "*satsu sādhuḥ satyaḥ*"; "*na satyaḥ asatyaḥ*"; "*na asatyaḥ nāsatyaḥ*". *Tatra sādhuḥ* (Pā. 4-4-98 as read [?]) gives *yat*; if the analysis is "*satsu bhavau*" ("they who are among the good"), then *bhave chandasi* (Pā. 4-4-110 as read [?]) gives *yat* (the Kannada author adds that the process is given differently at Ṛ. Saṃ. 1-3-3 [as read]). Everywhere *nabhrāṇnapānnavedānāsatyā…* (Pā. 6-3-75 as read [?]) gives *prakṛtibhāva*, so the *n* of *na* is not dropped.
-- **sthaḥ**: root *asa bhuvi*; *laṭ*, second person dual *thas*; *śnasor allopaḥ* (Pā. 6-4-111 as read) — a *sārvadhātuka* beginning with *kit* or *ṅit*, or of the kind with an *ś*-marker, dropped, drops the *a* of the root *as* and of the suffix *śna*; so the *a* of *as* is lost: *s + thas*; *ru*, *visarga*: *sthaḥ*. The word *yad vā* occurs here with *yad*. *Yadvṛttān nityam* (Pā. 8-1-66 as read) — the Kannada author remarks that the Mahābhāṣya explains *yadvṛtta* as "*yadā eṣā yadvṛttam*" [as printed, crowded, [?]]; by it, a finite verb after the word with *yat* is not all-unaccented; and by *pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ* (Pā. 8-1-67 as read [?]) — the re-statement with *pūjita* shows that, as said, "*atra prakaraṇe pañcamī nirdeśe 'pi nānantaryam iṣyate*" (as printed): hence, even where *vā* intervenes, the prohibition holds.
-- **gatam**: root *gamḷ gatau*; *loṭ*; *loṭo laṅvat*; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. 3-4-101 as read) gives *thas*, *tam*; *bahulaṃ chandasi* (Pā. 2-4-73 as read) gives *luk* for *śap*; *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. 6-4-37 as read) drops the nasal *m*. **|| 7 ||**
+- **nāsatyā**: "*satsu sādhuḥ satyaḥ*"; "*na satyaḥ asatyaḥ*"; "*na asatyaḥ nāsatyaḥ*". *Tatra sādhuḥ* (Pā. 4-4-98) gives *yat*; if the analysis is "*satsu bhavau*" ("they who are among the good"), then *bhave chandasi* (Pā. 4-4-110) gives *yat* (the Kannada author adds that the process is given differently at Ṛ. Saṃ. 1-3-3). Everywhere *nabhrāṇnapānnavedānāsatyā…* (Pā. 6-3-75) gives *prakṛtibhāva*, so the *n* of *na* is not dropped.
+- **sthaḥ**: root *asa bhuvi*; *laṭ*, second person dual *thas*; *śnasor allopaḥ* (Pā. 6-4-111) — a *sārvadhātuka* beginning with *kit* or *ṅit*, or of the kind with an *ś*-marker, dropped, drops the *a* of the root *as* and of the suffix *śna*; so the *a* of *as* is lost: *s + thas*; *ru*, *visarga*: *sthaḥ*. The word *yad vā* occurs here with *yad*. *Yadvṛttān nityam* (Pā. 8-1-66) — the Kannada author remarks that the Mahābhāṣya analyses *yadvṛtta* as "*yad asmin vartate iti yadvṛttam*" ("that in which *yad* occurs"); by it, a finite verb after the word with *yat* is not all-unaccented; and by *pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ* (Pā. 8-1-67) — the re-statement with *pūjita* shows that, as said, "*atra prakaraṇe pañcamī nirdeśe 'pi nānantaryam iṣyate*" (as printed): hence, even where *vā* intervenes, the prohibition holds.
+- **gatam**: root *gamḷ gatau*; *loṭ*; *loṭo laṅvat*; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. 3-4-101) gives *thas*, *tam*; *bahulaṃ chandasi* (Pā. 2-4-73) gives *luk* for *śap*; *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. 6-4-37) drops the nasal *m*. **|| 7 ||**
 
 ---
 
