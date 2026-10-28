@@ -7046,13 +7046,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Sāyaṇa's introduction *(p. 392)*
 
-> **प्र मंहिष्ठायेति षडृचं सप्तमं सूक्तं सव्यस्यार्षमैन्द्रं जागतं । तथा चानुक्रान्तं । प्र मंहिष्ठायेति । विषुवति निष्केवल्य इदं सूक्तं शंसनीयं । सूत्रितं च । प्र मंहिष्ठाय त्यमू षु इतीह शाकूर्यमन्ततः ॥ आ. ८-६ इति ॥ उक्थ्यसंस्थे क्रतौ तृतीयसवने ब्राह्मणाच्छंसिनः शस्त्रेऽप्येतत्सूक्तं । सूत्रितं च । सर्वाः ककुभः प्र मंहिष्ठायोदपुतेः । आ. ६-१ । इति ॥**
+> **प्र मंहिष्ठायेति षडृचं सप्तमं सूक्तं सव्यस्यार्षमैन्द्रं जागतं । तथा चानुक्रान्तं । प्र मंहिष्ठायेति । विषुवति निष्केवल्य इदं सूक्तं शंसनीयं । सूत्रितं च । प्र मंहिष्ठाय त्यमू षु इतीह तार्क्ष्यमन्ततः ॥ आ. ८-६ इति ॥ उक्थ्यसंस्थे क्रतौ तृतीयसवने ब्राह्मणाच्छंसिनः शस्त्रेऽप्येतत्सूक्तं । सूत्रितं च । सर्वाः ककुभः प्र मंहिष्ठायोदप्रुतः । आ. ६-१ । इति ॥**
 
-*pra maṃhiṣṭhāyeti ṣaḍṛcaṃ saptamaṃ sūktaṃ savyasyārṣam aindraṃ jāgataṃ | tathā cānukrāntaṃ | pra maṃhiṣṭhāyeti | viṣuvati niṣkevalya idaṃ sūktaṃ śaṃsanīyaṃ | sūtritaṃ ca | pra maṃhiṣṭhāya tyam ū ṣu itīha śākūryam antataḥ || ā. 8-6 iti || ukthyasaṃsthe kratau tṛtīyasavane brāhmaṇācchaṃsinaḥ śastre 'py etat sūktaṃ | sūtritaṃ ca | sarvāḥ kakubhaḥ pra maṃhiṣṭhāyodaputeḥ | ā. 6-1 | iti ||*
+*pra maṃhiṣṭhāyeti ṣaḍṛcaṃ saptamaṃ sūktaṃ savyasyārṣam aindraṃ jāgataṃ | tathā cānukrāntaṃ | pra maṃhiṣṭhāyeti | viṣuvati niṣkevalya idaṃ sūktaṃ śaṃsanīyaṃ | sūtritaṃ ca | pra maṃhiṣṭhāya tyam ū ṣu itīha tārkṣyam antataḥ || ā. 8-6 iti || ukthyasaṃsthe kratau tṛtīyasavane brāhmaṇācchaṃsinaḥ śastre 'py etat sūktaṃ | sūtritaṃ ca | sarvāḥ kakubhaḥ pra maṃhiṣṭhāyodaprutaḥ | ā. 6-1 | iti ||*
 
-*(Reading note: "*udaputeḥ*" is as printed, probably a crowded form, [?]; the numerals are as read, [?].)*
+*(Reading note: "*udaprutaḥ*" and "*tārkṣyam*" re-read from the better scan; numerals 8-6 and 6-1 as printed.)*
 
-**Translation:** "'*Pra maṃhiṣṭhāya*': a sūkta of six Riks, the seventh [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī; so the Anukramaṇī: '*pra maṃhiṣṭhāya*'. On the Viṣuvat day this sūkta is to be recited in the *niṣkevalya*; so it is aphorized: '*pra maṃhiṣṭhāya*', '*tyam ū ṣu*' here, and the Śākūrya at the end (Āśv. 8-6 [?]). In the Ukthya-saṃsthā rite, in the third *savana*, it is also in the śastra of the Brāhmaṇācchaṃsin: 'all the *kakubh* [Riks], *pra maṃhiṣṭhāya*…' (Āśv. 6-1 [?])."
+**Translation:** "'*Pra maṃhiṣṭhāya*': a sūkta of six Riks, the seventh [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī; so the Anukramaṇī: '*pra maṃhiṣṭhāya*'. On the Viṣuvat day this sūkta is to be recited in the *niṣkevalya*; so it is aphorized: '*pra maṃhiṣṭhāya*', '*tyam ū ṣu*' here, and the Tārkṣya at the end (Āśv. 8-6). In the Ukthya-saṃsthā rite, in the third *savana*, it is also in the śastra of the Brāhmaṇācchaṃsin: 'all the *kakubh* [Riks], *pra maṃhiṣṭhāya udaprutaḥ*' (Āśv. 6-1)."
 
 **Anuvāda (Kannada, p. 392)** — "'*Pra maṃhiṣṭhāya*' is the seventh sūkta in the tenth anuvāka. It has six Riks. The seer is Savya, the deity Indra, the metre Jagatī. In the Anukramaṇikā: '*pra maṃhiṣṭhāya*'. In the Viṣuvat sacrifice it is used for the niṣkevalya śastra mantras (Āśv. 8-6); in the Ukthya-saṃsthā rite, in the third savana, the Brāhmaṇācchaṃsin is to recite this sūkta (Āśv. 6-1)."
 
@@ -7064,19 +7064,19 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Heading block of Sūkta 57 *(p. 393, PDF 409)*
 
-Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga 22, 23 [as read, [?]] · Riks: 6 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
+Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga 22 · Riks: 6 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
 
 ---
 
 ### Rik 57.1 (pp. 393–396, PDF 409–412)
 
-**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(accents as printed)*
 
-> **प्र मंहिष्ठाय बृहते बृहद्रये सत्यशुष्माय तवसे मतिं भरे ।**
-> **अपामिव प्रवणे यस्य दुर्धरं राधो विश्वायु शवसे अपावृतम् ॥ १ ॥**
+> **प्र मंहि॑ष्ठाय बृह॒ते बृ॒हद्र॑ये स॒त्यशु॑ष्माय त॒वसे॑ म॒तिं भ॑रे ।**
+> **अ॒पामि॑व प्रव॒णे यस्य॑ दु॒र्धरं॒ राधो॑ वि॒श्वायु॒ शव॑से॒ अपा॑वृतम् ॥ १ ॥**
 
-*pra maṃhiṣṭhāya bṛhate bṛhadraye satyaśuṣmāya tavase matiṃ bhare |*
-*apām iva pravaṇe yasya durdharaṃ rādho viśvāyu śavase apāvṛtam || 1 ||*
+*prá máṃhiṣṭhāya bṛhaté bṛhádraye satyáśuṣmāya taváse matím bhare |*
+*apā́m iva pravaṇé yásya durdháraṃ rā́dho viśvā́yu śávase ápāvṛtam || 1 ||*
 
 **Pada-pāṭha** *(p. 393)*
 
@@ -7088,13 +7088,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(pp. 393–394)*
 
-> **मंहिष्ठाय । मंहतिर्दानकर्मेति यास्कः । नि. १-२ । दातृतमाय बृहते गुणैर्महते बृहद्रये महाधनाय सत्यशुष्मायावितथबलाय तवस आकारतः प्रवृद्धाय । एवंगुणविशिष्टायेन्द्राय मतिं मननीयां स्तुतिं प्र भरे । प्रकर्षेण संपादयामि । यस्येन्द्रस्य बलं दुर्धरमन्यैर्धर्तुमशक्यं । तत्र दृष्टान्तः । प्रवणे निम्नप्रदेशेऽपामिव । यथा जलानां वेगः केनाप्यवस्थापयितुं न शक्यते तद्वत् । तथा राधो धनं विश्वायु सर्वेषु व्याप्तं शवसे स्तोतृणां बलाय येनेन्द्रेणापावृतं । अपगतावरणं क्रियते तस्मै इन्द्रस्येति पूर्वेण संबन्धः ॥**
+> **मंहिष्ठाय । मंहतिर्दानकर्मेति यास्कः । नि. १-७ । दातृतमाय बृहते गुणैर्महते बृहद्रये महाधनाय सत्यशुष्मायावितथबलाय तवस आकारतः प्रवृद्धाय । एवंगुणविशिष्टायेन्द्राय मतिं मननीयां स्तुतिं प्र भरे । प्रकर्षेण संपादयामि । यस्येन्द्रस्य बलं दुर्धरमन्यैर्धर्तुमशक्यं । तत्र दृष्टान्तः । प्रवणे निम्नप्रदेशेऽपामिव । यथा जलानां वेगः केनाप्यवस्थापयितुं न शक्यते तद्वत् । तथा राधो धनं विश्वायु सर्वेषु व्याप्तं शवसे स्तोतृणां बलाय येनेन्द्रेणापावृतं । अपगतावरणं क्रियते तस्मै इन्द्रस्येति पूर्वेण संबन्धः ॥**
 
-*maṃhiṣṭhāya | maṃhatir dānakarmeti yāskaḥ | ni. 1-2 | dātṛtamāya bṛhate guṇair mahate bṛhadraye mahādhanāya satyaśuṣmāyāvitathabalāya tavasa ākārataḥ pravṛddhāya | evaṃguṇaviśiṣṭāyendrāya matiṃ mananīyāṃ stutiṃ pra bhare | prakarṣeṇa saṃpādayāmi | yasyendrasya balaṃ durdharam anyair dhartum aśakyaṃ | tatra dṛṣṭāntaḥ | pravaṇe nimnapradeśe 'pām iva | yathā jalānāṃ vegaḥ kenāpy avasthāpayituṃ na śakyate tadvat | tathā rādho dhanaṃ viśvāyu sarveṣu vyāptaṃ śavase stotṝṇāṃ balāya yenendreṇāpāvṛtaṃ | apagatāvaraṇaṃ kriyate tasmai indrasyeti pūrveṇa saṃbandhaḥ ||*
+*maṃhiṣṭhāya | maṃhatir dānakarmeti yāskaḥ | ni. 1-7 | dātṛtamāya bṛhate guṇair mahate bṛhadraye mahādhanāya satyaśuṣmāyāvitathabalāya tavasa ākārataḥ pravṛddhāya | evaṃguṇaviśiṣṭāyendrāya matiṃ mananīyāṃ stutiṃ pra bhare | prakarṣeṇa saṃpādayāmi | yasyendrasya balaṃ durdharam anyair dhartum aśakyaṃ | tatra dṛṣṭāntaḥ | pravaṇe nimnapradeśe 'pām iva | yathā jalānāṃ vegaḥ kenāpy avasthāpayituṃ na śakyate tadvat | tathā rādho dhanaṃ viśvāyu sarveṣu vyāptaṃ śavase stotṝṇāṃ balāya yenendreṇāpāvṛtaṃ | apagatāvaraṇaṃ kriyate tasmai indrasyeti pūrveṇa saṃbandhaḥ ||*
 
 *(The tail, p. 394, is characterized: on* maṃhiṣṭhāya *(*mahi vṛddhau*, *tṛc*, *tuś chandasi*: *iṣṭhan*, *turiṣṭhemeyaḥsu*),* bṛhate *(*bṛhanmahator upasaṃkhyānam*),* matim *(*man jñāne*, *ktin*, *mantre vṛṣeṣapacamanaviduṣyā…*),* durdharam *(*īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal*),* viśvāyu *(*iṇ gatau*, Uṇādi *uṇ*; *bahuvrīhau viśvaṃ saṃjñāyām*),* apāvṛtam*.)*
 
-**Translation of the bhāṣya:** "To *maṃhiṣṭhāya* — *maṃhati* is a verb of giving, says Yāska (Ni. 1-2 [?]) — to the greatest giver; *bṛhate*, great by qualities; *bṛhadraye*, of great wealth; *satyaśuṣmāya*, of unfailing strength; *tavase*, grown in form: to such an Indra I *pra bhare*, present, *matim*, a hymn worth meditating on. Of that Indra *yasya*, whose strength is *durdharam*, not to be withstood by others — an example: *pravaṇe apām iva*, as in a low place the rush of the waters cannot be held by anyone — and *rādhaḥ*, wealth, *viśvāyu*, pervading all, *śavase*, for the strength of the praisers, *apāvṛtam*, which Indra opens, uncovers: connect with the first part."
+**Translation of the bhāṣya:** "To *maṃhiṣṭhāya* — *maṃhati* is a verb of giving, says Yāska (Ni. 1-7) — to the greatest giver; *bṛhate*, great by qualities; *bṛhadraye*, of great wealth; *satyaśuṣmāya*, of unfailing strength; *tavase*, grown in form: to such an Indra I *pra bhare*, present, *matim*, a hymn worth meditating on. Of that Indra *yasya*, whose strength is *durdharam*, not to be withstood by others — an example: *pravaṇe apām iva*, as in a low place the rush of the waters cannot be held by anyone — and *rādhaḥ*, wealth, *viśvāyu*, pervading all, *śavase*, for the strength of the praisers, *apāvṛtam*, which Indra opens, uncovers: connect with the first part."
 
 **Pratipadārtha** *(p. 394)* — "**yasya** — of which Indra; **pravaṇe** — (in a place where it flows) that no one can stop; **apām iva** — like the current of waters; **durdharam** — that cannot be withstood (by enemies); **rādhaḥ** — of which Indra the wealth; **viśvāyu** — spread out among all; **śavase** — for the strength of the praisers; **apāvṛtam** — is opened; **maṃhiṣṭhāya** — to the exceedingly generous; **bṛhate** — the great in qualities; **bṛhadraye** — of abundant wealth; **satyaśuṣmāya** — of effective valour; **tavase** — the powerful: to such Indra; **matim** — a worshipful hymn; **pra bhare** — I offer."
 
@@ -7103,22 +7103,22 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 394)** — "I offer the most desirable praise to the most bountiful, the great, the opulent, the highly powerful and stately Indra, whose irresistible impetuosity is like the rush of waters down a precipice, and by whom, widely-diffused wealth is laid open (to his worshippers) to sustain their strength."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 395**
-- **maṃhiṣṭhāya** — "*Maṃhatir dānakarmā* (Ni. 1-2 [?]): the Nirukta-authors fix that *maṃhati* is an act of giving; *atiśayena maṃhitā maṃhiṣṭhaḥ*: the most excellent among givers."
+- **maṃhiṣṭhāya** — "*Maṃhatir dānakarmā* (Niru. 1-7): the Nirukta-authors fix that *maṃhati* is an act of giving; *atiśayena maṃhitā maṃhiṣṭhaḥ*: the most excellent among givers."
 - **satyaśuṣmāya** — "*Satyaṃ śuṣmaṃ yasya*: one who has strength that is not in vain."
 - **tavase** — "One of mighty form: an epithet of Indra."
 - **pravaṇe apām iva** — "As water rushes to a hollow, Indra is of exceeding strength; the speed of water rushing to a hollow is given as a comparison, in the praise that no one can stop Indra's power."
 - **viśvāyu** — "*Viśvasmin sarvasmin āyu gamanaṃ yasya tat*: a thing pervading all regions of the world."
 
 **Vyākaraṇa-prakriyā** *(pp. 395–396 — grammar pages, noted briefly)*
-- **maṃhiṣṭhāya**: *mahi vṛddhau*; *tṛc*; *idit*: *num*: *maṃhitṛ*; *atiśayena maṃhitā maṃhiṣṭhaḥ*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: loss of *tṛ*; *nit*: initial-acute; dative.
+- **maṃhiṣṭhāya**: *mahi vṛddhau*; *tṛc*; *idit*: *num*: *maṃhitṛ*; *atiśayena maṃhitā maṃhiṣṭhaḥ*; *tuś chandasi* (Pā. 5-3-59): *iṣṭhan*; *turiṣṭhemeyaḥsu* (Pā. 6-4-154): loss of *tṛ*; *nit*: initial-acute; dative.
 - **bṛhate**: *bṛhat*; *bṛhanmahator upasaṃkhyānam*: ending acute.
 - **bṛhadraye**, **satyaśuṣmāya**: bahuvrīhis, first-member accent.
-- **matim**: *man jñāne*; *striyāṃ ktin*; *anudāttopadeśa…*: loss of nasal; *mantre vṛṣeṣapacamanaviduṣyā…* (Pā. 3-3-96): *ktin* acute; accusative: *ekādeśa udāttenodāttaḥ*.
+- **matim**: *man jñāne*; *striyāṃ ktin*; *anudāttopadeśa…* (Pā. 6-4-[?]; the last group read 26 or 27, not settled): loss of nasal; *mantre vṛṣeṣapacamanaviduṣyā…* (Pā. 3-3-96): *ktin* acute; accusative: *ekādeśa udāttenodāttaḥ* (Pā. 8-2-5).
 - **bhare**: *bhṛñ bharaṇe*; *laṭ* first singular; *nighāta*.
 - **apām**: genitive plural; *ūḍidam…*: ending acute.
-- **durdharam**: *dhṛñ dhāraṇe*; *īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal*: *khal*; *guṇa*; *uraṇ raparaḥ*; *liti*: acute before the suffix.
-- **viśvāyu**: *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-… as read [?]): *uṇ*; *ṇit*: *vṛddhi*; *āy*; *viśvaṃ saṃjñāyām*: end-acute of the first member.
-- **apāvṛtam**: *vṛñ varaṇe*; *kta*; no *guṇa*; *gatir anantaraḥ*: the prefix's accent. **|| 1 ||**
+- **durdharam**: *dhṛñ dhāraṇe*; *īṣaddussuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. 3-3-126): *khal*; *guṇa*; *uraṇ raparaḥ*; *liti*: acute before the suffix.
+- **viśvāyu**: *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-2): *uṇ*; *ṇit*: *vṛddhi*; *āy*; *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. 6-2-106): end-acute of the first member.
+- **apāvṛtam**: *vṛñ varaṇe*; *kta*; no *guṇa*; *gatir anantaraḥ* (Pā. 6-2-49): the prefix's accent. **|| 1 ||**
 
 ---
 
