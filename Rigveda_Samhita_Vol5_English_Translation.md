@@ -7888,13 +7888,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.9 (pp. 435–439, PDF 451–455; metre Triṣṭubh — the last Rik)
 
-**Saṃhitā-pāṭha** *(p. 435)*
+**Saṃhitā-pāṭha** *(p. 435; accents as printed)*
 
-> **भवा वरूथं गृणते विभावो भवा मघवन्मघवद्भ्यः शर्म ।**
-> **उरुष्याग्ने अंहसो गृणन्तं प्रातर्मक्षू धियावसुर्जगम्यात् ॥ ९ ॥**
+> **भवा॒ वरू॑थं गृण॒ते वि॑भावो॒ भवा॑ मघवन्म॒घव॑द्भ्यः॒ शर्म॑ ।**
+> **उ॒रु॒ष्याग्ने॒ अंह॑सो गृ॒णन्तं॑ प्रा॒तर्म॒क्षू धि॒याव॑सुर्ज॑गम्यात् ॥ ९ ॥**
 
-*bhavā varūthaṃ gṛṇate vibhāvo bhavā maghavan maghavadbhyaḥ śarma |*
-*uruṣyāgne aṃhaso gṛṇantaṃ prātar makṣū dhiyāvasur jagamyāt || 9 ||*
+*bhávā várūthaṃ gṛṇaté vibhāvo bhávā maghavan maghávadbhyaḥ śárma |*
+*uruṣyā́gne áṃhaso gṛṇántaṃ prātár makṣū́ dhiyā́vasur jagamyāt || 9 ||*
+
+*(The stroke over र्ज of जगम्यात् is as printed.)*
 
 **Pada-pāṭha** *(p. 436)*
 
@@ -7902,13 +7904,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 > उरुष्य । अग्ने । अंहसः । गृणन्तम् । प्रातः । मक्षु । धियाऽवसुः । जगम्यात् ॥ ९ ॥
 
 *bhava | varūtham | gṛṇate | vibhāvaḥ | bhava | magha-van | maghavat-bhyaḥ | śarma |*
-*uruṣya | agne | aṃhasaḥ | gṛṇantam | prātaḥ | makṣū | dhiyā-vasuḥ | jagamyāt || 9 ||*
+*uruṣya | agne | aṃhasaḥ | gṛṇantam | prātaḥ | makṣu | dhiyā-vasuḥ | jagamyāt || 9 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 436)*
 
-> **हे विभावो विशिष्टप्रकाशाग्ने गृणते त्वां स्तुवते यजमानाय । वरूथमिति गृहनाम । वरूथमनिष्टनिवारकं गृहं भव । हे मघवन् धनवन्नग्ने मघवद्भ्यो हविर्लक्षणधनयुक्तेभ्यो यजमानेभ्यः शर्म सुखं यथा भवति तथा भव । हे अग्ने गृणन्तं स्तुवन्तमंहसः पापकारिणः शत्रोरुरुष्य । रक्ष । धियावसुः कर्मणा बुद्ध्या वा प्राप्तधनोऽग्निः प्रातरिदानीमिव परेद्यरपि मक्षु शीघ्रं जगम्यात् । आगच्छतु ॥**
+> **हे विभावो विशिष्टप्रकाशाग्ने गृणते त्वां स्तुवते यजमानाय । वरूथमिति गृहनाम । वरूथमनिष्टनिवारकं गृहं भव । हे मघवन् धनवन्नग्ने मघवद्भ्यो हविर्लक्षणधनयुक्तेभ्यो यजमानेभ्यः शर्म सुखं यथा भवति तथा भव । हे अग्ने गृणन्तं स्तुवन्तमंहसः पापकारिणः शत्रोरुरुष्य । रक्ष । धियावसुः कर्मणा बुद्ध्या वा प्राप्तधनोऽग्निः प्रातरिदानीमिव परेद्युरपि मक्षु शीघ्रं जगम्यात् । आगच्छतु ॥**
 
 *he vibhāvo viśiṣṭaprakāśāgne gṛṇate tvāṃ stuvate yajamānāya | varūtham iti gṛhanāma | varūtham aniṣṭanivārakaṃ gṛhaṃ bhava | he maghavan dhanavann agne maghavadbhyo havirlakṣaṇadhanayuktebhyo yajamānebhyaḥ śarma sukhaṃ yathā bhavati tathā bhava | he agne gṛṇantaṃ stuvantam aṃhasaḥ pāpakāriṇaḥ śatror uruṣya | rakṣa | dhiyāvasuḥ karmaṇā buddhyā vā prāptadhano 'gniḥ prātar idānīm iva paredyur api makṣu śīghraṃ jagamyāt | āgacchatu ||*
+
+*(The tail, pp. 436–437, is characterized: on* varūtham *(*vṛñ varaṇe*; *jyāvṛñbhyām ūthan*, Uṇ. 2-6; *nit*: initial-acute),* gṛṇate *(*śatur anumaḥ*: the ending acute),* vibhāvaḥ *(*ato manin…*: *vic*; *matup*; *mādupadhāyāḥ*: *v*; *matuvaso ru*),* maghavadbhyaḥ *(*maghavā bahulam*, Pā. 6-4-128: *tṛ*; *nānubandhakṛtam anekāltvam*, Pari. 6; *alo 'ntyasya*, Pā. 1-1-52),* makṣu *(*ṛci tunughamakṣu…*: lengthening),* dhiyāvasuḥ *(bahuvrīhi, first-member accent; *sāv ekācaḥ*; no *luk*, Vedic),* jagamyāt *(*gamḷ sṛpḷ gatau*; *liṅ*; *bahulaṃ chandasi*: *śap* → *ślu*).)*
 
 **Translation of the bhāṣya:** "O *vibhāvaḥ*, Agni of special radiance, *gṛṇate*, to the sacrificer who praises you: *varūtha* is a name for house — be a house that keeps off undesired things. O *maghavan*, wealthy Agni, *maghavadbhyaḥ*, to the sacrificers endowed with the wealth of oblation, be as happiness (*śarma*). O Agni, protect your praising devotee from *aṃhasaḥ*, the sin-doing enemy. May Agni, *dhiyāvasuḥ*, wealthy by rite or by wisdom, *prātaḥ*, in the morning, as now, on the next day too, *makṣu*, quickly, come (*jagamyāt*)."
 
@@ -7920,22 +7924,22 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 437**
 - **vibhāvaḥ** — "Agni shining in a special way; its derivation is *viśiṣṭā bhāḥ vibhāḥ*."
-- **varūtham** — "The word *varūtha* is read among the words for house. In ordinary usage it means 'chariot'. The Nirukta (Ni. 3-4 as read [?]) reads twenty-two words beginning with *gṛhanāmāny uttarāṇi* as names of a house. Here the word has the sense 'house, which wards off undesired things'."
+- **varūtham** — "The word *varūtha* is read among the words for house. In ordinary usage it means 'chariot'. The Nirukta (Ni. 3-13) reads twenty-two words beginning with *gṛhanāmāny uttarāṇi* as names of a house. Here the word has the sense 'house, which wards off undesired things'."
 - **dhiyāvasuḥ** — "*Karmaṇā buddhyā vā prāptadhano 'gniḥ*: Agni, who gains complete lordship by action or by intelligence. In the compound-explanation *dhiyā vasu yasya* the loss of the third-case ending is only Vedic."
 - **makṣu jagamyāt** — "*Śīghram āgacchatu*: a verb-form from the root *gam*."
 
 **Vyākaraṇa-prakriyā** *(pp. 437–439 — grammar pages, noted briefly)*
 - **bhava**: *bhū sattāyām*; *loṭ* second singular; *dvyaco 'tas…*; *dyaucotiśrīḥ*… [as printed: *dvyacotastiṅaḥ*]: final lengthening in the Saṃhitā.
-- **varūtham**: *vṛñ varaṇe*; *jyāvṛñbhyām ūthan* (Uṇ. 2-… as read [?]): *ūthan*; *guṇa*; *uraṇ raparaḥ*; *nit*: initial-acute.
+- **varūtham**: *vṛñ varaṇe*; *jyāvṛñbhyām ūthan* (Uṇ. 2-163 as printed here; the tail prints 2-6): *ūthan*; *guṇa*; *uraṇ raparaḥ*; *nit*: initial-acute.
 - **gṛṇate**: *gṝ śabde* (here in the sense of praise); *śatṛ*; *kryādibhyaḥ śnā*; *prādīnāṃ hrasvaḥ*; *śatṛ* is *jit*-like: *śnābhyastayor ātaḥ*: the *ā* of *śnā* dropped; *ṇatva* for the *n* after *ṛ*; *śaturanumo nadyajādī*: ending acute.
-- **vibhāvaḥ**: *viśiṣṭā bhāḥ vibhāḥ*; *bhā dīptau*; *ato manin…*: *viṭ*; *vibhāḥ asya asti*: *matup*; *māduḥ upadhāyāś ca matoḥ*: *v*; vocative: *matuvasoruḥ sambuddhau*: *ru*; *āmantritasya ca*: *nighāta*.
-- **maghavadbhyaḥ**: *maghavā bahulam* (Pā. 6-4-128): *tṛ* substitute for the end of *maghavan*; the *ṛ* of *tṛ* is *it*-marked and so dropped; *nānubandhakṛtam anekālśatvam* (*paribhāṣā*): the substitute does not replace the whole by reason of the marker; so it is an *anta*-substitute (*alo 'ntyasya*).
+- **vibhāvaḥ**: *viśiṣṭā bhāḥ vibhāḥ*; *bhā dīptau*; *ato manin…* (Pā. 3-2-74): *vic*; *vibhāḥ asya asti*: *matup*; *mādupadhāyāś ca matoḥ* (Pā. 8-2-9): *v*; vocative: *matuvaso ruḥ sambuddhau* (Pā. 8-3-1): *ru*; *āmantritasya ca* (Pā. 8-1-19): *nighāta*.
+- **maghavadbhyaḥ**: *maghavā bahulam* (Pā. 6-4-128): *tṛ* substitute for the end of *maghavan*; the *ṛ* of *tṛ* is *it*-marked and so dropped; *nānubandhakṛtam anekāltvam* (*paribhāṣā* 6): the substitute does not replace the whole by reason of the marker; so it is an *anta*-substitute (*alo 'ntyasya*, Pā. 1-1-52).
 - **uruṣya**: the root *uruṣya* in the sense of protection; *loṭ* second singular; at the head of the pāda: no *nighāta*.
 - **makṣū**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
 - **dhiyāvasuḥ**: bahuvrīhi; the instrumental ending not dropped in the Veda; *sāvekācas tṛtīyādiḥ*: the ending's acute; end-acute; *bahuvrīhau prakṛtyā pūrvapadam*: the first member's accent stays.
 - **jagamyāt**: *gamḷ gatau*; *liṅ* third singular; *bahulaṃ chandasi*: *śap* → *ślu*; *ślau*: doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*: *j*; *yāsuṭ*: *yāsuṭ parasmaipadeṣūdāttaḥ…*; *sulopa*; *liṅaḥ salopo 'nantyasya*: the *s* of *yāsuṭ* and the final *s* dropped; *nighāta*. **|| 9 ||**
 
-**Closing note** *(p. 439, printed large)* — "**ಐವತ್ತ ಎಂಟನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-eighth sūkta is ended."
+**Closing note** *(p. 439, printed large)* — "**ಐವತ್ತ ಎಂಟನೆಯ ಸೂಕ್ತ ಸಮಾಪ್ತವು**" — "The fifty-eighth sūkta is ended."
 
 ---
 
