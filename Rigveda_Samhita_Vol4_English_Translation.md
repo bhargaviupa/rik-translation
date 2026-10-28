@@ -2615,51 +2615,72 @@ Numerals are small; a rule is given a number only where I read it.
 
 ### Rik 36.1 (pp. 178–182, PDF 192–196)
 
-**Saṃhitā-pāṭha** *(p. 178; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 178)*
 
-> **प्र वो यह्वं पुरूणां विशां देवयतीनाम् ।**
-> **अग्निं सूक्तेभिर्वचोभिरीमहे यं सीमिदन्य ईळते ॥ १ ॥**
+> प्र वो॑ य॒ह्वं पु॑रू॒णां वि॒शां दे॑वय॒तीनां॑ ।
+> अ॒ग्निं सू॒क्तेभि॒र्वचो॑भिरीमहे॒ यं सी॒मिद॒न्य ईळ॑ते ॥ १ ॥
 
-*pra vo yahvaṃ purūṇāṃ viśāṃ devayatīnām |*
-*agniṃ sūktebhir vacobhir īmahe yaṃ sīm idanya īḷate || 1 ||*
+*prá vo yahváṃ purūṇā́ṃ viśā́ṃ devayatī́nāṃ |*
+*agníṃ sūktébhir vácobhir īmahe yáṃ sīm íd anyá ī́ḷate || 1 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print has no verse number after the Saṃhitā here, only ॥.)*
 
 *(Reading note, written after viewing the Pada: the Saṃhitā's last word-run "idanya" is the Pada's* it | anye*; the Saṃhitā joins them without sandhi change.)*
+
+### Page 179
 
 **Pada-pāṭha** *(p. 179)*
 
 > प्र । वः । यह्वम् । पुरूणाम् । विशाम् । देवऽयतीनाम् ॥
-> अग्निम् । सुऽउक्तेभिः । वचःऽभिः । ईमहे । यम् । सीम् । इत् । अन्ये । ईळते ॥ १ ॥
+> अग्निम् । सुऽउक्तेभिः । वचःऽभिः । ईमहे । यम् । सीम् । इत् । अन्ये । ईळते ॥ ११ ॥
 
 *pra | vaḥ | yahvam | purūṇām | viśām | deva-yatīnām ||*
-*agnim | su-uktebhiḥ | vacaḥ-bhiḥ | īmahe | yam | sīm | it | anye | īḷate || 1 ||*
+*agnim | su-uktebhiḥ | vacaḥ-bhiḥ | īmahe | yam | sīm | it | anye | īḷate || 11 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 179; the first half in full, the grammatical tail characterized)*
+*(The Pada closes "॥ ११ ॥" as printed, for ॥ १ ॥.)*
 
-> हे ऋत्विग्यजमानाः देवयतीनां देवान्कामयमानानां पुरूणां बहूनां विशां प्रजारूपाणां वो युष्माकमनुग्रहाय यह्वं महान्तम् । यह्वो [?] महन्नामसु पाठात् । अग्निं सूक्तेभिर्वचोभिः सूक्तरूपैर्वाक्यैः प्रेमहे । प्रकर्षेण याचामहे । ईमहे याञ्चाकर्मसु पाठात् । अन्ये इदन्येऽप्यृषयो यमग्निं सीं सर्वत ईळते स्तुवन्ति । तमग्निमिति पूर्वत्रान्वयः ॥
+**Sāyaṇa-bhāṣya** *(p. 179, in full)*
 
-*he ṛtvigyajamānāḥ devayatīnāṃ devān kāmayamānānāṃ purūṇāṃ bahūnāṃ viśāṃ prajārūpāṇāṃ vo yuṣmākam anugrahāya yahvaṃ mahāntam | yahvo [?] mahannāmasu pāṭhāt | agniṃ sūktebhir vacobhiḥ sūktarūpair vākyaiḥ pra īmahe | prakarṣeṇa yācāmahe | īmahe yācñākarmasu pāṭhāt | anye idanye 'py ṛṣayo yam agniṃ sīṃ sarvata īḷate stuvanti | tam agnim iti pūrvatrānvayaḥ ||*
+> हे ऋत्विग्यजमानाः देवयतीनां देवान्कामयमानानां पुरूणां बहूनां विशां प्रजारूपाणां वो युष्माकमनुग्रहाय यह्वं महान्तम् । यह्वो विवक्षित इति महन्नामसु पाठात् । अग्निं सूक्तेभिर्वचोभिः सूक्तरूपैर्वाक्यैः प्रेमहे । प्रकर्षेण याचामहे । ईमहे यामीति याच्ञाकर्मसु पाठात् । अन्ये इदन्येऽप्यृषयो यमग्निं सीं सर्वत ईळते स्तुवन्ति । तमग्निमिति पूर्वत्रान्वयः ॥
 
-**Translation:** "O priests and sacrificers! For the favour of you, *devayatīnām* — who desire the gods — *purūṇām* — many — *viśām* — [who are] the people — *yahvam*, the great [one] (since *yahva* is read among the names for 'great'): Agni *pra īmahe* — we beg earnestly — *sūktebhir vacobhiḥ*, with words in the form of *sūktas* (since *īmahe* is read among the verbs of begging). *Anye it* — other ṛṣis too — *yam agniṃ sīm īḷate* — praise on all sides the Agni whom [we beg]: 'that Agni' connects with what went before."
+*he ṛtvigyajamānāḥ devayatīnāṃ devānkāmayamānānāṃ purūṇāṃ bahūnāṃ viśāṃ prajārūpāṇāṃ vo yuṣmākamanugrahāya yahvaṃ mahāntam | yahvo vivakṣita iti mahannāmasu pāṭhāt | agniṃ sūktebhirvacobhiḥ sūktarūpairvākyaiḥ premahe | prakarṣeṇa yācāmahe | īmahe yāmīti yācñākarmasu pāṭhāt | anye idanye 'pyṛṣayo yamagniṃ sīṃ sarvata īḷate stuvanti | tamagnimiti pūrvatrānvayaḥ ‖*
 
-**Grammar within the bhāṣya** *(pp. 179, characterized)*: *purūṇām* (*nāmanyatarasyām* — the *nām* is optionally acute after a stem final-acute); *viśām* (*sāvekāca…* — the ending after a one-vowelled base is acute); *devayatīnām* (*devān ātmana icchantyaḥ*; *supa ātmanaḥ kyac*; before *kyac* in the Veda neither *ī* nor the lengthening is made, by *na chandasy aputrasya*, a point the print supports from *aśvāghasyāt*; *śatṛ*; *śap*, being *pit*, unaccented; the *śatṛ* is acute by the single-substitute rule with the *kyac*; *ṅīp* by *ugitaś ca*; the augment *num* is not added, "the teaching of augments being not constant"); *sūktebhiḥ* (*vaca paribhāṣaṇe*, the suffix *ktic* in a name; *saṃprasāraṇa*; the later member final-acute); *īḷate* (*īḍa stutau*, *adādi*; *śap* lost; the root's accent stays; no lowering, because the relative *yam* is connected: *yadvṛttayogād anighātaḥ*).
+**Translation:** "O priests and sacrificers! For the favour of you, *devayatīnām* — who desire the gods — *purūṇām* — many — *viśām* — [who are] the people — *yahvam*, the great [one] (since *yahva* is read among the names for 'great', as *vivakṣita* is): Agni *pra īmahe* — we beg earnestly — *sūktebhir vacobhiḥ*, with words in the form of *sūktas* (since *īmahe* is read with *yāmi* among the verbs of begging). *Anye it* — other ṛṣis too — *yam agniṃ sīm īḷate* — praise on all sides the Agni whom [we beg]: 'that Agni' connects with what went before."
+
+**Grammatical tail of the bhāṣya** *(p. 179)*
+
+> पुरूणाम् । नामन्यतरस्यामिति नाम उदात्तत्वम् । विशाम् । सावेकाच इति विभक्तेरुदात्तत्वम् । देवयतीनाम् । देवानात्मन इच्छन्त्यो देवयन्त्यः । सुप आत्मनः क्यच् । न च्छन्दस्यपुत्रस्येतीत्वस्येव दीर्घस्यापि प्रतिषेधः । अश्वाघस्यादिति पुनरात्वविधानाज्ज्ञापकात् । क्यजन्ताल्लटः शतृ । कर्तरि शप् । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेण क्यचा सहैकादेश एकादेश उदात्तेनोदात्त इति शतुरुदात्तत्वम् । उगितश्चेति ङीप् । अनित्यमागमशासनमिति वचनान्नुमभावः । एकादेशस्वरस्य पूर्वत्रासिद्धत्वं नेष्यत इति वचनात् । पा. ८-२-६-१ । शतुरुदात्तत्वं सिद्ध[?]न्वेति शतुरनुम इति नद्या उदात्तत्वम् । सूक्तेभिः । वक्तेः क्तिच्क्तौ च संज्ञायामिति क्तः । थाथादिनोत्तरपदान्तोदात्तत्वम् । ईळते । ईड स्तुतौ । अदादित्वाच्छपो लुक् । अनुदात्तेत्त्वाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः ॥
+
+*purūṇām | nāmanyatarasyāmiti nāma udāttatvam | viśām | sāvekāca iti vibhakterudāttatvam | devayatīnām | devānātmana icchantyo devayantyaḥ | supa ātmanaḥ kyac | na cchandasyaputrasyetītvasyeva dīrghasyāpi pratiṣedhaḥ | aśvāghasyāditi punarātvavidhānājjñāpakāt | kyajantāllaṭaḥ śatṛ | kartari śap | śapaḥ pittvādanudāttatvam | śatuśca lasārvadhātukasvareṇa kyacā sahaikādeśa ekādeśa udāttenodātta iti śaturudāttatvam | ugitaśceti ṅīp | anityamāgamaśāsanamiti vacanānnumabhāvaḥ | ekādeśasvarasya pūrvatrāsiddhatvaṃ neṣyata iti vacanāt | pā. 8-2-6-1 | śaturudāttatvaṃ siddha[?]nveti śaturanuma iti nadyā udāttatvam | sūktebhiḥ | vakteḥ kticktau ca saṃjñāyāmiti ktaḥ | thāthādinottarapadāntodāttatvam | īḷate | īḍa stutau | adāditvācchapo luk | anudāttettvāllasārvadhātukānudāttatve dhātusvaraḥ | yadvṛttayogādanighātaḥ ‖*
+
+*(Sense: purūṇām — the nām is acute by nāmanyatarasyām; viśām — the ending acute by sāvekācaḥ; devayatīnām — 'wishing the gods for themselves'; kyac; na chandasy aputrasya forbids the lengthening as well as the ī, as shown by the jñāpaka of aśvāghasyāt; śatṛ, śap unaccented as pit; the single substitute of śatṛ with kyac is acute; ṅīp by ugitaś ca; no num, augments not being constant; the single-substitute accent is not treated as asiddha (Pā. 8-2-6-1 as printed); the nadī is acute by śaturanumaḥ; sūktebhiḥ — kta by ktic ktau ca saṃjñāyām, final acute by thāthādi; īḷate — luk of śap, the root accent, no nighāta because of yad. One crowded group after* śaturudāttatvaṃ *reads* siddha…nveti*, not settled.)*
 
 **Pratipadārtha** *(pp. 179–180)* — "**devayatīnām** — (O priests and sacrificers) who desire the gods, by worship and the like (for their favour); **purūṇām** — many; **viśām** — who are in the form of the people; **vaḥ** — your (for the sake of favour); **yam** — whom; **anye it** — other ṛṣis also; **sīm** — everywhere; **īḷate** — [are] praising [such]; **yahvam** — the excellent; **agnim** — Agni; **sūktebhiḥ** — in the form of *sūktas*; **vacobhiḥ** — with words of praise; **pra īmahe** — we pray earnestly."
 
 **Bhāvārtha** *(p. 180)* — "O priests who perform the sacrifice, and sacrificers, you, the many people, delight the deities by worship and the like and look for their favour. For all of you, at the sacrifice, the favour of Agni, the representative and the best, must come first. All the ṛṣis everywhere praise that Agni. We too, with excellent words of praise in the form of *sūktas*, pray that he, who gives you what you desire, should favour you."
 
+### Page 180
+
 **English Translation (the source's own, p. 180)** — "(O, priests and sacrificers) let us **priase** [sic] the mighty Agni with sacred hymns, the same Agni whom others also praise and for the **benifit** [sic] of you who are many and who desire to worship the gods." *(Printed so, with the "(O, priests and sacrificers)" in brackets.)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 180–181**
-- "The ṛṣi of this sūkta is Kaṇva, the son of Ghora. This ṛṣi is the ṛṣi of the sūktas 36–43 of this first maṇḍala and of the 4th [?] sūkta of the 9th [?] maṇḍala [the numerals of this sentence are small and not secure]. In all there are 101 [?] ṛks connected with this ṛṣi."
-- **yahvam** — "since *yahvaḥ* is read among the twenty-five names for 'great' beginning *mahat*, *brahma* (Ni. 3-13 [?]), *yahvam* means the great, the larger."
+- "The ṛṣi of this sūkta is Kaṇva, the son of Ghora. This ṛṣi is the ṛṣi of the sūktas 36–43 of this first maṇḍala and of the 94th sūkta of the 9th maṇḍala. In all there are 101 ṛks connected with this ṛṣi."
+- **yahvam** — "since *yahvaḥ* is read among the twenty-five names for 'great' beginning *mahat*, *bradhna* (Ni. 3-13), *yahvam* means the great, the larger."
 - **devayatīnām** = *devān kāmayamānānām*: "of those who wish for the deities, who seek to praise the deities."
-- **īmahe** — "*īmahe* is read among the seventeen words of the sense of begging beginning *yāmi* (Ni. 3-19 [?]); so *īmahe* means 'we beg, we pray'."
-- **sīm** — "'*sīm iti parigrahārthīyo vā padapūraṇo vā*' (Ni. 1-7 [?]), says Yāska — '*sīm* is [a word] of the sense of "all round", or a mere filler of the pāda'; so here this word has no special principal meaning; it is used to fill out the pāda." *(Translation of the Nirukta quotation mine and tentative.)*
+- **īmahe** — "*īmahe* is read among the seventeen words of the sense of begging beginning *yāmi* (Ni. 3-19); so *īmahe* means 'we beg, we pray'."
+
+### Page 181
+
+- **sīm** — "'*sīm iti parigrahārthīyo vā padapūraṇo vā*' (Ni. 1-7), says Yāska — '*sīm* is [a word] of the sense of "all round", or a mere filler of the pāda'; so here this word has no special principal meaning; it is used to fill out the pāda." *(Translation of the Nirukta quotation mine and tentative.)*
 
 **Vyākaraṇa-prakriyā** *(pp. 181–182, PDF 195–196 — grammar pages, noted briefly)*
-- **purūṇām** (p. 181): after *puru*, *ām*; *hrasvanadyāpo nuṭ* — ह्रस्वनद्यापो नुट् — the augment *nuṭ*; *nāmi* — नामि — lengthening of the preceding vowel before *nām*; *nāmanyatarasyām* — नाम्यन्यतरस्याम् — the *nām* is optionally acute after a final-acute stem ending in a short vowel; "though the lengthening comes first because it is the later rule, in words like *purutamaḥ* the *puru* is short-final when *matup* follows, being formed by the Uṇādi suffix *u* [*pyabhidi*…, Uṇ. 1-[?]], and is final-acute; so the *nām* after it is acute by the rule above."
-- **viśām**: root *viśa praveśane*, *kvip*, then *āṇ viṭ* [as read] — in the seventh/genitive plural *sup* follows and the base is of one vowel; *sāvekācas tṛtīyādir vibhaktiḥ* — सावेकाचस्तृतीयादिर्विभक्तिः — an ending from the third case on after a one-vowelled base [when it is not … the *sāva*] is acute: *ām* is acute.
-- **devayatīnām** (pp. 181–182): *devān ātmana icchantyaḥ devayantyaḥ*; *supa ātmanaḥ kyac* — सुप आत्मनः क्यच् — *kyac* optionally after a *sup*-word in the object of the sense *icchati*; *deva + śas + ya*; since it ends in *kyac* it is called a *dhātu*; the *sup* [*śas*], which belongs to the base, is lost by *supo dhātuprātipadikayoḥ*; *deva + ya*; now *kyaci ca* — क्यचि च — would give *ī*, and *akṛtsārvadhātukayor dīrghaḥ* the lengthening before a *yādi* suffix; the print says both are blocked by *na chandasy aputrasya* — न छन्दस्यपुत्रस्य — in the Veda no *ī* or lengthening for an *a*-ending base other than *putra* before *kyac*; "though in the Aṣṭādhyāyī only the *ītva* was taught earlier, this blocking is to be understood for it only; but *aśvāghasyāt* — अश्वाघस्यात् — in the Veda *ā* for *aśva* and *agha* before *kyac*, as in *aśvāyantaḥ*, *aghāyavaḥ* — would be pointless if *na chandasi* blocked it; so *na chandasi* must block both [the *ītva* and the lengthening] and this is established by that *jñāpaka*"; *laṭ*, *śatṛ*, *kartari śap*; *śap* is *pit*, so *anudātta* by *anudāttau suppitau*; since *śatṛ* is *lasārvadhātuka*, the accent *tāsyanudāttenṅidadupadeśāt…* applies; the *kyac* is acute by the *cit* accent; the single substitute of *a* and the *a* of *śatṛ* is [acute] by *ekādeśa udāttenodāttaḥ*; then *ugitaś ca* — *ṅīp* in the feminine; the print discusses *ekādeśa udāttenodāttaḥ* in the second *pāda* of the eighth *adhyāya* and the rule *śaturanumo nadyajādī* in the sixth, and *pūrvatrāsiddham* (8-2-1): when the work of the sixth *adhyāya* is done, the later [eighth-*adhyāya*] rules are *asiddha*, so one would expect the single-substitute accent to be *asiddha*; but the Mahābhāṣya's passage on *svarito vānudātte padādau* — "*ekādeśasvaro 'ntaraṅgaḥ …*" [as read, crowded] — says that the single-substitute accent is established when the accent of the *śatṛ* is made the cause; and since the word ends in *śatṛ* it is final-acute; so *śaturanumo nadyajādī* gives the acute to the ending.
+- **purūṇām** (p. 181): after *puru*, *ām*; *hrasvanadyāpo nuṭ* — ह्रस्वनद्यापो नुट् — (Pā. 7-1-54) the augment *nuṭ*; *nāmi* — नामि — (Pā. 6-4-3) lengthening of the preceding vowel before *nām*; *nāmanyatarasyām* — नाम्यन्यतरस्याम् — (Pā. 6-1-177) the *nām* is optionally acute after a final-acute stem ending in a short vowel; "though the lengthening comes first because it is the later rule, in words like *purutamaḥ* the *puru* is short-final when *matup* follows, being formed by the Uṇādi suffix *u* [*pṝbhidi—* [?], Uṇ. 1-23], and is final-acute; so the *nām* after it is acute by the rule above."
+- **viśām**: root *viśa praveśane*, *kvip*, then *āṇ viṭ* [as read] — in the seventh/genitive plural *sup* follows and the base is of one vowel; *sāvekācas tṛtīyādir vibhaktiḥ* — सावेकाचस्तृतीयादिर्विभक्तिः — (Pā. 6-1-168) an ending from the third case on after a one-vowelled base [when it is not … the *sāva*] is acute: *ām* is acute.
+- **devayatīnām** (pp. 181–182): *devān ātmana icchantyaḥ devayantyaḥ*; *supa ātmanaḥ kyac* — सुप आत्मनः क्यच् — (Pā. 3-1-8) *kyac* optionally after a *sup*-word in the object of the sense *icchati*; *deva + śas + ya*; since it ends in *kyac* it is called a *dhātu*; the *sup* [*śas*], which belongs to the base, is lost by *supo dhātuprātipadikayoḥ*; *deva + ya*; now *kyaci ca* — क्यचि च — (Pā. 7-4-33) would give *ī*, and *akṛtsārvadhātukayor dīrghaḥ* (Pā. 7-4-25) the lengthening before a *yādi* suffix; the print says both are blocked by *na chandasy aputrasya* — न छन्दस्यपुत्रस्य — (Pā. 7-4-35) in the Veda no *ī* or lengthening for an *a*-ending base other than *putra* before *kyac*; "though in the Aṣṭādhyāyī only the *ītva* was taught earlier, this blocking is to be understood for it only; but *aśvāghasyāt* — अश्वाघस्यात् — (Pā. 7-4-77 [as printed; for 7-4-37]) in the Veda *ā* for *aśva* and *agha* before *kyac*, as in *aśvāyantaḥ*, *aghāyavaḥ* — would be pointless if *na chandasi* blocked it; so *na chandasi* must block both [the *ītva* and the lengthening] and this is established by that *jñāpaka*";
+
+### Page 182
+
+(continued, p. 182) *laṭ*, *śatṛ*, *kartari śap*; *śap* is *pit*, so *anudātta* by *anudāttau suppitau*; since *śatṛ* is *lasārvadhātuka*, the accent *tāsyanudāttenṅidadupadeśāt…* applies; the *kyac* is acute by the *cit* accent; the *a* of *kyac* with the *a* of *śap* becomes the later form by *ato guṇe* (Pā. 6-1-97), acute by *ekādeśa udāttena*, and again the later form [with *śatṛ*], likewise acute, so in *devayat* the *śatṛ* stands acute; then *ugitaś ca* (Pā. 6-3-45 [as printed; for 4-1-6]) — *ṅīp* in the feminine; the print notes that *ekādeśa udāttenodāttaḥ* (Pā. 8-2-5) is in the second *pāda* of the eighth *adhyāya*, so that when the work of the seven *adhyāyas* is done by *śaturanumo nadyajādī* (Pā. 6-1-173), *pūrvatrāsiddham* (Pā. 8-2-1): when the work of the sixth *adhyāya* is done, the later [eighth-*adhyāya*] rules are *asiddha*, so one would expect the single-substitute accent to be *asiddha*; but the Mahābhāṣya on *svarito vānudātte padādau* (Pā. 8-2-6) — "*ekādeśasvaro 'ntaraṅgaḥ ayavāyāvekādeśa śatṛsvaraikānudāttasarvānudāttārtham*" [as printed] — says that the single-substitute accent is established when the accent of the *śatṛ* is made the cause; and since the word ends in *śatṛ* it is final-acute; so *śaturanumo nadyajādī* gives the acute to the ending.
 - **sūktebhiḥ** (p. 182): root *vaca paribhāṣaṇe*; *ktic ktau ca saṃjñāyām* — क्तिच्क्तौ च संज्ञायाम् — *ktic*; *vacisvapiyajādīnāṃ kiti* — *saṃprasāraṇa*; *su* as preverb; *su + ukta*; *savarṇadīrgha*; *coḥ kuḥ* — *c* → *k*: *sūkta*; *bhis* does not take *ais*, by the Vedic *bahulam*; *thāthaghañktājabitrakāṇām*: final-acute of the later member.
 - **īḷate**: root *īḍa stutau*, *adādi*, *anudāttet*; the *ātmanepada* ending *ta*, *e* by *ṭita ātmanepadānāṃ ṭere*; *śap*; the *ḍ* → *ḷ* in the Bahvṛca tradition (*ajmadhyasthaḍakārasya…*, as above at Sūkta 33); *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; the *lasārvadhātuka* *ta* stands after an *anudāttet* root, hence *tāsyanudāttenṅidadupadeśāt…* makes it unaccented; but the relative word *yam* is connected, so by *yadvṛttānityam* [*yadvṛttayogād anighātaḥ*] the lowering is prevented and the root's accent stands. Rik 1 ends here (*|| 1 ||*).
 
