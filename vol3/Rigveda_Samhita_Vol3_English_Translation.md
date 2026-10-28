@@ -8208,38 +8208,63 @@ the restriction "अव्यये नञ्कुनिपातानाम�
 
 ---
 
-### Pages 334–336 — Sūkta 25, Rik 17
+### Page 334 (lower) — Sūkta 25, Rik 17
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> सं नु वोचावहै पुनर्यतो मे मध्वाभृतम् ।
-> होतेव क्षदसे प्रियम् ॥ १७ ॥
+> सं नु वो॑चावहै॒ पुन॒र्यतो॑ मे॒ मध्वाभृ॑तं ।
+> होते॑व॒ क्षद॑से प्रि॒यं ॥१७॥
+>
+> *saṃ nú vocāvahai púnaryáto me mádhvā́bhṛtaṃ |*
+> *hóteva kṣádase priyáṃ ||17||*
 
-*saṃ nu vocāvahai punar yato me madhv ābhṛtam | hoteva kṣadase priyam || 17 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> सम् । नु । वोचावहै । पुनरिति । यतः । मे । मधु । आऽभृतम् ॥ होताऽइव । क्षदसे । प्रियम् ॥ १७ ॥
+> सं । नु । वोचावहै । पुनः । यतः । मे । मधु । आऽभृतं । होताऽइव । क्षदसे । प्रियं ॥१७॥
 
-*sam | nu | vocāvahai | punar iti | yataḥ | me | madhu | ā-bhṛtam || hotā-iva | kṣadase | priyam || 17 ||*
+> *saṃ | nu | vocāvahai | punaḥ | yataḥ | me | madhu | ā-bhṛtaṃ | hotā-iva | kṣadase | priyaṃ ‖17‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 335)*
+### Page 335 — Rik 17: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> यतो यस्मात्कारणान्मे मदर्थं मञ्जीवनार्थं मधुरं हविराभृतं अञ्जसेवाप्येकर्मणि [?] संपादितम् । अतः कारणाद्धोतेव होमकर्तेव त्वमपि प्रियं हविः क्षदसे । अश्नासि । पुनर्जठरे स्वीकारादूर्ध्वं तृप्तस्त्वं जीवन्नहं च नु अवश्यं सं वोचावहै । संभूय प्रियवार्तां करवावहै ॥ वोचावहै । ब्रूञो लोट्यस्य उत्तमपुरुषद्विवचनस्य वहि । ब्रुवो वचिः । पा. ३-४-५३ । अस्यतिवक्ति ख्यातिभ्योऽङ् । पा. ३-१-५२ । वचेरुम् । पा. ७-४-२० । मित्त्वादन्त्यादचः परः । गुणः । आतो दीर्घो ञ्ञि । लोटो लङ्वत् । अभृतम् । हृग्रहोर्भः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*yato yasmāt kāraṇān me madarthaṃ majjīvanārthaṃ madhuraṃ havir ābhṛtaṃ añjasevāpy ekarmaṇi [?] saṃpāditam | ataḥ kāraṇād dhoteva homakarteva tvam api priyaṃ haviḥ kṣadase | aśnāsi | punar jaṭhare svīkārād ūrdhvaṃ tṛptas tvaṃ jīvann ahaṃ ca nu avaśyaṃ saṃ vocāvahai | saṃbhūya priyavārtāṃ karavāvahai || vocāvahai | brūño loṭy asya uttamapuruṣadvivacanasya vahi | bruvo vaciḥ | pā. 3-4-53 | asyati vakti khyātibhyo 'ṅ | pā. 3-1-52 | vacer um | pā. 7-4-20 | mittvād antyād acaḥ paraḥ | guṇaḥ | āto dīrgho ñi | loṭo laṅvat | abhṛtam | hṛgrahor bhaḥ | gatir anantara iti gateḥ prakṛtisvaratvam ||*
+> यतो यस्मात्कारणान्मे मज्जीवनार्थं मधुरं हविराभृतं अंजःसवाख्ये कर्मणि संपादितं अतः कारणाद्धोतेव होमकर्तेव त्वमपि प्रियं हविः क्षदसे । अश्नासि । पुनर्हविःस्वीकारादूर्ध्वं तृप्तस्त्वं जीवन्नहं च नु अवश्यं सं वोचावहै । संभूय प्रियवार्तां करवावहै ॥ वोचावहै । लोडर्थे छांदसे लुङि ब्रुवो वचिः । अस्यतिवक्तीति च्लेरङादेशः । वच उमित्युमागमो गुणः । व्यत्ययेन टेरैत्वं । यद्वा । लोट एव लुङादेशः । स्थानिवद्भावादैत्वं । आभृतं । हृग्रहोर्भः । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं ॥
 
-**Translation:** "Since (*yataḥ*) a sweet oblation has been brought (*ābhṛtam*) for me, for the sake of my life, [and] prepared in the rite, therefore you also, like a *hotṛ* — an offerer of the oblation — eat (*kṣadase*, *aśnāsi*) the dear oblation. Afterwards, having received it in the belly, and you being satisfied and I alive, may we both (*nu*) surely converse together (*saṃ vocāvahai*) — [may we] exchange friendly words. *Vocāvahai*: *loṭ* of *brū*, first person dual *vahi*; *vac* substituted for *brū* by P. 2-4-53 [*brūño vaciḥ*]; *aṅ* for *cli* by P. 3-1-52 [*asyati-vakti-khyātibhyo 'ṅ*]; *um* augment by P. 7-4-20; since it is *mit* it comes after the last vowel; guṇa; lengthening by P. 3-4-… [*āto 'ḍitaḥ* / *āḍ uttamasya pic ca*]; *loṭ* like *laṅ*. *Ābhṛtam*: *ha* → *bha* by P. [*hṛgrahor bhaś chandasi*]; the *gati* keeps its accent." *(Grammar pages 336, noted briefly: the words treated are* vocāvahai *[*brūñ vyaktāyāṃ vāci*; *loṭ* in the Veda, 1st person dual *vahi* with *āṭ* by P. 3-4-92 *āḍ uttamasya pic ca*, and *ai* for the *i* by P. 3-4-93 *ete ai*; *vac* for *brū* before an *ārdhadhātuka* by P. 2-4-53; *aṅ* for *cli* by P. 3-1-52; the *um* augment, the guṇa, the lengthening of the stem's *a* by P. 7-3-101/6-3-111 *ato dīrgho yañi*; the sūtra P. 6-4-… *āto 'ḍitaḥ* for *ā*] and* ābhṛtam *[*ā* + *hṛñ haraṇe* + *kta*; *ha* → *bha* by *hṛgrahor bhaś chandasi*; *kta* is *kit*, so no guṇa; the *gati* *ā* keeps its accent, P. 6-2-49 *gatir anantaraḥ*, so *ābhṛtam* has first-syllable acute]; numerals as read, pointers only.)*
+> *yato yasmātkāraṇānme majjīvanārthaṃ madhuraṃ havirābhṛtaṃ aṃjaḥsavākhye karmaṇi saṃpāditaṃ ataḥ kāraṇāddhoteva homakarteva tvamapi priyaṃ haviḥ kṣadase | aśnāsi | punarhaviḥsvīkārādūrdhvaṃ tṛptastvaṃ jīvannahaṃ ca nu avaśyaṃ saṃ vocāvahai | saṃbhūya priyavārtāṃ karavāvahai ‖ vocāvahai | loḍarthe chāṃdase luṅi bruvo vaciḥ | asyativaktīti cleraṅādeśaḥ | vaca umityumāgamo guṇaḥ | vyatyayena ṭeraitvaṃ | yadvā | loṭa eva luṅādeśaḥ | sthānivadbhāvādaitvaṃ | ābhṛtaṃ | hṛgrahorbhaḥ | gatiranaṃtara iti gateḥ prakṛtisvaratvaṃ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 335)* **यतः (yataḥ)** — for which purpose | **मे (me)** — for my [livelihood] | **मधु (madhu)** — the sweet oblation | **आभृतम् (ābhṛtam)** — has been prepared | **अतः (ataḥ)** — for that very purpose | **होता इव (hotā iva)** — like the sacrificer who offers | **प्रियम् (priyam)** — the dear oblation | **क्षदसे (kṣadase)** — you eat | **पुनः (punaḥ)** — afterwards | **नु (nu)** — surely | **सं वोचावहै (saṃ vocāvahai)** — let both of us together converse in friendship.
+*(No numbers in this bhāṣya.)*
 
-**॥ Bhāvārthaḥ ॥** For my living I have offered you a sweet oblation. For that very purpose — like a *hotṛ* — please take it with pleasure. Afterwards, you [satisfied] and I [alive], let the two of us converse together in friendship.
+*Gist:* Since sweet oblation has been prepared for my life in the rite called *añjaḥsava*, you, like a hotṛ, eat the dear oblation; then, you satisfied and I alive, let us two surely speak together pleasantly.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **यतः (yataḥ)** — for which purpose (that is) | **मे (me)** — my (for life) | **मधु (madhu)** — sweet oblation | **आभृतं (ābhṛtaṃ)** — has been prepared | **अतः (ataḥ)** — (for that very purpose) | **होतेव (hoteva)** — like the performer of the homa (you too) | **प्रियं (priyaṃ)** — the dear oblation | **क्षदसे (kṣadase)** — you partake | **पुनः (punaḥ)** — afterwards (when you are satisfied and I am alive) | **नु (nu)** — surely | **सं वोचावहै (saṃ vocāvahai)** — let us both, together, hold pleasant converse.
+
+**॥ Bhāvārthaḥ ॥** For the sake of my living I have offered the oblation dear to you. For that very purpose you too partake of it gladly. Afterwards let us both together hold pleasant converse.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Let us together declare that my offering has been prepared and that you like the sacrificer (Hotri) accept the oblation which you like.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 335–336)* **वोचावहै** — here this dual-ended word suggests both the sacrificer, King Hariścandra, and Śunaḥśepa, who is bound to the post. For, as said before, Śunaḥśepa is praying to Varuṇa in this sūkta for release from his own bondage; so of the two who pray to Varuṇa Śunaḥśepa is one. Since in this rik the giving of the oblation is spoken of, the other is the sacrificer, King Hariścandra. Therefore Śunaḥśepa speaks of 'we two'. **मधु** — *madhuram*: sweet, tasty oblation, or food. **होतेव** — like the sacrificer who offers *homa* — 'eat the oblation as the sacrificer does' is the intention. **क्षदसे** — *aśnāsi*: eat.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**वोचावहै (vocāvahai)** — this dual word here indicates King Hariścandra, the sacrificer, and Śunaḥśepa, bound to the post. For it has been said before that Śunaḥśepa, bound to the post, is praying to Varuṇa in this sūkta for release from his bonds. So of the two who pray to Varuṇa, one is Śunaḥśepa. Since the offering of oblation is spoken of in this ṛk, the other is the sacrificer who offers the oblation, that is, King Hariścandra. Hence Śunaḥśepa has said "we two".
+
+### Page 336 — Rik 17: Special Topics (end), grammar
+
+**मधु (madhu)** — *madhuram*: sweet, delicious oblation, or food.
+
+**होतेव (hoteva)** — the sense is: like the sacrificer who performs the homa, you too eat the oblation.
+
+**क्षदसे (kṣadase)** — *aśnāsi*: eat, partake.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read at 450 dpi, v3a)*
+
+**वोचावहै (vocāvahai)** — *brūñ vyaktāyāṃ vāci*; by "छन्दसि लुङ्लङ्लिटः" (Pā. Sū. 3-4-6) *luṅ* in the sense of *loṭ*; first-person dual ātmanepada *vahi*; by "ब्रुवो वचिः" (Pā. Sū. 2-4-53) *vac* for the root before *luṅ*; by "अस्यतिवक्तिख्यातिभ्योऽङ्" (Pā. Sū. 3-1-52) *aṅ* for *cli*. With *vac* + *a* + *vahi*, by "वच उम्" (Pā. Sū. 7-4-20) the root takes the *um* augment before *aṅ*; being *mit*, it comes after the last vowel; with guṇa, *voca* + *vahi*; by "अतो दीर्घो यञि" (Pā. Sū. 7-3-101) lengthening; the *i* of the suffix becomes *ai*. Or: *luṅ* replaces *loṭ* itself; then by *sthānivadbhāva* it counts as *loṭ*, and by "एत ऐ" (Pā. Sū. 3-4-93) the *ai* comes: *vocāvahai*.
+
+**आभृतम् (ābhṛtam)** — the prefix *āṅ* is also called *gati*. *Hṛñ haraṇe*; *kta*; being *kit*, no guṇa. By "गतिरनन्तरः" (Pā. Sū. 6-2-49), before a *kta*-word in the passive sense, an immediately preceding *gati* keeps its accent; so here the *gati*'s udātta remains, and *ābhṛtam* is initially acute. For the root's *h*, by "हृग्रहोर्भश्छन्दसि" *bh* comes: *ābhṛtam*. ॥१७॥ *(A printed rule follows; Ṛk 18 begins on the same page.)*
+
+*(The numbers on p. 336 were read on 450-dpi line crops at line width; all glyphs are clear.)*
 
 ---
 
