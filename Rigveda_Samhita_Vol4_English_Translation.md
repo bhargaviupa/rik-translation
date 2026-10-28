@@ -2756,13 +2756,15 @@ Numerals are small; a rule is given a number only where I read it.
 
 ### Rik 36.3 (pp. 186–189, PDF 200–203)
 
-**Saṃhitā-pāṭha** *(p. 186; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 186)*
 
-> **प्र त्वा दूतं वृणीमहे होतारं विश्ववेदसम् ।**
-> **महस्ते सतो वि चरन्त्यर्चयो दिवि स्पृशन्ति भानवः ॥ ३ ॥**
+> प्र त्वा॑ दू॒तं वृ॑णीमहे॒ होता॑रं वि॒श्ववे॑दसं ।
+> म॒हस्ते॑ स॒तो वि च॑रन्त्य॒र्चयो॑ दि॒वि स्पृ॑शन्ति भा॒नवः॑ ॥
 
-*pra tvā dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam |*
-*mahas te sato vi caranty arcayo divi spṛśanti bhānavaḥ || 3 ||*
+*prá tvā dūtáṃ vṛṇīmahe hótāraṃ viśvávedasaṃ |*
+*mahás te sató ví caranty arcáyo diví spṛśanti bhānávaḥ ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print gives no verse number after the Saṃhitā, only ॥; the Pada closes ॥ ३ ॥.)*
 
 **Pada-pāṭha** *(p. 186)*
 
@@ -2772,7 +2774,9 @@ Numerals are small; a rule is given a number only where I read it.
 *pra | tvā | dūtam | vṛṇīmahe | hotāram | viśva-vedasam ||*
 *mahaḥ | te | sataḥ | vi | caranti | arcayaḥ | divi | spṛśanti | bhānavaḥ || 3 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 187; the first half in full, the grammatical tail characterized)*
+### Page 187
+
+**Sāyaṇa-bhāṣya** *(p. 187, in full)*
 
 > हे अग्ने होतारं होमनिष्पादकमाह्वातारं वा विश्ववेदसं सर्वज्ञं दूतं देवानां दूत्ये प्रवृत्तम् । अग्निर्वै देवानां दूत आसीदिति श्रुत्यन्तरात् । तादृशं त्वां वृणीमहे । प्रकर्षेण वरणं कुर्मः । महो महतः सतो नित्यं वर्तमानस्य ते तवार्चयो दीप्तयो वि चरन्ति । विविधं प्रचरन्ति । भानवस्त्वदीया रश्मयो दिवि द्युलोके स्पृशन्ति । तत्रत्यान्प्राणिनः प्रकाशयन्तीत्यर्थः ॥
 
@@ -2780,13 +2784,21 @@ Numerals are small; a rule is given a number only where I read it.
 
 **Translation:** "O Agni — the *hotṛ*, the accomplisher of the offering or the caller; *viśvavedasam*, all-knowing; the *dūta*, engaged in the messenger's work of the gods ('Agni was the messenger of the gods', so another Vedic text) — such a one we *pra vṛṇīmahe*, choose earnestly. *Mahaḥ sataḥ te* — of you, great and ever existing — *arcayaḥ*, the flames, *vi caranti* — move about in many ways; *bhānavaḥ*, your rays, *divi spṛśanti* — touch the heavenly world; they illumine the beings there."
 
-**Grammar within the bhāṣya:** the bhāṣya of Rik 3 on p. 187 has its grammatical tail in the lines after the main sense: *viśvavedasam* (*viśvāni vetti*, the Uṇādi *asun*, with the first-member accent; or *veda* = wealth, a *bahuvrīhi* with *bahuvrīhau viśvaṃ saṃjñāyām*, so the first member is final-acute); *mahaḥ* (*maha pūjāyām*, *kvip*; the genitive ending after a one-vowelled base is acute by *sāvekāca…*; or from *mahat*, with the Vedic loss of *āt*); *sataḥ* (*as bhuvi*, *śatṛ*, *śnasor allopaḥ*, and *śaturanumo nadyajādī* for the ending's acute); *divi* (*ūḍidam…*, the ending acute). These are taken up again in the Vyākaraṇa-prakriyā below.
+**Grammatical tail of the bhāṣya** *(p. 187)*
+
+> विश्ववेदसम् । विश्वानि वेत्तीति विश्ववेदाः । असुन् । मरुद्वृधादित्वात्पूर्वपदान्तोदात्तत्वम् । यद्वा । वेद इति धननाम । विश्वं वेदो धनं यस्य । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वम् । महः । मह पूजायाम् । क्विप्चेति क्विप् । सावेकाच इति जस उदात्तत्वम् । यद्वा । महच्छब्देऽच्छब्दलोपश्छान्दसः । सतः । अस्तेः शतरि श्नसोरल्लोप इत्यकारलोपः । शतुरनुम इति विभक्तेरुदात्तत्वम् । दिवि । ऊडिदमिति विभक्तेरुदात्तत्वम् ॥
+
+*viśvavedasam | viśvāni vettīti viśvavedāḥ | asun | marudvṛdhāditvātpūrvapadāntodāttatvam | yadvā | veda iti dhananāma | viśvaṃ vedo dhanaṃ yasya | bahuvrīhau viśvaṃ saṃjñāyāmiti pūrvapadāntodāttatvam | mahaḥ | maha pūjāyām | kvipceti kvip | sāvekāca iti jasa udāttatvam | yadvā | mahacchabde 'cchabdalopaśchāndasaḥ | sataḥ | asteḥ śatari śnasorallopa ityakāralopaḥ | śaturanuma iti vibhakterudāttatvam | divi | ūḍidamiti vibhakterudāttatvam ‖*
+
+*("jasa" is printed (ಜಸ) here and in the grammar notes on pp. 188–189 where the genitive ending ṅas is meant. Sense:)* *viśvavedasam* (*viśvāni vetti*, the Uṇādi *asun*, with the first-member accent; or *veda* = wealth, a *bahuvrīhi* with *bahuvrīhau viśvaṃ saṃjñāyām*, so the first member is final-acute); *mahaḥ* (*maha pūjāyām*, *kvip*; the genitive ending after a one-vowelled base is acute by *sāvekāca…*; or from *mahat*, with the Vedic loss of *āt*); *sataḥ* (*as bhuvi*, *śatṛ*, *śnasor allopaḥ*, and *śaturanumo nadyajādī* for the ending's acute); *divi* (*ūḍidam…*, the ending acute). These are taken up again in the Vyākaraṇa-prakriyā below.
 
 **Pratipadārtha** *(p. 187)* — "**hotāram** — [O Agni] who brings the offering to completion, or the inviter (the caller) of the gods; **viśvavedasam** — all-knowing; **dūtam** — one engaged in the messenger's work of the gods; (such) you, **pra vṛṇīmahe** — we choose first; **mahaḥ** — of great power (worshipful); **sataḥ** — being without destruction and eternal; **te** — your; **arcayaḥ** — the flames; **vi caranti** — spread in all directions; **bhānavaḥ** — [your] rays; **divi** — in the mid-region; **spṛśanti** — touch (and make bright the beings there)."
 
 **Bhāvārtha** *(p. 187)* — "O Agni, you accomplish our offerings. You are the one who calls the gods to our sacrifice on our behalf. You are all-knowing. You are busy in the messenger's work of the gods. Therefore we choose you, at our sacrifice, as the chief (we call you). You are of great power, imperishable, without beginning or end. Such flames of yours spread in all directions and light all the worlds. Your rays enter the mid-region and light up the beings there."
 
 **English Translation (the source's own, p. 187)** — "We select ( invoke ) you, O Agni, the messenger and invoker of gods ; **yon** [sic] are **ɔndowed** [sic] with all knowledge ; you are mighty and your flames spread in all directions touching even heaven·" *(the print ends with a raised dot where a full stop is expected)*.
+
+### Page 188
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 188**
 - **dūtam** — "since there is a Vedic statement '*agnir devānāṃ dūta āsīt*', Agni is the messenger who goes to men and calls the gods to them."
@@ -2796,10 +2808,13 @@ Numerals are small; a rule is given a number only where I read it.
 - **divi spṛśanti bhānavaḥ** — "the rays of your light touch even heaven."
 
 **Vyākaraṇa-prakriyā** *(pp. 188–189, PDF 202–203 — grammar pages, noted briefly)*
-- **viśvavedasam**: *viśvaṃ vetti iti viśvavedāḥ* — "one who knows the universe"; root *vida jñāne*; *sarvadhātubhyo 'sun* — the Uṇādi suffix *asun* [Uṇ. 4-[?], as read]; since it belongs to the *marudvṛdhādi* group, the later member's [?] first member is final-acute (*pūrvapadāntodāttatva*); or, as the Nirukta says (Ni. 3-[?]), *veda* is a word for wealth: *viśvaṃ vedo dhanaṃ yasya saḥ* — "he whose wealth is the whole [world]"; a *bahuvrīhi*, by which *bahuvrīhau prakṛtyā pūrvapadam* would give the natural accent of the first member, but this is overridden by *bahuvrīhau viśvaṃ saṃjñāyām* — in a *bahuvrīhi* where a name is shown the first member *viśva* is final-acute; hence final-acute.
-- **mahaḥ**: root *maha pūjāyām*; *kvip ca* — *kvip*; the genitive singular *ṅas*/*as*; [the print: after *kvip* it is a one-vowelled base, *maṭ*], so *sāvekācas tṛtīyādir vibhaktiḥ* — the ending from the third case onward after a one-vowelled base is acute, hence *as* is acute; or *mahat* from *vartamāne pṛṣanmahadbṛhajjagacchatṛvac ca*… [Uṇ. 2-84, as read] — *mahat* formed with the suffix *ati*, whose *āt* is lost in the Veda; the ending has its natural accent; since the *śatṛ*-like substitution applies, *śaturanumo nadyajādī* may be cited as well for the ending's accent.
-- **sataḥ** (p. 189): root *as bhuvi*, *laṭ*, *śatṛ*, *śap*; *ādiprabhṛtibhyaḥ śapaḥ* — *luk* of *śap*; *as + at*; *śnasor allopaḥ* — श्नसोरल्लोपः — the *a* of *as* and of *śnā* is lost before a *kit*/*ñit* *sārvadhātuka*: *s + at*; *sat*, genitive singular, *śaturanumo nadyajādī* — the ending after a word ending in *śatṛ* that is final-acute and does not take *num* is acute: *sataḥ*.
-- **divi**: *ūḍidaṃ padādyāpumrai­dyubhyaḥ* — the *asarvanāmasthāna* ending after *div* is acute: *divi*. Rik 3 ends here (*|| 3 ||*).
+- **viśvavedasam**: *viśvaṃ vetti iti viśvavedāḥ* — "one who knows the universe"; root *vida jñāne*; *sarvadhātubhyo 'sun* — the Uṇādi suffix *asun* (Uṇ. 4-628 [?] as read: ೪-೬೨೮, the 6 and 2 not certain); since it belongs to the *marudvṛdhādi* group, the first member is final-acute (*pūrvapadāntodāttatva*); or, as the Nirukta says (Ni. 2-1-4, as printed), *veda* is a word for wealth: *viśvaṃ vedo dhanaṃ yasya saḥ* — "he whose wealth is the whole [world]"; a *bahuvrīhi*, by which *bahuvrīhau prakṛtyā pūrvapadam* would give the natural accent of the first member, but this is overridden by *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. 6-2-106) — in a *bahuvrīhi* where a name is shown the first member *viśva* is final-acute; hence final-acute.
+- **mahaḥ**: root *maha pūjāyām*; *kvip ca* (Pā. 3-2-76) — *kvip*; the genitive singular, printed *jas* [sic; for *ṅas*]; when the *sup* follows, *maṭ* [as printed] is one-vowelled, so *sāvekācas tṛtīyādir vibhaktiḥ* (Pā. 6-1-168) — the ending from the third case onward after a one-vowelled base is acute, hence *as* is acute; or *mahat* from *vartamāne pṛṣanmahadbṛhajjagacchatṛvac ca*… (Uṇ. 2-242, as printed) — *mahat* formed with the suffix *ati*, whose *āt* is lost in the Veda; the ending has its natural accent; since the *śatṛ*-like substitution applies, *śaturanumo nadyajādī* (Pā. 6-1-173) may be cited as well for the ending's accent.
+
+### Page 189
+
+- **sataḥ** (p. 189): root *as bhuvi*, *laṭ*, *śatṛ*, *śap*; *ādiprabhṛtibhyaḥ śapaḥ* — *luk* of *śap*; *as + at*; *śnasor allopaḥ* — श्नसोरल्लोपः — (Pā. 6-4-111) the *a* of *as* and of *śnā* is lost before a *kit*/*ñit* *sārvadhātuka*: *s + at*; *sat*, genitive singular (printed *jas* [sic]), *śaturanumo nadyajādī* — the ending after a word ending in *śatṛ* that is final-acute and does not take *num* is acute: *sataḥ*.
+- **divi**: *ūḍidaṃ padādyāpumrai­dyubhyaḥ* (Pā. 6-1-171) — the *asarvanāmasthāna* ending after *div* is acute: *divi*. Rik 3 ends here (*|| 3 ||*).
 
 ### Rik 36.4 (p. 189 onward, PDF 203–)
 
