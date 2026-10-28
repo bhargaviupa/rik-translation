@@ -8390,40 +8390,63 @@ the suffix *u*; with *avasya* + *u*, by "अतो लोपः" (Pā. Sū. 6-4-
 
 ---
 
-### Pages 341–343 — Sūkta 25, Rik 20
+### Page 341 (lower) — Sūkta 25, Rik 20
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> त्वं विश्वस्य मेधिर दिवश्च ग्मश्च राजसि ।
-> स यामनि प्रति श्रुधि ॥ २० ॥
+> त्वं विश्व॑स्य मेधिर दि॒वश्च॒ ग्मश्च॑ राजसि ।
+> स याम॑नि॒ प्रति॑ श्रुधि ॥२०॥
+>
+> *tvaṃ víśvasya medhira diváśca gmáśca rājasi |*
+> *sa yā́mani práti śrudhi ||20||*
 
-*tvaṃ viśvasya medhira divaś ca gmaś ca rājasi | sa yāmani prati śrudhi || 20 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> त्वम् । विश्वस्य । मेधिर । दिवः । च । ग्मः । च । राजसि ॥ सः । यामनि । प्रति । श्रुधि ॥ २० ॥
+> त्वं । विश्वस्य । मेधिर । दिवः । च । ग्मः । च । राजसि । सः । यामनि । प्रति । श्रुधि ॥२०॥
 
-*tvam | viśvasya | medhira | divaḥ | ca | gmaḥ | ca | rājasi || saḥ | yāmani | prati | śrudhi || 20 ||*
+> *tvaṃ | viśvasya | medhira | divaḥ | ca | gmaḥ | ca | rājasi | saḥ | yāmani | prati | śrudhi ‖20‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 341)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> हे मेधिर मेधाविन्वरुण त्वं दिवश्च द्युलोकस्यापि ग्मश्च भूलोकस्यापि । एवमात्मकस्य विश्वस्य सर्वस्य जगतो मध्ये राजसि दीप्यसे । स तादृशस्त्वं यामनि क्षेमप्राप्तौ मदीयाय प्रति श्रुधि । प्रतिश्रवणमाज्ञापनं कुरु । रक्षिष्यामीति प्रत्युत्तरं देहीत्यर्थः ॥ दिवः । ऊडिदमित्यादिना षष्ठ्या उदात्तत्वम् । ग्मः । ग्मेत्येतद्भूनामसु पठितम् । आतो धातोरित्यात्रात इति योगविभागादातो लोप इति प्रतिषेधेऽपि व्यत्ययेनाकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । यामनि । या प्रापणे । अतो मनिन्क्रनिब्वनिपश्चेति मनिन् । नित्त्वाद्याद्युदात्तत्वम् । श्रुधि । उक्तम् ॥
+> हे मेधिर मेधाविन्वरुण त्वं दिवश्च द्युलोकस्यापि ग्मश्च भूलोकस्यापि । एवमात्मकस्य विश्वस्य सर्वस्य जगतो मध्ये राजसि । दीप्यसे । स तादृशस्त्वं यामनि क्षेमप्रापणेऽस्मदीये प्रति श्रुधि । प्रतिश्रवणमाज्ञापनं कुरु । रक्षिष्यामीति प्रत्युत्तरं देहीत्यर्थः ॥ दिवः । ऊडिदमित्यादिना षष्ठ्या उदात्तत्वं । ग्मः । ग्मेत्येतद्भूनामसु पठितं । आतो धातोरित्यत्रात इति योगविभागादातो लोप इति प्रतिषेधेऽपि व्यत्ययेनाकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । यामनि । या प्रापणे । आतो मनिन्क्वनिब्वनिपश्चेति मनिन् । नित्त्वादाद्युदात्तत्वं । श्रुधि । उक्तं ॥
 
-*he medhira medhāvin varuṇa tvaṃ divaś ca dyulokasyāpi gmaś ca bhūlokasyāpi | evamātmakasya viśvasya sarvasya jagato madhye rājasi dīpyase | sa tādṛśas tvaṃ yāmani kṣemaprāptau madīyāya prati śrudhi | pratiśravaṇam ājñāpanaṃ kuru | rakṣiṣyāmīti pratyuttaraṃ dehīty arthaḥ || divaḥ | ūḍidam ity ādinā ṣaṣṭhyā udāttatvam | gmaḥ | gmety etad bhūnāmasu paṭhitam | āto dhātor ity atrāta iti yogavibhāgād āto lopa iti pratiṣedhe 'pi vyatyayenākāralopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvam | yāmani | yā prāpaṇe | ato manin kranib vanipaś ceti manin | nittvād yādyudāttatvam | śrudhi | uktam ||*
+> *he medhira medhāvinvaruṇa tvaṃ divaśca dyulokasyāpi gmaśca bhūlokasyāpi | evamātmakasya viśvasya sarvasya jagato madhye rājasi | dīpyase | sa tādṛśastvaṃ yāmani kṣemaprāpaṇe 'smadīye prati śrudhi | pratiśravaṇamājñāpanaṃ kuru | rakṣiṣyāmīti pratyuttaraṃ dehītyarthaḥ ‖ divaḥ | ūḍidamityādinā ṣaṣṭhyā udāttatvaṃ | gmaḥ | gmetyetadbhūnāmasu paṭhitaṃ | āto dhātorityatrāta iti yogavibhāgādāto lopa iti pratiṣedhe 'pi vyatyayenākāralopaḥ | udāttanivṛttisvareṇa vibhakterudāttatvaṃ | yāmani | yā prāpaṇe | āto maninkvanibvanipaśceti manin | nittvādādyudāttatvaṃ | śrudhi | uktaṃ ‖*
 
-**Translation:** "O *medhira* — wise Varuṇa! You shine (*rājasi*) in the midst of the whole (*viśvasya*) world — *divaḥ* of heaven *ca* and *gmaḥ* of the earth *ca* — such is [the whole]. Such as you are, in my *yāmani* — in the attaining of well-being (*kṣema*) — answer (*prati śrudhi*): give a promise; give the reply, 'I shall protect'. *Divaḥ*: the genitive's acute by *ūḍidam…*. *Gmaḥ*: the word *gmā* is read among the names of the earth (Ni. [1-1]); the loss of *ā* is excluded by P. 6-4-140 but nonetheless [it takes place] by *vyatyaya*; the ending's acute follows from the cessation of the *udātta*. *Yāmani*: *yā prāpaṇe*; *manin* by Uṇ. [4-145]; since *nit*, the first syllable acute. *Śrudhi*: explained earlier." *(Grammar pages 342–343, noted briefly: the words treated are* divaḥ *[the genitive singular of *div*; acute by P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ*; end-acute word],* gmaḥ *[*gmā* in the list of names for earth: P. 6-4-140 *āto dhātoḥ* would cause loss of the final *ā* of roots; the printed note explains that *gmā* is not a root in the strict sense but the sūtra's *yoga-vibhāga* device (*ātaḥ* alone) applies; the loss of *ā* in *gmāḥ* being thus sanctioned *vyatyayena*; the genitive ending, being preceded by a lost *udātta*, takes the acute by P. 6-1-161 *anudāttasya ca yatrodāttalopaḥ*; therefore the case-ending bears the acute: *gmaḥ*],* yāmani *[*yā prāpaṇe* of the *adādi* class + *manin* by P. 3-2-… *ato maninkranibvanipaś ca*; locative singular *ṅi* → *i* optionally with loss of *al* by P. 6-4-136 *vibhāṣā ṅiśyoḥ*; hence *yāmani*; *nit*, first-syllable acute] and* śrudhi *[explained in the preceding rik]; numerals as read, pointers only.)*
+*(No numbers in this bhāṣya.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 342)* **(हे) मेधिर ((he) medhira)** — O wise Varuṇa | **त्वम् (tvam)** — you | **दिवः च (divaḥ ca)** — of heaven | **ग्मः च (gmaḥ ca)** — and of the earth | **विश्वस्य (viśvasya)** — of the whole universe including both | **राजसि (rājasi)** — shine | **सः (saḥ)** — such you | **यामनि (yāmani)** — in my request | **प्रति श्रुधि (prati śrudhi)** — give a reply [assure me].
+*Gist:* O wise Varuṇa, you shine in the midst of the whole world, heaven and earth; such as you are, answer us in this matter of our safety: give the reply "I will protect".
 
-**॥ Bhāvārthaḥ ॥** O wise Varuṇa, you shine in the whole world including heaven and earth. Such as you are, give us the assurance that you will bestow good fortune on us who ask for it.
+### Page 342 — Rik 20: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **मेधिर (medhira)** — O Varuṇa, who are wise | **त्वं (tvaṃ)** — you | **दिवश्च (divaś ca)** — the world of heaven too | **ग्मश्च (gmaś ca)** — and the earth too, comprising | **विश्वस्य (viśvasya)** — in the midst of the whole world | **राजसि (rājasi)** — shine | **सः (saḥ)** — such a one, you (in bringing us good fortune) | **यामनि (yāmani)** — to our prayer | **प्रति श्रुधि (prati śrudhi)** — give assurance.
 
-> O Varuna, you are wise and you shine in heaven and earth; hear my prayer and reply with a promise of prosperity.
+**॥ Bhāvārthaḥ ॥** O wise Varuṇa, you shine in the world of heaven, on the earth, and in the whole world that includes these two. Such as you are, give us the assurance of bringing us good fortune.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 342)* **मेधिर** — *medhāvin*: the intelligent, the knowing; of good understanding. Skandasvāmin explains *yajñavān* — one who is worshipped in sacrifices. **यामनि** — *kṣemaprāptau* — in the attaining of my well-being; or, *for the attaining of well-being*. Skandasvāmin gives for this word *yāmani adhikaraṇatvāt manin pratyayaḥ* [as an *adhikaraṇa* word]; 'at the time of death' — *vṛtyam prati gamyāt, yasmin sa yāmaḥ maraṇakālaḥ* ['the death-time'] — i.e. the root *yā* means 'go', and 'going' here is the going to death; therefore *yāmani* derived from this root (a locative of *yāman*) means 'at the time of death'. For me who am at the time of death — *muñcāmi tvām na mriyase* ['I release you, you will not die'] — Śunaḥśepa asks Varuṇa to give the assurance that he will be freed. **प्रति श्रुधि** — *pratiśravaṇarūpaṃ vākyam uccāraya*: speak a sentence of promise — 'I shall release you, Śunaḥśepa, from the bondage of the noose and protect you'; give such an answer.
+**॥ English Translation ॥** *(as printed)*
 
-**गमः** — *gmā* is read among the names of earth (Ni. [1-1-?]); here the genitive.
+> O Varuna, you are wise and you shine in heaven and earth ; hear my prayer and reply with a promise of prosperity.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**मेधिर (medhira)** — *medhāvin*: intelligent, wise, one with understanding. Skandasvāmin explains it as *yajñavan*: one who is worshipped in sacrifice.
+
+**यामनि (yāmani)** — *kṣemaprāpaṇe 'smadīye*: in our attaining of welfare, or for the attaining of welfare. Skandasvāmin takes this word thus: *yāmani | adhikaraṇe 'tra manir draṣṭavyaḥ | mṛtyuṃ prati gamyate yasmin sa yāmā maraṇakālaḥ tatra |* — that is, the root *yā* means to go; going here means facing death; so the word *yāmani* (the locative singular of *yāman*) formed from this root means "at the time of death". To me, who am at the time of death — *muñcāmi tvāṃ | tvaṃ na mriyase* — "I release you; you will not die": Śunaḥśepa prays to Varuṇa to give this assurance.
+
+**प्रति श्रुधि (prati śrudhi)** — utter a word in the form of a reply; that is, *rakṣiṣyāmīti pratyuttaraṃ dehi*: say in reply, "I will release you, Śunaḥśepa, from the bonds of the noose and protect you."
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**दिवः (divaḥ)** — the genitive of *div*; by "ऊडिदम्पदादि-" (Pā. Sū. 6-1-171) the genitive ending is udātta; *divaḥ* is end-acute.
+
+### Page 343 — Rik 20: grammar (end)
+
+**ग्मः (gmaḥ)** — *gmā* is read among the synonyms of the earth (Ni. 1-1-2). Before its genitive singular the *yāṭ* augment would come; but in "आतो धातोः" (Pā. Sū. 6-4-140) the split *ātaḥ* has been made, by which the final *ā* of a non-root ending in *ā* is in some places dropped before a vowel-initial suffix; so here, with the loss of *ā*, the form is *gmaḥ*. Since the Bhāṣya says the split must not be applied everywhere but only in some places for the desired forms, if it is said that the loss does not come here, the loss is to be accepted by *vyatyaya*. By "अनुदात्तस्य च यत्रोदात्तलोपः" (Pā. Sū. 6-1-161) an anudātta becomes udātta when an udātta before it is dropped; here the case-ending is anudātta, and as the udātta *ā* before it is dropped, the ending becomes udātta.
+
+**यामनि (yāmani)** — *yā prāpaṇe*, adādi; by "आतो मनिन्क्वनिब्वनिपश्च" (Pā. Sū. 3-2-74), the root ending in *ā*, the suffix *manin*; after *yāman*, in the locative singular *ṅi*; by "विभाषा ङिश्योः" (Pā. Sū. 6-4-136) optionally the loss of *a*, giving the form *yāmani*. *Manin* being *nit*, initially acute.
+
+**श्रुधि (śrudhi)** — explained in the previous mantra (Ṛ. Saṃ. 1-2-25-19, as printed: a "2" stands between the maṇḍala and sūkta numbers). ॥२०॥ *(A printed ornament follows; Ṛk 21 begins on the same page.)*
 
 ---
 
