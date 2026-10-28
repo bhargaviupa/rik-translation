@@ -8150,38 +8150,61 @@ the restriction "अव्यये नञ्कुनिपातानाम�
 
 ---
 
-### Pages 332–334 — Sūkta 25, Rik 16
+### Page 332 (lower) — Sūkta 25, Rik 16
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> परा मे यन्ति धीतयो गावो न गव्यूतीरनु ।
-> इच्छन्तीरुरुचक्षसम् ॥ १६ ॥
+> परा॑ मे यंति धी॒तयो॒ गावो॒ न गव्यू॑ती॒रनु॑ ।
+> इ॒च्छंती॑रुरु॒चक्ष॑सं ॥१६॥
+>
+> *párā me yaṃti dhītáyo gā́vo ná gávyūtīránu |*
+> *iccháṃtīrurucákṣasaṃ ||16||*
 
-*parā me yanti dhītayo gāvo na gavyūtīr anu | icchantīr uruccakṣasam || 16 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> परा । मे । यन्ति । धीतयः । गावः । न । गव्यूतीः । अनु ॥ इच्छन्तीः । उरुऽचक्षसम् ॥ १६ ॥
+> परा । मे । यंति । धीतयः । गावः । न । गव्यूतीः । अनु । इच्छंतीः । उरुऽचक्षसं ॥१६॥
 
-*parā | me | yanti | dhītayaḥ | gāvaḥ | na | gavyūtīḥ | anu || icchantīḥ | uru-cakṣasam || 16 ||*
+> *parā | me | yaṃti | dhītayaḥ | gāvaḥ | na | gavyūtīḥ | anu | icchaṃtīḥ | uru-cakṣasaṃ ‖16‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 332)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 332–333; transcribed in full from the print, v3a)*
 
-> उरुचक्षसं बहुभिर्द्रष्टव्यं वरुणमिच्छन्तीर्मे धीतयः शुनःशेपस्य बुद्धयः परा यन्ति । पराङ्मुखा निवृत्तिरहिता गच्छन्ति । तत्र दृष्टान्तः । गावो न । यथा गावो गव्यूतीरनु गोप्रान्तानुलक्ष्य गच्छन्ति तद्वत् ॥ गव्यूतीः । गोर्यूतौ छन्दसि । पा. ६-१-७९ । इत्यवादेशः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । यद्वा । यूतिर्यवनं गवां यवनमत्रेति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । इच्छन्तीः । इषु इच्छायां लटः शतृ । तुदादिभ्यः शः । इषुगमियमां छः । पा. ७-३-७७ । इति छत्वम् । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते ॥
+> उरुचक्षसं । बहुभिर्द्रष्टव्यं वरुणमिच्छंतीर्मे धीतयः शुनःशेपस्य बुद्धयः परा यंति । पराङ्मुखा निवृत्तिरहिता गच्छंति । तत्र दृष्टांतः । गावो न । यथा गावो गव्यूतीरनु गोष्ठान्यनुलक्ष्य गच्छंति तद्वत् ॥ गव्यूतीः । गावोऽत्र यूयंत इत्यधिकरणे क्तिन् । गोर्यूतौ छंदसि । पा. ६-१-७९-२ । इत्यवादेशः । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं । यद्वा । यूतिर्यवनं । गवां यवनमत्रेति बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । इच्छंतीः । इषु इच्छायां । लटः शतृ । तुदादिभ्यः शः । इषुगमियमां छः । पा. ७-३-७७ । इति छत्वं । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे विकरणस्वरः शिष्यते ॥
 
-*uruccakṣasaṃ bahubhir draṣṭavyaṃ varuṇam icchantīr me dhītayaḥ śunaḥśepasya buddhayaḥ parā yanti | parāṅmukhā nivṛttirahitā gacchanti | tatra dṛṣṭāntaḥ | gāvo na | yathā gāvo gavyūtīr anu gopṛāntān [?] anulakṣya gacchanti tadvat || gavyūtīḥ | gor yūtau chandasi | pā. 6-1-79 | ity avādeśaḥ | dāsībhārāditvāt pūrvapadaprakṛtisvaratvam | yadvā | yūtir yavanaṃ gavāṃ yavanam atreti bahuvrīhau pūrvapadaprakṛtisvaratvam | icchantīḥ | iṣu icchāyāṃ laṭaḥ śatṛ | tudādibhyaḥ śaḥ | iṣugamiyamāṃ chaḥ | pā. 7-3-77 | iti chatvam | ādupadeśāl lasārvadhātukānudāttatve vikaraṇasvaraḥ śiṣyate ||*
+> *urucakṣasaṃ | bahubhirdraṣṭavyaṃ varuṇamicchaṃtīrme dhītayaḥ śunaḥśepasya buddhayaḥ parā yaṃti | parāṅmukhā nivṛttirahitā gacchaṃti | tatra dṛṣṭāṃtaḥ | gāvo na | yathā gāvo gavyūtīranu goṣṭhānyanulakṣya gacchaṃti tadvat ‖ gavyūtīḥ | gāvo 'tra yūyaṃta ityadhikaraṇe ktin | goryūtau chaṃdasi | pā. 6-1-79-2 | ityavādeśaḥ | dāsībhārāditvātpūrvapadaprakṛtisvaratvaṃ | yadvā | yūtiryavanaṃ | gavāṃ yavanamatreti bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | icchaṃtīḥ | iṣu icchāyāṃ | laṭaḥ śatṛ | tudādibhyaḥ śaḥ | iṣugamiyamāṃ chaḥ | pā. 7-3-77 | iti chatvaṃ | adupadeśāllasārvadhātukānudāttatve vikaraṇasvaraḥ śiṣyate ‖*
 
-**Translation:** "My *dhītayaḥ* — Śunaḥśepa's thoughts — desiring Varuṇa, *uruccakṣasam* — to be seen by many — go away (*parā yanti*), turned away, with no return. An illustration: *gāvo na* — as cows go (*gacchanti*) *anu gavyūtīḥ* — toward the pastures, having in view the boundaries of the herd-land. *Gavyūtīḥ*: *av* for *o* of *go* before *yūti* in the Veda by P. 6-1-79; by the *dāsībhārādi* class the accent of the first member; or, '*yūti* is a joining; the place where cows are joined [pastured]' as a *bahuvrīhi*, with the first member's accent. *Icchantīḥ*: *iṣu icchāyām*, *śatṛ* for *laṭ*; *śa* after *tudādi*; *cha* for the last letter by P. 7-3-77 [*iṣugamiyamāṃ chaḥ*]; the accent of the *vikaraṇa* remains." *(Grammar pages 334, noted briefly: the words treated are* gavyūtīḥ *[*yu miśraṇāmiśraṇayoḥ*, *adādi*; the cows are brought together (*yūti*); *kvin* in the locative sense of *adhikaraṇa*; *go* + *yūti* → *gavyūti* by P. 6-1-79 *goryūtau chandasy upasaṃkhyānam* — only in the Veda; the accent by the *dāsībhārādi* group P. 6-2-42; or as a *bahuvrīhi* with the first member's accent; *yūti* may mean 'ploughing/joining'; *gavāṃ yavanam atra*, 'a place where cows are joined'] and* icchantīḥ *[*iṣu icchāyām*, *tudādi*, *śatṛ* in place of *laṭ*; the *śa* *vikaraṇa* is added by P. 3-1-77; *iṣugamiyamāṃ chaḥ* P. 7-3-77 changes the last *ṣ* into *cch*; *ṅīp* with *ugit* P. 4-1-6, *num* by P. 7-1-70; *śatṛ*'s accent is lowered by *tāsyanudāttenn…* P. 6-1-186; the accent of the *vikaraṇa* *śa* remains, hence middle-acute]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. ६-१-७९-२ (a vārttika; the 7 is the same glyph as both 7s of ७-३-७७), ७-३-७७.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 333)* **गव्यूतीः अनु (gavyūtīḥ anu)** — [with] the pastures in view | **गावः न (gāvaḥ na)** — as cows | **उरुचक्षसम् (uruccakṣasam)** — seen by many, Varuṇa | **इच्छन्तीः (icchantīḥ)** — desiring | **मे (me)** — my | **धीतयः (dhītayaḥ)** — thoughts | **परा यन्ति (parā yanti)** — go back [turn toward him].
+*Gist:* My thoughts, longing for Varuṇa whom many behold, go out to him and do not turn back, as cows go to their pastures.
 
-**॥ Bhāvārthaḥ ॥** As cows return, thinking of the pastures, so my thoughts, longing for Varuṇa who is seen by many, turn toward him.
+### Page 333 — Rik 16: word-meanings, overall sense, English, Special Topics
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **गव्यूतीः अनु (gavyūtīḥ anu)** — keeping the pastures in mind | **गावो न (gāvo na)** — as cows return | **उरुचक्षसं (urucakṣasaṃ)** — Varuṇa, who is seen by many people | **इच्छंतीः (icchaṃtīḥ)** — longing for | **मे (me)** — my | **धीतयः (dhītayaḥ)** — thoughts of the mind | **परा यंति (parā yaṃti)** — return (turned towards him).
+
+**॥ Bhāvārthaḥ ॥** As cows, remembering their pastures, return eagerly towards them, so my thoughts, longing for Varuṇa, who is worthy of the regard of many people, return with devotion towards him.
+
+**॥ English Translation ॥** *(as printed)*
 
 > My thoughts always turn back to him who is seen by many, as the cows return to the pastures.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 333)* **मे धीतयः** — my mind, my thoughts. **परा यन्ति** — 'go back' means [that they] again and again turn to Varuṇa. **गावो न गव्यूतीः** — *gāvo yatra caranti sa bhūpradeśo gavyūtir ity ucyate*: the place where cows graze — 'the pasture': as the cows go of their own accord, without anyone's prompting, to a place where grass has grown well, so my mind too fixes itself on Varuṇa; the intention is that my mind is attached to Varuṇa. **उरुचक्षसम्** — *bahubhir draṣṭavyam*: seen by many; or the one who looks at many.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**मे धीतयः (me dhītayaḥ)** — my mind, my reflections.
+
+**परा यंति (parā yaṃti)** — go back, that is, again and again move only in the matter of Varuṇa.
+
+**गावो न गव्यूतीः (gāvo na gavyūtīḥ)** — *gāvo yatra caranti sa bhūpradeśo gavyūtir ity ucyate*: the grazing ground, the pasture. As cows go of their own accord, without anyone's urging, to the place where grass has grown well, so my mind too wishes to rest in Varuṇa alone: the sense is that my mind is attached to Varuṇa alone.
+
+**उरुचक्षसं (urucakṣasaṃ)** — *bahubhir draṣṭavyaṃ; bahūnāṃ draṣṭāraṃ bahudarśanaṃ vā*: one seen by many, or one who sees many.
+
+### Page 334 — Rik 16: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**गव्यूतीः (gavyūtīḥ)** — *yu miśraṇāmiśraṇayoḥ*, adādi. *Gāvaḥ atra yūyante iti gavyūtiḥ*: *ktin* in the locative sense. With *go* + *yūti*, by the vārttika "गोर्यूतौ छन्दस्युपसंख्यानम्" (Pā. Sū. 6-1-79-2) the *av* substitute comes, in the Veda only: *gavyūti*. Since *gavyūti* is read in the *dāsībhārādi* list, the first member keeps its accent. Or: *yūti* means *yavanam* (joining); *gavāṃ yavanam atra iti gavyūtiḥ*, the place where cows gather; as a bahuvrīhi, by "बहुव्रीहौ प्रकृत्या पूर्वपदम्" (Pā. Sū. 6-2-1) the first member keeps its accent.
+
+**इच्छंतीः (icchaṃtīḥ)** — *iṣu icchāyām*, tudādi; *śatṛ* for *laṭ*; with *śatṛ* following, the vikaraṇa *śa* by "तुदादिभ्यः शः" (Pā. Sū. 3-1-77); before *śa*, *ch* by "इषुगमियमां छः" (Pā. Sū. 7-3-77): *icchat*, a *t*-stem; being *ugit*, the *num* augment; in the feminine, *ṅīp* by "उगितश्च" (Pā. Sū. 4-1-6). *Śatṛ*, a *lasārvadhātuka*, is anudātta by "तास्यनुदात्तेत्-" (Pā. Sū. 6-1-186); the vikaraṇa's accent, being *sati-śiṣṭa*, remains, so *icchaṃtīḥ* is a medially acute word. ॥१६॥ *(A printed rule follows; Ṛk 17 begins on the same page.)*
 
 ---
 
