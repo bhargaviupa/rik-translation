@@ -1,10 +1,29 @@
 # Vol 4 numeral + [?] + accent pass — state
 
-**START HERE: work in page order from the front.** Resume at the first unfinished page of Ṛk 33.2 (printed p. 8, old-scan PDF 22), after re-checking the unsettled readings of pp. 1–8 below on the BETTER scan. Do NOT begin with the end of the scan (PDF 621–701): the 78 unexplained pages are for the last batch only; the extra page near PDF 101–105 is handled when the batch reaches it.
+**START HERE (Oct 28, 2026, session 2):** work in page order. **Done: Ṛk 33.1–33.6, i.e. better-scan PDF 1–47 (printed pp. 1–33) for numerals/[?]** (see "Settled" below). **Next: PDF 47 lower half (printed p. 33, Saṃhitā of Ṛk 33.7) onwards** — Ṛk 33.7 (pp. 33–36, 8 open [?]). No Saṃhitā accents written yet (step 5a): the printed marks are underlines (anudātta, below the syllable) and short vertical strokes (svarita, above); I looked at pp. 25 and 26 but wrote none because the stroke/underline positions need syllable-level zooms. Old-scan numbering in the `### Page N (PDF M)` headings (M = old scan) is still not rewritten.
 
-Status: **in progress** (Oct 28, 2026). **Last PDF page done: PDF 22 (printed p. 8), part of Ṛk 33.2.** Batch PDF 1–100 is **not closed**: Ṛk 33.1 is closed (its one open reading is the Pā. 6-4-77 reference); Ṛk 33.2 is partly done. `[?]` in the file: 2,216 at start → 2,191 now (25 cleared; each needed a page view and often a zoom). Review pages for PDF 1–100 are built (`vol4/review/review_PDF1-100.html/.json`, 627 numeral boxes, no edits file yet). Scan: `Rig_Vol4.pdf` at the repo root (the `vol4/scans/` placeholder is empty).
+**Page map (settled):** printed = PDF − 14 for PDF 15–101; **PDF 102 is a pixel-identical duplicate of PDF 101** (recorded in `tools/pages.py` `DUP`); printed = PDF − 15 from PDF 103 on (OCR majority, to be re-checked as the batch reaches it). I confirmed headers by eye at PDF 20–47: printed = PDF − 14 holds there (p. 33 = PDF 47). PDF 624–701 still unexplained (last batch).
 
-**RE-BASE NOTE (Oct 28, later the same day):** the 22 PDF pages / printed pp. 1–8 recorded above were worked on the OLD scan (`../Rig_Vol4.pdf`) before the better scan arrived. Their results stand in the main file, but: (1) the PDF numbers in this file and in the file's `### Page N (PDF M)` headings are OLD-scan numbers; (2) `review/review_PDF1-100.*` was built from the old scan and its box coordinates are **obsolete for the better scan — rebuild the review pages from the better scan** (`tools/cfg.py` now points at it); (3) the better scan's page map still has to be settled (see Reference); (4) the readings marked "not settled" above (Pā. 6-4-77 on p. 6, "upetya", Pā. 6-1-34) are worth re-reading on the better scan first, and whatever was read from the old scan should be spot-checked there.
+**Image check:** images displayed all session (page headers read: 20, 21, 24–33 matched the map). No page was written from a blank image.
+
+**Method used (differs from the runbook's review-HTML route):** I did not rebuild `review_PDF1-100.*` (the old obsolete ones were deleted); instead `tools/zoom_strips.py PDF 4` for text, then `tools/nat.py PDF OUT S x0 y0 x1 y1 …` (new: re-renders chosen strip regions at the scan's native 658 dpi, stacked) for every numeral group, and `tools/zoom_apply_batch.py` for exact replacements. `tools/mont.py`, `tools/qlist.py A B` (lists the [?] with context in file lines A–B) are also new. Tools now resolve paths from `cfg.py` (worktree-safe).
+
+**Counts:** `[?]` 2,216 at start of the pass → see git log/`grep -o '\[?\]'` (2,135 after this session, but 9 of the removals were unverifiable-name cases kept as plain-language notes); `[accent ?]` 0 (no accents written yet).
+
+**Settled this session (numerals zoom-checked at 658 dpi unless stated):**
+- Ṛk 33.1: Pā. 6-4-77 on p. 6 is printed **16-4-77** (clear ∩, hooked 6, 4, 7, 7) — kept "as printed".
+- Ṛk 33.2 (pp. 7–11): *upetya* read (no [?]); Ni. 5-4; Pā. 3-2-74; **3-1-19 printed 3-2-19**; Pā. 6-1-186; Pā. 6-1-34; **3-1-97 printed 3-1-91**.
+- Ṛk 33.3 (pp. 11–16): Pā. 3-3-93, 8-3-9, 2-4-73; Phiṭ-sūtras printed "Phi. Sū. 17" and "14"; no further [?] remain on those pages except small-print ones noted below.
+- Ṛk 33.4 (pp. 16–22): Ai. Brā. 3-20; Pā. 2-4-43, 8-2-28, 8-2-63, 7-4-69; **Pā. 6-1-127 vārtika 2** (not 6-1-115) for *īṣākṣādiṣu*; Ṛ.Saṃ. 3-29-14 and 10-69-12 (zoomed on strips; not separately re-zoomed).
+- Ṛk 33.5 (pp. 22–26): Pā. 7-1-20, **6-1-42 printed for *śi sarvanāmasthānam* (usual 1-1-42)**, 6-1-60, 6-1-70 not printed on p. 23 (so removed), **7-4-55 printed for *ur at* (usual 7-4-66)**, 7-3-84/1-1-5/1-2-5, 3-2-103, 6-2-2, Phi. Sū. 80, **8-2-18 printed (usual 8-2-15)**, 8-3-3, 7-3-78.
+- Ṛk 33.6 (pp. 26–33): Ṛg 5-29-12 (*navagvāsaḥ sutasomāsa* citation, with the print's "idraṃ"), 9-10-84 (as printed), 10-62-6, 1-62-4, 3-39-5, 10-14-6, 4-51-4; Ath. Saṃ. **19-1-56; 18-3-20** (replaces 18-1-36; 19-2-30); Ni. **3-2** (replaces 2-2); Pā. 6-1-9, 1-2-10, 1-1-5, **7-2-1 as printed** (usual 7-2-10), 1-3-62, 3-2-124, 2-2-28, 6-2-1, 3-1-26, 1-4-55, 3-3-174, 6-4-40 (+ vārtika 6-4-40-2), **16-4-83 as printed**, **3-2-29 as printed** for *kvip ca* (usual 3-2-76), 3-2-26 (Kā.), 6-3-137, 7-2-44, 3-2-102, 7-2-15, 8-2-36, 6-2-49, 6-1-71, 7-3-86, **7-1-80 as printed** (usual 7-1-70).
+
+**Not settled / open (Ṛk 33.1–33.6):**
+- Ṛk 33.6, p. 32: the sūtra after *ūj ca gamādīnām* on the final-letter replacement: name unreadable, number 1-1-53 or 1-1-59 (3 vs 9) — one [?] left in the file.
+- Ṛk 33.6, pp. 27–28 bhāṣya-tail: several small numbers (about 1-2-10, 2-2-10/7-2-10, 6-4-40, Kā. 3-2-…) zoomed once but not all settled; one [?] re-added there honestly.
+- Ṛk 33.6 vārtika *anyeṣām api dṛśyate* printed 6-3-137 is as in the file; 6-3-82 for *vopasarjanasya* and 6-2-1 were only read at strip width (crops cut off).
+- My glosses in Ṛk 33.6's Special Topics ([?] after "opens", "obtained", "swift ones", "*phaliga*", "brave") are word-meaning doubts of the translation, not numerals: left.
+- Ṛk 33.3–33.5 other [?] outside the grammar notes (Pratipadārtha etc.) were not touched.
 
 ## Reference
 - **Better scan (user, Oct 28):** `scans/04 RigvedaSamhithaVolume04 1.pdf` … `7.pdf` = 701 PDF pages (part 1 has 101, the rest 100; plain git files, ~30 MB each), global PDF page = position in the 7 parts in order (`tools/cfg.py`). Latin-digit page numbers in the headers.
