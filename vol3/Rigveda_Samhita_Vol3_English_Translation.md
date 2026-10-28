@@ -7400,38 +7400,65 @@ is initially acute: the *a* after *m* is udātta. Because the *yad*-word (*yath�
 
 ---
 
-### Pages 303–305 — Sūkta 25, Rik 4
+### Page 303 — Sūkta 25, Rik 4
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> परा हि मे विमन्यवः पतन्ति वस्यइष्टये ।
-> वयो न वसतीरुप ॥ ४ ॥
+> परा॒ हि मे॒ विम॑न्यवः॒ पतं॑ति॒ वस्य॑इष्टये ।
+> वयो॒ न व॑स॒तीरुप॑ ॥४॥
+>
+> *parā hí me vímanyavaḥ pátaṃti vásyaiṣṭaye | [syllables 15/16?]*
+> *vayo ná vasatī́rúpa ||4||*
 
-*parā hi me vimanyavaḥ patanti vasyaiṣṭaye | vayo na vasatīr upa || 4 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. The print writes* पतंति *with anusvāra. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> परा । हि । मे । विऽमन्यवः । पतन्ति । वस्यःऽइष्टये ॥ वयः । न । वसतीः । उप ॥ ४ ॥
+> परा । हि । मे । विऽमन्यवः । पतंति । वस्यःऽइष्टये । वयः । न । वसतीः । उप ॥४॥
 
-*parā | hi | me | vi-manyavaḥ | patanti | vasyaḥ-iṣṭaye || vayaḥ | na | vasatīḥ | upa || 4 ||*
+> *parā | hi | me | vi-manyavaḥ | pataṃti | vasyaḥ-iṣṭaye | vayaḥ | na | vasatīḥ | upa ‖4‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 303)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a; the old text's* ममं *is printed* मम*)*
 
-> हे वरुण मे ममं शुनःशेपस्य विमन्यवः क्रोधरहिताः बुद्धयो वस्यइष्टये वसीयसोऽतिशयेन वसुमतो जीवनस्य प्राप्तये परा पतन्ति । पराङ्मुखाः पुनरावृत्तिरहिताः प्रसरन्ति । हिशब्दोऽस्मिन्नर्थे सर्वजनप्रसिद्धिमाह । परापतने दृष्टान्तः । वयो न पक्षिणो यथा वसतीर्निवासस्थानान्युप सामीप्येन प्राप्नुवन्ति तद्वत् ॥ पतन्ति । पादादित्वादनिघाताभावः । वस्यइष्टये । वसुमच्छब्दाद्द्विन्तोर्लुगिति मतुपो लुकि ईयसुनोऽयकारलोपश्छान्दसः । वसतीः । शतुरनुम इति ङीप उदात्तत्वम् ॥
+> हे वरुण मे मम शुनःशेपस्य विमन्यवः क्रोधरहिता बुद्धयो वस्यइष्टये वसीयसोऽतिशयेन वसुमतो जीवनस्य प्राप्तये परा पतंति । पराङ्मुखाः पुनरावृत्तिरहिताः प्रसरंति । हिशब्दोऽस्मिन्नर्थे सर्वजनप्रसिद्धिमाह । परापतने दृष्टांतः । वयो न । पक्षिणो यथा वसतीर्निवासस्थानान्युप सामीप्येन प्राप्नुवंति तद्वत् ॥ पतंति । पादादित्वान्निघाताभावः । वस्यइष्टये वसुमच्छब्दाद्विन्मतोर्लुगिति मतुपो लुकि टिलोपे ईयसुनो यकारलोपश्छांदसः । वसतीः । शतुरनुम इति ङीप उदात्तत्वं ॥
 
-*he varuṇa me mamaṃ śunaḥśepasya vimanyavaḥ krodharahitāḥ buddhayo vasyaiṣṭaye vasīyaso 'tiśayena vasumato jīvanasya prāptaye parā patanti | parāṅmukhāḥ punarāvṛttirahitāḥ prasaranti | hiśabdo 'smin arthe sarvajanaprasiddhim āha | parāpatane dṛṣṭāntaḥ | vayo na pakṣiṇo yathā vasatīr nivāsasthānāny upa sāmīpyena prāpnuvanti tadvat || patanti | pādāditvād anighātābhāvaḥ | vasyaiṣṭaye | vasumacchabdād dvintor lugiti matupo luki īyasuno 'yakāralopaś chāndasaḥ | vasatīḥ | śaturanuma iti ṅīpa udāttatvam ||*
+> *he varuṇa me mama śunaḥśepasya vimanyavaḥ krodharahitā buddhayo vasyaiṣṭaye vasīyaso 'tiśayena vasumato jīvanasya prāptaye parā pataṃti | parāṅmukhāḥ punarāvṛttirahitāḥ prasaraṃti | hiśabdo 'sminnarthe sarvajanaprasiddhimāha | parāpatane dṛṣṭāṃtaḥ | vayo na | pakṣiṇo yathā vasatīrnivāsasthānānyupa sāmīpyena prāpnuvaṃti tadvat ‖ pataṃti | pādāditvānnighātābhāvaḥ | vasyaiṣṭaye vasumacchabdādvinmatorlugiti matupo luki ṭilope īyasuno yakāralopaśchāṃdasaḥ | vasatīḥ | śaturanuma iti ṅīpa udāttatvaṃ ‖*
 
-**Translation:** "O Varuṇa! My — of Śunaḥśepa — *vimanyavaḥ*, thoughts free of anger, fly forth (*parā patanti*) for the attainment (*iṣṭaye*) of *vasyas* — the most excellent, the most wealth-rich life; they spread, turned away [from the present], not coming back. *Hi* here asserts what is well known to all. An illustration of the flying forth: *vayo na* — as birds approach their *vasatīḥ* — dwelling-places — so [my thoughts]. *Patanti*: since it stands at the beginning of the pāda, there is no lowering of the accent. *Vasyaiṣṭaye*: *vasumat* → *vasyas* with *īyasun* and loss of *matup* by the rule *vinmatoḥ luk*; the loss of the *y* of *īyas* is Vedic. *Vasatīḥ*: *ṅīp* in the *śatṛ* without *num*, acute by *śaturanumo nadyajādī*." *(Grammar pages 304–305, noted briefly: the words treated are* patanti *[*patlṛ gatau*; *jhi* → *anti*; the verb is the first in the pāda, so it is not lowered; P. 8-1-… *āpādādau* does not apply; the accent of the root is retained],* vasyaiṣṭaye *[*vasu* + *matup*, then *īyasun* in the sense of excess by P. 5-3-… *dvivacanavibhajyopapade tarabīyasunau*; *matup* lost by P. 5-3-65 *vinmatorluk*; *vasu* + *īyas* → *vasyas* with the loss of the *i* of *īyas*'s *y* in the Veda; *vasyas* + *iṣṭi* → *vasyaiṣṭi*; dative],* vasatīḥ *[*vas nivāse* + *śatṛ*; fem. *ṅīp*; P. 6-1-173 *śaturanumo nadyajādī*; *ūṅgit* — P. 4-1-6 *ugitaś ca*; accusative plural with the lengthened *ī* and *ru*-*visarga*; the final-acute]; numerals as read, pointers only.)*
+*(The print reads* ईयसुनो यकारलोपः *("loss of the y of īyasun"), checked on a crop; the Kannada grammar on p. 304 says the same. No numbers in this bhāṣya.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 303)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa | **मे (me)** — my [Śunaḥśepa's] | **विमन्यवः (vimanyavaḥ)** — [tranquil] thoughts free of anger | **वस्यइष्टये (vasyaiṣṭaye)** — for obtaining the most prosperous life | **वयः न (vayaḥ na)** — like the birds | **वसतीः उप (vasatīḥ upa)** — around their nests | **परा पतन्ति (parā patanti)** — hover [fly about].
+*Gist:* O Varuṇa, my thoughts, free of anger, fly out, never to return, towards a life rich in wealth, as birds go to their nests.
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! As birds flutter all round their nests, so my thoughts, now calm, speed with eager desire towards the attainment of the best prosperous life.
+**॥ Prati-padārthaḥ ॥** **वरुण (varuṇa)** — O Varuṇa | **मे (me)** — my (of me, Śunaḥśepa) | **विमन्यवः (vimanyavaḥ)** — thoughts of the mind free from anger (calm) | **वस्य इष्टये हि (vasya iṣṭaye hi)** — for the very attainment of a precious life | **वसतीः उप (vasatīḥ upa)** — around (their own) nests | **वयो न (vayo na)** — as birds flutter | **परा पतंति (parā pataṃti)** — roam (with eager desire).
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥** O Varuṇa, as birds flutter fondly round their own nests, so my calmed thoughts too roam with keen desire for the attainment of a most precious life.
+
+### Page 304 — Rik 4: English, Special Topics, grammar
+
+**॥ English Translation ॥** *(as printed)*
 
 > My peaceful meditations revert to the desire of life as birds hover around their nests.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 304)* **मे** — of me, named Śunaḥśepa. **विमन्यवः** — thoughts free from anger — 'peaceful thoughts', kept far from evil reflections and the like. **वस्य इष्टये** — *atiśayena vasumato jīvanasya prāptaye*: for the attainment of the best, wealth-endowed life. Though bound to the sacrificial post and about to die, Śunaḥśepa expresses the wish in his mind: 'my desires move toward the various enjoyments to be had on the earth'. **वयो न वसतीरुप** — as birds fly about for a short while around the dear nest they have come near, and then enter it, so the movements of my mind turn towards the enjoyments — such is the intention of the simile.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**मे (me)** — *mama śunaḥśepasya*: of me, named Śunaḥśepa.
+
+**विमन्यवः (vimanyavaḥ)** — free from anger; "peaceful thoughts" (so in English in the print); far from evil reflections, and so on.
+
+**वस्य इष्टये (vasya iṣṭaye)** — *atiśayena vasumato jīvanasya prāptaye*: for a most excellent life endowed with wealth and the like. Though I am now bound to the post and facing death, my desires turn to the many kinds of enjoyment to be had on earth: so Śunaḥśepa voices the longing in his mind.
+
+**वयो न वसतीरुप (vayo na vasatīr upa)** — as birds, on nearing the nest they love, fly round it for a little while and then go in, so the movements of my mind turn towards enjoyments: this is the point of the comparison.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read at 450 dpi, v3a)*
+
+**पतंति (pataṃti)** — *patḷ gatau*, bhvādi; third plural. Though it follows a *tiṅanta*, the prohibition "-अपादादौ" applies: it stands at the beginning of the pāda, so it is not all-anudātta; initially acute by the root accent.
+
+**वस्य इष्टये (vasya iṣṭaye)** — *matup* after *vasu* by "तदस्यास्त्य-"; in the sense "very wealthy" *īyasun* by "द्विवचन-" (Pā. Sū. 5-3-57); before *īyasun* the *matup* takes *luk* by "विन्मतोर्लुक्" (Pā. Sū. 5-3-65); *vasu* + *īyas*; the *y* of *īyasun* is dropped as a Vedic licence, and with *ṭi*-loss before the vowel-initial suffix the form is *vasyas*; *vasyasaḥ iṣṭiḥ* compounded gives *vasyaiṣṭiḥ*; dative singular *vasya iṣṭaye*.
+
+**वसतीः (vasatīḥ)** — *vasa nivāse*, bhvādi; *śatṛ* in the sense of *laṭ*: *vasat*, a stem in *t*; in the feminine, since *śatṛ* has the *ṛ* as *it*, by "उगितश्च" (Pā. Sū. 4-1-6)
+
+### Page 305 (upper) — Rik 4: grammar (end)
+
+*ṅīp*; accusative plural *śas*; *vasatī* + *as*, lengthening to the like vowel, *rutva* and visarga: *vasatīḥ*. By "शतुरनुमो नद्यजादी" (Pā. Sū. 6-1-173) the *ṅīp*, otherwise anudātta as *pit*, is udātta: *vasatīḥ* is end-acute. *(A printed ornament follows.)*
 
 ---
 
