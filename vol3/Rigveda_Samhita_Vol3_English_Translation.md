@@ -4792,38 +4792,149 @@ The waters, for us who desire the performance of sacrifice, are in the form of m
 
 ---
 
-### Pages 205–211 — Sūkta 23, Rik 17
+### Page 205 — Sūkta 23, Rik 17
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अमूर्या उप सूर्ये याभिर्वा सूर्यः सह ।
-> ता नो हिन्वन्त्वध्वरम् ॥ १७ ॥
+> अ॒मूर्या उप॒ सूर्ये॒ याभि॑र्वा॒ सूर्यः॑ स॒ह ।
+> ता नो॑ हिन्वन्त्व॒ध्वरं॑ ॥१७॥
+>
+> *amū́r yā́ upa sū́rye yā́bhir vā sū́ryaḥ sahá |*
+> *tā́ no hinvantv adhváraṃ ||17||*
 
-*amūr yā upa sūrye yābhir vā sūryaḥ saha | tā no hinvantv adhvaram || 17 ||*
+*(Bars under अ, प (उप), र्ये, वा and स (सह); strokes over भि and र्यः. Line 2: a stroke over नो, a bar under ध्व; the stroke over रं, shown in the Pada, is read in the Saṃhitā too.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अमूः । याः । उप । सूर्ये । याभिः । वा । सूर्यः । सह ॥ ताः । नः । हिन्वन्तु । अध्वरम् ॥ १७ ॥
-
-*amūḥ | yāḥ | upa | sūrye | yābhiḥ | vā | sūryaḥ | saha || tāḥ | naḥ | hinvantu | adhvaram || 17 ||*
+> अमूः । याः । उप । सूर्ये । याभिः । वा । सूर्यः । सह ॥
+> ताः । नः । हिन्वन्तु । अध्वरं ॥१७॥
+>
+> *amūḥ | yāḥ | upa | sūrye | yābhiḥ | vā | sūryaḥ | saha ||*
+> *tāḥ | naḥ | hinvantu | adhvaraṃ ||17||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> या अमूराप: सूर्ये उप समीपेनावस्थिताः । आपः सूर्ये समाहिता इति श्रुत्यन्तरात् । अथवा सूर्यो याभिरद्भिः सह वर्तते । पूर्वत्रापां प्राधान्यमुत्तरत्र सूर्यस्येति विशेषः । ताश्चाप्यादृश्य आपो ऽस्मदीयमध्वरं यागं हिन्वन्तु प्रीणयन्तु ॥ याभिः । सावेकाच इति विभक्तेरुदात्तस्य न गोश्वन्साववर्णेति प्रतिषेधः । शेषा तु प्रक्रिया स्पष्टा ॥
+> या अमूरापः सूर्ये उप समीपेनावस्थिताः । आपः सूर्ये समाहिता इति श्रुत्यन्तरात् । वाथवा सूर्यो याभिरद्भिः सह वर्तते । पूर्वत्रापां प्राधान्यमुत्तरत्र सूर्यस्येति विशेषः । तास्तादृश्य आपो नोऽस्मदीयमध्वरं यागं हिन्वन्तु । प्रीणयन्तु ॥ याभिः । सावेकाच इति विभक्त्युदात्तत्वस्य न गोश्वन्साववर्णेति प्रतिषेधः । शेषा तु प्रक्रिया स्पष्टा ॥
+>
+> *yā amūrāpaḥ sūrye upa samīpenāvasthitāḥ | āpaḥ sūrye samāhitā iti śrutyantarāt | vāthavā sūryo yābhiradbhiḥ saha vartate | pūrvatrāpāṃ prādhānyamuttaratra sūryasyeti viśeṣaḥ | tāstādṛśya āpo no 'smadīyamadhvaraṃ yāgaṃ hinvantu | prīṇayantu || yābhiḥ | sāvekāca iti vibhaktyudāttatvasya na gośvansāvavarṇeti pratiṣedhaḥ | śeṣā tu prakriyā spaṣṭā ||*
 
-*yā amūr āpaḥ sūrye upa samīpenāvasthitāḥ | āpaḥ sūrye samāhitā iti śrutyantarāt | athavā sūryo yābhir adbhiḥ saha vartate | pūrvatrāpāṃ prādhānyam uttaratra sūryasyeti viśeṣaḥ | tāś cāpy ādṛśya āpo 'smadīyam adhvaraṃ yāgaṃ hinvantu prīṇayantu || yābhiḥ | sāvekāca iti vibhakter udāttasya na gośvansāvavarṇeti pratiṣedhaḥ | śeṣā tu prakriyā spaṣṭā ||*
+**Translation:** "Those waters, *yāḥ amūḥ*, which are set *upa*, near, *sūrye*, the sun — from another *śruti*, 'the waters are placed in the sun' — *vā*, or, *yābhiḥ*, the waters with which the sun is *saha*, together; in the first [half] the waters are the chief, in the second the sun: that is the difference. May such waters *hinvantu*, gladden, *naḥ adhvaram*, our sacrifice." (Grammatical tail: *yābhiḥ*, the case-ending udātta by *sāv ekācaḥ* is barred by *na gośvansāvavarṇa…*; the rest of the derivation is clear.)
 
-**Translation:** "Those waters yonder (*amūḥ*) that are near the sun (*sūrye upa*), 'the waters are placed in the sun' [as another śruti says]; or those waters with which (*yābhiḥ*) the sun abides: in the former [reading] the waters have priority, in the latter the sun — that is the difference. May those waters, of such kind, gladden (*hinvantu*) — please — our sacrifice (*adhvaram*). *Yābhiḥ*: the acute of the case-ending by *sāvekāca* is prevented by P. 6-1-182 [*na gośvanṣāvavarṇa…*]. The rest of the process is clear." *(Grammar pages 206–211, noted briefly: the words treated are* amūḥ*,* yāḥ*,* upa *(accent),* sūrye*,* yābhiḥ*,* hinvantu *and* adhvaram*. By far the greater part of these six pages is one long scholastic discussion of the Pāṇinian rule P. 6-1-171 *sāvekācas tṛtīyādir vibhaktiḥ* ('after a monosyllabic stem the case-ending from the instrumental onward takes the acute') and its prohibition P. 6-1-182 *na go-śvan-sāvavarṇa-rāḍ-aṅkru-ṅkṛ-dṛdbhyaḥ*: it asks whether the word* sau *in the sūtra means the nominative singular only or also the locative plural *su*; the vārttika *sau ca* and the argument of the *Mahābhāṣya* on grahaṇa; the forms* yāta*,* rāma *and* dośabhyām*,* abhyām*,* ebhiḥ*,* eṣām*, *śvabhiḥ*, *śunā* are examined, and the role of the paribhāṣā *svaravidhau vyañjanam avidyamānavat*. It is purely technical, bears on the accent of* yābhiḥ *only, and is characterized, not transcribed; the discussion ends (p. 211) by concluding that the case-ending after* yā *takes no acute here, so* yābhiḥ *has the acute on* yā *only. The verbal forms:* hinvantu *[*hi gatau vṛddhau ca*, *loṭ*, *nu* by P. 3-1-73 *svādibhyaḥ śnuḥ*? — here P. 3-1-79 *tanādikṛñbhya uḥ* [?] — and the accent],* adhvaram *[as in Rik 16]; numerals as read, pointers only.)*
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** **यः अमूः (yāḥ amūḥ)** — those waters | **सूर्ये उप (sūrye upa)** — near the sun | **वा (vā)** — or | **सूर्यः (sūryaḥ)** — the sun | **याभिः (yābhiḥ)** — with which waters | **सह (saha)** — together | **ताः (tāḥ)** — those waters | **नः (naḥ)** — our | **अध्वरम् (adhvaram)** — sacrifice | **हिन्वन्तु (hinvantu)** — may they carry on with gladness.
+**याः अमूः (yāḥ amūḥ)** — which these waters | **सूर्ये उप (sūrye upa)** — are near the sun | **वा (vā)** — or | **सूर्यः (sūryaḥ)** — the sun | **याभिः (yābhiḥ)** — with which waters | **सह (saha)** — is together | **ताः (tāḥ)** — those waters | **नः (naḥ)** — our | **अध्वरं (adhvaraṃ)** — sacrifice | **हिन्वन्तु (hinvantu)** — may they carry out gladly.
 
-**॥ Bhāvārthaḥ ॥** May those waters that are near the sun — or those near which the sun himself stays — carry out our sacrifice gladly.
+**॥ Bhāvārthaḥ ॥**
+
+May those waters which are near the sun, or near which waters the sun is, make our sacrifice come to pass gladly.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Those sacred waters who are near the sun or to whom the sun is near, may they promote our sacrifice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 206)* **या उप सूर्ये** — the waters near the sun are, that is, the water that is drawn up by the sun's rays (from the ocean) and stands in the *antarikṣa* in the form of clouds. In the Taittirīya Āraṇyaka too there is a śruti sentence, *āpaḥ sūrye samāhitāḥ* ('the waters are placed in the sun'). *Yābhir vā sūryaḥ saha* has the same meaning: the commentator has explained the cases and the words in a different way. Or, since rays of the sun fall on the waters of rivers and the like, it may be said that the sun is near the water; this mantra suggests the close relation between water and the sun.
+### Page 206 — Rik 17: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**या उप सूर्ये (yā upa sūrye)** — the waters near the sun, that is, the water (sea water) drawn up by the sun's rays and in the mid-air in the form of clouds. In the Taittirīya Āraṇyaka too there is the *śruti* statement *āpaḥ sūrye samāhitāḥ*. *Yābhir vā sūryaḥ saha* — this sentence too has the same meaning; it is said in another way, by changing the case and number. Or, since the sun's rays fall on bodies of water such as rivers, it may be said that the sun is near the water. In sum this mantra suggests that there is a close connection between water and the sun.
+
+> आपः सूर्ये समाहिताः ।
+>
+> *āpaḥ sūrye samāhitāḥ |*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**याभिः (yābhiḥ)** — after the word *yad*, *bhis*; by *tyadādīnām aḥ* (Pā. Sū. 7-2-102) — when a case-ending follows, the final letter of the words read in the *tyadādi* class takes *a* — the *a* for the *d*, the following form, *ṭāp* when the feminine is shown, the lengthening of like vowels; *yā* + *bhis*, *ru* and *visarga* for the *s*: it becomes *yābhiḥ*. *Sāv ekācas tṛtīyādir vibhaktiḥ* (Pā. Sū. 6-1-168): the meaning of the sūtra is that when the locative plural suffix *su* follows, the case-ending after a monosyllabic form that conveys the same meaning as the monosyllabic form found before *su* is udātta. In the Mahābhāṣya on this sūtra:
+
+> सावितिकिमिदं प्रथमैकवचनस्य ग्रहणमाहोस्वित्सप्तमीबहुवचनस्य ।
+>
+> *sāvitikimidaṃ prathamaikavacanasya grahaṇamāhosvitsaptamībahuvacanasya |*
+
+"What is *sau* — is it the taking of the nominative singular or of the locative plural?" — that is, does the word *sau* take the first-case singular suffix *su*, or the locative plural *sup*? The Bhāṣya: *kutaḥ saṃdehaḥ?* — what is the reason for doubt? *Samāno nirdeśaḥ*: even if the locative *ṅi* is put after the nominative singular *su*, it becomes *sau*; when the *p* of the locative plural *sup* is removed by the *it*-name, it stands as *su*, and even if the locative singular *ṅi* is put after it, it becomes *sau*. Since in both the first and the seventh case the form *sau* is the same, doubt arises. Here the author of the *Kaiyaṭa* has described the intention thus:
+
+> यदि शास्त्रीयं सुरूपं गृह्यते तदा प्राथम्यात्प्रथमैकवचनस्य ग्रहणेन भाव्यम् । अथ प्रायोगिकं ततः सप्तमीबहुवचनस्य । तद्धि प्रयोगे सुरूपं श्रूयते । प्रथमैकवचने तु विकृतरूपप्रयोगे न सुरूपमिति संशयानः पृच्छति सावितिकिमिति ।
+>
+> *yadi śāstrīyaṃ surūpaṃ gṛhyate tadā prāthamyātprathamaikavacanasya grahaṇena bhāvyam | atha prāyogikaṃ tataḥ saptamībahuvacanasya | taddhi prayoge surūpaṃ śrūyate | prathamaikavacane tu vikṛtarūpaprayoge na surūpamiti saṃśayānaḥ pṛcchati sāvitikimiti |*
+
+That is: on the view of taking the form *su* established in the technical usage of the science, by the maxim *prathamopasthite parityāge kāraṇābhāvaḥ*, among the twenty-one suffixes *su* and the rest the first, the nominative singular *su*, is taken; if it is intended to take the *su* heard in usage, the locative plural is taken. For in the nominative singular the order *su* —
+
+> प्रथमोपस्थिते परित्यागे कारणाभावः ।
+>
+> *prathamopasthite parityāge kāraṇābhāvaḥ |*
+
+### Page 207 — Rik 17: grammar (continued)
+
+— is not heard as the form *su*, because it is changed: for example *rāmaḥ* and the like, where the *su* has become *visarga*. In places like *rāmāsu* the order *su* is heard in the locative plural. So on the view of taking the usage, the seventh would have to be taken. Since there is such doubt, in the Bhāṣya the question has been considered whether the nominative singular or the locative plural is taken. The answer:
+
+> सप्तमीबहुवचनस्य ग्रहणम् ।
+> कथं ज्ञायते ।
+> यदयं नगोश्वन्साववर्णेति प्रतिषेधं शास्ति ।
+> कथं कृत्वा ज्ञापकम् ।
+> यदि प्रथमैकवचनस्य ग्रहणं स्याद्गोशुनोः प्रतिषेधवचनमनर्थकं स्यात् ।
+>
+> *saptamībahuvacanasya grahaṇam |*
+> *kathaṃ jñāyate |*
+> *yadayaṃ nagośvansāvavarṇeti pratiṣedhaṃ śāsti |*
+> *kathaṃ kṛtvā jñāpakam |*
+> *yadi prathamaikavacanasya grahaṇaṃ syādgośunoḥ pratiṣedhavacanamanarthakaṃ syāt |*
+
+"The locative plural is taken. How is it known? Because he teaches the prohibition *nagośvansāvavarṇa…* (Pā. Sū. 6-1-182). How does that make it known? If the nominative singular were taken, the statement of prohibition for *go* and *śvan* would be pointless." That is: in the nominative singular the forms are *gauḥ* and *śvā*; in the word *go*, *gauḥ* is a monosyllabic form ending in *au*; in the word *śvan*, *śvā* is a monosyllabic form ending in *ā*. In *gobhyām*, *śvabhyām*, the case-ending is after the *o*-final monosyllable *go* and after the short-vowel-final monosyllable *śva*. So in the nominative singular, after whatever monosyllabic form there is, there is no such case-ending after that monosyllable; so *sāv ekācaḥ* would not apply at all, and the statement of prohibition would be useless. If the locative plural is taken, in the locative plural *goṣu*, *śvasu*, the monosyllabic forms *go* and *śva* are found when the locative plural *su* follows. So after the monosyllables *go*, *śva*, the *bhyām* in *gobhyām*, *śvabhyām* would get the udātta by *sāv ekācaḥ*. To prevent it, the prohibition of the udātta for the case-ending after *go*, *śvan* in the sūtra *nagośvan* is purposeful. So the author of the Bhāṣya has established that the locative plural alone is taken. From the Bhāṣya that states the indication itself it results that in *sāv ekācaḥ* the taking of the form is intended. Otherwise, *sau ya ekāc* —
+
+### Page 208 — Rik 17: grammar (continued)
+
+— since in the nominative singular there are the monosyllables *gauḥ*, *śvā*, if the accent were due, the prohibition would be purposeful and could not indicate the stated meaning; if the taking of the form is intended, *sau yadrūpaviśiṣṭaḥ ekāc*: when the nominative singular *su* follows, whatever monosyllabic form there is, *gauḥ*, *śvā*, after it in *gobhyaḥ*, *śvabhyaḥ* there is no case-ending, so the prohibition is incongruous and indicates the stated meaning.
+
+If the nominative singular is taken, a fault comes in *yātā*, where *laṭ* comes after the root *yā*, *śatṛ* for it, *luk* for *śap*, and the instrumental singular *ṭā*: for in the nominative singular, since the dropping of the conjunct-final is *asiddha*, whether as *yān* or as *yānt*, there is a monosyllabic form. After it there is no case-ending of the third onward, but after *yāt* there is the third case-ending. So in the nominative singular, *yadarthaviśiṣṭam ekājrūpam*, since there is no case-ending of the third onward after the monosyllable qualified by that meaning, *sāv ekācaḥ* would not come here. By taking the changed form *yānt* in the nominative singular, the original form *yāt* cannot be taken; and the maxim —
+
+> यदागमास्तद्गुणीभूतास्तद्ग्रहणेन गृह्यन्ते ।
+>
+> *yadāgamāstadguṇībhūtāstadgrahaṇena gṛhyante |*
+
+— 'augments, being subordinate to it, are taken by its mention' — says that where the mention is of what lacks the augment, what has the augment is also taken; so by the mention of *yāns*, which has the augment, *yāt*, which lacks it, cannot be taken. And *tanmadhyapatitas tadgrahaṇena gṛhyate* (Paribhā. 90 [?], as read) makes known only that by the mention of the bare thing the qualified one is taken; by the qualified *yānt* the bare *yāt* cannot be taken.
+
+> तन्मध्यपतितस्तद्ग्रहणेन गृह्यते ।
+>
+> *tanmadhyapatitastadgrahaṇena gṛhyate |*
+
+In *sāv ekācaḥ* one does not describe the meaning by intending the taking of the form, 'whatever monosyllabic form expressing a meaning there is before *su*'. Rather the meaning of the sūtra *sāv ekācaḥ* is: when *su* follows, whatever word is monosyllabic, the case-ending of the third onward after that word is udātta. Thus, since the word *yāt* is monosyllabic in the nominative singular, the case-ending after it may get the udātta. But though in *yātā* there is no fault, a fault comes in *doṣabhyām*. In the nominative singular *doḥ* the word *doṣ* is monosyllabic. When *bhyām* comes after it, after the substitute *doṣan* by *paddannomāshṛnniśasanyūṣandoṣan…* (Pā. Sū. 6-1-63), in *doṣan* + *bhyām* too the *bhyām* would have to be udātta. The mid-udātta accent *doṣabhyām* is what is desired here. So the taking of the form must be intended. Now the monosyllabic form before *su* is *doḥ*. After it there is no *bhyām*. So by *sāv ekācaḥ* the case-ending does not get the udātta; but by *anudāttau suppitau* it is unaccented. The word *doṣ* —
+
+### Page 209 — Rik 17: grammar (continued)
+
+— ends in the suffix *ḍosi* by *damer ḍosiḥ* (U. Sū. 2-28 [?]), and is final udātta by the suffix accent. When the substitute *doṣan* coming in its place is also final udātta, the mid-udātta *doṣabhyām* is established. Even if *sau* is intended as the locative plural, if one does not intend the taking of the form in *sāv ekācaḥ* as said before, the fault comes in *doṣabhyām*. Thus, since the intention to take the form in *sāv ekācaḥ* is needed to prevent the udātta of the case-ending in *doṣabhyām*, once that is established, if the nominative singular is taken, the udātta cannot come in *yātā*. For that it must be held that the locative plural alone is taken. Now since in the locative *yātsu* is the form, *sau yad ekājrūpaṃ yāt*, and the case-ending after it exists, the udātta accent is established in places like *yātā*, *yādbhyām*. Even if *sāv ekācaḥ* is held to be the locative and the taking of the form is intended, the fault comes in *doṣabhyām*. In *doḥṣu*, when *su* follows, there is the form *doḥ*. This is not heard in *doṣabhyām*. Yet since in place of *doṣ* the substitute *doṣan* has come, by the *sthānivadbhāva* of *sthānivad ādeśaḥ* (Pā. Sū. 1-1-56) the form *doṣan* becomes like the form *doḥ*. So in the locative plural, since there is a case-ending of the third onward after whatever form there is, the *bhyām* would have to be udātta. In the Taittirīya, *doṣabhyāṃ svāhā* is mid-udātta, so it cannot be said that the udātta of the case-ending is desired. Only where the form found when the locative plural follows is actually heard does *sāv ekācaḥ* come. Where it is not directly heard, we say that, imagining by *sthānivadbhāva* and the like that the same form is there, the present sūtra does not enter. Thus in *doṣabhyām*, since *doḥ* is not heard, *sāv ekācaḥ* does not come here. Then on this view the examples *śunaḥ*, *śunā* given by the author of the Bhāṣya at the sūtra *nagośvan* would have to be incongruous. In the locative plural form *śvasu*, the form *śva* is heard here; since the dropping of *n* is an accent rule, even though by *nalopaḥ supsvara…* (Pā. Sū. 8-2-2) it is *asiddha*, it becomes as if *śvan* were there. In *śunaḥ*, *śunā* the form *śvan*, heard in the Veda, is not heard as either *śva* or *śvan*; so here *sāv ekācaḥ* does not apply at all. Then why should the prohibition come here? So it is to be held that there is no strict requirement that the form be directly heard. Now, though by *saṃprasāraṇa* *u* has come for the *v*, a part of *śvan*, and a change has come to the part, by *ekadeśavikṛtam ananyavat*, imagining that *śvan* itself is there, *sāv ekācaḥ* would be due; to avoid it, the example *śunaḥ*, *śunā* of the prohibition becomes congruous. Likewise in *doṣabhyām*, by *sthānivadbhāva* the form *doḥ* —
+
+> एकदेशविकृतमनन्यवत् ।
+>
+> *ekadeśavikṛtamananyavat |*
+
+### Page 210 — Rik 17: grammar (continued)
+
+— being there, one may object that the case-ending should be udātta. The answer: according to usage we repeat *ekācaḥ*. So the meaning drawn out of the sūtra is: when the *su* suffix follows, whatever monosyllabic word expressing a meaning is heard, on the view that the case-ending after such a form is after that very monosyllable, it gets the udātta. *Doṣabhyām* follows the polysyllable *doṣa*, so the udātta accent does not come here. If the word *sau* were not there, it would mean *ekācaḥ paraṃ tṛtīyādir vibhaktir udāttā syāt*. In *rājñā* the *ṭā* is after the monosyllable *rājñ*, so it would have to be udātta. If *ekācaḥ* were not there, the meaning of the sūtra *sāv ekācaḥ* would be *sau vartamānāt śabdāt parā tṛtīyādir vibhaktir udāttā syāt*. Then too in *rājñā*, since the *ṭā* is after the word found in *sau*, it would have to be udātta. On this view of *sau*, a word like *dvābhyām*, for which being followed by *su* is not possible, would have to be excluded. So here both *sau* and *ekācaḥ* must be there. The conclusion has been reached that by *sau* the locative plural alone is to be taken and that the taking of the form is also intended.
+
+Even so, in the feminine, in words like *ābhyām* and in forms like *ebhiḥ*, *eṣām*, the case-ending would have to be udātta by *sāv ekācaḥ*. So the total lack of accent cannot be obtained. In the feminine the locative form is *āsu*; so when *su* follows, the monosyllabic form *ā* is heard; in *ābhyām* the *bhyām* after such an *ā* would have to get the udātta by *sāv ekācaḥ*. In the masculine and neuter the locative form is *eṣu*. So, though when *su* follows *e* is monosyllabic, in *ebhiḥ*, *eṣām* the *bhis* and *ām* after such an *e* would have to get the udātta by *sāv ekācaḥ*.
+
+When the case-ending thus gets the udātta, by the *śeṣānudātta* accent *anudāttaṃ padam ekavarjam* (Pā. Sū. 6-1-158) the stem's being unaccented is established anyway. That being so, in the sūtra *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. Sū. 2-4-32) the rule laying down the unaccented for *aś* becomes useless. Being useless, it makes known that when *aś* has come in *anvādeśa*, the case-ending there does not get the udātta. So it cannot be said that in places like *ebhiḥ* the case-ending cannot be udātta. For if the rule of the unaccented for *aś* were wholly useless, by the maxim —
+
+> व्यर्थं सत् किंचिदर्थं ज्ञापयति ।
+>
+> *vyarthaṃ sat kiṃcidarthaṃ jñāpayati |*
+
+— it could be said to make known the stated meaning. But it is not wholly useless. Where by *sāv ekācaḥ* the case-ending must not get the udātta, there, by *śeṣanighāta*, the stem cannot be unaccented; there the rule of the unaccented is purposeful. For example, the masculine —
+
+### Page 211 (upper) — Rik 17: grammar (end)
+
+— and neuter *ābhyām* and the like: in the masculine and neuter, when *su* follows, the monosyllabic form is *e*, not *ā*; so in the locative plural there is no such monosyllabic form. In the feminine *āsu*, when the locative plural follows, the form *ā* does exist; but the meaning is different: it is a monosyllabic form expressing the feminine, while the *ā* of the masculine and neuter *ābhyām* is a monosyllabic form expressing masculine and neuter. So, since what follows *sau yadarthaviśiṣṭam ekājrūpam* is not there, the udātta is not established for the masculine-neuter *ābhyām*; so the stem does not become unaccented by *śeṣanighāta*. Here, to obtain the unaccented, the rule of the unaccented is purposeful. Therefore the rule of the unaccented cannot make known that in the matter of *anvādeśa* the case-ending accent does not come. Since in the nominative singular it does not end in *a*/*ā*, it cannot be said that in *ebhiḥ* and the like the udātta is barred by *nagośvan*. In *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171) *antodāttāt* is carried on. In *ābhyām* the stem is unaccented. So since there is no case-ending after a final udātta, the udātta of the case-ending cannot be established by *ūḍidam*. So it cannot be said that the udātta accent of the case-ending is what is desired. In Vedic usages like *ebhir agne piba* [as printed] and *ebhir agne duvo giraḥ* (Ṛ. Saṃ. 1-14-1) total lack of accent alone is heard. Here, even taking the refined meaning of *sāv ekācaḥ*, the case-ending would have to be udātta. So in places like *ebhiḥ* the total lack of accent must be held to be Vedic. The author of the *Uddyota*, when describing the *Pradīpa*'s intention, says, *ebhir agne ityādau sarvānudāttapadaśravaṇaṃ tu chāndasam iti tadbhāvaḥ* (Uddyota 6-1-168) and so on. It seems that the work that resolved this, which the *Candrakalā* saw in the *Śekhara* of the present sūtra, is lost. It now results that, even taking the refined meaning of *sāv ekācaḥ* in the manner of the available *Śekhara*, its application in *ebhiḥ* cannot be stopped. Considering the present case: in *yābhiḥ* the udātta of the case-ending would be due by *sāv ekācaḥ*. For that, by *nagośvansāvavarṇarāḍaṅkruṅkṛdbhyaḥ* (Pā. Sū. 6-1-182) — after the word *go*, the word *śvan*, words ending in *a*/*ā* in the nominative singular, the word *rāṭ* ending in *kvip*, the word *aṅ* formed with *kvip* after the root *añc*, the word *kruñ* formed with *kvin* after the root *kruñc*, and the word *kṛt* formed with *kvip* after the root *kṛ*, the case-ending and the *matup* do not get the udātta — since in the nominative singular *yā* ends in *a*/*ā*, the *bhis* after *yā* does not get the udātta. The rest of the derivation is clear. ॥17॥
+
+> एभिरग्ने इत्यादौ सर्वानुदात्तपदश्रवणं तु छान्दसमिति तद्भावः ।
+>
+> *ebhiragne ityādau sarvānudāttapadaśravaṇaṃ tu chāndasamiti tadbhāvaḥ |*
+
+> एभिरग्ने पिब सोमं ।
+> एभिरग्ने दुवो गिरः ॥ (ऋ० सं० १-१४-१)
+>
+> *ebhiragne piba somaṃ |*
+> *ebhiragne duvo giraḥ || (ṛ0 saṃ0 1-14-1)*
+
+*(An ornament follows.)*
 
 ---
 
