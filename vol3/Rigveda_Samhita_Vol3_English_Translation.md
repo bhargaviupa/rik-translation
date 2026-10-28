@@ -10198,27 +10198,31 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 500)*
 
-> आश्विनावश्वावत्येषा यातं शवीरया ।
-> गोमद्दस्रा हिरण्यवत् ॥ १७ ॥
+> आश्वि॑ना॒वश्वा॑व॒त्येषा या॑तं॒ शवी॑रया ।
+> गोम॑द्दस्रा॒ हिर॑ण्यवत् ॥ १७ ॥
 
-> *āśvināvaśvāvatyeṣā yātaṃ śavīrayā |*
-> *gomaddasrā hiraṇyavat ‖ 17 ‖*
+> *ā́śvināváśvāvatyéṣā́ yātaṃ śávīrayā |*
+> *gómaddasrā híraṇyavat || 17 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The Pada prints* अश्विना*, not* अश्विनौ*.)*
 
 **Pada-pāṭha**
 
-> आ । अश्विनौ । अश्वऽवत्या । इषा । यातम् । शवीरया ।
+> आ । अश्विना । अश्वऽवत्या । इषा । यातं । शवीरया ।
 > गोऽमत् । दस्रा । हिरण्यऽवत् ॥ १७ ॥
 
-> *ā | aśvinau | aśva 'vatyā | iṣā | yātam | śavīrayā |*
+> *ā | aśvinā | aśva 'vatyā | iṣā | yātaṃ | śavīrayā |*
 > *go 'mat | dasrā | hiraṇya 'vat ‖ 17 ‖*
+
+### Page 501 — Sūkta 30, Rik 17 (continued)
 
 **Sāyaṇa-bhāṣya** *(p. 501)*
 
-> प्रातरनुवाके अश्विनक्रतौ गायत्रे छन्दस्याश्विनावश्वावत्येति तृचः । अथाश्विने इति खण्डेऽश्विनौ यज्वरीरिषोऽश्विनावश्वावत्येति सूत्रितम् । आ. ४-१-१३ [?] इति ॥ इन्द्रेण प्रेरितः शुनःशेपोऽश्विनौ तुष्टाव । तथा च ब्राह्मणम् । तमिन्द्र उवाचाश्विनौ नु स्तुहीति [?] सोऽश्विनौ तुष्टावाते उत्तरेण तृचेन । ऐ. ब्रा. ७-१८ [?] इति ॥ हे अश्विनौ अश्वावत्या बहुभिरश्वैर्युक्तया शवीरया प्रेर्यमाणयेषा अन्नेन सह आ यातम् । अस्मत्कर्मणीहागच्छतम् । हे दस्रा अश्विनौ युवयोः प्रसादाद्गोमदश्वहुभिर्गोभिर्युक्तं हिरण्यवत्सुवर्णेन युक्तमस्मदीयं गृहमस्तु इति शेषः ॥ अश्वावत्या । मन्त्रे सोमाश्वेन्द्रियविश्वदेव्यस्य मतौ । पा. ६-३-१३१ इति दीर्घत्वम् । इषा । सानेकाच इति तृतीयाया उदात्तत्वम् । यातम् । या प्रापणे । लोटि तसस्तम् । आदादिकत्वाच्छपो लुक् । शवीरया । शु गतौ । क्वेश्वश्पटेपटीट्शौटिभ्य ईरन् । उ. ४-?? इतीरन् । प्रत्ययो बहुलग्रहणाद् … णित्त्वाद्याद्युदात्तत्वम् ॥
+> प्रातरनुवाक आश्विने क्रतौ गायत्रे छन्दस्याश्विनावश्वावत्येति तृचः । अथाश्विन इति खण्डेऽश्विना यज्वरीरिष आश्विनावश्वावत्या । आ. ४-१५ । इति सूत्रितम् ॥ इन्द्रेण प्रेरितः शुनःशेपोऽश्विनौ तुष्टाव । तथा च ब्राह्मणम् । तमिन्द्र उवाचाश्विनौ नु स्तुह्यथ त्वोत्स्रक्ष्याम इति सोऽश्विनौ तुष्टावात उत्तरेण तृचेन । ऐ. ब्रा. ७-१६ । इति ॥ हे अश्विना अश्वावत्या बहुभिरश्वैर्युक्तया शवीरया प्रेर्यमाणयेषान्नेन सह आ यातम् । अस्मत्कर्मण्यागच्छतम् । हे दस्रा अश्विनौ युवयोः प्रसादाद्गोमद्बहुभिर्गोभिर्युक्तं हिरण्यवद्बहुना हिरण्येन युक्तमस्मदीयं गृहमस्त्विति शेषः ॥ अश्वावत्या । मन्त्रे सोमाश्वेन्द्रियविश्वदेव्यस्य मतौ । पा. ६-३-१३१ । इति दीर्घत्वम् । इषा । सावेकाच इति तृतीयाया उदात्तत्वम् । यातम् । या प्रापणे । लोटि तसस्तम् । अदादित्वाच्छपो लुक् । शवीरया । शु गतौ । कॄशॄपॄकटिपटिशौटिभ्य ईरन् । उ. ४-३० । इतीरन्प्रत्ययो बहुलवचनादस्मादपि भवति । नित्त्वादाद्युदात्तत्वम् ॥
 
-> *prātaranuvāke aśvinakratau gāyatre chandasyāśvināvaśvāvatyeti tṛcaḥ | athāśvine iti khaṇḍe 'śvinau yajvarīriṣo 'śvināvaśvāvatyeti sūtritam | ā. 4-1-13 [?] iti ‖ indreṇa preritaḥ śunaḥśepo 'śvinau tuṣṭāva | tathā ca brāhmaṇam | tamindra uvācāśvinau nu stuhīti [?] so 'śvinau tuṣṭāvāte uttareṇa tṛcena | ai. brā. 7-18 [?] iti ‖ he aśvinau aśvāvatyā bahubhiraśvairyuktayā śavīrayā preryamāṇayeṣā annena saha ā yātam | asmatkarmaṇīhāgacchatam | he dasrā aśvinau yuvayoḥ prasādādgomadaśvahubhirgobhiryuktaṃ hiraṇyavatsuvarṇena yuktamasmadīyaṃ gṛhamastu iti śeṣaḥ ‖ aśvāvatyā | mantre somāśvendriyaviśvadevyasya matau | pā. 6-3-131 iti dīrghatvam | iṣā | sānekāca iti tṛtīyāyā udāttatvam | yātam | yā prāpaṇe | loṭi tasastam | ādādikatvācchapo luk | śavīrayā | śu gatau | kveśvaśpaṭepaṭīṭśauṭibhya īran | u. 4-?? itīran | pratyayo bahulagrahaṇād … ṇittvādyādyudāttatvam ‖*
+> *prātaranuvāka āśvine kratau gāyatre chandasyāśvināvaśvāvatyeti tṛcaḥ | athāśvina iti khaṇḍe 'śvinā yajvarīriṣa āśvināvaśvāvatyā | ā. 4-15 | iti sūtritam ‖ indreṇa preritaḥ śunaḥśepo 'śvinau tuṣṭāva | tathā ca brāhmaṇam | tamindra uvācāśvinau nu stuhyatha tvotsrakṣyāma iti so 'śvinau tuṣṭāvāta uttareṇa tṛcena | ai. brā. 7-16 | iti ‖ he aśvinā aśvāvatyā bahubhiraśvairyuktayā śavīrayā preryamāṇayeṣānnena saha ā yātam | asmatkarmaṇyāgacchatam | he dasrā aśvinau yuvayoḥ prasādādgomadbahubhirgobhiryuktaṃ hiraṇyavadbahunā hiraṇyena yuktamasmadīyaṃ gṛhamastviti śeṣaḥ ‖ aśvāvatyā | mantre somāśvendriyaviśvadevyasya matau | pā. 6-3-131 | iti dīrghatvam | iṣā | sāvekāca iti tṛtīyāyā udāttatvam | yātam | yā prāpaṇe | loṭi tasastam | adāditvācchapo luk | śavīrayā | śu gatau | kṝśṝpṝkaṭipaṭiśauṭibhya īran | u. 4-30 | itīranpratyayo bahulavacanādasmādapi bhavati | nittvādādyudāttatvam ‖*
 
-*Translation:* "In the morning recitation, in the Aśvin rite, the triplet *āśvināv aśvāvatyā* in the Gāyatrī metre; in the section *athāśvine* it is laid down: '*aśvinau yajvarīr iṣaḥ, aśvināv aśvāvatyā*' (Āś. 4-1-13 [?]). Śunaḥśepa, impelled by Indra, praised the Aśvins; so the Brāhmaṇa: 'Indra said to him, "Now praise the two Aśvins"; he praised the Aśvins with the following triplet' (Ai. Br. 7-18 [?]). O Aśvins! Come (*ā yātam*) to this our rite with food (*iṣā*), on a swift (*śavīrayā*) conveyance drawn by many horses (*aśvāvatyā*). O Dasras, by your favour let our house be filled with cows (*gomat*) and with gold (*hiraṇyavat*) — this is the supplied remainder."
+*Translation:* "In the morning litany, at the Āśvina rite, in the Gāyatrī metre, the triplet *āśvināv aśvāvatyā*: it is laid down in the section '*athāśvine*': '*aśvinā yajvarīr iṣaḥ, āśvināv aśvāvatyā*' (Āś. 4-15). Śunaḥśepa, impelled by Indra, praised the Aśvins; so the Brāhmaṇa: 'Indra said to him, "Praise the two Aśvins now; then we shall let you go"; he praised the Aśvins with the following triplet' (Ai. Br. 7-16). O Aśvins! On a swift (*śavīrayā*: being urged) [conveyance] with many horses (*aśvāvatyā*), with food (*iṣā*), come (*ā yātam*) to our rite. O Dasras, Aśvins, by your favour may our house be filled with many cows (*gomat*) and with much gold (*hiraṇyavat*) — this is the remainder." The grammatical tail treats *aśvāvatyā* (lengthening by Pā. 6-3-131), *iṣā* (udātta instrumental ending by *sāv ekācaḥ*), *yātam* (*tam* for *tas* in the *loṭ*; *luk* of *śap*) and *śavīrayā* (*īran* by '*kṝśṝpṝkaṭipaṭiśauṭibhya īran*', U. 4-30, applied to *śu* too by the word *bahulam*; initial udātta as *nit*).
 
 **Pratipadārtha** *(p. 501, rendered)* — **अश्विनौ** O Aśvin gods; **अश्वावत्या** drawn by many horses; **शवीरया** urged on, swift; **इषा** with food; **आ यातम्** come (to this rite); **दस्रा** O Aśvin gods (by your favour our house) **गोमत्** with cows; **हिरण्यवत्** with abundant gold (let it be).
 
@@ -10228,9 +10232,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > Aswins, come hither with food borne on fast moving horses; Dasras, (destroyers of foes) let our dwelling be filled with cattle and with gold.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 501–502)* — At the time of reciting the morning-litany mantras in the Aśvina-kratu, when the Gāyatrī Riks are recited, the triplet beginning *aśvināv aśvāvatyā* is to be recited, as Āśvalāyana's sūtra says in the section *athāśvine*: '*aśvinau yajvarīr iṣaḥ, aśvināv aśvāvatyā*' (Āś. 4-1-13 [?]). After praising Indra, Śunaḥśepa, impelled by him, praised the Aśvins with the three Riks; on this the Aitareya-Brāhmaṇa has *tam indra uvācāśvinau nu stuhīti* … (Ai. Br. 7-18 [?]); its meaning was given in the Śunaḥśepa narrative. **अश्वावत्या, शवीरया** — these are adjectives of the instrumental *iṣā*: *aśvāvatyā* 'with horses', *śavīrayā* 'of swift motion'; the commentator gives *preryamāṇayā* 'being urged'; since *śavīra* is formed from *śu gatau*, the sense 'going' should be said as an adjective of *aśvāvatyā*. **गोमत्, हिरण्यवत्** — 'having cows, having gold'; though *gṛha* ('house') is not in the Rik, the commentator supplies it. **दस्रा** — the Aśvins, destroyers of foes; the word *dasra* denotes one of them, but here both are meant, so the dual is used.
+**Viśeṣa-viṣayagaḷu** *(pp. 501–502)* — At the time of reciting the morning-litany mantras in the Aśvina-kratu, when the Gāyatrī Riks are recited, the triplet beginning *aśvināv aśvāvatyā* is to be recited, as Āśvalāyana's sūtra says in the section *athāśvine*: '*aśvinā yajvarīr iṣa āśvināv aśvāvatyā*' (Āś. 4-15). After praising Indra, Śunaḥśepa, impelled by him, praised the Aśvins with the three Riks; on this the Aitareya-Brāhmaṇa has *tam indra uvācāśvinau nu stuhy atha tvotsrakṣyāma iti so 'śvinau tuṣṭāvāta uttareṇa tṛcena* (Ai. Br. 7-16); its meaning was given in the Śunaḥśepa narrative. 
 
-**Grammar (pp. 502–503), noted briefly:** *aśvāvatyā* (*matup* P. 4-2-? / *tadasyāsty…*; *m*→*v* P. 8-2-9; feminine by *ugitaś ca* P. 4-1-6; lengthening P. 6-3-131 *mantre somāśvendriyaviśvadevyasya matau*); *iṣā* (P. 6-1-168 *sāvekācas tṛtīyādir vibhaktiḥ* gives the ending's acute); *yātam* (*yā prāpaṇe*, *adādi*, *loṭ* dual, *tas* → *tam* P. 3-4-101; *lasya* … P. 3-4-? [?]; *śap* *luk*); *śavīrayā* (*śu gatau*, *īran* by an Uṇādi sūtra *kleśvaś…* [as read], *ṇit* → initial acute). Numerals as read, [?].
+### Page 502 — Sūkta 30, Rik 17 (continued)
+
+**अश्वावत्या, शवीरया** — these are adjectives of the instrumental *iṣā*: *aśvāvatyā* 'with horses', *śavīrayā* 'of swift motion'; the commentator gives *preryamāṇayā* 'being urged'; since *śavīra* is formed from *śu gatau*, the sense 'going' should be said as an adjective of *aśvāvatyā*. **गोमत्, हिरण्यवत्** — 'having cows, having gold'; though *gṛha* ('house') is not in the Rik, the commentator supplies it. **दस्रा** — the Aśvins, destroyers of foes; the word *dasra* denotes one of them, but here both are meant, so the dual is used.
+
+**Vyākaraṇa-prakriyā** *(pp. 502–503, noted briefly)* — *aśvāvatyā*: in the sense '*aśvā asyāḥ santi*', *matup* by '*tad asya-*'; *v* for *m* after *a*; *ṅīp* in the feminine by '*ugitaś ca*'; instrumental singular; lengthening of *aśva* before *matup* in the Saṃhitā by '*mantre somāśvendriyaviśvadevyasya matau*' (Pā. sū. 6-3-131). *iṣā*: instrumental singular; the ending, grave by '*anudāttau suppitau*' (Pā. sū. 3-1-4), becomes udātta by '*sāv ekācas tṛtīyādiḥ*' (Pā. sū. 6-1-168). *yātam*: *yā prāpaṇe*, *adādi*, *loṭ* third person dual *tas*; the *loṭ* is treated like *laṅ* by '*loṭo laṅvat*' (Pā. sū. 3-4-85), *(p. 503)* so *tam* for *tas* by '*tasthasthamipām*' (Pā. sū. 3-4-101); *luk* of *śap* by '*adiprabhṛtibhyaḥ śapaḥ*' (Pā. sū. 2-4-72); grave as a *tiṅ* form. *śavīrayā*: *śu gatau*; *īran* prescribed by '*kṝśṝpṝkaṭipaṭiśauṭibhya īran*' (U. sū. 4-470; the bhāṣya, p. 501, prints उ. ४. ३०) comes to this root too by the word *bahula*, though not named in the sūtra; guṇa by '*sārvadhātukārdhadhātukayoḥ*' (Pā. sū. 7-3-84); *av* by '*eco 'yavāyāvaḥ*' (Pā. sū. 6-1-78); *ṭāp* by '*ajādyataṣ ṭāp*' (Pā. sū. 4-1-4); instrumental singular; initial udātta, *īran* being *nit*, by '*ñnity ādir nityam*' (Pā. sū. 6-1-197).
 
 ---
 ### Pages 503–505 — Sūkta 30, Rik 18 (to the Aśvins)
