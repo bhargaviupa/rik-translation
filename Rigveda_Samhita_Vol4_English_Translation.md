@@ -351,13 +351,13 @@ Kannada prose with sūtras quoted; the numerals are small; those given were re-r
 
 ### Rik 33.6 (pp. 26–30, PDF 40–44)
 
-**Saṃhitā-pāṭha** *(p. 26; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 26; Saṃhitā accents as printed; Pada unaccented)*
 
-> **अयुयुत्सन्ननवद्यस्य सेनामयातयन्त क्षितयो नवग्वाः ।**
-> **वृषायुधो न वध्रयो निरष्टाः प्रवद्भिरिन्द्राच्चितयन्त आयन् ॥ ६ ॥**
-
-*ayuyutsann anavadyasya senām ayātayanta kṣitayo navagvāḥ |*
-*vṛṣāyudho na vadhrayo niraṣṭāḥ pravadbhir indrāc citayanta āyan || 6 ||*
+> अयु॑युत्सन्ननव॒द्यस्य॒ सेना॒मया॑तयन्त क्षि॒तयो॒ नव॑ग्वाः ।
+> वृ॒षा॒युधो॒ न वध्र॑यो॒ निर॑ष्टाः प्र॒वद्भि॒रिन्द्रा॑च्चितय॑न्त आयन् ॥ ६ ॥
+>
+> *áyuyutsann anavadyásya sénām áyātayanta kṣitáyo návagvāḥ |*
+> *vṛṣāyúdho ná vádhrayo níraṣṭāḥ pravádbhir índrāc citáyanta āyan || 6 ||*
 
 **Pada-pāṭha** *(p. 27)*
 
