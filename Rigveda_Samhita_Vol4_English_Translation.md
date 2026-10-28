@@ -6319,13 +6319,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 ### Rik 40.5 (pp. 394–397, PDF 408–411)
 
-**Saṃhitā-pāṭha** *(p. 394; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 394; Saṃhitā accents as printed; Pada unaccented. The print sets* okāṃsi cakrire *on a third line.)*
 
-> **प्र नूनं ब्रह्मणस्पतिर्मन्त्रं वदत्युक्थ्यम् ।**
-> **यस्मिन्निन्द्रो वरुणो मित्रो अर्यमा देवा ओकांसि चक्रिरे ॥ ५ ॥**
-
-*pra nūnaṃ brahmaṇaspatir mantraṃ vadaty ukthyam |*
-*yasminn indro varuṇo mitro aryamā devā okāṃsi cakrire || 5 ||*
+> प्र नू॒नं ब्रह्म॑णस्पति॒र्मन्त्रं॑ वदत्यु॒क्थ्यं॑ ।
+> यस्मि॒न्निन्द्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा दे॒वा ओकां॑सि चक्रि॒रे ॥ ५ ॥
+>
+> *pra nūnáṃ bráhmaṇas patir mántraṃ vadaty ukthyaṃ |*
+> *yasminn índro váruṇo mitró aryamā́ devā́ ókāṃsi cakriré || 5 ||*
 
 **Pada-pāṭha** *(p. 394)*
 
@@ -6339,15 +6339,15 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa-bhāṣya** *(p. 394)*
 
-> **अग्नीषोमे मरुत्वतीयशस्त्र इन्द्रनिविद्प्रगाथानन्तरं प्र नूनमिति प्रगाथः । मरुत्वतीयेनेति खण्डे सूत्रितं । प्र नूनं ब्रह्मणस्पतिरिति ब्राह्मणस्पत्यः । आ. ५-१० [?] । इति ॥**
+> **अग्नीषोमे मरुत्वतीयशस्त्र इन्द्रनिविद्प्रगाथानन्तरं प्र नूनमिति प्रगाथः । मरुत्वतीयेनेति खण्डे सूत्रितं । प्र नूनं ब्रह्मणस्पतिरिति ब्राह्मणस्पत्यः । आ. ५-१४ । इति ॥**
 
-*agnīṣome marutvatīyaśastra indranivid-pragāthānantaraṃ pra nūnam iti pragāthaḥ | marutvatīyeneti khaṇḍe sūtritaṃ | pra nūnaṃ brahmaṇaspatir iti brāhmaṇaspatyaḥ | ā. 5-10 [?] | iti ||*
+*agnīṣome marutvatīyaśastra indranivid-pragāthānantaraṃ pra nūnam iti pragāthaḥ | marutvatīyeneti khaṇḍe sūtritaṃ | pra nūnaṃ brahmaṇaspatir iti brāhmaṇaspatyaḥ | ā. 5-14 | iti ||*
 
 *(The first sentence is the Sāyaṇa note on the application of this ṛk; the Sanskrit "indranivid-pragāthā" is doubtful in the print [?].)*
 
-> **ब्रह्मणस्पतिर्देव उक्थ्यं शस्त्रयोग्यं मन्त्रं नूनमवश्यं प्र वदति । होतृमुखे स्थितः सन् प्रब्रूते । यस्मिन्मन्त्र इन्द्रादयश्च सर्वे देवा ओकांसि स्थानानि चक्रिरे । तादृशं सर्वदेवप्रतिपादकं मन्त्रमिति पूर्वत्रान्वयः ॥ मन्त्रं । मत्रि गुप्तभाषणे । पचाद्यच् । वृषादिषु पाठादाद्युदात्तत्वं । उक्थ्यं । उक्थार्हं । छन्दसि चेत्यैर्हार्थे यप्रत्ययः । यद्वा । भवे छन्दसीति यत् । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनान्नावः [?] इत्याद्युदात्तत्वाभावे व्यत्ययेन तित्स्वरितमिति स्वरितत्वं । ओकांसि । उच समवाये । समवयन्त्यस्मिन्नित्यधिकरण औणादिकोऽसुन् । बहुलग्रहणात् कुत्वं द्रष्टव्यमिति । ओके उचः के । पा. ७-३-६४ । इत्यत्र वृत्त्वा इत्युक्तं । चक्रिरे । इरेचित्त्वात्प्रत्ययस्वरः । यद्वृत्तयोगानिघातः ॥ ५ ॥**
+> **ब्रह्मणस्पतिर्देव उक्थ्यं शस्त्रयोग्यं मन्त्रं नूनमवश्यं प्र वदति । होतृमुखे स्थितः सन् प्रब्रूते । यस्मिन्मन्त्र इन्द्रादयश्च सर्वे देवा ओकांसि स्थानानि चक्रिरे । तादृशं सर्वदेवप्रतिपादकं मन्त्रमिति पूर्वत्रान्वयः ॥ मन्त्रं । मत्रि गुप्तभाषणे । पचाद्यच् । वृषादिषु पाठादाद्युदात्तत्वं । उक्थ्यं । उक्थार्हं । छन्दसि चेत्यैर्हार्थे यप्रत्ययः । यद्वा । भवे छन्दसीति यत् । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनाद्यतोऽनाव इत्याद्युदात्तत्वाभावे व्यत्ययेन तित्स्वरितमिति स्वरितत्वं । ओकांसि । उच समवाये । समवयन्त्यस्मिन्नित्यधिकरण औणादिकोऽसुन् । बहुलग्रहणात् कुत्वं द्रष्टव्यमिति । ओके उचः के । पा. ७-३-६४ । इत्यत्र वृत्त्वा इत्युक्तं । चक्रिरे । इरेचित्त्वात्प्रत्ययस्वरः । यद्वृत्तयोगानिघातः ॥ ५ ॥**
 
-*brahmaṇaspatir devaḥ ukthyaṃ śastrayogyaṃ mantraṃ nūnam avaśyaṃ pra vadati | hotṛmukhe sthitaḥ san prabrūte | yasmin mantra indrādayaś ca sarve devā okāṃsi sthānāni cakrire | tādṛśaṃ sarvadevapratipādakaṃ mantram iti pūrvatrānvayaḥ || mantraṃ | matri guptabhāṣaṇe | pacādyac | vṛṣādiṣu pāṭhād ādyudāttatvaṃ | ukthyaṃ | ukthārhaṃ | chandasi cety aihārthe yapratyayaḥ | yadvā | bhave chandasīti yat | sarve vidhayaś chandasi vikalpyanta iti vacanān nāvaḥ [?] ity ādyudāttatvābhāve vyatyayena titsvaritam iti svaritatvaṃ | okāṃsi | uca samavāye | samavayanty asminn ity adhikaraṇa auṇādiko 'sun | bahulagrahaṇāt kutvaṃ draṣṭavyam iti | oke ucaḥ ke | pā. 7-3-64 | ity atra vṛttvā ity uktaṃ | cakrire | irecittvāt pratyayasvaraḥ | yadvṛttayogān nighātaḥ || 5 ||*
+*brahmaṇaspatir devaḥ ukthyaṃ śastrayogyaṃ mantraṃ nūnam avaśyaṃ pra vadati | hotṛmukhe sthitaḥ san prabrūte | yasmin mantra indrādayaś ca sarve devā okāṃsi sthānāni cakrire | tādṛśaṃ sarvadevapratipādakaṃ mantram iti pūrvatrānvayaḥ || mantraṃ | matri guptabhāṣaṇe | pacādyac | vṛṣādiṣu pāṭhād ādyudāttatvaṃ | ukthyaṃ | ukthārhaṃ | chandasi cety aihārthe yapratyayaḥ | yadvā | bhave chandasīti yat | sarve vidhayaś chandasi vikalpyanta iti vacanād yato 'nāva ity ādyudāttatvābhāve vyatyayena titsvaritam iti svaritatvaṃ | okāṃsi | uca samavāye | samavayanty asminn ity adhikaraṇa auṇādiko 'sun | bahulagrahaṇāt kutvaṃ draṣṭavyam iti | oke ucaḥ ke | pā. 7-3-64 | ity atra vṛttvā ity uktaṃ | cakrire | irecittvāt pratyayasvaraḥ | yadvṛttayogān nighātaḥ || 5 ||*
 
 *(The print's closing numeral of this bhāṣya reads like "10" or "30"; I read it as the Rik number 5 [?].)*
 
@@ -6357,26 +6357,30 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Bhāvārtha** *(p. 395)* — "In the mantra recited by the *hotṛ* at the time of the sacrifice, Indra, Varuṇa, Mitra, Aryaman and further all the deities have made their dwelling places; that is, the mantra expresses all the deities. Brahmaṇaspati, favouring the *hotṛ* and standing in his mouth, clearly recites this mantra, which is fit for praise and which expresses all the deities."
 
+### Page 395 (better scan PDF 410)
+
 **English Translation (the source's own, p. 395)** — "Now, Brahmanaspati will sing forth a sacred prayer in which the gods Indra, Varuna, Mitra, and Aryaman have made their abode ( have been praised )" *(printed with the missing letters in "been" and "praised" — "have b:en praised" — as a scan defect; no full stop)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 395–396**
-- **Application** — "In the *Agniṣṭoma* sacrifice, at the time of reciting the *Marutvatīya śastra* mantras, in order to praise Indra and the other deities in the *Bṛhatī* metre, the ṛks beginning *pra nūnam brahmaṇaspatiḥ* are to be recited: so it is explained in the section called *Marutvatīya* of the Āśvalāyana Śrauta-sūtra by the sūtra '*pra nūnaṃ brahmaṇaspatir iti brāhmaṇaspatyaḥ*' (Āś. 5-[?])."
+- **Application** — "In the *Agniṣṭoma* sacrifice, at the time of reciting the *Marutvatīya śastra* mantras, in order to praise Indra and the other deities in the *Bṛhatī* metre, the ṛks beginning *pra nūnam brahmaṇaspatiḥ* are to be recited: so it is explained in the section called *Marutvatīya* of the Āśvalāyana Śrauta-sūtra by the sūtra '*pra nūnaṃ brahmaṇaspatir iti brāhmaṇaspatyaḥ*' (Ā. 5-14)."
 - **varuṇo mitro aryamā** — "Generally these three deities are praised together in many mantras. We give some examples:
-  (1) **आनो बर्हिरिशादसो वरुणो मित्रो अर्यमा ।** — *ā no barhir riśādaso varuṇo mitro aryamā* (Ṛg. Saṃ. 1-26-4 [?]) — mine and tentative: "to our *barhis* [come] Varuṇa, Mitra, Aryaman, devourers of enemies";
-  (2) **देवासस्त्वा वरुणो मित्रो अर्यमा सं दूतं प्रत्नमिन्धते ।** — *devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate* (Ṛg. Saṃ. 1-36-4 [?]) — "the gods, Varuṇa, Mitra, Aryaman, kindle you, the ancient messenger";
-  (3) **यं रक्षन्ति प्रचेतसो वरुणो मित्रो अर्यमा ।** — *yaṃ rakṣanti pracetaso varuṇo mitro aryamā* (Ṛg. Saṃ. 1-41-1 [?]) — "whom the wise Varuṇa, Mitra, Aryaman protect";
-  (4) **कृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ।** — *kṛṇotu mitro aryamā bhago nas tuvijāto varuṇo dakṣo aṃśaḥ* (Ṛg. Saṃ. 2-27-1 [?]) — "may Mitra, Aryaman, Bhaga, the mighty-born Varuṇa, Dakṣa, Aṃśa make [it] for us";
-  (5) **बृहस्पतिः शर्म पूषोत नो यमद्वरूथ्यं वरुणो मित्रो अर्यमा ।** — *bṛhaspatiḥ śarma pūṣota no yamad varūthyaṃ varuṇo mitro aryamā* (Ṛg. Saṃ. 5-46-5 [?]) — "may Bṛhaspati, Pūṣan, and Varuṇa, Mitra, Aryaman, grant us a sheltering refuge";
-  (6) **सजोषसा वरुणो मित्रो अर्यमा ।** — *sajoṣasā varuṇo mitro aryamā* (Ṛg. Saṃ. 4-[?]-[?]) — "united: Varuṇa, Mitra, Aryaman";
-  (7) **रसं ते मित्रो अर्यमा पिबन्ति वरुणः कवे ।** — *rasaṃ te mitro aryamā pibanti varuṇaḥ kave* (Ṛg. Saṃ. 9-64-24 [?]) — "Mitra, Aryaman, Varuṇa drink your juice, O seer";
-  (8) **आर्यमणं वरुणं मित्रमेषामिन्द्राविष्णू मरुतो अश्विनोत ।** — *āryamaṇaṃ varuṇaṃ mitram eṣām indrāviṣṇū maruto aśvinota* (Ṛg. Saṃ. 4-2-4 [?]) — "of these, Aryaman, Varuṇa, Mitra, Indra and Viṣṇu, the Maruts and the Aśvins." The source leaves all eight untranslated; the glosses are mine and tentative and every reference numeral is read with doubt [?]. "Such examples are as many as are needed in the Ṛgveda."
+  (1) **आनो बर्हिरिशादसो वरुणो मित्रो अर्यमा ।** — *ā no barhir riśādaso varuṇo mitro aryamā* (Ṛ. Saṃ. 1-26-4) — mine and tentative: "to our *barhis* [come] Varuṇa, Mitra, Aryaman, devourers of enemies";
+  (2) **देवासस्त्वा वरुणो मित्रो अर्यमा सं दूतं प्रत्नमिन्धते ।** — *devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate* (Ṛ. Saṃ. 1-36-4) — "the gods, Varuṇa, Mitra, Aryaman, kindle you, the ancient messenger";
+  (3) **यं रक्षन्ति प्रचेतसो वरुणो मित्रो अर्यमा ।** — *yaṃ rakṣanti pracetaso varuṇo mitro aryamā* (Ṛ. Saṃ. 1-41-1) — "whom the wise Varuṇa, Mitra, Aryaman protect";
+  (4) **कृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ।** — *kṛṇotu mitro aryamā bhago nas tuvijāto varuṇo dakṣo aṃśaḥ* (Ṛ. Saṃ. 2-27-1) — "may Mitra, Aryaman, Bhaga, the mighty-born Varuṇa, Dakṣa, Aṃśa make [it] for us";
+  (5) **बृहस्पतिः शर्म पूषोत नो यमद्वरूथ्यं वरुणो मित्रो अर्यमा ।** — *bṛhaspatiḥ śarma pūṣota no yamad varūthyaṃ varuṇo mitro aryamā* (Ṛ. Saṃ. 5-46-5) — "may Bṛhaspati, Pūṣan, and Varuṇa, Mitra, Aryaman, grant us a sheltering refuge";
+  (6) **सजोषसा वरुणो मित्रो अर्यमा ।** — *sajoṣasā varuṇo mitro aryamā* (Ṛ. Saṃ. 8-26-11) — "united: Varuṇa, Mitra, Aryaman";
+  (7) **रसं ते मित्रो अर्यमा पिबन्ति वरुणः कवे ।** — *rasaṃ te mitro aryamā pibanti varuṇaḥ kave* (Ṛ. Saṃ. 9-64-24) — "Mitra, Aryaman, Varuṇa drink your juice, O seer";
+  (8) **आर्यमणं वरुणं मित्रमेषामिन्द्राविष्णू मरुतो अश्विनोत ।** — *āryamaṇaṃ varuṇaṃ mitram eṣām indrāviṣṇū maruto aśvinota* (Ṛ. Saṃ. 4-2-4) — "of these, Aryaman, Varuṇa, Mitra, Indra and Viṣṇu, the Maruts and the Aśvins." The source leaves all eight untranslated; the glosses are mine and tentative the reference numerals are zoom-checked on the better scan (PDF 410–411). "Such examples are as many as are needed in the Ṛgveda."
 - **devā okāṃsi cakrire** — "the deities have made their dwelling places in this mantra; that is, the deities are praised in these mantras: this is the sense, that the praise is addressed to the deities."
 
+### Page 396 (better scan PDF 411)
+
 **Vyākaraṇa-prakriyā** *(pp. 396–397 — grammar pages, noted briefly)*
-- **mantram**: root *matri guptabhāṣaṇe*, tenth class [print: "10th class"]; *idit*, so *idito num dhātoḥ* [Pā. 7-1-58 as read] gives the augment *num*; *nandigrahipacādibhyo lyuṇinyacaḥ* [Pā. 3-1-134 as read] the suffix *ac* of the *pacādi* kind; since the suffix is *cit* it would be final-acute by *citaḥ* [Pā. 6-1-163], but the *vṛṣādi* group is an *ākṛtigaṇa*, so this word is added to it, and by *vṛṣādīnāṃ ca* [Pā. 6-1-203] it is first-syllable acute.
-- **ukthyam**: root *vaca paribhāṣaṇe*; *pātṛtudivacirecisicibhyas thak* — पात्र्तुदिवचिरिचिसिचिभ्यस्थक् — [Uṇ. 2-7[?]] the suffix *thak*; *vacisvapiyajādīnāṃ kiti* — the *saṃprasāraṇa*: *u*; *pūrvarūpa*: *ukth*; "*uktham arhati*"; *chandasi ca* [Pā. 5-1-67 as read] after *prātipadika* words in the sense "he deserves" [*taram arhati*, as printed] the suffix *ya*; or by *bhave chandasi* [Pā. 4-4-110 as read [?]] *yat* in the locative-ending sense of *bhava*; the print explains that *prāggitāt yat* [Pā. 4-4-75 as read] and the sūtra *tasmai hitam* [Pā. 5-1-5] with its sense-indication are given in a certain order, and that in *bhave chandasi* [Pā. 4-4-110] the sense *bhava* is given, so *yat* is carried over by *adhikāra* but *chandasi ca* has no sense-indication; hence *prākkrītāc cha* [Pā. 5-1-1] does not reach there; *yato 'nāvaḥ* [Pā. 6-1-213 as read] gives final-acute but, since all operations are optional in the Veda, it is not applied; *tit svaritam* [Pā. 6-1-185 as read] gives *svarita*; in the first alternative by *vyatyayo bahulam* the *svarita*. *(Crowded; drift only.)*
-- **okāṃsi**: *uca samavāye*; "*samavayanty atra*", people gather here to dwell; the Uṇādi *asun* in the sense of locus; the substitute *k* for *c* by *bahulagrahaṇa*; the Vṛttikāra says in the sūtra *oke ucaḥ ke* [Pā. 7-3-64 as read]: "*bahulagrahaṇāt kutvaṃ draṣṭavyam*". The print then argues that, if the suffix *ka* of *igupadhajñā…* [Pā. 3-1-135] is added to the root *uc*, then *guṇa* and *kutva* are specified in *oke ucaḥ ke*, giving *oka* ending in *a*; with *ghañ* by *halaś ca* the *kutva* by *cajoḥ ku ghiṇṇyatoḥ* comes and *guṇa*, *oka* — [accent] first-syllable acute, so not final-acute; for that reason the sūtra *oke ucaḥ* was made; it too ends in *a*. Here there is a word ending in *s*; the process is to be stated as before.
-- **cakrire**: root *ḍukṛñ karaṇe*, *liṭ*, *ātmanepada*, *jha*; *liṭas tajhayor eśirec* — लिटस्तझयोरेशिरेच् — [Pā. 3-4-81 as read]: *ire* for *jha*; the prohibition of the substitute by *dvirvacane 'ci*; doubling, *kṛ + kṛ + ire*; *uraṭ*, *raparatva*; *halādiḥ śeṣaḥ* loses the *r*; *kuhoś cuḥ* [Pā. 7-4-62] *c* for *k*: *ca + kṛ + ire*; *yaṇ*: *cakrire*. *Irec* is *cit*, hence the final-acute accent by *citaḥ*; because of the connection with *yat* in *yasmin*, *yadvṛttān nityam* prohibits wholly-unaccented. Rik 5 ends here (*|| 5 ||*).
+- **mantram**: root *matri guptabhāṣaṇe*, tenth class [print: "10th class"]; *idit*, so *idito num dhātoḥ* (no number printed) gives the augment *num*; *nandigrahipacādibhyo lyuṇinyacaḥ* (no number printed) the suffix *ac* of the *pacādi* kind; since the suffix is *cit* it would be final-acute by *citaḥ*, but the *vṛṣādi* group is an *ākṛtigaṇa*, so this word is added to it, and by *vṛṣādīnāṃ ca* it is first-syllable acute.
+- **ukthyam**: root *vaca paribhāṣaṇe*; *pātṛtudivacirecisicibhyas thak* — पात्र्तुदिवचिरिचिसिचिभ्यस्थक् — (U. Sū. 2-164) the suffix *thak*; *vacisvapiyajādīnāṃ kiti* — the *saṃprasāraṇa*: *u*; *pūrvarūpa*: *ukth*; "*uktham arhati*"; *chandasi ca* (Pā. Sū. 5-1-67) after *prātipadika* words in the sense "he deserves" [*taram arhati*, as printed] the suffix *ya*; or by *bhave chandasi* (Pā. Sū. 4-1-110 [as printed; for 4-4-110]) *yat* in the locative-ending sense of *bhava*; the print explains that *prāggitāt yat* (Pā. Sū. 4-4-75) and the sūtra *tasmai hitam* (Pā. Sū. 5-1-5) with its sense-indication are given in a certain order, and that in *bhave chandasi* [Pā. 4-4-110] the sense *bhava* is given, so *yat* is carried over by *adhikāra* but *chandasi ca* has no sense-indication; hence *prākkrītāc chaḥ* does not reach there; *yato 'nāvaḥ* gives final-acute but, since all operations are optional in the Veda, it is not applied; *tit svaritam* gives *svarita*; in the first alternative by *vyatyayo bahulam* the *svarita*. *(Crowded; drift only.)*
+- **okāṃsi**: *uca samavāye*; "*samavayanty atra*", people gather here to dwell; the Uṇādi *asun* in the sense of locus; the substitute *k* for *c* by *bahulagrahaṇa*; the Vṛttikāra says in the sūtra *oke ucaḥ ke* (Pā. Sū. 7-3-64; p. 397): "*bahulagrahaṇāt kutvaṃ draṣṭavyam*". The print then argues that, if the suffix *ka* of *igupadhajñā—* is added to the root *uc*, then *guṇa* and *kutva* are specified in *oke ucaḥ ke*, giving *oka* ending in *a*; with *ghañ* by *halaś ca* the *kutva* by *cajoḥ ku ghiṇṇyatoḥ* comes and *guṇa*, *oka* — [accent] first-syllable acute, so not final-acute; for that reason the sūtra *oke ucaḥ* was made; it too ends in *a*. Here there is a word ending in *s*; the process is to be stated as before.
+- **cakrire**: root *ḍukṛñ karaṇe*, *liṭ*, *ātmanepada*, *jha*; *liṭas tajhayor eśirec* — लिटस्तझयोरेशिरेच् — : *ire* for *jha*; the prohibition of the substitute by *dvirvacane 'ci*; doubling, *kṛ + kṛ + ire*; *uraṭ*, *raparatva*; *halādiḥ śeṣaḥ* loses the *r*; *kuhoś cuḥ* *c* for *k*: *ca + kṛ + ire*; *yaṇ*: *cakrire*. *Irec* is *cit*, hence the final-acute accent by *citaḥ*; because of the connection with *yat* in *yasmin*, *yadvṛttān nityam* prohibits wholly-unaccented. Rik 5 ends here (*|| 5 ||*).
 
 ---
 
