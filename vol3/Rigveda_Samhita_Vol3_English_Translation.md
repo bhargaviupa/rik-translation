@@ -9574,27 +9574,35 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 466)*
 
-> अयमु ते समतसि कपोत इव गर्भधिम् ।
-> वचस्तच्चिन्न ओहसे ॥ ४ ॥
+*(Line 2 flagged [accent ?]: the anudātta bar stands between* च *and* स्त *of* वचस्त*; taken under* च*.)*
 
-> *ayamu te samatasi kapota iva garbhadhim |*
-> *vacastaccinna ohase ‖ 4 ‖*
+> अ॒यमु॑ ते॒ सम॑तसि क॒पोत॑ इव ग॒र्भधिं ।
+> वच॒स्तच्चि॑न्न ओहसे ॥ ४ ॥ [accent ?]
+
+> *ayámu te sámatasi kapóta iva garbhádhiṃ |*
+> *vacastáccinna ohase || 4 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> अयम् । ऊं इति । ते । सम् । अतसि । कपोतःऽइव । गर्भऽधिम् ।
+> अयं । ऊं इति । ते । सं । अतसि । कपोतःऽइव । गर्भऽधिं ।
 > वचः । तत् । चित् । नः । ओहसे ॥ ४ ॥
 
-> *ayam | ūṃ iti | te | sam | atasi | kapotaḥ 'iva | garbha 'dhim |*
+> *ayaṃ | ūṃ iti | te | saṃ | atasi | kapotaḥ 'iva | garbha 'dhiṃ |*
 > *vacaḥ | tat | cit | naḥ | ohase ‖ 4 ‖*
+
+### Page 467 — Sūkta 30, Rik 4 (continued)
 
 **Sāyaṇa-bhāṣya** *(p. 467)*
 
-> हे इन्द्र अयमु अयमपि दृश्यमानः सोमस्ते त्वदर्थं सम्पादितः । यं सोमं सदुतसि सम्यक् सातत्येन प्राप्नोषि । तत्र दृष्टान्तः । कपोत इव । यथा कपोताख्यः पक्षी गर्भधिं गर्भधारिणीं कपोतीं प्राप्नोति तद्वत् । तच्चित्तस्मादेव कारणान्नोऽस्मदीयं वचः ओहसे । प्राप्नोषि । अतसि । अत सातत्यगमने । कपोत इव । कबेरोतच् पक्षे । उ. १-६३ [?] इत्योतच् । व्यत्ययेन मध्योदात्तः । गर्भधिम् । गर्भोऽस्यां धीयते इति गर्भधिः । कर्मण्यधिकरणे च । पा. ३-३-९३ [?] इति किप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । ओहसे । तुहिर् दुहिर् उहिर् अर्दने । व्यत्ययेनात्मनेपदम् ॥
+*(As printed: कवेरोतच् (the grammar page, p. 468, prints कबेरोतच्); उ. १-६२ and पा. ३-३-९३ read at ×2.5.)*
 
-> *he indra ayamu ayamapi dṛśyamānaḥ somaste tvadarthaṃ sampāditaḥ | yaṃ somaṃ sadutasi samyak sātatyena prāpnoṣi | tatra dṛṣṭāntaḥ | kapota iva | yathā kapotākhyaḥ pakṣī garbhadhiṃ garbhadhāriṇīṃ kapotīṃ prāpnoti tadvat | taccittasmādeva kāraṇānno 'smadīyaṃ vacaḥ ohase | prāpnoṣi | atasi | ata sātatyagamane | kapota iva | kaberotac pakṣe | u. 1-63 [?] ityotac | vyatyayena madhyodāttaḥ | garbhadhim | garbho 'syāṃ dhīyate iti garbhadhiḥ | karmaṇyadhikaraṇe ca | pā. 3-3-93 [?] iti kipratyayaḥ | kṛduttarapadaprakṛtisvaratvam | ohase | tuhir duhir uhir ardane | vyatyayenātmanepadam ‖*
+> हे इन्द्र अयमु अयमपि दृश्यमानः सोमस्ते त्वदर्थं संपादितः । यं सोमं समतसि सम्यक् सातत्येन प्राप्नोषि । तत्र दृष्टान्तः । कपोत इव । यथा कपोताख्यः पक्षी गर्भधिं गर्भधारिणीं कपोतीं प्राप्नोति तद्वत् । तच्चित्तस्मादेव कारणान्नोऽस्मदीयं वच ओहसे । प्राप्नोषि ॥ अतसि । अत सातत्यगमने । कपोत इव । कवेरोतच् पश्च । उ. १-६२ । इत्योतच् । व्यत्ययेन मध्योदात्तः । गर्भधिम् । गर्भोऽस्यां धीयत इति गर्भधिः । कर्मण्यधिकरणे च । पा. ३-३-९३ । इति किप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । ओहसे । तुहिर् दुहिर् उहिर् अर्दने । व्यत्ययेनात्मनेपदम् ॥
 
-*Translation:* "O Indra, this Soma that is seen is prepared for you; this Soma you reach fully and continuously (*sam atasi*). The illustration: *kapota iva* — as the bird called the pigeon reaches the pregnant (*garbhadhim*) she-pigeon. For that reason you receive (*ohase*) this word [prayer] of ours. *Atasi* — *ata sātatyagamane*. *Kapota* — from *kab* with *otac* in the sense of 'bird'; middle acute by *vyatyaya*. *Garbhadhim* — one in whom a foetus is held; *ki* by P. 3-3-93 [?]; the *kṛt*-final accent. *Ohase* — *tuhir duhir uhir ardane*; the middle voice by *vyatyaya*."
+> *he indra ayamu ayamapi dṛśyamānaḥ somaste tvadarthaṃ saṃpāditaḥ | yaṃ somaṃ samatasi samyak sātatyena prāpnoṣi | tatra dṛṣṭāntaḥ | kapota iva | yathā kapotākhyaḥ pakṣī garbhadhiṃ garbhadhāriṇīṃ kapotīṃ prāpnoti tadvat | taccittasmādeva kāraṇānno 'smadīyaṃ vaca ohase | prāpnoṣi ‖ atasi | ata sātatyagamane | kapota iva | kaverotac paśca | u. 1-62 | ityotac | vyatyayena madhyodāttaḥ | garbhadhim | garbho 'syāṃ dhīyata iti garbhadhiḥ | karmaṇyadhikaraṇe ca | pā. 3-3-93 | iti kipratyayaḥ | kṛduttarapadaprakṛtisvaratvam | ohase | tuhir duhir uhir ardane | vyatyayenātmanepadam ‖*
+
+*Translation:* "O Indra, this Soma that is seen is prepared for you; this Soma you reach fully and continuously (*sam atasi*). The illustration: *kapota iva* — as the bird called the pigeon reaches the pregnant (*garbhadhim*) she-pigeon, so. For that very reason (*tac cit*) you reach (*ohase*) our word." The grammatical tail treats *atasi* (*ata sātatyagamane*), *kapotaḥ* (*otac* by '*kaber otac paśca*', U. 1-62; middle acute by *vyatyaya*), *garbhadhim* ('in whom a foetus is held'; *ki* by '*karmaṇy adhikaraṇe ca*', Pā. 3-3-93; the *kṛt*-final member keeps its accent) and *ohase* (*tuhir duhir uhir ardane*; middle voice by *vyatyaya*).
 
 **Pratipadārtha** *(p. 467, rendered)* — (O Indra) **अयम् उ** this Soma-juice also, **ते** for you (prepared); **कपोतः** the pigeon, **गर्भधिम् इव** as [it] joins its pregnant mate; **सम् अतसि** you also reach and obtain it (this Soma-juice); **तत् चित्** for that very reason; **नः** our; **वचः** word in the form of praise; **ओहसे** you accept.
 
@@ -9604,9 +9612,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > This Soma-juice is prepared for you ; you approach this libation as a pigeon seeks his pregnant mate ; therefore you accept our prayer.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 467–468)* — **सं अतसि** — *ata sātatyagamane*; *prāpnoṣi*: you approach. **कपोत इव गर्भधिम्** — *garbhadhim*: *garbho 'syāṃ dhīyate iti garbhadhiḥ*: one who bears a foetus, a female pigeon; as a male pigeon draws near its mate. The word *garbhadhi* is used to point to the female; since even during pregnancy the male bird keeps with the female, the sense is: as a male pigeon goes to the female's side. **वचस्तच्चिन्न ओहसे** — you accept our words, our praise, with love.
+**Viśeṣa-viṣayagaḷu** *(pp. 467–468)* — **सं अतसि** — *ata sātatyagamane*; *prāpnoṣi*: you approach. **कपोत इव गर्भधिम्** — *garbhadhim*: *garbho 'syāṃ dhīyate iti garbhadhiḥ*: one who bears a foetus, a female pigeon; as a male pigeon draws near its mate. *(p. 468)* The word *garbhadhim* is used to point to the female, since it is the female that bears the egg; it need not be taken to mean only 'the [female] pigeon that is with egg', for everyone knows the male bird keeps company with the female even when she is not; so *kapota iva garbhadhim* means: as a male pigeon goes to the side of the female. **वचस्तच्चिन्न ओहसे** — you reach our word: like the comparison above, you, Indra, accept our word, that is, our praise, with love.
 
-**Grammar (p. 468), noted briefly:** *atasi* (*ata sātatyagamane*, *bhvādi*; lowered P. 8-1-28); *kapotaḥ* (*kabeḥ otac pakṣe*, Uṇ. 1-63 [?]; initial *cit* would give the end-acute P. 6-1-163, but by *vyatyayo bahulam* a middle acute); *garbhadhim* (*karmaṇy adhikaraṇe ca* P. 3-3-93 [?], *ki*; *ato lopa iṭi ca* P. 6-4-64; *gatikārakopapadāt kṛt* P. 6-2-139); *ohase* (*tuhir duhir uhir ardane*; the ātmanepada by *vyatyaya* P. 3-1-85; *e* by P. 3-4-79; *śap* P. 3-1-68; guṇa P. 7-3-86). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(p. 468, noted briefly)* — *atasi*: *ata sātatyagamane*, *bhvādi*, *laṭ* second person singular; grave as a *tiṅ* form (no sūtra number printed). *kapota iva*: *otac* after *kab* by '*kaber otac paśca*' (U. sū. 1-62); *p* for *b*; end-acute due by '*citaḥ*' (Pā. sū. 6-1-163) but middle acute by '*vyatyayo bahulam*' (Pā. sū. 3-1-85). *garbhadhim*: '*karmaṇy adhikaraṇe ca*' (Pā. sū. 3-3-93), *ki* after a *ghu* root; loss of *ā* by '*āto lopa iṭi ca*' (Pā. sū. 6-4-64); accusative singular; '*gatikārakopapadāt kṛt*' (Pā. sū. 6-2-139), end-acute. *ohase*: *tuhir duhir uhir ardane*, *parasmaipadī*, *bhvādi*; ātmanepada by '*vyatyayo bahulam*' (Pā. sū. 3-1-85); *e* by '*ṭita ātmane-*' (Pā. sū. 3-4-79); *śap* by '*kartari śap*' (Pā. sū. 3-1-68); guṇa by '*pugantalaghūpadhasya ca*' (Pā. sū. 7-3-86); grave as a *tiṅ* form.
 
 ---
 
