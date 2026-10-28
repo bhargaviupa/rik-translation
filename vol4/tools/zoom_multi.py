@@ -4,7 +4,7 @@ from PIL import Image,ImageDraw
 import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from cfg import part_of
 R={}
-for f in glob.glob('/home/user/rik-translation/.wt-vol4/vol4/review/review_PDF*.json'):
+for f in glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','review','review_PDF*.json')):
     for r in json.load(open(f)): R[r['id']]=r
 tiles=[]
 for a in sys.argv[2:]:
