@@ -5094,13 +5094,15 @@
 
 ### Rik 53.6 (pp. 282–, PDF 298–)
 
-**Saṃhitā-pāṭha** *(p. 282; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 282; accents as printed)*
 
-> **ते त्वा मदा अमदन्तानि वृष्ण्या ते सोमासो वृत्रहत्येषु सत्पते ।**
-> **यत्कारवे दश वृत्राण्यप्रति बर्हिष्मते नि सहस्राणि बर्हयः ॥ ६ ॥**
+> **ते त्वा॒ मदा॑ अम॒दन्तानि॒ वृ॒ष्ण्या ते सोमा॑सो वृ॒त्रहत्ये॑षु सत्पते ।** [accent ?]
+> **यत्का॒रवे॒ दश॑ वृ॒त्राण्य॑प्र॒ति ब॒र्हिष्म॑ते॒ नि स॒हस्रा॑णि ब॒र्हयः॑ ॥ ६ ॥**
 
-*te tvā madā amadan tāni vṛṣṇyā te somāso vṛtrahatyeṣu satpate |*
-*yat kārave daśa vṛtrāṇy aprati barhiṣmate ni sahasrāṇi barhayaḥ || 6 ||*
+*té tvā mádā amadan tā́ni vṛṣṇyā́ té sómāso vṛtrahátyeṣu satpate |*
+*yát kāráve dáśa vṛtrā́ṇy apratí barhíṣmate ní sahásrāṇi barháyaḥ || 6 ||*
+
+*(Pass: [accent ?] — the marks of line 1 stand between syllables and are given as best seen.)*
 
 **Pada-pāṭha** *(p. 282)*
 
@@ -5112,11 +5114,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 282 — begins; continues on p. 283)*
 
-> **हे सत्पते सतां पालयितरिन्द्र वृत्रहत्येषु वृत्रहननेषु निमित्तभूतेषु सत्सु ते पूर्वोक्ता मदा मादका मरुतस्त्वा त्वामामदन् । अमदेर्य । हर्षं प्राप्नुयाः । तानि पूर्वोक्तानि वृष्ण्या वृष्णः सेचनसमर्थस्य तव संबन्धीनि चरुपु-…** *(continued on p. 283)*
+> **हे सत्पते सतां पालयितरिन्द्र वृत्रहत्येषु वृत्रहननेषु निमित्तभूतेषु सत्सु ते पूर्वोक्ता मदा मादका मरुतस्त्वा त्वाममदन् । अमदर्य [?] । हर्षं प्रापर्य [?] । तानि पूर्वोक्तानि वृष्ण्या वृष्णः सेचनसमर्थस्य तव संबन्धीनि चरुपु-…** *(continued on p. 283)*
 
-*he satpate satāṃ pālayitar indra vṛtrahatyeṣu vṛtrahananeṣu nimittabhūteṣu satsu te pūrvoktā madā mādakā marutas tvā tvām amadan | amadery[a] [?] | harṣaṃ prāpnuyāḥ [?] | tāni pūrvoktāni vṛṣṇyā vṛṣṇaḥ secanasamarthasya tava saṃbandhīni carupu-…* *(continued on p. 283)*
+*he satpate satāṃ pālayitar indra vṛtrahatyeṣu vṛtrahananeṣu nimittabhūteṣu satsu te pūrvoktā madā mādakā marutas tvā tvām amadan | amadarya [?] | harṣaṃ prāparya [?] | tāni pūrvoktāni vṛṣṇyā vṛṣṇaḥ secanasamarthasya tava saṃbandhīni carupu-…* *(continued on p. 283)*
 
-*(Reading note: the clause "*amadery[a] harṣaṃ prāpnuyāḥ*" is crowded in the print, [?]; the sense — "the Maruts, the exhilarators, gladdened you" — is clear from the Pratipadārtha on p. 283.)*
+*(Reading note: the print reads "ಅಮದರ್ಯ | ಹರ್ಷಂ ಪ್ರಾಪರ್ಯ" (cf. "prāparya" at 52.9), probably for* amadayan | harṣaṃ prāpayan*, [?]; the sense — "the Maruts, the exhilarators, gladdened you" — is clear from the Pratipadārtha on p. 283.)*
 
 ---
 
@@ -5126,11 +5128,11 @@
 
 **Sāyaṇa-bhāṣya, rest of the main sense** *(p. 283)*
 
-> **… चरुपुरोडाशादीनि हवींषि त्वामामदन् । ते सोमासः प्रसिद्धाः सोमाश्च त्वामामदन् । यद्यदा कारवे स्तुतिकर्त्रे बर्हिष्मते यज्ञवते यजमानाय दश सहस्राण्यपरिमितानि वृत्राख्यावरकाण्युपद्रवजातान्यप्रति शत्रुभिरप्रतिगतस्त्वं निबर्हयः न्यवधीः । तदानीमिति पूर्वेण संबन्धः ॥**
+> **… चरुपुरोडाशादीनि हवींषि त्वाममदन् । ते सोमासः प्रसिद्धाः सोमाश्च त्वाममदन् । यद्यदा कारवे स्तुतिकर्त्रे बर्हिष्मते यज्ञवते यजमानाय दश सहस्राण्यपरिमितानि वृत्राख्यावरकाण्युपद्रवजातान्यप्रति शत्रुभिरप्रतिगतस्त्वं निबर्हयः न्यवधीः । तदानीमिति पूर्वेण संबन्धः ॥**
 
 *… caru-puroḍāśādīni havīṃṣi tvām amadan | te somāsaḥ prasiddhāḥ somāś ca tvām amadan | yad yadā kārave stutikartre barhiṣmate yajñavate yajamānāya daśa sahasrāṇy aparimitāni vṛtrākhyāvarakāṇy upadravajātāny aprati śatrubhir apratigatas tvaṃ nibarhayaḥ nyavadhīḥ | tadānīm iti pūrveṇa saṃbandhaḥ ||* *(the print: "*carupu-*" at the end of p. 282 and "*roḍāśādīni*" at the head of p. 283; read as joined.)*
 
-*(The tail of the bhāṣya, p. 283, is characterized:* vṛṣṇyā *(*śeś chandasi bahulam*, the loss of* śi*);* barhayaḥ *("*barhatir hiṃsākarmā*", Ni. as read, [?]; *laṅ*, no* aṭ *by* bahulaṃ chandasy amāṅyoge 'pi*; *śap *being* pit, *anudātta*; the accent of the* ṇic*; *yadvṛttānnityam* barring the *nighāta*).)*
+*(The tail of the bhāṣya, p. 283, is characterized:* vṛṣṇyā *(*śeś chandasi bahulam*, the loss of* śi*);* barhayaḥ *("*barhatir hiṃsākarmā*", no number in the tail; *laṅ*, no* aṭ *by* bahulaṃ chandasy amāṅyoge 'pi*; *śap *being* pit, *anudātta*; the accent of the* ṇic*; *yadvṛttānnityam* barring the *nighāta*).)*
 
 **Translation of the bhāṣya:** "O *satpate*, protector of the good, Indra: *vṛtrahatyeṣu*, on the occasions of the slaying of Vṛtra, those *madāḥ* spoken of — the exhilarating Maruts — gladdened you; those oblations, *caru*, *puroḍāśa* and the like, gladdened you; and those well-known soma-drops gladdened you; *yat*, when, for the praiser, the *barhiṣmat*, the sacrificer who performs sacrifice, you, unopposed by enemies, *ni barhayaḥ*, destroyed ten thousands, countless, of the afflictions called *vṛtras*, the obstructors — then (this connects with the first part)."
 
@@ -5149,15 +5151,15 @@
 - **vṛtrahatyeṣu** — "This word means: 'as the occasion of the action of destroying the Asura Vṛtra'. The locative here is used in the sense of the cause (*nimitta*)."
 - **madāḥ** — "This word means the Maruts, who increase Indra's joy by helping him at the time of battle."
 - **vṛṣṇyā** — "Indra is the one who favours the *vṛṣṇi*, the showerer. He is named *vṛṣṇi*. The *caru*, *puroḍāśa* and the like that suit Indra are called *vṛṣṇya*."
-- **barhiṣmate** — "As in the Nirukta sūtra '*barhatir hiṃsākarmā*' (Ni. 2-… as read [?]), the word *barhis* means 'sacrifice'; the one who is chiefly consecrated in the sacrifice is *barhiṣmat*."
+- **barhiṣmate** — "As in the Nirukta sūtra '*barhatir hiṃsākarmā*' (Ni. 2-19), the word *barhis* means 'sacrifice'; the one who is chiefly consecrated in the sacrifice is *barhiṣmat*."
 - **aprati** — "*Śatrubhir apratigatas tvam*: a word praising Indra, 'you, who have never been destroyed in fighting with enemies'. The word *prati* here means one who opposes."
 
 **Vyākaraṇa-prakriyā** *(pp. 284–285 — grammar pages, noted briefly)*
-- **tvā**: in the second singular accusative of *yuṣmad*, *trāmau dvitīyāyāḥ* — *tvā* [Pā. 8-1-23 as read, [?]] is the *anudātta* substitute that comes in its entirety.
+- **tvā**: in the second singular accusative of *yuṣmad*, *trāmau dvitīyāyāḥ* — *tvā* (Pā. sū. 8-1-23) is the *anudātta* substitute that comes in its entirety.
 - **amadan**: *madī harṣe*; the sense of the causative (*ṇic*) is included in the root's own sense; *laṅ* third plural; it follows an *atiṅ*, so *nighāta*.
-- **vṛṣṇyā**: in the neuter, *jaśśasoḥ śiḥ* gives *śi* for *jas* [= *śas*]; *napuṃsakasya jhalacaḥ* gives *num*; *sarvanāmasthāne cāsambuddhau* lengthens the penultimate of the stem in *n*; *śeś chandasi bahulam* (Pā. 6-1-70 as read [?]) drops *śi*.
-- **vṛtrahatyeṣu**: "*vṛtrasya hatyāni*" — in these; *hana hiṃsāgatyoḥ*; *hanas ta ca* (Pā. 3-1-108) — since the *subanta* is not a preposition and stands as the *upapada*, *kyap* in the sense of the action and the substitution of *t* for the *n* come together; *kyap* being *pit*, the accent of the root is initial-acute; since the *kāraka* is the first member, *gatikārakopapadāt kṛt* gives the accent of the last member.
-- **barhayaḥ**: "*barhatir hiṃsākarmā*" (Ni. 2-… as read [?]): the root *barha* is in the sense of harming; *laṅ* second singular, *barhayaḥ*. By *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes; *śap* being *pit*, *anudāttau supitau* makes it *anudātta*, and so the accent of the *ṇic* alone prevails, so that the word is end-acute… [the print says "*ṇic*'s accent is *citaḥ*… *ṇic* being *cit*… the *a* is acute and the vowel after *h* is acute"]; since the word *yat* is connected before, *nipātair yadyadihanta* (Pā. 8-1-30) forbids the *nighāta*. **|| 6 ||**
+- **vṛṣṇyā**: in the neuter, *jaśśasoḥ śiḥ* gives *śi* for *jas* [= *śas*]; *napuṃsakasya jhalacaḥ* gives *num*; *sarvanāmasthāne cāsambuddhau* lengthens the penultimate of the stem in *n*; *śeś chandasi bahulam* (Pā. sū. 6-1-70, printed "೬-೧೭೦") drops *śi*.
+- **vṛtrahatyeṣu**: "*vṛtrasya hatyāni*" — in these; *hana hiṃsāgatyoḥ*; *hanas ta ca* (Pā. sū. 3-1-108) — since the *subanta* is not a preposition and stands as the *upapada*, *kyap* in the sense of the action and the substitution of *t* for the *n* come together; *kyap* being *pit*, the accent of the root is initial-acute; since the *kāraka* is the first member, *gatikārakopapadāt kṛt* gives the accent of the last member.
+- **barhayaḥ**: "*barhatir hiṃsākarmā*" (Niru. 2-19): the root *barha* is in the sense of harming; *laṅ* second singular, *barhayaḥ*. By *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes; *śap* being *pit*, *anudāttau supitau* makes it *anudātta*, and so the accent of the *ṇic* alone prevails, so that the word is end-acute… [the print says "*ṇic*'s accent is *citaḥ*… *ṇic* being *cit*… the *a* is acute and the vowel after *h* is acute"]; since the word *yat* is connected before, *nipātair yadyadihanta* (Pā. sū. 8-1-30) forbids the *nighāta*. **|| 6 ||**
 
 ---
 
