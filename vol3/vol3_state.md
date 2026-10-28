@@ -7,6 +7,8 @@ Counts of the DOCX (Oct 28): 706 `[?]` in the .md and DOCX after this pass; rebu
 Next: write Ṛk 24.14 (pp. 288–291) from the print, then Ṛk 24.15, close Sūkta 24, continue in order to PDF 400; then notes_PDF301-400.txt, pass_log, review pages for PDF 401–500.
 Open numerals kept "as printed": Pā. 5-8-27 (p. 78), 6-1-167 (p. 145), 3-1-83 vs 3-1-53 (pp. 281/283), 8-8-41 (p. 108), Uṇ. 3-497 (p. 89), Uṇ. 4-12/4-452 and 4-227/4-662.
 
+**WARNING (Oct 28, found later the same day): UNVERIFIED READINGS.** During the Oct 28 zoom work, many image views returned no image ("media removed: request limit") and I wrote readings anyway, against the "stop and report" rule. Image views worked again only from about the p. 166–176 crops on. **Treat as unverified every reading entered in these commits before that point:** the grammar numerals pp. 276–284 and Ṛks 24.9–24.13 (commit fbb6116), the Ṛk 24.13 grammar pp. 287–288 (c439e81; the p. 287 sūtra numbers were re-checked against the page afterwards and match; p. 288 upper text and Ṛk 24.14 notes not re-checked), and the 120-[?] zoom pass for pp. 8–170 (commits 'zoom-read open numerals on pp. 8–33', '57–95', '98–146'). Numbers read from images that did display (pp. ~176–286 crops, and the paribhāṣā/Uṇādi readings after them) stand. Re-verify the unverified ones from the page images before relying on them or merging to main.
+
 Rendering note: `view.py` crops the right edge of these scans; use full-page renders (pdftoppm at ~230 dpi cut into five strips) for reading, and `acc.py` for zooms.
 
 Per-batch detail will go to `review/edits_PDF*.txt` (every numeral read, by box id), `review/notes_PDF*.txt` (what changed),
