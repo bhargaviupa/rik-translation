@@ -7835,13 +7835,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.8 (pp. 433–435, PDF 449–451; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 433)*
+**Saṃhitā-pāṭha** *(p. 433; accents as printed)*
 
-> **अच्छिद्रा सूनो सहसो नो अद्य स्तोतृभ्यो मित्रमहः शर्म यच्छ ।**
-> **अग्ने गृणन्तमंहस उरुष्योर्जो नपात्पूर्भिरायसीभिः ॥ ८ ॥**
+> **अच्छि॑द्रा सूनो सहसो नो अ॒द्य स्तो॒तृभ्यो॑ मित्रमहः॒ शर्म॑ यच्छ ।**
+> **अग्ने॑ गृ॒णन्त॒मंह॑स उरु॒ष्योर्जो॑ नपात्पू॒र्भिराय॑सीभिः ॥ ८ ॥**
 
-*acchidrā sūno sahaso no adya stotṛbhyo mitramahaḥ śarma yaccha |*
-*agne gṛṇantam aṃhasa uruṣyorjo napāt pūrbhir āyasībhiḥ || 8 ||*
+*ácchidrā sūno sahaso no adyá stotṛ́bhyo mitramahaḥ śárma yaccha |*
+*ágne gṛṇántam áṃhasa uruṣyórjo napāt pūrbhír ā́yasībhiḥ || 8 ||*
+
+*([accent ?]: the stroke of शर्म stands over श in the print; it is given on र्म.)*
 
 **Pada-pāṭha** *(p. 433)*
 
@@ -7853,11 +7855,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 433)*
 
-> **हे सहसः सूनो बलस्य पुत्र । बलेन हि मथ्यमानोऽग्निर्जायते । मित्रमहोऽनुकूलदीप्तिमन्नग्ने नोऽस्मभ्यं स्तोतृभ्योऽद्यास्मिन्कर्मण्यच्छिद्राच्छिद्राणि शर्म शर्माणि सुखानि यच्छ । देहि । किंच हे ऊर्जो नपात् अन्नस्य पुत्र । भुक्तेनान्नेन जठराग्नेः प्रवर्धनादग्नेरन्नपुत्रत्वं । एवंविधाग्ने गृणन्तं त्वां स्तुवन्तमायसीभिर्व्याप्तैः । यद्वा । अयोवद्दृढतरैः । पूर्भिः पालनैरंहसः पापादुरुष्य । रक्ष । उरुष्यती रक्षाकर्मा । नि. ५-२३ [?] इति यास्कः ॥**
+> **हे सहसः सूनो बलस्य पुत्र । बलेन हि मथ्यमानोऽग्निर्जायते । मित्रमहोऽनुकूलदीप्तिमन्नग्ने नोऽस्मभ्यं स्तोतृभ्योऽद्यास्मिन्कर्मण्यच्छिद्राच्छेद्यानि शर्म शर्माणि सुखानि यच्छ । देहि । किंच हे ऊर्जो नपात् अन्नस्य पुत्र । भुक्तेनान्नेन जठराग्नेः प्रवर्धनादग्नेरन्नपुत्रत्वं । एवंविधाग्ने गृणन्तं त्वां स्तुवन्तमायसीभिर्व्याप्तैः । यद्वा । अयोवद्दृढतरैः । पूर्भिः पालनैरंहसः पापादुरुष्य । रक्ष । उरुष्यती रक्षाकर्मा । नि. ५-२३ । इति यास्कः ॥**
 
-*he sahasaḥ sūno balasya putra | balena hi mathyamāno 'gnir jāyate | mitramaho 'nukūladīptimann agne no 'smabhyaṃ stotṛbhyo 'dyāsmin karmaṇy acchidrācchidrāṇi śarma śarmāṇi sukhāni yaccha | dehi | kiṃca he ūrjo napāt annasya putra | bhuktenānnena jaṭharāgneḥ pravardhanād agner annaputratvaṃ | evaṃvidhāgne gṛṇantaṃ tvāṃ stuvantam āyasībhir vyāptaiḥ | yadvā | ayovad dṛḍhatarair | pūrbhiḥ pālanair aṃhasaḥ pāpād uruṣya | rakṣa | uruṣyatī rakṣākarmā | ni. 5-23 [?] iti yāskaḥ ||*
+*he sahasaḥ sūno balasya putra | balena hi mathyamāno 'gnir jāyate | mitramaho 'nukūladīptimann agne no 'smabhyaṃ stotṛbhyo 'dyāsmin karmaṇy acchidrācchedyāni śarma śarmāṇi sukhāni yaccha | dehi | kiṃca he ūrjo napāt annasya putra | bhuktenānnena jaṭharāgneḥ pravardhanād agner annaputratvaṃ | evaṃvidhāgne gṛṇantaṃ tvāṃ stuvantam āyasībhir vyāptaiḥ | yadvā | ayovad dṛḍhatarair | pūrbhiḥ pālanair aṃhasaḥ pāpād uruṣya | rakṣa | uruṣyatī rakṣākarmā | ni. 5-23 | iti yāskaḥ ||*
 
-**Translation of the bhāṣya:** "O *sahasaḥ sūno*, son of strength — for Agni, when rubbed with force, is born; *mitramahaḥ*, of favourably shining radiance: Agni, to us the praisers *adya*, today, in this rite, *acchidrā śarma yaccha*, grant uninterrupted joys. And, O *ūrjo napāt*, offspring of food — by the food eaten, the belly-fire is increased, whence Agni is 'the son of food' — such Agni, *gṛṇantam*, you who are praised: *āyasībhiḥ pūrbhiḥ*, with the all-pervading — or, strong as iron — guards, protections, *aṃhasaḥ uruṣya*, protect from sin; *uruṣyati* is a verb of protecting, says Yāska (Ni. 5-23 [?])."
+*(The tail, p. 433, is characterized: on* acchidrā *(*śeś chandasi*: loss of *śi*),* sūno sahasaḥ *(*param api chandasi*: the genitive counts as part of the preceding vocative; the pair is wholly unaccented),* śarma *(*supāṃ suluk*),* ūrjo napāt *(*na pātayatīti napāt*; *nabhrāṇ napāt…*; *subāmantrite parāṅgavat*: at the head of a pāda no *nighāta*; *ṣāṣṭhika* initial-acute),* pūrbhiḥ *(*pṝ pālanapūraṇayoḥ*; *saṃpadādi*: *kvip*; *ut*; lengthening; *sāv ekācaḥ*: the ending acute).)*
+
+**Translation of the bhāṣya:** "O *sahasaḥ sūno*, son of strength — for Agni, when rubbed with force, is born; *mitramahaḥ*, of favourably shining radiance: Agni, to us the praisers *adya*, today, in this rite, *acchidrā*, *acchedyāni*, not to be cut off, *śarma yaccha*, grant joys. And, O *ūrjo napāt*, offspring of food — by the food eaten, the belly-fire is increased, whence Agni is 'the son of food' — such Agni, *gṛṇantam*, you who are praised: *āyasībhiḥ pūrbhiḥ*, with the all-pervading — or, strong as iron — guards, protections, *aṃhasaḥ uruṣya*, protect from sin; *uruṣyati* is a verb of protecting, says Yāska (Ni. 5-23)."
 
 **Pratipadārtha** *(p. 434)* — "**sahasaḥ sūno** — O son of force; **mitramahaḥ** — O (Agni) of favourable radiance; **naḥ stotṛbhyaḥ** — to us the praisers; **adya** — in this sacrifice; **acchidrā** — uninterrupted; **śarma** — happiness; **yaccha** — give; **ūrjo napāt** — O offspring of food; **agne** — Agni; **gṛṇantam** — [you] who are praised (your devotee); **āyasībhiḥ** — extensive, or strong as iron; **pūrbhiḥ** — with protections; **aṃhasaḥ** — from sin; **uruṣya** — protect."
 
@@ -7870,15 +7874,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **mitramahaḥ** — "*Mitraṃ mahaḥ yasya*: one of favourable radiance, i.e. Agni does not, by his radiance in the sacrifice, burn anyone."
 - **ūrjo napāt** — "*Na pātayati iti napāt*: 'son of food'. Men increase the digestive fire by the food they have eaten; so the strength that grows by food came to Agni; hence Agni should be called 'son of food'."
 - **āyasībhiḥ** — "*Vyāptaiḥ* or *ayovad dṛḍhataraiḥ*: two senses, 'all-pervading' or 'stronger than iron', are given for this word."
-- **uruṣya** — "*Rakṣa*: the Nirukta (Ni. 5-23 [?]) says that *uruṣyati* is a verb of protection."
+- **uruṣya** — "*Rakṣa*: the Nirukta (Niru. 5-23) says that *uruṣyati* is a verb of protection."
 
 **Vyākaraṇa-prakriyā** *(p. 435 — grammar page, noted briefly)*
 - **acchidrā**: *na chidrāṇi acchidrāṇi*; in the Saṃhitā *śeś chandasi bahulam*: the neuter ending *śi* lost.
 - **sūno sahasaḥ**: though the vocative *sūno* stands before, the genitive *sahasaḥ* is in construction with it (*parampi chandasi*): by *āmantritasya ca* the *nighāta* applies to the two words as a unit; hence at the beginning of the pāda the word *sūno* keeps accent where the *nighāta* is not applied.
 - **śarma**: accusative plural; *supāṃ suluk*: the ending lost.
 - **yaccha**: *dāṇ dāne*; *loṭ* second singular; *sip* → *hi*; *pāghrādhmā…*: *yaccha*; *śap* after *a*: *luk* of *hi*; *nighāta*.
-- **ūrjo napāt**: *na pātayati iti napāt*; *nabhrāṇ napān nāsatyā…* (Pā. 6-3-75): *prakṛtibhāva*; *subāmantrite parāṅgavat svare* (Pā. 2-1-2): the preceding word counts as part of the following vocative; since this stands at the beginning of a pāda, no *nighāta*; *āmantritasya ca*: initial-acute.
-- **pūrbhiḥ**: *pyā pālanapūraṇayoḥ*; *saṃpadādibhyaḥ kvip*: *kvip* in the action sense; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*; *halica*: lengthening; *sāvekācas tṛtīyādiḥ*: acute of the vibhakti. **|| 8 ||**
+- **ūrjo napāt**: *na pātayati iti napāt*; *nabhrāṇ napān nāsatyā…* (Pā. 6-3-75): *prakṛtibhāva*; *subāmantrite parāṅgavat svare* (Pā. 2-1-2): the preceding word counts as part of the following vocative; since this stands at the beginning of a pāda, no *nighāta*; *āmantritasya ca* (Pā. 6-1-198): initial-acute.
+- **pūrbhiḥ**: *pyā pālanapūraṇayoḥ*; *saṃpadādibhyaḥ kvip*: *kvip* in the action sense; *udoṣṭhyapūrvasya* (Pā. 7-1-102): *u*; *uraṇ raparaḥ*; *halica*: lengthening; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168): acute of the vibhakti. **|| 8 ||**
 
 ---
 
