@@ -3957,13 +3957,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.19 (pp. 244–247, PDF 258–261)
 
-**Saṃhitā-pāṭha** *(p. 244; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 244)*
 
-> **नि त्वामग्ने मनुर्दधे ज्योतिर्जनाय शश्वते ।**
-> **दीदेथ कण्व ऋतजात उक्षितो यं नमस्यन्ति कृष्टयः ॥ १९ ॥**
+> नि त्वाम॑ग्ने॒ मनु॑र्दधे॒ ज्योति॒र्जना॑य॒ शश्व॑ते ।
+> दी॒देथ॒ कण्व॑ ऋ॒तजा॑त उक्षि॒तो यं न॑म॒स्यन्ति॑ कृ॒ष्टयः॑ ॥ १९ ॥
 
-*ni tvām agne manur dadhe jyotir janāya śaśvate |*
-*dīdetha kaṇva ṛtajāta ukṣito yaṃ namasyanti kṛṣṭayaḥ || 19 ||*
+*ni tvā́m agne mánur dadhe jyótir jánāya śáśvate |*
+*dīdétha káṇva ṛtájāta ukṣitó yáṃ namásyánti kṛṣṭáyaḥ || 19 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 244)*
 
@@ -3973,7 +3975,9 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *ni | tvām | agne | manuḥ | dadhe | jyotiḥ | janāya | śaśvate ||*
 *dīdetha | kaṇve | ṛta-jātaḥ | ukṣitaḥ | yam | namasyanti | kṛṣṭayaḥ || 19 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 245; the first half in full, the grammatical tail characterized)*
+### Page 245
+
+**Sāyaṇa-bhāṣya** *(p. 245, in full)*
 
 > हे अग्ने ज्योतिः प्रकाशरूपं त्वां शश्वते बहुविधाय जनाय मनुः प्रजापतिर्नि दधे । देवयजनदेशे स्थापितवान् । हे अग्ने त्वमृतजात ऋतेन यज्ञेन निमित्तभूतेनोत्पन्न उक्षितो हविर्भिस्तर्पितः सन् कण्वे एतन्नामके महर्षौ दीदेथ । दीप्तवानसि । यमग्निं कृष्टयो मनुष्याः । कृष्टयश्चर्षणय इति मनुष्यनामसु पठितत्वात् । नमस्यन्ति नमस्कुर्वन्ति । स त्वमिति पूर्वत्रान्वयः ॥
 
@@ -3981,11 +3985,19 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Translation:** "O Agni — *jyotiḥ*, of the form of light — *tvām*, you, for *śaśvate janāya*, for the many-kinded people, Manu Prajāpati *ni dadhe* — established, at the place of the divine sacrifice. O Agni, you, *ṛtajātaḥ* — born of the *ṛta*, the sacrifice, as the cause — *ukṣitaḥ*, sated with the oblations, *kaṇve*, in the great ṛṣi so named, *dīdetha* — have shone. *Yam* — which Agni — *kṛṣṭayaḥ*, men (*kṛṣṭayaḥ*, *carṣaṇayaḥ* being read among the names for 'men') — *namasyanti*, make obeisance to. That you — the connection with the preceding."
 
-**Grammar within the bhāṣya** *(pp. 245, characterized)*: *dīdetha* (*dīdī dīptau*, Vedic; *liṭ*, *sip* → *thal*; in the section on doubling a rule *chandasi vā* [as printed "*thali dvirvacanaprakaraṇe chandasi vā vaktavyam*", a Kāśikā remark, Pā. 6-4-[?] [?]] — doubling optional in the Veda; so no doubling; no *iṭ*, since the rule on augments is not constant; the syllable before the *lit*-suffix is acute); *ṛtajātaḥ* (*ṛte janyate*; *śvīdito niṣṭhāyām*: no *iṭ*; *janasanakhanāṃ…*: *ā* for the *n*; first-member accent of an instrumental compound); *namasyanti* (*namovarivaś citraṅaḥ kyac*); *kṛṣṭayaḥ* (*kṛṣa vilekhane*, *ktic ktau ca saṃjñāyām*).
+**Grammatical tail of the bhāṣya** *(p. 245)*
+
+> दीदेथ । दीदेतिश्छान्दसो दीप्तिकर्मा । थलि द्विर्वचनप्रकरणे छन्दसि वेति वक्तव्यम् । का. ६-१-८-१ । इति द्विर्वचनाभावः । अनित्यमागमशासनमिति वचनादिडभावः । लित्स्वरेण प्रत्ययात्पूर्वस्योदात्तत्वम् । ऋतजातः । ऋते जन्यत इत्यृतजातः । श्वीदितो निष्ठायामितीट्प्रतिषेधः । जनसनेत्यादिनात्वम् । तृतीयापूर्वपदप्रकृतिस्वरत्वम् । नमस्यन्ति । नमोवरिवः । पा. ३-१-१९ । इति पूजार्थे क्यच् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे क्यजन्तधातुस्वरः । कृष्टयः । कृष विलेखने । क्तिच्क्तौ च संज्ञायामिति क्तिच् ॥
+
+*dīdetha | dīdetiśchāndaso dīptikarmā | thali dvirvacanaprakaraṇe chandasi veti vaktavyam | kā. 6-1-8-1 | iti dvirvacanābhāvaḥ | anityamāgamaśāsanamiti vacanādiḍabhāvaḥ | litsvareṇa pratyayātpūrvasyodāttatvam | ṛtajātaḥ | ṛte janyata ityṛtajātaḥ | śvīdito niṣṭhāyāmitīṭpratiṣedhaḥ | janasanetyādinātvam | tṛtīyāpūrvapadaprakṛtisvaratvam | namasyanti | namovarivaḥ | pā. 3-1-19 | iti pūjārthe kyac | adupadeśāllasārvadhātukānudāttatve kyajantadhātusvaraḥ | kṛṣṭayaḥ | kṛṣa vilekhane | kticktau ca saṃjñāyāmiti ktic ‖*
+
+*(Sense:)* *dīdetha* (*dīdī dīptau*, Vedic; *liṭ*, *sip* → *thal*; in the section on doubling a rule *chandasi vā* [as printed "*thali dvirvacanaprakaraṇe chandasi vā vaktavyam*", a Kāśikā remark, printed Kā. 6-1-8-1] — doubling optional in the Veda; so no doubling; no *iṭ*, since the rule on augments is not constant; the syllable before the *lit*-suffix is acute); *ṛtajātaḥ* (*ṛte janyate*; *śvīdito niṣṭhāyām*: no *iṭ*; *janasanakhanāṃ…*: *ā* for the *n*; first-member accent of an instrumental compound); *namasyanti* (*namovarivaś citraṅaḥ kyac*); *kṛṣṭayaḥ* (*kṛṣa vilekhane*, *ktic ktau ca saṃjñāyām*).
 
 **Pratipadārtha** *(p. 245)* — "**agne** — O Agni; **jyotiḥ** — of the nature of light; **tvām** — you; **śaśvate** — for the sake of many kinds; **janāya** — of people (for their help); **manuḥ** — Manu Prajāpati; **ni dadhe** — established [at the sacrificial ground]; **yam** — whom; **kṛṣṭayaḥ** — men; **namasyanti** — worship with obeisance; **ṛtajātaḥ** — [you, the cause being] born of the sacrifice; **ukṣitaḥ** — satisfied by the oblation; **kaṇve** — in the great ṛṣi Kaṇva; **dīdetha** — [graciously] have shone."
 
 **Bhāvārtha** *(p. 245)* — "O Agni, giving light and strength to the many kinds of people of the world, Manu Prajāpati established you at the sacrificial ground in order to help them. Remembering your help, all men do obeisance to you and worship you. You are born of the sacrifice, and are the cause of it. The sage Kaṇva, offering oblations in the sacrifice, has satisfied you. Satisfied, you have shone upon him with your grace."
+
+### Page 246
 
 **English Translation (the source's own, p. 246)** — "O Agni, Manu established you as a light for all people ; born of sacrifice, Agni, whom men adore shone brighly in the house of Kanva." *("brighly" [sic]; "the house of Kanva" for *kaṇve*; the print has no raised dot here.)*
 
@@ -3995,12 +4007,16 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 - **ṛtajātaḥ** = *ṛtena yajñena nimittabhūtenotpannaḥ*: "*ṛta* means sacrifice; since he is born because of the sacrifice, Agni has the name *ṛtajāta*."
 - **ukṣitaḥ** = *havirbhis tarpitaḥ*: "satisfied by the *pavitra* [kuśa-grass sprinkling] and the like."
 - **dīdetha** = *dīptavān asi*; *saṃtuṣṭo 'si*: "you shine with delight; you are pleased."
-- **kṛṣṭayaḥ** = *manuṣyāḥ*: "since the word *kṛṣṭayaḥ* is read among the twenty-five names of men beginning with *nṛ*, *narāḥ* (Ni. 2-2 [?]), *kṛṣṭayaḥ* means men."
+- **kṛṣṭayaḥ** = *manuṣyāḥ*: "since the word *kṛṣṭayaḥ* is read among the twenty-five names of men beginning with *nṛ*, *narāḥ* (Ni. 3-[?]: printed ೩ and a 2/7-like digit, not settled), *kṛṣṭayaḥ* means men."
 
 **Vyākaraṇa-prakriyā** *(pp. 246–247, PDF 260–261 — grammar pages, noted briefly)*
-- **dīdetha** (p. 246): root *dīdī dīptau*, used only in the Veda; *liṭ*, *sip*; *parasmaipadānāṃ ṇalatusus…*: *thal*; "in the sūtra *liṭi dhātor anabhyāsasya* the Kāśikā-authors say that, in the section on doubling, one must say *chandasi vā*, 'optionally in the Veda'; so there is no doubling"; "since *āgamaśāstram anityam*, no *iṭ*"; *dīdī + tha*; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; by *liti* [Pā. 6-1-193] the syllable before the suffix is acute.
-- **ṛtajātaḥ**: *ṛta* is sacrifice; root *janī prādurbhāve*, *īdit*; *ṛtena jāyate ayam*; *niṣṭhā*, *kta* in the passive; *śvīdito niṣṭhāyām* — श्वीदितो निष्ठायाम् — [Pā. 7-2-14]: *kta* and *ktavatu* take no *iṭ* after *śvi* and *īdit* roots; *janasanakhanāṃ sañjhaloḥ* — [Pā. 6-4-42]: *ā* for the final of *jan*, *san*, *khan* before *jhal*-initial *san* or *kit*/*ñit* suffix: *jā + ta*; *tṛtīyā karmaṇi* [Pā. 6-2-48]: the first member in the third case keeps its natural accent.
-- **namasyanti** (p. 247): *namovarivaścitraṅaḥ kyac* — नमोवरिवश्चित्रङः क्यच् — [Pā. 3-1-19]: *kyac* after *namas* in the sense of worship, after *varivas* in the sense of service, after *citra* in the sense of wonder; so *kyac* after *namas*: *namasya*, ending in *kyac*; *sanādyantā dhātavaḥ* — [Pā. 3-1-32]: so it is a root; *laṭ*, *jhi* → *ant*; *śap*; the *jha* [i.e. *ant*] is unaccented because it stands after an *anudātta*-marked [*anupadeśa*] *śap*; the *kyac*-ending root is acute by the root accent.
+- **dīdetha** (p. 246): root *dīdī dīptau*, used only in the Veda; *liṭ*, *sip*; *parasmaipadānāṃ ṇalatusus…*: *thal*; "in the sūtra *liṭi dhātor anabhyāsasya* (Pā. 6-1-8) the Kāśikā-authors say that, in the section on doubling, one must say *chandasi vā*, 'optionally in the Veda'; so there is no doubling"; "since *āgamaśāstram anityam*, no *iṭ*"; *dīdī + tha*; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; by *liti* (no number printed) the syllable before the suffix is acute.
+- **ṛtajātaḥ**: *ṛta* is sacrifice; root *janī prādurbhāve*, *īdit*; *ṛtena jāyate ayam*; *niṣṭhā*, *kta* in the passive; *śvīdito niṣṭhāyām* — श्वीदितो निष्ठायाम् — (Pā. 7-2-14): *kta* and *ktavatu* take no *iṭ* after *śvi* and *īdit* roots; 
+
+### Page 247
+
+(continued, p. 247) *janasanakhanāṃ sañjhaloḥ* (Pā. 6-4-42): *ā* for the final of *jan*, *san*, *khan* before *jhal*-initial *san* or *kit*/*ñit* suffix: *jā + ta*; *tṛtīyā karmaṇi* (no number printed): the first member in the third case keeps its natural accent.
+- **namasyanti**: *namovarivaścitraṅaḥ kyac* — नमोवरिवश्चित्रङः क्यच् — (Pā. 3-1-19): *kyac* after *namas* in the sense of worship, after *varivas* in the sense of service, after *citra* in the sense of wonder; so *kyac* after *namas*: *namasya*, ending in *kyac*; *sanādyantā dhātavaḥ* (no number printed): so it is a root; *laṭ*, *jhi* → *ant*; *śap*; the *jha* [i.e. *ant*] is unaccented because it stands after an *anudātta*-marked [*anupadeśa*] *śap*; the *kyac*-ending root is acute by the root accent.
 - **kṛṣṭayaḥ**: *kṛṣa vilekhane* ["to draw a line"]; *ktic ktau ca saṃjñāyām* — *ktic*; *kṛṣ + ti*; *ṣṭutva*. Rik 19 ends here (*|| 19 ||*).
 
 ### Rik 36.20 (p. 247 foot, PDF 261–)
