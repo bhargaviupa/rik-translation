@@ -8031,13 +8031,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 59.2 (pp. 443–445, PDF 459–461)
 
-**Saṃhitā-pāṭha** *(p. 443)*
+**Saṃhitā-pāṭha** *(p. 443; accents as printed)*
 
-> **मूर्धा दिवो नाभिरग्निः पृथिव्या अथाभवदरती रोदस्योः ।**
-> **तं त्वा देवासोऽजनयन्त देवं वैश्वानर ज्योतिरिदार्याय ॥ २ ॥**
+> **मू॒र्धा दि॒वो नाभि॑र॒ग्निः पृ॑थि॒व्या अथा॑भवदर॒ती रोद॑स्योः ।**
+> **तं त्वा॑ दे॒वासो॑ऽजनयन्त दे॒वं वैश्वा॑नर॒ ज्योति॒रिदार्या॑य ॥ २ ॥**
 
-*mūrdhā divo nābhir agniḥ pṛthivyā athābhavad aratī rodasyoḥ |*
-*taṃ tvā devāso 'janayanta devaṃ vaiśvānara jyotir id āryāya || 2 ||*
+*mūrdhā́ divó nā́bhir agníḥ pṛthivyā́ áthābhavad aratī́ ródasyoḥ |*
+*táṃ tvā devā́so 'janayanta deváṃ vaíśvānara jyótir íd ā́ryāya || 2 ||*
 
 **Pada-pāṭha** *(p. 443)*
 
@@ -8049,13 +8049,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 443)*
 
-> **विषुवत्संज्ञेऽहन्यग्निमारुते मूर्धा दिवो नाभिरग्निः पृथिव्या इति वैकल्पिकोऽनुरूपस्तृचः । विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितं । मूर्धानं दिवो अरतिं पृथिव्या मूर्धा दिवो नाभिरग्निः पृथिव्या इति वा । आ. ८-६ [?] इति ॥ अयमग्निर्दिवो द्युलोकस्य मूर्धा शिरोवत्प्रधानभूतो भवति । पृथिव्या भूमेश्च नाभिः संनाहकः । रक्षक इत्यर्थः । अथानन्तरं रोदस्योर्द्यावापृथिव्योरयमरतिरधिपतिरभवत् । हे वैश्वानर तं तादृशं देवं दानादिगुणयुक्तं त्वा त्वां देवासः सर्वे देवा आर्याय विदुषे मनवे यजमानाय वा ज्योतिरित् ज्योतीरूपमेवाजनयन्त । उदपादयन् ॥ मूर्तमस्मिन्धीयत इति मूर्धा । नि. २-२२ । श्वन्नुक्षन्निति…**
+> **विषुवत्संज्ञेऽहन्यग्निमारुते मूर्धा दिवो नाभिरग्निः पृथिव्या इति वैकल्पिकोऽनुरूपस्तृचः । विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितं । मूर्धानं दिवो अरतिं पृथिव्या मूर्धा दिवो नाभिरग्निः पृथिव्या इति वा । आ. ८-६ । इति ॥ अयमग्निर्दिवो द्युलोकस्य मूर्धा शिरोवत्प्रधानभूतो भवति । पृथिव्या भूमेश्च नाभिः संनाहकः । रक्षक इत्यर्थः । अथानन्तरं रोदस्योर्द्यावापृथिव्योरयमरतिरधिपतिरभवत् । हे वैश्वानर तं तादृशं देवं दानादिगुणयुक्तं त्वा त्वां देवासः सर्वे देवा आर्याय विदुषे मनवे यजमानाय वा ज्योतिरित् ज्योतीरूपमेवाजनयन्त । उदपादयन् ॥ मूर्तमस्मिन्धीयत इति मूर्धा । नि. २-२२ । श्वन्नुक्षन्नित्यादौ निपातनाद्रूपसिद्धिः । पृथिव्याः । पृथिवीशब्दः षिद्गौरादिभ्यश्चेति ङीष्प्रत्ययान्तोऽन्तोदात्तः । अजनयन्त । जनीजॄष्क्नसुरञ्जोऽमन्ताश्च । धा. १९-६३, ६२ [?] । इति मित्त्वान्मितां ह्रस्व इति ह्रस्वत्वं ॥**
 
-*viṣuvatsaṃjñe 'hany agnimārute mūrdhā divo nābhir agniḥ pṛthivyā iti vaikalpiko 'nurūpas tṛcaḥ | viṣuvān divākīrtya iti khaṇḍe sūtritaṃ | mūrdhānaṃ divo aratiṃ pṛthivyā mūrdhā divo nābhir agniḥ pṛthivyā iti vā | ā. 8-6 [?] iti || ayam agnir divo dyulokasya mūrdhā śirovat pradhānabhūto bhavati | pṛthivyā bhūmeś ca nābhiḥ saṃnāhakaḥ | rakṣaka ity arthaḥ | athānantaraṃ rodasyor dyāvāpṛthivyor ayam aratir adhipatir abhavat | he vaiśvānara taṃ tādṛśaṃ devaṃ dānādiguṇayuktaṃ tvā tvāṃ devāsaḥ sarve devā āryāya viduṣe manave yajamānāya vā jyotir it jyotīrūpam evājanayanta | udapādayan || mūrtam asmin dhīyata iti mūrdhā | ni. 2-22 [?] | śvann ukṣann iti …*
+*viṣuvatsaṃjñe 'hany agnimārute mūrdhā divo nābhir agniḥ pṛthivyā iti vaikalpiko 'nurūpas tṛcaḥ | viṣuvān divākīrtya iti khaṇḍe sūtritaṃ | mūrdhānaṃ divo aratiṃ pṛthivyā mūrdhā divo nābhir agniḥ pṛthivyā iti vā | ā. 8-6 | iti || ayam agnir divo dyulokasya mūrdhā śirovat pradhānabhūto bhavati | pṛthivyā bhūmeś ca nābhiḥ saṃnāhakaḥ | rakṣaka ity arthaḥ | athānantaraṃ rodasyor dyāvāpṛthivyor ayam aratir adhipatir abhavat | he vaiśvānara taṃ tādṛśaṃ devaṃ dānādiguṇayuktaṃ tvā tvāṃ devāsaḥ sarve devā āryāya viduṣe manave yajamānāya vā jyotir it jyotīrūpam evājanayanta | udapādayan || mūrtam asmin dhīyata iti mūrdhā | ni. 2-22 | śvann ukṣann ityādau nipātanād rūpasiddhiḥ | pṛthivyāḥ | pṛthivīśabdaḥ ṣidgaurādibhyaś ceti ṅīṣpratyayānto 'ntodāttaḥ | ajanayanta | janījṝṣknasurañjo 'mantāś ca | dhā. 19-63, 62 [?] | iti mittvān mitāṃ hrasva iti hrasvatvaṃ ||*
 
-*(The last words, "*śvann ukṣann iti*", begin the grammatical tail on the Nirukta etymology of *mūrdhan*; the tail — on *pṛthivyāḥ* (*ṣid gaurādibhyaś ca*), *ajanayanta* (*janī prādurbhāve*, *ṇic*, *mitāṃ hrasvaḥ*; *janījṛṣkṣnasuraṃjo mantāś ca*, Dhā. gaṇa-sūtra as read [?]) — is characterized.)*
+*(The tail is now transcribed in full from the print; the Dhātupāṭha numbers are small type, read at 230 dpi only.)*
 
-**Translation of the bhāṣya:** "On the day called Viṣuvat, in the Agni–Māruta [recitation], 'mūrdhā divo nābhir agniḥ pṛthivyāḥ' is an optional alternative to the preceding triplet; in the section 'viṣuvān divākīrtyaḥ' it is aphorized: '*mūrdhānaṃ divo aratiṃ pṛthivyāḥ* or *mūrdhā divo nābhir agniḥ pṛthivyāḥ*' (Āśv. 8-6 [?]). This Agni is the *mūrdhā*, head, of heaven: chief like a head; *nābhiḥ*, navel — the binder, the protector — of the earth; and then *rodasyoḥ*, of heaven and earth, he became *aratiḥ*, the lord. O Vaiśvānara, such a god, endowed with qualities like generosity, *tvā*, you, *devāsaḥ*, all the gods *ajanayanta*, produced, for the *āryāya*, the wise Manu or the sacrificer, *jyotir it*, as light itself. *Mūrdhā*: 'that in which the formed [body] is placed' (Ni. 2-22 [?])."
+**Translation of the bhāṣya:** "On the day called Viṣuvat, in the Agni–Māruta [recitation], 'mūrdhā divo nābhir agniḥ pṛthivyāḥ' is an optional alternative to the preceding triplet; in the section 'viṣuvān divākīrtyaḥ' it is aphorized: '*mūrdhānaṃ divo aratiṃ pṛthivyāḥ* or *mūrdhā divo nābhir agniḥ pṛthivyāḥ*' (Āśv. 8-6). This Agni is the *mūrdhā*, head, of heaven: chief like a head; *nābhiḥ*, navel — the binder, the protector — of the earth; and then *rodasyoḥ*, of heaven and earth, he became *aratiḥ*, the lord. O Vaiśvānara, such a god, endowed with qualities like generosity, *tvā*, you, *devāsaḥ*, all the gods *ajanayanta*, produced, for the *āryāya*, the wise Manu or the sacrificer, *jyotir it*, as light itself. *Mūrdhā*: 'that in which the formed [body] is placed' (Ni. 2-22)."
 
 **Pratipadārtha** *(p. 444)* — "**agniḥ** — Agni; **divaḥ** — of heaven; **mūrdhā** — (the principal) head; **pṛthivyāḥ** — of earth; **nābhiḥ** — (protector) as the navel; **atha** — and; **rodasyoḥ** — of heaven and earth; **aratiḥ** — the lord; **abhavat** — became; **vaiśvānara** — O Agni; **tam** — such; **devam** — one endowed with generosity; **tvā** — you; **devāsaḥ** — all the gods; **āryāya** — for the wise Manu, or for the sacrificer; **jyotiḥ it** — as light; **ajanayanta** — created."
 
@@ -8064,18 +8064,18 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 444)** — "Agni, the head of heaven, the navel of earth, became the ruler over earth and heaven; all the gods created you, Vaiswanara, in the shape of light for the Arya." *(Printed "Transation" [sic].)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 444**
-- *(first Special Topic)* "In the sacrifice called Viṣuvat, when reciting the Agni–Māruta śastra mantras, the three Riks beginning '*mūrdhā divo nābhir agniḥ pṛthivyāḥ*' may be used as an optional alternative; the Āśvalāyana Śrauta Sūtra in the section '*viṣuvān divākīrtyaḥ*' explains it by the sūtra '*mūrdhānaṃ divo aratiṃ pṛthivyā mūrdhā divo nābhir agniḥ pṛthivyā iti vā*' (Āśv. 8-6 [?])."
-- **mūrdhā** — "*Śirovat pradhānabhūto bhavati*: Agni is the chief among all the gods, as the head among the limbs. The Nirukta-author supports it: '*mūrtam asmin dhīyate iti mūrdhā*' (Ni. 2-22 [?])."
+- *(first Special Topic)* "In the sacrifice called Viṣuvat, when reciting the Agni–Māruta śastra mantras, the three Riks beginning '*mūrdhā divo nābhir agniḥ pṛthivyāḥ*' may be used as an optional alternative; the Āśvalāyana Śrauta Sūtra in the section '*viṣuvān divākīrtyaḥ*' explains it by the sūtra '*mūrdhānaṃ divo aratiṃ pṛthivyā mūrdhā divo nābhir agniḥ pṛthivyā iti vā*' (Āśv. 8-6)."
+- **mūrdhā** — "*Śirovat pradhānabhūto bhavati*: Agni is the chief among all the gods, as the head among the limbs. The Nirukta-author supports it: '*mūrtam asmin dhīyate iti mūrdhā*' (Niru. 2-22)."
 - **āryāya** — "*Vidvāṃsāya, manave, yajamānāya*: the sense 'wise one, Manu, the sacrificer' is given here."
 - **jyotir it** — "*Jyotīrūpam eva*: here the word *it* is established in the sense of *eva*; 'he became light itself' is its sense."
 
 **Vyākaraṇa-prakriyā** *(p. 445 — grammar page, noted briefly)*
-- **mūrdhā**: "*mūrtam asmin dhīyate*" (Ni. 2-22 [?]), Yāska's etymology; *śvan-ukṣan…* (Uṇ. 1-… as read [?]): the form is established as an irregular *nipāta*.
+- **mūrdhā**: "*mūrtam asmin dhīyate*" (Niru. 2-22), Yāska's etymology; *śvan-ukṣan…* (Uṇ. 1-158): the form is established as an irregular *nipāta*.
 - **divaḥ**: *ūḍidam…*: ending acute.
-- **pṛthivyāḥ**: *pṛthivī*, with the *ṅīṣ* by *ṣid gaurādibhyaś ca*, hence end-acute; genitive; *udāttayaṇo hal pūrvāt*: the ending acute.
+- **pṛthivyāḥ**: *pṛthivī*, with the *ṅīṣ* by *ṣid gaurādibhyaś ca* (Pā. 4-1-41), hence end-acute; genitive; *udāttayaṇo hal pūrvāt*: the ending acute.
 - **abhavat**: *bhū sattāyām*; *laṅ*; *nighāta*.
 - **devāsaḥ**: *ājjaserasuk*.
-- **ajanayanta**: *janī prādurbhāve*; the causative; *hetumati ca*: *ṇic*; *ata upadhāyāḥ*: *vṛddhi*; *jani* is a root by *sanādyantā dhātavaḥ*; *laṅ* third plural, *jha*: *jho 'ntaḥ*: *anta*; *janījṛṣkṣnasuraṃjo 'mantāś ca* (Dhātupāṭha *gaṇa*, as read [?]): the root is *mit*, hence *mitāṃ hrasvaḥ*: shortening; *śap*, *guṇa*, *ayādeśa*; *laṅ* gives *aṭ*; *nighāta*.
+- **ajanayanta**: *janī prādurbhāve*; the causative; *hetumati ca*: *ṇic*; *ata upadhāyāḥ*: *vṛddhi*; *jani* is a root by *sanādyantā dhātavaḥ*; *laṅ* third plural, *jha*: *jho 'ntaḥ*: *anta*; *janījṝṣknasurañjo 'mantāś ca* (Dhātupāṭha *gaṇa*-sūtra; no number printed here): the root is *mit*, hence *mitāṃ hrasvaḥ* (Pā. 6-4-92): shortening; *śap*, *guṇa*, *ayādeśa*; *laṅ* gives *aṭ*; *nighāta*.
 - **nābhiḥ**, **vaiśvānara**: explained in the previous mantra. **|| 2 ||**
 
 ---
