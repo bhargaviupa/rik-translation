@@ -2818,13 +2818,15 @@ Numerals are small; a rule is given a number only where I read it.
 
 ### Rik 36.4 (p. 189 onward, PDF 203–)
 
-**Saṃhitā-pāṭha** *(p. 189; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 189)*
 
-> **देवासस्त्वा वरुणो मित्रो अर्यमा सं दूतं प्रत्नमिन्धते ।**
-> **विश्वं सो अग्ने जयति त्वया धनं यस्ते ददाश मर्त्यः ॥ ४ ॥**
+> दे॒वास॑स्त्वा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा सं दू॒तं प्र॒त्नमि॑न्धते ।
+> वि॒श्वं सो अ॑ग्ने जयति॒ त्वया॒ धनं॒ यस्ते॑ द मर्त्यः॑ ॥ ४ ॥
 
-*devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate |*
-*viśvaṃ so agne jayati tvayā dhanaṃ yas te dadāśa martyaḥ || 4 ||*
+*devā́sas tvā váruṇo mitró aryamā́ saṃ dūtáṃ pratnám indhate |*
+*viśváṃ só agne jayati tváyā dhánaṃ yás te da mártyaḥ || 4 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print breaks the second line after "यस्ते द" and goes on with "मर्त्यः" on the next line: the syllables* dāśa *of* dadāśa *are missing in the Saṃhitā [sic]; the Pada has* ददाश*.)*
 
 **Pada-pāṭha** *(p. 189)*
 
@@ -2836,9 +2838,11 @@ Numerals are small; a rule is given a number only where I read it.
 
 ---
 
-### Rik 36.4 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 190–191, PDF 204–205)
+### Rik 36.4 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 190–191, PDF 205–206)
 
-**Sāyaṇa-bhāṣya** *(p. 190; the first half in full, the grammatical tail characterized)*
+### Page 190
+
+**Sāyaṇa-bhāṣya** *(p. 190, in full)*
 
 > हे अग्ने वरुणादयस्त्रयो देवासो देवाः प्रत्नं पुरातनं दूतं त्वां समिन्धते । सम्यग्दीपयन्ति । यो मर्त्यो मनुष्यो यजमानस्ते तुभ्यं ददाश हविर्दत्तवान् स यजमानस्त्वया सहायभूतेन विश्वं सर्वं धनं जयति ॥
 
@@ -2846,7 +2850,13 @@ Numerals are small; a rule is given a number only where I read it.
 
 **Translation:** "O Agni, the three gods, *devāsaḥ*, Varuṇa and the others, *sam indhate* — kindle fully — you, the *pratna*, the ancient *dūta*, messenger. *Yo martyaḥ* — the mortal, the man, the sacrificer, who *te dadāśa* — has given you the oblation — that sacrificer *viśvaṃ dhanaṃ jayati*, wins all wealth, *tvayā*, with you as his helper."
 
-**Grammar within the bhāṣya** *(p. 190, characterized)*: *aryamā* (*āryān nimīte*, "he measures out [or favours] the noble"; the group of words *śvan*, *takṣan*, *plīhan*, *kledan*, *snehan*, *mūrdhan*, *majjan*, *aryaman*, *viśvapsan*, *parjanya*, *mātariśvan*… are given as *kanin*-ending by *nipātana*, in the Uṇādi sūtra of the *śvan*-list [Uṇ. 1-[?], numerals not read]); *indhate* (*ñi-indhī dīptau*; *śnam*, with *śnān nalopaḥ* and *śnasor allopaḥ*); *dadāśa* (*dāśṛ dāne*, *liṭ*, with the accent of the *liṭ*-preceding letter [*liti*], and no lowering because of the connected relative *yaḥ*: *yadvṛttayogād anighātaḥ*).
+**Grammatical tail of the bhāṣya** *(p. 190)*
+
+> अर्यमा । अर्यान्निमीत इत्यर्यमा । श्वन्नुक्षन्नित्यादिना । उ. १-१५८ । कनिन्प्रत्ययान्तो निपातितः । इन्धते । ञिइन्धी दीप्तौ । अस्माल्लटि झस्यादादेशे श्नम् । श्नान्नलोपः । पा. ६-४-२३ । श्नसोरल्लोप इत्यकारलोपः । ददाश । दाशृ दाने । लिटि लित्स्वरेण प्रत्ययात्पूर्वस्याकारस्योदात्तत्वम् । यद्वृत्तयोगादनिघातः ॥
+
+*aryamā | aryānnimīta ityaryamā | śvannukṣannityādinā | u. 1-158 | kaninpratyayānto nipātitaḥ | indhate | ñiindhī dīptau | asmāllaṭi jhasyādādeśe śnam | śnānnalopaḥ | pā. 6-4-23 | śnasorallopa ityakāralopaḥ | dadāśa | dāśṛ dāne | liṭi litsvareṇa pratyayātpūrvasyākārasyodāttatvam | yadvṛttayogādanighātaḥ ‖*
+
+*(Sense:)* *aryamā* (*aryān nimīte*, "he measures out [or favours] the noble"; given as *kanin*-ending by *nipātana* in the Uṇādi sūtra *śvann ukṣan…*, printed here Uṇ. 1-158 [?] — the third digit is the ೫-like glyph — and in the grammar note on p. 191 Uṇ. 1-152 [?]); *indhate* (*ñi-indhī dīptau*; *śnam*, with *śnān nalopaḥ* and *śnasor allopaḥ*); *dadāśa* (*dāśṛ dāne*, *liṭ*, with the accent of the *liṭ*-preceding letter [*liti*], and no lowering because of the connected relative *yaḥ*: *yadvṛttayogād anighātaḥ*).
 
 **Pratipadārtha** *(p. 190)* — "**agne** — O Agni; **varuṇaḥ, mitraḥ, aryamā, devāsaḥ** — the three deities Varuṇa, Mitra and Aryaman; **pratnam** — ancient; **dūtam** — the messenger, you; **sam indhate** — cause [you] to blaze well; **yaḥ martyaḥ** — whatever sacrificer; **te** — to you; **dadāśa** — offers the oblation; **saḥ** — that sacrificer; **tvayā** — by you (with your help); **viśvaṃ dhanam** — all wealth; **jayati** — wins."
 
@@ -2854,17 +2864,20 @@ Numerals are small; a rule is given a number only where I read it.
 
 **English Translation (the source's own, p. 190)** — "The gods Varuna, Mitra and Aryaman, kindle you, their ancient messenger; the man who has offered you oblations gets through you great wealth·" *(the print ends with a raised dot where a full stop is expected; "Varuna", "Aryaman" as printed)*.
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 190–191**
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 190–191** *(the rest of p. 190 below these two items is blank space in the print)*
 - **pratnam** = *purātanam*: "Agni is long famed as the messenger of the gods."
 - **sam indhate** = *samyag dīpayanti*: "they cause [him] to shine well; they put wood and the like into Agni and make him blaze well."
+
+### Page 191
+
 - **tvayā** — "by you, or by your help."
 - **yas te dadāśa martyaḥ** — "that man who offers oblations to you."
 - **viśvaṃ dhanaṃ jayati** — "*viśvam* means all, i.e. much wealth: he wins, he gains."
 
 **Vyākaraṇa-prakriyā** *(p. 191, PDF 205 — grammar page, noted briefly)*
-- **aryamā**: "*śvan*, *takṣan*, *plīhan*, *kledan*, *snehan*, *mūrdhan*, *majjan*, *aryaman*, *viśvapsan*, *parjanya*, *mātariśvan*, *aghnan*[?]" — these thirteen words, by the Uṇādi sūtra [number as read: Uṇ. 1-[?]], are given as ending in *kanin*; in *aryaman* the root *mā māne* with *arya* as its *upapada*, the suffix *kanin*; *aryā + an*; *ato lopa iṭi ca* — अतो लोप इटि च — loss of the *ā*; by the suffix-accent the word is final-acute.
-- **indhate**: root *ñi-indhī dīptau*, *laṭ*, *jha*; *ātmanepadeṣv nataḥ* — आत्मनेपदेष्वनतः — in the *ātmanepada*, a *jh* [of the ending] after a base not ending in *a* is replaced by *at*: so *jha* → *at*; *rudhādibhyaḥ śnam* — *śnam*, which is *mit*, placed after the last vowel by *midaco 'ntyāt paraḥ*; *ind + na + dh + at*, *śnān nalopaḥ* — loss of the *n* [of *śnam*] before the *jh* [of the ending]: the *n* in front; and *śnasor allopaḥ* — loss of the *a* of *śnam*, as the earlier mantra [Rik 3] explains.
-- **dadāśa**: root *dāśṛ dāne*, *liṭ*, *tip*; *parasmaipadānāṃ ṇalatusustha…* — *ṇal*; doubling (*dvitva*), shortening (*hrasva*), the *ś* in the reduplicate: by *abhyāse carca* — the *jaś* [or *car*] for its own class: "*prakṛtijaś*"; the letter before the *ṇal* suffix is acute by *liti* (*litī svaraḥ*); because the relative word *yaḥ* [in *yas te dadāśa*] is connected, *yadvṛttayogād anighātaḥ*; the print recalls that "*pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ*", in the sūtra with the repeated *pūjita*, the separation notwithstanding, the prohibition of *yadvṛtta* stands, as shown before: so *tiṅ ṅatiṅaḥ*'s wholly-unaccented does not arise. Rik 4 ends here (*|| 4 ||*).
+- **aryamā**: "*śvan*, *ukṣan*, *pūṣan*, *plīhan*, *kledan*, *snehan*, *mūrdhan*, *majjan*, *aryaman*, *viśvapsan*, *parijman*, *mātariśvan*, *maghavan*" — these thirteen words, by the Uṇādi sūtra *śvann ukṣan pūṣan…maghavann iti* (Uṇ. 1-152 [?], as printed here; 1-158 [?] in the bhāṣya tail), are given as ending in *kanin*; in *aryaman* the root *mā māne* with *arya* as its *upapada*, the suffix *kanin*; *aryā + an*; *ato lopa iṭi ca* — अतो लोप इटि च — (Pā. 6-4-64) loss of the *ā*; by the suffix-accent the word is final-acute.
+- **indhate**: root *ñi-indhī dīptau*, *laṭ*, *jha*; *ātmanepadeṣv anataḥ* — आत्मनेपदेष्वनतः — (Pā. 7-1-5) in the *ātmanepada*, a *jh* [of the ending] after a base not ending in *a* is replaced by *at*: so *jha* → *at*; *rudhādibhyaḥ śnam* (Pā. 3-1-78) — *śnam*, which is *mit*, placed after the last vowel by *midaco 'ntyāt paraḥ*; *ind + na + dh + at*, *śnān nalopaḥ* (Pā. 6-4-23) — loss of the *n* [of *śnam*] before the *jh* [of the ending]: the *n* in front; and *śnasor allopaḥ* — loss of the *a* of *śnam*, as the earlier mantra [Rik 3] explains.
+- **dadāśa**: root *dāśṛ dāne*, *liṭ*, *tip*; *parasmaipadānāṃ ṇalatusustha…* — *ṇal*; doubling (*dvitva*), shortening (*hrasva*), the *ś* in the reduplicate: by *abhyāse carca* — the *jaś* [or *car*] for its own class: "*prakṛtijaś*"; the letter before the *ṇal* suffix is acute by *liti* (Pā. 6-1-193); because the relative word *yaḥ* [in *yas te dadāśa*] is connected, *yadvṛttayogād anighātaḥ*; the print recalls that "*pūjanāt pūjitam anudāttaṃ kāṣṭhādibhyaḥ*", in the sūtra with the repeated *pūjita*, the separation notwithstanding, the prohibition of *yadvṛtta* stands, as shown before: so *tiṅ ṅatiṅaḥ*'s wholly-unaccented does not arise. Rik 4 ends here (*|| 4 ||*).
 
 ### Rik 36.5 (pp. 191–195, PDF 205–209)
 
