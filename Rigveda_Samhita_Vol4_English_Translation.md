@@ -3316,13 +3316,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.11 (pp. 215–217, PDF 229–231)
 
-**Saṃhitā-pāṭha** *(p. 215; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 215)*
 
-> **यमग्निं मेध्यातिथिः कण्व ईध ऋतादधि ।**
-> **तस्य प्रेषो दीदियुस्तमिमा ऋचस्तमग्निं वर्धयामसि ॥ ११ ॥**
+> यम॒ग्निं मेध्या॑तिथिः॒ कण्व॑ ई॒ध ऋ॒तादधि॑ ।
+> त॒स्य प्रे॑षो दीदि॒युस्तमि॒मा ऋच॒स्तम॒ग्निं व॑र्धयामसि ॥ ११ ॥ [accent ?]
 
-*yam agniṃ medhyātithiḥ kaṇva īdha ṛtād adhi |*
-*tasya preṣo dīdiyus tam imā ṛcas tam agniṃ vardhayāmasi || 11 ||*
+*yam agníṃ médhyātithiḥ káṇva īdhá ṛtā́dádhi |*
+*tasyá preṣo dīdiyús tam imā́ ṛcás tam agníṃ vardhayāmasi || 11 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. In the first line the stroke of "ṛtādadhi" stands over* dhi*, as printed. [accent ?]: the underline of "dīdiyuḥ" lies under* di*/*yu*; placed on* di*.)*
 
 **Pada-pāṭha** *(p. 215)*
 
@@ -3332,35 +3334,48 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *yam | agnim | medhya-atithiḥ | kaṇvaḥ | īdhe | ṛtāt | adhi ||*
 *tasya | pra | iṣaḥ | dīdiyuḥ | tam | imāḥ | ṛcaḥ | tam | agnim | vardhayāmasi || 11 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 215; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 215, in full)*
 
-> मेध्यातिथिर्यागयोग्या अतिथय ऋत्विग्रूपा यस्य [?] ताद्दृशः कण्व ऋषिर्ऋतादधि आदित्यादधिकं यमग्निमीधे दीप्तवान् तस्याग्नेरिषो गमनस्वभावा रश्मयः प्र दीदियुः । प्रकर्षेण दीप्यन्ते । तथा तमग्निमिमा अस्माभिः प्रयुज्यमाना ऋचो वर्धयन्तीति शेषः । वयमपि तमग्निं वर्धयामसि । स्तोत्रैर्वर्धयामः ॥
+> मेधातिथिर्यागयोग्या अतिथय ऋत्विग्रूपा यस्य तादृशः कण्व ऋषिर्ऋतादधि आदित्यादध्याहृत्य यमग्निमीधे दीप्तवान् तस्याग्नेरिषो गमनस्वभावा रश्मयः प्र दीदियुः । प्रकर्षेण दीप्यन्ते । तथा तमग्निमिमा अस्माभिः प्रयुज्यमाना ऋचो वर्धयन्तीति शेषः । वयमपि तमग्निं वर्धयामसि । स्तोत्रैर्वर्धयामः ॥
 
-*medhyātithir yāgayogyā atithaya ṛtvigrūpā yasya [?] tādṛśaḥ kaṇva ṛṣir ṛtād adhi ādityād adhikaṃ yam agnim īdhe dīptavān tasyāgner iṣo gamanasvabhāvā raśmayaḥ pra dīdiyuḥ | prakarṣeṇa dīpyante | tathā tam agnim imā asmābhiḥ prayujyamānā ṛco vardhayantīti śeṣaḥ | vayam api tam agniṃ vardhayāmasi | stotrair vardhayāmaḥ ||*
+*medhātithiryāgayogyā atithaya ṛtvigrūpā yasya tādṛśaḥ kaṇva ṛṣirṛtādadhi ādityādadhyāhṛtya yamagnimīdhe dīptavān tasyāgneriṣo gamanasvabhāvā raśmayaḥ pra dīdiyuḥ | prakarṣeṇa dīpyante | tathā tamagnimimā asmābhiḥ prayujyamānā ṛco vardhayantīti śeṣaḥ | vayamapi tamagniṃ vardhayāmasi | stotrairvardhayāmaḥ ‖*
 
-*(The opening words of the bhāṣya are crowded; the first word is read "medhātithir…" and the sentence as given, with [?].)*
+*(The bhāṣya opens "medhātithiḥ" as printed; "ādityād adhyāhṛtya" — "supplying [the word] from 'āditya'" — as printed.)*
 
-**Translation:** "Kaṇva the ṛṣi, *medhyātithiḥ* — he whose guests, in the form of priests, are fit for the sacrifice — *ṛtāt adhi*, more than [the sun, *āditya*], *īdhe* — kindled — that Agni whom [he kindled]. *Tasya iṣaḥ* — that Agni's rays, whose nature is to move — *pra dīdiyuḥ*, shine forth greatly. And these ṛks, being recited by us, *tam agnim* — that Agni — [make] grow (to be supplied). We too, *vardhayāmasi*, make that Agni grow by [our] praises."
+**Translation:** "Kaṇva the ṛṣi, *medhyātithiḥ* — he whose guests, in the form of priests, are fit for the sacrifice — *ṛtāt adhi*, [i.e.] from the sun, *āditya* (the word being supplied), *īdhe* — kindled — that Agni whom [he kindled]. *Tasya iṣaḥ* — that Agni's rays, whose nature is to move — *pra dīdiyuḥ*, shine forth greatly. And these ṛks, being recited by us, *tam agnim* — that Agni — [make] grow (to be supplied). We too, *vardhayāmasi*, make that Agni grow by [our] praises."
 
-**Grammar within the bhāṣya** *(p. 215, characterized)*: *īdhe* (*ñi-indhī dīptau*, *liṭ*, *kitvāt* the loss of the *n*; doubling and *halādiḥ śeṣaḥ*; *savarṇadīrgha*; suffix accent; no lowering because the relative *yam* is connected); *iṣaḥ* (*iṣa gatau*; the rays that "go away": *iṣyanti gacchanti*); *dīdiyuḥ* (*dīdī dīptau*, Vedic only; *liṭ*, *jhi* → *us*; *liṭy abhyasya… ij ādeśaḥ*: *iy* for *ī*; *ireṇekāco…*: the *yaṇ*-substitution does not arise in the Veda); *vardhayāmasi* (*idanto masiḥ* — the *i* augment for *masi*).
+**Grammatical tail of the bhāṣya** *(p. 215)*
 
-**Pratipadārtha** *(p. 215–216)* — "**medhyātithiḥ** — he who has guests who are fit for the sacrifice, in the form of priests; **kaṇvaḥ** — the ṛṣi Kaṇva; **ṛtād adhi** — more than the Sun; **yam agnim** — which Agni; **īdhe** — kindled; **tasya** — of that Agni; **iṣaḥ** — the rays that have the nature of moving; **pra dīdiyuḥ** — have shone greatly; **tam** — that Agni; **imāḥ** — these; **ṛcaḥ** — ṛks [recited by us]; (**vardhayanti** — make [him] spread); **vayam api** — we also; **tam agnim** — that Agni; **vardhayāmasi** — cause to prosper."
+> ईधे । ञिइन्धी दीप्तौ । इन्धिभवतिभ्यां च । पा. १-२-६ । इति लिटः कित्त्वादनिदितामिति नकारलोपः । द्विर्भावहलादिशेषयोः कृतयोः सवर्णदीर्घः । प्रत्ययस्वरः । यद्वृत्तयोगादनिघातः । इषः । इष गतौ । इष्यन्ति गच्छन्तीतीषो रश्मयः । दीदियुः । दीदेतिश्छान्दसो धातुर्दीप्तिकर्मा । लिट्युसीयङादेशः । एरनेकाच इति यणादेशाभावश्छान्दसः । वर्धयामसि । इदन्तो मसिरिति मस इकारागमः ॥
+
+*īdhe | ñiindhī dīptau | indhibhavatibhyāṃ ca | pā. 1-2-6 | iti liṭaḥ kittvādaniditāmiti nakāralopaḥ | dvirbhāvahalādiśeṣayoḥ kṛtayoḥ savarṇadīrghaḥ | pratyayasvaraḥ | yadvṛttayogādanighātaḥ | iṣaḥ | iṣa gatau | iṣyanti gacchantītīṣo raśmayaḥ | dīdiyuḥ | dīdetiśchāndaso dhāturdīptikarmā | liṭyusīyaṅādeśaḥ | eranekāca iti yaṇādeśābhāvaśchāndasaḥ | vardhayāmasi | idanto masiriti masa ikārāgamaḥ ‖*
+
+*(Sense:)* *īdhe* (*ñi-indhī dīptau*, *liṭ*, *kitvāt* the loss of the *n*; doubling and *halādiḥ śeṣaḥ*; *savarṇadīrgha*; suffix accent; no lowering because the relative *yam* is connected); *iṣaḥ* (*iṣa gatau*; the rays that "go away": *iṣyanti gacchanti*); *dīdiyuḥ* (*dīdī dīptau*, Vedic only; *liṭ*, *jhi* → *us*; *liṭy abhyasya… ij ādeśaḥ*: *iy* for *ī*; *ireṇekāco…*: the *yaṇ*-substitution does not arise in the Veda); *vardhayāmasi* (*idanto masiḥ* — the *i* augment for *masi*).
+
+**Pratipadārtha** *(pp. 215–216)* — "**medhyātithiḥ** — he who has guests who are fit for the sacrifice, in the form of priests; **kaṇvaḥ** — the ṛṣi Kaṇva; **ṛtād adhi** — more than the Sun; **yam agnim** — which Agni; **īdhe** — kindled; **tasya** — of that Agni; **iṣaḥ** — the rays that have the nature of moving; **pra dīdiyuḥ** — have shone greatly; **tam** — that Agni; **imāḥ** — these; **ṛcaḥ** — ṛks [recited by us]; 
+
+### Page 216
+
+(continued, p. 216) (**vardhayanti** — make [him] spread); **vayam api** — we also; **tam agnim** — that Agni; **vardhayāmasi** — cause to prosper."
 
 **Bhāvārtha** *(p. 216)* — "The sage Kaṇva was always famous for the entertainment of guests. The guests of this sage, worthy of worship and entitled to perform sacrifices, accept his hospitality in the form of priests of the sacrifice. With the help of such guests Kaṇva makes the sacrifice and makes Agni blaze more than the Sun. The rays of that Agni, which move in a deep, unfathomable course, shine with great brilliance. The ṛks we have recited cause that Agni to blossom forth. We, too, by performing sacrifices, cause that Agni deity to prosper."
 
 **English Translation (the source's own, p. 216)** — "The rays of that Agni whom Medhyatithi Kanwa made more brilliant than the sun, shine brightly ; we praise (extol) that same Agni by reciting hymns·" *(the print ends with a raised dot)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 216**
-- **ṛtāt** = *ādityāt*: "from the Sun; there is a Vedic statement '*ṛtenādityas tapati*' (Tai. Up. [?])."
+- **ṛtāt** = *ādityāt*: "from the Sun; there is a Vedic statement '*ṛtenādityas tapati*' (Tai. U., no number printed)."
 - **iṣaḥ** = *gamanasvabhāvā raśmayaḥ*: "rays whose nature is to move, to spread and pervade."
 - **imā ṛcaḥ** — "these ṛks that we are now reciting."
 - **agniṃ vardhayāmasi** = *agniṃ stotrair vardhayāmaḥ*: "we praise Agni with ṛks in the form of praises."
 
 **Vyākaraṇa-prakriyā** *(pp. 216–217, PDF 230–231 — grammar pages, noted briefly)*
-- **īdhe** (p. 216–217): root *ñi-indhī dīptau*; *liṭ*, *ta*; *liṭas tajhayor eśirec* — [Pā. 3-4-81]: *eś* [*e*] for *ta*, and *irec* for *jha*; *indhibhavatibhyāṃ ca* — इन्धिभवतिभ्यां च — [Pā. 1-2-6]: after *indh* and *bhū*, *liṭ* is *kit* even when not [otherwise] *kit*; "*indh* and *bhū*, because they are *guru*-vowelled; since the *liṭ* of a root with a heavy penultimate would not take *kit*, *kit*-ness is here taught; and *ijādeś ca gurumato 'nṛcchaḥ* — [Pā. 3-1-36]: *ām* for *liṭ* after a root beginning with *ij*-letters that has a heavy vowel — hence *ām* would arise for *indh*, but *amantre* [Pā. 3-1-35] prohibits [*ām*] in the Veda; *chandasy ubhayathā* [Pā. 3-4-117] makes the *sārvadhātuka* also *ārdhadhātuka*, and *sārvadhātukam apit* gives *ṅit*; so, since the *kit*-ness is there, the *kit*-based changes arise even without the *ṅit*-ness"; "the *vuk* augment is always there for the *liṭ* after *bhū*, so that *vṛddhi* has no occasion; and so *indhibhavatibhyāṃ ca* is explained as a prohibition [*pratyākhyāna*]"; *anidītāṃ hala upadhāyāḥ kṅiti* — [Pā. 6-4-24]: the *n* of *indh* is lost: *idh + e*; doubling, loss of the reduplicate's consonant, *savarṇadīrgha*; *yam agnim* — because the relative *yam* is connected, the wholly-unaccented is forbidden; the suffix-accent comes.
+- **īdhe** (pp. 216–217): root *ñi-indhī dīptau*; *liṭ*, *ta*; *liṭas tajhayor eśirec* (no number printed): *eś* [*e*] for *ta*, and *irec* for *jha*; *indhibhavatibhyāṃ ca* — इन्धिभवतिभ्यां च — (Pā. 1-2-6): after *indh* and *bhū*, *liṭ* is *kit* even when not [otherwise] *kit*; "*indh* and *bhū*, because they are *guru*-vowelled; since the *liṭ* of a root with a heavy penultimate would not take *kit*, *kit*-ness is here taught; and *ijādeś ca gurumato 'nṛcchaḥ* (Pā. 3-1-36): *ām* for *liṭ* after a root beginning with *ij*-letters that has a heavy vowel — hence *ām* would arise for *indh*, but *amantre* (no number printed) prohibits [*ām*] in the Veda; *chandasy ubhayathā* (Pā. 3-4-117) makes the *sārvadhātuka* also *ārdhadhātuka*, and *sārvadhātukam apit* (Pā. 1-2-4) gives *ṅit*; so, since the *kit*-ness is there, the *kit*-based changes arise even without the *ṅit*-ness"; "the *vuk* augment is always there for the *liṭ* after *bhū*, so that *vṛddhi* has no occasion; and so *indhibhavatibhyāṃ ca* is explained as a prohibition [*pratyākhyāna*]"; *anidītāṃ hala upadhāyāḥ kṅiti* (Pā. 6-4-24): the *n* of *indh* is lost: *idh + e*; doubling, loss of the reduplicate's consonant, *savarṇadīrgha*; *yam agnim* — because the relative *yam* is connected, the wholly-unaccented is forbidden; the suffix-accent comes.
+
+### Page 217
+
 - **iṣaḥ**: root *iṣa gatau*, *divādi*; *iṣyanti* = "[they] go"; *iṣaḥ* = "the rays [which], leaving the support, go far away".
-- **dīdiyuḥ**: root *dīdī dīptau*, Vedic only; after it *liṭ*, *jhi*, *us*; *dīdī + us*; *ācchinnaḥ…*: *iyaṅ* [as read: *ajñ… iy*] by the rule *ac chnu…*; "*vero 'nekāco 'saṃyogapūrvasya* — [Pā. 6-4-82]: the *yaṇ* for the final *i*/*ī*/*u*/*ū* of a base of several vowels, not preceded by a conjunct, is replaced here by *iy* since the rule *sarve vidhayaś chandasi vikalpyante* (Pari. 63 [?]) makes the *yaṇ* optional; so no *yaṇ*, and no doubling here."
-- **vardhayāmasi**: *idanto masi* — इदन्तो मसि — [Pā. 7-1-46]: the *masi*-ending takes *i* at the end [by the indicatory phrase]; "*mas* of the first-person plural, after a *ṇic*-ending base *vṛdh*, takes *i*": *vardhayāmasi*. Rik 11 ends here (*|| 11 ||*).
+- **dīdiyuḥ**: root *dīdī dīptau*, Vedic only; after it *liṭ*, *jhi*, *us*; *dīdī + us*; *ācchinnaḥ…*: *iyaṅ* [as read: *ajñ… iy*] by the rule *ac chnu…*; "*vero 'nekāco 'saṃyogapūrvasya* (Pā. 6-4-82): the *yaṇ* for the final *i*/*ī*/*u*/*ū* of a base of several vowels, not preceded by a conjunct, is replaced here by *iy* since the rule *sarve vidhayaś chandasi vikalpyante* (Paribhā. 3[?]: the second digit is a ೫/೮-like glyph, not settled) makes the *yaṇ* optional; so no *yaṇ*, and no doubling here."
+- **vardhayāmasi**: *idanto masi* — इदन्तो मसि (Pā. 7-1-46): the *masi*-ending takes *i* at the end [by the indicatory phrase]; "*mas* of the first-person plural, after a *ṇic*-ending base *vṛdh*, takes *i*": *vardhayāmasi*. Rik 11 ends here (*|| 11 ||*).
 
 ### Rik 36.12 (pp. 217–220, PDF 231–234)
 
