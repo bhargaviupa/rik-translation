@@ -7706,38 +7706,61 @@ days after the full moon are called the dark fortnight (*kṛṣṇapakṣa*). T
 
 ---
 
-### Pages 315–317 — Sūkta 25, Rik 9
+### Page 315 (lower) — Sūkta 25, Rik 9
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वेद वातस्य वर्तनिमुरोरृष्वस्य बृहतः ।
-> वेदा ये अध्यासते ॥ ९ ॥
+> वेद॒ वात॑स्य वर्त॒निमु॒रोर्ऋ॒ष्वस्य॑ बृह॒तः ।
+> वेदा ये अध्यास॑ते ॥९॥
+>
+> *veda vā́tasya vartanímurórṛṣvásya bṛhatáḥ |*
+> *vedā ye adhyā́sate ||9||*
 
-*veda vātasya vartanim uror ṛṣvasya bṛhataḥ | vedā ye adhyāsate || 9 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Line 2 carries only one mark, a stroke over* स*, as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 316 — Rik 9: Pada, bhāṣya, word-meanings, overall sense, English
 
-> वेद । वातस्य । वर्तनिम् । उरोः । ऋष्वस्य । बृहतः ॥ वेद । ये । अधिऽआसते ॥ ९ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*veda | vātasya | vartanim | uroḥ | ṛṣvasya | bṛhataḥ || veda | ye | adhi-āsate || 9 ||*
+> वेद । वातस्य । वर्तनिं । उरोः । ऋष्वस्य । बृहतः । वेद । ये । अधिऽआसते ॥९॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 316)*
+> *veda | vātasya | vartaniṃ | uroḥ | ṛṣvasya | bṛhataḥ | veda | ye | adhi-āsate ‖9‖*
 
-> उरोर्विस्तीर्णस्य ऋष्वस्य दर्शनीयस्य बृहतो गुणैरधिकस्य वातस्य वायोर्वर्तनिं मार्गं वेद । वरुणो जानाति । ये देवा अध्यासते उपरि तिष्ठन्ति तानपि वेद । जानाति ॥ वातस्य । आसिहसीत्यादिना । उ. ३-९४ । तन्प्रत्ययान्तो वातशब्दो नित्त्वादाद्युदात्तः । वर्तनिम् । वर्तेऽनेनेति वर्तनिः स्तोत्रमिति स्तोत्रवाचकस्य वर्तनिशब्दस्यान्तोदात्तत्वसिद्ध्यर्थमुंभादिषु पाठादस्य प्रत्ययस्वरेण मध्योदात्तत्वे प्राप्ते व्यत्ययेनान्तोदात्तत्वम् । बृहतः । बृहन्महतोरुपसंख्यानमिति जस उदात्तत्वम् । अध्यासते । लसार्वधातुकानुदात्तत्वे सति धातुस्वरः ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*uror vistīrṇasya ṛṣvasya darśanīyasya bṛhato guṇair adhikasya vātasya vāyor vartaniṃ mārgaṃ veda | varuṇo jānāti | ye devā adhyāsate upari tiṣṭhanti tān api veda | jānāti || vātasya | āsihasīty ādinā | u. 3-94 | tanpratyayānto vātaśabdo nittvād ādyudāttaḥ | vartanim | varte 'nenēti vartaniḥ stotram iti stotravācakasya vartaniśabdasyāntodāttatvasiddhyartham uṃbhādiṣu pāṭhād asya pratyayasvareṇa madhyodāttatve prāpte vyatyayenāntodāttatvam | bṛhataḥ | bṛhanmahator upasaṃkhyānam iti jasa udāttatvam | adhyāsate | lasārvadhātukānudāttatve sati dhātusvaraḥ ||*
+> उरोर्विस्तीर्णस्य ऋष्वस्य दर्शनीयस्य बृहतो गुणैरधिकस्य वातस्य वायोर्वर्तनिं मार्गं वेद । वरुणो जानाति । ये देवा अध्यासते उपरि तिष्ठंति तानपि वेद । जानाति ॥ वातस्य । असिहसीत्यादिना । उ. ३-८६ । तन्प्रत्ययांतो वातशब्दो नित्त्वादाद्युदात्तः । वर्तनिं । वर्ततेऽनेनेति वर्तनिः स्तोत्र इति स्तोत्रवाचकस्य वर्तनिशब्दस्यांतोदात्तत्वसिद्ध्यर्थमुंछादिषु पाठादस्य प्रत्ययस्वरेण मध्योदात्तत्वे प्राप्ते व्यत्ययेनांतोदात्तत्वं । बृहतः । बृहन्महतोरुपसंख्यानमिति जस उदात्तत्वं । अध्यासते । लसार्वधातुकानुदात्तत्वे सति धातुस्वरः ॥
 
-**Translation:** "He knows the *vartani* — the track — of the wind (*vāta*) that is *uru* — broad, *ṛṣva* — beautiful to look at, *bṛhat* — great, surpassing in qualities. Varuṇa knows; and he knows those gods who sit (*adhyāsate*) above. *Vātasya*: the word *vāta*, ending in *tan* by Uṇ. 3-94 [*āsihasi…*], has the initial acute because of *nit*. *Vartanim*: '*vartanih*' meaning 'hymn' — for the word *vartani* in the sense of 'hymn' to take the end-acute, it is read in the *uṃbhādi* list; its accent by the suffix would be the middle one, but by *vyatyaya* the end is acute. *Bṛhataḥ*: the *jas* is acute by *bṛhanmahator upasaṃkhyānam*. *Adhyāsate*: since the *laṭ* ending is anudātta, the root's accent remains." *(Grammar pages 317–318, noted briefly: the words treated are* vātasya *[*vā gatigandhanayoḥ* + *tan* by Uṇ. 3-94 *āsihasi*…; *nit*, so first-syllable acute by P. 6-1-197 *ñnityādir nityam*],* vartanim *[*vṛtu vartane* + *ani*, Uṇ. 2-[?] *vṛter ani* [reading doubtful]; *laghūpadha-guṇa*; the accusative singular; *vartani* in the sense of 'hymn' is listed among the *uṃbhādi* words so that it has end-acute (P. 6-1-160 *uñchādīnāṃ ca*); the suffix-accent would make it middle-acute, but *vyatyaya* gives end-acute],* bṛhataḥ *[*bṛhi vṛddhau* + *śatṛ*; genitive singular; P. 6-1-170 *bṛhanmahator upasaṃkhyānam* gives the acute to the ending] and* adhyāsate *[*āsa upaveśane*, *adādi*, *laṭ* *jha* → *ata* by P. 7-1-5/7-1-6 *ātmanepadeṣv anataḥ*; the root's accent; the *gati* *adhi* is lowered by P. 8-1-71 [*tiṅi codāttavati*]; as the word *ye* is before, there is no lowering of the verb]; numerals as read, pointers only.)*
+> *urorvistīrṇasya ṛṣvasya darśanīyasya bṛhato guṇairadhikasya vātasya vāyorvartaniṃ mārgaṃ veda | varuṇo jānāti | ye devā adhyāsate upari tiṣṭhaṃti tānapi veda | jānāti ‖ vātasya | asihasītyādinā | u. 3-86 | tanpratyayāṃto vātaśabdo nittvādādyudāttaḥ | vartaniṃ | vartate 'neneti vartaniḥ stotra iti stotravācakasya vartaniśabdasyāṃtodāttatvasiddhyarthamuṃchādiṣu pāṭhādasya pratyayasvareṇa madhyodāttatve prāpte vyatyayenāṃtodāttatvaṃ | bṛhataḥ | bṛhanmahatorupasaṃkhyānamiti jasa udāttatvaṃ | adhyāsate | lasārvadhātukānudāttatve sati dhātusvaraḥ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 316)* **उरोः (uroḥ)** — of the broad | **ऋष्वस्य (ṛṣvasya)** — of the attractive | **बृहतः (bṛhataḥ)** — of the great [excellent] | **वातस्य (vātasya)** — of the wind | **वर्तनिम् (vartanim)** — the path | **वेद (veda)** — knows | **ये (ye)** — which gods | **अध्यासते (adhyāsate)** — dwell above | **वेद (veda)** — he knows [them too].
+*(Number zoom-read at 450 dpi: उ. ३-८६ (ಇ-shaped 3; ಲ-shaped 8; hook-6).* उंछादिषु *has the ಛ glyph.)*
 
-**॥ Bhāvārthaḥ ॥** Varuṇa knows the path of the wind, which is wide, attractive and great, and he knows the nature of the other gods who dwell in the upper region.
+*Gist:* Varuṇa knows the course of the wind, wide, fair to see and great in its qualities, and knows also the gods who dwell above.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **वरुणः (varuṇaḥ)** — Varuṇa | **उरोः (uroḥ)** — spread wide | **ऋष्वस्य (ṛṣvasya)** — attractive | **बृहतः (bṛhataḥ)** — endowed with excellent qualities | **वातस्य (vātasya)** — of the wind | **वर्तनिं (vartaniṃ)** — the path | **वेद (veda)** — knows | (and) **ये (ye)** — which gods | **अध्यासते (adhyāsate)** — are in the upper region | (them too) **वेद (veda)** — he knows.
+
+**॥ Bhāvārthaḥ ॥** The god Varuṇa knows the path of the wind, which is spread wide, pleasing to the mind and great with excellent qualities, and he knows the nature of the gods who dwell in the upper region.
+
+**॥ English Translation ॥** *(as printed)*
 
 > He who knows the path of the vast, the graceful and the excellent wind and who knows those (gods) who reside above. (may he remove our bonds)
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 317)* **वातस्य, ऋष्वस्य, बृहतः** — it is well known that the *antarikṣa* (the sky), the path along which the wind moves, is extremely spacious and beautiful to look at. **ये अध्यासते** — 'above' means the gods who dwell in the heavenly world, above even the *antarikṣa*. The sense is that Varuṇa knows the nature of these.
+### Page 317 — Rik 9: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**वातस्य, ऋष्वस्य, बृहतः (vātasya, ṛṣvasya, bṛhataḥ)** — it is well known that the *antarikṣa* (the sky), the path along which the wind moves, is very wide and beautiful to look at.
+
+**ये अध्यासते (ye adhyāsate)** — "above" means the gods who are in the world of heaven, higher even than the *antarikṣa*; the sense is that Varuṇa knows their nature.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**वातस्य (vātasya)** — *vā gatigandhanayoḥ*, adādi; the suffix *tan* by "असिहसि-"; genitive singular; being *nit*, initially acute by "ञ्नित्यादिर्नित्यम्" (Pā. 6-1-197).
+
+**वर्तनिम् (vartanim)** — *vṛtu vartane*, bhvādi; the suffix *ani* by "वृतेश्च" (Uṇ. Sū. 2-263, in the Kannada grammar's series; the bhāṣya's Uṇādi number is not given for this word); guṇa of the light penultimate; accusative singular *vartanim*. *Vartate anena iti vartaniḥ*: so that *vartani* meaning "hymn of praise" may be end-acute, by the gaṇa sūtra "वर्तनिः स्तोत्रे" (Pā. Sū. 6-1-160 ग) the word is read in the *uñchādi* list (printed ಉಂಛಾದಿ), and "उञ्छादीनां च" (Pā. Sū. 6-1-160) gives the end-acute; when the suffix accent (udātta on the *a* of *ani*) sets this aside and would make it medially acute, the end-acute comes by *vyatyaya*.
+
+**बृहतः (bṛhataḥ)** — *bṛhi vṛddhau*; *śatṛ*; genitive singular; by the vārttika "बृहन्महतोरुपसंख्यानम्" the case ending is udātta: an end-acute word.
+
+**अध्यासते (adhyāsate)** — *āsa upaveśane*, adādi; for the *laṭ* third plural *jha*, since no *a* precedes, *at* is substituted by "आत्मनेपदेष्वनतः" (Pā. Sū. 7-1-5): *āsate*. As the root is *anudāttet*, the following *lasārvadhātuka* is anudātta, and the root's end-acute remains. By "तिङि चोदात्तवति" (Pā. Sū. 8-1-71) the prefix *adhi* takes the *nighāta* accent. ॥९॥ *(A printed ornament follows.)*
 
 ---
 
