@@ -1,8 +1,8 @@
 # v4b state (numeral/[?]/accent pass, Vol 4)
 - **Range:** Sūktas 36–38 (file: from "## SŪKTA 36", printed p. 176, to the section before "## SŪKTA 39", p. 339). Branch `claude/numerals-vol4-b`.
 - **Page map checked:** better-scan PDF 191 = printed 176, PDF 192 = 177, PDF 193 = 178 (printed = PDF − 15).
-- **Done through:** Ṛk 37.4 (PDF 280, printed p. 265 upper part).
-- **Next unit:** Ṛk 37.5 (pp. 265–267, PDF 280–282).
+- **Done through:** Ṛk 37.5 (PDF 282, printed p. 267).
+- **Next unit:** Ṛk 37.6 (pp. 268–270, PDF 283–285).
 - **Tool:** `vol4/tools/zoom_v4b.py PDF OUT S x0 y0 x1 y1 …` (crops from the 450-dpi page render of `zoom_strips.py PDF 4`, displayed-strip coordinates; Z = scale).
 - **Open items:** Ṛk 36.1 tail group "siddha[?]nveti" (p. 179); Uṇ. 1-23 headword "pṝbhidi" [?] (p. 181); Ṛk 36.2 Ni. ref for sahaḥ (p. 184) and Uṇ. 2-26 last digit (p. 185); Ṛk 36.3 Uṇ. 4-628 [?] (p. 188); Ṛk 36.4 Uṇ. 1-152/1-158 third digit (pp. 190–191); Ṛk 36.7 samindhate accent, Paribhā. 9[?] (p. 202); Ṛk 36.9 accents aruṣam, darśatam (p. 207); Ṛk 36.10 second-line accents, Pā. 3-3-174 middle digit (p. 214); Ṛk 36.11 dīdiyuḥ accent, Paribhā. 3[?] (p. 217); Ṛk 36.13 Saṃhitā accents (p. 220), Uṇ. number on p. 225; Ṛk 36.14 Uṇ. 4-?08 (p. 227); Ṛk 36.16 two accents and the damaged conjunct before ripo (p. 232); Ṛk 36.17 saubhagaṃ accent (p. 236); Ṛk 36.19 Ni. 3-[?] (p. 246); Sūkta 37 intro Āś. 7-18 and Ṛ.Saṃ. 7-59-16 first digit (7/2), clause vyaṣeravāviśiṣṭa (p. 251); Ṛk 37.4 śuṣmiṇe accent, Uṇ. 4-496 (p. 264).
 - **Tool:** `vol4/tools/band_v4b.py PDF OUT S y0 y1 …` (full-width line bands cut in K pieces; my y estimates from the strip views run ~1 line high, so take generous bands).

@@ -4419,15 +4419,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **tveṣadyumnāya** (p. 265): root *tviṣa dīptau*, the *pacādi* suffix *ac*, *laghūpadha-guṇa*; *tveṣam* = shining, *dyumnam* = fame, *yasya saḥ*: a bahuvrīhi; the first member keeps its natural accent.
 - **devattam**: *daivaiḥ dattam*, a tatpuruṣa compound; *tṛtīyā karmaṇi* — तृतीया कर्मणि — (Pā. 6-2-48): the first member keeps its natural accent; the Kāśikā-authors, on *pṛṣodarādīni yathopadiṣṭam* — पृषोदरादीनि यथोपदिष्टम् — (Pā. 6-3-109), say *dvau cāparau varṇavikāranāśau* — "two further operations: change of one letter [into another], and loss of a letter"; of these two, here the *d* is lost. Rik 4 ends here (*|| 4 ||*).
 
-### Rik 37.5 (pp. 265–267, PDF 279–281)
+### Rik 37.5 (pp. 265–267, PDF 280–282)
 
-**Saṃhitā-pāṭha** *(p. 265; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 265)*
 
-> **प्र शंसा गोष्वघ्न्यं क्रीळं यच्छर्धो मारुतम् ।**
-> **जम्भे रसस्य वावृधे ॥ ५ ॥**
+> प्र शं॑सा॒ गोष्वघ्न्यं॑ क्री॒ळं यच्छर्धो॒ मारु॑तं ।
+> ज॒म्भे रस॑स्य वावृधे ॥ ५ ॥
 
-*pra śaṃsā goṣv aghnyaṃ krīḷaṃ yac chardho mārutam |*
-*jambhe rasasya vāvṛdhe || 5 ||*
+*prá śaṃsā góṣvaghnyáṃ krīḷáṃ yácchárdho mā́rutaṃ |*
+*jambhé rásasya vāvṛdhe || 5 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 265)*
 
@@ -4437,15 +4439,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *pra | śaṃsa | goṣu | aghnyam | krīḷam | yat | śardhaḥ | mārutam ||*
 *jambhe | rasasya | vavṛdhe || 5 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 265–266; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 265–266, in full, with its grammatical tail)*
 
-> गोषु मरुन्मातृभूतपृश्निप्रभृतिषु धेनुष्ववस्थितम् । पृश्न्यै वै पयसो मरुतो जाताः । तै. सं. २-२-११-४ [?] । इति श्रुत्यन्तरात् । अघ्न्यमहन्तव्यं क्रीळं विहारोपेतं मारुतं मरुत्सम्बन्धि शर्धः प्रसहनशीलं तेजो यदस्ति तत्र शंस । हे ऋत्विक्समूह स्तुहि । रसस्य गोक्षीररूपस्य सम्बन्धि तत्तेजो जम्भे मुख उदरे वा ववृधे । वृद्धमभूत् ॥ शंस । शन्सु स्तुतौ । द्व्यचोऽतस्तिङः इति संहितायां दीर्घः । गोषु । सावेकाच इति प्राप्तस्य विभक्त्युदात्तस्य न गोश्वन्साववर्णेति प्रतिषेधः । अघ्न्यम् । घ्नो हननं । घञर्थे कविधानं । पा. ३-३-५८ [?] । इति कः । गमहनेत्यादिनोपधालोपः । हो हन्तेः । पा. ७-३-५४ । इति घत्वं । तदर्हतीति घ्न्यं । छन्दसि चेति यः । न घ्न्यमघ्न्यम् । अव्ययेपूर्वपदप्रकृतिस्वरत्वम् । क्रीळादयो गताः । जम्भे । जभि नाशने । जम्भ्यते भक्ष्यतेऽनेनेति जम्भमास्यं । करणे घञ् । ववृधे । वृधु वृद्धौ । लिट् । छान्दसं संहितायामभ्यासदीर्घत्वम् ॥
+> गोषु मरुन्मातृभूतपृश्निप्रभृतिषु धेनुष्ववस्थितम् । पृश्न्यै वै पयसो मरुतो जाताः । तै. सं. २-२-११-४ । इति श्रुत्यन्तरात् । अघ्न्यमहन्तव्यं क्रीळं विहारोपेतं मारुतं मरुत्सम्बन्धि शर्धः प्रसहनशीलं तेजो यदस्ति तत्र शंस । हे ऋत्विक्समूह स्तुहि । रसस्य गोक्षीररूपस्य सम्बन्धि तत्तेजो जम्भे मुख उदरे वा ववृधे । वृद्धमभूत् ॥ शंस । शन्सु स्तुतौ । द्व्यचोऽतस्तिङः इति संहितायां दीर्घः । गोषु । सावेकाच इति प्राप्तस्य विभक्त्युदात्तस्य न गोश्वन्साववर्णेति प्रतिषेधः । अघ्न्यम् । घ्नो हननं । घञर्थे कविधानम् । पा. ३-३-५८-४ । इति कः । गमहनेत्यादिनोपधालोपः । हो हन्तेः । पा. ७-३-५४ । इति घत्वं । तदर्हतीति घ्न्यम् । छन्दसि चेति यः । न घ्न्यमघ्न्यम् । अव्ययेपूर्वपदप्रकृतिस्वरत्वम् । क्रीळादयो गताः । जम्भे । जभि नाशने । जम्भ्यते भक्ष्यतेऽनेनेति जम्भमास्यं । करणे घञ् । ववृधे । वृधु वृद्धौ । लिट् । छान्दसं संहितायामभ्यासदीर्घत्वम् ॥
 
-*goṣu marunmātṛbhūtapṛśniprabhṛtiṣu dhenuṣv avasthitam | pṛśnyai vai payaso maruto jātāḥ | tai. saṃ. 2-2-11-4 [?] | iti śrutyantarāt | aghnyam ahantavyaṃ krīḷaṃ vihāropetaṃ mārutaṃ marutsambandhi śardhaḥ prasahanaśīlaṃ tejo yad asti tatra śaṃsa | he ṛtviksamūha stuhi | rasasya gokṣīrarūpasya sambandhi tat tejo jambhe mukha udare vā vavṛdhe | vṛddham abhūt || śaṃsa | śansu stutau | dvyaco 'tastiṅaḥ iti saṃhitāyāṃ dīrghaḥ | goṣu | sāvekāca iti prāptasya vibhaktyudāttasya na gośvansāvavarṇeti pratiṣedhaḥ | aghnyam | ghno hananaṃ | ghañarthe kavidhānaṃ | pā. 3-3-58 [?] | iti kaḥ | gamahanetyādinopadhālopaḥ | ho hanteḥ | pā. 7-3-54 | iti ghatvaṃ | tad arhatīti ghnyaṃ | chandasi ceti yaḥ | na ghnyam aghnyam | avyayepūrvapadaprakṛtisvaratvam | krīḷādayo gatāḥ | jambhe | jabhi nāśane | jambhyate bhakṣyate 'neneti jambham āsyaṃ | karaṇe ghañ | vavṛdhe | vṛdhu vṛddhau | liṭ | chāndasaṃ saṃhitāyām abhyāsadīrghatvam ||*
+*goṣu marunmātṛbhūtapṛśniprabhṛtiṣu dhenuṣvavasthitam | pṛśnyai vai payaso maruto jātāḥ | tai. saṃ. 2-2-11-4 | iti śrutyantarāt | aghnyamahantavyaṃ krīḷaṃ vihāropetaṃ mārutaṃ marutsambandhi śardhaḥ prasahanaśīlaṃ tejo yadasti tatra śaṃsa | he ṛtviksamūha stuhi | rasasya gokṣīrarūpasya sambandhi tattejo jambhe mukha udare vā vavṛdhe | vṛddhamabhūt ‖ śaṃsa | śansu stutau | dvyaco 'tastiṅaḥ iti saṃhitāyāṃ dīrghaḥ | goṣu | sāvekāca iti prāptasya vibhaktyudāttasya na gośvansāvavarṇeti pratiṣedhaḥ | aghnyam | ghno hananaṃ | ghañarthe kavidhānam | pā. 3-3-58-4 | iti kaḥ | gamahanetyādinopadhālopaḥ | ho hanteḥ | pā. 7-3-54 | iti ghatvaṃ | tadarhatīti ghnyam | chandasi ceti yaḥ | na ghnyamaghnyam | avyayepūrvapadaprakṛtisvaratvam | krīḷādayo gatāḥ | jambhe | jabhi nāśane | jambhyate bhakṣyate 'neneti jambhamāsyaṃ | karaṇe ghañ | vavṛdhe | vṛdhu vṛddhau | liṭ | chāndasaṃ saṃhitāyāmabhyāsadīrghatvam ‖*
 
-*(Reading note: "ghno hananam" is as printed; the root-form of* aghnyam *is explained in the grammar below.)*
+*(The tail on p. 266 is printed from "dīrghaḥ" on; Pā. 3-3-58-4 is a vārtika number.)*
 
-**Translation:** "*Goṣu* — in the cows, [that is] in the milch cows such as Pṛśni, the mothers of the Maruts ('from Pṛśni's milk the Maruts were born', Tai. Saṃ. 2-2-11-4 [?], from another Vedic text): *aghnyam* — indestructible, *krīḷam* — endowed with sport, *mārutam* — belonging to the Maruts, *śardhaḥ* — that energy whose nature is overpowering — *yat* — which exists: praise (*śaṃsa* = *stuhi*) that, O company of priests. *Rasasya* — that energy relating to the [*rasa*, the] milk of the cow, *jambhe*, in the mouth or belly, *vavṛdhe* — grew."
+**Translation:** "*Goṣu* — in the cows, [that is] in the milch cows such as Pṛśni, the mothers of the Maruts ('from Pṛśni's milk the Maruts were born', Tai. Saṃ. 2-2-11-4, from another Vedic text): *aghnyam* — indestructible, *krīḷam* — endowed with sport, *mārutam* — belonging to the Maruts, *śardhaḥ* — that energy whose nature is overpowering — *yat* — which exists: praise (*śaṃsa* = *stuhi*) that, O company of priests. *Rasasya* — that energy relating to the [*rasa*, the] milk of the cow, *jambhe*, in the mouth or belly, *vavṛdhe* — grew."
+
+### Page 266
 
 **Pratipadārtha** *(p. 266)* — "**goṣu** — (O priests) in the milch cows, beginning with Pṛśni, who are the mothers of the Maruts, [that is, in them]; **aghnyam** — indestructible; **krīḷam** — endowed with sport; **mārutam** — belonging to the Maruts; **śardhaḥ** — the energy that has the strength to restrain enemies; **yat (asti)** — whatever it is (with regard to that); **pra śaṃsa** — praise [with hymns]; **rasasya** — [that energy] which is nourished by the milk of the cows; **jambhe** — in the mouth; **vavṛdhe** — grew."
 
@@ -4454,19 +4458,22 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 **English Translation (the source's own, p. 266)** — "Praise the sportive and resistless might of the Maruts who were born amongst cows and whose strength has been nourished by milk·" *(the print ends with a raised dot)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 266–267**
-- **goṣu** = *marunmātṛbhūtapṛśniprabhṛtiṣu*: "in the cows called Pṛśni, said to be the mothers of the Maruts. According to the Taittirīya Śruti statement '*pṛśnyai vai payaso marutaḥ jātāḥ*' (Tai. Saṃ. 2-2-11-4 [?]) it is famed that the Marut deities were born from the milk of Pṛśni, the cow of the heavenly world."
+- **goṣu** = *marunmātṛbhūtapṛśniprabhṛtiṣu*: "in the cows called Pṛśni, said to be the mothers of the Maruts. According to the Taittirīya Śruti statement '*pṛśnyai vai payaso marutaḥ jātāḥ*' (Tai. Saṃ. 2-2-11-4) it is famed that the Marut deities were born from the milk of Pṛśni, the cow of the heavenly world."
+
+### Page 267
+
 - **śaṃsa** — "for the convenience of the metre the *a* is long [*śaṃsā*] in the Saṃhitā text."
 - **aghnyam** = *ahantavyam*: "that which cannot be killed; not to be harmed, and the like."
 - **jambhe** = *mukhe udare vā*: "in the mouth or in the belly."
 - **rasasya** = *gokṣīrarūpasya sambandhi*: "relating to the milk of the cow Pṛśni — the energy."
 
-**Vyākaraṇa-prakriyā** *(pp. 267, PDF 281 — grammar page, noted briefly)*
+**Vyākaraṇa-prakriyā** *(p. 267, PDF 282 — grammar page, noted briefly)*
 - **śaṃsā**: root *śaṃsu stutau*, *loṭ*, second-person singular; *dvyacotastiṅaḥ* — द्व्यचोऽतस्तिङः — in the Saṃhitā the *a* of a two-vowelled *tiṅ*-form is lengthened.
 - **goṣu**: "here the case-ending stands after the word *go*; the acute on the ending that would come by *sāvekācas tṛtīyādir vibhaktiḥ* is prohibited by *na gośvansāvavarṇa…* (quoted in part in the print)."
-- **aghnyam**: root *han hiṃsāgatyoḥ*; *ghañarthe kavidhānam…* — [Pā. 3-3-58, as read]: the suffix *ka* in the sense of *ghañ*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — the penultimate *a* of the root is lost; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — [Pā. 7-3-54]: *h* becomes *gh*: *ghna*, "killing"; *ghnam arhati iti ghnyam* — "one fit for killing"; *chandasi ca* — छन्दसि च — [Pā. 5-1-67]: *yat* in the Veda after a prātipadika in the second case in the sense *arhati*; *na ghnyam = aghnyam*, a nañ-tatpuruṣa; the first member, an indeclinable, keeps its natural accent — "the enumeration *avyaye nañ ku…* [as read] must not be forgotten."
+- **aghnyam**: root *han hiṃsāgatyoḥ*; *ghañarthe kavidhānam…* (Pā. 3-3-58-4, vārtika): the suffix *ka* in the sense of *ghañ*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — the penultimate *a* of the root is lost; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — (Pā. 7-3-54): *h* becomes *gh*: *ghna*, "killing"; *ghnam arhati iti ghnyam* — "one fit for killing"; *chandasi ca* — छन्दसि च — (Pā. 5-1-67): *yat* in the Veda after a prātipadika in the second case in the sense *arhati*; *na ghnyam = aghnyam*, a nañ-tatpuruṣa; *tatpuruṣe tulyārtha…*: the first member, an indeclinable, keeps its natural accent — "the enumeration *avyaye nañkunipātānām* must not be forgotten."
 - **krīḷam, śardhaḥ, mārutam**: "explained in the first mantra of this sūkta."
 - **jambhe**: root *jabhi nāśane*, *curādi*; *jabhyate = nāśyate 'nena iti jambham*, "that by which things eaten are destroyed", that is, the instrument of eating — *jambha* = mouth; *karaṇe ghañ*.
-- **vāvṛdhe** [the Saṃhitā form of *vavṛdhe*]: root *vṛdhu vṛddhau*; *liṭ*, doubling; *liṭas tajhayor eśirec*: *e*; *ur at* — उरत् — (number not read): *a* for the *ṛ* of the reduplicate, with *raparatva*; *halādiḥ śeṣaḥ*: loss of the *r* and *dh*; *vavṛdh + e*; *kṅiti ca*: no *guṇa*; the lengthening of the reduplicate in the Saṃhitā is Vedic. Rik 5 ends here (*|| 5 ||*).
+- **vāvṛdhe** [the Saṃhitā form of *vavṛdhe*]: root *vṛdhu vṛddhau*; *liṭ*, doubling; *liṭas tajhayor eśirec*: *e*; *ur at* — उरत् — (no number printed): *a* for the *ṛ* of the reduplicate, with *raparatva*; *halādiḥ śeṣaḥ*: loss of the *r* and *dh*; *vavṛdh + e*; *kṅiti ca*: no *guṇa*; the lengthening of the reduplicate in the Saṃhitā is Vedic. Rik 5 ends here (*|| 5 ||*).
 
 ### Rik 37.6 (pp. 268–270, PDF 282–284)
 
