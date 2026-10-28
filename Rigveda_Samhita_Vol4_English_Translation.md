@@ -3766,13 +3766,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.17 (p. 236 foot, PDF 250–)
 
-**Saṃhitā-pāṭha** *(p. 236; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 236)*
 
-> **अग्निर्वव्ने सुवीर्यमग्निः कण्वाय सौभगम् ।**
-> **अग्निः प्रावन्मित्रोत मेध्यातिथिमग्निः साता उपस्तुतम् ॥ १७ ॥**
+> अ॒ग्निर्व॑व्ने सु॒वीर्य॑म॒ग्निः कण्वा॑य॒ सौभ॑गं । [accent ?]
+> अ॒ग्निः प्राव॑न्मि॒त्रोत मेध्या॑तिथिम॒ग्निः सा॒ता उ॑पस्तु॒तं ॥
 
-*agnir vavne suvīryam agniḥ kaṇvāya saubhagam |*
-*agniḥ prāvan mitrota medhyātithim agniḥ sātā upastutam || 17 ||*
+*agnír vávne suvī́ryam agníḥ káṇvāya saubhágaṃ |* [accent ?]
+*agníḥ prā́van mitróta médhyātithim agníḥ sātā́ úpastutáṃ ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print gives no number after the Saṃhitā (only ॥); the Pada closes ॥ १७ ॥. [accent ?]: the stroke in "saubhagaṃ" stands between* sau *and* bha*; placed on* bha*.)*
 
 **Pada-pāṭha** *(p. 236)*
 
@@ -3786,7 +3788,7 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.17 (continued) — bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 236–239, PDF 250–253)
 
-**Sāyaṇa-bhāṣya** *(foot of p. 236 – p. 237; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(foot of p. 236 – p. 237, in full)*
 
 > अग्निर्देवः सुवीर्यं शोभनवीर्योपेतं धनमुद्दिश्य वव्ने । याचितः । सोऽग्निः कण्वाय महर्षये सौभाग्यं शोभनधनादिरूपं भाग्यं प्रायच्छदिति शेषः । तथाग्निर्मित्राण्यस्मन्मित्राणि प्रावत् । प्रकर्षेण रक्षितवान् । उताऽपि च मेध्यातिथिं मेधयोग्यैरतिथिभिरुपेतमृषिं प्रावत् । तथोपस्तुतमन्यमपि स्तोतारं यजमानं सातौ धनादिदाननिमित्तं प्रावदिति शेषः ॥
 
@@ -3794,7 +3796,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Translation:** "The god Agni, *vavne* — was begged — for *suvīryam*, wealth furnished with good heroic strength. That Agni gave to the great ṛṣi Kaṇva *saubhagam* — good fortune, a share in the form of beautiful wealth and so on — [so] it is to be supplied. Likewise Agni *pra āvat* — protected excellently — our friends (*mitrā*, = *mitrāṇi*). And [he protected] *medhyātithim*, the ṛṣi who has guests fit for the sacrifice. Likewise [he protected] *upastutam*, another praiser, a sacrificer, *sātau*, with a view to giving wealth and the like — so it is to be supplied."
 
-**Grammar within the bhāṣya** *(p. 237, characterized)*: *vavne* (*vanu yācane*, *liṭ* in the passive, *liṭas tajhayor eśirec*; *na śasadadavādiguṇānām* — the *a* of this *va*-initial root does not become *e* nor does the reduplicate lose its vowel; the loss of the penultimate is Vedic); *saubhagam* (*subhagāt*: *aṇ*, because *subhaga* is in the *udgātrādi* group, in the sense "state of that" — *añ*; first-syllable acute by *ñnityādir nityam*); *mitrā* (neuter plural; *śi* lost by *śeś chandasi bahulam*); *upastutam* (*ktic ktau ca saṃjñāyām*; *ṣṭuñ*; *thāthaghañktā…*: final-acute).
+### Page 237
+
+**Grammatical tail of the bhāṣya** *(p. 237)*
+
+> वव्ने । वनु याचने । कर्मणि लिट् । न शसददवादिगुणानाम् । पा. ६-४-१२६ । इत्येत्वाभ्यासलोपयोः प्रतिषेधः । उपधालोपश्छान्दसः । सौभगम् । सुभगान्मन्त्र इत्युद्गात्रादिषु पाठात्तस्य भाव इत्येतस्मिन्नर्थेऽञ् । पा. ५-१-१२९ । ञित्त्वादाद्युदात्तत्वम् । मित्रा । शेश्छन्दसि बहुलमिति शेर्लोपः । उपस्तुतम् । क्तिच्क्तौ च संज्ञायामिति स्तौतेः कर्तरि क्तः । थाथादिनोत्तरपदान्तोदात्तत्वम् ॥
+
+*vavne | vanu yācane | karmaṇi liṭ | na śasadadavādiguṇānām | pā. 6-4-126 | ityetvābhyāsalopayoḥ pratiṣedhaḥ | upadhālopaśchāndasaḥ | saubhagam | subhagānmantra ityudgātrādiṣu pāṭhāttasya bhāva ityetasminnarthe 'ñ | pā. 5-1-129 | ñittvādādyudāttatvam | mitrā | śeśchandasi bahulamiti śerlopaḥ | upastutam | kticktau ca saṃjñāyāmiti stauteḥ kartari ktaḥ | thāthādinottarapadāntodāttatvam ‖*
+
+*(Sense:)* *vavne* (*vanu yācane*, *liṭ* in the passive, *liṭas tajhayor eśirec*; *na śasadadavādiguṇānām* — the *a* of this *va*-initial root does not become *e* nor does the reduplicate lose its vowel; the loss of the penultimate is Vedic); *saubhagam* (*subhagāt*: *aṇ*, because *subhaga* is in the *udgātrādi* group, in the sense "state of that" — *añ*; first-syllable acute by *ñnityādir nityam*); *mitrā* (neuter plural; *śi* lost by *śeś chandasi bahulam*); *upastutam* (*ktic ktau ca saṃjñāyām*; *ṣṭuñ*; *thāthaghañktā…*: final-acute).
 
 **Pratipadārtha** *(p. 237)* — "**agniḥ** — the Agni deity; **suvīryam** — [wealth] that is beneficial and gives strength; **vavne** — was prayed for; **agniḥ** — Agni; **kaṇvāya** — to the great ṛṣi Kaṇva; **saubhagam** — good fortune in the form of prosperity [he gave]; **agniḥ** — Agni; **mitrā** — our friends; **prāvat** — protected well; **uta** — and besides; **medhyātithim** — the ṛṣi who has guests worthy of worship; **upastutam** — another devotee who praised [him], the sacrificer; **sātau** — [for the sake of] his desire of gaining wealth, [with the power] to satisfy [him]; [**prāvat** — protected well]."
 
@@ -3802,15 +3812,20 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **English Translation (the source's own, p. 237)** — "Agni is praised for power and wealth ; he has granted prosperity to Kanwa, he has protected our friends, he has protected Medhyatithi and Upastuta ( or sacrificer ) who prayed for him to get riches·" *(the print ends with a raised dot)*.
 
+### Page 238
+
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 238**
 - **suvīryam** = *śobhanavīryopetaṃ dhanam uddiśya*: "that is, 'with a view to wealth endowed with good fortune (or valour)'; *vīrya* means strength, power, valour. The sense 'wealth' has to be supplied."
 - **saubhagam** = *śobhanadhanādirūpaṃ bhāgyam*: "the best of wealth, lordship and the like."
 - **agniḥ pra āvan mitrā uta medhyātithiḥ** — "Agni protected our friends, or [the friends] of the ṛṣi Kaṇva, and also the ṛṣi named Medhyātithi, of Kaṇva's family. Here it is more fitting to say that the *medhyātithi* is an ṛṣi of the Kaṇva line, rather than to give, as the bhāṣyakāra does, the sense of the parts '*medhayogyair atithibhir upetam*' — 'one furnished with guests worthy of worship'; for Medhyātithi is one famed ṛṣi in the Kaṇva line, so it is right to recall the name of that [ṛṣi]. Besides, the sense that Skandasvāmin gives to the word *mitrā*, *mitrāvaruṇau*, is not quite suitable: since Mitra and Varuṇa are chief deities, like Agni, it does not seem right that one deity should protect another."
 
 **Vyākaraṇa-prakriyā** *(pp. 238–239, PDF 252–253 — grammar pages, noted briefly)*
-- **vavne** (p. 238): root *vanu yācane*, *tanādi*; *liṭ* in the passive (*karmaṇi*), *ta*; *liṭas tajhayor eśirec* — *e* for *ta*; *na śasadadavādiguṇānām* — न शसददवादिगुणानाम् — [Pā. 6-4-126]: there is no *e* for the *a* of the roots *śas*, *dad*, *va*-initial roots and the roots with *guṇa* named, and no loss of the reduplicate [by *abhyāsasya*… *eṭi*] — "that is, for the *a* of the *va*-initial root *van* there is no *e*-substitution and no loss of the reduplicate *vavan + e*; the loss of the penultimate is Vedic".
-- **saubhagam**: *subhaga* is read in the *udgātrādi* group; *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — [Pā. 5-1-129]: *añ* after words denoting a living being, a species or an age, and after the *udgātrādi* words, in the sense *bhāva* or *karman*; *subhaga + a*; *vṛddhi*; *ñnityādir nityam* — first-syllable acute.
+- **vavne** (p. 238): root *vanu yācane*, *tanādi*; *liṭ* in the passive (*karmaṇi*), *ta*; *liṭas tajhayor eśirec* — *e* for *ta*; *na śasadadavādiguṇānām* — न शसददवादिगुणानाम् — (printed Pā. 6-4-129 [as printed; for 6-4-126]; the bhāṣya tail on p. 237 has 6-4-126): there is no *e* for the *a* of the roots *śas*, *dad*, *va*-initial roots and the roots with *guṇa* named, and no loss of the reduplicate [by *abhyāsasya*… *eṭi*] — "that is, for the *a* of the *va*-initial root *van* there is no *e*-substitution and no loss of the reduplicate *vavan + e*; the loss of the penultimate is Vedic".
+- **saubhagam**: *subhaga* is read in the *udgātrādi* group; *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — (Pā. 5-1-129): *añ* after words denoting a living being, a species or an age, and after the *udgātrādi* words, in the sense *bhāva* or *karman*; *subhaga + a*; *vṛddhi*; *ñnityādir nityam* — first-syllable acute.
 - **mitrā**: *mitra*, neuter; *śas* → *śi*; *śeś chandasi bahulam* — *luk* of *śi*.
+
+### Page 239
+
 - **upastutam** (p. 239): *ṣṭuñ stutau*; *ktic ktau ca saṃjñāyām* — *kta* in the sense of agent; *thāthaghañktā…*: the later member is final-acute. Rik 17 ends here (*|| 17 ||*).
 
 ### Rik 36.18 (pp. 239–244, PDF 253–258)
