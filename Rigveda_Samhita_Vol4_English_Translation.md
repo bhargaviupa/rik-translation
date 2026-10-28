@@ -2881,13 +2881,17 @@ Numerals are small; a rule is given a number only where I read it.
 
 ### Rik 36.5 (pp. 191–195, PDF 205–209)
 
-**Saṃhitā-pāṭha** *(p. 191; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 191)*
 
-> **मन्द्रो होता गृहपतिरग्ने दूतो विशामसि ।**
-> **त्वे विश्वा संगतानि व्रता ध्रुवा यानि देवा अकृण्वत ॥ ५ ॥**
+> म॒न्द्रो होता॑ गृ॒हप॑ति॒रग्ने॑ दू॒तो वि॒शाम॑सि ।
+> त्वे विश्वा॒ संग॑तानि व्र॒ता ध्रु॒वा यानि॑ दे॒वा अकृ॑ण्वत ॥ ५ ॥
 
-*mandro hotā gṛhapatir agne dūto viśām asi |*
-*tve viśvā saṃgatāni vratā dhruvā yāni devā akṛṇvata || 5 ||*
+*mandró hótā gṛhápatir ágne dūtó viśā́masi |*
+*tve viśvā sáṃgatāni vratā́ dhruvā́ yā́ni devā́ ákṛṇvata || 5 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. In* viśvā *the underline stands under* śvā*.)*
+
+### Page 192
 
 **Pada-pāṭha** *(p. 192)*
 
@@ -2897,7 +2901,7 @@ Numerals are small; a rule is given a number only where I read it.
 *mandraḥ | hotā | gṛha-patiḥ | agne | dūtaḥ | viśām | asi ||*
 *tve iti | viśvā | saṃ-gatāni | vratā | dhruvā | yāni | devāḥ | akṛṇvata || 5 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 192; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 192, in full)*
 
 > हे अग्ने त्वं मन्द्रो हर्षहेतुर्होता देवानामाह्वाता विशां यजमानरूपाणां प्रजानां गृहपतिर्गृहस्य पालको दूतो देवदूतोऽसि । त्वे त्वयि विश्वा व्रता सर्वाणि कर्माणि संगतानि । व्रतं कर्मेति कर्मनामसु व्रतशब्दः पठितः । पृथिव्यादयो देवा ध्रुवा स्थिराणि यानि कर्माण्यकृण्वत कृतवन्तः । पृथिवी धारयति पर्जन्यो वर्षति सूर्यः प्रकाशयति । तान्येतानि त्वयि संगतानीति पूर्वत्रान्वयः ॥
 
@@ -2905,9 +2909,17 @@ Numerals are small; a rule is given a number only where I read it.
 
 **Translation:** "O Agni, you are *mandraḥ*, the cause of delight, the *hotṛ*, the caller of the gods, the *gṛhapati* — the master, the protector of the house — of the *viśām*, the creatures in the form of sacrificers, and the *dūta*, the gods' messenger. *Tve* — in you — *viśvā vratā* — all works — are *saṃgatāni*, joined together ('*vrata*' being read among the names for 'work'). The gods, earth and the rest, *akṛṇvata*, have done the *dhruvā*, steady, works: the earth supports, Parjanya rains, the Sun illumines: those works are united in you — so the connection with the preceding."
 
-**Grammar within the bhāṣya** *(p. 192, characterized; the print is crowded)*: *gṛhapatiḥ* (*patyāv aiśvaryān*, with the first-member natural accent; *tve* by *supāṃ sulug…*, *śe* for the seventh-case *ṅi*, and *tvamāv ekavacane* — *tva* in the singular; *śeṣe lopaḥ* or the loss of the final; the accent of the ending by the *udāttanivṛtti* accent in the one view, and by the single-substitute in the other); *saṃgatāni* (*gamer*: *niṣṭhā* in the sense of the object; *ekāca upadeśe 'nudāttāt* bars *iṭ*; *anudāttopadeśa…* loses the nasal; *gatir anantaraḥ*: the preverb's natural accent); *vratā dhruvā* (*śi* lost by *śeś chandasi bahulam*); *akṛṇvata* (*kṛñ hiṃsākaraṇayoḥ*; *vyatyaya* of voice, *ātmanepada*; *dhinvikṛṇvor a ca* gives *u* for *śap*; the accent of the verb not lowered for the connected *yāni*).
+**Grammatical tail of the bhāṣya** *(p. 192; the varga number ८ closes it)*
+
+> गृहपतिः । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वम् । त्वे । सुपां सुलुगिति सप्तम्येकवचनस्य शे आदेशः । त्वमावेकवचन इति मपर्यन्तस्य त्वादेशः । शेषे लोप इति टिलोपपक्ष उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । अन्त्यलोपपक्षे त्वेकादेशस्वरेण । संगतानि । गमेः कर्मणि निष्ठायामेकाचः । पा. ७-२-१० । इतीट्प्रतिषेधः । अनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । व्रता ध्रुवेत्युभयत्र शेर्लोपः । अकृण्वत । कृवि हिंसाकरणयोश्च । व्यत्ययेनात्मनेपदम् । इदित्त्वान्नुम् । धिन्विकृण्व्योरच्चेत्युप्रत्ययः ॥ ८ ॥
+
+*gṛhapatiḥ | patyāvaiśvarya iti pūrvapadaprakṛtisvaratvam | tve | supāṃ sulugiti saptamyekavacanasya śe ādeśaḥ | tvamāvekavacana iti maparyantasya tvādeśaḥ | śeṣe lopa iti ṭilopapakṣa udāttanivṛttisvareṇa vibhakterudāttatvam | antyalopapakṣe tvekādeśasvareṇa | saṃgatāni | gameḥ karmaṇi niṣṭhāyāmekācaḥ | pā. 7-2-10 | itīṭpratiṣedhaḥ | anudāttopadeśetyādinānunāsikalopaḥ | gatiranantara iti gateḥ prakṛtisvaratvam | vratā dhruvetyubhayatra śerlopaḥ | akṛṇvata | kṛvi hiṃsākaraṇayośca | vyatyayenātmanepadam | idittvānnum | dhinvikṛṇvyoraccetyupratyayaḥ ‖ 8 ‖*
+
+*(Sense:)* *gṛhapatiḥ* (*patyāv aiśvaryān*, with the first-member natural accent; *tve* by *supāṃ sulug…*, *śe* for the seventh-case *ṅi*, and *tvamāv ekavacane* — *tva* in the singular; *śeṣe lopaḥ* or the loss of the final; the accent of the ending by the *udāttanivṛtti* accent in the one view, and by the single-substitute in the other); *saṃgatāni* (*gamer*: *niṣṭhā* in the sense of the object; *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10) bars *iṭ*; *anudāttopadeśa…* loses the nasal; *gatir anantaraḥ*: the preverb's natural accent); *vratā dhruvā* (*śi* lost by *śeś chandasi bahulam*); *akṛṇvata* (*kṛñ hiṃsākaraṇayoḥ*; *vyatyaya* of voice, *ātmanepada*; *dhinvikṛṇvor a ca* gives *u* for *śap*; the accent of the verb not lowered for the connected *yāni*).
 
 **Pratipadārtha** *(p. 192)* — "**agne** — O Agni; **mandraḥ** — the giver of delight; **hotā** — the caller [of the gods to the sacrifice]; **viśām** — of the people who are sacrificers; **gṛhapatiḥ** — the protector of the house; **dūtaḥ** — the messenger of the gods; **asi** — you are; **devāḥ** — the gods, earth and the rest; **yāni** — which; **dhruvā** — steady; **vratā** — works; **akṛṇvata** — have done (the support of the earth, Parjanya's raining, the Sun's shining, and in the same way the works suited to the nature of the other gods); **viśvā** — [for the welfare of the world] all those; **tve** — in you; **saṃgatāni** — joined together, are bound up."
+
+### Page 193
 
 **Bhāvārtha** *(p. 193)* — "O Agni, you are a kinsman to men and to the gods alike. You are the giver of delight to all. You call the gods to their sacrifices on men's behalf. You are the protector of the sacrificers' homes. You are the messenger of the gods to men, and the support of all their works. The works the earth does in supporting, the work Parjanya does in raining, the work the Sun does in shining, and likewise all the works that the other gods firmly carry on for the welfare of the world, all those join and are bound up in you — that is, they proceed through you."
 
@@ -2921,11 +2933,19 @@ Numerals are small; a rule is given a number only where I read it.
 - **vratā dhruvā yāni devā akṛṇvata** — "the works that the gods, by their duty, have to do: the earth gives support to beings and helps them to live; Parjanya sends the rain, his own work; the Sun gives light for the comfort of the people of the world; and so on, whatever works the gods do day by day, all are joined in you, Agni — that is, go on by your help."
 
 **Vyākaraṇa-prakriyā** *(pp. 193–195, PDF 207–209 — grammar pages, noted briefly)*
-- **gṛhapatiḥ** (p. 193–194): *gṛhasya patiḥ* — "the lord of the house"; the word *pati* ends in the Uṇādi suffix *ḍati* [*pāteś ḍatiḥ*, as read]; *patyāv aiśvaryān* — पत्यावैश्वर्ये — [Pā. 6-2-18 (as I read the numerals)]: when *pati* in the sense of lordship follows, the first member of a *tatpuruṣa* keeps its natural accent; so *gṛha*, the first member, keeps its own accent. *Gṛha* is formed with *geha ka* — *gehe kaḥ* — [Pā. 3-1-144]: the suffix *ka* after *graha upādāne* when *geha* (a house) is the agent; *grahijyāvayivyadhivaṣṭi…* — *saṃprasāraṇa* of *gṛ*: *gṛha*; the suffix-accent makes it final-acute.
-- **tve** (p. 194): after *yuṣmad*, the seventh-case singular *ṅi*, replaced by *śe* by *supāṃ sulug…*; *tvamāv ekavacane* — त्वमावेकवचने — *tva*, *ma* replace the end-portion of *yuṣmad*, *asmad* in the singular, so *tva*; because the ending is a substitute, *yo 'ci* [Pā. 7-2-89] does not apply; *śeṣe lopaḥ* — loss of the remaining *d* [or *ad*] before an ending: "the first view is the *ṭi*-loss alternative (loss of the *ad* that is left beyond the *ma*), the second is the final-letter-loss alternative. *Tva*, *ma* are said to be *ajanta* or *halanta*, two views"; on the *ajanta* view, *ato guṇe* gives *pararūpa*; *tvad + e*: the loss of the *ṭi*; and by *anudāttasya ca yatrodāttalopaḥ* the *e* is acute; the root *yuṣ* has the Uṇādi *madik* — *yuṣyasibhyāṃ madik* — so the suffix-accent gives the *ad* acute, and it becomes the cause of its loss; in the final-letter-loss view, *tva + e*: *ato guṇe* gives *pararūpa*, and *ekādeśa udāttenodāttaḥ* makes the *e* acute.
-- **saṃgatāni**: *sam* the preverb, root *gamḷ gatau*; the suffix *kta* in the sense of the object by *niṣṭhā* [Pā. 3-2-102]; *tayor evakṛtyaktakhalarthāḥ* — तयोरेव कृत्यक्तखलर्थाः — the *kṛtya* suffixes, *kta*, *khal*-sense suffixes occur in the senses of *bhāva* and *karman* only; so with the transitive *gam* the *kta* is in the object sense; *ekāca upadeśe 'nudāttāt* — no *iṭ*; *anudāttopadeśa…* — loss of the *m*; *gatir anantaraḥ* — a directly adjacent *gati* (preverb) keeps its natural accent before a *kṛdanta* in the object sense.
+- **gṛhapatiḥ** (pp. 193–194): *gṛhasya patiḥ* — "the lord of the house"; the word *pati* ends in the Uṇādi suffix *ḍati* [*pāteḥ ḍatiḥ*]; *patyāv aiśvarye* — पत्यावैश्वर्ये — (Pā. 6-2-18): when *pati* in the sense of lordship follows, the first member of a *tatpuruṣa* keeps its natural accent; so *gṛha*, the first member, keeps its own accent. 
+
+### Page 194
+
+(continued, p. 194) *Gṛha* is formed with *gehe kaḥ* (Pā. 3-1-144): the suffix *ka* after *graha upādāne* when *geha* (a house) is the agent; *grahijyāvayivyadhivaṣṭi…* — *saṃprasāraṇa* of *gṛ*: *gṛha*; the suffix-accent makes it final-acute.
+- **tve** (p. 194): after *yuṣmad*, the seventh-case singular *ṅi*, replaced by *śe* by *supāṃ sulug…*; *tvamāv ekavacane* — त्वमावेकवचने — (Pā. 7-2-92 [as printed; for 7-2-97]) *tva*, *ma* replace the end-portion of *yuṣmad*, *asmad* in the singular, so *tva*; because the ending is a substitute, *yo 'ci* does not apply; *śeṣe lopaḥ* (Pā. 7-2-90) — loss of the remaining *d* [or *ad*] before an ending: "the first view is the *ṭi*-loss alternative (loss of the *ad* that is left beyond the *ma*), the second is the final-letter-loss alternative. *Tva*, *ma* are said to be *ajanta* or *halanta*, two views"; on the *ajanta* view, *ato guṇe* gives *pararūpa*; *tvad + e*: the loss of the *ṭi*; and by *anudāttasya ca yatrodāttalopaḥ* the *e* is acute; the root *yuṣ* has the Uṇādi *madik* — *yuṣyasibhyāṃ madik* — so the suffix-accent gives the *ad* acute, and it becomes the cause of its loss; in the final-letter-loss view, *tva + e*: *ato guṇe* gives *pararūpa*, and *ekādeśa udāttenodāttaḥ* makes the *e* acute.
+- **saṃgatāni**: *sam* the preverb, root *gamḷ gatau*; the suffix *kta* in the sense of the object by *niṣṭhā* (Pā. 3-2-102); *tayor evakṛtyaktakhalarthāḥ* — तयोरेव कृत्यक्तखलर्थाः — (Pā. 3-4-70) the *kṛtya* suffixes, *kta*, *khal*-sense suffixes occur in the senses of *bhāva* and *karman* only; so with the transitive *gam* the *kta* is in the object sense; *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10) — no *iṭ*; *anudāttopadeśa…* — loss of the *m*; *gatir anantaraḥ* (Pā. 6-2-49) — a directly adjacent *gati* (preverb) keeps its natural accent before a *kṛdanta* in the object sense.
 - **vratā, dhruvā**: these forms stand for *vratāni*, *dhruvāṇi*; in both the *śi* is lost by *śeś chandasi bahulam*.
-- **akṛṇvata** (pp. 194–195): root *kṛvi hiṃsākaraṇayoḥ ca*, *idit*, so *idito num dhātoḥ*; "this root is in the first class [bhvādi] and also read in the *svādi* class; in the sense of motion too it has usage"; this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanepada* comes; *laṅ*, *jha*; *dhinvikṛṇvor a ca* — धिन्विकृण्व्योर च — [Pā. 3-1-80]: after *dhinv* and *kṛṇv* the final letter becomes *a*, and *u* comes in place of *śap* when a *kartṛ*-sense *sārvadhātuka* follows; so *kṛn + u + jha*; *ātmanepadeṣv nataḥ* — *jha* → *at*; the augment *aṭ*; *akṛn + u + at*; *ato lopaḥ* [as read: *ātolopa iṭi ca* — Pā. 6-4-64] — the final *a* lost; no *guṇa*; *yaṇ*-substitution; *ṛvarṇān nasya ṇatvaṃ vācyam* — *n* → *ṇ*: *akṛṇvata*. Rik 5 ends here (*|| 5 ||*).
+- **akṛṇvata** (pp. 194–195): root *kṛvi hiṃsākaraṇayoḥ ca*, *idit*, so *idito num dhātoḥ*; "this root is in the first class and also read in the *svādi* class; in the sense of motion too it has
+
+### Page 195
+
+usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanepada* comes; *laṅ*, *jha*; *dhinvikṛṇvor a ca* — धिन्विकृण्व्योर च — (Pā. 3-1-80): after *dhinv* and *kṛṇv* the final letter becomes *a*, and *u* comes in place of *śap* when a *kartṛ*-sense *sārvadhātuka* follows; so *kṛn + u + jha*; *ātmanepadeṣv nataḥ* — *jha* → *at*; the augment *aṭ*; *akṛn + u + at*; *ato lopaḥ* (Pā. 6-4-48) — the *a* of what ends in *a* at the time of teaching is lost before an *ārdhadhātuka*; no *guṇa*; *yaṇ*-substitution; *ṛvarṇān nasya ṇatvaṃ vācyam* — *n* → *ṇ*: *akṛṇvata*. Rik 5 ends here (*|| 5 ||*).
 
 ### Rik 36.6 (p. 195 onward, PDF 209–)
 
