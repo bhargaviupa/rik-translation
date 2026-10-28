@@ -6557,38 +6557,82 @@ one who afflicts the heart (the mind) by harsh words, improper dealings and cond
 
 ---
 
-### Pages 271–273 — Sūkta 24, Rik 9
+### Page 271 — Sūkta 24, Rik 9
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> शतं ते राजन्भिषजः सहस्रमुर्वी गभीरा सुमतिष्टे अस्तु ।
-> बाधस्व दूरे निरृतिं पराचैः कृतं चिदेनः प्र मुमुग्ध्यस्मत् ॥ ९ ॥
+> श॒तं ते॑ राजन्भिषजः॑ स॒हस्र॑मु॒र्वी ग॑भी॒रा सु॑मति॒ष्टे॑
+> अस्तु ।
+> बाध॑स्व दू॒रे निर्ऋ॑तिं परा॒च्यैः कृ॒तं चि॒देनः॒ प्र
+> मु॑मुग्ध्य॒स्मत् ॥९॥
 
-*śataṃ te rājan bhiṣajaḥ sahasram urvī gabhīrā sumatiṣ ṭe astu | bādhasva dūre nirṛtiṃ parācaiḥ kṛtaṃ cid enaḥ pra mumugdhy asmat || 9 ||*
+> *śa̱taṃ tḙ rājan bhiṣaja̭ḥ sa̱hasra̭m u̱rvī ga̭bhī̱rā sṷmati̱ṣ ṭḙ*
+> *astu |*
+> *bādha̭sva dū̱re nirṛ̭tiṃ parā̱cyaiḥ kṛ̱taṃ ci̱d ena̱ḥ pra*
+> *mṷmugdhy a̱smat ||9||*
+>
+> *śatáṃ te rājan bhiṣájaḥ sahásram urvī́ gabhīrā́ su-matiṣ ṭe*
+> *astu |*
+> *bā́dhasva dūré nírṛtiṃ parācyáiḥ kṛtáṃ cid énaḥ prá*
+> *mumugdhy asmát ||9||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the verse in four lines, breaking after* सुमतिष्टे*,* अस्तु*,* प्र*. The svarita on* बाध *stands over* ध*, and on* निर्ऋ *over* ऋ*; the Pada confirms both. The print reads* पराच्यैः *(च्य) here, in the Pada and in the bhāṣya — recorded as printed.)*
 
-> शतम् । ते । राजन् । भिषजः । सहस्रम् । उर्वी । गभीरा । सुऽमतिः । ते । अस्तु ॥ बाधस्व । दूरे । निःऽऋतिम् । पराचैः । कृतम् । चित् । एनः । प्र । मुमुग्धि । अस्मत् ॥ ९ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*śatam | te | rājan | bhiṣajaḥ | sahasram | urvī | gabhīrā | su-matiḥ | te | astu || bādhasva | dūre | niḥ-ṛtim | parācaiḥ | kṛtam | cit | enaḥ | pra | mumugdhi | asmat || 9 ||*
+> शतं । ते । राजन् । भिषजः । सहस्रं । उर्वी । गभीरा । सुऽमतिः । ते । अस्तु ॥ बाधस्व । दूरे । निःऽऋतिं । पराच्यैः । कृतं । चित् । एनः । प्र । मुमुग्धि । अस्मत् ॥९॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 271)*
+> *śataṃ | te | rājan | bhiṣajaḥ | sahasraṃ | urvī | gabhīrā | su-matiḥ | te | astu ‖ bādhasva | dūre | niḥ-ṛtiṃ | parācyaiḥ | kṛtaṃ | cit | enaḥ | pra | mumugdhi | asmat ‖9‖*
 
-> हे राजन्वरुण ते तव शतं भिषजो बन्धनिवारकाणि शतसंख्याकान्यौषधानि वैद्या वा सन्ति । तथा सहस्रं च । तेऽ तव सुमतिरस्मदनुग्रहबुद्धिरुर्वी विस्तीर्णा गभीरा गाम्भीर्योपेक्षा [?] स्थिरास्तु । निरृतिमस्मदनिष्टकारिणीं निरृतिं पापदेवतां पराचैः पराङ्मुखीं कृत्वा दूरेऽस्मत्तो व्यपहृते देशे स्थापयित्वा तां बाधस्व । कृतं चिदस्माभिरुत्थमेनः पापमस्मात्प्र मुमुग्धि । प्रकर्षेण मुक्तं नष्टं कुरु ॥ सुमतिः । तादौ चेति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते मन्क्रिन्निर्त्यादिनोत्तरपदान्तोदात्तत्वम् । संहितायां विसर्जनीयसकारस्य युष्मत्तत्ततक्षुःष्वन्तःपादम् (पा. ८-३-१०३) इति षत्वम् । बाधस्व । बाध विलोडने । शसः पित्त्वादनुदात्तत्वम् । तिङ्ङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । निरृतिम् । तादौ चेति गतेः प्रकृतिस्वरत्वम् । मुमुग्धि । मुच्लृ मोक्षणे । बहुलं छन्दसीति श्लुः । हुझल्भ्यो हेर्धिः (पा. ६-४-१०१) । तस्यापित्त्वेन ङित्त्वात्सार्वधातुकमपित् । चोः कुः (पा. ८-२-३०) इति कुत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-*he rājan varuṇa te tava śataṃ bhiṣajo bandhanivārakāṇi śatasaṃkhyākāny auṣadhāni vaidyā vā santi | tathā sahasraṃ ca | te 'tava sumatir asmadanugrahabuddhir urvī vistīrṇā gabhīrā gāmbhīryopekṣā [?] sthirāstu | nirṛtim asmadaniṣṭakāriṇīṃ nirṛtiṃ pāpadevatāṃ parācaiḥ parāṅmukhīṃ kṛtvā dūre 'smatto vyapahṛte deśe sthāpayitvā tāṃ bādhasva | kṛtaṃ cid asmābhir utthaṃ enaḥ pāpam asmāt pra mumugdhi | prakarṣeṇa muktaṃ naṣṭaṃ kuru || sumatiḥ | tādau ceti pūrvapadaprakṛtisvaratve prāpte mankrinnityādinottarapadāntodāttatvam | saṃhitāyāṃ visarjanīyasakārasya yuṣmattattatakṣuḥṣv antaḥpādam (pā. 8-3-103) iti ṣatvam | bādhasva | bādha viloḍane | śasaḥ pittvād anudāttatvam | tiṅ ṅaś ca lasārvadhātukasvareṇa dhātusvara eva śiṣyate | nirṛtim | tādau ceti gateḥ prakṛtisvaratvam | mumugdhi | mucḷ mokṣaṇe | bahulaṃ chandasīti śluḥ | hujhalbhyo her dhiḥ (pā. 6-4-101) | tasyāpittvena ṅittvāt sārvadhātukam apit | coḥ kuḥ (pā. 8-2-30) iti kutvam ||*
+*As printed: पराच्यैः (च्य) in the Saṃhitā, Pada and bhāṣya; मन्क्रिन्नित्यादिनोत्तरपदांतोदात्तत्वं; पा. ८-३-१०३; बाधृ; पा. ६-४-१०१; पा. ८-२-३०. The line break in the print falls inside* कृतं चिदस्माभिरनुष्ठितमु-/प्येनः.
 
-**Translation:** "O king Varuṇa! You have a hundred *bhiṣajaḥ* — a hundred remedies for bondage, or [a hundred] physicians; and a thousand. Let your *sumati* — your favourable thought toward us — be broad (*urvī*), deep (*gabhīrā*) [and] steady. Turn *nirṛti* — the goddess of sin that does us harm — away (*parācaiḥ*), and, setting her in a distant place, keep her off (*bādhasva*). Release us utterly (*pra mumugdhi*) from the sin (*enas*) that has been done, destroy it. *Sumatiḥ*: though the first member's accent would be expected by P. 6-2-49 *tādau ca*…, the *mankrin*-ending rule gives the end-acute of the second member; in the Saṃhitā the *visarga* becomes *ṣ* by P. 8-3-103 [*yuṣmattattatakṣuḥṣv antaḥpādam*]. *Bādhasva*: *bādha viloḍane* ['to push']; … *Nirṛtim*: the *gati* keeps its accent. *Mumugdhi*: *muc* [a *muc* verb in the *tudādi* class], *śluḥ* by *bahulaṃ chandasi*; *hi* → *dhi* by P. 6-4-101; … *kutva* by P. 8-2-30." *(Grammar pages 272–273, noted briefly: the words treated are* sumatiḥ *[*su* + *mati*; *ktin* by P. 3-3-94; the compound with *su* keeps the first member's accent by P. 6-2-1 and *tādau ca kṛtyatau*; but P. 6-2-… *mankrin-*… gives the end-acute],* yuṣmattattatakṣuḥṣv antaḥpādam *[P. 8-3-103: the *visarga*-*s* becomes *ṣ* within the pāda after the words *yuṣmat, tat, tatakṣuḥ* — hence *sumatiṣ ṭe*],* bādhasva *[*bādhṛ viloḍane*, *loṭ*, *thās* → *sva*; the accent],* nirṛtim *[*nir* + *ṛti*; the *gati* accent],* mumugdhi *[*muñc* → *muc* with *śluḥ*, reduplication, *dhi* for *hi* after a *hu*/*jhal* final stem by P. 6-4-101; *anunāsika*-loss; *cu* → *ku* by P. 8-2-30; *jaś* by P. 8-4-53 *jhalāṃ jaś jhaśi* — hence *mumugdhi*]; numerals as read, pointers only.)*
+> हे राजन्वरुण ते तव शतं भिषजो बंधनिवारकाणि शतसंख्याकान्यौषधानि वैद्या वा संति । ते तव सुमतिरस्मदनुग्रहबुद्धिरुर्वी विस्तीर्णा गभीरा गांभीर्योपेता स्थिरास्तु । निरृतिमस्मदनिष्टकारिणीं निरृतिं पापदेवतां पराच्यैः पराङ्मुखां कृत्वा दूरेऽस्मत्तो व्यवहिते देशे स्थापयित्वा तां बाधस्व । कृतं चिदस्माभिरनुष्ठितमुप्येनः पापमस्मत् प्र मुमुग्धि । प्रकर्षेण मुक्तं नष्टं कुरु ॥ सुमतिः । तादौ चेति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते मन्क्रिन्नित्यादिनोत्तरपदांतोदात्तत्वं । संहितायां विसर्जनीयसकारस्य युष्मत्तत्ततक्षुःष्वंतःपादं । पा. ८-३-१०३ । इति षत्वं । बाधस्व । बाधृ विलोडने । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । निरृतिं । तादौ चेति गतेः प्रकृतिस्वरत्वं । मुमुग्धि । मुचॡ मोक्षणे । बहुलं छंदसीति श्लुः । हुझल्भ्यो हेर्धिः । पा. ६-४-१०१ । तस्यापित्त्वेन ङित्त्वाद्गुणाभावः । चोः कुः । पा. ८-२-३० । इति कुत्वं ॥
 
-**॥ Prati-padārthaḥ ॥** *(p. 272)* **(हे) राजन् ((he) rājan)** — O king Varuṇa | **ते (te)** — you [have] | **शतम् (śatam)** — a hundred | **सहस्रम् (sahasram)** — a thousand | **भिषजः (bhiṣajaḥ)** — medicines which cure disease | **ते (te)** — your | **सुमतिः (sumatiḥ)** — the favourable thought | **उर्वी (urvī)** — great | **गभीरा (gabhīrā)** — with depth | **अस्तु (astu)** — be steady | **निरृतिम् (nirṛtim)** — the goddess of sin that does us harm | **पराचैः (parācaiḥ)** — turn away | **दूरे (dūre)** — to a distant place | **बाधस्व (bādhasva)** — keep off | **कृतम् (kṛtam)** — done | **चित् एनः (cit enaḥ)** — even sin | **अस्मत् (asmat)** — from us | **प्र मुमुग्धि (pra mumugdhi)** — release completely.
+> *he rājanvaruṇa te tava śataṃ bhiṣajo baṃdhanivārakāṇi śatasaṃkhyākānyauṣadhāni vaidyā vā saṃti | te tava sumatirasmadanugrahabuddhirurvī vistīrṇā gabhīrā gāṃbhīryopetā sthirāstu | nirṛtimasmadaniṣṭakāriṇīṃ nirṛtiṃ pāpadevatāṃ parācyaiḥ parāṅmukhāṃ kṛtvā dūre 'smatto vyavahite deśe sthāpayitvā tāṃ bādhasva | kṛtaṃ cidasmābhiranuṣṭhitamupyenaḥ pāpamasmat pra mumugdhi | prakarṣeṇa muktaṃ naṣṭaṃ kuru ‖ sumatiḥ | tādau ceti pūrvapadaprakṛtisvaratve prāpte mankrinnityādinottarapadāṃtodāttatvaṃ | saṃhitāyāṃ visarjanīyasakārasya yuṣmattattatakṣuḥṣvaṃtaḥpādaṃ | pā. 8-3-103 | iti ṣatvaṃ | bādhasva | bādhṛ viloḍane | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa dhātusvara eva śiṣyate | nirṛtiṃ | tādau ceti gateḥ prakṛtisvaratvaṃ | mumugdhi | mucḷ mokṣaṇe | bahulaṃ chaṃdasīti śluḥ | hujhalbhyo her dhiḥ | pā. 6-4-101 | tasyāpittvena ṅittvādguṇābhāvaḥ | coḥ kuḥ | pā. 8-2-30 | iti kutvaṃ ‖*
 
-**॥ Bhāvārthaḥ ॥** O king Varuṇa! You have hundreds and thousands of medicines. Let your favourable thought for us be abundant, deep and steady. Turn away from us the sin-goddess that harms us; drive her off to a distant place; and remove entirely the sins we have committed.
+*Gist:* O king Varuṇa, you have a hundred remedies for bondage, or physicians; let your favourable thought toward us be wide, deep and steady. Turn the sin-goddess Nirṛti, who harms us, away, set her in a far place and afflict her; free us completely from the sin we have done. The grammatical tail notes *sumatiḥ* (accent of the second member; *s* → *ṣ* by Pā. 8-3-103), *bādhasva* (no acute on the *śap*; the root accent remains), *nirṛtim* (the *gati* keeps its accent), *mumugdhi* (*ślu*; *hi* → *dhi* by Pā. 6-4-101; no guṇa since *ṅit*; *c* → *k* by Pā. 8-2-30).
 
-**॥ English Translation ॥** *(as printed in the source)*
+### Page 272 — Rik 9: word-meanings, overall sense, English, Special Topics (beginning)
+
+**॥ Prati-padārthaḥ ॥**
+
+**हे राजन् (he rājan)** — O king Varuṇa | **ते (te)** — to you (in you) | **शतं (śataṃ)** — in hundreds | **सहस्रं (sahasraṃ)** — in thousands | **भिषजः (bhiṣajaḥ)** — (disease-curing) medicines are | **ते (te)** — to you | **सुमतिः (sumatiḥ)** — (towards us the gracious) thought | **उर्वी (urvī)** — abundant | **गभीरा (gabhīrā)** — profound | **अस्तु (astu)** — be steady | **निरृतिं (nirṛtiṃ)** — (harmful to us) the sin-goddess | **पराच्यैः (parācyaiḥ)** — having turned away | **दूरे (dūre)** — (from us) in a distant place | **बाधस्व (bādhasva)** — (that goddess) afflict | **अस्मत् (asmat)** — from us | **कृतं (kṛtaṃ)** — done | **एनः चित् (enaḥ cit)** — even sin | **प्र मुमुग्धि (pra mumugdhi)** — destroy completely.
+
+**॥ Bhāvārthaḥ ॥**
+
+O king, in your power are hundreds and thousands of medicines. May your gracious thought toward us be abundant, deep and steady. Turn the sin-goddess, harmful to us, away from us; afflict that goddess in a distant place. Destroy completely the sins we have done.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O king, you have a hundred and a thousand medicaments; may your kindness to us be great; keep away from us Nirriti (the god of sin) and torture him; liberate us from whatever sin we may have committed.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 272–273)* **शतं सहस्रं भिषजः** — the medicines in you, hundred and thousand — that is, innumerable. **उर्वी गभीरा सुमतिः** — may your thought concerning us be most favourable, and generous. **निरृतिम्** — in the Nirukta Yāska gives for the word *nirṛti* the meaning *pṛthivī* ('earth'; Ni. [2-8]); but here the commentator says *pāpadevatā* — the goddess of sin. On the rik *mo ṣu ṇaḥ parāparā nirṛtir durhaṇā vadhīt* (Ṛ. Saṃ. 1-38-6) the commentator explains the word *nirṛti* as *rakṣojātidevatā* — a deity of the demon class. The same sense should be given in the present rik, since [*bādhasva*] 'afflict' is connected with it: it would be impossible to harm the earth or other things; so it is natural to take it as a sin-deity of evil nature, of the *rākṣasa* class. In later Sanskrit too *nirṛti* has the sense of *yātudhāna*, a special *rākṣasa*; this Nirṛti is well known as one of the eight Dikpālakas, the guardian of the south-west quarter, between south and west. In the Ṛgveda the word *nirṛti* is used where the evil senses of *duḥkha*, *pāśa* and *rākṣasa* are intended. The word is used in the riks Ṛ. Saṃ. 1-24-9; [1-38-6]; [1-38-1?]; 2-[?]; 10-[?]… *nirṛtim* in 1-[?]; and in other riks; there are also many uses of the forms *nirṛtīḥ*, *nirṛtīnām*, *nirṛtaye*, *nirṛtyāḥ* and *nirṛtyai* (numerals read from the print and marked [?]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 272–273)*
+
+**शतं सहस्रं भिषजः (śataṃ sahasraṃ bhiṣajaḥ)** — in you are hundreds and thousands of medicines, that is, innumerable.
+
+**उर्वी गभीरा सुमतिः (urvī gabhīrā sumatiḥ)** — may your thought toward us be most good and generous.
+
+**निरृतिं (nirṛtiṃ)** — Yāska in the Nirukta (reference printed "(२-५)"; not zoomed) gives the meaning "earth"; here the commentator gives "sin-goddess". On the ṛk
+
+> मो षु णः परापरा निरृतिर्दुर्हणा वधीत्
+
+*mo ṣu ṇaḥ parāparā nirṛtir durhaṇā vadhīt* ("let not the hard-to-slay Nirṛti, far and near, strike us" — mine and tentative) (Ṛ. Saṃ. 1-38-6) the commentator explains *nirṛti* as *rakṣojātidevatā*. The sentence breaks here at *bādhasva*, and goes on p. 273.
+
+### Page 273 — Rik 9: Special Topics (end), grammar
+
+The word *bādhasva* ("afflict") makes it impossible for the sense to be the earth or another inanimate thing, so the sense "sin-goddess of the rākṣasa class, evil-natured" is apt. In later Sanskrit *nirṛti* means a *yātudhāna*, a special rākṣasa; this Nirṛti is well known as one of the eight Dikpālas, lord of the south-west. In the Ṛgveda *nirṛti* is used where the senses *duḥkha*, *pāpa*, *rākṣasa* are intended. The print then lists Ṛ. Saṃ. references for *nirṛtiḥ* and, in a third group, for *nirṛtim*; of these I read 1-38-6, 1-24-9, 6-24-2 (?) and 10-36-4 with fair confidence; the other groups (a first group beginning with a glyph I cannot read, then 4-1-17 (?), 2-32-2 (?), 10-10-11, 10-36-[?], and more at 10-[?]) are left [?]. The forms *nirṛtīḥ*, *nirṛtīnām*, *nirṛteḥ*, *nirṛtyāḥ*, *nirṛtyai* are said to occur in many ṛks.
+
+**Vyākaraṇa-prakriyā** *(grammar page, as printed)*:
+
+**सुमतिष्टे (sumatiṣṭe)** — "तादौ च कृतिनित्यतौ" (Pā. Sū. 6-2-50): since a *kṛt* (*ktin*) beginning with *t* follows, the first-member accent that would arise is set aside, and *mankrin* (Pā. Sū. 6-2-151, as read) gives the end-udātta of the second member.
+
+**युष्मत्तत्ततक्षुःष्वंतःपादं (yuṣmattattatakṣuḥṣvaṃtaḥpādaṃ)** (Pā. Sū. 8-3-103): after *yuṣmat*, *tat*, *tatakṣuḥ* standing in the pāda, the *s* coming in place of a visarga becomes *ṣ*, by "विसर्जनीयस्य सः" (Pā. Sū. 8-3-34) *s* in place of visarga, which in the Saṃhitā yields *ṣ*.
+
+**मुमुग्धि (mumugdhi)** — "मुचॡ मोक्षणे"; *loṭ*, *sip*, *hi*; *muc* + *hi*; the *śa* is dropped (*ślu*) by "बहुलं छंदसि" (Pā. Sū. 2-4-76, as read); "हुझल्भ्यो हेर्धिः" (Pā. Sū. 6-4-101) gives *dhi*; *muc* + *dhi*; doubling after *ślu* (Pā. Sū. 6-1-10), "हलादिः शेषः"; *hi* is *apit* so *ṅit*, so no laghūpadha guṇa; "चोः कुः" (Pā. Sū. 8-2-30); "झलां जश् झशि" (Pā. Sū. 8-4-53) gives *g*; *mumugdhi*. ॥९॥
+
+*(Printer's signature "35" and "VOLUME 3" at the foot.)*
 
 ---
 
