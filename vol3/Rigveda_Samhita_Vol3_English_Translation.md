@@ -8450,40 +8450,67 @@ the suffix *u*; with *avasya* + *u*, by "अतो लोपः" (Pā. Sū. 6-4-
 
 ---
 
-### Pages 343–345 — Sūkta 25, Rik 21 *(closing rik)*
+### Page 343 (lower) — Sūkta 25, Rik 21 *(closing ṛk)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उदुत्तमं मुमुग्धि नो वि पाशं मध्यमं चृत ।
-> अवाधमानि जीवसे ॥ २१ ॥
+> उदु॑त्त॒मं मु॑मुग्धि नो॒ वि पाशं॑ मध्य॒मं चृ॑त ।
+> अवा॑ध॒मानि॑ जी॒वसे॑ ॥२१॥
+>
+> *úduttamáṃ mumugdhi no ví pā́śaṃ madhyamáṃ cṛta |*
+> *ávādhamā́ni jīváse ||21||*
 
-*ud uttamaṃ mumugdhi no vi pāśaṃ madhyamaṃ cṛta | avādhamāni jīvase || 21 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> उत् । उत्ऽतमम् । मुमुग्धि । नः । वि । पाशम् । मध्यमम् । चृत ॥ अव । अधमानि । जीवसे ॥ २१ ॥
+> उत् । उत्ऽतमं । मुमुग्धि । नः । वि । पाशं । मध्यमं । चृत । अव । अधमानि । जीवसे ॥२१॥
 
-*ut | ut-tamam | mumugdhi | naḥ | vi | pāśam | madhyamam | cṛta || ava | adhamāni | jīvase || 21 ||*
+> *ut | ut-tamaṃ | mumugdhi | naḥ | vi | pāśaṃ | madhyamaṃ | cṛta | ava | adhamāni | jīvase ‖21‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 344)*
+### Page 344 — Rik 21: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> नोऽस्माकमुत्तमं शिरोगतं पाशमुन्मुमुग्धि । उत्कृष्य मोचय । मध्यममुदरगतं पाशं विचृते । वियुज्य नाशय । जीवसे जीवितुमधमानि मदीयान्पादगतान्पाशानव चृत । अवकृष्य नाशय ॥ उत्तमम् । उम्भादिषु पाठादन्तोदात्तत्वम् । मुमुग्धि । मुच्लृ मोक्षणे । बहुलं छन्दसीति विकरणस्य श्लुः । द्विर्भावः । हलादिशेषः । हुझल्भ्यो हेर्धिः । पा. ६-४-१०१ । तिङ्ङतिङ इति निघातः । चृते । चृती हिंसाग्रन्थनयोः । लोटो हिः । तुदादिभ्यः शः । अतो हेरिति हेर्लुक् । जीवसे । जीव प्राणधारणे । तुमर्थे सेसेनिति असेप्रत्ययः । प्रत्ययस्वरः ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*no 'smākam uttamaṃ śirogataṃ pāśam unmumugdhi | utkṛṣya mocaya | madhyamam udaragataṃ pāśaṃ vicṛte | viyujya nāśaya | jīvase jīvitum adhamāni madīyān pādagatān pāśān ava cṛta | avakṛṣya nāśaya || uttamam | umbhādiṣu pāṭhād antodāttatvam | mumugdhi | mucḷ mokṣaṇe | bahulaṃ chandasīti vikaraṇasya śluḥ | dvirbhāvaḥ | halādiśeṣaḥ | hujhalbhyo her dhiḥ | pā. 6-4-101 | tiṅ atiṅa iti nighātaḥ | cṛte | cṛtī hiṃsāgranthanayoḥ | loṭo hiḥ | tudādibhyaḥ śaḥ | ato her iti her luk | jīvase | jīva prāṇadhāraṇe | tumarthe sesen iti asepratyayaḥ | pratyayasvaraḥ ||*
+> नोऽस्माकमुत्तमं शिरोगतं पाशमुन्मुमुग्धि । उत्कृष्य मोचय । मध्यममुदरगतं पाशं वि चृत । वियुज्य नाशय । जीवसे जीवितुमधमानि मदीयान्पादगतान्पाशानव चृत । अवकृष्य नाशय ॥ उत्तमं । उंछादिषु पाठादंतोदात्तत्वं । मुमुग्धि । मुच्लृ मोक्षणे । बहुलं छंदसीति विकरणस्य श्लुः । द्विर्भावः । हलादिशेषः । हुझल्भ्यो हेर्धिः । पा. ६-४-१०१ । इति हेर्धिरादेशः । तिङ्ङतिङ इति निघातः । चृत । चृती हिंसाग्रंथनयोः । लोटो हिः । तुदादिभ्यः शः । अतो हेरिति हेर्लुक् । जीवसे । जीव प्राणधारणे । तुमर्थे सेसेनित्यसेप्रत्ययः । प्रत्ययस्वरः ॥१९॥
 
-**Translation:** "Loosen (*ud mumugdhi*) our (*naḥ*) *uttamam* — highest — noose (*pāśam*), the one fixed on the head: draw it up and release it. Undo (*vi cṛta*), cut apart, the middle one, the noose at the belly. *Jīvase* — that we may live — pull down (*ava cṛta*) the lowest nooses, those on my feet: draw them down and destroy. *Uttamam*: end-acute from its reading in the *uṃbhādi* list. *Mumugdhi*: *muc* [*tudādi*]; *śluḥ* of the *vikaraṇa* by *bahulaṃ chandasi*; doubling; *halādiḥ śeṣaḥ*; *dhi* for *hi* by P. 6-4-101; the verb is lowered by *tiṅ atiṅaḥ*. *Cṛta*: *cṛtī hiṃsāgranthanayoḥ* ['to harm; to string']; *loṭ*, *hi* → [*ta*]; *śa* of the *tudādi* class; *hi* lost by P. 6-4-105; … *Jīvase*: *jīva prāṇadhāraṇe*; the suffix *ase* in the sense of the infinitive by P. 3-4-9 [*tumarthe sesenasenasenaseṭaiva…*]; the accent of the suffix." *(Grammar page 345, noted briefly: the words treated are* uttamam *[*tamap* in the sense of excess; the *pit* suffix would make it anudātta, but because *uttama* is read in the *uṃbhādi* list the end-acute by P. 6-1-160 *uṃchādīnāṃ ca*],* mumugdhi *[*muñcḷ mokṣaṇe*, *tudādi*; *loṭ* 2nd singular *sip* → *hi*; *śa* would be the *vikaraṇa*, but *śluḥ* by *bahulaṃ chandasi*; doubling by P. 6-1-10 *ślau*; *halādiḥ śeṣaḥ*; *hi* → *dhi* by P. 6-4-101 *hujhalbhyo her dhiḥ*; *c* → *k* by P. 8-2-30 *coḥ kuḥ*; *jaś* by P. 8-4-53 → *g*; so *mumugdhi*; the verb is lowered — *uttamam*, an acute word, precedes it],* cṛte *[*cṛtī hiṃsāgranthanayoḥ*, *tudādi*; *loṭ* 2nd singular *hi*; *śa* *vikaraṇa*; loss of *hi* by P. 6-4-105 *ato heḥ*; the verb is lowered] and* jīvase *[*jīva prāṇadhāraṇe*, *bhvādi*; the infinitive *ase* by P. 3-4-9 *tumarthe se-sen-ase-asen-kase-kasen-adhyai-adhyain-kadhyai-kadhyain-śadhyai-śadhyain-tavai-tavenkenkenyatvanaḥ*; the suffix is *nit*-like — first-syllable accent of the suffix as the print says *jīvase* has middle-acute]; numerals as read, pointers only.)*
+> *no 'smākamuttamaṃ śirogataṃ pāśamunmumugdhi | utkṛṣya mocaya | madhyamamudaragataṃ pāśaṃ vi cṛta | viyujya nāśaya | jīvase jīvitumadhamāni madīyānpādagatānpāśānava cṛta | avakṛṣya nāśaya ‖ uttamaṃ | uṃchādiṣu pāṭhādaṃtodāttatvaṃ | mumugdhi | muclṛ mokṣaṇe | bahulaṃ chaṃdasīti vikaraṇasya śluḥ | dvirbhāvaḥ | halādiśeṣaḥ | hujhalbhyo herdhiḥ | pā. 6-4-101 | iti herdhirādeśaḥ | tiṅṅatiṅa iti nighātaḥ | cṛta | cṛtī hiṃsāgraṃthanayoḥ | loṭo hiḥ | tudādibhyaḥ śaḥ | ato heriti herluk | jīvase | jīva prāṇadhāraṇe | tumarthe sesenityasepratyayaḥ | pratyayasvaraḥ ‖19‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 344)* **जीवसे (jīvase)** — that we may live | **नः (naḥ)** — our | **उत्तमम् (uttamam)** — the highest, i.e. on the head | **पाशम् (pāśam)** — the noose | **उन्मुमुग्धि (unmumugdhi)** — loosen and release | **मध्यमम् (madhyamam)** — the middle, i.e. at the belly | **वि चृते (vi cṛte)** — cut apart and destroy | **अधमानि (adhamāni)** — the lowest, i.e. those binding the feet | **अव चृत (ava cṛta)** — pull down and destroy.
+*(Number read at 450 dpi: पा. ६-४-१०१. The closing ॥१९॥ marks the end of Varga 19 (Ṛks 16–21).* उंछादिषु *has the ಛ glyph.)*
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! Loosen and destroy the noose at the head, the noose in the middle at the belly, and the nooses at the feet below, and free us from the bonds. May we live.
+*Gist:* Loosen and release our upper noose, at the head; cut away the middle one, at the belly; draw down and destroy my lower nooses, at the feet, so that we may live.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **जीवसे (jīvase)** — that we may live | **नः (naḥ)** — our | **उत्तमं (uttamaṃ)** — of the upper part, that is, at the head | **पाशं (pāśaṃ)** — the bond | **उन्मुमुग्धि (unmumugdhi)** — loosen and release | **मध्यमं (madhyamaṃ)** — the bond of the middle part, that is, at the belly | **वि चृत (vi cṛta)** — loosen and destroy | **अधमानि (adhamāni)** — the lower bonds that bind our feet | **अव चृत (ava cṛta)** — pull down, loosen and destroy.
+
+**॥ Bhāvārthaḥ ॥** O Varuṇa, loosen and destroy our upper bond at the head, the noose of the middle part at the belly, and the fetter of the lower part at the feet, and release us from bondage. Let us live.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Remove our upper bonds, untie the centre and the lower bonds that we may live.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 344)* **उत्तममधमम्, मध्यमम्, अधमानि** — *uttamam* means the noose that binds above, at the head; *madhyamam* — the noose that binds the belly region; *adhamāni* — the nooses that bind below, i.e. the feet. **उत् मुमुग्धि** — (the nooses) loosen and release. **वि (अव) चृते** — *viyujya nāśaya*: loosen and destroy, or take away. **जीवसे** — *jīvayitum*: that we may live; the sense is that the nooses be loosened and released so that we may live.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Close of Sūkta 25 ॥** *(p. 345, upper part: the grammar ends and an ornament is printed; no colophon with a varga number appears. The heading of Sūkta 26 follows on the lower half of p. 345.)*
+**उत्तमं, मध्यमं, अधमानि (uttamaṃ, madhyamaṃ, adhamāni)** — *uttamam*: the rope tied above, that is, binding the head; *madhyamam*: the rope tied at the belly; *adhamāni*: the ropes tied below, that is, binding the feet.
+
+**उत् मुमुग्धि (ut mumugdhi)** — untie (the ropes) and release.
+
+**वि (अव) चृत (vi (ava) cṛta)** — *viyujya nāśaya*: untie and destroy, or take them off.
+
+**जीवसे (jīvase)** — *jīvayitum*: the sense is that the noose must be untied and released so as to keep us alive.
+
+### Page 345 — Rik 21: grammar; close of Sūkta 25
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**उत्तमम् (uttamam)** — *tamap* in the superlative sense; being *pit*, the anudātta accent would come; but by "उञ्छादीनां च" (Pā. Sū. 6-1-160), since it is read in the *uñchādi* list (printed ಉಂಛಾದಿ), it is end-acute.
+
+**मुमुग्धि (mumugdhi)** — *mucḷ mokṣaṇe*, tudādi; *loṭ* second singular *sip* → *hi*. By "तुदादिभ्यः शः" the vikaraṇa *śa* would come, but by "बहुलं छन्दसि" (Pā. Sū. 2-4-73, as read at line width) the vikaraṇa *ślu*; by "श्लौ" (Pā. Sū. 6-1-10) the root is doubled; with *halādiśeṣa*, *mumuc* + *hi*. By "हुझल्भ्यो हेर्धिः" (Pā. Sū. 6-4-101), after a *jhal*, *dhi* for *hi*. Before *dhi*, by "चोः कुः" (Pā. Sū. 8-2-30) the *c* becomes *k*, and by *jaśtva* *g*: *mumugdhi*. By "तिङ्ङतिङः" (Pā. Sū. 8-1-28), after the non-verb *uttamam*, the *nighāta* accent.
+
+**चृत (cṛta)** — *cṛtī hiṃsāgranthanayoḥ*, tudādi; in the *loṭ* second singular *hi*; by "तुदादिभ्यः शः" (Pā. Sū. 3-1-77) the vikaraṇa *śa*; with *cṛt* + *a* + *hi*, by "अतो हेः" (Pā. Sū. 6-4-105) the *hi* after *a* takes *luk*: *cṛta*. The *nighāta* accent.
+
+**जीवसे (jīvase)** — *jīva prāṇadhāraṇe*, bhvādi; in the sense of the infinitive *jīvitum*, by "तुमर्थे सेसेन्-" (Pā. Sū. 3-4-9) the suffix *ase*: *jīvase*. By the suffix accent (initially acute), *jīvase* is a medially acute word.
+
+**॥ Close of Sūkta 25 ॥** *(p. 345: a printed ornament follows the grammar; no colophon is printed; the end of Varga 19 is marked by ॥१९॥ at the end of the bhāṣya on p. 344. The heading of Sūkta 26, "ಇಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು", follows on the lower half of p. 345.)*
 ## ॥ ಇಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 26 — *"vasiṣvā hi miyedhya"* ("The Twenty-sixth Sūkta"; third sūkta of the Sixth Anuvāka)
 
 *(Printed pp. 345 lower half–373. The introductory note and heading block are on the lower half of p. 345 and the head of p. 346; Rik 1 begins on p. 346.)*
