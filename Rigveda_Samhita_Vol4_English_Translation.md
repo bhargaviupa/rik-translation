@@ -3688,13 +3688,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.16 (pp. 232–236, PDF 246–250)
 
-**Saṃhitā-pāṭha** *(p. 232; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 232)*
 
-> **घनेव विष्वग्वि जह्यराव्णस्तपुर्जम्भ यो अस्मध्रुक् ।**
-> **यो मर्त्यः शिशीते अत्यक्तुभिर्मा नः स रिपुरीशत ॥ १६ ॥**
+> घ॒नेव॒ विष्व॒ग्वि ज॒ह्यरा॑व्ण॒स्तपु॑र्जम्भ॒ यो अ॑स्म॒ध्रुक् ।
+> यो मर्त्यः॒ शिशी॑ते॒ अत्य॒क्तुभि॒र्मा नः॒ स रि॒पु॑रीशत ॥ १६ ॥ [accent ?]
 
-*ghaneva viṣvag vi jahy arāvṇas tapurjambha yo asmadhruk |*
-*yo martyaḥ śiśīte aty aktubhir mā naḥ sa ripur īśata || 16 ||*
+*ghanéva víṣvag ví jahyárāvṇas tápurjambha yó asmadhrúk |*
+*yo martyaḥ śíśīte átyaktúbhir mā́ naḥ sá ripur īśata || 16 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: the underline in the second line stands under* tya *of "martyaḥ" (reproduced after the visarga), and the one in the first line under* mbha *of "tapurjambha"; both as they stand in the print.)*
 
 **Pada-pāṭha** *(p. 232)*
 
@@ -3704,23 +3706,33 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *ghanā-iva | viṣvak | vi | jahi | arāvṇaḥ | tapuḥ-jambha | yaḥ | asma-dhruk ||*
 *yaḥ | martyaḥ | śiśīte | ati | aktu-bhiḥ | mā | naḥ | saḥ | ripuḥ | īśata || 16 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 232–233; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 232–233, in full)*
 
 > हे तपुर्जम्भ तप्यमानरश्म्यायुक्ताग्ने अराव्णोऽस्मभ्यं देयस्य धनस्यादात्त्न्न्रिपो विष्वक् सर्वतो वि जहि । विशेषेण मारय । तत्र दृष्टान्तः । घनेव । यथा कठिनेन दण्डपाषाणादिना भाण्डादिभङ्गं करोति तद्वत् । योऽन्योऽपि रिपुरस्मध्रुक् अस्मद्विषयद्रोहकारी भर्त्सनादिना बाधते । यश्चान्यो मर्त्यो मनुष्यः शत्रुरक्तुभिरायुधैरति शिशीते तनूकरोति । अस्मान्प्रहरतीत्यर्थः । स रिपुर्भर्त्सनप्रहारकारी द्विविधोऽपि शत्रुर्नोऽस्मान्प्रति मेशत । ईश्वरः शक्तो मा भूत् ॥
 
 *he tapurjambha tapyamānaraśmyāyuktāgne arāvṇo 'smabhyaṃ deyasya dhanasyādātṝn ripo viṣvak sarvato vi jahi | viśeṣeṇa māraya | tatra dṛṣṭāntaḥ | ghaneva | yathā kaṭhinena daṇḍapāṣāṇādinā bhāṇḍādibhaṅgaṃ karoti tadvat | yo 'nyo 'pi ripur asmadhruk asmadviṣayadrohakārī bhartsanādinā bādhate | yaś cānyo martyo manuṣyaḥ śatrur aktubhir āyudhair ati śiśīte tanūkaroti | asmān praharatīty arthaḥ | sa ripur bhartsanapraharakārī dvividho 'pi śatrur no 'smān prati meśata | īśvaraḥ śakto mā bhūt ||*
 
-*(The print's "nm" after "ādātṝn" is a damaged conjunct; I read the sentence as above, with the damaged letters as "n ripo" [?].)*
+*(The print breaks "dhanasyādātyā-" at the line end and goes on with a damaged conjunct before "ripo" (ಧನಸ್ಯಾದಾತ್ಯಾ- / ನ್[?]ರಿಪೋ); read as "adātṝn ripūn" in sense, the letters not settled [?].)*
 
 **Translation:** "O *tapurjambha* — Agni, who has burning rays [as weapons] — *arāvṇaḥ* — [those] who give us no wealth that is to be given — enemies — *viṣvak*, on all sides, *vi jahi*, destroy specially. The illustration is *ghaneva*: as one breaks pots and the like with a hard stick or stone and the like. And *yaḥ asmadhruk* — whichever other enemy does injury to us and troubles [us] by threats and the like; and *yaḥ martyaḥ* — whichever other mortal, a man, an enemy, *ati śiśīte* — whets [= sharpens] [his] *aktubhiḥ*, his weapons: that is, he strikes us — *saḥ ripuḥ*, that enemy, of both kinds, the threatener and the striker, *mā naḥ īśata* — may he not be lord, able, over us."
 
-**Grammar within the bhāṣya** *(pp. 232–233, characterized)*: *ghaneva* (*supāṃ sulug…*: *ṭā* → *ḍā*; loss of *ṭi*; the compound with *iva* by *iveneva…*); *jahi* (*hano vadha…*; *hantes jaḥ*: *ja* for *han* before *hi*; *ato heḥ* [read: *hi* lost]; *asiddhavad atrābhāt*; the lengthening is not made); *tapurjambha* (*tapa santāpe*, the Uṇādi *usin* in the instrument sense; *tapus* is first-syllable acute; *jabhī nāśane*, *ghañ* in the instrument sense; *jambhāni* "weapons that destroy enemies"; *tapūṃṣy eva jambhāni yasya*, a bahuvrīhi; vocative: *āmantritādyudāttatvam*); *asmadhruk* (*asmabhyaṃ drogdhi*; *druha jighāṃsāyām*; *satsūdviṣa…*: *kvip*; *halṅyābbhyo…*: loss of *su*; *vā druhamuhaṣṇuhaṣṇihām*: *h* → *gh* optional; *ekāco baśo bhaṣ*: *g* → *gh* [read: *dh*]; *carva*); *śiśīte* (*śo tanūkaraṇe*, *divādi*; *vyatyayo bahulam*: *ātmanepada*; *śyan* → *ślu* by *bahulam*; *ādeca upadeśe*: *ā* for *o*; *ślau*: doubling; *śā + śā + te*; the reduplicate shortened; *bahulaṃ chandasi*: *i* for the reduplicate vowel; *ī* for *ā* by *hali ghoḥ*; the first syllable acute by *vyatyaya*; because the relative *yaḥ* is connected, no lowering: *yadvṛttānnityam*); *īśata* (*īśa aiśvarye*, *adādi*, *ātmanepada*, *laṅ*, no *aṭ* by *na māṅyoge*; *śap* would be lost for an *adādi* root, but by *bahulaṃ chandasi* it is not).
+**Grammatical tail of the bhāṣya** *(pp. 232–233)*
+
+> घना इव । सुपां सुलुगिति तृतीयाया डादेशः । जहि । हन्तेर्लोटि हौ हन्तेर्जः । पा. ६-४-३६ । इति जादेशः । तस्यासिद्धत्वाद्धेर्लुगभावः । तपुर्जम्भ । तप संतापे । औणादिकः करण उसिन्प्रत्ययान्तस्तपुस्शब्दो नित्त्वादाद्युदात्तः । जभि नाशने । जम्भ्यन्ते शत्रव एभिरिति जम्भान्यायुधानि । करणे घञ् । तपूंष्येव जम्भानि यस्यासौ तपुर्जम्भः । आमन्त्रिताद्युदात्तत्वम् । अस्मध्रुक् । द्रुह जिघांसायाम् । सत्सूद्विषेत्यादिना क्विप् । वा द्रुहमुहष्णुहष्णिहाम् । पा. ८-२-३३ । इति हकारस्य घत्वम् । भष्भावः । शिशीते । शो तनूकरणे । व्यत्ययेनात्मनेपदम् । बहुलं छन्दसीति विकरणस्य श्लुः । आदेच इत्यात्वम् । ततो द्विर्वचने बहुलं छन्दसि । पा. ७-४-७८ । इत्यभ्यासस्येत्वम् । ई हल्यघोरितीत्वम् । व्यत्ययेनाद्युदात्तत्वम् । यद्वृत्तयोगादनिघातः । ईशत । लङि बहुलं छन्दसीति शपो लुगभावः । न माङ्योग इत्यडागमाभावः ॥
+
+*ghanā iva | supāṃ sulugiti tṛtīyāyā ḍādeśaḥ | jahi | hanterloṭi hau hanterjaḥ | pā. 6-4-36 | iti jādeśaḥ | tasyāsiddhatvāddherlugabhāvaḥ | tapurjambha | tapa saṃtāpe | auṇādikaḥ karaṇa usinpratyayāntastapusśabdo nittvādādyudāttaḥ | jabhi nāśane | jambhyante śatrava ebhiriti jambhānyāyudhāni | karaṇe ghañ | tapūṃṣyeva jambhāni yasyāsau tapurjambhaḥ | āmantritādyudāttatvam | asmadhruk | druha jighāṃsāyām | satsūdviṣetyādinā kvip | vā druhamuhaṣṇuhaṣṇihām | pā. 8-2-33 | iti hakārasya ghatvam | bhaṣbhāvaḥ | śiśīte | śo tanūkaraṇe | vyatyayenātmanepadam | bahulaṃ chandasīti vikaraṇasya śluḥ | ādeca ityātvam | tato dvirvacane bahulaṃ chandasi | pā. 7-4-78 | ityabhyāsasyetvam | ī halyaghoritītvam | vyatyayenādyudāttatvam | yadvṛttayogādanighātaḥ | īśata | laṅi bahulaṃ chandasīti śapo lugabhāvaḥ | na māṅyoga ityaḍāgamābhāvaḥ ‖*
+
+*(Sense:)* *ghaneva* (*supāṃ sulug…*: *ṭā* → *ḍā*; loss of *ṭi*; the compound with *iva* by *iveneva…*); *jahi* (*hano vadha…*; *hantes jaḥ*: *ja* for *han* before *hi*; *ato heḥ* [read: *hi* lost]; *asiddhavad atrābhāt*; the lengthening is not made); *tapurjambha* (*tapa santāpe*, the Uṇādi *usin* in the instrument sense; *tapus* is first-syllable acute; *jabhī nāśane*, *ghañ* in the instrument sense; *jambhāni* "weapons that destroy enemies"; *tapūṃṣy eva jambhāni yasya*, a bahuvrīhi; vocative: *āmantritādyudāttatvam*); *asmadhruk* (*asmabhyaṃ drogdhi*; *druha jighāṃsāyām*; *satsūdviṣa…*: *kvip*; *halṅyābbhyo…*: loss of *su*; *vā druhamuhaṣṇuhaṣṇihām*: *h* → *gh* optional; *ekāco baśo bhaṣ*: *g* → *gh* [read: *dh*]; *carva*); *śiśīte* (*śo tanūkaraṇe*, *divādi*; *vyatyayo bahulam*: *ātmanepada*; *śyan* → *ślu* by *bahulam*; *ādeca upadeśe*: *ā* for *o*; *ślau*: doubling; *śā + śā + te*; the reduplicate shortened; *bahulaṃ chandasi*: *i* for the reduplicate vowel; *ī* for *ā* by *hali ghoḥ*; the first syllable acute by *vyatyaya*; because the relative *yaḥ* is connected, no lowering: *yadvṛttānnityam*); *īśata* (*īśa aiśvarye*, *adādi*, *ātmanepada*, *laṅ*, no *aṭ* by *na māṅyoge*; *śap* would be lost for an *adādi* root, but by *bahulaṃ chandasi* it is not).
+
+### Page 233
 
 **Pratipadārtha** *(p. 233)* — "**tapurjambha** — O Agni, whose weapons are the burning rays; **arāvṇaḥ** — the enemies who do not give us the wealth [that is due]; **ghaneva** — as pots are broken by hard stones; **viṣvak** — on all sides; **vi jahi** — destroy completely; **yaḥ** — whichever other enemy; **asmadhruk** — wishing to injure us [by terrifying us]; **yaḥ** — which enemy in the form of a man; **aktubhiḥ** — by dark weapons; **ati śiśīte** — whets and strikes at us; **saḥ ripuḥ** — that enemy (or those enemies); **naḥ** — over us; **mā īśata** — may he not be able to prevail."
 
 **Bhāvārtha** *(p. 233)* — "O Agni, your rays are always strong and carry [your] strength; they destroy our enemies. They need no effort at all to kill the enemies who hinder us from [receiving] the wealth we are to receive. As easily as one breaks the pots of a potter with hard stones and sticks, destroy our enemies. Destroy together those enemies in the form of rākṣasas who injure us by terrifying us, and also those in the form of men who strike at us and terrify us with dark weapons; so that, when they raise their hands against us, they may not be able to conquer us."
 
 **English Translation (the source's own, p. 233)** — "Agni, with the burning rays destroy entirely our enemies who give no gifts ( as a man smashes earthen pots ) with a hammer ; let not the person who hates us, nor the man who attacks us with sharp weapons prevail against us·" *(the print ends with a raised dot)*.
+
+### Page 234
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 234**
 - **ghaneva** = *kaṭhinena daṇḍapāṣāṇādinā*: "with a hard or thick stick, a stone, and similar weapons: as pots and such things that break easily are broken, so destroy our enemies."
@@ -3729,20 +3741,28 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 - **asmadhruk** = *asmadviṣayadrohakārī*: "one who wishes harm to us; our enemy."
 - **śiśīte atyaktubhiḥ** — "the bhāṣyakāra's explanation is 'he strikes us with weapons and the like'. The commentators on the Veda have explained the word *aktubhiḥ* as 'in the night-time' — and the same sense, as it is given in the ṛk:"
 
-> द्युभिरक्तुभिः परि पातमस्मानरिष्टेभिरश्विना सौभगेभिः । (ऋ. सं. १-११२-२५ [?])
+> द्युभिरक्तुभिः परि पातमस्मानरिष्टेभिरश्विना सौभगेभिः । (ऋ. सं. १-११२-२५)
 
-*dyubhir aktubhiḥ pari pātam asmān ariṣṭebhir aśvinā saubhagebhiḥ | (ṛ. saṃ. 1-112-25 [?])*
+*dyubhir aktubhiḥ pari pātam asmān ariṣṭebhir aśvinā saubhagebhiḥ | (ṛ. saṃ. 1-112-25)*
 
 "fits well here too." *(My gloss, tentative: "protect us by days and nights, O Aśvins, with unharmed good fortunes"; the same ṛk was quoted at Sūkta 34, Rik 8.)*
 - **mā naḥ sa ripur īśata** — "may such an enemy as stated above not rule over us and give us trouble: such is the sense."
 
 **Vyākaraṇa-prakriyā** *(pp. 234–236, PDF 248–250 — grammar pages, noted briefly)*
 - **ghaneva** (p. 234): after *ghana*, the third-case singular *ṭā*, replaced by *ḍā* by *supāṃ sulug…*; loss of *ṭi*; *iveneva samāso vibhaktyalopaḥ…* — compound with *iva*, nitya.
-- **jahi**: root *han*; *loṭ*, *sip*, *hi*; *hanter jaḥ* — हन्तेर्जः — [Pā. 6-4-36]: *ja* for *han* before *hi*; *ato heḥ* [Pā. 6-4-105] would give *luk* of *hi* after a short *a*; but, since the substitution *ja* is *asiddha* by *asiddhavad atrābhāt* — असिद्धवदत्राभात् — [Pā. 6-4-22], and the rule operates in the same domain, *ja* is *asiddha* [for the purpose of *ato heḥ*]; so *hi* remains after *han*, and *luk* is not made, since it does not stand after a short *a*.
-- **tapurjambha** (p. 235): root *tapa santāpe*; the Uṇādi suffix *usin* in the instrument sense [*tapeḥ…*, Uṇ. 2-[?]]; *tapus* is first-syllable acute by *nit*; *jabhī nāśane*, class 10 [as read: the *gaṇa* number]; *jambhyante śatravaḥ ebhiḥ* — "by which enemies are destroyed": *ghañ* in the instrument sense; *tapūṃṣy eva jambhāni yasya*, a bahuvrīhi — Agni whose weapons are the burning rays; the vocative takes the first-syllable acute by *āmantritasya ca* [Pā. 6-1-198] and is not wholly unaccented, being at the beginning of a pāda.
-- **asmadhruk**: *asmabhyaṃ drogdhi* — *druha jighāṃsāyām*, a *divādi* root; *satsūdviṣadruha…*: *kvip*; loss of the case-ending of the compound by *luk*; *halṅyābbhyaḥ…*: loss of *su*; *vā druhamuhaṣṇuhaṣṇihām* — वा द्रुहमुहष्णुहष्णिहाम् — [Pā. 8-2-33]: for the final *h* of these four roots *gh* optionally replaces [*ghatva*], even at the end of a word before a *jhal*; *ekāco baśo bhaṣ jhaṣantasya sdhvoḥ* — [Pā. 8-2-37]: for the *baś* of a one-vowelled root ending in *jhaṣ*: *d* → *dh*; hence *asmadhruġh*, and *carva* [*khari ca*] gives *asmadhruk*.
-- **śiśīte**: root *śo tanūkaraṇe*, *divādi*, *parasmaipada*; *vyatyayo bahulam* — व्यत्ययो बहुलम् — [Pā. 3-1-85]: the *vikaraṇa* (*śap* etc.) and the voice appear interchanged in the Veda; the print explains the word *bahulam* here with the verse "*supāṃ… kālahalacsvarakartṛyaṅāṃ ca | vyatyayam icchati śāstrakṛd eṣāṃ so 'pi ca siddhyati bāhulakena*" — [the verse, as read; "the authors of the *śāstra* allow interchange (*vyatyaya*) of the case-endings, tenses, consonants, vowels, agents, and *yaṅ* — and that too is established by *bāhulaka*"]; "*upagraha*" means the *parasmaipada* and *ātmanepada*; so *ātmanepada* in place of *parasmaipada*; *śyan* → *śnu*? [the print: *śyan* with *ślu* by *bahulaṃ chandasi*]; *ādeca upadeśe 'śiti* — [Pā. 6-1-45]: *o* → *ā* before a non-*śit* suffix; *ślau* [Pā. 6-1-10]: doubling; *śā + śā + te*; *hrasva*; *bahulaṃ chandasi* [Pā. 7-4-78]: *i* for the reduplicate; *hali ghoḥ* — हल्यघोः — [Pā. 6-4-113]: *ī* for the *ā* of *śā*/*śa* before a *kit* or *ñit* consonant-initial *sārvadhātuka*: *śiśīte*; first-syllable acute by *vyatyaya*; the relative *yaḥ* is connected, so no *sarvānudātta* [*yadvṛttānnityam*].
-- **īśata** (p. 236): root *īśa aiśvarye*, *adādi*, *ātmanepada*, *laṅ*; *na māṅyoge* — [Pā. 6-4-74]: no *aṭ*; *śap* should be lost for an *adādi* root; but by *bahulaṃ chandasi* [Pā. 2-4-73] the *luk* is not made [as read]. Rik 16 ends here (*|| 16 ||*).
+- **jahi**: root *han*; *loṭ*, *sip*, *hi*; *hanter jaḥ* — हन्तेर्जः — (Pā. 6-4-36): *ja* for *han* before *hi*; *ato heḥ* (Pā. 6-4-105) would give *luk* of *hi* after a short *a*; but, since the substitution *ja* is *asiddha* by *asiddhavad atrābhāt* — असिद्धवदत्राभात् — (Pā. 6-4-22), and the rule operates in the same domain, *ja* is *asiddha* [for the purpose of *ato heḥ*]; 
+
+### Page 235
+
+(continued, p. 235) so *hi* remains after *han*, and *luk* is not made, since it does not stand after a short *a*.
+- **tapurjambha**: root *tapa santāpe*; the Uṇādi suffix *usin* in the instrument sense (no reference printed); *tapus* is first-syllable acute by *nit*; *jabhī nāśane*, a root of the 10th class (as printed); *jambhyante śatravaḥ ebhiḥ* — "by which enemies are destroyed": *ghañ* in the instrument sense; *tapūṃṣy eva jambhāni yasya*, a bahuvrīhi — Agni whose weapons are the burning rays; the vocative takes the first-syllable acute by *āmantritasya ca* of the sixth *adhyāya* (no number printed) and is not wholly unaccented, being at the beginning of a pāda.
+- **asmadhruk**: *asmabhyaṃ drogdhi* — *druha jighāṃsāyām*, a *divādi* root; *satsūdviṣadruha…* (Pā. 3-2-61): *kvip*; loss of the case-ending of the compound by *luk*; *halṅyābbhyaḥ…*: loss of *su*; *vā druhamuhaṣṇuhaṣṇihām* — वा द्रुहमुहष्णुहष्णिहाम् — (Pā. 8-2-33): for the final *h* of these four roots *gh* optionally replaces [*ghatva*], even at the end of a word before a *jhal*; *ekāco baśo bhaṣ jhaṣantasya sdhvoḥ* (Pā. 8-2-37): for the *baś* of a one-vowelled root ending in *jhaṣ*: *d* → *dh*; hence *asmadhruġh*, and *carva* [*khari ca*] gives *asmadhruk*.
+- **śiśīte**: root *śo tanūkaraṇe*, *divādi*, *parasmaipada*; *vyatyayo bahulam* — व्यत्ययो बहुलम् — (Pā. 3-1-85): the *vikaraṇa* (*śap* etc.) and the voice appear interchanged in the Veda; the print explains the word *bahulam* here with the verse "*supāṃ… kālahalacsvarakartṛyaṅāṃ ca | vyatyayam icchati śāstrakṛd eṣāṃ so 'pi ca siddhyati bāhulakena*" — [the verse as printed, *suptiṅupagrahaliṅganarāṇāṃ kālahalacsvarakartṛyaṅāṃ ca | vyatyayam icchati śāstrakṛd eṣāṃ so 'pi ca siddhyati bāhulakena*; "the authors of the *śāstra* allow interchange (*vyatyaya*) of the case-endings, tenses, consonants, vowels, agents, and *yaṅ* — and that too is established by *bāhulaka*"]; "*upagraha*" means the *parasmaipada* and *ātmanepada*; so *ātmanepada* in place of *parasmaipada*; *ślu* for the *vikaraṇa* *śyan* by *bahulaṃ chandasi*; *ādeca upadeśe 'śiti* (Pā. 6-1-45): *o* → *ā* before a non-*śit* suffix; *ślau* (Pā. 6-1-10): doubling; *śā + śā + te*; *hrasva*; *bahulaṃ chandasi* (Pā. 7-4-78): *i* for the reduplicate; 
+
+### Page 236
+
+(continued, p. 236) *ī halyaghoḥ* — ई हल्यघोः — (Pā. 6-4-113): *ī* for the *ā* of *śā*/*śa* before a *kit* or *ñit* consonant-initial *sārvadhātuka*: *śiśīte*; first-syllable acute by *vyatyaya*; the relative *yaḥ* is connected, so no *sarvānudātta* [*yadvṛttānnityam*].
+- **īśata**: root *īśa aiśvarye*, *adādi*, *ātmanepada*, *laṅ*; *na māṅyoge* (Pā. 6-4-74): no *aṭ*; *śap* should be lost for an *adādi* root; but by *bahulaṃ chandasi* (no number printed) the *luk* is not made. Rik 16 ends here (*|| 16 ||*).
 
 ### Rik 36.17 (p. 236 foot, PDF 250–)
 
