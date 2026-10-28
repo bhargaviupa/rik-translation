@@ -8513,24 +8513,31 @@ the suffix *u*; with *avasya* + *u*, by "अतो लोपः" (Pā. Sū. 6-4-
 **॥ Close of Sūkta 25 ॥** *(p. 345: a printed ornament follows the grammar; no colophon is printed; the end of Varga 19 is marked by ॥१९॥ at the end of the bhāṣya on p. 344. The heading of Sūkta 26, "ಇಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು", follows on the lower half of p. 345.)*
 ## ॥ ಇಪ್ಪತ್ತಾರನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 26 — *"vasiṣvā hi miyedhya"* ("The Twenty-sixth Sūkta"; third sūkta of the Sixth Anuvāka)
 
-*(Printed pp. 345 lower half–373. The introductory note and heading block are on the lower half of p. 345 and the head of p. 346; Rik 1 begins on p. 346.)*
+*(Printed pp. 345 lower half–373. The introductory note is on the lower half of p. 345; the Kannada rendering and the heading block are on p. 346, where Ṛk 1 also begins.)*
 
-**॥ Sāyaṇa-bhāṣyam ॥ (introductory note; printed p. 345)** *(read at 130 dpi from the small print; some words doubtful)*
+### Page 345 (lower) — Sūkta 26: introduction
 
-> वसिष्वेति दशर्चं तृतीयं सूक्तम् । अत्रानुक्रमत्ये [?] — वसिष्व दशाग्नेयमिति । शुनःशेप ऋषिः । गायत्री छन्दः । इदमुत्तरं च सूक्तमाग्नेयम् । प्रातरनुवाके आग्नेये क्रतौ गायत्रे छन्दस्येतादिसूक्तद्वयमनुवक्तव्यम् । तथा च सूत्रितम् — वसिष्वा हीति सूक्तयोरुत्तमामुद्धरेत् (आ. ४-१३ [?]) इति ॥
+**॥ Sāyaṇa-bhāṣyam ॥ (introductory note)** *(transcribed in full from the print, v3a)*
 
-*vasiṣveti daśarcaṃ tṛtīyaṃ sūktam | atrānukramatye [?] — vasiṣva daśāgneyam iti | śunaḥśepa ṛṣiḥ | gāyatrī chandaḥ | idam uttaraṃ ca sūktam āgneyam | prātaranuvāke āgneye kratau gāyatre chandasy etādisūktadvayam anuvaktavyam | tathā ca sūtritam — vasiṣvā hīti sūktayor uttamām uddharet (ā. 4-13 [?]) iti ||*
+> वसिष्वेति दशर्चं तृतीयं सूक्तं । अत्रानुक्रमत्ये [sic] । वसिष्व दशाग्नेयं त्विति । शुनःशेप ऋषिः । गायत्री छंदः । इदमुत्तरं च सूक्तमाग्नेयं ॥ प्रातरनुवाक आग्नेये क्रतौ गायत्रे छंदस्येतदादिसूक्तद्वयमनुवक्तव्यं । तथा च सूत्रितं । वसिष्वा हीति सूक्तयोरुत्तमामुद्धरेत् । आ. ४-१३ । इति ॥
 
-**Translation:** "The sūkta beginning *vasiṣva* has ten riks and is the third [of this anuvāka]. Here the Anukramaṇikā says: '*vasiṣva* — ten, Agni's.' The ṛṣi is Śunaḥśepa; the metre is Gāyatrī. This sūkta and the next are to Agni. In the *Prātaranuvāka*, in the rite of Agni, in the Gāyatra metre, these two sūktas are to be recited; so it is laid down: 'of the two sūktas *vasiṣvā hi*, he should take out the last [rik]' (Āś. [4-13] [?])."
+> *vasiṣveti daśarcaṃ tṛtīyaṃ sūktaṃ | atrānukramatye [sic] | vasiṣva daśāgneyaṃ tviti | śunaḥśepa ṛṣiḥ | gāyatrī chaṃdaḥ | idamuttaraṃ ca sūktamāgneyaṃ ‖ prātaranuvāka āgneye kratau gāyatre chaṃdasyetadādisūktadvayamanuvaktavyaṃ | tathā ca sūtritaṃ | vasiṣvā hīti sūktayoruttamāmuddharet | ā. 4-13 | iti ‖*
 
-**॥ Anuvāda (Kannada rendering) ॥** *(p. 346)* *Vasiṣvā hi miyedhya* is the third sūkta of the sixth anuvāka. It has ten riks. The Anukramaṇikā says: '*vasiṣva*' — a sūkta with ten riks, to Agni. The seer of this sūkta is Śunaḥśepa; the metre is Gāyatrī. The following sūkta also has Agni as its deity. At the time of the recitation of the *Prātaranuvāka* mantras, in the Agni-rite, these two sūktas in the Gāyatrī metre are to be used; so Āśvalāyana's Śrauta-sūtra says: *vasiṣvā hīti sūktayor uttamām uddharet* (Āś. [4-13]).
+*(Number zoom-read at 450 dpi: आ. ४-१३ (ಳ-shaped 4, ಇ-shaped 3). The word* अत्रानुक्रमत्ये *is clearly so printed on a ×4 crop (ಅತ್ರಾನುಕ್ರಮತ್ಯೇ); probably for* अत्रानुक्रम्यते *"here it is stated in the Anukramaṇī": mine and tentative.)*
 
-**॥ Heading block of the sūkta (p. 346) ॥**
+*Gist:* *Vasiṣva* is the third sūkta, of ten ṛks, to Agni (Anukramaṇī: *vasiṣva daśāgneyaṃ tu*); ṛṣi Śunaḥśepa, metre Gāyatrī; this and the next sūkta are to Agni. In the Prātaranuvāka, in the Agni section in the Gāyatrī metre, these two sūktas are to be recited, leaving out the last ṛk of each (Āś. 4-13).
 
-> मण्डल १ — अनुवाक ६ — सूक्त २६ । अष्टक १ — अध्याय २ — वर्ग [२०, २१] [?] । ऋक्संख्या १० ।
-> ऋषिः — शुनःशेप आजीगर्तिः । देवता — अग्निः । छन्दः — गायत्री ।
+### Page 346 — Sūkta 26: Kannada rendering and heading block
 
-*Maṇḍala 1 — Anuvāka 6 — Sūkta 26. Aṣṭaka 1 — Adhyāya 2 — Varga [20, 21] [?]. Riks: 10. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Agni. Metre: Gāyatrī.* *(Varga numerals read at 130 dpi, marked [?].)*
+**॥ Anuvāda (Kannada rendering) ॥** *Vasiṣvā hi miyedhya* is the third sūkta in the sixth anuvāka. It has ten ṛks. *Vasiṣva daśāgneyam*: the Anukramaṇikā says that in the sūkta *vasiṣva*, whose deity is Agni, there are ten ṛks. Śunaḥśepa is the ṛṣi of this sūkta; the metre is Gāyatrī. This sūkta and the next have Agni as deity. At the time of reciting the Prātaranuvāka mantras, these two sūktas are to be recited for the ṛks in the Gāyatrī metre belonging to the Agni rite: so it is set out by the sūtra *vasiṣvā hīti sūktayor uttamām uddharet* of the Āśvalāyana Śrauta-sūtra (Ā. 4-13).
+
+**॥ Heading block of the sūkta ॥** *(printed in Kannada; numbers zoom-read)*
+
+> सूक्त—२६ ॥ मंडल—१ ॥ अनुवाक—६ ॥ सूक्त—२६ ॥ अष्टक—१ ॥ अध्याय—२ ॥ वर्ग—२०, २१ ॥ ऋक्संख्या—१० ॥ ऋषिः—शुनःशेप आजीगर्तिः ॥ देवता—अग्निः ॥ छंदः—गायत्री ॥
+
+> *sūkta—26 ‖ maṃḍala—1 ‖ anuvāka—6 ‖ sūkta—26 ‖ aṣṭaka—1 ‖ adhyāya—2 ‖ varga—20, 21 ‖ ṛksaṃkhyā—10 ‖ ṛṣiḥ—śunaḥśepa ājīgartiḥ ‖ devatā—agniḥ ‖ chaṃdaḥ—gāyatrī ‖*
+
+*Sūkta 26. Maṇḍala 1 — Anuvāka 6 — Sūkta 26. Aṣṭaka 1 — Adhyāya 2 — Vargas 20, 21. Number of ṛks in the sūkta (printed in Kannada, ಸೂಕ್ತದಲ್ಲಿರುವ ಋಕ್ಸಂಖ್ಯೆ): 10. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Agni. Metre: Gāyatrī.* *(Varga numbers read from the crop: ೨೦, ೨೧, both with the curled 2; the earlier "[20, 21] [?]" is settled. The maṇḍala digit "೧" is faintly printed.)*
 
 ---
 
