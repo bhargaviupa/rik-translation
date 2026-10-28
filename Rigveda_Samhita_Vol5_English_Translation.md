@@ -1374,13 +1374,15 @@
 
 ### Rik 48.12 (pp. 73–75, PDF 89–91)
 
-**Saṃhitā-pāṭha** *(p. 73; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 73; accents as printed; the independent svarita of* ukthyam *before* uṣo *is marked by the numeral "೧" (१))*
 
-> **विश्वान्देवा आ वह सोमपीतयेऽन्तरिक्षादुषस्त्वम् ।**
-> **सास्मासु धा गोमदश्वावदुक्थ्य उषो वाजं सुवीर्यम् ॥ १२ ॥**
+> **विश्वा॑न्दे॒वाँ आ व॑ह॒ सोम॑पीतये॒ऽन्तरि॑क्षादुष॒स्त्वम् ।**
+> **सास्मा॑सु धा॒ गोम॒दश्वा॑वदु॒क्थ्य॑१॒मुषो॒ वाजं॑ सु॒वीर्य॑म् ॥ १२ ॥**
 
-*viśvān devām̐ ā vaha somapītaye 'ntarikṣād uṣas tvam |*
-*sāsmāsu dhā gomad aśvāvad ukthya uṣo vājaṃ suvīryam || 12 ||*
+*víśvān devā́m̐ ā́ vaha sómapītaye 'ntárikṣād uṣas tvám |*
+*sā́smā́su dhā gómad áśvāvad ukthyàm uṣo vā́jaṃ suvī́ryam || 12 ||*
+
+*[accent ?] the print gives the anuswāra form* ukthyaṃ *(ಉಕ್ಥ್ಯ೧ಮುಷೋ) with the numeral; the strokes over* sā*/*smā *and under* de *are placed as seen; the IAST acutes are inferred.*
 
 **Pada-pāṭha** *(p. 73)*
 
@@ -1394,11 +1396,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 73)*
 
-> **हे उषस्त्वं सोमपीतये सोमपानायान्तरिक्षादन्तरिक्षलोकाद्विश्वान्सर्वान्देवानावह । अस्मदीयं देवयजनदेशं प्रापय । हे उषः सा तादृशी त्वं गोमत् गोमन्तं बहुभिर्गोभिर्युक्तमश्वावदश्वैरुपेतमुक्थ्यं प्रशस्यं सुवीर्यं शोभनवीर्योपेतं वाजमन्नमस्मासु धाः । निधेहि । स्थापयेत्यर्थः ॥ धाः । दधातेश्छन्दसि लुङ्लङ्लिटः इति प्रार्थनायां लुङ् । गातिस्थेति सिचो लुक् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । गोमत् । आश्वावत् । मन्त्रे सोमाश्वेन्द्रियेति मतुपि दीर्घत्वं । उभयत्र सुपां सुलुगिति विभक्तेर्लुक् । उक्थ्यं । उक्थं स्तोत्रं । तत्र भवमुक्थ्यं । भवे छन्दसि इति यत् । सर्वे विधयश्छन्दसि विकल्प्यन्त इति यतोऽनाव इत्याद्युदात्तत्वाभावे तित्स्वरितमिति स्वरितत्वं । उषः । आमन्त्रिताद्युदात्तत्वं । पादादित्वान्निघाताभावः । सुवीर्यं । शोभनं वीर्यं यस्य । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं ॥**
+> **हे उषस्त्वं सोमपीतये सोमपानायान्तरिक्षादन्तरिक्षलोकाद्विश्वान्सर्वान्देवानावह । अस्मदीयं देवयजनदेशं प्रापय । हे उषः सा तादृशी त्वं गोमत् गोमन्तं बहुभिर्गोभिर्युक्तमश्वावदश्वैरुपेतमुक्थ्यं प्रशस्यं सुवीर्यं शोभनवीर्योपेतं वाजमन्नमस्मासु धाः । निधेहि । स्थापयेत्यर्थः ॥ धाः । दधातेश्छन्दसि लुङ्लङ्लिटः इति प्रार्थनायां लुङ् । गातिस्थेति सिचो लुक् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । गोमत् । अश्वावत् । मन्त्रे सोमाश्वेन्द्रियेति मतुपि दीर्घत्वं । उभयत्र सुपां सुलुगिति विभक्तेर्लुक् । उक्थ्यं । उक्थं स्तोत्रं । तत्र भवमुक्थ्यं । भवे छन्दसि इति यत् । सर्वे विधयश्छन्दसि विकल्प्यन्त इति यतोऽनाव इत्याद्युदात्तत्वाभावे तित्स्वरितमिति स्वरितत्वं । उषः । आमन्त्रिताद्युदात्तत्वं । पादादित्वान्निघाताभावः । सुवीर्यं । शोभनं वीर्यं यस्य । वीरवीर्यौ चेत्युत्तरपदाद्युदात्तत्वं ॥**
 
-*he uṣas tvaṃ somapītaye somapānāyāntarikṣād antarikṣalokād viśvān sarvān devān āvaha | asmadīyaṃ devayajanadeśaṃ prāpaya | he uṣaḥ sā tādṛśī tvaṃ gomat gomantaṃ bahubhir gobhir yuktam aśvāvad aśvair upetam ukthyaṃ praśasyaṃ suvīryaṃ śobhanavīryopetaṃ vājam annam asmāsu dhāḥ | nidhehi | sthāpayety arthaḥ || dhāḥ | dadhāter chandasi luṅlaṅliṭaḥ iti prārthanāyāṃ luṅ | gātisthe ti sico luk | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | gomat | āśvāvat | mantre somāśvendriyeti matupi dīrghatvaṃ | ubhayatra supāṃ suluk iti vibhakter luk | ukthyaṃ | uktham stotraṃ | tatra bhavam ukthyaṃ | bhave chandasi iti yat | sarve vidhayaś chandasi vikalpyanta iti yato 'nāva ity ādyudāttatvābhāve titsvaritam iti svaritatvaṃ | uṣaḥ | āmantritādyudāttatvaṃ | pādādittvān nighātābhāvaḥ | suvīryaṃ | śobhanaṃ vīryaṃ yasya | vīravīryau ceti uttarapadādyudāttatvaṃ ||*
+*he uṣas tvaṃ somapītaye somapānāyāntarikṣād antarikṣalokād viśvān sarvān devān āvaha | asmadīyaṃ devayajanadeśaṃ prāpaya | he uṣaḥ sā tādṛśī tvaṃ gomat gomantaṃ bahubhir gobhir yuktam aśvāvad aśvair upetam ukthyaṃ praśasyaṃ suvīryaṃ śobhanavīryopetaṃ vājam annam asmāsu dhāḥ | nidhehi | sthāpayety arthaḥ || dhāḥ | dadhāter chandasi luṅlaṅliṭaḥ iti prārthanāyāṃ luṅ | gātisthe ti sico luk | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | gomat | aśvāvat | mantre somāśvendriyeti matupi dīrghatvaṃ | ubhayatra supāṃ suluk iti vibhakter luk | ukthyaṃ | uktham stotraṃ | tatra bhavam ukthyaṃ | bhave chandasi iti yat | sarve vidhayaś chandasi vikalpyanta iti yato 'nāva ity ādyudāttatvābhāve titsvaritam iti svaritatvaṃ | uṣaḥ | āmantritādyudāttatvaṃ | pādādittvān nighātābhāvaḥ | suvīryaṃ | śobhanaṃ vīryaṃ yasya | vīravīryau ceti uttarapadādyudāttatvaṃ ||*
 
-*(The Saṃhitā has* aśvāvad*; I give "āśvāvat" in the tail as printed ("āśvāvat" for* aśvāvat*, with the lengthened first member, as in Rik 2, [?]).)*
+*(The tail prints* aśvāvat *(ಅಶ್ವಾವತ್).)*
 
 **Translation:** "O Uṣas, you, *somapītaye*, for the drinking of Soma, *antarikṣāt*, from the middle region, *viśvān devān ā vaha*, bring all the gods — conduct them to our place of divine worship. O Uṣas, being such, *asmāsu dhāḥ*, place in us *gomat*, abounding in cows, *aśvāvat*, furnished with horses, *ukthyam*, praiseworthy, *suvīryam*, endowed with fine strength, *vājam*, food: set it, establish it. *Dhāḥ*: root *dadhāti*, with *luṅ* in the sense of a prayer (*chandasi luṅlaṅliṭaḥ*); *luk* of *sic* by *gātisthā…*; no *aṭ*, by *bahulaṃ chandasy amāṅyoge 'pi*. *Gomat*, *aśvāvat*: lengthening before *matup* by *mantre somāśvendriya…*; in both the case-ending drops by *supāṃ suluk*. *Ukthyam*: 'what belongs to the *uktha*, the hymn'; *yat* by *bhave chandasi*; since all rules are optional in the Chandas, the initial acute that *yato 'nāvaḥ* would give is absent, and a *svarita* comes by *tit svaritam*. *Uṣaḥ*: initial-acute as a vocative; because it is at the head of the *pāda*, no all-unaccented. *Suvīryam*: 'that of which the strength is fine'; the second member initial-acute by *vīravīryau ca*."
 
@@ -1413,11 +1415,11 @@
 - "The words *gomat, aśvāvat, ukthyam, suvīryam* are epithets of the word *vājam*. The chief idea is: give us cows, horses and excellent, nourishing food."
 
 **Vyākaraṇa-prakriyā** *(pp. 74–75 — grammar pages, noted briefly)*
-- **dhāḥ**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *adādi* [as printed]; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *luṅ* in the sense of a prayer; second person singular *sip*; by *cleḥ sic* a *sic* for *cli*: *dhā + s + si*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77 as read) gives *luk* of the *sic*; *itaś ca* (Pā. 3-4-100 as read) drops the *i* of *sip*; the *aṭ* that would come to the root is not obtained, by *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read), even without *mā*; the *s* of *sip* becomes *ru* and *visarga*: *dhāḥ*.
-- **gomat, aśvāvat**: *matup* by *tadasyāsty asminn iti matup* (Pā. 5-2-94 as read); in *aśvāvat*, since the stem ends in *a*, *mādupadhāyāś ca matoḥ vo 'yavādibhyaḥ* (Pā. 8-2-9 as read) gives *v* for the *m*; *mantre somāśvendriyaviśvadevyasya matau* (Pā. 6-3-131 as read) lengthens *aśva* before *matup* in a mantra; in both words, the second-case singular *am* drops by *supāṃ suluk…*, so *gomat*, *aśvāvat*.
-- **ukthyam**: *uktha* is a hymn; "*ukthe bhavam*" is *ukthyam*; *bhave chandasi* (Pā. 4-4-110 as read) gives *yat* for the sense "being in it"; *yasyeti ca* drops the *a*: *ukthya*; *yato 'nāvaḥ* (Pā. 6-1-213 as read) would give the initial acute to a *yat*-ending word of two vowels other than *nau*; but *sarve vidhayaś chandasi vikalpyante* makes it optional and it does not come here; then *tit svaritam* (Pā. 6-1-185 as read) gives the *svarita* to a *tit* suffix (the suffix *yat* has *t* as marker), and *ukthyam* is end-*svarita*.
-- **uṣaḥ**: since this vocative stands at the head of the *pāda*, the all-unaccented of the eighth chapter does not come; *āmantritasya ca* (Pā. 6-1-198 as read) gives the initial acute.
-- **suvīryam**: "*śobhanaṃ vīryaṃ yasya tat*"; very mighty; a bahuvrīhi; *vīravīryau ca* (Pā. 6-2-120 as read) gives the initial acute to the word *vīrya* standing after *su* in a bahuvrīhi; here, since *vīrya* stands after *su*, the *ī* after *v* is acute; *suvīryam* is middle-acute. **|| 12 ||**
+- **dhāḥ**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *adādi* [as printed]; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives *luṅ* in the sense of a prayer; second person singular *sip*; by *cleḥ sic* a *sic* for *cli*: *dhā + s + si*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77) gives *luk* of the *sic*; *itaś ca* (no number printed) drops the *i* of *sip*; the *aṭ* that would come to the root is not obtained, by *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75), even without *mā*; the *s* of *sip* becomes *ru* and *visarga*: *dhāḥ*.
+- **gomat, aśvāvat**: *matup* by *tadasyāsty asminn iti matup* (no number printed); in *aśvāvat*, since the stem ends in *a*, *mādupadhāyāś ca…* (no number printed) gives *v* for the *m*; *mantre somāśvendriyaviśvadevyasya matau* (Pā. 6-3-131) lengthens *aśva* before *matup* in a mantra; in both words, the second-case singular *am* drops by *supāṃ suluk…*, so *gomat*, *aśvāvat*.
+- **ukthyam**: *uktha* is a hymn; "*ukthe bhavam*" is *ukthyam*; *bhave chandasi* (Pā. 4-4-110) gives *yat* for the sense "being in it"; *yasyeti ca* drops the *a*: *ukthya*; *yato 'nāvaḥ* (Pā. 6-1-213) would give the initial acute to a *yat*-ending word of two vowels other than *nau*; but *sarve vidhayaś chandasi vikalpyante* makes it optional and it does not come here; then *tit svaritam* (Pā. 6-1-185) gives the *svarita* to a *tit* suffix (the suffix *yat* has *t* as marker), and *ukthyam* is end-*svarita*.
+- **uṣaḥ**: since this vocative stands at the head of the *pāda*, the all-unaccented of the eighth chapter does not come; *āmantritasya ca* (Pā. 6-1-198) gives the initial acute.
+- **suvīryam**: "*śobhanaṃ vīryaṃ yasya tat*"; very mighty; a bahuvrīhi; *vīravīryau ca* (Pā. 6-2-120) gives the initial acute to the word *vīrya* standing after *su* in a bahuvrīhi; here, since *vīrya* stands after *su*, the *ī* after *v* is acute; *suvīryam* is middle-acute. **|| 12 ||**
 
 ---
 
