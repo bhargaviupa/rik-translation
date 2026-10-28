@@ -8082,38 +8082,71 @@ it is anudātta; the root's end-acute alone remains, and *druhvāṇaḥ* is an 
 
 ---
 
-### Pages 330–332 — Sūkta 25, Rik 15
+### Page 330 (lower) — Sūkta 25, Rik 15
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उत यो मानुषेष्वा यशश्चक्रे असाम्या ।
-> अस्माकमुदरेष्वा ॥ १५ ॥
+> उ॒त यो मानु॑षे॒ष्वा यश॑श्च॒क्रे असा॒म्या ।
+> अ॒स्माक॑मु॒दरे॒ष्वा ॥१५॥
+>
+> *utá yo mā́nuṣeṣvā́ yáśaścakré asāmyā́ |*
+> *asmā́kamudáreṣvā́ ||15||*
 
-*uta yo mānuṣeṣv ā yaśaś cakre asāmy ā | asmākam udareṣv ā || 15 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> उत । यः । मानुषेषु । आ । यशः । चक्रे । असामि । आ ॥ अस्माकम् । उदरेषु । आ ॥ १५ ॥
+> उत । यः । मानुषेषु । आ । यशः । चक्रे । असामि । आ । अस्माकं । उदरेषु । आ ॥१५॥
 
-*uta | yaḥ | mānuṣeṣu | ā | yaśaḥ | cakre | asāmi | ā || asmākam | udareṣu | ā || 15 ||*
+> *uta | yaḥ | mānuṣeṣu | ā | yaśaḥ | cakre | asāmi | ā | asmākaṃ | udareṣu | ā ‖15‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 330)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> उतापि च यो वरुणो मानुषेषु यशोऽन्नमा चक्रे सर्वतः कृतवान् । स वरुणः कुर्वन्ना सर्वत आ असामि संपूर्णं चक्रे न तु न्यूनं कृतवान् । विशेषतोऽस्माकमुदरेष्वा सर्वतश्चक्रे ॥ मानुषेषु । मनोर्जातावञ्यतौ षुक् च । पा. ४-१-१६१ । इत्यञ् । ञित्त्वादादिवृद्धिः । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । चक्रे । प्रत्ययस्वरः । असामि । अव्यये नञ्कुनिपातानामिति वक्तव्यम् । पा. ६-२-२ । इत्यव्ययपूर्वपदप्रकृतिस्वरत्वम् । यशः । अशेर्युट् च । उ. ४-१९० । इत्यसुन् । प्रकृतेस्तत्संनियोगेन यडागमः [?] । उदरेषु । उदि दृणातेरलजौ पूर्वपदान्त्यलोपश्च । उ. ५-४८[?] । इत्यल् । लित्स्वरः । गतिकारकोपपदात्कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+> उतापि च यो वरुणो मानुषेषु यशोऽन्नमा चक्रे सर्वतः कृतवान् स वरुणः कुर्वन्नप्या सर्वत असामि । संपूर्णं चक्रे न तु न्यूनं कृतवान् । विशेषतोऽस्माकमुदरेष्वा सर्वतश्चक्रे ॥ मानुषेषु । मनोर्जातावञ्यतौ षुक् च । पा. ४-१-१६१ । इत्यञ् । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वं । चक्रे । प्रत्ययस्वरः । असामि । अव्यये नञ्कुनिपातानामिति वक्तव्यं । पा. ६-२-२-३ । इत्यव्ययपूर्वपदप्रकृतिस्वरत्वं । यशः । अशेर्युट् च । उ. ४-१९० । इत्यसुन् । उदरेषु । उदि दृणातेरजलौ पूर्वपदांत्यलोपश्च । उ. ५-१९ । इत्यल् । लित्स्वरः । गतिकारकोपपदादित्युत्तरपदप्रकृतिस्वरत्वं ॥१८॥
 
-*utāpi ca yo varuṇo mānuṣeṣu yaśo 'nnam ā cakre sarvataḥ kṛtavān | sa varuṇaḥ kurvann ā sarvata ā asāmi saṃpūrṇaṃ cakre na tu nyūnaṃ kṛtavān | viśeṣato 'smākam udareṣv ā sarvataś cakre || mānuṣeṣu | manor jātāv añ yatau ṣuk ca | pā. 4-1-161 | ity añ | ñitvād ādivṛddhiḥ | ñnityādir nityam ity ādyudāttatvam | cakre | pratyayasvaraḥ | asāmi | avyaye nañkunipātānām iti vaktavyam | pā. 6-2-2 | ity avyayapūrvapadaprakṛtisvaratvam | yaśaḥ | aśer yuṭ ca | u. 4-190 | ity asun | prakṛtes tatsaṃniyogena yaḍāgamaḥ [?] | udareṣu | udi dṛṇāter alajau pūrvapadāntyalopaś ca | u. 5-48 [?] | ity al | litsvaraḥ | gatikārakopapadāt kṛduttarapadaprakṛtisvaratvam ||*
+> *utāpi ca yo varuṇo mānuṣeṣu yaśo 'nnamā cakre sarvataḥ kṛtavān sa varuṇaḥ kurvannapyā sarvata asāmi | saṃpūrṇaṃ cakre na tu nyūnaṃ kṛtavān | viśeṣato 'smākamudareṣvā sarvataścakre ‖ mānuṣeṣu | manorjātāvañyatau ṣuk ca | pā. 4-1-161 | ityañ | ñnityādirnityamityādyudāttatvaṃ | cakre | pratyayasvaraḥ | asāmi | avyaye nañkunipātānāmiti vaktavyaṃ | pā. 6-2-2-3 | ityavyayapūrvapadaprakṛtisvaratvaṃ | yaśaḥ | aśeryuṭ ca | u. 4-190 | ityasun | udareṣu | udi dṛṇāterajalau pūrvapadāṃtyalopaśca | u. 5-19 | ityal | litsvaraḥ | gatikārakopapadādityuttarapadaprakṛtisvaratvaṃ ‖18‖*
 
-**Translation:** "And (*uta*) Varuṇa, who has made (*cakre*) *yaśas* — food — among men on every side (*ā*): that Varuṇa, doing it on every side, has made it *asāmi* — complete, not deficient. Especially (*ā*) in our *udareṣu* — stomachs — on all sides he has made [it]. *Mānuṣeṣu*: *añ* in the sense of 'the offspring of Manu', with *ṣuk*, P. 4-1-161 [*manor jātāv añyatau ṣuk ca*]; since it is *ñit* the first syllable takes *vṛddhi*; first-syllable acute by *ñnityādir nityam*. *Cakre*: the accent of the suffix. *Asāmi*: [*nañ*] with an *avyaya* … P. 6-2-2 — the *avyaya*-first compound keeps the first member's accent. *Yaśaḥ*: from *aś*, with *yuṭ*, *asun* (Uṇ. 4-190); *udareṣu*: from *ud* + *dṛ*, with *al* by the Uṇādi rule with loss of the final of the first member; the acute by *lit*; since it is a *gati-kāraka-upapada* compound, the accent of the *kṛt*-final member." *(Grammar pages 331–332, noted briefly: the words treated are* mānuṣeṣu *[*manor jātāv añ-yatau ṣuk ca*, P. 4-1-161: the suffix *añ* after *manu* in the sense 'born of Manu' with the augment *ṣuk*; initial *vṛddhi* from *ñit*; the first-syllable acute by P. 6-1-197 *ñnityādir nityam*; locative plural],* cakre *[*ḍukṛñ karaṇe*; *liṭ* 3rd singular *ta* → *e* by P. 3-4-81; doubling, *cutva*, *yaṇ* for *ṛ*: the print lists the processes *dvitva, uraṭ, halādiḥ śeṣaḥ, cutva* and *yaṇ*; the suffix accent from *ṭita ātmanepadānāṃ ṭere*: the word is end-acute],* asāmi *[*sāmi* = half, incomplete; *a-sāmi* = whole, abundantly; a *nañ*-tatpuruṣa; the sūtra P. 6-2-2 *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* with the vārttika *avyaye nañkunipātānām* restricts the *avyaya* rule, so the first member's accent: *asāmi* is first-syllable acute],* yaśaḥ *[*aś vyāptau* + *asun* by Uṇ. 4-190 *aśer yuṭ ca* — *yuṭ* is added to the root so that *y* appears; *yuṭ* is *ṭit* so it goes at the beginning; the final *y* of *yuṭ* is *it*-less; hence *yaś-as*; *nit* — first-syllable acute],* udareṣu *[*ud* + *dṝ vidāraṇe* + *al* by Uṇ. 5-[?] with the loss of the final of the first member (*ud* → *ud*); locative plural; *lit* accent on the syllable before the suffix; *gati-kāraka-upapadāt kṛt* P. 6-2-139 — the second member's accent; the acute on *da*, then *ra-*, *re-*, *ṣu*]; numerals as read, pointers only.)*
+*(Numbers read at 450 dpi: पा. ४-१-१६१, ६-२-२-३ (a vārttika number), उ. ४-१९०, ५-१९; the closing ॥१८॥ marks the end of Varga 18 (Ṛks 11–15).)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 330)* **उत (uta)** — and | **यः (yaḥ)** — which Varuṇa | **मानुषेषु (mānuṣeṣu)** — among all men | **यशः (yaśaḥ)** — food | **आ चक्रे (ā cakre)** — has distributed on all sides | **असामि (asāmi)** — completely | **अस्माकम् (asmākam)** — our | **उदरेषु (udareṣu)** — in the stomachs | **आ [चक्रे] (ā [cakre])** — [he has] filled.
+*Gist:* Varuṇa, who has made food among men in every way, and made it in full, not scantily, has also filled our stomachs with it.
 
-**॥ Bhāvārthaḥ ॥** Varuṇa has distributed plentiful food to all men, so that they are satisfied. In particular he has filled our stomachs completely with food.
+**॥ Prati-padārthaḥ ॥** **उत (uta)** — and | **यः (yaḥ)** — which Varuṇa | **मानुषेषु (mānuṣeṣu)** — among all men too | **यशः (yaśaḥ)** — food | **आ चक्रे (ā cakre)** — distributed to all (that same Varuṇa) | **आ (ā)** — everywhere too | **असामि (asāmi)** — fully, without lack (having distributed, in that too) | **अस्माकं (asmākaṃ)** — our | **उदरेषु (udareṣu)** — in the stomachs —
 
-**॥ English Translation ॥** *(as printed in the source)*
+### Page 331 — Rik 15: word-meanings (end), overall sense, English, Special Topics, grammar
+
+*(The Pratipadārtha continues at the top of p. 331, which opens with the Bhāvārtha heading; p. 330 ends with "ಉದರೇಷು—" and no gloss for it or for the final ā is printed.)*
+
+**॥ Bhāvārthaḥ ॥** Varuṇa distributed abundant food so that all men are satisfied. In that too he made our stomachs fill completely.
+
+**॥ English Translation ॥** *(as printed)*
 
 > (Varuna) who has distributed unlimited food to all men (and the gods) has filled our stomachs with food.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 331)* **Chief sense:** the Varuṇa who has given food in full measure to gods and men — that Varuṇa has filled our stomachs with food; that is, he has given us food as much as we wish, so that we are satisfied. **यशः** — food; among the names for food beginning *vājaḥ* [the twenty-eight? names of food] the word *yaśaḥ* is read (Ni. [2-7]); so *yaśaḥ* means food. **असामि** — *sāmi* means half, 'incomplete'; *asāmi* means completely, abundantly. **अस्माकं उदरेषु आ (चक्रे)** — he has satisfied our stomachs; i.e. he has given food as we desire.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**Chief sense** — Varuṇa, who gave food in full to gods and men, made the food in our stomachs too be full; that is, he gave food and other nourishment as much as we wished, without stint, so that we are satisfied.
+
+**यशः (yaśaḥ)** — food. Since the word *yaśaḥ* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ*, *yaśaḥ* means food (Ni. 3-9).
+
+**असामि (asāmi)** — *sāmi śabdo 'rdhavacanaḥ; na sāmi = asāmi sakalaṃ prabhūtam ity arthaḥ*: *sāmi* means half, incomplete; *asāmi* means fully, abundantly.
+
+**अस्माकं उदरेषु आ (चक्रे) (asmākaṃ udareṣu ā (cakre))** — in our stomachs, that is, he gave food as we wished, so that our stomachs are filled and we are satisfied: this is the meaning.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read at 450 dpi, v3a)*
+
+**मानुषेषु (mānuṣeṣu)** — by "मनोर्जातावञ्यतौ षुक् च" (Pā. Sū. 4-1-161), when the sense is a class, *manu* takes *añ* and the stem the *ṣuk* augment; being *ñit*, initial vṛddhi: *mānuṣa*; locative plural. Initially acute by "ञ्नित्यादिर्नित्यम्" (Pā. Sū. 6-1-197).
+
+**चक्रे (cakre)** — *ḍukṛñ karaṇe*; *liṭ* third singular; doubling, *urat*, *halādiśeṣa*, *cutva* and *yaṇ* give *cakre*; the suffix being initially acute, *cakre* is end-acute.
+
+**असामि (asāmi)** — not half: complete. *Na sāmi asāmi*: a *nañ*-tatpuruṣa. In the sūtra "तत्पुरुषे तुल्यार्थ-" (Pā. Sū. 6-2-2)
+
+### Page 332 — Rik 15: grammar (end)
+
+the restriction "अव्यये नञ्कुनिपातानामिति वक्तव्यम्" (Pā. Sū. 6-2-2-3) is made for indeclinables, so the indeclinable first member keeps its accent: an initially acute word.
+
+**यशः (yaśaḥ)** — *aśū vyāptau*; by "अशेर्युट् च" (Uṇ. Sū. 4-630, in the Kannada grammar's series; the bhāṣya gives उ. ४-१९०) the suffix *asun*, and with it the augment *yuṭ* on the root; the *y*, being *ṭit*, comes as the first part: *yaśas*, an *s*-stem; being *nit*, initially acute.
+
+**उदरेषु (udareṣu)** — by "उदि दृणातेरजलौ पूर्वपदान्त्यलोपश्च" (Uṇ. Sū. 5-692, as in the Kannada series; the bhāṣya gives उ. ५-१९) the suffix *al* after *dṝ* with *ut* before it: *udara*; locative plural. *Al* being *lit*, by "लिति" (Pā. Sū. 6-1-93, as printed; for 6-1-193) the syllable before the suffix is udātta. After the *gati*-compound, by "गतिकारकोपपदात्कृत्" (Pā. Sū. 6-2-139) the *kṛt* final member keeps its accent; the *a* after *d* remains udātta. ॥१५॥ *(A printed ornament follows; Ṛk 16 begins on the same page.)*
 
 ---
 
