@@ -7520,38 +7520,69 @@ is initially acute: the *a* after *m* is udātta. Because the *yad*-word (*yath�
 
 ---
 
-### Pages 307–309 — Sūkta 25, Rik 6
+### Page 307 (lower) — Sūkta 25, Rik 6
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तदित्समानमाशाते वेनन्ता न प्र युच्छतः ।
-> धृतव्रताय दाशुषे ॥ ६ ॥
+> तदित्स॑मा॒नमा॑शाते॒ वेनं॑ता॒ न प्र यु॑च्छतः ।
+> धृ॒तव्र॑ताय दा॒शुषे॑ ॥६॥
+>
+> *tadítsamānámāśāte vénaṃtā ná prá yucchataḥ |*
+> *dhṛtávratāya dāśúṣe ||6||*
 
-*tad it samānam āśāte venantā na pra yucchataḥ | dhṛtavratāya dāśuṣe || 6 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. The svarita stroke of line 1 stands over the conjunct* त्स*, as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> तत् । इत् । समानम् । आशाते इति । वेनन्ता । न । प्र । युच्छतः ॥ धृतऽव्रताय । दाशुषे ॥ ६ ॥
+> तत् । इत् । समानं । आशाते इति । वेनंता । न । प्र । युच्छतः । धृतऽव्रताय । दाशुषे ॥६॥
 
-*tat | it | samānam | āśāte iti | venantā | na | pra | yucchataḥ || dhṛta-vratāya | dāśuṣe || 6 ||*
+> *tat | it | samānaṃ | āśāte iti | venaṃtā | na | pra | yucchataḥ | dhṛta-vratāya | dāśuṣe ‖6‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 307)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> धृतव्रतायानुष्ठितकर्मणे दाशुषे हविर्दत्तवते यजमानाय वेनन्तौ कामयमानौ मित्रावरुणाविति शेषः । तावुभौ समानं साधारणं तदिदमस्माभिर्दत्तं हविरेवाशाते । अश्नुवाते । न प्र युच्छतः । कदाचिदपि प्रमादं न कुरुतः ॥ आशाते । अश्नोतेर्लिट् द्विर्भावहलादिशेषौ । अत आदेः । पा. ७-४-७० । इत्यात्वम् । अनित्यमागम । मशासनमिति वचनादश्नोतेरिट्कृ । पा. ७-२-२१ । इति नुडभावः । वेनन्ता । वेनतिः कान्तिकर्मा । सुपां सुलुगित्याकारः । प्र युच्छतः । युच्छ प्रमादे । दाशुषे । दाश्व दाने इत्यस्माद्दाश्वान्साह्वानिति क्वसुप्रत्ययो निपातितः । वसोः संप्रसारणमिति संप्रसारणम् । शासिवसिघसीनां चेति षत्वम् ॥
+> धृतव्रतायानुष्ठितकर्मणे दाशुषे हविर्दत्तवते यजमानाय वेनंतौ कामयमानौ मित्रावरुणाविति शेषः । तावुभौ समानं साधारणं तदिदमस्माभिर्दत्तं तदेव हविराशाते । अश्नुवाते । न प्र युच्छतः । कदाचिदपि प्रमादं न कुरुतः ॥ आशाते । अश्नोतेर्लिटि द्विर्भावहलादिशेषौ । अत आदेः । पा. ७.४.७० । इत्यात्वं । अनित्यमागमशासनमिति वचनादश्नोतेश्च । पा. ७. ४. ७२ । इति नुडभावः । वेनंता । वेनतिः कांतिकर्मा । सुपां सुलुगित्याकारः । प्र युच्छतः । युच्छ प्रमादे । दाशुषे । दाशृ दान इत्यस्माद्दाश्वान् साह्वानिति क्वसुप्रत्ययो निपातितः । वसोः संप्रसारणमिति संप्रसारणं । शासिवसिघसीनां चेति षत्वं ॥
 
-*dhṛtavratāyānuṣṭhitakarmaṇe dāśuṣe haviḥ dattavate yajamānāya venantau kāmayamānau mitrāvaruṇāv iti śeṣaḥ | tāv ubhau samānaṃ sādhāraṇaṃ tad idam asmābhir dattaṃ havir evāśāte | aśnuvāte | na pra yucchataḥ | kadācid api pramādaṃ na kurutaḥ || āśāte | aśnoter liṭ dvirbhāvahalādiśeṣau | ata ādeḥ | pā. 7-4-70 | ity ātvam | anityam āgamaśāsanam iti vacanād aśnoter iṭkṛ | pā. 7-2-21 | iti nuḍabhāvaḥ | venantā | venatiḥ kāntikarmā | supāṃ suluk ity ākāraḥ | pra yucchataḥ | yuccha pramāde | dāśuṣe | dāśva dāne ity asmād dāśvān sāhvān iti kvasupratyayo nipātitaḥ | vasoḥ saṃprasāraṇam iti saṃprasāraṇam | śāsivasighasīnāṃ ceti ṣatvam ||*
+> *dhṛtavratāyānuṣṭhitakarmaṇe dāśuṣe havirdattavate yajamānāya venaṃtau kāmayamānau mitrāvaruṇāviti śeṣaḥ | tāvubhau samānaṃ sādhāraṇaṃ tadidamasmābhirdattaṃ tadeva havirāśāte | aśnuvāte | na pra yucchataḥ | kadācidapi pramādaṃ na kurutaḥ ‖ āśāte | aśnoterliṭi dvirbhāvahalādiśeṣau | ata ādeḥ | pā. 7.4.70 | ityātvaṃ | anityamāgamaśāsanamiti vacanādaśnoteśca | pā. 7. 4. 72 | iti nuḍabhāvaḥ | venaṃtā | venatiḥ kāṃtikarmā | supāṃ sulugityākāraḥ | pra yucchataḥ | yuccha pramāde | dāśuṣe | dāśṛ dāna ityasmāddāśvān sāhvāniti kvasupratyayo nipātitaḥ | vasoḥ saṃprasāraṇamiti saṃprasāraṇaṃ | śāsivasighasīnāṃ ceti ṣatvaṃ ‖*
 
-**Translation:** "To the sacrificer — *dhṛtavratāya*, who has done the rite; *dāśuṣe*, who has given the oblation — [Mitra and Varuṇa], *venantā* — desiring [him] — these two enjoy (*āśāte*; they pervade) just this common (*samānam*) oblation given by us; they never (*na pra yucchataḥ*) fail through carelessness. *Āśāte*: *liṭ* of *aśnoti*; doubling; lengthening of the initial *a* by P. 7-4-70 [*ata ādeḥ*]; since the rule on augments is not constant, there is no *nuṭ* — P. 7-2-21. *Venantā*: *veṇ* [*ven*] in the sense of desire; *ā* by *supāṃ suluk*. *Pra yucchataḥ*: *yuccha pramāde* [to be careless]. *Dāśuṣe*: from *dāś dāne* [to give] with *kvasu* by *nipātana* [P. 3-2-107 *dāśvān sāhvān mīḍhvāṃś ca*]; *saṃprasāraṇa* before the endings after *vasu*, P. 6-4-131; *ṣatva* by P. 8-3-60 *śāsivasighasīnāṃ ca*." *(Grammar pages 309, noted briefly: the words treated are* āśāte *[*aśū vyāptau*, *liṭ*; *ātām* → *āte* by P. 3-4-81 *liṭas tajhayor eśirec*; doubling and *halādiḥ śeṣaḥ*; the lengthening of the initial *a* by P. 7-4-70; *iṭ* — and the *num* of *aśnoti* is not added P. 7-2-… *aśnoter iṭ*], *venantā* [*veṇ gatijñānacintānidhāmanavāditragrahaṇeṣu*, here desire; *śatṛ*; dual *au* → *ā* by P. 7-1-39],* pra yucchataḥ *[*yuccha pramāde*, class 1; dual 3rd person; verb's accent lowered, P. 8-1-28] and* dāśuṣe *[*dāś dāne* with *kvasu* by P. 3-2-107 *dāśvān sāhvān mīḍhvāṃś ca*, as *nipātana*; *saṃprasāraṇa* of *vasu* before a vowel-initial case-ending, P. 6-4-131 *vasoḥ saṃprasāraṇam*; hence *dāśuṣe*; the *ṣa* by P. 8-3-60]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. ७.४.७० and ७. ४. ७२ (printed with points; flat-footed 7s, curled 2).)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 308)* **धृतव्रताय (dhṛtavratāya)** — to the sacrificer who performs the rite | **दाशुषे (dāśuṣe)** — who offers oblations | **वेनन्ता (venantā)** — Mitra and Varuṇa, desiring [him] | **समानम् (samānam)** — common to both | **तत् इत् (tat it)** — that [offered] oblation itself | **आशाते (āśāte)** — enjoy | **न प्र युच्छतः (na pra yucchataḥ)** — they never cause harm.
+*Gist:* For the sacrificer who keeps the rites and gives oblations, Mitra and Varuṇa, desiring it, both enjoy this common oblation we give, and never neglect [him].
 
-**॥ Bhāvārthaḥ ॥** Mitra and Varuṇa, pleased with the sacrificer who does the rite and offers the oblation, together partake of the oblation offered to them both; and they never cause the sacrificer any harm.
+### Page 308 — Rik 6: word-meanings, overall sense, English, Special Topics
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **धृतव्रताय (dhṛtavratāya)** — who performs the sacrificial rite | **दाशुषे (dāśuṣe)** — and who offers oblations: to the sacrificer | **वेनंता (venaṃtā)** — Mitra and Varuṇa, both gracious | **समानं (samānaṃ)** — common (to both) | **तदित् (tadit)** — that same oblation (offered by us) | **आशाते (āśāte)** — enjoy | **न प्रयुच्छतः (na prayucchataḥ)** — (never) cause harm.
 
-> (Mitra and Varuna,) partake of the common oblation; this offering is propitious to the giver and celebrator of this sacrifice.
+**॥ Bhāvārthaḥ ॥** For the sacrificer who performs the sacrifice and offers oblations, Mitra and Varuṇa both, ever gracious, enjoy together the oblation offered to the two of them jointly; and they never cause harm to the performer of the sacrifice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 308)* **समानम्** — common to Mitra and Varuṇa, i.e. offered to both together, not to each separately. **वेनन्ता** — *kāmayamānau*: Mitra and Varuṇa, who desire the oblation. **न प्र युच्छतः** — *yuccha pramāde*: they never do carelessness; they are never negligent. **धृतव्रताय** — *anuṣṭhitakarmaṇe*: to the one who performs sacrificial rites, who worships Mitra and Varuṇa with sacrificial rites. **दाशुषे** — *havirdattavate yajamānāya*: to the sacrificer who gives oblations. Besides this explanation, Skandasvāmin gives another meaning for the words *dhṛtavratāya* and *dāśuṣe*: *dhṛtavratāya* — 'to him who holds [carries] his *vrata*' — *svakarmaṇāṃ paritrātṛtvād dhṛtavrato varuṇaḥ* — 'Varuṇa is *dhṛtavrata* because he guards the actions that belong to himself [?]', and *dāśuṣe* — 'to Varuṇa, who gives to the sacrificer the things he desires'.
+**॥ English Translation ॥** *(as printed)*
+
+> (Mitra and Varuna,) partake of the common oblation ; this offering is propitious to the giver and celebrator of this sacrifice.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**समानं (samānaṃ)** — common to Mitra and Varuṇa both; that is, offered to the two together, not separately.
+
+**वेनंता (venaṃtā)** — *kāmayamānau*: Mitra and Varuṇa, who desire the oblation.
+
+**न प्र युच्छतः (na pra yucchataḥ)** — *yuccha pramāde*; *kadācid api na pramādaṃ kurutaḥ*: they never commit a lapse (a fault).
+
+**धृतव्रताय (dhṛtavratāya)** — *anuṣṭhitakarmaṇe*: who has performed sacrifices and other observances, who worships Mitra and Varuṇa with sacrifices and the like.
+
+**दाशुषे (dāśuṣe)** — *havirdattavate yajamānāya*: to the sacrificer who gives the oblation.
+
+Skandasvāmin, besides giving this explanation of the ṛk, explains the words *dhṛtavratāya* and *dāśuṣe* otherwise: for *dhṛtavrata*, *svakarmaṇām aparityaktatvāt dhṛtavrato varuṇaḥ* — Varuṇa, who never abandons his own work, the protection of sacrificers and so on; and *dāśuṣe* — to Varuṇa, who gives the sacrificer what he desires.
+
+### Page 309 — Rik 6: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**आशाते (āśāte)** — *aśa bhojane*, kryādi; *liṭ* third dual *ātām*; *e* by "टित आत्म-" (Pā. Sū. 3-4-79); doubling and *halādiśeṣa*: *aś* + *āte*; by "अत आदेः" (Pā. Sū. 7-4-70) the reduplicate's initial *a* is lengthened, setting aside *pararūpa*; lengthening of like vowels gives *āśāte*. Since "आगमशास्त्रमनित्यम्" (Paribhā. 95) holds, the *nuṭ* augment of "अश्नोतेश्च" (Pā. Sū. 7-4-72) does not come.
+
+**वेनंता (venaṃtā)** — *venṛ gatijñānacintāniśāmanavāditragrahaṇeṣu*, bhvādi; here to be taken in the sense of *kānti* (*kānti* = desire); *śatṛ*; the nominative dual *au* is replaced by *ā* by "सुपां सुलुक्" (Pā. Sū. 7-1-39); being *ugit*, the *num* augment: *venaṃtā*.
+
+**प्र युच्छतः (pra yucchataḥ)** — *yuccha pramāde*, bhvādi; third dual; the *tiṅanta* takes the *nighāta* accent.
+
+**दाशुषे (dāśuṣe)** — *dāśṛ dāne*, bhvādi; *kvasu* is irregularly formed by "दाश्वान् साह्वान् मीढ्वांश्च" (Pā. Sū. 6-1-12): *dāśvas*, a stem in *s*; before the dative singular it is *bha*, so by "वसोः संप्रसारणम्" (Pā. Sū. 6-4-131) samprasāraṇa; with *pūrvarūpa* of the following vowel, *dāśus* + *e*; by "शासिवसिघसीनां च" (Pā. Sū. 8-3-60) the *s* becomes *ṣ*: *dāśuṣe*. ॥६॥ *(A printed ornament follows; Ṛk 7 begins on the same page.)*
 
 ---
 
