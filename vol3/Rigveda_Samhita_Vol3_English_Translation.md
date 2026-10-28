@@ -9013,38 +9013,70 @@ by "अनुदात्तं च" (Pā. Sū. 8-1-3) the repeated latter form 
 
 ---
 
-### Pages 366–368 — Sūkta 26, Rik 8
+### Page 366 — Sūkta 26, Rik 8
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> स्वग्नयो हि वार्यं देवासो दधिरे च नः ।
-> स्वग्नयो मनामहे ॥ ८ ॥
+> स्व॒ग्नयो॒ हि वार्यं॑ दे॒वासो॑ दधि॒रे च॑ नः ।
+> स्व॒ग्नयो॑ मनामहे ॥८॥
+>
+> *svagnáyo hí vā́ryaṃ devā́so dadhiré ca naḥ |*
+> *svagnáyo manāmahe ||8||*
 
-*svagnayo hi vāryaṃ devāso dadhire ca naḥ | svagnayo manāmahe || 8 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> सुऽअग्नयः । हि । वार्यम् । देवासः । दधिरे । च । नः ॥ सुऽअग्नयः । मनामहे ॥ ८ ॥
+> सुऽअग्नयः । हि । वार्यं । देवासः । दधिरे । च । नः । सुऽअग्नयः । मनामहे ॥८॥
 
-*su-agnayaḥ | hi | vāryam | devāsaḥ | dadhire | ca | naḥ || su-agnayaḥ | manāmahe || 8 ||*
+> *su-agnayaḥ | hi | vāryaṃ | devāsaḥ | dadhire | ca | naḥ | su-agnayaḥ | manāmahe ‖8‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 366)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> स्वग्नयः शोभनाग्नियुक्ता देवासो दीप्यमाना ऋत्विजो नोऽस्मदीयं वार्यं वरणीयं हविर्यस्माद्दधिरे धृतवन्तः तस्माद्वयं स्वग्नयः शोभनाग्नियुक्ताः सन्तो मनामहे त्वां याचामहे ॥ वार्यम् । वृञ् वरणे । वृञ् संभक्तौ । ऋहलोर्ण्यत् । ईडवन्देत्यादिनाद्युदात्तत्वम् । दधिरे । इरेचिद्भ्यां पदान्तोदात्तत्वम् । हि चेति निघातप्रतिषेधः । मनामहे । मन ज्ञाने । व्यत्ययेन शप् ॥
+> स्वग्नयः शोभनाग्नियुक्ता देवासो दीप्यमाना ऋत्विजो नोऽस्मदीयं वार्यं वरणीयं हविर्हि यस्माद्दधिरे धृतवंतः तस्माद्वयं स्वग्नयः शोभनाग्नियुक्ताः संतो मनामहे । त्वां याचामहे ॥ वार्यं । वृञ् वरणे । वृङ् संभक्तौ । ऋहलोर्ण्यत् । ईडवंदेत्यादिनाद्युदात्तत्वं । दधिरे । इरेचश्चित्त्वादंतोदात्तत्वं । हि चेति निघातप्रतिषेधः । मनामहे । मन ज्ञाने । व्यत्ययेन शप् ॥
 
-*svagnayaḥ śobhanāgniyuktā devāso dīpyamānā ṛtvijo no 'smadīyaṃ vāryaṃ varaṇīyaṃ havir yasmād dadhire dhṛtavantaḥ tasmād vayaṃ svagnayaḥ śobhanāgniyuktāḥ santo manāmahe tvāṃ yācāmahe || vāryam | vṛñ varaṇe | vṛñ saṃbhaktau | ṛhaloṛ ṇyat | īḍavandety ādinādyudāttatvam | dadhire | irecidbhyāṃ padāntodāttatvam | hi ceti nighātapratiṣedhaḥ | manāmahe | mana jñāne | vyatyayena śap ||*
+> *svagnayaḥ śobhanāgniyuktā devāso dīpyamānā ṛtvijo no 'smadīyaṃ vāryaṃ varaṇīyaṃ havirhi yasmāddadhire dhṛtavaṃtaḥ tasmādvayaṃ svagnayaḥ śobhanāgniyuktāḥ saṃto manāmahe | tvāṃ yācāmahe ‖ vāryaṃ | vṛñ varaṇe | vṛṅ saṃbhaktau | ṛhalorṇyat | īḍavaṃdetyādinādyudāttatvaṃ | dadhire | irecaścittvādaṃtodāttatvaṃ | hi ceti nighātapratiṣedhaḥ | manāmahe | mana jñāne | vyatyayena śap ‖*
 
-**Translation:** "The gods — *svagnayaḥ*, possessed of good fires, the shining priests — have taken (*dadhire*) our *vāryam* — our choice oblation: therefore we too, *svagnayaḥ* — possessed of good fires — ask (*manāmahe*) you. *Vāryam*: *vṛñ varaṇe*; *ṇyat*; the first-syllable acute by P. 6-1-213 [*īḍavandavṛśaṃsaduhāṃ ṇyataḥ*]. *Dadhire*: [the *ire* ending] makes it end-acute [*i-re-cit*]; the lowering is prevented by *hi*. *Manāmahe*: *mana jñāne*; *śap* by *vyatyaya*." *(Grammar pages 367–368, noted briefly: the words treated are* vāryam *[*vṛñ varaṇe* of the *svādi* class; *ṇyat* by P. 3-1-124 *ṛhaloṛ ṇyat*; the *ṛ* → *ār* by P. 7-2-115; the accent by P. 6-1-213],* dadhire *[*ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*, *liṭ* 3rd plural *jha* → *ire* by P. 3-4-81 *liṭas tajhayor eśirec*; doubling with *dhā* → *dadhā* → the *ā* lost by P. 6-4-64 *āto lopa iṭi ca*; *ire* is *cit* so the end-acute by P. 6-1-163 *citaḥ*; the verb is not lowered since *hi* is its antecedent, P. 8-1-34 *hi ca*, and P. 8-1-66],* manāmahe *[*mana jñāne*, *divādi*; *śyan* would be the *vikaraṇa*, but *śap* by *vyatyaya* P. 3-1-85 *vyatyayo bahulam*; the lengthening of *a* before *mahi* by P. 7-3-101 *ato dīrgho yañi*; *devāsaḥ* [the end of this note is in the next lines]: *deva* + *jas*, with *asuk* by P. 7-1-50 *ājjaser asuk*, *devāsaḥ*]; numerals as read, pointers only.)*
+*(No numbers in this bhāṣya.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 366)* **स्वग्नयः (svagnayaḥ)** — [those] with fine fires | **देवासः (devāsaḥ)** — shining priests | **नः (naḥ)** — our | **वार्यम् (vāryam)** — excellent oblation | **हि दधिरे (hi dadhire)** — because they have received | **स्वग्नयः (svagnayaḥ)** — [we too] with auspicious fires | **मनामहे (manāmahe)** — we ask [you].
+*Gist:* Since the shining priests with good fires have taken up our choice oblation, we too, having good fires, entreat you.
 
-**॥ Bhāvārthaḥ ॥** The shining priests, who keep good fires, have received our excellent oblation for our welfare; therefore we too, keeping good fires, ask you for our welfare.
+**॥ Prati-padārthaḥ ॥** **स्वग्नयः (svagnayaḥ)** — endowed with excellent fires | **देवासः (devāsaḥ)** — and shining, the priests | **नः (naḥ)** — our | **वार्यं (vāryaṃ)** — excellent oblation | **हि (hi)** — for which reason | **दधिरे (dadhire)** — they have taken up (for that reason) | **स्वग्नयः (svagnayaḥ)** — joined with auspicious fires (we too) | **मनामहे (manāmahe)** — beseech (you).
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥** The shining priests, joined with excellent fires, have taken up our excellent oblation to offer to you for our welfare. Therefore we too, having auspicious fires, pray to you for our welfare.
+
+### Page 367 — Rik 8: English, Special Topics, grammar
+
+**॥ English Translation ॥** *(as printed)*
 
 > As the brilliant priests possessed of holy fires have taken charge of our oblation, so we with holy fires pray to you.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 367)* **वार्यम्** — *varaṇīyam, śreṣṭham*: the best thing, the oblation. **देवासः** — *dīpyamānā ṛtvijaḥ*: shining priests. **मनामहे** — *tvāṃ yācāmahe*: we pray to you. This rik may also be explained in another way: *svagnayaḥ prasannāgniyuktā devāso devā vāryaṃ varaṇīyaṃ dhanaṃ no 'smabhyaṃ dadhire ca dadati khalu | ataḥ svagnayaḥ prasannāgniyuktā vayaṃ tvāṃ manāmahe stumahe* — 'the gods, accompanied by a gracious Agni, give us the excellent wealth we need; therefore we, joined with Agni, praise you, Agni.' That is: since the gods give us the best wealth and the like, we who serve the fires praise you.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**वार्यं (vāryaṃ)** — *varaṇīyaṃ, śreṣṭham*: an excellent thing, the oblation.
+
+**देवासः (devāsaḥ)** — *dīpyamānā ṛtvijaḥ*: shining priests.
+
+**मनामहे (manāmahe)** — *tvāṃ yācāmahe*: we pray.
+
+This ṛk may also be explained differently: *svagnayaḥ prasannāgniyuktā devāso devā vāryaṃ varaṇīyaṃ dhanaṃ no 'smabhyaṃ dadhire ca dadati khalu | ataḥ svagnayaḥ prasannāgniyuktā vayaṃ tvāṃ manāmahe stumahe* — that is, the gods joined with Agni give us the excellent wealth and the like that we need; therefore we, joined with Agni (worshipping Agni), praise you, Agni.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**वार्यम् (vāryam)** — *vṛñ varaṇe*, svādi. By "ऋहलोर्ण्यत्" (Pā. Sū. 3-1-124), the root ending in *ṛ*, the suffix *ṇyat*; being *ṇit*, by "अचो ञ्णिति" (Pā. Sū. 7-2-115) vṛddhi of the root; followed by *r*: *vārya*; accusative singular. By "ईडवन्दवृशंसदुहां ण्यतः" (Pā. Sū. 6-1-214) these roots ending in *ṇyat* are initially acute; so the suffix accent is set aside and the initial acute comes.
+
+**दधिरे (dadhire)** — *ḍudhāñ dhāraṇapoṣaṇayoḥ*, juhotyādi; in the *liṭ* third plural, by "लिटस्तझयोरेशिरेच्" (Pā. Sū. 3-4-81) *irec* for *jha*; doubling conditioned by *liṭ*; *halādiśeṣa*, shortening and *jaśtva* in the reduplicate; with *dadhā* + *ire*, the suffix being *kit*, by "आतो लोप इटि च" (Pā. Sū. 6-4-64) the *ā* is dropped: *dadhire*. *Irec* being *cit*, by "चितः" (Pā. Sū. 6-1-163) the end-acute comes. Since *hi* precedes, the *nighāta* does not come.
+
+**मनामहे (manāmahe)** — *mana jñāne*, divādi. By "दिवादिभ्यः श्यन्" (Pā. Sū. 3-1-69) *śyan* would come before the first plural; but by "व्यत्ययो बहुलम्"
+
+### Page 368 — Rik 8: grammar (end)
+
+(Pā. Sū. 3-1-85) here the vikaraṇa *śap* comes. By "अतो दीर्घो यञि" (Pā. Sū. 7-3-101) before *mahiṅ* the *a*-final stem is lengthened. By "टित आत्मनेपदानां टेरे" (Pā. Sū. 3-4-79) the suffix takes *e*: *manāmahe*. Following a non-verb, by "तिङ्ङतिङः" (Pā. Sū. 8-1-28) the *nighāta* accent.
+
+**देवासः (devāsaḥ)** — with *deva* + *jas*, by "आज्जसेरसुक्" (Pā. Sū. 7-1-50) the *jas* after an *a*-final stem takes the augment *asuk*: *asas*; lengthening of the like vowel, *rutva* and visarga: *devāsaḥ*. ॥८॥ *(A printed rule follows; Ṛk 9 begins on the same page.)*
+
+---
+
 ### Pages 368–370 — Sūkta 26, Rik 9
 
 **॥ Saṃhitāpāṭhaḥ ॥**
