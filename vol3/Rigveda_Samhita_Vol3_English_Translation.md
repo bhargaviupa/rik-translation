@@ -7024,21 +7024,21 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 ---
 
-### Pages 288–291 — Sūkta 24, Rik 14
+### Page 288 (lower) — Sūkta 24, Rik 14
 
 **॥ Saṃhitā-pāṭhaḥ ॥** *(p. 288)*
 
 > अव॑ ते॒ हेळो॑ वरुण॒ नमो॑भि॒रव॑ य॒ज्ञेभि॑रीमहे
 > ह॒विर्भिः॑ ।
-> क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः [accent ?]
+> क्षय॑न्न॒स्मभ्य॑मसुर प्रचेता॒ राज॒न्नेनां॑सि शिश्रथः
 > कृ॒तानि॑ ॥१४॥
 >
 > *áva te héḷo varuṇa námobhiráva yajñébhirīmahe*
 > *havírbhiḥ |*
-> *kṣáyannasmábhyamasura pracetā rā́jannénāṃsi śiśrathaḥ* [accent ?]
+> *kṣáyannasmábhyamasura pracetā rā́jannénāṃsi śiśrathaḥ*
 > *kṛtā́ni ||14||*
 
-*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. Zoom-read Oct 28. The print sets the verse in four lines, breaking after* ईमहे*, after* हविर्भिः *and after* शिश्रथः*. Flagged [accent ?] on line 3: the bar under* न्न *and the stroke over* भ्य *were taken as marked; at* प्रचेता *only one bar (under* ता*) is printed in the Saṃhitā though the Pada marks* प्रचेतः *twice; no mark is printed on* शिश्रथः *in the Saṃhitā although the Pada marks it, so none is given.)*
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. Zoom-read Oct 28 and re-checked at 300–400 dpi (v3a): every mark is clear, so the earlier [accent ?] on line 3 is withdrawn. The print sets the verse in four lines, breaking after* ईमहे*, after* हविर्भिः *and after* शिश्रथः*. At* प्रचेता *only one bar (under* ता*) is printed in the Saṃhitā though the Pada marks* प्रचेतः *twice; no mark is printed on* शिश्रथः *in the Saṃhitā although the Pada marks it, so none is given.)*
 
 **॥ Pada-pāṭhaḥ ॥**
 
@@ -7046,25 +7046,27 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 > *ava | te | heḷaḥ | varuṇa | namaḥ-bhiḥ | ava | yajñebhiḥ | īmahe | haviḥ-bhiḥ ‖ kṣayan | asmabhyaṃ | asura | praceta iti pra-cetaḥ | rājan | enāṃsi | śiśrathaḥ | kṛtāni ‖14‖*
 
+### Page 289 — Rik 14: bhāṣya, word-meanings, overall sense, English
+
 **॥ Sāyaṇa-bhāṣyam ॥** *(p. 289; transcribed from the print: the old text's* अवभृथेष्टौ तेऽ *is not what is printed, the print reads* अवभृथेऽव ते*)*
 
-> अवभृथेऽव ते हेळ इति द्वे ऋचौ वारुणस्य हविषो याज्यानुवाक्ये । पत्नीसंयाजैश्चरित्वेति खण्डे सूत्रितं । अव ते हेळो वरुण नमोभिरिति द्वे । आ. ६-१३ । इति ॥
+> अवभृथेऽव ते हेळ इति द्वे ऋचौ वारुणस्य हविषो याज्यानुवाक्ये । पत्नीसंयाजैश्चरित्वेति खंडे सूत्रितं । अव ते हेळो वरुण नमोभिरिति द्वे । आ ६-१३ । इति ॥
 
-> *avabhṛthe 'va te heḷa iti dve ṛcau vāruṇasya haviṣo yājyānuvākye | patnīsaṃyājaiścaritveti khaṇḍe sūtritaṃ | ava te heḷo varuṇa namobhiriti dve | ā. 6-13 | iti ‖*
+> *avabhṛthe 'va te heḷa iti dve ṛcau vāruṇasya haviṣo yājyānuvākye | patnīsaṃyājaiścaritveti khaṃḍe sūtritaṃ | ava te heḷo varuṇa namobhiriti dve | ā 6-13 | iti ‖*
 
-> हे वरुण ते तव हेळः क्रोधं नमोभिर्नमस्कारैरवेमहे । अवनयामः । तथा यज्ञेभिः सांगानुष्ठानेन पूज्यैर्हविर्भिरवेमहे । वरुणं परितोष्य क्रोधमुपनयामः । हे असुर अनिष्टक्षेपणशील प्रचेतः प्रकर्षेण प्रज्ञायुक्त राजन् दीप्यमान वरुणास्मभ्यमस्मदर्थं क्षयन्नस्मिन्कर्मणि निवसन्कृतान्यस्माभिरनुष्ठितान्येनांसि पापानि शिश्रथः । श्रथितानि शिथिलानि कुरु ॥
+> हे वरुण ते तव हेळः क्रोधं नमोभिर्नमस्कारैरवेमहे । अवनयामः । तथा यज्ञेभिः सांगानुष्ठानेन पूज्यैर्हविर्भिरवेमहे । वरुणं परितोष्य क्रोधमुपनयामः । हे असुरानिष्टक्षेपणशील प्रचेतः प्रकर्षेण प्रज्ञायुक्त राजन् दीप्यमान वरुणास्मभ्यमस्मदर्थं क्षयन्नस्मिन्कर्मणि निवसन्कृतान्यस्माभिरनुष्ठितान्येनांसि पापानि शिश्रथः । श्रथितानि शिथिलानि कुरु ॥
 
-> *he varuṇa te tava heḷaḥ krodhaṃ namobhirnamaskārairavemahe | avanayāmaḥ | tathā yajñebhiḥ sāṃgānuṣṭhānena pūjyairhavirbhiravemahe | varuṇaṃ paritoṣya krodhamupanayāmaḥ | he asura aniṣṭakṣepaṇaśīla pracetaḥ prakarṣeṇa prajñāyukta rājan dīpyamāna varuṇāsmabhyamasmadarthaṃ kṣayannasminkarmaṇi nivasankṛtānyasmābhiranuṣṭhitānyenāṃsi pāpāni śiśrathaḥ | śrathitāni śithilāni kuru ‖*
+> *he varuṇa te tava heḷaḥ krodhaṃ namobhirnamaskārairavemahe | avanayāmaḥ | tathā yajñebhiḥ sāṃgānuṣṭhānena pūjyairhavirbhiravemahe | varuṇaṃ paritoṣya krodhamupanayāmaḥ | he asurāniṣṭakṣepaṇaśīla pracetaḥ prakarṣeṇa prajñāyukta rājan dīpyamāna varuṇāsmabhyamasmadarthaṃ kṣayannasminkarmaṇi nivasankṛtānyasmābhiranuṣṭhitānyenāṃsi pāpāni śiśrathaḥ | śrathitāni śithilāni kuru ‖*
 
-*(Grammatical tail, p. 289 lower, noted below; the Āś. reference number is read ६-१३, the 3 being the ಇ-shaped glyph.)*
+*(Grammatical tail, p. 289 lower; every number in the bhāṣya was zoom-read at 450 dpi: आ ६-१३ (printed without a point after आ), उ. १-४३, पा. ३-१-४८, ७-४-९३, ७-४-७८.)*
 
-> हेळः । असुनो नित्त्वादाद्युदात्तत्वं । यज्ञेभिः । बहुलं छन्दसीत्यैसभावः । ईमहे । ईज् गतौ । विकरणस्य लुक् । क्षयन् । क्षि निवासगत्योः । लटः शतृ । व्यत्ययेन शप् । आमन्त्रिताद्युदात्तत्वं । असुर । असेरुरन् । उ. १-४३ । आमन्त्रितनिघातः । शिश्रथः । श्रथ दौर्बल्ये । चुरादिरदन्तः । छान्दसे लुङि णिश्रिद्रुस्रुभ्यः । पा. ३-१-४८ । इति च्लेश्चङ् । द्विर्भावहलादिशेषौ । अग्लोपित्वात् सन्वद्भावाभावेऽपि । पा. ७-४-९३ । बहुलं छन्दसि । पा. ७-४-७८ । इत्यभ्यासस्येत्वं । पूर्ववदडभावः ॥
+> हेळः । असुनो नित्त्वादाद्युदात्तत्वं । यज्ञेभिः । बहुलं छंदसीत्यैसभावः । ईमहे । ईज् गतौ । विकरणस्य लुक् । क्षयन् । क्षि निवासगत्योः । लटः शतृ । व्यत्ययेन शप् । आमन्त्रिताद्युदात्तत्वं । असुर । असेरुरन् । उ. १-४३ । आमन्त्रितनिघातः । शिश्रथः । श्रथ दौर्बल्ये । चुरादिरदंतः । छान्दसे लुङि णिश्रिद्रुस्रुभ्यः । पा. ३-१-४८ । इति च्लेश्चङ् । द्विर्भावहलादिशेषौ । अग्लोपित्वात् सन्वद्भावाभावेऽपि । पा. ७-४-९३ । बहुलं छंदसि । पा. ७-४-७८ । इत्यभ्यासस्येत्वं । पूर्ववदडभावः ॥
 
-> *heḷaḥ | asuno nittvādādyudāttatvaṃ | yajñebhiḥ | bahulaṃ chandasītyaisabhāvaḥ | īmahe | īj gatau | vikaraṇasya luk | kṣayan | kṣi nivāsagatyoḥ | laṭaḥ śatṛ | vyatyayena śap | āmantritādyudāttatvaṃ | asura | aseruran | u. 1-43 | āmantritanighātaḥ | śiśrathaḥ | śratha daurbalye | curādiradantaḥ | chāndase luṅi ṇiśridrusrubhyaḥ | pā. 3-1-48 | iti cleścaṅ | dvirbhāvahalādiśeṣau | aglopitvāt sanvadbhāvābhāve 'pi | pā. 7-4-93 | bahulaṃ chandasi | pā. 7-4-78 | ityabhyāsasyetvaṃ | pūrvavadaḍabhāvaḥ ‖*
+> *heḷaḥ | asuno nittvādādyudāttatvaṃ | yajñebhiḥ | bahulaṃ chaṃdasītyaisabhāvaḥ | īmahe | īj gatau | vikaraṇasya luk | kṣayan | kṣi nivāsagatyoḥ | laṭaḥ śatṛ | vyatyayena śap | āmantritādyudāttatvaṃ | asura | aseruran | u. 1-43 | āmantritanighātaḥ | śiśrathaḥ | śratha daurbalye | curādiradaṃtaḥ | chāndase luṅi ṇiśridrusrubhyaḥ | pā. 3-1-48 | iti cleścaṅ | dvirbhāvahalādiśeṣau | aglopitvāt sanvadbhāvābhāve 'pi | pā. 7-4-93 | bahulaṃ chaṃdasi | pā. 7-4-78 | ityabhyāsasyetvaṃ | pūrvavadaḍabhāvaḥ ‖*
 
 *Gist:* In the avabhṛtha rite the two ṛks *ava te heḷaḥ* … are the yājyā and anuvākyā for the oblation to Varuṇa (Āś. 6-13). We lessen your anger with homage, rites and oblations; O wise and shining Varuṇa, dwelling here for us, loosen the sins we have done.
 
-**॥ Prati-padārthaḥ ॥** *(p. 289)* **हे वरुण (he varuṇa)** — O Varuṇa | **ते (te)** — your | **हेळः (heḷaḥ)** — anger | **नमोभिः (namobhiḥ)** — with salutations | **अव ईमहे (ava īmahe)** — we bring down | **(तथा — likewise)** | **यज्ञेभिः (yajñebhiḥ)** — with worshipful [rites] | **हविर्भिः (havirbhiḥ)** — with oblations | **अव (ईमहे)** — we lessen | **हे असुर (he asura)** — O one whose nature is to cast off what is unwished | **प्रचेतः (pracetaḥ)** — wise | **राजन् (rājan)** — shining [Varuṇa] | **अस्मभ्यम् (asmabhyam)** — for us | **क्षयन् (kṣayan)** — [in this rite] dwelling | **कृतानि (kṛtāni)** — done by us | **एनांसि (enāṃsi)** — sins | **शिश्रथः (śiśrathaḥ)** — make slack
+**॥ Prati-padārthaḥ ॥** *(p. 289)* **हे वरुण (he varuṇa)** — O Varuṇa | **ते (te)** — your | **हेळः (heḷaḥ)** — anger | **नमोभिः (namobhiḥ)** — with salutations | **अव ईमहे (ava īmahe)** — we bring down | **(तथा — likewise)** | **यज्ञैः (yajñaiḥ)** *(so printed here, though the Saṃhitā has* यज्ञेभिः*)* — with worshipful [rites] | **हविर्भिः (havirbhiḥ)** — with oblations | **अव (ईमहे)** — we lessen | **हे असुर (he asura)** — O one whose nature is to cast off what is unwished | **प्रचेतः (pracetaḥ)** — wise | **राजन् (rājan)** — shining [Varuṇa] | **अस्मभ्यम् (asmabhyam)** — for us | **क्षयन् (kṣayan)** — [in this rite] dwelling | **कृतानि (kṛtāni)** — done by us | **एनांसि (enāṃsi)** — sins | **शिश्रथः (śiśrathaḥ)** — make slack
 
 **॥ Bhāvārthaḥ ॥** *(p. 289)* O Varuṇa, we make your anger lessen by homage, by rites and by oblations. O remover of what is unwished, wise and shining Varuṇa, being for us in this rite, remove the sins done by us.
 
@@ -7072,9 +7074,11 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 > Varuna, we propitiate your anger with prostrations, with sacrifices, with oblations; averter of misfortunes and the wise, be present amongst us and slacken the sins we have committed.
 
+### Page 290 — Rik 14: Special Topics, grammar
+
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 290)* At the *avabhṛtha*, the bathing rite at the close of the sacrifice, when an oblation is offered to Varuṇa, the ṛk *ava te heḷaḥ* and the next ṛk *udutamam* are the yājyā and anuvākyā; this is set out in the Āśvalāyana Śrauta-sūtra, in the section *patnīsaṃyājaiś caritvā*, by the sūtra *ava te heḷo varuṇa namobhir iti dve* (Ā. 6-13).
 
-**हेळः (heḷaḥ)** — *krodham*, anger; *kopa*. Since the word *heḷaḥ* is read among the names of anger beginning *heḷaḥ, haraḥ* (the printed count is "ಹನ್ನೆಂದು", read as "eleven" [?]), *heḷaḥ* means anger (Ni. 3-9).
+**हेळः (heḷaḥ)** — *krodham*, anger; *kopa*. Since the word *heḷaḥ* is read among the names of anger beginning *heḷaḥ, haraḥ* (the printed count is "ಹನ್ನೆಂದು", clearly so on a zoom; probably a misprint for ಹನ್ನೊಂದು "eleven": mine and tentative), *heḷaḥ* means anger (Ni. 3-9).
 
 **अव ईमहे (ava īmahe)** — *avanayāmaḥ*: we do away with, we pacify.
 
@@ -7084,23 +7088,27 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 **प्रचेतः (pracetaḥ)** — one who knows well, wise.
 
-**शिश्रथः (śiśrathaḥ)** — *śrath dauurbalye*; *śrathitāni śithilāni*; make [them] slack, remove them.
+**शिश्रथः (śiśrathaḥ)** — *śrath daurbalye*; *śrathitāni śithilāni*; make [them] slack, remove them.
 
 **॥ Vyākaraṇa-prakriyā ॥** *(pp. 290–291; grammar noted briefly; the numbers were read from strips at page width except where marked)*
 
-**हेळः (heḷaḥ)** — root *heḍṛ anādare*, bhvādi; by "सर्वधातुभ्योऽसुन्" (Uṇ. Sū. 4-6-28) the suffix *asun*; *heḷas*, a neuter stem ending in *s*; since *asun* is *nit*, by "ञ्नित्यादिर्नित्यम्" (Pā. Sū. 6-1-197) the form is initially udātta.
+**हेळः (heḷaḥ)** — root *heḍṛ anādare*, bhvādi; by "सर्वधातुभ्योऽसुन्" (Uṇ. Sū. 4-6-28, as printed: ೪-೬-೨೮, zoom-read) the suffix *asun*; *heḷas*, a neuter stem ending in *s*; since *asun* is *nit*, by "ञ्नित्यादिर्नित्यम्" (Pā. Sū. 6-1-197) the form is initially udātta.
 
 **यज्ञेभिः (yajñebhiḥ)** — the third plural takes *bhis*; after a stem in *a* the *ais* substitute (*aisādeśa*) would be attained, but by "बहुलं छन्दसि" (Pā. Sū. 7-1-10) it is optional in the Veda, so it does not come here; by "बहुवचने झल्येत्" (Pā. Sū. 7-3-103) the stem's *a* becomes *e*; with *ruttva* and visarga the form is *yajñebhiḥ*.
 
 **ईमहे (īmahe)** — root *īj gatau*, divādi; by "टित आत्मनेपदानां टेरे" (Pā. Sū. 3-4-79) the *ṭi* of the *laṭ* first-person plural ending *mahiṅ* becomes *e*; *śyan* would come as vikaraṇa but by "बहुलं छन्दसि" it takes *luk*; *īmahe*.
 
-**क्षयन् (kṣayan)** — root *kṣi nivāsagatyoḥ*, tudādi; *śatṛ* for the *laṭ* of present sense; *śap* for the vikaraṇa by *vyatyaya*; guṇa of the root; *kṣayat*; in the vocative the *num* augment, then the loss of the *hal* ending and of the final consonant of the conjunct give *kṣayan*. By "आमन्त्रितस्य च" (Pā. Sū. 6-1-198) it is initially udātta.
+**क्षयन् (kṣayan)** — root *kṣi nivāsagatyoḥ*, tudādi; *śatṛ* for the *laṭ* of present sense; *śap* for the vikaraṇa by "व्यत्ययो बहुलम्" (*vyatyayo bahulam*; no number printed).
+
+### Page 291 — Rik 14: grammar (end)
+
+*(kṣayan, continued)* Guṇa of the root; *kṣayat*; in the vocative the *num* augment, then the loss of the *hal* ending and of the final consonant of the conjunct give *kṣayan*. By "आमन्त्रितस्य च" (Pā. Sū. 6-1-198) it is initially udātta.
 
 **असुर (asura)** — root *asu kṣepaṇe*, divādi; by "असेरुरन्" (Uṇ. Sū. 1-42, as printed on p. 291; the bhāṣya on p. 289 prints 1-43) the suffix *uran*; the vocative *asura*; by "आमन्त्रितस्य च" (Pā. Sū. 8-1-19) the *nighāta* accent.
 
-**शिश्रथः (śiśrathaḥ)** — root *śrath dauurbalye*, curādi, ending in *a*; the svārthika *ṇic*; before *ṇic* by "अतो लोपः" (Pā. Sū. 6-4-48) the root's *a* is dropped; *śrathi* has the name *dhātu* by "सनाद्यन्ता धातवः" (Pā. Sū. 3-1-32); then by "छन्दसि लुङ्लङ्लिटः" (Pā. Sū. 3-4-6) *luṅ* in the sense of the imperative; the second person singular *sip*; "इतश्च" (Pā. Sū. 3-4-100) drops the *i*; *cli* attained in the *luṅ*, and by "णिश्रिद्रुस्रुभ्यः कर्तरि चङ्" (Pā. Sū. 3-1-48) *caṅ* replaces it after a *ṇyanta* of these roots; by "णेरनिटि" (Pā. Sū. 6-4-51) the *ṇi* is dropped; *śrath* + *a* + *s* is doubled by "चङि" (Pā. Sū. 6-1-11); by "हलादिः शेषः" (Pā. Sū. 7-4-60) only the first consonant remains; because the *ṇic*-conditioned *a* has been dropped, no further operation is attained; "सन्वल्लघुनि चङ् परे" (Pā. Sū. 7-4-93) would give *san*-like doubling but, the *a* having been dropped, it does not apply; yet by "बहुलं छन्दसि" (Pā. Sū. 7-4-78) the reduplicate takes *i*; the suffix *s* becomes visarga; *śiśrathaḥ*. By "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) the augment *aṭ* does not come; being a *tiṅanta* it takes the *nighāta* accent.
+**शिश्रथः (śiśrathaḥ)** — root *śrath daurbalye*, curādi, ending in *a*; the svārthika *ṇic*; before *ṇic* by "अतो लोपः" (Pā. Sū. 6-4-48) the root's *a* is dropped; *śrathi* has the name *dhātu* by "सनाद्यन्ता धातवः" (Pā. Sū. 3-1-32); then by "छन्दसि लुङ्लङ्लिटः" (Pā. Sū. 3-4-6) *luṅ* in the sense of the imperative; the second person singular *sip*; "इतश्च" (Pā. Sū. 3-4-100) drops the *i*; *cli* attained in the *luṅ*, and by "णिश्रिद्रुस्रुभ्यः कर्तरि चङ्" (Pā. Sū. 3-1-48) *caṅ* replaces it after a *ṇyanta* of these roots; by "णेरनिटि" (Pā. Sū. 6-4-51) the *ṇi* is dropped; *śrath* + *a* + *s* is doubled by "चङि" (Pā. Sū. 6-1-11); by "हलादिः शेषः" (Pā. Sū. 7-4-60) only the first consonant remains; because the *ṇic*-conditioned *a* has been dropped, no further operation is attained; "सन्वल्लघुनि चङ् परे" (Pā. Sū. 7-4-93) would give *san*-like doubling but, the *a* having been dropped, it does not apply; yet by "बहुलं छन्दसि" (Pā. Sū. 7-4-78) the reduplicate takes *i*; the suffix *s* becomes visarga; *śiśrathaḥ*. By "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) the augment *aṭ* does not come; being a *tiṅanta* it takes the *nighāta* accent.
 
-*(Numbers on pp. 290–291 were read at the width of a 2400-px strip, not each zoomed; the zoom-checked ones are Ā. 6-13, Uṇ. 1-43/1-42, Ni. 3-9 and Ni. 8-18.)*
+*(Every number on pp. 290–291 was zoom-read at 450 dpi (v3a, Oct 28): Ā 6-13, Ni. 3-9, Ni. 8-18, Uṇ. 4-6-28, Pā. 6-1-197, 7-1-10, 7-3-103, 3-4-79, 6-1-198, Uṇ. 1-42 (the last digit is the curled 2 here, against the ಇ-shaped 3 of the bhāṣya's उ. १-४३ on p. 289), 8-1-19, 6-4-48, 3-1-32, 3-4-6, 3-4-100, 3-1-48, 6-4-51, 6-1-11, 7-4-60, 7-4-93, 7-4-78, 6-4-75. P. 291 ends with a printed ornament.)*
 
 ---
 
