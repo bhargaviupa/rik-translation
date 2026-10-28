@@ -7424,15 +7424,15 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Sāyaṇa's introduction *(p. 411)*
 
-> **एकादशानुवाके सप्त सूक्तानि । तत्र नू चिदिति नवर्चं प्रथमं सूक्तं गौतमस्य नोधस आर्षमाग्नेयम् । आद्याः पञ्च जगत्यः । शिष्टाश्चतस्रस्त्रिष्टुभः । तथा चानुक्रान्तम् । नू चिन्नव नोधा गौतम आग्नेयं हि चतुस्त्रिष्टुबन्तमिति । हीति वचनादुत्तरे च द्वे सूक्ते अग्निदेवताके ॥ अभिप्लवषडहस्य पञ्चमेऽहन्यग्निमारुते इदं जातवेदस्यं निविद्धानं । तृतीयस्येति खण्डे सूत्रितं । पृक्षस्य वृष्णो वृष्णे शर्धाय नू चित्सहोजा इत्यग्निमारुतं । आ. [?] । इति ॥ प्रातरनुवाकस्याग्नेये क्रतावाश्विनशस्त्रे च जागते छन्दस्यादितः पञ्चर्चः । सूत्रितं च । त्वमग्ने प्रथमो अङ्गिरा नू चित्सहोजा अमृतो नि तुन्दत इति पञ्च । आ. ४-१३ । इति ॥**
+> **एकादशानुवाके सप्त सूक्तानि । तत्र नू चिदिति नवर्चं प्रथमं सूक्तं गौतमस्य नोधस आर्षमाग्नेयम् । आद्याः पञ्च जगत्यः । शिष्टाश्चतस्रस्त्रिष्टुभः । तथा चानुक्रान्तम् । नू चिन्नव नोधा गौतम आग्नेयं हि चतुस्त्रिष्टुबन्तमिति । हीति वचनादुत्तरे च द्वे सूक्ते अग्निदेवताके ॥ अभिप्लवषडहस्य पञ्चमेऽहन्यग्निमारुते इदं जातवेदस्यं निविद्धानं । तृतीयस्येति खण्डे सूत्रितं । पृक्षस्य वृष्णो वृष्णे शर्धाय नू चित्सहोजा इत्यग्निमारुतं । आ. ७-७ । इति ॥ प्रातरनुवाकस्याग्नेये क्रतावाश्विनशस्त्रे च जागते छन्दस्यादितः पञ्चर्चः । सूत्रितं च । त्वमग्ने प्रथमो अङ्गिरा नू चित्सहोजा अमृतो नि तुन्दत इति पञ्च । आ. ४-१३ । इति ॥**
 
-*ekādaśānuvāke sapta sūktāni | tatra nū cid iti navarcaṃ prathamaṃ sūktaṃ gautamasya nodhasa ārṣam āgneyam | ādyāḥ pañca jagatyaḥ | śiṣṭāś catasras triṣṭubhaḥ | tathā cānukrāntam | nū cin nava nodhā gautama āgneyaṃ hi catustriṣṭubantam iti | hīti vacanād uttare ca dve sūkte agnidevatāke || abhiplavaṣaḍahasya pañcame 'hany agnimārute idaṃ jātavedasyaṃ nividdhānaṃ | tṛtīyasyeti khaṇḍe sūtritaṃ | pṛkṣasya vṛṣṇo vṛṣṇe śardhāya nū cit sahojā ity agnimārutam | ā. [?] | iti || prātaranuvākasyāgneye kratāv āśvinaśastre ca jāgate chandasy āditaḥ pañcarcaḥ | sūtritaṃ ca | tvam agne prathamo aṅgirā nū cit sahojā amṛto ni tundata iti pañca | ā. 4-13 | iti ||*
+*ekādaśānuvāke sapta sūktāni | tatra nū cid iti navarcaṃ prathamaṃ sūktaṃ gautamasya nodhasa ārṣam āgneyam | ādyāḥ pañca jagatyaḥ | śiṣṭāś catasras triṣṭubhaḥ | tathā cānukrāntam | nū cin nava nodhā gautama āgneyaṃ hi catustriṣṭubantam iti | hīti vacanād uttare ca dve sūkte agnidevatāke || abhiplavaṣaḍahasya pañcame 'hany agnimārute idaṃ jātavedasyaṃ nividdhānaṃ | tṛtīyasyeti khaṇḍe sūtritaṃ | pṛkṣasya vṛṣṇo vṛṣṇe śardhāya nū cit sahojā ity agnimārutam | ā. 7-7 | iti || prātaranuvākasyāgneye kratāv āśvinaśastre ca jāgate chandasy āditaḥ pañcarcaḥ | sūtritaṃ ca | tvam agne prathamo aṅgirā nū cit sahojā amṛto ni tundata iti pañca | ā. 4-13 | iti ||*
 
-*(Reading note: the Anukramaṇī words read "nū cin nava" ("*nū cit*, nine [Riks]"). The first Āśvalāyana reference is printed with two identical digits, either 2-2 or 7-7 (the glyph is not settled from the crop): [?]. Āśv. 4-13 as printed.)*
+*(Reading note: the Anukramaṇī words read "nū cin nava" ("*nū cit*, nine [Riks]"). The first Āśvalāyana reference reads 7-7 (both digits flat-footed, compared side by side with a curled 2 of the same type); Āśv. 4-13 as printed.)*
 
-**Translation:** "In the eleventh anuvāka there are seven sūktas. Of them, '*nū cit*' is the first, of nine Riks; the seer is Nodhas Gautama, the deity Agni; the first five are Jagatī, the remaining four Triṣṭubh; so the Anukramaṇī: '*nū cin nava*, Nodhas Gautama, Agni; *hi*: ending with four Triṣṭubhs'; by the word *hi*, the two following sūktas also have Agni as deity. On the fifth day of the Abhiplava ṣaḍaha this is the *jātavedasya nivid*-accompaniment of the Agni–Māruta [recitation]: in the section 'of the third' it is aphorized: 'pṛkṣasya vṛṣṇo vṛṣṇe śardhāya, nū cit sahojāḥ' is the Agni–Māruta (Āśv. [?]). In the Prātaranuvāka, in the Āgneya rite and in the Āśvina-śastra, the first five Riks, being Jagatī: so aphorized: 'tvam agne prathamo aṅgirāḥ, nū cit sahojā amṛto ni tundate' — five (Āśv. 4-13)."
+**Translation:** "In the eleventh anuvāka there are seven sūktas. Of them, '*nū cit*' is the first, of nine Riks; the seer is Nodhas Gautama, the deity Agni; the first five are Jagatī, the remaining four Triṣṭubh; so the Anukramaṇī: '*nū cin nava*, Nodhas Gautama, Agni; *hi*: ending with four Triṣṭubhs'; by the word *hi*, the two following sūktas also have Agni as deity. On the fifth day of the Abhiplava ṣaḍaha this is the *jātavedasya nivid*-accompaniment of the Agni–Māruta [recitation]: in the section 'of the third' it is aphorized: 'pṛkṣasya vṛṣṇo vṛṣṇe śardhāya, nū cit sahojāḥ' is the Agni–Māruta (Āśv. 7-7). In the Prātaranuvāka, in the Āgneya rite and in the Āśvina-śastra, the first five Riks, being Jagatī: so aphorized: 'tvam agne prathamo aṅgirāḥ, nū cit sahojā amṛto ni tundate' — five (Āśv. 4-13)."
 
-**Anuvāda (Kannada, p. 411)** — "From this sūkta the eleventh anuvāka of the first maṇḍala begins. This anuvāka has seven sūktas. Of them, '*nū cit*' is the first. It has nine Riks. The seer is Nodhas, son of Gotama; the deity is Agni. The first five Riks are Jagatī, the remaining four Triṣṭubh. In the Anukramaṇikā: '*nū cinnava nodhā gautama āgneyaṃ hi catustriṣṭubantam*'; by the word *hi*, the next two sūktas also have Agni as deity. On the fifth day of the sacrifice called *Abhiplavaṣaḍaha*, in the Agni–Māruta mantras this sūkta serves the *jātavedasya nivid*-mantras, in Āśvalāyana Śrauta Sūtra's section '*tṛtīyasya*' (Āśv. [?]); and, at the time of reciting the Prātaranuvāka mantras, in the Āgneya-kratu and the Aśvin-śastra, the first five Jagatī Riks are used (Āśv. 4-13)."
+**Anuvāda (Kannada, p. 411)** — "From this sūkta the eleventh anuvāka of the first maṇḍala begins. This anuvāka has seven sūktas. Of them, '*nū cit*' is the first. It has nine Riks. The seer is Nodhas, son of Gotama; the deity is Agni. The first five Riks are Jagatī, the remaining four Triṣṭubh. In the Anukramaṇikā: '*nū cinnava nodhā gautama āgneyaṃ hi catustriṣṭubantam*'; by the word *hi*, the next two sūktas also have Agni as deity. On the fifth day of the sacrifice called *Abhiplavaṣaḍaha*, in the Agni–Māruta mantras this sūkta serves the *jātavedasya nivid*-mantras, in Āśvalāyana Śrauta Sūtra's section '*tṛtīyasya*' (Āśv. 7-7); and, at the time of reciting the Prātaranuvāka mantras, in the Āgneya-kratu and the Aśvin-śastra, the first five Jagatī Riks are used (Āśv. 4-13)."
 
 ### Heading block of Sūkta 58 *(p. 412, PDF 428)*
 
@@ -7548,13 +7548,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.3 (pp. 418–421, PDF 434–437)
 
-**Saṃhitā-pāṭha** *(p. 418)*
+**Saṃhitā-pāṭha** *(p. 418; accents as printed)*
 
-> **क्राणा रुद्रेभिर्वसुभिः पुरोहितो होता निषत्तो रयिषाळमर्त्यः ।**
-> **रथो न विक्ष्वृञ्जसान आयुषु व्यानुषग्वार्या देव ऋण्वति ॥ ३ ॥**
+> **क्रा॒णा रु॒द्रेभि॒र्वसु॑भिः पु॒रोहि॑तो॒ होता॒ निष॑त्तो॒ रयि॒षाळम॑र्त्यः ।**
+> **रथो॒ न वि॒क्ष्वृ॑ञ्जसा॒न आ॒युषु॒ व्या॑नु॒षग्वार्या॑ दे॒व ऋ॑ण्वति ॥ ३ ॥**
 
-*krāṇā rudrebhir vasubhiḥ purohito hotā niṣatto rayiṣāḷ amartyaḥ |*
-*ratho na vikṣv ṛñjasāna āyuṣu vy ānuṣag vāryā deva ṛṇvati || 3 ||*
+*krāṇā́ rudrébhir vásubhiḥ puróhito hótā níṣatto rayiṣā́ḷ ámartyaḥ |*
+*rátho ná vikṣv ṛñjasāná āyúṣu vy ā̀nuṣág vā́ryā devá ṛṇvati || 3 ||*
+
+*(The marks on निषत्तो and विक्ष्वृ are given where the print puts them (stroke over ष and over क्ष्वृ); whether the र of रयि carries an underline at the line break is not clear: [accent ?].)*
 
 **Pada-pāṭha** *(p. 418)*
 
@@ -7566,11 +7568,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(pp. 418–419)*
 
-> **क्राणा हविर्वहनं कुर्वाणो रुद्रेभी रुद्रैर्वसुभिश्च पुरोहितः पुरस्कृतो होता देवानामाह्वाता निषत्तो हविःस्वीकरणायं देवयजने निषण्णो रयिषाट् रयीणां शत्रुधनानामभिभवितामर्त्यो मरणरहितः । एवंभूतो देवो द्योतमानोऽग्निर्विक्षु प्रजासु लौकिकजनेषु रथो न रथ इवायुषु यजमानलक्षणेषु मनुष्येष्वृञ्जसानः स्तूयमानो वार्या वार्याणि संभजनीयानि धनान्यानुषक् आनुषक्तं यथा भवति तथा वि ऋण्वति । विशेषेण प्रापयति । यद्वा । वार्याणि वरणीयानि हवींषि स्वयं प्राप्नोति ॥**
+> **क्राणा हविर्वहनं कुर्वाणो रुद्रेभी रुद्रैर्वसुभिश्च पुरोहितः पुरस्कृतो होता देवानामाह्वाता निषत्तो हविःस्वीकरणाय देवयजने निषण्णो रयिषाट् रयीणां शत्रुधनानामभिभवितामर्त्यो मरणरहितः । एवंभूतो देवो द्योतमानोऽग्निर्विक्षु प्रजासु लौकिकजनेषु रथो न रथ इवायुषु यजमानलक्षणेषु मनुष्येष्वृञ्जसानः स्तूयमानो वार्या वार्याणि संभजनीयानि धनान्यानुषक् आनुषक्तं यथा भवति तथा व्यृण्वति । विशेषेण प्रापयति । यद्वा । वार्याणि वरणीयानि हवींषि स्वयं प्राप्नोति ॥**
 
-*krāṇā havirvahanaṃ kurvāṇo rudrebhī rudrair vasubhiś ca purohitaḥ puraskṛto hotā devānām āhvātā niṣatto haviḥsvīkaraṇāya devayajane niṣaṇṇo rayiṣāṭ rayīṇāṃ śatrudhanānām abhibhavitāmartyo maraṇarahitaḥ | evaṃbhūto devo dyotamāno 'gnir vikṣu prajāsu laukikajaneṣu ratho na ratha ivāyuṣu yajamānalakṣaṇeṣu manuṣyeṣv ṛñjasānaḥ stūyamāno vāryā vāryāṇi saṃbhajanīyāni dhanāny ānuṣak ānuṣaktaṃ yathā bhavati tathā vi ṛṇvati | viśeṣeṇa prāpayati | yadvā | vāryāṇi varaṇīyāni havīṃṣi svayaṃ prāpnoti ||*
+*krāṇā havirvahanaṃ kurvāṇo rudrebhī rudrair vasubhiś ca purohitaḥ puraskṛto hotā devānām āhvātā niṣatto haviḥsvīkaraṇāya devayajane niṣaṇṇo rayiṣāṭ rayīṇāṃ śatrudhanānām abhibhavitāmartyo maraṇarahitaḥ | evaṃbhūto devo dyotamāno 'gnir vikṣu prajāsu laukikajaneṣu ratho na ratha ivāyuṣu yajamānalakṣaṇeṣu manuṣyeṣv ṛñjasānaḥ stūyamāno vāryā vāryāṇi saṃbhajanīyāni dhanāny ānuṣak ānuṣaktaṃ yathā bhavati tathā vy ṛṇvati | viśeṣeṇa prāpayati | yadvā | vāryāṇi varaṇīyāni havīṃṣi svayaṃ prāpnoti ||*
 
-*(The tail — on *krāṇā* (*kṛ* + *kānac* with *karoter bahulaṃ chandasi*, loss of *śap*; *citaḥ*), *rayiṣāṭ* (*saheḥ sāḍaḥ saḥ*; *chandasi sahaḥ*; *ṣatva*), *ṛñjasānaḥ* (*ṛñjatiḥ stutikarmā*; *āsānajityanuvṛtyā…*; *kit*), *āyuṣu* (*āyuḥ iti manuṣyanāma*; Uṇādi *uṣ*), *vāryā* (*vṛñ saṃbhaktau*; *ṇyat*), *ṛṇvati* (*ṛ gatau*; *svādi*; *śnu*; *vyatyaya*; *nighāta*) — is characterized.)*
+*(The tail, p. 419 — on *krāṇā* (*śānac*; *bahulaṃ chandasi*: *luk* of the *vikaraṇa*; *citaḥ*), *niṣattaḥ* (*nasattaniṣatta…*, Pā. 8-2-61), *rayiṣāṭ* (*chandasi sahaḥ*, Pā. 3-2-63; *saheḥ sāḍaḥ saḥ*, Pā. 8-3-56), *ṛñjasānaḥ* (*ṛñjatiḥ stutikarmā*; *ṛñjivṛdhimandisahibhyaḥ kit*, Uṇ. 2-87 as printed here; 2-84 in the grammar notes), *āyuṣu* (*āyuḥ iti manuṣyanāma*; Uṇādi *uṣ*), *vāryā* (*vṛñ saṃbhaktau*; *ṇyat*), *ṛṇvati* (*ṛ gatau*; *svādi*; *śnu*; *vyatyaya*; *nighāta*) — is characterized.)*
 
 **Translation of the bhāṣya:** "*Krāṇā*, doing the carrying of oblations; *rudrebhiḥ vasubhiḥ puro-hitaḥ*, placed in front by the Rudras and Vasus; *hotā*, the invoker of the gods; *niṣattaḥ*, seated at the sacrifice to receive the oblations; *rayiṣāṭ*, conqueror of the wealth of enemies; *amartyaḥ*, deathless; such the god, shining Agni, *vikṣu*, among the people, in worldly folk, *ratho na*, like a chariot, *āyuṣu*, among men, the sacrificers, *ṛñjasānaḥ*, being praised, *vi ṛṇvati*, attains in special measure *vāryā*, desirable wealth, *ānuṣak*, in succession; or: he himself receives the choice oblations."
 
@@ -7593,16 +7595,16 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **niṣattaḥ** — "*Haviḥsvīkaraṇāya devayajane niṣaṇṇaḥ*: Agni is seated, ready to accept the oblation in all the sacrificial acts performed for the sake of the deities."
 - **rayiṣāṭ** — "From the root *saha abhibhave* [*sah*, with the sense of overcoming] comes *ṣāṭ*, 'one who overcomes'; here *rayi* is wealth of enemies: one who wholly destroys, wins and brings the property of enemies."
 - **vikṣu ratho na** — "As a chariot is the means of accomplishing wishes for people engaged in worldly transactions, so Agni is specially helpful to sacrificers in offering the share of the sacrifice to the deities they desire."
-- **āyuṣu** — "*Yajamānalakṣaṇeṣu manuṣyeṣu*: here the word *āyus* means 'man'; it is read so in the Nirukta (Ni. 3-3-… as read [?])."
+- **āyuṣu** — "*Yajamānalakṣaṇeṣu manuṣyeṣu*: here the word *āyus* means 'man'; it is read so in the Nirukta (Niru. 2-3-12)."
 - **vi ṛṇvati** — "From the root *ṛvi gatau*: it means 'obtains in a special way'."
 
 **Vyākaraṇa-prakriyā** *(pp. 420–421 — grammar pages, noted briefly)*
 - **krāṇā**: *ḍukṛñ karaṇe*; *śānac*; *bahulaṃ chandasi*: *u* of the characteristic dropped; being *apit sārvadhātuka*, *ṅit*: no *guṇa*; *yaṇ*; *āṭ kupvāṅ…*: *ṇatva*; *citaḥ*: end-acute; *supāṃ suluk*: lengthening of the vibhakti: *krāṇā*.
 - **niṣattaḥ**: *ṣadḷ viśaraṇagatyavasādaneṣu*; *kta*; *natva* barred by *nasattaniṣatta…* (Pā. 8-2-61) given by *nipāta*; *upasargāt sunoti…*: *ṣatva*; *gatir anantaraḥ*: prefix accent.
-- **rayiṣāṭ**: *saha abhibhave*; *chandasi sahaḥ*: *ṇvi*; *ata upadhāyāḥ*: *vṛddhi*; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*; *vānasaṃsaneyā*… optional *ṭ* or *ḍ*; *saheḥ sāḍaḥ saḥ*: *ṣatva*: *rayiṣāṭ*.
-- **ṛñjasānaḥ**: *ṛji* in the sense of praise; *asānac*; *ṛñjivṛdhimandi sahibhyaḥ kit* (Uṇ. 2-… as read [?]): *asānac* in the object sense; *kit*; *citaḥ*: end-acute.
-- **āyuṣu**: *āyavaḥ iti manuṣyanāma*; *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-… as read [?]): *uṇ*; *ṇit*: *vṛddhi*; *ay*: *āyu*; suffix-accent: end-acute; locative plural.
-- **vāryā**: *vṛñ saṃbhaktau*; *ṛhaloṇyat*: *ṇyat*; *ṇit*: *vṛddhi*; *titsvaritam*: *svarita* is obtained, but *īḍavandavṛśaṃsa…*: initial-acute; in the neuter plural *śi*, dropped by *śeś chandasi bahulam*.
+- **rayiṣāṭ**: *saha abhibhave*; *chandasi sahaḥ* (Pā. 3-2-63): *ṇvi*; *ata upadhāyāḥ*: *vṛddhi*; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*; *vānasaṃsaneyā*… optional *ṭ* or *ḍ*; *saheḥ sāḍaḥ saḥ* (Pā. 8-3-56): *ṣatva*: *rayiṣāṭ*.
+- **ṛñjasānaḥ**: *ṛji* in the sense of praise; *asānac*; *ṛñjivṛdhimandi sahibhyaḥ kit* (Uṇ. 2-84): *asānac* in the object sense; *kit*; *citaḥ*: end-acute.
+- **āyuṣu**: *āyavaḥ iti manuṣyanāma* (Niru. 2-3-12); *iṇ gatau*; *chandasīṇaḥ* (Uṇ. 1-2): *uṇ*; *ṇit*: *vṛddhi*; *ay*: *āyu*; suffix-accent: end-acute; locative plural.
+- **vāryā**: *vṛñ saṃbhaktau*; *ṛhalor ṇyat* (Pā. 3-1-124): *ṇyat*; *ṇit*: *vṛddhi*; *titsvaritam*: *svarita* is obtained, but *īḍavandavṛśaṃsa…* (Pā. 6-1-214): initial-acute; in the neuter plural *śi*, dropped by *śeś chandasi bahulam*.
 - **ṛṇvati**: *ṛvi gatau*; *idito num dhātoḥ*; *vyatyaya*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*: earlier form; *laṭ*; *kartari śap*; *ṛvarṇān nasya ṇatvaṃ vācyam*; *nighāta*. **|| 3 ||**
 
 ---
