@@ -6636,42 +6636,80 @@ The word *bādhasva* ("afflict") makes it impossible for the sense to be the ear
 
 ---
 
-### Pages 274–277 — Sūkta 24, Rik 10
+### Page 274 — Sūkta 24, Rik 10
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अमी य ऋक्षा निहितास उच्चा नक्तं ददृश्रे कुह चिद्दिवेयुः ।
-> अदब्धानि वरुणस्य व्रतानि विचाकशच्चन्द्रमा नक्तमेति ॥ १० ॥
+> अ॒मी य ऋक्षा॒ निहि॑तास उ॒च्चा न॒क्तं ददृ॑श्रे॒ कुह॑ [accent ?]
+> चि॒द्दिवे॑युः ।
+> अद॑ब्धानि॒ वरु॑णस्य व्र॒तानि॑ वि॒चाक॑शच्च॒न्द्रमा॒ नक्त॑- [accent ?]
+> मेति ॥१०॥
 
-*amī ya ṛkṣā nihitāsa uccā naktaṃ dadṛśre kuha cid diveyuḥ | adabdhāni varuṇasya vratāni vicākaśac candramā naktam eti || 10 ||*
+> *a̱mī ya ṛkṣā̱ nihi̭tāsa u̱ccā na̱ktaṃ dadṛ̭śre̱ kuha̭*
+> *ci̱ddivḙyuḥ |*
+> *ada̭bdhāni̱ varṷṇasya vra̱tāni̭ vi̱cāka̭śacca̱ndramā̱ nakta̭-*
+> *meti ||10||*
+>
+> *amī́ ya ṛkṣā́ níhitāsa uccā́ naktáṃ dádṛśre kúha*
+> *ciddíveyuḥ |*
+> *ádabdhāni váruṇasya vratā́ni vicā́kaśaccandrámā nákta-*
+> *meti ||10||* [accent ?]
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* कुह*,* चिद्दिवेयुः *and* नक्त-*. In line 3 the print has an anudātta stroke under the lower* च *of* -शच्च- *and under* मा *of* चन्द्रमा*, and a svarita stroke over the* क्त *of* नक्त- *at the line end; these differ from what one might expect for these words and are recorded as printed, flagged [accent ?]. Line 1 has strokes under* अ*,* ऋक्षा*,* उ*,* न *and* श्रे*, over* हि*,* दृ *and* ह*.)*
 
-> अमी इति । ये । ऋक्षाः । निऽहितासः । उच्चा । नक्तम् । ददृश्रे । कुह । चित् । दिवा । ईयुः ॥ अदब्धानि । वरुणस्य । व्रतानि । विऽचाकशत् । चन्द्रमाः । नक्तम् । एति ॥ १० ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*amī iti | ye | ṛkṣāḥ | ni-hitāsaḥ | uccā | naktam | dadṛśre | kuha | cit | divā | īyuḥ || adabdhāni | varuṇasya | vratāni | vi-cākaśat | candramāḥ | naktam | eti || 10 ||*
+> अमी इति । ये । ऋक्षाः । निऽहितासः । उच्चा । नक्तं । ददृश्रे । कुह । चित् । दिवा । ईयुः ॥ अदब्धानि । वरुणस्य । व्रतानि । विऽचाकशत् । चन्द्रऽमाः । नक्तं । एति ॥१०॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 274)*
+> *amī iti | ye | ṛkṣāḥ | ni-hitāsaḥ | uccā | naktaṃ | dadṛśre | kuha | cit | divā | īyuḥ ‖ adabdhāni | varuṇasya | vratāni | vi-cākaśat | candra-māḥ | naktaṃ | eti ‖10‖*
 
-> अमी रात्रावस्माभिर्दृश्यमाना ऋक्षाः सप्त ऋषयः । तथा च वाजसनेयिन आमनन्ति — ऋक्षा इति ह स्म वै पुरा सप्त ऋषीनाचक्षते इति । यद्वा । ऋक्षाः सर्वेऽपि नक्षत्रविशेषाः । ऋक्षाः स्पृभिरिति नक्षत्रनामसु (नि. ३-२०) इति यास्केनोक्तत्वात् । उच्चा उच्चैरुपरि द्युप्रदेशे निहितासः स्थापिता ये सन्ति ते ऋक्षा नक्तं रात्रौ ददृश्रे सर्वैरपि दृश्यन्ते । दिवाहनि कुह चिदीयुः । क्वापि गच्छेयुः । न दृश्यन्त इत्यर्थः । वरुणस्य राज्ञो व्रतानि कर्माणि नक्षत्रदर्शनादिरूपाण्यदब्धानि केनाप्यहिंसितानि । किंच वरुणस्याज्ञयैव चन्द्रमा नक्तं रात्रौ विचाकशत् विशेषेण दीप्यमान एति गच्छति ॥ निहितासः । आज्जसेरसुक् । थाथादिस्वरेणोत्तरपदान्तोदात्तत्वे प्राप्ते । पा. ६-२-१४४ । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । ददृश्रे । दृशेर्लिट् इरयो रे । पा. ६-४-७६ । इति रेआदेशः । व्यत्ययेनाद्युदात्तत्वम् । यद्वृत्तयोगादनिघातः । कुह । वा ह च छन्दसि । पा. ५-३-१३ । इति किंशब्दाद्दु…त्रस्य त्रलो हादेशः । कु तिङोः । पा. २-२-१०४ । इति किंशब्दस्य कुआदेशः । स्थानिवद्भावाल्लित्स्वरेणाद्युदात्तत्वम् । विचाकशत् । केशेर्दीर्घ्यै त्यर्थाद्यङ्लुगन्ताच्छतृप्रत्ययः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् । समासे कृत्स्वरः । यद्वा काश दीप्तौ वा व्यत्ययेनोपधाह्रस्वत्वम् । चन्द्रमाः । चन्द्रे माङो डित् । उ. ४-२२१ । इत्यसिप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-*amī rātrāv asmābhir dṛśyamānā ṛkṣāḥ sapta ṛṣayaḥ | tathā ca vājasaneyina āmananti — ṛkṣā iti ha sma vai purā sapta ṛṣīn ācakṣate iti | yadvā | ṛkṣāḥ sarve 'pi nakṣatraviśeṣāḥ | ṛkṣāḥ spṛbhir iti nakṣatranāmasu (ni. 3-20) iti yāskenoktatvāt | uccā uccair upari dyupradeśe nihitāsaḥ sthāpitā ye santi te ṛkṣā naktaṃ rātrau dadṛśre sarvair api dṛśyante | divāhani kuha cid īyuḥ | kvāpi gaccheyuḥ | na dṛśyanta ity arthaḥ | varuṇasya rājño vratāni karmāṇi nakṣatradarśanādirūpāṇy adabdhāni kenāpy ahiṃsitāni | kiṃca varuṇasyājñayaiva candramā naktaṃ rātrau vicākaśat viśeṣeṇa dīpyamāna eti gacchati || nihitāsaḥ | ājjaser asuk | thāthādisvareṇottarapadāntodāttatve prāpte | pā. 6-2-144 | gatir anantara iti gateḥ prakṛtisvaratvam | dadṛśre | dṛśer liṭ irayo re | pā. 6-4-76 | iti reādeśaḥ | vyatyayenādyudāttatvam | yadvṛttayogād anighātaḥ | kuha | vā ha ca chandasi | pā. 5-3-13 | iti kiṃśabdād du…trasya tralo hādeśaḥ | ku tiṅoḥ | pā. 2-2-104 | iti kiṃśabdasya kuādeśaḥ | sthānivadbhāvāl litsvareṇādyudāttatvam | vicākaśat | keśer dīrghyai tyarthād yaṅlugantāc chatṛpratyayaḥ | abhyastānām ādir ity ādyudāttatvam | samāse kṛtsvaraḥ | yadvā kāśa dīptau vā vyatyayenopadhāhrasvatvam | candramāḥ | candre māṅo ḍit | u. 4-221 | ity asipratyayaḥ | kṛduttarapadaprakṛtisvaratve prāpte dāsībhārādittvāt pūrvapadaprakṛtisvaratvam ||*
+*As printed: the Pada has ये (the Saṃhitā य), ददृश्रे, विऽचाकशत्, चन्द्रऽमाः; नि. ३-२० (the Nirukta number as read; the digit before ० is the curled 2); आज्जसेरसुक्; पा. ६-२-१४४; पा. ६-४-[?]६ (the digit before the last is not clear); पा. ५-३-१३ (the first glyph is the same as in the Kannada grammar's ५-३-१०); पा. ७-२-१०४. The bhāṣya breaks at the foot of p. 274 inside* किंशब्दादु-/त्तरस्य*. The Uṇādi number after* चंद्रे मांजो डित् *on p. 275 is left [?] (the Kannada grammar on p. 276 prints a different-looking number).*
 
-**Translation:** "These *ṛkṣāḥ* seen by us at night are the Seven Seers [the Great Bear]; so the Vājasaneyins say: 'In former times they used to call the seven seers *ṛkṣāḥ*.' Or *ṛkṣāḥ* are all the constellations, as Yāska says in the list of names of the constellations (Ni. [3-20]), '*ṛkṣāḥ*, *stṛbhiḥ*' [the reading is garbled]. *Uccā* — high; *nihitāsaḥ* — placed in the upper region of the sky; those *ṛkṣāḥ* are seen by everyone *naktam*, at night; by day *kuha cit īyuḥ* — they go somewhere; they are not seen. The *vratāni* — the acts — of king Varuṇa, such as the appearing of the constellations, are *adabdhāni* — not harmed by anyone. And by Varuṇa's command alone the moon moves (*eti*) at night, shining (*vicākaśat*) especially. *Nihitāsaḥ*: *asuk* after *jas* by P. 7-1-50; though the end-acute of the second member would arise by the *thāthādi* rule P. 6-2-144, the *gati* keeps its accent by P. 6-2-49. *Dadṛśre*: *liṭ* of *dṛś*; *re* for the ending by P. 6-4-76 [*irayo re*]; the initial acute by *vyatyaya*; no *nighāta* because of the *yat*-connection. *Kuha*: from *kim* with *ha* by P. 5-3-13 *vā ha ca chandasi* in the place of *tral*; *ku* for *kim* before *ti*… by P. 7-2-104; the acute by *lit*-svara through *sthānivadbhāva*. *Vicākaśat*: *kāśṛ dīptau* — a *yaṅ-luk* form of [*kāś*], with *śatṛ*; *abhyastānām ādiḥ*; *kṛt*-accent in the compound. *Candramāḥ*: *mā* after *candra* by Uṇ. 4-221 with *asi*; the compound would take the accent of the second member but the first member keeps its accent by the *dāsībhārādi* rule."
+> अमी रात्रावस्माभिर्दृश्यमानाः ऋक्षाः सप्त ऋषयः । तथा च वाजसनेयिन आमनंति । ऋक्षा इति ह स्म वै पुरा सप्त ऋषीनाचक्षत इति । यद्वा । ऋक्षाः सर्वेऽपि नक्षत्रविशेषाः । ऋक्षाः स्तृभिरिति नक्षत्राणां । नि. ३-२० । इति यास्केनोक्तत्वात् । उच्चा उच्चैरुपरि द्युप्रदेशे निहितासः स्थापिता ये संति ते ऋक्षा नक्तं रात्रौ ददृश्रे । सर्वैरपि दृश्यंते । दिवाहनि कुह चिदीयुः । क्वापि गच्छेयुः । न दृश्यंत इत्यर्थः । वरुणस्य राज्ञो व्रतानि कर्माणि नक्षत्रदर्शनादिरूपाण्यदब्धानि केनाप्यहिंसितानि । किंच वरुणस्याज्ञयैव चंद्रमा नक्तं रात्रौ विचाकशत् विशेषेण दीप्यमान एति । गच्छति ॥ निहितासः । आज्जसेरसुक् । थाथादिस्वरेणोत्तरपदांतोदात्तत्वे प्राप्ते । पा. ६-२-१४४ । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । ददृश्रे । दृशेर्लिटि इरयो रे । पा. ६-४-[?]६ । इति रेआदेशः । व्यत्ययेनाद्युदात्तत्वं । यद्वृत्तयोगादनिघातः । कुह । वा ह च छंदसि । पा. ५-३-१३ । इति किंशब्दादु-
 
-**[Rik 10, remainder — printed pp. 275–276]**
+> *amī rātrāvasmābhirdṛśyamānāḥ ṛkṣāḥ sapta ṛṣayaḥ | tathā ca vājasaneyina āmanaṃti | ṛkṣā iti ha sma vai purā sapta ṛṣīnācakṣata iti | yadvā | ṛkṣāḥ sarve 'pi nakṣatraviśeṣāḥ | ṛkṣāḥ stṛbhiriti nakṣatrāṇāṃ | ni. 3-20 | iti yāskenoktatvāt | uccā uccairupari dyupradeśe nihitāsaḥ sthāpitā ye saṃti te ṛkṣā naktaṃ rātrau dadṛśre | sarvairapi dṛśyaṃte | divāhani kuha cidīyuḥ | kvāpi gaccheyuḥ | na dṛśyaṃta ityarthaḥ | varuṇasya rājño vratāni karmāṇi nakṣatradarśanādirūpāṇyadabdhāni kenāpyahiṃsitāni | kiṃca varuṇasyājñayaiva caṃdramā naktaṃ rātrau vicākaśat viśeṣeṇa dīpyamāna eti | gacchati ‖ nihitāsaḥ | ājjaserasuk | thāthādisvareṇottarapadāṃtodāttatve prāpte | pā. 6-2-144 | gatiranaṃtara iti gateḥ prakṛtisvaratvaṃ | dadṛśre | dṛśerliṭi irayo re | pā. 6-4-[?]6 | iti reādeśaḥ | vyatyayenādyudāttatvaṃ | yadvṛttayogādanighātaḥ | kuha | vā ha ca chaṃdasi | pā. 5-3-13 | iti kiṃśabdādu-*
 
-**॥ Prati-padārthaḥ ॥** *(p. 275)* **(रात्रियल्लि परिदृश्यमान) अमी (amī)** — these [seen in the night] | **ऋक्षाः (ṛkṣāḥ)** — the Seven Seers' constellation [the stars] | **उच्चा (uccā)** — above [in the sky] | **निहितासः (nihitāsaḥ)** — placed | **ये (ye)** — which | **नक्तम् (naktam)** — at night | **ददृश्रे (dadṛśre)** — are seen | **दिवा (divā)** — in the day | **कुह चित् (kuha cit)** — somewhere | **ईयुः (īyuḥ)** — go | **वरुणस्य (varuṇasya)** — of king Varuṇa | **व्रतानि (vratāni)** — acts [such as the appearing of the stars] | **अदब्धानि (adabdhāni)** — not to be resisted [and not harmed by anyone] | **चन्द्रमाः (candramāḥ)** — the moon | **नक्तम् (naktam)** — at night | **विचाकशत् (vicākaśat)** — shining specially [by his command] | **एति (eti)** — goes.
+### Page 275 — Rik 10: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** The stars seen in the sky at night — everyone sees them at night; by day they go somewhere. These are the undisturbable acts of Varuṇa. By his command the moon too shines specially at night.
+> त्तरस्य त्रलो हादेशः । कु तिहोः । पा. ७-२-१०४ । इति किंशब्दस्य कुआदेशः । स्थानिवद्भावाल्लित्स्वरेणाद्युदात्तत्वं । विचाकशत् । कशेर्दीप्त्यर्थाद्यज्लुगंताच्छतृप्रत्ययः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । समासे कृत्स्वरः । यद्वा । काशतेर्वा व्यत्ययेनोपधाह्रस्वत्वं । चंद्रमाः । चंद्रे मांजो डित् । उ. ४-[?] । इत्यसिप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं ॥१०॥
 
-**॥ English Translation ॥** *(as printed in the source)*
+> *ttarasya tralo hādeśaḥ | ku tihoḥ | pā. 7-2-104 | iti kiṃśabdasya kuādeśaḥ | sthānivadbhāvāllitsvareṇādyudāttatvaṃ | vicākaśat | kaśerdīptyarthādyajlugaṃtācchatṛpratyayaḥ | abhyastānāmādirityādyudāttatvaṃ | samāse kṛtsvaraḥ | yadvā | kāśatervā vyatyayenopadhāhrasvatvaṃ | caṃdramāḥ | caṃdre māṃjo ḍit | u. 4-[?] | ityasipratyayaḥ | kṛduttarapadaprakṛtisvaratve prāpte dāsībhārāditvātpūrvapadaprakṛtisvaratvaṃ ‖10‖*
+
+*Gist:* The seven ṛṣis, the stars seen by us at night, set high in the sky, are seen by night and go somewhere by day; these are Varuṇa's undisturbed acts, and by his command the moon shines brightly at night. Grammatical tail: *nihitāsaḥ* (*asuk*; *gati* keeps its accent, Pā. 6-2-144 as read), *dadṛśre* (*liṭ*, *ire* → *re*; the Pada/accent by *vyatyaya*; no lowering because of the relative), *kuha* (*ku* for *kim* by Pā. 7-2-104, *ha* for *tral* by Pā. 5-3-13), *vicākaśat* (*kaś*, *yaṅ-luk*, *śatṛ*; first syllable acute by "abhyastānām ādiḥ"), *candramāḥ* (suffix *asi*, Uṇ. 4-[?]; the first member keeps its accent as in *dāsībhārādi*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**अमी (amī)** — (seen at night) these | **ऋक्षाः (ṛkṣāḥ)** — the Saptarṣi-maṇḍala (the stars) | **उच्चाः (uccāḥ)** — above (in the sky) | **निहितासः (nihitāsaḥ)** — placed | **ये (ye)** — which (those that are) | **नक्तं (naktaṃ)** — at night | **ददृश्रे (dadṛśre)** — are seen | **दिवा (divā)** — by day | **कुह चित् (kuha cit)** — somewhere | **ईयुः (īyuḥ)** — go | **वरुणस्य (varuṇasya)** — (of the king) Varuṇa's | **व्रतानि (vratāni)** — (the deeds in the form of showing the stars and so on) deeds | **अदब्धानि (adabdhāni)** — (that cannot be known by anyone) unobstructed (and by his command) | **चंद्रमाः (candramāḥ)** — the moon | **नक्तं (naktaṃ)** — at night | **विचाकशत् (vicākaśat)** — shines specially.
+
+**॥ Bhāvārthaḥ ॥**
+
+The stars seen in the antarikṣa are visible to everyone at night, and by day they go off somewhere; these are the unobstructed deeds of Varuṇa. By his command alone the moon too shines specially at night.
+
+**॥ English Translation ॥** *(as printed)*
 
 > These constellations placed on high which are visible by night and go elsewhere by day are the undisturbed acts of Varuna and by his commands, the moon moves and shines brightly by night.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 275)* **ऋक्षाः** — the group of stars called the *Saptarṣi-maṇḍala*, visible in the sky at night; though *ṛkṣāḥ* means 'stars' generally, the commentator explains it here as the Seven Seers. **अदब्धानि** — Varuṇa's acts cannot be obstructed by anyone; they are unimpeded. **व्रतानि** — acts, works, deeds of valour.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-*(Grammar page 276, noted briefly: the words treated are* dadṛśre *[*dṛśir prekṣaṇe*, *liṭ*, *ruṭ-ire-ṭ*, doubling and the loss of the reduplicate's [final]; *iṭ* + *ire*; P. 6-4-76 *irayo re* gives *re* for *ire* in the Veda; since it is joined with *yat*-type word the verb is not wholly lowered; the accent on the first syllable by *vyatyaya*],* kuha *[*kim* + *tral* by P. 5-3-10 *saptamyās tral*; in the Veda *ha* in place of *tral* by P. 5-3-13 *vā ha ca chandasi*; so *ku* + *ha*; the Vaiyākaraṇa-Mahābhāṣya's discussion of the sūtra *vāhac*; *ku* for *kim* before *ti* and *ho* by P. 7-2-104 *kuti hoḥ*],* vicākaśat *[*kaś gatiśāsanayoḥ*, many senses of roots, here 'to shine'; or *kāśṛ dīptau*; *yaṅ-luk* with doubling; *jaś*; the reduplicate's *ca* for *ka*; P. 7-4-83 *dīrgho 'kitaḥ* lengthens the reduplicate; then *śatṛ* for *laṭ*; *śap* lost; the accent by *abhyastānām ādiḥ*: the first syllable is acute — *cākaśat*; with the *vi* compound the *kṛt*-accent follows] and* candramāḥ *[*candra* + *mā* + *asi*, Uṇ. 4-221 *candre māñaḥ ḍit*; the *ḍit* effect; the compound takes the first member's accent by the *dāsībhārādi* rule P. 6-2-42 — the printed number is read doubtfully]; numerals as read, pointers only.)*
+**ऋक्षाः (ṛkṣāḥ)** — the group of stars called the Saptarṣi-maṇḍala, seen in the sky at night. *Ṛkṣāḥ* means "stars" in general, yet here the bhāṣyakāra explains it as the seven ṛṣis.
+
+**अदब्धानि (adabdhāni)** — the deeds of Varuṇa that no one can obstruct; irresistible.
+
+**व्रतानि (vratāni)** — deeds, works, acts of daring.
+
+### Page 276 — Rik 10: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly; numbers as read, not zoomed)*
+
+**ददृश्रे (dadṛśre)** — *dṛśir prekṣaṇe*; *liṭ*, *jh* → *ire c*, doubling, *abhyāsalopa* (as printed); *dadṛś* + *ire*; "इरयोरे" (Pā. Sū. 6-4-[?]6) gives *re* for *ire* in the Veda, hence *dadṛśre*. Because the relative *ye* is joined, there is no all-anudātta (*nighāta*); by the Vedic *vyatyaya* the first syllable is udātta rather than the final.
+
+**कुह (kuha)** — after *kim* "सप्तम्यास्त्रल्" (Pā. Sū. 5-3-10) gives *tral*; "वा ह च छन्दसि" (Pā. Sū. 5-3-13) gives *ha* for *tral* optionally in the Veda, hence the *ha*-substitute (so in the Veda-bhāṣya). The grammarians take the sūtra *vā ha ca* to mean that after *kim* ending in the seventh-case sense the suffix *ha*, and by *ca* the suffixes *at* and *tral*, may come. In this option an independent suffix *ha* comes: *kim* + *ha*, and "कु तिहोः" (Pā. Sū. 7-2-104) gives *ku* for *kim* before a *t*-initial or *h*-initial case-ending. In the first option *tral* is *lit*, so the *ha* standing in its place is *lit* by *sthānivadbhāva*, and by "लिति" the syllable before the suffix is udātta; in the second option the accent is to be established as Vedic usage.
+
+**विचाकशत् (vicākaśat)** — *kaś gatiśāsanayoḥ*; the verbs of the *adādi* class have many senses, so "shining" is taken here. Or *kāś dīptau* of the *bhvādi*; the shortening of the long *ā* is Vedic. Thus the form is not of ordinary usage. *yaṅ*, then *luk*; doubling by "सन्यङोः" (Pā. Sū. 6-1-9); "हलादिः शेषः" drops the *ś* of the reduplicate; "अभ्यासे चर्च" makes the first *k* a *c*; *ca* + *kaś*, "दीर्घोऽकितः" (Pā. Sū. 7-4-83) lengthens the final vowel of a non-*kit* reduplicate; as the form is *parasmaipada*, by "चर्करीतं परस्मैपदम् अदादि वच्चाप्रष्टव्यम्" *śatṛ* for *laṭ*, *śap* dropped; *cākaśat*; "अभ्यस्तानामादिः" (Pā. Sū. 6-1-189) makes the initial of the reduplicated stem udātta; the compound with *vi* keeps this by the *kṛdd-uttarapada* accent.
+
+**चंद्रमाः (candramāḥ)** — "चंद्रे मांजो डित्" (Uṇ. Sū. 4-[?]): *asi* after *māṅ* (*māj*) with the upapada *candra*, which is *ḍit*; so *as*-*ṭi*-loss; *candramas*. By "कुरुगार्हपत…दासीभाराणां च" (Pā. Sū. 6-2-42, as read) the accent of the first member is retained. ॥१०॥
 
 ---
 
