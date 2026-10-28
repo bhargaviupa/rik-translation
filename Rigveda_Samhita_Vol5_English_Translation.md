@@ -7496,15 +7496,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.2 (pp. 415–417, PDF 431–433)
 
-**Saṃhitā-pāṭha** *(p. 415)*
+**Saṃhitā-pāṭha** *(p. 415; accents as printed)*
 
-> **आ स्वमद्म युवमानो अजरस्तृषु च्यवानो अविष्यन्नतसेषु तिष्ठति ।**
-> **अत्यो न पृष्ठं प्रुषितस्य रोचते दिवो न सानु स्तनयन्नचिक्रदत् ॥ २ ॥**
+> **आ स्वमद्म॑ यु॒वमा॑नो अ॒जर॑स्तृ॒ष्व॑वि॒ष्यन्न॑त॒सेषु॑ तिष्ठति ।**
+> **अत्यो॒ न पृष्ठं प्रु॑षि॒तस्य॑ रोचते दि॒वो न सानु॑ स्त॒नय॑न्न॒चिक्रदत् ॥ २ ॥**
 
-*ā svam adma yuvamāno ajaras tṛṣu cyavāno aviṣyann atáseṣu tiṣṭhati |*
-*atyo na pṛṣṭhaṃ pruṣitasya rocate divo na sānu stanayann acikradat || 2 ||*
+*ā́ svam ádma yuvámāno ajáras tṛṣv aviṣyánn ataséṣu tiṣṭhati |*
+*atyo ná pṛṣṭháṃ pruṣitásya rocate divó na sā́nu stanáyann acikradat || 2 ||*
 
-*(The print's Saṃhitā reads "तृषु च्यवानो" in the first line; the Pada has "तृषु । अविष्यन्" — the Pada reads *tṛṣu | aviṣyan*; I give the Saṃhitā "tṛṣu cyavāno" as printed, doubtful: it may be the print's crowded "tṛṣu ca avānaḥ", [?].)*
+*(The better scan prints "अजरस्तृष्वविष्यन्नतसेषु" — there is no "च्यवानो"; the earlier reading and its note are withdrawn. The marks are given where the print puts them, though some (यु॒वमा॑नो, the stroke over ष्व) do not follow the usual pattern.)*
 
 **Pada-pāṭha** *(p. 415)*
 
@@ -7516,13 +7516,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 416)*
 
-> **अजरो जराराहितोऽयमग्निः स्वं स्वकीयमद्म अदनीयं तृणगुल्मादिकं युवमानः स्वकीयज्वालया संमिश्रयन् तदनन्तरं चाविष्यन् भक्षयंश्च । अविष्यन्नित्येतदत्तिकर्मसु पठितं । एवंभूतोऽग्निस्तृषु क्षिप्रमेवातसेषु प्रभूतेषु काष्ठेषु आ तिष्ठति । आरोहति । अत्रातसशब्दः काष्ठवाची । अतसं न शुष्कम् । ऋग्वे. ४-४-४ । इति दर्शनात् । पृषितस्य दग्धुमितस्ततः प्रवृत्तस्याग्नेः पृष्ठमुपर्यवस्थितं ज्वालाजालमत्यो न रोचते । यथा सततगमनशीलोऽश्व इतस्ततो गच्छन्शोभते एवमग्नेर्ज्वालापि सर्वत्र गच्छन्ती शोभत इति भावः । तदानीं दिवो द्युलोकस्य संबन्धि सानु समुच्छ्रितमभ्रं स्तनयन्निवाचिक्रदत् । गंभीरं शब्दमात्मानमचीकरत् ॥**
+> **अजरो जराराहितोऽयमग्निः स्वं स्वकीयमद्म अदनीयं तृणगुल्मादिकं युवमानः स्वकीयज्वालया संमिश्रयन् तदनन्तरं चाविष्यन् भक्षयंश्च । अविष्यन्नित्येतदत्तिकर्मसु पठितं । एवंभूतोऽग्निस्तृषु क्षिप्रमेवातसेषु प्रभूतेषु काष्ठेषु आ तिष्ठति । आरोहति । अत्रातसशब्दः काष्ठवाची । अतसं न शुष्कम् । ऋग्वे. ४-४-४ । इति दर्शनात् । प्रुषितस्य दग्धुमितस्ततः प्रवृत्तस्याग्नेः पृष्ठमुपर्यवस्थितं ज्वालाजालमत्यो न रोचते । यथा सततगमनशीलोऽश्व इतस्ततो गच्छन्शोभते एवमग्नेर्ज्वालापि सर्वत्र गच्छन्ती शोभत इति भावः । तदानीं दिवो द्युलोकस्य संबन्धि सानु समुच्छ्रितमभ्रं स्तनयन्शब्दयन्निवाचिक्रदत् । गंभीरं शब्दमात्मानमचीकरत् ॥**
 
-*ajaro jarārahito 'yam agniḥ svaṃ svakīyam adma adanīyaṃ tṛṇagulmādikaṃ yuvamānaḥ svakīyajvālayā saṃmiśrayan tadanantaraṃ cāviṣyan bhakṣayaṃś ca | aviṣyann ity etad attikarmasu paṭhitaṃ | evaṃbhūto 'gnis tṛṣu kṣipram evātaseṣu prabhūteṣu kāṣṭheṣu ā tiṣṭhati | ārohati | atrātasaśabdaḥ kāṣṭhavācī | atasaṃ na śuṣkam | ṛgve. 4-4-4 [?] | iti darśanāt | pṛṣitasya dagdhum itas tataḥ pravṛttasyāgneḥ pṛṣṭham upary avasthitaṃ jvālājālam atyo na rocate | yathā satatagamanaśīlo 'śva itas tato gacchañ śobhate evam agner jvālāpi sarvatra gacchantī śobhata iti bhāvaḥ | tadānīṃ divo dyulokasya saṃbandhi sānu samucchritam abhraṃ stanayann ivācikradat | gaṃbhīraṃ śabdam ātmānam acīkarat ||*
+*ajaro jarārahito 'yam agniḥ svaṃ svakīyam adma adanīyaṃ tṛṇagulmādikaṃ yuvamānaḥ svakīyajvālayā saṃmiśrayan tadanantaraṃ cāviṣyan bhakṣayaṃś ca | aviṣyann ity etad attikarmasu paṭhitaṃ | evaṃbhūto 'gnis tṛṣu kṣipram evātaseṣu prabhūteṣu kāṣṭheṣu ā tiṣṭhati | ārohati | atrātasaśabdaḥ kāṣṭhavācī | atasaṃ na śuṣkam | ṛgve. 4-4-4 | iti darśanāt | pruṣitasya dagdhum itas tataḥ pravṛttasyāgneḥ pṛṣṭham upary avasthitaṃ jvālājālam atyo na rocate | yathā satatagamanaśīlo 'śva itas tato gacchañ śobhate evam agner jvālāpi sarvatra gacchantī śobhata iti bhāvaḥ | tadānīṃ divo dyulokasya saṃbandhi sānu samucchritam abhraṃ stanayan śabdayann ivācikradat | gaṃbhīraṃ śabdam ātmānam acīkarat ||*
 
-*(Reading note: the first word, "*tṛṣu*" for "quickly" (*kṣipram*), is read from the print's glosses; the bhāṣya's *cyavāno* of the Saṃhitā is not commented on and I take the Pada's *tṛṣu | aviṣyan*. The tail — on *yuvamānaḥ*, *ajaraḥ*, *ācikradat* (*kadi kradi kladi* roots), with the remark that the *num* is not added by *āgamānuśāsanam anityam* — is characterized, and the Kannada grammar notes on p. 417–418 are summarized below.)*
+*(The tail — on *yuvamānaḥ* (*yu miśraṇe*; *ātmanepada* and *śa* by *vyatyaya*; no *luk*), *ajaraḥ* (*nañ jaramaramitramṛtāḥ*), *acikradat* (*kadi kradi kladi*; no *num*, *āgamānuśāsanasyānityatvāt*) — is characterized; the Kannada grammar notes on pp. 417–418 are summarized below.)*
 
-**Translation of the bhāṣya:** "*Ajaraḥ*, free from old age, this Agni *yuvamānaḥ*, mixing with his own flame, *svam adma*, his own fuel — grass, shrubs and the like — and afterwards *aviṣyan*, devouring (*aviṣyan* is read among the verbs of eating) — such Agni *tṛṣu*, quickly, *atáseṣu*, on the abundant wood (*atasa* means wood, as in 'not dry wood', Ṛ. 4-4-4 [?]) *ā tiṣṭhati*, mounts. *Pruṣitasya*, of the Agni who moves here and there to burn, *pṛṣṭham*, the mass of flame above, *atyo na rocate*, shines like a horse: as a horse that is always moving shines going hither and thither, so the flame of Agni too goes everywhere and shines. Then, like the cloud lying at the summit of the sky *stanayan*, thundering, he *acikradat*, cried out — made a deep sound."
+**Translation of the bhāṣya:** "*Ajaraḥ*, free from old age, this Agni *yuvamānaḥ*, mixing with his own flame, *svam adma*, his own fuel — grass, shrubs and the like — and afterwards *aviṣyan*, devouring (*aviṣyan* is read among the verbs of eating) — such Agni *tṛṣu*, quickly, *atáseṣu*, on the abundant wood (*atasa* means wood, as in 'not dry wood', Ṛ. 4-4-4) *ā tiṣṭhati*, mounts. *Pruṣitasya*, of the Agni who moves here and there to burn, *pṛṣṭham*, the mass of flame above, *atyo na rocate*, shines like a horse: as a horse that is always moving shines going hither and thither, so the flame of Agni too goes everywhere and shines. Then, like the cloud lying at the summit of the sky *stanayan*, thundering, sounding, he *acikradat*, cried out — made a deep sound."
 
 **Pratipadārtha** *(p. 416)* — "**ajaraḥ** — the undecaying Agni; **svam** — his own; **adma** — food; **yuvamānaḥ** — mixing with his flame; **aviṣyan** — devouring; **tṛṣu** — alertly; **atáseṣu** — on dry sticks; **ā tiṣṭhati** — mounts; **pruṣitasya** — of Agni who spreads all round to burn; **pṛṣṭham** — the flame above (his back); **atyo na** — like an always-moving horse; **rocate** — shines; **divaḥ** — of the sky; **sānu na** — like the cloud at the summit; **stanayan** — thundering; **acikradat** — sounds deeply."
 
@@ -7532,17 +7532,17 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 417**
 - **adma** — "*Adanīyaṃ tṛṇagulmādikam*: the grass, shrubs and the like that are food for Agni."
-- **yuvamānaḥ aviṣyan** — "Agni mixes his food, grass and the like, with the oblation in the sacrifice and consumes it. The Nirukta-author reads the word *aviṣyan* among the verbs of eating (*attikarma*, Ni. 2-… as read [?])."
-- **atáseṣu** — "In abundant sticks and the like: the word *atasa* means wood: 'atasaṃ na śuṣkam' (Ṛ. Saṃ. 4-4-4 as read [?])."
+- **yuvamānaḥ aviṣyan** — "Agni mixes his food, grass and the like, with the oblation in the sacrifice and consumes it. The Nirukta-author reads the word *aviṣyan* among the verbs of eating (*attikarma*, Ni. 2-8)."
+- **atáseṣu** — "In abundant sticks and the like: the word *atasa* means wood: 'atasaṃ na śuṣkam' (Ṛ. Saṃ. 4-4-4)."
 - **pruṣitasya** — "*Dagdhum itas tataḥ pravṛttasyāgneḥ*: of Agni whose nature is to burn everything, spreading everywhere; in this sense Agni got the name *pruṣita*."
 - **atyo na rocate** — "Here *atya* means horse; *na* has the sense of *iva*. As a horse shines as it moves hither and thither, Agni by the enveloping of his flame spreads everywhere and shines."
 
 **Vyākaraṇa-prakriyā** *(pp. 417–418 — grammar pages, noted briefly)*
 - **adma**: *ad bhakṣaṇe*; Uṇādi *man*; *nit*: initial-acute.
-- **yuvamānaḥ**: *yu miśraṇe*; *vyatyayo bahulam*: *ātmanepada* *śānac*; *kartari śap*: *vyatyaya*: *śa* [= *śap*]; *bahulaṃ chandasi*: no *luk*; *aci śnudhātu…*: *uvaṅ* barred; *āne muk*: *muk* to the *ajanta* stem; *tāsyanudātteṇ…*: *anudātta*; the root's accent stays; the vowel after *v* is acute.
-- **ajaraḥ**: bahuvrīhi, *nañi jaramaramitramṛtāḥ*: initial-acute of the last member.
+- **yuvamānaḥ**: *yu miśraṇe*; *vyatyayo bahulam*: *ātmanepada* *śānac*; *kartari śap*: *vyatyaya*: *śa* [= *śap*]; *bahulaṃ chandasi*: no *luk*; *aci śnudhātubhruvāṃ…*: *uvaṅ* (no *guṇa*, the *śa* being *ṅit*); *āne muk* (Pā. 7-2-82): *muk* to the *ajanta* stem; *tāsyanudātteṇ…* (Pā. 6-1-186): *anudātta*; the root's accent stays; the vowel after *v* is acute.
+- **ajaraḥ**: bahuvrīhi, *nañi jaramaramitramṛtāḥ* (Pā. 6-2-116): initial-acute of the last member.
 - **tiṣṭhati**: *ṣṭhā gatinivṛttau*; *pāghrādhmā…*: *tiṣṭha*; *nighāta*.
-- **acikradat**: *kadi kradi kladi āhvāne rodane ca*; *āgamānuśāsanam anityam*: no *num* though the root is *idit*; *hetumati ca*: *ṇic*; *luṅ* (Vedic), *tip*; *itaś ca*; *ṇiśridrusrubhyaḥ kartari caṅ*: *caṅ*; *ṇeraniṭi*; *caṅi*: doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *sanvallaghuni caṅpare 'nogloṕe*: *i* for the reduplicative (*sanyataḥ*); *saṃyogāt-para*: no lengthening; *nighāta*. **|| 2 ||**
+- **acikradat**: *kadi kradi kladi āhvāne rodane ca*; *āgamānuśāsanam anityam*: no *num* though the root is *idit*; *hetumati ca*: *ṇic*; *luṅ* (Vedic), *tip*; *itaś ca*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. 3-1-48): *caṅ*; *ṇeraniṭi*; *caṅi* (Pā. 6-1-11): doubling; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *sanvallaghuni caṅpare 'nogloṕe*: *i* for the reduplicative (*sanyataḥ*); *saṃyogāt-para*: no lengthening; *nighāta*. **|| 2 ||**
 
 ---
 
