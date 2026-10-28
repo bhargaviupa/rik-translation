@@ -8328,38 +8328,65 @@ the restriction "अव्यये नञ्कुनिपातानाम�
 
 ---
 
-### Pages 338–341 — Sūkta 25, Rik 19
+### Page 339 — Sūkta 25, Rik 19 *(the print begins this ṛk at the top of p. 339; p. 338 ends with the grammar of Ṛk 18)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> इमं मे वरुण श्रुधी हवमद्या च मृळय ।
-> त्वामवस्युरा चके ॥ १९ ॥
+> इ॒मं मे॑ वरुण श्रुधी॒ हव॑म॒द्या च॑ मृळय ।
+> त्वाम॑व॒स्युरा च॑के ॥१९॥
+>
+> *imáṃ me varuṇa śrudhī hávamadyā́ ca mṛḷaya |*
+> *tvā́mavasyúrā́ cake ||19||*
 
-*imaṃ me varuṇa śrudhī havam adyā ca mṛḷaya | tvām avasyur ā cake || 19 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> इमम् । मे । वरुण । श्रुधि । हवम् । अद्य । च । मृळय ॥ त्वाम् । अवस्युः । आ । चके ॥ १९ ॥
+> इमं । मे । वरुण । श्रुधि । हवं । अद्य । च । मृळय । त्वां । अवस्युः । आ । चके ॥१९॥
 
-*imam | me | varuṇa | śrudhi | havam | adya | ca | mṛḷaya || tvām | avasyuḥ | ā | cake || 19 ||*
+> *imaṃ | me | varuṇa | śrudhi | havaṃ | adya | ca | mṛḷaya | tvāṃ | avasyuḥ | ā | cake ‖19‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 339)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> वरुणप्रघासेष्विमं मे वरुणेति वारुणस्य हविषोऽनुवाक्या । पञ्चमां पौर्णमास्यामिति खण्डे सूत्रितम् — इमं मे वरुण श्रुधी तत्त्वा यामि ब्रह्मणा वन्दमानः (आ. २-१७ [?]) इति ॥ हे वरुण मे मदीयमिमं हवनमाह्वानं श्रुधि । शृणु । किंच अद्यास्मिन्नेव मृळय । अस्मान्सुखय । अवस्युः रक्षणेच्छुरहं त्वां वरुणमाभिमुख्येन चके । शब्दयामि । स्तौमीत्यर्थः ॥ श्रुधि । श्रु श्रवणे । लोटो हिः । श्रुशृणुपॄकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् । अन्येषामपि दृश्यत इति संहितायां दीर्घः । अवस्युः । अवस्शब्दात्स्वत आत्मनः क्यच् । क्याच्छन्दसीत्युप्रत्ययः । आ चके । कै गै शब्दे । अस्मालिट्यादेशः । पा. ६-१-४५ । इत्यात्वम् । द्विर्भावचुत्वे । आतो लोप इटि च । पा. ६-४-६४ । इत्याकारलोपः । तिङ्ङतिङ इति निघातः ॥
+> वरुणप्रघासेष्विमं मे वरुणेति वारुणस्य हविषोऽनुवाक्या । पंचम्यां पौर्णमास्यामिति खंडे सूत्रितं । इमं मे वरुण श्रुधि तत्त्वा यामि ब्रह्मणा वंदमानः । आ. २-१७ । इति ॥
 
-*varuṇapraghāseṣv imaṃ me varuṇeti vāruṇasya haviṣo 'nuvākyā | pañcamāṃ paurṇamāsyām iti khaṇḍe sūtritam — imaṃ me varuṇa śrudhī tat tvā yāmi brahmaṇā vandamānaḥ (ā. 2-17 [?]) iti || he varuṇa me madīyam imaṃ havanam āhvānaṃ śrudhi | śṛṇu | kiṃca adyāsminn eva mṛḷaya | asmān sukhaya | avasyuḥ rakṣaṇecchur ahaṃ tvāṃ varuṇam ābhimukhyena cake | śabdayāmi | staumīty arthaḥ || śrudhi | śru śravaṇe | loṭo hiḥ | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhir ādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk | anyeṣām api dṛśyata iti saṃhitāyāṃ dīrghaḥ | avasyuḥ | avasśabdāt svata ātmanaḥ kyac | kyācchandasīty upratyayaḥ | ā cake | kai gai śabde | asmāl liṭy ādeśaḥ | pā. 6-1-45 | ity ātvam | dvirbhāvacutve | āto lopa iṭi ca | pā. 6-4-64 | ity ākāralopaḥ | tiṅ atiṅa iti nighātaḥ ||*
+> *varuṇapraghāseṣvimaṃ me varuṇeti vāruṇasya haviṣo 'nuvākyā | paṃcamyāṃ paurṇamāsyāmiti khaṃḍe sūtritaṃ | imaṃ me varuṇa śrudhi tattvā yāmi brahmaṇā vaṃdamānaḥ | ā. 2-17 | iti ‖*
 
-**Translation:** "In the *Varuṇa-praghāsa*, the rik *imaṃ me varuṇa* is the *anuvākyā* of the Varuṇa oblation; so the sūtra in the section *pañcamāṃ paurṇamāsyām* reads '*imaṃ me varuṇa śrudhī*; *tat tvā yāmi brahmaṇā vandamānaḥ*' (Āś. [2-17] [?]). O Varuṇa! Hear (*śrudhi*) this call (*havam*) of mine; and today (*adya*), in this very rite, gladden (*mṛḷaya*) us — make us happy. I, *avasyuḥ* — desirous of protection — *ā cake*: address you, Varuṇa, directly — I praise [you]. *Śrudhi*: *śru śravaṇe*; *loṭ* with *hi*; *dhi* for *hi* by P. 6-4-102 [*śruśṛṇupṛkṛvṛbhyaś chandasi*]; the *vikaraṇa* lost; the Saṃhitā lengthening by *anyeṣām api dṛśyate*. *Avasyuḥ*: *kyac* after *avas* in the sense 'wishing for oneself'; then *u* by P. 3-2-170 [*kyācchandasi*]. *Ā cake*: *kai gai śabde* ['to sound']; *liṭ*; *ā* for *ai* by P. 6-1-45; doubling and *cutva*; loss of *ā* by P. 6-4-64; the verb's accent is lowered by *tiṅ atiṅaḥ*." *(Grammar pages 340–341, noted briefly: the words treated are* śrudhi *[*śru śravaṇe*, *loṭ* 2nd singular *sip* → *hi*; *dhi* by P. 6-4-102 *śruśṛṇupṛkṛvṛbhyaś chandasi*; *śnu* by P. 3-1-74 *śruvaḥ śṛ ca* would come, but *śap*/*śnu* is lost by P. 2-4-73 *bahulaṃ chandasi*; the lengthening by P. 6-3-137],* avasyuḥ *[*avas* + *kyac* in the sense of 'desirous of one's own protection', P. 3-1-8 *supa ātmanaḥ kyac*; *sanādyantā dhātavaḥ* so it is a root; *u* after *kyac* by P. 3-2-170 *kyāc chandasi*; the loss of the *a* of *kyac* by P. 6-4-48; the accent is the suffix's, so end-acute] and* ā cake *[*kai śabde* with the *ā* prefix: the sense 'sound'; *liṭ* 1st person singular → *iṭ* → *e* by P. 3-4-81 and 3-4-79; *ā* for the root's *ai* before a *liṭ* by P. 6-1-45 *ādeca upadeśe 'śiti*; doubling; *ca* for *ka* by P. 7-4-62; *ā* lost by P. 6-4-64 before an *ārdhadhātuka* beginning with a vowel; the verb is lowered since it follows the *gati*-less word *avasyuḥ*]; numerals as read, pointers only.)*
+> हे वरुण मे मदीयमिमं हवमाह्वानं श्रुधि । शृणु । किंच अद्यास्मिन्दिने मृळय । अस्मान्सुखय । अवस्युः । रक्षणेच्छुरहं त्वां वरुणमाभिमुख्येन चके । शब्दयामि । स्तौमीत्यर्थः ॥ श्रुधि । श्रु श्रवणे । लोटो हिः । श्रुशृणुपॄकृवृभ्यश्छंदसीति हेर्धिरादेशः । बहुलं छंदसीति विकरणस्य लुक् । अन्येषामपि दृश्यत इति संहितायां दीर्घः । अवस्युः । अवस्शब्दात्सुप आत्मनः क्यच् । क्याच्छंदसीत्युप्रत्ययः । आ चके । कै गै शब्दे । अस्माल्लिट्यादेचः । पा. ६-१-४५ । इत्यात्वं । द्विर्भावचुत्वे । आतो लोप इटि च । पा. ६-४-६४ । इत्याकारलोपः । तिङ्ङतिङ इति निघातः ॥
 
-**॥ Prati-padārthaḥ ॥** *(p. 339)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa | **मे (me)** — my | **इमं हवम् (imaṃ havam)** — this invocation | **श्रुधि (śrudhi)** — hear | **अद्य (adya)** — today | **मृळय (mṛḷaya)** — make [us] happy | **अवस्युः (avasyuḥ)** — desiring protection | **त्वाम् (tvām)** — you | **आ चके (ā cake)** — I beg [I seek].
+> *he varuṇa me madīyamimaṃ havamāhvānaṃ śrudhi | śṛṇu | kiṃca adyāsmindine mṛḷaya | asmānsukhaya | avasyuḥ | rakṣaṇecchurahaṃ tvāṃ varuṇamābhimukhyena cake | śabdayāmi | staumītyarthaḥ ‖ śrudhi | śru śravaṇe | loṭo hiḥ | śruśṛṇupṝkṛvṛbhyaśchaṃdasīti herdhirādeśaḥ | bahulaṃ chaṃdasīti vikaraṇasya luk | anyeṣāmapi dṛśyata iti saṃhitāyāṃ dīrghaḥ | avasyuḥ | avasśabdātsupa ātmanaḥ kyac | kyācchaṃdasītyupratyayaḥ | ā cake | kai gai śabde | asmālliṭyādecaḥ | pā. 6-1-45 | ityātvaṃ | dvirbhāvacutve | āto lopa iṭi ca | pā. 6-4-64 | ityākāralopaḥ | tiṅṅatiṅa iti nighātaḥ ‖*
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa, hear this call of mine. Make us happy today. For our protection I ask you.
+*(Numbers zoom-read at 450 dpi: आ. २-१७ (the second digit after ೧ is the flat-footed 7, against the curled 2 before it), पा. ६-१-४५, ६-४-६४.)*
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* In the Varuṇapraghāsa rite this ṛk is the anuvākyā of the oblation to Varuṇa (Āś. 2-17). O Varuṇa, hear this call of mine and make us happy today; seeking protection, I call upon you.
 
-> O Varuna, hear this my invocation; make us happy to-day; I desire your protection.
+**॥ Prati-padārthaḥ ॥** **वरुण (varuṇa)** — O Varuṇa | **मे (me)** — my | **इमं हवं (imaṃ havaṃ)** — this invocation | **श्रुधि (śrudhi)** — hear | **अद्य (adya)** — today | **मृळय (mṛḷaya)** — make (us) happy | **अवस्युः (avasyuḥ)** — desiring protection | **त्वां (tvāṃ)** — you | **चके (cake)** — I entreat (I seek).
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 340)* **Application.** In the *Varuṇapraghāsa* sacrifice, when the oblation to Varuṇa is offered, this rik *imaṃ me varuṇa* is to be used as the *puro-'nuvākyā*; the section *pañcamāṃ paurṇamāsyām* of Āśvalāyana's Śrauta-sūtra explains it in the sūtra *imaṃ me varuṇa śrudhī* (Ṛ. Saṃ. 1-25-19) *tat tvā yāmi brahmaṇā vandamānaḥ* (Ṛ. Saṃ. 1-24-11) (Āś. [2-17]). **अवस्युः** — *rakṣaṇecchur aham*: I who desire protection — here, the protection that consists in release from my bonds. **आ चके** — *kai gai śabde*: he speaks, i.e. he praises. Skandasvāmin explains the word: *kāntikarmāyaṃ kāmaye pālayetyarthaḥ* — 'it is a word of desire: I desire; the meaning is "protect me".' Hence the sense: 'I long for the release of my bonds; so protect me.'
+### Page 340 — Rik 19: overall sense, English, Special Topics, grammar
+
+**॥ Bhāvārthaḥ ॥** O Varuṇa, listen to this invocation of mine. Make us all happy today. For our protection I entreat you.
+
+**॥ English Translation ॥** *(as printed)*
+
+> O Varuna, hear this my invocation ; make us happy to-day ; I desire your protection.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** In the homa called Varuṇapraghāsa, when the offering belonging to Varuṇa is made, this ṛk *imaṃ me varuṇa* is to be used as the *puro'nuvākyā* mantra: so it is set out in the section *pañcamyāṃ paurṇamāsyām* of the Āśvalāyana Śrauta-sūtra by the sūtra *imaṃ me varuṇa śrudhi* (Ṛ. Saṃ. 1-25-19) *tat tvā yāmi brahmaṇā vandamānaḥ* (Ṛ. Saṃ. 1-24-11) (Ā. 2-17).
+
+**अवस्युः (avasyuḥ)** — *rakṣaṇecchur aham; ātmapālanakāmo 'ham*: I, who seek protection in the form of release from my bonds.
+
+**आ चके (ā cake)** — *kai gai śabde*: I make sound, that is, I praise. Skandasvāmin takes this word thus — *ā cake: kāntikarmāyaṃ kāmaye pālaya ity arthaḥ*: that is, I desire, I desire release from the bonds; so protect me.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**श्रुधि (śrudhi)** — *śru śravaṇe*, bhvādi; in the *loṭ* second singular the *hi* substitute; by "श्रुशृणुपॄकृवृभ्यश्छन्दसि" (Pā. Sū. 6-4-102) in the Veda *dhi* for *hi*. By "श्रुवः शृ च" (Pā. Sū. 3-1-74) the vikaraṇa would come, but by "बहुलं छन्दसि" (Pā. Sū. 2-4-76) it takes *luk*: *śrudhi*. In the Saṃhitā the lengthening by "अन्येषामपि दृश्यते" (Pā. Sū. 6-3-137).
+
+**अवस्युः (avasyuḥ)** — after the word *avas*, by "सुप आत्मनः क्यच्" (Pā. Sū. 3-1-8) *kyac* in the sense of desire; by "सनाद्यन्ता धातवः" (Pā. Sū. 3-1-32), *kyac* being in the *sanādi* group, the name *dhātu*: *avasyati*. In the sense of one who desires protection for himself, by "क्याच्छन्दसि" (Pā. Sū. 3-2-170) the suffix *u* after a *kya*-ending stem when habit and the like are meant; so after the *kyac*-ending *avasya*
+
+### Page 341 — Rik 19: grammar (end)
+
+the suffix *u*; with *avasya* + *u*, by "अतो लोपः" (Pā. Sū. 6-4-48) the *a* of *kya* is dropped; with the case-ending, *avasyuḥ*; by the suffix accent, end-acute.
+
+**आ चके (ā cake)** — *ā* is the prefix; *kai gai śabde*, bhvādi; *liṭ* first singular *iṭ*; by "टित आत्मनेपदानां टेरे" (Pā. Sū. 3-4-79) it becomes *e*. By "आदेच उपदेशेऽशिति" (Pā. Sū. 6-1-45), the root ending in *ai* in the teaching takes *ā* before *liṭ*. With *kā* + *e*, doubling conditioned by *liṭ*; shortening and *cutva* in the reduplicate. With *cakā* + *e*, by "आतो लोप इटि च" (Pā. Sū. 6-4-64) the *ā* is dropped before a vowel-initial ārdhadhātuka: *cake*. By "तिङ्ङतिङः" (Pā. Sū. 8-1-28), following the non-verb *avasyuḥ*, it takes the *nighāta* accent. ॥१९॥
 
 ---
 
