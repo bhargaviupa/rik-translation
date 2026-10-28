@@ -7764,38 +7764,57 @@ days after the full moon are called the dark fortnight (*kṛṣṇapakṣa*). T
 
 ---
 
-### Pages 318–319 — Sūkta 25, Rik 10
+### Page 318 — Sūkta 25, Rik 10
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नि षसाद धृतव्रतो वरुणः पस्त्यास्वा ।
-> साम्राज्याय सुक्रतुः ॥ १० ॥
+> नि ष॑साद धृ॒तव्र॑तो॒ वरु॑णः प॒स्त्या॒स्वा॑ । [accent ?]
+> साम्रा॑ज्याय सु॒क्रतुः॑ ॥१०॥
+>
+> *ní ṣasāda dhṛtávrato váruṇaḥ pastyāsvā |* [accent ?]
+> *sā́mrājyāya sukrátuḥ ||10||*
 
-*ni ṣasāda dhṛtavrato varuṇaḥ pastyāsv ā | sāmrājyāya sukratuḥ || 10 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Flagged [accent ?] on line 1: the last word is printed ಪಸ್ತ್ಯಾ, then a ಇ-shaped glyph, then ಸ್ವಾ; bars stand under ಪ, under ಸ್ತ್ಯಾ and under its ್ಯ subscript, and a stroke above the ಇ-shaped glyph; the word is given as* पस्त्यास्वा *(as in the Pada* पस्त्यासु । आ*) and the stray glyph is not transcribed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> नि । ससाद । धृतऽव्रतः । वरुणः । पस्त्यासु । आ ॥ साम्ऽराज्याय । सुऽक्रतुः ॥ १० ॥
+> नि । ससाद । धृतऽव्रतः । वरुणः । पस्त्यासु । आ । साम्ऽराज्याय । सुऽक्रतुः ॥१०॥
 
-*ni | sasāda | dhṛta-vrataḥ | varuṇaḥ | pastyāsu | ā || sām-rājyāya | su-kratuḥ || 10 ||*
+> *ni | sasāda | dhṛta-vrataḥ | varuṇaḥ | pastyāsu | ā | sām-rājyāya | su-kratuḥ ‖10‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 318)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> धृतव्रतः पूर्वोक्तो वरुणः पस्त्यासु दैवीषु प्रजास्वा नि षसाद । आगत्य निषण्णवान् । किमर्थम् । प्रजानां साम्राज्यसिद्ध्यर्थम् । सुक्रतुः शोभनकर्मा ॥ नि षसाद । सदेरप्रतेः । पा. ८-३-६६ । इति षत्वम् । साम्राज्याय । सम्राजो भावः साम्राज्यम् । गुणवचनब्राह्मणादिभ्यः कर्मणि च । पा. ५-१-१२४ । इति ष्यञ् । ञित्त्वादादिवृद्धिः । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वम् । सुक्रतुः । कृत्वादयश्चेत्युत्तरपदाद्युदात्तत्वम् ॥
+> धृतव्रतः पूर्वोक्तो वरुणः पस्त्यासु दैवीषु प्रजास्वा नि षसाद । आगत्य निषण्णवान् । किमर्थं । प्रजानां साम्राज्यसिद्ध्यर्थं सुक्रतुः शोभनकर्मा ॥ नि षसाद । सदेरप्रतेः । पा. ८-३-६६ । इति षत्वं । साम्राज्याय । सम्राजो भावः साम्राज्यं । गुणवचनब्राह्मणादिभ्यः । पा. ५-१-१२४ । इति ष्यञ् । ञ्नित्यादिर्नित्यमित्याद्युदात्तत्वं । सुक्रतुः । क्रत्वादयश्चेत्युत्तरपदाद्युदात्तत्वं ॥१७॥
 
-*dhṛtavrataḥ pūrvokto varuṇaḥ pastyāsu daivīṣu prajāsv ā ni ṣasāda | āgatya niṣaṇṇavān | kimartham | prajānāṃ sāmrājyasiddhyartham | sukratuḥ śobhanakarmā || ni ṣasāda | sader aprateḥ | pā. 8-3-66 | iti ṣatvam | sāmrājyāya | samrājo bhāvaḥ sāmrājyam | guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca | pā. 5-1-124 | iti ṣyañ | ñittvād ādivṛddhiḥ | ñnityādir nityam ity ādyudāttatvam | sukratuḥ | kṛtvādayaś cety uttarapadādyudāttatvam ||*
+> *dhṛtavrataḥ pūrvokto varuṇaḥ pastyāsu daivīṣu prajāsvā ni ṣasāda | āgatya niṣaṇṇavān | kimarthaṃ | prajānāṃ sāmrājyasiddhyarthaṃ sukratuḥ śobhanakarmā ‖ ni ṣasāda | saderaprateḥ | pā. 8-3-66 | iti ṣatvaṃ | sāmrājyāya | samrājo bhāvaḥ sāmrājyaṃ | guṇavacanabrāhmaṇādibhyaḥ | pā. 5-1-124 | iti ṣyañ | ñnityādirnityamityādyudāttatvaṃ | sukratuḥ | kratvādayaścetyuttarapadādyudāttatvaṃ ‖17‖*
 
-**Translation:** "Varuṇa, *dhṛtavrataḥ* — as above — has come and sat down (*ni ṣasāda*) among the *pastyāsu* — the divine people, the beings of the divine world. For what purpose? For the establishment of the *sāmrājya* — sovereignty — of the people. *Sukratuḥ*: he of good deeds. *Ni ṣasāda*: *ṣatva* of the *s* of *sad* after the *ni* — P. 8-3-66 [*sader aprateḥ*]. *Sāmrājyāya*: 'the state of a *samrāj*'; *ṣyañ* by P. 5-1-124; since it is *ñit*, the first syllable is *vṛddhi*; the first syllable acute by *ñnityādir nityam*. *Sukratuḥ*: the second member's first syllable is acute by *kratv-ādayaś ca*." *(Grammar pages 319, noted briefly: the words treated are* ni ṣasāda *[*ṣadḷ viśaraṇagatyavasādaneṣu*; *ṣa* for *sa* of the root by P. 6-1-64 *dhātvādeḥ ṣaḥ saḥ* then back by P. 6-1-… ; *liṭ* 3rd singular *ṇal*; doubling; *ṣatva* of the *s* after the preposition *ni* by P. 8-3-65 *upasargāt sunoti…* and P. 8-3-66 *sader aprateḥ*, which excludes *prati*-compounds, so *ni ṣasāda*],* sāmrājyāya *[*samrāj* + *ṣyañ* in the sense of 'state' by P. 5-1-124 *guṇavacanabrāhmaṇādibhyaḥ karmaṇi ca*; initial vṛddhi; first-syllable acute by P. 6-1-197 *ñnityādir nityam*; dative] and* sukratuḥ *[*su* + *kratu*; P. 6-2-118 *kratvādayaś ca* gives the acute on the first syllable of *kratu*, making the word middle-acute]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. ८-३-६६, ५-१-१२४; the closing ॥१७॥ (flat-footed 7) marks the end of Varga 17 (Ṛks 6–10); the header of p. 319 reads "ವ. ೧೮".)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 320)* **धृतव्रतः (dhṛtavrataḥ)** — who accepts the rite | **सुक्रतुः (sukratuḥ)** — the performer of good deeds | **वरुणः (varuṇaḥ)** — Varuṇa | **पस्त्यासु (pastyāsu)** — among the people of the divine world | **साम्राज्याय (sāmrājyāya)** — for exercising sovereignty | **आ निषसाद (ā niṣasāda)** — has come and sat.
+*Gist:* Varuṇa, keeper of the rite and doer of good works, has come and taken his seat among the divine peoples, to establish his sovereignty over them.
 
-**॥ Bhāvārthaḥ ॥** Varuṇa, who accepts the rites and does excellent deeds, has come and taken his seat among the divine people so as to rule over them.
+**॥ Prati-padārthaḥ ॥** **धृतव्रतः (dhṛtavrataḥ)** — who accepts the sacrificial rite | **सुक्रतुः (sukratuḥ)** — and who does excellent deeds | **वरुणः (varuṇaḥ)** — Varuṇa | **पस्त्यासु (pastyāsu)** — among the people of the world of the gods | **साम्राज्याय (sāmrājyāya)** — to exercise lordship | **नि षसाद (ni ṣasāda)** — (has come and) is seated.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Bhāvārthaḥ ॥** Varuṇa, who accepts the sacrificial rite and does excellent deeds, has come and sits among the descendants of the gods in order to exercise lordship.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Varuna, the acceptor of sacrifices, the performer of good deeds is sitting amongst the divine progeny to exercise dominion over them.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 319)* **पस्त्यासु** — *daivīṣu prajāsu*: among the people of the divine world — among the gods. **साम्राज्याय** — *samrājo bhāvaḥ sāmrājyam*: [*samrāj* means] the emperor, the king who rules; *sāmrājya* means the kingdom ruled by him, or sovereignty.
+### Page 319 — Rik 10: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**पस्त्यासु (pastyāsu)** — *daivīṣu prajāsu*: among the people of the world of the gods, among the gods.
+
+**साम्राज्याय (sāmrājyāya)** — *samrājo bhāvaḥ sāmrājyam*: *samrāṭ* means king; *sāmrājya* is the rule or lordship that a king exercises.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**नि षसाद (ni ṣasāda)** — *ṣadḷ viśaraṇagatyavasādaneṣu*, bhvādi; by "धात्वादेः षः सः" (Pā. Sū. 6-1-64) the initial becomes *s*; *liṭ* third singular *sasāda*. The prohibition of *ṣatva* by "सात्पदाद्योः" (Pā. Sū. 8-3-111) would apply, but by "सदिरप्रतेः" (Pā. Sū. 8-3-66) the *s* of *sad* after a prefix other than *prati* that conditions it becomes *ṣ*: *niṣasāda*.
+
+**साम्राज्याय (sāmrājyāya)** — *samrājo bhāvaḥ sāmrājyam*: in the abstract sense *ṣyañ* by "गुणवचनब्राह्मणादिभ्यः-" (Pā. Sū. 5-1-124); being *ñit*, initial vṛddhi: *sāmrājyam*; ending in a *ñit* suffix, initially acute by "ञ्नित्यादिर्नित्यम्" (Pā. Sū. 6-1-197).
+
+**सुक्रतुः (sukratuḥ)** — "नञ्सुभ्याम्" (Pā. Sū. 6-2-172) would give the end-acute, but by "क्रत्वादयश्च" (Pā. Sū. 6-2-118) *kratu* and the like after *su* are initially acute, so the final member keeps its initial acute: *sukratuḥ* is medially acute. ॥१०॥
 
 ---
 
