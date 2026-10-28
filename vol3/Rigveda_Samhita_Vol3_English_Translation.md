@@ -5523,25 +5523,57 @@ The meaning of the first half of this ṛk can be known easily. Agni is prayed t
 ---
 
 ## ॥ ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 24 — *"kasya nūnaṃ katamasyāmṛtānām"* ("The Twenty-fourth Sūkta"; first sūkta of the Sixth Anuvāka)
+*(Printed pp. 234 lower–294.)*
 
-*(Printed pp. 234 lower half–294. The heading, Sāyaṇa's note and the Kannada rendering are on pp. 234–235; Rik 1 begins on p. 236.)*
+### Page 234 (lower) — Sūkta 24: title and introduction
 
-**॥ Sāyaṇa-bhāṣyam ॥ (introductory note on the application of the sūkta; printed p. 234)** *(read at 130 dpi; doubtful words marked [?])*
+*(Title: ಇಪ್ಪತ್ತನಾಲ್ಕನೆಯ ಸೂಕ್ತವು ("The Twenty-fourth Sūkta"). The header of this page reads "Maṃ. 1 A. 6 Sū. 24".)*
 
-> प्रथममण्डलस्य षष्ठेऽनुवाके सप्त सूक्तानि । तत्र कस्य नूनमिति पञ्चदशर्चं प्रथमं सूक्तम् । आजीगर्तेः शुनःशेपस्यार्षम् । त्रैष्टुभम् । अभि त्वा देवेति तृचो गायत्रः । आद्याया अनिरुक्तत्वात्प्राजापत्यादिर्देवता । अग्नेर्वयमित्यृगग्नेः । अभि त्वा देवेति तृचस्य सविता । भगभक्षस्येत्येषा भगदेवताका वा । शेषा वारुण्यः । तथा चानुक्रान्तम् — कस्य पञ्चोनाजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातो वारुणं तु त्रैष्टुभमादौ का ग्नेय्यौ सावित्रस्तृचो गायत्रोऽस्यान्त्या भागी चेति ॥ राजसूयेऽभिषेचनीयेऽहनि मरुत्वतीये परिसमाप्ते सत्येतादृशिकं सूक्तसप्तकमभिषिक्तस्य पुत्रादिभिः परिवृतस्य राज्ञः पुरस्ताद्धोत्राख्यातव्यम् [?] । तथा च सूत्रेऽभिहितम् — संस्थिते मरुत्वतीये दक्षिणत आहवनीयस्य हिरण्यकशिपावासीनोऽभिषिक्तायापुत्रामात्यपरिवृतायाय [?] राज्ञे शौनःशेपमाचक्षीत (आ. ६-३) इति । ब्राह्मणं च भवति — तदेतत्परयुक्तगाथं शौनःशेपमाख्यानं तद्धोता राज्ञेऽभिषिक्तायाचक्षे हिरण्यकशिपावासीन आचक्षे हिरण्यकशिपावासीनः प्रतिगृणाति (ऐ. ब्रा. ७-१८) इति ॥
+**॥ Sāyaṇa-bhāṣyam ॥** (introductory note)
 
-*prathamamaṇḍalasya ṣaṣṭhe 'nuvāke sapta sūktāni | tatra kasya nūnam iti pañcadaśarcaṃ prathamaṃ sūktam | ājīgarteḥ śunaḥśepasyārṣam | traiṣṭubham | abhi tvā deveti tṛco gāyatraḥ | ādyāyā aniruktatvāt prājāpatyādir devatā | agner vayam ity ṛg agneḥ | abhi tvā deveti tṛcasya savitā | bhagabhakṣasyety eṣā bhagadevatākā vā | śeṣā vāruṇyaḥ | tathā cānukrāntam — kasya pañconājīgartiḥ śunaḥśepaḥ sa kṛtrimo vaiśvāmitro devarāto vāruṇaṃ tu traiṣṭubham ādau kā gneyyau sāvitras tṛco gāyatro 'syāntyā bhāgī ceti || rājasūye 'bhiṣecanīye 'hani marutvatīye parisamāpte saty etādṛśikaṃ sūktasaptakam abhiṣiktasya putrādibhiḥ parivṛtasya rājñaḥ purastād dhotrākhyātavyam [?] | tathā ca sūtre 'bhihitam — saṃsthite marutvatīye dakṣiṇata āhavanīyasya hiraṇyakaśipāvāsīno 'bhiṣiktāyāputrāmātyaparivṛtāyāya [?] rājñe śaunaḥśepam ācakṣīta (ā. 6-3) iti | brāhmaṇaṃ ca bhavati — tadetatparayuktagāthaṃ śaunaḥśepam ākhyānaṃ tad dhotā rājñe 'bhiṣiktāyācakṣe hiraṇyakaśipāvāsīna ācakṣe hiraṇyakaśipāvāsīnaḥ pratigṛṇāti (ai. brā. 7-18) iti ||*
+*(Numbers as printed: आ० ९-३ and ऐ० ब्रा० ७-१८; the first digit of the Aitareya number is read with doubt [?].)*
 
-**Translation:** "In the sixth anuvāka of the first maṇḍala there are seven sūktas. Of these, the first is the sūkta of fifteen riks beginning *kasya nūnam*. Its seer is Śunaḥśepa, son of Ajīgarta; the metre is Triṣṭubh; the triplet *abhi tvā deva* is Gāyatrī. Because the first [rik] is not specified, its deity is Prājāpatya [Prajāpati] and the like; the rik *agner vayam* is Agni's; the triplet *abhi tvā deva* has Savitṛ; the rik *bhagabhakṣasya* has Bhaga [or Savitṛ]; the rest are Varuṇa's. As the Anukramaṇikā says: '*kasya* — fifteen; Ājīgarti Śunaḥśepa — he, the adopted son of Viśvāmitra, called Devarāta; Varuṇa's, Triṣṭubh; at the beginning, [the deities are] Ka [Prajāpati] and Agni; the triplet is Savitṛ's and Gāyatrī; the last of it is Bhāgī [Bhaga's]' [wording of the last clause read with doubt]. At the Rājasūya, on the Abhiṣecanīya day, when the Marutvatīya is finished, this group of seven sūktas is to be recited by the Hotṛ in front of the anointed king, surrounded by his sons and the rest. So the sūtra says: 'When the Marutvatīya is finished, [the Hotṛ], seated on a golden mat to the south of the Āhavanīya, should recite the Śunaḥśepa [legend] to the anointed king surrounded by his sons and ministers' (Āś. 6-3). And the Brāhmaṇa says: 'This is the Śunaḥśepa legend with its verses: the Hotṛ, seated on a golden mat, recites it to the anointed king; the Adhvaryu responds' (Ai. Brā. 7-18)."
+> प्रथममण्डलस्य षष्ठेऽनुवाके सप्त सूक्तानि । तत्र कस्य नूनमिति पञ्चदशर्चं प्रथमं सूक्तं । अजीगर्तपुत्रस्य शुनःशेपस्यार्षं । त्रैष्टुभं । अभि त्वा देवेति तृचो गायत्रः । आद्याया अनिरुक्तत्वात्प्रजापतिर्देवता । अग्नेर्वयमित्यस्याग्निः । अभि त्वा देवेत्यस्य तृचस्य सविता । भगभक्तस्येत्येषा भगदेवताका वा । शेषा वारुण्यः । तथा चानुक्रान्तं । कस्य पञ्चोनाजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातो वारुणं तु त्रैष्टुभमादौ काय्याग्नेय्यौ सावित्रस्तृचो गायत्रोऽस्यान्त्या भागी वेति ॥ राजसूयेऽभिषेचनीयेऽहनि मरुत्वतीये परिसमाप्ते सत्येतदादिकं सूक्तसप्तकमभिषिक्तस्य पुत्रादिभिः परिवृतस्य राज्ञः पुरस्ताद्धोत्राख्यातव्यं । तथा च सूत्रेऽभिहितं । संस्थिते मरुत्वतीये दक्षिणत आहवनीयस्य हिरण्यकशिपावासीनोऽभिषिक्ताय पुत्रामात्यपरिवृताय राज्ञे शौनःशेपमाचक्षीत । आ० ९-३ । इति । ब्राह्मणं च भवति । तदेतत्परऋक्शतगाथं शौनःशेपमाख्यानं तद्धोता राज्ञेऽभिषिक्तायाचष्टे हिरण्यकशिपावासीन आचष्टे हिरण्यकशिपावासीनः प्रतिगृणाति । ऐ० ब्रा० ७-१८ । इति ॥
+>
+> *prathamamaṇḍalasya ṣaṣṭhe 'nuvāke sapta sūktāni | tatra kasya nūnamiti pañcadaśarcaṃ prathamaṃ sūktaṃ | ajīgartaputrasya śunaḥśepasyārṣaṃ | traiṣṭubhaṃ | abhi tvā deveti tṛco gāyatraḥ | ādyāyā aniruktatvātprajāpatirdevatā | agnervayamityasyāgniḥ | abhi tvā devetyasya tṛcasya savitā | bhagabhaktasyetyeṣā bhagadevatākā vā | śeṣā vāruṇyaḥ | tathā cānukrāntaṃ | kasya pañconājīgartiḥ śunaḥśepaḥ sa kṛtrimo vaiśvāmitro devarāto vāruṇaṃ tu traiṣṭubhamādau kāyyāgneyyau sāvitrastṛco gāyatro 'syāntyā bhāgī veti || rājasūye 'bhiṣecanīye 'hani marutvatīye parisamāpte satyetadādikaṃ sūktasaptakamabhiṣiktasya putrādibhiḥ parivṛtasya rājñaḥ purastāddhotrākhyātavyaṃ | tathā ca sūtre 'bhihitaṃ | saṃsthite marutvatīye dakṣiṇata āhavanīyasya hiraṇyakaśipāvāsīno 'bhiṣiktāya putrāmātyaparivṛtāya rājñe śaunaḥśepamācakṣīta | ā0 9-3 | iti | brāhmaṇaṃ ca bhavati | tadetatparaṛkśatagāthaṃ śaunaḥśepamākhyānaṃ taddhotā rājñe 'bhiṣiktāyācaṣṭe hiraṇyakaśipāvāsīna ācaṣṭe hiraṇyakaśipāvāsīnaḥ pratigṛṇāti | ai0 brā0 7-18 | iti ||*
 
-**॥ Anuvāda (Kannada rendering) ॥** *(p. 235)* From this sūkta the sixth anuvāka of the first maṇḍala begins; it contains seven sūktas. The sūkta *kasya nūnam* has fifteen riks; the seer of all seven sūktas of this anuvāka is Śunaḥśepa, son of Ajīgarta, known as Devarāta, the adopted son of Viśvāmitra (the *kṛtrima*-putra). The sūkta has Varuṇa as its deity and Triṣṭubh as its metre. The first rik has Prajāpati (*Ka*) as deity; the rik *agner vayam* has Agni; the three riks *abhi tvā deva* have Savitṛ — but of these three the rik *bhagabhakṣasya* [the third, Rik 5] has Savitṛ or Bhaga; all the remaining riks have Varuṇa. The Anukramaṇikā says: [the quotation above]. **Use:** in the Rājasūya sacrifice, on the day of the anointing, after the Marutvatīya *śastra*, the seven sūktas beginning *kasya nūnam* must be recited to the king facing him, who has been anointed and is surrounded by his sons and kinsmen. Āśvalāyana's Śrauta-sūtra says: [the sūtra above] (Āś. 6-3). The Aitareya-brāhmaṇa also says: 'The Hotṛ, seated on his golden seat, recites to the anointed king the seven sūktas, the hundred [and one] riks, beginning *kasya nūnam*, with the Śunaḥśepa-legend, while the king, seated on his own seat, looks on' (Ai. Brā. 7-18).
+**Translation:** "In the sixth anuvāka of the first maṇḍala there are seven sūktas. Of these the first is the sūkta *kasya nūnam*, of fifteen ṛks; its ṛṣi is Śunaḥśepa, son of Ajīgarta; it is in *triṣṭubh*; the tṛca *abhi tvā deva* is in *gāyatrī*. Because the first ṛk does not name its deity, Prajāpati is its deity; of *agner vayam*, Agni; of the tṛca *abhi tvā deva*, Savitṛ; *bhagabhaktasya* has Bhaga as deity, optionally; the rest are to Varuṇa. And so the Anukramaṇī: '*kasya*, fifteen less five [as printed: *pañcona*]; Ājīgarti Śunaḥśepa, he, the adopted Vaiśvāmitra Devarāta; to Varuṇa, in *triṣṭubh*; at the beginning one to Ka and one to Agni; a tṛca to Savitṛ in *gāyatrī*, of which the last is to Bhaga, optionally.' In the *rājasūya*, on the day of the consecration, when the *marutvatīya* is finished, this group of seven sūktas beginning here is to be narrated by the *hotṛ* before the consecrated king, surrounded by his sons and the rest. And so it is said in the sūtra: 'When the *marutvatīya* is finished, seated on a golden cushion to the south of the *āhavanīya*, he should tell the Śaunaḥśepa to the consecrated king, surrounded by his sons and ministers' (Āśv. 9-3). And there is the brāhmaṇa: 'This is the Śaunaḥśepa story, of more than a hundred ṛks and with *gāthās*; the *hotṛ* tells it to the consecrated king; seated on a golden cushion he tells it; seated on a golden cushion [the *adhvaryu*] responds' (Ai. Brā. 7-18 [as read])."
 
-**॥ Heading block of the sūkta (p. 236) ॥**
+**Anuvāda (Kannada rendering):** With this sūkta the sixth anuvāka of the first maṇḍala begins. In it there are seven sūktas. In the first sūkta, *kasya nūnam*, there are fifteen ṛks. For all seven sūktas in this anuvāka the ṛṣi is Śunaḥśepa, son of Ajīgarta. The three ṛks beginning *abhi tvā deva savitaḥ* are in the Gāyatrī metre. The remaining ṛks are in the Triṣṭubh metre. Since in the first ṛk no deity is set forth by name, —
 
-> मण्डल १ — अनुवाक ६ — सूक्त २४ । अष्टक १ — अध्याय २ — वर्ग [१३–१८?] [?] । ऋक्संख्या १५ ।
-> ऋषिः — शुनःशेप आजीगर्तिः कृत्रिमो वैश्वामित्रो देवरातः । देवता — १ कः (प्रजापतिः) । २ अग्निः । ३–४ सविता । ५ सविता भगो वा । ६–१५ वरुणः । छन्दः — १–२, ६–१५ त्रिष्टुप् । ३–५ गायत्री ।
+### Page 235 — Sūkta 24: introduction (continued)
 
-*Maṇḍala 1 — Anuvāka 6 — Sūkta 24. Aṣṭaka 1 — Adhyāya 2 — Varga [13–18?] [?]. Riks: 15. Ṛṣi: Śunaḥśepa Ājīgarti, the adopted [Kṛtrima] son of Viśvāmitra, Devarāta. Devatā: 1 Ka (Prajāpati); 2 Agni; 3–4 Savitṛ; 5 Savitṛ or Bhaga; 6–15 Varuṇa. Metre: 1–2 and 6–15 Triṣṭubh; 3–5 Gāyatrī.* *(Varga and devatā numerals read at 130 dpi, marked [?].)*
+— Prajāpati himself is its deity; for the ṛk *agner vayam*, Agni is the deity; for the three ṛks *abhi tvā*, Savitṛ is the deity. But among these three ṛks, for the third ṛk, *bhagabhaktasya*, Savitṛ or Bhaga is the deity; for all the remaining ṛks Varuṇa is the deity. On this matter the Anukramaṇī says thus —
+
+> कस्य पञ्चोनाजीगर्तिः शुनःशेपः स कृत्रिमो वैश्वामित्रो देवरातो वारुणं तु त्रैष्टुभमादौ काय्याग्नेय्यौ सावित्रस्तृचो गायत्रोऽस्यान्त्या भागी वेति ॥
+>
+> *kasya pañconājīgartiḥ śunaḥśepaḥ sa kṛtrimo vaiśvāmitro devarāto vāruṇaṃ tu traiṣṭubhamādau kāyyāgneyyau sāvitrastṛco gāyatro 'syāntyā bhāgī veti ||*
+
+— that is: for the sūkta *kasya nūnam*, containing fifteen ṛks, the ṛṣi is Śunaḥśepa, son of Ajīgarta. This Śunaḥśepa is well known by the name Devarāta as the adopted son of the ṛṣi Viśvāmitra. This sūkta has Varuṇa as deity and is made of ṛks in the Triṣṭubh metre. But for the first two ṛks Ka, that is Prajāpati, and Agni are the deities. For the next ṛks, that is 3–5, Savitṛ is the deity; for the fifth ṛk it is said that Savitṛ or Bhaga is the deity. These three ṛks are in the Gāyatrī metre. For all the remaining ṛks Varuṇa is the deity and the metre is Triṣṭubh.
+
+Its application: in the *rājasūya* sacrifice, on the day of consecration, after the recitation of the *marutvatīya-śastra* mantras, the *hotṛ* must recite the seven sūktas beginning *kasya nūnam* (the seven sūktas of this anuvāka) facing the consecrated king, surrounded by sons and other kinsfolk. On this matter the Āśvalāyana Śrautasūtra says thus —
+
+> संस्थिते मरुत्वतीये दक्षिणत आहवनीयस्य हिरण्यकशिपावासीनोऽभिषिक्ताय पुत्रामात्यपरिवृताय राज्ञे शौनःशेपमाचक्षीत ॥ (आ० ९-३)
+> ब्राह्मणं च भवति — तदेतत्परऋक्शतगाथं शौनःशेपमाख्यानं तद्धोता राज्ञेऽभिषिक्तायाचष्टे हिरण्यकशिपावासीन आचष्टे हिरण्यकशिपावासीनः प्रतिगृणाति ॥ (ऐ० ब्रा० ७-१८ [?])
+>
+> *saṃsthite marutvatīye dakṣiṇata āhavanīyasya hiraṇyakaśipāvāsīno 'bhiṣiktāya putrāmātyaparivṛtāya rājñe śaunaḥśepamācakṣīta || (ā0 9-3)*
+> *brāhmaṇaṃ ca bhavati — tadetatparaṛkśatagāthaṃ śaunaḥśepamākhyānaṃ taddhotā rājñe 'bhiṣiktāyācaṣṭe hiraṇyakaśipāvāsīna ācaṣṭe hiraṇyakaśipāvāsīnaḥ pratigṛṇāti || (ai0 brā0 7-18 [?])*
+
+— that is: in the *rājasūya* sacrifice, after the recitation of the *marutvatīya-śastra* mantras, the consecrated king must sit, together with his sons and ministers, on a golden seat (cushion) to the south of the *āhavanīya* fire. Then the *hotṛ* must recite the seven sūktas, connected with Śunaḥśepa, that is, having Śunaḥśepa as ṛṣi, beginning *kasya nūnam* (Ā. 9-3).
+
+### Page 236 (upper) — Sūkta 24: introduction (end), heading block
+
+In the Aitareya Brāhmaṇa too it is said on this matter: the *hotṛ* must recite the hundred ṛks (97 ṛks [as printed]) of the seven sūktas beginning *kasya nūnam*, which contain the Śunaḥśepa story, while sprinkling the king who has been consecrated and is seated on the golden seat (Ai. Brā. 7-18 [?]).
+
+*(An ornament follows.)*
+
+**॥ Sūkta — 24 ॥**
+**॥ Maṇḍala — 1 ॥ Anuvāka — 6 ॥ Sūkta — 24 ॥**
+**॥ Aṣṭaka — 1 ॥ Adhyāya — 2 ॥ Varga, 13–15 ॥**
+**॥ Number of ṛks in the sūkta: 15 ॥**
+**॥ Ṛṣiḥ — Śunaḥśepa Ājīgartiḥ, kṛtrimo Vaiśvāmitro Devarātaḥ ॥**
+**॥ Devatā — 1 Kaḥ (Prajāpatiḥ) | 2 Agniḥ | 3–4 Savitā | 5 Savitā Bhago vā | 6–15 Varuṇaḥ ॥**
+**॥ Chandaḥ — 1–2, 6–15 Triṣṭup | 3–5 Gāyatrī ॥**
 
 ---
 
