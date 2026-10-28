@@ -4169,13 +4169,15 @@
 
 ### Rik 52.6 (pp. 233–, PDF 249–)
 
-**Saṃhitā-pāṭha** *(p. 233; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 233, read from the old scan — the better scan lacks pp. 232–233; accents as printed)*
 
-> **परीं घृणा चरति तित्विषे शवोऽपो वृत्वी रजसो बुध्नमाशयत् ।**
-> **वृत्रस्य यत्प्रवणे दुर्गृभिश्वनो निजघन्थ हन्वोरिन्द्र तन्यतुम् ॥ ६ ॥**
+> **परीं॑ घृ॒णा च॑रति तित्वि॒षे शवो॒ऽपो वृ॒त्वी रज॑सो बु॒ध्नमाश॑यत् ।** [accent ?]
+> **वृ॒त्रस्य॒ यत्प्र॑व॒णे दु॒र्गृभि॑श्वनो निज॒घन्थ॒ हन्वो॑रिन्द्र तन्य॒तुं ॥ ६ ॥**
 
-*parīṃ ghṛṇā carati titviṣe śavo 'po vṛtvī rajaso budhnam āśayat |*
-*vṛtrasya yat pravaṇe durgṛbhiśvano nijaghantha hanvor indra tanyatum || 6 ||*
+*párīṃ ghṛṇā́ carati titviṣé śávo 'pó vṛtvī́ rájaso budhnám ā́śayat |*
+*vṛtrásya yát pravaṇé durgṛ́bhiśvano nijaghantha hánvor indra tanyatúṃ || 6 ||*
+
+*(Pass: [accent ?] — the svarita stroke of the first word stands between ಪ and ರೀಂ; read as on* rīṃ*. In* nijaghantha *the print sets anudātta bars under both ಜ and ಘನ್ಥ. The line ends "ತನ್ಯತುಂ" with anusvāra.)*
 
 **Pada-pāṭha** *(p. 234)*
 
@@ -4187,11 +4189,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 234)*
 
-> **यो वृत्रोऽपो वृत्वी । उदकान्यावृत्य रजसो बुध्नमन्तरिक्षस्योपरिप्रदेशमाशयत् । आश्रित्यास्त । तस्य वृत्रस्य प्रवणे प्रकर्षेण वननीयेऽन्तरिक्षे वर्तमानस्य दुर्गृभिश्वनो दुर्ग्रहव्यापनस्य । तस्य हि व्यापनं न केनापि ग्रहीतुं शक्यते । स इमाँल्लोकानावृणोदिति श्रुतेः । एवंभूतस्य वृत्रस्य हन्वोर्मुखपार्श्वयोः । हे इन्द्र यद्यदा तन्यतुं प्रहारं विस्तारयन्तं यद्वा शब्दकारिणं वज्रं [print: तृतीयार्थे द्वितीया] । तन्यतुना वज्रेण निजघन्थ । नितरां प्राजहर्थ । तदानीमिमेनं त्वामिन्द्रं घृणा शत्रुजयलक्षणा दीप्तिः परिचरति । परितो व्याप्नोति । त्वदीयं शवो बलं च तित्विषे । प्रदिदीपे ॥**
+> **यो वृत्रोऽपो वृत्वी । उदकान्यावृत्य रजसो बुध्नमन्तरिक्षस्योपरिप्रदेशमाशयत् । आश्रित्याशेत । तस्य वृत्रस्य प्रवणे प्रकर्षेण वननीयेऽन्तरिक्षे वर्तमानस्य दुर्गृभिश्वनो दुर्ग्रहव्यापनस्य । तस्य हि व्यापनं न केनापि ग्रहीतुं शक्यते । स इमाँल्लोकानावृणोदिति श्रुतेः । एवंभूतस्य वृत्रस्य हन्वोर्मुखपार्श्वयोः । हे इन्द्र यद्यदा तन्यतुं प्रहारं विस्तारयन्तं यद्वा शब्दकारिणं वज्रं । तृतीयार्थे द्वितीया । तन्यतुना वज्रेण निजघन्थ । नितरां प्रजहर्थ । तदानीमीमेनं त्वामिन्द्रं घृणा शत्रुजयलक्षणा दीप्तिः परिचरति । परितो व्याप्नोति । त्वदीयं शवो बलं च तित्विषे । प्रदिदीपे ॥**
 
-*yo vṛtro 'po vṛtvī | udakāny āvṛtya rajaso budhnam antarikṣasyopariprade­śam āśayat | āśrityāsta | tasya vṛtrasya pravaṇe prakarṣeṇa vananīye 'ntarikṣe vartamānasya durgṛbhiśvano durgrahavyāpanasya | tasya hi vyāpanaṃ na kenāpi grahītuṃ śakyate | sa imāṃl lokān āvṛṇod iti śruteḥ | evaṃbhūtasya vṛtrasya hanvor mukhapārśvayoḥ | he indra yad yadā tanyatuṃ prahāraṃ vistārayantaṃ yadvā śabdakāriṇaṃ vajraṃ [tṛtīyārthe dvitīyā] | tanyatunā vajreṇa nijaghantha | nitarāṃ prājaharthā | tadānīm imenaṃ tvām indraṃ ghṛṇā śatrujayalakṣaṇā dīptiḥ paricarati | parito vyāpnoti | tvadīyaṃ śavo balaṃ ca titviṣe | pradidīpe ||*
+*yo vṛtro 'po vṛtvī | udakāny āvṛtya rajaso budhnam antarikṣasyopariprade­śam āśayat | āśrityāśeta | tasya vṛtrasya pravaṇe prakarṣeṇa vananīye 'ntarikṣe vartamānasya durgṛbhiśvano durgrahavyāpanasya | tasya hi vyāpanaṃ na kenāpi grahītuṃ śakyate | sa imāṃl lokān āvṛṇod iti śruteḥ | evaṃbhūtasya vṛtrasya hanvor mukhapārśvayoḥ | he indra yad yadā tanyatuṃ prahāraṃ vistārayantaṃ yadvā śabdakāriṇaṃ vajraṃ tṛtīyārthe dvitīyā | tanyatunā vajreṇa nijaghantha | nitarāṃ prajahartha | tadānīm īm enaṃ tvām indraṃ ghṛṇā śatrujayalakṣaṇā dīptiḥ paricarati | parito vyāpnoti | tvadīyaṃ śavo balaṃ ca titviṣe | pradidīpe ||*
 
-*(Reading notes: "*mukhapārśvayoḥ*" for the jaws, and the bracketed grammatical remark "*tṛtīyārthe dvitīyā*" — "the second case in the sense of the third", which is the Kannada Special Topics' remark — I read from the print, which is crowded in this line, [?]. The tail of the bhāṣya, p. 234 foot –: on* vṛtvī *(*vṛñ varaṇe*, *kvanip* with the Uṇādi list "*snātvyādayaś ca*", Pā. 3-2-… as read [?]),* rajasaḥ *(*ranja rāge*, "*rajanty asmin gandharvādayaḥ*", the loss of* na *by "*rajakaraja…*"),* āśayat *(*śīṅ svapne*, with a Vedic* parasmaipada *and the non-elision of* śap*),* durgṛbhiśvanaḥ *(*graha upādāne*, "*kūpusam…*" and the Vedic substitute *śvan* in "*durgṛbhi*… *pṛṣodarādi*"),* nijaghantha *(*han hiṃsāgatyoḥ*, *liṭ* with* thal*, no* iṭ *by the* kṛdādi*-rule,* abhyāsāc ca *for* ku*),* tanyatum *(*tanu vistāre*, the Uṇādi* atu*, "*yadvā stana śabde*" with the loss of* s*) — is characterized.)*
+*(Reading notes: "*mukhapārśvayoḥ*" for the jaws, and the bracketed grammatical remark "*tṛtīyārthe dvitīyā*" — "the second case in the sense of the third", which is the Kannada Special Topics' remark — both re-read from the old scan (p. 234 of the better scan is clear too); also "*āśrityāśeta*", "*prajahartha*", "*tadānīm īm enaṃ*". The tail prints Pā. 7-1-49 (*snātvyādayaś ca*), Pā. 7-2-62 and Uṇ. 4-20 [?]. The tail of the bhāṣya, p. 234 foot –: on* vṛtvī *(*vṛñ varaṇe*, *kvanip* with the Uṇādi list "*snātvyādayaś ca*", Pā. 7-1-49),* rajasaḥ *(*ranja rāge*, "*rajanty asmin gandharvādayaḥ*", the loss of* na *by "*rajakaraja…*"),* āśayat *(*śīṅ svapne*, with a Vedic* parasmaipada *and the non-elision of* śap*),* durgṛbhiśvanaḥ *(*graha upādāne*, "*kūpusam…*" and the Vedic substitute *śvan* in "*durgṛbhi*… *pṛṣodarādi*"),* nijaghantha *(*han hiṃsāgatyoḥ*, *liṭ* with* thal*, no* iṭ *by the* kṛdādi*-rule,* abhyāsāc ca *for* ku*),* tanyatum *(*tanu vistāre*, the Uṇādi* atu*, "*yadvā stana śabde*" with the loss of* s*) — is characterized.)*
 
 **Translation of the bhāṣya:** "The Vṛtra who, *vṛtvī*, having covered the waters, *āśayat*, lay on the *rajasaḥ budhnam*, the summit of the atmosphere, resting on it: of that Vṛtra, who dwelt *pravaṇe*, in the atmosphere that is excellently to be resorted to, *durgṛbhiśvanaḥ*, whose spreading could not be checked — his pervasion cannot be seized by anyone, according to the śruti 'he covered these worlds' — of such a Vṛtra, *hanvoḥ*, on the two jaws (the sides of the mouth): O Indra, when you struck, *nijaghantha*, hard, with the *tanyatu*, the spreading blow — or the sounding thunderbolt — then, *īm*, this you, Indra, *ghṛṇā*, the radiance that signifies victory over the enemy, *pari carati*, goes round, pervades on every side; and your strength, power, *titviṣe*, blazed."
 
@@ -4215,12 +4217,12 @@
 **Rik 52.6, Special Topic and grammar notes** *(pp. 236–237, PDF 252–253 — grammar pages, noted briefly)*
 - **ghṛṇā** (Special Topic, p. 236): "In common usage this word means 'compassion'; but here it must be taken as the radiance — or the lustre — that indicates victory over enemies."
 - **titviṣe**: *tviṣa dīptau*; *liṭ* with *ta*, replaced by *e* by *liṭas tajhayor eśirec*; being *kit*-like, reduplication; *halādiḥ śeṣaḥ*: *titviṣe*; initial-acute by the suffix-accent on the root's last…: the middle acute; since *carati* (a verb) follows, the *nighāta* does not come.
-- **vṛtvī**: *vṛñ varaṇe*; *ktvā*; for *vṛtvā*, *snātvyādayaś ca* (Pā. 3-4-49 [?]) — by the word *ādi* in it, *ktvā* is replaced by *ī*-ending: *vṛtvī*; end-acute by the suffix.
-- **rajasaḥ**: *ranja rāge*; "*rajanty asmin gandharvādayaḥ iti rajaḥ antarikṣam*"; *asun* after all roots; *rajakarajanarajaḥsūpasaṃkhyānam* (a *vārttika*, as read [?]) drops the *n*: *rajas*.
+- **vṛtvī**: *vṛñ varaṇe*; *ktvā*; for *vṛtvā*, *snātvyādayaś ca* (Pā. sū. 7-1-49) — by the word *ādi* in it, *ktvā* is replaced by *ī*-ending: *vṛtvī*; end-acute by the suffix.
+- **rajasaḥ**: *ranja rāge*; "*rajanty asmin gandharvādayaḥ iti rajaḥ antarikṣam*"; *asun* after all roots; *rajakarajanarajaḥsūpasaṃkhyānam* (Pā. sū. 6-4-24-4, a *vārttika*) drops the *n*: *rajas*.
 - **āśayat**: *śīṅ svapne*; *vyatyayo bahulam* gives the *parasmaipada*; *laṅ* third singular *tip*, whose *i* is lost by *itaś ca*; by *bahulaṃ chandasi* *śap* is not elided; guṇa since *śap* is the cause; *ayādeśa*; *aṭ* as the augment; *tiṅ atiṅaḥ*, *nighāta*.
 - **durgṛbhiśvanaḥ**: *graha upādāne* and *aśū vyāptau*; with *dus* as the first member, these two roots follow *pṛṣodarādīni yathopadiṣṭam*, being in that group, so the desired form is obtained by letter-change and the like.
-- **nijaghantha**: *han hiṃsāgatyoḥ*; *liṭ* second singular *sip*, replaced by *thal* by *parasmaipadānāṃ ṇalatusus…*; though the root is *anit* by *kryādiniyama*, an *iṭ* would come to *thal*, but *upadeśe 'tvataḥ* (Pā. 7-2-62) forbids it again, because the root has *a* [as read]; reduplication; *halādiśeṣaḥ*; *kuhoś cuḥ*; *abhyāsāc ca* gives *gh* for the *h* of the root after the reduplicative syllable; *n* becomes anusvāra and the homorganic: *jaghantha*; *thal* being *lit*, the acute is on the part before the suffix (*liti*, Pā. 6-1-193); because of the earlier *yat*, the *nighāta* is forbidden by *yadvṛttān nityam*.
-- **tanyatum**: *tanu vistāre*; *atu* by *ṛtanyañjiyam…* (Uṇ. 3-… as read [?]) — *yatuc* in the Kannada notes: *yatuc*; or from *stana śabde* with *yatuc* by the *bahulam* of *uṇādayo bahulam*; the loss of *s* is Vedic: *tanyatu*; end-acute by *citaḥ*. **|| 6 ||**
+- **nijaghantha**: *han hiṃsāgatyoḥ*; *liṭ* second singular *sip*, replaced by *thal* by *parasmaipadānāṃ ṇalatusus…*; though the root is *anit* by *kryādiniyama*, an *iṭ* would come to *thal*, but *upadeśe 'tvataḥ* (Pā. sū. 7-2-62) forbids it again, because the root has *a* [as read]; reduplication; *halādiśeṣaḥ*; *kuhoś cuḥ*; *abhyāsāc ca* (Pā. sū. 7-3-55) gives *gh* for the *h* of the root after the reduplicative syllable; *n* becomes anusvāra and the homorganic: *jaghantha*; *thal* being *lit*, the acute is on the part before the suffix (*liti*; no number printed); because of the earlier *yat*, the *nighāta* is forbidden by *yadvṛttān nityam*.
+- **tanyatum**: *tanu vistāre*; *atu* by *ṛtanyañjiyam…* (Uṇ. sū. 4-442 as read, last digit [?]) — *yatuc* in the Kannada notes: *yatuc*; or from *stana śabde* with *yatuc* by the *bahulam* of *uṇādayo bahulam*; the loss of *s* is Vedic: *tanyatu*; end-acute by *citaḥ*. **|| 6 ||**
 
 ---
 
