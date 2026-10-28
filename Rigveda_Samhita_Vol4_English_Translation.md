@@ -238,10 +238,13 @@ Kannada prose with sūtras quoted; the numerals are small; those given were re-r
 
 ### Rik 33.4 (p. 16 onwards, PDF 30–)
 
-**Saṃhitā-pāṭha** *(p. 16; accents not reproduced; the last word is divided across two lines in the print: *prēti-mīyuḥ*)*
+**Saṃhitā-pāṭha** *(p. 16; Saṃhitā accents as printed; Pada unaccented; the last word is divided across two lines in the print: *prēti-mīyuḥ*)*
 
-> **वधीर्हि दस्युं धनिनं घनेन एकश्चरन्नुपशाकेभिरिन्द्र ।**
-> **धनोरधि विषुणक्ते व्यायन्नयज्वानः सनकाः प्रेतिमीयुः ॥ ४ ॥**
+> वधी॒र्हि दस्युं॑ ध॒नि॑नं घ॒नेनँ॒ एक॒श्चर॑न्नुपशा॒केभि॑रिन्द्र ।
+> धनो॒रधि॑ विषु॒णक्ते व्या॑य॒न्नय॑ज्वा॒नः सन॒काः प्रेति॑मीयुः ॥ ४ ॥
+>
+> *vadhīr hí dásyuṃ dhaninaṃ ghanéna̐ ékaś cáran nupaśākébhir indra |*
+> *dhanor ádhi viṣuṇák té vyāyann áyajvānáḥ sanakā́ḥ prétimīyuḥ || 4 ||*
 
 *vadhīr hi dasyuṃ dhaninaṃ ghanena ekaś carann upaśākebhir indra |*
 *dhanor adhi viṣuṇak te vy āyann ayajvānaḥ sanakāḥ pretim īyuḥ || 4 ||*
