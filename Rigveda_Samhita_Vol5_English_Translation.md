@@ -4402,13 +4402,13 @@
 
 ### Rik 52.10 (pp. 246–, PDF 262–)
 
-**Saṃhitā-pāṭha** *(p. 246; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 246; accents as printed)*
 
-> **द्यौश्चिदस्यामवाँ अहेः स्वनादयोयवीद्भियसा वज्र इन्द्र ते ।**
-> **वृत्रस्य यद्बद्बधानस्य रोदसी मदे सुतस्य शवसाभिनच्छिरः ॥ १० ॥**
+> **द्यौश्चि॑द॒स्याम॑वाँ॒ अहेः॑ स्व॒नादयो॑यवीद्भि॒यसा॒ वज्र॑ इन्द्र ते ।**
+> **वृ॒त्रस्य॒ यद्ब॑द्बधा॒नस्य॑ रोदसी॒ मदे॑ सु॒तस्य॒ शव॒साभि॑न॒च्छिरः॑ ॥ १० ॥**
 
-*dyauś cid asyāmavāṃ aheḥ svanād ayoyavīd bhiyasā vajra indra te |*
-*vṛtrasya yad badbadhānasya rodasī made sutasya śavasābhinac chiraḥ || 10 ||*
+*dyaúś cid asyā́mavām̐ áheḥ svanā́d áyoyavīd bhiyásā vájra indra te |*
+*vṛtrásya yád badbadhānásya rodasī máde sutásya śávasā́bhinac chíraḥ || 10 ||*
 
 *(The print reads "अयोयवीद्" — I take it as the verb* ayoyavīt *of the Pada;* aheḥ svanāt *as printed.)*
 
@@ -4422,11 +4422,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 246)*
 
-> **अमवान्बलवान् द्यौश्चित् द्युलोकोऽप्यस्याहेर्वृत्रस्य स्वनाच्छब्दाद्भियसा भयेनायोयवीत् । अत्यर्थं पृथग्भूत आसीत् । अकम्पतेत्यर्थः । हे इन्द्र ते तव सुतस्याभिषवादिभिः संस्कृतस्य सोमस्य पानेन मदे हर्षे जाते सति त्वदीयो वज्रो रोदसी द्यावापृथिव्यौ बद्बधानस्य बाधनशीलस्य वृत्रस्य शिरो यद्यदा शवसा बलेनाभिनत् । आच्छिनत् । तदानीं द्युलोको भयराहित्येन निश्चलो बभूवेति शेषः ॥**
+> **अमवान्बलवान् द्यौश्चित् द्युलोकोऽप्यस्याहेर्वृत्रस्य स्वनाच्छब्दाद्भियसा भयेनायोयवीत् । अत्यर्थं पृथग्भूत आसीत् । अकम्पतेत्यर्थः । हे इन्द्र ते तव सुतस्याभिषवादिभिः संस्कृतस्य सोमस्य पानेन मदे हर्षे जाते सति त्वदीयो वज्रो रोदसी द्यावापृथिव्यौ बद्बधानस्य बाधनशीलस्य वृत्रस्य शिरो यद्यदा शवसा बलेनाभिनत् । अच्छिनत् । तदानीं द्युलोको भयराहित्येन निश्चलो बभूवेति शेषः ॥**
 
-*amavān balavān dyauś cid dyuloko 'py asyāher vṛtrasya svanāc chabdād bhiyasā bhayenāyoyavīt | atyartham pṛthagbhūta āsīt | akampatety arthaḥ | he indra te tava sutasyābhiṣavādibhiḥ saṃskṛtasya somasya pānena made harṣe jāte sati tvadīyo vajro rodasī dyāvāpṛthivyau badbadhānasya bādhanaśīlasya vṛtrasya śiro yad yadā śavasā balenābhinat | ācchinat | tadānīṃ dyuloko bhayarāhityena niścalo babhūveti śeṣaḥ ||*
+*amavān balavān dyauś cid dyuloko 'py asyāher vṛtrasya svanāc chabdād bhiyasā bhayenāyoyavīt | atyartham pṛthagbhūta āsīt | akampatety arthaḥ | he indra te tava sutasyābhiṣavādibhiḥ saṃskṛtasya somasya pānena made harṣe jāte sati tvadīyo vajro rodasī dyāvāpṛthivyau badbadhānasya bādhanaśīlasya vṛtrasya śiro yad yadā śavasā balenābhinat | acchinat | tadānīṃ dyuloko bhayarāhityena niścalo babhūveti śeṣaḥ ||*
 
-*(Reading note: the clause ending "*ācchinat*" — "cut off" — is read from the print; for "*tadānīṃ dyuloko bhayarāhityena niścalo babhūveti śeṣaḥ*" the sense is "then heaven became steady, free from fear", as the Pratipadārtha below confirms. The grammatical tail on* ayoyavīt *(*yu miśraṇāmiśraṇayoḥ*, a frequentative in the Vedic* luṅ *with* ī*-augment by* aste… yaṅo luk*, Pā. 2-4-74 as read [?]) and* badbadhānasya *(*bādhṛ vilodane*, *tācchīlyika śānac*, with the reduplication of the intensive and the *dhatva*) is characterized.)*
+*(Reading note: the clause ending "*acchinat*" — "cut off" — is read from the print; for "*tadānīṃ dyuloko bhayarāhityena niścalo babhūveti śeṣaḥ*" the sense is "then heaven became steady, free from fear", as the Pratipadārtha below confirms. The grammatical tail on* ayoyavīt *(*yu miśraṇāmiśraṇayoḥ*, a frequentative in the Vedic* luṅ *with* ī*-augment by* asmād yaṅlugantāl laṅi yaṅo vā*, Pā. 7-3-94) and* badbadhānasya *(*bādhṛ vilodane*, *tācchīlyika śānac*, with the reduplication of the intensive and the *dhatva*) is characterized.)*
 
 **Translation of the bhāṣya:** "*Amavān*, the strong *dyauḥ cit*, even heaven *ayoyavīt*, was thoroughly separated — trembled — *bhiyasā*, from fear, *aheḥ svanāt*, at the roar of this serpent Vṛtra. O Indra, *te*, when by drinking your pressed Soma, purified by the pressing and other rites, delight arose, your thunderbolt, *yat*, when, with strength (*śavasā*), cut off (*abhinat*) the head (*śiraḥ*) of the afflicting Vṛtra, *rodasī*, [who oppressed] heaven and earth — then heaven became steady, free from fear — this is understood."
 
@@ -4443,21 +4443,21 @@
 **English Translation (the source's own, p. 247)** — "The strong heaven was rent asunder with fear at the clamour of that Ahi (Vritra) when you, Indra, delighted by drinking the effused soma-juice struck with your thunderbolt vigorously the head of Vritra, the obstructer of heaven and earth."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 247–248**
-- **etad uktaṃ bhavati** *(a Sanskrit passage in the print, with Kannada comment)*:
+- **atredam uktaṃ bhavati** *(a Sanskrit passage in the print, with Kannada comment)*:
 
-  > **एतदुक्तं भवति । यदा द्यावापृथिव्योरपि उपद्रवकारिणं वृत्रमिन्द्रोऽवधीत्तदा परममहिमयुक्तो द्युलोकोऽपि भयेन चकम्पे । तथा महाबलयुक्तमपीन्द्रस्य वज्रं स्वकृताद्वृत्रहननादेनन्तरं द्युलोकवदेव चकम्पे ॥**
+  > **अत्रेदमुक्तं भवति । यदा द्यावापृथिव्योरपि उपद्रवकारिणं वृत्रमिन्द्रोऽवधीत्तदा परममहिमयुक्तो द्युलोकोऽपि भयेन चकम्पे । तथा महाबलयुक्तमपीन्द्रस्य वज्रं स्वकृताद्वृत्रहननादनन्तरं द्युलोकवदेव चकम्पे ॥**
 
-  *etad uktaṃ bhavati | yadā dyāvāpṛthivyor api upadravakāriṇaṃ vṛtram indro 'vadhīt tadā paramamahimayukto dyuloko 'pi bhayena cakampe | tathā mahābalayuktam apīndrasya vajraṃ svakṛtād vṛtrahanan[ād anan]taraṃ dyulokavad eva cakampe ||* — "This is what is said: when Indra killed Vṛtra, who troubled even heaven and earth, then even heaven, endowed with supreme majesty, trembled with fear; and likewise, though endowed with great strength, Indra's thunderbolt itself trembled, as heaven did, after the slaying of Vṛtra that it had itself brought about [?]." *(The second half-line is crowded — read "*vṛtrahanan… anantaram*", [?].)* The Kannada adds: "The chief sense is this: when Indra killed Vṛtra, who was causing trouble to the worlds of heaven and earth, even the heaven of great majesty was made to tremble in fear. So too one may take it that the thunderbolt of Indra, though of great strength, trembled as heaven did."
+  *atredam uktaṃ bhavati | yadā dyāvāpṛthivyor api upadravakāriṇaṃ vṛtram indro 'vadhīt tadā paramamahimayukto dyuloko 'pi bhayena cakampe | tathā mahābalayuktam apīndrasya vajraṃ svakṛtād vṛtrahananād anantaraṃ dyulokavad eva cakampe ||* — "This is what is said: when Indra killed Vṛtra, who troubled even heaven and earth, then even heaven, endowed with supreme majesty, trembled with fear; and likewise, though endowed with great strength, Indra's thunderbolt itself trembled, as heaven did, after the slaying of Vṛtra that it had itself brought about." *(Pass: the print heads this "ಅತ್ರೇದಮುಕ್ತಂ ಭವತಿ" and reads "*vṛtrahananād anantaraṃ*" clearly.)* The Kannada adds: "The chief sense is this: when Indra killed Vṛtra, who was causing trouble to the worlds of heaven and earth, even the heaven of great majesty was made to tremble in fear. So too one may take it that the thunderbolt of Indra, though of great strength, trembled as heaven did."
 - **dyauś cit** — "The atmosphere also; here the word *cit* has the sense of *api*."
 - **ayoyavīt** — "For this word, which is the *luṅ*-ending form of the *yaṅ*-ending of the root *yu miśraṇāmiśraṇayoḥ*, the sense here is 'it trembled', or 'it was separated individually'."
 - **badbadhānasya** — "To the root *bādhṛ vilodane* the suffix *cānaś* is added; the sense is 'of one who has the nature of afflicting'."
 - **sutasya** — "Soma purified by the sacrificial rites such as pressing is called *suta*. Here too, following the context, one must give the sense 'by drinking soma'."
 
 **Vyākaraṇa-prakriyā** *(p. 248 — grammar page, noted briefly)*
-- **ayoyavīt**: *yu miśraṇāmiśraṇayoḥ*, *adādi*; with the sense of intensity, *yaṅ*; *yaṅo 'ci ca* gives *luk* of *yaṅ* [here, *yajo 'ci ca* as printed; read *yaṅo 'ci ca*, [?]]; *laṅ*/*luṅ* third singular *tip*; *itaś ca* drops the *i*; *sanyaṅoḥ* — *guṇa* of the root; *guṇo yaṅluk*… — the reduplication takes *guṇa*; *yajo vā* [as read, [?]] the *īṭ*-augment to the *t* that has the name *aprkta*; since *śap* … follows, *guṇa* and *ayādeśa* on account of the *sārvadhātuka*; *aṭ* from *luṅ*; the word begins a *pāda*, so no *nighāta*; since the augment *aṭ* is acute, the word is initial-acute.
-- **indra**: the vocative, *āmantritasya ca* (Pā. 8-1-19), the *nighāta* accent.
-- **badbadhānasya**: *bādhṛ vilodane*; *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. 3-2-129) gives *cānaś*; *śap* replaced by *ślu*; reduplication by *ślau*; the Vedic non-application of *halādiḥ śeṣaḥ* here; *hrasvaḥ* shortens the reduplicative syllable's vowel, since it is not the last; *jhalāṃ jaś jhaśi* turns the *dh* of the reduplicative into *d*: *badbadhāna*; genitive singular; since *cānaś* is *cit*, *citaḥ* gives end-acute.
-- **abhinat**: *bhidir vidāraṇe*, *rudhādi*; *laṅ* third singular; *itaś ca* drops *i*; *rudhādibhyaḥ śnam*; being *mit*, the *na* goes after the last vowel (*mid aco 'ntyāt paraḥ*); *aṭ* [absent]; *abhinad-t*, *saṃyogāntalopa* drops *t* — *abhinat*; by the connected *yat* word the *nighāta* is forbidden by *yadvṛttān nityam*; since the *aṭ* is acute, [the word is initial-acute]. **|| 10 ||**
+- **ayoyavīt**: *yu miśraṇāmiśraṇayoḥ*, *adādi*; with the sense of intensity, *yaṅ*; *yaṅo 'ci ca* gives *luk* of *yaṅ* [printed ಯಙೋಽಚಿಚ, the bold ಙ resembling ಜ]; *laṅ*/*luṅ* third singular *tip*; *itaś ca* drops the *i*; *sanyaṅoḥ* — *guṇa* of the root; *guṇo yaṅluk*… — the reduplication takes *guṇa*; *yaṅo vā* (Pā. sū. 7-3-94) the *īṭ*-augment to the *t* that has the name *aprkta*; since *śap* … follows, *guṇa* and *ayādeśa* on account of the *sārvadhātuka*; *aṭ* from *luṅ*; the word begins a *pāda*, so no *nighāta*; since the augment *aṭ* is acute, the word is initial-acute.
+- **indra**: the vocative, *āmantritasya ca* (Pā. sū. 8-1-19), the *nighāta* accent.
+- **badbadhānasya**: *bādhṛ vilodane*; *tācchīlyavayovacanaśaktiṣu cānaś* (Pā. sū. 3-2-130 as printed; for 3-2-129) gives *cānaś*; *śap* replaced by *ślu*; reduplication by *ślau*; the Vedic non-application of *halādiḥ śeṣaḥ* here; *hrasvaḥ* shortens the reduplicative syllable's vowel, since it is not the last; *jhalāṃ jaś jhaśi* turns the *dh* of the reduplicative into *d*: *badbadhāna*; genitive singular; since *cānaś* is *cit*, *citaḥ* gives end-acute.
+- **abhinat**: *bhidir vidāraṇe*, *rudhādi*; *laṅ* third singular; *itaś ca* drops *i*; *rudhādibhyaḥ śnam* (Pā. sū. 3-1-78); being *mit*, the *na* goes after the last vowel (*mid aco 'ntyāt paraḥ*); *aṭ* [absent]; *abhinad-t*, *saṃyogāntalopa* drops *t* — *abhinat*; by the connected *yat* word the *nighāta* is forbidden by *yadvṛttān nityam*; since the *aṭ* is acute, [the word is initial-acute]. **|| 10 ||**
 
 ---
 
