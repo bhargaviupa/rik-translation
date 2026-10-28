@@ -10458,31 +10458,39 @@ Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is 
 
 **Saṃhitā-pāṭha** *(p. 515)*
 
-> त्वं त्येभिरा गहि वाजेभिर्दुहितर्दिवः ।
-> अस्मे रयिं नि धारय ॥ २२ ॥
+*(Line 1 flagged [accent ?]: the first svarita stroke stands over* रा *(of* त्येभिरा*), not over* ग*; the bars are under* भि *and* हि*, the second stroke over* जे*.)*
 
-> *tvaṃ tyebhirā gahi vājebhirduhitardivaḥ |*
-> *asme rayiṃ ni dhāraya ‖ 22 ‖*
+> त्वं त्येभि॒रा॑ गहि॒ वाजे॑भिर्दुहितर्दिवः । [accent ?]
+> अ॒स्मे र॒यिं नि धा॑रय ॥ २२ ॥
+
+> *tvaṃ tyebhirā gahi vā́jebhirduhitardivaḥ |* [accent ?]
+> *asmé rayíṃ ní dhāraya || 22 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> त्वम् । त्येभिः । आ । गहि । वाजेभिः । दुहितः । दिवः ।
-> अस्मे इति । रयिम् । नि । धारय ॥ २२ ॥
+> त्वं । त्येभिः । आ । गहि । वाजेभिः । दुहितः । दिवः ।
+> अस्मे इति । रयिं । नि । धारय ॥ २२ ॥
 
-> *tvam | tyebhiḥ | ā | gahi | vājebhiḥ | duhitaḥ | divaḥ |*
-> *asme iti | rayim | ni | dhāraya ‖ 22 ‖*
+> *tvaṃ | tyebhiḥ | ā | gahi | vājebhiḥ | duhitaḥ | divaḥ |*
+> *asme iti | rayiṃ | ni | dhāraya ‖ 22 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 515)*
 
-> हे दिवो दुहितर्द्युदेवताया पुत्रि उषो देवि त्येभिर्वाजेभिस्तैरन्नैः सह त्वमा गहि । अत्रागच्छ । अस्मे अस्मासु रयिं धनं नि धारय । नितरां स्थापय ॥ त्येभिः । बहुलं छन्दसीति त्यद्शब्दाद्भिस ऐसादेशाभावः । गहि । अस्कृदुक्तम् । दुहितर्दिवः । परस्यापि दिव इत्यस्य दिवो दुहितरित्यन्वये सति पूर्ववत्त्वात्सुबामन्त्रिते इति पराङ्गवद्भावेन षष्ठ्यामन्त्रितसमुदायस्य सर्वानुदात्तत्वम् । यद्वा । कार्यकालं हि संज्ञापरिभाषम् । परि. ३ इति न्यायेन सुबामन्त्रित इत्यस्यामन्त्रितस्य चेत्याष्टमिकेन योगेनैकवाक्यत्वे सति … सर्वानुदात्तत्वम् । … अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः ॥ ३० ॥ ॥ ६ ॥
+*(The bhāṣya ends with ॥ ३१ ॥ ॥ ६ ॥: the varga number 31 (as in the page header, Varga 31) and the end of the sixth anuvāka.)*
 
-> *he divo duhitardyudevatāyā putri uṣo devi tyebhirvājebhistairannaiḥ saha tvamā gahi | atrāgaccha | asme asmāsu rayiṃ dhanaṃ ni dhāraya | nitarāṃ sthāpaya ‖ tyebhiḥ | bahulaṃ chandasīti tyadśabdādbhisa aisādeśābhāvaḥ | gahi | askṛduktam | duhitardivaḥ | parasyāpi diva ityasya divo duhitarityanvaye sati pūrvavattvātsubāmantrite iti parāṅgavadbhāvena ṣaṣṭhyāmantritasamudāyasya sarvānudāttatvam | yadvā | kāryakālaṃ hi saṃjñāparibhāṣam | pari. 3 iti nyāyena subāmantrita ityasyāmantritasya cetyāṣṭamikena yogenaikavākyatve sati … sarvānudāttatvam | … asme | supāṃ sulugiti saptamyāḥ śe ādeśaḥ ‖ 30 ‖ ‖ 6 ‖*
+> हे दिवो दुहितर्द्युदेवतायाः पुत्रि उषो देवि त्येभिर्वाजेभिस्तैरन्नैः सह त्वमा गहि । अत्रागच्छ । अस्मे अस्मासु रयिं धनं नि धारय । नितरां स्थापय ॥ त्येभिः । बहुलं छन्दसीति त्यद्शब्दाद्भिस ऐसादेशाभावः । गहि । असकृदुक्तम् । दुहितर्दिवः । परस्यापि दिव इत्यस्य दिवो दुहितरित्यन्वये सति पूर्ववत्त्वात्सुबामन्त्रित इति पराङ्गवद्भावेन षष्ठ्यामन्त्रितसमुदायस्य सर्वानुदात्तत्वम् । यद्वा । कार्यकालं हि संज्ञापरिभाषम् । परि. ३ । इति न्यायेन सुबामन्त्रित इत्यस्यामन्त्रितस्य चेत्याष्टमिकेन योगेनैकवाक्यत्वे सति परत्वात्पराङ्गवद्भावे सति सर्वानुदात्तत्वम् । कृतस्वरयोः षष्ठ्यामन्त्रितयोः पश्चाद्व्यत्ययो बहुलमिति व्यत्यस्तप्रयोगः । अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः ॥ ॥ ३१ ॥ ॥ ६ ॥
 
-*Translation:* "O daughter of heaven (*divo duhitaḥ*) — O goddess Uṣas, daughter of the heaven-deity! Come (*ā gahi*) with those (*tyebhiḥ*) foods (*vājebhiḥ*); establish (*ni dhāraya*) wealth (*rayim*) in us (*asme*)." *(Grammar clauses on* tyebhiḥ *[no* ais *for* bhis*],* gahi, duhitar divaḥ *[the all-low accent of the genitive–vocative group] and* asme *[*śe* for the locative ending] follow; the closing figures "30" and "6" after the Rik are read as the sūkta number and the varga number [?].)*
+> *he divo duhitardyudevatāyāḥ putri uṣo devi tyebhirvājebhistairannaiḥ saha tvamā gahi | atrāgaccha | asme asmāsu rayiṃ dhanaṃ ni dhāraya | nitarāṃ sthāpaya ‖ tyebhiḥ | bahulaṃ chandasīti tyadśabdādbhisa aisādeśābhāvaḥ | gahi | asakṛduktam | duhitardivaḥ | parasyāpi diva ityasya divo duhitarityanvaye sati pūrvavattvātsubāmantrita iti parāṅgavadbhāvena ṣaṣṭhyāmantritasamudāyasya sarvānudāttatvam | yadvā | kāryakālaṃ hi saṃjñāparibhāṣam | pari. 3 | iti nyāyena subāmantrita ityasyāmantritasya cetyāṣṭamikena yogenaikavākyatve sati paratvātparāṅgavadbhāve sati sarvānudāttatvam | kṛtasvarayoḥ ṣaṣṭhyāmantritayoḥ paścādvyatyayo bahulamiti vyatyastaprayogaḥ | asme | supāṃ sulugiti saptamyāḥ śe ādeśaḥ ‖ ‖ 31 ‖ ‖ 6 ‖*
+
+*Translation:* "O daughter of heaven (*divo duhitaḥ*: daughter of the heaven-deity), goddess Uṣas, come (*ā gahi*: come here) with those (*tyebhiḥ*) foods (*vājebhiḥ*); establish (*ni dhāraya*: set firmly) wealth (*rayim*) in us (*asme*)." The grammatical tail treats *tyebhiḥ* (no *ais* for *bhis* after *tyad*, by *bahulaṃ chandasi*), *gahi* ('said more than once'), *duhitar divaḥ* (though *divaḥ* follows, it is construed first, so by *subāmantrite* the genitive and the vocative together are all grave; or, by the maxim '*kāryakālaṃ hi saṃjñāparibhāṣam*' (Pari. 3), *subāmantrite* is read together with the *āṣṭamika* '*āmantritasya ca*', and *parāṅgavadbhāva*, being later, applies, giving the all-grave accent; after the accents are fixed the order of genitive and vocative is reversed by *vyatyayo bahulam*) and *asme* (*śe* for the locative ending by *supāṃ suluk*).
 
 **Pratipadārtha** *(p. 515, rendered)* — **दिवः** of the sky-deity; **दुहितः** O Uṣas, the daughter; **त्येभिः वाजेभिः** with those foods; **त्वम्** you; **आ गहि** come here; **अस्मे** in us; **रयिम्** wealth; **नि धारय** establish permanently.
 
 **Bhāvārtha** *(p. 515)* — O goddess Uṣas, daughter of the sky-deity! Come here with those foods, and make wealth abide in us.
+
+### Page 516 — Sūkta 30, Rik 22 (continued)
 
 **English Translation** *(as printed, p. 516)*
 
@@ -10490,9 +10498,9 @@ Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is 
 
 **Viśeṣa-viṣayagaḷu** *(p. 516)* — **त्येभिः** — *tya* has the sense of *tad*; *tyebhiḥ* = *taiḥ*, 'by those'. **अस्मे रयिं निधारय** — 'place wealth in us specially': give us wealth in particular.
 
-**Grammar (pp. 516–517), noted briefly:** *tyebhiḥ* (*tyadādīnām aḥ* P. 7-2-102; *ato guṇe* P. 6-1-97; *bhis* → *ais* P. 7-1-9 not applied, *bahulaṃ chandasi* P. 7-1-10; *bahuvacane jhaly et* P. 7-3-103); *gahi* (*gamḷ gatau*, *loṭ*, *hi*; *anudāttopadeśavanatitanoti…* P. 6-4-37 drops the nasal; *asiddhavad atrābhāt* P. 6-4-22 so that *ato heḥ* P. 6-4-105 does not drop *hi*); *duhitar divaḥ* (although *divaḥ* stands later, it is construed as *divo duhitaḥ*; *subāmantrite parāṅgavat svare* P. 2-1-2 [as read] and *āmantritasya ca*; or by the maxim *kāryakālaṃ saṃjñāparibhāṣam* (Paribhāṣā 3 [as read]); the reversed order is a *vyatyaya* P. 3-1-85); *asme* (*asmad* locative plural, *śe* by *supāṃ suluk* P. 7-1-39; *śeśe lopaḥ* P. 7-2-90 [as read] drops the *d*). Numerals as read, [?].
+**Vyākaraṇa-prakriyā** *(pp. 516–517, noted briefly)* — *tyebhiḥ*: *tyad*, instrumental plural *bhis*; *a* for the final by '*tyadādīnām aḥ*' (Pā. sū. 7-2-102); *pararūpa* by '*ato guṇe*' (Pā. sū. 6-1-97); *ais* for *bhis* after *a* withheld by '*bahulaṃ chandasi*' (Pā. sū. 7-1-10); *rutva* and visarga. *gahi*: *gamḷ gatau*, *loṭ* second person singular, *hi* for *sip*, *ṅit* as *apit*; loss of *m* by '*anudāttopadeśa-*' (Pā. sū. 6-4-37); as that loss is treated as not done by '*asiddhavad atrābhāt*' (Pā. sū. 6-4-22), *hi* is not dropped by '*ato heḥ*' (Pā. sū. 6-4-105). *vājebhiḥ*: no *ais* for *bhis* by '*bahulaṃ chandasi*'. *duhitar divaḥ*: though *divaḥ* follows, it is construed before *duhitaḥ*, so by '*subāmantrite parāṅgavat svare*' (Pā. sū. 2-1-2) the genitive joins the vocative, and the all-grave accent of '*āmantritasya ca*' covers the genitive group; or by '*kāryakālaṃ saṃjñāparibhāṣam*' (Pari. 3) the *paribhāṣā* *subāmantrite* is read at the place of the *āṣṭamika* rule '*āmantritasya ca*' and makes one sentence with it, so *parāṅgavadbhāva* comes first *(p. 517)* and then the all-grave accent; once the accents are fixed, the reversed order *divaḥ duhitaḥ* is to be explained by '*vyatyayo bahulam*', and no doubt remains. *asme*: *asmad*, locative plural *sup*; *śe* by '*supāṃ suluk*' (Pā. sū. 7-1-39), for the whole ending, as it is *śit*; loss of the *d*-portion by '*śeṣe lopaḥ*' (Pā. sū. 7-2-90).
 
-**Close of Sūkta 30** *(p. 517)* — *mūvattaneya sūktavu samāptavāgide* — "The thirtieth sūkta is ended."
+**Close of Sūkta 30** *(p. 517)* — *mūvattane sūktavu samāptavāgide* (as printed) — "The thirtieth sūkta is ended."
 
 ---
 
