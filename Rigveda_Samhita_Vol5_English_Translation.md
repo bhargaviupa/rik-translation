@@ -7611,29 +7611,31 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.4 (pp. 421–424, PDF 437–440)
 
-**Saṃhitā-pāṭha** *(p. 421)*
+**Saṃhitā-pāṭha** *(p. 421; accents as printed)*
 
-> **वि वातजूतो अतसेषु तिष्ठते वृथा जुहूभिः सृण्या तुविष्वणिः ।**
-> **तृषु यदग्ने वनिनो वृषायसे कृष्णं त एम रुशदूर्मे अजर ॥ ४ ॥**
+> **वि वा॑तजूतो अत॒सेषु॑ तिष्ठते॒ वृथा॑ जु॒हूभिः॒ सृण्या॑ तुवि॒ष्वणिः॑ ।**
+> **तृ॒षु यद॑ग्ने व॒निनो॑ वृषा॒यसे॑ कृ॒ष्णं त॒ एम॒ रुश॑दूर्मे अजर ॥ ४ ॥**
 
-*vi vātajūto atáseṣu tiṣṭhate vṛthā juhūbhiḥ sṛṇyā tuviṣvaṇiḥ |*
-*tṛṣu yad agne vanino vṛṣāyase kṛṣṇaṃ ta ema ruśadūrme ajara || 4 ||*
+*ví vātajūto atáseṣu tiṣṭhate vṛ́thā juhū́bhiḥ sṛ́ṇyā tuviṣváṇiḥ |*
+*tṛṣú yád agne vaníno vṛṣāyáse kṛṣṇáṃ ta éma rúśadūrme ajara || 4 ||*
+
+*(The stroke of यदग्ने stands between द and ग्ने; it is given on द.)*
 
 **Pada-pāṭha** *(p. 421)*
 
 > वि । वातऽजूतः । अतसेषु । तिष्ठते । वृथा । जुहूऽभिः । सृण्या । तुविऽस्वनिः ।
-> तृषु । यत् । अग्ने । वनिनः । वृषऽयसे । कृष्णम् । ते । एमः । रुशत्ऽऊर्मे । अजर ॥ ४ ॥
+> तृषु । यत् । अग्ने । वनिनः । वृषऽयसे । कृष्णम् । ते । एम । रुशत्ऽऊर्मे । अजर ॥ ४ ॥
 
 *vi | vāta-jūtaḥ | atáseṣu | tiṣṭhate | vṛthā | juhū-bhiḥ | sṛṇyā | tuvi-svaniḥ |*
-*tṛṣu | yat | agne | vaninaḥ | vṛṣa-yase | kṛṣṇam | te | emaḥ | ruśat-ūrme | ajara || 4 ||*
+*tṛṣu | yat | agne | vaninaḥ | vṛṣa-yase | kṛṣṇam | te | ema | ruśat-ūrme | ajara || 4 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 422)*
 
-> **वातजूतो वायुना प्रेरितस्तुविष्वणिर्महास्वनः । एवंभूतोऽग्निर्जुहूभिः स्वकीयाभिर्जिह्वाभिः सृण्या सरणशीलेन तेजःसमूहेन च युक्तः सन् । वृथेत्यनायासवचनः । वृथानायासेनैव वातसेषूत्रतेषु वृक्षेषु वि तिष्ठते । विशेषेण तिष्ठति । हे अग्ने यद्यदा वनिनो वनसंबन्धान्वृक्षान्दग्धुं वृषायसे वृषवदाचरसि दहसीत्यर्थः । हे रुशदूर्मे दीप्तज्वाल अजर जरारहिताग्ने ते तवैव गमनमार्गः कृष्णं कृष्णवर्णो भवति ॥ वातजूतः । जू इति सौत्रो धातुः । वातेन जूतो वातजूतः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । वि तिष्ठते । समवप्रविभ्यः स्थः इत्यात्मनेपदं । जुहूभिः । हु दानादनयोः । हूयते आसु इति जुह्वः । हुवः श्लुवच्च । उ. २-१०८ । इति क्विप् । चकाराद्दीर्घः । श्लुवद्भावाद्द्विर्भावादि । धातोरित्यन्तोदात्तत्वं । सृण्या । सृ गतौ । सरतीति सृणिः । सृवृषिभ्यां कित् । उ. ४-४९ । इति निप्रत्ययः । एमु । एत्यनेनेत्येमु मार्गः । इण् गताविति । ओणादिको मनिन् । नित्त्वादाद्युदात्तत्वं ॥**
+> **वातजूतो वायुना प्रेरितस्तुविष्वणिर्महास्वनः । एवंभूतोऽग्निर्जुहूभिः स्वकीयाभिर्जिह्वाभिः सृण्या सरणशीलेन तेजःसमूहेन च युक्तः सन् । वृथेत्यनायासवचनः । वृथानायासेनैवातसेषून्नतेषु वृक्षेषु वि तिष्ठते । विशेषेण तिष्ठति । हे अग्ने यद्यदा वनिनो वनसंबन्धान्वृक्षान्दग्धुं वृषायसे वृषवदाचरसि दहसीत्यर्थः । हे रुशदूर्मे दीप्तज्वाल अजर जरारहिताग्ने ते तवैव गमनमार्गः कृष्णं कृष्णवर्णो भवति ॥ वातजूतः । जू इति सौत्रो धातुः । वातेन जूतो वातजूतः । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वं । वि तिष्ठते । समवप्रविभ्यः स्थः इत्यात्मनेपदं । जुहूभिः । हु दानादनयोः । हूयत आस्विति जुहूः । हुवः श्लुवच्च । उ. २-६० । इति क्विप् । चकाराद्दीर्घः । श्लुवद्भावाद्द्विर्भावादि । धातोरित्यन्तोदात्तत्वं । सृण्या । सृ गतौ । सरतीति सृणिः । सृवृषिभ्यां कित् । उ. ४-४९ । इति निप्रत्ययः । एम । एत्यनेनेत्येम मार्गः । इण् गतावित्यस्मात्करणे औणादिको मनिन् । नित्त्वादाद्युदात्तत्वं ॥**
 
-*vātajūto vāyunā preritas tuviṣvaṇir mahāsvanaḥ | evaṃbhūto 'gnir juhūbhiḥ svakīyābhir jihvābhiḥ sṛṇyā saraṇaśīlena tejaḥsamūhena ca yuktaḥ san | vṛtheti anāyāsavacanaḥ | vṛthānāyāsenaiva vātaseṣūnnateṣu vṛkṣeṣu vi tiṣṭhate | viśeṣeṇa tiṣṭhati | he agne yad yadā vanino vanasaṃbandhān vṛkṣān dagdhuṃ vṛṣāyase vṛṣavad ācarasi dahasīty arthaḥ | he ruśadūrme dīptajvāla ajara jarārahitāgne te tavaiva gamanamārgaḥ kṛṣṇaṃ kṛṣṇavarṇo bhavati || vātajūtaḥ | jū iti sautro dhātuḥ | vātena jūto vātajūtaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | vi tiṣṭhate | samavapravibhyaḥ sthaḥ ity ātmanepadam | juhūbhiḥ | hu dānādanayoḥ | hūyate āsu iti juhvaḥ | huvaḥ śluvac ca | u. 2-108 [?] | iti kvip | cakārād dīrghaḥ | śluvadbhāvād dvirbhāvādi | dhātor ity antodāttatvaṃ | sṛṇyā | sṛ gatau | saratīti sṛṇiḥ | sṛvṛṣibhyāṃ kit | u. 4-49 [?] | iti ni-pratyayaḥ | emu | ety anenety emu mārgaḥ | iṇ gatāv iti | oṇādiko manin | nittvād ādyudāttatvaṃ ||*
+*vātajūto vāyunā preritas tuviṣvaṇir mahāsvanaḥ | evaṃbhūto 'gnir juhūbhiḥ svakīyābhir jihvābhiḥ sṛṇyā saraṇaśīlena tejaḥsamūhena ca yuktaḥ san | vṛtheti anāyāsavacanaḥ | vṛthānāyāsenaivātaseṣūnnateṣu vṛkṣeṣu vi tiṣṭhate | viśeṣeṇa tiṣṭhati | he agne yad yadā vanino vanasaṃbandhān vṛkṣān dagdhuṃ vṛṣāyase vṛṣavad ācarasi dahasīty arthaḥ | he ruśadūrme dīptajvāla ajara jarārahitāgne te tavaiva gamanamārgaḥ kṛṣṇaṃ kṛṣṇavarṇo bhavati || vātajūtaḥ | jū iti sautro dhātuḥ | vātena jūto vātajūtaḥ | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvaṃ | vi tiṣṭhate | samavapravibhyaḥ sthaḥ ity ātmanepadam | juhūbhiḥ | hu dānādanayoḥ | hūyata āsv iti juhūḥ | huvaḥ śluvac ca | u. 2-60 [?] | iti kvip | cakārād dīrghaḥ | śluvadbhāvād dvirbhāvādi | dhātor ity antodāttatvaṃ | sṛṇyā | sṛ gatau | saratīti sṛṇiḥ | sṛvṛṣibhyāṃ kit | u. 4-49 | iti ni-pratyayaḥ | ema | ety anenety ema mārgaḥ | iṇ gatāv ity asmāt karaṇe auṇādiko manin | nittvād ādyudāttatvaṃ ||*
 
-*(Reading note: "*vātaseṣu*" is the print's rendering of *atáseṣu*, dropping the first vowel; I read *atáseṣu* with the Pada and the Pratipadārtha. "*vṛṣāyase*" etc. as printed.)*
+*(Reading note: the Uṇādi number in the tail ("2-60") is read at 230 dpi only, [?]; the grammar notes on p. 424 print it differently, see below.)*
 
 **Translation of the bhāṣya:** "*Vātajūtaḥ*, urged on by the wind; *tuviṣvaṇiḥ*, of great sound: such Agni, *juhūbhiḥ*, with his tongues, and *sṛṇyā*, with a restlessly moving mass of flame, *vṛthā* (*vṛthā* means 'without effort') — *vi tiṣṭhate*, stands spread over *atáseṣu*, the lofty trees, with no effort. O Agni, *yad*, when you act like a bull — *vṛṣāyase* — to burn the *vaninaḥ*, the trees of the forest, that is, you burn: O *ruśadūrme*, of shining flames, *ajara*, ageless Agni, *te emaḥ*, your path of going, *kṛṣṇam*, becomes black."
 
@@ -7641,7 +7643,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Bhāvārtha** *(p. 422)* — "Urged on by the wind and roaring loudly, Agni, with his flames and his spreading radiance, easily pervades and burns the lofty trees. O ageless Agni of fierce flames, when you rush forward like a bull to burn the forest trees, the path you have traversed becomes black."
 
-**English Translation (the source's own, p. 423)** — "Urged on by the wind, and roaring loudly, Agni easily sits upon the trees with his burning tongue and diffusive energy; when, undecaying and fiercely-blazing Agni, you rush rapidly like a bull amongst the forest trees, your path is blackened."
+**English Translation (the source's own, p. 423)** — "Urged on by the wind, and roaring loudly, Agni easily sits upon the trees with his burning tongue and deffusive [sic] energy; when, undecaying and fiercely-blazing Agni, you rush rapidly like a bull amongst the forest trees, your bath [sic] is blackened."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 423**
 - **vātajūtaḥ** — "*Vātena jūtaḥ*: urged on by the wind. *Jū* is a mere Sautra root; it is not often seen in ordinary usage."
@@ -7650,14 +7652,14 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **vṛthā** — "Here the word *vṛthā* means 'without effort'."
 - **vanino vṛṣāyase** — "In burning the forest trees you advance like a bull, that is, rush forward: whatever you want to burn, you advance with only a little strength, without effort; for no accomplishment is your whole strength needed — this is the sense."
 - **ruśadūrme** — "*Ruśantaḥ ūrmayaḥ yasya*: one of shining flames; Agni is praised so."
-- **ema** — "*Ety anena iti emu*: from the root *iṇ gatau*, it means 'path'."
+- **ema** — "*Ety anena iti ema*: from the root *iṇ gatau*, it means 'path'."
 
 **Vyākaraṇa-prakriyā** *(pp. 423–424 — grammar pages, noted briefly)*
 - **vātajūtaḥ**: *jū* is a Sautra root; *kta*; *tṛtīyā karmaṇi* (Pā. 6-2-48): the first member's accent.
 - **vi tiṣṭhate**: *samavapravibhyaḥ sthaḥ* (Pā. 1-3-22): *ātmanepada* because of the prefix *vi*; *laṭ*; *ṭita ātmanepadānāṃ ṭer e*; *pāghrādhmā…*: *tiṣṭha*; *nighāta*.
-- **juhūbhiḥ**: *hu dānādanayoḥ*; *huvaḥ śluvac ca* (Uṇ. 2-… as read [?]): *kvip*; the *ca* gives lengthening; *śluvad bhāva*: doubling; *hrasva*; *kuhoś cuḥ*: *j*; the suffix is wholly lost: *dhātoḥ*: end-acute.
-- **sṛṇyā**: *sṛ gatau*; *sṛvṛṣibhyāṃ kit* (Uṇ. 4-… as read [?]): *ni*; *kit*: no *guṇa*; after *ṛ*: *ṇatva*.
-- **vṛṣāyase**: *upamānād ācāre*: *kyac* after *vṛṣa* in the sense of behaving like; *kyaṅ* in this Veda... [the print: *kyac* — *jit*, so *ātmanepada*]; *yat* connected: no *nighāta*.
+- **juhūbhiḥ**: *hu dānādanayoḥ*; *huvaḥ śluvac ca* (Uṇ. 2-21[?], the last digit not settled): *kvip*; the *ca* gives lengthening; *śluvad bhāva*: doubling; *hrasva*; *kuhoś cuḥ*: *j*; the suffix is wholly lost: *dhātoḥ*: end-acute.
+- **sṛṇyā**: *sṛ gatau*; *sṛvṛṣibhyāṃ kit* (Uṇ. 4-49): *ni*; *kit*: no *guṇa*; after *ṛ*: *ṇatva*.
+- **vṛṣāyase**: *upamānād ācāre*: *kyaṅ* after *vṛṣa* in the sense of behaving like; *ṅit*: *ātmanepada*; *yat* connected: no *nighāta*; the accent of *kyaṅ* remains, the *lasārvadhātuka* being anudātta.
 - **ema**: *iṇ gatau*; Uṇādi *manin* in the sense of instrument; *guṇa*; *eman*; neuter *su*: *svamor napuṃsakāt*: *su* lost; *nalopaḥ prātipadikāntasya*; *nit*: initial-acute. **|| 4 ||**
 
 ---

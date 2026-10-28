@@ -7,7 +7,7 @@ Branch: claude/numerals-vol5-c.
 duplicates of pp. 450–451; printed = PDF − 16 from PDF 468 (p. 452) to the end (Pariśiṣṭa p. 531 = PDF 547, p. 708 = PDF 724).
 The "PDF" labels in the translation file follow the old scan (always − 16). Printed p. 644 exists in the better scan (PDF 660).
 
-Done through: Rik 58.3 (p. 421; better-scan PDF 435).
-Next unit: Rik 58.4 (p. 421, PDF 435).
+Done through: Rik 58.4 (p. 424; better-scan PDF 438).
+Next unit: Rik 58.5 (p. 424, PDF 438).
 
 Open items: Pā. 6-4-? (anudāttopadeśa, p. 395) last group 26/27 unread. Pada-pāṭha is accented in print but kept unaccented (coordinator rule).
