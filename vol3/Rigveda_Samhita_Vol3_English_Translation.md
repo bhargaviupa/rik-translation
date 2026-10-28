@@ -6360,40 +6360,90 @@ the *abhyasta* (forms) lose their *ā*; so the *ā* of the *śnā* suffix is dro
 
 ---
 
-### Pages 264–267 — Sūkta 24, Rik 7
+### Page 264 (lower) — Sūkta 24, Rik 7
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः ।
-> नीचीनाः स्थुरुपरि बुध्न एषामस्मे अन्तर्निहिताः केतवः स्युः ॥ ७ ॥
+> अ॒बु॒ध्ने राजा॒ वरु॑णो॒ वन॑स्यो॒र्ध्वं स्तूपं॑ ददते पू॒तद॑क्षः ।
+> नी॒चीनाः॑ स्थुरु॒परि॑ बु॒ध्न ए॑षाम॒स्मे अ॒न्तर्निहि॑ताः के॒तवः॑ स्युः ॥७॥
+>
+> *abudhné rājā váruṇo vánasyordhváṃ stū́paṃ dadate pūtádakṣaḥ |*
+> *nīcī́nāḥ sthur upári budhná eṣām asmé antár níhitāḥ ketávaḥ syuḥ ||7||* [accent ?]
 
-*abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ | nīcīnāḥ sthur upari budhna eṣām asme antar nihitāḥ ketavaḥ syuḥ || 7 ||*
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the verse in four lines, breaking after* ददते*,* पूतदक्षः*,* निहिताः*. The anudātta bar in* स्थुरुपरि *lies beside the subscript* थ*; I took it under* रु*, but the syllable is not certain.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अबुध्ने । राजा । वरुणः । वनस्य । ऊर्ध्वम् । स्तूपम् । ददते । पूतऽदक्षः ॥ नीचीनाः । स्थुः । उपरि । बुध्नः । एषाम् । अस्मे इति । अन्तः । निऽहिताः । केतवः । स्युः ॥ ७ ॥
+> अबुध्ने । राजा । वरुणः । वनस्य । ऊर्ध्वं । स्तूपं । ददते । पूतऽदक्षः ।
+> नीचीनाः । स्थुः । उपरि । बुध्नः । एषां । अस्मे इति । अन्तः । निऽहिताः । केतवः । स्युरिति स्युः ॥७॥
 
-*abudhne | rājā | varuṇaḥ | vanasya | ūrdhvam | stūpam | dadate | pūta-dakṣaḥ || nīcīnāḥ | sthuḥ | upari | budhnaḥ | eṣām | asme iti | antaḥ | ni-hitāḥ | ketavaḥ | syuḥ || 7 ||*
+> *abudhne | rājā | varuṇaḥ | vanasya | ūrdhvaṃ | stūpaṃ | dadate | pūta 'dakṣaḥ |*
+> *nīcīnāḥ | sthuḥ | upari | budhnaḥ | eṣāṃ | asme iti | antaḥ | ni 'hitāḥ | ketavaḥ | syuriti syuḥ ||7||*
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(pp. 264–265)*
 
-> पूतदक्षः शुद्धबलो वरुणो राजाबुध्ने मूलरहितेऽन्तरिक्षे तिष्ठन्वनस्य वननीयस्य तेजसः स्तूपं संघमूर्ध्वमुपरिदेशे दधते [दधाति] । धारयति । नीचीनाः स्थुः । ऊर्ध्वदेशे वर्तमानस्य वरुणस्य रश्मय इत्यध्याहार्यम् । ते ह्यधोमुखाः सन्तिष्ठन्ति । एषां रश्मीनां बुध्नो मूलमुपरि तिष्ठतीति शेषः । तथा सति केतवः प्रज्ञाप्रकाराः [प्रज्ञापकाः] प्राणा अस्मे अस्मासु अन्तर्निहिताः स्थापिताः स्युः । वरणं ना [?] भविष्यतीत्यर्थः ॥ अबुध्ने । न विद्यते बुध्नो मूलमस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । स्तूपम् । स्त्यै शब्दसंघातयोः । स्त्यायतेः संप्रसारणमूच्च । स्त्यायतेः संप्रसारणं पूर्वपदम् [?] … ऊकारादेशश्च । निदित्यनुवृत्तेराद्युदात्तत्वम् । ददते । भावादिकः । नीचीनाः । नि उपसर्गपूर्वादञ्चु गतिपूजनयोः । क्विन् । अनिदितां हल उपधायाः क्ङितीति नलोपः । नि अच् यथादेश न्यञ्च् । विभाषाञ्चेरदिक्स्त्रियाम् (पा. ५-४-८) इति खः । अयन्नेयादिनात्याद्यादेशः … स्थुः । गातिस्थेत्यादिना (पा. २-४-७७) सिचो लुक् । अतः । पा. ६-४-१०० इति झेर्जुसादेशः । उस्यपदान्तात् (पा. ६-१-९६) इति पररूपत्वम् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः । अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः । निहिताः । गतिरनन्तरेति गतेः प्रकृतिस्वरत्वम् । स्युः । अस्तेर्लिङ्जि श्नसोरल्लोपः ॥
+*As printed: ददते (not दधते, which the Special Topics gloss gives); वरणं न भविष्यतीत्यर्थः; स्त्यै शब्दसंघातयोः; ऋत्विगित्यादिना; the reference after आयनादिषूपदेशिवद्वचनं is printed with four numbers, पा. ७-१-२-१; पा. ३-४-११० (printed; the jher jus rule); अस्तेर्लिङि is read (the ङ is printed with a ज-like glyph). The bhāṣya ends with ॥ only; no varga number.*
 
-*pūtadakṣaḥ śuddhabalo varuṇo rājābudhne mūlarahite 'ntarikṣe tiṣṭhan vanasya vananīyasya tejasaḥ stūpaṃ saṃgham ūrdhvam upari deśe dadate [dadhāti] | dhārayati | nīcīnāḥ sthuḥ | ūrdhvadeśe vartamānasya varuṇasya raśmaya ity adhyāhāryam | te hy adhomukhāḥ santiṣṭhanti | eṣāṃ raśmīnāṃ budhno mūlam upari tiṣṭhatīti śeṣaḥ | tathā sati ketavaḥ prajñāprakārāḥ [prajñāpakāḥ] prāṇā asme asmāsu antar nihitāḥ sthāpitāḥ syuḥ | varaṇaṃ nā [?] bhaviṣyatīty arthaḥ || abudhne | na vidyate budhno mūlam asyeti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam | stūpam | styai śabdasaṃghātayoḥ | styāyateḥ saṃprasāraṇam ūc ca | … ūkārādeśaś ca | nid ity anuvṛtter ādyudāttatvam | dadate | bhvādikaḥ | nīcīnāḥ | ni upasargapūrvād añcu gatipūjanayoḥ | kvin | aniditāṃ hala upadhāyāḥ kṅitīti nalopaḥ | ni ac yathādeśa nyañc | vibhāṣāñcer adikstriyām (pā. 5-4-8) iti khaḥ | ayanneyādinātyādyādeśaḥ … sthuḥ | gātisthety ādinā (pā. 2-4-77) sico luk | ataḥ | pā. 6-4-100 iti jher jusādeśaḥ | usyapadāntāt (pā. 6-1-96) iti pararūpatvam | bahulaṃ chandasy amāṅyoge 'pīty aḍāgamābhāvaḥ | asme | supāṃ suluk iti saptamyāḥ śe ādeśaḥ | nihitāḥ | gatir anantareti gateḥ prakṛtisvaratvam | syuḥ | aster liṅji śnasor allopaḥ ||*
+> पूतदक्षः शुद्धबलो वरुणो राजाबुध्ने मूलरहितेऽन्तरिक्षे तिष्ठन्वनस्य वननीयस्य तेजसः स्तूपं संघमूर्ध्वमुपरिदेशे ददते । धारयति । नीचीनाः स्थुः । ऊर्ध्वदेशे वर्तमानस्य वरुणस्य रश्मय इत्यध्याहार्यं । ते ह्यधोमुखास्तिष्ठन्ति ।
 
-**Translation:** "Varuṇa, the king, of pure strength (*pūtadakṣaḥ*), standing in the *abudhna* — the root-less *antarikṣa* — holds (*dadate*) high up, in the upper region, a heap (*stūpa*) of lovely (*vananīya*) light. Its rays (to be supplied: of Varuṇa, who stays in the upper region) are *nīcīnāḥ* — downward-pointing; the *budhna* — the root — of these rays is above. In that case the *ketavaḥ* — the vital breaths, the means of knowing — may be placed within us (*asme antar nihitāḥ syuḥ*) — [the sense is] 'may [Varuṇa's] choice [favour?] be for us' [this last clause doubtful]. *Abudhne*: *bahuvrīhi* with *nañ*; end-acute by *nañsubhyām*. *Stūpam*: *styai śabdasaṃghātayoḥ* ['to sound; to gather']: *saṃprasāraṇa* and *ū* for the *ai*; … *Dadate*: class-1 form [*dadhāti* in the Veda: *dadate* with the *ātmanepada* by *vyatyaya*]. *Nīcīnāḥ*: from *ni* + *añcu gatipūjanayoḥ* with *kvin*; loss of the nasal by P. 6-4-24; … *Sthuḥ*: loss of *sic* by P. 2-4-77; *jher jus*; *pararūpa* by P. 6-1-96; no *aṭ* since the particle *mā* is not joined [*bahulaṃ chandasi*]. *Asme*: *śe* for the locative by *supāṃ suluk* (P. 7-1-39). *Nihitāḥ*: the *gati* keeps its accent by P. 6-2-49. *Syuḥ*: *liṅ* of *as*, with loss of the *a* of *śnas*." *(Grammar pages 267, noted briefly: the words treated are* stūpam *[*styai śabdasaṃghātayoḥ* + *pa*, with *saṃprasāraṇa*: *ai* → *ā*/*i*, then *ū* in place of the last letter by Uṇ. 3-[?] *stuvo dīrghaś ca*; the *pit*-suffix; … no accent rule since the form is *nit*-derived], *nīcīnāḥ* [*ni* + *añcu* + *kvin* by P. 3-2-59; the loss of the nasal; *nyañc* + *kha* by P. 5-4-8 *vibhāṣāñcer adikstriyām*; *īn* in the place of *kha* by P. 7-1-2 *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*; the *īn* substituted by the *upadeśa*-stage rule *āyanādiṣūpadeśivadvacanam*; the *a* of *añc* lost by P. 6-4-138 *acaḥ*; lengthening before *īn* by P. 6-3-… *cau*; feminine plural nominative], and the other words noted above; numerals as read, pointers only.)* *(The grammar of this rik begins at the foot of p. 266 and runs to p. 267.)*
+> *pūtadakṣaḥ śuddhabalo varuṇo rājābudhne mūlarahite 'ntarikṣe tiṣṭhanvanasya vananīyasya tejasaḥ stūpaṃ saṃghamūrdhvamuparideśe dadate | dhārayati | nīcīnāḥ sthuḥ | ūrdhvadeśe vartamānasya varuṇasya raśmaya ityadhyāhāryaṃ | te hyadhomukhāstiṣṭhanti |*
 
-**॥ Prati-padārthaḥ ॥** *(p. 265)* **पूतदक्षः (pūtadakṣaḥ)** — of pure strength | **राजा (rājā)** — shining | **वरुणः (varuṇaḥ)** — Varuṇa | **अबुध्ने (abudhne)** — in the rootless [*antarikṣa*] | **वनस्य (vanasya)** — of the lovely light | **स्तूपम् (stūpam)** — the heap | **ऊर्ध्वम् (ūrdhvam)** — above | **ददते (dadate)** — holds | **नीचीनाः (nīcīnāḥ)** — downward-pointing | **स्थुः (sthuḥ)** — are | **उपरि (upari)** — above | **एषाम् (eṣām)** — of these [rays] | **बुध्नः (budhnaḥ)** — the root | **अस्मे (asme)** — in us | **अन्तः निहिताः (antaḥ nihitāḥ)** — placed within | **केतवः (ketavaḥ)** — [our supports] the vital breaths | **स्युः (syuḥ)** — may be.
+### Page 265 — Rik 7: bhāṣya (end), word-meanings, overall sense, English
 
-**॥ Bhāvārthaḥ ॥** Varuṇa, of pure strength and shining, stays in the base-less *antarikṣa* and holds on high a mass of lovely light. The rays of that mass of light go downward, and their root is above. May the vital breaths — our support — be established within our bodies.
+> एषां रश्मीनां बुध्नो मूलमुपरि तिष्ठतीति शेषः । तथा सति केतवः प्रज्ञापकाः प्राणा अस्मेऽस्मास्वन्तर्निहिताः स्थापिताः स्युः । वरणं न भविष्यतीत्यर्थः ॥ अबुध्ने । न विद्यते बुध्नो मूलमस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । स्तूपं । स्त्यै शब्दसंघातयोः । स्त्यः संप्रसारणमूच्चेति पप्रत्ययः । तत्संनियोगेन यकारस्य संप्रसारणं परपूर्वत्वे ऊकारादेशश्च । निदित्यनुवृत्तेराद्युदात्तत्वं । ददते । भौवादिकः । नीचीनाः । निपूर्वादंचतेर्ऋत्विगित्यादिना क्विन् । अनिदितामिति नलोपः । न्यच्शब्दात्स्वार्थे विभाषाञ्चेरदिक्स्त्रियां । पा. ५-४-८ । इति खः । आयन्नित्यादिना तस्यैनादेशः । आयनादिषूपदेशिवद्वचनं स्वरसिद्ध्यर्थं । पा. ७-१-२-१ । इति वचनादीकार उदात्तः । अच इत्यकारलोपे चाविति दीर्घत्वं । स्थुः । गातिस्थेत्यादिना । पा. २-४-७७ । सिचो लुक् । अतः । पा. ३-४-११० । इति झेर्जुसादेशः । उस्यपदान्तात् । पा. ६-१-९६ । इति पररूपत्वं । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः । अस्मे । सुपां सुलुगिति सप्तम्याः शेआदेशः । निहिताः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वं । स्युः । अस्तेर्लिङि श्नसोरल्लोपः ॥
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Varuṇa, of pure strength, standing in the rootless sky, holds on high a heap of lovely light; its rays (to be supplied) point downward, with their root above. That being so, may the vital breaths that make us know be placed within us (the bhāṣya ends the sentence with *varaṇaṃ na bhaviṣyati*, as printed). The grammatical tail notes the end-acute of *abudhne* (*nañ* + *bahuvrīhi*), *stūpa* (suffix *pa* with *saṃprasāraṇa* and *ū*; initial acute), *nīcīnāḥ* (*kvin*, loss of the nasal, *kha* by Pā. 5-4-8, *īn*; the vārttika as printed 7-1-2-1; Pā. 6-4-138, 6-3-138 are in the Kannada grammar), *sthuḥ* (loss of *sic*, Pā. 2-4-77; *jus*, Pā. 3-4-110 as printed; *pararūpa*, Pā. 6-1-96; no augment *aṭ*), *asme* (*śe* for the locative) and *nihitāḥ* (the *gati* keeps its accent), *syuḥ* (loss of *a* of *śnas*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**पूतदक्षः (pūtadakṣaḥ)** — of pure strength | **राजा (rājā)** — shining | **वरुणः (varuṇaḥ)** — Varuṇa | **अबुध्ने (abudhne)** — in the rootless (antarikṣa, standing there) | **वनस्य (vanasya)** — of the praiseworthy light | **स्तूपं (stūpaṃ)** — the heap | **ऊर्ध्वं (ūrdhvaṃ)** — above | **ददते (dadate)** — makes (the rays of that light) | **नीचीनाः (nīcīnāḥ)** — facing downward | **स्थुः (sthuḥ)** — are | **एषां (eṣāṃ)** — of these rays | **बुध्नं (budhnaṃ)** — the root | **उपरि (upari)** — above (it is; this being so) | **केतवः (ketavaḥ)** — (for us) the supporting (vital breaths) | **अस्मे (asme)** — in us | **अन्तर्निहिताः स्युः (antarnihitāḥ syuḥ)** — become established.
+
+**॥ Bhāvārthaḥ ॥**
+
+Varuṇa, of pure strength and shining, stands in the supportless antarikṣa and is the support of a heap of light. The rays of this heap of light face downward, with their roots above. This being so, the vital breath, which is our support, is established in our body.
+
+**॥ English Translation ॥** *(as printed)*
 
 > The king Varuna of pure strength being in baseless firmament, sustains on high a heap of light, the rays of which are pointed downwards while their base is above; may they become concentrated in us as the source of existence.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 266)* The meaning of this rik is difficult, and the sense is not well-fitted. The chief import, perhaps: the king Varuṇa shines in the *antarikṣa*, full of light. The rays of that shining go downward from the *antarikṣa* and spread over this earth. So the root-place of those rays is in the *antarikṣa* where Varuṇa abides; may their light, joined together, be the support of the vital breaths in our bodies here on the earth.
+*(At the foot of p. 265 stands the printer's signature "34" with "VOLUME 3".)*
 
-**पूतदक्षः** — *śuddhabalavanu* — of pure strength, mighty. **राजा** — there is a custom of addressing Varuṇa as *rājan*; in the following rik too the word *rājā* is used: *urum hi rājā varuṇaḥ* — the word *rājā*, though it could mean 'shining', is applied to Varuṇa in the sense of *king, ruler*. **अबुध्ने** — *budhna* means root; *abudhne* is the *antarikṣa* without a root; since the *antarikṣa* does not stand on the support of anything on earth, the epithet 'without root or support' is appropriate. **वनस्य** — *vananīyasya tejasaḥ*: of the light [or radiance] that spreads on all sides — though *vanasya* is singular, Skandasvāmin thinks it should be taken in the sense of *tejasām*, plural. **स्तूपं ददते** — *saṃgham dadhate*: holds a mass, or a group; he who is wrapped in light, from whom light spreads on all sides and fills everywhere. **नीचीनाः** — *adhomukhāḥ*: downward-facing; the rays in the *antarikṣa* go out downward and reach the earth below. **उपरि बुध्न एषाम्** — the root-place of these rays is above, i.e. in the *antarikṣa* near Varuṇa; since Varuṇa is in the *antarikṣa*, the root-place of his rays is also in the *antarikṣa*. **अन्तर्निहिताः** — *sthāpitāḥ*: placed, established, *concentrated*. **केतवः** — *prajñānāni prāṇāḥ*: life-breaths. The word *ketu* has many senses — ray, act, and others.
+### Page 266 — Rik 7: Special Topics
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+The meaning of this ṛk is difficult; the sense does not fit properly. The chief import is this: the king Varuṇa shines in the antarikṣa, full of light. His shining rays go out from the antarikṣa downward and pervade this earth. Therefore the root-place of those rays is in the very antarikṣa where Varuṇa is; may their light, gathered together, be the support of our living beings (*prāṇigaḷu*) who live on the earth.
+
+**पूतदक्षः (pūtadakṣaḥ)** — one of pure strength; "of pure strength, mighty."
+
+**राजा (rājā)** — there is a custom of addressing Varuṇa as king. In the next ṛk too the word *rājā* is used: *urum hi rājā varuṇaḥ*. Although this word could be said to mean "shining", for Varuṇa the sense *rājā*, "lord, ruler", is the fitting one.
+
+**अबुध्ने (abudhne)** — *budhna* means root. *Abudhne* means the rootless antarikṣa. Since the antarikṣa does not stand on the support of any object on the earth, the epithet "without root or support, without refuge" is fitting.
+
+**वनस्य — वननीयस्य तेजसः (vanasya — vananīyasya tejasaḥ)** — light, or rays, have the nature of spreading all round; so *vanasya* means "of light". Although the singular *vanasya* is used here, it must be taken in the plural sense, *tejasāṃ*: this is the opinion of Skandasvāmin.
+
+**स्तूपं ददते — संघं दधते (stūpaṃ dadate — saṃghaṃ dadhate)** — he bears a collection, a mass; that is, he is covered with light, and from him the light goes out on all sides and spreads everywhere.
+
+**नीचीनाः — अधोमुखाः (nīcīnāḥ — adhomukhāḥ)** — facing downward: the rays in the antarikṣa go out facing downward and reach the earth below.
+
+**उपरि बुध्न एषां (upari budhna eṣāṃ)** — the root-place of these rays is in the upper part, that is, in the antarikṣa near Varuṇa. Since Varuṇa is in the antarikṣa, the root-place of his rays also is in the antarikṣa itself.
+
+**अन्तर्निहिताः — स्थापिताः (antarnihitāḥ — sthāpitāḥ)** — placed, established: "concentrated."
+
+**केतवः — प्रज्ञानानि प्राणाः (ketavaḥ — prajñānāni prāṇāḥ)** — the vital breaths. The word *ketu* has many meanings, such as ray and act.
+
+### Page 267 (upper) — Rik 7: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**स्तूपः (stūpaḥ)** — the root *styai ṣṭyai śabdasaṃghātayoḥ* (as printed). By *styāyaḥ saṃprasāraṇam ūc ca* (as printed; no number): the suffix *pa* after the root, and *saṃprasāraṇa* of the root's *y*, that is, *i*; and further *ū* comes as a substitute for the last letter. So when the suffix *pa* comes: *styai + pa*; by *ādeca upadeśe 'śiti* (Pā. Sū. 6-1-45) the *ai* becomes *ā* (the print has "vi" for "ai"); *y* → *i*: *sti + ā + pa*; by *saṃprasāraṇāc ca* (no number) the earlier form: *sti + ā*. For the last letter *i* the substitute *ū* by *stuvo dīrghaś ca* (Uṇ. Sū. 3-305 [?]), from *ṣṭuñ stutau*: after the root the suffix *pa* comes, which is *nit*; and in addition the root's *u* is lengthened; so, when *pa* and the like come after the root *stu*, the form is *stūpa*: this derivation is in the Uṇādi. In both views the *nit* accent, initial acute, results. The first is not seen in the Uṇādi pāda as it now exists; by the second way the sense given in the bhāṣya is not established.
+
+**नीचीनाः (nīcīnāḥ)** — the root *ni upasargapūrvaka añcu gatipūjanayoḥ*; after it *kvin* by *ṛtvikdadhṛk-* (Pā. Sū. 3-2-59); by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24), when a suffix that is *kit* or *ṅit* follows, the penultimate nasal of a base ending in a consonant, without *it*, is lost: loss of *n*. *ni + ac*, *yaṇ* substitution: *nyac*. After this, by *vibhāṣāñcer adikstriyām* (Pā. Sū. 5-4-8), after a word ending in *añc*, leaving aside direction-words and the feminine, the suffix *kha* comes in the sense of the word itself: the suffix *kha*. For *kha*, *īn* by *āyaneyīnīyiyaḥ* (Pā. Sū. 7-1-2); by *āyanādiṣūpadeśivadvacanam* (Pā. Sū. 7-1-2-1 *vā.*, as printed) the substitutes *āyan* and the rest of the suffixes *phaḍha* etc. come in the *upadeśa* stage itself; so *īn* comes in the *upadeśa* stage, and the *ī* becomes initial-acute by the suffix accent. By *acaḥ* (Pā. Sū. 6-4-138) loss of the *a*; by *cau* (Pā. Sū. 6-3-138) lengthening of the *ni*: *nīcīnāḥ*, feminine nominative plural. ॥7॥
+
+*(The Saṃhitā of Rik 8 begins at the foot of p. 267.)*
+
+---
+
 ### Pages 267–270 — Sūkta 24, Rik 8
 
 **॥ Saṃhitāpāṭhaḥ ॥**
