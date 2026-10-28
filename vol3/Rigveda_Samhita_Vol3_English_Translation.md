@@ -8018,38 +8018,70 @@ That sūtra operates only in a bahuvrīhi; this is a tatpuruṣa, so the accent 
 
 ---
 
-### Pages 327–330 — Sūkta 25, Rik 14
+### Page 327 (lower) — Sūkta 25, Rik 14
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> न यं दिप्सन्ति दिप्सवो न द्रुह्वाणो जनानाम् ।
-> न देवमभिमातयः ॥ १४ ॥
+> न यं दिप्सं॑ति दि॒प्सवो॒ न द्रुह्वा॑णो॒ जना॑नां ।
+> न दे॒वम॒भि॑मातयः ॥१४॥
+>
+> *na yaṃ dípsaṃti dipsávo ná drúhvāṇo jánānāṃ |*
+> *na devámabhimātayaḥ ||14||*
 
-*na yaṃ dipsanti dipsavo na druhvāṇo janānām | na devam abhimātayaḥ || 14 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. The stroke of line 2 stands over* भि*, close to* मा*, as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> न । यम् । दिप्सन्ति । दिप्सवः । न । द्रुह्वाणः । जनानाम् ॥ न । देवम् । अभिऽमातयः ॥ १४ ॥
+> न । यं । दिप्संति । दिप्सवः । न । द्रुह्वाणः । जनानां । न । देवं । अभिऽमातयः ॥१४॥
 
-*na | yam | dipsanti | dipsavaḥ | na | druhvāṇaḥ | janānām || na | devam | abhi-mātayaḥ || 14 ||*
+> *na | yaṃ | dipsaṃti | dipsavaḥ | na | druhvāṇaḥ | janānāṃ | na | devaṃ | abhi-mātayaḥ ‖14‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 327)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 327–328; transcribed in full from the print, v3a)*
 
-> दिप्सवो हिंसितुमिच्छन्तो वैरिणो यं वरुणं न दिप्सन्ति भीताः सन्तो हिंसितुमिच्छां परित्यजन्ति । जनानां प्राणिनां द्रुह्वाणो द्रोग्धारोऽपि यं वरुणं प्रति न द्रुह्यन्ति । अभिमातयः पाप्मानः । पाप्मा वाभिमातिः । तै. सं. २-१-३-३ । इति श्रुत्यन्तरात् । देवं तं वरुणं न स्पृशन्ति ॥ दिप्सन्ति । दम्भु दम्भे । अस्मात्सनि सनीवन्तर्धेत्यादिना । पा. ७-२-४९ । इडभावः । हलन्ताच्च । पा. १-२-१० । इत्यत्र हल्ग्रहणस्य जातिवाचित्वात्सन्नः किच्त्वाद्दम्भ इच्च । पा. ७-४-५६ । इति दकारात्परस्याकारस्येकारः । अनिदितामिति नलोपः । भष्भावाभावश्छान्दसः । पा. ८-२-३७ । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ । इत्यभ्यासलोपः । शपः पित्त्वादनुदात्तत्वं । तिङ्ङश्च लसार्वधातुकस्वरेण सनो नित्त्वान्निमित्तेनाद्युदात्तत्वम् । यद्वृत्तयोगादनिघातः । दिप्सवः । सनाशंसभिक्ष उः । पा. ३-२-१६८ । इत्युप्रत्ययः । प्रत्ययस्वरः । द्रुह्वाणः । द्रुह जिघांसायाम् । अन्येभ्योऽपि दृश्यन्त इति क्वनिप् । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तत्वम् ॥
+> दिप्सवो हिंसितुमिच्छंतो वैरिणो यं वरुणं न दिप्संति भीताः संतो हिंसितुमिच्छां परित्यजंति । जनानां प्राणिनां द्रुह्वाणो द्रोग्धारोऽपि यं वरुणं प्रति न द्रुह्यंति । अभिमातयः पाप्मानः । पाप्मा वा अभिमातिः । तै. सं. २-१-३-५ । इति श्रुत्यंतरात् । देवं तं वरुणं न स्पृशंति ॥ दिप्संति । दन्भु दंभे । अस्मात्सनि सनीवंतर्धेत्यादिना । पा. ७-२-४९ । इडभावः । हलंताच्च । पा. १-२-१० । इत्यत्र हल्ग्रहणस्य जातिवाचित्वात्सनः कित्त्वाद्दंभ इच्च । पा. ७-४-५६ । इति दकारात्परस्याकारस्येकारः । अनिदितामिति नलोपः । भष्भावाभावश्छांदसः । पा. ८-२-३७ । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ । इत्यभ्यासलोपः । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण सनो नित्त्वान्नित्स्वरेणाद्युदात्तत्वं । यद्वृत्तयोगादनिघातः । दिप्सवः । सनंताद्दंभेः सनाशंसभिक्ष उः । पा. ३-२-१६८ । इत्युप्रत्ययः । प्रत्ययस्वरः । द्रुह्वाणः । द्रुह जिघांसायां । अन्येभ्योऽपि दृश्यंत इति क्वनिप् । प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तत्वं ॥
 
-*dipsavo hiṃsitum icchanto vairiṇo yaṃ varuṇaṃ na dipsanti bhītāḥ santo hiṃsitum icchāṃ parityajanti | janānāṃ prāṇināṃ druhvāṇo drogdhāro 'pi yaṃ varuṇaṃ prati na druhyanti | abhimātayaḥ pāpmānaḥ | pāpmā vābhimātiḥ | tai. saṃ. 2-1-3-3 | iti śrutyantarāt | devaṃ taṃ varuṇaṃ na spṛśanti || dipsanti | dambhu dambhe | asmāt sani sanīvantardha ity ādinā | pā. 7-2-49 | iḍabhāvaḥ | halantāc ca | pā. 1-2-10 | atra halgrahaṇasya jātivācitvāt san naḥ kitvād dambha icca | pā. 7-4-56 | iti dakārāt parasyākārasyekāraḥ | aniditām iti nalopaḥ | bhaṣbhāvābhāvaś chāndasaḥ | pā. 8-2-37 | atra lopo 'bhyāsasya | pā. 7-4-58 | ity abhyāsalopaḥ | śapaḥ pittvād anudāttatvaṃ | tiṅ ṅaś ca lasārvadhātukasvareṇa sano nittvān nimittenādyudāttatvam | yadvṛttayogād anighātaḥ | dipsavaḥ | sanāśaṃsabhikṣa uḥ | pā. 3-2-168 | ity upratyayaḥ | pratyayasvaraḥ | druhvāṇaḥ | druha jighāṃsāyām | anyebhyo 'pi dṛśyanta iti kvanip | pratyayasya pittvād anudāttatve dhātusvareṇādyudāttatvam ||*
+> *dipsavo hiṃsitumicchaṃto vairiṇo yaṃ varuṇaṃ na dipsaṃti bhītāḥ saṃto hiṃsitumicchāṃ parityajaṃti | janānāṃ prāṇināṃ druhvāṇo drogdhāro 'pi yaṃ varuṇaṃ prati na druhyaṃti | abhimātayaḥ pāpmānaḥ | pāpmā vā abhimātiḥ | tai. saṃ. 2-1-3-5 | iti śrutyaṃtarāt | devaṃ taṃ varuṇaṃ na spṛśaṃti ‖ dipsaṃti | danbhu daṃbhe | asmātsani sanīvaṃtardhetyādinā | pā. 7-2-49 | iḍabhāvaḥ | halaṃtācca | pā. 1-2-10 | ityatra halgrahaṇasya jātivācitvātsanaḥ kittvāddaṃbha icca | pā. 7-4-56 | iti dakārātparasyākārasyekāraḥ | aniditāmiti nalopaḥ | bhaṣbhāvābhāvaśchāṃdasaḥ | pā. 8-2-37 | atra lopo 'bhyāsasya | pā. 7-4-58 | ityabhyāsalopaḥ | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa sano nittvānnitsvareṇādyudāttatvaṃ | yadvṛttayogādanighātaḥ | dipsavaḥ | sanaṃtāddaṃbheḥ sanāśaṃsabhikṣa uḥ | pā. 3-2-168 | ityupratyayaḥ | pratyayasvaraḥ | druhvāṇaḥ | druha jighāṃsāyāṃ | anyebhyo 'pi dṛśyaṃta iti kvanip | pratyayasya pittvādanudāttatve dhātusvareṇādyudāttatvaṃ ‖*
 
-**Translation:** "The *dipsavaḥ* — the enemies who wish to harm — do not harm (*na dipsanti*) him, Varuṇa: out of fear they give up the wish to harm. Even the *druhvāṇaḥ* — those who injure people, living beings — do not injure (*na druhyanti*) Varuṇa. The *abhimātayaḥ* — evil-doers: 'evil indeed is *abhimāti*' [as another śruti says] (Tai. Saṃ. 2-1-3-3) — do not touch that god, Varuṇa. *Dipsanti*: *dambhu dambhe* ['to harm']; with *san* no *iṭ* by P. 7-2-49; the root takes *i* in place of *a*; loss of the nasal; the aspiration is not exchanged since [it's Vedic]; the reduplicate is lost; … *Dipsavaḥ*: *u* after *san* by P. 3-2-168 [*sanāśaṃsabhikṣa uḥ*]; suffix-accent. *Druhvāṇaḥ*: *druha jighāṃsāyām* with *kvanip* by [*anyebhyo 'pi dṛśyante*] (P. 3-2-75); the root's accent." *(Grammar pages 328–330, noted briefly: the words treated are* dipsanti *[*dambhu dambhe*; *san* in the sense of desire by P. 3-1-7 *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā*; no *iṭ* by P. 7-2-49 *sanīvantardha…*; doubling by P. 6-1-9 *sanyaṅoḥ*; loss of the whole reduplicate by P. 7-4-61 *ac-ādeḥ*? — the print reads P. 7-4-58 *atra lopo 'bhyāsasya*; *i* for the root's *a* by P. 7-4-54 *dambha icca*; the *san* is *kit* by P. 1-2-10 *halantāc ca*, so the nasal is lost by P. 6-4-24 *aniditāṃ hala upadhāyāḥ kṅiti*; the aspiration of *bh* → *b*, then *p* for *bh* before *s*: *dip-s-*; *śap*; the accent *sanaḥ nittvāt* — the *san* acute],* dipsavaḥ *[*san* + *u* by P. 3-2-168 *sanāśaṃsabhikṣa uḥ*; the loss of the *a* of *san* by P. 6-4-48 *ato lopaḥ*; nominative plural; the accent on the suffix],* druhvāṇaḥ *[*druha jighāṃsāyām* of the *divādi* class; *kvanip* after various roots, P. 3-2-75 *anyebhyo 'pi dṛśyante*; the lengthening in the strong cases by P. 6-4-8 *sarvanāmasthāne cāsambuddhau*; *ṇatva* by P. 8-4-1/8-4-2 *aṭkupvāṅnumvyavāye 'pi*; the accent: *pit*, so the suffix is anudātta and the root's acute remains], and others; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: तै. सं. २-१-३-५; पा. ७-२-४९, १-२-१०, ७-४-५६, ८-२-३७, ७-४-५८, ३-२-१६८.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 328)* **दिप्सवः (dipsavaḥ)** — enemies who wish to harm | **यम् (yam)** — which Varuṇa | **न दिप्सन्ति (na dipsanti)** — do not harm [from fear] | **जनानाम् (janānām)** — of beings | **द्रुह्वाणः (druhvāṇaḥ)** — those who do harm | **न (na)** — do not [harm him] | **अभिमातयः (abhimātayaḥ)** — sinners | **देवम् (devam)** — the divine Varuṇa | **न (na)** — do not [touch].
+*Gist:* Varuṇa, whom foes eager to harm dare not harm out of fear, whom those who injure creatures do not injure, and whom sins (*abhimātayaḥ* = *pāpmānaḥ*, Tai. Saṃ. 2-1-3-5) do not touch.
 
-**॥ Bhāvārthaḥ ॥** Enemies who naturally wish to harm others do not harm Varuṇa for fear of him. Those who do harm to beings do not do harm to Varuṇa. Even the sinful do not dare to touch him.
+### Page 328 — Rik 14: word-meanings, overall sense, English, Special Topics
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **दिप्सवः (dipsavaḥ)** — enemies eager to harm (even) | **यं (yaṃ)** — which Varuṇa | **न दिप्संति (na dipsaṃti)** — out of fear do not wish to harm | **जनानां (janānāṃ)** — to living beings | **द्रुह्वाणः (druhvāṇaḥ)** — the hostile who wish harm too | **न द्रुह्यंति (na druhyaṃti)** — do no harm | **अभिमातयः (abhimātayaḥ)** — sinners too | **देवं (devaṃ)** — Varuṇa, who is a god | **न (na)** — do not touch.
 
-> Enemies dare not offend him (Varuna); the oppressors of men dare not harm him; and the persons of sinful nature dare not approach him.
+**॥ Bhāvārthaḥ ॥** Enemies who are by nature violent fear Varuṇa and do not wish to harm him. Even the hostile, who wish harm to living beings in general and trouble them, do no harm to Varuṇa. Sinners too lack the courage to touch him and draw back.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 328)* **दिप्सवः** — *dambhu dambhe*; *hiṃsitum icchantaḥ vairiṇaḥ*: enemies whose very nature is to injure people — or wicked men. **न दिप्सन्ति** — they do not dare to do harm. **द्रुह्वाणः** — *druha jighāṃsāyām*: wicked people who do harm. **अभिमातयः** — *pāpmānaḥ*: sinners, low-bred people who do evil acts.
+**॥ English Translation ॥** *(as printed)*
+
+> Enemies dare not offend him (Varuna) ; the oppressors of men dare not harm him ; and the persons of sinful nature dare not approach him.
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**दिप्सवः (dipsavaḥ)** — *dambhu dambhe*; *hiṃsitum icchanto vairiṇaḥ*: enemies, or the wicked, whose nature is to harm people.
+
+**न दिप्संति (na dipsaṃti)** — do not wish to do harm.
+
+**द्रुह्वाणः (druhvāṇaḥ)** — *druha jighāṃsāyām*: wicked people who do harm.
+
+**अभिमातयः (abhimātayaḥ)** — *pāpmānaḥ*: sinners, base people who do evil deeds.
+
+### Page 329 — Rik 14: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**दिप्संति (dipsaṃti)** — *dambhu dambhe*; by "धातोः कर्मणः-" (Pā. Sū. 3-1-7) *san* in the desiderative sense; with *dambh* + *sa*, the *iṭ* would come, the suffix beginning with a *val*, but "सनीवन्तर्ध-" (Pā. Sū. 7-2-49) bars it; by "सन्यङोः" (Pā. Sū. 6-1-9) the root is doubled before *san*; by "अत्र लोपोऽभ्यासस्य" (Pā. Sū. 7-4-58) the whole reduplicate is dropped; by "दम्भ इच्च" (Pā. Sū. 7-4-56) before the *s*-initial *san* the root's vowel becomes *i*. By "हलन्ताच्च" (Pā. Sū. 1-2-10) a *san* beginning with a *jhal* after a consonant near an *ik* is *kit*; there is a statement that *hal* here denotes the class, so although *n* and *bh* stand after the *i*, there is no fault, and the *san* is *kit*. Then by "अनिदितां हल उ-" (Pā. Sū. 6-4-24) the penultimate *n* is dropped before a *kit* suffix. With *dibh* + *sa*, the *bh* becomes *p* by *cartva*. In the *laṭ* plural, *anta* for *jha*; *śap*; *pararūpa* of the following *a*: *dipsanti*. With *bh* still before *s*, "एकाचो बशो-" (Pā. Sū. 8-2-37) would actually give *dh* for the *d*, but since in the Veda all operations are optional, the *bhaṣ*-substitution does not come. *Śap* is anudātta as *pit*; *tiṅ*, a *lasārvadhātuka*, is anudātta by "तास्यनुदात्तेत्-" (Pā. Sū. 6-1-188, as printed; for 6-1-186); *san* being *nit*, initial acute. Because *yam* (a *yad*-word) precedes, by "यद्वृत्तयोगान्नित्यम्" (quoted so, no number) the *nighāta* is barred.
+
+**दिप्सवः (dipsavaḥ)** — after the same desiderative root, *u* by "सनाशंसभिक्ष उः" (Pā. Sū. 3-2-168); before *u*, the *a* of *san* is dropped by "अतो लोपः" (Pā. Sū. 6-4-48); nominative plural *dipsavaḥ*; by the suffix accent a medially acute word.
+
+**द्रुह्वाणः (druhvāṇaḥ)** — *druha jighāṃsāyām*, divādi; by "अन्येभ्योऽपि दृश्यते" the suffix *kvanip*: *druhvan*, an *n*-stem; in the plural, lengthening by "सर्वनामस्थाने चासम्बुद्धौ" (Pā. Sū. 6-4-8); *ṇatva* by "अट्कुप्वाङ्-" (Pā. Sū. 8-4-2): *druhvāṇaḥ*. The suffix being *pit*,
+
+### Page 330 (upper) — Rik 14: grammar (end)
+
+it is anudātta; the root's end-acute alone remains, and *druhvāṇaḥ* is an initially acute word. *(A printed ornament follows; Ṛk 15 begins on the same page.)*
+
+---
+
 ### Pages 330–332 — Sūkta 25, Rik 15
 
 **॥ Saṃhitāpāṭhaḥ ॥**
