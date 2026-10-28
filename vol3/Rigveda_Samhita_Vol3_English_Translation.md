@@ -7112,40 +7112,84 @@ By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *
 
 ---
 
-### Pages 292–294 — Sūkta 24, Rik 15 *(closing rik)*
+### Page 292 — Sūkta 24, Rik 15 *(closing rik)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> उदुत्तमं वरुण पाशमस्मदवाधमं वि मध्यमं श्रथाय ।
-> अथा वयमादित्य व्रते तवानागसो अदितये स्याम ॥ १५ ॥
+> उदु॑त्त॒मं व॑रुण॒ पाश॑म॒स्मदवा॑ध॒मं वि म॑ध्य॒मं
+> श्र॑थाय ।
+> अथा॑ व॒यमा॑दित्य व्र॒ते तवाना॑गसो॒ आदि॑तये
+> स्याम ॥१५॥
+>
+> *úduttamáṃ varuṇa pā́śamasmádávādhamáṃ ví madhyamáṃ*
+> *śrathāya |*
+> *áthā vayámāditya vraté tavā́nāgaso ā́ditaye*
+> *syāma ||15||*
 
-*ud uttamaṃ varuṇa pāśam asmad avādhamaṃ vi madhyamaṃ śrathāya | athā vayam āditya vrate tavānāgaso aditaye syāma || 15 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a, Oct 28); Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* मध्यमं *and after* आदितये*. The last word of line 3 is printed* ಆದಿತಯೇ *(आदितये, with long ā) in both the Saṃhitā and the Pada, as printed; the bhāṣya's* कर्मण्यदितये *and the Pratipadārtha's* ಅದಿತಯೇ *have short a. The IAST is mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> उत् । उत्ऽतमम् । वरुण । पाशम् । अस्मत् । अव । अधमम् । वि । मध्यमम् । श्रथाय ॥ अथ । वयम् । आदित्य । व्रते । तव । अनागसः । अदितये । स्याम ॥ १५ ॥
+> उत् । उत्ऽतमं । वरुण । पाशं । अस्मत् । अव । अधमं । वि । मध्यमं । श्रथय ॥ अथ । वयं । आदित्य । व्रते । तव । अनागसः । आदितये । स्याम ॥१५॥
 
-*ut | ut-tamam | varuṇa | pāśam | asmat | ava | adhamam | vi | madhyamam | śrathāya || atha | vayam | āditya | vrate | tava | anāgasaḥ | aditaye | syāma || 15 ||*
+> *ut | ut-tamaṃ | varuṇa | pāśaṃ | asmat | ava | adhamaṃ | vi | madhyamaṃ | śrathaya ‖ atha | vayaṃ | āditya | vrate | tava | anāgasaḥ | āditaye | syāma ‖15‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 292)*
+*(The Pada prints* श्रथय *with short final a, and* आदितये *as in the Saṃhitā.)*
 
-> हे वरुण उत्तममुत्कृष्टं शिरसि बद्धं पाशमस्मदस्मत्त उच्छ्रथाय । उत्कृष्य शिथिलं कुरु । अधमं निकृष्टं पादेऽवस्थितं पाशमव श्रथाय । अधस्तादवकृष्य शिथिलीकुरु । मध्यमं नाभिप्रदेशगतं पाशं वि श्रथाय । वियुज्य शिथिलीकुरु । अथानन्तरं हे आदित्य अदितेः पुत्र वरुण वयं शुनःशेपास्तव व्रते त्वदीये कर्मणि अदितये खण्डनराहित्यायानागसोऽपराधरहिताः स्याम । भवेम ॥ उत्तमम् । तमपः पित्त्वादनुदात्तत्वेनाद्युदात्तत्वे प्राप्ते उत्तमशब्दस्य [उत्तमश्च] सर्वत्रेत्युंभादिषु पाठादन्तोदात्तत्वम् । पा. ६-१-१६० । अधमम् । अवद्यावमाधमार्वरेफाः कुत्सिते । उ. ५-५४ । इत्यवतेरमच् । वस्य धः । श्रथाय । श्रथ दौर्बल्ये । संहितायां छान्दसो दीर्घः । तव । युष्मदस्मदोर्ङसि [इति] ... अनागसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । नञ्सुभ्यामिति तु व्यत्ययेन प्रवर्तते । यद्वा । आगः शब्दादस्त्यर्थेऽसुः । मत्वर्थीयो विनिः । तस्य विन्मतोर्लुक् । पा. ५-३-६५ । इति लुक् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 292–293; transcribed in full from the print, v3a)*
 
-*he varuṇa uttamam utkṛṣṭaṃ śirasi baddhaṃ pāśam asmad asmatta ucchrathāya | utkṛṣya śithilaṃ kuru | adhamaṃ nikṛṣṭaṃ pāde 'vasthitaṃ pāśam ava śrathāya | adhastād avakṛṣya śithilīkuru | madhyamaṃ nābhipradeśagataṃ pāśaṃ vi śrathāya | viyujya śithilīkuru | athānantaraṃ he āditya aditeḥ putra varuṇa vayaṃ śunaḥśepās tava vrate tvadīye karmaṇi aditaye khaṇḍanarāhityāyānāgaso 'parādharahitāḥ syāma | bhavema || uttamam | tamapaḥ pittvād anudāttatvenādyudāttatve prāpte uttamaśabdasya [uttamaś ca] sarvatrety uṃbhādiṣu pāṭhād antodāttatvam | pā. 6-1-160 | adhamam | avadyāvamādhamārvarephāḥ kutsite | u. 5-54 | ity avater amac | vasya dhaḥ | śrathāya | śratha daurbalye | saṃhitāyāṃ chāndaso dīrghaḥ | tava | yuṣmadasmador ṅasi [iti] … anāgasaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | nañsubhyām iti tu vyatyayena pravartate | yadvā | āgaḥ śabdād asty arthe 'suḥ | matvarthīyo viniḥ | tasya vinmatorluk | pā. 5-3-65 | iti luk | nañsamāse 'vyayapūrvapadaprakṛtisvaratvam ||*
+> हे वरुण उत्तममुत्कृष्टं शिरसि बद्धं पाशमस्मदस्मत्त उच्छ्रथाय । उत्कृष्य शिथिलं कुरु । अधमं निकृष्टं पादेऽवस्थितं पाशमव श्रथाय । अधस्तादवकृष्य शिथिलीकुरु । मध्यमं नाभिप्रदेशगतं पाशं वि श्रथाय । वियुज्य शिथिलीकुरु । अथानंतरं हे आदित्य अदितेः पुत्र वरुण वयं शुनःशेपास्तव व्रते त्वदीये कर्मण्यदितये खंडनराहित्यायानागसोऽपराधरहिताः स्याम । भवेम ॥
 
-**Translation:** "O Varuṇa! Loosen (*ucchrathāya*) the highest bond (*uttamam pāśam*), the one fastened on my head, from us — drawing it up, make it slack. Loosen downwards (*ava śrathāya*) the lowest (*adhamam*) bond, the one fixed at the foot — drawing it down, slacken it. Loosen apart (*vi śrathāya*) the middle (*madhyamam*) bond, the one at the navel — unfasten it and slacken it. Then, O Āditya — son of Aditi — Varuṇa, may we, Śunaḥśepas, in your *vrata* — in your rite, [in the service] of Aditi, without harm — be *anāgasaḥ* — free of offence. *Uttamam*: the suffix *tamap* is *pit*, so its accent is lowered and the first syllable would be acute; but since *uttama* is read among the *uṃbhādi* [Uṇādi] words, the end-acute (P. 6-1-160, printed with the letter ग after the number: ga = gaṇa [mine and tentative]). *Adhamam*: *avadyāvamādhamārvarephāḥ kutsite* (Uṇ. 5-54), from *av* with *amac*; *v* → *dh*. *Śrathāya*: *śratha daurbalye*; the Vedic lengthening in the Saṃhitā. *Tava*: [the genitive of *yuṣmad*] … *Anāgasaḥ*: in the *bahuvrīhi* the first member keeps the accent, though *nañsubhyām* operates by *vyatyaya*; or, from *āgas* with the suffix *asu* in the sense of 'there is'; the possessive *vini*; the loss of the *vin* by P. 5-3-65 (the bhāṣya on p. 293 prints ५-३-६५, zoom-checked; the Kannada grammar prints ५-३-५, as printed); in the *nañ*-compound the *avyaya*-first member's accent." *(Grammar pages 294, noted briefly: the words treated are* uttamam *[*tamap* gives superlatives; *pit*-suffix lowers the accent; the Uṇādi list *uṃbhādi* includes *uttama* with the end-acute],* adhamam *[*av rakṣaṇe* + *amac*, Uṇ. 5-54 *avadyāvamādhamārvarephāḥ kutsite*; *dh* for *v*; *cit*-suffix, so the end-acute by P. 6-1-163 *citaḥ*; the root has several senses, so 'to protect' is not intended],* śrathāya *[*śratha daurbalye* — *curādi* — *loṭ* 2nd singular *sip* → *hi* → lost by P. 6-4-105 *ato heḥ*; the *ṇic* lost; the *ā*-vowel; guṇa → *aya*, so *śrathaya*; the Veda lengthens to *śrathāya* in the Saṃhitā; the verb's accent is that of the *ṇic*],* tava *[the genitive singular of *yuṣmad*: *tava* by P. 7-2-96; the acute on the first syllable by P. 6-1-169 *yuṣmadasmador jasi*? the print has P. 6-1-… *yuṣmadasmador ṅasi*] and* anāgasaḥ *[*āgas* + *vini* in the sense of possession, P. 5-2-121 *asmāyāmedhāsrajo vinih*; *vin* is lost by P. 5-3-… and *nañ*-compound; the accent: P. 6-2-2 *tatpuruṣe tulyārtha…* the *avyaya* first member keeps its accent, so first syllable acute: *anāgasaḥ*]; numerals as read, pointers only.)* *(The print's grammar for this rik begins at the foot of p. 293 and fills p. 294.)*
+> *he varuṇa uttamamutkṛṣṭaṃ śirasi baddhaṃ pāśamasmadasmatta ucchrathāya | utkṛṣya śithilaṃ kuru | adhamaṃ nikṛṣṭaṃ pāde 'vasthitaṃ pāśamava śrathāya | adhastādavakṛṣya śithilīkuru | madhyamaṃ nābhipradeśagataṃ pāśaṃ vi śrathāya | viyujya śithilīkuru | athānaṃtaraṃ he āditya aditeḥ putra varuṇa vayaṃ śunaḥśepāstava vrate tvadīye karmaṇyaditaye khaṃḍanarāhityāyānāgaso 'parādharahitāḥ syāma | bhavema ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 293)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa | **उत्तमम् पाशम् (uttamam pāśam)** — the highest rope [on my head] | **अस्मत् (asmat)** — from us | **उत् श्रथाय (ut śrathāya)** — loosen from above | **अधमम् (adhamam)** — the lower [at the feet] | **अव [श्रथाय] (ava [śrathāya])** — [loosen] from below | **मध्यमम् (madhyamam)** — the middle [at the navel] | **वि [श्रथाय] (vi [śrathāya])** — cut and release | **अथ (atha)** — then | **(हे) आदित्य ((he) āditya)** — O son of Aditi, Varuṇa | **वयम् (vayam)** — we [Śunaḥśepas] | **तव व्रते (tava vrate)** — in your rite | **अदितये (aditaye)** — for being undivided | **अनागसः (anāgasaḥ)** — free from sin [pure] | **स्याम (syāma)** — may we be.
+*Gist:* O Varuṇa, loosen from us the upper rope (bound at the head) by drawing it up, the lower (at the feet) by drawing it down, and the middle one (at the navel) by unfastening it; then, O son of Aditi, may we Śunaḥśepas be free of offence in your rite, so that it is not broken.
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! Loosen the rope at my head from above, the rope at my feet from below, and the rope at my middle by cutting it. Afterwards may we, free from sin, be pure for the sake of your rites, without break.
+*(Grammatical tail, pp. 292–293. Its numbers were zoom-read at 450 dpi: पा. ६-१-१६० (no letter after the number here), उ. ५-५४, पा. ५-२-१२१, पा. ५-३-६५. The word read* उंछादिषु *has the same ಛ glyph as* ಛಾಂದಸೋ *two lines below, not the ಭ of* ಭವೇಮ*; the old text's "uṃbhādi" was a misreading. The* यद्वा *clause, written in the old text as* आगः शब्दादस्त्यर्थेऽसुः*, is printed* आगस्शब्दादस्मायामेधेति । पा. ५-२-१२१ ।*)*
 
-**॥ English Translation ॥** *(as printed in the source)*
+> उत्तमं । तमपः पित्त्वादनुदात्तत्वेनाद्युदात्तत्वे प्राप्त उत्तमशश्वत्तमौ सर्वत्रेत्युंछादिषु पाठादंतोदात्तत्वं । पा. ६-१-१६० । अधमं । अवद्यावमाधमार्वरेफाः कुत्सिते । उ. ५-५४ । इत्यवतेरमच् । वस्य धः । श्रथाय । श्रथ दौर्बल्ये । संहितायां छांदसो दीर्घः । तव । युष्मदस्मदोर्ङसीत्याद्युदात्तत्वं । अनागसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । नञ्सुभ्यामिति तु व्यत्ययेन प्रवर्तते । यद्वा । आगस्शब्दादस्मायामेधेति । पा. ५-२-१२१ । मत्वर्थीयो विनिः । तस्य विन्मतोर्लुक् । पा. ५-३-६५ । इति लुक् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं ॥१५॥
+
+> *uttamaṃ | tamapaḥ pittvādanudāttatvenādyudāttatve prāpta uttamaśaśvattamau sarvatretyuṃchādiṣu pāṭhādaṃtodāttatvaṃ | pā. 6-1-160 | adhamaṃ | avadyāvamādhamārvarephāḥ kutsite | u. 5-54 | ityavateramac | vasya dhaḥ | śrathāya | śratha daurbalye | saṃhitāyāṃ chāṃdaso dīrghaḥ | tava | yuṣmadasmadorṅasītyādyudāttatvaṃ | anāgasaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | nañsubhyāmiti tu vyatyayena pravartate | yadvā | āgasśabdādasmāyāmedheti | pā. 5-2-121 | matvarthīyo viniḥ | tasya vinmatorluk | pā. 5-3-65 | iti luk | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ ‖15‖*
+
+*(The tail treats* uttamam *(the* pit *suffix* tamap *would make it initially acute, but by the gaṇa sūtra* uttamaśaśvattamau sarvatra *in the* uñchādi *list it is end-acute, Pā. 6-1-160),* adhamam *(Uṇ. 5-54, from* av *with* amac*,* dh *for* v*),* śrathāya *(Vedic lengthening in the Saṃhitā),* tava *(initial acute by* yuṣmadasmador ṅasi*) and* anāgasaḥ *(bahuvrīhi accent;* nañsubhyām *set aside by* vyatyaya*; or* āgas *+* vini *by Pā. 5-2-121, its loss by Pā. 5-3-65, and the nañ-compound accent).)*
+
+### Page 293 — Rik 15: word-meanings, overall sense, English, Special Topics
+
+**॥ Prati-padārthaḥ ॥** **हे वरुण (he varuṇa)** — O Varuṇa | **उत्तमं (uttamaṃ)** — tied above (on the head) | **पाशं (pāśaṃ)** — the rope | **अस्मत् (asmat)** — from us | **उत् श्रथाय (ut śrathāya)** — release (taking it off) from above | **अधमं (adhamaṃ)** — tied below (at the region of the feet) (the rope) | **अव (श्रथाय) (ava (śrathāya))** — release from below | **मध्यमं (madhyamaṃ)** — (the rope) in the middle (at the region of the navel) | **वि श्रथाय (vi śrathāya)** — cut it and release | **अथ (atha)** — afterwards | **आदित्य (āditya)** — O Varuṇa, son of Aditi | **वयं (vayaṃ)** — we (Śunaḥśepas) | **तव व्रते (tava vrate)** — in your rite | **अदितये (aditaye)** — so as to be without interruption | **अनागसः (anāgasaḥ)** — free from faults (pure) | **स्याम (syāma)** — may we become.
+
+**॥ Bhāvārthaḥ ॥** O Varuṇa, release the rope at my head from above, the one at the feet from below, and the one at the middle by cutting it. Then may we (Śunaḥśepas) become free from faults (pure), so that your rites go on without interruption.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Loosen up, Varuna, the upper bond from us, loosen down the lower bond, and loosen the middle bond, that we may then O Aditya (son of Aditi or Varuna) be free from sin in your worship.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 293–294)* **उत्तममधममध्यमम्** — [loosen] the upper, lower and middle ropes. When a sacrificial animal is bound to the post, the ropes are tied at the three places — the upper part of the body (the head), the lower (the feet) and the middle part (the belly) — so that it cannot escape and so that it can be killed; the ṛṣi indicates the three kinds of rope-bondage places, asking that all of them, which hold him tightly, be loosened. **अव श्रथाय** — *viyujya śithilīkuru*: unfasten the rope and release. **आदित्य** — son of Aditi, Varuṇa; the Varuṇa, son of the goddess-mother Aditi. **व्रते** — *tvadīye karmaṇi*: in your rite; in the sacrificial work done to worship you (so that we may share in it). **अनागसः** — *aparādharahitāḥ*: faultless, sinless.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**॥ Close of Sūkta 24 ॥** *(p. 294; a printed ornament closes the sūkta; no colophon with a varga number appears. Printed p. 295 opens with the heading of Sūkta 25 on a new page.)*
+**उत्तमं, अधमं मध्यमं (uttamaṃ, adhamaṃ madhyamaṃ)** — release the upper, lower and middle ropes or bonds. When the animal is tied to the sacrificial post, so that it does not slip away and does not struggle while it is being killed, the upper part of its body (that is, the neck), the lower part (the feet) and the middle part (the belly) are tied tight with rope; the ṛṣi points to these three kinds of rope-binding places, asking that they be loosened.
+
+**अव श्रथाय (ava śrathāya)** — *viyujya śithilīkuru*: loosen the rope and release [him].
+
+**आदित्य (āditya)** — *aditeḥ putra, varuṇa*: Varuṇa, the son of Aditi, the mother of the gods.
+
+### Page 294 — Rik 15: Special Topics (end), grammar
+
+**व्रते (vrate)** — *tvadīye karmaṇi*: in the sacrificial rite performed to worship you (make [us] take part).
+
+**अनागसः (anāgasaḥ)** — *aparādharahitāḥ*: without faults, without sin, and so on.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly; every number zoom-read at 450 dpi, v3a)*
+
+**उत्तमम् (uttamam)** — *tamap* in the superlative sense; as a *pit* suffix it is anudātta by "अनुदात्तौ सुप्पितौ" (Pā. Sū. 3-1-4); against this, the *uñchādi* list (printed ಉಂಛಾದಿ) reads "उत्तमशश्वत्तमौ सर्वत्र" (Pā. Sū. 6-1-160 ग, i.e. a gaṇa sūtra), so the word is end-acute.
+
+**अधमम् (adhamam)** — "अवद्यावमाधमार्वरेफाः कुत्सिते" (Uṇ. Sū. 5-732, as printed: ೫-೭೩೨, the 7 flat-footed, the 3 ಇ-shaped, the 2 curled; the bhāṣya gives उ. ५-५४): *av rakṣaṇe* + *amac*, *dh* for *v*; end-acute by "चितः" (Pā. Sū. 6-1-163); since roots have many senses, the sense here is not 'to protect'.
+
+**श्रथाय (śrathāya)** — *śratha daurbalye*, curādi; *loṭ* second singular *sip* → *hi*; *śap*; *hi* dropped by "अतो हेः" (Pā. Sū. 6-4-105); guṇa and *ay* of the *ṇic* give *śrathaya*; lengthened in the Saṃhitā as a Vedic licence; the *tiṅanta* takes the *nighāta* accent.
+
+**तव (tava)** — genitive singular of *yuṣmad*; initially acute by "युष्मदस्मदोर्ङसि" (Pā. Sū. 6-1-211).
+
+**अनागसः (anāgasaḥ)** — *na vidyate āgaḥ eṣāṃ te*: those who have no offence. The *n* of *nañ* is dropped and the following vowel takes the *nuṭ* augment; as a bahuvrīhi the first member keeps its accent by "बहुव्रीहौ प्र-" (Pā. 6-2-1), so the word is initially acute; by *vyatyaya* the end-acute of "नञ्सुभ्याम्" (Pā. Sū. 6-2-172) does not come. Or: *āgas* ends in *s*, so by "अस्मायामेधास्रजो विनिः" (Pā. Sū. 5-2-121; the print's heading reads ಅಸ್ಮಾಯಾಮೇಧಾ ಸೃಜೋ ವಿನಿಃ) *vini* comes in the possessive sense, and it is dropped by "विन्मतोर्लुक्" (Pā. Sū. 5-3-5, as printed: ೫-೩-೫; the bhāṣya on p. 293 prints ५-३-६५); *āgas* remains; with *nañ* it is a tatpuruṣa, and by "तत्पुरुषे तुल्यार्थ-" (Pā. Sū. 6-2-2) the indeclinable first member keeps its accent: initially acute.
+
+**॥ Close of Sūkta 24 ॥** *(p. 294: the grammar ends two-thirds down the page; no ornament, colophon or varga note is printed. Printed p. 295 opens with the heading of Sūkta 25.)*
+
 ## ॥ ಇಪ್ಪತ್ತೈದನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 25 — *"yac cid dhi te viśo yathā"* ("The Twenty-fifth Sūkta"; second sūkta of the Sixth Anuvāka)
 
 *(Printed pp. 295–344. The introductory note and heading block are on p. 295; Rik 1 begins on p. 296.)*
