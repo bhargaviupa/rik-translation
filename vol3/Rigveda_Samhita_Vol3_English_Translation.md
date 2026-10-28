@@ -9667,27 +9667,33 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 471)*
 
-> ऊर्ध्वस्तिष्ठा न ऊतयेऽस्मिन्वाजे शतक्रतो ।
-> समन्येषु ब्रवावहै ॥ ६ ॥
+*(Line 1 flagged [accent ?]: the svarita stroke stands just right of* स्ति*, over the left part of* ष्ठा*; taken on* ष्ठा*. In line 2 the bar is under* म *and the stroke over* षु*.)*
 
-> *ūrdhvastiṣṭhā na ūtaye 'sminvāje śatakrato |*
-> *samanyeṣu bravāvahai ‖ 6 ‖*
+> ऊ॒र्ध्वस्तिष्ठा॑ न ऊ॒तये॒ऽस्मिन्वाजे॑ शतक्रतो । [accent ?]
+> सम॒न्येषु॑ ब्रवावहै ॥ ६ ॥
+
+> *ūrdhvástíṣṭhā na ūtáye 'smínvā́je śatakrato |* [accent ?]
+> *samanyéṣu bravāvahai || 6 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
+### Page 472 — Sūkta 30, Rik 6 (continued)
 
 **Pada-pāṭha** *(p. 472)*
 
 > ऊर्ध्वः । तिष्ठ । नः । ऊतये । अस्मिन् । वाजे । शतक्रतो इति शतऽक्रतो ।
-> सम् । अन्येषु । ब्रवावहै ॥ ६ ॥
+> सं । अन्येषु । ब्रवावहै ॥ ६ ॥
 
 > *ūrdhvaḥ | tiṣṭha | naḥ | ūtaye | asmin | vāje | śatakrato iti śata 'krato |*
-> *sam | anyeṣu | bravāvahai ‖ 6 ‖*
+> *saṃ | anyeṣu | bravāvahai ‖ 6 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 472)*
 
-> हे शतक्रतो शतसंख्याककर्मोपेते अस्मिन्नस्मासक्ते वाजे संग्रामे नोऽस्माकमूतये रक्षणायोर्ध्वः उन्नत उत्साहवान् तिष्ठ । भव । त्वं चाहं च मिलित्वान्येषु कार्यान्तरेषु सं ब्रवावहै । सम्यग् विचारयावः ॥ तिष्ठ । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । ऊतये । ऊतियूतीत्यादिना क्तिन उदात्तत्वम् । अस्मिन् । ऊडिदमित्यादिना सप्तम्या उदात्तत्वम् ॥
+> हे शतक्रतो शतसंख्याककर्मोपेत अस्मिन्प्रसक्ते वाजे संग्रामे नोऽस्माकमूतये रक्षणायोर्ध्व उन्नत उत्सुकस्तिष्ठ । भव । त्वं चाहं च मिलित्वान्येषु कार्यान्तरेषु सं ब्रवावहै । सम्यग्विचारयावः ॥ तिष्ठ । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । ऊतये । ऊतियूतीत्यादिना क्तिन उदात्तत्वम् । अस्मिन् । ऊडिदमित्यादिना सप्तम्या उदात्तत्वम् ॥
 
-> *he śatakrato śatasaṃkhyākakarmopete asminnasmāsakte vāje saṃgrāme no 'smākamūtaye rakṣaṇāyordhvaḥ unnata utsāhavān tiṣṭha | bhava | tvaṃ cāhaṃ ca militvānyeṣu kāryāntareṣu saṃ bravāvahai | samyag vicārayāvaḥ ‖ tiṣṭha | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | ūtaye | ūtiyūtītyādinā ktina udāttatvam | asmin | ūḍidamityādinā saptamyā udāttatvam ‖*
+> *he śatakrato śatasaṃkhyākakarmopeta asminprasakte vāje saṃgrāme no 'smākamūtaye rakṣaṇāyordhva unnata utsukastiṣṭha | bhava | tvaṃ cāhaṃ ca militvānyeṣu kāryāntareṣu saṃ bravāvahai | samyagvicārayāvaḥ ‖ tiṣṭha | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | ūtaye | ūtiyūtītyādinā ktina udāttatvam | asmin | ūḍidamityādinā saptamyā udāttatvam ‖*
 
-*Translation:* "O Śatakratu, [you] of a hundred works! In this battle (*vāje*) that has come to us, for our protection stand up (*ūrdhvaḥ*), raised and eager. You and I, together, will confer (*saṃ bravāvahai*) about other matters — we two will deliberate well. *Tiṣṭha*: the lengthening in the Saṃhitā by *dvyaco 'tastiṅaḥ*; *ūtaye*: the acute of *ktin*; *asmin*: the acute of the locative by *ūḍidam…*."
+*Translation:* "O Śatakratu, endowed with a hundred works! In this battle (*vāje*) that has come on, for our protection (*ūtaye*) stand (*tiṣṭha*: be) upright (*ūrdhvaḥ*: raised, eager). You and I, together, will speak together (*saṃ bravāvahai*) about other matters — we two will deliberate well." The grammatical tail: *tiṣṭha* is lengthened in the Saṃhitā by *dvyaco 'tastiṅaḥ*; *ūtaye* has the udātta of *ktin* by *ūtiyūti…*; *asmin* has the udātta locative ending by *ūḍidam…*.
 
 **Pratipadārtha** *(p. 472, rendered)* — **शतक्रतो** O Indra endowed with a hundred sacrifices; **अस्मिन् वाजे** in this (going-on) battle; **नः ऊतये** for our protection; **ऊर्ध्वः तिष्ठ** rise and stand ready; **अन्येषु** in other matters; **सं ब्रवावहै** let us two converse, consulting.
 
@@ -9699,7 +9705,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Viśeṣa-viṣayagaḷu** *(p. 472)* — Chief sense: "O Indra, you who have done many daring deeds, rise quickly in the battle now going on to protect us; the other matters we shall talk over afterwards."
 
-**Grammar (p. 473), noted briefly:** *tiṣṭha* (*ṣṭhā gatinivṛttau*, *bhvādi*, *loṭ*, *hi*; *pāghrādhmā…* P. 7-3-78 gives *tiṣṭha*; *śap*; *hi* dropped by P. 6-4-105; lengthening in the Saṃhitā by *dvyaco 'tastiṅaḥ* P. 6-3-135); *ūtaye* (*ūtiyūtijūtisātihetikīrtayaś ca* P. 3-3-97, *ktin* by *nipātana*); *asmin* (*idam* locative; *tyadādīnām aḥ* P. 7-2-102; *ṅi* → *smin*; *hali lopaḥ* P. 7-2-113; *ūḍidaṃpadādy…* P. 6-1-171). Numerals as read, [?].
+### Page 473 — Sūkta 30, Rik 6: grammar
+
+**Vyākaraṇa-prakriyā** *(p. 473, noted briefly)* — *tiṣṭha*: *ṣṭhā gatinivṛttau*, *bhvādi*, *loṭ* second person singular, *hi* for *sip*; *tiṣṭha* for the root by '*pāghrādhmā*' (Pā. sū. 7-3-78); *śap*; *hi* dropped by '*ato heḥ*' (Pā. sū. 6-4-105); lengthening in the Saṃhitā by '*dvyaco 'tastiṅaḥ*' (Pā. sū. 6-3-135). *ūtaye*: '*ūtiyūtijūti*' (Pā. sū. 3-3-97), a *ktin* form with udātta by *nipātana*; dative singular; middle acute. *asmin*: *idam*, locative singular; *a* by '*tyadādīnām aḥ*' (Pā. sū. 7-[?]-102: the middle digit is broken in the print); *smin* for *ṅi*; *id* dropped by '*hali lopaḥ*' (Pā. sū. 7-2-113); udātta ending by '*ūḍidaṃ padādi*' (Pā. sū. 6-1-171).
 
 ---
 
