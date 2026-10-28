@@ -8781,15 +8781,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.11 (pp. 528–531)
+### Rik 44.11 (pp. 528–531; better scan PDF 543–546)
 
-**Saṃhitā-pāṭha** *(p. 528; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 528)*
 
-> **नि त्वा यज्ञस्य साधनमग्ने होतारमृत्विजम् ।**
-> **मनुष्वद्देव धीमहि प्रचेतसं जीरं दूतममर्त्यम् ॥ ११ ॥**
+> **नि त्वा॑ य॒ज्ञस्य॒ साध॑न॒मग्ने॒ होता॑रमृ॒त्विजं॑ ।**
+> **म॒नु॒ष्वद्दे॑व धीमहि॒ प्रचे॑तसं जी॒रं दू॒तम॑र्त्यम् ॥ ११ ॥**
 
-*ni tvā yajñasya sādhanam agne hotāram ṛtvijam |*
-*manuṣvad deva dhīmahi pracetasaṃ jīraṃ dūtam amartyam || 11 ||*
+*ní tvā yajñásya sā́dhanam ágne hótāram ṛtvíjaṃ |*
+*manuṣvád deva dhīmahi prácetasaṃ jīráṃ dūtám artyam || 11 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 528)*
 
@@ -8809,29 +8811,36 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Translation:** "O Agni, O god! *Manuṣvat*, as Manu places (you) at the place of the sacrifice, even so we also *ni dhīmahi*, set you down, establish you here. What kind of one? *Yajñasya sādhanam*, the accomplisher of the sacrifice; *hotāram ṛtvijam*, the sacrificer in the seasons such as the spring; *pracetasam*, endowed with excellent wisdom; *jīram*, the one who diminishes the life of enemies; *dūtam*, standing in the place of messenger of the gods; *amartyam*, free from death."
 
-**Grammatical tail** *(p. 528 foot; characterized, the sūtra number as read [?])*
-- *manuṣvat*: the word *manas* (*manus*) ends with the Uṇādi suffix *asi*; the suffix *vati* by the rule "*tena tulyaṃ kriyā ced vatiḥ*" (Pā. 5-1-115 as read [?]) — "*vati* in the sense of 'equal to that' if it is an action". Because the word is of the *ayasmaya* class (as printed, *ayasmayādītvena*), it takes the *bha*-designation, so the *ru*-change and so on do not arise.
-- *dhīmahi*: root *dudhāñ dhāraṇapoṣaṇayoḥ*; loss of the reduplicative syllable after *liṅ* is Vedic (*lin-ābhyāsa-lopaś chāndasaḥ*, as printed).
-- *jīram*: the root *ju* is a *sautra* root (taken from the sūtras, not from the root-list); the suffix *rak* by "*jorī ca*" (Uṇ. 2-[?] as read); Kātyāyana says "*raki jyaḥ saṃprasāraṇe jīra iti*" (as printed).
+**Sāyaṇa-bhāṣya, grammatical tail** *(p. 528 foot; transcribed from the better scan, PDF 543)*
+
+> **मनुष्वत् । औणादिकोऽसिप्रत्ययान्तो मनस्शब्दः । तेन तुल्यं क्रिया चेद्वतिः । पा. ५-१-११५ । इति वतिप्रत्ययः । अयस्मयादित्वेन भत्वाद्रुत्वाद्यभावः । धीमहि । डुधाञ् धारणपोषणयोः । लिङ्यभ्यासलोपश्छान्दसः । जीरं । जु इति सौत्रो धातुः । जोरी च । उ. २-२३ । इति रक्प्रत्ययः । कात्यायनस्त्वाह । रकि ज्यः संप्रसारणे जीर इति ॥**
+
+*manuṣvat | auṇādiko 'sipratyayānto manasśabdaḥ | tena tulyaṃ kriyā ced vatiḥ | pā. 5-1-115 | iti vatipratyayaḥ | ayasmayāditvena bhatvād rutvādyabhāvaḥ | dhīmahi | ḍudhāñ dhāraṇapoṣaṇayoḥ | liṅy abhyāsalopaś chāndasaḥ | jīraṃ | ju iti sautro dhātuḥ | jorī ca | u. 2-23 | iti rakpratyayaḥ | kātyāyanas tv āha | raki jyaḥ saṃprasāraṇe jīra iti ||*
+
+*(Gist: manuṣvat — vati "like Manu", a bha-stem so no ru; dhīmahi — Vedic loss of the reduplication in the liṅ; jīra — the sautra root ju with rak (Uṇ. 2-23), or, with Kātyāyana, from jyā with saṃprasāraṇa. The print writes "manas-" here for* manus*.)*
 
 **Pratipadārtha** *(pp. 528–529)* — "**agne deva** — O god Agni; **yajñasya sādhanam** — as the accomplisher of the sacrifice; **hotāram ṛtvijam** — as one who performs the sacrifice in the seasons beginning with spring; **pracetasam** — as one endowed with excellent knowledge; **jīram** — as the destroyer of the lives of enemies; **dūtam** — as the messenger of the gods; **amartyam** — as one who is free from death; **tvā** — you; **manuṣvat** — in the manner in which Manu established (you) in the sacrificial ground; **(vayam** — we also**) nidhīmahi** — establish (you) here."
 
+### Page 529
+
 **Bhāvārtha** *(p. 529)* — "O god Agni, you are the accomplisher of the sacrifice. You are one who sacrifices in the seasons beginning with spring, being endowed with excellent knowledge. You destroy the lives of enemies and are free from death. Since you are the messenger of the gods, the destroyer of enemies and the nourisher of friends, Manu established you in the sacrificial ground. Like him we too establish you in this sacrificial ground."
 
-**English Translation (the source's own, p. 529)** — "O Agni, we place you as Manu placed you in sacrificial altar [sic] ; you are the main factor of the sacrifice, the invoker, the ministering priest, the wise, the destroyer of enemies, immortal and the messenger of gods."
+**English Translation (the source's own, p. 529)** — "O Agni, we place you as Manu placed you in sacrifical [sic] altar ; you are the main factor of the sacrifice, the invoker, the ministering priest, the wise, the destroyer of enemies, immortal and the messenger of gods."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 529**
 - **yajñasya sādhanam** — "since Agni is absolutely necessary for performing a sacrifice, he is said to be the chief instrument of the sacrifice."
-- **hotāram, ṛtvijam** — "*hotāram* means one who invokes the deities in the sacrifice, or the one principal priest who recites the mantras in the sacrifice for the invocation of the deities. In the sacrifice the *hotṛ* has a place of great prominence. *Ṛtvijam* means one of the priests who take part in the sacrifice. In every sacrifice there are four chief priests, *hotṛ, adhvaryu, udgātṛ* and *brahmā*; these four, and also their assistant groups, are by custom called *ṛtvij*. When *ṛtvij* is said, it can be any one of them. For the explanation of these words see Ṛgveda Saṃhitā part 1, p. 615 [numeral as read, ?]."
+- **hotāram, ṛtvijam** — "*hotāram* means one who invokes the deities in the sacrifice, or the one principal priest who recites the mantras in the sacrifice for the invocation of the deities. In the sacrifice the *hotṛ* has a place of great prominence. *Ṛtvijam* means one of the priests who take part in the sacrifice. In every sacrifice there are four chief priests, *hotṛ, adhvaryu, udgātṛ* and *brahmā*; these four, and also their assistant groups, are by custom called *ṛtvij*. When *ṛtvij* is said, it can be any one of them. For the explanation of these words see Ṛgveda Saṃhitā part 1, p. 615."
 - **manuṣvat** — "*manuvat*: as the Prajāpati Manu established and set Agni in the sacrifice that he performed, in that manner; this is the meaning."
 - **jīram** — "*ju iti sautro dhātuḥ; śatrūṇāṃ vayohānikaram*: the destroyer of the life-span of enemies, one who diminishes (their life), one who makes (it) decay."
 
+### Page 530
+
 **Vyākaraṇa-prakriyā** *(pp. 530–531 — grammar pages, noted briefly; the crowded stretches not reproduced)*
-- **yajñasya**: root *yaja devapūjādau*; the suffix *naṅ* by "*yajayācayataviccha-pracchā rakṣo naṅ*" (Pā. 3-3-90 as read [?]) — यजयाचयतविच्छप्रश्नरक्षो नङ् — [as printed, the sūtra's wording is partly legible; I give it only in the standard form and the number as read]; *yaj + na*; the next step by "*stoḥ ścunā ścuḥ*" (Pā. 8-4-40 as read) — स्तोः श्चुना श्चुः — concerning the change of the dental nasal after the palatal; the suffix-accent (*pratyayasvara*) then arises. (The Kannada explanation of this step is partly unclear to me [?].)
-- **manuṣvat**: root *mana jñāne*; the Uṇādi suffix *usi*; *man + us = manus*; the analysis *manuṣā tulyam* "equal to Manu"; the rule *tena tulyaṃ kriyā cet vatiḥ* (Pā. 5-1-115 as read [?]): after a word in the instrumental the suffix *vati* in the sense of "equal", but only if what is equal is an action — here *manuṣā tulyaṃ dhīmahi* gives the action. Because *vati* comes, the word gets the *bha*-designation by *ayasmayādīni chandasi* (Pā. 1-4-20 as read), so there is no *pada*-designation; therefore the *ru*-change which has *pada*-designation as its cause by "*sa sajuṣo ruḥ*" (Pā. 8-2-66) does not come; nor does the *u* by "*haśi ca*" (Pā. 6-1-114).
+- **yajñasya**: root *yaja devapūjādau*; the suffix *naṅ* by "*yajayācayataviccha-pracchā rakṣo naṅ*" (Pā. 3-3-90; printed "yajayācayatavicchapracchrakṣo naṅ") — यजयाचयतविच्छप्रच्छरक्षो नङ् —; *yaj + na*; the next step by "*stoḥ ścunā ścuḥ*" (Pā. 8-4-40) — स्तोः श्चुना श्चुः — the *n* becomes *ñ*; the suffix-accent (*pratyayasvara*) then arises.
+- **manuṣvat**: root *mana jñāne*; the Uṇādi suffix *usi*; *man + us = manus*; the analysis *manuṣā tulyam* "equal to Manu"; the rule *tena tulyaṃ kriyā cet vatiḥ* (Pā. 5-1-115): after a word in the instrumental the suffix *vati* in the sense of "equal", but only if what is equal is an action — here *manuṣā tulyaṃ dhīmahi* gives the action. Because *vati* comes, the word gets the *bha*-designation by *ayasmayādīni chandasi* (Pā. 1-4-20), so there is no *pada*-designation; therefore the *ru*-change which has *pada*-designation as its cause by "*sa sajuṣo ruḥ*" (no number printed) does not come; nor does the *u* by "*haśi ca*" (no number printed).
 - **deva**: root *divu* … by the *pacādi*-rule (the rule beginning *nandigrahipacādibhyaḥ…*, as printed) the suffix *ac*; the vocative is unaccented (*āmantritasya*).
-- **dhīmahi**: *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṅ*, *mahiṅ*, *liṅaḥ sīyuṭ*; *liṅaḥ salopo 'nantyasya* (the *s* is lost); *lopo vyor vali* (the *y* is lost); *śap* with *ślu*; doubling after *ślu*; the Vedic loss of the reduplicative syllable; *dhā + īmahi*; "*śnābhyastayor ātaḥ*" (Pā. 6-4-112 as read [?]) — the *ā* of the root is dropped when a non-*kit/ṅit* personal ending follows the *śnā*-suffix or reduplicated verb; *dh + īmahi = dhīmahi*.
-- **jīram**: *ju gatau vege ca*; this root is not in the root-list but is established by what Pāṇini says in the rule beginning *ju-caṅkramya…* (Pā. 3-2-150 as read [?]); roots that are thus used in sūtras are called *sautra*. The Uṇādi sūtra *jorī ca* (Uṇ. 2-[?] as read): after *ju* the suffix *rak*, and *ī* for the final letter, giving *jīra*. Some read instead of *jorī ca* the sūtra *jyāś ca* (Uṇ. 2-[?] as read): *rak* after the root *jyā vayohānau*; *jyā + ra*, and *grahijyā-vayi…* (Pā. 6-1-16 as read) gives *saṃprasāraṇa*; *saṃprasāraṇāc ca* (Pā. 6-1-108) gives the earlier form (*pūrvarūpa*); *halaḥ* (Pā. 6-4-2) lengthens the final of the stem after a *saṃprasāraṇa* standing after a consonant: *jīra*. *na dhātulopa ārdhadhātuke* (Pā. 1-1-4) etc.; and Kātyāyana's vārttika "*raki jyaḥ saṃprasāraṇam*" is cited; hence the reading *jyāśca* is evidently the one approved by Kātyāyana. **|| 11 ||**
+- **dhīmahi**: *dudhāñ dhāraṇapoṣaṇayoḥ*; *liṅ*, *mahiṅ*, *liṅaḥ sīyuṭ*; *liṅaḥ salopo 'nantyasya* (the *s* is lost); *lopo vyor vali* (the *y* is lost); *śap* with *ślu*; doubling after *ślu*; the Vedic loss of the reduplicative syllable; *dhā + īmahi*; "*śnābhyastayor ātaḥ*" (Pā. 6-4-112) — the *ā* of the root is dropped when a non-*kit/ṅit* personal ending follows the *śnā*-suffix or reduplicated verb; *dh + īmahi = dhīmahi*.
+- **jīram**: *ju gatau vege ca*; this root is not in the root-list but is established by what Pāṇini says in the rule beginning *ju-caṅkramya…* (Pā. 3-2-150); roots that are thus used in sūtras are called *sautra*. The Uṇādi sūtra *jorī ca* (Uṇ. 2-181, as printed here; the bhāṣya gives 2-23): after *ju* the suffix *rak*, and *ī* for the final letter, giving *jīra*. Some read instead of *jorī ca* the sūtra *jyaś ca* (Uṇ. 2-181, the same number as printed): *rak* after the root *jyā vayohānau*; *jyā + ra*, and *grahijyā-vayi…* (Pā. 6-1-16) gives *saṃprasāraṇa*; *saṃprasāraṇāc ca* (no number printed) gives the earlier form (*pūrvarūpa*); *halaḥ* (Pā. 6-4-2) lengthens the final of the stem after a *saṃprasāraṇa* standing after a consonant: *jīra*. *[p. 531]* *na dhātulopa ārdhadhātuke* (Pā. 1-1-4) etc.; and Kātyāyana's vārttika "*raki jyaḥ saṃprasāraṇam*" is cited; hence the reading *jyāśca* is evidently the one approved by Kātyāyana. **|| 11 ||**
 
 ---
 
