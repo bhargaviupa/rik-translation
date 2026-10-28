@@ -7006,7 +7006,21 @@ one who cannot be harmed by anyone, unobstructed.
 
 **पाशान् (pāśān)** — the ropes with which Śunaḥśepa was tied firmly to the sacrificial post.
 
-*(The grammar of Ṛk 24.13 begins on p. 287, PDF 301, the first page of the next batch.)*
+### Page 287 — Rik 13: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly; the sūtra numbers were zoom-checked from the print on Oct 28)*
+
+**त्रिषु (triṣu)** — locative plural of *tri*. By "षट्त्रिचतुर्भ्यो हलादिः" (Pā. Sū. 6-1-179) a case-ending beginning with a consonant, standing after *ṣaṭ* and the three words *tri*, *catur* etc., is udātta; so here the ending's anudātta accent is set aside and the ending is udātta. In the Saṃhitā text, with *triṣu* + *ādityam*, the *yaṇ* substitution comes. *triṣu* is an *antodātta* word. By "उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य" (Pā. Sū. 8-2-4) an anudātta that follows a *yaṇ* standing in the place of an udātta or a svarita becomes svarita; so in *triṣvādityam*, since the *yaṇ* stands in the place of an udātta, the *ā* becomes svarita.
+
+**सस्सृज्यात् (sasṛjyāt)** *(the heading is printed* सस्सृज्यात्*, as in the Saṃhitā)* — root *sṛja visarge*, tudādi. By "विधिनिमंत्रण-…" (Pā. Sū. 3-3-161) *liṅ* comes in the sense of a prayer. If the *śa* vikaraṇa is attained, by "बहुलं छन्दसि" (Pā. Sū. 3-4-10, as printed) the *i* of "*tippina*" (as printed *tippina ikārakke*; the context, with *śluḥ* in the next sentence, suggests *śap*, but the printed word is kept) is dropped. When *śluḥ* follows, by "श्लौ" (Pā. Sū. 6-1-10) the root is doubled. By "यासुट् परस्मैपदेषूदात्तो ङिच्च" (Pā. Sū. 3-4-103) the *liṅ* takes the *yāsuṭ* augment. If the retention of the initial consonant in the reduplicate and the *at*-substitution (*uradatva*, the printed word is split across a line) are attained, the form *sasṛjyāt* results. Because it follows a verb (printed *atijanta*, probably *tiṅanta*: my reading, tentative), the *nighāta* (all-anudātta) accent comes.
+
+**विद्वान् (vidvān)** — root *vida jñāne*, adādi. By "लटः शतृशानचौ…" (Pā. Sū. 2-2-124 as printed: the first glyph is the round-headed 2, not the ಇ 3-glyph used for 3-3-161 on the same page) *śatṛ* comes. For it, by "विदेः शतुर्वसुः" (Pā. Sū. 7-1-36) *vasu* is optionally substituted after the root *vid*; hence the *vasu* substitution; *vidvas* becomes a word ending in *s*. When the nominative singular *su* follows, by "उगिदचां सर्वनामस्थानेऽधातोः" (Pā. Sū. 7-1-70) the *num* augment comes, since *vasu* is *ugit*; *vidvans* + *s*. By "हल्ङ्यादि…" (the sūtra is named in short; no number printed) the *su* is dropped; by the dropping of a consonant-cluster's last member the final *s* is dropped; by "अत्वसन्तस्य" (Pā. Sū. 6-4-14) the penultimate vowel is lengthened; the form is *vidvān*. In the Saṃhitā text, by "दीर्घादटि समानपादे" (Pā. Sū. 8-3-9) the *n* after a long vowel becomes *ru*; next comes *adabdhaḥ*, which begins with a vowel, so the *ru* gets a *y* substitution, and since *aś* follows, that is dropped. By "आतोऽटि नित्यम्" (Pā. Sū. 8-3-3) the preceding *ā*, in the *ru*-stage, takes the *anunāsika*; the form is *vidvā̐*.
+
+**अदब्धः (adabdhaḥ)** — root *dambhu dambhe*, svādi; a root with *n* as penultimate. When *kta* follows, by "अनिदितां हल उपधायाः क्ङिति" (Pā. Sū. 6-4-24; the print quotes it as "अनिदितां हल") the penultimate *n* is dropped before a *kit* suffix; *dabh* + *ta*.
+
+### Page 288 (upper) — Rik 13: grammar (end)
+
+By "झषस्तथोर्धोऽधः" (Pā. Sū. 8-2-40) the *t* and *th* after a *jhaṣ* become *dh*; so here the *t* after the *bh* becomes *dh*. By "झलां जश् झशि" (Pā. Sū. 8-4-53) when a *jhaś* follows, the *bh* becomes *jaś*, that is *b*. The form is *dabdhaḥ*; in the *nañ*-tatpuruṣa it is *adabdhaḥ*. By "तत्पुरुषे तुल्यार्थ…" (Pā. Sū. 6-2-2) the indeclinable first member keeps its own accent (*pūrvapada-prakṛti-svara*). So *adabdhaḥ* is an *ādyudātta* word.
 
 ---
 
