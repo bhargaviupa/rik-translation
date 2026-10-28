@@ -1067,13 +1067,15 @@
 
 ### Rik 48.7 (pp. 54–56, PDF 70–72)
 
-**Saṃhitā-pāṭha** *(p. 54; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 54; accents as printed)*
 
-> **एषायुक्त परावतः सूर्यस्योदयनादधि ।**
-> **शतं रथेभिः सुभगोषा इयं वि यात्यभि मानुषान् ॥ ७ ॥**
+> **ए॒षायु॑क्त परा॒वतः॒ सूर्य॑स्योदय॑ना॒दधि॑ ।**
+> **श॒तं रथे॑भिः सु॒भगो॒षा इयं॒ वि या॑त्यभि मानुषा॑न् ॥ ७ ॥**
 
-*eṣāyukta parāvataḥ sūryasyodayanād adhi |*
-*śataṃ rathebhiḥ subhagoṣā iyaṃ vi yāty abhi mānuṣān || 7 ||*
+*eṣā́yukta parāvátaḥ sū́ryasyodáyanād ádhi |*
+*śatáṃ ráthebhiḥ subhágoṣā́ iyaṃ ví yāty abhi mānuṣā́n || 7 ||*
+
+*[accent ?] the anudātta strokes under* rā/va *of* parāvataḥ*, and the stroke under* yaṃ *of* iyaṃ *are not settled; the IAST acutes are inferred.*
 
 **Pada-pāṭha** *(p. 54)*
 
@@ -1087,11 +1089,11 @@
 
 > **एषोषोदेवी शतमयुक्त । स्वकीयानां रथानां शतं योजितवती । सुभगा सौभाग्ययुक्तेयमुषाः परावतो दूरस्थात् सूर्यस्योदयनादधि सूर्योदयस्थानादधिकाद्द्युलोकान्मानुषानभि मनुष्यानुद्दिश्य रथेभिः शतसंख्यैर्युक्तै रथैर्वि याति । विशेषेण गच्छति ॥ आयुक्त । लुङि झलो झलि । पा. ८-२-२६ । इति सिचो लोपः । उदयनात् । उदेत्यत्रेत्युदयनं । इण् गतौ । अधिकरणे ल्युट् । कृदुत्तरपदप्रकृतिस्वरत्वं । सुभगा । शोभनो भगो यस्याः सा । आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वं । मानुषान् । मनोः पुत्राः मानुषाः । मनोर्जातावञ्यतौ षुक् च । इत्यञ् षुगागमश्च । ञित्त्वादाद्युदात्तत्वं ॥**
 
-*eṣoṣodevī śatam ayukta | svakīyānāṃ rathānāṃ śataṃ yojitavatī | subhagā saubhāgyayuktēyam uṣāḥ parāvato dūrasthāt sūryasyodayanād adhi sūryodayasthānād adhikād dyulokān mānuṣān abhi manuṣyān uddiśya rathebhiḥ śatasaṃkhyair yuktai rathair vi yāti | viśeṣeṇa gacchati || āyukta | luṅi jhalo jhali | pā. 8-2-26 | iti sico lopaḥ | udayanāt | udety atrety udayanaṃ | iṇ gatau | adhikaraṇe lyuṭ | kṛduttarapadaprakṛtisvaratvaṃ | subhagā | śobhano bhago yasyāḥ sā | ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvaṃ | mānuṣān | manoḥ putrāḥ mānuṣāḥ | manor jātāv añyatau ṣuk ca | ity añ ṣugamaś ca | ñittvād ādyudāttatvam ||*
+*eṣoṣodevī śatam ayukta | svakīyānāṃ rathānāṃ śataṃ yojitavatī | subhagā saubhāgyayuktēyam uṣāḥ parāvato dūrasthāt sūryasyodayanād adhi sūryodayasthānād adhikād dyulokān mānuṣān abhi manuṣyān uddiśya rathebhiḥ śatasaṃkhyair yuktai rathair vi yāti | viśeṣeṇa gacchati || ayukta | luṅi jhalo jhali | pā. 8-2-26 | iti sico lopaḥ | udayanāt | udety atrety udayanaṃ | iṇ gatau | adhikaraṇe lyuṭ | kṛduttarapadaprakṛtisvaratvaṃ | subhagā | śobhano bhago yasyāḥ sā | ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvaṃ | mānuṣān | manoḥ putrāḥ mānuṣāḥ | manor jātāv añyatau ṣuk ca | ity añ ṣugamaś ca | ñittvād ādyudāttatvam ||*
 
-*(The print has the unusual "eṣoṣodevī" for "eṣā uṣodevī" [as I read it]; "ñityādir nityam" is printed "ñitsvara…". The numerals are as read.)*
+*(The print has "eṣoṣodevī" (for* eṣā uṣodevī*); the headword is printed* ayukta*; Pā. 8-2-26 is clear.)*
 
-**Translation:** "This goddess Uṣas *śatam ayukta*, has harnessed a hundred — a hundred of her own chariots. *Subhagā*, fortunate, this Uṣas, *parāvataḥ*, from afar, *sūryasya udayanāt adhi*, beyond the place of the Sun's rising, from the heaven, *mānuṣān abhi*, towards men, *rathebhiḥ*, with chariots yoked, a hundred in number, *vi yāti*, goes specially. *Āyukta*: in the aorist the *sic* drops by *jhalo jhali* (Pā. 8-2-26). *Udayanāt*: 'where one rises' is *udayana*; root *iṇ gatau*; *lyuṭ* in the locative sense; the second member's accent. *Subhagā*: 'she who has fortune'; the second member is initial-acute after *su* by *ādyudāttaṃ dvyac chandasi*. *Mānuṣān*: 'sons of Manu are *mānuṣāḥ*'; *añ* with the augment *ṣuk* by *manor jātāv añyatau ṣuk ca*; initial-acute because the suffix is *ñit*."
+**Translation:** "This goddess Uṣas *śatam ayukta*, has harnessed a hundred — a hundred of her own chariots. *Subhagā*, fortunate, this Uṣas, *parāvataḥ*, from afar, *sūryasya udayanāt adhi*, beyond the place of the Sun's rising, from the heaven, *mānuṣān abhi*, towards men, *rathebhiḥ*, with chariots yoked, a hundred in number, *vi yāti*, goes specially. *Ayukta*: in the aorist the *sic* drops by *jhalo jhali* (Pā. 8-2-26). *Udayanāt*: 'where one rises' is *udayana*; root *iṇ gatau*; *lyuṭ* in the locative sense; the second member's accent. *Subhagā*: 'she who has fortune'; the second member is initial-acute after *su* by *ādyudāttaṃ dvyac chandasi*. *Mānuṣān*: 'sons of Manu are *mānuṣāḥ*'; *añ* with the augment *ṣuk* by *manor jātāv añyatau ṣuk ca*; initial-acute because the suffix is *ñit*."
 
 **Pratipadārtha** *(p. 54)* — "**eṣā** — this goddess Uṣas; **śatam** — a hundred (in her chariots); **ayukta** — has made ready; **subhagā** — the auspicious; **iyam uṣāḥ** — this goddess Uṣas; **parāvataḥ** — from very far; **sūryasya udayanāt adhi** — from the heaven that is higher than the place of the Sun's rising; **mānuṣān abhi** — facing men; **rathebhiḥ** — with (her hundred chariots); **vi yāti** — comes in splendour."
 
@@ -1106,10 +1108,10 @@
 - **abhi mānuṣān** — "facing men; the idea is that she comes facing the earth, the world of men, starting from the heavenly world or the atmosphere."
 
 **Vyākaraṇa-prakriyā** *(pp. 55–56 — grammar pages, noted briefly)*
-- **ayukta**: root *yujir yoge*, *rudhādi*, both *padas*, *luṅ*, third person singular; *yuj + ta*; in the *cli* which would be general, *sic* by *cleḥ sic* (Pā. 3-1-44 as read); *yuj + s + ta*; *jhalo jhali* (Pā. 8-2-26 as read) drops the *s* when a *jhal* follows a *jhal*: the *s* after *j* and before *t* (a *jhal*); the *aṭ* augment; *coḥ kuḥ* (Pā. 8-2-30 as read) gives *g* for *j*, *khari ca* (Pā. 8-4-55 as read) gives *k*: *ayukta*; the Kannada author notes that the *tiṅ* is not made all-unaccented since it begins a *pāda*.
-- **udayanāt**: "*udeṣyati atra iti udayanam*"; root *iṇ gatau*; *lyuṭ ca* (Pā. 3-3-115 as read [?]) gives *lyuṭ* in the locative sense; *yu* → *ana*; *guṇa*, *ay*; *ut* being a prefix, *gatikārakopapadāt kṛt* leaves the natural accent; with *lit*-accent (*liti*, Pā. 6-1-193 as read) the syllable before the suffix is acute: in *udayanāt*, only the *a* after *d* is acute.
-- **subhagā**: "*śobhanaṃ bhagaḥ yasyāḥ sā*", one with greatness such as lordship; *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119 as read) — a second member having two vowels and initial-acute, standing after *su* in a bahuvrīhi, is initial-acute; so the word *bhaga* stays initial-acute in the compound; *subhagā* is middle-acute.
-- **mānuṣān**: "*manoḥ putrāḥ mānuṣāḥ*", sons of Manu; *manor jātāv añyatau ṣuk ca* (Pā. 4-1-161 as read) — after the word *manu*, in the sense of a *jāti* (community), the suffixes *añ* and *yat*, and the augment *ṣuk*; the augment is *kit*, so it comes at the end; here *añ* is used; *manu + ṣ + a*; since the suffix is *ñit*, *taddhiteṣv acām ādeḥ* (Pā. 7-2-117 as read) gives *vṛddhi* to the first vowel; *mānuṣa*; *ñnityādir nityam* (Pā. 6-1-197 as read) gives the initial acute; in the accusative plural, *mānuṣān*: the syllable after *n*; the unaccented *u* after the acute becomes *svarita*, and so on. **|| 7 ||**
+- **ayukta**: root *yujir yoge*, *rudhādi*, both *padas*, *luṅ*, third person singular; *yuj + ta*; in the *cli* which would be general, *sic* by *cleḥ sic* (no number printed); *yuj + s + ta*; *jhalo jhali* (Pā. 8-2-26) drops the *s* when a *jhal* follows a *jhal*: the *s* after *j* and before *t* (a *jhal*); the *aṭ* augment; *coḥ kuḥ* gives *g* for *j*, and *cartva* gives *k* (no numbers printed): *ayukta*; the Kannada author notes that the *tiṅ* is not made all-unaccented since it begins a *pāda*.
+- **udayanāt**: "*udeṣyati atra iti udayanam*"; root *iṇ gatau*; *lyuṭ ca* (Pā. 3-3-115) gives *lyuṭ* in the locative sense; *yu* → *ana* by *yuvor anākau* (Pā. 7-1-1); *guṇa* by *sārvadhātukārdhadhātukayoḥ*, *ay*; *ut* being a prefix, *gatikārakopapadāt kṛt* (Pā. 6-2-139) leaves the natural accent; with *lit*-accent (*liti*, Pā. 6-1-193) the syllable before the suffix is acute: in *udayanāt*, only the *a* after *d* is acute.
+- **subhagā**: "*śobhanaṃ bhagaḥ yasyāḥ sā*", one with greatness such as lordship; *ādyudāttaṃ dvyac chandasi* (Pā. 6-2-119) — a second member having two vowels and initial-acute, standing after *su* in a bahuvrīhi, is initial-acute; so the word *bhaga* stays initial-acute in the compound; *subhagā* is middle-acute.
+- **mānuṣān**: "*manoḥ putrāḥ mānuṣāḥ*", sons of Manu; *manor jātāv añyatau ṣuk ca* (Pā. 4-1-161) — after the word *manu*, in the sense of a *jāti* (community), the suffixes *añ* and *yat*, and the augment *ṣuk*; the augment is *kit*, so it comes at the end; here *añ* is used; *manu + ṣ + a*; since the suffix is *ñit*, *taddhiteṣv acām ādeḥ* (Pā. 7-2-117) gives *vṛddhi* to the first vowel; *mānuṣa*; *ñnityādir nityam* (Pā. 6-1-197) gives the initial acute; in the accusative plural, *mānuṣān*: the syllable after *n*; the unaccented *u* after the acute becomes *svarita*, and so on. **|| 7 ||**
 
 ---
 
