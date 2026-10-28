@@ -2688,13 +2688,15 @@ Numerals are small; a rule is given a number only where I read it.
 
 ### Rik 36.2 (pp. 183–186, PDF 197–200)
 
-**Saṃhitā-pāṭha** *(p. 183; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 183)*
 
-> **जनासो अग्निं दधिरे सहोवृधं हविष्मन्तो विधेम ते ।**
-> **स त्वं नो अद्य सुमना इहाविता भवा वाजेषु सन्त्य ॥ २ ॥**
+> जना॑सो अ॒ग्निं द॑धिरे सहो॒वृधं॑ ह॒विष्म॑न्तो विधेम ते ।
+> स त्वं नो॑ अ॒द्य सु॒मना॑ इ॒हावि॒ता भवा॒ वाजे॑षु सन्त्य ॥ २ ॥
 
-*janāso agniṃ dadhire sahovṛdhaṃ haviṣmanto vidhema te |*
-*sa tvaṃ no adya sumanā ihāvitā bhavā vājeṣu santya || 2 ||*
+*jánāso agníṃ dadhire sahovṛ́dhaṃ havíṣmanto vidhema te |*
+*sa tváṃ no adyá sumánā ihā́vitā́ bhavā vā́jeṣu santya || 2 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. In* janāso *the print has the stroke above* nā *and no mark below* ja*; reproduced as printed. "bhavā vājeṣu" is printed run together, ಭವಾವಾಜೇಷು.)*
 
 **Pada-pāṭha** *(p. 183)*
 
@@ -2704,15 +2706,23 @@ Numerals are small; a rule is given a number only where I read it.
 *janāsaḥ | agnim | dadhire | sahaḥ-vṛdham | haviṣmantaḥ | vidhema | te ||*
 *saḥ | tvam | naḥ | adya | su-manāḥ | iha | avitā | bhava | vājeṣu | santya || 2 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 183; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 183, in full)*
 
-> जनासोऽनुष्ठातारो जनाः सहोवृधं बलस्य वर्धयितारमग्निं दधिरे । धृतवन्तः । हविष्मन्तो हविर्युक्ता वयं हे अग्ने ते त्वां विधेम । परिचरेम । विधतिः परिचरणकर्मा । विधेम सपर्येतीति परिचरणकर्मसु पठितत्वात् । वाजेष्वन्नेषु सन्त्य दानशील हे अग्ने स त्वमद्यास्मिन्दिन इह कर्मणि नोऽस्माकं सुमनाः शोभनमनस्कोऽविता रक्षिता भव ॥
+> जनासोऽनुष्ठातारो जनाः सहोवृधं बलस्य वर्धयितारमग्निं दधिरे । धृतवन्तः । हविष्मन्तो हविर्युक्ता वयं हे अग्ने ते त्वां विधेम । परिचरेम । विधतिः परिचरणकर्मा । विधेम सपर्यतीति परिचरणकर्मसु पठितत्वात् । वाजेष्वन्नेषु सन्त्य दानशील हे अग्ने स त्वमद्यास्मिन्दिन इह कर्मणि नोऽस्मान्प्रति सुमनाः शोभनमनस्कोऽविता रक्षिता भव ॥
 
-*janāso 'nuṣṭhātāro janāḥ sahovṛdhaṃ balasya vardhayitāram agniṃ dadhire | dhṛtavantaḥ | haviṣmanto havir yuktā vayaṃ he agne te tvāṃ vidhema | paricarema | vidhatiḥ paricaraṇakarmā | vidhema saparyetīti paricaraṇakarmasu paṭhitatvāt | vājeṣv anneṣu santya dānaśīla he agne sa tvam adyāsmin dina iha karmaṇi no 'smākaṃ sumanāḥ śobhanamanasko 'vitā rakṣitā bhava ||*
+*janāso 'nuṣṭhātāro janāḥ sahovṛdhaṃ balasya vardhayitāram agniṃ dadhire | dhṛtavantaḥ | haviṣmanto havir yuktā vayaṃ he agne te tvāṃ vidhema | paricarema | vidhatiḥ paricaraṇakarmā | vidhema saparyatīti paricaraṇakarmasu paṭhitatvāt | vājeṣv anneṣu santya dānaśīla he agne sa tvam adyāsmin dina iha karmaṇi no 'smān prati sumanāḥ śobhanamanasko 'vitā rakṣitā bhava ||*
 
-**Translation:** "*Janāsaḥ* — the people, the performers — *dadhire* — have taken up (*dhṛtavantaḥ*) Agni, the *sahovṛdham*, the increaser of strength. We, *haviṣmantaḥ*, furnished with oblations, O Agni, *te vidhema* — would serve you, wait on you ('*vidhati*' being a word of serving; '*vidhema*', '*saparyati*' are read among the verbs of serving). O *santya*, you who are given to giving, in *vājeṣu* — foods — O Agni: that [you], today, on this day, here in this rite, *sumanāḥ* — well-minded towards us — *avitā*, a protector, *bhava* — be."
+**Translation:** "*Janāsaḥ* — the people, the performers — *dadhire* — have taken up (*dhṛtavantaḥ*) Agni, the *sahovṛdham*, the increaser of strength. We, *haviṣmantaḥ*, furnished with oblations, O Agni, *te vidhema* — would serve you, wait on you ('*vidhati*' being a word of serving; '*vidhema*', '*saparyati*' are read among the verbs of serving). O *santya*, you who are given to giving, in *vājeṣu* — foods — O Agni: that [you], today, on this day, here in this rite, *sumanāḥ* — well-minded towards us (*asmān prati*) — *avitā*, a protector, *bhava* — be."
 
-**Grammar within the bhāṣya** *(p. 183, characterized)*: *sahovṛdham* (root *vṛdhu vṛddhau* with the sense of the causative understood [*antarbhāvitaṇyartha*], *kvip*; the later member of a *kṛt*-compound keeps its natural accent); *haviṣmantaḥ* (*haviḥ eṣāṃ santi*; *matup*; here the word has no *pada*-name before *matup*, so the *ru*-rules do not apply); *vidhema* (*vidha vidhāne*, *tudādi*; *liṅ*, the augment *yāsuṭ*, loss of *s*; *śa*; *iya*-substitution; no *guṇa*); *sumanāḥ* (*śobhanaṃ mano yasya*; *somanasī alomoṣasī*: the later member after *su*, ending in *manas*, is first-syllable acute); *bhava* (the accent of the verb not lowered because it stands at the beginning of the third pāda: *pādādityāt tiṅ atiṅaḥ*…; in the Saṃhitā lengthened by *dvyacotastiṅaḥ*); *santya* (*ṣaṇu dāne*; *ktic*; "*santiḥ* is a giver", *santyaḥ* — *tatra bhavaḥ*; *bhave chandasi yat*; vocative).
+**Grammatical tail of the bhāṣya** *(p. 183)*
+
+> सहोवृधम् । वृधु वृद्धौ । अस्मादन्तर्भावितण्यर्थात्क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । हविष्मन्तः । तसौ मत्वर्थ इति भत्वेन पदत्वाभावाद्रुत्वाद्यभावः । विधेम । विध विधाने । तुदादित्वाच्छः । सुमनाः । शोभनं मनो यस्यासौ सुमनाः । सोर्मनसी अलोमोषसी । पा. ६-२-११७ । इत्युत्तरपदाद्युदात्तत्वम् । भव । पादादित्वात्तिङ्ङतिङ इति निघाताभावः । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । सन्त्य । षणु दाने । क्तिचि तितुत्रेत्यादिना इट्प्रतिषेधः । न क्तिचि दीर्घश्च । पा. ६-४-३९ । इत्यनुनासिकलोपदीर्घयोर्निषेधः । सन्तिर्दाता । तत्र भवः सन्त्यः । भवे छन्दसीति यत् ॥
+
+*sahovṛdham | vṛdhu vṛddhau | asmādantarbhāvitaṇyarthātkvip | kṛduttarapadaprakṛtisvaratvam | haviṣmantaḥ | tasau matvartha iti bhatvena padatvābhāvādrutvādyabhāvaḥ | vidhema | vidha vidhāne | tudāditvācchaḥ | sumanāḥ | śobhanaṃ mano yasyāsau sumanāḥ | sormanasī alomoṣasī | pā. 6-2-117 | ityuttarapadādyudāttatvam | bhava | pādāditvāttiṅṅatiṅa iti nighātābhāvaḥ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | santya | ṣaṇu dāne | ktici titutretyādinā iṭpratiṣedhaḥ | na ktici dīrghaśca | pā. 6-4-39 | ityanunāsikalopadīrghayorniṣedhaḥ | santirdātā | tatra bhavaḥ santyaḥ | bhave chandasīti yat ‖*
+
+*(Sense, as before:)* *sahovṛdham* (root *vṛdhu vṛddhau* with the sense of the causative understood [*antarbhāvitaṇyartha*], *kvip*; the later member of a *kṛt*-compound keeps its natural accent); *haviṣmantaḥ* (*haviḥ eṣāṃ santi*; *matup*; here the word has no *pada*-name before *matup*, so the *ru*-rules do not apply); *vidhema* (*vidha vidhāne*, *tudādi*; *liṅ*, the augment *yāsuṭ*, loss of *s*; *śa*; *iya*-substitution; no *guṇa*); *sumanāḥ* (*śobhanaṃ mano yasya*; *somanasī alomoṣasī*: the later member after *su*, ending in *manas*, is first-syllable acute); *bhava* (the accent of the verb not lowered because it stands at the beginning of the third pāda: *pādādityāt tiṅ atiṅaḥ*…; in the Saṃhitā lengthened by *dvyacotastiṅaḥ*); *santya* (*ṣaṇu dāne*; *ktic*; "*santiḥ* is a giver", *santyaḥ* — *tatra bhavaḥ*; *bhave chandasi yat*; vocative).
+
+### Page 184
 
 **Pratipadārtha** *(p. 184)* — "**janāsaḥ** — the people who perform the sacrifice; **sahovṛdham** — [him] who increases strength; **agnim** — the deity Agni; **dadhire** — take refuge in (O Agni!); **haviṣmantaḥ** — we, too, holding the oblation (ready); **te** — you; **vidhema** — we worship; **vājeṣu** — in matters of food; **santya** — O Agni, you who are generous in giving; **saḥ tvam** — such a you; **adya** — today; **iha** — in this sacrifice of ours; **naḥ** — to us; **sumanāḥ** — of favourable mind; **avitā** — a protector; **bhava** — be."
 
@@ -2723,19 +2733,26 @@ Numerals are small; a rule is given a number only where I read it.
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 184–185**
 - **janāsaḥ** — "an ancient usage of the word *janāḥ*: people."
 - **dadhire** = *dhṛtavantaḥ*: "with a spirit of devotion, they have come near to praise you; such is the sense."
-- **sahovṛdham** = *balasya vardhayitāram*: "*sahaḥ* means strength (Ni. 5-[?] [?]); one who increases strength, who gives strength."
+- **sahovṛdham** = *balasya vardhayitāram*: "*sahaḥ* means strength (Ni. [?]-2[?]: two small digits, the first and last the same glyph, not settled); one who increases strength, who gives strength."
 - **haviṣmantaḥ** = *havir yuktā vayam*: "we, who have made oblations ready to offer to you."
 - **sumanāḥ** = *śobhanamanaskaḥ*: "one of good, or generous, mind towards us."
+
+### Page 185
+
 - **avitā** = *rakṣitā*: "a protector; one who guards us."
 - **vājeṣu santya** — "one generous, giving in matters of food and other foods."
 
 **Vyākaraṇa-prakriyā** *(pp. 185–186, PDF 199–200 — grammar pages, noted briefly)*
 - **sahovṛdham**: root *vṛdhu vṛddhau*; "though there is no *ṇic* suffix, to yield its meaning it is said to contain a causative sense (*antarbhāvitaṇyartha*); after such a root, *kvip*; *saho vardhayatīti sahovṛdh*, 'that which increases strength'; *vṛdh* is acute by the root's accent; after the compound the later member, a *kṛdanta*, keeps its natural accent, so that stays."
-- **haviṣmantaḥ**: root *hu dānādanayoḥ*; *arciśucihusṛpichādicharditṛbhya isiḥ* — [Uṇādi 2-[?], as read] — the suffix *isi*; *guṇa*, *av*-substitution; since *nabviṣayasyāniṣantasya* [a Phiṭ-sūtra, as read] excludes it by negation, the first syllable is not acute; *haviḥ eṣāṃ santi*; *tadasyāstyasminn iti matup*; *havis + mat*; *tasau matvarthe* — तसौ मत्वर्थे — before a suffix in the sense of *matup* the bases ending in *t* or *s* take the name *bha* — which makes the *pada*-name not apply; and since there is no *pada*-ness, *sasajuṣo ruḥ* and the other rules for *ru* do not operate.
-- **vidhema**: root *vidha vidhāne*, *tudādi*; *parasmaipada*; *vidhiliṅ* in the first-person plural *mas*, loss of *s* [*sa-lopa*]; *tudādibhyaḥ śaḥ* — *śa*; *vidh + a + īma*; *guṇa* prevented; *yāsuṭ*; *iya*-substitution and *guṇa* [as read].
-- **sumanāḥ** (p. 186 begins): *śobhanaṃ manaḥ yeṣāṃ te*, a *bahuvrīhi*; *somanasī alomoṣasī* — सोमनसी अलोमोषसी — in a *bahuvrīhi*, after *su*, a later member that is not *lomān*/*uṣas* but ends in *man* or *as* is first-syllable acute; so the *asun*-final *manas* after *su* is first-syllable acute.
-- **bhava**: *loṭ*, second-person singular; "it stands at the beginning of the third pāda; *anudāttaṃ sarvam apādādau* is prohibited for what is at the beginning of a pāda; so the wholly-unaccented accent of *tiṅ ṅatiṅaḥ* does not come; in the Saṃhitā *dvyacotastiṅaḥ* lengthens the *a* of a *tiṅ*-form with two vowels: *bhavā*".
-- **santya** (pp. 185–186): root *ṣaṇu dāne*; *dhātvādeḥ ṣaḥ saḥ*; *ktic ktau ca saṃjñāyām* — in the sense of a name or a blessing, *ktic*/*kta* after roots; "*sanutāt* — *santiḥ*: *san + ti*"; *na kticī dīrghaś ca* — न क्तिचि दीर्घश्च — before *ktic* the lengthening and the loss of the nasal that other rules teach for roots like *vana*, *tana* do not apply; *anunāsikasya kvijhaloḥ kṅiti* — but this lengthening is also blocked; *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* — the loss of the nasal is likewise prohibited; the nasals are the *ñ*, *m*, *ṅ*, *ṇ*, *n* of the fifth letters; *titutra…* — no *iṭ*; *santiḥ* means "a giver" — *santyaṃ bhavaḥ*, *santyaḥ*; *bhave chandasi* — *yat* in the Veda in the sense "born, existing in"; *santi + ya*; *yasyeti ca* — loss of the *i*; the vocative singular. Rik 2 ends here (*|| 2 ||*).
+- **haviṣmantaḥ**: root *hu dānādanayoḥ*; *arciśucihusṛpichādicharditṛbhya isiḥ* (Uṇ. 2-26 [?]; the last digit doubtful) — the suffix *isi*; *guṇa*, *av*-substitution; since *nabviṣayasyāniṣantasya* (Phi. Sū. 26) excludes it by negation, the first syllable is not acute; *haviḥ eṣāṃ santi*; *tadasyāstyasminn iti matup*; *havis + mat*; *tasau matvarthe* — तसौ मत्वर्थे — (Pā. 1-4-19) before a suffix in the sense of *matup* the bases ending in *t* or *s* take the name *bha* — which makes the *pada*-name not apply; and since there is no *pada*-ness, *sasajuṣo ruḥ* (Pā. 8-2-66) and the other rules for *ru* do not operate.
+- **vidhema**: root *vidha vidhāne*, *tudādi*; *parasmaipada*; *vidhiliṅ* in the first-person plural *mas*, loss of *s* [*sa-lopa*]; *tudādibhyaḥ śaḥ* (Pā. 3-1-77) — *śa*; *vidh + a + īma*; *guṇa* prevented; *yāsuṭ*; *iya*-substitution and *guṇa* [as read].
+- **sumanāḥ**: *śobhanaṃ manaḥ yeṣāṃ te*, a *bahuvrīhi*; *somanasī alomoṣasī* — सोमनसी अलोमोषसी — (Pā. 6-2-117) in a *bahuvrīhi*, after *su*, a later member that is not *lomān*/*uṣas* but ends in *man* or *as* is first-syllable acute; so the *asun*-final *manas* after *su* is first-syllable acute.
+- **bhava**: *loṭ*, second-person singular; "it stands at the beginning of the fourth pāda; *anudāttaṃ sarvam apādādau* is prohibited for what is at the beginning of a pāda; so the wholly-unaccented accent of *tiṅ ṅatiṅaḥ* does not come; in the Saṃhitā *dvyacotastiṅaḥ* (Pā. 6-3-135) lengthens the *a* of a *tiṅ*-form with two vowels: *bhavā*".
+- **santya** (pp. 185–186): root *ṣaṇu dāne*; *dhātvādeḥ ṣaḥ saḥ*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174) — in the sense of a name or a blessing, *ktic*/*kta* after roots; "*sanutāt* — *santiḥ*: *san + ti*";
+
+### Page 186
+
+(continued, p. 186) *na ktici dīrghaś ca* — न क्तिचि दीर्घश्च — (Pā. 6-4-39) before *ktic* the lengthening and the loss of the nasal that other rules teach for roots like *vana*, *tana* do not apply; *anunāsikasya kvijhaloḥ kṅiti* (Pā. 6-4-15) — but this lengthening is also blocked; *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. 6-4-37) — the loss of the nasal is likewise prohibited; the nasals are the *ñ*, *m*, *ṅ*, *ṇ*, *n* of the fifth letters; *titutra…* (Pā. 7-2-9) — no *iṭ*; *santiḥ* means "a giver" — *santyaṃ bhavaḥ*, *santyaḥ*; *bhave chandasi* (Pā. 4-4-110) — *yat* in the Veda in the sense "born, existing in"; *santi + ya*; *yasyeti ca* — loss of the *i*; the vocative singular. Rik 2 ends here (*|| 2 ||*).
 
 ### Rik 36.3 (pp. 186–189, PDF 200–203)
 
