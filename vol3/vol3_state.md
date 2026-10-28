@@ -1,7 +1,11 @@
 # Vol 3 numeral + [?] + accent pass — state
 
 Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
-**Last PDF page done: 200** (batches PDF 1–100 and 101–200 done and logged; text carried to PDF 200, printed p. 186, end of Ṛk 23.12; edits/notes in `review/edits_PDF101-200.txt`, `review/notes_PDF101-200.txt`). Batch PDF 201–300 in progress: done through PDF 250 upper, printed p. 236 upper, Sūkta 24 heading; edits in `review/edits_PDF201-300.txt`. Ṛks 24.1–13 done through p. 286 (PDF 300); Ṛk 24.13 grammar is on p. 287 (PDF 301). Next: PDF 301 (p. 287). Open: small-type Uṇādi/paribhāṣā numbers left [?]; Pāṇini numbers read with doubt (bahuvrīhau "6-1-7" p. 77, na lokāvyaya "2-6-69" p. 80, devāt tal "5-4-27" p. 78, aniṭ-kārikā "7-2-10" p. 71, ṣaḍhoḥ "8-8-41" p. 108, aco 'ñṇiti "7-11" p. 186); Saṃhitā marks [accent ?] in Ṛks 21.5, 22.4–6, 22.14, 22.18–21, 23.3, 23.6, 23.8, 23.10–12.
+**Last PDF page done: 305** (printed p. 291); batches PDF 1–100, 101–200 logged; PDF 201–300 logged (`review/notes_PDF201-300.txt`); batch PDF 301–400 **in progress**: done PDF 301–305 as far as Ṛk 24.13's grammar (pp. 287–288 upper, written into the file) and Ṛk 24.14 *read* from the print (Saṃhitā accents, bhāṣya, grammar numerals) but **not yet written into the file** (old unchecked text for Ṛks 24.14–15 still stands from printed p. 288 on).
+**Oct 28 zoom pass:** the grammar numerals on pp. 276, 278–284 and the open numerals of Ṛks 24.9–24.13 were zoom-checked and entered; then the 120 [?] of the checked part (to p. 288) were zoom-read: **23 [?] remain there** (`review/open_qmarks_up_to_p288.md`), mostly small-type Uṇādi numbers that stay unreadable, and a few word readings. The unreached part (printed p. 288–647) still has about 680 [?].
+Counts of the DOCX (Oct 28): 706 `[?]` in the .md and DOCX after this pass; rebuilt from the current .md.
+Next: write Ṛk 24.14 (pp. 288–291) from the print, then Ṛk 24.15, close Sūkta 24, continue in order to PDF 400; then notes_PDF301-400.txt, pass_log, review pages for PDF 401–500.
+Open numerals kept "as printed": Pā. 5-8-27 (p. 78), 6-1-167 (p. 145), 3-1-83 vs 3-1-53 (pp. 281/283), 8-8-41 (p. 108), Uṇ. 3-497 (p. 89), Uṇ. 4-12/4-452 and 4-227/4-662.
 
 Rendering note: `view.py` crops the right edge of these scans; use full-page renders (pdftoppm at ~230 dpi cut into five strips) for reading, and `acc.py` for zooms.
 
