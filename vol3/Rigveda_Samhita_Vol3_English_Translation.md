@@ -4250,38 +4250,83 @@ When explaining the meaning of this ṛk, he has explained the word *pṛśnimā
 
 ---
 
-### Pages 181–184 — Sūkta 23, Rik 11
+### Page 181 (lower) — Sūkta 23, Rik 11
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> जयतामिव तन्यतुर्मरुतामेति धृष्णुया ।
-> यच्छुभं याथना नरः ॥ ११ ॥
+> जय॑तामिव तन्य॒तुर्म॒रुता॑मेति धृष्णु॒या ।
+> यच्छु॑भं या॒थ॑ना नरः ॥११॥ [accent ?]
+>
+> *jáyatām iva tanyatúr marútām eti dhṛṣṇuyā́ |*
+> *yác chubhaṃ yāthanā naraḥ ||11||* [accent ?]
 
-*jayatām iva tanyatur marutām eti dhṛṣṇuyā | yac chubhaṃ yāthanā naraḥ || 11 ||*
+*(Strokes over य (जयता) and ता (मरुता); bars under न्य, म (मरुता) and ष्णु. Line 2: a stroke over च्छु, a bar under या, a stroke over थ (as in the Pada) [accent ?]. The Pada prints जयतांऽइव, as printed.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> जयताम्ऽइव । तन्यतुः । मरुताम् । एति । धृष्णुऽया ॥ यत् । शुभम् । याथन । नरः ॥ ११ ॥
+> जयतांऽइव । तन्यतुः । मरुतां । एति । धृष्णुऽया ॥
+> यत् । शुभं । याथन । नरः ॥११॥
+>
+> *jayatāṃ 'iva | tanyatuḥ | marutāṃ | eti | dhṛṣṇu 'yā ||*
+> *yat | śubhaṃ | yāthana | naraḥ ||11||*
 
-*jayatām-iva | tanyatuḥ | marutām | eti | dhṛṣṇu-yā || yat | śubham | yāthana | naraḥ || 11 ||*
+### Page 182 — Rik 11: bhāṣya, word-meanings, overall sense, English, Special Topics
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> मरुतां देवानां तन्यतुः शब्दो धृष्णुया धार्ष्ट्ययुक्तः सन्नेति । गच्छति । केषामिव । जयतामिव विजययुक्तानां शूराणां भटानामिव ॥ हे नरो नेतारो मरुतो यूयं यद्यदा शुभं शोभनं देवयजनं याथन प्राप्नुथ तदा त्वदीयः [?] शब्दो गच्छतीति पूर्वत्राऽन्वयः ॥ तन्यतुः । तनु विस्तारे । ऋतन्यञ्जिवन्यञ्जीत्यादिना (उ. [३-७१] [?]) यतुच्प्रत्ययः । धृष्णुया । ञिधृषा प्रागल्भ्ये । असिग्रधिधृक्षिक्षिपेः क्नुः (पा. [३-२-१४०]) । सुपां सुलुगिति सोर्याजादेशः । चित्त्वादन्तोदात्तः । याथन । तप्तनप्तनथनाश्च [?] (पा. ७-१-४५) । यच्छब्दयोगान्निघाताभावः ॥
+*(Numbers as printed: उ० ४-२, पा० ३-२-१४०. Printed त्वदीयः, as printed.)*
 
-*marutāṃ devānāṃ tanyatuḥ śabdo dhṛṣṇuyā dhārṣṭyayuktaḥ san neti | gacchati | keṣām iva | jayatām iva vijayayuktānāṃ śūrāṇāṃ bhaṭānām iva || he naro netāro maruto yūyaṃ yad yadā śubhaṃ śobhanaṃ devayajanaṃ yāthana prāpnutha tadā tvadīyaḥ [?] śabdo gacchatīti pūrvatrānvayaḥ || tanyatuḥ | tanu vistāre | ṛtanyañjivanyañjī ity ādinā (u. [3-71] [?]) yatuc pratyayaḥ | dhṛṣṇuyā | ñidhṛṣā prāgalbhye | asigradhidhṛkṣikṣipeḥ knuḥ (pā. [3-2-140]) | supāṃ suluk iti sor yājādeśaḥ | cittvād antodāttaḥ | yāthana | taptanaptanathanāś ca [?] (pā. 7-1-45) | yacchabdayogān nighātābhāvaḥ ||*
+> मरुतां देवानां तन्यतुः शब्दो धृष्णुया धार्ष्ट्ययुक्तः सन्नेति । गच्छति । केषामिव । जयतां विजययुक्तानां शूराणां भटानामिव । हे नरो नेतारो मरुतो यूयं यद्यदा शुभं शोभनं देवयजनं याथन प्राप्नुथ । तदा त्वदीयः शब्दो गच्छतीति पूर्वत्रान्वयः ॥ तन्यतुः । तनु विस्तारे । ऋतन्यञ्जीत्यादिना । उ० ४-२ । यतुच्प्रत्ययः । धृष्णुया । ञिधृषा प्रागल्भ्ये । त्रसिगृधिधृषिक्षिपेः क्नुः । पा० ३-२-१४० । सुपां सुलुगिति सोर्याजादेशः । चित्त्वादन्तोदात्तः । याथन । तप्तनप्तनथनाश्चेति थनादेशः । यच्छब्दयोगान्निघाताभावः ॥
+>
+> *marutāṃ devānāṃ tanyatuḥ śabdo dhṛṣṇuyā dhārṣṭyayuktaḥ sanneti | gacchati | keṣāmiva | jayatāṃ vijayayuktānāṃ śūrāṇāṃ bhaṭānāmiva | he naro netāro maruto yūyaṃ yadyadā śubhaṃ śobhanaṃ devayajanaṃ yāthana prāpnutha | tadā tvadīyaḥ śabdo gacchatīti pūrvatrānvayaḥ || tanyatuḥ | tanu vistāre | ṛtanyañjītyādinā | u0 4-2 | yatucpratyayaḥ | dhṛṣṇuyā | ñidhṛṣā prāgalbhye | trasigṛdhidhṛṣikṣipeḥ knuḥ | pā0 3-2-140 | supāṃ sulugiti soryājādeśaḥ | cittvādantodāttaḥ | yāthana | taptanaptanathanāśceti thanādeśaḥ | yacchabdayogānnighātābhāvaḥ ||*
 
-**Translation:** "The *tanyatu* — the thunderous sound — of the Maruts, the gods, goes (*eti*) boldly (*dhṛṣṇuyā*, with boldness). Like whom? *Jayatām iva* — like victorious heroes, soldiers. O leaders, Maruts! When (*yat*) you go to the *śubha* — the fair place of divine sacrifice — then your sound goes: so one connects the earlier pāda. *Tanyatuḥ*: *tanu vistāre* with the suffix *yatuc* [Uṇ. [3-71]]. *Dhṛṣṇuyā*: *ñidhṛṣā prāgalbhye* with *knu* by P. [3-2-140] *asigradhidhṛkṣikṣipeḥ knuḥ*; the instrumental ending replaced by *yāc*; acute on the end since *cit*. *Yāthana*: [the personal-ending substitution by P. 7-1-45]; since it is connected with *yat*, there is no lowering of the accent." *(Grammar pages 183–184, noted briefly: the words treated are* tanyatuḥ *[*tanu vistāre*; the Uṇādi sūtra *ṛtanyañjivanyañjī…* gives the suffix *yatuc*, along with a long list of other suffixes],* dhṛṣṇuyā *[*ñidhṛṣā prāgalbhye* + *knu* in the sense of the agent; *su* + *yāc* for the instrumental by P. 7-1-39 *supāṃ suluk…*; the *rapābhyāṃ noṇaḥ* P. 8-4-1 rule changes *n* to *ṇa* in other words but not here, with the quotation of the Kāśikā],* yāthana *[*yā prāpaṇe*, *loṭ* second plural *tha*, → *tana* by P. 7-1-45 *taptanaptanathanāś ca*; *śap* lost by P. 2-4-72; the other substitutes *tas, tana, tha, thana*; the accent of the verb is not lowered because *yat* precedes, P. 8-1-66 *yadvṛttānnityam*; in the Saṃhitā the lengthening by P. 6-3-137 *anyeṣām api dṛśyate* gives *yāthanā*]; numerals as read, pointers only.)*
+**Translation:** "The *tanyatuḥ*, sound, of the Maruts, the gods, *eti*, goes forth, being *dhṛṣṇuyā*, bold. Like whose? *Jayatām iva*, like that of victorious heroes, warriors. O *naraḥ*, leaders, Maruts! *Yat*, when, you *yāthana*, reach, *śubham*, the fine place of worship of the gods, then your sound goes: the construction is with the preceding." (Grammatical tail: *tanyatuḥ*, *tanu vistāre*, the suffix *yatuc* by *ṛtanyañji…* (U. 4-2); *dhṛṣṇuyā*, *ñidhṛṣā prāgalbhye*, *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ* (Pā. 3-2-140), the substitute *yāc* for *su* by *supāṃ suluk*, final udātta as *cit*; *yāthana*, the substitute *thana* by *taptanaptanathanāś ca*; no loss of accent because of the connection with *yad*.)
 
-**॥ Prati-padārthaḥ ॥** **(हे) नरः ((he) naraḥ)** — O Maruts, leaders of men | **यत् (yat)** — when | **शुभम् (śubham)** — to the fair [place of sacrifice, etc.] | **याथन (yāthana)** — you go | **मरुताम् (marutām)** — of the Maruts | **तन्यतुः (tanyatuḥ)** — the joyous sound | **जयताम् इव (jayatām iva)** — like [the sound of the shout of] the victorious | **धृष्णुया (dhṛṣṇuyā)** — boldly | **एति (eti)** — goes [spreads].
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O Maruts, leaders! When you go to the sacrifices and other fair acts, the exultant shout you make resounds deeply, like that of victorious warriors.
+**(हे) नरः ((he) naraḥ)** — O Marut deities, leaders of men (you) | **यत् (yat)** — when | **शुभं (śubhaṃ)** — to the places of good rites such as sacrifice | **याथन (yāthana)** — you go (then) | **मरुतां (marutāṃ)** — of the Marut deities | **तन्यतुः (tanyatuḥ)** — the sound (full of joy) | **जयतामिव (jayatām iva)** — like the shout of victory of victorious warriors | **धृष्णुया (dhṛṣṇuyā)** — full of boldness | **एति (eti)** — comes forth.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Marut deities, leaders, when you go to the sacrifices and other good rites, the shout of joy you make is very deep, like the shout of joy of victorious warriors.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
-> Brave Maruts, when you go to the Sacrifice, the shouts of Maruts spreads with exultation like that of conquerors.
+> Brave Maruts, when you go to the Sacrifice, the shouts of Maruts spreads [sic] with exultation like that of conquerors.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 182–183)* **जयतामिव** — like warriors who have come back victorious from battle shouting a victory-cry. **तन्यतुः** — Yāska explains: *tanyatuḥ stanayater vāco 'nyasyāḥ* — 'it is a word for the sound [or: the voice] of another [deity]'; i.e. *tanyatu* is explained as 'sounding' (*śabdakartā*). The word *tanyatu* occurs in the Ṛgveda in the riks 1-23-11, 1-[?], 5-[?] and others (the numerals as printed are marked [?]). **धृष्णुया** — with *dhārṣṭya*, boldly, deeply, with great firmness. **यत्** — *yadā*, 'when'. **शुभम्** — *śubhakarma*: auspicious acts, that is, sacrifices, the divine worship and the like; Skandasvāmin explains that this word in the Veda is the name for water; so the Maruts, with their thunder and the like, go near the cloud and bring rain. **याथन** — for the sake of the metre the final syllable is lengthened in the Saṃhitā text. **नरः** — vocative plural: *netāraḥ*, leaders, those in front.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**जयतामिव (jayatām iva)** — as warriors who have come back victorious over enemies in battle make a shout of joy marking victory.
+
+**तन्यतुः (tanyatuḥ)** — for this Yāska has explained *tanyatus tanitrī vāco 'nyasyāḥ*: making a sound, the speech of another deity. The word *tanyatuḥ* is also read in the Ṛgveda in the ṛks 1-32-13; 1-116-12 [?]; 5-25-8; 6-6-2; 7-3-6; 9-100-3; 10-65-13 (numbers in small type, as read).
+
+> तन्यतुस्तनित्री वाचोऽन्यस्याः ।
+>
+> *tanyatustanitrī vāco 'nyasyāḥ |*
+
+**धृष्णुया (dhṛṣṇuyā)** — full of boldness, deep, very loud.
+
+**यत् (yat)** — *yadā |* when.
+
+### Page 183 — Rik 11: Special Topics (end), grammar
+
+**शुभं (śubhaṃ)** — to the good rite, that is, the performance of sacrifice, worship of the gods and the like. Skandasvāmin has given this word the meaning 'the water in the clouds'. Accordingly the intention is that the Marut deities, with roarings such as lightning and thunder, go near the clouds and make rain fall.
+
+**याथन (yāthana)** — for the sake of the metre the final syllable is long in the Saṃhitā.
+
+**नरः (naraḥ)** — vocative, first case plural. *Netāraḥ*: leaders, chiefs.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**तन्यतुः (tanyatuḥ)** — the root *tanu vistāre*. By *ṛtanyañjivanyañjyarpimadyatyaṅgikuyukṛśibhyaḥ katnijyatujalijiṣṭujiṣṭhajisansyanithinulyasāsānukaḥ* (U. Sū. 4-[?]) — after these twelve roots, *ṛ gatau*, *tanu vistāre*, *añjū vyaktyādau*, *vanu yācane*, *añjū vyaktyādau*, *ṛ gatau* ending in *ṇic*, *madī harṣe*, *ata sātatyagamane*, *agi gatau*, *ku śabde*, *yu miśraṇe*, *kṛśa tanūkaraṇe*, the twelve suffixes *katnic*, *yatuc*, *alic*, *iṣṭuc*, *iṣṭhac*, *isan*, *syan*, *ithin*, *uli*, *asa*, *āsa*, *ānuk* come in order — the suffix *yatuc* comes after the root *tan*.
+
+**धृष्णुया (dhṛṣṇuyā)** — the root *ñidhṛṣā prāgalbhye*. After it, by *trasigṛdhidhṛṣikṣipeḥ knuḥ* (Pā. Sū. 3-2-140) — after *trasī udvege*, *gṛdhu abhikāṅkṣāyām*, *ñidhṛṣā prāgalbhye*, *kṣipa preraṇe*, when the agents are of that habit, that nature, or doers of it well, the suffix *knu* comes — the suffix *knu*. In the suffix *nu* remains. *Dhṛṣ* + *nu*; by *raṣābhyāṃ no ṇaḥ samānapade* (Pā. Sū. 8-4-1) *ṇ* for the *n*; after *dhṛṣṇu* the first-case singular suffix *su*. For it, by *supāṃ suluk pūrvasavarṇācchheyāḍāḍyāyājālaḥ* (Pā. Sū. 7-1-39) — in the Veda, in place of the *sup* endings, *suluk*, *pūrvasavarṇa*, *ā*, *āt*, *śe*, *yā*, *ḍā*, *ḍyā*, *yāc*, *āl* come according to usage — the substitute *yāc* comes here; it is *cit*, so by *citaḥ* (Pā. Sū. 6-1-163) the final udātta accent comes.
+
+**याथन (yāthana)** — the root *yā prāpaṇe*; *loṭ*, second person plural, the suffix *tha*. By *loṭo laṅvat* (Pā. Sū. 3-4-85) treated like *laṅ*; by *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. Sū. 3-4-101) the substitute *ta* for *tha*; the *vikaraṇa* *śap*; for it, by *adiprabhṛtibhyaḥ śapaḥ* (Pā. Sū. 2-4-72), *luk*: *yā* + *ta*. Now by *taptanaptanathanāś ca*
+
+### Page 184 (upper) — Rik 11: grammar (end)
+
+(Pā. Sū. 7-1-45) — for the *ta* coming in place of *loṭ*, one of the substitutes *tap*, *tanap*, *tana*, *thana* comes according to usage — the substitute *thana*: it becomes *yāthana*. Here, though total lack of accent would be due by *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28), by *yadvṛttān nityam* (Pā. Sū. 8-1-66) — a word ending in *tiṅ* after a word containing *yad* is not unaccented — the prohibition comes. So total lack of accent does not come. In the Saṃhitā, by *anyeṣām api dṛśyate* (Pā. Sū. 6-3-137), it becomes *yāthanā*. ॥11॥
 
 ---
 
