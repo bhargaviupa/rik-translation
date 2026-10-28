@@ -61,3 +61,33 @@ When the whole volume is done: rebuild the print PDF (`cd publish && python3 bui
 `CLAUDE.md`), commit, and write "done" in `vol4_state.md`.
 
 Never `git reset --hard`, never force-push, never touch other volumes.
+
+## Extra steps to reduce `[?]` (learned Oct 28, 2026)
+1. **Zoom every `[?]`, do not guess.** A `[?]` is usually a small-type number. Render the page at 450 dpi and crop only the numeral group
+   (pad 60–400 px, upscale ×3–5.5). Page-width reads of small type are what produced most `[?]`. Helper scripts (they use `/tmp/v3num/` as
+   work folder and the review JSONs for box positions; run from `vol3/tools/`):
+   `zoom_strips.py PDF N` (page → N reading strips, 2400 px wide), `zoom_zs.py PDF STRIP x0 y0 x1 y1 OUT [zoom]` (crop by strip coordinates),
+   `zoom_mont2.py PRINTED_PAGE...` (montage of every review box on a printed page; PDF = page + 14), `zoom_multi.py OUT ID[:padL:padR] ...`
+   (stacked tight crops of chosen boxes; `S=5` env sets the scale), `zoom_zb.py ID OUT` (one box), `zoom_apply_batch.py BATCH.json`
+   (exact, count-checked replacements `[[old, new, expected_count], ...]`; refuses mismatches).
+2. **Work from the list.** Make a list of the open `[?]` (line, page, context) before starting; work page by page with one montage per page
+   (`zoom_mont2.py`); apply each page's readings with `zoom_apply_batch.py` and commit every ~20 readings.
+3. **Digit glyph rule that worked:** round-headed curled 2 = 2; Latin-"2" shape with flat foot = 7; hook top-left = 6; flat bar with a small curl
+   above (as in the sūtra 6-1-9) = 9; ಲ-shape = 8; lobed ಣ-shape = 5; ಇ-shape = 3; ಳ-like = 4. Compare a doubtful digit with a clear one
+   from the same page (e.g. a known sūtra) before deciding.
+4. **Use series to cross-check:** the Kannada grammar's Uṇādi numbers are one continuous series (3-286, 3-290, 3-294 …); Pāṇini numbers follow
+   the page's sequence; Nirukta and Ṛgveda lists are ordered. A reading that breaks the order is probably wrong.
+5. **A wrong printed number stays "as printed"** with the standard number noted; do not "fix" it. Say which digit is doubtful and why
+   (e.g. "2 or 7 undecided") instead of leaving a bare `[?]`; keep `[?]` only where the glyph really cannot be settled.
+6. **The same sūtra recurs.** Search the file for the sūtra text before zooming: one clear reading settles the repeats (check each repeat's
+   own print, but they usually agree). Make repeats consistent (`2-242` on pp. 57, 106, 253).
+7. **Numbers split over a line end** (paribhāṣā numbers, p. 166): zoom both line fragments; record the joined number and the doubt.
+8. **Words with `[?]`:** crop the word at ×4, read letter by letter, bracket only the unreadable conjunct; never complete from memory.
+9. **After the batch:** regenerate the open list, update `vol4_state.md` counts, rebuild the DOCX (`pandoc … --toc --toc-depth=2`, then
+   `publish/tools/numeral_pass/docx_csfont.py … "Lohit Devanagari"`) and check `unzip -p FILE.docx word/document.xml | grep -o '\[?\]' | wc -l`
+   equals the `.md` count. The DOCX is only as clean as the `.md`: pages not yet reached still carry their old `[?]`.
+10. **Count the right thing:** `[?]` = unreadable reading; `[accent ?]` = doubtful accent; ordinary `?` marks in English questions are not defects;
+    placeholders like `4-32-[?]3` or `6-4-11?` count too. Report all four separately.
+11. **Order of work:** do the open `[?]` of already-checked pages first (small, finishes a region), then move on page by page.
+
+(The zoom helper scripts live in `vol3/tools/zoom_*.py`; copy them to `vol4/tools/` and change their review-JSON path and `WORK` folder to Vol 4 before use.)
