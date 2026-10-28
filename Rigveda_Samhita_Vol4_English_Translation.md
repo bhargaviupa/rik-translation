@@ -3617,17 +3617,21 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.15 (p. 228 foot, PDF 242–)
 
-**Saṃhitā-pāṭha** *(p. 228; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 228)*
 
-> **पाहि नो अग्ने रक्षसः पाहि धूर्तेरराव्णः ।**
-> **पाहि रीषत उत वा जिघांसतो बृहद्भानो यविष्ठ्य ॥ १५ ॥**
+> पा॒हि नो॑ अग्ने र॒क्षसः॑ पा॒हि धू॒र्तेर॑राव्णः ।
+> पा॒हि रीष॑त उ॒त वा॒ जिघां॑सतो बृहद्भानो॒ यवि॑ष्ठ्य ॥ १५ ॥
 
-*pāhi no agne rakṣasaḥ pāhi dhūrter arāvṇaḥ |*
-*pāhi rīṣata uta vā jighāṃsato bṛhadbhāno yaviṣṭhya || 15 ||*
+*pāhí no agne rakṣásaḥ pāhí dhūrtér arāvṇaḥ |*
+*pāhí rī́ṣata utá vā jíghāṃsato bṛhadbhāno yáviṣṭhya || 15 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. In "dhūrter arāvṇaḥ" the stroke stands over the syllable* ra *(the* a- *of* arāvṇaḥ *joined to the* r *of* dhūrteḥ*).)*
 
 ---
 
 ### Rik 36.15 (continued) — Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 229–231, PDF 243–245)
+
+### Page 229
 
 **Pada-pāṭha** *(p. 229)*
 
@@ -3637,7 +3641,7 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *pāhi | naḥ | agne | rakṣasaḥ | pāhi | dhūrteḥ | arāvṇaḥ ||*
 *pāhi | riṣataḥ | uta | vā | jighāṃsataḥ | bṛhadbhāno iti bṛhat-bhāno | yaviṣṭhya || 15 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 229; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 229, in full)*
 
 > हे अग्ने हे बृहद्भानो बृहन्तो भानवो यस्य तादृश हे यविष्ठ्य युवत्तम हे अग्ने नोऽस्मान्रक्षसो बाधकाद्राक्षसादेः पाहि । पालय । तथा अराव्णो धनादीनामदात्रूपाद्धूर्तेर्हिंसकात्पाहि । तथा रिषतो हिंसकाद्व्याघ्रादेः सकाशात्पाहि । उत वा अथवा जिघांसतो हन्तुमिच्छतः शत्रोः सकाशात्पाहि ॥
 
@@ -3645,28 +3649,41 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Translation:** "O Agni — O *bṛhadbhānu*, he whose rays are great — O *yaviṣṭhya*, most youthful: Agni, *naḥ* — us — *rakṣasaḥ*, from the *rākṣasa* who is an obstructor, and the like — *pāhi*, protect. Likewise from *arāvṇaḥ* — from one who does not give wealth and the like — *dhūrteḥ*, from the injurer, protect. Likewise from *riṣataḥ*, from the injurer such as a tiger, protect. *Uta vā* — or — from *jighāṃsataḥ*, the enemy who wishes to kill, protect."
 
-**Grammar within the bhāṣya** *(p. 229, characterized)*: *dhūrteḥ* (*dhurvī hiṃsārthe*; *kvic*-type suffix *kvip* [the print: *ktic*] in the agent sense; the *iṭ* is barred by *titutra…*; *rālopaḥ*: *v* is lost before the *kvip*-like suffix, *halica* lengthens); *arāvṇaḥ* (*rā dāne*; *vanip* by *ato manin kvanib vanipaś ca*; *na rāvan*, a *nañ*-compound; *pañcamyāḥ ekavacane*; *allopo 'naḥ*: loss of the *a* of *an*; the first-member accent of a *nañ*-prefixed indeclinable compound); *riṣataḥ* (*riṣa hiṃsāyām*, *śatṛ*, *śap* lost, with the first-syllable acute by *vyatyaya*); *jighāṃsataḥ* (*han* + *san*; *ajjhanagamāṃ sani*: lengthening; *abhyāsāc ca*: *h* → *gh*; *sanyataḥ*: *i* for the reduplicate; the *ṭ*-… *śatṛ* unaccented by *tāsyanudāttet…*; *san* being *nit*, first-syllable acute); *bṛhadbhāno* (at the beginning of a pāda, so *āmantritasya ca* does not make it wholly unaccented but first-syllable acute); *yaviṣṭhya* (explained in the sixth ṛk).
+**Grammatical tail of the bhāṣya** *(p. 229; varga १० closes here)*
 
-**Pratipadārtha** *(pp. 229–230)* — "**bṛhadbhāno** — O Agni, having radiant rays; **yaviṣṭhya** — extremely youthful; **agne** — O Agni; **naḥ** — us; **rakṣasaḥ** — from the rākṣasa who does us harm; **pāhi** — protect; **arāvṇaḥ** — from one who gives us no wealth or the like [and is hostile]; **dhūrteḥ** — from the deceitful and injurious one; **pāhi** — protect; **riṣataḥ** — from [animals that] cause us harm; **pāhi** — protect; **uta vā** — or; **jighāṃsataḥ** — from the enemy who wishes to kill us; [**pāhi**] — protect."
+> धूर्तेः । धुर्वी हिंसार्थः । क्तिच्क्तौ च संज्ञायामिति कर्तरि क्तिच् । तितुत्रेत्यादिनेट्प्रतिषेधः । राल्लोपः । पा. ६-४-२१ । इति वकारलोपः । हलि चेति दीर्घत्वम् । अराव्णः । रा दाने । आतो मनिन्नित्यादिना वनिप् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । पञ्चम्येकवचनेऽल्लोपोऽन इत्यनोऽकारस्य लोपः । रिषतः । रिष हिंसायाम् । लटः शतृ । बहुलं छन्दसीति शपो लुक् । प्रत्ययस्वरे प्राप्ते व्यत्ययेनाद्युदात्तत्वम् । जिघांसतः । हन्तेरिच्छार्थे सन्यज्झनगमां सनि । पा. ६-४-१६ । इत्युपधादीर्घत्वम् । अभ्यासाच्च । पा. ७-३-५५ । इत्यभ्यासादुत्तरस्य हकारस्य घत्वम् । सन्यत इतीत्वम् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे सनो नित्त्वान्नित्स्वरेण पदस्याद्युदात्तत्वम् । बृहद्भानो । आमन्त्रितस्य चेति षाष्ठिकमाद्युदात्तत्वम् । पादादित्वादाष्टमिकनिघाताभावः । यविष्ठ्य । स्थूलदूरेत्यादिना यणादिपरस्य लोपः पूर्वस्य च गुणः । यकारोपजनश्छान्दसः ॥ १० ॥
+
+*dhūrteḥ | dhurvī hiṃsārthaḥ | kticktau ca saṃjñāyāmiti kartari ktic | titutretyādineṭpratiṣedhaḥ | rāllopaḥ | pā. 6-4-21 | iti vakāralopaḥ | hali ceti dīrghatvam | arāvṇaḥ | rā dāne | āto maninnityādinā vanip | nañsamāse 'vyayapūrvapadaprakṛtisvaratvam | pañcamyekavacane 'llopo 'na ityano 'kārasya lopaḥ | riṣataḥ | riṣa hiṃsāyām | laṭaḥ śatṛ | bahulaṃ chandasīti śapo luk | pratyayasvare prāpte vyatyayenādyudāttatvam | jighāṃsataḥ | hantericchārthe sanyajjhanagamāṃ sani | pā. 6-4-16 | ityupadhādīrghatvam | abhyāsācca | pā. 7-3-55 | ityabhyāsāduttarasya hakārasya ghatvam | sanyata itītvam | adupadeśāllasārvadhātukānudāttatve sano nittvānnitsvareṇa padasyādyudāttatvam | bṛhadbhāno | āmantritasya ceti ṣāṣṭhikamādyudāttatvam | pādāditvādāṣṭamikanighātābhāvaḥ | yaviṣṭhya | sthūladūretyādinā yaṇādiparasya lopaḥ pūrvasya ca guṇaḥ | yakāropajanaśchāndasaḥ ‖ 10 ‖*
+
+*(Sense:)* *dhūrteḥ* (*dhurvī hiṃsārthe*; *kvic*-type suffix *kvip* [the print: *ktic*] in the agent sense; the *iṭ* is barred by *titutra…*; *rālopaḥ*: *v* is lost before the *kvip*-like suffix, *halica* lengthens); *arāvṇaḥ* (*rā dāne*; *vanip* by *ato manin kvanib vanipaś ca*; *na rāvan*, a *nañ*-compound; *pañcamyāḥ ekavacane*; *allopo 'naḥ*: loss of the *a* of *an*; the first-member accent of a *nañ*-prefixed indeclinable compound); *riṣataḥ* (*riṣa hiṃsāyām*, *śatṛ*, *śap* lost, with the first-syllable acute by *vyatyaya*); *jighāṃsataḥ* (*han* + *san*; *ajjhanagamāṃ sani*: lengthening; *abhyāsāc ca*: *h* → *gh*; *sanyataḥ*: *i* for the reduplicate; the *ṭ*-… *śatṛ* unaccented by *tāsyanudāttet…*; *san* being *nit*, first-syllable acute); *bṛhadbhāno* (at the beginning of a pāda, so *āmantritasya ca* does not make it wholly unaccented but first-syllable acute); *yaviṣṭhya* (explained in the sixth ṛk).
+
+**Pratipadārtha** *(pp. 229–230)* — "**bṛhadbhāno** — O Agni, having radiant rays; **yaviṣṭhya** — extremely youthful; **agne** — O Agni; **naḥ** — us; **rakṣasaḥ** — from the rākṣasa who does us harm; **pāhi** — protect; **arāvṇaḥ** — from one who gives us no wealth or the like [and is hostile]; **dhūrteḥ** — from the deceitful and injurious one; **pāhi** — protect; **riṣataḥ** — from [animals that] cause us harm; 
+
+### Page 230
+
+(continued, p. 230) **pāhi** — protect; **uta vā** — or; **jighāṃsataḥ** — from the enemy who wishes to kill us; [**pāhi**] — protect."
 
 **Bhāvārtha** *(p. 230)* — "O Agni, you are always blazing with radiant rays and are forever youthful. All our protection belongs to you. There are many enemies who wish us harm. There are rākṣasas who do us harm, and wicked, hostile men who deceive and injure us and do not give what they should — wealth and grain — and animals such as tigers that harm us in many ways, and enemies who always wish to kill us. Protect us from all these."
 
 **English Translation (the source's own, p. 230)** — "Youthfull and most brilliant Agni, protect us from evil spirits and from the wicked man who gives no gifts ; protect us from harmful animals and from those who desire to kill us" *(no full stop in the print)*.
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 230–231**
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 230–231**
 - **dhūrteḥ** = *hiṃsakāt*: "from one who gives trouble; a man of wicked nature."
 - **arāvṇaḥ** = *rā dāne*: "one who gives no wealth and the like; that is, one who is opposed to us and does not wish us well."
 - **riṣataḥ** = *riṣa hiṃsāyām*: "from wicked animals that do injury."
 - **jighāṃsataḥ** = *hantum icchataḥ śatroḥ sakāśāt*: "from enemies who desire to kill us."
 - **yaviṣṭhya** = *yuvattama*: "the best of the young, the foremost: that is, a young man, a youth. Since Agni burns for a very long time even when fuel and the like are put in, it is the established usage to compare him to a young man who lives a long time without ageing. Therefore, in describing Agni's qualities it is the established usage to use such words as *yuvā*, *yaviṣṭhya* and the like."
+
+### Page 231
+
 - **bṛhadbhāno** = *bṛhanto bhānavo yasya*: "one who has large or many rays; that is, exceedingly brilliant."
 
 **Vyākaraṇa-prakriyā** *(p. 231, PDF 245 — grammar page, noted briefly)*
-- **dhūrteḥ**: root *dhurvī hiṃsārthaḥ*; *ktic ktau ca saṃjñāyām* — [Pā. 3-3-174, as read]: *ktic* in the agent sense; *titutra…*: no *iṭ*; *rālopaḥ* — रालोपः — [Pā. 6-4-21]: the *v* after the *r* in front of *kvip*, a *jhal*-initial suffix or a nasal-initial suffix is lost; *dhur + ti*; *halica* — [Pā. 8-2-77]: *u* lengthened: *dhūrti*; fifth-case singular.
-- **arāvṇaḥ**: root *rā dāne*; *ato manin kvanib vanipaś ca* — आतो मनिन्क्वनिब्वनिपश्च — [Pā. 3-2-74]: *vanip* after *ā*-ending roots; *rāvan*, *na rāvan* (a *nañ*-compound); *tasmān nuḍ aci*; the accent of the first member of an indeclinable-prefixed compound; fifth-case singular *as*; *allopo 'naḥ* — अल्लोपोऽनः — [Pā. 6-4-134]: the *a* of *an* is lost.
+- **dhūrteḥ**: root *dhurvī hiṃsārthaḥ*; *ktic ktau ca saṃjñāyām* (no number printed): *ktic* in the agent sense; *titutra…*: no *iṭ*; *rālopaḥ* — रालोपः — (Pā. 6-4-21): the *v* after the *r* in front of *kvip*, a *jhal*-initial suffix or a nasal-initial suffix is lost; *dhur + ti*; *hali ca* (Pā. 8-2-77): *u* lengthened: *dhūrti*; fifth-case singular.
+- **arāvṇaḥ**: root *rā dāne*; *ato manin kvanib vanipaś ca* — आतो मनिन्क्वनिब्वनिपश्च — (no number printed): *vanip* after *ā*-ending roots; *rāvan*, *na rāvan* (a *nañ*-compound); *tasmān nuḍ aci*; the accent of the first member of an indeclinable-prefixed compound; fifth-case singular *as*; *allopo 'naḥ* — अल्लोपोऽनः — (Pā. 6-4-134): the *a* of *an* is lost.
 - **riṣataḥ**: root *riṣa hiṃsāyām*; *laṭaḥ śatṛ*; *śap* lost; by the Veda the first syllable is acute.
-- **jighāṃsataḥ**: root *han hiṃsāgatyoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* — *san* in the sense *icchati*; *sanyaṅoḥ*: doubling, loss of the *a*'s…; *ajjhanagamāṃ sani* — अज्झनगमां सनि — [Pā. 6-4-16]: lengthening of the penultimate of *ac*-ending roots and of *han*, *gam* before *jhal*-initial *san*; *abhyāsāc ca* — अभ्यासाच्च — [Pā. 7-3-55]: *h* of *han* after the reduplicate becomes *gh* [*kutva*]; *abhyāse carca*: the first *h* becomes *j*; *sanyataḥ* — सन्यतः — [Pā. 7-4-79]: *i* for the reduplicate's *a* before *san*; the *n* → anusvāra: *jighāṃsa*; *śatṛ* is unaccented by *tāsyanudāttenṅid…*, the *san* being *nit* gives the first-syllable acute.
-- **bṛhadbhāno**: at the beginning of a pāda, so the wholly-unaccented accent of the eighth *adhyāya*'s *āmantritasya ca* [Pā. 8-1-19] does not occur; by the sixth *adhyāya*'s *āmantritasya ca* [Pā. 6-1-198] the first syllable is acute.
+- **jighāṃsataḥ**: root *han hiṃsāgatyoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* — *san* in the sense *icchati*; *sanyaṅoḥ*: doubling, loss of the *a*'s…; *ajjhanagamāṃ sani* — अज्झनगमां सनि — (Pā. 6-4-16): lengthening of the penultimate of *ac*-ending roots and of *han*, *gam* before *jhal*-initial *san*; *abhyāsāc ca* — अभ्यासाच्च — (Pā. 7-3-55): *h* of *han* after the reduplicate becomes *gh* [*kutva*]; *abhyāse carca*: the first *h* becomes *j*; *sanyataḥ* — सन्यतः — (no number printed): *i* for the reduplicate's *a* before *san*; the *n* → anusvāra: *jighāṃsa*; *śatṛ* is unaccented by *tāsyanudāttenṅid…*, the *san* being *nit* gives the first-syllable acute.
+- **bṛhadbhāno**: at the beginning of a pāda, so the wholly-unaccented accent of the eighth *adhyāya*'s *āmantritasya ca* (no number printed) does not occur; by the sixth *adhyāya*'s *āmantritasya ca* (no number printed) the first syllable is acute.
 - **yaviṣṭhya**: "explained in the sixth mantra of this sūkta." Rik 15 ends here (*|| 15 ||*).
 
 ### Rik 36.16 (pp. 232–236, PDF 246–250)
