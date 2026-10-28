@@ -4021,13 +4021,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.20 (p. 247 foot, PDF 261–)
 
-**Saṃhitā-pāṭha** *(p. 247; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 247)*
 
-> **त्वेषासो अग्नेरमवन्तो अर्चयो भीमासो न प्रतीतये ।**
-> **रक्षस्विनः सदमिद्यातुमावतो विश्वं समत्रिणं दह ॥ २० ॥**
+> त्वे॒षासो॑ अ॒ग्नेरम॑वन्तो॒ अ॒र्चयो॑ भी॒मासो॒ न प्रती॑तये । [accent ?]
+> र॒क्ष॒स्विनः॒ सद॒मिद्या॑तु॒माव॑तो॒ विश्वं॒ सम॒त्रिणं॑ दह ॥
 
-*tveṣāso agner amavanto arcayo bhīmāso na pratītaye |*
-*rakṣasvinaḥ sadam id yātumāvato viśvaṃ sam atriṇaṃ daha || 20 ||*
+*tveṣā́so agnéramávanto arcáyo bhīmā́so ná pratī́taye |* [accent ?]
+*rakṣasvínaḥ sadám idyā́tumā́vato víśvaṃ samatríṇaṃ daha ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print gives no number after the Saṃhitā (only ॥); the Pada closes ॥ २० ॥. [accent ?]: in the first line the underline of "agner" lies between* a *and* gne*; placed on* a*; the stroke is over* ma *of "amavanto", as printed. The underline of "rakṣasvinaḥ" stands under* ra *and* kṣa*; reproduced on both.)*
 
 **Pada-pāṭha** *(the first line at the foot of p. 247; the second on p. 248, not yet written)*
 
@@ -4039,13 +4041,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.20 (continued) — Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics, grammar (pp. 248–250, PDF 262–264)
 
+### Page 248
+
 **Pada-pāṭha, concluded** *(p. 248; the first line was given at the foot of p. 247)*
 
 > रक्षस्विनः । सदम् । इत् । यातुऽमावतः । विश्वम् । सम् । अत्रिणम् । दह ॥ २० ॥
 
 *rakṣasvinaḥ | sadam | it | yātu-māvataḥ | viśvam | sam | atriṇam | daha || 20 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 248; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 248, in full)*
 
 > अग्नेरर्चयो ज्वालास्त्वेषासो दीप्ता अमवन्तो बलवन्तो भीमासो भयंकराः । अतः प्रतीतयेऽस्माभिः प्रत्येतुं न शक्या इति शेषः । हे अग्ने रक्षस्विनो बलवतो यातुमावतो यातुधानानसुरान् सदमित् सर्वदैव सं दह । सम्यग्भस्मीकुरु । तथा विश्वं सर्वमत्रिणं भक्षकमस्माद्बाधकं शत्रुं सं दह ॥
 
@@ -4053,38 +4057,48 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Translation:** "Agni's *arcayaḥ* — flames — are *tveṣāsaḥ*, glaring, *amavantaḥ* — powerful — *bhīmāsaḥ*, terrible. Therefore *pratītaye* — [they are] not able to be [faced] by us: so it is to be supplied. O Agni, *rakṣasvinaḥ* — the powerful — *yātumāvataḥ*, the *yātudhānas*, the asuras: *sadam it* — always — *sam daha*, burn entirely, reduce to ashes. And likewise *viśvam atriṇam* — every devourer, the enemy who obstructs us — burn up."
 
-**Grammar within the bhāṣya** *(p. 248, characterized)*: *tveṣāsaḥ* (*tviṣa dīptau*, *pacādi* suffix *ac*; *cita*: final-acute; *ājjaser asuk*); *amavantaḥ* (*ama roge*; *amati śatrūn sṛjatīty amo balam*; *pacādyac*; *vṛṣādīnāṃ ca*: first-syllable acute; *tadeṣām asti*: *matup*); *pratītaye* (*tādau ca niti kṛtyatau*: the preverb *prati* keeps its natural accent); *rakṣasvinaḥ* (*rakṣanty anena*, *rakṣo* "strength", *asun* in the instrument sense; *asmāyāmedhāsrajo viniḥ*); *yātumāvataḥ* (*yātavo yātanāḥ tānimīmate nirmimate*, "those who make torments" — *yātumāḥ*, the doings of the rākṣasas; *ato 'nupasarge kaḥ*; *tadeṣām asti*; *mato bahvaco 'jirādīnām*: lengthening; *saṃjñāyām*: *m* → *v* [as read]; *matup* is *pit*, so unaccented; the later member of a *kṛt*-compound keeps its natural accent); *atriṇam* (*ades striṇi ca*: *triṇ* in the agent sense).
+**Grammatical tail of the bhāṣya** *(p. 248; varga ११ closes here)*
+
+> त्वेषासः । त्विष दीप्तौ । पचाद्यच् । चित इत्यन्तोदात्तत्वम् । अमवन्तः । अम रोगे । अमति शत्रून्रुजतीत्यमो बलम् । पचाद्यच् । वृषादित्वादाद्युदात्तत्वम् । तदेषामस्तीत्यमवन्तः । प्रतीतये । तादौ च नितीति गतेः प्रकृतिस्वरत्वम् । रक्षस्विनः । रक्षन्त्यनेनेति रक्षो बलम् । करणेऽसुन् । अस्मायामेधेति मत्वर्थीयो विनिः । यातुमावतः । यातवो यातनाः तान्मिमते निर्मिमत इति राक्षसव्यापारा यातुमाः । आतोऽनुपसर्गे क इति कः । तदेषामस्तीति मतुप् । मतौ बह्वचोऽनजिरादीनाम् । पा. ६-३-११९ । इति दीर्घत्वम् । संज्ञायाम् । पा. ८-२-११ । इति वत्वम् । मतुपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । अत्रिणम् । अदेस्त्रिनि चेति कर्तरि त्रिनिप्रत्ययः ॥ ११ ॥
+
+*tveṣāsaḥ | tviṣa dīptau | pacādyac | cita ityantodāttatvam | amavantaḥ | ama roge | amati śatrūnrujatītyamo balam | pacādyac | vṛṣāditvādādyudāttatvam | tadeṣāmastītyamavantaḥ | pratītaye | tādau ca nitīti gateḥ prakṛtisvaratvam | rakṣasvinaḥ | rakṣantyaneneti rakṣo balam | karaṇe 'sun | asmāyāmedheti matvarthīyo viniḥ | yātumāvataḥ | yātavo yātanāḥ tānmimate nirmimata iti rākṣasavyāpārā yātumāḥ | āto 'nupasarge ka iti kaḥ | tadeṣāmastīti matup | matau bahvaco 'najirādīnām | pā. 6-3-119 | iti dīrghatvam | saṃjñāyām | pā. 8-2-11 | iti vatvam | matupaḥ pittvādanudāttatve kṛduttarapadaprakṛtisvaratvam | atriṇam | adestrini ceti kartari trinipratyayaḥ ‖ 11 ‖*
+
+*(Sense:)* *tveṣāsaḥ* (*tviṣa dīptau*, *pacādi* suffix *ac*; *cita*: final-acute; *ājjaser asuk*); *amavantaḥ* (*ama roge*; *amati śatrūn rujatīty amo balam*; *pacādyac*; *vṛṣādīnāṃ ca*: first-syllable acute; *tadeṣām asti*: *matup*); *pratītaye* (*tādau ca niti kṛtyatau*: the preverb *prati* keeps its natural accent); *rakṣasvinaḥ* (*rakṣanty anena*, *rakṣo* "strength", *asun* in the instrument sense; *asmāyāmedhāsrajo viniḥ*); *yātumāvataḥ* (*yātavo yātanāḥ tānimīmate nirmimate*, "those who make torments" — *yātumāḥ*, the doings of the rākṣasas; *ato 'nupasarge kaḥ*; *tadeṣām asti*; *mato bahvaco 'jirādīnām*: lengthening; *saṃjñāyām*: *m* → *v* [as read]; *matup* is *pit*, so unaccented; the later member of a *kṛt*-compound keeps its natural accent); *atriṇam* (*ades striṇi ca*: *triṇ* in the agent sense).
 
 **Pratipadārtha** *(p. 248)* — "**agneḥ** — of the Agni deity; **arcayaḥ** — flames; **tveṣāsaḥ** — blazing; **amavantaḥ** — powerful, destroying enemies; **bhīmāsaḥ** — terrifying; [they are, therefore] **pratītaye** — to take any refuge in [them]; **na** — it is not possible (to oppose them); **agne** — O Agni; **rakṣasvinaḥ** — the mighty; **yātumāvataḥ** — the rākṣasas who do us harm; **sadam it** — always; **sam daha** — burn utterly; **viśvam atriṇam** — our all-devouring enemy; **sam daha** — burn to ashes."
 
 **Bhāvārtha** *(pp. 248–249)* — "O Agni deity, the lustre of your flames spreads through all the worlds that are beyond the sight of men. Their power is of a majesty that cannot be imagined by man. They are very terrible to those who do harm, by showing great cruelty in the destruction of enemies. Therefore, knowing only that their nature is thus, it is not possible for us to take refuge in their strength and powers: [for] they surpass our own trust. By those powers burn up utterly the rākṣasas who do us harm and our devouring enemies."
 
+### Page 249
+
 **English Translation (the source's own, p. 249)** — "The flames of Agni are glaring, powerful ( and ) awe-inspiring and are not to be opposed ; therefore Agni, burn down entirely the mighty spirits of evils and all our other enemies·" *(the print ends with a raised dot)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 249**
 - **tveṣāsaḥ** = *tviṣa dīptau*: "very brilliant, shining well."
-- **amavantaḥ** = *āma roge*; *amati śatrūn sṛjatīty amo balam* — *tadeṣām astīty amavantaḥ*: "the root *am* means disease; since it harms enemies by disease, *ama* means strength; those who have such strength are called *amavantaḥ*, that is, powerful."
+- **amavantaḥ** = *āma roge*; *amati śatrūn rujatīty amo balam* — *tadeṣām astīty amavantaḥ*: "the root *am* means disease; since it harms enemies by disease, *ama* means strength; those who have such strength are called *amavantaḥ*, that is, powerful."
 - **arcayaḥ** — "rays, that is, the flames of Agni."
 - **bhīmāsaḥ** — "terrible; since they have the power to burn, they create fear that one should not go near."
 - **na pratītaye** — "that cannot be opposed; *not to be opposed*."
 - **rakṣasvinaḥ** = *rakṣantyanenety rakṣo balam, tadeṣām astīti rakṣasvinaḥ*: "since it has the power to protect, *rakṣaḥ* means strength; *rakṣasvinaḥ* means those who are strong, powerful."
 - **yātumāvataḥ** = *yātavo yātanāḥ | tānimīmate nirmimate iti rākṣasavyāpārā yātumāḥ | tadeṣām astīti yātumāvataḥ*: "*yātu* means torment. Because they bring about torments, *yātumāḥ* means the doings of the rākṣasas; those who have the doings of rākṣasas are named *yātumāvataḥ*, the wicked, and so on."
 
-**Vyākaraṇa-prakriyā** *(p. 250, PDF 264 — grammar page, noted briefly)*
-- **tveṣāsaḥ**: root *tviṣa dīptau*; *nandigrahipacādibhyo lyuṇinyacaḥ* — the *pacādi* suffix *ac*; *laghūpadha-guṇa*; *citaḥ* — [Pā. 6-1-163]: a word ending in a *cit* suffix is final-acute; *ājjaser asuk* — [Pā. 7-1-50]: the augment *asuk*.
-- **amavantaḥ**: root *ama roge*, *curādi*; *amati śatrūn* — the *pacādi* suffix *ac*: "that which, like a disease, harms enemies" is the sense of *ama*; *vṛṣādīnāṃ ca* — [Pā. 6-1-203]: first-syllable acute; *amaḥ eṣām asti*; *tadasyāstyasminn iti matup*.
-- **pratītaye**: the preverb *prati*, root *iṇ*, *ktin*; *tādau ca niti kṛtyatau* — तादौ च निति कृत्यतौ — [Pā. 6-2-50]: [a *gati* in front] of a *kṛt* beginning with a consonant other than *tu* and marked *n*, a *gati* not separated keeps its natural accent; so *prati* is acute.
+### Page 250
+
+**Vyākaraṇa-prakriyā** *(p. 250, PDF 265 — grammar page, noted briefly)*
+- **tveṣāsaḥ**: root *tviṣa dīptau*; *nandigrahipacādibhyo lyuṇinyacaḥ* — the *pacādi* suffix *ac*; *laghūpadha-guṇa*; *citaḥ* (no number printed): a word ending in a *cit* suffix is final-acute; *ājjaser asuk* (no number printed): the augment *asuk*.
+- **amavantaḥ**: root *ama roge*, *curādi*; *amati śatrūn* — the *pacādi* suffix *ac*: "that which, like a disease, harms enemies" is the sense of *ama*; *vṛṣādīnāṃ ca* (no number printed): first-syllable acute; *amaḥ eṣām asti*; *tadasyāstyasminn iti matup*.
+- **pratītaye**: the preverb *prati*, root *iṇ*, *ktin*; *tādau ca niti kṛtyatau* — तादौ च निति कृत्यतौ — (Pā. 6-2-50): [a *gati* in front] of a *kṛt* beginning with a consonant other than *tu* and marked *n*, a *gati* not separated keeps its natural accent; so *prati* is acute.
 - **rakṣasvinaḥ**: root *rakṣa pālane*, class 1; *asun* in the instrument sense; *rakṣyate 'nena*, "strength [that is] the means of protecting oneself"; *asmāyāmedhāsrajo viniḥ*: *vin*.
-- **yātumāvataḥ**: *yātu* means torment; *yātūn mimīte*: "he who makes torments", *yātumāḥ*, the doings of the rākṣasas; the word *yātu*, the object-word, is the *upapada*; root *mā māne*; *ato 'nupasarge kaḥ*: *ka*; loss of the *ā*; *yātumāḥ eṣāṃ santi*; *tadasyāstyasminn iti matup*: *yātumā + mat*; *mato bahvaco 'najirādīnām* — मतौ बह्वचोऽनजिरादीनाम् — [Pā. 6-3-119]: before *matup* a word of several vowels takes lengthening, but not the words in the *ajirādi* group: so lengthening; *saṃjñāyām* — संज्ञायाम् — [Pā. 8-2-11]: when a name is meant, the *m* of *matup* becomes *v* after *a*-ending... [as read]; *yātumāvat*; *śas*; *matup* is *pit*, and *śas* is *sup*-… so unaccented; the later member keeps the natural accent of a *kṛdanta*.
-- **atriṇam**: *adeḥ striṇi ca* — [Uṇ. 4-108, as read]: *triṇ* in the agent sense; "its explanation was given in the 14th mantra of this sūkta" [as printed]. Rik 20 ends here (*|| 20 ||*).
+- **yātumāvataḥ**: *yātu* means torment; *yātūn mimīte*: "he who makes torments", *yātumāḥ*, the doings of the rākṣasas; the word *yātu*, the object-word, is the *upapada*; root *mā māne*; *ato 'nupasarge kaḥ*: *ka*; loss of the *ā*; *yātumāḥ eṣāṃ santi*; *tadasyāstyasminn iti matup*: *yātumā + mat*; *mato bahvaco 'najirādīnām* — मतौ बह्वचोऽनजिरादीनाम् — (Pā. 6-3-119): before *matup* a word of several vowels takes lengthening, but not the words in the *ajirādi* group: so lengthening; *saṃjñāyām* — संज्ञायाम् — (Pā. 8-2-11): when a name is shown, the *m* of *matup* becomes *v*; *yātumāvat*; *śas*; *matup* is *pit*, and *śas* is *sup*-… so unaccented; the later member keeps the natural accent of a *kṛdanta*.
+- **atriṇam**: *adeḥ striṇi ca* (printed "Uṇ. Sū. 4-?08", as on p. 227, the second digit a ೫/೩-like glyph, not settled): *triṇ* in the agent sense; "its explanation was given in the 14th mantra of this sūkta". Rik 20 ends here (*|| 20 ||*).
 
 ---
 
 ### Close of Sūkta 36
 
-**The sūkta has 20 Riks** (printed pp. 176–250; PDF 190–264), as the heading on p. 178 states ("ṛks 1–20"). **Closing note** (p. 250, in ordinary type, beneath the last grammar paragraph): *illige 36 neya sūkta mugidudu* — "Here the thirty-sixth sūkta is finished" (the sūkta number is printed in small Kannada numerals, read as "36"); no varga-end statement is printed on this page. The varga numerals of the heading (p. 178: "Varga 8, 9, 10, 11") are as read; the small numerals of the running headers read "10" on pp. 215–231, "11" on pp. 235–249 and "12" on p. 251 [?]. An ornament follows.
+**The sūkta has 20 Riks** (printed pp. 176–250; better-scan PDF 191–265), as the heading on p. 178 states ("ṛks 1–20"). **Closing note** (p. 250, in ordinary type, beneath the last grammar paragraph): *illige 36 neya sūkta mugidudu* — "Here the thirty-sixth sūkta is finished" (the sūkta number printed ೩೬, checked on the better scan, p. 250 = PDF 265); no varga-end statement is printed on this page. The varga numerals of the heading (p. 178: "Varga 8, 9, 10, 11") are as read; the bhāṣya tails close vargas ८ (p. 192), ९ (p. 211), १० (p. 229) and ११ (p. 248); the running headers read "Va. 11" on pp. 237–249. An ornament follows.
 
-**Sūkta 37 begins on the next leaf, printed p. 251 = PDF 265** (the contents table's page for Sūkta 37 is thus confirmed).
+**Sūkta 37 begins on the next leaf, printed p. 251 = better-scan PDF 266** (the contents table's page for Sūkta 37 is thus confirmed).
 
 **Summary of the sūkta (from the Bhāvārthas):** a long hymn to Agni by Kaṇva Ghaura. After the invocation (Riks 1–3: he is the *hotṛ*, messenger and increaser of strength; the priests and sacrificers take him up and serve him), the gods Varuṇa, Mitra and Aryaman kindle him and the sacrificer who offers him oblations wins all wealth (4); he is the lord of the house and all the gods' works are joined in him (5); all offerings are poured into him alone (6); the priests worship the self-shining one and kindle him with the seven *hotṛ*s (7); the other gods, with his help, slew Vṛtra and made the worlds spacious (8); he is asked to sit on the *barhis* and send up his smoke (9); the gods, Kaṇva, Indra and others established him as the best sacrificer (10); Medhyātithi Kaṇva kindled him more brightly than the Sun (11); he is the lord of food and a friend of the gods (12); Riks 13–14, to the sacrificial post (*yūpa*) or to Agni abiding in it: stand erect, protect us, burn the devouring rākṣasas, give us long life, and carry our offerings to the gods; prayers for protection from rākṣasas, tricksters, harmful beasts and killers, and for the destruction of the enemies who give nothing (15–16); his giving of heroism and good fortune to Kaṇva, and his protection of Medhyātithi and others (17); the invocation of the royal sages Turvaśa, Yadu, Ugradeva and of Navavāstu, Bṛhadratha and Turvīti together with Agni (18); Manu's establishing Agni as light for the people, and Kaṇva's praise (19); and a closing prayer to burn utterly the rākṣasas and all devouring enemies with Agni's terrible flames (20).
 
