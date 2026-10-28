@@ -9749,7 +9749,9 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > On every occasion and in every battle we, his friends invoke the powerful Indra for our protection.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 474–475)* — **योगेयोगे** — *yujir yoge*; *praveśe praveśe tattatkarmopakrame*: on each occasion, at each beginning of work. **तवस्तरम्** — since *tavas* is read among the twenty-one names of strength beginning *ojas, pājas* (Ni. 3-9), *tavas* is strength; *tavastaram*: exceedingly strong. ### Page 475 — Sūkta 30, Rik 7: Viśeṣa continued, grammar
+**Viśeṣa-viṣayagaḷu** *(pp. 474–475)* — **योगेयोगे** — *yujir yoge*; *praveśe praveśe tattatkarmopakrame*: on each occasion, at each beginning of work. **तवस्तरम्** — since *tavas* is read among the twenty-one names of strength beginning *ojas, pājas* (Ni. 3-9), *tavas* is strength; *tavastaram*: exceedingly strong.
+
+### Page 475 — Sūkta 30, Rik 7: Viśeṣa continued, grammar
 
 **वाजेवाजे** — *vāja* is read among the forty-four names of battle beginning *raṇa, vivāk* (Ni. 3-9, as printed); doubled, it means 'in each battle'. **सखायः** — *sakhivat priyāḥ*: we who, like friends, are dear to you.
 
