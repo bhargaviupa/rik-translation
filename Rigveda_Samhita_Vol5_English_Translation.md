@@ -4028,13 +4028,15 @@
 
 ### Rik 52.4 (pp. 225–, PDF 241–)
 
-**Saṃhitā-pāṭha** *(p. 225; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 225; accents as printed)*
 
-> **आ यं पृणन्ति दिवि सद्मबर्हिषः समुद्रं न सुभ्वः स्वा अभिष्टयः ।**
-> **तं वृत्रहत्ये अनु तस्थुरूतयः शुष्मा इन्द्रमवाता अह्रुतप्सवः ॥ ४ ॥**
+> **आ यं पृ॒णन्ति॑ दि॒वि सद्म॑बर्हिषः समु॒द्रं न सु॒भ्व१॒ः स्वा अ॒भिष्ट॑यः ।**
+> **तं वृ॑त्र॒हत्ये॒ अनु॑ तस्थुरू॒तयः॒ शुष्मा॒ इन्द्र॑मवा॒ता अह्रु॑तप्सवः ॥ ४ ॥**
 
-*ā yaṃ pṛṇanti divi sadmabarhiṣaḥ samudraṃ na subhvaḥ svā abhiṣṭayaḥ |*
-*taṃ vṛtrahatye anu tasthur ūtayaḥ śuṣmā indram avātā ahrutapsavaḥ || 4 ||*
+*ā́ yám pṛṇánti diví sádmabarhiṣaḥ samudráṃ na subhvàḥ svā́ abhíṣṭayaḥ |*
+*táṃ vṛtrahátye ánu tasthur ūtáyaḥ śúṣmā índram avātā́ áhrutapsavaḥ || 4 ||*
+
+*(Pass: the print sets* subhvaḥ *as "ಸುಭ್ವ೧ಃ", the numeral ೧ (१) carrying a svarita stroke above and an anudātta bar below (the kampa notation); no mark under* sa *of* samudraṃ*.)*
 
 **Pada-pāṭha** *(p. 225)*
 
@@ -4046,13 +4048,13 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 225–226)*
 
-> **सद्म सदनं स्थानं बर्हिः शब्दोपलक्षितो यज्ञो येषां सोमानां ते सोमा दिवि स्वर्गलोकेऽवस्थितं यमिन्द्रमापृणन्ति । आ समन्तात्पूरयन्ति । तत्र दृष्टान्तः । सुभ्वः सुष्ठु भवन्तीति सुभ्वो नद्यः समुद्रं न । यथा नद्यः समुद्रं पूरयन्ति तद्वदित्यर्थः । कीदृश्यो नद्यः । स्वाः । समुद्रस्य स्वभूताः । तथा चाम्नायते । समुद्राय वयुनाय सिन्धूनां पतये नमः । तै. सं. ४-६-२-६ [?] इति । अभिष्टयः । अभिमुख्येन गमनवत्यः । ऊतयोऽवितारो मरुतो वृत्रहत्ये वृत्रहननेन निमित्तभूते सति तमिन्द्रमनुतस्थुः । अनुलक्ष्य स्थिता बभूवुः । कीदृशा मरुतः । शुष्माः । शत्रूणां शोषयितारः । अवाताः । वान्ति प्रातिकूल्येन गच्छन्तीति वाताः शत्रवः । तद्रहिताः । अह्रुतप्सवः । अकुटिलरूपाः । शोभनावयवा इत्यर्थः ॥**
+> **सद्म सदनं स्थानं बर्हिः शब्दोपलक्षितो यज्ञो येषां सोमानां ते सोमा दिवि स्वर्गलोकेऽवस्थितं यमिन्द्रमापृणन्ति । आ समन्तात्पूरयन्ति । तत्र दृष्टान्तः । सुभ्वः सुष्ठु भवन्तीति सुभ्वो नद्यः समुद्रं न । यथा नद्यः समुद्रं पूरयन्ति तद्वदित्यर्थः । कीदृश्यो नद्यः । स्वाः । समुद्रस्य स्वभूताः । तथा चाम्नायते । समुद्राय वयुनाय सिन्धूनां पतये नमः । तै. सं. ४-६-२-६ इति । अभिष्टयः । अभिमुख्येन गमनवत्यः । ऊतयोऽवितारो मरुतो वृत्रहत्ये वृत्रहनने निमित्तभूते सति तमिन्द्रमनुतस्थुः । अनुलक्ष्य स्थिता बभूवुः । कीदृशा मरुतः । शुष्माः । शत्रूणां शोषयितारः । अवाताः । वान्ति प्रातिकूल्येन गच्छन्तीति वाताः शत्रवः । तद्रहिताः । अह्रुतप्सवः । अकुटिलरूपाः । शोभनावयवा इत्यर्थः ॥**
 
-*sadma sadanaṃ sthānaṃ barhiḥ śabdopalakṣito yajño yeṣāṃ somānāṃ te somā divi svargaloke 'vasthitaṃ yam indram āpṛṇanti | ā samantāt pūrayanti | tatra dṛṣṭāntaḥ | subhvaḥ suṣṭhu bhavantīti subhvo nadyaḥ samudraṃ na | yathā nadyaḥ samudraṃ pūrayanti tadvad ity arthaḥ | kīdṛśyo nadyaḥ | svāḥ | samudrasya svabhūtāḥ | tathā cāmnāyate | samudrāya vayunāya sindhūnāṃ pataye namaḥ | tai. saṃ. 4-6-2-6 [?] iti | abhiṣṭayaḥ | abhimukhyena gamanavatyaḥ | ūtayo 'vitāro maruto vṛtrahatye vṛtrahananena nimittabhūte sati tam indram anutasthuḥ | anulakṣya sthitā babhūvuḥ | kīdṛśā marutaḥ | śuṣmāḥ | śatrūṇāṃ śoṣayitāraḥ | avātāḥ | vānti prātikūlyena gacchantīti vātāḥ śatravaḥ | tadrahitāḥ | ahrutapsavaḥ | akuṭilarūpāḥ | śobhanāvayavā ity arthaḥ ||*
+*sadma sadanaṃ sthānaṃ barhiḥ śabdopalakṣito yajño yeṣāṃ somānāṃ te somā divi svargaloke 'vasthitaṃ yam indram āpṛṇanti | ā samantāt pūrayanti | tatra dṛṣṭāntaḥ | subhvaḥ suṣṭhu bhavantīti subhvo nadyaḥ samudraṃ na | yathā nadyaḥ samudraṃ pūrayanti tadvad ity arthaḥ | kīdṛśyo nadyaḥ | svāḥ | samudrasya svabhūtāḥ | tathā cāmnāyate | samudrāya vayunāya sindhūnāṃ pataye namaḥ | tai. saṃ. 4-6-2-6 iti | abhiṣṭayaḥ | abhimukhyena gamanavatyaḥ | ūtayo 'vitāro maruto vṛtrahatye vṛtrahanane nimittabhūte sati tam indram anutasthuḥ | anulakṣya sthitā babhūvuḥ | kīdṛśā marutaḥ | śuṣmāḥ | śatrūṇāṃ śoṣayitāraḥ | avātāḥ | vānti prātikūlyena gacchantīti vātāḥ śatravaḥ | tadrahitāḥ | ahrutapsavaḥ | akuṭilarūpāḥ | śobhanāvayavā ity arthaḥ ||*
 
-*(Reading notes: the punctuation of* abhiṣṭayaḥ … ūtayaḥ *is mine — the Kannada Special Topics takes* abhiṣṭayaḥ *as an epithet of the rivers (*svāḥ*), "facing the sea in their course"; the bhāṣya's own phrasing is crowded. The Taittirīya numeral is as read, [?]. The grammatical tail, pp. 226–, is characterized:* pṛṇanti *(*pyā pālanapūraṇayoḥ*, kryādi),* sadmabarhiṣaḥ*,* subhvaḥ*,* abhiṣṭayaḥ *(*iṣa icchāyām*? "*iṣṭayaḥ eṣaṇāni*", [?]),* vṛtrahatye *(*hana* with *kyap*, the substitute* t*),* ahrutapsavaḥ *(*hvā kauṭilye*, *asmānniṣṭhāyāṃ hru hvareś chandasi*, Pā. 7-2-31 as read [?], with* psā bhakṣaṇe *and the Uṇādi* du*; "not* hruta *+* psu*", a negative compound).)*
+*(Reading notes: the punctuation of* abhiṣṭayaḥ … ūtayaḥ *is mine — the Kannada Special Topics takes* abhiṣṭayaḥ *as an epithet of the rivers (*svāḥ*), "facing the sea in their course"; the bhāṣya's own phrasing is crowded. The Taittirīya reference is printed "ತೈ. ಸಂ. ೪-೬-೨-೬" (also on p. 227); the tail prints Pā. 7-2-31. The grammatical tail, pp. 226–, is characterized:* pṛṇanti *(*pyā pālanapūraṇayoḥ*, kryādi),* sadmabarhiṣaḥ*,* subhvaḥ*,* abhiṣṭayaḥ *(*iṣa icchāyām*? "*iṣṭayaḥ eṣaṇāni*", [?]),* vṛtrahatye *(*hana* with *kyap*, the substitute* t*),* ahrutapsavaḥ *(*hvā kauṭilye*, *asmānniṣṭhāyāṃ hru hvareś chandasi*, Pā. 7-2-31, with* psā bhakṣaṇe *and the Uṇādi* du*; "not* hruta *+* psu*", a negative compound).)*
 
-**Translation of the bhāṣya:** "*Sadma* is a seat, a place; *barhiḥ* is the word that stands for the sacrifice; the Somas that have these — they, *divi*, in the heavenly world, *yam*, whom, Indra who abides (there), *ā pṛṇanti*, fill all round. An example: *subhvaḥ*, the 'well-being' (excellently flowing) rivers, *samudraṃ na*, as rivers fill the ocean — so it is meant. What rivers? *Svāḥ*: those that belong to the ocean; so it is declared: 'Homage to the ocean, to the wise one, to the lord of rivers' (Tai. Saṃ. 4-6-2-6 [?]). *Abhiṣṭayaḥ*: moving in front (facing the sea). The *ūtayaḥ*, the protectors, the Maruts, *vṛtrahatye*, on the occasion of the slaying of Vṛtra, *anu tasthuḥ*, stood by him, keeping him in view. What sort of Maruts? *Śuṣmāḥ*: those who dry up the enemies; *avātāḥ*: *vātāḥ* are the enemies who move in opposition — those without such (unobstructed, free from them); *ahrutapsavaḥ*: of straight, unbent form, with fair limbs is the sense."
+**Translation of the bhāṣya:** "*Sadma* is a seat, a place; *barhiḥ* is the word that stands for the sacrifice; the Somas that have these — they, *divi*, in the heavenly world, *yam*, whom, Indra who abides (there), *ā pṛṇanti*, fill all round. An example: *subhvaḥ*, the 'well-being' (excellently flowing) rivers, *samudraṃ na*, as rivers fill the ocean — so it is meant. What rivers? *Svāḥ*: those that belong to the ocean; so it is declared: 'Homage to the ocean, to the wise one, to the lord of rivers' (Tai. Saṃ. 4-6-2-6). *Abhiṣṭayaḥ*: moving in front (facing the sea). The *ūtayaḥ*, the protectors, the Maruts, *vṛtrahatye*, on the occasion of the slaying of Vṛtra, *anu tasthuḥ*, stood by him, keeping him in view. What sort of Maruts? *Śuṣmāḥ*: those who dry up the enemies; *avātāḥ*: *vātāḥ* are the enemies who move in opposition — those without such (unobstructed, free from them); *ahrutapsavaḥ*: of straight, unbent form, with fair limbs is the sense."
 
 **Pratipadārtha** *(p. 226)* — "**svāḥ** — their own, i.e. belonging to the ocean; **subhvaḥ** — the rivers; **samudraṃ na** — as they fill the ocean (with water); **sadmabarhiṣaḥ** — the soma juices, whose place of origin is the sacrificial house with its sacred grass; **yam** — which Indra; **ā pṛṇanti** — fill all round (do they satisfy?); **tam** — that Indra; **abhiṣṭayaḥ** — those who go facing him; **śuṣmāḥ** — destroyers of enemies (or: those who frighten the timid); **avātāḥ** — whose course is unobstructed; **ahrutapsavaḥ** — with unbent, excellent limbs; **ūtayaḥ** — the protecting Maruts; **vṛtrahatye** — on the occasion of the slaying of Vṛtra; **anutasthuḥ** — followed (giving strength)."
 
@@ -4063,9 +4065,9 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 227**
 - **ā pṛṇanti** — "They fill in every way. Since the root *pyā* has the two senses of protecting and filling, it can be taken also as 'they protect in every way'."
 - **sadmabarhiṣaḥ** — "*sadma* is seat, place; *barhis* [stands for] the sacrifice; *yeṣāṃ te sadmabarhiṣaḥ*: the meaning of this word is the Soma, which has obtained the principal place in the sacrifice."
-- **subhvaḥ samudraṃ na** — "As rivers fill the ocean, so the soma juices increase Indra. The śruti '*samudrāya vayunāya sindhūnāṃ pataye namaḥ*' (Tai. Saṃ. 4-6-2-6 as read [?]) also shows that the rivers belong to the ocean."
+- **subhvaḥ samudraṃ na** — "As rivers fill the ocean, so the soma juices increase Indra. The śruti '*samudrāya vayunāya sindhūnāṃ pataye namaḥ*' (Tai. Saṃ. 4-6-2-6) also shows that the rivers belong to the ocean."
 
-  > **समुद्राय वयुनाय सिन्धूनां पतये नमः ।** *(Tai. Saṃ. 4-6-2-6 as read [?])*
+  > **समुद्राय वयुनाय सिन्धूनां पतये नमः ।** *(Tai. Saṃ. 4-6-2-6)*
 
   *samudrāya vayunāya sindhūnāṃ pataye namaḥ |* — mine and tentative: "Homage to the ocean, to the knowing one, to the lord of the rivers."
 - **abhiṣṭayaḥ** — "*abhimukhyena gamanavatyaḥ*: giving the sense 'rivers of the nature of coming facing the ocean', this word is an epithet of the word *svāḥ*."
@@ -4073,19 +4075,19 @@
 - **ahrutapsavaḥ** — "*akuṭilarūpāḥ śobhanāvayavāḥ*: of unbent form, with beautiful limbs — i.e., endowed both with beautiful form and with limbs that suit it."
 
 **Vyākaraṇa-prakriyā** *(p. 227 and following — grammar pages, noted briefly; continued on p. 228)*
-- **pṛṇanti**: *pyā pālanapūraṇayoḥ*, *kryādi*; the *jhi* ending replaced by *ant* by *jher antaḥ*; *kryādibhyaḥ śnā*; *śnābhyastayor ātaḥ* (Pā. 6-4-112) drops the *ā* of *śnā*; *prādīnāṃ hrasvaḥ* shortens the root's vowel; before *ṛ*, the *n* of *śnā* takes *ṇatva*: *pṛṇanti*; because the relative *yam* occurs earlier, the *nighāta* accent is forbidden by *yadvṛttān nityam* (Pā. 8-1-66 as read [?]); by the initial-acute of the suffix, the *ā* after *ṇ* is acute.
+- **pṛṇanti**: *pyā pālanapūraṇayoḥ*, *kryādi*; the *jhi* ending replaced by *ant* by *jher antaḥ*; *kryādibhyaḥ śnā*; *śnābhyastayor ātaḥ* (no number printed) drops the *ā* of *śnā*; *pvādīnāṃ hrasvaḥ* (Pā. sū. 7-3-80) shortens the root's vowel; before *ṛ*, the *n* of *śnā* takes *ṇatva*: *pṛṇanti*; because the relative *yam* occurs earlier, the *nighāta* accent is forbidden by *yadvṛttān nityam* (no number printed); by the initial-acute of the suffix, the *ā* after *ṇ* is acute.
 - **sadmabarhiṣaḥ**: *ṣadḷ viśaraṇagatyavasādaneṣu*; "*sīdanty asminn iti sadma*"; *adhikaraṇa*; the Uṇādi *manin* by *…* ; *ṣa* → *sa* by *dhātvādeḥ ṣaḥ saḥ*: *sadman*; being *nit*, the initial-acute; "*sadma barhir yeṣāṃ te*" a bahuvrīhi; *bahuvrīhau prakṛtyā pūrvapadam* keeps the previous accent.
-- **subhvaḥ**: *bhū sattāyām*; *kvip ca* (Pā. 3-2-76 as read [?]) after the *su* prefix; *gatikārakopapadāt kṛt* gives the accent of the last member; the *u* is acute; before *jas*, *oḥ supi* would give *yaṇ*, but the prohibition *nabhūsudhiyoḥ* is overridden in the Veda by *chandasy ubhayathā*… *(continued on p. 228).*
+- **subhvaḥ**: *bhū sattāyām*; *kvip ca* (no number printed) after the *su* prefix; *gatikārakopapadāt kṛt* gives the accent of the last member; the *u* is acute; before *jas*, *oḥ supi* would give *yaṇ*, but the prohibition *nabhūsudhiyoḥ* is overridden in the Veda by *chandasy ubhayathā*… *(continued on p. 228).*
 
 ---
 
 ---
 
 **Rik 52.4, grammar (end)** *(p. 228, PDF 244 — grammar page, noted briefly)*
-- **subhvaḥ** (continued): *yaṇ* being forbidden before *jas* by *nabhūsudhiyoḥ*, *chandasy ubhayathā* (Pā. 6-4-86 as read [?]) gives *yaṇādeśa* again; because the *yaṇ* has taken the place of an acute vowel, the following *anudātta* of the ending takes *svarita* by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*.
-- **abhiṣṭayaḥ**: "*iṣṭayaḥ eṣaṇāni*"; *iṣa icchāyām*, with *ktin* by *striyāṃ ktin*; by *upasargād abhivarjam* (Phiṭ-sūtra, numeral as read [?]) *abhi* being taken separately (excluded), the *abhi* keeps its end-acute; as a bahuvrīhi with *abhi*, the accent of the first member stays; *abhi + iṣṭi*: by *eṅi pararūpam* the *a* of *abhi* … single substitute with the following vowel [as read].
-- **vṛtrahatye**: *hana hiṃsāgatyoḥ*; *hanas ta ca* (Pā. 3-1-108 as read [?]) gives *kyap* in the sense of the action, and *t* for the *n* of *han*: *hatya*; the end-acute of the root is retained; "*vṛtrasya hatyā vṛtrahatyā*", locative *tasmin*; in the compound the *kāraka* is the first member, so *gatikārakopapadāt kṛt* keeps the accent of the last member.
-- **ahrutapsavaḥ**: *hvṛ kauṭilye*; *hru* by *hvareś chandasi* (Pā. 7-2-31 as read [?]) before a *niṣṭhā* suffix: *hruta*; *psā bhakṣaṇe* with the Uṇādi *ḍu*; since *ḍit*, the *ṭi* of the root is lost: *psu*; "*na hrutapsavaḥ ahrutapsavaḥ*", a *nañ*-tatpuruṣa; the first member, a particle, keeps its accent by *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* (Pā. 6-2-2); nominative plural. **|| 4 ||**
+- **subhvaḥ** (continued): *yaṇ* being forbidden before *jas* by *nabhūsudhiyoḥ*, *chandasy ubhayathā* (Pā. sū. 6-4-86) gives *yaṇādeśa* again; because the *yaṇ* has taken the place of an acute vowel, the following *anudātta* of the ending takes *svarita* by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*.
+- **abhiṣṭayaḥ**: "*iṣṭayaḥ eṣaṇāni*"; *iṣa icchāyām*, with *ktin* by *striyāṃ ktin*; by *upasargād abhivarjam* (Phi. sū. 81) *abhi* being taken separately (excluded), the *abhi* keeps its end-acute; as a bahuvrīhi with *abhi*, the accent of the first member stays; *abhi + iṣṭi*: by *eṅi pararūpam* the *a* of *abhi* … single substitute with the following vowel [as read].
+- **vṛtrahatye**: *hana hiṃsāgatyoḥ*; *hanas ta ca* (Pā. sū. 3-1-108) gives *kyap* in the sense of the action, and *t* for the *n* of *han*: *hatya*; the end-acute of the root is retained; "*vṛtrasya hatyā vṛtrahatyā*", locative *tasmin*; in the compound the *kāraka* is the first member, so *gatikārakopapadāt kṛt* keeps the accent of the last member.
+- **ahrutapsavaḥ**: *hvṛ kauṭilye*; *hru* by *hvareś chandasi* (Pā. sū. 7-2-31) before a *niṣṭhā* suffix: *hruta*; *psā bhakṣaṇe* with the Uṇādi *ḍu*; since *ḍit*, the *ṭi* of the root is lost: *psu*; "*na hrutapsavaḥ ahrutapsavaḥ*", a *nañ*-tatpuruṣa; the first member, a particle, keeps its accent by *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* (no number printed); nominative plural. **|| 4 ||**
 
 ---
 
