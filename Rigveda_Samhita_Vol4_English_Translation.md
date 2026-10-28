@@ -9818,29 +9818,31 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Pages 571–572 (PDF 585–586) — Sāyaṇa's introduction, the Kannada anuvāda, and the heading
 
-**Sāyaṇa's introduction** *(printed in Kannada script at the foot of p. 571; read from the 150-dpi image; the words marked [?] are crowded)*
+**Sāyaṇa's introduction** *(printed in Kannada script at the foot of p. 571; checked on the better scan, PDF 586)*
 
-> एषो उषा इति पञ्चदशर्चं तृतीयं सूक्तं प्रस्कण्वस्यार्षम् । इदमुत्तरं चाश्विनं गायत्रीच्छन्दस्कम् । अत्रानुक्रमणिका । एषो पञ्चोनाश्विनं तु गायत्रमिति [?] ॥ प्रातरनुवाक आश्विने क्रतौ गायत्रीच्छन्दस्याश्विनशस्त्रे चेदं सूक्तं । आथाश्विन एषो उषाः । आ. ४-१३ [?] । इति सूत्रितम् ॥
+> एषो उषा इति पञ्चदशर्चं तृतीयं सूक्तं प्रस्कण्वस्यार्षम् । इदमुत्तरं चाश्विनं गायत्रीच्छन्दस्कम् । अत्रानुक्रमणिका । एषो पञ्चोनाश्विनं तु गायत्रमिति ॥ प्रातरनुवाक आश्विने क्रतौ गायत्रीच्छन्दस्याश्विनशस्त्रे चेदं सूक्तं । अथाश्विन एषो उषाः । आ. ४-१५ । इति सूत्रितम् ॥
 
-*eṣo uṣā iti pañcadaśarcaṃ tṛtīyaṃ sūktaṃ praskaṇvasyārṣam | idam uttaraṃ cāśvinaṃ gāyatrīchandaskam | atrānukramaṇikā | eṣo pañconāśvinaṃ tu gāyatram iti [?] || prātaranuvāka āśvine kratau gāyatrīchandasyāśvinaśastre cedaṃ sūktaṃ | āthāśvina eṣo uṣāḥ | ā. 4-13 [?] | iti sūtritam ||*
+*eṣo uṣā iti pañcadaśarcaṃ tṛtīyaṃ sūktaṃ praskaṇvasyārṣam | idam uttaraṃ cāśvinaṃ gāyatrīchandaskam | atrānukramaṇikā | eṣo pañconāśvinaṃ tu gāyatram iti || prātaranuvāka āśvine kratau gāyatrīchandasyāśvinaśastre cedaṃ sūktaṃ | athāśvina eṣo uṣāḥ | ā. 4-15 | iti sūtritam ||*
 
-**Translation** *(mine, tentative; the Anukramaṇikā clause and the Āśvalāyana reference are read with doubt)*: "'*Eṣo uṣāḥ*' is the third sūkta, of fifteen ṛks, the *ārṣa* (revelation) of Praskaṇva. This one and the following are Āśvina and in the Gāyatrī metre. The Anukramaṇikā here: '*eṣo pañconā aśvinaṃ tu gāyatram*' [?]. In the Prātaranuvāka, at the Āśvina rite, this sūkta is [used] in the Gāyatrī-metre Āśvina-śastra; it is prescribed by '*athāśvina eṣo uṣāḥ*' (Āśv. 4-13 [?])."
+**Translation** *(mine, tentative)*: "'*Eṣo uṣāḥ*' is the third sūkta, of fifteen ṛks, the *ārṣa* (revelation) of Praskaṇva. This one and the following are Āśvina and in the Gāyatrī metre. The Anukramaṇikā here: '*eṣo pañconāśvinaṃ tu gāyatram*'. In the Prātaranuvāka, at the Āśvina rite, this sūkta is [used] in the Gāyatrī-metre Āśvina-śastra; it is prescribed by '*athāśvina eṣo uṣāḥ*' (Āśv. 4-15)."
 
-**Anuvāda (Kannada), p. 571** — "*Eṣo uṣā* is the third sūkta in the ninth anuvāka. In it there are fifteen ṛks. The ṛṣi of this sūkta is Praskaṇva. This sūkta and the next sūkta have the Aśvin gods as deity; this sūkta is in the Gāyatrī metre. The Anukramaṇikā says: '*eṣo pañconāśvinaṃ tu gāyatram*' [?]. In the time of reciting the mantras of the Prātaranuvāka this sūkta is used for reciting the Gāyatrī-metre Āśvina-śastra mantras connected with the Āśvina rite; this is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*athāśvina eṣo uṣāḥ*' (Ā. 4-13 [?])."
+**Anuvāda (Kannada), p. 571** — "*Eṣo uṣā* is the third sūkta in the ninth anuvāka. In it there are fifteen ṛks. The ṛṣi of this sūkta is Praskaṇva. This sūkta and the next sūkta have the Aśvin gods as deity; this sūkta is in the Gāyatrī metre. The Anukramaṇikā says: '*eṣo pañconāśvinaṃ tu gāyatram*'. In the time of reciting the mantras of the Prātaranuvāka this sūkta is used for reciting the Gāyatrī-metre Āśvina-śastra mantras connected with the Āśvina rite; this is explained in the Āśvalāyana Śrauta-sūtra by the sūtra '*athāśvina eṣo uṣāḥ*' (Ā. 4-15)." *(Ā. 4-15 in both places, zoom-checked.)*
+
+### Page 572
 
 **॥ ॐ ॥**
 
 > **सूक्त — ४६**
 > ॥ मण्डल — १ ॥ अनुवाक — ९ ॥ सूक्त — ४६ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [३३], [३४], [३५] ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — ३३, ३४, ३५ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
 > ॥ ऋषिः — प्रस्कण्वः काण्वः ॥
 > ॥ देवता — अश्विनौ ॥
 > ॥ छन्दः — गायत्री ॥
 
-*sūkta 46 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 3 | varga [33], [34], [35] | ṛks 15 | ṛṣi: Praskaṇva Kāṇva | devatā: the Aśvins | chandas: Gāyatrī.*
+*sūkta 46 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 3 | varga 33, 34, 35 | ṛks 15 | ṛṣi: Praskaṇva Kāṇva | devatā: the Aśvins | chandas: Gāyatrī.*
 
-*(The varga numerals are small and read with doubt, [?]; "sūktadalliruva ṛksaṃkhyai" is Kannada for "number of ṛks in the sūkta", left in its Kannada form as in earlier sūktas.)*
+*(Varga numerals 33, 34, 35 confirmed on the better scan, PDF 587; "sūktadalliruva ṛksaṃkhyai" is Kannada for "number of ṛks in the sūkta", left in its Kannada form as in earlier sūktas.)*
 
 ### Rik 46.1 (pp. 572–573, PDF 586–587)
 
