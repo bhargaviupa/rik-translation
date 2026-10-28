@@ -143,10 +143,13 @@ The grammar of Rik 1 runs on from p. 5 through p. 7 in Kannada prose, with the s
 
 ### Rik 33.2 (pp. 7–10, PDF 21–24)
 
-**Saṃhitā-pāṭha** *(p. 7; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 7; Saṃhitā accents as printed; Pada unaccented. In "vasatiṃ" the anudātta underline lies between *sa* and *ti*; I took it as *sa* [accent ?].)*
 
-> **उपेदहं धनदामप्रतीतं जुष्टां न श्येनो वसतिं पतामि ।**
-> **इन्द्रं नमस्यन्नुपमेभिरर्क्यैर्यः स्तोतृभ्यो हव्यो अस्ति यामन् ॥ २ ॥**
+> उपेद॒हं ध॑न॒दामप्र॑तीतं॒ जुष्टां॒ न श्ये॒नो व॑स॒तिं प॑तामि ।
+> इन्द्रं॑ नम॒स्यन्नु॑प॒मेभि॑र॒र्क्यैर्यः स्तो॒तृभ्यो॒ हव्यो॒ अस्ति॒ याम॑न् ॥ २ ॥
+>
+> *upedaháṃ dhanadā́mápratītaṃ júṣṭāṃ ná śyenó vasatíṃ patāmi |* [accent ?]
+> *índraṃ namasyánn upamébhir arkyáir yaḥ stotṛ́bhyo hávyo ásti yā́man || 2 ||*
 
 *uped ahaṃ dhanadām apratītaṃ juṣṭāṃ na śyeno vasatiṃ patāmi |*
 *indraṃ namasyann upamebhir arkyair yaḥ stotṛbhyo havyo asti yāman || 2 ||*
