@@ -3830,13 +3830,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.18 (pp. 239–244, PDF 253–258)
 
-**Saṃhitā-pāṭha** *(p. 239; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 239)*
 
-> **अग्निना तुर्वशं यदुं परावत उग्रादेवं हवामहे ।**
-> **अग्निर्नयन्नववास्त्वं बृहद्रथं तुर्वीतिं दस्यवे सहः ॥ १८ ॥**
+> अ॒ग्निना॑ तु॒र्वशं॒ यदुं॑ परा॒वत॑ उ॒ग्रादे॑वं हवामहे ।
+> अ॒ग्निर्न॑य॒न्नव॑वास्त्वं बृ॒हद्र॑थं तु॒र्वीतिं॒ दस्य॑वे॒ सहः॑ ॥ १८ ॥
 
-*agninā turvaśaṃ yaduṃ parāvata ugrādevaṃ havāmahe |*
-*agnir nayan navavāstvaṃ bṛhadrathaṃ turvītiṃ dasyave sahaḥ || 18 ||*
+*agnínā turváśaṃ yádūṃ parāvátá ugrā́devaṃ havāmahe |*
+*agnír nayánnávavāstvaṃ bṛhádrathaṃ turvī́tiṃ dásyave sáhaḥ || 18 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The underline in "parāvata" stands under* rā*, as printed.)*
 
 *(Reading note: the Saṃhitā's "ugrādevam" is the Pada's* ugra-devam *with Vedic lengthening of the first member; the print marks both the long vowel and the division.)*
 
@@ -3848,15 +3850,23 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *agninā | turvaśam | yadum | parā-vataḥ | ugra-devam | havāmahe ||*
 *agniḥ | nayat | nava-vāstvam | bṛhat-ratham | turvītim | dasyave | sahaḥ || 18 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 239–240; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 239–240, in full)*
 
-> अग्निना सहावस्थितान् तुर्वशनामकं यदुनामकमुग्रदेवनामकं च राजर्षीन्परावतो दूरादेशाद्धवामहे । आह्वयामः । स चाग्निर्नववास्तुनामकं बृहद्रथनामकं तुर्वीतिनामकं च राजर्षीन्नयत् । इहानयतु । कीदृशोऽग्निः । दस्यवे सहः अस्मदुपप्रवहेतोश्चोरस्याभिभविता ॥ नयत् । णीञ् प्रापणे । लेट्, तिप्, लेटोऽडाटौ । इतश्च लोपः परस्मैपदेषु । लेट्यडागमः । इतश्च लोप इतीकारलोपः । नववास्त्वम् । नवं वास्तु यस्यासौ नववास्तुः । वा छन्दसीत्यनुवृत्तेरमि पूर्वत्वाभावे यणादेशः । बृहद्रथम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+> अग्निना सहावस्थितान् तुर्वशनामकं यदुनामकमुग्रदेवनामकं च राजर्षीन्परावतो दूरादेशाद्धवामहे । आह्वयामः । स चाग्निर्नववास्तुनामकं बृहद्रथनामकं तुर्वीतिनामकं च राजर्षीन्नयत् । इहानयतु । कीदृशोऽग्निः । दस्यवे सहः अस्मदुपद्रवहेतोश्चोरस्याभिभविता ॥
 
-*agninā sahāvasthitān turvaśanāmakaṃ yadunāmakam ugradevanāmakaṃ ca rājarṣīn parāvato dūradeśād dhavāmahe | āhvayāmaḥ | sa cāgnir navavāstunāmakaṃ bṛhadrathanāmakaṃ turvītināmakaṃ ca rājarṣīn nayat | ihānayatu | kīdṛśo 'gniḥ | dasyave sahaḥ asmadupapravahetoś corasyābhibhavitā || nayat | ṇīñ prāpaṇe | leṭ, tip, leṭo 'ḍāṭau | itaś ca lopaḥ parasmaipadeṣu | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | navavāstvam | navaṃ vāstu yasyāsau navavāstuḥ | vā chandasīty anuvṛtter ami pūrvatvābhāve yaṇādeśaḥ | bṛhadratham | bahuvrīhau pūrvapadaprakṛtisvaratvam ||*
+*agninā sahāvasthitān turvaśanāmakaṃ yadunāmakamugradevanāmakaṃ ca rājarṣīnparāvato dūrādeśāddhavāmahe | āhvayāmaḥ | sa cāgnirnavavāstunāmakaṃ bṛhadrathanāmakaṃ turvītināmakaṃ ca rājarṣīnnayat | ihānayatu | kīdṛśo 'gniḥ | dasyave sahaḥ asmadupadravahetoścorasyābhibhavitā ‖*
+
+**Grammatical tail of the bhāṣya** *(pp. 239–240)*
+
+> नयत् । णीञ् प्रापणे । लेट्यडागमः । इतश्च लोप इतीकारलोपः । नववास्त्वम् । नवं वास्तु यस्यासौ नववास्तुः । वा छन्दसीत्यनुवृत्तेरमि पूर्वत्वाभावे यणादेशः । बृहद्रथम् । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*nayat | ṇīñ prāpaṇe | leṭyaḍāgamaḥ | itaśca lopa itīkāralopaḥ | navavāstvam | navaṃ vāstu yasyāsau navavāstuḥ | vā chandasītyanuvṛtterami pūrvatvābhāve yaṇādeśaḥ | bṛhadratham | bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
 
 **Translation:** "Staying together with Agni, the royal sages named *Turvaśa*, *Yadu* and *Ugradeva* we invoke *parāvataḥ* — from a far-off place. And may that Agni lead here the royal sages named *Navavāstu*, *Bṛhadratha* and *Turvīti*. What sort of Agni? *Dasyave sahaḥ* — the overcomer of the thief who is the cause of the carrying off of our [possessions]."
 
-**Grammar within the bhāṣya** *(p. 240, characterized)*: *nayat* (*ṇīñ prāpaṇe*, class 1; *leṭ*, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*; loss of *i* by *itaś ca lopaḥ parasmaipadeṣu*; *śap*; the two *a*'s by *ato guṇe*: *pararūpa*; *guṇa*; *ay*); *navavāstvam* (*navaṃ vāstu yasya*, "he who has a new house"; *amipūrvaḥ* does not make *pūrvarūpa* because *vā chandasi* continues, so *yaṇ*); *bṛhadratham* (first-member accent of a bahuvrīhi).
+### Page 240
+
+*(Sense of the tail:)* *nayat* (*ṇīñ prāpaṇe*, class 1; *leṭ*, *tip*; the augment *aṭ* by *leṭo 'ḍāṭau*; loss of *i* by *itaś ca lopaḥ parasmaipadeṣu*; *śap*; the two *a*'s by *ato guṇe*: *pararūpa*; *guṇa*; *ay*); *navavāstvam* (*navaṃ vāstu yasya*, "he who has a new house"; *amipūrvaḥ* does not make *pūrvarūpa* because *vā chandasi* continues, so *yaṇ*); *bṛhadratham* (first-member accent of a bahuvrīhi).
 
 **Pratipadārtha** *(p. 240)* — "**agninā** — together with the Agni deity (and the others); **turvaśam, yadum, ugradevam** — the royal sages named Turvaśa, Yadu and Ugradeva; **parāvataḥ** — from a far-off place; **havāmahe** — we invite; **dasyave sahaḥ** — [Agni who] checks and conquers the robber, the strong rākṣasa; **agniḥ** — Agni; **navavāstvam, bṛhadratham, turvītim** — the royal sages named Navavāstu, Bṛhadratha, Turvīti, too; **nayat** — may he bring to this sacrificial ground."
 
@@ -3868,27 +3878,29 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 "In this ṛk the ṛṣi mentions the names of certain well-known and little-known persons; their names appear to have been in use among the people of that time."
 
-**turvaśam** — "*Turvaśa* is the name of a man or of a tribe (*janāṅga*). This word is read in many contexts in the Ṛgveda together with the word *yadu*, another masculine word. Since these two words are used each with its own case-ending and number, the two are different persons. Some examples on this matter *(the ṛks are untranslated in the source; the numerals are small and I give them with [?]; my glosses are **mine and tentative**)*:"
+**turvaśam** — "*Turvaśa* is the name of a man or of a tribe (*janāṅga*). This word is read in many contexts in the Ṛgveda together with the word *yadu*, another masculine word. Since these two words are used each with its own case-ending and number, the two are different persons. Some examples on this matter *(the ṛks are untranslated in the source; my glosses are **mine and tentative**)*:"
 
-> १. त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो । (ऋ. सं. १-५४-६ [?])
-> २. प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति । (ऋ. सं. १-१७४-९ [?]; ६-२०-१२ [?])
+### Page 241
+
+> १. त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो । (ऋ. सं. १-५-६, as printed)
+> २. प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति । (ऋ. सं. १-१७-९ [as printed]; ६-२०-१२)
 > ३. य आनयत्परावतः सुनीती तुर्वशं यदुम् । इन्द्रः स नो युवा सखा । (ऋ. सं. ६-४५-१ [?])
-> ४. महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् । (ऋ. सं. ८-४-७ [?])
-> ५. येनाव तुर्वशं यदुं येन कण्वं धनस्पृतम् । (ऋ. सं. ८-५-२ [?])
-> ६. इमे सोमास अधि तुर्वशे यदौ इमे कण्वेषु वामथ । (ऋ. सं. ८-९-१४ [?])
-> ७. सत्यं तत्तुर्वशे यदौ विदानो अह्नवाय्यम् । (ऋ. सं. ८-४५-२७ [?])
-> ८. अहं सप्तहा नहुषो नहुष्टरः प्राश्रावयं शवसा तुर्वशं यदुम् । (ऋ. सं. १०-४९-८ [?])
-> ९. यदिन्द्राग्नी यदुषु तुर्वशेषु यद्द्रुह्युष्वनुषु पूरुषु स्थः । (ऋ. सं. १-१०८-८ [?])
+> ४. महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् । (ऋ. सं. ८-४-७)
+> ५. येनाव तुर्वशं यदुं येन कण्वं धनस्पृतम् । (ऋ. सं. ८-४-७, as printed)
+> ६. इमे सोमास अधि तुर्वशे यदौ इमे कण्वेषु वामथ । (ऋ. सं. ८-९-१४)
+> ७. सत्यं तत्तुर्वशे यदौ विदानो अह्नवाय्यम् । (ऋ. सं. ८-४५-२७)
+> ८. अहं सप्तहा नहुषो नहुष्टरः प्राश्रावयं शवसा तुर्वशं यदुम् । (ऋ. सं. १०-४९-८)
+> ९. यदिन्द्राग्नी यदुषु तुर्वशेषु यद्द्रुह्युष्वनुषु पूरुषु स्थः । (ऋ. सं. १-१०८-८)
 
-*1. tvam āvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato | (ṛ. saṃ. 1-54-6 [?])*
-*2. pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti | (ṛ. saṃ. 1-174-9 [?]; 6-20-12 [?])*
+*1. tvam āvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato | (ṛ. saṃ. 1-5-6, as printed)*
+*2. pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti | (ṛ. saṃ. 1-17-9 [as printed] and 6-20-12)*
 *3. ya ānayat parāvataḥ sunītī turvaśaṃ yadum | indraḥ sa no yuvā sakhā | (ṛ. saṃ. 6-45-1 [?])*
-*4. mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7 [?])*
-*5. yenāva turvaśaṃ yaduṃ yena kaṇvaṃ dhanaspṛtam | (ṛ. saṃ. 8-5-2 [?])*
-*6. ime somāsa adhi turvaśe yadau ime kaṇveṣu vām atha | (ṛ. saṃ. 8-9-14 [?])*
-*7. satyaṃ tat turvaśe yadau vidāno ahnavāyyam | (ṛ. saṃ. 8-45-27 [?])*
-*8. ahaṃ saptahā nahuṣo nahuṣṭaraḥ prāśrāvayaṃ śavasā turvaśaṃ yadum | (ṛ. saṃ. 10-49-8 [?])*
-*9. yad indrāgnī yaduṣu turvaśeṣu yad druhyuṣv anuṣu pūruṣu sthaḥ | (ṛ. saṃ. 1-108-8 [?])*
+*4. mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7)*
+*5. yenāva turvaśaṃ yaduṃ yena kaṇvaṃ dhanaspṛtam | (ṛ. saṃ. 8-4-7, as printed)*
+*6. ime somāsa adhi turvaśe yadau ime kaṇveṣu vām atha | (ṛ. saṃ. 8-9-14)*
+*7. satyaṃ tat turvaśe yadau vidāno ahnavāyyam | (ṛ. saṃ. 8-45-27)*
+*8. ahaṃ saptahā nahuṣo nahuṣṭaraḥ prāśrāvayaṃ śavasā turvaśaṃ yadum | (ṛ. saṃ. 10-49-8)*
+*9. yad indrāgnī yaduṣu turvaśeṣu yad druhyuṣv anuṣu pūruṣu sthaḥ | (ṛ. saṃ. 1-108-8)*
 
 *(Mine and tentative: 1. "you helped the heroic Turvaśa and Yadu, you [helped] Turvīti and Vayya, O Śatakratu"; 2. "when you, O hero, cross the sea, bring Turvaśa and Yadu across in safety"; 3. "[Indra] who led Turvaśa and Yadu from afar with good guidance — that Indra is our young friend"; 4. "great is your visible deed, O bull; may we see Turvaśa and Yadu"; 5. "[the aid] with which [you helped] Turvaśa and Yadu, with which Kaṇva, the wealth-gaining"; 6. "these soma[s are] for Turvaśa and Yadu, these for the Kaṇvas, and for you two"; 7. "that is true [for] Turvaśa and Yadu, [you who] knew what was not to be denied [?]"; 8. "I, the slayer of seven, Nahuṣa-like, made Turvaśa and Yadu hear [of] my might"; 9. "when, O Indra and Agni, you are among the Yadus, Turvaśas, Druhyus, Anus, Pūrus". All are tentative.)*
 
@@ -3896,45 +3908,51 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 "Turvaśa's chief act was a war with a king named Sudāsa. He could not be conquered by them [Sudāsa's men?]; and he fled out of fear. For this reason the scholar **Hopkins** [the print's Latin letters] thinks that the name *Turvaśa* [= 'he who escapes from the field'] came to him. In some ṛks it is said that Indra helped him to come back safe from the battle:"
 
-> प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति ॥ (ऋ. सं. १-१७४-९ [?])
-> उत त्या तुर्वशायदू अस्नातारा शचीपतिः । इन्द्रो विद्वाँ अपारयत् ॥ (ऋ. सं. ४-३०-१७ [?])
-> त्वमपो यदवे तुर्वशायारमयः सुदुघाः पार इन्द्र । (ऋ. सं. ५-३१-८ [?])
-> महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् । (ऋ. सं. ८-४-७ [?])
+### Page 242
 
-*pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti || (ṛ. saṃ. 1-174-9 [?])*
-*uta tyā turvaśāyadū asnātārā śacīpatiḥ | indro vidvām̐ apārayat || (ṛ. saṃ. 4-30-17 [?])*
-*tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra | (ṛ. saṃ. 5-31-8 [?])*
-*mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7 [?])*
+> प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति ॥ (ऋ. सं. १-१७४-९)
+> उत त्या तुर्वशायदू अस्नातारा शचीपतिः । इन्द्रो विद्वाँ अपारयत् ॥ (ऋ. सं. ४-३०-१७)
+> त्वमपो यदवे तुर्वशायारमयः सुदुघाः पार इन्द्र । (ऋ. सं. ५-३१-८)
+> महत्ते वृष्णो अभिचक्ष्यं कृतं पश्येम तुर्वशं यदुम् । (ऋ. सं. ८-४-७)
+
+*pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti || (ṛ. saṃ. 1-174-9)*
+*uta tyā turvaśāyadū asnātārā śacīpatiḥ | indro vidvām̐ apārayat || (ṛ. saṃ. 4-30-17)*
+*tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra | (ṛ. saṃ. 5-31-8)*
+*mahat te vṛṣṇo abhicakṣyaṃ kṛtaṃ paśyema turvaśaṃ yadum | (ṛ. saṃ. 8-4-7)*
 
 *(Mine and tentative: "and those two, Turvaśa and Yadu, [who were] not swimmers — Indra, lord of power, knowing, carried them across"; "you set the waters [to rest], easily-milked, for Yadu and Turvaśa, O Indra, [so that they went] to the far shore".)* "In the war with Sudāsa mentioned above, Anu and Druhyu are described as defeated and drowned in the water; Turvaśa and Yadu alone came out alive by Indra's help."
 
-> य आनयत्परावतः सुनीती तुर्वशं यदुम् । (ऋ. सं. ६-४५-१ [?])
-> पुरः सद्य इत्थाधिये दिवोदासाय शम्बरम् । अध त्यं तुर्वशं यदुम् ॥ (ऋ. सं. ७-१९-८ [?])
+> य आनयत्परावतः सुनीती तुर्वशं यदुम् । (ऋ. सं. ६-४५-१)
+> पुरः सद्य इत्थाधिये दिवोदासाय शम्बरम् । अध त्यं तुर्वशं यदुम् ॥ (ऋ. सं. ९-६१-२, as printed)
 
-*ya ānayat parāvataḥ sunītī turvaśaṃ yadum | (ṛ. saṃ. 6-45-1 [?])*
-*puraḥ sadya itthādhiye divodāsāya śambaram | adha tyaṃ turvaśaṃ yadum || (ṛ. saṃ. 7-19-8 [?])*
+*ya ānayat parāvataḥ sunītī turvaśaṃ yadum | (ṛ. saṃ. 6-45-1)*
+*puraḥ sadya itthādhiye divodāsāya śambaram | adha tyaṃ turvaśaṃ yadum || (ṛ. saṃ. 9-61-2, as printed)*
 
-*(Mine and tentative: "…the fortresses at once, for the pious Divodāsa, [and] Śambara; and then that Turvaśa and Yadu".)* "In these ṛks there is mention that Turvaśa and Yadu fought with Divodāsa, Sudāsa's father. The account of this war is given in the verses 3–5 [?] of the 18th [?] sūkta of the 6th maṇḍala of the Ṛgveda Saṃhitā. Here some say that the *Vṛcīvants* are the Turvaśas, and others that the Vṛcīvants and the Turvaśas are different tribes, while others hold that they were each other's helpers in battle. This war seems to have taken place on the bank of the river Yavyāvatī. In the Śatapatha Brāhmaṇa [Śat. Brā. 13-5-4-[?] [?]] there is a description that the Turvaśas and the Pañcālas were friends in battle, and that the Turvaśas had [numbers read as '13?' horses and '6000' [?]] fighting warriors. From the Ṛgveda's 8th [?] sūkta [verse 7 [?]] it is clear that the Turvaśas crossed a river called Paruṣṇī; but the place where these Turvaśas lived is not clear."
+*(Mine and tentative: "…the fortresses at once, for the pious Divodāsa, [and] Śambara; and then that Turvaśa and Yadu".)* "In these ṛks there is mention that Turvaśa and Yadu fought with Divodāsa, Sudāsa's father. The account of this war is given in the verses 5–7 of the 27th sūkta of the 6th maṇḍala of the Ṛgveda Saṃhitā. Here some say that the *Vṛcīvants* are the Turvaśas, and others that the Vṛcīvants and the Turvaśas are different tribes, while others hold that they were each other's helpers in battle. This war seems to have taken place on the bank of the river Yavyāvatī. In the Śatapatha Brāhmaṇa (Śata. Brā. 13-5-4-16) there is a description that the Turvaśas and the Pañcālas were friends in battle, and that the Turvaśas had 33 horses and 6000 fighting warriors. From the Ṛgveda's sūkta 7-18 it is known that the Turvaśas crossed a river called Paruṣṇī; but the place where these Turvaśas lived is not clear."
 
-**ugradevam** — "For this word the bhāṣyakāra says only '*etannāmakaṃ rājarṣim*' — 'the royal sage of this name'. Who this Ugradeva was, and what is known of him, is not clear. This word occurs in the Ṛgveda only in this ṛk. It is also found in the Pañcaviṃśa Brāhmaṇa of the Sāmaveda [Pañc. Brā. 14-3-12 [?] and 25-10-11 [?]] and in the Taittirīya Āraṇyaka [Tai. Ā. 5-4-12 [?]]. No further account is found."
+**ugradevam** — "For this word the bhāṣyakāra says only '*etannāmakaṃ rājarṣim*' — 'the royal sage of this name'. Who this Ugradeva was, and what is known of him, is not clear. This word occurs in the Ṛgveda only in this ṛk. It is also found in the Pañcaviṃśa Brāhmaṇa of the Sāmaveda (Pañ. Brā. 14-3-12 and 23-16-11) and in the Taittirīya Āraṇyaka (Tai. Ā. 5-4-12). No further account is found."
+
+### Page 243
 
 **navavāstvam, bṛhadratham** — "The word *navavāstva* is read in the Ṛgveda in the ṛk now at hand and in these ṛks only:"
 
-> परा नववास्त्वमनुदेयं महे पित्रे ददाथ स्वं नपातम् । (ऋ. सं. ६-२०-११ [?])
-> अहं स यो नववास्त्वं बृहद्रथं सं वृत्रेव दासं वृत्रहारुजम् ॥ (ऋ. सं. १०-४९-६ [?])
+> परा नववास्त्वमनुदेयं महे पित्रे ददाथ स्वं नपातम् । (ऋ. सं. ६-२०-११)
+> अहं स यो नववास्त्वं बृहद्रथं सं वृत्रेव दासं वृत्रहारुजम् ॥ (ऋ. सं. १०-४९-६)
 
-*parā navavāstvam anudeyaṃ mahe pitre dadātha svaṃ napātam | (ṛ. saṃ. 6-20-11 [?])*
-*ahaṃ sa yo navavāstvaṃ bṛhadrathaṃ saṃ vṛtreva dāsaṃ vṛtrahārujam || (ṛ. saṃ. 10-49-6 [?])*
+*parā navavāstvam anudeyaṃ mahe pitre dadātha svaṃ napātam | (ṛ. saṃ. 6-20-11)*
+*ahaṃ sa yo navavāstvaṃ bṛhadrathaṃ saṃ vṛtreva dāsaṃ vṛtrahārujam || (ṛ. saṃ. 10-49-6)*
 
-*(Mine and tentative, the first very uncertain: "[you gave] Navavāstva, a grandson of one to be granted, to the great father [?]"; "I am he who [broke] Navavāstva [and] Bṛhadratha, like [one breaks] a Vṛtra-foe, a Dāsa".)* "In the first ṛk Navavāstva is spoken of together with Agni; from the above examples it is understood that Indra was helping [him]. And the sense that he is the son of Uśanas, dear to Indra, is implied. But in the last example the matter of Bṛhadratha's being defeated by Indra is stated in two ṛks only — in the ṛk of the Ṛgveda now in question and in the above [10-49-6 [?]]. Since in both places the word *bṛhadratha* is used together with the word *navavāstva*, it is open to doubt whether this Bṛhadratha is a different person, or whether the word *bṛhadratha* (a great charioteer) is an adjective of *navavāstva*. Mainly, about Navavāstva and Bṛhadratha we do not find any more in the Ṛgveda."
+*(Mine and tentative, the first very uncertain: "[you gave] Navavāstva, a grandson of one to be granted, to the great father [?]"; "I am he who [broke] Navavāstva [and] Bṛhadratha, like [one breaks] a Vṛtra-foe, a Dāsa".)* "In the first ṛk Navavāstva is spoken of together with Agni; from the above examples it is understood that Indra was helping [him]. And the sense that he is the son of Uśanas, dear to Indra, is implied. But in the last example the matter of Bṛhadratha's being defeated by Indra is stated in two ṛks only — in the ṛk of the Ṛgveda now in question and in the above (Ṛ. Saṃ. 10-49-6). Since in both places the word *bṛhadratha* is used together with the word *navavāstva*, it is open to doubt whether this Bṛhadratha is a different person, or whether the word *bṛhadratha* (a great charioteer) is an adjective of *navavāstva*. Mainly, about Navavāstva and Bṛhadratha we do not find any more in the Ṛgveda."
 
-**turvītim** — "This word is read in the ṛk now in question; in the ṛks [1-54-6 [?]; 1-112-23 [?]] [also] the word *turvīti* [is read], and the word *turvītaye* [is read] only in the ṛks 1-61-11 [?]; 2-13-12 [?]; 4-19-6 [?]. In some contexts this word is used together with the name of a person named *Vayya*. In some of the above ṛks it is said that Indra helped Turvīti and Vayya to cross the course of a river; **Ludwig** and some other Western scholars take this Turvīti to be the king of the tribes Turvaśa and Yadu. But there is no proof to support that. It may only be said that he was also one of the Turvaśa tribe."
+**turvītim** — "This word is read in the ṛk now in question; in the ṛks Ṛ. Saṃ. 1-54-6; 1-112-23 [also] the word *turvīti* [is read], and the word *turvītaye* [is read] only in the ṛks Ṛ. Saṃ. 1-61-11; 2-13-12; 4-19-6. In some contexts this word is used together with the name of a person named *Vayya*. In some of the above ṛks it is said that Indra helped Turvīti and Vayya to cross the course of a river; **Ludwig** and some other Western scholars take this Turvīti to be the king of the tribes Turvaśa and Yadu. But there is no proof to support that. It may only be said that he was also one of the Turvaśa tribe."
 
 - **dasyave sahaḥ** — "as the bhāṣyakāra says, [Agni] who overcomes the thief."
 
+### Page 244
+
 **Vyākaraṇa-prakriyā** *(p. 244, PDF 258 — grammar page, noted briefly)*
-- **nayat**: root *ṇīñ prāpaṇe*, of the first class; *leṭ*, *tip*; *leṭo 'ḍāṭau* — लेटोऽडाटौ — [Pā. 3-4-94]: *aṭ* for the *leṭ*-ending; *itaś ca lopaḥ parasmaipadeṣu* — इतश्च लोपः परस्मैपदेषु — [Pā. 3-4-97]: the *i* of the ending is lost; *śap*; *ato guṇe* — the two *a*'s [of *aṭ* and *śap*] take *pararūpa*; *guṇa*; *ay*-substitution.
-- **navavāstvam**: *navaṃ vāstu yasya saḥ* — "he who has a new dwelling": the sense of the parts; here it applies only to the name; the second case singular *am*: *navavāstu + am*; *amipūrvaḥ* — अमि पूर्वः — [Pā. 6-1-107]: before *am* the *pūrvarūpa* comes for *ak*-final bases, but "*vā chandasi*" [Pā. 6-1-106] is carried on, so in the Veda it is optional: hence it does not arise, and the *yaṇ*-substitution comes.
+- **nayat**: root *ṇīñ prāpaṇe*, of the first class; *leṭ*, *tip*; *leṭo 'ḍāṭau* — लेटोऽडाटौ — (Pā. 3-4-94): *aṭ* for the *leṭ*-ending; *itaś ca lopaḥ parasmaipadeṣu* — इतश्च लोपः परस्मैपदेषु — (Pā. 3-4-97): the *i* of the ending is lost; *śap*; *ato guṇe* — the two *a*'s [of *aṭ* and *śap*] take *pararūpa*; *guṇa*; *ay*-substitution.
+- **navavāstvam**: *navaṃ vāstu yasya saḥ* — "he who has a new dwelling": the sense of the parts; here it applies only to the name; the second case singular *am*: *navavāstu + am*; *amipūrvaḥ* — अमि पूर्वः — (Pā. 6-1-107): before *am* the *pūrvarūpa* comes for *ak*-final bases, but "*vā chandasi*" (no number printed) is carried on, so in the Veda it is optional: hence it does not arise, and the *yaṇ*-substitution comes.
 - **bṛhadratham**: by the nature of a bahuvrīhi the first member keeps its natural accent. Rik 18 ends here (*|| 18 ||*).
 
 ### Rik 36.19 (pp. 244–247, PDF 258–261)
