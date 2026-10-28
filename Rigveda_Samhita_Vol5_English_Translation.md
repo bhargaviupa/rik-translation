@@ -7350,31 +7350,33 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 57.6 (pp. 408–411, PDF 424–427)
 
-**Saṃhitā-pāṭha** *(p. 408)*
+**Saṃhitā-pāṭha** *(p. 408; accents as printed)*
 
-> **त्वं तमिन्द्र पर्वतं महामुरुं वज्रेण वज्रिन्पर्वशश्चकर्तिथ ।**
-> **अवासृजो निवृताः सर्तवा अपः सत्रा विश्वं दधिषे केवलं सहः ॥ ६ ॥**
+> **त्वं तमि॑न्द्र॒ पर्व॑तं म॒हामु॒रुं वज्रे॑ण वज्रिन्पर्व॒शश्च॑कर्तिथ ।**
+> **अवा॑सृजो॒ निवृ॑ताः सर्त॒वा अ॒पः स॒त्रा विश्वं॑ दधिषे॒ केव॑लं॒ सहः ॥ ६ ॥**
 
-*tvaṃ tam indra parvataṃ mahām uruṃ vajreṇa vajrin parvaśaś cakartitha |*
-*avāsṛjo nivṛtāḥ sartavā apaḥ satrā viśvaṃ dadhiṣe kevalaṃ sahaḥ || 6 ||*
+*tváṃ tám indra párvatam mahā́m urúṃ vájreṇa vajrin parvaśáś cakartitha |*
+*ávāsṛjo nívṛtāḥ sartavā́ apáḥ satrā́ viśvaṃ dadhiṣe kévalaṃ sahaḥ || 6 ||*
+
+*([accent ?] on सहः: a stroke stands between स and ह; two stray marks follow the verse number.)*
 
 **Pada-pāṭha** *(p. 408)*
 
-> त्वम् । तम् । इन्द्र । पर्वतम् । महान् । उरुम् । वज्रेण । वज्रिन् । पर्वऽशः । चकर्तिथ ।
+> त्वम् । तम् । इन्द्र । पर्वतम् । महाम् । उरुम् । वज्रेण । वज्रिन् । पर्वऽशः । चकर्तिथ ।
 > अव । असृजः । निऽवृताः । सर्तवै । अपः । सत्रा । विश्वम् । दधिषे । केवलम् । सहः ॥ ६ ॥
 
-*tvam | tam | indra | parvatam | mahān | urum | vajreṇa | vajrin | parva-śaḥ | cakartitha |*
+*tvam | tam | indra | parvatam | mahām | urum | vajreṇa | vajrin | parva-śaḥ | cakartitha |*
 *ava | asṛjaḥ | ni-vṛtāḥ | sartavai | apaḥ | satrā | viśvam | dadhiṣe | kevalam | sahaḥ || 6 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 409)*
 
-> **हे वज्रिन्नायुधवन्निन्द्र त्वं तं प्रसिद्धं महान्मायामतो महान्तमुरुं विस्तीर्णं सर्वं पर्वतं पर्ववन्तं मेघं वृत्रासुरं वा वज्रेणायुधेन पर्वशः पर्वणि पर्वणि चकर्तिथ । शकलीचकृषे । तेन मेघेन निवृता आवृता अपः सर्तवै सरणाय गमनायावासृजः । आवाङ्मुखमस्राक्षीः । अतस्त्वमेव केवलं विश्वं व्याप्तं सहो बलं दधिषे । धारयसि । नान्यः कश्चिदिति । यदेतत्सत्रा सत्यमेव । सत्रेति सत्यनाम । सत्रेत्थेति तन्नामसु पाठात् ॥**
+> **हे वज्रिन्वज्रवन्निन्द्र त्वं तं प्रसिद्धं महामायामतो महान्तमुरुं विस्तीर्णं पर्वतं पर्ववन्तं मेघं वृत्रासुरं वा वज्रेणायुधेन पर्वशः पर्वणि पर्वणि चकर्तिथ । शकलीचकृषे । तेन मेघेन निवृता आवृता अपः सर्तवै सरणाय गमनायावासृजः । अवाङ्मुखमस्राक्षीः । अतस्त्वमेव केवलं विश्वं व्याप्तं सहो बलं दधिषे । धारयसि । नान्यः कश्चिदिति । यदेतत्तत्सत्रा सत्यमेव । सत्रेति सत्यनाम । सत्रेत्थेति तन्नामसु पाठात् ॥**
 
-*he vajrinn āyudhavann indra tvaṃ taṃ prasiddhaṃ mahān māyāmato mahāntam uruṃ vistīrṇaṃ sarvaṃ parvataṃ parvavantaṃ megham vṛtrāsuraṃ vā vajreṇāyudhena parvaśaḥ parvaṇi parvaṇi cakartitha | śakalīcakṛṣe | tena meghena nivṛtā āvṛtā apaḥ sartavai saraṇāya gamanāyāvāsṛjaḥ | avāṅmukham asrākṣīḥ | atas tvam eva kevalaṃ viśvaṃ vyāptaṃ saho balaṃ dadhiṣe | dhārayasi | nānyaḥ kaścid iti | yad etat satrā satyam eva | satreti satyanāma | satrettheti tannāmasu pāṭhāt ||*
+*he vajrin vajravann indra tvaṃ taṃ prasiddhaṃ mahām āyāmato mahāntam uruṃ vistīrṇaṃ parvataṃ parvavantaṃ megham vṛtrāsuraṃ vā vajreṇāyudhena parvaśaḥ parvaṇi parvaṇi cakartitha | śakalīcakṛṣe | tena meghena nivṛtā āvṛtā apaḥ sartavai saraṇāya gamanāyāvāsṛjaḥ | avāṅmukham asrākṣīḥ | atas tvam eva kevalaṃ viśvaṃ vyāptaṃ saho balaṃ dadhiṣe | dhārayasi | nānyaḥ kaścid iti | yad etat tat satrā satyam eva | satreti satyanāma | satrettheti tannāmasu pāṭhāt ||*
 
-*(Reading note: "*mahān māyāmato mahāntam*" at the start is crowded, [?]. The tail, p. 409: on* mahān*,* cakartitha *(*kṛtī chedane*; *liṭ* second singular; doubling;* thal*; *iṭ*;* ṛ *→ *ar*),* sartavai *(*sṛ gatau*, *tavai*),* dadhiṣe*.)*
+*(The tail, p. 409: on* mahām *(*mahāntam*; loss of *n* and *t* is Vedic),* cakartitha *(*kṛtī chedane*; *liṭ* second singular; doubling;* thal*; *iṭ*;* ṛ *→ *ar*),* sartavai *(*sṛ gatau*, *tavai*; *kṛn mejantaḥ*, Pā. 1-1-39: *avyaya*; *antaś ca tavai yugapat*),* dadhiṣe *(*iṭ* by the *krādi* rule).)*
 
-**Translation of the bhāṣya:** "O *vajrin*, wielder of the weapon, Indra, you, *taṃ parvatam*, that well-known cloud (*parvata*, the one with joints) or the Asura Vṛtra — great, broad, vast — *vajreṇa*, with your thunderbolt, *parvaśaḥ*, joint by joint, *cakartitha*, cut up into pieces; and the waters *nivṛtāḥ*, enclosed by that cloud, *sartavai*, to flow, you *ava asṛjaḥ*, let down, turned the mouth downward. Therefore you alone *dadhiṣe*, hold, *viśvam kevalam sahaḥ*, all-pervading strength; none other: *satrā*, truly — *satra* is a name for truth, since 'satrā' is read among the names of truth ('*satrā itthā*')."
+**Translation of the bhāṣya:** "O *vajrin*, holder of the *vajra*, Indra, you, *taṃ parvatam*, that well-known cloud (*parvata*, the one with joints) or the Asura Vṛtra — *mahām*, great in extent, *urum*, broad — *vajreṇa*, with your thunderbolt, *parvaśaḥ*, joint by joint, *cakartitha*, cut up into pieces; and the waters *nivṛtāḥ*, enclosed by that cloud, *sartavai*, to flow, you *ava asṛjaḥ*, let down, turned the mouth downward. Therefore you alone *dadhiṣe*, hold, *viśvam kevalam sahaḥ*, all-pervading strength; none other: *satrā*, truly — *satra* is a name for truth, since 'satrā' is read among the names of truth ('*satrā itthā*')."
 
 **Pratipadārtha** *(p. 409)* — "**vajrin** — wielder of the thunderbolt; **indra** — O Indra; **tvam** — you; **tam** — that well-known; **mahān** — great; **urum** — wide; **parvatam** — cloud, or Vṛtra; **vajreṇa** — with your thunderbolt; **parvaśaḥ** — in each joint; **cakartitha** — cut up in pieces; **nivṛtāḥ** — enclosed by that cloud; **apaḥ** — waters; **sartavai** — to flow; **ava asṛjaḥ** — let down; **kevalam** — you alone; **viśvam sahaḥ** — all power; **dadhiṣe** — hold; **satrā** — this is truth."
 
@@ -7384,8 +7386,8 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 409–410**
 - **mahān** — "Great in extent."
-- **parvatam** — "This word is explained as the cloud (Ni. 3-… as read [?]), or Vṛtra the Asura in the form of a cloud, or the mountain. Yāska says '*parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā | devān asmin prīṇantīti | megho 'pi giries tasmād eva*' (Ni. 1-20 as read [?])." *(In the print the second half is as the first, "*parvataḥ*"; the sense: 'a parvata has joints; "parva" is from "pṛ" to fill or "prī" to please; the gods are pleased in it; the cloud too is a *giri*, from the same'.)*
-- **satrā** — "It conveys the sense of 'truth'. In the Nirukta the word *satrā* is read among the synonyms of truth: '*satrā itthā*' (Ni. 3-10 as read [?])."
+- **parvatam** — "This word is explained as the cloud (Ni. 2-21), or Vṛtra the Asura in the form of a cloud, or the mountain. Yāska says 'पर्ववान् पर्वतः । पर्व पुनः प्रीणातेर्वा । देवानस्मिन् प्रीणन्तीति । मेघोऽपि गिरिरेतस्मादेव (*parvavān parvataḥ | parva punaḥ prīṇāter vā | devān asmin prīṇantīti | megho 'pi girir etasmād eva*)' (Ni. 1-20)." *(The sense: 'a parvata has joints; "parva" is from "prī", to please; the gods are pleased in it; the cloud too is a *giri*, from the same'.)*
+- **satrā** — "It conveys the sense of 'truth'. In the Nirukta the word *satrā* is read among the synonyms of truth: '*satrā itthā*' (Ni. 3-10)."
 - **parvaśaḥ** — "Joint by joint; in pieces."
 
 **Vyākaraṇa-prakriyā** *(pp. 410–411 — grammar pages, noted briefly)*
@@ -7393,7 +7395,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **parvaśaḥ**: *saṃkhyaikavacanāc ca vīpsāyām* (Pā. 5-4-43): *śas* is added to the word *parva* whose sense is "one by one" when repetition is meant.
 - **cakartitha**: *kṛtī chedane*; *liṭ* second singular; *parasmaipadānām ṇalatusus…*: *thal*; doubling; *halādiḥ śeṣaḥ*; *ur at*; *kuhoś cuḥ*: *c*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *pugantalaghūpadhasya ca*: *guṇa*; *tiṅ atiṅaḥ*: *nighāta*.
 - **asṛjaḥ**: *sṛja visarge*, *tudādi*; *laṅ* second singular; *śa*; no *laghūpadha-guṇa*; *nighāta*.
-- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ*: *tavai* in the sense of the action; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; *kṛn mejantaḥ*: *avyaya*; *avyayād āpsupaḥ*: *luk* [of the case ending]; *antaś ca tavai yugapat*: both the first and final syllables are acute at once.
+- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ* (Pā. 3-4-14): *tavai* in the sense of the action; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; *kṛn mejantaḥ* (Pā. 1-1-39): *avyaya*; *avyayād āpsupaḥ* (Pā. 2-4-82): *luk* [of the case ending]; *antaś ca tavai yugapat* (Pā. 6-1-200): both the first and final syllables are acute at once.
 - **dadhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*: *se*; doubling; *hrasva*; *jaśtva*; *kṛsṛbhṛvṛstudru…*: *iṭ* is allowed here because of *kṛsṛ…* limit — so *iṭ*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: loss of *ā*; *ṣatva*; *tiṅ atiṅaḥ*: *nighāta*. **|| 6 ||**
 
 **Closing note** *(p. 411, printed large)* — "**ಐವತ್ತೇಳನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-seventh sūkta is ended."
