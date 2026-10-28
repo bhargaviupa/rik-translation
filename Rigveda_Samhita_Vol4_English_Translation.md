@@ -627,8 +627,8 @@ ornaments; **śumbhamānāḥ** — shining; **hinvānāsaḥ** — though they 
 > अनु॑ स्व॒धाम॑क्षर॒न्नापो॑ अ॒स्याव॑र्धत॒ मध्य॒ आ ना॒व्या॑नाम् ।
 > स॒ध्री॒ची॑नेन॒ मन॑सा॒ तमिन्द्र॒ ओजि॑ष्ठेन॒ हन्म॑नाहन्न॒भि द्यून् ॥ ११ ॥
 >
-> *ánu svadhā́m akṣarann ā́po asyā́vardhata madhya ā́ nāvyānām |*
-> *sadhrīcīnena mánasā tam indra ójiṣṭhena hánmanāhann abhí dyūn || 11 ||*
+> *ánu svadhā́m akṣarann ā́po asyā́vardhata mádhya ā́ nāvyānām |*
+> *sadhrīcīnena mánasā tám indra ójiṣṭhena hánmanāhann abhí dyūn || 11 ||*
 
 (As printed, zoom-checked: no svarita stroke over *mi* of तमिन्द्र॒.)
 
@@ -701,7 +701,7 @@ or *m* is not elided; so the loss of *a* by *allopo 'naḥ* — अल्लो�
 > याव॒त्तरो॑ मघव॒न्याव॒दोजो॒ वज्रे॑ण॒ शत्रु॑मवधीः पृत॒न्युम् ॥ १२ ॥
 >
 > *ny āvidhyad ilībíśasya dṛḷhā́ vi śṛṅgíṇam abhinac chúṣṇam índraḥ |*
-> *yā́vat táro maghavan yā́vad ójo vájreṇa śátrum avadhīḥ pṛtanyúm || 12 ||*
+> *yāvat táro maghavan yā́vad ójo vájreṇa śátrum avadhīḥ pṛtanyúm || 12 ||*
 
 (The independent svarita on *nyā* is shown in the Devanagari only. The print clearly has ಶೃಙ್ಗಿಣ, i.e. *śṛṅgiṇam*.)
 
