@@ -8130,17 +8130,19 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 59.4 (pp. 448–450, PDF 464–466)
 
-**Saṃhitā-pāṭha** *(p. 448)*
+**Saṃhitā-pāṭha** *(p. 448; accents as printed)*
 
-> **बृहती इव सूनवे रोदसी गिरो होता मनुष्यो न दक्षः ।**
-> **स्वर्वते सत्यशुष्माय पूर्वीर्वैश्वानराय नृतमाय यह्वीः ॥ ४ ॥**
+> **बृ॒ह॒ती इ॑व सू॒नवे॒ रोद॑सी॒ गिरो॒ होता॑ मनु॒ष्यो३॒॑ न दक्षः॑ ।**
+> **स्व॑र्वते स॒त्यशु॑ष्माय पू॒र्वीर्वै॑श्वान॒राय॒ नृत॑माय य॒ह्वीः ॥ ४ ॥**
 
-*bṛhatī iva sūnave rodasī giro hotā manuṣyo na dakṣaḥ |*
-*svarvate satyaśuṣmāya pūrvīr vaiśvānarāya nṛtamāya yahvīḥ || 4 ||*
+*bṛhatī́ iva sūnáve ródasī gíro hótā manuṣyò ná dákṣaḥ |*
+*svàrvate satyáśuṣmāya pūrvī́r vaiśvānarā́ya nṛ́tamāya yahvī́ḥ || 4 ||*
+
+*(The print marks the independent svarita of मनुष्यो with the figure ೩ (३), carrying both marks.)*
 
 **Pada-pāṭha** *(p. 448)*
 
-> बृहती इवेति बृहती ऽइव । सूनवे । रोदसी इति । गिरः । होता । मनुष्यः । न । दक्षः ।
+> बृहती इवेति बृहतीऽइव । सूनवे । रोदसी इति । गिरः । होता । मनुष्यः । न । दक्षः ।
 > स्वःऽवते । सत्यऽशुष्माय । पूर्वीः । वैश्वानराय । नृऽतमाय । यह्वीः ॥ ४ ॥
 
 *bṛhatī iveti bṛhatī-iva | sūnave | rodasī iti | giraḥ | hotā | manuṣyaḥ | na | dakṣaḥ |*
@@ -8150,9 +8152,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 > **रोदसी द्यावापृथिव्यौ सूनवे स्वपुत्राय वैश्वानराय बृहती इव प्रभूते इवाभूतां । वैश्वानरस्य द्यावापृथिव्योः पुत्रत्वं मन्त्रान्तरे स्पष्टमवगम्यते । उभा पितरा महयन्नजायताग्निर्द्यावापृथिवी भूरिरेतसेति । ऋग्वे. ३-३-११ । इति । महतो वैश्वानरस्यावस्थानाय द्यावापृथिव्यौ विस्तृते जाते इत्यर्थः । किंचायं होता देवानामाह्वाता दक्षः समर्थः पूर्वीर्बहुविधा यह्वीर्महतीर्गिरः स्तुतीर्वैश्वानरायाग्नये प्रायुंक्तेति शेषः । कीदृशायास्मै । स्वर्वते शोभनगमनयुक्ताय । सत्यशुष्मायावितथबलाय । नृतमायातिशयेन सर्वेषां नेत्रे । तत्र दृष्टान्तः । मनुष्यो न । यथा मनुष्यो लौकिको वन्दी दातारं प्रभुं बहुविधया स्तुत्या स्तौति तद्वत् ॥**
 
-*rodasī dyāvāpṛthivyau sūnave svaputrāya vaiśvānarāya bṛhatī iva prabhūte ivābhūtāṃ | vaiśvānarasya dyāvāpṛthivyoḥ putratvaṃ mantrāntare spaṣṭam avagamyate | ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retaseti | ṛgve. 1-… [print: ३-३-११, i.e. 3-3-11 [?]] | iti | mahato vaiśvānarasyāvasthānāya dyāvāpṛthivyau vistṛte jāte ity arthaḥ | kiṃcāyaṃ hotā devānām āhvātā dakṣaḥ samarthaḥ pūrvīr bahuvidhā yahvīr mahatīr giraḥ stutīr vaiśvānarāyāgnaye prāyuṅkteti śeṣaḥ | kīdṛśāyāsmai | svarvate śobhanagamanayuktāya | satyaśuṣmāyāvitathabalāya | nṛtamāyātiśayena sarveṣāṃ netre | tatra dṛṣṭāntaḥ | manuṣyo na | yathā manuṣyo laukiko vandī dātāraṃ prabhuṃ bahuvidhayā stutyā stauti tadvat ||*
+*rodasī dyāvāpṛthivyau sūnave svaputrāya vaiśvānarāya bṛhatī iva prabhūte ivābhūtāṃ | vaiśvānarasya dyāvāpṛthivyoḥ putratvaṃ mantrāntare spaṣṭam avagamyate | ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūriretaseti | ṛgve. 3-3-11 | iti | mahato vaiśvānarasyāvasthānāya dyāvāpṛthivyau vistṛte jāte ity arthaḥ | kiṃcāyaṃ hotā devānām āhvātā dakṣaḥ samarthaḥ pūrvīr bahuvidhā yahvīr mahatīr giraḥ stutīr vaiśvānarāyāgnaye prāyuṅkteti śeṣaḥ | kīdṛśāyāsmai | svarvate śobhanagamanayuktāya | satyaśuṣmāyāvitathabalāya | nṛtamāyātiśayena sarveṣāṃ netre | tatra dṛṣṭāntaḥ | manuṣyo na | yathā manuṣyo laukiko vandī dātāraṃ prabhuṃ bahuvidhayā stutyā stauti tadvat ||*
 
-**Translation of the bhāṣya:** "*Rodasī*, heaven and earth, for *sūnave*, their own son Vaiśvānara, became *bṛhatī iva*, vast as it were. That Vaiśvānara is the son of heaven and earth is clearly understood from another mantra: 'Agni was born making both parents great, heaven and earth, rich in seed' (Ṛ. 3-3-11 [?]) — that is: heaven and earth became broad for the abiding of the great Vaiśvānara. Further, this *hotā*, the invoker of the gods, *dakṣaḥ*, capable, *pūrvīḥ yahvīḥ giraḥ*, many mighty praises, [offers] to Vaiśvānara, Agni (this is understood) — to what sort of one? *Svarvate*, who has an attractive gait; *satyaśuṣmāya*, of unfailing strength; *nṛtamāya*, the best leader of all men. An example: *manuṣyo na*, as an ordinary man, a bard, praises a generous lord with praises of many kinds."
+*(The tail, p. 448, is characterized: on* manuṣyaḥ *(*manor jātāv añyatau ṣuk ca*: *yat* and *ṣuk*; *tit svaritam*; *yato 'nāvaḥ* does not apply, since *dvyac* continues there),* svarvate *(*ṛ gatau* with *su*: *vic*; *matup*; *mādupadhāyāḥ*: *v*).)*
+
+**Translation of the bhāṣya:** "*Rodasī*, heaven and earth, for *sūnave*, their own son Vaiśvānara, became *bṛhatī iva*, vast as it were. That Vaiśvānara is the son of heaven and earth is clearly understood from another mantra: 'Agni was born making both parents great, heaven and earth, rich in seed' (Ṛ. 3-3-11) — that is: heaven and earth became broad for the abiding of the great Vaiśvānara. Further, this *hotā*, the invoker of the gods, *dakṣaḥ*, capable, *pūrvīḥ yahvīḥ giraḥ*, many mighty praises, [offers] to Vaiśvānara, Agni (this is understood) — to what sort of one? *Svarvate*, who has an attractive gait; *satyaśuṣmāya*, of unfailing strength; *nṛtamāya*, the best leader of all men. An example: *manuṣyo na*, as an ordinary man, a bard, praises a generous lord with praises of many kinds."
 
 **Pratipadārtha** *(p. 449)* — "**rodasī** — heaven and earth; **sūnave** — for their son (Agni in the form of Vaiśvānara); **bṛhatī iva** — as if became vast; **dakṣaḥ** — the capable; **hotā** — the invoker; **svarvate** — to one of attractive motion; **satyaśuṣmāya** — of effective strength; **nṛtamāya** — the best guide; **vaiśvānarāya** — to Agni; **manuṣyo na** — as a worldly bard praises (the praiser of the qualities of a king); **pūrvīḥ** — ancient, or of many kinds; **yahvīḥ** — and great; **giraḥ** — praises; (he offers)."
 
@@ -8161,7 +8165,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **English Translation (the source's own, p. 449)** — "Heaven and earth expanded as it were for their son. The experienced sacrificer recites, like a bard, many ancient and copious praises addressed to the graceful-moving, truly-vigorous and all-guiding Vaiswanara."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 449–450**
-- **sūnave** — "Here Agni is the son of heaven and earth. As proof the śruti '*ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retasā*' (Ṛ. Saṃ. 3-3-11 [?])."
+- **sūnave** — "Here Agni is the son of heaven and earth. As proof the śruti '*ubhā pitarā mahayann ajāyatāgnir dyāvāpṛthivī bhūri retasā*' (Ṛ. Saṃ. 3-3-11)."
 
   > **उभा पितरा महयन्नजायताग्निर्द्यावापृथिवी भूरिरेतसा ।**
 
@@ -8170,10 +8174,10 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **manuṣyo na** — "'like a man'; here the illustration: as in the world a man, being a bard, praises the lord who gives wealth with many kinds of praise, so the hotṛ praises Agni with many praises."
 
 **Vyākaraṇa-prakriyā** *(p. 450 — noted briefly)*
-- **manuṣyaḥ**: *manor jātāv añyatau ṣuk ca* (Pā. 4-1-161): *yat* after *manu*; *ṣuk*; *titsvaritam*: *svarita*; *yato 'nāvaḥ* would give initial-acute, but because of the continued *dvyacaḥ* there, as the word is polysyllabic, the rule does not apply.
+- **manuṣyaḥ**: *manor jātāv añyatau ṣuk ca* (Pā. 4-1-161): *yat* after *manu*; *ṣuk*; *titsvaritam* (Pā. 6-1-185): *svarita*; *yato 'nāvaḥ* would give initial-acute, but because of the continued *dvyacaḥ* there, as the word is polysyllabic, the rule does not apply.
 - **svarvate**: *svar* (*ṛ gatau*; *su* before; *vic*); *guṇa*; *svar* [*svaḥ*] has *matup*: *tad asyāsty asmin*; *māduḥ upadhāyāś ca matoḥ*: *v*; *nyaṅ svarau svaritau*: *svarita*; dative.
 - **satyaśuṣmāya**: bahuvrīhi; first member's accent.
-- **pūrvīḥ**: *pyā pālanapūraṇayoḥ*; *pyābhidivyadhi…* (Uṇ. 1-… as read [?]): *ku*; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*: *puru*; *voto guṇavacanāt*: *ṅīṣ* for the feminine; *yaṇ* for the acute *u*; *halica*: lengthening; suffix-accent: end-acute. **|| 4 ||**
+- **pūrvīḥ**: *pyā pālanapūraṇayoḥ*; *pyābhidivyadhi…* (Uṇ. 1-23): *ku*; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*: *puru*; *voto guṇavacanāt*: *ṅīṣ* for the feminine; *yaṇ* for the acute *u*; *halica*: lengthening; suffix-accent: end-acute. **|| 4 ||**
 
 ---
 
