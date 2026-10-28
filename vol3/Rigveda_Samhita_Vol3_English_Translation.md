@@ -7276,38 +7276,69 @@ is initially acute: the *a* after *m* is udātta. Because the *yad*-word (*yath�
 
 ---
 
-### Pages 298–300 — Sūkta 25, Rik 2
+### Page 298 (lower) — Sūkta 25, Rik 2
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> मा नो वधाय हत्नवे जिहीळानस्य रीरधः ।
-> मा हृणानस्य मन्यवे ॥ २ ॥
+> मा नो॑ व॒धाय॑ ह॒त्नवे॑ जिहीळा॒नस्य॑ रीरधः ।
+> मा हृ॑णा॒नस्य॑ म॒न्यवे॑ ॥२॥
+>
+> *mā́ no vadhā́ya hatnáve jihīḷānásya rīradhaḥ |*
+> *mā́ hṛṇānásya manyáve ||2||*
 
-*mā no vadhāya hatnave jihīḷānasya rīradhaḥ | mā hṛṇānasya manyave || 2 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> मा । नः । वधाय । हत्नवे । जिहीळानस्य । रीरधः ॥ मा । हृणानस्य । मन्यवे ॥ २ ॥
+> मा । नः । वधाय । हत्नवे । जिहीळानस्य । रीरधः । मा । हृणानस्य । मन्यवे ॥२॥
 
-*mā | naḥ | vadhāya | hatnave | jihīḷānasya | rīradhaḥ || mā | hṛṇānasya | manyave || 2 ||*
+> *mā | naḥ | vadhāya | hatnave | jihīḷānasya | rīradhaḥ | mā | hṛṇānasya | manyave ‖2‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 298)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a; the old text's* पापिष्ठनशीलस्य*,* श्वक्तकर्तृकाय *and* कृद्धस्य *are printed* पापिहननशीलस्य*,* त्वत्कर्तृकाय *and* क्रुद्धस्य*)*
 
-> हे वरुण जिहीळानस्यानादरं कृतवतो हत्नवे हंतुं पापिष्ठनशीलस्य तव संबन्धिने श्वक्तकर्तृकाय वधाय नोऽस्मान्मा रीरधः । संसिद्धान्विषयभूतान्मा कुरु । हृणानस्य हृणीयमानस्य कृद्धस्य तव मन्यवे क्रोधाय मा अस्मान्रीरधः ॥ वधाय । हनश्च वधः । पा. ३-३-७६ । इत्यबन्तो वधशब्दः । उंभादिषु पाठादन्तोदात्तः । हत्नवे । हन हिंसागत्योः । कृहनिभ्यां क्नुः । उ. ३-३० । इति क्नुप्रत्ययः । धातोर्नकारस्य तकारः । जिहीळानस्य । हेडृ अनादरे । अस्माल्लिट् कानच् । द्विर्भावहलादिशेषह्रस्वचुत्वजश्त्वानि । एकारस्य ईकारादेशश्छान्दसः । चित इत्यन्तोदात्तत्वम् । रीरधः । राध साध संसिद्धौ । चञि णिलोप उपधाह्रस्वत्वम् । द्विर्वचन हलादिशेषः । ह्रस्वस्वसन्द्वाभावेऽपि [?] ... न माङ्योगे [इत्यडभावः] । हृणानस्य । हृणीङ् रोषणे लज्जायां च । अस्माच्चानचि पृषोदरादित्वादभिमतरूपसिद्धिः ॥
+> हे वरुण जिहीळानस्यानादरं कृतवतो हत्नवे हंतुः पापिहननशीलस्य तव संबंधिने त्वत्कर्तृकाय वधाय नोऽस्मान्मा रीरधः । संसिद्धान्विषयभूतान्मा कुरु । हृणानस्य हृणीयमानस्य क्रुद्धस्य तव मन्यवे क्रोधाय मा अस्मान् रीरधः ॥ वधाय । हनश्च वधः । पा. ३-३-७६ । इत्यबंतो वधशब्दः । उंछादिषु पाठादंतोदात्तः । हत्नवे । हन हिंसागत्योः । कृहनिभ्यां क्नुः । उ. ३-३० । इति क्नुप्रत्ययः । धातोर्नकारस्य तकारः । जिहीळानस्य । हेडृ अनादरे । अस्माल्लिटः कानच् । द्विर्भावहलादिशेषह्रस्वचुत्वजश्त्वानि । एकारस्य ईकारादेशश्छांदसः । चित इत्यंतोदात्तत्वं । रीरधः । राध साध संसिद्धौ । चङि णिलोपे उपधाह्रस्वत्वं । द्विर्वचनहलादिशेषौ । ह्रस्वत्वसन्वद्भावेत्वाभ्यासदीर्घाः । न माङ्योग इत्यडभावः । हृणानस्य । हृणीङ् लज्जायां । अस्माच्छानचि पृषोदरादित्वादभिमतरूपसिद्धिः ॥
 
-*he varuṇa jihīḷānasyānādaraṃ kṛtavato hatnave haṃtuṃ pāpiṣṭhanaśīlasya tava saṃbandhine śvaktakartṛkāya vadhāya no 'smān mā rīradhaḥ | saṃsiddhān viṣayabhūtān mā kuru | hṛṇānasya hṛṇīyamānasya kṛddhasya tava manyave krodhāya mā asmān rīradhaḥ || vadhāya | hanaś ca vadhaḥ | pā. 3-3-76 | ity abantho vadhaśabdaḥ | uṃbhādiṣu pāṭhād antodāttaḥ | hatnave | hana hiṃsāgatyoḥ | kṛhanibhyāṃ knuḥ | u. 3-30 | iti knupratyayaḥ | dhātor nakārasya takāraḥ | jihīḷānasya | heḍṛ anādare | asmāl liṭ kānac | dvirbhāvahalādiśeṣahrasvacutvajaśtvāni | ekārasya īkārādeśaś chāndasaḥ | cita ity antodāttatvam | rīradhaḥ | rādha sādha saṃsiddhau | caṅi ṇiluṅ upadhāhrasvatvam | dvirvacana halādiśeṣaḥ | hrasvasvasandvābhāve 'pi [?] … na māṅyoge [ity aḍabhāvaḥ] | hṛṇānasya | hṛṇīṅ roṣaṇe lajjāyāṃ ca | asmāc cānaci pṛṣodarāditvād abhimatarūpasiddhiḥ ||*
+> *he varuṇa jihīḷānasyānādaraṃ kṛtavato hatnave haṃtuḥ pāpihananaśīlasya tava saṃbaṃdhine tvatkartṛkāya vadhāya no 'smānmā rīradhaḥ | saṃsiddhānviṣayabhūtānmā kuru | hṛṇānasya hṛṇīyamānasya kruddhasya tava manyave krodhāya mā asmān rīradhaḥ ‖ vadhāya | hanaśca vadhaḥ | pā. 3-3-76 | ityabaṃto vadhaśabdaḥ | uṃchādiṣu pāṭhādaṃtodāttaḥ | hatnave | hana hiṃsāgatyoḥ | kṛhanibhyāṃ knuḥ | u. 3-30 | iti knupratyayaḥ | dhātornakārasya takāraḥ | jihīḷānasya | heḍṛ anādare | asmālliṭaḥ kānac | dvirbhāvahalādiśeṣahrasvacutvajaśtvāni | ekārasya īkārādeśaśchāṃdasaḥ | cita ityaṃtodāttatvaṃ | rīradhaḥ | rādha sādha saṃsiddhau | caṅi ṇilope upadhāhrasvatvaṃ | dvirvacanahalādiśeṣau | hrasvatvasanvadbhāvetvābhyāsadīrghāḥ | na māṅyoga ityaḍabhāvaḥ | hṛṇānasya | hṛṇīṅ lajjāyāṃ | asmācchānaci pṛṣodarāditvādabhimatarūpasiddhiḥ ‖*
 
-**Translation:** "O Varuṇa! Do not (*mā*) make us (*naḥ*) the objects (*rīradhaḥ*, 'bring to success') of your *vadha* — [your] smiting — directed against the one who disregards you (*jihīḷānasya*), *hatnave* — which is bent on destroying [the sinner]. Nor (*mā*) of the wrath (*manyave*) of you, when angry (*hṛṇānasya*). *Vadhāya*: the word *vadha* is formed with *ap* by P. 3-3-76 [*hanaś ca vadhaḥ*]; end-acute by the *uṃbhādi* reading. *Hatnave*: *han hiṃsāgatyoḥ* with *knu* (Uṇ. 3-30) and *n* → *t*. *Jihīḷānasya*: *heḍṛ anādare*; *liṭ* with *kānac*; reduplication; the *e* → *ī* by the Vedic rule; end-acute through *cit*. *Rīradhaḥ*: *rādha sādha saṃsiddhau*; *caṅ*; loss of *ṇic*; shortening of the penultimate; the doubling; no *aṭ* as it is joined with *mā*. *Hṛṇānasya*: *hṛṇīṅ roṣaṇe lajjāyāṃ ca* [to be angry, to be ashamed]; by the *pṛṣodarādi* rule the desired form with *ānac* is arrived at." *(Grammar pages 299–300, noted briefly: the words treated are* vadhāya *[*han* + *ap* with *vadha* substituted by P. 3-3-76 *hanaś ca vadhaḥ*; the compound-derived *vadha* in the Uṇādi list *ādi udātta* to *antodātta*; dative ending *ṅe* → *ya* P. 7-1-13],* hatnave *[*han* + *knu*, Uṇ. 3-30 *kṛhanibhyāṃ knuḥ*; *ha* + *tnu* with *n* → *t*; the case-ending is anudātta so the accent is that of the suffix],* jihīḷānasya *[*heḍṛ anādare* + *kānac* in the sense of the *liṭ*, P. 3-2-106 *liṭaḥ kānaj vā*; doubling by P. 6-1-8, *hal-ādi-śeṣa* P. 7-4-60, shortening, *cutva* P. 7-4-62, *jaś* P. 8-4-53; the Vedic *ī* for *e*; *cit*-accent final],* rīradhaḥ *[*rādha*, *ṇic*, *caṅ* by P. 3-1-48 *ṇiśridrusrubhyaḥ kartari caṅ*; *aṅga*-doubling by P. 6-1-11; the Vedic lengthening of the reduplicate vowel to *ī* by P. 6-4-… *dīrgho laghoḥ* — read doubtfully; the *aṭ* is dropped because of *mā*, P. 6-4-74 *na māṅyoge*] and* hṛṇānasya *[*hṛṇīṅ roṣaṇe lajjāyāṃ ca*, with *ānac*; by *pṛṣodarādi* the *ī* is shortened and the form fixed]; numerals as read, pointers only.)*
+*(Numbers zoom-read at 450 dpi: पा. ३-३-७६, उ. ३-३०.* उंछादिषु *has the ಛ glyph, as in Ṛk 25.1.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 299)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa | **जिहीळानस्य (jihīḷānasya)** — of one who shows you disrespect | **हत्नवे (hatnave)** — destructive | **वधाय (vadhāya)** — to the killing | **नः (naḥ)** — us | **मा रीरधः (mā rīradhaḥ)** — do not make [objects] | **हृणानस्य (hṛṇānasya)** — of you who are angry | **मन्यवे (manyave)** — to the wrath | **(मा रीरधः) ((mā rīradhaḥ))** — [do not make us objects].
+*Gist:* O Varuṇa, do not hand us over to the deadly stroke of you who slay the sinner who slights you, nor to the wrath of you when angered.
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! You are able to destroy those who show you disrespect. Do not make us the objects of that destruction. Do not make us objects of your cruel wrath when you are angry.
+### Page 299 — Rik 2: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **(वरुण) ((varuṇa))** — (O Varuṇa) | **जिहीळानस्य (jihīḷānasya)** — of one who shows (you) disrespect | **हत्नवे (hatnave)** — your (stroke) that destroys | **वधाय (vadhāya)** — to the destruction | **नः (naḥ)** — us | **मा रीरधः (mā rīradhaḥ)** — do not make objects | **हृणानस्य (hṛṇānasya)** — of you when angry | **मन्यवे (manyave)** — to the wrath too | **मा (mā)** — do not make (us objects).
+
+**॥ Bhāvārthaḥ ॥** O god Varuṇa, you surely destroy those who show you disrespect; but do not make us objects of that destruction. Do not make us the objects of the cruel wrath of you when angry.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Make us not the objects of death through your wrath, though your wrath is directed towards a person who neglects (to worship) you.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 300)* **वधाय हत्नवे** — the two words convey one meaning: to the killing — to the work of killing; the sense is 'to the act of punishment, in the form of killing, of the sinful or wicked'. **जिहीळानस्य** — *anādaraṃ kṛtavataḥ*: of one who has slighted you. **हृणानस्य** — *hṛṇīyamānasya kṛddhasya ruṣṭasya*: of you who are angry. The chief sense: 'O Varuṇa, you destroy the wicked who treat you with disrespect, and at the time of destroying the wicked you are full of anger. Do not make us objects of that wrath; show us your favour so that we may not be objects of your wrath.'
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**वधाय हत्नवे (vadhāya hatnave)** — to the act of your killing them in order to punish the sinners (do not give us up); the two words convey one meaning. Yet the sense of the words is: to the act of slaying (destruction), which is the punishment of you who are ready to destroy the sinners or the wicked.
+
+**जिहीळानस्य (jihīḷānasya)** — *anādaraṃ kṛtavataḥ*: of one who has slighted you (to the slaying).
+
+**हृणानस्य (hṛṇānasya)** — *hṛṇīyamānasya kruddhasya ruṣṭasya*: of you, who are angry.
+
+**Chief sense** — O Varuṇa, you destroy the wicked who behave towards you with contempt; when destroying the wicked you are full of wrath. Do not give us up to such wrath; be gracious, so that we do not become objects of your wrath.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read, v3a)*
+
+**वधाय (vadhāya)** — *hana hiṃsāgatyoḥ*, adādi; by "हनश्च वधः" (Pā. Sū. 3-3-76) *ap* in the abstract sense after *han* with no prefix, and the stem becomes *vadha*; dative singular *vadhāya*. "उंछादीनां च"
+
+### Page 300 — Rik 2: grammar (end)
+
+(Pā. Sū. 6-1-160): since it is read in the *uñchādi* list it is end-acute; *vadhāya* is a word with the udātta in the middle.
+
+**हत्नवे (hatnave)** — the same root with *knu* by "कृहनिभ्यां क्नुः" (Uṇ. Sū. 3-310, as printed in the Kannada grammar's continuous Uṇādi numbering; the bhāṣya gives उ. ३-३०); the root's *n* becomes *t*; *hatnu*; dative singular; the case-ending being anudātta, the suffix accent stands.
+
+**जिहीळानस्य (jihīḷānasya)** — *heḍṛ anādare*, bhvādi; with "छन्दसि लिट्" (Pā. Sū. 3-2-105) continuing, "लिटः कानज्वा" (Pā. Sū. 3-2-106) gives *kānac* for *liṭ*; doubling, *halādiśeṣa*, shortening, *cutva* and *jaśtva* in the reduplicate; the root's *e* becomes *ī* as a Vedic form: *jihīḷāna*; the suffix being *cit*, end-acute by "चितः" (Pā. Sū. 6-1-163); genitive singular *jihīḷānasya*.
+
+**रीरधः (rīradhaḥ)** — *rādha sādha saṃsiddhau*, svādi; causative *ṇic*, then *luṅ*; *caṅ* for *cli* by "णिश्रिद्रु-" (Pā. Sū. 3-1-48); shortening of the penultimate before *ṇi* followed by *caṅ* by "णौ चङ्यु-" (Pā. Sū. 7-4-1); doubling by "चङि" (Pā. Sū. 6-1-11); *halādiśeṣa* and shortening in the reduplicate; second singular *radh* + *i* + *a* + *s*; *ṇi* dropped by "णेरनिटि" (Pā. Sū. 6-4-51); *san*-like treatment by "सन्वल्लघुनि-" (Pā. Sū. 7-4-93), so *i* for the reduplicate's *a* by "सन्यतः" (Pā. Sū. 7-4-79), lengthened by "दीर्घो लघोः" (Pā. Sū. 7-4-94); with *māṅ* the augment *aṭ* does not come by "न माङ्योगे" (Pā. Sū. 6-4-74); *rīradhaḥ*.
+
+**हृणानस्य (hṛṇānasya)** — *hṛṇīṅ roṣaṇe lajjāyāṃ ca*, kaṇḍvādi; *śānac* in the sense of *laṭ*; by "पृषोदरादीनि यथोपदिष्टम्" (Pā. Sū. 6-3-109), being in the *pṛṣodarādi* list, a letter is dropped and the form is *hṛṇāna*, so the svārthika *yak* does not come; genitive singular; being *cit* it is end-acute, the *ā* after *n* is udātta. ॥२॥
 
 ---
 
