@@ -1,6 +1,6 @@
 # v5b state (Vol 5 numeral/[?]/accent pass, worker v5b)
 
 Range: Sūktas 52–56, printed pp. 212–391 (PDF 228–407), branch `claude/numerals-vol5-b`.
-Done through: Rik 52.4 (p. 228 top, PDF 244).
-Next unit: Rik 52.5 (pp. 228–232, PDF 244–248). view_v5b.py: y fraction = 0.15 + y/1521 for a y read off the 130-dpi crop (0.15–0.75).
-Open items: Pada printed with accents, kept unaccented per runbook; 52.2 bhāṣya word after "parvato na" [?]; 52.2 Uṇ. sū. 4-6?6 (p. 219); 52.3 Uṇ. sū. 4-578 [?] (p. 223).
+Done through: Rik 52.5 (p. 233, old-scan PDF 249).
+Next unit: Rik 52.6 (p. 233 Saṃhitā/Pada from the OLD scan PDF 249 (V5OLD=1); pp. 234– = better-scan PDF 248– (printed = PDF − 14 from there)).
+Open items: BETTER SCAN LACKS printed pp. 232–233 (its PDF 247 = p. 231, PDF 248 = p. 234); from PDF 248 on, printed = PDF − 14 — read those two pages from Rig_Vol5.pdf (old scan, printed = PDF − 16); coordinator to note in vol5_state.md. Pada printed with accents, kept unaccented per runbook; 52.2 bhāṣya word after "parvato na" [?]; 52.2 Uṇ. sū. 4-6?6 (p. 219); 52.3 Uṇ. sū. 4-578 [?] (p. 223).
