@@ -4769,11 +4769,11 @@
 
 **Sāyaṇa-bhāṣya (introduction)**
 
-> **न्यू षु वाचमित्येकादशर्चं तृतीयं सूक्तम् । दशम्येकादश्यौ त्रिष्टुभौ । शिष्टा नव जगत्यः । सव्य ऋषिः । इन्द्रो देवता । तथा चानुक्रान्तम् । न्यू ष्वेकादशान्त्ये त्रिष्टुभाविति । अतिरात्रे प्रथमे पर्याये ब्राह्मणाच्छंसिनः शस्त्र एतत्सूक्तम् । तथा चासूत्रयदाचार्यः । न्यू षु वाचमुप्र धूतस्य हरिवः पिबेहेति याज्या । आश्व. ६-४ [?] इति ॥**
+> **न्यू ष्वित्येकादशर्चं तृतीयं सूक्तम् । दशम्येकादश्यौ त्रिष्टुभौ । शिष्टा नव जगत्यः । सव्य ऋषिः । इन्द्रो देवता । तथा चानुक्रान्तम् । न्यू ष्वेकादशान्त्ये त्रिष्टुभाविति । अतिरात्रे प्रथमे पर्याये ब्राह्मणाच्छंसिनः शस्त्र एतत्सूक्तम् । तथा चासूत्रयदाचार्यः । न्यू षु वाचमुप्र धूतस्य हरिवः पिबेहेति याज्या । आश्व. ६-४ इति ॥**
 
-*nyū ṣu vācam ity ekādaśarcaṃ tṛtīyaṃ sūktam | daśamy ekādaśyau triṣṭubhau | śiṣṭā nava jagatyaḥ | savya ṛṣiḥ | indro devatā | tathā cānukrāntam | nyū ṣv ekādaśāntye triṣṭubhāv iti | atirātre prathame paryāye brāhmaṇācchaṃsinaḥ śastra etat sūktam | tathā cāsūtrayad ācāryaḥ | nyū ṣu vācam upra dhūtasya harivaḥ pibeheti yājyā | āśva. 6-4 [?] iti ||*
+*nyū ṣv ity ekādaśarcaṃ tṛtīyaṃ sūktam | daśamy ekādaśyau triṣṭubhau | śiṣṭā nava jagatyaḥ | savya ṛṣiḥ | indro devatā | tathā cānukrāntam | nyū ṣv ekādaśāntye triṣṭubhāv iti | atirātre prathame paryāye brāhmaṇācchaṃsinaḥ śastra etat sūktam | tathā cāsūtrayad ācāryaḥ | nyū ṣu vācam upra dhūtasya harivaḥ pibeheti yājyā | āśva. 6-4 iti ||*
 
-*(Reading note: "*upra*" is as printed in the quotation, probably a misprint or crowded for* pra *— the quoted words are the opening of the sūkta and of Rik 53.1's* nyū ṣu vācaṃ pra mahe bharāmahe*? I do not complete it; the Āśvalāyana numeral "6-4" is as read, [?].)*
+*(Reading note: "*upra*" is as printed in the quotation, probably a misprint or crowded for* pra *— the quoted words are the opening of the sūkta and of Rik 53.1's* nyū ṣu vācaṃ pra mahe bharāmahe*? I do not complete it; the pratīka at the start of the introduction is printed "ನ್ಯೂ ಷ್ವಿತಿ", *nyū ṣv iti*; the Āśvalāyana reference is printed "ಆಶ್ವ. ೬-೪".)*
 
 **Translation:** "'*Nyū ṣu vācam*': a sūkta of eleven Riks, the third [of the Tenth Anuvāka]. The tenth and eleventh are Triṣṭubh; the remaining nine are Jagatī. The seer is Savya, the deity Indra; so the Anukramaṇī: '*nyū ṣv ekādaśa, the last two Triṣṭubh*'. In the Atirātra rite, in the first *paryāya*, this sūkta belongs to the recitation of the Brāhmaṇācchaṃsin; so the teacher has aphorized: '*nyū ṣu vācam…*' [and *dhūtasya harivaḥ pibeha* as the *yājyā* (offering-verse)] (Āśv. 6-4 as read [?])."
 
@@ -4788,23 +4788,25 @@
 ### Heading block of Sūkta 53 *(p. 265, PDF 281)*
 
 - Maṇḍala 1 · Anuvāka 10 · Sūkta 53
-- Aṣṭaka 1 · Adhyāya 4 · Varga 13, 14 [as read, small numerals, [?]]
+- Aṣṭaka 1 · Adhyāya 4 · Varga 15, 16 *(pass: printed "೧೫, ೧೬"; the page header of p. 265 also reads ವ. ೧೫)*
 - Number of Riks in the sūkta: 11
 - Ṛṣi: Savya Āṅgirasa
 - Deity: Indra
-- Metre: Riks 1–9 Jagatī; Riks 10 and 11 Triṣṭubh *(read "೧-೯ ಜಗತೀ । ೧೦, ೧೧ ತ್ರಿಷ್ಟುಪ್")*
+- Metre: Riks 1–9 Jagatī; Riks 10 and 11 Triṣṭubh *(printed "೧-೯ ಜಗತೀ । ೧೦, ೧೧ ತ್ರಿಷ್ಟುಪ್")*
 
 ---
 
 ### Rik 53.1 (pp. 265–269, PDF 281–285)
 
-**Saṃhitā-pāṭha** *(p. 265; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 265; accents as printed)*
 
-> **न्यू षु वाचं प्र महे भरामहे गिर इन्द्राय सदने विवस्वतः ।**
-> **नू चिद्धि रत्नं ससतामिवाविदन्न दुष्टुतिर्द्रविणोदेषु शस्यते ॥ १ ॥**
+> **न्यू॒३॒ षु वा॒चं प्र म॒हे भ॑रामहे॒ गिर॒ इन्द्रा॑य॒ सद॑ने वि॒वस्व॑तः ।**
+> **नू चि॒द्धि रत्नं॑ स॒सता॑मि॒वावि॑द॒न्न दु॑ष्टु॒तिर्द्र॑विणो॒देषु॑ शस्यते ॥ १ ॥** [accent ?]
 
-*nyū ṣu vācaṃ pra mahe bharāmahe gira indrāya sadane vivasvataḥ |*
-*nū cid dhi ratnaṃ sasatām ivāvidan na duṣṭutir draviṇodeṣu śasyate || 1 ||*
+*nyū̀ ṣú vācaṃ prá mahé bharāmahe gíra índrāya sádane vivásvataḥ |*
+*nū́ cid dhí rátnaṃ sasatā́m ivā́vidan ná duṣṭutír draviṇodéṣu śasyate || 1 ||*
+
+*(Pass: the print sets* nyū *as "ನ್ಯೂ೩", the numeral ೩ (३) with stroke and bar (kampa); [accent ?] — the marks on* duṣṭutir draviṇodeṣu *are given as seen and are not certain.)*
 
 **Pada-pāṭha** *(p. 265)*
 
@@ -4816,11 +4818,11 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 265–266)*
 
-> **महे महत इन्द्राय सु वाचं शोभनां स्तुतिं नि प्र भरामहे । नितरां प्रयुञ्ज्महे [?] । उ इति पादपूरणः । यतो विवस्वतः परिचरतो यजमानस्य सदने यज्ञगृह इन्द्राय गिरः स्तुतयः क्रियन्ते । हि यस्मात्स इन्द्रो नू चित् क्षिप्रमेव रत्नं रमणीयमसुराणां धनमविदत् विन्दति । तत्र दृष्टान्तः । ससतामिव । यथा स्वपतां पुरुषाणां धनं चोरः क्षिप्रं लभते तद्वत् । अतोऽस्मभ्यं धनं दातुं शक्त इति भावः । द्रविणोदेषु धनस्य दातृषु पुरुषेषु दुष्टुतिरसमीचीना स्तुतिर्न शस्यते नाभिधीयते । अतः सुवाचं प्र भरामह इति पूर्वेण संबन्धः ॥**
+> **महे महत इन्द्राय सु वाचं शोभनां स्तुतिं नि प्र भरामहे । नितरां प्रयुञ्ज्महे । उ इति पादपूरणः । यतो विवस्वतः परिचरतो यजमानस्य सदने यज्ञगृह इन्द्राय गिरः स्तुतयः क्रियन्ते । हि यस्मात्स इन्द्रो नू चित् क्षिप्रमेव रत्नं रमणीयमसुराणां धनमविदत् विन्दति । तत्र दृष्टान्तः । ससतामिव । यथा स्वपतां पुरुषाणां धनं चोरः क्षिप्रं लभते तद्वत् । अतोऽस्मभ्यं धनं दातुं शक्त इति भावः । द्रविणोदेषु धनस्य दातृषु पुरुषेषु दुष्टुतिरसमीचीना स्तुतिर्न शस्यते नाभिधीयते । अतः सुवाचं प्र भरामह इति पूर्वेण संबन्धः ॥**
 
-*mahe mahata indrāya su vācaṃ śobhanāṃ stutiṃ ni pra bharāmahe | nitarāṃ prayuñjmahe [?] | u iti pādapūraṇaḥ | yato vivasvataḥ paricarato yajamānasya sadane yajñagṛha indrāya giraḥ stutayaḥ kriyante | hi yasmāt sa indro nū cit kṣipram eva ratnaṃ ramaṇīyam asurāṇāṃ dhanam avidat vindati | tatra dṛṣṭāntaḥ | sasatām iva | yathā svapatāṃ puruṣāṇāṃ dhanaṃ coraḥ kṣipraṃ labhate tadvat | ato 'smabhyaṃ dhanaṃ dātuṃ śakta iti bhāvaḥ | draviṇodeṣu dhanasya dātṛṣu puruṣeṣu duṣṭutir asamīcīnā stutir na śasyate nābhidhīyate | ataḥ suvācaṃ pra bharāmaha iti pūrveṇa saṃbandhaḥ ||*
+*mahe mahata indrāya su vācaṃ śobhanāṃ stutiṃ ni pra bharāmahe | nitarāṃ prayuñjmahe | u iti pādapūraṇaḥ | yato vivasvataḥ paricarato yajamānasya sadane yajñagṛha indrāya giraḥ stutayaḥ kriyante | hi yasmāt sa indro nū cit kṣipram eva ratnaṃ ramaṇīyam asurāṇāṃ dhanam avidat vindati | tatra dṛṣṭāntaḥ | sasatām iva | yathā svapatāṃ puruṣāṇāṃ dhanaṃ coraḥ kṣipraṃ labhate tadvat | ato 'smabhyaṃ dhanaṃ dātuṃ śakta iti bhāvaḥ | draviṇodeṣu dhanasya dātṛṣu puruṣeṣu duṣṭutir asamīcīnā stutir na śasyate nābhidhīyate | ataḥ suvācaṃ pra bharāmaha iti pūrveṇa saṃbandhaḥ ||*
 
-*(Reading note: "*prayuñjmahe*" is as I read the print, [?]. The tail of the bhāṣya, p. 266 foot –, is characterized:* nyū ṣu *(the acute-svarita sandhi; the lengthening of* u *by* ikaḥ suñi*, Pā. 6-3-134 as read [?]; the* ṣatva *of the* s *of* su *by* sūñ… *Pā. 8-3-107 as read [?]);* mahe *(*maha pūjāyām*, *kvip ca*, *mah*, the dative);* nū cit *(lengthening in the Saṃhitā by* ṛcitunughamakṣutaru…*, Pā. 6-3-133 as read [?]);* sasatām iva *(*sasa svapne*, *śatṛ*, *śatur anumo nadyajādī*; the compound with* iva *where the case-ending is not dropped, *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca*, Pā. 2-1-4 as read [?]);* avidat *(*vid lābhe*, *luṅ* in the present sense,* cleraṅ*,* nighāta *forbidden by* hi ca*);* draviṇodeṣu *(*dru gatau*, Uṇādi* inan*; *dravina*; *dā* with* ka* by* ātaś copasarge* / *supi sthaḥ*, *ātolopa iṭi ca*, the *su*-augment in the Veda, *hośi ca* gives* o*, *gatikārako…*);* śasyate *(*śaṃsu stutau*, passive* laṭ*, *yak*, the loss of the penultimate nasal).)*
+*(Reading note: "*prayuñjmahe*" settled from the print. The tail of the bhāṣya, p. 266 foot –, is characterized:* nyū ṣu *(the acute-svarita sandhi; the lengthening of* u *by* ikaḥ suñi*, Pā. 6-3-134; the* ṣatva *of the* s *of* su *by* sūñaḥ*);* mahe *(*maha pūjāyām*, *kvip ca*, *mah*, the dative);* nū cit *(lengthening in the Saṃhitā by* ṛcitunughamakṣutaru…*, no number in the tail);* sasatām iva *(*sasa svapne*, *śatṛ*, *śatur anumo nadyajādī*; the compound with* iva *where the case-ending is not dropped, *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca*, Pā. 2-1-4-2);* avidat *(*vid lābhe*, *luṅ* in the present sense,* cleraṅ*,* nighāta *forbidden by* hi ca*);* draviṇodeṣu *(*dru gatau*, Uṇādi* inan*; *dravina*; *dā* with* ka* by* ātaś copasarge* / *supi sthaḥ*, *ātolopa iṭi ca*, the *su*-augment in the Veda, *hośi ca* gives* o*, *gatikārako…*);* śasyate *(*śaṃsu stutau*, passive* laṭ*, *yak*, the loss of the penultimate nasal).)*
 
 **Translation of the bhāṣya:** "To *mahe*, the great Indra, we *ni pra bharāmahe*, we offer *su vācam*, a fair speech, praise; *u* is a mere filler. Because in the house of the sacrificer — the *vivasvat*, the one who serves — in the sacrificial house, praises are made for Indra; and because that Indra, *nū cit*, quickly gets *ratnam*, the delightful wealth of the Asuras — an example: *sasatām iva*, as a thief quickly gets the property of men who are asleep — so he is able to give wealth to us, is the sense. Among *draviṇodeṣu*, the persons who give wealth, a *duṣṭuti*, an unsuitable praise, is not praised, is not accepted. Therefore '*suvācaṃ pra bharāmahe*' connects with the first line."
 
@@ -4833,9 +4835,9 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 267–268** *(the first two Special Topics are on p. 267; the rest on p. 268)*
 - **mukhyābhiprāya** *(the chief sense; a Sanskrit passage in the print, with Kannada)*:
 
-  > **अत्रेदमुक्तं भवति । निद्रिताः पुरुषा इव यदा मनुष्या धनं नोपेक्षन्ते तदपि तेभ्य इन्द्रः क्षिप्रं धनं ददाति । विशादेषु धनदेषु विषयेषु च समीचीना स्तुतिः शंस्या भवति । अतः कारणात्सर्वाचीनानि स्तोत्राणि रचयित्वास्य नो यजमानस्य यज्ञशालायां महत इन्द्रायोर्पयामेति ॥**
+  > **अत्रेदमुक्तं भवति । निद्रिताः पुरुषा इव यदा मनुष्या धनं नोपेक्षन्ते तदपि तेभ्य इन्द्रः क्षिप्रं धनं ददाति । एतादृशेषु धनदेषु विषयेषु च समीचीना स्तुतिः शंस्या भवति । अतः कारणात्समीचीनानि स्तोत्राणि रचयित्वास्य नो यजमानस्य यज्ञशालायां महत इन्द्रायोर्पयामेति ॥**
 
-  *atredam uktaṃ bhavati | nidritāḥ puruṣā iva yadā manuṣyā dhanaṃ nopekṣante tadāpi tebhya indraḥ kṣipraṃ dhanaṃ dadāti | viśādeṣu [?] dhanadeṣu viṣayeṣu ca samīcīnā stutiḥ śaṃsyā bhavati | ataḥ kāraṇāt sarvācīnāni stotrāṇi racayitvāsya no yajamānasya yajñaśālāyāṃ mahata indrāyārpayāmeti ||* — "Here this is meant: when men, like sleeping persons, take no care of wealth, even then Indra quickly gives wealth to them. For givers of wealth and in matters of this kind, a fitting praise is to be recited. For this reason, having composed hymns suited to the occasion, let us offer them to the great Indra in the sacrificial hall of our sacrificer." *(The print's* viśādeṣu *is crowded, [?]; the Kannada adds: "As to men asleep there is no concern about property; in just that way, Indra, hurrying, gives wealth quickly even to praisers who are not hurrying after wealth. Therefore the intention here is clear: having composed the best hymns to Indra, who is worthy of hymns, in the sacrificial hall of the sacrificer, let us offer them to Indra.")*
+  *atredam uktaṃ bhavati | nidritāḥ puruṣā iva yadā manuṣyā dhanaṃ nopekṣante tadāpi tebhya indraḥ kṣipraṃ dhanaṃ dadāti | etādṛśeṣu dhanadeṣu viṣayeṣu ca samīcīnā stutiḥ śaṃsyā bhavati | ataḥ kāraṇāt samīcīnāni stotrāṇi racayitvāsya no yajamānasya yajñaśālāyāṃ mahata indrāyārpayāmeti ||* — "Here this is meant: when men, like sleeping persons, take no care of wealth, even then Indra quickly gives wealth to them. For givers of wealth and in matters of this kind, a fitting praise is to be recited. For this reason, having composed hymns suited to the occasion, let us offer them to the great Indra in the sacrificial hall of our sacrificer." *(Pass: the print reads* etādṛśeṣu *and* samīcīnāni*; the Kannada adds: "As to men asleep there is no concern about property; in just that way, Indra, hurrying, gives wealth quickly even to praisers who are not hurrying after wealth. Therefore the intention here is clear: having composed the best hymns to Indra, who is worthy of hymns, in the sacrificial hall of the sacrificer, let us offer them to Indra.")*
 - **ni + ū + su = nyū ṣu** — "Here *ni* is a preposition. The *ū* serves only to fill the foot; it has no meaning. The word *su* means 'fine, beautiful'; the word *su* qualifies the word *vāc*."
 - **ratnam** — "In this context the meaning that arises from the connection is 'the delightful wealth of the Rākṣasas'."
 - **sasatām iva** — "This word, formed from the root *sasa svapne*, gives the sense 'of those who sleep'. The sense is given as an illustration of the matter above: Indra takes away the wealth of the Rākṣasas and gives it to the sacrificer and the like, the good people."
@@ -4843,12 +4845,12 @@
 - **draviṇodeṣu** — "From the root *dru gatau* the word *draviṇa* is formed. Such persons who give *draviṇa* (movable wealth) are *draviṇodāḥ*. It is well known that a praise that is not suitable cannot be effective among the givers of wealth."
 
 **Vyākaraṇa-prakriyā** *(pp. 267–269 — grammar pages, noted briefly)*
-- **nyū ṣu**: *ni* + *ū*: *yaṇ* for the *i*; *udāttasvaritayor yaṇaḥ svaritonudāttasya* gives *svarita* to the *ū*, because the *yaṇ* has come in the place of an acute vowel; since the following *su* is acute, the *svarita* is trembled (*kampa*) in the Saṃhitā; *ikaḥ suñi* (Pā. 6-3-134 as read [?]) lengthens the *u*; *sūñ* [as read, Pā. 8-3-107 as read, [?]] gives *ṣatva* to the *s* of *su*, which stands after the *nimitta* in an earlier word and is a *nipāta*.
-- **mahe**: *maha pūjāyām*; *kvip ca* gives *kvip*: *mah*; dative singular: *mahe*; by *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168 as read [?]) the ending is acute; or, the *mahat* word with the Vedic loss of the end, in which case the accent is as before.
-- **nū cit**: *nu cit*: the lengthening in the Saṃhitā by *ṛcitunughamakṣutaruṣu*… (Pā. 6-3-133 as read [?]).
-- **sasatām iva**: *sasa svapne*, *śatṛ* in the present sense; genitive plural *sasatām*; by *śaturanumo nadyajādī* the ending is acute; then the compound with *iva*; *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca* (Pā. 2-1-… as read [?]): the ending is not dropped, though in a compound.
-- **avidat**: *vid lābhe*, *tudādi*; *chandasi luṅlaṅliṭaḥ* gives *luṅ* in the sense of the present; since the third-person-plural-like ending…, *itaś ca* drops the *i*; *saṃyogāntalopa* drops the *t*; *puṣādidyutādi…* (Pā. 3-1-55) gives *aṅ* in place of *cli* in *luṅ*; *aṭ* as the *luṅ*-nimitta; because *hi* is before, *hi ca* (Pā. 8-1-34) forbids the *nighāta*, so *aṭ* is acute.
-- **draviṇodeṣu**: "*draviṇāni dhanāni dadāti iti draviṇodāḥ*"; *dru gatau*; the Uṇādi *inan* by *drudakṣibhyām inan* (Uṇ. 2-… as read [?]); *guṇa* of the root before the suffix; the *n* after *r*, so *ṇatva* by *aṭkupvāṅnumvyavāye 'pi*: *draviṇa*; with *draviṇa* as the *upapada*, *ātaś copasarge kaḥ* (Pā. 3-2-3) gives *ka* after *dā*; being *kit*, *ātolopa iṭi ca* drops the *ā*; for the first member *draviṇa* the *su*-augment comes in the Veda, and since it is final, *ruḥ*; *hośi ca* gives *u* and *guṇa*; so *draviṇodaḥ*; since the first member is a *kāraka* word, *gatikārakopapadāt kṛt* gives the accent of the last member; locative plural.
+- **nyū ṣu**: *ni* + *ū*: *yaṇ* for the *i*; *udāttasvaritayor yaṇaḥ svaritonudāttasya* gives *svarita* to the *ū*, because the *yaṇ* has come in the place of an acute vowel; since the following *su* is acute, the *svarita* is trembled (*kampa*) in the Saṃhitā; *ikaḥ suñi* (Pā. sū. 6-3-134) lengthens the *u*; *sūñaḥ* (Pā. sū. 8-3-107) gives *ṣatva* to the *s* of *su*, which stands after the *nimitta* in an earlier word and is a *nipāta*.
+- **mahe**: *maha pūjāyām*; *kvip ca* gives *kvip*: *mah*; dative singular: *mahe*; by *sāvekācas tṛtīyādiḥ* (Pā. sū. 6-1-168) the ending is acute; or, the *mahat* word with the Vedic loss of the end, in which case the accent is as before.
+- **nū cit**: *nu cit*: the lengthening in the Saṃhitā by *ṛcitunughamakṣutaruṣu*… (Pā. sū. 6-3-133, read at low zoom).
+- **sasatām iva**: *sasa svapne*, *śatṛ* in the present sense; genitive plural *sasatām*; by *śaturanumo nadyajādī* the ending is acute; then the compound with *iva*; *ivena vibhaktyalopaḥ pūrvapadaprakṛtisvaratvaṃ ca* (Pā. sū. 2-1-4-2): the ending is not dropped, though in a compound.
+- **avidat**: *vid lābhe*, *tudādi*; *chandasi luṅlaṅliṭaḥ* gives *luṅ* in the sense of the present; since the third-person-plural-like ending…, *itaś ca* drops the *i*; *saṃyogāntalopa* drops the *t*; *puṣādidyutādi…* (Pā. sū. 3-1-55) gives *aṅ* in place of *cli* in *luṅ*; *aṭ* as the *luṅ*-nimitta; because *hi* is before, *hi ca* (Pā. sū. 8-1-34) forbids the *nighāta*, so *aṭ* is acute.
+- **draviṇodeṣu**: "*draviṇāni dhanāni dadāti iti draviṇodāḥ*"; *dru gatau*; the Uṇādi *inan* by *drudakṣibhyām inan* (Uṇ. sū. 2-50); *guṇa* of the root before the suffix; the *n* after *r*, so *ṇatva* by *aṭkupvāṅnumvyavāye 'pi*: *draviṇa*; with *draviṇa* as the *upapada*, *ātaś copasarge kaḥ* (Pā. sū. 3-2-3) gives *ka* after *dā*; being *kit*, *ātolopa iṭi ca* (Pā. sū. 6-4-64) drops the *ā*; for the first member *draviṇa* the *su*-augment comes in the Veda, and since it is final, *ruḥ*; *hośi ca* gives *u* and *guṇa*; so *draviṇodaḥ*; since the first member is a *kāraka* word, *gatikārakopapadāt kṛt* gives the accent of the last member; locative plural.
 - **śasyate**: *śaṃsu stutau*; *laṭ* in the passive; *sārvadhātuke yak* gives *yak*; *kit*, so *anidita…halantānām* drops the penultimate nasal; *ṭita ātmanepadānāṃ ṭer e* gives *e*: *śasyate*; *tiṅ atiṅaḥ*, *nighāta*. **|| 1 ||**
 
 ---
