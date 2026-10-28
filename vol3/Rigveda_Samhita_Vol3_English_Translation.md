@@ -9852,12 +9852,12 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 480)*
 
-*(Line 1 flagged [accent ?]: the svarita strokes stand over* त्वा*,* वि *(of* विश्ववारा*) and* शा*; the bars under* व *of* वयं *and* वा *of* विश्ववारा*; I place the bar under* वा *as printed. In line 2 the strokes stand over* खे *and* भ्यः*, the bar under* रि*.)*
+*(Line 1 flagged [accent ?]: the svarita strokes stand over* त्वा*,* वि *(of* विश्ववारा*) and* शा*; the bars under* व *of* वयं *and* वा *of* विश्ववारा*; the bar stands a little to the left of* वा*. In line 2 the strokes stand over* खे *and* भ्यः*, the bar under* रि*.)*
 
-> तं त्वा॑ व॒यं वि॑श्वव॒ारा शा॑स्महे पुरुहूत । [accent ?]
+> तं त्वा॑ व॒यं वि॑श्ववा॒रा शा॑स्महे पुरुहूत । [accent ?]
 > सखे॑ वसो जरि॒तृभ्यः॑ ॥ १० ॥
 
-> *táṃ tvā vayáṃ viśvavārā́ śā́smahe puruhūta | [syllables 15/16?]* [accent ?]
+> *táṃ tvā vayáṃ viśvavārā́ śāsmahe puruhūta |* [accent ?]
 > *sákhe vaso jaritṛ́bhyaḥ || 10 ||*
 
 *(Saṃhitā accents as printed; Pada unaccented.)*
