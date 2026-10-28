@@ -9229,15 +9229,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 45.2 (pp. 546–549, PDF 560–563)
+### Rik 45.2 (pp. 546–549, PDF 560–563; better scan PDF 561–564)
 
-**Saṃhitā-pāṭha** *(p. 546; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 546)*
 
-> **श्रुष्टीवानो हि दाशुषे देवा अग्ने विचेतसः ।**
-> **तान्रोहिदश्व गिर्वणस्त्रयस्त्रिंशतमा वह ॥ २ ॥**
+> **श्रु॒ष्टी॒वानो॒ हि दा॒शुषे॑ दे॒वा अग्ने॒ विचे॑तसः ।**
+> **तान्रो॑हिदश्व गिर्वण॒स्त्रय॑स्त्रिंशत॒मा व॑ह ॥ २ ॥**
 
-*śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |*
-*tān rohidaśva girvaṇas trayastriṃśatam ā vaha || 2 ||*
+*śruṣṭīvā́no hí dāśúṣe devā́ agne vícetasaḥ |*
+*tā́n rohidaśva girvaṇas tráyastriṃśatam ā́ vaha || 2 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
+### Page 547
 
 **Pada-pāṭha** *(p. 547)*
 
@@ -9249,17 +9253,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 547)*
 
-> **हे अग्ने विचेतसो विशिष्टप्रज्ञाना देवा दाशुषे हविर्दत्तवते यजमानाय श्रुष्टीवानो हि । श्रुष्टिः फलस्य दानं । तद्भाजः खलु । हे रोहिदश्व रोहिन्नामकैरश्वैरुपेत गिर्वणो गीर्भिः स्तुतिभिर्वननीयाग्ने । गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति । नि. ६-१४ [?] । इति यास्कः । त्रयस्त्रिंशतमनया [?] संख्यया संख्याताँस्तान्देवान्ना वह । इहानय ॥**
+> **हे अग्ने विचेतसो विशिष्टप्रज्ञाना देवा दाशुषे हविर्दत्तवते यजमानाय श्रुष्टीवानो हि । श्रुष्टिः फलस्य दानं । तद्भाजः खलु । हे रोहिदश्व रोहिन्नामकैरश्वैरुपेत गिर्वणो गीर्भिः स्तुतिभिर्वननीयाग्ने । गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति । नि. ६-१४ । इति यास्कः । त्रयस्त्रिंशतमनया संख्यया संख्याताँस्तान्देवान्ना वह । इहानय ॥**
 
-*he agne vicetaso viśiṣṭaprajñānā devā dāśuṣe havirdattavate yajamānāya śruṣṭīvāno hi | śruṣṭiḥ phalasya dānaṃ | tadbhājaḥ khalu | he rohidaśva rohinnāmakair aśvair upeta girvaṇo gīrbhiḥ stutibhir vananīyāgne | girvaṇā devo bhavati gīrbhir enaṃ vanayanti | ni. 6-14 [?] | iti yāskaḥ | trayastriṃśatam anayā [?] saṃkhyayā saṃkhyātāṃs tān devān ā vaha | ihānaya ||*
+*he agne vicetaso viśiṣṭaprajñānā devā dāśuṣe havirdattavate yajamānāya śruṣṭīvāno hi | śruṣṭiḥ phalasya dānaṃ | tadbhājaḥ khalu | he rohidaśva rohinnāmakair aśvair upeta girvaṇo gīrbhiḥ stutibhir vananīyāgne | girvaṇā devo bhavati gīrbhir enaṃ vanayanti | ni. 6-14 | iti yāskaḥ | trayastriṃśatam anayā saṃkhyayā saṃkhyātāṃs tān devān ā vaha | ihānaya ||*
 
-**Translation:** "O Agni, the gods, *vicetasaḥ*, of special wisdom, *śruṣṭīvānaḥ hi*, are indeed givers of reward to *dāśuṣe*, the sacrificer who has given the oblation. *Śruṣṭi* is the giving of the fruit; they are partakers of that. O *rohidaśva*, you who are furnished with the horses named Rohit; O *girvaṇaḥ*, you who are to be served with songs, with praises, O Agni — '*girvaṇā* is a god; they serve him with songs', says Yāska (Ni. 6-14 [?]). Bring here, *ā vaha*, those gods who are counted by the number *trayastriṃśatam*, thirty-three."
+**Translation:** "O Agni, the gods, *vicetasaḥ*, of special wisdom, *śruṣṭīvānaḥ hi*, are indeed givers of reward to *dāśuṣe*, the sacrificer who has given the oblation. *Śruṣṭi* is the giving of the fruit; they are partakers of that. O *rohidaśva*, you who are furnished with the horses named Rohit; O *girvaṇaḥ*, you who are to be served with songs, with praises, O Agni — '*girvaṇā* is a god; they serve him with songs', says Yāska (Ni. 6-14). Bring here, *ā vaha*, those gods who are counted by the number *trayastriṃśatam*, thirty-three."
 
 **Grammatical tail** *(p. 547; characterized)*
 - *śruṣṭīvānaḥ*: *śruṣṭi* has the sense of "impulse, giving"; the abstract suffix *ktic*; "those who serve (*vananti*) *śruṣṭi*, who share in it", hence *śruṣṭīvānaḥ*; the suffix *vic* by "(it is seen) after other roots too"; the lengthening is Vedic.
 - *vicetasaḥ*: "those whose mind (*cetas*) is special"; in the bahuvrīhi the first member keeps its natural accent.
 - *girvaṇaḥ*: "he who is to be served by songs (*gīrbhiḥ*)"; *asun* after *vana*; the shortening of the first member is Vedic.
-- *trayastriṃśat*: "three and thirty" (*trayaś ca triṃśac ca*); by *tre strayaḥ* (Pā. 6-3-48 as read [?]) *trayas* is substituted for *tri*; as a *saṃkhyā*-compound the first member keeps its natural accent (Pā. 6-2-[?] as read).
+- *trayastriṃśat*: "three and thirty" (*trayaś ca triṃśac ca*); by *tre strayaḥ* (Pā. 6-3-48) *trayas* is substituted for *tri*; by *saṃkhyā* (Pā. 6-2-35) the first member keeps its natural accent.
 
 **Pratipadārtha** *(p. 547)* — "**agne** — O Agni; **vicetasaḥ** — endowed with discriminating wisdom; **devāḥ** — the gods; **dāśuṣe** — to the sacrificer who gives the oblation; **śruṣṭīvānaḥ hi** — are indeed those who give the fruit; **rohidaśva** — you who are endowed with horses called Rohit; **girvaṇaḥ** — you who are fond of praise; **trayastriṃśatam** — those of the number thirty-three; **tān** — those gods; **ā vaha** — bring (here)."
 
@@ -9267,18 +9271,22 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **English Translation (the source's own, p. 548)** — "The wise gods are givers of rewards to the offerer of oblations ; O Agni with the red horses, being praised by hymns, bring hither three and thirty (thirty-three) gods."
 
+### Page 548
+
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 548**
 - **śruṣṭīvānaḥ** — "*phalasya dātāraḥ; prārthitasya phalasya dātāraḥ*: givers of the fruit; givers of the fruit that was prayed for — they give the fruits that are desired."
 - **vicetasaḥ** — "*viśiṣṭaprajñānāḥ*: those who know everything, those endowed with knowledge."
-- **rohidaśva** — "*Rohit* is a name of Agni's vehicle or of his horses. Yāska says on this: '*harī indrasya | rohito 'gneḥ*' (Ni. 1-[?] as read) — हरी इन्द्रस्य । रोहितोऽग्नेः — *harī indrasya | rohito 'gneḥ* — mine and tentative: 'the two bays are Indra's; the red ones are Agni's'. The meaning is: Agni, who has the horses called Rohit."
-- **girvaṇaḥ** — "*gīrbhiḥ stutibhiḥ*: one who is praised with words of praise; or a god. Yāska says: '*girvaṇā devo bhavati gīrbhir enaṃ vanayanti*' (Ni. 6-[?] as read) — गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति — mine and tentative: '*girvaṇā* is a god; they serve him with songs'."
-- **trayastriṃśatam** — "the Vasus 8, the Rudras 11, the Ādityas 12 [as read; their sum is 31], in all thirty-three deities, or deities of thirty-three kinds (classes)."
+- **rohidaśva** — "*Rohit* is a name of Agni's vehicle or of his horses. Yāska says on this: '*harī indrasya | rohito 'gneḥ*' (Ni. 2-28 as printed; both 2s are the curled glyph) — हरी इन्द्रस्य । रोहितोऽग्नेः — *harī indrasya | rohito 'gneḥ* — mine and tentative: 'the two bays are Indra's; the red ones are Agni's'. The meaning is: Agni, who has the horses called Rohit."
+- **girvaṇaḥ** — "*gīrbhiḥ stutibhiḥ*: one who is praised with words of praise; or a god. Yāska says: '*girvaṇā devo bhavati gīrbhir enaṃ vanayanti*' (Ni. 6-14) — गिर्वणा देवो भवति गीर्भिरेनं वनयन्ति — mine and tentative: '*girvaṇā* is a god; they serve him with songs'."
+- **trayastriṃśatam** — "the Vasus 8, the Rudras 11, the Ādityas 12 [as printed; their sum is 31], in all thirty-three deities, or deities of thirty-three kinds (classes)."
 
 **Vyākaraṇa-prakriyā** *(pp. 548–549 — grammar pages, noted briefly)*
-- **śruṣṭīvānaḥ**: the root *śruś* in the sense of impulse (*preraṇa*, as printed); after it, in the abstract sense, *ktic*; *iṭ* does not come by a rule beginning *śrī…* (as read, partly); the *ś* becomes *ṣ* by "*vraścabhrasja…*" (Pā. 8-2-36 as read [?]) — वश्चभ्रस्ज… — *śruṣ + ti*, then the *ṭ*-change: *śruṣṭi*. Root *vana saṃbhaktau*: "*śruṣṭiṃ vananti = saṃbhajante*", "those who have a liking for impulse"; *vic* by "*anyebhyo 'pi dṛśyante*"; "*anyeṣām api dṛśyate*" lengthens the first member; *jas*; *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8 as read [?]) gives the lengthening of the penultimate (*upadhādīrgha*).
+- **śruṣṭīvānaḥ**: the root *śruś* in the sense of impulse (*preraṇa*, as printed); after it, in the abstract sense, *ktic*; *iṭ* does not come by *titutra…*; the *ś* becomes *ṣ* by "*vraścabhrasja…*" (no number printed) — व्रश्चभ्रस्ज… — *śruṣ + ti*, then the *ṭ*-change: *śruṣṭi*. Root *vana saṃbhaktau*: "*śruṣṭiṃ vananti = saṃbhajante*", "those who have a liking for impulse"; *vic* by "*anyebhyo 'pi dṛśyante*"; "*anyeṣām api dṛśyate*" lengthens the first member; *jas*; *sarvanāmasthāne cāsambuddhau* (no number printed) gives the lengthening of the penultimate (*upadhādīrgha*).
 - **vicetasaḥ**: *viśiṣṭaṃ cetaḥ yeṣāṃ te*, a bahuvrīhi; the first member keeps its natural accent.
-- **girvaṇaḥ**: root *gṝ śabde*; *kvip ca* gives *kvip*; *ṛta id dhātoḥ* (Pā. 7-1-100 as read) gives *ir* for *ṛ*, which by *uraṇ raparaḥ* ends in *r*: *gir*; root *vana saṃbhaktau*, "*gīrbhiḥ vanyate*"; *sarvadhātubhyo 'sun* gives the suffix *asun*; *hali ca* (Pā. 8-2-77 as read) lengthens the *ik* that is the penultimate of a root ending in *r* or *v* when a consonant follows, so the *i* of *gir* should lengthen; or, taking the case-ending that comes after as the cause of *pada*-designation, *r-vor upadhāyā dīrgha ikaḥ* (Pā. 8-2-76 as read) lengthens the *ik* before a final *r/v*; but the maxim "*sarve vidhayaś chandasi vikalpyante*" makes these optional in the Chandas, and so they do not come here.
-- **trayastriṃśatam**: "*trayaś ca triṃśac ca = trayastriṃśat*", or "thirty increased by three"; *tre strayaḥ* (Pā. 6-3-48 as read [?]): when a word expressing a number below a hundred follows, *trayas* is substituted for *tri*; this does not come in a bahuvrīhi, nor when *aśīti* follows (as printed); with *triṃśat* following, a number below a hundred, *tri* becomes *trayas*; *trayas + triṃśat*. *Pañca…viṃśati-triṃśat…* (Pā. 5-1-[?] as read) — when "*trayodaśaśataḥ parimāṇam asya*" is intended, *trin* is substituted for *tri* [the wording is crowded, [?]]; or the suffix *śatip* is added after *tri* by *nipātana*. "Of the thirty-three the *pūraṇa*" (*trayastriṃśatāṃ pūraṇaḥ*): *tasya pūraṇe ḍaṭ* (Pā. 5-2-48 as read [?]) gives the suffix *ḍaṭ*, and *viṃśatyādibhyas tamaḍ anyatarasyām* (Pā. 5-2-56 as read [?]) the augment *tamaṭ*: so *trayastriṃśatam* as printed. **|| 2 ||**
+### Page 549
+
+- **girvaṇaḥ**: root *gṝ śabde*; *kvip ca* gives *kvip*; *ṛta id dhātoḥ* (no number printed) gives *ir* for *ṛ*, which by *uraṇ raparaḥ* ends in *r*: *gir*; root *vana saṃbhaktau*, "*gīrbhiḥ vanyate*"; *sarvadhātubhyo 'sun* gives the suffix *asun*; *hali ca* (Pā. 8-2-77) lengthens the *ik* that is the penultimate of a root ending in *r* or *v* when a consonant follows, so the *i* of *gir* should lengthen; or, taking the case-ending that comes after as the cause of *pada*-designation, *vor upadhāyā dīrgha ikaḥ* (Pā. 8-2-76) lengthens the *ik* before a final *r/v*; but the maxim "*sarve vidhayaś chandasi vikalpyante*" makes these optional in the Chandas, and so they do not come here.
+- **trayastriṃśatam**: "*trayaś ca triṃśac ca = trayastriṃśat*", or "thirty increased by three"; *tre strayaḥ* (Pā. 6-3-48): when a word expressing a number below a hundred follows, *trayas* is substituted for *tri*; this does not come in a bahuvrīhi, nor when *aśīti* follows (as printed); with *triṃśat* following, a number below a hundred, *tri* becomes *trayas*; *trayas + triṃśat*. *Pañca…viṃśati-triṃśat…* (Pā. 5-1-59) — when "*trayodaśaśataḥ parimāṇam asya*" is intended, *trin* is substituted for *tri* ; or the suffix *śatip* is added after *tri* by *nipātana*. "Of the thirty-three the *pūraṇa*" (*trayastriṃśatāṃ pūraṇaḥ*): *tasya pūraṇe ḍaṭ* (Pā. 5-2-48) gives the suffix *ḍaṭ*, and *viṃśatyādibhyas tamaḍ anyatarasyām* (Pā. 5-2-56) the augment *tamaṭ*: so *trayastriṃśatam* as printed. **|| 2 ||**
 
 ---
 
