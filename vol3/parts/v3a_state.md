@@ -3,8 +3,8 @@
 Range: Sūkta 24 Ṛk 14 (printed p. 288 = PDF 302) through the end of Sūkta 29 (before the Sūkta 30 heading, ~p. 458 = PDF 472). Better scan: printed = PDF − 14.
 Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
-Done through: Ṛk 26.6 (p. 363 = PDF 377).
-Next unit: Ṛk 26.7 (pp. 363–365 = PDF 377–379).
+Done through: Ṛk 26.7 (p. 365 = PDF 379).
+Next unit: Ṛk 26.8 (pp. 366–368 = PDF 380–382).
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
@@ -24,3 +24,4 @@ Open items:
 - p. 354: Uṇ. 4-5[7?]6 (samāne khyaḥ) third digit doubtful.
 - p. 360: Pā. 5-1-28 printed for tiṅṅatiṅaḥ (std 8-1-28).
 - p. 363: grammar prints 7-4-25 for plutapragṛhyā (std 6-1-125) and 7-4-15 for akṛtsārvadhātukayoḥ (std 7-4-25).
+- p. 365: Uṇ. 3-3[?]8 (vṛña eṇyaḥ) middle digit.

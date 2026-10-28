@@ -8959,38 +8959,57 @@ by "अनुदात्तं च" (Pā. Sū. 8-1-3) the repeated latter form 
 
 ---
 
-### Pages 363–365 — Sūkta 26, Rik 7
+### Page 363 (lower) — Sūkta 26, Rik 7
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> प्रियो नो अस्तु विश्पतिर्होता मन्द्रो वरेण्यः ।
-> प्रियाः स्वग्नयो वयम् ॥ ७ ॥
+> प्रि॒यो नो॑ अस्तु वि॒श्पति॒र्होता॑ म॒न्द्रो वरे॑ण्यः ।
+> प्रि॒याः स्व॒ग्नयो॑ व॒यं ॥७॥
+>
+> *priyó no astu viśpátirhótā mandró váreṇyaḥ |*
+> *priyā́ḥ svagnáyo vayáṃ ||7||*
 
-*priyo no astu viśpatir hotā mandro vareṇyaḥ | priyāḥ svagnayo vayam || 7 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. The* द्र *of* मन्द्रो *is printed with broken type in the Saṃhitā, clear in the Pada. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 364 — Rik 7: Pada, bhāṣya, word-meanings, overall sense, English
 
-> प्रियः । नः । अस्तु । विश्पतिः । होता । मन्द्रः । वरेण्यः ॥ प्रियाः । सुऽअग्नयः । वयम् ॥ ७ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*priyaḥ | naḥ | astu | viśpatiḥ | hotā | mandraḥ | vareṇyaḥ || priyāḥ | su-agnayaḥ | vayam || 7 ||*
+> प्रियः । नः । अस्तु । विश्पतिः । होता । मन्द्रः । वरेण्यः । प्रियाः । सुऽअग्नयः । वयं ॥७॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 364)*
+> *priyaḥ | naḥ | astu | viśpatiḥ | hotā | mandraḥ | vareṇyaḥ | priyāḥ | su-agnayaḥ | vayaṃ ‖7‖*
 
-> विश्पतिर्विशां प्रजानां पालको होता होमनिष्पादको मन्द्रो हृष्टो वरेण्यो वरणीयोऽग्निर्नोऽस्माकं प्रियोऽस्तु । वयमपि स्वग्नयः शोभनाग्नियुक्ताः सन्तस्तस्य प्रिया भूयास्मेति शेषः ॥ विश्पतिः । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छन्दसि बहुलमित्युत्तरपदाद्युदात्तत्वम् । वरेण्यः । वृञ् । एण्यः । उ. ३-९८ । पृषादित्वादाद्युदात्तत्वम् । स्वग्नयः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*viśpatir viśāṃ prajānāṃ pālako hotā homaniṣpādako mandro hṛṣṭo vareṇyo varaṇīyo 'gnir no 'smākaṃ priyo 'stu | vayam api svagnayaḥ śobhanāgniyuktāḥ santas tasya priyā bhūyāsmeti śeṣaḥ || viśpatiḥ | patyāv aiśvarya iti pūrvapadaprakṛtisvare prāpte parādiś chandasi bahulam ity uttarapadādyudāttatvam | vareṇyaḥ | vṛñ | eṇyaḥ | u. 3-98 | pṛṣādityād ādyudāttatvam | svagnayaḥ | bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam ||*
+> विश्पतिर्विशां प्रजानां पालको होता होमनिष्पादको मंद्रो हृष्टो वरेण्यो वरणीयोऽग्निर्नोऽस्माकं प्रियोऽस्तु । वयमपि स्वग्नयः शोभनाग्नियुक्ताः संतस्तव प्रिया भूयास्मेति शेषः ॥ विश्पतिः ॥ पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरे प्राप्ते परादिश्छंदसि बहुलमित्युत्तरपदाद्युदात्तत्वं । वरेण्यः । वृञ एण्यः । उ. ३-९८ । वृषादित्वादाद्युदात्तत्वं । स्वग्नयः । बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदांतोदात्तत्वं ॥
 
-**Translation:** "May Agni — *viśpati*, the protector of the people (*viś*); *hotā*, the performer of the oblation; *mandra*, the glad; *vareṇya*, to be chosen — be dear to us. And may we too, *svagnayaḥ* — possessed of good fires — be dear to him: this is to be supplied. *Viśpatiḥ*: by P. 6-2-18 [*patyāv aiśvarye*] the first member's accent would come, but *parādiś chandasi bahulam* gives the acute to the beginning of the final member. *Vareṇyaḥ*: *vṛñ* + *eṇya* (Uṇ. 3-98) by the *pṛṣādi* rule, first-syllable acute. *Svagnayaḥ*: in the *bahuvrīhi* the end-acute of the second member by P. 6-2-172 [*nañsubhyām*]." *(Grammar pages 365, noted briefly: the words treated are* viśpatiḥ *[*viśāṃ patiḥ*; *patyāv aiśvarye* P. 6-2-18 assigns the first member's accent when *pati* means 'lord'; the sūtra *parādiś chandasi bahulam* P. 6-2-199 gives, with *bahulam*, the acute on the beginning of the second member; hence *viśpatiḥ* is middle-acute],* vareṇyaḥ *[*vṛñ varaṇe* + *eṇya* by Uṇ. 3-98 *vṛñaḥ eṇyaḥ*; P. 7-3-84 gives guṇa to the *ṛ* before *ārdhadhātuka*; *ur aṇ raparaḥ* P. 1-1-51 makes it *ar*, hence *vareṇya*; the suffix accent would be expected but *vṛṣādīnāṃ ca* P. 6-1-203 gives the first-syllable acute because *vareṇya* is read in the *vṛṣādi* list] and* svagnayaḥ *[*śobhanā agnayo yeṣām*, a *bahuvrīhi*; *nañsubhyām* P. 6-2-172 gives the end-acute to the second member in a *bahuvrīhi* after *nañ* or *su*, so *su* + *agni* is end-acute, *agni* being end-acute; before *jas* the *i* takes guṇa by P. 7-3-109 *jasi ca*; then *ay* by P. 6-1-78]; numerals as read, pointers only.)*
+> *viśpatirviśāṃ prajānāṃ pālako hotā homaniṣpādako maṃdro hṛṣṭo vareṇyo varaṇīyo 'gnirno 'smākaṃ priyo 'stu | vayamapi svagnayaḥ śobhanāgniyuktāḥ saṃtastava priyā bhūyāsmeti śeṣaḥ ‖ viśpatiḥ ‖ patyāvaiśvarya iti pūrvapadaprakṛtisvare prāpte parādiśchaṃdasi bahulamityuttarapadādyudāttatvaṃ | vareṇyaḥ | vṛña eṇyaḥ | u. 3-98 | vṛṣāditvādādyudāttatvaṃ | svagnayaḥ | bahuvrīhau nañsubhyāmityuttarapadāṃtodāttatvaṃ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 364)* **विश्पतिः (viśpatiḥ)** — the protector of the people | **होता (hotā)** — the performer of the *homa* | **मन्द्रः (mandraḥ)** — the glad | **वरेण्यः (vareṇyaḥ)** — the chosen [the best] | **नः (naḥ)** — for us | **प्रियः (priyaḥ)** — kind [favourable] | **अस्तु (astu)** — may [Agni] be | **वयम् (vayam)** — we too | **स्वग्नयः (svagnayaḥ)** — possessing good fires | **प्रियाः (priyāḥ)** — dear [to Agni] | **(स्याम) ((syāma))** — may we be.
+*(Number zoom-read at 450 dpi: उ. ३-९८.)*
 
-**॥ Bhāvārthaḥ ॥** May Agni, the protector of the people, performer of the *homa*, glad and best, be favourable to us; and may we, who keep good fires, be dear to him.
+*Gist:* May Agni, protector of the people, the hotṛ, joyful and worthy to be chosen, be dear to us; and may we, having good fires, be dear to you.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **विश्पतिः (viśpatiḥ)** — lord of the people | **होता (hotā)** — performer of the homa | **मन्द्रः (mandraḥ)** — content | **वरेण्यः (vareṇyaḥ)** — best (chosen by us): Agni | **नः (naḥ)** — to us | **प्रियः (priyaḥ)** — as one who does favour | **अस्तु (astu)** — may he be | **वयं (vayaṃ)** — we too | **स्वग्नयः (svagnayaḥ)** — endowed with auspicious fires | **प्रियाः (priyāḥ)** — may we become dear (to Agni).
 
-> May Agni, the lord of men, the sacrificing priest (Hotri), the gracious, and the great (or the chosen) be kind (dear) to us; may we, possessed of holy fires, be dear to Agni.
+**॥ Bhāvārthaḥ ॥** May Agni — protector of the people, performer of the homa, content and best — be one who does us favour. May we too, joined with auspicious fires, become dear to Agni.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 365)* **प्रियो नः, प्रियाः स्वग्नयो वयम्** — in this rik Agni is praised with many epithets — *viśpati*, *hotā*, *mandra*, *vareṇya* — hence the ṛṣi uses the plural *vayam* of such an Agni. Or, since in the domestic worship [*pratimaneya*?] there are several fires such as the Gārhapatya, the word *svagnayaḥ* may have been used in the plural, meaning 'those who make the fires of our house bring us good' or 'our own fires', and so *priyāḥ svagnayaḥ* is used in the plural. *(The second explanation is read with doubt.)*
+**॥ English Translation ॥** *(as printed)*
+
+> May Agni, the lord of men, the sacrificing priest (Hotri), the gracious, and the great (or the chosen) be kind (dear) to us ; may we, possessed of holy fires, be dear to Agni.
+
+### Page 365 — Rik 7: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**प्रियाः स्वग्नयो वयं (priyāḥ svagnayo vayaṃ)** — in this ṛk Agni is praised with several epithets: *viśpati*, *hotā*, *mandra*, *vareṇya*. So the ṛṣi has referred to Agni, endowed with such qualities, in the plural. Or, since Agni is present in every house as lord of the house, the plural *priyāḥ svagnayaḥ* may have been used thinking of the fires (in our houses) that bring auspiciousness.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**विश्पतिः (viśpatiḥ)** — *viśāṃ patiḥ viśpatiḥ*: the lord of the people. By "पत्यावैश्वर्ये" (Pā. Sū. 6-2-18), when *pati* in the sense of lordship is the final member, the first member keeps its accent; this being attained, by "परादिश्छन्दसि बहुलम्" (Pā. Sū. 6-2-199), *bahula* being mentioned, the final member's initial acute comes here: *viśpatiḥ* is medially acute.
+
+**वरेण्यः (vareṇyaḥ)** — by "वृञ एण्यः" (Uṇ. Sū. 3-3[?]8, in the Kannada grammar's series: the middle digit is not settled; the bhāṣya gives उ. ३-९८), after *vṛñ varaṇe* the suffix *eṇya*; before it, by "सार्वधातुकार्धधातुकयोः" (Pā. Sū. 7-3-84) guṇa of the root's *ṛ*; since it replaces *ṛ*, by "उरण् रपरः" (Pā. Sū. 1-1-51) it is followed by *r*: *vareṇyaḥ*. Though the suffix accent would come, by "वृषादीनां च" (Pā. Sū. 6-1-203) it is initially acute; *vareṇya* is read in the *vṛṣādi* list.
+
+**स्वग्नयः (svagnayaḥ)** — *śobhanāḥ agnayaḥ yeṣāṃ te svagnayaḥ*: those who have holy fires; a bahuvrīhi. By "नञ्सुभ्याम्" (Pā. Sū. 6-2-172), in a bahuvrīhi the final member after *nañ* or *su* is end-acute; so here *agni*, after *su*, is end-acute. Before *jas*, by "जसि च" (Pā. Sū. 7-3-109) the stem takes guṇa; before the vowel, *ay*: *svagnayaḥ*. ॥७॥ *(A printed ornament follows.)*
 
 ---
 
