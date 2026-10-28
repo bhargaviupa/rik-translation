@@ -6259,295 +6259,754 @@ that is, "served by the deity named Bhaga; or served by all men with objects of 
 
 ---
 
-### Pages 260–264 — Sūkta 24, Rik 6 *(the Varuṇa riks begin)*
+### Page 260 (lower) — Sūkta 24, Rik 6 *(the Varuṇa riks begin)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नहि ते क्षत्रं न सहो न मन्युं वयश्चनामी पतयन्त आपुः ।
-> नेमा आपो अनिमिषं चरन्तीर्न ये वातस्य प्रमिनन्त्यभ्वम् ॥ ६ ॥
+> न॒हि ते॑ क्ष॒त्रं न सहो॒ न म॒न्युं वय॑श्च॒नामी प॒तय॑न्त आ॒पुः ।
+> नेमा आपो॑ अनिमि॒षं चर॑न्ती॒र्न ये वात॑स्य प्रमि॒नन्त्यभ्वं॑ ॥६॥
 
-*nahi te kṣatraṃ na saho na manyuṃ vayaś canāmī patayanta āpuḥ | nemā āpo animiṣaṃ carantīr na ye vātasya praminanty abhvam || 6 ||*
+> *na̱hi tḙ kṣa̱traṃ na saho̱ na ma̱nyuṃ vaya̭śca̱nāmī pa̱taya̭nta ā̱puḥ |*
+> *nemā āpo̭ animi̱ṣaṃ cara̭ntī̱rna ye vāta̭sya prami̱nantyabhva̭ṃ ||6||*
+>
+> *nahí te kṣatráṃ na saho ná manyúṃ váyaś canā́mī patáyanta āpúḥ |*
+> *nemā ā́po animiṣáṃ cárantīr ná ye vā́tasya praminánty ábhvaṃ ||6||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented. Line 1 and the first half of line 2 stand on p. 260 lower; the rest of line 2 is on p. 261.)*
 
-> नहि । ते । क्षत्रम् । न । सहः । न । मन्युम् । वयः । चन । अमी इति । पतयन्तः । आपुः ॥ न । इमाः । आपः । अनिऽमिषम् । चरन्तीः । न । ये । वातस्य । प्रऽमिनन्ति । अभ्वम् ॥ ६ ॥
+### Page 261 — Rik 6: Pada, bhāṣya
 
-*nahi | te | kṣatram | na | sahaḥ | na | manyum | vayaḥ | cana | amī iti | patayantaḥ | āpuḥ || na | imāḥ | āpaḥ | ani-miṣam | carantīḥ | na | ye | vātasya | pra-minanti | abhvam || 6 ||*
+**॥ Pada-pāṭhaḥ ॥**
+
+> नहि । ते । क्षत्रं । न । सहः । न । मन्युं । वयः । चन । अमी इति । पतयन्तः । आपुः ॥
+> न । इमाः । आपः । अनिऽमिषं । चरन्तीः । न । ये । वातस्य । प्रऽमिनन्ति । अभ्वं ॥६॥
+
+> *nahi | te | kṣatraṃ | na | sahaḥ | na | manyuṃ | vayaḥ | cana | amī iti | patayantaḥ | āpuḥ ||*
+> *na | imāḥ | āpaḥ | ani 'miṣaṃ | carantīḥ | na | ye | vātasya | pra 'minanti | abhvaṃ ||6||*
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(pp. 261–262)*
 
-> अथ सवित्रा प्रेरितः शुनःशेप एतदादिसूक्तशेषेणोत्तरेण च सूक्तेन वरुणं तुष्टाव । तथा च श्रूयते — तं सवितोवाच वरुणाय वै राज्ञे नियुक्तोऽसि तमेवोपधावेति स वरुणं राजानमुपससाराता उत्तराभिरेकत्रिंशता (ऐ. ब्रा. ७-१६) इति ॥ हे वरुण पतयन्तः प्रोड्डीयन्तः [?] अमी दृश्यमाना वयश्चन पक्षिणोऽपि ते क्षत्रं त्वदीयं शरीरबलं न ह्यापुः । नैव प्राप्ताः । तथा त्वद्दृशं शरीरबलं पक्षिणामपि नास्तीत्यर्थः । तथा सहस्त्वदीयं पराक्रमं तव सामर्थ्यमपि न प्राप्नुः । तथा मन्युं त्वदीयं कोपमपि न प्राप्नुः । त्वयि क्रुद्धे सति सोढुमशक्ता इत्यर्थः । अनिमिषं सर्वदा चरन्तीः प्रवाहरूपेण गच्छन्त्य आपस्त्वदीयं बलं न प्राप्नुः । वातस्य वायोर्ये गतिविशेषास्त्वदीयमभ्वं वेगं न प्रमिनन्ति न हिंसन्ति । अतिक्रमं कर्तुं न शक्ता इत्यर्थः । तेऽपि न प्राप्नुवन्ति पूर्वत्रान्वयः ॥ पतयन्तः । पत गतौ । चुरादिरदन्तः । लटः शतृ । शप् । गुणायादेशौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे णिचः स्वरः । आपुः । आप्लृ व्याप्तौ । लिट्झि । द्विर्भावहलादिशेषौ । अत आदेः (पा. ७-४-७०) इत्यादिदीर्घः । अत्र न सहो न मन्युमित्यादिभिरापुरित्यस्य सम्बन्धात्तदपेक्षया प्राथम्याच्चादि[लोपे विभाषा] लोपे विभाषेति [?] प्रथमा तिङ्भक्तिर्न निहन्यते । चरन्तीः । नाभ्यस्तेति पूर्वसवर्णदीर्घः । प्रमिनन्ति । मीञ् हिंसायाम् । क्र्यादिभ्यः श्ना । श्नाभ्यस्तयोरातः (पा. ६-४-११२) इत्याकारलोपः । मीनातेर्निगमे (पा. ६-१-४१) इति ह्रस्वत्वम् । प्रत्ययस्वरः । तिङि चोदात्तवति (पा. ८-१-७१) इति गतिरनुदात्तः । यद्वृत्तयोगादनिघातः ॥
+*As printed: एकविंशता (p. 263, in the Special Topics, has एकत्रिंशता); उपससारात; आप्लृ गतौ; लिट्युसि; त्यादिभ्यः श्ना (the Kannada grammar on p. 263 has क्र्यादि); पा. ७-३-८१ for the मीनातेर्निगमे rule. The bhāṣya ends with ॥६॥ on p. 262.*
 
-*atha savitrā preritaḥ śunaḥśepa etadādisūktaśeṣeṇottareṇa ca sūktena varuṇaṃ tuṣṭāva | tathā ca śrūyate — taṃ savitovāca varuṇāya vai rājñe niyukto 'si tam evopadhāveti sa varuṇaṃ rājānam upasasārātā uttarābhir ekatriṃśatā (ai. brā. 7-16) iti || he varuṇa patayantaḥ proḍḍīyantaḥ [?] amī dṛśyamānā vayaś cana pakṣiṇo 'pi te kṣatraṃ tvadīyaṃ śarīrabalaṃ na hy āpuḥ | naiva prāptāḥ | tathā tvaddṛśaṃ śarīrabalaṃ pakṣiṇām api nāstīty arthaḥ | tathā sahas tvadīyaṃ parākramaṃ tava sāmarthyam api na prāpnuḥ | tathā manyuṃ tvadīyaṃ kopam api na prāpnuḥ | tvayi kruddhe sati soḍhum aśaktā ity arthaḥ | animiṣaṃ sarvadā carantīḥ pravāharūpeṇa gacchantya āpas tvadīyaṃ balaṃ na prāpnuḥ | vātasya vāyor ye gativiśeṣās tvadīyam abhvaṃ vegaṃ na praminanti na hiṃsanti | atikramaṃ kartuṃ na śaktā ity arthaḥ | te 'pi na prāpnuvanti pūrvatrānvayaḥ || patayantaḥ | pata gatau | curādir adantaḥ | laṭaḥ śatṛ | śap | guṇāyādeśau | adupadeśāl lasārvadhātukānudāttatve ṇicaḥ svaraḥ | āpuḥ | āplṛ vyāptau | liṭ jhi | dvirbhāvahalādiśeṣau | ata ādeḥ (pā. 7-4-70) ity ādidīrghaḥ | atra na saho na manyum ity ādibhir āpur ity asya sambandhāt tadapekṣayā prāthamyāc cādi[lope vibhāṣā] lope vibhāṣeti [?] prathamā tiṅbhaktir na nihanyate | carantīḥ | nābhyasteti pūrvasavarṇadīrghaḥ | praminanti | mīñ hiṃsāyām | kryādibhyaḥ śnā | śnābhyastayor ātaḥ (pā. 6-4-112) ity ākāralopaḥ | mīnāter nigame (pā. 6-1-41) iti hrasvatvam | pratyayasvaraḥ | tiṅi codāttavati (pā. 8-1-71) iti gatir anudāttaḥ | yadvṛttayogād anighātaḥ ||*
+> अथ सवित्रा प्रेरितः शुनःशेप एतदादिसूक्तशेषेणोत्तरेण च सूक्तेन वरुणं तुष्टाव । तथा च श्रूयते । तं सवितोवाच वरुणाय वै राज्ञे नियुक्तोऽसि तमेवोपधावेति स वरुणं राजानमुपससारात उत्तराभिरेकविंशता । ऐ. ब्रा. ७-१६ । इति । हे वरुण पतयन्तः प्रौढे वियत्युत्पतन्तोऽमी दृश्यमाना वयश्चन श्येनादयः पक्षिणोऽपि ते क्षत्रं त्वदीयं शरीरबलं न ह्यापुः । नैव प्राप्ताः । त्वत्सदृशं शरीरबलं पक्षिणामपि नास्तीत्यर्थः । तथा सहस्त्वदीयं पराक्रमं तव सामर्थ्यमपि न प्रापुः । तथा मन्युं त्वदीयं कोपमपि न प्रापुः । त्वयि क्रुद्धे सति सोढुमशक्ता इत्यर्थः । अनिमिषं सर्वदा चरन्तीः प्रवाहरूपेण गच्छन्त्य आपस्त्वदीयं बलं न प्रापुः । वातस्य वायोर्ये गतिविशेषास्त्वदीयमभ्वं वेगं न प्रमिनन्ति न हिंसन्ति । अतिक्रमं कर्तुं न शक्ता इत्यर्थः । तेऽपि न प्रापुरिति पूर्वात्रान्वयः ॥ पतयन्तः । पत गतौ । चुरादिरदन्तः । लटः शतृ । शप् । गुणायादेशौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे णिचः स्वरः । आपुः । आप्लृ गतौ । लिट्युसि । द्विर्भावहलादिशेषौ । अत आदेः । पा. ७-४-७० । इत्यात्वं । अत्र न सहो न मन्युमित्यादिभिरापुरित्यस्य सम्बन्धात्तदपेक्षया प्राथम्याच्चादि–
 
-**Translation:** "Then, impelled by Savitṛ, Śunaḥśepa praised Varuṇa with the rest of this sūkta and with the next sūkta. So it is heard: 'Savitṛ said to him: "You are assigned to king Varuṇa; run to him." He went to king Varuṇa with the thirty-one [riks] from here on' (Ai. Brā. 7-16). O Varuṇa! These birds (*vayaḥ cana*) that fly (*patayantaḥ*) — visible — have not (*na … āpuḥ*) attained your *kṣatra* — your bodily strength; not at all. Even the birds have no bodily strength like yours. So too they do not attain your *sahas* — power, prowess; nor your *manyu* — wrath: when you are angry they are unable to endure it. The waters that move constantly (*animiṣam*) in the form of currents do not attain your strength. The various motions of the wind (*vāta*) do not surpass (*na praminanti*) your *abhva* — your speed — they cannot exceed it; they too do not reach [it] — the construction goes with the preceding. *Patayantaḥ*: *pata gatau*, a *curādi* root in *a*; *śatṛ*; *śap*; guṇa and *ay*; accent of *ṇic*. *Āpuḥ*: *āplṛ vyāptau*, *liṭ*, *jhi* → *us*; reduplication; *ata ādeḥ* (P. 7-4-70) lengthens the initial *a*. Because *āpuḥ* connects with *na saho na manyum* … and takes the priority of the first member, the first finite verb is not lowered. *Carantīḥ*: [the *jas* is lengthened] by *prakṛtibhāva*… *Praminanti*: *mīñ hiṃsāyām*; *śnā* after the *kryādi* class; loss of *ā* by P. 6-4-112; shortening by P. 6-1-41 [*mīnāter nigame*]; the suffix accent; *pra* as a *gati* is anudātta by P. 8-1-71 [?] before a verb with an acute; no lowering, since it follows a *yat*-word." *(Grammar pages 263–264, noted briefly: the words treated are* patayantaḥ *[*pata gatau*, here taken as a *curādi* root with *ṇic*; *śatṛ*; *num*; *ṇic*'s accent],* āpuḥ *[*āp* + *liṭ* + *jhi* → *us*, P. 3-4-82; *ṛ*-substitute lost…; the lengthening of the initial *a* by P. 7-4-70; *sarvānudātta* by P. 8-1-28 *tiṅ atiṅaḥ* is not applied because of the preceding relative/negative words — the argument that *āpuḥ* is joined with several clauses and is the earliest of them in connection],* carantīḥ *[*cara* + *śatṛ* + *ṅīp*; *jas* lengthened by *vā chandasi* P. 6-1-106] and* praminanti *[*mīñ hiṃsāyām*, *śnā*, loss of *ā* by P. 6-4-112 *śnābhyastayor ātaḥ*; the root vowel shortened by P. 6-1-… in the Veda; the *gati* *pra* is lowered because the following *tiṅ* has an acute — P. 8-1-71 *tiṅi codāttavati* — though not applying after the *yat*-word, P. 8-1-66]; numerals as read, pointers only.)*
+> *atha savitrā preritaḥ śunaḥśepa etadādisūktaśeṣeṇottareṇa ca sūktena varuṇaṃ tuṣṭāva | tathā ca śrūyate | taṃ savitovāca varuṇāya vai rājñe niyukto 'si tamevopadhāveti sa varuṇaṃ rājānamupasasārāta uttarābhirekaviṃśatā | ai. brā. 7-16 | iti | he varuṇa patayantaḥ prauḍhe viyatyutpatanto 'mī dṛśyamānā vayaścana śyenādayaḥ pakṣiṇo 'pi te kṣatraṃ tvadīyaṃ śarīrabalaṃ na hyāpuḥ | naiva prāptāḥ | tvatsadṛśaṃ śarīrabalaṃ pakṣiṇāmapi nāstītyarthaḥ | tathā sahastvadīyaṃ parākramaṃ tava sāmarthyamapi na prāpuḥ | tathā manyuṃ tvadīyaṃ kopamapi na prāpuḥ | tvayi kruddhe sati soḍhumaśaktā ityarthaḥ | animiṣaṃ sarvadā carantīḥ pravāharūpeṇa gacchantya āpastvadīyaṃ balaṃ na prāpuḥ | vātasya vāyorye gativiśeṣāstvadīyamabhvaṃ vegaṃ na praminanti na hiṃsanti | atikramaṃ kartuṃ na śaktā ityarthaḥ | te 'pi na prāpuriti pūrvātrānvayaḥ || patayantaḥ | pata gatau | curādiradantaḥ | laṭaḥ śatṛ | śap | guṇāyādeśau | adupadeśāllasārvadhātukānudāttatve ṇicaḥ svaraḥ | āpuḥ | āplṛ gatau | liṭyusi | dvirbhāvahalādiśeṣau | ata ādeḥ | pā. 7-4-70 | ityātvaṃ | atra na saho na manyumityādibhirāpurityasya sambandhāttadapekṣayā prāthamyāccādi–*
 
-**॥ Prati-padārthaḥ ॥** *(p. 262)* **(हे वरुण) ((he varuṇa))** — O Varuṇa | **पतयन्तः (patayantaḥ)** — flying | **अमी (amī)** — these [visible] | **वयः चन (vayaḥ cana)** — even birds | **ते (te)** — your | **क्षत्रम् (kṣatram)** — bodily strength | **नहि आपुः (nahi āpuḥ)** — have not attained | **(तथा) सहः (tathā) sahaḥ** — [your] valour | **न (na)** — [have not attained] | **मन्युम् (manyum)** — wrath | **न (na)** — [nor] | **अनिमिषम् (animiṣam)** — always | **चरन्तीः (carantīḥ)** — flowing | **इमाः आपः (imāḥ āpaḥ)** — these waters | **न (na)** — [your strength] have not attained | **वातस्य (vātasya)** — of the wind | **ये (ye)** — which motions | **अभ्वम् (abhvam)** — [your] speed | **न प्रमिनन्ति (na praminanti)** — do not surpass.
+### Page 262 — Rik 6: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! Neither these birds that fly, nor the waters that flow ever, have obtained your bodily strength or valour; they cannot withstand your wrath. The wind's speed cannot exceed your speed; the wind has no strength like yours.
+> –लोपे विभाषेति प्रथमा तिङ्भक्तिर्न निहन्यते । चरन्तीः । वा छन्दसीति पूर्वसवर्णदीर्घः । प्रमिनन्ति । मीञ् हिंसायां । त्यादिभ्यः श्ना । श्नाभ्यस्तयोरातः । पा. ६-४-११२ । इत्याकारलोपः । मीनातेर्निगमे । पा. ७-३-८१ । इति ह्रस्वत्वं । प्रत्ययस्वरः । तिङि चोदात्तवति । पा. ८-१-७१ । इति गतिरनुदात्तः । यद्वृत्तयोगादनिघातः ॥६॥
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Then, impelled by Savitṛ, Śunaḥśepa praised Varuṇa with the rest of this sūkta and with the next; the Aitareya Brāhmaṇa (7-16) says Savitṛ told him "you are assigned to king Varuṇa; run to him", and he went to Varuṇa with the ṛks that follow. O Varuṇa, these visible birds (hawks and the like) flying up in the lofty sky have not attained your bodily strength, power or wrath; the ever-flowing waters have not attained your strength; the motions of the wind do not surpass your speed. The grammatical tail notes *patayantaḥ* (a *curādi* root in *a*; *śatṛ*; *śap*; guṇa and *ay*; the accent of *ṇic*), *āpuḥ* (reduplication; lengthening of the reduplicate by *ata ādeḥ*, Pā. 7-4-70; not lowered because it comes first in the sense), *carantīḥ* (*pūrvasavarṇadīrgha* by *vā chandasi*) and *praminanti* (*śnā*; loss of *ā*, Pā. 6-4-112; shortening, Pā. 7-3-81 as printed; the accent of *pra* lowered by Pā. 8-1-71; no lowering of the verb, by the connection with a *yat*-word).
+
+**॥ Prati-padārthaḥ ॥**
+
+(**हे वरुण (he varuṇa)** — O Varuṇa) | **पतयन्तः (patayantaḥ)** — flying | **अमी (amī)** — these (visible) | **वयः चन (vayaḥ cana)** — birds, too | **ते (te)** — your | **क्षत्रं (kṣatraṃ)** — bodily strength | **नहि आपुः (nahi āpuḥ)** — have not obtained | (**तथा (tathā)** — likewise) **सहः (sahaḥ)** — (your) prowess | **न (आपुः) (na (āpuḥ))** — have not obtained | **मन्युं (manyuṃ)** — wrath | **न (na)** — have not obtained | **अनिमिषं (animiṣaṃ)** — always | **चरन्तीः (carantīḥ)** — flowing | **आपः (āpaḥ)** — waters | **न (na)** — have not obtained (your strength) | **वातस्य (vātasya)** — of the wind | **ये (ye)** — which motion | **अभ्वं (abhvaṃ)** — (your) speed | **न प्रमिनन्ति (na praminanti)** — do not injure (do not surpass).
+
+**॥ Bhāvārthaḥ ॥**
+
+O Varuṇa, neither these birds that fly above nor the waters that always flow have obtained your bodily strength or your prowess. They cannot withstand your wrath. The motion of the wind too cannot surpass your speed. The wind has no strength like yours.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O Varuna, these birds that are flying have not obtained your strength or your power; they are not able to endure your wrath; these waters that flow without interruption or the winds have not surpassed your speed.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 262–263)* The chief import: O Varuṇa! Your strength and power are immeasurable. In the *antarikṣa* the birds that fly have not your swiftness and the like; nor your strength; they cannot stand up against your wrath. Even the waters that flow constantly — the currents of rivers — and the wind that blows swiftly in the *antarikṣa* cannot vie with you in speed.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-Śunaḥśepa, having praised Savitṛ with the three riks beginning *abhi tvā deva savitaḥ*, with the favour of Savitṛ who was thus pleased, praises Varuṇa with the remaining ten riks of this sūkta and with the whole of the following sūkta — in all thirty-one riks. On this the Aitareya Brāhmaṇa has the sentence *taṃ savitovāca varuṇāya vai rājñe niyukto 'si tam evopadhāveti sa varuṇaṃ rājānam upasasārāta uttarābhir ekatriṃśatā* (Ai. Brā. 7-16).
+**The chief import** — O Varuṇa, your power and might are boundless. Even the birds that fly in the sky have neither the swift-going and other qualities that you have, nor strength. They cannot stand against your wrath. Even the water that flows constantly, that is, the current of the river, and the wind that blows swiftly in the sky cannot match you in speed.
 
-**क्षत्रम्** — *tvadīyaṃ śarīrabalam* — your bodily strength, power (*bodily strength*). **सहः** — *tvadīyaṃ parākramam* — your prowess, valour (*prowess &c.*). **मन्युम्** — wrath; the sense is that they have no power to stand against it. **अनिमिषं चरन्तीः** — *sarvadā carantyaḥ pravāharūpeṇa gacchantyaḥ*: always moving, flowing as streams; flowing unceasingly at all times. **न प्रमिनन्ति अभ्वम्** — *vegaṃ na hiṃsanti*: they do not surpass your speed; they cannot overtake.
+Śunaḥśepa praised Savitṛ with the three ṛks beginning *abhi tvā deva savitaḥ*; then, by the prompting of Savitṛ, pleased by that praise, he praises Varuṇa with the remaining ten
+
+### Page 263 — Rik 6: Special Topics (end), grammar
+
+ṛks of this sūkta and the twenty-one ṛks of the next sūkta, thirty-one ṛks in all. On this matter there is this sentence of the Aitareya Brāhmaṇa (Ai. Brā. 7-16):
+
+> तं सवितोवाच वरुणाय वै राज्ञे नियुक्तोऽसि तमेवोपधावेति स वरुणं राजानमुपससारात उत्तराभिरेकत्रिंशता ॥
+
+> *taṃ savitovāca varuṇāya vai rājñe niyukto 'si tamevopadhāveti sa varuṇaṃ rājānamupasasārāta uttarābhirekatriṃśatā ||*
+
+(The quotation as printed here has एकत्रिंशता; the bhāṣya on p. 261 has एकविंशता.) The Brāhmaṇa says that Savitṛ told him: "You are assigned to king Varuṇa; run to him"; and he went to king Varuṇa with the ṛks that follow.
+
+**क्षत्रं — त्वदीयं शरीरबलं (kṣatraṃ — tvadīyaṃ śarīrabalaṃ)** — your bodily strength; strength, power: "bodily strength."
+
+**सहः — त्वदीयं पराक्रमं (sahaḥ — tvadīyaṃ parākramaṃ)** — your prowess, heroism: "valour, prowess &c."
+
+**मन्युं — कोपं (manyuṃ — kopaṃ)** — wrath (the sense being that they have no power to face it).
+
+**अनिमिषं, चरन्तीः — सर्वदा चरन्तीः प्रवाहरूपेण गच्छन्तीः (animiṣaṃ, carantīḥ — sarvadā carantīḥ pravāharūpeṇa gacchantīḥ)** — flowing at all times without break, in the form of a current: "flowing unceasingly."
+
+**न प्रमिनन्ति अभ्वं — वेगं न हिंसन्ति । न प्राप्नुवन्ति (na praminanti abhvaṃ — vegaṃ na hiṃsanti | na prāpnuvanti)** — they cannot surpass your speed; that is, they cannot equal it.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पतयन्तः (patayantaḥ)** — the root is read in the print as *patḷ* [?] *gatau*, a root of the 10th class, ending in *a*; after it the *svārthika ṇic*, then *laṭ*, *śatṛ* and *śap*. *pata + i + a + at*; by *ato lopaḥ* the *a* of the root is dropped (the sūtra number is not printed). Guṇa and the *ay*-substitution give *pataya + at*; *pararūpa*; nominative plural *jas*; because the ending is *ugit*, the augment *num*; then *ruttva* and visarga. Here *śap* is anudātta. Because (the root) ends in *a* in the *upadeśa*, *at* is anudātta, and the accent of *ṇic* remains.
+
+**आपुः (āpuḥ)** — *āplṛ vyāptau*; *liṭ*; *jhi*; by *parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ* (Pā. Sū. 3-4-82) the *jhi* becomes *us*; reduplication: *āp + āp + us*; the *p* of the reduplicate is dropped; by *hrasvaḥ* (Pā. Sū. 7-4-59) the reduplicate is shortened; by *ata ādeḥ* (Pā. Sū. 7-4-70), a long vowel comes to the first *a* of the reduplicate. *Savarṇadīrgha*; *ruttva* and visarga. Again, the verb *āpuḥ* is connected with each of the following sentences:
+
+> वयश्चन क्षत्रं नापुः । वयश्चन सहो नापुः । वयश्चन ते मन्युं नापुः । अनिमिषं चरन्तीः इमा आपः ते क्षत्रं नापुः ॥
+
+> *vayaścana kṣatraṃ nāpuḥ | vayaścana saho nāpuḥ | vayaścana te manyuṃ nāpuḥ | animiṣaṃ carantīḥ imā āpaḥ te kṣatraṃ nāpuḥ ||*
+
+(*The birds have not obtained your strength; the birds have not obtained your prowess; the birds have not obtained your wrath; these ever-flowing waters have not obtained your strength.*) This *āpuḥ* is uttered first, before the *āpuḥ* connected with the later sentences; therefore, by *cādilope vibhāṣā* (Pā. Sū. 8-1-63), it does not become anudātta.
+
+**चरन्तीः (carantīḥ)** — *vā chandasi* (Pā. Sū. 6-1-106): in the Veda, a *pūrvasavarṇadīrgha* comes optionally, where a long (vowel's) *jas*, or letters of the *ic* pratyāhāra, are present (as printed: *dīrghada jas athavā ic pratyāhārada varṇagaḷu*); hence *pūrvasavarṇadīrgha*.
+
+**प्रमिनन्ति (praminanti)** — *mīñ hiṃsāyāṃ*, of the *kryādi* class; *śnā* is the *vikaraṇa* suffix. By *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112), when a *sārvadhātuka* suffix that is *kit* or *ṅit* follows, the *śnā* suffix and
+
+### Page 264 (upper) — Rik 6: grammar (end)
+
+the *abhyasta* (forms) lose their *ā*; so the *ā* of the *śnā* suffix is dropped. *Laṭ*, *jhi*, *ant*-substitution; the preverb *pra*: *pra + mī + n + anti*. By *mīnāter nigame* (Pā. Sū. 7-3-81, as printed), in the Veda, when a suffix that is *śit* follows, the root *mīñ* is shortened; hence the shortening. The suffix accent: by *tiṅi codāttavati* (Pā. Sū. 8-1-71), when a *tiṅanta* that has an udātta follows, the *gati* before it becomes anudātta; hence *pra* is anudātta. Because of *ye vātasya* there is a connection with a *yat*-word, and so the *sarvānudātta* does not come. ॥6॥
+
+*(An ornament follows.)*
 
 ---
 
-### Pages 264–267 — Sūkta 24, Rik 7
+### Page 264 (lower) — Sūkta 24, Rik 7
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः ।
-> नीचीनाः स्थुरुपरि बुध्न एषामस्मे अन्तर्निहिताः केतवः स्युः ॥ ७ ॥
+> अ॒बु॒ध्ने राजा॒ वरु॑णो॒ वन॑स्यो॒र्ध्वं स्तूपं॑ ददते पू॒तद॑क्षः ।
+> नी॒चीनाः॑ स्थुरु॒परि॑ बु॒ध्न ए॑षाम॒स्मे अ॒न्तर्निहि॑ताः के॒तवः॑ स्युः ॥७॥
+>
+> *abudhné rājā váruṇo vánasyordhváṃ stū́paṃ dadate pūtádakṣaḥ |*
+> *nīcī́nāḥ sthur upári budhná eṣām asmé antár níhitāḥ ketávaḥ syuḥ ||7||* [accent ?]
 
-*abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ | nīcīnāḥ sthur upari budhna eṣām asme antar nihitāḥ ketavaḥ syuḥ || 7 ||*
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the verse in four lines, breaking after* ददते*,* पूतदक्षः*,* निहिताः*. The anudātta bar in* स्थुरुपरि *lies beside the subscript* थ*; I took it under* रु*, but the syllable is not certain.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अबुध्ने । राजा । वरुणः । वनस्य । ऊर्ध्वम् । स्तूपम् । ददते । पूतऽदक्षः ॥ नीचीनाः । स्थुः । उपरि । बुध्नः । एषाम् । अस्मे इति । अन्तः । निऽहिताः । केतवः । स्युः ॥ ७ ॥
+> अबुध्ने । राजा । वरुणः । वनस्य । ऊर्ध्वं । स्तूपं । ददते । पूतऽदक्षः ।
+> नीचीनाः । स्थुः । उपरि । बुध्नः । एषां । अस्मे इति । अन्तः । निऽहिताः । केतवः । स्युरिति स्युः ॥७॥
 
-*abudhne | rājā | varuṇaḥ | vanasya | ūrdhvam | stūpam | dadate | pūta-dakṣaḥ || nīcīnāḥ | sthuḥ | upari | budhnaḥ | eṣām | asme iti | antaḥ | ni-hitāḥ | ketavaḥ | syuḥ || 7 ||*
+> *abudhne | rājā | varuṇaḥ | vanasya | ūrdhvaṃ | stūpaṃ | dadate | pūta 'dakṣaḥ |*
+> *nīcīnāḥ | sthuḥ | upari | budhnaḥ | eṣāṃ | asme iti | antaḥ | ni 'hitāḥ | ketavaḥ | syuriti syuḥ ||7||*
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(pp. 264–265)*
 
-> पूतदक्षः शुद्धबलो वरुणो राजाबुध्ने मूलरहितेऽन्तरिक्षे तिष्ठन्वनस्य वननीयस्य तेजसः स्तूपं संघमूर्ध्वमुपरिदेशे दधते [दधाति] । धारयति । नीचीनाः स्थुः । ऊर्ध्वदेशे वर्तमानस्य वरुणस्य रश्मय इत्यध्याहार्यम् । ते ह्यधोमुखाः सन्तिष्ठन्ति । एषां रश्मीनां बुध्नो मूलमुपरि तिष्ठतीति शेषः । तथा सति केतवः प्रज्ञाप्रकाराः [प्रज्ञापकाः] प्राणा अस्मे अस्मासु अन्तर्निहिताः स्थापिताः स्युः । वरणं ना [?] भविष्यतीत्यर्थः ॥ अबुध्ने । न विद्यते बुध्नो मूलमस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । स्तूपम् । स्त्यै शब्दसंघातयोः । स्त्यायतेः संप्रसारणमूच्च । स्त्यायतेः संप्रसारणं पूर्वपदम् [?] … ऊकारादेशश्च । निदित्यनुवृत्तेराद्युदात्तत्वम् । ददते । भावादिकः । नीचीनाः । नि उपसर्गपूर्वादञ्चु गतिपूजनयोः । क्विन् । अनिदितां हल उपधायाः क्ङितीति नलोपः । नि अच् यथादेश न्यञ्च् । विभाषाञ्चेरदिक्स्त्रियाम् (पा. ५-४-८) इति खः । अयन्नेयादिनात्याद्यादेशः … स्थुः । गातिस्थेत्यादिना (पा. २-४-७७) सिचो लुक् । अतः । पा. ६-४-१०० इति झेर्जुसादेशः । उस्यपदान्तात् (पा. ६-१-९६) इति पररूपत्वम् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः । अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः । निहिताः । गतिरनन्तरेति गतेः प्रकृतिस्वरत्वम् । स्युः । अस्तेर्लिङ्जि श्नसोरल्लोपः ॥
+*As printed: ददते (not दधते, which the Special Topics gloss gives); वरणं न भविष्यतीत्यर्थः; स्त्यै शब्दसंघातयोः; ऋत्विगित्यादिना; the reference after आयनादिषूपदेशिवद्वचनं is printed with four numbers, पा. ७-१-२-१; पा. ३-४-११० (printed; the jher jus rule); अस्तेर्लिङि is read (the ङ is printed with a ज-like glyph). The bhāṣya ends with ॥ only; no varga number.*
 
-*pūtadakṣaḥ śuddhabalo varuṇo rājābudhne mūlarahite 'ntarikṣe tiṣṭhan vanasya vananīyasya tejasaḥ stūpaṃ saṃgham ūrdhvam upari deśe dadate [dadhāti] | dhārayati | nīcīnāḥ sthuḥ | ūrdhvadeśe vartamānasya varuṇasya raśmaya ity adhyāhāryam | te hy adhomukhāḥ santiṣṭhanti | eṣāṃ raśmīnāṃ budhno mūlam upari tiṣṭhatīti śeṣaḥ | tathā sati ketavaḥ prajñāprakārāḥ [prajñāpakāḥ] prāṇā asme asmāsu antar nihitāḥ sthāpitāḥ syuḥ | varaṇaṃ nā [?] bhaviṣyatīty arthaḥ || abudhne | na vidyate budhno mūlam asyeti bahuvrīhau nañsubhyām ity uttarapadāntodāttatvam | stūpam | styai śabdasaṃghātayoḥ | styāyateḥ saṃprasāraṇam ūc ca | … ūkārādeśaś ca | nid ity anuvṛtter ādyudāttatvam | dadate | bhvādikaḥ | nīcīnāḥ | ni upasargapūrvād añcu gatipūjanayoḥ | kvin | aniditāṃ hala upadhāyāḥ kṅitīti nalopaḥ | ni ac yathādeśa nyañc | vibhāṣāñcer adikstriyām (pā. 5-4-8) iti khaḥ | ayanneyādinātyādyādeśaḥ … sthuḥ | gātisthety ādinā (pā. 2-4-77) sico luk | ataḥ | pā. 6-4-100 iti jher jusādeśaḥ | usyapadāntāt (pā. 6-1-96) iti pararūpatvam | bahulaṃ chandasy amāṅyoge 'pīty aḍāgamābhāvaḥ | asme | supāṃ suluk iti saptamyāḥ śe ādeśaḥ | nihitāḥ | gatir anantareti gateḥ prakṛtisvaratvam | syuḥ | aster liṅji śnasor allopaḥ ||*
+> पूतदक्षः शुद्धबलो वरुणो राजाबुध्ने मूलरहितेऽन्तरिक्षे तिष्ठन्वनस्य वननीयस्य तेजसः स्तूपं संघमूर्ध्वमुपरिदेशे ददते । धारयति । नीचीनाः स्थुः । ऊर्ध्वदेशे वर्तमानस्य वरुणस्य रश्मय इत्यध्याहार्यं । ते ह्यधोमुखास्तिष्ठन्ति ।
 
-**Translation:** "Varuṇa, the king, of pure strength (*pūtadakṣaḥ*), standing in the *abudhna* — the root-less *antarikṣa* — holds (*dadate*) high up, in the upper region, a heap (*stūpa*) of lovely (*vananīya*) light. Its rays (to be supplied: of Varuṇa, who stays in the upper region) are *nīcīnāḥ* — downward-pointing; the *budhna* — the root — of these rays is above. In that case the *ketavaḥ* — the vital breaths, the means of knowing — may be placed within us (*asme antar nihitāḥ syuḥ*) — [the sense is] 'may [Varuṇa's] choice [favour?] be for us' [this last clause doubtful]. *Abudhne*: *bahuvrīhi* with *nañ*; end-acute by *nañsubhyām*. *Stūpam*: *styai śabdasaṃghātayoḥ* ['to sound; to gather']: *saṃprasāraṇa* and *ū* for the *ai*; … *Dadate*: class-1 form [*dadhāti* in the Veda: *dadate* with the *ātmanepada* by *vyatyaya*]. *Nīcīnāḥ*: from *ni* + *añcu gatipūjanayoḥ* with *kvin*; loss of the nasal by P. 6-4-24; … *Sthuḥ*: loss of *sic* by P. 2-4-77; *jher jus*; *pararūpa* by P. 6-1-96; no *aṭ* since the particle *mā* is not joined [*bahulaṃ chandasi*]. *Asme*: *śe* for the locative by *supāṃ suluk* (P. 7-1-39). *Nihitāḥ*: the *gati* keeps its accent by P. 6-2-49. *Syuḥ*: *liṅ* of *as*, with loss of the *a* of *śnas*." *(Grammar pages 267, noted briefly: the words treated are* stūpam *[*styai śabdasaṃghātayoḥ* + *pa*, with *saṃprasāraṇa*: *ai* → *ā*/*i*, then *ū* in place of the last letter by Uṇ. 3-[?] *stuvo dīrghaś ca*; the *pit*-suffix; … no accent rule since the form is *nit*-derived], *nīcīnāḥ* [*ni* + *añcu* + *kvin* by P. 3-2-59; the loss of the nasal; *nyañc* + *kha* by P. 5-4-8 *vibhāṣāñcer adikstriyām*; *īn* in the place of *kha* by P. 7-1-2 *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*; the *īn* substituted by the *upadeśa*-stage rule *āyanādiṣūpadeśivadvacanam*; the *a* of *añc* lost by P. 6-4-138 *acaḥ*; lengthening before *īn* by P. 6-3-… *cau*; feminine plural nominative], and the other words noted above; numerals as read, pointers only.)* *(The grammar of this rik begins at the foot of p. 266 and runs to p. 267.)*
+> *pūtadakṣaḥ śuddhabalo varuṇo rājābudhne mūlarahite 'ntarikṣe tiṣṭhanvanasya vananīyasya tejasaḥ stūpaṃ saṃghamūrdhvamuparideśe dadate | dhārayati | nīcīnāḥ sthuḥ | ūrdhvadeśe vartamānasya varuṇasya raśmaya ityadhyāhāryaṃ | te hyadhomukhāstiṣṭhanti |*
 
-**॥ Prati-padārthaḥ ॥** *(p. 265)* **पूतदक्षः (pūtadakṣaḥ)** — of pure strength | **राजा (rājā)** — shining | **वरुणः (varuṇaḥ)** — Varuṇa | **अबुध्ने (abudhne)** — in the rootless [*antarikṣa*] | **वनस्य (vanasya)** — of the lovely light | **स्तूपम् (stūpam)** — the heap | **ऊर्ध्वम् (ūrdhvam)** — above | **ददते (dadate)** — holds | **नीचीनाः (nīcīnāḥ)** — downward-pointing | **स्थुः (sthuḥ)** — are | **उपरि (upari)** — above | **एषाम् (eṣām)** — of these [rays] | **बुध्नः (budhnaḥ)** — the root | **अस्मे (asme)** — in us | **अन्तः निहिताः (antaḥ nihitāḥ)** — placed within | **केतवः (ketavaḥ)** — [our supports] the vital breaths | **स्युः (syuḥ)** — may be.
+### Page 265 — Rik 7: bhāṣya (end), word-meanings, overall sense, English
 
-**॥ Bhāvārthaḥ ॥** Varuṇa, of pure strength and shining, stays in the base-less *antarikṣa* and holds on high a mass of lovely light. The rays of that mass of light go downward, and their root is above. May the vital breaths — our support — be established within our bodies.
+> एषां रश्मीनां बुध्नो मूलमुपरि तिष्ठतीति शेषः । तथा सति केतवः प्रज्ञापकाः प्राणा अस्मेऽस्मास्वन्तर्निहिताः स्थापिताः स्युः । वरणं न भविष्यतीत्यर्थः ॥ अबुध्ने । न विद्यते बुध्नो मूलमस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वं । स्तूपं । स्त्यै शब्दसंघातयोः । स्त्यः संप्रसारणमूच्चेति पप्रत्ययः । तत्संनियोगेन यकारस्य संप्रसारणं परपूर्वत्वे ऊकारादेशश्च । निदित्यनुवृत्तेराद्युदात्तत्वं । ददते । भौवादिकः । नीचीनाः । निपूर्वादंचतेर्ऋत्विगित्यादिना क्विन् । अनिदितामिति नलोपः । न्यच्शब्दात्स्वार्थे विभाषाञ्चेरदिक्स्त्रियां । पा. ५-४-८ । इति खः । आयन्नित्यादिना तस्यैनादेशः । आयनादिषूपदेशिवद्वचनं स्वरसिद्ध्यर्थं । पा. ७-१-२-१ । इति वचनादीकार उदात्तः । अच इत्यकारलोपे चाविति दीर्घत्वं । स्थुः । गातिस्थेत्यादिना । पा. २-४-७७ । सिचो लुक् । अतः । पा. ३-४-११० । इति झेर्जुसादेशः । उस्यपदान्तात् । पा. ६-१-९६ । इति पररूपत्वं । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः । अस्मे । सुपां सुलुगिति सप्तम्याः शेआदेशः । निहिताः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वं । स्युः । अस्तेर्लिङि श्नसोरल्लोपः ॥
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Varuṇa, of pure strength, standing in the rootless sky, holds on high a heap of lovely light; its rays (to be supplied) point downward, with their root above. That being so, may the vital breaths that make us know be placed within us (the bhāṣya ends the sentence with *varaṇaṃ na bhaviṣyati*, as printed). The grammatical tail notes the end-acute of *abudhne* (*nañ* + *bahuvrīhi*), *stūpa* (suffix *pa* with *saṃprasāraṇa* and *ū*; initial acute), *nīcīnāḥ* (*kvin*, loss of the nasal, *kha* by Pā. 5-4-8, *īn*; the vārttika as printed 7-1-2-1; Pā. 6-4-138, 6-3-138 are in the Kannada grammar), *sthuḥ* (loss of *sic*, Pā. 2-4-77; *jus*, Pā. 3-4-110 as printed; *pararūpa*, Pā. 6-1-96; no augment *aṭ*), *asme* (*śe* for the locative) and *nihitāḥ* (the *gati* keeps its accent), *syuḥ* (loss of *a* of *śnas*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**पूतदक्षः (pūtadakṣaḥ)** — of pure strength | **राजा (rājā)** — shining | **वरुणः (varuṇaḥ)** — Varuṇa | **अबुध्ने (abudhne)** — in the rootless (antarikṣa, standing there) | **वनस्य (vanasya)** — of the praiseworthy light | **स्तूपं (stūpaṃ)** — the heap | **ऊर्ध्वं (ūrdhvaṃ)** — above | **ददते (dadate)** — makes (the rays of that light) | **नीचीनाः (nīcīnāḥ)** — facing downward | **स्थुः (sthuḥ)** — are | **एषां (eṣāṃ)** — of these rays | **बुध्नं (budhnaṃ)** — the root | **उपरि (upari)** — above (it is; this being so) | **केतवः (ketavaḥ)** — (for us) the supporting (vital breaths) | **अस्मे (asme)** — in us | **अन्तर्निहिताः स्युः (antarnihitāḥ syuḥ)** — become established.
+
+**॥ Bhāvārthaḥ ॥**
+
+Varuṇa, of pure strength and shining, stands in the supportless antarikṣa and is the support of a heap of light. The rays of this heap of light face downward, with their roots above. This being so, the vital breath, which is our support, is established in our body.
+
+**॥ English Translation ॥** *(as printed)*
 
 > The king Varuna of pure strength being in baseless firmament, sustains on high a heap of light, the rays of which are pointed downwards while their base is above; may they become concentrated in us as the source of existence.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 266)* The meaning of this rik is difficult, and the sense is not well-fitted. The chief import, perhaps: the king Varuṇa shines in the *antarikṣa*, full of light. The rays of that shining go downward from the *antarikṣa* and spread over this earth. So the root-place of those rays is in the *antarikṣa* where Varuṇa abides; may their light, joined together, be the support of the vital breaths in our bodies here on the earth.
+*(At the foot of p. 265 stands the printer's signature "34" with "VOLUME 3".)*
 
-**पूतदक्षः** — *śuddhabalavanu* — of pure strength, mighty. **राजा** — there is a custom of addressing Varuṇa as *rājan*; in the following rik too the word *rājā* is used: *urum hi rājā varuṇaḥ* — the word *rājā*, though it could mean 'shining', is applied to Varuṇa in the sense of *king, ruler*. **अबुध्ने** — *budhna* means root; *abudhne* is the *antarikṣa* without a root; since the *antarikṣa* does not stand on the support of anything on earth, the epithet 'without root or support' is appropriate. **वनस्य** — *vananīyasya tejasaḥ*: of the light [or radiance] that spreads on all sides — though *vanasya* is singular, Skandasvāmin thinks it should be taken in the sense of *tejasām*, plural. **स्तूपं ददते** — *saṃgham dadhate*: holds a mass, or a group; he who is wrapped in light, from whom light spreads on all sides and fills everywhere. **नीचीनाः** — *adhomukhāḥ*: downward-facing; the rays in the *antarikṣa* go out downward and reach the earth below. **उपरि बुध्न एषाम्** — the root-place of these rays is above, i.e. in the *antarikṣa* near Varuṇa; since Varuṇa is in the *antarikṣa*, the root-place of his rays is also in the *antarikṣa*. **अन्तर्निहिताः** — *sthāpitāḥ*: placed, established, *concentrated*. **केतवः** — *prajñānāni prāṇāḥ*: life-breaths. The word *ketu* has many senses — ray, act, and others.
-### Pages 267–270 — Sūkta 24, Rik 8
+### Page 266 — Rik 7: Special Topics
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-> उरुं हि राजा वरुणश्चकार सूर्याय पन्थामन्वेतवा उ ।
-> अपदे पादा प्रतिधातवेऽकरुतापवक्ता हृदयाविधश्चित् ॥ ८ ॥
+The meaning of this ṛk is difficult; the sense does not fit properly. The chief import is this: the king Varuṇa shines in the antarikṣa, full of light. His shining rays go out from the antarikṣa downward and pervade this earth. Therefore the root-place of those rays is in the very antarikṣa where Varuṇa is; may their light, gathered together, be the support of our living beings (*prāṇigaḷu*) who live on the earth.
 
-*uruṃ hi rājā varuṇaś cakāra sūryāya panthām anvetavā u | apade pādā pratidhātave 'kar utāpavaktā hṛdayāvidhaś cit || 8 ||*
+**पूतदक्षः (pūtadakṣaḥ)** — one of pure strength; "of pure strength, mighty."
 
-**॥ Padapāṭhaḥ ॥**
+**राजा (rājā)** — there is a custom of addressing Varuṇa as king. In the next ṛk too the word *rājā* is used: *urum hi rājā varuṇaḥ*. Although this word could be said to mean "shining", for Varuṇa the sense *rājā*, "lord, ruler", is the fitting one.
 
-> उरुम् । हि । राजा । वरुणः । चकार । सूर्याय । पन्थाम् । अनुऽएतवै । ऊं इति ॥ अपदे । पादा । प्रतिऽधातवे । अकः । उत । अपऽवक्ता । हृदयऽविधः । चित् ॥ ८ ॥
+**अबुध्ने (abudhne)** — *budhna* means root. *Abudhne* means the rootless antarikṣa. Since the antarikṣa does not stand on the support of any object on the earth, the epithet "without root or support, without refuge" is fitting.
 
-*urum | hi | rājā | varuṇaḥ | cakāra | sūryāya | panthām | anu-etavai | ūṃ iti || apade | pādā | prati-dhātave | akaḥ | uta | apa-vaktā | hṛdaya-vidhaḥ | cit || 8 ||*
+**वनस्य — वननीयस्य तेजसः (vanasya — vananīyasya tejasaḥ)** — light, or rays, have the nature of spreading all round; so *vanasya* means "of light". Although the singular *vanasya* is used here, it must be taken in the plural sense, *tejasāṃ*: this is the opinion of Skandasvāmin.
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 268)*
+**स्तूपं ददते — संघं दधते (stūpaṃ dadate — saṃghaṃ dadhate)** — he bears a collection, a mass; that is, he is covered with light, and from him the light goes out on all sides and spreads everywhere.
 
-> वरुणो राजा सूर्याय सूर्यस्य पन्थां मार्गमुरुं विस्तीर्णं चकार । हिशब्दः प्रसिद्धौ । उत्तरायणदक्षिणायनमार्गस्य विस्तारः प्रसिद्धः । किमर्थमेनं कृतवानिति तदुच्यते । अन्वेतवा उ अनुक्रमेणोदयास्तमयौ गन्तुमेव । तथापदे पादरहितेऽन्तरिक्षे पादा पादौ प्रतिधातवे । पादौ प्रक्षेप्तुम् । अकः । अकरोत् । पूर्वात्र रथस्य मार्गः । अत्र पादयोरिति विशेषः । यद्वा । अपदे यूपे बद्धेन मया गन्तुमशक्ये भूप्रदेशे पादौ प्रक्षेप्तुमुपायं बन्धनिमोचनरूपं करोतीत्यर्थः । उतापि च हृदयाविधश्चित्सदस्मदीयेधकस्य शत्रोरपवक्ता पवादिना निराकर्ता भवतु ॥ चकार । लिट्परस्मैपदे । द्वित्वे । णलोऽ उत्तमवर्जम् [?] … पन्थाम् । पथिमथ्यृभुक्षामात् (पा. ७-१-८५) इति द्वितीयायामपि व्यत्ययेनात्वम् । पथिनब्दस्य पथेष्ठश्च (उ. ४-१०५) इति प्रत्ययान्तत्वेनान्तोदात्तत्वे प्राप्ते पथिमथोः सर्वनामस्थाने (पा. ६-१-१९९) इत्याद्युदात्तत्वम् । अन्वेतवै । अनुपूर्वादेतेः सेसेनिति तवैप्रत्ययः । तवै चान्तश्च युगपत् (पा. ६-१-१५०) इत्याद्यन्तोरुदात्तत्वम् । पादा । सुपां सुलुगित्याकारः । प्रतिधातवे । दधातेस्तुमर्थे सेसेनिति तवेप्रत्ययः । तादौ च निति (पा. ६-२-५०) इति गतेः प्रकृतिस्वरत्वम् । अकः । करोतेश्छन्दसि लुङ्लङ्लिटः (पा. ३-४-६) इति लोडर्थे लुङ् । तस्य तिप् । मन्त्रे घसेत्यादिना (पा. २-४-८०) च्लेर्लुक् । गुणो रपरत्वम् । हल्ङ्याब्भ्यः (पा. ६-१-६८) इति तिपो लोपः । आडागमः । हृदयाविधः । हृञ् हरणे । वृङ्ग्रहोर्भुगुकौ च (उ. ४-१०० [?]) इति कयन् । व्यध ताडने । क्विप् । नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ (पा. ६-३-११६) इति पूर्वपदस्य दीर्घत्वम् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥
+**नीचीनाः — अधोमुखाः (nīcīnāḥ — adhomukhāḥ)** — facing downward: the rays in the antarikṣa go out facing downward and reach the earth below.
 
-*varuṇo rājā sūryāya sūryasya panthāṃ mārgam uruṃ vistīrṇaṃ cakāra | hiśabdaḥ prasiddhau | uttarāyaṇadakṣiṇāyanamārgasya vistāraḥ prasiddhaḥ | kimartham enaṃ kṛtavān iti tad ucyate | anvetavā u anukrameṇodayāstamayau gantum eva | tathāpade pādarahite 'ntarikṣe pādā pādau pratidhātave | pādau prakṣeptum | akaḥ | akarot | pūrvātra rathasya mārgaḥ | atra pādayor iti viśeṣaḥ | yadvā | apade yūpe baddhena mayā gantum aśakye bhūpradeśe pādau prakṣeptum upāyaṃ bandhanimocanarūpaṃ karotīty arthaḥ | utāpi ca hṛdayāvidhaś cit sad asmadīyedhakasya śatror apavaktā pavādinā nirākartā bhavatu || cakāra | liṭ parasmaipade | dvitve | ṇalo … | panthām | pathimathyṛbhukṣām āt (pā. 7-1-85) iti dvitīyāyām api vyatyayenātvam | pathinśabdasya patheṣṭhaś ca (u. 4-105) iti pratyayāntatvenāntodāttatve prāpte pathimathoḥ sarvanāmasthāne (pā. 6-1-199) ity ādyudāttatvam | anvetavai | anupūrvād eteḥ sesen iti tavaipratyayaḥ | tavai cāntaś ca yugapat (pā. 6-1-150) ity ādyantorudāttatvam | pādā | supāṃ suluk ity ākāraḥ | pratidhātave | dadhāter tumarthe sesen iti tavepratyayaḥ | tādau ca niti (pā. 6-2-50) iti gateḥ prakṛtisvaratvam | akaḥ | karoteś chandasi luṅlaṅliṭaḥ (pā. 3-4-6) iti loḍarthe luṅ | tasya tip | mantre ghasety ādinā (pā. 2-4-80) ca cler luk | guṇo raparatvam | halṅyābbhyaḥ (pā. 6-1-68) iti tipo lopaḥ | āḍāgamaḥ | hṛdayāvidhaḥ | hṛñ haraṇe | vṛṅgrahor bhugukau ca (u. 4-100 [?]) iti kayan | vyadha tāḍane | kvip | nahivṛtivṛṣivyadhiruci­sahitaniṣu kvau (pā. 6-3-116) iti pūrvapadasya dīrghatvam | kṛduttarapadaprakṛtisvaratvam ||*
+**उपरि बुध्न एषां (upari budhna eṣāṃ)** — the root-place of these rays is in the upper part, that is, in the antarikṣa near Varuṇa. Since Varuṇa is in the antarikṣa, the root-place of his rays also is in the antarikṣa itself.
 
-**Translation:** "Varuṇa, the king, made for Sūrya the path (*panthā*) of the sun wide (*uru*): *hi* is for 'well-known' — the wideness of the path of the northern and southern courses is well known. For what purpose did he make it so? That is stated: *anvetavā u* — in order to go in succession, rising and setting. And *apade* — in the *antarikṣa*, which is footless — [he made] *pādā* — feet — *pratidhātave* — for placing: to set down his feet. *Akaḥ*: he made. [In the previous clause it was the path of the chariot; here the difference is 'of the feet'.] Or: for me, bound to the sacrificial post and unable to go to a [good] place on earth, he provides *apade* — [where there is no foot-hold] — a means of placing my feet: a means in the form of release from bondage. And may he also be *hṛdayāvidhaḥ* — the repeller, the one who drives away by [verbal] rebuke the enemy *edhaka* who afflicts us, [the heart-piercer]." *(Grammar pages 268–270, noted briefly: the words treated are* cakāra *[*kṛ*, *liṭ*, doubling; vṛddhi],* panthām *[the accusative of* pathin *by P. 7-1-85 *pathimathyṛbhukṣām āt*, with* ā *for* i *in the accusative singular as well by *vyatyaya*, so *panthām*; the suffix *thak*/*in* by Uṇ. 4-105; the acute on the first syllable by P. 6-1-199 *pathimathoḥ sarvanāmasthāne*; the long exposition of how *pathin* declines — *pathin*, *panthā*, *pathaḥ*, *panthānam*… and the *nuṭ*/*thuk* augments],* anvetavai *[*anu* + *i* + *tavai*, the Vedic infinitive of P. 3-4-9 *tumarthe sesenasenasenasetavaityādi*; accent on both the first and last syllable by P. 6-1-200 *tavai cāntaś ca yugapat*],* pādā *[*pādau* → *pādā* by P. 7-1-39 *supāṃ suluk*],* pratidhātave *[*prati* + *dhā* + *tave*; the *gati* retains its accent by P. 6-2-50],* akaḥ *[*kṛ*, *luṅ* in the sense of the imperative in the Veda, P. 3-4-6; *tip*; *cli* lost by P. 2-4-80; guṇa; *tip* lost by P. 6-1-68; *aṭ* augment — the final *s* → *visarga*],* hṛdayāvidhaḥ *[*hṛñ haraṇe* + *kayan* (Uṇ. 4-100 [?]); *vyadha tāḍane* + *kvip*; the lengthening of the preceding member by P. 6-3-116 *nahivṛtivṛṣivyadhiruci­sahitaniṣu kvau*; accent of the second member]; numerals as read, pointers only.)*
+**अन्तर्निहिताः — स्थापिताः (antarnihitāḥ — sthāpitāḥ)** — placed, established: "concentrated."
 
-**॥ Prati-padārthaḥ ॥** *(p. 269)* **वरुणः राजा (varuṇaḥ rājā)** — king Varuṇa | **सूर्याय (sūryāya)** — for the sun | **पन्थाम् (panthām)** — the path of the sun | **अन्वेतवै उ (anvetavai u)** — to travel in succession, for rising and setting | **उरुं चकार (uruṃ cakāra)** — made wide | **हि (hi)** — [the path of the sun, northern and southern, is] well known | **अपदे (apade)** — in the footless [*antarikṣa*] | **पादा (pādā)** — the feet | **प्रतिधातवे (pratidhātave)** — for placing | **अकः (akaḥ)** — made [a way] | **(अथवा) अपदे ((athavā) apade)** — [for me, bound to the post] on the earth where I cannot go | **(पादा प्रतिधातवे) ((pādā pratidhātave))** — [to set the feet, the means of releasing the bond] | **अकः (akaḥ)** — made | **उत (uta)** — and | **हृदयाविधः चित् (hṛdayāvidhaḥ cit)** — also [the enemy] who pierces [me] | **अपवक्ता (apavaktā)** — [may he be] the repeller.
+**केतवः — प्रज्ञानानि प्राणाः (ketavaḥ — prajñānāni prāṇāḥ)** — the vital breaths. The word *ketu* has many meanings, such as ray and act.
 
-**॥ Bhāvārthaḥ ॥** King Varuṇa made wide the path, known from the northern and southern courses, along which the sun travels. He made a path in the footless *antarikṣa*. [Such a Varuṇa], devise for me bound [to the post] a means of release, so that I may travel on the earth, and repel my tormenting enemy.
+### Page 267 (upper) — Rik 7: grammar
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**स्तूपः (stūpaḥ)** — the root *styai ṣṭyai śabdasaṃghātayoḥ* (as printed). By *styāyaḥ saṃprasāraṇam ūc ca* (as printed; no number): the suffix *pa* after the root, and *saṃprasāraṇa* of the root's *y*, that is, *i*; and further *ū* comes as a substitute for the last letter. So when the suffix *pa* comes: *styai + pa*; by *ādeca upadeśe 'śiti* (Pā. Sū. 6-1-45) the *ai* becomes *ā* (the print has "vi" for "ai"); *y* → *i*: *sti + ā + pa*; by *saṃprasāraṇāc ca* (no number) the earlier form: *sti + ā*. For the last letter *i* the substitute *ū* by *stuvo dīrghaś ca* (Uṇ. Sū. 3-305 [?]), from *ṣṭuñ stutau*: after the root the suffix *pa* comes, which is *nit*; and in addition the root's *u* is lengthened; so, when *pa* and the like come after the root *stu*, the form is *stūpa*: this derivation is in the Uṇādi. In both views the *nit* accent, initial acute, results. The first is not seen in the Uṇādi pāda as it now exists; by the second way the sense given in the bhāṣya is not established.
+
+**नीचीनाः (nīcīnāḥ)** — the root *ni upasargapūrvaka añcu gatipūjanayoḥ*; after it *kvin* by *ṛtvikdadhṛk-* (Pā. Sū. 3-2-59); by *aniditāṃ hala upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24), when a suffix that is *kit* or *ṅit* follows, the penultimate nasal of a base ending in a consonant, without *it*, is lost: loss of *n*. *ni + ac*, *yaṇ* substitution: *nyac*. After this, by *vibhāṣāñcer adikstriyām* (Pā. Sū. 5-4-8), after a word ending in *añc*, leaving aside direction-words and the feminine, the suffix *kha* comes in the sense of the word itself: the suffix *kha*. For *kha*, *īn* by *āyaneyīnīyiyaḥ* (Pā. Sū. 7-1-2); by *āyanādiṣūpadeśivadvacanam* (Pā. Sū. 7-1-2-1 *vā.*, as printed) the substitutes *āyan* and the rest of the suffixes *phaḍha* etc. come in the *upadeśa* stage itself; so *īn* comes in the *upadeśa* stage, and the *ī* becomes initial-acute by the suffix accent. By *acaḥ* (Pā. Sū. 6-4-138) loss of the *a*; by *cau* (Pā. Sū. 6-3-138) lengthening of the *ni*: *nīcīnāḥ*, feminine nominative plural. ॥7॥
+
+*(The Saṃhitā of Rik 8 begins at the foot of p. 267.)*
+
+---
+
+### Page 267 (lower) — Sūkta 24, Rik 8
+
+**॥ Saṃhitā-pāṭhaḥ ॥**
+
+> उ॒रुं हि राजा॒ वरु॑णश्च॒कार॒ सूर्या॑य॒ पन्थामन्वे॑त॒वा उ॑ । [accent ?]
+> अ॒पदे॒ पादा॒ प्रतिधातवेऽकरु॒ताप॑व॒क्ता हृ॑दया॒विधश्चित् ॥८॥ [accent ?]
+
+> *u̱ruṃ hi rājā̱ varṷṇaśca̱kāra̱ sūryā̭ya̱ panthāmanvḙta̱vā ṷ |*
+> *a̱pade̱ pādā̱ pratidhātave 'karu̱tāpa̭va̱ktā hṛ̭dayā̱vidhaścit ‖8‖*
+>
+> *urúṃ hi rājā váruṇaś cakā́ra sū́ryāya pánthām ánvetavā́ u |*
+> *apáde pā́dā prátidhātave 'kar utā́pavaktā́ hṛdayāvídhaś cit ||8||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the verse in four lines, breaking after* पन्था-*,* उ *and* हृदया-*. Marks left out and flagged [accent ?]: over* था *at the end of line 1 (in* पन्था-*) the print has a double mark — a vertical stroke crossed by a horizontal bar, with a bar below — that I could not resolve; in line 3 a svarita-like stroke stands at the junction of* प्र *and* ति *(in* प्रतिधातवे*), and in line 4 at the junction of* वि *and* ध *(in* विधश्चित्*) — both left unmarked. The mark after* प *in* ताप॑व॒क्ता *stands at the right edge of* प*, and the bar under* रु *in* करु॒ता *is read as printed.)*
+
+### Page 268 — Rik 8: Pada, bhāṣya
+
+**॥ Pada-pāṭhaḥ ॥**
+
+> उरुं । हि । राजा । वरुणः । चकार । सूर्याय । पंथां । अनुऽएतवै । ऊं इति ॥ अपदे । पादा । प्रतिऽधातवे । अकः । उत । अपऽवक्ता । हृदयऽविधः । चित् ॥८॥
+
+> *uruṃ | hi | rājā | varuṇaḥ | cakāra | sūryāya | paṃthāṃ | anu 'etavai | ūṃ iti ‖ apade | pādā | prati 'dhātave | akaḥ | uta | apa 'vaktā | hṛdaya 'vidhaḥ | cit ‖8‖*
+
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*As printed: पंथां (with anusvara, here and in the bhāṣya's grammar tail; the Kannada grammar on p. 270 has पन्थां); तथापदे, शत्रोरप्यपवक्तापवदिता (the print joins the words by sandhi at the line break); पा. ७-१-८५; the Uṇādi reference after the pathin-śabda sentence is printed उ. ४-१२, and the word before ब्दस्य is not clear (पथिन्[?]ब्दस्य); पतेस्थ च; पा. ६-१-१९९; the sūtra तवै चान्तश्च युगपत् is printed with पा. ६-२-५१ (tavai printed with a glyph that looks like त्वै); पा. ६-२-५०; पा. २-४-८०; पा. ६-१-६८; the sūtra वृह्रोः षुग्दुकौ च with उ. ४-१००; पा. ६-३-११६. The print's ङ/ञ glyph is the same in लुङ्, हल्ङ्या and हृञ्, डुकृञ्.*
+
+> वरुणो राजा सूर्याय सूर्यस्य पंथां मार्गमुरुं विस्तीर्णं चकार । हिशब्दः प्रसिद्धौ । उत्तरायणदक्षिणायनमार्गस्य विस्तारः प्रसिद्धः । किमर्थमेवं कृतवानिति तदुच्यते । अन्वेतवा उ । अनुक्रमेणोदयास्तमयौ गंतुमेव । तथापदे पादरहितेऽंतरिक्षे पादा प्रतिधातवे । पादौ प्रक्षेप्तुं । अकः । मार्गं कृतवान् । पूर्वत्र रथस्य मार्गः अत्र पादयोरिति विशेषः । यद्वा । अपदे यूपे बद्धेन मया गंतुमशक्ये भूप्रदेशे पादौ प्रक्षेप्तुमुपायं बंधविमोचनरूपं करोत्वित्यर्थः । उतापि च हृदयाविधश्चिदस्मदीयवेधकस्य शत्रोरप्यपवक्तापवदिता निराकर्ता भवतु ॥ चकार । लिट्स्वरेणाकार उदात्तः । हि चेति निघातप्रतिषेधः । पंथां । पथिमथ्यृभुक्षामात् । पा. ७-१-८५ । इति द्वितीयायामपि व्यत्ययेनात्वं । पथिन्[?]ब्दस्य पतेस्थ च । उ. ४-१२ । इति प्रत्ययांतत्वेनांतोदात्तत्वे प्राप्ते पथिमथोः सर्वनामस्थाने । पा. ६-१-१९९ । इत्याद्युदात्तत्वं । अन्वेतवै । अनुपूर्वादेतेस्तुमर्थे सेसेनिति तवैप्रत्ययः । तवै चांतश्च युगपत् । पा. ६-२-५१ । इत्याद्यंतयोरुदात्तत्वं । पादा । सुपां सुलुगित्याकारः । प्रतिधातवे । दधातेस्तुमर्थ इति सूत्रेणैव तवेन्प्रत्ययः । तादौ च निति । पा. ६-२-५० । इति गतेः प्रकृतिस्वरत्वं । अकः । करोतेश्छंदसि लुङ्लङ्लिट इति लोडर्थे लुङ् । तस्य तिप् । मंत्रे घसेत्यादिना । पा. २-४-८० । च्लेर्लुक् । गुणो रपरत्वं । हल्ङ्याब्भ्यः । पा. ६-१-६८ । इति तिपो लोपः । अडागमः । हृदयाविधः । हृञ् हरणे । वृह्रोः षुग्दुकौ च । उ. ४-१०० । इति कयन् । व्यध ताडने । क्विप् । नहिवृतीत्यादिना । पा. ६-३-११६ । पूर्वपदस्य दीर्घत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥
+
+> *varuṇo rājā sūryāya sūryasya paṃthāṃ mārgamuruṃ vistīrṇaṃ cakāra | hiśabdaḥ prasiddhau | uttarāyaṇadakṣiṇāyanamārgasya vistāraḥ prasiddhaḥ | kimarthamevaṃ kṛtavāniti taducyate | anvetavā u | anukrameṇodayāstamayau gaṃtumeva | tathāpade pādarahite 'ṃtarikṣe pādā pratidhātave | pādau prakṣeptuṃ | akaḥ | mārgaṃ kṛtavān | pūrvatra rathasya mārgaḥ atra pādayoriti viśeṣaḥ | yadvā | apade yūpe baddhena mayā gaṃtumaśakye bhūpradeśe pādau prakṣeptumupāyaṃ baṃdhavimocanarūpaṃ karotvityarthaḥ | utāpi ca hṛdayāvidhaścidasmadīyavedhakasya śatrorapyapavaktāpavaditā nirākartā bhavatu ‖ cakāra | liṭsvareṇākāra udāttaḥ | hi ceti nighātapratiṣedhaḥ | paṃthāṃ | pathimathyṛbhukṣāmāt | pā. 7-1-85 | iti dvitīyāyāmapi vyatyayenātvaṃ | pathin[?]bdasya patestha ca | u. 4-12 | iti pratyayāṃtatvenāṃtodāttatve prāpte pathimathoḥ sarvanāmasthāne | pā. 6-1-199 | ityādyudāttatvaṃ | anvetavai | anupūrvādetestumarthe seseniti tavaipratyayaḥ | tavai cāṃtaśca yugapat | pā. 6-2-51 | ityādyaṃtayorudāttatvaṃ | pādā | supāṃ sulugityākāraḥ | pratidhātave | dadhātestumartha iti sūtreṇaiva tavenpratyayaḥ | tādau ca niti | pā. 6-2-50 | iti gateḥ prakṛtisvaratvaṃ | akaḥ | karoteśchaṃdasi luṅlaṅliṭa iti loḍarthe luṅ | tasya tip | maṃtre ghasetyādinā | pā. 2-4-80 | clerluk | guṇo raparatvaṃ | halṅyābbhyaḥ | pā. 6-1-68 | iti tipo lopaḥ | aḍāgamaḥ | hṛdayāvidhaḥ | hṛñ haraṇe | vṛhroḥ ṣugdukau ca | u. 4-100 | iti kayan | vyadha tāḍane | kvip | nahivṛtītyādinā | pā. 6-3-116 | pūrvapadasya dīrghatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ ‖*
+
+*Gist:* Varuṇa the king made the sun's path wide — *hi* means "well known", the width of the northern and southern courses being well known; and he did so in order that the sun might go in succession through rising and setting. Likewise in the footless sky he made [a path] for the feet to be set down (*akaḥ*: "he made the path"; the difference from the previous ṛk is that there it was the chariot's path, here it is the feet's). Or: for me, tied to the post, where I cannot go on the ground, let him make a means of setting the feet — release from the bond. And may he be the repeller, the one who turns away, of the enemy who pierces our heart. The grammatical tail notes: *cakāra* (the *ā* is udātta by the *liṭ* accent; no lowering after *hi*), *panthām* (*ā* in the accusative too by *vyatyaya* of Pā. 7-1-85; the Uṇādi suffix; initial acute by Pā. 6-1-199), *anvetavai* (suffix *tavai*; acute on first and last by Pā. 6-2-51), *pādā* (*suluk*), *pratidhātave* (suffix *taven*, by the same sūtra; the *gati* keeps its accent by Pā. 6-2-50), *akaḥ* (*luṅ* in the sense of *loṭ*; *tip*; loss of *cli* by Pā. 2-4-80; guṇa and *raparatva*; loss of *tip* by Pā. 6-1-68; augment *aṭ*), *hṛdayāvidhaḥ* (*hṛñ* + *kayan*, Uṇ. 4-100 as printed; *vyadh* + *kvip*; lengthening of the first member by Pā. 6-3-116; the accent of the second member).
+
+### Page 269 — Rik 8: word-meanings, overall sense, English, Special Topics (beginning)
+
+**॥ Prati-padārthaḥ ॥**
+
+**वरुणः राजा (varuṇaḥ rājā)** — King Varuṇa | **सूर्याय (sūryāya)** — for the sun | **पंथां (panthāṃ)** — the path of the sun | **अन्वेतवा उ (anvetavā u)** — only for the sake of attaining rising and setting | **उरुं चकार (uruṃ cakāra)** — made wide | **हि (hi)** — (it is well known, is it not, that the path of the sun is wide, in the form of the northern and southern courses) | **अपदे (apade)** — in the footless antarikṣa | **पादा (pādā)** — the feet | **प्रतिधातवे (pratidhātave)** — only for placing | **अकः (akaḥ)** — (the path) he made | **(अथवा) अपदे ((athavā) apade)** — (for me, bound to the post) on the earth, which it is impossible to move over | **(पादा प्रतिधातवे) ((pādā pratidhātave))** — (for placing the feet, the means of release from the bond) | **अकः (akaḥ)** — let him make | **उत (uta)** — and | **हृदयाविधश्चित् (hṛdayāvidhaś cit)** — (the enemy) who torments (me) as well | **अपवक्ता (apavaktā)** — one who removes (may he be).
+
+**॥ Bhāvārthaḥ ॥**
+
+King Varuṇa made wide, only for the sun's rising and setting, the path known as the southern and northern courses. He made a path in the antarikṣa, which has no support at all. May such a Varuṇa, for me who am bound, make a means of release from the bond, so that I may move over the earth, which is fit for moving; and may he remove my tormenting enemy.
+
+**॥ English Translation ॥** *(as printed)*
 
 > The King Varuna made wide the path of the sun by which to travel on his daily course; a path to traverse in pathless space; may he be the repeller of every foe that breaks the heart.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 269–270)* **अन्वेतवै उ** — so as to be convenient for going in the places of rising and setting. **चकार सूर्याय पन्थाम्** — he made the path convenient for the sun's travel (widening it). How Varuṇa widens the sun's path here is not explained clearly. **अपदे** — *pādarahite 'ntarikṣe*: in the footless *antarikṣa*; or *apade yūpe baddhena mayā gantum aśakye bhūpradeśe* — 'in the place on the earth where I, tied to the sacrificial post, cannot go' — that is, so that, released from the post, I can go to another place. **पादा प्रतिधातवे** — *pādau prakṣeptuṃ, pādau prati nidhātum*: to place the feet; to walk. **अकः** — he made [the way]. **अपवक्ता** — *apavadiṭā*: one who speaks evil. **हृदयाविधः** — *asmadīyedhakasya śatroḥ*: of our tormenting enemy; or the one who, with harsh words, bad conduct or wrong deeds, causes pain to our heart (mind); the intention is that Varuṇa [is the one to] keep such men in check.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 269–270)*
+
+**अन्वेतवै उ (anvetavai u)** — so that it may be convenient for going in the rising and setting.
+
+**चकार सूर्याय पंथां (cakāra sūryāya panthāṃ)** — he made the path (wide) so that it is convenient for the sun's going. How Varuṇa widens the path of the sun's going is not explained here in detail.
+
+**अपदे (apade)** — *pādarahite 'ntarikṣe*:
+
+> पादरहितेऽन्तरिक्षे
+
+> *pādarahite 'ntarikṣe*
+
+the region where it is not possible to go on foot, that is, the antarikṣa. Or *apade, yūpe baddhena mayā gantum aśakye bhūpradeśe*:
+
+> अपदे, यूपे बद्धेन मया गन्तुमशक्ये भूप्रदेशे
+
+> *apade, yūpe baddhena mayā gantumaśakye bhūpradeśe*
+
+the earthly region where I, tied to the sacrificial post (Śunaḥśepa), cannot go having freed myself; that is, so that it is convenient, having freed myself from the sacrificial post, to go to another place.
+
+### Page 270 — Rik 8: Special Topics (end), grammar
+
+**पादा प्रतिधातवे (pādā pratidhātave)** — *pādau prakṣeptuṃ, pādau prati nidhātum*:
+
+> पादौ प्रक्षेप्तुं, पादौ प्रति निधातुं
+
+> *pādau prakṣeptuṃ, pādau prati nidhātuṃ*
+
+for placing the feet; for going on foot.
+
+**अकः (akaḥ)** — (he made the path.)
+
+**अपवक्ता (apavaktā)** — *apavaditā*:
+
+> अपवदिता
+
+> *apavaditā*
+
+one who speaks evil words.
+
+**हृदयाविधः (hṛdayāvidhaḥ)** — *asmadīyavedhakasya śatroḥ*:
+
+> अस्मदीयवेधकस्य शत्रोः
+
+> *asmadīyavedhakasya śatroḥ*
+
+of the enemy who hurts us. Or:
+
+> अथवा परुषवचनायोग्यव्यवहारसमाचरणादिभिर्हृदयं यो विध्यति पीडयति स हृदयावित् तस्य
+
+> *athavā paruṣavacanāyogyavyavahārasamācaraṇādibhirhṛdayaṃ yo vidhyati pīḍayati sa hṛdayāvit tasya*
+
+one who afflicts the heart (the mind) by harsh words, improper dealings and conduct is called *hṛdayāvidh*; that is, of the enemy who causes pain to our mind, or of the man who causes pain to the heart (mind) by the practice of bad words, bad conduct, *durvyāra* [as printed; sense unclear] and the like. The intention is Varuṇa as the one who restrains such a man.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पन्थां (panthāṃ)** — the root *patḷṛ gatau* (as printed); by *pateḥ stha ca* (Uṇ. Sū. 4-452, as printed): after the root *pat* the suffix *in* comes and *t* is replaced by *th*; so with *in* and *th* it becomes *pathin*. Accusative singular *am*: by *pathimathyṛbhukṣām āt* (Pā. Sū. 7-1-85) — when *su* follows, the last letter of *pathi* and the like becomes *ā*; this *ā*, enjoined in the nominative singular, comes by *vyatyaya*, because the language is Vedic, also in the accusative singular. *pathi + ā + am*: by *ito 'tsarvanāmasthāne* (Pā. Sū. 7-1-86) — when the five endings beginning with *su* follow, the *i* of *pathi* and the like becomes *a*: that is the substitute *a*. By *tho nthaḥ* (Pā. Sū. 7-1-87) — when the five *su*-endings are present, the *th* of *pathi* and *mathi* becomes *nth*; when *nth* has come: *panthā + am*, single substitute of the earlier form. By *pathimathoḥ sarvanāmasthāne* (Pā. Sū. 6-1-199) — when the five *su*-endings are present, the first of *pathi* and *mathi* becomes udātta: so, setting aside the suffix accent, the udātta comes on the first syllable.
+
+**अकः (akaḥ)** — *ḍukṛñ karaṇe*. By *chandasi luṅlaṅliṭaḥ* (Pā. Sū. 3-4-6): showing the connection of the meanings of the roots, these suffixes come in the Veda in the three times. *luṅ* — *tip* — *kṛ + ti*; by *mantre ghasa-hvaraṇaśavṛdahādvṛc-kagamijanibhyo leḥ* (Pā. Sū. 2-4-80; the middle of the sūtra read with doubt [?]) — in a mantra the *li* following these [roots] takes *luk*; so the *cli* that comes by *cli luṅ* (as printed) takes *luk*; guṇa comes and it becomes *ar*. *kar + ti*: by *halṅyābbhyaḥ* (Pā. Sū. 6-1-68) the *ti*, which is *apṛkta*, is dropped. Augment *aṭ*; *r* becomes visarga.
+
+**हृदयाविधः (hṛdayāvidhaḥ)** — *hṛñ haraṇe*; by *vṛhroḥ ṣugdukau* (Uṇ. Sū. 4-540, as printed; the sūtra is read letter by letter) — after the roots *vṛñ varaṇe* and *hṛñ* the suffix *kayan* comes and, respectively, the augments *ṣuk* and *duk*; so after *hṛ* the suffix *kayan* comes, *hṛ + aya*, augment *d*: *hṛd + aya = hṛdaya*. After the root *vyadh* the suffix *kvip*; by *nahivṛtivṛṣivyadhiruci­sahitaniṣu kvau* (Pā. Sū. 6-3-116) the earlier member is lengthened; genitive singular. ॥8॥
+
+*(The Saṃhitā of Rik 9 begins on p. 271.)*
 
 ---
 
-### Pages 271–273 — Sūkta 24, Rik 9
+### Page 271 — Sūkta 24, Rik 9
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> शतं ते राजन्भिषजः सहस्रमुर्वी गभीरा सुमतिष्टे अस्तु ।
-> बाधस्व दूरे निरृतिं पराचैः कृतं चिदेनः प्र मुमुग्ध्यस्मत् ॥ ९ ॥
+> श॒तं ते॑ राजन्भिषजः॑ स॒हस्र॑मु॒र्वी ग॑भी॒रा सु॑मति॒ष्टे॑
+> अस्तु ।
+> बाध॑स्व दू॒रे निर्ऋ॑तिं परा॒च्यैः कृ॒तं चि॒देनः॒ प्र
+> मु॑मुग्ध्य॒स्मत् ॥९॥
 
-*śataṃ te rājan bhiṣajaḥ sahasram urvī gabhīrā sumatiṣ ṭe astu | bādhasva dūre nirṛtiṃ parācaiḥ kṛtaṃ cid enaḥ pra mumugdhy asmat || 9 ||*
+> *śa̱taṃ tḙ rājan bhiṣaja̭ḥ sa̱hasra̭m u̱rvī ga̭bhī̱rā sṷmati̱ṣ ṭḙ*
+> *astu |*
+> *bādha̭sva dū̱re nirṛ̭tiṃ parā̱cyaiḥ kṛ̱taṃ ci̱d ena̱ḥ pra*
+> *mṷmugdhy a̱smat ||9||*
+>
+> *śatáṃ te rājan bhiṣájaḥ sahásram urvī́ gabhīrā́ su-matiṣ ṭe*
+> *astu |*
+> *bā́dhasva dūré nírṛtiṃ parācyáiḥ kṛtáṃ cid énaḥ prá*
+> *mumugdhy asmát ||9||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented. The print sets the verse in four lines, breaking after* सुमतिष्टे*,* अस्तु*,* प्र*. The svarita on* बाध *stands over* ध*, and on* निर्ऋ *over* ऋ*; the Pada confirms both. The print reads* पराच्यैः *(च्य) here, in the Pada and in the bhāṣya — recorded as printed.)*
 
-> शतम् । ते । राजन् । भिषजः । सहस्रम् । उर्वी । गभीरा । सुऽमतिः । ते । अस्तु ॥ बाधस्व । दूरे । निःऽऋतिम् । पराचैः । कृतम् । चित् । एनः । प्र । मुमुग्धि । अस्मत् ॥ ९ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*śatam | te | rājan | bhiṣajaḥ | sahasram | urvī | gabhīrā | su-matiḥ | te | astu || bādhasva | dūre | niḥ-ṛtim | parācaiḥ | kṛtam | cit | enaḥ | pra | mumugdhi | asmat || 9 ||*
+> शतं । ते । राजन् । भिषजः । सहस्रं । उर्वी । गभीरा । सुऽमतिः । ते । अस्तु ॥ बाधस्व । दूरे । निःऽऋतिं । पराच्यैः । कृतं । चित् । एनः । प्र । मुमुग्धि । अस्मत् ॥९॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 271)*
+> *śataṃ | te | rājan | bhiṣajaḥ | sahasraṃ | urvī | gabhīrā | su-matiḥ | te | astu ‖ bādhasva | dūre | niḥ-ṛtiṃ | parācyaiḥ | kṛtaṃ | cit | enaḥ | pra | mumugdhi | asmat ‖9‖*
 
-> हे राजन्वरुण ते तव शतं भिषजो बन्धनिवारकाणि शतसंख्याकान्यौषधानि वैद्या वा सन्ति । तथा सहस्रं च । तेऽ तव सुमतिरस्मदनुग्रहबुद्धिरुर्वी विस्तीर्णा गभीरा गाम्भीर्योपेक्षा [?] स्थिरास्तु । निरृतिमस्मदनिष्टकारिणीं निरृतिं पापदेवतां पराचैः पराङ्मुखीं कृत्वा दूरेऽस्मत्तो व्यपहृते देशे स्थापयित्वा तां बाधस्व । कृतं चिदस्माभिरुत्थमेनः पापमस्मात्प्र मुमुग्धि । प्रकर्षेण मुक्तं नष्टं कुरु ॥ सुमतिः । तादौ चेति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते मन्क्रिन्निर्त्यादिनोत्तरपदान्तोदात्तत्वम् । संहितायां विसर्जनीयसकारस्य युष्मत्तत्ततक्षुःष्वन्तःपादम् (पा. ८-३-१०३) इति षत्वम् । बाधस्व । बाध विलोडने । शसः पित्त्वादनुदात्तत्वम् । तिङ्ङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । निरृतिम् । तादौ चेति गतेः प्रकृतिस्वरत्वम् । मुमुग्धि । मुच्लृ मोक्षणे । बहुलं छन्दसीति श्लुः । हुझल्भ्यो हेर्धिः (पा. ६-४-१०१) । तस्यापित्त्वेन ङित्त्वात्सार्वधातुकमपित् । चोः कुः (पा. ८-२-३०) इति कुत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-*he rājan varuṇa te tava śataṃ bhiṣajo bandhanivārakāṇi śatasaṃkhyākāny auṣadhāni vaidyā vā santi | tathā sahasraṃ ca | te 'tava sumatir asmadanugrahabuddhir urvī vistīrṇā gabhīrā gāmbhīryopekṣā [?] sthirāstu | nirṛtim asmadaniṣṭakāriṇīṃ nirṛtiṃ pāpadevatāṃ parācaiḥ parāṅmukhīṃ kṛtvā dūre 'smatto vyapahṛte deśe sthāpayitvā tāṃ bādhasva | kṛtaṃ cid asmābhir utthaṃ enaḥ pāpam asmāt pra mumugdhi | prakarṣeṇa muktaṃ naṣṭaṃ kuru || sumatiḥ | tādau ceti pūrvapadaprakṛtisvaratve prāpte mankrinnityādinottarapadāntodāttatvam | saṃhitāyāṃ visarjanīyasakārasya yuṣmattattatakṣuḥṣv antaḥpādam (pā. 8-3-103) iti ṣatvam | bādhasva | bādha viloḍane | śasaḥ pittvād anudāttatvam | tiṅ ṅaś ca lasārvadhātukasvareṇa dhātusvara eva śiṣyate | nirṛtim | tādau ceti gateḥ prakṛtisvaratvam | mumugdhi | mucḷ mokṣaṇe | bahulaṃ chandasīti śluḥ | hujhalbhyo her dhiḥ (pā. 6-4-101) | tasyāpittvena ṅittvāt sārvadhātukam apit | coḥ kuḥ (pā. 8-2-30) iti kutvam ||*
+*As printed: पराच्यैः (च्य) in the Saṃhitā, Pada and bhāṣya; मन्क्रिन्नित्यादिनोत्तरपदांतोदात्तत्वं; पा. ८-३-१०३; बाधृ; पा. ६-४-१०१; पा. ८-२-३०. The line break in the print falls inside* कृतं चिदस्माभिरनुष्ठितमु-/प्येनः.
 
-**Translation:** "O king Varuṇa! You have a hundred *bhiṣajaḥ* — a hundred remedies for bondage, or [a hundred] physicians; and a thousand. Let your *sumati* — your favourable thought toward us — be broad (*urvī*), deep (*gabhīrā*) [and] steady. Turn *nirṛti* — the goddess of sin that does us harm — away (*parācaiḥ*), and, setting her in a distant place, keep her off (*bādhasva*). Release us utterly (*pra mumugdhi*) from the sin (*enas*) that has been done, destroy it. *Sumatiḥ*: though the first member's accent would be expected by P. 6-2-49 *tādau ca*…, the *mankrin*-ending rule gives the end-acute of the second member; in the Saṃhitā the *visarga* becomes *ṣ* by P. 8-3-103 [*yuṣmattattatakṣuḥṣv antaḥpādam*]. *Bādhasva*: *bādha viloḍane* ['to push']; … *Nirṛtim*: the *gati* keeps its accent. *Mumugdhi*: *muc* [a *muc* verb in the *tudādi* class], *śluḥ* by *bahulaṃ chandasi*; *hi* → *dhi* by P. 6-4-101; … *kutva* by P. 8-2-30." *(Grammar pages 272–273, noted briefly: the words treated are* sumatiḥ *[*su* + *mati*; *ktin* by P. 3-3-94; the compound with *su* keeps the first member's accent by P. 6-2-1 and *tādau ca kṛtyatau*; but P. 6-2-… *mankrin-*… gives the end-acute],* yuṣmattattatakṣuḥṣv antaḥpādam *[P. 8-3-103: the *visarga*-*s* becomes *ṣ* within the pāda after the words *yuṣmat, tat, tatakṣuḥ* — hence *sumatiṣ ṭe*],* bādhasva *[*bādhṛ viloḍane*, *loṭ*, *thās* → *sva*; the accent],* nirṛtim *[*nir* + *ṛti*; the *gati* accent],* mumugdhi *[*muñc* → *muc* with *śluḥ*, reduplication, *dhi* for *hi* after a *hu*/*jhal* final stem by P. 6-4-101; *anunāsika*-loss; *cu* → *ku* by P. 8-2-30; *jaś* by P. 8-4-53 *jhalāṃ jaś jhaśi* — hence *mumugdhi*]; numerals as read, pointers only.)*
+> हे राजन्वरुण ते तव शतं भिषजो बंधनिवारकाणि शतसंख्याकान्यौषधानि वैद्या वा संति । ते तव सुमतिरस्मदनुग्रहबुद्धिरुर्वी विस्तीर्णा गभीरा गांभीर्योपेता स्थिरास्तु । निरृतिमस्मदनिष्टकारिणीं निरृतिं पापदेवतां पराच्यैः पराङ्मुखां कृत्वा दूरेऽस्मत्तो व्यवहिते देशे स्थापयित्वा तां बाधस्व । कृतं चिदस्माभिरनुष्ठितमुप्येनः पापमस्मत् प्र मुमुग्धि । प्रकर्षेण मुक्तं नष्टं कुरु ॥ सुमतिः । तादौ चेति पूर्वपदप्रकृतिस्वरत्वे प्राप्ते मन्क्रिन्नित्यादिनोत्तरपदांतोदात्तत्वं । संहितायां विसर्जनीयसकारस्य युष्मत्तत्ततक्षुःष्वंतःपादं । पा. ८-३-१०३ । इति षत्वं । बाधस्व । बाधृ विलोडने । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते । निरृतिं । तादौ चेति गतेः प्रकृतिस्वरत्वं । मुमुग्धि । मुचॡ मोक्षणे । बहुलं छंदसीति श्लुः । हुझल्भ्यो हेर्धिः । पा. ६-४-१०१ । तस्यापित्त्वेन ङित्त्वाद्गुणाभावः । चोः कुः । पा. ८-२-३० । इति कुत्वं ॥
 
-**॥ Prati-padārthaḥ ॥** *(p. 272)* **(हे) राजन् ((he) rājan)** — O king Varuṇa | **ते (te)** — you [have] | **शतम् (śatam)** — a hundred | **सहस्रम् (sahasram)** — a thousand | **भिषजः (bhiṣajaḥ)** — medicines which cure disease | **ते (te)** — your | **सुमतिः (sumatiḥ)** — the favourable thought | **उर्वी (urvī)** — great | **गभीरा (gabhīrā)** — with depth | **अस्तु (astu)** — be steady | **निरृतिम् (nirṛtim)** — the goddess of sin that does us harm | **पराचैः (parācaiḥ)** — turn away | **दूरे (dūre)** — to a distant place | **बाधस्व (bādhasva)** — keep off | **कृतम् (kṛtam)** — done | **चित् एनः (cit enaḥ)** — even sin | **अस्मत् (asmat)** — from us | **प्र मुमुग्धि (pra mumugdhi)** — release completely.
+> *he rājanvaruṇa te tava śataṃ bhiṣajo baṃdhanivārakāṇi śatasaṃkhyākānyauṣadhāni vaidyā vā saṃti | te tava sumatirasmadanugrahabuddhirurvī vistīrṇā gabhīrā gāṃbhīryopetā sthirāstu | nirṛtimasmadaniṣṭakāriṇīṃ nirṛtiṃ pāpadevatāṃ parācyaiḥ parāṅmukhāṃ kṛtvā dūre 'smatto vyavahite deśe sthāpayitvā tāṃ bādhasva | kṛtaṃ cidasmābhiranuṣṭhitamupyenaḥ pāpamasmat pra mumugdhi | prakarṣeṇa muktaṃ naṣṭaṃ kuru ‖ sumatiḥ | tādau ceti pūrvapadaprakṛtisvaratve prāpte mankrinnityādinottarapadāṃtodāttatvaṃ | saṃhitāyāṃ visarjanīyasakārasya yuṣmattattatakṣuḥṣvaṃtaḥpādaṃ | pā. 8-3-103 | iti ṣatvaṃ | bādhasva | bādhṛ viloḍane | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa dhātusvara eva śiṣyate | nirṛtiṃ | tādau ceti gateḥ prakṛtisvaratvaṃ | mumugdhi | mucḷ mokṣaṇe | bahulaṃ chaṃdasīti śluḥ | hujhalbhyo her dhiḥ | pā. 6-4-101 | tasyāpittvena ṅittvādguṇābhāvaḥ | coḥ kuḥ | pā. 8-2-30 | iti kutvaṃ ‖*
 
-**॥ Bhāvārthaḥ ॥** O king Varuṇa! You have hundreds and thousands of medicines. Let your favourable thought for us be abundant, deep and steady. Turn away from us the sin-goddess that harms us; drive her off to a distant place; and remove entirely the sins we have committed.
+*Gist:* O king Varuṇa, you have a hundred remedies for bondage, or physicians; let your favourable thought toward us be wide, deep and steady. Turn the sin-goddess Nirṛti, who harms us, away, set her in a far place and afflict her; free us completely from the sin we have done. The grammatical tail notes *sumatiḥ* (accent of the second member; *s* → *ṣ* by Pā. 8-3-103), *bādhasva* (no acute on the *śap*; the root accent remains), *nirṛtim* (the *gati* keeps its accent), *mumugdhi* (*ślu*; *hi* → *dhi* by Pā. 6-4-101; no guṇa since *ṅit*; *c* → *k* by Pā. 8-2-30).
 
-**॥ English Translation ॥** *(as printed in the source)*
+### Page 272 — Rik 9: word-meanings, overall sense, English, Special Topics (beginning)
+
+**॥ Prati-padārthaḥ ॥**
+
+**हे राजन् (he rājan)** — O king Varuṇa | **ते (te)** — to you (in you) | **शतं (śataṃ)** — in hundreds | **सहस्रं (sahasraṃ)** — in thousands | **भिषजः (bhiṣajaḥ)** — (disease-curing) medicines are | **ते (te)** — to you | **सुमतिः (sumatiḥ)** — (towards us the gracious) thought | **उर्वी (urvī)** — abundant | **गभीरा (gabhīrā)** — profound | **अस्तु (astu)** — be steady | **निरृतिं (nirṛtiṃ)** — (harmful to us) the sin-goddess | **पराच्यैः (parācyaiḥ)** — having turned away | **दूरे (dūre)** — (from us) in a distant place | **बाधस्व (bādhasva)** — (that goddess) afflict | **अस्मत् (asmat)** — from us | **कृतं (kṛtaṃ)** — done | **एनः चित् (enaḥ cit)** — even sin | **प्र मुमुग्धि (pra mumugdhi)** — destroy completely.
+
+**॥ Bhāvārthaḥ ॥**
+
+O king, in your power are hundreds and thousands of medicines. May your gracious thought toward us be abundant, deep and steady. Turn the sin-goddess, harmful to us, away from us; afflict that goddess in a distant place. Destroy completely the sins we have done.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O king, you have a hundred and a thousand medicaments; may your kindness to us be great; keep away from us Nirriti (the god of sin) and torture him; liberate us from whatever sin we may have committed.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 272–273)* **शतं सहस्रं भिषजः** — the medicines in you, hundred and thousand — that is, innumerable. **उर्वी गभीरा सुमतिः** — may your thought concerning us be most favourable, and generous. **निरृतिम्** — in the Nirukta Yāska gives for the word *nirṛti* the meaning *pṛthivī* ('earth'; Ni. [2-8]); but here the commentator says *pāpadevatā* — the goddess of sin. On the rik *mo ṣu ṇaḥ parāparā nirṛtir durhaṇā vadhīt* (Ṛ. Saṃ. 1-38-6) the commentator explains the word *nirṛti* as *rakṣojātidevatā* — a deity of the demon class. The same sense should be given in the present rik, since [*bādhasva*] 'afflict' is connected with it: it would be impossible to harm the earth or other things; so it is natural to take it as a sin-deity of evil nature, of the *rākṣasa* class. In later Sanskrit too *nirṛti* has the sense of *yātudhāna*, a special *rākṣasa*; this Nirṛti is well known as one of the eight Dikpālakas, the guardian of the south-west quarter, between south and west. In the Ṛgveda the word *nirṛti* is used where the evil senses of *duḥkha*, *pāśa* and *rākṣasa* are intended. The word is used in the riks Ṛ. Saṃ. 1-24-9; [1-38-6]; [1-38-1?]; 2-[?]; 10-[?]… *nirṛtim* in 1-[?]; and in other riks; there are also many uses of the forms *nirṛtīḥ*, *nirṛtīnām*, *nirṛtaye*, *nirṛtyāḥ* and *nirṛtyai* (numerals read from the print and marked [?]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 272–273)*
+
+**शतं सहस्रं भिषजः (śataṃ sahasraṃ bhiṣajaḥ)** — in you are hundreds and thousands of medicines, that is, innumerable.
+
+**उर्वी गभीरा सुमतिः (urvī gabhīrā sumatiḥ)** — may your thought toward us be most good and generous.
+
+**निरृतिं (nirṛtiṃ)** — Yāska in the Nirukta (reference printed "(२-५)"; not zoomed) gives the meaning "earth"; here the commentator gives "sin-goddess". On the ṛk
+
+> मो षु णः परापरा निरृतिर्दुर्हणा वधीत्
+
+*mo ṣu ṇaḥ parāparā nirṛtir durhaṇā vadhīt* ("let not the hard-to-slay Nirṛti, far and near, strike us" — mine and tentative) (Ṛ. Saṃ. 1-38-6) the commentator explains *nirṛti* as *rakṣojātidevatā*. The sentence breaks here at *bādhasva*, and goes on p. 273.
+
+### Page 273 — Rik 9: Special Topics (end), grammar
+
+The word *bādhasva* ("afflict") makes it impossible for the sense to be the earth or another inanimate thing, so the sense "sin-goddess of the rākṣasa class, evil-natured" is apt. In later Sanskrit *nirṛti* means a *yātudhāna*, a special rākṣasa; this Nirṛti is well known as one of the eight Dikpālas, lord of the south-west. In the Ṛgveda *nirṛti* is used where the senses *duḥkha*, *pāpa*, *rākṣasa* are intended. The print then lists Ṛ. Saṃ. references for *nirṛtiḥ* and, in a third group, for *nirṛtim*; of these I read 1-38-6, 1-24-9, 6-24-2 (?) and 10-36-4 with fair confidence; the other groups (a first group beginning with a glyph I cannot read, then 4-1-17 (?), 2-32-2 (?), 10-10-11, 10-36-[?], and more at 10-[?]) are left [?]. The forms *nirṛtīḥ*, *nirṛtīnām*, *nirṛteḥ*, *nirṛtyāḥ*, *nirṛtyai* are said to occur in many ṛks.
+
+**Vyākaraṇa-prakriyā** *(grammar page, as printed)*:
+
+**सुमतिष्टे (sumatiṣṭe)** — "तादौ च कृतिनित्यतौ" (Pā. Sū. 6-2-50): since a *kṛt* (*ktin*) beginning with *t* follows, the first-member accent that would arise is set aside, and *mankrin* (Pā. Sū. 6-2-151, as read) gives the end-udātta of the second member.
+
+**युष्मत्तत्ततक्षुःष्वंतःपादं (yuṣmattattatakṣuḥṣvaṃtaḥpādaṃ)** (Pā. Sū. 8-3-103): after *yuṣmat*, *tat*, *tatakṣuḥ* standing in the pāda, the *s* coming in place of a visarga becomes *ṣ*, by "विसर्जनीयस्य सः" (Pā. Sū. 8-3-34) *s* in place of visarga, which in the Saṃhitā yields *ṣ*.
+
+**मुमुग्धि (mumugdhi)** — "मुचॡ मोक्षणे"; *loṭ*, *sip*, *hi*; *muc* + *hi*; the *śa* is dropped (*ślu*) by "बहुलं छंदसि" (Pā. Sū. 2-4-76, as read); "हुझल्भ्यो हेर्धिः" (Pā. Sū. 6-4-101) gives *dhi*; *muc* + *dhi*; doubling after *ślu* (Pā. Sū. 6-1-10), "हलादिः शेषः"; *hi* is *apit* so *ṅit*, so no laghūpadha guṇa; "चोः कुः" (Pā. Sū. 8-2-30); "झलां जश् झशि" (Pā. Sū. 8-4-53) gives *g*; *mumugdhi*. ॥९॥
+
+*(Printer's signature "35" and "VOLUME 3" at the foot.)*
 
 ---
 
-### Pages 274–277 — Sūkta 24, Rik 10
+### Page 274 — Sūkta 24, Rik 10
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अमी य ऋक्षा निहितास उच्चा नक्तं ददृश्रे कुह चिद्दिवेयुः ।
-> अदब्धानि वरुणस्य व्रतानि विचाकशच्चन्द्रमा नक्तमेति ॥ १० ॥
+> अ॒मी य ऋक्षा॒ निहि॑तास उ॒च्चा न॒क्तं ददृ॑श्रे॒ कुह॑ [accent ?]
+> चि॒द्दिवे॑युः ।
+> अद॑ब्धानि॒ वरु॑णस्य व्र॒तानि॑ वि॒चाक॑शच्च॒न्द्रमा॒ नक्त॑- [accent ?]
+> मेति ॥१०॥
 
-*amī ya ṛkṣā nihitāsa uccā naktaṃ dadṛśre kuha cid diveyuḥ | adabdhāni varuṇasya vratāni vicākaśac candramā naktam eti || 10 ||*
+> *a̱mī ya ṛkṣā̱ nihi̭tāsa u̱ccā na̱ktaṃ dadṛ̭śre̱ kuha̭*
+> *ci̱ddivḙyuḥ |*
+> *ada̭bdhāni̱ varṷṇasya vra̱tāni̭ vi̱cāka̭śacca̱ndramā̱ nakta̭-*
+> *meti ||10||*
+>
+> *amī́ ya ṛkṣā́ níhitāsa uccā́ naktáṃ dádṛśre kúha*
+> *ciddíveyuḥ |*
+> *ádabdhāni váruṇasya vratā́ni vicā́kaśaccandrámā nákta-*
+> *meti ||10||* [accent ?]
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* कुह*,* चिद्दिवेयुः *and* नक्त-*. In line 3 the print has an anudātta stroke under the lower* च *of* -शच्च- *and under* मा *of* चन्द्रमा*, and a svarita stroke over the* क्त *of* नक्त- *at the line end; these differ from what one might expect for these words and are recorded as printed, flagged [accent ?]. Line 1 has strokes under* अ*,* ऋक्षा*,* उ*,* न *and* श्रे*, over* हि*,* दृ *and* ह*.)*
 
-> अमी इति । ये । ऋक्षाः । निऽहितासः । उच्चा । नक्तम् । ददृश्रे । कुह । चित् । दिवा । ईयुः ॥ अदब्धानि । वरुणस्य । व्रतानि । विऽचाकशत् । चन्द्रमाः । नक्तम् । एति ॥ १० ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*amī iti | ye | ṛkṣāḥ | ni-hitāsaḥ | uccā | naktam | dadṛśre | kuha | cit | divā | īyuḥ || adabdhāni | varuṇasya | vratāni | vi-cākaśat | candramāḥ | naktam | eti || 10 ||*
+> अमी इति । ये । ऋक्षाः । निऽहितासः । उच्चा । नक्तं । ददृश्रे । कुह । चित् । दिवा । ईयुः ॥ अदब्धानि । वरुणस्य । व्रतानि । विऽचाकशत् । चन्द्रऽमाः । नक्तं । एति ॥१०॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 274)*
+> *amī iti | ye | ṛkṣāḥ | ni-hitāsaḥ | uccā | naktaṃ | dadṛśre | kuha | cit | divā | īyuḥ ‖ adabdhāni | varuṇasya | vratāni | vi-cākaśat | candra-māḥ | naktaṃ | eti ‖10‖*
 
-> अमी रात्रावस्माभिर्दृश्यमाना ऋक्षाः सप्त ऋषयः । तथा च वाजसनेयिन आमनन्ति — ऋक्षा इति ह स्म वै पुरा सप्त ऋषीनाचक्षते इति । यद्वा । ऋक्षाः सर्वेऽपि नक्षत्रविशेषाः । ऋक्षाः स्पृभिरिति नक्षत्रनामसु (नि. ३-२०) इति यास्केनोक्तत्वात् । उच्चा उच्चैरुपरि द्युप्रदेशे निहितासः स्थापिता ये सन्ति ते ऋक्षा नक्तं रात्रौ ददृश्रे सर्वैरपि दृश्यन्ते । दिवाहनि कुह चिदीयुः । क्वापि गच्छेयुः । न दृश्यन्त इत्यर्थः । वरुणस्य राज्ञो व्रतानि कर्माणि नक्षत्रदर्शनादिरूपाण्यदब्धानि केनाप्यहिंसितानि । किंच वरुणस्याज्ञयैव चन्द्रमा नक्तं रात्रौ विचाकशत् विशेषेण दीप्यमान एति गच्छति ॥ निहितासः । आज्जसेरसुक् । थाथादिस्वरेणोत्तरपदान्तोदात्तत्वे प्राप्ते । पा. ६-२-१४४ । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । ददृश्रे । दृशेर्लिट् इरयो रे । पा. ६-४-७६ । इति रेआदेशः । व्यत्ययेनाद्युदात्तत्वम् । यद्वृत्तयोगादनिघातः । कुह । वा ह च छन्दसि । पा. ५-३-१३ । इति किंशब्दाद्दु…त्रस्य त्रलो हादेशः । कु तिङोः । पा. २-२-१०४ । इति किंशब्दस्य कुआदेशः । स्थानिवद्भावाल्लित्स्वरेणाद्युदात्तत्वम् । विचाकशत् । केशेर्दीर्घ्यै त्यर्थाद्यङ्लुगन्ताच्छतृप्रत्ययः । अभ्यस्तानामादिरित्याद्युदात्तत्वम् । समासे कृत्स्वरः । यद्वा काश दीप्तौ वा व्यत्ययेनोपधाह्रस्वत्वम् । चन्द्रमाः । चन्द्रे माङो डित् । उ. ४-२२१ । इत्यसिप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् ॥
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-*amī rātrāv asmābhir dṛśyamānā ṛkṣāḥ sapta ṛṣayaḥ | tathā ca vājasaneyina āmananti — ṛkṣā iti ha sma vai purā sapta ṛṣīn ācakṣate iti | yadvā | ṛkṣāḥ sarve 'pi nakṣatraviśeṣāḥ | ṛkṣāḥ spṛbhir iti nakṣatranāmasu (ni. 3-20) iti yāskenoktatvāt | uccā uccair upari dyupradeśe nihitāsaḥ sthāpitā ye santi te ṛkṣā naktaṃ rātrau dadṛśre sarvair api dṛśyante | divāhani kuha cid īyuḥ | kvāpi gaccheyuḥ | na dṛśyanta ity arthaḥ | varuṇasya rājño vratāni karmāṇi nakṣatradarśanādirūpāṇy adabdhāni kenāpy ahiṃsitāni | kiṃca varuṇasyājñayaiva candramā naktaṃ rātrau vicākaśat viśeṣeṇa dīpyamāna eti gacchati || nihitāsaḥ | ājjaser asuk | thāthādisvareṇottarapadāntodāttatve prāpte | pā. 6-2-144 | gatir anantara iti gateḥ prakṛtisvaratvam | dadṛśre | dṛśer liṭ irayo re | pā. 6-4-76 | iti reādeśaḥ | vyatyayenādyudāttatvam | yadvṛttayogād anighātaḥ | kuha | vā ha ca chandasi | pā. 5-3-13 | iti kiṃśabdād du…trasya tralo hādeśaḥ | ku tiṅoḥ | pā. 2-2-104 | iti kiṃśabdasya kuādeśaḥ | sthānivadbhāvāl litsvareṇādyudāttatvam | vicākaśat | keśer dīrghyai tyarthād yaṅlugantāc chatṛpratyayaḥ | abhyastānām ādir ity ādyudāttatvam | samāse kṛtsvaraḥ | yadvā kāśa dīptau vā vyatyayenopadhāhrasvatvam | candramāḥ | candre māṅo ḍit | u. 4-221 | ity asipratyayaḥ | kṛduttarapadaprakṛtisvaratve prāpte dāsībhārādittvāt pūrvapadaprakṛtisvaratvam ||*
+*As printed: the Pada has ये (the Saṃhitā य), ददृश्रे, विऽचाकशत्, चन्द्रऽमाः; नि. ३-२० (the Nirukta number as read; the digit before ० is the curled 2); आज्जसेरसुक्; पा. ६-२-१४४; पा. ६-४-[?]६ (the digit before the last is not clear); पा. ५-३-१३ (the first glyph is the same as in the Kannada grammar's ५-३-१०); पा. ७-२-१०४. The bhāṣya breaks at the foot of p. 274 inside* किंशब्दादु-/त्तरस्य*. The Uṇādi number after* चंद्रे मांजो डित् *on p. 275 is left [?] (the Kannada grammar on p. 276 prints a different-looking number).*
 
-**Translation:** "These *ṛkṣāḥ* seen by us at night are the Seven Seers [the Great Bear]; so the Vājasaneyins say: 'In former times they used to call the seven seers *ṛkṣāḥ*.' Or *ṛkṣāḥ* are all the constellations, as Yāska says in the list of names of the constellations (Ni. [3-20]), '*ṛkṣāḥ*, *stṛbhiḥ*' [the reading is garbled]. *Uccā* — high; *nihitāsaḥ* — placed in the upper region of the sky; those *ṛkṣāḥ* are seen by everyone *naktam*, at night; by day *kuha cit īyuḥ* — they go somewhere; they are not seen. The *vratāni* — the acts — of king Varuṇa, such as the appearing of the constellations, are *adabdhāni* — not harmed by anyone. And by Varuṇa's command alone the moon moves (*eti*) at night, shining (*vicākaśat*) especially. *Nihitāsaḥ*: *asuk* after *jas* by P. 7-1-50; though the end-acute of the second member would arise by the *thāthādi* rule P. 6-2-144, the *gati* keeps its accent by P. 6-2-49. *Dadṛśre*: *liṭ* of *dṛś*; *re* for the ending by P. 6-4-76 [*irayo re*]; the initial acute by *vyatyaya*; no *nighāta* because of the *yat*-connection. *Kuha*: from *kim* with *ha* by P. 5-3-13 *vā ha ca chandasi* in the place of *tral*; *ku* for *kim* before *ti*… by P. 7-2-104; the acute by *lit*-svara through *sthānivadbhāva*. *Vicākaśat*: *kāśṛ dīptau* — a *yaṅ-luk* form of [*kāś*], with *śatṛ*; *abhyastānām ādiḥ*; *kṛt*-accent in the compound. *Candramāḥ*: *mā* after *candra* by Uṇ. 4-221 with *asi*; the compound would take the accent of the second member but the first member keeps its accent by the *dāsībhārādi* rule."
+> अमी रात्रावस्माभिर्दृश्यमानाः ऋक्षाः सप्त ऋषयः । तथा च वाजसनेयिन आमनंति । ऋक्षा इति ह स्म वै पुरा सप्त ऋषीनाचक्षत इति । यद्वा । ऋक्षाः सर्वेऽपि नक्षत्रविशेषाः । ऋक्षाः स्तृभिरिति नक्षत्राणां । नि. ३-२० । इति यास्केनोक्तत्वात् । उच्चा उच्चैरुपरि द्युप्रदेशे निहितासः स्थापिता ये संति ते ऋक्षा नक्तं रात्रौ ददृश्रे । सर्वैरपि दृश्यंते । दिवाहनि कुह चिदीयुः । क्वापि गच्छेयुः । न दृश्यंत इत्यर्थः । वरुणस्य राज्ञो व्रतानि कर्माणि नक्षत्रदर्शनादिरूपाण्यदब्धानि केनाप्यहिंसितानि । किंच वरुणस्याज्ञयैव चंद्रमा नक्तं रात्रौ विचाकशत् विशेषेण दीप्यमान एति । गच्छति ॥ निहितासः । आज्जसेरसुक् । थाथादिस्वरेणोत्तरपदांतोदात्तत्वे प्राप्ते । पा. ६-२-१४४ । गतिरनंतर इति गतेः प्रकृतिस्वरत्वं । ददृश्रे । दृशेर्लिटि इरयो रे । पा. ६-४-[?]६ । इति रेआदेशः । व्यत्ययेनाद्युदात्तत्वं । यद्वृत्तयोगादनिघातः । कुह । वा ह च छंदसि । पा. ५-३-१३ । इति किंशब्दादु-
 
-**[Rik 10, remainder — printed pp. 275–276]**
+> *amī rātrāvasmābhirdṛśyamānāḥ ṛkṣāḥ sapta ṛṣayaḥ | tathā ca vājasaneyina āmanaṃti | ṛkṣā iti ha sma vai purā sapta ṛṣīnācakṣata iti | yadvā | ṛkṣāḥ sarve 'pi nakṣatraviśeṣāḥ | ṛkṣāḥ stṛbhiriti nakṣatrāṇāṃ | ni. 3-20 | iti yāskenoktatvāt | uccā uccairupari dyupradeśe nihitāsaḥ sthāpitā ye saṃti te ṛkṣā naktaṃ rātrau dadṛśre | sarvairapi dṛśyaṃte | divāhani kuha cidīyuḥ | kvāpi gaccheyuḥ | na dṛśyaṃta ityarthaḥ | varuṇasya rājño vratāni karmāṇi nakṣatradarśanādirūpāṇyadabdhāni kenāpyahiṃsitāni | kiṃca varuṇasyājñayaiva caṃdramā naktaṃ rātrau vicākaśat viśeṣeṇa dīpyamāna eti | gacchati ‖ nihitāsaḥ | ājjaserasuk | thāthādisvareṇottarapadāṃtodāttatve prāpte | pā. 6-2-144 | gatiranaṃtara iti gateḥ prakṛtisvaratvaṃ | dadṛśre | dṛśerliṭi irayo re | pā. 6-4-[?]6 | iti reādeśaḥ | vyatyayenādyudāttatvaṃ | yadvṛttayogādanighātaḥ | kuha | vā ha ca chaṃdasi | pā. 5-3-13 | iti kiṃśabdādu-*
 
-**॥ Prati-padārthaḥ ॥** *(p. 275)* **(रात्रियल्लि परिदृश्यमान) अमी (amī)** — these [seen in the night] | **ऋक्षाः (ṛkṣāḥ)** — the Seven Seers' constellation [the stars] | **उच्चा (uccā)** — above [in the sky] | **निहितासः (nihitāsaḥ)** — placed | **ये (ye)** — which | **नक्तम् (naktam)** — at night | **ददृश्रे (dadṛśre)** — are seen | **दिवा (divā)** — in the day | **कुह चित् (kuha cit)** — somewhere | **ईयुः (īyuḥ)** — go | **वरुणस्य (varuṇasya)** — of king Varuṇa | **व्रतानि (vratāni)** — acts [such as the appearing of the stars] | **अदब्धानि (adabdhāni)** — not to be resisted [and not harmed by anyone] | **चन्द्रमाः (candramāḥ)** — the moon | **नक्तम् (naktam)** — at night | **विचाकशत् (vicākaśat)** — shining specially [by his command] | **एति (eti)** — goes.
+### Page 275 — Rik 10: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** The stars seen in the sky at night — everyone sees them at night; by day they go somewhere. These are the undisturbable acts of Varuṇa. By his command the moon too shines specially at night.
+> त्तरस्य त्रलो हादेशः । कु तिहोः । पा. ७-२-१०४ । इति किंशब्दस्य कुआदेशः । स्थानिवद्भावाल्लित्स्वरेणाद्युदात्तत्वं । विचाकशत् । कशेर्दीप्त्यर्थाद्यज्लुगंताच्छतृप्रत्ययः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । समासे कृत्स्वरः । यद्वा । काशतेर्वा व्यत्ययेनोपधाह्रस्वत्वं । चंद्रमाः । चंद्रे मांजो डित् । उ. ४-[?] । इत्यसिप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वे प्राप्ते दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वं ॥१०॥
 
-**॥ English Translation ॥** *(as printed in the source)*
+> *ttarasya tralo hādeśaḥ | ku tihoḥ | pā. 7-2-104 | iti kiṃśabdasya kuādeśaḥ | sthānivadbhāvāllitsvareṇādyudāttatvaṃ | vicākaśat | kaśerdīptyarthādyajlugaṃtācchatṛpratyayaḥ | abhyastānāmādirityādyudāttatvaṃ | samāse kṛtsvaraḥ | yadvā | kāśatervā vyatyayenopadhāhrasvatvaṃ | caṃdramāḥ | caṃdre māṃjo ḍit | u. 4-[?] | ityasipratyayaḥ | kṛduttarapadaprakṛtisvaratve prāpte dāsībhārāditvātpūrvapadaprakṛtisvaratvaṃ ‖10‖*
+
+*Gist:* The seven ṛṣis, the stars seen by us at night, set high in the sky, are seen by night and go somewhere by day; these are Varuṇa's undisturbed acts, and by his command the moon shines brightly at night. Grammatical tail: *nihitāsaḥ* (*asuk*; *gati* keeps its accent, Pā. 6-2-144 as read), *dadṛśre* (*liṭ*, *ire* → *re*; the Pada/accent by *vyatyaya*; no lowering because of the relative), *kuha* (*ku* for *kim* by Pā. 7-2-104, *ha* for *tral* by Pā. 5-3-13), *vicākaśat* (*kaś*, *yaṅ-luk*, *śatṛ*; first syllable acute by "abhyastānām ādiḥ"), *candramāḥ* (suffix *asi*, Uṇ. 4-[?]; the first member keeps its accent as in *dāsībhārādi*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**अमी (amī)** — (seen at night) these | **ऋक्षाः (ṛkṣāḥ)** — the Saptarṣi-maṇḍala (the stars) | **उच्चाः (uccāḥ)** — above (in the sky) | **निहितासः (nihitāsaḥ)** — placed | **ये (ye)** — which (those that are) | **नक्तं (naktaṃ)** — at night | **ददृश्रे (dadṛśre)** — are seen | **दिवा (divā)** — by day | **कुह चित् (kuha cit)** — somewhere | **ईयुः (īyuḥ)** — go | **वरुणस्य (varuṇasya)** — (of the king) Varuṇa's | **व्रतानि (vratāni)** — (the deeds in the form of showing the stars and so on) deeds | **अदब्धानि (adabdhāni)** — (that cannot be known by anyone) unobstructed (and by his command) | **चंद्रमाः (candramāḥ)** — the moon | **नक्तं (naktaṃ)** — at night | **विचाकशत् (vicākaśat)** — shines specially.
+
+**॥ Bhāvārthaḥ ॥**
+
+The stars seen in the antarikṣa are visible to everyone at night, and by day they go off somewhere; these are the unobstructed deeds of Varuṇa. By his command alone the moon too shines specially at night.
+
+**॥ English Translation ॥** *(as printed)*
 
 > These constellations placed on high which are visible by night and go elsewhere by day are the undisturbed acts of Varuna and by his commands, the moon moves and shines brightly by night.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 275)* **ऋक्षाः** — the group of stars called the *Saptarṣi-maṇḍala*, visible in the sky at night; though *ṛkṣāḥ* means 'stars' generally, the commentator explains it here as the Seven Seers. **अदब्धानि** — Varuṇa's acts cannot be obstructed by anyone; they are unimpeded. **व्रतानि** — acts, works, deeds of valour.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-*(Grammar page 276, noted briefly: the words treated are* dadṛśre *[*dṛśir prekṣaṇe*, *liṭ*, *ruṭ-ire-ṭ*, doubling and the loss of the reduplicate's [final]; *iṭ* + *ire*; P. 6-4-76 *irayo re* gives *re* for *ire* in the Veda; since it is joined with *yat*-type word the verb is not wholly lowered; the accent on the first syllable by *vyatyaya*],* kuha *[*kim* + *tral* by P. 5-3-10 *saptamyās tral*; in the Veda *ha* in place of *tral* by P. 5-3-13 *vā ha ca chandasi*; so *ku* + *ha*; the Vaiyākaraṇa-Mahābhāṣya's discussion of the sūtra *vāhac*; *ku* for *kim* before *ti* and *ho* by P. 7-2-104 *kuti hoḥ*],* vicākaśat *[*kaś gatiśāsanayoḥ*, many senses of roots, here 'to shine'; or *kāśṛ dīptau*; *yaṅ-luk* with doubling; *jaś*; the reduplicate's *ca* for *ka*; P. 7-4-83 *dīrgho 'kitaḥ* lengthens the reduplicate; then *śatṛ* for *laṭ*; *śap* lost; the accent by *abhyastānām ādiḥ*: the first syllable is acute — *cākaśat*; with the *vi* compound the *kṛt*-accent follows] and* candramāḥ *[*candra* + *mā* + *asi*, Uṇ. 4-221 *candre māñaḥ ḍit*; the *ḍit* effect; the compound takes the first member's accent by the *dāsībhārādi* rule P. 6-2-42 — the printed number is read doubtfully]; numerals as read, pointers only.)*
+**ऋक्षाः (ṛkṣāḥ)** — the group of stars called the Saptarṣi-maṇḍala, seen in the sky at night. *Ṛkṣāḥ* means "stars" in general, yet here the bhāṣyakāra explains it as the seven ṛṣis.
+
+**अदब्धानि (adabdhāni)** — the deeds of Varuṇa that no one can obstruct; irresistible.
+
+**व्रतानि (vratāni)** — deeds, works, acts of daring.
+
+### Page 276 — Rik 10: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly; numbers as read, not zoomed)*
+
+**ददृश्रे (dadṛśre)** — *dṛśir prekṣaṇe*; *liṭ*, *jh* → *ire c*, doubling, *abhyāsalopa* (as printed); *dadṛś* + *ire*; "इरयोरे" (Pā. Sū. 6-4-[?]6) gives *re* for *ire* in the Veda, hence *dadṛśre*. Because the relative *ye* is joined, there is no all-anudātta (*nighāta*); by the Vedic *vyatyaya* the first syllable is udātta rather than the final.
+
+**कुह (kuha)** — after *kim* "सप्तम्यास्त्रल्" (Pā. Sū. 5-3-10) gives *tral*; "वा ह च छन्दसि" (Pā. Sū. 5-3-13) gives *ha* for *tral* optionally in the Veda, hence the *ha*-substitute (so in the Veda-bhāṣya). The grammarians take the sūtra *vā ha ca* to mean that after *kim* ending in the seventh-case sense the suffix *ha*, and by *ca* the suffixes *at* and *tral*, may come. In this option an independent suffix *ha* comes: *kim* + *ha*, and "कु तिहोः" (Pā. Sū. 7-2-104) gives *ku* for *kim* before a *t*-initial or *h*-initial case-ending. In the first option *tral* is *lit*, so the *ha* standing in its place is *lit* by *sthānivadbhāva*, and by "लिति" the syllable before the suffix is udātta; in the second option the accent is to be established as Vedic usage.
+
+**विचाकशत् (vicākaśat)** — *kaś gatiśāsanayoḥ*; the verbs of the *adādi* class have many senses, so "shining" is taken here. Or *kāś dīptau* of the *bhvādi*; the shortening of the long *ā* is Vedic. Thus the form is not of ordinary usage. *yaṅ*, then *luk*; doubling by "सन्यङोः" (Pā. Sū. 6-1-9); "हलादिः शेषः" drops the *ś* of the reduplicate; "अभ्यासे चर्च" makes the first *k* a *c*; *ca* + *kaś*, "दीर्घोऽकितः" (Pā. Sū. 7-4-83) lengthens the final vowel of a non-*kit* reduplicate; as the form is *parasmaipada*, by "चर्करीतं परस्मैपदम् अदादि वच्चाप्रष्टव्यम्" *śatṛ* for *laṭ*, *śap* dropped; *cākaśat*; "अभ्यस्तानामादिः" (Pā. Sū. 6-1-189) makes the initial of the reduplicated stem udātta; the compound with *vi* keeps this by the *kṛdd-uttarapada* accent.
+
+**चंद्रमाः (candramāḥ)** — "चंद्रे मांजो डित्" (Uṇ. Sū. 4-[?]): *asi* after *māṅ* (*māj*) with the upapada *candra*, which is *ḍit*; so *as*-*ṭi*-loss; *candramas*. By "कुरुगार्हपत…दासीभाराणां च" (Pā. Sū. 6-2-42, as read) the accent of the first member is retained. ॥१०॥
 
 ---
 
-### Pages 277–284 — Sūkta 24, Rik 11
+### Page 277 — Sūkta 24, Rik 11
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तत्त्वा यामि ब्रह्मणा वन्दमानस्तदा शास्ते यजमानो हविर्भिः ।
-> अहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः ॥ ११ ॥
+> तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑-
+> मानो ह॒विर्भिः॑ । [accent ?]
+> अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒
+> प्र मो॑षीः ॥११॥
 
-*tat tvā yāmi brahmaṇā vandamānas tad ā śāste yajamāno havirbhiḥ | aheḷamāno varuṇeha bodhy uruśaṃsa mā na āyuḥ pra moṣīḥ || 11 ||*
-
-**॥ Padapāṭhaḥ ॥**
-
-> तत् । त्वा । यामि । ब्रह्मणा । वन्दमानः । तत् । आ । शास्ते । यजमानः । हविःऽभिः ॥ अहेळमानः । वरुण । इह । बोधि । उरुऽशंस । मा । नः । आयुः । प्र । मोषीः ॥ ११ ॥
-
-*tat | tvā | yāmi | brahmaṇā | vandamānaḥ | tat | ā | śāste | yajamānaḥ | havis-bhiḥ || aheḷamānaḥ | varuṇa | iha | bodhi | uru-śaṃsa | mā | naḥ | āyuḥ | pra | moṣīḥ || 11 ||*
-
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 277)*
-
-> एकादशिनस्य वारुणस्य पशोर्वपापुरोडाशयोस्तत्त्वा यामीति द्वे ऋचौ याज्ये । सूत्रितं च — तत्त्वा यामि ब्रह्मणा वन्दमान इति द्वे अस्तभ्नाद्याम् (आ. ३-८ [?]) इति ॥ वरुणप्रघासेषु वारुणस्य हविषो याज्या तत्त्वा यामीत्येषा । पञ्चमां पौर्णमास्यामित्यत्र सूत्रितं — इमं मे वरुण श्रुधी तत्त्वा यामि ब्रह्मणा वन्दमानः (आ. २-१७ [?]) इति ॥ हे वरुण मुमूर्षुरहं त्वां प्रति तदायुर्यामि । याचे । कीदृशः । ब्रह्मणा प्रौढेन स्तोत्रेण वन्दमानः स्तुवन् । सर्वत्र यजमानोऽपि हविर्भिस्तदायुरा शास्ते । प्रार्थयते । त्वं चेह कर्मण्यहेळमानोऽनादरमकुर्वन्बोधि । अस्मदीप्सितं बुध्यस्व । हे उरुशंस बहुभिः स्तुत्य नोऽस्मदीयमायुर्मा प्र मोषीः । प्रमुषितं मा कुरु । सप्तदशसंख्याकेषु याज्या[कर्मसु?]… [the remaining lines are crowded]
+> *tattvā̭ yāmi̱ brahma̭ṇā̱ vanda̭māna̱stadā śā̭ste̱ yaja̭-*
+> *māno ha̱virbhi̭ḥ |*
+> *ahḙḷamāno varuṇe̱ha bo̱dhyurṷśaṃsa̱ mā na̱ āyu̱ḥ*
+> *pra mo̭ṣīḥ ||11||*
 >
-> अहेळमानः । हेड्ऽ अनादरे । अदुपदेशात्सार्वधातुकानुदात्तत्वे शपश्च पित्त्वादनुदात्तत्वे सति धातुस्वरः शिष्यते । तेन नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । बोधि । बुध अवगमने । लोटः सेर्हिः । बहुलं छन्दसीति विकरणस्य लुक् । वा छन्दसि । पा. ३-४-८८ । इत्यपित्त्वाभावेन ङित्त्वाभावाल्लघूपधगुणः । हुझल्भ्यो हेर्धिरिति हेर्धिरादेशः । धातोरन्त्यलोपश्छान्दसः । मोषीः । मुष स्तेये । लोडर्थे छान्दसो लुङ् । वदव्रजेति प्राप्तायां वृद्धावनेट् । पा. ७-२-४ । इति प्रतिषेधे सति लघूपधगुणः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः ॥
+> *táttvā yāmi bráhmaṇā vándamānastádā́ śāste yája-*
+> *māno havírbhiḥ |* [accent ?]
+> *áheḷamāno varuṇehá bodhyúruśaṃsa mā́ na ā́yuḥ*
+> *prá moṣīḥ ||11||*
 
-*ekādaśinasya vāruṇasya paśor vapāpuroḍāśayos tat tvā yāmīti dve ṛcau yājye | sūtritaṃ ca — tat tvā yāmi brahmaṇā vandamāna iti dve astabhnādyām (ā. 3-8 [?]) iti || varuṇapraghāseṣu vāruṇasya haviṣo yājyā tat tvā yāmīty eṣā | pañcamāṃ paurṇamāsyām ity atra sūtritaṃ — imaṃ me varuṇa śrudhī tat tvā yāmi brahmaṇā vandamānaḥ (ā. 2-17 [?]) iti || he varuṇa mumūrṣur ahaṃ tvāṃ prati tad āyur yāmi | yāce | kīdṛśaḥ | brahmaṇā prauḍhena stotreṇa vandamānaḥ stuvan | sarvatra yajamāno 'pi havirbhis tad āyur ā śāste | prārthayate | tvaṃ ceha karmaṇy aheḷamāno 'nādaram akurvan bodhi | asmadīpsitaṃ budhyasva | he uruśaṃsa bahubhiḥ stutya no 'smadīyam āyur mā pra moṣīḥ | pramuṣitaṃ mā kuru | saptadaśasaṃkhyākeṣu yājyā[karmasu?] … aheḷamānaḥ | heḍa anādare | adupadeśāt sārvadhātukānudāttatve śapaś ca pittvād anudāttatve sati dhātusvaraḥ śiṣyate | tena nañsamāse 'vyayapūrvapadaprakṛtisvaratvam | bodhi | budha avagamane | loṭaḥ ser hiḥ | bahulaṃ chandasīti vikaraṇasya luk | vā chandasi | pā. 3-4-88 | ity apittvābhāvena ṅittvābhāvāl laghūpadhaguṇaḥ | hujhalbhyo her dhir iti her dhir ādeśaḥ | dhātor antyalopaś chāndasaḥ | moṣīḥ | muṣa steye | loḍarthe chāndaso luṅ | vadavrajeti prāptāyāṃ vṛddhāv aneṭ | pā. 7-2-4 | iti pratiṣedhe sati laghūpadhaguṇaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ ||*
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* यज-*,* हविर्भिः *and* आयुः*. The mark over the last syllable of* हविर्भिः *(a svarita stroke above* भिः*) is recorded as printed and flagged [accent ?]. The print writes* उरुशंस *with anusvara before* स *and uses the ऽ-sign in the Pada.)*
 
-**Translation:** "In the Varuṇa animal-sacrifice of the *ekādaśina* [group of eleven], the two riks *tat tvā yāmi* are the *yājyā* for the *vapā* and the *puroḍāśa*; so the sūtra says: 'the two riks *tat tvā yāmi brahmaṇā vandamānaḥ*' (Āś. [3-8] [?]). In the Varuṇapraghāsa, the rik *tat tvā yāmi* is the *yājyā* of the Varuṇa oblation; in the section *pañcamāṃ paurṇamāsyām* the sūtra reads '*imaṃ me varuṇa śrudhi*; *tat tvā yāmi brahmaṇā vandamānaḥ*' (Āś. [2-17] [?]). O Varuṇa! I, about to die, *yāmi* — ask of you for that life; how? *Vandamānaḥ* — praising with *brahma*, a mature hymn. The sacrificer too, everywhere, with oblations asks for that life. And do you, in this rite, *aheḷamānaḥ* — not neglecting, not disregarding — attend (*bodhi*, 'know') what we desire. O *uruśaṃsa* — praised by many! Do not rob (*mā pra moṣīḥ*) us of our life — do not take it away. *Aheḷamānaḥ*: *heḍa anādare* [to disregard]; as a verb of the *a*-class, its *sārvadhātuka* is anudātta, and *śap*, being *pit*, is anudātta, so the accent of the root remains; in the *nañ*-compound the first member keeps the accent by P. 6-2-2. *Bodhi*: *budha avagamane*, *loṭ* → *hi*; *śap* lost by *bahulaṃ chandasi*; by P. 3-4-88 [*vā chandasi*] *hi* is optionally not *pit*, so it is not *ṅit*, and guṇa of the penultimate syllable occurs; *hi* → *dhi* by P. 6-4-101 after … *Moṣīḥ*: *muṣa steye* [to steal]; the Vedic *luṅ* in the sense of the imperative; *vṛddhi* would come by P. 7-2-3, but is prevented by P. 7-2-4 [*neṭi*]; guṇa of the penultimate; the *aṭ* augment is absent since it is joined with *mā*." *(Grammar pages 278–280, noted briefly: the words treated are* aheḷamānaḥ *[*heḍṛ anādare*, class 1; *śānac* by P. 3-2-124 *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe*; *śap* with the accent of its *p*-it; P. 6-1-186 *ṭita ātmanepadānāṃ ṭer e* is not relevant; the acute of the root P. 6-1-162 *dhātoḥ*; *nañ*-compound — with *n* lost by P. 6-3-73 *nalopo nañaḥ*, and P. 6-2-2 *tatpuruṣe tulyārtha…* — the accent of the *avyaya*-first compound P. 6-2-2 gives *aheḷamānaḥ* initial acute],* bodhi *[*budha avagamane*; *loṭ*, *sip* → *hi* by P. 3-4-87 *ser hy apic ca*; the *śap* lost by P. 2-4-73/*bahulaṃ chandasi*; the guṇa by P. 7-3-86 *pugantalaghūpadhasya ca*; *hi* → *dhi* by P. 6-4-101; the final *dh* lost in the Veda; the verb is lowered since it is not at the head of the pāda],* moṣīḥ *[*muṣa steye*, *kryādi*; the Vedic *luṅ* in imperative sense by P. 3-4-6; *sip* → *s*; *iṭ* + *īṭ* by P. 7-2-35 and 7-2-28; the loss of *s* of *sic* by P. 7-2-79 [? the printed note's numbers are crowded]; no *vṛddhi* by P. 7-2-4 *neṭi*; the *aṭ* augment absent by P. 6-4-74 *na māṅyoge* and the Vedic exception]; numerals as read, pointers only.)*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 278)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa [I, who am about to die] | **ब्रह्मणा (brahmaṇā)** — with the excellent hymn | **वन्दमानः (vandamānaḥ)** — praising | **त्वा (tvā)** — you | **तत् (tat)** — that [life] | **यामि (yāmi)** — ask | **यजमानः (yajamānaḥ)** — the sacrificer too | **हविर्भिः (havirbhiḥ)** — with oblations | **तत् (tat)** — that life | **आ शास्ते (ā śāste)** — prays for [from you] | **इह (iha)** — in this rite | **अहेळमानः (aheḷamānaḥ)** — without disregard | **बोधि (bodhi)** — understand [what is desired by us] | **उरुशंस (uruśaṃsa)** — O you praised by many | **नः (naḥ)** — our | **आयुः (āyuḥ)** — life | **मा प्र मोषीः (mā pra moṣīḥ)** — do not take away.
+> तत् । त्वा । यामि । ब्रह्मणा । वंदमानः । तत् । आ । शास्ते । यजमानः । हविःऽभिः ॥ अहेळमानः । वरुण । इह । बोधि । उरुऽशंस । मा । नः । आयुः । प्र । मोषीः ॥११॥
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! I, about to die, praise you with excellent hymns and ask for life. The sacrificer, too, asks for life from you with oblations. Do not disregard us; understand what we want. O you who are praised by many, do not take away our life.
+> *tat | tvā | yāmi | brahmaṇā | vaṃdamānaḥ | tat | ā | śāste | yajamānaḥ | haviḥ-bhiḥ ‖ aheḷamānaḥ | varuṇa | iha | bodhi | uru-śaṃsa | mā | naḥ | āyuḥ | pra | moṣīḥ ‖11‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*As printed: तत्त्वा यामि (the print's* ā *looks like ू); अस्तभ्नाद्यां; आ. ३-७ and आ. ९-१७ (the Āśvalāyana references; the first digit of the second is the 9-glyph, the last of each is the flat-footed 7); सप्तदशसंख्याकेषु याज्ञा कर्मस्वी-/महे यामीति पठितं, split at the page break; हेडृ अनादरे; अदुपदेशाल्लसार्वधातुकानुदात्तत्वे; ङित्त्वाभावाल्लघूपधगुणः (the glyph is the shared ङ/ञ one); पा. ३-४-८८; पा. ७-२-३, ४.*
+
+> एकादशिनस्य वारुणस्य पशोर्वपापुरोडाशयोस्तत्त्वा यामीति द्वे ऋचौ याज्ये । सूत्रितं च । तत्त्वा यामि ब्रह्मणा वंदमान इति द्वे अस्तभ्नाद्यां । आ. ३-७ । इति ॥ वरुणप्रघासेषु वारुणस्य हविषो याज्या तत्त्वा यामीत्येषा पंचम्यां पौर्णमास्यामित्यत्र सूत्रितं । इमं मे वरुण श्रुधि तत्त्वा यामि ब्रह्मणा वंदमानः । आ. ९-१७ । इति ॥ हे वरुण मुमूर्षुरहं त्वां प्रति तदायुर्यामि । याचे । कीदृशः । ब्रह्मणा प्रौढेन स्तोत्रेण वंदमानः स्तुवन् । सर्वत्र यजमानोऽपि हविर्भिस्तदायुरा शास्ते । प्रार्थयते । त्वं चेह कर्मण्यहेळमानोऽनादरमकुर्वन्बोधि । अस्मदपेक्षितं बुध्यस्व । हे उरुशंस बहुभिः स्तुत्य नोऽस्मदीयमायुर्मा प्र मोषीः । प्रमुषितं मा कुरु । सप्तदशसंख्याकेषु याज्ञा कर्मस्वी-
+
+> *ekādaśinasya vāruṇasya paśorvapāpuroḍāśayostattvā yāmīti dve ṛcau yājye | sūtritaṃ ca | tattvā yāmi brahmaṇā vaṃdamāna iti dve astabhnādyāṃ | ā. 3-7 | iti ‖ varuṇapraghāseṣu vāruṇasya haviṣo yājyā tattvā yāmītyeṣā paṃcamyāṃ paurṇamāsyāmityatra sūtritaṃ | imaṃ me varuṇa śrudhi tattvā yāmi brahmaṇā vaṃdamānaḥ | ā. 9-17 | iti ‖ he varuṇa mumūrṣurahaṃ tvāṃ prati tadāyuryāmi | yāce | kīdṛśaḥ | brahmaṇā prauḍhena stotreṇa vaṃdamānaḥ stuvan | sarvatra yajamāno 'pi havirbhistadāyurā śāste | prārthayate | tvaṃ ceha karmaṇyaheḷamāno 'nādaramakurvanbodhi | asmadapekṣitaṃ budhyasva | he uruśaṃsa bahubhiḥ stutya no 'smadīyamāyurmā pra moṣīḥ | pramuṣitaṃ mā kuru | saptadaśasaṃkhyākeṣu yājñā karmasvī-*
+
+### Page 278 — Rik 11: bhāṣya (end), word-meanings, overall sense, English, Special Topics (beginning)
+
+> महे यामीति पठितं । चशब्दलोपश्छांदसः ॥ अहेळमानः । हेडृ अनादरे । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शपश्च पित्त्वादनुदात्तत्वे सति धातुस्वरः शिष्यते । ततो नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । बोधि । बुध अवगमने । लोटः सेर्हिः । बहुलं छंदसीति विकरणस्य लुक् । वा छंदसि । पा. ३-४-८८ । इत्यपित्त्वाभावेन ङित्त्वाभावाल्लघूपधगुणः । हुझल्भ्यो हेर्धिरिति हेर्धिरादेशः । धातोरंत्यलोपश्छांदसः । मोषीः । मुष स्तेये । लोडर्थे छांदसो लुङ् । वदव्रजेति प्राप्तायाः वृद्धेर्नेटि । पा. ७-२-३, ४ । इति प्रतिषेधे सति लघूपधगुणः । बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः ॥
+
+> *mahe yāmīti paṭhitaṃ | caśabdalopaśchāṃdasaḥ ‖ aheḷamānaḥ | heḍṛ anādare | adupadeśāllasārvadhātukānudāttatve śapaśca pittvādanudāttatve sati dhātusvaraḥ śiṣyate | tato nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | bodhi | budha avagamane | loṭaḥ serhiḥ | bahulaṃ chaṃdasīti vikaraṇasya luk | vā chaṃdasi | pā. 3-4-88 | ityapittvābhāvena ṅittvābhāvāllaghūpadhaguṇaḥ | hujhalbhyo herdhiriti herdhirādeśaḥ | dhātoraṃtyalopaśchāṃdasaḥ | moṣīḥ | muṣa steye | loḍarthe chāṃdaso luṅ | vadavrajeti prāptāyāḥ vṛddherneṭi | pā. 7-2-3, 4 | iti pratiṣedhe sati laghūpadhaguṇaḥ | bahulaṃ chaṃdasyamāṅyoge 'pītyaḍabhāvaḥ ‖*
+
+*Gist:* Varuṇa, I who face death beg for life, praising you with a mighty hymn; the sacrificer too asks it with his oblations; do not disregard us in this rite, know what we want, and do not take away our life. The grammatical tail notes *ahelamānaḥ* (root *heḍṛ*; the *śap* is *pit* and so anudātta, the root accent remains; the *nañ*-compound keeps the first member's accent), *bodhi* (*hi*, *śap* dropped; *apit*, so no *ṅit*, so guṇa; *dhi* by "hujhalbhyo her dhiḥ"; Vedic loss of the final), *moṣīḥ* (*luṅ* in the sense of *loṭ*; no vṛddhi by Pā. 7-2-3, 4; guṇa of the penultimate; no *aṭ*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**हे वरुण (he varuṇa)** — O Varuṇa (I who am facing death) | **ब्रह्मणा (brahmaṇā)** — by excellent hymns | **वंदमानः (vandamānaḥ)** — as one who praises | **त्वा (tvā)** — you | **तत् (tat)** — that life | **यामि (yāmi)** — I beg | **यजमानः (yajamānaḥ)** — the sacrificer (also) | **हविर्भिः (havirbhiḥ)** — with oblations | **तत् (tat)** — that life | **आ शास्ते (ā śāste)** — begs (you also) | **इह (iha)** — in this rite | **अहेळमानः (aheḷamānaḥ)** — without disregard | **बोधि (bodhi)** — know (our wish) | **उरु शंस (uru śaṃsa)** — O one praised by many, O Varuṇa | **नः (naḥ)** — our | **आयुः (āyuḥ)** — life | **मा प्रमोषीः (mā pramoṣīḥ)** — do not take away.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Varuṇa, I who am facing death praise you with excellent hymns and ask for life. The sacrificer too asks for life with his oblations (pleasing you). You, praised by many, understand in this rite what we wish. Do not take away our life.
+
+**॥ English Translation ॥** *(as printed)*
 
 > With adoration I ask you for that life which the sacrificer solicits with oblations; Varuna, do not neglect us; praised by many, do not deprive us of our life.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 278–279)* **Application.** In the Varuṇa animal-sacrifice, called the *ekādaśinī* group, when the offering of the omentum (*vapā*) and the *puroḍāśa* is made, the two riks beginning *tat tvā yāmi* are to be used as *yājyā* mantras. This is stated in Āśvalāyana's Śrauta-sūtra in the sūtra *tat tvā yāmi brahmaṇā vandamāna iti dve astabhnād dyām* (Āś. [3-8]). And in the *Varuṇapraghāsa* *homa*, the rik *tat tvā yāmi* is to be used as the *yājyā* mantra when the oblation is offered to Varuṇa; the section *pañcamāṃ paurṇamāsyām* explains it in the sūtra *imaṃ me varuṇa śrudhi tat tvā yāmi brahmaṇā vandamānaḥ* (Āś. [2-17]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 278–279)*
 
-**तत्** — that, i.e. the life that is needed here by Śunaḥśepa, who is about to die. **तदा शास्ते यजमानः** — the sacrificer who performs the sacrifice, too, offering oblations, asks Varuṇa for life. **ब्रह्मणा** — though *brahman* has many senses — food (Ni. [2-7]), wealth (Ni. [2-10]), hymn (Ni. [3-9]) — here the sense of hymn must be taken. **अहेळमानः** — *anādaram akurvan*: *heḍa* means disrespect; not neglecting, not slighting. **उरुशंस** — *bahubhiḥ stutya*: praised by many. **मा न आयुः प्र मोषीः** — *moṣīḥ*: *muṣa steye*; *na moṣīḥ* means 'do not steal'; that is, 'do not reduce our life; do not take it away'.
+In the animal sacrifice belonging to Varuṇa, when the vapā-homa of the animal with its eleven prayājas is performed, the two ṛks beginning **तत्त्वा यामि (tattvā yāmi)** are to be used as yājyā-mantras. This is determined in the Āśvalāyana-śrauta-sūtra by the sūtra **तत्त्वा यामि ब्रह्मणा वंदमान इति द्वे अस्तभ्नाद्यां (tattvā yāmi brahmaṇā vandamāna iti dve astabhnādyāṃ)** (Āś. 3-7, as read).
+
+### Page 279 — Rik 11: Special Topics (continued), grammar (beginning)
+
+Likewise, in the Varuṇapraghāsa homa, when the havis is offered to Varuṇa, this ṛk **तत्त्वा यामि (tattvā yāmi)** is to be used as yājyā-mantra; this is explained in the section called **पंचम्यां पौर्णमास्यां (pañcamyāṃ paurṇamāsyāṃ)** by the sūtra **इमं मे वरुण श्रुधि तत्त्वा यामि ब्रह्मणा वंदमानः (imaṃ me varuṇa śrudhi tattvā yāmi brahmaṇā vandamānaḥ)** (Āś. 9-17, as read).
+
+**तत् (tat)** — "that": here, the life needed by Śunaḥśepa, who is facing death.
+
+**तदाशास्ते यजमानः (tadāśāste yajamānaḥ)** — the sacrificer who performs the yajña, together with [Śunaḥśepa], offering oblations, seeks only life from Varuṇa.
+
+**ब्रह्मणा (brahmaṇā)** — the word *brahma* has the meanings anna (Ni. 3-[?]), dhana (Ni. 3-[?]) and stotra (the last digit of each reference is printed with a glyph I cannot settle as 8 or 9); though it has many meanings, here the meaning *stotra* is to be taken.
+
+**अहेळमानः (aheḷamānaḥ)** — *anādaramakurvan*:
+
+> अनादरमकुर्वन्
+
+> *anādaramakurvan*
+
+*heḍa anādare*: not disregarding, not neglecting.
+
+**उरुशंस (uruśaṃsa)** — *bahubhiḥ stutya*:
+
+> बहुभिः स्तुत्य
+
+> *bahubhiḥ stutya*
+
+one who is praised by many.
+
+**मा न आयुः प्रमोषीः (mā na āyuḥ pramoṣīḥ)** — *moṣīḥ*, from *muṣa steye*; *na moṣīḥ* means "do not steal"; that is, do not make our life shorter, do not cut it off.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers as read at page width, not zoomed)*
+
+**अहेळमानः (aheḷamānaḥ)** — root *heḍṛ anādare*, bhvādi, anudāttet; "लटः शतृशानचौ" gives *śānac*; with *śap* it becomes *heḷamāna*; *śap* is *pit* and so anudātta; if *śānac* were ādyudātta, "तास्यनुदात्तेत्" (Pā. Sū. 6-1-186) makes it anudātta, and then "धातोः" (Pā. Sū. 6-1-162) leaves the final udātta of the root. After the *nañ*-compound, "नलोपो नञः" (Pā. Sū. 6-3-73) drops the *n*; as a *tatpuruṣa* with an indeclinable first member, "तत्पुरुषे तुल्यार्थ…" (Pā. Sū. 6-2-2) gives the first member's accent: *aheḷamānaḥ* is ādyudātta.
+
+**बोधि (bodhi)** — root *budha avagamane*, bhvādi; *loṭ*, madhyama ekavacana *sip*; *hi* in its place; *śap* would come, but "बहुलं छन्दसि" (Pā. Sū. 2-4-76) drops it; "वा छन्दसि" (Pā. Sū. 3-4-88) makes *hi* optionally *apit*, and "सेर्ह्यपिच्च" (Pā. Sū. 3-4-87) makes it always so, so no *ṅit*, hence the laghūpadha guṇa (*bodh* + *hi*; p. 280); "हुझल्भ्यो हेर्धिः" (Pā. Sū. 6-4-101) gives *dhi* after a *jhal*-final root; the root's final is dropped by Vedic usage; *bodhi*; since a *ati-ṅanta* follows, *nighāta* accent.
+
+### Page 280 — Rik 11: grammar (end)
+
+**मोषीः (moṣīḥ)** — root *muṣa steye*, kryādi; "छन्दसि लुङ्लङ्लिटः" (Pā. Sū. 3-4-6) gives *luṅ* in the sense of *loṭ*; *sip*; "इतश्च" drops the *i* of *sip*; "च्लि लुङि" gives *cli*, and "च्लेः सिच्" turns it into *sic*; being *val*-initial it takes *iṭ*; "अस्ति सिचोऽपृक्ते" (Pā. Sū. 7-3-96, as read) gives *īṭ* to the single-letter ending; "वदव्रजहलन्तस्याचः" (Pā. Sū. 7-2-3) would give vṛddhi to the *u* of the consonant-final *muṣ*, but "नेटि" (Pā. Sū. 7-2-4) forbids vṛddhi before *iṭ*-initial *sic*; then guṇa of the penultimate; "इट ईटि" (Pā. Sū. 8-2-28, as read) drops *sic*; the *s* becomes *ru* and visarga; by "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) there is no *aṭ* augment, whether or not *māṅ* is attached (here *māṅ* is connected, so no *aṭ* for the root); the form is *moṣīḥ*, with *nighāta* accent.
 
 ---
 
-### Pages 280–283 — Sūkta 24, Rik 12
+### Page 280 (lower) — Sūkta 24, Rik 12
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तदिन्नक्तं तद्दिवा मह्यमाहुस्तदयं केतो हृद आ वि चष्टे ।
-> शुनःशेपो यमह्वद्गृभीतः सो अस्मान्राजा वरुणो मुमोक्तु ॥ १२ ॥
+> तदिन्नक्तं॒ तद्दिवा॒ मह्य॑माहु॒स्तद॒यं केतो॑ हृ॒द आ [accent ?]
+> वि च॑ष्टे ।
+> शु॒नःशे॒पो यमह्व॑द्गृभी॒तः सो अ॒स्मान्राजा॒ वरु॑-
+> णो मुमोक्तु ॥१२॥
 
-*tad in naktaṃ tad divā mahyam āhus tad ayaṃ keto hṛda ā vi caṣṭe | śunaḥśepo yam ahvad gṛbhītaḥ so asmān rājā varuṇo mumoktu || 12 ||*
+> *tadinnakta̱ṃ taddivā̱ mahya̭māhu̱stada̱yaṃ keto̭ hṛ̱da ā*
+> *vi ca̭ṣṭe |*
+> *śu̱naḥśe̱po yamahva̭dgṛbhī̱taḥ so a̱smānrājā̱ varṷ-*
+> *ṇo mumoktu ||12||*
+>
+> *tadinnaktaṃ taddivā máhyam āhustádayáṃ ketó hṛdá ā* [accent ?]
+> *ví caṣṭe |*
+> *śunáḥ śepó yamáhvad gṛbhītáḥ so asmā́n rājā váru-*
+> *ṇo mumoktu ||12||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* आ*,* चष्टे *and* वरु-*. In this verse every anudātta stroke is printed as a double bar, and I have taken each as one anudātta mark; flagged [accent ?] on line 1, where the bar under* क्तं *of* तदिन्नक्तं *(not under* न*) and the svarita over the last syllable of* केतो *are recorded exactly as the print shows them.)*
 
-> तत् । इत् । नक्तम् । तत् । दिवा । मह्यम् । आहुः । तत् । अयम् । केतः । हृदः । आ । वि । चष्टे ॥ शुनःशेपः । यम् । अह्वत् । गृभीतः । सः । अस्मान् । राजा । वरुणः । मुमोक्तु ॥ १२ ॥
+### Page 281 — Rik 12: Pada, bhāṣya, word-meanings (beginning)
 
-*tat | it | naktam | tat | divā | mahyam | āhuḥ | tat | ayam | ketaḥ | hṛdaḥ | ā | vi | caṣṭe || śunaḥśepaḥ | yam | ahvat | gṛbhītaḥ | saḥ | asmān | rājā | varuṇaḥ | mumoktu || 12 ||*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 281)*
+> तत् । इत् । नक्तं । तत् । दिवा । मह्यं । आहुः । तत् । अयं । केतः । हृदः । आ । वि । चष्टे ॥ शुनःशेपः । यं । अह्वत् । गृभीतः । सः । अस्मान् । राजा । वरुणः । मुमोक्तु ॥१२॥
 
-> तदित्थेव वरुणविषयं स्तोत्रं नक्तं रात्रौ मह्यं शुनःशेपायाहुः । कर्तव्यत्वेनाभिज्ञाः कथयन्ति । तथा दिनेऽपि तदेवाहुः । हृदो मदीयमनसो निष्पन्नोऽयं केतः प्रज्ञाविशेषोऽपि तदेव कर्तव्यत्वेना वि चष्टे । सर्वतो विशेषेण प्रकाशयति । गृभीतो गृहीतो यूपे बद्धः शुनःशेप एतन्नामको जनो यं वरुणमह्वत् आहूतवान् स वरुणो राजास्मान् शुनःशेपान्मुमोक्तु । बन्धान्मुक्तं करोतु ॥ मह्यम् । जयि चेत्याद्युदात्तत्वम् । आहुः । ब्रूञ् व्यक्तायां वाचि । ब्रुवः पञ्चानामादित आहो ब्रुवः (पा. ३-४-८४) । इति । ऊस्यपदान्तात् (पा. ६-१-९६) इति पररूपत्वम् । हृदः । पद्दन्नोमास्हृन्निशसन् … (पा. ६-१-६३) इत्यादिना हृदयशब्दस्य हृदादेशः । ऊडिदंपदादीति पञ्चम्या उदात्तत्वम् । शुनःशेपः । शुन इव शेपो यस्येति समासे शुनःशेपपुच्छलाङ्गूलेषु संज्ञायां षष्ठ्या अलुक् कर्तव्यः । (पा. ६-३-२१) इत्यलुक् । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते उभे वनस्पत्यादिषु (पा. ६-२-१४०) इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् । अह्वत् । ह्वेञ् स्पर्धायां … लुङि … लिसिचिह्वश्च । (पा. ३-१-५३) इति च्लेरङादेशः । आतो लोप इटि च । (पा. ६-४-६४) इत्याकारलोपः । आडागम उदात्तः । यद्वृत्तयोगादनिघातः । गृभीतः । ग्रहोर्भ इति भत्वम् । सो अस्मान् । प्रकृत्यान्तःपादमव्यपरे । पा. ६-१-११५ । इति प्रकृतिभावः । मुमोक्तु । बहुलं छन्दसीति विकरणस्य श्लुः ॥
+> *tat | it | naktaṃ | tat | divā | mahyaṃ | āhuḥ | tat | ayaṃ | ketaḥ | hṛdaḥ | ā | vi | caṣṭe ‖ śunaḥśepaḥ | yaṃ | ahvat | gṛbhītaḥ | saḥ | asmān | rājā | varuṇaḥ | mumoktu ‖12‖*
 
-*tad itthaiva varuṇaviṣayaṃ stotraṃ naktaṃ rātrau mahyaṃ śunaḥśepāyāhuḥ | kartavyatvenābhijñāḥ kathayanti | tathā dine 'pi tad evāhuḥ | hṛdo madīyamanaso niṣpanno 'yaṃ ketaḥ prajñāviśeṣo 'pi tad eva kartavyatvenā vi caṣṭe | sarvato viśeṣeṇa prakāśayati | gṛbhīto gṛhīto yūpe baddhaḥ śunaḥśepa etannāmako jano yaṃ varuṇam ahvat āhūtavān sa varuṇo rājāsmān śunaḥśepān mumoktu | bandhān muktaṃ karotu || mahyam | jayi cety ādyudāttatvam | āhuḥ | brūñ vyaktāyāṃ vāci | bruvaḥ pañcānām ādita āho bruvaḥ (pā. 3-4-84) | iti | uṣyapadāntāt (pā. 6-1-96) iti pararūpatvam | hṛdaḥ | paddannomāshṛnniśasan … (pā. 6-1-63) ity ādinā hṛdayaśabdasya hṛdādeśaḥ | ūḍidaṃpadādīti pañcamyā udāttatvam | śunaḥśepaḥ | śuna iva śepo yasyeti samāse śunaḥśepapucchalāṅgūleṣu saṃjñāyāṃ ṣaṣṭhyā aluk kartavyaḥ (pā. 6-3-21) ity aluk | pūrvapadaprakṛtisvaratve prāpte ubhe vanaspatyādiṣu (pā. 6-2-140) iti pūrvottarapadayor yugapat prakṛtisvaratvam | ahvat | hveñ spardhāyām … luṅi … lisicihvaś ca (pā. 3-1-53) iti cler aṅādeśaḥ | āto lopa iṭi ca (pā. 6-4-64) ity ākāralopaḥ | āḍāgama udāttaḥ | yadvṛttayogād anighātaḥ | gṛbhītaḥ | grahor bha iti bhatvam | so asmān | prakṛtyāntaḥpādam avyapare | pā. 6-1-115 | iti prakṛtibhāvaḥ | mumoktu | bahulaṃ chandasīti vikaraṇasya śluḥ ||*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**Translation:** "Just so, they tell me, Śunaḥśepa, by night [that] hymn on Varuṇa — those who know what is to be done say it; likewise by day they say that very thing. This *ketaḥ* — this special knowledge — produced from my heart also shows it, as to be done, clearly on every side. Śunaḥśepa, seized and bound to the post, whom (*yam*) [i.e. Varuṇa] he invoked (*ahvat*): may that king Varuṇa release us — release us Śunaḥśepas from bondage. *Mahyam*: acute on the first syllable by *jayi ca*. *Āhuḥ*: *brūñ vyaktāyāṃ vāci*; the substitute *āh* by P. 3-4-84; *pararūpa* by P. 6-1-96. *Hṛdaḥ*: *hṛd* for *hṛdaya* by P. 6-1-63; the ablative's acute. *Śunaḥśepaḥ*: 'whose *śepa* is like a dog's'; *aluk* of the genitive by P. 6-3-21; both members keep their own accent by P. 6-2-140 [*ubhe vanaspatyādiṣu*]. *Ahvat*: *hveñ spardhāyām*; *luṅ*, *aṅ* for *cli* by P. 3-1-53; loss of *ā* by P. 6-4-64; the *āṭ* augment is acute; no lowering because of the *yat*-connection. *Gṛbhītaḥ*: *bha* for *ha* in the root *grah*. *So asmān*: *prakṛtibhāva* by P. 6-1-115. *Mumoktu*: *śluḥ* by *bahulaṃ chandasi*." *(Grammar pages 281–284, noted briefly — the print gives a long Vyākaraṇa-prakriyā here: the words treated are* mahyam *[*asmad* + *ṅe*, with *mahya* substituted for the stem by P. 7-2-95 *tubhyamahyau ṅayi*; *am* for *ṅe* and the vowel-sandhi P. 6-1-107 *ami pūrvaḥ*; the long exposition of how *ṅe* becomes *ya* and *am*],* āhuḥ *[*brū* → *āh* in five forms by P. 3-4-84, 'the five of the *laṭ* parasmaipada *ti, tas, jhi, sip, thas*', so *āha, āhatuḥ, āhuḥ*; *jhi* → *us*; P. 6-1-96 *usy apadāntāt* gives *pararūpa*],* hṛdaḥ *[*hṛdaya* → *hṛd* by P. 6-1-63 *pad-dan-no-mās-hṛn-niś-asan-yūṣan-doṣan-yakan-śakan-udan-āsan-chasprabhṛtiṣu*; the ablative *as*; *visarga*; the accent],* śunaḥśepaḥ *[a compound: *śunaḥ śepa iva śepo yasya* — *aluk* by P. 6-3-21 so that the genitive *śunaḥ* is kept; the text lists *śunaḥśepa*, *śunaḥpuccha*, *śunolāṅgūla* as names (*saṃjñā*); the accent by P. 6-2-140 *ubhe vanaspatyādiṣu yugapat* — both members keep their accents, so two acutes are heard],* ahvat *[*hveñ*, *luṅ*; *aṅ* in place of *cli* by P. 3-1-53; the loss of *ā* by P. 6-4-64; the *aṭ* augment is acute],* gṛbhītaḥ *[*graha upādāne* + *kta*; *saṃprasāraṇa* P. 6-1-15/16 *grahijyā…*; *iṭ* by P. 7-2-35 and long *ī* by P. 7-2-37 *grahoʼliṭi dīrghaḥ*; *ha* → *bha* by the Vedic rule *hṛgrahor bhaś chandasi*],* so asmān *[*prakṛtibhāva* of the *o* before the short *a*: P. 6-1-115 *prakṛtyāntaḥpādam avyapare*, so there is no *pūrvarūpa*] and* mumoktu *[*muñc* of the *tudādi* class; *loṭ* 3rd singular → *tu* by P. 3-4-86 *eruḥ*; *śa* would be the *vikaraṇa* by P. 3-1-77, but *śluḥ* by P. 2-4-76 *bahulaṃ chandasi*; doubling and *halādiḥ śeṣaḥ*; guṇa with *kutva*]; numerals as read, pointers only.)*
+*As printed: मह्यं । ङयि चेत्याद्युदात्तत्वं (the print's ङ/ञ glyph); पा. ३-४-८४; पा. ६-१-६३ (read); the number after* संज्ञायां षष्ठ्या अलुग्वक्तव्यः *is printed with a stray dot (पा. ६-३-[?]); पा. ६-२-१४०; पा. ३-१-५३; पा. ६-४-६४; झेरुसादेशः (the glyph for* झ*).*
 
-**॥ Prati-padārthaḥ ॥** *(p. 281–282)* **तत् इत् (tat it)** — that very [praise of Varuṇa] | **नक्तम् (naktam)** — by night | **मह्यम् (mahyam)** — to me [Śunaḥśepa] | **आहुः (āhuḥ)** — [those who know the duty] say | **दिवा (divā)** — by day | **तत् (tat)** — that very [praise] | **आहुः (āhuḥ)** — they say | **हृदः (hṛdaḥ)** — in my mind | **अयम् केतः (ayaṃ ketaḥ)** — this knowledge | **तत् (tat)** — that [duty] | **आ वि चष्टे (ā vi caṣṭe)** — shows clearly | **गृभीतः (gṛbhītaḥ)** — seized [bound to the post] | **शुनःशेपः (śunaḥśepaḥ)** — Śunaḥśepa | **यम् (yam)** — whom [Varuṇa] | **अह्वत् (ahvat)** — has invoked | **सः (saḥ)** — that | **राजा वरुणः (rājā varuṇaḥ)** — king Varuṇa | **अस्मान् (asmān)** — us [Śunaḥśepa] | **मुमोक्तु (mumoktu)** — may release [from bondage].
+> तदित्तदेव वरुणविषयं स्तोत्रं नक्तं रात्रौ मह्यं शुनःशेपायाहुः । कर्तव्यत्वेनाभिज्ञाः कथयंति । तथा दिवापि तदेवाहुः । हृदो मदीयमनसो निष्पन्नोऽयं केतः प्रज्ञाविशेषोऽपि तदेव कर्तव्यत्वेना वि चष्टे । सर्वतो विशेषेण प्रकाशयति । गृभीतो गृहीतो यूपे बद्धः शुनःशेप एतन्नामको जनो यं वरुणमह्वत् आहूतवान् स वरुणो राजास्मान् शुनःशेपास्मान्मोक्तु । बंधान्मुक्तं करोतु ॥ मह्यं । ङयि चेत्याद्युदात्तत्वं । आहुः । ब्रुवः पंचानां । पा. ३-४-८४ । इति ब्रूञो लटि झेरुसादेशो धातोराहादेशश्च । हृदः । पद्दन्नित्यादिना । पा. ६-१-६३ । हृदयशब्दस्य हृदादेशः । ऊडिदंपदादीति पंचम्या उदात्तत्वं । शुनःशेपः । शुन इव शेपो यस्येति समासे शुनःशेपपुच्छलांगूलेषु संज्ञायां षष्ठ्या अलुग्वक्तव्यः । पा. ६-३-[?] । इत्यलुक् । पूर्वपदप्रकृतिस्वरत्वे प्राप्ते उभे वनस्पत्यादिषु । पा. ६-२-१४० । इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं । अह्वत् । ह्वेञो लुङि लिपिसिचिह्वश्च । पा. ३-१-५३ । इति च्लेरङादेशः । आतो लोप इटि च । पा. ६-४-६४ । इत्याकारलोपः । अडागम उदात्तः । यद्वृत्तयोगादनिघातः । गृभीतः । हृग्रहोर्भ इति भत्वं । सो अस्मान् । प्रकृत्यांतःपादमिति प्रकृतिभावः । मुमोक्तु । बहुलं छंदसीति विकरणस्य श्लुः ॥
 
-**॥ Bhāvārthaḥ ॥** Those who know say to me, Śunaḥśepa, that the praise of Varuṇa is to be made by night and by day. My own mind, too, clearly holds this idea. May that king Varuṇa, invoked by me, Śunaḥśepa, bound to the post, release me from bondage.
+> *tadittadeva varuṇaviṣayaṃ stotraṃ naktaṃ rātrau mahyaṃ śunaḥśepāyāhuḥ | kartavyatvenābhijñāḥ kathayaṃti | tathā divāpi tadevāhuḥ | hṛdo madīyamanaso niṣpanno 'yaṃ ketaḥ prajñāviśeṣo 'pi tadeva kartavyatvenā vi caṣṭe | sarvato viśeṣeṇa prakāśayati | gṛbhīto gṛhīto yūpe baddhaḥ śunaḥśepa etannāmako jano yaṃ varuṇamahvat āhūtavān sa varuṇo rājāsmān śunaḥśepāsmānmoktu | baṃdhānmuktaṃ karotu ‖ mahyaṃ | ṅayi cetyādyudāttatvaṃ | āhuḥ | bruvaḥ paṃcānāṃ | pā. 3-4-84 | iti brūño laṭi jherusādeśo dhātorāhādeśaśca | hṛdaḥ | paddannityādinā | pā. 6-1-63 | hṛdayaśabdasya hṛdādeśaḥ | ūḍidaṃpadādīti paṃcamyā udāttatvaṃ | śunaḥśepaḥ | śuna iva śepo yasyeti samāse śunaḥśepapucchalāṃgūleṣu saṃjñāyāṃ ṣaṣṭhyā alugvaktavyaḥ | pā. 6-3-[?] | ityaluk | pūrvapadaprakṛtisvaratve prāpte ubhe vanaspatyādiṣu | pā. 6-2-140 | iti pūrvottarapadayoryugapatprakṛtisvaratvaṃ | ahvat | hveño luṅi lipisicihvaśca | pā. 3-1-53 | iti cleraṅādeśaḥ | āto lopa iṭi ca | pā. 6-4-64 | ityākāralopaḥ | aḍāgama udāttaḥ | yadvṛttayogādanighātaḥ | gṛbhītaḥ | hṛgrahorbha iti bhatvaṃ | so asmān | prakṛtyāṃtaḥpādamiti prakṛtibhāvaḥ | mumoktu | bahulaṃ chaṃdasīti vikaraṇasya śluḥ ‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Varuṇa-praise is what the knowing ones tell me, Śunaḥśepa, to do, by night and by day; the knowledge born in my heart makes the same clear as a duty. May King Varuṇa, whom I called when bound to the post, free us from the bond. The grammatical tail notes *mahyam* (initial acute), *āhuḥ* (*brū* → *āh*, *jhi* → *us*), *hṛdaḥ* (*hṛdaya* → *hṛd* by "pād-dan…", Pā. 6-1-63 as read), *śunaḥśepaḥ* (*alug* of the genitive; both members keep their own accent by Pā. 6-2-140, as read), *ahvat* (*luṅ*, *aṅ* for *cli*, Pā. 3-1-53 as read; loss of *ā*, Pā. 6-4-64; *aṭ* udātta; no lowering because of the relative), *gṛbhītaḥ* (*bha* for *ha*), *so asmān* (*pragṛhya*, no sandhi), *mumoktu* (*śluḥ*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**तदित् (tadit)** — that very (praise concerning Varuṇa) | **नक्तं (naktaṃ)** — at night | **मह्यं (mahyaṃ)** — (to Śunaḥśepa) to me | **आहुः (āhuḥ)** — (those who know it as a duty) say | **तथा (tathā)** — (likewise) | **दिवा (अपि) (divā (api))** — by day too | **तत् (एव) (tat (eva))** — that very | **आहुः (āhuḥ)** — (they say) | **हृदः (hṛdaḥ)** — in my mind (born) | **अयं केतः (ayaṃ ketaḥ)** — this knowledge | **आ वि चष्टे (ā vi caṣṭe)** — makes clear (as a duty)
+
+### Page 282 — Rik 12: word-meanings (end), overall sense, English, Special Topics, grammar
+
+**॥ Prati-padārthaḥ ॥** *(continued)*
+
+**गृभीतः (gṛbhītaḥ)** — seized (bound to the post) | **शुनःशेपः (śunaḥśepaḥ)** — (this man) called Śunaḥśepa | **यं (yaṃ)** — which | **वरुणं (varuṇaṃ)** — Varuṇa | **अह्वत् (ahvat)** — has called | **सः वरुणः राजा (saḥ varuṇaḥ rājā)** — that king Varuṇa | **अस्मान् (asmān)** — us (Śunaḥśepa) | **मुमोक्तु (mumoktu)** — (from bondage) may release.
+
+**॥ Bhāvārthaḥ ॥**
+
+Those who know tell me, Śunaḥśepa, that I should do Varuṇa's praise by night and by day. My mind too makes this very matter clear. May Varuṇa, called by me, Śunaḥśepa, who am bound, release me.
+
+**॥ English Translation ॥** *(as printed)*
 
 > This (your praise) is what they have told me at night, this in the day-time; this knowledge speaks to my heart; may that king Varuna whom Sunashepa, invoked when fettered liberate us.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 282)* **तत् इत्** — that very thing, i.e. the matter of Varuṇa. **तत् अयं केतः हृदे आ वि चष्टे** — this matter is fixed in my mind; here *ketaḥ* means a special knowledge, understanding. **शुनःशेपः यम् अह्वत् सः** — Varuṇa, whom I, named Śunaḥśepa, am calling. **गृभीतः** — *gṛhītaḥ*: seized so as to be tied to the sacrificial post — I, Śunaḥśepa. **अस्मान् राजा वरुणः मुमोक्तु** — may king Varuṇa, thus invoked by me, release us from the bondage of the sacrificial post.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**तत् इत् (tat it)** — that very thing, that very matter of Varuṇa.
+
+**तत् अयं केतः हृद आ वि चष्टे (tat ayaṃ ketaḥ hṛda ā vi caṣṭe)** — this matter is fixed in my mind. *Ketaḥ* here means a particular kind of knowledge, awareness.
+
+**शुनःशेपः यं अह्वत् सः (śunaḥśepaḥ yaṃ ahvat saḥ)** — that Varuṇa whom I, the one named Śunaḥśepa, am calling.
+
+**गृभीतः (gṛbhītaḥ)** — *gṛhītaḥ*; I, Śunaḥśepa, seized in order to be bound to the sacrificial post.
+
+**अस्मान् राजा वरुणः मुमोक्तु (asmān rājā varuṇaḥ mumoktu)** — may King Varuṇa, called by me, free us (me) from this bondage of the sacrificial post, release us.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar page, noted briefly)*
+
+**मह्यम् (mahyam)** — after the word *asmad*, when the fourth case singular is intended, the suffix *ṅe*; "ङेप्रथमयोरम्" gives *am* for it (the print gives the sūtra by name, no number); "तुभ्यमह्यौ ङयि" (Pā. Sū. 7-2-95, as read) gives, in the fourth singular, the substitute *mahya* for the stem *asmat* up to its *ma* (as the print says: *maparyantakke*); "शेषे लोपः" drops the remaining *ad*; *mahya* + *am*, "अमि पूर्वः" gives the earlier form: *mahyam*.
+
+### Page 283 — Rik 12: grammar (continued)
+
+*(Grammar page, noted briefly; numbers as read at page width, not zoomed.)*
+
+**मह्यम् (mahyam)** *(end)* — "ङयि च" (Pā. Sū. 6-1-2[?]): in the fourth case singular the words *yuṣmad* and *asmad* take the ādyudātta accent; hence the ādyudātta accent here.
+
+**आहुः (āhuḥ)** — root *brūñ vyaktāyāṃ vāci*, adādi; *laṭ*, third person plural, parasmaipada *jhi*. By "ब्रुवः पंचानामादित आहो ब्रुवः" (Pā. Sū. 3-4-84) the first five parasmaipada endings of *brū* in the *laṭ* take the *ṇal* etc. substitutes optionally and the root takes *āh*; so *jhi* becomes *us*; *āh* + *us*, and by "उस्यपदांतात्" (Pā. Sū. 6-1-96) the following form remains: *āhuḥ*.
+
+**हृदः (hṛdaḥ)** — the ablative of *hṛdaya*. *hṛdaya* + *ṅasi*: by "पद्दन्नोमास्हृ-…" (as printed) (Pā. Sū. 6-1-63) *hṛd* is substituted for *hṛdaya*; *ruttva* and visarga give *hṛdaḥ*. By "ऊडिदंपदादि-…" (as printed) (Pā. Sū. 6-1-1[?]) the ablative ending, being anudātta, is set aside and the udātta accent comes; the six substitutions of the "padda…" sūtra are to be taken together, so *hṛdaḥ* is a word with final udātta.
+
+**शुनःशेपः (śunaḥśepaḥ)** — *śuna iva śepo yasya saḥ* (one whose organ is like a dog's), *śunaḥśepaḥ*. Here the case-ending would be dropped by "सुपो धातुप्रातिपदिकयोः"; but by "शुनः शेपपुच्छलांगूलेषु संज्ञायां षष्ठ्या अलुग्वक्तव्यः" (Pā. Sū. 6-3-[?]) the genitive of *śvan* does not drop before the three words *śepa* etc. in a compound that is a name; *śunaḥśepaḥ* is here a person's name, so it holds. As a bahuvrīhi the first member's accent would come by "बहुव्रीहौ प्रकृत्या पूर्वपदम्", but by "उभे वनस्पत्यादिषु युगपत्" (Pā. Sū. 6-2-140, as read) both members of the compounds in the *vanaspati* group keep their own accent at the same time; this word belongs to that group, so both members keep their accent, and two udāttas are heard here.
+
+**अह्वत् (ahvat)** — root *hveñ spardhāyām*, bhvādi, *luṅ*, third person singular *tip*; "इतश्च" drops the *i*; for the *cli* of *luṅ*, "लिपिसिचिह्वश्च" (Pā. Sū. 3-1-5[?], printed ३-१-५३ as read) gives *aṅ*; since a suffix beginning with a vowel with *ṅ* follows, "आतो लोप इटि च" (Pā. Sū. 6-4-64) with "आदेच" (as printed; the sūtra is not otherwise named) drops the final *ā* of the root; the *luṅ*-marked *aṭ* augment comes, and *ahvat* results.
+
+### Page 284 (upper) — Rik 12: grammar (end)
+
+*(Grammar page, noted briefly; numbers as read at page width, not zoomed.)*
+
+**अह्वत् (ahvat)** *(end)* — the *aṭ* augment is prescribed as udātta, so the word is ādyudātta; because *yat* (the relative *yam*) is connected, "यद्वृत्तयोगान्नित्यं" gives no *nighāta* accent.
+
+**गृभीतः (gṛbhītaḥ)** — root *graha upādāne*, kryādi; the suffix *kta* in the passive sense; being *kit*, "ग्रहिज्या…" gives *saṃprasāraṇa*; the suffix being *val*-initial, the *iṭ* augment comes, and "ग्रहोऽलिटि दीर्घः" (Pā. Sū. 7-2-37, as read) lengthens the *iṭ* after the root *graha* when what follows is not *liṭ*; with *gṛhīta*, "हृग्रहोर्भश्छन्दसि" gives *bha* for *ha*: *gṛbhītaḥ*.
+
+**सो अस्मान् (so asmān)** — "प्रकृत्यान्तःपादमव्यपरे" (Pā. Sū. 6-1-115, as read): a *e* or *o* in the middle of the pāda of a ṛk, when a short *a* follows, keeps its form, so no *pūrvarūpa* etc. comes here.
+
+**मुमोक्तु (mumoktu)** — root *mucḷ mokṣaṇe*, tudādi; *loṭ*, third person singular; "एरुः" (Pā. Sū. 3-4-86, as read) gives *tu* for the *i*-ending; "तुदादिभ्यः शः" (Pā. Sū. 3-1-77, as read) would give *śa*, but "बहुलं छन्दसि" (Pā. Sū. 2-4-76) makes it *śluk*; the root is then reduplicated and "हलादिः शेषः" applies; laghūpadha guṇa and *kutva* give *mumoktu*.
 
 ---
 
-### Pages 284–287 — Sūkta 24, Rik 13
+### Page 284 (lower) — Sūkta 24, Rik 13
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> शुनःशेपो ह्यह्वद्गृभीतस्त्रिष्वादित्यं द्रुपदेषु बद्धः ।
-> अवैनं राजा वरुणः ससृज्याद्विद्वाँ अदब्धो वि मुमोक्तु पाशान् ॥ १३ ॥
+> शु॒नःशे॒पो ह्य॑ह्वद्गृभी॒तस्त्रि॒ष्वा॑दि॒त्यं द्रु॒पदे॑षु [accent ?]
+> ब॒द्धः ।
+> अवै॑नं॒ राजा॒ वरु॑णः ससृज्याद्वि॒द्वाँ अद॑ब्धो॒ वि
+> मु॑मोक्तु॒ पाशा॑न् ॥१३॥
 
-*śunaḥśepo hy ahvad gṛbhītas triṣv ādityaṃ drupadeṣu baddhaḥ | avainaṃ rājā varuṇaḥ sasṛjyād vidvām̐ adabdho vi mumoktu pāśān || 13 ||*
+> *śu̱naḥśe̱po hya̭hvadgṛbhī̱tastri̱ṣvā̭di̱tyaṃ dru̱padḙṣu*
+> *ba̱ddhaḥ |*
+> *avai̭na̱ṃ rājā̱ varṷṇaḥ sasṛjyādvi̱dvā̃ ada̭bdho̱ vi*
+> *mṷmoktu̱ pāśā̭n ||13||*
+>
+> *śunáḥśepó hyahvad gṛbhītás triṣvā dityáṃ drupádeṣu* [accent ?]
+> *baddháḥ |*
+> *ávainaṃ rā́jā váruṇaḥ sasṛjyād vidvā̃ ádabdho ví*
+> *mumoktu pā́śān ||13||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in three lines, breaking after* द्रुपदेषु *and* वि*, with* बद्धः *alone on a short second line. Flagged [accent ?] on line 1: a second stroke stands above* द्रु *(in* द्रुपदेषु*) as well as the anudātta bar under it, and I took the bar only; the svarita over* ह्य *and the three bars under* भी *,* स्त्रि *and* दि *are as printed. Line 3 begins with* अवैनं *as one word, as printed; the chandrabindu in* विद्वाँ *is printed.)*
 
-> शुनःशेपः । हि । अह्वत् । गृभीतः । त्रिषु । आदित्यम् । द्रुऽपदेषु । बद्धः ॥ अव । एनम् । राजा । वरुणः । ससृज्यात् । विद्वान् । अदब्धः । वि । मुमोक्तु । पाशान् ॥ १३ ॥
+### Page 285 — Rik 13: Pada, bhāṣya, word-meanings
 
-*śunaḥśepaḥ | hi | ahvat | gṛbhītaḥ | triṣu | ādityam | dru-padeṣu | baddhaḥ || ava | enam | rājā | varuṇaḥ | sasṛjyāt | vidvān | adabdhaḥ | vi | mumoktu | pāśān || 13 ||*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 285)*
+> शुनःशेपः । हि । अह्वत् । गृभीतः । त्रिषु । आदित्यं । द्रुपदेषु । बद्धः ॥ अव । एनं । राजा । वरुणः । ससृज्यात् । विद्वाँ । अदब्धः । वि । मुमोक्तु । पाशान् ॥१३॥
 
-> गृभीतो बन्धनाय गृहीतस्त्रिसंख्याकेषु द्रुपदेषु द्रोः काष्ठस्य यूपस्य पदेषु प्रदेशविशेषेषु बद्धः शुनःशेप आदित्यमदितेः पुत्रं यं वरुणमह्वत् आहूतवान् । हि यस्मादेवं तस्माद्वरुणो राजैनं शुनःशेपमव ससृज्यात् । अवसृष्टं बन्धनादिमुक्तं करोतु । विमोकप्रकार एव स्पृष्टिक्रियते । विद्वान्विमोकप्रकाराभिज्ञः अदब्धः केनाप्यहिंसितो वरुणः पाशान्बन्धनरज्जुविशेषान्वि मुमोक्तु । विच्छिद्यैनं मुक्तं करोतु ॥ त्रिषु । षट्त्रिचतुर्भ्यो हलादिः । पा. ६-१-१८३ । इति विभक्तेरुदात्तत्वम् । संहितायामुदात्तस्वरितयोर्यणः । इति परे आकारः स्वर्यते । ससृज्यात् । सृज विसर्गे । प्रार्थनायां लिङ् । बहुलं छन्दसीति विकरणस्य शलुः । विद्वान् । विद ज्ञाने । विदेः शतुर्वसुः । पा. ७-१-३६ । उगिदचामिति नुम् । हल्ङ्यादिसंयोगान्तलोपौ । संहितायां दीर्घादटि समानपादे इति नकारस्य रुत्वम् । आतोऽटि नित्यमिति सानुनासिक आकारः । अदब्धः । दम्भु दम्भे । निष्ठायामनिदितामिति नलोपे । झषस्तथोर्धोऽधः । पा. ८-२-४० । इति धत्वम् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
+> *śunaḥśepaḥ | hi | ahvat | gṛbhītaḥ | triṣu | ādityaṃ | drupadeṣu | baddhaḥ ‖ ava | enaṃ | rājā | varuṇaḥ | sasṛjyāt | vidvā̃ | adabdhaḥ | vi | mumoktu | pāśān ‖13‖*
 
-*gṛbhīto bandhanāya gṛhīta striṃsaṃkhyākeṣu drupadeṣu droḥ kāṣṭhasya yūpasya padeṣu pradeśaviśeṣeṣu baddhaḥ śunaḥśepa ādityam aditeḥ putraṃ yaṃ varuṇam ahvat āhūtavān | hi yasmād evaṃ tasmād varuṇo rājainaṃ śunaḥśepam ava sasṛjyāt | avasṛṣṭaṃ bandhanādimuktaṃ karotu | vimokaprakāra eva spṛṣṭikriyate | vidvān vimokaprakārābhijñaḥ adabdhaḥ kenāpy ahiṃsito varuṇaḥ pāśān bandhanarajjuviśeṣān vi mumoktu | vicchidyainaṃ muktaṃ karotu || triṣu | ṣaṭtricaturbhyo halādiḥ | pā. 6-1-183 | iti vibhakter udāttatvam | saṃhitāyām udāttasvaritayor yaṇaḥ | iti pare ākāraḥ svaryate | sasṛjyāt | sṛja visarge | prārthanāyāṃ liṅ | bahulaṃ chandasīti vikaraṇasya śaluḥ | vidvān | vida jñāne | vider śatur vasuḥ | pā. 7-1-36 | ugidacām iti num | halṅyādisaṃyogāntalopau | saṃhitāyāṃ dīrghād aṭi samānapāde iti nakārasya rutvam | āto 'ṭi nityam iti sānunāsika ākāraḥ | adabdhaḥ | dambhu dambhe | niṣṭhāyām aniditām iti nalope | jhaṣas tathor dho 'dhaḥ | pā. 8-2-40 | iti dhatvam | avyayapūrvapadaprakṛtisvaratvam ||*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**Translation:** "Śunaḥśepa — seized for binding, bound at three *drupadas* (*dru-padas* — places of the *dru*, the wooden post; certain spots on the post) — invoked Āditya, the Son of Aditi, Varuṇa. Since [it is] so, let king Varuṇa release (*ava sasṛjyāt*) this Śunaḥśepa — make him freed from bonds. The manner of release is itself shown. May Varuṇa, *vidvān* — knowing the means of release — *adabdhaḥ* — unharmed by anyone — loosen (*vi mumoktu*) the nooses (*pāśān*) — the special cords of binding — cut them and set him free. *Triṣu*: the case-ending is acute by P. 6-1-183 [*ṣaṭtricaturbhyo halādiḥ*]; in the Saṃhitā the *yaṇ* of an *udātta* is *svarita*… *Sasṛjyāt*: *sṛja visarge*; benedictive; *śap* lost; … *Vidvān*: *vida jñāne*; *śatṛ* → *vasu* by P. 7-1-36 [*vider śatur vasuḥ*]; *num* by P. 7-1-70; loss of the final consonant; … *Adabdhaḥ*: *dambhu dambhe*; loss of the nasal by P. 6-4-24; *dha* for *ta* by P. 8-2-40; the *avyaya*-first compound keeps the first member's accent." *(Grammar pages 287–288, noted briefly: the words treated are* triṣu *[*tri* + *sup*; the case-ending takes the acute by P. 6-1-179 *ṣaṭtricaturbhyo halādiḥ*, so the Saṃhitā reads *triṣv ādityam* with the *yaṇ* of the udātta turned *svarita* by P. 8-2-4 *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*; the printed view that *triṣu* is *antodātta* is also stated],* sasṛjyāt *[*sṛja visarge*, *tudādi*; *vidhiniminantraṇa…* P. 3-3-161 *vidhinimantraṇāmantraṇādhīṣṭasaṃpraśnaprārthaneṣu liṅ* — benedictive/precative; the *śap* lost by *bahulaṃ chandasi*; *śluḥ* doubling P. 6-1-10; *yāsuṭ* P. 3-4-103 *yāsuṭ parasmaipadeṣūdāttaś ṅic ca*; *halādiḥ śeṣaḥ*; *ṣatva*; *nighāta* of the accent since it follows a word that has the acute],* vidvān *[*vida jñāne* + *śatṛ*; *vasu* in place of *śatṛ* by P. 7-1-36 *vider śatur vasuḥ*; *vasu* is *ugit* so *num* is added by P. 7-1-70 *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *hal-ṅyādi* P. 6-1-68 drops *su*; the final consonant dropped; lengthening by P. 6-4-14 *atvasantasya cādhātoḥ*; in the Saṃhitā *n* → *ru* P. 8-3-7 *naś chavy apraśān* and 8-3-1 / P. 8-3-9 *dīrghād aṭi samānapāde* — *ro 'ni*, *ato roḥ* …; the *ā* nasalized by P. 8-3-3 *ato 'ṭi nityam*: *vidvām̐*],* adabdhaḥ *[*dambhu dambhe*, *kta*, P. 6-4-24 loss of nasal, the *jhaṣ-tathor dho 'dhaḥ* P. 8-2-40; compound with *nañ*; the accent of the *avyaya* first member, P. 6-2-2] and the rest as above; numerals as read, pointers only.)*
+*As printed: पा. ६-१-[?] after षट्त्रिचतुर्भ्यो हलादिः (the digits are not clear); पा. ७-१-३६ (read); पा. ८-२-४० (read); हल्ङ्यादिसंयोगांतलोपौ (the shared ङ/ञ glyph); the Pada's* विद्वाँ *has the chandrabindu as in the Saṃhitā.*
 
-**॥ Prati-padārthaḥ ॥** *(p. 285)* **गृभीतः (gṛbhītaḥ)** — seized [for binding] | **त्रिषु (triṣu)** — at three | **द्रुपदेषु (drupadeṣu)** — in the places of the post | **बद्धः (baddhaḥ)** — bound | **शुनःशेपः (śunaḥśepaḥ)** — Śunaḥśepa | **आदित्यम् (ādityam)** — [Varuṇa] the son of Aditi | **अह्वत् हि (ahvat hi)** — since he invoked | **सः राजा वरुणः (saḥ rājā varuṇaḥ)** — that king Varuṇa | **एनम् (enam)** — this Śunaḥśepa | **अव ससृज्यात् (ava sasṛjyāt)** — may set free from bondage | **विद्वान् (vidvān)** — knowing [the manner of release] | **अदब्धः (adabdhaḥ)** — [Varuṇa] unharmed | **पाशान् (pāśān)** — the ropes | **वि मुमोक्तु (vi mumoktu)** — may untie.
+> गृभीतो बंधनाय गृहीतस्त्रिसंख्याकेषु द्रुपदेषु द्रोः काष्ठस्य यूपस्य पदेषु प्रदेशविशेषेषु बद्धः शुनःशेप आदित्यमदितेः पुत्रं यं वरुणमह्वत् आहूतवान् । हि यस्मादेवं तस्मात्स वरुणो राजैनं शुनःशेपमव ससृज्यात् । अवसृष्टं बंधनाद्विमुक्तं करोतु । विमोकप्रकार एव स्पष्टीक्रियते । विद्वान् विमोकप्रकाराभिज्ञः अदब्धः केनाप्यहिंसितो वरुणः पाशान्बंधनरज्जुविशेषान्वि मुमोक्तु । विच्छिद्यैनं मुक्तं करोतु ॥ त्रिषु । षट्त्रिचतुर्भ्यो हलादिः । पा. ६-१-[?] । इति विभक्तेरुदात्तत्वं । संहितायामुदात्तस्वरितयोर्यणः इति परः आकारः स्वर्यते । ससृज्यात् । सृज विसर्गे । प्रार्थनायां लिङ् । बहुलं छंदसीति विकरणस्य श्लुः । विद्वान् । विद ज्ञाने । विदेः शतुर्वसुः । पा. ७-१-३६ । उगिदचामिति नुम् । हल्ङ्यादिसंयोगांतलोपौ । संहितायां दीर्घादटि समानपाद इति नकारस्य रुत्वं । आतोऽटि नित्यमिति सानुनासिक आकारः । अदब्धः । दस्भु दंभे । निष्ठायामनिदितामिति नलोपे झषस्तथोर्धोऽधः । पा. ८-२-४० । इति धत्वं । अव्ययपूर्वपदप्रकृतिस्वरत्वं ॥
 
-**॥ Bhāvārthaḥ ॥** Śunaḥśepa, bound to three places of the post, has invoked Varuṇa, the Son of Aditi. May king Varuṇa free him from bondage. May Varuṇa, who knows the manner of release and cannot be deceived by anyone, release him from the ropes of bondage.
+> *gṛbhīto baṃdhanāya gṛhītastrisaṃkhyākeṣu drupadeṣu droḥ kāṣṭhasya yūpasya padeṣu pradeśaviśeṣeṣu baddhaḥ śunaḥśepa ādityamaditeḥ putraṃ yaṃ varuṇamahvat āhūtavān | hi yasmādevaṃ tasmātsa varuṇo rājainaṃ śunaḥśepamava sasṛjyāt | avasṛṣṭaṃ baṃdhanādvimuktaṃ karotu | vimokaprakāra eva spaṣṭīkriyate | vidvān vimokaprakārābhijñaḥ adabdhaḥ kenāpyahiṃsito varuṇaḥ pāśānbaṃdhanarajjuviśeṣānvi mumoktu | vicchidyainaṃ muktaṃ karotu ‖ triṣu | ṣaṭtricaturbhyo halādiḥ | pā. 6-1-[?] | iti vibhakterudāttatvaṃ | saṃhitāyāmudāttasvaritayoryaṇaḥ iti paraḥ ākāraḥ svaryate | sasṛjyāt | sṛja visarge | prārthanāyāṃ liṅ | bahulaṃ chaṃdasīti vikaraṇasya śluḥ | vidvān | vida jñāne | videḥ śaturvasuḥ | pā. 7-1-36 | ugidacāmiti num | halṅyādisaṃyogāṃtalopau | saṃhitāyāṃ dīrghādaṭi samānapāda iti nakārasya rutvaṃ | āto 'ṭi nityamiti sānunāsika ākāraḥ | adabdhaḥ | dasbhu daṃbhe | niṣṭhāyāmaniditāmiti nalope jhaṣastathordho 'dhaḥ | pā. 8-2-40 | iti dhatvaṃ | avyayapūrvapadaprakṛtisvaratvaṃ ‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Śunaḥśepa, bound to the three parts of the sacrificial post, called Varuṇa, the son of Aditi; therefore may king Varuṇa free him from the bond, he who knows the way of release and whom none can harm, and cut his ropes. The grammatical tail notes *triṣu* (the ending is udātta by Pā. 6-1-[?]), *sasṛjyāt* (*liṅ* in the sense of prayer; *śluḥ*), *vidvān* (*śatṛ* as *vasu*, Pā. 7-1-36 as read; *num*; the final *n* becomes *ru* before a vowel, nasalised *ā*), *adabdhaḥ* (*dasbhu dambhe*; *kta*; loss of the nasal; *dh* for *t* by Pā. 8-2-40 as read; the first member, an indeclinable, keeps its accent).
+
+**॥ Prati-padārthaḥ ॥**
+
+**गृभीतः (gṛbhītaḥ)** — (for bondage) seized and brought | **त्रिषु (triṣu)** — in three | **द्रुपदेषु (drupadeṣu)** — in the parts of the sacrificial post | **बद्धः (baddhaḥ)** — bound | **शुनःशेपः (śunaḥśepaḥ)** — Śunaḥśepa | **आदित्यं (ādityaṃ)** — (that) son of Aditi (Varuṇa) | **अह्वत् हि (ahvat hi)** — (for which reason) he has invoked (for that reason) | **सः (saḥ)** — (such) | **वरुणः राजा (varuṇaḥ rājā)** — King Varuṇa | **एनं (enaṃ)** — this Śunaḥśepa | **अव ससृज्यात् (ava sasṛjyāt)** — may he make freed from bondage | **विद्वान् (vidvān)** — (one who knows the way of release from bondage) knowing | **अदब्धः (adabdhaḥ)** — unobstructed (Varuṇa) | **पाशान् (pāśān)** — the ropes of bondage | **वि मुमोक्तु (vi mumoktu)** — may he release.
+
+### Page 286 — Rik 13: overall sense, English, Special Topics
+
+**॥ Bhāvārthaḥ ॥**
+
+May Varuṇa, the son of Aditi, whom Śunaḥśepa, bound at the three parts of the sacrificial post, has invoked, free him from the bonds. May Varuṇa, who knows the way of release from bondage and whom none can obstruct, loosen the ropes of bondage.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Sunashepa, seized and bound to the three-fold post has invoked the Son of Aditi (Varuna); may the King Varuna who knows all and whom none can deceive liberate him and loosen his bonds.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 286)* **गृभीतः** — *yūpastambhakke kaṭṭalpaḍuvudakkāgi hiḍiyalpaṭṭa* — seized in order to be bound to the sacrificial post. **आदित्यम्** — the son of Aditi is *āditya*; since the mother of the gods is Aditi, here Varuṇa is praised by the name *āditya*. **द्रुपदेषु** — *drumayeṣu, dārumayeṣu*: on the wooden [posts], i.e. of a tree or of wood; the parts of the wood. 'Wooden pillar or post to which the animal to be sacrificed is tied before being killed.' On the rik *kanīnakeva vidradhe nave drupade arbhake* (Ṛ. Saṃ. [4-32-23] [?]), Yāska explaining *vidradhe* and *drupade* takes them as words of one meaning, and gives for *drupada* the sense *dāru* [wood] and the derivation *dṛṇāteḥ vā drotāteḥ vā; tasmād eva dru* (Ni. [6-27]). **अव ससृज्यात्** — *avasṛṣṭaṃ bandhād vimuktaṃ karotu*: may he set free. **विद्वान्** — *vida jñāne*, *vimokaprakārābhijñaḥ*: one who knows the way of release. **अदब्धः** — *dambhu dambhe*; *kenāpy ahiṃsitaḥ*: one who cannot be harmed by anyone — invincible. **पाशान्** — the ropes with which Śunaḥśepa is tied tightly to the post of sacrifice.
-**[Rik 13, grammar tail — printed p. 288]** *(Grammar, noted briefly: the last words treated are* adabdhaḥ *[for the nasal-less penultimate vowel the root *dambhu* gives *dabh*; the *ta* of *kta* becomes *dha* by P. 8-2-40 *jhaṣas tathor dho 'dhaḥ*; the *bh* then loses its aspiration to *b* by the rule P. 8-4-53 *jhalāṃ jaś jhaśi*; in the *nañ*-tatpuruṣa P. 6-2-2 *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* the *avyaya*-first member keeps its accent, so *adabdhaḥ* has the initial acute]; numerals as read.)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**गृभीतः (gṛbhītaḥ)** — seized in order to be bound to the sacrificial post.
+
+**आदित्यं (ādityaṃ)** — *aditeḥ putraṃ ādityaṃ*; since Aditi, the mother of the gods, is his mother, Varuṇa is praised here by the word *āditya*.
+
+**द्रुपदेषु (drupadeṣu)** — *drumamayeṣu, dārumayeṣu*; belonging to a tree or to wood, that is, wooden pillars. The print adds in English: "Wooden pillar or post to which the animal to be sacrificed is tied before being killed." In explaining the ṛk
+
+> कनीनकेव विद्रधे नवे द्रुपदे अर्भके ॥
+
+> *kanīnakeva vidradhe nave drupade arbhake ‖*
+
+(Ṛ. Saṃ. 4-32-[?]3; the first digit of the last group is a hooked glyph that I cannot settle) Yāska says that the two words *vidradhe* and *drupade* are synonyms, and also gives the derivation of the word *drupada*: "दारु दृषातेर्वा द्रोषातेर्वा । तस्मादेव द्रु ।" (as read, [?] on the two verbal roots) (Ni. 4-15).
+
+**अव ससृज्यात् (ava sasṛjyāt)** — *avasṛṣṭaṃ, bandhanād vimuktaṃ karotu*:
+
+> अवसृष्टं, बन्धनाद्विमुक्तं करोतु
+
+> *avasṛṣṭaṃ, bandhanādvimuktaṃ karotu*
+
+make him freed from the bondage; release him.
+
+**विद्वान् (vidvān)** — *vida jñāne*; *vimokaprakārābhijñaḥ*:
+
+> विमोकप्रकाराभिज्ञः
+
+> *vimokaprakārābhijñaḥ*
+
+one who has knowledge, that is, one who knows how the bond is released.
+
+**अदब्धः (adabdhaḥ)** — *dasbhu dambhe*; *kenāpy ahiṃsitaḥ*:
+
+> केनाप्यहिंसितः
+
+> *kenāpyahiṃsitaḥ*
+
+one who cannot be harmed by anyone, unobstructed.
+
+**पाशान् (pāśān)** — the ropes with which Śunaḥśepa was tied firmly to the sacrificial post.
+
+*(The grammar of Ṛk 24.13 begins on p. 287, PDF 301, the first page of the next batch.)*
 
 ---
 
