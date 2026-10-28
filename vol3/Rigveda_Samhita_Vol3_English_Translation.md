@@ -6899,41 +6899,114 @@ Those who know tell me, Śunaḥśepa, that I should do Varuṇa's praise by nig
 
 **अह्वत् (ahvat)** — root *hveñ spardhāyām*, bhvādi, *luṅ*, third person singular *tip*; "इतश्च" drops the *i*; for the *cli* of *luṅ*, "लिपिसिचिह्वश्च" (Pā. Sū. 3-1-5[?], printed ३-१-५३ as read) gives *aṅ*; since a suffix beginning with a vowel with *ṅ* follows, "आतो लोप इटि च" (Pā. Sū. 6-4-64) with "आदेच" (as printed; the sūtra is not otherwise named) drops the final *ā* of the root; the *luṅ*-marked *aṭ* augment comes, and *ahvat* results.
 
+### Page 284 (upper) — Rik 12: grammar (end)
+
+*(Grammar page, noted briefly; numbers as read at page width, not zoomed.)*
+
+**अह्वत् (ahvat)** *(end)* — the *aṭ* augment is prescribed as udātta, so the word is ādyudātta; because *yat* (the relative *yam*) is connected, "यद्वृत्तयोगान्नित्यं" gives no *nighāta* accent.
+
+**गृभीतः (gṛbhītaḥ)** — root *graha upādāne*, kryādi; the suffix *kta* in the passive sense; being *kit*, "ग्रहिज्या…" gives *saṃprasāraṇa*; the suffix being *val*-initial, the *iṭ* augment comes, and "ग्रहोऽलिटि दीर्घः" (Pā. Sū. 7-2-37, as read) lengthens the *iṭ* after the root *graha* when what follows is not *liṭ*; with *gṛhīta*, "हृग्रहोर्भश्छन्दसि" gives *bha* for *ha*: *gṛbhītaḥ*.
+
+**सो अस्मान् (so asmān)** — "प्रकृत्यान्तःपादमव्यपरे" (Pā. Sū. 6-1-115, as read): a *e* or *o* in the middle of the pāda of a ṛk, when a short *a* follows, keeps its form, so no *pūrvarūpa* etc. comes here.
+
+**मुमोक्तु (mumoktu)** — root *mucḷ mokṣaṇe*, tudādi; *loṭ*, third person singular; "एरुः" (Pā. Sū. 3-4-86, as read) gives *tu* for the *i*-ending; "तुदादिभ्यः शः" (Pā. Sū. 3-1-77, as read) would give *śa*, but "बहुलं छन्दसि" (Pā. Sū. 2-4-76) makes it *śluk*; the root is then reduplicated and "हलादिः शेषः" applies; laghūpadha guṇa and *kutva* give *mumoktu*.
+
 ---
 
-### Pages 284–287 — Sūkta 24, Rik 13
+### Page 284 (lower) — Sūkta 24, Rik 13
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> शुनःशेपो ह्यह्वद्गृभीतस्त्रिष्वादित्यं द्रुपदेषु बद्धः ।
-> अवैनं राजा वरुणः ससृज्याद्विद्वाँ अदब्धो वि मुमोक्तु पाशान् ॥ १३ ॥
+> शु॒नःशे॒पो ह्य॑ह्वद्गृभी॒तस्त्रि॒ष्वा॑दि॒त्यं द्रु॒पदे॑षु [accent ?]
+> ब॒द्धः ।
+> अवै॑नं॒ राजा॒ वरु॑णः ससृज्याद्वि॒द्वाँ अद॑ब्धो॒ वि
+> मु॑मोक्तु॒ पाशा॑न् ॥१३॥
 
-*śunaḥśepo hy ahvad gṛbhītas triṣv ādityaṃ drupadeṣu baddhaḥ | avainaṃ rājā varuṇaḥ sasṛjyād vidvām̐ adabdho vi mumoktu pāśān || 13 ||*
+> *śu̱naḥśe̱po hya̭hvadgṛbhī̱tastri̱ṣvā̭di̱tyaṃ dru̱padḙṣu*
+> *ba̱ddhaḥ |*
+> *avai̭na̱ṃ rājā̱ varṷṇaḥ sasṛjyādvi̱dvā̃ ada̭bdho̱ vi*
+> *mṷmoktu̱ pāśā̭n ||13||*
+>
+> *śunáḥśepó hyahvad gṛbhītás triṣvā dityáṃ drupádeṣu* [accent ?]
+> *baddháḥ |*
+> *ávainaṃ rā́jā váruṇaḥ sasṛjyād vidvā̃ ádabdho ví*
+> *mumoktu pā́śān ||13||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in three lines, breaking after* द्रुपदेषु *and* वि*, with* बद्धः *alone on a short second line. Flagged [accent ?] on line 1: a second stroke stands above* द्रु *(in* द्रुपदेषु*) as well as the anudātta bar under it, and I took the bar only; the svarita over* ह्य *and the three bars under* भी *,* स्त्रि *and* दि *are as printed. Line 3 begins with* अवैनं *as one word, as printed; the chandrabindu in* विद्वाँ *is printed.)*
 
-> शुनःशेपः । हि । अह्वत् । गृभीतः । त्रिषु । आदित्यम् । द्रुऽपदेषु । बद्धः ॥ अव । एनम् । राजा । वरुणः । ससृज्यात् । विद्वान् । अदब्धः । वि । मुमोक्तु । पाशान् ॥ १३ ॥
+### Page 285 — Rik 13: Pada, bhāṣya, word-meanings
 
-*śunaḥśepaḥ | hi | ahvat | gṛbhītaḥ | triṣu | ādityam | dru-padeṣu | baddhaḥ || ava | enam | rājā | varuṇaḥ | sasṛjyāt | vidvān | adabdhaḥ | vi | mumoktu | pāśān || 13 ||*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 285)*
+> शुनःशेपः । हि । अह्वत् । गृभीतः । त्रिषु । आदित्यं । द्रुपदेषु । बद्धः ॥ अव । एनं । राजा । वरुणः । ससृज्यात् । विद्वाँ । अदब्धः । वि । मुमोक्तु । पाशान् ॥१३॥
 
-> गृभीतो बन्धनाय गृहीतस्त्रिसंख्याकेषु द्रुपदेषु द्रोः काष्ठस्य यूपस्य पदेषु प्रदेशविशेषेषु बद्धः शुनःशेप आदित्यमदितेः पुत्रं यं वरुणमह्वत् आहूतवान् । हि यस्मादेवं तस्माद्वरुणो राजैनं शुनःशेपमव ससृज्यात् । अवसृष्टं बन्धनादिमुक्तं करोतु । विमोकप्रकार एव स्पृष्टिक्रियते । विद्वान्विमोकप्रकाराभिज्ञः अदब्धः केनाप्यहिंसितो वरुणः पाशान्बन्धनरज्जुविशेषान्वि मुमोक्तु । विच्छिद्यैनं मुक्तं करोतु ॥ त्रिषु । षट्त्रिचतुर्भ्यो हलादिः । पा. ६-१-१८३ । इति विभक्तेरुदात्तत्वम् । संहितायामुदात्तस्वरितयोर्यणः । इति परे आकारः स्वर्यते । ससृज्यात् । सृज विसर्गे । प्रार्थनायां लिङ् । बहुलं छन्दसीति विकरणस्य शलुः । विद्वान् । विद ज्ञाने । विदेः शतुर्वसुः । पा. ७-१-३६ । उगिदचामिति नुम् । हल्ङ्यादिसंयोगान्तलोपौ । संहितायां दीर्घादटि समानपादे इति नकारस्य रुत्वम् । आतोऽटि नित्यमिति सानुनासिक आकारः । अदब्धः । दम्भु दम्भे । निष्ठायामनिदितामिति नलोपे । झषस्तथोर्धोऽधः । पा. ८-२-४० । इति धत्वम् । अव्ययपूर्वपदप्रकृतिस्वरत्वम् ॥
+> *śunaḥśepaḥ | hi | ahvat | gṛbhītaḥ | triṣu | ādityaṃ | drupadeṣu | baddhaḥ ‖ ava | enaṃ | rājā | varuṇaḥ | sasṛjyāt | vidvā̃ | adabdhaḥ | vi | mumoktu | pāśān ‖13‖*
 
-*gṛbhīto bandhanāya gṛhīta striṃsaṃkhyākeṣu drupadeṣu droḥ kāṣṭhasya yūpasya padeṣu pradeśaviśeṣeṣu baddhaḥ śunaḥśepa ādityam aditeḥ putraṃ yaṃ varuṇam ahvat āhūtavān | hi yasmād evaṃ tasmād varuṇo rājainaṃ śunaḥśepam ava sasṛjyāt | avasṛṣṭaṃ bandhanādimuktaṃ karotu | vimokaprakāra eva spṛṣṭikriyate | vidvān vimokaprakārābhijñaḥ adabdhaḥ kenāpy ahiṃsito varuṇaḥ pāśān bandhanarajjuviśeṣān vi mumoktu | vicchidyainaṃ muktaṃ karotu || triṣu | ṣaṭtricaturbhyo halādiḥ | pā. 6-1-183 | iti vibhakter udāttatvam | saṃhitāyām udāttasvaritayor yaṇaḥ | iti pare ākāraḥ svaryate | sasṛjyāt | sṛja visarge | prārthanāyāṃ liṅ | bahulaṃ chandasīti vikaraṇasya śaluḥ | vidvān | vida jñāne | vider śatur vasuḥ | pā. 7-1-36 | ugidacām iti num | halṅyādisaṃyogāntalopau | saṃhitāyāṃ dīrghād aṭi samānapāde iti nakārasya rutvam | āto 'ṭi nityam iti sānunāsika ākāraḥ | adabdhaḥ | dambhu dambhe | niṣṭhāyām aniditām iti nalope | jhaṣas tathor dho 'dhaḥ | pā. 8-2-40 | iti dhatvam | avyayapūrvapadaprakṛtisvaratvam ||*
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**Translation:** "Śunaḥśepa — seized for binding, bound at three *drupadas* (*dru-padas* — places of the *dru*, the wooden post; certain spots on the post) — invoked Āditya, the Son of Aditi, Varuṇa. Since [it is] so, let king Varuṇa release (*ava sasṛjyāt*) this Śunaḥśepa — make him freed from bonds. The manner of release is itself shown. May Varuṇa, *vidvān* — knowing the means of release — *adabdhaḥ* — unharmed by anyone — loosen (*vi mumoktu*) the nooses (*pāśān*) — the special cords of binding — cut them and set him free. *Triṣu*: the case-ending is acute by P. 6-1-183 [*ṣaṭtricaturbhyo halādiḥ*]; in the Saṃhitā the *yaṇ* of an *udātta* is *svarita*… *Sasṛjyāt*: *sṛja visarge*; benedictive; *śap* lost; … *Vidvān*: *vida jñāne*; *śatṛ* → *vasu* by P. 7-1-36 [*vider śatur vasuḥ*]; *num* by P. 7-1-70; loss of the final consonant; … *Adabdhaḥ*: *dambhu dambhe*; loss of the nasal by P. 6-4-24; *dha* for *ta* by P. 8-2-40; the *avyaya*-first compound keeps the first member's accent." *(Grammar pages 287–288, noted briefly: the words treated are* triṣu *[*tri* + *sup*; the case-ending takes the acute by P. 6-1-179 *ṣaṭtricaturbhyo halādiḥ*, so the Saṃhitā reads *triṣv ādityam* with the *yaṇ* of the udātta turned *svarita* by P. 8-2-4 *udāttasvaritayor yaṇaḥ svarito 'nudāttasya*; the printed view that *triṣu* is *antodātta* is also stated],* sasṛjyāt *[*sṛja visarge*, *tudādi*; *vidhiniminantraṇa…* P. 3-3-161 *vidhinimantraṇāmantraṇādhīṣṭasaṃpraśnaprārthaneṣu liṅ* — benedictive/precative; the *śap* lost by *bahulaṃ chandasi*; *śluḥ* doubling P. 6-1-10; *yāsuṭ* P. 3-4-103 *yāsuṭ parasmaipadeṣūdāttaś ṅic ca*; *halādiḥ śeṣaḥ*; *ṣatva*; *nighāta* of the accent since it follows a word that has the acute],* vidvān *[*vida jñāne* + *śatṛ*; *vasu* in place of *śatṛ* by P. 7-1-36 *vider śatur vasuḥ*; *vasu* is *ugit* so *num* is added by P. 7-1-70 *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *hal-ṅyādi* P. 6-1-68 drops *su*; the final consonant dropped; lengthening by P. 6-4-14 *atvasantasya cādhātoḥ*; in the Saṃhitā *n* → *ru* P. 8-3-7 *naś chavy apraśān* and 8-3-1 / P. 8-3-9 *dīrghād aṭi samānapāde* — *ro 'ni*, *ato roḥ* …; the *ā* nasalized by P. 8-3-3 *ato 'ṭi nityam*: *vidvām̐*],* adabdhaḥ *[*dambhu dambhe*, *kta*, P. 6-4-24 loss of nasal, the *jhaṣ-tathor dho 'dhaḥ* P. 8-2-40; compound with *nañ*; the accent of the *avyaya* first member, P. 6-2-2] and the rest as above; numerals as read, pointers only.)*
+*As printed: पा. ६-१-[?] after षट्त्रिचतुर्भ्यो हलादिः (the digits are not clear); पा. ७-१-३६ (read); पा. ८-२-४० (read); हल्ङ्यादिसंयोगांतलोपौ (the shared ङ/ञ glyph); the Pada's* विद्वाँ *has the chandrabindu as in the Saṃhitā.*
 
-**॥ Prati-padārthaḥ ॥** *(p. 285)* **गृभीतः (gṛbhītaḥ)** — seized [for binding] | **त्रिषु (triṣu)** — at three | **द्रुपदेषु (drupadeṣu)** — in the places of the post | **बद्धः (baddhaḥ)** — bound | **शुनःशेपः (śunaḥśepaḥ)** — Śunaḥśepa | **आदित्यम् (ādityam)** — [Varuṇa] the son of Aditi | **अह्वत् हि (ahvat hi)** — since he invoked | **सः राजा वरुणः (saḥ rājā varuṇaḥ)** — that king Varuṇa | **एनम् (enam)** — this Śunaḥśepa | **अव ससृज्यात् (ava sasṛjyāt)** — may set free from bondage | **विद्वान् (vidvān)** — knowing [the manner of release] | **अदब्धः (adabdhaḥ)** — [Varuṇa] unharmed | **पाशान् (pāśān)** — the ropes | **वि मुमोक्तु (vi mumoktu)** — may untie.
+> गृभीतो बंधनाय गृहीतस्त्रिसंख्याकेषु द्रुपदेषु द्रोः काष्ठस्य यूपस्य पदेषु प्रदेशविशेषेषु बद्धः शुनःशेप आदित्यमदितेः पुत्रं यं वरुणमह्वत् आहूतवान् । हि यस्मादेवं तस्मात्स वरुणो राजैनं शुनःशेपमव ससृज्यात् । अवसृष्टं बंधनाद्विमुक्तं करोतु । विमोकप्रकार एव स्पष्टीक्रियते । विद्वान् विमोकप्रकाराभिज्ञः अदब्धः केनाप्यहिंसितो वरुणः पाशान्बंधनरज्जुविशेषान्वि मुमोक्तु । विच्छिद्यैनं मुक्तं करोतु ॥ त्रिषु । षट्त्रिचतुर्भ्यो हलादिः । पा. ६-१-[?] । इति विभक्तेरुदात्तत्वं । संहितायामुदात्तस्वरितयोर्यणः इति परः आकारः स्वर्यते । ससृज्यात् । सृज विसर्गे । प्रार्थनायां लिङ् । बहुलं छंदसीति विकरणस्य श्लुः । विद्वान् । विद ज्ञाने । विदेः शतुर्वसुः । पा. ७-१-३६ । उगिदचामिति नुम् । हल्ङ्यादिसंयोगांतलोपौ । संहितायां दीर्घादटि समानपाद इति नकारस्य रुत्वं । आतोऽटि नित्यमिति सानुनासिक आकारः । अदब्धः । दस्भु दंभे । निष्ठायामनिदितामिति नलोपे झषस्तथोर्धोऽधः । पा. ८-२-४० । इति धत्वं । अव्ययपूर्वपदप्रकृतिस्वरत्वं ॥
 
-**॥ Bhāvārthaḥ ॥** Śunaḥśepa, bound to three places of the post, has invoked Varuṇa, the Son of Aditi. May king Varuṇa free him from bondage. May Varuṇa, who knows the manner of release and cannot be deceived by anyone, release him from the ropes of bondage.
+> *gṛbhīto baṃdhanāya gṛhītastrisaṃkhyākeṣu drupadeṣu droḥ kāṣṭhasya yūpasya padeṣu pradeśaviśeṣeṣu baddhaḥ śunaḥśepa ādityamaditeḥ putraṃ yaṃ varuṇamahvat āhūtavān | hi yasmādevaṃ tasmātsa varuṇo rājainaṃ śunaḥśepamava sasṛjyāt | avasṛṣṭaṃ baṃdhanādvimuktaṃ karotu | vimokaprakāra eva spaṣṭīkriyate | vidvān vimokaprakārābhijñaḥ adabdhaḥ kenāpyahiṃsito varuṇaḥ pāśānbaṃdhanarajjuviśeṣānvi mumoktu | vicchidyainaṃ muktaṃ karotu ‖ triṣu | ṣaṭtricaturbhyo halādiḥ | pā. 6-1-[?] | iti vibhakterudāttatvaṃ | saṃhitāyāmudāttasvaritayoryaṇaḥ iti paraḥ ākāraḥ svaryate | sasṛjyāt | sṛja visarge | prārthanāyāṃ liṅ | bahulaṃ chaṃdasīti vikaraṇasya śluḥ | vidvān | vida jñāne | videḥ śaturvasuḥ | pā. 7-1-36 | ugidacāmiti num | halṅyādisaṃyogāṃtalopau | saṃhitāyāṃ dīrghādaṭi samānapāda iti nakārasya rutvaṃ | āto 'ṭi nityamiti sānunāsika ākāraḥ | adabdhaḥ | dasbhu daṃbhe | niṣṭhāyāmaniditāmiti nalope jhaṣastathordho 'dhaḥ | pā. 8-2-40 | iti dhatvaṃ | avyayapūrvapadaprakṛtisvaratvaṃ ‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Śunaḥśepa, bound to the three parts of the sacrificial post, called Varuṇa, the son of Aditi; therefore may king Varuṇa free him from the bond, he who knows the way of release and whom none can harm, and cut his ropes. The grammatical tail notes *triṣu* (the ending is udātta by Pā. 6-1-[?]), *sasṛjyāt* (*liṅ* in the sense of prayer; *śluḥ*), *vidvān* (*śatṛ* as *vasu*, Pā. 7-1-36 as read; *num*; the final *n* becomes *ru* before a vowel, nasalised *ā*), *adabdhaḥ* (*dasbhu dambhe*; *kta*; loss of the nasal; *dh* for *t* by Pā. 8-2-40 as read; the first member, an indeclinable, keeps its accent).
+
+**॥ Prati-padārthaḥ ॥**
+
+**गृभीतः (gṛbhītaḥ)** — (for bondage) seized and brought | **त्रिषु (triṣu)** — in three | **द्रुपदेषु (drupadeṣu)** — in the parts of the sacrificial post | **बद्धः (baddhaḥ)** — bound | **शुनःशेपः (śunaḥśepaḥ)** — Śunaḥśepa | **आदित्यं (ādityaṃ)** — (that) son of Aditi (Varuṇa) | **अह्वत् हि (ahvat hi)** — (for which reason) he has invoked (for that reason) | **सः (saḥ)** — (such) | **वरुणः राजा (varuṇaḥ rājā)** — King Varuṇa | **एनं (enaṃ)** — this Śunaḥśepa | **अव ससृज्यात् (ava sasṛjyāt)** — may he make freed from bondage | **विद्वान् (vidvān)** — (one who knows the way of release from bondage) knowing | **अदब्धः (adabdhaḥ)** — unobstructed (Varuṇa) | **पाशान् (pāśān)** — the ropes of bondage | **वि मुमोक्तु (vi mumoktu)** — may he release.
+
+### Page 286 — Rik 13: overall sense, English, Special Topics
+
+**॥ Bhāvārthaḥ ॥**
+
+May Varuṇa, the son of Aditi, whom Śunaḥśepa, bound at the three parts of the sacrificial post, has invoked, free him from the bonds. May Varuṇa, who knows the way of release from bondage and whom none can obstruct, loosen the ropes of bondage.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Sunashepa, seized and bound to the three-fold post has invoked the Son of Aditi (Varuna); may the King Varuna who knows all and whom none can deceive liberate him and loosen his bonds.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 286)* **गृभीतः** — *yūpastambhakke kaṭṭalpaḍuvudakkāgi hiḍiyalpaṭṭa* — seized in order to be bound to the sacrificial post. **आदित्यम्** — the son of Aditi is *āditya*; since the mother of the gods is Aditi, here Varuṇa is praised by the name *āditya*. **द्रुपदेषु** — *drumayeṣu, dārumayeṣu*: on the wooden [posts], i.e. of a tree or of wood; the parts of the wood. 'Wooden pillar or post to which the animal to be sacrificed is tied before being killed.' On the rik *kanīnakeva vidradhe nave drupade arbhake* (Ṛ. Saṃ. [4-32-23] [?]), Yāska explaining *vidradhe* and *drupade* takes them as words of one meaning, and gives for *drupada* the sense *dāru* [wood] and the derivation *dṛṇāteḥ vā drotāteḥ vā; tasmād eva dru* (Ni. [6-27]). **अव ससृज्यात्** — *avasṛṣṭaṃ bandhād vimuktaṃ karotu*: may he set free. **विद्वान्** — *vida jñāne*, *vimokaprakārābhijñaḥ*: one who knows the way of release. **अदब्धः** — *dambhu dambhe*; *kenāpy ahiṃsitaḥ*: one who cannot be harmed by anyone — invincible. **पाशान्** — the ropes with which Śunaḥśepa is tied tightly to the post of sacrifice.
-**[Rik 13, grammar tail — printed p. 288]** *(Grammar, noted briefly: the last words treated are* adabdhaḥ *[for the nasal-less penultimate vowel the root *dambhu* gives *dabh*; the *ta* of *kta* becomes *dha* by P. 8-2-40 *jhaṣas tathor dho 'dhaḥ*; the *bh* then loses its aspiration to *b* by the rule P. 8-4-53 *jhalāṃ jaś jhaśi*; in the *nañ*-tatpuruṣa P. 6-2-2 *tatpuruṣe tulyārthatṛtīyāsaptamyupamānāvyayadvitīyākṛtyāḥ* the *avyaya*-first member keeps its accent, so *adabdhaḥ* has the initial acute]; numerals as read.)*
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**गृभीतः (gṛbhītaḥ)** — seized in order to be bound to the sacrificial post.
+
+**आदित्यं (ādityaṃ)** — *aditeḥ putraṃ ādityaṃ*; since Aditi, the mother of the gods, is his mother, Varuṇa is praised here by the word *āditya*.
+
+**द्रुपदेषु (drupadeṣu)** — *drumamayeṣu, dārumayeṣu*; belonging to a tree or to wood, that is, wooden pillars. The print adds in English: "Wooden pillar or post to which the animal to be sacrificed is tied before being killed." In explaining the ṛk
+
+> कनीनकेव विद्रधे नवे द्रुपदे अर्भके ॥
+
+> *kanīnakeva vidradhe nave drupade arbhake ‖*
+
+(Ṛ. Saṃ. 4-32-[?]3; the first digit of the last group is a hooked glyph that I cannot settle) Yāska says that the two words *vidradhe* and *drupade* are synonyms, and also gives the derivation of the word *drupada*: "दारु दृषातेर्वा द्रोषातेर्वा । तस्मादेव द्रु ।" (as read, [?] on the two verbal roots) (Ni. 4-15).
+
+**अव ससृज्यात् (ava sasṛjyāt)** — *avasṛṣṭaṃ, bandhanād vimuktaṃ karotu*:
+
+> अवसृष्टं, बन्धनाद्विमुक्तं करोतु
+
+> *avasṛṣṭaṃ, bandhanādvimuktaṃ karotu*
+
+make him freed from the bondage; release him.
+
+**विद्वान् (vidvān)** — *vida jñāne*; *vimokaprakārābhijñaḥ*:
+
+> विमोकप्रकाराभिज्ञः
+
+> *vimokaprakārābhijñaḥ*
+
+one who has knowledge, that is, one who knows how the bond is released.
+
+**अदब्धः (adabdhaḥ)** — *dasbhu dambhe*; *kenāpy ahiṃsitaḥ*:
+
+> केनाप्यहिंसितः
+
+> *kenāpyahiṃsitaḥ*
+
+one who cannot be harmed by anyone, unobstructed.
+
+**पाशान् (pāśān)** — the ropes with which Śunaḥśepa was tied firmly to the sacrificial post.
+
+*(The grammar of Ṛk 24.13 begins on p. 287, PDF 301, the first page of the next batch.)*
 
 ---
 
