@@ -5114,43 +5114,95 @@ The *śruti* statement of the Taittirīya Upaniṣad describes very well the qua
 
 ---
 
-### Pages 219–222 — Sūkta 23, Rik 20
+### Page 219 (lower) — Sūkta 23, Rik 20
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अप्सु मे सोमो अब्रवीदन्तर्विश्वानि भेषजा ।
-> अग्निं च विश्वशम्भुवमापश्च विश्वभेषजीः ॥ २० ॥
+> अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा ।
+> अ॒ग्निं च॑ वि॒श्वशं॑भुव॒माप॑श्च वि॒श्वभे॑षजीः ॥२०॥
+>
+> *apsú me sómo abravīd antár víśvāni bheṣajā́ |*
+> *agníṃ ca viśváśaṃbhuvam ā́paś ca viśvábheṣajīḥ ||20||*
 
-*apsu me somo abravīd antar viśvāni bheṣajā | agniṃ ca viśvaśambhuvam āpaś ca viśvabheṣajīḥ || 20 ||*
+*(Bars under अ (अप्सु), मे, द (अब्रवीद्) and ष (भेषजा); strokes over मो and श्वा. Line 2: bars under अ, व (विश्व), व (भुवम्) and व (विश्वभे); strokes over च, शं, प (आपश्) and भे.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अप्ऽसु । मे । सोमः । अब्रवीत् । अन्तः । विश्वानि । भेषजा ॥ अग्निम् । च । विश्वऽशम्भुवम् । आपः । च । विश्वऽभेषजीः ॥ २० ॥
-
-*ap-su | me | somaḥ | abravīt | antaḥ | viśvāni | bheṣajā || agnim | ca | viśva-śambhuvam | āpaḥ | ca | viśva-bheṣajīḥ || 20 ||*
+> अप्ऽसु । मे । सोमः । अब्रवीत् । अन्तः । विश्वानि । भेषजा ॥
+> अग्निं । च । विश्वऽशंभुवं । आपः । च । विश्वऽभेषजीः ॥२०॥
+>
+> *ap 'su | me | somaḥ | abravīt | antaḥ | viśvāni | bheṣajā ||*
+> *agniṃ | ca | viśva 'śaṃbhuvaṃ | āpaḥ | ca | viśva 'bheṣajīḥ ||20||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> कारीर्यामुत्तरस्याज्यभागस्याप्सु म इत्येषानुवाक्या । वर्षकामेष्टिरिति खण्डे — अप्स्वग्ने सधिष्टव [?] अप्सु मे सोमो अब्रवीत् (आ. ३-१३ [?]) इति सूत्रितम् ॥
+*(Numbers as printed: आ० २-१३, तै० सं० २-६-६-१, पा० ६-२-१०६. The bhāṣya ends with ॥११॥, the close of the eleventh varga.)*
+
+> कारीर्यामुत्तरस्याज्यभागस्याप्सु म इत्येषानुवाक्या । वर्षकामेष्टिरिति खण्डेऽप्स्वग्ने सधिष्टवाप्सु मे सोमो अब्रवीत् । आ० २-१३ । इति सूत्रितं ॥
 >
-> अप्सु जलेऽन्तर्मध्ये विश्वानि भेषजा सर्वाण्यौषधानि सन्तीति मे मह्यं मन्त्रदर्शिने मुनये सोमो देवोऽब्रवीत् । तथा विश्वशम्भुवं सर्वस्य जगतः सुखकरमेतन्नामकं चाग्निं चाप्सु वर्तमानं सोमोऽब्रवीत् । तथा च तैत्तिरीया — अग्नेस्त्रयो ज्यायांसो भ्रातर आसंस्तेऽग्निः सोमः प्रावशिदित्यग्नेरप्सु प्रवेशमामनन्ति (तै. सं. २-६-६-१ [?]) । लताखुलुवृक्षमूलादीनामौषधानां वृष्टिजन्यत्वेन जलवर्तित्वं प्रसिद्धम् । विश्वभेषजीः । विश्वानि भेषजानि यासु तथाविधा आपोऽप्यब्रवीत् ॥ भेषजा । सुपां सुलुगित्याकारः । विश्वशम्भुवम् । भवतेरन्तर्भावितण्यर्थात्क्विप् । व्यत्ययेन पूर्वपदप्रकृतिस्वरत्वम् । यद्वा । विश्वे सर्वेऽपि व्यापारा सुखकरा यस्य । बहुव्रीहौ विश्वं संज्ञायाम् (पा. ६-२-१०६) इति पूर्वपदान्तोदात्तत्वम् । आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अप्स्नेन्नित्यादिनोपधादीर्घः । विश्वभेषजीः । विश्वशम्भुरिवत् ॥
+> *kārīryāmuttarasyājyabhāgasyāpsu ma ityeṣānuvākyā | varṣakāmeṣṭiriti khaṇḍe 'psvagne sadhiṣṭavāpsu me somo abravīt | ā0 2-13 | iti sūtritaṃ ||*
 
-*kārīryām uttarasyājyabhāgasyāpsu ma ity eṣānuvākyā | varṣakāmeṣṭir iti khaṇḍe — apsv agne sadhiṣṭava [?] apsu me somo abravīt (ā. 3-13 [?]) iti sūtritam ||*
-*apsu jale 'ntar madhye viśvāni bheṣajā sarvāṇy auṣadhāni santīti me mahyaṃ mantradarśine munaye somo devo 'bravīt | tathā viśvaśambhuvaṃ sarvasya jagataḥ sukhakaram etannāmakaṃ cāgniṃ cāpsu vartamānaṃ somo 'bravīt | tathā ca taittirīyā — agnes trayo jyāyāṃso bhrātara āsaṃs te 'gniḥ somaḥ prāvaśid ity agner apsu praveśam āmananti (tai. saṃ. 2-6-6-1 [?]) | latākhuluvṛkṣamūlādīnām auṣadhānāṃ vṛṣṭijanyatvena jalavartitvaṃ prasiddham | viśvabheṣajīḥ | viśvāni bheṣajāni yāsu tathāvidhā āpo 'py abravīt || bheṣajā | supāṃ suluk ity ākāraḥ | viśvaśambhuvam | bhavater antarbhāvitaṇyarthāt kvip | vyatyayena pūrvapadaprakṛtisvaratvam | yadvā | viśve sarve 'pi vyāpārā sukhakarā yasya | bahuvrīhau viśvaṃ saṃjñāyām (pā. 6-2-106) iti pūrvapadāntodāttatvam | āpaḥ | karmaṇi śasi prāpte vyatyayena jas | apsunnity ādinopadhādīrghaḥ | viśvabheṣajīḥ | viśvaśambhur ivat ||*
+**Translation (application):** "At the *kārīrī* [*iṣṭi*], this ṛk *apsu me* is the *anuvākyā* of the second *ājyabhāga*; it is laid down in the section *varṣakāmeṣṭi*: '*apsv agne sadhiṣ ṭava*, *apsu me somo abravīt*' (Āśv. 2-13)."
 
-**Translation:** "In the *kārīrī* [rite], of the second *ājyabhāga* (the later butter-portion), the rik *apsu me* is the *anuvākyā*; in the section *varṣakāmeṣṭi*: 'the riks *apsv agne sadhiṣṭava* [?] and *apsu me somo abravīt*' (Āś. [3-13] [?]) — so it is laid down. 'In the waters, within (*antaḥ*), are all (*viśvāni*) medicines (*bheṣajā*)', Soma, the god, said to me, the *mantradraṣṭṛ* seer. Likewise Soma told [me] of Agni, *viśvaśambhū* — the benefactor of the whole world — who is also in the waters. And so the Taittirīyas record Agni's entry into the waters: 'Agni had three elder brothers; Agni, Soma, [Varuṇa?] entered [the waters]' (Tai. Saṃ. [2-6-6-1] [?]). It is well known that the creepers and herbs, and the roots of trees and the like, being produced by rain, abide in water. *Viśvabheṣajīḥ*: the waters in which all medicines are — [he told of] such waters too. *Bheṣajā*: *ā* by *supāṃ suluk*. *Viśvaśambhuvam*: [from] *bhū* with an included causative sense, with *kvip*; the accent of the first member by *vyatyaya*; or: 'he whose every action brings happiness'; in the *bahuvrīhi* P. 6-2-106 [*viśvaṃ saṃjñāyām*] gives the accent on the end of the first member. *Āpaḥ*: *jas* instead of *śas* by *vyatyaya*; lengthening of the penultimate by P. 6-4-11 [*apṛnn…*]. *Viśvabheṣajīḥ*: as *viśvaśambhū*." *(Grammar pages 221–222, noted briefly: the words treated are* bheṣajā *[*jas* → *ā* by P. 7-1-39 *supāṃ suluk…*],* viśvaśambhuvam *[*viśvasya śaṃ bhavatīti* — an included causative sense of *bhū*, with* kvip *by P. 3-2-76; the loss of the *su* of the prātipadika; *am* for the accusative; *uvaṅ* by P. 6-4-88; the accent: by P. 6-2-1 the *bahuvrīhi* would take the first member's accent, but P. 6-2-106 *bahuvrīhau viśvaṃ saṃjñāyām* gives the acute on the end of* viśva*; the Vedabhāṣya says '*vyatyayena pūrvapadāntodāttatvam*'; the second explanation* viśve sarve vyāpārāḥ śaṃbhuvaḥ sukarāḥ yasya *as a bahuvrīhi],* āpaḥ *[*apaḥ* is the object of* abravīt*, so the accusative *śas* would be expected; *jas* stands by *vyatyaya*, P. 3-1-85; the penultimate lengthening by P. 6-4-11 *apṛn…* [read as '*āpaḥ*' with *as*→*aḥ* by P. 8-2-66, 8-3-15]],* viśvabheṣajīḥ *[*viśvāni bheṣajāni yāsu*; *bheṣaja* from *bhī bhaye* + *ajip* and *puk* — P. 3-2-... Uṇ. 1-[?] *bhiyaḥ ṣugguḥ* [?]; *bhiṣaj* → *bheṣajī* with *aṇ* by P. 4-3-120 *tasyedam*, vṛddhi for *i* by P. 7-2-117 *taddhiteṣv acām ādeḥ*, the feminine *ṅīp*; accent of the suffix]; numerals as read, pointers only.)*
+> अप्सु जलेष्वन्तर्मध्ये विश्वानि भेषजा सर्वाण्यौषधानि सन्तीति मे मह्यं मन्त्रदर्शिने मुनये सोमो देवोऽब्रवीत् । तथा विश्वशंभुवं सर्वस्य जगतः सुखकरमेतन्नामकं चाग्निं चाप्सु वर्तमानं सोमोऽब्रवीत् । तथा च तैत्तिरीया अग्नेस्त्रयो ज्यायांस इत्यनुवाके सोऽपः प्राविशदित्यग्नेरप्सु प्रवेशमामनन्ति । तै० सं० २-६-६-१ । लतागुल्मवृक्षमूलादीनामौषधानां वृष्टिजन्यत्वेन जलवर्तित्वं प्रसिद्धं । विश्वभेषजीः । विश्वानि भेषजानि यासु तथाविधा अपोऽप्यब्रवीत् ॥ भेषजा । सुपां सुलुगित्याकारः । विश्वशंभुवं । भवतेरन्तर्भावितण्यर्थात्क्विप् । व्यत्ययेन पूर्वपदप्रकृतिस्वरत्वं । यद्वा । विश्वे सर्वेऽपि व्यापाराः सुखकरा यस्य । बहुव्रीहौ विश्वं संज्ञायां । पा० ६-२-१०६ । इति पूर्वपदान्तोदात्तत्वं । आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अप्तृन्नित्यादिनोपधादीर्घः । विश्वभेषजीः । विश्वशंभुरितिवत् ॥११॥
+>
+> *apsu jaleṣvantarmadhye viśvāni bheṣajā sarvāṇyauṣadhāni santīti me mahyaṃ mantradarśine munaye somo devo 'bravīt | tathā viśvaśaṃbhuvaṃ sarvasya jagataḥ sukhakarametannāmakaṃ cāgniṃ cāpsu vartamānaṃ somo 'bravīt | tathā ca taittirīyā agnestrayo jyāyāṃsa ityanuvāke so 'paḥ prāviśadityagnerapsu praveśamāmananti | tai0 saṃ0 2-6-6-1 | latāgulmavṛkṣamūlādīnāmauṣadhānāṃ vṛṣṭijanyatvena jalavartitvaṃ prasiddhaṃ | viśvabheṣajīḥ | viśvāni bheṣajāni yāsu tathāvidhā apo 'pyabravīt || bheṣajā | supāṃ sulugityākāraḥ | viśvaśaṃbhuvaṃ | bhavaterantarbhāvitaṇyarthātkvip | vyatyayena pūrvapadaprakṛtisvaratvaṃ | yadvā | viśve sarve 'pi vyāpārāḥ sukhakarā yasya | bahuvrīhau viśvaṃ saṃjñāyāṃ | pā0 6-2-106 | iti pūrvapadāntodāttatvaṃ | āpaḥ | karmaṇi śasi prāpte vyatyayena jas | aptṛnnityādinopadhādīrghaḥ | viśvabheṣajīḥ | viśvaśaṃbhuritivat ||11||*
 
-**॥ Prati-padārthaḥ ॥** **अप्सु अन्तः (apsu antaḥ)** — in the middle of the waters | **विश्वानि (viśvāni)** — all | **भेषजा (bheṣajā)** — the medicines which cure disease | **अग्निं च (agniṃ ca)** — and Agni | **विश्वशम्भुवम् (viśvaśambhuvam)** — one who gives happiness to the whole world | **आपः (āpaḥ)** — the waters | **विश्वभेषजीः (viśvabheṣajīḥ)** — with all medicinal herbs | **सोमः (somaḥ)** — the deity Soma | **मे (me)** — to me | **अब्रवीत् (abravīt)** — told.
+**Translation:** "*Somaḥ*, the god Soma, *abravīt*, told *me*, me, the seer who saw the mantra, that *apsu antaḥ*, within the waters, are *viśvāni bheṣajā*, all medicines. Likewise Soma told of Agni, *viśvaśambhuvam*, the bringer of happiness to the whole world, so named, who is in the waters. And so the Taittirīyas record in the *anuvāka* *agnes trayo jyāyāṃsaḥ* Agni's entry into the waters: 'he entered the waters' (Tai. Saṃ. 2-6-6-1). That medicines such as creepers, bushes, the roots of trees and the like are in water, as they are produced by rain, is well known. *Viśvabheṣajīḥ*: he told also of the waters, such that all medicines are in them." (Grammatical tail: *bheṣajā*, the *ā* by *supāṃ suluk*; *viśvaśambhuvam*, *kvip* after *bhū* with the causative sense included; the first member's own accent by *vyatyaya*; or: 'whose all activities make happiness': in the bahuvrīhi the first member is final udātta by *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. 6-2-106); *āpaḥ*, *śas* being due in the object sense, *jas* by *vyatyaya*; the lengthening of the penultimate by *aptṛn…*; *viśvabheṣajīḥ*, as for *viśvaśambhuḥ*.)
 
-**॥ Bhāvārthaḥ ॥** In the middle of the waters are all the medicines which cure disease. Agni gives happiness to the whole world. The waters are accompanied by all herbs. So the deity Soma told me.
+### Page 220 — Rik 20: word-meanings, overall sense, English, Special Topics
+
+**॥ Prati-padārthaḥ ॥**
+
+**अप्सु अन्तः (apsu antaḥ)** — in the midst of the waters | **विश्वानि (viśvāni)** — all | **भेषजा (bheṣajā)** — medicines that destroy disease, that there are | **अग्निं च (agniṃ ca)** — Agni | **विश्वशंभुवं (viśvaśambhuvaṃ)** — as the one who makes happiness for the whole world | **आपः (āpaḥ)** — the waters | **विश्वभेषजीः (viśvabheṣajīḥ)** — as furnished with all medicines that destroy disease | **सोमः (somaḥ)** — the deity Soma | **मे (me)** — to me | **अब्रवीत् (abravīt)** — told.
+
+**॥ Bhāvārthaḥ ॥**
+
+In the midst of the waters are all the medicines that remove diseases. Agni makes happiness for the whole world; the waters are joined with all medicines. So the deity Soma told me.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Soma has revealed to me that in the waters are all medicaments; that Agni is the benefactor of the Universe, the waters contain all the healing medicines.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 220–)* **Application.** In the *kārīrī* rite, when the *ājyabhāga* oblation is made, this rik *apsu me somo abravīt* is used as *puro-'nuvākyā*; Āśvalāyana's Śrauta-sūtra, in the section *varṣakāmeṣṭi*, says that the riks *apsv agne sadhiṣṭava* (Ṛ. Saṃ. [8-39-?]) and *apsu me somo abravīt* (Ṛ. Saṃ. 1-23-20) are to be used as *yājyā* and *puro-'nuvākyā* (Āś. [3-13] [?]). The chief purport of this rik is: Soma has told me that Agni, the benefactor of the whole world, is in the waters in the form of lightning, and that all the medicines which cure the diseases of beings are in the waters themselves. As to Agni being in the water, the commentator cites the passage of the Taittirīya Saṃhitā [2-6-6], in the *anuvāka* *agner vai trayo jyāyāṃso bhrātara āsan*, the sentence *so 'psuḥ prāviśat taṃ devatāḥ praiṣam aicchan* ('he entered the waters; the gods sought him'); an account of this we have already given in the Ṛgveda on this subject [reference left blank in the print].
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**अग्निं च विश्वशंभुवम्** — there is no need to describe at length the benefits to the whole world which come from Agni. Agni is not only the giver of warmth when we are cold: we use him in many other useful or essential tasks, such as cooking food. This is known to everyone from experience, so there is no great need to say more. **आपश्च विश्वभेषजीः** — we have already explained, under the preceding rik, the sense that water is the means of curing diseases. **सोमः** — for the word *soma* the commentator says *somo devaḥ*, 'the deity Soma'; *soma* should be understood as the deity presiding over the herbs and plants — the Moon (*candra*).
+In the *kārīrī* sacrifice this ṛk *apsu me* is recited as the *puronuvākyā* mantra when making the *ājyabhāga* offering. On this matter, in the section *varṣakāmeṣṭi* of the Āśvalāyana Śrautasūtra, it is said that the ṛks *apsv agne sadhiṣ ṭava* (8-43-9) and *apsu me somo abravīt* (1-23-20) are to be used as the *yājyā* and *puronuvākyā* mantras (Ā. 2-13). The main intention of this ṛk: Soma himself told me that Agni, who makes happiness for the whole world, is in the waters in the form of lightning, and that all the herbs that cure the diseases of living beings are in the waters themselves. On the point that Agni is in the waters, the commentator has cited the sentence *so 'paḥ prāviśat taṃ devatāḥ praiṣam aicchan* from the *anuvāka* *agnes trayo jyāyāṃso bhrātara āsan* in the Taittirīya Saṃhitā (Tai. Saṃ. 2-6-6-1). We have explained before ( [blank in the print] ) its explanation and the explanation on this subject in the Ṛgveda.
+
+> सोऽपः प्राविशत्तं देवताः प्रैषमैच्छन् ।
+>
+> *so 'paḥ prāviśattaṃ devatāḥ praiṣamaicchan |*
+
+**अग्निं च विश्वशंभुवं (agniṃ ca viśvaśambhuvaṃ)** — there is no need to explain at length the benefit that comes to the whole world from Agni. Besides giving us warmth when it is cold, we use Agni for cooking food and in many other useful or most necessary works.
+
+### Page 221 — Rik 20: Special Topics (end), grammar
+
+Since this matter is known by everyone's experience, there is no need to say more.
+
+**आपश्च विश्वभेषजीः (āpaś ca viśvabheṣajīḥ)** — we have explained in the previous ṛk itself what the part of water is in curing diseases.
+
+**सोमः (somaḥ)** — for the word *soma* the commentator has said *somadevaḥ*, the deity Soma. Soma here is to be known as the Moon, the presiding deity of plants and trees.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**भेषजा (bheṣajā)** — by *supāṃ suluk* (Pā. Sū. 7-1-39) the substitute *ā* for the nominative plural *jas*.
+
+**विश्वशंभुवम् (viśvaśambhuvam)** — *viśvasya śaṃ bhavatīti* (*bhāvayatīti*) *viśvaśambhūḥ, tam*: so the analysis. Here after the root *bhū* with the causative sense included, by *kvip ca* (Pā. Sū. 3-2-76) *kvip*; the *sup*, a part of a nominal stem, is dropped (*luk*): *viśvaśambhū*; after it the accusative singular *am*; by *na bhūsudhiyoḥ* (Pā. Sū. 6-4-85) the *yaṇ* is barred; by *aci śnudhātu…* (Pā. Sū. 6-4-77) the substitute *uvaṅ*: it becomes *viśvaśambhuvam*. Here, though by *samāsasya* (Pā. Sū. 6-1-223) the final udātta (which is *satiśiṣṭa*) would be right, by *vyatyaya* [it is said that] the first member *viśva* gets the final udātta. By *śeṣanighāta* the other letters are unaccented. Among them the unaccented *ś* syllable becomes svarita by *udāttād anudāttasya…* (Pā. Sū. 8-4-66). The other two letters, by *svaritāt saṃhitāyām anudāttānām* (Pā. Sū. 1-2-39), are in the monotone (*pracaya*): this is the situation. Here the word *viśva* is formed by the suffix *kvan* by *aśūpruṣilaṭi…* (U. Sū. 1-149). So at (Ṛ. Saṃ. 1-9-1) it has been described as initially udātta by *ñnity ādir nityam* (Pā. Sū. 6-1-197). So if the first member's own accent is said here by *vyatyaya*, the initial udātta would have to come; then the form *viśvaśambhuvam* [with that accent] would not result: it must be *viśvaśambhuvam* [with final udātta on *viśva*]. So in the Veda commentary *vyatyayena pūrvapadāntodāttatvam* is the right reading. Yet through the carelessness of the proof-readers and others it may have dropped to *vyatyayena pūrvapadaprakṛtisvaratvam*. However this may be, in describing the meaning there is no description by the commentator of a meaning that fits this derivation. So it is clear that the commentator was not pleased with this derivation. That is why he begins with *yadvā* and gives another derivation: *viśve* — all activities; *śambhuvaḥ* — that make happiness; *yasya* — whose; *saḥ* — he is *viśvaśambhūḥ*, *tam*: a bahuvrīhi compound. On this view the compound-final udātta —
+
+> व्यत्ययेन पूर्वपदान्तोदात्तत्वम् ।
+> व्यत्ययेन पूर्वपदप्रकृतिस्वरत्वम् ।
+>
+> *vyatyayena pūrvapadāntodāttatvam |*
+> *vyatyayena pūrvapadaprakṛtisvaratvam |*
+
+### Page 222 — Rik 20: grammar (end)
+
+— overriding it, by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the first member's own accent would be due. But in *bahuvrīhau viśvaṃ saṃjñāyām* (Pā. Sū. 6-2-106), *pūrvapadam* from *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) is carried on. It must be changed into the genitive case to suit the meaning of the present sentence; *antaḥ* (Pā. Sū. 6-2-92) is the heading. So it becomes *pūrvapadasya antaḥ*; by *ādir udāttaḥ* (Pā. Sū. 6-2-64) *udāttaḥ* is carried on. *Saṃjñāyām* is a qualifier of the whole; and so, when a name is shown by the whole, the end of the word *viśva*, the first member of a bahuvrīhi compound, is udātta: so *viśva* is final udātta. On this view there is no trouble of having to establish the accent by *vyatyaya*.
+
+**आपः (āpaḥ)** — this is the object word with regard to the root *abravīt*. So when the object sense is intended, by the teaching *karmaṇi dvitīyā* (Pā. Sū. 2-3-2) the second case; and since the word *ap* always ends in the plural, when the plurality of the object sense is intended, by *bahuṣu bahuvacanam* (Pā. Sū. 1-4-21) it would be right for the accusative plural *śas* to come. Yet by *vyatyayo bahulam* (Pā. Sū. 3-1-85), by interchange, the nominative plural case-ending *jas* has come here: *ap* + *as*. Now since the suffix *as*, named *sarvanāmasthāna*, follows, by *aptṛntṛc…* (Pā. Sū. 6-4-11) — when a *sarvanāmasthāna* other than the vocative follows, the penultimate letter of the word *ap* and of words ending in the suffixes *tṛn* and the rest is lengthened — lengthening: *āpas*; for the *s*, *ru* and *visarga*.
+
+**विश्वभेषजीः (viśvabheṣajīḥ)** — *viśvāni bheṣajāni yāsu tāḥ*: so the analysis; here, overriding the first member's own accent caused by the bahuvrīhi, the first member gets the final udātta in the manner stated at *viśvaśambhuvam*. By *bhiyaḥ ṣug ghrasvaś ca* (U. Sū. 1-134 [?], as read) — after the root *ñibhī bhaye*, the suffix *aj* and the augment *ṣuk* for the root — when the suffix *aj*, shortening of the root and the augment *ṣuk* come after the root *bhī*, it becomes *bhiṣaj*. *Bhiṣajaḥ imāḥ*: so the analysis. By *tasyedam* (Pā. Sū. 4-3-120) the suffix *aṇ*: *bhiṣaj* + *a*; now since the suffix is *ṇit*, by *taddhiteṣv acām ādeḥ* (Pā. Sū. 7-2-117) *vṛddhi* in *bhi* would give *bhai*; yet by set form *e* comes for the *ī* of *bhi*. When the feminine is intended, *ṅīṣ* comes and it becomes *bheṣajī*. The *ī* of *ṅīṣ* is udātta by the suffix accent.
+
+*(An ornament follows.)*
 
 ---
 
