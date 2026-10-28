@@ -173,7 +173,7 @@ def front_matter(vol, vtitle, entries, cover='cover_vol3.jpg', toc_html=None):
 '''
 
 def build(vol, mode):
-    src = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8').split('\n')
+    src = next(p for p in (ROOT / f"vol{vol}" / f"Rigveda_Samhita_Vol{vol}_English_Translation.md", ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md") if p.exists()).read_text(encoding='utf-8').split('\n')
     heads = [i for i, l in enumerate(src) if l.startswith('## ') and re.search(r'S[ūu]kta\s+\d+', l)]
     s, e = heads[0], (heads[1] if mode == 'pilot' else len(src))
     section = '\n'.join(src[s:e])

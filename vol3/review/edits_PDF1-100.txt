@@ -1,0 +1,68 @@
+PDF 11-14 (contents): table of sūkta start pages checked; Sūkta 30 corrected 'about 447' -> 458 (contents printed '458'); page-number note and accent convention in the header updated.
+PDF 15 (p. 1): invocation verses checked against the print; intro bhāṣya: "अथमष्टावार्भवमिति" as printed (old [?] removed).
+PDF 16 (p. 2): Āśv. "8-9" (old [8-6] corrected); Kannada refs RV 1-24-3, 2-41-19, 1-20-1; heading Varga 1, 2 (old [?] dropped); Rk 20.1 Samhita accents from print.
+PDF 17 (p. 3): Pada; bhāṣya in full; Prati/Bhāvārtha/English.
+PDF 18 (p. 4): Special Topics (Nītimañjari as printed); grammar 7-1-39, 3-1-85, "1-1-63" [as printed, for 6-1-163].
+PDF 19 (p. 5 upper): Phi. 26 (old [?] resolved), 6-2-139, 6-1-223, 3-1-4. Rk 20.2 starts here.
+PDF 19 (p. 5 lower): Rk 20.2 Samhita accents from print; Pada; bhāṣya begun.
+PDF 20 (p. 6): bhāṣya end 4-1-45; Prati/Bhāvārtha/English; Special Topics.
+PDF 21 (p. 7): Ni. 3-1; grammar 3-2-61, 7-1-39, 3-1-4, 6-1-162, 6-2-139, 8-4-66, 3-4-82.
+PDF 22 (p. 8): 8-1-18, 8-1-28, Uṇ. "4-5-57" [?], 4-1-45 ga., 6-4-148, 6-1-203, 3-1-73, 2-4-73, 6-4-72, 6-1-90, 7-1-5. Rk 20.3 starts lower.
+PDF 22 (p. 8 lower): Rk 20.3 Samhita accents from print; Pada.
+PDF 23 (p. 9): bhāṣya in full: Uṇ. 1-158, 3-2-70; Prati/Bhāvārtha/English; Special Topics.
+PDF 24 (p. 10): grammar 3-1-76.
+PDF 25 (p. 11): 7-1-3, 3-4-100, 8-2-23, 8-2-1, "Sā. sū. 4-2-7" [as printed, for Pā. 8-2-7], 6-4-71, 6-4-75, 6-3-73, 6-3-75, Uṇ. "1-157" (bhāṣya 1-158), 7-3-86.
+PDF 26 (p. 12): 8-4-40, 8-4-53, 6-4-64, 6-4-8, 6-4-12, 6-4-13, 6-1-68, 8-2-7, RV sū. 6 ṛ. 9, 3-2-75, page "75" [?].
+PDF 27 (p. 13): 6-4-8, 2-4-71, 6-4-133, 3-2-70, 3-1-4, 6-1-162, 2-2-19, 6-2-139, 4-1-4, 1-1-50, 8-4-66, 1-2-40. End of Rk 20.3.
+PDF 28 (p. 14): Rk 20.4 Samhita accents from print; Pada; bhāṣya: Āśv. 8-10, Ni. "11-15" (as printed; "वर्तेन" as printed), 7-4-25.
+PDF 29 (p. 15): bhāṣya end 7-1-39-1, 1-1-52, 6-1-102, 7-3-109, 2-4-80; Prati/Bhāvārtha/English; Special Topics Āśv. 8-10.
+PDF 30 (p. 16): Ni. 3-1; three derivations of ṛbhu transcribed.
+PDF 31 (p. 17): RV 1-110-4, RV 1-161-11 with Nirukta; grammar Uṇ. "1-154" [?], 6-4-77, 7-1-39.
+PDF 32 (p. 18): 6-2-1, 3-1-8, 2-4-71, 7-4-25, 3-2-170, 6-4-48, 3-3-174, 7-2-35, 7-2-9, 8-4-41, 7-1-39 vā. 1, 1-1-52, 6-1-87, 6-1-102.
+PDF 33 (p. 19): 7-3-109, 1-4-2, pari. "93" [?], 3-1-43, 2-4-80, 7-1-5, 6-1-77, 6-4-71, 8-1-28. Rk 20.5 starts lower.
+PDF 33 (p. 19 lower): Rk 20.5 Samhita accents from print.
+PDF 34 (p. 20): Pada; bhāṣya in full: Āśv. 5-3, RV 8-96-7, 3-3-67, 1-3-29, 6-4-98, 8-2-10; varga 1 closes; Prati.
+PDF 35 (p. 21): Bhāvārtha/English ("exhilerating", "Maruths" [sic]); Special Topics Āśv. 5-3, Ni. 2-13.
+PDF 36 (p. 22): grammar 3-3-67, 7-1-50, 1-1-46, 1-3-29, 1-3-26, 1-3-12, 7-1-5, 2-4-80, 6-4-98.
+PDF 37 (p. 23 upper): 1-4-80, 1-4-81, 1-4-82, 5-2-94, 8-2-39, 1-4-19, 8-2-10, 7-1-10, 7-3-103, Uṇ. "1-154" [?], 1-4-17. Rk 20.6 starts lower.
+PDF 37 (p. 23 lower): Rk 20.6 Samhita accents from print (varga 2 begins).
+PDF 38 (p. 24): Pada; bhāṣya in full: RV 1-161-2, 3-3-19, 7-2-44, 8-2-29, 8-3-45, 2-3-65, 2-3-69, 2-3-18, 2-3-50, 6-1-167; Prati.
+PDF 39 (p. 25): Bhāvārtha/English; Special Topics; grammar 6-1-65, 3-3-57, 2-4-17.
+PDF 40 (p. 26): "3-3-19" [as printed, for 3-3-118], 7-3-84, 6-1-107, Uṇ. "2-51", "2-52" [?], 7-2-44, 8-2-29, 8-4-41, 6-1-111, 1-1-51, 8-2-24.
+PDF 41 (p. 27): 2-2-18, 8-2-66, 8-3-15, 8-3-45 (śloka-vā. 4), 8-3-44 (vā. 1), 8-3-41.
+PDF 42 (p. 28): 2-3-65, 2-3-69, 1-1-72, 3-2-124, 2-3-50, 2-3-18, 1-4-49.
+PDF 43 (p. 29): 2-3-2, 6-2-49, Phi. 81, 7-1-5, 3-1-85, 3-1-43, 2-4-80, 3-4-113, 1-2-4, 1-1-5, 3-4-117.
+PDF 44 (p. 30 upper): 7-3-84, Uṇ. "5-58" [?], 6-1-167. Rk 20.7 starts lower.
+PDF 44 (p. 30 lower): Rk 20.7 Samhita accents from print; Pada; bhāṣya intro Āśv. 8-11.
+PDF 45 (p. 31): bhāṣya in full: Uṇ. "3-14" [?], 5-1-61, 6-4-144, 6-2-151; Prati.
+PDF 46 (p. 32): Bhāvārtha/English; Special Topics RV 8-93-34, Āśv. 8-11, Ai. Brā. Bhā. "5-2" [?].
+PDF 47 (p. 33): cross-ref Part 1 pp. "416–418", "432–433" [?]; grammar Uṇ. "3-14", "3-10", "3-6" [?], 7-2-116, Dhā. ga. 2, 6-4-92, 6-4-51.
+PDF 48 (p. 34): 6-1-197, 3-1-68, 2-4-75, 6-1-10, 7-4-59, 8-4-54, 6-4-113, 1-1-20, 6-4-112, 3-4-85, 3-4-101, 8-2-38, 1-1-57, 8-2-1.
+PDF 49 (p. 35): 8-4-55, 7-1-45, 8-1-28, 5-1-61, 2-4-71, 6-4-144, 1-1-64, 1-4-18, 7-2-117, 6-1-197, 7-1-20, 1-1-42.
+PDF 50 (p. 36): 7-1-72, 6-4-8, 6-1-64, 3-2-124, 3-1-73, 1-2-4, 6-1-186, 6-1-173, 8-1-4.
+PDF 51 (p. 37): 8-1-1, 8-1-16, Uṇ. "3-43" [?], 8-1-2, 8-1-3, 3-3-94, 6-4-24, 2-2-18, 6-2-139, 6-2-151. End of Rk 20.7 (varga 2).
+PDF 52 (p. 38): Rk 20.8 Samhita accents from print; Pada; bhāṣya in full: RV 1-110-4, RV 3-60-1, Ai. Brā. 3-30, 3-1-120, 3-3-100, 6-1-159, 5-1-71 (no varga number printed).
+PDF 53 (p. 39): Prati/Bhāvārtha/English; Special Topics RV 1-110-4.
+PDF 54 (p. 40): RV 3-60-1, Ai. Brā. 3-30; grammar Uṇ. "4-51", "4-48" [?], RV 3 ṛ. 9, 3-1-120 ("tyap" as printed), 6-1-71.
+PDF 55 (p. 41): 6-2-1, Phi. 81, 6-2-172, 3-1-4, 6-1-162, 6-2-119, 1-4-2, pari. "58" [?], 3-3-100, 3-3-94, 3-1-94, 3-1-91.
+PDF 56 (p. 42): 2-2-18, 4-1-4, 7-3-105, 3-3-121, 7-3-52, 7-2-116, 6-1-197, 6-1-159, 5-1-71.
+PDF 57 (p. 43 upper): 7-1-2, 6-4-148. End of Sukta 20; Sukta 21 begins mid-page.
+PDF 57 (p. 43 lower): Sukta 21 title; intro bhāṣya re-transcribed: Āśv. 5-10, 7-5.
+PDF 58 (p. 44): heading Varga 3 (old [?] dropped); Rk 21.1 Samhita accents from print ([accent ?]: bar in तयोः); Pada; bhāṣya: Kā. 6-3-26, 6-2-142, 7-1-46.
+PDF 59 (p. 45): Prati/Bhāvārtha/English; Special Topics Ni. "7-8" [?], cross-ref Part 2 pp. 710–712.
+PDF 60 (p. 46): grammar 6-3-26, 6-3-25, 6-3-26-2 (vārttika), Kā. "3-6-26" [as printed, for 6-3-26], 1-1-66.
+PDF 61 (p. 47): 6-1-77, 6-1-223, 6-2-142, 6-2-141, 7-1-46.
+PDF 62 (p. 48 upper): 2-4-72, 1-2-4, 6-1-16, 7-1-39. Rk 21.2 starts lower.
+PDF 62–63 (pp. 48 lower–49), Ṛk 21.2: Saṃhitā accents from the print; bhāṣya transcribed in full (ताविन्द्राग्नी, यज्ञेष्वनुष्ठीयमान… corrected); invented sūtra number P. 7-1-39 for supāṃ suluk removed (not printed); 6-3-137 confirmed from print; rewritten in page order with headings.
+PDF 64–67 (pp. 50–53 upper), Ṛk 21.3: Saṃhitā accents from the print; bhāṣya in full (sūtra numbers 2-3-15 and 6-2-50 read from the print; the old "[3-4-14]" was invented); grammar rewritten from the print with page headings (3-3-94, 3-3-18, 3-3-11, 7-2-9, 6-4-24, 8-3-24, 8-2-1, 2-2-18, 2-3-15, 3-3-10, 6-2-139, 6-2-50, 6-2-42 as printed); note that the Special Topics' "gāyata supplied" differs from the bhāṣya (both as printed).
+PDF 67–69 (pp. 53 lower–55 upper), Ṛk 21.4: Saṃhitā accents from the print (print has सुतं); bhāṣya in full, citation printed ऋग्वे० १-१६-५ (the ಜ-like glyph = 5, confirmed by the ṛk number ॥೫॥ on p. 55); grammar rewritten from the print (3-2-124, 1-2-4, 6-4-111, 7-1-70, 7-1-58; Ṛ. Saṃ. 1-16-5); one unclear word on p. 54 left [?].
+PDF 69–72 (pp. 55 lower–58), Ṛk 21.5: Saṃhitā accents from the print, two marks [accent ?]; bhāṣya in full (6-4-10, 3-2-101, 5-4-122 from print); Special Topics with Skandasvāmin quotes in three layers (वदार्थः [sic]); Ni. 10-12; grammar rewritten from the print with page headings; one Uṇādi number unclear and U. 4-4-97 [?].
+PDF 73–76 (pp. 59–62 upper), Ṛk 21.6: Saṃhitā accents from the print; bhāṣya in full (ends ॥३॥, close of varga 3); Ni. 3-13 confirmed (old [?] removed); grammar rewritten from the print with page headings (3-4-85, 3-4-101, 2-4-72, 1-2-4, 1-1-5, 8-1-28, 7-3-86, 3-3-1, 6-4-51, 6-2-139, āmantritasya ca printed 8-1-19, 3-2-75, 7-3-84, 3-1-68, 7-3-77, 6-1-73, 8-4-40, 7-2-100, 7-3-78); close of Sūkta 21 noted.
+PDF 76–77 (pp. 62 lower–63), Sūkta 22 introduction: bhāṣya transcribed in full from the print; corrected खण्डे (old "छन्दे"), कृत्स्नदेवत्या (old "कृष्ण" [?]), Āśv. 4-15 (old "[4-13]"), Anu. 12-4 and Āśv. 5-5 confirmed; Anuvāda re-translated (twenty vs twenty-one stated as printed).
+PDF 78–80 (pp. 64–66 upper), Ṛk 22.1: heading block from print (Varga 4–8; devatā list incl. "16 viṣṇur devā vā | 17–21 viṣṇuḥ"; old [?] removed); Saṃhitā accents from print; bhāṣya in full (प्रातर्युञ्जाते, as the grammar quotes it); Special Topics (Vedārthayatna view) and grammar rewritten from print (3-2-61, 7-2-102, 6-1-97, 7-1-12, 7-2-113, idamo 'nvādeśe printed 8-3-41, 3-1-4, 6-1-171).
+PDF 80–82 (pp. 66 lower–68), Ṛk 22.2: Saṃhitā accents from print; bhāṣya in full (opens योभाश्विना as printed; क्विप्चेति, confirmed by the grammar's kvip ca); Skandasvāmin quotes in three layers; English "excellant" [sic]; grammar rewritten (7-1-39, 6-1-223, 6-2-1, 6-2-172, 6-2-119, 6-4-37, 5-2-115, 5-3-55, 8-2-7, 6-3-137, 3-2-76, 2-2-19, 6-3-14, 6-2-139; one Uṇādi number [?]).
+PDF 83–85 (pp. 69–71), Ṛk 22.3: Saṃhitā accents from print; bhāṣya transcribed in full (8-2-11, 1-2-10 from print); both Prati-padārtha readings; English "Aswanis" [sic]; grammar rewritten (3-1-134, 6-1-203, 5-2-94, 8-2-11, ugitaś ca printed 6-3-45, 3-1-7, 6-1-9, 7-4-60, 1-2-10, aniṭ-kārikā number [?], 7-3-86, 8-2-31, 8-2-41, 8-3-59, 3-1-32).
+PDF 86–87 (pp. 72–73), Ṛk 22.4: Saṃhitā accents from print (one mark [accent ?]); bhāṣya in full; grammar rewritten (Phi. 8-2, 8-1-63, 6-3-136, 1-4-57, 8-1-66, 8-1-67; maxim in three layers).
+PDF 88–92 (pp. 74–78 upper), Ṛk 22.5: Saṃhitā accents from print (line 2 [accent ?]); bhāṣya in full incl. application note (Āśv. 8-10), Kauṣītaki story, Nirukta 2-10, 2-26 (bhāṣya ends ॥४॥, close of varga 4); Special Topics with Nirukta quotes (2-10, 2-26, 10-31, 10-32) in three layers; grammar rewritten (Phi. 26, Ṛ. 1-7-2, bahuvrīhau printed as read 6-1-7 [?], 3-3-96, 3-3-97, 6-1-64, 3-1-133, 6-1-163, 3-2-135, Paribhā. 66, 7-3-86, 7-1-94, 6-4-11, 6-1-68, 8-2-7, 6-1-197, 5-4-27 [?], 6-1-193, 3-1-134; one Uṇādi number [?]).
+PDF 92–96 (pp. 78 lower–82 upper), Ṛk 22.6: Saṃhitā accents from print (one [accent ?]); bhāṣya in full (Pā. 2-3-69, Manu 3-76; अग्न्यादित्यावपां); Special Topics (Ni. 10-18, 8-5); grammar rewritten (6-1-171, 2-2-6, 6-3-73, 6-3-75, 2-3-65, na lokāvyaya read 2-6-69 [?], 2-3-50, Tai. Ā. 8-2, Manu 3-76, 7-1-70, 3-2-76, 6-2-140, 7-2-116, 6-4-51, 6-2-139, 3-4-9, 2-4-72, 7-1-46, 1-2-4, 6-1-16).
+PDF 96–98 (pp. 82 lower–84 upper), Ṛk 22.7: Saṃhitā accents from print; bhāṣya in full (U. 4-232; हूयतेः, विभक्ताभ्यः as printed); English "enlighter" [sic]; grammar rewritten (6-1-34, 6-1-108, 3-4-79, 7-3-101, U. 1-10, 2-4-54; three small Uṇādi numbers [?]).
