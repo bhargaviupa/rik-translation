@@ -5380,41 +5380,83 @@ In the animal sacrifice this ṛk *idam āpaḥ pra vahata* is recited for the c
 
 ---
 
-### Pages 229–232 — Sūkta 23, Rik 23
+### Page 229 (lower) — Sūkta 23, Rik 23
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आपो अद्यान्वचारिषं रसेन समगस्महि ।
-> पयस्वानग्न आ गहि तं मा सं सृज वर्चसा ॥ २३ ॥
+> आपो॑ अ॒द्यान्व॑चारिषं॒ रसे॑न॒ सम॑गस्महि ।
+> पय॑स्वानग्न॒ आ ग॑हि॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥२३॥ [accent ?]
+>
+> *ā́po adyā́nv acāriṣaṃ rásena sám agasmahi |*
+> *páyasvān agna ā́ gahi táṃ mā sáṃ sṛja várcasā ||23||* [accent ?]
 
-*āpo adyānv acāriṣaṃ rasena samagasmahi | payasvān agna ā gahi taṃ mā saṃ sṛja varcasā || 23 ||*
+*(Strokes over पो, न्व, से and म (सम); bars under अ (अद्य), षं and न (रसेन). Line 2: strokes over य (पयस्), ग (गहि), सृ and र्च; bars under ग्न, हि, मा and ज. Line 2 is read from p. 229 lower and the zoom [accent ?].)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 230 — Rik 23: Pada, bhāṣya, word-meanings, overall sense
 
-> आपः । अद्य । अनु । अचारिषम् । रसेन । सम् । अगस्महि ॥ पयस्वान् । अग्ने । आ । गहि । तम् । मा । सम् । सृज । वर्चसा ॥ २३ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*āpaḥ | adya | anu | acāriṣam | rasena | sam | agasmahi || payasvān | agne | ā | gahi | tam | mā | sam | sṛja | varcasā || 23 ||*
+> आपः । अद्य । अनु । अचारिषं । रसेन । सं । अगस्महि ॥
+> पयस्वान् । अग्ने । आ । गहि । तं । मा । सं । सृज । वर्चसा ॥२३॥
+>
+> *āpaḥ | adya | anu | acāriṣaṃ | rasena | saṃ | agasmahi ||*
+> *payasvān | agne | ā | gahi | taṃ | mā | saṃ | sṛja | varcasā ||23||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> पशावाहवनीयोपस्थान आपो अद्यान्वचारिषमित्येषा । मनोतायै संप्रेषिते इति खण्डे सूत्रितम् — एत्योपतिष्ठमन्ते आपो अद्यान्वचारिषं (आ. ३-[६] [?]) इति ॥
+*(Numbers as printed: आ० ३-६, पा० ७-२-३५, ७-२-४, ७-२-२, १-३-२९, १-२-१३.)*
+
+> पशावाहवनीयोपस्थान आपो अद्यान्वचारिषमित्येषा । मनोतायै संप्रेषित इति खण्डे सूत्रितं । एत्योपतिष्ठन्त आपो अद्यान्वचारिषं । आ० ३-६ । इति ॥
 >
-> अद्यास्मिन्नेवावभृथार्थमप्सु [?] अन्वचारिषं जलान्यनुप्रविष्टवानस्मि । प्रविश्य च रसेन जलसारेण समगस्महि । संगताः स्मः । हे अग्ने पयस्वान् जले वर्तमानत्वेन पयोयुक्तस्त्वमा गहि । अस्मिन्कर्मण्यागच्छ । तं मा तादृशं स्नातं मां वर्चसा तेजसा सं सृज । संयोजय ॥ आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अचारिषम् । चर गत्यर्थः । लुङि च्लेः सिच् । आर्धधातुकस्येड्वलादेः (पा. ७-२-३५) । इतीट् । नेटि (पा. ७-२-४) इति वृद्धिप्रतिषेधे प्राप्ते तदपवादतयोऽतो लान्तस्य (पा. ७-२-३) इत्युपधायाः वृद्धिः । अगस्महि । समो गम्यृच्छिप्रच्छीत्यात्मनेपदम् (पा. १-३-२९) । च्लेः सिच् । मन्त्रे घसेत्यादिना च्लेर्लुगभावश्छन्दसः । एकाच उपदेशेऽनुदात्तादित्यादिनेट्प्रतिषेधः । वा गमः (पा. १-२-१३) इति सिचः कित्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्त्वेन ङित्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । आतो हेरिति लुग्भवति । असिद्धवदत्राभादिति मलोपस्यासिद्धत्वात् ॥
+> *paśāvāhavanīyopasthāna āpo adyānvacāriṣamityeṣā | manotāyai saṃpreṣita iti khaṇḍe sūtritaṃ | etyopatiṣṭhanta āpo adyānvacāriṣaṃ | ā0 3-6 | iti ||*
 
-*paśāv āhavanīyopasthāna āpo adyānv acāriṣam ity eṣā | manotāyai saṃpreṣite iti khaṇḍe sūtritam — etyopatiṣṭhamante āpo adyānv acāriṣaṃ (ā. 3-[6] [?]) iti ||*
-*adyāsminn evāvabhṛthārtham apsu [?] anv acāriṣaṃ jalāny anupraviṣṭavān asmi | praviśya ca rasena jalasāreṇa samagasmahi | saṃgatāḥ smaḥ | he agne payasvān jale vartamānatvena payoyuktas tvam ā gahi | asmin karmaṇy āgaccha | taṃ mā tādṛśaṃ snātaṃ māṃ varcasā tejasā saṃ sṛja | saṃyojaya || āpaḥ | karmaṇi śasi prāpte vyatyayena jas | acāriṣam | cara gatyarthaḥ | luṅi cleḥ sic | ārdhadhātukasyeḍvalāder (pā. 7-2-35) itīṭ | neṭi (pā. 7-2-4) iti vṛddhipratiṣedhe prāpte tadapavādatayo 'to lāntasya (pā. 7-2-3) ity upadhāyāḥ vṛddhiḥ | agasmahi | samo gamyṛcchipracchīty ātmanepadam (pā. 1-3-29) | cleḥ sic | mantre ghasetyādinā cler lugabhāvaś chandasaḥ | ekāca upadeśe 'nudāttād ity ādineṭpratiṣedhaḥ | vā gamaḥ (pā. 1-2-13) iti sicaḥ kittvād anudāttopadeśety ādinānunāsikalopaḥ | gahi | loṭi gamer sipo hiḥ | apittvena ṅittvād anudāttopadeśety ādinānunāsikalopaḥ | āto her iti lug bhavati | asiddhavad atrābhād iti malopasyāsiddhatvāt ||*
+**Translation (application):** "At the animal sacrifice, at the attendance on the *āhavanīya*, this ṛk *āpo adyānv acāriṣam*; it is laid down in the section *manotāyai saṃpreṣite*: 'having come, they attend with *āpo adyānv acāriṣam*' (Āśv. 3-6)."
 
-**Translation:** "In the animal sacrifice, at the *Āhavanīya-upasthāna*, the rik *āpo adyānv acāriṣam* [is used]; so it is laid down in the section *manotāyai saṃpreṣite*: 'having come, he approaches with [the mantra] *āpo adyānv acāriṣam*' (Āś. [3-6] [?]). 'Today, for the *avabhṛtha* [bath], I have entered (*anv acāriṣam*) the waters; having entered I have joined (*samagasmahi*) with their essence (*rasena*) — the essence of the waters. O Agni! *payasvān* — being in the water you are milk-filled — come (*ā gahi*) to this rite. Unite me, so bathed, with *varcas* — splendour.'" *(Grammar pages 230–232, noted briefly: the words treated are* āpaḥ *[a nominative plural used in the sense of the accusative *śas*, by *vyatyaya*],* acāriṣam *[*cara gatau*; aorist with *sic*; *iṭ* by P. 7-2-35; the lengthening of the penultimate vowel by P. 7-2-3 *ato lrāntasya*, since P. 7-2-4 *neṭi* prohibits it only where *iṭ* is absent],* agasmahi *[*sam* + *gam* with the *ātmanepada* by P. 1-3-29 *samo gamyṛcchipracchisvaratyartiśrutividibhyaḥ*; *sic* → *luk* not applied in the Veda (P. 2-4-80 *mantre ghasahvara…*); *iṭ* prohibited by P. 7-2-10 *ekāca upadeśe 'nudāttāt*; P. 1-2-13 *vā gamaḥ* makes *sic* optionally *kit*, with the loss of the nasal],* gahi *[*loṭ* + *sip* → *hi* by P. 3-4-87; being *ṅit*, the loss of the nasal by P. 6-4-37; *hi* lost by P. 6-4-105 *ato heḥ*; the *asiddha* rule P. 6-4-22 for the loss of *m*] and* payasvān *[*payas* + *matup*; *vat* by P. 8-2-15; *nuḍ*, *num*; vowel lengthening]; numerals as read, pointers only.)*
+> अद्यास्मिन्दिनेऽवभृथार्थमापोऽन्वचारिषं । जलान्यनुप्रविष्टोऽस्मि । प्रविश्य च रसेन जलसारेण समगस्महि । संगताः स्मः । हे अग्ने पयस्वान् जले वर्तमानत्वेन पयोयुक्तस्त्वमा गहि । अस्मिन्कर्मण्यागच्छ । तं मा तादृशं स्नातं मां वर्चसा तेजसा सं सृज । संयोजय ॥ आपः । कर्मणि शसि प्राप्ते व्यत्ययेन जस् । अचारिषं । चर गत्यर्थः । लुङि च्लेः सिच् । आर्धधातुकस्येड्वलादेः । पा० ७-२-३५ । इतीट् । नेटि । पा० ७-२-४ । इति वृद्धिप्रतिषेधेऽप्राप्ते तदपवादतयातो ल्रान्तस्य । पा० ७-२-२ । इत्युपधाया वृद्धिः । अगस्महि । समो गम्यृच्छिभ्यामित्यात्मनेपदं । पा० १-३-२९ । च्लेः सिच् । मन्त्रे घसेत्यादिना च्लेर्लुगभावश्छान्दसः । एकाच उपदेशेऽनुदात्तादितीट्प्रतिषेधः । वा गमः । पा० १-२-१३ । इति सिचः कित्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । गहि । लोटि गमेः सिपो हिः । अपित्त्वेन ङित्त्वादनुदात्तोपदेशेत्यादिनानुनासिकलोपः । अतो हेरिति लुग्न भवति । असिद्धवदत्राभादिति मलोपस्यासिद्धत्वात् ॥
+>
+> *adyāsmindine 'vabhṛthārthamāpo 'nvacāriṣaṃ | jalānyanupraviṣṭo 'smi | praviśya ca rasena jalasāreṇa samagasmahi | saṃgatāḥ smaḥ | he agne payasvān jale vartamānatvena payoyuktastvamā gahi | asminkarmaṇyāgaccha | taṃ mā tādṛśaṃ snātaṃ māṃ varcasā tejasā saṃ sṛja | saṃyojaya || āpaḥ | karmaṇi śasi prāpte vyatyayena jas | acāriṣaṃ | cara gatyarthaḥ | luṅi cleḥ sic | ārdhadhātukasyeḍvalādeḥ | pā0 7-2-35 | itīṭ | neṭi | pā0 7-2-4 | iti vṛddhipratiṣedhe 'prāpte tadapavādatayāto lrāntasya | pā0 7-2-2 | ityupadhāyā vṛddhiḥ | agasmahi | samo gamyṛcchibhyāmityātmanepadaṃ | pā0 1-3-29 | cleḥ sic | mantre ghasetyādinā clerlugabhāvaśchāndasaḥ | ekāca upadeśe 'nudāttāditīṭpratiṣedhaḥ | vā gamaḥ | pā0 1-2-13 | iti sicaḥ kittvādanudāttopadeśetyādinānunāsikalopaḥ | gahi | loṭi gameḥ sipo hiḥ | apittvena ṅittvādanudāttopadeśetyādinānunāsikalopaḥ | ato heriti lugna bhavati | asiddhavadatrābhāditi malopasyāsiddhatvāt ||*
 
-**॥ Prati-padārthaḥ ॥** **अद्य (adya)** — now, today | **आपः (āpaḥ)** — the waters | **अन्वचारिषम् (anvacāriṣam)** — I have entered [for the final bath] | **रसेन (rasena)** — with the essence of the waters | **समगस्महि (samagasmahi)** — we have joined | **(हे) अग्ने ((he) agne)** — O Agni | **पयस्वान् (payasvān)** — in the water, therefore full of water | **आ गहि (ā gahi)** — come to this rite | **तम् (tam)** — such a one, bathed | **मा (mā)** — me | **वर्चसा (varcasā)** — with splendour | **सं सृज (saṃ sṛja)** — unite.
+**Translation:** "*Adya*, on this day, for the *avabhṛtha*, I *anv acāriṣam*, have entered after, the *āpaḥ*, waters. And having entered, *rasena*, with the essence of the waters, we *sam agasmahi*, have come together. O Agni, *payasvān*, furnished with water as being in the waters, *ā gahi*, come, to this rite. *Tam mā*, me, such a one, bathed, *saṃ sṛja*, join, *varcasā*, with splendour." (Grammatical tail: *āpaḥ*, *śas* being due in the object sense, *jas* by *vyatyaya*; *acāriṣam*, *cara* in the sense of going, *sic* for *cli* in *luṅ*, *iṭ* by *ārdhadhātukasyeḍ valādeḥ* (Pā. 7-2-35); since the bar on *vṛddhi* by *neṭi* (Pā. 7-2-4) does not apply, as its exception *ato lrāntasya* (Pā. 7-2-2) gives *vṛddhi* of the penultimate; *agasmahi*, middle voice by *samo gamyṛcchibhyām* (Pā. 1-3-29); *sic* for *cli*; the absence of *luk* of *cli* by *mantre ghasa…* is Vedic; *iṭ* barred by *ekāca upadeśe 'nudāttāt*; *sic* is *kit* by *vā gamaḥ* (Pā. 1-2-13), so the nasal is dropped by *anudāttopadeśa…*; *gahi*, *hi* for *sip* of *gam* in *loṭ*; being *ṅit* as not *pit*, the nasal dropped by *anudāttopadeśa…*; *hi* is not dropped by *ato heḥ*, since the dropping of *m* is *asiddha* by *asiddhavad atrābhāt*.)
 
-**॥ Bhāvārthaḥ ॥** For the *avabhṛtha* bath I have now entered the waters; all the essence in the waters has joined me. O Agni, since you abide in the waters, come to this rite and make me, who have bathed, splendid.
+**॥ Prati-padārthaḥ ॥**
+
+**अद्य (adya)** — now (on this day) | **आपः (āpaḥ)** — the water | **अन्वचारिषं (anvacāriṣaṃ)** — I have entered (for the *avabhṛtha* bath) | (then) **रसेन (rasena)** — with the essence of water | **समगस्महि (samagasmahi)** — we have come together | **(हे) अग्ने ((he) agne)** — O Agni | **पयस्वान् (payasvān)** — you, joined with water, that is, being in the water | **आ गहि (ā gahi)** — come (into this bathing rite) | (and) **तं मा (taṃ mā)** — me (who have bathed) | **वर्चसा (varcasā)** — with splendour | **संसृज (saṃsṛja)** — join.
+
+**॥ Bhāvārthaḥ ॥**
+
+Now I have entered the water for the (*avabhṛtha*) bath. May all the essence that is in the water join with us. O Agni, since you are in the water, come to this bathing rite and make me, who have bathed, splendid.
+
+### Page 231 — Rik 23: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I have this day entered into the waters; we have mingled with their essence; O Agni, existing in the waters, approach and fill me with vigour.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 231)* **Application.** In the animal sacrifice, at the time of worshipping the Āhavanīya fire, the rik *āpo adyānv acāriṣam* is to be used. This is stated in Āśvalāyana's Śrauta-sūtra, in the section *manotāyai saṃpreṣite*, in the sūtra *etyopatiṣṭhate āpo adyānv acāriṣam* (Āś. [3-6]). **आपः** — Skandasvāmin says that *āpaḥ* is the nominative plural in the sense of the accusative; that is, the meaning of *āpaḥ* is *apaḥ* — the accusative. **रसेन** — *jalasāreṇa*, with the essence of water; the sense is: may the pure water remove the impurities, the internal and external faults, of my body. **पयस्वान्** — *payasā jalena yuktaḥ*, or *payasi tiṣṭhatīti payasvān*: 'one who abides in the water'. In the Yajurveda sentences such as *so 'psv aprāviśat* say that Agni, concealed, lives in the waters; hence on many occasions it is said that Agni is in the waters. The second half of this rik is addressed to Agni.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+In the animal sacrifice, at the time of attending on the *āhavanīya* fire, they recite the ṛk *āpo adyānv acāriṣam*. This matter is stated in the section *manotāyai saṃpreṣite* of the Āśvalāyana Śrautasūtra, in the sūtra *etyopatiṣṭhanta āpo adyānv acāriṣam* (Ā. 3-6).
+
+**आपः (āpaḥ)** — Skandasvāmin too says *dvitīyārthe prathamā*: the word *āpaḥ*, in the first case, is to be given the meaning of the second case.
+
+**रसेन (rasena)** — *jalasāreṇa*: with the essence of water, "essence of water". The intention is: may pure water remove the faults (the dirt) inside and outside my body.
+
+**पयस्वान् (payasvān)** — *payasā jalena yuktaḥ*, or *payasi tiṣṭhatīti payasvān*: he who is in the water. In the Yajurveda, sentences such as *so 'paḥ prāviśat* say that Agni hid himself in the water. So it is said on many occasions that Agni is in the water. The second half of this ṛk has Agni as its deity.
+
+> सोऽपः प्राविशत् ।
+>
+> *so 'paḥ prāviśat |*
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**आपः (āpaḥ)** — in the object sense it would be right for *śas* to come and form *apaḥ*. But here by *vyatyayo bahulam* (Pā. Sū. 3-1-85) the case-ending *jas* comes instead of *śas* in the object sense.
+
+**अचारिषम् (acāriṣam)** — the root *cara gatau*; by *luṅ*, *cleḥ sic*, *sic*; *mip* with the substitute *am*, the augment *aṭ*: *a* + *car* + *s* + *am*. By *ārdhadhātukasyeḍ valādeḥ* (Pā. Sū. 7-2-35) an *ārdhadhātuka* beginning with a consonant other than *y* takes the augment *iṭ*. When *iṭ* comes: *acar* + *is* + *am*. *Vṛddhi* would be due by *sici vṛddhiḥ parasmaipadeṣu* (Pā. Sū. 7-2-1); then by *neṭi* (Pā. Sū. 7-2-4), when a *sic* beginning with *iṭ* follows, *vṛddhi* does not come: so the bar on *vṛddhi* would be due. But by its exception *ato lrāntasya* (Pā. Sū. 7-2-2) — when a *sic* in the *parasmaipada* follows, the short *a* of a stem ending in *r* or *l* that follows the short *a* takes *vṛddhi* — the *vṛddhi* comes; *ṣatva*: it becomes *acāriṣam*.
+
+### Page 232 (upper) — Rik 23: grammar (end)
+
+**अगस्महि (agasmahi)** — by *samo gamyṛcchibhyām* (Pā. Sū. 1-3-29) — the substitutes of *la* after the intransitive roots *gam* and *ṛcch* following the prefix *sam* are middle — the middle-voice suffix comes. *Luṅ*, first person plural *mahiṅ*; for *cli*, *sic*: *gam* + *s* + *mahi*, the augment *aṭ*. By *mantre ghasahvaraṇaśavṛdahādvṛc kṛgamijanibhyo leḥ* (Pā. Sū. 2-4-80) the *luk* of *cli* would be due; yet since this is Vedic, by *sarve vidhayaś chandasi vikalpyante* the *luk* of *cli* does not come. By *ekāca upadeśe 'nudāttāt* (Pā. Sū. 7-2-10) — a *val*-initial *ārdhadhātuka* after a root that is monosyllabic in its teaching and taught unaccented does not take the augment *iṭ* — the *iṭ* is barred. By *vā gamaḥ* (Pā. Sū. 1-2-13) — the *jhal*-initial *liṅ* and *sic* after the root *gam* are optionally *kit* — *sic* is *kit*. So by *anudāttopadeśavanatitanotyādīnām anunāsikalopo jhali kṅiti* (Pā. Sū. 6-4-37) the nasal *m* is dropped, the augment *aṭ*: it becomes *agasmahi*. ॥23॥
+
+*(An ornament follows.)*
 
 ---
 
