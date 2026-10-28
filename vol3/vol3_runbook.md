@@ -73,6 +73,8 @@ When the whole volume is done: rebuild the print PDF (`cd publish && python3 bui
 
 Never `git reset --hard`, never force-push, never touch other volumes.
 
+**No OCR for any reading (user, Oct 28):** numbers and words come only from crops actually viewed. Never remove a `[?]` or change a number because OCR agrees or disagrees; `review/ocr/` may only help locate a line on a page.
+
 ## Extra steps to reduce `[?]` (learned Oct 28, 2026)
 1. **Zoom every `[?]`, do not guess.** A `[?]` is usually a small-type number. Render the page at 450 dpi and crop only the numeral group
    (pad 60–400 px, upscale ×3–5.5). Page-width reads of small type are what produced most `[?]`. Helper scripts (they use `/tmp/v3num/` as
