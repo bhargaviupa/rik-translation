@@ -1,10 +1,10 @@
 """mont2.py PAGE... -- montage of every review box on printed page(s) (PDF=page+14), json picked by PDF number; out /tmp/v4num/q{page}_{k}.png"""
 import sys,os,json,subprocess,glob
 from PIL import Image,ImageDraw
-sys.path.insert(0,'/home/user/rik-translation/vol4/tools')
+import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from cfg import part_of
 J={}
-for f in glob.glob('/home/user/rik-translation/vol4/review/review_PDF*.json'):
+for f in glob.glob('/home/user/rik-translation/.wt-vol4/vol4/review/review_PDF*.json'):
     for r in json.load(open(f)): J.setdefault(r['pdf'],{})[r['id']]=r
 def run(page,per=8):
     g=page+14; R=sorted(J.get(g,{}).values(),key=lambda r:(r['box'][1]//40,r['box'][0]))

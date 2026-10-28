@@ -1,11 +1,11 @@
 """zb.py ID OUT [padx pady width] -- tight 450-dpi crop of a review box, upscaled"""
 import sys,os,json,subprocess
 from PIL import Image
-sys.path.insert(0,'/home/user/rik-translation/vol4/tools')
+import os; sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from cfg import part_of
 import glob
 R={}
-for _f in glob.glob('/home/user/rik-translation/vol4/review/review_PDF*.json'):
+for _f in glob.glob('/home/user/rik-translation/.wt-vol4/vol4/review/review_PDF*.json'):
     for r in json.load(open(_f)): R[r['id']]=r
 k=sys.argv[1]; r=R[k]; g=r['pdf']; f=f'/tmp/v4num/full{g}.png'
 if not os.path.exists(f):
