@@ -897,13 +897,13 @@
 
 ### Rik 48.4 (pp. 43–, PDF 59–)
 
-**Saṃhitā-pāṭha** *(p. 43; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 43; accents as printed)*
 
-> **उषो ये ते प्र यामेषु युञ्जते मनो दानाय सूरयः ।**
-> **अत्राह तत्कण्व एषां कण्वतमो नाम गृणाति नृणाम् ॥ ४ ॥**
+> **उषो॒ ये ते॒ प्र यामे॑षु यु॒ञ्जते॒ मनो॑ दा॒नाय॑ सू॒रयः॑ ।**
+> **अत्राह॒ तत्कण्व॑ एषां॒ कण्व॑तमो॒ नाम॑ गृणाति नृ॒णाम् ॥ ४ ॥**
 
-*uṣo ye te pra yāmeṣu yuñjate mano dānāya sūrayaḥ |*
-*atrāha tat kaṇva eṣāṃ kaṇvatamo nāma gṛṇāti nṛṇām || 4 ||*
+*úṣo yé te prá yā́meṣu yuñjáte máno dānā́ya sūráyaḥ |*
+*átrā́ha tát káṇva eṣāṃ káṇvatamo nā́ma gṛṇāti nṛṇā́m || 4 ||*
 
 **Pada-pāṭha** *(p. 43)*
 
@@ -915,11 +915,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 43)*
 
-> **हे उषस्ते तव यामेषु गमनेषु सत्सु ये सूरयो विद्वांसो दानाभिज्ञा दानाय धनादिदानार्थं मनः स्वकीयं प्र युञ्जते । प्रेरयन्ति । दानशीला उदाराः प्रभवः प्रातःकाले दातुमिच्छन्तीत्यर्थः । एषां दातुमिच्छतां नृणां तन्नाम दानविषये लोकप्रसिद्धं नाम कण्वतमोऽतिशयेन मेधावी कण्वो महर्षिरत्राहास्मिन्नेवोषःकाले गृणाति । उच्चारयति । यो दातुमिच्छति यष्टा नामग्रहणेन दातारं प्रशंसति तावुभावप्युषःकाल एव तथा कुरुत इत्युषसः स्तुतिः ॥ गृणाति । गृ शब्दे । क्र्यादिकः । प्वादीनां ह्रस्व इति ह्रस्वत्वं । नृणां । नामि नृ च । पा. ६-४-६ । इति दीर्घप्रतिषेधः । नृ चान्यतरस्यां । पा. ६-१-१८४ । इति विभक्तेरुदात्तत्वम् ॥**
+> **हे उषस्ते तव यामेषु गमनेषु सत्सु ये सूरयो विद्वांसो दानाभिज्ञा दानाय धनादिदानार्थं मनः स्वकीयं प्र युञ्जते । प्रेरयन्ति । दानशीला उदाराः प्रभवः प्रातःकाले दातुमिच्छन्तीत्यर्थः । एषां दातुमिच्छतां नृणां तन्नाम दानविषये लोकप्रसिद्धं नाम कण्वतमोऽतिशयेन मेधावी कण्वो महर्षिरत्राहास्मिन्नेवोषःकाले गृणाति । उच्चारयति । यो दातुमिच्छति यश्च नामग्रहणेन दातारं प्रशंसति तावुभावप्युषःकाल एव तथा कुरुत इत्युषसः स्तुतिः ॥ गृणाति । गृ शब्दे । क्र्यादिकः । प्वादीनां ह्रस्व इति ह्रस्वत्वं । नृणां । नामि नृ च । पा. ६-४-६ । इति दीर्घप्रतिषेधः । नृ चान्यतरस्यां । पा. ६-१-१८४ । इति विभक्तेरुदात्तत्वम् ॥**
 
-*he uṣas te tava yāmeṣu gamaneṣu satsu ye sūrayo vidvāṃso dānābhijñā dānāya dhanādidānārthaṃ manaḥ svakīyaṃ pra yuñjate | prerayanti | dānaśīlā udārāḥ prabhavaḥ prātaḥkāle dātum icchantīty arthaḥ | eṣāṃ dātum icchatāṃ nṛṇāṃ tan nāma dānaviṣaye lokaprasiddhaṃ nāma kaṇvatamo 'tiśayena medhāvī kaṇvo maharṣir atrāhāsminn evoṣaḥkāle gṛṇāti | uccārayati | yo dātum icchati yaṣṭā nāmagrahaṇena dātāraṃ praśaṃsati tāv ubhāv apy uṣaḥkāla eva tathā kuruta ity uṣasaḥ stutiḥ || gṛṇāti | gṛ śabde | kryādikaḥ | pvādīnāṃ hrasva iti hrasvatvaṃ | nṛṇāṃ | nāmi nṛ ca | pā. 6-4-6 | iti dīrghapratiṣedhaḥ | nṛ cānyatarasyāṃ | pā. 6-1-184 | iti vibhakter udāttatvam ||*
+*he uṣas te tava yāmeṣu gamaneṣu satsu ye sūrayo vidvāṃso dānābhijñā dānāya dhanādidānārthaṃ manaḥ svakīyaṃ pra yuñjate | prerayanti | dānaśīlā udārāḥ prabhavaḥ prātaḥkāle dātum icchantīty arthaḥ | eṣāṃ dātum icchatāṃ nṛṇāṃ tan nāma dānaviṣaye lokaprasiddhaṃ nāma kaṇvatamo 'tiśayena medhāvī kaṇvo maharṣir atrāhāsminn evoṣaḥkāle gṛṇāti | uccārayati | yo dātum icchati yaś ca nāmagrahaṇena dātāraṃ praśaṃsati tāv ubhāv apy uṣaḥkāla eva tathā kuruta ity uṣasaḥ stutiḥ || gṛṇāti | gṛ śabde | kryādikaḥ | pvādīnāṃ hrasva iti hrasvatvaṃ | nṛṇāṃ | nāmi nṛ ca | pā. 6-4-6 | iti dīrghapratiṣedhaḥ | nṛ cānyatarasyāṃ | pā. 6-1-184 | iti vibhakter udāttatvam ||*
 
-**Translation:** "O Uṣas, *te yāmeṣu*, while your goings are on, *ye sūrayaḥ*, the learned, those who know about giving, *dānāya*, for giving wealth and the like, *manaḥ pra yuñjate*, set their own mind on it — the meaning is that the generous, noble masters wish to give at the morning time. Of these men who wish to give, *tat nāma*, that name known in the world in the matter of giving, *kaṇvatamaḥ*, the greatly wise great sage *kaṇvaḥ*, *atra aha*, in this very time of dawn, *gṛṇāti*, utters. He who wishes to give, the sacrificer, praises the giver by taking the name — both do so at dawn: this is the praise of Uṣas. *Gṛṇāti*: root *gṛ śabde*, *kryādi*; shortening by *pvādīnāṃ hrasvaḥ*. *Nṛṇām*: lengthening is forbidden by *nāmi nṛ ca* (Pā. 6-4-6); the case-ending is acute by *nṛ cānyatarasyām* (Pā. 6-1-184)."
+**Translation:** "O Uṣas, *te yāmeṣu*, while your goings are on, *ye sūrayaḥ*, the learned, those who know about giving, *dānāya*, for giving wealth and the like, *manaḥ pra yuñjate*, set their own mind on it — the meaning is that the generous, noble masters wish to give at the morning time. Of these men who wish to give, *tat nāma*, that name known in the world in the matter of giving, *kaṇvatamaḥ*, the greatly wise great sage *kaṇvaḥ*, *atra aha*, in this very time of dawn, *gṛṇāti*, utters. He who wishes to give, and he who praises the giver by taking his name — both do so at dawn: this is the praise of Uṣas. *Gṛṇāti*: root *gṛ śabde*, *kryādi*; shortening by *pvādīnāṃ hrasvaḥ*. *Nṛṇām*: lengthening is forbidden by *nāmi nṛ ca* (Pā. 6-4-6); the case-ending is acute by *nṛ cānyatarasyām* (Pā. 6-1-184)."
 
 **Pratipadārtha** *(p. 43)* — "**uṣaḥ** — O goddess Uṣas; **te** — your; **yāmeṣu** — at your comings (at the time of dawn); **ye sūrayaḥ** — those masters who know the greatness of giving (the generous); **dānāya** — for giving (wealth and the like); **manaḥ** — their mind; **prayuñjate** — direct (wish to give); **eṣāṃ nṛṇām** — of such men (who wish to give); **tat nāma** — that name known in the world as givers; **kaṇvatamaḥ** — the exceedingly wise; **kaṇvaḥ** — the sage Kaṇva; **atra aha** — at this very time of dawn; **gṛṇāti** — utters (praises)."
 
@@ -941,8 +941,8 @@
 - "The sense of the ṛk is somewhat difficult. Even so, it is not at all hard to understand the ṛṣi's intention."
 
 **Vyākaraṇa-prakriyā** *(pp. 44–45 — grammar pages, noted briefly)*
-- **gṛṇāti**: root *gṛ śabde*, *kryādi*; *kryādibhyaḥ śnā* (Pā. 3-1-81 as read) gives *śnā* as the *vikaraṇa*; third person singular *tip*; the *vikaraṇa* before a *sārvadhātuka*; *gṛ + nā + ti*; *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80 as read) shortens the root's vowel; *ṛvarṇān nasya ṇatvaṃ vācyam* (vārttika, as read) gives *ṇ* optionally for the *n* after *ṛ*: *gṛṇāti*; *tiṅ atiṅaḥ* gives the all-unaccented, since a finite verb stands in the *pāda*'s middle.
-- **nṛṇām**: the stem *nṛ*, masculine, ending in *ṛ*; the genitive plural *ām*; *hrasvanadyāpo nuṭ* (Pā. 7-1-54 as read) gives *nuṭ* to *ām* after a short-vowel stem; being *ṭit*, it comes at the front: *nṛ + nām*; *nāmi* (Pā. 6-4-3 as read) would lengthen the *aṅga* that ends in a vowel; *nṛ ca* (Pā. 6-4-6 as read) makes this lengthening optional for the stem *nṛ* before *nām*, and so here it is not made. *Anudāttau suppitau* would make the case-ending unaccented; but *nṛ cānyatarasyām* (Pā. 6-1-184 as read) makes the case-ending of a word ending in *nṛ* (and so on), beginning with a consonant, optionally acute; so the case-ending is acute; with the *nuṭ* added, the case-ending is a consonant-initial one; because the case-ending is acute, the word *nṛṇām* is end-acute. **|| 4 ||**
+- **gṛṇāti**: root *gṛ śabde*, *kryādi*; *kryādibhyaḥ śnā* (Pā. 3-1-81) gives *śnā* as the *vikaraṇa*; third person singular *tip*; the *vikaraṇa* before a *sārvadhātuka*; *gṛ + nā + ti*; *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80) shortens the root's vowel; *ṛvarṇān nasya ṇatvaṃ vācyam* (vārttika) gives *ṇ* optionally for the *n* after *ṛ*: *gṛṇāti*; *tiṅ atiṅaḥ* gives the all-unaccented, since a finite verb stands in the *pāda*'s middle.
+- **nṛṇām**: the stem *nṛ*, masculine, ending in *ṛ*; the genitive plural *ām*; *hrasvanadyāpo nuṭ* (Pā. 7-1-54) gives *nuṭ* to *ām* after a short-vowel stem; being *ṭit*, it comes at the front: *nṛ + nām*; *nāmi* (Pā. 9-4-3 as printed; for 6-4-3) would lengthen the *aṅga* that ends in a vowel; *nṛ ca* (Pā. 6-4-6) makes this lengthening optional for the stem *nṛ* before *nām*, and so here it is not made. *Anudāttau suppitau* would make the case-ending unaccented; but *nṛ cānyatarasyām* (Pā. 6-1-184) makes the case-ending of a word ending in *nṛ* (and so on), beginning with a consonant, optionally acute; so the case-ending is acute; with the *nuṭ* added, the case-ending is a consonant-initial one; because the case-ending is acute, the word *nṛṇām* is end-acute. **|| 4 ||**
 
 ---
 
