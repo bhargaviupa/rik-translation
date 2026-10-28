@@ -6259,42 +6259,104 @@ that is, "served by the deity named Bhaga; or served by all men with objects of 
 
 ---
 
-### Pages 260–264 — Sūkta 24, Rik 6 *(the Varuṇa riks begin)*
+### Page 260 (lower) — Sūkta 24, Rik 6 *(the Varuṇa riks begin)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नहि ते क्षत्रं न सहो न मन्युं वयश्चनामी पतयन्त आपुः ।
-> नेमा आपो अनिमिषं चरन्तीर्न ये वातस्य प्रमिनन्त्यभ्वम् ॥ ६ ॥
+> न॒हि ते॑ क्ष॒त्रं न सहो॒ न म॒न्युं वय॑श्च॒नामी प॒तय॑न्त आ॒पुः ।
+> नेमा आपो॑ अनिमि॒षं चर॑न्ती॒र्न ये वात॑स्य प्रमि॒नन्त्यभ्वं॑ ॥६॥
 
-*nahi te kṣatraṃ na saho na manyuṃ vayaś canāmī patayanta āpuḥ | nemā āpo animiṣaṃ carantīr na ye vātasya praminanty abhvam || 6 ||*
+> *na̱hi tḙ kṣa̱traṃ na saho̱ na ma̱nyuṃ vaya̭śca̱nāmī pa̱taya̭nta ā̱puḥ |*
+> *nemā āpo̭ animi̱ṣaṃ cara̭ntī̱rna ye vāta̭sya prami̱nantyabhva̭ṃ ||6||*
+>
+> *nahí te kṣatráṃ na saho ná manyúṃ váyaś canā́mī patáyanta āpúḥ |*
+> *nemā ā́po animiṣáṃ cárantīr ná ye vā́tasya praminánty ábhvaṃ ||6||*
 
-**॥ Padapāṭhaḥ ॥**
+*(Saṃhitā accents as printed; Pada unaccented. Line 1 and the first half of line 2 stand on p. 260 lower; the rest of line 2 is on p. 261.)*
 
-> नहि । ते । क्षत्रम् । न । सहः । न । मन्युम् । वयः । चन । अमी इति । पतयन्तः । आपुः ॥ न । इमाः । आपः । अनिऽमिषम् । चरन्तीः । न । ये । वातस्य । प्रऽमिनन्ति । अभ्वम् ॥ ६ ॥
+### Page 261 — Rik 6: Pada, bhāṣya
 
-*nahi | te | kṣatram | na | sahaḥ | na | manyum | vayaḥ | cana | amī iti | patayantaḥ | āpuḥ || na | imāḥ | āpaḥ | ani-miṣam | carantīḥ | na | ye | vātasya | pra-minanti | abhvam || 6 ||*
+**॥ Pada-pāṭhaḥ ॥**
+
+> नहि । ते । क्षत्रं । न । सहः । न । मन्युं । वयः । चन । अमी इति । पतयन्तः । आपुः ॥
+> न । इमाः । आपः । अनिऽमिषं । चरन्तीः । न । ये । वातस्य । प्रऽमिनन्ति । अभ्वं ॥६॥
+
+> *nahi | te | kṣatraṃ | na | sahaḥ | na | manyuṃ | vayaḥ | cana | amī iti | patayantaḥ | āpuḥ ||*
+> *na | imāḥ | āpaḥ | ani 'miṣaṃ | carantīḥ | na | ye | vātasya | pra 'minanti | abhvaṃ ||6||*
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(pp. 261–262)*
 
-> अथ सवित्रा प्रेरितः शुनःशेप एतदादिसूक्तशेषेणोत्तरेण च सूक्तेन वरुणं तुष्टाव । तथा च श्रूयते — तं सवितोवाच वरुणाय वै राज्ञे नियुक्तोऽसि तमेवोपधावेति स वरुणं राजानमुपससाराता उत्तराभिरेकत्रिंशता (ऐ. ब्रा. ७-१६) इति ॥ हे वरुण पतयन्तः प्रोड्डीयन्तः [?] अमी दृश्यमाना वयश्चन पक्षिणोऽपि ते क्षत्रं त्वदीयं शरीरबलं न ह्यापुः । नैव प्राप्ताः । तथा त्वद्दृशं शरीरबलं पक्षिणामपि नास्तीत्यर्थः । तथा सहस्त्वदीयं पराक्रमं तव सामर्थ्यमपि न प्राप्नुः । तथा मन्युं त्वदीयं कोपमपि न प्राप्नुः । त्वयि क्रुद्धे सति सोढुमशक्ता इत्यर्थः । अनिमिषं सर्वदा चरन्तीः प्रवाहरूपेण गच्छन्त्य आपस्त्वदीयं बलं न प्राप्नुः । वातस्य वायोर्ये गतिविशेषास्त्वदीयमभ्वं वेगं न प्रमिनन्ति न हिंसन्ति । अतिक्रमं कर्तुं न शक्ता इत्यर्थः । तेऽपि न प्राप्नुवन्ति पूर्वत्रान्वयः ॥ पतयन्तः । पत गतौ । चुरादिरदन्तः । लटः शतृ । शप् । गुणायादेशौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे णिचः स्वरः । आपुः । आप्लृ व्याप्तौ । लिट्झि । द्विर्भावहलादिशेषौ । अत आदेः (पा. ७-४-७०) इत्यादिदीर्घः । अत्र न सहो न मन्युमित्यादिभिरापुरित्यस्य सम्बन्धात्तदपेक्षया प्राथम्याच्चादि[लोपे विभाषा] लोपे विभाषेति [?] प्रथमा तिङ्भक्तिर्न निहन्यते । चरन्तीः । नाभ्यस्तेति पूर्वसवर्णदीर्घः । प्रमिनन्ति । मीञ् हिंसायाम् । क्र्यादिभ्यः श्ना । श्नाभ्यस्तयोरातः (पा. ६-४-११२) इत्याकारलोपः । मीनातेर्निगमे (पा. ६-१-४१) इति ह्रस्वत्वम् । प्रत्ययस्वरः । तिङि चोदात्तवति (पा. ८-१-७१) इति गतिरनुदात्तः । यद्वृत्तयोगादनिघातः ॥
+*As printed: एकविंशता (p. 263, in the Special Topics, has एकत्रिंशता); उपससारात; आप्लृ गतौ; लिट्युसि; त्यादिभ्यः श्ना (the Kannada grammar on p. 263 has क्र्यादि); पा. ७-३-८१ for the मीनातेर्निगमे rule. The bhāṣya ends with ॥६॥ on p. 262.*
 
-*atha savitrā preritaḥ śunaḥśepa etadādisūktaśeṣeṇottareṇa ca sūktena varuṇaṃ tuṣṭāva | tathā ca śrūyate — taṃ savitovāca varuṇāya vai rājñe niyukto 'si tam evopadhāveti sa varuṇaṃ rājānam upasasārātā uttarābhir ekatriṃśatā (ai. brā. 7-16) iti || he varuṇa patayantaḥ proḍḍīyantaḥ [?] amī dṛśyamānā vayaś cana pakṣiṇo 'pi te kṣatraṃ tvadīyaṃ śarīrabalaṃ na hy āpuḥ | naiva prāptāḥ | tathā tvaddṛśaṃ śarīrabalaṃ pakṣiṇām api nāstīty arthaḥ | tathā sahas tvadīyaṃ parākramaṃ tava sāmarthyam api na prāpnuḥ | tathā manyuṃ tvadīyaṃ kopam api na prāpnuḥ | tvayi kruddhe sati soḍhum aśaktā ity arthaḥ | animiṣaṃ sarvadā carantīḥ pravāharūpeṇa gacchantya āpas tvadīyaṃ balaṃ na prāpnuḥ | vātasya vāyor ye gativiśeṣās tvadīyam abhvaṃ vegaṃ na praminanti na hiṃsanti | atikramaṃ kartuṃ na śaktā ity arthaḥ | te 'pi na prāpnuvanti pūrvatrānvayaḥ || patayantaḥ | pata gatau | curādir adantaḥ | laṭaḥ śatṛ | śap | guṇāyādeśau | adupadeśāl lasārvadhātukānudāttatve ṇicaḥ svaraḥ | āpuḥ | āplṛ vyāptau | liṭ jhi | dvirbhāvahalādiśeṣau | ata ādeḥ (pā. 7-4-70) ity ādidīrghaḥ | atra na saho na manyum ity ādibhir āpur ity asya sambandhāt tadapekṣayā prāthamyāc cādi[lope vibhāṣā] lope vibhāṣeti [?] prathamā tiṅbhaktir na nihanyate | carantīḥ | nābhyasteti pūrvasavarṇadīrghaḥ | praminanti | mīñ hiṃsāyām | kryādibhyaḥ śnā | śnābhyastayor ātaḥ (pā. 6-4-112) ity ākāralopaḥ | mīnāter nigame (pā. 6-1-41) iti hrasvatvam | pratyayasvaraḥ | tiṅi codāttavati (pā. 8-1-71) iti gatir anudāttaḥ | yadvṛttayogād anighātaḥ ||*
+> अथ सवित्रा प्रेरितः शुनःशेप एतदादिसूक्तशेषेणोत्तरेण च सूक्तेन वरुणं तुष्टाव । तथा च श्रूयते । तं सवितोवाच वरुणाय वै राज्ञे नियुक्तोऽसि तमेवोपधावेति स वरुणं राजानमुपससारात उत्तराभिरेकविंशता । ऐ. ब्रा. ७-१६ । इति । हे वरुण पतयन्तः प्रौढे वियत्युत्पतन्तोऽमी दृश्यमाना वयश्चन श्येनादयः पक्षिणोऽपि ते क्षत्रं त्वदीयं शरीरबलं न ह्यापुः । नैव प्राप्ताः । त्वत्सदृशं शरीरबलं पक्षिणामपि नास्तीत्यर्थः । तथा सहस्त्वदीयं पराक्रमं तव सामर्थ्यमपि न प्रापुः । तथा मन्युं त्वदीयं कोपमपि न प्रापुः । त्वयि क्रुद्धे सति सोढुमशक्ता इत्यर्थः । अनिमिषं सर्वदा चरन्तीः प्रवाहरूपेण गच्छन्त्य आपस्त्वदीयं बलं न प्रापुः । वातस्य वायोर्ये गतिविशेषास्त्वदीयमभ्वं वेगं न प्रमिनन्ति न हिंसन्ति । अतिक्रमं कर्तुं न शक्ता इत्यर्थः । तेऽपि न प्रापुरिति पूर्वात्रान्वयः ॥ पतयन्तः । पत गतौ । चुरादिरदन्तः । लटः शतृ । शप् । गुणायादेशौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे णिचः स्वरः । आपुः । आप्लृ गतौ । लिट्युसि । द्विर्भावहलादिशेषौ । अत आदेः । पा. ७-४-७० । इत्यात्वं । अत्र न सहो न मन्युमित्यादिभिरापुरित्यस्य सम्बन्धात्तदपेक्षया प्राथम्याच्चादि–
 
-**Translation:** "Then, impelled by Savitṛ, Śunaḥśepa praised Varuṇa with the rest of this sūkta and with the next sūkta. So it is heard: 'Savitṛ said to him: "You are assigned to king Varuṇa; run to him." He went to king Varuṇa with the thirty-one [riks] from here on' (Ai. Brā. 7-16). O Varuṇa! These birds (*vayaḥ cana*) that fly (*patayantaḥ*) — visible — have not (*na … āpuḥ*) attained your *kṣatra* — your bodily strength; not at all. Even the birds have no bodily strength like yours. So too they do not attain your *sahas* — power, prowess; nor your *manyu* — wrath: when you are angry they are unable to endure it. The waters that move constantly (*animiṣam*) in the form of currents do not attain your strength. The various motions of the wind (*vāta*) do not surpass (*na praminanti*) your *abhva* — your speed — they cannot exceed it; they too do not reach [it] — the construction goes with the preceding. *Patayantaḥ*: *pata gatau*, a *curādi* root in *a*; *śatṛ*; *śap*; guṇa and *ay*; accent of *ṇic*. *Āpuḥ*: *āplṛ vyāptau*, *liṭ*, *jhi* → *us*; reduplication; *ata ādeḥ* (P. 7-4-70) lengthens the initial *a*. Because *āpuḥ* connects with *na saho na manyum* … and takes the priority of the first member, the first finite verb is not lowered. *Carantīḥ*: [the *jas* is lengthened] by *prakṛtibhāva*… *Praminanti*: *mīñ hiṃsāyām*; *śnā* after the *kryādi* class; loss of *ā* by P. 6-4-112; shortening by P. 6-1-41 [*mīnāter nigame*]; the suffix accent; *pra* as a *gati* is anudātta by P. 8-1-71 [?] before a verb with an acute; no lowering, since it follows a *yat*-word." *(Grammar pages 263–264, noted briefly: the words treated are* patayantaḥ *[*pata gatau*, here taken as a *curādi* root with *ṇic*; *śatṛ*; *num*; *ṇic*'s accent],* āpuḥ *[*āp* + *liṭ* + *jhi* → *us*, P. 3-4-82; *ṛ*-substitute lost…; the lengthening of the initial *a* by P. 7-4-70; *sarvānudātta* by P. 8-1-28 *tiṅ atiṅaḥ* is not applied because of the preceding relative/negative words — the argument that *āpuḥ* is joined with several clauses and is the earliest of them in connection],* carantīḥ *[*cara* + *śatṛ* + *ṅīp*; *jas* lengthened by *vā chandasi* P. 6-1-106] and* praminanti *[*mīñ hiṃsāyām*, *śnā*, loss of *ā* by P. 6-4-112 *śnābhyastayor ātaḥ*; the root vowel shortened by P. 6-1-… in the Veda; the *gati* *pra* is lowered because the following *tiṅ* has an acute — P. 8-1-71 *tiṅi codāttavati* — though not applying after the *yat*-word, P. 8-1-66]; numerals as read, pointers only.)*
+> *atha savitrā preritaḥ śunaḥśepa etadādisūktaśeṣeṇottareṇa ca sūktena varuṇaṃ tuṣṭāva | tathā ca śrūyate | taṃ savitovāca varuṇāya vai rājñe niyukto 'si tamevopadhāveti sa varuṇaṃ rājānamupasasārāta uttarābhirekaviṃśatā | ai. brā. 7-16 | iti | he varuṇa patayantaḥ prauḍhe viyatyutpatanto 'mī dṛśyamānā vayaścana śyenādayaḥ pakṣiṇo 'pi te kṣatraṃ tvadīyaṃ śarīrabalaṃ na hyāpuḥ | naiva prāptāḥ | tvatsadṛśaṃ śarīrabalaṃ pakṣiṇāmapi nāstītyarthaḥ | tathā sahastvadīyaṃ parākramaṃ tava sāmarthyamapi na prāpuḥ | tathā manyuṃ tvadīyaṃ kopamapi na prāpuḥ | tvayi kruddhe sati soḍhumaśaktā ityarthaḥ | animiṣaṃ sarvadā carantīḥ pravāharūpeṇa gacchantya āpastvadīyaṃ balaṃ na prāpuḥ | vātasya vāyorye gativiśeṣāstvadīyamabhvaṃ vegaṃ na praminanti na hiṃsanti | atikramaṃ kartuṃ na śaktā ityarthaḥ | te 'pi na prāpuriti pūrvātrānvayaḥ || patayantaḥ | pata gatau | curādiradantaḥ | laṭaḥ śatṛ | śap | guṇāyādeśau | adupadeśāllasārvadhātukānudāttatve ṇicaḥ svaraḥ | āpuḥ | āplṛ gatau | liṭyusi | dvirbhāvahalādiśeṣau | ata ādeḥ | pā. 7-4-70 | ityātvaṃ | atra na saho na manyumityādibhirāpurityasya sambandhāttadapekṣayā prāthamyāccādi–*
 
-**॥ Prati-padārthaḥ ॥** *(p. 262)* **(हे वरुण) ((he varuṇa))** — O Varuṇa | **पतयन्तः (patayantaḥ)** — flying | **अमी (amī)** — these [visible] | **वयः चन (vayaḥ cana)** — even birds | **ते (te)** — your | **क्षत्रम् (kṣatram)** — bodily strength | **नहि आपुः (nahi āpuḥ)** — have not attained | **(तथा) सहः (tathā) sahaḥ** — [your] valour | **न (na)** — [have not attained] | **मन्युम् (manyum)** — wrath | **न (na)** — [nor] | **अनिमिषम् (animiṣam)** — always | **चरन्तीः (carantīḥ)** — flowing | **इमाः आपः (imāḥ āpaḥ)** — these waters | **न (na)** — [your strength] have not attained | **वातस्य (vātasya)** — of the wind | **ये (ye)** — which motions | **अभ्वम् (abhvam)** — [your] speed | **न प्रमिनन्ति (na praminanti)** — do not surpass.
+### Page 262 — Rik 6: bhāṣya (end), word-meanings, overall sense, English, Special Topics
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! Neither these birds that fly, nor the waters that flow ever, have obtained your bodily strength or valour; they cannot withstand your wrath. The wind's speed cannot exceed your speed; the wind has no strength like yours.
+> –लोपे विभाषेति प्रथमा तिङ्भक्तिर्न निहन्यते । चरन्तीः । वा छन्दसीति पूर्वसवर्णदीर्घः । प्रमिनन्ति । मीञ् हिंसायां । त्यादिभ्यः श्ना । श्नाभ्यस्तयोरातः । पा. ६-४-११२ । इत्याकारलोपः । मीनातेर्निगमे । पा. ७-३-८१ । इति ह्रस्वत्वं । प्रत्ययस्वरः । तिङि चोदात्तवति । पा. ८-१-७१ । इति गतिरनुदात्तः । यद्वृत्तयोगादनिघातः ॥६॥
 
-**॥ English Translation ॥** *(as printed in the source)*
+*Gist:* Then, impelled by Savitṛ, Śunaḥśepa praised Varuṇa with the rest of this sūkta and with the next; the Aitareya Brāhmaṇa (7-16) says Savitṛ told him "you are assigned to king Varuṇa; run to him", and he went to Varuṇa with the ṛks that follow. O Varuṇa, these visible birds (hawks and the like) flying up in the lofty sky have not attained your bodily strength, power or wrath; the ever-flowing waters have not attained your strength; the motions of the wind do not surpass your speed. The grammatical tail notes *patayantaḥ* (a *curādi* root in *a*; *śatṛ*; *śap*; guṇa and *ay*; the accent of *ṇic*), *āpuḥ* (reduplication; lengthening of the reduplicate by *ata ādeḥ*, Pā. 7-4-70; not lowered because it comes first in the sense), *carantīḥ* (*pūrvasavarṇadīrgha* by *vā chandasi*) and *praminanti* (*śnā*; loss of *ā*, Pā. 6-4-112; shortening, Pā. 7-3-81 as printed; the accent of *pra* lowered by Pā. 8-1-71; no lowering of the verb, by the connection with a *yat*-word).
+
+**॥ Prati-padārthaḥ ॥**
+
+(**हे वरुण (he varuṇa)** — O Varuṇa) | **पतयन्तः (patayantaḥ)** — flying | **अमी (amī)** — these (visible) | **वयः चन (vayaḥ cana)** — birds, too | **ते (te)** — your | **क्षत्रं (kṣatraṃ)** — bodily strength | **नहि आपुः (nahi āpuḥ)** — have not obtained | (**तथा (tathā)** — likewise) **सहः (sahaḥ)** — (your) prowess | **न (आपुः) (na (āpuḥ))** — have not obtained | **मन्युं (manyuṃ)** — wrath | **न (na)** — have not obtained | **अनिमिषं (animiṣaṃ)** — always | **चरन्तीः (carantīḥ)** — flowing | **आपः (āpaḥ)** — waters | **न (na)** — have not obtained (your strength) | **वातस्य (vātasya)** — of the wind | **ये (ye)** — which motion | **अभ्वं (abhvaṃ)** — (your) speed | **न प्रमिनन्ति (na praminanti)** — do not injure (do not surpass).
+
+**॥ Bhāvārthaḥ ॥**
+
+O Varuṇa, neither these birds that fly above nor the waters that always flow have obtained your bodily strength or your prowess. They cannot withstand your wrath. The motion of the wind too cannot surpass your speed. The wind has no strength like yours.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O Varuna, these birds that are flying have not obtained your strength or your power; they are not able to endure your wrath; these waters that flow without interruption or the winds have not surpassed your speed.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 262–263)* The chief import: O Varuṇa! Your strength and power are immeasurable. In the *antarikṣa* the birds that fly have not your swiftness and the like; nor your strength; they cannot stand up against your wrath. Even the waters that flow constantly — the currents of rivers — and the wind that blows swiftly in the *antarikṣa* cannot vie with you in speed.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-Śunaḥśepa, having praised Savitṛ with the three riks beginning *abhi tvā deva savitaḥ*, with the favour of Savitṛ who was thus pleased, praises Varuṇa with the remaining ten riks of this sūkta and with the whole of the following sūkta — in all thirty-one riks. On this the Aitareya Brāhmaṇa has the sentence *taṃ savitovāca varuṇāya vai rājñe niyukto 'si tam evopadhāveti sa varuṇaṃ rājānam upasasārāta uttarābhir ekatriṃśatā* (Ai. Brā. 7-16).
+**The chief import** — O Varuṇa, your power and might are boundless. Even the birds that fly in the sky have neither the swift-going and other qualities that you have, nor strength. They cannot stand against your wrath. Even the water that flows constantly, that is, the current of the river, and the wind that blows swiftly in the sky cannot match you in speed.
 
-**क्षत्रम्** — *tvadīyaṃ śarīrabalam* — your bodily strength, power (*bodily strength*). **सहः** — *tvadīyaṃ parākramam* — your prowess, valour (*prowess &c.*). **मन्युम्** — wrath; the sense is that they have no power to stand against it. **अनिमिषं चरन्तीः** — *sarvadā carantyaḥ pravāharūpeṇa gacchantyaḥ*: always moving, flowing as streams; flowing unceasingly at all times. **न प्रमिनन्ति अभ्वम्** — *vegaṃ na hiṃsanti*: they do not surpass your speed; they cannot overtake.
+Śunaḥśepa praised Savitṛ with the three ṛks beginning *abhi tvā deva savitaḥ*; then, by the prompting of Savitṛ, pleased by that praise, he praises Varuṇa with the remaining ten
+
+### Page 263 — Rik 6: Special Topics (end), grammar
+
+ṛks of this sūkta and the twenty-one ṛks of the next sūkta, thirty-one ṛks in all. On this matter there is this sentence of the Aitareya Brāhmaṇa (Ai. Brā. 7-16):
+
+> तं सवितोवाच वरुणाय वै राज्ञे नियुक्तोऽसि तमेवोपधावेति स वरुणं राजानमुपससारात उत्तराभिरेकत्रिंशता ॥
+
+> *taṃ savitovāca varuṇāya vai rājñe niyukto 'si tamevopadhāveti sa varuṇaṃ rājānamupasasārāta uttarābhirekatriṃśatā ||*
+
+(The quotation as printed here has एकत्रिंशता; the bhāṣya on p. 261 has एकविंशता.) The Brāhmaṇa says that Savitṛ told him: "You are assigned to king Varuṇa; run to him"; and he went to king Varuṇa with the ṛks that follow.
+
+**क्षत्रं — त्वदीयं शरीरबलं (kṣatraṃ — tvadīyaṃ śarīrabalaṃ)** — your bodily strength; strength, power: "bodily strength."
+
+**सहः — त्वदीयं पराक्रमं (sahaḥ — tvadīyaṃ parākramaṃ)** — your prowess, heroism: "valour, prowess &c."
+
+**मन्युं — कोपं (manyuṃ — kopaṃ)** — wrath (the sense being that they have no power to face it).
+
+**अनिमिषं, चरन्तीः — सर्वदा चरन्तीः प्रवाहरूपेण गच्छन्तीः (animiṣaṃ, carantīḥ — sarvadā carantīḥ pravāharūpeṇa gacchantīḥ)** — flowing at all times without break, in the form of a current: "flowing unceasingly."
+
+**न प्रमिनन्ति अभ्वं — वेगं न हिंसन्ति । न प्राप्नुवन्ति (na praminanti abhvaṃ — vegaṃ na hiṃsanti | na prāpnuvanti)** — they cannot surpass your speed; that is, they cannot equal it.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**पतयन्तः (patayantaḥ)** — the root is read in the print as *patḷ* [?] *gatau*, a root of the 10th class, ending in *a*; after it the *svārthika ṇic*, then *laṭ*, *śatṛ* and *śap*. *pata + i + a + at*; by *ato lopaḥ* the *a* of the root is dropped (the sūtra number is not printed). Guṇa and the *ay*-substitution give *pataya + at*; *pararūpa*; nominative plural *jas*; because the ending is *ugit*, the augment *num*; then *ruttva* and visarga. Here *śap* is anudātta. Because (the root) ends in *a* in the *upadeśa*, *at* is anudātta, and the accent of *ṇic* remains.
+
+**आपुः (āpuḥ)** — *āplṛ vyāptau*; *liṭ*; *jhi*; by *parasmaipadānāṃ ṇalatususthalathusaṇalvamāḥ* (Pā. Sū. 3-4-82) the *jhi* becomes *us*; reduplication: *āp + āp + us*; the *p* of the reduplicate is dropped; by *hrasvaḥ* (Pā. Sū. 7-4-59) the reduplicate is shortened; by *ata ādeḥ* (Pā. Sū. 7-4-70), a long vowel comes to the first *a* of the reduplicate. *Savarṇadīrgha*; *ruttva* and visarga. Again, the verb *āpuḥ* is connected with each of the following sentences:
+
+> वयश्चन क्षत्रं नापुः । वयश्चन सहो नापुः । वयश्चन ते मन्युं नापुः । अनिमिषं चरन्तीः इमा आपः ते क्षत्रं नापुः ॥
+
+> *vayaścana kṣatraṃ nāpuḥ | vayaścana saho nāpuḥ | vayaścana te manyuṃ nāpuḥ | animiṣaṃ carantīḥ imā āpaḥ te kṣatraṃ nāpuḥ ||*
+
+(*The birds have not obtained your strength; the birds have not obtained your prowess; the birds have not obtained your wrath; these ever-flowing waters have not obtained your strength.*) This *āpuḥ* is uttered first, before the *āpuḥ* connected with the later sentences; therefore, by *cādilope vibhāṣā* (Pā. Sū. 8-1-63), it does not become anudātta.
+
+**चरन्तीः (carantīḥ)** — *vā chandasi* (Pā. Sū. 6-1-106): in the Veda, a *pūrvasavarṇadīrgha* comes optionally, where a long (vowel's) *jas*, or letters of the *ic* pratyāhāra, are present (as printed: *dīrghada jas athavā ic pratyāhārada varṇagaḷu*); hence *pūrvasavarṇadīrgha*.
+
+**प्रमिनन्ति (praminanti)** — *mīñ hiṃsāyāṃ*, of the *kryādi* class; *śnā* is the *vikaraṇa* suffix. By *śnābhyastayor ātaḥ* (Pā. Sū. 6-4-112), when a *sārvadhātuka* suffix that is *kit* or *ṅit* follows, the *śnā* suffix and
+
+### Page 264 (upper) — Rik 6: grammar (end)
+
+the *abhyasta* (forms) lose their *ā*; so the *ā* of the *śnā* suffix is dropped. *Laṭ*, *jhi*, *ant*-substitution; the preverb *pra*: *pra + mī + n + anti*. By *mīnāter nigame* (Pā. Sū. 7-3-81, as printed), in the Veda, when a suffix that is *śit* follows, the root *mīñ* is shortened; hence the shortening. The suffix accent: by *tiṅi codāttavati* (Pā. Sū. 8-1-71), when a *tiṅanta* that has an udātta follows, the *gati* before it becomes anudātta; hence *pra* is anudātta. Because of *ye vātasya* there is a connection with a *yat*-word, and so the *sarvānudātta* does not come. ॥6॥
+
+*(An ornament follows.)*
 
 ---
 
