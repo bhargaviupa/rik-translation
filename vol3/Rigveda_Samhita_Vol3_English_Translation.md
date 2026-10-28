@@ -6021,44 +6021,91 @@ The special explanation given under the previous ṛk applies to this ṛk too.
 
 ---
 
-### Pages 253–256 — Sūkta 24, Rik 3
+### Page 253 (lower) — Sūkta 24, Rik 3
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अभि त्वा देव सवितरीशानं वार्याणाम् ।
-> सदावन्भागमीमहे ॥ ३ ॥
-
-*abhi tvā deva savitar īśānaṃ vāryāṇām | sadāvan bhāgam īmahe || 3 ||*
-
-**॥ Padapāṭhaḥ ॥**
-
-> अभि । त्वा । देव । सवितः । ईशानम् । वार्याणाम् ॥ सदा । अवन् । भागम् । ईमहे ॥ ३ ॥
-
-*abhi | tvā | deva | savitaḥ | īśānam | vāryāṇām || sadā | avan | bhāgam | īmahe || 3 ||*
-
-**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 253–254)*
-
-> प्रथमे छन्दोमे वैश्वदेवशस्त्रे अभि त्वा देव सवितरिति सावित्रस्तृचः सूक्तस्थानीयः । अथ छन्दोमा इति खण्डेऽभि त्वा देव सवितः प्रेताम् [?] यज्ञस्य शंभुवा (आ. ८-८ [?]) इति सूत्रितम् ॥ अभित्वेत्येषाग्निमन्थने विनियुक्ता । प्रातर्वैश्वदेव्यामिति खण्डेऽभि त्वा देव सवितर्महे द्यौः पृथिवी च नः (आ. २-१६) इति सूत्रितम् । श्रूयते च — अभि त्वा देव सवितरिति सावित्रीमन्वाह (ऐ. ब्रा. १-१६) इति । तथा प्रवर्ग्येऽप्येषा विनियुक्ता । अथोत्तरमिति खण्डेऽभि त्वा देव सवितः समीप वत्सं न मातृभिः [?] (आ. ४-२) इति सूत्रितम् । तथा ग्रावस्तोत्रेऽप्येषा । एतस्मिन्काले ग्रावस्तुदिति खण्डे मध्यमस्वरेणेदं सवनमभि त्वा देव सवितः (आ. ५-१३) इति सूत्रितम् ॥
+> अ॒भि त्वा॑ देव सवित॒रीशा॑नं॒ वार्या॑णां ।
+> सदा॑वन्भा॒गमी॑महे ॥३॥ [accent ?]
 >
-> अथाग्निना प्रेरितः सन्सवितारमभि क्षेत्येतेन तृचेन प्रार्थयते । तथैव श्रूयते — तमग्निरुवाच सविता वै प्रसवानामीशे तमेवोपधावेति स सवितारमुपससाराभि त्वा देव सवितरित्येतेन तृचेन (ऐ. ब्रा. ७-१६) इति ॥ हे सदावन् सदा सर्वदा रक्षक हे सवितर्देव वार्याणां वरणीयानां धनानामीशानं स्वामिनं त्वां प्रति भागं भजनीयं धनमभि सर्वतः ईमहे । याचामहे ॥ ईशानम् । ईश ऐश्वर्ये लटः शानच् । ताच्छील्यादि [?] … लसार्वधातुकानुदात्तत्वे धातुस्वरः । वार्याणाम् । वृञ् संभक्तौ । ऋहलोर्ण्यत् । ईडवन्दवृशंसदुहां ण्यतः (पा. ६-१-२१४) । अवन् । आमन्त्रितनिघातः । भागम् । कर्षात्वत इति घञोऽन्त उदात्तः ॥
+> *abhí tvā deva savitar ī́śānaṃ vā́ryāṇāṃ |*
+> *sádāvan bhāgám īmahe ||3||* [accent ?]
 
-*prathame chandome vaiśvadevaśastre abhi tvā deva savitar iti sāvitras tṛcaḥ sūktasthānīyaḥ | atha chandomā iti khaṇḍe 'bhi tvā deva savitaḥ pretām [?] yajñasya śaṃbhuvā (ā. 8-8 [?]) iti sūtritam || abhitvety eṣāgnimanthane viniyuktā | prātarvaiśvadevyām iti khaṇḍe 'bhi tvā deva savitar mahe dyauḥ pṛthivī ca naḥ (ā. 2-16) iti sūtritam | śrūyate ca — abhi tvā deva savitar iti sāvitrīm anvāha (ai. brā. 1-16) iti | tathā pravargye 'py eṣā viniyuktā | athottaram iti khaṇḍe 'bhi tvā deva savitaḥ samīpa vatsaṃ na mātṛbhiḥ [?] (ā. 4-2) iti sūtritam | tathā grāvastotre 'py eṣā | etasmin kāle grāvastud iti khaṇḍe madhyamasvareṇedaṃ savanam abhi tvā deva savitaḥ (ā. 5-13) iti sūtritam || athāgninā preritaḥ san savitāram abhi kṣety etena tṛcena prārthayate | tathaiva śrūyate — tam agnir uvāca savitā vai prasavānām īśe tam evopadhāveti sa savitāram upasasārābhi tvā deva savitar ity etena tṛcena (ai. brā. 7-16) iti || he sadāvan sadā sarvadā rakṣaka he savitar deva vāryāṇāṃ varaṇīyānāṃ dhanānām īśānaṃ svāminaṃ tvāṃ prati bhāgaṃ bhajanīyaṃ dhanam abhi sarvataḥ īmahe | yācāmahe || īśānam | īśa aiśvarye laṭaḥ śānac | tācchīlyādi [?] … lasārvadhātukānudāttatve dhātusvaraḥ | vāryāṇām | vṛñ saṃbhaktau | ṛhaloṛ ṇyat | īḍavandavṛśaṃsaduhāṃ ṇyataḥ (pā. 6-1-214) | avan | āmantritanighātaḥ | bhāgam | karṣātvata iti ghañaḥ anta udāttaḥ ||*
+*(Strokes over त्वा, शा and र्या; bars under अ, त (सवित) and नं. Line 2: strokes over दा and मी; a bar under the conjunct न्भा (read as भा॒; it may stand under व [accent ?]).)*
 
-**Translation:** "In the first *chandoma*, in the *Vaiśvadeva-śastra*, the Savitṛ triplet *abhi tvā deva savitaḥ* stands in the place of the *sūkta*; so it is laid down in the section *atha chandomāḥ* (Āś. [8-8] [?]). The rik *abhi tvā* is also applied at the kindling of fire by friction: in the section *prātarvaiśvadevyām*, '*abhi tvā deva savitar mahe dyauḥ pṛthivī ca naḥ*' (Āś. 2-16); and it is heard: 'with *abhi tvā deva savitaḥ* he recites the Sāvitrī' (Ai. Brā. 1-16). It is applied also in the Pravargya (Āś. 4-2 [?]) and at the Grāvastotra (Āś. 5-13). Then, impelled by Agni, [Śunaḥśepa] prays to Savitṛ with this triplet; so it is heard: 'Agni said to him, "Savitṛ rules over the impulses; run to him." He went to Savitṛ with the triplet *abhi tvā deva savitaḥ*' (Ai. Brā. 7-16). O ever-protecting (*sadāvan*) divine Savitṛ! We ask (*īmahe*) of you — the lord (*īśāna*) of things to be chosen (*vāryāṇām*) — for a share (*bhāgam*), a wealth to be enjoyed, from every side. *Īśānam*: *īśa aiśvarye*, the participle *śānac* [with the sense of habit] … *Vāryāṇām*: *vṛñ saṃbhaktau* + *ṇyat*; accent by P. 6-1-214. *Avan*: the vocative's accent is lowered. *Bhāgam*: acute on the end by the *ghañ* rule *karṣātvataḥ*." *(Grammar page 256, noted briefly: the words treated are* vāryāṇām *[*vṛñ saṃbhaktau* + *ṇyat* by P. 3-1-124 *ṛhaloṛ ṇyat*; vṛddhi of the *ṛ* → *ār*, P. 7-2-115; accent of the first syllable of verbs *īḍ, vand, vṛ, śaṃs, duh* with *ṇyat*, P. 6-1-214] and* bhāgam *[*bhaja sevāyām* + *ghañ*, P. 3-3-18 *halaś ca*; guṇa/vṛddhi; *kutva* P. 7-3-52 *cajoḥ ku ghiṇṇyatoḥ*; the accent of a *ghañ*-final derived from a root with a long *a*, P. 6-1-159?]; numerals as read, pointers only.)*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 254)* **सदावन् (sadāvan)** — O ever-protecting | **सवितः देव (savitaḥ deva)** — O deity Savitṛ | **वार्याणाम् (vāryāṇām)** — of the wealth to be chosen [of the things desired] | **ईशानम् (īśānam)** — the lord [you] | **भागम् (bhāgam)** — the wealth to be enjoyed | **अभि ईमहे (abhi īmahe)** — we ask.
+> अभि । त्वा । देव । सवितः । ईशानं । वार्याणां ।
+> सदा । अवन् । भागं । ईमहे ॥३॥
+>
+> *abhi | tvā | deva | savitaḥ | īśānaṃ | vāryāṇāṃ |*
+> *sadā | avan | bhāgaṃ | īmahe ||3||*
 
-**॥ Bhāvārthaḥ ॥** O ever-protecting Savitṛ, lord of wealth! We ask of you for the wealth that we long for.
+**॥ Sāyaṇa-bhāṣyam ॥**
 
-**॥ English Translation ॥** *(as printed in the source)*
+> प्रथमे छन्दोमे वैश्वदेवशस्त्रे अभि त्वा देव सवितरिति सावित्रस्तृचः सूक्तस्थानीयः । अथ छन्दोमा इति खण्डेऽभि त्वा देव सवितः प्रेतां यज्ञस्य शंभुवा ।
+>
+> *prathame chandome vaiśvadevaśastre abhi tvā deva savitariti sāvitrastṛcaḥ sūktasthānīyaḥ | atha chandomā iti khaṇḍe 'bhi tvā deva savitaḥ pretāṃ yajñasya śaṃbhuvā |*
 
-> Divine and ever protecting Savitri, the lord of all that is desirable, we ask for wealth-
+### Page 254 — Rik 3: bhāṣya (continued), word-meanings, overall sense, English
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 254–255)* **Application.** In the *Vaiśvadeva-śastra* of the *prathama-chandoma*, the triplet *abhi tvā deva savitaḥ*, with the Savitṛ deity, is to be recited as the *śastra* mantra; Āśvalāyana's Śrauta-sūtra says in the section *atha chandomāḥ* — *abhi tvā deva savitaḥ* (Ṛ. Saṃ. 1-24-3) *pretāṃ yajñasya śaṃbhuvā* (Ṛ. Saṃ. [3-6-?]) (Āś. [8-8]). When fire is kindled by friction of the two *araṇis* at the beginning of a sacrifice this rik is also to be used: in the section *prātarvaiśvadevam*, the sūtra *abhi tvā deva savitaḥ* (Ṛ. Saṃ. 1-24-3) *mahī dyauḥ pṛthivī ca naḥ* (Ṛ. Saṃ. 1-22-13) is explained (Āś. 2-16); and the Aitareya Brāhmaṇa has the sentence *abhi tvā deva savitar iti sāvitrīm anvāha* (Ai. Brā. 1-16). It is also to be used in the *pravargya* sacrifice, as Āśvalāyana's section *athottaram* shows with the sūtra *abhi tvā deva savitaḥ, samīpa [?] vatsaṃ na mātṛbhiḥ* (Ṛ. Saṃ. [9-?]) (Āś. 4-2); and in the *grāvastotra* — the recitation in praise of the pressing stones used for pressing the soma-juice — in the section *grāvastut* the sūtra *madhyamasvareṇedaṃ savanam abhi tvā deva savitaḥ* is cited (Āś. 5-13).
+*As printed: "अ. ४-७" (अ. for आ., the Āśvalāyana reference).*
 
-Śunaḥśepa, having approached Agni and praised him, is told to praise Savitṛ and does so with the three riks beginning *abhi tvā deva savitaḥ*; in this rik and the next he prays to Savitṛ for wealth and the like. It is curious that Śunaḥśepa — bound to the post of sacrifice, in the grip of death — should ask for wealth, not for his freedom.
+> आ. ८-९ । इति सूत्रितं ॥ अभित्वेत्येषाग्निमन्थनेऽपि विनियुक्ता । प्रातर्वैश्वदेव्यामिति खण्डेऽभि त्वा देव सवितर्मही द्यौः पृथिवी च नः । आ. २-१६ । इति सूत्रितं । श्रूयते च । अभि त्वा देव सवितरिति सावित्रीमन्वाह । ऐ. ब्रा. १-१६ । इति ॥ तथा प्रवर्ग्येऽप्येषा विनियुक्ता । अथोत्तरमिति खण्डेऽभि त्वा देव सवितः समी वत्सं न मातृभिः । अ. ४-७ । इति सूत्रितं ॥ तथा ग्रावस्तोत्रेऽपि । एतस्मिन्काले ग्रावस्तुदिति खण्डे मध्यमस्वरेणेदं सवनमभि त्वा देव सवितः । आ. ५-१२ । इति सूत्रितं ॥
+> अथाग्निना प्रेरितः सन्सवितारमभि त्वेत्यनेन तृचेन प्रार्थयते । तथैव श्रूयते । तमग्निरुवाच सविता वै प्रसवानामीशे तमेवोपधावेति स सवितारमुपससाराभि त्वा देव सवितरित्येतेन तृचेन । ऐ. ब्रा. ७-१६ । इति । हे सदावन् सदा सर्वदा रक्षक हे सवितर्देव वार्याणां वरणीयानां धनानामीशानं स्वामिनं त्वां प्रति भागं भजनीयं धनमभि सर्वत ईमहे । याचामहे ॥
+> ईशानं । ईश ऐश्वर्ये लटः शानच् । तास्यनुदात्तेदिति लसार्वधातुकानुदात्तत्वे धातुस्वरः । वार्याणां । वृञ् संभक्तौ । ऋहलोर्ण्यत् । ईडवन्देत्यादिनाद्युदात्तत्वं । अवन् । आमन्त्रितनिघातः । भागं । कर्षात्वत इति घञोऽन्त उदात्तः ॥
+>
+> *ā. 8-9 | iti sūtritaṃ || abhitvetyeṣāgnimanthane 'pi viniyuktā | prātarvaiśvadevyāmiti khaṇḍe 'bhi tvā deva savitarmahī dyauḥ pṛthivī ca naḥ | ā. 2-16 | iti sūtritaṃ | śrūyate ca | abhi tvā deva savitariti sāvitrīmanvāha | ai. brā. 1-16 | iti || tathā pravargye 'pyeṣā viniyuktā | athottaramiti khaṇḍe 'bhi tvā deva savitaḥ samī vatsaṃ na mātṛbhiḥ | a. 4-7 | iti sūtritaṃ || tathā grāvastotre 'pi | etasminkāle grāvastuditi khaṇḍe madhyamasvareṇedaṃ savanamabhi tvā deva savitaḥ | ā. 5-12 | iti sūtritaṃ ||*
+> *athāgninā preritaḥ sansavitāramabhi tvetyanena tṛcena prārthayate | tathaiva śrūyate | tamagniruvāca savitā vai prasavānāmīśe tamevopadhāveti sa savitāramupasasārābhi tvā deva savitarityetena tṛcena | ai. brā. 7-16 | iti | he sadāvan sadā sarvadā rakṣaka he savitardeva vāryāṇāṃ varaṇīyānāṃ dhanānāmīśānaṃ svāminaṃ tvāṃ prati bhāgaṃ bhajanīyaṃ dhanamabhi sarvata īmahe | yācāmahe ||*
+> *īśānaṃ | īśa aiśvarye laṭaḥ śānac | tāsyanudāttediti lasārvadhātukānudāttatve dhātusvaraḥ | vāryāṇāṃ | vṛñ saṃbhaktau | ṛhalorṇyat | īḍavandetyādinādyudāttatvaṃ | avan | āmantritanighātaḥ | bhāgaṃ | karṣātvata iti ghaño 'nta udāttaḥ ||*
 
-**ईशानं वार्याणाम्** — *varaṇīyānāṃ dhanānāṃ svāminam*: the lord of the wealth that all desire, i.e. the giver of wealth and power. **भागम्** — *bhajanīyam*: that which is to be enjoyed; worthy of honour. The chief sense: 'O Savitṛ, you are lord of all the wealth and powers that all desire, and worthy of worship; so we pray to you.' Śunaḥśepa asks Savitṛ for the sake of wealth, praising him as the giver of wealth — and in this rik there is no word that indicates wealth [being asked in the ordinary sense]. Although the commentator explains *vāryāṇām* as *sarvair abhīkṣitānām dhanānām* ('of the wealth that is desired by all'), one may say that what is desired here is not wealth, but release from death — life.
+*Gist:* In the first Chandoma, in the Vaiśvadeva-śastra, the Savitṛ triplet *abhi tvā deva savitaḥ* takes the place of the sūkta (Āś. 8-9). It is also used at the kindling of fire by friction (Āś. 2-16; Ai. Brā. 1-16: "with *abhi tvā deva savitaḥ* he recites the Sāvitrī"), in the Pravargya (Āś. 4-7) and in the Grāvastotra (Āś. 5-12). Impelled by Agni, Śunaḥśepa prays to Savitṛ with this triplet (Ai. Brā. 7-16). "O ever-protecting divine Savitṛ, we ask you, the lord of the riches to be chosen, for a share of wealth from every side." The grammatical tail notes the accents of *īśānam* (*śānac*; root accent by *tāsy anudāttet*), *vāryāṇām* (*ṇyat*; initial acute by *īḍavanda…*), *avan* (vocative lowered) and *bhāgam* (*ghañ*, final acute by *karṣātvataḥ*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**सदावन् (sadāvan)** — O you who always protect | **सवितः देव (savitaḥ deva)** — O god Savitṛ | **वार्याणां (vāryāṇāṃ)** — of the riches (things) to be desired | **ईशानं (īśānaṃ)** — (you) who are the lord | **भागं (bhāgaṃ)** — the desired wealth | **अभि ईमहे (abhi īmahe)** — we ask.
+
+**॥ Bhāvārthaḥ ॥**
+
+O god Savitṛ, who always protect, we ask you, the lord of wealth (lord of wealth or of desired things), for the wealth (we) desire.
+
+**॥ English Translation ॥** *(as printed)*
+
+> Divine and ever protecting Savitri, the lord of all that is desirable, we ask for wealth- [sic]
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+The uses (*viniyoga*) of this ṛk are as follows:
+
+When the mantras of the Vaiśvadeva-śastra are recited, the triplet (three ṛks) **abhi tvā deva savitaḥ**, addressed to Savitṛ, is to be recited as the mantra of the first Chandoma. This is set out in the sūtra **abhi tvā deva savitaḥ** (Ṛ. Saṃ. 1-24-3) **pretāṃ yajñasya śaṃbhuvā** (Ṛ. Saṃ. 2-41-19) of the section **atha
+
+### Page 255 — Rik 3: Special Topics (continued)
+
+chandomāḥ** of the Āśvalāyana Śrauta-sūtra (Āś. 8-9).
+
+This ṛk **abhi tvā** is also to be recited at the start of a sacrifice, when fire is churned from the *araṇis*. This is set out by the sūtra **abhi tvā deva savitaḥ** (Ṛ. Saṃ. 1-24-3) **mahī dyauḥ pṛthivī ca naḥ** (Ṛ. Saṃ. 1-22-13) in the section *prātarvaiśvadevam* (Āś. 2-16). On this point there is the Aitareya Brāhmaṇa sentence **abhi tvā deva savitar iti sāvitrīm anvāha** (Ai. Brā. 1-16).
+
+It is also to be recited in the sacrifice called Pravargya; the sūtra **abhi tvā deva savitaḥ** (Ṛ. Saṃ. 1-24-3) **samī vatsaṃ na mātṛbhiḥ** (Ṛ. Saṃ. 9-104-2) in the section **athottaram** of the Āśvalāyana Śrauta-sūtra explains this (Āś. 4-7).
+
+It is also to be recited at the Grāvastotra, that is, when the stones used for pressing the soma juice are praised; the sūtra **madhyamasvareṇedaṃ savanam abhi tvā deva savitaḥ** in the section **grāvastut** tells this (Āś. 5-12).
+
+Śunaḥśepa, sent on by Prajāpati, approached Agni and praised him; then, urged by Agni to praise Savitṛ, he praises Savitṛ with the three ṛks beginning **abhi tvā deva savitaḥ**. In this ṛk and in the next, Śunaḥśepa prays to Savitṛ to give him wealth and the like. It seems strange that Śunaḥśepa, tied to the sacrificial post and facing death, leaves off praying for his release and prays that wealth and power be given to him, who is close to death.
+
+**ईशानं वार्याणां (īśānaṃ vāryāṇāṃ)** — वरणीयानां धनानां स्वामिनं (*varaṇīyānāṃ dhanānāṃ svāminaṃ*): the lord of the wealth and power that all desire, that is, the one who gives wealth and power.
+
+**भागं (bhāgaṃ)** — भजनीयं (*bhajanīyaṃ*): worthy to be worshipped.
+
+The main sense of this ṛk may be this: "O god Savitṛ, you are the lord of the wealth and power that all desire, and you are worthy of worship. I pray to such a one as you." Here Śunaḥśepa prays to Savitṛ, calling him the giver of what is desired and worthy of worship; it does not appear that he has asked to be given wealth. In this ṛk there is no word that indicates wealth. Although the commentator has explained the word *vāryāṇāṃ* as "riches desired by all", one may freely say that here the thing desired is not wealth but release from death.
+
+### Page 256 — Rik 3: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**वार्याणां (vāryāṇāṃ)** — *vṛñ saṃbhaktau*. By *ṛhalor ṇyat* (Pā. Sū. 3-1-120 [as printed; for 3-1-124]), *ṇyat* comes after a root ending in *ṛ* or in a consonant; so *ṇyat* after the root *vṛ*: *vṛ* + *ya*. By *aco ñṇiti* (Pā. Sū. 7-2-115), *vṛddhi* *ār* comes for the *ṛ*: *vārya*. By *īḍavandavṛśaṃsaduhāṃ ṇyataḥ* (Pā. Sū. 5-1-214 [as printed; for 6-1-214]), the first syllable of the roots *īḍ* and the rest, when they end in the suffix *ṇyat*, is acute; so *vārya* has the initial acute.
+
+**भागं (bhāgaṃ)** — *bhaja sevāyām*. By *halaś ca* (Pā. Sū. 3-3-121), *ghañ* comes after a root ending in a consonant: *bhaj* + *a*. By *cajoḥ ku ghiṇṇyatoḥ* (Pā. Sū. 7-3-52), *kutva* (*j* → *g*); *upadhā-vṛddhi*. By *karṣātvato ghaño 'nta udāttaḥ* (Pā. Sū. 6-1-59 [as printed; for 6-1-159]), the last syllable of the root *karṣ* of the first class and of a root with *ā* ending in the suffix *ghañ* is acute; so the final acute comes. ॥3॥
+
+*(An ornament follows.)*
 
 ---
 
