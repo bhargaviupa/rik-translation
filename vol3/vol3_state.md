@@ -1,7 +1,7 @@
 # Vol 3 numeral + [?] + accent pass — state
 
 Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
-**Last PDF page done: 200** (batches PDF 1–100 and 101–200 done and logged; text carried to PDF 200, printed p. 186, end of Ṛk 23.12; edits/notes in `review/edits_PDF101-200.txt`, `review/notes_PDF101-200.txt`). Batch PDF 201–300 in progress: done through PDF 250 upper, printed p. 236 upper, Sūkta 24 heading; edits in `review/edits_PDF201-300.txt`. Ṛks 24.1–5 done (to p. 260 upper, PDF 274). Next: PDF 274 (p. 260 lower, Ṛk 24.6). Open: small-type Uṇādi/paribhāṣā numbers left [?]; Pāṇini numbers read with doubt (bahuvrīhau "6-1-7" p. 77, na lokāvyaya "2-6-69" p. 80, devāt tal "5-4-27" p. 78, aniṭ-kārikā "7-2-10" p. 71, ṣaḍhoḥ "8-8-41" p. 108, aco 'ñṇiti "7-11" p. 186); Saṃhitā marks [accent ?] in Ṛks 21.5, 22.4–6, 22.14, 22.18–21, 23.3, 23.6, 23.8, 23.10–12.
+**Last PDF page done: 200** (batches PDF 1–100 and 101–200 done and logged; text carried to PDF 200, printed p. 186, end of Ṛk 23.12; edits/notes in `review/edits_PDF101-200.txt`, `review/notes_PDF101-200.txt`). Batch PDF 201–300 in progress: done through PDF 250 upper, printed p. 236 upper, Sūkta 24 heading; edits in `review/edits_PDF201-300.txt`. Ṛks 24.1–13 done through p. 286 (PDF 300); Ṛk 24.13 grammar is on p. 287 (PDF 301). Next: PDF 301 (p. 287). Open: small-type Uṇādi/paribhāṣā numbers left [?]; Pāṇini numbers read with doubt (bahuvrīhau "6-1-7" p. 77, na lokāvyaya "2-6-69" p. 80, devāt tal "5-4-27" p. 78, aniṭ-kārikā "7-2-10" p. 71, ṣaḍhoḥ "8-8-41" p. 108, aco 'ñṇiti "7-11" p. 186); Saṃhitā marks [accent ?] in Ṛks 21.5, 22.4–6, 22.14, 22.18–21, 23.3, 23.6, 23.8, 23.10–12.
 
 Rendering note: `view.py` crops the right edge of these scans; use full-page renders (pdftoppm at ~230 dpi cut into five strips) for reading, and `acc.py` for zooms.
 
@@ -62,11 +62,5 @@ Tools: `tools/` (copied from `vol2/tools/` on Oct 27; `cfg.py` = the seven parts
 ## To be reviewed
 
 *(none yet; "as printed" numbers and [sic] English kept from the print are listed here by printed page.)*
-
-**Handover note (Oct 28, session end).** Ṛk 24.6 (pp. 260 lower–264 = PDF 274–278) was read but not yet written. Readings from the print:
-- Saṃhitā: न॒हि ते॑ क्ष॒त्रं न सहो॒ न म॒न्युं वय॑श्च॒नामी प॒तय॑न्त आ॒पुः । नेमा आपो॑ अनिमि॒षं चर॑न्ती॒र्न ये वात॑स्य प्रमि॒नन्त्यभ्वं॑ ॥६॥
-- The bhāṣya prints "उत्तराभिरेकविंशता" (as printed; p. 241 has एकत्रिंशता) and "प्रौढे वियत्युत्पतन्तोऽमी दृश्यमाना वयश्चन श्येनादयः".
-- Tail numbers: Pā. 7-4-70, 6-4-112, 7-3-81 and 8-1-71; the tail ends ॥६॥ on p. 262.
-- Still to view: pp. 262 lower–264 (Special Topics continued, grammar).
 
 The scheduled task was deleted by the user (Oct 28); further work is run by hand in new sessions.
