@@ -49,34 +49,34 @@
 
 **Sāyaṇa's introduction to the Third Adhyāya** *(printed in Kannada script; read from the 150-dpi image)*:
 
-> अथ तृतीयाध्याय आरभ्यते । त्वमग्ने प्रथम इति सप्तमानुवाके पञ्च सूक्तानि । तत्रैतायामोपेति तृतीयं सूक्तं पञ्चदशर्चम् [?] । ऋषिश्चान्यस्मादिति परिभाषयाऽऽङ्गिरसो हिरण्यस्तूप ऋषिः । अनुक्तत्वादिन्द्रो देवता । त्रिष्टुप् छन्दः । एतेत्यनुक्रमणिका । गोसववीवधयोर्निष्केवल्ये एतायामेति सूक्तं विनियुक्तम् । तथा च सूत्रितमतिमूर्तिना यक्ष्यमाण इति खण्डे । गोसववीवधौ पशुकाम इन्द्र सोममेतायामेति मध्यंदिने । आ. ६-८ [?] । इति ॥
+> अथ तृतीयाध्याय आरभ्यते । त्वमग्ने प्रथम इति सप्तमानुवाके पञ्च सूक्तानि । तत्रैतायामोपेति तृतीयं सूक्तं पञ्चदशर्चम् । ऋषिश्चान्यस्मादिति परिभाषयाऽऽङ्गिरसो हिरण्यस्तूप ऋषिः । अनुक्तत्वादिन्द्रो देवता । त्रिष्टुप् छन्दः । एतेत्यनुक्रमणिका । गोसववीवधयोर्निष्केवल्ये एतायामेति सूक्तं विनियुक्तम् । तथा च सूत्रितमतिमूर्तिना यक्ष्यमाण इति खण्डे । गोसववीवधौ पशुकाम इन्द्र सोममेतायामेति मध्यंदिने । आ. ६-८ । इति ॥
 
-*atha tṛtīyādhyāya ārabhyate | tvam agne prathama iti saptamānuvāke pañca sūktāni | tatraitāyāmopeti tṛtīyaṃ sūktaṃ pañcadaśarcam [?] | ṛṣiś cānyasmād iti paribhāṣayāṅgiraso hiraṇyastūpa ṛṣiḥ | anuktatvād indro devatā | triṣṭup chandaḥ | etety anukramaṇikā | gosavavīvadhayor niṣkevalye etāyāmeti sūktaṃ viniyuktam | tathā ca sūtritam atimūrtinā yakṣyamāṇa iti khaṇḍe | gosavavīvadhau paśukāma indra somam etāyāmeti madhyaṃdine | ā. 6-8 [?] | iti ||*
+*atha tṛtīyādhyāya ārabhyate | tvam agne prathama iti saptamānuvāke pañca sūktāni | tatraitāyāmopeti tṛtīyaṃ sūktaṃ pañcadaśarcam | ṛṣiś cānyasmād iti paribhāṣayāṅgiraso hiraṇyastūpa ṛṣiḥ | anuktatvād indro devatā | triṣṭup chandaḥ | etety anukramaṇikā | gosavavīvadhayor niṣkevalye etāyāmeti sūktaṃ viniyuktam | tathā ca sūtritam atimūrtinā yakṣyamāṇa iti khaṇḍe | gosavavīvadhau paśukāma indra somam etāyāmeti madhyaṃdine | ā. 6-8 | iti ||*
 
-**Translation:** "Now the Third Adhyāya is begun. In the seventh anuvāka, [the one beginning] *tvam agne prathamaḥ*, there are five sūktas. Of these, the third is the sūkta *etāyāmopa*, of fifteen ṛks [?]. By the rule 'and the ṛṣi [is the same] as the other' (*ṛṣiś cānyasmāt*), the ṛṣi is Hiraṇyastūpa Āṅgirasa. Since no deity is stated, Indra is the deity. The metre is Triṣṭup — [so says] the Anukramaṇikā ("*etā...*"). This sūkta has its application (*viniyoga*) at the Niṣkevalya [śastra] of the Gosava and Vīvadha [rites]. So it has been stated by Atimūrti in the section beginning 'for him who is about to sacrifice': 'In the Gosava and Vīvadha, for one desiring cattle, [the sūkta addressed] to Indra and Soma, *etāyām*, at the midday [pressing]' — Āśv. [śrauta-sūtra] 6-8 [?]."
+**Translation:** "Now the Third Adhyāya is begun. In the seventh anuvāka, [the one beginning] *tvam agne prathamaḥ*, there are five sūktas. Of these, the third is the sūkta *etāyāmopa*, of fifteen ṛks. By the rule 'and the ṛṣi [is the same] as the other' (*ṛṣiś cānyasmāt*), the ṛṣi is Hiraṇyastūpa Āṅgirasa. Since no deity is stated, Indra is the deity. The metre is Triṣṭup — [so says] the Anukramaṇikā ("*etā...*"). This sūkta has its application (*viniyoga*) at the Niṣkevalya [śastra] of the Gosava and Vīvadha [rites]. So it has been stated by Atimūrti in the section beginning 'for him who is about to sacrifice': 'In the Gosava and Vīvadha, for one desiring cattle, [the sūkta addressed] to Indra and Soma, *etāyām*, at the midday [pressing]' — Āśv. [śrauta-sūtra] 6-8."
 
-*(Reading notes: the printed words "ऋषिश्चान्यस्मादि[ति]" and "सोममेतायामेति" are what the Kannada letters give; the word read "पञ्चदशर्चम्" is partly obscured. The form "atimūrtinā" is as in the Kannada anuvāda below, which also names the sūtra "Gosavavīvadhau paśukāma indrasomam etāyām iti madhyandinaḥ". The numerals "6-8" after "ā." are small and uncertain.)*
+*(Reading notes: the printed words "ऋषिश्चान्यस्मादि[ति]" and "सोममेतायामेति" are what the Kannada letters give; the word "पञ्चदशर्चम्" and the reference "ā. ६-८" were re-read at 300 dpi with zoom and are as printed. The form "atimūrtinā" is as in the Kannada anuvāda below, which also names the sūtra "Gosavavīvadhau paśukāma indrasomam etāyām iti madhyandinaḥ".)*
 
 **Anuvāda (Kannada explanation, as it begins on this page):** "Having finished the Second Adhyāya in the previous part, we now begin the translation of the meaning of the Third Adhyāya. In the Seventh Anuvāka, which begins 'tvam agne prathamo aṅgirā ṛṣiḥ', the sūkta *etāyāma* is the third sūkta. In it there are fifteen ṛks [the sentence is continued on the next page]…"
 
 ### Page 2 (PDF 16) — heading of Sūkta 33
 
-**Anuvāda (continued):** "…In the five sūktas of this anuvāka, 33 to 37, since 'Hiraṇyastūpa Āṅgirasa' is stated as the ṛṣi, the ṛṣi of this sūkta is Hiraṇyastūpa Āṅgirasa. Indra is the deity. The Anukramaṇikā states that the metre is Triṣṭup. This sūkta has its application, in the Gosava and Vīvadha sacrifices, when the Niṣkevalya śastra [hymn] is recited. This matter is stated in the Āśvalāyana Śrauta-sūtra, in the section beginning 'atimūrtinā yakṣyamāṇa', by the sūtra 'gosavavīvadhau paśukāma indrasomam etāyām iti madhyandinaḥ' (Āś. 6-8 [?])."
+**Anuvāda (continued):** "…In the five sūktas of this anuvāka, 33 to 37, since 'Hiraṇyastūpa Āṅgirasa' is stated as the ṛṣi, the ṛṣi of this sūkta is Hiraṇyastūpa Āṅgirasa. Indra is the deity. The Anukramaṇikā states that the metre is Triṣṭup. This sūkta has its application, in the Gosava and Vīvadha sacrifices, when the Niṣkevalya śastra [hymn] is recited. This matter is stated in the Āśvalāyana Śrauta-sūtra, in the section beginning 'atimūrtinā yakṣyamāṇa', by the sūtra 'gosavavīvadhau paśukāma indrasomam etāyām iti madhyandinaḥ' (Āś. 6-8)."
 
 **॥ ॐ ॥** — *oṃ*
 
 ## SŪKTA 33
 
 > ॥ मण्डल — १ ॥ अनुवाक — ७ ॥ सूक्त — ३३ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग, १—३ [?] ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग, १—३ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै १—१५ ॥
 > ॥ ऋषिः — हिरण्यस्तूप आङ्गिरसः ॥
 > ॥ देवता — इन्द्रः ॥
 > ॥ छन्दः — त्रिष्टुप् ॥
 
-*maṇḍala 1 | anuvāka 7 | sūkta 33 | aṣṭaka 1 | adhyāya 3 | varga 1–3 [?] | number of ṛks in the sūkta: 1–15 | ṛṣi: Hiraṇyastūpa Āṅgirasa | devatā: Indra | chandas: Triṣṭup.*
+*maṇḍala 1 | anuvāka 7 | sūkta 33 | aṣṭaka 1 | adhyāya 3 | varga 1–3 | number of ṛks in the sūkta: 1–15 | ṛṣi: Hiraṇyastūpa Āṅgirasa | devatā: Indra | chandas: Triṣṭup.*
 
-**Translation of the heading:** "Maṇḍala 1, Anuvāka 7, Sūkta 33; Aṣṭaka 1, Adhyāya 3, Varga [1–3, the second numeral is not certain]; number of ṛks in the sūkta: 1–15; Ṛṣi: Hiraṇyastūpa Āṅgirasa; Deity: Indra; Metre: Triṣṭup." *(In the line "sūktadalliruva ṛksaṅkhye" the Kannada word "sūktadalliruva" is mine-normalised from the print's "sūktadalliruva ṛksaṃkhye"; the line is Kannada, not Sanskrit.)*
+**Translation of the heading:** "Maṇḍala 1, Anuvāka 7, Sūkta 33; Aṣṭaka 1, Adhyāya 3, Varga 1–3; number of ṛks in the sūkta: 1–15; Ṛṣi: Hiraṇyastūpa Āṅgirasa; Deity: Indra; Metre: Triṣṭup." *(In the line "sūktadalliruva ṛksaṅkhye" the Kannada word "sūktadalliruva" is mine-normalised from the print's "sūktadalliruva ṛksaṃkhye"; the line is Kannada, not Sanskrit.)*
 
 **Saṃhitā-pāṭha** *(printed with accent marks, in Kannada script; the accents are **not** reproduced here, as in Volumes 2–3 — the Kannada notation could not be converted reliably)*:
 
