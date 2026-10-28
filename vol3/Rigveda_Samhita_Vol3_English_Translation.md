@@ -8607,38 +8607,69 @@ that the gods receive the oblation in the sacrifice. So now praise Agni; by that
 
 ---
 
-### Pages 349–352 — Sūkta 26, Rik 2
+### Page 349 (lower) — Sūkta 26, Rik 2
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> नि नो होता वरेण्यः सदा यविष्ठ मन्मभिः ।
-> अग्ने दिवित्मता वचः ॥ २ ॥
+> नि नो॒ होता॒ वरे॑ण्यः॒ सदा॑ यविष्ठ॒ मन्म॑भिः ।
+> अग्ने॑ दि॒वित्म॑ता॒ व॑चः ॥२॥
+>
+> *ni no hótā váreṇyaḥ sádā yaviṣṭha mánmabhiḥ |*
+> *ágne divítmatā vacaḥ ||2||*
 
-*ni no hotā vareṇyaḥ sadā yaviṣṭha manmabhiḥ | agne divitmatā vacaḥ || 2 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. In line 2 the stroke stands over* व *of* वचः*, as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> नि । नः । होता । वरेण्यः । सदा । यविष्ठ । मन्मऽभिः ॥ अग्ने । दिवित्ऽमता । वचः ॥ २ ॥
+> नि । नः । होता । वरेण्यः । सदा । यविष्ठ । मन्मऽभिः । अग्ने । दिवित्मता । वचः ॥२॥
 
-*ni | naḥ | hotā | vareṇyaḥ | sadā | yaviṣṭha | manma-bhiḥ || agne | divit-matā | vacaḥ || 2 ||*
+> *ni | naḥ | hotā | vareṇyaḥ | sadā | yaviṣṭha | manma-bhiḥ | agne | divitmatā | vacaḥ ‖2‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 350)*
+### Page 350 — Rik 2: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> सदा यविष्ठ सर्वदा युवतम हे अग्ने वरेण्यो वरणीयस्त्वं नोऽस्माकं होता होमनिष्पादको भूत्वा दिवित्मता दीप्तिमता वचो वचसा स्तूयमानः सन् नि षीदेति शेषः । कीदृशस्त्वम् । मन्मभिर्ज्ञापकैस्तेजोभिर्युक्त इति शेषः ॥ यविष्ठ । युवशब्दादिष्ठनि स्थूलदूरयुवह्रस्वेत्यादिना । पा. ६-४-१५६ । यणादिपरस्य लोपः । पूर्वस्योकारस्य गुणश्च । अवादेशः । आमन्त्रितनिघातः । मन्मभिः । मन ज्ञाने । अन्येभ्योऽपि दृश्यन्त इति मनिन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् । दिवित्मता । दिवु क्रीडादौ । इक्श्तिपौ धातुनिर्देशे । पा. ३-१-१०८-३ । इतीक्प्रत्ययः । तेन च धातुवाचिना दिविशब्देन धात्वर्थो दीप्तिर्लक्ष्यते । यद्वा । औणादिको भावे किप्प्रत्ययः । दिविशब्दात्तदस्यास्तीति मतुपि तकारोपजनश्छान्दसः । यद्वा । बाहुलकाद्दिवेर्भावे इतक् । मतुपि तसौ मत्वर्थे इति भत्वाज्जश्त्वाभावः । वचः । सुपां सुलुगिति तृतीयैकवचनस्य लुक् ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*sadā yaviṣṭha sarvadā yuvatama he agne vareṇyo varaṇīyas tvaṃ no 'smākaṃ hotā homaniṣpādako bhūtvā divitmatā dīptimatā vaco vacasā stūyamānaḥ san ni ṣīdeti śeṣaḥ | kīdṛśas tvam | manmabhir jñāpakais tejobhir yukta iti śeṣaḥ || yaviṣṭha | yuvaśabdād iṣṭhani sthūladūrayuvahrasveti ādinā | pā. 6-4-156 | yaṇādiparasya lopaḥ | pūrvasyokārasya guṇaś ca | avādeśaḥ | āmantritanighātaḥ | manmabhiḥ | mana jñāne | anyebhyo 'pi dṛśyanta iti manin pratyayaḥ | nittvād ādyudāttatvam | divitmatā | divu krīḍādau | ikśtipau dhātunirdeśe | pā. 3-1-108 [?] | itīkpratyayaḥ | tena ca dhātuvācinā diviśabdena dhātvartho dīptir lakṣyate | yadvā | auṇādiko bhāve kippratyayaḥ | diviśabdāt tadasyāstīti matupi takāropajanaś chāndasaḥ | yadvā | bāhulakād diver bhāve itak | matupi tasau matvarthe iti bhatvāj jaśtvābhāvaḥ | vacaḥ | supāṃ suluk iti tṛtīyaikavacanasya luk ||*
+> सदा यविष्ठ सर्वदा युवतम हे अग्ने वरेण्यो वरणीयस्त्वं नोऽस्माकं होता होमनिष्पादको भूत्वा दिवित्मता दीप्तिमता वचसा स्तूयमानः सन् नि षीदेति शेषः । कीदृशस्त्वं । मन्मभिर्ज्ञापकैस्तेजोभिर्युक्त इति शेषः ॥ यविष्ठ । युवशब्दादिष्ठनि स्थूलदूरेत्यादिना । पा ६-४-१५६ । यणादिपरस्य लोपः । पूर्वस्योकारस्य गुणश्च । अवादेशः । आमंत्रितनिघातः । मन्मभिः । मन ज्ञाने । अन्येभ्योऽपि दृश्यंत इति मनिन्प्रत्ययः । नित्त्वादाद्युदात्तत्वं । दिवित्मता । दिवु क्रीडादौ । इक्श्तिपौ धातुनिर्देशे । पा. ३-३-१०८-२ । इतीक्प्रत्ययः । तेन च धातुवाचिना दिविशब्देन धात्वर्थो दीप्तिर्लक्ष्यते । यद्वा । औणादिको भावे किप्रत्ययः । दिविशब्दान्मतुपि तकारोपजनश्छांदसः । यद्वा । बाहुलकाद्दिवेर्भाव इतक् । मतुपि तसौ मत्वर्थ इति भत्वाज्जश्त्वाभावः । वचः । सुपां सुलुगिति तृतीयैकवचनस्य लुक् ॥
 
-**Translation:** "O *sadā yaviṣṭha* — ever youthful Agni, [most youthful]! *Vareṇyaḥ* — you who are to be chosen, being our *hotā* — the performer of the oblation, being praised with *divitmatā* — shining — *vacaḥ* (*vacasā*) — speech: sit down (*ni ṣīda* — supplied). What kind are you? *Manmabhiḥ* — endowed with splendours that make [you] known — this is to be supplied. *Yaviṣṭha*: *iṣṭhan* after *yuvan*; loss of the part from *y*… by P. 6-4-154 [*sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ*]; guṇa of the preceding *u* and *av*; the vocative's accent is lowered. *Manmabhiḥ*: *mana jñāne* with *manin* by P. 3-2-75 [*anyebhyo 'pi dṛśyante*]; first-syllable acute by *nit*. *Divitmatā*: *divu krīḍādau* with *ik* [or *ktip*]; by that, the word *divi* naming the root, the sense 'splendour' of the root is meant; or the Uṇādi *kip* in the sense of action; *matup* with a *t* inserted in the Veda; or by *bāhulaka* *itak* in the sense of action; the *matup* here has the *bha*-status, so no *jaśtva*. *Vacaḥ*: the loss of the instrumental ending by *supāṃ suluk*." *(Grammar pages 351–352, noted briefly: the words treated are* yaviṣṭha *[*yuvan* + *iṣṭhan* by P. 5-3-55 *atiśāyane tamabiṣṭhanau*; *yaṇādi* (the part from *y*) is lost by P. 6-4-154 *sthūladūrayuvahrasvakṣiprakṣudrāṇāṃ yaṇādiparaṃ pūrvasya ca guṇaḥ*, and guṇa of the preceding vowel; *yo-+ iṣṭha* → *yaviṣṭha* by *avādeśa* P. 6-1-78 *eco 'yavāyāvaḥ*; the vocative's accent is lowered],* manmabhiḥ *[*mana jñāne* of the *divādi* class + *manin* by P. 3-2-75; *manin* is *nit* so first-syllable acute by P. 6-1-197; instrumental plural, *n* lost by P. 8-2-7 *nalopaḥ prātipadikāntasya*; since the word is a *pada* before *bhis*, no *bhis* → *ais*; *ru*-*visarga*],* divitmatā *[the word *divit* = *div* + *ikś-tipau dhātunirdeśe* P. 3-3-108 *ikśtipau dhātunirdeśe*: the suffixes *ik* and *śtip* come after a root when the root itself is being mentioned; so *divi* = the root *div* named; its sense is *dīpti*; *divit* + *matup*: *dīptimat*; *matup* → *mat* with *ṭāp* in the instrumental *matā*; the *t* of *divit* before *mat* is Vedic; *tasau matvarthe* P. 1-4-19 gives *bha*-status so there is no *jaś*-substitution; *tṛtīyā ekavacana* *ṭā*] and* vacaḥ *[*vaca paribhāṣaṇe*, *adādi*; *asun* by Uṇ. 4-… *sarvadhātubhyo 'sun*; *vacas* with the instrumental ending lost by *supāṃ suluk*: *vacā* → *vacaḥ*; the accent first-syllable through *sit*]; numerals as read, pointers only.)*
+> *sadā yaviṣṭha sarvadā yuvatama he agne vareṇyo varaṇīyastvaṃ no 'smākaṃ hotā homaniṣpādako bhūtvā divitmatā dīptimatā vacasā stūyamānaḥ san ni ṣīdeti śeṣaḥ | kīdṛśastvaṃ | manmabhirjñāpakaistejobhiryukta iti śeṣaḥ ‖ yaviṣṭha | yuvaśabdādiṣṭhani sthūladūretyādinā | pā 6-4-156 | yaṇādiparasya lopaḥ | pūrvasyokārasya guṇaśca | avādeśaḥ | āmaṃtritanighātaḥ | manmabhiḥ | mana jñāne | anyebhyo 'pi dṛśyaṃta iti maninpratyayaḥ | nittvādādyudāttatvaṃ | divitmatā | divu krīḍādau | ikśtipau dhātunirdeśe | pā. 3-3-108-2 | itīkpratyayaḥ | tena ca dhātuvācinā diviśabdena dhātvartho dīptirlakṣyate | yadvā | auṇādiko bhāve kipratyayaḥ | diviśabdānmatupi takāropajanaśchāṃdasaḥ | yadvā | bāhulakāddiverbhāva itak | matupi tasau matvartha iti bhatvājjaśtvābhāvaḥ | vacaḥ | supāṃ sulugiti tṛtīyaikavacanasya luk ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 350)* **सदा (sadā)** — always | **यविष्ठ (yaviṣṭha)** — most youthful | **अग्ने (agne)** — O Agni | **वरेण्यः (vareṇyaḥ)** — chosen [by us] | **मन्मभिः (manmabhiḥ)** — with your splendours | **दिवित्मता (divitmatā)** — shining | **वचः (vacaḥ)** — praised with the words | **नः (naḥ)** — for us | **होता (hotā)** — performing the *homa* | **नि (ni)** — sit down.
+*(Numbers zoom-read at 450 dpi: पा ६-४-१५६ (printed without a point after पा), ३-३-१०८-२.)*
 
-**॥ Bhāvārthaḥ ॥** O Agni, you are ever young. We choose you for our sacrificial rite. You shine with your radiant splendours; being praised by us with luminous hymns, come here and sit down as the performer of our *homa*.
+*Gist:* O ever-youngest Agni, chosen one, become our hotṛ and sit down, praised with shining words; you are endowed with splendours that make things known.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **सदा (sadā)** — always | **यविष्ठ (yaviṣṭha)** — being exceedingly young | **अग्ने (agne)** — O Agni | **वरेण्यः (vareṇyaḥ)** — chosen (by us) | **मन्मभिः (manmabhiḥ)** — with splendours (shining) | **दिवित्मता (divitmatā)** — splendid | **वचः (vacaḥ)** — praised with (our) words of praise | **नः (naḥ)** — for us | **होता (hotā)** — as the performer of the homa | **नि (षीद) (ni (ṣīda))** — sit down.
+
+**॥ Bhāvārthaḥ ॥** O Agni, you are ever young. We choose you alone for our sacrificial work. Shining with your splendours, and praised by our splendid words of praise, come here as the one who performs the homa for us, and sit down.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O ever youthful Agni, being praised with brilliant hymn, sit down, here, as we have selected you as our Hotri to perform the sacrifice.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 350–351)* **सदा यविष्ठ** — *sarvadā yuvatama*: always the youngest; ever youthful. Since Agni blazes up with great force whenever wood and the like are put in, he is called ever young. **वरेण्यः** — *varaṇīyaḥ*: one chosen — chosen by us for the sacrifice; or, 'the best'. **मन्मभिः** — *mana jñāne*; *jñāpakais tejobhir yuktaḥ*: the commentator explains it as 'endowed with radiance that makes you known'. The author of the *Vedārthayatna* explains *manmabhiḥ* as *dhyānaiḥ*, 'meditations' — that fits here too. **दिवित्मता** — *dīptimatā*: shining; since this word is an epithet of *vacaḥ*, it can be understood as 'splendid, full of meaning, mature' and similar senses.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**सदा यविष्ठ (sadā yaviṣṭha)** — *sarvadā yuvatama*: one who is always young. However much firewood and the like is put in, Agni keeps blazing strongly; so they call him ever young.
+
+### Page 351 — Rik 2: Special Topics (end), grammar
+
+**वरेण्यः (vareṇyaḥ)** — *varaṇīyaḥ*: one who has been chosen; they have chosen Agni alone to carry out the sacrifice. Or the sense "best" may also be given.
+
+**मन्मभिः (manmabhiḥ)** — *mana jñāne; jñāpakais tejobhir yuktaḥ*: the commentator explains the word as "endowed with splendour that makes known", that is, with natural splendour. The authors of the Vedārthayatna take *manmabhiḥ* as *dhyānaiḥ*, "meditations" (so in English in the print), by meditations. This sense too fits here.
+
+**दिवित्मता (divitmatā)** — *dīptimatā*: shining. Since the word qualifies *vacaḥ*, "with shining words" may be explained as excellent, meaningful, mature words and the like.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**यविष्ठ (yaviṣṭha)** — *atiśayena yuvā yaviṣṭhaḥ*. By "अतिशायने तमबिष्ठनौ" (Pā. Sū. 5-3-55) *iṣṭhan* after *yuvan*; by "स्थूलदूरयुवह्रस्व-" (Pā. Sū. 6-4-156) before *iṣṭhan* the part from the *yaṇ* onward is dropped; then the preceding *u* takes guṇa: *yo* + *iṣṭha*; by "एचोऽयवायावः" (Pā. Sū. 6-1-78) *av* for *o*: *yaviṣṭha*. In the vocative, the *nighāta* by "आमन्त्रितस्य च".
+
+**मन्मभिः (manmabhiḥ)** — *mana jñāne*, divādi; by "अन्येभ्योऽपि दृश्यन्ते" (Pā. Sū. 3-2-130, as printed: the middle digit is the curled 2; for 3-2-75) the suffix *manin*: *manman*, an *n*-stem. Before the instrumental plural *bhis* it is called *pada*, so by "नलोपः प्रातिपदिकान्तस्य" the *n* is dropped; since that loss is *asiddha*, *bhis* does not become *ais*; with *rutva* and visarga, *manmabhiḥ*. *Manin* being *nit*, by "ञ्नित्यादिर्नित्यम्" (Pā. Sū. 6-1-197) initially acute.
+
+**दिवित्मता (divitmatā)** — *divu krīḍādau*, divādi, read in the ten senses *krīḍā, vijigīṣā* and so on. By "इक्श्तिपौ धातुनिर्देशे" (Pā. Sū. 3-3-108-2), when a root is named, the suffixes *ik* and *śtip* come; here *ik*: *diviḥ*. *Divi* means the root *div*; but here, by *lakṣaṇā*, the root's sense, light, is to be taken; then *divi* means light. Or, in the abstract sense,
+
+### Page 352 — Rik 2: grammar (end)
+
+an Uṇādi suffix is to be stated; then *divi* means light directly. In the sense *diviḥ asya asti* (that which has light), by "तदस्यास्त्यस्मिन्निति मतुप्" (Pā. Sū. 5-2-94) the suffix *matup*; with *divimat*, the *t* augment comes in the middle as a Vedic form; after *divitmat*, the instrumental singular *ṭā* gives *divitmatā*. Or: by *bahula*, after the root *div* the suffix *itak* in the abstract sense; after *divit*, *matup* gives *divitmat*; by "तसौ मत्वर्थे" (Pā. Sū. 1-4-19) a stem in *t* is called *bha* before a possessive suffix, so there is no *pada* name and no *jaśtva*; in the instrumental singular *divitmatā*.
+
+**वचः (vacaḥ)** — *vaca paribhāṣaṇe*, adādi; by "सर्वधातुभ्योऽसुन्" (Uṇ. Sū. 4-6[?]8, as printed: the third glyph is blurred; on p. 290 the same sūtra is printed ४-६-२८) the suffix *asun*: *vacas*, an *s*-stem. When the instrumental singular is meant, by "सुपां सुलुक्" (Pā. Sū. 7-1-39) it takes *luk*: *vacaḥ*. Ending in a *nit* suffix, it is initially acute. ॥२॥
 
 ---
 
