@@ -4699,13 +4699,15 @@
 
 ### Rik 52.15 (pp. 261–264, PDF 277–280; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 261; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 261; accents as printed)*
 
-> **आर्चन्नत्र मरुतः सस्मिन्नाजौ विश्वे देवासो अमदन्ननु त्वा ।**
-> **वृत्रस्य यद्भृष्टिमता वधेन नि त्वमिन्द्र प्रत्यानं जघन्थ ॥ १५ ॥**
+> **आर्च॒न्नत्र॑ म॒रुतः॒ सस्मि॑न्ना॒जौ विश्वे॑ दे॒वासो॑ अम॒दन्ननु॑ त्वा ।**
+> **वृ॒त्रस्य॒ यद्भृ॑ष्टिमता॑ व॒धेन॒ नि त्व॑मिन्द्र॒ प्रत्या॒नं ज॒घन्थ॑ ॥ १५ ॥** [accent ?]
 
-*ārcann atra marutaḥ sasminn ājau viśve devāso amadann anu tvā |*
-*vṛtrasya yad bhṛṣṭimatā vadhena ni tvam indra pratyānaṃ jaghantha || 15 ||*
+*ā́rcann átra marútaḥ sásminn ājaú víśve devā́so amadann ánu tvā |*
+*vṛtrásya yád bhṛṣṭimátā vadhéna ní tvám indra práty ānáṃ jaghantha || 15 ||*
+
+*(Pass: [accent ?] — in line 2 the marks on* bhṛṣṭimatā*,* tvam indra *and* pratyānaṃ jaghantha *are faint; given as seen.)*
 
 **Pada-pāṭha** *(p. 261)*
 
@@ -4717,13 +4719,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 262)*
 
-> **हे इन्द्र त्वां मरुतोऽत्र सस्मिन्नाजौ संग्रामे आर्चन् । प्रहर भगवो जहि वीरयस्वेत्यनेन वचनेनापूजयन् । सस्मिन् तस्मिन् । यद्वा सर्वस्मिन्नाजौ संग्रामे विश्वे देवासस्ते सर्वे दानादिगुणयुक्ता मरुतस्त्वा त्वामन्वमदन् । अनुक्रमेण हर्षं प्रापयन् । यद्वा । त्वदीयमदानन्तरं तेऽपि मदं प्राप्ताः । हे इन्द्र त्वं यद्यदा भृष्टिमता । भ्रंशयति शत्रूनिति भृष्टिरश्रिः । तद्वता वधेन हननसाधनेन वज्रेण । अश्रिमत्त्वं च वज्रस्य ब्राह्मणे समाम्नातम् । वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः । ऐ. ब्रा. २-१ [?] इति । तेन वज्रेण वृत्रस्यानं प्रति आननं मुखं प्रति यद्वा श्वासहेतुं घ्राणं प्रति नि जघन्थ । नितरां प्राहार्षीः ॥**
+> **हे इन्द्र त्वां मरुतोऽत्र सस्मिन्नाजौ संग्रामे आर्चन् । प्रहर भगवो जहि वीरयस्व । ऐ. ब्रा. ३-२० । इत्यनेन वचनेनापूजयन् । सस्मिन् तस्मिन् । यद्वा सर्वस्मिन्नाजौ संग्रामे विश्वे देवासस्ते सर्वे दानादिगुणयुक्ता मरुतस्त्वा त्वामन्वमदन् । अनुक्रमेण हर्षं प्रापयन् । यद्वा । त्वदीयमदानन्तरं तेऽपि मदं प्राप्ताः । हे इन्द्र त्वं यद्यदा भृष्टिमता । भ्रंशयति शत्रूनिति भृष्टिरश्रिः । तद्वता वधेन हननसाधनेन वज्रेण । अश्रिमत्त्वं च वज्रस्य ब्राह्मणे समाम्नातम् । वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः । ऐ. ब्रा. २-१ । इति । तेन वज्रेण वृत्रस्यानं प्रति आननं मुखं प्रति यद्वा श्वासहेतुं घ्राणं प्रति नि जघन्थ । नितरां प्राहार्षीः ॥**
 
-*he indra tvāṃ maruto 'tra sasminn ājau saṃgrāme ārcan | prahara bhagavo jahi vīrayasvety anena vacanenāpūjayan | sasmin tasmin | yadvā sarvasminn ājau saṃgrāme viśve devāsas te sarve dānādiguṇayuktā marutas tvā tvām anvamadan | anukrameṇa harṣaṃ prāpayan | yadvā | tvadīyamadānantaraṃ te 'pi madaṃ prāptāḥ | he indra tvaṃ yad yadā bhṛṣṭimatā | bhraṃśayati śatrūn iti bhṛṣṭir aśriḥ | tadvatā vadhena hananasādhanena vajreṇa | aśrimattvaṃ ca vajrasya brāhmaṇe samāmnātam | vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ | ai. brā. 2-1 [?] iti | tena vajreṇa vṛtrasyānaṃ prati ānanaṃ mukhaṃ prati yadvā śvāsahetuṃ ghrāṇaṃ prati ni jaghantha | nitarāṃ prāhārṣīḥ ||*
+*he indra tvāṃ maruto 'tra sasminn ājau saṃgrāme ārcan | prahara bhagavo jahi vīrayasva | ai. brā. 3-20 | ity anena vacanenāpūjayan | sasmin tasmin | yadvā sarvasminn ājau saṃgrāme viśve devāsas te sarve dānādiguṇayuktā marutas tvā tvām anvamadan | anukrameṇa harṣaṃ prāpayan | yadvā | tvadīyamadānantaraṃ te 'pi madaṃ prāptāḥ | he indra tvaṃ yad yadā bhṛṣṭimatā | bhraṃśayati śatrūn iti bhṛṣṭir aśriḥ | tadvatā vadhena hananasādhanena vajreṇa | aśrimattvaṃ ca vajrasya brāhmaṇe samāmnātam | vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ | ai. brā. 2-1 | iti | tena vajreṇa vṛtrasyānaṃ prati ānanaṃ mukhaṃ prati yadvā śvāsahetuṃ ghrāṇaṃ prati ni jaghantha | nitarāṃ prāhārṣīḥ ||*
 
 *(The tail of the bhāṣya, p. 262: on* ārcan *(*arca pūjāyām*, bhvādi, *aṭ* with the Vedic* āṭ*), *sasmin *(*sasminn iti tasmin*, with the Vedic loss of the letter),* devāsaḥ *(*ājjaserasuk*),* ānam *(*ana prāṇane*, *ghañ* — "*ānanaṃ*", with the loss of the letter),* śloka*-less; *jaghantha *(*han*, *thal* with no *iṭ*, *abhyāsāc ca* for the *h*) — is characterized.)*
 
-**Translation of the bhāṣya:** "O Indra, *atra*, here, *sasmin ājau*, in this battle, the Maruts *ārcan*, worshipped you with the words 'strike, O lord, slay, show valour' [Ai. Brā., numeral as in the Special Topics, [?]]. *Sasmin* is *tasmin*, 'in that'; or: in all the battle all the gods, all those Maruts, endowed with the virtues of giving and the rest, *anvamadan*, rejoiced after you, successively; or: after your own delight, they too attained delight. O Indra, *yat*, when you, with *bhṛṣṭimatā vadhena*, with the weapon, the thunderbolt that has *bhṛṣṭi* — *bhṛṣṭi* is a corner or edge that makes enemies fall (*bhraṃśayati*) — and that the thunderbolt has edges is declared in the Brāhmaṇa: 'The sacrificial post is the thunderbolt; it must be made eight-edged, for the thunderbolt is eight-edged' (Ai. Brā. 2-1 [?]) — with that thunderbolt *nijaghantha*, you struck down, *vṛtrasya ānam prati*, Vṛtra on his face, his mouth, or, on the nose, the cause of breathing."
+**Translation of the bhāṣya:** "O Indra, *atra*, here, *sasmin ājau*, in this battle, the Maruts *ārcan*, worshipped you with the words 'strike, O lord, slay, show valour' [Ai. Brā., numeral as in the Special Topics, [?]]. *Sasmin* is *tasmin*, 'in that'; or: in all the battle all the gods, all those Maruts, endowed with the virtues of giving and the rest, *anvamadan*, rejoiced after you, successively; or: after your own delight, they too attained delight. O Indra, *yat*, when you, with *bhṛṣṭimatā vadhena*, with the weapon, the thunderbolt that has *bhṛṣṭi* — *bhṛṣṭi* is a corner or edge that makes enemies fall (*bhraṃśayati*) — and that the thunderbolt has edges is declared in the Brāhmaṇa: 'The sacrificial post is the thunderbolt; it must be made eight-edged, for the thunderbolt is eight-edged' (Ai. Brā. 2-1) — with that thunderbolt *nijaghantha*, you struck down, *vṛtrasya ānam prati*, Vṛtra on his face, his mouth, or, on the nose, the cause of breathing."
 
 **Pratipadārtha** *(p. 262)* — "(O Indra, you) **marutaḥ** — the Maruts; **atra** — in this (battle); **ārcan** — worshipped; **sasmin ājau** — in that (or all) battle; **indra** — O Indra; **tvam** — you; **yat** — when; **bhṛṣṭimatā** — sharp; **vadhena** — with the thunderbolt that is a weapon of killing; **vṛtrasya** — of Vṛtra; **ānam prati** — towards the face, or on the nose that causes breath; **nijaghantha** — you struck well; **viśve devāsaḥ** — all those Marut deities; **tvā** — you; **anu amadan** — rejoiced in succession, or rejoiced after you."
 
@@ -4732,22 +4734,22 @@
 **English Translation (the source's own, p. 263)** — "The Marutś worshipped you in this battle; all the gods in this engagement imitated you in exultation, when you had struck the face of Vritra with your sharp and fatal bolt."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 263**
-- **ārcan** — "The Marut deities worshipped Indra with praise-words such as '*prahara bhagavo jahi vīrayasva*' (Ai. Brā. 3-20 as read [?])."
+- **ārcan** — "The Marut deities worshipped Indra with praise-words such as '*prahara bhagavo jahi vīrayasva*' (Ai. Brā. 3-20)."
 - **anu amadan** — "The Maruts gave Indra gladness one after another. Or: after Indra was glad, they too were glad — the sense can be told in these two ways."
-- **bhṛṣṭimatā** — "*bhraṃśayati śatrūn iti bhṛṣṭiḥ*: 'that which destroys enemies' — the sharp edge, called *bhṛṣṭi* or *aśri*. The thunderbolt is one that has such edges; this the śruti '*vajro vā eṣa yad yūpaḥ so 'ṣṭāśiḥ kartavyo 'ṣṭāśrir vai vajraḥ*' (Ai. Brā. 2-1 as read [?]) tells."
+- **bhṛṣṭimatā** — "*bhraṃśayati śatrūn iti bhṛṣṭiḥ*: 'that which destroys enemies' — the sharp edge, called *bhṛṣṭi* or *aśri*. The thunderbolt is one that has such edges; this the śruti '*vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ*' (Ai. Brā. 2-1) tells."
 
-  > **वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः ।** *(Ai. Brā. 2-1 as read [?])*
+  > **वज्रो वा एष यद्यूपः सोऽष्टाश्रिः कर्तव्योऽष्टाश्रिर्वै वज्रः ।** *(Ai. Brā. 2-1)*
 
-  *vajro vā eṣa yad yūpaḥ so 'ṣṭāśiḥ kartavyo 'ṣṭāśrir vai vajraḥ |* — mine and tentative: "this sacrificial post is the thunderbolt; it is to be made eight-cornered, for the thunderbolt is eight-cornered." *(The print reads* aṣṭāśiḥ *in one place and* aṣṭāśriḥ *in another; I give* aṣṭāśri *as in the bhāṣya.)*
+  *vajro vā eṣa yad yūpaḥ so 'ṣṭāśriḥ kartavyo 'ṣṭāśrir vai vajraḥ |* — mine and tentative: "this sacrificial post is the thunderbolt; it is to be made eight-cornered, for the thunderbolt is eight-cornered." *(The print reads* aṣṭāśriḥ *in both places.)*
 - **ānam prati** — "The word *āna* has two senses: *anana* (face, mouth) or the nose that serves for breathing. Indra struck Vṛtra's face or nose. If *anana*, with loss of a letter, is pronounced in the Veda, it means 'mouth'; and if derived as '*anyate 'nena*' ('that by which one breathes') it means 'nose'."
 
 **Vyākaraṇa-prakriyā** *(pp. 263–264 — grammar pages, noted briefly)*
 - **ārcan**: *arca pūjāyām*, *bhvādi*; *laṅ* third plural *jhi*; *jher jhoḥ… ant*-substitute; *itaś ca* drops the *i* of the ending there; *kartari śap*; *ato guṇe* — single substitute; because the root begins with a vowel, *āḍajādīnām* gives *āṭ*; *āṭaś ca* gives *vṛddhi*; since it begins a *pāda*, no *nighāta*, so the acute *āṭ* is acute: initial-acute.
-- **sasmin**: for *tasmin*; *tado doḥ saḥ sāvanantyayoḥ* (Pā. 7-2-106) — the *sa* substitute laid down for the *t* is by *vyatyaya* found in the locative too; or, by the Vedic loss of a letter in *sarvasmin*, *sasmin*.
-- **devāsaḥ**: *deva* + *jas*; *ājjaserasuk* (Pā. 7-1-50) gives *asuk*; *devāsas*: *ru*, *visarga*: *devāsaḥ*.
+- **sasmin**: for *tasmin*; *tado doḥ saḥ sāvanantyayoḥ* (Pā. sū. 7-2-106) — the *sa* substitute laid down for the *t* is by *vyatyaya* found in the locative too; or, by the Vedic loss of a letter in *sarvasmin*, *sasmin*.
+- **devāsaḥ**: *deva* + *jas*; *ājjaserasuk* (no number printed) gives *asuk*; *devāsas*: *ru*, *visarga*: *devāsaḥ*.
 - **amadan**: *madī harṣe*; *laṅ* third plural: *amadan*; *nighāta* by *tiṅ atiṅaḥ*.
-- **ānam**: *ananam*: by the Vedic loss of a letter, *ānam*; or from *ana prāṇane*, "*anyate 'nena*" in the instrumental sense *ghañ*; being *ñit*, *ata upadhāyāḥ* gives *vṛddhi*: *āna*; end-acute by *kṛṣṭāpadi*… [Pā. 6-1-… as read, [?]].
-- **jaghantha**: *han hiṃsāgatyoḥ*, *adādi*; *liṭ* second singular *sip*; *thal* by *parasmaipadānāṃ ṇalatusus…*; *thal* being the next suffix, reduplication; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *abhyāsāc ca* gives the *h* of the root after the reduplicative the *kutva* and *gh* by *jhaṣ…*; *upadeśe 'tvataḥ* (Pā. 7-2-62) forbids *iṭ*; *naś cāpadāntasya jhali* gives the *anusvāra* for the *n*, and *anusvārasya yayi parasavarṇaḥ* the homorganic nasal: *jaghantha*; since *thal* is *lit*, *liti* gives the acute to the vowel before the suffix; the *a* after *gh* is acute. **|| 15 ||**
+- **ānam**: *ananam*: by the Vedic loss of a letter, *ānam*; or from *ana prāṇane*, "*anyate 'nena*" in the instrumental sense *ghañ*; being *ñit*, *ata upadhāyāḥ* gives *vṛddhi*: *āna*; end-acute by *karṣātvataḥ…* (Pā. sū. 6-1-159).
+- **jaghantha**: *han hiṃsāgatyoḥ*, *adādi*; *liṭ* second singular *sip*; *thal* by *parasmaipadānāṃ ṇalatusus…*; *thal* being the next suffix, reduplication; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*; *abhyāsāc ca* gives the *h* of the root after the reduplicative the *kutva* and *gh* by *jhaṣ…*; *upadeśe 'tvataḥ* (Pā. sū. 7-2-62) forbids *iṭ*; *naś cāpadāntasya jhali* gives the *anusvāra* for the *n*, and *anusvārasya yayi parasavarṇaḥ* the homorganic nasal: *jaghantha*; since *thal* is *lit*, *liti* gives the acute to the vowel before the suffix; the *a* after *gh* is acute. **|| 15 ||**
 
 ---
 
