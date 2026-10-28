@@ -4394,50 +4394,101 @@ May the Marut deities, born in the upper part of the lightning, which is very br
 
 ---
 
-### Pages 187–190 — Sūkta 23, Rik 13 *(the Pūṣan riks, 13–15, begin here)*
+### Page 187 — Sūkta 23, Rik 13 *(the Pūṣan ṛks, 13–15, begin here)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ पूषञ्चित्रबर्हिषमाघृणे धरुणं दिवः ।
-> आजा नष्टं यथा पशुम् ॥ १३ ॥
+> आ पू॑षञ्चि॒त्रब॑र्हिष॒माघृ॑णे ध॒रुणं॑ दि॒वः ।
+> आ॑जा न॒ष्टं यथा॑ प॒शुं ॥१३॥ [accent ?]
+>
+> *ā́ pūṣañ citrábarhiṣam ā́ghṛṇe dharúṇaṃ diváḥ |*
+> *ājā naṣṭáṃ yáthā paśúṃ ||13||* [accent ?]
 
-*ā pūṣañ citrabarhiṣam āghṛṇe dharuṇaṃ divaḥ | ājā naṣṭaṃ yathā paśum || 13 ||*
+*(Strokes over पू, ब, घृ and णं; bars under चि, ष (बर्हिष), ध and दि. Line 2: strokes over आ (आजा) and था; bars under न and प [accent ?].)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> आ । पूषन् । चित्रऽबर्हिषम् । आऽघृणे । धरुणम् । दिवः ॥ आ । अज । नष्टम् । यथा । पशुम् ॥ १३ ॥
-
-*ā | pūṣan | citra-barhiṣam | ā-ghṛṇe | dharuṇam | divaḥ || ā | aja | naṣṭam | yathā | paśum || 13 ||*
+> आ । पूषन् । चित्रऽबर्हिषं । आघृणे । धरुणं । दिवः ॥
+> आ । अज । नष्टं । यथा । पशुं ॥१३॥
+>
+> *ā | pūṣan | citra 'barhiṣaṃ | āghṛṇe | dharuṇaṃ | divaḥ ||*
+> *ā | aja | naṣṭaṃ | yathā | paśuṃ ||13||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> हे पूषन् चित्रबर्हिषं विचित्रैर्दर्भैर्युक्तं धरुणं योगस्य धारकं सोमं दिव आ द्युलोकादा हरेति शेषः । पूषा विशेष्यते । आघृणे आगतदीप्तियुक्त । तत्र दृष्टान्तः । हे अज गमनशील यथा लोके नष्टं पशुं महारण्यादौ [?] अन्विष्य कश्चिदाहरति तद्वत् ॥ आघृणे । घृ क्षरणदीप्त्योरित्यस्मादृणिः । पृश्निरिति निप्रत्ययो निपातितः । ऋवर्णान्नस्य णत्वं वाच्यम् [?] इति णत्वम् । प्रादिसमासः । आमन्त्रिताद्युदात्तत्वम् । धरुणम् । धृङ् धारणे । अस्माण्यन्तादाङ्गृतोरर्जेर्णिलुक्च (उ. [३-५१] [?]) इत्युनन् प्रत्ययः । व्यत्ययेन नित्स्वराभावे प्रत्ययस्वरः । दिवः । ऊडिदमित्यादिना षष्ठ्या उदात्तत्वम् । अज । अज गतिक्षेपणयोः ॥
+*(The Uṇādi number is printed उ० ३-५८; the sūtra quoted with it is printed अर्जेर्णिलुक्च [?].)*
 
-*he pūṣan citrabarhiṣaṃ vicitrair darbhair yuktaṃ dharuṇaṃ yogasya dhārakaṃ somaṃ diva ā dyulokād ā hareti śeṣaḥ | pūṣā viśeṣyate | āghṛṇe āgatadīptiyukta | tatra dṛṣṭāntaḥ | he aja gamanaśīla yathā loke naṣṭaṃ paśuṃ mahāraṇyādau [?] anviṣya kaścid āharati tadvat || āghṛṇe | ghṛ kṣaraṇadīptyor ity asmād ṛṇiḥ | pṛśnir iti niprayayo nipātitaḥ | ṛvarṇān nasya ṇatvaṃ vācyam [?] iti ṇatvam | prādisamāsaḥ | āmantritādyudāttatvam | dharuṇam | dhṛṅ dhāraṇe | asmāṇyantād āṅgṛtor arjer ṇiluk ca (u. [3-51] [?]) ity unan pratyayaḥ | vyatyayena nitsvarābhāve pratyayasvaraḥ | divaḥ | ūḍidam ity ādinā ṣaṣṭhyā udāttatvam | aja | aja gatikṣepaṇayoḥ ||*
+> हे पूषन् चित्रबर्हिषं विचित्रैर्दर्भैर्युक्तं धरुणं यागस्य धारकं सोमं दिव आ द्युलोकादाहरेति शेषः । पूषा विशेष्यते । आघृणे आगतदीप्तियुक्त । तत्र दृष्टान्तः । हे अज गमनशील यथा लोके नष्टं पशुं महारण्यादावन्विष्य कश्चिदाहरति तद्वत् ॥ आघृणे । घृ क्षरणदीप्त्योरित्यस्माद्घृणिः पृश्निरिति निप्रत्ययो निपातितः । ऋवर्णाच्चेति वक्तव्यमिति णत्वं । प्रादिसमासः । आमन्त्रिताद्युदात्तत्वं । धरुणं । धृञ् धारणे । अस्माण्ण्यन्ताद्धातोरर्जेर्णिलुक्च । उ० ३-५८ । इत्युनन्प्रत्ययः । व्यत्ययेन नित्स्वराभावे प्रत्ययस्वरः । दिवः । ऊडिदमित्यादिना षष्ठ्या उदात्तत्वं । अज । अज गतिक्षेपणयोः ॥
+>
+> *he pūṣan citrabarhiṣaṃ vicitrairdarbhairyuktaṃ dharuṇaṃ yāgasya dhārakaṃ somaṃ diva ā dyulokādāhareti śeṣaḥ | pūṣā viśeṣyate | āghṛṇe āgatadīptiyukta | tatra dṛṣṭāntaḥ | he aja gamanaśīla yathā loke naṣṭaṃ paśuṃ mahāraṇyādāvanviṣya kaścidāharati tadvat || āghṛṇe | ghṛ kṣaraṇadīptyorityasmādghṛṇiḥ pṛśniriti nipratyayo nipātitaḥ | ṛvarṇācceti vaktavyamiti ṇatvaṃ | prādisamāsaḥ | āmantritādyudāttatvaṃ | dharuṇaṃ | dhṛñ dhāraṇe | asmāṇṇyantāddhātorarjerṇilukca | u0 3-58 | ityunanpratyayaḥ | vyatyayena nitsvarābhāve pratyayasvaraḥ | divaḥ | ūḍidamityādinā ṣaṣṭhyā udāttatvaṃ | aja | aja gatikṣepaṇayoḥ ||*
 
-**Translation:** "O Pūṣan! Bring (*ā hara* — [the verb is to be supplied]) from heaven (*divaḥ*, from the heavenly world) the soma — *citrabarhiṣam* (accompanied by variegated *darbha* grass), *dharuṇam* (the support of the sacrifice). *Pūṣan* is qualified: *āghṛṇe*, 'O thou of radiant light that has come'. An illustration: O *aja* — mover! — as in the world someone, having sought for a lost animal in the great forest and the like, brings it back. *Āghṛṇe*: from *ghṛ kṣaraṇadīptyoḥ* [‘to flow, to shine’] with the Uṇādi suffix *ṇi*; … *Dharuṇam*: *dhṛṅ dhāraṇe*, with the suffix *unan* [Uṇ. [3-51] [?]]; the accent is that of the suffix. *Divaḥ*: genitive, acute by the rule *ūḍidam…*. *Aja*: *aja gatikṣepaṇayoḥ* ['to go, to throw']." *(Grammar page 190, noted briefly: the words treated are* āghṛṇe *[*ghṛ kṣaraṇadīptyoḥ* + *ni* — Uṇ. 4-[?] *ghṛṇi pṛśni pārṣṇi…*, the same Uṇādi group quoted for* pṛśni *under Rik 10; the meaning is explained by Ṛ. Saṃ. 1-23-10 *ugrā hi pṛśnimātaraḥ*; the *nipātana* of *ṇ* for *n* by the vārttika *ṛvarṇān nasya ṇatvaṃ vācyam*; the compound with* ā *by P. 2-2-18; no lowering of the vocative's accent because it is the first of the second pāda — rather P. 8-1-72 does not apply — and in the sixth-adhyāya sūtra *āmantritasya ca* (P. 6-1-198) it takes first-syllable acute],* dharuṇam *[*dhṛṅ dhāraṇe* + *ṇic* → *dhāri*, then *unan* (Uṇ. 3-[?]) with loss of* ṇic*, guṇa and *raparatva*; the *n* → *ṇ* by P. 8-4-2 *aṭkupvāṅnumvyavāye 'pi*; the Uṇ. rule *ādyudāttaś ca* is overridden by P. 3-1-3 *ādyudāttaś ca*… the accent of the suffix by *vyatyayo bahulam*],* divaḥ *[the discussion of the sūtra P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ*: the words *div* etc. take acute on the case-ending; the *ūṭh* element],* aja *[from *aja gatikṣepaṇayoḥ*]; numerals as read, pointers only.)*
+**Translation:** "O Pūṣan! Bring (*ā*) from the world of heaven (*divaḥ*) the soma, *citrabarhiṣam*, joined with many-coloured *darbha* grass, *dharuṇam*, the upholder of the sacrifice: 'bring' is to be supplied. Pūṣan is qualified: *āghṛṇe*, furnished with brightness that has come. The illustration for it: O *aja*, moving one! *Yathā*, as in the world someone, searching in a great forest and the like, brings back *naṣṭaṃ paśum*, a lost animal — so." (Grammatical tail: *āghṛṇe*, from *ghṛ kṣaraṇadīptyoḥ*, the suffix *ni* given as a set form in *ghṛṇiḥ pṛśniḥ…*; *ṇ* by *ṛvarṇāc ceti vaktavyam*; a *prādi* compound; the vocative initial udātta; *dharuṇam*, *dhṛñ dhāraṇe*, the suffix *unan* after it in the causative by the sūtra as printed (U. 3-58); with the *nit* accent not applying by *vyatyaya*, the suffix accent; *divaḥ*, the genitive udātta by *ūḍidam…*; *aja*, *aja gatikṣepaṇayoḥ*.)
 
-**॥ Prati-padārthaḥ ॥** **आघृणे (āghṛṇe)** — O luminous one | **पूषन् (pūṣan)** — O Pūṣan | **अज (aja)** — O mover | **चित्रबर्हिषम् (citrabarhiṣam)** — with variegated *darbha* | **धरुणम् (dharuṇam)** — the soma, support of the sacrifice | **दिवः (divaḥ)** — from heaven | **नष्टम् (naṣṭam)** — lost | **पशुम् (paśum)** — animal | **यथा (yathā)** — as | **(आ हरति) (ā harati)** — one brings back | **आ [हर] (ā [hara])** — [likewise] bring.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** O luminous Pūṣan! Since you move quickly, bring us from heaven the soma, which supports the sacrifice and is accompanied by variegated *darbha*, as one seeks out an animal lost in the world and brings it back.
+**आघृणे (āghṛṇe)** — furnished with light | **अज (aja)** — of moving nature | **पूषन् (pūṣan)** — O Pūṣan | **चित्रबर्हिषं (citrabarhiṣaṃ)** — together with variegated *darbha* grass | **धरुणं (dharuṇaṃ)** — the soma, the support of the sacrifice | (as a man) **नष्टं (naṣṭaṃ)** — lost | **पशुं (paśuṃ)** — an animal | **यथा (yathā)** — in the manner in which | **आ (harati)** — searches and brings (so) | **दिवः (divaḥ)** — from the world of heaven | **आ (hara)** — bring and give.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Pūṣan, furnished with light, since you are of moving nature, bring us from the world of heaven the soma, which is joined with variegated *darbha* grass and is the support of the sacrifice, just as one searches out and brings back an animal lost in the world.
+
+### Page 188 — Rik 13: English, Special Topics
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > Resplendent and swift-moving Pushan, bring from heaven the Soma juice with the variegated sacred grass as a man brings back a stray animal.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 188–189)* The sense of this rik is slightly loose: 'O Pūṣan, since you are of great brilliance and swift motion, bring us from heaven the variegated-*darbha*, sacrifice-supporting soma, as one seeks and brings back a lost animal (cattle, goat, etc.) in the world.' That is the chief meaning.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**पूषन्** — the word *pūṣā* is read among the twenty-one words for the earth, beginning *gauḥ, gmā, jmā* (Nighaṇṭu [1-1] [?]), so *pūṣā* can also mean earth. Here it is the deity Pūṣan, who is well known as the one who seeks and brings back lost things; hence many riks describe him in this way. On this word Yāska explains:
+The meaning of this ṛk is somewhat tangled. The main intention is: O Pūṣan, you are of great brightness and can move fast; so, as one searches out and brings back an animal (a cow, a goat and the like) lost in the world, bring and give us from heaven the soma, joined with variegated *darbha* grass and the support of the sacrifice.
 
-> पूषा । अथ यद्रश्मिपोषं पुष्यति तत्पूषा भवति ॥ (नि. [१२-१६] [?])
+**पूषन् (pūṣan)** — since the word *pūṣa* is read among the twenty-one words denoting the earth, *gauḥ*, *gmā*, *jmā* and the rest, *pūṣa* also means the earth. Here the word *pūṣan* is the deity named Pūṣan. Since this deity is well known as one who searches out and brings back lost things, there is such a description in many ṛks. Yāska's explanation of this word —
 
-*pūṣā | atha yad raśmipoṣaṃ puṣyati tat pūṣā bhavati ||* — "Pūṣan: since he nourishes [the world] with the nourishment of rays, he is Pūṣan" (Ni. [12-16] [?]) — that is, he is called Pūṣan because he is full of rays; Pūṣan is one of the twelve Ādityas, so he is said to be a special form of the Sun. Hence in describing this deity special epithets like *tejasvin* (brilliant), *prakāśamāna*, *dīptiyukta* are used. And Yāska has included *ajāśvaḥ pūṣṇaḥ* (Ni. [?]) among the *ādiṣṭopayojana* words — words whose meaning is explained by the context to suit the deity. For example, *harī indrasya*; *rāsabhā aśvinoḥ*; *niyutaḥ vāyoḥ*, etc.: the word *harī* ('two bay horses') in the Veda is used only for Indra's horses; so also the word *rāsabha* ('ass') in praise of the Aśvins, and the word *niyut* for Vāyu. Hence *aja* is to be understood as the word used to praise the deity Pūṣan. In this rik too the word *aja* is used; the commentator explains it as 'one given to motion': since the Sun (Pūṣan) moves through the three worlds, and sees everything, 'given to motion' is natural. To justify the meaning of *aja*, Yāska cites *śukraṃ te anyad yajataṃ te anyat* (Ṛ. Saṃ. [6-58-1]) and *pathaspathaḥ paripatiṃ vacasyā* (Ṛ. Saṃ. [6-53-1]) as examples.
+> पूषा । अथ यद्रश्मिपोषं पुष्यति तत्पूषा भवति ॥ (नि० १२-१६)
+>
+> *pūṣā | atha yadraśmipoṣaṃ puṣyati tatpūṣā bhavati || (ni0 12-16)*
 
-**चित्रबर्हिषम्** — the commentator says it means 'with variegated *darbha*'; how soma is 'endowed with darbha' is not clear; perhaps because soma-vessels are set on *darbha*, the word is used. Skandasvāmin takes *citra* to mean 'worthy of worship' (*pūjya*); the author of the *Vedārthayatna* takes *citrabarhiṣam* as 'having variegated feathers'; for soma, 'having feathers' [seems] variegated, but that meaning is hardly fitting.
+— is this: because he is full of rays or beams, this deity is named Pūṣā. Since Pūṣā is one of the twelve Ādityas, they say that Pūṣan is a particular form of the sun. For that reason, when describing this deity, they use qualifying words such as furnished with brightness, shining, furnished with light. And Yāska has put *ajāḥ pūṣṇaḥ* (Ni., number not clear [?]) among the *ādiṣṭopayojana* words. *Ādiṣṭopayojana* means a qualifying word that sets out a meaning suited to be construed with that particular deity, as is well known in usage. For example *harī indrasya*, *rāsabhāv aśvinoḥ*, *niyuto vāyoḥ* and so on: that is, the word *harī* (Indra's horses) is used in the Veda only to indicate Indra's horses. Likewise the word *rāsabhā* is used in the praise of the Aśvin deities and the word *niyutaḥ* when praising Vāyu. So it is to be known that the word *aja* is used when praising the deity Pūṣan. In this ṛk too there is the use of the word *aja*. The commentator has explained it as 'of moving nature'. Since the sun (Pūṣā) moves through the three worlds and sees everything, it is natural to call him 'of moving nature'. To support the meaning of the word *pūṣā* —
 
-**आघृणे** — among the twelve names for 'day' beginning *vasto*, *dyau* [*vastoḥ, dyaḥ…*] the word *ghṛṇiḥ* is read (Ni. [1-9] [?]), so *ghṛṇiḥ* means 'day'; because he makes the days, the Sun (Pūṣan) is called *ghṛṇi* — a śruti-sentence says *ghṛṇiḥ sūrya ādityaḥ* (Tai. Up. [?]); and in the twelve words *jvalataḥ*, etc., read in the Nirukta (Ni. [1-20] [?]) as words meaning 'blazing', *ghṛṇi* is read: 'shining'. The commentator takes this sense: since the prefix *ā* stands in this word, *āghṛṇe* means 'bright all round', 'one whose brightness is spread in all directions or is moving'.
+### Page 189 — Rik 13: Special Topics (end)
 
-**धरुणम्** — *yogasya dhārakam*: the chief thing that supports the sacrifice, that is, the soma-juice. **दिवः** — from the heavenly world. Skandasvāmin joins *dharuṇam* with *divaḥ*: *divo dhartāraṃ* — the upholder of heaven, the nourisher of heaven. Since it is well known that soma is in heaven, the commentator's sense 'bring soma from heaven' is quite in order. The śruti sentence *tṛtīyasyām ito divi soma āsīt* (Tai. Brā. [3-2-1]) supports the idea that soma was in heaven. **अज** — *aja gatikṣepaṇayoḥ*; since the root *aj* has the sense 'to go', the sense 'moving' fits here. **नष्टं यथा पशुम्** — as there is joy when a lost animal is found, the simile may be used to suggest that to bring us the soma that is in heaven will give us joy.
+— Yāska has given two ṛks as examples, *śukraṃ te anyad yajataṃ te* (Ṛ. Saṃ. 6-58-1) and *pathas-pathaḥ paripatiṃ vacasyā* (Ṛ. Saṃ. 6-49-8).
+
+**चित्रबर्हिषं (citrabarhiṣaṃ)** — *vicitradarbhair yuktam |* The commentator says: joined with variegated *darbha* grass. How the soma is joined with *darbha* grass is not clear. It may be said so because the soma vessel is usually placed on *darbha* grass. Skandasvāmin has also given *citram* the meaning 'worthy of worship'. The author of the *Vedārthayatna* has given the word *citrabarhiṣam* the meaning 'joined with variegated feathers' ("feathers"). That soma has feathers seems strange; that meaning is not quite fitting.
+
+**आघृणे (āghṛṇe)** — since the word *ghṛṇaḥ* is read among the twelve names of day, *vastoḥ*, *dyauḥ* and the rest, *ghṛṇaḥ* is a name of the day (Ni., number not clear [?]); because he makes the day, the sun (Pūṣā) is named *ghṛṇi*. There is the *śruti* statement *ghṛṇiḥ sūrya ādityaḥ* (Tai. U.). And since the word *ghṛṇiḥ* is read among the eleven words *jamat* and the rest conveying the meaning *jvalataḥ* (Ni., number not clear [?]), the word *ghṛṇi* means 'shining'. This is the meaning the commentator gives here. Since there is the prefix *ā* with this word, *ā samantāt dīptiyuktaḥ*: having brightness spreading or scattered all round is the meaning.
+
+> घृणिः सूर्य आदित्यः ।
+>
+> *ghṛṇiḥ sūrya ādityaḥ |*
+
+**धरुणं (dharuṇaṃ)** — *yāgasya dhārakam |* the chief thing that supports the sacrifice, that is, the soma juice: this is the intention.
+
+**दिवः (divaḥ)** — from the world of heaven. Skandasvāmin has joined the word *dharuṇam* with the word *divaḥ* — *divaḥ dharuṇam* = *divaḥ dhartāram* — and given the meaning: upholding heaven, nourishing heaven. Since soma juice is well known to be in heaven, the meaning the commentator gives, 'bring and give the soma juice from heaven', is the fitting one. The *śruti* statement *tṛtīyasyām ito divi soma āsīt* (Tai. Brā. 3-2-1) supports the point that soma was in heaven.
+
+> तृतीयस्यामितो दिवि सोम आसीत् ।
+>
+> *tṛtīyasyāmito divi soma āsīt |*
+
+**अज (aja)** — *aja gatikṣepaṇayoḥ |* since the root *aj* has the meaning of going, the meaning 'of moving nature' fits here.
+
+**नष्टं यथा पशुं (naṣṭaṃ yathā paśuṃ)** — as one is glad when a lost animal is found, so we would be glad if the soma in heaven were brought and given to us: to suggest this, the comparison may have been used.
+
+*(The small Nirukta numbers on these pages are not clear [?].)*
+
+### Page 190 (upper) — Rik 13: grammar
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**आघृणे (āghṛṇe)** — the root *ghṛ kṣaraṇadīptyoḥ*. *Ghṛṇipṛśni…* (U. Sū. 4-52): its meaning has been set out at *ugrā hi pṛśnimātaraḥ* (Ṛ. Saṃ. 1-23-10). By this, the suffix *ni*: *ghṛ* + *ni*; by *ṛvarṇān nasya ṇatvaṃ vācyam*, *ṇ* for the *n*; with the prefix *ā*, by *kugatiprādayaḥ* (Pā. Sū. 2-2-18), the compound; since it is at the beginning of the *pāda*, the total lack of accent by the eighth-book *āmantritasya ca* does not come. By the sixth-book *āmantritasya ca* the initial udātta comes.
+
+**धरुणम् (dharuṇam)** — the root *dhṛñ dhāraṇe*. After it the suffix *ṇic*: *dhṛ* + *i*; now by *dhārer ṇiluk ca* [as printed] (Daśapā. 4) — after the root *dhṛñ* ending in the suffix *ṇic*, the suffix *unan* comes, and the *ṇic* is dropped (*luk*) — when the suffix *unan* and the dropping of *ṇi* come: *dhṛ* + *una*; by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) *guṇa* *ar* for the *ṛ*: *dharuna*; now by *aṭkupvāṅnumvyavāye 'pi* (Pā. Sū. 8-4-2) *ṇ* for the *n*: it becomes *dharuṇa*. Overriding the initial udātta of the suffix laid down by *ādyudāttaś ca* (Pā. Sū. 3-1-3), since the suffix is *nit* the initial udātta would be due by *ñnity ādir nityam* (Pā. Sū. 6-1-197); but here, according to the sūtra *vyatyayo bahulam* (Pā. Sū. 3-1-85), the initial udātta of the suffix alone comes and the *u* becomes udātta.
+
+**दिवः (divaḥ)** — *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171): here *ekācaḥ* and *antodāttāt* are carried on. *Ekācaḥ*, having nothing to exclude, is not a qualifier of *ūṭh*; even if it qualifies the whole joined with *ūṭh* there is no hindrance; in places like *praṣṭhauh* the *ūh* formed with *ūṭh* is meaningful and is obtained. So the case-endings other than *sarvanāmasthāna* after *ūṭh* and the rest, which are final udātta and monosyllabic, are udātta; so the genitive ending is udātta. Therefore by *anudāttau suppitau* the case-ending does not become unaccented.
+
+**अज (aja)** — formed from the root *aja gatikṣepaṇayoḥ*. ॥13॥
+
+*(An ornament follows.)*
 
 ---
 
