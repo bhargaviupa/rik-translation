@@ -9447,15 +9447,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 45.5 (pp. 556–557, PDF 570–571)
+### Rik 45.5 (pp. 556–557, PDF 570–571; better scan PDF 571–572)
 
-**Saṃhitā-pāṭha** *(p. 556; accents not reproduced)*
+### Page 556
 
-> **घृताहवन सन्त्येमा उ षु श्रुधी गिरः ।**
-> **याभिः कण्वस्य सूनवो हवन्तेऽवसे त्वा ॥ ५ ॥**
+**Saṃhitā-pāṭha** *(p. 556)*
 
-*ghṛtāhavana santyemā u ṣu śrudhī giraḥ |*
-*yābhiḥ kaṇvasya sūnavo havante 'vase tvā || 5 ||*
+> **घृता॑हवन सन्त्ये॒मा उ॒ षु श्रु॑धी॒ गिरः॑ ।**
+> **याभिः॒ कण्व॑स्य सू॒नवो॒ हव॒न्तेऽव॑से त्वा ॥ ५ ॥**
+
+*ghṛ́tāhavana santyemā́ u ṣú śrudhī gíraḥ |*
+*yābhiḥ káṇvasya sūnávo hávanté 'vase tvā || 5 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 556)*
 
@@ -9467,17 +9471,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 556)*
 
-> **हे घृताहवन घृतेनाहूयमान सन्त्य फलप्रदाग्ने इमा उ गिरोऽस्माभिः प्रयुज्यमाना अपि स्तोत्ररूपा वाचः सु श्रुधि । सुष्ठु शृणु । कण्वस्य महर्षेः सूनवः पुत्रा याभिर्गीर्भिरवसे स्वरक्षणार्थं त्वा हवन्ते त्वामाह्वयन्ति ॥ घृताहवन । घृतेनाहूयतेऽस्मिन्निति घृताहवनः । अधिकरणे ल्युट् । आमन्त्रिताद्युदात्तत्वं । श्रुधि । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् ॥ ५ ॥**
+> **हे घृताहवन घृतेनाहूयमान सन्त्य फलप्रदाग्ने इमा उ गिरोऽस्माभिः प्रयुज्यमाना अपि स्तोत्ररूपा वाचः सु श्रुधि । सुष्ठु शृणु । कण्वस्य महर्षेः सूनवः पुत्रा याभिर्गीर्भिरवसे स्वरक्षणार्थं त्वा हवन्ते त्वामाह्वयन्ति ॥ घृताहवन । घृतेनाहूयतेऽस्मिन्निति घृताहवनः । अधिकरणे ल्युट् । आमन्त्रिताद्युदात्तत्वं । श्रुधि । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् ॥ ३१ ॥**
 
-*he ghṛtāhavana ghṛtenāhūyamāna santya phalapradāgne imā u giro 'smābhiḥ prayujyamānā api stotrarūpā vācaḥ su śrudhi | suṣṭhu śṛṇu | kaṇvasya maharṣeḥ sūnavaḥ putrā yābhir gīrbhir avase svarakṣaṇārthaṃ tvā havante tvām āhvayanti || ghṛtāhavana | ghṛtenāhūyate 'smin iti ghṛtāhavanaḥ | adhikaraṇe lyuṭ | āmantritādyudāttatvaṃ | śrudhi | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhirādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk || 5 ||*
+*he ghṛtāhavana ghṛtenāhūyamāna santya phalapradāgne imā u giro 'smābhiḥ prayujyamānā api stotrarūpā vācaḥ su śrudhi | suṣṭhu śṛṇu | kaṇvasya maharṣeḥ sūnavaḥ putrā yābhir gīrbhir avase svarakṣaṇārthaṃ tvā havante tvām āhvayanti || ghṛtāhavana | ghṛtenāhūyate 'smin iti ghṛtāhavanaḥ | adhikaraṇe lyuṭ | āmantritādyudāttatvaṃ | śrudhi | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhirādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk || 31 ||*
 
-*(The closing numeral of the bhāṣya is printed so that it reads like "30" or "50", a slip or a crowded numeral [?]; the Rik is the fifth, as the Saṃhitā and Pada numerals show.)*
+*(The bhāṣya closes "॥ 31 ॥" (zoom-checked): the number of the varga that ends here (Varga 31 = Ṛks 1–5), not the Ṛk number.)*
 
 **Translation:** "O *ghṛtāhavana*, O Agni, called with ghee; O *santya*, giver of fruit: *imā u giraḥ*, these very words — these stotra-words too, though uttered by us — *su śrudhi*, hear well, *yābhiḥ*, the songs with which *kaṇvasya sūnavaḥ*, the sons of the great sage Kaṇva, *havante*, call you *avase*, for their own protection. *Ghṛtāhavana*: 'he in whom (or by whom) one is called with ghee'; the suffix *lyuṭ* in the locative sense; the initial acute of the vocative. *Śrudhi*: *dhi* in place of *hi* by *śrūśṛṇuprakṛvṛbhyaḥ chandasi*; the *vikaraṇa* is dropped by *bahulaṃ chandasi*."
 
 **Pratipadārtha** *(p. 556)* — "**ghṛtāhavane** — O one who is called by the oblation of ghee; **santya** — O Agni, giver of fruit; **kaṇvasya** — of the sage Kaṇva; **sūnavaḥ** — the sons; **yābhiḥ** — with which words; **avase** — for protection; **tvā** — you; **havante** — call; **imā u giraḥ** — these very words of praise (even though uttered by us); **su śrudhi** — hear well."
 
 **Bhāvārtha** *(p. 556)* — "O Agni, who are invoked in the sacrifice by pouring ghee and who give fruit to the sacrificers, hear well these words of praise that the sons of the sage Kaṇva speak to you for their protection."
+
+### Page 557
 
 **English Translation (the source's own, p. 557)** — "O generous Agni, invoked with ghee, listen to these praises with which the sons of Kanwa invoke you for protection."
 
@@ -9486,8 +9492,8 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **santya** — "the giver of fruit."
 
 **Vyākaraṇa-prakriyā** *(p. 557 — grammar page, noted briefly)*
-- **ghṛtāhavana**: "*ghṛtena āhūyate asmin*"; *karaṇādhikaraṇayoś ca* (Pā. 3-3-117 as read [?]) — करणाधिकरणयोश्च — the suffix *lyuṭ* in the locative sense; *yuvor anākau* (Pā. 7-1-1 as read) *ana* for *yu*; *guṇa* of the root *hu*, *avādeśa*; *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented.
-- **śrudhi**: explained at Ṛ. Saṃ. 1-4[?]-13 (as printed; this would be the thirteenth ṛk of the preceding sūkta); in the Saṃhitā two lengthenings come by *anyeṣām api dṛśyate*. **|| 5 ||**
+- **ghṛtāhavana**: "*ghṛtena āhūyate asmin*"; *karaṇādhikaraṇayoś ca* (Pā. 3-3-117) — करणाधिकरणयोश्च — the suffix *lyuṭ* in the locative sense; *yuvor anākau* (Pā. 7-1-1) *ana* for *yu*; *guṇa* of the root *hu*, *avādeśa*; *āmantritasya ca* (Pā. 8-1-19) gives the all-unaccented.
+- **śrudhi**: explained at "Ṛ. Saṃ. 1-45-13" (as printed; Sūkta 45 has only ten ṛks, so the reference is evidently to 1-44-13); in the Saṃhitā two lengthenings come by *anyeṣām api dṛśyate*. **|| 5 ||**
 
 ---
 
