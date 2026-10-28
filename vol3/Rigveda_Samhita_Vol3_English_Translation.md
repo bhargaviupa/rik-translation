@@ -8278,7 +8278,7 @@ the restriction "अव्यये नञ्कुनिपातानाम�
 > *darśaṃ nú viśvádarśataṃ dárśaṃ ráthamádhi kṣámi |*
 > *etā́ juṣata me gíraḥ ||18||* [accent ?]
 
-*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Line 1: bars under* द*(र्शं),* वि*,* तं*,* द*(र्शं),* थ*,* धि*; strokes over* द *(of -दर्शतं) and* मि*. Flagged [accent ?] on line 2: only two strokes are printed, over* जु *and over* रः*; no anudātta bars are visible under* ए *or* मे *in the Saṃhitā, although the Pada marks* एताः*,* जुषत *and* मे*; only the printed strokes are given.*)*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Line 1: bars under* द*(र्शं),* वि*,* तं*,* द*(र्शं),* थ*,* धि*; strokes over* द *(of -दर्शतं) and* मि*. Flagged [accent ?] on line 2: only two strokes are printed, over* जु *and over* रः*; no anudātta bars are visible under* ए *or* मे *in the Saṃhitā, although the Pada marks* एताः*,* जुषत *and* मे*; only the printed strokes are given.)*
 
 **॥ Pada-pāṭhaḥ ॥** *(p. 337)*
 
