@@ -3159,13 +3159,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.9 (pp. 207–210, PDF 221–224)
 
-**Saṃhitā-pāṭha** *(p. 207; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 207)*
 
-> **सं सीदस्व महाँ असि शोचस्व देववीतमः ।**
-> **वि धूमम् अग्ने अरुषं मियेध्य सृज प्रशस्त दर्शतम् ॥ ९ ॥**
+> सं सी॑दस्व म॒हाँ अ॑सि॒ शोच॑स्व देव॒वीत॑मः ।
+> वि धू॒मम॑ग्ने अ॒रुषं मि॑येध्य सृ॒ज प्र॑शस्त द॒र्शतं ॥ ९ ॥ [accent ?]
 
-*saṃ sīdasva mahām̐ asi śocasva devavītamaḥ |*
-*vi dhūmam agne aruṣaṃ miyedhya sṛja praśasta darśatam || 9 ||*
+*sáṃ sīdasva mahā́m̐ asi śócasva devavī́tamaḥ |*
+*vi dhūmám agne arúṣaṃ miyedhya sṛjá praśasta darśátaṃ || 9 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: in "aruṣam" the underline stands under* a*, and in "darśatam" under* da */* rśa *(between them); reproduced as they appear.)*
 
 **Pada-pāṭha** *(p. 207)*
 
@@ -3175,15 +3177,23 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *sam | sīdasva | mahān | asi | śocasva | deva-vītamaḥ ||*
 *vi | dhūmam | agne | aruṣam | miyedhya | sṛja | pra-śasta | darśatam || 9 ||*
 
-**Sāyaṇa-bhāṣya** *(pp. 207–208; the viniyoga and the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(pp. 207–208, in full)*
 
-> प्रवर्ग्ये महावीरे खरे संसाद्यमाने स सीदस्व महाँ असीत्येषा । स्पृष्टोदकमिति खण्डे सं सीदस्व महाँ असीति संसाद्यमाने । आ. ४-७ [?] । इति ॥ हे अग्ने सं सीदस्व । बर्हिषि उपविश । महानसि । गुणाधिको भवसि । देववीतमोऽतिशयेन देवान्कामयमानः शोचस्व । दीप्यस्व । हे मियेध्य मेधार्ह प्रशस्त उत्कृष्ट [?] अग्ने अरुषं गमनशीलं दर्शतं दर्शनीयं धूमं वि सृज । विशेषेण सम्पादय ॥
+> प्रवर्ग्ये महावीरे खरे संसाद्यमाने स सीदस्व महाँ असीत्येषा । स्पृष्टोदकमिति खण्डे सं सीदस्व महाँ असीति संसाद्यमाने । आ. ४-६ । इति ॥ हे अग्ने सं सीदस्व । बर्हिषि उपविश । महानसि । गुणाधिको भवसि । देववीतमोऽतिशयेन देवान्कामयमानः शोचस्व । दीप्यस्व । हे मियेध्य मेधार्ह प्रशस्त उत्कृष्टाग्ने अरुषं गमनशीलं दर्शतं दर्शनीयं धूमं वि सृज । विशेषेण सम्पादय ॥
 
-*pravargye mahāvīre khare saṃsādyamāne sa sīdasva mahām̐ asity eṣā | spṛṣṭodakam iti khaṇḍe saṃ sīdasva mahām̐ asīti saṃsādyamāne | ā. 4-7 [?] | iti || he agne saṃ sīdasva | barhiṣi upaviśa | mahān asi | guṇādhiko bhavasi | devavītamo 'tiśayena devān kāmayamānaḥ śocasva | dīpyasva | he miyedhya medhārha praśasta utkṛṣṭa [?] agne aruṣaṃ gamanaśīlaṃ darśataṃ darśanīyaṃ dhūmaṃ vi sṛja | viśeṣeṇa sampādaya ||*
+*pravargye mahāvīre khare saṃsādyamāne sa sīdasva mahām̐ asity eṣā | spṛṣṭodakam iti khaṇḍe saṃ sīdasva mahām̐ asīti saṃsādyamāne | ā. 4-6 | iti || he agne saṃ sīdasva | barhiṣi upaviśa | mahān asi | guṇādhiko bhavasi | devavītamo 'tiśayena devān kāmayamānaḥ śocasva | dīpyasva | he miyedhya medhārha praśasta utkṛṣṭāgne aruṣaṃ gamanaśīlaṃ darśataṃ darśanīyaṃ dhūmaṃ vi sṛja | viśeṣeṇa sampādaya ||*
 
-**Translation:** "[This ṛk] '*saṃ sīdasva mahām̐ asi*' is applied when the *mahāvīra*, the *khara* [altar-mound], is being put in place in the *pravargya*. It is laid down in the section beginning '*spṛṣṭodakam*': 'when it is being put in place, "*saṃ sīdasva mahām̐ asi*"' (Āś. 4-7 [?]). — O Agni, *saṃ sīdasva* — sit down together, seat yourself on the *barhis*; *mahān asi* — you are great, superior in qualities; *devavītamaḥ* — yearning exceedingly for the gods — *śocasva*, blaze. O *miyedhya* — worthy of the sacrifice, praised, excellent [?] — Agni, *aruṣam* — going [upward], *darśatam* — beautiful — *dhūmam* — smoke — *vi sṛja*, send forth specially."
+**Translation:** "[This ṛk] '*saṃ sīdasva mahām̐ asi*' is applied when the *mahāvīra*, the *khara* [altar-mound], is being put in place in the *pravargya*. It is laid down in the section beginning '*spṛṣṭodakam*': 'when it is being put in place, "*saṃ sīdasva mahām̐ asi*"' (Āś. 4-6). — O Agni, *saṃ sīdasva* — sit down together, seat yourself on the *barhis*; *mahān asi* — you are great, superior in qualities; *devavītamaḥ* — yearning exceedingly for the gods — *śocasva*, blaze. O *miyedhya* — worthy of the sacrifice, *praśasta*, excellent — Agni, *aruṣam* — going [upward], *darśatam* — beautiful — *dhūmam* — smoke — *vi sṛja*, send forth specially."
 
-**Grammar within the bhāṣya** *(pp. 207–208, characterized)*: *sīdasva* (*ṣadḷ viśaraṇagatyavasādaneṣu*; *vyatyayena ātmanepadam*; *loṭ* in a prayer; *pāghrādhmā…*: *sīda* for *sad*; *thās* → *se* → *sva*); *mahān* (the Saṃhitā's *n* before *a* becomes *r*, *ru*, and the *ā* is nasalised: *rutvānunāsikau*); *śocasva* (*śuca dīptau*, with *anudātta* for the verb ending, so the root's accent stays; no lowering, since it is a *tiṅ* after a *tiṅ* but the preceding *asi*… *āti*… — the print adds that the prohibition applies); *devavītamaḥ* (*vī gatiprajananakāntyasanakhādaneṣu*; *devān vetīti devavīḥ*; *kvip*; *atiśayena devavīḥ*, *tamap*, which is *pit* and so unaccented; the later member of a *kṛt* compound keeps its natural accent); *aruṣam* (*ruṣa riṣa hiṃsāyām*; *ghañarthe kavidhānam*; *nāsti ruṣo 'sya*, *nañsubhyām*: final-acute of the later member); *miyedhya* (*medhṛ medhāhiṃsanayoḥ*, *kvip*; *chandasi ca*: *yat* in the sense of *arhati*; *medha* "worthy of the sacrifice"; the augment *iy*; vocative: wholly unaccented); *sṛja* (*sṛja visarge*, *tudādi*, *śa*: no *sarvānudātta* since it stands at the beginning of a pāda); *darśatam* (*bhṛmṛdṛśiyaji…*: *atac* after *dṛśir prekṣaṇe*).
+### Page 208
+
+**Grammatical tail of the bhāṣya** *(pp. 207–208)*
+
+> सीदस्व । षद्लृ विशरणगत्यवसादनेषु । व्यत्ययेनात्मनेपदम् । प्रार्थनायां लोटि शपि पाघ्रेत्यादिना सीदादेशः । महान् । संहितायां नकाराकारयोः रुत्वानुनासिकावुक्तौ । शोचस्व । शुच दीप्तौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । तिङः परत्वान्निघाताभावः । देववीतमः । वी गतिप्रजनकान्त्यशनखादनेषु । देवान्वेति गच्छतीति देववीः । क्विप्चेति क्विप् । अतिशयेन देववीर्देववीतमः । तमपः पित्त्वादनुदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । अरुषम् । आरोषणम् । रिष रुष हिंसायाम् । घञर्थे कविधानमिति भावे कप्रत्ययः । नास्ति रुषोऽस्येति बहुव्रीहौ नञ्सुभ्यामित्युत्तरपदान्तोदात्तत्वम् । मियेध्य । छन्दसि चेत्यर्हार्थे यत्प्रत्ययः । मकारात्परं इयागमश्छान्दसः । सृज । सृज विसर्गे । तुदादित्वाच्छः । विकरणस्वरः । पादादित्वादनिघातः । दर्शतम् । भृमृदृशीत्यादिना दृशेः कर्मण्यतच्प्रत्ययः ॥
+
+*sīdasva | ṣadlṛ viśaraṇagatyavasādaneṣu | vyatyayenātmanepadam | prārthanāyāṃ loṭi śapi pāghretyādinā sīdādeśaḥ | mahān | saṃhitāyāṃ nakārākārayoḥ rutvānunāsikāvuktau | śocasva | śuca dīptau | adupadeśāllasārvadhātukānudāttatve dhātusvaraḥ | tiṅaḥ paratvānnighātābhāvaḥ | devavītamaḥ | vī gatiprajanakāntyaśanakhādaneṣu | devānveti gacchatīti devavīḥ | kvipceti kvip | atiśayena devavīrdevavītamaḥ | tamapaḥ pittvādanudāttatve kṛduttarapadaprakṛtisvaratvam | aruṣam | āroṣaṇam | riṣa ruṣa hiṃsāyām | ghañarthe kavidhānamiti bhāve kapratyayaḥ | nāsti ruṣo 'syeti bahuvrīhau nañsubhyāmityuttarapadāntodāttatvam | miyedhya | chandasi cetyarhārthe yatpratyayaḥ | makārātparaṃ iyāgamaśchāndasaḥ | sṛja | sṛja visarge | tudāditvācchaḥ | vikaraṇasvaraḥ | pādāditvādanighātaḥ | darśatam | bhṛmṛdṛśītyādinā dṛśeḥ karmaṇyatacpratyayaḥ ‖*
+
+*(Sense:)* *sīdasva* (*ṣadḷ viśaraṇagatyavasādaneṣu*; *vyatyayena ātmanepadam*; *loṭ* in a prayer; *pāghrādhmā…*: *sīda* for *sad*; *thās* → *se* → *sva*); *mahān* (the Saṃhitā's *n* before *a* becomes *r*, *ru*, and the *ā* is nasalised: *rutvānunāsikau*); *śocasva* (*śuca dīptau*, with *anudātta* for the verb ending, so the root's accent stays; no lowering, since it is a *tiṅ* after a *tiṅ* but the preceding *asi*… *āti*… — the print adds that the prohibition applies); *devavītamaḥ* (*vī gatiprajananakāntyasanakhādaneṣu*; *devān vetīti devavīḥ*; *kvip*; *atiśayena devavīḥ*, *tamap*, which is *pit* and so unaccented; the later member of a *kṛt* compound keeps its natural accent); *aruṣam* (*ruṣa riṣa hiṃsāyām*; *ghañarthe kavidhānam*; *nāsti ruṣo 'sya*, *nañsubhyām*: final-acute of the later member); *miyedhya* (*medhṛ medhāhiṃsanayoḥ*, *kvip*; *chandasi ca*: *yat* in the sense of *arhati*; *medha* "worthy of the sacrifice"; the augment *iy*; vocative: wholly unaccented); *sṛja* (*sṛja visarge*, *tudādi*, *śa*: no *sarvānudātta* since it stands at the beginning of a pāda); *darśatam* (*bhṛmṛdṛśiyaji…*: *atac* after *dṛśir prekṣaṇe*).
 
 **Pratipadārtha** *(p. 208)* — "(**agne** — O Agni); **saṃ sīdasva** — be seated (on the *darbha* seat); **mahān asi** — you are very powerful; **devavītamaḥ** — one who gives satisfaction to the gods; **śocasva** — shine forth with your radiance; **miyedhya** — one worthy of a share in the sacrifice; **praśasta** — one of praiseworthy, eminent qualities; **agne** — O Agni; **aruṣam** — moving; **darśatam** — beautiful; **dhūmam** — the smoke; **vi sṛja** — send forth."
 
@@ -3193,19 +3203,26 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 208–209**
 - **devavītamaḥ** = *atiśayena devān kāmayamānaḥ*: "one who has great regard for the gods."
+
+### Page 209
+
 - **miyedhya** = *medhārha*: "one fit to be worshipped, or honoured."
 - **darśatam** = *darśanīyam*: "delightful to look at, very beautiful."
 - **aruṣam** = *gamanaśīlam*: "moving upward, or having a slightly reddish colour."
 
 **Vyākaraṇa-prakriyā** *(pp. 209–210, PDF 223–224 — grammar pages, noted briefly)*
-- **sīdasva** (p. 209): root *ṣadḷ viśaraṇagatyavasādaneṣu*; *vyatyayo bahulam*: the *ātmanepada* comes; *loṭ* in the prayer sense; *tip*/*thās*; *śap*; *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* — [Pā. 7-3-78]: *sīda* for *sad* before a *śit* ending beginning with a consonant [*śit* = *śap*]; *ṭita ātmanepadānāṃ ṭere*: *e* for the *ṭi* of *thās* → *se*; *sa-vābhyāṃ vāmau* — [Pā. 3-4-91]: *se* → *sva*.
-- **mahān**: in the Saṃhitā, the next word begins with *a* [*asi*], an *aṭ*-letter; *dīrghād aṭi samānapāde* — [Pā. 8-3-9]: *n* → *ru*; *ato 'ṭi nityam* — [Pā. 8-3-3]: the *ā* is nasalised.
-- **śocasva**: root *śuca dīptau*, *ātmanepada*, *loṭ*, *thās* → *se* → *sva*; *e* → *a* [by *ṭita ātmane…*, as read]; the *sārvadhātuka* [*sva*] being *lasthānika* after an *anudāttet*... *tāsyanudāttenṅidadupadeśāt…*: unaccented; the root's accent stands; since it follows the *tiṅ* *asi* in the Saṃhitā, *ati* … [the print: "*āti jiḥ*", read as a reference to the prohibition], so there is no wholly-unaccented accent.
-- **devavītamam** (p. 209): root *vī gatiprajanakāntyasanakhādaneṣu*; *devān vetīti devavīḥ* — "who goes toward the gods"; *kvip ca*; *dhātoḥ* — [Pā. 6-1-162]: the root *vī* is acute; with *atiśaya* intended, *atiśāyane tamabiṣṭhanau*: *tamap*, *pit*, so unaccented; the *kṛdanta* later member keeps its natural accent, so *vī* stays acute even after the compound.
-- **aruṣam**: *ruśa riṣa hiṃsāyām*; *ghañarthe kavidhānaṃ sthāsnāpāvyadhihanī yudhyarthām* — [vārtika to Pā. 3-3-58]: *ka* is taught in the sense of *ghañ*; *bhāva* and *kartṛ*-different *kāraka* are the senses of *ghañ*; though the root is read in the sense of injuring, roots have many senses and here it means going; *nāsti ruṣaḥ — gamanam asyāsau*, a bahuvrīhi; *nañsubhyām* [Pā. 6-2-172]: the later member after *nañ* or *su* is final-acute.
-- **miyedhya** (p. 210): root *medhṛ medhāhiṃsanayoḥ*; *kvip*; *chandasi ca* — छन्दसि च — [Pā. 5-1-67]: *yat* in the Veda after a word in the second case, in the sense *arhati*; *medha marhati* = "he is worthy of the sacrifice" — *yat* [*yam*]; the Vedic augment *iy*; vocative, so wholly unaccented.
-- **sṛja**: *sṛja visarge*, *loṭ*, *sip*; *tudādibhyaḥ śaḥ* — [Pā. 3-1-77]: *śa* as the *vikaraṇa*; since it stands at the beginning of a pāda, it is not wholly unaccented.
-- **darśatam**: *bhṛmṛdṛśiyaji…* — [Uṇ. 3-110, as read]: the suffix *atac* after *dṛśir prekṣaṇe*. Rik 9 ends here (*|| 9 ||*).
+- **sīdasva** (p. 209): root *ṣadḷ viśaraṇagatyavasādaneṣu*; *vyatyayo bahulam*: the *ātmanepada* comes; *loṭ* in the prayer sense; *tip*/*thās*; *śap*; *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* (Pā. 7-3-78): *sīda* for *sad* before a *śit* ending beginning with a consonant [*śit* = *śap*]; *ṭita ātmanepadānāṃ ṭere*: *e* for the *ṭi* of *thās* → *se*; *sa-vābhyāṃ vāmau* (Pā. 3-4-91): *se* → *sva*.
+- **mahān**: in the Saṃhitā, the next word begins with *a* [*asi*], an *aṭ*-letter; *dīrghād aṭi samānapāde* (Pā. 8-3-9): *n* → *ru*; *ato 'ṭi nityam* (Pā. 8-3-3): the *ā* is nasalised.
+- **śocasva**: root *śuca dīptau*, *ātmanepada*, *loṭ*, *thās* → *se* → *sva*; *e* → *va*; the *sārvadhātuka* [*sva*] being *lasthānika* after an *anudāttet*... *tāsyanudāttenṅidadupadeśāt…*: unaccented; the root's accent stands; since it follows the *tiṅ* *asi* in the Saṃhitā, *ati* … [the print: "*āti jiḥ*", read as a reference to the prohibition], so there is no wholly-unaccented accent (the print: "*atiṅaḥ* gives the prohibition").
+- **devavītamam** (p. 209): root *vī gatiprajanakāntyasanakhādaneṣu*; *devān vetīti devavīḥ* — "who goes toward the gods"; *kvip ca*; *dhātoḥ* (Pā. 6-1-162): the root *vī* is acute; with *atiśaya* intended, *atiśāyane tamabiṣṭhanau* (Pā. 5-3-55): *tamap*, *pit*, so unaccented; the *kṛdanta* later member keeps its natural accent, so *vī* stays acute even after the compound.
+- **aruṣam**: *ruśa riṣa hiṃsāyām*; *ghañarthe kavidhānaṃ sthāsnāpāvyadhihanī yudhyarthām* (Pā. 3-3-58-5, vārtika): *ka* is taught in the sense of *ghañ*; *bhāva* and *kartṛ*-different *kāraka* are the senses of *ghañ*; though the root is read in the sense of injuring, roots have many senses and here it means going; *nāsti ruṣaḥ — gamanam asyāsau*, a bahuvrīhi; 
+
+### Page 210
+
+(continued, p. 210) *nañsubhyām* (Pā. 6-2-172): the later member after *nañ* or *su* is final-acute.
+- **miyedhya**: root *medhṛ medhāhiṃsanayoḥ*; *kvip*; *chandasi ca* — छन्दसि च (Pā. 5-1-67): *yat* in the Veda after a word in the second case, in the sense *arhati*; *medha marhati* = "he is worthy of the sacrifice" — *yat* [*yam*]; the Vedic augment *iy*; vocative, so wholly unaccented.
+- **sṛja**: *sṛja visarge*, *loṭ*, *sip*; *tudādibhyaḥ śaḥ* (Pā. 3-1-77): *śa* as the *vikaraṇa*; since it stands at the beginning of a pāda, it is not wholly unaccented.
+- **darśatam**: *bhṛmṛdṛśiyaji…* (Uṇ. 3-340): the suffix *atac* after *dṛśir prekṣaṇe*. Rik 9 ends here (*|| 9 ||*).
 
 ### Rik 36.10 (p. 210 onward, PDF 224–)
 
