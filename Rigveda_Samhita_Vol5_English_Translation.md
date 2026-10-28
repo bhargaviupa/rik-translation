@@ -5040,13 +5040,15 @@
 
 ### Rik 53.5 (pp. 279–282, PDF 295–298)
 
-**Saṃhitā-pāṭha** *(p. 279; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 279; accents as printed)*
 
-> **सम् इन्द्र रायो समिषा रभेमहि सं वाजेभिः पुरुश्चन्द्रैरभिद्युभिः ।**
-> **सं देव्या प्रमत्या वीरशुष्मया गोअग्रयाश्वावत्या रभेमहि ॥ ५ ॥**
+> **समि॑न्द्र रा॒या समि॒षा र॑भेम॒हि सं वाजे॑भिः पुरु॒श्चन्द्रै॑र॒भिद्यु॑भिः ।**
+> **सं दे॒व्या प्रम॑त्या वी॒रशु॑ष्मया॒ गोअ॑ग्र॒याश्वा॑वत्या रभेमहि ॥ ५ ॥** [accent ?]
 
-*(The print gives the opening as "समिन्द्र राया"; I read it as* sam indra rāyā*:)* *sam indra rāyā sam iṣā rabhemahi saṃ vājebhiḥ puruścandrair abhidyubhiḥ |*
-*saṃ devyā pramatyā vīraśuṣmayā goagrayāśvāvatyā rabhemahi || 5 ||*
+*sám indra rāyā́ sám iṣā́ rabhemahi sáṃ vā́jebhiḥ puruścandraír abhídyubhiḥ |*
+*sáṃ devyā́ pramátyā vīráśuṣmayā góagrayā́śvāvatyā rabhemahi || 5 ||*
+
+*(Pass: the print reads "ಸಮಿಂದ್ರ ರಾಯಾ" (*sam indra rāyā*); [accent ?] — several strokes stand between syllables.)*
 
 **Pada-pāṭha** *(p. 279)*
 
@@ -5062,7 +5064,7 @@
 
 *he indra rāyo dhanena vayaṃ saṃ rabhemahi | saṃgacchemahi || tatheṣānnena saṃ rabhemahi | tathā vājebhir balyaiḥ saṃ rabhemahi | kīdṛśair vājaiḥ | puruścandraiḥ purūṇāṃ bahūnām āhlādakaiḥ abhidyubhir abhito dīpyamānaiḥ | kiṃca devyā dyotamānayā pramatyā tvadīyayā prakṛṣṭabuddhyā saṃ rabhemahi | kīdṛśyā | vīraśuṣmayā vīraṃ viśeṣeṇa śatrūṇāṃ kṣepaṇasamarthaṃ śuṣmaṃ balaṃ yasyāḥ sā tathoktā | goagrayā | stotṛbhyo dānārtham agre pramukhata eva gāvo yasyāḥ sā tathoktā | aśvāvatyā aśvair upetayā ||*
 
-*(The grammatical tail: on* rāyaḥ *(the vibhakti-accent by* ūḍidam padādi…*),* puruścandraiḥ *(*hrasvāc candrottarapade mantre*, the augment* suṭ*;* ścutva*; compound accent),* abhidyubhiḥ *(*abhigatā dyaur dīptir yeṣām*; *div *implying radiance; the accent of the particle-first compound),* devyā *(*udāttayaṇo hal pūrvāt*),* pramatyā *(*tādau ca niti*; Pā. 6-2-50 as read [?] — the prefix keeps its accent),* goagrayā *(*sarvatra vibhāṣā goḥ*, Pā. 6-1-122 as read [?], with no* avādeśa *by* prakṛtibhāva*),* aśvāvatyā *(*mantre somāśvendriya…*, lengthening before* matup*) — is given in full on pp. 281–282 and noted below.)*
+*(The grammatical tail: on* rāyaḥ *(the vibhakti-accent by* ūḍidam padādi…*),* puruścandraiḥ *(*hrasvāc candrottarapade mantre*, the augment* suṭ*;* ścutva*; compound accent),* abhidyubhiḥ *(*abhigatā dyaur dīptir yeṣām*; *div *implying radiance; the accent of the particle-first compound),* devyā *(*udāttayaṇo hal pūrvāt*),* pramatyā *(*tādau ca niti*; Pā. 6-2-50 — the prefix keeps its accent),* goagrayā *(*sarvatra vibhāṣā goḥ*, Pā. 6-1-122, with no* avādeśa *by* prakṛtibhāva*),* aśvāvatyā *(*mantre somāśvendriya…*, lengthening before* matup*) — is given in full on pp. 281–282 and noted below.)*
 
 **Translation of the bhāṣya:** "O Indra, may we *sam rabhemahi*, come together, with *rāyaḥ*, wealth; with *iṣā*, food; with *vājebhiḥ*, strengths — what kind of strengths? *puruścandraiḥ*, delighting many; *abhidyubhiḥ*, shining all round. And with *devyā pramatyā*, the shining *pramati*, your excellent wisdom — what kind of wisdom? *vīraśuṣmayā*: that of which the *śuṣma*, strength, is able to hurl enemies far (*vīra*); *goagrayā*: that has cattle given ahead, at the front, for giving to the praisers; *aśvāvatyā*, with horses — may we be joined."
 
@@ -5079,14 +5081,14 @@
 - **goagrayā** — "Indra has the generosity to give cows and the like, first of all, to those who praise him, satisfying them with oblations and the like. Such is the nature of Indra's *pramati* (intelligence)."
 
 **Vyākaraṇa-prakriyā** *(pp. 281–282 — grammar pages, noted briefly)*
-- **rāyaḥ**: *rai* + *ā* [= *rai* + *ṅas*/*śas*]: *eco 'yavāyāvaḥ* gives *āy*; *ūḍidaṃ padādi…* (Pā. 6-1-171) gives the vibhakti an acute.
-- **puruścandraiḥ**: *hrasvāc candrottarapade mantre* (Pā. 6-1-151) gives *suṭ* to the word *candra*; since a *ca* follows [the *s* + *c*], *stoḥ ścunā ścuḥ* turns the *s* of *suṭ* into *ś*; "*purūṇāṃ candrāḥ puruścandrāḥ*", and by the compound's accent *samāsasya* the end-acute.
+- **rāyaḥ**: *rai* + *ā* [= *rai* + *ṅas*/*śas*]: *eco 'yavāyāvaḥ* gives *āy*; *ūḍidaṃ padādi…* (Pā. sū. 6-1-171) gives the vibhakti an acute.
+- **puruścandraiḥ**: *hrasvāc candrottarapade mantre* (Pā. sū. 6-1-151) gives *suṭ* to the word *candra*; since a *ca* follows [the *s* + *c*], *stoḥ ścunā ścuḥ* turns the *s* of *suṭ* into *ś*; "*purūṇāṃ candrāḥ puruścandrāḥ*", and by the compound's accent *samāsasya* the end-acute.
 - **abhidyubhiḥ**: "*abhigatā dyaur dīptir yeṣām abhidivaḥ tair abhidyubhiḥ*"; the word *div* has the sense of radiance by *lakṣaṇā*; the accent of the first member, the particle (*avyayapūrvapada…*).
-- **devyā**: the instrumental singular of *devī*; *udāttayaṇo hal pūrvāt* (Pā. 6-1-174) gives the ending an acute.
-- **pramatyā**: *man jñāne*; *ktin* by *striyāṃ ktin*; *anudāttopadeśa…* drops the nasal *n*; compound with *pra*; *tādau ca niti* (Pā. 6-2-50) — since the suffix is a *ti*-ending (*tādi*) and *nit*, the prefix keeps its accent; the word is initial-acute.
+- **devyā**: the instrumental singular of *devī*; *udāttayaṇo hal pūrvāt* (Pā. sū. 6-1-174) gives the ending an acute.
+- **pramatyā**: *man jñāne*; *ktin* by *striyāṃ ktin*; *anudāttopadeśa…* drops the nasal *n*; compound with *pra*; *tādau ca niti* (Pā. sū. 6-2-50) — since the suffix is a *ti*-ending (*tādi*) and *nit*, the prefix keeps its accent; the word is initial-acute.
 - **vīraśuṣmayā**: "*vīraṃ śuṣmaṃ yasyāḥ sā*": a bahuvrīhi; the first member's accent by *bahuvrīhau prakṛtyā pūrvapadam*.
-- **goagrayā**: "*gāvaḥ agre yasyāḥ sā goagrā tayā*"; as for bahuvrīhi, the accent as before; *sarvatra vibhāṣā goḥ* (Pā. 6-1-122) gives *prakṛtibhāva*, so the *o* does not become *av*.
-- **aśvāvatyā**: "*aśvāḥ asyāḥ santi iti aśvāvatī*"; *tad asyāsty asmin* gives *matup*; since it follows an *a*, *māduḥ upadhāyāś ca matoḥ* turns the *m* of *matup* into *v*; in the feminine, *ugitaś ca* gives *ṅīp*; *mantre somāśvendriyaviśvadevyasya matau* (Pā. 6-3-131 as read [?]) lengthens the earlier *aśva* before *matup*: *aśvāvatī*; instrumental singular. **|| 5 ||**
+- **goagrayā**: "*gāvaḥ agre yasyāḥ sā goagrā tayā*"; as for bahuvrīhi, the accent as before; *sarvatra vibhāṣā goḥ* (Pā. sū. 6-1-122) gives *prakṛtibhāva*, so the *o* does not become *av*.
+- **aśvāvatyā**: "*aśvāḥ asyāḥ santi iti aśvāvatī*"; *tad asyāsty asmin* gives *matup*; since it follows an *a*, *māduḥ upadhāyāś ca matoḥ* turns the *m* of *matup* into *v*; in the feminine, *ugitaś ca* gives *ṅīp*; *mantre somāśvendriyaviśvadevyasya matau* (Pā. sū. 6-3-131) lengthens the earlier *aśva* before *matup*: *aśvāvatī*; instrumental singular. **|| 5 ||**
 
 ---
 
