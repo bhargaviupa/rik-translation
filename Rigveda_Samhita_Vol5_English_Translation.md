@@ -8337,9 +8337,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 > **वह्निमिति पञ्चर्चं तृतीयं सूक्तं नोधस आर्षं त्रैष्टुभमाग्नेयं । अनुक्रान्तं च । वह्निं पञ्चेति ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दसीदं सूक्तमाश्विने शस्त्रे च । तथा च सूत्रितं । वह्निं यशसमुप प्र जिन्वन्निति त्रीणि । आ. ४-१३ । इति ॥**
 
-*vahnim iti pañcarcaṃ tṛtīyaṃ sūktaṃ nodhasa ārṣaṃ traiṣṭubham āgneyaṃ | anukrāntaṃ ca | vahniṃ pañceti || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdaṃ sūktam āśvine śastre ca | tathā ca sūtritaṃ | vahniṃ yaśasam upa pra jinvann iti trīṇi | ā. 4-13 [?] | iti ||*
+*vahnim iti pañcarcaṃ tṛtīyaṃ sūktaṃ nodhasa ārṣaṃ traiṣṭubham āgneyaṃ | anukrāntaṃ ca | vahniṃ pañceti || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdaṃ sūktam āśvine śastre ca | tathā ca sūtritaṃ | vahniṃ yaśasam upa pra jinvann iti trīṇi | ā. 4-13 | iti ||*
 
-**Translation:** "'*Vahniṃ*': a sūkta of five Riks, the third [of the eleventh anuvāka]; the seer is Nodhas, the metre Triṣṭubh, the deity Agni; so the Anukramaṇī: '*vahniṃ pañca*'. In the Agni-rite (*āgneya kratu*) of the Prātaranuvāka, in the Triṣṭubh metre, this sūkta belongs also to the Aśvin-śastra: so it is aphorized: '*vahniṃ yaśasam upa pra jinvann*' — three (Āśv. 4-13 [?])."
+**Translation:** "'*Vahniṃ*': a sūkta of five Riks, the third [of the eleventh anuvāka]; the seer is Nodhas, the metre Triṣṭubh, the deity Agni; so the Anukramaṇī: '*vahniṃ pañca*'. In the Agni-rite (*āgneya kratu*) of the Prātaranuvāka, in the Triṣṭubh metre, this sūkta belongs also to the Aśvin-śastra: so it is aphorized: '*vahniṃ yaśasam upa pra jinvann*' — three (Āśv. 4-13)."
 
 **Anuvāda (Kannada, p. 461)** — "'*Vahniṃ*' is the third sūkta in the eleventh anuvāka. It has five Riks. The seer is Nodhas; the deity Agni; the metre Triṣṭubh. In the Anukramaṇikā: '*vahniṃ pañca*'. At the time of reciting the Prātaranuvāka mantras, this sūkta is for the Triṣṭubh Riks of the Āgneya-kratu and for the Aśvin-śastra mantras: so the Āśvalāyana Śrauta Sūtra by the sūtra '*vahniṃ yaśasam upa pra jinvann iti trīṇi*' (Āśv. 4-13)."
 
@@ -8351,26 +8351,26 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Heading block of Sūkta 60 *(p. 462, PDF 478)*
 
-Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga 26 [as read, [?]] · Riks: 5 · Ṛṣi: Nodhas Gautama · Deity: Agni · Metre: Triṣṭubh.
+Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga 26 · Riks: 5 · Ṛṣi: Nodhas Gautama · Deity: Agni · Metre: Triṣṭubh.
 
 ---
 
 ### Rik 60.1 (pp. 462–465, PDF 478–481)
 
-**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 462; accents as printed. The svarita of सद्योअर्थम् stands over the subscript र of र्थ; placed on अ [accent ?])*
 
-> **वह्निं यशसं विदथस्य केतुं सुप्राव्यं दूतं सद्योअर्थम् ।**
-> **द्विजन्मानं रयिमिव प्रशस्तं रातिं भरद्भृगवे मातरिश्वा ॥ १ ॥**
+> **वह्निं॑ य॒शसं॑ वि॒दथ॑स्य के॒तुं सु॑प्रा॒व्यं॑ दू॒तं स॒द्योअ॑र्थम् ।**
+> **द्वि॒जन्मा॑नं र॒यिमि॑व प्रश॒स्तं रा॒तिं भ॑र॒द्भृग॑वे मात॒रिश्वा॑ ॥ १ ॥**
 
-*vahniṃ yaśasaṃ vidathasya ketuṃ suprāvyaṃ dūtaṃ sadyoartham |*
-*dvijanmānaṃ rayim iva praśastaṃ rātiṃ bharad bhṛgave mātariśvā || 1 ||*
+*váhniṃ yaśásaṃ vidáthasya ketúṃ suprāvyàṃ dūtáṃ sadyóartham |*
+*dvijánmānaṃ rayím iva praśastáṃ rātím bharad bhṛ́gave mātaríśvā || 1 ||*
 
 **Pada-pāṭha** *(p. 462)*
 
-> वह्निम् । यशसम् । विदथस्य । केतुम् । सुऽप्राव्यम् । दूतम् । सद्यःऽअर्थम् ।
+> वह्निम् । यशसम् । विदथस्य । केतुम् । सुप्रऽअव्यम् । दूतम् । सद्यःऽअर्थम् ।
 > द्विऽजन्मानम् । रयिम्ऽइव । प्रऽशस्तम् । रातिम् । भरत् । भृगवे । मातरिश्वा ॥ १ ॥
 
-*vahnim | yaśasam | vidathasya | ketum | su-prāvyam | dūtam | sadyaḥ-artham |*
+*vahnim | yaśasam | vidathasya | ketum | supra-avyam | dūtam | sadyaḥ-artham |*
 *dvi-janmānam | rayim-iva | pra-śastam | rātim | bharat | bhṛgave | mātariśvā || 1 ||*
 
 **Sāyaṇa-bhāṣya** *(pp. 462–463)*
@@ -8379,7 +8379,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *vahniṃ haviṣāṃ voḍhāraṃ yaśasaṃ yaśasvinaṃ vidathasya ketuṃ yajñasya prakāśayitāraṃ suprāvyaṃ suṣṭhu prakarṣeṇa rakṣitāraṃ dūtaṃ devair havirvahanalakṣaṇe dautye niyuktaṃ | sadyoartham | yadā havīṃṣi juhvati sadyas tadānīm eva havirbhiḥ saha devān gantāraṃ | yadvā | sadyoartham araṇaṃ gamanaṃ yasya taṃ | dvijanmānaṃ | dvayor dyāvāpṛthivyor araṇyor vā jāyamānaṃ rayim iva dhanam iva praśastaṃ prakhyātaṃ | evaṃbhūtam agniṃ mātariśvā vāyur bhṛgava etatsaṃjñakāya maharṣaye rātiṃ bharat | mitram aharat | akarod ity arthaḥ ||*
 
-*(The tail, p. 463: on *vahniṃ* (*vahi-śri-yu-sru-glā-hā-tvaribhyo niḥ*, Uṇ. 4-… as read [?]), *yaśasam* (*yaśasvinam*, the loss of *vin* in the Veda), *suprāvyam* (*su-pra-av*, *suprāvīḥ*, Uṇ. 3-… *ī*), *sadyoartham* (*ṛ gatau*, *than*), *rātim* (*rātiḥ* = friend, *āpastamba-gṛhya* 7-… [?]: "*rātinā saṃbhāṣya*" = with a friend; or "*rātiḥ putraḥ*" some say; supporting mantra: "*rātiṃ bhṛgūṇām uśijaṃ kavikratum*", Ṛg. 3-2-4 [?]), *mātariśvā* (*mātari antarikṣe śvasiti*; *śvann ukṣann…* Uṇ. 1-… [?]; or *aś gatidīptyādāneṣu*, *dvan*) — Nirukta 7-… [?] is cited for the last word: "*mātā antarikṣaṃ śvasitir atra gatikarmā*".)*
+*(The tail, p. 463: on *vahniṃ* (*vahi-śri-yu-śru-glā-hā-tvaribhyo niḥ*, no sūtra number printed; *nit*: initial-acute), *yaśasam* (*yaśasvinam*: after *yaśas* the *vin* is dropped; end-acute by *vyatyaya*; or *ac* as belonging to *arśa-ādi*; accent as before), *suprāvyam* (*suṣṭhu prakarṣeṇāvati rakṣatīti suprāvīḥ*; *avitṛstṛtantribhya īḥ*, Uṇ. 3-158: *ī*; *vā chandasi*: optional *pūrvarūpa*, then *yaṇ*; *udāttasvaritayor yaṇaḥ*: *svarita*), *sadyoartham* (*uṣi-kuṣi-gārtibhyas than*, no number printed: *than* of *ṛ* in the agent sense; *sadya eva arthaḥ gantā sadyoarthaḥ*; avyaya-first-member accent; but *avyaye nañkunipātānām iti vaktavyam*, Pā. 6-2-2-3, restricts the avyayas to three, so it will be the bahuvrīhi accent), *rātim* (*rātinā saṃbhāṣya* in the Āpastamba Gṛhya, Āp. Gṛ. 12-14: *rātir mitram* says Kapardin; "*rātiḥ putraḥ*" some say; supporting mantra: "*rātiṃ bhṛgūṇām uśijaṃ kavikratum*", Ṛg. 3-2-4), *mātariśvā* (*mātari antarikṣe śvasiti gacchatīti*; formed as irregular in *śvann ukṣann…*, no number printed; or *as gatidīptyādāneṣu*, *mātary antarikṣe śvāśvasati*: the Uṇādi suffix *ḍvan*) — Nirukta 7-26 is cited for the last word: "*mātā antarikṣaṃ śvasitir atra gatikarmā*".)*
 
 **Translation of the bhāṣya:** "*Vahnim*, the bearer of oblations; *yaśasam*, glorious; *vidathasya ketum*, the illuminator of the sacrifice; *suprāvyam*, the excellent protector; *dūtam*, the messenger appointed by the gods to the task of carrying the oblations; *sadyoartham*: as soon as the oblations are offered, at that very moment he goes with the oblations to the gods — or, one whose going is immediate; *dvijanmānam*, born of two, of heaven and earth or of the two fire-sticks; *rayim iva praśastam*, famed like wealth. Such Agni Mātariśvan, the wind, *bharat*, brought as a friend (*rātim*) to Bhṛgu, the sage of that name — made him a friend, is the sense."
 
@@ -8389,13 +8389,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **English Translation (the source's own, p. 464)** — "Matariswan brought as a friend to Bhrigu the celebrated Vanhi, (Agni) the illuminator of sacrifices, the careful protector (of his worshippers) the swift-coursing messenger (of the gods) the offspring of two parents, highly spoken of like wealth."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 464** — **yaśasam**: "though there is no suffix giving the sense 'having glory', the sense *yaśasvinam* ('glorious') is to be understood here." **ketum**: "*yajñaṃ prakāśayitā agniḥ*: since *ketu* has the sense of 'banner', Agni is the banner-support of the sacrifice." **sadyoartham**: "*sadyaḥ arthaṃ araṇaṃ gamanaṃ yasya taṃ*, or *sadyo artham yadā havīṃṣi juhvati sadyas tadānīm eva haviḥbhiḥ saha devān gantāraṃ*: explained in two ways: one who at once carries the oblation to the gods, or one who always moves with the oblation-materials." **dvijanmānam**: "born of heaven and earth, or of two fire-sticks." **bhṛgave**: "to the great sage named Bhṛgu." **rātiṃ bharat**: "made a friend. In the place '*rātinā saṃbhāṣya*' (Āp. Gṛ. 7-… as read [?]) the sages of the Kapardin line gave *rāti* the sense 'friend'; others give *rāti* the sense 'son'. A mantra suggesting this sense is in the Ṛgveda: '*rātiṃ bhṛgūṇām uśijaṃ kavikratum*' (Ṛ. Saṃ. 3-2-4 [?]) — meaning that Uśij, [who had] the name of a son in the Bhṛgu line [?]."
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 464** — **yaśasam**: "though there is no suffix giving the sense 'having glory', the sense *yaśasvinam* ('glorious') is to be understood here." **ketum**: "*yajñaṃ prakāśayitā agniḥ*: since *ketu* has the sense of 'banner', Agni is the banner-support of the sacrifice." **sadyoartham**: "*sadyaḥ arthaṃ araṇaṃ gamanaṃ yasya taṃ*, or *sadyo artham yadā havīṃṣi juhvati sadyas tadānīm eva haviḥbhiḥ saha devān gantāraṃ*: explained in two ways: one who at once carries the oblation to the gods, or one who always moves with the oblation-materials." **dvijanmānam**: "born of heaven and earth, or of two fire-sticks." **bhṛgave**: "to the great sage named Bhṛgu." **rātiṃ bharat**: "made a friend. In the place '*rātinā saṃbhāṣya*' (Āp. Gṛ. 12-14) the sages of the Kapardin line gave *rāti* the sense 'friend'; others give *rāti* the sense 'son'. A mantra suggesting this sense is in the Ṛgveda: '*rātiṃ bhṛgūṇām uśijaṃ kavikratum*' (Ṛ. Saṃ. 3-2-4) — the sense of that part of the mantra being that Uśij is the one known as a son in the Bhṛgu line."
 
-> **रातिं भृगूणामुशिजं कविक्रतुम् ।** *(Ṛ. Saṃ. 3-2-4 as read [?])*
+> **रातिं भृगूणामुशिजं कविक्रतुम् ।** *(Ṛ. Saṃ. 3-2-4)*
 
 *rātiṃ bhṛgūṇām uśijaṃ kavikratum |* — mine and tentative: "the friend [or: gift] of the Bhṛgus, the Uśij, of poet's wisdom." **mātariśvā**: "*sarvanirmāṇahetutvān mātā antarikṣaṃ śvasitir atra gatikarmā — mātari antarikṣe śvasiti gacchatīti mātariśvā*: one who moves in the atmosphere, namely the wind."
 
-**Vyākaraṇa-prakriyā** *(pp. 464–465 — noted briefly)* — **vahnim**: *vaha prāpaṇe*; *vahiśriyuśrugṛlāhātvaribhyo niḥ* (Uṇ. 4-… as read [?]): *ni*; since *nit* is imposed by *atideśa* (*kit*-like), *ñnityādir nityam*: initial-acute; accusative. **yaśasam**: *yaśaḥ asya asti iti yaśasvī*; *asmāyāmedhāsrajo vini* (Pā. 5-2-121): *vini*; *vin* dropped (*luk*) in the Veda; by *vyatyaya* end-acute; or *arśa ādibhyo 'c* (Pā. 5-2-127): *ac*; *citaḥ*: end-acute. **suprāvyam**: *su-pra* before *av*; *avitṛstṛtantribhya īḥ* (Uṇ. 3-… as read [?]): *ī*; *suprāvīḥ*; accusative singular; *vā chandasi*: optional *pūrvarūpa*; *yaṇ*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita*. **sadyoartham**: *ṛ gatau*; *ushikuṣigārtibhyas than* (Uṇ. 2-… as read [?]): *than*; *guṇa*; *sadyaḥ arthaḥ yasya*: bahuvrīhi: first-member accent; *tatpuruṣe tulyārtha…* would give the avyaya-first accent. **mātariśvā**: *śvann ukṣann…* (Uṇ. 1-… as read [?]) as irregular; or *aś* with *dvan*; *ḍit*: loss of *ṭi*; *mātariśvan*. **bharat**: *hṛ haraṇe*; *laṅ*; *itaś ca*; *śap*; *guṇa*; no *aṭ*; *hṛgrahor bhaś chandasi*: *bh*; *nighāta*. **|| 1 ||**
+**Vyākaraṇa-prakriyā** *(pp. 464–465 — noted briefly)* — **vahnim**: *vaha prāpaṇe*; *vahiśriyuśruglāhātvaribhyo nit* (Uṇ. sū. 3-419 as printed): *ni*; since *nit* is imposed by *atideśa*, *ñnityādir nityam*: initial-acute; accusative singular. **yaśasam**: *yaśaḥ asya asti iti yaśasvī*; *asmāyāmedhāsrajo viniḥ* (Pā. sū. 5-2-121): *vini*; in the Veda *vin* dropped (*luk*); by *vyatyaya* end-acute; or, being in the *arśa-ādi* group, *arśa ādibhyo 'c* (Pā. sū. 5-2-127): *ac* in the possessive sense; *citaḥ*: end-acute. **suprāvyam**: *suṣṭhu prakarṣeṇa avati rakṣati iti suprāvīḥ*; with the two upasargas *su* and *pra* as *upapada*, *avitṛstṛtantribhya īḥ* (Uṇ. sū. 3-438 as printed): *ī*; *suprāvī*; before the accusative *am*, *vā chandasi* (Pā. sū. 6-1-106) makes the *pūrvarūpa* of *ami pūrvaḥ* optional: *yaṇ*; *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (Pā. sū. 8-2-4): *svarita* on the ending. **sadyoartham**: *ṛ gatau*; in the agent sense *uṣikuṣigārtibhyas than* (Uṇ. sū. 2-161): *than*; *guṇa*; *artha*; *sadya eva arthaḥ gantā sadyoarthaḥ* ("who goes quickly"): *tatpuruṣe tulyārtha…* (Pā. sū. 6-2-2) would give the avyaya-first-member accent, but *avyaye nañkunipātānām iti vaktavyam* (Pā. sū. 6-2-2-3) takes only those three, so not *sadyaḥ*: a bahuvrīhi then, *sadyaḥ arthaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: first-member accent. **mātariśvā**: *śvasa prāṇane* (adādi), here in the sense of going: *mātari antarikṣe śvasiti gacchati iti*; formed as irregular by *śvann ukṣan…* (Uṇ. sū. 1-156 as printed); or *as gatidīptyādāneṣu*, the Uṇādi suffix *ḍvan*; *ḍit*: loss of *ṭi*; *mātariśvan*; stated by Yāska (Niru. 7-26). **bharat**: *hṛñ haraṇe*; *laṅ*, *tip*; *itaś ca*: loss of *i*; *śap*; *guṇa*; *bahulaṃ chandasy amāṅyoge 'pi*: no *aṭ*; *hṛgrahor bhaś chandasi*: *bh* for *h*; after a non-verb: *nighāta*. **|| 1 ||**
 
 ---
 
