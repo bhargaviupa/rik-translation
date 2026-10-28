@@ -10245,27 +10245,33 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 503)*
 
-> समानयोजनो हि वां रथो दस्रावमर्त्यः ।
-> समुद्रे अश्विनेयते ॥ १८ ॥
+*(Line 1 flagged [accent ?]: above* वां *the print has a stroke with a dot, like a chandrabindu, as well as the bar beneath; only the bar is entered.)*
 
-> *samānayojano hi vāṃ ratho dasrāvamartyaḥ |*
-> *samudre aśvineyate ‖ 18 ‖*
+> स॒मा॒नयो॑जनो॒ हि वां॒ रथो॑ दस्रा॒वम॑र्त्यः । [accent ?]
+> स॒मु॒द्रे अ॑श्वि॒ने॑यते ॥ १८ ॥
+
+> *samānáyojano hí vāṃ rátho dasrāvámartyaḥ |* [accent ?]
+> *samudré aśvineyate || 18 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
-> समानऽयोजनः । हि । वाम् । रथः । दस्रौ । अमर्त्यः ।
+> समानऽयोजनः । हि । वां । रथः । दस्रौ । अमर्त्यः ।
 > समुद्रे । अश्विना । ईयते ॥ १८ ॥
 
-> *samāna 'yojanaḥ | hi | vām | rathaḥ | dasrau | amartyaḥ |*
+> *samāna 'yojanaḥ | hi | vāṃ | rathaḥ | dasrau | amartyaḥ |*
 > *samudre | aśvinā | īyate ‖ 18 ‖*
 
 **Sāyaṇa-bhāṣya** *(pp. 503–504)*
 
-> हे दस्रावश्विनौ वां युवयोः संबन्धी रथः समानयोजनस्तुल्ययोजनः । युवयोर्द्वयोरेकरथारूढत्वादुभयार्थं सकृदेव युज्यते । युक्तः स रथोऽमर्त्यो विनाशरहितः । अप्रतिहतगतिरित्यर्थः । अत एव हे अश्विनौ हि यस्मात्स रथः समुद्रेऽन्तरिक्ष ईयते गच्छति । अन्तरिक्षनामसु परिशेषं [?] समुद्रशब्दं यास्क एवं व्याचष्टे । समुद्रः कस्मात्समुद्द्रवन्त्यस्मादापः समभिद्रवन्त्येनमापः संमोदन्तेऽस्मिन्भूतानि समुदको भवति समुनत्तीति वा । नि. २-१० [?] इति ॥ समानयोजनः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अमर्त्यः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । ईयते । ईङ् गतौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वाद्यादुदात्तत्वम् । हि चेति निघातप्रतिषेधः ॥
+> हे दस्रावश्विनौ वां युवयोः संबन्धी रथः समानयोजनस्तुल्ययोजनः युवयोर्द्वयोरेकरथारूढत्वादुभयार्थं सकृदेव युज्यते । युक्तः स रथोऽमर्त्यो विनाशरहितः । अप्रतिहतगतिरित्यर्थः । अत एव हे अश्विनौ हि यस्मात्स रथः समुद्रेऽन्तरिक्ष ईयते गच्छति । अन्तरिक्षनामसु पठितं समुद्रशब्दं यास्क एवं व्याचख्यौ । समुद्रः कस्मात्समुद्द्रवन्त्यस्मादापः समभिद्रवन्त्येनमापः संमोदन्तेऽस्मिन्भूतानि समुद्रको भवति समुनत्तीति वा । नि. २-१० । इति ॥ समानयोजनः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । अमर्त्यः । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । ईयते । ईङ् गतौ । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वादाद्युदात्तत्वम् । हि चेति निघातप्रतिषेधः ॥
 
-> *he dasrāvaśvinau vāṃ yuvayoḥ saṃbandhī rathaḥ samānayojanastulyayojanaḥ | yuvayordvayorekarathārūḍhatvādubhayārthaṃ sakṛdeva yujyate | yuktaḥ sa ratho 'martyo vināśarahitaḥ | apratihatagatirityarthaḥ | ata eva he aśvinau hi yasmātsa rathaḥ samudre 'ntarikṣa īyate gacchati | antarikṣanāmasu pariśeṣaṃ [?] samudraśabdaṃ yāska evaṃ vyācaṣṭe | samudraḥ kasmātsamuddravantyasmādāpaḥ samabhidravantyenamāpaḥ saṃmodante 'sminbhūtāni samudako bhavati samunattīti vā | ni. 2-10 [?] iti ‖ samānayojanaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | amartyaḥ | avyayapūrvapadaprakṛtisvaratvam | īyate | īṅ gatau | adupadeśāllasārvadhātukānudāttatve śyano nittvādyādudāttatvam | hi ceti nighātapratiṣedhaḥ ‖*
+> *he dasrāvaśvinau vāṃ yuvayoḥ saṃbandhī rathaḥ samānayojanastulyayojanaḥ yuvayordvayorekarathārūḍhatvādubhayārthaṃ sakṛdeva yujyate | yuktaḥ sa ratho 'martyo vināśarahitaḥ | apratihatagatirityarthaḥ | ata eva he aśvinau hi yasmātsa rathaḥ samudre 'ntarikṣa īyate gacchati | antarikṣanāmasu paṭhitaṃ samudraśabdaṃ yāska evaṃ vyācakhyau | samudraḥ kasmātsamuddravantyasmādāpaḥ samabhidravantyenamāpaḥ saṃmodante 'sminbhūtāni samudrako bhavati samunattīti vā | ni. 2-10 | iti ‖ samānayojanaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvam | amartyaḥ | avyayapūrvapadaprakṛtisvaratvam | īyate | īṅ gatau | adupadeśāllasārvadhātukānudāttatve śyano nittvādādyudāttatvam | hi ceti nighātapratiṣedhaḥ ‖*
 
-*Translation:* "O Dasras, Aśvins! This chariot of yours is *samāna-yojana* — equally yoked: since you both ride one chariot, it is yoked once for both. That yoked chariot is *amartya*, free of destruction — of unhindered course. For that very reason, O Aśvins, since it travels (*īyate*) in the *samudra* — the atmosphere. Yāska explains the word *samudra*, among the names of the atmosphere, thus: 'Why *samudra*? Because the waters flow out of it, the waters run together to it, creatures rejoice in it; or it is *samudaka*; or it wets (*samunatti*)' (Nirukta 2-10 [?])."
+*Translation:* "O Dasras, Aśvins! The chariot belonging to you two (*vām*) is *samāna-yojana*, equally yoked: since you both ride one chariot, it is yoked once for both. Yoked, that chariot is *amartya*, free of destruction, that is, of unhindered course. For that very reason, O Aśvins, because (*hi*) that chariot goes (*īyate*) in the *samudra*, the atmosphere. Yāska explained the word *samudra*, read among the names of the atmosphere, thus: 'Why *samudra*? Because the waters flow out of it; the waters run together to it; creatures rejoice in it; it is full of water [*samudraka*, so printed]; or because it wets' (Ni. 2-10)." The grammatical tail: *samānayojanaḥ* has the first-member accent of a bahuvrīhi; *amartyaḥ* the accent of its indeclinable first member; *īyate* (*īṅ gatau*): the *lasārvadhātuka* grave after a root with *a* in its *upadeśa*, so initial udātta as *śyan* is *nit*; not grave by *hi ca*.
+
+### Page 504 — Sūkta 30, Rik 18 (continued)
 
 **Pratipadārtha** *(p. 504, rendered)* — **दस्रौ** O Aśvin gods; **वाम्** your; **रथः** chariot (for both); **समानयोजनः** yoked equally in one yoking; **अमर्त्यः** free of destruction (of unhindered movement); **हि** for that very reason; **समुद्रे** in the atmosphere; **ईयते** it moves.
 
@@ -10275,9 +10281,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > Dasras, your chariot harnessed and drawn by a common team (of horses) is imperishable ; Aswins, it travels through the air.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 504–505)* — **समानयोजनः** — since both Aśvins ride one chariot, it is yoked once, at the same time, for both; the chariot of both is one, hence the word. **अमर्त्यः** — *vināśarahitaḥ*: "imperishable, indestructible" (English as printed). **समुद्रे** — *antarikṣe*: the word *samudra* is read among the sixteen names of the atmosphere beginning *ambara, viyat*, hence 'in the atmosphere'. Yāska's *nirvacana* (Nirukta 2-10 [?]), given above, is rendered by the Kannada: because waves and ripples are seen to rise from its water; because water-animals sport in it; because water mingles in it; because its water wets everything. But none of these senses points to the sense 'atmosphere'.
+**Viśeṣa-viṣayagaḷu** *(pp. 504–505)* — **समानयोजनः** — since both Aśvins ride one chariot, it is yoked once, at the same time, for both; the chariot of both is one, hence the word. **अमर्त्यः** — *vināśarahitaḥ*: "imperishable, indestructible" (English as printed). **समुद्रे** — *antarikṣe*: the word *samudra* is read among the sixteen names of the atmosphere beginning *ambara, viyat*, hence 'in the atmosphere'. 
 
-**Grammar (p. 505), noted briefly:** *samānayojanaḥ* (bahuvrīhi, P. 6-2-1); *vām* (*yuṣmadasmador ṣaṣṭhīcaturthīdvitīyāsthayor vānnāvau* P. 8-1-20, unaccented); *amartyaḥ* (negative compound, P. 6-2-2 [as read]); *īyate* (*īṅ gatau*, *divādi*, *e* P. 3-4-79, *śyan* P. 3-1-69, *tāsyanudāttenṅidadupadeśāt…* P. 6-1-186; lowering barred by P. 8-1-34 *hi ca*); *aśvinā* (*supāṃ suluk* P. 7-1-39). Numerals as read, [?].
+### Page 505 — Sūkta 30, Rik 18 (continued)
+
+Yāska's *nirvacana* (Ni. 2-10), given above (here with *samudako bhavati*), is rendered by the Kannada: because waves and ripples are seen to rise from its water; because water-animals sport in it; because water mingles in it; because its water wets everything. But none of these senses points to the sense 'atmosphere'.
+
+**Vyākaraṇa-prakriyā** *(p. 505, noted briefly)* — *samānayojanaḥ*: '*samānaṃ yojanaṃ yasya*', bahuvrīhi; first-member accent by '*bahuvrīhau prakṛtyā pūrvapadam*' (Pā. sū. 6-2-1): the *ā* after *n* of *samāna* is udātta. *vām*: genitive dual of *yuṣmad*; *vām* for the stem with its ending by '*yuṣmadasmadoḥ ṣaṣṭhīcaturthī-*' (Pā. sū. 8-1-20); grave. *amartyaḥ*: '*na martyaḥ*', *nañ* tatpuruṣa; the indeclinable first member keeps its accent by '*tatpuruṣe tulyārtha-*' (Pā. sū. 6-2-2): initial udātta. *īyate*: *īṅ gatau*, *divādi*, *laṭ* third person singular *ta*; *e* by '*ṭita ātmanepadānām*' (Pā. sū. 3-4-79); *śyan* by '*divādibhyaḥ śyan*' (Pā. sū. 3-1-69); the *lasārvadhātuka* grave by '*tāsyanudātteṭ-*' (Pā. sū. 6-1-186); initial udātta, *śyan* being *nit*, by '*ñnity ādir nityam*' (Pā. sū. 6-1-197); though after a non-*tiṅ*, not grave, because of *hi*, by '*hi ca*' (Pā. sū. 8-1-34). *aśvinā*: vocative dual; *pūrvasavarṇadīrgha* by '*supāṃ suluk*' (Pā. sū. 7-1-39).
 
 ---
 
