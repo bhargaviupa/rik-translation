@@ -7436,19 +7436,19 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Heading block of Sūkta 58 *(p. 412, PDF 428)*
 
-Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga 23, 24 [as read, [?]] · Riks: 9 · Ṛṣi: Nodhas Gautama · Deity: Agni · Metre: Riks 1–5 Jagatī, Riks 6–9 Triṣṭubh.
+Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga 23, 24 · Riks: 9 · Ṛṣi: Nodhas Gautama · Deity: Agni · Metre: Riks 1–5 Jagatī, Riks 6–9 Triṣṭubh.
 
 ---
 
 ### Rik 58.1 (pp. 412–414, PDF 428–430)
 
-**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(accents as printed)*
 
-> **नू चित्सहोजा अमृतो नि तुन्दते होता यद्दूतो अभवद्विवस्वतः ।**
-> **वि साधिष्ठेभिः पथिभी रजो मम आ देवताता हविषा विवासति ॥ १ ॥**
+> **नू चि॑त्सहो॒जा अ॒मृतो॒ नि तु॑न्दते॒ होता॒ यद्दू॒तो अभ॑वद्वि॒वस्व॑तः ।**
+> **वि साधि॑ष्ठेभिः प॒थिभी॒ रजो॑ मम॒ आ दे॒वता॑ता ह॒विषा॑ विवासति ॥ १ ॥**
 
-*nū cit sahojā amṛto ni tundate hotā yad dūto abhavad vivasvataḥ |*
-*vi sādhiṣṭhebhiḥ pathibhī rajo mama ā devatātā haviṣā vivāsati || 1 ||*
+*nū́ cit sahojā́ amṛ́to ní tundate hótā yád dūtó ábhavad vivásvataḥ |*
+*ví sā́dhiṣṭhebhiḥ pathíbhī rájo mama ā́ devátātā havíṣā vivāsati || 1 ||*
 
 **Pada-pāṭha** *(p. 412)*
 
@@ -7460,11 +7460,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(pp. 412–413)*
 
-> **सहोजाः सहसा बलेन जातः । अग्निर्हि बलेन मथ्यमानोऽरण्योः सकाशाज्जायते । अमृतो मरणरहितः । एवंभूतोऽग्निर्नू चित् क्षिप्रमेव नि तुन्दते । नितरां व्यथयति । उत्पन्नमात्रस्याग्नेः स्पृष्टुमशक्यत्वात् । यद्वा । निर्गच्छति । तुन्दतिर्गत्यर्थः सौत्रो धातुः । यद्यदा होता देवानामाह्वाता होमनिष्पादको वाग्निर्विवस्वतः परिचरतो यजमानस्य देवान्प्रति हविर्वहनाय दूतोऽभवत् । हविर्वहने नियुक्तो भवति तदानीं साधिष्ठेभिः समीचीनैः पथिभिर्मार्गैर्गच्छन् रजोऽन्तरिक्षलोकं वि ममे । निर्मिमे । पूर्वं विद्यमानमस्यान्तरिक्षमसत्कल्पमभूत् । इदानीं तस्य तेजसा प्रकाशमानं सदुत्पन्नमिव दृश्यते । किंच । देवतातेति यज्ञनाम । देवतातौ देवताता यज्ञे हविषा चरुपुरोडाशादिलक्षणेन देवानां विवासति । परिचरति ॥**
+> **सहोजाः सहसा बलेन जातः । अग्निर्हि बलेन मथ्यमानोऽरण्योः सकाशाज्जायते । अमृतो मरणरहितः । एवंभूतोऽग्निर्नू चित् क्षिप्रमेव नि तुन्दते । नितरां व्यथयति । उत्पन्नमात्रस्याग्नेः स्पृष्टुमशक्यत्वात् । यद्वा । निर्गच्छति । तुन्दतिर्गत्यर्थः सौत्रो धातुः । यद्यदा होता देवानामाह्वाता होमनिष्पादको वायमग्निर्विवस्वतः परिचरतो यजमानस्य देवान्प्रति हविर्वहनाय दूतोऽभवत् । हविर्वहने नियुक्तो भवति तदानीं साधिष्ठेभिः समीचीनैः पथिभिर्मार्गैर्गच्छन् रजोऽन्तरिक्षलोकं वि ममे । निर्मिमे । पूर्वं विद्यमानमस्यान्तरिक्षमसत्कल्पमभूत् । इदानीं तस्य तेजसा प्रकाशमानं सदुत्पन्नमिव दृश्यते । किंच । देवतातेति यज्ञनाम । देवतातौ देवताता यज्ञे हविषा चरुपुरोडाशादिलक्षणेन देवानां विवासति । परिचरति ॥**
 
-*sahojāḥ sahasā balena jātaḥ | agnir hi balena mathyamāno 'raṇyoḥ sakāśāj jāyate | amṛto maraṇarahitaḥ | evaṃbhūto 'gnir nū cit kṣipram eva ni tundate | nitarāṃ vyathayati | utpannamātrasyāgneḥ spraṣṭum aśakyatvāt | yadvā | nirgacchati | tundatir gatyarthaḥ sautro dhātuḥ | yad yadā hotā devānām āhvātā homaniṣpādako vāgnir vivasvataḥ paricarato yajamānasya devān prati havirvahanāya dūto 'bhavat | havirvahane niyukto bhavati tadānīṃ sādhiṣṭhebhiḥ samīcīnaiḥ pathibhir mārgair gacchan rajo 'ntarikṣalokaṃ vi mame | nirmime | pūrvaṃ vidyamānam asyāntarikṣam asatkalpam abhūt | idānīṃ tasya tejasā prakāśamānaṃ sad utpannam iva dṛśyate | kiṃca | devatāteti yajñanāma | devatātau devatātā yajñe haviṣā caru-puroḍāśādilakṣaṇena devānāṃ vivāsati | paricarati ||*
+*sahojāḥ sahasā balena jātaḥ | agnir hi balena mathyamāno 'raṇyoḥ sakāśāj jāyate | amṛto maraṇarahitaḥ | evaṃbhūto 'gnir nū cit kṣipram eva ni tundate | nitarāṃ vyathayati | utpannamātrasyāgneḥ spraṣṭum aśakyatvāt | yadvā | nirgacchati | tundatir gatyarthaḥ sautro dhātuḥ | yad yadā hotā devānām āhvātā homaniṣpādako vāyam agnir vivasvataḥ paricarato yajamānasya devān prati havirvahanāya dūto 'bhavat | havirvahane niyukto bhavati tadānīṃ sādhiṣṭhebhiḥ samīcīnaiḥ pathibhir mārgair gacchan rajo 'ntarikṣalokaṃ vi mame | nirmime | pūrvaṃ vidyamānam asyāntarikṣam asatkalpam abhūt | idānīṃ tasya tejasā prakāśamānaṃ sad utpannam iva dṛśyate | kiṃca | devatāteti yajñanāma | devatātau devatātā yajñe haviṣā caru-puroḍāśādilakṣaṇena devānāṃ vivāsati | paricarati ||*
 
-*(The tail on pp. 413 is characterized, with the Nirukta "*devatātā* … *yajñanāmāni* … fifteen" and the sūtras *sarvadevāt tātil* and *supāṃ sulug…*: on *sahojāḥ*, *amṛtaḥ*, *tundate* (*tuda vyathane*, *svaritet*), *sādhiṣṭhebhiḥ* (*bāḍha* + *iṣṭhan*, *antikabāḍhayor nedasādhau*), *devatātā* (*tātil*), *vivāsati* (*vivāsa paricaraṇe*).)*
+*(The tail, p. 413, is characterized: on *amṛtaḥ* (bahuvrīhi; *nañ jaramaramitramṛtāḥ*), *tundate* (*tuda vyathane*, *svaritet*: *ātmanepada*; the *n* augment Vedic), *sādhiṣṭhebhiḥ* (*bāḍha* + *iṣṭhan*; *antikabāḍhayor nedasādhau*, Pā. 5-3-63; *bahulaṃ chandasi*: no *ais*; *nit*: initial-acute), *devatātā* (*sarvadevāt tātil*, Pā. 4-4-142; or construe *devān haviṣā ā vivāsati*; *supāṃ suluk…*: *ḍā*; *lit*-accent).)*
 
 **Translation of the bhāṣya:** "*Sahojāḥ*: born by *sahas*, force — for Agni is born of the two fire-sticks when rubbed with force; *amṛtaḥ*, free from death. Such Agni *nū cit*, quickly, *ni tundate*: it troubles utterly — since Agni, once born, cannot be touched; or: it comes forth (*tundati* is a Sautra root of motion). *Yat*, when the *hotā*, the invoker of the gods or performer of the oblation, Agni, became the *dūtaḥ*, messenger of the sacrificer *vivasvataḥ* who serves, to carry the oblations to the gods — when he is appointed to carry oblations — then going by the *sādhiṣṭhebhiḥ pathibhiḥ*, the best paths, he *vi mame*, measures out, creates, *rajaḥ*, the atmosphere-world: formerly it had existed as though non-existent; now, shining by his radiance, it is seen as though newly born. Further: *devatātā* is a name for sacrifice; in the sacrifice, with oblations such as *caru* and *puroḍāśa*, he *vivāsati*, serves, the gods."
 
@@ -7481,15 +7481,15 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **ni tundate** — "*Nitarāṃ vyathayati* or *nirgacchati*: none can touch Agni born of the sticks; if one touches, he causes pain; or: he comes out from the stick, manifesting his form previously hidden. The sense of motion is assigned to the root *tuda*, which means 'to hurt'."
 - **hotā** — "One who invites all the deities in the sacrifice; here, since it is Agni who invites the deities, Agni is called *hotṛ*."
 - **vivasvataḥ** — "The sacrificer who serves Agni."
-- **devatātā** — "A name for sacrifice; in the Nirukta (Ni. 3-17 as read [?]) fifteen synonyms for sacrifice are read: *yajñanāmāny uttarāṇi pañcadaśa*. This word, though in the nominative form, is used in the locative sense."
+- **devatātā** — "A name for sacrifice; in the Nirukta (Niru. 3-19) fifteen synonyms for sacrifice are read: *yajñanāmāny uttarāṇi pañcadaśa*. This word, though in the nominative form, is used in the locative sense."
 
 **Vyākaraṇa-prakriyā** *(pp. 414–415 — grammar pages, noted briefly)*
-- **nu**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
+- **nu**: *ṛci tunughamakṣu…* (Pā. 6-3-133): lengthening in the Saṃhitā.
 - **amṛtaḥ**: bahuvrīhi with *naña*: *nañi jaramaramitramṛtāḥ* (Pā. 6-2-116): the last member's initial is acute.
 - **tundate**: *tuda vyathane*, *svaritet*: *ātmanepada* (*svaritañitaḥ…*); *ta* → *e* (*ṭita ātmanepadānāṃ ṭer e*); *tudādibhyaḥ śaḥ*; *ṅit*-ness: no *laghūpadha-guṇa*; *nuṭ* as Vedic augment (*nakārāgama chāndasa*); *nighāta*.
 - **abhavat**: *bhū sattāyām*; *laṅ*; *yat* before: no *nighāta*; *aṭ* acute: initial-acute.
 - **sādhiṣṭhebhiḥ**: *bāḍha* in the sense of excess takes *iṣṭhan*; *antikabāḍhayor nedasādhau* (Pā. 5-3-63): *sādha* for *bāḍha*; *ṭeḥ*: loss of *a*; *sādhiṣṭha*; instrumental plural: *bahulaṃ chandasi*: no *ais* [*ebhis*]; *bahuvacane jhaly et*: *e*; *ru*, *visarga*; *nit*: initial-acute.
-- **devatātā**: *sarvadevāt tātil* (Pā. 4-4-142): *tātil* in the self-sense; *ṭilopa*; *supāṃ sulug…*: *ḍā*-substitution (*ā*) of the locative; *lit*-ness gives the acute before the suffix.
+- **devatātā**: *sarvadevāt tātil* (Pā. 4-4-142): *tātil* in the self-sense; *ṭilopa*; *supāṃ sulug…*: *ḍā*-substitution (*ā*) of the case ending (the print says of the accusative, *dvitīyā*; it also allows the construction *devān haviṣā ā vivāsati*); *lit*-ness gives the acute before the suffix.
 - **vivāsati**: *vivāsa paricaraṇe*; *laṭ*; *nighāta*. **|| 1 ||**
 
 ---
