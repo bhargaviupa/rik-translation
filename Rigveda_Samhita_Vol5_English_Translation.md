@@ -7124,13 +7124,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 57.2 (pp. 396–398, PDF 412–414)
 
-**Saṃhitā-pāṭha** *(p. 396)*
+**Saṃhitā-pāṭha** *(p. 396; accents as printed)*
 
-> **अध ते विश्वमनु हासदिष्टय आपो निम्नेव सवना हविष्मतः ।**
-> **यत्पर्वते न समशीत हर्यत इन्द्रस्य वज्रः श्नथिता हिरण्ययः ॥ २ ॥**
+> **अध॑ ते॒ विश्व॒मनु॑ हासदि॒ष्टय॒ आपो॑ नि॒म्नेव॒ सव॑ना ह॒विष्म॑तः ।**
+> **यत्पर्व॑ते॒ न स॒मशी॑त हर्य॒त इन्द्र॑स्य॒ वज्रः॒ श्नथि॑ता हिर॒ण्ययः॑ ॥ २ ॥**
 
-*adha te viśvam anu hāsad iṣṭaya āpo nimneva savanā haviṣmataḥ |*
-*yat parvate na samaśīta haryata indrasya vajraḥ śnathitā hiraṇyayaḥ || 2 ||*
+*ádha te víśvam ánu hāsad iṣṭáya ā́po nimnéva sávanā havíṣmataḥ |*
+*yát párvate ná samáśīta haryatá índrasya vájraḥ śnáthitā hiraṇyáyaḥ || 2 ||*
 
 **Pada-pāṭha** *(p. 396)*
 
@@ -7142,13 +7142,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 397)*
 
-> **अध हानन्तरमेव हे इन्द्र विश्वं सर्वमिदं जगत्ते तव संबन्धिन इष्टये यागायान्वसत् । अन्वभवत् । यद्वा । इष्टये हविरादिभिस्तव प्राप्तय इति योज्यम् । हविष्मतो यजमानस्य सवना सवनानि यज्ञजातानि निम्नेव निम्नानि भूस्थलान्यापा इव त्वां संभजन्त इति शेषः । हर्यतः शत्रुवधं प्रेप्सत इन्द्रस्य । हर्यतिः प्रेप्साकर्मेति यास्कः । नि. २-१२ । यद्वा । हर्यतः शोभनः । हिरण्मयो हिरण्ययः श्नथिता शत्रूणां हिंसनशीलो वज्रः पर्वते पर्ववति शिलोच्चये वृत्रे वा यद्यदा न समशीत संसुप्तो नाभवत् । किंतु जागरितः सन्नवधीदित्यर्थः । यदेन्द्रेण प्रेरितो वज्रोऽप्रतिहतः सन्वृत्रमवधीत्तदाप्यभ्युक्त्यैव शं यष्टुं सर्वे यजमानाः प्रावर्तिषतेति भावः ॥**
+> **अध हानन्तरमेव हे इन्द्र विश्वं सर्वमिदं जगत्ते तव संबन्धिन इष्टये यागायान्वसत् । अन्वभवत् । यद्वा । इष्टये हविरादिभिस्तव प्राप्तय इति योज्यम् । हविष्मतो यजमानस्य सवना सवनानि यज्ञजातानि निम्नेव निम्नानि भूस्थलान्याप इव त्वां संभजन्त इति शेषः । हर्यतः शत्रुवधं प्रेप्सत इन्द्रस्य । हर्यतिः प्रेप्साकर्मेति यास्कः । नि. २-१२ । यद्वा । हर्यतः शोभनः । हिरण्मयो हिरण्ययः श्नथिता शत्रूणां हिंसनशीलो वज्रः पर्वते पर्ववति शिलोच्चये वृत्रे वा यद्यदा न समशीत संसुप्तो नाभवत् । किंतु जागरितः सन्नवधीदित्यर्थः । यदेन्द्रेण प्रेरितो वज्रोऽप्रतिहतः सन्वृत्रमवधीत्तदाप्रभृत्येव तं यष्टुं सर्वे यजमानाः प्रावर्तिषतेति भावः ॥**
 
-*adha hānantaram eva he indra viśvaṃ sarvam idaṃ jagat te tava saṃbandhina iṣṭaye yāgāyānvasat | anvabhavat | yadvā | iṣṭaye haviradibhis tava prāptaya iti yojyam | haviṣmato yajamānasya savanā savanāni yajñajātāni nimneva nimnāni bhūsthalāny āpā iva tvāṃ saṃbhajanta iti śeṣaḥ | haryataḥ śatruvadhaṃ prepsata indrasya | haryatiḥ prepsākarmeti yāskaḥ | ni. 2-12 | yadvā | haryataḥ śobhanaḥ | hiraṇmayo hiraṇyayaḥ śnathitā śatrūṇāṃ hiṃsanaśīlo vajraḥ parvate parvati śiloccaye vṛtre vā yad yadā na samaśīta saṃsupto nābhavat | kiṃtu jāgaritaḥ sann avadhīd ity arthaḥ | yadendreṇa prerito vajro 'pratihataḥ san vṛtram avadhīt tadāpy abhyuktyaiva [?] śaṃ yaṣṭuṃ sarve yajamānāḥ prāvartiṣateti bhāvaḥ ||*
+*adha hānantaram eva he indra viśvaṃ sarvam idaṃ jagat te tava saṃbandhina iṣṭaye yāgāyānvasat | anvabhavat | yadvā | iṣṭaye havirādibhis tava prāptaya iti yojyam | haviṣmato yajamānasya savanā savanāni yajñajātāni nimneva nimnāni bhūsthalāny āpa iva tvāṃ saṃbhajanta iti śeṣaḥ | haryataḥ śatruvadhaṃ prepsata indrasya | haryatiḥ prepsākarmeti yāskaḥ | ni. 2-12 | yadvā | haryataḥ śobhanaḥ | hiraṇmayo hiraṇyayaḥ śnathitā śatrūṇāṃ hiṃsanaśīlo vajraḥ parvate parvavati śiloccaye vṛtre vā yad yadā na samaśīta saṃsupto nābhavat | kiṃtu jāgaritaḥ sann avadhīd ity arthaḥ | yadendreṇa prerito vajro 'pratihataḥ san vṛtram avadhīt tadāprabhṛtyeva taṃ yaṣṭuṃ sarve yajamānāḥ prāvartiṣateti bhāvaḥ ||*
 
 *(The tail, p. 397: on* asat *(*as bhuvi*, *laṅ*; *śap* not elided; no *aṭ*),* iṣṭaye *(*yaja*, *ktin*; *vacisvapiyajādīnāṃ kiti*: *saṃprasāraṇa*; *vraścabhrasja…*: *ṣatva*; *ṣṭutva*; Uṇādi alternative *iṣa gatau*),* nimneva *(*nimna* + *iva*; *eva*; Vedic *ā* shortening),* samaśīta *(*śīṅ svapne*, *laṅ*; *guṇa* barred),* haryataḥ *(*haryatir gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…*: *atac*),* śnathitā *(*śnatha kṣatha kratha hiṃsārthāḥ*; *tācchīlika tṛn*; *sit*: *anudātta*, so initial-acute) — see Kannada notes.)*
 
-**Translation of the bhāṣya:** "*Adha*, immediately after that, O Indra, *viśvam*, this entire world, *te iṣṭaye*, for your sacrifice, *anv asat*, was ready — or: *iṣṭaye* 'for reaching you with oblations': connect so. *Haviṣmataḥ savanā*, the sacrifices of the sacrificer who has oblations, *nimneva āpaḥ*, like waters to low places, flow to you (this is understood) — of Indra *haryataḥ*, who desires the slaying of enemies (*haryati* is a verb of desire, Ni. 2-12 [?]); or *haryataḥ*, beautiful. The *hiraṇyayaḥ*, golden, *śnathitā*, enemy-destroying thunderbolt *yad na samaśīta*, did not sleep *parvate*, on the mountain, the heap of rock, or on Vṛtra: it did not become dormant, but, awake, it killed. When the thunderbolt, driven by Indra, unresisted, killed Vṛtra, then all the sacrificers set about the sacrifice, as if bidden, to conclude it, is the sense."
+**Translation of the bhāṣya:** "*Adha*, immediately after that, O Indra, *viśvam*, this entire world, *te iṣṭaye*, for your sacrifice, *anv asat*, was ready — or: *iṣṭaye* 'for reaching you with oblations': connect so. *Haviṣmataḥ savanā*, the sacrifices of the sacrificer who has oblations, *nimneva āpaḥ*, like waters to low places, flow to you (this is understood) — of Indra *haryataḥ*, who desires the slaying of enemies (*haryati* is a verb of desire, Ni. 2-12); or *haryataḥ*, beautiful. The *hiraṇyayaḥ*, golden, *śnathitā*, enemy-destroying thunderbolt *yad na samaśīta*, did not sleep *parvate*, on the mountain, the heap of rock, or on Vṛtra: it did not become dormant, but, awake, it killed. When the thunderbolt, driven by Indra, unresisted, killed Vṛtra, from that time on all the sacrificers set about worshipping him, is the sense."
 
 **Pratipadārtha** *(p. 397)* — "**haryataḥ** — who looked for the slaying (of enemies); **indrasya** — of Indra; **hiraṇyayaḥ** — made of gold; **śnathitā** — the destroyer of enemies; **vajraḥ** — the thunderbolt; **parvate** — on the mountain, or when hurled at Vṛtra; **yat** — when; **na samaśīta** — did not sleep (i.e. being sharp, it killed the enemy); **adha ha** — immediately after that; **viśvam** — the whole world; **te** — for you; **iṣṭaye** — for the sacrifice; **anu asat** — became ready; **haviṣmataḥ** — of the sacrificer; **savanā** — the offerings; **nimneva āpaḥ** — like waters flowing in a low place (reached you without obstruction)."
 
@@ -7160,7 +7160,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **adha** — "The word *adha* is used in the sense of *atha*, 'afterwards'."
 - **iṣṭaye** — "Explained in two ways: for worshipping you with oblations; or for the sacrifice."
 - **savanā** — "Though the word *savana* denotes only sacrifice, here, by implication, it means all the acts that occur in the sacrifice."
-- **haryataḥ** — "*Śatruvadhaṃ prepsataḥ*; *haryatiḥ prepsākarmā* (Ni. 2-12 [?]): by this Nirukta usage the verb *hary gatikāntyoḥ* [the root *hary* with the senses of motion and desire] takes the sense of an act that is wished for. They also give the sense 'praiseworthy' to this word."
+- **haryataḥ** — "*Śatruvadhaṃ prepsataḥ*; *haryatiḥ prepsākarmā* (Niru. 2-12): by this Nirukta usage the verb *hary gatikāntyoḥ* [the root *hary* with the senses of motion and desire] takes the sense of an act that is wished for. They also give the sense 'praiseworthy' to this word."
 - **śnathitā** — "The thunderbolt is by nature destroyer of enemies; it is an epithet of *vajra*. After the thunderbolt, driven by Indra, had uprooted the enemies, all began to please Indra with sacrificial acts: this is the point here."
 
 **Vyākaraṇa-prakriyā** *(pp. 398– — grammar pages, noted briefly; continued on p. 399)*
@@ -7174,9 +7174,9 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Rik 57.2, grammar (end)** *(p. 399, PDF 415 — grammar page, noted briefly)*
 - **iṣṭaye** (end): since *ktin* is *nit*, it would be initial-acute, but by *vyatyaya* … *mantre vṛṣeṣapacamanaviduṣyā…*: *ktin* acute; dative.
-- **nimneva savanā**: both words are neuter plural; the *śi* that replaces *jas/śas* is dropped by *śeś chandasi bahulam*.
-- **samaśīta**: *śīṅ svapne*, *adādi*; *laṅ* third singular, *ta*; *sārvadhātukam apit* makes it *ṅit*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *guṇa* of *śīṅ* (*sārvadhātuke guṇaḥ*, Pā. 7-4-21 as read [?]) does not come, by *saṃjñāpūrvako vidhir anityaḥ*; *aṭ*; *yat* before: no *nighāta*; the *aṭ* is acute.
-- **haryataḥ**: *hary gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…* (Uṇ. 3-… as read [?]): *atac*; *citaḥ*: end-acute.
+- **nimneva savanā**: both words are neuter plural; the *śi* that replaces *jas/śas* is dropped by *śeś chandasi bahulam* (Pā. 6-1-70).
+- **samaśīta**: *śīṅ svapne*, *adādi*; *laṅ* third singular, *ta*; *sārvadhātukam apit* makes it *ṅit*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *guṇa* of *śīṅ* (*sārvadhātuke guṇaḥ*, Pā. 7-4-21) does not come, by *saṃjñāpūrvako vidhir anityaḥ* (Pari. 93); *aṭ*; *yat* before: no *nighāta*; the *aṭ* is acute.
+- **haryataḥ**: *hary gatikāntyoḥ*; *bhṛmṛdṛśīyajiparvibandhi…* (Uṇ. 3-110): *atac*; *citaḥ*: end-acute.
 - **śnathitā**: *śnatha kṣatha kratha hiṃsārthāḥ*; *tācchīlye tṛn*; *ārdhadhātukasyeḍ valādeḥ*: *iṭ*; *śnathitṛ*; *nit*: initial-acute; nominative singular *su*: *ṛdudaśanas…*: *anaṅ*; *aptṛntṛc…*: lengthening of the penultimate; *halṅyādi*: *su* dropped; *nalopaḥ prātipadikāntasya*: *n* dropped. **|| 2 ||**
 
 ---
