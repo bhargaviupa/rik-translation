@@ -10618,23 +10618,51 @@ Since Hiraṇyastūpa, the seer of this sūkta, was born in the Aṅgirasa line,
 
 ### Pages 524–528 — Sūkta 31, Rik 2
 
-**Saṃhitā-pāṭha** *(accent-marks printed; not reproduced)*: त्वमग्ने प्रथमो अङ्गिरस्तमः कविर्देवानां परि भूषसि व्रतम् । विभुर्विश्वस्मै भुवनाय मेधिरो द्विमाता शयुः कतिधा चिदायवे ॥ २ ॥
-*tvam agne prathamo aṅgirastamaḥ kavir devānāṃ pari bhūṣasi vratam | vibhur viśvasmai bhuvanāya medhiro dvimātā śayuḥ katidhā cid āyave || 2 ||*
+**Saṃhitā-pāṭha** *(p. 524)*
 
-**Pada-pāṭha:** त्वम् । अग्ने । प्रथमः । अङ्गिरःऽतमः । कविः । देवानाम् । परि । भूषसि । व्रतम् । विऽभुः । विश्वस्मै । भुवनाय । मेधिरः । द्विऽमाता । शयुः । कतिऽधा । चित् । आयवे ॥ २ ॥
-*tvam | agne | prathamaḥ | aṅgiraḥ-tamaḥ | kaviḥ | devānām | pari | bhūṣasi | vratam | vi-bhuḥ | viśvasmai | bhuvanāya | medhiraḥ | dvi-mātā | śayuḥ | kati-dhā | cit | āyave || 2 ||*
+*(As printed in four lines. Line 3 flagged [accent ?]: the second bar of* द्विमाता *stands between* मा *and* ता*; taken under* मा*. Line 4 flagged [accent ?]: the stroke stands over* क *and the bar under* ति *of* कतिधा*.)*
 
-**Sāyaṇa-bhāṣya** *(p. 525)* *(compressed; doubtful clauses marked [?])*: हे अग्ने त्वं प्रथम आद्यः अङ्गिरस्तमोऽतिशयेनाङ्गिरा भूत्वा कविर्मेधावी सन् देवानामेषां व्रतं कर्म परि भूषसि । परितोऽलंकरोषि । कीदृशस्त्वम् । विश्वस्मै भुवनाय समस्तलोकानुग्रहार्थं विभुर्बहुविधः । आहवनीयाद्यनेकरूपधारीत्यर्थः । मेधिरो मेधावान् द्विमाता द्वयोररण्योरुत्पन्नः । यद्वा द्वयोर्लोकयोर्निर्माता । आयवे मनुष्यार्थं कतिधा चित् कतिभिः प्रकारैः सर्वत्र शयुः शयानः । तत्र मनुष्येषु वसतस्तव प्रकारा इयन्त इति न केनापि ज्ञायत इत्यर्थः [?] ॥ भूषसि । भूष अलंकारे । भौवादिकः । विभुः । विप्रसंभ्यो ड्वसंज्ञायाम् । पा. ३-२-१८० । इति विपूर्वाद्भवतेर्डुप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । भुवनाय । भूदोसोभृसृमृशिभ्यश्छन्दसि । उ. २-?? [?] इति क्युन् । युवोरनाकौ । इत्यनादेशः । प्रत्ययोत्तरपदयोश्च । … मेधिरः । मेधृ सङ्गमे च । अस्मादुणादिबहुलमिरन् । द्विमाता । द्वे मातरौ यस्यासौ द्विमाता । … शयुः । शीङ् स्वप्ने । भृमृशीङ्… उ-प्रत्ययः । कतिधा । किमः संख्यापरिमाणे डति च । पा. ५-२-४१ । इति डति । … संख्यायाः विधार्थे धा । पा. ५-३-४२ । आयवे । इण् गतौ । छन्दसीणः । उ. १-२ [?] इति उण् । णित्त्वादाचोऽञ्णिति । पा. ७-२-११५ । इति वृद्धिः ॥
-*he agne tvaṃ prathama ādyaḥ aṅgirastamo 'tiśayenāṅgirā bhūtvā kavir medhāvī san devānām eṣāṃ vrataṃ karma pari bhūṣasi | parito 'laṃkaroṣi | kīdṛśas tvam | viśvasmai bhuvanāya samastalokānugrahārthaṃ vibhur bahuvidhaḥ | āhavanīyādyanekarūpadhārīty arthaḥ | medhiro medhāvān dvimātā dvayor araṇyor utpannaḥ | yadvā dvayor lokayor nirmātā | āyave manuṣyārthaṃ katidhā cit katibhiḥ prakāraiḥ sarvatra śayuḥ śayānaḥ | tatra manuṣyeṣu vasatas tava prakārā iyanta iti na kenāpi jñāyata ity arthaḥ [?] || bhūṣasi | bhūṣa alaṃkāre | bhauvādikaḥ | vibhuḥ | viprasambhyo ḍvasaṃjñāyām | pā. 3-2-180 | iti vipūrvād bhavater ḍupratyayaḥ | kṛduttarapadaprakṛtisvaratvam | bhuvanāya | bhūdosobhṛsṛmṛśibhyaś chandasi | u. 2-?? [?] iti kyun | yuvor anākau | ity anādeśaḥ | … medhiraḥ | medhṛ saṅgame ca | asmād uṇādibahulam iran | dvimātā | dve mātarau yasyāsau dvimātā | … śayuḥ | śīṅ svapne | … u-pratyayaḥ | katidhā | kimaḥ saṃkhyāparimāṇe ḍati ca | pā. 5-2-41 | iti ḍati | … saṃkhyāyāḥ vidhārthe dhā | pā. 5-3-42 | āyave | iṇ gatau | chandasīṇaḥ | u. 1-2 [?] iti uṇ | ṇittvād āco 'ñṇiti | pā. 7-2-115 | iti vṛddhiḥ ||*
-"O Agni! You, the first, the most Aṅgiras-like, wise, adorn [*pari bhūṣasi*, 'grace on all sides'] the work of the gods. How are you? For the favour of the whole world [*viśvasmai bhuvanāya*] *vibhu* — manifold, taking many forms such as the Āhavanīya [fire] and others; *medhira*, wise; *dvimātā*, born of the two fire-sticks (*araṇi*) — or: maker of the two worlds; *śayuḥ*, lying [dwelling] everywhere in various ways for the sake of man (*āyave*): no one knows how many forms you have [as you dwell among men] [?]."
+> त्वम॑ग्ने प्र॒थमो॑ अङ्गि॑रस्तमः क॒विर्दे॒वानां॒ परि॑
+> भूषसि व्र॒तं ।
+> वि॒भुर्विश्व॑स्मै॒ भुव॑नाय॒ मेधि॑रो द्वि॒मा॒ता श॒युः [accent ?]
+> क॑ति॒धा चि॑दा॒यवे॑ ॥ २ ॥ [accent ?]
 
-*(Grammar pages 527–528, noted briefly:* bhūṣasi *— *bhūṣa alaṃkāre*, *bhvādi*, 2nd singular; lowered by P. 8-1-28;* vibhuḥ *— *bhū sattāyām* with *vi*, the affix *ḍu* by P. 3-2-180 *viprasambhyo ḍvasaṃjñāyām* (विप्रसम्भ्यो ड्वसंज्ञायाम्); the *ṭi* dropped; first member *gati*, so by P. 6-2-139 *gatikārakopapadāt kṛt* the accent is that of the second member (*kṛdanta*), end-acute;* bhuvanāya *— *bhū* + *kyun* by an Uṇādi rule *bhūdoso-bhṛ…* [numeral doubtful]; *yu* → *ana* by P. 7-1-1 *yuvor anākau* (युवोरनाकौ); guṇa; dative; the acute by *nit* P. 6-1-197;* medhiraḥ *— *medhṛ saṅgame ca*, *bhvādi*; the affix *iran* by the Uṇādi liberty *uṇādayo bahulam* (P. 3-3-1); *nit*, hence initial acute;* dvimātā *— *dve mātarau yasyāsau*, a numeral-first bahuvrīhi; being ṛ-ending, *kap* by P. 5-4-153 *nadyṛtaś ca* (नद्यृतश्च) would be expected, but since the difference of sense between *mātṛ* and *mātṛka* is seen in the world, it is said to be optional here; *mātṛ* has many meanings: 'mother', 'the one who measures' etc.; hence no *kap*; or as a tatpuruṣa *dvayoḥ mātā*, with the end-acute by P. 6-1-223 *samāsasya*;* śayuḥ *— *śīṅ svapne*, *adādi*; the affix *u* by Uṇ. 1-2? *bhṛmṛśīṅ…* (भृमृशीङ्…); guṇa and *ay* give *śayuḥ*; end-acute from the suffix;* katidhā *— *kim* + *ḍati* by P. 5-2-41 *kimaḥ saṃkhyāparimāṇe ḍati ca* (किमः संख्यापरिमाणे डति च); the *ṭi* dropped; *kati* is *saṃkhyā* by P. 1-1-23 *bahugaṇavatuḍati saṃkhyā*; *dhā* by P. 5-3-42 *saṃkhyāyā vidhārthe dhā* (संख्याया विधार्थे धा) in the sense 'in many ways'; end-acute from the suffix;* āyave *— *iṇ gatau*, *adādi*; the affix *uṇ* by *chandasīṇaḥ* (Uṇ. 1-2 [?]); *ṇit* gives *vṛddhi* by P. 7-2-115; *ai* + *u* → *āy* by P. 6-1-78 *eco 'yavāyāvaḥ*; dative singular; middle-acute. Numerals as read, [?].)*
+> *tvámagne prathámo áṅgirastamaḥ kavírdevā́nāṃ pári*
+> *bhūṣasi vratáṃ |*
+> *vibhúrvíśvasmai bhúvanāya médhiro dvimātā́ śayúḥ* [accent ?]
+> *katidhā́ cidāyáve || 2 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
+
+**Pada-pāṭha** *(p. 524)*
+
+> त्वं । अग्ने । प्रथमः । अङ्गिरःऽतमः । कविः । देवानां । परि ।
+> भूषसि । व्रतं ।
+> विऽभुः । विश्वस्मै । भुवनाय । मेधिरः । द्विऽमाता । शयुः ।
+> कतिऽधा । चित् । आयवे ॥ २ ॥
+
+> *tvaṃ | agne | prathamaḥ | aṅgiraḥ 'tamaḥ | kaviḥ | devānāṃ | pari |*
+> *bhūṣasi | vrataṃ |*
+> *vi 'bhuḥ | viśvasmai | bhuvanāya | medhiraḥ | dvi 'mātā | śayuḥ |*
+> *kati 'dhā | cit | āyave ‖ 2 ‖*
+
+### Page 525 — Sūkta 31, Rik 2 (continued)
+
+**Sāyaṇa-bhāṣya** *(p. 525)*
+
+> हे अग्ने त्वं प्रथम आद्य अङ्गिरस्तमोऽतिशयेनाङ्गिरा भूत्वा कविर्मेधावी सन् देवानामन्येषां व्रतं कर्म परि भूषसि । परितोऽलंकरोषि । कीदृशस्त्वम् । विश्वस्मै भुवनाय समस्तलोकानुग्रहार्थं विभुर्बहुविधः । आहवनीयाद्यनेकरूपधारीत्यर्थः । मेधिरो मेधावान् द्विमाता द्वयोररण्योरुत्पन्नः । यद्वा । द्वयोर्लोकयोर्निर्माता । आयवे मनुष्यार्थं कतिधा चित् कतिभिः प्रकारैः सर्वत्र शयुः शयानः । तत्तन्मनुष्यगृहेऽवस्थितस्य तव प्रकारा इयन्त इति न केनापि ज्ञायत इत्यर्थः ॥ भूषसि । भूष अलंकारे । भौवादिकः । विभुः । विप्रसंभ्यो ड्वसंज्ञायाम् । पा. ३-२-१८० । इति विपूर्वाद्भवतेर्डुप्रत्ययः । कृदुत्तरपदप्रकृतिस्वरत्वम् । भुवनाय । भूसूधूभ्रस्जिभ्यश्छन्दसि । उ. २-८० । इति क्युन् । योरनादेशे नित्स्वरेणाद्युदात्तत्वम् । मेधिरः । मेधृ संगमे च । अस्माद्बाहुलक इरन्प्रत्ययः । नित्स्वरः । द्विमाता । द्वे मातरौ यस्यासौ द्विमाता । नद्यृतश्च । पा. ५-४-१५३ । इति कप्प्रत्ययो न भवति । मातृमातृकयोर्भेदेनोपादानान्नद्यृतश्चेति कबपि विभाष्यत इति तस्य मातृशब्दविषये पाक्षिकत्वोक्तिः । त्रिचक्रादित्वादुत्तरपदान्तोदात्तत्वम् । यद्वा । द्वयोर्माता । द्विमाता । समासस्येत्यन्तोदात्तत्वम् । शयुः । शीङ् स्वप्ने । भृमृशीत्यादिना । उ. १-७ । उप्रत्ययः । कतिधा । डत्यन्तस्य किंशब्दस्य बहुगणवतुडति संख्या । पा. १-१-२३ । इति संख्यासंज्ञायां संख्याया विधार्थे धा । पा. ५-३-४२ । इति धाप्रत्ययः । आयवे । छन्दसीणः । उ. १-२ । इत्येतेरुण्प्रत्ययः ॥
+
+> *he agne tvaṃ prathama ādya aṅgirastamo 'tiśayenāṅgirā bhūtvā kavirmedhāvī san devānāmanyeṣāṃ vrataṃ karma pari bhūṣasi | parito 'laṃkaroṣi | kīdṛśastvam | viśvasmai bhuvanāya samastalokānugrahārthaṃ vibhurbahuvidhaḥ | āhavanīyādyanekarūpadhārītyarthaḥ | medhiro medhāvān dvimātā dvayoraraṇyorutpannaḥ | yadvā | dvayorlokayornirmātā | āyave manuṣyārthaṃ katidhā cit katibhiḥ prakāraiḥ sarvatra śayuḥ śayānaḥ | tattanmanuṣyagṛhe 'vasthitasya tava prakārā iyanta iti na kenāpi jñāyata ityarthaḥ ‖ bhūṣasi | bhūṣa alaṃkāre | bhauvādikaḥ | vibhuḥ | viprasaṃbhyo ḍvasaṃjñāyām | pā. 3-2-180 | iti vipūrvādbhavaterḍupratyayaḥ | kṛduttarapadaprakṛtisvaratvam | bhuvanāya | bhūsūdhūbhrasjibhyaśchandasi | u. 2-80 | iti kyun | yoranādeśe nitsvareṇādyudāttatvam | medhiraḥ | medhṛ saṃgame ca | asmādbāhulaka iranpratyayaḥ | nitsvaraḥ | dvimātā | dve mātarau yasyāsau dvimātā | nadyṛtaśca | pā. 5-4-153 | iti kappratyayo na bhavati | mātṛmātṛkayorbhedenopādānānnadyṛtaśceti kabapi vibhāṣyata iti tasya mātṛśabdaviṣaye pākṣikatvoktiḥ | tricakrāditvāduttarapadāntodāttatvam | yadvā | dvayormātā | dvimātā | samāsasyetyantodāttatvam | śayuḥ | śīṅ svapne | bhṛmṛśītyādinā | u. 1-7 | upratyayaḥ | katidhā | ḍatyantasya kiṃśabdasya bahugaṇavatuḍati saṃkhyā | pā. 1-1-23 | iti saṃkhyāsaṃjñāyāṃ saṃkhyāyā vidhārthe dhā | pā. 5-3-42 | iti dhāpratyayaḥ | āyave | chandasīṇaḥ | u. 1-2 | ityeteruṇpratyayaḥ ‖*
+
+*Gist:* Agni, first and most Aṅgiras-like, wise, adorns the work of the other gods; he takes many forms (the Āhavanīya and the rest) for the good of all the world; wise; born of the two fire-sticks, or maker of the two worlds; for man's sake he lies in each man's house in ways no one can count. The grammatical tail treats *bhūṣasi*, *vibhuḥ* (*ḍu*, Pā. 3-2-180), *bhuvanāya* (*kyun*, U. 2-80), *medhiraḥ* (*iran*), *dvimātā* (no *kap* by Pā. 5-4-153, which the bhāṣya calls optional for *mātṛ*; or a tatpuruṣa), *śayuḥ* (*u*, U. 1-7), *katidhā* (Pā. 1-1-23, 5-3-42) and *āyave* (*uṇ*, U. 1-2).
 
 **॥ Prati-padārthaḥ ॥** *(p. 525)* **अग्ने (agne)** — O Agni | **त्वम् (tvam)** — you | **प्रथमः अङ्गिरस्तमः (prathamaḥ aṅgirastamaḥ)** — the first among the Aṅgirases and exceedingly great | **कविः (kaviḥ)** — [the] wise | **विश्वस्मै भुवनाय (viśvasmai bhuvanāya)** — for the favour of all the worlds | **विभुः (vibhuḥ)** — [one] of many forms such as the Āhavanīya | **मेधिरः (medhiraḥ)** — [the] wise | **द्विमाता (dvimātā)** — [the] one born of two mothers [the *araṇis*] or the maker of two worlds | **आयवे (āyave)** — for [the sake of] man | **कतिधा चित् (katidhā cit)** — in many ways | **शयुः (śayuḥ)** — [the] sleeper, lying everywhere | **देवानाम् (devānām)** — [of other] gods | **व्रतम् (vratam)** — [the] work | **परि भूषसि (pari bhūṣasi)** — you adorn all round.
 
 **॥ Bhāvārtha ॥** *(pp. 525–526)* O Agni! You are the first among the seers named Aṅgirases, and exceedingly great; wise, endowed with many forms such as the Āhavanīya for the favour of all the worlds; intelligent; born of the two *araṇi* [sticks] as of two mothers; lying in many ways for the sake of man; you adorn all round the works of the other gods.
 
-**॥ English Translation ॥** *(as printed in the source)*
+### Page 526 — Sūkta 31, Rik 2 (continued)
+
+**॥ English Translation ॥** *(as printed, p. 526)*
 
 > O Agni, you are the very first and foremost among Angiras ; you conduct the work (sacrifice or worship) of the gods ; you are wise, son of two mothers ; manifold for the benefit of all the world you reside in every house for the use of man.
 
@@ -10643,10 +10671,15 @@ Since Hiraṇyastūpa, the seer of this sūkta, was born in the Aṅgirasa line,
 **विभुः (vibhuḥ)** — *vipūrvād bhavater ḍuprayayaḥ*: *viśeṣeṇa bahuprakāreṇa bhavatīti vibhuḥ*: because [he exists] in many forms as in the Āhavanīya [fire] and others, and in many houses, he is 'one existing in many forms'.
 **विश्वस्मै भुवनाय (viśvasmai bhuvanāya)** — for all the world [the source adds "For all the world"].
 **मेधिरः (medhiraḥ)** — *medhṛ saṅgame ca*: *medhāvān*: the intelligent, the wise.
-**द्विमाता (dvimātā)** — *dvayor mātā*, [or] *dvayor araṇyor utpannaḥ*, or *dvayor lokayor nirmātā*: 'Agni is born, in the sacrifice, when two pieces of wood called *araṇi* are rubbed together; so, with the two *araṇis* as 'two mothers', Agni is called *dvimātā* — "one with two mothers". Or: speaking of the creation, *agnir vā āpaḥ* — "Agni is water" (the Śruti) [?]; and because the atmosphere (*antarikṣa*) and the earth are produced by Agni [the print: *āpaḥ* means the atmosphere, Nirukta 1-?? (as read, [?])], they say Agni is *dvayor lokayor nirmātā*, the maker of the two worlds, the earth and the atmosphere.
-**आयवे (āyave)** — *āyuḥ ayanāt*, *iti hyasau viśvam*: 'for the sake of pervading the whole world'. [The Kannada: "to pervade the whole creation".]
-**शयुः (śayuḥ)** — *śīṅ svapne*: 'one who lies down', that is, one who exists in a gentle nature.
-**कतिधा (katidhā)** — [Rik 2's remaining words are explained on p. 528 in the grammar section; see above.]
+**द्विमाता (dvimātā)** — *dvayor mātā | dvayor araṇyor utpannaḥ | yadvā dvayor lokayor nirmātā*: 'Agni is born, in the sacrifice, when two pieces of wood called *araṇi* are rubbed together; so, with the two *araṇis* as 'two mothers', Agni is called *dvimātā* — "one with two mothers". Or: when the Śruti tells the order of creation, by its words *agner āpaḥ | adbhyaḥ pṛthivī* ('from Agni the waters; from the waters the earth') the atmosphere (*āpaḥ* means the atmosphere, Ni. 2-10) and the earth come from Agni; so they say Agni is *dvayor lokayor nirmātā*, the maker of the two worlds, the earth and the atmosphere.
+**आयवे (āyave)** — *āyuḥ ayanāt eti hy asau viśvam*: 'for the sake of pervading the whole world'. [The Kannada: "to pervade the whole creation".]
+
+### Page 527 — Sūkta 31, Rik 2 (continued)
+
+**शयुः** — *śīṅ svapne*: one who lies down, that is, one who exists in a gentle (*saumya*) state.
+
+**Vyākaraṇa-prakriyā** *(pp. 527–528, noted briefly)* — *bhūṣasi*: *bhūṣa alaṃkāre*, *bhvādi*, second person singular; grave as a *tiṅ* form (no number printed). *vibhuḥ*: *bhū sattāyām* with *vi*; *ḍu* by '*viprasaṃbhyo ḍvasaṃjñāyām*' (Pā. sū. 3-2-180); loss of the *ṭi* as *ḍit*; a *kṛdanta* second member after a *gati*, so its accent by '*gatikārakopapadāt kṛt*' (Pā. sū. 6-2-139): end-acute. *bhuvanāya*: *kyun* by '*bhūsūdhūbhrasjibhyaś chandasi*' (U. sū. 2-238, as printed; the bhāṣya prints उ. २-८०); *ana* for *yu* by '*yuvor anākau*' (Pā. sū. 7-1-1); guṇa and *av*; dative singular; initial udātta, the suffix being *nit*, by '*ñnity ādir nityam*' (Pā. sū. 6-1-197). *medhiraḥ*: *medhṛ saṃgame ca*, *bhvādi*; *iran* by the word *bahula* in '*uṇādayo bahulam*' (Pā. sū. 3-3-1); initial udātta as *nit*. *dvimātā*: '*dve mātarau yasya asau*', a bahuvrīhi with a numeral first member; as it ends in *ṛ*, the *samāsānta* *kap* is due by '*nadyṛtaś ca*' (Pā. sū. 5-4-153); but since *mātṛ* and *mātṛka* differ in sense in common use, the rule is said to be optional for *mātṛ*; *mātṛ* has many senses ('mother', 'one who measures' and others); so no *kap*; being in the *tricakrādi* group, the second member is end-acute; or '*dvayoḥ mātā*', a tatpuruṣa, no question of *kap*, end-acute by '*samāsasya*'. *śayuḥ*: *śīṅ svapne*, *adādi*; *u* by '*bhṛmṛśī-*' (U. sū. 1-7); guṇa, *ay*; end-acute by the suffix. *(p. 528)* *katidhā*: *ḍati* after *kim* by '*kimaḥ saṃkhyāparimāṇe ḍati ca*' (Pā. sū. 5-2-41); loss of the *ṭi*; *kati* is called *saṃkhyā* by '*bahugaṇavatuḍati saṃkhyā*' (Pā. sū. 1-1-23); *dhā* by '*saṃkhyāyā vidhārthe dhā*' (Pā. sū. 5-3-42), 'in many ways'; end-acute by the suffix. *āyave*: *iṇ gatau*, *adādi*; *uṇ* by '*chandasīṇaḥ*' (U. sū. 1-2); *vṛddhi* as *ṇit* by '*aco ñṇiti*' (Pā. sū. 7-2-115); *āy* by '*eco 'yavāyāvaḥ*' (Pā. sū. 6-1-78); dative singular; middle udātta by the suffix.
+
 
 ---
 
