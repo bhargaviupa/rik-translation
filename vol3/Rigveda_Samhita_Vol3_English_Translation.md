@@ -9413,17 +9413,19 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 ---
 ## ॥ ಮೂವತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 30 — *"ā va indram"* ("The Thirtieth Sūkta"; seventh sūkta of the Sixth Anuvāka)
 
-**Heading** *(p. 458)*: "The thirtieth sūkta." Maṇḍala 1; Anuvāka **6** [?]; Sūkta 30. Aṣṭaka 1; Adhyāya 2; Varga **38, 39, 30 [?], 31 [?]** (small Kannada numerals, unreliable). Number of Riks in the sūkta: **22**. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Riks 1–16 Indra; 17–19 the Aśvins; 20–22 Uṣas. Chandas: Riks 1–10, 12–15 [?], 17–22 Gāyatrī; Rik 11 Gāyatrī *pādanicṛt*; Rik 16 Triṣṭubh.
+**Heading** *(p. 458)*: "The thirtieth sūkta." Maṇḍala 1; Anuvāka **6**; Sūkta 30. Aṣṭaka 1; Adhyāya 2; Varga **28, 29, 30, 31**. Number of Riks in the sūkta: **22**. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Riks 1–16 Indra; 17–19 the Aśvins; 20–22 Uṣas. Chandas: Riks 1–10, 12–15, 17–22 Gāyatrī; Rik 11 Gāyatrī *pādanicṛt*; Rik 16 Triṣṭubh.
+
+*(p. 458 is read from the old scan, `scans/Rig_Vol3.pdf` PDF 473: the better scan's PDF 472 is a wrong page, headed 358.)*
 
 **Sāyaṇa-bhāṣya, introductory note** *(p. 458)*
 
-> आ व इन्द्रमिति द्वाविंशत्यृचं सप्तमं सूक्तं शुनःशेपस्यार्षं गायत्रम् । अस्माकमित्येषा पादनिचृद्गायत्री । त्रयः सप्तकाः पादनिचृत् । अनु. ४-४ [?] इत्युक्तत्वात् । शश्वदिन्द्र इत्येषा त्रिष्टुप् । आदितः षोडशर्चमैन्द्रम् । अश्विनावश्वावत्येत्याद्यास्तिस्र आश्विन्यः । कस्त उष इत्याद्यास्तिस्र उषोदेवताकाः । तथा चानुक्रमणिका । आ वो द्व्यधिकास्माकं पादनिच्छश्वत्त्रिष्टुप्स्परौ तृचावाश्विनोषस्याविति ॥
+> आ व इन्द्रमिति द्वाविंशत्यृचं सप्तमं सूक्तं शुनःशेपस्यार्षं गायत्रम् । अस्माकमित्येषा पादनिचृद्गायत्री । त्रयः सप्तकाः पादनिचृत् । अनु. ४-४ । इत्युक्तत्वात् । शश्वदिन्द्र इत्येषा त्रिष्टुप् । आदितः षोडशर्च ऐन्द्र्यः । अश्विनावश्वावत्येत्याद्यास्तिस्र आश्विन्यः । कस्त उष इत्याद्यास्तिस्र उषोदेवताकाः । तथा चानुक्रमणिका । आ वो द्व्यधिकास्माकं पादनिचृच्छश्वत्त्रिष्टुप्स्परौ तृचावाश्विनोषस्याविति ॥
 
-> *ā va indramiti dvāviṃśatyṛcaṃ saptamaṃ sūktaṃ śunaḥśepasyārṣaṃ gāyatram | asmākamityeṣā pādanicṛdgāyatrī | trayaḥ saptakāḥ pādanicṛt | anu. 4-4 [?] ityuktatvāt | śaśvadindra ityeṣā triṣṭup | āditaḥ ṣoḍaśarcamaindram | aśvināvaśvāvatyetyādyāstisra āśvinyaḥ | kasta uṣa ityādyāstisra uṣodevatākāḥ | tathā cānukramaṇikā | ā vo dvyadhikāsmākaṃ pādanicchaśvattriṣṭupsparau tṛcāvāśvinoṣasyāviti ‖*
+> *ā va indramiti dvāviṃśatyṛcaṃ saptamaṃ sūktaṃ śunaḥśepasyārṣaṃ gāyatram | asmākamityeṣā pādanicṛdgāyatrī | trayaḥ saptakāḥ pādanicṛt | anu. 4-4 | ityuktatvāt | śaśvadindra ityeṣā triṣṭup | āditaḥ ṣoḍaśarca aindryaḥ | aśvināvaśvāvatyetyādyāstisra āśvinyaḥ | kasta uṣa ityādyāstisra uṣodevatākāḥ | tathā cānukramaṇikā | ā vo dvyadhikāsmākaṃ pādanicṛcchaśvattriṣṭupsparau tṛcāvāśvinoṣasyāviti ‖*
 
-*Translation:* "*Ā va indram* is the seventh sūkta [of the anuvāka]; it has twenty-two Riks; its seer is Śunaḥśepa; the metre is Gāyatrī. The Rik *asmākam* is *pādanicṛd* Gāyatrī; [the Anukramaṇikā rule] 'three heptads [?] are *pādanicṛt*' (Anu. 4-4 [?]) having been stated. The Rik *śaśvad indra* is Triṣṭubh. The first sixteen Riks are Indra's; the three beginning *aśvināv aśvāvatyā* are the Aśvins'; the three beginning *kas ta uṣaḥ* have Uṣas as deity. The Anukramaṇikā says so: '*ā vo* [has] two more [than twenty]; *asmākam* is *pādanicṛt*; *śaśvat* is Triṣṭubh; the last two triplets are the Aśvins' and Uṣas's.'"
+*Translation:* "*Ā va indram* is the seventh sūkta [of the anuvāka]; it has twenty-two Riks; its seer is Śunaḥśepa; the metre is Gāyatrī. The Rik *asmākam* is *pādanicṛd* Gāyatrī; [the Anukramaṇikā rule] 'three [pādas] of seven [syllables] are *pādanicṛt*' (Anu. 4-4) having been stated. The Rik *śaśvad indra* is Triṣṭubh. From the beginning, sixteen Riks are Indra's (*aindryaḥ*); the three beginning *aśvināv aśvāvatyā* are the Aśvins'; the three beginning *kas ta uṣaḥ* have Uṣas as deity. The Anukramaṇikā says so: '*ā vo* [has] two more [than twenty]; *asmākam* is *pādanicṛt*; *śaśvat* is Triṣṭubh; the last two triplets are the Aśvins' and Uṣas's.'"
 
-**Anuvāda** *(p. 458, rendered)* — *Ā va indram* is the seventh sūkta in the sixth [?] anuvāka and has twenty-two Riks. Śunaḥśepa is the seer; the metre is Gāyatrī. The Rik *asmākam it* is *pādanicṛt* Gāyatrī; *śaśvad indraḥ* is Triṣṭubh. The first sixteen Riks have Indra as deity; the three from *aśvināv aśvāvatyā* have the Aśvins; the three from *kas ta uṣaḥ* have Uṣas. The Anukramaṇikā says: *ā vo dvyadhikāsmākaṃ pādanicc chaśvat triṣṭup sparau tṛcāv āśvinoṣasyāv iti*.
+**Anuvāda** *(p. 458, rendered)* — *Ā va indram* is the seventh sūkta in the sixth anuvāka and has twenty-two Riks. Śunaḥśepa is the seer; the metre is Gāyatrī. The Rik *asmākam it* is *pādanicṛt* Gāyatrī; *śaśvad indraḥ* is Triṣṭubh. The first sixteen Riks have Indra as deity; the three from *aśvināv aśvāvatyā* have the Aśvins; the three from *kas ta uṣaḥ* have Uṣas. The Anukramaṇikā says: *ā vo dvyadhikāsmākaṃ pādanicṛc chaśvat triṣṭup sparau tṛcāv āśvinoṣasyāv iti*.
 
 ---
 
