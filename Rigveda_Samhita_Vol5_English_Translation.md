@@ -3813,23 +3813,23 @@
 
 **Sāyaṇa-bhāṣya (introduction)**
 
-> **त्वं सु मेषमिति पञ्चदशर्चं द्वितीयं सूक्तं सव्यस्यार्षमैन्द्रम् । त्रयोदशीपञ्चदश्यौ त्रिष्टुभौ शिष्टा जगत्यः । तथा चानुक्रान्तम् । त्वं सु त्रयोदश त्र्यं[?] त्रिष्टुभाविति ॥ गवामयनस्य मध्यमेऽहनि विषुवत्संज्ञके मरुत्वतीयशस्त्र इदं सूक्तं विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितम् । त्वं सु मेषं कयोशुभेति च मरुत्वतीयम् । आश्व. ८-६ [?] इति ॥**
+> **त्यं सु मेषमिति पञ्चदशर्चं द्वितीयं सूक्तं सव्यस्यार्षमैन्द्रम् । त्रयोदशी पञ्चदशी त्रिष्टुभौ शिष्टा जगत्यः । तथा चानुक्रान्तम् । त्यं सु त्रयोदश्यन्त्ये त्रिष्टुभाविति ॥ गवामयनस्य मध्यमेऽहनि विषुवत्संज्ञके मरुत्वतीयशस्त्र इदं सूक्तं विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितम् । त्यं सुमेषं कयाशुभेति च मरुत्वतीयम् । आ. ८-६ । इति ॥**
 
-*tvaṃ su meṣam iti pañcadaśarcaṃ dvitīyaṃ sūktaṃ savyasyārṣam aindram | trayodaśīpañcadaśyau triṣṭubhau śiṣṭā jagatyaḥ | tathā cānukrāntam | tvaṃ su trayodaśa tryaṃ[?] triṣṭubhāv iti || gavāmayanasya madhyame 'hani viṣuvatsaṃjñake marutvatīyaśastra idaṃ sūktaṃ viṣuvān divākīrtya iti khaṇḍe sūtritam | tvaṃ su meṣaṃ kayośubheti ca marutvatīyam | āśva. 8-6 [?] iti ||*
+*tyaṃ su meṣam iti pañcadaśarcaṃ dvitīyaṃ sūktaṃ savyasyārṣam aindram | trayodaśī pañcadaśī triṣṭubhau śiṣṭā jagatyaḥ | tathā cānukrāntam | tyaṃ su trayodaśyantye triṣṭubhāv iti || gavāmayanasya madhyame 'hani viṣuvatsaṃjñake marutvatīyaśastra idaṃ sūktaṃ viṣuvān divākīrtya iti khaṇḍe sūtritam | tyaṃ sumeṣaṃ kayāśubheti ca marutvatīyam | ā. 8-6 | iti ||*
 
-*(Reading note: "*trayodaśīpañcadaśyau triṣṭubhau*" — the print shows* trayodaśī pañcadaśī triṣṭubhā *crowded; I read it with the anuvāda below, which says that Riks 13 and 15 are Triṣṭubh. The Anukramaṇī half-line "*tvaṃ su trayodaśa tryaṃ…*" is crowded, [?]; the Āśvalāyana numerals "8-6" as read, [?].)*
+*(Re-read from the print (pass): the opening word is* tyaṃ *(ತ್ಯಂ, subscript* ya*), not* tvaṃ*, here, in the Anuvāda and in the Saṃhitā; the print has* trayodaśī pañcadaśī triṣṭubhau *as three words; the Anukramaṇī half-line reads* tyaṃ su trayodaśyantye triṣṭubhāv iti*; the Āśvalāyana reference is printed "ಆ. ೮-೬", i.e. Āśv. 8-6.)*
 
-**Translation:** "'*Tvaṃ su meṣam*': a sūkta of fifteen Riks, the second [of the Tenth Anuvāka]; the seer is Savya, the deity Indra; the thirteenth and fifteenth are Triṣṭubh, the rest Jagatī — so the Anukramaṇī: 'Tvaṃ su: thirteen … two Triṣṭubhs' [?]. On the middle day of the Gavāmayana, called the Viṣuvat, this sūkta is prescribed for the Marutvatīya-śastra — in the section beginning '*viṣuvān divākīrtyaḥ*' it is laid down: '*tvaṃ su meṣaṃ*' and '*kayā śubhā*' are the Marutvatīya (Āśv. [Śrauta Sūtra] 8-6 as read [?])."
+**Translation:** "'*Tyaṃ su meṣam*': a sūkta of fifteen Riks, the second [of the Tenth Anuvāka]; the seer is Savya, the deity Indra; the thirteenth and fifteenth are Triṣṭubh, the rest Jagatī — so the Anukramaṇī: '*Tyaṃ su*: the thirteenth and the last are Triṣṭubh.' On the middle day of the Gavāmayana, called the Viṣuvat, this sūkta is prescribed for the Marutvatīya-śastra — in the section beginning '*viṣuvān divākīrtyaḥ*' it is laid down: '*tyaṃ su meṣaṃ*' and '*kayā śubhā*' are the Marutvatīya (Āśv. [Śrauta Sūtra] 8-6)."
 
-**Anuvāda (Kannada, p. 212)** — "'*Tvaṃ su meṣam*' is the second sūkta in the tenth anuvāka. It has fifteen Riks. The seer of this sūkta is Savya; the deity is Indra. The thirteenth and fifteenth Riks are in the Triṣṭubh metre; the remaining Riks are in Jagatī. In the Anukramaṇikā it is said '*tvaṃ su trayodaśe triṣṭubhāv iti*' [?]. In the *Gavāmayana* sacrifice, on the middle day called *Viṣuvat*, this sūkta must be used for reciting the Marutvatīya-śastra mantras; this is explained in the Āśvalāyana Śrauta Sūtra, in the section '*viṣuvān divākīrtyaḥ*', by the sūtra '*tvaṃ su meṣaṃ kayā śubhā ca marutvatīyam*' (Āśv. 8-6 as read [?])."
+**Anuvāda (Kannada, p. 212)** — "'*Tyaṃ su meṣam*' is the second sūkta in the tenth anuvāka. It has fifteen Riks. The seer of this sūkta is Savya; the deity is Indra. The thirteenth and fifteenth Riks are in the Triṣṭubh metre; the remaining Riks are in Jagatī. In the Anukramaṇikā it is said '*tyaṃ su trayodaśyantye triṣṭubhāv iti*'. In the *Gavāmayana* sacrifice, on the middle day called *Viṣuvat*, this sūkta must be used for reciting the Marutvatīya-śastra mantras; this is explained in the Āśvalāyana Śrauta Sūtra, in the section '*viṣuvān divākīrtyaḥ*', by the sūtra '*tyaṃ su meṣaṃ kayā śubheti ca marutvatīyam*' (Āśv. 8-6)."
 
 **Heading block** *(p. 212)*
 - Maṇḍala 1 · Anuvāka 10 · Sūkta 52
-- Aṣṭaka 1 · Adhyāya 4 · Varga 12, 13, 14 [as read, small numerals, [?]]
+- Aṣṭaka 1 · Adhyāya 4 · Varga 12, 13, 14
 - Number of Riks in the sūkta: 15
 - Ṛṣi: Savya Āṅgirasa
 - Deity: Indra
-- Metre: Riks 1–12 and 14 Jagatī; Riks 13 and 15 Triṣṭubh *(read "೧-೧೨, ೧೪ ಜಗತೀ । ೧೩, ೧೫ ತ್ರಿಷ್ಟುಪ್")*
+- Metre: Riks 1–12 and 14 Jagatī; Riks 13 and 15 Triṣṭubh *(printed "೧-೧೨, ೧೪ ಜಗತೀ । ೧೩, ೧೫ ತ್ರಿಷ್ಟುಪ್")*
 
 ---
 
