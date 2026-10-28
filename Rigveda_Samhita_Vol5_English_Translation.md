@@ -4340,13 +4340,15 @@
 
 ### Rik 52.9 (pp. 242–246, PDF 258–262)
 
-**Saṃhitā-pāṭha** *(p. 242; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 242; accents as printed)*
 
-> **बृहत्स्वश्चन्द्रममवद्यदुक्थ्यमकृण्वत भियसा रोहणं दिवः ।**
-> **यन्मानुषप्रधना इन्द्रमूतयः स्वर्नृषाचो मरुतोऽमदन्ननु ॥ ९ ॥**
+> **बृ॒हत्स्वश्च॑न्द्रमम॑व॒द्यदु॒क्थ्य१॒मकृ॑ण्वत भि॒यसा॒ रोह॑णं दि॒वः ।**
+> **यन्मानु॑षप्रधना॒ इन्द्र॑मू॒तयः॒ स्व॑र्नृ॒षाचो॑ म॒रुतोऽम॑द॒न्ननु॑ ॥ ९ ॥**
 
-*bṛhat svaścandram amavad yad ukthyam akṛṇvata bhiyasā rohaṇaṃ divaḥ |*
-*yan mānuṣapradhanā indram ūtayaḥ svar nṛṣāco maruto 'madann anu || 9 ||*
+*bṛhát sváścandram ámavad yád ukthyàm ákṛṇvata bhiyásā róhaṇaṃ diváḥ |*
+*yán mā́nuṣapradhanā índram ūtáyaḥ svàr nṛṣā́co marúto 'madann ánu || 9 ||*
+
+*(Pass: the print sets* ukthyam *as "ಉಕ್ಥ್ಯ೧ಮ್", the numeral ೧ (१) with a svarita stroke above and an anudātta bar below (kampa); no bar under* dra *of* candram*.)*
 
 **Pada-pāṭha** *(p. 243)*
 
@@ -4358,13 +4360,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 243)*
 
-> **बृहत् बृहत्साम स्तोतारो यजमाना भियसा वृत्रभयेन यद्यदोक्थ्यमुक्थार्हं स्तोत्रयोग्यमकृण्वत । आकुर्वन् । कीदृशं बृहत्साम । स्वश्चन्द्रम् । स्वकीयेन चन्द्रेणाह्लादकेन तेजसा युक्तम् । अमवत् । अमति शत्रून् रुजतीत्यम इत्यमो बलम् । तद्युक्तम् । दिवः स्वर्गस्य रोहणमारोहणहेतुभूतम् । एवंविधेन स्तोत्रेण वृत्राद्भीता इन्द्र इन्द्रमस्तोषतेत्यर्थः । यद्यदा मानुषप्रधनाः । प्रकीर्णान्यस्मिन् धनानि भवन्तीति नैरुक्तव्युत्पत्त्या प्रधनमिति संग्रामनाम । नि. ९-२४ [?] । मनुष्यहितसंग्रामा ऊतयः स्वर्द्युलोकस्य रक्षितारो मरुतो नृषाचः प्राणरूपेण स्वस्वेवमानाः [?] भूत्वेन्द्रमपि तेनैव रूपेणान्वमदन् । अनुपूर्व्येण हर्षं प्रापयन् [?] । तदानीं स इन्द्रो वृत्रवधं प्रत्युद्युक्तो बभूवेति शेषः ॥**
+> **बृहत् बृहत्साम स्तोतारो यजमाना भियसा वृत्रभयेन यद्यदोक्थ्यमुक्थार्हं स्तोत्रयोग्यमकृण्वत । आकुर्वन् । कीदृशं बृहत्साम । स्वश्चन्द्रम् । स्वकीयेन चन्द्रेणाह्लादकेन तेजसा युक्तम् । अमवत् । अमति शत्रून् रुजत्यनेनेत्यमो बलम् । तद्युक्तम् । दिवः स्वर्गस्य रोहणमारोहणहेतुभूतम् । एवंविधेन स्तोत्रेण वृत्राद्भीता इन्द्र इन्द्रमस्तोषतेत्यर्थः । यद्यदा मानुषप्रधनाः । प्रकीर्णान्यस्मिन् धनानि भवन्तीति नैरुक्तव्युत्पत्त्या प्रधनमिति संग्रामनाम । नि. ९-२३ । मनुष्यहितसंग्रामा ऊतयः स्वर्द्युलोकस्य रक्षितारो मरुतो नृषाचः प्राणरूपेण नॄन्सेवमाना भूत्वेन्द्रमपि तेनैव रूपेणान्वमदन् । अनुपूर्व्येण हर्षं प्रापर्य [?] । तदानीं स इन्द्रो वृत्रवधं प्रत्युद्युक्तो बभूवेति शेषः ॥**
 
-*bṛhat bṛhatsāma stotāro yajamānā bhiyasā vṛtrabhayena yad yadokthyam ukthārhaṃ stotrayogyam akṛṇvata | ākurvan | kīdṛśaṃ bṛhatsāma | svaścandram | svakīyena candreṇāhlādakena tejasā yuktam | amavat | amati śatrūn rujatīty ama ity amo balam | tadyuktam | divaḥ svargasya rohaṇam ārohaṇahetubhūtam | evaṃvidhena stotreṇa vṛtrād bhītā indra indram astoṣatety arthaḥ | yad yadā mānuṣapradhanāḥ | prakīrṇāny asmin dhanāni bhavantīti nairuktavyutpattyā pradhanam iti saṃgrāmanāma | ni. 9-24 [?] | manuṣyahitasaṃgrāmā ūtayaḥ svar dyulokasya rakṣitāro maruto nṛṣācaḥ prāṇarūpeṇa svasvevamānāḥ [?] bhūtvendram api tenaiva rūpeṇānvamadan | anupūrvyeṇa harṣaṃ prāpayan [?] | tadānīṃ sa indro vṛtravadhaṃ pratyudyukto babhūveti śeṣaḥ ||*
+*bṛhat bṛhatsāma stotāro yajamānā bhiyasā vṛtrabhayena yad yadokthyam ukthārhaṃ stotrayogyam akṛṇvata | ākurvan | kīdṛśaṃ bṛhatsāma | svaścandram | svakīyena candreṇāhlādakena tejasā yuktam | amavat | amati śatrūn rujaty anenety amo balam | tadyuktam | divaḥ svargasya rohaṇam ārohaṇahetubhūtam | evaṃvidhena stotreṇa vṛtrād bhītā indra indram astoṣatety arthaḥ | yad yadā mānuṣapradhanāḥ | prakīrṇāny asmin dhanāni bhavantīti nairuktavyutpattyā pradhanam iti saṃgrāmanāma | ni. 9-23 | manuṣyahitasaṃgrāmā ūtayaḥ svar dyulokasya rakṣitāro maruto nṛṣācaḥ prāṇarūpeṇa nṝn sevamānā bhūtvendram api tenaiva rūpeṇānvamadan | anupūrvyeṇa harṣaṃ prāparya [?] | tadānīṃ sa indro vṛtravadhaṃ pratyudyukto babhūveti śeṣaḥ ||*
 
-*(Reading notes: "*svasvevamānāḥ*" and "*anupūrvyeṇa harṣaṃ prāpayan*" are crowded, [?]; the Nirukta numeral for* pradhanam *is as read, [?]. The tail of the bhāṣya, p. 243 foot –, is characterized:* svaścandram *(the augment* suṭ *by* hrasvāc chandroṭtarapade mantre*, Pā. 6-1-… as read [?]; the* ś *for* s *by* stoḥ ścunā ścuḥ*; a bahuvrīhi);* amavat *(*matup*, with* mādupadhāyāś ca matorvo 'yavādibhyaḥ*);* akṛṇvata *(*kṛñ hiṃsāyām*, svādi; the* num*; the* ātmanepada *by* vyatyaya*; the* nighāta *forbidden by* yadvṛttānnityam*);* bhiyasā *(the* asuk *augment in the Veda; *īkāra* → *iyaṅ*);* divaḥ *(the vibhakti-accent by* ūḍidam…*);* nṛṣācaḥ *(*saca samavāye*; Yāska: "*ayaṃ sevanārthaḥ*", Ni. [?]);* amadan *(*madī harṣe*, *ṇic* in the causative sense, *mit* so *mitāṃ hrasvaḥ*, *chandasy ubhayathā*, the *ṇi* dropped).)*
+*(Reading notes, re-read from the print: "*rujaty anenety amo balam*"; "*prāṇarūpeṇa nṝn sevamānā*" ("serving men in the form of breath"); the print breaks "*prāpa-*" and begins the next line with "ರ್ಯ", read *prāparya* [?] (perhaps for *prāpayya*); the Nirukta reference is printed "ನಿ. ೯-೨೩", 9-23 (also in the Special Topics). The tail prints Pā. 6-1-151 and Pā. 3-2-64. The tail of the bhāṣya, p. 243 foot –, is characterized:* svaścandram *(the augment* suṭ *by* hrasvāc chandroṭtarapade mantre*, Pā. 6-1-151; the* ś *for* s *by* stoḥ ścunā ścuḥ*; a bahuvrīhi);* amavat *(*matup*, with* mādupadhāyāś ca matorvo 'yavādibhyaḥ*);* akṛṇvata *(*kṛñ hiṃsāyām*, svādi; the* num*; the* ātmanepada *by* vyatyaya*; the* nighāta *forbidden by* yadvṛttānnityam*);* bhiyasā *(the* asuk *augment in the Veda; *īkāra* → *iyaṅ*);* divaḥ *(the vibhakti-accent by* ūḍidam…*);* nṛṣācaḥ *(*saca samavāye*; Yāska: "*ayaṃ sevanārthaḥ*", no number);* amadan *(*madī harṣe*, *ṇic* in the causative sense, *mit* so *mitāṃ hrasvaḥ*, *chandasy ubhayathā*, the *ṇi* dropped).)*
 
-**Translation of the bhāṣya:** "*Bṛhat*, the *Bṛhatsāman* — the praisers, the sacrificers, *bhiyasā*, from fear of Vṛtra, when they made it, *ukthyam*, fit for recitation, fit for praise — they made what kind of Bṛhatsāman? *Svaścandram*: endowed with its own *candra*, delighting radiance; *amavat*: possessing *ama*, the strength that crushes enemies; *divaḥ rohaṇam*: the cause of ascent to heaven. With such a hymn the Indra who was afraid of Vṛtra [i.e. they] praised Indra. *Yat*, when, the Maruts — *mānuṣapradhanāḥ*, whose battle is for the good of men (*pradhana* is a name for battle, from the Nirukta etymology 'in which wealth is scattered', Ni. 9-24 [?]), *ūtayaḥ*, the protectors, the guardians of the heavenly world, *nṛṣācaḥ*, serving men in the form of breath — gladdened Indra also (*anu amadan*), in the same form, one after another [?]; at that time Indra became ready for the slaying of Vṛtra — this is understood."
+**Translation of the bhāṣya:** "*Bṛhat*, the *Bṛhatsāman* — the praisers, the sacrificers, *bhiyasā*, from fear of Vṛtra, when they made it, *ukthyam*, fit for recitation, fit for praise — they made what kind of Bṛhatsāman? *Svaścandram*: endowed with its own *candra*, delighting radiance; *amavat*: possessing *ama*, the strength that crushes enemies; *divaḥ rohaṇam*: the cause of ascent to heaven. With such a hymn the Indra who was afraid of Vṛtra [i.e. they] praised Indra. *Yat*, when, the Maruts — *mānuṣapradhanāḥ*, whose battle is for the good of men (*pradhana* is a name for battle, from the Nirukta etymology 'in which wealth is scattered', Ni. 9-23), *ūtayaḥ*, the protectors, the guardians of the heavenly world, *nṛṣācaḥ*, serving men in the form of breath — gladdened Indra also (*anu amadan*), in the same form, one after another; at that time Indra became ready for the slaying of Vṛtra — this is understood."
 
 **Pratipadārtha** *(pp. 243–244)* — "**bhiyasā** — from fear (of the Asura Vṛtra); **yat** — when; **stotāraḥ** — the sacrificers; **svaścandram** — endowed with its own delightful radiance; **amavat** — powerful; **divaḥ** — for heaven; **rohaṇam** — a cause of ascent; and; **bṛhat** — the Bṛhatsāman hymn; **ukthyam** — worthy of recital; **akṛṇvata** — they made; **yat** — when; **mānuṣapradhanāḥ** — those who fight for men; **ūtayaḥ** — protectors of the heavenly world; **marutaḥ** — the Maruts; **nṛṣācaḥ** — those who serve men (in the form of breath); **indram** — Indra also (in the same form); **anu amadan** — they gladdened (then Indra became ready for the slaying of Vṛtra)."
 
@@ -4376,9 +4378,9 @@
 - **bṛhat** — "The word *bṛhat* alone means only *bṛhatsāman*; by implication one has to take it as 'the sacrificers who recite the Bṛhatsāman'."
 - **svaścandram amavat** — "That Bṛhatsāman has its own delightful lustre, like the moon; and the power to destroy enemies."
 - **divaḥ rohaṇam** — "And it has the power to give attainment of heaven. The sacrificers recited such a Bṛhatsāman to escape the fear of Vṛtra."
-- **mānuṣapradhanāḥ** — "'Battle that is beneficial to men.' For the word *pradhana*, the etymologists give the sense 'battle': '*prakīrṇāny asmin dhanāni bhavanti*' (Ni. 9-24 as read [?])."
+- **mānuṣapradhanāḥ** — "'Battle that is beneficial to men.' For the word *pradhana*, the etymologists give the sense 'battle': '*prakīrṇāny asmin dhanāni bhavanti*' (Ni. 9-23)."
 
-  > **प्रकीर्णान्यस्मिन् धनानि भवन्ति ।** *(Ni. numeral as read [?])*
+  > **प्रकीर्णान्यस्मिन् धनानि भवन्ति ।** *(Ni. 9-23)*
 
   *prakīrṇāny asmin dhanāni bhavanti |* — mine and tentative: "wealth is scattered in it [the battle]."
 - **nṛṣācaḥ** — "The Marut deities, serving men in the form of breath, protected men by taking the form of the vital airs at the time of the slaying of Vṛtra; therefore the Maruts are called *nṛṣāc*. This word, from the root *saca samavāye*, Yāska has explained as having the sense of service: '*ayaṃ sevanārthaḥ*'."
@@ -4388,13 +4390,13 @@
   *ayaṃ sevanārthaḥ |* — mine and tentative: "this [root] has the sense of serving."
 
 **Vyākaraṇa-prakriyā** *(p. 245 — grammar page, noted briefly)*
-- **svaścandram**: "*svakīyaṃ candraṃ yasya tat*"; *hrasvāc chandroṭtarapade mantre* (Pā. 6-1-… as read [?]) gives *suṭ*; with *svar* and *candra*, *stoḥ ścunā ścuḥ* (Pā. 8-4-40) turns the *s* into *ś* before the following *c*; being a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* keeps the first member's accent.
-- **amavat**: "*amo 'syāsti*": *matup* by *tad asyāsty asmin*; after a stem in *a*, *māduḥ upadhāyāś ca matoḥ* (Pā. 8-2-9) turns the *m* of *matup* into *v*.
+- **svaścandram**: "*svakīyaṃ candraṃ yasya tat*"; *hrasvāc chandroṭtarapade mantre* (Pā. sū. 6-1-151) gives *suṭ*; with *svar* and *candra*, *stoḥ ścunā ścuḥ* (no number printed) turns the *s* into *ś* before the following *c*; being a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* keeps the first member's accent.
+- **amavat**: "*amo 'syāsti*": *matup* by *tad asyāsty asmin*; after a stem in *a*, *māduḥ upadhāyāś ca matoḥ* (no number printed) turns the *m* of *matup* into *v*.
 - **akṛṇvata**: *kṛvi hiṃsākaraṇayoś ca*, *svādi*; being *idit*, *num*; *vyatyayo bahulam* gives the *ātmanepada* ending; the *nighāta* is forbidden by *yadvṛttān nityam*, since the *yat*-word is connected.
 - **bhiyasā**: for the instrumental singular of *bhī* the Vedic *asuk* augment comes; it is acute; before *as* the *ī* is replaced by *iy* (*iyaṅ*): *bhiyasā*.
 - **divaḥ**: the vibhakti-accent by *ūḍidam padādi…*.
-- **nṛṣācaḥ**: *saca samavāye*; this root, in the sense of service, according to Yāska; *vahaś ca* (Pā. 3-2-64 as read [?]) — since *ca* in that sūtra gathers what is not stated, *ṇvi* also after this root; being *ṇit*, *ata upadhāyāḥ* gives *vṛddhi*; *vera prktasya* drops the *v*; nominative plural; *gatikārakopapadāt kṛt* gives the accent of the last member.
-- **amadan**: *madī harṣe*; the sense of causing is seen, so *ṇic* by *hetumati ca*; since in the *ghaṭādi* list it is read '*madī harṣaglapanayoḥ*', it is *mit*, by *ghaṭādayo mitaḥ*; the vowel is shortened by *mitāṃ hrasvaḥ* (Pā. 6-4-92) though the penultimate had *vṛddhi*; for the *jhi* of *laṅ*, *jher antaḥ*; the *i* lost by *itaś ca*; *chandasy ubhayathā* gives the *ārdhadhātuka* nature to *śap*, so *ṇi* is dropped by *ṇeraniṭi*; the *t* of *ant* dropped by *saṃyogāntalopa*: *amadan*; though intervening, because the *yat*-word is connected, *yadvṛttān nityam* forbids the *nighāta*. **|| 9 ||**
+- **nṛṣācaḥ**: *saca samavāye*; this root, in the sense of service, according to Yāska; *vahaś ca* (Pā. sū. 3-2-64) — since *ca* in that sūtra gathers what is not stated, *ṇvi* also after this root; being *ṇit*, *ata upadhāyāḥ* gives *vṛddhi*; *vera prktasya* drops the *v*; nominative plural; *gatikārakopapadāt kṛt* gives the accent of the last member.
+- **amadan**: *madī harṣe*; the sense of causing is seen, so *ṇic* by *hetumati ca*; since in the *ghaṭādi* list it is read '*madī harṣaglapanayoḥ*', it is *mit*, by *ghaṭādayo mitaḥ*; the vowel is shortened by *mitāṃ hrasvaḥ* (Pā. sū. 6-4-92) though the penultimate had *vṛddhi*; for the *jhi* of *laṅ*, *jher antaḥ*; the *i* lost by *itaś ca*; *chandasy ubhayathā* (Pā. sū. 3-4-117) gives the *ārdhadhātuka* nature to *śap*, so *ṇi* is dropped by *ṇeraniṭi*; the *t* of *ant* dropped by *saṃyogāntalopa*: *amadan*; though intervening, because the *yat*-word is connected, *yadvṛttān nityam* forbids the *nighāta*. **|| 9 ||**
 
 ---
 
