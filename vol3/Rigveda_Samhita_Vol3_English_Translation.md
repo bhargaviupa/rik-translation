@@ -7586,38 +7586,66 @@ Skandasvāmin, besides giving this explanation of the ṛk, explains the words *
 
 ---
 
-### Pages 309–312 — Sūkta 25, Rik 7
+### Page 309 (lower) — Sūkta 25, Rik 7
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> वेदा यो वीनां पदमन्तरिक्षेण पतताम् ।
-> वेद नावः समुद्रियः ॥ ७ ॥
+> वेदा॒ यो वी॒नां प॒दम॒न्तरि॑क्षेण॒ पत॑तां ।
+> वेद॑ नावः स॑मुद्रियः॑ ॥७॥
+>
+> *vedā yó vīnā́ṃ padámantárikṣeṇa pátatāṃ |*
+> *véda nāváḥ samudríyaḥ ||7||*
 
-*vedā yo vīnāṃ padam antarikṣeṇa patatām | veda nāvaḥ samudriyaḥ || 7 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. In line 2 the svarita strokes stand over* द*,* स *(of* समु-*) and* यः*, as printed, with no anudātta bar in the line. The print has* अन्तरिक्षेण *with the conjunct* न्त *here. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+### Page 310 — Rik 7: Pada, bhāṣya, word-meanings, overall sense, English
 
-> वेद । यः । वीनाम् । पदम् । अन्तरिक्षेण । पतताम् ॥ वेद । नावः । समुद्रियः ॥ ७ ॥
+**॥ Pada-pāṭhaḥ ॥**
 
-*veda | yaḥ | vīnām | padam | antarikṣeṇa | patatām || veda | nāvaḥ | samudriyaḥ || 7 ||*
+> वेद । यः । वीनां । पदं । अन्तरिक्षेण । पततां । वेद । नावः । समुद्रियः ॥७॥
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 310)*
+> *veda | yaḥ | vīnāṃ | padaṃ | antarikṣeṇa | patatāṃ | veda | nāvaḥ | samudriyaḥ ‖7‖*
 
-> अन्तरिक्षेण पतताम् आकाशमार्गेण गच्छतां वीनां पक्षिणां पदं यो वरुणो वेद । तथा समुद्रियः समुद्रेऽवस्थितो वरुणो नावो जले गच्छन्त्याः पदं वेद जानाति सोऽस्माकं बन्धनान्मोचयितेति शेषः ॥ वेद । विद ज्ञाने । विदो लटो वा । पा. ३-४-८३ । इति तिपो णल् । लित्स्वरेणाद्युदात्तत्वम् । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । वीनाम् । नामन्यतरस्यामिति नाम उदात्तत्वम् । पतताम् । शपः पित्त्वादनुदात्तत्वम् । शतुश्च लसार्वधातुकस्वरेण धातुस्वरः । नावः । सावेकाच इति षष्ठ्याः उदात्तत्वम् । समुद्रियः । भवार्थे समुद्राभ्राद्धः । पा. ४-४-११८ । इति घप्रत्ययः ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*antarikṣeṇa patatām ākāśamārgeṇa gacchatāṃ vīnāṃ pakṣiṇāṃ padaṃ yo varuṇo veda | tathā samudriyaḥ samudre 'vasthito varuṇo nāvo jale gacchantyāḥ padaṃ veda jānāti so 'smākaṃ bandhanān mocayiteti śeṣaḥ || veda | vida jñāne | vido laṭo vā | pā. 3-4-83 | iti tipo ṇal | litsvareṇādyudāttatvam | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | vīnām | nāmany atarasyām iti nāma udāttatvam | patatām | śapaḥ pittvād anudāttatvam | śatuś ca lasārvadhātukasvareṇa dhātusvaraḥ | nāvaḥ | sāvekāca iti ṣaṣṭhyāḥ udāttatvam | samudriyaḥ | bhavārthe samudrābhrād ghaḥ | pā. 4-4-118 | iti ghapratyayaḥ ||*
+> अंतरिक्षेण पततामाकाशमार्गेण गच्छतां वीनां पक्षिणां पदं यो वरुणो वेद । तथा समुद्रियः समुद्रेऽवस्थितो वरुणो नावो जले गच्छंत्याः पदं वेद जानाति सोऽस्मान्बंधनान्मोचयत्विति शेषः । वेद । विद ज्ञाने । विदो लटो वा । पा. ३-४-८३ । इति तिपो णल् । लित्स्वरेणाद्युदात्तत्वं । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । वीनां । नामन्यतरस्यामिति नाम उदात्तत्वं । पततां । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण धातुस्वरः । नावः । सावेकाच इति षष्ठ्या उदात्तत्वं । समुद्रियः । भवार्थे समुद्राभ्राद्घः । पा. ४. ४. ११८ । इति घप्रत्ययः ।
 
-**Translation:** "Varuṇa, who knows the *padam* — the track — of birds (*vīnām*) flying (*patatām*) through the *antarikṣa*, the path of the sky; and likewise *samudriyaḥ* — Varuṇa who abides in the sea — knows the track of ships (*nāvaḥ*) moving on the water: [may] he [be the one who frees us from bondage] — this is to be supplied. *Veda*: *vida jñāne*; *ṇal* in place of *tip* by P. 3-4-83 [*vido laṭo vā*]; the first-syllable acute by the *lit*-rule; lengthening in the Saṃhitā by P. 6-3-135 *dvyaco 'ta stiṅaḥ*. *Vīnām*: the genitive plural ending *nām*'s acute [by P. 6-1-177 *nāmany atarasyām*]. *Patatām*: *śap*, being *pit*, is anudātta; the root-accent remains. *Nāvaḥ*: the genitive's acute by *sāvekāca*. *Samudriyaḥ*: *gha* in the sense 'being in' after *samudra* by P. 4-4-118 *samudrābhrād ghaḥ*." *(Grammar pages 311–312, noted briefly: the words treated are* vede *[*vida jñāne* — class 2 (*adādi*), *laṭ*; when the *laṭ* of *vid* optionally takes *ṇal* etc. by P. 3-4-83 *vido laṭo vā*, the first person *veda*… the lengthening of the final *a* in the Saṃhitā by P. 6-3-135],* vīnām *[*vi*, 'bird', genitive plural; *nām* with the acute by P. 6-1-177; the lengthening of the stem-vowel by P. 6-4-3 *nāmi*],* patatām *[*pat* + *śatṛ* → *patat*; genitive plural *nuṭ* + *ām*; *śap*'s *pit* accent; the *śatṛ* is *anudātta* by P. 6-1-186],* nāvaḥ *[*nau* + *ṅas*; *āv* for *au* by P. 7-1-… *e/o ayavāyāvaḥ* P. 6-1-78; *ru*-*visarga*; *sāvekāca* — the genitive ending is acute]* and* samudriyaḥ *[*samudra* + *gha* by P. 4-4-118; *gha* → *iya* by P. 7-1-2 *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām*; the final *a* of *samudra* is dropped by P. 6-4-148 *yasyeti ca*; the accent of the suffix]; numerals as read, pointers only.)*
+> *aṃtarikṣeṇa patatāmākāśamārgeṇa gacchatāṃ vīnāṃ pakṣiṇāṃ padaṃ yo varuṇo veda | tathā samudriyaḥ samudre 'vasthito varuṇo nāvo jale gacchaṃtyāḥ padaṃ veda jānāti so 'smānbaṃdhanānmocayatviti śeṣaḥ | veda | vida jñāne | vido laṭo vā | pā. 3-4-83 | iti tipo ṇal | litsvareṇādyudāttatvaṃ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | vīnāṃ | nāmanyatarasyāmiti nāma udāttatvaṃ | patatāṃ | śapaḥ pittvādanudāttatvaṃ | śatuśca lasārvadhātukasvareṇa dhātusvaraḥ | nāvaḥ | sāvekāca iti ṣaṣṭhyā udāttatvaṃ | samudriyaḥ | bhavārthe samudrābhrādghaḥ | pā. 4. 4. 118 | iti ghapratyayaḥ |*
 
-**॥ Prati-padārthaḥ ॥** *(p. 310)* **यः (yaḥ)** — which Varuṇa | **अन्तरिक्षेण पतताम् (antarikṣeṇa patatām)** — of those that fly in the sky | **वीनाम् (vīnām)** — of birds | **पदम् (padam)** — the track | **वेद (veda)** — knows | **समुद्रियः (samudriyaḥ)** — [Varuṇa] who plays in the ocean | **नावः (nāvaḥ)** — of the ships [that move on the water] | **पदम् (padam)** — the track | **वेद (veda)** — knows | [**ताः?** such Varuṇa may release our bonds].
+*(Numbers zoom-read at 450 dpi: पा. ३-४-८३; ४. ४. ११८ (printed with points).)*
 
-**॥ Bhāvārthaḥ ॥** Varuṇa knows the paths of the birds that fly in the sky and likewise the paths of the ships that move in the ocean. May such a Varuṇa free us from our bonds.
+*Gist:* Varuṇa, who knows the track of the birds flying through the air and, dwelling in the ocean, the course of ships on the water: may he free us from our bonds (to be supplied).
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **अंतरिक्षेण (aṃtarikṣeṇa)** — by the path of the sky | **पततां (patatāṃ)** — that fly | **वीनां (vīnāṃ)** — of the birds | **पदं (padaṃ)** — the path of movement | **यः (yaḥ)** — which Varuṇa | **वेद (veda)** — knows | **समुद्रियः (samudriyaḥ)** — (the same) Varuṇa who dwells in the ocean | **नावः (nāvaḥ)** — (moving in the water) of the ship | **पदं (padaṃ)** — the path of movement too | **वेद (veda)** — knows (such a one …).
 
-> He who knows the path of the birds flying through the air, he who knows the course of the ship in the ocean; (may he loosen our bonds).
+**॥ Bhāvārthaḥ ॥** Varuṇa knows well the paths of the birds that fly in the sky, and likewise the paths of the ship in the ocean. (May such a Varuṇa release our bonds.)
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 311)* Since Varuṇa is present in the *antarikṣa*, shining, he can know the flight-paths of birds that cannot be known to anyone else. Likewise, being lord of the waters, he can know the paths of the boats that travel over the sea. The path from one place to another on earth is plain and everyone can see it; to know it is no great thing. But the paths in the *antarikṣa* and on the sea are not marked; it is impossible for ordinary men to know them; Varuṇa alone has the power to know them. May such a Varuṇa release our bonds — that is the chief purport.
+**॥ English Translation ॥** *(as printed)*
+
+> He who knows the path of the birds flying through the air, he who knows the course of the ship in the ocean ; (may he loosen our bonds).
+
+### Page 311 — Rik 7: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** Since Varuṇa shines in the *antarikṣa*, he can know the paths by which birds fly, which no one else can know. Likewise, since Varuṇa is lord of the waters, he can know the path of the ships (vessels) that move on the ocean. The road from one place to another on the earth is plainly visible to all, and it is not hard to see and know it; but since the paths that move through the *antarikṣa* and over the ocean are not marked out, mere human beings cannot know them; only Varuṇa has the power to know them. The main point: may such a Varuṇa release us from our bonds.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**वेद (veda)** — *vida jñāne*, adādi; for *laṭ*, by "विदो लटो वा" (Pā. Sū. 3-4-83) the parasmaipada endings of *liṭ* (*ṇal* etc.) optionally replace those of *laṭ* after *vid*: *ṇal* in the third singular; guṇa of the light penultimate: *veda*. As *ṇal* is *lit*, initially acute by "लिति" (Pā. Sū. 6-1-193). By "द्व्यचोऽतस्तिङः" (Pā. Sū. 6-3-135) the final *a* of a two-syllable *tiṅanta* is lengthened in the Saṃhitā.
+
+**वीनाम् (vīnām)** — genitive plural of *vi*; the stem is lengthened by "नामि"; by "नामन्यतरस्याम्" (Pā. Sū. 6-1-177) the *nām* is udātta.
+
+**पतताम् (patatām)** — *patḷ gatau*, bhvādi; *śatṛ*: *patat*; *śap* is anudātta as *pit*; the *śatṛ* after *śap*, being a *lasārvadhātuka*, is anudātta by "तास्यनुदात्तेत्-" (Pā. Sū. 6-1-186); the root's accent remains: *patatām* is initially acute.
+
+**नावः (nāvaḥ)** — genitive singular of *nau*, with *āv*, *rutva* and visarga; as a monosyllabic word, the genitive ending is udātta by "सावेकाचः" (Pā. Sū. 6-1-168).
+
+**समुद्रियः (samudriyaḥ)** — *samudre bhavaḥ (avasthitaḥ)*: that which is in the ocean. In the sense "*tatra bhavaḥ*" the suffix *gha* by "समुद्राभ्राद्घः" (Pā. Sū. 4-4-118); *iya* for the *gh* by "आयनेयीनीयियः-" (Pā. Sū. 7-1-2);
+
+### Page 312 (upper) — Rik 7: grammar (end)
+
+the final *a* of *samudra* dropped by "यस्येति च" (Pā. Sū. 6-4-148): *samudriyaḥ*; by the suffix accent the *i* is udātta. ॥७॥ *(A printed rule follows.)*
+
+---
+
 ### Pages 312–315 — Sūkta 25, Rik 8
 
 **॥ Saṃhitāpāṭhaḥ ॥**
