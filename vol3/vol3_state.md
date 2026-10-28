@@ -62,3 +62,11 @@ Tools: `tools/` (copied from `vol2/tools/` on Oct 27; `cfg.py` = the seven parts
 ## To be reviewed
 
 *(none yet; "as printed" numbers and [sic] English kept from the print are listed here by printed page.)*
+
+**Handover note (Oct 28, session end).** Ṛk 24.6 (pp. 260 lower–264 = PDF 274–278) was read but not yet written. Readings from the print:
+- Saṃhitā: न॒हि ते॑ क्ष॒त्रं न सहो॒ न म॒न्युं वय॑श्च॒नामी प॒तय॑न्त आ॒पुः । नेमा आपो॑ अनिमि॒षं चर॑न्ती॒र्न ये वात॑स्य प्रमि॒नन्त्यभ्वं॑ ॥६॥
+- The bhāṣya prints "उत्तराभिरेकविंशता" (as printed; p. 241 has एकत्रिंशता) and "प्रौढे वियत्युत्पतन्तोऽमी दृश्यमाना वयश्चन श्येनादयः".
+- Tail numbers: Pā. 7-4-70, 6-4-112, 7-3-81 and 8-1-71; the tail ends ॥६॥ on p. 262.
+- Still to view: pp. 262 lower–264 (Special Topics continued, grammar).
+
+The scheduled task was deleted by the user (Oct 28); further work is run by hand in new sessions.
