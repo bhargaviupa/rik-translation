@@ -3081,13 +3081,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.8 (p. 202 foot, PDF 216–)
 
-**Saṃhitā-pāṭha** *(p. 202; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 202)*
 
-> **घ्नन्तो वृत्रमतरन्रोदसी अप उरु क्षयाय चक्रिरे ।**
-> **भुवत्कण्वे वृषा द्युम्न्याहुतः क्रन्ददश्वो गविष्टिषु ॥ ८ ॥**
+> घ्नन्तो॑ वृ॒त्रम॑तर॒न्रोद॑सी अ॒प उ॒रु क्षया॑य चक्रिरे ।
+> भुव॒त्कण्वे॒ वृषा॑ द्यु॒म्न्याहु॑तः॒ क्रन्द॒दश्वो॒ गवि॑ष्टिषु ॥ ८ ॥
 
-*ghnanto vṛtram ataran rodasī apa uru kṣayāya cakrire |*
-*bhuvat kaṇve vṛṣā dyumny āhutaḥ krandad aśvo gaviṣṭiṣu || 8 ||*
+*ghnánto vṛtrám ataran ródasī apá urú kṣáyāya cakrire |*
+*bhuvat káṇve vṛ́ṣā dyumnyā́hutaḥ krándad áśvo gáviṣṭiṣu || 8 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The first line is printed over two lines, "cakrire" on the second.)*
 
 ---
 
@@ -3101,15 +3103,23 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *ghnantaḥ | vṛtram | ataran | rodasī iti | apaḥ | uru | kṣayāya | cakrire ||*
 *bhuvat | kaṇve | vṛṣā | dyumnī | ā-hutaḥ | krandat | aśvaḥ | go-iṣṭiṣu || 8 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 203; the first half in full, the grammatical tail characterized)*
+**Sāyaṇa-bhāṣya** *(p. 203, in full)*
 
-> हे अग्ने घ्नन्तस्त्वत्सहायेनेतरे देवाः प्रहरन्तो वृत्रमतरन् । तीर्णवन्तः । तदनन्तरं रोदसी द्यावापृथिव्यावपोऽन्तरिक्षं च क्षयाय प्राणिनां निवासार्थमुरु विस्तारो यथा भवति तथा चक्रिरे । आपः पृथिवीति तन्नामसु पठितत्वात् । भुवत् [?] । कण्वे कण्वनामके महर्षौ वृषा कामानां वर्षिता द्युम्नी धनवान् आहुतः सर्वतो होमयुक्तश्च भुवत् । भवतु । तत्र दृष्टान्तः । गविष्टिषु गोविषयेच्छायुक्तेषु संग्रामेष्वश्वः क्रन्दत् शब्दं कुर्वन् यथाभीष्टप्रापकस्तथेति शेषः ॥
+> हे अग्ने घ्नन्तस्त्वत्सहायेनेतरे देवाः प्रहरन्तो वृत्रमतरन् । तीर्णवन्तः । तदनन्तरं रोदसी द्यावापृथिव्यावपोऽन्तरिक्षं च क्षयाय प्राणिनां निवासार्थमुरु विस्तारो यथा भवति तथा चक्रिरे । अप्शब्दोऽन्तरिक्षवाची । आपः पृथिवीति तन्नामसु पठितत्वात् । भवांस्तु कण्वे कण्वनामके महर्षौ वृषा कामानां वर्षिता द्युम्नी धनवान् आहुतः सर्वतो होमयुक्तश्च भुवत् । भवतु । तत्र दृष्टान्तः । गविष्टिषु गोविषयेच्छायुक्तेषु संग्रामेष्वश्वः क्रन्दत् शब्दं कुर्वन् यथाभीष्टप्रापकस्तथेति शेषः ॥
 
-*he agne ghnantas tvatsahāyenetare devāḥ praharanto vṛtram ataran | tīrṇavantaḥ | tadanantaraṃ rodasī dyāvāpṛthivyāv apo 'ntarikṣaṃ ca kṣayāya prāṇināṃ nivāsārtham uru vistāro yathā bhavati tathā cakrire | āpaḥ pṛthivīti tannāmasu paṭhitatvāt | bhuvat [?] | kaṇve kaṇvanāmake maharṣau vṛṣā kāmānāṃ varṣitā dyumnī dhanavān āhutaḥ sarvato homayuktaś ca bhuvat | bhavatu | tatra dṛṣṭāntaḥ | gaviṣṭiṣu goviṣayecchāyukteṣu saṃgrāmeṣv aśvaḥ krandat śabdaṃ kurvan yathābhīṣṭaprāpakas tatheti śeṣaḥ ||*
+*he agne ghnantastvatsahāyenetare devāḥ praharanto vṛtramataran | tīrṇavantaḥ | tadanantaraṃ rodasī dyāvāpṛthivyāvapo 'ntarikṣaṃ ca kṣayāya prāṇināṃ nivāsārthamuru vistāro yathā bhavati tathā cakrire | apśabdo 'ntarikṣavācī | āpaḥ pṛthivīti tannāmasu paṭhitatvāt | bhavāṃstu kaṇve kaṇvanāmake maharṣau vṛṣā kāmānāṃ varṣitā dyumnī dhanavān āhutaḥ sarvato homayuktaśca bhuvat | bhavatu | tatra dṛṣṭāntaḥ | gaviṣṭiṣu goviṣayecchāyukteṣu saṃgrāmeṣvaśvaḥ krandat śabdaṃ kurvan yathābhīṣṭaprāpakastatheti śeṣaḥ ‖*
 
-**Translation:** "O Agni, the other gods, *ghnantaḥ* — striking — by your help, *vṛtram ataran* — crossed over [= overcame] Vṛtra. Thereafter they made *rodasī* — heaven and earth — and *apaḥ*, the mid-region (the print reads '*āpaḥ pṛthivī*' as read among the names, a point I could not follow exactly [?]), *uru* — wide — *kṣayāya*, for the dwelling of living beings. *Bhuvat* — let [Agni] be to the great ṛṣi Kaṇva *vṛṣā*, the shower of desires, *dyumnī*, the possessor of wealth, *āhutaḥ*, furnished with oblations on all sides. The illustration: as a horse *krandat*, neighing, in *gaviṣṭiṣu*, in battles [fought] in desire for cattle, is the means of obtaining what is wished, so [may Agni be] — as is to be supplied."
+**Translation:** "O Agni, the other gods, *ghnantaḥ* — striking — by your help, *vṛtram ataran* — crossed over [= overcame] Vṛtra. Thereafter they made *rodasī* — heaven and earth — and *apaḥ*, the mid-region — the word *ap* denotes the mid-region, since '*āpaḥ*, *pṛthivī*' are read among its names — *uru* — wide — *kṣayāya*, for the dwelling of living beings. But you (*bhavān tu*) — *bhuvat*, may you be — to the great ṛṣi Kaṇva *vṛṣā*, the shower of desires, *dyumnī*, the possessor of wealth, *āhutaḥ*, furnished with oblations on all sides. The illustration: as a horse *krandat*, neighing, in *gaviṣṭiṣu*, in battles [fought] in desire for cattle, is the means of obtaining what is wished, so [may Agni be] — as is to be supplied."
 
-**Grammar within the bhāṣya** *(p. 203, characterized)*: *ghnantaḥ* (*han* + *śatṛ*, *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*: the penultimate lost; *ho hanter ñṇinneṣu*: *h* → *gh*); *āpaḥ* (*ūḍidam…*: the ending acute); *kṣayāya* (*kṣi nivāsagatyoḥ*, *gha* by *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa*; *kṣayo nivāse*: first-syllable acute); *bhuvat* (*leṭ*, the augment *aṭ*, *itaś ca lopaḥ*, the loss of *śap* by *bahulaṃ chandasi*; no *guṇa* by *bhūsuvos tiṅi*; *uvaṅ*); *āhutaḥ* (*hu dānādanayoḥ*, *kta* in the object sense; the preverb keeps its accent); *krandat* (*kradi*, *śatṛ*, the augment *num* is absent); *gaviṣṭiṣu* (*iṣu icchāyām*, *ktin*; "*gavām iṣṭayaḥ yeṣu saṃgrāmeṣu*"; a bahuvrīhi with first-member accent).
+**Grammatical tail of the bhāṣya** *(p. 203)*
+
+> घ्नन्तः । हन्तेः शतरि गमहनेत्यादिनोपधालोपः । हो हन्तेर्ञ्णिन्नेषु । पा. ७-३-५४ । इति घत्वम् । अपः । ऊडिदमिति शस उदात्तत्वम् । क्षयाय । क्षि निवासगत्योः । क्षियन्ति निवसन्त्यस्मिन्निति क्षयो निवासस्थानम् । पुंसि संज्ञायां घः प्रायेणेति घः । क्षयो निवासे । पा. ६-१-२०१ । इत्याद्युदात्तत्वम् । भुवत् । भवतेर्लेट्यडागमः । इतश्च लोप इतीकारलोपः । बहुलं छन्दसीति शपो लुक् । भूसुवोस्तिङि । पा. ७-३-८८ । इति गुणप्रतिषेधः । अडागमस्यानुदात्तत्वे धातुस्वरः । आहुतः । आहूयत इत्याहुतः । हु दानादनयोः । कर्मणि क्तः । गतिरनन्तर इति गतेः प्रकृतिस्वरत्वम् । क्रन्दत् । कदि क्रदि क्लदि आह्वाने । शतरि नुमभावश्छान्दसः । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । गविष्टिषु । इषु इच्छायाम् । एषणमिष्टिः । गवामिष्टिर्येषु संग्रामेषु बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+*ghnantaḥ | hanteḥ śatari gamahanetyādinopadhālopaḥ | ho hanterñṇinneṣu | pā. 7-3-54 | iti ghatvam | apaḥ | ūḍidamiti śasa udāttatvam | kṣayāya | kṣi nivāsagatyoḥ | kṣiyanti nivasantyasminniti kṣayo nivāsasthānam | puṃsi saṃjñāyāṃ ghaḥ prāyeṇeti ghaḥ | kṣayo nivāse | pā. 6-1-201 | ityādyudāttatvam | bhuvat | bhavaterleṭyaḍāgamaḥ | itaśca lopa itīkāralopaḥ | bahulaṃ chandasīti śapo luk | bhūsuvostiṅi | pā. 7-3-88 | iti guṇapratiṣedhaḥ | aḍāgamasyānudāttatve dhātusvaraḥ | āhutaḥ | āhūyata ityāhutaḥ | hu dānādanayoḥ | karmaṇi ktaḥ | gatiranantara iti gateḥ prakṛtisvaratvam | krandat | kadi kradi kladi āhvāne | śatari numabhāvaśchāndasaḥ | adupadeśāllasārvadhātukānudāttatve dhātusvaraḥ | gaviṣṭiṣu | iṣu icchāyām | eṣaṇamiṣṭiḥ | gavāmiṣṭiryeṣu saṃgrāmeṣu bahuvrīhau pūrvapadaprakṛtisvaratvam ‖*
+
+*(Sense:)* *ghnantaḥ* (*han* + *śatṛ*, *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi*: the penultimate lost; *ho hanter ñṇinneṣu*: *h* → *gh*); *āpaḥ* (*ūḍidam…*: the ending acute); *kṣayāya* (*kṣi nivāsagatyoḥ*, *gha* by *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa*; *kṣayo nivāse*: first-syllable acute); *bhuvat* (*leṭ*, the augment *aṭ*, *itaś ca lopaḥ*, the loss of *śap* by *bahulaṃ chandasi*; no *guṇa* by *bhūsuvos tiṅi*; *uvaṅ*); *āhutaḥ* (*hu dānādanayoḥ*, *kta* in the object sense; the preverb keeps its accent); *krandat* (*kradi*, *śatṛ*, the augment *num* is absent); *gaviṣṭiṣu* (*iṣu icchāyām*, *ktin*; "*gavām iṣṭayaḥ yeṣu saṃgrāmeṣu*"; a bahuvrīhi with first-member accent).
+
+### Page 204
 
 **Pratipadārtha** *(p. 204)* — "(O Agni, by your help) **ghnantaḥ** — the other gods who destroy the enemies; **vṛtram** — Vṛtra, the asura; **ataran** — conquered; (and crossed over in fear); thereafter, **rodasī** — heaven and earth; **apaḥ** — the mid-region too; **kṣayāya** — for the dwelling of the creatures; **uru** — as wide; **cakrire** — made; **gaviṣṭiṣu** — in the time of the battles fought in the desire of getting cattle; **aśvaḥ** — a horse; **krandat** — neighing (as it does to the cause of the sacrificer's wished-for aim); **āhutaḥ** — one who has the share of the oblation in the sacrifice; **dyumnī** — you, the possessor of wealth; **kaṇve** — to the ṛṣi Kaṇva; **vṛṣā** — the giver of the wished-for aim (a benefactor); **bhuvat** — be."
 
@@ -3120,21 +3130,31 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 204–205**
 - **ghnantaḥ** — "killing, destroying. Here the bhāṣyakāra says the sense 'the gods who destroy their enemies'."
 - **ataran** = *tīrṇavantaḥ*: "overcame, destroyed, and so on."
-- **rodasī** — "since *rodasī* is read among the twenty-four names of heaven and earth beginning *svadhe*, *purandhī* (Ni. 3-30 [?]), *rodasī* means heaven and earth."
-- **apaḥ** — "since the word *āpaḥ* is read among the sixteen names of the mid-region beginning *ambaram*, *viyat*, *apaḥ* means the mid-region."
-- **kṣayāya** — "*kṣaya* here means a place to live (Ni. 3-[?] [?]): the three worlds, earth, heaven and mid-region, made free of the troubles of enemies and suited to be dwelt in."
+
+### Page 205
+
+- **rodasī** — "since *rodasī* is read among the twenty-four names of heaven and earth beginning *svadhe*, *purandhī* (Ni. 3-22, as printed), *rodasī* means heaven and earth."
+- **apaḥ** — "since the word *āpaḥ* is read among the sixteen names of the mid-region beginning *ambaram*, *viyat*, *apaḥ* (the accusative plural of *āp*) means the mid-region."
+- **kṣayāya** — "*kṣaya* here means a place to live (Ni. 8-18, as printed): the three worlds, earth, heaven and mid-region, made free of the troubles of enemies and suited to be dwelt in."
 - **kaṇve** — "Kaṇva, the ṛṣi of this sūkta, prays that Agni give him lordship [wealth] and the like."
 - **vṛṣā** = *kāmānāṃ varṣitā*: "one who showers desired objects, i.e. gives."
 - **dyumnī** = *dhanavān*: "one of wealth."
 - **krandad aśvo gaviṣṭiṣu** — "This simile does not fit well here. There seems to be no similarity between Agni's giving wealth and lordship to the ṛṣi Kaṇva when pleased, and a horse's neighing with joy in a battle fought for cattle; therefore the meaning of these words is not clear."
 
 **Vyākaraṇa-prakriyā** *(pp. 205–207, PDF 219–221 — grammar pages, noted briefly)*
-- **ghnantaḥ**: root *han hiṃsāgatyoḥ*, *adādi*; *laṭ*, *laṭaḥ śatṛśānacau*, *śatṛ*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *han + at*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — गमहनजनखनघसां लोपः क्ङित्यनङि — [Pā. 6-4-98]: the penultimate vowel of these roots is lost before a vowel-initial *kit* or *ñit* suffix other than *aṅ*: so the *a* of *han* is lost; *sārvadhātukam apit* makes *śatṛ* *ṅit*; *hn + at*; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — [Pā. 7-3-54]: the *h* of *han* becomes *gh* [*kutva*] before a suffix with *ñ* or *ṇ* as a marker or before *n*; "the sūtra is read with *it*-marking [*ñṇinnā*]: the *ñ*, *ṇ* and *n* in the sūtra are called *ñit*, *ṇit*, *nit*; and by the sense of the *dvandva*-end rule (*dvandvānte śrūyamāṇaṃ padaṃ pratyekam abhisambadhyate*) the word *it* is joined to each of the three; *ñṇinnau ca nas ca*: 'the suffixes with *ñ*, *ṇ* or the letter *n*'; so when any one of these follows, *kutva* [= the *k*-class] is the substitute of *h* of *han*; *kutva* means the *k*-varga, that is, the corresponding *gh* in the place of the *h*, which is *ghoṣa*, *nāda*, *saṃvāra*, *mahāprāṇa*"; by the force of the rule's mention of *n*, *acaḥ parasmin pūrvavidhau* does not make the loss of *a* a *sthānivat* element; *ghn + at = ghnat*; *jas*; *ugitaś ca* — *num*; *ru*, *visarga*.
-- **apaḥ** (p. 206): after *ap*, the accusative plural *śas*; *ūḍidaṃ padādyāpumrai­dyubhyaḥ* [Pā. 6-1-171]: the *asarvanāmasthāna* ending after these is acute: *śas* is acute.
-- **kṣayāya**: root *kṣi nivāsagatyoḥ*; *kṣiyanti* = "they dwell"; *atra iti kṣayaḥ* — "a dwelling place"; *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* — पुंसि संज्ञायां घः प्रायेण — [Pā. 3-3-118]: *gha* [*ghaḥ*] after a root in the senses of instrument and locus, for a masculine name, mostly; *kṣi + a*, *guṇa*, *ay*-substitution; *kṣayo nivāse* — क्षयो निवासे — [Pā. 6-1-201]: the word *kṣaya* in the sense of dwelling is first-syllable acute; the fourth singular.
-- **bhuvat**: root *bhū sattāyām*; *liṅarthe leṭ* — लिङर्थे लेट् — [Pā. 3-4-7]: *leṭ*; *tip*, *śap*; *bahulaṃ chandasi*: *luk* of *śap* [as read, [Pā. 2-4-73]]; *itaś ca lopaḥ parasmaipadeṣu* — [Pā. 3-4-97, as read]: the *i* of the ending is lost; *leṭo 'ḍāṭau* — the augment *aṭ*; *bhūsuvos tiṅi* — भूसुवोस्तिङि — [Pā. 7-3-88]: no *guṇa* for *bhū*, *sū* before a *sārvadhātuka tiṅ*; *aci śnudhātubhruvāṃ…*: *uvaṅ*: *bhuvat*.
-- **āhutaḥ**: *ā hūyate* — *āhutaḥ*; root *hu dānādanayoḥ*; *niṣṭhā* — *kta* in the object sense; *gatir anantaraḥ* [Pā. 6-2-49]: the preverb keeps its natural accent before a *kta*-ending later member.
+- **ghnantaḥ**: root *han hiṃsāgatyoḥ*, *adādi*; *laṭ*, *laṭaḥ śatṛśānacau*, *śatṛ*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *han + at*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — गमहनजनखनघसां लोपः क्ङित्यनङि (Pā. 6-4-98): the penultimate vowel of these roots is lost before a vowel-initial *kit* or *ñit* suffix other than *aṅ*: so the *a* of *han* is lost; *sārvadhātukam apit* (Pā. 1-2-4) makes *śatṛ* *ṅit*; *hn + at*; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु (Pā. 7-3-54): the *h* of *han* becomes *gh* [*kutva*] before a suffix with *ñ* or *ṇ* as a marker or before *n*; "the sūtra is read with *it*-marking [*ñṇinnā*]: the *ñ*, *ṇ* and *n* in the sūtra are called *ñit*, *ṇit*, *nit*; and by the sense of the *dvandva*-end rule (*dvandvānte śrūyamāṇaṃ padaṃ pratyekam abhisambadhyate*) the word *it* is joined to each of the three; *ñṇinnau ca nas ca*: 'the suffixes with *ñ*, *ṇ* or the letter *n*'; so when any one of these follows, *kutva* [= the *k*-class] is the substitute of *h* of *han*;
+
+### Page 206
+
+(continued, p. 206) *kutva* means the *k*-varga, that is, the corresponding *gh* in the place of the *h*, which is *ghoṣa*, *nāda*, *saṃvāra*, *mahāprāṇa*"; by the force of the rule's mention of *n*, *acaḥ parasmin pūrvavidhau* does not make the loss of *a* a *sthānivat* element; *ghn + at = ghnat*; *jas*; *ugitaś ca* — *num*; *ru*, *visarga*.
+- **apaḥ**: after *ap*, the accusative plural *śas*; *ūḍidaṃ padādyāpumrai­dyubhyaḥ* (Pā. 6-1-171): the *asarvanāmasthāna* ending after these is acute: *śas* is acute.
+- **kṣayāya**: root *kṣi nivāsagatyoḥ*; *kṣiyanti* = "they dwell"; *atra iti kṣayaḥ* — "a dwelling place"; *puṃsi saṃjñāyāṃ ghaḥ prāyeṇa* — पुंसि संज्ञायां घः प्रायेण (3-3-118, printed without "Pā."): *gha* [*ghaḥ*] after a root in the senses of instrument and locus, for a masculine name, mostly; *kṣi + a*, *guṇa*, *ay*-substitution; *kṣayo nivāse* — क्षयो निवासे (Pā. 6-1-201): the word *kṣaya* in the sense of dwelling is first-syllable acute; the fourth singular.
+- **bhuvat**: root *bhū sattāyām*; *liṅarthe leṭ* — लिङर्थे लेट् (Pā. 3-4-7): *leṭ*; *tip*, *śap*; *bahulaṃ chandasi*: *luk* of *śap* (no number printed); *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97): the *i* of the ending is lost; *leṭo 'ḍāṭau* (Pā. 3-4-94) — the augment *aṭ*; *bhūsuvos tiṅi* — भूसुवोस्तिङि (Pā. 7-3-88): no *guṇa* for *bhū*, *sū* before a *sārvadhātuka tiṅ*; *aci śnudhātubhruvāṃ…* (Pā. 6-4-77): *uvaṅ*: *bhuvat*.
+- **āhutaḥ**: *ā hūyate* — *āhutaḥ*; root *hu dānādanayoḥ*; *niṣṭhā* — *kta* in the object sense; *gatir anantaraḥ* (Pā. 6-2-49): the preverb keeps its natural accent before a *kta*-ending later member.
 - **krandat**: root *kadi kradi kladi āhvāne*, one of the same class; *laṭ*, *śatṛ*; *śap*; *pararūpa*; *su*; *ugidacām…* would give *num*, but in the Veda it does not arise here; loss of *su*; *tāsyanudāttenṅidadupadeśāt…*: *śatṛ* after *śap* unaccented; the root's accent stands.
+
+### Page 207
+
 - **gaviṣṭiṣu** (p. 207): root *iṣu icchāyām*; *striyāṃ ktin*; *gavām iṣṭayaḥ yeṣu saṃgrāmeṣu te* — "battles in which cows are sought"; a bahuvrīhi, so the first-member natural accent. Rik 8 ends here (*|| 8 ||*).
 
 ### Rik 36.9 (pp. 207–210, PDF 221–224)
