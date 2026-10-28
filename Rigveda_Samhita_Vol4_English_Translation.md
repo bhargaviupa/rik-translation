@@ -8913,15 +8913,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.13 (pp. 534–537)
+### Rik 44.13 (pp. 534–537; better scan PDF 549–552)
 
-**Saṃhitā-pāṭha** *(p. 534; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 534)*
 
-> **श्रुधि श्रुत्कर्ण वह्निभिर्देवैरग्ने सयावभिः ।**
-> **आ सीदन्तु बर्हिषि मित्रो अर्यमा प्रातर्यावाणो अध्वरम् ॥ १३ ॥**
+> **श्रु॒धि श्रु॑त्कर्ण॒ वह्नि॑भिर्दे॒वैर॑ग्ने स॒याव॑भिः ।**
+> **आ सी॑दन्तु ब॒र्हिषि॑ मि॒त्रो अ॑र्य॒मा प्रा॑त॒र्यावा॑णो अध्व॒रम् ॥ १३ ॥**
 
-*śrudhi śrutkarṇa vahnibhir devair agne sayāvabhiḥ |*
-*ā sīdantu barhiṣi mitro aryamā prātaryāvāṇo adhvaram || 13 ||*
+*śrudhí śrutkarṇa váhnibhir devaír agne sayā́vabhiḥ |*
+*ā́ sīdantu barhíṣi mitró aryamā́ prātaryā́vāṇo adhvarám || 13 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 534)*
 
@@ -8945,18 +8947,21 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Translation:** "O *śrutkarṇa*, O Agni, whose ears are fit for hearing, *śrudhi*, hear — hear our words. The god Mitra, and Aryaman, and the other gods, *prātaryāvāṇaḥ*, who go to the place of worship in the morning — may all those *ā sīdantu*, sit down, *barhiṣi*, on the *darbha* grass, *adhvaram*, with a view to the sacrifice, together with you, the *āhavanīya* fire, and with the other gods, the carriers (*vahnibhiḥ*) who go together with you (*sayāvabhiḥ*)."
 
-**Grammatical tail** *(p. 535; characterized, numerals as read [?])*
-- *śrudhi*: root *śru śravaṇe*; *hi* is replaced by *dhi* in the Chandas by a rule beginning *śrūśṛṇupṛkṛvṛbhyaś chandasi* (as printed, number not given here); the *vikaraṇa* (*śnu*) is dropped by "*bahulaṃ chandasi*".
-- *śrutkarṇa*: "he who hears" = *śrut*; *tuk* augment when *kvip* follows; bahuvrīhi "he whose ears are *śrut*".
-- *vahnibhiḥ*: root *vaha prāpaṇe*; the suffix *ni* by a rule beginning *vahiśriyuśruglā-hā-tvaribhyo nit* (Uṇ. 4-[?] as read), being *nit*, the word has initial acute.
-- *sayāvabhiḥ*: "they who go together" (*samānaṃ yāntīti*); *yā prāpaṇe*; *vanip* by a rule beginning *ato manin* …; the accent as in a *kṛd*-ending second member (*kṛduttarapadaprakṛtisvaratvam*, as printed).
-- *prātaryāvāṇaḥ*: as before (*pūrvavat*); the change to *ṇ* by *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11 as read).
+**Sāyaṇa-bhāṣya, grammatical tail** *(p. 535; transcribed from the better scan, PDF 550)*
+
+> **श्रुधि । श्रु श्रवणे । श्रुशृण्वित्यादिना हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् । श्रुत्कर्ण । शृणोतीति श्रुत् । क्विपि तुगागमः । श्रुतौ कर्णौ यस्यासौ श्रुत्कर्णः । वह्निभिः । वह प्रापणे । वहिश्रियुश्रुग्लाहात्वरिभ्यो निदिति निप्रत्ययः । नित्त्वादाद्युदात्तत्वं । सयावभिः । समानं यान्तीति सयावानः । या प्रापणे । आतो मनिन्निति वनिप् । कृदुत्तरपदप्रकृतिस्वरत्वं । प्रातर्यावाणः । पूर्ववत् । प्रातिपदिकान्तनुम्विभक्तिषु च । पा. ८-४-११ । इति णत्वं ॥**
+
+*śrudhi | śru śravaṇe | śruśṛṇv ityādinā her dhir ādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk | śrutkarṇa | śṛṇotīti śrut | kvipi tugāgamaḥ | śrutau karṇau yasyāsau śrutkarṇaḥ | vahnibhiḥ | vaha prāpaṇe | vahiśriyuśruglāhātvaribhyo nid iti nipratyayaḥ | nittvād ādyudāttatvaṃ | sayāvabhiḥ | samānaṃ yāntīti sayāvānaḥ | yā prāpaṇe | āto maninn iti vanip | kṛduttarapadaprakṛtisvaratvaṃ | prātaryāvāṇaḥ | pūrvavat | prātipadikāntanumvibhaktiṣu ca | pā. 8-4-11 | iti ṇatvaṃ ||*
+
+*(Gist: dhi for hi and loss of the vikaraṇa in śrudhi; śrut with kvip and tuk; vahni with ni (nit, initial acute); sayāvan and prātaryāvan with vanip; ṇ by Pā. 8-4-11. The bhāṣya ends "॥" without a number.)*
 
 **Pratipadārtha** *(p. 535)* — "**śrutkarṇa** — O Agni, endowed with ears that hear subtly; **agne** — O Agni; **śrudhi** — hear (our) words; **mitraḥ** — Mitra; **aryamā** — and Aryaman; **prātaryāvāṇaḥ** — and the other gods who go (towards the sacrificial place) in the morning; **sayāvabhiḥ** — who move along with you in the form of the *āhavanīya*; **vahnibhiḥ** — together with the other fire-gods; **adhvaram** — with the sacrifice as the object; **barhiṣi** — on the seat of *darbha* grass; **ā sīdantu** — let them sit down."
 
 **Bhāvārtha** *(p. 535)* — "O Agni, since your ears are very subtle in hearing, listen well to our words in the form of praise. Let Mitra, Aryaman and the other gods who go in the morning towards the sacrificial place, and also the other fire-gods who move together with you in the form of the *āhavanīya*, together come here with a view to the sacrifice we are performing, and sit on the *darbha* seat."
 
 **English Translation (the source's own, p. 535)** — "O Agni, whose ears can hear, hear our invocation ; let Mitra and Aryaman and other gods that move together in the early morning with all the accompanying gods that carry oblations, sit down at the sacrifice upon the sacred kusa-grass."
+
+### Page 535
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 535–536**
 - **śrutkarṇa** — "*śṛṇotīti śrut; śrutau karṇau yasyāsau śrutkarṇaḥ*; *śravaṇasamarthābhyāṃ karṇābhyāṃ yuktaḥ*: *śrut* means one who hears, *karṇa* means ear; one whose ears are able to hear the invocation — Agni is meant."
@@ -8965,12 +8970,14 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **prātaryāvāṇaḥ** — "*prātaḥkāle devayajanaṃ gacchanto devāḥ*: the gods who go to the place of the sacrifice in the morning; this is the meaning."
 - **adhvaram** — "having come here now with reference to the sacrifice we are performing."
 
+### Page 536
+
 **Vyākaraṇa-prakriyā** *(pp. 536–537 — grammar pages, noted briefly)*
-- **śrudhi**: root *śru śravaṇe*; *loṭ*, *sip*, *hi* as substitute; "*śṛṇu-prākṛvṛbhyaś chandasi*" (Pā. 6-4-102 as read [?]) gives *dhi* in place of *hi*; "*bahulaṃ chandasi*" the *vikaraṇa* (*śnu*) is dropped (*luk*).
+- **śrudhi**: root *śru śravaṇe*; *loṭ*, *sip*, *hi* as substitute; "*śruśṛṇupṛkṛvṛbhyaś chandasi*" (Pā. 6-4-102) gives *dhi* in place of *hi*; "*bahulaṃ chandasi*" the *vikaraṇa* (*śnu*) is dropped (*luk*).
 - **śrutkarṇa**: root *śru śravaṇe*; "*śṛṇotīti śrut*", *kvip* by *kvip ca*; *hrasvasya piti kṛti tuk* gives the *tuk* augment; bahuvrīhi "*śrutau karṇau yasya saḥ*" — "one whose ears have the power to hear" (the meaning: one whose ears are not deaf); vocative, so unaccented (*āmantritānudātta*).
-- **vahnibhiḥ**: *vaha prāpaṇe*; the Uṇādi sūtra "*vahiśriyuśruglā-hā-tvaribhyo nit*" (Uṇ. 4-[?] as read; I give the name as printed): after the roots *vaha prāpaṇe, śriñ sevāyām, yu miśraṇe, śru śravaṇe, glai harṣakṣaye, o hāk tyāge*, and *tvarā sambhrame* the suffix *ni* comes, being *nit* — the sūtra means this. (The Kannada author notes that the sūtra beginning *vahi-śri-yu-druv…* is the form found in the present Uṇādi-list [?].) *vah + ni = vahni*; since the suffix is *nit*, the initial acute.
-- **sayāvabhiḥ**: analysis "*samānaṃ yānti*"; *yā prāpaṇe*; "*ato manin kvanib vanipaś ca*" (Pā. 3-2-74 as read [?]) — when a *subanta* or a preposition stands as *upapada* the three suffixes *manin, kvanip, vanip* come in the Chandas after roots ending in *ā*: here *vanip* after *yā* with the word *samāna* as *upapada*; *samānasya chandasy amūrdhaprabhṛtyudarkeṣu* (Pā. 6-3-84 as read [?]) gives *sa* for *samāna*: *sa + yā + van = sayāvan*; *bhis*; "*na lopaḥ prātipadikāntasya*" the *n* is dropped; *ru*, *visarga*. For the second member *yāvan*, ending in a *kṛt*, by "*gatikārakopapadāt kṛt*" (Pā. 6-2-139 as read [?]) the natural (*prakṛti*) accent of the first member remains.
-- **prātaryāvāṇaḥ**: *prātar* as *upapada*, root *yā*, *vanip* as before: *prātaryāvan*, *jas*; *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11 as read) — पूर्वपदात् … — "the *n* which stands at the end of a *prātipadika*, in *num*, or in a case-ending, becomes *ṇ* if preceded by a *repha* or *ṣ* in the earlier member, or if followed (at a distance) by one"; thus the *n* at the end of the stem becomes *ṇ*. **|| 13 ||**
+- **vahnibhiḥ**: *vaha prāpaṇe*; the Uṇādi sūtra "*vahiśriyuśruglā-hā-tvaribhyo nit*" (Uṇ. 4-491 as read; the middle digit is the ಕ-shaped 9): after the roots *vaha prāpaṇe, śriñ sevāyām, yu miśraṇe, śru śravaṇe, glai harṣakṣaye, o hāk tyāge*, and *tvarā sambhrame* the suffix *ni* comes, being *nit* — the sūtra means this. (The Kannada author notes that the sūtra in the current Uṇādi list begins *vahiśriśruyudru…*.) *vah + ni = vahni*; since the suffix is *nit*, the initial acute.
+- **sayāvabhiḥ**: analysis "*samānaṃ yānti*"; *yā prāpaṇe*; "*āto manin kvanib vanipaś ca*" (Pā. 3-2-74) — when a *subanta* or a preposition stands as *upapada* the three suffixes *manin, kvanip, vanip* come in the Chandas after roots ending in *ā*: here *vanip* after *yā* with the word *samāna* as *upapada*; *samānasya chandasy amūrdhaprabhṛtyudarkeṣu* (no number printed) gives *sa* for *samāna*: *sa + yā + van = sayāvan*; *bhis*; "*na lopaḥ prātipadikāntasya*" the *n* is dropped; *ru*, *visarga*. For the second member *yāvan*, ending in a *kṛt*, by "*gatikārakopapadāt kṛt*" (no number printed) the natural (*prakṛti*) accent of the first member remains.
+- **prātaryāvāṇaḥ**: *prātar* as *upapada*, root *yā*, *vanip* as before: *prātaryāvan*, *jas*; *prātipadikāntanumvibhaktiṣu ca* (Pā. 8-4-11) "the *n* which stands at the end of a *prātipadika*, in *num*, or in a case-ending, becomes *ṇ* if preceded by a *repha* or *ṣ* in the earlier member, or if followed (at a distance) by one"; thus the *n* at the end of the stem becomes *ṇ*. **|| 13 ||**
 
 ---
 
