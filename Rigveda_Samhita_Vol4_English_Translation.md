@@ -9354,7 +9354,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
      *mahikerava ūtaye priyamedhā ahūṣata |* — mine and tentative: "The Priyamedhas, makers of great (deeds), called (Agni) for help."
   5. > **यजद्धैनं प्रियमेधा इन्द्रं सत्राचा मनसा ।** *(Ṛ. Saṃ. 8-2-37; the last digit is the flat-footed 7)*
 
-     *yajaddhainaṃ priyamedhā indraṃ satrācā manasā |* — mine and tentative: "The Priyamedhas worshipped him, Indra, with a mind turned to him." (printed "yajadhyainaṃ" as read)
+     *yajaddhainaṃ priyamedhā indraṃ satrācā manasā |* — mine and tentative: "The Priyamedhas worshipped him, Indra, with a mind turned to him." (the first word as printed is doubtful [?])
   6. > **इन्द्रं स्तोमेभिर्महयन्त आयवः प्रियमेधासो अस्वरन् ॥** *(Ṛ. Saṃ. 8-3-16)*
 
      *indraṃ stomebhir mahayanta āyavaḥ priyamedhāso asvaran ||* — mine and tentative: "The people exalted Indra with praises; the Priyamedhas sang."
