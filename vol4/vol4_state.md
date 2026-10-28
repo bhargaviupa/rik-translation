@@ -1,6 +1,6 @@
 # Vol 4 numeral + [?] + accent pass — state
 
-**START HERE (Oct 28, 2026, session 2):** work in page order. **Done: Ṛk 33.1–33.6, i.e. better-scan PDF 1–47 (printed pp. 1–33) for numerals/[?]** (see "Settled" below). **Next: PDF 47 lower half (printed p. 33, Saṃhitā of Ṛk 33.7) onwards** — Ṛk 33.7 (pp. 33–36, 8 open [?]). No Saṃhitā accents written yet (step 5a): the printed marks are underlines (anudātta, below the syllable) and short vertical strokes (svarita, above); I looked at pp. 25 and 26 but wrote none because the stroke/underline positions need syllable-level zooms. Old-scan numbering in the `### Page N (PDF M)` headings (M = old scan) is still not rewritten.
+**START HERE (Oct 28, 2026, session 2):** work in page order. **Done: Ṛk 33.1–33.6, i.e. better-scan PDF 1–47 (printed pp. 1–33) for numerals/[?]** (see "Settled" below). **Next: PDF 47 lower half (printed p. 33, Saṃhitā of Ṛk 33.7) onwards** — Ṛk 33.7 (pp. 33–36, 8 open [?]). **Saṃhitā accents (runbook 5a): done for Ṛk 33.1–33.6** (each mark read on a native-resolution crop: underline below a syllable = anudātta ॒, short vertical stroke above = svarita ॑; IAST acute only on an unmarked syllable directly before a svarita or directly after an anudātta). Flags: `[accent ?]` in Ṛk 33.1 (underline between *da* and *sya* of *dasya*) and Ṛk 33.2 (underline between *sa* and *ti* of *vasatiṃ*). Also corrected: Ṛk 33.5 Devanagari had an extra *va* in *vavṛjus*; the unaccented duplicate IAST lines under the Saṃhitā of 33.2–33.5 were removed. The Pada-pāṭha is also accented in the print but stays unaccented. **Next: accents for Ṛk 33.7 onward, together with each Ṛk's numerals.** Old-scan numbering in the `### Page N (PDF M)` headings (M = old scan) is still not rewritten.
 
 **Page map (settled):** printed = PDF − 14 for PDF 15–101; **PDF 102 is a pixel-identical duplicate of PDF 101** (recorded in `tools/pages.py` `DUP`); printed = PDF − 15 from PDF 103 on (OCR majority, to be re-checked as the batch reaches it). I confirmed headers by eye at PDF 20–47: printed = PDF − 14 holds there (p. 33 = PDF 47). PDF 624–701 still unexplained (last batch).
 
@@ -8,7 +8,7 @@
 
 **Method used (differs from the runbook's review-HTML route):** I did not rebuild `review_PDF1-100.*` (the old obsolete ones were deleted); instead `tools/zoom_strips.py PDF 4` for text, then `tools/nat.py PDF OUT S x0 y0 x1 y1 …` (new: re-renders chosen strip regions at the scan's native 658 dpi, stacked) for every numeral group, and `tools/zoom_apply_batch.py` for exact replacements. `tools/mont.py`, `tools/qlist.py A B` (lists the [?] with context in file lines A–B) are also new. Tools now resolve paths from `cfg.py` (worktree-safe).
 
-**Counts:** `[?]` 2,216 at start of the pass → see git log/`grep -o '\[?\]'` (2,134 at the end of this session); `[accent ?]` 0 (no accents written yet).
+**Counts:** `[?]` 2,216 at start of the pass → see git log/`grep -o '\[?\]'` (2,134 at the end of this session); `[accent ?]` 2.
 
 **Settled this session (numerals zoom-checked at 658 dpi unless stated):**
 - Ṛk 33.1: Pā. 6-4-77 on p. 6 is printed **16-4-77** (clear ∩, hooked 6, 4, 7, 7) — kept "as printed".
