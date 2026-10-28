@@ -4357,15 +4357,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **yāman**: after *yāman* the seventh-case singular *ṅi*, dropped by *supāṃ sulug…*; *na ṅisambuddhyoḥ* — न ङिसम्बुद्ध्योः — (Pā. 8-2-8): the *n* is not lost when *ṅi* or a vocative follows, so *nalopaḥ prātipadikāntasya* is blocked.
 - **ṛñjate**: root *ṛji bhṛjī bharjane*; "here the sense *prasādhana* means *alaṃkāra*; this sense follows from the Nirukta passage *ṛñjatiḥ prasādhanakarmā* (Ni. 6-21)." Rik 3 ends here (*|| 3 ||*).
 
-### Rik 37.4 (pp. 262–, PDF 276–)
+### Rik 37.4 (pp. 262–265, PDF 277–280)
 
-**Saṃhitā-pāṭha** *(p. 262; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 262)*
 
-> **प्र वः शर्धाय घृष्वये त्वेषद्युम्नाय शुष्मिणे ।**
-> **देवत्तं ब्रह्म गायत ॥ ४ ॥**
+> प्र वः॒ शर्धा॑य॒ घृष्व॑ये त्वे॒ष॑द्युम्नाय शु॒ष्मि॑णे । [accent ?]
+> दे॒वत्तं॒ ब्रह्म॑ गायत ॥ ४ ॥
 
-*pra vaḥ śardhāya ghṛṣvaye tveṣadyumnāya śuṣmiṇe |*
-*devattaṃ brahma gāyata || 4 ||*
+*prá vaḥ śárdhāya ghṛ́ṣvaye tveṣádyumnāya śuṣmíṇe |* [accent ?]
+*deváttaṃ bráhma gāyata || 4 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The stroke in "tveṣadyumnāya" stands over* ṣa*, as printed. [accent ?]: the stroke of "śuṣmiṇe" stands between* ṣmi *and the* e*-sign of* ṇe*; placed on* ṣmi*.)*
 
 **Pada-pāṭha** *(p. 262)*
 
@@ -4375,17 +4377,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *pra | vaḥ | śardhāya | ghṛṣvaye | tveṣa-dyumnāya | śuṣmiṇe ||*
 *deva-ttam | brahma | gāyata || 4 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 263; the first half in full, the grammatical tail characterized)*
+### Page 263
 
-> हे ऋत्विजो वो युष्माकं सम्बन्धिने शर्धाय प्रसहनशीलाय घृष्वये शत्रुघर्षणयुक्ताय त्वेषद्युम्नाय दीप्यमानयशसे । द्युम्नं द्योतते र्यशो वान्नं वेति यास्कः । नि. ५-५ [?] । शुष्मिणे बलवते । शुष्मं शुष्णमिति बलनामसु पाठात् । एवंभूताय मरुद्गणाय ब्रह्म हविर्लक्षणमन्नमुद्दिश्य प्र गायत । स्तुत्ध्वम् । कीदृशं ब्रह्म । देवत्तं देवैर्दत्तं देवतानुग्रहाल्लब्धम् ॥ शर्धाय । शृधु प्रसहने । शर्धयत्यभिभवतीति शर्धो बलम् । पचाद्यच् । वृषादित्वादाद्युदात्तत्वम् । घृष्वये । घृषु संघर्षे । कविघृष्वीत्यादिना । उ. ४-५६ [?] । क्विन्त्यन्तो निपातितः । त्वेषद्युम्नाय । त्विष दीप्तौ । पचाद्यच् । त्वेषं दीप्तं द्युम्नं यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । देवत्तम् । देवैर्दत्तम् । छान्दसो वर्णलोपः । उक्तं च । द्वौ चापरौ वर्णविकारनाशौ । का. ६-४-१०९ [?] । इति । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् ॥
+**Sāyaṇa-bhāṣya** *(p. 263, in full, with its grammatical tail)*
 
-*he ṛtvijo vo yuṣmākaṃ sambandhine śardhāya prasahanaśīlāya ghṛṣvaye śatrughar­ṣaṇayuktāya tveṣadyumnāya dīpyamānayaśase | dyumnaṃ dyotate ryaśo vānnaṃ veti yāskaḥ | ni. 5-5 [?] | śuṣmiṇe balavate | śuṣmaṃ śuṣṇam iti balanāmasu pāṭhāt | evaṃbhūtāya marudgaṇāya brahma havirlakṣaṇam annam uddiśya pra gāyata | stutdhvam | kīdṛśaṃ brahma | devattaṃ devair dattaṃ devatānugrahāl labdham || śardhāya | śṛdhu prasahane | śardhayaty abhibhavatīti śardho balam | pacādyac | vṛṣāditvād ādyudāttatvam | ghṛṣvaye | ghṛṣu saṃgharṣe | kavighṛṣvītyādinā | u. 4-56 [?] | kvintyanto nipātitaḥ | tveṣadyumnāya | tviṣa dīptau | pacādyac | tveṣaṃ dīptaṃ dyumnaṃ yasya | bahuvrīhau pūrvapadaprakṛtisvaratvam | devattam | devair dattam | chāndaso varṇalopaḥ | uktaṃ ca | dvau cāparau varṇavikāranāśau | kā. 6-4-109 [?] | iti | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam ||*
+> हे ऋत्विजो वो युष्माकं संबन्धिने शर्धाय प्रसहनशीलाय घृष्वये शत्रुघर्षणयुक्ताय त्वेषद्युम्नाय दीप्यमानयशसे । द्युम्नं द्योततेर्यशो वान्नं वेति यास्कः । नि. ५-५ । शुष्मिणे बलवते । शुष्मं शुष्णमिति बलनामसु पाठात् । एवंभूताय मरुद्गणाय ब्रह्म हविर्लक्षणमन्नमुद्दिश्य प्र गायत । स्तुध्वम् । कीदृशं ब्रह्म । देवत्तं देवैर्दत्तं देवतानुग्रहाल्लब्धम् ॥ शर्धाय । शृधु प्रसहने । शर्धयत्यभिभवतीति शर्धो बलम् । पचाद्यच् । वृषादित्वादाद्युदात्तत्वम् । घृष्वये । घृषु संघर्षे । कृविघृष्वीत्यादिना । उ. ४-५६ । क्विन्प्रत्ययान्तो निपातितः । त्वेषद्युम्नाय । त्विष दीप्तौ । पचाद्यच् । त्वेषं दीप्तं द्युम्नं यस्य । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । देवत्तम् । देवैर्दत्तम् । छान्दसो वर्णलोपः । उक्तं च । द्वौ चापरौ वर्णविकारनाशौ । का. ६-३-१०९ । इति । तृतीया कर्मणीति पूर्वपदप्रकृतिस्वरत्वम् ॥
 
-*(The print's "dyotate ryaśo" in the Yāska citation is partly illegible; the citation is given as read, with [?].)*
+*he ṛtvijo vo yuṣmākaṃ saṃbandhine śardhāya prasahanaśīlāya ghṛṣvaye śatrugharṣaṇayuktāya tveṣadyumnāya dīpyamānayaśase | dyumnaṃ dyotateryaśo vānnaṃ veti yāskaḥ | ni. 5-5 | śuṣmiṇe balavate | śuṣmaṃ śuṣṇamiti balanāmasu pāṭhāt | evaṃbhūtāya marudgaṇāya brahma havirlakṣaṇamannamuddiśya pra gāyata | studhvam | kīdṛśaṃ brahma | devattaṃ devairdattaṃ devatānugrahāllabdham ‖ śardhāya | śṛdhu prasahane | śardhayatyabhibhavatīti śardho balam | pacādyac | vṛṣāditvādādyudāttatvam | ghṛṣvaye | ghṛṣu saṃgharṣe | kṛvighṛṣvītyādinā | u. 4-56 | kvinpratyayānto nipātitaḥ | tveṣadyumnāya | tviṣa dīptau | pacādyac | tveṣaṃ dīptaṃ dyumnaṃ yasya | bahuvrīhau pūrvapadaprakṛtisvaratvam | devattam | devairdattam | chāndaso varṇalopaḥ | uktaṃ ca | dvau cāparau varṇavikāranāśau | kā. 6-3-109 | iti | tṛtīyā karmaṇīti pūrvapadaprakṛtisvaratvam ‖*
 
-**Translation:** "O priests, for *vaḥ* — your — *śardhāya*, the one given to overpowering; *ghṛṣvaye* — endowed with the rubbing-down of enemies; *tveṣadyumnāya* — whose glory (*dyumna*) is shining ('*dyumna*, from *dyut*, is glory or food', so Yāska, Ni. 5-5 [?]); *śuṣmiṇe* — the powerful (since *śuṣma*, *śuṣṇa* are read among the names for strength): for such a host of Maruts *brahma* — [praise] relating to the oblation, to food — *pra gāyata*, sing out. What sort of *brahma*? *Devattam* — given by the gods, obtained by the gods' favour."
+**Translation:** "O priests, for *vaḥ* — your — *śardhāya*, the one given to overpowering; *ghṛṣvaye* — endowed with the rubbing-down of enemies; *tveṣadyumnāya* — whose glory (*dyumna*) is shining ('*dyumna*, from *dyut*, is glory or food', so Yāska, Ni. 5-5); *śuṣmiṇe* — the powerful (since *śuṣma*, *śuṣṇa* are read among the names for strength): for such a host of Maruts *brahma* — [praise] relating to the oblation, to food — *pra gāyata*, sing out. What sort of *brahma*? *Devattam* — given by the gods, obtained by the gods' favour."
 
-**Grammar within the bhāṣya** *(p. 263, characterized)*: *śardhāya* (*śṛdhu prasahane*, the *pacādi* *ac*, first-syllable acute as of the *vṛṣādi* group); *ghṛṣvaye* (*ghṛṣu saṃgharṣe*, the Uṇādi suffix *kvin*, given by *nipātana*: *kavighṛṣvi…*; *tveṣadyumnāya* (*tviṣa dīptau*, *pacādi* *ac*; a bahuvrīhi with the first-member accent); *devattam* (*devair dattam*; the Vedic loss of a letter; the line "*dvau cāparau varṇavikāranāśau*" is quoted [Kāś. on Pā. 6-4-109 [?]]; *tṛtīyā karmaṇi*: the first member keeps its natural accent).
+*(Sense of the tail:)* *śardhāya* (*śṛdhu prasahane*, the *pacādi* *ac*, first-syllable acute as of the *vṛṣādi* group); *ghṛṣvaye* (*ghṛṣu saṃgharṣe*, the Uṇādi suffix *kvin*, given by *nipātana*: *kavighṛṣvi…*; *tveṣadyumnāya* (*tviṣa dīptau*, *pacādi* *ac*; a bahuvrīhi with the first-member accent); *devattam* (*devair dattam*; the Vedic loss of a letter; the line "*dvau cāparau varṇavikāranāśau*" is quoted [Kāś. on Pā. 6-4-109 [?]]; *tṛtīyā karmaṇi*: the first member keeps its natural accent).
 
 **Pratipadārtha** *(p. 263)* — "**vaḥ** — [O priests] to you; **śardhāya** — [that] is endowed with the power to restrain; **ghṛṣvaye** — [that] crushes enemies; **tveṣadyumnāya** — [that] has shining fame; **śuṣmiṇe** — [that] is strong; **(marudgaṇāya)** — for the host of Maruts; **devattam** — [which the gods have favoured by] teaching and giving; **brahma** — the hymn of prayer; **(havir-rūpa-annam uddiśya** — with a view to [the oblation, i.e.] food**)**; **pra gāyata** — sing well."
 
@@ -4395,22 +4397,27 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 37.4 (continued) — Special Topics and grammar (pp. 264–265, PDF 278–279)
+### Rik 37.4 (continued) — Special Topics and grammar (pp. 264–265, PDF 279–280)
+
+### Page 264
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 264**
-- **śardhāya** = *prasahanaśīlāya*: "since *śardhaḥ* is read among the twenty-eight names for strength beginning *ojaḥ*, *pājaḥ* (Ni. 2-9 [?]), *śardhāya* means 'powerful, endowed with strength'."
+- **śardhāya** = *prasahanaśīlāya*: "since *śardhaḥ* is read among the twenty-eight names for strength beginning *ojaḥ*, *pājaḥ* (Ni. 3-9), *śardhāya* means 'powerful, endowed with strength'."
 - **ghṛṣvaye** = *ghṛṣu saṃgharṣe | śatrughar­ṣaṇayuktāya*: "one who fights, who battles with the enemy."
-- **tveṣadyumnāya** — "*tveṣa* means shining; *dyumna* means fame (Ni. 5-5 [?]); *tveṣadyumna* means one whose fame is praised by all."
+- **tveṣadyumnāya** — "*tveṣa* means shining; *dyumna* means fame (Ni. 5-5); *tveṣadyumna* means one whose fame is praised by all."
 - **śuṣmiṇe** — "since *śuṣma* is read among the same twenty-eight names for strength, *śuṣma* means strength; *śuṣmiṇe* means 'strong' (with the Maruts in view)."
 - **devattam** = *daivair dattam | devatānugrahāl labdham*: "here, for the convenience of the metre, the *d* of the word *daivair dattam* is lost, giving the form *devattam*: 'given by the gods, obtained through the gods' favour'."
-- **brahma** — "since *brahma* is read among the twenty-eight names for food beginning *andhaḥ*, *vājaḥ* (Ni. 2-7 [?]), the word *brahma* here means food in the form of the oblation, *havirlakṣaṇam uddiśya havissvarūpam annam*."
+- **brahma** — "since *brahma* is read among the twenty-eight names for food beginning *andhaḥ*, *vājaḥ* (Ni. 3-9, as printed), the word *brahma* here means food in the form of the oblation, *havirlakṣaṇam uddiśya havissvarūpam annam*."
 - **brahma gāyata** — "praying that food be given, sing the praises of the Marut deities."
 
-**Vyākaraṇa-prakriyā** *(pp. 264–265 — grammar pages, noted briefly)*
-- **śardhāya**: root *śṛdhu prasahane*, *curādi*; *śardhayatīti śardhaḥ* — "strength that mocks enemies"; the *pacādi* suffix *ac*; *vṛṣādīnāṃ ca* — वृषादीनां च — [Pā. 6-1-203]: first-syllable acute.
-- **ghṛṣvaye**: root *ghṛṣu saṃgharṣe*, class 1; *kavighṛṣvi…* [Uṇ. 4-[?], numerals as read not secure]: the form *ghṛṣvi*, ending in *kvin*, is given by *nipātana*.
+**Vyākaraṇa-prakriyā** *(pp. 264–265, PDF 279–280 — grammar pages, noted briefly)*
+- **śardhāya**: root *śṛdhu prasahane*, *curādi*; *śardhayatīti śardhaḥ* — "strength that mocks enemies"; the *pacādi* suffix *ac*; *vṛṣādīnāṃ ca* — वृषादीनां च — (printed Pā. 6-1-103 [as printed; for 6-1-203]): first-syllable acute.
+- **ghṛṣvaye**: root *ghṛṣu saṃgharṣe*, class 1; *kṛvighṛṣvichavisthavikikīdivi* (printed "Uṇ. Sū. 4-496" [?] — the bhāṣya tail on p. 263 has Uṇ. 4-56): the form *ghṛṣvi*, ending in *kvin*, is given by *nipātana*.
+
+### Page 265
+
 - **tveṣadyumnāya** (p. 265): root *tviṣa dīptau*, the *pacādi* suffix *ac*, *laghūpadha-guṇa*; *tveṣam* = shining, *dyumnam* = fame, *yasya saḥ*: a bahuvrīhi; the first member keeps its natural accent.
-- **devattam**: *daivaiḥ dattam*, a tatpuruṣa compound; *tṛtīyā karmaṇi* — तृतीया कर्मणि — [Pā. 6-2-48]: the first member keeps its natural accent; the Kāśikā-authors, on *pṛṣodarādīni yathopadiṣṭam* — पृषोदरादीनि यथोपदिष्टम् — [Pā. 6-3-109], say *dvau cāparau varṇavikāranāśau* — "two further operations: change of one letter [into another], and loss of a letter"; of these two, here the *d* is lost. Rik 4 ends here (*|| 4 ||*).
+- **devattam**: *daivaiḥ dattam*, a tatpuruṣa compound; *tṛtīyā karmaṇi* — तृतीया कर्मणि — (Pā. 6-2-48): the first member keeps its natural accent; the Kāśikā-authors, on *pṛṣodarādīni yathopadiṣṭam* — पृषोदरादीनि यथोपदिष्टम् — (Pā. 6-3-109), say *dvau cāparau varṇavikāranāśau* — "two further operations: change of one letter [into another], and loss of a letter"; of these two, here the *d* is lost. Rik 4 ends here (*|| 4 ||*).
 
 ### Rik 37.5 (pp. 265–267, PDF 279–281)
 
