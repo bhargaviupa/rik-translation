@@ -6713,42 +6713,102 @@ The stars seen in the antarikṣa are visible to everyone at night, and by day t
 
 ---
 
-### Pages 277–284 — Sūkta 24, Rik 11
+### Page 277 — Sūkta 24, Rik 11
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> तत्त्वा यामि ब्रह्मणा वन्दमानस्तदा शास्ते यजमानो हविर्भिः ।
-> अहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः ॥ ११ ॥
+> तत्त्वा॑ यामि॒ ब्रह्म॑णा॒ वन्द॑मान॒स्तदा शा॑स्ते॒ यज॑-
+> मानो ह॒विर्भिः॑ । [accent ?]
+> अहे॑ळमानो वरुणे॒ह बो॒ध्युरु॑शंस॒ मा न॒ आयुः॒
+> प्र मो॑षीः ॥११॥
 
-*tat tvā yāmi brahmaṇā vandamānas tad ā śāste yajamāno havirbhiḥ | aheḷamāno varuṇeha bodhy uruśaṃsa mā na āyuḥ pra moṣīḥ || 11 ||*
-
-**॥ Padapāṭhaḥ ॥**
-
-> तत् । त्वा । यामि । ब्रह्मणा । वन्दमानः । तत् । आ । शास्ते । यजमानः । हविःऽभिः ॥ अहेळमानः । वरुण । इह । बोधि । उरुऽशंस । मा । नः । आयुः । प्र । मोषीः ॥ ११ ॥
-
-*tat | tvā | yāmi | brahmaṇā | vandamānaḥ | tat | ā | śāste | yajamānaḥ | havis-bhiḥ || aheḷamānaḥ | varuṇa | iha | bodhi | uru-śaṃsa | mā | naḥ | āyuḥ | pra | moṣīḥ || 11 ||*
-
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 277)*
-
-> एकादशिनस्य वारुणस्य पशोर्वपापुरोडाशयोस्तत्त्वा यामीति द्वे ऋचौ याज्ये । सूत्रितं च — तत्त्वा यामि ब्रह्मणा वन्दमान इति द्वे अस्तभ्नाद्याम् (आ. ३-८ [?]) इति ॥ वरुणप्रघासेषु वारुणस्य हविषो याज्या तत्त्वा यामीत्येषा । पञ्चमां पौर्णमास्यामित्यत्र सूत्रितं — इमं मे वरुण श्रुधी तत्त्वा यामि ब्रह्मणा वन्दमानः (आ. २-१७ [?]) इति ॥ हे वरुण मुमूर्षुरहं त्वां प्रति तदायुर्यामि । याचे । कीदृशः । ब्रह्मणा प्रौढेन स्तोत्रेण वन्दमानः स्तुवन् । सर्वत्र यजमानोऽपि हविर्भिस्तदायुरा शास्ते । प्रार्थयते । त्वं चेह कर्मण्यहेळमानोऽनादरमकुर्वन्बोधि । अस्मदीप्सितं बुध्यस्व । हे उरुशंस बहुभिः स्तुत्य नोऽस्मदीयमायुर्मा प्र मोषीः । प्रमुषितं मा कुरु । सप्तदशसंख्याकेषु याज्या[कर्मसु?]… [the remaining lines are crowded]
+> *tattvā̭ yāmi̱ brahma̭ṇā̱ vanda̭māna̱stadā śā̭ste̱ yaja̭-*
+> *māno ha̱virbhi̭ḥ |*
+> *ahḙḷamāno varuṇe̱ha bo̱dhyurṷśaṃsa̱ mā na̱ āyu̱ḥ*
+> *pra mo̭ṣīḥ ||11||*
 >
-> अहेळमानः । हेड्ऽ अनादरे । अदुपदेशात्सार्वधातुकानुदात्तत्वे शपश्च पित्त्वादनुदात्तत्वे सति धातुस्वरः शिष्यते । तेन नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वम् । बोधि । बुध अवगमने । लोटः सेर्हिः । बहुलं छन्दसीति विकरणस्य लुक् । वा छन्दसि । पा. ३-४-८८ । इत्यपित्त्वाभावेन ङित्त्वाभावाल्लघूपधगुणः । हुझल्भ्यो हेर्धिरिति हेर्धिरादेशः । धातोरन्त्यलोपश्छान्दसः । मोषीः । मुष स्तेये । लोडर्थे छान्दसो लुङ् । वदव्रजेति प्राप्तायां वृद्धावनेट् । पा. ७-२-४ । इति प्रतिषेधे सति लघूपधगुणः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः ॥
+> *táttvā yāmi bráhmaṇā vándamānastádā́ śāste yája-*
+> *māno havírbhiḥ |* [accent ?]
+> *áheḷamāno varuṇehá bodhyúruśaṃsa mā́ na ā́yuḥ*
+> *prá moṣīḥ ||11||*
 
-*ekādaśinasya vāruṇasya paśor vapāpuroḍāśayos tat tvā yāmīti dve ṛcau yājye | sūtritaṃ ca — tat tvā yāmi brahmaṇā vandamāna iti dve astabhnādyām (ā. 3-8 [?]) iti || varuṇapraghāseṣu vāruṇasya haviṣo yājyā tat tvā yāmīty eṣā | pañcamāṃ paurṇamāsyām ity atra sūtritaṃ — imaṃ me varuṇa śrudhī tat tvā yāmi brahmaṇā vandamānaḥ (ā. 2-17 [?]) iti || he varuṇa mumūrṣur ahaṃ tvāṃ prati tad āyur yāmi | yāce | kīdṛśaḥ | brahmaṇā prauḍhena stotreṇa vandamānaḥ stuvan | sarvatra yajamāno 'pi havirbhis tad āyur ā śāste | prārthayate | tvaṃ ceha karmaṇy aheḷamāno 'nādaram akurvan bodhi | asmadīpsitaṃ budhyasva | he uruśaṃsa bahubhiḥ stutya no 'smadīyam āyur mā pra moṣīḥ | pramuṣitaṃ mā kuru | saptadaśasaṃkhyākeṣu yājyā[karmasu?] … aheḷamānaḥ | heḍa anādare | adupadeśāt sārvadhātukānudāttatve śapaś ca pittvād anudāttatve sati dhātusvaraḥ śiṣyate | tena nañsamāse 'vyayapūrvapadaprakṛtisvaratvam | bodhi | budha avagamane | loṭaḥ ser hiḥ | bahulaṃ chandasīti vikaraṇasya luk | vā chandasi | pā. 3-4-88 | ity apittvābhāvena ṅittvābhāvāl laghūpadhaguṇaḥ | hujhalbhyo her dhir iti her dhir ādeśaḥ | dhātor antyalopaś chāndasaḥ | moṣīḥ | muṣa steye | loḍarthe chāndaso luṅ | vadavrajeti prāptāyāṃ vṛddhāv aneṭ | pā. 7-2-4 | iti pratiṣedhe sati laghūpadhaguṇaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ ||*
+*(Saṃhitā accents as printed; Pada unaccented, though the print marks the Pada too. The print sets the verse in four lines, breaking after* यज-*,* हविर्भिः *and* आयुः*. The mark over the last syllable of* हविर्भिः *(a svarita stroke above* भिः*) is recorded as printed and flagged [accent ?]. The print writes* उरुशंस *with anusvara before* स *and uses the ऽ-sign in the Pada.)*
 
-**Translation:** "In the Varuṇa animal-sacrifice of the *ekādaśina* [group of eleven], the two riks *tat tvā yāmi* are the *yājyā* for the *vapā* and the *puroḍāśa*; so the sūtra says: 'the two riks *tat tvā yāmi brahmaṇā vandamānaḥ*' (Āś. [3-8] [?]). In the Varuṇapraghāsa, the rik *tat tvā yāmi* is the *yājyā* of the Varuṇa oblation; in the section *pañcamāṃ paurṇamāsyām* the sūtra reads '*imaṃ me varuṇa śrudhi*; *tat tvā yāmi brahmaṇā vandamānaḥ*' (Āś. [2-17] [?]). O Varuṇa! I, about to die, *yāmi* — ask of you for that life; how? *Vandamānaḥ* — praising with *brahma*, a mature hymn. The sacrificer too, everywhere, with oblations asks for that life. And do you, in this rite, *aheḷamānaḥ* — not neglecting, not disregarding — attend (*bodhi*, 'know') what we desire. O *uruśaṃsa* — praised by many! Do not rob (*mā pra moṣīḥ*) us of our life — do not take it away. *Aheḷamānaḥ*: *heḍa anādare* [to disregard]; as a verb of the *a*-class, its *sārvadhātuka* is anudātta, and *śap*, being *pit*, is anudātta, so the accent of the root remains; in the *nañ*-compound the first member keeps the accent by P. 6-2-2. *Bodhi*: *budha avagamane*, *loṭ* → *hi*; *śap* lost by *bahulaṃ chandasi*; by P. 3-4-88 [*vā chandasi*] *hi* is optionally not *pit*, so it is not *ṅit*, and guṇa of the penultimate syllable occurs; *hi* → *dhi* by P. 6-4-101 after … *Moṣīḥ*: *muṣa steye* [to steal]; the Vedic *luṅ* in the sense of the imperative; *vṛddhi* would come by P. 7-2-3, but is prevented by P. 7-2-4 [*neṭi*]; guṇa of the penultimate; the *aṭ* augment is absent since it is joined with *mā*." *(Grammar pages 278–280, noted briefly: the words treated are* aheḷamānaḥ *[*heḍṛ anādare*, class 1; *śānac* by P. 3-2-124 *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe*; *śap* with the accent of its *p*-it; P. 6-1-186 *ṭita ātmanepadānāṃ ṭer e* is not relevant; the acute of the root P. 6-1-162 *dhātoḥ*; *nañ*-compound — with *n* lost by P. 6-3-73 *nalopo nañaḥ*, and P. 6-2-2 *tatpuruṣe tulyārtha…* — the accent of the *avyaya*-first compound P. 6-2-2 gives *aheḷamānaḥ* initial acute],* bodhi *[*budha avagamane*; *loṭ*, *sip* → *hi* by P. 3-4-87 *ser hy apic ca*; the *śap* lost by P. 2-4-73/*bahulaṃ chandasi*; the guṇa by P. 7-3-86 *pugantalaghūpadhasya ca*; *hi* → *dhi* by P. 6-4-101; the final *dh* lost in the Veda; the verb is lowered since it is not at the head of the pāda],* moṣīḥ *[*muṣa steye*, *kryādi*; the Vedic *luṅ* in imperative sense by P. 3-4-6; *sip* → *s*; *iṭ* + *īṭ* by P. 7-2-35 and 7-2-28; the loss of *s* of *sic* by P. 7-2-79 [? the printed note's numbers are crowded]; no *vṛddhi* by P. 7-2-4 *neṭi*; the *aṭ* augment absent by P. 6-4-74 *na māṅyoge* and the Vedic exception]; numerals as read, pointers only.)*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** *(p. 278)* **(हे) वरुण ((he) varuṇa)** — O Varuṇa [I, who am about to die] | **ब्रह्मणा (brahmaṇā)** — with the excellent hymn | **वन्दमानः (vandamānaḥ)** — praising | **त्वा (tvā)** — you | **तत् (tat)** — that [life] | **यामि (yāmi)** — ask | **यजमानः (yajamānaḥ)** — the sacrificer too | **हविर्भिः (havirbhiḥ)** — with oblations | **तत् (tat)** — that life | **आ शास्ते (ā śāste)** — prays for [from you] | **इह (iha)** — in this rite | **अहेळमानः (aheḷamānaḥ)** — without disregard | **बोधि (bodhi)** — understand [what is desired by us] | **उरुशंस (uruśaṃsa)** — O you praised by many | **नः (naḥ)** — our | **आयुः (āyuḥ)** — life | **मा प्र मोषीः (mā pra moṣīḥ)** — do not take away.
+> तत् । त्वा । यामि । ब्रह्मणा । वंदमानः । तत् । आ । शास्ते । यजमानः । हविःऽभिः ॥ अहेळमानः । वरुण । इह । बोधि । उरुऽशंस । मा । नः । आयुः । प्र । मोषीः ॥११॥
 
-**॥ Bhāvārthaḥ ॥** O Varuṇa! I, about to die, praise you with excellent hymns and ask for life. The sacrificer, too, asks for life from you with oblations. Do not disregard us; understand what we want. O you who are praised by many, do not take away our life.
+> *tat | tvā | yāmi | brahmaṇā | vaṃdamānaḥ | tat | ā | śāste | yajamānaḥ | haviḥ-bhiḥ ‖ aheḷamānaḥ | varuṇa | iha | bodhi | uru-śaṃsa | mā | naḥ | āyuḥ | pra | moṣīḥ ‖11‖*
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*As printed: तत्त्वा यामि (the print's* ā *looks like ू); अस्तभ्नाद्यां; आ. ३-७ and आ. ९-१७ (the Āśvalāyana references; the first digit of the second is the 9-glyph, the last of each is the flat-footed 7); सप्तदशसंख्याकेषु याज्ञा कर्मस्वी-/महे यामीति पठितं, split at the page break; हेडृ अनादरे; अदुपदेशाल्लसार्वधातुकानुदात्तत्वे; ङित्त्वाभावाल्लघूपधगुणः (the glyph is the shared ङ/ञ one); पा. ३-४-८८; पा. ७-२-३, ४.*
+
+> एकादशिनस्य वारुणस्य पशोर्वपापुरोडाशयोस्तत्त्वा यामीति द्वे ऋचौ याज्ये । सूत्रितं च । तत्त्वा यामि ब्रह्मणा वंदमान इति द्वे अस्तभ्नाद्यां । आ. ३-७ । इति ॥ वरुणप्रघासेषु वारुणस्य हविषो याज्या तत्त्वा यामीत्येषा पंचम्यां पौर्णमास्यामित्यत्र सूत्रितं । इमं मे वरुण श्रुधि तत्त्वा यामि ब्रह्मणा वंदमानः । आ. ९-१७ । इति ॥ हे वरुण मुमूर्षुरहं त्वां प्रति तदायुर्यामि । याचे । कीदृशः । ब्रह्मणा प्रौढेन स्तोत्रेण वंदमानः स्तुवन् । सर्वत्र यजमानोऽपि हविर्भिस्तदायुरा शास्ते । प्रार्थयते । त्वं चेह कर्मण्यहेळमानोऽनादरमकुर्वन्बोधि । अस्मदपेक्षितं बुध्यस्व । हे उरुशंस बहुभिः स्तुत्य नोऽस्मदीयमायुर्मा प्र मोषीः । प्रमुषितं मा कुरु । सप्तदशसंख्याकेषु याज्ञा कर्मस्वी-
+
+> *ekādaśinasya vāruṇasya paśorvapāpuroḍāśayostattvā yāmīti dve ṛcau yājye | sūtritaṃ ca | tattvā yāmi brahmaṇā vaṃdamāna iti dve astabhnādyāṃ | ā. 3-7 | iti ‖ varuṇapraghāseṣu vāruṇasya haviṣo yājyā tattvā yāmītyeṣā paṃcamyāṃ paurṇamāsyāmityatra sūtritaṃ | imaṃ me varuṇa śrudhi tattvā yāmi brahmaṇā vaṃdamānaḥ | ā. 9-17 | iti ‖ he varuṇa mumūrṣurahaṃ tvāṃ prati tadāyuryāmi | yāce | kīdṛśaḥ | brahmaṇā prauḍhena stotreṇa vaṃdamānaḥ stuvan | sarvatra yajamāno 'pi havirbhistadāyurā śāste | prārthayate | tvaṃ ceha karmaṇyaheḷamāno 'nādaramakurvanbodhi | asmadapekṣitaṃ budhyasva | he uruśaṃsa bahubhiḥ stutya no 'smadīyamāyurmā pra moṣīḥ | pramuṣitaṃ mā kuru | saptadaśasaṃkhyākeṣu yājñā karmasvī-*
+
+### Page 278 — Rik 11: bhāṣya (end), word-meanings, overall sense, English, Special Topics (beginning)
+
+> महे यामीति पठितं । चशब्दलोपश्छांदसः ॥ अहेळमानः । हेडृ अनादरे । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे शपश्च पित्त्वादनुदात्तत्वे सति धातुस्वरः शिष्यते । ततो नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । बोधि । बुध अवगमने । लोटः सेर्हिः । बहुलं छंदसीति विकरणस्य लुक् । वा छंदसि । पा. ३-४-८८ । इत्यपित्त्वाभावेन ङित्त्वाभावाल्लघूपधगुणः । हुझल्भ्यो हेर्धिरिति हेर्धिरादेशः । धातोरंत्यलोपश्छांदसः । मोषीः । मुष स्तेये । लोडर्थे छांदसो लुङ् । वदव्रजेति प्राप्तायाः वृद्धेर्नेटि । पा. ७-२-३, ४ । इति प्रतिषेधे सति लघूपधगुणः । बहुलं छंदस्यमाङ्योगेऽपीत्यडभावः ॥
+
+> *mahe yāmīti paṭhitaṃ | caśabdalopaśchāṃdasaḥ ‖ aheḷamānaḥ | heḍṛ anādare | adupadeśāllasārvadhātukānudāttatve śapaśca pittvādanudāttatve sati dhātusvaraḥ śiṣyate | tato nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | bodhi | budha avagamane | loṭaḥ serhiḥ | bahulaṃ chaṃdasīti vikaraṇasya luk | vā chaṃdasi | pā. 3-4-88 | ityapittvābhāvena ṅittvābhāvāllaghūpadhaguṇaḥ | hujhalbhyo herdhiriti herdhirādeśaḥ | dhātoraṃtyalopaśchāṃdasaḥ | moṣīḥ | muṣa steye | loḍarthe chāṃdaso luṅ | vadavrajeti prāptāyāḥ vṛddherneṭi | pā. 7-2-3, 4 | iti pratiṣedhe sati laghūpadhaguṇaḥ | bahulaṃ chaṃdasyamāṅyoge 'pītyaḍabhāvaḥ ‖*
+
+*Gist:* Varuṇa, I who face death beg for life, praising you with a mighty hymn; the sacrificer too asks it with his oblations; do not disregard us in this rite, know what we want, and do not take away our life. The grammatical tail notes *ahelamānaḥ* (root *heḍṛ*; the *śap* is *pit* and so anudātta, the root accent remains; the *nañ*-compound keeps the first member's accent), *bodhi* (*hi*, *śap* dropped; *apit*, so no *ṅit*, so guṇa; *dhi* by "hujhalbhyo her dhiḥ"; Vedic loss of the final), *moṣīḥ* (*luṅ* in the sense of *loṭ*; no vṛddhi by Pā. 7-2-3, 4; guṇa of the penultimate; no *aṭ*).
+
+**॥ Prati-padārthaḥ ॥**
+
+**हे वरुण (he varuṇa)** — O Varuṇa (I who am facing death) | **ब्रह्मणा (brahmaṇā)** — by excellent hymns | **वंदमानः (vandamānaḥ)** — as one who praises | **त्वा (tvā)** — you | **तत् (tat)** — that life | **यामि (yāmi)** — I beg | **यजमानः (yajamānaḥ)** — the sacrificer (also) | **हविर्भिः (havirbhiḥ)** — with oblations | **तत् (tat)** — that life | **आ शास्ते (ā śāste)** — begs (you also) | **इह (iha)** — in this rite | **अहेळमानः (aheḷamānaḥ)** — without disregard | **बोधि (bodhi)** — know (our wish) | **उरु शंस (uru śaṃsa)** — O one praised by many, O Varuṇa | **नः (naḥ)** — our | **आयुः (āyuḥ)** — life | **मा प्रमोषीः (mā pramoṣīḥ)** — do not take away.
+
+**॥ Bhāvārthaḥ ॥**
+
+O Varuṇa, I who am facing death praise you with excellent hymns and ask for life. The sacrificer too asks for life with his oblations (pleasing you). You, praised by many, understand in this rite what we wish. Do not take away our life.
+
+**॥ English Translation ॥** *(as printed)*
 
 > With adoration I ask you for that life which the sacrificer solicits with oblations; Varuna, do not neglect us; praised by many, do not deprive us of our life.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 278–279)* **Application.** In the Varuṇa animal-sacrifice, called the *ekādaśinī* group, when the offering of the omentum (*vapā*) and the *puroḍāśa* is made, the two riks beginning *tat tvā yāmi* are to be used as *yājyā* mantras. This is stated in Āśvalāyana's Śrauta-sūtra in the sūtra *tat tvā yāmi brahmaṇā vandamāna iti dve astabhnād dyām* (Āś. [3-8]). And in the *Varuṇapraghāsa* *homa*, the rik *tat tvā yāmi* is to be used as the *yājyā* mantra when the oblation is offered to Varuṇa; the section *pañcamāṃ paurṇamāsyām* explains it in the sūtra *imaṃ me varuṇa śrudhi tat tvā yāmi brahmaṇā vandamānaḥ* (Āś. [2-17]).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 278–279)*
 
-**तत्** — that, i.e. the life that is needed here by Śunaḥśepa, who is about to die. **तदा शास्ते यजमानः** — the sacrificer who performs the sacrifice, too, offering oblations, asks Varuṇa for life. **ब्रह्मणा** — though *brahman* has many senses — food (Ni. [2-7]), wealth (Ni. [2-10]), hymn (Ni. [3-9]) — here the sense of hymn must be taken. **अहेळमानः** — *anādaram akurvan*: *heḍa* means disrespect; not neglecting, not slighting. **उरुशंस** — *bahubhiḥ stutya*: praised by many. **मा न आयुः प्र मोषीः** — *moṣīḥ*: *muṣa steye*; *na moṣīḥ* means 'do not steal'; that is, 'do not reduce our life; do not take it away'.
+In the animal sacrifice belonging to Varuṇa, when the vapā-homa of the animal with its eleven prayājas is performed, the two ṛks beginning **तत्त्वा यामि (tattvā yāmi)** are to be used as yājyā-mantras. This is determined in the Āśvalāyana-śrauta-sūtra by the sūtra **तत्त्वा यामि ब्रह्मणा वंदमान इति द्वे अस्तभ्नाद्यां (tattvā yāmi brahmaṇā vandamāna iti dve astabhnādyāṃ)** (Āś. 3-7, as read).
+
+### Page 279 — Rik 11: Special Topics (continued), grammar (beginning)
+
+Likewise, in the Varuṇapraghāsa homa, when the havis is offered to Varuṇa, this ṛk **तत्त्वा यामि (tattvā yāmi)** is to be used as yājyā-mantra; this is explained in the section called **पंचम्यां पौर्णमास्यां (pañcamyāṃ paurṇamāsyāṃ)** by the sūtra **इमं मे वरुण श्रुधि तत्त्वा यामि ब्रह्मणा वंदमानः (imaṃ me varuṇa śrudhi tattvā yāmi brahmaṇā vandamānaḥ)** (Āś. 9-17, as read).
+
+**तत् (tat)** — "that": here, the life needed by Śunaḥśepa, who is facing death.
+
+**तदाशास्ते यजमानः (tadāśāste yajamānaḥ)** — the sacrificer who performs the yajña, together with [Śunaḥśepa], offering oblations, seeks only life from Varuṇa.
+
+**ब्रह्मणा (brahmaṇā)** — the word *brahma* has the meanings anna (Ni. 3-[?]), dhana (Ni. 3-[?]) and stotra (the last digit of each reference is printed with a glyph I cannot settle as 8 or 9); though it has many meanings, here the meaning *stotra* is to be taken.
+
+**अहेळमानः (aheḷamānaḥ)** — *anādaramakurvan*:
+
+> अनादरमकुर्वन्
+
+> *anādaramakurvan*
+
+*heḍa anādare*: not disregarding, not neglecting.
+
+**उरुशंस (uruśaṃsa)** — *bahubhiḥ stutya*:
+
+> बहुभिः स्तुत्य
+
+> *bahubhiḥ stutya*
+
+one who is praised by many.
+
+**मा न आयुः प्रमोषीः (mā na āyuḥ pramoṣīḥ)** — *moṣīḥ*, from *muṣa steye*; *na moṣīḥ* means "do not steal"; that is, do not make our life shorter, do not cut it off.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers as read at page width, not zoomed)*
+
+**अहेळमानः (aheḷamānaḥ)** — root *heḍṛ anādare*, bhvādi, anudāttet; "लटः शतृशानचौ" gives *śānac*; with *śap* it becomes *heḷamāna*; *śap* is *pit* and so anudātta; if *śānac* were ādyudātta, "तास्यनुदात्तेत्" (Pā. Sū. 6-1-186) makes it anudātta, and then "धातोः" (Pā. Sū. 6-1-162) leaves the final udātta of the root. After the *nañ*-compound, "नलोपो नञः" (Pā. Sū. 6-3-73) drops the *n*; as a *tatpuruṣa* with an indeclinable first member, "तत्पुरुषे तुल्यार्थ…" (Pā. Sū. 6-2-2) gives the first member's accent: *aheḷamānaḥ* is ādyudātta.
+
+**बोधि (bodhi)** — root *budha avagamane*, bhvādi; *loṭ*, madhyama ekavacana *sip*; *hi* in its place; *śap* would come, but "बहुलं छन्दसि" (Pā. Sū. 2-4-76) drops it; "वा छन्दसि" (Pā. Sū. 3-4-88) makes *hi* optionally *apit*, and "सेर्ह्यपिच्च" (Pā. Sū. 3-4-87) makes it always so, so no *ṅit*, hence the laghūpadha guṇa (*bodh* + *hi*; p. 280); "हुझल्भ्यो हेर्धिः" (Pā. Sū. 6-4-101) gives *dhi* after a *jhal*-final root; the root's final is dropped by Vedic usage; *bodhi*; since a *ati-ṅanta* follows, *nighāta* accent.
+
+### Page 280 — Rik 11: grammar (end)
+
+**मोषीः (moṣīḥ)** — root *muṣa steye*, kryādi; "छन्दसि लुङ्लङ्लिटः" (Pā. Sū. 3-4-6) gives *luṅ* in the sense of *loṭ*; *sip*; "इतश्च" drops the *i* of *sip*; "च्लि लुङि" gives *cli*, and "च्लेः सिच्" turns it into *sic*; being *val*-initial it takes *iṭ*; "अस्ति सिचोऽपृक्ते" (Pā. Sū. 7-3-96, as read) gives *īṭ* to the single-letter ending; "वदव्रजहलन्तस्याचः" (Pā. Sū. 7-2-3) would give vṛddhi to the *u* of the consonant-final *muṣ*, but "नेटि" (Pā. Sū. 7-2-4) forbids vṛddhi before *iṭ*-initial *sic*; then guṇa of the penultimate; "इट ईटि" (Pā. Sū. 8-2-28, as read) drops *sic*; the *s* becomes *ru* and visarga; by "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) there is no *aṭ* augment, whether or not *māṅ* is attached (here *māṅ* is connected, so no *aṭ* for the root); the form is *moṣīḥ*, with *nighāta* accent.
 
 ---
 
