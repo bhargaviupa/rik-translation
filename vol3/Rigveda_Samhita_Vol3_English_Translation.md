@@ -8797,61 +8797,102 @@ by "पाघ्राध्मास्था-" (Pā. Sū. 7-3-78) the root tak
 
 ---
 
-### Pages 357–360 — Sūkta 26, Rik 5
+### Page 357 (lower) — Sūkta 26, Rik 5
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> पूर्व्य होतरस्य नो मन्दस्व सख्यस्य च ।
-> इमा उ षु श्रुधी गिरः ॥ ५ ॥
+> पूर्व्य॑ होत॒रस्य नो॒ मंद॑स्व स॒ख्यस्य॑ च ।
+> इ॒मा उ॒ षु श्रु॑धी॒ गिरः॑ ॥५॥
+>
+> *pū́rvya hotarásya no máṃdasva sakhyásya ca |*
+> *imā́ u ṣú śrudhī gíraḥ ||5||*
 
-*pūrvya hotar asya no mandasva sakhyasya ca | imā u ṣu śrudhī giraḥ || 5 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> पूर्व्य । होतः । अस्य । नः । मन्दस्व । सख्यस्य । च ॥ इमाः । ऊं इति । सु । श्रुधि । गिरः ॥ ५ ॥
+> पूर्व्य । होतः । अस्य । नः । मंदस्व । सख्यस्य । च । इमाः । ऊं इति । सु । श्रुधि । गिरः ॥५॥
 
-*pūrvya | hotaḥ | asya | naḥ | mandasva | sakhyasya | ca || imāḥ | ūṃ iti | su | śrudhi | giraḥ || 5 ||*
+> *pūrvya | hotaḥ | asya | naḥ | maṃdasva | sakhyasya | ca | imāḥ | ūṃ iti | su | śrudhi | giraḥ ‖5‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 358)*
+### Page 358 — Rik 5: bhāṣya, word-meanings, overall sense, English, Special Topics
 
-> हे पूर्व्य अस्मादादेः पूर्वमुत्पन्न होतर्होमनिष्पादकाग्ने नोऽस्मदीयस्यास्य प्रवर्तमानस्य यज्ञस्य सख्यस्य चास्मदनुग्रहस्य च सिद्ध्यर्थं मन्दस्व । त्वं हृष्टो भव । इमा अस्माभिः प्रयुज्यमाना गिर उ षु स्तुतिरूपा वाचोऽपि श्रुधि । शृणु ॥ पूर्व्य । आमन्त्रिताद्युदात्तत्वम् । होतरित्यस्य नामन्त्रिते समानाधिकरण इति पूर्वस्य विद्यमानत्वादष्टमिको निघातः । अस्य । ऊडिदमिति षष्ठ्या उदात्तत्वम् । मन्दस्व । मदि स्तुतिमोदमदस्वप्नकान्तिगतिषु । शपः पित्त्वादनुदात्तत्वम् । तिङ्ङश्च लसार्वधातुकस्वरेण धातुस्वरः । आपादादाविति पर्युदासादाष्टमिकनिघाताभावः । सख्यस्य । सख्युः कर्म सख्यम् । सख्युर्यः । पा. ४-१-१३८ । इति यप्रत्ययः । यस्येति लोपे प्रत्ययस्वरः । उ षु । सुञः । पा. ८-३-१०७ । इति षत्वम् । श्रुधि । श्रु श्रवणे । श्रुशृणुपॄकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति शपो लुक् ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*he pūrvya asmād ādeḥ pūrvam utpanna hotar homaniṣpādakāgne no 'smadīyasyāsya pravartamānasya yajñasya sakhyasya cāsmadanugrahasya ca siddhyartham mandasva | tvaṃ hṛṣṭo bhava | imā asmābhiḥ prayujyamānā gira u ṣu stutirūpā vāco 'pi śrudhi | śṛṇu || pūrvya | āmantritādyudāttatvam | hotar ity asya nāmantrite samānādhikaraṇa iti pūrvasya vidyamānatvād aṣṭamiko nighātaḥ | asya | ūḍidam iti ṣaṣṭhyā udāttatvam | mandasva | madi stutimodamadasvapnakāntigatiṣu | śapaḥ pittvād anudāttatvam | tiṅ ṅaś ca lasārvadhātukasvareṇa dhātusvaraḥ | āpādādāv iti paryudāsād āṣṭamikanighātābhāvaḥ | sakhyasya | sakhyuḥ karma sakhyam | sakhyur yaḥ | pā. 4-1-138 | iti yapratyayaḥ | yasyeti lope pratyayasvaraḥ | u ṣu | suñaḥ | pā. 8-3-107 | iti ṣatvam | śrudhi | śru śravaṇe | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhir ādeśaḥ | bahulaṃ chandasīti śapo luk ||*
+> हे पूर्व्य अस्मदादेः पूर्वमुत्पन्न होतर्होमनिष्पादकाग्ने नोऽस्मदीयस्यास्य प्रवर्तमानस्य यज्ञस्य सख्यस्य चास्मदनुग्रहस्य च सिद्ध्यर्थं मंदस्व । त्वं हृष्टो भव । इमा अस्माभिः प्रयुज्यमाना गिर उ षु स्तुतिरूपा वाचोऽपि श्रुधि शृणु ॥ पूर्व्य । आमंत्रिताद्युदात्तत्वं । होतरित्यस्य नामंत्रिते समानाधिकरण इति पूर्वस्य विद्यमानत्वादाष्टमिको निघातः । अस्य । ऊडिदमिति षष्ठ्या उदात्तत्वं । मंदस्व । मदि स्तुतिमोदमदस्वप्नकांतिगतिषु । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वरः । अपादादाविति पर्युदासादाष्टमिकनिघाताभावः । सख्यस्य । सख्युः कर्म सख्यं । सख्युर्यः । पा. ५-१-१२६ । इति यप्रत्ययः । यस्येति लोपे प्रत्ययस्वरः । उ षु । सुञः । पा. ८-३-१०७ । इति षत्वं । श्रुधि । श्रु श्रवणे । श्रुशृणुपॄकृवृभ्यश्छंदसीति हेर्धिरादेशः । बहुलं छंदसीति शपो लुक् ॥२०॥
 
-**Translation:** "O *pūrvya* — born before us, [ancient] — *hotṛ*, performer of the oblation, Agni! *Mandasva* — be pleased — for the accomplishment of this our sacrifice that is going on and of *sakhya* — your friendly favour to us. Be glad. Hear (*śrudhi*) also these *giraḥ* — praise-words — which we are uttering. *Pūrvya*: the vocative's first-syllable acute. *Hotaḥ*: because the preceding vocative is treated as existing [for the *samānādhikaraṇa*], the eighth-chapter lowering applies. *Asya*: the genitive's acute by *ūḍidam…*. *Mandasva*: *madi stutimodamadasvapnakāntigatiṣu*; the accent of the root remains; the lowering does not apply because [the verb is not at the head]. *Sakhyasya*: 'the act of a friend' — *yat* by P. 4-1-138 [*sakhyur yaḥ*]; … *U ṣu*: *ṣatva* by P. 8-3-107 [*suñaḥ*]. *Śrudhi*: as above." *(Grammar pages 359–360, noted briefly: the words treated are* pūrvya *[*pūrve bhavaḥ pūrvyaḥ* — *yat* in the sense of 'being in' by the Uṇ./*bhāve*; in the vocative it takes first-syllable acute by P. 6-1-198 *āmantritasya ca* since it stands at the head of the pāda],* hotaḥ *[*hu dānādanayoḥ*, *juhotyādi*; *tṛc* in the sense of agent; in the vocative *hotaḥ*; both *pūrvya* and *hotaḥ* are *āmantrita*; by P. 8-1-72 *āmantritaṃ pūrvam avidyamānavat* the former would be treated as non-existent, but by P. 8-1-74 *nāmantrite samānādhikaraṇe sāmānyavacanam* it is not so when the two words are co-referential, so *hotaḥ* is lowered by P. 8-1-19 *āmantritasya ca*],* asya *[*idam* + *ṅas*: *a* for *idam*; *sya* by P. 7-1-… *ṅasaḥ syaḥ*; the final of the stem by *tyadādīnām aḥ* P. 7-2-102; the case-ending's acute by P. 6-1-171],* mandasva *[*madi stutimodamadasvapnakāntigatiṣu*, *bhvādi*; *loṭ* 2nd singular *thās* → *sva*; *num* by P. 7-1-58 *idito num dhātoḥ*; *śap*; the verb is not lowered since P. 8-1-… *āpādādau*; the accent of the root stands, initial acute],* sakhyasya *[*sakhyuḥ karma sakhyam*, *yat* by P. 5-1-126 *sakhyur yaḥ* [print: 4-1-138?]; *ya* is *yat* so *bha*-status; the final *i* of *sakhi* is lost by P. 6-4-148 *yasyeti ca*; genitive singular; middle-acute through the suffix],* u ṣu *[*su* after *u*: *ṣatva* by P. 8-3-107 *suñaḥ* — hence *u ṣu*, the *ṣa* stands for *s* after the particle *ū*], and* śrudhi *[as in Sūkta 25 Rik 19: *hi* → *dhi* by P. 6-4-102; *śap* lost]; numerals as read, pointers only.)*
+> *he pūrvya asmadādeḥ pūrvamutpanna hotarhomaniṣpādakāgne no 'smadīyasyāsya pravartamānasya yajñasya sakhyasya cāsmadanugrahasya ca siddhyarthaṃ maṃdasva | tvaṃ hṛṣṭo bhava | imā asmābhiḥ prayujyamānā gira u ṣu stutirūpā vāco 'pi śrudhi śṛṇu ‖ pūrvya | āmaṃtritādyudāttatvaṃ | hotarityasya nāmaṃtrite samānādhikaraṇa iti pūrvasya vidyamānatvādāṣṭamiko nighātaḥ | asya | ūḍidamiti ṣaṣṭhyā udāttatvaṃ | maṃdasva | madi stutimodamadasvapnakāṃtigatiṣu | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa dhātusvaraḥ | apādādāviti paryudāsādāṣṭamikanighātābhāvaḥ | sakhyasya | sakhyuḥ karma sakhyaṃ | sakhyuryaḥ | pā. 5-1-126 | iti yapratyayaḥ | yasyeti lope pratyayasvaraḥ | u ṣu | suñaḥ | pā. 8-3-107 | iti ṣatvaṃ | śrudhi | śru śravaṇe | śruśṛṇupṝkṛvṛbhyaśchaṃdasīti herdhirādeśaḥ | bahulaṃ chaṃdasīti śapo luk ‖20‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 358)* **पूर्व्य (pūrvya)** — O ancient one [born before all of us] | **होतः (hotaḥ)** — O performer of the *homa*, Agni | **नः (naḥ)** — our | **अस्य (asya)** — this [sacrifice that is going on] | **सख्यस्य च (sakhyasya ca)** — and [for the increase of] friendship | **मन्दस्व (mandasva)** — be glad | **इमाः गिरः उ षु (imāḥ giraḥ u ṣu)** — these our praise-words also | **श्रुधि (śrudhi)** — hear.
+*(Numbers zoom-read at 450 dpi: पा. ५-१-१२६, ८-३-१०७; the closing ॥२०॥ marks the end of Varga 20 (Ṛks 1–5).)*
 
-**॥ Bhāvārthaḥ ॥** O Agni, ancient one and performer of the *homa*! Be pleased with this sacrifice of ours that is now proceeding and with our friendship, and listen to these our words of praise.
+*Gist:* O ancient one, Agni the hotṛ, rejoice for the success of this our sacrifice and of your favour to us, and hear these words of praise we offer.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **पूर्व्य (pūrvya)** — ancient (more than all of us) | **होतः (hotaḥ)** — and performer of the homa, O Agni | **नः (naḥ)** — our | **अस्य (asya)** — (now going on) by this sacrifice | **च (ca)** — and | **सख्यस्य (sakhyasya)** — by (our) friendship (for their increase) | **मंदस्व (maṃdasva)** — be pleased | **इमाः (imāḥ)** — used by us | **गिरः उ षु (giraḥ u ṣu)** — our words of praise too | **श्रुधि (śrudhi)** — listen.
+
+**॥ Bhāvārthaḥ ॥** O Agni, you are more ancient than all of us and the performer of the homa. Being pleased by the sacrifice we are now performing and by our friendship, make it grow. Listen also to these words of praise of ours that we use.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O Ancient Hotri, Agni, be pleased with this our sacrifice and with our friendship and listen to these our prayers.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 358–359)* **पूर्व्य** — *asmād ādeḥ pūrvam utpannaḥ*: born before all of us — the ancient one. **होतः** — the performer of *homa*: he who summons the gods to the sacrifice. **अस्य** — of this sacrifice of ours being performed now. **सख्यस्य** — for [our] friendship, i.e. so as to show favour to us as to a friend. On the matter of the gods' friendship the author cites many Ṛgvedic riks, which I list as printed (the glosses are mine and tentative):
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-> तवेद्धि सख्यमस्तृतम् ॥ (ऋ. सं. [१-२६-३])
-> *taved dhi sakhyam astṛtam ||* — "Your friendship is indeed unbroken."
+**पूर्व्य (pūrvya)** — *asmadādeḥ pūrvam utpanna*: born before all of us, ancient.
 
-> देवानां सख्यमुपसेदिमा वयं देवा न आयुः प्र तिरन्तु जीवसे ॥ (ऋ. सं. [१-८९-२])
-> *devānāṃ sakhyam upasedimā vayaṃ devā na āyuḥ pra tirantu jīvase ||* — "We have approached the friendship of the gods; may the gods prolong our life that we may live."
+**होतः (hotaḥ)** — performer of the homa, the one who brings the gods to the sacrifice.
 
-> अनु व्रातासस्तव सख्यमायुरनु देवा ममिरे वीर्यं ते ॥ (ऋ. सं. [१-१६३?-८] [?])
-> *anu vrātāsas tava sakhyam āyur anu devā mamire vīryaṃ te ||* — "The hosts have followed your friendship and life; the gods have measured your valour."
+### Page 359 — Rik 5: Special Topics (end), grammar
 
-> ययोरस्ति प्र णः सख्यं देवेष्वध्याप्यम् ॥ (ऋ. सं. [८-१०-३] [?])
-> *yayor asti pra ṇaḥ sakhyaṃ deveṣv adhyāpyam ||* — "[Those two] whose friendship among the gods is to be studied [?]."
+**अस्य (asya)** — of this sacrifice; by the sacrifice we are now performing.
 
-> यदिमे सख्यमावर इमस्य पाह्यन्धसः । (ऋ. सं. [९-१०१-?])
-> *yad ime sakhyam āvara imasya pāhy andhasaḥ |* — "Since these have chosen [your] friendship, drink of this juice."
+**सख्यस्य (sakhyasya)** — the sense is: so that you, regarding us as friends, may show favour. On the theme of desiring the friendship of the gods: *tavedd hi sakhyam astṛtam* (Ṛ. Saṃ. 1-15-5); *devānāṃ sakhyam upasedimā vayaṃ devā na āyuḥ pra tirantu jīvase* (Ṛ. Saṃ. 1-89-2); *anu vrātāsas tava sakhyam īyur anu devā mamire vīryaṃ te* (Ṛ. Saṃ. 1-163-8); *yayor asti pra ṇaḥ sakhyaṃ deveṣv adhyāpyam* (Ṛ. Saṃ. 8-10-3); *yad imo sakhyam āvara imasya pāhy andhasaḥ* (Ṛ. Saṃ. 8-13-21); *pra so agne tavotibhiḥ suvīrābhis tirate vājabharmabhiḥ | yasya tvaṃ sakhyam āvaraḥ* (Ṛ. Saṃ. 8-19-30); *adabdhasya svadhāvato dūtasya rebhataḥ sadā | agneḥ sakhyaṃ vṛṇīmahe* (Ṛ. Saṃ. 8-44-20) — many such examples can be given.
 
-> प्र सो अग्ने तवोतिभिः सुवीराभिस्तिरते वाजभर्मभिः । यस्य त्वं सख्यमावरः ॥ (ऋ. सं. [१-३१-?])
-> *pra so agne tavotibhiḥ suvīrābhis tirate vājabharmabhiḥ | yasya tvaṃ sakhyam āvaraḥ ||* — "He, O Agni, goes forward with your aids, rich in heroes and bearing strength, whose friendship you have chosen."
+> तवेद्धि सख्यमस्तृतं ॥
+> देवानां सख्यमुपसेदिमा वयं देवा न आयुः प्र तिरंतु जीवसे ॥
+> अनु व्रातासस्तव सख्यमीयुरनु देवा ममिरे वीर्यं ते ॥
+> ययोरस्ति प्र णः सख्यं देवेष्वध्याप्यं ॥
+> यदिमो सख्यमावर इमस्य पाह्यंधसः ।
+> प्र सो अग्ने तवोतिभिः सुवीराभिस्तिरते वाजभर्मभिः ।
+> यस्य त्वं सख्यमावरः ॥
+> अदब्धस्य स्वधावतो दूतस्य रेभतः सदा ॥
+> अग्नेः सख्यं वृणीमहे ॥
 
-> अदब्धस्य स्वधावतो दूतस्य रेभतः सदा । अग्नेः सख्यं वृणीमहे ॥ (ऋ. सं. [८-४४-?])
-> *adabdhasya svadhāvato dūtasya rebhataḥ sadā | agneḥ sakhyaṃ vṛṇīmahe ||* — "We choose the friendship of Agni, the undeceived, the strong, the messenger, ever sounding."
+> *taveddhi sakhyamastṛtaṃ ‖*
+> *devānāṃ sakhyamupasedimā vayaṃ devā na āyuḥ pra tiraṃtu jīvase ‖*
+> *anu vrātāsastava sakhyamīyuranu devā mamire vīryaṃ te ‖*
+> *yayorasti pra ṇaḥ sakhyaṃ deveṣvadhyāpyaṃ ‖*
+> *yadimo sakhyamāvara imasya pāhyaṃdhasaḥ |*
+> *pra so agne tavotibhiḥ suvīrābhistirate vājabharmabhiḥ |*
+> *yasya tvaṃ sakhyamāvaraḥ ‖*
+> *adabdhasya svadhāvato dūtasya rebhataḥ sadā ‖*
+> *agneḥ sakhyaṃ vṛṇīmahe ‖*
 
-and many other examples. **मन्दस्व** — *madi stutimodamadasvapnakāntigatiṣu* — be pleased, be glad.
+*Glosses, mine and tentative:* "your friendship is unbroken"; "we have come to the friendship of the gods; may the gods prolong our life for living"; "the companies followed your friendship, the gods measured your might"; "whose friendship towards us is to be gained among the gods"; "since you have chosen this friendship, drink of this juice"; "he prospers, O Agni, by your aids rich in heroes and booty, whose friendship you have chosen"; "we choose the friendship of Agni, the unharmed, self-powered messenger, ever resounding".
+
+**मंदस्व (maṃdasva)** — be pleased, be delighted.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**पूर्व्य (pūrvya)** — *pūrve bhavaḥ pūrvyaḥ*: one born before; *yat* in the sense of "being there"; in the vocative *pūrvya*. Standing not after another word, by "आमन्त्रितस्य च" (Pā. Sū. 6-1-198) it is initially acute.
+
+**होतः (hotaḥ)** — *hu dānādanayoḥ*, juhotyādi; *tṛc* in the agent sense; vocative *hotaḥ*. Here both *pūrvya* and *hotaḥ* are *āmantrita*. Then by "आमन्त्रितं पूर्वमविद्यमानवत्" (Pā. Sū. 8-1-72) the earlier *āmantrita* would be treated as non-existent; but here
+
+### Page 360 — Rik 5: grammar (end)
+
+the two words are in apposition, both meaning the same thing; so by "नामन्त्रिते समानाधिकरणे सामान्यवचनम्" (Pā. Sū. 8-1-73) it is not treated as non-existent, that is, it counts as a word standing before; so by "आमन्त्रितस्य च" (Pā. Sū. 8-1-19) *hotaḥ*, an *āmantrita* after a word, takes the *nighāta* accent.
+
+**अस्य (asya)** — after *idam*, the genitive singular *ṅas*; by "त्यदादीनामः" (Pā. Sū. 7-2-102) the stem takes *a*; with *idas*, after *a*, by "टाङसिङसामिनात्स्याः" (Pā. Sū. 7-1-12) *ṅas* becomes *sya*; before a consonant-initial suffix by "हलि लोपः" (Pā. Sū. 7-2-113) the *id* is dropped: *asya*. By "ऊडिदम्पदादि-" (Pā. Sū. 6-1-171) the ending is udātta: *asya* is end-acute.
+
+**मंदस्व (maṃdasva)** — *madi stutimodamadasvapnakāntigatiṣu*, bhvādi; *loṭ* second singular *maṃdasva*. Being *idit*, it takes *num*. *Śap* is anudātta as *pit*; the *tiṅ* after an *adupadeśa* is anudātta by "तास्यनुदात्तेत्-" (Pā. Sū. 6-1-186); the root's end-acute remains; *maṃdasva* is initially acute. Since "अपादादौ" excludes it, by "तिङ्ङतिङः" (Pā. Sū. 5-1-28, as printed: the first glyph is the same as the 5 of the bhāṣya's ५-१-१२६; for 8-1-28) the *nighāta* does not come.
+
+**सख्यस्य (sakhyasya)** — *sakhyuḥ karma sakhyam*: the work of a friend. By "सख्युर्यः" (Pā. Sū. 5-1-126) the suffix *ya* in the sense of state or action; before a *y*-initial suffix the stem is *bha*: *sakhya*; genitive singular. By the suffix accent *sakhyasya* is medially acute.
+
+**उ षु (u ṣu)** — by "सुञः" (Pā. Sū. 8-3-107), after a conditioning sound (*iṇ* or a *ka*-class letter) in the preceding word, the *s* of the particle *suñ* becomes *ṣ*; here, after *u*, the *ṣatva* comes.
+
+**श्रुधि (śrudhi)** — *śru śravaṇe*, bhvādi; *loṭ* second singular, *hi* for *si*. By "बहुलं छन्दसि" (Pā. Sū. 2-4-73) the vikaraṇa *śap* takes *luk*; by "श्रुशृणुपॄकृवृभ्यश्छन्दसि" (Pā. Sū. 6-4-102) *dhi* for *hi*: *śrudhi*. ॥५॥ *(A printed ornament follows.)*
+
+---
+
 ### Pages 361–363 — Sūkta 26, Rik 6
 
 **॥ Saṃhitāpāṭhaḥ ॥**
