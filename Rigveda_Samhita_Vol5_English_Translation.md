@@ -4279,13 +4279,15 @@
 
 ### Rik 52.8 (pp. 239–, PDF 255–)
 
-**Saṃhitā-pāṭha** *(p. 239; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 239; accents as printed)*
 
-> **जघन्वाँ उ हरिभिः संभृतक्रतविन्द्र वृत्रं मनुषे गातुयन्नपः ।**
-> **अयच्छथा बाह्वोर्वज्रमायसमधारयो दिवि सूर्यं दृशे ॥ ८ ॥**
+> **ज॒घ॒न्वाँ उ॒ हरि॑भिः संभृतक्रत॒विन्द्र॑ वृ॒त्रं मनु॑षे गातु॒यन्न॒पः ।**
+> **अय॑च्छथा बा॒ह्वोर्वज्र॑माय॒समधा॑रयो दि॒व्या सूर्यं॑ दृ॒शे ॥ ८ ॥**
 
-*jaghanvāṃ u haribhiḥ saṃbhṛtakratav indra vṛtraṃ manuṣe gātuyann apaḥ |*
-*ayacchathā bāhvor vajram āyasam adhārayo divy ā sūryaṃ dṛśe || 8 ||*
+*jaghanvā́m̐ u háribhiḥ saṃbhṛtakratav índra vṛtrám mánuṣe gātuyánn apáḥ |*
+*áyacchathā bāhvór vájram āyásam ádhārayo divyā́ sū́ryaṃ dṛśé || 8 ||*
+
+*(Pass: the print has "ದಿವ್ಯಾ",* divyā *(= Pada* divi | ā*).)*
 
 *(The print joins* saṃbhṛtakratav indra*; the Pada below shows the vocative* saṃbhṛtakrato iti*, i.e. the Saṃhitā sandhi is* -o *+* i- → -av i-*, as printed. The Saṃhitā's* divy ā *is as printed; the Pada* divi | ā *— so the print's "ā" before* sūryaṃ *belongs to* adhārayaḥ *by the Pada.)*
 
@@ -4301,9 +4303,9 @@
 
 > **हे संभृतक्रतो संपादितकर्मन् संपादितप्रज्ञ वेन्द्र मनुषे जनाय गातुयन् गातुं मार्गमिच्छन् वृत्रं लोकानामावरकमसुरं हरिभिरश्वैर्युक्तस्त्वं जघन्वान् उ । हतवान् खलु । तदनन्तरमपो वृष्ट्युदकानि प्रावर्तयः इत्यध्याहारः । बाह्वोस्त्वदीययोर्हस्तयोरायसमयोमयं वज्रमयच्छथाः । आग्रहीः । आकारः समुच्चयार्थः । सूर्यं च दिवि द्युलोके दृशे द्रष्टुं सर्वेषामस्माकं दर्शनायाधारयः । स्थापयाम् चकृषे ॥**
 
-*he saṃbhṛtakrato saṃpāditakarman saṃpāditaprajña vendra manuṣe janāya gātuyan gātuṃ mārgam icchan vṛtraṃ lokānām āvarakam asuraṃ haribhir aśvair yuktas tvaṃ jaghanvān u | hatavān khalu | tadanantaram apo vṛṣṭyudakāni prāvartayaḥ ity adhyāhāraḥ | bāhvos tvadīyayor hastayor āyasam ayomayaṃ vajram ayacchathāḥ | āgrahīḥ | ākāraḥ samuccayārthaḥ | sūryaṃ ca divi dyuloke dṛśe draṣṭuṃ sarveṣām asmākaṃ darśanāyādhārayaḥ | sthāpayām cakṛṣe* [sic — print reads crowded, [?]] ||*
+*he saṃbhṛtakrato saṃpāditakarman saṃpāditaprajña vendra manuṣe janāya gātuyan gātuṃ mārgam icchan vṛtraṃ lokānām āvarakam asuraṃ haribhir aśvair yuktas tvaṃ jaghanvān u | hatavān khalu | tadanantaram apo vṛṣṭyudakāni prāvartayaḥ ity adhyāhāraḥ | bāhvos tvadīyayor hastayor āyasam ayomayaṃ vajram ayacchathāḥ | āgrahīḥ | ākāraḥ samuccayārthaḥ | sūryaṃ ca divi dyuloke dṛśe draṣṭuṃ sarveṣām asmākaṃ darśanāyādhārayaḥ | sthāpayāṃ cakṛṣe ||*
 
-*(Reading notes: the print's last clause is crowded; I read "*sthāpayāṃ cakṛṣe*" doubtfully, [?]; sense is clear from the Pratipadārtha. The grammatical tail — on* jaghanvān*,* gātuyan*,* ayacchathāḥ*,* bāhvoḥ *— is characterized: for* jaghanvān *the* kvasu *after* han *with the Vedic loss of the optional* iṭ *(*vibhāṣā gamahanavidaviśām*, Pā. 2-… as read [?]); for* gātuyan *the* kyac *by* chandasi parecchāyām*, with the lengthening forbidden by* na chandasy aputrasya*; for* bāhvoḥ *the vibhakti-accent by* udāttayaṇo hal pūrvāt*.)*
+*(Reading note: the last clause "*sthāpayāṃ cakṛṣe*" is clear in the better scan. The grammatical tail — on* jaghanvān*,* gātuyan*,* ayacchathāḥ*,* bāhvoḥ *— is characterized: for* jaghanvān *the* kvasu *after* han *with the Vedic loss of the optional* iṭ *(*vibhāṣā gamahanavidaviśām*, Pā. 7-2-68); for* gātuyan *the* kyac *by* chandasi parecchāyām* (Kā. 3-1-8-2), with the lengthening forbidden by* na chandasy aputrasya*; for* bāhvoḥ *the vibhakti-accent by* udāttayaṇo hal pūrvāt*.)*
 
 **Translation of the bhāṣya:** "O *saṃbhṛtakrato*, O Indra of accomplished works or accomplished wisdom, *manuṣe*, for the man, for the people, *gātuyan*, wishing a way — you, yoked with *haribhiḥ*, the horses, *jaghanvān u*, killed Vṛtra, the Asura who encloses the worlds; and after that you set the waters, the rain-waters, flowing (this is understood). *Bāhvoḥ*, in your two hands you *ayacchathāḥ*, held, the iron thunderbolt; and *divi*, in the sky, you *adhārayaḥ*, set the sun, *dṛśe*, to be seen — so that we all may see."
 
@@ -4326,13 +4328,13 @@
 - **dṛśe** — "*Draṣṭuṃ sarveṣām asmākaṃ darśanāya*: 'so that all of us may see' — Indra is praised here with the thought that the sun was set in the atmosphere in order that even ordinary people might obtain the capacity to see."
 
 **Vyākaraṇa-prakriyā** *(pp. 241–242 — grammar pages, noted briefly)*
-- **jaghanvān**: *han hiṃsāgatyoḥ*; *chandasi liṭ*; *kvasuś ca* (Pā. 3-2-107 as read [?]) gives *kvasu* for the *liṭ*; *han + vas*; being *liṅ*-nimitta, reduplication; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*, *cutva*, *jaśtva*; *abhyāsāc ca* gives *kutva* to the root's *h* after the reduplicative syllable; *vibhāṣā gamahanavidaviśām* (Pā. 1-2-… as read [?]) — the *iṭ* that is optionally prescribed before the *valādi* *ārdhadhātuka* suffix does not come here; *jaghanvas*; in the nominative singular, *ugit*, so *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *āsaṃsaṃsaṃ ca* gives lengthening; *halṅyābbhyo…* drops *su*; *saṃyogāntasya lopaḥ* drops the *s*; since that is *asiddha*, *nalopaḥ* does not apply: *jaghanvān*; by the suffix-accent the *ā* is acute.
-- **gātuyan**: *gātum icchati*; *chandasi parecchāyām api* (Kā. 3-1-… as read [?]): *kyac* comes even when the desire is not the speaker's own; *gātuya* a verbal root; *na chandasy aputrasya* (Pā. 7-4-35) — no lengthening of the first member; *śatṛ* after the *kyac*-ending root; in the nominative singular, *su*, *ugit*, so *num*; *saṃyogāntalopa* drops the *t*: *gātuyan*; being a verb-form after a non-verb, *lasārvadhātukam anudāttam…* gives *anudātta*; since the *kyac* suffix-accent is the *śatṛ*'s, the vowel after *y* is acute.
-- **ayacchathāḥ**: *dāṇ dāne*; *laṅ* second singular; *pāghrādhmā…* (Pā. 7-3-78) gives *yaccha*; since it begins a *pāda*, the *nighāta* is forbidden, so the initial acute of *aṭ* remains.
+- **jaghanvān**: *han hiṃsāgatyoḥ*; *chandasi liṭ*; *kvasuś ca* (Pā. sū. 3-2-107) gives *kvasu* for the *liṭ*; *han + vas*; being *liṅ*-nimitta, reduplication; *halādiḥ śeṣaḥ*; *kuhoś cuḥ*, *cutva*, *jaśtva*; *abhyāsāc ca* (Pā. sū. 7-3-55) gives *kutva* to the root's *h* after the reduplicative syllable; *vibhāṣā gamahanavidaviśām* (Pā. sū. 7-2-68) — the *iṭ* that is optionally prescribed before the *valādi* *ārdhadhātuka* suffix does not come here; *jaghanvas*; in the nominative singular, *ugit*, so *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *āsaṃsaṃsaṃ ca* gives lengthening; *halṅyābbhyo…* drops *su*; *saṃyogāntasya lopaḥ* drops the *s*; since that is *asiddha*, *nalopaḥ* does not apply: *jaghanvān*; by the suffix-accent the *ā* is acute.
+- **gātuyan**: *gātum icchati*; *chandasi parecchāyām api* (Kā. 3-1-8-2): *kyac* comes even when the desire is not the speaker's own; *gātuya* a verbal root; *na chandasy aputrasya* (Pā. sū. 7-4-35) — no lengthening of the first member; *śatṛ* after the *kyac*-ending root; in the nominative singular, *su*, *ugit*, so *num*; *saṃyogāntalopa* drops the *t*: *gātuyan*; being a verb-form after a non-verb, *lasārvadhātukam anudāttam…* gives *anudātta*; since the *kyac* suffix-accent is the *śatṛ*'s, the vowel after *y* is acute.
+- **ayacchathāḥ**: *dāṇ dāne*; *laṅ* second singular; *pāghrādhmā…* (no number printed) gives *yaccha*; since it begins a *pāda*, the *nighāta* is forbidden, so the initial acute of *aṭ* remains.
 - **āyasam**: "*ayasa idam*": *aṇ* in the sense of "made of"; *ādivṛddhi* by *kiti ca… (taddhiteṣv acām ādeḥ)*; end-acute by the suffix-accent.
 - **adhārayaḥ**: begins a *pāda*, so no *nighāta*; since *āṭ* is *udātta*, the word is initial-acute.
-- **bāhvoḥ**: genitive dual of *bāhu*; by *udāttayaṇo halpūrvāt* the *u*, which stands in the place of the acute and after a consonant, is followed by the ending with an acute.
-- **dṛśe**: in the sense "to see", by *dṛśe vikhye ca* (Pā. 3-4-11) it is irregularly formed in the sense of *tumun* (infinitive). **|| 8 ||**
+- **bāhvoḥ**: genitive dual of *bāhu*; by *udāttayaṇo halpūrvāt* (Pā. sū. 6-1-174) the *u*, which stands in the place of the acute and after a consonant, is followed by the ending with an acute.
+- **dṛśe**: in the sense "to see", by *dṛśe vikhye ca* (Pā. sū. 3-4-11) it is irregularly formed in the sense of *tumun* (infinitive). **|| 8 ||**
 
 ---
 
