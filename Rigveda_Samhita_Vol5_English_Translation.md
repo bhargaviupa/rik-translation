@@ -7725,13 +7725,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 58.6 (pp. 427–430, PDF 443–446; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 427)*
+**Saṃhitā-pāṭha** *(p. 427; accents as printed)*
 
-> **दधुष्ट्वा भृगवो मानुषेष्वा रयिं न चारुं सुहवं जनेभ्यः ।**
-> **होतारमग्ने अतिथिं वरेण्यं मित्रं न शेवं दिव्याय जन्मने ॥ ६ ॥**
+> **द॒धुष्ट्वा॒ भृग॑वो॒ मानु॑षे॒ष्वा र॒यिं न चारुं॑ सु॒हवं॒ जने॑भ्यः ।**
+> **होता॑रम॒ग्ने अति॑थिं॒ वरे॑ण्यं मि॒त्रं न शेवं॑ दि॒व्याय॒ जन्म॑ने ॥ ६ ॥**
 
-*dadhuṣ ṭvā bhṛgavo mānuṣeṣv ā rayiṃ na cāruṃ suhavaṃ janebhyaḥ |*
-*hotāram agne atithiṃ vareṇyaṃ mitraṃ na śevaṃ divyāya janmane || 6 ||*
+*dadhúṣ ṭvā bhṛ́gavo mā́nuṣeṣv ā́ rayíṃ na cā́ruṃ suhávaṃ jánebhyaḥ |*
+*hótāram agné átithiṃ váreṇyam mitráṃ na śévaṃ divyā́ya jánmane || 6 ||*
 
 **Pada-pāṭha** *(p. 428)*
 
@@ -7743,11 +7743,11 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 428)*
 
-> **हे अग्ने त्वा त्वां मानुषेषु मनुष्येषु मध्ये भृगव एतत्संज्ञा महर्षयो दिव्याय जन्मने देवत्वप्राप्तये चारुं रयिं न शोभनं धनमिवा दधुः । आधानसंभारेषु मन्त्रैः स्थापनेन समस्कुर्वन् । कीदृशं त्वाम् । जनेभ्यः सुहवं यजमानार्थमाह्वातुं सुशकं होतारं देवानामाह्वातारम् आतिथिमतिथिवत्पूज्यम् । यद्वा । देवयजनदेशेषु सततं गन्तारम् । वरेण्यां वरणीयं मित्रं न शेवं । यथा सखा सुखकरो भवति तद्वत् सुखकरमित्यर्थः ॥ दधुः । लिट्यस्यातो लोपः । इट् चेत्याकारलोपः । युष्मत्तत्ततक्षुःष्वन्तःपादम् । विसर्जनीयस्य षत्वं । सुहवं । ह्वयतेरीषद्दुःसुषु इति खल् । बहुलं छन्दसीति संप्रसारणं । परपूर्वत्वं । गुणावादेशौ । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥**
+> **हे अग्ने त्वा त्वां मानुषेषु मनुष्येषु मध्ये भृगव एतत्संज्ञा महर्षयो दिव्याय जन्मने देवत्वप्राप्तये चारुं रयिं न शोभनं धनमिवा दधुः । आधानसंभारेषु मन्त्रैः स्थापनेन समस्कुर्वन् । कीदृशं त्वाम् । जनेभ्यः सुहवं यजमानार्थमाह्वातुं सुशकं होतारं देवानामाह्वातारम् अतिथिमतिथिवत्पूज्यम् । यद्वा । देवयजनदेशेषु सततं गन्तारम् । वरेण्यं वरणीयं मित्रं न शेवं । यथा सखा सुखकरो भवति तद्वत् सुखकरमित्यर्थः ॥ दधुः । लिट्यस्यातो लोप इटि चेत्याकारलोपः । युष्मत्तत्ततक्षुःष्वन्तःपादमिति विसर्जनीयस्य षत्वं । सुहवं । ह्वयतेरीषद्दुःसुषु इति खल् । बहुलं छन्दसीति संप्रसारणं । परपूर्वत्वं । गुणावादेशौ । लितीति प्रत्ययात्पूर्वस्योदात्तत्वं । कृदुत्तरपदप्रकृतिस्वरत्वं ॥**
 
-*he agne tvā tvāṃ mānuṣeṣu manuṣyeṣu madhye bhṛgava etatsaṃjñā maharṣayo divyāya janmane devatvaprāptaye cāruṃ rayiṃ na śobhanaṃ dhanam ivā dadhuḥ | ādhānasaṃbhāreṣu mantraiḥ sthāpanena samaskurvan | kīdṛśaṃ tvām | janebhyaḥ suhavaṃ yajamānārtham āhvātuṃ suśakaṃ hotāraṃ devānām āhvātāram atithim atithivat pūjyam | yadvā | devayajanadeśeṣu satataṃ gantāram | vareṇyaṃ varaṇīyaṃ mitraṃ na śevaṃ | yathā sakhā sukhakaro bhavati tadvat sukhakaram ity arthaḥ ||*
+*he agne tvā tvāṃ mānuṣeṣu manuṣyeṣu madhye bhṛgava etatsaṃjñā maharṣayo divyāya janmane devatvaprāptaye cāruṃ rayiṃ na śobhanaṃ dhanam ivā dadhuḥ | ādhānasaṃbhāreṣu mantraiḥ sthāpanena samaskurvan | kīdṛśaṃ tvām | janebhyaḥ suhavaṃ yajamānārtham āhvātuṃ suśakaṃ hotāraṃ devānām āhvātāram atithim atithivat pūjyam | yadvā | devayajanadeśeṣu satataṃ gantāram | vareṇyaṃ varaṇīyaṃ mitraṃ na śevaṃ | yathā sakhā sukhakaro bhavati tadvat sukhakaram ity arthaḥ || dadhuḥ | liṭy asyāto lopa iṭi cety ākāralopaḥ | yuṣmattattatakṣuḥṣv antaḥpādam iti visarjanīyasya ṣatvaṃ | suhavaṃ | hvayater īṣadduḥsuṣv iti khal | bahulaṃ chandasīti saṃprasāraṇaṃ | parapūrvatvaṃ | guṇāvādeśau | litīti pratyayāt pūrvasyodāttatvaṃ | kṛduttarapadaprakṛtisvaratvaṃ ||*
 
-*(The grammatical tail, p. 428: on *dadhuḥ*, *suhavam* (*hvayater īṣadduḥsuṣu* …*khal*; *saṃprasāraṇa*), *hotāram*, *vareṇyam*, *śevam* — characterized.)*
+*(The grammatical tail, p. 428, covers only* dadhuḥ *and* suhavam.)*
 
 **Translation of the bhāṣya:** "O Agni, *mānuṣeṣu*, among men, the Bhṛgus, great sages of that name, *divyāya janmane*, to attain divine birth, *dadhuḥ*, placed you like *cāruṃ rayiṃ na*, a beautiful treasure: in the ceremonies of the placing of fire they consecrated you with mantras by establishing you. How do you [stand]? *Janebhyaḥ suhavam*: easy to call for the sake of the sacrificers; *hotāram*, the invoker of the gods; *atithim*, to be honoured like a guest — or one who always goes to the places of the sacrifice of the gods; *vareṇyam*, worthy of choice; *mitraṃ na śevam*: as a friend gives happiness, so you are the one who gives happiness."
 
@@ -7767,7 +7767,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 58 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Vyākaraṇa-prakriyā** *(pp. 429–430 — grammar pages, noted briefly)*
 - **dadhuḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ* third plural; *parasmaipadānāṃ ṇalatusus…*: *us*; doubling; *hrasva*; *jaśtva*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: *ā* dropped; *ru*, *visarga*; since *tvā* follows, *yuṣmattatakṣuḥṣvantaḥpādam* (Pā. 8-3-103): *visarjanīya* becomes *ṣ*: *dadhuṣṭvā*.
-- **suhavam**: *hve ñ spardhāyāṃ śabde ca*; *īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal*: *khal* though no cause, with *su*; *bahulaṃ chandasi*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*: earlier form; *guṇa*, *avādeśa*; *lit*: acute before the suffix; *gatikārakopapadāt kṛt*: *kṛdanta* accent.
+- **suhavam**: *hve ñ spardhāyāṃ śabde ca*; *īṣadduḥsuṣu kṛcchrākṛcchrārtheṣu khal* (Pā. 3-3-126): *khal* though no cause, with *su*; *bahulaṃ chandasi*: *saṃprasāraṇa*; *saṃprasāraṇāc ca*: earlier form; *guṇa*, *avādeśa*; *liti* (Pā. 6-1-193): acute before the suffix; *gatikārakopapadāt kṛt*: *kṛdanta* accent.
 - **hotāram**: *hu dānādanayoḥ*; *tṛn*; *nit*: initial-acute; *ṛto 'ṅ sarvanāmasthānayoḥ*: *guṇa*; *āptṛntṛc…*: lengthening of the penultimate. **|| 6 ||**
 
 ---
