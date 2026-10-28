@@ -4635,15 +4635,17 @@
 
 ### Rik 52.14 (pp. 258–, PDF 274–)
 
-**Saṃhitā-pāṭha** *(p. 258; accents printed, not reproduced; metre Jagatī)*
+**Saṃhitā-pāṭha** *(p. 258; accents as printed; metre Jagatī)*
 
-> **न यस्य द्यावापृथिवी अनु व्यचो न सिन्धवो रजसो अन्तमानशुः ।**
-> **नोत स्ववृष्टिं मदे अस्य युध्यत एको अन्यच्चकृषे विश्वमानुषक् ॥ १४ ॥**
+> **न यस्य॒ द्यावा॑पृथि॒वी अनु॒ व्यचो॒ न सिन्ध॑वो॒ रज॑सो॒ अन्त॑मान॒शुः ।** [accent ?]
+> **नोत स्ववृ॑ष्टिं॒ मदे॑ अस्य॒ युध्य॑त॒ एको॑ अ॒न्यच्च॑कृ॒षे विश्व॑मानु॒षक् ॥ १४ ॥**
 
-*na yasya dyāvāpṛthivī anu vyaco na sindhavo rajaso antam ānaśuḥ |*
-*not’a svavṛṣṭiṃ made asya yudhyata eko anyac cakṛṣe viśvam ānuṣak || 14 ||*
+*ná yásya dyā́vāpṛthivī́ ánu vyáco ná síndhavo rájaso ántam ānaśúḥ |*
+*nóta svávṛṣṭim máde asya yúdhyata éko anyác cakṛṣé víśvam ānuṣák || 14 ||*
 
-*(I read the print's "नोत" as* na uta*, the Pada's* na | uta*; the Saṃhitā writes* nota*.)*
+*(Pass: [accent ?] — the bar under* vyaco *stands between ವ್ಯ and ಚೋ; read as under ಚೋ.)*
+
+*(The print's "नोत" is* na uta*, the Pada's* na | uta*.)*
 
 **Pada-pāṭha** *(p. 258)*
 
@@ -4665,7 +4667,7 @@
 
 *yasyendrasya vyaco vyāpanaṃ dyāvāpṛthivī dyāvāpṛthivyau nānvānaśāte | prāptum asamarthe babhūvatuḥ | tathā rajaso 'ntarikṣalokasyopari sindhavaḥ syandanaśīlā āpo yasyendrasya tejaso 'ntam avasānaṃ nānaśuḥ | na prāpnuvan | utāpi ca somapānena made harṣe sati svavṛṣṭiṃ svīkṛtavṛṣṭiṃ vṛtrādiṃ yudhyato yudhyamānasyendrasya balasyāntaṃ vṛtrādayo na prāpuḥ | ato he indra ekas tvam anyat tvadvyatiriktaṃ viśvaṃ sarvaṃ bhūtajātam ānuṣak ānuṣaktaṃ cakṛṣe | sakalam api bhūtajātaṃ tvadadhīnam abhūd iti bhāvaḥ ||*
 
-*(The tail of the bhāṣya, pp. 259–261, is characterized:* dyāvāpṛthivī *(*dyauś ca pṛthivī ca*, the substitute* dyāvā *for* div *by* divo dyāvā*, Pā. 6-3-29 as read [?]; *pṛthivī *with the* ṅīṣ *of* ṣid gaurādibhyaś ca*; *devatādvandve ca *so that both members keep their accent; the quoted Vedic* āpṛthivī rudrapūṣamanthiṣu *(Ṛ./Kāṭh. [?]) about the prohibition);* vyacaḥ *(*vyaca vyājīkaraṇe*, tudādi, Uṇādi* asun*, "*vyaceḥ kuṭādittvam anasi*" Kā. 1-2-1 as read, [?]);* ānaśuḥ *(*aśū vyāptau*, the Vedic* parasmaipada*, the* uṣ *for* jhi *by* parasmaipadānāṃ ṇalatusus…*, reduplication, lengthening of the reduplicative vowel and the augment* nuṭ *by* aśnoteś ca*, *yadvṛttānnityam* barring the* nighāta*);* yudhyataḥ*;* cakṛṣe.)*
+*(The tail of the bhāṣya, pp. 259–261, is characterized:* dyāvāpṛthivī *(*dyauś ca pṛthivī ca*, the substitute* dyāvā *for* div *by* divo dyāvā*, Pā. 6-3-29; *pṛthivī *with the* ṅīṣ *of* ṣid gaurādibhyaś ca*; *devatādvandve ca *so that both members keep their accent; the quoted Vedic* āpṛthivī rudrapūṣamanthiṣu *(no reference printed) about the prohibition);* vyacaḥ *(*vyaca vyājīkaraṇe*, tudādi, Uṇādi* asun*, "*vyaceḥ kuṭādittvam anasi*" Kā. 1-2-1 as read, [?]);* ānaśuḥ *(*aśū vyāptau*, the Vedic* parasmaipada*, the* uṣ *for* jhi *by* parasmaipadānāṃ ṇalatusus…*, reduplication, lengthening of the reduplicative vowel and the augment* nuṭ *by* aśnoteś ca*, *yadvṛttānnityam* barring the* nighāta*);* yudhyataḥ*;* cakṛṣe.)*
 
 **Translation of the bhāṣya:** "That Indra whose *vyacaḥ*, pervasion, *dyāvāpṛthivī*, heaven and earth, *nānvānaśāte*, did not reach — the two were unable to attain it. And of that Indra, *rajasaḥ*, above the atmosphere-world, the *sindhavaḥ*, the streaming waters, did not attain *antam*, the end, the limit of his brilliance. And further, *made*, when delighted by the drinking of soma, *svavṛṣṭim*, with Vṛtra and the like, who had taken the rain to themselves, *yudhyataḥ*, of Indra fighting — Vṛtra and the rest did not attain *antam*, the limit of his strength. Therefore, O Indra, you alone, *anyat viśvam*, everything other than you, all that is born, *ānuṣak*, in succession, *cakṛṣe*, you have made [dependent]: the whole host of beings has become subject to you — this is the sense."
 
@@ -4681,15 +4683,15 @@
   > **यो भूलोकान्तरिक्षलोकद्युलोकान् व्याप्यावशेषस्थितिं तिष्ठति यस्य च बलं वृत्रहननप्रसङ्गे केनापि परिमितत्वेन न ज्ञातं स इन्द्र एव विश्वस्यैतस्य वस्तुमात्रस्य निर्माता भवतीति भावः ॥**
 
   *yo bhūlokāntarikṣalokadyulokān vyāpyāvaśeṣasthitiṃ tiṣṭhati yasya ca balaṃ vṛtrahananaprasaṅge kenāpi parimitatvena na jñātaṃ sa indra eva viśvasyaitasya vastumātrasya nirmātā bhavatīti bhāvaḥ ||* — "He who, having pervaded the earth-world, the atmosphere-world and the heaven-world, still stands with something left over, and whose strength at the time of slaying Vṛtra was not known by anyone as limited — that Indra alone is the maker of this whole world, of every single thing: this is the sense." The Kannada adds: "Though the strength and valour of Indra pervade the earth, atmosphere and heaven worlds, there is still some of it left over. No man can truly know how great the glory of such deeds of Indra as the slaying of Vṛtra is. It is this Indra who has created all the things that are in this world."
-- **vyacaḥ** — "*Vyāpanaṃ vyacaḥ*: by the sūtra '*vyaceḥ kuṭādittvam anasi*' (Kā. 1-2-1-1 as read [?]) the root *vyac* takes the form *vyacaḥ* and gives the sense 'pervasion'."
+- **vyacaḥ** — "*Vyāpanaṃ vyacaḥ*: by the sūtra '*vyaceḥ kuṭādittvam anasi*' (Kā. 1-2-1-1) the root *vyac* takes the form *vyacaḥ* and gives the sense 'pervasion'."
 - **sindhavaḥ** — "*Syandanaśīlāḥ āpaḥ*: it gives the sense of water, whose nature it is to flow always."
 - **svavṛṣṭim** — "Vṛtra and the like, who have the capacity to stop the rain and hold it back."
 - **ānuṣak** — "'Closely connected, attached': the sense 'dependent, being in close connection' is shown."
 
 **Vyākaraṇa-prakriyā** *(pp. 260–261 — grammar pages, noted briefly)*
-- **dyāvāpṛthivī**: "*dyauś ca pṛthivī ca*"; *divo dyāvā* (Pā. 6-3-29 as read [?]) gives the substitute *dyāvā* when the second member follows, and it is made initial-acute by *nipātana*; the word *pṛthivī*, as one of the *ṣid gaurādi* words, takes *ṅīṣ* and is end-acute; *devatādvandve ca* (Pā. 6-2-141 as read [?]) keeps the original accent of both members; though *nottarapade 'nudāttādau* (Pā. 6-2-… as read [?]) would forbid the first member's natural accent when the second member, *pṛthivī*, begins with a non-acute, the prohibition does not apply when *pṛthivī* is the second member, since it is explicitly stated in "*āpṛthivī rudrapūṣamanthiṣu*" [as read, [?]].
-- **vyacaḥ**: *vyaca vyājīkaraṇe*; *tudādi*; the Uṇādi *asun*; "*vyaceḥ kuṭādittvam anasi*" (Kā. 1-2-1-1 as read [?]), because it is said "*paryudāsa*" for *asun*, *ṅittva* does not come; hence *grahijyā…* *saṃprasāraṇa* also does not come; since *asun* is *nit*, initial-acute.
-- **ānaśuḥ**: *aśū vyāptau*; *vyatyayo bahulam* gives the *parasmaipada*; *liṭ* third plural *jhi*, replaced by *us* by *parasmaipadānāṃ ṇalatusus…*; being *liṅ*-nimitta, reduplication; *halādiḥ śeṣaḥ*; for the *guṇa*'s barrier, *ata ādeḥ* lengthens the reduplicative *a*; *aśnoteś ca* (Pā. 7-4-… as read [?]) gives the augment *nuṭ* after the long vowel of the reduplicative syllable: *ānaśuḥ*; since the word *yasya* is connected, *yadvṛttānnityam* forbids the *nighāta*, and the accent comes by the suffix, end-acute.
+- **dyāvāpṛthivī**: "*dyauś ca pṛthivī ca*"; *divo dyāvā* (Pā. sū. 6-3-29) gives the substitute *dyāvā* when the second member follows, and it is made initial-acute by *nipātana*; the word *pṛthivī*, as one of the *ṣid gaurādi* words, takes *ṅīṣ* and is end-acute; *devatādvandve ca* (Pā. sū. 6-2-141) keeps the original accent of both members; though *nottarapade 'nudāttādau* (Pā. sū. 6-2-142) would forbid the first member's natural accent when the second member, *pṛthivī*, begins with a non-acute, the prohibition does not apply when *pṛthivī* is the second member, since it is explicitly stated in "*āpṛthivī rudrapūṣamanthiṣu*" [as read, [?]].
+- **vyacaḥ**: *vyaca vyājīkaraṇe*; *tudādi*; the Uṇādi *asun*; "*vyaceḥ kuṭādittvam anasi*" (Kā. 1-2-1-1), because it is said "*paryudāsa*" for *asun*, *ṅittva* does not come; hence *grahijyā…* *saṃprasāraṇa* also does not come; since *asun* is *nit*, initial-acute.
+- **ānaśuḥ**: *aśū vyāptau*; *vyatyayo bahulam* gives the *parasmaipada*; *liṭ* third plural *jhi*, replaced by *us* by *parasmaipadānāṃ ṇalatusus…*; being *liṅ*-nimitta, reduplication; *halādiḥ śeṣaḥ*; for the *guṇa*'s barrier, *ata ādeḥ* lengthens the reduplicative *a*; *aśnoteś ca* (Pā. sū. 7-4-72, read at low zoom) gives the augment *nuṭ* after the long vowel of the reduplicative syllable: *ānaśuḥ*; since the word *yasya* is connected, *yadvṛttānnityam* forbids the *nighāta*, and the accent comes by the suffix, end-acute.
 - **yudhyataḥ**: *yudha saṃprahāre*; *śatṛ* in the sense of *laṭ*; *divādibhyaḥ śyan*: *yudhyat*; genitive singular; the *śatṛ* is *anudātta* by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam…*; *śyan* being *śit*, the initial acute.
 - **cakṛṣe**: after a word that is not a *tiṅ*… *tiṅ atiṅaḥ* gives all-*anudātta* accent; *liṭ* second singular. **|| 14 ||**
 
