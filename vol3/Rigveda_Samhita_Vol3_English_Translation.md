@@ -10622,12 +10622,12 @@ Since Hiraṇyastūpa, the seer of this sūkta, was born in the Aṅgirasa line,
 
 *(As printed in four lines. Line 3 flagged [accent ?]: the second bar of* द्विमाता *stands between* मा *and* ता*; taken under* मा*. Line 4 flagged [accent ?]: the stroke stands over* क *and the bar under* ति *of* कतिधा*.)*
 
-> त्वम॑ग्ने प्र॒थमो॑ अङ्गि॑रस्तमः क॒विर्दे॒वानां॒ परि॑
+> त्वम॑ग्ने प्रथ॒मो अङ्गि॑रस्तमः क॒विर्दे॒वानां॒ परि॑
 > भूषसि व्र॒तं ।
 > वि॒भुर्विश्व॑स्मै॒ भुव॑नाय॒ मेधि॑रो द्वि॒मा॒ता श॒युः [accent ?]
 > क॑ति॒धा चि॑दा॒यवे॑ ॥ २ ॥ [accent ?]
 
-> *tvámagne prathámo áṅgirastamaḥ kavírdevā́nāṃ pári*
+> *tvámagne prathamó áṅgirastamaḥ kavírdevā́nāṃ pári*
 > *bhūṣasi vratáṃ |*
 > *vibhúrvíśvasmai bhúvanāya médhiro dvimātā́ śayúḥ* [accent ?]
 > *katidhā́ cidāyáve || 2 ||* [accent ?]
