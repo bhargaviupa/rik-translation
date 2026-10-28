@@ -8588,15 +8588,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.8 (pp. 518–521, PDF 532–535)
+### Rik 44.8 (pp. 518–521, PDF 532–535; better scan PDF 533–536)
 
-**Saṃhitā-pāṭha** *(p. 518; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 518)*
 
-> **सवितारमुषसमश्विना भगमग्निं व्युष्टिषु क्षपः ।**
-> **कण्वासस्त्वा सुतसोमास इन्धते हव्यवाहं स्वध्वर ॥ ८ ॥**
+> **स॒वि॒तार॑मु॒षस॑म॒श्विना॒ भग॑म॒ग्निं व्यु॑ष्टिषु॒ क्षपः॑ ।**
+> **कण्वा॑सस्त्वा सु॒तसो॑मास इन्धते ह॒व्यवाहं॑ स्वध्वर ॥**
 
-*savitāram uṣasam aśvinā bhagam agniṃ vyuṣṭiṣu kṣapaḥ |*
-*kaṇvāsas tvā sutasomāsa indhate havyavāhaṃ svadhvara || 8 ||*
+*savitā́ram uṣásam aśvínā bhágam agníṃ vyuṣṭiṣu kṣápaḥ |*
+*káṇvāsas tvā sutásomāsa indhate havyávā́haṃ svadhvara ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The print sets* savitāra muṣasam *with a space, and gives only "॥" after the Saṃhitā; the Pada ends "॥ 8 ॥".)*
 
 **Pada-pāṭha** *(p. 518)*
 
@@ -8610,13 +8612,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 *kaṇvāsaḥ | tvā | suta-somāsaḥ | indhate | havya-vāham |*
 *su-adhvara || 8 ||*
 
+### Page 519
+
 **Sāyaṇa-bhāṣya** *(p. 519)*
 
-> **हे स्वध्वर शोभनयोगयुक्ताग्ने । व्युष्टिषूषःकालेषु श्रवोऽन्नमाहुतिरूपमभिलक्ष्य सवित्रादीन्देवानावहेत्यनुवर्तते । स्वध्वरेत्याहवनीयोग्नेः सम्बोधनं । अग्निमिति हविष उद्देश्यं देवतान्तरमुच्यते सुतसोमासोऽभिषुतसोमाः कण्वासो मेधाविन ऋत्विजो हव्यवाहं हविषः प्रापकमाहवनीयं त्वामिन्धते दीपयन्ति ॥ व्युष्टिषु । उभी विवासे । विवासो वर्जनं । व्युच्छ्यते तमसा वर्ज्यते इति व्युष्टिरुषःकालः । कर्मणि क्तिनि क्रादौ च नितीति गतेः प्रकृतिस्वरत्वं । संहितायामुदात्तस्वरितयोर्यण इति परस्यानुदात्तस्य स्वरितत्वं । क्षपः । क्षपेति रात्रिनाम । जस्यातो धातोः । पा. ६-४-१४० । इत्यत्रात इति योगविभागादाकारलोपः । सुतसोमासः । सुतः सोमो यैस्ते । निष्ठेति पूर्वनिपातः । पा. २-२-३६ । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । हव्यवाहं । हव्यं वहतीति हव्यवाट् । वहश्चेति ण्विप्रत्ययः ॥ ८ ॥**
+> **हे स्वध्वर शोभनयोगयुक्ताग्ने । व्युष्टिषूषःकालेषु श्रवोऽन्नमाहुतिरूपमभिलक्ष्य सवित्रादीन्देवानावहेत्यनुवर्तते । स्वध्वरेत्याहवनीयोग्नेः सम्बोधनं । अग्निमिति हविष उद्देश्यं देवतान्तरमुच्यते सुतसोमासोऽभिषुतसोमाः कण्वासो मेधाविन ऋत्विजो हव्यवाहं हविषः प्रापकमाहवनीयं त्वामिन्धते दीपयन्ति ॥ व्युष्टिषु । उभी विवासे । विवासो वर्जनं । व्युच्छ्यते तमसा वर्ज्यते इति व्युष्टिरुषःकालः । कर्मणि क्तिनि क्रादौ च नितीति गतेः प्रकृतिस्वरत्वं । संहितायामुदात्तस्वरितयोर्यण इति परस्यानुदात्तस्य स्वरितत्वं । क्षपः । क्षपेति रात्रिनाम । जस्यातो धातोः । पा. ६-४-१४० । इत्यत्रात इति योगविभागादाकारलोपः । सुतसोमासः । सुतः सोमो यैस्ते । निष्ठेति पूर्वनिपातः । पा. २-२-३६ । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । हव्यवाहं । हव्यं वहतीति हव्यवाट् । वहश्चेति ण्विप्रत्ययः ॥**
 
-*he svadhvara śobhanayogayuktāgne | vyuṣṭiṣūṣaḥkāleṣu śravo 'nnam āhutirūpam abhilakṣya savitrādīn devān āvahety anuvartate | svadhvarety āhavanīyognaḥ saṃbodhanaṃ | agnim iti haviṣa uddeśyaṃ devatāntaram ucyate sutasomāso 'bhiṣutasomāḥ kaṇvāso medhāvina ṛtvijo havyavāhaṃ haviṣaḥ prāpakam āhavanīyaṃ tvām indhate dīpayanti || vyuṣṭiṣu | ubhī vivāse | vivāso varjanaṃ | vyucchyate tamasā varjyate iti vyuṣṭir uṣaḥkālaḥ | karmaṇi ktini krādau ca niti iti gateḥ prakṛtisvaratvaṃ | saṃhitāyām udāttasvaritayor yaṇa iti parasyānudāttasya svaritatvaṃ | kṣapaḥ | kṣapeti rātrināma | jasy āto dhātoḥ | pā. 6-4-140 | ity atrāta iti yogavibhāgād ākāralopaḥ | sutasomāsaḥ | sutaḥ somo yais te | niṣṭheti pūrvanipātaḥ | pā. 2-2-36 | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | havyavāhaṃ | havyaṃ vahatīti havyavāṭ | vahaś ceti ṇvipratyayaḥ || 8 ||*
+*he svadhvara śobhanayogayuktāgne | vyuṣṭiṣūṣaḥkāleṣu śravo 'nnam āhutirūpam abhilakṣya savitrādīn devān āvahety anuvartate | svadhvarety āhavanīyogneḥ saṃbodhanaṃ | agnim iti haviṣa uddeśyaṃ devatāntaram ucyate sutasomāso 'bhiṣutasomāḥ kaṇvāso medhāvina ṛtvijo havyavāhaṃ haviṣaḥ prāpakam āhavanīyaṃ tvām indhate dīpayanti || vyuṣṭiṣu | ubhī vivāse | vivāso varjanaṃ | vyucchyate tamasā varjyate iti vyuṣṭir uṣaḥkālaḥ | karmaṇi ktini krādau ca niti iti gateḥ prakṛtisvaratvaṃ | saṃhitāyām udāttasvaritayor yaṇa iti parasyānudāttasya svaritatvaṃ | kṣapaḥ | kṣapeti rātrināma | jasy āto dhātoḥ | pā. 6-4-140 | ity atrāta iti yogavibhāgād ākāralopaḥ | sutasomāsaḥ | sutaḥ somo yais te | niṣṭheti pūrvanipātaḥ | pā. 2-2-36 | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | havyavāhaṃ | havyaṃ vahatīti havyavāṭ | vahaś ceti ṇvipratyayaḥ ||*
 
-*(In the bhāṣya "āhavanīyognaḥ" (for* āhavanīyo 'gneḥ*) is as read, doubtful [?]; the clause "ktini krādau ca niti" and the Pāṇini numbers are read with doubt.)*
+*(Checked on the better scan, PDF 534: the print has "āhavanīyogneḥ" [sic, for* āhavanīyo 'gneḥ*]; Pā. 6-4-140 and 2-2-36; the bhāṣya ends "॥" without a number.)*
 
 **Translation:** "O *svadhvara*, Agni, endowed with fine sacrificial connections — *vyuṣṭiṣu*, at the times of dawn, *śravaḥ*, food, in the form of the offering, aiming at: 'bring the gods beginning with Savitṛ' is carried over. '*Svadhvara*' is the address to the *Āhavanīya* fire. '*Agnim*' is said of another deity who is the object of the oblation. *Sutasomāsaḥ*, those who have pressed the Soma, *kaṇvāsaḥ*, the wise priests, *havyavāham*, the bearer of oblations, the *Āhavanīya* which conveys the oblation — you — *indhate*, they kindle. *Vyuṣṭiṣu*: root *ubhī vivāse*; '*vivāsaḥ*' is *varjanam*; the time of dawn, when [the world] is specially dispelled by darkness. *Kṣapaḥ*: *kṣapā* is a name for night; the loss of the *ā* by the *yogavibhāga* of *ata* in *jasy āto dhātoḥ* [Pā. 6-4-140]. *Sutasomāsaḥ*: '[those] by whom the Soma is pressed'; *niṣṭhā* comes first in the compound [Pā. 2-2-36]; the accent of the first member in the bahuvrīhi. *Havyavāham*: '*havyaṃ vahati*', *havyavāṭ*; *ṇvip* by *vahaś ca*."
 
@@ -8624,7 +8628,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Bhāvārtha** *(p. 519)* — "O Agni, you are endowed with excellent sacrifices. At the times of dawn, immediately after the night, bring to our sacrifice Savitṛ, Uṣas, the Aśvin deities, Bhaga and the god Agni. The wise priests press the Soma juice and make you, who carry the oblations, blaze."
 
-**English Translation (the source's own, p. 519)** — "O Agni, who is worshipped well in the sacrifices, bring hither, at the break of the day preceeding [sic] the night, Savitru, Ushas, the Aswins, Bhaga and Agni ; the Kanwas having pressed and poured out the soma libations, kindle you, the carrier of oblation ( to the gods )." *(The source's heading for this English reads "Englih Translation" — a misprint [sic]; "Agni" is printed "Agui" once.)*
+**English Translation (the source's own, p. 519)** — "O Agni, who is worshipped well in the sacrifices, bring hither, at the break of the day preceeding [sic] the night, Savitru, Ushas, the Aswins, Bhaga and Agni ; the Kanwas having pressed and poured out the soma libations, kindle you, the carrier of oblation ( to the gods )." *(The better scan shows "English Translation" and "Agni" correctly; the misprints noted earlier came from the old scan.)*
+
+### Page 520
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 520**
 - **savitāram, uṣasam, aśvinā, bhagam, agnim** — "the ṛṣi prays Agni to come bringing these deities. Since Agni is also among the deities here, it is impossible that Agni should call Agni himself. So the main intention is: 'together with these deities we invite you too'."
@@ -8636,9 +8642,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Vyākaraṇa-prakriyā** *(pp. 520–521 — grammar pages, noted briefly)*
 - **vyuṣṭiṣu**: "explained in the third mantra of this sūkta."
-- **kṣapaḥ**: "*kṣapā* is a name for night. After it *jas*; *jasy āto dhātoḥ* [Pā. 6-4-140 as read]: the final *ā* of a *bha*-named *aṅga* that ends in an *ā*-ending root is lost; but *kṣapā* is not an *ā*-ending root; so this sūtra cannot give the loss here. Here the sūtra has been divided (*yogavibhāga*) into *ātaḥ*: [it provides that] the final *ā* of an *ā*-ending *aṅga* that has the *bha* name is lost; the sense of the second part is as said before; here the loss of the *ā* comes by *ātaḥ*."
-- **sutasomāsaḥ**: root *ṣuñ abhiṣave*; *kta* in the passive sense; "*sutaḥ somo yaiḥ te*", a bahuvrīhi; *niṣṭhā* [Pā. 2-2-36 as read]: in a bahuvrīhi a *kta*/*ktavatu*-ending word is used as the first member; so *suta* is put first; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member.
-- **havyavāham**: the same *ṇyuṭ* as in the first pāda of Rik 2 [Ṛg. 1-44-2] is possible by *havye 'nantaḥpādam*; but here the word stands at the beginning of the fourth *pāda*, so *havye 'nantaḥ…* does not apply; and *vahaś ca* — वहश्च — [Pā. 3-2-64 as read]: when a *subanta* is the *upapada*, *ṇvi* after *vah*; so *ṇvi*; *upadhāvṛddhi*, *ṭh-tva* [*ḍhatva*] and the like. Rik 8 ends here (*|| 8 ||*).
+- **kṣapaḥ**: "*kṣapā* is a name for night. After it *jas*; *āto dhātoḥ* (printed "Pā. 6-140" [as printed; for 6-4-140]): the final *ā* of a *bha*-named *aṅga* that ends in an *ā*-ending root is lost; but *kṣapā* is not an *ā*-ending root; so this sūtra cannot give the loss here. Here the sūtra has been divided (*yogavibhāga*) into *ātaḥ*: [it provides that] the final *ā* of an *ā*-ending *aṅga* that has the *bha* name is lost; the sense of the second part is as said before; here the loss of the *ā* comes by *ātaḥ*."
+- **sutasomāsaḥ**: root *ṣuñ abhiṣave*; *kta* in the passive sense; "*sutaḥ somo yaiḥ te*", a bahuvrīhi; *niṣṭhā* (Pā. 2-2-36): in a bahuvrīhi a *kta*/*ktavatu*-ending word is used as the first member; so *suta* is put first; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member.
+### Page 521
+
+- **havyavāham**: the same *ṇyuṭ* as in the first pāda of Rik 2 (Ṛg. Saṃ. 1-44-2) is possible by *havye 'nantaḥpādam*; but here the word stands at the beginning of the fourth *pāda*, so *havye 'nantaḥ…* does not apply; and *vahaś ca* — वहश्च — (Pā. 3-2-64): when a *subanta* is the *upapada*, *ṇvi* after *vah*; so *ṇvi*; *upadhāvṛddhi*, *ṭh-tva* [*ḍhatva*] and the like. Rik 8 ends here (*|| 8 ||*).
 
 ---
 
