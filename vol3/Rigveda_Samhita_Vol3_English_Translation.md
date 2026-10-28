@@ -8268,38 +8268,66 @@ the restriction "अव्यये नञ्कुनिपातानाम�
 
 ---
 
-### Pages 336–338 — Sūkta 25, Rik 18
+### Page 336 (lower) — Sūkta 25, Rik 18
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> दर्शं नु विश्वदर्शतं दर्शं रथमधि क्षमि ।
-> एता जुषत मे गिरः ॥ १८ ॥
+> दर्शं॒ नु वि॒श्वद॑र्शतं॒ दर्शं॒ रथ॒मधि॒ क्षमि॑ ।
+> एता जु॑षत मे गिरः॑ ॥१८॥ [accent ?]
+>
+> *darśaṃ nú viśvádarśataṃ dárśaṃ ráthamádhi kṣámi |*
+> *etā́ juṣata me gíraḥ ||18||* [accent ?]
 
-*darśaṃ nu viśvadarśataṃ darśaṃ ratham adhi kṣami | etā juṣata me giraḥ || 18 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Line 1: bars under* द*(र्शं),* वि*,* तं*,* द*(र्शं),* थ*,* धि*; strokes over* द *(of -दर्शतं) and* मि*. Flagged [accent ?] on line 2: only two strokes are printed, over* जु *and over* रः*; no anudātta bars are visible under* ए *or* मे *in the Saṃhitā, although the Pada marks* एताः*,* जुषत *and* मे*; only the printed strokes are given.*)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥** *(p. 337)*
 
-> दर्शम् । नु । विश्वऽदर्शतम् । दर्शम् । रथम् । अधि । क्षमि ॥ एताः । जुषत । मे । गिरः ॥ १८ ॥
+> दर्शं । नु । विश्वऽदर्शतं । दर्शं । रथं । अधि । क्षमि । एताः । जुषत । मे । गिरः ॥१८॥
 
-*darśam | nu | viśva-darśatam | darśam | ratham | adhi | kṣami || etāḥ | juṣata | me | giraḥ || 18 ||*
+> *darśaṃ | nu | viśva-darśataṃ | darśaṃ | rathaṃ | adhi | kṣami | etāḥ | juṣata | me | giraḥ ‖18‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 337)*
+### Page 337 — Rik 18: bhāṣya, word-meanings, overall sense, English
 
-> विश्वदर्शतं सर्वैर्दर्शनीयमस्मदनुग्रहार्थमत्राविर्भूतं वरुणं दर्शं नु । अहं दृष्टवानस्मि । क्षमि क्षमायां भूमौ रथं वरुणसंबन्धिनमधि दर्शं । आधिक्येन दृष्टवानस्मि । एताः उच्यमाना मे गिरो मदीयाः स्तुतीर्जुषत । वरुणः सेवितवान् ॥ दर्शं । दृशेरिरितो वा । पा. ३-१-५७ । इति च्लेरङादेशः । अङ्परत्वे ऋदृशोऽङि गुणः । पा. ७-४-१६ । इति गुणः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडागमाभावः । विश्वदर्शतम् । दृशेर्भ्यमृदृशीत्यादिना । उ. ३-१०९ । अतच्प्रत्ययान्तो दर्शतशब्दः । मरुद्द्वृधादित्वात्पूर्वपदान्तोदात्तत्वम् । पा. ६-२-१०२-३ । यद्वा । विश्वं दर्शनीयमस्येति बहुव्रीहिः । बहुव्रीहौ विश्वं संज्ञायाम् । पूर्वपदान्तोदात्तत्वम् । क्षमि । आतो धातोः । पा. ६-४-१४० । इत्येतत्र इत्यादियोगविभागाद्धातोराकार लोपः ॥
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-*viśvadarśataṃ sarvair darśanīyam asmadanugrahārtham atrāvirbhūtaṃ varuṇaṃ darśaṃ nu | ahaṃ dṛṣṭavān asmi | kṣami kṣamāyāṃ bhūmau rathaṃ varuṇasaṃbandhinam adhi darśaṃ | ādhikyena dṛṣṭavān asmi | etāḥ ucyamānā me giro madīyāḥ stutīr juṣata | varuṇaḥ sevitavān || darśam | dṛśer irito vā | pā. 3-1-57 | iti cleḥ aṅādeśaḥ | aṅparatve ṛdṛśo 'ṅi guṇaḥ | pā. 7-4-16 | iti guṇaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍāgamābhāvaḥ | viśvadarśatam | dṛśer bhyamṛdṛśī ity ādinā | u. 3-109 | atacpratyayānto darśataśabdaḥ | marudvṛdhādi­tvāt pūrvapadāntodāttatvam | pā. 6-2-102-3 | yadvā | viśvaṃ darśanīyam asyeti bahuvrīhiḥ | bahuvrīhau viśvaṃ saṃjñāyām | pūrvapadāntodāttatvam | kṣami | āto dhātoḥ | pā. 6-4-140 | ity etatra ity ādiyogavibhāgād dhātor ākāra lopaḥ ||*
+> विश्वदर्शतं सर्वैर्दर्शनीयमस्मदनुग्रहार्थमत्राविर्भूतं वरुणं दर्शं नु । अहं दृष्टवान्खलु । क्षमि क्षमायां भूमौ रथं वरुणसंबंधिनमधि दर्शं । आधिक्येन दृष्टवानस्मि । एता उच्यमाना मे गिरो मदीयाः स्तुतीर्जुषत । वरुणः सेवितवान् ॥ दर्शं । दृशेरिरितो वा । पा. ३-१-५७ । इति च्लेरङादेशः । ऋदृशोऽङि गुणः । पा. ७-४-१६ । इति गुणः । विश्वदर्शतं । दृशेर्भृमृदृशीत्यादिना । उ. ३-१०९ । अतच्प्रत्ययांतो दर्शतशब्दः । मरुद्वृधादित्वात्पूर्वपदांतोदात्तत्वं । पा. ६-२-१०६-२ । यद्वा । विश्वं दर्शनीयमस्येति बहुव्रीहिः । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदांतोदात्तत्वं । क्षमि । आतो धातोः । पा. ६-४-१४० । इत्यत्रात इति योगविभागादाकारलोपः ॥
 
-**Translation:** "Viśvadarśatam — Varuṇa, to be seen by all, who has appeared here for the sake of showing favour to us — *darśaṃ nu*: I have indeed seen. *Kṣami* — on the earth — I have seen his chariot (*ratham adhi darśam*) — in the highest degree. May Varuṇa receive (*juṣata*) these (*etāḥ*) praises (*giraḥ*) of mine that are being uttered; he has partaken. *Darśam*: *aṅ* for *cli* by P. 3-1-57 [*irito vā*]; if followed by *aṅ*, guṇa by P. 7-4-16; no *aṭ* since it is joined with *mā*, etc. *Viśvadarśatam*: from *dṛś* with *atac* (Uṇ. 3-109); the first member keeps the acute at its end by the *marudvṛdhādi* rule; or, as a *bahuvrīhi* 'whose appearance is all-pleasing', with the first member's final acute by P. 6-2-106 [*bahuvrīhau viśvaṃ saṃjñāyām*]. *Kṣami*: loss of the root's *ā* by P. 6-4-140 [*āto dhātoḥ*] — [as one reading: 'the *ā*-ending noun *kṣamā*, locative']." *(Grammar pages 338, noted briefly: the words treated are* darśam *[*dṛśir prekṣaṇe*, *bhvādi*; *luṅ* 1st person singular in the Veda; *aṅ* for *cli* by P. 3-1-57 *irito vā* since the root has *i*-*it*; guṇa of *ṛ* by P. 7-4-16 *ṛdṛśo 'ṅi guṇaḥ*; *aṭ* absent by *bahulaṃ chandasy amāṅyoge 'pi*],* viśvadarśatam *[*dṛś* + *atac* by Uṇ. 3-109 *bhṛmṛdṛśī…*; the compound *viśva-darśata* takes the end-acute of its first member by P. 6-2-106 *bahuvrīhau viśvaṃ saṃjñāyām* because of the sense of a name; or by the *marudvṛdhādi* rule] and* kṣami *[*kṣamā* is a feminine noun in *ā*; locative singular *ṅi*; the final *ā* of the stem is lost by P. 6-4-140 *āto dhātoḥ* with the *yoga-vibhāga* device — hence *kṣami*]; numerals as read, pointers only.)*
+> *viśvadarśataṃ sarvairdarśanīyamasmadanugrahārthamatrāvirbhūtaṃ varuṇaṃ darśaṃ nu | ahaṃ dṛṣṭavānkhalu | kṣami kṣamāyāṃ bhūmau rathaṃ varuṇasaṃbaṃdhinamadhi darśaṃ | ādhikyena dṛṣṭavānasmi | etā ucyamānā me giro madīyāḥ stutīrjuṣata | varuṇaḥ sevitavān ‖ darśaṃ | dṛśeririto vā | pā. 3-1-57 | iti cleraṅādeśaḥ | ṛdṛśo 'ṅi guṇaḥ | pā. 7-4-16 | iti guṇaḥ | viśvadarśataṃ | dṛśerbhṛmṛdṛśītyādinā | u. 3-109 | atacpratyayāṃto darśataśabdaḥ | marudvṛdhāditvātpūrvapadāṃtodāttatvaṃ | pā. 6-2-106-2 | yadvā | viśvaṃ darśanīyamasyeti bahuvrīhiḥ | bahuvrīhau viśvaṃ saṃjñāyāmiti pūrvapadāṃtodāttatvaṃ | kṣami | āto dhātoḥ | pā. 6-4-140 | ityatrāta iti yogavibhāgādākāralopaḥ ‖*
 
-**॥ Prati-padārthaḥ ॥** *(p. 337)* **विश्वदर्शतम् (viśvadarśatam)** — Varuṇa, seen with delight by all | **दर्शं नु (darśaṃ nu)** — have I seen indeed | **क्षमि (kṣami)** — on the earth | **रथम् (ratham)** — Varuṇa's chariot | **अधि दर्शम् (adhi darśam)** — have well seen | **एताः मे गिरः (etāḥ me giraḥ)** — these praises of mine, which I utter | **जुषत (juṣata)** — [Varuṇa] has accepted and enjoyed.
+*(Numbers zoom-read at 450 dpi: पा. ३-१-५७, ७-४-१६, उ. ३-१०९, पा. ६-२-१०६-२, ६-४-१४०.)*
 
-**॥ Bhāvārthaḥ ॥** To favour us all, I have seen Varuṇa — seen with delight by all — present before me. I have also seen his chariot on the earth. Varuṇa has accepted and enjoyed these praises that I utter.
+*Gist:* I have indeed seen Varuṇa, worthy to be seen by all, who has appeared here to favour us; I have seen his chariot on the earth; he has accepted these words of praise of mine.
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **विश्वदर्शतं (viśvadarśataṃ)** — Varuṇa, who is seen with joy by all | **दर्शं नु (darśaṃ nu)** — I have truly seen | **क्षमि (kṣami)** — on the earth | **रथं (rathaṃ)** — Varuṇa's chariot | **अधि दर्शं (adhi darśaṃ)** — I have seen well | **एताः मे गिरः (etāḥ me giraḥ)** — these words of praise that I utter | **जुषत (juṣata)** — Varuṇa has accepted and enjoyed.
 
-> I have seen him whom all love to see; I have seen his chariot upon earth; he has accepted these my praises.
+**॥ Bhāvārthaḥ ॥** I have indeed seen Varuṇa, who has become visible to show favour to us all and who brings joy to all. I have also seen his chariot upon the earth. Varuṇa has accepted and enjoyed these words of praise that I utter.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 338)* **विश्वदर्शतम्** — *sarvair darśanīyam asmadanugrahārtham āvirbhūtaṃ varuṇam*: Varuṇa, seen with joy by all, who has appeared here, visible before everyone, for our blessing. **दर्शं नु** — I have seen indeed. **अधि** — in the highest degree; well. **एताः जुषत मे गिरः** — 'let Varuṇa partake [be pleased with] these words of mine which are in the form of praise'; hence the intention is: 'let him accept them and be gratified by them'.
+**॥ English Translation ॥** *(as printed)*
+
+> I have seen him whom all love to see ; I have seen his chariot upon earth ; he has accepted these my praises.
+
+### Page 338 — Rik 18: Special Topics, grammar
+
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**विश्वदर्शतं (viśvadarśataṃ)** — *sarvair darśanīyam asmadanugrahārtham atrāvirbhūtaṃ varuṇam*: Varuṇa, who for our favour has become manifest in this place of sacrifice and is seen by all.
+
+**दर्शं नु (darśaṃ nu)** — I have truly seen.
+
+**अधि (adhi)** — *ādhikyena*: I have seen well.
+
+**एताः जुषत मे गिरः (etāḥ juṣata me giraḥ)** — let Varuṇa enjoy these words of mine in the form of a hymn; that is, may Varuṇa accept (hear) them and be satisfied by them.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read on 450-dpi line crops, v3a)*
+
+**दर्शम् (darśam)** — *dṛśir prekṣaṇe*, bhvādi; before the *luṅ* first singular, by "इरितो वा" (Pā. Sū. 3-1-57) *aṅ* for *cli*, the root having the *ir* marker; before *aṅ* the root's *ṛ* takes guṇa by "ऋदृशोऽङि गुणः" (Pā. Sū. 7-4-16); by "बहुलं छन्दस्यमाङ्योगेऽपि" (Pā. Sū. 6-4-75) the augment *aṭ* does not come: *darśam*.
+
+**विश्वदर्शतम् (viśvadarśatam)** — the same root takes *atac* by "भृमृदृशि-" (Uṇ. Sū. 3-390, in the Kannada grammar's series; the bhāṣya gives उ. ३-१०९); with guṇa, *darśata*. Since it is read in the *marudvṛdhādi* list, for which the end-acute of the first member is prescribed (Pā. Sū. 6-2-106-2), the first member's final accent comes here. Or: by "बहुव्रीहौ विश्वं संज्ञायाम्" (Pā. Sū. 6-2-106) the first member's end-acute; then *viśvaṃ darśataṃ darśanīyam asya iti viśvadarśataḥ* is to be taken as a bahuvrīhi; since a name of Varuṇa is meant, the sense of the sūtra fits.
+
+**क्षमि (kṣami)** — *kṣamā*, a feminine stem in *ā*; before the locative singular, by the split of the sūtra "आतो धातोः" (Pā. Sū. 6-4-140), the part *ātaḥ* drops the final *ā* although it is not a root; for forms such as *ktvaḥ*, *śnaḥ*, this split is necessarily accepted there. With the loss of *ā*: *kṣami*. ॥१८॥
+
+---
+
 ### Pages 338–341 — Sūkta 25, Rik 19
 
 **॥ Saṃhitāpāṭhaḥ ॥**

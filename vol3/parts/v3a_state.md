@@ -3,8 +3,8 @@
 Range: Sūkta 24 Ṛk 14 (printed p. 288 = PDF 302) through the end of Sūkta 29 (before the Sūkta 30 heading, ~p. 458 = PDF 472). Better scan: printed = PDF − 14.
 Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
-Done through: Ṛk 25.17 (p. 336 = PDF 350).
-Next unit: Ṛk 25.18 (pp. 336–338 = PDF 350–352).
+Done through: Ṛk 25.18 (p. 338 = PDF 352).
+Next unit: Ṛk 25.19 (pp. 338–341 = PDF 352–355).
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
@@ -18,3 +18,4 @@ Open items:
 - p. 326: Pā. 6-1-1[7?]4 printed for abhyastānām ādiḥ (std 6-1-189).
 - p. 329: Pā. 6-1-188 printed for tāsyanudātteṭ (std 6-1-186).
 - p. 332: Pā. 6-1-93 printed for liti (std 6-1-193).
+- p. 336: Ṛk 25.18 Saṃhitā line 2 [accent ?] (no bars printed).
