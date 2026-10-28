@@ -7242,13 +7242,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 57.4 (pp. 402–405, PDF 418–421)
 
-**Saṃhitā-pāṭha** *(p. 402)*
+**Saṃhitā-pāṭha** *(p. 402; accents as printed)*
 
-> **इमे त इन्द्र ते वयं पुरुष्टुत ये त्वारभ्य चरामसि प्रभूवसो ।**
-> **नहि त्वदन्यो गिर्वणो गिरः सघत्क्षोणीरिव प्रति नो हर्य तद्वचः ॥ ४ ॥**
+> **इ॒मे त॑ इन्द्र॒ ते व॒यं पु॑रुष्टुत॒ ये त्वा॒रभ्य चरा॑मसि प्रभूवसो ।**
+> **न॒हि त्वद॒न्यो गि॑र्वणो॒ गिरः॒ सघ॑त्क्षोणीरि॑व॒ प्रति॑ नो हर्य तद्वचः॑ ॥ ४ ॥**
 
-*ime ta indra te vayaṃ puruṣṭuta ye tvārabhya carāmasi prabhūvaso |*
-*nahi tvad anyo girvaṇo giraḥ saghat kṣoṇīr iva prati no harya tad vacaḥ || 4 ||*
+*imé ta indra té vayáṃ puruṣṭuta yé tvārábhya cárāmasi prabhūvaso |*
+*nahí tvad anyó girvaṇo gíraḥ sághat kṣoṇī́r iva práti no harya tad vácaḥ || 4 ||*
 
 **Pada-pāṭha** *(p. 403)*
 
@@ -7260,11 +7260,11 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 403)*
 
-> **हे इन्द्र प्रभूवसो प्रभूतधन अत एव पुरुष्टुत पुरुभिर्बहुभिर्यजमानैः स्तुत ये च वयं त्वा त्वामारभ्याश्रयतयावलम्ब्य चरामसि चरामो यागे वर्तामहे त इमे वयं ते तव स्वभूताः । हे गिर्वणो गीर्भिर्वननीयेन्द्र त्वदन्यस्तत्तोऽन्यः कश्चिदपि गिरः स्तुतीर्नहि सघत् न हि प्राप्नोति । अतस्त्वं नोऽस्माकं तत्स्तुतिलक्षणं वचः प्रति हर्य । कामयस्व । क्षोणीरिव । यथा क्षोणी पृथिवी स्वकीयानि भूतजातानि कामयते ॥**
+> **हे इन्द्र प्रभूवसो प्रभूतधन अत एव पुरुष्टुत पुरुभिर्बहुभिर्यजमानैः स्तुत ये च वयं त्वा त्वामारभ्याश्रयतयावलम्ब्य चरामसि चरामो यागे वर्तामहे त इमे वयं ते तव स्वभूताः । हे गिर्वणो गीर्भिर्वननीयेन्द्र त्वदन्यस्त्वत्तोऽन्यः कश्चिदपि गिरः स्तुतीर्नहि सघत् न हि प्राप्नोति । अतस्त्वं नोऽस्माकं तत्स्तुतिलक्षणं वचः प्रति हर्य । कामयस्व । क्षोणीरिव । यथा क्षोणी पृथिवी स्वकीयानि भूतजातानि कामयते ॥**
 
-*he indra prabhūvaso prabhūtadhana ata eva puruṣṭuta purubhir bahubhir yajamānaiḥ stuta ye ca vayaṃ tvā tvām ārabhyāśrayatayāvalambya carāmasi carāmo yāge vartāmahe ta ime vayaṃ te tava svabhūtāḥ | he girvaṇo gīrbhir vananīyendra tvadanyas tatto 'nyaḥ kaścid api giraḥ stutīr nahi saghat na hi prāpnoti | atas tvaṃ no 'smākaṃ tatstutilakṣaṇaṃ vacaḥ prati harya | kāmayasva | kṣoṇīr iva | yathā kṣoṇī pṛthivī svakīyāni bhūtajātāni kāmayate ||*
+*he indra prabhūvaso prabhūtadhana ata eva puruṣṭuta purubhir bahubhir yajamānaiḥ stuta ye ca vayaṃ tvā tvām ārabhyāśrayatayāvalambya carāmasi carāmo yāge vartāmahe ta ime vayaṃ te tava svabhūtāḥ | he girvaṇo gīrbhir vananīyendra tvadanyas tvatto 'nyaḥ kaścid api giraḥ stutīr nahi saghat na hi prāpnoti | atas tvaṃ no 'smākaṃ tatstutilakṣaṇaṃ vacaḥ prati harya | kāmayasva | kṣoṇīr iva | yathā kṣoṇī pṛthivī svakīyāni bhūtajātāni kāmayate ||*
 
-*(The tail, p. 403 foot: on* carāmasi *(*cara gatibhakṣaṇayoḥ*; *laṭ*; *idantomasi*: *i* augment),* saghat *(*saghu hiṃsāyām*; *leṭ*; *aṭ*; *bahulaṃ chandasi*: *ślu*; *pādāditvān nighātābhāvaḥ*),* kṣoṇīriva *(*halṅyābbhyo…*: loss of *su*… not here: "*sulopābhāvaś chāndasaḥ*"),* harya *(*hary gatikāntyoḥ*; *loṭ*, *a*-loss), with a remark that the roots have many senses (*dhātūnām anekārthatvāt*) — noted below.)*
+*(The tail, p. 403: on* carāmasi *(*idanto masiḥ*; *śap* being *pit*, anudātta: the root's accent; no *nighāta* because of the *yat*-word),* saghat *(*ṣaghu hiṃsāyām*, here in the sense of reaching, *dhātūnām anekārthatvāt*; *leṭ* with *aṭ*; *bahulaṃ chandasi*: the *vikaraṇa* elided; *pādāditvān nighātābhāvaḥ*),* kṣoṇīr iva *(*halṅyābbhya* would drop *su*; its non-elision is Vedic).)*
 
 **Translation of the bhāṣya:** "O Indra, *prabhūvaso*, of abundant wealth, therefore *puruṣṭuta*, praised by many sacrificers: we who, *tvā ārabhya*, having begun with you, relying on you, *carāmasi*, are engaged in the sacrifice — we are *te*, yours. O *girvaṇaḥ*, to be served with praises, Indra: *tvad anyaḥ*, none other than you *saghat*, attains [receives] the *giraḥ*, praises. Therefore you *prati harya*, desire, favour, *tad vacaḥ*, that speech of praise of ours; *kṣoṇīr iva*, as the earth desires the beings of her own."
 
@@ -7282,16 +7282,16 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **prati no harya tad vacaḥ** — "Take special pleasure in the praise we speak. As an illustration: as the earth lovingly nourishes all the beings in it, so you, listening to our praise-words with regard, protect us."
 
 **Vyākaraṇa-prakriyā** *(p. 404 — grammar page, noted briefly; continues p. 405)*
-- **puruṣṭuta**: "*purubhiḥ bahubhiḥ stutaḥ*"; *ṣṭuñ stutau*; *kta* in the object sense; *āmantritasya ca*: *nighāta* (the vocative).
+- **puruṣṭuta**: "*purubhiḥ bahubhiḥ stutaḥ*"; *ṣṭuñ stutau*; *kta* in the object sense; *āmantritasya ca* (Pā. 8-1-19): *nighāta* (the vocative).
 
 ---
 
 ---
 
 **Rik 57.4, grammar (end)** *(p. 405, PDF 421 — grammar page, noted briefly)*
-- **ārabhya**: *rabha rābhasye*, *bhvādi*; *ktvā* with the prefix; since the *ā* is a prefix and the word is a compound, *samāse 'nañpūrve ktvo lyap* (Pā. 7-1-37): *lyap*; being *pit*, anudātta (so the root's accent stays).
-- **carāmasi**: *cara gatibhakṣaṇayoḥ*; *laṭ* first plural *masi* [*mas*]; *kartari śap*; *ato dīrgho yañi*: lengthening of the *a* before *m*; *idantomasi*: *i* augment; no *nighāta*, because of the *ye* [= *yat*-word] before; *śap* is *pit*, anudātta; *lasārvadhātukam* [the *masi*] is also anudātta; the root's accent remains.
-- **saghat**: *saghu hiṃsāyām*; since roots have many meanings, here it is used in the sense of "reaching"; *dhātvādeḥ ṣaḥ saḥ*; *leṭ* third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: *i* dropped; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: *śap* → *luk*; at the beginning of a pāda: no *nighāta*; *pit*: anudātta; initial-acute of the root.
+- **ārabhya**: *rabha rābhasye*, *bhvādi*; *ktvā* with the prefix; since the *ā* is a prefix and the word is a compound, *samāse 'nañpūrve ktvo lyap* (no number printed): *lyap*; being *pit*, anudātta (so the root's accent stays).
+- **carāmasi**: *cara gatibhakṣaṇayoḥ*; *laṭ* first plural *masi* [*mas*]; *kartari śap*; *ato dīrgho yañi*: lengthening of the *a* before *m*; *idanto masi* (Pā. 7-1-46): *i* augment; no *nighāta*, because of the *ye* [= *yat*-word] before; *śap* is *pit*, anudātta; *lasārvadhātukam* [the *masi*] is also anudātta; the root's accent remains.
+- **saghat**: *saghu hiṃsāyām*; since roots have many meanings, here it is used in the sense of "reaching"; *dhātvādeḥ ṣaḥ saḥ*; *leṭ* third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: *i* dropped; *leṭo 'ḍāṭau* (Pā. 3-4-94): *aṭ*; *bahulaṃ chandasi*: *śap* → *luk*; at the beginning of a pāda: no *nighāta*; *pit*: anudātta; initial-acute of the root.
 - **kṣoṇīriva**: *kṣoṇī* ends in *ī*, hence always feminine; with *su* following, *halṅyābbhyo…* would drop it, but here the Veda keeps it; *sasajuṣo ruḥ*: *ru*.
 - **harya**: *hary gatikāntyoḥ* ("desire"); *loṭ* second singular *sip* → *hi*; *śap*; *ato heḥ*: *hi* dropped; *nighāta* by *tiṅ atiṅaḥ*. **|| 4 ||**
 
