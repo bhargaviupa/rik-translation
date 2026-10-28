@@ -2,6 +2,6 @@
 
 - **Range:** Sūktas 39–43 (file section "## SŪKTA 39", printed p. 339 foot, up to the section before "## SŪKTA 44"; printed pp. 339–493).
 - **Branch:** claude/numerals-vol4-c
-- **Done through:** Ṛk 40.5 (printed p. 397 = better-scan PDF 412). Page map: printed = PDF − 15 holds at pp. 339–397 (p. 368 is printed "268").
-- **Next unit:** Ṛk 40.6 (printed p. 398 = PDF 413).
+- **Done through:** Ṛk 40.6 (printed p. 402 = better-scan PDF 417). Page map: printed = PDF − 15 holds at pp. 339–402 (p. 368 is printed "268").
+- **Next unit:** Ṛk 40.7 (printed p. 402 foot = PDF 417).
 - **Open items:** none yet.
