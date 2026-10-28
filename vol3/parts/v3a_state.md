@@ -3,8 +3,8 @@
 Range: Sūkta 24 Ṛk 14 (printed p. 288 = PDF 302) through the end of Sūkta 29 (before the Sūkta 30 heading, ~p. 458 = PDF 472). Better scan: printed = PDF − 14.
 Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
-Done through: Ṛk 26.2 (p. 352 = PDF 366).
-Next unit: Ṛk 26.3 (pp. 352–354 = PDF 366–368).
+Done through: Ṛk 26.3 (p. 354 = PDF 368).
+Next unit: Ṛk 26.4 (pp. 354–357 = PDF 368–371).
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
@@ -21,3 +21,4 @@ Open items:
 - p. 336: Ṛk 25.18 Saṃhitā line 2 [accent ?] (no bars printed).
 - p. 347: bhāṣya prints सुह्यथ (p. 348 स्तुह्यथ); broken type at स्र.
 - p. 351: Pā. 3-2-130 printed for anyebhyo 'pi dṛśyante (std 3-2-75); p. 352: Uṇ. 4-6[?]8 blurred.
+- p. 354: Uṇ. 4-5[7?]6 (samāne khyaḥ) third digit doubtful.

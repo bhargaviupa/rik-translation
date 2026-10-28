@@ -8673,38 +8673,59 @@ an Uṇādi suffix is to be stated; then *divi* means light directly. In the sen
 
 ---
 
-### Pages 352–354 — Sūkta 26, Rik 3
+### Page 352 (lower) — Sūkta 26, Rik 3
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> आ हि ष्मा सूनवे पिताऽपिर्यजत्यापये ।
-> सखा सख्ये वरेण्यः ॥ ३ ॥
+> आ हि ष्मा॑ सू॒नवे॑ पि॒तापिर्यज॑त्या॒पये॑ ।
+> सखा॒ सख्ये॒ वरे॑ण्यः ॥३॥ [accent ?]
+>
+> *ā hí ṣmā sūnáve pitā́piryájatyāpáye |*
+> *sakhā sákhye váreṇyaḥ ||3||* [accent ?]
 
-*ā hi ṣmā sūnave pitā 'pir yajaty āpaye | sakhā sakhye vareṇyaḥ || 3 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Flagged [accent ?] on line 2: the first bar stands between* स *and* खा *of* सखा*; it is given under* खा*. The Pada prints* आपिः *and* आपये *(with long ā). IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> आ । हि । स्म । सूनवे । पिता । आपिः । यजति । आपये ॥ सखा । सख्ये । वरेण्यः ॥ ३ ॥
+> आ । हि । स्म । सूनवे । पिता । आपिः । यजति । आपये । सखा । सख्ये । वरेण्यः ॥३॥
 
-*ā | hi | sma | sūnave | pitā | āpiḥ | yajati | āpaye || sakhā | sakhye | vareṇyaḥ || 3 ||*
+> *ā | hi | sma | sūnave | pitā | āpiḥ | yajati | āpaye | sakhā | sakhye | vareṇyaḥ ‖3‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 352; the end of the passage is read with doubt)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(pp. 352–353; transcribed in full from the print, v3a)*
 
-> हे अग्ने वरेण्यो वरणीयस्त्वं सूनवे पुत्रस्थानीयाय मह्यमभीप्सितं देहीति शेषः । हि स्मेति निपातद्वयं सर्वथेत्यर्थे आचक्ष्वे [?] । अभीप्सदाने दृष्टान्तस्यायमुच्यते । यथा पिताऽपिर्बन्धुरापये बन्धवे आ यजति हि स्म । सर्वथा ददातीति शेषः । सखा प्रियः सख्ये प्रियायाभीष्टं सर्वथा ददाति तथानुमपि देहि ॥
+> हे अग्ने वरेण्यो वरणीयः पितापि पितृस्थानीयस्त्वं सूनवे पुत्रस्थानीयाय मह्यमभीष्टं देहीति शेषः । हि स्मेति निपातद्वयं सर्वथेत्यमुमर्थमाचष्टे । अभीष्टदाने दृष्टांतद्वयमुच्यते । यथापिर्बंधुरापये बंधव आ यजति हि स्म । सर्वथा ददातीति शेषः । सखा प्रियः सख्ये प्रियायाभीष्टं सर्वथा ददाति तथा त्वमपि देहि ॥ स्मा सूनवे । निपातस्य चेति दीर्घः । यजतीत्यस्य सखा सख्य इत्यत्राप्यनुषंगात्तदपेक्षयेयं प्रथमेति चादिलोपे विभाषेति न निहन्यते । यद्वा । हि चेति निघातप्रतिषेधः । सख्ये । समाने ख्यः स चोदात्त इति सखिशब्द इण्प्रत्ययांत आद्युदात्तः । सुपः पित्त्वादनुदात्तत्वे स एव शिष्यते ॥
 
-*he agne vareṇyo varaṇīyas tvaṃ sūnave putrasthānīyāya mahyam abhīpsitaṃ dehīti śeṣaḥ | hi smeti nipātadvayaṃ sarvatheti arthe ācakṣve [?] | abhīpsadāne dṛṣṭāntasyāyam ucyate | yathā pitā 'pir bandhur āpaye bandhave ā yajati hi sma | sarvathā dadātīti śeṣaḥ | sakhā priyaḥ sakhye priyāyābhīṣṭaṃ sarvathā dadāti tathā numapi dehi ||*
+> *he agne vareṇyo varaṇīyaḥ pitāpi pitṛsthānīyastvaṃ sūnave putrasthānīyāya mahyamabhīṣṭaṃ dehīti śeṣaḥ | hi smeti nipātadvayaṃ sarvathetyamumarthamācaṣṭe | abhīṣṭadāne dṛṣṭāṃtadvayamucyate | yathāpirbaṃdhurāpaye baṃdhava ā yajati hi sma | sarvathā dadātīti śeṣaḥ | sakhā priyaḥ sakhye priyāyābhīṣṭaṃ sarvathā dadāti tathā tvamapi dehi ‖ smā sūnave | nipātasya ceti dīrghaḥ | yajatītyasya sakhā sakhya ityatrāpyanuṣaṃgāttadapekṣayeyaṃ prathameti cādilope vibhāṣeti na nihanyate | yadvā | hi ceti nighātapratiṣedhaḥ | sakhye | samāne khyaḥ sa codātta iti sakhiśabda iṇpratyayāṃta ādyudāttaḥ | supaḥ pittvādanudāttatve sa eva śiṣyate ‖*
 
-**Translation:** "O Agni, *vareṇya* — to be chosen! Give (this is supplied) to me, who stand in the place of a son, what I desire. *Hi sma* — these two particles are in the sense of 'surely' [reading doubtful]. For the giving of the desired thing an illustration is given: as a father gives (*ā yajati*) to his son, as a kinsman (*āpiḥ*) to his kinsman (*āpaye*) — always — [and as] a friend gives to his dear friend what he wishes, in every way, so give to me too." *(Grammar pages 353–354, noted briefly: the words treated are* ṣmā *[*sma* — a *nipāta*; the lengthening of its vowel in the mantra by P. 6-3-136 *nipātasya ca*],* yajati *[*yaja devapūjāsaṅgatikaraṇadāneṣu*; *laṭ* 3rd singular; the verb would be lowered after an acute word by P. 8-1-28, but in* sakhā sakhye *the *anuṣaṅga* [*yaja* takes the nasal in the sense of 'give' to read *sakhā*…] makes it *prathamoccaritā* [first-uttered] so P. 8-1-… *cādilope vibhāṣā* does not lower it; or by P. 8-1-… *hi ca* the verb with *hi* is not lowered; *śap* and *tip* are anudātta, so the root-accent stands: *yajati* has first-syllable acute],* sakhye *[*sakhi* does not take the name *ghi* by P. 1-4-7 *śeṣo ghy asakhi*, so the dative ending *ṅe* takes *yāḍāgama* …; *sakhi* from *samāne khyaḥ sa codāttaḥ* (Uṇ. 4-[?]) — *khyā prakathane* + *iṅ* [*ḍit*]; *sa* substituted for *samāna* with the acute; loss of *ya*-*kāra*; the *ā* of *khyā* is lost because of *ḍit*, hence *sakhi*; the *sa* being acute, *sakhi* is first-syllable acute; with the *supiti* rule P. 3-1-4 *anudāttau suppitau* the ending *ṅe* is anudātta, so the stem's own accent stands]; numerals as read, pointers only.)*
+*(No numbers in this bhāṣya.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 353)* **आपिः (āpiḥ)** — the kinsman | **आपये (āpaye)** — to his own kinsman | **सखा (sakhā)** — the dear friend | **सख्ये (sakhye)** — to his friend | **सूनवे (sūnave)** — to the one in the position of a son | **पिता (pitā)** — [as] a father | **आ यजति हि स्म (ā yajati hi sma)** — gives [what he wishes], truly | **(तथा) वरेण्यः ((tathā) vareṇyaḥ)** — [so do you], the chosen — | [give me what I desire].
+*Gist:* O Agni, worthy to be chosen, being like a father, give me, who am like a son, what I desire; as a kinsman gives to a kinsman, and a friend to a dear friend, wholly, so do you give.
 
-**॥ Bhāvārthaḥ ॥** O Agni! As a kinsman gives to his own kinsman, as a friend gives to his dear friend what he desires, so — being like a father to me, who am as a son — fulfil my desire.
+### Page 353 — Rik 3: word-meanings, overall sense, English, Special Topics, grammar
 
-**॥ English Translation ॥** *(as printed in the source)*
+**॥ Prati-padārthaḥ ॥** **आपिः (āpiḥ)** — one who is a kinsman | **आपये (āpaye)** — to his kinsman (and) | **सखा (sakhā)** — a (dear) friend | **सख्ये (sakhye)** — to his friend | **आ यजति हि स्म (ā yajati hi sma)** — (what is desired) surely gives, does he not (so) | **सूनवे (sūnave)** — to me, who stand as a son | **पिता (pitā)** — you, who are as a father (graciously grant my desire).
+
+**॥ Bhāvārthaḥ ॥** O Agni, as a kinsman provides for the desire of his own close kinsman, and as one who is a friend for that of his dear friend, so do you, who are like a father, fulfil for me, who am like a son, my desire.
+
+**॥ English Translation ॥** *(as printed)*
 
 > O Agni, you are indeed as a loving father to a son, as a kinsman to a kinsman, as a friend to a friend.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 353)* **आपिः, आपये** — *bandhuḥ bandhave*: a kinsman to a kinsman. As a kinsman acts towards his own kinsman with goodwill, so in this rik the ṛṣi makes known the great love that exists between father and son, kinsman and kinsman, friend and friend, and prays that Agni protect him in the same manner.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**आपिः, आपये (āpiḥ, āpaye)** — *bandhuḥ bandhave*: as a kinsman behaves with goodwill towards his kinsman, so; in this ṛk the ṛṣi points to the great love there is between father and son, between kinsmen, and between friends, and prays that Agni likewise should protect him.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers zoom-read at 450 dpi, v3a)*
+
+**स्मा सूनवे (smā sūnave)** — *sma* is a particle; so by "निपातस्य च" (6-2-136, as printed, without "Pā. Sū."; the middle digit is the curled 2; for 6-3-136) it is lengthened in the mantra.
+
+**यजति (yajati)** — *yaja devapūjāsaṅgatikaraṇadāneṣu*, bhvādi; *laṭ* third singular. Following a word that is not a verb, the *nighāta* would come; but here, since
+
+### Page 354 — Rik 3: grammar (end)
+
+the verb is understood also in *sakhā sakhye*, it is the first one uttered; so by "चादिलोपे विभाषा" (Pā. Sū. 8-1-63), when *ca*, *vā* and the like are dropped, the first-uttered *tiṅanta* is not all-anudātta, and the *nighāta* does not come. Or: by "हि च" (Pā. Sū. 8-1-34) a *tiṅanta* joined with *hi* is not anudātta, so the *nighāta* is naturally barred. *Śap* and *tip* being anudātta, by the root's accent *yajati* is initially acute.
+
+**सख्ये (sakhye)** — since "शेषो घ्यसखि" excludes it, *sakhi* is not called *ghi*; so before the dative singular *ṅe* the *yaṇ* substitute comes: *sakhye*. By "समाने ख्यः स चोदात्तः" (Uṇ. Sū. 4-5[7?]6, as printed: the third glyph is a 2-like shape with a flat foot, read as 7 with doubt), with *samāna* as upapada, the root *khyā prakathane* takes the suffix *iṇ*, which is *ḍit*; *samāna* is replaced by *sa* and is udātta; the loss of *y* is laid down in the sūtra itself. Because the suffix is *ḍit*, the *ā* of *khyā*, called *ṭi*, is dropped; the *y* is dropped by the sūtra itself: *sakhi*. Since *sa* is made udātta, *sakhi* is initially acute. The *sup* ending is anudātta by "अनुदात्तौ सुप्पितौ" (Pā. Sū. 3-1-4), so the accent stated before remains as *sati-śiṣṭa*; *sakhye* too is initially acute. ॥३॥ *(A printed ornament follows; Ṛk 4 begins on the same page.)*
 
 ---
 
