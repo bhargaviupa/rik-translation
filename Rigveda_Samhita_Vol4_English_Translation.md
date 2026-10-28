@@ -8983,15 +8983,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 44.14 (pp. 537–540)
+### Rik 44.14 (pp. 537–540; better scan PDF 552–555)
 
-**Saṃhitā-pāṭha** *(p. 537; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 537)*
 
-> **शृण्वन्तु स्तोमं मरुतः सुदानवोऽग्निजिह्वा ऋतावृधः ।**
-> **पिबतु सोमं वरुणो धृतव्रतोऽश्विभ्यामुषसा सजूः ॥ १४ ॥**
+> **शृ॒ण्वन्तु॒ स्तोमं॑ म॒रुतः॑ सु॒दान॑वोऽग्निजि॒ह्वा ऋ॑ता॒वृधः॑ ।**
+> **पिब॑तु॒ सोमं॒ वरु॑णो धृ॒तव्र॑तो॒ऽश्विभ्या॑मु॒षसा॑ स॒जूः ॥ १४ ॥**
 
-*śṛṇvantu stomaṃ marutaḥ sudānavo 'gnijihvā ṛtāvṛdhaḥ |*
-*pibatu somaṃ varuṇo dhṛtavrato 'śvibhyām uṣasā sajūḥ || 14 ||*
+*śṛṇvántu stómaṃ marútaḥ sudā́navo 'gnijihvā́ ṛtāvṛ́dhaḥ |*
+*píbatu sómaṃ váruṇo dhṛtávrato 'śvíbhyām uṣásā sajū́ḥ || 14 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 537)*
 
@@ -9015,10 +9017,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Translation:** "May the Marut gods hear our *stoma*, our praise. Of what kind? *Sudānavaḥ*, giving good fruit generously; *agnijihvāḥ*, those among whom Agni, standing in the place of the tongue, is the chief — such are they; *ṛtāvṛdhaḥ*, the increasers of truth or of the sacrifice. And may the god Varuṇa, *dhṛtavrataḥ*, who has taken up the rites, *sajūḥ*, together with the two Aśvins, the gods, and with the goddess Uṣas, drink the Soma."
 
-**Grammatical tail** *(p. 538; characterized, numerals as read [?])*
-- *sudānavaḥ*: root *ḍudāñ dāne*; the suffix *nu* in the abstract sense by "*dābhābhyāṃ nuḥ*" (Uṇ. 3-[?] as read); the word *dānu* is initial-acute; "those whose *dānu* is good", a bahuvrīhi; by *ādyudāttaṃ dvyac chandasi* (as printed) the second member keeps its initial acute.
-- *agnijihvāḥ*: "those who are stationed on the tongue of Agni, the sharers of the oblation"; the name of the thing carried over to the thing in it (*tātsthyāt tācchabdyam*); "those for whom Agni is in the place of a tongue"; the end-acute is Vedic.
-- *ṛtāvṛdhaḥ*: "increasers of *ṛta*, truth, or of the sacrifice"; the root *vṛdh* with the causative sense included in it, *kvip* by *kvip ca*; the lengthening of the first member by "*anyeṣām api dṛśyate*" (as printed). **|| 14 ||**
+**Sāyaṇa-bhāṣya, grammatical tail** *(p. 538; transcribed from the better scan, PDF 553)*
+
+> **सुदानवः । डुदाञ् दाने । दाभाभ्यां नुः । उ. ३-३२ । इति भावे नुप्रत्ययः । दानुशब्द आद्युदात्तः । शोभनं दानु येषां । आद्युदात्तं द्व्यच्छन्दसीत्युत्तरपदाद्युदात्तत्वं । अग्निजिह्वाः । अग्नेर्जिह्वायामवस्थिता हविर्भाज इत्यर्थः । तात्स्थ्यात् ताच्छब्द्यं । अग्निर्जिह्वास्थानीयो येषां ते । छान्दसमन्तोदात्तत्वं । ऋतावृधः । ऋतस्य सत्यस्य यज्ञस्य वा वर्धयितारः । वृधेरन्तर्भावितण्यर्थात् क्विप्चेति क्विप् । अन्येषामपि दृश्यत इति पूर्वपदस्य दीर्घत्वं ॥ ३० ॥**
+
+*sudānavaḥ | ḍudāñ dāne | dābhābhyāṃ nuḥ | u. 3-32 | iti bhāve nupratyayaḥ | dānuśabda ādyudāttaḥ | śobhanaṃ dānu yeṣāṃ | ādyudāttaṃ dvyac chandasīty uttarapadādyudāttatvaṃ | agnijihvāḥ | agner jihvāyām avasthitā havirbhāja ity arthaḥ | tātsthyāt tācchabdyaṃ | agnir jihvāsthānīyo yeṣāṃ te | chāndasam antodāttatvaṃ | ṛtāvṛdhaḥ | ṛtasya satyasya yajñasya vā vardhayitāraḥ | vṛdher antarbhāvitaṇyarthāt kvip ceti kvip | anyeṣām api dṛśyata iti pūrvapadasya dīrghatvaṃ || 30 ||*
+
+*(Gist: sudānu with nu (Uṇ. 3-32), the second member initial-acute; agnijihvāḥ "those stationed on Agni's tongue", Vedic end-acute; ṛtāvṛdh with kvip and the lengthened first member. The closing "॥ 30 ॥" is the varga number (Varga 30 = Ṛks 11–14).)*
 
 **Pratipadārtha** *(p. 538)* — "**sudānavaḥ** — those who give excellent fruit; **agnijihvāḥ** — those who have Agni as their tongue; **ṛtāvṛdhaḥ** — who are the increasers of truth or of the sacrifice; **marutaḥ** — the Marut gods; **stomam** — our praise; **śṛṇvantu** — let them hear; **dhṛtavrataḥ** — the protector of rites, **varuṇaḥ** — the god Varuṇa; **aśvibhyām** — with the Aśvin gods; **uṣasā** — with the goddess Uṣas; **sajūḥ** — united; **somam** — the Soma juice; **pibatu** — let him drink."
 
@@ -9026,46 +9031,50 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **English Translation (the source's own, p. 538)** — "Let the liberal Maruts who drink through Agni (fire) and are encouragers of sacrifice, hear our praise ; let Varuna who fulfils the rites with Aswins and Ushas drink the Soma-juice."
 
+### Page 538
+
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 538–540**
 - **stomam** — "the praise, this praise that we are making."
 - **sudānavaḥ** — "*suṣṭhu phalasya dātāraḥ*: those who give good fruits to sacrifices and such acts; or those who give the desired objects to the performers of sacrifices."
-- **agnijihvāḥ** — "those who have Agni as tongue; that is, since they receive the oblation which is offered in Agni with the deities in view, they receive it by the tongue of Agni or through Agni. For this reason it is the custom to call the deities *agnijihvāḥ*. A few examples are given" — seven Ṛgveda passages quoted by the Kannada author, **untranslated in the source**; I give each in three layers with my own gloss, *mine and tentative*, and **every reference numeral is "as read [?]"**:
+- **agnijihvāḥ** — "those who have Agni as tongue; that is, since they receive the oblation which is offered in Agni with the deities in view, they receive it by the tongue of Agni or through Agni. For this reason it is the custom to call the deities *agnijihvāḥ*. A few examples are given" — seven Ṛgveda passages quoted by the Kannada author, **untranslated in the source**; I give each in three layers with my own gloss, *mine and tentative*; the reference numerals were zoom-checked on the better scan (PDF 554):
 
-  1. > **अग्निजिह्वा मनवः सूरचक्षसो विश्वे नो देवा अवसागमन्निह ॥** *(Ṛ. Saṃ. 1-89-[?] as read)*
+  1. > **अग्निजिह्वा मनवः सूरचक्षसो विश्वे नो देवा अवसागमन्निह ॥** *(Ṛ. Saṃ. 1-89-7; the last digit is the flat-footed 7)*
 
      *agnijihvā manavaḥ sūracakṣaso viśve no devā avasāgaman iha ||* — mine and tentative: "The Manus, with Agni as their tongue, with the sun as their eye — may all the gods come here to us for our protection."
-  2. > **इमं स्तोमं रोदसी प्र ब्रवीम्यृदूदराः शृणवन्नग्निजिह्वाः ॥** *(Ṛ. Saṃ. 3-5[?]-10 as read)*
+  2. > **इमं स्तोमं रोदसी प्र ब्रवीम्यृदूदराः शृणवन्नग्निजिह्वाः ॥** *(Ṛ. Saṃ. 3-54-10)*
 
      *imaṃ stomaṃ rodasī pra bravīmy ṛdūdarāḥ śṛṇavann agnijihvāḥ ||* — mine and tentative: "I declare this praise to heaven and earth; may the tender-bellied (? *ṛdūdarāḥ*, reading [?]) ones, tongued with Agni, hear."
-  3. > **ये अग्निजिह्वा ऋतसाप आसुर्ये मनुं चक्रुरुपरं दसाय ॥** *(Ṛ. Saṃ. 6-[?]-10 as read)*
+  3. > **ये अग्निजिह्वा ऋतसाप आसुर्ये मनुं चक्रुरुपरं दसाय ॥** *(Ṛ. Saṃ. 6-21-10, as printed)*
 
      *ye agnijihvā ṛtasāpa āsur ye manuṃ cakrur uparaṃ dasāya ||* — mine and tentative: "They who, with Agni as tongue, were the guardians (? *ṛtasāpaḥ*) of the rite, who made Manu (the) later (? *uparam*) for the (*dasāya*)…" (the second line is hard; I give no firm sense).
-  4. > **द्विजन्मानो ये ऋतसापः सत्याः स्वर्वन्तो यजता अग्निजिह्वाः ॥** *(Ṛ. Saṃ. 6-[?]-[?] as read)*
+  4. > **द्विजन्मानो ये ऋतसापः सत्याः स्वर्वन्तो यजता अग्निजिह्वाः ॥** *(Ṛ. Saṃ. 6-50-2)*
 
      *dvijanmāno ye ṛtasāpaḥ satyāḥ svarvanto yajatā agnijihvāḥ ||* — mine and tentative: "the twice-born ones, who are keepers of the rite, the true, the heaven-possessing, the worshipful, tongued with Agni."
-  5. > **ये अग्निजिह्वा उत वा यजत्रा आसद्यास्मिन् बर्हिषि मादयध्वम् ॥** *(Ṛ. Saṃ. 6-[?]-[?] as read)*
+  5. > **ये अग्निजिह्वा उत वा यजत्रा आसद्यास्मिन् बर्हिषि मादयध्वम् ॥** *(Ṛ. Saṃ. 6-52-13)*
 
      *ye agnijihvā uta vā yajatrā āsadyāsmin barhiṣi mādayadhvam ||* — mine and tentative: "You who are tongued with Agni, or who are worshipful: sitting down on this grass, rejoice."
-  6. > **बहवः सूरचक्षसोऽग्निजिह्वा ऋतावृधः ॥** *(Ṛ. Saṃ. 3-[?]-[?] as read)*
+  6. > **बहवः सूरचक्षसोऽग्निजिह्वा ऋतावृधः ॥** *(Ṛ. Saṃ. 7-66-10; the first digit is the flat-footed 7)*
 
      *bahavaḥ sūracakṣaso 'gnijihvā ṛtāvṛdhaḥ ||* — mine and tentative: "the many, sun-eyed, fire-tongued increasers of the rite."
-  7. > **दिवक्षसो अग्निजिह्वा ऋतावृध ऋतस्य योनिं विमृशन्त आसते ॥** *(Ṛ. Saṃ. 10-[?]-[?] as read)*
+  7. > **दिवक्षसो अग्निजिह्वा ऋतावृध ऋतस्य योनिं विमृशन्त आसते ॥** *(Ṛ. Saṃ. 10-65-7)*
 
      *divakṣaso agnijihvā ṛtāvṛdha ṛtasya yoniṃ vimṛśanta āsate ||* — mine and tentative: "the heaven-dwelling (? *divakṣasaḥ*), fire-tongued increasers of the rite sit, touching (considering) the womb of the rite."
 
-  The Kannada author continues: "In the sacrifice the deity who appears to us directly is Agni; the other deities do not appear to us directly. Therefore, if the oblation is to be offered to deities other than Agni, it is possible only through Agni, that is, by sacrificing into Agni. On this point there is a scriptural sentence, *parokṣaṃ vā anye devā ijyante* (Tai. Saṃ. 1-[?], as read) — परोक्षं वा अन्ये देवा इज्यन्ते — *parokṣaṃ vā anye devā ijyante* — mine and tentative: 'the other gods are worshipped indirectly'. Because the other deities accept the oblation poured into Agni, it is as though Agni were their tongue. Hence it is proper to call those deities *agnijihvāḥ*."
-- **ṛtāvṛdhaḥ** — "*satyasya yajñasya vā vardhakāḥ*: those who increase truth or the sacrifice, they are those who bring about the conduct of the sacrifice. For further explanation of this word see Ṛgveda Saṃhitā part 1, pp. 707 and 647 [numerals as read, ?]."
+  The Kannada author continues: "In the sacrifice the deity who appears to us directly is Agni; the other deities do not appear to us directly. Therefore, if the oblation is to be offered to deities other than Agni, it is possible only through Agni, that is, by sacrificing into Agni. On this point there is a scriptural sentence, *parokṣaṃ vā anye devā ijyante* (printed "Tai. Saṃ. 1-7"; the second digit is the 2/7 glyph, read as 7 by comparison with the 7s on the same page) — परोक्षं वा अन्ये देवा इज्यन्ते — *parokṣaṃ vā anye devā ijyante* — mine and tentative: 'the other gods are worshipped indirectly'. Because the other deities accept the oblation poured into Agni, it is as though Agni were their tongue. Hence it is proper to call those deities *agnijihvāḥ*."
+- **ṛtāvṛdhaḥ** — "*satyasya yajñasya vā vardhakāḥ*: those who increase truth or the sacrifice, they are those who bring about the conduct of the sacrifice. For further explanation of this word see Ṛgveda Saṃhitā part 1, pp. 707 and 647."
 - **dhṛtavrataḥ** — "*gṛhītakarmā*: one who accepts the sacrificial rites that we perform."
 - **sajūḥ** — "*saha*: together with."
 
+### Page 540
+
 **Vyākaraṇa-prakriyā** *(p. 540 — grammar page, noted briefly)*
-- **sudānavaḥ**: root *ḍudāñ dāne*; the Uṇādi sūtra *dābhābhyāṃ nuḥ* (Uṇ. 3-[?] as read) — the suffix *nu* after the roots *dā* ("to give") and *bhā* ("to shine"), here in the abstract sense (*bhāva*); the word *dānu* is initial-acute; "*śobhanaṃ dānu yeṣāṃ te*", a bahuvrīhi; "*ādyudāttaṃ dvyac chandasi*" gives the second member the initial acute.
+- **sudānavaḥ**: root *ḍudāñ dāne*; the Uṇādi sūtra *dābhābhyāṃ nuḥ* (Uṇ. 3-312, as printed here; the bhāṣya gives 3-32) — the suffix *nu* after the roots *dā* ("to give") and *bhā* ("to shine"), here in the abstract sense (*bhāva*); the word *dānu* is initial-acute; "*śobhanaṃ dānu yeṣāṃ te*", a bahuvrīhi; "*ādyudāttaṃ dvyac chandasi*" gives the second member the initial acute.
 - **agnijihvāḥ**: "*agner jihvāḥ*", a *tatpuruṣa*. The Kannada author gives the example "*mañcāḥ krośanti*" ("the platforms cry out", i.e. those on the platforms): as persons on a platform are meant by "platform", so the Maruts who are in the tongue (of Agni) are meant by the word "tongue" — those who receive the oblation placed on Agni's tongue. A compound ends in the acute (*samāsasya*, antodātta). Or: a bahuvrīhi "*agnir jihvā yeṣāṃ te*" — "those who have Agni as chief, as the tongue is chief"; as a bahuvrīhi the first member's natural accent should come, but by the Vedic option the end-acute stands.
 - **ṛtāvṛdhaḥ**: "*ṛtam* = truth, or the sacrifice, which they increase"; root *vṛdhu vardhane*, the root including its causative sense; *kvip* by *kvip ca*; *anyeṣām api dṛśyate* lengthens the first member *ṛta*. **|| 14 ||**
 
 ---
 
-**Close of Sūkta 44.** Printed at the foot of p. 540, in ordinary type under the last grammar paragraph: "*illige 44neya sūktavu mugidudu*" — "Here the 44th sūkta is finished." *(The numeral is read as "44"; the Kannada script of the closing note is clear.)* A short rule follows. The sūkta (*agne vivasvat*, 14 Riks) therefore occupies printed pp. 493–540 (PDF 507–554), and the contents table's page for Sūkta 45 (p. 541) is again off, as for Sūktas 42 and 43: Sūkta 45 begins on the lower third of p. 540.
+**Close of Sūkta 44.** Printed at the foot of p. 540, in ordinary type under the last grammar paragraph: "*illige 44neya sūktavu mugidudu*" — "Here the 44th sūkta is finished." *(The numeral "44" (two ಳ-shaped 4s) and the closing note are clear on the better scan, PDF 555.)* A short rule follows. The sūkta (*agne vivasvat*, 14 Riks) therefore occupies printed pp. 493–540 (PDF 507–554), and the contents table's page for Sūkta 45 (p. 541) is again off, as for Sūktas 42 and 43: Sūkta 45 begins on the lower third of p. 540.
 
 **Beginning of Sūkta 45 (identification only, not translated here).** Below the closing note, on the same leaf (p. 540 = PDF 554), stands the large title "*nalavattaidaneya sūktavu*" ("the forty-fifth sūkta") and a Sanskrit introduction beginning "*tvam agne vasūn*" — the second sūkta of the Ninth Anuvāka, **ten Riks**, in the Anuṣṭubh metre; the *Anukramaṇikā* is quoted as "*tvam agne daśānuṣṭubham ardharco 'ntyo daiva*" (*as read, doubtful*); ṛṣi Praskaṇva Kāṇva; deity Agni (the last half-ṛk is addressed to "the gods", *devāḥ*). The Kannada *anuvāda* and the heading block (p. 541 = PDF 555: Maṇḍala 1, Anuvāka 9, Sūkta 45, Aṣṭaka 1, Adhyāya 3, Varga "30, 31" [?]; ṛks 10) belong to the next session; Rik 1 begins on p. 542 (PDF 556).
 
