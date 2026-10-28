@@ -9622,29 +9622,33 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 469)*
 
-> स्तोत्रं राधानां पते गिर्वाहो वीर यस्य ते ।
-> विभूतिरस्तु सूनृता ॥ ५ ॥
+> स्तो॒त्रं राधा॑नां पते॒ गिर्वा॑हो वीर॒ यस्य॑ ते ।
+> विभू॑तिरस्तु सू॒नृता॑ ॥ ५ ॥
 
-> *stotraṃ rādhānāṃ pate girvāho vīra yasya te |*
-> *vibhūtirastu sūnṛtā ‖ 5 ‖*
+> *stotráṃ rā́dhānāṃ pate gírvāho vīra yásya te |*
+> *víbhūtirastu sūnṛ́tā || 5 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The svarita of line 2 stands over the join of* वि *and* भू*; taken on* भू*.)*
 
 **Pada-pāṭha**
 
-> स्तोत्रम् । राधानाम् । पते । गिर्वाहः । वीर । यस्य । ते ।
+> स्तोत्रं । राधानां । पते । गिर्वाहः । वीर । यस्य । ते ।
 > विऽभूतिः । अस्तु । सूनृता ॥ ५ ॥
 
-> *stotram | rādhānām | pate | girvāhaḥ | vīra | yasya | te |*
+> *stotraṃ | rādhānāṃ | pate | girvāhaḥ | vīra | yasya | te |*
 > *vi 'bhūtiḥ | astu | sūnṛtā ‖ 5 ‖*
 
 **Sāyaṇa-bhāṣya** *(p. 469)*
 
-> हे इन्द्र राधानां पते धनानां पालक गिर्वाहो गीर्भिरुह्यमान वीर शौर्योपेत यस्य ते तव स्तोत्रमीदृशं भवति तस्य तव विभूतिर्लक्ष्मीः सूनृता प्रियसत्यरूपास्तु ॥ स्तोत्रम् । दाम्नीशसेति ष्ट्रन् । पा. ३-२-१८२ । पश्चादर्शनात् [?] … अथवा स्तोतुरिदमित्यर्थे ऽण् । संज्ञापूर्वको विधिरनित्य इति वृद्धिर्न । राधानां पते । राध्नुवन्त्येभिरिति राधानि धनानि । सुबामन्त्रिते इति पराङ्गवद्भावत्वे … आमन्त्रितस्य निघातः । गिर्वाहः । वह प्रापणे । वहिहाधाञ्भ्यश्छन्दसीति कारकपूर्वस्यापि वहतेरसुन्प्रत्ययः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च । उ. ४-२१० [?] … विभूतिः । ताडौ च निति … गतेः प्रकृतिस्वरत्वम् ॥ ५ ॥
+> हे इन्द्र राधानां पते धनानां पालक गिर्वाहो गीर्भिरुह्यमान वीर शौर्योपेत यस्य ते तव स्तोत्रमीदृशं भवति तस्य तव विभूतिर्लक्ष्मीः सूनृता प्रियसत्यरूपास्तु ॥ स्तोत्रम् । दाम्नीशसेति ष्ट्रन् । पा. ३-२-१८२ । पश्चादर्शआद्यच् । अथवा स्तोतुरिदमित्यर्थेऽण् । संज्ञापूर्वको विधिरनित्य इति वृद्धिर्न । राधानां पते । राध्नुवन्त्येभिरिति राधानि धनानि । सुबामन्त्रित इति पराङ्गवद्भावात्षष्ठ्यामन्त्रितसमुदायस्य निघातः । गिर्वाहः । वह प्रापणे । वहिहाधाञ्भ्यश्छन्दसीति कारकपूर्वस्यापि वहतेरसुन्प्रत्ययः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च । उ. ४-२२६ । इत्युक्तत्वात् । णिदित्यनुवृत्तेरुपधावृद्धिः । पूर्वपदस्य र्वोरुपधायाः । पा. ८-२-७६ । इति दीर्घस्याभावश्छान्दसः । षाष्ठिकमामन्त्रिताद्युदात्तत्वम् । विभूतिः । तादौ च नितीति गतेः प्रकृतिस्वरत्वम् ॥
 
-> *he indra rādhānāṃ pate dhanānāṃ pālaka girvāho gīrbhiruhyamāna vīra śauryopeta yasya te tava stotramīdṛśaṃ bhavati tasya tava vibhūtirlakṣmīḥ sūnṛtā priyasatyarūpāstu ‖ stotram | dāmnīśaseti ṣṭran | pā. 3-2-182 | paścādarśanāt [?] … athavā stoturidamityarthe 'ṇ | saṃjñāpūrvako vidhiranitya iti vṛddhirna | rādhānāṃ pate | rādhnuvantyebhiriti rādhāni dhanāni | subāmantrite iti parāṅgavadbhāvatve … āmantritasya nighātaḥ | girvāhaḥ | vaha prāpaṇe | vahihādhāñbhyaśchandasīti kārakapūrvasyāpi vahaterasunpratyayaḥ | gatikārakayorapi pūrvapadaprakṛtisvaratvaṃ ca | u. 4-210 [?] … vibhūtiḥ | tāḍau ca niti … gateḥ prakṛtisvaratvam ‖ 5 ‖*
+> *he indra rādhānāṃ pate dhanānāṃ pālaka girvāho gīrbhiruhyamāna vīra śauryopeta yasya te tava stotramīdṛśaṃ bhavati tasya tava vibhūtirlakṣmīḥ sūnṛtā priyasatyarūpāstu ‖ stotram | dāmnīśaseti ṣṭran | pā. 3-2-182 | paścādarśaādyac | athavā stoturidamityarthe 'ṇ | saṃjñāpūrvako vidhiranitya iti vṛddhirna | rādhānāṃ pate | rādhnuvantyebhiriti rādhāni dhanāni | subāmantrita iti parāṅgavadbhāvātṣaṣṭhyāmantritasamudāyasya nighātaḥ | girvāhaḥ | vaha prāpaṇe | vahihādhāñbhyaśchandasīti kārakapūrvasyāpi vahaterasunpratyayaḥ | gatikārakayorapi pūrvapadaprakṛtisvaratvaṃ ca | u. 4-226 | ityuktatvāt | ṇidityanuvṛtterupadhāvṛddhiḥ | pūrvapadasya rvorupadhāyāḥ | pā. 8-2-76 | iti dīrghasyābhāvaśchāndasaḥ | ṣāṣṭhikamāmantritādyudāttatvam | vibhūtiḥ | tādau ca nitīti gateḥ prakṛtisvaratvam ‖*
 
-*Translation:* "O Indra, lord of riches (*rādhānām pate*), protector of wealth, carried [accepted] by praise-words (*girvāhaḥ*), O hero endowed with valour — of you, whose praise (*stotram*) is such, may the glory (*vibhūti*), the wealth, be pleasing and true (*sūnṛtā*)." *(The grammar tail — *stotra* from *ṣṭuñ* with *ṣṭran* [P. 3-2-182 [?]] or *aṇ* 'of the praiser'; *rādhāni* = 'by which they prosper', wealth; *girvāhas* from *vah* with *asun* (Uṇ. 4-?? [?]); *vibhūti* with the prefix accent — is compressed and read with doubt [?].)*
+*Translation:* "O Indra, lord of riches (*rādhānām pate*: protector of wealth), carried by praise-words (*girvāhaḥ*), hero (*vīra*: endowed with valour) — of you, whose praise is such: may your glory (*vibhūti*: fortune) be pleasing and true (*sūnṛtā*)." The grammatical tail treats *stotram* (*ṣṭran* by '*dāmnīśasa…*', Pā. 3-2-182; then *ac* of the *arśa-ādi* group; or *aṇ* 'belonging to the praiser', without *vṛddhi* since a rule framed with a technical name is optional), *rādhānām pate* ('by which they prosper' = riches; the genitive and vocative grave together, the genitive counting as part of the vocative by *subāmantrite*), *girvāhaḥ* (*asun* after *vah* even with a *kāraka* first member, '*vahihādhāñbhyaś chandasi*', with the first member's accent, U. 4-226; *vṛddhi* of the penultimate as *ṇit* continues; no lengthening under '*rvor upadhāyāḥ*', Pā. 8-2-76, a Vedic licence; initial acute of the vocative by the sixth-book rule) and *vibhūtiḥ* (the preverb keeps its accent by *tādau ca niti*).
 
 **Pratipadārtha** *(p. 469, rendered)* — **राधानाम्** of riches [for the Kannada: of prosperities]; **पते** O protector; **गिर्वाहः** who bears [accepts] praises; **वीर** O Indra, endowed with valour; **यस्य** whose (whoever makes); **ते** your; **स्तोत्रम्** praise; **तस्य** his; **विभूतिः** prosperity; **सूनृता** pleasant and true in form; **अस्तु** let it be.
+
+### Page 470 — Sūkta 30, Rik 5 (continued)
 
 **Bhāvārtha** *(p. 470)* — O Indra, protector of riches, who accept praise-words and are endowed with valour: may the prosperity of the sacrificer who praises you thus be pleasant and true.
 
@@ -9652,10 +9656,11 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 > Indra, hero and lord of riches and accepter of praises, may genuine prosperity be the reward of him who praises you.
 
-**Viśeṣa-viṣayagaḷu** *(p. 470)* — **गिर्वाहसः** [the print's lemma] — *giraḥ stuteyaḥ tā uhyante prāpyante yatra stotṛbhiḥ sa girvāhaḥ*: he to whom, among the praisers, praise-words are carried; *girvāhaḥ* = one who receives praises. *Giraḥ* are words in the form of praise. **यस्य** — because *yat* is used, *tasya* is required. **विभूतिः** — *vibhavatīti vibhūtiḥ*: prosperity, wealth, riches (English as printed: "prosperity, wealth, riches &c."). **सूनृता** — *priyasatyarūpā*; or *śobhaneṣu nṛṣu stutipareṣu tāyate vistīryate iti sūnṛtā*: spreading among good men devoted to praise; "genuine and well-liked" (English words as printed in the Kannada); that which, producing growth among those who praise, is enjoyed by them.
+**Viśeṣa-viṣayagaḷu** *(p. 470)* — **गिर्वाहसः** [the print's lemma] — *giraḥ stuteyaḥ tā uhyante prāpyante yatra stotṛbhiḥ sa girvāhaḥ*: he to whom praise-words are carried by the praisers; *tasya saṃbodhanaṃ he girvāhaḥ | stutihavya*: its vocative, 'O girvāhaḥ', one to whom praises are offered; *girvāhaḥ* = one praised by such words, or one who receives praises. *Giraḥ* are words in the form of praise. **यस्य** — because *yat* is used, *tasya* is required. **विभूतिः** — *vibhavatīti vibhūtiḥ*: prosperity, wealth, riches (English as printed: "prosperity, wealth, riches &c."). **सूनृता** — *priyasatyarūpā*; or *śobhaneṣu nṛṣu stutipareṣu tāyate vistīryate iti sūnṛtā*: spreading among good men devoted to praise; *stotrakṛdbhyo bhogyety arthaḥ*: to be enjoyed by those who make praises; "genuine and well-liked" (English words as printed in the Kannada); that which, producing growth among those who praise, is enjoyed by them.
 
-**Grammar (pp. 470–471), noted briefly:** *stotram* (*ṣṭuñ stutau*, *adādi*; *ṣṭran* by P. 3-2-182 *dāmnīśasayuyujastutudasisicamihapatadaśanahaḥ karaṇe* [as read, number [?]]; *s* for *ṣ*; guṇa; or *stotṛ* + *aṇ* by P. 4-3-120 *tasyedam*; *vṛddhi* not applied as *saṃjñāpūrvako vidhir anityaḥ*; end-acute by the suffix); *rādhānām pate* (*rādha sādhasaṃsiddhau*; *subāmantrite parāṅgavat svare* P. 2-1-2 [as read]; the *āṣṭamika* lowering by P. 8-1-19 *āmantritasya ca*); *girvāhaḥ* (*vah prāpaṇe*; *asun* by Uṇ. 4-?? *vahihādhāñbhyaś chandasi* [?]; P. 6-2-139 / 6-2-? [?]; *ato 'upadhāyāḥ* P. 7-2-116 *vṛddhi*; the lengthening of the preceding member, P. 6-3-122 / *vā chandasi*; initial acute by P. 6-1-198); *vibhūtiḥ* (*bhū sattāyām*, *ktin*; *tādau ca niti kṛty atau* P. 6-2-50 [?]; *vi* keeps its accent). Numerals as read, [?].
+### Page 471 — Sūkta 30, Rik 5: grammar (continued)
 
+**Vyākaraṇa-prakriyā** *(pp. 470–471, noted briefly)* — *stotram*: *ṣṭuñ stutau*, *adādi*; *s* for the initial *ṣ*; *ṣṭran* by '*dāmnīśasa-*' (Pā. sū. 3-2-182); guṇa; then in the sense 'it has praise' *ac* by '*arśa ādibhyo 'c*' (Pā. sū. 5-2-127), loss of *a* by '*yasyeti ca*' (Pā. sū. 6-4-148); or *tṛc*, *stotṛ*, and *aṇ* by '*tasyedam*' (Pā. sū. 4-3-120), the *vṛddhi* of '*taddhiteṣv acām ādeḥ*' (Pā. sū. 7-2-117) not applied (*saṃjñāpūrvako vidhir anityaḥ*); *(p. 471)* end-acute. *rādhānām pate*: *rādha sādha saṃsiddhau*; '*subāmantrite parāṅgavat svare*' (Pā. sū. 2-1-2): the genitive becomes part of the vocative, so the *āṣṭamika* lowering of '*āmantritasya ca*' covers both. *girvāhaḥ*: *vah prāpaṇe*, *bhvādi*; *asun* by '*vahihādhāñbhyaś chandasi*' (U. sū. 4-660) even with a *kāraka* first member, with the first member's accent; *ṇit* by '*vaser ṇit*' (U. sū. 4-657) continued, so *vṛddhi* by '*ata upadhāyāḥ*' (Pā. sū. 7-2-116); the lengthening of '*rvor upadhāyā dīrgha ikaḥ*' (Pā. sū. 8-2-76) does not apply, '*vā chandasi*'; at the start of the pāda initial udātta by the *ṣāṣṭhika* '*āmantritasya ca*' (Pā. sū. 6-1-198). *vibhūtiḥ*: *bhū sattāyām*, *ktin*; '*tādau ca niti*' (Pā. sū. 6-2-50): *vi* keeps its accent, initial udātta.
 
 ---
 ### Pages 471–473 — Sūkta 30, Rik 6
