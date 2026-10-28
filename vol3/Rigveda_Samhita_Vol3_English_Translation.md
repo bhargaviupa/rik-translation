@@ -8893,38 +8893,69 @@ the two words are in apposition, both meaning the same thing; so by "नाम�
 
 ---
 
-### Pages 361–363 — Sūkta 26, Rik 6
+### Page 361 — Sūkta 26, Rik 6
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> यच्चिद्धि शश्वता तना देवंदेवं यजामहे ।
-> त्वे इद्धूयते हविः ॥ ६ ॥
+> यच्चि॒द्धि शश्व॑ता॒ तना॑ दे॒वंदे॑वं॒ यजा॑महे ।
+> त्वे इ॑द्धूयते ह॒विः ॥६॥ [accent ?]
+>
+> *yacciddhí śáśvatā tánā deváṃdevaṃ yájāmahe |*
+> *tvé iddhūyate havíḥ ||6||* [accent ?]
 
-*yac cid dhi śaśvatā tanā devaṃ-devaṃ yajāmahe | tve id dhūyate haviḥ || 6 ||*
+*(Saṃhitā accents as printed, read on 450-dpi line crops (v3a); Pada unaccented, though the print marks the Pada too. Flagged [accent ?] on line 2: the one stroke stands over* इ *of* इद्धूयते*, where the Pada marks* त्वे इति *instead; it is given as printed. IAST mechanical from the marks.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> यत् । चित् । हि । शश्वता । तना । देवम्ऽदेवम् । यजामहे ॥ त्वे इति । इत् । हूयते । हविः ॥ ६ ॥
+> यत् । चित् । हि । शश्वता । तना । देवंऽदेवं । यजामहे । त्वे इति । इत् । हूयते । हविः ॥६॥
 
-*yat | cit | hi | śaśvatā | tanā | devam-devam | yajāmahe || tve iti | it | hūyate | haviḥ || 6 ||*
+> *yat | cit | hi | śaśvatā | tanā | devaṃ-devaṃ | yajāmahe | tve iti | it | hūyate | haviḥ ‖6‖*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 361)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(transcribed in full from the print, v3a)*
 
-> हे अग्ने यच्चिद्धि यद्यपि शश्वता शाश्वतेन नित्येन तना विस्तृतेन हविषा देवं देवमन्यमन्यं वरुणेन्द्रादिरूपं नानाविधं देवताविशेषं यजामहे । तथापि तद्धविः सर्वं त्वे इत्त्वय्येव हूयते । अतो देवान्तरविषयोऽपि योगस्त्वद्वीर्येणैव सेवेत्यर्थः ॥ तना । तनु विस्तारे । क्विप्चेति क्विप् । यद्वा । पचाद्यच् । सुपां सुलुगिति तृतीयाया आकारः । देवं देवम् । नित्यवीप्सयोरिति द्विर्भावः । तस्य परमाम्रेडितमिति । अत्र परस्याम्रेडितसंज्ञायामनुदात्तं चेति सर्वानुदात्तत्वम् । यजामहे । निपातैर्यद्यदिहन्तेति निघाताप्रतिषेधः । त्वे । युष्मच्छब्दात्सप्तमी । सुपां सुलुगिति शे आदेशः । त्वमावेकवचन इति मपर्यन्तस्य त्वादेशः । शेषे लोपः । एतो गुण इति पररूपत्वम् । शे । पा. १-१-१३ । इति प्रगृह्यसंज्ञायां प्लुतप्रगृह्या अचि । पा. ६-१-१२५ । इति प्रकृतिभावः । हूयते । ह्वेञ् स्पर्धायाम् । आक्रुष्टाः सर्वधातुकयोः । पा. ६-४-२ [?] । इति दीर्घः ॥
+> हे अग्ने यच्चिद्धि यद्यपि शश्वता शाश्वतेन नित्येन तना विस्तृतेन हविषा देवंदेवमन्यमन्यं वरुणेंद्रादिरूपं नानाविधं देवताविशेषं यजामहे तथापि तद्धविः सर्वं त्वे इत्त्वय्येव हूयते । अतो देवांतरविषयो यागोऽपि त्वदीयैव सेवेत्यर्थः ॥ तना । तनु विस्तारे । क्विप्चेति क्विप् । यद्वा । पचाद्यच् । सुपां सुलुगिति तृतीयाया आकारः । देवंदेवं । नित्यवीप्सयोरिति द्विर्भावः । तस्य परमाम्रेडितमित्युत्तरस्याम्रेडितसंज्ञायामनुदात्तं चेति सर्वानुदात्तत्वं । यजामहे । निपातैर्यद्यदिहंतेति निघातप्रतिषेधः । त्वे । युष्मच्छब्दात्सप्तम्येकवचनस्य सुपां सुलुगिति शे आदेशः । त्वमावेकवचन इति मपर्यंतस्य त्वादेशः । शेषलोपेऽतो गुण इति पररूपत्वं । शे । पा. १-१-१३ । इति प्रगृह्यसंज्ञायां प्लुतप्रगृह्या अचि । पा. ६-१-१२५ । इति प्रकृतिभावः । हूयते । अकृत्सार्वधातुकयोः । पा. ७-४-२५ । इति दीर्घः ॥
 
-*he agne yac cid dhi yady api śaśvatā śāśvatena nityena tanā vistṛtena haviṣā devaṃ devam anyam anyaṃ varuṇendrādirūpaṃ nānāvidhaṃ devatāviśeṣaṃ yajāmahe | tathāpi tad dhaviḥ sarvaṃ tve it tvayy eva hūyate | ato devāntaraviṣayo 'pi yogas tvadvīryeṇaiva sevety arthaḥ || tanā | tanu vistāre | kvip ceti kvip | yadvā | pacādyac | supāṃ suluk iti tṛtīyāyā ākāraḥ | devaṃ devam | nityavīpsayor iti dvirbhāvaḥ | tasya paramāmreḍitam | atra parasyāmreḍitasaṃjñāyām anudāttaṃ ceti sarvānudāttatvam | yajāmahe | nipātair yad yadihanteti nighātāpratiṣedhaḥ | tve | yuṣmacchabdāt saptamī | supāṃ suluk iti śe ādeśaḥ | tvamāvekavacana iti maparyantasya tvādeśaḥ | śeṣe lopaḥ | eto guṇa iti pararūpatvam | śe | pā. 1-1-13 | iti pragṛhyasaṃjñāyāṃ plutapragṛhyā aci | pā. 6-1-125 | iti prakṛtibhāvaḥ | hūyate | hveñ spardhāyām | ākruṣṭāḥ sarvadhātukayoḥ | pā. 6-4-2 [?] | iti dīrghaḥ ||*
+> *he agne yacciddhi yadyapi śaśvatā śāśvatena nityena tanā vistṛtena haviṣā devaṃdevamanyamanyaṃ varuṇeṃdrādirūpaṃ nānāvidhaṃ devatāviśeṣaṃ yajāmahe tathāpi taddhaviḥ sarvaṃ tve ittvayyeva hūyate | ato devāṃtaraviṣayo yāgo 'pi tvadīyaiva sevetyarthaḥ ‖ tanā | tanu vistāre | kvipceti kvip | yadvā | pacādyac | supāṃ sulugiti tṛtīyāyā ākāraḥ | devaṃdevaṃ | nityavīpsayoriti dvirbhāvaḥ | tasya paramāmreḍitamityuttarasyāmreḍitasaṃjñāyāmanudāttaṃ ceti sarvānudāttatvaṃ | yajāmahe | nipātairyadyadihaṃteti nighātapratiṣedhaḥ | tve | yuṣmacchabdātsaptamyekavacanasya supāṃ sulugiti śe ādeśaḥ | tvamāvekavacana iti maparyaṃtasya tvādeśaḥ | śeṣalope 'to guṇa iti pararūpatvaṃ | śe | pā. 1-1-13 | iti pragṛhyasaṃjñāyāṃ plutapragṛhyā aci | pā. 6-1-125 | iti prakṛtibhāvaḥ | hūyate | akṛtsārvadhātukayoḥ | pā. 7-4-25 | iti dīrghaḥ ‖*
 
-**Translation:** "O Agni! Although (*yac cid dhi*) we worship — with *śaśvatā* — constant, *tanā* — abundant oblations — each and every different god, Varuṇa, Indra and the rest, of manifold kinds, yet all that oblation is offered in you (*tve it*) alone. Therefore even the worship directed to other gods is carried out by your power alone — that is the meaning. *Tanā*: *tanu vistāre*, *kvip*; or *ac* of the *pacādi* group; the instrumental's *ā* by *supāṃ suluk*. *Devaṃ devam*: doubling in the sense of constancy or repetition; the second is *āmreḍita* by P. 8-1-2, hence wholly anudātta by P. 8-1-3 *anudāttaṃ ca*. *Yajāmahe*: the verb is not lowered because it follows *yat*-type particles (P. 8-1-30). *Tve*: locative of *yuṣmad*; *śe* by *supāṃ suluk*; *tva* for *yuṣmad* up to the *m* by P. 7-2-97; … *śe* has the name *pragṛhya* by P. 1-1-13, so *prakṛtibhāva* by P. 6-1-125 [*plutapragṛhyā aci nityam*]. *Hūyate*: *hveñ spardhāyām*; lengthening by P. 6-4-2." *(Grammar pages 362–363, noted briefly: the words treated are* tanā *[*tanu vistāre* + *kvip* by P. 3-2-76; with the loss of everything, *tan*; or by *nandigrahipacādibhyo lyuṇinyacaḥ* P. 3-1-134 — *ac* — so *tana*; the instrumental *ṭā* → *ā* by P. 7-1-39],* devaṃ devam *[*nityavīpsayoḥ* P. 8-1-4: doubling; *tasya paramāmreḍitam* P. 8-1-2; *anudāttaṃ ca* P. 8-1-3 makes the repeated word anudātta],* yajāmahe *[*yaja devapūjāsaṅgatikaraṇadāneṣu*, *loṭ*/*laṭ* 1st plural *mahiṅ*; the print says the lowering by *tiṅ atiṅaḥ* is prevented because of the *yat*-word (P. 8-1-66 *yadvṛttān nityam*), and by P. 8-1-30 *nipātair yad yadihanta…*],* tve *[*yuṣmad* + *ṅi* → *śe*; *tva*; *e* by P. 6-1-87 / 6-1-94; *śe* is *pragṛhya* by P. 1-1-13 *īdūdeddvivacanaṃ pragṛhyam*? — the print gives *śe*-pragṛhya; then *plutapragṛhyā aci nityam* gives no sandhi before a vowel] and* hūyate *[*hu dānādanayoḥ*, *juhotyādi*, *laṭ* in the passive: *ta* → *te* by P. 3-4-79; *yak* by P. 3-1-67; lengthening by P. 6-4-2 *ākṛtsārvadhātukayor dīrghaḥ* [print: *ākṛt-sārvadhātukayoḥ*]; so *hūyate*]; numerals as read, pointers only.)*
+*(Numbers read at 450 dpi: पा. १-१-१३, ६-१-१२५, ७-४-२५.)*
 
-**॥ Prati-padārthaḥ ॥** *(p. 361)* **(अग्ने) ((agne))** — O Agni | **यत् चित् हि (yat cit hi)** — whatever | **शश्वता (śaśvatā)** — not failing even for one day | **तना (tanā)** — in great abundance | **देवं देवम् (devaṃ devam)** — every god [Varuṇa, Indra, and others] | **यजामहे (yajāmahe)** — we worship | **हविः (haviḥ)** — that oblation | **त्वे इत् (tve it)** — in you alone | **हूयते (hūyate)** — is offered.
+*Gist:* O Agni, although we worship god after god, Varuṇa, Indra and the rest, with constant and ample oblation, all that oblation is offered in you alone; so even the worship of other gods is service to you.
 
-**॥ Bhāvārthaḥ ॥** O Agni! Every day without fail we offer plentiful oblations to Varuṇa, Indra and the other deities; yet all those oblations we offer first in you — that is, through you.
+**॥ Prati-padārthaḥ ॥** **(अग्ने) ((agne))** — (O Agni) | **यच्चिद्धि (yaccid dhi)** — whatever | **शश्वता (śaśvatā)** — constant (without missing a single day) | **तना (tanā)** — and most abundant, with that oblation | **देवंदेवं (devaṃdevaṃ)** — all the gods (Varuṇa, Indra and the others) | **यजामहे (yajāmahe)** — we worship | **हविः (haviḥ)** — all that oblation | **त्वे इत् (tve it)** — in you alone | **हूयते (hūyate)** — is offered.
 
-**॥ English Translation ॥** *(as printed in the source)*
+### Page 362 — Rik 6: overall sense, English, Special Topics, grammar
+
+**॥ Bhāvārthaḥ ॥** O Agni, the oblation, offered without missing a single day, that is, offered every day, and most abundant, which we offer intending it for the gods Varuṇa, Indra and the others — all that oblation we offer first in you, that is, we offer it through you alone.
+
+**॥ English Translation ॥** *(as printed)*
 
 > Whatever we offer as plentiful oblations to the different deities every day is assuredly offered to (through) you.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 362)* **शश्वता** — *śāśvatena, nityena*: every day, constantly. **तना** — *vistṛtena*: abundant, with much oblation. **देवं देवम्** — *anyam anyaṃ varuṇendrādirūpaṃ nānāvidhaṃ devatāviśeṣam*: each deity — Varuṇa, Indra and the other deities, one after another. **त्वे इत् हूयते हविः** — the oblation offered to the other deities is offered in you, Agni. The other gods are not seen directly by the eye, as the śruti says *parokṣaṃ vā anye devā ijyante* ('the other gods are worshipped indirectly'); so the oblation offered for them is offered with Agni as the medium, and you, the messenger of the gods, convey to them the oblation offered in you.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**शश्वता (śaśvatā)** — *śāśvatena, nityena*: which we offer every day.
+
+**तना (tanā)** — *vistṛtena*: with ample, abundant oblation.
+
+**देवंदेवं (devaṃdevaṃ)** — *anyam anyaṃ varuṇendrādirūpaṃ nānāvidhaṃ devatāviśeṣam*: every deity, that is, intending the various gods Varuṇa, Indra and the others.
+
+**त्वे इत् हूयते हविः (tve it hūyate haviḥ)** — the oblation we offer intending the other gods we offer in you alone, Agni. Since by the scriptural statement *parokṣaṃ vā anye devā ijyante* the other gods are not seen by the eye, we offer in Agni alone the oblation that is to be given to them, intending them. The sense is: you, the messenger of the gods, carry the oblation offered in you to them.
+
+**॥ Vyākaraṇa-prakriyā ॥** *(grammar, noted briefly; numbers read at 450 dpi, v3a)*
+
+**तना (tanā)** — *tanu vistāre*, tanādi; by "क्विप् च" (Pā. Sū. 3-2-76) the suffix *kvip*, wholly dropped: *tan*, an *n*-stem; instrumental singular *tanā*. Or: by "नन्दिग्रहिपचादिभ्यः-" (Pā. Sū. 3-1-134), being in the *pacādi* list, the suffix *ac*: *tana*, an *a*-stem; for the instrumental singular, by "सुपां सुलुक्" (Pā. Sū. 7-1-39) the substitute *ā*: *tanā*.
+
+**देवंदेवम् (devaṃdevam)** — by "नित्यवीप्सयोः" (Pā. Sū. 8-1-4), when repetition (*vīpsā*) is meant, the word is doubled; here *vīpsā* is meant. By "तस्य परमाम्रेडितम्" (Pā. Sū. 8-1-2) the latter form is called *āmreḍita*;
+
+### Page 363 — Rik 6: grammar (end)
+
+by "अनुदात्तं च" (Pā. Sū. 8-1-3) the repeated latter form is all-anudātta; so the latter form takes the *nighāta* accent.
+
+**यजामहे (yajāmahe)** — *yaja devapūjāsaṅgatikaraṇadāneṣu*; first plural. Because of its connection with *yat* in *yaccid dhi*, by "निपातैर्यद्यदिहन्त-" (Pā. Sū. 8-1-30) the *tiṅanta*'s *nighāta* does not come.
+
+**त्वे (tve)** — after *yuṣmad*, for the locative singular, by "सुपां सुलुक्" the substitute *śe*; being *śit*, it replaces the whole. By "त्वमावेकवचने" (Pā. Sū. 7-2-97) *tva* for the part up to *m*; with *tva* + *ad* + *e*, by "शेषे लोपः" (Pā. Sū. 7-2-90) the *ad* after the *m*-part is dropped; by "अतो गुणे" (Pā. Sū. 6-1-97) *pararūpa*: *tve*. By "शे" (Pā. Sū. 1-1-13) *śe* is called *pragṛhya*, so *tve* is *pragṛhya*; with *tve* + *iti*, by "प्लुतप्रगृह्या अचि नित्यम्" (Pā. Sū. 7-4-25, as printed; for 6-1-125; the bhāṣya gives ६-१-१२५) there is no sandhi.
+
+**हूयते (hūyate)** — *hu dānādanayoḥ*, juhotyādi; *laṭ* third singular in the passive; by "टित आत्मनेपदानाम्-" (Pā. Sū. 3-4-79) *e*; by "सार्वधातुके यक्" (Pā. Sū. 3-1-67) *yak*; by "अकृत्सार्वधातुकयोर्दीर्घः" (Pā. Sū. 7-4-15, as printed; for 7-4-25; the bhāṣya gives ७-४-२५) the vowel-final stem is lengthened before a *y*-initial suffix other than a *kṛt* or *sārvadhātuka*: *hūyate*. ॥६॥ *(A printed rule follows; Ṛk 7 begins on the same page.)*
 
 ---
 
