@@ -4700,43 +4700,95 @@ The meaning of this ṛk does not fit very well. The comparison too is not good.
 
 ---
 
-### Pages 200–204 — Sūkta 23, Rik 16 *(the riks to the Waters, Āpaḥ, begin here)*
+### Page 200 — Sūkta 23, Rik 16 *(the ṛks to the Waters, Āpaḥ, begin here)*
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अम्बयो यन्त्यध्वभिर्जामयो अध्वरीयताम् ।
-> पृञ्चतीर्मधुना पयः ॥ १६ ॥
-
-*ambayo yanty adhvabhir jāmayo adhvarīyatām | pṛñcatīr madhunā payaḥ || 16 ||*
-
-**॥ Padapāṭhaḥ ॥**
-
-> अम्बयः । यन्ति । अध्वऽभिः । जामयः । अध्वरिऽयताम् ॥ पृञ्चतीः । मधुना । पयः ॥ १६ ॥
-
-*ambayaḥ | yanti | adhva-bhiḥ | jāmayaḥ | adhvari-yatām || pṛñcatīḥ | madhunā | payaḥ || 16 ||*
-
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 200; the opening ritual sentences are read with doubt)*
-
-> आपोनप्त्रीये [?] विकधनासूपानीतासु स्वयमनुगच्छन्नम्बय इति द्वे अनुब्रूयात् । तृतीययोपो देवीरित्यन्यै कधनासु [?] हविरर्थानां प्रविष्यासु स्वयमनुप्रविशेत् । तथैव सूत्रितम् — अम्बयो यन्त्यध्वभिरिति तिस्र उत्तमयानुप्रपद्येत [?] । आ. ३-१ [?] इति ॥
+> अ॒म्बयो॑ य॒न्त्यध्व॑भिर्जा॒मयो॑ अध्वरीय॒तां ।
+> पृ॒ञ्च॒तीर्मधु॑ना॒ पयः॑ ॥१६॥
 >
-> अध्वरीयतामध्वरमात्मन इच्छतामस्माकमम्बयो मातृस्थानीया आपः । तथा च कौषीतकिब्राह्मणे समाम्नायते — अम्बयो यन्त्यध्वभिरित्यापो वा अम्बय इति । ता आपोऽध्वभिर्देवयजनमार्गैर्यन्ति गच्छन्ति । कीदृश्य आपः । जामयो हितकारिणो बन्धवः । तथा मधुना माधुर्यरसेन युक्तं पयः पृञ्चतीर्गवादिषु योजयन्त्यः ॥ अम्बयः । रबि लबि अबि शब्दे । एतस्मादचः इः (उ. ४-१३९ [?]) । इत्यादि प्रकरणे बाहुलकादिः [?] । प्रत्ययस्वरः । अध्वभिः । आदेर्धश्च (उ. ४-१३८ [?]) इति क्वनिप् । अद भक्षणे । धातोर्दकारस्य धकारः । क्वनिप्प्रत्ययः पित् । अनुदात्तौ सुप्पितौ (पा. ३-१-४) इत्यनुदात्तः । धातुस्वरः । जामयः । जमु अदने [?] । बाहुलकादिप्रत्ययः । अध्वरीयताम् । न विद्यते ध्वरो हिंसा यस्मिन्सोऽध्वरः । नञ्सुभ्याम् (पा. ६-२-१७२) इत्यन्तोदात्तः । अध्वरमात्मन इच्छन्तीत्यध्वरीयन्तः तेषामध्वरीयताम् ॥ पृञ्चतीः । पृची सम्पर्के । लटः शतृ । रुधादिभ्यः श्नम् । श्नसोरल्लोपः । आनुस्वारपरसवर्णौ । उगितश्चेति ङीप् । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । शतुरनुमो नद्यजादी इति ङीप उदात्तत्वम् ॥
+> *ambáyo yanty ádhvabhir jāmáyo adhvarīyatā́ṃ |*
+> *pṛñcatī́r mádhunā páyaḥ ||16||*
 
-*āponaptrīye [?] vikadhanāsūpanītāsu svayam anugacchann ambaya iti dve anubrūyāt | tṛtīyayāpo devīr ity anyai kadhanāsu [?] haviḥarthānāṃ praviṣyāsu svayam anupraviśet | tathaiva sūtritam — ambayo yanty adhvabhir iti tisra uttamayānuprapadyeta [?] | ā. 3-1 [?] iti ||*
-*adhvarīyatām adhvaram ātmana icchatām asmākam ambayo mātṛsthānīyā āpaḥ | tathā ca kauṣītakibrāhmaṇe samāmnāyate — ambayo yanty adhvabhir ity āpo vā ambaya iti | tā āpo 'dhvabhir devayajanamārgair yanti gacchanti | kīdṛśya āpaḥ | jāmayo hitakāriṇo bandhavaḥ | tathā madhunā mādhuryarasena yuktaṃ payaḥ pṛñcatīr gavādiṣu yojayantyaḥ || ambayaḥ | rabi labi abi śabde | etasmād acaḥ iḥ (u. 4-139 [?]) | ity ādi prakaraṇe bāhulakād iḥ [?] | pratyayasvaraḥ | adhvabhiḥ | ader dhaś ca (u. 4-138 [?]) iti kvanip | ada bhakṣaṇe | dhātor dakārasya dhakāraḥ | kvanipratyayaḥ pit | anudāttau suppitau (pā. 3-1-4) ity anudāttaḥ | dhātusvaraḥ | jāmayaḥ | jamu adane [?] | bāhulakād ipratyayaḥ | adhvarīyatām | na vidyate dhvaro hiṃsā yasmin so 'dhvaraḥ | nañsubhyām (pā. 6-2-172) ity antodāttaḥ | adhvaram ātmana icchantīty adhvarīyantaḥ teṣām adhvarīyatām || pṛñcatīḥ | pṛcī samparke | laṭaḥ śatṛ | rudhādibhyaḥ śnam | śnasor allopaḥ | ānusvāraparasavarṇau | ugitaś ceti ṅīp | vā chandasīti pūrvasavarṇadīrghatvam | śaturanumo nadyajādī iti ṅīpa udāttatvam ||*
+*(Strokes over यो (अम्बयो), ध्व and यो (जामयो); bars under अ, य (यन्ति), जा and य (अध्वरीयताम्). Line 2: bars under पृ and च, strokes over धु and यः, a bar under ना.)*
 
-**Translation:** "[Ritual use, read with doubt:] In the *Āponaptrīya* [?] … when [the waters] have been brought … he follows them and recites two [riks], *ambayaḥ* [etc.]; with the third, *āpo devīr* …, when [the waters] that are for the oblation are entering … he enters after them himself; so it is laid down: 'the three, *ambayo yanty adhvabhiḥ*, with the last he should approach' [?] (Āś. [3-1] [?]). *Adhvarīyatām*: of us who desire the sacrifice (*adhvara*) — *ambayaḥ*, the waters, who stand in the place of mothers. So the Kauṣītaki-brāhmaṇa says: '*ambayo yanty adhvabhiḥ* — the waters are *ambayaḥ*.' Those waters go (*yanti*) by the paths (*adhvabhiḥ*) — the paths to the place of the divine sacrifice. What are the waters like? *Jāmayaḥ*: kindly, [like] kinsmen; and *pṛñcatīḥ*: mixing milk (*payaḥ*) charged with the sweetness of honey (*madhunā*) — joining it to cows and the like." *(Grammar pages 201–204, noted briefly: the words treated are* ambayaḥ *[*rabi labi abi śabde*, a root *abi* 'to sound', with the Uṇādi suffix *i*; the accent of the suffix],* adhvabhiḥ *[*ada bhakṣaṇe*, *kvanip* by Uṇ. 4-[?] *ader dhaś ca* with *dh* for *d*; *pit*, hence the accent of the root],* jāmayaḥ *[*jamu adane* + *i*, by the *bāhulaka* rule],* adhvarīyatām *[*adhvara* + *kyac* in the sense of 'wishing for oneself', P. 3-1-8 *supa ātmanaḥ kyac* — with an extended argument on *ātmanaḥ* as a *ṣaṣṭhī-śeṣa*, then *śatṛ* for *laṭ*, P. 3-2-124, *śap* with accent rules; the question of whether *putra* etc. blocks *īkāra* (P. 7-4-35 *na chandasi putrasya*) — answered by the vārttika *aputrādīnām*; P. 6-4-148 *yasyeti ca*; the loss of the *a* of* adhvara *and the gen. plural in* ām*, with the *nuṭ* augment P. 6-4-3 *nāmi*, *śaturanumo nadyajādī* P. 6-1-173],* pṛñcatīḥ *[*pṛci sampārke* + *śatṛ*, *śnam* by P. 3-1-78 *rudhādibhyaḥ śnam*; *nalopa*; anusvāra and *parasavarṇa* by P. 8-3-24, 8-4-58; *ṅīp* by P. 4-1-6 *ugitaś ca*; the ending *jas* → lengthened by *vā chandasi* P. 6-1-106]; numerals as read, pointers only.)*
+**॥ Pada-pāṭhaḥ ॥**
 
-**॥ Prati-padārthaḥ ॥** **अध्वरीयताम् (adhvarīyatām)** — of us who look forward to performing the sacrifice | **जामयः (jāmayaḥ)** — doing good like kinsmen | **अम्बयः (ambayaḥ)** — in the form of mothers, the waters (the deities of water) | **पयः (payaḥ)** — [to] the milk of cows | **मधुना (madhunā)** — with sweetness | **पृञ्चतीः (pṛñcatīḥ)** — mixing | **अध्वभिः (adhvabhiḥ)** — by the paths to the place of divine sacrifice | **यन्ति (yanti)** — flow.
+> अम्बयः । यन्ति । अध्वऽभिः । जामयः । अध्वरिऽयतां ॥
+> पृञ्चतीः । मधुना । पयः ॥१६॥
+>
+> *ambayaḥ | yanti | adhva 'bhiḥ | jāmayaḥ | adhvari 'yatāṃ ||*
+> *pṛñcatīḥ | madhunā | payaḥ ||16||*
 
-**॥ Bhāvārthaḥ ॥** The waters (milk) are like mothers to us who look forward to the sacrifice; they do good like kinsmen; they give sweetness to the milk of cows. Such waters flow along our paths.
+**॥ Sāyaṇa-bhāṣyam ॥**
+
+*(Numbers as printed: आ० ५-१, उ० ४-१३८, उ० ४-११४, म० ७-४-३५, पा० ७-४-३९.)*
+
+> अपोनप्त्रीये एकधनासूपानीतासु स्वयमनुगच्छन्नम्बय इति द्वे अनुब्रूयात् । तृतीययापो देवीरित्यनयैकधनासु हविर्धानं प्रविष्टासु स्वयमनुप्रविशेत् । तथैव सूत्रितं । अम्बयो यन्त्यध्वभिरिति तिस्र उत्तमयानुप्रपद्येत । आ० ५-१ । इति ॥
+>
+> *aponaptrīye ekadhanāsūpānītāsu svayamanugacchannambaya iti dve anubrūyāt | tṛtīyayāpo devīrityanayaikadhanāsu havirdhānaṃ praviṣṭāsu svayamanupraviśet | tathaiva sūtritaṃ | ambayo yantyadhvabhiriti tisra uttamayānuprapadyeta | ā0 5-1 | iti ||*
+
+**Translation (application):** "At the *aponaptrīya*, when the *ekadhanā* waters have been brought, going along himself, he should recite the two ṛks *ambayaḥ*; with the third, *āpo devīḥ*, when the *ekadhanā* waters have entered the *havirdhāna*, he should himself enter after them. So it is laid down: '*ambayo yanty adhvabhiḥ*: three; with the last he should go in after' (Āśv. 5-1)."
+
+> अध्वरीयतामध्वरमात्मन इच्छतामस्माकमम्बयो मातृस्थानीया आपः । तथा च कौषीतकिब्राह्मणे समाम्नायते । अम्बयो यन्त्यध्वभिरित्यापो वा अम्बय इति । ता आपोऽध्वभिर्देवयजनमार्गैर्यन्ति । गच्छन्ति । कीदृश्य आपः । जामयो हितकारिण्यो बन्धवः । तथा मधुना माधुर्यरसेन युक्तं पयः पृञ्चतीर्गवादिषु योजयन्त्यः ॥ अम्बयः । रबि लबि अबि शब्दे । एतस्मादच इः । उ० ४-१३८ । इति प्रकरणे बाहुलकादिः । प्रत्ययस्वरः । अध्वभिः । अदेर्ध च । उ० ४-११४ । इति क्वनिप् । पित्त्वात्प्रत्ययस्यानुदात्तत्वे धातुस्वरः । जामयः । जमु अदने । बाहुलकादिः । अध्वरीयतां । अध्वरशब्दात्सुप आत्मनः क्यजिति क्यच् । क्यचि चेतीत्वं । अपुत्रादीनामिति वक्तव्यं । म० ७-४-३५ । इति वचनान्न छन्दस्यपुत्रस्येतीत्वनिषेधाभावः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति कव्यध्वरपृतनस्य । पा० ७-४-३९ । इत्यकारलोपोऽपि न भवति । क्यच्प्रत्ययान्तधातोर्लटः शतृ । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण तयोः क्यचा सहैकादेशः । एकादेश उदात्तेनोदात्त इत्यन्तोदात्तत्वे सति शतुरनुमो नद्यजादी इति षष्ठ्या उदात्तत्वं । पृञ्चतीः । पृची संपर्के । लटः शतृ । रुधादिभ्यः श्नम् । श्नसोरल्लोपः । अनुस्वारपरसवर्णौ । उगितश्चेति ङीप् । वा छन्दसीति पूर्वसवर्णदीर्घत्वं । शतुरनुम इति ङीप उदात्तत्वं ॥
+>
+> *adhvarīyatāmadhvaramātmana icchatāmasmākamambayo mātṛsthānīyā āpaḥ | tathā ca kauṣītakibrāhmaṇe samāmnāyate | ambayo yantyadhvabhirityāpo vā ambaya iti | tā āpo 'dhvabhirdevayajanamārgairyanti | gacchanti | kīdṛśya āpaḥ | jāmayo hitakāriṇyo bandhavaḥ | tathā madhunā mādhuryarasena yuktaṃ payaḥ pṛñcatīrgavādiṣu yojayantyaḥ || ambayaḥ | rabi labi abi śabde | etasmādaca iḥ | u0 4-138 | iti prakaraṇe bāhulakādiḥ | pratyayasvaraḥ | adhvabhiḥ | aderdha ca | u0 4-114 | iti kvanip | pittvātpratyayasyānudāttatve dhātusvaraḥ | jāmayaḥ | jamu adane | bāhulakādiḥ | adhvarīyatāṃ | adhvaraśabdātsupa ātmanaḥ kyajiti kyac | kyaci cetītvaṃ | aputrādīnāmiti vaktavyaṃ | ma0 7-4-35 | iti vacanānna chandasyaputrasyetītvaniṣedhābhāvaḥ | sarve vidhayaśchandasi vikalpyanta iti kavyadhvarapṛtanasya | pā0 7-4-39 | ityakāralopo 'pi na bhavati | kyacpratyayāntadhātorlaṭaḥ śatṛ | śapaḥ pittvādanudāttatvaṃ | śatuśca lasārvadhātukasvareṇa tayoḥ kyacā sahaikādeśaḥ | ekādeśa udāttenodātta ityantodāttatve sati śaturanumo nadyajādī iti ṣaṣṭhyā udāttatvaṃ | pṛñcatīḥ | pṛcī saṃparke | laṭaḥ śatṛ | rudhādibhyaḥ śnam | śnasorallopaḥ | anusvāraparasavarṇau | ugitaśceti ṅīp | vā chandasīti pūrvasavarṇadīrghatvaṃ | śaturanuma iti ṅīpa udāttatvaṃ ||*
+
+**Translation:** "Of us, *adhvarīyatām*, who wish the sacrifice for ourselves, the *ambayaḥ*, mother-like waters — so it is recorded in the Kauṣītaki-brāhmaṇa: '*ambayo yanty adhvabhiḥ*: the waters indeed are the *ambayaḥ*' — those waters *yanti*, go, *adhvabhiḥ*, by the paths to the place of worship of the gods. Of what kind are the waters? *Jāmayaḥ*, kinsfolk who do good; and *pṛñcatīḥ*, mixing, in cows and the like, the *payaḥ*, milk, joined *madhunā*, with sweet juice." (Grammatical tail: *ambayaḥ*, *rabi labi abi śabde*, *i* after it by *ac iḥ* (U. 4-138) in the section, by *bāhulaka*; the suffix accent; *adhvabhiḥ*, *kvanip* by *ader dha ca* (U. 4-114), with the suffix unaccented as *pit*, the root accent; *jāmayaḥ*, *jamu adane*, *i* by *bāhulaka*; *adhvarīyatām*, *kyac* after *adhvara* by *supa ātmanaḥ kyac*, the *ī* by *kyaci ca*; by the statement *aputrādīnām iti vaktavyam* (Ma. 7-4-35) the bar *na chandasy aputrasya* does not apply; by *sarve vidhayaś chandasi vikalpyante* the dropping of *a* by *kavyadhvarapṛtanasya* (Pā. 7-4-39) also does not come; *śatṛ* for *laṭ* after the root ending in *kyac*; *śap* unaccented as *pit*, and *śatṛ* too by the *lasārvadhātuka* accent; their single substitute with *kyac* being final udātta by *ekādeśa udāttenodāttaḥ*, the genitive is udātta by *śatur anumo nadyajādī*; *pṛñcatīḥ*, *pṛcī saṃparke*, *śatṛ* for *laṭ*, *śnam* by *rudhādibhyaḥ śnam*, *a* dropped by *śnasor allopaḥ*, *anusvāra* and *parasavarṇa*, *ṅīp* by *ugitaś ca*, the long like vowel by *vā chandasi*, the *ṅīp* udātta by *śatur anumaḥ…*.)
+
+### Page 201 — Rik 16: word-meanings, overall sense, English, Special Topics
+
+**॥ Prati-padārthaḥ ॥**
+
+**अध्वरीयतां (adhvarīyatāṃ)** — for us who desire the performance of sacrifice | **जामयः (jāmayaḥ)** — who do good like kinsfolk | **अम्बयः (ambayaḥ)** — the waters in the form of mothers (the deities presiding over the waters) | **पयः (payaḥ)** — the milk of cows | **मधुना (madhunā)** — with sweet juice | **पृञ्चतीः (pṛñcatīḥ)** — making it mixed | **अध्वभिः (adhvabhiḥ)** — by the way of the worship of the gods | **यन्ति (yanti)** — flow.
+
+**॥ Bhāvārthaḥ ॥**
+
+The waters, for us who desire the performance of sacrifice, are in the form of mothers, that is, worthy of honour like a mother. They do good like kinsfolk. They make the milk of cows sweet. Such water is flowing in our path.
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > The Sacred waters (dear mothers) of the Sacrificers are flowing by the way mixing the milk (of cows) with sweetness.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 201–202)* **अम्बयः** — in the Kauṣītaki-brāhmaṇa the meaning of the word *ambaya* is given as 'waters': *ambayo yanty adhvabhir ity āpo vā ambayaḥ*. As a mother is called *ambā*, it is customary that here the waters are addressed with a word expressing affection. In the Ṛgveda, the deities presiding over water — or the waters themselves — are worshipped as goddesses in *āpo devīḥ*, and it is the custom to address them in the plural feminine. These hymns to the water-deity are deep in meaning, full of significance, and, with their devotion, very beautiful.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
 
-**जामयः** — *hitakāribhyo bandhavaḥ*: kinsmen who do good. The word occurs in the Ṛgveda in the riks 1-[?]-[?]; 3-[?]-[?]; 4-[?]-[?]; 8-[?]-[?]; 10-[?]-[?] and others (numerals as printed, too small to read with certainty). **अध्वरीयताम्** — *adhvareṇa* (by sacrifice) *devayajanaṃ kartum icchatām* — of those wishing to perform the divine sacrifice; those who need the performance of sacrifice. **पृञ्चतीः** — *miśrayantyaḥ*: mixing. **मधुना पयः** — water is essential for life, and the rivers and the like, flowing, … even though it is like the water of the ocean [?]; the cows give delicious milk by drinking such water, so the ṛṣi may have used this expression. [The sense is: the waters, flowing along the paths, mix with the milk of the cows; hence milk tastes sweet.]
+**अम्बयः (ambayaḥ)** — in the Kauṣītaki-brāhmaṇa there is the explanation, *ambayo yanty adhvabhir ity āpo vā ambayaḥ*, that the word *ambaya* means the waters. Since it is customary to call a mother *amba*, it is to be known that the water here is addressed by a word expressing affection. In the Ṛgveda it is customary to call the deities presiding over the waters (or the waters) *āpo devīḥ*, with the feeling of honour, like honoured women. Besides, it is customary always to address these deities presiding over the waters in the feminine plural. The sūktas with the Waters as deity are very deep, full of meaning, joined with devotion, and very beautiful.
+
+> अम्बयो यन्त्यध्वभिरित्यापो वा अम्बयः ।
+>
+> *ambayo yantyadhvabhirityāpo vā ambayaḥ |*
+
+**जामयः (jāmayaḥ)** — *hitakāriṇyo bandhavaḥ |* kinsfolk who are well-wishers. The use of this word is in the Ṛgveda in the ṛks 1-31-10; 3-54-3 [?]; 4-25-3 [?]; 8-102-13 [?]; 9-26-5 [?]; 9-65-1; 9-66-8; 9-89-4; 10-10-10 (small type, as read).
+
+### Page 202 — Rik 16: Special Topics (end), grammar
+
+**अध्वरीयतां (adhvarīyatāṃ)** — *adhvareṇa* (by sacrifice) *devayajanaṃ kartum icchatām ||* who desire to perform the sacrifice.
+
+**पृञ्चतीः (pṛñcatīḥ)** — *miśrayantyaḥ*: mixing.
+
+**मधुना पयः (madhunā payaḥ)** — the ṛṣi may have used this expression because water is most needed to support life, because flowing water in rivers and the like is sweet, unlike sea water, and because cows, by drinking such water, give tasty milk.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**अम्बयः (ambayaḥ)** — the root *rabi labi abi śabde*; for the *i* of the root *abi* the *it*-name and dropping have come. So this is *idit*, that is, having *i* as *it*; so by *idito num dhātoḥ* (Pā. Sū. 7-1-58) — after the last vowel of a root marked *i* comes the augment *num* (*n*) — the augment *num*. By *ac iḥ* (U. Sū., number in small type not clear [?]; the bhāṣya prints उ० ४-१३८) — after a root ending in a vowel comes the suffix *i* — this is its meaning. Though the root *amb* does not end in a vowel, since *bahulam* is said in this section, the suffix *i* comes here. By the suffix accent the *i* is udātta.
+
+**अध्वभिः (adhvabhiḥ)** — by *ader dha ca* (U. Sū., number in small type not clear [?]; the bhāṣya prints उ० ४-११४) — after the root *ada bhakṣaṇe* the suffix *kvanip* comes, and *dh* for the *d* of the root — when the suffix *kvanip* comes and *dh* for the *d*, it becomes *adhvan*. The suffix *kvanip* is *pit*; so by *anudāttau suppitau* (Pā. Sū. 3-1-4) it is unaccented, and the root accent alone stays.
+
+**जामयः (jāmayaḥ)** — the root *jamu adane*; after it, by the mention of *bahula*, the suffix *i*.
+
+**अध्वरीयतां (adhvarīyatāṃ)** — *na vidyate dhvaraḥ* (*hiṃsā*) *yasmin saḥ adhvaraḥ*; by *nañsubhyām* (Pā. Sū. 6-2-172) final udātta. The analysis is *adhvaram ātmanaḥ icchanti iti adhvarīyantaḥ, teṣām adhvarīyatām*. By *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8) and the *paribhāṣā* *pratyayagrahaṇe yasmāt sa vihitas tadādes tadantasya grahaṇam* (Paribhā. 24), in *supaḥ* 'ending in it' is obtained. It became *subantāt*. From *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. Sū. 3-1-7) the three words *karmaṇaḥ*, *icchāyām*, *vā* are carried on. *Karmaṇaḥ* is a word in the fifth case, so 'from what expresses the object' results. 'The object with regard to what?' — when this expectation arises, *icchāyām* is present, so it results: 'being the object with regard to the root *iṣ*'. The word *ātman* conveys the meaning *sva*, 'oneself'. When purpose is intended, the fourth case *ātmane* would be fitting here; yet intending the purpose as a relation, by *ṣaṣṭhī*
+
+### Page 203 — Rik 16: grammar (continued)
+
+*śeṣe* (Pā. Sū. 2-3-50) the genitive has come. Thus *ātmanaḥ* means 'for one's own purpose'. *Sva* intends the one who wishes. And so the sense of the sūtra: in the sense 'wishes', *kyac* comes after a *sup*-ending word expressing the object that is for the purpose of the one who wishes. This mantra is one with the Waters as deity. Those who praise the Water deity wish the sacrifice for their own purpose: this is the situation. Then *adhvaram* is a *sup*-ending word that is the object with regard to the root *iṣ* in *icchati*. This object is for the purpose of those who wish. Therefore after the word *adhvaram* the suffix *kyac* comes: *adhvara* + *am* + *kyac*. *Kyac* is included among the twelve *sanādi* suffixes counted as *sankyackāmyac…*; so by *sanādyantā dhātavaḥ* (Pā. Sū. 3-1-32) — what ends in *san* and the rest gets the name *dhātu* — *adhvarīya* gets the name *dhātu*. By *supo dhātuprātipadikayoḥ* (Pā. Sū. 2-4-71) — a *sup* that is part of a root or a nominal stem is dropped (*luk*) — the *am* is dropped (*luk*): *adhvara* + *ya*. By *kyaci ca* (Pā. Sū. 7-4-33) — when the suffix *kyac* follows, *ī* is substituted for that *a* — the substitute *ī* for the *a* before *ya*: it became *adhvarī* + *ya*. But here by *na chandasy aputrasya* (Pā. Sū. 7-4-35) — when *kyac* follows, for words ending in *a* other than the word *putra*, the substitute *ī* and lengthening do not come — the question arises that the prohibition of *ītva* should come for the word *adhvara* (not being *putra*). To this the author of the *vārttika* has said by the *vārttika* *aputrādīnām iti vaktavyam* (Pā. Sū. 7-4-35 Vā.) that instead of *aputrasya* one should read *aputrādīnām* in the sūtra. Now it means that, leaving aside the words *putra* and the rest, for a word ending in *a*, when *kyac* follows, *ītva* does not come. The answer is that since the word *adhvara* is included among the *putrādi*, the prohibition of *ītva* does not come for it. By *kavyadhvarapṛtanasyarci lopaḥ* (Pā. Sū. 7-4-39) — in the matter of the ṛk, when the suffix *kyac* follows, the final letter of the words *kavi*, *adhvara*, *pṛtanā* is dropped — the dropping of the *a* of the word *adhvara* would be due. But by *sarve vidhayaś chandasi vikalpyante* (Paribhā. 36 [?]) — in the Veda all operations come optionally — the *a* is not dropped. By *vartamāne laṭ* (Pā. Sū. 3-2-123) *laṭ* comes after the root *adhvarīya* ending in the suffix *kyac*; for it by *laṭaḥ śatṛśānacāv aprathamāsamānādhikaraṇe* (Pā. Sū. 3-2-124) the substitute *śatṛ*; by *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap* (*a*): it became *adhvarīya* + *a* + *at*. By *citaḥ* (Pā. Sū. 6-1-163) the *a* of *kyac*, being *cit*, is udātta. By *anudāttau suppitau* (Pā. Sū. 3-1-4) *śap* is unaccented. *Śatṛ* is a *sārvadhātuka* in place of *la*; it follows the *a*-final original teaching *śap*. So by *tāsy anu-*
+
+### Page 204 — Rik 16: grammar (continued)
+
+*dāttenṅid adupadeśāt…* (Pā. Sū. 6-1-186) *śatṛ* is unaccented; for these two unaccented *a*'s, by *ato guṇe* (Pā. Sū. 6-1-97), the following form comes. By *sthānivadbhāva* it is unaccented. For this *a* and the *a* of *kyac*, again by the following form, a short *a* comes. Since it comes in place of both udātta and unaccented, by *ekādeśa udāttenodāttaḥ* (Pā. Sū. 8-2-5) it becomes udātta. Thus *adhvarīyat* is final udātta. After it the genitive plural *ām*: *adhvarīyat* + *ām*. Here by *śatur anumo nadyajādī* (Pā. Sū. 6-1-173) — if a word ending in the suffix *śatṛ* without the augment *num* is final udātta, the *nadī*-named suffix and the vowel-initial case-endings *śas* and the rest after it are also udātta — the *ām* is udātta.
+
+**पृञ्चतीः (pṛñcatīḥ)** — the root *pṛcī saṃparke*. After it *laṭ*; for it *śatṛ*: *pṛc* + *at*. By *rudhādibhyaḥ śnam* (Pā. Sū. 3-1-78) the *vikaraṇa* *śna*; by the force of being *mit*, it comes after the *ṛ* of *pṛ*: *pṛ* + *na* + *c* + *at*. By *śnasor allopaḥ* (Pā. Sū. 6-4-111) — when a *sārvadhātuka* suffix that is *kit* or *ṅit* follows, the *a* of the suffix *śna* and of the root *as* is dropped — the *a* of the suffix *śna* is dropped: *pṛ* + *n* + *c* + *at*. By *stoḥ ścunā ścuḥ* (Pā. Sū. 8-4-40) the palatalisation of the *n*, the *ñ*, is *asiddha* when making the *anusvāra*; so by *naś cāpadāntasya jhali* (Pā. Sū. 8-3-24) — when a *jhal* letter follows, the *n* and *m* not at the end of a *pada* take *anusvāra* — *anusvāra*; for it by *anusvārasya yayi parasavarṇaḥ* (Pā. Sū. 8-4-58) — before a *yay* letter, the *anusvāra* takes the homorganic of the following — before the *c* comes, by place, the homorganic nasal *ñ*. *Pṛñc* + *at*: when making *anusvāra* and *parasavarṇa*, since there is the prohibition *na padānta… svarasavarṇānusvāra…* (Pā. Sū. 1-1-58), the *sthānivadbhāva* for the dropping of *a* by *acaḥ parasmin* (Pā. Sū. 1-1-57) does not come. The *ṛ* of *śatṛ* has the *it*-name; the *ṛ* is in the *pratyāhāra* *uk*; so *śatṛ* is *ugit*. By *ugitaś ca* (Pā. Sū. 4-1-6) — when the feminine is intended after a nominal stem ending in an *ugit*, *ṅīp* comes — *ṅīp* comes: *pṛñcat* + *ī*. On the view that it names letters, by *yū stryākhyau nadī* (Pā. Sū. 1-4-3) the *ī* has the name *nadī*; so by *śatur anumo nadyajādī* the *ī* is udātta. After *pṛñcatī*, *jas*; by *vā chandasi* (Pā. Sū. 6-1-106) — in the Veda, after a long vowel, if *jas* or an *ic* follows, the long like vowel comes optionally — the long like vowel comes. ॥16॥
+
+*(An ornament follows.)*
 
 ---
 
