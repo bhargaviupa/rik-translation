@@ -4938,38 +4938,85 @@ When the case-ending thus gets the udātta, by the *śeṣānudātta* accent *an
 
 ---
 
-### Pages 212–215 — Sūkta 23, Rik 18
+### Page 212 — Sūkta 23, Rik 18
 
-**॥ Saṃhitāpāṭhaḥ ॥**
+**॥ Saṃhitā-pāṭhaḥ ॥**
 
-> अपो देवीरुप ह्वये यत्र गावः पिबन्ति नः ।
-> सिन्धुभ्यः कर्त्वं हविः ॥ १८ ॥
+> अ॒पो दे॒वीरुप॑ ह्वये॒ यत्र॒ गावः॒ पिब॑न्ति नः ।
+> सि॒न्धुभ्यः॒ कर्त्वं॑ ह॒विः ॥१८॥
+>
+> *apó devī́r úpa hvaye yátra gā́vaḥ píbanti naḥ |*
+> *sindhúbhyaḥ kártvaṃ havíḥ ||18||*
 
-*apo devīr upa hvaye yatra gāvaḥ pibanti naḥ | sindhubhyaḥ kartvaṃ haviḥ || 18 ||*
+*(Bars under अ, दे, ये (ह्वये), त्र (यत्र) and वः; strokes over प (उप) and ब (पिबन्ति). Line 2: bars under सि, भ्यः and ह; a stroke over र्त्वं.)*
 
-**॥ Padapāṭhaḥ ॥**
+**॥ Pada-pāṭhaḥ ॥**
 
-> अपः । देवीः । उप । ह्वये । यत्र । गावः । पिबन्ति । नः ॥ सिन्धुऽभ्यः । कर्त्वम् । हविः ॥ १८ ॥
-
-*apaḥ | devīḥ | upa | hvaye | yatra | gāvaḥ | pibanti | naḥ || sindhu-bhyaḥ | kartvam | haviḥ || 18 ||*
+> अपः । देवीः । उप । ह्वये । यत्र । गावः । पिबन्ति । नः ॥
+> सिन्धुऽभ्यः । कर्त्वं । हविः ॥१८॥
+>
+> *apaḥ | devīḥ | upa | hvaye | yatra | gāvaḥ | pibanti | naḥ ||*
+> *sindhu 'bhyaḥ | kartvaṃ | haviḥ ||18||*
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
-> नोऽस्मदीया गावो यत्र यास्वप्सु पिबन्ति पानं कुर्वन्ति ता आपो देवीरुप ह्वये आह्वयामि । सिन्धुभ्यः स्यन्दनशीलाभ्योऽद्भ्यो देवताभ्यो हविः कर्तव्यम् । अस्माभिः कर्तव्यम् ॥ अपः । ऊडिदमित्यादिना शस उदात्तत्वम् । पिबन्ति । प्राघ्रेत्यादिना पिबादेशः । शपः पित्त्वादनुदात्तत्वम् । तिङ्ङश्च लसार्वधातुकस्वरेण धातुस्वरेणाद्युदात्तत्वम् ॥ निपातैर्यद्यदीत्यादिना निघाताभावः । कर्त्वम् । डुकृञ् करणे । कृत्यार्थे तवैकेन्केन्यत्वनः (पा. ३-४-१४) इति कर्मणि त्वन्प्रत्ययः । गुणः । नित्स्वरेणाद्युदात्तत्वम् ॥
+*(The number is printed पा० ३-४-१४.)*
 
-*no 'smadīyā gāvo yatra yāsv apsu pibanti pānaṃ kurvanti tā āpo devīr upa hvaye āhvayāmi | sindhubhyaḥ syandanaśīlābhyo 'dbhyo devatābhyo haviḥ kartavyam | asmābhiḥ kartavyam || apaḥ | ūḍidam ity ādinā śasa udāttatvam | pibanti | prāghretyādinā pibādeśaḥ | śapaḥ pittvād anudāttatvam | tiṅ ṅaś ca lasārvadhātukasvareṇa dhātusvareṇādyudāttatvam || nipātair yad yady ādinā nighātābhāvaḥ | kartvam | ḍukṛñ karaṇe | kṛtyārthe tavaikenkenyatvanaḥ (pā. 3-4-14) iti karmaṇi tvanpratyayaḥ | guṇaḥ | nitsvareṇādyudāttatvam ||*
+> नोऽस्मदीया गावो यत्र यास्वप्सु पिबन्ति पानं कुर्वन्ति ता आपो देवीरुप ह्वये । आह्वयामि । सिन्धुभ्यः स्यन्दनशीलाभ्योऽद्भ्यो देवताभ्यो हविः कर्त्वं । अस्माभिः कर्तव्यं ॥ अपः । ऊडिदमित्यादिना शस उदात्तत्वं । पिबन्ति । पाघ्रेत्यादिना पिबादेशः । शपः पित्त्वादनुदात्तत्वं । तिङश्च लसार्वधातुकस्वरेण धातुस्वरेणाद्युदात्तत्वं ॥ निपातैर्यद्यदीत्यादिना निघाताभावः । कर्त्वं । डुकृञ् करणे । कृत्यार्थे तवैकेन्केन्यत्वनः । पा० ३-४-१४ । इति कर्मणि त्वन्प्रत्ययः । गुणः । नित्स्वरेणाद्युदात्तत्वं ॥
+>
+> *no 'smadīyā gāvo yatra yāsvapsu pibanti pānaṃ kurvanti tā āpo devīrupa hvaye | āhvayāmi | sindhubhyaḥ syandanaśīlābhyo 'dbhyo devatābhyo haviḥ kartvaṃ | asmābhiḥ kartavyaṃ || apaḥ | ūḍidamityādinā śasa udāttatvaṃ | pibanti | pāghretyādinā pibādeśaḥ | śapaḥ pittvādanudāttatvaṃ | tiṅaśca lasārvadhātukasvareṇa dhātusvareṇādyudāttatvaṃ || nipātairyadyadītyādinā nighātābhāvaḥ | kartvaṃ | ḍukṛñ karaṇe | kṛtyārthe tavaikenkenyatvanaḥ | pā0 3-4-14 | iti karmaṇi tvanpratyayaḥ | guṇaḥ | nitsvareṇādyudāttatvaṃ ||*
 
-**Translation:** "I invoke those divine waters in which (*yatra*) our cows drink. For the *sindhus* — the flowing waters, the deities — the oblation (*havis*) is to be made (*kartvam*); it is to be made by us. *Apaḥ*: the accusative plural *śas*, acute by *ūḍidam…*. *Pibanti*: *pib* substituted for *pā* by P. 7-3-78 [*pāghrādhmā…*]; the accent of *śap*, being *pit*, is lowered; …; there is no lowering of the verb's accent after *yatra*, since it follows the particle *yat*-class by [P. 8-1-66 *yadvṛttān nityam*]. *Kartvam*: *ḍukṛñ karaṇe*, with the suffix *tvan* (P. 3-4-14 *kṛtyārthe tavaikenkenyatvanaḥ*) in the passive sense; guṇa; the first-syllable acute from the *n*-it." *(Grammar pages 213–215, noted briefly: the words treated are* apaḥ *[*ap* + *śas*; the loss of *s*… the long note that the case-ending takes the acute by P. 6-1-171 *sāvekācas…* and the *ūṭh* of P. 6-1-171 *ūḍidampadādyappumraidyubhyaḥ* — a scholastic argument on whether* ap *has the *ūṭh* substitution for the *ū* element and is *ekāc*; the discussion of the *antodātta* and *ekāc* properties of *ap*],* pibanti *[*pā pāne* + *laṭ* + *jhi* → *anti*; the substitution *pib* for *pā* by P. 7-3-78 *pāghrādhmāsthāmnādāṇdṛśyartiśadasadām pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* — all eleven substitutions are listed; the question whether *piba* is *a*-ending or *pib* *b*-ending is answered in the Ṛgvedic commentary (p. ?); *śap*, *guṇa* blocked; *parasavarṇa* P. 6-1-97 *ato guṇe*; the accent explanation by the *vārttika* on *yat*; the long discussion on whether *yatra* (a *nipāta* in the P. 8-1-30 list *yatra, yadi, hasta, kuvit, neta, cet, caṇ, kaccit*) prevents the lowering of the verb's accent — the author explains the *samāsa* point (that *yat*-class words ending in *tra* are compounds with *ekadeśa*) and ends: *pibanti* is therefore not lowered],* kartvam *[*ḍukṛñ karaṇe* + *tvan* — the Vedic substitute for *kṛtya*; *kṛtyāḥ* P. 3-1-95 and *ṇvul-tṛcau* P. 3-1-133 come under the heading; the *guṇa* before *tvan*, *raparatva*; the *nit* accent, P. 6-1-197 *ñnityādir nityam*]; numerals as read, pointers only.)*
+**Translation:** "I *upa hvaye*, call, the *āpaḥ devīḥ*, divine waters, *yatra*, in which waters *naḥ gāvaḥ*, our cows, *pibanti*, drink. *Havis* is *kartvam*, to be made by us, *sindhubhyaḥ*, for the deities, the waters that are of flowing nature." (Grammatical tail: *apaḥ*, the *śas* udātta by *ūḍidam…*; *pibanti*, the substitute *piba* by *pāghrā…*, *śap* unaccented as *pit*, and the *tiṅ* by the *lasārvadhātuka* accent, so initial udātta by the root accent; no loss of accent by *nipātair yadyadi…*; *kartvam*, *ḍukṛñ karaṇe*, the suffix *tvan* in the object sense by *kṛtyārthe tavaikenkenyatvanaḥ* (Pā. 3-4-14), *guṇa*, initial udātta by the *nit* accent.)
 
-**॥ Prati-padārthaḥ ॥** **नः (naḥ)** — our | **गावः (gāvaḥ)** — cows | **यत्र (yatra)** — in which reservoirs of water | **पिबन्ति (pibanti)** — drink | **(ताः) अपः देवीः ((tāḥ) apaḥ devīḥ)** — those best waters | **उप ह्वये (upa hvaye)** — I invoke | **सिन्धुभ्यः (sindhubhyaḥ)** — to those flowing [waters] | **हविः (haviḥ)** — oblation | **कर्त्वम् (kartvam)** — must be made.
+**॥ Prati-padārthaḥ ॥**
 
-**॥ Bhāvārthaḥ ॥** I invoke those excellent waters, in the rivers and other reservoirs, at which our cows drink water. We must make offerings with reference to those flowing waters.
+**नः (naḥ)** — our | **गावः (gāvaḥ)** — cows | **यत्र (yatra)** — in which body of water | **पिबन्ति (pibanti)** — drink water | **(ताः) अपः देवीः ((tāḥ) apaḥ devīḥ)** — that excellent water | **उप ह्वये (upa hvaye)** — I call | **सिन्धुभ्यः (sindhubhyaḥ)** — with regard to those flowing waters | **हविः (haviḥ)** — the giving of the oblation | **कर्त्वं (kartvaṃ)** — must be made.
+
+**॥ Bhāvārthaḥ ॥**
+
+I call that excellent water, in whatever body of water, a river and the like, our cows drink. With regard to that flowing water we must necessarily make the giving of oblations.
+
+### Page 213 — Rik 18: English, Special Topics, grammar
 
 **॥ English Translation ॥** *(as printed in the source)*
 
 > I invoke hither the sacred waters at which our cows drink; our oblations are to be made to those streams.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 213)* **सिन्धुभ्यः** — *syandanaśīlābhyo devatābhyaḥ*: in this rik, as in other riks which express the deity of water, the ṛṣis praise the flowing water, which is the best or the worthy of worship. In some places lakes, ponds and so on, where there is no flowing, are also meant. Therefore the water fit for drinking, [that is, water which cattle] drink, is specially praised. In the water of the ocean not so much excellence is seen.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥**
+
+**सिन्धुभ्यः (sindhubhyaḥ)** — *syandanaśīlābhyo devatābhyaḥ |* In this ṛk and in other ṛks that set forth the deities presiding over the waters, the ṛṣis have made hymns with regard to *āpo devīḥ*, that is, excellent or honoured flowing water. On some occasions the water of lakes, tanks and the like, which do not flow, is also indicated. So sweet water fit for drinking is especially praised. Sea water is not seen to have so much pre-eminence.
+
+**॥ Vyākaraṇa-prakriyā ॥**
+
+**अपः (apaḥ)** — after the word *ap*, the accusative plural suffix *śas*; for the *ś*, by *laśakv ataddhite* (Pā. Sū. 1-3-8) the *it*-name comes, and by *tasya lopaḥ* (Pā. Sū. 1-3-9) it is dropped: *ap* + *as* = *apas*; for the *s*, by *sasajuṣo ruḥ* (Pā. Sū. 8-2-66) *ru*, by *kharavasānayor visarjanīyaḥ* (Pā. Sū. 8-3-15) the *visarga*: it becomes *apaḥ*. Here in *ūḍidampadādyapumraidyubhyaḥ* (Pā. Sū. 6-1-171), *ekācaḥ* from *sāv ekācaḥ* (Pā. Sū. 6-1-168), *antodāttāt* from *antodāttād uttarapadāt…* (Pā. Sū. 6-1-169), and *asarvanāmasthānam* from *añceś chandasy asarvanāmasthānam* (Pā. Sū. 6-1-170) are carried on. *Ūṭh* is not a monosyllabic form. Because it is not monosyllabic, *ekācaḥ* is not its qualifier, *asaṃbhavāt*: the maxim is *saṃbhavavyabhicārābhyāṃ syād viśeṣaṇam arthavat* — *saṃbhava*, fitness; *vyabhicāra*, exclusion of others. Now the meaning of the sūtra: the case-ending other than *sarvanāmasthāna* after *ūṭh*, which is final udātta and stands penultimate, and after the word *idam*, the six *padādi* words, *ap*, *pums*, *rai*, *div*, which are final udātta and monosyllabic, is udātta. If by *ūṭh* the whole containing *ūṭh* is intended, then *ekācaḥ* is a qualifier for *ūṭh* too. Then the meaning for the part *ūṭh*: the case-ending other than *sarvanāmasthāna* after a monosyllabic word containing *ūṭh*, final udātta and penultimate, is udātta. Examples *praṣṭhauhaḥ*, *viśvauhaḥ* and the like. Since *ekācaḥ* is mentioned in the sūtra, the qualifier, by *śrutānumitayoḥ śrutasaṃbandho balīyān*, is not a qualifier of the stem. So, though the stems *praṣṭhauh*, *viśvauh* are polysyllabic, since *ūh* is monosyllabic, the accent applies; likewise in places like *brāhmaṇapadā* —
+
+> संभवव्यभिचाराभ्यां स्याद्विशेषणमर्थवत् ।
+> श्रुतानुमितयोः श्रुतसंबन्धो बलीयान् ।
+>
+> *saṃbhavavyabhicārābhyāṃ syādviśeṣaṇamarthavat |*
+> *śrutānumitayoḥ śrutasaṃbandho balīyān |*
+
+### Page 214 — Rik 18: grammar (continued)
+
+— the final udātta is established. The present word *ap* is final udātta and monosyllabic. So the *śas*, a non-*sarvanāmasthāna* case-ending after it, is udātta.
+
+**पिबन्ति (pibanti)** — the root *pā pāne*; after it *laṭ*, the third person plural suffix *jhi*; by *jho 'ntaḥ* (Pā. Sū. 7-1-3) the substitute *ant* for *jh*: *pā* + *anti*; by *kartari śap* (Pā. Sū. 3-1-68) the *vikaraṇa* *śap*: *pā* + *a* + *anti*. Now by *pāghrādhmāsthāmnādāṇdṛśyartisartiśadasadāṃ pibajighradhamatiṣṭhamanayacchapaśyarcchadhauśīyasīdāḥ* (Pā. Sū. 7-3-78) — when a suffix beginning with the *it*-named *ś* follows, the eleven roots *pā* and the rest take the eleven substitutes *piba* and the rest. Whether the substitute is *piba* ending in *a* or *pib* ending in *b* has been explained at the sūkta (Ṛ. Saṃ. 1-18-11 [as printed]). When the substitute *piba* comes: *piba* + *a* + *anti*; twice, by *ato guṇe* (Pā. Sū. 6-1-97) — if the *guṇa* letters *a*, *e*, *o* follow a short *a* not at the end of a *pada*, the following form comes as a single substitute for the places before and after — the following form: it becomes *pibanti*. On this view, by the *vārttika* *pibādeśo nipātanāt* (Pā. Sū. Vā. 6-1-162) read in the sūtra *dhātoḥ*, the *i* of *pi* is udātta, the *a* of *ba* unaccented by the *śeṣānudātta*; the *a* of the *vikaraṇa* *śap* is unaccented by *anudāttau suppitau* (Pā. Sū. 3-1-4) since it is *pit*; the *a* coming by the following form in place of these unaccented *a*'s is unaccented by *sthānivadbhāva*; by the *lasārvadhātuka* accent of *tāsy anudātten…* (Pā. Sū. 6-1-186) the *a* of *anti* is unaccented. Again, the following form is unaccented by *sthānivadbhāva*. This unaccented follows the udātta *i*. So by *udāttād anudāttasya svaritaḥ* (Pā. Sū. 8-4-66) it is svarita: this is the situation on the view of the *a*-final substitute. On the view of the consonant-final substitute *pib*, by *dhātoḥ* (Pā. Sū. 6-1-162) the *i* of *pi* is udātta, *śap* unaccented as before, *anti* likewise, the following form likewise, the svarita likewise. On the first view there is no occasion at all for *pugantalaghūpadhasya ca* (Pā. Sū. 7-3-86): since *piba* ends in *a*, the *b* is the penultimate; a light vowel is not the penultimate. On the second view, by *aṅgavṛtte punarvṛttāv avidhir niṣṭhitasya* (Paribhā. 90 [?]) — once a stem-section rule has come and a form is completed, another stem-section rule does not come — after the substitute *piba* has come, *guṇa* does not come for the penultimate letter; so *guṇa* is warded off; and it must be known that the sixth *adhyāya*'s fourth *pāda* and the whole of the seventh *adhyāya* are the stem section. *Nipātair yadyadihantakuvinnec ceccaṇkaccid yatrayuktam* (Pā. Sū. 8-1-30): the word *yatra* in *yad* and the rest is a single word ending in a dropped third case; here, if a compound with the word *yukta* is intended, the qualifier *nipātaiḥ* is unconnected. If a compound is accepted, the word ending in *yatra* would be a part of the compound. Then by *padārthaḥ padārthenānveti na tu tadekadeśena*, the meaning of one word —
+
+> अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्य ।
+> पदार्थः पदार्थेनान्वेति न तु तदेकदेशेन ।
+>
+> *aṅgavṛtte punarvṛttāvavidhirniṣṭhitasya |*
+> *padārthaḥ padārthenānveti na tu tadekadeśena |*
+
+### Page 215 — Rik 18: grammar (end)
+
+— is construed only with the meaning of the qualified presented by another word; it is not construed with a part; so for *nipātaiḥ* there is no construction with the word ending in *yatra*, a part of the compound. If such construction is intended, since there is no connection (*sāmarthya*), the compound cannot come. That is why all teachers accept that in *ṛddhasya rājapuruṣaḥ* there is no construction of *ṛddhasya* with *rājñaḥ*, a part of the compound. Thus the meaning of the sūtra results: since by this sūtra there is the prohibition that a *tiṅ*-final word joined with the particles *yat*, *yadi*, *hanta*, *kuvit*, *net*, *cet*, *caṇ*, *kaccit*, *yatra* is not unaccented, the total lack of accent by *tiṅṅatiṅaḥ* (Pā. Sū. 8-1-28) does not come for *pibanti*.
+
+> ऋद्धस्य राजपुरुषः ।
+>
+> *ṛddhasya rājapuruṣaḥ |*
+
+**कर्त्वम् (kartvam)** — the root *(ḍu)kṛñ karaṇe*. *Kṛtyārthe tavaikenkenyatvanaḥ* (Pā. Sū. 3-4-14): in the sūtra *tayor eva kṛtyaktakhalarthāḥ* (Pā. Sū. 3-4-70) it is said that the *kṛtya* suffixes, the suffix *kta* and the *khalartha* suffixes come only in the two senses of action and object. So action and object are both *kṛtya* senses. The sūtra *kṛtyāḥ* (Pā. Sū. 3-1-95) is a heading up to the sūtra *ṇvultṛcau* (Pā. Sū. 3-1-133). In the science of grammar the suffixes belonging to this heading are called *kṛtya* suffixes. And so the meaning of the sūtra: in the *kṛtya* sense, in the form of action and object, the suffixes *tavai*, *ken*, *kenya*, *tvan* come after a root. By this, when *tvan* comes in the object sense after the root *kṛ*: *kṛ* + *tvan*; by *sārvadhātukārdhadhātukayoḥ* (Pā. Sū. 7-3-84) — when *sārvadhātuka* and *ārdhadhātuka* suffixes follow, the *ik* end of a stem takes *guṇa* — when the *ārdhadhātuka* *tva* follows, *guṇa* for the *ṛ*; it comes followed by *r*: *kar* + *tvan*; the *n* has the *it*-name and is removed: *kartva*; this is initially udātta by *ñnity ādir nityam* (Pā. Sū. 6-1-197). In the nominative singular it becomes *kartvam*. ॥18॥
 
 ---
 
