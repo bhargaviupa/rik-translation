@@ -10140,41 +10140,57 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 496)*
 
-> शश्वदिन्द्रः पोप्रुथद्भिर्जिगाय नानदद्भिः शाश्वसद्भिर्धनानि ।
-> स नो हिरण्यरथं दंसनावान्त्स नः सनिता सनये स नोऽदात् ॥ १६ ॥
+*(As printed in four lines, line 1 breaking after* शाश्वसद्भि-*. Line 3 flagged [accent ?]: the bar in* हिरण्यरथं *stands between* र *and* थं *(taken under* र*), and the last bar of the line stands under* ये *of* सनये*.)*
 
-> *śaśvadindraḥ popruthadbhirjigāya nānadadbhiḥ śāśvasadbhirdhanāni |*
-> *sa no hiraṇyarathaṃ daṃsanāvāntsa naḥ sanitā sanaye sa no 'dāt ‖ 16 ‖*
+> श॒श्वदिन्द्रः॒ पोप्रु॑थद्भिर्जिगाय॒ नान॑दद्भिः॒ शाश्व॑सद्भि॒-
+> र्धना॑नि ।
+> स नो॑ हिरण्यर॒थं दं॒सना॑वा॒न्त्स नः॑ सनि॒ता स॒नये॒ [accent ?]
+> स नो॑ऽदात् ॥ १६ ॥
+
+> *śaśvádindraḥ pópruthadbhirjigāya nā́nadadbhiḥ śā́śvasadbhi-*
+> *rdhánāni |*
+> *sá no hiraṇyaratháṃ daṃsánāvāntsá naḥ sanitā́ sanáye* [accent ?]
+> *sá no 'dāt || 16 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha**
 
 > शश्वत् । इन्द्रः । पोप्रुथत्ऽभिः । जिगाय । नानदत्ऽभिः । शाश्वसत्ऽभिः । धनानि ।
-> सः । नः । हिरण्यऽरथम् । दंसनाऽवान् । सः । नः । सनिता । सनये ।
+> सः । नः । हिरण्यऽरथं । दंसनाऽवान् । सः । नः । सनिता । सनये ।
 > सः । नः । अदात् ॥ १६ ॥
 
 > *śaśvat | indraḥ | popruthat 'bhiḥ | jigāya | nānadat 'bhiḥ | śāśvasat 'bhiḥ | dhanāni |*
-> *saḥ | naḥ | hiraṇya 'ratham | daṃsanā 'vān | saḥ | naḥ | sanitā | sanaye |*
+> *saḥ | naḥ | hiraṇya 'rathaṃ | daṃsanā 'vān | saḥ | naḥ | sanitā | sanaye |*
 > *saḥ | naḥ | adāt ‖ 16 ‖*
 
-**Sāyaṇa-bhāṣya** *(p. 497; compressed, read with doubt where marked)*
+### Page 497 — Sūkta 30, Rik 16 (continued)
 
-> तुष्टेनेन्द्रेण दत्तं हिरण्यरथं शुनःशेपः प्रतिजग्राह [?] । तथा च ब्राह्मणम् । तस्मा इन्द्रः स्तूयमानः प्रीतो मनसा हिरण्यरथं ददौ तमेतयर्चा प्रतीयाय शश्वदिन्द्र इति । ऐ. ब्रा. ७-१८ [?] इति ॥ इन्द्रः शश्वत्सर्वदा धनानि वैरिसंबन्धीनि जिगाय । जितवान् । अश्वैः [?] किंभूतैः । पोप्रुथद्भिः । प्रोथृ पर्याप्तौ । घासभक्षणानन्तरभाविनमोष्ठशब्दं कुर्वद्भिः । नानदद्भिः । नाद् [णद] अव्यक्ते शब्दे । नादमास्यगतं हेषाशब्दं कुर्वद्भिः । शाश्वसद्भिः । श्वस प्राणने । पुनः पुनर्भृशं श्वसद्भिः । दंसनावान् कर्मवान् सनिता दाता स इन्द्रो नोऽस्माकं सनये संभजनार्थं हिरण्यरथं सुवर्णेन निर्मितं रथमदात् । दत्तवान् । स नः स न इति द्विरुक्तिरादरार्थम् ॥
+**Sāyaṇa-bhāṣya** *(p. 497)*
 
-> *tuṣṭenendreṇa dattaṃ hiraṇyarathaṃ śunaḥśepaḥ pratijagrāha [?] | tathā ca brāhmaṇam | tasmā indraḥ stūyamānaḥ prīto manasā hiraṇyarathaṃ dadau tametayarcā pratīyāya śaśvadindra iti | ai. brā. 7-18 [?] iti ‖ indraḥ śaśvatsarvadā dhanāni vairisaṃbandhīni jigāya | jitavān | aśvaiḥ [?] kiṃbhūtaiḥ | popruthadbhiḥ | prothṛ paryāptau | ghāsabhakṣaṇānantarabhāvinamoṣṭhaśabdaṃ kurvadbhiḥ | nānadadbhiḥ | nād [ṇada] avyakte śabde | nādamāsyagataṃ heṣāśabdaṃ kurvadbhiḥ | śāśvasadbhiḥ | śvasa prāṇane | punaḥ punarbhṛśaṃ śvasadbhiḥ | daṃsanāvān karmavān sanitā dātā sa indro no 'smākaṃ sanaye saṃbhajanārthaṃ hiraṇyarathaṃ suvarṇena nirmitaṃ rathamadāt | dattavān | sa naḥ sa na iti dviruktirādarārtham ‖*
+> तुष्टेनेन्द्रेण दत्तं हिरण्यरथमनया प्रतिजग्राह । तथा च ब्राह्मणम् । तस्मा इन्द्रः स्तूयमानः प्रीतो मनसा हिरण्यरथं ददौ तमेतया प्रतीयाय शश्वदिन्द्र इति । ऐ. ब्रा. ७-१६ । इति ॥ इन्द्रः शश्वत्सर्वदा धनानि वैरिसंबन्धीनि जिगाय । जितवान् । अश्वैरिति शेषः । कीदृशैः । पोप्रुथद्भिः । घासभक्षणानन्तरभाविनमोष्ठशब्दं कुर्वद्भिः नानदद्भिर्नादमास्यगतं हेषाशब्दं कुर्वद्भिः शाश्वसद्भिः पुनःपुनर्भृशं वा श्वसद्भिः । दंसनावान् कर्मवान् सनिता दाता स इन्द्रो नोऽस्माकं सनये संभजनार्थं हिरण्यरथं सुवर्णेन निर्मितं रथमदात् । दत्तवान् । स नः स न इति द्विरुक्तिरादरार्थम् ॥ पोप्रुथद्भिः । प्रोथृ पर्याप्तौ । अस्माद्यङ्लुक्यभ्यासहलादिशेषौ । ह्रस्वः । पा. ७-४-५९ । इति ह्रस्वत्वे कृते गुणो यङ्लुकोः । पा. ७-४-८२ । इति गुणः । धातोरुपधाया उत्वं छान्दसम् । अस्माद्यङ्लुगन्ताच्छतर्यभ्यस्तानामादिरित्याद्युदात्तत्वम् । जिगाय । जि जये । लिटो णलि वृद्धिः । द्विर्वचनेऽचीति स्थानिवद्भावाज्जि इत्यस्य द्विर्वचनम् । सन्लिटोर्जेः । पा. ७-३-५७ । इत्यभ्यासादुत्तरस्य कुत्वम् । नानदद्भिः । णद अव्यक्ते शब्दे । पूर्ववद्यङ्लुकि दीर्घोऽकित इत्यभ्यासस्य दीर्घः । पूर्ववदाद्युदात्तत्वम् । शाश्वसद्भिः । श्वस प्राणने । अन्यत्सर्वं पूर्ववत् । हिरण्यरथम् । समासस्येत्यन्तोदात्तत्वम् । अदात् । गातिस्थेति सिचो लुक् । दंसनावान् । दंसशब्दोऽप्नो दंसो वेष इति कर्मनामसु पठितः । दंस एव दंसना । तदस्यास्तीति मतुप् । दस्यतेऽनेनेति दंसना ॥
 
-*Translation:* "Śunaḥśepa received the golden chariot given by the pleased Indra; so the Brāhmaṇa: 'Indra, being praised, pleased in mind, gave him a golden chariot; he accepted it with this Rik *śaśvad indraḥ*' (Ai. Br. 7-18 [?]). Indra has ever (*śaśvat*) won the wealth of enemies — with horses (*aśvaiḥ* [supplied]) that make the lip-sound that follows eating grass (*popruthadbhiḥ*), that neigh (*nānadadbhiḥ*), that breathe hard again and again (*śāśvasadbhiḥ*). The valiant (*daṃsanāvān*) giver (*sanitā*), that Indra, gave us, for our enjoyment (*sanaye*), a chariot made of gold. The repetition *sa naḥ sa naḥ* is for respect." Grammar tail: see below.
+> *tuṣṭenendreṇa dattaṃ hiraṇyarathamanayā pratijagrāha | tathā ca brāhmaṇam | tasmā indraḥ stūyamānaḥ prīto manasā hiraṇyarathaṃ dadau tametayā pratīyāya śaśvadindra iti | ai. brā. 7-16 | iti ‖ indraḥ śaśvatsarvadā dhanāni vairisaṃbandhīni jigāya | jitavān | aśvairiti śeṣaḥ | kīdṛśaiḥ | popruthadbhiḥ | ghāsabhakṣaṇānantarabhāvinamoṣṭhaśabdaṃ kurvadbhiḥ nānadadbhirnādamāsyagataṃ heṣāśabdaṃ kurvadbhiḥ śāśvasadbhiḥ punaḥpunarbhṛśaṃ vā śvasadbhiḥ | daṃsanāvān karmavān sanitā dātā sa indro no 'smākaṃ sanaye saṃbhajanārthaṃ hiraṇyarathaṃ suvarṇena nirmitaṃ rathamadāt | dattavān | sa naḥ sa na iti dviruktirādarārtham ‖ popruthadbhiḥ | prothṛ paryāptau | asmādyaṅlukyabhyāsahalādiśeṣau | hrasvaḥ | pā. 7-4-59 | iti hrasvatve kṛte guṇo yaṅlukoḥ | pā. 7-4-82 | iti guṇaḥ | dhātorupadhāyā utvaṃ chāndasam | asmādyaṅlugantācchataryabhyastānāmādirityādyudāttatvam | jigāya | ji jaye | liṭo ṇali vṛddhiḥ | dvirvacane 'cīti sthānivadbhāvājji ityasya dvirvacanam | sanliṭorjeḥ | pā. 7-3-57 | ityabhyāsāduttarasya kutvam | nānadadbhiḥ | ṇada avyakte śabde | pūrvavadyaṅluki dīrgho 'kita ityabhyāsasya dīrghaḥ | pūrvavadādyudāttatvam | śāśvasadbhiḥ | śvasa prāṇane | anyatsarvaṃ pūrvavat | hiraṇyaratham | samāsasyetyantodāttatvam | adāt | gātistheti sico luk | daṃsanāvān | daṃsaśabdo 'pno daṃso veṣa iti karmanāmasu paṭhitaḥ | daṃsa eva daṃsanā | tadasyāstīti matup | dasyate 'neneti daṃsanā ‖*
+
+*Translation:* "With this [Rik] he accepted the golden chariot given by the pleased Indra. So the Brāhmaṇa: 'Indra, being praised, pleased in mind, gave him a golden chariot; he accepted it with this [Rik] *śaśvad indraḥ*' (Ai. Br. 7-16). Indra has ever (*śaśvat*) won (*jigāya*: conquered) the wealth (*dhanāni*) of the enemies — with horses (*aśvaiḥ* is the remainder) — of what kind? *popruthadbhiḥ*: making the lip-sound that follows eating grass; *nānadadbhiḥ*: making the neighing sound, the noise in the mouth; *śāśvasadbhiḥ*: breathing hard again and again. The doer of deeds (*daṃsanāvān*), the giver (*sanitā*), that Indra gave (*adāt*) us, for our enjoyment (*sanaye*), a golden chariot (*hiraṇyaratham*), a chariot made of gold. The repetition *sa naḥ sa naḥ* is for respect." The grammatical tail treats *popruthadbhiḥ* (*yaṅluk*; shortening, Pā. 7-4-59; guṇa, Pā. 7-4-82; *u* for the penult, Vedic; initial udātta by *abhyastānām ādiḥ*), *jigāya* (*vṛddhi* before *ṇal*; reduplication of *ji* by *sthānivadbhāva*; *k*-sound after the reduplicate by Pā. 7-3-57), *nānadadbhiḥ* (*yaṅluk*, lengthening by *dīrgho 'kitaḥ*), *śāśvasadbhiḥ* (likewise), *hiraṇyaratham* (end-acute by *samāsasya*), *adāt* (*luk* of *sic* by *gātisthā…*) and *daṃsanāvān* (*daṃsa* read among the names of 'deed': *apnaḥ, daṃsaḥ, veṣaḥ*; *daṃsanā* = *daṃsa*; *matup*; or 'that by which one is harmed').
 
 **Pratipadārtha** *(p. 497, rendered)* — **इन्द्रः** Indra; **पोप्रुथद्भिः** making the lip-sound; **नानदद्भिः** neighing [by the help of horses]; **धनानि** the riches of the enemies; **शश्वत्** always; **जिगाय** has conquered; **दंसनावान्** possessed of valour; **सनिता** the giver; **सः** that Indra; **नः** to us; **सनये** as a gift; **हिरण्यरथम्** a chariot made of gold; **अदात्** gave.
 
 **Bhāvārtha** *(p. 497)* — Indra, with the aid of horses that make the sound of eating, that neigh, and that breathe hard, always conquers the riches of enemies. That Indra, valiant and a giver, gave us, as a gift, a golden chariot.
 
+### Page 498 — Sūkta 30, Rik 16 (continued)
+
 **English Translation** *(as printed, p. 498)*
 
 > Indra has always won riches (from his enemies) with the help of champing, neighing and snorting horses ; he the performer of brave deeds, the giver of bounties, has given us a golden chariot as a present.
 
-**Viśeṣa-viṣayagaḷu** *(pp. 498–499)* — Śunaḥśepa, having praised Indra, received a golden chariot from the pleased Indra; he praises that here; on this there is the Aitareya-Brāhmaṇa sentence *tasmā indraḥ stūyamānaḥ prīto manasā hiraṇyarathaṃ dadau tam etayarcā pratīyāya śaśvad indra iti* (Ai. Br. 7-18 [?]); its meaning has been given in the Śunaḥśepa narrative. **शश्वत्** — *sarvadā*. **पोप्रुथद्भिः** — *prothṛ paryāptau*; *ghāsabhakṣaṇānantarabhāvinam oṣṭhaśabdaṃ kurvadbhiḥ*; very able horses; since the later words *nānadadbhiḥ, śāśvasadbhiḥ* define horses, *aśvaiḥ* must be supplied. **नानदद्भिः** — *ṇada avyakte śabde*: neighing. **शाश्वसद्भिः** — *śvasa prāṇane*: breathing hard repeatedly ("snorting and panting", English as printed). **धनानि** — because *jigāya* is used, the riches of the enemies. **हिरण्यरथम्** — a chariot made of gold. **दंसनावान्** — *karmavān*; *daṃsa* is a name of 'deed' (Nirukta 2-1 [?]); the one who does daring deeds. **सनिता** — *dātā*. **सनये** — *saṃbhajanārtham*: for our gain. The words *saḥ naḥ* occur twice; the repetition shows respect for the giver Indra.
+**Viśeṣa-viṣayagaḷu** *(pp. 498–499)* — Śunaḥśepa, having praised Indra, received a golden chariot from the pleased Indra; he praises that here; on this there is the Aitareya-Brāhmaṇa sentence *tasmā indraḥ stūyamānaḥ prīto manasā hiraṇyarathaṃ dadau tam etayā pratīyāya śaśvad indra iti* (Ai. Br. 7-16); its meaning has been given in the Śunaḥśepa narrative. **शश्वत्** — *sarvadā*: always. **पोप्रुथद्भिः** — *prothṛ paryāptau*; *ghāsabhakṣaṇānantarabhāvinam oṣṭhaśabdaṃ kurvadbhiḥ atyantaṃ samarthair aśvaiḥ*: by very able horses making, after eating, the lip-sound that shows their contentment; since the later words *nānadadbhiḥ, śāśvasadbhiḥ* define horses, *aśvaiḥ* must be supplied. **नानदद्भिः** — *ṇada avyakte śabde*: neighing. **शाश्वसद्भिः** — *śvasa prāṇane*: breathing hard repeatedly ("snorting and panting", English as printed). **धनानि** — because *jigāya* is used, the riches of the enemies. **हिरण्यरथम्** — a chariot made of gold. **दंसनावान्** — *karmavān*; *daṃsa iti karmanāma* (Ni. 3-1 [as printed; the grammar, p. 500, gives Nirukta 2-1-3]); *dasyate 'neneti daṃsanā*: the one who does daring deeds, the valiant. **सनिता** — *dātā*. 
 
-**Grammar (pp. 499–500), noted briefly:** *popruthadbhiḥ* (*prothṛ paryāptau*; *yaṅluk* by P. 3-1-22 [?]; doubling, *halādiḥ śeṣaḥ*, guṇa of the reduplicate P. 7-4-82; *śatṛ*; *abhyastānām ādiḥ* P. 6-1-189); *jigāya* (*ji jaye*, *ṇal*, *vṛddhi* P. 7-2-115; *sanliṭor jeḥ* P. 7-3-57); *nānadadbhiḥ* (*ṇada avyakte śabde*, *ṇo naḥ* P. 6-1-65; *yaṅluk*, *dīrgho 'kitaḥ* P. 7-4-83); *śāśvasadbhiḥ* (*śvasa prāṇane*, as before); *hiraṇyaratham* (genitive tatpuruṣa, *samāsasya* P. 6-1-223); *adāt* (*ḍudāñ dāne*, *juhotyādi*; *luṅ*, *cli*→*sic* and *luk*, *gātisthāghupābhūbhyaḥ sicaḥ…* P. 2-4-77; *aṭ* P. 6-4-71); *daṃsanāvān* (*daṃsa* a name of 'deed'; *matup* P. 5-2-94; *m*→*v* P. 8-2-9; *num* P. 7-1-70). Numerals as read, [?].
+### Page 499 — Sūkta 30, Rik 16 (continued)
+
+**सनये** — *saṃbhajanārtham*: for our gain, for our obtaining. The words *saḥ naḥ* occur twice; the repetition shows respect for the giver Indra.
+
+**Vyākaraṇa-prakriyā** *(pp. 499–500, noted briefly)* — *popruthadbhiḥ*: *prothṛ paryāptau*; *yaṅluk* in the intensive sense by '*yaṅo 'ci ca*' (Pā. sū. 2-4-74); doubling by '*sanyaṅoḥ*' (Pā. sū. 6-1-9); '*halādiḥ śeṣaḥ*' (Pā. sū. 7-4-60); shortening by '*hrasvaḥ*' (Pā. sū. 7-4-59), *u* for *o* by '*eca ig ghrasvādeśe*' (Pā. sū. 1-1-48); guṇa of the reduplicate by '*guṇo yaṅlukoḥ*' (Pā. sū. 7-4-82); *u* for the root's penultimate *o*, Vedic; root status by '*sanādyantā dhātavaḥ*'; *śatṛ*; initial udātta by '*abhyastānām ādiḥ*' (Pā. sū. 6-1-189). *jigāya*: *ji jaye*, *bhvādi*, *liṭ* *ṇal*; *vṛddhi* by '*aco ñṇiti*'; '*dvirvacane 'ci*' (Pā. sū. 1-1-59): reduplication of *ji*; *āy* by '*eco 'yavāyāvaḥ*'; *g* by '*sanliṭor jeḥ*' (Pā. sū. 7-3-57). *nānadadbhiḥ*: *ṇada avyakte śabde*, *bhvādi*; *n* by '*ṇo naḥ*'; *yaṅluk*, doubling, '*dīrgho 'kitaḥ*' (Pā. sū. 7-4-83); *śatṛ*; initial udātta as before. *śāśvasadbhiḥ*: *śvasa prāṇane*, *adādi*; the same process. *hiraṇyaratham*: genitive tatpuruṣa; end-acute by '*samāsasya*' (Pā. sū. 6-1-223). *(p. 500)* *adāt*: *ḍudāñ dāne*, *juhotyādi*; *ḍu* is *it* by '*ādir ñiṭuḍavaḥ*' (Pā. sū. 1-3-5); *luṅ* third person singular; loss of *i* by '*itaś ca*'; *cli* → *sic* by '*cleḥ sic*', its *luk* by '*gātisthāghupā-*' (Pā. sū. 2-4-77); *aṭ* by '*luṅlaṅlṛṅkṣv aḍ udāttaḥ*'. *daṃsanāvān*: *daṃsa* is read among the synonyms of 'deed' ('*apnaḥ daṃsaḥ veṣaḥ*', Nirukta 2-1-3, as printed); *daṃsa eva daṃsanā*; *matup* by '*tad asyāsty asminn iti matup*' (Pā. sū. 5-2-94); *v* for *m* after *ā* by '*mādupadhāyāś ca*' (Pā. sū. 8-2-9); or *dasyate 'nena iti daṃsanā*, *lyuṭ* in the instrument sense, *ana* by '*yuvor anākau*', then *matup*; *num* by '*ugidacām*' (Pā. sū. 7-1-70); lengthening by '*atvasantasya*' (Pā. sū. 6-4-14); loss of *s* and of *t*.
 
 ---
 
