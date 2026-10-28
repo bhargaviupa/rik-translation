@@ -7299,31 +7299,31 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 57.5 (pp. 405–408, PDF 421–424)
 
-**Saṃhitā-pāṭha** *(p. 405)*
+**Saṃhitā-pāṭha** *(p. 405; accents as printed)*
 
-> **भूरि त इन्द्र वीर्यं तव स्मस्यस्य स्तोतुर्मघवन्कामामा पृण ।**
-> **अनु ते द्यौर्बृहती वीर्यं मम इयं च ते पृथिवी नेम ओजसे ॥ ५ ॥**
+> **भूरि॑ त इन्द्र वी॒र्यं१॒॑ तव॑ स्मस्य॒स्य स्तो॒तुर्म॑घव॒न्काम॒मा पृ॑ण ।**
+> **अनु॑ ते॒ द्यौर्बृ॑ह॒ती वी॒र्यं॑ मम इ॒यं च॑ ते पृथि॒वी नेम ओज॑से ॥ ५ ॥**
 
-*bhūri ta indra vīryaṃ tava smasy asya stotur maghavan kāmam ā pṛṇa |*
-*anu te dyaur bṛhatī vīryaṃ mama iyaṃ ca te pṛthivī nema ojase || 5 ||*
+*bhū́ri ta indra vīryàṃ táva smasy asyá stotúr maghavan kā́mam ā́ pṛṇa |*
+*ánu te dyaúr bṛhatī́ vīryàṃ mama iyáṃ ca te pṛthivī́ nema ójase || 5 ||*
 
-*(The print's first line reads "तव स्मसि" and "कामम् आ पृण"; I follow the Pada.)*
+*(The print marks the independent svarita of वीर्यं in the first line with the figure ೧ (१) carrying both marks. [accent ?]: a stroke stands between ने and म of नेम and is not placed with certainty.)*
 
 **Pada-pāṭha** *(p. 406)*
 
 > भूरि । ते । इन्द्र । वीर्यम् । तव । स्मसि । अस्य । स्तोतुः । मघऽवन् । कामम् । आ । पृण ।
-> अनु । ते । द्यौः । बृहती । वीर्यम् । मम इति ममे । इयम् । च । ते । पृथिवी । नेमे । ओजसे ॥ ५ ॥
+> अनु । ते । द्यौः । बृहती । वीर्यम् । ममे । इयम् । च । ते । पृथिवी । नेमे । ओजसे ॥ ५ ॥
 
 *bhūri | te | indra | vīryam | tava | smasi | asya | stotuḥ | magha-van | kāmam | ā | pṛṇa |*
 *anu | te | dyauḥ | bṛhatī | vīryam | mame | iyam | ca | te | pṛthivī | neme | ojase || 5 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 406)*
 
-> **हे इन्द्र ते तव वीर्यं सामर्थ्यं भूरि बहु । न केनाप्यवच्छेत्तुं शक्यते । तादृशस्य तव वयं स्मसि । स्वभूता भवामः । हे मघवन्नस्य स्तोतुस्त्वां स्तुवतो यजमानस्य कामम् अभिलाषम् आ पृण । आपूरय । बृहती द्यौर्महान् द्युलोकोऽपि ते तव वीर्यमनु मने । अन्वमंस्त । इन्द्रेण सहावस्थानादियं चेयमपि पृथिवी ते तवौजसे बलाय नेमे । प्रह्वीबभूव । त्वद्बलाद्भीता सत्यथैव वर्तत इति भावः ॥**
+> **हे इन्द्र ते तव वीर्यं सामर्थ्यं भूरि बहु । न केनाप्यवच्छेत्तुं शक्यते । तादृशस्य तव वयं स्मसि । स्वभूता भवामः । हे मघवन्नस्य स्तोतुस्त्वां स्तुवतो यजमानस्य कामम् अभिलाषम् आ पृण । आपूरय । बृहती द्यौर्महान् द्युलोकोऽपि ते तव वीर्यमनु मने । अन्वमंस्त । इन्द्रेण सहावस्थानादियं चेयमपि पृथिवी ते तवौजसे बलाय नेमे । प्रह्वीबभूव । त्वद्बलाद्भीता सत्यथ एव वर्तत इति भावः ॥**
 
-*he indra te tava vīryaṃ sāmarthyaṃ bhūri bahu | na kenāpy avacchettuṃ śakyate | tādṛśasya tava vayaṃ smasi | svabhūtā bhavāmaḥ | he maghavann asya stotus tvāṃ stuvato yajamānasya kāmam abhilāṣam ā pṛṇa | āpūraya | bṛhatī dyaur mahān dyuloko 'pi te tava vīryam anu mame | anvamaṃsta | indreṇa sahāvasthānād iyaṃ ceyam api pṛthivī te tavaujase balāya neme | prahvībabhūva | tvadbalād bhītā satyathaiva vartata iti bhāvaḥ ||*
+*he indra te tava vīryaṃ sāmarthyaṃ bhūri bahu | na kenāpy avacchettuṃ śakyate | tādṛśasya tava vayaṃ smasi | svabhūtā bhavāmaḥ | he maghavann asya stotus tvāṃ stuvato yajamānasya kāmam abhilāṣam ā pṛṇa | āpūraya | bṛhatī dyaur mahān dyuloko 'pi te tava vīryam anu mame | anvamaṃsta | indreṇa sahāvasthānād iyaṃ ceyam api pṛthivī te tavaujase balāya neme | prahvībabhūva | tvadbalād bhītā satyatha eva vartata iti bhāvaḥ ||*
 
-*(The tail, p. 406: on* smasi *(*as bhuvi*, *mas*; *śnasor allopaḥ*; *idantomasi*),* pṛṇa *(*pṛṇa prīṇane*; *tudādi*; *śa*; *loṭ*; no *hi*, since *sip*'s *hi* dropped by *ato heḥ*),* mame *(*māṅ māne śabde ca*; *liṭ*; *ātmanepada*; *lidvat*; *ata ekahalmadhye…*),* neme *(*ṇamu prahvatve*; *liṭ*; *eś*; *ata ekahalmadhye*: *e* for *a*; the loss of the reduplicative)).)*
+*(The tail, p. 406: on* smasi *(*as bhuvi*; *śnasor allopaḥ*; *idanto masiḥ*),* pṛṇa *(*pṛṇa prīṇane*, here filling by implication of pleasing; *tudādi*: *śa*, being *ṅit*, no *guṇa*),* mame *(*māṅ māne śabde ca*; *ṅit*: *ātmanepada*; *liṭ*; *āto lopa iṭi ca*: loss of *ā*),* neme *(*ṇamu prahvatve*; *liṭ*; *ata ekahalmadhye…*: *e* for *a* and loss of the reduplicative; *tiṅ atiṅaḥ*: *nighāta*).)*
 
 **Translation of the bhāṣya:** "O Indra, *te vīryam*, your valour, power, is *bhūri*, great; it cannot be cut off by anyone. *Tava smasi*: of such you we are — we are your own. O *maghavan*, *asya stotuḥ kāmam ā pṛṇa*, fulfil the wish of this praiser, the sacrificer who praises you. *Bṛhatī dyauḥ*, the great heaven also *anu mame*, acknowledged [*anvamaṃsta*] your valour; and, through staying with Indra, *iyaṃ ca pṛthivī*, this earth too, *ojase*, before your strength, *neme*, bowed: becoming afraid of your strength, it behaves truly [submissively] — such is the sense."
 
@@ -7339,11 +7339,11 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 57 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **neme** — "A form born of the root *ṇamu prahvatve*: 'the earth, afraid of your strength, is bowed before you': thus Indra is praised."
 
 **Vyākaraṇa-prakriyā** *(pp. 407–408 — grammar pages, noted briefly)*
-- **smasi**: *as bhuvi*, *adādi*; *laṭ* first plural *mas*; *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *sārvadhātukam apit*: *ṅit*; *śnasor allopaḥ*: loss of the *a* of *as*; *idantomasi*: *i* to *mas*; after an *atiṅ*: *nighāta*.
+- **smasi**: *as bhuvi*, *adādi*; *laṭ* first plural *mas* (the print says *madhyama-puruṣa*, as printed); *adiprabhṛtibhyaḥ śapaḥ*: *luk*; *sārvadhātukam apit*: *ṅit*; *śnasor allopaḥ* (Pā. 6-4-111): loss of the *a* of *as*; *idanto masi*: *i* to *mas*; after an *atiṅ*: *nighāta*.
 - **asya**: *idam*, genitive singular; *ūḍidam…*: ending acute.
 - **stotuḥ**: *ṣṭuñ stutau*; *tṛc* in the agent sense; *citaḥ*: end-acute; genitive singular.
 - **pṛṇa**: *pṛṇa prīṇane*, *tudādi*; *loṭ* second singular *sip* → *hi*; *tudādibhyaḥ śaḥ*; *sārvadhātukam apit*; no *laghūpadhaguṇa* (*pugantalaghūpadhasya ca*); *ato heḥ*: *luk*; *tiṅ atiṅaḥ*: *nighāta*.
-- **mame**: *māṅ māne śabde ca*, *juhotyādi*; *jit*: *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *ātolopa iṭi ca*: loss of *ā*; *nighāta*.
+- **mame**: *māṅ māne śabde ca*, *juhotyādi*; *jit*: *ātmanepada*; *liṭ* third singular; *ta* → *e* (*liṭas tajhayor eśirec*); *śit*-ness: *sarvādeśa*; since *liṅ*-nimitta: doubling; *hrasva*; *asaṃyogāl liṭ kit*: *kit*; *āto lopa iṭi ca* (Pā. 6-4-64): loss of *ā*; *nighāta*.
 - **neme**: *ṇamu prahvatve (śabde ca)*; *liṭ* third singular; *eś*; doubling; *kit*; since the root has a single consonant between *a*s, *atra*: *ata ekahalmadhye 'nādeśāder liṭi* (Pā. 6-4-120): *e* for the root-vowel and loss of the reduplicative; *neme*; *tiṅ atiṅaḥ*: *nighāta*. **|| 5 ||**
 
 ---
