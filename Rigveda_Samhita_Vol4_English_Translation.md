@@ -3549,13 +3549,15 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 
 ### Rik 36.14 (pp. 225–228, PDF 239–242)
 
-**Saṃhitā-pāṭha** *(p. 225; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 225)*
 
-> **ऊर्ध्वो नः पाह्यंहसो नि केतुना विश्वं समत्रिणं दह ।**
-> **कृधी न ऊर्ध्वाञ्चरथाय जीवसे विदा देवेषु नो दुवः ॥ १४ ॥**
+> ऊ॒र्ध्वो नः॑ पा॒ह्यंह॑सो॒ नि के॒तुना॒ विश्वं॒ सम॒त्रि॑णं दह ।
+> कृ॒धी न॑ ऊ॒र्ध्वाञ्च॒र॑थाय जी॒वसे॑ वि॒दा दे॒वेषु॑ नो॒ दु॑वः ॥ १४ ॥
 
-*ūrdhvo naḥ pāhy aṃhaso ni ketunā viśvaṃ sam atriṇaṃ daha |*
-*kṛdhī na ūrdhvāñ carathāya jīvase vidā deveṣu no duvaḥ || 14 ||*
+*ūrdhvó naḥ pāhyáṃhaso ni ketúnā víśvaṃ samatríṇaṃ daha |*
+*kṛdhī́ na ūrdhvā́ñcarátháya jīvásé vidā́ devéṣu no dúvaḥ || 14 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. The first line is printed over two lines, "sama-/triṇaṃ daha".)*
 
 *(Reading note, written after viewing the Pada: the Saṃhitā's "kṛdhī na ūrdhvāñ carathāya" is the Pada's* kṛdhi | naḥ | ūrdhvān | carathāya*, the "-ñ c-" being the sandhi of* ūrdhvān *before* c-*.)*
 
@@ -3567,19 +3569,29 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 *ūrdhvaḥ | naḥ | pāhi | aṃhasaḥ | ni | ketunā | viśvam | sam | atriṇam | daha ||*
 *kṛdhi | naḥ | ūrdhvān | carathāya | jīvase | vidāḥ | deveṣu | naḥ | duvaḥ || 14 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 226; the first half in full, the grammatical tail characterized)*
+### Page 226
 
-> हे यूप यद्वा तन्निष्ठाग्ने ऊर्ध्व उन्नतः सन् नोऽस्मान्केतुना ज्ञानेनांहसः पापात्पाहि । नितरां पालय । विश्वमत्रिणं सर्वमत्तारं भक्षकं राक्षसं सं दह । सम्यग्भस्मीकुरु । नोऽस्मानूर्ध्वानुन्नतान्कृधि । कुरु । किमर्थं चरथाय लोके चरणाय जीवसे जीवनाय च । नोऽस्माकं दुवो धनं हविःस्वरूपं देवेषु विदाः । लम्भय ॥
+**Sāyaṇa-bhāṣya** *(p. 226, in full)*
 
-*he yūpa yadvā tanniṣṭhāgne ūrdhva unnataḥ san no 'smān ketunā jñānenāṃhasaḥ pāpāt pāhi | nitarāṃ pālaya | viśvam atriṇaṃ sarvam attāraṃ bhakṣakaṃ rākṣasaṃ saṃ daha | samyag bhasmīkuru | no 'smān ūrdhvān unnatān kṛdhi | kuru | kimarthaṃ carathāya loke caraṇāya jīvase jīvanāya ca | no 'smākaṃ duvo dhanaṃ haviḥsvarūpaṃ deveṣu vidāḥ | lambhaya ||*
+> हे यूप यद्वा तन्निष्ठाग्ने ऊर्ध्व उन्नतः सन् नोऽस्मान्केतुना ज्ञानेनांहसः पापान्नि पाहि । नितरां पालय । विश्वमत्रिणं सर्वमत्तारं भक्षकं राक्षसं सं दह । सम्यग्भस्मीकुरु । नोऽस्मानूर्ध्वानुन्नतान्कृधि । कुरु । किमर्थं चरथाय लोके चरणाय जीवसे जीवनाय च । नोऽस्माकं दुवो धनं हविःस्वरूपं देवेषु विदाः । लम्भय ॥
+
+*he yūpa yadvā tanniṣṭhāgne ūrdhva unnataḥ san no 'smān ketunā jñānenāṃhasaḥ pāpān ni pāhi | nitarāṃ pālaya | viśvam atriṇaṃ sarvam attāraṃ bhakṣakaṃ rākṣasaṃ saṃ daha | samyag bhasmīkuru | no 'smān ūrdhvān unnatān kṛdhi | kuru | kimarthaṃ carathāya loke caraṇāya jīvase jīvanāya ca | no 'smākaṃ duvo dhanaṃ haviḥsvarūpaṃ deveṣu vidāḥ | lambhaya ||*
 
 **Translation:** "O *yūpa*, or O Agni abiding in it: standing high, *naḥ* — us — *ketunā*, by knowledge, *pāhi* — protect from *aṃhasaḥ*, sin: guard thoroughly. *Viśvam atriṇam* — every eater, the devouring *rākṣasa* — *sam daha*: burn up completely, turn to ashes. *Kṛdhi naḥ ūrdhvān* — make us upright, raised: for what purpose? *Carathāya* — for moving about in the world — *jīvase*, and for living. *Duvaḥ* — our wealth, in the form of oblations — *deveṣu vidāḥ*, cause [it] to be obtained [by] the gods."
 
-**Grammar within the bhāṣya** *(p. 226, characterized)*: *atriṇam* (*ada bhakṣaṇe*; *adeḥ striṇi ca* — the Uṇādi suffix *triṇ*; or *ava*, *kṛta*… [read as *atas trāyante*]); *kṛdhi* (*śruśṛṇupṝkṛvṛbhyaś chandasi hērdhir ādeśaḥ*; *luk* of *śap* by *bahulaṃ chandasi*; the lengthening in the Saṃhitā *anyeṣām api dṛśyate*); *ūrdhvān* (*ubhayathartvarnaḥ*…; the *n* before *c*; the Saṃhitā's *ru* is not made, since the *ru*-rule is optional in the Veda [*nṝn…*]); *carathāya* (*cara*, Uṇādi *atha*); *jīvase* (*jīva prāṇadhāraṇe*, *tumarthe seseñasen*); *vidāḥ* (*vidḷ lābhe*, with the causative sense; *leṭ*, *sip*, the augment *aṭ* and *āṭ*; *tudādi*: *śa*; *śe muc…*: no *num*, since the rule on augments is non-constant [*anityam āgamaśāsanam*]; *itaś ca lopaḥ*).
+**Grammatical tail of the bhāṣya** *(p. 226)*
+
+> अत्रिणम् । अद भक्षणे । अदेस्त्रिनि च । उ. ४-६८ । इत्यौणादिकस्त्रिनिप्रत्ययः । यद्वा । अदतस्त्रायन्त इत्यत्राः । आतोऽनुपसर्गे क इति कः । अत इनिठनाविति मत्वर्थीय इनिः । कृधि । श्रुशृणुपॄकृवृभ्यश्छन्दसीति हेर्धिरादेशः । बहुलं छन्दसीति विकरणस्य लुक् । अन्येषामपि दृश्यत इति संहितायां दीर्घः । ऊर्ध्वान् । उभयथर्क्षु । पा. ८-३-८ । इति विकल्पविधानान्नश्छव्यप्रशान् । पा. ८-३-६ । इति नकारस्य रुत्वाभावः । चरथाय । चरेरौणादिको भावेऽथप्रत्ययः । जीवसे । जीव प्राणधारणे । तुमर्थे सेसेनित्यसेप्रत्ययः । विदाः । विद्लृ लाभे । अस्मादन्तर्भावितण्यर्थाल्लेटि सिपि लेटोऽडाटावित्याडागमः । तुदादित्वाच्छः । शे मुचादीनामिति नुम् न भवति । अनित्यमागमशासनमिति वचनेन तस्यानित्यत्वात् । इतश्च लोप इतीकारलोपः । आगमानुदात्तत्वे विकरणस्वरः ॥
+
+*atriṇam | ada bhakṣaṇe | adestrini ca | u. 4-68 | ityauṇādikastrinipratyayaḥ | yadvā | adatastrāyanta ityatrāḥ | āto 'nupasarge ka iti kaḥ | ata iniṭhanāviti matvarthīya iniḥ | kṛdhi | śruśṛṇupṝkṛvṛbhyaśchandasīti herdhirādeśaḥ | bahulaṃ chandasīti vikaraṇasya luk | anyeṣāmapi dṛśyata iti saṃhitāyāṃ dīrghaḥ | ūrdhvān | ubhayatharkṣu | pā. 8-3-8 | iti vikalpavidhānānnaśchavyapraśān | pā. 8-3-6 | iti nakārasya rutvābhāvaḥ | carathāya | carerauṇādiko bhāve 'thapratyayaḥ | jīvase | jīva prāṇadhāraṇe | tumarthe sesenityasepratyayaḥ | vidāḥ | vidlṛ lābhe | asmādantarbhāvitaṇyarthālleṭi sipi leṭo 'ḍāṭāvityāḍāgamaḥ | tudāditvācchaḥ | śe mucādīnāmiti num na bhavati | anityamāgamaśāsanamiti vacanena tasyānityatvāt | itaśca lopa itīkāralopaḥ | āgamānudāttatve vikaraṇasvaraḥ ‖*
+
+*(Sense:)* *atriṇam* (*ada bhakṣaṇe*; *adeḥ striṇi ca* — the Uṇādi suffix *triṇ*; or *ava*, *kṛta*… [read as *atas trāyante*]); *kṛdhi* (*śruśṛṇupṝkṛvṛbhyaś chandasi hērdhir ādeśaḥ*; *luk* of *śap* by *bahulaṃ chandasi*; the lengthening in the Saṃhitā *anyeṣām api dṛśyate*); *ūrdhvān* (*ubhayathartvarnaḥ*…; the *n* before *c*; the Saṃhitā's *ru* is not made, since the *ru*-rule is optional in the Veda [*nṝn…*]); *carathāya* (*cara*, Uṇādi *atha*); *jīvase* (*jīva prāṇadhāraṇe*, *tumarthe seseñasen*); *vidāḥ* (*vidḷ lābhe*, with the causative sense; *leṭ*, *sip*, the augment *aṭ* and *āṭ*; *tudādi*: *śa*; *śe muc…*: no *num*, since the rule on augments is non-constant [*anityam āgamaśāsanam*]; *itaś ca lopaḥ*).
 
 **Pratipadārtha** *(p. 226)* — "**ūrdhvaḥ** — (O Agni abiding in the sacrificial post) standing high; **naḥ** — us; **ketunā** — by knowledge; **aṃhasaḥ** — from sin (by driving it off); **ni pāhi** — protect well; **viśvam atriṇam** — the devouring rākṣasa, the eater of all; **sam daha** — burn utterly to ashes; **carathāya** — for going about in the world, to carry on affairs; **jīvase** — for living; **naḥ** — us; **ūrdhvān** — raised up (bringing prosperity); **kṛdhi** — make; **naḥ** — our; **duvaḥ** — wealth in the form of oblations; **deveṣu** — among the gods; **vidāḥ** — cause to be made known."
 
 **Bhāvārtha** *(pp. 226–227)* — "O Agni abiding in the sacrificial post, or O post itself, stand high, so as to be seen by us. Protect us well by giving [us] knowledge and by saving us from sin. Burn up utterly our enemies the devouring rākṣasas. Make us prosperous, both for carrying on our dealings in the world and for living. Make known to the gods our wealth in the form of oblations."
+
+### Page 227
 
 **English Translation (the source's own, p. 227)** — "Be erect and protect us from sin by knowledge ; burn down all the evil spirits ; raise us aloft that we may pass through the world and we may live ; convey our wealth ( of oblations ) to the gods·" *(the print ends with a raised dot)*.
 
@@ -3592,12 +3604,16 @@ usage" (p. 195); this is *parasmaipada*, but by *vyatyayo bahulam* the *ātmanep
 - **vidā deveṣu no duvaḥ** — "Here *duvaḥ* means wealth. How do we give wealth to the gods? — namely, the food that is called 'wealth', in the form of the oblation; that is, make known to the gods, or cause to reach them, the oblation, the wealth, that we have prepared to offer to the gods."
 
 **Vyākaraṇa-prakriyā** *(pp. 227–228, PDF 241–242 — grammar pages, noted briefly)*
-- **atriṇam**: root *ada bhakṣaṇe* [the print has *ava bhakṣaṇe*, read *ada*]; *adeḥ striṇi ca* — [Uṇ. 4-108, as I read the numerals [?]]: after *ad* both *triṣ* … and (by *ca*) *triṇ*; so *triṇi*; or *a-tataḥ trāyante*, "they protect from…"; *trāṇ pālane*; *ādeca upadeśe 'śiti* — [Pā. 6-1-45]: *ā* for *ai*; *ato 'nupasarge kaḥ* [Pā. 3-2-3]: *ka* when a non-preverb *sup*-word is *upapada*; after *atra* [a word], *ata ini ṭhanau* [*ata iniṭhanau*, Pā. 5-2-115]: *ini*; *yasyeti ca*: loss of *a*: *atrin*.
-- **kṛdhi**: root *ḍukṛñ karaṇe*; *śruśṛṇupṝkṛvṛbhyaś chandasi*: *dhi* for *hi*, as explained in the 12th mantra of this sūkta; *luk* of the *vikaraṇa*; *hi* is *apit*, hence *ṅit*, so no *guṇa*; *anyeṣām api dṛśyate* [Pā. 6-3-137]: lengthening.
-- **ūrdhvān**: after it stands *ca*, which begins the *chav* [*c*]; *ubhayatha ṛkṣu* — उभयथर्क्षु — [Pā. 8-3-8]: when *ru* is to be [made] before a *chav* with a following *am*-letter, the *n*'s *ru* is optional in the ṛk; so the rule on *ru* is optional; hence the *ru* from *naś chavyapraśān* — नश्छव्यप्रशान् — [Pā. 8-3-7] does not arise here.
+- **atriṇam**: root *ada bhakṣaṇe*; *adeḥ striṇi ca* (printed "Uṇ. Sū. 4-?08": the first digit after the dash is a ೫- or ೩-like glyph, not settled; the bhāṣya tail gives Uṇ. 4-68): after *ad* both *triṣ* … and (by *ca*) *triṇ*; so *triṇi*; or *a-tataḥ trāyante*, "they protect from…"; *trāṇ pālane*; *ādeca upadeśe 'śiti* (Pā. 6-1-45): *ā* for *ai*; *āto 'nupasarge kaḥ* (Pā. 3-2-3): *ka* when a non-preverb *sup*-word is *upapada*; after *atra* [a word], 
+
+### Page 228
+
+(continued, p. 228) *ata iniṭhanau* (no number printed): *ini*; *yasyeti ca*: loss of *a*: *atrin*.
+- **kṛdhi**: root *ḍukṛñ karaṇe*; *śruśṛṇupṝkṛvṛbhyaś chandasi*: *dhi* for *hi*, as explained in the 12th mantra of this sūkta; *luk* of the *vikaraṇa*; *hi* is *apit*, hence *ṅit*, so no *guṇa*; *anyeṣām api dṛśyate* (Pā. 6-3-137): lengthening.
+- **ūrdhvān**: after it stands *ca*, which begins the *chav* [*c*]; *ubhayatha ṛkṣu* — उभयथर्क्षु — (Pā. 8-3-8): when *ru* is to be [made] before a *chav* with a following *am*-letter, the *n*'s *ru* is optional in the ṛk; so the rule on *ru* is optional; hence the *ru* from *naś chavyapraśān* — नश्छव्यप्रशान् — (no number printed here; the bhāṣya tail prints Pā. 8-3-6 [as printed; for 8-3-7]) does not arise here.
 - **carathāya**: root *cara*, in the sense of *bhāva* the *oṇādika* suffix *atha*.
-- **jīvase**: root *jīva prāṇadhāraṇe*; *tumarthe seseñasenasenaiasen…* — तुमर्थे सेसेनसेऽसेन्… — [Pā. 3-4-9]: *ase* [for *tumun*]; "since *tumun* is mentioned in the sense of *tumarthe*, without specifying *bhāva* or *karman*, the *bhāva* in the sense *sādhyāvasthāpanna* [the action as to be done] is meant".
-- **vidāḥ**: root *vidḷ lābhe*, containing the sense of the causative *ṇic*; *leṭ*, *sip*; *leṭo 'ḍāṭau*: *aṭ*; *śa*; "since *āgamaśāstram anityam*, the *num* [taught by *śe muñcādīnām*, Pā. 7-1-59] for the *muc* group before *śa* does not arise"; *itaś ca lopaḥ parasmaipadeṣu*: the *i* of *sip* is lost; *savarṇadīrgha*; *vidās*, *ru*, *visarga*; the augment is unaccented, the *vikaraṇa* acute, the single substitute acute. Rik 14 ends here (*|| 14 ||*).
+- **jīvase**: root *jīva prāṇadhāraṇe*; *tumarthe seseñasenasenaiasen…* — तुमर्थे सेसेनसेऽसेन्… — (Pā. 3-4-9): *ase* [for *tumun*]; "since *tumun* is mentioned in the sense of *tumarthe*, without specifying *bhāva* or *karman*, the *bhāva* in the sense *sādhyāvasthāpanna* [the action as to be done] is meant".
+- **vidāḥ**: root *vidḷ lābhe*, containing the sense of the causative *ṇic*; *leṭ*, *sip*; *leṭo 'ḍāṭau*: *aṭ*; *śa*; "since *āgamaśāstram anityam*, the *num* [taught by *śe mucādīnām*, Pā. 7-1-59] for the *muc* group before *śa* does not arise"; *itaś ca lopaḥ parasmaipadeṣu*: the *i* of *sip* is lost; *savarṇadīrgha*; *vidās*, *ru*, *visarga*; the augment is unaccented, the *vikaraṇa* acute, the single substitute acute. Rik 14 ends here (*|| 14 ||*).
 
 ### Rik 36.15 (p. 228 foot, PDF 242–)
 
