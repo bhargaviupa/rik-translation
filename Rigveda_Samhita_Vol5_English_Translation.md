@@ -5916,13 +5916,13 @@
 
 ### Rik 54.6 (pp. 321–, PDF 337–; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 321; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 321; accents as printed; [accent ?]: the svarita marks over* ratham *and* dambhayaḥ *stand between two syllables; set on* tha *and* bha*)*
 
-> **त्वमाविथ नर्यं तुर्वशं यदुं त्वं तुर्वीतिं वय्यं शतक्रतो ।**
-> **त्वं रथमेतशं कृत्व्ये धने त्वं पुरो नवतिं दम्भयो नव ॥ ६ ॥**
+> **त्वमा॑विथ॒ नर्यं॑ तु॒र्वशं॒ यदुं॒ त्वं तु॒र्वीतिं॑ व॒य्यं॑ शतक्रतो ।**
+> **त्वं रथ॑मेतशं॒ कृत्व्ये॒ धने॒ त्वं पुरो॑ नव॒तिं दम्भ॑यो॒ नव॑ ॥ ६ ॥**
 
-*tvam āvitha naryaṃ turvaśaṃ yaduṃ tvaṃ turvītiṃ vayyaṃ śatakrato |*
-*tvaṃ ratham etaśaṃ kṛtvye dhane tvaṃ puro navatiṃ dambhayo nava || 6 ||*
+*tvám āvitha náryaṃ turváśaṃ yáduṃ tváṃ turvī́tiṃ vayyàṃ śatakrato |*
+*tváṃ rátham etaśaṃ kṛ́tvye dháne tváṃ púro navatíṃ dámbhayo náva || 6 ||*
 
 **Pada-pāṭha** *(p. 321)*
 
@@ -5938,7 +5938,7 @@
 
 *he indra tvaṃ naryādīn trīn rājña āvitha rarakṣitha | tathā he śatakrato bahuvidhakarman bahuvidhaprajña vā tvaṃ vayyaṃ vayyakulajaṃ turvītināmānaṃ rājānam āvithety eva | api ca tvaṃ rathaṃ raṃhaṇasvabhāvam etatsaṃjñam ṛṣim etaśam etatsaṃjñakaṃ dhane dhananimitte saṃgrāme kṛtvye kartavye satyāvitheti śeṣaḥ | yadvā | pūrvoktānāṃ rājñāṃ ratham | etaśaḥ ity aśvanāma | etaśam aśvaṃ ca rarakṣitheti yojyam | tathā tvaṃ śaṃbarasya navatiṃ nava navottaranavatisaṃkhyākāḥ puraḥ purāṇi dambhayaḥ vyanīnaśaḥ ||*
 
-*(The tail, p. 321 foot: on* etaśam *(*iṇ gatau*, Uṇādi* kaśa* / *iṇas tan-kaśasunau*, Uṇ. 3-… as read [?], with the suffix *taśa*; *guṇa*),* kṛtvye *(*kartavye*, a Vedic letter-change of *kṛtya*; *pṛṣodarādi*) — is characterized; the further notes continue on p. 323 and are given with the next batch.)*
+*(The tail, p. 321 foot: on* etaśam *(*iṇ gatau*, Uṇādi* kaśa* / *iṇas taśan-kaśasunau*, printed "ಉ. ಸೂ. ೩-೧೪೯" (Uṇ. sū. 3-149), with the suffix *taśan*; *guṇa*),* kṛtvye *(*kartavye*, a Vedic letter-change of *kṛtya*; *pṛṣodarādi*) — is characterized; the further notes continue on p. 323 and are given with the next batch.)*
 
 **Translation of the bhāṣya:** "O Indra, you protected *naryādīn trīn*, the three kings beginning with Narya [Narya, Turvaśa and Yadu]; and, O *śatakrato*, of many works or many wisdoms, you protected the king named Turvīti, born in the family of Vayya. Further, you protected, in the battle for wealth that was to be fought, the chariot — of swift nature — and the sage named Etaśa; or: the chariot of those kings spoken of; *etaśa* is a name for the horse: construe 'you protected the horse also'. And you, *navatiṃ nava*, ninety-nine cities of Śambara you *dambhayaḥ*, destroyed."
 
@@ -5949,9 +5949,9 @@
 **English Translation (the source's own, p. 322)** — "You have protected Narya, Turvasa, Yadu and Turviti, of the race of Vayya; you have protected their chariots and horses in a battle undertaken for necessary wealth; you have destroyed the ninety-nine cities (of Sambara)."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 322 (begins)**
-- **turvaśam, yaduṃ** — "See what we have written on them in Ṛ. Saṃ. Part 4, pp. 210–212 [numerals as read, [?]]."
-- **turvītim** — "His matter is described in Ṛ. Saṃ. Part 4, p. 214 [?]."
-- **naryam** — "The name of a king. His name occurs in this Rik and in Ṛ. Saṃ. 1-100-… [?]. Since it is found nowhere else, we have not learned more about him."
+- **turvaśam, yaduṃ** — "See what we have written on them in Ṛ. Saṃ. Part 4, pp. 240–242." *(printed "ಪೇಜು ೨೪೦-೨೪೨")*
+- **turvītim** — "His matter is described in Ṛ. Saṃ. Part 4, p. 244." *(printed "ಪೇಜು ೨೪೪")*
+- **naryam** — "The name of a king. His name occurs in this Rik and in Ṛ. Saṃ. 1-112-9 (as printed, "೧-೧೧೨-೯"). Since it is found nowhere else, we have not learned more about him."
 - **śatakrato** — "'One who has many kinds of deeds,' or 'one who has many kinds of wisdom,' or 'one who has performed a hundred sacrifices': thus they explain the word *indra* in many ways."
 
 ---
@@ -5966,9 +5966,9 @@
 - **navatiṃ nava** — "It means ninety-nine. It is an epithet of the word *puraḥ*. The Asura Śambara had ninety-nine cities; Indra destroyed all of them: thus Indra is praised here."
 
 **Vyākaraṇa-prakriyā** *(p. 323 — grammar page, noted briefly)*
-- **āvitha**: *ava rakṣaṇe*; *liṭ* second singular *sip*, *thal* by *parasmaipadānāṃ ṇalatusus…*; reduplication; *halādiḥ śeṣaḥ*; lengthening by *akaś ca ādeḥ* [as read, "*ataḥ ādeḥ*", Pā. 7-4-70]; *iṭ* for *thal*: *āvitha*; following an *atiṅ*, *nighāta*.
+- **āvitha**: *ava rakṣaṇe*; *liṭ* second singular *sip*, *thal* by *parasmaipadānāṃ ṇalatusus…*; reduplication; *halādiḥ śeṣaḥ*; lengthening by *ata ādeḥ* (no number printed); *iṭ* for *thal*: *āvitha*; following an *atiṅ*, *nighāta*.
 - **śatakrato**: *āmantritasya ca* gives the *nighāta*.
-- **etaśam**: "*eti gacchatīti etaśaḥ*"; *iṇ gatau*, *adādi*; *iṇas taśan-kaśasunau* (Uṇ. 3-… as read [?]) gives *taśan*; when *taśan* follows, *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; *ñnityādir nityam* gives the initial acute.
+- **etaśam**: "*eti gacchatīti etaśaḥ*"; *iṇ gatau*, *adādi*; *iṇas taśan-kaśasunau* (Uṇ. sū. 3-149) gives *taśan*; when *taśan* follows, *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; *ñnityādir nityam* gives the initial acute.
 - **kṛtvye**: *pṛṣodarādīni yathopadiṣṭam*: since *kartavye* is thus read, the form *kṛtvye* arises by letter-change and loss.
 - **dambhayaḥ**: *dambhu dambhe*, *curādi*; *laṅ* second singular *sip*; *itaś ca* drops the *i*; *kartari śap* after *ṇic*; *guṇa* and *ayādeśa* with *śap* as cause; *ru*, *visarga*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*: *dambhayaḥ*; *tiṅ atiṅaḥ*, *nighāta*. **|| 6 ||**
 
