@@ -5551,15 +5551,17 @@
 
 ---
 
-### Rik 53.11 (pp. 300–, PDF 316–; metre Triṣṭubh)
+### Rik 53.11 (pp. 300–303, PDF 316–319; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 300; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 300; accents as printed)*
 
-> **य उद्ऋचीन्द्र देवगोपाः सखायस्ते शिवतमा असाम ।**
-> **त्वां स्तोषाम त्वया सुवीरा द्राघीय आयुः प्रतरं दधानाः ॥ ११ ॥**
+> **य उ॒दृ॑चीन्द्र दे॒वगो॑पाः॒ सखा॑य॒स्ते शि॒वत॑मा॒ असा॑म ।**
+> **त्वां स्तो॑षाम॒ त्वया॑ सु॒वीरा॒ द्राघी॑य॒ आयुः॑ प्रत॒रं दधा॑नाः ॥ ११ ॥**
 
-*ya udṛcīndra devagopāḥ sakhāyas te śivatamā asāma |*
-*tvāṃ stoṣāma tvayā suvīrā drāghīya āyuḥ prataraṃ dadhānāḥ || 11 ||*
+*yá udṛcīndra devágopāḥ sákhāyas té śivátamā ásāma |*
+*tvā́ṃ stoṣāma tváyā suvī́rā drā́ghīya ā́yuḥ prataráṃ dádhānāḥ || 11 ||*
+
+*[accent ?] दृ॑ (the stroke stands between ದೃ and ಚೀ; placed on दृ). The print spells the Saṃhitā उदृचीन्द्र (ಉದೃಚೀಂದ್ರ).*
 
 **Pada-pāṭha** *(p. 300)*
 
@@ -5569,7 +5571,7 @@
 *ye | ut-ṛci | indra | deva-gopāḥ | sakhāyaḥ | te | śiva-tamāḥ | asāma |*
 *tvām | stoṣāma | tvayā | su-vīrāḥ | drāghīyaḥ | āyuḥ | pra-taram | dadhānāḥ || 11 ||*
 
-*(The Saṃhitā's* ya udṛci *is as printed; the Pada's* ut-ṛci *(a locative) is the Pada's division; I do not alter either, and note it as doubtful, [?].)*
+*(The Saṃhitā's* ya udṛci *and the Pada's* ut-ṛci *(ಉತ್‌ಋಚಿ, a locative) are both as printed.)*
 
 ---
 
@@ -5583,7 +5585,7 @@
 
 *he indra ye vayam udṛci yajñasamāptau vartamānā devagopā devaiḥ pālitās te tava sakhāyaḥ sakhivad atyantaṃ priyāḥ ata eva śivatamā asāma atiśayena kalyāṇā abhūma te vayaṃ yajñasamāptyuttarakālam api tvāṃ stoṣāma stavāma | asmābhiḥ stutena tvayā suvīrāḥ śobhanaputravantaḥ santo drāghīyo 'tiśayena dīrgham āyur jīvanaṃ prataraṃ prakṛṣṭataraṃ yathā bhavati tathā dadhānā dhārayanto bhūyāsma ||*
 
-*(The tail of the bhāṣya, p. 301, is characterized:* devagopāḥ *(bahuvrīhi);* asāma *(*as bhuvi*, *loṭ* in the sense of the *liṅ*; *uttama* plural *mas*; *śnasor allopaḥ* excluded because *pittva* is stated; Pā. 6-4-111);* stoṣāma *(*ṣṭuñ stutau*, *adādi*, *leṭ*; *sip*; *ādyudāttaḥ*);* suvīrāḥ *(*vīravīryau ca*, Pā. 6-2-120 as read [?]);* drāghīyaḥ *(*dīrgha* + *īyasun*; *priyasthirasphirorubahulagurvaṅga…*, Pā. 6-4-157 as read [?]; the substitute *drāghā*; *nit*, so initial-acute);* prataram *(*pra* + *tarap*, then *amu ca chandasi*, Pā. 5-4-12 as read [?]);* dadhānāḥ *(*ḍudhāñ dhāraṇapoṣaṇayoḥ*, *śānac*, *juhotyādibhyaḥ śluḥ*, reduplication, *hrasva* and *jaśtva*; *abhyastānām ādiḥ*).)*
+*(The tail of the bhāṣya, p. 301, is characterized:* devagopāḥ *(bahuvrīhi);* asāma *(*as bhuvi*, *loṭ* in the sense of the *liṅ*; *uttama* plural *mas*; *śnasor allopaḥ* excluded because *pittva* is stated; no number in the tail);* stoṣāma *(*ṣṭuñ stutau*, *adādi*, *leṭ*; *sip*; *ādyudāttaḥ*);* suvīrāḥ *(*vīravīryau ca*, no number in the tail);* drāghīyaḥ *(*dīrgha* + *īyasun*; *priyasthirasphirorubahulagurvaṅga…*, Pā. 6-4-157; the substitute *drāghā*; *nit*, so initial-acute);* prataram *(*pra* + *tarap*, then *amu ca chandasi*, Pā. 5-4-12);* dadhānāḥ *(*ḍudhāñ dhāraṇapoṣaṇayoḥ*, *śānac*, *juhotyādibhyaḥ śluḥ*, reduplication, *hrasva* and *jaśtva*; *abhyastānām ādiḥ*).)*
 
 **Translation of the bhāṣya:** "O Indra, we who *udṛci*, are present at the close of the sacrifice, *devagopāḥ*, protected by the gods, *te sakhāyaḥ*, your friends — exceedingly dear, like friends — and therefore *śivatamāḥ asāma*, may we be most auspicious; we, even after the end of the sacrifice, *tvāṃ stoṣāma*, will praise you. *Tvayā*, through you, praised by us, *suvīrāḥ*, having fair sons, *drāghīyaḥ āyuḥ*, a very long life, *prataram*, in the best way, *dadhānāḥ*, holding, may we be."
 
@@ -5602,10 +5604,10 @@
 
 **Vyākaraṇa-prakriyā** *(pp. 302–303 — grammar pages, noted briefly)*
 - **devagopāḥ**: "*devā gopā yeṣām*": a bahuvrīhi: *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member.
-- **asāma**: *as bhuvi*; *vyatyayo bahulam* gives *loṭ* in the sense of the *liṅ*; first person plural *mas*; *loṭo laṅvat* gives *laṅ*-ness, so *nityaṃ ṅitaḥ* drops the *s* of *mas*; *āḍ uttamasya pic ca* (Pā. 3-4-92) gives *āṭ* to it; as it is stated *pit*, *sārvadhātukam apit* does not make it *ṅit*; therefore *śnasor allopaḥ* does not drop the *a* of *as*; since *pit* is stated, the *tiṅ* is *anudātta*, so the accent of the root remains.
+- **asāma**: *as bhuvi*; *vyatyayo bahulam* gives *loṭ* in the sense of the *liṅ*; first person plural *mas*; *loṭo laṅvat* gives *laṅ*-ness, so *nityaṃ ṅitaḥ* drops the *s* of *mas*; *āḍ uttamasya pic ca* (Pā. 3-4-92) gives *āṭ* to it; as it is stated *pit*, *sārvadhātukam apit* does not make it *ṅit*; therefore *śnasor allopaḥ* (Pā. 6-4-111) does not drop the *a* of *as*; since *pit* is stated, the *tiṅ* is *anudātta*, so the accent of the root remains.
 - **stoṣāma**: *ṣṭuñ stutau*, *adādi*; the first-person plural of *loṭ* — *leṭ*: *yeṣ* as before; the *s* dropped; by *sibbahulaṃ leṭi* (Pā. 3-1-34), since *bahulam* is taken, *sip* also comes in the *leṭ*; being *pit*, *guṇa* of the root; after an *i*-class [*iṇ*], *ādeśapratyayayoḥ* gives *ṣatva*; *āḍ uttamasya pic ca* gives the augment *āṭ*: *stoṣāma*; following an *atiṅ*, *nighāta*.
 - **suvīrāḥ**: "*śobhanā vīrā yeṣām*"; *vīravīryau ca* (Pā. 6-2-120) gives the initial-acute of the last member.
-- **drāghīyaḥ**: after *dīrgha*, a quality-word, *īyasun* in the sense of surpassing: *dvivacanavibhajyopapade tarabīyasunau* (Pā. 5-3-57); when *īyasun* follows, *priyasthirasphirorubahulagurvaṅgadīrghavṛddhatṛpradīrghavṛndārakāṇāṃ prasthasphiravarabaṃhigarvarṣitrap…* [as read, Pā. 6-4-157] gives *drāghā* for *dīrgha*; *yasyeti ca* drops the *a*: *drāghīyas*; since *nit*, *ñnityādir nityam* gives the initial acute.
+- **drāghīyaḥ**: after *dīrgha*, a quality-word, *īyasun* in the sense of surpassing: *dvivacanavibhajyopapade tarabīyasunau* (no number printed); when *īyasun* follows, *priyasthirasphiroru…* (Pā. 6-4-157) gives *drāghā* for *dīrgha*; *yasyeti ca* drops the *a*: *drāghīyas*; since *nit*, *ñnityādir nityam* gives the initial acute.
 - **prataram**: with *tarap* after *pra*, *amu ca chandasi* (Pā. 5-4-12) gives *amu* when the sense of surpassing is not of substance (*adravyagata*); *prataram*; end-acute by the suffix-accent.
 - **dadhānāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* in the sense of *laṭ*; *juhotyādibhyaḥ śluḥ* gives *ślu*; reduplication by *ślau*; *hrasvaḥ*; *jhalāṃ jaś jhaśi*: *dadhāna*; *abhyastānām ādiḥ* gives the initial acute. **|| 11 ||**
 
