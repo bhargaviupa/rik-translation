@@ -8460,13 +8460,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 43.4 (pp. 475–478, PDF 489–492)
 
-**Saṃhitā-pāṭha** *(p. 475; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 475; Saṃhitā accents as printed; Pada unaccented; the initial त is unmarked in the print and taken as udātta in the IAST.)*
 
-> **गाथपतिं मेधपतिं रुद्रं जलाषभेषजम् ।**
-> **तच्छंयोः सुम्नमीमहे ॥ ४ ॥**
+> **गा॒थप॑तिं मे॒धप॑तिं रु॒द्रं जला॑षभेषजम् ।**
+> **तच्छं॒योः सु॒म्नमी॑महे ॥ ४ ॥**
 
-*gāthapatiṃ medhapatiṃ rudraṃ jalāṣabheṣajam |*
-*tac chaṃyoḥ sumnam īmahe || 4 ||*
+*gāthápatiṃ medhápatiṃ rudráṃ jálāṣabheṣajam |*
+*tác chaṃyóḥ sumnám īmahe || 4 ||*
 
 **Pada-pāṭha** *(p. 476)*
 
@@ -8491,17 +8491,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **English Translation (the source's own, p. 477)** — "So we pray to Rudra, the lord of hymns, the protector of sacrifices possessed of medicament that give delight, for such happiness as shown to Samyu."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 477**
-- **gāthapatim** — "since the word *gāthā* is read among the thirty-three [?] names of speech beginning with *śloka*, *dhārā* [as read], *gāthā* means speech in the form of praise; *gāthapati* is the lord of hymns, i.e. one who is praised with hymns."
+- **gāthapatim** — "since the word *gāthā* is read among the fifty-seven (*aivattēḷu*) names of speech beginning with *ślokaḥ*, *dhārā*, *gāthā* means speech in the form of praise; *gāthapati* is the lord of hymns, i.e. one who is praised with hymns."
 - **medhapatim** = *yajñapālakam* — "protector of sacrifices."
 - **jalāṣabheṣajam** — "*janī prādurbhāve | jāyante iti jāḥ | laṣa kāntau | kāntir abhilāṣaḥ | jānāṃ lāṣo yasmiṃs taj jalāṣaṃ sukhaṃ | jalāṣarūpaṃ bheṣajaṃ yasmin rudre sa jalāṣabheṣajaḥ*: *laṣa* needs a desire, and *janī* means arising; so the pleasure that fulfils our desire is called *sukha*. Rudra who has such a remedy of the nature of happiness is called *jalāṣabheṣaja*. Or one may say [Sāyaṇa's second sense] 'he who is joined with remedies in the form of water'; for it is well known that water consecrated with mantras to Rudra has the medicinal power of preventing diseases."
-- **śaṃyoḥ** — "Śaṃyu is the name of Bṛhaspati's son. This Śaṃyu is the ṛṣi of altogether [63? the numeral is read with doubt [?]] ṛks in the sūktas [Ṛg. Saṃ. 6-44, 6-45, 6-46 [?]] of the sixth maṇḍala of the Ṛgveda. It is well known that the ṛṣi obtained excellent happiness by the grace of Rudra and the other deities. The ṛṣi prays that such well-known happiness be given. In many śruti sentences such as '*tac chaṃyor āvṛṇīmahe*' [as read, [?]] there are many occasions in which deities are prayed to for the very happiness that Śaṃyu obtained; therefore it is well known that the happiness of Śaṃyu is of an exalted kind." *(The Yajurveda quotation is as printed, crowded [?]; its reference is not given.)*
+- **śaṃyoḥ** — "Śaṃyu is the name of Bṛhaspati's son. This Śaṃyu is the ṛṣi of altogether 93 ṛks in the sūktas 44, 45, 46, 48of the sixth maṇḍala of the Ṛgveda. It is well known that the ṛṣi obtained excellent happiness by the grace of Rudra and the other deities. The ṛṣi prays that such well-known happiness be given. In many śruti sentences such as '*tac chaṃyor āvṛṇīmahe*' there are many occasions in which deities are prayed to for the very happiness that Śaṃyu obtained; therefore it is well known that the happiness of Śaṃyu is of an exalted kind." *(The quotation is clear in the print; its reference is not given.)*
 
 **Vyākaraṇa-prakriyā** *(pp. 478–479 — grammar pages, noted briefly)*
-- **gāthapatim**: "on *gāthā* — in the Nirukta (Ni. 1-11-[?], as read [?]) Yāska reads the word *gāthā* among the names of speech; so *gāthā* means *vāk*; here praise in the form of speech is conveyed by this word. Root *kai gai rai śabde*; *ādeca upadeśe 'śiti*: *ā* for *ai* of *gai*; *uṣikuṣigārtibhyas than* — उषिकुषिगार्तिभ्यस्थन् — [Uṇ. 2-[?] as read]: *than*; since the feminine is shown, *ajādyatas ṭāp* gives *ṭāp*; *savarṇadīrgha*; *gāthā*; the *ḍati* suffix after the root *pā rakṣaṇe* in *pāter ḍatiḥ* [Uṇ. 4-[?] as read] would give *pati*; '*gāthāyāḥ patiḥ*': *gāthapatiḥ*; *jyāpoḥ saṃjñāchandasor bahulam* — ज्यापोः सञ्ज्ञाछन्दसोर्बहुलम् — [Pā. 6-3-63 as read]: the shortening of *ṭāp* in the first member; the word *gātha* is *nit* so first-syllable acute; *patyāv aiśvarye* [Pā. 6-2-18 as read] would give the first-member accent; but *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* gives acute at the end of the first member."
+- **gāthapatim**: "on *gāthā* — in the Nirukta (Niru. 1-11-37 as printed; last digit flat-footed 7) Yāska reads the word *gāthā* among the names of speech; so *gāthā* means *vāk*; here praise in the form of speech is conveyed by this word. Root *kai gai rai śabde*; *ādeca upadeśe 'śiti*: *ā* for *ai* of *gai*; *uṣikuṣigārtibhyas than* — उषिकुषिगार्तिभ्यस्थन् — [U. Sū. 2-161]: *than*; since the feminine is shown, *ajādyatas ṭāp* gives *ṭāp*; *savarṇadīrgha*; *gāthā*; the *ḍati* suffix after the root *pā rakṣaṇe* in *pāter ḍatiḥ* [no number printed] would give *pati*; '*gāthāyāḥ patiḥ*': *gāthapatiḥ*; *jyāpoḥ saṃjñāchandasor bahulam* — ज्यापोः सञ्ज्ञाछन्दसोर्बहुलम् — [Pā. Sū. 6-3-63]: the shortening of *ṭāp* in the first member; the word *gātha* is *nit* so first-syllable acute; *patyāv aiśvarye* [no number printed] would give the first-member accent; but *marudvṛdhādīnāṃ chandasy upasaṃkhyānam* gives acute at the end of the first member."
 - **medhapatim**: "the process is to be stated as before."
 - **rudram**: the suffix *rak* by *roder ṇiluk ca*.
-- **jalāṣabheṣajam**: root *janī prādurbhāve*; "*jāyante iti jāḥ*"; *anyeṣv api dṛśyate* [Pā. 3-2-101 as read]: *ḍa* after the root *jan* seen even where there is no other *upapada*; because of the word *dṛśyate*, it comes even without an *upapada*; loss of the *ṭi*; root *laṣa kāntau*, then *ghañ* in the abstract; *upadhāvṛddhi*: *lāṣa*; *kānti* means desire; 'in which the *lāṣa* of the born is'; *bheṣam*, disease, '*jayati*', conquers: *bheṣajam*; a bahuvrīhi containing *jalāṣam bheṣajaṃ yasya saḥ*: Rudra with remedies of the nature of happiness is conveyed by the word *jalāṣabheṣaja*; the accent of the first member.
-- **śaṃyoḥ**: *kaṃśaṃbhyāṃ babhayustitutayasaḥ* — कंशंभ्यां बभयुस्तितुतयसः — [Pā. 5-2-138 as read]: after *kam* and *śam* the seven suffixes *ba*, *bha*, *yus*, *ti*, *tu*, *ta*, *ya* in the sense of *matup*; *kam* and *śam* are indeclinables ending in *m*; *kam* means water or happiness, *śam* happiness; *śam + yus*; *siti ca* [Pā. 1-4-16 as read]: when a suffix with the *s*-*it* follows, the preceding has the *pada* name, so the *m* of *śam* takes *anusvāra* by *mo 'nusvāraḥ* and then the homorganic nasal by *anusvārasya yayi parasavarṇaḥ*: *śayyu*; suffix accent, *guṇa*, *jasi ca*, *pūrvarūpa*, *ru*, visarga: *śaṃyoḥ*. Rik 4 ends here (*|| 4 ||*).
+- **jalāṣabheṣajam**: root *janī prādurbhāve*; "*jāyante iti jāḥ*"; *anyeṣv api dṛśyate* [Pā. Sū. 3-2-101]: *ḍa* after the root *jan* seen even where there is no other *upapada*; because of the word *dṛśyate*, it comes even without an *upapada*; loss of the *ṭi*; root *laṣa kāntau*, then *ghañ* in the abstract; *upadhāvṛddhi*: *lāṣa*; *kānti* means desire; 'in which the *lāṣa* of the born is'; *bheṣam*, disease, '*jayati*', conquers: *bheṣajam*; a bahuvrīhi containing *jalāṣam bheṣajaṃ yasya saḥ*: Rudra with remedies of the nature of happiness is conveyed by the word *jalāṣabheṣaja*; the accent of the first member.
+- **śaṃyoḥ**: *kaṃśaṃbhyāṃ babhayustitutayasaḥ* — कंशंभ्यां बभयुस्तितुतयसः — [Pā. Sū. 5-2-138]: after *kam* and *śam* the seven suffixes *ba*, *bha*, *yus*, *ti*, *tu*, *ta*, *ya* in the sense of *matup*; *kam* and *śam* are indeclinables ending in *m*; *kam* means water or happiness, *śam* happiness; *śam + yus*; *siti ca* [Pā. Sū. 1-4-16]: when a suffix with the *s*-*it* follows, the preceding has the *pada* name, so the *m* of *śam* takes *anusvāra* by *mo 'nusvāraḥ* and then the homorganic nasal by *anusvārasya yayi parasavarṇaḥ*: *śayyu*; suffix accent, *guṇa*, *jasi ca*, *pūrvarūpa*, *ru*, visarga: *śaṃyoḥ*. Rik 4 ends here (*|| 4 ||*).
 
 ---
 
