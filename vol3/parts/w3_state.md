@@ -6,11 +6,12 @@ Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā acce
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
 Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
-Part (2): Sūkta 32 introduction, Ṛks 32.1–32.8 done (p. 618 = PDF 632).
-Next unit: Ṛk 32.9 (heading "Pages 619–622", PDF 633–). Then 32.10–32.15 and the adhyāya colophon (p. 647 = PDF 660; p. 646 only in the old scan, its PDF 661). Watch for last lines cut off in the better scan (pp. 593, 597, 599, 607, 610 so far): check the old scan (PDF = printed + 15). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
+Part (2): Sūkta 32 introduction, Ṛks 32.1–32.9 done (p. 622 = PDF 636).
+Next unit: Ṛk 32.10 (heading "Pages 623–626", PDF 637–). Then 32.11–32.15 and the adhyāya colophon (p. 647 = PDF 660; p. 646 only in the old scan, its PDF 661). Watch for last lines cut off in the better scan (pp. 593, 597, 599, 607, 610 so far): check the old scan (PDF = printed + 15). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
+- p. 619: Ṛk 32.9 line-1 [accent ?]; p. 622: U. sū. 3-312 last digit (2, some doubt; bhāṣya prints उ. ३-३२).
 - p. 615: Ṛk 32.8 line-1 [accent ?] (stroke over प of यन्त्यापः).
 - p. 585/587: Ṛ. Saṃ. 1-7-7 (bhāṣya and grammar), p. 586: 10-4-7 — digits read as flat-footed 7.
 - pp. 607, 610: last line cut off in the better scan (read from old PDF 622, 625).
