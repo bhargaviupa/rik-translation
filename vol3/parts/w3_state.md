@@ -4,8 +4,8 @@ Range: (1) Ṛk 26.10 (p. 370 = PDF 384) → end of Sūkta 29 (p. 458); (2) Ṛk
 incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch `claude/pass2-vol3`. Edits log: `review/edits_w3.txt`.
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
-Done through: Ṛk 29.5 (p. 452 upper = PDF 466).
-Next unit: Ṛk 29.6 (pp. 452–454 = PDF 466–468; redone region; p. 452 viewed once at 175 dpi: Saṃhitā needs a zoom).
+Done through: Ṛk 29.6 (p. 454 = PDF 468).
+Next unit: Ṛk 29.7 + close of Sūkta 29 (pp. 455–458 = PDF 469–472; redone region).
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
