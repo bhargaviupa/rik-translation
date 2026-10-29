@@ -3,6 +3,14 @@
 Authorised by the user (Oct 27, 2026): Vol 3 (`vol3/Rigveda_Samhita_Vol3_English_Translation.md`) is opened for the same
 pass as Vol 2: **numeral corrections, `[?]` resolution, correction of other errors found against the better scan, and the
 printed Saṃhitā accents**. Nothing else in Vol 3 changes; no other volume is touched (Vol 2 has its own branch and runbook).
+
+**Scope = the Vol 4 pass (user, Oct 29): fix errors, do not rewrite.** Change only what the print shows to be wrong or
+missing: numerals, `[?]` readings, clear misreadings of words, and the Saṃhitā accents. Leave sound text as it stands:
+do **not** re-transcribe the whole bhāṣya, re-translate, or rewrite the Pratipadārtha, Bhāvārtha, Special Topics or grammar
+wholesale, and do not restructure sections or add `### Page N` headings just for form. A bhāṣya is re-transcribed only where
+the file marks it "compressed" or it is garbled (step 5); a grammar sentence is corrected only where it misstates the print.
+(From Oct 27 to Oct 29 the pass rewrote whole Ṛks, Sūkta 21 to about Sūkta 31 Ṛk 3; that text stays, but from here on the
+pass makes local corrections only.)
 Work on branch `claude/numerals-vol3` (create it from `main` if missing; merge `main` into it first); commit and push after
 every page batch; **merge into `main` only when the user says so**; no PRs. No progress messages to the user. Each run is a
 fresh session: read this file and `vol3/vol3_state.md` first, continue from where `vol3_state.md` says, update

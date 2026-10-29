@@ -1,5 +1,7 @@
 # Vol 3 numeral + [?] + accent pass — state
 
+**Scope change (user, Oct 29):** from here on the Vol 3 pass makes local corrections only, like Vol 4 (numerals, [?], misreadings, Saṃhitā accents); no more whole-Ṛk rewrites. See the Scope paragraph in `vol3_runbook.md`.
+
 **Parallel pass (Oct 28–29):** Sūkta 24 Ṛk 14 onward was split between workers v3a (pp. 288–458) and v3b (pp. 459–647); both branches were merged into main on Oct 29 at their pause points (v3a done through Ṛk 26.9, p. 370; v3b through Ṛk 31.3, p. 534). Resume points and open items: `vol3/parts/v3a_state.md`, `vol3/parts/v3b_state.md`; plan and rules: `docs/parallel_pass/HANDOVER.md`. [?] count after the merge: 537.
 
 Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
