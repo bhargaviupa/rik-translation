@@ -10942,13 +10942,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.9 (pp. 592–595, PDF 606–609)
 
-**Saṃhitā-pāṭha** *(p. 592; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 592)*
 
-> **दिवस्कण्वास इन्दवो वसु सिन्धूनां पदे ।**
-> **स्वं वव्रिं कुह धित्सथः ॥ ९ ॥**
+> **दि॒वस्क॑ण्वास॒ इन्द॑वो॒ वसु॒ सिन्धू॑नां प॒दे ।**
+> **स्वं व॒व्रिं कुह॑ धित्सथः ॥ ९ ॥**
 
-*divaskaṇvāsa indavo vasu sindhūnāṃ pade |*
-*svaṃ vavriṃ kuha dhitsathaḥ || 9 ||*
+*diváskaṇvāsa índavo vásu síndhūnāṃ padé |*
+*svaṃ vavríṃ kúha dhitsathaḥ || 9 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 593)*
 
@@ -10960,9 +10962,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 593)*
 
-> **हे कण्वासः कण्वपुत्राः । यद्वा । मेधाविन ऋत्विजः । अश्विनाविस्थं पृच्छतेति शेषः । कथमिति तदुच्यते । दिवो द्युलोकसकाशादिन्दवः सूर्यरश्मयः प्रादुर्भूताः । सिन्धूनामपां वृष्टिरूपाणां स्यन्दनस्वभावानां पदे स्थानेऽन्तरिक्षे वसु अस्मदादिनिवासहेतुभूतमुषःकालीनं ज्योतिराविर्भूतमिति शेषः । अस्मिन्नवसरे युवां स्वं वव्रिं स्वकीयं रूपं कुह धित्सथः । कुत्र स्थापयितुमिच्छथः । अत्रागत्य प्रदर्शनीयमिति तात्पर्यार्थः ॥ कुह । वा ह च छन्दसि । पा. ५-३-१३ [?] । इति किंशब्दात्सप्तम्यर्थे हप्रत्ययः । कु तिहोः । पा. ७-२-१०४ [?] । इति किमः कुः । धित्सथः । डुधाञ् धारणपोषणयोः । सनि मीमाघुरभलभशकपतपदामच इस् । पा. ७-४-५४ [?] । इत्याकारस्य इसादेशः । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ [?] । इत्यभ्यासलोपः । सः स्यार्धधातुके । पा. ७-४-४९ [?] । इति सकारस्य तकारः ॥**
+> **हे कण्वासः कण्वपुत्राः । यद्वा । मेधाविन ऋत्विजः । अश्विनाविस्थं पृच्छतेति शेषः । कथमिति तदुच्यते । दिवो द्युलोकसकाशादिन्दवः सूर्यरश्मयः प्रादुर्भूताः । सिन्धूनामपां वृष्टिरूपाणां स्यन्दनस्वभावानां पदे स्थानेऽन्तरिक्षे वसु अस्मदादिनिवासहेतुभूतमुषःकालीनं ज्योतिराविर्भूतमिति शेषः । अस्मिन्नवसरे युवां स्वं वव्रिं स्वकीयं रूपं कुह धित्सथः । कुत्र स्थापयितुमिच्छथः । अत्रागत्य प्रदर्शनीयमिति तात्पर्यार्थः ॥ कुह । वा ह च छन्दसि । पा. ५-३-१३ । इति किंशब्दात्सप्तम्यर्थे हप्रत्ययः । कु तिहोः । पा. ७-२-१०४ । इति किमः कुः । धित्सथः । डुधाञ् धारणपोषणयोः । सनि मीमाघुरभलभशकपतपदामच इस् । पा. ७-४-५४ [?] । इत्याकारस्य इसादेशः । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ [?] । इत्यभ्यासलोपः । सः स्यार्धधातुके । पा. ७-४-४९ [?] । इति सकारस्य तकारः ॥**
 
-*he kaṇvāsaḥ kaṇvaputrāḥ | yadvā | medhāvina ṛtvijaḥ | aśvināv itthaṃ pṛcchateti śeṣaḥ | katham iti tad ucyate | divo dyulokasakāśād indavaḥ sūryaraśmayaḥ prādurbhūtāḥ | sindhūnām apāṃ vṛṣṭirūpāṇāṃ syandanasvabhāvānāṃ pade sthāne 'ntarikṣe vasu asmadādinivāsahetubhūtam uṣaḥkālīnaṃ jyotir āvirbhūtam iti śeṣaḥ | asminn avasare yuvāṃ svaṃ vavriṃ svakīyaṃ rūpaṃ kuha dhitsathaḥ | kutra sthāpayitum icchathaḥ | atrāgatya pradarśanīyam iti tātparyārthaḥ || kuha | vā ha ca chandasi | pā. 5-3-13 [?] | iti kiṃśabdāt saptamyarthe hapratyayaḥ | ku tihoḥ | pā. 7-2-104 [?] | iti kimaḥ kuḥ | dhitsathaḥ | ḍudhāñ dhāraṇapoṣaṇayoḥ | sani mīmāghurabhalabhaśakapatapadām aca is | pā. 7-4-54 [?] | ity ākārasya isādeśaḥ | atra lopo 'bhyāsasya | pā. 7-4-58 [?] | ity abhyāsalopaḥ | saḥ syārdhadhātuke | pā. 7-4-49 [?] | iti sakārasya takāraḥ ||*
+*he kaṇvāsaḥ kaṇvaputrāḥ | yadvā | medhāvina ṛtvijaḥ | aśvināv itthaṃ pṛcchateti śeṣaḥ | katham iti tad ucyate | divo dyulokasakāśād indavaḥ sūryaraśmayaḥ prādurbhūtāḥ | sindhūnām apāṃ vṛṣṭirūpāṇāṃ syandanasvabhāvānāṃ pade sthāne 'ntarikṣe vasu asmadādinivāsahetubhūtam uṣaḥkālīnaṃ jyotir āvirbhūtam iti śeṣaḥ | asminn avasare yuvāṃ svaṃ vavriṃ svakīyaṃ rūpaṃ kuha dhitsathaḥ | kutra sthāpayitum icchathaḥ | atrāgatya pradarśanīyam iti tātparyārthaḥ || kuha | vā ha ca chandasi | pā. 5-3-13 | iti kiṃśabdāt saptamyarthe hapratyayaḥ | ku tihoḥ | pā. 7-2-104 | iti kimaḥ kuḥ | dhitsathaḥ | ḍudhāñ dhāraṇapoṣaṇayoḥ | sani mīmāghurabhalabhaśakapatapadām aca is | pā. 7-4-54 [?] | ity ākārasya isādeśaḥ | atra lopo 'bhyāsasya | pā. 7-4-58 [?] | ity abhyāsalopaḥ | saḥ syārdhadhātuke | pā. 7-4-49 [?] | iti sakārasya takāraḥ ||*
 
 **Translation:** "O *kaṇvāsaḥ*, O sons of Kaṇva; or, O wise priests: ask the Aśvins thus (the words 'ask' being understood). How? That is told. *Divaḥ*, from the heaven-world, *indavaḥ*, the Sun's rays have appeared. *Sindhūnām pade*, in the place of the waters — which are of the nature of flowing as rain — that is, in the atmosphere, *vasu*, the light of the time of dawn, the cause of our dwelling and so on, has appeared (so the sentence is completed). At this moment, *svaṃ vavrim*, your own form, *kuha dhitsathaḥ*, where do you wish to place it? Where do you wish to set it? The sense is: it is to be shown, coming here."
 
@@ -10975,7 +10977,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 594** — "The sense of this ṛk does not fit properly. Each one interprets this ṛk in a different way. The commentator's sense indicates one kind of idea; it is not clear whether this is the intention of the ṛṣi."
 
 **Vyākaraṇa-prakriyā** *(pp. 594–595 — grammar pages, noted briefly)*
-- **kuha**: *vā ha ca chandasi* (Pā. 5-3-13 as read [?]) — वा ह च छन्दसि — in the Chandas the suffix *ha* after the word *kim* in the locative sense; *kṛttaddhitasamāsāś ca* (Pā. 1-2-46 as read) gives the *taddhita*-ending word the name *prātipadika*; *supo dhātuprātipadikayoḥ* (Pā. 2-4-71 as read) drops the locative ending; *kim + ha*; *prāgdiśo vibhaktiḥ* (Pā. 5-3-1 as read) — the suffixes enjoined from here up to *diśaśabdebhyaḥ…* (Pā. 5-3-27 as read) are given the name *vibhakti*; *kutiho* (Pā. 7-2-104 as read) — *ku* for *kim* before a *t*- or *h*-beginning *vibhakti*: *kuha*. If *ha* were stated as an independent suffix, the suffix-accent would come and the end would be acute; so the Kannada author holds that *saptamyās tral* (Pā. 5-3-10 as read) gives *tral*, and *ha* is substituted for it, and that *vā ha ca chandasi* means "in the Chandas, after *kim*, *ha* replaces *tral*"; then by *lititi* the letter before the suffix is acute, the rest unaccented, and by *udāttād anudāttasya svaritaḥ* (Pā. 8-4-66 as read) the suffix is *svarita*.
+- **kuha**: *vā ha ca chandasi* (Pā. 5-3-13) — वा ह च छन्दसि — in the Chandas the suffix *ha* after the word *kim* in the locative sense; *kṛttaddhitasamāsāś ca* (Pā. 1-2-46 as read) gives the *taddhita*-ending word the name *prātipadika*; *supo dhātuprātipadikayoḥ* (Pā. 2-4-71 as read) drops the locative ending; *kim + ha*; *prāgdiśo vibhaktiḥ* (Pā. 5-3-1 as read) — the suffixes enjoined from here up to *diśaśabdebhyaḥ…* (Pā. 5-3-27 as read) are given the name *vibhakti*; *kutiho* (Pā. 7-2-104 as read) — *ku* for *kim* before a *t*- or *h*-beginning *vibhakti*: *kuha*. If *ha* were stated as an independent suffix, the suffix-accent would come and the end would be acute; so the Kannada author holds that *saptamyās tral* (Pā. 5-3-10 as read) gives *tral*, and *ha* is substituted for it, and that *vā ha ca chandasi* means "in the Chandas, after *kim*, *ha* replaces *tral*"; then by *lititi* the letter before the suffix is acute, the rest unaccented, and by *udāttād anudāttasya svaritaḥ* (Pā. 8-4-66 as read) the suffix is *svarita*.
 - **dhitsathaḥ**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. 3-1-7 as read) gives *san*; *sanyaṅoḥ* (Pā. 6-1-9 as read) doubling; *dhā + dhā + sa*; *sani mīmāghurabhalabhaśakapatapadām aca is* (Pā. 7-4-54 as read) — सनि मीमाघुरभलभशकपतपदामच इस् — before a *san* beginning with *s*, the vowel of these roots is replaced by *is*; so the *ā* of the latter part becomes *is*; *atra lopo 'bhyāsasya* (Pā. 7-4-58 as read) drops the reduplicative syllable: *dhis + sa*; *saḥ syārdhadhātuke* (Pā. 7-4-49 as read) — a *t* for the *s* before an *ārdhadhātuka* beginning with *s*: *dhitsa*; *laṭ*, second person dual *thas*, *śap*, *pararūpa*, *ru*, *visarga*: *dhitsathaḥ*. **|| 9 ||**
 
 ---
