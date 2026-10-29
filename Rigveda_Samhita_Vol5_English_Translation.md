@@ -6601,13 +6601,13 @@
 
 ### Rik 55.6 (pp. 360–363, PDF 376–379)
 
-**Saṃhitā-pāṭha** *(p. 360)*
+**Saṃhitā-pāṭha** *(p. 360; accents as printed; [accent ?]: a svarita stroke stands over* śa *of* vināśayan *after the anudātta under* nā*; the anudātta lines under* ṇi *(avṛkāṇi),* jya *(yajyave),* tu *(sukratuḥ) and* ta *(sartavā) fall between letters and are set where they seem to stand; IAST acutes left off the words in doubt)*
 
-> **स हि श्रवस्युः सदनानि कृत्रिमा क्ष्मया वृधान ओजसा विनाशयन् ।**
-> **ज्योतींषि कृण्वन्नवृकाणि यज्यवे ऽव सुक्रतुः सर्तवा अपः सृजत् ॥ ६ ॥**
+> **स हि श्र॑व॒स्युः सद॑नानि कृ॒त्रिमा॑ क्ष्म॒या वृ॑धा॒न ओज॑सा विना॒श॑यन् ।**
+> **ज्योतीं॑षि कृ॒ण्वन्न॑वृ॒काणि॒ यज्य॒वे॑ ऽव सु॒क्रतुः॒ सर्त॒वा अ॒पः सृ॑जत् ॥ ६ ॥**
 
-*sa hi śravasyuḥ sadanāni kṛtrimā kṣmayā vṛdhāna ojasā vināśayan |*
-*jyotīṃṣi kṛṇvann avṛkāṇi yajyave 'va sukratuḥ sartavā apaḥ sṛjat || 6 ||*
+*sá hí śravasyúḥ sádanāni kṛtrímā kṣmayā́ vṛdhāná ójasā vināśayan |*
+*jyótīṃṣi kṛṇvánn avṛkā́ṇi yajyave 'va sukratuḥ sartavā apáḥ sṛjat || 6 ||*
 
 **Pada-pāṭha** *(p. 360)*
 
@@ -6644,13 +6644,13 @@
 **Vyākaraṇa-prakriyā** *(pp. 362–364 — grammar pages, noted briefly)*
 - **śravasyuḥ**: "*śravaḥ annam ātmana icchati śravasyati*"; *supa ātmanaḥ kyac*; *kyāc chandasi*: *u*; *ato lopaḥ*; end-acute by the suffix.
 - **kṛtrimā**: *ḍukṛñ karaṇe*; *ḍu* is *it* by *ādir ñiṭuḍavaḥ*, lost; *ḍvitaḥ ktriḥ* (Pā. 3-3-88): *ktri* in the action sense; *ktrer mam nityam* (Pā. 4-4-20): *map* in the sense of "accomplished by"; *ktri* is *kit*, so no *guṇa*; *map* being *pit* is *anudātta*, so the *ktri*-suffix accent remains; in the neuter plural *śi* is dropped by *śeś chandasi bahulam*.
-- **kṣmayā**: *kṣamūṣ sahane*; *kṣamate prāṇijātakṛtam upadravam iti kṣamā*; *śidbhidādibhyo 'ṅ* (Pā. 3-3-104): *aṅ*; *ajādyataṣ ṭāp*; the penultimate *a* lost by *vyatyaya*: *kṣmā*; instrumental *kṣmayā*; the ending's acute (Vedic). Or the root in the sense of overcoming: *mani*; Uṇādi *manin*; in the feminine by *vyatyaya*; *ṅīp* barred by *manaḥ* (Pā. 4-1-11); *ḍāp* by *ḍābubhābhyām anyatarasyām*, *ṭi* lost.
+- **kṣmayā**: *kṣamūṣ sahane*; *kṣamate prāṇijātakṛtam upadravam iti kṣamā*; *śidbhidādibhyo 'ṅ* (Pā. 3-3-104): *aṅ*; *ajādyataṣ ṭāp*; the penultimate *a* lost by *vyatyaya*: *kṣmā*; instrumental *kṣmayā*; the ending's acute (Vedic). Or the root in the sense of overcoming: *mani*; Uṇādi *manin*; in the feminine by *vyatyaya*; *ṅīp* barred by *manaḥ* (Pā. 4-1-11); *ḍāp* by *ḍābubhābhyām anyatarasyām* (Pā. 4-1-13), *ṭi* lost.
 - **vṛdhānaḥ**: *vṛdhu vṛddhau*; *tācchīlyavayoḥ…cānaś*; *śap* → *luk* (*bahulaṃ chandasi*); *cānaś* being *jit*… no *laghūpadha guṇa*; *citaḥ*: end-acute.
-- **avṛkāṇi**: *vṛñ varaṇe*; *sṛvṛbhūśuṣimuṣibhyaḥ kak* (Uṇ. 3-… as read [?]): *kak*, *kit*, no *guṇa*; *na vidyante vṛkāṇi yeṣām*: *nañsubhyām*: end-acute.
-- **yajyave**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yajimaniśundhidasijanibhyo yuḥ* (Uṇ. 3-… as read [?]): *yu*; dative singular; *vṛṣādi* (*ākṛtigaṇa*): initial-acute.
-- **sukratuḥ**: bahuvrīhi; *kratvādayaś ca*: the *kṛdanta*-final accent is set aside; initial-acute of the last member.
-- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ…*: *tavai*; *guṇa* by *ārdhadhātuka*; *antaś ca tavai yugapat* (Pā. 6-1-200): initial and final both acute at once.
-- **apaḥ**: accusative plural of *ap*; *ūḍidam…*: *śas* acute.
+- **avṛkāṇi**: *vṛñ varaṇe*; *sṛvṛbhūśuṣimuṣibhyaḥ kak* (Uṇ. 3-321, as printed): *kak*, *kit*, no *guṇa*; *na vidyante vṛkāṇi yeṣām*: *nañsubhyām*: end-acute.
+- **yajyave**: *yaja devapūjāsaṅgatikaraṇadāneṣu*; *yajimaniśundhidasijanibhyo yuḥ* (Uṇ. 2-300, as printed): *yu*; dative singular; *vṛṣādi* (*ākṛtigaṇa*; *vṛṣādīnāṃ ca*, Pā. 6-1-203): initial-acute.
+- **sukratuḥ**: bahuvrīhi; *kratvādayaś ca* (Pā. 6-2-118): the *kṛdanta*-final accent is set aside; initial-acute of the last member.
+- **sartavai**: *sṛ gatau*; *kṛtyārthe tavaikakenanvaḥ…* (Pā. 3-4-14): *tavai*; *guṇa* by *ārdhadhātuka*; *antaś ca tavai yugapat* (Pā. 6-1-200): initial and final both acute at once.
+- **apaḥ**: accusative plural of *ap*; *ūḍidam…* (Pā. 6-1-171): *śas* acute.
 - **sṛjat**: *sṛja visarge*, *tudādi*; *laṅ* third singular; *itaś ca*: *i* dropped; *tudādibhyaḥ śaḥ*; *śa* is *pit*, so *anudātta*; no *laghūpadha guṇa* (*sārvadhātukam apit*); no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); no *nighāta* in this position. **|| 6 ||**
 
 ---
