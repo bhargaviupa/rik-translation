@@ -7686,27 +7686,27 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image)*
 
-> सं पूषन्निति दशर्चं सप्तमं सूक्तं काण्वं गायत्रं पूषदेवताकं । सं पूषन्नध्वन इत्यनुक्रांतं पौष्णमित्यनुक्रान्तं [?] । स्मार्ते महान्तमध्वानमेष्यन्निदं सूक्तं जपेत् । सं पूषन्नध्वन इति महान्तमध्वानमेष्यन् प्रतिभयं वा । आ. गृ. ३-८-१० [?] । इति सूत्रितत्वात् । तत्र जपेदित्यनुवर्तते ॥
+> सं पूषन्निति दशर्चं सप्तमं सूक्तं काण्वं गायत्रं पूषदेवताकं । सं पूषन्दश पौष्णमित्यनुक्रान्तं । स्मार्ते महान्तमध्वानमेष्यन्निदं सूक्तं जपेत् । सं पूषन्नध्वन इति महान्तमध्वानमेष्यन् प्रतिभयं वा । आ. गृ. ३-७-१० । इति सूत्रितत्वात् । तत्र जपेदित्यनुवर्तते ॥
 
-*saṃ pūṣann iti daśarcaṃ saptamaṃ sūktaṃ kāṇvaṃ gāyatraṃ pūṣadevatākaṃ | saṃ pūṣann adhvana ity anukrāntaṃ pauṣṇam ity anukrāntaṃ [?] | smārte mahāntam adhvānam eṣyann idaṃ sūktaṃ japet | saṃ pūṣann adhvana iti mahāntam adhvānam eṣyan pratibhayaṃ vā | ā. gṛ. 3-8-10 [?] | iti sūtritatvāt | tatra japed ity anuvartate ||*
+*saṃ pūṣann iti daśarcaṃ saptamaṃ sūktaṃ kāṇvaṃ gāyatraṃ pūṣadevatākaṃ | saṃ pūṣan daśa pauṣṇam ity anukrāntaṃ | smārte mahāntam adhvānam eṣyann idaṃ sūktaṃ japet | saṃ pūṣann adhvana iti mahāntam adhvānam eṣyan pratibhayaṃ vā | ā. gṛ. 3-7-10 | iti sūtritatvāt | tatra japed ity anuvartate ||*
 
-**Translation:** "*Saṃ pūṣan* — the seventh sūkta [of the anuvāka], of ten ṛks, by Kaṇva's family, in the Gāyatrī metre, with Pūṣan as deity. It is listed in the Anukramaṇikā as '*saṃ pūṣann adhvanaḥ*' [and as Pauṣṇa — the second clause is read with doubt [?]]. In the Smārta [domestic] rite, one about to set out on a long journey should mutter (*japet*) this sūkta: since it is laid down '*saṃ pūṣann adhvana iti*, one about to go on a long journey, or [when there is] danger' (Āś. Gṛ. 3-8-10 [?]); '*japet*' is carried over there." *(Translation mine; reference numerals read with doubt.)*
+**Translation:** "*Saṃ pūṣan* — the seventh sūkta [of the anuvāka], of ten ṛks, by Kaṇva's family, in the Gāyatrī metre, with Pūṣan as deity. It is listed in the Anukramaṇikā as '*saṃ pūṣan daśa pauṣṇam*'. In the Smārta [domestic] rite, one about to set out on a long journey should mutter (*japet*) this sūkta: since it is laid down '*saṃ pūṣann adhvana iti*, one about to go on a long journey, or [when there is] danger' (Āś. Gṛ. 3-7-10); '*japet*' is carried over there." *(Translation mine.)*
 
-**Anuvāda (Kannada), p. 435** — "*Saṃ pūṣan* is the seventh sūkta in this eighth anuvāka. It has ten ṛks. The ṛṣi is Kaṇva, the son of Ghora; the deity is Pūṣan; the metre is Gāyatrī. In the Anukramaṇikā: '*saṃ pūṣan daśa pauṣṇam*'. In the Smārta practice, or in worldly custom, when going on a long journey or when one has to travel far, this sūkta is to be recited; this is explained in the Āśvalāyana Gṛhya-sūtra by the sūtra '*saṃ pūṣann adhvana iti mahāntam adhvānam eṣyan pratibhayaṃ vā*' (Āś. Gṛ. 3-2-10 [?]). Therefore this sūkta is to be recited on the occasions mentioned above." *(The Kannada reads the Gṛhya reference as 3-2-10 against 3-8-10 in the Sanskrit; both read with doubt [?].)*
+**Anuvāda (Kannada), p. 435** — "*Saṃ pūṣan* is the seventh sūkta in this eighth anuvāka. It has ten ṛks. The ṛṣi is Kaṇva, the son of Ghora; the deity is Pūṣan; the metre is Gāyatrī. In the Anukramaṇikā: '*saṃ pūṣan daśa pauṣṇam*'. In the Smārta practice, or in worldly custom, when going on a long journey or when one has to travel far, this sūkta is to be recited; this is explained in the Āśvalāyana Gṛhya-sūtra by the sūtra '*saṃ pūṣann adhvana iti mahāntam adhvānam eṣyan pratibhayaṃ vā*' (Āś. Gṛ. 3-7-10). Therefore this sūkta is to be recited on the occasions mentioned above." *(Both the Sanskrit and the Kannada print 3-7-10 (flat-footed ೭, read at 300–420 dpi).)*
 
 **॥ ॐ ॥**
 
 > **सूक्त — ४२**
 > ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ४२ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [२४ ?], [२५ ?] ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — २४, २५ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै — १० ॥
 > ॥ ऋषिः — कण्वो घौरः ॥
 > ॥ देवता — पूषा ॥
 > ॥ छन्दः — गायत्री ॥
 
-*sūkta 42 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga [24?], [25?] | ṛks 10 | ṛṣi: Kaṇva Ghaura | devatā: Pūṣan | chandas: Gāyatrī.*
+*sūkta 42 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 24, 25 | ṛks 10 | ṛṣi: Kaṇva Ghaura | devatā: Pūṣan | chandas: Gāyatrī.*
 
-*(The varga numerals are small and read with doubt.)*
+*(Varga numerals 24, 25 checked at 315 dpi.)*
 
 ### Rik 42.1 (pp. 436–441, PDF 450–455)
 
