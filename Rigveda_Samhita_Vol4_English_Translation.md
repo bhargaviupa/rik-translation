@@ -10800,21 +10800,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.6 (p. 585 foot, PDF 599–)
 
-**Saṃhitā-pāṭha** *(p. 585; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 585)*
 
-> **या नः पीपरदश्विना ज्योतिष्मती तमस्तिरः ।**
-> **ताम् अस्मे रासाथामिषम् ॥ ६ ॥**
+> **या नः॒ पीप॑रदश्विना॒ ज्योति॑ष्मती॒ तम॑स्ति॒रः ।**
+> **ताम॒स्मे रा॑साथा॒मिषं॑ ॥ ६ ॥**
 
-*yā naḥ pīparad aśvinā jyotiṣmatī tamas tiraḥ |*
-*tām asme rāsāthām iṣam || 6 ||*
+*yā naḥ pī́parad aśvinā jyótiṣmatī támas tiráḥ |*
+*tām asmé rāsāthām íṣaṃ || 6 ||*
 
-*(Printed as one word* तामस्मे *in the Saṃhitā; I separate it for reading. The Pada of Rik 6 is on p. 586, not yet seen.)*
-
----
-
----
-
-**Rik 46.6, continued** *(from p. 586)*
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 586)*
 
@@ -10826,9 +10820,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 586)*
 
-> **हे अश्विना ज्योतिष्मती रसवीर्यादिरूपज्योतिर्युक्ता यदन्नं [?] नोऽस्मान्पीपरत् । पारयेत् तृप्तिं प्रापयेत् । किं कृत्वा । तमो दारिद्र्यरूपमन्धकारं तिरोऽन्तर्हितं विनष्टं कृत्वा । तामिषं तादृशमन्नमस्मे अस्मभ्यं रासाथां । युवां दत्तम् ॥ पीपरत् । पॄ पालनपूरणयोः । ण्यन्ताल्लुङि चङ् णिलोपः । उपधाह्रस्वत्वद्विर्भावहलादिशेषसन्वद्भावेत्वदीर्घाः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । चङ्यन्यतरस्याम् । पा. ६-१-२१८ [?] । इत्युपोत्तमस्य धात्वकारस्योदात्तत्वे प्राप्ते व्यत्ययेनाभ्यासस्योदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । अस्मे । सुपां सुलुगिति चतुर्थीबहुवचनस्य शेआदेशः । रासाथां । रा दाने ॥ छान्दसे प्रार्थनायां लुङि व्यत्ययेनात्मनेपदं । च्लेः सिच् । एकाच इतीट्प्रतिषेधः । पूर्ववदडभावः । तिङ्ङतिङ इति निघातः ॥**
+> **हे अश्विना ज्योतिष्मती रसवीर्यादिरूपज्योतिर्युक्ता यदन्नं [?] नोऽस्मान्पीपरत् । पारयेत् तृप्तिं प्रापयेत् । किं कृत्वा । तमो दारिद्र्यरूपमन्धकारं तिरोऽन्तर्हितं विनष्टं कृत्वा । तामिषं तादृशमन्नमस्मे अस्मभ्यं रासाथां । युवां दत्तम् ॥ पीपरत् । पॄ पालनपूरणयोः । ण्यन्ताल्लुङि चङ् णिलोपः । उपधाह्रस्वत्वद्विर्भावहलादिशेषसन्वद्भावेत्वदीर्घाः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । चङ्यन्यतरस्याम् । पा. ६-१-२१८ । इत्युपोत्तमस्य धात्वकारस्योदात्तत्वे प्राप्ते व्यत्ययेनाभ्यासस्योदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । अस्मे । सुपां सुलुगिति चतुर्थीबहुवचनस्य शेआदेशः । रासाथां । रा दाने ॥ छान्दसे प्रार्थनायां लुङि व्यत्ययेनात्मनेपदं । च्लेः सिच् । एकाच इतीट्प्रतिषेधः । पूर्ववदडभावः । तिङ्ङतिङ इति निघातः ॥**
 
-*he aśvinā jyotiṣmatī rasavīryādirūpajyotiryuktā yad annaṃ [?] no 'smān pīparat | pārayet tṛptiṃ prāpayet | kiṃ kṛtvā | tamo dāridryarūpam andhakāraṃ tiro 'ntarhitaṃ vinaṣṭaṃ kṛtvā | tām iṣaṃ tādṛśam annam asme asmabhyaṃ rāsāthāṃ | yuvāṃ dattam || pīparat | pṝ pālanapūraṇayoḥ | ṇyantāl luṅi caṅ ṇilopaḥ | upadhāhrasvatvadvirbhāvahalādiśeṣasanvadbhāvetvadīrghāḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | caṅy anyatarasyām | pā. 6-1-218 [?] | ity upottamasya dhātvakārasyodāttatve prāpte vyatyayenābhyāsasyodāttatvaṃ | yadvṛttān nityam iti nighātapratiṣedhaḥ | asme | supāṃ suluk iti caturthībahuvacanasya śeādeśaḥ | rāsāthāṃ | rā dāne || chāndase prārthanāyāṃ luṅi vyatyayenātmanepadaṃ | cleḥ sic | ekāca itīṭpratiṣedhaḥ | pūrvavad aḍabhāvaḥ | tiṅ atiṅa iti nighātaḥ ||*
+*he aśvinā jyotiṣmatī rasavīryādirūpajyotiryuktā yad annaṃ [?] no 'smān pīparat | pārayet tṛptiṃ prāpayet | kiṃ kṛtvā | tamo dāridryarūpam andhakāraṃ tiro 'ntarhitaṃ vinaṣṭaṃ kṛtvā | tām iṣaṃ tādṛśam annam asme asmabhyaṃ rāsāthāṃ | yuvāṃ dattam || pīparat | pṝ pālanapūraṇayoḥ | ṇyantāl luṅi caṅ ṇilopaḥ | upadhāhrasvatvadvirbhāvahalādiśeṣasanvadbhāvetvadīrghāḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | caṅy anyatarasyām | pā. 6-1-218 | ity upottamasya dhātvakārasyodāttatve prāpte vyatyayenābhyāsasyodāttatvaṃ | yadvṛttān nityam iti nighātapratiṣedhaḥ | asme | supāṃ suluk iti caturthībahuvacanasya śeādeśaḥ | rāsāthāṃ | rā dāne || chāndase prārthanāyāṃ luṅi vyatyayenātmanepadaṃ | cleḥ sic | ekāca itīṭpratiṣedhaḥ | pūrvavad aḍabhāvaḥ | tiṅ atiṅa iti nighātaḥ ||*
 
 *(The relative's antecedent in the first clause, "yad annam", is printed "yeḍannam"; I read* yad annam *[?].)*
 
@@ -10846,9 +10840,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **rāsāthām** — "*rā dāne*: *rāsāthām* means: O Aśvin gods, both of you give."
 
 **Vyākaraṇa-prakriyā** *(pp. 587–588 — grammar pages, noted briefly)*
-- **pīparat**: root *pṝ pālanapūraṇayoḥ*, *ṇic*, *luṅ*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. 3-1-48 as read) — णिश्रिद्रुस्रुभ्यः कर्तरि चङ् — *caṅ* for *cli*; *ṇer aniṭi* (Pā. 6-4-51 as read) drops the *ṇi* before an *ārdhadhātuka* without *iṭ*; *aco 'ñṇiti* (Pā. 7-2-115 as read) *vṛddhi*: *pā + a + luṅ*; *ṇau caṅy upadhāyā hrasvaḥ* (Pā. 7-4-1 as read) shortens the penultimate: *par*; *caṅi* (Pā. 6-1-11 as read) doubling of the first one-vowel part of the root: *par + par + a + t*; *itaś ca* (Pā. 3-4-100 as read) drops the final *i* of *tip*; *halādiḥ śeṣaḥ* drops the *r* of the reduplicative syllable; *sanvallaghuni caṅpare 'nagloṕe* (Pā. 7-4-93 as read) — the reduplicative syllable behaves as in the desiderative (the Kannada author explains at length how "*aṅgasya*" is carried over; crowded, outlined only); *sanyataḥ* (Pā. 7-4-79 as read) gives *i* for the *a* of the reduplicative syllable; *dīrgho laghoḥ* (Pā. 7-4-94 as read) lengthens it: *pī + par + a + t*; *bahulaṃ chandasy amāṅyoge 'pi* (Pā. 6-4-75 as read) forbids the *aṭ*; *caṅy anyatarasyām* (Pā. 6-1-218 as read [?]) — the *upottama* *a* of the root should be optionally acute, but by exchange the *abhyāsa* gets the acute (*vyatyayo bahulam*); *yadvṛttān nityam* forbids the all-unaccented.
+- **pīparat**: root *pṝ pālanapūraṇayoḥ*, *ṇic*, *luṅ*; *ṇiśridrusrubhyaḥ kartari caṅ* (Pā. Sū. 3-1-48) — णिश्रिद्रुस्रुभ्यः कर्तरि चङ् — *caṅ* for *cli*; *ṇer aniṭi* (Pā. Sū. 6-4-51) drops the *ṇi* before an *ārdhadhātuka* without *iṭ*; *aco 'ñṇiti* (Pā. Sū. 7-2-115) *vṛddhi*: *pā + a + luṅ*; *ṇau caṅy upadhāyā hrasvaḥ* (Pā. Sū. 7-4-1) shortens the penultimate: *par*; *caṅi* (Pā. Sū. 6-1-11) doubling of the first one-vowel part of the root: *par + par + a + t*; *itaś ca* (Pā. Sū. 3-4-100) drops the final *i* of *tip*; *halādiḥ śeṣaḥ* drops the *r* of the reduplicative syllable; *sanvallaghuni caṅpare 'nagloṕe* (Pā. Sū. 7-4-93) — the reduplicative syllable behaves as in the desiderative (the Kannada author explains at length how "*aṅgasya*" is carried over; crowded, outlined only); *sanyataḥ* (Pā. Sū. 7-4-79) gives *i* for the *a* of the reduplicative syllable; *dīrgho laghoḥ* (Pā. Sū. 7-4-94) lengthens it: *pī + par + a + t*; *bahulaṃ chandasy amāṅyoge 'pi* forbids the *aṭ*; *caṅy anyatarasyām* (Pā. Sū. 6-1-218) — the *upottama* *a* of the root should be optionally acute, but by exchange the *abhyāsa* gets the acute (*vyatyayo bahulam*); *yadvṛttān nityam* forbids the all-unaccented.
 - **asme**: the dative plural ending is replaced by *śe* by *supāṃ suluk…*.
-- **rāsāthām**: root *rā dāne*; in the sense of prayer, *luṅ* by Vedic usage; the *ātmanepada* by exchange; second person dual, *āthām*; *cleḥ sic*; *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10 as read) forbids *iṭ*; the *aṭ* is forbidden as before; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 6 ||**
+- **rāsāthām**: root *rā dāne*; in the sense of prayer, *luṅ* by Vedic usage; the *ātmanepada* by exchange; second person dual, *āthām*; *cleḥ sic*; *ekāca upadeśe 'nudāttāt* forbids *iṭ*; the *aṭ* is forbidden as before; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 6 ||**
 
 ---
 
