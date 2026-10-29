@@ -4953,13 +4953,13 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ### Rik 37.11 (p. 281 foot, PDF 295–)
 
-**Saṃhitā-pāṭha** *(p. 281; accents not reproduced; the word *avṛdhram* was checked on an enlarged slice at 300 dpi — the print reads *avṛdhram*, with *vṛ*, in both the Saṃhitā and the Pada)*
+**Saṃhitā-pāṭha** *(p. 281 = PDF 296 of the better scan; Saṃhitā accents as printed; Pada unaccented; the word *avṛdhram* was checked on an enlarged slice at 300 dpi — the print reads *avṛdhram*, with *vṛ*, in both the Saṃhitā and the Pada)*
 
-> **त्यं चिद्घा दीर्घं पृथुं मिहो नपातमवृध्रम् ।**
-> **प्र च्यावयन्ति यामभिः ॥ ११ ॥**
+> **त्यं चि॑द्घा दी॒र्घं पृ॒थुं मि॒हो नपा॑त॒मवृ॑ध्रम् ।**
+> **प्र च्या॑वयन्ति॒ याम॑भिः ॥ ११ ॥**
 
-*tyaṃ cid ghā dīrghaṃ pṛthuṃ miho napātam avṛdhram |*
-*pra cyāvayanti yāmabhiḥ || 11 ||*
+*tyáṃ cid ghā dīrgháṃ pṛthúṃ mihó nápātam ávṛdhram |*
+*prá cyāvayanti yā́mabhiḥ || 11 ||*
 
 **Pada-pāṭha** *(the first line at the foot of p. 281; the rest on p. 282 is not yet written)*
 
@@ -4999,11 +4999,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **cyāvayanti** = *gamayanti* — "they make go forward." The source adds the English "Drive before them."
 
 **Vyākaraṇa-prakriyā** *(p. 283 — grammar page, noted briefly)*
-- **ghā**: the lengthening of *gha* is by the sūtra beginning *ṛci tunu-gha-makṣu-taṅ-kutro-ruṣyāṇām* — ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् — [Pā. 6-3-13? [?]]; the print then discusses whether the *gha* of this rule is the technical *gha* (*tarap-tamapau ghaḥ*, [Pā. 1-1-22, as read, garbled; ?]), concluding that, since the lengthening is seen in the Veda for the particle *gha* in this sequence of sounds, the technical name is not taken.
-- **mihaḥ**: *miha secane*, *mehatīti miṭ*, "rain"; *kvip*; for the genitive singular, the acute by *sāvekācaḥ* — सावेकाचः — [Pā. 6-1-168 as I know it; the number is not read in the print].
+- **ghā**: the lengthening of *gha* is by the sūtra beginning *ṛci tunu-gha-makṣu-taṅ-kutro-ruṣyāṇām* — ऋचि तुनुघमक्षुतङ्कुत्रोरुष्याणाम् — (Pā. Sū. 6-3-133, as printed); the print then discusses whether the *gha* of this rule is the technical *gha* (*tarap-tamapau ghaḥ*, no number printed), by the maxim *kṛtrimākṛtrimayoḥ kṛtrimasyaiva grahaṇam* — कृत्रिमाकृत्रिमयोः कृत्रिमस्यैव ग्रहणम् (*kṛtrimākṛtrimayoḥ kṛtrimasyaiva grahaṇam*) — "of the technical and the non-technical, the technical alone is taken"; concluding that, since the lengthening is seen in the Veda for the particle *gha* in this sequence of sounds, the technical name is not taken.
+- **mihaḥ**: *miha secane*, *mehatīti miṭ*, "rain"; *kvip*; for the genitive singular, the acute by *sāvekācaḥ* — सावेकाचः — (no number printed).
 - **napātam**: *na pātayatīti napāt*; *nabhrāṇ-napāt-…* gives *prakṛtibhāva* to *naṅ*; the compound-rule beginning *tatpuruṣe tulya-artha-…* gives the accent of the first member of an indeclinable-first compound.
-- **amṛdhram**: *śṛdhu mṛdhu undane*; "*mardhati*" = remembers/wets with water [the Kannada *nīrinda nenesuvudu*, which I cannot read with certainty [?]]; "*uṇādayo bahulam*" — उणादयो बहुलम् — the Uṇādi *rak* by the wide sense of *bahula*; compound with *naṅ* as before. Alternatively the lexicon quotation "*mṛdhaskandanaṃ saṃkhyaṃ samīkaṃ sāmparāyakam*" — मृधस्कन्दनं सङ्ख्यं समीकं साम्परायकम् — [as read] gives *mṛdha* the sense "war"; here the sense *hiṃsā* is to be taken by implication; the suffix *ra* in the sense of *matup*, with loss of *a* in the Veda; compound and accent as before.
-- **cyāvayanti**: *cyuṅ gatau*, *ṇic*; *aco ñṇiti* — अचो ञ्णिति — [Pā. 7-2-115, number as read, doubtful [?]] for the *vṛddhi*; *u* to *au* and then *āv*; "in the Pada the short vowel is Vedic". Rik 11 ends here (*|| 11 ||*).
+- **amṛdhram**: *śṛdhu mṛdhu undane*; "*mardhati*" = wets with water (the Kannada prints *nīrininda nenasuvudu*); "*uṇādayo bahulam*" — उणादयो बहुलम् — the Uṇādi *rak* by the wide sense of *bahula*; compound with *naṅ* as before. Alternatively the lexicon quotation "*mṛdham āskandanaṃ saṃkhyaṃ samīkaṃ sāmparāyakam*" — मृधमास्कन्दनं संख्यं समीकं साम्परायकम् (*mṛdham āskandanaṃ saṃkhyaṃ samīkaṃ sāmparāyakam*) — gives *mṛdha* the sense "war"; here the sense *hiṃsā* is to be taken by implication; the suffix *ra* in the sense of *matup*, with loss of *a* in the Veda; compound and accent as before.
+- **cyāvayanti**: *cyuṅ gatau*, *ṇic*; *aco ñṇiti* — अचो ञ्णिति — (Pā. Sū. 7-1-115 [as printed; for 7-2-115]) for the *vṛddhi*; *u* to *au* and then *āv*; "in the Pada the short vowel is Vedic". Rik 11 ends here (*|| 11 ||*).
 
 ---
 
