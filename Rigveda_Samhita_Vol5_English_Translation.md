@@ -3573,13 +3573,15 @@
 
 ### Rik 51.11 (pp. 191–194, PDF 207–210)
 
-**Saṃhitā-pāṭha** *(p. 191; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 191; accents as printed)*
 
-> **मन्दिष्ट यदुशने काव्ये सचा इन्द्रो वङ्कू वङ्कुतराधि तिष्ठति ।**
-> **उग्रो ययिं निरपः स्रोतसासृजद्वि शुष्णस्य दृंहिता ऐरयत्पुरः ॥ ११ ॥**
+> **मन्दि॑ष्ट॒ यदु॒शने॑ का॒व्ये सचा॒ इन्द्रो॑ व॒ङ्कू व॑ङ्कु॒तराधि॑ तिष्ठति ।**
+> **उ॒ग्रो य॒यिं निर॒पः स्रोत॑सासृज॒द्वि शुष्ण॑स्य दृंहि॒ता ऐ॑रय॒त्पु॑रः ॥ ११ ॥**
 
-*mandiṣṭa yad uśane kāvye sacā indro vaṅkū vaṅkutarādhi tiṣṭhati |*
-*ugro yayiṃ nir apaḥ srotasāsṛjad vi śuṣṇasya dṛṃhitā airayat puraḥ || 11 ||*
+*mándiṣṭa yád uśáne kāvyé sácā índro vaṅkū́ vaṅkutárādhi tiṣṭhati |*
+*ugró yayíṃ nír apáḥ srótasāsṛjad ví śúṣṇasya dṛṃhitā́ airayat puraḥ || 11 ||*
+
+*[accent ?] वङ्कुतराधि (two unmarked syllables between ङ्कु॒ and धि॑) and ऐ॑ (the stroke stands between ऐ and र) … य॒त्पु॑रः (svarita after an anudātta), marks as printed.*
 
 **Pada-pāṭha** *(p. 192)*
 
@@ -3597,7 +3599,7 @@
 
 *yad yadendra uśane kāmayamāne kāvye sacā saha mandiṣṭa stuto 'bhūt tadānīṃ vaṅkū vaṅkutarātiśayena kuṭilaṃ gacchantāv aśvāv adhitiṣṭhati | rathe saṃyojitam āroha­tīty arthaḥ | yadvā vaṅkutarātiśayena vakraṃ gacchati rathe vaṅkū vakragamanaśīlāv aśvau saṃyojyeti yojanīyam | ugra udgūrṇas tādṛśa indro yayiṃ gamanayuktān meghāt srotasā pravāharūpeṇāpo nirasṛjat | jalāni niragamayat | tathā śuṣṇasya sarvasya śoṣayitur asurasya dṛṃhitāḥ pravṛddhāḥ puro nagarāṇi nivāsasthānāni vy airayat | vividhaṃ preritavān ||*
 
-*(Reading notes: "*kāmayamāne*" is as read — the print is crowded here; the tail of the bhāṣya — on* mandiṣṭa*,* uśane*,* sacā*,* vaṅkū*,* vaṅkutarā*,* yayim*,* dṛṃhitāḥ*,* airayat*, with a quoted Mīmāṃsā-style sūtra "*ājyājayor ca copasaṃkhyānam*" [as read, [?]] — is characterized, not transcribed.)*
+*(Reading notes: "*kāmayamāne*" is so printed; the tail of the bhāṣya — on* mandiṣṭa*,* uśane*,* sacā*,* vaṅkū*,* vaṅkutarā*,* yayim*,* dṛṃhitāḥ*,* airayat*, with a quoted Mīmāṃsā-style sūtra "*āṅyājayārāṃ copasaṃkhyānam*" (Ma. 7-1-39-1) — is characterized, not transcribed.)*
 
 **Translation of the bhāṣya:** "When Indra, *kāvye uśane*, together with Uśanas, son of Kavi, who wished (him), *sacā mandiṣṭa*, was pleased — was praised — then he mounts (*adhitiṣṭhati*) the two horses *vaṅkū vaṅkutarā*, going in an extremely crooked way, i.e. he ascends the chariot to which they are yoked; or, one should construe, 'harnessing to the chariot the two horses whose habit is to go crookedly'. *Ugraḥ*, the fierce, the uplifted, such Indra *srotasā*, in streams, *apaḥ nir asṛjat*, let out the waters from the moving cloud (*yayim*), and *vy airayat*, variously impelled — broke — *dṛṃhitāḥ puraḥ*, the strongly grown cities, the dwellings, of the Asura *Śuṣṇa*, the all-parching."
 
@@ -3615,10 +3617,10 @@
 **Vyākaraṇa-prakriyā** *(pp. 193–194 — grammar pages, noted briefly)*
 - **mandiṣṭa**: *madi stutimodamadasvapnakāntigatiṣu*; *luṅ* third singular *ta*; *cli* → *sic*; the root has an *i*-marker (*idit*), so *num* is added; *iṭ* before *sic*; *ṣatva* of the substitute: *mandiṣṭa*; *aṭ* not added by *bahulaṃ chandasy amāṅyoge 'pi*.
 - **uśane**: *vaś kāntau*, an Uṇādi suffix *kyu*; *yuvor anākau* gives *ana* for the remaining *yu*; *grahijyā…* the *saṃprasāraṇa* of the root; the earlier form (*pūrvarūpa*) for the *a* + *a*: *uśana*; locative singular.
-- **sacā**: *saca samavāye*, *bhvādi*; since the word is in the *saṃpadādi* group, *kvip* by *saṃpadādibhyaḥ kvip* (Pā. 3-3-108 as read [?]); *dhātvādeḥ ṣaḥ saḥ* makes the initial *ṣ* an *s*; instrumental singular *ṭā*; *āṅ-yājayoś ca* [as read, [?]] substitutes *ā* (*ācaḥ… upasaṅkhyānam*); in the Saṃhitā the nasalization by *āṅo 'nunāsikaś chandasi* (Pā. 6-1-126 as read [?]).
+- **sacā**: *saca samavāye*, *bhvādi*; since the word is in the *saṃpadādi* group, *kvip* by *saṃpadādibhyaḥ kvip* (Pā., numeral smudged and printed without separators, [?]); *dhātvādeḥ ṣaḥ saḥ* makes the initial *ṣ* an *s*; instrumental singular *ṭā*; *āṅyājayārāṃ copasaṃkhyānam* (Pā. Ma. 7-1-39-1) substitutes *ā* (*ācaḥ… upasaṅkhyānam*); in the Saṃhitā the nasalization by *āṅo 'nunāsikaś chandasi* (Pā. Sū. 6-1-126).
 - **vaṅkū**: *vaṅku gatau*; an Uṇādi *u*; by *bahulam* in the Veda *kutva* comes even without a ground for it; dual accusative: *pūrvasavarṇadīrgha*: *vaṅkū*.
-- **vaṅkutarā**: *atiśayena vaṅkū vaṅkutarā*; in the dual, *tarap* by *dvivacanavibhajya…* (Pā. 5-3-57 as read [?]); the dual ending *au* replaced by *ā* by *supāṃ suluk*: *vaṅkutarā*; here, through the word that conveys the general sense of motion, a particular kind of motion — crooked going — is understood.
-- **yayim**: *yā prāpaṇe*, *adādi*; *ki* by *ādṛgamahanajana…* (Pā. 3-2-171 as read [?]); *liḍvadbhāva* gives reduplication and shortening; *yayā + i*: the *ā* lost by *āto lopa iṭi ca*; end-acute by the suffix; *supāṃ suluk* with the ablative (*pañcamī*) given *am*: *yayim*.
+- **vaṅkutarā**: *atiśayena vaṅkū vaṅkutarā*; in the dual, *tarap* by *dvivacane vi—* (sūtra named by its opening only; no number printed); the dual ending *au* replaced by *ā* by *supāṃ suluk*: *vaṅkutarā*; here, through the word that conveys the general sense of motion, a particular kind of motion — crooked going — is understood.
+- **yayim**: *yā prāpaṇe*, *adādi*; *ki* by *ādṛgamahanajana…* (Pā. Sū. 3-2-171); *liḍvadbhāva* gives reduplication and shortening; *yayā + i*: the *ā* lost by *āto lopa iṭi ca*; end-acute by the suffix; *supāṃ suluk* with the ablative (*pañcamī*) given *am*: *yayim*.
 - **dṛṃhitāḥ**: *dṛhi vṛddhau*, *bhvādi*; *num* since *idit*; *kta* with *iṭ*: *dṛṃhita*; accusative plural *dṛṃhitāḥ*.
 - **airayat**: *īra preraṇe*, *curādi*; *laṅ* third singular *tip*; *ṇic* in the own sense; *śap*; since it begins with a vowel, *āṭ*; *ā + īr + at* → *āṭaś ca* (Pā. 6-1-90) gives *vṛddhi*: *airayat*. **|| 11 ||**
 
