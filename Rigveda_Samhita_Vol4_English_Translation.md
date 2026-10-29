@@ -8664,13 +8664,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 43.8 (p. 487 foot, PDF 501–)
 
-**Saṃhitā-pāṭha** *(p. 487; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 487; Saṃhitā accents as printed; Pada unaccented.)*
 
-> **मा नः सोम परिबाधो मारातयो जुहुरन्त ।**
-> **आ न इन्दो वाजे भज ॥ ८ ॥**
+> **मा नः॑ सोम परि॒बाधो॒ मारा॑तयो जुहुरन्त ।**
+> **आ न॑ इन्दो॒ वाजे॑ भज ॥ ८ ॥**
 
-*mā naḥ soma paribādho mārātayo juhuranta |*
-*ā na indo vāje bhaja || 8 ||*
+*mā́ naḥ soma paribā́dho mā́rātayo juhuranta |*
+*ā́ na indo vā́je bhaja || 8 ||*
 
 **Pada-pāṭha** *(p. 487)*
 
@@ -8688,13 +8688,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 488)*
 
-> **सोमपरिबाधः सोमस्य परितो बाधका यागरहिता नोऽस्मान् मा जुहुरन्त । मा हिंसन्तु । तथारातयः शत्रवो मा जुहुरन्त । हे इन्दो सोम वाजे बलविषये ऽन्नविषये वा नोऽस्मानाभज । सर्वतः सेवस्व ॥ सोमपरिबाधः । सोमं परिबाधन्त इति सोमपरिबाधः । क्विप्चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं । अरातयः । रा दाने । कृत्यल्युटो बहुलमिति बहुलवचनात्कर्तरि क्तिन् । यद्वा । क्तिच्क्तौ च सञ्ज्ञायामिति क्तिच् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । जुहुरन्त । ह्वृ प्रसह्यकरणे । व्यत्ययेनात्मनेपदं । लङ् । जुहोत्यादित्वात् श्लुः । बहुलं छन्दसीति बहुलवचनादिकारस्याप्यृत्त्वं । द्विर्भावहलादिशेषाः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनादभ्यस्तादिति । पा. ७-१-४ [?] । इत्यादेशाभावे सति झोऽन्त इत्यन्तादेशः । न माङ्योग इत्यडभावः ॥ ८ ॥**
+> **सोमपरिबाधः सोमस्य परितो बाधका यागरहिता नोऽस्मान् मा जुहुरन्त । मा हिंसन्तु । तथारातयः शत्रवो मा जुहुरन्त । हे इन्दो सोम वाजे बलविषये ऽन्नविषये वा नोऽस्मानाभज । सर्वतः सेवस्व ॥ सोमपरिबाधः । सोमं परिबाधन्त इति सोमपरिबाधः । क्विप्चेति क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वं । अरातयः । रा दाने । कृत्यल्युटो बहुलमिति बहुलवचनात्कर्तरि क्तिन् । यद्वा । क्तिच्क्तौ च सञ्ज्ञायामिति क्तिच् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । जुहुरन्त । ह्वृ प्रसह्यकरणे । व्यत्ययेनात्मनेपदं । लङ् । जुहोत्यादित्वात् श्लुः । बहुलं छन्दसीति बहुलवचनादिकारस्याप्यृत्वं । द्विर्भावहलादिशेषाः । सर्वे विधयश्छन्दसि विकल्प्यन्त इति वचनादभ्यस्तात् । पा. ७-१-४ । इत्यादेशाभावे सति झोऽन्त इत्यन्तादेशः । न माङ्योग इत्यडभावः ।**
 
-*somaparibādhaḥ somasya parito bādhakā yāgarahitā no 'smān mā juhuranta | mā hiṃsantu | tathārātayaḥ śatravo mā juhuranta | he indo soma vāje balaviṣaye 'nnaviṣaye vā no 'smān ābhaja | sarvataḥ sevasva || somaparibādhaḥ | somaṃ paribādhanta iti somaparibādhaḥ | kvip ceti kvip | kṛduttarapadaprakṛtisvaratvaṃ | arātayaḥ | rā dāne | kṛtyalyuṭo bahulam iti bahulavacanāt kartari ktin | yadvā | ktickktau ca saṃjñāyām iti ktic | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | juhuranta | hvṛ prasahyakaraṇe | vyatyayenātmanepadaṃ | laṅ | juhotyāditvāt śluḥ | bahulaṃ chandasīti bahulavacanād ikārasyāpy ṛttvaṃ | dvirbhāvahalādiśeṣāḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād abhyastād iti | pā. 7-1-4 [?] | ity ādeśābhāve sati jho 'nta ity antādeśaḥ | na māṅyoga ity aḍabhāvaḥ || 8 ||*
+*somaparibādhaḥ somasya parito bādhakā yāgarahitā no 'smān mā juhuranta | mā hiṃsantu | tathārātayaḥ śatravo mā juhuranta | he indo soma vāje balaviṣaye 'nnaviṣaye vā no 'smān ābhaja | sarvataḥ sevasva || somaparibādhaḥ | somaṃ paribādhanta iti somaparibādhaḥ | kvip ceti kvip | kṛduttarapadaprakṛtisvaratvaṃ | arātayaḥ | rā dāne | kṛtyalyuṭo bahulam iti bahulavacanāt kartari ktin | yadvā | ktickktau ca saṃjñāyām iti ktic | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | juhuranta | hvṛ prasahyakaraṇe | vyatyayenātmanepadaṃ | laṅ | juhotyāditvāt śluḥ | bahulaṃ chandasīti bahulavacanād ikārasyāpy ṛtvaṃ | dvirbhāvahalādiśeṣāḥ | sarve vidhayaś chandasi vikalpyanta iti vacanād abhyastāt | pā. 7-1-4 | ity ādeśābhāve sati jho 'nta ity antādeśaḥ | na māṅyoga ity aḍabhāvaḥ |*
 
-*(In the grammatical tail the form "ṛttvaṃ" in "bahulavacanād ikārasyāpy ṛttvaṃ" is as I read it, doubtful [?]; the sūtra number 7-1-4 is as read [?].)*
+*("ikārasyāpy ṛtvaṃ", "abhyastāt" and pā. 7-1-4 checked against the print.)*
 
-**Translation:** "*Somaparibādhaḥ*, those who harass Soma on all sides, [and are] without sacrifice, *naḥ*, us, *mā juhuranta*, let them not harm; and likewise *arātayaḥ*, enemies, let them not harm. O *indo*, O Soma, *vāje*, in the matter of strength or of food, *naḥ*, us, *ā bhaja*, attend upon on all sides. *Somaparibādhaḥ*: '*somaṃ paribādhante*', *kvip* by *kvip ca*; the accent of the first member in a compound ending in a *kṛt*. *Arātayaḥ*: root *rā dāne*; *ktin* in the agent sense by the word *bahulam* in *kṛtyalyuṭo bahulam*; or *ktic* by *ktickktau ca saṃjñāyām*; a *nañ*-compound with the accent of the first member as an indeclinable. *Juhuranta*: root *hvṛ prasahyakaraṇe*; *ātmanepada* by *vyatyaya*; *laṅ*; *ślu* from the *juhotyādi* class; by the word *bahulam* even the *i* [of the reduplicate] gets *ṛ* [as read]; doubling and the remainder by *halādiḥ śeṣaḥ*; since all operations are optional in the Veda, the substitute by *abhyastād ataḥ* [Pā. 7-1-4 [?]] does not occur, so *ant* for *jha* by *jho 'ntaḥ*; no *aṭ* in connection with *mā*."
+**Translation:** "*Somaparibādhaḥ*, those who harass Soma on all sides, [and are] without sacrifice, *naḥ*, us, *mā juhuranta*, let them not harm; and likewise *arātayaḥ*, enemies, let them not harm. O *indo*, O Soma, *vāje*, in the matter of strength or of food, *naḥ*, us, *ā bhaja*, attend upon on all sides. *Somaparibādhaḥ*: '*somaṃ paribādhante*', *kvip* by *kvip ca*; the accent of the first member in a compound ending in a *kṛt*. *Arātayaḥ*: root *rā dāne*; *ktin* in the agent sense by the word *bahulam* in *kṛtyalyuṭo bahulam*; or *ktic* by *ktickktau ca saṃjñāyām*; a *nañ*-compound with the accent of the first member as an indeclinable. *Juhuranta*: root *hvṛ prasahyakaraṇe*; *ātmanepada* by *vyatyaya*; *laṅ*; *ślu* from the *juhotyādi* class; by the word *bahulam* even the *i* [of the reduplicate] gets *ṛ*; doubling and the remainder by *halādiḥ śeṣaḥ*; since all operations are optional in the Veda, the substitute by *abhyastād ataḥ* [Pā. 7-1-4] does not occur, so *ant* for *jha* by *jho 'ntaḥ*; no *aṭ* in connection with *mā*."
 
 **Pratipadārtha** *(p. 488)* — "**somaparibādhaḥ** — those who harass [ritual] Soma, i.e. the enemies of Soma who do not perform sacrifice; **naḥ** — us; **mā juhuranta** — let them not injure; **arātayaḥ** — enemies; **mā (juhuranta)** — let them not injure; **indo** — O god Soma; **vāje** — whether in the matter of food or of strength; **naḥ** — us; **ā bhaja** — nourish well."
 
@@ -8706,13 +8706,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **somaparibādhaḥ** — "*somaṃ paribādhante ye te tādṛśāḥ somaparibādhaḥ | somasya bādhakāḥ yāgarahitāḥ*: they cause harm to Soma by not performing the sacrifice; hence the enemies of Soma."
 - **arātayaḥ** — "*rā dāne*: since they are not those who give us anything, our opponents or enemies."
 - **mā juhuranta** — "*hvṛ prasahyakaraṇe*: let them not injure."
-- **indo** — "the word *indu* has the senses 'rain' (Ni. 3-[?]) and 'sacrifice' (Ni. 3-[?]); and Yāska has also said '**इन्दुः । इन्धेरुनत्तेर्वा**' (Ni. 10-[?]) — *induḥ | indher unatter vā* — he has explained the word *indu* from *indh* [in the sense of] shining, or from *und* [in the sense of] wetting. Here Soma is addressed as 'brilliant'; or, since the Soma juice has the power of wetting, it can be called by the name *indu*. One may also say that *indu* means moon; but in the Ṛgveda the word *soma* has no conventional use for the moon."
-- **vāje** — "since the word *vājaḥ* is read among the eighteen names of food beginning with *kṣandam* [?], *vāje* means food."
+- **indo** — "the word *indu* has the senses 'water' (*udaka*; Ni. 2-24 as printed) and 'sacrifice' (Ni. 3-19); and Yāska has also said '**इन्दुः । इन्धेरुनत्तेर्वा**' (Ni. 10-42) — *induḥ | indher unatter vā* — he has explained the word *indu* from *indh* [in the sense of] shining, or from *und* [in the sense of] wetting. Here Soma is addressed as 'brilliant'; or, since the Soma juice has the power of wetting, it can be called by the name *indu*. One may also say that *indu* means moon; but in the Ṛgveda the word *soma* has no conventional use for the moon."
+- **vāje** — "since the word *vājaḥ* is read among the eighteen names of food beginning with *andhaḥ*, *vājaḥ*, *vāje* means food."
 
 **Vyākaraṇa-prakriyā** *(p. 489 — grammar page, noted briefly)*
-- **somaparibādhaḥ**: "*somaṃ paribādhante iti somaparibādhaḥ*; *kvip ca* [Pā. 3-2-76 as read] *kvip*, here after a root in the sense of *prathanā*, in the plural; the accent of the first member of a compound with a *kṛt*."
+- **somaparibādhaḥ**: "*somaṃ paribādhante iti somaparibādhaḥ*; *kvip ca* [no number printed] *kvip*, here after a root in the sense of *prathanā*, in the plural; the accent of the first member of a compound with a *kṛt*."
 - **arātayaḥ**: root *rā dāne*; by the word *bahulam* in *kṛtyalyuṭo bahulam* *ktin* in the agent sense; or *ktic ktau ca saṃjñāyām*; *titutra…* prohibits *iṭ*; a *nañ*-compound; the accent of the first member as an indeclinable.
-- **juhuranta**: root *hvṛ prasahyakaraṇe*, *juhotyādi*; *laṅ*, *jha*; by *na māṅyoge* the augment *aṭ* is prohibited; although the verb is *parasmaipadin*, by *vyatyayo bahulam* the *ātmanepada* comes; *juhotyādibhyaḥ śluḥ*; *ślau*: doubling; *hvṛ + hvṛ + jha*; by *bahulaṃ chandasi* [Pā. 7-4-78 as read], by the word *bahula*, *i* for the *ṛ* of the reduplicate, *raparatva*; *halādiḥ śeṣaḥ* the loss of *r*; *kuhoś cuḥ* gives *jh* for *h*, and *abhyāse car ca* [Pā. 8-4-54 as read] *j* for *jh*: *ju + hvṛ + jha*; *bahulaṃ chandasi* [Pā. 6-1-… as read] *u* for the *ṛ*; if *dvirvacane 'ci* applied here, *hur* would [be doubled]; this does not occur since *sarve vidhayaś chandasi vikalpyante*; the *at* substitute for *jha* by *adabhyastāt* does not come, because of the optionality; *jho 'ntaḥ* gives *ant*; *juhuranta*; *tiṅ atiṅaḥ*: wholly unaccented. Rik 8 ends here (*|| 8 ||*).
+- **juhuranta**: root *hvṛ prasahyakaraṇe*, *juhotyādi*; *laṅ*, *jha*; by *na māṅyoge* the augment *aṭ* is prohibited; although the verb is *parasmaipadin*, by *vyatyayo bahulam* the *ātmanepada* comes; *juhotyādibhyaḥ śluḥ*; *ślau*: doubling; *hvṛ + hvṛ + jha*; by *bahulaṃ chandasi* [Pā. Sū. 7-4-78], by the word *bahula*, *i* for the *ṛ* of the reduplicate, *raparatva*; *halādiḥ śeṣaḥ* the loss of *r*; *kuhoś cuḥ* gives *jh* for *h*, and *abhyāse car ca* [no number printed] *j* for *jh*: *ju + hvṛ + jha*; *bahulaṃ chandasi* [Pā. Sū. 7-3-103 as printed; for 7-1-103] *u* for the *ṛ*; if *dvirvacane 'ci* applied here, *hur* would [be doubled]; this does not occur since *sarve vidhayaś chandasi vikalpyante*; the *at* substitute for *jha* by *adabhyastāt* does not come, because of the optionality; *jho 'ntaḥ* gives *ant*; *juhuranta*; *tiṅ atiṅaḥ*: wholly unaccented. Rik 8 ends here (*|| 8 ||*).
 
 ---
 
