@@ -6362,8 +6362,8 @@
 - **paprathe**: *prath prakhyāne*; *liṭ* third singular, *ta* → *e* (*liṭas tajhayor eśirec*); reduplication; *nighāta*.
 - **mahnā**: *mahimnā*, with the loss of *i* and *m* in the Veda; or from *maha pūjāyām* with Uṇādi *kanin*: *mahan*, instrumental *ā*, the *a* of *an* dropped by *āl lopo… anaḥ*; the end-acute; the ending is acute by the *udāttanivṛtti* accent.
 - **prati**: *pratiḥ pratinidhipratidānayoḥ* (Pā. 1-4-92) gives the *karmapravacanīya*-name; *karmapravacanīyayukte dvitīyā* (Pā. 2-3-8) the second case after *indra*; the fifth case which *pratinidhipratidāne ca yasmāt* would give does not arise in the Veda.
-- **bhīmaḥ**: *ñibhī bhaye*; Uṇādi *mak* (*bhiyaḥ ṣuk ca*, Uṇ. 1-… as read [?]); *kit* so no *guṇa*.
-- **ātapaḥ**: *tapa* with *ac* (*nandigrahipacādibhyo…*); *thāthaghañktājabitrakāṇām* gives the end-acute of the last member.
+- **bhīmaḥ**: *ñibhī bhaye*; Uṇādi *mak* (*bhiyaḥ ṣuk ca*, printed "Uṇ. sū. 1-145"; the bhāṣya tail prints 1-146); *kit* so no *guṇa*.
+- **ātapaḥ**: *tapa* with *ac* (*nandigrahipacādibhyo…*); *thāthaghañktājabitrakāṇām* (Pā. sū. 6-2-144) gives the end-acute of the last member.
 - **śiśīte**: *śo tanūkaraṇe*; the *ātmanepada* by *vyatyaya*; *ślu* for *śap* (*bahulaṃ chandasi*); *ādeca upadeśe 'śiti*: *ā*; reduplication; *i* for the reduplicative (*bahulaṃ chandasi*); *īhalyaghoḥ*: *ī* for *ā*; *śiśīte*.
 - **vaṃsagaḥ**: *vana ṣaṇa sambhaktau*, Uṇādi *sa*; the *n* becomes anusvāra; *gam* with *ḍa* (*ḍo 'nyatrāpi dṛśyate*), the *ṭi* dropped; a *divodāsādi*, so the first member's accent. **|| 1 ||**
 
@@ -6371,13 +6371,13 @@
 
 ### Rik 55.2 (pp. 345–, PDF 361–)
 
-**Saṃhitā-pāṭha** *(p. 345)*
+**Saṃhitā-pāṭha** *(p. 345; accents as printed; the svarita stroke of* ójasā *stands over ಓ, as also in the Pada: set on* ja*)*
 
-> **सो अर्णवो न नद्यः समुद्रियः प्रति गृभ्णाति विश्रिता वरीमभिः ।**
-> **इन्द्रः सोमस्य पीतये वृषायते सनात्स युध्म ओजसा पनस्यते ॥ २ ॥**
+> **सो अ॑र्ण॒वो न न॒द्यः॑ समु॒द्रियः॒ प्रति॑ गृभ्णाति॒ विश्रि॑ता॒ वरी॑मभिः ।**
+> **इन्द्रः॒ सोम॑स्य पी॒तये॑ वृषायते स॒नात्स यु॒ध्म ओज॑सा पनस्यते ॥ २ ॥**
 
-*so arṇavo na nadyaḥ samudriyaḥ prati gṛbhṇāti viśritā varīmabhiḥ |*
-*indraḥ somasya pītaye vṛṣāyate sanāt sa yudhma ojasā panasyate || 2 ||*
+*só arṇavó ná nadyàḥ samudríyaḥ práti gṛbhṇāti víśritā várīmabhiḥ |*
+*índraḥ sómasya pītáye vṛṣāyate sanā́t sá yudhmá ójasā panasyate || 2 ||*
 
 **Pada-pāṭha** *(p. 346)*
 
@@ -6393,7 +6393,7 @@
 
 *sa indraḥ samudriyaḥ | samudravanty asmād āpa iti samudram antarikṣaṃ | tatra bhavaḥ samudriyaḥ | evaṃbhūtaḥ sa varīmabhiḥ svakīyaiḥ saṃvaraṇair yuddhorutkair viśritā vyāptāḥ nadyo nadīḥ śabdakāriṇīr vṛtreṇāvṛtā āpo 'rṇavo na samudra iva prati gṛbhṇāti | svīkṛtya vavarṣeti bhāvaḥ | sa cendraḥ somasya pītaye pānāya vṛṣāyate vṛṣa ivācarati | harṣayukto vartata ity arthaḥ | tathā sa indro yudhmo yoddhā sanāc cirād eva yadvā sanātana ojasā balakṛtena vṛtravadhādirūpeṇa karmaṇā panasyate panaḥ stotram icchati ||*
 
-*(The tail of the bhāṣya, pp. 346 foot: on* arṇavaḥ *(*arṇaso lopaś ca*, Kā. 5-2-109 [?]; *vap* suffix),* nadyaḥ *(*nada avyakte śabde*, *ac*, the *ṅīp*; Atharvaveda 3-13-1 as read [?] quoted: "*āhāvanavatā hate tasmād ādyo nāma sthā to vo nāmāni sindhavaḥ*" — doubtful, [?]),* samudriyaḥ*,* gṛbhṇāti *(*grahor bhaḥ*),* viśritāḥ*,* varīmabhiḥ *(Uṇādi* imanic*),* vṛṣāyate *(*kyaṅ* for conduct),* yudhmaḥ *(*yudha saṃprahāre*, Uṇādi* man *with *muk*),* panasyate *(*pana stutau*; *panaṃ icchati*; *kyac*) — is characterized.)*
+*(The tail of the bhāṣya, pp. 346 foot: on* arṇavaḥ *(*arṇaso lopaś ca*, printed "Kā. 5-2-109-3"; *va* suffix),* nadyaḥ *(*nada avyakte śabde*, *ac*, the *ṅīp*; quoted as "*tathā ca śrūyate*: *āhāvanadatā hate tasmād ā nadyo nāma stha tā vo nāmāni sindhavaḥ*", printed "ಅಥ. ೩-೧೩-೧" (Atharvaveda 3-13-1)),* samudriyaḥ*,* gṛbhṇāti *(*grahor bhaḥ*),* viśritāḥ*,* varīmabhiḥ *(Uṇādi* imanic*),* vṛṣāyate *(*kyaṅ* for conduct),* yudhmaḥ *(*yudha saṃprahāre*, Uṇādi* man *with *muk*),* panasyate *(*pana stutau*; *panaṃ icchati*; *kyac*) — is characterized.)*
 
 **Translation of the bhāṣya:** "That Indra is *samudriyaḥ*: the *samudra* is the atmosphere (the waters flow from it); he who is in it. Such is he: with *varīmabhiḥ*, his own coverings [or: shields], eager for battle, *viśritāḥ*, spread out, *nadyaḥ*, the sounding rivers — the waters covered by Vṛtra — he *prati gṛbhṇāti*, takes, like the *arṇava*, the ocean: having taken them, he rained, is the sense. And Indra *vṛṣāyate* for *somasya pītaye*, to drink the soma, behaves like a bull: he abides in delight. And that Indra, *yudhmaḥ*, warrior, *sanāt*, from of old, or the eternal, *ojasā*, by the deed done with strength in the form of slaying Vṛtra and the like, *panasyate*, desires praise."
 
@@ -6410,25 +6410,25 @@
 **English Translation (the source's own, p. 347)** — "The firmament-abiding Indra grasps the wide-spread waters with his comprehensive faculties as the ocean receives the rivers; he rushes (impetuous) as a bull, to drink of the soma-juice; he, the warrior ever covets praise for his prowess."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 347–349**
-- *(a Sanskrit passage, p. 347)*: **अत्रेदमुक्तं भवति । इन्द्रः सोमस्य पाने प्रभूतमेव तृष्णालुर्भवति । अतः विवानेकैरुपासकैरर्पितान् सोमान् समुद्रो नदीरिव स्वीकरोति । सोमं पीत्वा च स्तुत्यर्हाणि वृत्रहननादीनि कर्माणि करोतीति ॥** — *atredam uktaṃ bhavati | indraḥ somasya pāne prabhūtam eva tṛṣṇālur bhavati | ataḥ vivānekair upāsakair arpitān somān samudro nadīr iva svīkaroti | somaṃ pītvā ca stutyarhāṇi vṛtrahananādīni karmāṇi karotīti ||* — "Here this is meant: Indra is very thirsty for the drinking of soma; therefore he accepts the Somas offered by the many worshippers as the ocean accepts the rivers; and having drunk the soma he does deeds worthy of praise, the slaying of Vṛtra and the like." (*vivānekair* is crowded in the print, [?].)
+- *(a Sanskrit passage, p. 347)*: **अत्रेदमुक्तं भवति । इन्द्रः सोमस्य पाने प्रभूतमेव तृष्णालुर्भवति । अत एवानेकैरुपासकैरर्पितान् सोमान् समुद्रो नदीरिव स्वीकरोति । सोमं पीत्वा च स्तुत्यर्हाणि वृत्रहननादीनि कर्माणि करोतीति ॥** — *atredam uktaṃ bhavati | indraḥ somasya pāne prabhūtam eva tṛṣṇālur bhavati | ata evānekair upāsakair arpitān somān samudro nadīr iva svīkaroti | somaṃ pītvā ca stutyarhāṇi vṛtrahananādīni karmāṇi karotīti ||* — "Here this is meant: Indra is very thirsty for the drinking of soma; therefore he accepts the Somas offered by the many worshippers as the ocean accepts the rivers; and having drunk the soma he does deeds worthy of praise, the slaying of Vṛtra and the like." (Re-read: "*ata evānekaiḥ*", "therefore by the many".)
 - **samudriyaḥ** — "*Samudravanti asmād āpaḥ iti samudram antarikṣam, tatra bhavaḥ samudriyaḥ*: the atmosphere, which supplies the earth with water. This is an epithet of Indra; to destroy Vṛtra, who in the form of water lay in the atmosphere, Indra went to the atmosphere."
-- **nadyaḥ** — "From the root *nada avyakte śabde* comes the word *nadī*: waters that make a sound. The śruti '*āhāvanavatā hate tasmād ādyo nāma sthā tā vo nāmāni sindhavaḥ*' (Tai. Saṃ. 5-6-1-2 as read [?]) shows this sense." *(Quoted garbled; I give the Devanagari as printed, doubtful:)*
+- **nadyaḥ** — "From the root *nada avyakte śabde* comes the word *nadī*: waters that make a sound. The śruti '*āhāvanadatā hate tasmād ā nadyo nāma stha tā vo nāmāni sindhavaḥ*' (Tai. Saṃ. 5-6-1-2) shows this sense." *(The Devanagari as printed; the bhāṣya tail cites the same verse as "Atharva 3-13-1":)*
 
-  > **आहावनदता हते तस्मादा नद्यो नाम स्थ ता वो नामानि सिन्धवः ।** *(Tai. Saṃ. 5-6-1-2 as read [?]; crowded)*
+  > **आहावनदता हते तस्मादा नद्यो नाम स्थ ता वो नामानि सिन्धवः ।** *(Tai. Saṃ. 5-6-1-2, printed "ತೈ. ಸಂ. ೫-೬-೧-೨")*
 
   *āhāvanadatā hate tasmād ā nadyo nāma stha tā vo nāmāni sindhavaḥ |* — mine and tentative, incomplete: "…therefore you are named 'sounding ones' (*nadyaḥ*); those are your names, rivers."
 - **vṛṣāyate** — "*Vṛṣa ivācarati*: he comes with joy; Indra is like a bull: he is happy."
 - **panasyate** — "*Panaḥ stotram icchati*: he seeks praise. The word *pana*, which gives the sense of praise (*stotra*), is meant."
 
 **Vyākaraṇa-prakriyā** *(pp. 348–349 — grammar pages, noted briefly)*
-- **arṇavaḥ**: *arṇas*; for the possessive sense *arṇaso lopaś ca* (Kā. 5-2-109 as read [?]) gives *va*, and drops the *s*; end-acute by the suffix.
-- **nadyaḥ**: *nada avyakte śabde*; *ac* (*nandigrahipacādibhyo*); *nadaṭ* is read in a gaṇa, so it is *ṭit*, hence *ṭiḍḍhāṇañ…* gives *ṅīp*; *yasyeti ca*; *anudāttasya ca yatrodāttalopaḥ*: the *ī* is acute; *yaṇ* before *jas*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita*. The nominative stands for the accusative (*vivakṣātaḥ kārakāṇi*).
+- **arṇavaḥ**: *arṇas*; for the possessive sense *arṇaso lopaś ca* (printed "Kā. 5-2-109-2"; the tail prints -3) gives *va*, and drops the *s*; end-acute by the suffix.
+- **nadyaḥ**: *nada avyakte śabde*; *ac* (*nandigrahipacādibhyo*); *nadaṭ* is read in a gaṇa (Pā. sū. 3-1-134 ga), so it is *ṭit*, hence *ṭiḍḍhāṇañ…* (Pā. sū. 4-1-15) gives *ṅīp*; *yasyeti ca*; *anudāttasya ca yatrodāttalopaḥ*: the *ī* is acute; *yaṇ* before *jas*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita*. The nominative stands for the accusative (*vivakṣātaḥ kārakāṇi*).
 - **samudriyaḥ**: *samudrābhrād ghaḥ* (Pā. 4-4-118): *gha*; *āyaneyīnīyiyaḥ…*: *īya*; *īya* treated as *upadeśavat*, so the *ī* is acute.
 - **gṛbhṇāti**: *graha upādāne*, *kryādi*; *śnā*; *grahijyā…* the *saṃprasāraṇa*; *hṛgrahor bhaś chandasi*: *bh* for *h*.
-- **viśritāḥ**: *śriñ sevāyām*; *kta*, no *guṇa*; *gatir anantaraḥ*: the prefix's accent; plural initial-acute.
+- **viśritāḥ**: *śriñ sevāyām*; *kta*, no *guṇa*; *gatir anantaraḥ* (Pā. sū. 6-2-49): the prefix's accent; plural initial-acute.
 - **varīmabhiḥ**: *vṛñ varaṇe*; Uṇādi *īmasin*; *guṇa*; *sit*: *ñnityādir…* initial-acute; instrumental plural; *nalopaḥ*. Or *uru* + *imanic* → *vara* + lengthening, initial-acute [Vedic].
-- **vṛṣāyate**: *kartuḥ kyaṅ salopaś ca* (Pā. 3-1-11): *kyaṅ* in the sense of conduct; *ātmanepada*; *akṛtsārvadhātukayor dīrghaḥ* lengthens the *a* of *vṛṣa*.
-- **yudhmaḥ**: *yudha saṃprahāre*; *iṣiyudhīndhidasiśyādhūsūbhyo mak* (Uṇ. 1-… as read [?]): *mak*; end-acute.
+- **vṛṣāyate**: *kartuḥ kyaṅ salopaś ca* (Pā. 3-1-11): *kyaṅ* in the sense of conduct; *ātmanepada*; *akṛtsārvadhātukayor dīrghaḥ* (Pā. sū. 7-4-25) lengthens the *a* of *vṛṣa*.
+- **yudhmaḥ**: *yudha saṃprahāre*; *iṣiyudhīndhidasiśyādhūsūbhyo mak* (no number printed): *mak*; end-acute.
 - **panasyate**: *pana stutau*, *bhvādi*; *panaṃ panaḥ icchati*; *supa ātmanaḥ kyac*; *vyatyaya* gives *ātmanepada*; *panasyate*; *nighāta*. **|| 2 ||**
 
 ---
