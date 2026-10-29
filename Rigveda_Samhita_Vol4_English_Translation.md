@@ -7424,13 +7424,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 ### Rik 41.5 (pp. 421–423, PDF 435–437)
 
-**Saṃhitā-pāṭha** *(p. 421; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 421; Saṃhitā accents as printed (checked at 350–700 dpi); Pada unaccented.)*
 
-> **यं यज्ञं नयथा नर आदित्या ऋजुना पथा ।**
-> **प्र वः स धीतये नशत् ॥ ५ ॥**
+> **यं य॒ज्ञं नय॑था नर॒ आदि॑त्या ऋ॒जुना॑ प॒था ।**
+> **प्र वः॒ स धी॒तये॑ नशत् ॥ ५ ॥**
 
-*yaṃ yajñaṃ nayathā nara ādityā ṛjunā pathā |*
-*pra vaḥ sa dhītaye naśat || 5 ||*
+*yaṃ yajñáṃ náyathā nara ā́dityā ṛjúnā pathā́ |*
+*pra vaḥ sá dhītáye naśat || 5 ||*
 
 **Pada-pāṭha** *(p. 421)*
 
@@ -7444,11 +7444,11 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa-bhāṣya** *(p. 422)*
 
-> **हे नरो नेतार आदित्या यं यज्ञमृजुना पथाविकलेन मार्गेण नयथ पारं प्रापयेथ स यज्ञो वो धीतये युष्मत्पानायोपभोगाय प्र णशत् । प्राप्नोतु ॥ नयथ । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः । आन्येषामपि दृश्यत इति संहितायां दीर्घत्वं । पथा । तृतीयैकवचने भस्य टेर्लोपः । पा. ६-४-१४३ [?] । इति टिलोपः । अनुदात्तस्य च यत्रोदात्तलोप इति विभक्तेरुदात्तत्वं । धीतये । धेट् पाने । आदेच इत्यात्वं । क्तिचि घुमास्थेतीत्वं । नशत् । नशतिर्गत्यर्थः । लेट्यडागमः । इतश्च लोप इतीकारलोपः ॥ ५ ॥**
+> **हे नरो नेतार आदित्या यं यज्ञमृजुना पथाविकलेन मार्गेण नयथ पारं प्रापयेथ स यज्ञो वो धीतये युष्मत्पानायोपभोगाय प्र णशत् । प्राप्नोतु ॥ नयथ । आदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वृत्तयोगादनिघातः । आन्येषामपि दृश्यत इति संहितायां दीर्घत्वं । पथा । तृतीयैकवचने भस्य टेर्लोपः । पा. ७-१-८८ । इति टिलोपः । अनुदात्तस्य च यत्रोदात्तलोप इति विभक्तेरुदात्तत्वं । धीतये । धेट् पाने । आदेच इत्यात्वं । क्तिचि घुमास्थेतीत्वं । नशत् । नशतिर्गत्यर्थः । लेट्यडागमः । इतश्च लोप इतीकारलोपः ॥ २२ ॥**
 
-*he naro netāra ādityā yaṃ yajñam ṛjunā pathāvikalena mārgeṇa nayatha pāraṃ prāpayetha sa yajño vo dhītaye yuṣmatpānāyopabhogāya pra ṇaśat | prāpnotu || nayatha | ād upadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | yadvṛttayogād anighātaḥ | ānyeṣām api dṛśyata iti saṃhitāyāṃ dīrghatvaṃ | pathā | tṛtīyaikavacane bhasya ṭer lopaḥ | pā. 6-4-143 [?] | iti ṭilopaḥ | anudāttasya ca yatrodāttalopa iti vibhakter udāttatvaṃ | dhītaye | dheṭ pāne | ādeca ity ātvaṃ | ktici ghumāstheti ītvaṃ | naśat | naśatir gatyarthaḥ | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ || 5 ||*
+*he naro netāra ādityā yaṃ yajñam ṛjunā pathāvikalena mārgeṇa nayatha pāraṃ prāpayetha sa yajño vo dhītaye yuṣmatpānāyopabhogāya pra ṇaśat | prāpnotu || nayatha | ād upadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | yadvṛttayogād anighātaḥ | ānyeṣām api dṛśyata iti saṃhitāyāṃ dīrghatvaṃ | pathā | tṛtīyaikavacane bhasya ṭer lopaḥ | pā. 7-1-88 | iti ṭilopaḥ | anudāttasya ca yatrodāttalopa iti vibhakter udāttatvaṃ | dhītaye | dheṭ pāne | ādeca ity ātvaṃ | ktici ghumāstheti ītvaṃ | naśat | naśatir gatyarthaḥ | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ || 22 ||*
 
-**Translation:** "O *naraḥ*, leaders, Ādityas — *yam yajñam*, which sacrifice you lead *ṛjunā pathā*, by the straight, unbroken way, you bring across to the far shore — that sacrifice *vaḥ dhītaye*, for your drinking, your enjoyment, *pra naśat*, may it reach [you]. *Nayatha*: the root accent, since the *la*-substitute *sārvadhātuka* is unaccented after a root that is acute in the *upadeśa*; no *nighāta* because of the connection with *yat*; in the Saṃhitā the long vowel by *ānyeṣām api dṛśyate*. *Pathā*: in the instrumental the *ṭi* of the *bha*-stem is lost [Pā. 6-4-143 [?]]; the ending is acute by *anudāttasya ca yatrodāttalopaḥ*. *Dhītaye*: root *dheṭ pāne*; *ā* by *ādeca…*; *ktic*; *ī* by *ghumāsthā…*. *Naśat*: *naśati* is in the sense of going; *leṭ* with the augment *aṭ*; loss of the *i* by *itaś ca lopaḥ*."
+**Translation:** "O *naraḥ*, leaders, Ādityas — *yam yajñam*, which sacrifice you lead *ṛjunā pathā*, by the straight, unbroken way, you bring across to the far shore — that sacrifice *vaḥ dhītaye*, for your drinking, your enjoyment, *pra naśat*, may it reach [you]. *Nayatha*: the root accent, since the *la*-substitute *sārvadhātuka* is unaccented after a root that is acute in the *upadeśa*; no *nighāta* because of the connection with *yat*; in the Saṃhitā the long vowel by *ānyeṣām api dṛśyate*. *Pathā*: in the instrumental the *ṭi* of the *bha*-stem is lost [Pā. 7-1-88]; the ending is acute by *anudāttasya ca yatrodāttalopaḥ*. *Dhītaye*: root *dheṭ pāne*; *ā* by *ādeca…*; *ktic*; *ī* by *ghumāsthā…*. *Naśat*: *naśati* is in the sense of going; *leṭ* with the augment *aṭ*; loss of the *i* by *itaś ca lopaḥ*."
 
 **Pratipadārtha** *(p. 422)* — "**naraḥ** — O guides (leaders of the way); **ādityāḥ** — O Ādityas; **yam yajñam** — which sacrifice; **ṛjunā pathā** — by the straight way; **nayatha** — you lead to its end; **saḥ yajñaḥ** — that sacrifice; **vaḥ** — for you; **dhītaye** — for the drinking that gives satisfaction; **pra naśat** — may it be well reached (may it come to you)."
 
@@ -7462,11 +7462,11 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 - **naśat** = *naśatir gatyarthaḥ* — "may it come, may it reach you: that is, may satisfaction come to you by the drinking of Soma at the sacrifice."
 
 **Vyākaraṇa-prakriyā** *(p. 423 — grammar page, noted briefly)*
-- **nayatha**: root *ṇīñ prāpaṇe*, first class; *laṭ*, madhyama plural *tha*; *ṇo naḥ* [Pā. 6-1-65 as read [?]]: *n* for the initial *ṇ*; *śap*; *nī + a + tha*, *guṇa*, *ay*-substitution; because of the connection with *yam* the wholly-unaccented does not come; the *śap* is unaccented, and by *tāsyanudāttet…* the *tha* is unaccented; the root accent remains; *ānyeṣām api dṛśyate* [Pā. 6-3-137 as read [?]] gives the long vowel in the Saṃhitā.
+- **nayatha**: root *ṇīñ prāpaṇe*, first class; *laṭ*, madhyama plural *tha*; *ṇo naḥ* (no number printed): *n* for the initial *ṇ*; *śap*; *nī + a + tha*, *guṇa*, *ay*-substitution; because of the connection with *yam* the wholly-unaccented does not come; the *śap* is unaccented, and by *tāsyanudāttet…* the *tha* is unaccented; the root accent remains; *ānyeṣām api dṛśyate* (Pā. Sū. 6-3-137) gives the long vowel in the Saṃhitā.
 - **ādityāḥ**: "explained in the earlier mantra."
-- **pathā**: *ṭā* after *pathin*; *bhasya ṭer lopaḥ* [Pā. 7-1-88 as read [?]]: the *ṭi* of *pathin*, *mathin*, *ṛbhukṣin* in the *bha*-name is lost, so the *in* goes; this is acute, as said in the preceding mantra; the loss of an acute being caused by the *ṭā*-ending, it becomes the occasion of the *bha*-name; *anudāttasya ca yatrodāttalopaḥ* [Pā. 6-1-161 as read [?]]: the unaccented that is the cause of the loss of an acute becomes acute; so the ending is acute.
-- **dhītaye**: root *dheṭ pāne*; *ādeca upadeśe 'śiti* [Pā. 6-1-45 as read [?]] gives *ā* to a root ending in *e*, *o*, *ai*, *au* in the *upadeśa* — but this does not occur before a suffix beginning with *ś* and an *ñit*/*kit* *kasya*…; so the *ā* after the *e*; *ktic ktau ca saṃjñāyām* [Pā. 3-3-174 as read]: *ktic*; *ghumāsthāgāpājahātisāṃ hali* — घुमास्थागापाजहातिसां हलि — [Pā. 6-4-66 as read [?]]: *ī* for the *ā* of these roots before a *kit* or *ñit* *ārdhadhātuka* beginning with a consonant; by the paribhāṣā *grāmaṇyādigrahaṇeṣv aviśeṣaḥ* [as read, number [?]], *dhā* [print: *thā*, as the *ghu* name is given by *dādhā ghv adāp* [Pā. 1-1-20 as read]] also gets the *ghu* name; *ā* → *ī*: *dhīti*; dative singular.
-- **naśat**: *ṇaśa* [the print's root-name is crowded [?]], with *ṇ* → *n*; *leṭ*, *tip*; *leṭo 'ḍāṭau*: *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* the loss of the *i*. Rik 5 ends here (*|| 5 ||*).
+- **pathā**: *ṭā* after *pathin*; *bhasya ṭer lopaḥ* (Pā. Sū. 7-1-88): the *ṭi* of *pathin*, *mathin*, *ṛbhukṣin* in the *bha*-name is lost, so the *in* goes; this is acute, as said in the preceding mantra; the loss of an acute being caused by the *ṭā*-ending, it becomes the occasion of the *bha*-name; *anudāttasya ca yatrodāttalopaḥ* (Pā. Sū. 6-1-161): the unaccented that is the cause of the loss of an acute becomes acute; so the ending is acute.
+- **dhītaye**: root *dheṭ pāne*; *ādeca upadeśe 'śiti* (Pā. Sū. 6-4-45 [as printed; for 6-1-45]) gives *ā* to a root ending in *e*, *o*, *ai*, *au* in the *upadeśa* — but this does not occur before a suffix beginning with *ś* and an *ñit*/*kit* *kasya*…; so the *ā* after the *e*; *ktic ktau ca saṃjñāyām* (no number printed): *ktic*; *ghumāsthāgāpājahātisāṃ hali* — घुमास्थागापाजहातिसां हलि — (Pā. Sū. 6-4-66): *ī* for the *ā* of these roots before a *kit* or *ñit* *ārdhadhātuka* beginning with a consonant; by the paribhāṣā *gāmādāgrahaṇeṣv aviśeṣaḥ* (Paribhāṣā 116), the derived *dhā* also gets the *ghu* name by *dādhā ghv adāp* (Pā. Sū. 1-1-20); *ā* → *ī*: *dhīti*; dative singular.
+- **naśat**: *ṇaśa adarśane*, with *ṇ* → *n*; *leṭ*, *tip*; *leṭo 'ḍāṭau*: *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* the loss of the *i*. Rik 5 ends here (*|| 5 ||*).
 
 ---
 
