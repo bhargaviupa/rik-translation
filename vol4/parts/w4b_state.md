@@ -9,4 +9,5 @@
 - Page map: printed = PDF − 15 holds through p. 492 = PDF 507.
 - **Tools (w4b):** `rl_w4b.py` (crop with page-fraction ruler, to aim zooms), `vol4/tools/rp_w4b.py` (render/crop), `zc_w4b.py`, `mz_w4b.py` (stacked 700-dpi crops), `rep_w4b.py` (exact replacements within a line range).
 
-- **Accents deferred:** none (Sūkta 42 all accented).
+- **Accents deferred:** none (Sūktas 42–43 all accented).
+- Tool tip: `export W4=/tmp/w4b` before mz/rl/rows_w4b; locate lines with `rows_w4b.py PDF` (exact page-fraction bands) — reading positions off a displayed image is unreliable.
