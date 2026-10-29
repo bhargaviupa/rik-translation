@@ -3838,13 +3838,15 @@
 
 ### Rik 51.15 (pp. 209–211, PDF 225–227)
 
-**Saṃhitā-pāṭha** *(p. 209; accents printed, not reproduced; metre Triṣṭubh)*
+**Saṃhitā-pāṭha** *(p. 209; accents as printed; metre Triṣṭubh)*
 
-> **इदं नमो वृषभाय स्वराजे सत्यशुष्माय तवसेऽवाचि ।**
-> **अस्मिन्निन्द्र वृजने सर्ववीराः स्मत्सूरिभिस्तव शर्मन्त्स्याम ॥ १५ ॥**
+> **इ॒दं नमो॑ वृष॒भाय॑ स्व॒राजे॑ स॒त्यशु॑ष्माय त॒वसे॑ऽवाचि ।**
+> **अ॒स्मिन्नि॑न्द्र वृज॒ने॒ सर्व॑वीराः॒ स्मत्सू॒रिभि॒स्तव॒ शर्म॑न्त्स्याम ॥ १५ ॥**
 
-*idaṃ namo vṛṣabhāya svarāje satyaśuṣmāya tavase 'vāci |*
-*asminn indra vṛjane sarvavīrāḥ smat sūribhis tava śarman syāma || 15 ||*
+*idáṃ námo vṛṣabhā́ya svarā́je satyáśuṣmāya taváse 'vāci |*
+*asmínn indra vṛjane sárvavīrāḥ smát sūríbhis táva śárman syāma || 15 ||*
+
+*[accent ?] य॑ of वृषभाय (the stroke stands at the junction of भा and य) and वृज॒ने॒ (two anudātta strokes, as printed).*
 
 **Pada-pāṭha** *(p. 209)*
 
@@ -3876,16 +3878,16 @@
 - **satyaśuṣmāya** — "*Satyam* — *śuṣmam*: one whose strength is real, destroying enemies; that is, one who has strength that is truly destructive of enemies and not in vain."
 - **sarvavīrāḥ** — "*viśeṣeṇa īrayanti amitrān iti vīrāḥ*: warriors of such prowess as to destroy all enemies in a moment."
 - **smat** — "A particle with the meaning of the word *su* ('excellent')."
-- **śarman** — "By the Nirukta sūtra '*śarma varma*' (Ni. 3-4 as read [?]) the word *śarma* means house. *Śarman* is used in the sense of the locative *śarmaṇi*. The sense is: 'In the excellent house provided by you, may we dwell happily together with many learned men and priests.'"
+- **śarman** — "By the Nirukta sūtra '*śarma varma*' (Ni. 3-4) the word *śarma* means house. *Śarman* is used in the sense of the locative *śarmaṇi*. The sense is: 'In the excellent house provided by you, may we dwell happily together with many learned men and priests.'"
 
 **Vyākaraṇa-prakriyā** *(pp. 211 — grammar page, noted briefly)*
-- **svarāje**: *rāja dīptau*, *bhvādi*; *kvip* by *satsūdviṣadruhaduhayujavidabhidachidajinīrājām upasarge…* (Pā. 3-2-61 as read [?]); *sarvalopa* in *kvip*; being ending in a *kṛt*, it has the *prātipadika* designation; dative singular.
+- **svarāje**: *rāja dīptau*, *bhvādi*; *kvip* by *satsūdviṣadruhaduhayujavidabhidachidajinīrājām upasarge…* (Pā. Sū. 3-2-61); *sarvalopa* in *kvip*; being ending in a *kṛt*, it has the *prātipadika* designation; dative singular.
 - **satyaśuṣmāya**: "*satyaṃ śuṣmaṃ balaṃ yasya saḥ*", a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*.
 - **tavase**: *tava* is a *sautra* root; the Uṇādi suffix *asi* gives *tavas*; dative singular.
-- **vṛjane**: *vṛjī varjane*; *kyu* by *kyaṣyavṛjimandinidhāñbhyaḥ kyuḥ* (Uṇ. 2-… as read [?]); *yuvor anākau*; being *kit*, no *guṇa* of the penultimate; *vṛjana*; locative singular; middle-acute by the suffix-accent.
-- **śarman**: *śarman* in the locative singular: *supāṃ suluk* drops the locative ending; *nalopaḥ prātipadikāntasya* would drop the *n*, but *na ṅisambuddhyoḥ* (Pā. 8-2-8) forbids it, since the *ṅi* follows.
-- **syāma**: *as bhuvi*, *adādi*; *vidhiliṅ* first person plural *mas*; *nityaṃ ṅitaḥ* (Pā. 3-4-99) drops the *s* of *mas*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdāttaḥ…*; *śnasoral lopaḥ* drops the *a* of *as*: *syāma*.
-- **śarman + syāma**: in the Saṃhitā, *naś ca* (Pā. 8-3-30 as read [?]) makes the *s* after a word ending in *n* take *dhuṭ*; *dhuṭ* being *ṭit*, it stands as the first member of the *s*; *khari ca* (Pā. 8-4-55) turns the *dh* into *t* before a hard letter; so *śarmant syāma*; and by *jhayo dvitīyāḥ śari pauṣkarasāder iti vācyam* (Pā. 8-4-… *vārttika*, as read [?]), an optional *th* for the *t*; one need not suspect that *khari ca* would again make *th* into *t*, since, in the opinion of the teacher Pauṣkarasādi, the prescription of the second letter would be pointless if the *carva* came again. **|| 15 ||**
+- **vṛjane**: *vṛjī varjane*; *kyu* by *kyaṣyavṛjimandinidhāñbhyaḥ kyuḥ* (Uṇ. Sū. 2-29 [?: second group ೨೯ or ೭೯]); *yuvor anākau*; being *kit*, no *guṇa* of the penultimate; *vṛjana*; locative singular; middle-acute by the suffix-accent.
+- **śarman**: *śarman* in the locative singular: *supāṃ suluk* drops the locative ending; *nalopaḥ prātipadikāntasya* would drop the *n*, but *na ṅisambuddhyoḥ* (Pā. Sū. 8-2-8) forbids it, since the *ṅi* follows.
+- **syāma**: *as bhuvi*, *adādi*; *vidhiliṅ* first person plural *mas*; *nityaṃ ṅitaḥ* (no number printed) drops the *s* of *mas*; *yāsuṭ* by *yāsuṭ parasmaipadeṣūdāttaḥ…*; *śnasoral lopaḥ* drops the *a* of *as*: *syāma*.
+- **śarman + syāma**: in the Saṃhitā, *naś ca* (Pā. Sū. 8-3-30) makes the *s* after a word ending in *n* take *dhuṭ*; *dhuṭ* being *ṭit*, it stands as the first member of the *s*; *khari ca* (Pā. Sū. 8-4-55) turns the *dh* into *t* before a hard letter; so *śarmant syāma*; and by *cayo dvitīyāḥ śari pauṣkarasāder iti vācyam* (Pā. Sū. 8-4-48-3, *vārttika*), an optional *th* for the *t*; one need not suspect that *khari ca* would again make *th* into *t*, since, in the opinion of the teacher Pauṣkarasādi, the prescription of the second letter would be pointless if the *carva* came again. **|| 15 ||**
 
 ---
 
