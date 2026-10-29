@@ -8501,19 +8501,19 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **medhapatim**: "the process is to be stated as before."
 - **rudram**: the suffix *rak* by *roder ṇiluk ca*.
 - **jalāṣabheṣajam**: root *janī prādurbhāve*; "*jāyante iti jāḥ*"; *anyeṣv api dṛśyate* [Pā. Sū. 3-2-101]: *ḍa* after the root *jan* seen even where there is no other *upapada*; because of the word *dṛśyate*, it comes even without an *upapada*; loss of the *ṭi*; root *laṣa kāntau*, then *ghañ* in the abstract; *upadhāvṛddhi*: *lāṣa*; *kānti* means desire; 'in which the *lāṣa* of the born is'; *bheṣam*, disease, '*jayati*', conquers: *bheṣajam*; a bahuvrīhi containing *jalāṣam bheṣajaṃ yasya saḥ*: Rudra with remedies of the nature of happiness is conveyed by the word *jalāṣabheṣaja*; the accent of the first member.
-- **śaṃyoḥ**: *kaṃśaṃbhyāṃ babhayustitutayasaḥ* — कंशंभ्यां बभयुस्तितुतयसः — [Pā. Sū. 5-2-138]: after *kam* and *śam* the seven suffixes *ba*, *bha*, *yus*, *ti*, *tu*, *ta*, *ya* in the sense of *matup*; *kam* and *śam* are indeclinables ending in *m*; *kam* means water or happiness, *śam* happiness; *śam + yus*; *siti ca* [Pā. Sū. 1-4-16]: when a suffix with the *s*-*it* follows, the preceding has the *pada* name, so the *m* of *śam* takes *anusvāra* by *mo 'nusvāraḥ* and then the homorganic nasal by *anusvārasya yayi parasavarṇaḥ*: *śayyu*; suffix accent, *guṇa*, *jasi ca*, *pūrvarūpa*, *ru*, visarga: *śaṃyoḥ*. Rik 4 ends here (*|| 4 ||*).
+- **śaṃyoḥ**: *kaṃśaṃbhyāṃ babhayustitutayasaḥ* — कंशंभ्यां बभयुस्तितुतयसः — [Pā. Sū. 5-2-138]: after *kam* and *śam* the seven suffixes *ba*, *bha*, *yus*, *ti*, *tu*, *ta*, *ya* in the sense of *matup*; *kam* and *śam* are indeclinables ending in *m*; *kam* means water or happiness, *śam* happiness; *śam + yus*; *siti ca* [Pā. Sū. 1-4-16]: when a suffix with the *s*-*it* follows, the preceding has the *pada* name, so the *m* of *śam* takes *anusvāra* by *mo 'nusvāraḥ* [Pā. Sū. 8-3-23] and then the homorganic nasal by *anusvārasya yayi parasavarṇaḥ* [Pā. Sū. 8-4-58]: *śayyu*; suffix accent, *guṇa*, *ṅasiṅasoś ca* [Pā. Sū. 6-1-110], *pūrvarūpa*, *ru*, visarga: *śaṃyoḥ*. Rik 4 ends here (*|| 4 ||*).
 
 ---
 
 ### Rik 43.5 (pp. 479–, PDF 493–)
 
-**Saṃhitā-pāṭha** *(p. 479; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 479; Saṃhitā accents as printed; Pada unaccented; the initial य is unmarked in the print and taken as udātta in the IAST.)*
 
-> **यः शुक्र इव सूर्यो हिरण्यमिव रोचते ।**
-> **श्रेष्ठो देवानां वसुः ॥ ५ ॥**
+> **यः शु॒क्र इ॑व॒ सूर्यो॒ हिर॑ण्यमिव॒ रोच॑ते ।**
+> **श्रेष्ठो॑ दे॒वानां॒ वसुः॑ ॥ ५ ॥**
 
-*yaḥ śukra iva sūryo hiraṇyam iva rocate |*
-*śreṣṭho devānāṃ vasuḥ || 5 ||*
+*yáḥ śukrá iva sū́ryo híraṇyam iva rócate |*
+*śréṣṭho devā́nāṃ vásuḥ || 5 ||*
 
 **Pada-pāṭha** *(p. 479)*
 
@@ -8537,13 +8537,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya, end** *(p. 480 top)*
 
-> **… प्रशस्यस्य श्रः । पा. ५-३-६० [?] । इति श्रादेशः । नित्त्वादाद्युदात्तत्वं । वसुः । वासयति सर्वमिति वसुः । वस निवासे । अन्तर्भावितण्यर्थात् शृस्वस्निहीत्यादिनोप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वं ॥ ५ ॥**
+> **… प्रशस्यस्य श्रः । पा. ५-३-६० । इति श्रादेशः । नित्त्वादाद्युदात्तत्वं । वसुः । वासयति सर्वमिति वसुः । वस निवासे । अन्तर्भावितण्यर्थात् शृस्वृस्निहीत्यादिनोःप्रत्ययः । निदित्यनुवृत्तेराद्युदात्तत्वं ॥ २६ ॥**
 
-*… praśasyasya śraḥ | pā. 5-3-60 [?] | iti śrādeśaḥ | nittvād ādyudāttatvaṃ | vasuḥ | vāsayati sarvam iti vasuḥ | vasa nivāse | antarbhāvitaṇyarthāt śṛsvasnihītyādinā upratyayaḥ | nid ity anuvṛtter ādyudāttatvaṃ || 5 ||*
+*… praśasyasya śraḥ | pā. 5-3-60 | iti śrādeśaḥ | nittvād ādyudāttatvaṃ | vasuḥ | vāsayati sarvam iti vasuḥ | vasa nivāse | antarbhāvitaṇyarthāt śṛsvṛsnihīty ādinoḥ pratyayaḥ | nid ity anuvṛtter ādyudāttatvaṃ || 26 ||*
 
-*(In this tail the rule-name "śṛsvasnihī…" is as read and crowded [?].)*
+*("śṛsvṛsnihīty ādinoḥ pratyayaḥ" as printed; the closing number is the varga, 26.)*
 
-**Translation of the end:** "… [*iṣṭhan*], *śra* is the substitute for *praśasya* [Pā. 5-3-60 [?]]; since it is *nit*, first-syllable acute. *Vasuḥ*: '*vāsayati sarvam*', he makes all dwell; root *vasa nivāse*, with an implicit causative sense; the suffix *u* by the rule beginning *śṛsvasnihi…*; since *nit* is carried forward, first-syllable acute."
+**Translation of the end:** "… [*iṣṭhan*], *śra* is the substitute for *praśasya* [Pā. 5-3-60]; since it is *nit*, first-syllable acute. *Vasuḥ*: '*vāsayati sarvam*', he makes all dwell; root *vasa nivāse*, with an implicit causative sense; the suffix *u* by the rule beginning *śṛsvasnihi…*; since *nit* is carried forward, first-syllable acute."
 
 **Pratipadārtha** *(p. 480)* — "**yaḥ** — which Rudra; **sūrya iva** — like the Sun; **śukraḥ** — shining; **hiraṇyam iva** — like gold [pleasing to all beings]; **rocate** — shines [we pray to that Rudra: *saḥ* — he]; **devānām** — among all the gods; **śreṣṭhaḥ** — the best; **vasuḥ** — the giver of a dwelling-place."
 
@@ -8557,11 +8557,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **vasuḥ** — "*vasa nivāse | vāsayati sarvam iti vasuḥ | nivāsahetuḥ*: the cause of the dwelling-places of all, i.e. the giver of dwelling-places. Or the words *śreṣṭho devānāṃ vasuḥ* may be taken as *devānāṃ śreṣṭho vasuḥ*: the sense 'the very best among the gods' may also be given."
 
 **Vyākaraṇa-prakriyā** *(pp. 480–481 — grammar pages, noted briefly)*
-- **sūryaḥ**: *rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ* — राजसूयसूर्यमृषोद्यरुच्यकुप्यकृष्टपच्याव्यथ्याः — [Pā. 3-1-114 as read]: by this sūtra after the root *ṣū preraṇe* the suffix *kyap* and the augment *ruṭ* are irregularly given; *suvati karmaṇi lokaṃ preryati iti sūryaḥ* — he who urges the world to its works: the sense is that the Sun, rising, urges people to engage in their several tasks. Since *kyap* is *pit*, it is unaccented, and the root accent remains.
-- **hiraṇyam**: root *haryati gatikāntyoḥ*; *haryater hiraṇ-kanyan hiraṇ ca* — हर्यतेर्हिरञ् कन्यन् हिरञ् च — [Uṇ. 5-[?] as read]: the suffix *kanyan* and the substitute *hiraṇ* for *hary*.
+- **sūryaḥ**: *rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ* — राजसूयसूर्यमृषोद्यरुच्यकुप्यकृष्टपच्याव्यथ्याः — [Pā. Sū. 3-1-114]: by this sūtra after the root *ṣū preraṇe* the suffix *kyap* and the augment *ruṭ* are irregularly given; *suvati karmaṇi lokaṃ preryati iti sūryaḥ* — he who urges the world to its works: the sense is that the Sun, rising, urges people to engage in their several tasks. Since *kyap* is *pit*, it is unaccented, and the root accent remains.
+- **hiraṇyam**: root *haryati gatikāntyoḥ*; *haryater hiraṇ-kanyan hiraṇ ca* — हर्यतेर्हिरञ् कन्यन् हिरञ् च — [U. Sū. 5-722, as printed]: the suffix *kanyan* and the substitute *hiraṇ* for *hary*.
 - **rocate**: root *ruca dīptāv abhiprītau ca*, first class, *ātmanepada*; *laṭ*, *ta*, *e*, *śap*; *laghūpadhaguṇa*; *śap* being *pit* is unaccented, and *tāsyanudāttet…* makes *te* unaccented; the root accent remains; *yadvṛttān nityam* prohibits the wholly-unaccented.
-- **śreṣṭhaḥ**: *praśasyasya śraḥ* — प्रशस्यस्य श्रः — [Pā. 5-3-60 as read]: *śra* as substitute for *praśasya* before the suffixes *iṣṭhan* and *īyasun*; although *praśasya* is a word denoting an action, the paribhāṣā-indicating form of the sūtra shows that *iṣṭhan* and *īyasun* come after *praśasya*; or one may say it means *praśastatva* ("excellence"); *atiśāyane tamabiṣṭhanau*, *dvivacanavibhajyopapade tarabīyasunau* [Pā. 5-3-55, 57 as read]; *prakṛtyaikāc* — प्रकृत्यैकाच् — [Pā. 6-4-163 as read]: a one-syllable word keeps its natural form before *iṣṭhan*, *imanic* and *īyasun*, i.e. there is no *ṭi*-loss and so on; *ād guṇaḥ*; the suffix being *nit*, the end of the suffix is first-syllable acute.
-- **vasuḥ**: "*vāsayati sarvam iti vasuḥ*": the root *vasa nivāse*, with an implicit causative sense; *śṛsvasnihitrapiṣivasihanikledibandhimanibhyaś ca* — शृस्वस्निहित्रप्यसिवसिहनिक्लेदिबन्धिमनिभ्यश्च — [Uṇ. 1-10 as read [?]]: the suffix *u*; *dhānye nit* [Uṇ. 1-9 as read [?]]: *nit* is carried over, so the suffix *u* is *nit* and the end of the suffix is first-syllable acute. Rik 5 ends here (*|| 5 ||*).
+- **śreṣṭhaḥ**: *praśasyasya śraḥ* — प्रशस्यस्य श्रः — [Pā. Sū. 5-3-60]: *śra* as substitute for *praśasya* before the suffixes *iṣṭhan* and *īyasun*; although *praśasya* is a word denoting an action, the paribhāṣā-indicating form of the sūtra shows that *iṣṭhan* and *īyasun* come after *praśasya*; or one may say it means *praśastatva* ("excellence"); *atiśāyane tamabiṣṭhanau*, *dvivacanavibhajyopapade tarabīyasunau* [no numbers printed]; there is no conflict with *ajādī guṇavacanād eva* [Pā. Sū. 5-3-58]; *prakṛtyaikāc* — प्रकृत्यैकाच् — [Pā. Sū. 6-4-163]: a one-syllable word keeps its natural form before *iṣṭhan*, *imanic* and *īyasun*, i.e. there is no *ṭi*-loss and so on; *ād guṇaḥ*; the suffix being *nit*, the end of the suffix is first-syllable acute.
+- **vasuḥ**: "*vāsayati sarvam iti vasuḥ*": the root *vasa nivāse*, with an implicit causative sense; *śṛsvasnihitrapiṣivasihanikledibandhimanibhyaś ca* — शृस्वस्निहित्रप्यसिवसिहनिक्लेदिबन्धिमनिभ्यश्च — [U. Sū. 1-10]: the suffix *u*; *dhānye nit* [U. Sū. 1-9]: *nit* is carried over, so the suffix *u* is *nit* and the end of the suffix is first-syllable acute. Rik 5 ends here (*|| 5 ||*).
 
 ---
 
