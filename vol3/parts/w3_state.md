@@ -5,11 +5,13 @@ incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
-Part (2): done through Ṛk 31.17 (p. 584 = PDF 598); anāhitāgni note moved into Ṛk 31.15 (done).
-Next unit: Ṛk 31.18 (heading "Pages 584–587", PDF 598–601).
+Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
+Next unit: Sūkta 32 heading/introduction (p. 587, PDF 601), then Ṛk 32.1 (heading "Pages 588–592", PDF 602–).
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
+- p. 585/587: Ṛ. Saṃ. 1-7-7 (bhāṣya and grammar), p. 586: 10-4-7 — digits read as flat-footed 7.
+- pp. 578, 581: strokes over ध्वा/गा (31.16) and वहा with stroke on व + bar on हा (31.17) recorded as printed.
 - p. 553: the lower right of the page is cut off in the better scan; read from the old scan (PDF 568).
 - Recurring glyph question: flat-footed 7 vs curled 2 and ಇ-like 3 vs 2 in Nirukta refs (pp. 549, 552: Ni. 3-13, 3-9 as read).
 - p. 534: Ṛk 31.4 line-1 [accent ?]; p. 537 quotation मी [?]; p. 535 bhāṣya उ. ४-१३१ vs grammar U. sū. 4-671.
