@@ -8415,13 +8415,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 43.3 (pp. 473–475, PDF 487–489)
 
-**Saṃhitā-pāṭha** *(p. 473; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 473; Saṃhitā accents as printed; Pada unaccented.)*
 
-> **यथा नो मित्रो वरुणो यथा रुद्रश्चिकेतति ।**
-> **यथा विश्वे सजोषसः ॥ ३ ॥**
+> **यथा॑ नो मि॒त्रो वरु॑णो॒ यथा॑ रु॒द्रश्चिके॑तति ।**
+> **यथा॒ विश्वे॑ स॒जोष॑सः ॥ ३ ॥**
 
-*yathā no mitro varuṇo yathā rudraś ciketati |*
-*yathā viśve sajoṣasaḥ || 3 ||*
+*yáthā no mitró váruṇo yáthā rudráś cíketati |*
+*yáthā víśve sajóṣasaḥ || 3 ||*
 
 **Pada-pāṭha** *(p. 473)*
 
@@ -8433,11 +8433,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(pp. 473–474)*
 
-> **मित्रो वरुणश्च नोऽस्मान्यथा येन प्रकारेण चिकेतति अनुग्राह्यत्वेन जानाति । रुद्रोऽपि यथा चिकेतति । सजोषसः समानप्रीतयो विश्वे सर्वे देवा यथा चिकेतन्ति [?] । तथा भवत्विति शेषः । यद्वा । यथाशब्दोपेतमन्त्रद्वयस्य तथा कदा वोचेमेति पूर्वत्रान्वयः ॥ चिकेतति । कित ज्ञाने । लेट्यडागमः । नाभ्यस्तस्याचि पिति सार्वधातुके । पा. ७-३-८७ [?] । इति गुणनिषेधो न भवति । बहुलं छन्दसीति वक्तव्यमिति वचनात् । सार्वधातुकत्वाच्चाभ्यस्तानामादिरित्याद्युदात्तत्वं । सजोषसः । जुषी प्रीतिसेवनयोः । समानं जुषन्तीति सजोषसः । समानस्य छन्दसीति सभावः । असुनो नित्त्वादुत्तरपदस्याद्युदात्तत्वं । तदेनं कृदुत्तरपदप्रकृतिस्वरत्वेन शिष्यते ॥ ३ ॥**
+> **मित्रो वरुणश्च नोऽस्मान्यथा येन प्रकारेण चिकेतति अनुग्राह्यत्वेन जानाति । रुद्रोऽपि यथा चिकेतति । सजोषसः समानप्रीतयो विश्वे सर्वे देवा यथा चिकेतन्ति । तथा भवत्विति शेषः । यद्वा । यथाशब्दोपेतमन्त्रद्वयस्य तथा कदा वोचेमेति पूर्वत्रान्वयः ॥ चिकेतति । कित ज्ञाने । लेट्यडागमः । नाभ्यस्तस्येति । पा. ७-३-८७ । इति गुणनिषेधो न भवति । बहुलं छन्दसीति वक्तव्यमिति वचनात् । सार्वधातुकत्वाच्चाभ्यस्तानामादिरित्याद्युदात्तत्वं । सजोषसः । जुषी प्रीतिसेवनयोः । समानं जुषन्तीति सजोषसः । समानस्य छन्दसीति सभावः । असुनो नित्त्वादुत्तरपदस्याद्युदात्तत्वं । तदेनं कृदुत्तरपदप्रकृतिस्वरत्वेन शिष्यते ॥ ३ ॥**
 
-*mitro varuṇaś ca no 'smān yathā yena prakāreṇa ciketati anugrāhyatvena jānāti | rudro 'pi yathā ciketati | sajoṣasaḥ samānaprītayo viśve sarve devā yathā ciketanti [?] | tathā bhavatv iti śeṣaḥ | yadvā | yathāśabdopetamantradvayasya tathā kadā vocemeti pūrvatrānvayaḥ || ciketati | kita jñāne | leṭy aḍāgamaḥ | nābhyastasyāci pite sārvadhātuke | pā. 7-3-87 [?] | iti guṇaniṣedho na bhavati | bahulaṃ chandasīti vaktavyam iti vacanāt | sārvadhātukatvāc cābhyastānām ādir ity ādyudāttatvaṃ | sajoṣasaḥ | juṣī prītisevanayoḥ | samānaṃ juṣantīti sajoṣasaḥ | samānasya chandasīti sabhāvaḥ | asuno nittvād uttarapadasyādyudāttatvaṃ | tad enaṃ kṛduttarapadaprakṛtisvaratvena śiṣyate || 3 ||*
+*mitro varuṇaś ca no 'smān yathā yena prakāreṇa ciketati anugrāhyatvena jānāti | rudro 'pi yathā ciketati | sajoṣasaḥ samānaprītayo viśve sarve devā yathā ciketanti | tathā bhavatv iti śeṣaḥ | yadvā | yathāśabdopetamantradvayasya tathā kadā vocemeti pūrvatrānvayaḥ || ciketati | kita jñāne | leṭy aḍāgamaḥ | nābhyastasyeti | pā. 7-3-87 | iti guṇaniṣedho na bhavati | bahulaṃ chandasīti vaktavyam iti vacanāt | sārvadhātukatvāc cābhyastānām ādir ity ādyudāttatvaṃ | sajoṣasaḥ | juṣī prītisevanayoḥ | samānaṃ juṣantīti sajoṣasaḥ | samānasya chandasīti sabhāvaḥ | asuno nittvād uttarapadasyādyudāttatvaṃ | tad enaṃ kṛduttarapadaprakṛtisvaratvena śiṣyate || 3 ||*
 
-*(The word I give as "ciketanti" in the first sentence of the bhāṣya is printed* ciketaṃti*, doubtful [?].)*
+*(The print has* ciketaṃti *(anusvāra for the nasal), given as* ciketanti*.)*
 
 **Translation:** "As *mitraḥ varuṇaḥ* — Mitra and Varuṇa — *naḥ*, us, *yathā*, in whatever way, *ciketati*, take note of [as to be favoured]; as Rudra also takes note; as *viśve sajoṣasaḥ*, all the gods who are united in pleasure, take note — so let it be: so the remainder. Or, [the two ṛks that contain *yathā*] are to be connected with the preceding: 'in that way, when shall we recite?' *Ciketati*: root *kita jñāne*; *leṭ* with the augment *aṭ*; the prohibition of *guṇa* by *nābhyastasyāci…* does not apply, because of the statement *bahulaṃ chandasīti vaktavyam*; because it is *sārvadhātuka*, first-syllable acute by *abhyastānām ādiḥ*. *Sajoṣasaḥ*: root *juṣī prītisevanayoḥ*; '*samānaṃ juṣante*': *sajoṣasaḥ*; *sa* for *samāna* by *samānasya chandasi*; because *asun* is *nit*, the first syllable of the latter member is acute; this is then laid down as the accent of the first member of a *kṛt*-ending compound."
 
@@ -8452,9 +8452,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **sajoṣasaḥ** = *juṣī prītisevanayoḥ | samānaṃ juṣantīti sajoṣasaḥ | samānaprīteyaḥ* — "those who are equal in affection, or satisfied with equal service."
 
 **Vyākaraṇa-prakriyā** *(pp. 474–475 — grammar pages, noted briefly)*
-- **ciketati**: *kita nivāse rogāpanayane ca*, first class; *kita jñāne*, *juhotyādi*: the root *kita jñāne* is not found in the present *dhātupāṭhas*; it makes no difference whether one takes the unaccompanied root *kita* in the *juhotyādi*; or, with the sense of knowing, the root of the first class, with *śap* → *ślu* by *bahulagrahaṇa*; or the augment *tuk* by Vedic usage for the root *kita*. After the root, *leṭ*, *tip*, the augment *aṭ*; *śap* → *ślu*, doubling: *kit + kit + ati*; *kuhoś cuḥ* gives *c*; *nābhyastasyāci piti sārvadhātuke* — नाभ्यस्तस्याचि पिति सार्वधातुके — [Pā. 7-3-87 as read]: the prohibition of *guṇa* of the light penultimate of a reduplicated stem before a vowel-initial *pit* *sārvadhātuka* would apply; but the vārttikakāra says *bahulaṃ chandasīti vaktavyam*, so the prohibition comes only variously in the Veda; here it does not come. Since *ati* is *sārvadhātuka*, *abhyastānām ādiḥ* gives first-syllable acute.
-- **viśve**: *aśūpruṣilaṭikaṇikhaṭivisibhyaḥ kvan* [Uṇ. 1-[?] as read]: after the root *viśa praveśane* the suffix *kvan*.
-- **sajoṣasaḥ**: root *juṣī prītisevanayoḥ*; "*samānaṃ juṣante*": after *juṣ*, with *samāna* as *upapada*, *sarvadhātubhyo 'sun* [Uṇ. 4-[?] as read]; *samānasya chandasi mūrdhaprabhṛtyudarkeṣu* — समानस्य छन्दस्यमूर्धप्रभृत्युदर्केषु — [Pā. 6-3-84 as read]: *sa* for *samāna*, except before *mūrdhan*, *prabhṛti*, *udarka*; *asun* is *nit*, so the latter member is first-syllable acute by *ñnityādir nityam*; after the compound, *gatikārakopapadāt kṛt* gives the accent of the latter *kṛt*-ending member, so the original accent stays. Rik 3 ends here (*|| 3 ||*).
+- **ciketati**: *kita nivāse rogāpanayane ca*, first class; *kita jñāne*, *juhotyādi*: the root *kita jñāne* is not found in the present *dhātupāṭhas*; it makes no difference whether one takes the unaccompanied root *kita* in the *juhotyādi*; or, with the sense of knowing, the root of the first class, with *śap* → *ślu* by *bahulagrahaṇa*; or the augment *tuk* by Vedic usage for the root *kita*. After the root, *leṭ*, *tip*, the augment *aṭ*; *śap* → *ślu*, doubling: *kit + kit + ati*; *kuhoś cuḥ* gives *c*; *nābhyastasyāci piti sārvadhātuke* — नाभ्यस्तस्याचि पिति सार्वधातुके — [Pā. Sū. 7-3-87]: the prohibition of *guṇa* of the light penultimate of a reduplicated stem before a vowel-initial *pit* *sārvadhātuka* would apply; but the vārttikakāra says *bahulaṃ chandasīti vaktavyam*, so the prohibition comes only variously in the Veda; here it does not come. Since *ati* is *sārvadhātuka*, *abhyastānām ādiḥ* gives first-syllable acute.
+- **viśve**: *aśūpruṣilaṭikaṇikhaṭivisibhyaḥ kvan* [U. Sū. 1-49, as printed]: after the root *viśa praveśane* the suffix *kvan*.
+- **sajoṣasaḥ**: root *juṣī prītisevanayoḥ*; "*samānaṃ juṣante*": after *juṣ*, with *samāna* as *upapada*, *sarvadhātubhyo 'sun* [U. Sū. 4-628, as printed]; *samānasya chandasi mūrdhaprabhṛtyudarkeṣu* — समानस्य छन्दस्यमूर्धप्रभृत्युदर्केषु — [Pā. Sū. 6-3-84]: *sa* for *samāna*, except before *mūrdhan*, *prabhṛti*, *udarka*; *asun* is *nit*, so the latter member is first-syllable acute by *ñnityādir nityam*; after the compound, *gatikārakopapadāt kṛt* gives the accent of the latter *kṛt*-ending member, so the original accent stays. Rik 3 ends here (*|| 3 ||*).
 
 ---
 
