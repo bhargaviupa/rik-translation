@@ -4,8 +4,9 @@ Range: (1) Ṛk 26.10 (p. 370 = PDF 384) → end of Sūkta 29 (p. 458); (2) Ṛk
 incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch `claude/pass2-vol3`. Edits log: `review/edits_w3.txt`.
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
-Done through: Ṛk 28.8 (p. 435 upper = PDF 449).
-Next unit: Ṛk 28.9 (pp. 435–437 = PDF 449–451), the last Ṛk of Sūkta 28.
+Done through: end of Sūkta 28 and the Sūkta 29 introductory bhāṣya (p. 438 = PDF 452).
+Next unit: Sūkta 29 heading block (varga [25?] [?], p. 439 = PDF 453) and Ṛk 29.1 (pp. 439–442 = PDF 453–456).
+Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
 (see also v3a_state.md / v3b_state.md)
