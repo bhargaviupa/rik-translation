@@ -11143,13 +11143,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.13 (pp. 601–603, PDF 615–617)
 
-**Saṃhitā-pāṭha** *(p. 601; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 601)*
 
-> **वावसाना विवस्वति सोमस्य पीत्या गिरा ।**
-> **मनुष्वच्छंभू आ गतम् ॥ १३ ॥**
+> **वा॒व॒सा॒ना वि॒वस्व॑ति॒ सोम॑स्य पी॒त्या गि॒रा ।**
+> **म॒नु॒ष्वच्छं॑भू॒ आ ग॑तम् ॥ १३ ॥**
 
-*vāvasānā vivasvati somasya pītyā girā |*
-*manuṣvac chaṃbhū ā gatam || 13 ||*
+*vāvasānā́ vivásvati sómasya pītyā́ girā́ |*
+*manuṣvác chaṃbhū ā́ gatam || 13 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 601)*
 
