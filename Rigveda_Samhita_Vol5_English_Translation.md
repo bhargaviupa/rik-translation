@@ -6969,13 +6969,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 56.4 (pp. 382–385, PDF 398–401)
 
-**Saṃhitā-pāṭha** *(p. 382)*
+**Saṃhitā-pāṭha** *(p. 382; accents as printed)*
 
-> **देवी यदि तविषी त्वावृधोतय इन्द्रं सिषक्त्युषसं न सूर्यः ।**
-> **यो धृष्णुना शवसा बाधते तम इयर्ति रेणुं बृहदर्हरिष्वणिः ॥ ४ ॥**
+> **दे॒वी यदि॒ तवि॑षी॒ त्वावृ॑धो॒तय॒ इन्द्रं॒ सिष॑क्त्यु॒षसं॒ न सूर्यः॑ ।**
+> **यो धृ॒ष्णुना॒ शव॑सा॒ बाध॑ते॒ तम॒ इय॑र्ति रे॒णुं बृ॒हद॑र्हरि॒ष्वणिः॑ ॥ ४ ॥**
 
-*devī yadi taviṣī tvāvṛdhotaya indraṃ siṣakty uṣasaṃ na sūryaḥ |*
-*yo dhṛṣṇunā śavasā bādhate tama iyarti reṇuṃ bṛhad arhariṣvaṇiḥ || 4 ||*
+*devī́ yádi táviṣī tvā́vṛdhotáya índraṃ síṣakty uṣásaṃ ná sū́ryaḥ |*
+*yó dhṛṣṇúnā śávasā bā́dhate táma íyarti reṇúṃ bṛhád arhariṣváṇiḥ || 4 ||*
 
 **Pada-pāṭha** *(p. 382)*
 
@@ -6987,11 +6987,11 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 383)*
 
-> **यः इन्द्रो धृष्णुना धर्षकेण शवसा बलेन तमस्तमोरूपं वृत्रादिमसुरं बाधते हिनस्ति । ऊतये रक्षणाय त्वावृधा त्वयेगा स्तोत्रा वर्धिशं तमिन्द्रं देवी तविषी द्योतमानं बलं यदि यदा सिषक्ति समन्वेति । सेवते इति यास्कः । सूर्य उषसं न यथोषोदेवतां सेवते । नित्यं तत्संबद्धो भवतीत्यर्थः । तदानीमर्हरिष्वणिः । गच्छन्तो हरन्तीत्यर्हरयः शत्रवः । तेषां व्यथोत्पादनेन स्वनयिता शब्दयितेन्द्रो रेणुं रेषणं हिंसनं बृहत् प्रभूतमियर्ति । शत्रून् गमयेति ॥**
+> **यः इन्द्रो धृष्णुना धर्षकेण शवसा बलेन तमस्तमोरूपं वृत्रादिमसुरं बाधते हिनस्ति । ऊतये रक्षणाय त्वावृधा त्वया स्तोत्रा वर्धितं तमिन्द्रं देवी तविषी द्योतमानं बलं यदि यदा सिषक्ति समन्वेति । सेवते इति यास्कः । सूर्य उषसं न यथोषोदेवतां सेवते । नित्यं तत्संबद्धो भवतीत्यर्थः । तदानीमर्हरिष्वणिः । गच्छन्तो हरन्तीत्यर्हरयः शत्रवः । तेषां व्यथोत्पादनेन स्वनयिता शब्दयितेन्द्रो रेणुं रेषणं हिंसनं बृहत् प्रभूतमियर्ति । शत्रून् गमयेति ॥**
 
-*yaḥ indro dhṛṣṇunā dharṣakeṇa śavasā balena tamas tamorūpaṃ vṛtrādim asuraṃ bādhate hinasti | ūtaye rakṣaṇāya tvāvṛdhā tvayegā [?] stotrā vardhiśaṃ [?] tam indraṃ devī taviṣī dyotamānaṃ balaṃ yadi yadā siṣakti samanveti | sevate iti yāskaḥ | sūrya uṣasaṃ na yathoṣodevatāṃ sevate | nityaṃ tatsaṃbaddho bhavatīty arthaḥ | tadānīm arhariṣvaṇiḥ | gacchanto harantīty arharayaḥ śatravaḥ | teṣāṃ vyathotpādanena svanayitā śabdayitendro reṇuṃ reṣaṇaṃ hiṃsanaṃ bṛhat prabhūtam iyarti | śatrūn gamayeti ||*
+*yaḥ indro dhṛṣṇunā dharṣakeṇa śavasā balena tamas tamorūpaṃ vṛtrādim asuraṃ bādhate hinasti | ūtaye rakṣaṇāya tvāvṛdhā tvayā stotrā vardhitaṃ tam indraṃ devī taviṣī dyotamānaṃ balaṃ yadi yadā siṣakti samanveti | sevate iti yāskaḥ | sūrya uṣasaṃ na yathoṣodevatāṃ sevate | nityaṃ tatsaṃbaddho bhavatīty arthaḥ | tadānīm arhariṣvaṇiḥ | gacchanto harantīty arharayaḥ śatravaḥ | teṣāṃ vyathotpādanena svanayitā śabdayitendro reṇuṃ reṣaṇaṃ hiṃsanaṃ bṛhat prabhūtam iyarti | śatrūn gamayeti ||*
 
-*(Reading note: "*tvayegā stotrā vardhiśaṃ*" is crowded, [?]; it appears to say "*tvayā stotrā vardhitam*" — the Pratipadārtha: "(that Indra) who is increased by you, the praiser". Sense: "when the shining power (*taviṣī*) attends that Indra, who is increased by you [as praiser] for [your] protection, as the sun attends the dawn." The grammatical tail (p. 383) is characterized: on* tvāvṛdhā *(*tvaṃ vardhayatīti*, Vedic* kvip *with *āluk*; the prefix *tvā* for *yuṣmad*),* siṣakti *(*saca samavāye*, *juhotyādi*; reduplication; *ślu*),* arhariṣvaṇiḥ *(*hṛ haraṇe*, *arti-pipartyoś ca*, *ac*, *ṇi*; *svan*),* reṇum *(*rī gatireṣaṇayoḥ*; Uṇādi *nu*),* iyarti *(*ṛ gatau*, *juhotyādi*; reduplication with *iy*) — see the Kannada notes on pp. 383–385.)*
+*(The print reads "*tvayā stotrā vardhitaṃ*" — the Pratipadārtha: "(that Indra) who is increased by you, the praiser". Sense: "when the shining power (*taviṣī*) attends that Indra, who is increased by you [as praiser] for [your] protection, as the sun attends the dawn." The grammatical tail (p. 383) is characterized: on* tvāvṛdhā *(*tvaṃ vardhayatīti*, Vedic* kvip *with *āluk*; the prefix *tvā* for *yuṣmad*),* siṣakti *(*saca samavāye*, *juhotyādi*; reduplication; *ślu*),* arhariṣvaṇiḥ *(*hṛ haraṇe*, *arti-pipartyoś ca*, *ac*, *ṇi*; *svan*),* reṇum *(*rī gatireṣaṇayoḥ*; Uṇādi *nu*),* iyarti *(*ṛ gatau*, *juhotyādi*; reduplication with *iy*) — see the Kannada notes on pp. 383–385.)*
 
 **Translation of the bhāṣya:** "*Yaḥ*, the Indra who, *dhṛṣṇunā śavasā*, with enemy-overpowering strength, *tamaḥ bādhate*, strikes the darkness — Vṛtra and the like of the nature of darkness; *ūtaye*, for protection, *tvāvṛdhā*, increased by you the praiser: *taṃ indram*, that Indra, *devī taviṣī*, the shining power, *yadi*, when, *siṣakti*, attends — *saca* is 'to serve' says Yāska — *sūryaḥ uṣasaṃ na*, as the sun attends the dawn goddess; that is, is always joined to him. Then *arhariṣvaṇiḥ*: the *arharayaḥ* are enemies, who go and seize; Indra, who by causing them pain makes them sound (cry out), *reṇum*, harm, injury, *bṛhat*, great, *iyarti*, sends: he makes the enemies go."
 
@@ -7009,15 +7009,15 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (p. 384)**
 - **tvāvṛdhā** — "*Tvayā vardhate iti tvāvṛt*: this word is explained as 'one who is increased by you the praiser'."
-- **siṣakti** — "*Samavaiti* — *sevate iti yāskaḥ* (Ni. 3-21 as read [?]): though the root *saca samavāye* would give 'joins', the Nirukta gives 'serves'; explaining the Ṛgveda passage '*saneḥ siṣakti yas turaḥ*' (Ṛ. Saṃ. 10-… as read [?]), *siṣaktīti sacate*, the Nirukta says 'of one who serves'."
+- **siṣakti** — "*Samavaiti* — *sevate iti yāskaḥ* (Niru. 3-21): though the root *saca samavāye* would give 'joins', the Nirukta gives 'serves'; explaining the Ṛgveda passage '*sanaḥ siṣaktu yas turaḥ*' (Ṛ. Saṃ. 1-18-2), *siṣaktu sacate iti sevamānasya*, the Nirukta says 'of one who serves'."
 - **arhariṣvaṇiḥ** — "*Gacchanto haranti iti arharayaḥ śatravaḥ*: the enemies who go and plunder everything on the highway; Indra, who punishes such hostile ones so that they cry out in pain, is *arhariṣvaṇi*."
 - **reṇum** — "*Reṣaṇaṃ hiṃsanam*: it means that Indra gives great harm to his enemies."
 
 **Vyākaraṇa-prakriyā** *(pp. 384–385 — grammar pages, noted briefly)*
 - **tvāvṛdhā**: "*tvayā vardhate iti tvāvṛt*"; *vṛdhu vṛddhau*, *kvip ca*; *pratyayottarapadayoś ca*: *tva* for *yuṣmad*; *śeṣe lopaḥ*; in the Veda *ā* for *t*… *tvāvṛdhā*: *supāṃ suluk*: *ā* for the instrumental/dual.
-- **siṣakti**: *saca samavāye*; *laṭ*; *śap* → *ślu* (*bahulaṃ chandasi*); reduplication; *i* for the reduplicative; *co kuḥ*: *ka* for *c*; *yadi* before: *niṣātasya*… no *nighāta* (*nipātair yadyadihanta…*); *anudātte ca*: initial-acute.
+- **siṣakti**: *saca samavāye*; *laṭ*; *śap* → *ślu* (*bahulaṃ chandasi*); reduplication; *i* for the reduplicative; *co kuḥ*: *ka* for *c*; *yadi* before: *niṣātasya*… no *nighāta* (*nipātair yadyadihanta…*); *anudātte ca* (Pā. sū. 6-1-190): initial-acute.
 - **bādhate**: *bādhṛ loḍane*; *laṭ*; *yaḥ* before, so no *nighāta*; the root's accent: initial-acute.
-- **iyarti**: *ṛ gatau*, *juhotyādi*; *ṇic*-sense included; *ślu*; reduplication; *ur at*; *artipiparty…*: *i*; *abhyāsasyāsavarṇe*: *iy*; *guṇa*: *iyarti*; *anudātte ca*: reduplicative initial-acute; the preceding word is of another sentence, so no *nighāta*.
+- **iyarti**: *ṛ gatau*, *juhotyādi*; *ṇic*-sense included; *ślu*; reduplication; *ur at*; *artipiparty…* (Pā. sū. 7-4-77): *i*; *abhyāsasyāsavarṇe* (Pā. sū. 6-4-78): *iy*; *guṇa*: *iyarti*; *anudātte ca*: reduplicative initial-acute; the preceding word is of another sentence, so no *nighāta*.
 - **reṇum**: *rī gatireṣaṇayoḥ*; Uṇādi *nu*; *guṇa*; *ṇatva*; end-acute.
 - **arhariṣvaṇiḥ**: *ṛ gatau*; *anyebhyo 'pi dṛśyante*: *viṭ*; *guṇa*: *ar*; *arharayaḥ* = *arayaḥ*, 'going and carrying off': *ariḥ gacchantaś ca ime haraya ca iti arharayaḥ*; *svan* (*svana dhvana śabde*, *hetumati ca*: *ṇic*; *inan* after *ṇic*; *ṇeraniṭi*: loss of *ṇic*; *ghaṭādi* so *mit*: *mitāṃ hrasvaḥ*): *svani*; *arhari*, a *kāraka*-first word, so *gatikārakopapadāt kṛt*: the accent of the *kṛdanta*. **|| 4 ||**
 
