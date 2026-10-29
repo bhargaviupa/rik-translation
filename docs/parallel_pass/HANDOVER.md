@@ -2,18 +2,18 @@
 
 Status: **PAUSED by the user (Oct 29, ~04:40 UTC).** All 9 workers finished their current Ṛk, pushed, and stopped. All 10 scheduled tasks are **disabled** (not deleted). **All 9 branches were merged into `main` on Oct 29 at their pause points** (each merge checked: every added line present, no heading lost or duplicated, [?] counts add up: Vol 3 760→537, Vol 4 2,136→976, Vol 5 1,918→1,238). New workers should start from `main` (or fast-forward their branch to `main` first).
 
-## Next run: 6 workers, 2 per volume (user, Oct 29)
+## Next run: 6 workers allocated by pages left (user, Oct 29)
 
-Start each from `main` on a **new** branch (the 9 old branches are fully merged and may be deleted). Each worker takes the listed sub-ranges in order; its old part state files (`volN/parts/v*_state.md`) give the exact resume points and reading notes.
+Start each from `main` on a **new** branch (the 9 old branches are fully merged and may be deleted). Each worker takes its sub-ranges in the order listed; the old part state files give the exact resume points and reading notes. Loads are about equal, so all six should finish at about the same time.
 
-| ID | Sub-ranges (printed pages left) | Pages | Branch | Old part files to read |
+| ID | Sub-ranges (printed pages) | Pages | Branch | Old part files to read |
 |---|---|---|---|---|
-| w3a | Vol 3: Ṛk 26.10 (p. 370) → end of Sūkta 29 (p. 458) | ~88 | claude/pass2-vol3-a | `vol3/parts/v3a_state.md` |
-| w3b | Vol 3: Ṛk 31.4 (p. 534) → end (p. 647), incl. moving the *anāhitāgni* note into Ṛk 31.15 at p. 576 | ~113 | claude/pass2-vol3-b | `vol3/parts/v3b_state.md` |
+| w3 | Vol 3: Ṛk 26.10 (p. 370) → end of Sūkta 29 (p. 458); then Ṛk 31.4 (p. 534) → end (p. 647), incl. moving the *anāhitāgni* note into Ṛk 31.15 at p. 576 | ~201 | claude/pass2-vol3 | `vol3/parts/v3a_state.md`, `v3b_state.md` |
 | w4a | Vol 4: Ṛk 34.10 (p. 117) → end of Sūkta 35 (p. 175); then Ṛk 37.11 (p. 281) → end of Sūkta 38 (p. 338) | ~116 | claude/pass2-vol4-a | `vol4/parts/v4a_state.md`, `v4b_state.md` |
 | w4b | Vol 4: Ṛk 40.8 (p. 406) → end of Sūkta 43 (p. 492); then Ṛk 46.2 (p. 574) → end (p. 608) | ~122 | claude/pass2-vol4-b | `vol4/parts/v4c_state.md`, `v4d_state.md` |
-| w5a | Vol 5: Ṛk 49.2 (p. 95) → end of Sūkta 51 (p. 211); then Ṛk 53.8 (p. 290) → end of Sūkta 56 (p. 391) | ~219 | claude/pass2-vol5-a | `vol5/parts/v5a_state.md`, `v5b_state.md` |
-| w5b | Vol 5: Ṛk 60.3 (p. 469) → end of Sūktas 60–61 and the Pariśiṣṭa (p. 708) | ~240 | claude/pass2-vol5-b | `vol5/parts/v5c_state.md` |
+| w5a | Vol 5: Ṛk 49.2 (p. 95) → end of Sūkta 51 (p. 211); then Ṛk 53.8 (p. 290) → end of Sūkta 53 (p. 302) | ~130 | claude/pass2-vol5-a | `vol5/parts/v5a_state.md`, `v5b_state.md` |
+| w5b | Vol 5: Sūktas 54–56 (pp. 303–391); then Ṛk 60.3 (p. 469) → end of Sūkta 61 (p. 530) | ~151 | claude/pass2-vol5-b | `vol5/parts/v5b_state.md`, `v5c_state.md` |
+| w5c | Vol 5: the Pariśiṣṭa (pp. 531–708) to the end of the file | ~178 | claude/pass2-vol5-c | `vol5/parts/v5c_state.md` (page map) |
 
 Gaps not in any range are already done (the first pass covered them). New state and log files: `volN/parts/<id>_state.md`, `volN/review/edits_<id>.txt`, tools ending `_<id>.py`. Pages left at the pause: Vol 3 ≈ 201, Vol 4 ≈ 238, Vol 5 ≈ 459 (≈ 900 total).
 
