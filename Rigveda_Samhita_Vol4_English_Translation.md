@@ -10950,13 +10950,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.9 (pp. 592–595, PDF 606–609)
 
-**Saṃhitā-pāṭha** *(p. 592; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 592)*
 
-> **दिवस्कण्वास इन्दवो वसु सिन्धूनां पदे ।**
-> **स्वं वव्रिं कुह धित्सथः ॥ ९ ॥**
+> **दि॒वस्क॑ण्वास॒ इन्द॑वो॒ वसु॒ सिन्धू॑नां प॒दे ।**
+> **स्वं व॒व्रिं कुह॑ धित्सथः ॥ ९ ॥**
 
-*divaskaṇvāsa indavo vasu sindhūnāṃ pade |*
-*svaṃ vavriṃ kuha dhitsathaḥ || 9 ||*
+*diváskaṇvāsa índavo vásu síndhūnāṃ padé |*
+*svaṃ vavríṃ kúha dhitsathaḥ || 9 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 593)*
 
@@ -10968,9 +10970,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 593)*
 
-> **हे कण्वासः कण्वपुत्राः । यद्वा । मेधाविन ऋत्विजः । अश्विनाविस्थं पृच्छतेति शेषः । कथमिति तदुच्यते । दिवो द्युलोकसकाशादिन्दवः सूर्यरश्मयः प्रादुर्भूताः । सिन्धूनामपां वृष्टिरूपाणां स्यन्दनस्वभावानां पदे स्थानेऽन्तरिक्षे वसु अस्मदादिनिवासहेतुभूतमुषःकालीनं ज्योतिराविर्भूतमिति शेषः । अस्मिन्नवसरे युवां स्वं वव्रिं स्वकीयं रूपं कुह धित्सथः । कुत्र स्थापयितुमिच्छथः । अत्रागत्य प्रदर्शनीयमिति तात्पर्यार्थः ॥ कुह । वा ह च छन्दसि । पा. ५-३-१३ [?] । इति किंशब्दात्सप्तम्यर्थे हप्रत्ययः । कु तिहोः । पा. ७-२-१०४ [?] । इति किमः कुः । धित्सथः । डुधाञ् धारणपोषणयोः । सनि मीमाघुरभलभशकपतपदामच इस् । पा. ७-४-५४ [?] । इत्याकारस्य इसादेशः । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ [?] । इत्यभ्यासलोपः । सः स्यार्धधातुके । पा. ७-४-४९ [?] । इति सकारस्य तकारः ॥**
+> **हे कण्वासः कण्वपुत्राः । यद्वा । मेधाविन ऋत्विजः । अश्विनाविस्थं पृच्छतेति शेषः । कथमिति तदुच्यते । दिवो द्युलोकसकाशादिन्दवः सूर्यरश्मयः प्रादुर्भूताः । सिन्धूनामपां वृष्टिरूपाणां स्यन्दनस्वभावानां पदे स्थानेऽन्तरिक्षे वसु अस्मदादिनिवासहेतुभूतमुषःकालीनं ज्योतिराविर्भूतमिति शेषः । अस्मिन्नवसरे युवां स्वं वव्रिं स्वकीयं रूपं कुह धित्सथः । कुत्र स्थापयितुमिच्छथः । अत्रागत्य प्रदर्शनीयमिति तात्पर्यार्थः ॥ कुह । वा ह च छन्दसि । पा. ५-३-१३ । इति किंशब्दात्सप्तम्यर्थे हप्रत्ययः । कु तिहोः । पा. ७-२-१०४ । इति किमः कुः । धित्सथः । डुधाञ् धारणपोषणयोः । सनि मीमाघुरभलभशकपतपदामच इस् । पा. ७-४-५४ [?] । इत्याकारस्य इसादेशः । अत्र लोपोऽभ्यासस्य । पा. ७-४-५८ [?] । इत्यभ्यासलोपः । सः स्यार्धधातुके । पा. ७-४-४९ [?] । इति सकारस्य तकारः ॥**
 
-*he kaṇvāsaḥ kaṇvaputrāḥ | yadvā | medhāvina ṛtvijaḥ | aśvināv itthaṃ pṛcchateti śeṣaḥ | katham iti tad ucyate | divo dyulokasakāśād indavaḥ sūryaraśmayaḥ prādurbhūtāḥ | sindhūnām apāṃ vṛṣṭirūpāṇāṃ syandanasvabhāvānāṃ pade sthāne 'ntarikṣe vasu asmadādinivāsahetubhūtam uṣaḥkālīnaṃ jyotir āvirbhūtam iti śeṣaḥ | asminn avasare yuvāṃ svaṃ vavriṃ svakīyaṃ rūpaṃ kuha dhitsathaḥ | kutra sthāpayitum icchathaḥ | atrāgatya pradarśanīyam iti tātparyārthaḥ || kuha | vā ha ca chandasi | pā. 5-3-13 [?] | iti kiṃśabdāt saptamyarthe hapratyayaḥ | ku tihoḥ | pā. 7-2-104 [?] | iti kimaḥ kuḥ | dhitsathaḥ | ḍudhāñ dhāraṇapoṣaṇayoḥ | sani mīmāghurabhalabhaśakapatapadām aca is | pā. 7-4-54 [?] | ity ākārasya isādeśaḥ | atra lopo 'bhyāsasya | pā. 7-4-58 [?] | ity abhyāsalopaḥ | saḥ syārdhadhātuke | pā. 7-4-49 [?] | iti sakārasya takāraḥ ||*
+*he kaṇvāsaḥ kaṇvaputrāḥ | yadvā | medhāvina ṛtvijaḥ | aśvināv itthaṃ pṛcchateti śeṣaḥ | katham iti tad ucyate | divo dyulokasakāśād indavaḥ sūryaraśmayaḥ prādurbhūtāḥ | sindhūnām apāṃ vṛṣṭirūpāṇāṃ syandanasvabhāvānāṃ pade sthāne 'ntarikṣe vasu asmadādinivāsahetubhūtam uṣaḥkālīnaṃ jyotir āvirbhūtam iti śeṣaḥ | asminn avasare yuvāṃ svaṃ vavriṃ svakīyaṃ rūpaṃ kuha dhitsathaḥ | kutra sthāpayitum icchathaḥ | atrāgatya pradarśanīyam iti tātparyārthaḥ || kuha | vā ha ca chandasi | pā. 5-3-13 | iti kiṃśabdāt saptamyarthe hapratyayaḥ | ku tihoḥ | pā. 7-2-104 | iti kimaḥ kuḥ | dhitsathaḥ | ḍudhāñ dhāraṇapoṣaṇayoḥ | sani mīmāghurabhalabhaśakapatapadām aca is | pā. 7-4-54 [?] | ity ākārasya isādeśaḥ | atra lopo 'bhyāsasya | pā. 7-4-58 [?] | ity abhyāsalopaḥ | saḥ syārdhadhātuke | pā. 7-4-49 [?] | iti sakārasya takāraḥ ||*
 
 **Translation:** "O *kaṇvāsaḥ*, O sons of Kaṇva; or, O wise priests: ask the Aśvins thus (the words 'ask' being understood). How? That is told. *Divaḥ*, from the heaven-world, *indavaḥ*, the Sun's rays have appeared. *Sindhūnām pade*, in the place of the waters — which are of the nature of flowing as rain — that is, in the atmosphere, *vasu*, the light of the time of dawn, the cause of our dwelling and so on, has appeared (so the sentence is completed). At this moment, *svaṃ vavrim*, your own form, *kuha dhitsathaḥ*, where do you wish to place it? Where do you wish to set it? The sense is: it is to be shown, coming here."
 
@@ -10983,20 +10985,22 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 594** — "The sense of this ṛk does not fit properly. Each one interprets this ṛk in a different way. The commentator's sense indicates one kind of idea; it is not clear whether this is the intention of the ṛṣi."
 
 **Vyākaraṇa-prakriyā** *(pp. 594–595 — grammar pages, noted briefly)*
-- **kuha**: *vā ha ca chandasi* (Pā. 5-3-13 as read [?]) — वा ह च छन्दसि — in the Chandas the suffix *ha* after the word *kim* in the locative sense; *kṛttaddhitasamāsāś ca* (Pā. 1-2-46 as read) gives the *taddhita*-ending word the name *prātipadika*; *supo dhātuprātipadikayoḥ* (Pā. 2-4-71 as read) drops the locative ending; *kim + ha*; *prāgdiśo vibhaktiḥ* (Pā. 5-3-1 as read) — the suffixes enjoined from here up to *diśaśabdebhyaḥ…* (Pā. 5-3-27 as read) are given the name *vibhakti*; *kutiho* (Pā. 7-2-104 as read) — *ku* for *kim* before a *t*- or *h*-beginning *vibhakti*: *kuha*. If *ha* were stated as an independent suffix, the suffix-accent would come and the end would be acute; so the Kannada author holds that *saptamyās tral* (Pā. 5-3-10 as read) gives *tral*, and *ha* is substituted for it, and that *vā ha ca chandasi* means "in the Chandas, after *kim*, *ha* replaces *tral*"; then by *lititi* the letter before the suffix is acute, the rest unaccented, and by *udāttād anudāttasya svaritaḥ* (Pā. 8-4-66 as read) the suffix is *svarita*.
+- **kuha**: *vā ha ca chandasi* (Pā. 5-3-13) — वा ह च छन्दसि — in the Chandas the suffix *ha* after the word *kim* in the locative sense; *kṛttaddhitasamāsāś ca* (Pā. 1-2-46 as read) gives the *taddhita*-ending word the name *prātipadika*; *supo dhātuprātipadikayoḥ* (Pā. 2-4-71 as read) drops the locative ending; *kim + ha*; *prāgdiśo vibhaktiḥ* (Pā. 5-3-1 as read) — the suffixes enjoined from here up to *diśaśabdebhyaḥ…* (Pā. 5-3-27 as read) are given the name *vibhakti*; *kutiho* (Pā. 7-2-104 as read) — *ku* for *kim* before a *t*- or *h*-beginning *vibhakti*: *kuha*. If *ha* were stated as an independent suffix, the suffix-accent would come and the end would be acute; so the Kannada author holds that *saptamyās tral* (Pā. 5-3-10 as read) gives *tral*, and *ha* is substituted for it, and that *vā ha ca chandasi* means "in the Chandas, after *kim*, *ha* replaces *tral*"; then by *lititi* the letter before the suffix is acute, the rest unaccented, and by *udāttād anudāttasya svaritaḥ* (Pā. 8-4-66 as read) the suffix is *svarita*.
 - **dhitsathaḥ**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā* (Pā. 3-1-7 as read) gives *san*; *sanyaṅoḥ* (Pā. 6-1-9 as read) doubling; *dhā + dhā + sa*; *sani mīmāghurabhalabhaśakapatapadām aca is* (Pā. 7-4-54 as read) — सनि मीमाघुरभलभशकपतपदामच इस् — before a *san* beginning with *s*, the vowel of these roots is replaced by *is*; so the *ā* of the latter part becomes *is*; *atra lopo 'bhyāsasya* (Pā. 7-4-58 as read) drops the reduplicative syllable: *dhis + sa*; *saḥ syārdhadhātuke* (Pā. 7-4-49 as read) — a *t* for the *s* before an *ārdhadhātuka* beginning with *s*: *dhitsa*; *laṭ*, second person dual *thas*, *śap*, *pararūpa*, *ru*, *visarga*: *dhitsathaḥ*. **|| 9 ||**
 
 ---
 
 ### Rik 46.10 (p. 595 foot, PDF 609–)
 
-**Saṃhitā-pāṭha** *(p. 595; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 595)*
 
-> **अभूदु भा उ अंशवे हिरण्यं प्रति सूर्यः ।**
-> **व्यख्यज्जिह्वयासितः ॥ १० ॥**
+> **अभू॑दु॒ भा उ॑ अं॒शवे॒ हिर॑ण्यं॒ प्रति॒ सूर्यः॑ ।**
+> **व्य॑ख्यज्जि॒ह्वयासि॑तः ॥ १० ॥**
 
-*abhūd u bhā u aṃśave hiraṇyaṃ prati sūryaḥ |*
-*vyakhyaj jihvayāsitaḥ || 10 ||*
+*ábhūd u bhā́ u aṃśáve híraṇyaṃ práti sū́ryaḥ |*
+*vyakhyaj jihváyā́sitaḥ || 10 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 595)*
 
@@ -11010,13 +11014,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 595)*
 
-> **भा उ सूर्यस्य दीप्तिस्त्वंशव उषःकालीनरश्मिसिद्ध्यर्थमभूदु । प्रादुर्भूतैव । सूर्यश्च हिरण्यं प्रति स्वकीयोदयेन हिरण्यसदृशोऽभूत् । अग्निश्चासितः स्वकीयदीप्तेः सूर्यप्रवेशेन स्वयं कृष्णो भूत्वा जिह्वया स्वकीयया ज्वालया व्यख्यत् । प्रकाशितवान् । तस्मादयमश्विनोर्युवयोरागमनकाल इत्यर्थः ॥ अभूत् । भूसुवोस्तिङीति गुणप्रतिषेधः । हिरण्यं प्रति । प्रतिः प्रतिनिधिप्रतिदानयोः । पा. १-४-९२ [?] । इति प्रतेः कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्ते द्वितीया । पा. २-३-८ [?] । इति द्वितीया । अख्यत् । चक्षिङ् व्यक्तायां वाचि । लुङि चक्षिङः ख्याञिति ख्याञादेशः ॥ १० [?] ॥**
+> **भा उ सूर्यस्य दीप्तिस्त्वंशव उषःकालीनरश्मिसिद्ध्यर्थमभूदु । प्रादुर्भूतैव । सूर्यश्च हिरण्यं प्रति स्वकीयोदयेन हिरण्यसदृशोऽभूत् । अग्निश्चासितः स्वकीयदीप्तेः सूर्यप्रवेशेन स्वयं कृष्णो भूत्वा जिह्वया स्वकीयया ज्वालया व्यख्यत् । प्रकाशितवान् । तस्मादयमश्विनोर्युवयोरागमनकाल इत्यर्थः ॥ अभूत् । भूसुवोस्तिङीति गुणप्रतिषेधः । हिरण्यं प्रति । प्रतिः प्रतिनिधिप्रतिदानयोः । पा. १-४-९२ । इति प्रतेः कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्ते द्वितीया । पा. २-३-८ । इति द्वितीया । अख्यत् । चक्षिङ् व्यक्तायां वाचि । लुङि चक्षिङः ख्याञिति ख्याञादेशः ॥ ३४ ॥**
 
-*bhā u sūryasya dīptis tv aṃśava uṣaḥkālīnaraśmisiddhyartham abhūd u | prādurbhūtaiva | sūryaś ca hiraṇyaṃ prati svakīyodayena hiraṇyasadṛśo 'bhūt | agniś cāsitaḥ svakīyadīpteḥ sūryapraveśena svayaṃ kṛṣṇo bhūtvā jihvayā svakīyayā jvālayā vyakhyat | prakāśitavān | tasmād ayam aśvinor yuvayor āgamanakāla ity arthaḥ || abhūt | bhūsuvos tiṅīti guṇapratiṣedhaḥ | hiraṇyaṃ prati | pratiḥ pratinidhipratidānayoḥ | pā. 1-4-92 [?] | iti prater karmapravacanīyatvaṃ | karmapravacanīyayukte dvitīyā | pā. 2-3-8 [?] | iti dvitīyā | akhyat | cakṣiṅ vyaktāyāṃ vācī | luṅi cakṣiṅaḥ khyāñ iti khyāñādeśaḥ || 10 [?] ||*
+*bhā u sūryasya dīptis tv aṃśava uṣaḥkālīnaraśmisiddhyartham abhūd u | prādurbhūtaiva | sūryaś ca hiraṇyaṃ prati svakīyodayena hiraṇyasadṛśo 'bhūt | agniś cāsitaḥ svakīyadīpteḥ sūryapraveśena svayaṃ kṛṣṇo bhūtvā jihvayā svakīyayā jvālayā vyakhyat | prakāśitavān | tasmād ayam aśvinor yuvayor āgamanakāla ity arthaḥ || abhūt | bhūsuvos tiṅīti guṇapratiṣedhaḥ | hiraṇyaṃ prati | pratiḥ pratinidhipratidānayoḥ | pā. 1-4-92 | iti prater karmapravacanīyatvaṃ | karmapravacanīyayukte dvitīyā | pā. 2-3-8 | iti dvitīyā | akhyat | cakṣiṅ vyaktāyāṃ vācī | luṅi cakṣiṅaḥ khyāñ iti khyāñādeśaḥ || 34 ||*
 
-*(The numeral closing the bhāṣya is printed so that it reads like "34" — crowded or a slip for "10" [?]; the Rik is the tenth, as the Saṃhitā and Pada numerals show.)*
+*(The bhāṣya closes with the varga number ॥ ३४ ॥ (34), as printed.)*
 
-**Translation:** "*Bhā*, the splendour of the Sun, *aṃśave*, for the production of the rays of the time of dawn, *abhūt*, has come into being, has appeared. And the Sun, *hiraṇyaṃ prati*, in his own rising, has become like gold. And Agni, *asitaḥ*, (become) dark when the Sun entered his own splendour, having himself become black, *vyakhyat*, has lit up, *jihvayā*, with his own flame. So this is the time of your coming, O Aśvins, is the sense. *Abhūt*: *guṇa* is forbidden by *bhūsuvos tiṅi*. *Hiraṇyaṃ prati*: *prati* in the sense of 'representing' or 'returning' (Pā. 1-4-92 [?]) has the name *karmapravacanīya*; the accusative where a *karmapravacanīya* is joined (Pā. 2-3-8 [?]). *Akhyat*: root *cakṣiṅ vyaktāyāṃ vāci*; in the aorist *khyāñ* is substituted for *cakṣiṅ*."
+**Translation:** "*Bhā*, the splendour of the Sun, *aṃśave*, for the production of the rays of the time of dawn, *abhūt*, has come into being, has appeared. And the Sun, *hiraṇyaṃ prati*, in his own rising, has become like gold. And Agni, *asitaḥ*, (become) dark when the Sun entered his own splendour, having himself become black, *vyakhyat*, has lit up, *jihvayā*, with his own flame. So this is the time of your coming, O Aśvins, is the sense. *Abhūt*: *guṇa* is forbidden by *bhūsuvos tiṅi*. *Hiraṇyaṃ prati*: *prati* in the sense of 'representing' or 'returning' (Pā. 1-4-92) has the name *karmapravacanīya*; the accusative where a *karmapravacanīya* is joined (Pā. 2-3-8). *Akhyat*: root *cakṣiṅ vyaktāyāṃ vāci*; in the aorist *khyāñ* is substituted for *cakṣiṅ*."
 
 *(Pratipadārtha, Bhāvārtha, the source's English, Special Topics and grammar of Rik 10 begin on p. 596 and are not yet written.)*
 
@@ -11046,13 +11050,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.11 (pp. 597–599, PDF 611–613)
 
-**Saṃhitā-pāṭha** *(p. 597; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 597)*
 
-> **अभूदु पारमेतवे पन्था ऋतस्य साधुया ।**
-> **अदर्शि वि स्रुतिर्दिवः ॥ ११ ॥**
+> **अभू॑दु पा॒रमेत॑वे॒ पन्था॑ ऋ॒तस्य॑ साधु॒या ।**
+> **अद॑र्शि वि स्रुतिर्दिवः ॥ ११ ॥**
 
-*abhūd u pāram etave panthā ṛtasya sādhuyā |*
-*adarśi vi srutir divaḥ || 11 ||*
+*ábhūd u pārám étave pánthā ṛtásya sādhuyā́ |*
+*ádarśi vi srutir divaḥ || 11 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 597)*
 
@@ -11064,9 +11070,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 598)*
 
-> **ऋतस्य सूर्यस्य पारमेतवे रात्रेः पारभूतमुदयाद्रिं गन्तुं पन्था मार्गः साधुया समीचीनोऽभूदु । निष्पन्न एव । दिवो द्योतनात्मकस्य सूर्यस्य स्रुतिः प्रसृता दीप्तिर्व्यदर्शि । विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यं ॥ एतवे । इण् गतौ । तुमर्थे सेसेनिति तवेन्प्रत्ययः । साधुया । सुपां सुलुगिति विभक्तेर्याजादेशः । अदर्शि । कर्मणि लुङ् । च्लेश्चिणादेशः । चिणो लुक् । पा. ६-४-१०४ [?] । इति तशब्दस्य लुक् । स्रुतिः । स्रु गतौ । क्तिच्क्तौ च संज्ञायामिति क्तिच् ॥**
+> **ऋतस्य सूर्यस्य पारमेतवे रात्रेः पारभूतमुदयाद्रिं गन्तुं पन्था मार्गः साधुया समीचीनोऽभूदु । निष्पन्न एव । दिवो द्योतनात्मकस्य सूर्यस्य स्रुतिः प्रसृता दीप्तिर्व्यदर्शि । विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यं ॥ एतवे । इण् गतौ । तुमर्थे सेसेनिति तवेन्प्रत्ययः । साधुया । सुपां सुलुगिति विभक्तेर्याजादेशः । अदर्शि । कर्मणि लुङ् । च्लेश्चिणादेशः । चिणो लुक् । पा. ६-४-१०४ । इति तशब्दस्य लुक् । स्रुतिः । स्रु गतौ । क्तिच्क्तौ च संज्ञायामिति क्तिच् ॥**
 
-*ṛtasya sūryasya pārametave rātreḥ pārabhūtam udayādriṃ gantuṃ panthā mārgaḥ sādhuyā samīcīno 'bhūd u | niṣpanna eva | divo dyotanātmakasya sūryasya srutiḥ prasṛtā dīptir vyadarśi | viśeṣeṇa dṛṣṭā | tasmād aśvinau yuvābhyām āgantavyaṃ || etave | iṇ gatau | tumarthe sesen iti tavenpratyayaḥ | sādhuyā | supāṃ suluk iti vibhakter yājādeśaḥ | adarśi | karmaṇi luṅ | cleś ciṇādeśaḥ | ciṇo luk | pā. 6-4-104 [?] | iti taśabdasya luk | srutiḥ | sru gatau | ktickktau ca saṃjñāyām iti ktic ||*
+*ṛtasya sūryasya pārametave rātreḥ pārabhūtam udayādriṃ gantuṃ panthā mārgaḥ sādhuyā samīcīno 'bhūd u | niṣpanna eva | divo dyotanātmakasya sūryasya srutiḥ prasṛtā dīptir vyadarśi | viśeṣeṇa dṛṣṭā | tasmād aśvinau yuvābhyām āgantavyaṃ || etave | iṇ gatau | tumarthe sesen iti tavenpratyayaḥ | sādhuyā | supāṃ suluk iti vibhakter yājādeśaḥ | adarśi | karmaṇi luṅ | cleś ciṇādeśaḥ | ciṇo luk | pā. 6-4-104 | iti taśabdasya luk | srutiḥ | sru gatau | ktickktau ca saṃjñāyām iti ktic ||*
 
 **Translation:** "*Ṛtasya*, for the Sun *pāram etave*, to go to the far side — to the mountain of rising which lies beyond the night — *panthāḥ*, the path, the road, *sādhuyā*, has become proper, fit; it is just ready. *Divaḥ srutiḥ*, the spreading radiance of the Sun, whose nature is to shine, *vyadarśi*, has been specially seen. Therefore you, Aśvins, are to come. *Etave*: root *iṇ gatau*; the suffix *tavenū* by *tumarthe sesen…*. *Sādhuyā*: *yāc* for the case-ending by *supāṃ suluk*. *Adarśi*: passive aorist; *ciṇ* for *cli*; the *luk* of *ciṇ* drops the *ta*. *Srutiḥ*: root *sru gatau*; *ktic* by *ktic ktau ca saṃjñāyām*."
 
@@ -11091,13 +11097,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.12 (p. 599 foot, PDF 613–)
 
-**Saṃhitā-pāṭha** *(p. 599; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 599)*
 
-> **तत्तदिदश्विनोरवो जरिता प्रति भूषति ।**
-> **मदे सोमस्य पिप्रतोः ॥ १२ ॥**
+> **तत्त॒दिद॒श्विनो॒रवो॑ जरि॒ता प्रति॑ भूषति ।**
+> **मदे॒ सोम॑स्य॒ पिप्र॑तोः ॥ १२ ॥**
 
-*tat tad id aśvinor avo jaritā prati bhūṣati |*
-*made somasya pipratoḥ || 12 ||*
+*tat tad íd aśvínor ávo jaritā́ práti bhūṣati |*
+*made sómasya pípratoḥ || 12 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 599)*
 
@@ -11117,11 +11125,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 600)*
 
-> **जरिता स्तोता श्विनोः [sic: अश्विनोः] सम्बन्धि तत्तदित् पुनःपुनः कृतं सर्वमस्यावोऽस्मद्विषयं [?] रक्षणं प्रति भूषति । प्रत्येकमलंकरोति । तदा तदा प्रशंसतीत्यर्थः । कीदृशयोरश्विनोः । मदे हर्षे निमित्तभूते सति सोमस्य पिप्रतोः सोमं पूरयतोः ॥ भूषति । भूष अलंकारे । भौवादिकः । पिप्रतोः । प्या पालनपूरणयोः । पॄ इत्येके । अस्माल्लटः शतृ । जुहोत्यादित्वाच्छपः श्लुः । द्विर्भावोरदत्वहलादिशेषाः । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वं । शतुर्जित्त्वाद्गुणाभावे यणादेशः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥**
+> **जरिता स्तोताऽश्विनोः सम्बन्धि तत्तदित् पुनःपुनः कृतं सर्वमस्यवोऽस्मद्विषयं रक्षणं प्रति भूषति । प्रत्येकमलंकरोति । तदा तदा प्रशंसतीत्यर्थः । कीदृशयोरश्विनोः । मदे हर्षे निमित्तभूते सति सोमस्य पिप्रतोः सोमं पूरयतोः ॥ भूषति । भूष अलंकारे । भौवादिकः । पिप्रतोः । प्या पालनपूरणयोः । पॄ इत्येके । अस्माल्लटः शतृ । जुहोत्यादित्वाच्छपः श्लुः । द्विर्भावोरदत्वहलादिशेषाः । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वं । शतुर्जित्त्वाद्गुणाभावे यणादेशः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥**
 
-*jaritā stotā śvinoḥ [sic: aśvinoḥ] sambandhi tattad it punaḥ punaḥ kṛtaṃ sarvam asyāvo 'smadviṣayaṃ [?] rakṣaṇaṃ prati bhūṣati | pratyekam alaṃkaroti | tadā tadā praśaṃsatīty arthaḥ | kīdṛśayor aśvinoḥ | made harṣe nimittabhūte sati somasya pipratoḥ somaṃ pūrayatoḥ || bhūṣati | bhūṣa alaṃkāre | bhauvādikaḥ | pipratoḥ | pyā pālanapūraṇayoḥ | pṝ ity eke | asmāl laṭaḥ śatṛ | juhotyāditvāc chapaḥ śluḥ | dvirbhāvoradatvahalādiśeṣāḥ | artipipartyoś cety abhyāsasyetvaṃ | śator jittvād guṇābhāve yaṇādeśaḥ | abhyastānām ādir ity ādyudāttatvaṃ ||*
+*jaritā stotā 'śvinoḥ sambandhi tattad it punaḥ punaḥ kṛtaṃ sarvam asyavo 'smadviṣayaṃ rakṣaṇaṃ prati bhūṣati | pratyekam alaṃkaroti | tadā tadā praśaṃsatīty arthaḥ | kīdṛśayor aśvinoḥ | made harṣe nimittabhūte sati somasya pipratoḥ somaṃ pūrayatoḥ || bhūṣati | bhūṣa alaṃkāre | bhauvādikaḥ | pipratoḥ | pyā pālanapūraṇayoḥ | pṝ ity eke | asmāl laṭaḥ śatṛ | juhotyāditvāc chapaḥ śluḥ | dvirbhāvoradatvahalādiśeṣāḥ | artipipartyoś cety abhyāsasyetvaṃ | śator jittvād guṇābhāve yaṇādeśaḥ | abhyastānām ādir ity ādyudāttatvaṃ ||*
 
-*(The print has "śvinoḥ" for "aśvinoḥ" and "asyāvo" where the sense wants "aśvinor avo"; both kept as read, [?]. The root is printed "pyā" with the remark "pṝ, say some".)*
+*(The print has "stotā'śvinoḥ" (with avagraha) and "sarvamasyavo 'smadviṣayaṃ", where the sense wants "avo" (protection); kept as printed. The root is printed "pyā" with the remark "pṝ, say some".)*
 
 **Translation:** "*Jaritā*, the praiser, of the Aśvins' (concerned): *tat-tad it*, every one of the things done again and again, every protection towards us, *prati bhūṣati*, adorns one by one — that is, praises each time. What kind of Aśvins? *Made somasya pipratoḥ*: when joy is the occasion, filling (drinking) the Soma. *Bhūṣati*: root *bhūṣa alaṃkāre*, of the *bhvādi* class. *Pipratoḥ*: root *pṝ pālanapūraṇayoḥ* (some read *pṛ*); *śatṛ* after *laṭ*; *ślu* for *śap*; doubling, *a* for *ṛ*, the remaining initial consonant; *i* for the *abhyāsa*; because *śatṛ* is *jit*, *guṇa* is absent and *yaṇ* comes; the initial acute by *abhyastānām ādiḥ*."
 
@@ -11143,13 +11151,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.13 (pp. 601–603, PDF 615–617)
 
-**Saṃhitā-pāṭha** *(p. 601; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 601)*
 
-> **वावसाना विवस्वति सोमस्य पीत्या गिरा ।**
-> **मनुष्वच्छंभू आ गतम् ॥ १३ ॥**
+> **वा॒व॒सा॒ना वि॒वस्व॑ति॒ सोम॑स्य पी॒त्या गि॒रा ।**
+> **म॒नु॒ष्वच्छं॑भू॒ आ ग॑तम् ॥ १३ ॥**
 
-*vāvasānā vivasvati somasya pītyā girā |*
-*manuṣvac chaṃbhū ā gatam || 13 ||*
+*vāvasānā́ vivásvati sómasya pītyā́ girā́ |*
+*manuṣvác chaṃbhū ā́ gatam || 13 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 601)*
 
@@ -11191,13 +11201,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.14 (pp. 603–605, PDF 617–619)
 
-**Saṃhitā-pāṭha** *(p. 603; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 603)*
 
-> **युवोरुषा अनु श्रियं परिज्मनोरुपाचरत् ।**
-> **ऋता वनथो अक्तुभिः ॥ १४ ॥**
+> **यु॒वोरु॒षा अनु॒ श्रियं॒ परि॑ज्मनोरु॒पाच॑रत् ।**
+> **ऋ॒ता व॑नथो अ॒क्तुभिः॑ ॥ १४ ॥**
 
-*yuvor uṣā anu śriyaṃ parijmanor upācarat |*
-*ṛtā vanatho aktubhiḥ || 14 ||*
+*yuvór uṣā́ anu śríyaṃ párijmanor upā́carat |*
+*ṛtā́ vanatho aktúbhiḥ || 14 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 604)*
 
@@ -11209,15 +11221,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 604)*
 
-> **हे अश्विनौ परिज्मनोः परितो गन्त्रोर्युवोर्युवयोरुभयोः श्रियमनु आगमनरूपां शोभामनुसृत्यैषा उषा उपाचरत् । उषःकालदेवतेहागच्छतु । युवयोरागतयोः सतोः पश्चादागतेत्यर्थः । युवां चाक्तुभी रात्रिभिर्ऋता यज्ञगतानि हवींषि वनथः । कामयेथे । संभजेथे ॥ युवोः । युष्मच्छब्दात्षष्ठीद्विवचनस्य सुपां सुलुगिति षष्ठीद्विवचनादेशः [?] । अत आदेशविषयत्वाद्योऽचीति यत्वाभावः । शेषे लोपः । परिज्मनोः । परितोऽजतो गच्छत इति परिज्मानौ । श्वन्नुक्षन्नित्यादिनाजतेर्मनिन्नित्त्ययान्तो निपातितः । ऋता । शेश्छन्दसीति शेर्लोपः । वनथः । वन षण संभक्तौ । तिङ्ङतिङ इति निघातः ॥**
+> **हे अश्विनौ परिज्मनोः परितो गन्त्रोर्युवोर्युवयोरुभयोः श्रियमनु आगमनरूपां शोभामनुसृत्यैषा उषा उपाचरत् । उषःकालदेवतेहागच्छतु । युवयोरागतयोः सतोः पश्चादागतेत्यर्थः । युवां चाक्तुभी रात्रिभिर्ऋता यज्ञगतानि हवींषि वनथः । कामयेथे । संभजेथे ॥ युवोः । युष्मच्छब्दात्षष्ठीद्विवचनस्य सुपां सुपो भवन्तीति षष्ठीद्विवचनादेशः । अत आदेशविषयत्वाद्योऽचीति यत्वाभावः । शेषे लोपः । परिज्मनोः । परितोऽजतो गच्छत इति परिज्मानौ । श्वन्नुक्षन्नित्यादिनाजतेर्मनिन्प्रत्ययान्तो निपातितः । ऋता । शेश्छन्दसीति शेर्लोपः । वनथः । वन षण संभक्तौ । तिङ्ङतिङ इति निघातः ॥**
 
-*he aśvinau parijmanoḥ parito gantror yuvor yuvayor ubhayoḥ śriyam anu āgamanarūpāṃ śobhām anusṛtyaiṣā uṣā upācarat | uṣaḥkāladevatehāgacchatu | yuvayor āgatayoḥ satoḥ paścād āgatety arthaḥ | yuvāṃ cāktubhī rātribhir ṛtā yajñagatāni havīṃṣi vanathaḥ | kāmayethe | saṃbhajethe || yuvoḥ | yuṣmacchabdāt ṣaṣṭhīdvivacanasya supāṃ suluk iti ṣaṣṭhīdvivacanādeśaḥ [?] | ata ādeśaviṣayatvād yo 'cīti yatvābhāvaḥ | śeṣe lopaḥ | parijmanoḥ | parito 'jato gacchata iti parijmānau | śvann ukṣann ity ādinājater manin nittyayānto nipātitaḥ | ṛtā | śeś chandasīti śer lopaḥ | vanathaḥ | vana ṣaṇa saṃbhaktau | tiṅ atiṅa iti nighātaḥ ||*
+*he aśvinau parijmanoḥ parito gantror yuvor yuvayor ubhayoḥ śriyam anu āgamanarūpāṃ śobhām anusṛtyaiṣā uṣā upācarat | uṣaḥkāladevatehāgacchatu | yuvayor āgatayoḥ satoḥ paścād āgatety arthaḥ | yuvāṃ cāktubhī rātribhir ṛtā yajñagatāni havīṃṣi vanathaḥ | kāmayethe | saṃbhajethe || yuvoḥ | yuṣmacchabdāt ṣaṣṭhīdvivacanasya supāṃ supo bhavantīti ṣaṣṭhīdvivacanādeśaḥ | ata ādeśaviṣayatvād yo 'cīti yatvābhāvaḥ | śeṣe lopaḥ | parijmanoḥ | parito 'jato gacchata iti parijmānau | śvann ukṣann ity ādinājater maninpratyayānto nipātitaḥ | ṛtā | śeś chandasīti śer lopaḥ | vanathaḥ | vana ṣaṇa saṃbhaktau | tiṅ atiṅa iti nighātaḥ ||*
 
-*(The words "yuvoḥ … ṣaṣṭhīdvivacanādeśaḥ" and "nittyayānto" are crowded in the print and given as read, [?].)*
+*(Re-read from the print: "supāṃ supo bhavantīti" and "maninpratyayānto".)*
 
-**Translation:** "O Aśvins, *parijmanoḥ*, going all round, *yuvoḥ*, of you both, *śriyam anu*, following the splendour that consists in your coming, *eṣā uṣāḥ*, this Uṣas, *upācarat*, let her come near: the goddess of the time of dawn, let her come here; the sense is that she comes after you two have come. And you two, *aktubhiḥ*, by the nights, *ṛtā*, the oblations that have been offered in the sacrifice, *vanathaḥ*, desire, partake. *Yuvoḥ*: the dual genitive of *yuṣmad*, replaced by *supāṃ suluk…*; since *ata* is the area of the substitute, *y* is not put by *yo 'ci*; the rest drops. *Parijmanoḥ*: 'going (*ajataḥ*) all round'; formed by *nipātana* with *manin* after *aj*, as in the list *śvan-ukṣan-…*. *Ṛtā*: *śe* drops by *śeś chandasi*. *Vanathaḥ*: root *vana ṣaṇa saṃbhaktau*; the all-unaccented by *tiṅ atiṅaḥ*."
+**Translation:** "O Aśvins, *parijmanoḥ*, going all round, *yuvoḥ*, of you both, *śriyam anu*, following the splendour that consists in your coming, *eṣā uṣāḥ*, this Uṣas, *upācarat*, let her come near: the goddess of the time of dawn, let her come here; the sense is that she comes after you two have come. And you two, *aktubhiḥ*, by the nights, *ṛtā*, the oblations that have been offered in the sacrifice, *vanathaḥ*, desire, partake. *Yuvoḥ*: the dual genitive of *yuṣmad*, replaced by *supāṃ supo bhavanti*; since *ata* is the area of the substitute, *y* is not put by *yo 'ci*; the rest drops. *Parijmanoḥ*: 'going (*ajataḥ*) all round'; formed by *nipātana* with *manin* after *aj*, as in the list *śvan-ukṣan-…*. *Ṛtā*: *śe* drops by *śeś chandasi*. *Vanathaḥ*: root *vana ṣaṇa saṃbhaktau*; the all-unaccented by *tiṅ atiṅaḥ*."
 
-**Pratipadārtha** *(p. 604)* — "**(aśvinā)** — O Aśvin gods; **parijmanoḥ** — who move all around; **yuvoḥ** — of you two; **śriyam anu** — following the splendour (that consists in your coming); **uṣāḥ** — the goddess of the time of dawn; **upācarat** — let her come here (and you both too) [the parenthesis is crowded in the print, [?]]; **aktubhiḥ** — in the times of night; **ṛtā** — the oblations of the sacrifice; **vanathaḥ** — you desire and enjoy."
+**Pratipadārtha** *(p. 604)* — "**(aśvinā)** — O Aśvin gods; **parijmanoḥ** — who move all around; **yuvoḥ** — of you two; **śriyam anu** — following the splendour (that consists in your coming); **uṣāḥ** — the goddess of the time of dawn; **upācarat** — let her come here (and you both too); **aktubhiḥ** — in the times of night; **ṛtā** — the oblations of the sacrifice; **vanathaḥ** — you desire and enjoy."
 
 **Bhāvārtha** *(p. 604)* — "O Aśvin gods, you move about all over the world. Following the splendour that consists in the coming of you two, let the goddess of the time of dawn come here. You two partake, in the times of night, of the oblations offered for you in the sacrifice."
 
@@ -11227,29 +11239,31 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **parijmanoḥ** — "*parito 'jato gacchata iti parijmānau*: going all around; that is, those who go everywhere."
 - **ṛtā** — "*yajñagatāni havīṃṣi*: the oblations offered in the sacrifice."
 - **vanathaḥ** — "*vana ṣaṇa saṃbhaktau*: you obtain, you desire."
-- **aktubhiḥ** — "in the times of night: there is the Nirukta statement '*aktubhī rātribhiḥ*' (Ni. 1[?]-2[?], as read)":
+- **aktubhiḥ** — "in the times of night: there is the Nirukta statement '*aktubhī rātribhiḥ*' (Ni. 12-23)":
 
-  > **अक्तुभी रात्रिभिः ।** *(Ni. [?])*
+  > **अक्तुभी रात्रिभिः ।** *(Ni. 12-23)*
 
   *aktubhī rātribhiḥ |* — mine and tentative: "*aktubhiḥ* (means) by the nights."
 
 **Vyākaraṇa-prakriyā** *(p. 605 — grammar page, noted briefly)*
-- **yuvoḥ**: after the word *yuṣmad* the genitive dual *os*; "*supāṃ supo bhavanti*" (as printed) — *os* for *os*; hence, the vibhakti beginning with a vowel after the substitution, *yo 'ci* (Pā. 7-2-89 as read [?]) — *y* for the final of *yuṣmad* and *asmad* — does not apply; *śeṣe lopaḥ* (Pā. 7-2-90 as read [?]) drops the part from *ma* on, and the remaining *ad* is dropped before a vowel-initial case-ending: *yu + os*; the Kannada author says the *ā*-*y* substitution is the cause of the other; *ru*, *visarga*; the *vibhakti* is acute by the *udātta*-*nivṛtti* svara; *osi ca* (Pā. 7-3-104 as read) is not applied in the Veda; *ato guṇe*, *pararūpa*; the single-substitute accent.
-- **parijmanoḥ**: *śvann ukṣann paṣann plīhan kledan snehan mūrdhan majjann aryamann viśvapan parijman mātariśvan maghavann iti* (Uṇ. 1-158 [?] as read) — the list of Uṇādi words: after the root *aj*, the suffix *manin*; the *a* is dropped by Vedic usage.
-- **ṛtā**: *śe śchandasi bahulam* (Pā. 7-1-39 [?]) — the *śi* drops (as printed).
+- **yuvoḥ**: after the word *yuṣmad* the genitive dual *os*; "*supāṃ supo bhavanti*" (as printed) — *os* for *os*; hence, the vibhakti beginning with a vowel after the substitution, *yo 'ci* (Pā. 7-2-89) — *y* for the final of *yuṣmad* and *asmad* — does not apply; *śeṣe lopaḥ* (Pā. 7-2-90) drops the part from *ma* on, and the remaining *ad* is dropped before a vowel-initial case-ending: *yu + os*; the Kannada author says the *ā*-*y* substitution is the cause of the other; *ru*, *visarga*; the *vibhakti* is acute by the *udātta*-*nivṛtti* svara; *osi ca* (Pā. 7-3-104 as read) is not applied in the Veda; *ato guṇe*, *pararūpa*; the single-substitute accent.
+- **parijmanoḥ**: *śvann ukṣann paṣann plīhan kledan snehan mūrdhan majjann aryamann viśvapan parijman mātariśvan maghavann iti* (Uṇ. 1-157, as printed) — the list of Uṇādi words: after the root *aj*, the suffix *manin*; the *a* is dropped by Vedic usage.
+- **ṛtā**: *śe śchandasi bahulam* (no number printed) — the *śi* drops (as printed).
 - **vanathaḥ**: root *vana ṣaṇa saṃbhaktau*; *laṭ*, second person dual *thas*; *śap*, *ru*, *visarga*; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 14 ||**
 
 ---
 
 ### Rik 46.15 (pp. 605–608, PDF 620–622)
 
-**Saṃhitā-pāṭha** *(p. 606; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 606)*
 
-> **उभा पिबतमश्विनोभा नः शर्म यच्छतम् ।**
-> **अविद्रियाभिरूतिभिः ॥ १५ ॥**
+> **उ॒भा॑ पिबतमश्विनो॒भा नः॒ श॑र्म यच्छतम् ।**
+> **अविद्रियाभि॑रूतिभिः॑ ॥ १५ ॥**
 
-*ubhā pibatam aśvinobhā naḥ śarma yacchatam |*
-*avidriyābhir ūtibhiḥ || 15 ||*
+*ubhā pibatam aśvinobhā́ naḥ śarma yacchatam |*
+*avidriyā́bhir ūtíbhiḥ || 15 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 606)*
 
@@ -11261,17 +11275,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 606)*
 
-> **प्रवर्ग्ये पौर्वाह्णिके घर्मस्य हविषो द्वितीयो याज्योभा पिबतमित्येषा । अथोत्तरमिति खण्डे सूत्रितं । उभा पिबतमश्विनेति चोभाभ्यामनवानम् [?] । आ. ४-२ [?] । इति ॥ आश्विनशस्त्रेऽप्येषा द्वितीया याज्या । सूत्रितं च । प्र वामन्धांसि मद्यान्यस्थुरुभा पिबतमश्विनेति याज्ये । आ. ६-५ [?] । इति ॥**
+> **प्रवर्ग्ये पौर्वाह्णिके घर्मस्य हविषो द्वितीयो याज्योभा पिबतमित्येषा । अथोत्तरमिति खण्डे सूत्रितं । उभा पिबतमश्विनेति चोभाभ्यामनवानम् । आ. ४-७ । इति ॥ आश्विनशस्त्रेऽप्येषा द्वितीया याज्या । सूत्रितं च । प्र वामन्धांसि मद्यान्यस्थुरुभा पिबतमश्विनेति याज्ये । आ. ६-५ । इति ॥**
 >
-> **हे अश्विना उभा युवामुभौ पिबतं । सोमपानं कुरुतं । तत ऊर्ध्वमुभा युवामुभावविद्रियाभिः प्रशस्ताभिरूतिभी रक्षाभिर्नोऽस्मभ्यं शर्म सुखं यच्छतं ॥ पिबतं । पा पाने । लोटि शपि पाघ्रेत्यादिना पिबादेशः । अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्येति । म. २-३-४९-२ [?] । परि. ६३ [?] । वचनाल्लघूपधगुणाभावः । यद्वा । आद्युदात्तोऽदन्तः पिबादेशः । तिङ्ङतिङ इति निघातः । यच्छतं । दाण् दाने । लोटि शपि पाघ्रेत्यादिना यच्छादेशः । अविद्रियाभिः । द्रा कुत्सायां गतौ । विपूर्वादस्माद्भावे औणादिकः किः । आतो लोप इटि चेत्याकारलोपः । विद्रिर्निन्दा । तद्विरोधिन्यविद्रिः स्तुतिः । तां यान्तीत्यविद्रियाः । अन्येभ्योऽपि दृश्यन्त इति विच् । कृदुत्तरपदप्रकृतिस्वरत्वं । ऊतिभिः । अवतेः क्तिनि ज्वरत्वरेत्यादिनोट् । ऊतियूतीत्यादिना क्तिन उदात्तत्वं ॥ १५ ॥**
+> **हे अश्विना उभा युवामुभौ पिबतं । सोमपानं कुरुतं । तत ऊर्ध्वमुभा युवामुभावविद्रियाभिः प्रशस्ताभिरूतिभी रक्षाभिर्नोऽस्मभ्यं शर्म सुखं यच्छतं ॥ पिबतं । पा पाने । लोटि शपि पाघ्रेत्यादिना पिबादेशः । अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्येति । म. ७-३-७८-२ । परि. ९२ । वचनाल्लघूपधगुणाभावः । यद्वा । आद्युदात्तोऽदन्तः पिबादेशः । तिङ्ङतिङ इति निघातः । यच्छतं । दाण् दाने । लोटि शपि पाघ्रेत्यादिना यच्छादेशः । अविद्रियाभिः । द्रा कुत्सायां गतौ । विपूर्वादस्माद्भावे औणादिकः किः । आतो लोप इटि चेत्याकारलोपः । विद्रिर्निन्दा । तद्विरोधिन्यविद्रिः स्तुतिः । तां यान्तीत्यविद्रियाः । अन्येभ्योऽपि दृश्यन्त इति विच् । कृदुत्तरपदप्रकृतिस्वरत्वं । ऊतिभिः । अवतेः क्तिनि ज्वरत्वरेत्यादिनोट् । ऊतियूतीत्यादिना क्तिन उदात्तत्वं ॥ ३५ ॥**
 
-*pravargye paurvāhṇike gharmasya haviṣo dvitīyo yājyobhā pibatam ity eṣā | athottaram iti khaṇḍe sūtritaṃ | ubhā pibatam aśvineti cobhābhyām anavānam [?] | ā. 4-2 [?] | iti || āśvinaśastre 'py eṣā dvitīyā yājyā | sūtritaṃ ca | pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye | ā. 6-5 [?] | iti ||*
+*pravargye paurvāhṇike gharmasya haviṣo dvitīyo yājyobhā pibatam ity eṣā | athottaram iti khaṇḍe sūtritaṃ | ubhā pibatam aśvineti cobhābhyām anavānam | ā. 4-7 | iti || āśvinaśastre 'py eṣā dvitīyā yājyā | sūtritaṃ ca | pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye | ā. 6-5 | iti ||*
 
-*he aśvinā ubhā yuvām ubhau pibataṃ | somapānaṃ kurutaṃ | tata ūrdhvam ubhā yuvām ubhāv avidriyābhiḥ praśastābhir ūtibhī rakṣābhir no 'smabhyaṃ śarma sukhaṃ yacchataṃ || pibataṃ | pā pāne | loṭi śapi pāghretyādinā pibādeśaḥ | aṅgavṛtte punarvṛttāv avidhir niṣṭhitasyeti | ma. 2-3-49-2 [?] | pari. 63 [?] | vacanāl laghūpadhaguṇābhāvaḥ | yadvā | ādyudātto 'dantaḥ pibādeśaḥ | tiṅ atiṅa iti nighātaḥ | yacchataṃ | dāṇ dāne | loṭi śapi pāghretyādinā yacchādeśaḥ | avidriyābhiḥ | drā kutsāyāṃ gatau | vipūrvād asmād bhāve auṇādikaḥ kiḥ | āto lopa iṭi cety ākāralopaḥ | vidrir nindā | tadvirodhinyavidriḥ stutiḥ | tāṃ yāntīty avidriyāḥ | anyebhyo 'pi dṛśyanta iti vic | kṛduttarapadaprakṛtisvaratvaṃ | ūtibhiḥ | avateḥ ktini jvaratvarety ādinoṭ | ūtiyūtīty ādinā ktina udāttatvaṃ || 15 ||*
+*he aśvinā ubhā yuvām ubhau pibataṃ | somapānaṃ kurutaṃ | tata ūrdhvam ubhā yuvām ubhāv avidriyābhiḥ praśastābhir ūtibhī rakṣābhir no 'smabhyaṃ śarma sukhaṃ yacchataṃ || pibataṃ | pā pāne | loṭi śapi pāghretyādinā pibādeśaḥ | aṅgavṛtte punarvṛttāv avidhir niṣṭhitasyeti | ma. 7-3-78-2 | pari. 92 | vacanāl laghūpadhaguṇābhāvaḥ | yadvā | ādyudātto 'dantaḥ pibādeśaḥ | tiṅ atiṅa iti nighātaḥ | yacchataṃ | dāṇ dāne | loṭi śapi pāghretyādinā yacchādeśaḥ | avidriyābhiḥ | drā kutsāyāṃ gatau | vipūrvād asmād bhāve auṇādikaḥ kiḥ | āto lopa iṭi cety ākāralopaḥ | vidrir nindā | tadvirodhinyavidriḥ stutiḥ | tāṃ yāntīty avidriyāḥ | anyebhyo 'pi dṛśyanta iti vic | kṛduttarapadaprakṛtisvaratvaṃ | ūtibhiḥ | avateḥ ktini jvaratvarety ādinoṭ | ūtiyūtīty ādinā ktina udāttatvaṃ || 35 ||*
 
-*(The Āśvalāyana sūtra's wording "ubhā pibatam aśvineti cobhābhyām anavānam", the two Āśvalāyana numerals, and the two grammatical numbers marked [?] are crowded.)*
+*(Read from the print: Āśv. 4-7 (last digit flat-footed ೭) and 6-5; Mahābhāṣya 7-3-78-2; Paribhāṣā 92 (first digit ೯-like); the bhāṣya closes with the varga number ॥ ३५ ॥ (35).)*
 
-**Translation:** "In the Pravargya, at the forenoon offering of the *gharma* oblation, this ṛk '*ubhā pibatam*' is the second *yājyā*; it is prescribed in the section '*athottaram*': '*ubhā pibatam aśvineti…*' (Āśv. 4-2 [?]). In the Āśvina-śastra too this ṛk is the second *yājyā*; it is prescribed: '*pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye*' (Āśv. 6-5 [?]). O Aśvins, *ubhā*, both of you, *pibatam*, drink — take the Soma-drink. After that, *ubhā*, both of you, *avidriyābhiḥ*, with praiseworthy, *ūtibhiḥ*, protections, *naḥ*, to us, *śarma*, happiness, *yacchatam*, give."
+**Translation:** "In the Pravargya, at the forenoon offering of the *gharma* oblation, this ṛk '*ubhā pibatam*' is the second *yājyā*; it is prescribed in the section '*athottaram*': '*ubhā pibatam aśvineti…*' (Āśv. 4-7). In the Āśvina-śastra too this ṛk is the second *yājyā*; it is prescribed: '*pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye*' (Āśv. 6-5). O Aśvins, *ubhā*, both of you, *pibatam*, drink — take the Soma-drink. After that, *ubhā*, both of you, *avidriyābhiḥ*, with praiseworthy, *ūtibhiḥ*, protections, *naḥ*, to us, *śarma*, happiness, *yacchatam*, give."
 
 **Pratipadārtha** *(pp. 606–607)* — "**aśvinā** — O Aśvin gods; **ubhā** — both of you; **pibatam** — drink the Soma juice; (after that) **ubhā** — both of you; **avidriyābhiḥ** — with (blameless, hence) praiseworthy; **ūtibhiḥ** — with your protections; **naḥ** — to us; **śarma** — happiness; **yacchatam** — give."
 
@@ -11280,11 +11294,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **English Translation (the source's own, p. 607)** — "O Aswins, drink you both ( the soma libation ) and bestow upon us happiness through your blameless protection"
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 607**
-- "In the sacrifice called Pravargya, when the oblation called *gharma* is offered in the forenoon, this ṛk '*ubhā pibatam*' is to be used as the second *yājyā* mantra: this is explained by the sūtra '*ubhā pibatam aśvineti cobhābhyām anavānam*' [as printed, crowded, [?]] in the section '*athottaram*' of the Āśvalāyana Śrauta-sūtra (Ā. 4-2 [?]). And at the time of reciting the Āśvina-śastra mantras this ṛk is again to be used as the second *yājyā*; this is said in the same Āśvalāyana Śrauta-sūtra by the sūtra '*pra vām andhāṃsi madyāny asthur* (Ṛ. Saṃ. 2-[?]-[?]) *ubhā pibatam aśvineti yājye* (Ṛ. Saṃ. 1-46-15)'" — Sanskrit as printed: प्र वामन्धांसि मद्यान्यस्थुः [?] — *pra vām andhāṃsi madyāny asthuḥ* — mine and tentative: "your intoxicating juices have gone forth" [?]; the reference numerals are as read [?].
+- "In the sacrifice called Pravargya, when the oblation called *gharma* is offered in the forenoon, this ṛk '*ubhā pibatam*' is to be used as the second *yājyā* mantra: this is explained by the sūtra '*ubhā pibatam aśvineti cobhābhyām anavānam*' in the section '*athottaram*' of the Āśvalāyana Śrauta-sūtra (Ā. 4-7). And at the time of reciting the Āśvina-śastra mantras this ṛk is again to be used as the second *yājyā*; this is said in the same Āśvalāyana Śrauta-sūtra by the sūtra '*pra vām andhāṃsi madyāny asthur* (Ṛ. Saṃ. 7-68-2) *ubhā pibatam aśvineti yājye* (Ṛ. Saṃ. 1-46-15)'" — Sanskrit as printed: प्र वामन्धांसि मद्यान्यस्थु — *pra vām andhāṃsi madyāny asthu* (printed so, with "rubhā" after the reference) — mine and tentative: "your intoxicating juices have gone forth" [?]; the references (Ṛ. Saṃ. 7-68-2, 1-46-15) as printed.
 - **avidriyābhiḥ ūtibhiḥ** — "*drā kutsāyāṃ gatau*: *vidri* is censure; *tadvirodhinī avidriḥ stutiḥ*, the opposite of it, *avidri*, is praise; '*tāṃ yānti iti avidriyāḥ*', those that go to it: the meaning is 'things worthy of praise'. *Avidriyābhiḥ* means 'with protections that are in the form of praise or praiseworthy, excellent protections'."
 
 **Vyākaraṇa-prakriyā** *(pp. 607–608 — grammar pages, noted briefly)*
-- **pibatam**: root *pā pāne*, *loṭ*, *thas* replaced by *tam*; *śap*; *pāghrādhmā…* (Pā. 7-3-78 as read) gives *piba* for *pā* — thus *piba + a + tam*; because of the *śap*, *pugantalaghūpadhasya ca* (Pā. 7-3-86 as read) would give *guṇa* of the light penultimate; but *aṅgavṛtte punarvṛttāv avidhir niṣṭhitasya* (Paribhāṣā, number read "63" [?]; Kannada: "when one rule belonging to the *aṅga*-section has come and a form has been finished, another *aṅga*-section rule does not come again") — so the *guṇa* of the light penultimate does not come after the *piba*-substitution; or *piba*, a stem ending in *a*, is read in the sūtra as acute on the first syllable by *nipātana*; *piba + a + tam*; *ato guṇe* gives *pararūpa*: *pibatam*; *tiṅ atiṅaḥ* gives the all-unaccented.
+- **pibatam**: root *pā pāne*, *loṭ*, *thas* replaced by *tam*; *śap*; *pāghrādhmā…* (Pā. 7-3-78 as read) gives *piba* for *pā* — thus *piba + a + tam*; because of the *śap*, *pugantalaghūpadhasya ca* (Pā. 7-3-86 as read) would give *guṇa* of the light penultimate; but *aṅgavṛtte punarvṛttāv avidhir niṣṭhitasya* (Pā. Sū. 7-3-78 — Paribhāṣā 92, as printed; Kannada: "when one rule belonging to the *aṅga*-section has come and a form has been finished, another *aṅga*-section rule does not come again") — so the *guṇa* of the light penultimate does not come after the *piba*-substitution; or *piba*, a stem ending in *a*, is read in the sūtra as acute on the first syllable by *nipātana*; *piba + a + tam*; *ato guṇe* gives *pararūpa*: *pibatam*; *tiṅ atiṅaḥ* gives the all-unaccented.
 - **yacchatam**: root *dāṇ dāne*, *loṭ*, *thas* → *tam*; *śap*; *pāghrādhmā…* gives *yaccha* for *dā*.
 - **avidriyābhiḥ**: root *drā kutsāyāṃ gatau*; with *vi* before it, the Uṇādi suffix *ki* in the abstract sense; *vi + drā + i*; *āto lopa iṭi ca* drops the *ā*: *vidri*, "censure"; *na vidriḥ = avidriḥ*, "praise, the opposite of censure"; "*avidriyāḥ*": those who go (*yānti*) to praise, "worthy of praise"; root *yā prāpaṇe*; *anyebhyo 'pi dṛśyante* gives *vic*; *gatikārakopapadāt kṛt* gives the first member its natural accent. **|| 15 ||**
 

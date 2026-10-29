@@ -1,9 +1,10 @@
+RANGE DONE
 # w4b state (Vol 4 numeral/[?]/accent pass, worker w4b)
 
 - **Range:** Ṛk 40.8 (printed p. 406) → end of Sūkta 43 (p. 492); then Ṛk 46.2 (p. 574) → end of file (p. 608). Branch `claude/pass2-vol4-b`.
 - **Page map:** better scan printed = PDF − 15 (p. 406 = PDF 421, p. 409 = PDF 424 confirmed).
-- **Done through:** end of Sūkta 43 (p. 492, PDF 507). First part of the range (Ṛk 40.8 → end of Sūkta 43) DONE.
-- **Next unit:** Ṛk 46.9 (printed p. 592, better scan PDF 597 or 607; Saṃhitā on p. 592). Done in part 2: Ṛk 46.2–46.8. Page map: better scan PDF 597–598 = pp. 592–593 (pp. 582–583 missing; read from old scan Rig_Vol4.pdf PDF 596–597), PDF 599 = p. 584 … PDF 611 = p. 596 (printed = PDF − 15 again).
+- **Done through:** end of the file (p. 608). Both parts of the range DONE.
+- **Next unit:** none — range finished (Ṛk 46.2–46.15 and the Sūkta 46 close done in part 2). Page map: better scan PDF 597–598 = pp. 592–593 (pp. 582–583 missing, read from old scan Rig_Vol4.pdf PDF 596–597); PDF 599–615 = pp. 584–600 (printed = PDF − 15); p. 601 missing in the better scan (read from Rig_Vol4.pdf PDF 615); PDF 616–622 = pp. 602–608 (printed = PDF − 14).
 - **Open items:** Sūkta 42 numbers kept "as printed": 42.3 bhāṣya pā. 8-2-89 (for 5-2-89); 42.5 U. 1-72 (grammar) vs 1-73 (bhāṣya); 42.7 Pā. 6-1-137 (for 6-1-173); 42.9 Pā. 7-4-101 (for 6-4-101), 6-1-25 (for 6-1-5); 42.10 u. 1-1-144 (bhāṣya) vs U. 1-142 (grammar). Ṛk 42.6 grammar: prāṇabhṛj… number faint (5-?-?29); [accent ?] in Ṛk 40.8 (rbha underline; ye/ci stroke), 41.2 (sarva stroke), 41.7 (syā/rya stroke), 41.9 (tu/ra stroke); Ṛk 41.8 bhāṣya words before "bruvo vaciḥ" [?].
 - Sūkta 43 open: Ṛk 43.1 grammar U. Sū. 2-169 [?] (6 or 7), Prātiśākhya ḍ/ḍh [?]; numbers kept "as printed": 43 intro Āś. Gṛ. 4-9-21; 43.1 Ni. 10-7, U. Sū. 4-666; 43.3 U. Sū. 1-49, 4-628; 43.4 Niru. 1-11-37; 43.5 U. Sū. 5-722; 43.6 Pā. 4-2-73 (for 4-1-73); 43.7 Ni. 3-9 (×2); 43.8 Ni. 2-24, Pā. 7-3-103 (for 7-1-103); 43.9 bhāṣya "|| 8 ||" (for 9), U. Sū. 4-565.
 - Page map: printed = PDF − 15 holds through p. 492 = PDF 507.
@@ -11,3 +12,5 @@
 
 - **Accents deferred:** none (Sūktas 42–43 all accented).
 - Tool tip: `export W4=/tmp/w4b` before mz/rl/rows_w4b; locate lines with `rows_w4b.py PDF` (exact page-fraction bands) — reading positions off a displayed image is unreliable.
+
+- **Open items, part 2 (Ṛk 46.2–46.15):** [accent ?] Ṛk 46.4 (piparti: stroke and underline in one column); numbers kept as printed: 46.14 Uṇ. Sū. 1-157 (last digit flat-footed ೭), 46.15 Paribhāṣā 92 (first digit ೯-like); 46.12 bhāṣya 'sarvamasyavo \'smadviṣayaṃ' as printed (sense wants avo); 46.6 'yeḍannaṃ' as printed; the Sūkta 46 summary note (end of file) still speaks of many 'as read [?]' numerals — now mostly resolved (not rewritten: editorial note); the only remaining [?] in 46.9–46.15 is the tentative English gloss of 'pra vām andhāṃsi madyāny asthu' (46.15 Special Topics).
