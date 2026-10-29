@@ -7510,7 +7510,7 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 **English Translation (the source's own, p. 425)** — "That mortal whom you favour, obtains without any obstacles, all valuable wealth, and progeny like himself."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 425**
-- **tokam** — "*tuk*; since the word *tokam* is read among the fifteen names of offspring beginning with *tuk*, *tokam*, *tokam* means offspring, progeny of sons — 'progeny, offspring'" (the source adds the English words).
+- **tokam** — "*tuk*, *tokam* — since the word *tokam* is read among the fifteen names of offspring beginning with these, *tokam* means offspring, progeny of sons — 'progeny, offspring'" (the source adds the English words).
 - **astṛtaḥ** = *stṛñ hiṃsāyām* — "without obstacles, without trouble: 'without obstacles, without any hindrance'" (the English words are the source's).
 
 **Vyākaraṇa-prakriyā** *(p. 425 — grammar page, noted briefly)*
