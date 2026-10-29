@@ -9197,13 +9197,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.13 (pp. 518–520, PDF 534–536)
 
-**Saṃhitā-pāṭha** *(p. 518)*
+**Saṃhitā-pāṭha** *(p. 518; accents as printed; no svarita is printed on* trūn *of* śatrūn *[accent ?])*
 
-> **अस्येदु प्र ब्रूहि पूर्व्याणि तुरस्य कर्माणि नव्य उक्थैः ।**
-> **युधे यदिष्णान आयुधान्यृघायमाणो निरिणाति शत्रून् ॥ १३ ॥**
+> **अ॒स्येदु॒ प्र ब्रू॑हि पू॒र्व्याणि॑ तु॒रस्य॒ कर्मा॑णि॒ नव्य॑ उ॒क्थैः ।**
+> **यु॒धे यदि॑ष्णा॒न आयु॑धान्यृघा॒यमा॑णो निरि॒णाति॒ शत्रून् ॥ १३ ॥**
 
-*asyed u pra brūhi pūrvyāṇi turasya karmāṇi navya ukthaiḥ |*
-*yudhe yad iṣṇāna āyudhāny ṛghāyamāṇo nirināti śatrūn || 13 ||*
+*asyéd u prá brūhi pūrvyā́ṇi turásya kármāṇi návya ukthaíḥ |*
+*yudhé yád iṣṇāná ā́yudhāny ṛghāyámāṇo niriṇā́ti śátrūn || 13 ||*
 
 *(Reading note: in the print's Saṃhitā, line 2, *iṣṇānaḥ* is joined to the next word as *yad iṣṇāna āyudhāni*; the Pada has *iṣṇānaḥ | āyudhāni*.)*
 
@@ -9213,27 +9213,27 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 > युधे । यत् । इष्णानः । आयुधानि । ऋघायमाणः । निरिणाति । शत्रून् ॥ १३ ॥
 
 *asya | it | ūṃ iti | pra | brūhi | pūrvyāṇi | turasya | karmāṇi | navyaḥ | ukthaiḥ |*
-*yudhe | yat | iṣṇānaḥ | āyudhāni | ṛghāyamāṇaḥ | nirināti | śatrūn || 13 ||*
+*yudhe | yat | iṣṇānaḥ | āyudhāni | ṛghāyamāṇaḥ | niriṇāti | śatrūn || 13 ||*
 
 **Sāyaṇa-bhāṣya** *(p. 519)*
 
 > **उक्थैः शस्त्रैर्नव्यः स्तुत्यो य इन्द्र अस्येदु अस्यैव तुरस्य युद्धार्थं त्वरमाणस्येन्द्रस्य पूर्व्याणि पुराणानि कर्माण्येतत्कृतानि बलकर्माणि हे स्तोतः प्र ब्रूहि । प्रशंस । यद्यदा युधे योधनायायुधानि वज्रादीनीष्णान अभीक्ष्णेन प्रेरयन् शत्रूनृघायमाणो हिंसंश्चेन्द्रो निरिणाति अभिमुखं गच्छति । तदानीं प्र ब्रूहीति पूर्वेण संबन्धः । पूर्व्यमिति पुराणनामसु पाठात् ॥**
 
-*ukthaiḥ śastrair navyaḥ stutyo ya indra asyed u asyaiva turasya yuddhārthaṃ tvaramāṇasyendrasya pūrvyāṇi purāṇāni karmāṇy etatkṛtāni balakarmāṇi he stotaḥ pra brūhi | praśaṃsa | yad yadā yudhe yodhanāyāyudhāni vajrādīny iṣṇāna abhīkṣṇena prerayan śatrūn ṛghāyamāṇo hiṃsaṃś cendro nirināti abhimukhaṃ gacchati | tadānīṃ pra brūhīti pūrveṇa saṃbandhaḥ | pūrvyam iti purāṇanāmasu pāṭhāt ||*
+*ukthaiḥ śastrair navyaḥ stutyo ya indra asyed u asyaiva turasya yuddhārthaṃ tvaramāṇasyendrasya pūrvyāṇi purāṇāni karmāṇy etatkṛtāni balakarmāṇi he stotaḥ pra brūhi | praśaṃsa | yad yadā yudhe yodhanāyāyudhāni vajrādīny iṣṇāna abhīkṣṇena prerayan śatrūn ṛghāyamāṇo hiṃsaṃś cendro niriṇāti abhimukhaṃ gacchati | tadānīṃ pra brūhīti pūrveṇa saṃbandhaḥ | pūrvyam iti purāṇanāmasu pāṭhāt ||*
 
-*(The grammatical tail, p. 519, characterized, not transcribed: **turasya** — *tura tvaraṇe*, the suffix *ka*; **navyaḥ** — *ṇu stutau*, *yat*, *āv* for *o*; **iṣṇānaḥ** — *iṣa ābhīkṣṇye*, *kryādi*, the middle voice by *vyatyaya*, *śānac*; **ṛghāyamāṇaḥ** — explained in the passage Ṛg 1-101-4 [?]; **nirināti** — *rī gatireṣaṇayoḥ*, *śnā*, shortening; the absence of *nighāta* because of the relative *yat* (*yadvṛttayogāt*).)*
+*(The grammatical tail, p. 519, characterized, not transcribed: **turasya** — *tura tvaraṇe*, the suffix *ka*; **navyaḥ** — *ṇu stutau*, *yat*, *āv* for *o*; **iṣṇānaḥ** — *iṣa ābhīkṣṇye*, *kryādi*, the middle voice by *vyatyaya*, *śānac*; **ṛghāyamāṇaḥ** — explained in the passage Ṛg 1-10-8; **niriṇāti** — *rī gatireṣaṇayoḥ*, *śnā*, shortening; the absence of *nighāta* because of the relative *yat* (*yadvṛttayogāt*).)*
 
-**Translation of the bhāṣya:** "*Navyaḥ*: praiseworthy by *ukthaiḥ*, the *śastras*, i.e. the Indra who is to be praised; of this same Indra, *turasya*, who hastens to battle, O singer, *pra brūhi*, proclaim, praise, the *pūrvyāṇi*, ancient, deeds — the strength-deeds done by him. *Yad*, when, *yudhe*, for fighting, *iṣṇānaḥ*, constantly sending forth the weapons, the vajra and the rest, *ṛghāyamāṇaḥ*, harming, and *nirināti*, going out against, the enemies [i.e. goes towards them]: then, *pra brūhi* is connected with the preceding. *Pūrvya* ['old'] is read among the names for 'old'."
+**Translation of the bhāṣya:** "*Navyaḥ*: praiseworthy by *ukthaiḥ*, the *śastras*, i.e. the Indra who is to be praised; of this same Indra, *turasya*, who hastens to battle, O singer, *pra brūhi*, proclaim, praise, the *pūrvyāṇi*, ancient, deeds — the strength-deeds done by him. *Yad*, when, *yudhe*, for fighting, *iṣṇānaḥ*, constantly sending forth the weapons, the vajra and the rest, *ṛghāyamāṇaḥ*, harming, and *niriṇāti*, going out against, the enemies [i.e. goes towards them]: then, *pra brūhi* is connected with the preceding. *Pūrvya* ['old'] is read among the names for 'old'."
 
-**Pratipadārtha** *(p. 519)* — "(O singer;) **yat** — when; **yudhe** — in battle; **āyudhāni** — the weapons such as the vajra; **iṣṇānaḥ** — constantly employing; **śatrūn** — enemies; **ṛghāyamāṇaḥ** — harming and destroying; **nirināti** — falls on them [then]; **ukthaiḥ** — with hymns in the form of *śastra*; **navyaḥ** — which Indra is worthy of praise; **asyedu turasya** — of this very Indra, who hastens [to battle]; **pūrvyāṇi** — the former; **karmāṇi** — the deeds of valour; **pra brūhi** — praise well."
+**Pratipadārtha** *(p. 519)* — "(O singer;) **yat** — when; **yudhe** — in battle; **āyudhāni** — the weapons such as the vajra; **iṣṇānaḥ** — constantly employing; **śatrūn** — enemies; **ṛghāyamāṇaḥ** — harming and destroying; **niriṇāti** — falls on them [then]; **ukthaiḥ** — with hymns in the form of *śastra*; **navyaḥ** — which Indra is worthy of praise; **asyedu turasya** — of this very Indra, who hastens [to battle]; **pūrvyāṇi** — the former; **karmāṇi** — the deeds of valour; **pra brūhi** — praise well."
 
 **Bhāvārtha** *(p. 519)* — "O singer, praise well the former heroic deeds of that Indra, worthy of praise through the hymns that are *śastras* and quick to go to battle, when he, wielding weapons such as the vajra, falls on the enemies in battle, harming and destroying them."
 
 **English Translation (the source's own, p. 519)** — "Describe, with new hymns, the former exploits of that quick-moving Indra, when holding his weapons in battle, he encounters and destroys his enemies."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 519–520** — **navyaḥ**: "praiseworthy." **asyedu** — *asya + it + u*: "the *it* and the *u* here give the sense *eva* ('indeed')." **turasya**: "of that Indra who hastens for battle." **pūrvyāṇi** — *purāṇāni*: "'*pūrvyam ahnāya*' (Ni. 3-2 [?]): the Nirukta writers read this word among the words for 'old' (*purāṇa*)." **ṛghāyamāṇaḥ**: "one who harms enemies (Indra): *nahi tvā rodasī ubhe ṛghāyamāṇam invataḥ* (Ṛg 1-101-4 [?]) — in this mantra the sense of the word is specially explained."
+**Special Topics (*viśeṣa-viṣayagaḷu*), pp. 519–520** — **navyaḥ**: "praiseworthy." **asyedu** — *asya + it + u*: "the *it* and the *u* here give the sense *eva* ('indeed')." **turasya**: "of that Indra who hastens for battle." **pūrvyāṇi** — *purāṇāni*: "'*pūrvyam ahnāya*' (Ni. 3-7): the Nirukta writers read this word among the words for 'old' (*purāṇa*)." **ṛghāyamāṇaḥ**: "one who harms enemies (Indra): *nahi tvā rodasī ubhe ṛghāyamāṇam invataḥ* (Ṛ. Saṃ. 1-10-8, printed "1-108") — in this mantra the sense of the word is specially explained."
 
-**Vyākaraṇa-prakriyā** *(p. 520 — noted briefly)* — *Grammar page, noted briefly.* **brūhi**: *brūñ vyaktāyāṃ vāci*; *loṭ* second singular; the ending *hi* is *apit*, hence *ṅit*, so no *guṇa* (as the print says); *nighāta*. **turasya**: *tura tvaraṇe*; *igupadhajñāprīkirakaḥ kaḥ* (Pā. 3-1-135 as read [?]): *ka*; being *kit*, no *laghūpadha-guṇa*; end-acute by the suffix; genitive singular. **navyaḥ**: *ṇu stutau*; since it ends in a vowel, *aco yat* (Pā. 3-1-97 as read [?]): *yat*; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; since the *o* arises from the *yat* suffix, *dhātos tannimittasyaiva* (Pā. 6-1-80 as read [?]): *āv*; *yato 'nāvaḥ*: initial acute. **yudhe**: *yudha saṃprahāre*; *kvip*; dative; *sāvekācas tṛtīyādiḥ*: acute on the ending. **iṣṇānaḥ**: *iṣa ābhīkṣṇye*; *kryādi*; *vyatyayo bahulam*: middle voice; *śānac*; *kryādibhyaḥ śnā*: *śnā*; *sārvadhātukam apit* is *ṅit*, so no *laghūpadha-guṇa*; *ṇatva* for the *n* by the *ṣ*; *citaḥ*: end-acute. **ṛghāyamāṇaḥ**: explained at Ṛg 1-101-4 [?]. **nirināti**: *rī gatireṣaṇayoḥ*; *kryādi*; *laṭ* third singular *tip*; *kryādibhyaḥ śnā*; *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80 as read [?]): shortening; *ṇatva* of the *n* of the *vikaraṇa* (*raṣābhyāṃ…*); *tip* is *pit* and unaccented, so the accent of the *vikaraṇa* remains; because of the *yad* word, no *nighāta*; since a verb with the acute follows, the preposition *nir* is accented by *tiṅ codāttavati* (Pā. 8-1-71 as read [?]).
+**Vyākaraṇa-prakriyā** *(p. 520 — noted briefly)* — *Grammar page, noted briefly.* **brūhi**: *brūñ vyaktāyāṃ vāci*; *loṭ* second singular; the ending *hi* is *apit*, hence *ṅit*, so no *guṇa* (as the print says); *nighāta*. **turasya**: *tura tvaraṇe*; *igupadhajñāprīkirakaḥ kaḥ* (Pā. 3-1-135): *ka*; being *kit*, no *laghūpadha-guṇa*; end-acute by the suffix; genitive singular. **navyaḥ**: *ṇu stutau*; since it ends in a vowel, *aco yat* (no number printed): *yat*; *sārvadhātukārdhadhātukayoḥ*: *guṇa*; since the *o* arises from the *yat* suffix, *dhātos tannimittasyaiva* (no number printed): *āv*; *yato 'nāvaḥ*: initial acute. **yudhe**: *yudha saṃprahāre*; *kvip*; dative; *sāvekācas tṛtīyādiḥ*: acute on the ending. **iṣṇānaḥ**: *iṣa ābhīkṣṇye*; *kryādi*; *vyatyayo bahulam*: middle voice; *śānac*; *kryādibhyaḥ śnā*: *śnā*; *sārvadhātukam apit* is *ṅit*, so no *laghūpadha-guṇa*; *ṇatva* for the *n* by the *ṣ*; *citaḥ*: end-acute. **ṛghāyamāṇaḥ**: explained at Ṛ. Saṃ. 1-10-8. **niriṇāti**: *rī gatireṣaṇayoḥ*; *kryādi*; *laṭ* third singular *tip*; *kryādibhyaḥ śnā*; *pvādīnāṃ hrasvaḥ* (Pā. 7-3-80): shortening; *ṇatva* of the *n* of the *vikaraṇa* (*raṣābhyāṃ…*); *tip* is *pit* and unaccented, so the accent of the *vikaraṇa* remains; because of the *yad* word, no *nighāta*; since a verb with the acute follows, the preposition *nir* is accented by *tiṅ codāttavati* (Pā. 8-1-71).
 
 ---
 
