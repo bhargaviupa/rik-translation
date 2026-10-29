@@ -5714,13 +5714,13 @@
 
 ### Rik 54.3 (pp. 311–, PDF 327–)
 
-**Saṃhitā-pāṭha** *(p. 311; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 311; accents as printed)*
 
-> **अर्चा दिवे बृहते शूष्यं वचः स्वक्षत्रं यस्य धृषतो धृषन्मनः ।**
-> **बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः ॥ ३ ॥**
+> **अर्चा॑ दि॒वे बृ॑ह॒ते शू॒ष्यं१॒॑ वचः॒ स्वक्ष॑त्रं॒ यस्य॑ धृष॒तो धृ॒षन्मनः॑ ।**
+> **बृ॒हच्छ्र॑वा॒ असु॑रो ब॒र्हणा॑ कृ॒तः पु॒रो हरि॑भ्यां वृष॒भो रथो॒ हि षः ॥ ३ ॥**
 
-*arcā dive bṛhate śūṣyaṃ vacaḥ svakṣatraṃ yasya dhṛṣato dhṛṣan manaḥ |*
-*bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ || 3 ||*
+*árcā divé bṛhaté śūṣyàṃ vácaḥ svákṣatraṃ yásya dhṛṣató dhṛṣán mánaḥ |*
+*bṛhácchravā ásuro barháṇā kṛtáḥ puró háribhyāṃ vṛṣabhó rátho hí ṣáḥ || 3 ||*
 
 **Pada-pāṭha** *(p. 311)*
 
@@ -5732,13 +5732,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 311)*
 
-> **हे स्तोतः दिवे दीप्ताय बृहते महते इन्द्राय शूष्यम् । शूषमिति सुखनाम । तत्र साधु शूष्यम् । तादृशं स्तुतिलक्षणं वचोऽर्च । उच्चारय । यस्येन्द्रस्य धृषतः शत्रून्धर्षयतः स्वक्षत्रं स्वभूतबलवन्मनो धृषत् धृष्टं भवति । हि षः स हि स खल्विन्द्रो बृहच्छ्रवाः प्रभूतयशा असुरः शत्रूणां निरसिता । यद्वा । असुः प्राणो बलं वा । तद्वान् । रो मत्वर्थीयः । अथवा । असवः प्राणाः । तेन चापो लक्ष्यन्ते । प्राणा वा आपः । तै. ब्रा. ३-२-५-२ [?] इति श्रुतेः । तानाप्रति ददातीत्यसुरः । बर्हणा शत्रूणां निबर्हयिता हरिभ्यामश्वाभ्यां पुरस्कृतः पूजितः वृषभः कामानां वर्षिता रथो रंहणशीलः ॥**
+> **हे स्तोतः दिवे दीप्ताय बृहते महते इन्द्राय शूष्यम् । शूषमिति सुखनाम । तत्र साधु शूष्यम् । तादृशं स्तुतिलक्षणं वचोऽर्च । उच्चारय । यस्येन्द्रस्य धृषतः शत्रून्धर्षयतः स्वक्षत्रं स्वभूतबलवन्मनो धृषत् धृष्टं भवति । हि षः स हि स खल्विन्द्रो बृहच्छ्रवाः प्रभूतयशा असुरः शत्रूणां निरसिता । यद्वा । असुः प्राणो बलं वा । तद्वान् । रो मत्वर्थीयः । अथवा । असवः प्राणाः । तेन चापो लक्ष्यन्ते । प्राणा वा आपः । तै. ब्रा. ३-२-५-२ इति श्रुतेः । तान्राति ददातीत्यसुरः । बर्हणा शत्रूणां निबर्हयिता हरिभ्यामश्वाभ्यां पुरस्कृतः पूजितः वृषभः कामानां वर्षिता रथो रंहणशीलः ॥**
 
-*he stotaḥ dive dīptāya bṛhate mahate indrāya śūṣyam | śūṣam iti sukhanāma | tatra sādhu śūṣyam | tādṛśaṃ stutilakṣaṇaṃ vaco 'rca | uccāraya | yasyendrasya dhṛṣataḥ śatrūn dharṣayataḥ svakṣatraṃ svabhūtabalavan mano dhṛṣat dhṛṣṭaṃ bhavati | hi ṣaḥ sa hi sa khalv indro bṛhacchravāḥ prabhūtayaśā asuraḥ śatrūṇāṃ nirasitā | yadvā | asuḥ prāṇo balaṃ vā | tadvān | ro matvarthīyaḥ | athavā | asavaḥ prāṇāḥ | tena cāpo lakṣyante | prāṇā vā āpaḥ | tai. brā. 3-2-5-2 [?] iti śruteḥ | tān āpraṭi [?] dadātīty asuraḥ | barhaṇā śatrūṇāṃ nibarhayitā haribhyām aśvābhyāṃ puraskṛtaḥ pūjitaḥ vṛṣabhaḥ kāmānāṃ varṣitā ratho raṃhaṇaśīlaḥ ||*
+*he stotaḥ dive dīptāya bṛhate mahate indrāya śūṣyam | śūṣam iti sukhanāma | tatra sādhu śūṣyam | tādṛśaṃ stutilakṣaṇaṃ vaco 'rca | uccāraya | yasyendrasya dhṛṣataḥ śatrūn dharṣayataḥ svakṣatraṃ svabhūtabalavan mano dhṛṣat dhṛṣṭaṃ bhavati | hi ṣaḥ sa hi sa khalv indro bṛhacchravāḥ prabhūtayaśā asuraḥ śatrūṇāṃ nirasitā | yadvā | asuḥ prāṇo balaṃ vā | tadvān | ro matvarthīyaḥ | athavā | asavaḥ prāṇāḥ | tena cāpo lakṣyante | prāṇā vā āpaḥ | tai. brā. 3-2-5-2 iti śruteḥ | tān rāti dadātīty asuraḥ | barhaṇā śatrūṇāṃ nibarhayitā haribhyām aśvābhyāṃ puraskṛtaḥ pūjitaḥ vṛṣabhaḥ kāmānāṃ varṣitā ratho raṃhaṇaśīlaḥ ||*
 
-*(Reading notes: "*tān āpraṭi dadātīty*" — the print gives "tānāpraṭi" or "tānāprati", crowded, [?]; I take the sense "he gives these [the waters, the life-breaths]". The grammatical tail, p. 311 foot: on* śūṣyam *(*sukhanāma*; *tatra sādhuḥ*, *yat*),* dhṛṣataḥ*,* bṛhacchravāḥ *(bahuvrīhi with first-member accent),* asuraḥ *(*asu kṣepaṇe*, Uṇādi* uran*, Uṇ. 1-… as read [?]; or the *ra*-suffix in the possessive sense),* barhaṇā*,* puraḥ *(*pūrvādharāvarāṇām*…, as read, [?]) — is characterized.)*
+*(Reading notes: the print reads "*tān rāti dadātīty asuraḥ*" ("ತಾನ್ರಾತಿ"): "he *rāti*, gives, these [the waters, the life-breaths]", as the Kannada Special Topic explains; the Tai. Brā. reference is printed "ತೈ. ಬ್ರಾ. ೩-೨-೫-೨". The grammatical tail, p. 311 foot: on* śūṣyam *(*sukhanāma*; *tatra sādhuḥ*, *yat*),* dhṛṣataḥ*,* bṛhacchravāḥ *(bahuvrīhi with first-member accent),* asuraḥ *(*asu kṣepaṇe*, Uṇādi* uran*, printed "ಉ. ೧-೪೩" (Uṇ. 1-43; the grammar page prints 1-42); or the *ra*-suffix in the possessive sense),* barhaṇā*,* puraḥ *(*pūrvādharetyādinā* the suffix *asi*, no number printed) — is characterized.)*
 
-**Translation of the bhāṣya:** "O praiser: to Indra, *dive*, the shining, *bṛhate*, the great — *śūṣyam*: *śūṣa* is a name for happiness, and what is good in that is *śūṣya* — such a word of praise, *arca*, utter. Of that Indra *dhṛṣataḥ*, who overpowers enemies, *svakṣatram*, whose own-born strength, *manaḥ*, mind, is *dhṛṣat*, bold; for he, *bṛhacchravāḥ*, of great renown, *asuraḥ*, the thrower-off of enemies — or *asu* is breath, or strength; one who has it (*ra* is the possessive suffix); or *asavaḥ* are the life-breaths, and by that the waters are meant ('the waters are indeed life-breaths', Tai. Brā. 3-2-5-2 [?]); he who gives these — *barhaṇā*, the destroyer of enemies, *haribhyām*, honoured by the two horses placed in front, *vṛṣabhaḥ*, the shower of desires, *rathaḥ*, swift-going [or: 'a chariot', as the print has the word *rathaḥ* separate, [?]]."
+**Translation of the bhāṣya:** "O praiser: to Indra, *dive*, the shining, *bṛhate*, the great — *śūṣyam*: *śūṣa* is a name for happiness, and what is good in that is *śūṣya* — such a word of praise, *arca*, utter. Of that Indra *dhṛṣataḥ*, who overpowers enemies, *svakṣatram*, whose own-born strength, *manaḥ*, mind, is *dhṛṣat*, bold; for he, *bṛhacchravāḥ*, of great renown, *asuraḥ*, the thrower-off of enemies — or *asu* is breath, or strength; one who has it (*ra* is the possessive suffix); or *asavaḥ* are the life-breaths, and by that the waters are meant ('the waters are indeed life-breaths', Tai. Brā. 3-2-5-2); he who gives these — *barhaṇā*, the destroyer of enemies, *haribhyām*, honoured by the two horses placed in front, *vṛṣabhaḥ*, the shower of desires, *rathaḥ*, swift-going [or: 'a chariot', as the print has the word *rathaḥ* separate, [?]]."
 
 ---
 
@@ -5755,9 +5755,9 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 312**
 - **dive** — "The word *div*, which denotes the atmosphere, has here the sense of brightness. It is an epithet of the word *bṛhat*."
 - **śūṣyam** — "*Śūṣa* means happiness. A hymn that gives happiness is called *śūṣya*."
-- **asuraḥ** — "One who casts off enemies. Or: *asuḥ prāṇo balaṃ vā tadvān asuraḥ*: if one explains thus, it means 'one who has special strength'. Or *asavaḥ* means the life-breaths, and by that, water is also meant: the śruti '*prāṇā vā āpaḥ*' (Tai. Brā. 3-2-5-2 as read [?]) is the authority for this. One who *rāti*, gives, such water: the Rākṣasas like Vṛtra from time to time took the form of clouds and obstructed the earth's waters; he kills such. Or, he himself brings the rain to the earth (Indra)."
+- **asuraḥ** — "One who casts off enemies. Or: *asuḥ prāṇo balaṃ vā tadvān asuraḥ*: if one explains thus, it means 'one who has special strength'. Or *asavaḥ* means the life-breaths, and by that, water is also meant: the śruti '*prāṇā vā āpaḥ*' (Tai. Brā. 3-2-5-2) is the authority for this. One who *rāti*, gives, such water: the Rākṣasas like Vṛtra from time to time took the form of clouds and obstructed the earth's waters; he kills such. Or, he himself brings the rain to the earth (Indra)."
 
-  > **प्राणा वा आपः ।** *(Tai. Brā. 3-2-5-2 as read [?])*
+  > **प्राणा वा आपः ।** *(Tai. Brā. 3-2-5-2)*
 
   *prāṇā vā āpaḥ |* — mine and tentative: "the waters are indeed the life-breaths."
 - **barhaṇā** — "One who makes the enemies flee in all directions."
@@ -5766,12 +5766,12 @@
 
 **Vyākaraṇa-prakriyā** *(p. 313 — grammar page, noted briefly)*
 - **dive**: dative singular of *div*; the vibhakti-accent by *ūḍidaṃ padādi…* (Pā. 6-1-171).
-- **śūṣyam**: "*śūṣe sādhu śūṣyam*", *tatra sādhuḥ* (Pā. 4-4-98) gives *yat*; because it begins with *y* it gets the *bha*-designation; *yasyeti ca* drops the *a*; since *yat* is *tit*, *yato 'nāvaḥ* would give the initial acute, but "all rules are optional in the Veda" (*sarve vidhayaś chandasi vikalpyante*), so it does not come here; *tit svaritam* gives *svarita*.
-- **dhṛṣataḥ**: *ñidhṛṣā prāgalbhye*; *śatṛ* in the sense of *laṭ*; *vyatyayo bahulam* gives *śa*-characteristic instead of *śap*; so no *laghūpadha-guṇa*; *sārvadhātukam apit* makes it *ṅit*; *ato guṇe* gives *pararūpa*: *dhṛṣat*; genitive singular; *śaturanumo nadyajādī* gives the ending its acute.
+- **śūṣyam**: "*śūṣe sādhu śūṣyam*", *tatra sādhuḥ* (Pā. 4-4-98) gives *yat*; because it begins with *y* it gets the *bha*-designation; *yasyeti ca* drops the *a*; since *yat* is *tit*, *yato 'nāvaḥ* would give the initial acute, but "all rules are optional in the Veda" (*sarve vidhayaś chandasi vikalpyante*), so it does not come here; *tit svaritam* (Pā. sū. 6-1-185) gives *svarita*.
+- **dhṛṣataḥ**: *ñidhṛṣā prāgalbhye*; *śatṛ* in the sense of *laṭ*; *vyatyayo bahulam* gives *śa*-characteristic instead of *śap*; so no *laghūpadha-guṇa*; *sārvadhātukam apit* makes it *ṅit*; *ato guṇe* gives *pararūpa*: *dhṛṣat*; genitive singular; *śaturanumo nadyajādī* (Pā. sū. 6-1-173) gives the ending its acute.
 - **bṛhacchravāḥ**: "*bṛhat śravo yasya*": a bahuvrīhi; *bahuvrīhau prakṛtyā pūrvapadam*.
-- **asuraḥ**: *asu kṣepaṇe*, *divādi*; *asser uran* (Uṇ. 1-42 as read [?]) gives *uran*; being *nit*, *ñnityādir nityam* gives the initial acute.
+- **asuraḥ**: *asu kṣepaṇe*, *divādi*; *asser uran* (Uṇ. sū. 1-42 as printed here; the bhāṣya tail prints 1-43) gives *uran*; being *nit*, *ñnityādir nityam* gives the initial acute.
 - **barhaṇā**: *supāṃ suluk*… gives *ā* in the instrumental [as printed; probably "nominative"] dual…: [the print says "third dual"; I note it as read, [?]].
-- **puraḥ**: *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39 as read [?]) gives *asi* in the sense of "from this"; with it *pūrva* takes the substitute *pur*: *puras*; *ru*, *visarga*: *puraḥ*; end-acute by the suffix-accent. **|| 3 ||**
+- **puraḥ**: *pūrvādharāvarāṇām asi puradhavaś caiṣām* (printed "Pā. sū. 5-7-39" [as printed; for 5-3-39]; the middle digit is the flat-footed ೭) gives *asi* in the sense of "from this"; with it *pūrva* takes the substitute *pur*: *puras*; *ru*, *visarga*: *puraḥ*; end-acute by the suffix-accent. **|| 3 ||**
 
 ---
 
