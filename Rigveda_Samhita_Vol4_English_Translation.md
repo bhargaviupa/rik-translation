@@ -10633,21 +10633,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.3 (p. 576 foot, PDF 590–)
 
-**Saṃhitā-pāṭha** *(p. 576; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 576)*
 
-> **वच्यन्ते वां ककुहासो जूर्णायामधि विष्टपि ।**
-> **यद्वां रथो विभिष्पतात् ॥ ३ ॥**
+> **व॒च्यन्ते॑ वां ककु॒हासो॑ जू॒र्णाया॒मधि॑ वि॒ष्टपि॑ ।** [accent ?]
+> **यद्वां॒ रथो॒ विभि॒ष्पता॑त् ॥ ३ ॥**
 
-*vacyante vāṃ kakuhāso jūrṇāyām adhi viṣṭapi |*
-*yad vāṃ ratho vibhiṣ patāt || 3 ||*
+*vacyánte vāṃ kakuhā́so jūrṇā́yām ádhi viṣṭápi |* [accent ?]
+*yad vāṃ rátho víbhiṣ pátāt || 3 ||*
 
-*(The Pada of Rik 3 is on p. 577, not yet seen; I give the Saṃhitā as printed and mark the word-division as the Saṃhitā's only: "vibhiṣ patāt" is my reading of the Saṃhitā's* विभिष्पतात्*, subject to the Pada.)*
-
----
-
----
-
-**Rik 46.3, continued** *(from p. 577)*
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: in line 1 the svarita stroke of* kakuhāso *stands at the joint of* hā *and* so*; read as* so*.)*
 
 **Pada-pāṭha** *(p. 577)*
 
@@ -10659,11 +10653,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 577)*
 
-> **हे अश्विनौ वां युवयोः सम्बन्धी रथो जूर्णायां नानाशास्त्रैः स्तुतायामधि विष्टपि स्वर्गलोके यद्यदा विभिरश्वैः पतात् पतति गच्छति तदानीं वां युवयोः ककुहासः स्तुतयो वच्यन्ते । अस्माभिरुच्यन्ते ॥ वच्यन्ते । ब्रवीतेर्यकि ब्रुवो वचिः । पा. २-४-५३ [?] । इति वच्यादेशः । वचिस्वपीत्यादिना संप्रसारणं । संप्रसारणाच्चेत्यत्र वा छन्दसीत्यनुवृत्तेः परपूर्वत्वस्य पाक्षिकत्वाद्यणादेशः । प्रत्ययस्वरः । ककुहासः । ककुभं शृङ्गे विदुः प्रधाने चेत्यभिधानात् प्राधान्याभिधायिना ककुप्शब्देन तत्प्रतिपादिकाः स्तुतयो लक्ष्यन्ते । हत्वं छान्दसं । आज्जसेरसुगित्यसुक् । जूर्णायां जूष् [?] वयोहानौ । अत्र स्तुत्यर्थो धातूनामनेकार्थत्वात् । निष्ठायां श्र्युकः किति इतीट्प्रतिषेधः । बहुलं छन्दसीत्यत्वं [?] । हलि चेति दीर्घः । रदाभ्यामिति निष्ठानत्वं । पा. ८-२-४२ [?] । प्रत्ययस्वरः । विभिः । वी गत्यादौ । वियन्ति गच्छन्तीति वयोऽश्वाः । औणादिको डिप्रत्ययः । पतात् । पत्ऌ गतौ । लेट्यडागमः । इतश्च लोप इतीकारलोपः ॥**
+> **हे अश्विनौ वां युवयोः सम्बन्धी रथो जूर्णायां नानाशास्त्रैः स्तुतायामधि विष्टपि स्वर्गलोके यद्यदा विभिरश्वैः पतात् पतति गच्छति तदानीं वां युवयोः ककुहासः स्तुतयो वच्यन्ते । अस्माभिरुच्यन्ते ॥ वच्यन्ते । ब्रवीतेर्यकि ब्रुवो वचिः । पा. २-४-५३ । इति वच्यादेशः । वचिस्वपीत्यादिना संप्रसारणं । संप्रसारणाच्चेत्यत्र वा छन्दसीत्यनुवृत्तेः परपूर्वत्वस्य पाक्षिकत्वाद्यणादेशः । प्रत्ययस्वरः । ककुहासः । ककुभं शृङ्गे विदुः प्रधाने चेत्यभिधानात् प्राधान्याभिधायिना ककुप्शब्देन तत्प्रतिपादिकाः स्तुतयो लक्ष्यन्ते । हत्वं छान्दसं । आज्जसेरसुगित्यसुक् । जूर्णायां जूष् [?] वयोहानौ । अत्र स्तुत्यर्थो धातूनामनेकार्थत्वात् । निष्ठायां श्र्युकः किति इतीट्प्रतिषेधः । बहुलं छन्दसीत्युत्वं । हलि चेति दीर्घः । रदाभ्यामिति निष्ठानत्वं । पा. ८-२-४२ । प्रत्ययस्वरः । विभिः । वी गत्यादौ । वियन्ति गच्छन्तीति वयोऽश्वाः । औणादिको डिप्रत्ययः । पतात् । पत्ऌ गतौ । लेट्यडागमः । इतश्च लोप इतीकारलोपः ॥**
 
-*he aśvinau vāṃ yuvayoḥ sambandhīratho jūrṇāyāṃ nānāśāstraiḥ stutāyām adhi viṣṭapi svargaloke yad yadā vibhir aśvaiḥ patāt patati gacchati tadānīṃ vāṃ yuvayoḥ kakuhāsaḥ stutayo vacyante | asmābhir ucyante || vacyante | bravīter yaki bruvo vaciḥ | pā. 2-4-53 [?] | iti vacyādeśaḥ | vacisvapītyādinā saṃprasāraṇaṃ | saṃprasāraṇāc cety atra vā chandasīty anuvṛtteḥ parapūrvatvasya pākṣikatvād yaṇādeśaḥ | pratyayasvaraḥ | kakuhāsaḥ | kakubhaṃ śṛṅge viduḥ pradhāne cety abhidhānāt prādhānyābhidhāyinā kakupśabdena tatpratipādikāḥ stutayo lakṣyante | hatvaṃ chāndasaṃ | ājjaser asug ity asuk | jūrṇāyāṃ jūṣ [?] vayohānau | atra stutyartho dhātūnām anekārthatvāt | niṣṭhāyāṃ śryukaḥ kiti itīṭpratiṣedhaḥ | bahulaṃ chandasīty atvaṃ [?] | hali ceti dīrghaḥ | radābhyām iti niṣṭhānatvaṃ | pā. 8-2-42 [?] | pratyayasvaraḥ | vibhiḥ | vī gatyādau | viyanti gacchantīti vayo 'śvāḥ | auṇādiko ḍipratyayaḥ | patāt | patḷ gatau | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ ||*
+*he aśvinau vāṃ yuvayoḥ sambandhīratho jūrṇāyāṃ nānāśāstraiḥ stutāyām adhi viṣṭapi svargaloke yad yadā vibhir aśvaiḥ patāt patati gacchati tadānīṃ vāṃ yuvayoḥ kakuhāsaḥ stutayo vacyante | asmābhir ucyante || vacyante | bravīter yaki bruvo vaciḥ | pā. 2-4-53 | iti vacyādeśaḥ | vacisvapītyādinā saṃprasāraṇaṃ | saṃprasāraṇāc cety atra vā chandasīty anuvṛtteḥ parapūrvatvasya pākṣikatvād yaṇādeśaḥ | pratyayasvaraḥ | kakuhāsaḥ | kakubhaṃ śṛṅge viduḥ pradhāne cety abhidhānāt prādhānyābhidhāyinā kakupśabdena tatpratipādikāḥ stutayo lakṣyante | hatvaṃ chāndasaṃ | ājjaser asug ity asuk | jūrṇāyāṃ jūṣ [?] vayohānau | atra stutyartho dhātūnām anekārthatvāt | niṣṭhāyāṃ śryukaḥ kiti itīṭpratiṣedhaḥ | bahulaṃ chandasīty utvaṃ | hali ceti dīrghaḥ | radābhyām iti niṣṭhānatvaṃ | pā. 8-2-42 | pratyayasvaraḥ | vibhiḥ | vī gatyādau | viyanti gacchantīti vayo 'śvāḥ | auṇādiko ḍipratyayaḥ | patāt | patḷ gatau | leṭy aḍāgamaḥ | itaś ca lopa itīkāralopaḥ ||*
 
-*(Crowded: the Pāṇini number after* bruvo vaciḥ*, the root-name "jūṣ" [print reads like "jyāṣ"], and the Vedic* a *clause before* hali ceti*; all marked [?].)*
+*(The root-name "jūṣ" is printed like "jyāṣ" (ಜ with a subscript sign; not settled at 300 dpi): [?] kept.)*
 
 **Translation:** "O Aśvins, your (*vām*) chariot, *jūrṇāyām adhi viṣṭapi*, above the heaven that is praised by the various śāstras, *yat*, when it *patāt*, goes, with its horses (*vibhiḥ*), then your *kakuhāsaḥ*, excellent praises, *vacyante*, are spoken by us. *Vacyante*: in the passive of *brūñ*, *vac* replaces *brū* by *bruvo vaciḥ*; the *saṃprasāraṇa* by *vacisvapi…*; since the option *vā chandasi* continues, the *pūrvarūpa* is optional and the *yaṇ*-substitution stands; the accent is that of the suffix. *Kakuhāsaḥ*: because one says '*kakubh* is the horn, and also the chief', praises that declare chief-ness are indicated by the word *kakup*, 'chief'; the *h* is Vedic; the augment *asuk* by *ājjaser asuk*. *Jūrṇāyām*: a root with the sense 'decay of age'; because roots have many meanings, here the sense of praise is to be taken; (*kta*) with no *iṭ*; the lengthening by *hali ca*; *n* in place of *t* by *radābhyāṃ niṣṭhāto naḥ…*. *Vibhiḥ*: *vī gatyādau*; 'they that go (*viyanti*) are the *vayaḥ*, horses'; the Uṇādi suffix *ḍi*. *Patāt*: root *patḷ gatau*, *leṭ*, the *aḍ*-augment, and the *i* dropped."
 
@@ -10674,17 +10668,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **English Translation (the source's own, p. 578)** — "When your chariot proceeds above the glorious heaven, drawn by your horses your praises are sung by us."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 578**
-- **kakuhāsaḥ** — "since the word *kakuha* is read among the thirteen [?] names of *mahat* beginning '*mahat, bradhnaḥ*' in the Nighaṇṭu (Ni. 3-1[?] as read), this word has the name *mahat* (great) or *śreṣṭha* (excellent). Here the sense 'excellent' is explained as 'excellent praises'; praises, stotras."
+- **kakuhāsaḥ** — "since the word *kakuha* is read among the twenty-five (*ippattaidu*) names of *mahat* beginning '*mahat, bradhnaḥ*' in the Nighaṇṭu (Ni. 3-13), this word has the name *mahat* (great) or *śreṣṭha* (excellent). Here the sense 'excellent' is explained as 'excellent praises'; praises, stotras."
 - **jūrṇāyām** — "*stotra*-done, praised. *Jūṣ [?] vayohānau; dhātūnām anekārthatvāt atra stutyartho vaktavyaḥ*: [the root] means 'to decay, to pass the age'; since roots have many meanings, the commentator's view is that the sense of praise is to be taken here for this root."
 - **vibhiḥ** — "*vī gatyādau; viyanti gacchantīti vayo 'śvāḥ*: the root *vī* has the sense of going; *vayaḥ* are horses, which go by nature. *Vibhiḥ* is [printed as] a fourth-case plural" *(sic: evidently a slip for the instrumental plural, as the sense requires)*.
 - **patāt** — "*patati, gacchati*: goes, moves."
 
 **Vyākaraṇa-prakriyā** *(pp. 578–579 — grammar pages, noted briefly)*
-- **vacyante**: root *brūñ vyaktāyāṃ vāci*; *laṭ* in the passive; *bhāvakarmaṇoḥ* (Pā. 1-3-13 as read [?]) gives the *ātmanepada*; *jha* → *anta*, *ṭi* → *e*; *sārvadhātuke yak* (Pā. 3-1-67 as read) the suffix *yak*; *brū + ya + ante*; *bruvo vaciḥ* (Pā. 2-4-53 as read [?]) *vac* for *brū* before an *ārdhadhātuka*; *vacisvapiyajādīnāṃ kiti* (Pā. 6-1-15 as read) *saṃprasāraṇa* of *vac*, *svap* and *yaj*-class roots before a *kit* suffix (*v* → *u*); *saṃprasāraṇāc ca* (Pā. 6-1-108 as read) and *vā chandasi* (Pā. 6-1-106 as read) — the *pūrvarūpa* is optional in the Chandas, so here it does not come; *iko yaṇaci* (Pā. 6-1-77 as read) the *yaṇ*: *u* → *v*; *vac + ya + ante*; *ato guṇe* (Pā. 6-1-97 as read) the *pararūpa*; *vacyante*; the suffix-accent; it stands at the head of the *pāda*, so *tiṅ atiṅaḥ* gives no all-unaccented.
+- **vacyante**: root *brūñ vyaktāyāṃ vāci*; *laṭ* in the passive; *bhāvakarmaṇoḥ* (Pā. Sū. 1-3-13) gives the *ātmanepada*; *jha* → *anta*, *ṭi* → *e*; *sārvadhātuke yak* (Pā. Sū. 3-1-67) the suffix *yak*; *brū + ya + ante*; *bruvo vaciḥ* (Pā. Sū. 2-4-53) *vac* for *brū* before an *ārdhadhātuka*; *vacisvapiyajādīnāṃ kiti* (Pā. Sū. 6-1-15) *saṃprasāraṇa* of *vac*, *svap* and *yaj*-class roots before a *kit* suffix (*v* → *u*); *saṃprasāraṇāc ca* (Pā. Sū. 6-1-108) and *vā chandasi* (6-1-106) — the *pūrvarūpa* is optional in the Chandas, so here it does not come; *iko yaṇaci* the *yaṇ*: *u* → *v*; *vac + ya + ante*; *ato guṇe* the *pararūpa*; *vacyante*; the suffix-accent; it stands at the head of the *pāda*, so *tiṅ atiṅaḥ* gives no all-unaccented.
 - **kakuhāsaḥ**: "*kakubhaṃ śṛṅge viduḥ pradhāne ca*" (as printed, a lexicon-statement) — "horn" and "chief" are the two senses of the word; here, the sense "chief"; praises that speak of pre-eminence are indicated by lakṣaṇā; the final letter becomes *h* by Vedic usage; *jas*; *kakuh + as*; *ājjaser asuk* gives the augment *asuk*: *kakuhāsas*; *ru*, *visarga*.
-- **jūrṇāyām**: root *jūṣ [?] vayohānau*, many-meaning; *niṣṭhā* gives *kta*: *jū + ta*; *śryukaḥ kiti* (Pā. 7-2-11 as read) — श्र्युकः किति — a *kit* or *ṅit* suffix after *śriñ*, a root of one vowel, or a root ending in *uk* takes no *iṭ*; *bahulaṃ chandasi* (Pā. 7-1-103 as read) — the *ū* becomes *ur* with *raparatva*: *jur + ta*; *hali ca* (Pā. 8-2-77 as read) lengthens the penultimate *ik* of a root ending in *r* or *v* before a consonant: *jūr*; *radābhyāṃ niṣṭhāto naḥ pūrvasya ca daḥ* (Pā. 8-2-42 as read) — रदाभ्यां निष्ठातो नः पूर्वस्य च दः — *n* for the *t* of *kta* and *ktavatu* after *r* or *d*, and *n* for a preceding *d*: *jūr + na*; *raṣābhyāṃ no ṇaḥ samānapade* (Pā. 8-4-1 as read) gives *ṇ*: *jūrṇa*; the suffix-accent.
+- **jūrṇāyām**: root *jūṣ [?] vayohānau*, many-meaning; *niṣṭhā* gives *kta*: *jū + ta*; *śryukaḥ kiti* (Pā. Sū. 7-2-11) — श्र्युकः किति — a *kit* or *ṅit* suffix after *śriñ*, a root of one vowel, or a root ending in *uk* takes no *iṭ*; *bahulaṃ chandasi* (Pā. Sū. 7-1-103) — the *ū* becomes *ur* with *raparatva*: *jur + ta*; *hali ca* (Pā. Sū. 8-77 as printed; for 8-2-77) lengthens the penultimate *ik* of a root ending in *r* or *v* before a consonant: *jūr*; *radābhyāṃ niṣṭhāto naḥ pūrvasya ca daḥ* (Pā. Sū. 8-2-42) — रदाभ्यां निष्ठातो नः पूर्वस्य च दः — *n* for the *t* of *kta* and *ktavatu* after *r* or *d*, and *n* for a preceding *d*: *jūr + na*; *raṣābhyāṃ—* gives *ṇ*: *jūrṇa*; the suffix-accent.
 - **vibhiḥ**: root *vī gatyādau*, "*viyanti gacchantīti vayaḥ*", birds [the Kannada author says "birds", *pakṣigaḷu*; the bhāṣya says horses]; the Uṇādi suffix *ḍit*; because it is *ḍit*, the *ṭi*-loss occurs even without *bha*-designation.
-- **patāt**: root *patḷ gatau*, *leṭ*, *tip*; *leṭo 'ḍāṭau* (Pā. 3-4-94 as read) gives the augment *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* (Pā. 3-4-97 as read) drops the *i*. **|| 3 ||**
+- **patāt**: root *patḷ gatau*, *leṭ*, *tip*; *leṭo 'ḍāṭau* gives the augment *aṭ*; *itaś ca lopaḥ parasmaipadeṣu* drops the *i*. **|| 3 ||**
 
 ---
 
