@@ -4,8 +4,8 @@ Range: (1) Ṛk 26.10 (p. 370 = PDF 384) → end of Sūkta 29 (p. 458); (2) Ṛk
 incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch `claude/pass2-vol3`. Edits log: `review/edits_w3.txt`.
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
-Done through: Sūkta 28 introduction (p. 409 = PDF 423).
-Next unit: Ṛk 28.1 (pp. 410–416 = PDF 424–430).
+Done through: Ṛk 28.1 (p. 416 upper = PDF 430).
+Next unit: Ṛk 28.2 (pp. 416–419 = PDF 430–433; p. 416 already viewed).
 
 ## Open items
 (see also v3a_state.md / v3b_state.md)
