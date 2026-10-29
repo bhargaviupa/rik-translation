@@ -9143,10 +9143,12 @@ This ṛk may also be explained differently: *svagnayaḥ prasannāgniyuktā dev
 
 **॥ Saṃhitāpāṭhaḥ ॥**
 
-> विश्वेभिरग्ने अग्निभिरिमं यज्ञमिदं वचः ।
-> चनो धाः सहसो यहो ॥ १० ॥
+> विश्वे॑भिरग्ने अ॒ग्निभि॑रि॒मं य॒ज्ञमि॒दं वचः॑ ।
+> चनो॑ धाः सहसो यहो ॥ १० ॥
 
-*viśvebhir agne agnibhir imaṃ yajñam idaṃ vacaḥ | cano dhāḥ sahaso yaho || 10 ||*
+*víśvebhir agne agníbhir imáṃ yajñám idáṃ vácaḥ | cáno dhāḥ sahaso yaho || 10 ||*
+
+*(Saṃhitā accents as printed (w3); Pada unaccented.)*
 
 **॥ Padapāṭhaḥ ॥**
 
@@ -9156,11 +9158,11 @@ This ṛk may also be explained differently: *svagnayaḥ prasannāgniyuktā dev
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(p. 371)*
 
-> सहसो बलस्य यहो पुत्र हे देवतारूपाग्ने विश्वेभिरग्निभिः सर्वैराहवनीयादिभिर्युक्तस्त्वमिममस्मदीयं यज्ञमिदमस्मदीयं वचः स्तोत्रं च सेवमानस्त्वं नोऽस्मभ्यं चनो धाः । अस्मभ्यमन्नं देहि ॥ विश्वेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । चनः । चायृ पूजानिशामनयोः । चायेरन्ने ह्रस्वश्च । उ. ४-१८९ । इत्यसुन् । तत्संनियोगेन नुडागमश्च । नित्त्वादाद्युदात्तत्वम् । धाः । लुङि गातिस्था० । पा. २-४-७७ । इति सिचो लुक् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । सहसो यहो इति सुबामन्त्रित इति पराङ्गवद्भावादामन्त्रितस्य च इति षष्ठ्यामन्त्रितसमुदायो निहन्यते ॥
+> सहसो बलस्य यहो पुत्र हे देवतारूपाग्ने विश्वेभिरग्निभिः सर्वैराहवनीयादिभिर्युक्तस्त्वमिममस्मदीयं यज्ञमिदमस्मदीयं वचः स्तोत्रं च सेवमानश्च नोऽन्नं धाः । अस्मभ्यं धेहि ॥ विश्वेभिः । बहुलं छन्दसीति भिस ऐसादेशाभावः । चनः । चायृ पूजानिशामनयोः । चायेरन्ने ह्रस्वश्च । उ. ४-१९९ । इत्यसुन् । तत्संनियोगेन नुडागमश्च । नित्त्वादाद्युदात्तत्वम् । धाः । लुङि गातिस्था० । पा. २-४-७७ । इति सिचो लुक् । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । सहसो यहो इति सुबामन्त्रित इति पराङ्गवद्भावादामन्त्रितस्य च इति षष्ठ्यामन्त्रितसमुदायो निहन्यते ॥
 
-*sahaso balasya yaho putra he devatārūpāgne viśvebhir agnibhiḥ sarvair āhavanīyādibhir yuktas tvam imam asmadīyaṃ yajñam idam asmadīyaṃ vacaḥ stotraṃ ca sevamānas tvaṃ no 'smabhyaṃ cano dhāḥ | asmabhyam annaṃ dehi || viśvebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | canaḥ | cāyṛ pūjānikāmanayoḥ [read: pūjāniśāmanayoḥ] | cāyer anne hrasvaś ca | u. 4-189 | ity asun | tatsaṃniyogena nuḍāgamaś ca | nittvād ādyudāttatvam | dhāḥ | luṅi gātisthā… | pā. 2-4-77 | iti sico luk | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | sahaso yaho iti subāmantrita iti parāṅgavadbhāvād āmantritasya ceti ṣaṣṭhyāmantritasamudāyo nihanyate ||*
+*sahaso balasya yaho putra he devatārūpāgne viśvebhir agnibhiḥ sarvair āhavanīyādibhir yuktas tvam imam asmadīyaṃ yajñam idam asmadīyaṃ vacaḥ stotraṃ ca sevamānaś ca no 'nnaṃ dhāḥ | asmabhyaṃ dhehi || viśvebhiḥ | bahulaṃ chandasīti bhisa aisādeśābhāvaḥ | canaḥ | cāyṛ pūjāniśāmanayoḥ | cāyer anne hrasvaś ca | u. 4-199 | ity asun | tatsaṃniyogena nuḍāgamaś ca | nittvād ādyudāttatvam | dhāḥ | luṅi gātisthā… | pā. 2-4-77 | iti sico luk | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | sahaso yaho iti subāmantrita iti parāṅgavadbhāvād āmantritasya ceti ṣaṣṭhyāmantritasamudāyo nihanyate ||*
 
-**Translation:** "O *yaho* — son — of *sahas*, of strength, Agni, god! Joined with all (*viśvebhiḥ*) your fires — the Āhavanīya and the rest — receiving this sacrifice of ours and this our speech, our hymn, give (*dhāḥ*) us *canaḥ* — food: give us food. *Viśvebhiḥ*: *ais* for *bhis* does not occur, by *bahulaṃ chandasi*. *Canaḥ*: *cāyṛ pūjānicāyanayoḥ*; *asun* by Uṇ. 4-189 with shortening of the vowel in the sense of 'food'; *nuṭ* inserted; first-syllable acute from *nit*. *Dhāḥ*: in the *luṅ*, loss of *sic* by P. 2-4-77; *aṭ* absent. *Sahaso yaho*: the vocative group is [treated as] one, and is lowered as a whole." *(Grammar page 373, noted briefly: the words treated are* viśvebhiḥ *[*viśva* + *bhis*: *ais* would be substituted by P. 7-1-9 *ato bhisa ais*, but not in the Veda (P. 7-1-10 *bahulaṃ chandasi*); *e* for *a* by P. 7-3-103 *bahuvacane jhaly et*; *ru*-*visarga*],* canaḥ *[*cāyṛ pūjānicāyanayoḥ*, *bhvādi*; or in the sense of 'food' *asun* by Uṇ. 4-189 *cāyer anne hrasvaś ca*; the shortening of *cā* → *ca*, the augment *nuṭ*; *cayas*… with *y* lost by P. 6-1-66 *lopo vyor vali*, hence *canas*; the accusative singular of the neuter *am* lost by P. 7-1-23 *svamor napuṃsakāt*, and *ru*-*visarga*; first-syllable acute by *nit* P. 6-1-197],* dhāḥ *[*ḍudhāñ dhāraṇapoṣaṇayoḥ*; the Vedic *luṅ* in the sense of the imperative by P. 3-4-6; 2nd singular *sip* → *s*; *cli* → *sic*, which is lost by P. 2-4-77 *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* because *dhā* has the name *ghu*; *aṭ* absent by P. 6-4-75 *bahulaṃ chandasy amāṅyoge 'pi*; the *s* of *sip* → *ru*-*visarga*; the verb is lowered since it follows an acute word, P. 8-1-28] and* sahaso yaho *[*sahas* 'strength' → *sahasaḥ* genitive; *yaho* is a vocative, so it has the name *āmantrita*; P. 2-1-2 *subāmantrite parāṅgavat svare* makes the preceding *sahasaḥ* a part of it; P. 8-1-19 *āmantritasya ca* lowers the whole group; the group *sahaso yaho* is wholly anudātta]; numerals as read, pointers only.)* *(The print closes: "The 26th sūkta is ended.")*
+**Translation:** "O *yaho* — son — of *sahas*, of strength, Agni, god! Joined with all (*viśvebhiḥ*) your fires — the Āhavanīya and the rest — receiving this sacrifice of ours and this our speech, our hymn, give (*dhāḥ*) us *canaḥ* — food: give to us. *Viśvebhiḥ*: *ais* for *bhis* does not occur, by *bahulaṃ chandasi*. *Canaḥ*: *cāyṛ pūjāniśāmanayoḥ*; *asun* by Uṇ. 4-199 with shortening of the vowel in the sense of 'food'; *nuṭ* inserted; first-syllable acute from *nit*. *Dhāḥ*: in the *luṅ*, loss of *sic* by P. 2-4-77; *aṭ* absent. *Sahaso yaho*: the vocative group is [treated as] one, and is lowered as a whole." *(Bhāṣya ends ॥ २१ ॥ = Varga 21.)* *(Grammar page 373, noted briefly: the words treated are* viśvebhiḥ *[*viśva* + *bhis*: *ais* would be substituted by P. 7-1-9 *ato bhisa ais*, but not in the Veda (P. 7-1-10 *bahulaṃ chandasi*); *e* for *a* by P. 7-3-103 *bahuvacane jhaly et*; *ru*-*visarga*],* canaḥ *[*cāyṛ pūjāniśāmanayoḥ*, *bhvādi*; in the sense of 'food' *asun* by *cāyer anne hrasvaś ca* (U. sū. 4-639 as printed, middle digit read as 3; bhāṣya: 4-199); the shortening of *cā* → *ca*, the augment *nuṭ*; *cayas*… with *y* lost by P. 6-1-66 *lopo vyor vali*, hence *canas*; the accusative singular of the neuter *am* lost by P. 7-1-23 *svamor napuṃsakāt*, and *ru*-*visarga*; first-syllable acute by *nit* P. 6-1-197],* dhāḥ *[*ḍudhāñ dhāraṇapoṣaṇayoḥ*; the Vedic *luṅ* in the sense of the imperative by P. 3-4-6; 2nd singular *sip* → *s*; *cli* → *sic*, which is lost by P. 2-4-77 *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* because *dhā* has the name *ghu*; *aṭ* absent by P. 6-4-75 *bahulaṃ chandasy amāṅyoge 'pi*; the *s* of *sip* → *ru*-*visarga*; the verb is lowered since it follows a word that is not a finite verb (no sūtra number printed)] and* sahaso yaho *[*sahas* 'strength' → *sahasaḥ* genitive; *yaho* is a vocative, so it has the name *āmantrita*; P. 2-1-2 *subāmantrite parāṅgavat svare* makes the preceding *sahasaḥ* a part of it; P. 8-1-19 *āmantritasya ca* lowers the whole group; the group *sahaso yaho* is wholly anudātta]; numerals checked against the print, w3.)* *(The print closes: "The 26th sūkta is ended.")*
 
 **॥ Prati-padārthaḥ ॥** *(p. 371)* **सहसः (sahasaḥ)** — of strength | **यहो (yaho)** — O son | **अग्ने (agne)** — O Agni | **विश्वेभिः अग्निभिः (viśvebhiḥ agnibhiḥ)** — with all your fires, the Āhavanīya and the rest | **इमं यज्ञम् (imaṃ yajñam)** — this our sacrifice | **इदं वचः (idaṃ vacaḥ)** — this our hymn | **(सेवमानः) ((sevamānaḥ))** — accepting | **चनः (canaḥ)** — food | **धाः (dhāḥ)** — give [to us].
 
@@ -9170,27 +9172,27 @@ This ṛk may also be explained differently: *svagnayaḥ prasannāgniyuktā dev
 
 > Agni, Son of Strength, accept this Sacrifice and this our praise with the three different Sacrificial fires, and grant us abundant food.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 371–372)* **विश्वेभिः अग्निभिः** — with many fires: i.e. with those fires established in the sacrifice — the Āhavanīya, Gārhapatya and Dakṣiṇāgni — or with the many fires in the various places or houses. **चनः** — food; *cana* is a name for food, according to Yāska (Ni. [6-18]). **सहसः** — of strength: among the names of strength beginning *ojaḥ, pājaḥ* the word *sahas* is read, so *sahasaḥ* means 'of strength' (Ni. [2-9]). **यहो** — son: among the fifteen names for 'offspring', beginning with *tukk, tokam*, the word *yahuḥ* is read, so *yaho* is 'O son' (Ni. [2-2?]). In the Ṛgveda Agni is sometimes also called *sahasaḥ sūnu*, 'son of strength' — the son of *sahas* (strength or power) — as is specially seen. Some examples (the numerals marked as printed [?]; glosses mine and tentative):
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 371–372)* **विश्वेभिः अग्निभिः** — with many fires: i.e. with those fires established in the sacrifice — the Āhavanīya, Gārhapatya and Dakṣiṇāgni — or with the many fires in the various places or houses. **चनः** — food; *cana* is a name for food, according to Yāska (Ni. 6-16). **सहसः** — of strength: among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* the word *sahas* is read, so *sahasaḥ* means 'of strength' (Ni. 3-9). **यहो** — son: among the fifteen names for 'offspring', beginning with *tukk, tokam*, the word *yahuḥ* is read, so *yaho* is 'O son' (no reference printed). In the Ṛgveda Agni, and on some occasions Indra too, is called *sahasas putra* — the son of strength or of power — as is specially seen. Some examples (glosses mine and tentative):
 
-> अग्निं होतारं मन्ये दास्वन्तं वसुं सूनुं सहसो जातवेदसं विप्रं न जातवेदसम् ॥ (ऋ. सं. [१-१२७-१])
+> अग्निं होतारं मन्ये दास्वन्तं वसुं सूनुं सहसो जातवेदसं विप्रं न जातवेदसम् ॥ (ऋ. सं. १-१२७-१)
 > *agniṃ hotāraṃ manye dāsvantaṃ vasuṃ sūnuṃ sahaso jātavedasaṃ vipraṃ na jātavedasam ||* — "I hold Agni as the *hotṛ*, the giver, the good one, the son of strength, Jātavedas, like a sage."
 
-> द्युभिर्हिन्वान [?] सप्तिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥ (ऋ. सं. [३-२-६?])
-> *dyubhir hinvānaḥ [?] saptir āsutiḥ pratno hotā vareṇyaḥ | sahasas putro adbhutaḥ ||* — "[Impelled] by the days … the ancient *hotṛ*, the chosen, the wonderful son of strength."
+> द्वन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥ (ऋ. सं. २-७-६)
+> *dvannaḥ sarpir āsutiḥ pratno hotā vareṇyaḥ | sahasas putro adbhutaḥ ||* — "Wood-eater [?], whose drink is ghee, the ancient *hotṛ*, the chosen, the wonderful son of strength." *(The print has broken type between द्व and न्नः.)*
 
-> अग्निं सूनुं सनश्रुतं सहसो जातवेदसम् ॥ (ऋ. सं. [३-११-?])
+> अग्निं सूनुं सनश्रुतं सहसो जातवेदसम् ॥ (ऋ. सं. ३-११-४)
 > *agniṃ sūnuṃ sanaśrutaṃ sahaso jātavedasam ||* — "Agni, the son of strength, famed of old, Jātavedas."
 
-> विद्युद्रथः सहसस्पुत्रो अग्निः शोचिष्केशः पृथिव्यां पाजो अश्रेत् ॥ (ऋ. सं. [३-१४-१])
+> विद्युद्रथः सहसस्पुत्रो अग्निः शोचिष्केशः पृथिव्यां पाजो अश्रेत् ॥ (ऋ. सं. ३-१४-१)
 > *vidyudrathaḥ sahasas putro agniḥ śociṣkeśaḥ pṛthivyāṃ pājo aśret ||* — "Agni, son of strength, chariot of lightning, flame-haired, has taken his might on the earth."
 
-> अग्ने द्युम्नेन जागृवे सहसः सूनवाहुत ॥ (ऋ. सं. [५-३-?])
+> अग्ने द्युम्नेन जागृवे सहसः सूनवाहुत ॥ (ऋ. सं. ३-२४-३)
 > *agne dyumnena jāgṛve sahasaḥ sūnav āhuta ||* — "O Agni, wakeful with splendour, son of strength, oblation-receiver."
 
-> अस्माकमग्ने अध्वरं जुषस्व सहसः सूनो त्रिषधस्थ हव्यम् ॥ (ऋ. सं. [५-४-?])
+> अस्माकमग्ने अध्वरं जुषस्व सहसः सूनो त्रिषधस्थ हव्यम् ॥ (ऋ. सं. ५-४-८)
 > *asmākam agne adhvaraṃ juṣasva sahasaḥ sūno triṣadhastha havyam ||* — "O Agni, take our sacrifice, son of strength, seated in the three places, the oblation."
 
-> हुवे वः सूनुं सहसो युवानमद्रोघवाचं मतिभिर्यविष्ठम् ॥ (ऋ. सं. [६-५-?])
+> हुवे वः सूनुं सहसो युवानमद्रोघवाचं मतिभिर्यविष्ठम् ॥ (ऋ. सं. ६-५-१)
 > *huve vaḥ sūnuṃ sahaso yuvānam adroghavācaṃ matibhir yaviṣṭham ||* — "I call your son of strength, the young one, of guileless speech, the most youthful, with hymns."
 
 In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putraḥ* are used of Agni.
