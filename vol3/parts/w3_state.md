@@ -6,12 +6,13 @@ Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā acce
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
 Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
-Part (2): Sūkta 32 introduction, Ṛks 32.1–32.2 done (p. 595 = PDF 609).
-Next unit: Ṛk 32.3 (heading "Pages 596–599", PDF 610–). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
+Part (2): Sūkta 32 introduction, Ṛks 32.1–32.3 done (p. 599 upper = PDF 613).
+Next unit: Ṛk 32.4 (headings "Pages 599–602" and its continuation, PDF 613–616). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
 - p. 585/587: Ṛ. Saṃ. 1-7-7 (bhāṣya and grammar), p. 586: 10-4-7 — digits read as flat-footed 7.
+- p. 593: last bhāṣya line cut off in both scans (रक् । जग्मुः … unverified).
 - pp. 578, 581: strokes over ध्वा/गा (31.16) and वहा with stroke on व + bar on हा (31.17) recorded as printed.
 - p. 553: the lower right of the page is cut off in the better scan; read from the old scan (PDF 568).
 - Recurring glyph question: flat-footed 7 vs curled 2 and ಇ-like 3 vs 2 in Nirukta refs (pp. 549, 552: Ni. 3-13, 3-9 as read).
