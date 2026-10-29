@@ -6622,7 +6622,7 @@ O king, in your power are hundreds and thousands of medicines. May your gracious
 
 ### Page 273 — Rik 9: Special Topics (end), grammar
 
-The word *bādhasva* ("afflict") makes it impossible for the sense to be the earth or another inanimate thing, so the sense "sin-goddess of the rākṣasa class, evil-natured" is apt. In later Sanskrit *nirṛti* means a *yātudhāna*, a special rākṣasa; this Nirṛti is well known as one of the eight Dikpālas, lord of the south-west. In the Ṛgveda *nirṛti* is used where the senses *duḥkha*, *pāpa*, *rākṣasa* are intended. The print then lists Ṛ. Saṃ. references for *nirṛtiḥ* and, in a third group, for *nirṛtim*; of these I read 1-38-6, 1-24-9, 6-24-2 (?) and 10-36-4 with fair confidence; the other groups (a first group beginning with a glyph I cannot read, then 4-1-17 (?), 2-32-2 (?), 10-10-11, 10-36-[?], and more at 10-[?]) are left [?]. The forms *nirṛtīḥ*, *nirṛtīnām*, *nirṛteḥ*, *nirṛtyāḥ*, *nirṛtyai* are said to occur in many ṛks.
+The word *bādhasva* ("afflict") makes it impossible for the sense to be the earth or another inanimate thing, so the sense "sin-goddess of the rākṣasa class, evil-natured" is apt. In later Sanskrit *nirṛti* means a *yātudhāna*, a special rākṣasa; this Nirṛti is well known as one of the eight Dikpālas, lord of the south-west. In the Ṛgveda *nirṛti* is used where the senses *duḥkha*, *pāpa*, *rākṣasa* are intended. The print then lists Ṛ. Saṃ. references for *nirṛtiḥ*: 1-38-6; 5-41-17; 7-37-7; 10-10-11; 10-36-2; 10-59-1; and for *nirṛtim*: 1-24-9; 1-164-32; 6-74-2; 10-36-4; 10-76-4 (as printed; the flat-footed "2"-like glyph read as 7). The forms *nirṛtīḥ*, *nirṛtīnām*, *nirṛteḥ*, *nirṛtyāḥ*, *nirṛtyai* are said to occur in many ṛks.
 
 **Vyākaraṇa-prakriyā** *(grammar page, as printed)*:
 
@@ -12423,7 +12423,7 @@ and nowhere else [by the author's count]. From this example, Yayāti is said to 
 
 > Agni, allow yourself to be pleased with this hymn, which we have composed according to our ability, according to our knowledge ; therefore lead us towards the highest good and endow as [sic] with right understanding together with abundant food.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 586)* In the fire-piling rite called *agnicayana*, in the *iṣṭi* called *ukhāsaṃbharaṇa*, when oblations are offered to Agni 'of the Brahmaṇvat name', this rik is to be used as the *purono-vākyā* [invitatory verse]: this is laid down in the section *darśapūrṇamāsābhyām iṣṭvā* of the Āśvalāyana Śrauta-sūtra, in the sūtra ***etenāgne brahmaṇā vāvṛdhasva*** (Ṛg-Saṃhitā 1-31-18) ***brahma ca te jātavedo namaś ca*** (Ṛg-Saṃhitā 10-4-7).
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 586)* In the fire-piling rite called *agnicayana*, in the *iṣṭi* called *ukhāsaṃbharaṇa*, when oblations are offered to Agni 'of the Brahmaṇvat name', this rik is to be used as the *purono-vākyā* [invitatory verse]: this is laid down in the section *darśapūrṇamāsābhyām iṣṭvā* of the Āśvalāyana Śrauta-sūtra, in the sūtra ***etenāgne brahmaṇā vāvṛdhasva*** (Ṛg-Saṃhitā 1-31-18) ***brahma ca te jātavedo namaś ca*** (Ṛg-Saṃhitā 10-4-7, as printed).
 **ब्रह्मणा (brahmaṇā)** — *stotreṇa*: by praise.
 **वावृधस्व (vāvṛdhasva)** — *vṛdhu vṛddhau*: *abhivṛddho bhava*: be pleased; be satisfied.
 **शक्ती विदा (śaktī vidā)** — as far as our strength goes, as far as our knowledge goes.
