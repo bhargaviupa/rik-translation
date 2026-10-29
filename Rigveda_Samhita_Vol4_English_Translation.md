@@ -5009,12 +5009,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ### Rik 37.12 (pp. 284–286, PDF 298–300)
 
-**Saṃhitā-pāṭha** *(p. 284; accents are printed; the nasal sign of* janām̐ *and* girīm̐r *was checked on an enlarged slice)*
+**Saṃhitā-pāṭha** *(p. 284 = PDF 299 of the better scan; Saṃhitā accents as printed; Pada unaccented; the nasal sign of* janām̐ *and* girīm̐r *was checked on an enlarged slice)*
 
-> **मरुतो यद्ध वो बलं जनाँ अचुच्यवीतन ।**
-> **गिरीँरचुच्यवीतन ॥ १२ ॥**
+> **म॑रुतो॒ यद्ध॑ वो॒ बलं॒ जनाँ॑ अचुच्यवीतन ।**
+> **गि॒रीँ॑रचुच्यवीतन ॥ १२ ॥**
 
-*maruto yad dha vo balaṃ janām̐ acucyavītana |*
+*maruto yád dha vo bálaṃ jánām̐ acucyavītana |*
 *girīm̐r acucyavītana || 12 ||*
 
 **Pada-pāṭha** *(p. 284)*
@@ -5033,11 +5033,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Translation:** "O Maruts, *yad dha* — for the very reason that you have strength, for that very reason *janān*, the living beings, *acucyavītana* — impel [them] to their several occupations. And likewise *girīn*, the clouds, *acucyavītana* — impel [them]."
 
-> **मरुतः । आमन्त्रिताद्युदात्तत्वं । अचुच्यवीतन । च्यवतेर्… व्यत्ययेन परस्मैपदं । तप्तनप्तनथनाश्चेति तस्य तनबादेशः । बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसि । [Pā. ?] इतीडागमः । गुणावादेशौ । तिङ्ङतिङः इति निघातः । गिरीन् । दीर्घादटि समानपाद इति संहितायां नकारस्य रुत्वं । अत्रानुनासिक इतीकारस्यानुनासिकः ॥**
+> **मरुतः । आमन्त्रिताद्युदात्तत्वं । अचुच्यवीतन । च्यवतेर्लङि । व्यत्ययेन परस्मैपदं । तप्तनप्तनथनाश्चेति तस्य तनबादेशः । बहुलं छन्दसीति शपः श्लुः । बहुलं छन्दसि । पा. ७-३-९७ । इतीडागमः । गुणावादेशौ । तिङ्ङतिङः इति निघातः । गिरीन् । दीर्घादटि समानपाद इति संहितायां नकारस्य रुत्वं । अत्रानुनासिक इतीकारस्यानुनासिकः ॥**
 
-*marutaḥ | āmantritādyudāttatvaṃ | acucyavītana | cyavater … vyatyayena parasmaipadaṃ | tapta-nap-tana-thanāś ceti tasya tanabādeśaḥ | bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasi | [Pā. ?] itīḍāgamaḥ | guṇāvādeśau | tiṅ atiṅaḥ iti nighātaḥ | girīn | dīrghād aṭi samānapāda iti saṃhitāyāṃ nakārasya rutvaṃ | atrānunāsika itīkārasyānunāsikaḥ ||*
+*marutaḥ | āmantritādyudāttatvaṃ | acucyavītana | cyavater laṅi | vyatyayena parasmaipadaṃ | tapta-nap-tana-thanāś ceti tasya tanabādeśaḥ | bahulaṃ chandasīti śapaḥ śluḥ | bahulaṃ chandasi | pā. 7-3-97 | itīḍāgamaḥ | guṇāvādeśau | tiṅ atiṅaḥ iti nighātaḥ | girīn | dīrghād aṭi samānapāda iti saṃhitāyāṃ nakārasya rutvaṃ | atrānunāsika itīkārasyānunāsikaḥ ||*
 
-**Translation of the grammatical tail** *(characterized; the lakāra named after* cyavateḥ *is not legible to me [?])*: *marutaḥ* — accent on the first syllable, as a vocative. *Acucyavītana* — from *cyu*, by *vyatyaya* the *parasmaipada* [for the root which is *ātmanepadin*]; for the ending *tha* the substitute *tana* by the rule *tapta-nap-tana-thanāś ca*; the *śap* is elided by *bahulaṃ chandasi*; [the rule] *bahulaṃ chandasi* then gives the augment *iṭ*; *guṇa* and *av*-substitution; the verb is unaccented by *tiṅ atiṅaḥ*. *Girīn* — by *dīrghād aṭi samānapāde* the *n* becomes *ru* in the Saṃhitā; by *atrānunāsikaḥ…* the *ī* before it is nasalized.
+**Translation of the grammatical tail** *(characterized; after* cyavateḥ *the print reads* laṅi*)*: *marutaḥ* — accent on the first syllable, as a vocative. *Acucyavītana* — from *cyu*, in *laṅ*; by *vyatyaya* the *parasmaipada* [for the root which is *ātmanepadin*]; for the ending *tha* the substitute *tana* by the rule *tapta-nap-tana-thanāś ca*; the *śap* is elided by *bahulaṃ chandasi*; [the rule] *bahulaṃ chandasi* then gives the augment *iṭ*; *guṇa* and *av*-substitution; the verb is unaccented by *tiṅ atiṅaḥ*. *Girīn* — by *dīrghād aṭi samānapāde* the *n* becomes *ru* in the Saṃhitā; by *atrānunāsikaḥ…* the *ī* before it is nasalized.
 
 **Pratipadārtha** *(p. 284)* — "**marutaḥ** — O Maruts; **yad ha** — for whatever (natural) reason; **vaḥ** — to you; **balam** — strength [there is], for that very reason; **janān** — the living beings; **acucyavītana** — impel [them] (so that they carry on their several affairs); **girīn** — the clouds; **acucyavītana** — impel [them] (so that they do their work of raining and giving water to the world)."
 
@@ -5051,9 +5051,9 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **girīn** = *meghān* — "among the thirty names of the cloud beginning *adriḥ grāvā* [as printed], the word *giri* is read; therefore *girīn* means 'the clouds'."
 
 **Vyākaraṇa-prakriyā** *(pp. 285–286 — grammar page, noted briefly)*
-- **marutaḥ**: the suffix *uti* by *mṛgror utiḥ* — मृग्रोरुतिः — [Uṇ., number not read]; by *āmantritasya ca* — आमन्त्रितस्य च — [the sūtra of the sixth *adhyāya*] it is accented on the first syllable.
-- **acucyavītana**: *cyuṅ gatau*, first class; by *ñit* / *anudāttaṅita ātmanepadam* — ञित्…/ अनुदात्तङित आत्मनेपदम् — [Pā. 1-3-7? as read [?]] the *ātmanepada* is due, and in its place the *parasmaipada* has come; *laṅ* [as read; the lakāra is not certain [?]], madhyama-puruṣa plural *tha*; by *tasthasthamipāṃ tāṃtamtāmaḥ* the substitute *ta*, and by *tapta-nap-tana-thanāś ca* the substitute *tana* [Pā. 7-1-45, as read [?]]; by *bahulaṃ chandasi* [Pā. 2-4-73, as read [?]] the *śap* is elided (*śluḥ*); *ślau* gives doubling: *cyu-cyu-tana*; by *halādiḥ śeṣaḥ* the first *y* is dropped; by *bahulaṃ chandasi* [Pā. 7-3-97 [?]] the augment *īṭ* comes at the beginning of *tana*: *cucyu + ītana*; the augment *aṭ*; *guṇa*; *av*-substitution. Fully unaccented.
-- **girīn**: *dīrghād aṭi samānapāde* — दीर्घादटि समानपादे — [Pā. 8-3-9 as read [?]]: when in a single *pāda* there is a long vowel and a following *aṭ* [-initial word], the *n* standing after the long vowel and before … gets *ru* in the Saṃhitā; *atrānunāsikaḥ pūrvasya tu vā* — अत्रानुनासिकः पूर्वस्य तु वा — the vowel before *ru* is nasalized. Rik 12 ends here (*|| 12 ||*).
+- **marutaḥ**: the suffix *uti* by *mṛgror utiḥ* — मृग्रोरुतिः — [no number printed]; by *āmantritasya ca* — आमन्त्रितस्य च — [the sūtra of the sixth *adhyāya*] it is accented on the first syllable.
+- **acucyavītana**: *cyuṅ gatau*, first class; by *ñit* / *anudāttaṅita ātmanepadam* — ञित्…/ अनुदात्तङित आत्मनेपदम् — (Pā. Sū. 1-3-12) the *ātmanepada* is due, and in its place the *parasmaipada* has come; *laṅ*, madhyama-puruṣa plural *tha*; by *tasthasthamipāṃ tāṃtamtāmaḥ* the substitute *ta*, and by *tapta-nap-tana-thanāś ca* the substitute *tana* (Pā. Sū. 7-1-45); by *bahulaṃ chandasi* (Pā. Sū. 2-4-76) the *śap* is elided (*śluḥ*); *ślau* gives doubling: *cyu-cyu-tana*; by *halādiḥ śeṣaḥ* the first *y* is dropped; by *bahulaṃ chandasi* (Pā. Sū. 7-3-97) the augment *īṭ* comes at the beginning of *tana*: *cucyu + ītana*; the augment *aṭ*; *guṇa*; *av*-substitution. Fully unaccented.
+- **girīn**: *dīrghād aṭi samānapāde* — दीर्घादटि समानपादे — (Pā. Sū. 8-3-9): when in a single *pāda* there is a long vowel and a following *aṭ* [-initial word], the *n* standing after the long vowel and before … gets *ru* in the Saṃhitā; *atrānunāsikaḥ pūrvasya tu vā* — अत्रानुनासिकः पूर्वस्य तु वा — the vowel before *ru* is nasalized. Rik 12 ends here (*|| 12 ||*).
 
 ---
 
