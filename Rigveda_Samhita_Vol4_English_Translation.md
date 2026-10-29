@@ -2260,15 +2260,17 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 - **yajataḥ**: root *yaja devapūjāyām*; *bhṛmṛdṛśiyajiparvipacyamitamināmidayibhyo 'tac* — भृमृदृशियजिपर्विपच्यमितमिनमिदयिभ्योऽतच् — (Uṇ. 3-390 as printed here; the bhāṣya cites 3-110): *atac* after *yaj*: *yajata*.
 - **viśvā duritā**: *viśvāni duritāni*, second-case plural; the *śi* from *jaśśasoḥ śiḥ* is dropped by *śeś chandasi bahulam* — (Pā. 6-1-70); by the *sarvanāmasthāna* status the augment *num* had come and the lengthening of the penultimate; after the *luk* the *n* is lost. Rik 3 ends here (*|| 3 ||*).
 
-### Rik 35.4 (pp. 142–, PDF 156–)
+### Rik 35.4 (pp. 142–146, PDF 157–161)
 
-**Saṃhitā-pāṭha** *(p. 142; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 142; Saṃhitā accents as printed; Pada unaccented)*
 
-> **अभीवृतं कृशनैर्विश्वरूपं हिरण्यशम्यं यजतो बृहन्तम् ।**
-> **आस्थाद्रथं सविता चित्रभानुः कृष्णा रजांसि तविषीं दधानः ॥ ४ ॥**
+> अ॒भीवृ॑तं॒ कृश॑नैर्वि॒श्वरू॑पं॒ हिर॑ण्यशम्यं यज॒तो बृ॒हन्तं॑ ।
+> आस्था॒द्रथं॑ सवि॒ता चि॒त्रभा॑नुः कृ॒ष्णा रजां॑सि॒ तवि॑षीं॒ दधा॑नः ॥ ४ ॥
+>
+> *abhī́vṛtaṃ kṛ́śanair viśvárūpaṃ híraṇyaśamyaṃ yajató bṛhántaṃ |*
+> *āsthād ráthaṃ savitā́ citrábhānuḥ kṛṣṇā́ rájāṃsi táviṣīṃ dádhānaḥ || 4 ||*
 
-*abhīvṛtaṃ kṛśanair viśvarūpaṃ hiraṇyaśamyaṃ yajato bṛhantam |*
-*āsthād rathaṃ savitā citrabhānuḥ kṛṣṇā rajāṃsi taviṣīṃ dadhānaḥ || 4 ||*
+*(As printed, the first half ends in बृहन्तं with anusvara.)*
 
 **Pada-pāṭha** *(pp. 142–143)*
 
@@ -2286,7 +2288,7 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 
 **Translation:** "Savitṛ *ratham āsthāt* — has mounted the chariot. What sort? *Abhīvṛtam* — encircled all round; and *kṛśanair viśvarūpam* — many-formed with gold ('*kṛśana*' = iron/metal, being read among the names of gold): in places a row of elephants made of gold, in places a row of horses, in places a row of men — thus the many forms. *Hiraṇyaśamyam* — the pegs (*śaṅku*) that are thrust on the shoulders of the horses, at the time of yoking the chariot, to restrain them, are *śamyāḥ*; those, made of gold, are in the chariot. *Bṛhantam* — large, grand. What sort of Savitṛ? *Yajataḥ* — worthy of worship; *citrabhānuḥ* — with rays of many kinds; *kṛṣṇā rajāṃsi* — [looking] to the worlds which are dark-coloured through being full of darkness; *taviṣīm* — his own strength in the form of light, *dadhānaḥ* — bearing, for the removal of that darkness."
 
-**Grammar within the bhāṣya** *(p. 143, characterized)*: *abhīvṛtam* (*abhito vartata ity abhīvṛt*; root *vṛtu vartane*; *kvip*; the lengthening of the first member by *nahivṛtivṛṣivyadhi…* [Pā. 6-3-116, as read]); *viśvarūpam* (*viśvāni rūpāṇi yasyāsau*; *bahuvrīhau viśvaṃ saṃjñāyām* — the first-member final-acute here, by *vyatyaya*, even without a name); *hiraṇyaśamyam* (*haryate gatikāntyoḥ* — *haryater hiran ca* [Uṇ. 3-[?]]: the suffix *kanyan* and the substitution *hiran* for the root; initial-acute by the *nit* accent; first-member accent of a *bahuvrīhi*); *āsthāt* (root *ṣṭhā*, *luṅ*, *sic* dropped by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*); *kṛṣṇā* (root *kṛṣ* in the sense of colour; the Uṇādi sūtra *kṛṣer varṇe* [Uṇ. 3-4, as read] — the suffix *nak*; *śi* dropped by *śeś chandasi bahulam*); *taviṣīm* (the root *tavati* from the *sautra* list; the Uṇādi suffix *iṣac* [*tavater ṇid vā*, Uṇ. 1-[?]], *ṭit*, so *ṅīp*; first-syllable accent by *vyatyaya*, to be seen as of the *vṛṣādi* class); *dadhānaḥ* (*śānac*; *abhyastānām ādiḥ* — first-syllable acute).
+**Grammar within the bhāṣya** *(p. 143, characterized)*: *abhīvṛtam* (*abhito vartata ity abhīvṛt*; root *vṛtu vartane*; *kvip*; the lengthening of the first member by *nahivṛtivṛṣivyadhi…* [Pā. 6-3-116]); *viśvarūpam* (*viśvāni rūpāṇi yasyāsau*; *bahuvrīhau viśvaṃ saṃjñāyām* — the first-member final-acute here, by *vyatyaya*, even without a name); *hiraṇyaśamyam* (*haryate gatikāntyoḥ* — *haryateḥ kanyan hira ca* [Uṇ. 5-44]: the suffix *kanyan* and the substitution *hiran* for the root; initial-acute by the *nit* accent; first-member accent of a *bahuvrīhi*); *āsthāt* (root *ṣṭhā*, *luṅ*, *sic* dropped by *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*); *kṛṣṇā* (root *kṛṣ* in the sense of colour; the Uṇādi sūtra *kṛṣer varṇe* [Uṇ. 3-4] — the suffix *nak*; *śi* dropped by *śeś chandasi bahulam*); *taviṣīm* (the root *tavati* from the *sautra* list; the Uṇādi suffix *iṣac* [*tavater ṇid vā*, Uṇ. 1-49], *ṭit*, so *ṅīp*; first-syllable accent by *vyatyaya*, to be seen as of the *vṛṣādi* class); *dadhānaḥ* (*śānac*; *abhyastānām ādiḥ* — first-syllable acute).
 
 **Pratipadārtha** *(p. 143)* — "**yajataḥ** — worthy of worship; **citrabhānuḥ** — endowed with rays of many colours; **savitā** — Savitṛ; **kṛṣṇā rajāṃsi** — the worlds filled with darkness (in order to destroy their darkness); **taviṣīm** — his own strength in the form of light; **dadhānaḥ** — bearing; **abhīvṛtam** — surrounded; **kṛśanaiḥ viśvarūpam** — of many forms, with pictures of elephants and others made of gold; **hiraṇyaśamyam** — having golden pegs (and [thereby] beautiful); **bṛhantam** — large; **ratham** — the chariot; **āsthāt** — has mounted."
 
@@ -2295,27 +2297,25 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 **English Translation (the source's own, p. 144)** — "The adorable Savitri of beautiful splendour having power to disperse darkness from the world has mounted his chariot decorated with many kinds of golden ornaments and furnished with great golden yokes·" *(the print ends with a raised dot where a full stop is expected)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 144**
-- "In this ṛk the ṛṣi describes the chariot of the Sun. The Sun's chariot has golden [front beams — the Kannada word is *mūkīmara*, as I read it [?]]; and the chariot has been made with all kinds of golden ornaments, so that it is delightful with the many pictures all round it — rows of elephants, rows of horses and the like, made of gold. The Savitṛ has mounted such a shining chariot."
+- "In this ṛk the ṛṣi describes the chariot of the Sun. The Sun's chariot has golden [front beams — the Kannada word is *mūkīmara*, as printed]; and the chariot has been made with all kinds of golden ornaments, so that it is delightful with the many pictures all round it — rows of elephants, rows of horses and the like, made of gold. The Savitṛ has mounted such a shining chariot."
 - **abhīvṛtaṃ kṛśanaiḥ viśvarūpam** — "encircled all round with ornaments made of gold and the other metals, and furnished with pictures of many kinds, and so on."
 - **hiraṇyaśamyam** = *aśvānāṃ skandheṣu rathayojanavelāyāṃ niyantuṃ prakṣepyamāṇāḥ śaṅkavaḥ śamyāḥ | suvarṇamayyo rathe vartante*: "a chariot furnished with golden [front-beams] meant for yoking horses" [the Kannada gloss, as printed; the *śamyā* is the yoke-pin of the bhāṣya's own explanation].
 - **citrabhānuḥ** = *atiprakāśayuktaḥ* — "possessing great brightness, *of beautiful spendour* [the print's English, sic]."
 - **kṛṣṇā rajāṃsi** — "worlds with darkness. Before the Sun rises, all the worlds are full of darkness; the Sun rises and lights the worlds with brightness."
-- **taviṣīṃ dadhānaḥ** — "making brightness by his own power…" *(the entry continues on p. 145, to be viewed next)*.
+- **taviṣīṃ dadhānaḥ** — "making brightness by his own power."
 
 ---
 
-*(Correction of a note above: the Special Topics of Rik 4 end on p. 144 with the entry **taviṣīṃ dadhānaḥ** — "making brightness by his own power" — the last line of that page; p. 145 opens directly with the grammar. The words "continues on p. 145" in the preceding paragraph were my own premature remark.)*
+### Rik 35.4 — Vyākaraṇa-prakriyā (pp. 145–146, PDF 160–161; grammar pages, noted briefly)
 
-### Rik 35.4 — Vyākaraṇa-prakriyā (pp. 145–146, PDF 159–160; grammar pages, noted briefly)
+Numerals zoom-checked against the better scan.
 
-Numerals read at 150 dpi, "as read" where not firm.
-
-- **abhīvṛtam** (p. 145): *abhito vartate* = *abhīvṛt*; root *vṛtu vartane* after the preverb *abhi*; *kvip ca* [Pā. 3-2-76, as read] gives *kvip*, and the augment *tuk* would yield *vṛt*; *nahivṛtivṛṣivyadhiruciṣahitaniṣu kvau* — नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ — (Pā. 6-3-116): before roots ending in *kvip*, the first member is lengthened: *abhi* → *abhī*.
-- **viśvarūpam**: *viśvāni rūpāṇi yasya saḥ* — "a chariot having many kinds of forms"; *bahuvrīhau viśvaṃ saṃjñāyām* — बहुव्रीहौ विश्वं संज्ञायाम् — (Pā. 6-2-106, as read): when a name is shown, the first member *viśva* is final-acute; "although no name is shown here, being Vedic this rule operates by *vyatyaya* even without one".
-- **hiraṇyaśamyam**: root *haryate gatikāntyoḥ*; *haryateḥ kanyan hirac* — हर्यतेः कन्यन् हिरच् — (Uṇ. 3-231, as I read the numerals [?]): *kanyan* after the root *harya*, with *hir* substituted for the root; the *c* is *it* and lost, the *a* is only for pronunciation; in the suffix *k* and *n* are *it*, leaving *ya*: *hir + ya* = *hiraṇya*; *aṭkupvāṅnumvyavāye 'pi* — (Pā. 8-4-2) turns *n* into *ṇ*; by the *nit* accent it is first-syllable acute; *śamyāḥ* are pegs for yoking horses; *hiraṇyāḥ śamyā yasmin saḥ*, a *bahuvrīhi*, first-member accent.
+- **abhīvṛtam** (p. 145): *abhito vartate* = *abhīvṛt*; root *vṛtu vartane* after the preverb *abhi*; *kvip ca* (no number printed) gives *kvip*, and the augment *tuk* would yield *vṛt*; *nahivṛtivṛṣivyadhiruciṣahitaniṣu kvau* — नहिवृतिवृषिव्यधिरुचिसहितनिषु क्वौ — (Pā. 6-3-116): before roots ending in *kvip*, the first member is lengthened: *abhi* → *abhī*.
+- **viśvarūpam**: *viśvāni rūpāṇi yasya saḥ* — "a chariot having many kinds of forms"; *bahuvrīhau viśvaṃ saṃjñāyām* — बहुव्रीहौ विश्वं संज्ञायाम् — (Pā. 6-2-106): when a name is shown, the first member *viśva* is final-acute; "although no name is shown here, being Vedic this rule operates by *vyatyaya* even without one".
+- **hiraṇyaśamyam**: root *haryate gatikāntyoḥ*; *haryateḥ kanyan hirac* — हर्यतेः कन्यन् हिरच् — (Uṇ. 5-722 as printed here — the first digit after the hyphen a flat-footed 7; the bhāṣya cites 5-44): *kanyan* after the root *harya*, with *hir* substituted for the root; the *c* is *it* and lost, the *a* is only for pronunciation; in the suffix *k* and *n* are *it*, leaving *ya*: *hir + ya* = *hiraṇya*; *aṭkupvāṅ…* (no number printed) turns *n* into *ṇ*; by the *nit* accent it is first-syllable acute; *śamyāḥ* are pegs for yoking horses; *hiraṇyāḥ śamyā yasmin saḥ*, a *bahuvrīhi*, first-member accent.
 - **āsthāt**: root *ṣṭhā gatinivṛttau*, *ṣ* → *s*; *luṅ*, *tip*, loss of the *i*, *cli*, *sic*, *aṭ*: *ā-asthā + s + t*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु — (Pā. 2-4-77): *luk* for *sic* after these; "by *gā* is meant the *gā* substituted for *iṇ* by *iṇo gā luṅi* — इणो गा लुङि — (Pā. 2-4-45), and by *pā* the root *pā pāne*"; hence *luk* of *sic*; *aṭ*; the preverb *ā*.
-- **kṛṣṇā**: *kṛṣer varṇe* — कृषेर्वर्णे — (Uṇ. 3-4, as read): when colour is meant, *nak* after *kṛṣ*; *kṛṣ + na*; *raṣābhyāṃ no ṇaḥ samānapade* — रषाभ्यां नो णः समानपदे — (Pā. 8-4-1): *n* → *ṇ*; the word is neuter; *śas* → *śi*; *śeś chandasi bahulam* — (Pā. 6-1-70): *luk* of the *śi*; the augment *num*, the lengthening of the penultimate and the loss of *n* occur.
-- **taviṣīm**: the root *tava* is established by usage, not in the sūtra-list; *tavaḥ kerṇidvā* [read: *tavater ṇid vā*, as the printed letters are crowded] — तवतेर्णिद्वा — (Uṇ. 1-64, as I read the numerals [?]): after *tav* the suffix *ṭiṣac*; *tav + iṣa*; the suffix is *ṭit*, so *ṅīp* by *ṭiḍḍhāṇañdvayasaj…* (Pā. 4-1-15, as read); as a *cit* suffix it should be final-acute by *citaḥ saprakṛter bahvakajartham* — चितः सप्रकृतेर्बह्वकजर्थम् — (Pā. 6-1-163), "properly"; but placing the word in the *vṛṣādi* group, *vṛṣādīnāṃ ca* — वृषादीनां च — (Pā. 6-1-203), it is first-syllable acute.
+- **kṛṣṇā**: *kṛṣer varṇe* — कृषेर्वर्णे — (Uṇ. 3-284 as printed here; the bhāṣya cites 3-4): when colour is meant, *nak* after *kṛṣ*; *kṛṣ + na*; *raṣābhyāṃ no ṇaḥ samānapade* — रषाभ्यां नो णः समानपदे — (Pā. 8-4-1): *n* → *ṇ*; the word is neuter; *śas* → *śi*; *śeś chandasi bahulam* — (Pā. 6-1-70): *luk* of the *śi*; the augment *num*, the lengthening of the penultimate and the loss of *n* occur.
+- **taviṣīm**: the root *tava* is established by usage, not in the sūtra-list; *tavater ṇid vā* — तवतेर्णिद्वा — (Uṇ. 1-48 as printed here; the bhāṣya cites 1-49): after *tav* the suffix *ṭiṣac*; *tav + iṣa*; the suffix is *ṭit*, so *ṅīp* by *ṭiḍḍhāṇañdvayasaj…* (Pā. 4-1-15); as a *cit* suffix it should be final-acute by *citaḥ saprakṛter bahvakajartham* — चितः सप्रकृतेर्बह्वकजर्थम् — (Pā. 6-1-163), "properly"; but placing the word in the *vṛṣādi* group, *vṛṣādīnāṃ ca* — वृषादीनां च — (Pā. 6-1-203), it is first-syllable acute.
 - **dadhānaḥ** (p. 146): root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *laṭ*; *laṭaḥ śatṛśānacau*, *śānac*; *juhotyādibhyaḥ śluḥ* — जुहोत्यादिभ्यः श्लुः — (Pā. 2-4-75) *ślu* for *śap*; *ślau* — श्लौ — (Pā. 6-1-10) doubling: *dhā-dhā-āna*; *hrasvaḥ* — ह्रस्वः — (Pā. 7-4-59) shortens the reduplicate; *abhyāse carca* — अभ्यासे चर्च — (Pā. 8-4-54): in the reduplicate *jhal* → *car* and *jaś*, so *dh* → *d* by similarity of place; *ubhe abhyastam* — उभे अभ्यस्तम् — (Pā. 6-1-5): both [the repeated parts] are called *abhyasta*; *abhyastānām ādiḥ* — (Pā. 6-1-189) — first-syllable acute. Rik 4 ends here (*|| 4 ||*).
 
 ### Rik 35.5 (pp. 146–, PDF 160–)
