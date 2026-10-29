@@ -9283,25 +9283,25 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.15 (pp. 523–526, PDF 539–542)
 
-**Saṃhitā-pāṭha** *(p. 523)*
+**Saṃhitā-pāṭha** *(p. 523; accents as printed; the print joins* दाय्येषामेको *(was given as* दायि एषामेको*); the anudātta under* śvye *of* sauvaśvye *sits under the* va *[accent ?])*
 
-> **अस्मा इदु त्यदनु दायि एषामेको यद्वव्ने भूरेरीशानः ।**
-> **प्रैतशं सूर्ये पस्पृधानं सौवश्व्ये सुष्विमावदिन्द्रः ॥ १५ ॥**
+> **अ॒स्मा इदु॒ त्यदनु॑ दाय्येषा॒मेको॒ यद्व॒व्ने भूरे॒रीशा॑नः ।**
+> **प्रैत॑शं॒ सूर्ये॑ पस्पृधा॒नं सौव॑श्व्ये॒ सुष्वि॑माव॒दिन्द्रः॑ ॥ १५ ॥**
 
-*asmā id u tyad anu dāyy eṣām eko yad vavne bhūrer īśānaḥ |*
-*praitaśaṃ sūrye paspṛdhānaṃ sauvaśvye suṣvim āvad indraḥ || 15 ||*
+*asmā́ íd u tyád ánu dāyy eṣām éko yád vavné bhū́rer ī́śānaḥ |*
+*praítaśaṃ sū́rye paspṛdhānáṃ saúvaśvye súṣvim āvad índraḥ || 15 ||*
 
 *(Reading note: the Saṃhitā prints *dāyy eṣām* as *dāyyeṣām*, i.e. *dāyi eṣām* with *y* before *e*; I give it as the Pada does.)*
 
 **Pada-pāṭha** *(p. 524)*
 
 > अस्मै । इत् । ऊं इति । त्यत् । अनु । दायि । एषाम् । एकः । यत् । वव्ने । भूरेः । ईशानः ।
-> प्र । एतशम् । सूर्ये । पस्पृधानम् । सौवश्व्ये । सुस्विम् [?] । आवत् । इन्द्रः ॥ १५ ॥
+> प्र । एतशम् । सूर्ये । पस्पृधानम् । सौवश्व्ये । सुष्विम् । आवत् । इन्द्रः ॥ १५ ॥
 
 *asmai | it | ūṃ iti | tyat | anu | dāyi | eṣām | ekaḥ | yat | vavne | bhūreḥ | īśānaḥ |*
-*pra | etaśam | sūrye | paspṛdhānam | sauvaśvye | susvim [?] | āvat | indraḥ || 15 ||*
+*pra | etaśam | sūrye | paspṛdhānam | sauvaśvye | suṣvim | āvat | indraḥ || 15 ||*
 
-*(Reading note: the Pada's word before *āvat* is printed *susvim*, with a plain *s*, while the Saṃhitā has *suṣvim* and the grammar page treats it as from *ṣuñ abhiṣave*: I give the Pada as printed with [?], not adjusting it.)*
+*(Reading note: on a 700 dpi zoom the Pada prints ಸುಷ್ವಿಂ, *suṣvim*, as in the Saṃhitā; the earlier reading *susvim* is withdrawn.)*
 
 **Sāyaṇa-bhāṣya** *(p. 524)*
 
@@ -9311,7 +9311,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *(The grammatical tail, p. 524 foot, characterized, not transcribed: **dāyi** (the *a*-augment absent by *bahulaṃ chandasy amāṅyoge 'pi*); **vavne** (*vanu yācane*, the perfect, the penultimate lost by *vyatyaya*); **paspṛdhānam** (*spardha saṃgharṣe*, *kānac*, reduplication, the *p* remaining by *śarpūrvāḥ khayaḥ*, *citaḥ*); **sauvaśvye** (*svaśva* as a country-name that is also used of a *kṣatriya*, *vā nāmadheyasya vṛddhasaṃjñā vaktavyā*, *ñyaṅ*, no *vṛddhi* after *v*, initial acute by *ñit*); **suṣvim** (*ṣuñ abhiṣave*, *kin*, doubling by the perfect-like rule, *yaṇ*).)*
 
-**Translation of the bhāṣya:** "*Ekaḥ*: he alone, capable of conquering enemies, *bhūreḥ īśānaḥ*, lord, master, of manifold wealth, *yad vavne*, whatever hymn he asked for [belonging to these *eṣām* praisers]; or, with a change of case, by these praisers that well-known hymn has been offered (*anu dāyi*) to this Indra — meaning 'was made' [reading doubtful [?]]. This is the story for the second half: there was a king named Svaśva. He, wishing for a son, worshipped Sūrya, and Sūrya himself became his son. A battle arose between him and the great seer named Etaśa; this is what is told here. This Indra, *sauvaśvye*, in [the war with] the son of Svaśva, *sūrye*, Sūrya, [protected] *etaśam*, the seer named Etaśa, who *paspṛdhānam*, was contending [with Sūrya], *suṣvim*, the presser of the Soma-juices: *prāvat*, protected him well."
+**Translation of the bhāṣya:** "*Ekaḥ*: he alone, capable of conquering enemies, *bhūreḥ īśānaḥ*, lord, master, of manifold wealth, *yad vavne*, whatever hymn he asked for [belonging to these *eṣām* praisers]; or, with a change of case, by these praisers that well-known hymn has been offered (*anu dāyi*) to this Indra — meaning 'was made' [the print's initial vowel looks like *ā* (*ākāri*) [?]]. This is the story for the second half: there was a king named Svaśva. He, wishing for a son, worshipped Sūrya, and Sūrya himself became his son. A battle arose between him and the great seer named Etaśa; this is what is told here. This Indra, *sauvaśvye*, in [the war with] the son of Svaśva, *sūrye*, Sūrya, [protected] *etaśam*, the seer named Etaśa, who *paspṛdhānam*, was contending [with Sūrya], *suṣvim*, the presser of the Soma-juices: *prāvat*, protected him well."
 
 **Pratipadārtha** *(p. 524)* — "**ekaḥ** — the sole one, in conquering enemies; **bhūreḥ** — of manifold wealth; **īśānaḥ** — the lord; Indra; **yat** — whatever hymn; **vavne** — he desired; **eṣām** — of those praisers, or by them; **tyat** — that famous hymn; **asmā idu** — to that Indra; **anu dāyi** — has been offered; **indraḥ** — Indra; **sauvaśvye** — [in the matter of] his own son; **sūrye** — with Sūrya; **paspṛdhānam** — who was contending; **etaśam** — the seer named Etaśa; **pra āvat** — protected well."
 
@@ -9321,7 +9321,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 525** — **ekaḥ**: "here the word *eka* means 'without a helper'. Indra, without anyone's help, alone, is able to conquer enemies." **eṣām**: "though it should mean 'of these hymns', here, by the exchange of case (*vibhaktivyatyaya*), they have explained it in the sense of the third case — 'by these hymns'." **sauvaśvye**: "in the son of the king named Svaśva: in former times King Svaśva, desiring a son, performed penance addressed to Sūrya; pleased with his penance, Sūrya himself was born as the king's son. A terrible battle arose between him and the great seer Etaśa." **suṣviṃ** — *ṣuñ abhiṣave*: "the one who offers (presses) the Soma-juice. The great seer Etaśa, named above, satisfied Indra by the Soma sacrifice. Indra, pleased with his penance, protected him from Sūrya."
 
-**Vyākaraṇa-prakriyā** *(pp. 525–526 — noted briefly)* — *Grammar pages, noted briefly.* **dāyi**: *ḍudāñ dāne*; passive *luṅ*, third singular *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* for *ta*; *ciṇo luk* (Pā. 6-4-104 as read [?]): loss of the following *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read [?]): *yuk*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*, after a non-verb. **vavne**: *vanu yācane*; *liṭ*, third singular; *eś*; doubling; *halādiśeṣa*; by *vyatyaya* the penultimate is lost though there is no cause for it; because of the *yad* word, no *nighāta*; end-acute by the suffix. **paspṛdhānam**: *spardha saṃgharṣe*; *kānac* in place of *liṭ*; doubling; in the reduplicative syllable *śarpūrvāḥ khayaḥ* (Pā. 7-4-61 as read [?]): the *p* remains; by *pṛṣodarādi*, the loss of the *a* of the root and the *saṃprasāraṇa* of *r*, as taught by "as stated" rules; *citaḥ*: end-acute. **sauvaśvye**: *svaśva* is the name of a country and also a *kṣatriya* name; *vā nāmadheyasya vṛddhasaṃjñā vaktavyā* (a *vārttika* on Pā. 1-1-73 [?]): it receives the *vṛddha* name; *vṛddhāt kosalājādāñ ñyaṅ* (Pā. 4-1-171 as read [?]): *ñyaṅ* in the sense of "descendant"; *vṛddhi* would be expected at the beginning, but *na yvābhyāṃ padāntābhyāṃ pūrvau tu tābhyām aic* (Pā. 7-3-3 as read [?]) prevents the *vṛddhi* and gives the *aic* augment after the *v*; being *ñit*, initial acute. **suṣvim**: *ṣuñ abhiṣave*; *utsargaś chandasi* (Pā. 3-2-171 as read [?]): *kin*; doubling by the perfect-like rule (*liḍvadbhāva*); being *kit*, no *guṇa*; *su* + *i*: in the Veda *uvaṅ* does not apply; *yaṇ*: *suṣvi*. **āvat**: *ava rakṣaṇe*; *laṅ*, third singular; *nighāta*, after a non-verb.
+**Vyākaraṇa-prakriyā** *(pp. 525–526 — noted briefly)* — *Grammar pages, noted briefly.* **dāyi**: *ḍudāñ dāne*; passive *luṅ*, third singular *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* for *ta*; *ciṇo luk* (Pā. 6-4-104): loss of the following *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read [?]): *yuk*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*, after a non-verb. **vavne**: *vanu yācane*; *liṭ*, third singular; *eś*; doubling; *halādiśeṣa*; by *vyatyaya* the penultimate is lost though there is no cause for it; because of the *yad* word, no *nighāta*; end-acute by the suffix. **paspṛdhānam**: *spardha saṃgharṣe*; *kānac* in place of *liṭ*; doubling; in the reduplicative syllable *śarpūrvāḥ khayaḥ* (Pā. 7-4-61): the *p* remains; by *pṛṣodarādi*, the loss of the *a* of the root and the *saṃprasāraṇa* of *r*, as taught by "as stated" rules; *citaḥ*: end-acute. **sauvaśvye**: *svaśva* is the name of a country and also a *kṣatriya* name; *vā nāmadheyasya vṛddhasaṃjñā vaktavyā* (printed "Pā. sū. 1-1-73-5" as read, the second and last digits [?]): it receives the *vṛddha* name; *vṛddhāt kosalājādāñ ñyaṅ* (Pā. 4-1-171 as read [?]): *ñyaṅ* in the sense of "descendant"; *vṛddhi* would be expected at the beginning, but *na yvābhyāṃ padāntābhyāṃ pūrvau tu tābhyām aic* (Pā. 7-3-3) prevents the *vṛddhi* and gives the *aic* augment after the *v*; being *ñit*, initial acute. **suṣvim**: *ṣuñ abhiṣave*; *utsargaś chandasi* (printed Pā. sū. 3-2-171-2, a *vārttika*): *kin*; doubling by the perfect-like rule (*liḍvadbhāva*); being *kit*, no *guṇa*; *su* + *i*: in the Veda *uvaṅ* does not apply; *yaṇ*: *suṣvi*. **āvat**: *ava rakṣaṇe*; *laṅ*, third singular; *nighāta*, after a non-verb.
 
 ---
 
