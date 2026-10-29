@@ -6492,13 +6492,13 @@
 
 ### Rik 55.4 (pp. 353–356, PDF 369–372)
 
-**Saṃhitā-pāṭha** *(p. 353)*
+**Saṃhitā-pāṭha** *(p. 353; accents as printed; [accent ?]: the anudātta in* namasyubhiḥ *is under* ma*, none visible under* na*; the svarita of* chandur *is set where printed, over* du*)*
 
-> **स इद्वने नमस्युभिर्वचस्यते चारु जनेषु प्रब्रुवाण इन्द्रियम् ।**
-> **वृषा छन्दुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति ॥ ४ ॥**
+> **स इद्वने॑ नम॒स्युभि॑र्वचस्यते॒ चारु॒ जने॑षु प्रब्रुवा॒ण इ॑न्द्रियम् ।**
+> **वृषा॒ छन्दु॑र्भवति हर्य॒तो वृषा॒ क्षेमे॑ण॒ धेनां॑ म॒घवा॒ यदिन्व॑ति ॥ ४ ॥**
 
-*sa id vane namasyubhir vacasyate cāru janeṣu prabruvāṇa indriyam |*
-*vṛṣā chandur bhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yad invati || 4 ||*
+*sá íd váne namasyúbhir vacasyate cā́ru jáneṣu prabruvāṇá indriyam |*
+*vṛ́ṣā chándur bhavati haryató vṛ́ṣā kṣémeṇa dhénāṃ maghávā yád ínvati || 4 ||*
 
 **Pada-pāṭha** *(p. 353)*
 
