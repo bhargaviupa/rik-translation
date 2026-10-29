@@ -3318,15 +3318,17 @@
 
 ---
 
-### Rik 51.7 (pp. 176–, PDF 192–)
+### Rik 51.7 (pp. 176–179, PDF 192–195)
 
-**Saṃhitā-pāṭha** *(p. 176; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 176; accents as printed)*
 
-> **त्वे विश्वा तविषी सध्र्यग्घिता तव राधः सोमपीथाय हर्षते ।**
-> **तव वज्रश्चिकिते बाह्वोर्हितो वृश्चा शत्रोरव विश्वानि वृष्ण्या ॥ ७ ॥**
+> **त्वे विश्वा॒ तवि॑षी स॒ध्र्य॑ग्घि॒ता तव॒ रा॑धः सोमपी॒थाय॑ हर्षते ।**
+> **तव॒ वज्र॑श्चिकिते बा॒ह्वोर्हि॒तो वृ॒श्चा शत्रो॒रव॒ विश्वा॑नि॒ वृ॑ष्ण्या ॥ ७ ॥**
 
-*tve viśvā taviṣī sadhryag ghitā tava rādhaḥ somapīthāya harṣate |*
-*tava vajraś cikite bāhvor hito vṛścā śatror ava viśvāni vṛṣṇyā || 7 ||*
+*tvé víśvā táviṣī sadhryàg ghitā́ táva rā́dhaḥ somapīthā́ya harṣate |*
+*táva vájraś cikite bāhvór hitó vṛścā́ śatrór áva víśvāni vṛ́ṣṇyā || 7 ||*
+
+*[accent ?] As printed: the stroke over* ध्र्य *of* सध्र्यक् *(independent svarita), the svarita over* रा *after the anudātta under* व *of* तव*, the stroke of* सोमपीथाय *standing between* था *and* य *(placed on* य*), and the svarita over* वृ *of* वृष्ण्या *after the anudātta under* नि*; no marks seen on* हर्षते*,* चिकिते*.*
 
 **Pada-pāṭha** *(p. 176)*
 
@@ -3340,13 +3342,13 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 176–177)*
 
-> **हे इन्द्र त्वे त्वयि विश्वा तविषी सर्वं बलं सध्र्यक् [सम्यगञ्चनं?] यथा भवति तथा हिता निहिता । तथा तव राधो मनः सोमपीथाय सोमपानाय हर्षते । हृष्यति । किंच तव बाह्वोर्हस्तयोर्हितोऽवस्थितो वज्रश्चिकिते । अस्माभिर्ज्ञायते । अतः शत्रोः शातयितुर्वृत्रस्य विश्वानि सर्वाणि वृष्ण्या वृष्ण्यानि वीर्याण्यववृश्च । भेदनं कुरु ॥**
+> **हे इन्द्र त्वे त्वयि विश्वा तविषी सर्वं बलं सध्र्यक् सध्रीचीनमपराङ्मुखं यथा भवति तथा हिता निहितम् । तथा तव राधो मनः सोमपीथाय सोमपानाय हर्षते । हृष्यति । किंच तव बाह्वोर्हस्तयोर्हितोऽवस्थितो वज्रश्चिकिते । अस्माभिर्ज्ञायते । अतः शत्रोः शातयितुर्वृत्रस्य विश्वानि सर्वाणि वृष्ण्या वृष्ण्यानि वीर्याण्यववृश्च । भेदनं कुरु ॥**
 
-*he indra tve tvayi viśvā taviṣī sarvaṃ balaṃ sadhryak [samyag añcanaṃ? — crowded, [?]] yathā bhavati tathā hitā nihitā | tathā tava rādho manaḥ somapīthāya somapānāya harṣate | hṛṣyati | kiṃca tava bāhvor hastayor hito 'vasthito vajraś cikite | asmābhir jñāyate | ataḥ śatroḥ śātayituḥ vṛtrasya viśvāni sarvāṇi vṛṣṇyā vṛṣṇyāni vīryāṇy ava vṛśca | bhedanaṃ kuru ||*
+*he indra tve tvayi viśvā taviṣī sarvaṃ balaṃ sadhryak sadhrīcīnam aparāṅmukhaṃ yathā bhavati tathā hitā nihitam | tathā tava rādho manaḥ somapīthāya somapānāya harṣate | hṛṣyati | kiṃca tava bāhvor hastayor hito 'vasthito vajraś cikite | asmābhir jñāyate | ataḥ śatroḥ śātayituḥ vṛtrasya viśvāni sarvāṇi vṛṣṇyā vṛṣṇyāni vīryāṇy ava vṛśca | bhedanaṃ kuru ||*
 
 **Translation of the bhāṣya:** "O Indra, in you (*tve*) all strength (*viśvā taviṣī*) is *sadhryak* — placed together, concentrated — *hitā*, laid. And your *rādhaḥ*, mind, rejoices (*harṣate*) for drinking soma (*somapīthāya*). Moreover, the thunderbolt, *hitaḥ*, placed, in your two arms, is known (*cikite*) to us. Therefore, of the enemy, the harassing Vṛtra, cut off (*ava vṛśca*) all (*viśvāni*) the manly powers (*vṛṣṇyā*) — split them."
 
-**Grammatical tail of the bhāṣya** *(p. 177 — characterized, not transcribed)*: *sadhryak* (*saha añcatīti*, the suffix *kvin*, the *sahasya sadhriḥ* substitution in the compound; accent); *rādhaḥ* (*rādhnoti samṛddho bhavaty anena*, "here *rādhaḥ* means mind"; *asun* suffix, initial acute because *n*-marked); *somapīthāya* (*pā pāne*, the suffix *thak* by *pātṛtudivacidhūsūsūtisūyatibhyas*… [?] — as read the list is crowded — with *ghumāsthā…* the *ī*); *harṣate* (*hṛṣa tuṣṭau*; *śap* by *vyatyaya*; *ātmanepada*); *cikite* (*kita jñāne*; the *liṭ* in the present-passive sense, by *chandasi luṅlaṅliṭaḥ*); *bāhvoḥ* (the vibhakti-accent *udāttena*); *vṛśca* (*oś vraścū chedane*, *tudādi*; *saṃprasāraṇa* by *grahijyā…*; the *vikaraṇa*-accent; lengthening in *saṃhitā* by *dyubhyo 'ṇ*…); *vṛṣṇyā* (*vṛṣa secane*, Uṇādi *nak*; *tatra bhavāni vṛṣṇyāni*, *bhave chandasi yat*; initial-acute by *yato 'nāvaḥ*; *śeś chandasi* — the *ś*-substitute dropped).
+**Grammatical tail of the bhāṣya** *(p. 177 — characterized, not transcribed)*: *sadhryak* (*saha añcatīti*, the suffix *kvin*, the *sahasya sadhriḥ* substitution in the compound; accent); *rādhaḥ* (*rādhnoti samṛddho bhavaty anena*, "here *rādhaḥ* means mind"; *asun* suffix, initial acute because *n*-marked); *somapīthāya* (*pā pāne*, the suffix *thak* by *pātṛtudivacītyādinā* (as printed) — with *ghumāsthā…* the *ī*); *harṣate* (*hṛṣa tuṣṭau*; *śap* by *vyatyaya*; *ātmanepada*); *cikite* (*kita jñāne*; the *liṭ* in the present-passive sense, by *chandasi luṅlaṅliṭaḥ*); *bāhvoḥ* (the vibhakti-accent *udāttena*); *vṛśca* (*oś vraścū chedane*, *tudādi*; *saṃprasāraṇa* by *grahijyā…*; the *vikaraṇa*-accent; lengthening in *saṃhitā* by *dyubhyo 'ṇ*…); *vṛṣṇyā* (*vṛṣa secane*, Uṇādi *nak*; *tatra bhavāni vṛṣṇyāni*, *bhave chandasi yat*; initial-acute by *yato 'nāvaḥ*; *śeś chandasi* — the *ś*-substitute dropped).
 
 **Pratipadārtha** *(p. 177)* — "(O Indra) **tve** — in you; **viśvā taviṣī** — all strength; **sadhryak hitā** — has been together concentrated; **tava** — your; **rādhaḥ** — mind; **somapīthāya** — for the drinking of the soma juice; **harṣate** — becomes glad; **tava bāhvoḥ** — in your hands; **hitaḥ** — placed; **vajraḥ** — the thunderbolt; **cikite** — has come to be known (to us; therefore); **śatroḥ** — of the destroying enemy; **viśvāni vṛṣṇyā** — all prowess; **ava vṛśca** — split off."
 
@@ -3372,14 +3374,14 @@
 - **vṛśca** — "Its meaning is 'cut'. In the Saṃhitā alone it is pronounced long by the sūtra *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135)."
 
 **Vyākaraṇa-prakriyā** *(pp. 178–179 — grammar pages, noted briefly)*
-- **sadhryak**: *saha añcatīti*; *añcu gatipūjanayoḥ*; *kvin* after the root when a subanta stands as the *upapada* (*ṛtvikdadhṛk…*, Pā. 3-2-59); the nasal of *añc* lost by *aniditāṃ…*; with *saha* in the compound, *sahasya sadhriḥ* (Pā. 6-3-95) gives *sadhri*; *su* elided by *halṅyābbhyo…*; *co kuḥ* (Pā. 8-2-30) turns *c* into *k*; the accent of the final member by *gatikārakopapadāt kṛt* is overridden by the rule that *adrisadhryor antodāttatvaṃ nipātanam* (as read [?]); the semi-vowel by *udāttasvaritayor yaṇaḥ* (Pā. 8-2-4) gives a *svarita*-ending word.
-- **rādhaḥ**: *rādha saṃsiddhau*, "*rādhnoti samṛddho bhavaty anena*"; the Uṇādi *asun* by *sarvadhātubhyo 'sun* (Uṇ. 4-… as read [?]); *rādhas*; initial-acute by *ñnityādir nityam*.
-- **somapīthāya**: *somasya pīthaḥ*; *pā pāne*, *bhvādi*; *thak* by *pātṛtudivaci…* (Uṇ. 2-… as read [?]); *ghumāsthāgāpā…* (Pā. 6-4-66) gives *ī*; dative.
+- **sadhryak**: *saha añcatīti*; *añcu gatipūjanayoḥ*; *kvin* after the root when a subanta stands as the *upapada* (*ṛtvikdadhṛk…*, Pā. 3-2-59); the nasal of *añc* lost by *aniditāṃ…*; with *saha* in the compound, *sahasya sadhriḥ* (Pā. 6-3-95) gives *sadhri*; *su* elided by *halṅyābbhyo…*; *co kuḥ* (Pā. 8-2-30) turns *c* into *k*; the accent of the final member by *gatikārakopapadāt kṛt* is overridden by the rule that *adrisadhryor antodāttatvanipātanaṃ kṛtsvaranivṛttyartham* (Pā. sū. 6-3-95-1); the semi-vowel by *udāttasvaritayor yaṇaḥ* (Pā. 8-2-4) gives a *svarita*-ending word.
+- **rādhaḥ**: *rādha saṃsiddhau*, "*rādhnoti samṛddho bhavaty anena*"; the Uṇādi *asun* by *sarvadhātubhyo 'sun* (Uṇ. 4-628 as printed); *rādhas*; initial-acute by *ñnityādir nityam*.
+- **somapīthāya**: *somasya pīthaḥ*; *pā pāne*, *bhvādi*; *thak* by *pātṛtudivaci…* (Uṇ. 1-164); *ghumāsthāgāpā…* (Pā. 6-4-66) gives *ī*; dative.
 - **harṣate**: *hṛṣa tuṣṭau*, *divādi*; *laṭ* third singular; *śyan* replaced by *śap* by *vyatyayo bahulam*; *guṇa*; *nighāta*.
 - **cikite**: *kita jñāne*; by *chandasi luṅlaṅliṭaḥ* a *liṭ* in the present passive sense; reduplication; *halādiḥ śeṣaḥ*; *cutva*.
-- **bāhvoḥ**: genitive dual; the vibhakti-accent by *udāttayaṇo hal pūrvāt* (Pā. 6-1-174 as read [?]).
+- **bāhvoḥ**: genitive dual; the vibhakti-accent by *udāttayaṇo hal pūrvāt* (Pā. 6-1-174).
 - **vṛśca**: *ovraścū chedane*, *tudādi*, *loṭ* second singular *sip*; *tudādibhyaḥ śaḥ*; because *sip* is *apit*, the *śa* is *ṅit*; *saṃprasāraṇa* by *grahijyā…* (Pā. 6-1-16); *hi* for *sip*, elided by *ato heḥ*; accent from the *vikaraṇa*, end-acute; in the Saṃhitā lengthened by *dvyaco 'tas tiṅaḥ*.
-- **vṛṣṇyā**: *vṛṣa secane*; the Uṇādi suffix *nak*: *vṛṣṇa*; *vṛṣṇe bhavāni vṛṣṇyāni*; *bhave chandasi* (Pā. 4-4-110 as read [?]) gives *yat*; *yasyeti ca* drops the *a*; accusative plural *śas* → *śi*, which is lost by *śeś chandasi*; the initial acute by *yato 'nāvaḥ* (Pā. 6-1-213) as the *yat*-ending word. **|| 7 ||**
+- **vṛṣṇyā**: *vṛṣa secane*; the Uṇādi suffix *nak*: *vṛṣṇa*; *vṛṣṇe bhavāni vṛṣṇyāni*; *bhave chandasi* (Pā. 4-4-110) gives *yat*; *yasyeti ca* drops the *a*; accusative plural *śas* → *śi*, which is lost by *śeś chandasi*; the initial acute by *yato 'nāvaḥ* (Pā. 6-1-213) as the *yat*-ending word. **|| 7 ||**
 
 ---
 
