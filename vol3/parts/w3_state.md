@@ -4,10 +4,14 @@ Range: (1) Ṛk 26.10 (p. 370 = PDF 384) → end of Sūkta 29 (p. 458); (2) Ṛk
 incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch `claude/pass2-vol3`. Edits log: `review/edits_w3.txt`.
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
-Done through: Ṛk 29.6 (p. 454 = PDF 468).
-Next unit: Ṛk 29.7 + close of Sūkta 29 (pp. 455–458 = PDF 469–472; redone region).
+Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
+Next unit: part (2), Ṛk 31.4 (p. 534 = PDF 548).
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
+- p. 443: bhāṣya prints नि. ९-१७ (first digit ೯-like) where the grammar (p. 444) prints Niru. 6-17.
+- p. 441: Pā. 3-2-74 middle-last digit 7 (flat foot) read with some doubt; Ni. 3-9 as printed.
+- pp. 447: 8-3-48 and 6-1-137 kept "as printed" (for 8-3-98, 6-3-137).
+- p. 452: Ṛk 29.6 Saṃhitā [accent ?] (stroke between णा and च्या).
 (see also v3a_state.md / v3b_state.md)
 - p. 373: U. sū. 4-6[3]9 (cāyer anne hrasvaś ca) middle digit 3, possibly 5; bhāṣya prints उ. ४-१९९.
