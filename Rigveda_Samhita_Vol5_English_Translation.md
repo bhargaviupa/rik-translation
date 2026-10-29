@@ -2491,13 +2491,15 @@
 
 ### Rik 50.8 (pp. 129–130, PDF 145–146)
 
-**Saṃhitā-pāṭha** *(p. 129; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 129; accents as printed)*
 
-> **सप्त त्वा हरितो रथे वहन्ति देव सूर्य ।**
-> **शोचिष्केशं विचक्षण ॥ ८ ॥**
+> **स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य ।**
+> **शो॒चिष्के॑शं विचक्षण ॥ ८ ॥**
 
-*sapta tvā harito rathe vahanti deva sūrya |*
-*śociṣkeśaṃ vicakṣaṇa || 8 ||*
+*saptá tvā haríto ráthe váhanti deva sūrya |*
+*śocíṣkeśaṃ vicakṣaṇa || 8 ||*
+
+*(The IAST acutes are inferred from the printed marks.)*
 
 **Pada-pāṭha** *(p. 129)*
 
@@ -2509,13 +2511,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 129)*
 
-> **हे सूर्य देव द्योतमान विचक्षण सर्वस्य प्रकाशयितः सप्त सप्तसंख्याका हरितोऽश्वा रसहरणशीला रश्मयो वा त्वा त्वां वहन्ति । प्रापयन्ति । कीदृशं । रथेऽवस्थितमिति शेषः । तथा शोचिष्केशं । शोचींषि तेजांस्येव यस्मिन्केशा इव दृश्यन्ते स तथोक्तः । तं । हरित इत्यादित्याश्वानां संज्ञा । हरित आदित्यस्येति निघण्टावुक्तत्वात् ॥ शोचिष्केशं । शुच दीप्तौ । अर्चिशुचिहृसृपिछादिछर्दिभ्य इसिः । उ. २-१०८ [?] । इसिप्रत्ययान्तोऽन्तोदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन शिष्यते । नित्यं समासेऽनुत्तरपदस्थस्येति विसर्जनीयस्य षत्वम् ॥**
+> **हे सूर्य देव द्योतमान विचक्षण सर्वस्य प्रकाशयितः सप्त सप्तसंख्याका हरितोऽश्वा रसहरणशीला रश्मयो वा त्वा त्वां वहन्ति । प्रापयन्ति । कीदृशं । रथेऽवस्थितमिति शेषः । तथा शोचिष्केशं । शोचींषि तेजांस्येव यस्मिन्केशा इव दृश्यन्ते स तथोक्तः । तं । हरित इत्यादित्याश्वानां संज्ञा । हरित आदित्यस्येति निघण्टावुक्तत्वात् ॥ शोचिष्केशं । शुच दीप्तौ । अर्चिशुचिहृसृपीत्यादिनेसिप्रत्ययान्तोऽन्तोदात्तः । स एव बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वेन शिष्यते । नित्यं समासेऽनुत्तरपदस्थस्येति विसर्जनीयस्य षत्वम् ॥**
 
-*he sūrya deva dyotamāna vicakṣaṇa sarvasya prakāśayitaḥ sapta saptasaṃkhyākā harito 'śvā rasaharaṇaśīlā raśmayo vā tvā tvāṃ vahanti | prāpayanti | kīdṛśaṃ | rathe 'vasthitam iti śeṣaḥ | tathā śociṣkeśaṃ | śociṃṣi tejāṃsy eva yasmin keśā iva dṛśyante sa tathoktaḥ | taṃ | harita ity ādityāśvānāṃ saṃjñā | harita ādityasyeti nighaṇṭāv uktatvāt || śociṣkeśaṃ | śuca dīptau | arciśucihṛsṛpichādichardibhya isiḥ | u. 2-108 [?] | isipratyayānto 'ntodāttaḥ | sa eva bahuvrīhau pūrvapadaprakṛtisvaratvena śiṣyate | nityaṃ samāse 'nuttarapadasthasyeti visarjanīyasya ṣatvam ||*
+*he sūrya deva dyotamāna vicakṣaṇa sarvasya prakāśayitaḥ sapta saptasaṃkhyākā harito 'śvā rasaharaṇaśīlā raśmayo vā tvā tvāṃ vahanti | prāpayanti | kīdṛśaṃ | rathe 'vasthitam iti śeṣaḥ | tathā śociṣkeśaṃ | śociṃṣi tejāṃsy eva yasmin keśā iva dṛśyante sa tathoktaḥ | taṃ | harita ity ādityāśvānāṃ saṃjñā | harita ādityasyeti nighaṇṭāv uktatvāt || śociṣkeśaṃ | śuca dīptau | arciśucihṛsṛpīty ādinesipratyayānto 'ntodāttaḥ | sa eva bahuvrīhau pūrvapadaprakṛtisvaratvena śiṣyate | nityaṃ samāse 'nuttarapadasthasyeti visarjanīyasya ṣatvam ||*
 
-*(Crowded: "rasaharaṇaśīlā" and the Uṇādi number; as read, [?].)*
+*(Re-read from the print: "rasaharaṇaśīlā"; the bhāṣya cites the Uṇādi rule as "arciśucihṛsṛpīty ādinā", with no number.)*
 
-**Translation:** "O Sūrya, O shining god, O *vicakṣaṇa*, illuminer of all: *sapta*, seven, *haritaḥ*, the horses, or the rays that draw up the sap, *tvā vahanti*, bear you — as you stand in the chariot (the words understood). And *śociṣkeśam*, he in whom the flames, the splendours, are seen as it were as hair. *Harit* is a name of the Sun's horses, as the Nighaṇṭu says: '*harita* is the Āditya's'. *Śociṣkeśam*: root *śuca dīptau*; the Uṇādi *isi* suffix (Uṇ. 2-108 [?]), end-acute; this alone remains in the bahuvrīhi by the first member's natural accent; *ṣatva* of the *visarga* in a compound by *nityaṃ samāse 'nuttarapadasthasya*."
+**Translation:** "O Sūrya, O shining god, O *vicakṣaṇa*, illuminer of all: *sapta*, seven, *haritaḥ*, the horses, or the rays that draw up the sap, *tvā vahanti*, bear you — as you stand in the chariot (the words understood). And *śociṣkeśam*, he in whom the flames, the splendours, are seen as it were as hair. *Harit* is a name of the Sun's horses, as the Nighaṇṭu says: '*harita* is the Āditya's'. *Śociṣkeśam*: root *śuca dīptau*; the Uṇādi *isi* suffix (by *arciśucihṛsṛpi…*), end-acute; this alone remains in the bahuvrīhi by the first member's natural accent; *ṣatva* of the *visarga* in a compound by *nityaṃ samāse 'nuttarapadasthasya*."
 
 **Pratipadārtha** *(p. 129)* — "**deva** — O shining one; **vicakṣaṇa** — who make all shine; **sūrya** — O god Sūrya; **rathe** — seated in the chariot; **śociṣkeśam** — whose hair is of flames, endowed with locks of splendour; **tvā** — you; **sapta haritaḥ** — seven horses called *harit*, or the rays that draw up water; **vahanti** — bear."
 
@@ -2524,16 +2526,16 @@
 **English Translation (the source's own, p. 130)** — "Divine and light-spreading Surya, your seven horses (mares) bear you bright-haired in your car."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 130**
-- **sapta haritaḥ** — "the Sun's chariot has seven horses. These horses are well known as of green-tawny colour. As Yāska says '*harita ādityasya*' (Ni. 1-[?]7 as read), the horses of the Sun are called *haritaḥ*. Since *haritaḥ* also means rays, the rays of the Sun are themselves spoken of as the horses of the Sun. Some say that the seven days of the week are the seven horses." — **untranslated in the source**:
+- **sapta haritaḥ** — "the Sun's chariot has seven horses. These horses are well known as of green-tawny colour. As Yāska says '*harita ādityasya*' (Ni. 2-28), the horses of the Sun are called *haritaḥ*. Since *haritaḥ* also means rays, the rays of the Sun are themselves spoken of as the horses of the Sun. Some say that the seven days of the week are the seven horses." — **untranslated in the source**:
 
-  > **हरित आदित्यस्य ।** *(Ni. 1-[?]7 as read [?])*
+  > **हरित आदित्यस्य ।** *(Ni. 2-28)*
 
   *harita ādityasya |* — mine and tentative: "the *haritas* (tawny ones) are the Āditya's."
 - **śociṣkeśam** — "*śuca dīptau*; *śociṃṣi tejāṃsy eva yasmin keśā iva dṛśyante sa śociṣkeśaḥ*: since the bright rays of the Sun are seen like hair, the poet describes the Sun as *śociṣkeśa*, 'having locks of shining splendour', in order to say that he has shining rays."
 
 **Vyākaraṇa-prakriyā** *(p. 130 — grammar page, noted briefly)*
 - **vahanti**: root *vaha prāpaṇe*, *bhvādi*; third person plural: *vahanti*; the *tiṅ* is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*; *śap* being *pit* is unaccented; the end-acute of the root remains.
-- **śociṣkeśam**: root *śuca dīptau*, *bhvādi*; *arciśucihṛsṛpichādichardibhya isiḥ* (Uṇ. 2-[?]08 as read [?]) gives *isi*; *guṇa* of the root's penultimate; *śociṣ* → *śociḥ* with *ru* and *visarga*; end-acute by the suffix-accent. "*Śociṃṣi keśāḥ yasya saḥ*": a bahuvrīhi; *nityaṃ samāse 'nuttarapadasthasya* (Pā. 8-3-45 as read) gives *ṣatva* to the *visarga* of the first member's *is* before a *ku*-letter, always in a compound; accusative singular: *śociṣkeśam*; since it is a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1 as read) gives the first member's natural accent, overriding the compound-accent; the *i* after *c* is acute, and the unaccented after it becomes *svarita*. **|| 8 ||**
+- **śociṣkeśam**: root *śuca dīptau*, *bhvādi*; *arciśucihṛsṛpichādichardibhya isiḥ* (Uṇ. 2-365, as printed) gives *isi*; *guṇa* of the root's penultimate; *śociṣ* → *śociḥ* with *ru* and *visarga*; end-acute by the suffix-accent. "*Śociṃṣi keśāḥ yasya saḥ*": a bahuvrīhi; *nityaṃ samāse 'nuttarapadasthasya* (Pā. 8-3-45) gives *ṣatva* to the *visarga* of the first member's *is* before a *ku*-letter, always in a compound; accusative singular: *śociṣkeśam*; since it is a bahuvrīhi, *bahuvrīhau prakṛtyā pūrvapadam* (Pā. 6-2-1) gives the first member's natural accent, overriding the compound-accent; the *i* after *c* is acute, and the unaccented after it becomes *svarita*. **|| 8 ||**
 
 *(A printer's ornament at the foot of p. 130 closes the page; no varga-end note is printed there.)*
 
