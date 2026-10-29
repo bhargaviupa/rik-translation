@@ -12,7 +12,7 @@ Better-scan map breaks near p. 626: PDF 641 = p. 625, 642 = p. 630, 643 = p. 631
 old scan (V5OLD=1) used for pp. 626 and 632. Earlier: the edition numbers Maṇḍala 8 without the Vālakhilya (8-59 = std 8-70), refs left as printed.
 
 Open items:
-- ~400 bare "?" reference numerals (e.g. "(1-?-?)", not marked [?]) remain in pp. 577–708; not checked under the Oct 29 rule. Coordinator/user to decide whether they count as flagged.
+- Bare-? pass (Oct 29): p. 577 read from the print (tools ltile_w5c.py, tiles_w5c.py, bands_w5c.sh); then STOPPED on the user's decision (via coordinator) to leave the Pariśiṣṭa as is: the remaining ~400 bare "?" reference numerals in pp. 578–708 were intentionally left. Was: ~400 bare "?" reference numerals (e.g. "(1-?-?)", not marked [?]) remain in pp. 577–708; not checked under the Oct 29 rule. Coordinator/user to decide whether they count as flagged.
 - 9-26-5 [?] (p. 576); 10-102-12 [?] (p. 574); gāṣṭveya [?] (p. 572) (from earlier sessions).
 - 7-56-20 (p. 597): final ೦ partly broken, read as printed.
 - The trailing progress note's flag text (contains "[?]") was not touched (outside the range rules).
