@@ -5198,46 +5198,46 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-## SŪKTA 38 *(printed p. 292 foot = PDF 306)*
+## SŪKTA 38 *(printed p. 292 foot = PDF 307 of the better scan)*
 
 **Thirty-eighth Sūkta** *(large Kannada title line: "mūvattentaneya sūktavu")*
 
-### Page 292 (PDF 306) — Sāyaṇa's introduction and the Kannada anuvāda
+### Page 292 (PDF 307) — Sāyaṇa's introduction and the Kannada anuvāda
 
-**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; the word marked [?] is crowded)*
+**Sāyaṇa's introduction** *(printed in Kannada script; checked against the better scan)*
 
-> कद्ध नूनमिति पञ्चदशर्चं तृतीयं सूक्तम् । घोरपुत्रः कण्व ऋषिः । ऋषिश्चान्यस्मादिति परिभाषितत्वात् । पूर्वसूक्ते मारुतं हीत्युक्तत्वादिदमपि मरुद्देवताकं । गायत्रं त्रि[?]त्युक्तत्वाद्गायत्रीच्छन्दस्कं । कद्धेत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
+> कद्ध नूनमिति पञ्चदशर्चं तृतीयं सूक्तम् । घोरपुत्रः कण्व ऋषिः । ऋषिश्चान्यस्मादिति परिभाषितत्वात् । पूर्वसूक्ते मारुतं हीत्युक्तत्वादिदमपि मरुद्देवताकं । गायत्रं त्वित्युक्तत्वाद्गायत्रीच्छन्दस्कं । कद्धेत्यनुक्रमणिका । विनियोगो लैङ्गिकः ॥
 
-*kaddha nūnam iti pañcadaśarcaṃ tṛtīyaṃ sūktam | ghoraputraḥ kaṇva ṛṣiḥ | ṛṣiś cānyasmād iti paribhāṣitatvāt | pūrvasūkte mārutaṃ hīty uktatvād idam api maruddevatākaṃ | gāyatraṃ tri[?]ty uktatvād gāyatrīchandaskaṃ | kaddheti anukramaṇikā | viniyogo laiṅgikaḥ ||*
+*kaddha nūnam iti pañcadaśarcaṃ tṛtīyaṃ sūktam | ghoraputraḥ kaṇva ṛṣiḥ | ṛṣiś cānyasmād iti paribhāṣitatvāt | pūrvasūkte mārutaṃ hīty uktatvād idam api maruddevatākaṃ | gāyatraṃ tv ity uktatvād gāyatrīchandaskaṃ | kaddheti anukramaṇikā | viniyogo laiṅgikaḥ ||*
 
-**Translation:** "*Kaddha nūnam* — the third sūkta [of the anuvāka], of fifteen ṛks. Kaṇva, son of Ghora, is the ṛṣi, by the rule 'and the ṛṣi [is the same] as another [sūkta]'. Because in the preceding sūkta it was said '[it is] Māruta indeed', this one also has the Maruts as deity. [Because] the Gāyatra [metre] is stated [in the preceding one — the word is crowded [?]], it has the Gāyatrī metre. [The Anukramaṇikā says] '*kaddha*…'. The application (*viniyoga*) is *laiṅgika* [by the indication of the sense]."
+**Translation:** "*Kaddha nūnam* — the third sūkta [of the anuvāka], of fifteen ṛks. Kaṇva, son of Ghora, is the ṛṣi, by the rule 'and the ṛṣi [is the same] as another [sūkta]'. Because in the preceding sūkta it was said '[it is] Māruta indeed', this one also has the Maruts as deity. Because it is said '*gāyatraṃ tu*' ('but Gāyatra'), it has the Gāyatrī metre. [The Anukramaṇikā says] '*kaddha*…'. The application (*viniyoga*) is *laiṅgika* [by the indication of the sense]."
 
 **Anuvāda (Kannada), p. 292** — "*Kaddha nūnam* is the third sūkta in this eighth anuvāka. In it there are fifteen ṛks. The ṛṣi of the preceding sūkta, Kaṇva the son of Ghora, is the ṛṣi of this too. The Maruts are the deities. It is of the Gāyatrī metre. The *viniyoga* is *laiṅgika*, that is, in accordance with the sense and with the occasion."
 
 ---
 
-### Page 293 (PDF 307) — heading of Sūkta 38 and Rik 38.1
+### Page 293 (PDF 308) — heading of Sūkta 38 and Rik 38.1
 
 **॥ ॐ ॥**
 
 > **सूक्त — ३८**
 > ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ३८ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — [?] ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — १५, १६, १७ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै — १५ ॥
 > ॥ ऋषिः — कण्वो घौरः ॥
 > ॥ देवता — मरुतः ॥
 > ॥ छन्दः — गायत्री ॥
 
-*sūkta 38 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga [numerals not read with certainty [?]; three varga numbers printed] | ṛks 15 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Gāyatrī.*
+*sūkta 38 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 15, 16, 17 | ṛks 15 | ṛṣi: Kaṇva Ghaura | devatā: the Maruts | chandas: Gāyatrī.*
 
-**Translation of the heading:** "Sūkta 38; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga [numerals unread [?]]; number of ṛks in the sūkta: 15; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Gāyatrī."
+**Translation of the heading:** "Sūkta 38; Maṇḍala 1, Anuvāka 8; Aṣṭaka 1, Adhyāya 3, Varga 15, 16, 17; number of ṛks in the sūkta: 15; Ṛṣi: Kaṇva Ghaura; Deity: the Maruts; Metre: Gāyatrī."
 
-### Rik 38.1 (pp. 293–295, PDF 307–309)
+### Rik 38.1 (pp. 293–295, PDF 308–310)
 
-**Saṃhitā-pāṭha** *(p. 293; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 293 = PDF 308 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **कद्ध नूनं कधप्रियः पिता पुत्रं न हस्तयोः ।**
-> **दधिध्वे वृक्तबर्हिषः ॥ १ ॥**
+> **कद्ध॑ नू॒नं क॑धप्रियः पि॒ता पु॒त्रं न हस्त॑योः ।**
+> **द॒धि॒ध्वे वृ॑क्तबर्हिषः ॥ १ ॥**
 
 *kad dha nūnaṃ kadhapriyaḥ pitā putraṃ na hastayoḥ |*
 *dadhidhve vṛktabarhiṣaḥ || 1 ||*
@@ -5254,17 +5254,17 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Sāyaṇa-bhāṣya** *(pp. 293–294)*
 
-> **हे मरुतः कद्ध कदा खलु नूनमवश्यं हस्तयोर्दधिध्वे । यूयमस्मान्स्ते [?] धारयथ । तत्र दृष्टान्तः । पिता पुत्रं न हस्तयोः । यथा लोके पिता हस्तयोः स्वकीयं पुत्रं धारयति तद्वत् । कीदृशा मरुतः । कधप्रियः स्तुतिप्रीताः । वृक्तबर्हिषः वृक्तं छिन्नं बर्हिर्दर्भो येषां मरुतां यजमानाय ते मरुतस्तथाविधाः ॥**
+> **हे मरुतः कद्ध कदा खलु नूनमवश्यं हस्तयोर्दधिध्वे । यूयमस्मान्हस्ते धारयथ । तत्र दृष्टान्तः । पिता पुत्रं न हस्तयोः । यथा लोके पिता हस्तयोः स्वकीयं पुत्रं धारयति तद्वत् । कीदृशा मरुतः । कधप्रियः स्तुतिप्रीताः । वृक्तबर्हिषः वृक्तं छिन्नं बर्हिर्दर्भो येषां मरुतां यजमानाय ते मरुतस्तथाविधाः ॥**
 
-*he marutaḥ kad dha kadā khalu nūnam avaśyaṃ hastayor dadhidhve | yūyam asmān ste [?] dhārayatha | tatra dṛṣṭāntaḥ | pitā putraṃ na hastayoḥ | yathā loke pitā hastayoḥ svakīyaṃ putraṃ dhārayati tadvat | kīdṛśā marutaḥ | kadhapriyaḥ stutiprītāḥ | vṛktabarhiṣaḥ vṛktaṃ chinnaṃ barhir darbho yeṣāṃ marutāṃ yajamānāya te marutas tathāvidhāḥ ||*
+*he marutaḥ kad dha kadā khalu nūnam avaśyaṃ hastayor dadhidhve | yūyam asmān haste dhārayatha | tatra dṛṣṭāntaḥ | pitā putraṃ na hastayoḥ | yathā loke pitā hastayoḥ svakīyaṃ putraṃ dhārayati tadvat | kīdṛśā marutaḥ | kadhapriyaḥ stutiprītāḥ | vṛktabarhiṣaḥ vṛktaṃ chinnaṃ barhir darbho yeṣāṃ marutāṃ yajamānāya te marutas tathāvidhāḥ ||*
 
-**Translation:** "O Maruts, *kad dha* — when indeed, *nūnam* — surely, will you take [us] in your two hands (*hastayor dadhidhve*)? You hold us [the word *ste* in the print is unclear to me [?]]. The example there: *pitā putraṃ na hastayoḥ* — as, in the world, a father holds his own son in his two hands, so. What kind of Maruts? *Kadhapriyaḥ* — pleased with praise; *vṛktabarhiṣaḥ* — those for whom, for the sacrificer, the *barhis*, the *darbha* grass, has been clipped, cut: such Maruts."
+**Translation:** "O Maruts, *kad dha* — when indeed, *nūnam* — surely, will you take [us] in your two hands (*hastayor dadhidhve*)? You hold us in your hand. The example there: *pitā putraṃ na hastayoḥ* — as, in the world, a father holds his own son in his two hands, so. What kind of Maruts? *Kadhapriyaḥ* — pleased with praise; *vṛktabarhiṣaḥ* — those for whom, for the sacrificer, the *barhis*, the *darbha* grass, has been clipped, cut: such Maruts."
 
-> **कद्ध । कदा । द्यौ चापरौ वर्णविकारनाशौ । का. ६-३-१०९ [?] । इत्येकत्वादाकारलोपः [?] । कधप्रियः । कथा स्तुतिः । तया प्रीणन्तीति कधप्रियः । प्रीञ् प्रीतौ । क्विप् । पूर्वपदस्य ज्यापोः सञ्ज्ञाछन्दसोर्बहुलं । पा. ६-३-६३ [?] । इति ह्रस्वत्वं । थकारश्छान्दसः । आमन्त्रितनिघातः । दधिध्वे । दधातेश्छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । क्रादिनियमादिट् । प्रत्ययस्वरः । वृक्तबर्हिषः । आमन्त्रितनिघातः ॥**
+> **कद्ध । कदा । द्यौ चापरौ वर्णविकारनाशौ । का. ६-३-१०९ । इत्युक्तत्वादाकारलोपः । कधप्रियः । कथा स्तुतिः । तया प्रीणन्तीति कधप्रियः । प्रीञ् प्रीतौ । क्विप् । पूर्वपदस्य ज्यापोः सञ्ज्ञाछन्दसोर्बहुलं । पा. ६-३-६३ । इति ह्रस्वत्वं । थकारश्छान्दसः । आमन्त्रितनिघातः । दधिध्वे । दधातेश्छन्दसि लुङ्लङ्लिट इति वर्तमाने लिट् । क्रादिनियमादिट् । प्रत्ययस्वरः । वृक्तबर्हिषः । आमन्त्रितनिघातः ॥**
 
-*kad dha | kadā | dvau cāparau varṇavikāranāśau | kā. 6-3-109 [?] | ity ekatvād ākāralopaḥ [?] | kadhapriyaḥ | kathā stutiḥ | tayā prīṇantīti kadhapriyaḥ | prīñ prītau | kvip | pūrvapadasya jyāpoḥ saṃjñāchandasor bahulaṃ | pā. 6-3-63 [?] | iti hrasvatvaṃ | thakāraś chāndasaḥ | āmantritanighātaḥ | dadhidhve | dadhāteś chandasi luṅlaṅliṭa iti vartamāne liṭ | krādiniyamād iṭ | pratyayasvaraḥ | vṛktabarhiṣaḥ | āmantritanighātaḥ ||*
+*kad dha | kadā | dvau cāparau varṇavikāranāśau | kā. 6-3-109 | ity uktatvād ākāralopaḥ | kadhapriyaḥ | kathā stutiḥ | tayā prīṇantīti kadhapriyaḥ | prīñ prītau | kvip | pūrvapadasya jyāpoḥ saṃjñāchandasor bahulaṃ | pā. 6-3-63 | iti hrasvatvaṃ | thakāraś chāndasaḥ | āmantritanighātaḥ | dadhidhve | dadhāteś chandasi luṅlaṅliṭa iti vartamāne liṭ | krādiniyamād iṭ | pratyayasvaraḥ | vṛktabarhiṣaḥ | āmantritanighātaḥ ||*
 
-**Translation of the grammatical tail** *(characterized)*: *Kad* stands for *kadā*, "when": by the Kāśikā's statement "two other [operations] are the change and loss of a letter" (*Kā.* 6-3-109 [?], as read) the *ā* is lost [the Sanskrit of this clause is crowded [?]]. *Kadhapriyaḥ*: *kathā* means praise; those who delight in it are *kadhapriyaḥ*; root *prīñ prītau* with *kvip*; the shortening of the first member before *jyā* and *āp* in a name or in the Veda (*pūrvapadasya jyāpoḥ…*, Pā. 6-3-63 [?]); the *dha* for *tha* is Vedic; the vocative is unaccented (*āmantritanighāta*). *Dadhidhve*: root *dhā*; *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; because of the restriction of the *kṛ*-group the augment *iṭ*; accent of the suffix. *Vṛktabarhiṣaḥ*: vocative, unaccented.
+**Translation of the grammatical tail** *(characterized)*: *Kad* stands for *kadā*, "when": because the Kāśikā says "two other [operations] are the change and loss of a letter" (*Kā.* 6-3-109), the *ā* is lost. *Kadhapriyaḥ*: *kathā* means praise; those who delight in it are *kadhapriyaḥ*; root *prīñ prītau* with *kvip*; the shortening of the first member before *jyā* and *āp* in a name or in the Veda (*pūrvapadasya jyāpoḥ…*, Pā. 6-3-63); the *dha* for *tha* is Vedic; the vocative is unaccented (*āmantritanighāta*). *Dadhidhve*: root *dhā*; *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; because of the restriction of the *kṛ*-group the augment *iṭ*; accent of the suffix. *Vṛktabarhiṣaḥ*: vocative, unaccented.
 
 **Pratipadārtha** *(p. 294)* — "**kadhapriyaḥ** — those who are fit to be pleased by praises, and **vṛktabarhiṣaḥ** — for whom seats of clipped *darbha* have been prepared (for you [the Maruts]) — O Maruts, you; **pitā** — a father; **hastayoḥ** — with his two hands; **putraṃ na** — as one takes up his son (with love); **kad ha** — when indeed; **nūnam** — surely; **dadhidhve** — will you take us (with affection) and lift us up with your hands?"
 
@@ -5279,10 +5279,10 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **pitā putraṃ na hastayoḥ** — "as a father lovingly lifts his son, the object of his affection, with his hands."
 
 **Vyākaraṇa-prakriyā** *(p. 295 — grammar page, noted briefly)*
-- **kat**: this word stands in place of *kadā*; the Kāśikā statement *dvau cāparau varṇavikāranāśau* — द्वौ चापरौ वर्णविकारनाशौ — [Kāśikā on Pā. 6-3-109, as read [?]]: "the adding of a new letter, the going before or after of letters, [and] the change of letter, i.e. a letter put in place of an existing one, and the loss of one of the letters: these operations occur in words like *pṛṣodara*", so by this the *ā* of *kadā* is lost.
-- **kadhapriyaḥ**: *kathā* = praise; "those who delight in it with praise"; root *prīñ prītau* and *kvip*; *jyāpoḥ saṃjñāchandasor bahulam* — ज्यापोः सञ्ज्ञाछन्दसोर्बहुलम् — [Pā. 6-3-63 as read [?]]: in a name or in the Veda, when the latter member follows, *ī* and *āp* are shortened, so the *ā* of *kathā* is short; *tha* becomes *dha* by Vedic usage; the form *kadhapriḥ* in the singular; the vocative is unaccented.
-- **dadhidhve**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ* — छन्दसि लुङ्लङ्लिटः — [Pā. 3-4-6 as read [?]]: in the Veda *liṭ* comes after the root in the sense of any tense, here the present; madhyama plural *dhvam*, *ṭi* → *e*. By *kṛsṛbhṛvṛstudruśruvo liṭi* — कृसृभृवृस्तुद्रुश्रुवो लिटि — [Pā. 7-2-13 as read [?]] these roots [being *anudāttopadeśa*, with the rule *ekāca upadeśe 'nudāttāt*] avoid *iṭ* — the prohibition of *iṭ* [for the *kṛ*-group] is made a restriction (*niyama*): only these seven roots avoid *iṭ* in *liṭ*, the rest take it ("the *kṛādi-niyama*"); so *dhā* takes *iṭ* before *liṭ*; the accent is that of the suffix.
-- **vṛktabarhiṣaḥ**: *vṛkta* = clipped, *barhis* = *darbha*; a bahuvrīhi, "of whom, to whom"; by the sūtra [name printed unclearly [?]] the vocative is unaccented. Rik 1 ends here (*|| 1 ||*).
+- **kat**: this word stands in place of *kadā*; the Kāśikā statement *dvau cāparau varṇavikāranāśau* — द्वौ चापरौ वर्णविकारनाशौ — (Kāśi. 6-3-109): "the adding of a new letter, the going before or after of letters, [and] the change of letter, i.e. a letter put in place of an existing one, and the loss of one of the letters: these operations occur in words like *pṛṣodara*", so by this the *ā* of *kadā* is lost.
+- **kadhapriyaḥ**: *kathā* = praise; "those who delight in it with praise"; root *prīñ prītau* and *kvip*; *jyāpoḥ saṃjñāchandasor bahulam* — ज्यापोः सञ्ज्ञाछन्दसोर्बहुलम् — (Pā. Sū. 6-3-63): in a name or in the Veda, when the latter member follows, *ī* and *āp* are shortened, so the *ā* of *kathā* is short; *tha* becomes *dha* by Vedic usage; the form *kadhapriḥ* in the singular; the vocative is unaccented.
+- **dadhidhve**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ* — छन्दसि लुङ्लङ्लिटः — (Pā. Sū. 3-4-6): in the Veda *liṭ* comes after the root in the sense of any tense, here the present; madhyama plural *dhvam*, *ṭi* → *e*. By *kṛsṛbhṛvṛstudruśruvo liṭi* — कृसृभृवृस्तुद्रुश्रुवो लिटि — (Pā. Sū. 7-2-13) these roots [being *anudāttopadeśa*, with the rule *ekāca upadeśe 'nudāttāt*] avoid *iṭ* — the prohibition of *iṭ* [for the *kṛ*-group] is made a restriction (*niyama*): only these seven roots avoid *iṭ* in *liṭ*, the rest take it ("the *kṛādi-niyama*"); so *dhā* takes *iṭ* before *liṭ*; the accent is that of the suffix.
+- **vṛktabarhiṣaḥ**: *vṛkta* = clipped, *barhis* = *darbha*; a bahuvrīhi, "of whom, to whom"; by the *āṣṭamika* sūtra ("the sūtra of the eighth [adhyāya]"; no number printed) the vocative is unaccented. Rik 1 ends here (*|| 1 ||*).
 
 ---
 
