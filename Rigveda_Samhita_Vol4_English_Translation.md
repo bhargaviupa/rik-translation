@@ -2553,17 +2553,19 @@ Numerals zoom-checked; rules whose printed number was not re-read are left unnum
 - **dāśuṣe** (p. 163): *dāśvān sāhvān mīḍhvāṃś ca* — दाश्वान्साह्वान्मीढ्वांश्च — the forms are irregular: *dāś dāne* with *kvasu*, with the absence of doubling and of *iṭ* by *nipātana* (against *liṭi dhātoḥ…*); in *sāhvān* the root *ṣaha marṣaṇe*, *parasmaipada*, with *kvasu*, no doubling, no *iṭ*, and lengthened penultimate; in *mīḍhvān* the root *miha secane*, with *kvasu*, lack of doubling and of *iṭ*; after *dāśvas* the fourth singular *ṅe*: *dāśvas + e*; *vasoḥ saṃprasāraṇam* — the *v* of a base ending in *vas* [with the name *bha*] becomes *u*, with *pūrvarūpa*; *dāśus + e*; *ādeśapratyayayoḥ* — *s* that is part of a suffix → *ṣ*; the print adds that in *śāsivasighasīnāṃ ca* the roots [*śās*, *vas*, *ghas*, *sī*…] are meant by association, not the suffix, so the *ṣatva* of that rule cannot arise here — "the sense is clear in the Śekhara and similar works".
 - **vāryāṇi**: *vṛñ sambhaktau*; *ṛhaloṇyat* — ऋहलोर्ण्यत् — *ṇyat* after a root ending in *ṛ* or in a consonant; *vṛ + ya*; *aco ñṇiti* — *vṛddhi*: *vārya*; *īḍavandavṛśaṃsaduhāṃ ṇyataḥ* — ईडवन्दवृशंसदुहां ण्यतः — the first syllable of a word in *ṇyat* from these roots is acute; the sūtra names *vṛ*, not *vṛñ*, so — since *vṛñ* would otherwise take *kyap* by *ētisstuśāsvṛdṛjuṣaḥ kyap* — the vārtika *vṛñaḥ grahaṇaṃ kartavyam* ("*vṛñ* must be taken in") is cited; and in *īḍavanda…* the word *vṛ* is held to mean the root *vṛñ*; otherwise *ṇyat* would not apply. Rik 8 ends here (*|| 8 ||*).
 
-### Rik 35.9 (pp. 163–165, PDF 177–179)
+### Rik 35.9 (pp. 163–165, PDF 178–180)
 
 *(The ninth ṛk is the second Jagatī of the sūkta, per the introduction on p. 131.)*
 
-**Saṃhitā-pāṭha** *(pp. 163–164; accents not reproduced)*
+**Saṃhitā-pāṭha** *(pp. 163–164; Saṃhitā accents as printed; Pada unaccented)*
 
-> **हिरण्यपाणिः सविता विचर्षणिरुभे द्यावापृथिवी अन्तरीयते ।**
-> **अपामीवां बाधते वेति सूर्यमभि कृष्णेन रजसा द्यामृणोति ॥ ९ ॥**
+> हिर॑ण्यपाणिः सवि॒ता विच॑र्षणिरु॒भे द्यावा॑पृथि॒वी अ॒न्तरी॑यते ।
+> अपामी॑वां बाध॑ते वेति सूर्य॑म॒भि कृष्णेन॒ रज॑सा॒ द्यामृ॑णोति ॥ ९ ॥
+>
+> *híraṇyapāṇiḥ savitā́ vícarṣaṇir ubhé dyā́vāpṛthivī́ antárīyate |*
+> *apā́mīvāṃ bā́dhate veti sū́ryam abhí kṛṣṇena rájasā dyā́m ṛṇoti || 9 ||*
 
-*hiraṇyapāṇiḥ savitā vicarṣaṇir ubhe dyāvāpṛthivī antar īyate |*
-*apāmīvāṃ bādhate veti sūryam abhi kṛṣṇena rajasā dyām ṛṇoti || 9 ||*
+*(As printed, several expected underlines — after अपामीवां, बाधते, वेति, कृष्णेन — are absent; only the marks seen are given.)*
 
 **Pada-pāṭha** *(p. 164)*
 
@@ -2590,14 +2592,14 @@ Numerals zoom-checked; rules whose printed number was not re-read are left unnum
 **English Translation (the source's own, p. 165)** — "The golden-handed, all seeing Savitri travels between heaven and earth, dispels diseases, approaches the sun, and ascends the heaven through the dark regions of space·" *(the print ends with a raised dot where a full stop is expected)*.
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 165** *(begun; continued on p. 166)*
-- **hiraṇyapāṇiḥ** = *suvarṇamayahastayuktaḥ | yadvā | yajamānebhyo dātuṃ hiraṇyaṃ haste dhṛtavān*: "one who has golden hands, or one who holds gold in his hand in order to give it to sacrificers. We have explained this word in detail in Ṛgveda Saṃhitā Part 3 [as read], pages 62 and 66 [?]."
+- **hiraṇyapāṇiḥ** = *suvarṇamayahastayuktaḥ | yadvā | yajamānebhyo dātuṃ hiraṇyaṃ haste dhṛtavān*: "one who has golden hands, or one who holds gold in his hand in order to give it to sacrificers. We have explained this word in detail in Ṛgveda Saṃhitā Part 3, pages 75 and 76."
 - **vicarṣaṇiḥ** = *viśeṣeṇa draṣṭā athavā viśvasya bhuvanasya draṣṭā*: "the one who sees specially, or who sees the whole universe. There is nothing that is not seen by the Sun's eye; that is, the sense is that the Sun's rays pervade the whole world."
 
 *(The rest of the Special Topics and the grammar of Rik 9 follow on p. 166 and later pages, to be viewed next.)*
 
 ---
 
-### Rik 35.9 — Special Topics concluded and grammar (pp. 166–168, PDF 180–182; grammar pages, noted briefly)
+### Rik 35.9 — Special Topics concluded and grammar (pp. 166–168, PDF 181–183; grammar pages, noted briefly)
 
 **Special Topics, continued from p. 165 (p. 166)**
 - **ubhe dyāvāpṛthivī antar īyate** — "below the earth, above heaven: [he] moves between these worlds, by the path of the mid-region; such is the meaning."
@@ -2607,17 +2609,17 @@ Numerals zoom-checked; rules whose printed number was not re-read are left unnum
 
 *hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya | (ṛ. saṃ. 1-50-11)*
 
-"— 'destroy my heart-disease and my jaundice, O Sūrya' — so Praskaṇva, the ṛṣi of that sūkta, prays to the Sun. That the Sun's light is indispensable to the life of living beings and of plants, and that without the Sun beings and plants could not live on the earth, even ordinary people know well." *(Translation of the ṛk mine, tentative; the reference numerals are as read from small Kannada digits and agree with the ṛk's standard place as far as I know it [?].)*
-- **sūryam abhi** — "Here the bhāṣyakāra says '*yady api savitṛsūryayor ekadevatātvaṃ tathāpi mūrtibhedena gantṛgantavyabhāvaḥ*' (he is both the goer and the goal by a difference of form); that is, though Sūrya and Savitṛ are one deity, by a difference of form one may be said to go to the neighbourhood of the other: this is the reconciliation he offers. In explaining the word *sūrya* Yāska says '*sūryaḥ saterva suvater vā svīryater vā*' (Ni. 12-14 [?]). Of these three explanations, *svīryater vā* means *su-pūrvasya vā īrayater gatyarthasya* — 'one who moves well, or swiftly'. If this sense is taken in this ṛk, it will be right to say that the Sun, moving swiftly in the mid-region, goes towards the world of heaven." *(Translation of the Nirukta quotation mine and tentative.)*
+"— 'destroy my heart-disease and my jaundice, O Sūrya' — so Praskaṇva, the ṛṣi of that sūkta, prays to the Sun. That the Sun's light is indispensable to the life of living beings and of plants, and that without the Sun beings and plants could not live on the earth, even ordinary people know well." *(Translation of the ṛk mine, tentative; reference 1-50-11 zoom-checked.)*
+- **sūryam abhi** — "Here the bhāṣyakāra says '*yady api savitṛsūryayor ekadevatātvaṃ tathāpi mūrtibhedena gantṛgantavyabhāvaḥ*' (he is both the goer and the goal by a difference of form); that is, though Sūrya and Savitṛ are one deity, by a difference of form one may be said to go to the neighbourhood of the other: this is the reconciliation he offers. In explaining the word *sūrya* Yāska says '*sūryaḥ sarter vā suvater vā svīryater vā*' (no Nirukta number printed). Of these three explanations, *svīryater vā* means *su-pūrvasya vā īrayater gatyarthasya* — 'one who moves well, or swiftly'. If this sense is taken in this ṛk, it will be right to say that the Sun, moving swiftly in the mid-region, goes towards the world of heaven." *(Translation of the Nirukta quotation mine and tentative.)*
 - **kṛṣṇena rajasā** — "the mid-region through which the Sun travels is full of darkness. The Sun lights up everything by his own light."
 
 **Vyākaraṇa-prakriyā** *(pp. 166–168)*
 - **dyāvāpṛthivī** (pp. 166–167): *dyauś ca pṛthivī ca*, a *dvandva*; *divasaś ca pṛthivyām* — दिवसश्च पृथिव्याम् — the *ca* carries on the preceding rule's *divo dyāvā*, so *dyāvā* is the substitute of *div* [the print notes the *svarita*-announcement, *svaritatvapratijñā*, so *divaḥ* continues]; in a *dvandva* with *pṛthivī* as second member, *div* is replaced by *divas* or *dyāvā*; here *dyāvā*, which is first-syllable acute by *nipātana*; *devatādvandve ca* — देवताद्वन्द्वे च — in a *dvandva* of deity-names both members keep their natural accent together, i.e. the accent they had before stays; the print adds that there is no *vyatyāsa* of this [i.e. no reversal]. *Pṛthivī*: *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् संप्रसारणं च — [Uṇ. 1-[?]] — after *prath prakhyāne* the suffix *ṣivan*, with *saṃprasāraṇa* of the base: *pṛthivi*; *ṣiddhaurādibhyaś ca* — *ṅīṣ*; the word is final-acute by the suffix; the *pṛ* is unaccented by the *śeṣa-nighāta*; the print then argues that the prohibition *notarapade 'nudāttādau* — नोत्तरपदेऽनुदात्तादौ — (the rule that a second member beginning with an unaccented syllable stops the natural accent of both members) might be thought to apply, but that rule itself says *apṛthivīrudrapūṣamanthiṣu* — "except for *pṛthivī*, *rudra*, *pūṣan*, *manthin*" — so it does not apply here, where *pṛthivī* is the second member.
 - **īyate** (p. 167): root *īṅ gatau*, 4th class; the root is *ṅit*, so *anudāttaṅita ātmanepadam* — the *ātmanepada*; *laṭ* → *ta*; *ṭita ātmanepadānāṃ ṭere* gives *e*; *divādibhyaḥ śyan*; *kṅiti ca* bars *guṇa*; *tiṅ ṅatiṅaḥ* makes the verb wholly unaccented.
-- **amīvām**: root *amu roge*; *śīvayeśajihvāgrīvāpyāmīvāḥ* — [Uṇ. 1-155, as I read the numerals [?]] — the suffix *van*, with the augment *īṭ*, irregularly; *ṭāp*; accusative singular *am*, *pūrvarūpa*.
+- **amīvām**: root *amu roge*; *śīvayeśajihvāgrīvāpyāmīvāḥ* — (Uṇ. 1-153) — the suffix *van*, with the augment *īṭ*, irregularly; *ṭāp*; accusative singular *am*, *pūrvarūpa*.
 - **bādhate**: "although the sense of *ca* is understood — 'he destroys disease, *and* goes to the Sun, though of a different form' — the word *ca* is not used; so by *cādilope vibhāṣā* there is a prohibition of the wholly-unaccented accent of the verb."
 - **veti**: root *vī gatiprajanakāntyasanakhādaneṣu*; *laṭ*, *tip*, *śap*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *guṇa*; *tip* is *pit* and so unaccented; the root's own accent stays; this is the second *tiṅanta* of the sentence, so *cādilope* is not applicable; but since it stands after the *tiṅanta* *bādhate*, the lowering by *tiṅ ṅatiṅaḥ* does not arise (it requires a non-*tiṅ* before).
-- **ṛṇoti** (pp. 167–168): root *ṛṇu gatau*, *tanādi*; *laṭ*, *tip*; *tanādikṛñbhya uḥ* — तनादिकृञ्भ्य उः — the suffix *u*; with this *u* as the cause *laghūpadha-guṇa* would arise; the teachers Ātreya, Āpiśali and others, by *saṃjñāpūrvako vidhir anityaḥ* [as read], hold that *guṇa* does not arise in the *tanādi*; by their opinion no *guṇa* here. Or, following *bahulam etannidarśanam*, the root *ṛ* is read in the *svādi* class, and *svādibhyaḥ śnuḥ* gives the *śnu* of the *vikaraṇa*, an *apit sārvadhātuka* and so *ṅit*; *kṅiti ca* prevents *guṇa*; the result is *ṛṇoti*. Rik 9 ends here (*|| 9 ||*).
+- **ṛṇoti** (pp. 167–168): root *ṛṇu gatau*, *tanādi*; *laṭ*, *tip*; *tanādikṛñbhya uḥ* — तनादिकृञ्भ्य उः — the suffix *u*; with this *u* as the cause *laghūpadha-guṇa* would arise; the teachers Ātreya, Āpiśali and others, by *saṃjñāpūrvako vidhir anityaḥ* (Paribhā. 95), hold that *guṇa* does not arise in the *tanādi*; by their opinion no *guṇa* here. Or, following *bahulam etannidarśanam*, the root *ṛ* is read in the *svādi* class, and *svādibhyaḥ śnuḥ* gives the *śnu* of the *vikaraṇa*, an *apit sārvadhātuka* and so *ṅit*; *kṅiti ca* prevents *guṇa*; the result is *ṛṇoti*. Rik 9 ends here (*|| 9 ||*).
 
 ### Rik 35.10 (pp. 168–170, PDF 182–184)
 
