@@ -5434,12 +5434,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 38.5 (pp. 303–, PDF 317–)
+### Rik 38.5 (pp. 303–305, PDF 318–320)
 
-**Saṃhitā-pāṭha** *(p. 303; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 303 = PDF 318 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **मा वो मृगो न यवसे जरिता भूदजोष्यः ।**
-> **पथा यमस्य गादुप ॥ ५ ॥**
+> **मा वो॑ मृ॒गो न यव॑से जरि॒ता भू॒दजो॑ष्यः ।**
+> **प॒था य॒मस्य॑ गा॒दुप॑ ॥ ५ ॥**
 
 *mā vo mṛgo na yavase jaritā bhūd ajoṣyaḥ |*
 *pathā yamasya gād upa || 5 ||*
@@ -5466,12 +5466,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Translation:** "O Maruts, *vaḥ* — your *jaritā*, praiser, *ajoṣyaḥ* — one not to be served [i.e. one who gives no service] — let him not be. The example: *mṛgo na yavase* — as a deer is never unfriendly to grass that is to be eaten, but eats the grass at all times, so. And further, *yamasya pathā* — by the road leading to Yama's world — *mopa gāt*, let him not go: let there be no death for him: so the sense."
 
-> **जरिता । जृ[?]ष् वयोहानौ । स्तुतिकर्मेति यास्कः । नि. १०-८ [?] । तृचीडागमः [?] । चित्त्वादन्तोदात्तत्वं । भूत् । लुङि गातिस्थेति सिचो लुक् । न माङ्योगे इत्यडभावः । अजोष्यः । जुषी प्रीतिसेवनयोः । ऋहलोर्ण्यदिति कर्मणि ण्यत् । नञ्समासे व्ययपूर्वपदप्रकृतिस्वरत्वं । पथा । तृतीयैकवचने भस्य टेर्लोपः । पा. ६-४-१४३ [?] । इति टिलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । गात् । एतेर्लुङ्ञोगा लुङीति गादेशः । गातिस्थेति सिचो लुक् । पूर्ववदडभावः ॥ ५ ॥**
+> **जरिता । जॄष् वयोहानौ । स्तुतिकर्मेति यास्कः । नि. १०-८ । तृचीडागमः । चित्त्वादन्तोदात्तत्वं । भूत् । लुङि गातिस्थेति सिचो लुक् । न माङ्योगे इत्यडभावः । अजोष्यः । जुषी प्रीतिसेवनयोः । ऋहलोर्ण्यदिति कर्मणि ण्यत् । नञ्समासेऽव्ययपूर्वपदप्रकृतिस्वरत्वं । पथा । तृतीयैकवचने भस्य टेर्लोपः । पा. ७-१-८८ । इति टिलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । गात् । एतेर्लुङीणो गा लुङीति गादेशः । गातिस्थेति सिचो लुक् । पूर्ववदडभावः ॥ ५ ॥**
 
-*jaritā | jṝṣ [?] vayohānau | stutikarmeti yāskaḥ | ni. 10-8 [?] | tṛcīḍāgamaḥ [?] | cittvād antodāttatvaṃ | bhūt | luṅi gātistheti sico luk | na māṅyoge ity aḍabhāvaḥ | ajoṣyaḥ | juṣī prītisevanayoḥ | ṛhaloṇ ṇyad iti karmaṇi ṇyat | nañsamāse vyayapūrvapadaprakṛtisvaratvaṃ | pathā | tṛtīyaikavacane bhasya ṭer lopaḥ | pā. 6-4-143 [?] | iti ṭilopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvaṃ | gāt | eter luṅño gā luṅīti [?] gādeśaḥ | gātisthā iti sico luk | pūrvavad aḍabhāvaḥ || 5 ||*
+*jaritā | jṝṣ vayohānau | stutikarmeti yāskaḥ | ni. 10-8 | tṛcīḍāgamaḥ | cittvād antodāttatvaṃ | bhūt | luṅi gātistheti sico luk | na māṅyoge ity aḍabhāvaḥ | ajoṣyaḥ | juṣī prītisevanayoḥ | ṛhaloṇ ṇyad iti karmaṇi ṇyat | nañsamāse 'vyayapūrvapadaprakṛtisvaratvaṃ | pathā | tṛtīyaikavacane bhasya ṭer lopaḥ | pā. 7-1-88 | iti ṭilopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvaṃ | gāt | eter luṅīṇo gā luṅīti gādeśaḥ | gātisthā iti sico luk | pūrvavad aḍabhāvaḥ || 5 ||*
 
 
-**Translation of the grammatical tail** *(characterized; numerals as read [?])*: *Jaritā* — root *jṝṣ* [?] *vayohānau*; "*stutikarmā*", says Yāska (Ni. 10-8 [?]), so the action here is praise; the suffix *tṛc* with the augment *iṭ*; the suffix is *cit*, so the final syllable is acute. *Bhūt* — in *luṅ* the *sic* is elided by *gātisthā…*; no augment *aṭ* in connection with *mā*. *Ajoṣyaḥ* — *juṣī prītisevanayoḥ*; *ṇyat* in the passive by *ṛhaloṇ ṇyat*; a *nañ*-compound, so the accent of the first member as an indeclinable. *Pathā* — in the instrumental singular the *ṭi* of the *bha*-stem is lost; the ending is acute by the accent that follows the disappearance of an acute. *Gāt* — for *iṇ*, in *luṅ*, the substitute *gā*; the *sic* elided as before; no augment as before.
+**Translation of the grammatical tail** *(characterized; numerals as printed)*: *Jaritā* — root *jṝṣ vayohānau*; "*stutikarmā*", says Yāska (Ni. 10-8), so the action here is praise; the suffix *tṛc* with the augment *iṭ*; the suffix is *cit*, so the final syllable is acute. *Bhūt* — in *luṅ* the *sic* is elided by *gātisthā…*; no augment *aṭ* in connection with *mā*. *Ajoṣyaḥ* — *juṣī prītisevanayoḥ*; *ṇyat* in the passive by *ṛhaloṇ ṇyat*; a *nañ*-compound, so the accent of the first member as an indeclinable. *Pathā* — in the instrumental singular the *ṭi* of the *bha*-stem is lost (Pā. 7-1-88); the ending is acute by the accent that follows the disappearance of an acute. *Gāt* — for *iṇ* (*eti*), in *luṅ*, the substitute *gā* by *iṇo gā luṅi*; the *sic* elided as before; no augment as before.
 
 **Pratipadārtha** *(p. 304)* — "**yavase** — (O Maruts) in regard to the pasture-grass that is its support of life; **mṛgo na** — as a deer [or beast] shows no disregard; **vaḥ** — your; **jaritā** — devotee; **ajoṣyaḥ** — without devotion, one who is without service; **mā bhūt** — let him not be; (and) **yamasya pathā** — by the road that goes to Yama's world; **mā upa gāt** — let him not go."
 
@@ -5487,11 +5487,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **Main intention (*mukhyābhiprāya*)** — "No deer ever fails to turn to a pasture rich in grass and water: it does not neglect it; there is no case of its not grazing there. Likewise, let the man who praises you not fail to praise you through disregard — that is, let him praise. Let such a man not take the road of Yama — that is, let him not fall under the power of death."
 
 **Vyākaraṇa-prakriyā** *(pp. 305 — grammar page, noted briefly)*
-- **jaritā**: root *jṝṣ* [?] *vayohānau*; since Yāska says "*stutikarmā*" (Ni. 10-8 [?]), the action here is praise; *ṇvultṛcau* — ण्वुल्तृचौ — [Pā. 3-1-133 as read [?]] gives *tṛc*, which takes *iṭ*; *citaḥ* gives the final acute.
-- **bhūt**: *bhū sattāyām*; *luṅ*; by *na māṅyoge* — न माङ्योगे — [Pā. 6-4-74 as read [?]] no *aṭ* or *āṭ* where *mā* is joined; *tip*; *itaś ca* — इतश्च — [Pā. 3-4-100 as read] loss of the *i*; *cli* → *sic*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु — [Pā. 2-4-77 as read [?]] the *sic* is elided after these.
-- **ajoṣyaḥ**: *juṣī prītisevanayoḥ*; *ṛhaloṇ ṇyat* — ऋहलोर्ण्यत् — [Pā. 3-1-124 as read [?]] *ṇyat*; *guṇa* of the penultimate; "*na joṣyaḥ*", a *nañ*-compound; *tatpuruṣe tulyārtha…* gives the accent of the first member as an indeclinable.
-- **pathā**: from *pathin*, the instrumental singular *ṭā*; *pathin + ā*; *bhasya ṭer lopaḥ* — भस्य टेर्लोपः — [Pā. 6-4-143 as read [?]]: for the *bha*-stems *pathin*, *mathin*, *ṛbhukṣin* the *ṭi* is lost, so the *in* is lost; *anudāttasya ca yatrodāttalopaḥ* — अनुदात्तस्य च यत्रोदात्तलोपः — [Pā. 6-1-161 as read [?]]: the ending is acute, being the cause of the loss of the acute of *in*.
-- **gāt**: *iṇ gatau*; *luṅ*; *tip*; loss of *i*; *iṇo gā luṅi* — इणो गा लुङि — [Pā. 2-4-45 as read [?]] *gā* for *iṇ*; "*gātisthā…*" [the print adds a remark, *gāpāvihe…āveśa pibatī gṛhyate* [garbled, [?]], to the effect that *pibati* is included]; so the *sic* is elided, and as before no *aṭ*. Rik 5 ends here (*|| 5 ||*).
+- **jaritā**: root *jṝṣ vayohānau*; since Yāska says "*stutikarmā*" (Niru. 10-8), the action here is praise; *ṇvultṛcau* — ण्वुल्तृचौ — (Pā. Sū. 3-1-133) gives *tṛc*, which takes *iṭ*; *citaḥ* gives the final acute.
+- **bhūt**: *bhū sattāyām*; *luṅ*; by *na māṅyoge* — न माङ्योगे — (Pā. Sū. 6-4-74) no *aṭ* or *āṭ* where *mā* is joined; *tip*; *itaś ca* — इतश्च — (no number printed) loss of the *i*; *cli* → *sic*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* — गातिस्थाघुपाभूभ्यः सिचः परस्मैपदेषु — (Pā. Sū. 2-4-77) the *sic* is elided after these.
+- **ajoṣyaḥ**: *juṣī prītisevanayoḥ*; *ṛhaloṇ ṇyat* — ऋहलोर्ण्यत् — (Pā. Sū. 3-1-124) *ṇyat*; *guṇa* of the penultimate; "*na joṣyaḥ*", a *nañ*-compound; *tatpuruṣe tulyārtha…* gives the accent of the first member as an indeclinable.
+- **pathā**: from *pathin*, the instrumental singular *ṭā*; *pathin + ā*; *bhasya ṭer lopaḥ* — भस्य टेर्लोपः — (Pā. Sū. 7-1-88): for the *bha*-stems *pathin*, *mathin*, *ṛbhukṣin* the *ṭi* is lost, so the *in* is lost; *anudāttasya ca yatrodāttalopaḥ* — अनुदात्तस्य च यत्रोदात्तलोपः — (Pā. Sū. 6-1-161): the ending is acute, being the cause of the loss of the acute of *in*.
+- **gāt**: *iṇ gatau*; *luṅ*; *tip*; loss of *i*; *iṇo gā luṅi* — इणो गा लुङि — (Pā. Sū. 2-4-45) *gā* for *iṇ*; "*gātisthā…*" [the print adds the remark *gāpāv iheṇādeśapibatī gṛhyete* — गापाविहेणादेशपिबती गृह्येते — "here *gā* and *pā* mean the substitute for *iṇ* and *pibati*"]; so the *sic* is elided, and as before no *aṭ*. Rik 5 ends here (*|| 5 ||*).
 
 ---
 
