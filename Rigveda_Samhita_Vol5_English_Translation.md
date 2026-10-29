@@ -6779,11 +6779,11 @@
 
 ### Sāyaṇa's introduction *(p. 371)*
 
-> **एष प्र पूर्वीरिति षडृचं षष्ठं सूक्तं सव्यस्यार्षमैन्द्रं जागतमित्युक्तं । अनुक्रान्तं च । एष प्र षडिति ॥ विषुवति निष्केवल्य एतत्सूक्तं शंसनीयं । विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितं । एष प्र पूर्वीर्वृषामदः प्र मंहिष्ठाय । आ. ८-६ [?] इति ॥**
+> **एष प्र पूर्वीरिति षडृचं षष्ठं सूक्तं सव्यस्यार्षमैन्द्रं जागतमित्युक्तं । अनुक्रान्तं च । एष प्र षडिति ॥ विषुवति निष्केवल्य एतत्सूक्तं शंसनीयं । विषुवान्दिवाकीर्त्य इति खण्डे सूत्रितं । एष प्र पूर्वीर्वृषामदः प्र मंहिष्ठाय । आ. ८-६ इति ॥**
 
-*eṣa pra pūrvīr iti ṣaḍṛcaṃ ṣaṣṭhaṃ sūktaṃ savyasyārṣam aindraṃ jāgatam ity uktaṃ | anukrāntaṃ ca | eṣa pra ṣaḍ iti || viṣuvati niṣkevalya etat sūktaṃ śaṃsanīyaṃ | viṣuvān divākīrtya iti khaṇḍe sūtritaṃ | eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya | ā. 8-6 [?] iti ||*
+*eṣa pra pūrvīr iti ṣaḍṛcaṃ ṣaṣṭhaṃ sūktaṃ savyasyārṣam aindraṃ jāgatam ity uktaṃ | anukrāntaṃ ca | eṣa pra ṣaḍ iti || viṣuvati niṣkevalya etat sūktaṃ śaṃsanīyaṃ | viṣuvān divākīrtya iti khaṇḍe sūtritaṃ | eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya | ā. 8-6 iti ||*
 
-**Translation:** "'*Eṣa pra pūrvīḥ*': a sūkta of six Riks, the sixth [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī, as stated; so the Anukramaṇī: '*eṣa pra ṣaṭ*'. On the Viṣuvat day this sūkta is to be recited in the *niṣkevalya*; in the section '*viṣuvān divākīrtyaḥ*' it is aphorized: '*eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya*' (Āśv. 8-6 [?])."
+**Translation:** "'*Eṣa pra pūrvīḥ*': a sūkta of six Riks, the sixth [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī, as stated; so the Anukramaṇī: '*eṣa pra ṣaṭ*'. On the Viṣuvat day this sūkta is to be recited in the *niṣkevalya*; in the section '*viṣuvān divākīrtyaḥ*' it is aphorized: '*eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya*' (Āśv. 8-6)."
 
 **Anuvāda (Kannada, p. 371)** — "'*Eṣa pra pūrvīḥ*' is the sixth sūkta in the tenth anuvāka. It has six Riks. The seer is Savya, the deity Indra, the metre Jagatī. The Anukramaṇikā says '*eṣa pra ṣaṭ*'. In the Viṣuvat sacrifice this sūkta is to be recited for the *niṣkevalya* śastra mantras: so the sūtra '*eṣa pra pūrvīr vṛṣāmadaḥ pra maṃhiṣṭhāya*' in the section '*viṣuvān divākīrtyaḥ*' of the Āśvalāyana Śrauta Sūtra (Āśv. 8-6) shows."
 
@@ -6795,19 +6795,19 @@
 
 ### Heading block of Sūkta 56 *(p. 372, PDF 388)*
 
-Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga 20 [as read, [?]] · Riks: 6 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
+Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga 21 · Riks: 6 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
 
 ---
 
 ### Rik 56.1 (pp. 372–375, PDF 388–391)
 
-**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 372; accents as printed; no svarita mark is printed on* tha *of* ratham *[accent ?])*
 
-> **एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः ।**
-> **दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसम् ॥ १ ॥**
+> **ए॒ष प्र पू॒र्वीरव॒ तस्य॑ च॒म्रिषोऽत्यो॒ न योषा॒मुद॑यंस्त भु॒र्वणिः॑ ।**
+> **दक्षं॑ म॒हे पा॑ययते हिर॒ण्ययं॒ रथमा॒वृत्या॒ हरि॑योग॒मृभ्व॑सम् ॥ १ ॥**
 
-*eṣa pra pūrvīr ava tasya camriṣo 'tyo na yoṣām udayaṃsta bhurvaṇiḥ |*
-*dakṣaṃ mahe pāyayate hiraṇyayaṃ ratham āvṛtyā hariyogam ṛbhvasam || 1 ||*
+*eṣá prá pūrvī́r áva tásya camríṣó 'tyo ná yóṣām úd ayaṃsta bhurváṇiḥ |*
+*dákṣam mahé pāyayate hiraṇyáyaṃ rátham āvṛ́tyā háriyogam ṛ́bhvasam || 1 ||*
 
 **Pada-pāṭha** *(p. 372)*
 
@@ -6825,7 +6825,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *bhurvaṇir bhakṣako bhakṣaṇaśīlo vā eṣa indras tasya yajamānasya pūrvīḥ prabhūtāś camriṣaś camūṣu camaseṣv avasthitāḥ somalakṣaṇā iṣaḥ prāvodayaṃsta | prakarṣeṇa pānārtham uddharati | tatra dṛṣṭāntaḥ | atyo na yoṣām | yathāśvo vaḍavāṃ krīḍārtham upagacchati | sa cendro hiraṇyayaṃ suvarṇamayaṃ hariyogaṃ haribhyāṃ yuktam ṛbhvasam uru bhāsamānaṃ ratham āvṛtyāvasthāpya mahe mahate vṛtravadhādirūpāya karmaṇe dakṣaṃ pravṛddham ātmānaṃ somaṃ pāyayate | pānaṃ kārayati ||*
 
-*(The tail, pp. 373, is characterized: on* pūrvīḥ *(*pyā*, Uṇādi *ku*; *ṅīṣ*),* camriṣaḥ *(*camū* + *iṣaḥ*; *camu adane*, Uṇādi *ū*; *camva* with *r* for *v* in the Veda),* ayaṃsta *(*yam uparame*, *luṅ* in the present sense; *sic*; no *iṭ*; *nasya anusvāra*),* bhurvaṇiḥ *(*bhurvatir hiṃsākarmā*, Ni. 6-… as read [?]; *bhurvan*; *aniḥ*),* pāyayate *(*pā pāne*, *ṇic*; *ṇicaś ca*: *ātmanepada*; *śāchāsāhvāvyā… yuk*),* hiraṇyayam *(*mayaṭ*; *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi*: *ma* dropped),* hariyogam*,* ṛbhvasam *(*uru bhāḥ*; *pṛṣodarādi*) — see the Kannada notes.)*
+*(The tail, pp. 373, is characterized: on* pūrvīḥ *(*pyā*, Uṇādi *ku*, Uṇ. 1-24; *ṅīṣ*),* camriṣaḥ *(*camū* + *iṣaḥ*; *camu adane*, Uṇādi *ū*, Uṇ. 1-82; *camva* with *r* for *v* in the Veda),* ayaṃsta *(*yam uparame*, *luṅ* in the present sense; *sic*; no *iṭ*; *nasya anusvāra*),* bhurvaṇiḥ *(*bhurvatir hiṃsākarmā*, Ni. 6-23; *bhurvan*; *aniḥ*),* pāyayate *(*pā pāne*, *ṇic*; *ṇicaś ca* (Pā. 1-3-74): *ātmanepada*; *śāchāsāhvāvyā… yuk* (Pā. 7-3-37)),* hiraṇyayam *(*mayaṭ*; *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi*: *ma* dropped),* hariyogam*,* ṛbhvasam *(*uru bhāḥ*; *pṛṣodarādi*) — see the Kannada notes.)*
 
 **Translation of the bhāṣya:** "*Bhurvaṇiḥ*, the devouring one — this Indra: *pūrvīḥ*, the abundant *iṣaḥ*, drinks, in the form of soma, of that sacrificer — *camriṣaḥ*, which lie in the *camū*, the cups — *pra ud ayaṃsta*, he lifts up eagerly to drink. An illustration: *atyo na yoṣām*, as a stallion goes to a mare for sport. And that Indra, having mounted and halted the golden chariot — *hiraṇyayam* — *hariyogam*, yoked to the two bays, *ṛbhvasam*, widely shining, *mahe*, for the great deed, the slaying of Vṛtra and the like, *dakṣam*, grown strong, himself, *pāyayate*, has the soma drunk — that is, drinks it."
 
@@ -6837,19 +6837,19 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 374**
 - **pūrvīḥ** — "This word, formed from the root *pyā pālanapūraṇayoḥ*, means abundant or exceeding."
-- **camriṣaḥ** — "*Camūṣu vartamānā iṣaḥ* — as the derivation shows, *camū* means the vessel *camasa*; the soma-offerings in them. The word *iṣ* is read among the synonyms of food in the Nirukta (Ni. 2-7 as read [?])."
+- **camriṣaḥ** — "*Camūṣu vartamānā iṣaḥ* — as the derivation shows, *camū* means the vessel *camasa*; the soma-offerings in them. The word *iṣ* is read among the synonyms of food in the Nirukta (Ni. 3-6)."
 - **atyo na yoṣām** — "Here the word *atya* means horse. As a stallion longs for a mare in sport, so Indra desires the oblation distinguished as soma."
 - **hariyogam** — "*Haryoḥ yogaḥ yojanaṃ yasmin*: one that is yoked with two horses. This and *hiraṇyayam*, *ṛbhvasam* ('shining specially') are epithets of Indra's chariot."
-- **bhurvaṇiḥ** — "One who eats. *Bhurvatir hiṃsākarmā* (Ni. 6-… as read [?]) — the Nirukta-authors give 'eater' for this word formed from the root *bhurv hiṃsāyām*."
+- **bhurvaṇiḥ** — "One who eats. *Bhurvatir hiṃsākarmā* (Niru. 6-23) — the Nirukta-authors give 'eater' for this word formed from the root *bhurv hiṃsāyām*."
 
 **Vyākaraṇa-prakriyā** *(pp. 374–375 — grammar pages, noted briefly)*
-- **pūrvīḥ**: *pyā pālanapūraṇayoḥ*; *prasvabhidivyadhi…* (Uṇ. 1-… as read [?]): *ku*; *udoṣṭhyapūrvasya*: *u*; *uraṇ raparaḥ*: *puru*; for the feminine, *vottaro guṇavacanāt*: *ṅīṣ*; *yaṇ*; *halica*: lengthening of *ur*; end-acute by the suffix.
-- **camriṣaḥ**: *camu adane*, *kṛṣicamitanidhanisu…* (Uṇ. 1-… as read [?]): *ū*; *camū*, always feminine; *camvāṃ vartamānā iṣaḥ*: the Vedic *r* for *v*; *gatikārakopapadāt kṛt*.
+- **pūrvīḥ**: *pyā pālanapūraṇayoḥ*; *prasvabhidivyadhi…* (Uṇ. sū. 1-23): *ku*; *udoṣṭhyapūrvasya* (Pā. sū. 7-1-102): *u*; *uraṇ raparaḥ*: *puru*; for the feminine, *vottaro guṇavacanāt* (Pā. sū. 4-1-44): *ṅīṣ*; *yaṇ*; *halica* (Pā. sū. 8-2-77): lengthening of *ur*; end-acute by the suffix.
+- **camriṣaḥ**: *camu adane*, *kṛṣicamitanidhanisu…* (Uṇ. sū. 1-81): *ū*; *camū*, always feminine; *camvāṃ vartamānā iṣaḥ*: the Vedic *r* for *v*; *gatikārakopapadāt kṛt*.
 - **ayaṃsta**: *yam uparame*; Vedic *luṅ* with the present sense; *ātmanepada* by *vyatyaya*; *sic* by *cleḥ sic*; *ekāca upadeśe 'nudāttāt*: no *iṭ*; *naś cāpadāntasya jhali*: *anusvāra*; *aṭ*; *nighāta*.
-- **bhurvaṇiḥ**: *bhurv hiṃsāyām* (*bhurvatir hiṃsākarmā*, Ni.); Uṇādi *ani*; *aṭkupvāṅ…*: *ṇatva*; middle-acute.
-- **pāyayate**: *pā pāne*; *hetumati ca*: *ṇic*; *ṇicaś ca*: *ātmanepada*; *śāchāsāhvāvyāvepāṃ yuk*: *yuk*; *śap*, *guṇa*, *ayādeśa*; *ṭita ātmanepadānāṃ ṭer e*.
+- **bhurvaṇiḥ**: *bhurv hiṃsāyām* (*bhurvatir hiṃsākarmā*, Niru. 6-23); Uṇādi *ani*; *aṭkupvāṅ…*: *ṇatva*; middle-acute.
+- **pāyayate**: *pā pāne*; *hetumati ca*: *ṇic*; *ṇicaś ca* (Pā. sū. 1-3-74): *ātmanepada*; *śāchāsāhvāvyāvepāṃ yuk* (Pā. sū. 7-3-37): *yuk*; *śap*, *guṇa*, *ayādeśa*; *ṭita ātmanepadānāṃ ṭer e*.
 - **hiraṇyayam**: *mayaṭ* after *hiraṇya* in the sense of "made of"; *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi* (Pā. 6-4-175): *ma* dropped by *nipāta*; *hariyogam*: bahuvrīhi; *haris*, ending in *in*, is initial-acute by *jñādyudāttatvam*; *bahuvrīhau prakṛtyā pūrvapadam*.
-- **ṛbhvasam**: *uru bhāḥ yasya sa urubhāḥ tam*: *pṛṣodarādīni yathopadiṣṭam*: *ṛbhvasa*. **|| 1 ||**
+- **ṛbhvasam**: *uru bhāḥ yasya sa urubhāḥ tam*: *pṛṣodarādīni yathopadiṣṭam* (Pā. sū. 6-3-109): *ṛbhvasa*. **|| 1 ||**
 
 ---
 
