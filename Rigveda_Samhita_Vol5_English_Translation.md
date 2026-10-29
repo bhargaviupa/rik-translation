@@ -6655,15 +6655,15 @@
 
 ---
 
-### Rik 55.7 (pp. 364–, PDF 380–)
+### Rik 55.7 (pp. 364–367, PDF 380–383)
 
-**Saṃhitā-pāṭha** *(p. 364)*
+**Saṃhitā-pāṭha** *(p. 364; accents as printed; [accent ?]: the svarita of* harī *stands between* ha *and* rī*, set on* rī*)*
 
-> **दानाय मनः सोमपावन्नस्तु तेऽर्वाञ्चा हरी वन्दनश्रुदा कृधि ।**
-> **यमिष्ठासः सारथयो य इन्द्र ते न त्वा केता आ दभ्नुवन्ति भूर्णयः ॥ ७ ॥**
+> **दा॒नाय॒ मनः॑ सोमपावन्नस्तु ते॒ऽर्वाञ्चा॒ हरी॑ वन्दनश्रु॒दा कृ॑धि ।**
+> **यमि॑ष्ठासः॒ सार॑थ॒यो य इ॑न्द्र ते॒ न त्वा॒ केता॒ आ द॑भ्नुवन्ति॒ भूर्ण॑यः ॥ ७ ॥**
 
-*dānāya manaḥ somapāvann astu te 'rvāñcā harī vandanaśrud ā kṛdhi |*
-*yamiṣṭhāsaḥ sārathayo ya indra te na tvā ketā ā dabhnuvanti bhūrṇayaḥ || 7 ||*
+*dānā́ya mánaḥ somapāvann astu te 'rvā́ñcā hárī vandanaśrud ā́ kṛdhi |*
+*yámiṣṭhāsaḥ sā́rathayó yá indra te ná tvā kétā ā́ dabhnuvanti bhū́rṇayaḥ || 7 ||*
 
 **Pada-pāṭha** *(p. 364)*
 
@@ -6706,10 +6706,10 @@
 - **somapāvan**: *pā pāne*; *ātomanin kvanipvanipaś ca* (Pā. 3-2-74): *vanip*; the vocative: *sarvanāmasthāne cāsambuddhau* does not lengthen, because *asambuddhau* is stated; *halṅyābbhyo…* drops *su*; *nalopaḥ*: no loss since *na ṅisambuddhyoḥ*; *āmantritasya ca*: *nighāta*.
 - **arvāñcā**: *arvāñc + au*: *supāṃ suluk…*: *ā* for the ending.
 - **vandanaśrut**: *vadi abhivādanastutyoḥ*; *idito num dhātoḥ*; *lyuṭ* in the action sense, *yuvor anākau*: *ana*; *śru śravaṇe*, *kvip ca*; *hrasvasya piti kṛti tuk*: *tuk*; vocative.
-- **yamiṣṭhāsaḥ**: *yam uparame*; *tṛc* in the agent sense: *yantṛ*; *tuś chandasi*: *iṣṭhan*; *turiṣṭhemeyaḥsu*: *tṛ* lost; *yamiṣṭha*; *nit*: initial-acute; *ājjaser asuk*: *asuk* for *jas*: *yamiṣṭhāsaḥ*.
+- **yamiṣṭhāsaḥ**: *yam uparame*; *tṛc* in the agent sense: *yantṛ*; *tuś chandasi* (Pā. sū. 5-3-59): *iṣṭhan*; *turiṣṭhemeyaḥsu* (Pā. sū. 5-3-59 [as printed; for 6-4-154]): *tṛ* lost; *yamiṣṭha*; *nit*: initial-acute; *ājjaser asuk* (Pā. sū. 7-1-50): *asuk* for *jas*: *yamiṣṭhāsaḥ*.
 - **ketāḥ**: *kita jñāne*; *nandigrahipacādibhyaḥ* (*ac*); *pugantalaghūpadhasya ca*: *guṇa*; *citaḥ* would give end-acute, but since *vṛṣādi* is an *ākṛtigaṇa* the initial-acute holds; or *ghañ* in the passive: *ñnityādir nityam*.
-- **dabhnuvanti**: *dabhu dambhe*, *svādi*; *laṭ* third plural, *jhoʼntaḥ*: *ant*; *svādibhyaḥ śnuḥ*; *śnu* is *ṅit*-like (*sārvadhātukam apit*), so *anidatāṃ halaḥ…*: loss of *n* of the root; no *yaṇ* since *śnu* follows a conjunct (*huśnuvoḥ sārvadhātuke*); *āciśnudhātubhruvāṃ…*: *uvaṅ*; *nighāta*.
-- **bhūrṇayaḥ**: *bhṛñ bharaṇe*; *dhṛṣṇipṛśniparṣṇi…* (Uṇ. 4-… as read [?]): *ni* with *u* and lengthening by the *nipāta*; or from *bhī bhaye*; *kṛtyalyuṭo bahulam*: *kranin*; *udoṣṭhyapūrvasya*: *u*; *halica*: lengthening; *ṛkārālādibhyaḥ krin niṣṭhāvad bhavati* (a *vārttika*): treated as *niṣṭhā*, so *ṇatva*: *bhūrṇi*; initial-acute. **|| 7 ||**
+- **dabhnuvanti**: *dabhu dambhe*, *svādi*; *laṭ* third plural, *jhoʼntaḥ*: *ant*; *svādibhyaḥ śnuḥ*; *śnu* is *ṅit*-like (*sārvadhātukam apit*), so *anidatāṃ halaḥ…*: loss of *n* of the root; no *yaṇ* since *śnu* follows a conjunct (*huśnuvoḥ sārvadhātuke*, Pā. sū. 6-4-87); *āciśnudhātubhruvāṃ…*: *uvaṅ*; *nighāta*.
+- **bhūrṇayaḥ**: *bhṛñ bharaṇe*; *dhṛṣṇipṛśniparṣṇi…* (labelled "Pā. sū." in the print: 4-492 [?], third digit doubtful): *ni* with *u* and lengthening by the *nipāta*; or from *bhī bhaye*; *kṛtyalyuṭo bahulam*: *kranin*; *udoṣṭhyapūrvasya* (Pā. sū. 7-1-102): *u*; *halica*: lengthening; *ṛkārālādibhyaḥ krin niṣṭhāvad bhavati* (a *vārttika*, Pā. sū. 8-2-44-1): treated as *niṣṭhā*, so *ṇatva*: *bhūrṇi*; initial-acute. **|| 7 ||**
 
 ---
 
