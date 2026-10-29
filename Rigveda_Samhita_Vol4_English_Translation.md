@@ -2621,15 +2621,17 @@ Numerals zoom-checked; rules whose printed number was not re-read are left unnum
 - **veti**: root *vī gatiprajanakāntyasanakhādaneṣu*; *laṭ*, *tip*, *śap*; *ādiprabhṛtibhyaḥ śapaḥ*: *luk* of *śap*; *guṇa*; *tip* is *pit* and so unaccented; the root's own accent stays; this is the second *tiṅanta* of the sentence, so *cādilope* is not applicable; but since it stands after the *tiṅanta* *bādhate*, the lowering by *tiṅ ṅatiṅaḥ* does not arise (it requires a non-*tiṅ* before).
 - **ṛṇoti** (pp. 167–168): root *ṛṇu gatau*, *tanādi*; *laṭ*, *tip*; *tanādikṛñbhya uḥ* — तनादिकृञ्भ्य उः — the suffix *u*; with this *u* as the cause *laghūpadha-guṇa* would arise; the teachers Ātreya, Āpiśali and others, by *saṃjñāpūrvako vidhir anityaḥ* (Paribhā. 95), hold that *guṇa* does not arise in the *tanādi*; by their opinion no *guṇa* here. Or, following *bahulam etannidarśanam*, the root *ṛ* is read in the *svādi* class, and *svādibhyaḥ śnuḥ* gives the *śnu* of the *vikaraṇa*, an *apit sārvadhātuka* and so *ṅit*; *kṅiti ca* prevents *guṇa*; the result is *ṛṇoti*. Rik 9 ends here (*|| 9 ||*).
 
-### Rik 35.10 (pp. 168–170, PDF 182–184)
+### Rik 35.10 (pp. 168–170, PDF 183–185)
 
-**Saṃhitā-pāṭha** *(p. 168; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 168; Saṃhitā accents as printed; Pada unaccented)*
 
-> **हिरण्यहस्तो असुरः सुनीथः सुमृळीकः स्ववाँ यात्वर्वाङ् ।**
-> **अपसेधन्रक्षसो यातुधानानस्थाद्देवः प्रतिदोषं गृणानः ॥ १० ॥**
+> हिर॑ण्यहस्तो॒ असु॑रः सुनी॒थः सु॑मृळी॒कः स्ववाँ॑ यात्व॒र्वाङ् ।
+> अ॒प॒सेध॑न्र॒क्षसो॑ यातु॒धाना॒नस्था॑द्दे॒वः प्र॑तिदो॒षं गृ॑णानः ॥ १० ॥
 
-*hiraṇyahasto asuraḥ sunīthaḥ sumṛḷīkaḥ svavām̐ yātv arvāṅ |*
-*apasedhan rakṣaso yātudhānān asthād devaḥ pratidoṣaṃ gṛṇānaḥ || 10 ||*
+*híraṇyahasto ásuraḥ sunītháḥ sumṛḷīkáḥ svávām̐ yātv arvā́ṅ |*
+*apasédhan rakṣáso yātudhā́nān ásthād deváḥ pratidoṣáṃ gṛṇānaḥ || 10 ||*
+
+*(As printed, no underline is seen under णा of गृणानः.)*
 
 *(Reading note, written after viewing the Pada on the same page: the Saṃhitā's "svavām̐ yātv arvāṅ" is the Pada's* sva-vān | yātu | arvāṅ *joined by sandhi, with the Vedic nasalised* ām̐ *before a vowel-initial word.)*
 
@@ -2643,13 +2645,13 @@ Numerals zoom-checked; rules whose printed number was not re-read are left unnum
 
 **Sāyaṇa-bhāṣya** *(pp. 168–169; the first half in full, the grammatical tail characterized)*
 
-> हिरण्यहस्तोऽसुरः प्राणदाता सुनीथः सुष्ठु नेता । प्रशस्य इत्यर्थः । सुनीथः पाक इति प्रशस्यनामसु पाठात् [?] । सुमृळीकः सुष्ठु सुखयिता स्ववान् धनवान् अर्वाङ् अभिमुखः कर्मदेशे गच्छतु । किंचायं देवः प्रतिदोषं प्रतिरात्रि गृणानः स्तूयमानोऽस्थात् । स्थितवान् । किं कुर्वन् । रक्षसो बाधकत्वेन रक्षणनिमित्तभूतान् । रक्षो रक्षितव्यमस्मादिति यास्कः । नि. ४-१८ [?] । यातुधानानसुरानपसेधन् निराकुर्वन् ॥
+> हिरण्यहस्तोऽसुरः प्राणदाता सुनीथः सुष्ठु नेता । प्रशस्य इत्यर्थः । सुनीथः पाक इति प्रशस्यनामसु पाठात् । सुमृळीकः सुष्ठु सुखयिता स्ववान् धनवान् अर्वाङ् अभिमुखः कर्मदेशे गच्छतु । किंचायं देवः प्रतिदोषं प्रतिरात्रि गृणानः स्तूयमानोऽस्थात् । स्थितवान् । किं कुर्वन् । रक्षसो बाधकत्वेन रक्षणनिमित्तभूतान् । रक्षो रक्षितव्यमस्मादिति यास्कः । नि. ४-१८ । यातुधानानसुरानपसेधन् निराकुर्वन् ॥
 
-*hiraṇyahasto 'suraḥ prāṇadātā sunīthaḥ suṣṭhu netā | praśasya ity arthaḥ | sunīthaḥ pāka iti praśasyanāmasu pāṭhāt [?] | sumṛḷīkaḥ suṣṭhu sukhayitā svavān dhanavān arvāṅ abhimukhaḥ karmadeśe gacchatu | kiṃcāyaṃ devaḥ pratidoṣaṃ pratirātri gṛṇānaḥ stūyamāno 'sthāt | sthitavān | kiṃ kurvan | rakṣaso bādhakatvena rakṣaṇanimittabhūtān | rakṣo rakṣitavyam asmād iti yāskaḥ | ni. 4-18 [?] | yātudhānān asurān apasedhan nirākurvan ||*
+*hiraṇyahasto 'suraḥ prāṇadātā sunīthaḥ suṣṭhu netā | praśasya ity arthaḥ | sunīthaḥ pāka iti praśasyanāmasu pāṭhāt | sumṛḷīkaḥ suṣṭhu sukhayitā svavān dhanavān arvāṅ abhimukhaḥ karmadeśe gacchatu | kiṃcāyaṃ devaḥ pratidoṣaṃ pratirātri gṛṇānaḥ stūyamāno 'sthāt | sthitavān | kiṃ kurvan | rakṣaso bādhakatvena rakṣaṇanimittabhūtān | rakṣo rakṣitavyam asmād iti yāskaḥ | ni. 4-18 | yātudhānān asurān apasedhan nirākurvan ||*
 
-**Translation:** "*Hiraṇyahastaḥ* — golden-handed; *asuraḥ* — the giver of life; *sunīthaḥ* — good leader, i.e. praiseworthy, since *sunīthaḥ* is read among the names for 'praiseworthy' [the citation is as read and not secure [?]]; *sumṛḷīkaḥ* — the one who gives good happiness; *svavān* — possessed of wealth: let him come *arvāṅ* — facing us, to the place of the rite. Moreover this god, being praised every night (*pratidoṣam*), *asthāt* — has stood [here]. Doing what? *Rakṣasaḥ* — [driving away those] who, by being injurers, are the occasion for [our] need of protection ('*rakṣas*, that from which [one] must be protected', so Yāska, Ni. 4-18 [?]); *yātudhānān*, the asuras — *apasedhan*, keeping off, driving away."
+**Translation:** "*Hiraṇyahastaḥ* — golden-handed; *asuraḥ* — the giver of life; *sunīthaḥ* — good leader, i.e. praiseworthy, since *sunīthaḥ* is read among the names for 'praiseworthy'; *sumṛḷīkaḥ* — the one who gives good happiness; *svavān* — possessed of wealth: let him come *arvāṅ* — facing us, to the place of the rite. Moreover this god, being praised every night (*pratidoṣam*), *asthāt* — has stood [here]. Doing what? *Rakṣasaḥ* — [driving away those] who, by being injurers, are the occasion for [our] need of protection ('*rakṣas*, that from which [one] must be protected', so Yāska, Ni. 4-18); *yātudhānān*, the asuras — *apasedhan*, keeping off, driving away."
 
-**Grammar within the bhāṣya** *(p. 169, characterized; the print is crowded and several rule-names only partly legible [?])*: "*hiraṇyahasta* and the like are as before"; *sumṛḷīkaḥ* (*suṣṭhu mṛḷīkaṃ sukhaṃ yasyāsau*, *nañsubhyām* — final-acute of the later member); *svavān* (*svam asyāsti*; *matup*, with *m* → *v* by *māduparadhāyā* [the rule on *matup* after a base with *m* or *a*]; the *n* in the Saṃhitā becomes *ru* by *dīrghād aṭi samānapāde*, the *ā* is nasalised by *ato 'ṭi nityam*, and the *ru* becomes *y* (*ro 'ri*, *yalopaḥ*) [as read, [?]]); *apasedhan* (*ṣidhu gatyām*; *śap* *pit* so unaccented; *śatṛ* and the *lasārvadhātuka* accent keeps the compound's later member's natural accent); *rakṣasaḥ* (*rakṣa pālane*; the Uṇādi *asun*; or *rakṣyate 'neneti rakṣaḥ*, "strength", *karaṇe 'sun*; the loss of the possessive suffix is Vedic; accent by the suffix); *yātudhānān* (*yata nikāropaskārayoḥ* — "to oppose, to prepare"; the Uṇādi suffix; *yātanā* — torments — *dhīyante eṣu*, "in whom torments are placed"; *adhikaraṇe lyuṭ*; the accent of what precedes a *lit* suffix); *asthāt* (*gātisthā…* *luk* of *sic*); *pratidoṣam* (*prati* in the sense of repetition, with an *avyayībhāva*: "night by night"); *gṛṇānaḥ* (*gṝ śabde*; *laṭ* in the passive, *śānac*; *śnā* by *vyatyaya*; the shortening of *ṛ*; final-acute by *cit*).
+**Grammar within the bhāṣya** *(p. 169, characterized)*: "*hiraṇyahasta* and the like are as before"; *sumṛḷīkaḥ* (*suṣṭhu mṛḷīkaṃ sukhaṃ yasyāsau*, *nañsubhyām* — final-acute of the later member); *svavān* (*svam asyāsti*; *matup*, with *m* → *v* by *mādupadhāyāḥ* (*iti vatvam*); the *n* in the Saṃhitā becomes *ru* by *dīrghād aṭi samānapāde*, the *ā* is nasalised by *āto 'ṭi nityam*, and the *ru* becomes *y* (*ror yatvam*, *yalopaś ca*)); *apasedhan* (*ṣidhu gatyām*; *śap* *pit* so unaccented; *śatṛ* and the *lasārvadhātuka* accent keeps the compound's later member's natural accent); *rakṣasaḥ* (*rakṣa pālane*; the Uṇādi *asun*; or *rakṣyate 'neneti rakṣaḥ*, "strength", *karaṇe 'sun*; the loss of the possessive suffix is Vedic; accent by the suffix); *yātudhānān* (*yata nikāropaskārayoḥ* — "to oppose, to prepare"; the Uṇādi suffix; *yātanā* — torments — *dhīyante eṣu*, "in whom torments are placed"; *adhikaraṇe lyuṭ*; the accent of what precedes a *lit* suffix); *asthāt* (*gātisthā…* *luk* of *sic*); *pratidoṣam* (*prati* in the sense of repetition, with an *avyayībhāva*: "night by night"); *gṛṇānaḥ* (*gṝ śabde*; *laṭ* in the passive, *śānac*; *śnā* by *vyatyaya*; the shortening of *ṛ* (*pvādīnāṃ hrasvaḥ*); final-acute by *cit*).
 
 **Pratipadārtha** *(p. 169)* — "**hiraṇyahastaḥ** — golden-handed (or holding gold in the hand to give to the sacrificer); **asuraḥ** — life-giver; **sunīthaḥ** — praiseworthy because he leads [one] to the desired place by showing the way; **sumṛḷīkaḥ** — full of great delight (or giving joy); **svavān** — Savitṛ, the wealthy; **arvāṅ** — facing the sacrificial place (let him walk); **devaḥ** — the god Savitṛ; **pratidoṣam** — every night; **gṛṇānaḥ** — being praised; **rakṣasaḥ** — the injurious; **yātudhānān** — the rākṣasas; **apasedhan** — warding off and driving away; **asthāt** — he stands [at the sacrificial place]."
 
@@ -2660,45 +2662,45 @@ Numerals zoom-checked; rules whose printed number was not re-read are left unnum
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 170** *(begun; continued on p. 171)*
 - **hiraṇyahastaḥ** — "its meaning and derivation are the same as those of the word *hiraṇyapāṇiḥ*."
 - **asuraḥ** = *asuṃ prāṇaṃ rāti dadātīty asuraḥ | prāṇadātā*: "the giver of breath, who protects the breath: *life giving* [the print's English]."
-- **sunīthaḥ** — *suṣṭhu netā praśasya ity arthaḥ*: "a leader, an excellent one, one worthy of praise; among the ten words for 'praiseworthy' beginning *asremāḥ*, *anemāḥ* [as read, [?]] the word *sunīthaḥ* is read; so *sunīthaḥ* means praiseworthy."
+- **sunīthaḥ** — *suṣṭhu netā praśasya ity arthaḥ*: "a leader, an excellent one, one worthy of praise; among the ten words for 'praiseworthy' beginning *asremāḥ*, *anemāḥ* [as printed] the word *sunīthaḥ* is read; so *sunīthaḥ* means praiseworthy."
 - **sumṛḷīkaḥ** = *suṣṭhu sukhayitā* — "the one who makes happiness."
 - **svavān** = *svam asyāstīti svavān | dhanavān* — "he who has wealth."
 - **apasedhan** = *nirākurvan* — "contemning, driving away, shunning, and so on."
-- **rakṣaḥ** = *rakṣanty anena iti rakṣo balam | rakṣo rakṣitavyam asmād iti yāskaḥ* (Ni. 4-[?]): "one who protects, or one who is able to protect from the rākṣasas and the like."
-- **yātudhānān** — "In general this word means rākṣasas, those who roam at night; asuras are also meant; but its exact sense is: one who works by spells — a sorcerer, a conjurer (*māṭugāra*, 'one who talks' [?]), a magician; *Sorcerer, Wizard, magician* [the print's English]. We give one or two examples:"
+- **rakṣaḥ** = *rakṣanty anena iti rakṣo balam | rakṣo rakṣitavyam asmād iti yāskaḥ* (Ni. 4-18): "one who protects, or one who is able to protect from the rākṣasas and the like."
+- **yātudhānān** — "In general this word means rākṣasas, those who roam at night; asuras are also meant; but its exact sense is: one who works by spells — a spell-man, a sorcerer, a magician (*mantragāra, māṭagāra, māyagāra*); *Sorcerer, Wizard, magician* [the print's English]. We give one or two examples:"
 
-> अयोदंष्ट्रो अर्चिषा यातुधानानुप स्पृश जातवेदः समिद्धः । (ऋ. सं. १०-८७-२ [?])
-> उतान्तरिक्षे परि याहि राजन् जम्भैः सं धेह्यभि यातुधानान् । (ऋ. सं. १०-८७-३ [?])
+> अयोदंष्ट्रो अर्चिषा यातुधानानुप स्पृश जातवेदः समिद्धः । (ऋ. सं. १०-८७-२)
+> उतान्तरिक्षे परि याहि राजन् जम्भैः सं धेह्यभि यातुधानान् । (ऋ. सं. १०-८७-३)
 
-*ayodaṃṣṭro arciṣā yātudhānān upa spṛśa jātavedaḥ samiddhaḥ | (ṛ. saṃ. 10-87-2 [?])*
-*utāntarikṣe pari yāhi rājan jambhaiḥ saṃ dhehy abhi yātudhānān | (ṛ. saṃ. 10-87-3 [?])*
+*ayodaṃṣṭro arciṣā yātudhānān upa spṛśa jātavedaḥ samiddhaḥ | (ṛ. saṃ. 10-87-2)*
+*utāntarikṣe pari yāhi rājan jambhaiḥ saṃ dhehy abhi yātudhānān | (ṛ. saṃ. 10-87-3)*
 
-*(Untranslated in the source. My gloss, **mine and tentative**: "O Jātavedas, kindled, iron-fanged, touch the *yātudhānas* with your flame"; "and in the mid-region too, O king, go round; set your jaws on the *yātudhānas*". The reference numerals are as read from small Kannada digits [?].)* *(The list of examples continues on p. 171, to be viewed next.)*
+*(Untranslated in the source. My gloss, **mine and tentative**: "O Jātavedas, kindled, iron-fanged, touch the *yātudhānas* with your flame"; "and in the mid-region too, O king, go round; set your jaws on the *yātudhānas*".)* *(The list of examples continues on p. 171, to be viewed next.)*
 
 ---
 
-### Rik 35.10 — Special Topics concluded and grammar (pp. 171–173, PDF 185–187; grammar pages, noted briefly)
+### Rik 35.10 — Special Topics concluded and grammar (pp. 171–173, PDF 186–188; grammar pages, noted briefly)
 
 **Special Topics, continued from p. 170 (p. 171)** — the list of examples for *yātudhānān*, two more ṛks:
 
-> इह प्र ब्रूहि यतमः सो अग्ने यो यातुधानो य इदं कृणोति । (ऋ. सं. १०-८७-[?] [?])
-> तस्याग्ने पृष्टीर्हरसा शृणीहि त्रेधा मूलं यातुधानस्य वृश्च । (ऋ. सं. १०-८७-[?] [?])
+> इह प्र ब्रूहि यतमः सो अग्ने यो यातुधानो य इदं कृणोति । (ऋ. सं. १०-८७-७)
+> तस्याग्ने पृष्टीर्हरसा शृणीहि त्रेधा मूलं यातुधानस्य वृश्च । (ऋ. सं. १०-८७-७)
 
-*iha pra brūhi yatamaḥ so agne yo yātudhāno ya idaṃ kṛṇoti | (ṛ. saṃ. 10-87-[?] [?])*
-*tasyāgne pṛṣṭīr harasā śṛṇīhi tredhā mūlaṃ yātudhānasya vṛśca | (ṛ. saṃ. 10-87-[?] [?])*
+*iha pra brūhi yatamaḥ so agne yo yātudhāno ya idaṃ kṛṇoti | (ṛ. saṃ. 10-87-7)*
+*tasyāgne pṛṣṭīr harasā śṛṇīhi tredhā mūlaṃ yātudhānasya vṛśca | (ṛ. saṃ. 10-87-7)*
 
-*(Mine and tentative: "here tell, O Agni, which one he is, the yātudhāna who does this"; "break his ribs with your heat, O Agni; cut the root of the yātudhāna in three ways". The reference numerals are as read from small Kannada digits and not secure [?].)* "And the word *yātudhāna* is also used in the Atharvaveda [references to several hymns, numerals not read], the Kāṭhaka Saṃhitā, the Vājasaneyi Saṃhitā, the Śatapatha Brāhmaṇa and other mantras."
+*(Mine and tentative: "here tell, O Agni, which one he is, the yātudhāna who does this"; "break his ribs with your heat, O Agni; cut the root of the yātudhāna in three ways". Both references are printed 10-87-7, as printed.)* "And the word *yātudhāna* is also used in the Atharvaveda (AV 1-7-1; 4-3-4; 6-13-3; 6-32-2; 7-70-2; 19-46-2 [?]), the Kāṭhaka Saṃhitā 37-14, the Vājasaneyi Saṃhitā 8-7, the Śatapatha Brāhmaṇa 7-4-1-9 and other mantras."
 - **pratidoṣam** = *pratirātrāṇi* — "every night, on the night of every day."
 - **gṛṇānaḥ** = *gṝ śabde* — **stūyamānaḥ**: "one who is being praised."
 
 **Vyākaraṇa-prakriyā** *(pp. 171–173)*
-- **svavān** (p. 171): *svam eṣām asti* — *tadasyāstyasminn iti matup*; *māduparadhāyāś ca matorvo 'yavādibhyaḥ* — मादुपधायाश्च मतोर्वोऽयवादिभ्यः — the *m* of *matup* becomes *v* after a base ending in *a* or having *m* or *a* as penultimate [the print explains the compound rule in two ways] and not belonging to the *yavādi* group; *sva* ends in *a*, so *svavat*; *su*; *asaṃtasya cādhātoḥ* — असन्तस्य चाधातोः — the penultimate vowel is lengthened before a *sarvanāmasthāna* ending, of a base not a *dhātu* ending in *at*; the augment *num* (*ugidacām…*); *svavān + su*, *halṅyābbhyo…* — loss of *su*; *saṃyogāntasya lopaḥ*: loss of the *t*; this loss, being *asiddha*, does not allow the loss of *n*; in the Saṃhitā, *dīrghād aṭi samānapāde* turns the *n* into *ru*; *ato 'ṭi nityam* — *ā* nasalised; *bhobhago 'gho 'pūrvasya yo 'śi* — *ru* → *y*; *lopaḥ śākalyasya* — loss of the *y*.
-- **apasedhan** (p. 172): root *ṣidha gatyām*, "1st class, 47th root [as read]; *ṣidhū śāstre māṅgalye ca*, *ṣidhu saṃrāddhau*, the other roots; in the present Dhātupāṭha *ṣidha gatyām* is not found"; *laṭ*, *śatṛ*, *śap*, *laghūpadha-guṇa*: *sedhat*; *su*; *num* by *ugit*; *sedhan + su*; *halṅyādilopa*, loss of the *t*; the preverb *apa*; *śap* is *pit* and *śatṛ* is *lasārvadhātuka*, so both unaccented; after the compound with *apa*, the later member keeps its natural accent (*kṛdutarapadaprakṛtisvara*).
+- **svavān** (p. 171): *svam eṣām asti* — *tadasyāstyasminn iti matup*; *māduparadhāyāś ca matorvo 'yavādibhyaḥ* — मादुपधायाश्च मतोर्वोऽयवादिभ्यः — the *m* of *matup* becomes *v* after a base ending in *a* or having *m* or *a* as penultimate [the print explains the compound rule in two ways] and not belonging to the *yavādi* group; *sva* ends in *a*, so *svavat*; *su*; *asaṃtasya cādhātoḥ* — असन्तस्य चाधातोः — the penultimate vowel is lengthened before a *sarvanāmasthāna* ending, of a base not a *dhātu* ending in *at*; the augment *num* (*ugidacām…*); *svavān + su*, *halṅyābbhyo…* — loss of *su*; *saṃyogāntasya lopaḥ*: loss of the *t*; this loss, being *asiddha*, does not allow the loss of *n*; in the Saṃhitā, *dīrghād aṭi samānapāde* turns the *n* into *ru*; *āto 'ṭi nityam* — *ā* nasalised; *bhobhago 'gho 'pūrvasya yo 'śi* — *ru* → *y*; *lopaḥ śākalyasya* — loss of the *y*.
+- **apasedhan** (p. 172): root *ṣidha gatyām*, "1st class, 47th root; 48, *ṣidhū śāstre māṅgalye ca*; *ṣidhu saṃrāddhau*, the 119[?]th root (last digit 2 or 7), 4th class; in the present Dhātupāṭha *ṣidha gatyām* is not found"; *laṭ*, *śatṛ*, *śap*, *laghūpadha-guṇa*: *sedhat*; *su*; *num* by *ugit*; *sedhan + su*; *halṅyādilopa*, loss of the *t*; the preverb *apa*; *śap* is *pit* and *śatṛ* is *lasārvadhātuka*, so both unaccented; after the compound with *apa*, the later member keeps its natural accent (*kṛdutarapadaprakṛtisvara*).
 - **rakṣasaḥ**: root *rakṣa pālane*, 1st class; the Uṇādi suffix *asin* in the sense of *apādāna*: *rakṣanty asmāt* — "those from whom protection is [needed]", i.e. the occasion for protection; or *rakṣyate 'nena* — *rakṣaḥ*, in the sense of instrument, the Uṇādi *asun*: "strength": one who is protected by *yātu* is thus protected; without strength protection cannot be done; so *rakṣaḥ* = strength; *rakṣo 'syāsti* = *rakṣasvin*, "powerful"; *asmāyāmedhāsrajo viniḥ* — the suffix *vin*, whose *luk* is Vedic: *rakṣasaḥ*, *rakṣasvinaḥ*, "powerful ones"; the *a* of *as* is acute by the suffix-accent; had *asun* been intended, the first syllable would have been acute.
 - **yātudhānān**: root *yata nikāropaskārayoḥ*, 1st class; *satyāpapāśarūpavīṇātūlaślokasenālomatvacavarmavarṇacūrṇacurādibhyo ṇic* — the suffix *ṇic* in its own sense; after it, the Uṇādi suffix *u* in the verbal-noun sense; loss of *ṇi*; *upadhā-vṛddhi*: *yātu*, "torment, harassment"; *yātavo dhīyante eṣu* — "in whom torments are placed"; *karaṇādhikaraṇayoś ca* — *lyuṭ* after *dhā* in the locus sense: *ana*; *yātudhā + ana*; *lit* — the syllable before the *lit* is acute; *savarṇadīrgha*; single-substitute accent.
 - **asthāt**: the print has "*asmāt*" at this entry and says it is explained in the eighth mantra of this sūkta; evidently a misprint for *asthāt* (see Rik 8: *gātisthā…* *luk* of *sic*).
 - **pratidoṣam** (pp. 172–173): *doṣā* = night; the phrase *doṣāṃ prati*; *prati* compounded with *doṣā*: *avyayaṃ vibhaktisamīpasamṛddhivṛddhyarthābhāvātyayāsampratiśabdaprādurbhāvapaścādyathānupūrvyayaugapadyasādṛśyasampattisākalyāntavacaneṣu* — an indeclinable in any of these senses (case-sense, proximity, prosperity…) compounds with a *subanta*, and it is *avyayībhāva*; here *yathā*-sense; the four senses of *yathā* are *yogyatā* (fitness), *vīpsā* (repetition), *padārthānativṛtti* (not exceeding) and *sādṛśya* (likeness); here *vīpsā*: "*vīpsā* means *vyāpti*, relating fully; when *vīpsā* is shown in a sentence, doubling comes by *nityavīpsayoḥ*; but in a compound the *vīpsā* is already expressed and so no doubling — so Kaiyaṭa says on a rule [the word printed *hayavarāṭ*]"; *avyayībhāvaś ca* — neuter; *hrasvo napuṃsake prātipadikasya* — shortening; *nāvyayībhāvād ato 'm tv apañcamyāḥ* — after an *avyayībhāva* ending in *a* the *sup* is replaced by *am* (not *luk*), except the fifth case; *amipūrvaḥ*: *pūrvarūpa*: *pratidoṣam*.
-- **gṛṇānaḥ** (p. 173): root *gṝ śabde*, *kryādi*; *laṭ* in the passive, *śānac*; *kryādibhyaḥ śnā* — *śnā* as the *vikaraṇa*: *gṛ + nā + āna*; the root's vowel is shortened [the print: *prādīnāṃ hrasvaḥ*, as read, [?]]; *ṛvarṇān nasya ṇatvaṃ vācyam* (vārtika): *n* → *ṇ*; *cita*: final-acute. Rik 10 ends here (*|| 10 ||*).
+- **gṛṇānaḥ** (p. 173): root *gṝ śabde*, *kryādi*; *laṭ* in the passive, *śānac*; *kryādibhyaḥ śnā* — *śnā* as the *vikaraṇa*: *gṛ + nā + āna*; the root's vowel is shortened [the print: *pvādīnāṃ hrasvaḥ*]; *ṛvarṇān nasya ṇatvaṃ vācyam* (vārtika): *n* → *ṇ*; *cita*: final-acute. Rik 10 ends here (*|| 10 ||*).
 
 ### Rik 35.11 (pp. 173–176, PDF 187–190)
 
