@@ -5431,13 +5431,15 @@
 
 ### Rik 53.9 (pp. 294–297, PDF 310–313)
 
-**Saṃhitā-pāṭha** *(p. 294; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 294; accents as printed)*
 
-> **त्वमेतान् जनराज्ञो द्विर्दशाबन्धुना सुश्रवसोपजग्मुषः ।**
-> **षष्टिं सहस्रा नवतिं नव श्रुतो नि चक्रेण रथ्या दुष्पदावृणक् ॥ ९ ॥**
+> **त्वमे॒ताञ्ज॑न॒राज्ञो द्विर्दशा॑ब॒न्धुना॑ सु॒श्रव॑सोप॒जग्मुषः॑ ।**
+> **ष॒ष्टिं स॒हस्रा॑ नव॒तिं न॑व श्रु॒तो नि च॒क्रेण॒ रथ्या॑ दु॒ष्पदा॑वृणक् ॥ ९ ॥**
 
-*tvam etāñ janarājño dvir daśābandhunā suśravasopajagmuṣaḥ |*
-*ṣaṣṭiṃ sahasrā navatiṃ nava śruto ni cakreṇa rathyā duṣpadāvṛṇak || 9 ||*
+*tvam etā́ñ janarā́jño dvír dáśābandhúnā suśrávasopajagmúṣaḥ |*
+*ṣaṣṭíṃ sahásrā navatíṃ náva śrutó ní cakréṇa ráthyā duṣpádāvṛṇak || 9 ||*
+
+*(The print joins* etāñ janarājño *as ताञ्ज; [accent ?] ञ्ज॑ (stroke over the ಞ್ಜ cluster) and नव॒तिं (stroke under the second akṣara): placed as seen.)*
 
 **Pada-pāṭha** *(p. 294)*
 
@@ -5453,7 +5455,7 @@
 
 *he indra śruto viśrutaḥ prakhyātas tvaṃ dvir daśa viṃśatisaṃkhyākān abandhunā bandhurahitena sahāyarahitena suśravasaitatsaṃjñakena rājñā yuddhārtham upajagmuṣa upagatavata etān evaṃvidhān janarājño janapadānām adhipatīn | ṣaṣṭim ity ādinā teṣāṃ rājñām anucarasaṃkhyocyate | ṣaṣṭiṃ sahasrā sahasrāṇāṃ ṣaṣṭiṃ navatiṃ nava navasaṃkhyottarāṃ navatiṃ | tān rājña īdṛksaṃkhyānān anucarāṃś ca rathyā rathasaṃbandhinā duṣpadā duṣprapadanena śatrubhiḥ prāptum aśakyenety arthaḥ | īdṛśena cakreṇa nyavṛṇak nyavarjayaḥ | tvāṃ stuvataḥ suśravaso jayārthaṃ tvam āgatya tadīyāñ śatrūn ajaiṣīr ity arthaḥ ||*
 
-*(The tail of the bhāṣya, pp. 295–: on* janarājñaḥ *(the compound and the* ṭac *excluded by* sāmāsāntavidhir anityaḥ*, Pari. 94 as read [?]; *rājan*, *kanin*, initial-acute),* abandhunā*,* suśravasā*,* upajagmuṣaḥ *(*gam* with* kvasu*, *śasi bhasaṃjñāyāṃ vasoḥ saṃprasāraṇam*, the loss of the penultimate by* gamahanajana…*),* rathyā *(*rathasyedaṃ rathyam*, *yat* by* rathād yat*, Pā. 4-3-121 as read [?]),* duṣpadā *(*pada gatau*, *khal* by* īṣaddussuṣu*, Pā. 3-3-126),* avṛṇak *(*vṛjī varjane*, *rudhādi*, *śnam*,* ṇatva*, *kutva*,* carva*) — is characterized.)*
+*(The tail of the bhāṣya, pp. 295–: on* janarājñaḥ *(the compound and the* ṭac *excluded by* sāmāsāntavidhir anityaḥ*, Pā. 5-4-91, Pari. 84; *rājan*, *kanin*, initial-acute),* abandhunā*,* suśravasā*,* upajagmuṣaḥ *(*gam* with* kvasu*, *śasi bhasaṃjñāyāṃ vasoḥ saṃprasāraṇam*, the loss of the penultimate by* gamahanajana…*),* rathyā *(*rathasyedaṃ rathyam*, *yat* by* rathād yat*, Pā. 4-3-121),* duṣpadā *(*pada gatau*, *khal* by* īṣaddussuṣu*, Pā. 3-3-126),* avṛṇak *(*vṛjī varjane*, *rudhādi*, *śnam*,* ṇatva*, *kutva*,* carva*) — is characterized.)*
 
 **Translation of the bhāṣya:** "O Indra, *śrutaḥ*, renowned, you — *dvir daśa*, twenty — of those *janarājñaḥ*, 'kings of the people', the lords of the countries, who came (*upajagmuṣaḥ*) to fight against *suśravasā*, the king of that name, *abandhunā*, who had no kinsman, no helper: *ṣaṣṭiṃ sahasrā navatiṃ nava*, with sixty thousand and ninety-nine — here the number of the followers of those kings is told: sixty thousand, and ninety plus nine. Those kings, and their followers of this number, *cakreṇa rathyā duṣpadā*, with the chariot-wheel — *duṣpada* meaning that which enemies cannot approach — with such a wheel *ni avṛṇak*, you laid low, defeated: coming to the victory of the praising Suśravas, you conquered his enemies, is the sense."
 
@@ -5461,10 +5463,10 @@
 
 **Bhāvārtha** *(p. 295)* — "O Indra, you are renowned in the world. When the twenty lords of the country went to war, with sixty thousand ninety-nine followers, against the king named Suśravas, who had no friends and no helpers, you destroyed them all with the wheel of your chariot, which enemies cannot approach."
 
-**English Translation (the source's own, p. 295)** — "O renowned Indra, you overthrew, by your not-to-be-overtaken chariot-wheel, the twenty kings of men, who had come against Susravas, unaided, and their sixty-thousand and ninety and nine followers."
+**English Translation (the source's own, p. 295)** — "O reuowned [sic] Indra, you overthrew, by your not-to-be-overtaken chariot-wheel, the twenty kings of men, who had come against Susravas, unaided, and their sixty-thousand and ninety and nine followers."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 295–296**
-- **suśravasā** — "Suśravas is a king dear to Indra. We do not know much about him. In the Pañcaviṃśa Brāhmaṇa (14-6-8 as read [?]), Suśravas is said to be the son of Upagu; in the Śatapatha Brāhmaṇa (10-5-5-1 [?]) Suśravā Kauṣya is spoken of as a teacher; and in the Vaṃśa Brāhmaṇa (1-… [?]) Suśravā Vārṣagaṇya is told to be a descendant of Vṛṣagaṇa, a teacher, a pupil of Puruṣa [and of Prātaraha] Kauhala. It is not clear which of these is the Suśravas of the Rik under discussion." *(The Kannada numerals, all uncertain, [?].)*
+- **suśravasā** — "Suśravas is a king dear to Indra. We do not know much about him. In the Pañcaviṃśa Brāhmaṇa (14-6-8), Suśravas is said to be the son of Upagu; in the Śatapatha Brāhmaṇa (10-5-5-1) Suśravā Kauṣya is spoken of as a teacher; and in the Vaṃśa Brāhmaṇa (10-75-5 [? 7/2]) Suśravā Vārṣagaṇya is told to be a descendant of Vṛṣagaṇa, a teacher, and the pupil of one named Prātaraha Kauhala. It is not clear which of these is the Suśravas of the Rik under discussion."
 - **abandhunā suśravasā** — "Suśravas is a king. He had neither kinsmen nor any helpers of any kind. Praising Indra, he won victory in battle with Indra's help. *Śobhanaṃ śravaḥ annaṃ yasya saḥ*: 'one who has excellent food', that is, 'one who has riches' — thus they explain."
 - **janarājñaḥ** — "Lords of the earth. Here the word *jana* means 'country, region'."
 - **ṣaṣṭiṃ sahasrā navatiṃ nava** — "The kings who came to fight against Suśravas came to battle with sixty thousand ninety-nine soldiers."
@@ -5472,10 +5474,10 @@
 - **rathyā** — "This word, in the sense 'connected with the chariot', is an epithet of Indra's wheel."
 
 **Vyākaraṇa-prakriyā** *(pp. 296–297 — grammar pages, noted briefly)*
-- **janarājñaḥ**: "*janānāṃ rājā*": as a compound, *rājāhaḥsakhibhyaḥ ṭac* (Pā. 5-4-91) would give *ṭac*, but *samāsāntavidhir anityaḥ* (*paribhāṣā*, as read [?]) means that it does not come here; genitive singular; the word *rājan* is formed from *rāja dīptau* with *kanin*, and so is initial-acute; as a compound, *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*-final member, and the initial-acute stays.
+- **janarājñaḥ**: "*janānāṃ rājā*": as a compound, *rājāhaḥsakhibhyaḥ ṭac* (Pā. 5-4-91) would give *ṭac*, but *samāsāntavidhir anityaḥ* (Pari. 84) means that it does not come here; genitive singular; the word *rājan* is formed from *rāja dīptau* with *kanin*, and so is initial-acute; as a compound, *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*-final member, and the initial-acute stays.
 - **abandhunā**: "*na vidyate bandhur yasya saḥ abandhuḥ tena*"; a bahuvrīhi: *nañsubhyām* (Pā. 6-2-172) gives the end-acute.
-- **suśravasā**: "*śobhanaṃ śravaḥ annaṃ yasya suśravāḥ tena*"; *dvyac chandasi* (Pā. 6-2-… as read [?]) — in the Veda, when the last member has more than one syllable… the whole takes the initial acute of the *upapada* (*su*): initial-acute.
-- **upajagmuṣaḥ**: *gamlṛ gatau*; *kvasuś ca* (Pā. 3-2-107) gives *kvasu* for *liṭ*; *liṅ*-nimitta reduplication; *halādiḥ śeṣaḥ*; *cutva*; *gamahanajana…* (Pā. 6-4-98) drops the penultimate; *jagmus*; in the accusative plural, when *śas* follows, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131) gives *saṃprasāraṇa* to the *v*; *saṃprasāraṇāc ca* gives the earlier form; *śāsivasighasīnāṃ ca* (Pā. 8-3-60) gives *ṣatva*; *ru*, *visarga*: *upajagmuṣaḥ*; since *gati*-first, *gatikārakopapadāt kṛt* keeps the accent of *vasu* from the *kvasu*.
+- **suśravasā**: "*śobhanaṃ śravaḥ annaṃ yasya suśravāḥ tena*"; *dvyac chandasi* (Pā. 6-2-119) — in the Veda, when the last member has more than one syllable… the whole takes the initial acute of the *upapada* (*su*): initial-acute.
+- **upajagmuṣaḥ**: *gamlṛ gatau*; *kvasuś ca* (printed "Vā. sū." 3-2-107) gives *kvasu* for *liṭ*; *liṅ*-nimitta reduplication; *halādiḥ śeṣaḥ*; *cutva*; *gamahanajana…* (Pā. 6-4-98) drops the penultimate; *jagmus*; in the accusative plural, when *śas* follows, *vasoḥ saṃprasāraṇam* (Pā. 6-4-131) gives *saṃprasāraṇa* to the *v*; *saṃprasāraṇāc ca* gives the earlier form; *śāsivasighasīnāṃ ca* (Pā. 8-3-60) gives *ṣatva*; *ru*, *visarga*: *upajagmuṣaḥ*; since *gati*-first, *gatikārakopapadāt kṛt* keeps the accent of *vasu* from the *kvasu*.
 - **rathyā**: "*rathasya idaṃ rathyam*"; *rathād yat* (Pā. 4-3-121) gives *yat*; *svaritatva* arises, but *yato 'nāvaḥ* (Pā. 6-1-213) gives the initial-acute; instrumental singular: *supāṃ suluk* gives *ā* for the ending: *rathyā*.
 - **duṣpadā**: *pada gatau*; *īṣaddussuṣu* (Pā. 3-3-126) gives *khal*: *duṣpada*; *khal* being *lit*, *liti* gives the vowel before the suffix the acute; here too *supāṃ suluk* gives *ā* for *ṭā*.
 - **avṛṇak**: *vṛjī varjane*, *rudhādi*, *laṅ* second singular *sip*; *itaś ca* drops the *i*; *rudhādibhyaḥ śnam*; being *mit*, it follows the last vowel; since *ṛ* precedes, the *n* of *śnam* becomes *ṇ*; since the *hal* follows, *halṅyābbhyo…* drops *sip*'s *s*; *coḥ kuḥ* gives *kutva* for the final *j*; *vāvasāne* gives *carva*; *aṭ* as the *laṅ* augment: *avṛṇak*; following an *atiṅ*, *tiṅ atiṅaḥ*, *nighāta*. **|| 9 ||**
