@@ -10848,21 +10848,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.7 (p. 588 foot, PDF 602–)
 
-**Saṃhitā-pāṭha** *(p. 588; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 588)*
 
-> **आ नो नावा मतीनां यातं पाराय गन्तवे ।**
-> **युञ्जाथामश्विना रथम् ॥ ७ ॥**
+> **आ नो॑ ना॒वा म॑ती॒नां या॒तं पा॒राय॒ गन्त॑वे ।**
+> **यु॒ञ्जाथा॑मश्विना॒ रथ॑म् ॥ ७ ॥**
 
-*ā no nāvā matīnāṃ yātaṃ pārāya gantave |*
-*yuñjāthām aśvinā ratham || 7 ||*
+*ā́ no nāvā́ matīnā́ṃ yātáṃ pārā́ya gántave |*
+*yuñjā́thām aśvinā rátham || 7 ||*
 
-*(The Pada and bhāṣya of Rik 7 begin on p. 589, not yet seen.)*
-
----
-
----
-
-**Rik 46.7, continued** *(from p. 589)*
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 589)*
 
@@ -10889,21 +10883,23 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **Special Topics (*viśeṣa-viṣaya*, singular in the print), pp. 589–590** — "The sense of this ṛk does not fit properly. 'O Aśvin gods, to reach the shore — the end — of the sea of the stotras that we are making; that is, [come so that] you hear our stotras; hearing them and being satisfied, make your chariot ready to come near us': this may be the chief idea."
 
 **Vyākaraṇa-prakriyā** *(p. 590 — grammar page, noted briefly)*
-- **nāvā**: after the word *nau*, the instrumental singular suffix *ṭā*; *eco 'yavāyāvaḥ* (Pā. 6-1-78 as read) gives *āv* for the *o*; *sāvekācaḥ…* — the case-ending is acute.
-- **gantave**: root *gamḷ gatau*; *tumarthe sesenasase…* gives the suffix *tavenū*; *gam + tave*; *naś chapadāntasya jhali* (Pā. 8-3-24 as read) gives the *anusvāra* for *m*; *anusvārasya yayi parasavarṇaḥ* (Pā. 8-4-58 as read) the homogeneous nasal; the *nit* suffix gives the initial acute.
-- **yuñjāthām**: root *yujir yoge*, *loṭ*, *ātmanepada*, second person dual *āthām*; *rudhādibhyaḥ śnam*; *yunaj + āthām*; *śnasor allopaḥ* (Pā. 6-4-111 as read) drops the *a* of the *śna* suffix; the substitute-treatment (*sthānivadbhāva*) of the dropped *a* is denied by the rule beginning *na padānta-dvirvacana-vareyalopa-svara-savarṇānusvāra-dīrghajaś-cartvidhiṣu* (Pā. 1-1-58 as read); the *anusvāra* and homogeneous nasals as before; being at the head of a *pāda*, no all-unaccented; the suffix-accent. **|| 7 ||**
+- **nāvā**: after the word *nau*, the instrumental singular suffix *ṭā*; *eco 'yavāyāvaḥ* gives *āv* for the *o*; *sāvekācaḥ…* — the case-ending is acute.
+- **gantave**: root *gamḷ gatau*; *tumarthe sesenasase…* gives the suffix *tavenū*; *gam + tave*; *naś chapadāntasya jhali* gives the *anusvāra* for *m*; *anusvārasya yayi parasavarṇaḥ* the homogeneous nasal; the *nit* suffix gives the initial acute.
+- **yuñjāthām**: root *yujir yoge*, *loṭ*, *ātmanepada*, second person dual *āthām*; *rudhādibhyaḥ śnam*; *yunaj + āthām*; *śnasor allopaḥ* drops the *a* of the *śna* suffix; the substitute-treatment (*sthānivadbhāva*) of the dropped *a* is denied by the rule beginning *na padānta-dvirvacana-vareyalopa-svara-savarṇānusvāra-dīrghajaś-cartvidhiṣu* (Pā. Sū. 1-1-58); the *anusvāra* and homogeneous nasals as before; being at the head of a *pāda*, no all-unaccented; the suffix-accent. **|| 7 ||**
 
 ---
 
 ### Rik 46.8 (pp. 590–592, PDF 604–606)
 
-**Saṃhitā-pāṭha** *(p. 590; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 590)*
 
-> **अरित्रं वां दिवस्पृथु तीर्थे सिन्धूनां रथः ।**
-> **धिया युयुज्र इन्दवः ॥ ८ ॥**
+> **अ॒रित्रं॑ वां दि॒वस्पृ॒थु ती॒र्थे सिन्धू॑नां॒ रथः॑ ।**
+> **धि॒या यु॑युज्र॒ इन्द॑वः ॥ ८ ॥**
 
-*aritraṃ vāṃ divas pṛthu tīrthe sindhūnāṃ rathaḥ |*
-*dhiyā yuyujra indavaḥ || 8 ||*
+*arítraṃ vāṃ divás pṛthú tīrthé síndhūnāṃ ráthaḥ |*
+*dhiyā́ yuyujra índavaḥ || 8 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 590)*
 
