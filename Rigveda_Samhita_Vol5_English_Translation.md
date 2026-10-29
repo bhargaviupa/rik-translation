@@ -6148,19 +6148,19 @@
 - **indrapānāḥ**: *karmaṇi ca yena saṃsparśāt kartuḥ śarīrasukham* (Pā. 3-3-116): *lyuṭ* after *pā* with the object as *upapada*; *yuvor anākau* gives *ana*: *indrapāna*.
 - **aśnuhi**: *aśū vyāptau*, *svādi*; *vyatyayo bahulam* gives the *parasmaipada*; *loṭ* second singular *sip*; *hi* for *sip*; *svādibhyaḥ śnuḥ* gives *śnu*: *aśnuhi*; *tiṅ atiṅaḥ*, *nighāta*.
 - **vasudeyāya**: *ḍudāñ dāne*; *aco yat* (Pā. 3-1-97) gives *yat* after *ac*-ending roots, in the sense of the action here; *īdyati* (Pā. 6-4-65) gives *ī* to the root's *ā* before *yat*; *dī + ya*: *guṇa*; *yato 'nāvaḥ* gives the initial acute; compound with *vasu*, so *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*. **|| 9 ||**
-- **kṛṣva** *(p. 334, PDF 350)*: *ḍukṛñ karaṇe*, *ñit*, so both *padas*; *loṭ* second singular, *thāsaḥ se* (Pā. 3-4-80) gives *se*; *bahulaṃ chandasi* drops the *u*-characteristic (*vikaraṇa*); *sa* after *v*: *savābhyāṃ vāmau* (Pā. 3-4-91) gives *va* [the optional ending]; since *s* arises, *ādeśapratyayayoḥ* gives *ṣatva*; since *sārvadhātukam apit* gives *ṅit*-ness, *guṇa* of the *ṛ* does not arise: *kṛṣva*; *tiṅ atiṅaḥ*, *nighāta*. **|| 9 ||**
+- **kṛṣva** *(p. 334, PDF 350)*: *ḍukṛñ karaṇe*, *ñit*, so both *padas*; *loṭ* second singular, *thāsaḥ se* (no number printed) gives *se*; *bahulaṃ chandasi* drops the *u*-characteristic (*vikaraṇa*); *sa* after *v*: *savābhyāṃ vāmau* (Pā. 3-4-91) gives *va* [the optional ending]; since *s* arises, *ādeśapratyayayoḥ* gives *ṣatva*; since *sārvadhātukam apit* gives *ṅit*-ness, *guṇa* of the *ṛ* does not arise: *kṛṣva*; *tiṅ atiṅaḥ*, *nighāta*. **|| 9 ||**
 
 ---
 
 ### Rik 54.10 (pp. 334–338, PDF 350–354; metre Jagatī)
 
-**Saṃhitā-pāṭha** *(p. 334; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 334; accents as printed)*
 
-> **अपामतिष्ठद्धरुणह्वरं तमोऽन्तर्वृत्रस्य जठरेषु पर्वतः ।**
-> **अभीमिन्द्रो नद्यो वव्रिणा हिता विश्वा अनुष्ठाः प्रवणेषु जिघ्नते ॥ १० ॥**
+> **अ॒पाम॑तिष्ठद्ध॒रुण॑ह्वरं॒ तमो॑ऽन्तर्वृ॒त्रस्य॑ ज॒ठरे॑षु॒ पर्व॑तः ।**
+> **अ॒भीमि॑न्द्रो न॒द्यो॑ व॒व्रिणा॑ हि॒ता विश्वा॑ अनु॒ष्ठाः प्र॑व॒णेषु॑ जिघ्नते ॥ १० ॥**
 
-*apām atiṣṭhad dharuṇahvaraṃ tamo 'ntar vṛtrasya jaṭhareṣu parvataḥ |*
-*abhīm indro nadyo vavriṇā hitā viśvā anuṣṭhāḥ pravaṇeṣu jighnate || 10 ||*
+*apā́m atiṣṭhad dharúṇahvaraṃ támo 'ntar vṛtrásya jaṭháreṣu párvataḥ |*
+*abhī́m indro nadyò vavríṇā hitā́ víśvā anuṣṭhā́ḥ pravaṇéṣu jighnate || 10 ||*
 
 **Pada-pāṭha** *(p. 334)*
 
@@ -6203,14 +6203,14 @@
 - **atiṣṭhat**: *ṣṭhā gatinivṛttau*, *bhvādi*; *laṅ* third singular *tip*; *itaś ca* drops the *i* [of *tip*]; *pāghrādhmāsthāmnādāṇdṛśyartisartiśadasadām…* (Pā. 7-3-78) gives *tiṣṭha*; *aṭ* as the *laṅ* augment: *atiṣṭhat*; *tiṅ atiṅaḥ*, *nighāta*.
 - **vavriṇā**: *vṛñ varaṇe*; *ādṛgamahanajanaḥ kikinau liṭ ca* (Pā. 3-2-171) gives *ki*, with *liḍvad bhāva*, so reduplication; *urat*; *halādiḥ śeṣaḥ*; before *ki*, *yaṇ*; *vavri*, a stem in *i*; end-acute by the initial acute of the suffix; instrumental singular.
 - **hitāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; before *kta*, *dadhāter hiḥ* (Pā. 7-4-42) gives *hi*; end-acute by the suffix; nominative plural.
-- **anuṣṭhāḥ**: the prefix *anu* as *upapada*, *ātaś copasarge* (Pā. 3-3-106 [as read]) gives *ka* after *sthā*; *ātolopa iṭi ca* drops the *ā* before *ka*; *upasargāt sunoti…* gives *ṣatva*; by *ṣṭutva* the *th* becomes *ṭh*: *anuṣṭha*; end-acute by the suffix.
+- **anuṣṭhāḥ**: the prefix *anu* as *upapada*, *ātaś copasarge* (Pā. sū. 3-3-106) gives *ka* after *sthā*; *ātolopa iṭi ca* drops the *ā* before *ka*; *upasargāt sunoti…* (Pā. sū. 8-3-65) gives *ṣatva*; by *ṣṭutva* the *th* becomes *ṭh*: *anuṣṭha*; end-acute by the suffix.
 - **jighnate**: *han hiṃsāgatyoḥ*, taken here in the sense of going; *vyatyayo bahulam* gives the *ātmanepada* ending; since *adādi*, *śap* would drop (*luk*), but *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* gives reduplication; *abhyāsāc ca* gives *gh* by *kutva*; *artipiparty…*; the *hanteḥ* is *ñit*… so *ṭita ātmanepadānām ṭer e* gives *e*; *jighnate*; *tiṅ atiṅaḥ*, *nighāta*. **|| 10 ||**
 
 ---
 
 ---
 
-**Rik 54.10, grammar (end)** *(p. 337 head, PDF 353)*: for *jighnate*, the *hanteḥ* here gives *ātmanepada* by *vyatyaya*; *aprkta* *te* is *ṅit* by *sārvadhātukam apit*, so *te* takes *ṅit*-ness; hence *gamahanajana…* (Pā. 6-4-98) drops the penultimate *a*; the *h* of the root turns to *gh* by *hohanter ñṇnaneṣu* [as printed, "*hohaṃte*", Pā. 7-3-54 as read, [?]]; alternatively by *abhyāsāc ca* (Pā. 7-3-55) *gh* comes from *kutva*; the *i* that *artipiparty…* [and] *bahulaṃ chandasi* (Pā. 7-4-78) prescribe, comes to the reduplicative here: *jighnate*; since it follows an *atiṅ*, *nighāta*. **|| 10 ||**
+**Rik 54.10, grammar (end)** *(p. 337 head, PDF 353)*: for *jighnate*, the *hanteḥ* here gives *ātmanepada* by *vyatyaya*; *aprkta* *te* is *ṅit* by *sārvadhātukam apit*, so *te* takes *ṅit*-ness; hence *gamahanajana…* (Pā. 6-4-98) drops the penultimate *a*; the *h* of the root turns to *gh* by *hohanter ñṇnaneṣu* [as printed, "*hohaṃte*"; no number printed]; alternatively by *abhyāsāc ca* (no number printed) *gh* comes from *kutva*; the *i* that *artipiparty…* [and] *bahulaṃ chandasi* (Pā. 7-4-78) prescribe, comes to the reduplicative here: *jighnate*; since it follows an *atiṅ*, *nighāta*. **|| 10 ||**
 
 ---
 
