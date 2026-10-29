@@ -6715,13 +6715,13 @@
 
 ### Rik 55.8 (pp. 368–371, PDF 384–387)
 
-**Saṃhitā-pāṭha** *(p. 368)*
+**Saṃhitā-pāṭha** *(p. 368; accents as printed; the svarita over* nvi *of* tanvi *follows an anudātta: an independent svarita, grave in the IAST)*
 
-> **अप्रक्षितं वसु बिभर्षि हस्तयोरषाळ्हं सहस्तन्वि श्रुतो दधे ।**
-> **आवृतासोऽवतासो न कर्तृभिस्तनूषु ते क्रतव इन्द्र भूरयः ॥ ८ ॥**
+> **अप्र॑क्षितं॒ वसु॑ बिभर्षि॒ हस्त॑यो॒रषा॑ळ्हं॒ सह॑स्त॒न्वि॑ श्रु॒तो द॑धे ।**
+> **आवृ॑तासोऽव॒तासो॒ न क॒र्तृभि॑स्त॒नूषु॑ ते॒ क्रत॑व इन्द्र॒ भूर॑यः ॥ ८ ॥**
 
-*aprakṣitaṃ vasu bibharṣi hastayor aṣāḷhaṃ sahas tanvi śruto dadhe |*
-*āvṛtāso 'vatāso na kartṛbhis tanūṣu te kratava indra bhūrayaḥ || 8 ||*
+*áprakṣitaṃ vásu bibharṣi hástayor áṣāḷhaṃ sáhas tanvì śrutó dadhe |*
+*ā́vṛtāso 'vatā́so ná kartṛ́bhis tanū́ṣu te krátava indra bhū́rayaḥ || 8 ||*
 
 **Pada-pāṭha** *(p. 368)*
 
@@ -6752,14 +6752,14 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 369–370**
 - **aprakṣitam** — "*Prakṛṣṭaṃ kṣitaṃ yasya tat prakṣitaṃ na prakṣitam aprakṣitam*: wealth that has not suffered any decay — a firm treasure."
 - **tanvi** — "'In the body': the word *tanū* is used in the Veda here and there in the form *tan*."
-- **aṣāḷham** — "Unconquered by enemies. It is an epithet of *jalaśabda* [*sahas*, as the print has it, [?]]."
+- **aṣāḷham** — "Unconquered by enemies. It is an epithet of the word *jala* (as printed: *jalaśabdakke viśeṣaṇavāgide*)."
 - **kartṛbhiḥ** — "By deeds of valour such as the slaying of Vṛtra and other Rākṣasas; by prowess."
-- **avatāso na** — "*Avata* means a well (Ni. 3-… as read [?]); in the Nirukta fourteen words beginning with *avata* are read as names of a well. As people build a wall around a well to draw water, all deeds become strong by resorting to you — so Indra is praised."
+- **avatāso na** — "*Avata* means a well (Niru. 3-19); in the Nirukta fourteen words beginning with *avata* are read as names of a well. As people build a wall around a well to draw water, all deeds become strong by resorting to you — so Indra is praised."
 
 **Vyākaraṇa-prakriyā** *(pp. 370–371 — grammar pages, noted briefly)*
 - **aprakṣitam**: *kṣi kṣaye*; *kta* in the sense of the action, *niṣṭhāyām aṇyadarthe* (Pā. 6-4-60): prohibition of lengthening before *niṣṭhā*… since the sense is the action (*bhāva*), the lengthening that would follow *niṣṭhā* does not come; and *śriyo dīrghāt* (Pā. 8-2-46) does not give *natva* to the *t*; "*prakṛṣṭaṃ kṣitaṃ yasya tat prakṣitam, na prakṣitam aprakṣitam*"; *tatpuruṣe tulyārtha…* gives the accent of the first member, the particle.
 - **bibharṣi**: *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *juhotyādi*, *laṭ* second singular *sip*; *juhotyādibhyaḥ śluḥ*; *ślau*: reduplication; *jaśtva*; *bhṛñām it* (Pā. 7-4-76): *i* for the reduplicative; *sip* is cause of *guṇa*; *ṣatva* of *s* after *r*; *nighāta*.
-- **aṣāḷham**: *saha abhibhave*; *niṣṭhā* *kta*; *triṣahalubha…* (Pā. 7-2-48): *iṭ* is optional after these roots, so *yasya vibhāṣā* (Pā. 7-2-15) forbids *iṭ* for *kta*; *sah* + *ta*: *ṣatva* at the beginning; *hodhaḥ*: *ḍha* for *h*; *jhaṣas tathor dho 'dhaḥ*: *dh* for *t*; *ṣṭunā ṣṭuḥ*: *ḍh*; *ḍhe ḍhalopaḥ*: the earlier *ḍh* drops; *saha* with *saheḥ sāḍhaḥ*, *sahivahor odavarṇasya* (Pā. 6-3-112): *o* for the *a* — but the Vedic *sāḍhyai sāḍhā sāḍheti nigame* (Pā. 6-3-113) gives *ā* instead; since *sāḍhā* in that sūtra is given as a *tṛc*-ending the Kannada says it is only illustrative: the form occurs in other contexts also.
+- **aṣāḷham**: *saha abhibhave*; *niṣṭhā* *kta*; *triṣahalubha…* (Pā. 7-2-48): *iṭ* is optional after these roots, so *yasya vibhāṣā* (Pā. 7-2-15) forbids *iṭ* for *kta*; *sah* + *ta*: *ṣatva* at the beginning; *hodhaḥ*: *ḍha* for *h*; *jhaṣas tathor dho 'dhaḥ*: *dh* for *t*; *ṣṭunā ṣṭuḥ*: *ḍh*; *ḍhe ḍhalopaḥ*: the earlier *ḍh* drops; *saha* with *saheḥ sāḍhaḥ*, *sahivahor odavarṇasya* (no number printed): *o* for the *a* — but the Vedic *sāḍhyai sāḍhā sāḍheti nigame* (Pā. 6-3-113) gives *ā* instead; since *sāḍhā* in that sūtra is given as a *tṛc*-ending the Kannada says it is only illustrative: the form occurs in other contexts also.
 - **tanvi**: *tanu*; the locative *ṅi* → *i*; *āc ca ghoḥ* (Pā. 7-3-119): *ṅi* becomes *au* after *ghi*-stems, but *jasādiṣu chandasi vāvacanam* makes it optional, so here it does not come; *yaṇ*; *udāttasvaritayor yaṇaḥ svaritaḥ*: *svarita* on the ending; and *udāttayaṇo hal pūrvāt* would give the ending an acute (because a *hal* precedes the *yaṇ*), but in the Veda it does not.
 - **dadhe**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Vedic *liṭ*, reduplication; *ātolopa iṭi ca*: loss of *ā*; *nighāta*. **|| 8 ||**
 
