@@ -8561,13 +8561,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 60.4 (pp. 472–475, PDF 488–491)
 
-**Saṃhitā-pāṭha** *(p. 472)*
+**Saṃhitā-pāṭha** *(p. 472; accents as printed. No anudātta is printed under* va *of* vareṇyo *nor any mark over* pa *of* rayipatī*; the svarita over* re *is printed [accent ?]. The print has no avagraha in* pāvako vasur*: earlier "पावकोऽवसुर्" corrected)*
 
-> **उशिक्पावकोऽवसुर्मानुषेषु वरेण्यो होताधायि विक्षु ।**
-> **दमूना गृहपतिर्दम आँ अग्निर्भुवद्रयिपती रयीणाम् ॥ ४ ॥**
+> **उ॒शिक्पा॑व॒को वसु॒र्मानु॑षेषु॒ वरे॑ण्यो॒ होता॑धायि वि॒क्षु ।**
+> **दमू॑ना गृहप॑ति॒र्दम॒ आँ अ॒ग्निर्भु॑वद्र॒यिपती रयी॒णाम् ॥ ४ ॥**
 
-*(the print's Saṃhitā: "उशिक्पावको वसुर्मानुषेषु वरेण्यो होताधायि विक्षु । दमूना गृहपतिर्दम आ अग्निर्भुवद्रयिपती रयीणाम्")* — *uśik pāvako vasur mānuṣeṣu vareṇyo hotādhāyi vikṣu |*
-*damūnā gṛhapatir dama ā agnir bhuvad rayipatī rayīṇām || 4 ||*
+*uśík pāvakó vásur mā́nuṣeṣu vareṇyo hótādhāyi vikṣú |*
+*dámūnā gṛhápatir dáma ā́m̐ agnír bhuvad rayípatī rayīṇā́m || 4 ||*
 
 **Pada-pāṭha** *(p. 472)*
 
@@ -8583,7 +8583,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *uśik kāmayamānaḥ pāvakaḥ śodhako vasur nivāsayitā vareṇyo varaṇaśīlaḥ evaṃbhūto hotāgnir vikṣu yajñagṛhaṃ praviṣṭeṣu mānuṣeṣu yajamāneṣv adhāyi | sthāpyate | sa cāgnir damūnā rakṣasāṃ damanakareṇa manasā yukto gṛhapatir gṛhāṇāṃ pālayitā ca san dame yajñagṛhe rayipatir dhanādhipatir ā bhuvat | ā samantād bhavati | na kevalam ekasya rayer api tu sarveṣām ity āha rayīṇām iti | yadvā | rayīṇāṃ madhye utkṛṣṭaṃ yad dhanaṃ tasya patir ity arthaḥ ||*
 
-*(The tail, p. 472 foot: on *uśik* (*vaś kāntau*, *kvip*…), *damūnāḥ* (*dama upaśame*, *ūnasi*, Uṇ. 4-… as read [?]; Yāska: "*damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt*", Ni. 4-4 [?]), *gṛhapatiḥ*, *dame*, *bhuvat* (*leṭ*, *aṭ*), *rayipatiḥ* — characterized.)*
+*(The tail, p. 472 foot: on *uśik* (*vaś kāntau*, *kvip*…), *damūnāḥ* (*dama upaśame*, *ūnasi*, Uṇ. 4-234; Yāska: "*damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt*", Ni. 4-4), *gṛhapatiḥ*, *dame*, *bhuvat* (*leṭ*, *aṭ*), *rayipatiḥ* — characterized.)*
 
 **Translation of the bhāṣya:** "*Uśik*, desiring; *pāvakaḥ*, purifier; *vasuḥ*, the giver of dwelling; *vareṇyaḥ*, the choice: such Agni, the hotṛ, *adhāyi*, is established *vikṣu mānuṣeṣu*, among the people, the sacrificers who have entered the sacrificial house. May that Agni, *damūnāḥ*, with a mind that tames the Rākṣasas, *gṛhapatiḥ*, protector of homes, in the *dame*, sacrificial house, be *rayipatiḥ*, lord of wealth, completely (*ā bhuvat*) — not of one wealth only but *rayīṇām*, of all kinds; or: lord of the best wealth among the wealths."
 
@@ -8593,9 +8593,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **English Translation (the source's own, p. 473)** — "Agni, the desirable, the purifying, the giver of dwellings, the excellent, the invoker (of the gods) has been placed (upon the altar) among men; may he be determined upon subduing (our foes) the protector of our dwellings, and the lord of treasures in the sacrificial chamber."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 473** — **uśik**: "*kāmayamānaḥ*: one who specially wishes [for the oblation]." **damūnāḥ**: "from the root *dama upaśame*: *damayati rākṣasādikam iti damūnāḥ*, one with a mind that destroys Rākṣasas; or, by the Nirukta (Ni. 4-4 [?]): *damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt* — it is explained also as 'one whose mind is on the house' (*dama* is a name of house)." **rayipatiḥ rayīṇām**: "*rayīṇāṃ madhye utkṛṣṭaṃ yad dhanaṃ tasya patiḥ*: here *rayi* means wealth; he is not lord of wealth alone: that he has mastery over all kinds of lordship in the world is shown by the derivation as above." **ā bhuvat**: "*āsamantāt bhavati*: may he be wholly capable."
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 473** — **uśik**: "*kāmayamānaḥ*: one who specially wishes [for the oblation]." **damūnāḥ**: "from the root *dama upaśame*: *damayati rākṣasādikam iti damūnāḥ*, one with a mind that destroys Rākṣasas; or, by the Nirukta (Niru. 4-4): *damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt* — it is explained also as 'one whose mind is on the house' (*dama* is a name of house)." **rayipatiḥ rayīṇām**: "*rayīṇāṃ madhye utkṛṣṭaṃ yad dhanaṃ tasya patiḥ*: here *rayi* means wealth; he is not lord of wealth alone: that he has mastery over all kinds of lordship in the world is shown by the derivation as above." **ā bhuvat**: "*āsamantāt bhavati*: may he be wholly capable."
 
-**Vyākaraṇa-prakriyā** *(pp. 474– — noted briefly)* — **uśik**: *vaś kāntau*; *kvip*; *grahijyā…*: *saṃprasāraṇa*; *kvip* gives the loss of the suffix; *cutva*, *kutva*. **damūnāḥ**: *dama upaśame*; *dameḥ ūnasiḥ*…(Uṇ. 4-… as read [?]): *ūnasi*; *nit*: initial-acute? — the print gives "*asun*"-type end-acute; I read it as *ñnityādir nityam*, [?]. **bhuvat**: *bhū sattāyām*; *leṭ*; *leṭo 'ṭāṭau*: *aṭ*; *itaś ca lopaḥ parasmaipadeṣu*; *bhūsuvos tiṅi*: no *guṇa*; *uvaṅ*. **rayipatiḥ**: *parādiś chandasi bahulam*: initial-acute of the last member. **rayīṇām**: *nāmanyatarasyām*: acute on *nām*. *(The remaining grammar on this Rik is on p. 474 (PDF 490) and is noted with Rik 5's text below.)*
+**Vyākaraṇa-prakriyā** *(pp. 474– — noted briefly)* — **uśik**: *vaś kāntau*; *kvip*; *grahijyā…*: *saṃprasāraṇa*; *kvip* gives the loss of the suffix; *cutva*, *kutva*. **damūnāḥ**: *dama upaśame*; *dameḥ ūnasiḥ*…(Uṇ., see the grammar on p. 474): *ūnasi*; *nit*: initial-acute? — the print gives "*asun*"-type end-acute; I read it as *ñnityādir nityam*, [?]. **bhuvat**: *bhū sattāyām*; *leṭ*; *leṭo 'ṭāṭau*: *aṭ*; *itaś ca lopaḥ parasmaipadeṣu*; *bhūsuvos tiṅi*: no *guṇa*; *uvaṅ*. **rayipatiḥ**: *parādiś chandasi bahulam*: initial-acute of the last member. **rayīṇām**: *nāmanyatarasyām*: acute on *nām*. *(The remaining grammar on this Rik is on p. 474 (PDF 490) and is noted with Rik 5's text below.)*
 
 ---
 
@@ -8603,7 +8603,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 60.4, grammar (end) *(p. 474, PDF 490 — Vyākaraṇa-prakriyā, noted briefly)*
 
-*Grammar page, noted briefly.* **adhāyi**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ* (*dhā*); Vedic *luṅ* in the passive sense, *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* replaces *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read [?]): augment *yuk*; *ciṇo luk*: loss of what follows *ciṇ*; the augment *aṭ* on the base; the accent is *nighāta* because the word follows a non-verb (*atiṅanta*). **vikṣu**: *viś*, locative plural; *sāvekācas tṛtīyādiḥ*: acute on the ending. **damūnāḥ**: *dama upaśame*; *dameḥ ūnasiḥ* (Uṇ. 4-[?]): suffix *ūnasi*, giving *damūnas*. The print cites Yāska (Ni. 4-4 [?]) as in the Special Topics: "*damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt*" — "one who becomes calm, whose mind is on giving, or whose mind is restrained; or *dama* is a name for 'house', so 'whose mind is on it'." **dama ā agniḥ**: *ā ṅo 'nunāsikaś chandasi* (Pā. 6-1-126 as read [?]): the *ā* is nasalized and keeps its own form (*prakṛtibhāva*). **bhuvat**: *bhū sattāyām*; *leṭ*, *tip*; *itaś ca lopaḥ parasmaipadeṣu*: loss of *i*; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: loss of *śap*; *tiṅanta nighāta*. **rayipatiḥ**: genitive *tatpuruṣa*; *parādiś chandasi bahulam* (Pā. 6-2-[?]): initial-acute on the last member. **rayīṇām**: genitive plural; *hrasvanadyāpo nuṭ*: *nuṭ*; *nāmi*: lengthening; *nāmanyatarasyām* (Pā. 6-1-[?]): acute on *nām*.
+*Grammar page, noted briefly.* **adhāyi**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ* (*dhā*); Vedic *luṅ* in the passive sense, *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* replaces *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33): augment *yuk*; *ciṇo luk*: loss of what follows *ciṇ*; the augment *aṭ* on the base; the accent is *nighāta* because the word follows a non-verb (*atiṅanta*). **vikṣu**: *viś*, locative plural; *sāvekācas tṛtīyādiḥ*: acute on the ending. **damūnāḥ**: *dama upaśame*; *dameḥ ūnasiḥ* (Uṇ. 4-[?]: the digits here look like 4-674 [?]; the tail on p. 472 prints 4-234): suffix *ūnasi*, giving *damūnas*. The print cites Yāska (Niru. 4-4) as in the Special Topics: "*damūnā damanā vā dānamanā vā dāntamanā vāpi vā dama iti gṛhanāma tanmanāḥ syāt*" — "one who becomes calm, whose mind is on giving, or whose mind is restrained; or *dama* is a name for 'house', so 'whose mind is on it'." **dama ā agniḥ**: *ā ṅo 'nunāsikaś chandasi* (Pā. 6-1-126): the *ā* is nasalized and keeps its own form (*prakṛtibhāva*). **bhuvat**: *bhū sattāyām*; *leṭ*, *tip*; *itaś ca lopaḥ parasmaipadeṣu*: loss of *i*; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: loss of *śap*; *tiṅanta nighāta*. **rayipatiḥ**: genitive *tatpuruṣa*; *parādiś chandasi bahulam* (Pā. 6-2-199): initial-acute on the last member. **rayīṇām**: genitive plural; *hrasvanadyāpo nuṭ*: *nuṭ*; *nāmi*: lengthening; *nāmanyatarasyām* (Pā. 6-1-177 [?]): acute on *nām*.
 
 ### Rik 60.5 (pp. 474–478, PDF 490–494; the last Rik)
 
