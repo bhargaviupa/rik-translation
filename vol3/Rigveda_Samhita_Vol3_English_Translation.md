@@ -9815,10 +9815,12 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **॥ Saṃhitāpāṭhaḥ ॥**
 
-> यत्र नार्यपच्यवमुपच्यवं च शिक्षते ।
-> उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥ ३ ॥
+> यत्र॒ नार्य॑प॒च्यव॑मुप॒च्यवं॑ च॒ शिक्षते ।
+> उ॒लूख॑लसुताना॒मवेद्वि॑न्द्र जल्गुलः ॥ ३ ॥ [accent ?]
 
-*yatra nāry apacyavam upacyavaṃ ca śikṣate | ulūkhalasutānām aved v indra jalgulaḥ || 3 ||*
+*yátra nā́ry apacyávam upacyávaṃ ca śíkṣate | ulū́khalasutānām ávéd vindra jalgulaḥ || 3 ||*
+
+*(Saṃhitā accents as printed (w3); [accent ?]: in line 1 the stroke stands between ना and र्य (read as over र्य); line 2 printed as in Ṛk 1 (stroke over द्वि); Pada unaccented.)*
 
 **॥ Padapāṭhaḥ ॥**
 
@@ -9832,7 +9834,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 *yatra yasmin karmaṇi nārī patny apacyavaṃ śālāyā nirgamanam upacyavaṃ ca śālāprāptiṃ ca śikṣate abhyāsaṃ karoti | anyat pūrvavat || apacyavam | cyuṅ gatau | ūdor ab ity ap | guṇāvādeśau | thāthādinā | pā. 6-2-144 | uttarapadāntodāttatvam | evam upacyavam | śikṣate | śikṣa vidyopādāne | ādupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | nipātair yad yadihanteti nighātapratiṣedhaḥ ||*
 
-**Translation:** "In the rite in which (*yatra*) the *nārī* — the [sacrificer's] wife — practises (*śikṣate*) the *apacyavam* — going out of the hall — and the *upacyavam* — coming back into the hall; the rest as before. *Apacyavam*: *cyuṅ gatau*; *ap* [by the sūtra beginning *ūdor ap*]; guṇa and *av*; by the *thāthādi* rule (P. 6-2-144) the end-acute of the second member. So also *upacyavam*. *Śikṣate*: *śikṣa vidyopādāne*; the root accent. The verb is not lowered since it follows *yatra*." *(Grammar pages 420–421, noted briefly: the words treated are* apacyavam *[*cyuṅ gatau*, *bhvādi*, with *apa* + *ap* by P. 3-3-57 *ūdor ap*; guṇa → *cyav*; the end-acute of the *kṛdanta* second member by P. 6-2-144 *thāthaghañktājabitrakāṇām*],* upacyavam *[as above, with the preposition *upa*] and* śikṣate *[*śikṣa vidyopādāne*, *bhvādi*; *laṭ* 3rd singular *ta* → *te* by P. 3-4-79; *śap* anudātta; the lowering of the verb is prevented by *yatra*, P. 8-1-30]; numerals as read, pointers only.)*
+**Translation:** "In the rite in which (*yatra*) the *nārī* — the [sacrificer's] wife — practises (*śikṣate*) the *apacyavam* — going out of the hall — and the *upacyavam* — coming back into the hall; the rest as before. *Apacyavam*: *cyuṅ gatau*; *ap* [by the sūtra beginning *ūdor ap*]; guṇa and *av*; by the *thāthādi* rule (P. 6-2-144) the end-acute of the second member. So also *upacyavam*. *Śikṣate*: *śikṣa vidyopādāne*; the root accent. The verb is not lowered since it follows *yatra*." *(Grammar pages 420–421, noted briefly: the words treated are* apacyavam *[*cyuṅ gatau*, *bhvādi*, with *apa* + *ap* by P. 3-3-57 *ūdor ap*; guṇa → *cyav*; the end-acute of the *kṛdanta* second member by P. 6-2-144 *thāthaghañktājabitrakāṇām*],* upacyavam *[as above, with the preposition *upa*] and* śikṣate *[*śikṣa vidyopādāne*, *bhvādi*; *laṭ* 3rd singular; *śap* anudātta as *pit*; after an *ād-upadeśa* root the *lasārvadhātuka* ending is anudātta by P. 6-1-186 *tāsyanudāttet…*, so the root accent remains; the lowering of the verb is prevented by *yatra*, P. 8-1-30]; numerals as printed.)*
 
 **॥ Prati-padārthaḥ ॥** *(p. 419)* **इन्द्र (indra)** — O Indra | **यत्र (yatra)** — in which rite | **नारी (nārī)** — the wife [of the sacrificer] | **अपच्यवम् (apacyavam)** — going out of the sacrificial hall | **उपच्यवं च (upacyavaṃ ca)** — and coming into the hall | **शिक्षते (śikṣate)** — practises | **उलूखलसुतानाम् (ulūkhalasutānām)** — of the soma pressed in the mortar | **अवेत् उ (aved u)** — know [it to be yours] | **जल्गुलः (jalgulaḥ)** — partake.
 
