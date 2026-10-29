@@ -12254,8 +12254,17 @@ That is: in olden times the gods themselves used to come, take the oblations off
 
 ### Pages 574–579 — Sūkta 31, Rik 15 *(begun; see the next batch)*
 
-**Saṃhitā-pāṭha** *(accent-marks printed; not reproduced)*: त्वमग्ने प्रयतदक्षिणं नरं वर्मेव स्यूतं परि पासि विश्वतः । स्वादुक्षद्मा यो वसतौ स्योनकृज्जीवयाजं यजते सोपमा दिवः ॥ १५ ॥
-*tvam agne prayatadakṣiṇaṃ naraṃ varmeva syūtaṃ pari pāsi viśvataḥ | svādukṣadmā yo vasatau syonakṛj jīvayājaṃ yajate sopamā divaḥ || 15 ||*
+**Saṃhitā-pāṭha** *(p. 574)*
+
+*(Line 1 flagged [accent ?]: the bar under* स्यू *lies beside the* ya*-subscript; the bar under* णं *of* प्रयतदक्षिणं *is counted.)*
+
+> त्वम॑ग्ने प्रय॑तदक्षिणं॒ न॒रं वर्मे॑व स्यू॒तं परि॑ पासि वि॒श्वतः॑ । [accent ?]
+> स्वा॒दु॒क्ष॒द्मा यो व॑स॒तौ स्यो॑न॒कृज्जी॑वया॒जं यज॑ते॒ सोप॒मा दि॒वः ॥ १५ ॥
+
+> *tvám agne práyatadakṣiṇaṃ naráṃ vármeva syūtáṃ pári pāsi viśvátaḥ |* [accent ?]
+> *svādukṣadmā́ yó vasatáu syonakṛ́j jīvayājáṃ yájate sópamā́ diváḥ || 15 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha:** त्वम् । अग्ने । प्रयतऽदक्षिणम् । नरम् । वर्मऽइव । स्यूतम् । परि । पासि । विश्वतः । स्वादुऽक्षद्मा । यः । वसतौ । स्योनऽकृत् । जीवऽयाजम् । यजते । सः । उपऽमा । दिवः ॥ १५ ॥
 *tvam | agne | prayata-dakṣiṇam | naram | varma-iva | syūtam | pari | pāsi | viśvataḥ | svādu-kṣadmā | yaḥ | vasatau | syona-kṛt | jīva-yājam | yajate | saḥ | upa-mā | divaḥ || 15 ||*
@@ -12266,11 +12275,11 @@ That is: in olden times the gods themselves used to come, take the oblations off
 
 ### Pages 575–578 — Sūkta 31, Rik 15 — continued *(the Saṃhitā and Pada are given at the end of the previous batch)*
 
-**Sāyaṇa-bhāṣya** *(p. 575)* *(compressed; doubtful words marked [?])*: हे अग्ने त्वं प्रयतदक्षिणं येन यजमानेन ऋत्विग्भ्यो दक्षिणा दत्ता तादृशं नरं पुरुषं यजमानं विश्वतः सर्वतः परि पासि । सम्यक् पालयसि । तत्र दृष्टान्तः । स्यूतं निश्छिद्रत्वेन सूचीभिः सम्यङ् निष्पादितं वर्मेव । यथा कवचं युद्धे पालयति तद्वत् ॥ स्वादुक्षद्मा स्वादन्नो वसतौ निवासभूते स्वगृहे स्योनकृत् अतिथीनां सुखकारी यो यजमानो जीवयाजं जीवयजनसहितं यज्ञं यद्वा जीवनिष्पाद्यं यजते । अनुतिष्ठति स यजमानो दिवः स्वर्गस्योपमा दृष्टान्तो भवति । यथा स्वर्गोऽनुष्ठातॄन्सुखयति तथा त्वमप्यनुष्ठातृनित्याद्यर्थः [?] ॥ स्यूतम् । षिवु तन्तुसंताने । … वर्मेव … ॥ १५ ॥ *(the grammatical tail — on* syūtam, pāsi, svādukṣadmā, jīvayājam, sopamā, divaḥ *— is compressed; characterised below)*
-*he agne tvaṃ prayatadakṣiṇaṃ yena yajamānena ṛtvigbhyo dakṣiṇā dattā tādṛśaṃ naraṃ puruṣaṃ yajamānaṃ viśvataḥ sarvataḥ pari pāsi | samyak pālayasi | tatra dṛṣṭāntaḥ | syūtaṃ nischidratvena sūcībhiḥ samyaṅ niṣpāditaṃ varmeva | yathā kavacaṃ yuddhe pālayati tadvat || svādukṣadmā svādanno vasatau nivāsabhūte svagṛhe syonakṛt atithīnāṃ sukhakārī yo yajamāno jīvayājaṃ jīvayajanasahitaṃ yajñaṃ yadvā jīvaniṣpādyaṃ yajate | anutiṣṭhati sa yajamāno divaḥ svargasyopamā dṛṣṭānto bhavati | yathā svargo 'nuṣṭhātṝn sukhayati tathā tvam apy anuṣṭhātṝn ity ādy arthaḥ [?] || syūtam | ṣivu tantusaṃtāne | …*
-"O Agni! You protect on every side the man — the sacrificer — who has given sacrificial fees [*dakṣiṇā*] to the priests (*prayatadakṣiṇam*) — as [you protect] armour well sewn [*syūtam*] with needles, without a hole: as armour protects in battle, so. The sacrificer who, having sweet food (*svādukṣadmā*) in his dwelling (*vasatau*) and making guests comfortable (*syonakṛt*), performs the *jīvayāja* — a sacrifice with a living [animal], or one to be performed with living [offerings] — he becomes the likeness of heaven (*divaḥ upamā*): as heaven gives comfort to those who perform [the rites], so [you also]."
+**Sāyaṇa-bhāṣya** *(p. 575; transcribed in full from the print; ॥ ३४ ॥ closes Varga 34)*: हे अग्ने त्वं प्रयतदक्षिणं येन यजमानेन ऋत्विग्भ्यो दक्षिणा दत्ता तादृशं नरं पुरुषं यजमानं विश्वतः सर्वतः परि पासि । सम्यक् पालयसि । तत्र दृष्टान्तः । स्यूतं निश्छिद्रत्वेन सूचीभिः सम्यक् निष्पादितं वर्मेव । यथा कवचं युद्धे पालयति तद्वत् । स्वादुक्षद्मा स्वाद्वन्नो वसतौ निवासभूते स्वगृहे स्योनकृत् अतिथीनां सुखकारी यो यजमानो जीवयाजं जीवयजनसहितं यज्ञं यद्वा जीवनिष्पाद्यं यजते अनुतिष्ठति स यजमानो दिवः स्वर्गस्योपमा दृष्टान्तो भवति । यथा स्वर्गोऽनुष्ठातॄन्सुखयति तथा त्वमप्यृत्विगादीनित्यर्थः ॥ स्यूतम् । षिवु तन्तुसंताने । निष्ठेति क्तः । यस्य विभाषेतीट्प्रतिषेधः । छ्वोः शूडनुनासिके च । पा. ६-४-१९ । इति वकारस्योडादेशः । स्वादून्क्षदतीति स्वादुक्षद्मा । क्षदतिरत्तिकर्मा । अन्येभ्योऽपि दृश्यन्त इति मनिन् । नित्त्वादाद्युदात्तत्वे कृदुत्तरपदप्रकृतिस्वरत्वम् । बहुव्रीहौ तु व्यत्ययेन । जीवयाजम् । जीवा ऋत्विज इज्यन्ते दक्षिणाभिः पूज्यन्तेऽत्रेत्यधिकरणे घञ् । कुत्वाभावश्छान्दसः । यद्वा । जीवैः पशुभिर्याजनं जीवयाजः । याजयतेर्घञ् । णेरनिटीति णिलोपस्याचः परस्मिन्निति स्थानिवद्भावाच्चजोः कु घिण्ण्यतोरिति कुत्वाभावः । थाथादिस्वरेणोत्तरपदान्तोदात्तत्वम् । सोपमा । सोऽचि लोपे चेत्पादपूरणमिति संहितायां सोर्लोपः । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वम् ॥ ३४ ॥
+*he agne tvaṃ prayatadakṣiṇaṃ yena yajamānena ṛtvigbhyo dakṣiṇā dattā tādṛśaṃ naraṃ puruṣaṃ yajamānaṃ viśvataḥ sarvataḥ pari pāsi | samyak pālayasi | tatra dṛṣṭāntaḥ | syūtaṃ niśchidratvena sūcībhiḥ samyak niṣpāditaṃ varmeva | yathā kavacaṃ yuddhe pālayati tadvat | svādukṣadmā svādvanno vasatau nivāsabhūte svagṛhe syonakṛt atithīnāṃ sukhakārī yo yajamāno jīvayājaṃ jīvayajanasahitaṃ yajñaṃ yadvā jīvaniṣpādyaṃ yajate anutiṣṭhati sa yajamāno divaḥ svargasyopamā dṛṣṭānto bhavati | yathā svargo 'nuṣṭhātṝnsukhayati tathā tvamapyṛtvigādīnityarthaḥ ‖ syūtam | ṣivu tantusaṃtāne | niṣṭheti ktaḥ | yasya vibhāṣetīṭpratiṣedhaḥ | chvoḥ śūḍanunāsike ca | pā. 6-4-19 | iti vakārasyoḍādeśaḥ | svādūnkṣadatīti svādukṣadmā | kṣadatirattikarmā | anyebhyo 'pi dṛśyanta iti manin | nittvādādyudāttatve kṛduttarapadaprakṛtisvaratvam | bahuvrīhau tu vyatyayena | jīvayājam | jīvā ṛtvija ijyante dakṣiṇābhiḥ pūjyante 'tretyadhikaraṇe ghañ | kutvābhāvaśchāndasaḥ | yadvā | jīvaiḥ paśubhiryājanaṃ jīvayājaḥ | yājayaterghañ | ṇeraniṭīti ṇilopasyācaḥ parasminniti sthānivadbhāvāccajoḥ ku ghiṇṇyatoriti kutvābhāvaḥ | thāthādisvareṇottarapadāntodāttatvam | sopamā | so 'ci lope cetpādapūraṇamiti saṃhitāyāṃ sorlopaḥ | divaḥ | ūḍidamiti vibhakterudāttatvam ‖ 34 ‖*
+"O Agni! You protect on every side the man — the sacrificer — who has given sacrificial fees [*dakṣiṇā*] to the priests (*prayatadakṣiṇam*) — as [you protect] armour well sewn [*syūtam*] with needles, without a hole: as armour protects in battle, so. The sacrificer who, having sweet food (*svādukṣadmā*) in his dwelling (*vasatau*) and making guests comfortable (*syonakṛt*), performs the *jīvayāja* — a sacrifice with a living [animal], or one to be performed with living [offerings] — he becomes the likeness of heaven (*divaḥ upamā*): as heaven gives comfort to those who perform [the rites], so do you too [to] the priests and the others."
 
-*(Grammar pages 576–577, noted briefly:* syūtam *— *ṣivu tantusaṃtāne* ['to sew'], with *kta* in the sense of object by P. 3-2-102 *niṣṭhā*; *iṭ* barred by P. 7-2-15 *yasya vibhāṣā*; by P. 6-4-20 *chvoḥ śūḍ anunāsike ca* (च्छ्वोः शूडनुनासिके च) the *v* is replaced by *ūṭ* as the *kit* suffix follows; the *s* for *ṣ* (P. 6-1-64 *ṇo naḥ* / *dhātvādeḥ ṣaḥ saḥ*); *si* + *ūṭ* + *ta*: *yaṇ*: *syūta*; accusative;* pāsi *— *pā rakṣaṇe*, *adādi*, 2nd singular *laṭ*; lowered by P. 8-1-28;* svādukṣadmā *— *svādūn kṣadmāṇi* ('sweet foods'), from *kṣada bhakṣaṇe*; the affix *man* by P. 3-2-75 *anyebhyo 'pi dṛśyante*; *svādukṣadman*; by P. 6-3-? *sarvanāmasthāne cāsambuddhau* the penult lengthened in the nominative; *n* dropped by P. 8-2-7 *nalopaḥ prātipadikāntasya*; the first-member accent of the *kāraka* compound is the *kṛt*-final's by P. 6-2-139 *gatikārakopapadāt kṛt*; had a bahuvrīhi been intended, the second member's initial acute would be spoken of by the *vyatyaya* (P. 3-1-85);* jīvayājam *— *jīvāḥ ṛtvijaḥ ijyante dakṣiṇābhiḥ pūjyante atra* ('where living priests are honoured with fees'): *yaja*, *ghañ* in the sense of locus; *iṭ*-like *ita* [*ñit*]: *ata upadhāyāḥ* (P. 7-2-116) gives *vṛddhi*; *cajoḥ ku* (P. 7-3-52) *kutva* is set aside by *vyatyayo bahulam*: *jīvayāja*; or *jīvaiḥ paśubhiḥ yājanam jīvayājaḥ*: *yaja* + *ṇic*, then *ghañ*, *ṇer aniṭi* P. 6-4-51 drops *ṇi*; by P. 1-1-57 *acaḥ parasmin pūrvavidhau* it counts as present, so no *kutva*; *ghañ* is *ñit*, so initial acute; by P. 6-2-? *thāthaghañktājabitrakāṇām* the second member's end-acute in the compound;* sopamā *— *saḥ upamā* (sandhi): by P. 6-1-134 *so 'ci lope cet pādapūraṇam* (सोऽचि लोपे चेत्पादपूरणम्) the *s* of *saḥ* before a vowel is dropped when it fills the pāda [here as read]; guṇa gives *sopamā*;* divaḥ *— the ending is acute by P. 6-1-171 *ūḍidam…* (ऊडिदम्पदाद्यप्पुम्रैद्युभ्यः). Numerals as read, [?].)*
+*(Grammar pages 576–577, noted briefly:* syūtam *— *ṣivu tantusaṃtāne*; *kta* in the sense of the object by *niṣṭhā* (Pā. sū. 3-2-102); *iṭ* barred by *yasya vibhāṣā* (Pā. sū. 7-2-15); *ūṭ* for the *v* by *chvoḥ śūḍ anunāsike ca* (च्छ्वोः शूडनुनासिके च); *s* for the root-initial *ṣ*; *si* + *ū* + *ta*: *yaṇ*: *syūta*;* pāsi *— *pā rakṣaṇe*, *adādi*, *laṭ* 2nd singular; the finite-verb lowering;* svādukṣadmā *— *svādūn kṣadati iti*; *kṣada bhakṣaṇe*; *manin* by *anyebhyo 'pi dṛśyante* (Pā. sū. 3-2-75): *svādukṣadman*; before *su*, the penult lengthened by *sarvanāmasthāne cāsambuddhau*; *su* dropped by *halṅyābbhyaḥ*; *n* dropped by *nalopaḥ…*: *svādukṣadmā*; *manin* being *nit*, *kṣadman* initial-acute by *ñnityādir nityam*; as a *kāraka*-first compound, the *kṛt*-final keeps its accent by *gatikārakopapadāt kṛt*; if taken as a bahuvrīhi, the second member's initial acute must be explained by *vyatyayo bahulam*;* jīvayājam *— *jīvāḥ ṛtvijaḥ ijyante dakṣiṇābhiḥ pūjyante atra*; *ghañ* in the sense of locus after *yaj*; being *ñit*, *vṛddhi* of the root's *a* by *ata upadhāyāḥ*; the *kutva* due by *cajoḥ ku ghiṇṇyatoḥ* does not come, by *vyatyayo bahulam*: *jīvayāja*; or *jīvaiḥ paśubhiḥ yājanam*: *ṇic* after *yaj*, then *ghañ*, *ṇi* dropped by *ṇer aniṭi*; since by *acaḥ parasmin pūrvavidhau* that loss is *sthānivat*, *cajoḥ ku ghiṇṇyatoḥ* does not apply to the *j*; as a *ghañ*-final, by *thāthaghañktāja-…* (Pā. sū. 6-2-114 [as printed; for 6-2-144]) the compound is end-acute in the second member;* sopamā *— *saḥ upamā*; as it fills out the pāda, *su* is dropped by *so 'ci lope cet pādapūraṇam* (Pā. sū. 6-1-134); after the loss, guṇa: *sopamā*;* divaḥ *— by *ūḍidampadādi-* (Pā. sū. 6-1-171) the case-ending is acute. Numerals as printed; grammar ends ॥ १५ ॥.)*
 
 **॥ Prati-padārthaḥ ॥** *(p. 575)* **अग्ने (agne)** — O Agni | **त्वम् (tvam)** — you | **प्रयतदक्षिणम् (prayatadakṣiṇam)** — [the one who gives to the priests] abundantly fees | **नरम् (naram)** — the sacrificer | **स्यूतम् (syūtam)** — [well-sewn] without a hole | **वर्मेव (varmeva)** — as armour (in battle) | **परि पासि (pari pāsi)** — you protect well | **स्वादुक्षद्मा (svādukṣadmā)** — [who has] sweet food | **वसतौ (vasatau)** — [in his] house | **स्योनकृत् (syonakṛt)** — [by the honour of guests] comforting | **यः (yaḥ)** — which sacrificer | **जीवयाजम् (jīvayājam)** — a living-sacrifice [or a sacrifice that is accomplished with living beings] | **यजते (yajate)** — offers | **सः (saḥ)** — that sacrificer | **दिवः (divaḥ)** — to heaven | **उपमा (upamā)** — becomes equal (that is, goes to heaven).
 
@@ -12280,10 +12289,19 @@ That is: in olden times the gods themselves used to come, take the oblations off
 
 > Agni, you protect the man who gives presents to the priest on every side like well-stiched [sic] armour ; the man who keeps good food in his dwellings and with them entertains his guest, and performs the animal sacrifice, approaches the heaven.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 576)* **प्रयतदक्षिणम् (prayatadakṣiṇam)** — one who has given fees (*dakṣiṇā*) to the priests who took part in the sacrifice.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 576)*
+
+*(The first item, printed without a headword, concerns the mantra* imām agne *(Ṛk 16 of this sūkta).)* If an *anāhitāgni* — one who has not set up the sacred fires and does not perform sacrifices — himself takes part in a sacrifice performed by another, that is, performs the duty of an *ṛtvij*, he must offer an oblation in the fire with the Ṛk beginning *imām agne*: this is stated in the Āśvalāyana Gṛhya-sūtra, in the section *ṛtvijo vṛṇīta*, in the sūtra (Āś. Gṛ. 1-23-23):
+
+> एवमनाहिताग्निर्गृह्य इमामग्ने शरणिं मीमृषो नः ।
+> *evam anāhitāgnir gṛhya imām agne śaraṇiṃ mīmṛṣo naḥ |*
+
+"So the *anāhitāgni*, [in] the domestic [fire], [with] *imām agne śaraṇiṃ mīmṛṣo naḥ* ('Agni, forgive this fault of ours')." *(Mine, tentative.)*
+
+**प्रयतदक्षिणम् (prayatadakṣiṇam)** — one who has given fees (*dakṣiṇā*) to the priests who took part in the sacrifice.
 **वर्मेव स्यूतम् (varmeva syūtam)** — as well-woven armour protects the body in battle; as when [one] is fighting in armour the enemy's arrows do not reach the body: so Agni protects the sacrificer's body like armour.
-**स्वादुक्षद्मा (svādukṣadmā)** — *svādu* means sweet, delicious; *kṣadma* means food (Nirukta 2-?? [?]): sweet food, or provisions.
-**स्योनकृत् (syonakṛt)** — *syona* means comfort (Nirukta 3-?? [?]): one who brings about comfort.
+**स्वादुक्षद्मा (svādukṣadmā)** — *svādu* means sweet, delicious; *kṣadma* means food (Ni. 3-9): sweet food, or provisions.
+**स्योनकृत् (syonakṛt)** — *syona* means comfort (Ni. 3-13): one who brings about comfort.
 **जीवयाजम् (jīvayājam)** — *jīvayajanasahitaṃ yajñam*: a sacrifice in which living creatures are offered: that is, a sacrifice in which animals are bound at the stake, offered to the gods, and an oblation made; hence the sense 'animal sacrifice'.
 
 ---
@@ -12971,22 +12989,6 @@ On the basis of such passages one may say that this matter was widely told in th
 ---
 
 **Volume 3 ends here: Sūktas 20–32 are complete (Mandala 1, First Aṣṭaka, Second Adhyāya).**
-
----
-
-## Restored note — Sūkta 31, the *anāhitāgni* passage (printed p. 576, PDF 591)
-
-*This passage was omitted from the Sūkta 31 entry above (I had judged it to belong to Rik 16). On p. 576 it is printed as the **first item of the Viśeṣa-viṣayagaḷu (Special Topics)** that follow the English Translation of Rik 15; it comments on the Rik 16 mantra *imām agne*, which is why it looks misplaced. It is restored here as printed, from the page image, and was viewed before writing. Numerals read at 130 dpi: [?].*
-
-**Kannada text, rendered:** "If an *anāhitāgni* — one who has not set up the sacred fires and does not perform sacrifices — himself takes part in a sacrifice performed by another, that is, performs the duty of an *ṛtvij*, he must offer an oblation in the fire with the Rik beginning *imām agne*; this is stated in the Āśvalāyana Gṛhya-sūtra, in the section *ṛtvijo vṛṇīte*, in the sūtra [quoted below] (Āś. Gṛ. 1-23-23 [?])."
-
-**The sūtra as printed:**
-
-> एवमनाहिताग्निर्गृह्य इमामग्ने शरणिं मीमृषो नः ।
-
-> *evam anāhitāgnir gṛhya imām agne śaraṇiṃ mīmṛṣo naḥ |*
-
-*Translation (mine, tentative; the Sanskrit is quoted as printed, with the word division of the print uncertain [?]):* "So the *anāhitāgni*, [taking it] in the domestic [fire] — [with the mantra] *imām agne śaraṇiṃ mīmṛṣo naḥ* ('Agni, forgive this fault of ours')." The mantra is Sūkta 31 Rik 16, whose text, bhāṣya and translation are given above (the bhāṣya of Rik 16 quotes the same sūtra).
 
 ---
 
