@@ -6541,15 +6541,15 @@
 
 ---
 
-### Rik 55.5 (pp. 357–, PDF 373–)
+### Rik 55.5 (pp. 357–360, PDF 373–376)
 
-**Saṃhitā-pāṭha** *(p. 357)*
+**Saṃhitā-pāṭha** *(p. 357; accents as printed)*
 
-> **स इन्महानि समिथानि मज्मना कृणोति युध्म ओजसा जनेभ्यः ।**
-> **अधा चन श्रद्दधति त्विषीमत इन्द्राय वज्रं निघनिघ्नते वधम् ॥ ५ ॥**
+> **स इन्म॒हानि॑ समि॒थानि॑ म॒ज्मना॑ कृ॒णोति॑ यु॒ध्म ओज॑सा॒ जने॑भ्यः ।**
+> **अधा॑ च॒न श्रद्द॑धति॒ त्विषी॑मत॒ इन्द्रा॑य॒ वज्रं॑ नि॒घनि॑घ्नते व॒धम् ॥ ५ ॥**
 
-*sa in mahāni samithāni majmanā kṛṇoti yudhma ojasā janebhyaḥ |*
-*adhā cana śraddadhati tviṣīmata indrāya vajraṃ nighanighnate vadham || 5 ||*
+*sá ín mahā́ni samithā́ni majmánā kṛṇóti yudhmá ójasā jánebhyaḥ |*
+*ádhā caná śráddadhati tvíṣīmata índrāya vájraṃ nighánighnate vadhám || 5 ||*
 
 **Pada-pāṭha** *(p. 357)*
 
@@ -6565,7 +6565,7 @@
 
 *sa it sa evendro yudhmo yoddhā mahāni samithāni mahataḥ saṃgrāmān majmanā sarvasya śodhakenaujasā balena kṛṇoti karoti | kimarthaṃ | janebhyaḥ | stotṛjanārtham | yadendro vadhaṃ hananasādhanaṃ vajram āyudhaṃ megheṣu nighanighnate | nihaṃti | adhā cana anantaram eva tviṣīmate dīptimata indrāya sarve janāḥ śraddadhati | śrad iti satyanāma | indro balavān iti yad ucyate tat satyam eveti sarve pratipadyante ||*
 
-*(The tail, pp. 357 foot–358, characterized: on* mahāni *(*mahat* neuter plural; the loss of *t*; *śi*),* samithāni *(*iṇ gatau*, Uṇādi *thak*: "*saṃyanti saṃgacchante 'smin vīrā iti*"),* majmanā*,* kṛṇoti*,* tviṣīmate *(*tviṣa dīptau*),* nighanighnate *(*han*, intensive-like reduplication: *nigha-nighnate*; *vyatyaya* for the *ātmanepada*, plural sense)* with the Nirukta note "*ity ṛcaśabdaḥ prakārārthaḥ*" — the Kannada notes below.)*
+*(The tail, pp. 357 foot–358, characterized: on* mahāni *(*mahat* neuter plural; the loss of *t*; *śi*),* samithāni *(*iṇ gatau*, Uṇādi *thak*: "*saṃyanti saṃgacchante 'smin vīrā iti*"),* majmanā*,* kṛṇoti*,* tviṣīmate *(*tviṣa dīptau*),* nighanighnate *(*han*, intensive-like reduplication: *nigha-nighnate*; *vyatyaya* for the *ātmanepada*, plural sense)* with the Nirukta note "*ity ṛcaśabdaḥ prakārārthaḥ*"; references printed: Uṇ. 2-11, Pā. 8-4-53, 7-4-65 — the Kannada notes below.)*
 
 **Translation of the bhāṣya:** "That very Indra, *yudhmaḥ*, the warrior, *mahāni samithāni*, great battles, *majmanā*, with strength that purifies everything, *ojasā*, with might, *kṛṇoti*, does — for what? *janebhyaḥ*, for the sake of the praising people — when Indra *vadhaṃ vajram*, the killing thunderbolt, the weapon, *nighanighnate*, strikes down on the clouds. *Adhā cana*, immediately, *tviṣīmate*, to the radiant Indra, all people *śraddadhati*: *śrat* is a name for truth; what is said, 'Indra is mighty', is true — thus all believe."
 
@@ -6591,11 +6591,11 @@
 
 **Vyākaraṇa-prakriyā** *(pp. 359–360 — grammar pages, noted briefly)*
 - **mahāni**: *mahat*; in the neuter plural *śi* gives *mahānti*; in the Veda the loss of *t* gives *mahāni*; or *mahyante pūjyante* (*mah*) with *ka* by *ghañarthe kavidhānam*: *maha* with *num* and lengthening in the neuter; the suffix-accent makes the *ā* after *h* acute.
-- **samithāni**: *iṇ gatau*; *samīṇaḥ* (Uṇ. 4-… as read [?]) gives *thak* after *sam*; *kit*, so no *guṇa*; *thāthaghañktājabitrakāṇām*: end-acute of the last member.
-- **majmanā**: *ṭumasjo śuddhau*; *manin*; *masj + man*: *jhalāṃ jaśo jhaśi* gives *d* for *s*; *stoḥ ścunā ścuḥ*, *ṣṭunā ṣṭuḥ* [*ścutva/jaśtva*]: *j*; suffix-accent; instrumental.
-- **adhā**: *atha* with *tha* → *dha* in the Veda; *nipātasya ca* lengthens.
-- **tviṣīmate**: *tviṣa dīptau*; *in* (*ins sarvadhātubhyaḥ*, Uṇ. 4-… as read [?]); *nit*: initial-acute; *tad asyāsty asmin* gives *matup*; lengthening of the first member (*anyeṣām api dṛśyate*).
-- **nighanighnate**: *han hiṃsāgatyoḥ*; *vyatyaya* gives *ātmanepada* and the plural; *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* reduplication; *gamahanajana…* drops the penultimate *a*; *hohanteḥ…*: *gh* for the *h*; *ātmanepadeṣv nataḥ*: *at* for *jha*… *nighanighnate*; *āgamīgamtīti ca* [as read]: *ity* is for "such like", so one must reckon this among the Vedic exceptions. **|| 5 ||**
+- **samithāni**: *iṇ gatau*; *samīṇaḥ* (Uṇ. sū. 4-532) gives *thak* after *sam*; *kit*, so no *guṇa*; *thāthaghañktājabitrakāṇām* (Pā. sū. 6-2-144): end-acute of the last member.
+- **majmanā**: *ṭumasjo śuddhau*; *manin*; *masj + man*: *jhalāṃ jaśo jhaśi* (Pā. sū. 8-4-53) gives *d* for *s*; *stoḥ ścunā ścuḥ*, *ṣṭunā ṣṭuḥ* [*ścutva/jaśtva*]: *j*; suffix-accent; instrumental.
+- **adhā**: *atha* with *tha* → *dha* in the Veda; *nipātasya ca* (Pā. sū. 6-3-136) lengthens.
+- **tviṣīmate**: *tviṣa dīptau*; *in* (*ins sarvadhātubhyaḥ*, Uṇ. sū. 4-55[?], last digit unclear); *nit*: initial-acute; *tad asyāsty asmin* gives *matup*; lengthening of the first member (*anyeṣām api dṛśyate*).
+- **nighanighnate**: *han hiṃsāgatyoḥ*; *vyatyaya* gives *ātmanepada* and the plural; *bahulaṃ chandasi* gives *ślu* for *śap*; *ślau* reduplication; *gamahanajana…* (Pā. sū. 6-4-98) drops the penultimate *a*; *hohanteḥ…*: *gh* for the *h*; *ātmanepadeṣv nataḥ*: *at* for *jha*… *nighanighnate*; *āganīgantīti ca* (Pā. sū. 7-4-65): *ity* is for "such like", so one must reckon this among the Vedic exceptions. **|| 5 ||**
 
 ---
 
