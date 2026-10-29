@@ -2149,13 +2149,15 @@
 
 ### Rik 50.3 (pp. 113–, PDF 129–)
 
-**Saṃhitā-pāṭha** *(p. 113; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 113; accents as printed)*
 
-> **अदृश्रमस्य केतवो वि रश्मयो जनाँ अनु ।**
-> **भ्राजन्तो अग्नयो यथा ॥ ३ ॥**
+> **अदृ॑श्रमस्य के॒तवो॒ वि र॒श्मयो॒ जना॒ँ अनु॑ ।**
+> **भ्राज॑न्तो अ॒ग्नयो॑ यथा ॥ ३ ॥**
 
-*adṛśram asya ketavo vi raśmayo janām̐ anu |*
-*bhrājanto agnayo yathā || 3 ||*
+*ádṛśram asya ketávo ví raśmáyo jánām̐ ánu |*
+*bhrā́janto agnáyo yathā || 3 ||*
+
+*(The IAST acutes are inferred from the printed marks.)*
 
 **Pada-pāṭha** *(p. 113)*
 
@@ -2167,13 +2169,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 113)*
 
-> **अस्य सूर्यस्य केतवः प्रज्ञापका रश्मयो दीप्तयो जनाननु व्यदृश्रं । जातान्सर्वाननुक्रमेण प्रेक्षन्ते । सर्वं जगत्प्रकाशयन्तीत्यर्थः । तत्र दृष्टान्तः । भ्राजन्तो दीप्यमाना अग्नयो यथा अग्नय इव ॥ अदृश्रं । दृशिर् प्रेक्षणे । वर्तमाने लुङ् । इरितो वा । पा. ३-१-५७ । इति च्लेरङादेशः । रुडित्यनुवृत्तौ बहुलं छन्दसि । पा. २-१-८ [?] । इति रुडागमः । अत एव बहुलवचनाद्दृशोऽङि गुण इति गुणाभाव इत्युक्तं । तिङां तिङो भवन्तीति प्रथमपुरुषबहुवचनस्योत्तमपुरुषैकवचनादेशः । प्रथमपुरुषान्त एव शाखान्तरे श्रूयते । अदृश्रन्नस्य केतवः । अथ. १३-१-१८ [?] । इति । जनानित्यस्य नकारस्य संहितायां रुत्वयत्वादि पूर्ववत् । भ्राजन्तः । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते ॥**
+> **अस्य सूर्यस्य केतवः प्रज्ञापका रश्मयो दीप्तयो जनाननु व्यदृश्रं । जातान्सर्वाननुक्रमेण प्रेक्षन्ते । सर्वं जगत्प्रकाशयन्तीत्यर्थः । तत्र दृष्टान्तः । भ्राजन्तो दीप्यमाना अग्नयो यथा अग्नय इव ॥ अदृश्रं । दृशिर् प्रेक्षणे । वर्तमाने लुङ् । इरितो वा । पा. ३-१-५७ । इति च्लेरङादेशः । रुडित्यनुवृत्तौ बहुलं छन्दसि । पा. ७-१-८ । इति रुडागमः । अत एव बहुलवचनाद्दृशोऽङि गुण इति गुणाभाव इत्युक्तं । तिङां तिङो भवन्तीति प्रथमपुरुषबहुवचनस्योत्तमपुरुषैकवचनादेशः । प्रथमपुरुषान्त एव शाखान्तरे श्रूयते । अदृश्रन्नस्य केतवः । अथ. १३-१-१८ । इति । जनानित्यस्य नकारस्य संहितायां रुत्वयत्वादि पूर्ववत् । भ्राजन्तः । शपः पित्त्वादनुदात्तत्वं । शतुश्च लसार्वधातुकस्वरेण धातुस्वर एव शिष्यते ॥**
 
-*asya sūryasya ketavaḥ prajñāpakā raśmayo dīptayo janān anu vy adṛśraṃ | jātān sarvān anukrameṇa prekṣante | sarvaṃ jagat prakāśayantīty arthaḥ | tatra dṛṣṭāntaḥ | bhrājanto dīpyamānā agnayo yathā agnaya iva || adṛśraṃ | dṛśir prekṣaṇe | vartamāne luṅ | irito vā | pā. 3-1-57 | iti cler aṅādeśaḥ | ruḍ ity anuvṛttau bahulaṃ chandasi | pā. 2-1-8 [?] | iti ruḍāgamaḥ | ata eva bahulavacanād dṛśo 'ṅi guṇa iti guṇābhāva ity uktaṃ | tiṅāṃ tiṅo bhavantīti prathamapuruṣabahuvacanasyottamapuruṣaikavacanādeśaḥ | prathamapuruṣānta eva śākhāntare śrūyate | adṛśrann asya ketavaḥ | atha. 13-1-18 [?] | iti | janān ity asya nakārasya saṃhitāyāṃ rutvayatvādi pūrvavat | bhrājantaḥ | śapaḥ pittvād anudāttatvaṃ | śatuś ca lasārvadhātukasvareṇa dhātusvara eva śiṣyate ||*
+*asya sūryasya ketavaḥ prajñāpakā raśmayo dīptayo janān anu vy adṛśraṃ | jātān sarvān anukrameṇa prekṣante | sarvaṃ jagat prakāśayantīty arthaḥ | tatra dṛṣṭāntaḥ | bhrājanto dīpyamānā agnayo yathā agnaya iva || adṛśraṃ | dṛśir prekṣaṇe | vartamāne luṅ | irito vā | pā. 3-1-57 | iti cler aṅādeśaḥ | ruḍ ity anuvṛttau bahulaṃ chandasi | pā. 7-1-8 | iti ruḍāgamaḥ | ata eva bahulavacanād dṛśo 'ṅi guṇa iti guṇābhāva ity uktaṃ | tiṅāṃ tiṅo bhavantīti prathamapuruṣabahuvacanasyottamapuruṣaikavacanādeśaḥ | prathamapuruṣānta eva śākhāntare śrūyate | adṛśrann asya ketavaḥ | atha. 13-1-18 | iti | janān ity asya nakārasya saṃhitāyāṃ rutvayatvādi pūrvavat | bhrājantaḥ | śapaḥ pittvād anudāttatvaṃ | śatuś ca lasārvadhātukasvareṇa dhātusvara eva śiṣyate ||*
 
-*(The print has "ṛtūna" style crowded readings: the numbers 3-1-57, 2-1-8 and the Atharvaveda reference "13-1-18" are as read [?]. The print's first word* adṛśram *is "adṛśraṃ" in the bhāṣya and is the first-person-singular-looking form said to stand for the third-person plural.)*
+*(Re-read from the print: Pā. 3-1-57, 7-1-8 and the Atharvaveda reference 13-1-18 are clear. The print's first word* adṛśram *is "adṛśraṃ" in the bhāṣya and is the first-person-singular-looking form said to stand for the third-person plural.)*
 
-**Translation:** "*Asya*, of this Sun, *ketavaḥ*, the announcers, *raśmayaḥ*, the rays, *janān anu*, following (looking upon) the people, *vi adṛśram*, are seen — they look upon all beings in order; the sense is that they light up the whole world. A comparison: *bhrājantaḥ agnayaḥ yathā*, like blazing fires. *Adṛśram*: root *dṛśir prekṣaṇe*, *luṅ* in the present sense; *aṅ* for *cli* by *irito vā* (Pā. 3-1-57); the augment *ruṭ* by *bahulaṃ chandasi*; because of 'variously', the *guṇa* that *dṛśo 'ṅi guṇaḥ* would give does not come; by '*tiṅāṃ tiṅo bhavanti*' the first-person singular ending replaces the third-person plural; in another recension the third-person form is heard: '*adṛśrann asya ketavaḥ*' (Atharvaveda 13-1-18 [?]). The *n* of *janān*, in the Saṃhitā: *ru*, *y* and the rest as before. *Bhrājantaḥ*: *śap* is *pit* and unaccented, and the *śatṛ*, being *lasārvadhātuka*, is unaccented; the root-accent alone remains."
+**Translation:** "*Asya*, of this Sun, *ketavaḥ*, the announcers, *raśmayaḥ*, the rays, *janān anu*, following (looking upon) the people, *vi adṛśram*, are seen — they look upon all beings in order; the sense is that they light up the whole world. A comparison: *bhrājantaḥ agnayaḥ yathā*, like blazing fires. *Adṛśram*: root *dṛśir prekṣaṇe*, *luṅ* in the present sense; *aṅ* for *cli* by *irito vā* (Pā. 3-1-57); the augment *ruṭ* by *bahulaṃ chandasi*; because of 'variously', the *guṇa* that *dṛśo 'ṅi guṇaḥ* would give does not come; by '*tiṅāṃ tiṅo bhavanti*' the first-person singular ending replaces the third-person plural; in another recension the third-person form is heard: '*adṛśrann asya ketavaḥ*' (Atharvaveda 13-1-18). The *n* of *janān*, in the Saṃhitā: *ru*, *y* and the rest as before. *Bhrājantaḥ*: *śap* is *pit* and unaccented, and the *śatṛ*, being *lasārvadhātuka*, is unaccented; the root-accent alone remains."
 
 **Pratipadārtha** *(p. 114)* — "**asya** — of this god Sūrya; **ketavaḥ** — (announcing his coming) the rays; **bhrājantaḥ** — blazing; **agnayo yathā** — like fires; **janān** — (born) all things; **anu** — in order; **vi adṛśram** — look at well, (and light up the whole world)."
 
@@ -2190,14 +2192,14 @@
 **Rik 50.3, continued** *(from p. 114)*
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 114**
-- **ketavaḥ prajñāpakāḥ** — "the word *ketu* has the sense of 'knowledge' (Ni. 3-[?]3 as read); here, since *ketavaḥ* is an adjective of *raśmayaḥ*, *ketavaḥ* may be said to mean 'those that make knowledge arise, that impel the understanding', and so on. Because, with the help of the rays of the Sun or the Sun's light, there arises knowledge of outer things, the commentator gives *ketavaḥ* the sense 'giving knowledge'."
+- **ketavaḥ prajñāpakāḥ** — "the word *ketu* has the sense of 'knowledge' (Ni. 3-13); here, since *ketavaḥ* is an adjective of *raśmayaḥ*, *ketavaḥ* may be said to mean 'those that make knowledge arise, that impel the understanding', and so on. Because, with the help of the rays of the Sun or the Sun's light, there arises knowledge of outer things, the commentator gives *ketavaḥ* the sense 'giving knowledge'."
 - **adṛśram raśmayaḥ janān anu** — "the rays of the Sun look at men: that is, the rays of the Sun shine among the people (in the world), and with the help of that light the people become able to look at the things of the universe."
 - **bhrājanto agnayo yathā** — "as fire, burning well and blazing, lights up the world, so the rays of the Sun too light up the whole universe."
 
 **Vyākaraṇa-prakriyā** *(p. 115 — grammar page, noted briefly)*
-- **adṛśram**: root *dṛśir prekṣaṇe*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6 as read) gives *luṅ* in the present sense; third person plural *jhi* would be obtained, but by *vyatyayo bahulam* and *tiṅāṃ tiṅo bhavanti* a first-person singular ending (*mip*) comes in its place; *dṛś + mi*; *itaś ca* (Pā. 3-4-100 as read) drops the *i*; *cli* → *aṅ* by *irito vā* (Pā. 3-1-57 as read), since *dṛśir* has the marker *ir*; *dṛś + a + am*; *bahulaṃ chandasi* (Pā. 2-1-8 [? as read]) gives the augment *ruṭ* — in this sūtra the *ruṭ* is carried over from *śīṅjoḥ ruṭ* — to a suffix standing after a root; the *aṭ*, being what *luṅ* causes, comes to the root: *a-dṛś-ruṭ-a-m*: *adṛśram*; *ṛdṛśo 'ṅi guṇaḥ* (Pā. 7-4-16 as read) would give *guṇa* to the *ṛ*, but because of *bahulam* (stated just before) no *guṇa* comes here. The Kannada author adds that in other recensions the third-person plural itself is heard, "*adṛśrann asya ketavaḥ*" (Atharva Saṃhitā 13-1-18 as read [?]).
-- **janān**: *dīrghād aṭi samānapāde* (Pā. 8-3-9 as read) gives *ru* for the *n* in the Saṃhitā, then *y*-substitution and loss; *atrānunāsikaḥ pūrvasya tu vā* (Pā. 8-3-2 as read) gives nasalization before the *ru*; in the *pada*-text, *janān*.
-- **bhrājantaḥ**: root *bhrāja dīptau*, *bhvādi*; *lṛṭ*?— the print says *laṭaḥ śatṛśānacau* (Pā. 3-2-124 as read), *śatṛ*; *śap* as *vikaraṇa* because *śit* follows; *bhrājat*, a stem in *t*; in the nominative plural *jas*, with the *sarvanāmasthāna* name, the stem being *ugit* gets *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *anusvāra* and homogeneous nasal: *bhrājantaḥ*; *śap* is *pit* and unaccented; *śatṛ*, *lasārvadhātuka*, is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read), being after the *śap*; the root-accent alone remains; *bhrājantaḥ* is initial-acute. **|| 3 ||**
+- **adṛśram**: root *dṛśir prekṣaṇe*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* (Pā. 3-4-6) gives *luṅ* in the present sense; third person plural *jhi* would be obtained, but by *vyatyayo bahulam* and *tiṅāṃ tiṅo bhavanti* a first-person singular ending (*mip*) comes in its place; *dṛś + mi*; *itaś ca* (no number printed) drops the *i*; *cli* → *aṅ* by *irito vā* (Pā. 3-1-57), since *dṛśir* has the marker *ir*; *dṛś + a + am*; *bahulaṃ chandasi* (Pā. 7-1-8) gives the augment *ruṭ* — in this sūtra the *ruṭ* is carried over from *śīṅjoḥ ruṭ* — to a suffix standing after a root; the *aṭ*, being what *luṅ* causes, comes to the root: *a-dṛś-ruṭ-a-m*: *adṛśram*; *ṛdṛśo 'ṅi guṇaḥ* (no number printed) would give *guṇa* to the *ṛ*, but because of *bahulam* (stated just before) no *guṇa* comes here. The Kannada author adds that in other recensions the third-person plural itself is heard, "*adṛśrann asya ketavaḥ*" (Atharva Saṃhitā 13-[?]-18; the middle digit is blurred on this page).
+- **janān**: *āto 'ṭi nityam* (Pā. 8-3-3; so printed) gives *ru* for the *n* in the Saṃhitā, then *y*-substitution and loss; *atrānunāsikaḥ pūrvasya tu vā* (no number printed) gives nasalization before the *ru*; in the *pada*-text, *janān*.
+- **bhrājantaḥ**: root *bhrāja dīptau*, *bhvādi*; *lṛṭ*?— the print says *laṭaḥ śatṛśānacau* (no number printed), *śatṛ*; *śap* as *vikaraṇa* because *śit* follows; *bhrājat*, a stem in *t*; in the nominative plural *jas*, with the *sarvanāmasthāna* name, the stem being *ugit* gets *num* by *ugidacāṃ sarvanāmasthāne 'dhātoḥ*; *anusvāra* and homogeneous nasal: *bhrājantaḥ*; *śap* is *pit* and unaccented; *śatṛ*, *lasārvadhātuka*, is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186), being after the *śap*; the root-accent alone remains; *bhrājantaḥ* is initial-acute. **|| 3 ||**
 
 ---
 
