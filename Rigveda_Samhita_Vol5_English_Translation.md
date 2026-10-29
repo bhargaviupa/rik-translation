@@ -6289,35 +6289,35 @@
 
 ### Sāyaṇa's introduction *(p. 341)*
 
-> **दिवश्चिदस्येत्यष्टर्चं पञ्चमं सूक्तं सव्यस्यार्षमैन्द्रं जागतम् । तथा चानुक्रान्तं । दिवश्चिदष्टा जागतं हीत्यभिधानात्तत्र ह्यादिपरिभाषयोत्तरे द्वे च सूक्ते जागते । अतिरात्रे प्रथमे पर्याये मैत्रावरुणशस्त्र इदं सूक्तम् । सूत्रितं च । दिवश्चिदस्येति पर्यासः स नो नव्येभिरिति च । आश्व. ६-४ [?] इति । विषुवति निष्केवल्येऽप्येतत्सूक्तम् । सूत्रितं च । शंसेदेवोत्तराणि षट् दिवश्चिदस्य । आश्व. ८-६ [?] इति । समूळ्हस्य दशरात्रस्य द्वितीये छन्दोमेऽपि निष्केवल्य एतत्सूक्तम् । त्वं मही इन्द्र यो ह दिवश्चिदस्य त्वं मही इन्द्र तुभ्यमिति निष्केवल्यम् । आश्व. ८-२ [?] इति ॥**
+> **दिवश्चिदस्येत्यष्टर्चं पञ्चमं सूक्तं सव्यस्यार्षमैन्द्रं जागतम् । तथा चानुक्रान्तं । दिवश्चिदष्टा जागतं हीत्यभिधानात्तत्र ह्यादिपरिभाषयोत्तरे द्वे च सूक्ते जागते । अतिरात्रे प्रथमे पर्याये मैत्रावरुणशस्त्र इदं सूक्तम् । सूत्रितं च । दिवश्चिदस्येति पर्यासः स नो नव्येभिरिति च । आश्व. ६-४ इति । विषुवति निष्केवल्येऽप्येतत्सूक्तम् । सूत्रितं च । शंसेदेवोत्तराणि षट् दिवश्चिदस्य । आश्व. ८-६ इति । समूळ्हस्य दशरात्रस्य द्वितीये छन्दोमेऽपि निष्केवल्य एतत्सूक्तम् । त्वं महाँ इन्द्र यो ह दिवश्चिदस्य त्वं महाँ इन्द्र तुभ्यमिति निष्केवल्यम् । आश्व. ८-२ इति ॥**
 
-*divaś cid asyety aṣṭarcaṃ pañcamaṃ sūktaṃ savyasyārṣam aindraṃ jāgatam | tathā cānukrāntaṃ | divaś cid aṣṭā jāgataṃ hīty abhidhānāt tatra hy ādiparibhāṣayottare dve ca sūkte jāgate | atirātre prathame paryāye maitrāvaruṇaśastra idaṃ sūktam | sūtritaṃ ca | divaś cid asyeti paryāsaḥ sa no navyebhir iti ca | āśva. 6-4 [?] iti | viṣuvati niṣkevalye 'py etat sūktam | sūtritaṃ ca | śaṃsed evottarāṇi ṣaṭ divaś cid asya | āśva. 8-6 [?] iti | samūḷhasya daśarātrasya dvitīye chandome 'pi niṣkevalya etat sūktam | tvaṃ mahī indra yo ha divaś cid asya tvaṃ mahī indra tubhyam iti niṣkevalyam | āśva. 8-2 [?] iti ||*
+*divaś cid asyety aṣṭarcaṃ pañcamaṃ sūktaṃ savyasyārṣam aindraṃ jāgatam | tathā cānukrāntaṃ | divaś cid aṣṭā jāgataṃ hīty abhidhānāt tatra hy ādiparibhāṣayottare dve ca sūkte jāgate | atirātre prathame paryāye maitrāvaruṇaśastra idaṃ sūktam | sūtritaṃ ca | divaś cid asyeti paryāsaḥ sa no navyebhir iti ca | āśva. 6-4 iti | viṣuvati niṣkevalye 'py etat sūktam | sūtritaṃ ca | śaṃsed evottarāṇi ṣaṭ divaś cid asya | āśva. 8-6 iti | samūḷhasya daśarātrasya dvitīye chandome 'pi niṣkevalya etat sūktam | tvaṃ mahām̐ indra yo ha divaś cid asya tvaṃ mahām̐ indra tubhyam iti niṣkevalyam | āśva. 8-2 iti ||*
 
-*(Reading note: the small bold print is crowded; the Anukramaṇī half-line and every Āśvalāyana numeral are [?]; "tvaṃ mahī indra" is as printed — the second opening, probably "tvaṃ mahāṃ indra", is not completed [?].)*
+*(Reading note: re-read from the print: the Anukramaṇī "*divaś cid aṣṭā jāgataṃ hi*", the references printed "ಆ. ೬-೪", "ಆ. ೮-೬", "ಆ. ೮-೨", and "*tvaṃ mahām̐ indra*" (printed with the candrabindu, "ಮಹಾँ"), twice.)*
 
-**Translation:** "'*Divaś cid asya*': a sūkta of eight Riks, the fifth [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī; so the Anukramaṇī [?]; by the statement 'Jagatī' the two sūktas that follow are also Jagatī by the general rule beginning with *hi*. In the Atirātra, in the first *paryāya*, this sūkta is used in the Maitrāvaruṇa-śastra, and is aphorized: '*divaś cid asya*' as the *paryāsa* and '*sa no navyebhiḥ*' (Āśv. 6-4 [?]). In the Viṣuvat day it is also in the *niṣkevalya* [recitation]: 'let him recite the next six: *divaś cid asya*' (Āśv. 8-6 [?]). In the second *chandoma* day of the Samūḷha ten-night rite it is likewise in the *niṣkevalya* (Āśv. 8-2 [?])."
+**Translation:** "'*Divaś cid asya*': a sūkta of eight Riks, the fifth [of the Tenth Anuvāka]; the seer is Savya, the deity Indra, the metre Jagatī; so the Anukramaṇī; by the statement 'Jagatī' the two sūktas that follow are also Jagatī by the general rule beginning with *hi*. In the Atirātra, in the first *paryāya*, this sūkta is used in the Maitrāvaruṇa-śastra, and is aphorized: '*divaś cid asya*' as the *paryāsa* and '*sa no navyebhiḥ*' (Āśv. 6-4). In the Viṣuvat day it is also in the *niṣkevalya* [recitation]: 'let him recite the next six: *divaś cid asya*' (Āśv. 8-6). In the second *chandoma* day of the Samūḷha ten-night rite it is likewise in the *niṣkevalya* (Āśv. 8-2)."
 
-**Anuvāda (Kannada, p. 341)** — "'*Divaś cid asya*' is the fifth sūkta of the tenth anuvāka. It has eight Riks. The seer is Savya, the deity Indra, the metre Jagatī. In the Anukramaṇikā: '*divaś cid aṣṭā jāgataṃ hi*'; the word *hi* shows that the next two sūktas are also in Jagatī. In the Atirātra, in the first *paryāya*, it is used for the Maitrāvaruṇa śastra mantras (Āśv. 6-4); in the Viṣuvat sacrifice, and in the Samūḷha ten-night sacrifice at the time of the *chandoma* mantras, for the *niṣkevalya* śastra (Āśv. 8-6, 9-2 [?])."
+**Anuvāda (Kannada, p. 341)** — "'*Divaś cid asya*' is the fifth sūkta of the tenth anuvāka. It has eight Riks. The seer is Savya, the deity Indra, the metre Jagatī. In the Anukramaṇikā: '*divaś cid aṣṭā jāgataṃ hi*'; the word *hi* shows that the next two sūktas are also in Jagatī. In the Atirātra, in the first *paryāya*, it is used for the Maitrāvaruṇa śastra mantras (Āśv. 6-4); in the Viṣuvat sacrifice, and in the Samūḷha ten-night sacrifice at the time of the *chandoma* mantras, for the *niṣkevalya* śastra (Āśv. 8-6; the Samūḷha use: Āśv. 8-2, printed "ಆ. ೮-೨")."
 
-**Heading block** *(p. 341)*: Maṇḍala 1 · Anuvāka 10 · Sūkta 55 · Aṣṭaka 1 · Adhyāya 4 · Varga 19, 20 [as read, [?]] · Riks: 8 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
+**Heading block** *(p. 341)*: Maṇḍala 1 · Anuvāka 10 · Sūkta 55 · Aṣṭaka 1 · Adhyāya 4 · Varga 19, 20 (printed "ವರ್ಗ—೧೯, ೨೦") · Riks: 8 · Ṛṣi: Savya Āṅgirasa · Deity: Indra · Metre: Jagatī.
 
 ---
 
 ### Rik 55.1 (pp. 341–344, PDF 357–360)
 
-**Saṃhitā-pāṭha** *(accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 341; accents as printed; [accent ?]: the svarita strokes of* tuvíṣmāñ *and* váṃsagaḥ *stand over the preceding syllable; set by the reading)*
 
-> **दिवश्चिदस्य वरिमा वि पप्रथ इन्द्रं न महना पृथिवी चन प्रति ।**
-> **भीमस्तुविष्माञ्चर्षणिभ्य आतपः शिशीते वज्रं तेजसे न वंसगः ॥ १ ॥**
+> **दि॒वश्चि॑दस्य वरि॒मा वि प॑प्रथ॒ इन्द्रं॒ न म॒ह्ना पृ॑थि॒वी च॒न प्रति॑ ।**
+> **भी॒मस्तु॒विष्मा॑ञ्चर्ष॒णिभ्य॑ आत॒पः शिशी॑ते॒ वज्रं॒ तेज॑से॒ न वंस॑गः ॥ १ ॥**
 
-*divaś cid asya varimā vi papratha indraṃ na mahnā pṛthivī cana prati |*
-*bhīmas tuviṣmāñ carṣaṇibhya ātapaḥ śiśīte vajraṃ tejase na vaṃsagaḥ || 1 ||*
+*diváś cid asya varimā́ ví papratha índraṃ ná mahnā́ pṛthivī́ caná práti |*
+*bhīmás tuvíṣmāñ carṣaṇíbhya ātapáḥ śíśīte vájraṃ téjase ná váṃsagaḥ || 1 ||*
 
-*(The print's second pāda begins "भीमस्तुविष्माण्" with a crowded ligature; I read* tuviṣmān *per the Pada.)*
+*(The print reads "ಮಹ್ನಾ" (*mahnā*) in both Saṃhitā and Pada, and "ಭೀಮಸ್ತುವಿಷ್ಮಾಞ್ಚರ್ಷಣಿಭ್ಯ" clearly.)*
 
 **Pada-pāṭha** *(p. 342)*
 
-> दिवः । चित् । अस्य । वरिमा । वि । पप्रथे । इन्द्रम् । न । महना । पृथिवी । चन । प्रति ।
+> दिवः । चित् । अस्य । वरिमा । वि । पप्रथे । इन्द्रम् । न । मह्ना । पृथिवी । चन । प्रति ।
 > भीमः । तुविष्मान् । चर्षणिऽभ्यः । आऽतपः । शिशीते । वज्रम् । तेजसे । न । वंसगः ॥ १ ॥
 
 *divaḥ | cit | asya | varimā | vi | paprathe | indram | na | mahnā | pṛthivī | cana | prati |*
@@ -6325,9 +6325,9 @@
 
 **Sāyaṇa-bhāṣya** *(p. 342)*
 
-> **अस्येन्द्रस्य वरिमोरुत्वं प्रभावं दिवश्चित् द्युलोकादपि वि पप्रथे । विस्तीर्णं बभूव । पृथिवी चन पृथिव्यपि च महना महत्त्वेनेन्द्रं न प्रति भवति । भूमिरपीन्द्रस्य प्रतिनिधिर्न भवति । ततोऽपि स गरीयानित्यर्थः । भीमः शत्रूणां भयंकरस्तुविष्मान् प्रज्ञावान् बलवान्वा चर्षणिभ्यो मनुष्येभ्यः स्तोतृभ्यस्तेषामर्थाय शत्रूणामातपः आसमन्ताद्बाधकारी । एवंविधः स इन्द्रो वज्रं वर्जनशीलमायुधं तेजसे तैक्ष्ण्याय शिशीते तनूकरोति । तीक्ष्णीकरोति । तत्र दृष्टान्तः । वंसगो न । वननीयगतिमान् वृषभो यथा स्वशृङ्गे युद्धार्थं तीक्ष्णीकरोति तद्वत् ॥**
+> **अस्येन्द्रस्य वरिमोरुत्वं प्रभावं दिवश्चित् द्युलोकादपि वि पप्रथे । विस्तीर्णं बभूव । पृथिवी चन पृथिव्यपि च मह्ना महिम्ना महत्त्वेनेन्द्रं न प्रति भवति । भूमिरपीन्द्रस्य प्रतिनिधिर्न भवति । ततोऽपि स गरीयानित्यर्थः । भीमः शत्रूणां भयंकरस्तुविष्मान् प्रज्ञावान् बलवान्वा चर्षणिभ्यो मनुष्येभ्यः स्तोतृभ्यस्तेषामर्थाय शत्रूणामातपः आसमन्ताद्बाधकारी । एवंविधः स इन्द्रो वज्रं वर्जनशीलमायुधं तेजसे तैक्ष्ण्याय शिशीते तनूकरोति । तीक्ष्णीकरोति । तत्र दृष्टान्तः । वंसगो न । वननीयगतिमान् वृषभो यथा स्वशृङ्गे युद्धार्थं तीक्ष्णीकरोति तद्वत् ॥**
 
-*asyendrasya varimoruttvaṃ prabhāvaṃ divaś cit dyulokād api vi paprathe | vistīrṇaṃ babhūva | pṛthivī cana pṛthivy api ca mahnā mahattvenendraṃ na prati bhavati | bhūmir apīndrasya pratinidhir na bhavati | tato 'pi sa garīyān ity arthaḥ | bhīmaḥ śatrūṇāṃ bhayaṃkaras tuviṣmān prajñāvān balavān vā carṣaṇibhyo manuṣyebhyaḥ stotṛbhyas teṣām arthāya śatrūṇām ātapaḥ āsamantād bādhakārī | evaṃvidhaḥ sa indro vajraṃ varjanaśīlam āyudhaṃ tejase taikṣṇyāya śiśīte tanūkaroti | tīkṣṇīkaroti | tatra dṛṣṭāntaḥ | vaṃsago na | vananīyagatimān vṛṣabho yathā svaśṛṅge yuddhārtham tīkṣṇīkaroti tadvat ||*
+*asyendrasya varimoruttvaṃ prabhāvaṃ divaś cit dyulokād api vi paprathe | vistīrṇaṃ babhūva | pṛthivī cana pṛthivy api ca mahnā mahimnā mahattvenendraṃ na prati bhavati | bhūmir apīndrasya pratinidhir na bhavati | tato 'pi sa garīyān ity arthaḥ | bhīmaḥ śatrūṇāṃ bhayaṃkaras tuviṣmān prajñāvān balavān vā carṣaṇibhyo manuṣyebhyaḥ stotṛbhyas teṣām arthāya śatrūṇām ātapaḥ āsamantād bādhakārī | evaṃvidhaḥ sa indro vajraṃ varjanaśīlam āyudhaṃ tejase taikṣṇyāya śiśīte tanūkaroti | tīkṣṇīkaroti | tatra dṛṣṭāntaḥ | vaṃsago na | vananīyagatimān vṛṣabho yathā svaśṛṅge yuddhārtham tīkṣṇīkaroti tadvat ||*
 
 *(The tail — on* varimā*,* paprathe*,* mahnā*,* prati *(karmapravacanīya),* bhīmaḥ*,* ātapaḥ*,* śiśīte*,* vaṃsagaḥ *— is characterized, and repeated in the Kannada grammar notes below.)*
 
@@ -6342,14 +6342,14 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 343–344**
 - *(a Sanskrit passage in the print, p. 343)*:
 
-  > **द्यावापृथिवीभ्यामपीन्द्रस्य महिमा गरीयान् तथेन्द्रो भीमादिगुणविशिष्टः सन् स्वबलस्य दर्शयित्ना वज्रं हस्ते धारयतीत्यर्थः ॥**
+  > **द्यावापृथिवीभ्यामपीन्द्रस्य महिमा गरीयान् तथेन्द्रो भीमादिगुणविशिष्टः सन् स्वबलस्य दर्शयितृ वज्रं हस्ते धारयतीत्यर्थः ॥**
 
-  *dyāvāpṛthivībhyām apīndrasya mahimā garīyān tathendro bhīmādiguṇaviśiṣṭaḥ san svabalasya darśayitnā vajraṃ haste dhārayatīty arthaḥ ||* — "Indra's majesty is greater even than heaven and earth; Indra, endowed with qualities such as terribleness, holds the thunderbolt in his hand in order to show his strength." (*darśayitnā*, read from the print, is doubtful, [?].) The Kannada adds: "Indra's power and the glory of his majesty are greater than heaven and earth. Even so, in order to display his own valour, he bears the thunderbolt in his hand."
+  *dyāvāpṛthivībhyām apīndrasya mahimā garīyān tathendro bhīmādiguṇaviśiṣṭaḥ san svabalasya darśayitṛ vajraṃ haste dhārayatīty arthaḥ ||* — "Indra's majesty is greater even than heaven and earth; Indra, endowed with qualities such as terribleness, holds the thunderbolt in his hand in order to show his strength." (The print reads *darśayitṛ*, "the shower".) The Kannada adds: "Indra's power and the glory of his majesty are greater than heaven and earth. Even so, in order to display his own valour, he bears the thunderbolt in his hand."
 - **varimā** — "This word, formed from *uru* with the suffix *imanic*, means 'the best of all'."
 - **pṛthivī cana prati** — "Even the earth does not equal him; the earth is not a counterpart of Indra. Indra is greater in majesty than the earth."
-- **bhīmaḥ** — "One who is terrifying to enemies; the word is formed from *bhī bhaye*. Yāska derives it '*bhīmo bibhyaty asmāt*' (Ni. 1-10 as read [?]): that of which others are much afraid is *bhīma*."
+- **bhīmaḥ** — "One who is terrifying to enemies; the word is formed from *bhī bhaye*. Yāska derives it '*bhīmo bibhyaty asmāt*' (printed "ನಿರು. ೧-೨೦", Niru. 1-20): that of which others are much afraid is *bhīma*."
 
-  > **भीमो बिभ्यत्यस्मात् ।** *(Ni. 1-10 as read [?])*
+  > **भीमो बिभ्यत्यस्मात् ।** *(Niru. 1-20)*
 
   *bhīmo bibhyaty asmāt |* — mine and tentative: "*bhīma* [is he] of whom [others] are afraid."
 - **tuviṣmān** — "One who has wisdom; or 'the strongest' (*baliṣṭha*)."
@@ -6357,8 +6357,8 @@
 - **vaṃsagaḥ** — "From the root *vana ṣaṇa sambhaktau*, *vaṃsam vananīyaṃ gacchati iti vaṃsagaḥ*, a bull whose gait is attractive; it means a bull. As a bull, when it fights with another, whets its horns for the fight, so Indra, fighting the Rākṣasas, makes his thunderbolt keen."
 
 **Vyākaraṇa-prakriyā** *(pp. 344–345 — grammar pages, noted briefly)*
-- **divaḥ**: fifth singular of *div*; the ending's acute by *ūḍidam padādi…* (Pā. 6-1-171).
-- **varimā**: from *uru* (in the *pṛthvādi* list) *pṛthvādibhya imanic vā* gives *imanic* in the sense of excess; *priyasthirasphira…* (Pā. 6-4-157) gives *vara* for *uru*; *variman*; nominative with the long vowel; *citaḥ* gives the end-acute.
+- **divaḥ**: fifth singular of *div*; the ending's acute by *ūḍidam padādi…* (no number printed here).
+- **varimā**: from *uru* (in the *pṛthvādi* list) *pṛthvādibhya imanic vā* (Pā. sū. 5-1-122) gives *imanic* in the sense of excess; *priyasthirasphira…* (Pā. 6-4-157) gives *vara* for *uru*; *variman*; nominative with the long vowel; *citaḥ* gives the end-acute.
 - **paprathe**: *prath prakhyāne*; *liṭ* third singular, *ta* → *e* (*liṭas tajhayor eśirec*); reduplication; *nighāta*.
 - **mahnā**: *mahimnā*, with the loss of *i* and *m* in the Veda; or from *maha pūjāyām* with Uṇādi *kanin*: *mahan*, instrumental *ā*, the *a* of *an* dropped by *āl lopo… anaḥ*; the end-acute; the ending is acute by the *udāttanivṛtti* accent.
 - **prati**: *pratiḥ pratinidhipratidānayoḥ* (Pā. 1-4-92) gives the *karmapravacanīya*-name; *karmapravacanīyayukte dvitīyā* (Pā. 2-3-8) the second case after *indra*; the fifth case which *pratinidhipratidāne ca yasmāt* would give does not arise in the Veda.
