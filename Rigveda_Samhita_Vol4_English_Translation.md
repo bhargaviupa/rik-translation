@@ -7572,13 +7572,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 ### Rik 41.8 (pp. 428–431, PDF 442–445)
 
-**Saṃhitā-pāṭha** *(p. 428; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 428; Saṃhitā accents as printed (checked at 350–630 dpi); Pada unaccented; the print ends line 1 with* devayantaṃ*.)*
 
-> **मा वो घ्नन्तं मा शपन्तं प्रति वोचे देवयन्तम् ।**
-> **सुम्नैरिद्व आ विवासे ॥ ८ ॥**
+> **मा वो॒ घ्नन्तं॒ मा शप॑न्तं॒ प्रति॑ वोचे देव॒यन्तं॑ ।**
+> **सु॒म्नैरिद्व॒ आ वि॑वासे ॥ ८ ॥**
 
-*mā vo ghnantaṃ mā śapantaṃ prati voce devayantam |*
-*sumnair id va ā vivāse || 8 ||*
+*mā vo ghnántaṃ mā́ śápantaṃ práti voce devayántaṃ |*
+*sumnaír id va ā́ vivāse || 8 ||*
 
 **Pada-pāṭha** *(p. 428)*
 
@@ -7590,13 +7590,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa-bhāṣya** *(p. 429)*
 
-> **हे मित्रादयो देवा देवयन्तं देवान्कामयमानं यजमानं यः शत्रुर्घ्नन्तं तादृशं शत्रुं वो युष्मभ्यं मा प्रति वोचे । दुरुक्तकथनभीत्याहं न कथयामि । तथा यजमानं यः शत्रुः शपति तमपि शपन्तं मा प्रति वोचे । भवद्भिरेव विचार्य शिक्षणीय इत्यर्थः । अहं तु सुम्नैरिद्धन्यैरेव वो युष्मानाविवासे । सर्वतः परिचरामि ॥ घ्नन्तं । हन्तीति घ्नन् । गमहनेत्यादिनोपधालोपः । हो हन्तेरिति कुत्वे प्रत्ययस्वरः । शपन्तं । शप आक्रोशे । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । वोचे । ब्रूञ् व्यक्तायां वाचि । माजः लुङ्लृट्ं ब्रुवो वचिः । पा. ३-४-५३ [?] । इति वचिः । अस्यतिवक्तीत्यादिना च्लेरङादेशः । वच उमित्युमागमः । न माङ्योगे इत्यडभावः । देवयन्तं । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येत्वप्रतिषेधः । सुम्नैः । म्ना अभ्यासे । सुष्ठु म्नायतेऽभ्यस्यते इति सुम्नं । आतश्चोपसर्ग इति कप्रत्ययः । आतो लोप इटि चेत्याकारलोपः । विवासे । विवासतिः परिचरणकर्मा ॥**
+> **हे मित्रादयो देवा देवयन्तं देवान्कामयमानं यजमानं यः शत्रुर्हन्ति घ्नन्तं तादृशं शत्रुं वो युष्मभ्यं मा प्रति वोचे । दुरुक्तकथनभीत्याहं न कथयामि । तथा यजमानं यः शत्रुः शपति तमपि शपन्तं मा प्रति वोचे । भवद्भिरेव विचार्य शिक्षणीय इत्यर्थः । अहं तु सुम्नैरिद्धन्यैरेव वो युष्मानाविवासे । सर्वतः परिचरामि ॥ घ्नन्तं । हन्तीति घ्नन् । गमहनेत्यादिनोपधालोपः । हो हन्तेरिति कुत्वे प्रत्ययस्वरः । शपन्तं । शप आक्रोशे । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । वोचे । ब्रूञ् व्यक्तायां वाचि । माङ[?] लुङ[?]टि ब्रुवो वचिः । पा. २-४-५३ । इति वचिः । अस्यतिवक्तीत्यादिना च्लेरङादेशः । वच उमित्युमागमः । न माङ्योगे इत्यडभावः । देवयन्तं । सुप आत्मनः क्यच् । न छन्दस्यपुत्रस्येत्वप्रतिषेधः । सुम्नैः । म्ना अभ्यासे । सुष्ठु म्नायतेऽभ्यस्यते इति सुम्नं । आतश्चोपसर्ग इति कप्रत्ययः । आतो लोप इटि चेत्याकारलोपः । विवासे । विवासतिः परिचरणकर्मा ॥**
 
-*he mitrādayo devā devayantaṃ devān kāmayamānaṃ yajamānaṃ yaḥ śatrur ghnantaṃ tādṛśaṃ śatruṃ vo yuṣmabhyaṃ mā prati voce | duruktakathanabhītyāhaṃ na kathayāmi | tathā yajamānaṃ yaḥ śatruḥ śapati tam api śapantaṃ mā prati voce | bhavadbhir eva vicārya śikṣaṇīya ity arthaḥ | ahaṃ tu sumnair id dhanyair eva vo yuṣmān ā vivāse | sarvataḥ paricarāmi || ghnantaṃ | hantīti ghnan | gamahanety ādinopadhālopaḥ | ho hanter iti kutve pratyayasvaraḥ | śapantaṃ | śapa ākrośe | adupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | voce | brūñ vyaktāyāṃ vāci | māja[?]ḥ luṅ… [?] bruvo vaciḥ | pā. 3-4-53 [?] | iti vaciḥ | asyativaktītyādinā ca cler aṅādeśaḥ | vaca um ity umāgamaḥ | na māṅyoge ity aḍabhāvaḥ | devayantaṃ | supa ātmanaḥ kyac | na chandasy aputrasyety ītvapratiṣedhaḥ | sumnaiḥ | mnā abhyāse | suṣṭhu mnāyate 'bhyasyate iti sumnaṃ | ātaś copasarga iti kapratyayaḥ | āto lopa iṭi cety ākāralopaḥ | vivāse | vivāsatiḥ paricaraṇakarmā ||*
+*he mitrādayo devā devayantaṃ devān kāmayamānaṃ yajamānaṃ yaḥ śatrur hanti ghnantaṃ tādṛśaṃ śatruṃ vo yuṣmabhyaṃ mā prati voce | duruktakathanabhītyāhaṃ na kathayāmi | tathā yajamānaṃ yaḥ śatruḥ śapati tam api śapantaṃ mā prati voce | bhavadbhir eva vicārya śikṣaṇīya ity arthaḥ | ahaṃ tu sumnair id dhanyair eva vo yuṣmān ā vivāse | sarvataḥ paricarāmi || ghnantaṃ | hantīti ghnan | gamahanety ādinopadhālopaḥ | ho hanter iti kutve pratyayasvaraḥ | śapantaṃ | śapa ākrośe | adupadeśāl lasārvadhātukānudāttatve dhātusvaraḥ | voce | brūñ vyaktāyāṃ vāci | māṅ[?] luṅ[?]ṭi bruvo vaciḥ | pā. 2-4-53 | iti vaciḥ | asyativaktītyādinā ca cler aṅādeśaḥ | vaca um ity umāgamaḥ | na māṅyoge ity aḍabhāvaḥ | devayantaṃ | supa ātmanaḥ kyac | na chandasy aputrasyety ītvapratiṣedhaḥ | sumnaiḥ | mnā abhyāse | suṣṭhu mnāyate 'bhyasyate iti sumnaṃ | ātaś copasarga iti kapratyayaḥ | āto lopa iṭi cety ākāralopaḥ | vivāse | vivāsatiḥ paricaraṇakarmā ||*
 
-*(In the bhāṣya's grammatical tail, the stretch printed before the sūtra-name* bruvo vaciḥ *("māja[?]ḥ luṅ…") is crowded and the sūtra number is read with doubt [?].)*
+*(The two words before* bruvo vaciḥ *(read at 700 dpi as ಮಾಙ? ಲುಙ?ಟಿ) are still not settled [?]; the number is clearly 2-4-53.)*
 
-**Translation:** "O Mitra and the other gods, the enemy who *ghnantam*, kills, the sacrificer *devayantam*, who desires the gods — such an enemy [by name] *vaḥ*, to you, *mā prati voce*, I do not tell: out of fear of speaking ill words I do not tell. Likewise the enemy who curses (*śapati*) the sacrificer, that curser *mā prati voce*: [I do not tell; it is meant that] you should yourselves consider and instruct him. *Aham tu*, I, however, *sumnaiḥ it*, with riches alone, *vaḥ*, you, *ā vivāse*, I serve on all sides. *Ghnantam*: '*hanti*'; the loss of the penultimate by *gamahana…*; *ku* by *ho hanteḥ*; accent of the suffix. *Śapantam*: root *śapa ākrośe*; the root accent. *Voce*: root *brūñ vyaktāyāṃ vāci*; *vaci* for *brū* [Pā. 3-4-53 [?]]; *aṅ* for *cli* by *asyativaktī…*; *um* augment for *vac*; no *aṭ* in connection with *mā*. *Devayantam*: *kyac*; the prohibition of *ī* by *na chandasy aputrasya*. *Sumnaiḥ*: root *mnā abhyāse*; '*suṣṭhu mnāyate*'; the suffix *ka* by *ātaś copasarge*; loss of *ā*. *Vivāse*: *vivāsati* is a verb of serving."
+**Translation:** "O Mitra and the other gods, the enemy who kills (*hanti*), *ghnantam*, the sacrificer *devayantam*, who desires the gods — such an enemy [by name] *vaḥ*, to you, *mā prati voce*, I do not tell: out of fear of speaking ill words I do not tell. Likewise the enemy who curses (*śapati*) the sacrificer, that curser *mā prati voce*: [I do not tell; it is meant that] you should yourselves consider and instruct him. *Aham tu*, I, however, *sumnaiḥ it*, with riches alone, *vaḥ*, you, *ā vivāse*, I serve on all sides. *Ghnantam*: '*hanti*'; the loss of the penultimate by *gamahana…*; *ku* by *ho hanteḥ*; accent of the suffix. *Śapantam*: root *śapa ākrośe*; the root accent. *Voce*: root *brūñ vyaktāyāṃ vāci*; *vaci* for *brū* [Pā. 2-4-53]; *aṅ* for *cli* by *asyativaktī…*; *um* augment for *vac*; no *aṭ* in connection with *mā*. *Devayantam*: *kyac*; the prohibition of *ī* by *na chandasy aputrasya*. *Sumnaiḥ*: root *mnā abhyāse*; '*suṣṭhu mnāyate*'; the suffix *ka* by *ātaś copasarge*; loss of *ā*. *Vivāse*: *vivāsati* is a verb of serving."
 
 **Pratipadārtha** *(p. 429)* — "(O Mitra and the other deities,) **devayantam** — the devotee who desires [the help of] the gods; **ghnantam** — the enemy who injures [him] (his name); **mā prati voce** — I do not speak [out of fear of the fault of reviling others]; **śapantam** — the enemy who reviles [the sacrificer]; **mā (prati voce)** — I do not name him; **sumnaiḥ it** — only with riches; **vaḥ** — you; **ā vivāse** — I serve and honour from all sides."
 
@@ -7608,16 +7608,16 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 - **ghnantam** = *hantīti ghnan tam* — "one who injures, kills, harms."
 - **śapantam** — "*śapa ākrośe*: one who reviles, who speaks bad words."
 - **devayantam** = *devān kāmayamānam* — "[the sacrificer] who wishes to praise the gods."
-- **sumnaiḥ** — "*mnā abhyāse*; *suṣṭhu mnāyate 'bhyasyate iti sumnam*; the word *sumnam* is read among the names of happiness (Ni. 3-[?])."
+- **sumnaiḥ** — "*mnā abhyāse*; *suṣṭhu mnāyate 'bhyasyate iti sumnam*; the word *sumnam* is read among the names of happiness (Ni. 3-13)."
 - **vivāse** = *vivāsatiḥ paricaraṇakarmā* — "I shall serve."
 
 **Vyākaraṇa-prakriyā** *(pp. 430–431 — grammar pages, noted briefly)*
-- **ghnantam**: root *han hiṃsāgatyoḥ*, *laṭ*; *laṭaḥ śatṛśānacau…* [Pā. 3-2-124 as read] gives *śatṛ*; *śap* elided; *han + at*; *sārvadhātukam apit*: the *śatṛ* is *ṅit*; *gamahana…* gives loss of the penultimate *a*; *ho hanter ñṇinneṣu* [Pā. 7-3-54 as read] makes *h* into *gh* (*kutva*) because of the *n*; in place of *h*, which is voiced and *mahāprāṇa*, a *gh* of the same kind comes; *ghnat*; accusative singular *am*; *ugidacāṃ sarvanāmasthāne 'dhātoḥ* [Pā. 7-1-70 as read]: the augment *num*; *anusvāra* and *parasavarṇa*.
+- **ghnantam**: root *han hiṃsāgatyoḥ*, *laṭ*; *laṭaḥ śatṛśānacau—* (no number printed) gives *śatṛ*; *śap* elided; *han + at*; *sārvadhātukam apit*: the *śatṛ* is *ṅit*; *gamahana…* gives loss of the penultimate *a*; *ho hanter—* (no number printed) makes *h* into *gh* (*kutva*) because of the *n*; in place of *h*, which is voiced and *mahāprāṇa*, a *gh* of the same kind comes; *ghnat*; accusative singular *am*; *ugidacām—* (no number printed): the augment *num*; *anusvāra* and *parasavarṇa*.
 - **śapantam**: root *śapa ākrośe*, *divādi*; instead of *śyan* the *śap* *vikaraṇa* [by Vedic usage], which is *pit* and unaccented; *tāsyanudāttet…* makes the *śatṛ* unaccented; the rest of the process as before.
-- **voce**: root *brūñ vyaktāyāṃ vāci*, *luṅ*, *ātmanepada*, first person, *iṭ*, *cli*, *luṅ*; *bruvo vaciḥ* [Pā. 2-4-53 as read [?]]: *vaci* for *brū* before an *ārdhadhātuka*; the *i* in *vaci* is for ease of pronunciation; *vac* remains; *asyativakti…* [Pā. 3-1-52 as read [?]]: *aṅ* for *cli* after *as*, *vac* and *khyā*; *vaca um* [Pā. 7-4-20 as read [?]]: the augment *um*: *v + u + c + a + i*; *ād guṇaḥ*; *na māṅyoge* prohibits the augment *aṭ*: *voce*.
+- **voce**: root *brūñ vyaktāyāṃ vāci*, *luṅ*, *ātmanepada*, first person, *iṭ*, *cli*, *luṅ*; *bruvo vaciḥ* (Pā. Sū. 2-4-53): *vaci* for *brū* before an *ārdhadhātuka*; the *i* in *vaci* is for ease of pronunciation; *vac* remains; *asyativakti…* (Pā. Sū. 3-1-52): *aṅ* for *cli* after *as*, *vac* and *khyā*; *vaca um* (Pā. Sū. 7-4-20): the augment *um*: *v + u + c + a + i*; *ād guṇaḥ*; *na māṅyoge* prohibits the augment *aṭ*: *voce*.
 - **devayantam**: *supa ātmanaḥ kyac*; *na chandasy aputrasya* prohibits the *ī* and long vowel; *laṭ*, *śatṛ*.
-- **sumnam**: *mnā abhyāse*, first class; *ātaś copasarge* — आतश्चोपसर्गे — [Pā. 3-1-136 as read]: when a prefix is the *upapada*, the suffix *ka* after a root ending in *ā*; *āto lopa iṭi ca* the loss of *ā*.
-- **vivāse**: "*vivāsatiḥ paricaraṇakarmā*" (Ni. 3-3-10 [as read [?]]): the root has the sense of serving; first-person *iṭ*, *e*. Rik 8 ends here (*|| 8 ||*).
+- **sumnam**: *mnā abhyāse*, first class; *ātaś copasarge* — आतश्चोपसर्गे — (Pā. Sū. 3-1-136): when a prefix is the *upapada*, the suffix *ka* after a root ending in *ā*; *āto lopa iṭi ca* the loss of *ā*.
+- **vivāse**: "*vivāsatiḥ paricaraṇakarmā*" (Niru. 3-5-10): the root has the sense of serving; first-person *iṭ*, *e*. Rik 8 ends here (*|| 8 ||*).
 
 ---
 
