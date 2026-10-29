@@ -2423,13 +2423,15 @@
 
 ### Rik 50.7 (pp. 126–129, PDF 142–145)
 
-**Saṃhitā-pāṭha** *(p. 126; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 126; accents as printed)*
 
-> **वि द्यामेषि रजस्पृथ्वहा मिमानो अक्तुभिः ।**
-> **पश्यञ्जन्मानि सूर्य ॥ ७ ॥**
+> **वि द्यामे॑षि॒ रज॑स्पृ॒थ्वहा॒ मिमा॑नो अ॒क्तुभिः॑ ।**
+> **पश्यञ्जन्मा॑नि सूर्य ॥ ७ ॥**
 
-*vi dyām eṣi rajas pṛthv ahā mimāno aktubhiḥ |*
-*paśyañ janmāni sūrya || 7 ||*
+*ví dyā́m eṣi rájas pṛthv áhā mímāno aktúbhiḥ |*
+*paśyañ jánmāni sūrya || 7 ||*
+
+*[accent ?] line 2: no anudātta is printed under* śya*; the IAST acutes are inferred from the printed marks.*
 
 **Pada-pāṭha** *(p. 126)*
 
@@ -2441,13 +2443,13 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 126–127)*
 
-> **हे सूर्य त्वं पृथु विस्तीर्णं रजो लोकं । लोका रजांस्युच्यन्त इति यास्कः । नि. ४-१९ [?] । कं लोकं । द्यामन्तरिक्षलोकं । व्येषि । विशेषेण गच्छसि । किं कुर्वन् । अहाहान्यक्तुभी रात्रिभिः सह मिमान उत्पादयन् । आदित्यगत्यधीनत्वादहोरात्रविभागस्य । तथा जन्मानि जननवन्ति भूतजातानि पश्यन् प्रकाशयन् ॥ रजस्पृथ्विति [crowded, ?] । छन्दसि वाप्रवेऽडितयोः [?] । पा. ८-३-३९ [?] । इति विसर्जनीयस्य सत्वं । अहा । शेश्छन्दसि बहुलमिति शेर्लोपः । मिमानः । माङ् माने । जौहोत्यादिकः । शानचि श्लौ द्विर्भावे भृञामित्यभ्यासस्येत्वं । श्नाभ्यस्तयोरात इत्याकारलोपः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । जन्मानि । जनी प्रादुर्भावे । अन्येभ्योऽपि दृश्यन्त इति मनिन् । नित्त्वादाद्युदात्तत्वम् ॥**
+> **हे सूर्य त्वं पृथु विस्तीर्णं रजो लोकं । लोका रजांस्युच्यन्त इति यास्कः । नि. ४-१९ । कं लोकं । द्यामन्तरिक्षलोकं । व्येषि । विशेषेण गच्छसि । किं कुर्वन् । अहाहान्यक्तुभी रात्रिभिः सह मिमान उत्पादयन् । आदित्यगत्यधीनत्वादहोरात्रविभागस्य । तथा जन्मानि जननवन्ति भूतजातानि पश्यन् प्रकाशयन् ॥ रजस्पृथ्वित्यत्र छन्दसि वाप्राम्रेडितयोः । पा. ८-३-४९ । इति विसर्जनीयस्य सत्वं । अहा । शेश्छन्दसि बहुलमिति शेर्लोपः । मिमानः । माङ् माने । जौहोत्यादिकः । शानचि श्लौ द्विर्भावे भृञामित्यभ्यासस्येत्वं । श्नाभ्यस्तयोरात इत्याकारलोपः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । जन्मानि । जनी प्रादुर्भावे । अन्येभ्योऽपि दृश्यन्त इति मनिन् । नित्त्वादाद्युदात्तत्वम् ॥**
 
-*he sūrya tvaṃ pṛthu vistīrṇaṃ rajo lokaṃ | lokā rajāṃsy ucyanta iti yāskaḥ | ni. 4-19 [?] | kaṃ lokaṃ | dyām antarikṣalokaṃ | vyeṣi | viśeṣeṇa gacchasi | kiṃ kurvan | ahāhāny aktubhī rātribhiḥ saha mimāna utpādayan | ādityagatyadhīnatvād ahorātravibhāgasya | tathā janmāni jananavanti bhūtajātāni paśyan prakāśayan || rajaspṛthv iti [crowded, ?] | chandasi vāprave 'ḍitayoḥ [?] | pā. 8-3-39 [?] | iti visarjanīyasya satvaṃ | ahā | śeś chandasi bahulam iti śer lopaḥ | mimānaḥ | māṅ māne | jauhotyādikaḥ | śānaci ślau dvirbhāve bhṛñām ity abhyāsasyetvaṃ | śnābhyastayor āta ity ākāralopaḥ | abhyastānām ādir ity ādyudāttatvaṃ | janmāni | janī prādurbhāve | anyebhyo 'pi dṛśyanta iti manin | nittvād ādyudāttatvam ||*
+*he sūrya tvaṃ pṛthu vistīrṇaṃ rajo lokaṃ | lokā rajāṃsy ucyanta iti yāskaḥ | ni. 4-19 | kaṃ lokaṃ | dyām antarikṣalokaṃ | vyeṣi | viśeṣeṇa gacchasi | kiṃ kurvan | ahāhāny aktubhī rātribhiḥ saha mimāna utpādayan | ādityagatyadhīnatvād ahorātravibhāgasya | tathā janmāni jananavanti bhūtajātāni paśyan prakāśayan || rajaspṛthv ity atra chandasi vāprāmreḍitayoḥ | pā. 8-3-49 | iti visarjanīyasya satvaṃ | ahā | śeś chandasi bahulam iti śer lopaḥ | mimānaḥ | māṅ māne | jauhotyādikaḥ | śānaci ślau dvirbhāve bhṛñām ity abhyāsasyetvaṃ | śnābhyastayor āta ity ākāralopaḥ | abhyastānām ādir ity ādyudāttatvaṃ | janmāni | janī prādurbhāve | anyebhyo 'pi dṛśyanta iti manin | nittvād ādyudāttatvam ||*
 
-*(The clause on* rajaspṛthu*'s sandhi — "rajaspṛthv iti … chandasi vāprave 'ḍitayoḥ" — is crowded in the print and given as read [?].)*
+*(Re-read from the print: Ni. 4-19; "rajaspṛthv ity atra chandasi vāprāmreḍitayoḥ", Pā. 8-3-49, runs across pp. 126–127.)*
 
-**Translation:** "O Sūrya, you *pṛthu rajaḥ*, the wide expanse — *rajas* is the world: 'the worlds are called *rajāṃsi*' says Yāska (Ni. 4-19 [?]) — which world? *dyām*, the middle region — *vi eṣi*, you go through specially. Doing what? *Aktubhiḥ ahā mimānaḥ*, producing the days together with the nights, because the division of day and night depends on the Āditya's movement; and *janmāni paśyan*, looking at (illumining) the born beings. *Ahā*: *śi* dropped by *śeś chandasi bahulam*. *Mimānaḥ*: root *māṅ māne*, of the *juhotyādi* class; with *śānac*, *ślu*, doubling, the *i* in the reduplicative syllable by *bhṛñām it*; the *ā* drops by *śnābhyastayor ātaḥ*; the initial acute by *abhyastānām ādiḥ*. *Janmāni*: root *janī prādurbhāve*; *manin* by *anyebhyo 'pi dṛśyante*; initial-acute because *nit*."
+**Translation:** "O Sūrya, you *pṛthu rajaḥ*, the wide expanse — *rajas* is the world: 'the worlds are called *rajāṃsi*' says Yāska (Ni. 4-19) — which world? *dyām*, the middle region — *vi eṣi*, you go through specially. Doing what? *Aktubhiḥ ahā mimānaḥ*, producing the days together with the nights, because the division of day and night depends on the Āditya's movement; and *janmāni paśyan*, looking at (illumining) the born beings. *Rajaspṛthu*: the *s* for the *visarga* by *chandasi vāprāmreḍitayoḥ* (Pā. 8-3-49). *Ahā*: *śi* dropped by *śeś chandasi bahulam*. *Mimānaḥ*: root *māṅ māne*, of the *juhotyādi* class; with *śānac*, *ślu*, doubling, the *i* in the reduplicative syllable by *bhṛñām it*; the *ā* drops by *śnābhyastayor ātaḥ*; the initial acute by *abhyastānām ādiḥ*. *Janmāni*: root *janī prādurbhāve*; *manin* by *anyebhyo 'pi dṛśyante*; initial-acute because *nit*."
 
 **Pratipadārtha** *(p. 127)* — "**sūrya** — O god Sūrya; **tvam** — you; **ahā** — the days; **aktubhiḥ** — with the nights; **mimānaḥ** — producing; (so also) **janmāni** — all beings that have been born; **paśyan** — lighting up; **pṛthu** — wide; **dyām rajaḥ** — in the world of the atmosphere; **vi eṣi** — you move about specially."
 
@@ -2456,9 +2458,9 @@
 **English Translation (the source's own, p. 127)** — "You travel through the vast space of the firmament, measuring days and nights and observing all creatures."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 127**
-- **dyāṃ rajaḥ** — "*rajas* means the wide world of the atmosphere, that is, the world; there is the Nirukta statement '*lokā rajāṃsy ucyante*' (Ni. 4-19 [?])." — **untranslated in the source**:
+- **dyāṃ rajaḥ** — "*rajas* means the wide world of the atmosphere, that is, the world; there is the Nirukta statement '*lokā rajāṃsy ucyante*' (Ni. 4-19)." — **untranslated in the source**:
 
-  > **लोका रजांस्युच्यन्ते ।** *(Ni. 4-19 as read [?])*
+  > **लोका रजांस्युच्यन्ते ।** *(Ni. 4-19)*
 
   *lokā rajāṃsy ucyante |* — mine and tentative: "the worlds are called *rajāṃsi*."
 - **mimānaḥ** — "*māṅ māne*: measuring, that is, dividing day and night evenly. Since the measure of day and night is equal, the root *māṅ* is used here."
@@ -2475,15 +2477,15 @@
 
 **Special Topics, continued (p. 128)** — "Yāska's Nirukta on this ṛk" (**untranslated in the source**; reference not given in the print at this place):
 
-> **व्येषि द्यां रजश्च पृथु महान्तं लोकमहानि च विमानोऽक्तुभी रात्रिभिः सह पश्यञ्जन्मानि जातानि सूर्य ॥** *(Ni. [reference not legible] [?])*
+> **व्येषि द्यां रजश्च पृथु महान्तं लोकमहानि च विमानोऽक्तुभी रात्रिभिः सह पश्यञ्जन्मानि जातानि सूर्य ॥** *(no reference printed)*
 
 *vyeṣi dyāṃ rajaś ca pṛthu mahāntaṃ lokam ahāni ca vimāno 'ktubhī rātribhiḥ saha paśyañ janmāni jātāni sūrya ||* — mine and tentative: "You go through the heaven and the wide, great expanse, the world, and the days, measuring them out with the nights, seeing the born beings, O Sūrya." "There is no difference between the commentator's explanation and Yāska's explanation."
 
 **Vyākaraṇa-prakriyā** *(pp. 128 — grammar page, noted briefly)*
-- **rajaspṛthu**: *rajaḥ pṛthu*; *chandasi vāprāpremyāḍitayoḥ* [? as read: *chandasi vāprapremāḍitayoḥ*] (Pā. 8-3-49 as read [?]) — except for *pra* and a word in *āmreḍita*, in the Chandas the *visarga* optionally becomes *s* before a *ku*- or *pu*-letter; so, since a *p* follows, the *upadhmānīya* is set aside and the *visarga* becomes *s*: *rajaspṛthu*.
-- **ahā**: after *ahan*, the accusative plural *śas*; for a neuter, *śas* → *śi* by *jaśśasoḥ śiḥ*; *śi* has the *sarvanāmasthāna* name, so the penultimate of the *n*-ending *aṅga* is lengthened before it; *ahān + i*; *śeś chandasi bahulam* (Pā. 6-1-70 as read) drops *śi* variously; the *n*-loss by *nalopaḥ prātipadikāntasya* does not come; so *ahā*.
-- **mimānaḥ**: root *māṅ māne*, *juhotyādi*, with an *ñit*-marker, so *ātmanepada*; *laṭaḥ śatṛśānacau* gives *śānac*; *ślu* for the *vikaraṇa*; doubling by *ślau*; *mā + mā + āna*; *bhṛñām it* (Pā. 7-4-76 as read) gives *i* for the reduplicative syllable of *bhṛñ, māṅ, ohāṅ* before *ślu*: *mimā + āna*; *śnābhyastayor ātaḥ* (Pā. 6-4-112 as read) drops the *ā* of the root: *mimāna*; *abhyastānām ādiḥ* (Pā. 6-1-189 as read) gives the initial acute of the *abhyasta* when a vowel-initial *lasārvadhātuka* that is not *iṭ* follows; so here, *śānac* being *lasārvadhātuka*, the root's accent is overridden and the initial is acute; *mimānaḥ* is initial-acute.
-- **janmāni**: root *janī prādurbhāve*, *divādi*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75 as read) gives *manin*; *janman*; accusative plural *śas* → *śi* in the neuter; the penultimate lengthened by *sarvanāmasthāne cāsambuddhau*: *janmāni*; *manin* is *nit*, so initial-acute by *ñnityādir nityam*: *janmāni* is initial-acute. **|| 7 ||**
+- **rajaspṛthu**: *rajaḥ pṛthu*; *chandasi vāprāmreḍitayoḥ* (Pā. 8-3-49) — except for *pra* and a word in *āmreḍita*, in the Chandas the *visarga* optionally becomes *s* before a *ku*- or *pu*-letter; so, since a *p* follows, the *upadhmānīya* is set aside and the *visarga* becomes *s*: *rajaspṛthu*.
+- **ahā**: after *ahan*, the accusative plural *śas*; for a neuter, *śas* → *śi* by *jaśśasoḥ śiḥ*; *śi* has the *sarvanāmasthāna* name, so the penultimate of the *n*-ending *aṅga* is lengthened before it; *ahān + i*; *śeś chandasi bahulam* (Pā. 6-1-70) drops *śi* variously; the *n*-loss by *nalopaḥ prātipadikāntasya* does not come; so *ahā*.
+- **mimānaḥ**: root *māṅ māne*, *juhotyādi*, with an *ñit*-marker, so *ātmanepada*; *laṭaḥ śatṛśānacau* gives *śānac*; *ślu* for the *vikaraṇa*; doubling by *ślau*; *mā + mā + āna*; *bhṛñām it* (Pā. 7-4-76) gives *i* for the reduplicative syllable of *bhṛñ, māṅ, ohāṅ* before *ślu*: *mimā + āna*; *śnābhyastayor ātaḥ* (Pā. 6-4-112) drops the *ā* of the root: *mimāna*; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the initial acute of the *abhyasta* when a vowel-initial *lasārvadhātuka* that is not *iṭ* follows; so here, *śānac* being *lasārvadhātuka*, the root's accent is overridden and the initial is acute; *mimānaḥ* is initial-acute.
+- **janmāni**: root *janī prādurbhāve*, *divādi*; *anyebhyo 'pi dṛśyante* (Pā. 3-2-75) gives *manin*; *janman*; accusative plural *śas* → *śi* in the neuter; the penultimate lengthened by *sarvanāmasthāne cāsambuddhau*: *janmāni*; *manin* is *nit*, so initial-acute by *ñnityādir nityam*: *janmāni* is initial-acute. **|| 7 ||**
 
 ---
 
