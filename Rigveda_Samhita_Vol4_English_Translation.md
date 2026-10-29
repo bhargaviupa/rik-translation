@@ -10578,13 +10578,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.2 (pp. 574–576, PDF 588–590)
 
-**Saṃhitā-pāṭha** *(p. 574; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 574)*
 
-> **या दस्रा सिन्धुमातरा मनोतरा रयीणाम् ।**
-> **धिया देवा वसुविदा ॥ २ ॥**
+> **या द॒स्रा सि॑न्धुमातरा मनो॒तरा॑ रयी॒णाम् ।**
+> **धि॒या दे॒वा व॑सु॒विदा॑ ॥ २ ॥**
 
-*yā dasrā sindhumātarā manotarā rayīṇām |*
-*dhiyā devā vasuvidā || 2 ||*
+*yā dasrā́ sindhumātarā manotárā rayīṇā́m |*
+*dhiyā́ devā́ vasuvídā || 2 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 574)*
 
@@ -10618,13 +10620,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **dasrā** — "*darśanīyau*: beautiful, or destroyers of enemies."
 - **sindhumātarā** — "those whose mother is the sea, that is, sons of the sea. According to some, as the Sun and the Moon are born of the sea, so these Aśvin gods too are born of the sea, and therefore, the commentator says, it is proper to call them sons of the sea. *Sindhu* means the sea. As the word *samudra* also means the atmosphere (*antarikṣa*), one may say that these Aśvin gods were born in the atmosphere."
 - **manotarā** — "*manasā tārayitārau; manasā tarata iti manotarau; dhanānāṃ dātārāv ity arthaḥ*: those who distribute wealth, that is, those who give."
-- **dhiyā** — "*karmaṇā*: by work (Ni. 3-[?] as read)."
+- **dhiyā** — "*karmaṇā*: by work (Ni. 3-1)."
 - **vasuvidā** — "*vasūni nivāsasthānāni vindete iti vasuvidau; nivāsasthānasya lambhayitārau*: those who get dwelling-places for performers of sacrifices and the like."
 
 **Vyākaraṇa-prakriyā** *(pp. 575–576 — grammar pages, noted briefly)*
-- **manotarā**: "*manasā tarata*"; root *tṝ plavanataraṇayoḥ*, the root with *ṇic*-sense included; after it *ṛdor ap* (Pā. 3-3-57 as read [?]) — ऋदोरप् — the suffix *ap* after a root ending in *ṛ* or *u* in the abstract sense or for a non-agent *kāraka*; *guṇa* with *raparatva*. *Sasajuṣo ruḥ* (Pā. 8-2-66 as read) gives *ru* for the final *s* of *manas* at the end of a *pada* (*manar + tara*). The Kannada author then notes that *ru* is followed by a *ta*, not by an *a*, so *ato ror aplutād aplute* (Pā. 6-1-113) and *haśi ca* (Pā. 6-1-114) cannot give *u*; hence the *u* for *ru* is Vedic; *mana + u + tara*; *ād guṇaḥ* (Pā. 6-1-87 as read); in the dual, *ḍā* for *au* by *supāṃ suluk…* (Pā. 7-1-39 as read).
-- **rayīṇām**: *nāmanyatarasyām* (Pā. 6-1-177 as read) — नामन्यतरस्याम् — after a word that ends in an acute and whose short vowel (that stood before *matup*) …, *nām* is optionally acute; the example given is *rayimān*, where the short *i* stands before *matup* and the word ends in an acute; hence *nām* is acute.
-- **dhiyā**: *sāvekācas tṛtīyādir vibhaktiḥ* (Pā. 6-1-168 as read) — साबेकाचस्तृतीयादिर्विभक्तिः — [as I read the print, "*sāvekācaś…*"] the instrumental ending is acute.
+- **manotarā**: "*manasā tarata*"; root *tṝ plavanataraṇayoḥ*, the root with *ṇic*-sense included; after it *ṛdor ap* (Pā. Sū. 3-3-57) — ऋदोरप् — the suffix *ap* after a root ending in *ṛ* or *u* in the abstract sense or for a non-agent *kāraka*; *guṇa* with *raparatva*. *Sasajuṣo ruḥ* (Pā. Sū. 8-2-66) gives *ru* for the final *s* of *manas* at the end of a *pada* (*manar + tara*). The Kannada author then notes that *ru* is followed by a *ta*, not by an *a*, so *ato ror aplutād aplute* and *haśi ca* cannot give *u*; hence the *u* for *ru* is Vedic; *mana + u + tara*; *ād guṇaḥ*; in the dual, *ḍā* for *au* by *supāṃ suluk…*.
+- **rayīṇām**: *nāmanyatarasyām* (Pā. Sū. 6-1-177) — नामन्यतरस्याम् — after a word that ends in an acute and whose short vowel (that stood before *matup*) …, *nām* is optionally acute; the example given is *rayimān*, where the short *i* stands before *matup* and the word ends in an acute; hence *nām* is acute.
+- **dhiyā**: *sāvekācas tṛtīyādir vibhaktiḥ* (Pā. Sū. 6-1-168) — सावेकाचस्तृतीयादिर्विभक्तिः — the instrumental ending is acute.
 - **vasuvidā**: "*vasūni* = dwellings *vindete* = obtain"; *vasuvidau*; root *vidḷ lābhe*, *kvip* by *kvip ca*. **|| 2 ||**
 
 ---
