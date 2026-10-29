@@ -9844,15 +9844,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 *(Varga numerals 33, 34, 35 confirmed on the better scan, PDF 587; "sūktadalliruva ṛksaṃkhyai" is Kannada for "number of ṛks in the sūkta", left in its Kannada form as in earlier sūktas.)*
 
-### Rik 46.1 (pp. 572–573, PDF 586–587)
+### Rik 46.1 (pp. 572–573, PDF 586–587; better scan PDF 587–588)
 
-**Saṃhitā-pāṭha** *(p. 572; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 572)*
 
-> **एषो उषा अपूर्व्या व्युच्छति प्रिया दिवः ।**
-> **स्तुषे वामश्विना बृहत् ॥ १ ॥**
+> **ए॒षो उ॒षा अपू॑र्व्या॒ व्यु॑च्छति प्रि॒या दि॒वः ।**
+> **स्तु॒षे वा॑मश्विना बृ॒हत् ॥ १ ॥** [accent ?]
 
-*eṣo uṣā apūrvyā vyucchati priyā divaḥ |*
-*stuṣe vām aśvinā bṛhat || 1 ||*
+*eṣó uṣā́ ápūrvyā vyucchati priyā́ diváḥ |*
+*stuṣé vām aśvinā bṛhát || 1 ||* [accent ?]
+
+*(Saṃhitā accents as printed; Pada unaccented. [accent ?]: the svarita stroke in line 2 stands at the joint of* ṣe *and* vā*; read as* vā*.)*
 
 **Pada-pāṭha** *(p. 572)*
 
@@ -9864,13 +9866,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(pp. 572–573)*
 
-> **एषो एषैवास्माभिः परिदृश्यमाना प्रिया सर्वेषां प्रीतिहेतुरपूर्व्यापूर्वेषु मध्यरात्रादिकालेषु विद्यमाना न भवति किन्त्विदानींतन्युषा उषोदेवता दिवो द्युलोकस्य सकाशादागत्य । व्युच्छति । तमो वर्जयति । हे अश्विनौ वां युवां बृहत्प्रभूतं [?] यथा भवति तथा स्तुषे । स्तौमि ॥ स्तुषे । ष्टुञ् स्तुतौ । तिङां तिङो भवन्तीत्यत्रोत्तमैकवचनस्य [?] मध्यमैकवचनादेशः । यद्वा । लेट्युत्तमैकवचने सिब्बहुलं लेटीति सिप् ॥**
+> **एषो एषैवास्माभिः परिदृश्यमाना प्रिया सर्वेषां प्रीतिहेतुरपूर्व्यापूर्वेषु मध्यरात्रादिकालेषु विद्यमाना न भवति किन्त्विदानींतन्युषा उषोदेवता दिवो द्युलोकस्य सकाशादागत्य । व्युच्छति । तमो वर्जयति । हे अश्विनौ वां युवां बृहत्प्रभूतं यथा भवति तथा स्तुषे । स्तौमि ॥ स्तुषे । ष्टुञ् स्तुतौ । तिङां तिङो भवन्तीत्युत्तमैकवचनस्य मध्यमैकवचनादेशः । यद्वा । लेट्युत्तमैकवचने सिब्बहुलं लेटीति सिप् ॥**
 
-*eṣo eṣaivāsmābhiḥ paridṛśyamānā priyā sarveṣāṃ prītihetur apūrvyāpūrveṣu madhyarātrādikāleṣu vidyamānā na bhavati kintv idānīṃtanyuṣā uṣodevatā divo dyulokasya sakāśād āgatya | vyucchati | tamo varjayati | he aśvinau vāṃ yuvāṃ bṛhatprabhūtaṃ [?] yathā bhavati tathā stuṣe | staumi || stuṣe | ṣṭuñ stutau | tiṅāṃ tiṅo bhavantīty atrottamaikavacanasya [?] madhyamaikavacanādeśaḥ | yadvā | leṭy uttamaikavacane sibbahulaṃ leṭīti sip ||*
+*eṣo eṣaivāsmābhiḥ paridṛśyamānā priyā sarveṣāṃ prītihetur apūrvyāpūrveṣu madhyarātrādikāleṣu vidyamānā na bhavati kintv idānīṃtanyuṣā uṣodevatā divo dyulokasya sakāśād āgatya | vyucchati | tamo varjayati | he aśvinau vāṃ yuvāṃ bṛhatprabhūtaṃ yathā bhavati tathā stuṣe | staumi || stuṣe | ṣṭuñ stutau | tiṅāṃ tiṅo bhavantīty uttamaikavacanasya madhyamaikavacanādeśaḥ | yadvā | leṭy uttamaikavacane sibbahulaṃ leṭīti sip ||*
 
-*(Two words are crowded: "bṛhatprabhūtam" and the first word of the grammatical tail's "…aikavacanasya"; both [?].)*
+*(Checked on the better scan, PDF 587–588: "bṛhat prabhūtaṃ", "ity uttamaikavacanasya"; the bhāṣya ends "॥" without a number.)*
 
 **Translation:** "*Eṣo uṣāḥ*: this very Uṣas, seen by us, *priyā*, the cause of joy to all, *apūrvyā*, not present in the earlier times such as midnight but the present Uṣas, the goddess Uṣas, having come *divaḥ*, from the heavenly world, *vyucchati*, drives off the darkness. O Aśvins, *vām*, you two — *stuṣe*, I praise (you), *bṛhat*, in a great (abundant) way. *Stuṣe*: root *ṣṭuñ stutau*; by the rule that the person-endings replace one another, the first-person singular is replaced by the second-person singular; or, in the *leṭ*, in the first-person singular, *sip* comes by *sibbahulaṃ leṭi*."
+
+### Page 573
 
 **Pratipadārtha** *(p. 573)* — "**priyā** — the cause of joy (to all); **apūrvyā** — manifest only now, not before this (all night); **eṣo uṣāḥ** — this goddess Uṣas who is seen by our eyes; **divaḥ** — from the sky (coming); **vyucchati** — drives away the darkness; **aśvinā** — O Aśvin gods; **vām** — you; **bṛhat** — exceedingly; **stuṣe** — I praise."
 
@@ -9883,7 +9887,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - "In this sūkta the ṛṣi, aiming at the Aśvin deities who are to be prayed to in the morning, describes the time of Uṣas as their forerunner."
 
 **Vyākaraṇa-prakriyā** *(p. 573 — grammar page, noted briefly)*
-- **stuṣe**: root *ṣṭuñ stutau*; by "*tiṅāṃ tiṅo bhavanti*" (as printed, a general maxim of exchange of person-endings), the first-person singular *iṭ* is replaced by the second-person singular *thās*, which becomes *se*; *stu + se*, *ṣatva*. Or: the first-person singular *iṭ* of *leṭ*; *ṭita ātmanepadānāṃ ṭer e* (Pā. 3-4-79 as read [?]) gives the *e*; *sip* by *sibbahulaṃ leṭi* (Pā. 3-1-34 as read [?]); *stuṣe*. **|| 1 ||**
+- **stuṣe**: root *ṣṭuñ stutau*; by "*tiṅāṃ tiṅo bhavanti*" (as printed, a general maxim of exchange of person-endings), the first-person singular *iṭ* is replaced by the second-person singular *thās*, which becomes *se*; *stu + se*, *ṣatva*. Or: the first-person singular *iṭ* of *leṭ*; *ṭita ātmanepadānāṃ ṭer e* (no number printed) gives the *e*; *sip* by *sibbahulaṃ leṭi* (printed "Pā. Sū. 3-4-34" [as printed; for 3-1-34]); *stuṣe*. **|| 1 ||**
 
 ---
 
