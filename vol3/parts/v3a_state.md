@@ -5,6 +5,7 @@ Branch: claude/numerals-vol3-a. Edits log: vol3/review/edits_v3a.txt.
 
 Done through: Ṛk 26.9 (p. 370 = PDF 384).
 Next unit: Ṛk 26.10, end of Sūkta 26 (pp. 370–373 = PDF 384–387).
+PAUSED (coordinator, Oct 29 ~04:40 UTC): Ṛk 26.10 was viewed but nothing written for it; resume by redoing Ṛk 26.10 from the print (Saṃhitā starts at the foot of p. 370), then Sūkta 27.
 
 Open items:
 - p. 290: printed count "ಹನ್ನೆಂದು" (Ni. 3-9 note) kept as printed, probably ಹನ್ನೊಂದು.
