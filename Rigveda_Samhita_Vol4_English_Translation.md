@@ -5340,12 +5340,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 38.3 (pp. 298–300, PDF 312–314)
+### Rik 38.3 (pp. 298–300, PDF 313–315)
 
-**Saṃhitā-pāṭha** *(p. 298; accents not reproduced. The word* kvo *is followed in the print by a sign shaped like a Kannada "3", in both Saṃhitā and Pada; I have not resolved it, see note below)*
+**Saṃhitā-pāṭha** *(p. 298 = PDF 313 of the better scan; Saṃhitā accents as printed; Pada unaccented. The word* kvo *is followed in the print by the numeral ३ (the pluti sign), which carries both an underline and a stroke, see note below)*
 
-> **क्व वः सुम्ना नव्यांसि मरुतः क्व सुविता ।**
-> **क्वो ३ विश्वानि सौभगा ॥ ३ ॥**
+> **क्व॑ वः सु॒म्ना नव्यां॑सि॒ मरु॑तः॒ क्व॑ सुवि॒ता ।**
+> **क्वो॒ ३॒॑ विश्वा॑नि॒ सौभ॑गा ॥ ३ ॥**
 
 *kva vaḥ sumnā navyāṃsi marutaḥ kva suvitā |*
 *kvo [3] viśvāni saubhagā || 3 ||*
@@ -5358,15 +5358,15 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 *kva | vaḥ | sumnā | navyāṃsi | marutaḥ | kva | suvitā |*
 *kvo iti [3] | viśvāni | saubhagā || 3 ||*
 
-*(Note: I checked this line on a 300-dpi slice. The sign after* kvo *looks like the numeral 3 (a pluti mark?) in the Saṃhitā and again after* kvo iti *in the Pada. I do not read it as* ṣu *and do not decide it; the bhāṣya below glosses only* kvo*.)*
+*(Note: the sign after* kvo *is the numeral ३, the pluti (prolongation) sign, in the Saṃhitā (where it bears an underline and a stroke, read on a 450-dpi crop) and again after* kvo iti *in the Pada; the bhāṣya below glosses only* kvo*.)*
 
 **Sāyaṇa-bhāṣya** *(p. 299)*
 
-> **हे मरुतो वो युष्माकं सम्बन्धीनि नव्यांसि नवतराणि सुम्ना प्रजापशुरूपाणि धनानि । प्रजा वै पशवः सुम्नं । तै. सं. ३-४-६-६ [?] । इति श्रुत्यन्तरात् । क्व कुत्र वर्तन्ते । तथा सुविता शोभनानि प्राप्याणि मणिमुक्तादीनि भवदीयानि क्व कुत्र वर्तन्ते । विश्वानि सर्वाणि सौभगा सौभाग्यरूपाणि गजाश्वादीनि क्वो कुत्र वा वर्तन्ते । भवदीयैः सुम्नादिभिः सर्वैः सहागन्तव्यमित्यर्थः ॥ सुम्ना । शेश्छन्दसि बहुलमिति शेर्लोपः । नव्यांसि । नवशब्दादीयसुनीकारलोपश्छान्दसः । सुविता । सुष्ठु इतानि सुवितानि । तन्नादीनां [?] छन्दसि बहुलमुपसंख्यानं । पा. ६-४-२२१ [?] । इत्युवजादेशः । सौभगा । सुभगान्मन्त्र इति तस्य भाव इत्यर्थेऽञ् । पूर्ववच्छेर्लोपः ॥**
+> **हे मरुतो वो युष्माकं सम्बन्धीनि नव्यांसि नवतराणि सुम्ना प्रजापशुरूपाणि धनानि । प्रजा वै पशवः सुम्नं । तै. सं. ५-४-६-६ । इति श्रुत्यन्तरात् । क्व कुत्र वर्तन्ते । तथा सुविता शोभनानि प्राप्याणि मणिमुक्तादीनि भवदीयानि क्व कुत्र वर्तन्ते । विश्वानि सर्वाणि सौभगा सौभाग्यरूपाणि गजाश्वादीनि क्वो कुत्र वा वर्तन्ते । भवदीयैः सुम्नादिभिः सर्वैः सहागन्तव्यमित्यर्थः ॥ सुम्ना । शेश्छन्दसि बहुलमिति शेर्लोपः । नव्यांसि । नवशब्दादीयसुनीकारलोपश्छान्दसः । सुविता । सुष्ठु इतानि सुवितानि । तन्वादीनां छन्दसि बहुलमुपसंख्यानं । पा. ६-४-७७-१ । इत्युवजादेशः । सौभगा । सुभगान्मन्त्र इति तस्य भाव इत्यर्थेऽञ् । पूर्ववच्छेर्लोपः ॥**
 
-*he maruto vo yuṣmākaṃ sambandhīni navyāṃsi navatarāṇi sumnā prajāpaśurūpāṇi dhanāni | prajā vai paśavaḥ sumnaṃ | tai. saṃ. 3-4-6-6 [?] | iti śrutyantarāt | kva kutra vartante | tathā suvitā śobhanāni prāpyāṇi maṇimuktādīni bhavadīyāni kva kutra vartante | viśvāni sarvāṇi saubhagā saubhāgyarūpāṇi gajāśvādīni kvo kutra vā vartante | bhavadīyaiḥ sumnādibhiḥ sarvaiḥ sahāgantavyam ity arthaḥ || sumnā | śeś chandasi bahulam iti śer lopaḥ | navyāṃsi | navaśabdād īyasunīkāralopaś chāndasaḥ | suvitā | suṣṭhu itāni suvitāni | tannādīnāṃ [?] chandasi bahulam upasaṃkhyānaṃ | pā. 6-4-221 [?] | ity uvajādeśaḥ | saubhagā | subhagān mantra iti tasya bhāva ity arthe 'ñ | pūrvavac cher lopaḥ ||*
+*he maruto vo yuṣmākaṃ sambandhīni navyāṃsi navatarāṇi sumnā prajāpaśurūpāṇi dhanāni | prajā vai paśavaḥ sumnaṃ | tai. saṃ. 5-4-6-6 | iti śrutyantarāt | kva kutra vartante | tathā suvitā śobhanāni prāpyāṇi maṇimuktādīni bhavadīyāni kva kutra vartante | viśvāni sarvāṇi saubhagā saubhāgyarūpāṇi gajāśvādīni kvo kutra vā vartante | bhavadīyaiḥ sumnādibhiḥ sarvaiḥ sahāgantavyam ity arthaḥ || sumnā | śeś chandasi bahulam iti śer lopaḥ | navyāṃsi | navaśabdād īyasunīkāralopaś chāndasaḥ | suvitā | suṣṭhu itāni suvitāni | tanvādīnāṃ chandasi bahulam upasaṃkhyānaṃ | pā. 6-4-77-1 | ity uvajādeśaḥ | saubhagā | subhagān mantra iti tasya bhāva ity arthe 'ñ | pūrvavac cher lopaḥ ||*
 
-**Translation:** "O Maruts, *vaḥ* — yours: *navyāṃsi*, newer ones; *sumnā* — riches in the form of progeny and cattle. 'Progeny and cattle indeed are *sumna*' (Tai. Saṃ. 3-4-6-6 [?]), from another Śruti. *Kva* — where do they exist? Likewise *suvitā* — fine things to be had, jewels, pearls and the like, belonging to you: *kva*, where do they exist? *Viśvāni* — all; *saubhagā* — [things] of the nature of good fortune, elephants, horses and the like: *kvo*, where do they exist? The sense: [you] are to come together with all your riches, *sumna* and the rest. *Sumnā*: by *śeś chandasi bahulam* the loss of *śi*. *Navyāṃsi*: from the word *nava*, [the suffix] *īyasun*, and the loss of the *a* is Vedic. *Suvitā*: *suṣṭhu itāni*, 'well gone-to'; by the supplementary rule *tannādīnāṃ* [as printed; the grammar page reads *tanvādīnām*] *chandasi bahulam*, the substitute *uvaṅ* [Pā. 6-4-221 [?], as read]. *Saubhagā*: from *subhaga*, by *mantra*… the suffix *añ* in the sense 'its state'; the loss of *śi* as before."
+**Translation:** "O Maruts, *vaḥ* — yours: *navyāṃsi*, newer ones; *sumnā* — riches in the form of progeny and cattle. 'Progeny and cattle indeed are *sumna*' (Tai. Saṃ. 5-4-6-6), from another Śruti. *Kva* — where do they exist? Likewise *suvitā* — fine things to be had, jewels, pearls and the like, belonging to you: *kva*, where do they exist? *Viśvāni* — all; *saubhagā* — [things] of the nature of good fortune, elephants, horses and the like: *kvo*, where do they exist? The sense: [you] are to come together with all your riches, *sumna* and the rest. *Sumnā*: by *śeś chandasi bahulam* the loss of *śi*. *Navyāṃsi*: from the word *nava*, [the suffix] *īyasun*, and the loss of the *a* is Vedic. *Suvitā*: *suṣṭhu itāni*, 'well gone-to'; by the supplementary rule *tanvādīnāṃ chandasi bahulam*, the substitute *uvaṅ* (Pā. 6-4-77-1, i.e. the vārttika on 6-4-77). *Saubhagā*: from *subhaga*, by *mantra*… the suffix *añ* in the sense 'its state'; the loss of *śi* as before."
 
 **Pratipadārtha** *(p. 299)* — "**marutaḥ** — O Maruts; **vaḥ** — your (own); **navyāṃsi** — many new; **sumnā** — riches in the form of progeny and cattle; **kva** — where? **suvitā** — your priceless possessions such as diamonds and cat's-eye gems [*vajra-vaidūrya*]; **kva** — where? **viśvāni** — all; **saubhagā** — your auspicious riches such as elephants and horses; **kvo** — where are they? (Come to our place of sacrifice with all [your] riches.)"
 
@@ -5376,15 +5376,15 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 299–300**
 - **navyāṃsi** = *navatarāṇi, navīyāṃsi* — "newer ones."
-- **sumnā** = *sumnāni* — "possessions such as progeny and cattle." *Prajā vai paśavaḥ sumnam* — "that is: sons, grandsons and other offspring, that is, people, and cattle such as cows and buffaloes, are called riches: there is a śruti sentence [Tai. Saṃ. 3-4-6-6 [?]]. Even in these days, people who are not townsfolk reckon their standing and honour in society, and their wealth and the like, by the wealth of cattle they have — cows, sheep, goats, horses and so on."
+- **sumnā** = *sumnāni* — "possessions such as progeny and cattle." *Prajā vai paśavaḥ sumnam* — "that is: sons, grandsons and other offspring, that is, people, and cattle such as cows and buffaloes, are called riches: there is a śruti sentence (Tai. Saṃ. 5-4-6-6). Even in these days, people who are not townsfolk reckon their standing and honour in society, and their wealth and the like, by the wealth of cattle they have — cows, sheep, goats, horses and so on."
 - **suvitā** = *śobhanāni prāpyāṇi maṇimuktādīni* — "priceless things that everyone greatly desires."
 - **saubhagā** — "good fortunes: wealth such as elephants and horses."
 
 **Vyākaraṇa-prakriyā** *(p. 300 — grammar page, noted briefly)*
-- **sumnā**: *śeś chandasi bahulam* — शेश्छन्दसि बहुलम् — [Pā. 6-1-70 as read [?]]: the *ś*-suffix [the *śi* ending] is elided, so *sumnā* is there for *sumnāni*, with the long *ā*.
-- **navyāṃsi**: after *nava*, *dvivacanavibhajyopapade tarabīyasunau* — द्विवचनविभज्योपपदे तरबीयसुनौ — [Pā. 5-3-57 as read [?]] gives *īyasun*; by *yasyeti ca* the loss of the *a* of *nava*; the loss of the ending is Vedic.
-- **suvitā**: *suṣṭhu itāni*; in the sūtra *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* the vārttika *tanvādīnāṃ chandasi bahulam upasaṃkhyānam* — तन्वादीनां छन्दसि बहुलमुपसङ्ख्यानम् — is read: in the section that lays down *uvaṅ*, *iyaṅ* and *uvaṅ* come variously in the Veda for words beginning with *tanu*; by this, for the prefix *su*, *uvaṅ*: *suvitāni*; the loss of *śi* as before. *(Here the print reads* tanvādīnām*, where the bhāṣya reads* tannādīnām*: the bhāṣya spelling is probably a misprint.)*
-- **saubhagā**: *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — [Pā. 5-1-129 as read [?]]: in the *udgātrādi* group of that sūtra the words *subhaga* and *mantra* are read; so after *subhaga* in the abstract sense *añ*; *ādivṛddhi*; the loss of *śi* as before. Rik 3 ends here (*|| 3 ||*).
+- **sumnā**: *śeś chandasi bahulam* — शेश्छन्दसि बहुलम् — (Pā. Sū. 6-1-70): the *ś*-suffix [the *śi* ending] is elided, so *sumnā* is there for *sumnāni*, with the long *ā*.
+- **navyāṃsi**: after *nava*, *dvivacanavibhajyopapade tarabīyasunau* — द्विवचनविभज्योपपदे तरबीयसुनौ — (Pā. Sū. 5-3-57) gives *īyasun*; by *yasyeti ca* the loss of the *a* of *nava*; the loss of the ending is Vedic.
+- **suvitā**: *suṣṭhu itāni*; in the sūtra *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* the vārttika *tanvādīnāṃ chandasi bahulam upasaṃkhyānam* — तन्वादीनां छन्दसि बहुलमुपसङ्ख्यानम् — is read: in the section that lays down *uvaṅ*, *iyaṅ* and *uvaṅ* come variously in the Veda for words beginning with *tanu*; by this, for the prefix *su*, *uvaṅ*: *suvitāni*; the loss of *śi* as before.
+- **saubhagā**: *prāṇabhṛjjātivayovacanodgātrādibhyo 'ñ* — प्राणभृज्जातिवयोवचनोद्गात्रादिभ्योऽञ् — (Pā. Sū. 5-1-129): in the *udgātrādi* group of that sūtra the words *subhaga* and *mantra* are read; so after *subhaga* in the abstract sense *añ*; *ādivṛddhi*; the loss of *śi* as before. Rik 3 ends here (*|| 3 ||*).
 
 ---
 
