@@ -11042,13 +11042,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.11 (pp. 597–599, PDF 611–613)
 
-**Saṃhitā-pāṭha** *(p. 597; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 597)*
 
-> **अभूदु पारमेतवे पन्था ऋतस्य साधुया ।**
-> **अदर्शि वि स्रुतिर्दिवः ॥ ११ ॥**
+> **अभू॑दु पा॒रमेत॑वे॒ पन्था॑ ऋ॒तस्य॑ साधु॒या ।**
+> **अद॑र्शि वि स्रुतिर्दिवः ॥ ११ ॥**
 
-*abhūd u pāram etave panthā ṛtasya sādhuyā |*
-*adarśi vi srutir divaḥ || 11 ||*
+*ábhūd u pārám étave pánthā ṛtásya sādhuyā́ |*
+*ádarśi vi srutir divaḥ || 11 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 597)*
 
@@ -11060,9 +11062,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 598)*
 
-> **ऋतस्य सूर्यस्य पारमेतवे रात्रेः पारभूतमुदयाद्रिं गन्तुं पन्था मार्गः साधुया समीचीनोऽभूदु । निष्पन्न एव । दिवो द्योतनात्मकस्य सूर्यस्य स्रुतिः प्रसृता दीप्तिर्व्यदर्शि । विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यं ॥ एतवे । इण् गतौ । तुमर्थे सेसेनिति तवेन्प्रत्ययः । साधुया । सुपां सुलुगिति विभक्तेर्याजादेशः । अदर्शि । कर्मणि लुङ् । च्लेश्चिणादेशः । चिणो लुक् । पा. ६-४-१०४ [?] । इति तशब्दस्य लुक् । स्रुतिः । स्रु गतौ । क्तिच्क्तौ च संज्ञायामिति क्तिच् ॥**
+> **ऋतस्य सूर्यस्य पारमेतवे रात्रेः पारभूतमुदयाद्रिं गन्तुं पन्था मार्गः साधुया समीचीनोऽभूदु । निष्पन्न एव । दिवो द्योतनात्मकस्य सूर्यस्य स्रुतिः प्रसृता दीप्तिर्व्यदर्शि । विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यं ॥ एतवे । इण् गतौ । तुमर्थे सेसेनिति तवेन्प्रत्ययः । साधुया । सुपां सुलुगिति विभक्तेर्याजादेशः । अदर्शि । कर्मणि लुङ् । च्लेश्चिणादेशः । चिणो लुक् । पा. ६-४-१०४ । इति तशब्दस्य लुक् । स्रुतिः । स्रु गतौ । क्तिच्क्तौ च संज्ञायामिति क्तिच् ॥**
 
-*ṛtasya sūryasya pārametave rātreḥ pārabhūtam udayādriṃ gantuṃ panthā mārgaḥ sādhuyā samīcīno 'bhūd u | niṣpanna eva | divo dyotanātmakasya sūryasya srutiḥ prasṛtā dīptir vyadarśi | viśeṣeṇa dṛṣṭā | tasmād aśvinau yuvābhyām āgantavyaṃ || etave | iṇ gatau | tumarthe sesen iti tavenpratyayaḥ | sādhuyā | supāṃ suluk iti vibhakter yājādeśaḥ | adarśi | karmaṇi luṅ | cleś ciṇādeśaḥ | ciṇo luk | pā. 6-4-104 [?] | iti taśabdasya luk | srutiḥ | sru gatau | ktickktau ca saṃjñāyām iti ktic ||*
+*ṛtasya sūryasya pārametave rātreḥ pārabhūtam udayādriṃ gantuṃ panthā mārgaḥ sādhuyā samīcīno 'bhūd u | niṣpanna eva | divo dyotanātmakasya sūryasya srutiḥ prasṛtā dīptir vyadarśi | viśeṣeṇa dṛṣṭā | tasmād aśvinau yuvābhyām āgantavyaṃ || etave | iṇ gatau | tumarthe sesen iti tavenpratyayaḥ | sādhuyā | supāṃ suluk iti vibhakter yājādeśaḥ | adarśi | karmaṇi luṅ | cleś ciṇādeśaḥ | ciṇo luk | pā. 6-4-104 | iti taśabdasya luk | srutiḥ | sru gatau | ktickktau ca saṃjñāyām iti ktic ||*
 
 **Translation:** "*Ṛtasya*, for the Sun *pāram etave*, to go to the far side — to the mountain of rising which lies beyond the night — *panthāḥ*, the path, the road, *sādhuyā*, has become proper, fit; it is just ready. *Divaḥ srutiḥ*, the spreading radiance of the Sun, whose nature is to shine, *vyadarśi*, has been specially seen. Therefore you, Aśvins, are to come. *Etave*: root *iṇ gatau*; the suffix *tavenū* by *tumarthe sesen…*. *Sādhuyā*: *yāc* for the case-ending by *supāṃ suluk*. *Adarśi*: passive aorist; *ciṇ* for *cli*; the *luk* of *ciṇ* drops the *ta*. *Srutiḥ*: root *sru gatau*; *ktic* by *ktic ktau ca saṃjñāyām*."
 
