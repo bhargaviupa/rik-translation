@@ -8618,13 +8618,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 43.7 (pp. 485–487, PDF 499–501)
 
-**Saṃhitā-pāṭha** *(p. 485 foot; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 485 foot; Saṃhitā accents as printed; Pada unaccented.)*
 
-> **अस्मे सोम श्रियमधि नि धेहि शतस्य नृणाम् ।**
-> **महि श्रवस्तुविनृम्णम् ॥ ७ ॥**
+> **अ॒स्मे सो॑म॒ श्रिय॒मधि॒ नि धे॑हि श॒तस्य॑ नृ॒णाम् ।**
+> **महि॒ श्रव॑स्तुविनृ॒म्णम् ॥ ७ ॥**
 
-*asme soma śriyam adhi ni dhehi śatasya nṛṇām |*
-*mahi śravas tuvinṛmṇam || 7 ||*
+*asmé soma śríyam ádhi ní dhehi śatásya nṛṇā́m |*
+*máhi śrávas tuvinṛmṇám || 7 ||*
 
 **Pada-pāṭha** *(p. 486)*
 
@@ -8636,9 +8636,9 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 486)*
 
-> **हे सोम देव नृणां पुरुषाणां शतस्य पर्याप्तां श्रियमस्मे अस्मास्वधि नि धेहि । आधिक्येन स्थापय । तथा महि महत् तुविनृम्णं प्रभूतबलयुक्तं श्रवोऽन्नमस्मास्वधि नि धेहि ॥ अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः । नृणां । नृ च । पा. ६-४-६ । इति दीर्घप्रतिषेधः । नामन्यतरस्यामिति नाम उदात्तत्वं । महीत्यादयो गताः ॥ ७ ॥**
+> **हे सोम देव नृणां पुरुषाणां शतस्य पर्याप्तां श्रियमस्मे अस्मास्वधि नि धेहि । आधिक्येन स्थापय । तथा महि महत् तुविनृम्णं प्रभूतबलयुक्तं श्रवोऽन्नमस्मास्वधि नि धेहि ॥ अस्मे । सुपां सुलुगिति सप्तम्याः शे आदेशः । नृणां । नृ च । पा. ६-४-६ । इति दीर्घप्रतिषेधः । नामन्यतरस्यामिति नाम उदात्तत्वं । महीत्यादयो गताः ॥**
 
-*he soma deva nṛṇāṃ puruṣāṇāṃ śatasya paryāptāṃ śriyam asme asmāsv adhi ni dhehi | ādhikyena sthāpaya | tathā mahi mahat tuvinṛmṇaṃ prabhūtabalayuktaṃ śravo 'nnam asmāsv adhi ni dhehi || asme | supāṃ sulug iti saptamyāḥ śe ādeśaḥ | nṛṇāṃ | nṛ ca | pā. 6-4-6 | iti dīrghapratiṣedhaḥ | nām anyatarasyām iti nām udāttatvaṃ | mahīty ādayo gatāḥ || 7 ||*
+*he soma deva nṛṇāṃ puruṣāṇāṃ śatasya paryāptāṃ śriyam asme asmāsv adhi ni dhehi | ādhikyena sthāpaya | tathā mahi mahat tuvinṛmṇaṃ prabhūtabalayuktaṃ śravo 'nnam asmāsv adhi ni dhehi || asme | supāṃ sulug iti saptamyāḥ śe ādeśaḥ | nṛṇāṃ | nṛ ca | pā. 6-4-6 | iti dīrghapratiṣedhaḥ | nām anyatarasyām iti nām udāttatvaṃ | mahīty ādayo gatāḥ ||*
 
 **Translation:** "O god Soma, *śriyam*, prosperity that is sufficient *śatasya nṛṇām*, for a hundred men, *asme*, in us, *adhi ni dhehi*, place in excess. Likewise *mahi*, great, *tuvinṛmṇam*, endowed with abundant strength, *śravaḥ*, food, *adhi ni dhehi*, place upon us. *Asme*: *śe* as the substitute for the locative by *supāṃ sulug…*. *Nṛṇām*: the prohibition of lengthening by *nṛ ca* [Pā. 6-4-6]; the *nām* is optionally acute by *nām anyatarasyām*. *Mahi* and the rest have been explained."
 
@@ -8652,12 +8652,12 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **adhi śatasya nṛṇāṃ śriyam** — "wealth greater than what a hundred men should have."
 - **asme nidhehi** = *asmāsu sthāpaya* — "place in us, that is, give to us."
 - **mahi** = *mahat* — "greater, excellent."
-- **śravaḥ** — "*śrava ity annanāma* (Ni. 10-[?]); also *dhananāma* (Ni. 2-[?]): although the word *śravaḥ* has many senses — food, wealth, strength — the commentator accepts here the sense 'food'."
-- **tuvinṛmṇam** — "*tuvi* means much (Ni. 3-[?]); *nṛmṇam* means strength (Ni. 2-[?]); so *tuvinṛmṇam* means 'one with much strength'."
+- **śravaḥ** — "*śrava ity annanāma* (Ni. 10-3); also *dhananāma* (Ni. 3-9 as printed): although the word *śravaḥ* has many senses — food, wealth, strength — the commentator accepts here the sense 'food'."
+- **tuvinṛmṇam** — "*tuvi* means much (Ni. 3-13); *nṛmṇam* means strength (Ni. 3-9 as printed); so *tuvinṛmṇam* means 'one with much strength'."
 
 **Vyākaraṇa-prakriyā** *(p. 487 — grammar page, noted briefly)*
 - **asme**: *supāṃ sulug…*: *śe* as the substitute for the locative.
-- **nṛṇām**: *nṛ ca* — नृ च — [Pā. 6-4-6 as read]: before *nām* the lengthening of a stem ending in a vowel is optionally prohibited for *nṛ*; being optional, the lengthening does not occur here.
+- **nṛṇām**: *nṛ ca* — नृ च — [Pā. Sū. 6-4-6]: before *nām* the lengthening of a stem ending in a vowel is optionally prohibited for *nṛ*; being optional, the lengthening does not occur here.
 - **mahi** and the rest: "the process has been given before." Rik 7 ends here (*|| 7 ||*).
 
 ---
