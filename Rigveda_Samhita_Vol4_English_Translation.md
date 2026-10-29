@@ -5388,12 +5388,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 38.4 (pp. 301–303, PDF 315–317)
+### Rik 38.4 (pp. 301–303, PDF 316–318)
 
-**Saṃhitā-pāṭha** *(p. 301; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 301 = PDF 316 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **यद्यूयं पृश्निमातरो मर्तासः स्यातन ।**
-> **स्तोता वो अमृतः स्यात् ॥ ४ ॥**
+> **यद्यू॒यं पृ॑श्निमातरो॒ मर्ता॑सः॒ स्यात॑न ।**
+> **स्तो॒ता वो॑ अ॒मृतः॑ स्यात् ॥ ४ ॥**
 
 *yad yūyaṃ pṛśnimātaro martāsaḥ syātana |*
 *stotā vo amṛtaḥ syāt || 4 ||*
@@ -5408,11 +5408,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Sāyaṇa-bhāṣya** *(p. 301)*
 
-> **हे पृश्निनामकधेनुपुत्रा मरुतो यूयं यद्यपि मर्तासो मनुष्याः स्यातन भवेत तथापि वो युष्माकं स्तोता यजमानोऽमृतः स्यात् । देवो भवेत् ॥ पृश्निमातरः । पृश्निर्माता येषां ते । समासान्तविधेरनित्यत्वान्नद्यृतश्चेति कबभावः । पा. ५-४-१५३ [?] । मर्तासः । असिहसीत्यादिना [?] म्रियतेस्तन्प्रत्ययः । आज्जसेरसुक् । स्यातन । अस्तेर्लिङ् तस्य । तप्तनप्तनथनाश्चेति तनादेशः । यासुट् उदात्तत्वं । अमृतः । नञो जरमरमित्रमृताः इत्युत्तरपदाद्युदात्तत्वं ॥**
+> **हे पृश्निनामकधेनुपुत्रा मरुतो यूयं यद्यपि मर्तासो मनुष्याः स्यातन भवेत तथापि वो युष्माकं स्तोता यजमानोऽमृतः स्यात् । देवो भवेत् ॥ पृश्निमातरः । पृश्निर्माता येषां ते । समासान्तविधेरनित्यत्वान्नद्यृतश्चेति कबभावः । पा. ५-४-१५३ । मर्तासः । असिहसीत्यादिना म्रियतेस्तन्प्रत्ययः । आज्जसेरसुक् । स्यातन । अस्तेर्लिङ् तस्य । तप्तनप्तनथनाश्चेति तनादेशः । यासुट् उदात्तत्वं । अमृतः । नञो जरमरमित्रमृताः इत्युत्तरपदाद्युदात्तत्वं ॥**
 
-*he pṛśnināmakadhenuputrā maruto yūyaṃ yady api martāso manuṣyāḥ syātana bhaveta tathāpi vo yuṣmākaṃ stotā yajamāno 'mṛtaḥ syāt | devo bhavet || pṛśnimātaraḥ | pṛśnir mātā yeṣāṃ te | samāsāntavidher anityatvān nadyṛtaś ceti kabbhāvaḥ | pā. 5-4-153 [?] | martāsaḥ | asihasī[?]ty ādinā mriyates tan pratyayaḥ | ājjaser asuk | syātana | asteḥ liṅ tasya | tapta-nap-tana-thanāś ceti tanādeśaḥ | yāsuṭ udāttatvaṃ | amṛtaḥ | nañ jaramaramitramṛtāḥ ity uttarapadādyudāttatvaṃ ||*
+*he pṛśnināmakadhenuputrā maruto yūyaṃ yady api martāso manuṣyāḥ syātana bhaveta tathāpi vo yuṣmākaṃ stotā yajamāno 'mṛtaḥ syāt | devo bhavet || pṛśnimātaraḥ | pṛśnir mātā yeṣāṃ te | samāsāntavidher anityatvān nadyṛtaś ceti kabbhāvaḥ | pā. 5-4-153 | martāsaḥ | asihasīty ādinā mriyates tan pratyayaḥ | ājjaser asuk | syātana | asteḥ liṅ tasya | tapta-nap-tana-thanāś ceti tanādeśaḥ | yāsuṭ udāttatvaṃ | amṛtaḥ | nañ jaramaramitramṛtāḥ ity uttarapadādyudāttatvaṃ ||*
 
-**Translation:** "O Maruts, sons of the cow named Pṛśni, *yūyam* — you — *yady api*, even if you were *martāsaḥ*, men, *syātana*, were to be so, nevertheless *vaḥ stotā*, your praiser, the sacrificer, *amṛtaḥ syāt*, would be immortal: would become a god. *Pṛśnimātaraḥ*: those whose mother is Pṛśni; the *kap* does not come, since the *samāsānta* rule is not constant, [though *nadyṛtaś ca* would give it] (Pā. 5-4-153 [?]). *Martāsaḥ*: from *mṛ* [*mriyate*], the suffix *tan* by the rule beginning *asi-hasi-…* [?]; the *asuk* augment of *jas* by *ājjaser asuk*. *Syātana*: *liṅ* of *as*, for its ending the substitute *tana* by *tapta-nap-tana-thanāś ca*; the augment *yāsuṭ*, acute. *Amṛtaḥ*: by *nañ jaramaramitramṛtāḥ* the first syllable of the latter member is acute."
+**Translation:** "O Maruts, sons of the cow named Pṛśni, *yūyam* — you — *yady api*, even if you were *martāsaḥ*, men, *syātana*, were to be so, nevertheless *vaḥ stotā*, your praiser, the sacrificer, *amṛtaḥ syāt*, would be immortal: would become a god. *Pṛśnimātaraḥ*: those whose mother is Pṛśni; the *kap* does not come, since the *samāsānta* rule is not constant, [though *nadyṛtaś ca* would give it] (Pā. 5-4-153). *Martāsaḥ*: from *mṛ* [*mriyate*], the suffix *tan* by the rule beginning *asi-hasi-…*; the *asuk* augment of *jas* by *ājjaser asuk*. *Syātana*: *liṅ* of *as*, for its ending the substitute *tana* by *tapta-nap-tana-thanāś ca*; the augment *yāsuṭ*, acute. *Amṛtaḥ*: by *nañ jaramaramitramṛtāḥ* the first syllable of the latter member is acute."
 
 **Pratipadārtha** *(p. 301)* — "**pṛśnimātaraḥ** — O Maruts, children of the cow called Pṛśni; **yūyam** — you; **martāsaḥ** — as men; **yady api syātana** — if perchance you were; **vaḥ** — your; **stotā** — the devotee who sings your praises; **amṛtaḥ** — immortal; **syāt** — would be."
 
@@ -5427,10 +5427,10 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **amṛtaḥ** = *maraṇarahitaḥ devaḥ* — "a god, free from death."
 
 **Vyākaraṇa-prakriyā** *(pp. 302–303 — grammar page, noted briefly)*
-- **pṛśnimātaraḥ**: a bahuvrīhi, "of whom Pṛśni is the mother"; *pṛśnimātṛ* ends in *ṛ*; by *nadyṛtaś ca* — नद्यृतश्च — [Pā. 5-4-153 as read [?]] the suffix *kap* comes after a bahuvrīhi that has a *nadī*-ending or a final *ṛ*, and being a *samāsānta* it is obtained; but by the vārttika *pratereṃśvādayas tatpuruṣe* [as read; number [?]] the words *aṃśu* and the rest after *prati* in a tatpuruṣa are final-acute; in that group the word *rājan* is read, and by *rājāhaḥsakhibhyaś ṭac* [Pā. 5-4-91 as read [?]] *ṭac* comes after a tatpuruṣa ending in *rājan*, so final-acuteness is established; therefore the reading of *rājan* in this group would be pointless, which makes known the paribhāṣā *samāsāntavidhir anityaḥ* [number as read, doubtful [?]]. Or else: in the sūtra *ṛkpūrabdhūḥpathām ānakṣe* [Pā. 5-4-74 as read [?]] the word *pathām* is used without a *samāsānta* suffix, which likewise makes known that the *samāsānta* rule is not constant. Therefore here, by this paribhāṣā, *kap* does not come.
-- **martāsaḥ**: *mṛṅ prāṇatyāge*; *asi-hasi-mṛ-…* [Uṇ. 3-166 as read [?]]: the suffix *tan*; *guṇa*, *raparatva*, *jas*, and the augment *asuk* by *ājjaser asuk*.
-- **syātana**: *as bhuvi*; *liṅ*; madhyama *tha*; by *tasthasthamipāṃ tāṃtamtāmaḥ* the substitute *ta*; then *tana* by *tapta-nap-tana-thanāś ca*; *śap* elided because the root is *adādi*; by *yāsuṭ parasmaipadeṣūdātto ṅicca* — यासुट् परस्मैपदेषूदात्तो ङिच्च — [Pā. 3-4-103 as read [?]] the augment *yāsuṭ*: *as + yās + tana*; *salopa*; by *śnasor allopaḥ* the loss of the root's *a*; *yāsuṭ* is acute.
-- **amṛtaḥ**: *nañ jaramaramitramṛtāḥ* — नञ्जरमरमित्रमृताः — [Pā. 6-2-116 as read [?]]: when they follow *nañ*, these latter members (*jara*, *mara*, *mitra*, *mṛta*) are first-syllable acute. Rik 4 ends here (*|| 4 ||*).
+- **pṛśnimātaraḥ**: a bahuvrīhi, "of whom Pṛśni is the mother"; *pṛśnimātṛ* ends in *ṛ*; by *nadyṛtaś ca* — नद्यृतश्च — (Pā. Sū. 5-4-153) the suffix *kap* comes after a bahuvrīhi that has a *nadī*-ending or a final *ṛ*, and being a *samāsānta* it is obtained; but by the vārttika *pratereṃśvādayas tatpuruṣe* (printed "Vā. Sū. 6-2-193") the words *aṃśu* and the rest after *prati* in a tatpuruṣa are final-acute; in that group the word *rājan* is read, and by *rājāhaḥsakhibhyaś ṭac* (Pā. Sū. 5-4-91) *ṭac* comes after a tatpuruṣa ending in *rājan*, so final-acuteness is established; therefore the reading of *rājan* in this group would be pointless, which makes known the paribhāṣā *samāsāntavidhir anityaḥ* (Paribhā. 89). Or else: in the sūtra *ṛkpūrabdhūḥpathām ānakṣe* (Pā. Sū. 5-4-74) the word *pathām* is used without a *samāsānta* suffix, which likewise makes known that the *samāsānta* rule is not constant. Therefore here, by this paribhāṣā, *kap* does not come.
+- **martāsaḥ**: *mṛṅ prāṇatyāge*; *asi-hasi-mṛ-…* (U. Sū. 3-366, as printed): the suffix *tan*; *guṇa*, *raparatva*, *jas*, and the augment *asuk* by *ājjaser asuk*.
+- **syātana**: *as bhuvi*; *liṅ*; madhyama *tha*; by *tasthasthamipāṃ tāṃtamtāmaḥ* the substitute *ta*; then *tana* by *tapta-nap-tana-thanāś ca*; *śap* elided because the root is *adādi*; by *yāsuṭ parasmaipadeṣūdātto ṅicca* — यासुट् परस्मैपदेषूदात्तो ङिच्च — (Pā. Sū. 3-4-103) the augment *yāsuṭ*: *as + yās + tana*; *salopa*; by *śnasor allopaḥ* the loss of the root's *a*; *yāsuṭ* is acute.
+- **amṛtaḥ**: *nañ jaramaramitramṛtāḥ* — नञ्जरमरमित्रमृताः — (Pā. Sū. 6-2-116): when they follow *nañ*, these latter members (*jara*, *mara*, *mitra*, *mṛta*) are first-syllable acute. Rik 4 ends here (*|| 4 ||*).
 
 ---
 
