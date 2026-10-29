@@ -2,21 +2,34 @@
 
 Status: **PAUSED by the user (Oct 29, ~04:40 UTC).** All 9 workers finished their current Ṛk, pushed, and stopped. All 10 scheduled tasks are **disabled** (not deleted). **All 9 branches were merged into `main` on Oct 29 at their pause points** (each merge checked: every added line present, no heading lost or duplicated, [?] counts add up: Vol 3 760→537, Vol 4 2,136→976, Vol 5 1,918→1,238). New workers should start from `main` (or fast-forward their branch to `main` first).
 
-## Workers (one branch, one range each; same translation file per volume, disjoint ranges)
+## Next run: 6 workers, 2 per volume (user, Oct 29)
 
-| ID | Range (printed pages) | Branch | Done through | Resume at | Worker session |
-|---|---|---|---|---|---|
-| v3a | Vol 3: Sūkta 24 Ṛk 14 – end of Sūkta 29 (pp. 288–458) | claude/numerals-vol3-a | Ṛk 26.9 (p. 370) | Ṛk 26.10 (pp. 370–373, PDF 384–387) | session_01CtcBQSb2sRQVbtSgeb7zSF |
-| v3b | Vol 3: Sūkta 30 – end, incl. moving the *anāhitāgni* note into Ṛk 31.15 (pp. 459–647) | claude/numerals-vol3-b | Ṛk 31.3 (p. 534) | Ṛk 31.4 (pp. 534–540, PDF 548–554) | session_01CtcBQSHTxDQuaAbUUddrnA |
-| v4a | Vol 4: Ṛk 33.7 – end of Sūkta 35 (pp. 33–175) | claude/numerals-vol4-a | Ṛk 34.9 (p. 116) | Ṛk 34.10 (p. 117, PDF 132) | session_01CtcBQU4Bny24ygpNprETA2 |
-| v4b | Vol 4: Sūktas 36–38 (pp. 176–338) | claude/numerals-vol4-b | Ṛk 37.10 (p. 281) | Ṛk 37.11 (pp. 281–284, PDF 296–299) | session_01CtcBQV88CXYA9oEPddoyfd |
-| v4c | Vol 4: Sūktas 39–43 (pp. 339–492) | claude/numerals-vol4-c | Ṛk 40.7 (p. 406) | Ṛk 40.8 (p. 406, PDF 421) | session_01CtcBQRhdisW1Sy6mpBMitG |
-| v4d | Vol 4: Sūktas 44–46 to the end (pp. 493–608) | claude/numerals-vol4-d | Ṛk 46.1 (p. 573) | Ṛk 46.2 (pp. 574–576, PDF 589–591) | session_01CtcBQSAwnAMjVPjvK28qjY |
-| v5a | Vol 5: Sūktas 47–51 (pp. 1–211) | claude/numerals-vol5-a | Ṛk 49.1 (p. 94) | Ṛk 49.2 (pp. 95–98, PDF 111–114) | session_01CtcBQU2HgyokVbsYSr9QVP |
-| v5b | Vol 5: Sūktas 52–56 (pp. 212–391) | claude/numerals-vol5-b | Ṛk 53.7 (p. 290) | Ṛk 53.8 (pp. 290–294, PDF 304–308; reading notes kept) | session_01CtcBQRvX7R3usyZtXPcWRS |
-| v5c | Vol 5: Sūktas 57–61 + Pariśiṣṭa (pp. 392–708) | claude/numerals-vol5-c | Ṛk 60.2 (p. 468) | Ṛk 60.3 (p. 469, PDF 485) | session_01CtcBQRm9oLEPL2WTzgp1Lu |
+Start each from `main` on a **new** branch (the 9 old branches are fully merged and may be deleted). Each worker takes the listed sub-ranges in order; its old part state files (`volN/parts/v*_state.md`) give the exact resume points and reading notes.
 
-Each worker keeps its own state in `volN/parts/<id>_state.md` (authoritative resume point) and its log in `volN/review/edits_<id>.txt`; its own tools end in `_<id>.py`. Pages left at the pause: Vol 3 ≈ 201, Vol 4 ≈ 241, Vol 5 ≈ 458 (≈ 900 total).
+| ID | Sub-ranges (printed pages left) | Pages | Branch | Old part files to read |
+|---|---|---|---|---|
+| w3a | Vol 3: Ṛk 26.10 (p. 370) → end of Sūkta 29 (p. 458) | ~88 | claude/pass2-vol3-a | `vol3/parts/v3a_state.md` |
+| w3b | Vol 3: Ṛk 31.4 (p. 534) → end (p. 647), incl. moving the *anāhitāgni* note into Ṛk 31.15 at p. 576 | ~113 | claude/pass2-vol3-b | `vol3/parts/v3b_state.md` |
+| w4a | Vol 4: Ṛk 34.10 (p. 117) → end of Sūkta 35 (p. 175); then Ṛk 37.11 (p. 281) → end of Sūkta 38 (p. 338) | ~116 | claude/pass2-vol4-a | `vol4/parts/v4a_state.md`, `v4b_state.md` |
+| w4b | Vol 4: Ṛk 40.8 (p. 406) → end of Sūkta 43 (p. 492); then Ṛk 46.2 (p. 574) → end (p. 608) | ~122 | claude/pass2-vol4-b | `vol4/parts/v4c_state.md`, `v4d_state.md` |
+| w5a | Vol 5: Ṛk 49.2 (p. 95) → end of Sūkta 51 (p. 211); then Ṛk 53.8 (p. 290) → end of Sūkta 56 (p. 391) | ~219 | claude/pass2-vol5-a | `vol5/parts/v5a_state.md`, `v5b_state.md` |
+| w5b | Vol 5: Ṛk 60.3 (p. 469) → end of Sūktas 60–61 and the Pariśiṣṭa (p. 708) | ~240 | claude/pass2-vol5-b | `vol5/parts/v5c_state.md` |
+
+Gaps not in any range are already done (the first pass covered them). New state and log files: `volN/parts/<id>_state.md`, `volN/review/edits_<id>.txt`, tools ending `_<id>.py`. Pages left at the pause: Vol 3 ≈ 201, Vol 4 ≈ 238, Vol 5 ≈ 459 (≈ 900 total).
+
+### First run (Oct 28–29, 9 workers; merged into main at the pause points)
+
+| ID | Range | Done through | Session (old) |
+|---|---|---|---|
+| v3a | Vol 3 pp. 288–458 | Ṛk 26.9 (p. 370) | session_01CtcBQSb2sRQVbtSgeb7zSF |
+| v3b | Vol 3 pp. 459–647 | Ṛk 31.3 (p. 534) | session_01CtcBQSHTxDQuaAbUUddrnA |
+| v4a | Vol 4 pp. 33–175 | Ṛk 34.9 (p. 116) | session_01CtcBQU4Bny24ygpNprETA2 |
+| v4b | Vol 4 pp. 176–338 | Ṛk 37.10 (p. 281) | session_01CtcBQV88CXYA9oEPddoyfd |
+| v4c | Vol 4 pp. 339–492 | Ṛk 40.7 (p. 406) | session_01CtcBQRhdisW1Sy6mpBMitG |
+| v4d | Vol 4 pp. 493–608 | Ṛk 46.1 (p. 573) | session_01CtcBQSAwnAMjVPjvK28qjY |
+| v5a | Vol 5 pp. 1–211 | Ṛk 49.1 (p. 94) | session_01CtcBQU2HgyokVbsYSr9QVP |
+| v5b | Vol 5 pp. 212–391 | Ṛk 53.7 (p. 290) | session_01CtcBQRvX7R3usyZtXPcWRS |
+| v5c | Vol 5 pp. 392–708 | Ṛk 60.2 (p. 468) | session_01CtcBQRm9oLEPL2WTzgp1Lu |
 
 ## Rules every worker follows (prompt template: `worker_prompt_template.txt`)
 - **Scope (user, Oct 29): local corrections only, as in the Vol 4 runbook** — numerals, [?], clear misreadings, Saṃhitā accents; no wholesale re-transcription or rewriting of sound text (Vol 3 workers rewrote whole Ṛks until the pause; that stops).
@@ -27,11 +40,12 @@ Each worker keeps its own state in `volN/parts/<id>_state.md` (authoritative res
 - No time cut-off (the earlier 21:15 UTC stop was cancelled by the user); work until the range is done.
 
 ## To resume
-- **Recommended (fresh context, lower cost):** start a new session per worker (model Opus, repo `bhargaviupa/rik-translation`, branch as above) with `worker_prompt_template.txt` filled in (`{BRANCH} {RUNBOOK} {STATE} {PART} {EDITS} {ID}` + a `YOUR RANGE:` line from the table) plus: "Continue from your part state file; the branch already exists."
-- **Or** revive the old sessions with a message "resume", and re-enable the scheduled tasks (they still contain an obsolete "stop at 21:15 UTC" line — tell workers to ignore it, or create new check-ins from the new sessions).
-- Usage limit: 9 Opus workers use up a 5-hour allowance in ~20–35 min, then wait for the reset; hourly check-ins restart them.
+- Start **6 new sessions** (one per row of the "Next run" table; model Opus, repo `bhargaviupa/rik-translation`, from `main`, `outcome_branch` = the new branch) with `worker_prompt_template.txt` filled in (`{BRANCH} {RUNBOOK} {STATE} {PART} {EDITS} {ID}` + a `YOUR RANGE:` line with the sub-ranges) and the line: "Read the old part files listed for you for the exact resume points."
+- Give each a new hourly check-in (created from the coordinator; the old ones below are obsolete — delete them). Do not revive the 9 old worker sessions.
+- Usage limit: 9 Opus workers used a 5-hour allowance in ~20–35 min; with 6 workers and local corrections only, expect a longer run per window.
+- Merge as you go: every few hours (or at each pause) merge each worker's branch into `main` with the checks below; the ranges are disjoint.
 
-## Scheduled tasks (all disabled)
+## Old scheduled tasks (all disabled; delete when the new run starts)
 Coordinator audit `trig_01GYaxKuuZXviNciKT6heymR` (posts into the old coordinator session session_01WfQHJf2G1dSc1yQq4WzMMc). Worker check-ins: v3a `trig_01UBoowwxzd24ffj2BBc3yjD`, v3b `trig_01CaYLdvTmXKpshAY7cyjcyw`, v4a `trig_01L6a5YJQR9PyQUNKuvshtfo`, v4b `trig_01TjwMTGu5gvv5EkWPtcmLX3`, v4c `trig_01PTCSQk4adm8yqUpx7ioTEb`, v4d `trig_01KfrcJGDnKG1FaAvBhUaubh`, v5a `trig_01J4dffbaa7W38jNSbooo5yK`, v5b `trig_017T5QghAFUvHJQb83THxGfW`, v5c `trig_01FW4vLuwByoiLmphCZDGXwc`. A task's prompt can be edited only from the session it posts into; if new sessions are used, delete these and create new ones from there.
 
 ## Coordinator duties (hourly; keep output to one line per branch)
