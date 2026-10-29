@@ -9329,13 +9329,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.16 (pp. 526–529, PDF 542–545; the last Rik)
 
-**Saṃhitā-pāṭha** *(p. 526)*
+**Saṃhitā-pāṭha** *(p. 526; accents as printed)*
 
-> **एवा ते हारियोजना सुवृक्तीन्द्र ब्रह्माणि गोतमासो अक्रन् ।**
-> **ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ १६ ॥**
+> **ए॒वा ते॑ हारियोजना सुवृ॒क्तीन्द्र॒ ब्रह्मा॑णि॒ गोत॑मासो अक्रन् ।**
+> **ऐषु॑ वि॒श्वपे॑शसं॒ धियं॑ धाः प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥ १६ ॥**
 
-*evā te hāriyojanā suvṛktīndra brahmāṇi gotamāso akran |*
-*aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātar makṣū dhiyāvasur jagamyāt || 16 ||*
+*evā́ te hāriyojanā suvṛktī́ndra bráhmāṇi gótamāso akran |*
+*aíṣu viśvápeśasaṃ dhíyaṃ dhāḥ prātár makṣū́ dhiyā́vasur jagamyāt || 16 ||*
 
 **Pada-pāṭha** *(p. 526)*
 
@@ -9363,7 +9363,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 528** — **hāriyojana** — *haryor aśvayor yojanaṃ yasmin saḥ hariyojanaḥ*: "he who is related to it as its owner is *hāriyojanaḥ*: one who has a chariot with horses; or one seated as master in a horse-chariot." **gotamāsaḥ**: "the seers born in the Gotama line." **suvṛkti** — *suṣṭhv āvarjakāny abhimukhīkaraṇakuśalāni*: "mantras that have the capacity to turn the deities, in an excellent manner, to face the singer: an epithet of the mantras." **brahmāṇi**: "the collections of mantras in the form of praise." **viśvapeśasam** — *bahuvidharūpayuktam*: "endowed with many forms: an epithet of the word *dhiyam*." **dhiyaṃ dhāḥ**: "give wealth. *Dhiyo labhyatvāt dhīḥ dhanam ucyate*: or the word *dhī* is [read as] expressing rite — 'wealth of manifold forms such as cattle, or manifold rites such as the Agniṣṭoma': thus they explain *dhiyam* in two ways, either as wealth to be won by the understanding, or as rites such as the Agniṣṭoma through the word *dhī* meaning 'rite'." **dhiyāvasuḥ**: "one who has gained complete lordship by understanding or by the fruit of rite." **makṣu jagamyāt** — *śīghraṃ asmadrakṣaṇārtham āgacchatu*: "may he come vigilantly to protect us."
 
-**Vyākaraṇa-prakriyā** *(pp. 528–529 — noted briefly)* — *Grammar pages, noted briefly.* **eva**: *nipātasya ca* (Pā. 6-3-136 as read [?]): lengthening in the Saṃhitā. **hāriyojana**: *āmantritasya ca* (Pā. 8-1-19 as read [?]): the vocative *nighāta*. **suvṛkti**: in the neuter accusative plural, loss of the ending by *supāṃ suluk*. **gotamāsaḥ**: nominative plural *jas*: *ājjaser asuk* (Pā. 7-1-50 as read [?]): *asuk*. **akran**: *ḍukṛñ karaṇe*; *luṅ*, third plural: *jho 'ntaḥ*: *ant*; *itaś ca*: loss of *i*; *cli luṅi*: *cli* with its loss by *mantre ghasahvara…* (Pā. 2-4-80 as read [?]); *sārvadhātukam apit* is *ṅit*, so no *guṇa*; *iko yaṇaci*: *yaṇ*; *saṃyogāntasya lopaḥ*: loss of the final *t*; the *aṭ* augment because of *luṅ*; *nighāta*, after a non-verb. **viśvapeśasam**: *viśvāni peśāṃsi yasya*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member. **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the sense of *loṭ*; second singular *sip*; *itaś ca*: loss of *i*; *cli luṅi sic*: *sic* for *cli*; *gātisthāghupā…* (Pā. 2-4-77 as read [?]): since it is called *ghu*, loss of *sic*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *nighāta*. **makṣū**: *ṛcitunughamakṣu…* (Pā. 6-3-133 as read [?]): lengthening in the Saṃhitā.
+**Vyākaraṇa-prakriyā** *(pp. 528–529 — noted briefly)* — *Grammar pages, noted briefly.* **eva**: *nipātasya ca* (Pā. 6-3-136): lengthening in the Saṃhitā. **hāriyojana**: *āmantritasya ca* (Pā. 8-1-19 as read [?]): the vocative *nighāta*. **suvṛkti**: in the neuter accusative plural, loss of the ending by *supāṃ suluk*. **gotamāsaḥ**: nominative plural *jas*: *ājjaser asuk* (Pā. 7-1-50): *asuk*. **akran**: *ḍukṛñ karaṇe*; *luṅ*, third plural: *jho 'ntaḥ*: *ant*; *itaś ca*: loss of *i*; *cli luṅi*: *cli* with its loss by *mantre ghasahvara…* (Pā. 2-4-80); *sārvadhātukam apit* is *ṅit*, so no *guṇa*; *iko yaṇaci*: *yaṇ*; *saṃyogāntasya lopaḥ*: loss of the final *t*; the *aṭ* augment because of *luṅ*; *nighāta*, after a non-verb. **viśvapeśasam**: *viśvāni peśāṃsi yasya*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member. **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the sense of *loṭ*; second singular *sip*; *itaś ca*: loss of *i*; *cli luṅi sic*: *sic* for *cli*; *gātisthāghupā…* (Pā. 2-4-77): since it is called *ghu*, loss of *sic*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *nighāta*. **makṣū**: *ṛcitunughamakṣu…* (Pā. 6-3-133): lengthening in the Saṃhitā.
 
 ---
 
