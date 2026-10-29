@@ -1,6 +1,6 @@
 # Parallel numeral / [?] / accent pass — Vols 3, 4, 5 (handover, Oct 29, 2026)
 
-Status: **PAUSED by the user (Oct 29, ~04:40 UTC).** All 9 workers finished their current Ṛk, pushed, and stopped. All 10 scheduled tasks are **disabled** (not deleted). Nothing is merged into `main` yet; all work is on the 9 branches.
+Status: **PAUSED by the user (Oct 29, ~04:40 UTC).** All 9 workers finished their current Ṛk, pushed, and stopped. All 10 scheduled tasks are **disabled** (not deleted). **All 9 branches were merged into `main` on Oct 29 at their pause points** (each merge checked: every added line present, no heading lost or duplicated, [?] counts add up: Vol 3 760→537, Vol 4 2,136→976, Vol 5 1,918→1,238). New workers should start from `main` (or fast-forward their branch to `main` first).
 
 ## Workers (one branch, one range each; same translation file per volume, disjoint ranges)
 
