@@ -8,7 +8,7 @@ Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā acce
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
 Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
 Part (2): Sūkta 32 introduction, Ṛks 32.1–32.15 and the adhyāya close done (p. 647 = PDF 660; last leaf old PDF 663). RANGE DONE.
-Next unit: none. Remaining [?] after Sūkta 32 heading: only in the trailing progress note (not touched). and the adhyāya colophon (p. 647 = PDF 660; p. 646 only in the old scan, its PDF 661). Watch for last lines cut off in the better scan (pp. 593, 597, 599, 607, 610 so far): check the old scan (PDF = printed + 15). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
+Next unit: none. Remaining [?] after Sūkta 32 heading: only in the trailing progress note (not touched). Cut-off last lines (both or one scan): pp. 593, 597, 599, 607, 610, 640.
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
