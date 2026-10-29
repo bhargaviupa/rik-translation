@@ -10984,13 +10984,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.10 (p. 595 foot, PDF 609–)
 
-**Saṃhitā-pāṭha** *(p. 595; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 595)*
 
-> **अभूदु भा उ अंशवे हिरण्यं प्रति सूर्यः ।**
-> **व्यख्यज्जिह्वयासितः ॥ १० ॥**
+> **अभू॑दु॒ भा उ॑ अं॒शवे॒ हिर॑ण्यं॒ प्रति॒ सूर्यः॑ ।**
+> **व्य॑ख्यज्जि॒ह्वयासि॑तः ॥ १० ॥**
 
-*abhūd u bhā u aṃśave hiraṇyaṃ prati sūryaḥ |*
-*vyakhyaj jihvayāsitaḥ || 10 ||*
+*ábhūd u bhā́ u aṃśáve híraṇyaṃ práti sū́ryaḥ |*
+*vyakhyaj jihváyā́sitaḥ || 10 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 595)*
 
@@ -11004,13 +11006,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 595)*
 
-> **भा उ सूर्यस्य दीप्तिस्त्वंशव उषःकालीनरश्मिसिद्ध्यर्थमभूदु । प्रादुर्भूतैव । सूर्यश्च हिरण्यं प्रति स्वकीयोदयेन हिरण्यसदृशोऽभूत् । अग्निश्चासितः स्वकीयदीप्तेः सूर्यप्रवेशेन स्वयं कृष्णो भूत्वा जिह्वया स्वकीयया ज्वालया व्यख्यत् । प्रकाशितवान् । तस्मादयमश्विनोर्युवयोरागमनकाल इत्यर्थः ॥ अभूत् । भूसुवोस्तिङीति गुणप्रतिषेधः । हिरण्यं प्रति । प्रतिः प्रतिनिधिप्रतिदानयोः । पा. १-४-९२ [?] । इति प्रतेः कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्ते द्वितीया । पा. २-३-८ [?] । इति द्वितीया । अख्यत् । चक्षिङ् व्यक्तायां वाचि । लुङि चक्षिङः ख्याञिति ख्याञादेशः ॥ १० [?] ॥**
+> **भा उ सूर्यस्य दीप्तिस्त्वंशव उषःकालीनरश्मिसिद्ध्यर्थमभूदु । प्रादुर्भूतैव । सूर्यश्च हिरण्यं प्रति स्वकीयोदयेन हिरण्यसदृशोऽभूत् । अग्निश्चासितः स्वकीयदीप्तेः सूर्यप्रवेशेन स्वयं कृष्णो भूत्वा जिह्वया स्वकीयया ज्वालया व्यख्यत् । प्रकाशितवान् । तस्मादयमश्विनोर्युवयोरागमनकाल इत्यर्थः ॥ अभूत् । भूसुवोस्तिङीति गुणप्रतिषेधः । हिरण्यं प्रति । प्रतिः प्रतिनिधिप्रतिदानयोः । पा. १-४-९२ । इति प्रतेः कर्मप्रवचनीयत्वं । कर्मप्रवचनीययुक्ते द्वितीया । पा. २-३-८ । इति द्वितीया । अख्यत् । चक्षिङ् व्यक्तायां वाचि । लुङि चक्षिङः ख्याञिति ख्याञादेशः ॥ ३४ ॥**
 
-*bhā u sūryasya dīptis tv aṃśava uṣaḥkālīnaraśmisiddhyartham abhūd u | prādurbhūtaiva | sūryaś ca hiraṇyaṃ prati svakīyodayena hiraṇyasadṛśo 'bhūt | agniś cāsitaḥ svakīyadīpteḥ sūryapraveśena svayaṃ kṛṣṇo bhūtvā jihvayā svakīyayā jvālayā vyakhyat | prakāśitavān | tasmād ayam aśvinor yuvayor āgamanakāla ity arthaḥ || abhūt | bhūsuvos tiṅīti guṇapratiṣedhaḥ | hiraṇyaṃ prati | pratiḥ pratinidhipratidānayoḥ | pā. 1-4-92 [?] | iti prater karmapravacanīyatvaṃ | karmapravacanīyayukte dvitīyā | pā. 2-3-8 [?] | iti dvitīyā | akhyat | cakṣiṅ vyaktāyāṃ vācī | luṅi cakṣiṅaḥ khyāñ iti khyāñādeśaḥ || 10 [?] ||*
+*bhā u sūryasya dīptis tv aṃśava uṣaḥkālīnaraśmisiddhyartham abhūd u | prādurbhūtaiva | sūryaś ca hiraṇyaṃ prati svakīyodayena hiraṇyasadṛśo 'bhūt | agniś cāsitaḥ svakīyadīpteḥ sūryapraveśena svayaṃ kṛṣṇo bhūtvā jihvayā svakīyayā jvālayā vyakhyat | prakāśitavān | tasmād ayam aśvinor yuvayor āgamanakāla ity arthaḥ || abhūt | bhūsuvos tiṅīti guṇapratiṣedhaḥ | hiraṇyaṃ prati | pratiḥ pratinidhipratidānayoḥ | pā. 1-4-92 | iti prater karmapravacanīyatvaṃ | karmapravacanīyayukte dvitīyā | pā. 2-3-8 | iti dvitīyā | akhyat | cakṣiṅ vyaktāyāṃ vācī | luṅi cakṣiṅaḥ khyāñ iti khyāñādeśaḥ || 34 ||*
 
-*(The numeral closing the bhāṣya is printed so that it reads like "34" — crowded or a slip for "10" [?]; the Rik is the tenth, as the Saṃhitā and Pada numerals show.)*
+*(The bhāṣya closes with the varga number ॥ ३४ ॥ (34), as printed.)*
 
-**Translation:** "*Bhā*, the splendour of the Sun, *aṃśave*, for the production of the rays of the time of dawn, *abhūt*, has come into being, has appeared. And the Sun, *hiraṇyaṃ prati*, in his own rising, has become like gold. And Agni, *asitaḥ*, (become) dark when the Sun entered his own splendour, having himself become black, *vyakhyat*, has lit up, *jihvayā*, with his own flame. So this is the time of your coming, O Aśvins, is the sense. *Abhūt*: *guṇa* is forbidden by *bhūsuvos tiṅi*. *Hiraṇyaṃ prati*: *prati* in the sense of 'representing' or 'returning' (Pā. 1-4-92 [?]) has the name *karmapravacanīya*; the accusative where a *karmapravacanīya* is joined (Pā. 2-3-8 [?]). *Akhyat*: root *cakṣiṅ vyaktāyāṃ vāci*; in the aorist *khyāñ* is substituted for *cakṣiṅ*."
+**Translation:** "*Bhā*, the splendour of the Sun, *aṃśave*, for the production of the rays of the time of dawn, *abhūt*, has come into being, has appeared. And the Sun, *hiraṇyaṃ prati*, in his own rising, has become like gold. And Agni, *asitaḥ*, (become) dark when the Sun entered his own splendour, having himself become black, *vyakhyat*, has lit up, *jihvayā*, with his own flame. So this is the time of your coming, O Aśvins, is the sense. *Abhūt*: *guṇa* is forbidden by *bhūsuvos tiṅi*. *Hiraṇyaṃ prati*: *prati* in the sense of 'representing' or 'returning' (Pā. 1-4-92) has the name *karmapravacanīya*; the accusative where a *karmapravacanīya* is joined (Pā. 2-3-8). *Akhyat*: root *cakṣiṅ vyaktāyāṃ vāci*; in the aorist *khyāñ* is substituted for *cakṣiṅ*."
 
 *(Pratipadārtha, Bhāvārtha, the source's English, Special Topics and grammar of Rik 10 begin on p. 596 and are not yet written.)*
 
