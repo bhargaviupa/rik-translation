@@ -5,3 +5,4 @@ Coordinator: when a slice session is idle and the part file does not start `RANG
 
 ## Decision (user, Oct 29, afternoon)
 Skip the Vol 5 Pariśiṣṭa from p. 577 on and stop w5c (no further slices). Pariśiṣṭa pp. 531–576 were already proofed by w5c and are merged into main (98dd886). Open [?] there: 9-26-5 (p. 576), 10-102-12 (p. 574), gāṣṭveya (p. 572). Workers w3, w4b, w5b remain unfinished (w4a, w5a RANGE DONE, merged). Tightened template: d02625c (flag only [?]/[accent ?] lines and Saṃhitā verse lines).
+Update (user, later Oct 29): reversed — w5c continues from p. 577 under the tightened [?]-lines-only rule (session started; one session may finish the range). Other workers still paused.
