@@ -3,5 +3,7 @@
 - **Range:** Sūktas 44, 45, 46 and the rest of the file (from "## SŪKTA 44", printed p. 493). Branch `claude/numerals-vol4-d`.
 - **Page map:** better scan printed = PDF − 15 confirmed at PDF 507 (header 492). (File headings "PDF M" are old-scan numbers, = printed + 14.)
 - **Done through:** Ṛk 46.1 (printed p. 573, PDF 588).
-- **Next unit:** Ṛk 46.2 (printed p. 574, PDF 589).
+- **Next unit:** Ṛk 46.2 (printed pp. 574–576, PDF 589–591). **PAUSED by the user (Oct 29, 04:4x UTC): resume here only when told.** Remaining after that: Ṛks 46.3–46.15, the volume colophon, and the unexplained PDF 624–701 (map beyond PDF 623 to be settled from the headers).
 - **Open items:** Ṛk 44.1 Pā. 6-1-203 hundreds digit (2/7-like); 44.14 Tai. Saṃ. "1-7"; 45.1 Tai. Saṃ. "3-3-2-1 / 10-5" line-split, Ni. 7-24 first digit. File headings "(PDF M)" give old-scan numbers.
+
+- **Tools added (v4d):** `vol4/tools/rp_v4d.py` (render page/crop), `zc_v4d.py` (700-dpi crop), `rep_v4d.py` (exact replacements limited to the range), `repsec_v4d.py` (exact replacements limited to one section).
