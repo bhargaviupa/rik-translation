@@ -6216,13 +6216,13 @@
 
 ### Rik 54.11 (pp. 337–340, PDF 353–356; metre Triṣṭubh — the last Rik)
 
-**Saṃhitā-pāṭha** *(p. 337; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 337; accents as printed; [accent ?]: the svarita stroke of* rakṣā *stands over ರ; set on* kṣā*)*
 
-> **स शेवृधमधि धा द्युम्नमस्मे महि क्षत्रं जनाषाळिन्द्र तव्यम् ।**
-> **रक्षा च नो मघोनः पाहि सूरीन्राये च नः स्वपत्या इषे धाः ॥ ११ ॥**
+> **स शेवृ॑ध॒मधि॑ धा द्यु॒म्नम॒स्मे महि॑ क्ष॒त्रं ज॑ना॒षाळि॑न्द्र॒ तव्यं॑ ।**
+> **रक्षा॑ च नो म॒घोनः॑ पा॒हि सू॒रीन्रा॒ये च॑ नः स्वप॒त्या इ॒षे धाः॑ ॥ ११ ॥**
 
-*sa śevṛdham adhi dhā dyumnam asme mahi kṣatraṃ janāṣāḷ indra tavyam |*
-*rakṣā ca no maghonaḥ pāhi sūrīn rāye ca naḥ svapatyā iṣe dhāḥ || 11 ||*
+*sá śévṛdham ádhi dhā dyumnám asmé máhi kṣatráṃ janāṣā́ḍ indra távyam |*
+*rákṣā ca no maghónaḥ pāhí sūrī́n rāyé ca naḥ svapatyā́ iṣé dhāḥ || 11 ||*
 
 **Pada-pāṭha** *(p. 337)*
 
@@ -6234,11 +6234,11 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 337–338)*
 
-> **हे इन्द्र स त्वमस्मे अस्मासु द्युम्नं यशोऽधि धाः । अधिनिधेहि । कीदृशमित्याह । शेवृधम् । शं शमनं । रोगाणां शमने सति यद्वर्धते तादृशम् । तथा महि महत् जनाषाट् शत्रुजनानामभिभवित्तव्यं तव्यं प्रवृद्धं क्षत्रं बलं चाधि धा इति शेषः । किंच हे इन्द्र नोऽस्मान्मघोनो धनवतः कृत्वा रक्ष । पालय । सूरीन् विदुषो विद्वान्पाहि । पालय । तथा रायै धनाय च स्वपत्यै शोभनपुत्रयुक्तायेषे चान्नाय च नोऽस्मान् धेहि । स्थापय ॥**
+> **हे इन्द्र स त्वमस्मे अस्मासु द्युम्नं यशोऽधि धाः । अधिनिधेहि । कीदृशमित्याह । शेवृधम् । शं शमनं । रोगाणां शमने सति यद्वर्धते तादृशम् । तथा महि महत् जनाषाट् शत्रुजनानामभिभवितृ तव्यं प्रवृद्धं क्षत्रं बलं चाधि धा इति शेषः । किंच हे इन्द्र नोऽस्मान्मघोनो धनवतः कृत्वा रक्ष । पालय । सूरीन् विदुषोऽन्यानपि पाहि । पालय । तथा राये धनाय च स्वपत्यै शोभनपुत्रयुक्तायेषेऽन्नाय च नोऽस्मान्धाः । धेहि । स्थापय ॥**
 
-*he indra sa tvam asme asmāsu dyumnaṃ yaśo 'dhi dhāḥ | adhinidhehi | kīdṛśam ity āha | śevṛdham | śaṃ śamanaṃ | rogāṇāṃ śamane sati yad vardhate tādṛśam | tathā mahi mahat janāṣāṭ śatrujanānām abhibhavittavyaṃ [?] tavyaṃ pravṛddhaṃ kṣatraṃ balaṃ cādhi dhā iti śeṣaḥ | kiṃca he indra no 'smān maghono dhanavataḥ kṛtvā rakṣa | pālaya | sūrīn vidușo vidvān pāhi | pālaya | tathā rāyai dhanāya ca svapatyai śobhanaputrayuktāyeṣe cānnāya ca no 'smān dhehi | sthāpaya ||*
+*he indra sa tvam asme asmāsu dyumnaṃ yaśo 'dhi dhāḥ | adhinidhehi | kīdṛśam ity āha | śevṛdham | śaṃ śamanaṃ | rogāṇāṃ śamane sati yad vardhate tādṛśam | tathā mahi mahat janāṣāṭ śatrujanānām abhibhavitṛ tavyaṃ pravṛddhaṃ kṣatraṃ balaṃ cādhi dhā iti śeṣaḥ | kiṃca he indra no 'smān maghono dhanavataḥ kṛtvā rakṣa | pālaya | sūrīn viduṣo 'nyān api pāhi | pālaya | tathā rāye dhanāya ca svapatyai śobhanaputrayuktāyeṣe 'nnāya ca no 'smān dhāḥ | dhehi | sthāpaya ||*
 
-*(Reading notes: "*abhibhavittavyaṃ*" in the print is crowded; I read from the Pratipadārtha "overcoming enemies". "*sūrīn vidușo vidvān*" is as read — the print has the repetition "*vidvān*"… [?]. The grammatical tail, pp. 338, is characterized:* dhāḥ *(*ḍudhāñ*, *luṅ/laṅ/liṭ* for the prayer sense; the loss of *ī*; *luk* by *gātisthā…*; no *āṭ* by *bahulaṃ chandasy amāṅyoge 'pi*),* asme *(*supāṃ suluk* gives *śe* for the locative; *śeṣe lopaḥ*),* janāṣāṭ *(*sahe*, *chandasi sahaḥ*, *ṇvi*; *ata upadhāyāḥ*; *saheḥ sāḍaḥ saḥ* gives *ṣatva*; the lengthening of the first member; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*, *vāvasāne* gives *ṭ*),* tavyam *(*tu* in the sense of growth; *aco yat*; *dhātoḥ… avādeśa*),* rakṣa*,* maghonaḥ *(*śvayuvamaghonām atad dhite*, Pā. 6-4-133: *saṃprasāraṇa*; *guṇa*),* pāhi*,* svapatyai *(*śobhanāny apatyāni yasyāḥ*; *jasādiṣu chandasi vā vacanam* gives *yāṭ*; *vṛddhir eci*; *nañsubhyām*; *ekādeśa udāttenodāttaḥ*; *ayādeśa* with optional loss of *y*) — the Kannada pp. 338–340 give these in full, noted below.)*
+*(Reading notes: re-read from the print: "*abhibhavitṛ tavyaṃ*" ("the overcomer of hostile people; *tavyam*, grown"), and at the head of p. 338 "*sūrīn viduṣo 'nyān api pāhi*" ("protect the wise, others too"); "*rāye*", "*iṣe 'nnāya*", "*dhāḥ | dhehi*" as printed. The grammatical tail, pp. 338, is characterized:* dhāḥ *(*ḍudhāñ*, *luṅ/laṅ/liṭ* for the prayer sense; the loss of *ī*; *luk* by *gātisthā…*; no *āṭ* by *bahulaṃ chandasy amāṅyoge 'pi*),* asme *(*supāṃ suluk* gives *śe* for the locative; *śeṣe lopaḥ*),* janāṣāṭ *(*sahe*, *chandasi sahaḥ*, *ṇvi*; *ata upadhāyāḥ*; *saheḥ sāḍaḥ saḥ* gives *ṣatva*; the lengthening of the first member; *hoḍhaḥ*, *jhalāṃ jaśo 'nte*, *vāvasāne* gives *ṭ*),* tavyam *(*tu* in the sense of growth; *aco yat*; *dhātoḥ… avādeśa*),* rakṣa*,* maghonaḥ *(*śvayuvamaghonām atad dhite*, Pā. 6-4-133: *saṃprasāraṇa*; *guṇa*),* pāhi*,* svapatyai *(*śobhanāny apatyāni yasyāḥ*; *jasādiṣu chandasi vā vacanam* gives *yāṭ*; *vṛddhir eci*; *nañsubhyām*; *ekādeśa udāttenodāttaḥ*; *ayādeśa* with optional loss of *y*) — the Kannada pp. 338–340 give these in full, noted below.)*
 
 **Translation of the bhāṣya:** "O Indra, you, *asme*, upon us — *dyumnam*, fame — *adhi dhāḥ*, bestow: what kind? *Śevṛdham*: *śam* is cessation; that which grows when diseases cease — such. And *mahi*, great, *janāṣāṭ*, overcoming the people who are enemies, *tavyam*, enlarged, *kṣatram*, strength: bestow it (this is understood). Further, O Indra, *naḥ maghonaḥ kṛtvā*, making us wealthy, *rakṣa*, protect; *sūrīn*, the wise, *pāhi*, protect; and *rāye*, for wealth, *svapatyai*, for excellent offspring, and *iṣe*, for food, *naḥ dhāḥ*, establish us."
 
@@ -6259,8 +6259,8 @@
 - **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; in the sense of prayer, *chandasi luṅlaṅliṭaḥ* gives *laṅ*; *itaś ca* drops the *i* of *sip*; *cleḥ sic* → *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* (Pā. 2-4-77) drops *sic*; *bahulaṃ chandasy amāṅyoge 'pi* gives no *aṭ*; *ru*, *visarga*: *dhāḥ*; *nighāta*.
 - **asme**: the seventh-case plural of *asmad*; *supāṃ suluk…* gives *śe* for the locative; *śeṣe lopaḥ* drops the part of *asmad* above *ma*: *asme*.
 - **janāṣāṭ**: "*janān sahate*"; *chandasi sahaḥ* (Pā. 3-2-63) gives *ṇvi* after *sah*; being *ñit*, *ata upadhāyāḥ* gives *vṛddhi*; in the nominative singular *saheḥ sāḍaḥ saḥ* (Pā. 8-3-56) gives *ṣatva* to the *s*; *anyeṣām api dṛśyate* lengthens the first member; *janāsāh* + *s*: *halṅyābbhyo…* drops *su*; *hoḍhaḥ* gives *ḍha*; *jhalāṃ jaśo 'nte* gives *ḍ*; *vāvasāne* gives *carva* optionally: *janāṣāṭ*; *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*.
-- **tavyam**: *tu* in the sense of growth (read only in sūtras); *aco yat* gives *yat*; when *yat* follows, *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; since *o* is followed by *y*, *dhātos tannimittasyaiva* (Pā. 6-1-80) gives *av*; *yato 'nāvaḥ* gives the initial acute.
-- **rakṣa**: *rakṣa pālane*; *loṭ* second singular *sip*, → *hi*; *śap*; before *a*, *ato heḥ* drops *hi*: *rakṣa*; *śap* being *pit* is *anudātta*, so the root's accent holds; since the word begins a *pāda*, *apādādau* forbids *nighāta*; in the Saṃhitā *dvyaco 'tas tiṅaḥ* lengthens it: *rakṣā*.
+- **tavyam**: *tu* in the sense of growth (read only in sūtras); *aco yat* (Pā. sū. 3-1-97) gives *yat*; when *yat* follows, *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; since *o* is followed by *y*, *dhātos tannimittasyaiva* (Pā. 6-1-80) gives *av*; *yato 'nāvaḥ* gives the initial acute.
+- **rakṣa**: *rakṣa pālane*; *loṭ* second singular *sip*, → *hi*; *śap*; before *a*, *ato heḥ* drops *hi*: *rakṣa*; *śap* being *pit* is *anudātta*, so the root's accent holds; since the word begins a *pāda*, *apādādau* forbids *nighāta*; in the Saṃhitā *dvyaco 'tas tiṅaḥ* (Pā. sū. 6-3-135) lengthens it: *rakṣā*.
 - **maghonaḥ**: *maghavan* with *śas*; because of the *bha*-designation, *śvayuvamaghonām atadhite* (Pā. 6-4-133) gives *saṃprasāraṇa*; *saṃprasāraṇāc ca*; *magha + un + as*: *guṇa*; *ru*, *visarga*: *maghonaḥ*.
 - **pāhi**: *pā rakṣaṇe*, *adādi*; *loṭ* second singular *sip* → *hi*; *adiprabhṛtibhyaḥ śapaḥ* gives *luk*; since *hi* is stated as *apit*, the suffix-accent holds; *pāhi* is end-acute; though *maghonaḥ* — a *tiṅanta* — stood before, it belongs to a different sentence; since *pāhi* is at the head of the sentence, *nighāta* does not come.
 - **svapatyai**: "*śobhanāny apatyāni yasyāḥ sā svapatyā*"; dative singular, feminine *ṅe* → *ṅī*… *jasādiṣu chandasi vā vacanam* gives *yāṭ* for the *ṅe* after a feminine stem [the *āṭ* *yoḍāpaḥ*, Pā. 7-3-113]; *vṛddhir eci* (Pā. 6-1-88) gives *vṛddhi*: *svapatyai*; *nañsubhyām* gives the end-acute of the last member; *ekādeśa udāttenodāttaḥ* gives the acute to *ai*; in the Veda, because the *e* is followed by *i*, *eco 'yavāyāvaḥ* gives *āy*, and optionally the *y* is dropped.
