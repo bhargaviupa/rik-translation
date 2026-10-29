@@ -6045,13 +6045,13 @@
 
 ### Rik 54.8 (pp. 328–330, PDF 344–346; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 328; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 328; accents as printed; [accent ?]: the anudātta under* kṣa *of* kṣatram *stands low between the lines)*
 
-> **असमं क्षत्रमसमा मनीषा प्र सोमपा अपसा सन्तु नेमे ।**
-> **ये त इन्द्र ददुषो वर्धयन्ति महि क्षत्रं स्थविरं वृष्ण्यं च ॥ ८ ॥**
+> **अस॑मं क्ष॒त्रमस॑मा मनी॒षा प्र सो॑म॒पा अप॑सा सन्तु॒ नेमे॑ ।**
+> **ये त॑ इन्द्र द॒दुषो॑ व॒र्धय॑न्ति॒ महि॑ क्ष॒त्रं स्थवि॑रं॒ वृष्ण्यं॑ च ॥ ८ ॥**
 
-*asamaṃ kṣatram asamā manīṣā pra somapā apasā santu neme |*
-*ye ta indra daduṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca || 8 ||*
+*ásamaṃ kṣatrám ásamā manīṣā́ prá somapā́ ápasā santu néme |*
+*yé ta indra dadúṣo vardháyanti máhi kṣatráṃ stháviraṃ vṛ́ṣṇyaṃ ca || 8 ||*
 
 **Pada-pāṭha** *(p. 328)*
 
@@ -6067,7 +6067,7 @@
 
 *indrasya kṣatraṃ balam asamam | na kenacit samam | sarvādhikam ity arthaḥ | tathā manīṣā buddhiś cāsamā | na kasyāpi buddhyā samānā | sarvaṃ vastu viṣayīkarotīty arthaḥ | neme iti sarvanāmaśabda etacchabdasamānārthaḥ | neme ete somapāḥ somasya pātāro yajamānā apasā karmaṇā pra santu | pravṛddhā bhavantu | he indra te tava daduṣo havirdattavanto ye tvadīyaṃ mahi mahat kṣatraṃ balaṃ sthaviraṃ sthūlaṃ pravṛddhaṃ vṛṣṇyaṃ vṛṣatvaṃ puṃstvaṃ ca vardhayanti pravṛddhaṃ kurvanti | yadvā | daduṣo yajamānebhyo yāgaphalaṃ dattavatas tava ||*
 
-*(The tail of the bhāṣya, pp. 328 foot: on* neme *(*traya… sarvādi*, the *sarvanāma*-designation; *jasaḥ śī*; the accent by *tva sama sima nema*… *phiṭ sūtra* 4-… as read [?]),* daduṣaḥ *(*ḍudāñ dāne*, *kvasu* for *liṭ*; reduplication; *ātolopa iṭi ca*; *vasoḥ saṃprasāraṇa*; *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ*; *śāsivasighasīnāṃ ca*),* mahi *(*maha pūjāyām*, Uṇādi *in*),* sthaviram *(*ṣṭhā gatinivṛttau*, *kirac* by* ajirośiraśithilasthirasphirasthavira…*, Uṇ. 1-… as read [?]) — is characterized and echoed in the Kannada notes below.)*
+*(The tail of the bhāṣya, pp. 328 foot: on* neme *(*traya… sarvādi*, the *sarvanāma*-designation; *jasaḥ śī*; the accent by *tva sama sima nema*…, printed "Phi. Su. 4-10"; *jasaḥ śī* printed "Pā. sū. 7-1-17"),* daduṣaḥ *(*ḍudāñ dāne*, *kvasu* for *liṭ*; reduplication; *ātolopa iṭi ca*; *vasoḥ saṃprasāraṇa*; *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ*; *śāsivasighasīnāṃ ca*),* mahi *(*maha pūjāyām*, Uṇādi *in*),* sthaviram *(*ṣṭhā gatinivṛttau*, *kirac* by* ajirośiraśithilasthirasphirasthavira…*, printed "Uṇ. sū. 1-54") — is characterized and echoed in the Kannada notes below.)*
 
 **Translation of the bhāṣya:** "*Indra's kṣatra*, strength, is *asamam*, equal to none: surpassing all, is the sense. And his *manīṣā*, wisdom, is also *asamā*, equal to none: no one's wisdom is like it; it takes in every object. *Neme* is a pronoun with the sense of *ete*, 'these': *neme somapāḥ*, these sacrificers, drinkers of soma, *apasā*, by rite, *pra santu*: may they grow great. O Indra, those *daduṣaḥ*, givers of oblations to you, who increase your *mahi kṣatram*, great strength, *sthaviram*, vast, enlarged, and *vṛṣṇyam*, manliness: they make it grow. Or: *daduṣaḥ* — of you who have given to the sacrificers the fruit of the sacrifice."
 
@@ -6081,16 +6081,16 @@
 - **kṣatram asamam** — "Indra's power of *kṣatra* — the ability to destroy enemies — is greater than that of all. The sense is that none equal Indra in qualities such as valour."
 - **neme** — "This is a pronoun. It has the sense of the word *etad* ('this'): *neme* means 'these'."
 - **somapāḥ** — "Those who drink the soma juice, the sacrificers."
-- **apasā** — "The word *apas* means rites such as sacrifice (Ni. 2-1 as read [?])."
+- **apasā** — "The word *apas* means rites such as sacrifice (Ni. 3-1, as printed "ನಿ. ೩-೧")."
 - **daduṣaḥ** — "It must be understood that this is both the nominative plural and the genitive singular. As nominative plural it has the sense 'those who give oblations'; as genitive singular it is also used as an epithet of Indra, in the sense of 'Indra who gives the fruit of the sacrifice to sacrificers'."
 
 **Vyākaraṇa-prakriyā** *(p. 330 — grammar page, noted briefly)*
 - **somapāḥ**: "*somaṃ pibanti iti somapāḥ*"; *pā pāne*; *kvip*; since the *kāraka* is first, *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta* final member.
-- **santu**: *as bhuvi*, *adādi*; *jhoṅtaḥ* (Pā. 7-1-3 as read [?]) gives *ant*; *eru ruḥ* gives *u*; *śnasor allopaḥ* drops the *a* of the root: *santu*; *tiṅ atiṅaḥ*, *nighāta*.
-- **neme**: since it is read in the *sarvādi* list, *sarvādīni sarvanāmāni* gives the *sarvanāma*-designation; when *jas* follows, *jaśaḥ śī* (Pā. 7-1-17) gives *śī* for *jas*; *anekāl śit sarvasya* makes it replace the whole; *ādguṇaḥ*: *neme*; since *tva sama sima nema* (Phiṭ-sūtra) would give all-*anudātta*, *vyatyayo bahulam* gives the initial acute.
-- **daduṣaḥ**: *ḍudāñ dāne*; *kvasuś ca* gives *kvasu* for *liṭ*; reduplication; the reduplicative vowel shortened; *dadā + vas*: *ātolopa iṭi ca* drops the *ā*; *vyatyayo bahulam* gives *śas*-substitution for *jas*; *ārdhadhātukasyeḍ valādeḥ* would give *iṭ* and *vasoḥ saṃprasāraṇam* the *saṃprasāraṇa* of *v*; since *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ* the *saṃprasāraṇa* takes precedence even over *iṭ*; *saṃprasāraṇāc ca* gives the earlier form; *śāsivasighasīnāṃ ca* gives *ṣatva*: *daduṣaḥ*; since the suffix is initial-acute, *daduṣaḥ* is middle-acute.
+- **santu**: *as bhuvi*, *adādi*; *jhoṅtaḥ* (no number printed) gives *ant*; *eru ruḥ* gives *u*; *śnasor allopaḥ* (Pā. sū. 6-4-111) drops the *a* of the root: *santu*; *tiṅ atiṅaḥ*, *nighāta*.
+- **neme**: since it is read in the *sarvādi* list, *sarvādīni sarvanāmāni* gives the *sarvanāma*-designation; when *jas* follows, *jaśaḥ śī* (Pā. 7-1-17) gives *śī* for *jas*; *anekāl śit sarvasya* makes it replace the whole; *ādguṇaḥ*: *neme*; since *tva sama sima nema* (printed "Phi. sū. 78"; the bhāṣya tail prints 4-10) would give all-*anudātta*, *vyatyayo bahulam* gives the initial acute.
+- **daduṣaḥ**: *ḍudāñ dāne*; *kvasuś ca* (printed "Pā. sū. 3-1-107" [as printed; for 3-2-107]) gives *kvasu* for *liṭ*; reduplication; the reduplicative vowel shortened; *dadā + vas*: *ātolopa iṭi ca* drops the *ā*; *vyatyayo bahulam* gives *śas*-substitution for *jas*; *ārdhadhātukasyeḍ valādeḥ* would give *iṭ* and *vasoḥ saṃprasāraṇam* the *saṃprasāraṇa* of *v*; since *saṃprasāraṇaṃ tadāśrayakāryaṃ ca balīyaḥ* the *saṃprasāraṇa* takes precedence even over *iṭ*; *saṃprasāraṇāc ca* gives the earlier form; *śāsivasighasīnāṃ ca* (Pā. sū. 8-3-60) gives *ṣatva*: *daduṣaḥ*; since the suffix is initial-acute, *daduṣaḥ* is middle-acute.
 - **mahi**: *maha pūjāyām*; *uṇādayo bahulam* gives *in*; *nit*, so the initial acute.
-- **sthaviram**: *ṣṭhā gatinivṛttau*; *ajirośiraśithilasthirasphirasthavira…* (Uṇ. 1-… as read [?]) the suffix *kirac* is irregularly given; "*nipāta*" is the irregular utterance including operations not obtainable by other rules; hence the initial acute. **|| 8 ||**
+- **sthaviram**: *ṣṭhā gatinivṛttau*; *ajirośiraśithilasthirasphirasthavira…* (Uṇ. sū. 1-53 as printed; the tail prints 1-54) the suffix *kirac* is irregularly given; "*nipāta*" is the irregular utterance including operations not obtainable by other rules; hence the initial acute. **|| 8 ||**
 
 ---
 
