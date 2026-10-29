@@ -5362,15 +5362,17 @@
 
 ---
 
-### Rik 53.8 (pp. 290–, PDF 306–)
+### Rik 53.8 (pp. 290–294, PDF 306–310)
 
-**Saṃhitā-pāṭha** *(p. 290; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 290; accents as printed)*
 
-> **त्वं करञ्जमुत पर्णयं वधीस्तेजिष्ठयातिथिग्वस्य वर्तनी ।**
-> **त्वं शता वङ्गृदस्याभिनत्पुरोऽनानुदः परिषूता ऋजिश्वना ॥ ८ ॥**
+> **त्वं क॑रञ्जमु॒त प॒र्णयं॑ व॒धीस्तेजि॑ष्ठयातिथि॒ग्वस्य॑ वर्त॒नी ।**
+> **त्वं श॒ता वङ्गृ॑दस्याभिन॒त्पुरो॑ऽनानु॒दः परि॑षूता ऋ॒जिश्व॑ना ॥ ८ ॥**
 
-*tvaṃ karañjam uta parṇayaṃ vadhīs tejiṣṭhayātithigvasya vartanī |*
-*tvaṃ śatā vaṅgṛdasyābhinat puro 'nānudaḥ pariṣūtā ṛjiśvanā || 8 ||*
+*tváṃ karañjam utá parṇáyaṃ vadhī́s téjiṣṭhayātithigvásya vartanī́ |*
+*tváṃ śatā́ váṅgṛdasyābhinat púro 'nānudáḥ páriṣūtā ṛjíśvanā || 8 ||*
+
+*[accent ?] वर्त॒नी (the stroke stands under the ತ-cluster of ವರ್ತ) and भिन॒त्: placed as seen.*
 
 **Pada-pāṭha** *(p. 290)*
 
@@ -5384,13 +5386,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 291)*
 
-> **हे इन्द्र त्वं करञ्जमेतत्संज्ञकमसुरमुताऽपि च पर्णयमेतन्नामानमसुरं चातिथिग्वस्यैतत्संज्ञस्य राज्ञः प्रयोजनाय तेजिष्ठया अतिशयेन तेजस्विन्या वर्तन्या वर्तन्या शत्रुप्रेरणकुशलया शक्त्या वधीः । हतवानसि । तथाननुदः । अनु पश्चाद्ध्नुदति खण्डयतीत्यनुदः । अनुचरः । तादृशोऽनुचरहित एक एव त्वमृजिश्वनैतत्संज्ञकेन राज्ञा परिषूताः परितोऽवष्टब्धाः शता शतानि शतसंख्याका वङ्गृदस्यैतत्संज्ञकस्यासुरस्य पुरः पुराणि नगराण्यभिनत् । बिभिदिषे । वधीः ।**
+> **हे इन्द्र त्वं करञ्जमेतत्संज्ञकमसुरमुताऽपि च पर्णयमेतन्नामानमसुरं चातिथिग्वस्यैतत्संज्ञस्य राज्ञः प्रयोजनाय तेजिष्ठया अतिशयेन तेजस्विन्या वर्तनी वर्तन्या शत्रुप्रेरणकुशलया शक्त्या वधीः । हतवानसि । तथाननुदः । अनु पश्चाद्यति खण्डयतीत्यनुदोऽनुचरः । तादृशोऽनुचरहित एक एव त्वमृजिश्वनैतत्संज्ञकेन राज्ञा परिषूताः परितोऽवष्टब्धाः शता शतानि शतसंख्याका वङ्गृदस्यैतत्संज्ञकस्यासुरस्य पुरः पुराणि नगराण्यभिनत् । बिभिदिषे ॥**
 
-*he indra tvaṃ karañjam etatsaṃjñakam asuram utāpi ca parṇayam etannāmānam asuraṃ cātithigvasyaitatsaṃjñasya rājñaḥ prayojanāya tejiṣṭhayā atiśayena tejasvinyā vartanyā vartanyā śatrupreraṇakuśalayā śaktyā vadhīḥ | hatavān asi | tathānanudaḥ | anu paścād dhnudati khaṇḍayatīty anudaḥ | anucaraḥ | tādṛśo 'nucarahita eka eva tvam ṛjiśvanaitatsaṃjñakena rājñā pariṣūtāḥ parito 'vaṣṭabdhāḥ śatā śatāni śatasaṃkhyākā vaṅgṛdasyaitatsaṃjñakasyāsurasya puraḥ purāṇi nagarāṇy abhinat | bibhidiṣe | vadhīḥ |*
+*he indra tvaṃ karañjam etatsaṃjñakam asuram utāpi ca parṇayam etannāmānam asuraṃ cātithigvasyaitatsaṃjñasya rājñaḥ prayojanāya tejiṣṭhayā atiśayena tejasvinyā vartanī vartanyā śatrupreraṇakuśalayā śaktyā vadhīḥ | hatavān asi | tathānanudaḥ | anu paścād yati khaṇḍayatīty anudo 'nucaraḥ | tādṛśo 'nucarahita eka eva tvam ṛjiśvanaitatsaṃjñakena rājñā pariṣūtāḥ parito 'vaṣṭabdhāḥ śatā śatāni śatasaṃkhyākā vaṅgṛdasyaitatsaṃjñakasyāsurasya puraḥ purāṇi nagarāṇy abhinat | bibhidiṣe ||*
 
-*(Reading notes: "*vartanyā vartanyā*" — the second is a repetition of the print's gloss; "*anu paścād dhnudati*" and the end "*bibhidiṣe | vadhīḥ*" (a clumsy gloss) are as read, [?]. The grammatical tail, pp. 291–: on* vadhīḥ *(*han*, *luṅ*, *sic*, the substitute* vadha *by* hano vadha liṅi*, Pā. 2-4-42 and 43 as read, [?]),* tejiṣṭhayā *(*tejas* + *iṣṭhan* ... with *vini* — "*tejasvī*"), *vartanī *(*vṛtu vartane*, *lyuṭ*, *ṅīp*),* abhinat*,* ananudaḥ *(*nud* with *ka*; *nañsubhyām*),* pariṣūtāḥ *(*ṣūṅ prāṇigarbhavimocane / sū preraṇe*, *kta*) — is characterized.)*
+*(Reading notes, settled from the print: "*vartanī vartanyā*" (the word, then its gloss); "*anu paścād yati*" (print ಪಶ್ಚಾದ್ಯತಿ; the Special Topics spell it *paścāt dyati*); the bhāṣya ends "*bibhidiṣe* ||" and *vadhīḥ* opens the grammatical tail, pp. 291–: on* vadhīḥ *(*han*, *luṅ*, *sip*, *luṅi ca* gives the substitute *vadha* (no number printed); being *a*-final it takes no *vṛddhi*, Pā. 7-3-35; being of more than one syllable, *iṭ* is not forbidden, Pā. 7-2-10; *iṭa īṭi* drops the *s* of *sic*),* tejiṣṭhayā *(*tejas* + *vini* + *iṣṭhan*, *ṭi*-elision, *nit* initial acute),* vartanī *(*lyuṭ*, *ṅīp*, Pā. 4-1-15; *supāṃ suluk*),* abhinat*,* ananudaḥ *(*do*, *ātaś copasarge*, *ka*; *nañsubhyām*),* pariṣūtāḥ *(*sū preraṇe*, *kta*) — is characterized.)*
 
-**Translation of the bhāṣya:** "O Indra, you *karañjam*, the Asura of that name, and *uta*, also *parṇayam*, the Asura of that name, *vadhīḥ*, you killed, for the sake of the king named Atithigva, with *tejiṣṭhayā vartanyā* — with a most brilliant force, skilled in driving back enemies; and *ananudaḥ*, without a follower: *anudaḥ* is one who afterwards breaks; a follower; you, such, without a follower, alone, *śatā purah*, hundreds of the cities of the Asura named *vaṅgṛda*, *pariṣūtāḥ*, surrounded all round, besieged, by the king Ṛjiśvan, *abhinat*, broke."
+**Translation of the bhāṣya:** "O Indra, you *karañjam*, the Asura of that name, and *uta*, also *parṇayam*, the Asura of that name, *vadhīḥ*, you killed, for the sake of the king named Atithigva, with *tejiṣṭhayā*, most brilliant, *vartanī*, i.e. *vartanyā*, force, skilled in driving back enemies; and *ananudaḥ*, without a follower: *anudaḥ*, one who afterwards cuts, is a follower; you, such, without a follower, alone, *śatā purah*, hundreds of the cities of the Asura named *vaṅgṛda*, *pariṣūtāḥ*, surrounded all round, besieged, by the king Ṛjiśvan, *abhinat*, broke."
 
 **Pratipadārtha** *(p. 291)* — "(O Indra) **tvam** — you; **karañjam** — the Asura named Karañja; **uta** — and; **parṇayam** — the Asura named Parṇaya; **atithigvasya** — for the sake of the king named Atithigva; **tejiṣṭhayā** — with your most brilliant; **vartanī** — force that drives enemies away; **vadhīḥ** — you killed; (likewise) **ananudaḥ** — without the help of any follower; **tvam** — you alone; **ṛjiśvanā** — by the king named Ṛjiśvan; **pariṣūtāḥ** — besieged all round; **vaṅgṛdasya** — of the Asura named Vaṅgṛda; **śatā** — a hundred; **puraḥ** — cities; **abhinat** — you broke."
 
@@ -5405,25 +5407,25 @@
 **English Translation (the source's own, p. 292)** — "You have slain Karanja and Parnaya with your bright gleaming spear in the cause of Atithigwa; unaided, you demolished the hundred cities of Vangrida when besieged by Rijiswan."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 292**
-- **karañjaṃ parṇayam** — "*Karañja* is the name of a kind of tree (Pongamia glabra [printed in English]). Here it is the name of a Daitya named Karañja. This word and the word *parṇaya* occur also in the Rik"
+- **karañjaṃ parṇayam** — "*Karañja* is the name of a kind of tree (Pongamia glabra [printed in English]). Here it is the name of a Daitya named Karañja. This word and the word *parṇaya* occur only in this Rik and in the Rik"
 
-  > **येऽर्णयेऽश्नं उत वा करञ्जे [?] प्राहं महे वृत्रहत्ये अशुश्रवि ।** *(Ṛ. Saṃ. 10-48-8 as read [?]; the print is crowded, I give it as read, doubtful)*
+  > **यत्पर्णयघ्न उत वा करञ्जहे प्राहं महे वृत्रहत्ये अशुश्रवि ।** *(Ṛ. Saṃ. 10-48-8)*
 
-  *ye 'rṇaye 'śnam uta vā karañje [?] prāhaṃ mahe vṛtrahatye aśuśravi |* — mine and tentative, rough: "…I was heard in the great Vṛtra-slaying, at [?] Parṇaya… or at Karañja." The Kannada comment: "In this Rik too, in the context of Indra's slaying the Asura Karañja, the name of the Daitya Parṇaya is told. Not much is known about them."
+  *yat parṇayaghna uta vā karañjahe prāhaṃ mahe vṛtrahatye aśuśravi |* — mine and tentative: "when, at the slaying of Parṇaya or the slaying of Karañja, in the great Vṛtra-battle, I was heard forth." The Kannada comment: "In this Rik too, in the context of Indra's slaying the Asura Karañja, the name of the Daitya Parṇaya is told. Not much is known about them."
 - **atithigvasya** — "The name of a king. For his matter see what we wrote on p. 174 (of this volume)."
 - **vartanī** — "In the sense of the third case the first has come. It means 'by the power that destroys enemies'. The derivation is *vṛtyate preryate anayeti vartanī*."
 - **ananudaḥ** — "*Anu paścāt dyati khaṇḍayati iti anudaḥ*, *anucaraḥ*: from this derivation the word *anuda* gives the sense 'follower, servant'. By this word *anudaḥ* is shown the sense: 'Indra, who destroys enemies without the help of any such follower'. *Nāsti anudo yasya ananudaḥ* is its analysis. The lengthening seen in the Saṃhitā does not belong to the rules of grammar; it is just a Vedic matter."
 - **vaṅgṛdasya** — "One who has this name is a Rākṣasa. Since his name is not found anywhere other than in this Rik, one cannot learn much about him."
-- **ṛjiśvanā** — "Ṛjiśvan is a king. For this see what we wrote on p. 169 [as read, [?]]."
+- **ṛjiśvanā** — "Ṛjiśvan is a king. For this see what we wrote on p. 169."
 - **pariṣūtāḥ** — "This word, formed from the root *sū preraṇe*, means 'attacked on all sides'."
 
 **Vyākaraṇa-prakriyā** *(pp. 293–294 — grammar pages, noted briefly)*
-- **vadhīḥ**: *han hiṃsāgatyoḥ*; *luṅ* second singular *sip*; *itaś ca* drops the *i* of *sip*; *luṅi ca* (Pā. 2-4-43) gives *vadha* for the root; since this is *a*-ending, *vṛddhi* does not come (*ato halādeḥ…*, Pā. 7-2-7 as read [?], and *ato hrasvā…*); since the root is of one syllable, *ekāca upadeśe 'nudāttāt* forbids *iṭ* to *sic*; *ārdhadhātukasyeḍ valādeḥ* gives *iṭ*; *astisicopṛkte* (Pā. 7-3-96) gives *īṭ* to the *apṛkta* *sip*; *iṭa īṭi* (Pā. 8-2-28) drops the *s* of *sic*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes: *vadhīḥ*; *nighāta*.
+- **vadhīḥ**: *han hiṃsāgatyoḥ*; *luṅ* second singular *sip*; *itaś ca* drops the *i* of *sip*; *luṅi ca* gives *vadha* for the root; since this is *a*-ending, *vṛddhi* does not come by *ato halādeḥ* (Pā. 7-3-35, as printed); for that reason it has more than one syllable, so *ekāca upadeśe 'nudāttāt* (Pā. 7-2-10) does not forbid *iṭ* to the following *ārdhadhātuka* *sic*; *ārdhadhātukasyeḍ valādeḥ* gives *iṭ*; *astisico 'pṛkte* gives *īṭ* to the *apṛkta* *sip*; *iṭa īṭi* drops the *s* of *sic*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ* comes: *vadhīḥ*; *nighāta*.
 - **tejiṣṭhayā**: the word *tejas* ends in *s*, so *asmāyāmedhāsrajo vini* (Pā. 5-2-121) gives *vini* in the sense of "having": *tejasvin*; to it, in the sense of surpassing, *ātiśāyane tamabiṣṭhanau* (Pā. 5-3-55) gives *iṣṭhan*; before *iṣṭhan*, *vinmatvor luk* (Pā. 5-3-65) drops *vin*; *ṭeḥ* (Pā. 6-4-155) drops the *ṭi* of *tejas*; in the feminine, *ṭāp* (since it ends in *a*): *tejiṣṭhā*; since *iṣṭhan* is *nit*, *ñnityādir nityam* gives the initial acute; instrumental singular.
 - **vartanī**: "*vṛtyate preryate anayeti vartanī*"; *lyuṭ* in the instrumental sense; *yuvor anākau* gives *ana*; since *lyuṭ* is *ṭit*, *ṭiḍḍhāṇañ…* (Pā. 4-1-15) gives *ṅīp* in the feminine; *vartanī + ā*: *supāṃ suluk* gives the lengthening by the same-sound rule; *vyatyayo bahulam* gives the end-acute.
 - **abhinat**: *bhidir vidāraṇe*, *rudhādi*; *laṅ* second singular *sip*; *itaś ca* drops the *i*; *rudhādibhyaḥ śnam*; being *mit*, it follows the last vowel; *halṅyābbhyo…* drops the *apṛkta* *s*; *vāvasāne* gives *carva* [*t*] for the final *d*; *aṭ* as the augment; following an *atiṅ*, *nighāta*.
-- **ananudaḥ**: *do avakhaṇḍane*; *ādeca upadeśe 'śiti* … *ā* for the root-vowel; *ātaś copasarge* (Pā. 3-2-… as read [?]): when *anu* is the prefix-*upapada*, *ka* after the root; *ato lopa iṭi ca* drops the *ā*: *anuda*; "*nāsti anudo yasya ananudaḥ*"; *naño naluk* [as printed, "*nalopo nañaḥ*"] drops the *n* of *nañ* — since *a* is *nañ*'s remnant, *tasmān nuḍ aci* gives *nuṭ* to the following vowel; *nañsubhyām* gives the end-acute of the last member; in the Saṃhitā, Vedic lengthening (*ānānudaḥ*).
-- **pariṣūtāḥ**: *sū preraṇe*; *kta* in the passive; being *kit*, no *guṇa*; *upasargāt sunoti…* (Pā. 8-3-65) gives *ṣatva*; *gatir anantaraḥ* keeps the prefix *pari*'s own accent. **|| 8 ||**
+- **ananudaḥ**: *do avakhaṇḍane*; *ādeca upadeśe 'śiti* (Pā. 6-1-45) … *ā* for the root-vowel; *ātaś copasarge* (Pā. 3-1-136): when *anu* is the prefix-*upapada*, *ka* after the root; *ato lopa iṭi ca* drops the *ā*: *anuda*; "*nāsti anudo yasya ananudaḥ*"; *naño naluk* [as printed, "*nalopo nañaḥ*"] drops the *n* of *nañ* — since *a* is *nañ*'s remnant, *tasmān nuḍ aci* (Pā. 6-3-74) gives *nuṭ* to the following vowel; *nañsubhyām* gives the end-acute of the last member; in the Saṃhitā, Vedic lengthening (*ānānudaḥ*).
+- **pariṣūtāḥ**: *sū preraṇe*; *kta* in the passive; being *kit*, no *guṇa*; *upasargāt sunoti…* gives *ṣatva*; *gatir anantaraḥ* (Pā. 6-2-49) keeps the prefix *pari*'s own accent. **|| 8 ||**
 
 ---
 
