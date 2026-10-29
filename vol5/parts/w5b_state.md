@@ -2,6 +2,6 @@
 
 Range: Vol 5 Sūktas 54–56 (printed pp. 303–391 = better-scan PDF 317–405); then Ṛk 60.3 (p. 469 = PDF 485) → end of Sūkta 61 (p. 530 = PDF 546).
 Branch: claude/pass2-vol5-b. Page map (better scan): printed = PDF − 14 for PDF 248–465; printed = PDF − 16 from PDF 468.
-Done through: Rik 54.3 (p. 313, PDF 327).
-Next unit: Rik 54.4 (pp. 313–, PDF 327–); p. 313 (PDF 327) already viewed (Saṃhitā of 54.4 at its foot, not yet zoomed).
+Done through: Rik 54.4 (p. 317, PDF 331).
+Next unit: Rik 54.5 (pp. 317–, PDF 331–); p. 317 already viewed at 120 dpi (Saṃhitā not yet zoomed).
 Open items: 54 intro Kannada ref "(ಸಿ. ೬-೪)" letter [?]; 54.1 Special Topic "samāsayatā", "teja[?]tā" [?]; 54.1 pṛ accent [accent ?]; heading vargas printed 16, 18 (check against closing notes).
