@@ -7,6 +7,13 @@ adapted to Vol 5's layout. Work on the branch the session is given; commit and p
 the user says so; no PRs. Each run is a fresh session: read this file and `vol5/vol5_state.md`, continue where the state says,
 update the state before stopping.
 
+**Image budget (user, Oct 29; images are the largest cost of the pass):**
+- Read each page **once** at about **120 dpi** (grayscale, cropped to the text block). Do not view whole pages at 250–450 dpi.
+- Zoom only what that view cannot settle: a doubtful digit, letter or accent mark. Crop just that number group, word or Saṃhitā
+  line (keep a zoom crop under about 1,500 px wide); use 300 dpi first and 450 dpi only if 300 is not enough.
+- Do not zoom numerals that are clear at 120 dpi, and do not re-view a page already read; take notes instead.
+- For accents, crop only the Saṃhitā lines, not the page.
+
 ## Inputs and differences from Vol 2
 - Scan: `Rig_Vol5.pdf` at the repository root (724 PDF pp., Git LFS; `git lfs pull` if a small pointer). No "better scan" exists
   for Vol 5 (`vol5/scans/` is empty); the user may add one later — then point `V5SCAN`/`cfg.py` at it. **Printed page = PDF − 16**

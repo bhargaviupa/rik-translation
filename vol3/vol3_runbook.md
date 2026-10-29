@@ -16,6 +16,13 @@ every page batch; **merge into `main` only when the user says so**; no PRs. No p
 fresh session: read this file and `vol3/vol3_state.md` first, continue from where `vol3_state.md` says, update
 `vol3_state.md` before stopping. The scheduled task starts Vol 3 only when `vol2/vol2_state.md` says "done".
 
+**Image budget (user, Oct 29; images are the largest cost of the pass):**
+- Read each page **once** at about **120 dpi** (grayscale, cropped to the text block). Do not view whole pages at 250–450 dpi.
+- Zoom only what that view cannot settle: a doubtful digit, letter or accent mark. Crop just that number group, word or Saṃhitā
+  line (keep a zoom crop under about 1,500 px wide); use 300 dpi first and 450 dpi only if 300 is not enough.
+- Do not zoom numerals that are clear at 120 dpi, and do not re-view a page already read; take notes instead.
+- For accents, crop only the Saṃhitā lines, not the page.
+
 ## Inputs (all under `vol3/`; see `vol3/README.md`)
 - Main file: `vol3/Rigveda_Samhita_Vol3_English_Translation.md` (and its `.docx`). It is organised by Ṛk: headings
   `### Pages A–B — Sūkta N, Rik M`, with `*(p. N)*` markers on the parts inside.

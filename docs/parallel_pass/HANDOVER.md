@@ -32,6 +32,7 @@ Gaps not in any range are already done (the first pass covered them). New state 
 | v5c | Vol 5 pp. 392–708 | Ṛk 60.2 (p. 468) | session_01CtcBQRm9oLEPL2WTzgp1Lu |
 
 ## Rules every worker follows (prompt template: `worker_prompt_template.txt`)
+- **Image budget:** each page once at ~120 dpi; zoom only doubtful digits/letters/accents with tight crops (300 dpi, 450 only if needed); no whole-page high-dpi views; no re-viewing (see the runbooks).
 - **Scope (user, Oct 29): local corrections only, as in the Vol 4 runbook** — numerals, [?], clear misreadings, Saṃhitā accents; no wholesale re-transcription or rewriting of sound text (Vol 3 workers rewrote whole Ṛks until the pause; that stops).
 - Only its own range; exact, local replacements only — **never a whole-file script** (no `add_iast.py` on the whole file, no un-ranged `sed -i`), so the branches merge cleanly.
 - **No OCR for any reading**; numbers and words only from crops actually viewed. **Blank image view → stop**, write nothing for that page.
