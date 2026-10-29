@@ -9069,13 +9069,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.10 (pp. 510–512, PDF 526–528)
 
-**Saṃhitā-pāṭha** *(p. 510)*
+**Saṃhitā-pāṭha** *(p. 510; accents as printed; the anudātta under* vṛ *of* vṛtram *stands between* vṛ *and* tra *[accent ?])*
 
-> **अस्येदेव शवसा शुषन्तं वि वृश्चद्वज्रेण वृत्रमिन्द्रः ।**
-> **गा न व्राणा अवनीरमुञ्चदभि श्रवो दावने सचेताः ॥ १० ॥**
+> **अ॒स्येदे॒व शव॑सा शु॒षन्तं॒ वि वृ॑श्च॒द्वज्रे॑ण वृ॒त्रमिन्द्रः॑ ।**
+> **गा न व्रा॒णा अ॒वनी॑रमुञ्चद॒भि श्रवो॑ दा॒वने॒ सचे॑ताः ॥ १० ॥**
 
-*asyed eva śavasā śuṣantaṃ vi vṛścad vajreṇa vṛtram indraḥ |*
-*gā na vrāṇā avanīr amuñcad abhi śravo dāvane sacetāḥ || 10 ||*
+*asyéd evá śávasā śuṣántaṃ ví vṛścad vájreṇa vṛtrám índraḥ |*
+*gā na vrāṇā́ avánīr amuñcad abhí śrávo dāváne sácetāḥ || 10 ||*
 
 **Pada-pāṭha** *(p. 510)*
 
@@ -9091,7 +9091,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *asyaivendrasya śavasā balena śuṣantaṃ śuṣyantaṃ vṛtram indro vajreṇa vi vṛścat | vyacchinat | tathā gā na coraiḥ apahṛtā gāva iva vrāṇā vṛtreṇāvṛtā avanī rakṣaṇahetubhūtā apo 'muñcat | avarṣīt | tathā dāvane havirdātre yajamānāya sacetās tena yajamānena samānacittaḥ san śravaḥ karmaphalabhūtam annam abhyābhimukhyena dadātīti śeṣaḥ ||*
 
-*(The grammatical tail, p. 510, characterized, not transcribed: **śuṣantam** — *śuṣa śoṣaṇe*, *śa* in place of *śyan* by *vyatyaya*, the accent of the *vikaraṇa* remains; **vrāṇāḥ** — *vṛñ varaṇe*, passive *laṭ*, *śānac*, the *yak* lost by *bahulaṃ chandasi*, *yaṇ*; **avanīḥ** — *ava rakṣaṇe*, the suffix *ani* in the instrumental sense (Uṇ. 3-[?] [?]), acute on the suffix; **dāvane** — *āto manin kvanib vanipaś ca* [as read, ?]: *vanip*, the *a*-elision not applied in the dative, by Vedic licence.)*
+*(The grammatical tail, p. 510, characterized, not transcribed: **śuṣantam** — *śuṣa śoṣaṇe*, *śa* in place of *śyan* by *vyatyaya*, the accent of the *vikaraṇa* remains; **vrāṇāḥ** — *vṛñ varaṇe*, passive *laṭ*, *śānac*, the *yak* lost by *bahulaṃ chandasi*, *yaṇ*; **avanīḥ** — *ava rakṣaṇe*, the suffix *ani* in the instrumental sense (Uṇ. 2-103), acute on the suffix; **dāvane** — *āto manin…* (printed *āto maninn iti vanip*): *vanip*, the *a*-elision not applied in the dative, by Vedic licence.)*
 
 **Translation of the bhāṣya:** "*Asyaiva*: of this same Indra, *śavasā*, by the strength, *śuṣantam*, the drying [one], *vṛtram*, Vṛtra, Indra *vi vṛścat*, tore apart, with the thunderbolt. And as cows seized by thieves, so *vrāṇāḥ*, the waters held back by Vṛtra, the *avanīḥ*, protectors [or 'refreshers', that are the cause of sustenance] — he *amuñcat*, let loose; i.e. he rained. And *sacetāḥ*, of one mind with that sacrificer, *dāvane*, to the sacrificer who gives the oblation, he gives *śravaḥ*, food that is the fruit of the rite, *abhi*, in front of him [bestowing] — the verb is to be supplied."
 
@@ -9103,7 +9103,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 511** — **śuṣantam** — *śuṣyantam*, from the root *śuṣa śoṣaṇe*: "this word, formed from the root meaning 'to dry', means 'one who dries up (the water)'. It is an epithet of the word *vṛtram*." **vrāṇāḥ** — *vṛtreṇāvṛtāḥ*: "the waters in the cloud, held back by the Asura Vṛtra; a word derived from the root *vṛñ varaṇe*." **sacetāḥ** — *tena yajamānena cetaḥ cittaṃ yasya*: "one whose firm mind is with the sacrificer; one whose mind acts in accordance with the sacrificer's wish." **śravaḥ** — *karmaphalabhūtam annam*: "Indra gives those who have performed rites such as sacrifices the food suited to their worth: this is the idea."
 
-**Vyākaraṇa-prakriyā** *(pp. 511–512 — noted briefly)* — *Grammar pages, noted briefly.* **śuṣantam**: *śuṣa śoṣaṇe* (*divādi*); *śatṛ* in the present sense; *divādibhyaḥ śyan* would apply, but by *vyatyayo bahulam* it is *śa*; *śuṣat*; since the *lasārvadhātuka* follows a root of *a*-*upadeśa*, it is unaccented (*tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*), so the accent of the *vikaraṇa* remains; accusative singular: *ugit*, so *num* (*ugidacāṃ…*), with anusvāra by *parasavarṇa*. **vṛścat**: *ovraścū chedane*; *laṅ*, third singular; loss of the *i* of *ti*; *tudādibhyaḥ śaḥ*: *śa*; *sārvadhātukam apit* is *ṅit*, so *grahijyā…*: *saṃprasāraṇa*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*. **vrāṇāḥ**: *vṛñ varaṇe*; passive *laṭ*, *śānac*; *bahulaṃ chandasi*: the *yak* that came from the *sārvadhātuka* is lost; *śānac* being *ñit*, no *guṇa* of the root; *iko yaṇaci*: *yaṇ*; accent at the end by the suffix [the print cites *citaḥ*, as printed]. **avanīḥ**: *ava rakṣaṇe*; in the instrumental sense *artistṛdhṛ…* (Uṇ. 3-[?] as read [?]): the suffix *ani*; the *va* and the following *ā* acute by the suffix's initial acute; accusative plural. **amuñcat**: *mucḷ mokṣaṇe*; *śe muca…*: *num*; *laṅ*, third singular; *nighāta*. **dāvane**: *ḍudāñ dāne*; *āto manin…*: *vanip*; the stem *dāvan*; in the dative singular the *a*-elision does not occur, by Vedic licence.
+**Vyākaraṇa-prakriyā** *(pp. 511–512 — noted briefly)* — *Grammar pages, noted briefly.* **śuṣantam**: *śuṣa śoṣaṇe* (*divādi*); *śatṛ* in the present sense; *divādibhyaḥ śyan* would apply, but by *vyatyayo bahulam* it is *śa*; *śuṣat*; since the *lasārvadhātuka* follows a root of *a*-*upadeśa*, it is unaccented (*tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam*), so the accent of the *vikaraṇa* remains; accusative singular: *ugit*, so *num* (*ugidacāṃ…*), with anusvāra by *parasavarṇa*. **vṛścat**: *ovraścū chedane*; *laṅ*, third singular; loss of the *i* of *ti*; *tudādibhyaḥ śaḥ*: *śa*; *sārvadhātukam apit* is *ṅit*, so *grahijyā…*: *saṃprasāraṇa*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*. **vrāṇāḥ**: *vṛñ varaṇe*; passive *laṭ*, *śānac*; *bahulaṃ chandasi*: the *yak* that came from the *sārvadhātuka* is lost; *śānac* being *ñit*, no *guṇa* of the root; *iko yaṇaci*: *yaṇ*; accent at the end by the suffix [the print cites *citaḥ*, as printed]. **avanīḥ**: *ava rakṣaṇe*; in the instrumental sense *artistṛdhṛ…* (Uṇ. sū. 2-259 as read [?]; faint; the tail has 2-103): the suffix *ani*; the *va* and the following *ā* acute by the suffix's initial acute; accusative plural. **amuñcat**: *mucḷ mokṣaṇe*; *śe muca…*: *num*; *laṅ*, third singular; *nighāta*. **dāvane**: *ḍudāñ dāne*; *āto manin…*: *vanip*; the stem *dāvan*; in the dative singular the *a*-elision does not occur, by Vedic licence.
 
 ---
 
