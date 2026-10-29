@@ -8161,13 +8161,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 42.9 (pp. 459–462, PDF 473–476)
 
-**Saṃhitā-pāṭha** *(p. 459; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 459; Saṃhitā accents as printed; Pada unaccented.)*
 
-> **शग्धि पूर्धि प्र यंसि च शिशीहि प्रास्युदरम् ।**
-> **पूषन्निह क्रतुं विदः ॥ ९ ॥**
+> **श॒ग्धि पू॒र्धि प्र यं॑सि च शिशी॒हि प्रास्यु॒दरं॑ ।**
+> **पूष॑न्नि॒ह क्रतुं॑ विदः ॥ ९ ॥**
 
-*śagdhi pūrdhi pra yaṃsi ca śiśīhi prāsy udaram |*
-*pūṣann iha kratuṃ vidaḥ || 9 ||*
+*śagdhí pūrdhí prá yaṃsi ca śiśīhí prā́sy udáraṃ |*
+*pū́ṣann ihá krátuṃ vidaḥ || 9 ||*
 
 **Pada-pāṭha** *(p. 459)*
 
@@ -8185,13 +8185,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Translation:** "O Pūṣan, *śagdhi* — be able to favour us. *Pūrdhi* — fill our house with wealth. And *pra yaṃsi* — give also any other thing that is wished for. *Śiśīhi* — sharpen us in the midst of all: make us full of vigour. *Udaram prāsi* — fill our belly with delicious food or with Soma juice. The rest is as before [*pūṣann iha kratuṃ vidaḥ*]."
 
-> **शग्धि । शक्ल् शक्तौ । लोटो हिः । स्वादिभ्यः श्नुः । बहुलं छन्दसीति विकरणस्य लुक् । हुझल्भ्यो हेर्धिः । पा. ६-४-१०१ । इति धिरादेशः । हेरपित्त्वादनुदात्तत्वे धातुस्वरः । पूर्धि । प्या पालनपूरणयोः । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । पूर्ववद्विकरणस्य लुक् । उदोष्ठ्यपूर्वस्य । पा. ७-१-१०२ । इत्युत्वं । हलि च । पा. ८-२-७७ । इति दीर्घः । तिङः परत्वान्निघाताभावः । यंसि । यम उपरमे । लोडर्थे लेट् । पूर्ववद्विकरणस्य लुक् । निघातः । शिशीहि । शो तनूकरणे । लोटि बहुलं छन्दसीत्यभ्यासस्येत्वं । ईहल्यघोः । पा. ६-४-११३ । इतीत्वं । प्रत्ययस्वरः । प्रासि । प्रा पूरणे । अदादित्वाच्छपो लुक् । सिपः पित्त्वादनुदात्तत्वे धातुस्वरः ॥ ९ ॥**
+> **शग्धि । शक्लृ शक्तौ । लोटो हिः । बहुलं छन्दसीति विकरणस्य लुक् । हुझल्भ्यो हेर्धिरिति धिरादेशः । हेरपित्त्वात्प्रत्ययस्वरेणोदात्तत्वं । पूर्धि । पॄ पालनपूरणयोः । श्रुशृणुपृकृवृभ्यश्छन्दसीति हेर्धिरादेशः । पूर्ववद्विकरणस्य लुक् । उदोष्ठ्यपूर्वस्येत्युत्वं । हलि चेति दीर्घः । तिङः परत्वान्निघाताभावः । यंसि । यमु उपरमे । लोडर्थे लटि पूर्ववद्विकरणस्य लुक् । निघातः । शिशीहि । शो तनूकरणे । लोटि बहुलं छन्दसीत्यभ्यासस्येत्वं । ई हल्यघोरितीत्वं । प्रत्ययस्वरः । प्रासि । प्रा पूरणे । अदादित्वाच्छपो लुक् । सिपः पित्त्वादनुदात्तत्वे धातुस्वरः ॥**
 
-*śagdhi | śakla śaktau | loṭo hiḥ | svādibhyaḥ śnuḥ | bahulaṃ chandasīti vikaraṇasya luk | hujhalbhyo her dhiḥ | pā. 6-4-101 | iti dhirādeśaḥ | her apittvād anudāttatve dhātusvaraḥ | pūrdhi | pyā pālanapūraṇayoḥ | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhirādeśaḥ | pūrvad vikaraṇasya luk | udoṣṭhyapūrvasya | pā. 7-1-102 | ity utvaṃ | hali ca | pā. 8-2-77 | iti dīrghaḥ | tiṅaḥ paratvān nighātābhāvaḥ | yaṃsi | yama uparame | loḍarthe leṭ | pūrvavad vikaraṇasya luk | nighātaḥ | śiśīhi | śo tanūkaraṇe | loṭi bahulaṃ chandasīty abhyāsasyetvaṃ | īhalyaghoḥ | pā. 6-4-113 | itītvaṃ | pratyayasvaraḥ | prāsi | prā pūraṇe | adāditvāc chapo luk | sipaḥ pittvād anudāttatve dhātusvaraḥ || 9 ||*
+*śagdhi | śakḷ śaktau | loṭo hiḥ | bahulaṃ chandasīti vikaraṇasya luk | hujhalbhyo her dhir iti dhirādeśaḥ | her apittvāt pratyayasvareṇodāttatvaṃ | pūrdhi | pṝ pālanapūraṇayoḥ | śruśṛṇupṛkṛvṛbhyaś chandasīti her dhirādeśaḥ | pūrvavad vikaraṇasya luk | udoṣṭhyapūrvasyety utvaṃ | hali ceti dīrghaḥ | tiṅaḥ paratvān nighātābhāvaḥ | yaṃsi | yamu uparame | loḍarthe laṭi pūrvavad vikaraṇasya luk | nighātaḥ | śiśīhi | śo tanūkaraṇe | loṭi bahulaṃ chandasīty abhyāsasyetvaṃ | ī halyaghor itītvaṃ | pratyayasvaraḥ | prāsi | prā pūraṇe | adāditvāc chapo luk | sipaḥ pittvād anudāttatve dhātusvaraḥ ||*
 
-*(The rule-name "hujhalbhyo her dhiḥ" and its number are as read [?], and the stretch on* śagdhi*'s accent is crowded [?].)*
+*(Grammatical tail re-transcribed from the print, p. 460: it gives no sūtra numbers, has no* svādibhyaḥ śnuḥ*, and reads* her apittvāt pratyayasvareṇodāttatvaṃ*,* pṝ*,* yamu*,* laṭi*; it ends "dhātusvaraḥ ||" without a Ṛk number.)*
 
-**Translation of the grammatical tail** *(characterized)*: *Śagdhi* — root *śakla śaktau*; the substitute *hi* for *loṭ*; *śnu* from the *svādi* class; elided by *bahulaṃ chandasi*; *dhi* for *hi* by *hujhalbhyo her dhiḥ* [Pā. 6-4-101 [?]]; since *hi* is not *pit* the root accent remains. *Pūrdhi* — root *pyā pālanapūraṇayoḥ*; *dhi* by *śruśṛṇupṛkṛvṛbhyaś chandasi*; the *vikaraṇa* elided as before; *u* for the *ṛ* after a labial by *udoṣṭhyapūrvasya* [Pā. 7-1-102]; lengthening by *hali ca* [Pā. 8-2-77]; no *nighāta* since it follows a *tiṅ*. *Yaṃsi* — root *yama uparame*; *leṭ* in the sense of *loṭ*; *vikaraṇa* elided as before; unaccented. *Śiśīhi* — root *śo tanūkaraṇe*; *i* in the reduplicate by *bahulaṃ chandasi*; *ī* by *īhalyaghoḥ* [Pā. 6-4-113]; the accent of the suffix. *Prāsi* — root *prā pūraṇe*; *śap* elided because of the *adādi* class; since *sip* is *pit* the root accent remains.
+**Translation of the grammatical tail** *(characterized)*: *Śagdhi* — root *śakḷ śaktau*; the substitute *hi* for *loṭ*; the *vikaraṇa* elided by *bahulaṃ chandasi*; *dhi* for *hi* by *hujhalbhyo her dhiḥ*; since *hi* is not *pit*, acute by the suffix accent. *Pūrdhi* — root *pṝ pālanapūraṇayoḥ*; *dhi* by *śruśṛṇupṛkṛvṛbhyaś chandasi*; the *vikaraṇa* elided as before; *u* for the *ṛ* after a labial by *udoṣṭhyapūrvasya*; lengthening by *hali ca*; no *nighāta* since it follows a *tiṅ*. *Yaṃsi* — root *yamu uparame*; *laṭ* in the sense of *loṭ*; *vikaraṇa* elided as before; unaccented. *Śiśīhi* — root *śo tanūkaraṇe*; *i* in the reduplicate by *bahulaṃ chandasi*; *ī* by *ī halyaghoḥ*; the accent of the suffix. *Prāsi* — root *prā pūraṇe*; *śap* elided because of the *adādi* class; since *sip* is *pit* the root accent remains.
 
 **Pratipadārtha** *(p. 460)* — "**pūṣan** — O Pūṣan; **śagdhi** — be able to favour us; **pūrdhi** — fill our house with abundant wealth; **pra yaṃsi** — give well the good things that we wish; **śiśīhi** — make us full of vigour in the midst of all; **udaram** — our belly; **prāsi** — fill with delicious food; **iha** — on this road; **kratum** — the way of protecting [us]; **vidaḥ** — know."
 
@@ -8202,11 +8202,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 461** — "In this ṛk the ṛṣi prays that wealth, food and desired things be given to him. Although only the verbs *śagdhi*, *pūrdhi*, *yaṃsi*, *śiśīhi* and *prāsi*, which suggest this sense, are used, one must supply in thought the nouns suited to them."
 
 **Vyākaraṇa-prakriyā** *(pp. 461–462 — grammar pages, noted briefly)*
-- **śagdhi**: root *śakla śaktau* [print: *śaklṛ śaktau*]; *loṭ*, *sip*, *hi*; *svādibhyaḥ śnuḥ* [Pā. 3-1-73]: *śnu*; *bahulaṃ chandasi* [Pā. 2-4-73 as read] elides it; *hujhalbhyo her dhiḥ* — हुझल्भ्यो हेर्धिः — [Pā. 6-4-101 as read]: *dhi* for *hi* after *hu* or a root ending in a *jhal*; *hi* is *apit*, so *ṅit*; *anudāttau suppitau* gives it no accent so the root accent stands; by the suffix accent it would otherwise be acute.
-- **pūrdhi**: *pyā pālanapūraṇayoḥ*, *loṭ*, *sip*, *hi*; the *vikaraṇa* elided as before. "But this root is read both in the *juhotyādi* and in the *kryādi*: if the *juhotyādi* is accepted, *śap* is elided in place of *ślu*; if the *kryādi*, *śnā* is elided." *Śruśṛṇupṛkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — [Pā. 6-4-102 as read]: *dhi* for *hi*; *udoṣṭhyapūrvasya* — उदोष्ठ्यपूर्वस्य — [Pā. 7-1-102 as read]: the *ṛ* ending a stem preceded by a labial letter (*pa*-class) becomes *ur* [print: *u* and *ur*]: *pur + dhi*; *hali ca* — हलि च — [Pā. 8-2-77 as read]: the penultimate *ik* of a root ending in *r* or *v* before a consonant is lengthened: *pūrdhi*; since it follows *śagdhi*, a verb, it is not wholly unaccented.
-- **yaṃsi**: *yamu uparame*, first class; *leṭ* in the sense of *loṭ*; *sip*, *śap*, elided as before; *naś cāpadāntasya jhali* [Pā. 8-3-24 as read] *anusvāra* for *m*; *tiṅ atiṅaḥ* wholly unaccented.
-- **śiśīhi**: *śo tanūkaraṇe*, *divādi*; *ādeca upadeśe 'śiti* [Pā. 6-1-45 as read]: *ā* for *o*; *loṭ*, *hi*; *divādibhyaḥ śyan*: *śyan*; *bahulaṃ chandasi* [Pā. 2-4-76 as read] *ślu* for *śyan*; *ślau*: doubling; *bahulaṃ chandasi* [Pā. 7-4-78 as read]: *i* for the *ā* of the reduplicate; *ubhe abhyastam* [Pā. 6-1-5 as read]: the doubled word is called *abhyasta*; *śnābhyastayor ātaḥ* the loss of *ā*; *hi* is *apit*; accent of the suffix.
-- **prāsi**: *prā pūraṇe*, *adādi*; *laṭ* in the sense of *loṭ*; *adiprabhṛtibhyaḥ śapaḥ* [Pā. 2-4-72] *luk*; *sip* is *pit*, so *tāsyanudāttet…* makes it unaccented; the root accent stands. Rik 9 ends here (*|| 9 ||*).
+- **śagdhi**: root *śakla śaktau* [print: *śaklṛ śaktau*]; *loṭ*, *sip*, *hi*; *svādibhyaḥ śnuḥ* (no number printed): *śnu*; *bahulaṃ chandasi* [Pā. 2-4-73 as read] elides it; *hujhalbhyo her dhiḥ* — हुझल्भ्यो हेर्धिः — (Pā. Sū. 7-4-101 [as printed; for 6-4-101]; the first digit is the flat-footed 7, not the hooked 6): *dhi* for *hi* after *hu* or a root ending in a *jhal*; *hi* is *apit*, so *ṅit*; *anudāttau suppitau* gives it no accent so the root accent stands; by the suffix accent it would otherwise be acute.
+- **pūrdhi**: *pṝ pālanapūraṇayoḥ*, *loṭ*, *sip*, *hi*; the *vikaraṇa* elided as before. "But this root is read both in the *juhotyādi* and in the *kryādi*: if the *juhotyādi* is accepted, *śap* is elided in place of *ślu*; if the *kryādi*, *śnā* is elided." *Śruśṛṇupṛkṛvṛbhyaś chandasi* — श्रुशृणुपृकृवृभ्यश्छन्दसि — (no number printed): *dhi* for *hi*; *udoṣṭhyapūrvasya* — उदोष्ठ्यपूर्वस्य — (Pā. Sū. 7-1-102): the *ṛ* ending a stem preceded by a labial letter (*pa*-class) becomes *ur* [print: *u* and *ur*]: *pur + dhi*; *hali ca* — हलि च — (Pā. Sū. 8-2-77): the penultimate *ik* of a root ending in *r* or *v* before a consonant is lengthened: *pūrdhi*; since it follows *śagdhi*, a verb, it is not wholly unaccented.
+- **yaṃsi**: *yamu uparame*, first class; *leṭ* in the sense of *loṭ*; *sip*, *śap*, elided as before; *naś cāpadāntasya jhali* (no number printed) *anusvāra* for *m*; *tiṅ atiṅaḥ* wholly unaccented.
+- **śiśīhi**: *śo tanūkaraṇe*, *divādi*; *ādeca upadeśe 'śiti* (no number printed): *ā* for *o*; *loṭ*, *hi*; *divādibhyaḥ śyan*: *śyan*; *bahulaṃ chandasi* (Pā. Sū. 2-4-76) *ślu* for *śyan*; *ślau*: doubling; *bahulaṃ chandasi* (Pā. Sū. 7-4-78): *i* for the *ā* of the reduplicate; *ubhe abhyastam* (Pā. Sū. 6-1-25 [as printed; for 6-1-5]): the doubled word is called *abhyasta*; *śnābhyastayor ātaḥ* the loss of *ā*; *hi* is *apit*; accent of the suffix.
+- **prāsi**: *prā pūraṇe*, *adādi*; *laṭ* in the sense of *loṭ*; *adiprabhṛtibhyaḥ śapaḥ* (no number printed) *luk*; *sip* is *pit*, so *tāsyanudāttet…* makes it unaccented; the root accent stands. Rik 9 ends here (*|| 9 ||*).
 
 ---
 
