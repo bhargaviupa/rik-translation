@@ -8113,13 +8113,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 42.8 (pp. 457–, PDF 471–)
 
-**Saṃhitā-pāṭha** *(p. 457 foot; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 457 foot; Saṃhitā accents as printed; Pada unaccented.)*
 
-> **अभि सूयवसं नय न नवज्वारो अध्वने ।**
-> **पूषन्निह क्रतुं विदः ॥ ८ ॥**
+> **अ॒भि सू॒यव॑सं नय॒ न न॑वज्वा॒रो अध्व॑ने ।**
+> **पूष॑न्नि॒ह क्रतुं॑ विदः ॥ ८ ॥**
 
-*abhi sūyavasaṃ naya na navajvāro adhvane |*
-*pūṣann iha kratuṃ vidaḥ || 8 ||*
+*abhí sūyávasaṃ naya ná navajvāró ádhvane |*
+*pū́ṣann ihá krátuṃ vidaḥ || 8 ||*
 
 **Pada-pāṭha** *(p. 458)*
 
@@ -8154,8 +8154,8 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **navajvāraḥ** — "*jvara roge*; *jvara eva jvāraḥ*; *navaś cāsau jvāraś ca navajvāraḥ*: a new, or an excessive, heat; a burning, a scorching with the heat of the sun."
 
 **Vyākaraṇa-prakriyā** *(p. 459 — grammar page, noted briefly)*
-- **sūyavasam**: "*yavasa* means grass; here herbs are also meant. *Śobhanaḥ* = good; *yavasaḥ* = herbs: 'in which country that is'. The long vowel of the first member by *nipātasya ca*; by *kratvādayaś ca* [Pā. 6-2-118 as read] the first-syllable acute of the latter member may be said."
-- **navajvāraḥ**: *jvara roge*; *ghañ* in the abstract; *upadhāvṛddhi*; '*navaś cāsau jvāraś ca*'; by *thāthaghañktājabitrakāṇām* [Pā. 6-2-144 as read] the latter member is final-acute. Rik 8 ends here (*|| 8 ||*).
+- **sūyavasam**: "*yavasa* means grass; here herbs are also meant. *Śobhanaḥ* = good; *yavasaḥ* = herbs: 'in which country that is'. The long vowel of the first member by *nipātasya ca*; by *kratvādayaś ca* (no number printed) the first-syllable acute of the latter member may be said."
+- **navajvāraḥ**: *jvara roge*; *ghañ* in the abstract; *upadhāvṛddhi*; '*navaś cāsau jvāraś ca*'; by *thāthaghañktājabitrakāṇām* (no number printed) the latter member is final-acute. Rik 8 ends here (*|| 8 ||*).
 
 ---
 
