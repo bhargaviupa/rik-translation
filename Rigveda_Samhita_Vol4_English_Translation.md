@@ -7916,13 +7916,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 42.4 (pp. 447–449, PDF 461–463)
 
-**Saṃhitā-pāṭha** *(p. 447; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 447; Saṃhitā accents as printed; Pada unaccented.)*
 
-> **त्वं तस्य द्वयाविनोऽघशंसस्य कस्य चित् ।**
-> **पदाभि तिष्ठ तपुषिम् ॥ ४ ॥**
+> **त्वं तस्य॑ द्वया॒विनो॒ऽघशं॑सस्य॒ कस्य॑ चित् ।**
+> **प॒दाभि ति॑ष्ठ॒ तपु॑षिं ॥ ४ ॥**
 
-*tvaṃ tasya dvayāvino 'ghaśaṃsasya kasya cit |*
-*padābhi tiṣṭha tapuṣim || 4 ||*
+*tváṃ tasya dvayāvíno 'gháśaṃsasya kásya cit |*
+*padā́bhí tiṣṭha tápuṣiṃ || 4 ||*
 
 **Pada-pāṭha** *(p. 447)*
 
@@ -7934,13 +7934,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(pp. 447–448)*
 
-> **हे पूषन् त्वं तस्य चोरस्य तपुषिं परसन्तापकं देहं पदाभि तिष्ठ । भवदीयेन पादेनाक्रम्य तिष्ठ । कीदृशस्य । द्वयाविनः प्रत्यक्षापहारः परोक्षापहारश्चेति यद्द्वयं तद्युक्तस्य अघशंसस्य अस्माकमघमनिष्टं शंसतः । अघशंस इति तस्करनाम । तृप्सुः तक्वा …[?] इति । कस्य चित् अनिर्दिष्टविशेषस्य कस्यापि ॥ द्वयाविनः । द्वयमस्यास्तीति द्वयावी । बहुलं छन्दसीति मत्वर्थीयो विनिः । अन्येषामपि दृश्यत इति दीर्घत्वं । अघशंसस्य । अघे पापे शंसो मनसोऽभिलाषो यस्य सोऽयमघशंसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । तपुषिं । तापयत्यनेनान्यमिति तपुषिः । औणादिक उषिन्प्रत्ययः । बहुलवचनादिकारस्येत्संज्ञा । नित्त्वादाद्युदात्तत्वं ॥**
+> **हे पूषन् त्वं तस्य चोरस्य तपुषिं परसन्तापकं देहं पदाभि तिष्ठ । भवदीयेन पादेनाक्रम्य तिष्ठ । कीदृशस्य । द्वयाविनः प्रत्यक्षापहारः परोक्षापहारश्चेति यद्द्वयं तद्युक्तस्य अघशंसस्य अस्माकमघमनिष्टं शंसतः । अघशंस इति तस्करनाम । मलिम्लुचोऽघशंसो वृक इति तन्नामसु पाठात् । कस्य चित् अनिर्दिष्टविशेषस्य कस्यापि ॥ द्वयाविनः । द्वयमस्यास्तीति द्वयावी । बहुलं छन्दसीति मत्वर्थीयो विनिः । अन्येषामपि दृश्यत इति दीर्घत्वं । अघशंसस्य । अघे पापे शंसो मनसोऽभिलाषो यस्य सोऽयमघशंसः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वं । तपुषिं । तापयत्यनेनान्यमिति तपुषिः । औणादिक उषिन्प्रत्ययः । बहुलवचनादिकारस्येत्संज्ञा । नित्त्वादाद्युदात्तत्वं ॥**
 
-*he pūṣan tvaṃ tasya corasya tapuṣiṃ parasantāpakaṃ dehaṃ padābhi tiṣṭha | bhavadīyena pādenākramya tiṣṭha | kīdṛśasya | dvayāvinaḥ pratyakṣāpahāraḥ parokṣāpahāraś ceti yad dvayaṃ tadyuktasya aghaśaṃsasya asmākam agham aniṣṭaṃ śaṃsataḥ | aghaśaṃsa iti taskaranāma | tṛpsuḥ takvā … [?] iti | kasya cit anirdiṣṭaviśeṣasya kasyāpi || dvayāvinaḥ | dvayam asyāstīti dvayāvī | bahulaṃ chandasīti matvarthīyo viniḥ | anyeṣām api dṛśyata iti dīrghatvaṃ | aghaśaṃsasya | aghe pāpe śaṃso manaso 'bhilāṣo yasya so 'yam aghaśaṃsaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | tapuṣiṃ | tāpayaty anenānyam iti tapuṣiḥ | auṇādika uṣinpratyayaḥ | bahulavacanād ikārasyetsaṃjñā | nittvād ādyudāttatvaṃ ||*
+*he pūṣan tvaṃ tasya corasya tapuṣiṃ parasantāpakaṃ dehaṃ padābhi tiṣṭha | bhavadīyena pādenākramya tiṣṭha | kīdṛśasya | dvayāvinaḥ pratyakṣāpahāraḥ parokṣāpahāraś ceti yad dvayaṃ tadyuktasya aghaśaṃsasya asmākam agham aniṣṭaṃ śaṃsataḥ | aghaśaṃsa iti taskaranāma | malimluco 'ghaśaṃso vṛka iti tannāmasu pāṭhāt | kasya cit anirdiṣṭaviśeṣasya kasyāpi || dvayāvinaḥ | dvayam asyāstīti dvayāvī | bahulaṃ chandasīti matvarthīyo viniḥ | anyeṣām api dṛśyata iti dīrghatvaṃ | aghaśaṃsasya | aghe pāpe śaṃso manaso 'bhilāṣo yasya so 'yam aghaśaṃsaḥ | bahuvrīhau pūrvapadaprakṛtisvaratvaṃ | tapuṣiṃ | tāpayaty anenānyam iti tapuṣiḥ | auṇādika uṣinpratyayaḥ | bahulavacanād ikārasyetsaṃjñā | nittvād ādyudāttatvaṃ ||*
 
-*(In the line "tṛpsuḥ takvā … iti", where the bhāṣya refers to the list of thief-names, the print has an abbreviated, crowded clause [?]. The bhāṣya's final clause on the* ikāra *as an* it *is read in drift.)*
+*(The thief-name clause checked against the print, p. 448 top: "malimluco 'ghaśaṃso vṛka iti tannāmasu pāṭhāt" (the earlier draft's "tṛpsuḥ takvā" belongs to the Special Topics). The bhāṣya's final clause on the* ikāra *as an* it *is read in drift.)*
 
-**Translation:** "O Pūṣan, you, that thief's — *tapuṣim*, the body that torments others — *padā abhi tiṣṭha*, stand upon it, treading [it] with your foot. Whose? *Dvayāvinaḥ*, [of him] possessed of the pair of [things] — theft done openly and theft done secretly; *aghaśaṃsasya*, who wishes evil to us ('*aghaśaṃsa*' is a name for thief, as in the list *tṛpsuḥ*, *takvā* …); *kasya cit*, of whomever, without any particular specification. *Dvayāvinaḥ*: '*dvayam asyāsti*'; *vini* in the sense of *matup* by *bahulaṃ chandasi*; the lengthening by *anyeṣām api dṛśyate*. *Aghaśaṃsasya*: 'he whose *śaṃsa*, desire of mind, is for *agha*, evil': a bahuvrīhi with the accent of the first member. *Tapuṣim*: '*tāpayaty anenānyam*', that by which another is tormented: *tapuṣiḥ*; the Uṇādi suffix *uṣin*; by the word *bahula* the *i* takes the name of an *it*-letter; because it is *nit*, first-syllable acute."
+**Translation:** "O Pūṣan, you, that thief's — *tapuṣim*, the body that torments others — *padā abhi tiṣṭha*, stand upon it, treading [it] with your foot. Whose? *Dvayāvinaḥ*, [of him] possessed of the pair of [things] — theft done openly and theft done secretly; *aghaśaṃsasya*, who wishes evil to us ('*aghaśaṃsa*' is a name for thief, since it is read among its names: '*malimluc*, *aghaśaṃsa*, *vṛka*'); *kasya cit*, of whomever, without any particular specification. *Dvayāvinaḥ*: '*dvayam asyāsti*'; *vini* in the sense of *matup* by *bahulaṃ chandasi*; the lengthening by *anyeṣām api dṛśyate*. *Aghaśaṃsasya*: 'he whose *śaṃsa*, desire of mind, is for *agha*, evil': a bahuvrīhi with the accent of the first member. *Tapuṣim*: '*tāpayaty anenānyam*', that by which another is tormented: *tapuṣiḥ*; the Uṇādi suffix *uṣin*; by the word *bahula* the *i* takes the name of an *it*-letter; because it is *nit*, first-syllable acute."
 
 **Pratipadārtha** *(p. 448)* — "(**pūṣan** — O Pūṣan) **tvam** — you; **dvayāvinaḥ** — [one who is] possessed of two kinds of thievery, that which steals openly and that which steals secretly; **aghaśaṃsasya** — [of one who] desires evil for us; **kasya cit** — of whichever one; **tasya** — of that thief; **tapuṣim** — the body that causes distress to others; **padā tiṣṭha** — stand upon with your foot."
 
@@ -7954,7 +7954,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Vyākaraṇa-prakriyā** *(p. 449 — grammar page, noted briefly)*
 - **tapuṣim**: "*paraṃ saṃtāpakaṃ deham*: a body that torments others." The same as in the bhāṣya.
-- **dvayāvinaḥ**: "*dve avayave asya*": *saṃkhyāyā avayave tayap* — संख्याया अवयवे तयप् — [Pā. 5-2-42 as read]: after a numeral, in the sense of 'part', *tayap*; *dvitribhyāṃ tayasyāyaj vā* — द्वित्रिभ्यां तयस्यायज्वा — [Pā. 5-2-43 as read]: *ayac* as substitute for *tayap* after *dvi* and *tri*: *dvi + aya*; *yasyeti ca* the loss of the *i*; "*dvayam asyāsti*": *bahulaṃ chandasi* [Pā. 5-2-122 as read] gives *vini* in the sense of *matup*; *dvaya + vin*; *anyeṣām api dṛśyate* the lengthening of the *dvaya*: *dvayāvin*; *am* [print: *avan*] suffix.
+- **dvayāvinaḥ**: "*dve avayave asya*": *saṃkhyāyā avayave tayap* — संख्याया अवयवे तयप् — (Pā. Sū. 5-2-42): after a numeral, in the sense of 'part', *tayap*; *dvitribhyāṃ tayasyāyaj vā* — द्वित्रिभ्यां तयस्यायज्वा — (Pā. Sū. 5-2-43): *ayac* as substitute for *tayap* after *dvi* and *tri*: *dvi + aya*; *yasyeti ca* the loss of the *i*; "*dvayam asyāsti*": *bahulaṃ chandasi* (Pā. Sū. 5-2-122) gives *vini* in the sense of *matup*; *dvaya + vin*; *anyeṣām api dṛśyate* the lengthening of the *dvaya*: *dvayāvin*; *am* [print: *avan*] suffix.
 - **aghaśaṃsasya**: "*aghe* [in sin] *śaṃsaḥ* [desire in the mind] *yasya saḥ*": a bahuvrīhi; the accent of the first member.
 - **tapuṣim**: root *tapa santāpe*; "*tāpayaty anenānyam*"; hence 'one who torments'. In the sense of the instrument the Uṇādi suffix *uṣin* comes; *tap + uṣi*, then *am*: *tapuṣim*; since the suffix is *nit*, first-syllable acute at the end of the suffix [as printed: *pratyayāntaḥ ādyudāttaḥ*]. Rik 4 ends here (*|| 4 ||*).
 
