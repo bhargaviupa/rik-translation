@@ -3130,15 +3130,17 @@
 
 ---
 
-### Rik 51.4 (pp. 163–, PDF 179–)
+### Rik 51.4 (pp. 163–166, PDF 179–182)
 
-**Saṃhitā-pāṭha** *(p. 163; accents are printed in this Rik, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 163; accents as printed)*
 
-> **त्वमपामपिधानावृणोरपाधारयः पर्वते दानुमद्वसु ।**
-> **वृत्रं यदिन्द्र शवसावधीरहिमादित्सूर्यं दिव्यारोहयो दृशे ॥ ४ ॥**
+> **त्वम॒पाम॑पि॒धाना॑वृ॒णोरपाधा॑रयः॒ पर्व॑ते॒ दानु॑म॒द्वसु॑ ।**
+> **वृ॒त्रं यदि॑न्द्र शव॒साव॑धी॒रहि॒मादित्सू॑र्यं दि॒व्यारो॑हयो दृ॒शे ॥ ४ ॥**
 
-*tvam apām apidhānāvṛṇor apādhārayaḥ parvate dānumad vasu |*
-*vṛtraṃ yad indra śavasāvadhīr ahim ād it sūryaṃ divy ārohayo dṛśe || 4 ||*
+*tvám apā́m apidhā́nāvṛṇór apā́dhārayaḥ párvate dā́numad vásu |*
+*vṛtráṃ yád indra śavásāvadhīr áhim ā́d ít sūryaṃ divyā́rohayo dṛśé || 4 ||*
+
+*[accent ?] As printed, the anudātta stroke stands under* वृ *of* अवृणोः *and no mark under* र/पा *before the svarita on* धा*; the svarita of* अवधीः *stands on* व*; read at 300–450 dpi, kept as seen.*
 
 **Pada-pāṭha** *(p. 163)*
 
@@ -3156,13 +3158,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 164)*
 
-> **हे इन्द्र त्वमपामुदकानामपिधानानि आच्छादकान् मेघानपावृणोः । आसावरिष्टाः [?] । तथा पर्वते पर्वति पूरयितव्यप्रदेशयुक्ते स्वकीयनिवासस्थाने दानुमत् दानुमतो हिंसायुक्तस्य । यद्वा । दनुरसुरमाता तस्यैव दानुः । तद्वतः तादृशस्य वृत्रादेर्वसु धनमधारयः । शत्रोर्जित्वा तदीयं धनमुपहृत्य स्वगृहे न्यचिक्षिपः इत्यर्थः । यद्वा । दानुमदिति वसुविशेषणम् । शोभनदानयुक्तमित्यर्थः । हे इन्द्र त्वं यद्यदा शवसा बलेन वृत्रं त्रयाणां लोकानामावरीतारम् । तथा च शाखान्तरे समाम्नातम् । यदिमान् लोकानवृणोत् तद्वृत्रस्य वृत्रत्वम् (तै. सं. [?]) इति । अहिमा समन्ताद्धन्तारम् । तथा च वाजसनेयिनः समामनन्ति । सोऽग्नीषोमावभिसंबभूव सर्वां विद्यां सर्वं यशः सर्वमन्नाद्यं सर्वां श्रियं स यत्सर्वमेतत्समभवत्तस्मादहिरिति । एवंभूतमसुरमवधीर्वधं प्रापितः । आदित् अनन्तरमेव दिवि द्युलोके दृशे द्रष्टुं सूर्यमारोहयः । वृत्रेणावृतं सूर्यं तस्माद्वृत्रादमूमुचः इत्यर्थः ।**
+> **हे इन्द्र त्वमपामुदकानामपिधाना अपिधानानि आच्छादकान् मेघानपावृणोः । अपावरीष्टाः । तथा पर्वते पर्ववति पूरयितव्यप्रदेशयुक्ते स्वकीयनिवासस्थाने दानुमत् दानुमतो हिंसायुक्तस्य । यद्वा । दनुरसुरमाता तस्यैव दानुः । तद्वतः तादृशस्य वृत्रादेर्वसु धनमधारयः । शत्रोर्जित्वा तदीयं धनमुपहृत्य स्वगृहे न्यचिक्षिपः इत्यर्थः । यद्वा । दानुमदिति वसुविशेषणम् । शोभनदानयुक्तमित्यर्थः । हे इन्द्र त्वं यद्यदा शवसा बलेन वृत्रं त्रयाणां लोकानामावरीतारम् । तथा च शाखान्तरे समाम्नातम् । यदिमान् लोकानवृणोत् तद्वृत्रस्य वृत्रत्वम् (तै. सं. २-४-१२-२) इति । अहिमा समन्ताद्धन्तारम् । तथा च वाजसनेयिनः समामनन्ति । सोऽग्नीषोमावभिसंबभूव सर्वां विद्यां सर्वं यशः सर्वमन्नाद्यं सर्वां श्रियं स यत्सर्वमेतत्समभवत्तस्मादहिरिति । एवंभूतमसुरमवधीर्वधं प्रापितः । आदित् अनन्तरमेव दिवि द्युलोके दृशे द्रष्टुं सूर्यमारोहयः । वृत्रेणावृतं सूर्यं तस्माद्वृत्रादमूमुचः इत्यर्थः ।**
 
-*he indra tvam apām udakānām apidhānāni ācchādakān meghān apāvṛṇoḥ | āsāvariṣṭāḥ [?] | tathā parvate parvati pūrayitavyapradeśayukte svakīyanivāsasthāne dānumat dānumato hiṃsāyuktasya | yadvā | danur asuramātā tasyaiva dānuḥ | tadvataḥ tādṛśasya vṛtrāder vasu dhanam adhārayaḥ | śatror jitvā tadīyaṃ dhanam upahṛtya svagṛhe nyacikṣipaḥ ity arthaḥ | yadvā | dānumad iti vasuviśeṣaṇam | śobhanadānayuktam ity arthaḥ | he indra tvaṃ yad yadā śavasā balena vṛtraṃ trayāṇāṃ lokānām āvarītāram | tathā ca śākhāntare samāmnātam | yad imān lokān avṛṇot tad vṛtrasya vṛtratvam (tai. saṃ. [?]) iti | ahim ā samantād dhantāram | tathā ca vājasaneyinaḥ samāmananti | so 'gnīṣomāv abhisaṃbabhūva sarvāṃ vidyāṃ sarvaṃ yaśaḥ sarvam annādyaṃ sarvāṃ śriyaṃ sa yat sarvam etat samabhavat tasmād ahir iti | evaṃbhūtam asuram avadhīr vadhaṃ prāpitaḥ [?] | ād it anantaram eva divi dyuloke dṛśe draṣṭuṃ sūryam ārohayaḥ | vṛtreṇāvṛtaṃ sūryaṃ tasmād vṛtrād amūmucaḥ ity arthaḥ |*
+*he indra tvam apām udakānām apidhānā apidhānāni ācchādakān meghān apāvṛṇoḥ | apāvarīṣṭāḥ | tathā parvate parvavati pūrayitavyapradeśayukte svakīyanivāsasthāne dānumat dānumato hiṃsāyuktasya | yadvā | danur asuramātā tasyaiva dānuḥ | tadvataḥ tādṛśasya vṛtrāder vasu dhanam adhārayaḥ | śatror jitvā tadīyaṃ dhanam upahṛtya svagṛhe nyacikṣipaḥ ity arthaḥ | yadvā | dānumad iti vasuviśeṣaṇam | śobhanadānayuktam ity arthaḥ | he indra tvaṃ yad yadā śavasā balena vṛtraṃ trayāṇāṃ lokānām āvarītāram | tathā ca śākhāntare samāmnātam | yad imān lokān avṛṇot tad vṛtrasya vṛtratvam (tai. saṃ. 2-4-12-2) iti | ahim ā samantād dhantāram | tathā ca vājasaneyinaḥ samāmananti | so 'gnīṣomāv abhisaṃbabhūva sarvāṃ vidyāṃ sarvaṃ yaśaḥ sarvam annādyaṃ sarvāṃ śriyaṃ sa yat sarvam etat samabhavat tasmād ahir iti | evaṃbhūtam asuram avadhīr vadhaṃ prāpitaḥ | ād it anantaram eva divi dyuloke dṛśe draṣṭuṃ sūryam ārohayaḥ | vṛtreṇāvṛtaṃ sūryaṃ tasmād vṛtrād amūmucaḥ ity arthaḥ |*
 
-*(Reading notes: the word printed* āsāvariṣṭāḥ *after* apāvṛṇoḥ *I cannot resolve — the line is crowded — and leave it [?]; "dānuḥ … danur asuramātā" and "avadhīr vadhaṃ prāpitaḥ" are as read, doubtful; the Taittirīya numeral is unclear. The tail of the bhāṣya, on* apām *[the accent by* ūḍidam*],* apidhānā*,* adhārayaḥ*,* parvate*,* dānumat*, is characterized in the grammar notes below.)*
+*(Reading notes: re-read from the print in the numeral pass: the pratīka* apidhānā *before its gloss,* apāvarīṣṭāḥ *(aorist gloss of* apāvṛṇoḥ*),* parvavati*, Tai. Saṃ. 2-4-12-2 and* vadhaṃ prāpitaḥ *are as printed. The tail of the bhāṣya, on* apām *[the accent by* ūḍidam*],* apidhānā*,* adhārayaḥ*,* parvate*,* dānumat*, is characterized in the grammar notes below.)*
 
-**Translation of the bhāṣya:** "O Indra, you uncovered the *apidhānāni* of the waters — the clouds that covered them. And *parvate*, in the mountain, i.e. in the place of his own dwelling, full of regions that need filling (*parvan*); *dānumat*, of the violent one (*dānumat*); or: *danu* is the mother of the Asuras, *dānu* is her very son, one who belongs to her — of such a Vṛtra and the like you held (*adhārayaḥ*) the wealth: having conquered the enemy you took his wealth and placed it in your own house, is the sense. Or: *dānumat* is an epithet of *vasu*: 'wealth that is full of good giving'. O Indra, *yat*, when, by your strength, you killed Vṛtra, the encompasser of the three worlds — and so it is handed down in another śākhā: 'because he enclosed (*avṛṇot*) these worlds, that is Vṛtra's vṛtra-ness' (Tai. Saṃ. [?]); *ahim*, the one who strikes on all sides, for so the Vājasaneyins teach: 'He (the Asura) overcame Agni and Soma, and took all knowledge, all fame, all food, all fortune; because he took in all this, he is *ahi*' — such an Asura you slew. *Ād it*, immediately afterwards, *divi*, in the sky, *dṛśe*, to be seen, you made the sun rise: the sun was covered by Vṛtra, and you released it from him, is the sense."
+**Translation of the bhāṣya:** "O Indra, you uncovered the *apidhānāni* of the waters — the clouds that covered them. And *parvate*, in the mountain, i.e. in the place of his own dwelling, full of regions that need filling (*parvan*); *dānumat*, of the violent one (*dānumat*); or: *danu* is the mother of the Asuras, *dānu* is her very son, one who belongs to her — of such a Vṛtra and the like you held (*adhārayaḥ*) the wealth: having conquered the enemy you took his wealth and placed it in your own house, is the sense. Or: *dānumat* is an epithet of *vasu*: 'wealth that is full of good giving'. O Indra, *yat*, when, by your strength, you killed Vṛtra, the encompasser of the three worlds — and so it is handed down in another śākhā: 'because he enclosed (*avṛṇot*) these worlds, that is Vṛtra's vṛtra-ness' (Tai. Saṃ. 2-4-12-2); *ahim*, the one who strikes on all sides, for so the Vājasaneyins teach: 'He (the Asura) overcame Agni and Soma, and took all knowledge, all fame, all food, all fortune; because he took in all this, he is *ahi*' — such an Asura you slew. *Ād it*, immediately afterwards, *divi*, in the sky, *dṛśe*, to be seen, you made the sun rise: the sun was covered by Vṛtra, and you released it from him, is the sense."
 
 **Pratipadārtha** *(p. 164)* — "**indra** — O Indra; **tvam** — you; **apām** — of the waters; **apidhānā** — the covering ones, the veils; **apa āvṛṇoḥ** — you have released (and caused the rain); **parvate** — in the mountain region (your dwelling-place); **dānumat** — of the violent one, or of Vṛtra the Asura together with Dānu; **vasu** — the wealth [or: *dānumat vasu*, the excellent, giving-rich wealth]; **adhārayaḥ** — you have laid up (collected); **yat** — when; **śavasā** — by strength; **ahim** — the all-round destroyer, and; **vṛtram** — Vṛtra the Asura who covered the three worlds; **avadhīḥ** — you killed; **āt it** — at once; **divi** — in the sky; **dṛśe** — for the sight (of all); **sūryam** — the sun (covered by Vṛtra); **ārohayaḥ** — you released and made to shine."
 
@@ -3171,20 +3173,20 @@
 **English Translation (the source's own, p. 165)** — "You have opened the receptacle of the waters ; you have detained in the mountain the treasure of the malignant; when you had slain Vritra, the destroyer, you made the sun visible in the sky."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 165**
-- **parvate** — "*parvati pūrayitavyapradeśayukte svakīyanivāsasthāne*; *parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā* (Ni. 1-20 as read [?])": Yāska explains the word *parvata* as "what is filled with stones, peaks and the like"; by adding "*prīṇāter vā*" he shows we need not take it as only 'filled with rocks' — it can also mean 'the thing that pleases the gods with stone and other things'."
+- **parvate** — "*parvati pūrayitavyapradeśayukte svakīyanivāsasthāne*; *parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā* (Niru. 1-20)": Yāska explains the word *parvata* as "what is filled with stones, peaks and the like"; by adding "*prīṇāter vā*" he shows we need not take it as only 'filled with rocks' — it can also mean 'the thing that pleases the gods with stone and other things'."
 
-  > **पर्व पुनः पृणातेः प्रीणातेर्वा ।** *(Ni. 1-20 as read [?])*
+  > **पर्व पुनः पृणातेः प्रीणातेर्वा ।** *(Niru. 1-20)*
 
   *parva punaḥ pṛṇāteḥ prīṇāter vā |* — mine and tentative: "and *parvan* [a joint, a hill-ridge] (is) from *pṛ* 'to fill' or from *prī* 'to please'."
 - **ahim** — "*ā samantād dhantāram*: the complete destroyer of everything. This is explained in the Vājasaneyi śruti, '*so 'gnīṣomāv abhisaṃbabhūva sarvāṃ vidyāṃ sarvaṃ yaśaḥ sarvam annādyaṃ sarvāṃ śriyaṃ sa yat sarvam etat samabhavat tasmād ahiḥ*' — he, having conquered the deities Agni and Soma, took away all their knowledge, fame, food and the like, and prosperity; hence the Rākṣasa."
-- **vṛtram** — "*trayāṇāṃ lokānām āvarītāram*: he who pervades (covers) the three worlds. The śruti '*yad imān lokān avṛṇot tad vṛtrasya vṛtratvam*' (Tai. Saṃ. numeral as read [?]) supports this."
+- **vṛtram** — "*trayāṇāṃ lokānām āvarītāram*: he who pervades (covers) the three worlds. The śruti '*yad imān lokān avṛṇot tad vṛtrasya vṛtratvam*' (Tai. Saṃ. 2-4-12-2) supports this."
 
 **Vyākaraṇa-prakriyā** *(pp. 165–166 — grammar pages, noted briefly)*
-- **apām**: *ap*, genitive plural *apām*; the vibhakti-accent by *ūḍidaṃ padādy…* (Pā. 6-1-171 as read [?]) overrides the *anudātta*.
+- **apām**: *ap*, genitive plural *apām*; the vibhakti-accent by *ūḍidaṃ padādy…* (Pā. 6-1-171) overrides the *anudātta*.
 - **apidhānā**: *apidhīyate ācchādyate ebhir iti apidhānāni*; *lyuṭ* in the instrument sense on *dhāñ*; *yu* → *ana* by *yuvor anākau*; accusative plural *śas*, *pūrvasavarṇadīrgha* by *supāṃ sulug…*; the accent on the preceding vowel by *lity…*; the single-substitute (*ekādeśa udāttenodāttaḥ*, Pā. 8-2-5) and the accent of the final member by *gatikārakopapadāt kṛt*.
 - **adhārayaḥ**: *dhṛñ avasthāne*, *tudādi* with *ṇic*, *laṅ* second person singular; *āpādādau* forbids the *nighāta*; the *āṭ*-augment is acute: initial-acute word.
-- **parvate**: *parvān parvataḥ* — suffix *tap* by *tap parvamarudbhyām* (vārttika, as read [?]) in the sense "having"; Yāska's derivation (above).
-- **dānumat**: *do avakhaṇḍane* or *dāṇ dāne*; *dābhābhyāṃ nuḥ* (Uṇ. 3-… as read [?]) gives *nu*; *matup* by *tad asyāsty asmin*; for the genitive singular *ṅas* the *sulug* … *dānumat*; *matup* has a mute *p*, so the word is *anudātta*-ending.
+- **parvate**: *parvān parvataḥ* — suffix *tap* by *tap parvamarudbhyām* (Vā. 3-2-[?]1 as printed; the middle digits unclear at 450 dpi) in the sense "having"; Yāska's derivation (above).
+- **dānumat**: *do avakhaṇḍane* or *dāṇ dāne*; *dābhābhyāṃ nuḥ* (Uṇ. 2-312 [?]; digits as read, first digit doubtful) gives *nu*; *matup* by *tad asyāsty asmin*; for the genitive singular *ṅas* the *sulug* … *dānumat*; *matup* has a mute *p*, so the word is *anudātta*-ending.
 
 ---
 
