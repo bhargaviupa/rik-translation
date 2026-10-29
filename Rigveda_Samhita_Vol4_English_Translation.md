@@ -7204,37 +7204,37 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image)*
 
-> यं रक्षन्तीति नवर्चं षष्ठं सूक्तं । तत्रानुक्रमणं । यं रक्षन्ति नव वरुणमित्रार्यम्णां मध्ये तृचं च आदित्येभ्यो गायत्रं हीति । घोरपुत्रः कण्व ऋषिः । इदमादित्रीणि सूक्तानि गायत्राणि । आद्यन्तयोस्तृचयोर्वरुणमित्रार्यमणो देवताः । मध्यतृचस्य सुगः पन्था इत्यस्यादित्या देवताः ॥ गतो विनियोगः ॥
+> यं रक्षन्तीति नवर्चं षष्ठं सूक्तं । तत्रानुक्रमणं । यं रक्षन्ति नव वरुणमित्रार्यम्णां मध्ये तृच आदित्येभ्यो गायत्रं हीति । घोरपुत्रः कण्व ऋषिः । इदमादित्रीणि सूक्तानि गायत्राणि । आद्यन्तयोस्तृचयोर्वरुणमित्रार्यमणो देवताः । मध्यतृचस्य सुगः पन्था इत्यस्यादित्या देवताः ॥ गतो विनियोगः ॥
 
-*yaṃ rakṣantīti navarcaṃ ṣaṣṭhaṃ sūktaṃ | tatrānukramaṇaṃ | yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛcaṃ ca ādityebhyo gāyatraṃ hīti | ghoraputraḥ kaṇva ṛṣiḥ | idam ādi trīṇi sūktāni gāyatrāṇi | ādyantayos tṛcayor varuṇamitrāryamaṇo devatāḥ | madhyatṛcasya sugaḥ panthā ity asyādityā devatāḥ || gato viniyogaḥ ||*
+*yaṃ rakṣantīti navarcaṃ ṣaṣṭhaṃ sūktaṃ | tatrānukramaṇaṃ | yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛca ādityebhyo gāyatraṃ hīti | ghoraputraḥ kaṇva ṛṣiḥ | idam ādi trīṇi sūktāni gāyatrāṇi | ādyantayos tṛcayor varuṇamitrāryamaṇo devatāḥ | madhyatṛcasya sugaḥ panthā ity asyādityā devatāḥ || gato viniyogaḥ ||*
 
-**Translation:** "*Yaṃ rakṣanti* — the sixth sūkta [of the anuvāka], of nine ṛks. The Anukramaṇikā there: '*yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛcaṃ ca ādityebhyo gāyatraṃ hi*' [as printed: nine [ṛks], of Varuṇa–Mitra–Aryaman; in the middle a *tṛca* for the Ādityas; Gāyatra]. Kaṇva, son of Ghora, is the ṛṣi. This and the next two sūktas are in the Gāyatrī metre. For the first and the last *tṛca* the deities are Varuṇa, Mitra and Aryaman; for the middle *tṛca* — beginning *sugaḥ panthāḥ* — the Ādityas. The application has been stated [before]." *(Translation mine; the print is clear here.)*
+**Translation:** "*Yaṃ rakṣanti* — the sixth sūkta [of the anuvāka], of nine ṛks. The Anukramaṇikā there: '*yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛca ādityebhyo gāyatraṃ hi*' [nine [ṛks], of Varuṇa–Mitra–Aryaman; in the middle a *tṛca* for the Ādityas; Gāyatra]. Kaṇva, son of Ghora, is the ṛṣi. This and the next two sūktas are in the Gāyatrī metre. For the first and the last *tṛca* the deities are Varuṇa, Mitra and Aryaman; for the middle *tṛca* — beginning *sugaḥ panthāḥ* — the Ādityas. The application has been stated [before]." *(Translation mine; the print is clear here.)*
 
-**Anuvāda (Kannada), p. 410** — "*Yaṃ rakṣanti* is the sixth sūkta in the eighth anuvāka. It has nine ṛks. In the Anukramaṇikā: '*yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛcaṃ ca ādityebhyo gāyatraṃ hi*'. The ṛṣi of this sūkta is Kaṇva, the son of Ghora. This sūkta and the next two are of the Gāyatrī metre. For the first three ṛks and the last three ṛks the deities are Varuṇa, Mitra and Aryaman; for the middle three ṛks, that is [Riks] 4–6 [numerals read "4–6" [?]], the Ādityas are the deities. The application has been stated already."
+**Anuvāda (Kannada), p. 410** — "*Yaṃ rakṣanti* is the sixth sūkta in the eighth anuvāka. It has nine ṛks. In the Anukramaṇikā: '*yaṃ rakṣanti nava varuṇamitrāryamṇāṃ madhye tṛca ādityebhyo gāyatraṃ hi*'. The ṛṣi of this sūkta is Kaṇva, the son of Ghora. This sūkta and the next two are of the Gāyatrī metre. For the first three ṛks and the last three ṛks the deities are Varuṇa, Mitra and Aryaman; for the middle three ṛks, that is [Riks] 4–6, the Ādityas are the deities. The application has been stated already."
 
 **॥ ॐ ॥**
 
 > **सूक्त — ४१**
 > ॥ मण्डल — १ ॥ अनुवाक — ८ ॥ सूक्त — ४१ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — २२, २३ [?] ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — २२, २३ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै — ९ ॥
 > ॥ ऋषिः — कण्वो घौरः ॥
 > ॥ देवता — १–३, ७–९ वरुणमित्रार्यमणः । ४–६ आदित्याः ॥
 > ॥ छन्दः — गायत्री ॥
 
-*sūkta 41 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 22, 23 [?] | ṛks 9 | ṛṣi: Kaṇva Ghaura | devatā: Riks 1–3 and 7–9 Varuṇa–Mitra–Aryaman; Riks 4–6 the Ādityas | chandas: Gāyatrī.*
+*sūkta 41 | maṇḍala 1 | anuvāka 8 | aṣṭaka 1 | adhyāya 3 | varga 22, 23 | ṛks 9 | ṛṣi: Kaṇva Ghaura | devatā: Riks 1–3 and 7–9 Varuṇa–Mitra–Aryaman; Riks 4–6 the Ādityas | chandas: Gāyatrī.*
 
-*(Varga numerals and the Rik numerals of the deity line are small and read with doubt.)*
+*(Varga numerals 22, 23 and the deity-line numerals 1–3, 7–9, 4–6 checked at 300 dpi.)*
 
 ### Rik 41.1 (pp. 411–412, PDF 425–426)
 
-**Saṃhitā-pāṭha** *(p. 411; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 411; Saṃhitā accents as printed (checked at 300–560 dpi); Pada unaccented.)*
 
-> **यं रक्षन्ति प्रचेतसो वरुणो मित्रो अर्यमा ।**
-> **नू चित्स दभ्यते जनः ॥ १ ॥**
+> **यं रक्ष॑न्ति॒ प्रचे॑तसो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।**
+> **नू चि॒त्स द॑भ्यते॒ जनः॑ ॥ १ ॥**
 
-*yaṃ rakṣanti pracetaso varuṇo mitro aryamā |*
-*nū cit sa dabhyate janaḥ || 1 ||*
+*yaṃ rákṣanti prácetaso váruṇo mitró aryamā́ |*
+*nū cit sá dabhyate jánaḥ || 1 ||*
 
 **Pada-pāṭha** *(p. 411)*
 
@@ -7268,9 +7268,9 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 **Vyākaraṇa-prakriyā** *(p. 412 — grammar page, noted briefly)*
 - **rakṣanti**: root *rakṣa pālane*, first class; because of the connection with *yat* (*yam*) the wholly-unaccented form does not come.
 - **pracetasaḥ**: "*prakṛṣṭaṃ cetaḥ yeṣāṃ te*": a bahuvrīhi; the accent of the first member.
-- **varuṇaḥ**: *kṛvādārībhya uṇan* [Uṇ., as read [?]]: the suffix *uṇan* [print: *unan*]; since it is *nit* the first syllable is acute.
-- **nū**: the lengthening by the sūtra *ṛci tunughamakṣu…* [as read].
-- **dabhyate**: *dambhu dambhe*, *svādi*; the *śnu* *vikaraṇa* would properly come, but by *vyatyayo bahulam* [as read] *śyan* comes, and by the same sūtra the *ātmanepada* in place of the *parasmaipada*: *dan bh + ya + te* [print: *darbh+ya+te*]; because *śyan* is *sārvadhātukam apit* it is *ṅit*; by *anidito hala upadhāyāḥ kṅiti* the penultimate nasal is lost; since *anusvāra* and *parasavarṇa* are treated as non-existent (*asiddha*), it is to be understood that the nasal is present as far as the sūtra that gives the loss is concerned. Rik 1 ends here (*|| 1 ||*).
+- **varuṇaḥ**: *kṛvṛdāribhya unan* (no number printed): the suffix *unan*; since it is *nit* the first syllable is acute.
+- **nū**: the lengthening by the sūtra *ṛci tunugha—*.
+- **dabhyate**: *dambhu dambhe*, *svādi*; the *śnu* *vikaraṇa* would properly come, but by *vyatyayo bahulam* *śyan* comes, and by the same sūtra the *ātmanepada* in place of the *parasmaipada*: *dan bh + ya + te*; because *śyan* is *sārvadhātukam apit* it is *ṅit*; by *aniditāṃ hala upadhāyāḥ kṅiti* the penultimate nasal is lost; since *anusvāra* and *parasavarṇa* are treated as non-existent (*asiddha*), it is to be understood that the nasal is present as far as the sūtra that gives the loss is concerned. Rik 1 ends here (*|| 1 ||*).
 
 ---
 
