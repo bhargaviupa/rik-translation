@@ -10749,13 +10749,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.5 (pp. 583–585, PDF 597–599)
 
-**Saṃhitā-pāṭha** *(p. 583; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 583)*
 
-> **आदारो वां मतीनां नासत्या मतवचसा ।**
-> **पातं सोमस्य धृष्णुया ॥ ५ ॥**
+> **आ॒दा॒रो वां॑ मती॒नां ना॑सत्या मतवचसा ।**
+> **पा॒तं सोम॑स्य धृष्णु॒या ॥ ५ ॥**
 
-*ādāro vāṃ matīnāṃ nāsatyā matavacasā |*
-*pātaṃ somasya dhṛṣṇuyā || 5 ||*
+*ādāró vāṃ matīnā́ṃ nāsatyā matavacasā |*
+*pātáṃ sómasya dhṛṣṇuyā́ || 5 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented. Read from the old scan (p. 583 is missing from the better scan).)*
 
 **Pada-pāṭha** *(p. 583)*
 
@@ -10767,11 +10769,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(pp. 583–584)*
 
-> **हे मतवचसाभिमतस्तोत्रौ नासत्यावश्विनौ वां युवयोर्मतीनां बुद्धीनामादारः प्रेरको यः सोमोऽस्ति सोमस्य तं सोमं पातं । युवां पिबतं । कीदृशं सोमं । धृष्णुया धर्षणशीलं । मदैकरत्वेन [?] तीव्रमित्यर्थः ॥ आदारः । दृङ् आदरे । आदारयेत्यादारः । दारजारौ कर्तरि णिलुक्चेति घञ्प्रत्ययः । थाथादिनोत्तरपदान्तोदात्तत्वं । मतीनां । नामन्यतरस्यामिति नाम उदात्तत्वं । मतवचसा । मतमभिमतं स्तोत्ररूपं वचो ययोस्तौ । सुपां सुलुगिति विभक्तेराकारः । पातं । पा पाने । बहुलं छन्दसीति शपो लुकि सति पाघ्रेत्यादिना पिबादेशो न भवति । सोमस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । धृष्णुया । सुपां सुलुगिति विभक्तेर्याजादेशः ॥ ५ ॥**
+> **हे मतवचसाभिमतस्तोत्रौ नासत्यावश्विनौ वां युवयोर्मतीनां बुद्धीनामादारः प्रेरको यः सोमोऽस्ति सोमस्य तं सोमं पातं । युवां पिबतं । कीदृशं सोमं । धृष्णुया धर्षणशीलं । मदकरत्वेन तीव्रमित्यर्थः ॥ आदारः । दृङ् आदरे । आदारयेत्यादारः । दारजारौ कर्तरि णिलुक्चेति घञ्प्रत्ययः । थाथादिनोत्तरपदान्तोदात्तत्वं । मतीनां । नामन्यतरस्यामिति नाम उदात्तत्वं । मतवचसा । मतमभिमतं स्तोत्ररूपं वचो ययोस्तौ । सुपां सुलुगिति विभक्तेराकारः । पातं । पा पाने । बहुलं छन्दसीति शपो लुकि सति पाघ्रेत्यादिना पिबादेशो न भवति । सोमस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । धृष्णुया । सुपां सुलुगिति विभक्तेर्याजादेशः ॥ ३३ ॥**
 
-*he matavacasābhimatastotrau nāsatyāv aśvinau vāṃ yuvayor matīnāṃ buddhīnām ādāraḥ prerako yaḥ somo 'sti somasya taṃ somaṃ pātaṃ | yuvāṃ pibataṃ | kīdṛśaṃ somaṃ | dhṛṣṇuyā dharṣaṇaśīlaṃ | madaikaratvena [?] tīvram ity arthaḥ || ādāraḥ | dṛṅ ādare | ādārayety ādāraḥ | dārajārau kartari ṇilukceti ghañpratyayaḥ | thāthādinottarapadāntodāttatvaṃ | matīnāṃ | nāmanyatarasyām iti nām udāttatvaṃ | matavacasā | matam abhimataṃ stotrarūpaṃ vaco yayos tau | supāṃ suluk iti vibhakter ākāraḥ | pātaṃ | pā pāne | bahulaṃ chandasīti śapo luki sati pāghretyādinā pibādeśo na bhavati | somasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ sampradānatvāc caturthyarthe ṣaṣṭhī | dhṛṣṇuyā | supāṃ suluk iti vibhakter yājādeśaḥ || 5 ||*
+*he matavacasābhimatastotrau nāsatyāv aśvinau vāṃ yuvayor matīnāṃ buddhīnām ādāraḥ prerako yaḥ somo 'sti somasya taṃ somaṃ pātaṃ | yuvāṃ pibataṃ | kīdṛśaṃ somaṃ | dhṛṣṇuyā dharṣaṇaśīlaṃ | madakaratvena tīvram ity arthaḥ || ādāraḥ | dṛṅ ādare | ādārayety ādāraḥ | dārajārau kartari ṇilukceti ghañpratyayaḥ | thāthādinottarapadāntodāttatvaṃ | matīnāṃ | nāmanyatarasyām iti nām udāttatvaṃ | matavacasā | matam abhimataṃ stotrarūpaṃ vaco yayos tau | supāṃ suluk iti vibhakter ākāraḥ | pātaṃ | pā pāne | bahulaṃ chandasīti śapo luki sati pāghretyādinā pibādeśo na bhavati | somasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ sampradānatvāc caturthyarthe ṣaṣṭhī | dhṛṣṇuyā | supāṃ suluk iti vibhakter yājādeśaḥ || 33 ||*
 
-*(The phrase "madaikaratvena" is crowded in the print, [?].)*
+*(The bhāṣya ends with the varga number ॥ ३३ ॥ as printed.)*
 
 **Translation:** "O *matavacasā*, you whose praise-words are approved, O Nāsatyas, Aśvins: that Soma which is the *ādāraḥ*, the impeller, of your (*vām*) minds (*matīnām*) — *somasya*, of the Soma — *taṃ somaṃ pātam*, drink that Soma: you two drink. What kind of Soma? *Dhṛṣṇuyā*, of daring nature: that is, keen, by being the sole bringer of exhilaration."
 
@@ -10787,10 +10789,10 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **dhṛṣṇuyā** — "*dharṣaṇaśīlam*: the Soma juice that stimulates the intellect, produces intoxication, makes the intellect expand and become sharp."
 
 **Vyākaraṇa-prakriyā** *(p. 585 — grammar page, noted briefly)*
-- **ādāraḥ**: root *dṛṅ ādare* [as printed]; "*ādārayati iti ādāraḥ*"; *dārajārau kartari ṇiluk ca* (Pā. 3-3-20 vārttika, as read "3-3-20-1" [?]): here, by the word *dāra*, both the root *dṛṅ* and the root *dṝ* are taken, as is seen; if *dṝ vidāraṇe* is meant, "*dārayanti iti dārāḥ*", those who melt the mind — and "wife" is the denoted sense of this word [*sic*, as printed]. *Thāthaghañktājabitrakāṇām* (Pā. 6-2-144 as read [?]) gives the last member the end-acute.
+- **ādāraḥ**: root *dṛṅ ādare* [as printed]; "*ādārayati iti ādāraḥ*"; *dārajārau kartari ṇiluk ca* (Pā. Sū. 3-3-20-1, the vārttika): here, by the word *dāra*, both the root *dṛṅ* and the root *dṝ* are taken, as is seen; if *dṝ vidāraṇe* is meant, "*dārayanti iti dārāḥ*", those who melt the mind — and "wife" is the denoted sense of this word [*sic*, as printed]. *Thāthaghañktājabitrakāṇām* gives the last member the end-acute.
 - **matīnām**: *nām* is acute by *nāmanyatarasyām*.
-- **matavacasā**: "*mataṃ* = approved, *vacaḥ* = words in the form of praise, of whom they are"; the vocative dual's ending *ā* by *supāṃ suluk…* (Pā. 7-1-39 as read).
-- **pātam**: root *pā pāne*, *loṭ*, [the print states "second person, plural, *tha*-suffix"; the form is evidently the dual, *thas*, as printed *tam*]; *loṭo laṅvat* gives *laṅ*-likeness; *tasthasthamipāṃ tāṃtaṃtāmaḥ* (Pā. 3-4-101 as read) gives *tam*; *bahulaṃ chandasi* (Pā. 2-4-73 as read) drops the *śap*; now no suffix beginning with *ś* follows, so the *piba*-substitution by *pāghrādhmā…* (Pā. 7-3-78 as read) does not come.
+- **matavacasā**: "*mataṃ* = approved, *vacaḥ* = words in the form of praise, of whom they are"; the vocative dual's ending *ā* by *supāṃ suluk…*.
+- **pātam**: root *pā pāne*, *loṭ*, [the print states "second person, plural, *tha*-suffix"; the form is evidently the dual, *thas*, as printed *tam*]; *loṭo laṅvat* gives *laṅ*-likeness; *tasthasthamipāṃ tāṃtaṃtāmaḥ* gives *tam*; *bahulaṃ chandasi* (Pā. Sū. 2-4-73) drops the *śap*; now no suffix beginning with *ś* follows, so the *piba*-substitution by *pāghrādhmā…* does not come.
 - **somasya**: *kriyāgrahaṇaṃ kartavyam* — the *soma* is a recipient (*sampradāna*), so the genitive stands for the dative.
 - **dhṛṣṇuyā**: *supāṃ suluk…*: *yāc* is substituted for the genitive singular ending [as the Kannada says; "genitive" here is as printed]. **|| 5 ||**
 
