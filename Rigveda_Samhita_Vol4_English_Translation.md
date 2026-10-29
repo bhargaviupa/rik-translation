@@ -11193,13 +11193,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.14 (pp. 603–605, PDF 617–619)
 
-**Saṃhitā-pāṭha** *(p. 603; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 603)*
 
-> **युवोरुषा अनु श्रियं परिज्मनोरुपाचरत् ।**
-> **ऋता वनथो अक्तुभिः ॥ १४ ॥**
+> **यु॒वोरु॒षा अनु॒ श्रियं॒ परि॑ज्मनोरु॒पाच॑रत् ।**
+> **ऋ॒ता व॑नथो अ॒क्तुभिः॑ ॥ १४ ॥**
 
-*yuvor uṣā anu śriyaṃ parijmanor upācarat |*
-*ṛtā vanatho aktubhiḥ || 14 ||*
+*yuvór uṣā́ anu śríyaṃ párijmanor upā́carat |*
+*ṛtā́ vanatho aktúbhiḥ || 14 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 604)*
 
@@ -11211,15 +11213,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 604)*
 
-> **हे अश्विनौ परिज्मनोः परितो गन्त्रोर्युवोर्युवयोरुभयोः श्रियमनु आगमनरूपां शोभामनुसृत्यैषा उषा उपाचरत् । उषःकालदेवतेहागच्छतु । युवयोरागतयोः सतोः पश्चादागतेत्यर्थः । युवां चाक्तुभी रात्रिभिर्ऋता यज्ञगतानि हवींषि वनथः । कामयेथे । संभजेथे ॥ युवोः । युष्मच्छब्दात्षष्ठीद्विवचनस्य सुपां सुलुगिति षष्ठीद्विवचनादेशः [?] । अत आदेशविषयत्वाद्योऽचीति यत्वाभावः । शेषे लोपः । परिज्मनोः । परितोऽजतो गच्छत इति परिज्मानौ । श्वन्नुक्षन्नित्यादिनाजतेर्मनिन्नित्त्ययान्तो निपातितः । ऋता । शेश्छन्दसीति शेर्लोपः । वनथः । वन षण संभक्तौ । तिङ्ङतिङ इति निघातः ॥**
+> **हे अश्विनौ परिज्मनोः परितो गन्त्रोर्युवोर्युवयोरुभयोः श्रियमनु आगमनरूपां शोभामनुसृत्यैषा उषा उपाचरत् । उषःकालदेवतेहागच्छतु । युवयोरागतयोः सतोः पश्चादागतेत्यर्थः । युवां चाक्तुभी रात्रिभिर्ऋता यज्ञगतानि हवींषि वनथः । कामयेथे । संभजेथे ॥ युवोः । युष्मच्छब्दात्षष्ठीद्विवचनस्य सुपां सुपो भवन्तीति षष्ठीद्विवचनादेशः । अत आदेशविषयत्वाद्योऽचीति यत्वाभावः । शेषे लोपः । परिज्मनोः । परितोऽजतो गच्छत इति परिज्मानौ । श्वन्नुक्षन्नित्यादिनाजतेर्मनिन्प्रत्ययान्तो निपातितः । ऋता । शेश्छन्दसीति शेर्लोपः । वनथः । वन षण संभक्तौ । तिङ्ङतिङ इति निघातः ॥**
 
-*he aśvinau parijmanoḥ parito gantror yuvor yuvayor ubhayoḥ śriyam anu āgamanarūpāṃ śobhām anusṛtyaiṣā uṣā upācarat | uṣaḥkāladevatehāgacchatu | yuvayor āgatayoḥ satoḥ paścād āgatety arthaḥ | yuvāṃ cāktubhī rātribhir ṛtā yajñagatāni havīṃṣi vanathaḥ | kāmayethe | saṃbhajethe || yuvoḥ | yuṣmacchabdāt ṣaṣṭhīdvivacanasya supāṃ suluk iti ṣaṣṭhīdvivacanādeśaḥ [?] | ata ādeśaviṣayatvād yo 'cīti yatvābhāvaḥ | śeṣe lopaḥ | parijmanoḥ | parito 'jato gacchata iti parijmānau | śvann ukṣann ity ādinājater manin nittyayānto nipātitaḥ | ṛtā | śeś chandasīti śer lopaḥ | vanathaḥ | vana ṣaṇa saṃbhaktau | tiṅ atiṅa iti nighātaḥ ||*
+*he aśvinau parijmanoḥ parito gantror yuvor yuvayor ubhayoḥ śriyam anu āgamanarūpāṃ śobhām anusṛtyaiṣā uṣā upācarat | uṣaḥkāladevatehāgacchatu | yuvayor āgatayoḥ satoḥ paścād āgatety arthaḥ | yuvāṃ cāktubhī rātribhir ṛtā yajñagatāni havīṃṣi vanathaḥ | kāmayethe | saṃbhajethe || yuvoḥ | yuṣmacchabdāt ṣaṣṭhīdvivacanasya supāṃ supo bhavantīti ṣaṣṭhīdvivacanādeśaḥ | ata ādeśaviṣayatvād yo 'cīti yatvābhāvaḥ | śeṣe lopaḥ | parijmanoḥ | parito 'jato gacchata iti parijmānau | śvann ukṣann ity ādinājater maninpratyayānto nipātitaḥ | ṛtā | śeś chandasīti śer lopaḥ | vanathaḥ | vana ṣaṇa saṃbhaktau | tiṅ atiṅa iti nighātaḥ ||*
 
-*(The words "yuvoḥ … ṣaṣṭhīdvivacanādeśaḥ" and "nittyayānto" are crowded in the print and given as read, [?].)*
+*(Re-read from the print: "supāṃ supo bhavantīti" and "maninpratyayānto".)*
 
-**Translation:** "O Aśvins, *parijmanoḥ*, going all round, *yuvoḥ*, of you both, *śriyam anu*, following the splendour that consists in your coming, *eṣā uṣāḥ*, this Uṣas, *upācarat*, let her come near: the goddess of the time of dawn, let her come here; the sense is that she comes after you two have come. And you two, *aktubhiḥ*, by the nights, *ṛtā*, the oblations that have been offered in the sacrifice, *vanathaḥ*, desire, partake. *Yuvoḥ*: the dual genitive of *yuṣmad*, replaced by *supāṃ suluk…*; since *ata* is the area of the substitute, *y* is not put by *yo 'ci*; the rest drops. *Parijmanoḥ*: 'going (*ajataḥ*) all round'; formed by *nipātana* with *manin* after *aj*, as in the list *śvan-ukṣan-…*. *Ṛtā*: *śe* drops by *śeś chandasi*. *Vanathaḥ*: root *vana ṣaṇa saṃbhaktau*; the all-unaccented by *tiṅ atiṅaḥ*."
+**Translation:** "O Aśvins, *parijmanoḥ*, going all round, *yuvoḥ*, of you both, *śriyam anu*, following the splendour that consists in your coming, *eṣā uṣāḥ*, this Uṣas, *upācarat*, let her come near: the goddess of the time of dawn, let her come here; the sense is that she comes after you two have come. And you two, *aktubhiḥ*, by the nights, *ṛtā*, the oblations that have been offered in the sacrifice, *vanathaḥ*, desire, partake. *Yuvoḥ*: the dual genitive of *yuṣmad*, replaced by *supāṃ supo bhavanti*; since *ata* is the area of the substitute, *y* is not put by *yo 'ci*; the rest drops. *Parijmanoḥ*: 'going (*ajataḥ*) all round'; formed by *nipātana* with *manin* after *aj*, as in the list *śvan-ukṣan-…*. *Ṛtā*: *śe* drops by *śeś chandasi*. *Vanathaḥ*: root *vana ṣaṇa saṃbhaktau*; the all-unaccented by *tiṅ atiṅaḥ*."
 
-**Pratipadārtha** *(p. 604)* — "**(aśvinā)** — O Aśvin gods; **parijmanoḥ** — who move all around; **yuvoḥ** — of you two; **śriyam anu** — following the splendour (that consists in your coming); **uṣāḥ** — the goddess of the time of dawn; **upācarat** — let her come here (and you both too) [the parenthesis is crowded in the print, [?]]; **aktubhiḥ** — in the times of night; **ṛtā** — the oblations of the sacrifice; **vanathaḥ** — you desire and enjoy."
+**Pratipadārtha** *(p. 604)* — "**(aśvinā)** — O Aśvin gods; **parijmanoḥ** — who move all around; **yuvoḥ** — of you two; **śriyam anu** — following the splendour (that consists in your coming); **uṣāḥ** — the goddess of the time of dawn; **upācarat** — let her come here (and you both too); **aktubhiḥ** — in the times of night; **ṛtā** — the oblations of the sacrifice; **vanathaḥ** — you desire and enjoy."
 
 **Bhāvārtha** *(p. 604)* — "O Aśvin gods, you move about all over the world. Following the splendour that consists in the coming of you two, let the goddess of the time of dawn come here. You two partake, in the times of night, of the oblations offered for you in the sacrifice."
 
@@ -11229,16 +11231,16 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **parijmanoḥ** — "*parito 'jato gacchata iti parijmānau*: going all around; that is, those who go everywhere."
 - **ṛtā** — "*yajñagatāni havīṃṣi*: the oblations offered in the sacrifice."
 - **vanathaḥ** — "*vana ṣaṇa saṃbhaktau*: you obtain, you desire."
-- **aktubhiḥ** — "in the times of night: there is the Nirukta statement '*aktubhī rātribhiḥ*' (Ni. 1[?]-2[?], as read)":
+- **aktubhiḥ** — "in the times of night: there is the Nirukta statement '*aktubhī rātribhiḥ*' (Ni. 12-23)":
 
-  > **अक्तुभी रात्रिभिः ।** *(Ni. [?])*
+  > **अक्तुभी रात्रिभिः ।** *(Ni. 12-23)*
 
   *aktubhī rātribhiḥ |* — mine and tentative: "*aktubhiḥ* (means) by the nights."
 
 **Vyākaraṇa-prakriyā** *(p. 605 — grammar page, noted briefly)*
-- **yuvoḥ**: after the word *yuṣmad* the genitive dual *os*; "*supāṃ supo bhavanti*" (as printed) — *os* for *os*; hence, the vibhakti beginning with a vowel after the substitution, *yo 'ci* (Pā. 7-2-89 as read [?]) — *y* for the final of *yuṣmad* and *asmad* — does not apply; *śeṣe lopaḥ* (Pā. 7-2-90 as read [?]) drops the part from *ma* on, and the remaining *ad* is dropped before a vowel-initial case-ending: *yu + os*; the Kannada author says the *ā*-*y* substitution is the cause of the other; *ru*, *visarga*; the *vibhakti* is acute by the *udātta*-*nivṛtti* svara; *osi ca* (Pā. 7-3-104 as read) is not applied in the Veda; *ato guṇe*, *pararūpa*; the single-substitute accent.
-- **parijmanoḥ**: *śvann ukṣann paṣann plīhan kledan snehan mūrdhan majjann aryamann viśvapan parijman mātariśvan maghavann iti* (Uṇ. 1-158 [?] as read) — the list of Uṇādi words: after the root *aj*, the suffix *manin*; the *a* is dropped by Vedic usage.
-- **ṛtā**: *śe śchandasi bahulam* (Pā. 7-1-39 [?]) — the *śi* drops (as printed).
+- **yuvoḥ**: after the word *yuṣmad* the genitive dual *os*; "*supāṃ supo bhavanti*" (as printed) — *os* for *os*; hence, the vibhakti beginning with a vowel after the substitution, *yo 'ci* (Pā. 7-2-89) — *y* for the final of *yuṣmad* and *asmad* — does not apply; *śeṣe lopaḥ* (Pā. 7-2-90) drops the part from *ma* on, and the remaining *ad* is dropped before a vowel-initial case-ending: *yu + os*; the Kannada author says the *ā*-*y* substitution is the cause of the other; *ru*, *visarga*; the *vibhakti* is acute by the *udātta*-*nivṛtti* svara; *osi ca* (Pā. 7-3-104 as read) is not applied in the Veda; *ato guṇe*, *pararūpa*; the single-substitute accent.
+- **parijmanoḥ**: *śvann ukṣann paṣann plīhan kledan snehan mūrdhan majjann aryamann viśvapan parijman mātariśvan maghavann iti* (Uṇ. 1-157, as printed) — the list of Uṇādi words: after the root *aj*, the suffix *manin*; the *a* is dropped by Vedic usage.
+- **ṛtā**: *śe śchandasi bahulam* (no number printed) — the *śi* drops (as printed).
 - **vanathaḥ**: root *vana ṣaṇa saṃbhaktau*; *laṭ*, second person dual *thas*; *śap*, *ru*, *visarga*; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 14 ||**
 
 ---
