@@ -7070,13 +7070,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 56.6 (pp. 389–392, PDF 405–408)
 
-**Saṃhitā-pāṭha** *(p. 389)*
+**Saṃhitā-pāṭha** *(p. 389; accents as printed)*
 
-> **त्वं दिवो धरुणं धिष ओजसा पृथिव्या इन्द्र सदनेषु माहिनः ।**
-> **त्वं सुतस्य मदे अरिणा अपो वि वृत्रस्य समया पाष्यारुजः ॥ ६ ॥**
+> **त्वं दि॒वो ध॒रुणं॑ धिष॒ ओज॑सा पृथि॒व्या इ॑न्द्र॒ सद॑नेषु॒ माहि॑नः ।**
+> **त्वं सु॒तस्य मदे॑ अरिणा अ॒पो वि वृ॒त्रस्य॑ स॒मया॑ पा॒ष्या॑रु॒जः ॥ ६ ॥**
 
-*tvaṃ divo dharuṇaṃ dhiṣa ojasā pṛthivyā indra sadaneṣu māhinaḥ |*
-*tvaṃ sutasya made ariṇā apo vi vṛtrasya samayā pāṣyārujaḥ || 6 ||*
+*tváṃ divó dharúṇaṃ dhiṣa ójasā pṛthivyā́ indra sádaneṣu mā́hinaḥ |*
+*tváṃ sutásya máde ariṇā apó ví vṛtrásya samáyā pāṣyā̀rujáḥ || 6 ||*
 
 *(On p. 389 the print has labelled the Pada block with the heading "Bhāvārtha" by mistake; it is in fact the Pada-pāṭha. [sic])*
 
@@ -7105,11 +7105,11 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 **Special Topics (p. 391)** — **māhinaḥ** "from the root *maha pūjāyām*: one who grows, or one worthy of worship: an epithet of Indra." **dharuṇam** "*sarvasya jagato dhārakaṃ vṛṣṭijalam*: the water of rain, support of the whole world." **samayā** "from the root *śamu śramu avaikalye*: firm, or strong." **pāṣyā** "this word has the two meanings, stone or power." **vi arujaḥ** "you destroyed in a special way: from the root *ruja bhaṅge*."
 
 **Vyākaraṇa-prakriyā** *(pp. 391–392 — grammar pages, noted briefly)*
-- **dhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*; *dvirvacane…*: no doubling; the *iṭ* of *liṭ* is allowed (*kṛsṛbhṛvṛstudrusrusruvo liṭi*, restricted); *ādeśapratyayayoḥ*: *ṣatva*; *ātolopa iṭi ca*; *nighāta*.
-- **māhinaḥ**: *maha pūjāyām*; *maher iṇañ ca* (Uṇ. 2-… as read [?]): *inan*; *ata upadhāyāḥ*: *vṛddhi*; *māhin*; *nit*: initial-acute.
-- **ariṇāḥ**: *rī gatireṣaṇayoḥ*, *kryādi*; *laṅ* second singular; *sip*; loss of *i*; *prādīnāṃ hrasvaḥ*; *śnā*; *ṇatva*; *ru*, *visarga*; *aṭ*; *tiṅ atiṅaḥ*: *nighāta*; accent from *śnā*.
+- **dhiṣe**: *ḍudhāñ*; Vedic *liṭ*; *thāsaḥ se*; *dvirvacane…* (Kā. 6-1-8-1): no doubling; the *iṭ* of *liṭ* is allowed (*kṛsṛbhṛvṛstudrusrusruvo liṭi*, restricted); *ādeśapratyayayoḥ*: *ṣatva*; *ātolopa iṭi ca* (Pā. sū. 6-4-64); *nighāta*.
+- **māhinaḥ**: *maha pūjāyām*; *maher iṇañ ca* (Uṇ. sū. 2-214): *inan*; *ata upadhāyāḥ*: *vṛddhi*; *māhin*; *nit*: initial-acute.
+- **ariṇāḥ**: *rī gatireṣaṇayoḥ*, *kryādi*; *laṅ* second singular; *sip*; loss of *i*; *prādīnāṃ hrasvaḥ* (Pā. sū. 7-3-80); *śnā*; *ṇatva*; *ru*, *visarga*; *aṭ*; *tiṅ atiṅaḥ*: *nighāta*; accent from *śnā*.
 - **samayā**: *śam* / *śamu śramu avaikalye*; *nandigrahipacādibhyaḥ*: *ac*; *sa* for *śa*; *citaḥ*: end-acute; instrumental.
-- **pāṣyā**: *piṣḷ saṃcūrṇane*; *sarvadhātubhya in* (Uṇ. 4-… as read [?]): *in*; the *i* of the root's penultimate becomes *a* in the Uṇādi (bahulam): *pāṣi*; in the feminine, *kṛdikārād aktinaḥ* (gaṇa) gives *ṅīṣ*; *yaṇ*; *udāttasvaritayor yaṇaḥ*: *svarita*.
+- **pāṣyā**: *piṣḷ saṃcūrṇane*; *sarvadhātubhya in* (Uṇ. sū. 4-557): *in*; the *i* of the root's penultimate becomes *a* in the Uṇādi (bahulam): *pāṣi*; in the feminine, *kṛdikārād aktinaḥ* (Pā. sū. 4-1-45 *gaṇa*) gives *ṅīṣ*; *yaṇ*; *udāttasvaritayor yaṇaḥ* (Pā. sū. 8-2-4): *svarita*.
 - **arujaḥ**: *ruja bhaṅge*, *tudādi*; *laṅ* second singular; *itaś ca*; *tudādibhyaḥ śaḥ*; *pugantalaghūpadhasya* barred (*sārvadhātukam apit*); *aṭ*; *ru*, *visarga*; *nighāta*. **|| 6 ||**
 
 **Closing note** *(p. 392)* — "**ಐವತ್ತಾರನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವು**" — "The fifty-sixth sūkta is ended."
