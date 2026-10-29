@@ -6,12 +6,13 @@ Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā acce
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
 Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
-Part (2): Sūkta 32 introduction, Ṛks 32.1–32.5 done (p. 606 = PDF 620).
-Next unit: Ṛk 32.6 (heading "Pages 607–609", PDF 621–). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
+Part (2): Sūkta 32 introduction, Ṛks 32.1–32.6 done (p. 611 upper = PDF 625; Rik 6 grammar runs to p. 611).
+Next unit: Ṛk 32.7 (heading "Pages 610–614"; its Saṃhitā is on p. 611 = PDF 625, already viewed: अपा॑दहस्तो… not yet read for accents). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
 - p. 585/587: Ṛ. Saṃ. 1-7-7 (bhāṣya and grammar), p. 586: 10-4-7 — digits read as flat-footed 7.
+- pp. 607, 610: last line cut off in the better scan (read from old PDF 622, 625).
 - p. 605: U. sū. 2-1[7?]0 (flat-foot middle digit) vs p. 595 2-120 for the same sūtra.
 - p. 599: last Saṃhitā line of 32.4 cut off in the better scan (read from old PDF 614); p. 597: Ṛ. Saṃ. 2-22-1 ref line likewise (old PDF 612).
 - p. 593: last bhāṣya line cut off in both scans (रक् । जग्मुः … unverified).
