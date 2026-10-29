@@ -2756,13 +2756,15 @@
 
 ### Rik 50.12 (pp. 142–144, PDF 158–160)
 
-**Saṃhitā-pāṭha** *(p. 142; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 142; accents as printed)*
 
-> **शुकेषु मे हरिमाणं रोपणाकासु दध्मसि ।**
-> **अथो हारिद्रवेषु मे हरिमाणं नि दध्मसि ॥ १२ ॥**
+> **शुके॑षु मे हरि॒माणं॑ रोप॒णाका॑सु दध्मसि ।**
+> **अथो॑ हारि॒द्रवे॑षु मे हरि॒माणं॒ नि द॑ध्मसि ॥ १२ ॥**
 
-*śukeṣu me harimāṇaṃ ropaṇākāsu dadhmasi |*
-*atho hāridraveṣu me harimāṇaṃ ni dadhmasi || 12 ||*
+*śúkeṣu me harimā́ṇaṃ ropaṇā́kāsu dadhmasi |*
+*átho hāridráveṣu me harimā́ṇaṃ ní dadhmasi || 12 ||*
+
+*[accent ?] the svarita of* harimāṇaṃ *(line 1) and the anudātta in* hāridraveṣu *stand slightly off their syllables and are placed by the pattern of the marks; the IAST acutes are inferred from the printed marks.*
 
 **Pada-pāṭha** *(p. 142)*
 
@@ -2774,11 +2776,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 142)*
 
-> **मे मदीयं हरिमाणं शरीरगतं हरिद्वर्णस्य भावं शुकेषु तादृशं वर्णं कामयमानेषु पक्षिषु तथा रोपणाकासु शारिकासु पक्षिविशेषेषु दध्मसि । स्थापयामः । अथो अपि च हारिद्रवेषु हरितालद्रुमेषु तादृग्वर्णेषु वत्स्वपि मे मदीयं हरिमाणं नि दध्मसि । निदधीमहि । स च हरिमा तत्रैव सुखेनास्तामस्मान्मा बाधिष्वेत्यर्थः ॥ दध्मसि । इदन्तो मसिरिति मस इकारागमः ॥**
+> **मे मदीयं हरिमाणं शरीरगतं हरिद्वर्णस्य भावं शुकेषु तादृशं वर्णं कामयमानेषु पक्षिषु तथा रोपणाकासु शारिकासु पक्षिविशेषेषु दध्मसि । स्थापयामः । अथो अपि च हारिद्रवेषु हरितालद्रुमेषु तादृग्वर्णेषु वत्स्वपि मे मदीयं हरिमाणं नि दध्मसि । निदधीमहि । स च हरिमा तत्रैव सुखेनास्तामस्मान्मा बाधिष्टेत्यर्थः ॥ दध्मसि । इदन्तो मसिरिति मस इकारागमः ॥**
 
-*me madīyaṃ harimāṇaṃ śarīragataṃ haridvarṇasya bhāvaṃ śukeṣu tādṛśaṃ varṇaṃ kāmayamāneṣu pakṣiṣu tathā ropaṇākāsu śārikāsu pakṣiviśeṣeṣu dadhmasi | sthāpayāmaḥ | atho api ca hāridraveṣu haritāladrumeṣu tādṛgvarṇeṣu vatsv api me madīyaṃ harimāṇaṃ ni dadhmasi | nidadhīmahi | sa ca harimā tatraiva sukhenāstām asmān mā bādhiṣveti arthaḥ || dadhmasi | idanto masir iti masa ikārāgamaḥ ||*
+*me madīyaṃ harimāṇaṃ śarīragataṃ haridvarṇasya bhāvaṃ śukeṣu tādṛśaṃ varṇaṃ kāmayamāneṣu pakṣiṣu tathā ropaṇākāsu śārikāsu pakṣiviśeṣeṣu dadhmasi | sthāpayāmaḥ | atho api ca hāridraveṣu haritāladrumeṣu tādṛgvarṇeṣu vatsv api me madīyaṃ harimāṇaṃ ni dadhmasi | nidadhīmahi | sa ca harimā tatraiva sukhenāstām asmān mā bādhiṣṭety arthaḥ || dadhmasi | idanto masir iti masa ikārāgamaḥ ||*
 
-*(The print's "vatsv api" is as I read it; "bādhiṣva" also read, [?].)*
+*(Re-read: the print is damaged at "tādṛgvarṇeṣu vatsv api me" [?]; it reads "bādhiṣṭeti", i.e.* mā bādhiṣṭa*, "let it not trouble".)*
 
 **Translation:** "*Me*, my, *harimāṇam*, the yellow colour (the state of the body that is yellow), *śukeṣu*, in parrots — birds that love such a colour — and *ropaṇākāsu*, in the *śārikā* birds, a kind of bird, *dadhmasi*, we place. *Atho*, and also, *hāridraveṣu*, in the *haritāla* trees, which are of such a colour, *me harimāṇam ni dadhmasi*, we deposit my yellowness; may it stay there in comfort, and not trouble us. *Dadhmasi*: *idanto masiḥ*, the *mas* takes the augment *i*."
 
@@ -2796,7 +2798,7 @@
 - **hāridraveṣu** — "in the trees called *haritāla*; here it is not clear which tree *haritāla* is; perhaps the leaves of that tree are yellow in colour. *Haritāla* may also be said to be the *arasina* [turmeric]."
 
 **Vyākaraṇa-prakriyā** *(p. 143 — grammar page, begun)*
-- **dadhmasi**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*, first person plural *mas*; *juhotyādibhyaḥ śluḥ* (Pā. 2-4-75 as read) gives *ślu* as the *vikaraṇa*; *ślau* (Pā. 6-1-10 as read) gives doubling: *dhā + dhā + mas*; *hrasvaḥ* (Pā. 7-4-59 as read) shortens the reduplicative syllable; *abhyāse carca* (Pā. 8-4-54 as read) gives the *jaś*: *dadhā + mas*; *śnābhyastayor ātaḥ* (Pā. 6-4-112 as read) drops the *ā* of the root when the *abhyasta* name applies: *dadh + mas*; *s* → *ru* and *visarga* are obtained; *idanto masi* (Pā. 7-1-46 as read) — the *mas* takes an *i*-augment…
+- **dadhmasi**: root *ḍudhāñ dhāraṇapoṣaṇayoḥ*, *juhotyādi*; *laṭ*, first person plural *mas*; *juhotyādibhyaḥ śluḥ* (no number printed) gives *ślu* as the *vikaraṇa*; *ślau* (no number printed) gives doubling: *dhā + dhā + mas*; *hrasvaḥ* (no number printed) shortens the reduplicative syllable; *abhyāse carca* (no number printed) gives the *jaś*: *dadhā + mas*; *śnābhyastayor ātaḥ* (Pā. 6-4-112) drops the *ā* of the root when the *abhyasta* name applies: *dadh + mas*; *s* → *ru* and *visarga* are obtained; *idanto masi* (Pā. 7-1-46) — the *mas* takes an *i*-augment…
 
 *(The rest of this grammar page, and the whole of Rik 13 with the close of Sūkta 50, are on pp. 143–146; not yet written.)*
 
@@ -2807,7 +2809,7 @@
 **Rik 50.12, continued** *(from p. 143 foot, p. 144)*
 
 **Vyākaraṇa-prakriyā, continued** *(p. 144 — grammar page, noted briefly)*
-- **dadhmasi** *(end)*: *idanto masiḥ* (Pā. 7-1-46 as read) — the *i* in this sūtra's wording stands for pronunciation: *mas* takes an *i*-augment as being of the form of an *i*-ending (*antyāvayava*); hence the *ru*, *visarga* that would come are set aside and *masi* becomes the suffix: *dadhmasi*; because the *tiṅ* comes after a non-verb, *tiṅ atiṅaḥ* gives the all-unaccented: *dadhmasi* is all-unaccented. **|| 12 ||**
+- **dadhmasi** *(end)*: *idanto masiḥ* (Pā. 7-1-46) — the *i* in this sūtra's wording stands for pronunciation: *mas* takes an *i*-augment as being of the form of an *i*-ending (*antyāvayava*); hence the *ru*, *visarga* that would come are set aside and *masi* becomes the suffix: *dadhmasi*; because the *tiṅ* comes after a non-verb, *tiṅ atiṅaḥ* gives the all-unaccented: *dadhmasi* is all-unaccented. **|| 12 ||**
 
 ---
 
