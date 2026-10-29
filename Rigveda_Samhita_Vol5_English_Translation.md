@@ -3510,15 +3510,15 @@
 
 ---
 
-### Rik 51.10 (pp. 188–, PDF 204–)
+### Rik 51.10 (pp. 188–191, PDF 204–207)
 
-**Saṃhitā-pāṭha** *(p. 188; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 188; accents as printed)*
 
-> **तक्षद्यत्त उशना सहसा सहो वि रोदसी मज्मना बाधते शवः ।**
-> **आ त्वा वातस्य नृमणो मनोयुज आ पूर्यमाणमवहन्नभि श्रवः ॥ १० ॥**
+> **तक्ष॒द्यत्त॑ उ॒शना॒ सह॑सा॒ सहो॒ वि रोद॑सी म॒ज्मना॑ बाधते॒ शवः॑ ।**
+> **आ त्वा॒ वात॑स्य नृमणो मनो॒युज॒ आ पूर्य॑माणमवहन्न॒भि श्रवः॑ ॥ १० ॥**
 
-*takṣad yat ta uśanā sahasā saho vi rodasī majmanā bādhate śavaḥ |*
-*ā tvā vātasya nṛmaṇo manoyuja ā pūryamāṇam avahann abhi śravaḥ || 10 ||*
+*tákṣad yát ta uśánā sáhasā sáho ví ródasī majmánā bādhate śávaḥ |*
+*ā́ tvā vā́tasya nṛmaṇo manoyúja ā́ pū́ryamāṇam avahann abhí śrávaḥ || 10 ||*
 
 **Pada-pāṭha** *(p. 188)*
 
@@ -3530,13 +3530,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 189)*
 
-> **हे इन्द्र यद्यदोशना काव्यः सहसात्मीयेन बलेन ते सहस्त्वदीयं बलं तक्षत् तनूकृतवान् । सम्यक् तीक्ष्णमकार्षीदित्यर्थः । तदा शवस्त्वदीयं बलं मज्मना सर्वस्य शोधकेन स्वतैक्ष्ण्येन रोदसी द्यावापृथिव्यौ वि बाधते । ते बिभीत इत्यर्थः । तथा चान्यत्राम्नातम् । यस्य शुष्माद्रोदसी अभ्यसेताम् (ऋग्वे. २-१२-१ [?]) इति । यद्वा । रोदसी यस्माद्वृत्रादेर्बिभीतस्तं बाधत इत्यर्थः । हे नृमणः नृषु रक्षितव्येषु यजमानेष्वनुग्रहबुद्धियुक्तेन्द्र आ पूर्यमाणं पूर्वोक्तेन बलेनैका [?] समन्तात्पूर्यमाणं त्वा त्वां मनोयुजो मनोव्यापारमात्रेण युक्ता वातस्य वायोः संबन्धिनः तद्वेगेन गच्छन्त इत्यर्थः । एवंभूता अश्वाः श्रवोऽभि हविर्लक्षणमन्नमभिलक्ष्यावहन् । अभिमुख्येन प्राप्यन्तु [?] ॥**
+> **हे इन्द्र यद्यदोशना काव्यः सहसात्मीयेन बलेन ते सहस्त्वदीयं बलं तक्षत् तनूकृतवान् । सम्यक् तीक्ष्णमकार्षीदित्यर्थः । तदा शवस्त्वदीयं बलं मज्मना सर्वस्य शोधकेन स्वतैक्ष्ण्येन रोदसी द्यावापृथिव्यौ वि बाधते । ते बिभीत इत्यर्थः । तथा चान्यत्राम्नातम् । यस्य शुष्माद्रोदसी अभ्यसेताम् (ऋग्वे. २-१२-१) इति । यद्वा । रोदसी यस्माद्वृत्रादेर्बिभीतस्तं बाधत इत्यर्थः । हे नृमणः नृषु रक्षितव्येषु यजमानेष्वनुग्रहबुद्धियुक्तेन्द्र आ पूर्यमाणं पूर्वोक्तेन बलेका [sic] समन्तात्पूर्यमाणं त्वा त्वां मनोयुजो मनोव्यापारमात्रेण युक्ता वातस्य वायोः संबन्धिनः तद्वेगेन गच्छन्त इत्यर्थः । एवंभूता अश्वाः श्रवोऽभि हविर्लक्षणमन्नमभिलक्ष्यावहन् । अभिमुख्येन प्रापयन्तु ॥**
 
-*he indra yad yadośanā kāvyaḥ sahasātmīyena balena te sahas tvadīyaṃ balaṃ takṣat tanūkṛtavān | samyak tīkṣṇam akārṣīd ity arthaḥ | tadā śavas tvadīyaṃ balaṃ majmanā sarvasya śodhakena svataikṣṇyena rodasī dyāvāpṛthivyau vi bādhate | te bibhīta ity arthaḥ | tathā cānyatrāmnātam | yasya śuṣmād rodasī abhyasetām (ṛgve. 2-12-1 [?]) iti | yadvā | rodasī yasmād vṛtrād er bibhītas taṃ bādhata ity arthaḥ | he nṛmaṇaḥ nṛṣu rakṣitaveṣu yajamāneṣv anugrahabuddhiyuktendra ā pūryamāṇaṃ pūrvoktena balenaikā [?] samantāt pūryamāṇaṃ tvā tvāṃ manoyujo manovyāpāramātreṇa yuktā vātasya vāyoḥ saṃbandhinaḥ tadvegena gacchanta ity arthaḥ | evaṃbhūtā aśvāḥ śravo 'bhi havirlakṣaṇam annam abhilakṣyāvahan | abhimukhyena prāpyantu [?] ||*
+*he indra yad yadośanā kāvyaḥ sahasātmīyena balena te sahas tvadīyaṃ balaṃ takṣat tanūkṛtavān | samyak tīkṣṇam akārṣīd ity arthaḥ | tadā śavas tvadīyaṃ balaṃ majmanā sarvasya śodhakena svataikṣṇyena rodasī dyāvāpṛthivyau vi bādhate | te bibhīta ity arthaḥ | tathā cānyatrāmnātam | yasya śuṣmād rodasī abhyasetām (ṛgve. 2-12-1) iti | yadvā | rodasī yasmād vṛtrād er bibhītas taṃ bādhata ity arthaḥ | he nṛmaṇaḥ nṛṣu rakṣitaveṣu yajamāneṣv anugrahabuddhiyuktendra ā pūryamāṇaṃ pūrvoktena balekā [sic] samantāt pūryamāṇaṃ tvā tvāṃ manoyujo manovyāpāramātreṇa yuktā vātasya vāyoḥ saṃbandhinaḥ tadvegena gacchanta ity arthaḥ | evaṃbhūtā aśvāḥ śravo 'bhi havirlakṣaṇam annam abhilakṣyāvahan | abhimukhyena prāpayantu ||*
 
-*(Reading notes: "*pūrvoktena balenaikā*" is crowded, [?]; the final verb I read as an imperative from the Pratipadārtha's "may bring"; the Ṛgveda numeral in the quotation is as read, [?]. The grammatical tail —* takṣat*,* uśanā*,* majmanā*,* nṛmaṇaḥ*,* avahan *— is characterized: root* takṣū tvakṣū tanūkaraṇe*, a* laṅ *without the* aṭ *by* bahulaṃ chandasy amāṅyoge 'pi*; the accent of the root retained after the* śap *is mute-*p*; *uśanā *from* vaś kāntau *with an Uṇādi* kanas *[Uṇ. as read, [?]] and* saṃprasāraṇa*, with the sūtras* kṣudhiśanaspṛudaṃśo… *[?] and* sarvanāmasthāne ca *(Pā. 6-4-8) for the lengthening, and a loss of the final* a *of the stem;* majmanā *from* masj *with an Uṇādi* manin*; *nṛmaṇaḥ *the* ṇatva *after the avagraha by* chandasy… *;* avahan *a* laṅ *in the prayer sense by* chandasi luṅlaṅliṭaḥ *[?].)*
+*(Reading notes: "*balekā*" is printed so (for *balena*?); the final verb is printed *prāpayantu*. The grammatical tail —* takṣat*,* uśanā*,* majmanā*,* nṛmaṇaḥ*,* avahan *— is characterized: root* takṣū tvakṣū tanūkaraṇe*, a* laṅ *without the* aṭ *by* bahulaṃ chandasy amāṅyoge 'pi*; the accent of the root retained after the* śap *is mute-*p*; *uśanā *from* vaś kāntau *with an Uṇādi* kanas *[Uṇ. 4-238, as printed] and* saṃprasāraṇa*, with the sūtras* kṣudhiśanaspṛudaṃśo… *[?] and* sarvanāmasthāne ca *(Pā. 6-4-8) for the lengthening, and a loss of the final* a *of the stem;* majmanā *from* masj *with an Uṇādi* manin*; *nṛmaṇaḥ *the* ṇatva *after the avagraha by* chandasy… *;* avahan *a* laṅ *in the prayer sense by* chandasi luṅlaṅliṭaḥ *[?].)*
 
-**Translation of the bhāṣya:** "O Indra, when Uśanas Kāvya, with his own strength, *takṣat*, made keen — *te sahaḥ*, your strength — made it well sharpened, then your *śavaḥ*, strength, with *majmanā*, with its keenness that purifies everything, *rodasī*, heaven and earth, *vi bādhate*, afflicts: they are afraid, is the sense; and so it is said elsewhere: 'from whose might heaven and earth tremble' (Ṛg. 2-12-1 [?]). Or: it afflicts that Vṛtra and the like of whom heaven and earth are afraid. O *nṛmaṇaḥ*, Indra, kindly-minded towards the sacrificers who are to be protected: you, *ā pūryamāṇam*, filled all round with the strength spoken of before, — *manoyujaḥ*, yoked by a mere act of thought, belonging to the Wind (*vātasya*), going with its speed — such horses *avahan*, may bring [you], *śravo 'bhi*, towards the oblation, the food."
+**Translation of the bhāṣya:** "O Indra, when Uśanas Kāvya, with his own strength, *takṣat*, made keen — *te sahaḥ*, your strength — made it well sharpened, then your *śavaḥ*, strength, with *majmanā*, with its keenness that purifies everything, *rodasī*, heaven and earth, *vi bādhate*, afflicts: they are afraid, is the sense; and so it is said elsewhere: 'from whose might heaven and earth tremble' (Ṛg. 2-12-1). Or: it afflicts that Vṛtra and the like of whom heaven and earth are afraid. O *nṛmaṇaḥ*, Indra, kindly-minded towards the sacrificers who are to be protected: you, *ā pūryamāṇam*, filled all round with the strength spoken of before, — *manoyujaḥ*, yoked by a mere act of thought, belonging to the Wind (*vātasya*), going with its speed — such horses *avahan*, may bring [you], *śravo 'bhi*, towards the oblation, the food."
 
 **Pratipadārtha** *(p. 189)* — "(O Indra) **yat** — when; **uśanā** — Uśanas; **sahasā** — by his strength; **te** — your; **sahaḥ** — strength; **takṣat** — made very keen; **śavaḥ** — your strength; **majmanā** — with the keenness that purifies all; **rodasī** — both heaven and earth; **vi bādhate** — frightens (or: afflicts also Vṛtra, who tears them apart); **nṛmaṇaḥ** — O Indra, who are kindly-minded to the (sacrificing) men; **ā pūryamāṇam** — filled, by such strength, fully; **tvā** — you; **manoyujaḥ** — those that attach themselves to the chariot by thought alone; **vātasya** — of the Wind (those that can run with speed — the horses); **śravaḥ abhi** — towards the food in the form of the oblation; **ā avahan** — may they bring (you) facing it."
 
@@ -3551,11 +3551,11 @@
 **English Translation (the source's own, p. 190)** — "If Usanas should sharpen your vigour by his own, then your might would terrify by its intensity both heaven and earth. Friend of man, let the will-harnessed horses, with the velocity of the wind convey you, replete with vigour to partake of the sacrificial food."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 190**
-- **uśanā** — "Uśanas is the son of Kavi; therefore the name *Uśanā Kāvyaḥ* has become established (Ṛ. Saṃ. 4-16-2 as read [?]). This Uśanas is a very ancient sage. His name occurs, generally together with Kutsa and Indra, in many Riks of the Ṛgveda — in about a dozen places given in small numerals (beginning with 1-51-10, this Rik), of which I do not trust the rest, [?] — and also in the Atharvaveda (4-29-6 as read [?]). It is said, in the Taittirīya Saṃhitā (numeral [?]), the Pañcaviṃśa Brāhmaṇa (numeral [?]), the Sāṅkhyāyana Śrauta Sūtra (numeral [?]) and other places, that when the Asuras fought with the deities, he was the *purohita* (family priest) of the Asuras."
+- **uśanā** — "Uśanas is the son of Kavi; therefore the name *Uśanā Kāvyaḥ* has become established (Ṛ. Saṃ. 4-26-1). This Uśanas is a very ancient sage. His name occurs, generally together with Kutsa and Indra, in many Riks of the Ṛgveda — in many places (Ṛ. Saṃ. 1-51-10; 1-83-5; 1-121-12; 4-16-2; 6-20-11; 8-23-17 [?]; 9-87-3; 9-97-7 [?]; 10-40-7 [?]; 1-130-9; 5-31-8; 5-34-2; 8-7-26 [?]; 10-22-6 — small numerals; 2/7 and 6/7 doubtful where marked) — and also in the Atharvaveda (4-29-6). It is said, in the Taittirīya Saṃhitā (2-5-8-5), the Pañcaviṃśa Brāhmaṇa (7-5-20), the Sāṅkhyāyana Śrauta Sūtra (14-27-1 [?]) and other places, that when the Asuras fought with the deities, he was the *purohita* (family priest) of the Asuras."
 - **majmanā** — "A sharp nature that finds out everything; this is the power that Śukrācārya employed for destroying the army of the gods."
-- **rodasī** — "The earth and the atmosphere. Here is the occasion of praying to Indra to protect the earth and atmosphere, oppressed by the Asura Vṛtra. The śruti '*yasya śuṣmād rodasī abhyasetām*' (Ṛ. Saṃ. 2-12-1 as read [?]) supports this sense."
+- **rodasī** — "The earth and the atmosphere. Here is the occasion of praying to Indra to protect the earth and atmosphere, oppressed by the Asura Vṛtra. The śruti '*yasya śuṣmād rodasī abhyasetām*' (Ṛ. Saṃ. 2-12-1) supports this sense."
 
-  > **यस्य शुष्माद्रोदसी अभ्यसेताम् ।** *(Ṛ. Saṃ. numeral as read [?])*
+  > **यस्य शुष्माद्रोदसी अभ्यसेताम् ।** *(Ṛ. Saṃ. 2-12-1)*
 
   *yasya śuṣmād rodasī abhyasetām |* — mine and tentative: "from whose might heaven and earth both trembled."
 - **śavaḥ** — "This word is here suitable in the sense of strength, or of army."
@@ -3564,9 +3564,9 @@
 
 **Vyākaraṇa-prakriyā** *(p. 191 — grammar page, noted briefly)*
 - **takṣat**: *takṣū tvakṣū tanūkaraṇe*, *bhvādi*, *laṅ* third singular; *śap* as the characteristic; the *i* of *tip* lost; the *aṭ*-augment does not come by *bahulaṃ chandasy amāṅyoge 'pi*; *śap* being *pit* is *anudātta*, and so the accent of the root alone remains (*dhātoḥ*, end-acute).
-- **uśanā**: *vaś kāntau*, *adādi*; the suffix *kanasi* by *vaśeḥ kanasiḥ* (Uṇ. 4-… as read [?]); being *kit*, *saṃprasāraṇa* by *grahijyā…*; *v* → *u*: *u+aś+anas*; the single substitute after *saṃprasāraṇa* is the earlier form: *uśanas*; in the nominative singular when the *su* follows, *ṛduśanaspurudaṃsoneho 'nehasāṃ ca* (Pā. 7-1-94) gives *anaṅ* for words ending in *ṛ*, *uśanas* and the like when it is not a vocative; the *ṅit*… in the final place (*anaṅ* has mute *ṅ*, so substituted for the final); *uśanan*; *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8) lengthens the penultimate of a stem in *n* when *su* follows; *su* dropped by *halṅyābbhyo…*; *nalopaḥ prātipadikāntasya* drops the *n*: *uśanā*.
+- **uśanā**: *vaś kāntau*, *adādi*; the suffix *kanasi* by *vaśeḥ kanasiḥ* (Uṇ. Sū. 4-[?]8, as printed here; the bhāṣya tail prints 4-238); being *kit*, *saṃprasāraṇa* by *grahijyā…*; *v* → *u*: *u+aś+anas*; the single substitute after *saṃprasāraṇa* is the earlier form: *uśanas*; in the nominative singular when the *su* follows, *ṛduśanaspurudaṃsoneho 'nehasāṃ ca* (Pā. 7-1-94) gives *anaṅ* for words ending in *ṛ*, *uśanas* and the like when it is not a vocative; the *ṅit*… in the final place (*anaṅ* has mute *ṅ*, so substituted for the final); *uśanan*; *sarvanāmasthāne cāsambuddhau* (Pā. 6-4-8) lengthens the penultimate of a stem in *n* when *su* follows; *su* dropped by *halṅyābbhyo…*; *nalopaḥ prātipadikāntasya* drops the *n*: *uśanā*.
 - **majmanā**: *ṭumasjo śuddhau*, *tudādi*; Uṇādi *manin*; *masj + man*: *sko saṃyogādyor* drops the *s* [of *sj*]; instrumental singular *majmanā*.
-- **nṛmaṇaḥ**: explained under an earlier mantra [as read, [?]].
+- **nṛmaṇaḥ**: explained in the 5th mantra (Ṛk 51.5).
 - **avahan**: *vaha prāpaṇe*, *bhvādi*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the sense of prayer; third plural: *avahan*; the *nighāta* accent.
 
 ---
