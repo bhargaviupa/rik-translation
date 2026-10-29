@@ -2979,15 +2979,15 @@
 
 ---
 
-### Rik 51.2 (pp. 154–, PDF 170–)
+### Rik 51.2 (pp. 154–158, PDF 170–174)
 
-**Saṃhitā-pāṭha** *(p. 154; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 154; accents as printed)*
 
-> **अभीमवन्त्स्वभिष्टिमूतयोऽन्तरिक्षप्रां तविषीभिरावृतम् ।**
-> **इन्द्रं दक्षास ऋभवो मदच्युतं शतक्रतुं जवनी सूनृतारुहत् ॥ २ ॥**
+> **अ॒भीम॑वन्वन्त्स्वभि॒ष्टिमू॒तयो॑ऽन्तरिक्ष॒प्रां तवि॑षीभि॒रावृ॑तम् ।**
+> **इन्द्रं॒ दक्षा॑स ऋ॒भवो॑ मद॒च्युतं॑ श॒तक्र॑तुं॒ जव॑नी सू॒नृतारु॑हत् ॥ २ ॥**
 
-*abhīm avan svabhiṣṭim ūtayo 'ntarikṣaprāṃ taviṣībhir āvṛtam |*
-*indraṃ dakṣāsa ṛbhavo madacyutaṃ śatakratuṃ javanī sūnṛtāruhat || 2 ||*
+*abhī́m avanvant svabhiṣṭím ūtáyo 'ntarikṣaprā́ṃ táviṣībhir ā́vṛtam |*
+*índraṃ dákṣāsa ṛbhávo madacyútaṃ śatákratuṃ jávanī sūnṛ́tā́ruhat || 2 ||*
 
 **Pada-pāṭha** *(p. 154)*
 
@@ -2997,47 +2997,47 @@
 *abhi | īm | avanvan | su-abhiṣṭim | ūtayaḥ | antarikṣa-prām | taviṣībhiḥ | ā-vṛtam |*
 *indram | dakṣāsaḥ | ṛbhavaḥ | mada-cyutam | śata-kratum | javanī | sūnṛtā | ā | aruhat || 2 ||*
 
-*(The Saṃhitā prints the first verb with a conjunct: I read* avan *+* sv… *as the Pada's* avanvan | su-abhiṣṭim*; the printed line-break is at "svabhiṣṭim". Doubtful, [?].)*
+*(The Saṃhitā prints* अवन्वन्त्स्वभिष्टिम् *(*avanvant svabhiṣṭim*), the Pada's* avanvan | su-abhiṣṭim *with the sandhi* t*.)*
 
 **Sāyaṇa-bhāṣya** *(pp. 154–155)*
 
-> **ऊतयो रक्षितारो दक्षासो दक्षयितारः प्रवर्धयितार ऋभवः । उरु भान्तीति नैरुक्तव्युत्पत्त्या ऋभवोऽत्र मरुत उच्यन्ते । एवंभूता मरुत इन्द्रमभीमवन्वन् । आभिमुख्येन खल्वभजन्त । वृत्रेण सह युध्यमानमिन्द्रं सर्वे देवाः पर्यत्यजन् । मरुतस्तु तथा न पर्यत्यक्षुः । तथा चाम्नायते । विश्वे देवा अजहुर्ये सखायः । मरुद्भिरिन्द्र सख्यं ते अस्तु । ऋ. सं. ८-९६-७ [?] । इति । ब्राह्मणेऽप्याम्नातं । मरुतो ह्येनं नाजहुः । ऐ. ब्रा. ३-२० [?] । इति । कीदृशमिन्द्रं । स्वभिष्टिं शोभनाभ्येषणवन्तं । शोभनाभिगमनमित्यर्थः । अन्तरिक्षप्रां । अन्तरिक्षं द्यूलोकं स्वतेजसा प्राति पूरयतीत्यन्तरिक्षप्राः । द्वादशस्वादित्येषु इन्द्रस्य विद्यमानत्वात् । शाखान्तरेऽपि श्रूयते । तस्या इन्द्रश्च विवस्वाञ्श्चाजायेताम् । तै. ब्रा. १-१-९-३ [?] । इति । इन्द्रश्च विवस्वांश्चेत्येते इति च । तविषीभिरावृतं । तविषीति बलनाम । तविषी शुष्मं इति तन्नामसु पाठात् । बलैरावृतं । अति बलिनमित्यर्थः । अत एव मदच्युतं शत्रूणां मदस्य गर्वस्य च्यावयितारं । किंच शतक्रतुं शतसंख्यानां क्रतूनामाहर्तारं बहुविधकर्माणं वा । पूर्वोक्तं । तमिन्द्रं जवनी वृत्रवधं प्रति प्रेरयित्री सूनृता प्रियसत्यरूपा वाक् । आरुहत् । आरूढवती । वृत्रवधं प्रति सापि वागिन्द्रस्योत्साहकारिण्यभूदित्यर्थः ॥**
+> **ऊतयोऽवितारो रक्षितारो दक्षासो दक्षयितारः प्रवर्धयितार ऋभवः । उरु भान्तीति नैरुक्तव्युत्पत्त्या ऋभवोऽत्र मरुत उच्यन्ते । एवंभूता मरुत इन्द्रमभीमवन्वन् । आभिमुख्येन खल्वभजन्त । वृत्रेण सह युध्यमानमिन्द्रं सर्वे देवाः पर्यत्यजन् । मरुतस्तु तथा न पर्यत्यक्षुः । तथा चाम्नायते । विश्वे देवा अजहुर्ये सखायः । मरुद्भिरिन्द्र सख्यं ते अस्तु । ऋग्वे. ८-९६-७ । इति । ब्राह्मणेऽप्याम्नातं । मरुतो ह्येनं नाजहुः । ऐ. ब्रा. ३-२० । इति । कीदृशमिन्द्रं । स्वभिष्टिं शोभनाभ्येषणवन्तं । शोभनाभिगमनमित्यर्थः । अन्तरिक्षप्रां । अन्तरिक्षं द्युलोकं स्वतेजसा प्राति पूरयतीत्यन्तरिक्षप्राः । द्वादशस्वादित्येषु इन्द्रस्य विद्यमानत्वात् । शाखान्तरेऽपि श्रूयते । तस्या इन्द्रश्च विवस्वांश्चाजायेताम् । तै. ब्रा. १-१-९-३ । इति । इन्द्रश्च विवस्वांश्चेत्येते इति च । तविषीभिरावृतं । तविषीति बलनाम । तविषी शुष्ममिति तन्नामसु पाठात् । बलैरावृतं । अति बलिनमित्यर्थः । अत एव मदच्युतं शत्रूणां मदस्य गर्वस्य च्यावयितारं । किंच शतक्रतुं शतसंख्यानां क्रतूनामाहर्तारं बहुविधकर्माणं वा । पूर्वोक्तं तमिन्द्रं जवनी वृत्रवधं प्रति प्रेरयित्री सूनृता मरुद्भिः प्रयुक्ता प्रहर भगवो जहि वीरयस्व । ऐ. ब्रा. ३-२० । इति ब्राह्मणोक्तरूपा प्रियसत्यात्मिका वागप्यारुहत् । आरूढवती । वृत्रवधं प्रति साऽपि वागिन्द्रस्योत्साहकारिण्यभूदित्यर्थः ॥**
 
-*ūtayo rakṣitāro dakṣāso dakṣayitāraḥ pravardhayitāra ṛbhavaḥ | uru bhānti iti nairuktavyutpattyā ṛbhavo 'tra maruta ucyante | evaṃbhūtā maruta indram abhīm avanvan | ābhimukhyena khalv abhajanta | vṛtreṇa saha yudhyamānam indraṃ sarve devāḥ paryatyajan | marutas tu tathā na paryatyakṣuḥ | tathā cāmnāyate | viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu | ṛ. saṃ. 8-96-7 [?] | iti | brāhmaṇe 'py āmnātaṃ | maruto hy enaṃ nājahuḥ | ai. brā. 3-20 [?] | iti | kīdṛśam indraṃ | svabhiṣṭiṃ śobhanābhyeṣaṇavantaṃ | śobhanābhigamanam ity arthaḥ | antarikṣaprāṃ | antarikṣaṃ dyūlokaṃ svatejasā prāti pūrayatīty antarikṣaprāḥ | dvādaśasv ādityeṣu indrasya vidyamānatvāt | śākhāntare 'pi śrūyate | tasyā indraś ca vivasvāñś cājāyetām | tai. brā. 1-1-9-3 [?] | iti | indraś ca vivasvāṃś cety ete iti ca | taviṣībhir āvṛtaṃ | taviṣīti balanāma | taviṣī śuṣmaṃ iti tannāmasu pāṭhāt | balair āvṛtaṃ | ati balinam ity arthaḥ | ata eva madacyutaṃ śatrūṇāṃ madasya garvasya cyāvayitāraṃ | kiṃca śatakratuṃ śatasaṃkhyānāṃ kratūnām āhartāraṃ bahuvidhakarmāṇaṃ vā | pūrvoktaṃ | tam indraṃ javanī vṛtravadhaṃ prati prerayitrī sūnṛtā priyasatyarūpā vāk | āruhat | ārūḍhavatī | vṛtravadhaṃ prati sāpi vāg indrasyotsāhakāriṇy abhūd ity arthaḥ ||*
+*ūtayo 'vitāro rakṣitāro dakṣāso dakṣayitāraḥ pravardhayitāra ṛbhavaḥ | uru bhānti iti nairuktavyutpattyā ṛbhavo 'tra maruta ucyante | evaṃbhūtā maruta indram abhīm avanvan | ābhimukhyena khalv abhajanta | vṛtreṇa saha yudhyamānam indraṃ sarve devāḥ paryatyajan | marutas tu tathā na paryatyakṣuḥ | tathā cāmnāyate | viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu | ṛgve. 8-96-7 | iti | brāhmaṇe 'py āmnātaṃ | maruto hy enaṃ nājahuḥ | ai. brā. 3-20 | iti | kīdṛśam indraṃ | svabhiṣṭiṃ śobhanābhyeṣaṇavantaṃ | śobhanābhigamanam ity arthaḥ | antarikṣaprāṃ | antarikṣaṃ dyulokaṃ svatejasā prāti pūrayatīty antarikṣaprāḥ | dvādaśasv ādityeṣu indrasya vidyamānatvāt | śākhāntare 'pi śrūyate | tasyā indraś ca vivasvāṃś cājāyetām | tai. brā. 1-1-9-3 | iti | indraś ca vivasvāṃś cety ete iti ca | taviṣībhir āvṛtaṃ | taviṣīti balanāma | taviṣī śuṣmam iti tannāmasu pāṭhāt | balair āvṛtaṃ | ati balinam ity arthaḥ | ata eva madacyutaṃ śatrūṇāṃ madasya garvasya cyāvayitāraṃ | kiṃca śatakratuṃ śatasaṃkhyānāṃ kratūnām āhartāraṃ bahuvidhakarmāṇaṃ vā | pūrvoktaṃ tam indraṃ javanī vṛtravadhaṃ prati prerayitrī sūnṛtā marudbhiḥ prayuktā prahara bhagavo jahi vīrayasva | ai. brā. 3-20 | iti brāhmaṇoktarūpā priyasatyātmikā vāg apy āruhat | ārūḍhavatī | vṛtravadhaṃ prati sā 'pi vāg indrasyotsāhakāriṇy abhūd ity arthaḥ ||*
 
-*(The grammatical tail of the bhāṣya, which follows this on pp. 155 in the print — on* avanvan*,* svabhiṣṭim*,* ūtayaḥ*,* antarikṣaprām*,* āvṛtam*,* dakṣāsaḥ*,* madacyutam*,* śatakratum*,* javanī*,* aruhat *— is characterized, not transcribed (see the grammar notes below). The Ṛgveda and Brāhmaṇa numerals are as read, [?].)*
+*(The grammatical tail of the bhāṣya, which follows this on pp. 155 in the print — on* avanvan*,* svabhiṣṭim*,* ūtayaḥ*,* antarikṣaprām*,* āvṛtam*,* dakṣāsaḥ*,* madacyutam*,* śatakratum*,* javanī*,* aruhat *— is characterized, not transcribed (see the grammar notes below).)*
 
-**Translation:** "*Ūtayaḥ*, the protectors; *dakṣāsaḥ*, the strengtheners, increasers; *ṛbhavaḥ* — by the Nirukta etymology '*uru bhānti*, they shine widely' the *ṛbhus* are here the Maruts. Such Maruts *īm indram abhi avanvan*, served Indra, facing him; for when Indra was fighting with Vṛtra all the gods forsook him, but the Maruts did not forsake him; so it is declared: 'all the gods who were his friends forsook him; with the Maruts, O Indra, let your friendship be' (Ṛ. Saṃ. 8-96-7 [?]); and in the Brāhmaṇa: 'the Maruts, indeed, did not forsake him' (Ai. Brā. 3-20 [?]). What Indra? *Svabhiṣṭim*, of good approach; *antarikṣaprām*, 'he who fills the heavenly world with his own splendour' (among the twelve Ādityas Indra is included; as in another recension, 'Indra and Vivasvān were born of her', Tai. Brā. 1-1-9-3 [?]); *taviṣībhir āvṛtam*, surrounded by powers (*taviṣī* is a name for strength, read among the names of strength); exceedingly strong; therefore *madacyutam*, one who makes the pride of enemies fall; and *śatakratum*, who has performed a hundred sacrifices, or who does many deeds. To that Indra *javanī sūnṛtā*, the impelling word, pleasing and true, *āruhat*, mounted: that voice too, in the killing of Vṛtra, became an encourager of Indra."
+**Translation:** "*Ūtayaḥ*, the guardians, protectors; *dakṣāsaḥ*, the strengtheners, increasers; *ṛbhavaḥ* — by the Nirukta etymology '*uru bhānti*, they shine widely' the *ṛbhus* are here the Maruts. Such Maruts *īm indram abhi avanvan*, served Indra, facing him; for when Indra was fighting with Vṛtra all the gods forsook him, but the Maruts did not forsake him; so it is declared: 'all the gods who were his friends forsook him; with the Maruts, O Indra, let your friendship be' (Ṛgve. 8-96-7); and in the Brāhmaṇa: 'the Maruts, indeed, did not forsake him' (Ai. Brā. 3-20). What Indra? *Svabhiṣṭim*, of good approach; *antarikṣaprām*, 'he who fills the heavenly world with his own splendour' (among the twelve Ādityas Indra is included; as in another recension, 'Indra and Vivasvān were born of her', Tai. Brā. 1-1-9-3); *taviṣībhir āvṛtam*, surrounded by powers (*taviṣī* is a name for strength, read among the names of strength); exceedingly strong; therefore *madacyutam*, one who makes the pride of enemies fall; and *śatakratum*, who has performed a hundred sacrifices, or who does many deeds. To that Indra *javanī sūnṛtā*, the impelling word, uttered by the Maruts ('strike, lord, slay, show your valour', Ai. Brā. 3-20), in the form told in the Brāhmaṇa, pleasing and true, *āruhat*, also mounted: that voice too, in the killing of Vṛtra, became an encourager of Indra."
 
 **Pratipadārtha** *(p. 155)* — "**ūtayaḥ** — those who protect; **dakṣāsaḥ** — those who nourish and increase; **ṛbhavaḥ** — the Maruts, who shine exceedingly; **svabhiṣṭim** — of deep, profound going; **antarikṣaprām** — who fills the atmosphere (with his splendour); **taviṣībhir āvṛtam** — surrounded by strengths (exceedingly strong); **madacyutam** — who makes (thereby) the pride of enemies fall; **śatakratum** — doer of a hundred sacrifices, or of many pure deeds; **indram** — Indra; **abhi īm avan** — approached and served; **javanī** — (impelling Indra to kill Vṛtra) the word; **sūnṛtā** — pleasant and true (uttered by the Maruts); **āruhat** — went and reached (making Indra eager)."
 
 **Bhāvārtha** *(p. 155)* — "The Maruts, protectors and nourishers of the world and exceedingly shining, approached and served Indra, who is of deep going, who fills the atmosphere with his splendour, is strong, makes the pride of enemies fall, and does a hundred pure sacrifices. The pleasing, true words they uttered to urge him to kill Vṛtra made Indra eager."
 
-**English Translation (the source's own, p. 156)** — "It was this Indra, the great granter of wishes, the pervader of heaven, surrounded by powers that his allies, Maruts, loved ; it was brave Indra that the mighty and wise Maruts loved ; it was Indra of hundred wisdoms that their encouraging voice reached [sic: "vaice", and the sentence is printed without final stop]."
+**English Translation (the source's own, p. 156)** — "If [sic] was this Indra, the great granter of wishes, the pervader of heaven, surrounded by powers that his allies, Marnts [sic], loved ; it was brave Indra that the mighty and wise Maruts loved ; it was Indra of hundred wisdoms that their encouraging voice reached [sic: "vaice", and the sentence is printed without final stop]."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 156**
-- **ṛbhavaḥ** — "*uru bhānti iti*: by the etymology of the Nirukta (the Nirukta-authors' derivation) the word *ṛbhu* here refers to the Maruts, the deities who shine greatly. Also in the Nirukta, in two other ways, '*ṛtena bhānti vā*' and '*ṛtena bhavantīti vā*' (Ni. [?] as read), the derivation is shown, so that *ṛbhu* means 'those who shine by truth' or 'who exist by truth'. That they are truthful has an illustration: when Indra fought Vṛtra, all the deities fled in fear of Vṛtra, but the Maruts alone did not abandon Indra's side. For that reason the Maruts have the fame of being Indra's friends: the Śrutis '*viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu*' (Ṛ. Saṃ. 8-96-7 [?]) and '*maruto hy enaṃ nājahuḥ*' (Ai. Brā. 3-20 [?]) show the same meaning." — **untranslated in the source**:
+- **ṛbhavaḥ** — "*uru bhānti iti*: by the etymology of the Nirukta (the Nirukta-authors' derivation) the word *ṛbhu* here refers to the Maruts, the deities who shine greatly. Also in the Nirukta, in two other ways, '*ṛtena bhānti vā*' and '*ṛtena bhavantīti vā*' (no reference printed), the derivation is shown, so that *ṛbhu* means 'those who shine by truth' or 'who exist by truth'. That they are truthful has an illustration: when Indra fought Vṛtra, all the deities fled in fear of Vṛtra, but the Maruts alone did not abandon Indra's side. For that reason the Maruts have the fame of being Indra's friends: the Śrutis '*viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu*' (Ṛ. Saṃ. 8-96-7) and '*maruto hy enaṃ nājahuḥ*' (Ai. Brā. 3-20) show the same meaning." — **untranslated in the source**:
 
-  1. > **ऋतेन भान्तीति वा । ऋतेन भवन्तीति वा ।** *(Ni. as read [?])*
+  1. > **ऋतेन भान्तीति वा । ऋतेन भवन्तीति वा ।** *(no reference printed)*
 
      *ṛtena bhāntīti vā | ṛtena bhavantīti vā |* — mine and tentative: "or, 'they shine by truth'; or, 'they exist by truth'."
-  2. > **विश्वे देवा अजहुर्ये सखायः । मरुद्भिरिन्द्र सख्यं ते अस्तु ।** *(Ṛ. Saṃ. 8-96-7 as read [?])*
+  2. > **विश्वे देवा अजहुर्ये सखायः । मरुद्भिरिन्द्र सख्यं ते अस्तु ।** *(Ṛ. Saṃ. 8-96-7)*
 
      *viśve devā ajahur ye sakhāyaḥ | marudbhir indra sakhyaṃ te astu |* — mine and tentative: "the gods who were friends abandoned (you); let your friendship, O Indra, be with the Maruts."
-  3. > **मरुतो ह्येनं नाजहुः ।** *(Ai. Brā. 3-20 as read [?])*
+  3. > **मरुतो ह्येनं नाजहुः ।** *(Ai. Brā. 3-20)*
 
      *maruto hy enaṃ nājahuḥ |* — mine and tentative: "for the Maruts did not abandon him."
-- **antarikṣaprām** — "*antarikṣaṃ dyulokaṃ svatejasā prāti pūrayatīti*: he who fills the atmosphere (the world of heaven) with his own splendour. Since Indra is among the twelve Ādityas, the twelve Ādityas light the world of the gods and all other worlds with their splendour; but, being subject to Indra, this word, signifying the twelve Ādityas, is also an epithet of *indra*. The Śrutis '*tasyā indraś ca vivasvāṃś cājāyetām*' (Tai. Brā. 1-1-9-3 [?]) and '*indraś ca vivasvāṃś cety ete*' (Tai. Ā. 1-13-3 [?]) are illustrations of it." — **untranslated in the source**:
+- **antarikṣaprām** — "*antarikṣaṃ dyulokaṃ svatejasā prāti pūrayatīti*: he who fills the atmosphere (the world of heaven) with his own splendour. Since Indra is among the twelve Ādityas, the twelve Ādityas light the world of the gods and all other worlds with their splendour; but, being subject to Indra, this word, signifying the twelve Ādityas, is also an epithet of *indra*. The Śrutis '*tasyā indraś ca vivasvāṃś cājāyetām*' (Tai. Brā. 1-1-9-3) and '*indraś ca vivasvāṃś cety ete*' (Tai. Ā. 1-13-3) are illustrations of it." — **untranslated in the source**:
 
-  > **तस्या इन्द्रश्च विवस्वांश्चाजायेताम् ।** *(Tai. Brā. 1-1-9-3 as read [?])*
+  > **तस्या इन्द्रश्च विवस्वांश्चाजायेताम् ।** *(Tai. Brā. 1-1-9-3)*
 
   *tasyā indraś ca vivasvāṃś cājāyetām |* — mine and tentative: "of her were born Indra and Vivasvān."
-- **taviṣī** — "*taviṣī taviṣīti balanāma*; '*taviṣī śuṣmam*' (Ni. 2-9 as read [?]): since it is said to mean strength, *taviṣī* means strength, power."
+- **taviṣī** — "*taviṣī taviṣīti balanāma*; '*taviṣī śuṣmam*' (Ni. 2-9): since it is said to mean strength, *taviṣī* means strength, power."
 - **śatakratum** — "one who has performed a hundred sacrifices, or who does many deeds."
 - **javanī** — "the word that urged the killing of Vṛtra. *Ju* is a root of the sūtra-list; *lyuṭ* in the instrumental sense."
-- **sūnṛtā** — "the pleasant and true words that the Maruts utter, praising Indra, such as '*pra hara bhagavo jahi vīrayasva*' (Ai. Brā. 3-20 as read [?]), spoken in the Brāhmaṇa." — **untranslated in the source**:
+- **sūnṛtā** — "the pleasant and true words that the Maruts utter, praising Indra, such as '*pra hara bhagavo jahi vīrayasva*' (Ai. Brā. 3-20), spoken in the Brāhmaṇa." — **untranslated in the source**:
 
-  > **प्रहर भगवो जहि वीरयस्व ।** *(Ai. Brā. 3-20 as read [?])*
+  > **प्रहर भगवो जहि वीरयस्व ।** *(Ai. Brā. 3-20)*
 
   *prahara bhagavo jahi vīrayasva |* — mine and tentative: "strike, O lord; slay; show your valour."
 
