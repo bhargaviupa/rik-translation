@@ -13,4 +13,4 @@ with a loop on top; ೭ = the flat-footed "2"-like glyph. The file's page marker
 
 Accents (coordinator, Oct 29: required, not deferred): pp. 561–565 carry no accented Saṃhitā/Vedic citation lines (Kannada prose with references only); none deferred.
 
-Open items: none yet.
+Open items: 9-26-5 [?] (p. 576); 10-102-12 [?] (p. 574); gāṣṭveya [?] (p. 572). Note: the edition numbers Maṇḍala 8 without the Vālakhilya (8-59 = std 8-70), so 8-refs stay as printed.
