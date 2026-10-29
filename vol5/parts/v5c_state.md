@@ -8,6 +8,6 @@ duplicates of pp. 450–451; printed = PDF − 16 from PDF 468 (p. 452) to the e
 The "PDF" labels in the translation file follow the old scan (always − 16). Printed p. 644 exists in the better scan (PDF 660).
 
 Done through: Sūkta 60 Ṛk 2 (p. 468; better-scan PDF 484).
-Next unit: Sūkta 60 Ṛk 3 (p. 469, PDF 485).
+Next unit: Sūkta 60 Ṛk 3 (p. 469, PDF 485). PAUSED by coordinator (user request); Ṛk 60.3 was barely started and nothing of it was written — on resume, redo it from the print (Saṃhitā accents, bhāṣya corrections, add the missing p. 469 tail).
 
 Open items: Pā. 6-4-? (anudāttopadeśa, p. 395) last group 26/27 unread. Pada-pāṭha is accented in print but kept unaccented (coordinator rule).
