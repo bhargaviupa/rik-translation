@@ -9370,10 +9370,12 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 **॥ Saṃhitāpāṭhaḥ ॥**
 
-> आ नो भज परमेष्वा वाजेषु मध्यमेषु ।
-> शिक्षा वस्वो अन्तमस्य ॥ ५ ॥
+> आ नो॑ भज पर॒मेष्वा वाजे॑षु मध्य॒मेषु॑ ।
+> शिक्षा॒ वस्वो॒ अन्त॑मस्य ॥ ५ ॥
 
-*ā no bhaja parameṣv ā vājeṣu madhyameṣu | śikṣā vasvo antamasya || 5 ||*
+*ā́ no bhaja paraméṣv ā́ vā́jeṣu madhyaméṣu | śíkṣā vásvo ántamasya || 5 ||*
+
+*(Saṃhitā accents as printed (w3); Pada unaccented.)*
 
 **॥ Padapāṭhaḥ ॥**
 
@@ -9383,11 +9385,11 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(pp. 384–385)*
 
-> हे अग्ने परमेषूत्कृष्टेषु द्युलोकवर्तिषु वाजेष्वन्नेषु नोऽस्मानाभज । सर्वतः प्रापय । मध्यमेष्वन्तरिक्षलोकवर्तिषु वाजेष्वा भज । अन्तमस्य भूलोकस्य संबन्धिनि वस्वो वसूनि शिक्ष । देहि ॥ शिक्ष । शिक्ष विद्योपादाने । शपः पित्त्वादनुदात्तत्वम् । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । अन्तमस्य । अन्तिकतमस्य । तेमे तादेश्च । पा. ६-४-१४६-७ । इति तिकशब्दलोपः ।
+> हे अग्ने परमेषूत्कृष्टेषु द्युलोकवर्तिषु वाजेष्वन्नेषु नोऽस्मानाभज । सर्वतः प्रापय । मध्यमेष्वन्तरिक्षलोकवर्तिषु वाजेष्वा भज । अन्तमस्यान्तिकतमस्य भूलोकस्य संबन्धिनि वस्वो वसूनि शिक्ष । देहि ॥ शिक्ष । शिक्ष विद्योपादाने । शपः पित्त्वाद्धातुस्वरः । द्व्यचोऽतस्तिङ इति संहितायां दीर्घः । अन्तमस्य । अन्तिकतमस्य तमे तादेश्च । पा. ६-४-१४९-९ । इति तिकशब्दलोपः ॥ २२ ॥
 
-*he agne parameṣūtkṛṣṭeṣu dyulokavartiṣu vājeṣv anneṣu no 'smān ābhaja | sarvataḥ prāpaya | madhyameṣv antarikṣalokavartiṣu vājeṣv ā bhaja | antamasya bhūlokasya saṃbandhini vasvo vasūni śikṣa | dehi || śikṣa | śikṣa vidyopādāne | śapaḥ pittvād anudāttatvam | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | antamasya | antikatamasya | teme tādeś ca | pā. 6-4-146-7 | iti tikaśabdalopaḥ |*
+*he agne parameṣūtkṛṣṭeṣu dyulokavartiṣu vājeṣv anneṣu no 'smān ābhaja | sarvataḥ prāpaya | madhyameṣv antarikṣalokavartiṣu vājeṣv ā bhaja | antamasyāntikatamasya bhūlokasya saṃbandhini vasvo vasūni śikṣa | dehi || śikṣa | śikṣa vidyopādāne | śapaḥ pittvād dhātusvaraḥ | dvyaco 'tastiṅa iti saṃhitāyāṃ dīrghaḥ | antamasya | antikatamasya tame tādeś ca | pā. 6-4-149-9 | iti tikaśabdalopaḥ || 22 ||*
 
-**Translation:** "O Agni! Bring us (*ā bhaja*), from every side, to the *parameṣu* — the highest — *vājeṣu* — foods — that are in the world of heaven; bring us also to the middle foods in the *antarikṣa*. Give (*śikṣa*) the *vasvaḥ* — the riches — that pertain to *antamasya* — the nearest world, the earth. *Śikṣa*: *śikṣa vidyopādāne* ['to learn' — here, 'to give']; the accent of *śap* is lowered; lengthening in the Saṃhitā by P. 6-3-135. *Antamasya*: [from] *antikatama*; the loss of *tika* by P. 6-4-146–147 [*ṭeḥ*/*tiko…*]." *(Grammar pages 385–386, noted briefly: the words treated are* śikṣa *[*śikṣa vidyopādāne*, *bhvādi*; the root is taken in other senses too, so here 'give'; *loṭ* 2nd singular *sip* → *hi* by P. 3-4-87; the *hi* is lost after a stem ending in *a* by P. 6-4-105 *ato heḥ*; *śap* is *pit* so anudātta by P. 3-1-4; the root's end-acute stands; the lengthening of the final *a* in the Saṃhitā by P. 6-3-135 *dvyaco 'tastiṅaḥ*] and* antamasya *[*antikatamasya* — the superlative of *antika*; the elements from the *t* of *tika* are dropped before *tamap*, P. 6-4-146 *ṭeḥ*? [the print's numerals are 6-4-146/147]; so *antima* — and the genitive *antimasya*; the print also gives the form *antamasya*]; numerals as read, pointers only.)*
+**Translation:** "O Agni! Bring us (*ā bhaja*), from every side, to the *parameṣu* — the highest — *vājeṣu* — foods — that are in the world of heaven; bring us also to the middle foods in the *antarikṣa*. Give (*śikṣa*) the *vasvaḥ* — the riches — that pertain to *antamasya* — the nearest world, the earth. *Śikṣa*: *śikṣa vidyopādāne* ['to learn' — here, 'to give']; since *śap* is *pit*, the root's accent [stands]; lengthening in the Saṃhitā by *dvyaco 'tastiṅaḥ*. *Antamasya*: *antikatamasya*; the loss of *tika* by *tame tādeś ca* (Pā. 6-4-149-9 [as printed])." *(Bhāṣya ends ॥ २२ ॥ = Varga 22.)* *(Grammar pages 385–386, noted briefly: the words treated are* śikṣa *[*śikṣa vidyopādāne*, *bhvādi*; the root is taken in other senses too, so here 'give'; *loṭ* 2nd singular *sip* → *hi* (no number printed); the *hi* is lost after a stem ending in *a* by P. 6-4-105 *ato heḥ*; *śap* is *pit* so anudātta by P. 3-1-4 *anudāttau suppitau*; the root's end-acute stands; the lengthening of the final *a* in the Saṃhitā by P. 6-3-135 *dvyaco 'tastiṅaḥ*] and* antamasya *[*antikatamasya* — the superlative of *antika*; the elements from the *t* of *tika* are dropped before *tamap* by *tame tādeś ca* (Pā. sū. 6-4-149-9 as printed); so *antima* — and the genitive *antimasya*; the print also gives the form *antamasya*]; numerals checked against the print, w3.)*
 
 **॥ Prati-padārthaḥ ॥** *(p. 385)* **(हे अग्ने) ((he agne))** — O Agni | **परमेषु वाजेषु (parameṣu vājeṣu)** — in the foods of the highest, i.e. of heaven | **नः (naḥ)** — us | **आ भज (ā bhaja)** — bring [make us obtain] | **मध्यमेषु वाजेषु (madhyameṣu vājeṣu)** — in the foods of the middle world [the antarikṣa] | **आ भज (ā bhaja)** — bring | **अन्तमस्य (antamasya)** — of the nearest, i.e. the earth | **वस्वः (vasvaḥ)** — riches | **शिक्ष (śikṣa)** — give.
 
