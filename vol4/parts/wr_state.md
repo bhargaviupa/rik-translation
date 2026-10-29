@@ -1,4 +1,2 @@
-wr state
-Range: bare ? refs in vol3 (before Sūkta 32) and Vol 4 English file.
-Vol 3: done (5 lines, 0 left as [?]).
-Vol 4: next (lines 129, 422, 795, 1642, 3737, 3797, 4283).
+RANGE DONE
+wr: bare ? refs. Vol 3 (before Sūkta 32): 5 lines fixed (pp. 273, 580, 581, 586, 587), 0 left [?]. Vol 4: 7 lines fixed (pp. 5, 32, 56, 105, 225, 227, 250), 0 left [?]. Open: none. Tool: vol3/tools/render_wr.py (copy in vol4/tools).
