@@ -1,3 +1,4 @@
+RANGE DONE
 # w3 — Vol 3 numeral/[?]/accent pass, worker state
 
 Range: (1) Ṛk 26.10 (p. 370 = PDF 384) → end of Sūkta 29 (p. 458); (2) Ṛk 31.4 (p. 534 = PDF 548) → end (p. 647 = PDF 660),
@@ -5,11 +6,27 @@ incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
-Part (2): done through Ṛk 31.15 (p. 577 = PDF 591); anāhitāgni note moved into Ṛk 31.15 (done).
-Next unit: Ṛk 31.16 (heading "Pages 578–581", PDF 592–595).
+Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
+Part (2): Sūkta 32 introduction, Ṛks 32.1–32.15 and the adhyāya close done (p. 647 = PDF 660; last leaf old PDF 663). RANGE DONE.
+Next unit: none. Remaining [?] after Sūkta 32 heading: only in the trailing progress note (not touched). Cut-off last lines (both or one scan): pp. 593, 597, 599, 607, 610, 640.
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
+- p. 646: grammar prints bhavater aḥ as Pā. sū. 6-4-73 (old scan only; bhāṣya 7-4-73).
+- p. 640: last bhāṣya line of Ṛk 32.14 cut off in both scans (अतरः । यद्वृत्तयोगादनिघातः ॥ unverified).
+- p. 636: Ṛk 32.13 line-1 [accent ?].
+- p. 633: Ṛk 32.12 line-2 [accent ?]; p. 634 bhāṣya पा. १-१-१८-५ vs grammar 8-1-18-5.
+- p. 627: Ṛk 32.11 line-2 [accent ?]; p. 631 Paṇi list: 1-1[8?]0-7 (blot), 10-108-2 (out of order as printed), 1-134-10.
+- p. 623: Ṛk 32.10 line-1 [accent ?] (शरीरं stroke).
+- p. 619: Ṛk 32.9 line-1 [accent ?]; p. 622: U. sū. 3-312 last digit (2, some doubt; bhāṣya prints उ. ३-३२).
+- p. 615: Ṛk 32.8 line-1 [accent ?] (stroke over प of यन्त्यापः).
+- p. 585/587: Ṛ. Saṃ. 1-7-7 (bhāṣya and grammar), p. 586: 10-4-7 — digits read as flat-footed 7.
+- pp. 607, 610: last line cut off in the better scan (read from old PDF 622, 625).
+- p. 605: U. sū. 2-1[7?]0 (flat-foot middle digit) vs p. 595 2-120 for the same sūtra.
+- p. 599: last Saṃhitā line of 32.4 cut off in the better scan (read from old PDF 614); p. 597: Ṛ. Saṃ. 2-22-1 ref line likewise (old PDF 612).
+- p. 611: Ṛk 32.7 Saṃhitā line 1 [accent ?] (bar at दि/न्द्र junction).
+- p. 593: last bhāṣya line cut off in both scans (रक् । जग्मुः … unverified).
+- pp. 578, 581: strokes over ध्वा/गा (31.16) and वहा with stroke on व + bar on हा (31.17) recorded as printed.
 - p. 553: the lower right of the page is cut off in the better scan; read from the old scan (PDF 568).
 - Recurring glyph question: flat-footed 7 vs curled 2 and ಇ-like 3 vs 2 in Nirukta refs (pp. 549, 552: Ni. 3-13, 3-9 as read).
 - p. 534: Ṛk 31.4 line-1 [accent ?]; p. 537 quotation मी [?]; p. 535 bhāṣya उ. ४-१३१ vs grammar U. sū. 4-671.
