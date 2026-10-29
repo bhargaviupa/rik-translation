@@ -11247,13 +11247,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.15 (pp. 605–608, PDF 620–622)
 
-**Saṃhitā-pāṭha** *(p. 606; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 606)*
 
-> **उभा पिबतमश्विनोभा नः शर्म यच्छतम् ।**
-> **अविद्रियाभिरूतिभिः ॥ १५ ॥**
+> **उ॒भा॑ पिबतमश्विनो॒भा नः॒ श॑र्म यच्छतम् ।**
+> **अविद्रियाभि॑रूतिभिः॑ ॥ १५ ॥**
 
-*ubhā pibatam aśvinobhā naḥ śarma yacchatam |*
-*avidriyābhir ūtibhiḥ || 15 ||*
+*ubhā pibatam aśvinobhā́ naḥ śarma yacchatam |*
+*avidriyā́bhir ūtíbhiḥ || 15 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 606)*
 
@@ -11265,17 +11267,17 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 606)*
 
-> **प्रवर्ग्ये पौर्वाह्णिके घर्मस्य हविषो द्वितीयो याज्योभा पिबतमित्येषा । अथोत्तरमिति खण्डे सूत्रितं । उभा पिबतमश्विनेति चोभाभ्यामनवानम् [?] । आ. ४-२ [?] । इति ॥ आश्विनशस्त्रेऽप्येषा द्वितीया याज्या । सूत्रितं च । प्र वामन्धांसि मद्यान्यस्थुरुभा पिबतमश्विनेति याज्ये । आ. ६-५ [?] । इति ॥**
+> **प्रवर्ग्ये पौर्वाह्णिके घर्मस्य हविषो द्वितीयो याज्योभा पिबतमित्येषा । अथोत्तरमिति खण्डे सूत्रितं । उभा पिबतमश्विनेति चोभाभ्यामनवानम् । आ. ४-७ । इति ॥ आश्विनशस्त्रेऽप्येषा द्वितीया याज्या । सूत्रितं च । प्र वामन्धांसि मद्यान्यस्थुरुभा पिबतमश्विनेति याज्ये । आ. ६-५ । इति ॥**
 >
-> **हे अश्विना उभा युवामुभौ पिबतं । सोमपानं कुरुतं । तत ऊर्ध्वमुभा युवामुभावविद्रियाभिः प्रशस्ताभिरूतिभी रक्षाभिर्नोऽस्मभ्यं शर्म सुखं यच्छतं ॥ पिबतं । पा पाने । लोटि शपि पाघ्रेत्यादिना पिबादेशः । अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्येति । म. २-३-४९-२ [?] । परि. ६३ [?] । वचनाल्लघूपधगुणाभावः । यद्वा । आद्युदात्तोऽदन्तः पिबादेशः । तिङ्ङतिङ इति निघातः । यच्छतं । दाण् दाने । लोटि शपि पाघ्रेत्यादिना यच्छादेशः । अविद्रियाभिः । द्रा कुत्सायां गतौ । विपूर्वादस्माद्भावे औणादिकः किः । आतो लोप इटि चेत्याकारलोपः । विद्रिर्निन्दा । तद्विरोधिन्यविद्रिः स्तुतिः । तां यान्तीत्यविद्रियाः । अन्येभ्योऽपि दृश्यन्त इति विच् । कृदुत्तरपदप्रकृतिस्वरत्वं । ऊतिभिः । अवतेः क्तिनि ज्वरत्वरेत्यादिनोट् । ऊतियूतीत्यादिना क्तिन उदात्तत्वं ॥ १५ ॥**
+> **हे अश्विना उभा युवामुभौ पिबतं । सोमपानं कुरुतं । तत ऊर्ध्वमुभा युवामुभावविद्रियाभिः प्रशस्ताभिरूतिभी रक्षाभिर्नोऽस्मभ्यं शर्म सुखं यच्छतं ॥ पिबतं । पा पाने । लोटि शपि पाघ्रेत्यादिना पिबादेशः । अङ्गवृत्ते पुनर्वृत्तावविधिर्निष्ठितस्येति । म. ७-३-७८-२ । परि. ९२ । वचनाल्लघूपधगुणाभावः । यद्वा । आद्युदात्तोऽदन्तः पिबादेशः । तिङ्ङतिङ इति निघातः । यच्छतं । दाण् दाने । लोटि शपि पाघ्रेत्यादिना यच्छादेशः । अविद्रियाभिः । द्रा कुत्सायां गतौ । विपूर्वादस्माद्भावे औणादिकः किः । आतो लोप इटि चेत्याकारलोपः । विद्रिर्निन्दा । तद्विरोधिन्यविद्रिः स्तुतिः । तां यान्तीत्यविद्रियाः । अन्येभ्योऽपि दृश्यन्त इति विच् । कृदुत्तरपदप्रकृतिस्वरत्वं । ऊतिभिः । अवतेः क्तिनि ज्वरत्वरेत्यादिनोट् । ऊतियूतीत्यादिना क्तिन उदात्तत्वं ॥ ३५ ॥**
 
-*pravargye paurvāhṇike gharmasya haviṣo dvitīyo yājyobhā pibatam ity eṣā | athottaram iti khaṇḍe sūtritaṃ | ubhā pibatam aśvineti cobhābhyām anavānam [?] | ā. 4-2 [?] | iti || āśvinaśastre 'py eṣā dvitīyā yājyā | sūtritaṃ ca | pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye | ā. 6-5 [?] | iti ||*
+*pravargye paurvāhṇike gharmasya haviṣo dvitīyo yājyobhā pibatam ity eṣā | athottaram iti khaṇḍe sūtritaṃ | ubhā pibatam aśvineti cobhābhyām anavānam | ā. 4-7 | iti || āśvinaśastre 'py eṣā dvitīyā yājyā | sūtritaṃ ca | pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye | ā. 6-5 | iti ||*
 
-*he aśvinā ubhā yuvām ubhau pibataṃ | somapānaṃ kurutaṃ | tata ūrdhvam ubhā yuvām ubhāv avidriyābhiḥ praśastābhir ūtibhī rakṣābhir no 'smabhyaṃ śarma sukhaṃ yacchataṃ || pibataṃ | pā pāne | loṭi śapi pāghretyādinā pibādeśaḥ | aṅgavṛtte punarvṛttāv avidhir niṣṭhitasyeti | ma. 2-3-49-2 [?] | pari. 63 [?] | vacanāl laghūpadhaguṇābhāvaḥ | yadvā | ādyudātto 'dantaḥ pibādeśaḥ | tiṅ atiṅa iti nighātaḥ | yacchataṃ | dāṇ dāne | loṭi śapi pāghretyādinā yacchādeśaḥ | avidriyābhiḥ | drā kutsāyāṃ gatau | vipūrvād asmād bhāve auṇādikaḥ kiḥ | āto lopa iṭi cety ākāralopaḥ | vidrir nindā | tadvirodhinyavidriḥ stutiḥ | tāṃ yāntīty avidriyāḥ | anyebhyo 'pi dṛśyanta iti vic | kṛduttarapadaprakṛtisvaratvaṃ | ūtibhiḥ | avateḥ ktini jvaratvarety ādinoṭ | ūtiyūtīty ādinā ktina udāttatvaṃ || 15 ||*
+*he aśvinā ubhā yuvām ubhau pibataṃ | somapānaṃ kurutaṃ | tata ūrdhvam ubhā yuvām ubhāv avidriyābhiḥ praśastābhir ūtibhī rakṣābhir no 'smabhyaṃ śarma sukhaṃ yacchataṃ || pibataṃ | pā pāne | loṭi śapi pāghretyādinā pibādeśaḥ | aṅgavṛtte punarvṛttāv avidhir niṣṭhitasyeti | ma. 7-3-78-2 | pari. 92 | vacanāl laghūpadhaguṇābhāvaḥ | yadvā | ādyudātto 'dantaḥ pibādeśaḥ | tiṅ atiṅa iti nighātaḥ | yacchataṃ | dāṇ dāne | loṭi śapi pāghretyādinā yacchādeśaḥ | avidriyābhiḥ | drā kutsāyāṃ gatau | vipūrvād asmād bhāve auṇādikaḥ kiḥ | āto lopa iṭi cety ākāralopaḥ | vidrir nindā | tadvirodhinyavidriḥ stutiḥ | tāṃ yāntīty avidriyāḥ | anyebhyo 'pi dṛśyanta iti vic | kṛduttarapadaprakṛtisvaratvaṃ | ūtibhiḥ | avateḥ ktini jvaratvarety ādinoṭ | ūtiyūtīty ādinā ktina udāttatvaṃ || 35 ||*
 
-*(The Āśvalāyana sūtra's wording "ubhā pibatam aśvineti cobhābhyām anavānam", the two Āśvalāyana numerals, and the two grammatical numbers marked [?] are crowded.)*
+*(Read from the print: Āśv. 4-7 (last digit flat-footed ೭) and 6-5; Mahābhāṣya 7-3-78-2; Paribhāṣā 92 (first digit ೯-like); the bhāṣya closes with the varga number ॥ ३५ ॥ (35).)*
 
-**Translation:** "In the Pravargya, at the forenoon offering of the *gharma* oblation, this ṛk '*ubhā pibatam*' is the second *yājyā*; it is prescribed in the section '*athottaram*': '*ubhā pibatam aśvineti…*' (Āśv. 4-2 [?]). In the Āśvina-śastra too this ṛk is the second *yājyā*; it is prescribed: '*pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye*' (Āśv. 6-5 [?]). O Aśvins, *ubhā*, both of you, *pibatam*, drink — take the Soma-drink. After that, *ubhā*, both of you, *avidriyābhiḥ*, with praiseworthy, *ūtibhiḥ*, protections, *naḥ*, to us, *śarma*, happiness, *yacchatam*, give."
+**Translation:** "In the Pravargya, at the forenoon offering of the *gharma* oblation, this ṛk '*ubhā pibatam*' is the second *yājyā*; it is prescribed in the section '*athottaram*': '*ubhā pibatam aśvineti…*' (Āśv. 4-7). In the Āśvina-śastra too this ṛk is the second *yājyā*; it is prescribed: '*pra vām andhāṃsi madyāny asthur ubhā pibatam aśvineti yājye*' (Āśv. 6-5). O Aśvins, *ubhā*, both of you, *pibatam*, drink — take the Soma-drink. After that, *ubhā*, both of you, *avidriyābhiḥ*, with praiseworthy, *ūtibhiḥ*, protections, *naḥ*, to us, *śarma*, happiness, *yacchatam*, give."
 
 **Pratipadārtha** *(pp. 606–607)* — "**aśvinā** — O Aśvin gods; **ubhā** — both of you; **pibatam** — drink the Soma juice; (after that) **ubhā** — both of you; **avidriyābhiḥ** — with (blameless, hence) praiseworthy; **ūtibhiḥ** — with your protections; **naḥ** — to us; **śarma** — happiness; **yacchatam** — give."
 
@@ -11284,11 +11286,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 **English Translation (the source's own, p. 607)** — "O Aswins, drink you both ( the soma libation ) and bestow upon us happiness through your blameless protection"
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 607**
-- "In the sacrifice called Pravargya, when the oblation called *gharma* is offered in the forenoon, this ṛk '*ubhā pibatam*' is to be used as the second *yājyā* mantra: this is explained by the sūtra '*ubhā pibatam aśvineti cobhābhyām anavānam*' [as printed, crowded, [?]] in the section '*athottaram*' of the Āśvalāyana Śrauta-sūtra (Ā. 4-2 [?]). And at the time of reciting the Āśvina-śastra mantras this ṛk is again to be used as the second *yājyā*; this is said in the same Āśvalāyana Śrauta-sūtra by the sūtra '*pra vām andhāṃsi madyāny asthur* (Ṛ. Saṃ. 2-[?]-[?]) *ubhā pibatam aśvineti yājye* (Ṛ. Saṃ. 1-46-15)'" — Sanskrit as printed: प्र वामन्धांसि मद्यान्यस्थुः [?] — *pra vām andhāṃsi madyāny asthuḥ* — mine and tentative: "your intoxicating juices have gone forth" [?]; the reference numerals are as read [?].
+- "In the sacrifice called Pravargya, when the oblation called *gharma* is offered in the forenoon, this ṛk '*ubhā pibatam*' is to be used as the second *yājyā* mantra: this is explained by the sūtra '*ubhā pibatam aśvineti cobhābhyām anavānam*' in the section '*athottaram*' of the Āśvalāyana Śrauta-sūtra (Ā. 4-7). And at the time of reciting the Āśvina-śastra mantras this ṛk is again to be used as the second *yājyā*; this is said in the same Āśvalāyana Śrauta-sūtra by the sūtra '*pra vām andhāṃsi madyāny asthur* (Ṛ. Saṃ. 7-68-2) *ubhā pibatam aśvineti yājye* (Ṛ. Saṃ. 1-46-15)'" — Sanskrit as printed: प्र वामन्धांसि मद्यान्यस्थु — *pra vām andhāṃsi madyāny asthu* (printed so, with "rubhā" after the reference) — mine and tentative: "your intoxicating juices have gone forth" [?]; the references (Ṛ. Saṃ. 7-68-2, 1-46-15) as printed.
 - **avidriyābhiḥ ūtibhiḥ** — "*drā kutsāyāṃ gatau*: *vidri* is censure; *tadvirodhinī avidriḥ stutiḥ*, the opposite of it, *avidri*, is praise; '*tāṃ yānti iti avidriyāḥ*', those that go to it: the meaning is 'things worthy of praise'. *Avidriyābhiḥ* means 'with protections that are in the form of praise or praiseworthy, excellent protections'."
 
 **Vyākaraṇa-prakriyā** *(pp. 607–608 — grammar pages, noted briefly)*
-- **pibatam**: root *pā pāne*, *loṭ*, *thas* replaced by *tam*; *śap*; *pāghrādhmā…* (Pā. 7-3-78 as read) gives *piba* for *pā* — thus *piba + a + tam*; because of the *śap*, *pugantalaghūpadhasya ca* (Pā. 7-3-86 as read) would give *guṇa* of the light penultimate; but *aṅgavṛtte punarvṛttāv avidhir niṣṭhitasya* (Paribhāṣā, number read "63" [?]; Kannada: "when one rule belonging to the *aṅga*-section has come and a form has been finished, another *aṅga*-section rule does not come again") — so the *guṇa* of the light penultimate does not come after the *piba*-substitution; or *piba*, a stem ending in *a*, is read in the sūtra as acute on the first syllable by *nipātana*; *piba + a + tam*; *ato guṇe* gives *pararūpa*: *pibatam*; *tiṅ atiṅaḥ* gives the all-unaccented.
+- **pibatam**: root *pā pāne*, *loṭ*, *thas* replaced by *tam*; *śap*; *pāghrādhmā…* (Pā. 7-3-78 as read) gives *piba* for *pā* — thus *piba + a + tam*; because of the *śap*, *pugantalaghūpadhasya ca* (Pā. 7-3-86 as read) would give *guṇa* of the light penultimate; but *aṅgavṛtte punarvṛttāv avidhir niṣṭhitasya* (Pā. Sū. 7-3-78 — Paribhāṣā 92, as printed; Kannada: "when one rule belonging to the *aṅga*-section has come and a form has been finished, another *aṅga*-section rule does not come again") — so the *guṇa* of the light penultimate does not come after the *piba*-substitution; or *piba*, a stem ending in *a*, is read in the sūtra as acute on the first syllable by *nipātana*; *piba + a + tam*; *ato guṇe* gives *pararūpa*: *pibatam*; *tiṅ atiṅaḥ* gives the all-unaccented.
 - **yacchatam**: root *dāṇ dāne*, *loṭ*, *thas* → *tam*; *śap*; *pāghrādhmā…* gives *yaccha* for *dā*.
 - **avidriyābhiḥ**: root *drā kutsāyāṃ gatau*; with *vi* before it, the Uṇādi suffix *ki* in the abstract sense; *vi + drā + i*; *āto lopa iṭi ca* drops the *ā*: *vidri*, "censure"; *na vidriḥ = avidriḥ*, "praise, the opposite of censure"; "*avidriyāḥ*": those who go (*yānti*) to praise, "worthy of praise"; root *yā prāpaṇe*; *anyebhyo 'pi dṛśyante* gives *vic*; *gatikārakopapadāt kṛt* gives the first member its natural accent. **|| 15 ||**
 
