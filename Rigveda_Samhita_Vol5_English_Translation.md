@@ -5484,15 +5484,17 @@
 
 ---
 
-### Rik 53.10 (pp. 297–, PDF 313–; metre Triṣṭubh)
+### Rik 53.10 (pp. 297–300, PDF 313–316; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 297; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 297; accents as printed)*
 
-> **त्वमाविथ सुश्रवसं तवोतिभिस्तव त्रामभिरिन्द्र तूर्वयाणम् ।**
-> **त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ॥ १० ॥**
+> **त्वमा॑विथ सु॒श्रव॑सं॒ तवो॒तिभि॒स्तव॒ त्रा॑मभिरिन्द्र॒ तूर्व॑याणम् ।**
+> **त्वम॑स्मै॒ कुत्स॑मतिथि॒ग्वमा॒युं म॒हे राज्ञे॑ यूने अरन्धनायः ॥ १० ॥**
 
-*tvam āvitha suśravasaṃ tavotibhis tava trāmabhir indra tūrvayāṇam |*
-*tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ || 10 ||*
+*tvám āvitha suśrávasaṃ távotíbhis táva trāmabhir indra tū́rvayāṇam |*
+*tvám asmai kútsam atithigvám āyúṃ mahé rā́jñe yūne arandhanāyaḥ || 10 ||*
+
+*[accent ?] त्रा॑ (a svarita stroke right after the anudātta of तव॒, as seen) and a short dash under ज्ञे (taken as part of the letter, not marked).*
 
 *(The Pada is on p. 298 and is given with the next batch.)*
 
@@ -5514,38 +5516,38 @@
 
 > **हे इन्द्र त्वं तवोतिभिस्त्वदीयैः पालनैः सुश्रवसं पूर्वोक्तं राजानमाविथ ररक्षिथ । तथा तूर्वयाणमेतन्नामानं राजानं तव त्रामभिस्त्वदीयैस्त्रायकैः पालकैर्बलैराविथेति शेषः । किंच त्वं महे महते यूने तरुणायास्मै सुश्रवसे राज्ञे कुत्सादीन् त्रीन् राज्ञोऽरन्धनायः । वशमनयः । रध्यतिर्वशगमने । नि. ६-३२ [?] इति यास्कः ॥**
 
-*he indra tvaṃ tavotibhis tvadīyaiḥ pālanaiḥ suśravasaṃ pūrvoktaṃ rājānam āvitha rarakṣitha | tathā tūrvayāṇam etannāmānaṃ rājānaṃ tava trāmabhis tvadīyais trāyakaiḥ pālakair balair āvitheti śeṣaḥ | kiṃca tvaṃ mahe mahate yūne taruṇāyāsmai suśravase rājñe kutsādīn trīn rājño 'randhanāyaḥ | vaśam anayaḥ | radhyatir vaśagamane | ni. 6-32 [?] iti yāskaḥ ||* *(The Nirukta numeral as read, [?].)*
+*he indra tvaṃ tavotibhis tvadīyaiḥ pālanaiḥ suśravasaṃ pūrvoktaṃ rājānam āvitha rarakṣitha | tathā tūrvayāṇam etannāmānaṃ rājānaṃ tava trāmabhis tvadīyais trāyakaiḥ pālakair balair āvitheti śeṣaḥ | kiṃca tvaṃ mahe mahate yūne taruṇāyāsmai suśravase rājñe kutsādīn trīn rājño 'randhanāyaḥ | vaśam anayaḥ | radhyatir vaśagamane | ni. 6-32 iti yāskaḥ ||*
 
-*(The tail of the bhāṣya, p. 298: on* trāmabhiḥ *(*trai pālane*, *ādeca upadeśe 'śiti* gives *ā*; *manin* by* ātro manin kvanip vanipaś ca*, Pā. 3-2-74 as read [?]; the initial-acute from the *nit* suffix),* arandhanāyaḥ *(*randhanaṃ vaśīkaraṇaṃ karoti randhanayati*; *tatkaroti tadācaṣṭe*, *ṇic*; *iṣṭhavad bhāva*, *ṭilopa*; *laṅ* second singular; *śap*; the Vedic lengthening) — is characterized.)*
+*(The tail of the bhāṣya, p. 298: on* trāmabhiḥ *(*trai pālane*, *ādeca upadeśe 'śiti* gives *ā*; *manin* by* āto manin…*, no number in the tail; the initial-acute from the *nit* suffix),* arandhanāyaḥ *(*randhanaṃ vaśīkaraṇaṃ karoti randhanayati*; *tatkaroti*, sū. 3-1-26-5, *ṇic*; *iṣṭhavaṇ ṇau prātipadikasya*, sū. 6-4-155-1, *ṭilopa*; *laṅ* second singular; *śap*; the Vedic lengthening) — is characterized.)*
 
-**Translation of the bhāṣya:** "O Indra, you, *tavotibhiḥ*, by your protections, *suśravasam*, protected the king spoken of above; and likewise *tūrvayāṇam*, the king of that name, you protected *trāmabhiḥ*, with your forces that protect (supply: you protected). Further, *mahe yūne*, for this great, young Suśravas, the king, you *arandhanāyaḥ* — brought under his sway — three kings, Kutsa and the others; *radhyati* has the sense of coming under control, says Yāska (Ni. 6-32 [?])."
+**Translation of the bhāṣya:** "O Indra, you, *tavotibhiḥ*, by your protections, *suśravasam*, protected the king spoken of above; and likewise *tūrvayāṇam*, the king of that name, you protected *trāmabhiḥ*, with your forces that protect (supply: you protected). Further, *mahe yūne*, for this great, young Suśravas, the king, you *arandhanāyaḥ* — brought under his sway — three kings, Kutsa and the others; *radhyati* has the sense of coming under control, says Yāska (Ni. 6-32)."
 
 **Pratipadārtha** *(p. 298)* — "**indra** — O Indra; **tvam** — you; **tava ūtibhiḥ** — by your help; **suśravasam** — the king Suśravas; **āvitha** — protected; **tūrvayāṇam** — the king Tūrvayāṇa also; **tava trāmabhiḥ** — by your protective forces; (you protected); **tvam** — you; **yūne** — young; **mahe** — of great majesty; **asmai rājñe** — to this king Suśravas; **kutsam** — Kutsa; **atithigvam** — Atithigva; **āyum** — and Āyu (these three kings); **arandhanāyaḥ** — you made subject."
 
 **Bhāvārtha** *(p. 298)* — "O Indra, by your help you protected the king named Suśravas, and by your protective forces you saved Tūrvayāṇa also. And because this Suśravas, though young, was of great majesty, you made these three kings — Kutsa, Atithigva and Āyu — subject to him."
 
-**English Translation (the source's own, p. 299)** — "Indra, you have preserved Susravas by your protection. Turvayana by your help; you have made kutsa, Atithigwa, and Ayu subject to the mighty, though youthful Susravas."
+**English Translation (the source's own, p. 299)** — "Indra, you have preserved Susravas by your protection, Tnrvayana [sic] by your help ; you have made kutsa, Atithigwa, and Ayu subject to the mighty, though youthful Susravas."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 299**
 - **atithigvam** — "See what we wrote on his account on p. 174."
 - **kutsam** — "His account is given on p. 173."
-- **āyum** — "It is known that Āyu was a king, a ruler of the people called *Śakta* [?]. Here it is said that Tūrvayāṇa defeated him with Indra's help. His name occurs in the Riks Ṛ. Saṃ. 6-18-… [?]; 1-… [?]; 9-… [?]; 10-… [?] (all numerals uncertain)."
+- **āyum** — "It is known that Āyu was a king, a ruler of the people called *Saktha* (print ಸಕ್ಥ). Here it is said that Tūrvayāṇa defeated him with Indra's help. His name occurs in the Riks Ṛ. Saṃ. 6-11-4; 6-18-13; 8-53-2; 10-20-7 [? 7/2]."
 - **tava ūtibhiḥ** — "Though the word *ūti* has the sense of protection, here by implication it must be taken as 'by the special acts that give protection'."
-- **tūrvayāṇam** — "This is the name of a king protected by Indra. In Ṛ. Saṃ. 2-… [?] he is called an enemy of Atithigva, Āyu and Kutsa; in Ṛ. Saṃ. 10-… [?] it is said that he was a king of the people called *Śakta*. His name occurs also in the Riks Ṛ. Saṃ. 1-… [?]; 6-… [?]."
+- **tūrvayāṇam** — "This is the name of a king protected by Indra. In Ṛ. Saṃ. 2-14-7 he is called an enemy of Atithigva, Āyu and Kutsa; in Ṛ. Saṃ. 10-61-2 it is said that he was a king of the people called *Saktha*. His name occurs also in the Riks Ṛ. Saṃ. 1-174-3; 6-18-13."
 - **trāmabhiḥ** — "This word, formed from the root *trai pālane*, gives the special sense 'by the armies that protect those who take refuge'."
 - **rājñe** — "'To the king named Suśravas': this is the meaning of this word."
-- **arandhanāyaḥ** — "'You made subject': this is its meaning. According to Yāska's idea '*radhyatir vaśagamane*' (Ni. 6-32 [?]), they explain this word as *randhanaṃ vaśīkaraṇaṃ karoti randhanayati*."
+- **arandhanāyaḥ** — "'You made subject': this is its meaning. According to Yāska's idea '*radhyatir vaśagamane*' (Ni. 6-32), they explain this word as *randhanaṃ vaśīkaraṇaṃ karoti randhanayati*."
 
-  > **रध्यतिर्वशगमने ।** *(Ni. 6-32 as read [?])*
+  > **रध्यतिर्वशगमने ।** *(Ni. 6-32)*
 
   *radhyatir vaśagamane |* — mine and tentative: "*radh* is [a root] in the sense of 'coming under control'."
 
 **Vyākaraṇa-prakriyā** *(pp. 299–300 — grammar pages, noted briefly)*
 - **āvitha**: *ava rakṣaṇe*; *liṭ* second singular *sip*; *parasmaipadānāṃ ṇalatusus…* gives *thal*; reduplication; *halādiḥ śeṣaḥ*; *akaś ca ādeḥ* … *dīrgha* lengthens the *a* of the reduplicative; *ārdhadhātukasyeḍ valādeḥ* gives *iṭ* to *thal*: *āvitha*; following an *atiṅ*, *nighāta*.
 - **suśravasam**: explained under the previous Rik; accusative singular.
-- **trāmabhiḥ**: *trai pālane*; *ādeca upadeśe 'śiti* (Pā. 6-1-45) gives *ā* in place of the *ai*; *ātro manin kvanip vanipaś ca* (Pā. 3-2-74 as read [?]) gives *manin*: *trāman*; being *nit*, initial-acute; in the instrumental plural, *na loopaḥ prātipadikāntasya* (Pā. 8-2-7) prevents the loss of *n* — no: *nalopaḥ prātipadikāntasya* drops the *n*? The print says "*na lopaḥ prātipadikāntasya*" gives *nalopa* — the *n* is dropped before *bhis*: *trāmabhiḥ*.
-- **asmai**: for the word *idam*, in the substitution-context *idam*… *anvādeśe*, [and for the dative] *idamo 'nvādeśe 'śanudāttas tṛtīyādau* (Pā. 2-4-32) gives the *anudātta* substitute *aśa*; since it is *śit*, it replaces the whole word; *anudāttaṃ supitau* [*anudāttaṃ sup pit*] makes the ending *anudātta*.
-- **arandhanāyaḥ**: "*randhanaṃ vaśīkaraṇaṃ karoti randhanayati*"; *tatkaroti tadācaṣṭe* (Pā. 3-1-26 as read [?]) gives *ṇic* when the sense of the root is intended after a *prātipadika*; before *ṇic*, *iṣṭhavad bhāva* [*iṣṭhasya*] … *iṣṭhavad bhāvaḥ prātipadikasya* (Pā. 6-4-… as read [?]) — as before *iṣṭhan*, so before *ṇic* the *ṭi* is dropped, the same acts that apply before *iṣṭhan* apply before *ṇic*: *ṭilopa*; the *randhani* is a *ṇic*-ending, which by *sanādyantā dhātavaḥ* is a root; *laṅ* second singular *sip*; *itaś ca* drops the *i*; *kartari śap*; since *śap* is the cause, *guṇa* before *ṇic*… the *i*; *ayādeśa*: the *s* of the ending becomes *ru*, *visarga*; *aṭ* as the *laṅ* augment: *arandhanayaḥ*; the lengthening is Vedic: *arandhanāyaḥ*; following an *atiṅ*, *nighāta*. **|| 10 ||**
+- **trāmabhiḥ**: *trai pālane*; *ādeca upadeśe 'śiti* (Pā. 6-1-45) gives *ā* in place of the *ai*; *āto manin kvanib vanipaś ca* (Pā. 3-2-74) gives *manin*: *trāman*; being *nit*, initial-acute; in the instrumental plural *na lopaḥ prātipadikāntasya* (Pā. 8-2-7) drops the *n*: *trāmabhiḥ*.
+- **asmai**: for the word *idam*, in the substitution-context *idam*… *anvādeśe*, [and for the dative] *idamo 'nvādeśe 'śanudāttas tṛtīyādau* gives the *anudātta* substitute *aśa*; since it is *śit*, it replaces the whole word; *anudāttaṃ supitau* [*anudāttaṃ sup pit*] makes the ending *anudātta*.
+- **arandhanāyaḥ**: "*randhanaṃ vaśīkaraṇaṃ karoti randhanayati*"; *tatkaroti tadācaṣṭe* (Pā. 3-1-26-5, a vārttika) gives *ṇic* when the sense of the root is intended after a *prātipadika*; before *ṇic*, *iṣṭhavad bhāva* [*iṣṭhasya*] … *iṣṭhavaṇ ṇau prātipadikasya* (Pā. 6-4-155-1, a vārttika) — as before *iṣṭhan*, so before *ṇic* the *ṭi* is dropped, the same acts that apply before *iṣṭhan* apply before *ṇic*: *ṭilopa*; the *randhani* is a *ṇic*-ending, which by *sanādyantā dhātavaḥ* is a root; *laṅ* second singular *sip*; *itaś ca* drops the *i*; *kartari śap*; since *śap* is the cause, *guṇa* before *ṇic*… the *i*; *ayādeśa*: the *s* of the ending becomes *ru*, *visarga*; *aṭ* as the *laṅ* augment: *arandhanayaḥ*; the lengthening is Vedic: *arandhanāyaḥ*; following an *atiṅ*, *nighāta*. **|| 10 ||**
 
 ---
 
