@@ -1,19 +1,41 @@
-"""sam_w4b.py HEADING_PREFIX NOTE LINE1 LINE2 ... -- replace the bold Saṃhitā block (and its IAST paragraph) of the section
-starting with HEADING_PREFIX by accented lines; a line may end in ' [accent ?]'. NOTE ('' for none) is added to the standard note."""
-import sys,os,re
+"""sam_w4b.py "HEADING PREFIX" "deva line 1" "deva line 2" ... -- set the accented Saṃhitā block of a Ṛk (bold Devanagari lines + italic IAST
+lines, keeping the file's existing word spacing of the IAST), drop '; accents not reproduced' from its label, add the accent note.
+IAST: accent.iast() output, re-spaced to the existing unaccented IAST line (letters compared without accents)."""
+import sys,os,unicodedata
 sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from cfg import EN
 from accent import iast
-pre,note,lines=sys.argv[1],sys.argv[2],sys.argv[3:]
-t=open(EN,encoding='utf8').read(); n0=len(t)
-h=t.index('\n'+pre)+1; s=t.index('**Saṃhitā-pāṭha**',h); assert s-h<300
-e=t.index('**Pada-pāṭha**',s)
-hd=t[s:t.index('\n',s)]; pg=re.search(r'\(p+\. [^;)]*',hd).group(0)
-fl=[(l.replace(' [accent ?]',''),' [accent ?]' if l.endswith('[accent ?]') else '') for l in lines]
-dv='\n'.join(f'> **{d}**{f}' for d,f in fl)
-ia='\n'.join(f'*{iast(d)}*{f}' for d,f in fl)
-nt='*(Saṃhitā accents as printed; Pada unaccented.'+(' '+note if note else '')+')*'
-new=f'**Saṃhitā-pāṭha** *{pg})*\n\n{dv}\n\n{ia}\n\n{nt}\n\n'
-print(t[s:e]); print('->'); print(new)
-t=t[:s]+new+t[e:]; assert len(t)>n0-1500
-open(EN,'w',encoding='utf8').write(t)
+def strip(s): return ''.join(c for c in unicodedata.normalize('NFD',s) if c not in '́̀')
+pre=sys.argv[1]; dv=sys.argv[2:]
+L=open(EN,encoding='utf-8').read().split('\n'); n0=sum(map(len,L))
+h=next(i for i,l in enumerate(L) if l.startswith(pre))
+s=next(i for i in range(h,h+10) if L[i].startswith('**Saṃhitā-pāṭha**'))
+L[s]=L[s].replace('; accents not reproduced','')
+a=next(i for i in range(s,s+5) if L[i].startswith('> **'))
+assert all(L[a+k].startswith('> **') for k in range(len(dv))) and not L[a+len(dv)].startswith('>')
+fl=lambda d:(d.replace(' [accent ?]',''),' [accent ?]' if '[accent ?]' in d else '')
+for k,d in enumerate(dv):
+    d0,f=fl(d); L[a+k]=f'> **{d0}**{f}'
+b=next(i for i in range(a+len(dv),a+len(dv)+4) if L[i].startswith('*'))
+for k,d in enumerate(dv):
+    d0,f=fl(d); acc=iast(d0); old=L[b+k].strip('*')
+    # respace: walk the accented string, copying old's spaces
+    a2=acc.replace(' ',''); out=''; j=0
+    for ch in old:
+        if ch==' ': out+=' '; continue
+        # consume chars of a2 whose stripped form matches ch (accents attach after base)
+        seg=''
+        while j<len(a2) and (not seg or unicodedata.combining(unicodedata.normalize('NFD',a2[j])[0])):
+            seg+=a2[j]; j+=1
+            if strip(seg)==unicodedata.normalize('NFC',ch) or strip(seg)==strip(ch): break
+        while j<len(a2) and unicodedata.normalize('NFD',a2[j])[0] in '́̀': seg+=a2[j]; j+=1
+        assert strip(seg)==strip(ch),(old,acc,ch,seg)
+        out+=seg
+    assert j==len(a2),(old,acc)
+    L[b+k]=f'*{out}*{f}'
+e=b+len(dv)
+if not any('Saṃhitā accents as printed' in L[i] for i in range(e,e+3)):
+    L[e:e]=['','*(Saṃhitā accents as printed; Pada unaccented.)*']
+for i in range(a,e+3): print(L[i])
+assert sum(map(len,L))>=n0
+open(EN,'w',encoding='utf-8').write('\n'.join(L))
