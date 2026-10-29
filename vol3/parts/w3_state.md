@@ -5,8 +5,8 @@ incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
-Part (2): done through Ṛk 31.5 (p. 542 upper = PDF 556).
-Next unit: Ṛk 31.6 (pp. 542–547 = PDF 556–561; its Saṃhitā at the foot of p. 542).
+Part (2): done through Ṛk 31.6 (p. 547 upper = PDF 561).
+Next unit: Ṛk 31.7 (pp. 547–550 = PDF 561–564; Saṃhitā and Pada on p. 547, already viewed once at 150 dpi: accents not yet set).
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
