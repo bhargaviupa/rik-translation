@@ -1,5 +1,7 @@
 # Vol 3 numeral + [?] + accent pass — state
 
+**Parallel pass (Oct 28–29):** Sūkta 24 Ṛk 14 onward was split between workers v3a (pp. 288–458) and v3b (pp. 459–647); both branches were merged into main on Oct 29 at their pause points (v3a done through Ṛk 26.9, p. 370; v3b through Ṛk 31.3, p. 534). Resume points and open items: `vol3/parts/v3a_state.md`, `vol3/parts/v3b_state.md`; plan and rules: `docs/parallel_pass/HANDOVER.md`. [?] count after the merge: 537.
+
 Status: **in progress** (started Oct 27, 2026, after Vol 2 was done).
 **Last PDF page done: 305** (printed p. 291); batches PDF 1–100, 101–200 logged; PDF 201–300 logged (`review/notes_PDF201-300.txt`); batch PDF 301–400 **in progress**: done PDF 301–305 as far as Ṛk 24.13's grammar (pp. 287–288 upper, written into the file) and Ṛk 24.14 *read* from the print (Saṃhitā accents, bhāṣya, grammar numerals) but **not yet written into the file** (old unchecked text for Ṛks 24.14–15 still stands from printed p. 288 on).
 **Oct 28 zoom pass:** the grammar numerals on pp. 276, 278–284 and the open numerals of Ṛks 24.9–24.13 were zoom-checked and entered; then the 120 [?] of the checked part (to p. 288) were zoom-read: **23 [?] remain there** (`review/open_qmarks_up_to_p288.md`), mostly small-type Uṇādi numbers that stay unreadable, and a few word readings. The unreached part (printed p. 288–647) still has about 680 [?].

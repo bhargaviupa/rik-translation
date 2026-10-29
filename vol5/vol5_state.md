@@ -1,5 +1,7 @@
 # Vol 5 numeral + [?] pass — state
 
+**Parallel pass (Oct 28–29):** split between workers v5a (pp. 1–211), v5b (212–391) and v5c (392–708); all three branches were merged into main on Oct 29 at their pause points (v5a through Ṛk 49.1, v5b through 53.7, v5c through 60.2). Resume points: `vol5/parts/v5*_state.md`; plan and rules: `docs/parallel_pass/HANDOVER.md`. [?] count after the merge: 1,238. **Better-scan page map (found by v5b/v5c):** PDF 17–247 printed = PDF − 16; pp. 232–233 missing (read from the old Rig_Vol5.pdf, PDF 248–249); PDF 248–465 printed = PDF − 14; PDF 466–467 duplicate pp. 450–451; PDF 468–724 printed = PDF − 16 (Pariśiṣṭa p. 531 = PDF 547; p. 644 = PDF 660).
+
 Status: not started. **Better scan uploaded by the user (Oct 28)** in `vol5/scans/` (parts of 100 PDF pages; at first 3 parts = PDF 1–300, more to follow). `tools/cfg.py` finds the parts automatically; `tools/view.py` reads them. Page map checked at the start: PDF 17 = printed p. 1, PDF 18 = p. 2 (printed = PDF − 16, as in the old scan); re-check as the pass goes.
 **Last PDF page done: none.**
 
