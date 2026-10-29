@@ -7523,13 +7523,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 ### Rik 41.7 (pp. 426–428, PDF 440–442)
 
-**Saṃhitā-pāṭha** *(p. 426; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 426; Saṃhitā accents as printed (checked at 350–700 dpi); Pada unaccented. [accent ?] in line 1: the stroke in* mitrasyāryamṇaḥ *stands at the junction of* syā *and* rya *(placed on* syā*).)*
 
-> **कथा राधाम सखायः स्तोमं मित्रस्यार्यम्णः ।**
-> **महि प्सरो वरुणस्य ॥ ७ ॥**
+> **क॒था रा॑धाम सखायः॒ स्तोमं॑ मि॒त्रस्या॑र्य॒म्णः ।** [accent ?]
+> **महि॒ प्सरो॒ वरु॑णस्य ॥ ७ ॥**
 
-*kathā rādhāma sakhāyaḥ stomaṃ mitrasyāryamṇaḥ |*
-*mahi psaro varuṇasya || 7 ||*
+*kathā́ rādhāma sakhāyaḥ stómaṃ mitrásyāryamṇáḥ |* [accent ?]
+*mahi psáro váruṇasya || 7 ||*
 
 **Pada-pāṭha** *(p. 426)*
 
@@ -7541,11 +7541,11 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa-bhāṣya** *(p. 426)*
 
-> **हे सखायः सखिभूता ऋत्विजो मित्रादीनां त्रयाणां महि महत् प्सरो रूपं । अतस्तदनुरूपं स्तोमं स्तोत्रं कथा केन प्रकारेण राधाम । साधयामः ॥ कथा । थाहेतौ च च्छन्दसि । पा. ५-३-२६ [?] । इति किंशब्दात्प्रकारवचनेषु प्राग्दिशो विभक्तिरिति विभक्तिसंज्ञायां किमः कः । पा. ७-२-१०३ । इति कादेशः । प्रत्ययस्वरः । राधाम । राध साध संसिद्धौ । लेटि बहुलं छन्दसीति विकरणस्य लुक् । तिङ्ङतिङ इति निघातः । स्तोमं । ष्टुञ् स्तुतौ । आर्तिस्तुस्वित्यादिना भावे मन् । नित्त्वादाद्युदात्तत्वं । आर्यम्णः । षष्ठ्यैकवचनेऽल्लोपोऽन इत्यकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । महि । मह पूजायां । औणादिक इन्प्रत्ययः । प्सरः । प्सा भक्षणे । प्साति भक्षयतीति प्सरो रूपं । औणादिको दरप्रत्ययः ॥**
+> **हे सखायः सखिभूता ऋत्विजो मित्रादीनां त्रयाणां महि महत् प्सरो रूपं । अतस्तदनुरूपं स्तोमं स्तोत्रं कथा केन प्रकारेण राधाम । साधयामः ॥ कथा । थाहेतौ च च्छन्दसि । पा. ५-३-२६ । इति किंशब्दात्प्रकारवचनेषु प्राग्दिशो विभक्तिरिति विभक्तिसंज्ञायां किमः कः । पा. ७-२-१०३ । इति कादेशः । प्रत्ययस्वरः । राधाम । राध साध संसिद्धौ । लेटि बहुलं छन्दसीति विकरणस्य लुक् । तिङ्ङतिङ इति निघातः । स्तोमं । ष्टुञ् स्तुतौ । अर्तिस्तुस्वित्यादिना भावे मन् । नित्त्वादाद्युदात्तत्वं । अर्यम्णः । षष्ठ्यैकवचनेऽल्लोपोऽन इत्यकारलोपः । उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । महि । मह पूजायां । औणादिक इन्प्रत्ययः । प्सरः । प्सा भक्षणे । प्साति भक्षयतीति प्सरो रूपं । औणादिको डरप्रत्ययः ॥**
 
-*he sakhāyaḥ sakhibhūtā ṛtvijo mitrādīnāṃ trayāṇāṃ mahi mahat psaro rūpaṃ | atas tadanurūpaṃ stomaṃ stotraṃ kathā kena prakāreṇa rādhāma | sādhayāmaḥ || kathā | thā hetau ca chandasi | pā. 5-3-26 [?] | iti kiṃśabdāt prakāravacaneṣu prāgdiśo vibhaktir iti vibhaktisaṃjñāyāṃ kimaḥ kaḥ | pā. 7-2-103 | iti kādeśaḥ | pratyayasvaraḥ | rādhāma | rādha sādha saṃsiddhau | leṭi bahulaṃ chandasīti vikaraṇasya luk | tiṅ atiṅa iti nighātaḥ | stomaṃ | ṣṭuñ stutau | ārtistuswity ādinā bhāve man | nittvād ādyudāttatvaṃ | āryamṇaḥ | ṣaṣṭhyaikavacane 'llopo 'na ity akāralopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvaṃ | mahi | maha pūjāyāṃ | auṇādika in-pratyayaḥ | psaraḥ | psā bhakṣaṇe | psāti bhakṣayatīti psaro rūpaṃ | auṇādiko darapratyayaḥ ||*
+*he sakhāyaḥ sakhibhūtā ṛtvijo mitrādīnāṃ trayāṇāṃ mahi mahat psaro rūpaṃ | atas tadanurūpaṃ stomaṃ stotraṃ kathā kena prakāreṇa rādhāma | sādhayāmaḥ || kathā | thā hetau ca chandasi | pā. 5-3-26 | iti kiṃśabdāt prakāravacaneṣu prāgdiśo vibhaktir iti vibhaktisaṃjñāyāṃ kimaḥ kaḥ | pā. 7-2-103 | iti kādeśaḥ | pratyayasvaraḥ | rādhāma | rādha sādha saṃsiddhau | leṭi bahulaṃ chandasīti vikaraṇasya luk | tiṅ atiṅa iti nighātaḥ | stomaṃ | ṣṭuñ stutau | artistusv ity ādinā bhāve man | nittvād ādyudāttatvaṃ | aryamṇaḥ | ṣaṣṭhyaikavacane 'llopo 'na ity akāralopaḥ | udāttanivṛttisvareṇa vibhakter udāttatvaṃ | mahi | maha pūjāyāṃ | auṇādika in-pratyayaḥ | psaraḥ | psā bhakṣaṇe | psāti bhakṣayatīti psaro rūpaṃ | auṇādiko ḍarapratyayaḥ ||*
 
-**Translation:** "O *sakhāyaḥ*, friends, the priests who are [as] friends: the *mahi*, great, *psaraḥ*, form, of the three, Mitra and the others. Therefore *stomam*, a praise, to match it — *kathā*, in what way — *rādhāma*, shall we accomplish? *Kathā*: by *thā hetau ca chandasi* [Pā. 5-3-26 [?]] the suffix *thā* after *kim*, in the senses of manner; since *prāgdiśo vibhaktiḥ* gives the *vibhakti* name, *kā* for *kim* by *kimaḥ kaḥ* [Pā. 7-2-103]; accent of the suffix. *Rādhāma*: root *rādha sādha saṃsiddhau*; in *leṭ* the *vikaraṇa* is elided by *bahulaṃ chandasi*; *tiṅ atiṅaḥ*. *Stomam*: root *ṣṭuñ stutau*; *man* in the abstract sense by *ārtistu…*; since *nit*, first-syllable acute. *Āryamṇaḥ*: in the genitive singular the loss of *a* by *alopo 'naḥ*; the ending acute by the accent that follows loss of an acute. *Mahi*: root *maha pūjāyām*; the Uṇādi suffix *in*. *Psaraḥ*: root *psā bhakṣaṇe*: '*psāti*, it devours': *psaraḥ*, form; the Uṇādi *dara*."
+**Translation:** "O *sakhāyaḥ*, friends, the priests who are [as] friends: the *mahi*, great, *psaraḥ*, form, of the three, Mitra and the others. Therefore *stomam*, a praise, to match it — *kathā*, in what way — *rādhāma*, shall we accomplish? *Kathā*: by *thā hetau ca chandasi* [Pā. 5-3-26] the suffix *thā* after *kim*, in the senses of manner; since *prāgdiśo vibhaktiḥ* gives the *vibhakti* name, *kā* for *kim* by *kimaḥ kaḥ* [Pā. 7-2-103]; accent of the suffix. *Rādhāma*: root *rādha sādha saṃsiddhau*; in *leṭ* the *vikaraṇa* is elided by *bahulaṃ chandasi*; *tiṅ atiṅaḥ*. *Stomam*: root *ṣṭuñ stutau*; *man* in the abstract sense by *artistu…*; since *nit*, first-syllable acute. *Aryamṇaḥ*: in the genitive singular the loss of *a* by *alopo 'naḥ*; the ending acute by the accent that follows loss of an acute. *Mahi*: root *maha pūjāyām*; the Uṇādi suffix *in*. *Psaraḥ*: root *psā bhakṣaṇe*: '*psāti*, it devours': *psaraḥ*, form; the Uṇādi *ḍara*."
 
 **Pratipadārtha** *(p. 426)* — "**sakhāyaḥ** — O friends, the priests; **mitrasya** — of Mitra; **aryamṇaḥ** — of Aryaman; **varuṇasya** — of Varuṇa [these three deities]; **mahi** — of greatness; **psaraḥ** — [their] glory; **stomam** — the praise [fit to praise it]; **kathā** — in what way; **rādhāma** — shall we accomplish?"
 
@@ -7556,17 +7556,17 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 427**
 - **kathā** = *kena prakāreṇa* — "in what manner."
 - **rādhāma** — "*rādha sādha saṃsiddhau*: let us accomplish; let us bring it to completion."
-- **sakhāyaḥ** — "here the sacrificer addresses the priests as friends. Since in the third *saṃhitā* of the *Yajurveda* [?] there is a statement '*ṛtvijo vā asya sakhāyaḥ*' [as read [?]], the priests are called friends of the sacrificer."
+- **sakhāyaḥ** — "here the sacrificer addresses the priests as friends. Since there is the statement of the Taittirīya Saṃhitā, '*ṛtvijo vā asya sakhāyaḥ*', the priests are called friends of the sacrificer."
 - **mahi** = *maha pūjāyām | mahat | śreṣṭhaṃ pūjyam* — "great; excellent; worthy of worship."
 - **psaraḥ** — "*psā bhakṣaṇe*; '*psāti bhakṣayatīti psaro rūpam*': the form of glory, greatness, 'glory'" (the English word is the source's).
 
 **Vyākaraṇa-prakriyā** *(pp. 427–428 — grammar pages, noted briefly)*
-- **kathā**: *thā hetau ca chandasi* — था हेतौ च छन्दसि — [Pā. 5-3-26 as read]: *thā* after *kim* both in the sense of cause and manner; *prāgdiśo vibhaktiḥ* — प्रागिशो विभक्तिः — [Pā. 5-3-1 as read] gives *thā* the name *vibhakti*; *kimaḥ kaḥ* — किमः कः — [Pā. 7-2-103 as read]: *ka* for *kim* before a *vibhakti*; the accent of the suffix.
-- **rādhāma**: *rādha sādha saṃsiddhau*; *leṭ*, first-person plural; *mas*, *sa uttamasya* — स उत्तमस्य — [Pā. 3-4-98 as read]: the *s* of the *leṭ* first-person ending is optionally lost; so the loss of *s* [*s* of *mas*]; *bahulaṃ chandasi* gives *luk* to the *vikaraṇa*; *leṭo 'ḍāṭau* the *aṭ* augment; *tiṅ atiṅaḥ* wholly unaccented.
-- **stomam**: *ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ* the *s*; *ārtistuśū…* — आर्तिस्तुसुहुसृघृशृयाजिभ्यो मन् — [Uṇ., as read [?]]: the suffix *man* in the abstract; *guṇa*: *o*; the suffix being *nit*, the word is first-syllable [final] acute.
-- **āryamṇaḥ**: after *aryaman*, the genitive singular *ṅas*; *alopo 'naḥ* — अल्लोपोऽनः — [Pā. 6-4-134 as read]: the loss of the *a* of a stem ending in *an* when it is a *bha*, before an *ac*-initial ending; the print argues at length that the rule's *aṅga* is the *an*-ending *aṅga* in the *bha* sense, and not merely the *a* after *t* in *takṣṇaḥ*; *āryamṇaḥ*: *aryam + n + as*; *aṭkupvāṅ…* gives *ṇ*; the ending is acute by the *udāttanivṛtti* rule.
+- **kathā**: *thā hetau ca chandasi* — था हेतौ च छन्दसि — (Pā. Sū. 5-3-26): *thā* after *kim* both in the sense of cause and manner; *prāgdiśo vibhaktiḥ* — प्राग्दिशो विभक्तिः — (Pā. Sū. 5-3-1) gives *thā* the name *vibhakti*; *kimaḥ kaḥ* — किमः कः — (Pā. Sū. 7-2-103): *ka* for *kim* before a *vibhakti*; the accent of the suffix.
+- **rādhāma**: *rādha sādha saṃsiddhau*; *leṭ*, first-person plural; *mas*, *sa uttamasya* — स उत्तमस्य — (Pā. Sū. 3-4-98): the *s* of the *leṭ* first-person ending is optionally lost; so the loss of *s* [*s* of *mas*]; *bahulaṃ chandasi* gives *luk* to the *vikaraṇa*; *leṭo 'ḍāṭau* the *aṭ* augment; *tiṅ atiṅaḥ* wholly unaccented.
+- **stomam**: *ṣṭuñ stutau*; *dhātvādeḥ ṣaḥ saḥ* the *s*; *artistusu—* (no number printed): the suffix *man* in the abstract; *guṇa*: *o*; the suffix being *nit*, the word is first-syllable acute.
+- **āryamṇaḥ**: after *aryaman*, the genitive singular *ṅas*; *alopo 'naḥ* — अल्लोपोऽनः — (Pā. Sū. 6-4-134): the loss of the *a* of a stem ending in *an* when it is a *bha*, before an *ac*-initial ending; the print argues at length that the rule's *aṅga* is the *an*-ending *aṅga* in the *bha* sense, and not merely the *a* after *t* in *takṣṇaḥ*; *āryamṇaḥ*: *aryam + n + as*; *aṭkupvāṅ…* gives *ṇ*; the ending is acute by the *udāttanivṛtti* rule.
 - **mahi**: *maha pūjāyām*; the Uṇādi *in*.
-- **psaraḥ**: *psā bhakṣaṇe*, *adādi*; "*psāti bhakṣayatīti*, so *psaraḥ*, form, i.e. form"; the Uṇādi suffix *dara*; in the suffix the *ḍ* [as *ḍit*] gives the *ṭi*-loss: the *ā* of the root is lost; first-syllable acute by the suffix accent. Rik 7 ends here (*|| 7 ||*).
+- **psaraḥ**: *psā bhakṣaṇe*, *adādi*; "*psāti bhakṣayatīti*, so *psaraḥ*, form, i.e. form"; the Uṇādi suffix *ḍara*; in the suffix the *ḍ* [as *ḍit*] gives the *ṭi*-loss: the *ā* of the root is lost; first-syllable acute by the suffix accent. Rik 7 ends here (*|| 7 ||*).
 
 ---
 
