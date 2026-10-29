@@ -19,6 +19,7 @@ Status: **PAUSED by the user (Oct 29, ~04:40 UTC).** All 9 workers finished thei
 Each worker keeps its own state in `volN/parts/<id>_state.md` (authoritative resume point) and its log in `volN/review/edits_<id>.txt`; its own tools end in `_<id>.py`. Pages left at the pause: Vol 3 ≈ 201, Vol 4 ≈ 241, Vol 5 ≈ 458 (≈ 900 total).
 
 ## Rules every worker follows (prompt template: `worker_prompt_template.txt`)
+- **Scope (user, Oct 29): local corrections only, as in the Vol 4 runbook** — numerals, [?], clear misreadings, Saṃhitā accents; no wholesale re-transcription or rewriting of sound text (Vol 3 workers rewrote whole Ṛks until the pause; that stops).
 - Only its own range; exact, local replacements only — **never a whole-file script** (no `add_iast.py` on the whole file, no un-ranged `sed -i`), so the branches merge cleanly.
 - **No OCR for any reading**; numbers and words only from crops actually viewed. **Blank image view → stop**, write nothing for that page.
 - Never edit the shared `volN_state.md`, pass log, CLAUDE.md, runbooks, shared tools, `.docx`/`.pdf`; never merge into main; no PR, force-push or reset.
