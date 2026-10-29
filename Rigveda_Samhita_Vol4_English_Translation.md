@@ -5152,13 +5152,13 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ### Rik 37.15 (pp. 290–292, PDF 304–306)
 
-**Saṃhitā-pāṭha** *(p. 290; accents printed)*
+**Saṃhitā-pāṭha** *(p. 290 = PDF 305 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **अस्ति हि ष्मा मदाय वः स्मसि ष्मा वयमेषाम् ।**
-> **विश्वं चिदायुर्जीवसे ॥ १५ ॥**
+> **अस्ति॒ हि ष्मा॒ मदा॑य वः॒ स्म॑सि ष्मा व॒यमे॑षाम् ।**
+> **वि॑श्वं चि॒दा॑यु॒र्जीवसे॑ ॥ १५ ॥**
 
-*asti hi ṣmā madāya vaḥ smasi ṣmā vayam eṣām |*
-*viśvaṃ cid āyur jīvase || 15 ||*
+*asti hí ṣmā mádāya vaḥ smasi ṣmā vayám eṣām |*
+*viśvaṃ cid āyur jī́váse || 15 ||*
 
 **Pada-pāṭha** *(p. 290)*
 
@@ -5188,8 +5188,8 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 - **viśvaṃ cid āyuḥ** — "the entire life-span: that is, favour us men with the hundred years that we can live, or an even longer span of life."
 
 **Vyākaraṇa-prakriyā** *(pp. 291–292 — grammar page, noted briefly)*
-- **ṣma**: *nipātasya ca* — निपातस्य च — [Pā. 6-3-13? as read [?]]: in a mantra a *nipāta* takes the long vowel; hence the long (*ṣmā*).
-- **smasi**: *as bhuvi*; *mas*; by *śnasor allopaḥ* the *a* of the root is lost; by *idanto masiḥ* — इदन्तो मसिः — [Pā. 7-1-46 as read [?]] the augment *ik* comes to *mas* (this is the refined sense), and when the *ik* comes it becomes *smasi*.
+- **ṣma**: *nipātasya ca* — निपातस्य च — (Pā. Sū. 6-3-139 [as printed; for 6-3-136]): in a mantra a *nipāta* takes the long vowel; hence the long (*ṣmā*).
+- **smasi**: *as bhuvi*; *mas*; by *śnasor allopaḥ* the *a* of the root is lost; by *idanto masiḥ* — इदन्तो मसिः — (Pā. Sū. 7-1-46) the augment *ik* comes to *mas* (this is the refined sense), and when the *ik* comes it becomes *smasi*.
 - **jīvase**: *jīva prāṇadhāraṇe*; the suffix *ase* in the sense of the infinitive by the rule beginning *tumarthe se-sen-…* [as printed]. Rik 15 ends here (*|| 15 ||*).
 
 **Close of Sūkta 37.** Printed on p. 292, after the grammar: "*illige 37ne sūkta pūrṇavu*" — "Here the 37th sūkta is complete." *(The numeral is read as "37" in the print; the Kannada script is clear in this closing note.)* With it the Eighth Anuvāka's second sūkta (printed pp. 251–292) ends. Below it, on the same leaf (p. 292), begins Sūkta 38 (*kad dha nūnam*, 15 Riks, Kaṇva Ghaura, Maruts, Gāyatrī) with its Sanskrit introduction and Kannada *anuvāda*; these are **not yet written** and belong to the next session.
