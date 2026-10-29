@@ -7960,15 +7960,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ---
 
-### Rik 42.5 (pp. 449–, PDF 463–)
+### Rik 42.5 (pp. 449–451, PDF 463–465)
 
-**Saṃhitā-pāṭha** *(p. 449 foot; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 449 foot; Saṃhitā accents as printed; Pada unaccented; ಪೂ of pūṣann is unmarked in the print.)*
 
-> **आ तत्ते दस्र मन्तुमः पूषन्नवो वृणीमहे ।**
-> **येन पितॄनचोदयः ॥ ५ ॥**
+> **आ तत्ते॑ दस्र मन्तुमः॒ पूष॒न्नवो॑ वृणीमहे ।**
+> **येन॑ पि॒तॄन॑चोदयः ॥ ५ ॥**
 
-*ā tat te dasra mantumaḥ pūṣann avo vṛṇīmahe |*
-*yena pitṝn acodayaḥ || 5 ||*
+*ā́ tát te dasra mantumaḥ pū́ṣann ávo vṛṇīmahe |*
+*yéna pitṝ́n acodayaḥ || 5 ||*
 
 **Pada-pāṭha** *(p. 450)*
 
@@ -7980,13 +7980,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 450)*
 
-> **हे मन्तुमो ज्ञानवन् दस्र दर्शनीय यद्वा वैरिणामुपक्षयकारिन् पूषन् ते त्वदीयं तदवस्थादृशं रक्षणमा वृणीमहे । सर्वतः प्रार्थयामहे । येन रक्षणेन पितॄन् अङ्गिरःप्रभृतीन्स्त्वदेवानचोदयः प्रेरितवानसि । तत्प्रार्थयाम इति पूर्वत्रान्वयः ॥ दस्र । दसि दंसनदर्शनयोः । स्पायितञ्चीत्यादिना रक् । आगमानुशासनस्यानित्यत्वान्नुमभावः । यद्वा । दसु उपक्षये इत्यस्माद् अन्तर्भावितण्यर्थात्पूर्ववद्रक् । मन्तुमः । मन ज्ञाने । कमिमनिजनीत्यादिना । उ. १-७३ [?] । भावे तुप्रत्ययः । मन्तुर्ज्ञानमस्यास्तीति मन्तुमान् । सम्बुद्धौ मतुवसो रुरिति रुत्वं । अचोदयः । चुद सम्चोदने । चौरादिकः ॥ ५ ॥**
+> **हे मन्तुमो ज्ञानवन् दस्र दर्शनीय यद्वा वैरिणामुपक्षयकारिन् पूषन् ते त्वदीयं तदवस्थादृशं रक्षणमा वृणीमहे । सर्वतः प्रार्थयामहे । येन रक्षणेन पितॄन् अङ्गिरःप्रभृतीन्पितृदेवानचोदयः प्रेरितवानसि । तत्प्रार्थयाम इति पूर्वत्रान्वयः ॥ दस्र । दसि दंसनदर्शनयोः । स्पायितञ्चीत्यादिना रक् । आगमानुशासनस्यानित्यत्वान्नुमभावः । यद्वा । दसु उपक्षये इत्यस्माद् अन्तर्भावितण्यर्थात्पूर्ववद्रक् । मन्तुमः । मन ज्ञाने । कमिमनिजनीत्यादिना । उ. १-७३ । भावे तुप्रत्ययः । मन्तुर्ज्ञानमस्यास्तीति मन्तुमान् । सम्बुद्धौ मतुवसो रुरिति रुत्वं । अचोदयः । चुद सम्चोदने । चौरादिकः ॥ ५ ॥**
 
-*he mantumo jñānavan dasra darśanīya yadvā vairiṇām upakṣayakārin pūṣan te tvadīyaṃ tadavasthādṛśaṃ rakṣaṇam ā vṛṇīmahe | sarvataḥ prārthayāmahe | yena rakṣaṇena pitṝn aṅgiraḥprabhṛtīn stvadevān acodayaḥ preritavān asi | tat prārthayāma iti pūrvatrānvayaḥ || dasra | dasi daṃsanadarśanayoḥ | spāyitañcītyādinā rak | āgamānuśāsanasyānityatvān numabhāvaḥ | yadvā | dasu upakṣaye ity asmād antarbhāvitaṇyarthāt pūrvavad rak | mantumaḥ | mana jñāne | kamimanijanītyādinā | u. 1-73 [?] | bhāve tupratyayaḥ | manturjñānam asyāstīti mantumān | sambuddhau matuvaso rur iti rutvaṃ | acodayaḥ | cuda saṃcodane | caurādikaḥ || 5 ||*
+*he mantumo jñānavan dasra darśanīya yadvā vairiṇām upakṣayakārin pūṣan te tvadīyaṃ tadavasthādṛśaṃ rakṣaṇam ā vṛṇīmahe | sarvataḥ prārthayāmahe | yena rakṣaṇena pitṝn aṅgiraḥprabhṛtīn pitṛdevān acodayaḥ preritavān asi | tat prārthayāma iti pūrvatrānvayaḥ || dasra | dasi daṃsanadarśanayoḥ | spāyitañcītyādinā rak | āgamānuśāsanasyānityatvān numabhāvaḥ | yadvā | dasu upakṣaye ity asmād antarbhāvitaṇyarthāt pūrvavad rak | mantumaḥ | mana jñāne | kamimanijanītyādinā | u. 1-73 | bhāve tupratyayaḥ | manturjñānam asyāstīti mantumān | sambuddhau matuvaso rur iti rutvaṃ | acodayaḥ | cuda saṃcodane | caurādikaḥ || 5 ||*
 
-*(The word "stvadevān" after "aṅgiraḥprabhṛtīn" is crowded and doubtful [?]; the translation leaves it out.)*
+*("aṅgiraḥprabhṛtīn pitṛdevān" read from the print, p. 450; the bhāṣya's* u. 1-73 *also read there.)*
 
-**Translation:** "O *mantumaḥ*, possessing knowledge; *dasra*, beautiful to see, or, one who causes the decay of enemies; Pūṣan — *te*, your, *tat*, that [kind of] *avaḥ*, protection, *ā vṛṇīmahe*, we ask for on all sides: that protection by which you *acodayaḥ*, urged on, *pitṝn*, the forefathers beginning with Aṅgiras [the word after it is doubtful [?]]. We pray for that: so it is connected with what precedes. *Dasra*: root *dasi daṃsanadarśanayoḥ*; *rak* by *spāyitañci…*; because the teaching of augments is not constant, no *num*; or from the root *dasu upakṣaye* with an implicit causative sense, *rak* as before. *Mantumaḥ*: root *mana jñāne*; the abstract *tu* by *kamimanijanī…* [Uṇ. 1-73 [?]]; '*manturjñānam asyāsti*', one who has knowledge: *mantumān*; in the vocative the *ru* by *matuvaso ruḥ*. *Acodayaḥ*: root *cuda saṃcodane*, of the *curādi* class."
+**Translation:** "O *mantumaḥ*, possessing knowledge; *dasra*, beautiful to see, or, one who causes the decay of enemies; Pūṣan — *te*, your, *tat*, that [kind of] *avaḥ*, protection, *ā vṛṇīmahe*, we ask for on all sides: that protection by which you *acodayaḥ*, urged on, *pitṝn*, the forefathers beginning with Aṅgiras, the divine Fathers (*pitṛdevān*). We pray for that: so it is connected with what precedes. *Dasra*: root *dasi daṃsanadarśanayoḥ*; *rak* by *spāyitañci…*; because the teaching of augments is not constant, no *num*; or from the root *dasu upakṣaye* with an implicit causative sense, *rak* as before. *Mantumaḥ*: root *mana jñāne*; the abstract *tu* by *kamimanijanī…* [U. 1-73]; '*manturjñānam asyāsti*', one who has knowledge: *mantumān*; in the vocative the *ru* by *matuvaso ruḥ*. *Acodayaḥ*: root *cuda saṃcodane*, of the *curādi* class."
 
 **Pratipadārtha** *(p. 450)* — "**mantumaḥ** — one who has subtle knowledge; **dasra** — one of beautiful form, or one who destroys enemies; **pūṣan** — O Pūṣan; **te** — your; **yena** — by which protection; **pitṝn** — the forefathers (Aṅgiras and others); **acodayaḥ** — you encouraged and caused to prosper; **tat** — that (your) protection; **ā vṛṇīmahe** — we ask for on all sides."
 
@@ -8008,7 +8008,7 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Vyākaraṇa-prakriyā** *(p. 451 — grammar page, noted briefly)*
 - **dasra**: root *dasi daṃsanadarśanayoḥ*, first class; *idit*, so *idito num dhātoḥ* would give *num*, which is to be prevented by *āgamaśāstram anityam*; or the root *dasu upakṣaye*, of the *divādi* class, is taken; whichever it is, it is one root; then the suffix *rak* by *spāyitañci…* [Uṇ.].
-- **mantumaḥ**: root *mana jñāne* of the *divādi* class; *kamimanijanigāhāyāhibhyaś ca* [Uṇ. 1-73 as read]: *tu* in the abstract; *titutratatha…* prohibits *iṭ*; *man + tu*, *anusvāra*, *parasavarṇa*; *mantu* means knowledge; "*manturasyāsti*"; *tadasyāsty asminn iti matup*; *mantumat*; then the vocative *su*; *matuvasor ru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि — [Pā. 8-3-1 as read]: in the Veda, *ru* for the final of a stem ending in *matup* or *vasu* in the vocative singular; *mantumar + su*; *halṅyābbhyo…* the loss of *su*; *kharavasānayor visarjanīyaḥ* the visarga.
+- **mantumaḥ**: root *mana jñāne* of the *divādi* class; *kamimanijanigāhāyāhibhyaś ca* (U. Sū. 1-72 as printed): *tu* in the abstract; *titutratatha…* prohibits *iṭ*; *man + tu*, *anusvāra*, *parasavarṇa*; *mantu* means knowledge; "*manturasyāsti*"; *tadasyāsty asminn iti matup*; *mantumat*; then the vocative *su*; *matuvasor ru sambuddhau chandasi* — मतुवसोरु सम्बुद्धौ छन्दसि — (Pā. Sū. 8-3-1): in the Veda, *ru* for the final of a stem ending in *matup* or *vasu* in the vocative singular; *mantumar + su*; *halṅyābbhyo…* the loss of *su*; *kharavasānayor visarjanīyaḥ* the visarga.
 - **acodayaḥ**: root *cuda saṃcodane*, tenth class; *satyāpapāśa…* gives *ṇic*; *luṅ*, madhyama singular *sip*, *śap*; the augment *aṭ*; *acud + i + a + si*; because of *ṇic* the *laghūpadhaguṇa*; because of *śap* *sārvadhātukārdhadhātukayoḥ* gives *guṇa*; *e*, *ay*-substitution; *itaś ca* the loss of the *i*; *ru*, visarga. Rik 5 ends here (*|| 5 ||*).
 
 ---
