@@ -5654,13 +5654,13 @@
 
 ### Rik 54.2 (pp. 307–310, PDF 323–326)
 
-**Saṃhitā-pāṭha** *(p. 307; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 307; accents as printed)*
 
-> **अर्चा शक्राय शाकिने शचीवते शृण्वन्तमिन्द्रं महयन्नभि ष्टुहि ।**
-> **यो धृष्णुना शवसा रोदसी उभे वृषा वृषत्वा वृषभो न्यृञ्जते ॥ २ ॥**
+> **अर्चा॑ श॒क्राय॑ शा॒किने॒ शची॑वते शृ॒ण्वन्त॒मिन्द्रं॑ म॒हय॑न्न॒भि ष्टु॑हि ।**
+> **यो धृ॒ष्णुना॒ शव॑सा॒ रोद॑सी उ॒भे वृषा॑ वृष॒त्वा वृ॑ष॒भो न्यृ॒ञ्जते॑ ॥ २ ॥**
 
-*arcā śakrāya śākine śacīvate śṛṇvantam indraṃ mahayann abhi ṣṭuhi |*
-*yo dhṛṣṇunā śavasā rodasī ubhe vṛṣā vṛṣatvā vṛṣabho nyṛñjate || 2 ||*
+*árcā śakrā́ya śākíne śácīvate śṛṇvántam índram maháyann abhí ṣṭuhi |*
+*yó dhṛṣṇúnā śávasā ródasī ubhé vṛ́ṣā vṛṣatvā́ vṛṣabhó ny ṛñjáte || 2 ||*
 
 **Pada-pāṭha** *(p. 308)*
 
@@ -5674,13 +5674,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 308)*
 
-> **हे अध्वर्यो शाकिने शक्तियुक्ताय शचीवते प्रज्ञावते शक्रायेन्द्रायार्च । एवंविधमिन्द्रं पूजय । किंच स्तुतीः शृण्वन्तं समीचीनेयं स्तुतिरिति जानन्तं तमिन्द्रं महयन् पूजयन्नभि ष्टुहि । आभिमुख्येन तस्य स्तोत्रं कुरु । य इन्द्रो धृष्णुना शत्रूणां धर्षकेण शवसा बलेनोभे रोदसी द्यावापृथिव्यौ न्यृञ्जते नितरां प्रसाधयति । ऋञ्जतिः प्रसाधनकर्मा । नि. ६-२१ [?] इति यास्कः । स इन्द्रो वृषा सेचनसमर्थो वृषत्वा वृषत्वेनैव सेचनसामर्थ्येन वृषभो वर्षिता कामानां यद्वा वृष्ण्युदकानाम् ॥**
+> **हे अध्वर्यो शाकिने शक्तियुक्ताय शचीवते प्रज्ञावते शक्रायेन्द्रायार्च । एवंविधमिन्द्रं पूजय । किंच स्तुतीः शृण्वन्तं समीचीनेयं स्तुतिरिति जानन्तं तमिन्द्रं महयन् पूजयन्नभि ष्टुहि । आभिमुख्येन तस्य स्तोत्रं कुरु । य इन्द्रो धृष्णुना शत्रूणां धर्षकेण शवसा बलेनोभे रोदसी द्यावापृथिव्यौ न्यृञ्जते नितरां प्रसाधयति । ऋञ्जतिः प्रसाधनकर्मा । नि. ६-२१ इति यास्कः । स इन्द्रो वृषा सेचनसमर्थो वृषत्वा वृषत्वेनैव सेचनसामर्थ्येन वृषभो वर्षिता कामानां यद्वा वृष्ण्युदकानाम् ॥**
 
-*he adhvaryo śākine śaktiyuktāya śacīvate prajñāvate śakrāyendrāyārca | evaṃvidham indraṃ pūjaya | kiṃca stutīḥ śṛṇvantaṃ samīcīneyaṃ stutir iti jānantaṃ tam indraṃ mahayan pūjayann abhi ṣṭuhi | ābhimukhyena tasya stotraṃ kuru | ya indro dhṛṣṇunā śatrūṇāṃ dharṣakeṇa śavasā balenobhe rodasī dyāvāpṛthivyau nyṛñjate nitarāṃ prasādhayati | ṛñjatiḥ prasādhanakarmā | ni. 6-21 [?] iti yāskaḥ | sa indro vṛṣā secanasamartho vṛṣatvā vṛṣatvenaiva secanasāmarthyena vṛṣabho varṣitā kāmānāṃ yadvā vṛṣṇyudakānām ||*
+*he adhvaryo śākine śaktiyuktāya śacīvate prajñāvate śakrāyendrāyārca | evaṃvidham indraṃ pūjaya | kiṃca stutīḥ śṛṇvantaṃ samīcīneyaṃ stutir iti jānantaṃ tam indraṃ mahayan pūjayann abhi ṣṭuhi | ābhimukhyena tasya stotraṃ kuru | ya indro dhṛṣṇunā śatrūṇāṃ dharṣakeṇa śavasā balenobhe rodasī dyāvāpṛthivyau nyṛñjate nitarāṃ prasādhayati | ṛñjatiḥ prasādhanakarmā | ni. 6-21 iti yāskaḥ | sa indro vṛṣā secanasamartho vṛṣatvā vṛṣatvenaiva secanasāmarthyena vṛṣabho varṣitā kāmānāṃ yadvā vṛṣṇyudakānām ||*
 
-*(The grammatical tail, p. 308 foot: on* arca *(*pit*-ness of* śap*, the root accent; the Vedic lengthening in the Saṃhitā by* dvyacas tiṅaḥ*),* śākine*,* abhi ṣṭuhi *(*upasargāt sunoti…* for the *ṣatva*; *ṣṭuñ stutau*; *hi* for* sip*),* vṛṣatvā *(the suffix *tva* in the Veda by* tva *in the sense of the action),* nyṛñjate *(*ṛñjatiḥ prasādhanakarmā*, Ni. 6-21 as read [?]; *ṛji bhrjī bharjane*, *num*; *vyatyaya*, *śa*) — is characterized.)*
+*(The grammatical tail, p. 308 foot: on* arca *(*pit*-ness of* śap*, the root accent; the Vedic lengthening in the Saṃhitā by* dvyacas tiṅaḥ*),* śākine*,* abhi ṣṭuhi *(*upasargāt sunoti…* for the *ṣatva*; *ṣṭuñ stutau*; *hi* for* sip*),* vṛṣatvā *(the suffix *tva* in the Veda by* tva *in the sense of the action),* nyṛñjate *(*ṛñjatiḥ prasādhanakarmā*, Ni. 6-21 printed; *ṛji bhrjī bharjane*, *num*; *vyatyaya*, *śa*) — is characterized.)*
 
-**Translation of the bhāṣya:** "O Adhvaryu, *arca*, worship *śakrāya*, Indra — *śākine*, endowed with power, *śacīvate*, with wisdom: such an Indra, worship. And *mahayan*, honouring that Indra, *śṛṇvantam*, who hears the praises, knowing 'this is a fitting praise' — *abhi ṣṭuhi*, praise him face to face, make his hymn. Indra *yaḥ dhṛṣṇunā śavasā*, with his strength that overpowers enemies, *ubhe rodasī*, both heaven and earth, *ni ṛñjate*, adorns exceedingly — *ṛñjati* has the sense of adorning, says Yāska (Ni. 6-21 [?]). That Indra is *vṛṣā*, capable of showering; *vṛṣatvā*, by that very capacity of showering, *vṛṣabhaḥ*, the shower of desires, or of the waters."
+**Translation of the bhāṣya:** "O Adhvaryu, *arca*, worship *śakrāya*, Indra — *śākine*, endowed with power, *śacīvate*, with wisdom: such an Indra, worship. And *mahayan*, honouring that Indra, *śṛṇvantam*, who hears the praises, knowing 'this is a fitting praise' — *abhi ṣṭuhi*, praise him face to face, make his hymn. Indra *yaḥ dhṛṣṇunā śavasā*, with his strength that overpowers enemies, *ubhe rodasī*, both heaven and earth, *ni ṛñjate*, adorns exceedingly — *ṛñjati* has the sense of adorning, says Yāska (Ni. 6-21). That Indra is *vṛṣā*, capable of showering; *vṛṣatvā*, by that very capacity of showering, *vṛṣabhaḥ*, the shower of desires, or of the waters."
 
 **Pratipadārtha** *(p. 308)* — "(O Adhvaryu) **śākine** — to the powerful; **śacīvate** — the wise; **śakrāya** — to Indra; **arca** — offer worship; **śṛṇvantam** — [him] who listens (to your hymns); **indram** — Indra; **mahayan** — worshipping; **abhi stuhi** — stand before him and praise him; **yaḥ** — which Indra; **dhṛṣṇunā** — overpowering (the enemies); **śavasā** — by strength; **ubhe rodasī** — both heaven and earth; **nyṛñjate** — adorns completely; (**saḥ**) — that Indra; **vṛṣā** — able to cause the rain; **vṛṣatvā** — by this capacity; **vṛṣabhaḥ** — the giver of our desires, or the giver of the waters of the rain (so well known)."
 
@@ -5693,9 +5693,9 @@
 - **śṛṇvantam** — "This is an epithet of the word *indra*: 'one who listens attentively to the hymns of those who praise him'."
 - **abhi ṣṭuhi** — "Stand facing him and make his hymn."
 - **ubhe rodasī** — "The two, heaven and earth. Here, though the sense of the word *ubhe* is understood from the dual alone on the word *rodasī*, one should know that the use of the word *ubhe* is for clarity."
-- **nyṛñjate** — "*Nitarāṃ prasādhayati*: from the root *ṛji bhrjī bharjane*, joined with the preposition *ni*, this verb-form gives the sense 'adorns'. The Nirukta itself is the authority: '*ṛñjatiḥ prasādhanakarmā*' (Ni. 6-21 as read [?])."
+- **nyṛñjate** — "*Nitarāṃ prasādhayati*: from the root *ṛji bhrjī bharjane*, joined with the preposition *ni*, this verb-form gives the sense 'adorns'. The Nirukta itself is the authority: '*ṛñjatiḥ prasādhanakarmā*' (Ni. 6-21, printed "ನಿ. ೬-೨೧")."
 
-  > **ऋञ्जतिः प्रसाधनकर्मा ।** *(Ni. 6-21 as read [?])*
+  > **ऋञ्जतिः प्रसाधनकर्मा ।** *(Ni. 6-21)*
 
   *ṛñjatiḥ prasādhanakarmā |* — mine and tentative: "*ṛñj* is [a verb] of the action of adorning."
 - **vṛṣā** — "One who causes the rain."
@@ -5703,7 +5703,7 @@
 - **vṛṣabhaḥ** — "One who fulfils the desires of the sacrificers; or one who satisfies all with the gift in the form of rain (Indra)."
 
 **Vyākaraṇa-prakriyā** *(pp. 309–310 — grammar pages, noted briefly)*
-- **arca**: *arca pūjāyām*; *loṭ* second singular *sip*; *serhy apicca* (Pā. 3-4-87) gives *hi* for *sip*; *kartari śap*; since *a* precedes, *ato heḥ* drops *hi*; since the word begins a *pāda*, there is no *nighāta*; *śap* being *pit*, *anudāttau supitau* makes it *anudātta*, so the root's own accent remains; in the Saṃhitā, *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135) lengthens the final: *arcā*.
+- **arca**: *arca pūjāyām*; *loṭ* second singular *sip*; *serhy apicca* (no number printed) gives *hi* for *sip*; *kartari śap*; since *a* precedes, *ato heḥ* drops *hi*; since the word begins a *pāda*, there is no *nighāta*; *śap* being *pit*, *anudāttau supitau* makes it *anudātta*, so the root's own accent remains; in the Saṃhitā, *dvyaco 'tas tiṅaḥ* (Pā. 6-3-135) lengthens the final: *arcā*.
 - **śākine**: *śaktiḥ śākaḥ*; *śakḷ śaktau*; *ghañ* in the sense of the action; *ñit*, so *ata upadhāyāḥ* gives *vṛddhi*; "*śāko 'syāsti*": *ata ini-ṭhanau* (Pā. 5-2-115) gives *ini*; *yasyeti ca* drops the *a*: *śākin*; dative: the dative stands since *kriyāgrahaṇaṃ kartavyam* gives the object the *sampradāna*-name.
 - **abhi ṣṭuhi**: *ṣṭuñ stutau*; *loṭ* second singular, *sip*→*hi*; being *apit*, no *guṇa*; *adiprabhṛtibhyaḥ śapaḥ* drops *śap*: *stuhi*; *upasargāt sunoti…* (Pā. 8-3-65) gives *ṣatva* to the root's *s* after the prefix *abhi*; *ṣṭunā ṣṭuḥ* turns the *t* of the root into *ṭ*; so *ṣṭuhi*; *nighāta*.
 - **dhṛṣṇunā**: *ñidhṛṣā prāgalbhye*; *trasigṛdhidhṛṣikṣipeḥ knuḥ*; being *kit*, no *guṇa*; the instrumental singular: *nā*, since *dhṛṣṇu* has the *ghi*-designation, *āṅo nā*… the *nā* is allowed; the suffix-accent applies.
