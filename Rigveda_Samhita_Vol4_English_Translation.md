@@ -5059,13 +5059,13 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ### Rik 37.13 (pp. 286–288, PDF 300–302)
 
-**Saṃhitā-pāṭha** *(p. 286; accents printed)*
+**Saṃhitā-pāṭha** *(p. 286 = PDF 301 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **यद्ध यान्ति मरुतः सं ह ब्रुवतेऽध्वन्ना ।**
-> **शृणोति कश्चिदेषाम् ॥ १३ ॥**
+> **यद्ध॒ या॑न्ति म॒रुतः॒ सं ह॑ ब्रुव॒तेऽध्व॒न्ना ।**
+> **शृणोति कश्चि॑देषाम् ॥ १३ ॥**
 
-*yad dha yānti marutaḥ saṃ ha bruvate 'dhvann ā |*
-*śṛṇoti kaś cid eṣām || 13 ||*
+*yad dha yānti marútaḥ sáṃ ha bruvaté 'dhvann ā́ |*
+*śṛṇoti káś cid eṣām || 13 ||*
 
 **Pada-pāṭha** *(p. 286)*
 
@@ -5094,15 +5094,15 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 287** — "When the wind blows with great force, every single person certainly hears its sound: such is the sense."
 
 **Vyākaraṇa-prakriyā** *(p. 287, begun; the rest on p. 288 not yet written)*
-- **yānti**: *yā prāpaṇe*, *laṭ*, *jhi*; *jho 'ntaḥ* — झोऽन्तः — [Pā. 7-1-3, as read [?]] gives *ant* for *jh*; the substitute is ordered in the *aṅgādhikāra*, hence it is *antaraṅga* (the suffix being dependent on the base); the accent of the suffix (*ādyudātta*) comes first by the rule *āyannādi-…* [as read, doubtful]; *ant* is acute on the first syllable by the accent of a suffix; *śap* elided (*adādi*); *yā + anti*, *savarṇadīrgha*, and by *ekādeśa udāttena* the single substitute is acute.
-- **bruvate**: *brūñ vyaktāyāṃ vāci*, *laṭ*, *jha*; *śap* elided (*adādi*); *ātmanepadeṣv nataḥ* — आत्मनेपदेष्वनतः — *at* for *jha*; *ṭi* becomes *e*; *brū + ate*; *sārvadhātukārdhadhātukayoḥ* — सार्वधातुकार्धधातुकयोः — [Pā. 7-3-84 as read [?]] gives *guṇa*, and *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* — अचि श्नुधातुभ्रुवां य्वोरियङुवङौ — [Pā. 6-4-77 as read [?]] gives *uvaṅ*; if there is a conflict the later rule is to be applied, *vipratiṣedhe paraṃ kāryam* — विप्रतिषेधे परं कार्यम् — [Pā. 1-4-2 as read [?]], namely *guṇa*; but *jha* is *sārvadhātukam apit* — सार्वधातुकमपित् — … *(continued on p. 288, PDF 302.)*
+- **yānti**: *yā prāpaṇe*, *laṭ*, *jhi*; *jho 'ntaḥ* — झोऽन्तः — (Pā. Sū. 7-1-3) gives *ant* for *jh*; the substitute is ordered in the *aṅgādhikāra*, hence it is *antaraṅga* (the suffix being dependent on the base); the accent of the suffix (*ādyudātta*) comes first by the maxim *āyannādiṣūpadeśavadvacanaṃ svarasiddhyartham* — आयन्नादिषूपदेशवद्वचनं स्वरसिद्ध्यर्थम् (*āyannādiṣūpadeśavadvacanaṃ svarasiddhyartham*), no number printed; *ant* is acute on the first syllable by the accent of a suffix; *śap* elided (*adādi*); *yā + anti*, *savarṇadīrgha*, and by *ekādeśa udāttena* the single substitute is acute.
+- **bruvate**: *brūñ vyaktāyāṃ vāci*, *laṭ*, *jha*; *śap* elided (*adādi*); *ātmanepadeṣv nataḥ* — आत्मनेपदेष्वनतः — *at* for *jha*; *ṭi* becomes *e*; *brū + ate*; *sārvadhātukārdhadhātukayoḥ* — सार्वधातुकार्धधातुकयोः — (Pā. Sū. 7-3-84) gives *guṇa*, and *aci śnudhātubhruvāṃ yvor iyaṅuvaṅau* — अचि श्नुधातुभ्रुवां य्वोरियङुवङौ — (Pā. Sū. 6-4-77) gives *uvaṅ*; if there is a conflict the later rule is to be applied, *vipratiṣedhe paraṃ kāryam* — विप्रतिषेधे परं कार्यम् — (Pā. Sū. 1-4-2), namely *guṇa*; but *jha* is *sārvadhātukam apit* — सार्वधातुकमपित् — … *(continued on p. 288, PDF 302.)*
 
 ---
 
 **Vyākaraṇa-prakriyā of Rik 37.13, continued** *(p. 288, PDF 302 — grammar page, noted briefly)*
-- **bruvate**, concluded: *jha* is *sārvadhātukam apit* — सार्वधातुकमपित् — [Pā. 1-2-4 as read [?]], hence *ṅit*; and *kṅiti ca* — क्ङिति च — [Pā. 1-1-5 as read [?]] prohibits *guṇa*; therefore only the *uvaṅ*-substitution comes.
+- **bruvate**, concluded: *jha* is *sārvadhātukam apit* — सार्वधातुकमपित् — (Pā. Sū. 1-2-4), hence *ṅit*; and *kṅiti ca* — क्ङिति च — (Pā. Sū. 1-1-5) prohibits *guṇa*; therefore only the *uvaṅ*-substitution comes.
 - **adhvan**: *supāṃ sulug…* — सुपां सुलुक्… — the locative ending is elided.
-- **śṛṇoti**: *śru śravaṇe*, *tip*; *śruvaḥ śṛ ca* — श्रुवः शृ च — [Pā. 3-1-74 as read [?]]: the substitute *śṛ* and the *vikaraṇa śnu* come; *guṇa* and so on; because *tip* is *pit* it is *anudātta*, and the accent stands on the *vikaraṇa*. Rik 13 ends here (*|| 13 ||*).
+- **śṛṇoti**: *śru śravaṇe*, *tip*; *śruvaḥ śṛ ca* — श्रुवः शृ च — (Pā. Sū. 3-1-74): the substitute *śṛ* and the *vikaraṇa śnu* come; *guṇa* and so on; because *tip* is *pit* it is *anudātta*, and the accent stands on the *vikaraṇa*. Rik 13 ends here (*|| 13 ||*).
 
 ---
 
