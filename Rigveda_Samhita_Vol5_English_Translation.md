@@ -9651,17 +9651,17 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 "The fish that released Manu from the flood (Śat. Brā. 1-8-1-1) was later counted an incarnation of Viṣṇu. In the same way, in the desire to create, Prajāpati moves in the water of the dissolution in the form of a tortoise (Śat. Brā. 7-5-1-5; Tai. Ā. 1-23-3); later this too becomes known as an incarnation of Viṣṇu."
 
-"Viṣṇu was the first to know the matter of sacrifice and attained great pre-eminence: the bow-string, snapping, cut off the head of Viṣṇu (of the sacrifice), and that very head became Sūrya (Āditya) (Śat. Brā. 14-1-1). Afterwards the Aśvins put the head of the sacrifice in its former place (Tai. Ā. 5-1-1 to 6); then, when it was complete, there is a story that the gods won the world of heaven."
+"Viṣṇu was the first to know the matter of sacrifice and attained great pre-eminence: the bow-string, snapping, cut off the head of Viṣṇu (of the sacrifice), and that very head became Sūrya (Āditya) (Śat. Brā. 14-1-1). Afterwards the Aśvins put the head of the sacrifice in its former place (Tai. Ā. 5-1-1 to 7); then, when it was complete, there is a story that the gods won the world of heaven."
 
-"Viṣṇu is the greatest of the gods; Agni is the smallest; the other deities are between them (Ait. Brā. 1-1). There is also the statement that Viṣṇu is the guardian of the gods' door (Ait. Brā. 1-30); in this context the mantra 1-154-? is quoted, saying that with his friend, Viṣṇu opened the door of the cowpens."
+"Viṣṇu is the greatest of the gods; Agni is the smallest; the other deities are between them (Ait. Brā. 1-1). There is also the statement that Viṣṇu is the guardian of the gods' door (Ait. Brā. 1-30); in this context the mantra 1-156-4 is quoted, saying that with his friend, Viṣṇu opened the door of the cowpens."
 
 ### Vivasvān
 
-**Vivasvān.** "There is no separate sūkta praising Vivasvat; but his name occurs about thirty times. He is the father of the Aśvins (10-17-2) and of Yama (10-14-5; 10-17-1), and the father of Manu, the first man of mankind. This Manu has the name **Vaivasvata** ('son of Vivasvat') (Vāl. 4-1 [?]). In the Atharvaveda and the Śatapatha Brāhmaṇa Manu has the title *Vaivasvata*. Manu is a descendant of the Āditya Vivasvān (Tai. Saṃ. 6-5-6-2; Śat. Brā. 3-1-3-4). Sometimes it is said that the deities too were born of Vivasvat (10-63-1). Saraṇyū, the daughter of Tvaṣṭṛ, is Vivasvat's wife (10-17-1 and 2)."
+**Vivasvān.** "There is no separate sūkta praising Vivasvat; but his name occurs about thirty times. He is the father of the Aśvins (10-17-2) and of Yama (10-14-5; 10-17-1), and the father of Manu, the first man of mankind. This Manu has the name **Vaivasvata** ('son of Vivasvat') (Vāl. 4-1). In the Atharvaveda and the Śatapatha Brāhmaṇa Manu has the title *Vaivasvata*. Manu is a descendant of the Āditya Vivasvān (Tai. Saṃ. 6-5-6-2; Śat. Brā. 3-1-3-4). Sometimes it is said that the deities too were born of Vivasvat (10-63-1). Saraṇyū, the daughter of Tvaṣṭṛ, is Vivasvat's wife (10-17-1 and 2)."
 
-"Agni was first seen by Vivasvat and Mātariśvan (1-60-1). In only one place Mātariśvan is Vivasvat's messenger (6-8-4); in all other places Agni is his messenger (1-58-1; 4-7-4; 8-39-3; 10-21-5). Agni was churned out by his mother and father (the two fire-sticks) when Vivasvat became a seer (5-11-3)."
+"Agni was first seen by Vivasvat and Mātariśvan (1-31-3). In only one place Mātariśvan is Vivasvat's messenger (6-8-4); in all other places Agni is his messenger (1-58-1; 4-7-4; 8-39-3; 10-21-5). Agni was churned out by his mother and father (the two fire-sticks) when Vivasvat became a seer (5-11-3)."
 
-"The seat or place of Vivasvat is mentioned in five places. The deities (10-12-2) and Indra (3-51-3) rejoice at that place; there singers sing the praise of Indra (1-53-1; 6-?-2), or sing the glory of the water (10-?-1). The statement that a sūkta was composed on Vivasvat (1-139-1 [?]) must be with this same idea."
+"The seat or place of Vivasvat is mentioned in five places. The deities (10-12-7) and Indra (3-51-3) rejoice at that place; there singers sing the praise of Indra (1-53-1; 3-34-7), or sing the glory of the water (10-75-1). The statement that a sūkta was composed on Vivasvat (1-139-1) must be with this same idea."
 
 ### Printed p. 556 (PDF 572)
 
