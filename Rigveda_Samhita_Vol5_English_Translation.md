@@ -7025,13 +7025,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 56.5 (pp. 386–388, PDF 402–404)
 
-**Saṃhitā-pāṭha** *(p. 386)*
+**Saṃhitā-pāṭha** *(p. 386; accents as printed; the print writes the elided* a *of* 'rṇavam *as a separate letter and underlines it: the anudātta is set on* jo*)*
 
-> **वि यत्तिरो धरुणमच्युतं रजोऽतिष्ठिपो दिव आतासु बर्हणा ।**
-> **स्वर्मीळ्हे यन्मद इन्द्र हर्ष्याहन् वृत्रं निरपामौब्जोऽर्णवम् ॥ ५ ॥**
+> **वि यत्ति॒रो ध॒रुण॒मच्यु॑तं॒ रजोऽतिष्ठिपो॑ दि॒व आता॑सु ब॒र्हणा॑ ।**
+> **स्व॑र्मीळ्हे॒ यन्मद॑ इन्द्र॒ हर्ष्याह॑न् वृ॒त्रं निर॒पामौ॑ब्जो॒ऽर्णवम् ॥ ५ ॥**
 
-*vi yat tiro dharuṇam acyutaṃ rajo 'tiṣṭhipo diva ātāsu barhaṇā |*
-*svarmīḷhe yan mada indra harṣyāhan vṛtraṃ nir apām aubjo 'rṇavam || 5 ||*
+*ví yát tiró dharúṇam ácyutaṃ rájo 'tiṣṭhípo divá ā́tāsu barháṇā |*
+*svàrmīḷhe yán máda indra harṣyā́han vṛtráṃ nír apā́m aubjo 'rṇavam || 5 ||*
 
 **Pada-pāṭha** *(p. 386)*
 
@@ -7043,11 +7043,11 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Sāyaṇa-bhāṣya** *(p. 386–387)*
 
-> **यद्यदा तिरो वृत्रेण तिरोहितं धरुणं सर्वस्य प्राणिजातस्य धारकमच्युतं विनाशरहितं रज उदकं दिवो द्युलोकादातासु । आता इति दिङ्नाम । आशासु विस्तृतासु दिक्षु हे इन्द्र बर्हणा हन्ता त्वं व्यतिष्ठिपो विविधं स्थापयाम् चकृषे । तथा यद्यदा स्वर्मीळ्हे । मीळ्हमिति धननाम । स्वः सुष्ठु गन्तव्यं मीळ्हं धनं यस्मिन् तस्मिन्संग्रामे मदे तव सोमपानेन हर्षे सति हर्ष्या हृष्टया शक्त्या वृत्रमावरकमसुरमहन् त्वमवधीः । तदानीमपां पूर्णमर्णवं मेघं निरौब्जः । वर्षणाभिमुखमधोमुखमकार्षीः । वृष्टेरावरकं वृत्रं हत्वा वृष्टिजलेन भूमिं न्यसैञ्चेरिति तात्पर्यार्थः ॥**
+> **यद्यदा तिरो वृत्रेण तिरोहितं धरुणं सर्वस्य प्राणिजातस्य धारकमच्युतं विनाशरहितं रज उदकं दिवो द्युलोकादातासु । आता इति दिङ्नाम । आशासु विस्तृतासु दिक्षु हे इन्द्र बर्हणा हन्ता त्वं व्यतिष्ठिपो विविधं स्थापयाम् चकृषे । तथा यद्यदा स्वर्मीळ्हे । मीळ्हमिति धननाम । स्वः सुष्ठु गन्तव्यं मीळ्हं धनं यस्मिन् तस्मिन्संग्रामे मदे तव सोमपानेन हर्षे सति हर्ष्या हृष्टया शक्त्या वृत्रमावरकमसुरमहन् त्वमवधीः । तदानीमपां पूर्णमर्णवं मेघं निरौब्जः । वर्षणाभिमुखमधोमुखमकार्षीः । वृष्टेरावरकं वृत्रं हत्वा वृष्टिजलेन भूमिं न्यसैक्षीरिति तात्पर्यार्थः ॥**
 
-*yad yadā tiro vṛtreṇa tirohitaṃ dharuṇaṃ sarvasya prāṇijātasya dhārakam acyutaṃ vināśarahitaṃ raja udakaṃ divo dyulokād ātāsu | ātā iti diṅnāma | āśāsu vistṛtāsu dikṣu he indra barhaṇā hantā tvaṃ vyatiṣṭhipo vividhaṃ sthāpayām cakṛṣe | tathā yad yadā svarmīḷhe | mīḷham iti dhananāma | svaḥ suṣṭhu gantavyaṃ mīḷhaṃ dhanaṃ yasmin tasmin saṃgrāme made tava somapānena harṣe sati harṣyā hṛṣṭayā śaktyā vṛtram āvarakam asuram ahan tvam avadhīḥ | tadānīm apāṃ pūrṇam arṇavaṃ megham niraubjaḥ | varṣaṇābhimukham adhomukham akārṣīḥ | vṛṣṭer āvarakaṃ vṛtraṃ hatvā vṛṣṭijalena bhūmiṃ nyasaiñceriti tātparyārthaḥ ||*
+*yad yadā tiro vṛtreṇa tirohitaṃ dharuṇaṃ sarvasya prāṇijātasya dhārakam acyutaṃ vināśarahitaṃ raja udakaṃ divo dyulokād ātāsu | ātā iti diṅnāma | āśāsu vistṛtāsu dikṣu he indra barhaṇā hantā tvaṃ vyatiṣṭhipo vividhaṃ sthāpayām cakṛṣe | tathā yad yadā svarmīḷhe | mīḷham iti dhananāma | svaḥ suṣṭhu gantavyaṃ mīḷhaṃ dhanaṃ yasmin tasmin saṃgrāme made tava somapānena harṣe sati harṣyā hṛṣṭayā śaktyā vṛtram āvarakam asuram ahan tvam avadhīḥ | tadānīm apāṃ pūrṇam arṇavaṃ megham niraubjaḥ | varṣaṇābhimukham adhomukham akārṣīḥ | vṛṣṭer āvarakaṃ vṛtraṃ hatvā vṛṣṭijalena bhūmiṃ nyasaikṣīr iti tātparyārthaḥ ||*
 
-*(Reading note: the last clause "*vṛṣṭijalena bhūmiṃ nyasaiñceḥ*" is printed "*nyasyairiti*", crowded, [?]. The grammatical tail is characterized: on* atiṣṭhipaḥ *(*ṣṭhā*, *ṇic* with *arti-hrī…*: *puk*; *luṅ*, *ciṇ*; *ṇeraniṭi*; *ṣṭhā* reduplicated *tiṣṭhip*; the loss of *s*),* barhaṇā *(*supāṃ suluk*),* svarmīḷhe *(*mih secane*, *kta*; *hoḍhaḥ*, *jhaṣastathoḥ*; bahuvrīhi),* ahan *(*han*, *laṅ*, *sip*),* aubjaḥ *(*ubja ārjave*, *laṅ*, *śap*, *vṛddhi*)).)*
+*(The last clause reads "*vṛṣṭijalena bhūmiṃ nyasaikṣīr iti*" in the print. The grammatical tail is characterized: on* atiṣṭhipaḥ *(*ṣṭhā*, *ṇic* with *arti-hrī…*: *puk*; *luṅ*, *ciṇ*; *ṇeraniṭi*; *ṣṭhā* reduplicated *tiṣṭhip*; the loss of *s*),* barhaṇā *(*supāṃ suluk*),* svarmīḷhe *(*mih secane*, *kta*; *hoḍhaḥ*, *jhaṣastathoḥ*; bahuvrīhi),* ahan *(*han*, *laṅ*, *sip*),* aubjaḥ *(*ubja ārjave*, *laṅ*, *śap*, *vṛddhi*)).)*
 
 **Translation of the bhāṣya:** "When, O Indra, *tiraḥ*, concealed by Vṛtra, *dharuṇam*, the sustainer of all living beings, *acyutam*, undecaying, *rajaḥ*, the water, *divaḥ ātāsu*, from the sky, in the wide quarters (*ātā* is a name for quarter) — you, the slayer, *vi atiṣṭhipaḥ*, distributed in many ways; and when, *svarmīḷhe*, in the battle in which a good prize is to be won (*mīḷha* is a name for wealth), *made*, delighted by drinking soma, *harṣyā*, with gladdened power, you *ahan*, slew Vṛtra the coverer, then you *nir aubjaḥ*, turned down towards the earth the cloud, *arṇavam*, full of waters, for rain: by killing the obstructer of rain you drenched the earth with rain-water — such is the sense."
 
@@ -7055,14 +7055,14 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Bhāvārtha** *(p. 387)* — "O Indra, destroyer of enemies: when you freed the water that Vṛtra had hidden — life-sustaining, undecaying — and spread it in the wide quarters of heaven; and when, in battle for wealth, delighted with soma, you killed Vṛtra with your gladdened strength, then you made the water-filled cloud pour down, and made an ocean of rain."
 
-**English Translation (the source's own, p. 387)** — "When you, destroying Vritra, distributed the hidden, life-sustaining, undecaying waters through the different quarters of the heaven, then, animated (by the Soma-juice) you engaged in battle, and with exulting (prowess) slew Vritra and sent down an ocean of waters." *(The printed "destroying India" is for "destroying Indra"/"Vritra"; I reproduce it as printed, [sic].)*
+**English Translation (the source's own, p. 387)** — "When you, destroying India [sic], distributed the hidden, life-sustaining, undecaying waters through the different quarters of the heaven, then, animated (by the Soma-juice) you engaged in battle, and with exulting (prowess) slew Vritra and sent down an ocean of waters." *(The printed "destroying India" is for "destroying Indra"/"Vritra"; I reproduce it as printed, [sic].)*
 
 **Special Topics (pp. 387–388)** — **tiraḥ** "an epithet of *rajas* (water): concealed by Vṛtra." **ātāsu** "in the Nirukta eight words such as *ātāḥ*, *āśāḥ* are read as names of the quarters: in the wide quarters." **svarmīḷhe** "*mīḷham* is a name of wealth in the Nirukta; a battle in which one gains wealth." **aubjaḥ** "*varṣaṇābhimukham adhomukham akārṣīḥ*: having killed Vṛtra who hindered the rain, you made the rain fall on the earth, and preserved the earth-world."
 
 **Vyākaraṇa-prakriyā** *(pp. 388–389 — grammar pages, noted briefly)*
-- **atiṣṭhipaḥ**: *ṣṭhā gatinivṛttau*; *hetumati ca*: *ṇic*; *s* for *ṣ* at the beginning; *arti-hrī-vlī-rī-knūyī-kṣmāyy-ātāṃ puṅ ṇau* (Pā. 7-3-36): *puk*; *luṅ* second singular *sip*; *itaś ca*; *ṇiśridrusrubhyaḥ*: *caṅ*; *ṇeraniṭi*: *ṇic* dropped; *caṅi*: reduplication; *hrasvaḥ*; *śarpūrvāḥ khayaḥ*: *th* remains; *tiṣṭhater it*: *i*; *abhyāse carca*: *t*; *ṣatva*; *ru*, *visarga*; *aṭ*; *yat* before: no *nighāta*; initial-acute by *aṭ*.
+- **atiṣṭhipaḥ**: *ṣṭhā gatinivṛttau*; *hetumati ca*: *ṇic*; *s* for *ṣ* at the beginning; *arti-hrī-vlī-rī-knūyī-kṣmāyy-ātāṃ puṅ ṇau* (Pā. 7-3-36): *puk*; *luṅ* second singular *sip*; *itaś ca*; *ṇiśridrusrubhyaḥ* (Pā. sū. 3-1-48): *caṅ*; *ṇeraniṭi*: *ṇic* dropped; *caṅi* (Pā. sū. 6-1-11): reduplication; *hrasvaḥ*; *śarpūrvāḥ khayaḥ* (Pā. sū. 7-4-61): *th* remains; *tiṣṭhater it* (Pā. sū. 7-4-5): *i*; *abhyāse carca*: *t*; *ṣatva*; *ru*, *visarga*; *aṭ*; *yat* before: no *nighāta*; initial-acute by *aṭ*.
 - **barhaṇā**: *supāṃ suluk…*: *ā* for the case ending.
-- **svarmīḷhe**: *mih secane*; *kta*; *hoḍhaḥ*: *ḍh*; *jhaṣastathor dho 'dhaḥ*: *dh*; *ṣṭunā ṣṭuḥ*; *ḍhoḍhe lopaḥ*; *ḍhralope pūrvasya dīrgho 'ṇaḥ*: lengthening: *mīḷha*; *svar* + *mīḷha*: *svar* is *svarita* (*nyaṅ svarau svaritau*); bahuvrīhi, so the first member's accent; locative.
+- **svarmīḷhe**: *mih secane*; *kta*; *hoḍhaḥ* (Pā. sū. 8-2-31): *ḍh*; *jhaṣastathor dho 'dhaḥ* (Pā. sū. 8-2-40): *dh*; *ṣṭunā ṣṭuḥ*; *ḍhoḍhe lopaḥ* (Pā. sū. 8-3-13); *ḍhralope pūrvasya dīrgho 'ṇaḥ* (Pā. sū. 6-3-111): lengthening: *mīḷha*; *svar* + *mīḷha*: *svar* is *svarita* (*nyaṅ svarau svaritau*); bahuvrīhi, so the first member's accent; locative.
 - **ahan**: *han*; *laṅ* second singular *sip*; *itaś ca*: loss; *hal-ṅyābbhyaḥ*: loss of *s*; *saṃyogāntalopa*; *aṭ*; *yat* before: no *nighāta*.
 - **aubjaḥ**: *ubja ārjave*, *tudādi*; *laṅ* second singular; *śa*; *āḍ ajādīnām*, *āṭaś ca*: *vṛddhi*; *ru*, *visarga*; *nighāta*. **|| 5 ||**
 
