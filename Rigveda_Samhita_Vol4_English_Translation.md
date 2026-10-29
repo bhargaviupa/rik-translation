@@ -11089,13 +11089,15 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 46.12 (p. 599 foot, PDF 613–)
 
-**Saṃhitā-pāṭha** *(p. 599; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 599)*
 
-> **तत्तदिदश्विनोरवो जरिता प्रति भूषति ।**
-> **मदे सोमस्य पिप्रतोः ॥ १२ ॥**
+> **तत्त॒दिद॒श्विनो॒रवो॑ जरि॒ता प्रति॑ भूषति ।**
+> **मदे॒ सोम॑स्य॒ पिप्र॑तोः ॥ १२ ॥**
 
-*tat tad id aśvinor avo jaritā prati bhūṣati |*
-*made somasya pipratoḥ || 12 ||*
+*tat tad íd aśvínor ávo jaritā́ práti bhūṣati |*
+*made sómasya pípratoḥ || 12 ||*
+
+*(Saṃhitā accents as printed; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 599)*
 
@@ -11115,11 +11117,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 600)*
 
-> **जरिता स्तोता श्विनोः [sic: अश्विनोः] सम्बन्धि तत्तदित् पुनःपुनः कृतं सर्वमस्यावोऽस्मद्विषयं [?] रक्षणं प्रति भूषति । प्रत्येकमलंकरोति । तदा तदा प्रशंसतीत्यर्थः । कीदृशयोरश्विनोः । मदे हर्षे निमित्तभूते सति सोमस्य पिप्रतोः सोमं पूरयतोः ॥ भूषति । भूष अलंकारे । भौवादिकः । पिप्रतोः । प्या पालनपूरणयोः । पॄ इत्येके । अस्माल्लटः शतृ । जुहोत्यादित्वाच्छपः श्लुः । द्विर्भावोरदत्वहलादिशेषाः । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वं । शतुर्जित्त्वाद्गुणाभावे यणादेशः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥**
+> **जरिता स्तोताऽश्विनोः सम्बन्धि तत्तदित् पुनःपुनः कृतं सर्वमस्यवोऽस्मद्विषयं रक्षणं प्रति भूषति । प्रत्येकमलंकरोति । तदा तदा प्रशंसतीत्यर्थः । कीदृशयोरश्विनोः । मदे हर्षे निमित्तभूते सति सोमस्य पिप्रतोः सोमं पूरयतोः ॥ भूषति । भूष अलंकारे । भौवादिकः । पिप्रतोः । प्या पालनपूरणयोः । पॄ इत्येके । अस्माल्लटः शतृ । जुहोत्यादित्वाच्छपः श्लुः । द्विर्भावोरदत्वहलादिशेषाः । अर्तिपिपर्त्योश्चेत्यभ्यासस्येत्वं । शतुर्जित्त्वाद्गुणाभावे यणादेशः । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥**
 
-*jaritā stotā śvinoḥ [sic: aśvinoḥ] sambandhi tattad it punaḥ punaḥ kṛtaṃ sarvam asyāvo 'smadviṣayaṃ [?] rakṣaṇaṃ prati bhūṣati | pratyekam alaṃkaroti | tadā tadā praśaṃsatīty arthaḥ | kīdṛśayor aśvinoḥ | made harṣe nimittabhūte sati somasya pipratoḥ somaṃ pūrayatoḥ || bhūṣati | bhūṣa alaṃkāre | bhauvādikaḥ | pipratoḥ | pyā pālanapūraṇayoḥ | pṝ ity eke | asmāl laṭaḥ śatṛ | juhotyāditvāc chapaḥ śluḥ | dvirbhāvoradatvahalādiśeṣāḥ | artipipartyoś cety abhyāsasyetvaṃ | śator jittvād guṇābhāve yaṇādeśaḥ | abhyastānām ādir ity ādyudāttatvaṃ ||*
+*jaritā stotā 'śvinoḥ sambandhi tattad it punaḥ punaḥ kṛtaṃ sarvam asyavo 'smadviṣayaṃ rakṣaṇaṃ prati bhūṣati | pratyekam alaṃkaroti | tadā tadā praśaṃsatīty arthaḥ | kīdṛśayor aśvinoḥ | made harṣe nimittabhūte sati somasya pipratoḥ somaṃ pūrayatoḥ || bhūṣati | bhūṣa alaṃkāre | bhauvādikaḥ | pipratoḥ | pyā pālanapūraṇayoḥ | pṝ ity eke | asmāl laṭaḥ śatṛ | juhotyāditvāc chapaḥ śluḥ | dvirbhāvoradatvahalādiśeṣāḥ | artipipartyoś cety abhyāsasyetvaṃ | śator jittvād guṇābhāve yaṇādeśaḥ | abhyastānām ādir ity ādyudāttatvaṃ ||*
 
-*(The print has "śvinoḥ" for "aśvinoḥ" and "asyāvo" where the sense wants "aśvinor avo"; both kept as read, [?]. The root is printed "pyā" with the remark "pṝ, say some".)*
+*(The print has "stotā'śvinoḥ" (with avagraha) and "sarvamasyavo 'smadviṣayaṃ", where the sense wants "avo" (protection); kept as printed. The root is printed "pyā" with the remark "pṝ, say some".)*
 
 **Translation:** "*Jaritā*, the praiser, of the Aśvins' (concerned): *tat-tad it*, every one of the things done again and again, every protection towards us, *prati bhūṣati*, adorns one by one — that is, praises each time. What kind of Aśvins? *Made somasya pipratoḥ*: when joy is the occasion, filling (drinking) the Soma. *Bhūṣati*: root *bhūṣa alaṃkāre*, of the *bhvādi* class. *Pipratoḥ*: root *pṝ pālanapūraṇayoḥ* (some read *pṛ*); *śatṛ* after *laṭ*; *ślu* for *śap*; doubling, *a* for *ṛ*, the remaining initial consonant; *i* for the *abhyāsa*; because *śatṛ* is *jit*, *guṇa* is absent and *yaṇ* comes; the initial acute by *abhyastānām ādiḥ*."
 
