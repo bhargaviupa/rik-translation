@@ -6,11 +6,12 @@ Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā acce
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
 Part (2): done through end of Sūkta 31 (Ṛk 31.18 and colophon, p. 587 = PDF 601); anāhitāgni note moved into Ṛk 31.15 (done).
-Part (2): Sūkta 32 introduction, Ṛks 32.1–32.10 done (p. 626 = PDF 640).
-Next unit: Ṛk 32.11 (heading "Pages 627–633", PDF 641–). Then 32.12–32.15 and the adhyāya colophon (p. 647 = PDF 660; p. 646 only in the old scan, its PDF 661). Watch for last lines cut off in the better scan (pp. 593, 597, 599, 607, 610 so far): check the old scan (PDF = printed + 15). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
+Part (2): Sūkta 32 introduction, Ṛks 32.1–32.11 done (p. 633 upper = PDF 647).
+Next unit: Ṛk 32.12 (heading "Pages 633–637", Saṃhitā on p. 633 = PDF 647). Then 32.13–32.15 and the adhyāya colophon (p. 647 = PDF 660; p. 646 only in the old scan, its PDF 661). Watch for last lines cut off in the better scan (pp. 593, 597, 599, 607, 610 so far): check the old scan (PDF = printed + 15). Saṃhitās of Sūkta 32 are inline in the file: use tools/sam_w3.py.
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
+- p. 627: Ṛk 32.11 line-2 [accent ?]; p. 631 Paṇi list: 1-1[8?]0-7 (blot), 10-108-2 (out of order as printed), 1-134-10.
 - p. 623: Ṛk 32.10 line-1 [accent ?] (शरीरं stroke).
 - p. 619: Ṛk 32.9 line-1 [accent ?]; p. 622: U. sū. 3-312 last digit (2, some doubt; bhāṣya prints उ. ३-३२).
 - p. 615: Ṛk 32.8 line-1 [accent ?] (stroke over प of यन्त्यापः).
