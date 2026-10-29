@@ -5,10 +5,12 @@ incl. moving the *anāhitāgni* "Restored note" into Ṛk 31.15 (p. 576). Branch
 Scope: local corrections only (numerals, [?], clear misreadings, Saṃhitā accents).
 
 Done through: part (1) complete — end of Sūkta 29 and the Sūkta 30 heading/introduction (p. 458 = old-scan PDF 473).
-Next unit: part (2), Ṛk 31.4 (p. 534 = PDF 548).
+Part (2): done through Ṛk 31.4 (p. 539 upper = PDF 553).
+Next unit: Ṛk 31.5 (pp. 539–542 = PDF 553–556; p. 539 already rendered at 150 dpi, Saṃhitā at the foot).
 Accents deferred: none (all Sūkta 28 Saṃhitās set, several with [accent ?]).
 
 ## Open items
+- p. 534: Ṛk 31.4 line-1 [accent ?]; p. 537 quotation मी [?]; p. 535 bhāṣya उ. ४-१३१ vs grammar U. sū. 4-671.
 - p. 443: bhāṣya prints नि. ९-१७ (first digit ೯-like) where the grammar (p. 444) prints Niru. 6-17.
 - p. 441: Pā. 3-2-74 middle-last digit 7 (flat foot) read with some doubt; Ni. 3-9 as printed.
 - pp. 447: 8-3-48 and 6-1-137 kept "as printed" (for 8-3-98, 6-3-137).
