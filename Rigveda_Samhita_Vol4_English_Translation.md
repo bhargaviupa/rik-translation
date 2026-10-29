@@ -10911,11 +10911,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 591)*
 
-> **हे अश्विनौ वां युवयोर्दिवस्पृथु द्युलोकादपि विस्तीर्णमरित्रं गमनसाधनं नौरूपं सिन्धूनां समुद्राणां तीर्थेऽवतरणप्रदेशे विद्यते इति शेषः । रथश्च भूमौ गन्तुं विद्यते । इन्दवः सोमा धिया भवद्विषयेण कर्मणा युयुज्रे । युक्ता बभूवुः ॥ अरित्रं । ऋ गतौ । अर्तिलूधूसूखनसहचर इत्रः । पा. ३-२-१८४ [?] । इति करण इत्रप्रत्ययः । प्रत्ययस्वरः । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वं । तीर्थे । तॄ प्लवनतरणयोः । पात्र्यतुदिवचिरिचिसिचिभ्यस्थक् [?] । उ. २-२ [?] । इति थक् । ऋत इद्धातोरिति इत्वं । हलि चेति दीर्घः । युयुज्रे । लिटेरयो रे [?] । पा. ६-४-८२ [?] । इतीरेचो रेआदेशः ॥**
+> **हे अश्विनौ वां युवयोर्दिवस्पृथु द्युलोकादपि विस्तीर्णमरित्रं गमनसाधनं नौरूपं सिन्धूनां समुद्राणां तीर्थेऽवतरणप्रदेशे विद्यते इति शेषः । रथश्च भूमौ गन्तुं विद्यते । इन्दवः सोमा धिया भवद्विषयेण कर्मणा युयुज्रे । युक्ता बभूवुः ॥ अरित्रं । ऋ गतौ । अर्तिलूधूसूखनसहचर इत्रः । पा. ३-२-१८४ । इति करण इत्रप्रत्ययः । प्रत्ययस्वरः । दिवः । ऊडिदमिति विभक्तेरुदात्तत्वं । तीर्थे । तॄ प्लवनतरणयोः । पात्र्यतुदिवचिरिचिसिचिभ्यस्थक् । उ. २-७ । इति थक् । ऋत इद्धातोरिति इत्वं । हलि चेति दीर्घः । युयुज्रे । लिटेरयो रे । पा. ६-४-७६ । इतीरेचो रेआदेशः ॥**
 
-*he aśvinau vāṃ yuvayor divas pṛthu dyulokād api vistīrṇam aritraṃ gamanasādhanaṃ naurūpaṃ sindhūnāṃ samudrāṇāṃ tīrthe 'vataraṇapradeśe vidyate iti śeṣaḥ | rathaś ca bhūmau gantuṃ vidyate | indavaḥ somā dhiyā bhavadviṣayeṇa karmaṇā yuyujre | yuktā babhūvuḥ || aritraṃ | ṛ gatau | artilūdhūsūkhanasahacara itraḥ | pā. 3-2-184 [?] | iti karaṇa itrapratyayaḥ | pratyayasvaraḥ | divaḥ | ūḍidam iti vibhakter udāttatvaṃ | tīrthe | tṝ plavanataraṇayoḥ | pātryatudivacirici…bhyas thak [?] | u. 2-2 [?] | iti thak | ṛta iddhātor iti itvaṃ | hali ceti dīrghaḥ | yuyujre | liṭer ayo re [?] | pā. 6-4-82 [?] | itīreco re ādeśaḥ ||*
+*he aśvinau vāṃ yuvayor divas pṛthu dyulokād api vistīrṇam aritraṃ gamanasādhanaṃ naurūpaṃ sindhūnāṃ samudrāṇāṃ tīrthe 'vataraṇapradeśe vidyate iti śeṣaḥ | rathaś ca bhūmau gantuṃ vidyate | indavaḥ somā dhiyā bhavadviṣayeṇa karmaṇā yuyujre | yuktā babhūvuḥ || aritraṃ | ṛ gatau | artilūdhūsūkhanasahacara itraḥ | pā. 3-2-184 | iti karaṇa itrapratyayaḥ | pratyayasvaraḥ | divaḥ | ūḍidam iti vibhakter udāttatvaṃ | tīrthe | tṝ plavanataraṇayoḥ | pātryatudivacirici…bhyas thak | u. 2-7 | iti thak | ṛta iddhātor iti itvaṃ | hali ceti dīrghaḥ | yuyujre | liṭerayo re | pā. 6-4-76 | itīreco re ādeśaḥ ||*
 
-*(The Uṇādi rule-name and the two numbers marked [?] are crowded; the form of the* liṭ *rule is partly legible only.)*
+*("liṭerayo re" as printed, for* irayo re*; the Uṇādi rule-name's first letters are crowded.)*
 
 **Translation:** "O Aśvins, your *aritram*, boat-vessel, a means of going, *divas pṛthu*, wider than even heaven, exists at the *tīrthe*, the landing-place, *sindhūnām*, of the seas (so the sentence is completed); and the chariot exists, for going on the earth. *Indavaḥ*, the Soma drops, *dhiyā*, by rites concerned with you, *yuyujre*, have been joined (made ready)."
 
@@ -10933,10 +10933,10 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - The Kannada author adds: "In this ṛk, because the case-endings are not in order, and also because they are as they are, the sense does not fit properly without supplying some words (*adhyāhāra*)."
 
 **Vyākaraṇa-prakriyā** *(p. 592 — grammar page, noted briefly)*
-- **aritram**: root *ṛ gatau*; *artilūdhūsūkhanasahacara itraḥ* (Uṇ. 3-2-18[?] as read [?]) — the suffix *itra*; *guṇa*; the suffix-accent.
+- **aritram**: root *ṛ gatau*; *artilūdhūsūkhanasahacara itraḥ* (Uṇ. Sū. 3-2-184, as printed) — the suffix *itra*; *guṇa*; the suffix-accent.
 - **divaḥ**: *ūḍidampadādyap…* — the case-ending is acute.
-- **tīrthe**: root *tṝ plavanataraṇayoḥ*; the Uṇādi rule *pātrytudivacirici-sicibhyaḥ thak* (as printed, crowded, [?]) gives the suffix *thak*; *kṅiti ca* forbids *guṇa*; *ṛta iddhātoḥ* (Pā. 7-1-100 as read) gives *ir* (*i* with *repha*); *hali ca* lengthens.
-- **yuyujre**: root *yuj*, *liṭ*, *jha*; *liṭas tajhayor eśirec* gives *irec* for *jha*; doubling; *irayo re* (Pā. 6-4-76 as read) — in the Chandas *re* replaces *ire*: *re* for *irec*; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 8 ||**
+- **tīrthe**: root *tṝ plavanataraṇayoḥ*; the Uṇādi rule *pātrytudivacirici-sicibhyaḥ thak* (Uṇ. Sū. 2-164) gives the suffix *thak*; *kṅiti ca* forbids *guṇa*; *ṛta iddhātoḥ* gives *ir* (*i* with *repha*); *hali ca* lengthens.
+- **yuyujre**: root *yuj*, *liṭ*, *jha*; *liṭas tajhayor eśirec* gives *irec* for *jha*; doubling; *irayo re* (Pā. Sū. 6-4-76) — in the Chandas *re* replaces *ire*: *re* for *irec*; *tiṅ atiṅaḥ* gives the all-unaccented. **|| 8 ||**
 
 ---
 
