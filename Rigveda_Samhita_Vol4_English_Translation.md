@@ -5714,12 +5714,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 38.10 (pp. 319–321, PDF 333–335)
+### Rik 38.10 (pp. 319–321, PDF 334–336)
 
-**Saṃhitā-pāṭha** *(p. 319; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 319 = PDF 334 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **अध स्वनान्मरुतां विश्वमा सद्म पार्थिवम् ।**
-> **अरेजन्त प्र मानुषाः ॥ १० ॥**
+> **अध॑ स्व॒नान्म॒रुतां॒ विश्व॒मा सद्म॒ पार्थि॑वम् ।**
+> **अरे॑जन्त॒ प्र मानु॑षाः ॥ १० ॥**
 
 *adha svanān marutāṃ viśvam ā sadma pārthivam |*
 *arejanta pra mānuṣāḥ || 10 ||*
@@ -5734,11 +5734,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Sāyaṇa-bhāṣya** *(pp. 319–320)*
 
-> **मरुतां सम्बन्धिनः स्वनादध ध्वनेर्गर्जनरूपादनन्तरं पार्थिवं पृथिवीसम्बन्धि विश्वं सद्म सर्वं गृहमा समन्तादरेजतेति शेषः । तथा मानुषा गृहवर्तिनो मनुष्या अपि प्रारेजन्त । प्रकर्षेण कम्पितवन्तः ॥ अध । छान्दसं ध्त्वं । सद्म । षद्लृ विशरणगत्यवसादनेषु । अन्येभ्योऽपि दृश्यन्ते इति मनिन् । पार्थिवं । पृथिव्याः सम्बन्धि । पृथिव्या ञाञौ । पा. ४-१-८४ [?] । इति प्राग्दीव्यतीयोऽञ्प्रत्ययः । ञित्त्वादाद्युदात्तत्वं । अरेजन्त । रेजृ कम्पने ॥**
+> **मरुतां सम्बन्धिनः स्वनादध ध्वनेर्गर्जनरूपादनन्तरं पार्थिवं पृथिवीसम्बन्धि विश्वं सद्म सर्वं गृहमा समन्तादरेजतेति शेषः । तथा मानुषा गृहवर्तिनो मनुष्या अपि प्रारेजन्त । प्रकर्षेण कम्पितवन्तः ॥ अध । छान्दसं ध्त्वं । सद्म । षद्लृ विशरणगत्यवसादनेषु । अन्येभ्योऽपि दृश्यन्ते इति मनिन् । पार्थिवं । पृथिव्याः सम्बन्धि । पृथिव्या ञाञौ । पा. ४-१-८४ [?] । इति प्राग्दीव्यतीयोऽञ्प्रत्ययः । ञित्त्वादाद्युदात्तत्वं । अरेजन्त । रेजृ कम्पने ॥ १६ ॥**
 
-*marutāṃ sambandhinaḥ svanād adha dhvaner garjanarūpād anantaraṃ pārthivaṃ pṛthivīsambandhi viśvaṃ sadma sarvaṃ gṛham ā samantād arejateti śeṣaḥ | tathā mānuṣā gṛhavartino manuṣyā api prārejanta | prakarṣeṇa kampitavantaḥ || adha | chāndasaṃ dhtvaṃ | sadma | ṣadḷ viśaraṇagatyavasādaneṣu | anyebhyo 'pi dṛśyante iti manin | pārthivaṃ | pṛthivyāḥ sambandhi | pṛthivyā ñāñau | pā. 4-1-84 [?] | iti prāgdīvyatīyo 'ñpratyayaḥ | ñittvād ādyudāttatvaṃ | arejanta | rejṛ kampane ||*
+*marutāṃ sambandhinaḥ svanād adha dhvaner garjanarūpād anantaraṃ pārthivaṃ pṛthivīsambandhi viśvaṃ sadma sarvaṃ gṛham ā samantād arejateti śeṣaḥ | tathā mānuṣā gṛhavartino manuṣyā api prārejanta | prakarṣeṇa kampitavantaḥ || adha | chāndasaṃ dhtvaṃ | sadma | ṣadḷ viśaraṇagatyavasādaneṣu | anyebhyo 'pi dṛśyante iti manin | pārthivaṃ | pṛthivyāḥ sambandhi | pṛthivyā ñāñau | pā. 4-1-85 | iti prāgdīvyatīyo 'ñpratyayaḥ | ñittvād ādyudāttatvaṃ | arejanta | rejṛ kampane || 16 ||*
 
-**Translation:** "*Adha* — then, after the *svanāt*, the sound [belonging to the Maruts], their sound in the form of thunder — *pārthivam*, belonging to the earth — *viśvam sadma*, every house — *ā*, all round, *arejata* ['shook': so the remainder is supplied]. Likewise *mānuṣāḥ*, men dwelling in houses, *prārejanta* — shook greatly. *Adha*: the *dha* [for *tha*] is Vedic. *Sadma*: root *ṣadḷ* in the senses of dissolving, going, sinking; *manin* by *anyebhyo 'pi dṛśyante*. *Pārthivam*: 'belonging to the earth'; the suffix *añ* of the *prāgdīvyatīya* group after *pṛthivī* by the vārttika *pṛthivyā ñāñau* [Pā. 4-1-84 [?]]; being *ñit* it is first-syllable acute. *Arejanta*: root *rejṛ kampane*."
+**Translation:** "*Adha* — then, after the *svanāt*, the sound [belonging to the Maruts], their sound in the form of thunder — *pārthivam*, belonging to the earth — *viśvam sadma*, every house — *ā*, all round, *arejata* ['shook': so the remainder is supplied]. Likewise *mānuṣāḥ*, men dwelling in houses, *prārejanta* — shook greatly. *Adha*: the *dha* [for *tha*] is Vedic. *Sadma*: root *ṣadḷ* in the senses of dissolving, going, sinking; *manin* by *anyebhyo 'pi dṛśyante*. *Pārthivam*: 'belonging to the earth'; the suffix *añ* of the *prāgdīvyatīya* group after *pṛthivī* by the vārttika *pṛthivyā ñāñau* [Pā. 4-1-85]; being *ñit* it is first-syllable acute. *Arejanta*: root *rejṛ kampane*."
 
 **Pratipadārtha** *(p. 320)* — "**marutām** — of the Maruts; **svanād adha** — immediately upon the sound in the form of thunder; **pārthivam** — belonging to the earth-world; **viśvaṃ sadma** — every house too; **ā** (**arejata**) — shook all round (even so); **mānuṣāḥ** — all the men (who dwell in the houses) too; **prārejanta** — trembled completely."
 
@@ -5752,8 +5752,8 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Vyākaraṇa-prakriyā** *(pp. 320–321 — grammar page, noted briefly)*
 - **adha**: the *tha* of the word *atha* has become *dha* by Vedic usage.
-- **sadma**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; by *dhātvādeḥ ṣaḥ saḥ* the *s*; *anyebhyo 'pi dṛśyante* — अन्येभ्योऽपि दृश्यन्ते — [Pā. 3-2-75 as read [?]]: the four suffixes *manin*, *kvanip*, *vanip*, *vic* are seen after roots also [other than the ones taught]; so *manin*; the suffix being *nit*, the print says *pratyayānta ādyudātta* ("the end of the suffix: first-syllable acute") — as printed.
-- **pārthivam**: *prath prakhyāne*; *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् सम्प्रसारणं च — [Uṇ. 1-154 [?], as read]: the suffix *ṣivan* after *prath*, with *saṃprasāraṇa* of the *r*, giving *ṛ*: *pṛthiv-*; *ṣidgaurādibhyaś ca* — षिद्गौरादिभ्यश्च — [Pā. 4-1-41 as read [?]]: *ṅīṣ* after a root with indicatory *ṣ* and after the *gaurādi* group: *pṛthivī*; *pṛthivyā ñāñau* — the vārttika [Pā. 4-1-83, vārttika 2 [?], as read]: in the *prāgdīvyatīya* senses the suffixes *ñ* and *añ* come after the word *pṛthivī*; so *añ*: *pṛthivī + a*; *yasyeti ca* the loss of *ī*; *taddhiteṣv acām ādeḥ* — तद्धितेष्वचामादेः — [Pā. 7-2-117 as read [?]]: when a *ñit* or *ṇit* suffix follows, the first vowel of the base takes *vṛddhi*: *ṛ* → *ār*: *pārthiva*; the *taddhita* suffix is *ñit*; *ñnityādir nityam* — ञ्नित्यादिर्नित्यम् — [Pā. 6-1-197] gives the first-syllable acute; accusative singular.
+- **sadma**: root *ṣadḷ viśaraṇagatyavasādaneṣu*; by *dhātvādeḥ ṣaḥ saḥ* the *s*; *anyebhyo 'pi dṛśyante* — अन्येभ्योऽपि दृश्यन्ते — [Pā. Sū. 3-2-75]: the four suffixes *manin*, *kvanip*, *vanip*, *vic* are seen after roots also [other than the ones taught]; so *manin*; the suffix being *nit*, the print says *pratyayānta ādyudātta* ("the end of the suffix: first-syllable acute") — as printed.
+- **pārthivam**: *prath prakhyāne*; *pratheḥ ṣivan saṃprasāraṇaṃ ca* — प्रथेः षिवन् सम्प्रसारणं च — [U. Sū. 1-148, as printed]: the suffix *ṣivan* after *prath*, with *saṃprasāraṇa* of the *r*, giving *ṛ*: *pṛthiv-*; *ṣidgaurādibhyaś ca* — षिद्गौरादिभ्यश्च — [Pā. Sū. 4-1-41]: *ṅīṣ* after a root with indicatory *ṣ* and after the *gaurādi* group: *pṛthivī*; *pṛthivyā ñāñau* — the vārttika [Pā. Sū. 4-1-85-2, as printed]: in the *prāgdīvyatīya* senses the suffixes *ñ* and *añ* come after the word *pṛthivī*; so *añ*: *pṛthivī + a*; *yasyeti ca* the loss of *ī*; *taddhiteṣv acām ādeḥ* — तद्धितेष्वचामादेः — [Pā. Sū. 7-2-117]: when a *ñit* or *ṇit* suffix follows, the first vowel of the base takes *vṛddhi*: *ṛ* → *ār*: *pārthiva*; the *taddhita* suffix is *ñit*; *ñnityādir nityam* — ञ्नित्यादिर्नित्यम् — (no number printed) gives the first-syllable acute; accusative singular.
 - **arejanta**: *rejṛ kampane*; *laṅ*, *jha*; *jho 'ntaḥ* the substitute *ant*; *śap*; the augment *aṭ*. Rik 10 ends here (*|| 10 ||*).
 
 ---
