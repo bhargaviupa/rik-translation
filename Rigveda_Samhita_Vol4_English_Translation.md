@@ -7866,12 +7866,12 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 42.3 (pp. 444–447, PDF 458–461)
 
-**Saṃhitā-pāṭha** *(p. 444; Saṃhitā accents as printed; Pada unaccented; the initial अ is unmarked in the print.)*
+**Saṃhitā-pāṭha** *(p. 444; Saṃhitā accents as printed; Pada unaccented; the initial अ is unmarked in the print and taken as udātta in the IAST.)*
 
 > **अप॒ त्यं प॑रिप॒न्थिनं॑ मुषी॒वाणं॑ हुर॒श्चितं॑ ।**
 > **दू॒रमधि॑ स्रु॒तेर॑ज ॥ ३ ॥**
 
-*apa tyáṃ paripanthínaṃ muṣīvā́ṇaṃ huraścítaṃ |*
+*ápa tyáṃ paripanthínaṃ muṣīvā́ṇaṃ huraścítaṃ |*
 *dūrám ádhi srutér aja || 3 ||*
 
 **Pada-pāṭha** *(p. 444)*
@@ -8212,13 +8212,13 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 ### Rik 42.10 (pp. 462–464, PDF 476–478)
 
-**Saṃhitā-pāṭha** *(p. 462; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 462; Saṃhitā accents as printed; Pada unaccented; the initial न is unmarked in the print and taken as udātta in the IAST.)*
 
-> **न पूषणं मेथामसि सूक्तैरभि गृणीमसि ।**
-> **वसूनि दस्ममीमहे ॥ १० ॥**
+> **न पू॒षणं॑ मेथामसि सू॒क्तैर॒भि गृ॑णीमसि ।**
+> **वसू॑नि द॒स्ममी॑महे ॥ १० ॥**
 
-*na pūṣaṇaṃ methāmasi sūktair abhi gṛṇīmasi |*
-*vasūni dasmam īmahe || 10 ||*
+*ná pūṣáṇaṃ methāmasi sūktáir abhí gṛṇīmasi |*
+*vásūni dasmám īmahe || 10 ||*
 
 **Pada-pāṭha** *(p. 462)*
 
@@ -8230,11 +8230,11 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 
 **Sāyaṇa-bhāṣya** *(p. 462)*
 
-> **पूषणं देवं न मेथामसि । वयं न तु निन्दामः । किंतु सूक्तैर्वेदगतैरभि गृणीमसि । सर्वत्र स्तुमः । दस्मं दर्शनीयं पूषणं प्रति वसूनि धनानीमहे । याचामहे ॥ मेथामसि । मेथृ मेधाहिंसनयोः । लटीदन्तो मसिरिति मस इकारागमः । सूक्तैः । सुष्ठु स्तुवते देवताः प्रकाशयन्तीति सूक्तानि । क्तिच्क्तौ च सञ्ज्ञायामिति कर्तरि क्तः । वचि स्वपीत्यादिना सम्प्रसारणं । थाथादिस्वरः । यद्वा । कर्मणि निष्ठा । सूपमानात् क्तः । पा. ६-२-१३९ । इत्युत्तरपदान्तोदात्तत्वं । गृणीमसि । गृ शब्दे । प्वादीनां ह्रस्व इति ह्रस्वत्वं । इदन्तो मसिः । दस्मं । इषियुधीन्धिदसिश्याधूसूभ्यो मक् । उ. १-१४४ [?] । इति मक्प्रत्ययः ॥ १० ॥**
+> **पूषणं देवं न मेथामसि । वयं न तु निन्दामः । किंतु सूक्तैर्वेदगतैरभि गृणीमसि । सर्वत्र स्तुमः । दस्मं दर्शनीयं पूषणं प्रति वसूनि धनानीमहे । याचामहे ॥ मेथामसि । मेथृ मेधाहिंसनयोः । लटीदन्तो मसिरिति मस इकारागमः । सूक्तैः । सुष्ठु स्तुवते देवताः प्रकाशयन्तीति सूक्तानि । क्तिच्क्तौ च सञ्ज्ञायामिति कर्तरि क्तः । वचि स्वपीत्यादिना सम्प्रसारणं । थाथादिस्वरः । यद्वा । कर्मणि निष्ठा । सूपमानात् क्तः । पा. ६-२-१४५ । इत्युत्तरपदान्तोदात्तत्वं । गृणीमसि । गृ शब्दे । प्वादीनां ह्रस्व इति ह्रस्वत्वं । इदन्तो मसिः । दस्मं । इषियुधीन्धिदसिश्याधूसूभ्यो मक् । उ. १-१-१४४ । इति मक्प्रत्ययः ॥ २५ ॥**
 
-*pūṣaṇaṃ devaṃ na methāmasi | vayaṃ na tu nindāmaḥ | kiṃtu sūktair vedagatair abhi gṛṇīmasi | sarvatra stumaḥ | dasmaṃ darśanīyaṃ pūṣaṇaṃ prati vasūni dhanānīmahe | yācāmahe || methāmasi | methṛ medhāhiṃsanayoḥ | laṭīdanto masir iti masa ikārāgamaḥ | sūktaiḥ | suṣṭhu stuvate devatāḥ prakāśayantīti sūktāni | ktickktau ca saṃjñāyām iti kartari ktaḥ | vaci svapīty ādinā samprasāraṇaṃ | thāthādisvaraḥ | yadvā | karmaṇi niṣṭhā | sūpamānāt ktaḥ | pā. 6-2-139 | ity uttarapadāntodāttatvaṃ | gṛṇīmasi | gṛ śabde | pvādīnāṃ hrasva iti hrasvatvaṃ | idanto masiḥ | dasmaṃ | iṣiyudhīndhidasiśyādhūsūbhyo mak | u. 1-144 [?] | iti makpratyayaḥ || 10 ||*
+*pūṣaṇaṃ devaṃ na methāmasi | vayaṃ na tu nindāmaḥ | kiṃtu sūktair vedagatair abhi gṛṇīmasi | sarvatra stumaḥ | dasmaṃ darśanīyaṃ pūṣaṇaṃ prati vasūni dhanānīmahe | yācāmahe || methāmasi | methṛ medhāhiṃsanayoḥ | laṭīdanto masir iti masa ikārāgamaḥ | sūktaiḥ | suṣṭhu stuvate devatāḥ prakāśayantīti sūktāni | ktickktau ca saṃjñāyām iti kartari ktaḥ | vaci svapīty ādinā samprasāraṇaṃ | thāthādisvaraḥ | yadvā | karmaṇi niṣṭhā | sūpamānāt ktaḥ | pā. 6-2-145 | ity uttarapadāntodāttatvaṃ | gṛṇīmasi | gṛ śabde | pvādīnāṃ hrasva iti hrasvatvaṃ | idanto masiḥ | dasmaṃ | iṣiyudhīndhidasiśyādhūsūbhyo mak | u. 1-1-144 [as printed] | iti makpratyayaḥ || 25 ||*
 
-**Translation:** "We do not *methāmasi*, reproach, the god Pūṣan; we do not revile [him]. Rather, *sūktaiḥ*, with the sūktas that belong to the Veda, *abhi gṛṇīmasi*, we praise [him] everywhere. *Dasmam*, to the beautiful-to-see Pūṣan, *vasūni*, riches, *īmahe*, we pray. *Methāmasi*: root *methṛ medhāhiṃsanayoḥ*; the augment *i* for *mas* by *idanto masiḥ*. *Sūktaiḥ*: 'those that well praise, that reveal the deities': *sūktāni*; *kta* in the agent sense by *ktickktau ca saṃjñāyām*; *saṃprasāraṇa* by *vacisvapī…*; the accent by *thāthādi…*; or *niṣṭhā* in the passive sense: by *sūpamānāt ktaḥ* [Pā. 6-2-139] the latter member is final-acute. *Gṛṇīmasi*: root *gṝ śabde*; shortening by *pvādīnāṃ hrasvaḥ*; *mas* taking *i*. *Dasmam*: the suffix *mak* by *iṣiyudhīndhidasiśyādhūsūbhyo mak* [Uṇ. 1-144 [?]]."
+**Translation:** "We do not *methāmasi*, reproach, the god Pūṣan; we do not revile [him]. Rather, *sūktaiḥ*, with the sūktas that belong to the Veda, *abhi gṛṇīmasi*, we praise [him] everywhere. *Dasmam*, to the beautiful-to-see Pūṣan, *vasūni*, riches, *īmahe*, we pray. *Methāmasi*: root *methṛ medhāhiṃsanayoḥ*; the augment *i* for *mas* by *idanto masiḥ*. *Sūktaiḥ*: 'those that well praise, that reveal the deities': *sūktāni*; *kta* in the agent sense by *ktickktau ca saṃjñāyām*; *saṃprasāraṇa* by *vacisvapī…*; the accent by *thāthādi…*; or *niṣṭhā* in the passive sense: by *sūpamānāt ktaḥ* [Pā. 6-2-145] the latter member is final-acute. *Gṛṇīmasi*: root *gṝ śabde*; shortening by *pvādīnāṃ hrasvaḥ*; *mas* taking *i*. *Dasmam*: the suffix *mak* by *iṣiyudhīndhidasiśyādhūsūbhyo mak* [Uṇ. 1-144 [?]]."
 
 **Pratipadārtha** *(p. 463)* — "**pūṣaṇam** — Pūṣan; **na methāmasi** — we do not revile; **sūktaiḥ** — with divine words; **abhi gṛṇīmasi** — we praise [him] on all sides; **dasmam** — the handsome god Pūṣan; **vasūni** — wealth (for wealth); **īmahe** — we pray."
 
@@ -8250,14 +8250,14 @@ In the sūkta before us it is explained in detail that Pūṣan is *pathaspati*.
 - **īmahe** = *yācāmahe* — "since the word *īmahe* is read among the seventeen names of the action of begging, beginning with *yāmi*, *īmahe* means 'we beg, we pray'."
 
 **Vyākaraṇa-prakriyā** *(pp. 463–464 — grammar pages, noted briefly)*
-- **methāmasi**: *methṛ medhāhiṃsanayoḥ*; in the first class it is read *midṛ medṛ medhāhiṃsanayoḥ* [as read]; *svāmin* [the commentator] thinks the root ends in *th*; *laṭ*, *mas*; *śap*; *idanto masi* gives the augment *ik* [*i*]; *ato dīrgho yañi* — अतो दीर्घो यञि — [Pā. 7-3-101 as read] the long vowel: *methāmasi*; wholly unaccented.
-- **sūktaiḥ**: "*suṣṭhu bruvate = well praise the deities*": the root *brūñ vyaktāyāṃ vāci*, *adādi*; *ktic ktau ca saṃjñāyām* [Pā. 3-3-174 as read] *kta* in the sense of the agent; *bruvo vaciḥ* gives the substitute *vaci*; *vacisvapiyajādīnāṃ kiti* [Pā. 6-1-15 as read] the *saṃprasāraṇa*, with *pūrvarūpa* and the long vowel by *savarṇadīrgha*; *thāthaghañktājabitrakāṇām* [Pā. 6-2-144 as read] gives the final-acute for the *kta*-ending latter member. Or, "well spoken by the gods" [*suṣṭhu ucyante devatāḥ ebhiḥ*: by these the gods are well praised]; or in the passive, *niṣṭhā*, with the form as before; by *sūpamānāt ktaḥ* [Pā. 6-2-139 as read], the latter member after the preverb *su*, a *kāraka*, or a word of comparison, ending in *kta*, is final-acute.
-- **gṛṇīmasi**: *gṝ śabde*, *kryādi*; *laṭ*, *mas*, *śnā*; *pvādīnāṃ hrasvaḥ* — प्वादीनां ह्रस्वः — [Pā. 7-3-80 as read]: shortening of the root; *īhalyaghoḥ* — ई हल्यघोः — [Pā. 6-4-113 as read]: *ī* for the *ā* of *śnā* before a *kit* or *ṅit* *sārvadhātuka* beginning with a consonant; *idanto masiḥ* the augment *i*.
-- **dasmam**: *dasu upakṣaye*; *iṣiyudhīndhidasiśyādhūsūbhyo mak* — इषियुधीन्धिदसिश्याधूसूभ्यो मक् — [Uṇ. 1-144 as read [?]]: after the roots *iṣa gatau*, *yudha saṃprahāre*, *ñi indhī dīptau*, *dasu upakṣaye*, *śyai gatau*, *dhūñ kampane* and *sūṅ prāṇigarbhavimocane* the suffix *mak*; hence the suffix accent. Rik 10 ends here (*|| 10 ||*).
+- **methāmasi**: *methṛ medhāhiṃsanayoḥ*; in the first class it is read *midṛ medṛ medhāhiṃsanayoḥ*; *svāmin* [the commentator] thinks the root ends in *th*; *laṭ*, *mas*; *śap*; *idanto masi* gives the augment *ik* [*i*]; *ato dīrgho yañi* — अतो दीर्घो यञि — (no number printed) the long vowel: *methāmasi*; wholly unaccented.
+- **sūktaiḥ**: "*suṣṭhu bruvate = well praise the deities*": the root *brūñ vyaktāyāṃ vāci*, *adādi*; *ktic ktau ca saṃjñāyām* (no number printed) *kta* in the sense of the agent; *bruvo vaciḥ* gives the substitute *vaci*; *vacisvapiyajādīnāṃ kiti* (no number printed) the *saṃprasāraṇa*, with *pūrvarūpa* and the long vowel by *savarṇadīrgha*; *thāthaghañktājabitrakāṇām* (no number printed) gives the final-acute for the *kta*-ending latter member. Or, "well spoken by the gods" [*suṣṭhu ucyante devatāḥ ebhiḥ*: by these the gods are well praised]; or in the passive, *niṣṭhā*, with the form as before; by *sūpamānāt ktaḥ* (Pā. Sū. 6-2-145), the latter member after the preverb *su*, a *kāraka*, or a word of comparison, ending in *kta*, is final-acute.
+- **gṛṇīmasi**: *gṝ śabde*, *kryādi*; *laṭ*, *mas*, *śnā*; *pvādīnāṃ hrasvaḥ* — प्वादीनां ह्रस्वः — (no number printed): shortening of the root; *īhalyaghoḥ* — ई हल्यघोः — (Pā. Sū. 6-4-113): *ī* for the *ā* of *śnā* before a *kit* or *ṅit* *sārvadhātuka* beginning with a consonant; *idanto masiḥ* the augment *i*.
+- **dasmam**: *dasu upakṣaye*; *iṣiyudhīndhidasiśyādhūsūbhyo mak* — इषियुधीन्धिदसिश्याधूसूभ्यो मक् — (U. Sū. 1-142 as printed; the bhāṣya prints u. 1-1-144): after the roots *iṣa gatau*, *yudha saṃprahāre*, *ñi indhī dīptau*, *dasu upakṣaye*, *śyai gatau*, *dhūñ kampane* and *sūṅ prāṇigarbhavimocane* the suffix *mak*; hence the suffix accent. Rik 10 ends here (*|| 10 ||*).
 
 ---
 
-**Close of Sūkta 42.** Printed on p. 464 after the grammar: "*illige 42ne sūkta mugidudu*" — "Here the 42nd sūkta has ended." *(Numeral read as "42".)* With it the Seventh Sūkta of the Eighth Anuvāka (printed pp. 435–464) ends. On the same leaf, **p. 464 foot = PDF 478**, follows the large title "*nalavattamūraneya sūktavu*" ("the forty-third sūkta") with the Sanskrit introduction beginning "*kadrudrāya*…", which runs over to p. 465 (PDF 479) together with the Kannada anuvāda and the heading of **Sūkta 43** (*kad rudrāya*, nine Riks, ṛṣi Kaṇva Ghaura; deity Rudra for Riks 1, 3, 4, 6, Mitra–Varuṇa for Rik 5 [as read], Soma for 7–9; metre Gāyatrī for Riks 1–8 and Anuṣṭubh for Rik 9). These are **not yet written** and belong to the next session. *(The 43rd sūkta thus begins at the foot of p. 464, not at p. 465 as the old contents table says.)*
+**Close of Sūkta 42.** Printed on p. 464 after the grammar: "*illige 42ne sūkta mugidudu*" — "Here the 42nd sūkta has ended." *(Numeral "42" confirmed from the print.)* With it the Seventh Sūkta of the Eighth Anuvāka (printed pp. 435–464) ends. On the same leaf, **p. 464 foot = PDF 478**, follows the large title "*nalavattamūraneya sūktavu*" ("the forty-third sūkta") with the Sanskrit introduction beginning "*kadrudrāya*…", which runs over to p. 465 (PDF 479) together with the Kannada anuvāda and the heading of **Sūkta 43** (*kad rudrāya*, nine Riks, ṛṣi Kaṇva Ghaura; deity Rudra for Riks 1, 3, 4, 6, Mitra–Varuṇa for Rik 5 [as read], Soma for 7–9; metre Gāyatrī for Riks 1–8 and Anuṣṭubh for Rik 9). These are **not yet written** and belong to the next session. *(The 43rd sūkta thus begins at the foot of p. 464, not at p. 465 as the old contents table says.)*
 
 **Summary of Sūkta 42 (my note).** Ten Riks to Pūṣan, the lord of roads and protector of travellers, to be recited when setting out on a long journey. Rik 1 asks him to bring the travellers across the road, destroy the obstructing sin and go before them; Riks 2–4 ask him to drive away and trample the hostile robber and deceiver who points the wrong road; Rik 5 recalls his past protection of the ancestors; Rik 6 asks for gold and other wealth; Riks 7–8 ask for a safe road, leading to good grass and without new heat or trouble; Rik 9 asks for favour, plenty and food; Rik 10 says the singers do not reproach him but praise him and beg for wealth. All ten Riks are written in full; the long Special Topics essay on Pūṣan (Rik 1) and the crowded grammar pages are characterized only where stated.
 
