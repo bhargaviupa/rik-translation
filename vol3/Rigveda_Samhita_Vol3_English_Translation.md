@@ -9777,10 +9777,12 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **॥ Saṃhitāpāṭhaḥ ॥**
 
-> यत्र द्वाविव जघनाधिषवण्या कृता ।
-> उलूखलसुतानामवेद्विन्द्र जल्गुलः ॥ २ ॥
+> यत्र॒ द्वावि॑व ज॒घना॑धिषव॒ण्या॑ कृ॒ता ।
+> उ॒लूख॑लसुताना॒मवेद्वि॑न्द्र जल्गुलः ॥ २ ॥ [accent ?]
 
-*yatra dvāv iva jaghanādhiṣavaṇyā kṛtā | ulūkhalasutānām aved v indra jalgulaḥ || 2 ||*
+*yátra dvā́v iva jaghánādhiṣavaṇyā kṛtā́ | ulū́khalasutānām ávéd vindra jalgulaḥ || 2 ||*
+
+*(Saṃhitā accents as printed (w3); [accent ?]: in line 2 the stroke stands over द्वि (a doubled mark there), as in Ṛk 1; Pada unaccented.)*
 
 **॥ Padapāṭhaḥ ॥**
 
@@ -9788,13 +9790,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 *yatra | dvau-iva | jaghanā | adhi-savanyā | kṛtā || ulūkhala-sutānām | ava | it | ūṃ iti | indra | jalgulaḥ || 2 ||*
 
-**॥ Sāyaṇa-bhāṣyam ॥** *(p. 417; read with some doubt)*
+**॥ Sāyaṇa-bhāṣyam ॥** *(p. 417)*
 
-> यत्र यस्मिन्कर्मण्यधिषवण्या उभे अधिषवणफलके द्वाविव जघना द्वे जघनप्रदेशाविव । जघनं जंघन्यतेरिति यास्कः (नि. ९-१० [?]) । कृता विस्तीर्णे कृते संपादिते । अन्यत्पूर्ववत् ॥ जघना । हन्तेर्द्वित्वं … हन्तेश्शरीरावयवे च । उ. ३-२०० [?] इति । … सुपां सुलुगिति शेषः । कर्दमादीनां च । फि. ३-४९ [?] इति मध्योदात्तत्वम् । अधिषवण्या । षुञ् अभिषवे । ल्युट् । युवोरनाकौ । पा. ७-१-१ । इत्यनादेशः । भवे छन्दसि । पा. ४-४-११० । इति यत् । यस्येति च । पा. ६-४-१४८ । इत्यकारलोपः । उपसर्गात्सुनोतीति षत्वम् । अट्कुप्वाङिति णत्वम् । सुपां सुलुगिति द्विवचनस्य याजादेशः ।
+> यत्र यस्मिन्कर्मण्यधिषवण्या उभे अधिषवणफलके द्वाविव जघना द्वौ जघनप्रदेशाविव । जघनं जंघन्यतेरिति यास्कः । नि. ९-२० । कृता विस्तीर्णे कृते संपादिते । अन्यत्पूर्ववत् ॥ जघना । हन्तेः शरीरावयवे द्वे च । उ. ५-३२ । इति हन्धातोरच् । द्वित्वम् । कर्दमादित्वान्मध्योदात्तः । फि. ३-१० । सुपां सुलुगित्याकारः । अधिषवण्या । षुञ् अभिषवे । ल्युट् । भवे छन्दसीति यत् । उपसर्गात्सुनोतीति षत्वम् । तित्स्वरित इति स्वरितः । न च यतोऽनाव इत्याद्युदात्तत्वम् । तत्र हि निष्ठा च द्व्यजनात् । पा. ६-१-२०५ । इत्यस्यानुवृत्तेर्द्व्यच्कस्यैव तदिति । कृता । पूर्ववदाकारः ॥
 
-*yatra yasmin karmaṇy adhiṣavaṇyā ubhe adhiṣavaṇaphalake dvāv iva jaghanā dve jaghanapradeśāv iva | jaghanaṃ jaṅghanyater iti yāskaḥ (ni. 9-10 [?]) | kṛtā vistīrṇe kṛte saṃpādite | anyat pūrvavat || jaghanā | hanter dvitvaṃ … hanteś śarīrāvayave ca | u. 3-200 [?] iti | … supāṃ suluk iti śeṣaḥ | kardamādīnāṃ ca | phi. 3-49 [?] iti madhyodāttatvam | adhiṣavaṇyā | ṣuñ abhiṣave | lyuṭ | yuvor anākau | pā. 7-1-1 | ity anādeśaḥ | bhave chandasi | pā. 4-4-110 | iti yat | yasyeti ca | pā. 6-4-148 | ity akāralopaḥ | upasargāt sunotīti ṣatvam | aṭkupvāṅ iti ṇatvam | supāṃ suluk iti dvivacanasya yājādeśaḥ |*
+*yatra yasminkarmaṇyadhiṣavaṇyā ubhe adhiṣavaṇaphalake dvāviva jaghanā dvau jaghanapradeśāviva | jaghanaṃ jaṃghanyateriti yāskaḥ | ni. 9-20 | kṛtā vistīrṇe kṛte saṃpādite | anyatpūrvavat ‖ jaghanā | hanteḥ śarīrāvayave dve ca | u. 5-32 | iti handhātorac | dvitvam | kardamāditvānmadhyodāttaḥ | phi. 3-10 | supāṃ sulugityākāraḥ | adhiṣavaṇyā | ṣuñ abhiṣave | lyuṭ | bhave chandasīti yat | upasargātsunotīti ṣatvam | titsvarita iti svaritaḥ | na ca yato 'nāva ityādyudāttatvam | tatra hi niṣṭhā ca dvyajanāt | pā. 6-1-205 | ityasyānuvṛtterdvyackasyaiva taditi | kṛtā | pūrvavadākāraḥ ‖*
 
-**Translation:** "In the rite in which the two *adhiṣavaṇyā* — the two pressing-boards — are made (*kṛtā*) wide, as if two hips (*dvāv iva jaghanā*) — [*jaghana*, 'hip', is by Yāska '*jaṅghanyate*' (Ni. 9-10 [?])] — [do you, Indra,] know and partake of the juice pressed in the mortar. The rest is as before. *Jaghanā*: from *han* with doubling in the sense of 'a body-part' (Uṇ. 3-200 [?]); the dual ending replaced by *ā* by *supāṃ suluk*; the middle acute by Phiṭ 3-49 [?], the *kardamādi* group. *Adhiṣavaṇyā*: from *ṣuñ abhiṣave* with *lyuṭ*, *ana* for *yu* (P. 7-1-1); *yat* in the sense 'being at' (P. 4-4-110); loss of the *a* by P. 6-4-148; *ṣatva* after the preposition; *ṇatva* by P. 8-4-2; the dual ending replaced by *yā* by *supāṃ suluk*." *(Grammar pages 418–419, noted briefly: the words treated are* jaghanā *[*han hiṃsāgatyoḥ* + *ac* by Uṇ. 3-200 *haner ac ca* [?]; with doubling of the root as 'body-part' (*śarīrāvayave ca*); *halādiḥ śeṣaḥ*; the *h* → *gh* by P. 7-3-55 *abhyāsāc ca*; *jaghana*; dual *au* → *ā* by P. 7-1-39 *supāṃ suluk*; the accent is middle-acute because *jaghana* is read in the *kardamādi* list (Phiṭ 3-49)] and* adhiṣavaṇyā *[*ṣuñ abhiṣave* + *lyuṭ* P. 3-3-115; *yu* → *ana* by P. 7-1-1 *yuvor anākau*; *savana*; *savane bhavaḥ savanyaḥ* with *yat* by P. 4-4-110 *bhave chandasi*; the *a* before *yat* lost by P. 6-4-148; *adhi* + *savanya*: *ṣatva* by P. 8-3-65 *upasargāt sunoti…*; *ṇatva* by P. 8-4-2; dual *au* → *yā* by P. 7-1-39; the accent: *yat* is *tit*-svarita and the word is middle-acute — with a discussion of why P. 6-1-213 *tit svaritam* [read as 6-1-185] and P. 6-1-210 *yato 'nāvaḥ* apply or do not apply; because *adhi*-*savanya* is a *gati*-compound, the *dvyac* rule P. 6-2-… is not engaged]; numerals as read, pointers only.)*
+**Translation:** "In the rite in which the two *adhiṣavaṇyā* — the two pressing-boards — are made (*kṛtā*) wide, as if two hips (*dvāv iva jaghanā*), the two hip-regions — [*jaghana* is by Yāska '*jaṅghanyate*' (Ni. 9-20)] — [do you, Indra,] know and partake of the juice pressed in the mortar. The rest is as before. *Jaghanā*: from *han* with *ac* and doubling in the sense of 'a body-part' (U. 5-32); middle acute as a *kardamādi* word (Phi. 3-10); *ā* for the dual ending by *supāṃ suluk*. *Adhiṣavaṇyā*: from *ṣuñ abhiṣave* with *lyuṭ*; *yat* by *bhave chandasi*; *ṣatva* after the preposition; the svarita by *tit svaritam*; the initial acute of *yato 'nāvaḥ* does not apply, since there P. 6-1-205 (*niṣṭhā ca dvyaj anāt*) continues, so that rule holds only for words of two syllables. *Kṛtā*: *ā* as before." *(Grammar pages 418–419, noted briefly: the words treated are* jaghanā *[*han* + *ac* by U. sū. 5-710 (as printed; *haner…*); doubling; *h* → *gh* by P. 7-3-55; dual *au* → *ā* by P. 7-1-39 *supāṃ suluk*; middle acute by Phi. sū. 59 *kardamādīnāṃ ca*] and* adhiṣavaṇyā *[*ṣuñ abhiṣave* + *lyuṭ*; *yu* → *ana* by P. 7-1-1; *yat* by P. 4-4-110 *bhave chandasi*; loss of *a* by P. 6-4-148; *ṣatva* by P. 8-3-65; *ṇatva* by P. 8-4-2; svarita by P. 6-1-185 *tit svaritam*; P. 6-1-213 *yato 'nāvaḥ* excluded by P. 6-1-205]; numerals as printed.)*
 
 **॥ Prati-padārthaḥ ॥** *(p. 417)* **इन्द्र (indra)** — O Indra | **यत्र (yatra)** — in which rite | **द्वौ जघनौ इव (dvau jaghanau iva)** — like two hips | **अधिषवण्या (adhiṣavaṇyā)** — the two pressing-boards | **कृता (kṛtā)** — are made [widely spread] | **उलूखलसुतानाम् (ulūkhalasutānām)** — of the [juice] pressed in the mortar | **अवेत् उ (aved u)** — know [it to be yours] | **जल्गुलः (jalgulaḥ)** — partake.
 
@@ -9805,7 +9807,7 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 > Where, Indra, the two halves (or platters) of the Soma-press are placed close together like the broad hips of a woman, partake of that Soma expressed in the mortar.
 
 **॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(pp. 417–418)* **जघना अधिषवण्या** — *jaghanā* means the two hip-regions of women, the upper parts of the thighs; they are by nature broad and fleshy. *Adhiṣavaṇa* means the wooden boards [vessels] for filling with soma-juice; they are as big as hips — that is, they hold much juice. Or the hip-regions touch each other when close; so when the juice is taken, the two boards, rubbing against each other, press the soma and take the juice: that is the intention. On this occasion *adhiṣavaṇa* means the two wooden boards used for pressing out the soma-juice. Between the ends of these boards the soma-creeper is placed, and the juice is pressed out. The seer compares the rubbing of these boards with the hip-regions of a woman. Or, as the commentator explains, the *adhiṣavaṇa* means the large wooden vessels used for filling with the pressed soma; these, like women's hips, are large and hold much juice — that is the chief intention.
-**[Rik 2, grammar tail — printed p. 419]** *(Grammar, noted briefly: the last word treated is* kṛtā *[*ḍukṛñ karaṇe* + *kta*; the dual ending is replaced by *ā* by P. 7-1-39 *supāṃ suluk…*]; numerals as read.)*
+**[Rik 2, grammar tail — printed p. 419]** *(Grammar, noted briefly: the last word treated is* kṛtā *[*ḍukṛñ karaṇe* + *kta*; the dual ending is replaced by *ā* by P. 7-1-39 *supāṃ suluk…*]; numerals as printed.)*
 
 ---
 
