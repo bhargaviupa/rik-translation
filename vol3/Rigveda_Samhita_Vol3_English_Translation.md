@@ -10338,11 +10338,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 455)*
 
-> सर्वं परिक्रोशं जहि जम्भया कृकदाश्वम् ।
-> आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेषु तुवीमघ ॥ ७ ॥
+> सर्वं॑ परिक्रो॒शं ज॑हि ज॒म्भ॑या कृकदा॒श्वं॑ ।
+> आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥ ७ ॥
 
-> *sarvaṃ parikrośaṃ jahi jambhayā kṛkadāśvam |*
-> *ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīmagha ‖ 7 ‖*
+> *sárvaṃ parikrośáṃ jahi jambhayā kṛkadāśvaṃ |*
+> *ā tū́ na indra śaṃsaya góṣv áśveṣu śubhríṣu sahásreṣu tuvīmagha ‖ 7 ‖*
+
+*(Saṃhitā accents as printed (w3); Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 455)*
 
@@ -10354,13 +10356,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Sāyaṇa-bhāṣya** *(p. 455)*
 
-> परिक्रोशमस्मद्विषये सर्वतः आक्रोशकर्तारं सर्वं पुरुषं जहि । मारय । कृकदाश्वमस्मद्विषये हिंसाप्रदं शत्रुं जम्भय । मारय । अन्यत्पूर्ववत् ॥
-> परिक्रोशम् । क्रुश आह्वाने । परितः क्रोशयतीति परिक्रोशः । पचाद्यच् । कृदुत्तरपदप्रकृतिस्वरत्वम् । जहि । हन हिंसागत्योः । हन्तेर्जः । पा. ६-४-३६ [?] । इति जादेशः । असिद्धवदत्राभादित्यसिद्धत्वादतो हेरिति हेर्लुग्न भवति । जम्भय । जभी नाशने । चुरादित्वात्स्वार्थिको णिच् । शपः पित्त्वादनुदात्तत्वे णिच एव स्वरः शिष्यते । कृकदाश्वम् । कृकं हिंसायाम् [?] … कन् । उ. ३-४० [?] … कृके वचः कश्च । उ. १-६ [?] इत्युण् । प्रत्ययस्वरेणान्तोदात्तः । द्वितीयायामपि पूर्वरूपत्वे प्राप्ते वा छन्दसीति तस्य बाधितत्वाद्यण्-आदेशः । उदात्तस्वरितयोर्यणः इति विभक्तेः स्वरितत्वम् ॥ ७ ॥
+> परिक्रोशमस्मद्विषये सर्वत आक्रोशकर्तारं सर्वं पुरुषं जहि । मारय । कृकदाश्वमस्मद्विषये हिंसाप्रदं शत्रुं जम्भय । मारय । अन्यत्पूर्ववत् ॥ परिक्रोशम् । क्रुश आह्वाने । परितः क्रोशयतीति परिक्रोशः । पचाद्यच् । कृदुत्तरपदप्रकृतिस्वरत्वम् । जहि । हन हिंसागत्योः । हन्तेर्जः । पा. ६-४-३६ । इति जादेशः । तस्यासिद्धवदत्राभादित्यसिद्धत्वादतो हेरिति हेर्लुग्न भवति । जम्भय । जभि नाशने । चुरादित्वात्स्वार्थिको णिच् । शपः पित्त्वादनुदात्तत्वे णिच एव स्वरः शिष्यते । कृकदाश्वम् । कृञ् हिंसायाम् । कृदाधारार्चिकलिभ्यः कन् । उ. ३-४० । इति भावे कन्प्रत्ययः । किदित्यनुवृत्तेर्गुणाभावः । तथा च कृको हिंसा । तां दाशति प्रयच्छतीति कृकदाशुः । बहुलग्रहणाद्दाशतेरपि कृक उपपदे कृके वचः कश्च । उ. १-६ । इत्युण् । प्रत्ययस्वरेणोदात्तः । द्वितीयायाममि पूर्वत्वे प्राप्ते वा छन्दसीति तस्य बाधितत्वाद्यणादेशः । उदात्तस्वरितयोर्यण इति विभक्तेः स्वरितत्वम् ॥ २७ ॥
 
-> *parikrośamasmadviṣaye sarvataḥ ākrośakartāraṃ sarvaṃ puruṣaṃ jahi | māraya | kṛkadāśvamasmadviṣaye hiṃsāpradaṃ śatruṃ jambhaya | māraya | anyatpūrvavat ‖*
-> *parikrośam | kruśa āhvāne | paritaḥ krośayatīti parikrośaḥ | pacādyac | kṛduttarapadaprakṛtisvaratvam | jahi | hana hiṃsāgatyoḥ | hanterjaḥ | pā. 6-4-36 [?] | iti jādeśaḥ | asiddhavadatrābhādityasiddhatvādato heriti herlugna bhavati | jambhaya | jabhī nāśane | curāditvātsvārthiko ṇic | śapaḥ pittvādanudāttatve ṇica eva svaraḥ śiṣyate | kṛkadāśvam | kṛkaṃ hiṃsāyām [?] … kan | u. 3-40 [?] … kṛke vacaḥ kaśca | u. 1-6 [?] ityuṇ | pratyayasvareṇāntodāttaḥ | dvitīyāyāmapi pūrvarūpatve prāpte vā chandasīti tasya bādhitatvādyaṇ-ādeśaḥ | udāttasvaritayoryaṇaḥ iti vibhakteḥ svaritatvam ‖ 7 ‖*
+> *parikrośamasmadviṣaye sarvata ākrośakartāraṃ sarvaṃ puruṣaṃ jahi | māraya | kṛkadāśvamasmadviṣaye hiṃsāpradaṃ śatruṃ jambhaya | māraya | anyatpūrvavat ‖ parikrośam | kruśa āhvāne | paritaḥ krośayatīti parikrośaḥ | pacādyac | kṛduttarapadaprakṛtisvaratvam | jahi | hana hiṃsāgatyoḥ | hanterjaḥ | pā. 6-4-36 | iti jādeśaḥ | tasyāsiddhavadatrābhādityasiddhatvādato heriti herlugna bhavati | jambhaya | jabhi nāśane | curāditvātsvārthiko ṇic | śapaḥ pittvādanudāttatve ṇica eva svaraḥ śiṣyate | kṛkadāśvam | kṛñ hiṃsāyām | kṛdādhārārcikalibhyaḥ kan | u. 3-40 | iti bhāve kanpratyayaḥ | kidityanuvṛtterguṇābhāvaḥ | tathā ca kṛko hiṃsā | tāṃ dāśati prayacchatīti kṛkadāśuḥ | bahulagrahaṇāddāśaterapi kṛka upapade kṛke vacaḥ kaśca | u. 1-6 | ityuṇ | pratyayasvareṇodāttaḥ | dvitīyāyāmami pūrvatve prāpte vā chandasīti tasya bādhitatvādyaṇādeśaḥ | udāttasvaritayoryaṇa iti vibhakteḥ svaritatvam ‖ 27 ‖*
 
-*Gist (mine):* "Kill (*jahi*) every man who abuses (*parikrośam*) us from all sides; destroy (*jambhaya*) the enemy who deals harm (*kṛkadāśvam*). The rest as before." The grammatical tail (printed in compressed form on p. 455; the Kannada grammar on pp. 456–457 gives the same) treats *parikrośam* (*pacādi ac*), *jahi* (*hanter jaḥ*, with the principle *asiddhavad atrābhāt*), *jambhaya* (*curādi ṇic*) and *kṛkadāśvam* (*kṛka* from *kṛñ hiṃsāyām*, *dāś dāne* with an Uṇādi *uṇ*; the accusative *-vam* by *yaṇ*); words with [?] are doubtful readings.
+*(Bhāṣya re-read from the print, w3: the compressed and doubtful parts of the tail filled (तस्यासिद्धवत्…, जभि नाशने, कृञ् हिंसायाम् (was कृकं हिंसायाम् [?]), कृदाधारार्चिकलिभ्यः कन्, उ. ३-४० and उ. १-६ confirmed, किदित्यनुवृत्तेर्गुणाभावः, तथा च कृको हिंसा…कृकदाशुः, बहुलग्रहणाद्दाशतेरपि कृक उपपदे, प्रत्ययस्वरेणोदात्तः); पा. ६-४-३६ confirmed; the closing ॥ २७ ॥ is the varga number (Varga 27 ends here).)*
+
+*Gist (mine):* "Kill (*jahi*) every man who abuses (*parikrośam*) us from all sides; destroy (*jambhaya*) the enemy who deals harm (*kṛkadāśvam*). The rest as before." The grammatical tail (p. 455) treats *parikrośam* (*pacādi ac*), *jahi* (*hanter jaḥ*, with the principle *asiddhavad atrābhāt*), *jambhaya* (*curādi ṇic*) and *kṛkadāśvam* (*kṛka* from *kṛñ hiṃsāyām* with *kan* (U. 3-40) in the bhāva sense, *dāś dāne* with *uṇ* by *kṛke vacaḥ kaś ca* (U. 1-6), end-acute; in the accusative *ami pūrvaḥ* is set aside by *vā chandasi*, *yaṇ*, and the ending made svarita by *udāttasvaritayor yaṇaḥ*).
 
 **Pratipadārtha** *(p. 456, rendered)* — **परिक्रोशम्** [him] who reviles and blames us; **सर्वम्** every one; **जहि** destroy; **कृकदाश्वम्** the enemy who does us harm; **जम्भय** kill; **तुवीमघ** [Indra] of plentiful wealth; **इन्द्र** O Indra; **नः** us; **सहस्रेषु** in thousands; **शुभ्रिषु** excellent; **गोषु** in cows; **अश्वेषु** in horses; **आ शंसय** make [us] worthy (give us thousands of cows and horses).
 
@@ -10372,16 +10374,16 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Viśeṣa-viṣayagaḷu** *(p. 456)* — **परिक्रोशम्** — *kruśa āhvāne*; *paritaḥ krośayatīti parikrośaḥ*: one who, out of hostility, rages at us or speaks ill. **जहि** — *hana hiṃsāgatyoḥ*: restrain, injure, destroy. **जम्भय** — *jabhi nāśane*: destroy. **कृकदाश्वम्** — *kṛñ hiṃsāyām*; *kṛko hiṃsā | tāṃ dāśati prayacchatīti kṛkadāśuḥ*: a man who deals injury, who brings us harm.
 
-**Grammar pages (pp. 456–457), noted briefly:** the Kannada grammar treats *parikrośam* (*pacādi ac*, P. 3-1-134 *nandigrahipacādibhyo lyuṇinyacaḥ*; the *kṛt*-final accent by P. 6-2-139 *gatikārakopapadāt kṛt*), *jahi* (*hana hiṃsāgatyoḥ*, *adādi*, *loṭ*; *hi*; *hanter jaḥ* [P. 6-4-36 [?]]; *asiddhavad atrābhāt*, P. 6-4-22; *ato heḥ* P. 6-4-105 therefore not applied), *jambhaya* (*jabhi nāśane*, *curādi*; *ṇic* by P. 3-1-25 *satyāpapāśarūpa…*; *num* from the *it*; *sanādyantā dhātavaḥ* P. 3-1-32; *loṭ*; the *śap*'s *luk*; *ṇic* keeps the accent) and *kṛkadāśvam* (*kṛñ hiṃsāyām*, *kryādi*; *kan* by an Uṇādi sūtra *kṛdāṅ…* [Uṇ. 3-40 [?]]; *dāś dāne* with *uṇ* by *kṛke vacaḥ kaś ca* [Uṇ. 1-6 [?]]; *ami pūrvaḥ* P. 6-1-107 / *vā chandasi* P. 6-1-106; *yaṇ* and the *svarita* by P. 8-2-4 *udāttasvaritayor yaṇaḥ svaritoʼnudāttasya*).
+**Grammar pages (pp. 456–457), noted briefly (corrected from the print, w3):** the Kannada grammar treats *parikrośam* (*kruśa āhvāne*, bhvādi; *paritaḥ krośayati iti parikrośaḥ*; *ac* by *nandigrahapacādibhyo…* (P. sū. 3-1-134), being in the *pacādi* list; guṇa of the light penultimate; accusative; a compound with a *kṛt*-final second member, so *gatikārakopapadāt kṛt* (P. sū. 6-2-139)), *jahi* (*hana hiṃsāgatyoḥ*, adādi, *loṭ* 2nd sg. *sip* → *hi*; *ja* for the root by *hanter jaḥ* (P. sū. 6-4-36); since by *asiddhavad atrābhāt* (P. sū. 6-4-22) the *ja*-substitute counts as not effected, the loss of *hi* by *ato heḥ* (P. sū. 6-4-105) does not occur), *jambhaya* (*jabhi nāśane*, curādi; *ṇic* in its own sense by *satyāpapāśa…* (P. sū. 3-1-25); *num* as an *idit*; the *ṇic*-final *jambhi* is a root by *sanādyantā dhātavaḥ* (P. sū. 3-1-32); *loṭ*, *śap*, *hi* lost after *a*; guṇa and *ay* of *ṇic*; *śap* being *pit* is anudātta, so the udātta of *ṇic* remains: the *a* after the *bh* is acute) and *kṛkadāśvam* (*kṛñ hiṃsāyām*, kryādi; *kan* in the bhāva sense by *kṛdādhārārcikalibhyaḥ kan* (U. sū. 3-320), *kit* carried over, so no guṇa: *kṛkaḥ*; *kṛkaṃ hiṃsāṃ dāśati prayacchati iti kṛkadāśuḥ*: *dāś dāne*; by the word *bahulam* in *uṇādayo bahulam* (P. sū. 3-3-1), with *kṛka* as upapada, *uṇ* by *kṛke vacaḥ kaś ca* (U. sū. 1-6); end-acute by the suffix's initial acute; in the accusative *kṛkadāśu+am*: *ami pūrvaḥ* (P. sū. 6-1-107) would give the single prior form, but by *vā chandasi* it does not apply; *yaṇ*: *kṛkadāśvam*; the ending becomes svarita by *udāttasvaritayor yaṇaḥ svarito 'nudāttasya* (P. sū. 8-2-4): a svarita-final word). ॥ ७ ॥ File's Uṇ. 3-40 [?] (grammar prints U. sū. 3-320), Uṇ. 1-6 [?] (confirmed) and P. 6-1-106 (not printed) corrected.
 
-**Close of Sūkta 29** *(p. 457)* — *ippattombhattaneya sūktavu samāptavāgide* — "The twenty-ninth sūkta is ended." *(At the foot of p. 457: sheet-mark "58" and "VOLUME 3".)*
+**Close of Sūkta 29** *(p. 457)* — ಇಪ್ಪತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು ಸಮಾಪ್ತವಾಗಿದೆ (*ippattombhattaneya sūktavu samāptavāgide*) — "The twenty-ninth sūkta is ended." *(At the foot of p. 457: sheet-mark "58" and "VOLUME 3".)*
 
 ---
 ## ॥ ಮೂವತ್ತನೆಯ ಸೂಕ್ತವು ॥ — Sūkta 30 — *"ā va indram"* ("The Thirtieth Sūkta"; seventh sūkta of the Sixth Anuvāka)
 
 **Heading** *(p. 458)*: "The thirtieth sūkta." Maṇḍala 1; Anuvāka **6**; Sūkta 30. Aṣṭaka 1; Adhyāya 2; Varga **28, 29, 30, 31**. Number of Riks in the sūkta: **22**. Ṛṣi: Śunaḥśepa Ājīgarti. Devatā: Riks 1–16 Indra; 17–19 the Aśvins; 20–22 Uṣas. Chandas: Riks 1–10, 12–15, 17–22 Gāyatrī; Rik 11 Gāyatrī *pādanicṛt*; Rik 16 Triṣṭubh.
 
-*(p. 458 is read from the old scan, `scans/Rig_Vol3.pdf` PDF 473: the better scan's PDF 472 is a wrong page, headed 358.)*
+*(p. 458 is read from the old scan, `scans/Rig_Vol3.pdf` PDF 473: the better scan's PDF 472 is a wrong page, headed 358. Heading numerals and Anu. 4-4 re-checked from that page in the pass, w3.)*
 
 **Sāyaṇa-bhāṣya, introductory note** *(p. 458)*
 
