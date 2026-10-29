@@ -5553,12 +5553,12 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ---
 
-### Rik 38.7 (p. 310 foot, PDF 324–)
+### Rik 38.7 (pp. 310–313, PDF 325–328)
 
-**Saṃhitā-pāṭha** *(p. 310; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 310 = PDF 325 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **सत्यं त्वेषा अमवन्तो धन्वञ्चिदा रुद्रियासः ।**
-> **मिहं कृण्वन्त्यवाताम् ॥ ७ ॥**
+> **स॒त्यं त्वे॒षा अम॑वन्तो॒ धन्व॑ञ्चि॒दा रु॒द्रिया॑सः ।**
+> **मिहं॑ कृण्वन्त्यवा॒ताम् ॥ ७ ॥**
 
 *satyaṃ tveṣā amavanto dhanvañ cid ā rudriyāsaḥ |*
 *mihaṃ kṛṇvanty avātām || 7 ||*
@@ -5585,11 +5585,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Translation:** "*Dhanvan cit* — even in a desert region — the *rudriyāsaḥ*, the Maruts who belong to Rudra because they are protected by Rudra, *ā* — all round — *avātām*, free from wind, *miham*, rain, they make. That is the truth (*satyam*). What are the *rudriyāsaḥ* like? *Tveṣāḥ* — shining; *amavantaḥ* — strong. That the Maruts are protected by Rudra is famed in the narratives."
 
-> **धन्वन् । रिवि रवि धवि गत्यर्थाः । इदित्त्वान्नुम् । कनिन्युवृषितक्षीत्यादिना कनिन् । नित्त्वादाद्युदात्तत्वं । सुपां सुलुगिति सप्तम्या लुक् । रुद्रियासः । रुद्रस्येमे रुद्रियाः । तस्येदमित्यर्थे घः । आज्जसेरसुक् । मिहं । मिह सेचने । क्विप्चेति क्विप् । कृण्वन्ति । कृवि हिंसाकरणयोश्च । धिन्विकृण्व्योररच । इत्यप्रत्ययः । तत्सन्नियोगेन वकारस्य चाकारादेशः [?] । अतो लोपेन लुप्तस्य स्थानिवद्भावाल्लघूपधगुणाभावः ॥**
+> **धन्वन् । रिवि रवि धवि गत्यर्थाः । इदित्त्वान्नुम् । कनिन्युवृषितक्षीत्यादिना कनिन् । नित्त्वादाद्युदात्तत्वं । सुपां सुलुगिति सप्तम्या लुक् । रुद्रियासः । रुद्रस्येमे रुद्रियाः । तस्येदमित्यर्थे घः । आज्जसेरसुक् । मिहं । मिह सेचने । क्विप्चेति क्विप् । कृण्वन्ति । कृवि हिंसाकरणयोश्च । धिन्विकृण्व्योरच्चेत्युप्रत्ययः । तत्सन्नियोगेन वकारस्य चाकारादेशः । अतो लोपेन लुप्तस्य स्थानिवद्भावाल्लघूपधगुणाभावः ॥**
 
-*dhanvan | rivi ravi dhavi gatyarthāḥ | iditvān num | kanin-yuvṛṣitakṣī ty ādinā kanin | nittvād ādyudāttatvaṃ | supāṃ sulug iti saptamyā luk | rudriyāsaḥ | rudrasyeme rudriyāḥ | tasyedam ity arthe ghaḥ | ājjaser asuk | miham | miha secane | kvip ceti kvip | kṛṇvanti | kṛvi hiṃsākaraṇayoś ca | dhinvikṛṇvyor a ca | ity apratyayaḥ | tatsanniyogena vakārasya cākārādeśaḥ [?] | ato lopena luptasya sthānivadbhāvāl laghūpadhaguṇābhāvaḥ ||*
+*dhanvan | rivi ravi dhavi gatyarthāḥ | iditvān num | kanin-yuvṛṣitakṣī ty ādinā kanin | nittvād ādyudāttatvaṃ | supāṃ sulug iti saptamyā luk | rudriyāsaḥ | rudrasyeme rudriyāḥ | tasyedam ity arthe ghaḥ | ājjaser asuk | miham | miha secane | kvip ceti kvip | kṛṇvanti | kṛvi hiṃsākaraṇayoś ca | dhinvikṛṇvyor ac ceti upratyayaḥ | tatsanniyogena vakārasya cākārādeśaḥ | ato lopena luptasya sthānivadbhāvāl laghūpadhaguṇābhāvaḥ ||*
 
-**Translation of the grammatical tail** *(characterized; the clause marked [?] is as I read it)*: *Dhanvan* — the roots *rivi*, *ravi*, *dhavi* are in the sense of going; because of the indicatory *i* the augment *num*; the suffix *kanin* by the Uṇādi rule beginning *kanin-yuvṛṣitakṣi-…*; since the suffix is *nit* the final syllable is acute; the locative ending elided by *supāṃ sulug…*. *Rudriyāsaḥ* — "these belong to Rudra": the suffix *gha* in the sense "this is his" (*tasyedam*); the augment *asuk* of *jas* by *ājjaser asuk*. *Miham* — root *miha secane*; *kvip* by *kvip ca*. *Kṛṇvanti* — root *kṛvi* in the senses of injuring and making; by *dhinvikṛṇvyor a ca* the suffix *a* [*u*]; in connection with it a substitution at the *va* [?]; because the *a* is lost, and what is lost counts as still present, there is no *guṇa* of the light penultimate vowel.
+**Translation of the grammatical tail** *(characterized)*: *Dhanvan* — the roots *rivi*, *ravi*, *dhavi* are in the sense of going; because of the indicatory *i* the augment *num*; the suffix *kanin* by the Uṇādi rule beginning *kanin-yuvṛṣitakṣi-…*; since the suffix is *nit* the final syllable is acute; the locative ending elided by *supāṃ sulug…*. *Rudriyāsaḥ* — "these belong to Rudra": the suffix *gha* in the sense "this is his" (*tasyedam*); the augment *asuk* of *jas* by *ājjaser asuk*. *Miham* — root *miha secane*; *kvip* by *kvip ca*. *Kṛṇvanti* — root *kṛvi* in the senses of injuring and making; by *dhinvikṛṇvyor a ca* the suffix *u* [the print spells *a cceti*]; in connection with it the substitute *a* for the *v*; because the *a* is lost, and what is lost counts as still present, there is no *guṇa* of the light penultimate vowel.
 
 **Pratipadārtha** *(p. 311)* — "**tveṣāḥ** — brilliant ones; **amavantaḥ** — mighty ones; **rudriyāsaḥ** — the Maruts, who belong to Rudra, because they are cherished by Rudra; **dhanvan cit** — even in the desert; **ā** — all round; **avātām** — without wind; **miham** — rain; **kṛṇvanti** — they pour down; **satyam** — (this is) certain."
 
@@ -5598,18 +5598,18 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 **English Translation (the source's own, p. 311)** — "The brilliant and mighty Maruts, cherished by Rudra send down rain without wind ( even ) upon the desert."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 311–312**
-- **dhanvan cit** = *marudeśe 'pi* — "a desert in which no rain falls." "On the word *dhanvan* Yāska has said '*dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*' (Ni. 5-5 as read [?]): *dhanva* means the atmosphere; because rain falls through the atmosphere. The commentator [Sāyaṇa] explains it as *desert*."
+- **dhanvan cit** = *marudeśe 'pi* — "a desert in which no rain falls." "On the word *dhanvan* Yāska has said '*dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*' (Ni. 5-5): *dhanva* means the atmosphere; because rain falls through the atmosphere. The commentator [Sāyaṇa] explains it as *desert*."
 - **rudriyāsaḥ** = *rudrasya ime rudrapālitāḥ* — "'the Maruts are cherished by Rudra'; and in several passages they are described as the sons of Rudra. These two ṛks support the point:
-  (1) **प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।** (Ṛg. 1-64-2, as read [?]) — *pra ye śumbhante janayo na saptayo yāman rudrasya sūnavaḥ sudaṃsasaḥ* — mine and tentative: "who adorn themselves on their going, like women, like horses, the sons of Rudra, skilful in deed";
-  (2) **इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनम् ।** (Ṛg. 1-114-6, as read [?]) — *idaṃ pitre marutām ucyate vacaḥ svādoḥ svādīyo rudrāya vardhanam* — mine and tentative: "this word is spoken to the father of the Maruts, sweeter than the sweet, a strengthening for Rudra.""
+  (1) **प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।** (Ṛ. Saṃ. 1-85-1) — *pra ye śumbhante janayo na saptayo yāman rudrasya sūnavaḥ sudaṃsasaḥ* — mine and tentative: "who adorn themselves on their going, like women, like horses, the sons of Rudra, skilful in deed";
+  (2) **इदं पित्रे मरुतामुच्यते वचः स्वादोः स्वादीयो रुद्राय वर्धनम् ।** (Ṛ. Saṃ. 1-114-6) — *idaṃ pitre marutām ucyate vacaḥ svādoḥ svādīyo rudrāya vardhanam* — mine and tentative: "this word is spoken to the father of the Maruts, sweeter than the sweet, a strengthening for Rudra.""
 - **miham** = *secanam* — "rain, the rainfall."
 - **avātām** = *vāyurahitām* — "even though the wind does not help; the intention of the use of this word here is not clear." *(The doubt is the Kannada author's.)*
 
 **Vyākaraṇa-prakriyā** *(pp. 312–313 — grammar pages, characterized; the print is crowded)*
-- **dhanvan**: *rivi ravi dhavi gatyarthāḥ*; *idito num dhātoḥ* — इदितो नुम् धातोः — [Pā. 7-1-58 as read [?]]: *num* after the last vowel of a root with indicatory *i*; only the *n* remains: *dhanv*; *kanin-yuvṛṣitakṣirājidhanvidyupratidivaḥ* — [Uṇ. 1-156 as read [?]]: *kanin* after these roots, of which *an* remains; *dhanv + an*; the suffix is *nit*, so the last syllable is acute; *supāṃ sulug* for the locative.
-- **rudriyāsaḥ**: *rudrasya ime rudriyāḥ*; the suffix *gha* in the sense *tasyedam* — तस्येदम् — [Pā. 4-3-120 as read [?]]; *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* — आयनेयीनीयियः फढखछघां प्रत्ययादीनाम् — [Pā. 7-1-2] gives *iya* for *gha*; *yasyeti ca* the loss of the *a*; *jas* with the augment *asuk*.
+- **dhanvan**: *rivi ravi dhavi gatyarthāḥ*; *idito num dhātoḥ* — इदितो नुम् धातोः — (Pā. Sū. 7-1-58): *num* after the last vowel of a root with indicatory *i*; only the *n* remains: *dhanv*; *kanin-yuvṛṣitakṣirājidhanvidyupratidivaḥ* (U. Sū. 1-154): *kanin* after these roots, of which *an* remains; *dhanv + an*; the suffix is *nit*, so the last syllable is acute; *supāṃ sulug* for the locative.
+- **rudriyāsaḥ**: *rudrasya ime rudriyāḥ*; the suffix *gha* in the sense *tasyedam* — तस्येदम् — (no number printed); *āyaneyīnīyiyaḥ phaḍhakhachaghāṃ pratyayādīnām* — आयनेयीनीयियः फढखछघां प्रत्ययादीनाम् — (no number printed) gives *iya* for *gha*; *yasyeti ca* the loss of the *a*; *jas* with the augment *asuk*.
 - **miham**: *miha secane*; *kvip* by *kvip ca*; accusative singular.
-- **kṛṇvanti**: *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, *jhi*; by *jho 'ntaḥ* [Pā. 7-1-3 as read [?]] the substitute *ant*; *num* from the indicatory *i*; *kṛṇv + anti*; *dhinvikṛṇvyor a ca* — धिन्विकृण्व्योर च — [Pā. 3-1-80 as read [?]]: in the Vedic words *dhinv-*, *kṛṇv-* the suffix *u* and an *a* at their end; the print then argues at length about whether *guṇa* of the *u* is barred: *ato lopaḥ* [Pā. 6-4-48 as read [?]] removes the *a*; *pugantalaghūpadhasya ca* — पुगन्तलघूपधस्य च — [Pā. 7-3-86 as read [?]] would give *guṇa* to a light penultimate; the lost *a* counts as present by *acaḥ parasmin pūrvavidhau* [Pā. 1-1-57 as read [?]]; by *yena nāvyavadhānaṃ tena vyavahite 'pi* [paribhāṣā] a gap of one letter would not prevent *laghūpadha-guṇa*, but a gap of two letters does, so no *guṇa* here; *sārvadhātukam apit* makes *anti ṅit*; *kṅiti ca* — क्ङिति च — [Pā. 1-1-5] prohibits *guṇa* of the *u*; *kṛnu + anti*; *iko yaṇaci* — इको यणचि — [Pā. 6-1-77] gives the *yaṇ*: *v*; *kṛṇvanti*; the *ṇ* by the vārttika *ṛvarṇān nasya ṇatvaṃ vācyam* — ऋवर्णान्नस्य णत्वं वाच्यम्. Rik 7 ends here (*|| 7 ||*).
+- **kṛṇvanti**: *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, *jhi*; by *jho 'ntaḥ* (no number printed) the substitute *ant*; *num* from the indicatory *i*; *kṛṇv + anti*; *dhinvikṛṇvyor a ca* — धिन्विकृण्व्योर च — (Pā. Sū. 3-1-80): in the Vedic words *dhinv-*, *kṛṇv-* the suffix *u* and an *a* at their end; the print then argues at length about whether *guṇa* of the *u* is barred: *ato lopaḥ* (Pā. Sū. 6-4-48) removes the *a*; *pugantalaghūpadhasya ca* — पुगन्तलघूपधस्य च — (Pā. Sū. 7-3-86) would give *guṇa* to a light penultimate; the lost *a* counts as present by *acaḥ parasmin pūrvavidhau* (Pā. Sū. 1-1-57); by *yena nāvyavadhānaṃ tena vyavahite 'pi* [paribhāṣā] a gap of one letter would not prevent *laghūpadha-guṇa*, but a gap of two letters does, so no *guṇa* here; *sārvadhātukam apit* makes *anti ṅit*; *kṅiti ca* — क्ङिति च — (Pā. 1-1-5) prohibits *guṇa* of the *u*; *kṛnu + anti*; *iko yaṇaci* — इको यणचि — (Pā. Sū. 6-1-77) gives the *yaṇ*: *v*; *kṛṇvanti*; the *ṇ* by the vārttika *ṛvarṇān nasya ṇatvaṃ vācyam* — ऋवर्णान्नस्य णत्वं वाच्यम्. Rik 7 ends here (*|| 7 ||*).
 
 ---
 
