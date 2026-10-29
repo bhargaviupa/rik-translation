@@ -8523,13 +8523,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 60 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 60.3 (pp. 469–472, PDF 485–488)
 
-**Saṃhitā-pāṭha** *(p. 469)*
+**Saṃhitā-pāṭha** *(p. 469; accents as printed. Two anudātta strokes stand near* hṛda ā*, one between* da *and* ā*, one lower under* da*; both are set [accent ?])*
 
-> **तं नव्यसी हृद आ जायमानमस्मत्सुकीर्तिर्मधुजिह्वमश्याः ।**
-> **यमृत्विजो वृजने मानुषासः प्रयस्वन्त आयवो जीजनन्त ॥ ३ ॥**
+> **तं नव्य॑सी हृद॒ आ॒ जाय॑मानम॒स्मत्सु॑की॒र्तिर्मधु॑जिह्वमश्याः ।**
+> **यमृ॒त्विजो॑ वृ॒जने॒ मानु॑षासः॒ प्रय॑स्वन्त आ॒यवो॒ जीज॑नन्त ॥ ३ ॥**
 
-*taṃ navyasī hṛda ā jāyamānam asmat sukīrtir madhujihvam aśyāḥ |*
-*yam ṛtvijo vṛjane mānuṣāsaḥ prayasvanta āyavo jījananta || 3 ||*
+*táṃ návyasī hṛda ā jā́yamānam asmát sukīrtír mádhujihvam aśyāḥ |*
+*yám ṛtvíjo vṛjáne mā́nuṣāsaḥ práyasvanta āyávo jī́jananta || 3 ||*
 
 **Pada-pāṭha** *(p. 469)*
 
