@@ -4,7 +4,7 @@ sys.path.insert(0,os.path.dirname(os.path.abspath(__file__)))
 from cfg import part_of
 from PIL import Image
 Image.MAX_IMAGE_PIXELS=None
-W4=os.environ.get('W4','/tmp/claude-0/-home-user-rik-translation/ae235999-b0f9-501d-a9a2-05af5dc4c156/scratchpad/w')
+W4=os.environ.get('W4','/tmp/claude-0/-home-user-rik-translation/b3fc490d-ca73-5211-ba91-f6e332c98d63/scratchpad/w')
 g=int(sys.argv[1]); out=sys.argv[2]; sc=float(sys.argv[3]); v=[float(x) for x in sys.argv[4:]]
 f=f'{W4}/hi{g}.png'
 if not os.path.exists(f):

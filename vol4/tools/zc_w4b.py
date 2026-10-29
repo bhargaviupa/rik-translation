@@ -5,7 +5,7 @@ from cfg import part_of
 from PIL import Image
 Image.MAX_IMAGE_PIXELS=None
 g=int(sys.argv[1]); out=sys.argv[2]; y0,y1,x0,x1=[float(v) for v in sys.argv[3:7]]
-f=f'/tmp/claude-0/-home-user-rik-translation/ae235999-b0f9-501d-a9a2-05af5dc4c156/scratchpad/w/hi{g}.png'
+f=f'/tmp/claude-0/-home-user-rik-translation/b3fc490d-ca73-5211-ba91-f6e332c98d63/scratchpad/w/hi{g}.png'
 if not os.path.exists(f):
     path,k=part_of(g); subprocess.run(['pdftoppm','-f',str(k),'-l',str(k),'-r','700','-gray','-png','-singlefile',path,f[:-4]],check=True)
 im=Image.open(f); W,H=im.size
