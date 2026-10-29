@@ -7472,13 +7472,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 ### Rik 41.6 (pp. 424–, PDF 438–)
 
-**Saṃhitā-pāṭha** *(p. 424; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 424; Saṃhitā accents as printed (checked at 420–560 dpi); Pada unaccented.)*
 
-> **स रत्नं मर्त्यो वसु विश्वं तोकमुत त्मना ।**
-> **अच्छा गच्छत्यस्तृतः ॥ ६ ॥**
+> **स रत्नं॒ मर्त्यो॒ वसु॒ विश्वं॑ तो॒कमु॒त त्मना॑ ।**
+> **अच्छा॑ गच्छ॒त्यस्तृ॑तः ॥ ६ ॥**
 
-*sa ratnaṃ martyo vasu viśvaṃ tokam uta tmanā |*
-*acchā gacchaty astṛtaḥ || 6 ||*
+*sa ratnaṃ mártyo vásu víśvaṃ tokám utá tmánā |*
+*ácchā gacchaty ástṛtaḥ || 6 ||*
 
 **Pada-pāṭha** *(p. 424)*
 
@@ -7502,7 +7502,6 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Bhāvārtha** *(p. 424)* — "O Ādityas, by your grace the human sacrificer destroys all his enemies and becomes free from injury. He obtains all wealth at once, and obtains progeny that is like his own self."
 
-*(The English translation, Special Topics and grammar of Rik 6 begin on p. 425, not yet written.)*
 
 ---
 
@@ -7511,14 +7510,14 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 **English Translation (the source's own, p. 425)** — "That mortal whom you favour, obtains without any obstacles, all valuable wealth, and progeny like himself."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 425**
-- **tokam** — "*tuk*; since the word *tokam* is read among the fifteen names of offspring beginning with *tokam* [as read, crowded [?]], *tokam* means offspring, progeny of sons — 'progeny, offspring'" (the source adds the English words).
+- **tokam** — "*tuk*; since the word *tokam* is read among the fifteen names of offspring beginning with *tuk*, *tokam*, *tokam* means offspring, progeny of sons — 'progeny, offspring'" (the source adds the English words).
 - **astṛtaḥ** = *stṛñ hiṃsāyām* — "without obstacles, without trouble: 'without obstacles, without any hindrance'" (the English words are the source's).
 
 **Vyākaraṇa-prakriyā** *(p. 425 — grammar page, noted briefly)*
-- **ratnam**: *sabbiṣayaś syāni saṃtasya* [as read, crowded [?]; Phiṭ. sūtra number as read [?]]: first-syllable acute.
-- **tmanā**: *mantreṣv āṅyāder ātmanaḥ* — मन्त्रेष्वाङ्याद्रेरात्मनः — [Pā. 6-4-141 as read]: *āṅ* means the third-case singular ending of the ancients' technical term (*prācīnasaṃjñā*); when *āṅ* follows, the first letter of *ātman* is lost in the Veda, so the *ā* is lost.
-- **acchā**: *nipātasya ca* [Pā. 6-3-136 as read]: a particle in a mantra takes the long vowel; *acchā gatyarthavadeṣu* — अच्छ गत्यर्थवदेषु — [Pā. 1-4-69 as read]: when the roots of going and the root *vad* are used with it, the indeclinable *accha* takes the *gati* name and the *nipāta* name; hence the long vowel in the Saṃhitā.
-- **astṛtaḥ**: *stṛñ hiṃsāyām*, *svādi* (short-ending) or *kryādi* (long-ending), and in the sense of covering *stṛ* is read; the commentators of the Veda (*vedabhāṣyakāra*) take it also in the sense of injury; *kta*; this is an *ajanta* root; *ūdṛdantaiḥ* [as read, crowded [?]] does not include it, so it is unaccented; *ekāca upadeśe 'nudāttāt* — the prohibition of *iṭ*; or *titutra…* [Pā. 7-2-9 as read] the prohibition of *iṭ*; "*na stṛtaḥ*": a *nañ*-compound; *tatpuruṣe tulyārtha…* gives the first-member accent as an indeclinable. Rik 6 ends here (*|| 6 ||*).
+- **ratnam**: *nabviṣayasyānisantasya* (Phi. Sū. 26): first-syllable acute.
+- **tmanā**: *mantreṣv āṅyāder ātmanaḥ* — मन्त्रेष्वाङ्यादेरात्मनः — (Pā. Sū. 6-4-141): *āṅ* means the third-case singular ending of the ancients' technical term (*prācīnasaṃjñā*); when *āṅ* follows, the first letter of *ātman* is lost in the Veda, so the *ā* is lost.
+- **acchā**: *nipātasya ca* (Pā. Sū. 6-3-136): a particle in a mantra takes the long vowel; *acchā gatyarthavadeṣu* — अच्छ गत्यर्थवदेषु — (Pā. Sū. 1-4-69): when the roots of going and the root *vad* are used with it, the indeclinable *accha* takes the *gati* name and the *nipāta* name; hence the long vowel in the Saṃhitā.
+- **astṛtaḥ**: *stṛñ hiṃsāyām*, *svādi* (short-ending) or *kryādi* (long-ending), and in the sense of covering *stṛ* is read; the commentators of the Veda (*vedabhāṣyakāra*) take it also in the sense of injury; *kta*; this is an *ajanta* root; *ūdṛdantaiḥ…* does not include it, so it is unaccented; *ekāca upadeśe 'nudāttāt* — the prohibition of *iṭ*; or *titutra—* (Pā. Sū. 7-2-9) the prohibition of *iṭ*; "*na stṛtaḥ*": a *nañ*-compound; *tatpuruṣe tulyārtha…* gives the first-member accent as an indeclinable. Rik 6 ends here (*|| 6 ||*).
 
 ---
 
