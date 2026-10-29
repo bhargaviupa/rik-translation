@@ -5777,13 +5777,13 @@
 
 ### Rik 54.4 (pp. 313–, PDF 329–; metre Triṣṭubh? — the heading marks Riks 6, 8, 9, 11 as Triṣṭubh, so Rik 4 is Jagatī)
 
-**Saṃhitā-pāṭha** *(p. 313; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 313; accents as printed)*
 
-> **त्वं दिवो बृहतः सानु कोपयोऽव त्मना धृषता शंबरं भिनत् ।**
-> **यन्मायिनो वृन्दिनो मन्दिना धृषच्छिताम् गभस्तिमशनिं पृतन्यसि ॥ ४ ॥**
+> **त्वं दि॒वो बृ॑ह॒तः सानु॑ कोप॒योऽव॒ त्मना॑ धृष॒ता शंब॑रं भिनत् ।**
+> **यन्मा॒यिनो॑ वृ॒न्दिनो॑ म॒न्दिना॑ धृ॒षच्छि॒तां गभ॑स्तिम॒शनिं॑ पृत॒न्यसि॑ ॥ ४ ॥**
 
-*tvaṃ divo bṛhataḥ sānu kopayo 'va tmanā dhṛṣatā śaṃbaraṃ bhinat |*
-*yan māyino vṛndino mandinā dhṛṣac chitāṃ gabhastim aśaniṃ pṛtanyasi || 4 ||*
+*tváṃ divó bṛhatáḥ sā́nu kopayó 'va tmánā dhṛṣatā́ śáṃbaraṃ bhinat |*
+*yán māyíno vṛndíno mandínā dhṛṣác chitā́ṃ gábhastim aśániṃ pṛtanyási || 4 ||*
 
 **Pada-pāṭha** *(p. 314)*
 
@@ -5795,11 +5795,11 @@
 
 **Sāyaṇa-bhāṣya** *(p. 314)*
 
-> **हे इन्द्र त्वं बृहतो महतो दिवो द्युलोकस्य सानु समुच्छ्रितमुपरिप्रदेशं कोपयः । आकम्पयः । धृषता शत्रूणां धर्षयित्रा त्मनात्मना स्वयमेव शंबरमेतत्संज्ञमसुरमवाभिनत् । अवधीः । यद्यदा वृन्दिनः शत्रून् जेतुं मृदुभावं प्राप्तान् । यद्वा वृन्दं समूहः । असुरसमूहवतः । मायिनो मायाविनोऽसुरान् मन्दिना हृष्वेन धृषत् धृषता प्रागल्भ्यं प्राप्तवता मनसा युक्तस्त्वं शिताम् तीक्ष्णीकृताम् गभस्तिं हस्तेन गृहीताम् । यद्वा गभस्तिरिति रश्मिनाम । तद्वतीमशनिं वज्रं पृतन्यसि । तानसुरान् जेतुं पृतनारूपेणेच्छसि । तान् प्रति प्रेरयसीत्यर्थः । तदानीं बृहतो दिवः सानु कोपयः इति पूर्वेणान्वयः ॥**
+> **हे इन्द्र त्वं बृहतो मरुतो दिवो द्युलोकस्य सानु समुच्छ्रितमुपरिप्रदेशं कोपयः । आकम्पयः । धृषता शत्रूणां धर्षयित्रा त्मनात्मना स्वयमेव शंबरमेतत्संज्ञमसुरमवाभिनत् । अवधीः । यद्यदा वृन्दिनः शत्रून् जेतुं मृदुभावं प्राप्तान् । यद्वा वृन्दं समूहः । असुरसमूहवतः । मायिनो मायाविनोऽसुरान् मन्दिना हृष्वेन धृषत् धृषता प्रागल्भ्यं प्राप्तवता मनसा युक्तस्त्वं शिताम् तीक्ष्णीकृताम् गभस्तिं हस्तेन गृहीताम् । यद्वा गभस्तिरिति रश्मिनाम । तद्वतीमशनिं वज्रं पृतन्यसि । तानसुरान् जेतुं पृतनारूपेणेच्छसि । तान् प्रति प्रेरयसीत्यर्थः । तदानीं बृहतो दिवः सानु कोपयः इति पूर्वेणान्वयः ॥**
 
-*he indra tvaṃ bṛhato mahato divo dyulokasya sānu samucchritam upariprade­śaṃ kopayaḥ | ākampayaḥ | dhṛṣatā śatrūṇāṃ dharṣayitrā tmanātmanā svayam eva śambaram etatsaṃjñam asuram avābhinat | avadhīḥ | yad yadā vṛndinaḥ śatrūn jetuṃ mṛdubhāvaṃ prāptān | yadvā vṛndaṃ samūhaḥ | asurasamūhavataḥ | māyino māyāvino 'surān mandinā hṛṣvena dhṛṣat dhṛṣatā prāgalbhyaṃ prāptavatā manasā yuktas tvaṃ śitāṃ tīkṣṇīkṛtāṃ gabhastiṃ hastena gṛhītām | yadvā gabhastir iti raśminām | tadvatīm aśaniṃ vajraṃ pṛtanyasi | tān asurān jetuṃ pṛtanārūpeṇecchasi | tān prati prerayasīty arthaḥ | tadānīṃ bṛhato divaḥ sānu kopayaḥ iti pūrveṇānvayaḥ ||*
+*he indra tvaṃ bṛhato maruto divo dyulokasya sānu samucchritam upariprade­śaṃ kopayaḥ | ākampayaḥ | dhṛṣatā śatrūṇāṃ dharṣayitrā tmanātmanā svayam eva śambaram etatsaṃjñam asuram avābhinat | avadhīḥ | yad yadā vṛndinaḥ śatrūn jetuṃ mṛdubhāvaṃ prāptān | yadvā vṛndaṃ samūhaḥ | asurasamūhavataḥ | māyino māyāvino 'surān mandinā hṛṣvena dhṛṣat dhṛṣatā prāgalbhyaṃ prāptavatā manasā yuktas tvaṃ śitāṃ tīkṣṇīkṛtāṃ gabhastiṃ hastena gṛhītām | yadvā gabhastir iti raśminām | tadvatīm aśaniṃ vajraṃ pṛtanyasi | tān asurān jetuṃ pṛtanārūpeṇecchasi | tān prati prerayasīty arthaḥ | tadānīṃ bṛhato divaḥ sānu kopayaḥ iti pūrveṇānvayaḥ ||*
 
-*(Reading notes: the print's "*bṛhato maruto divo*" at the head — I read "*bṛhato mahato*", which the Pratipadārtha supports ("of the very great heaven"), [?]; "*mṛdubhāvaṃ*" is crowded, [?]. The grammatical tail, pp. 314: on* kopayaḥ *(*kupa kope*, *ṇic*, *laṅ*; the Vedic non-*aṭ*),* tmanā *(*mantreṣv āṅy ādeḥ…* the loss of the *a* in *ātman*),* dhṛṣat *(*supāṃ suluk* with *luk* for the instrumental),* śitām *(*śo tanūkaraṇe*, *niṣṭhāyāṃ śāc choranyatarasyām*, Pā. 6-4-… as read [?]),* pṛtanyasi *(*pṛtanām icchati*, *supa ātmanaḥ kyac*, the loss of the end of *pṛtanā*) — is characterized.)*
+*(Reading notes: the print reads "*bṛhato maruto divo*" ("ಮರುತೋ", clear), kept as printed; the sense "*mahato*", "great", which the Pratipadārtha gives ("of the very great heaven"), is followed in the translation; "*mṛdubhāvaṃ*" is clear in the print. The grammatical tail, pp. 314: on* kopayaḥ *(*kupa kope*, *ṇic*, *laṅ*; the Vedic non-*aṭ*),* tmanā *(*mantreṣv āṅy ādeḥ…* the loss of the *a* in *ātman*),* dhṛṣat *(*supāṃ suluk* with *luk* for the instrumental),* śitām *(*śo tanūkaraṇe*, *niṣṭhāyāṃ śāc choranyatarasyām*, printed "Pā. 7-4-41"),* pṛtanyasi *(*pṛtanām icchati*, *supa ātmanaḥ kyac*, the loss of the end of *pṛtanā*) — is characterized.)*
 
 **Translation of the bhāṣya:** "O Indra, you *kopayaḥ*, shook, *sānu*, the lofty top, the upper region, of *bṛhataḥ divaḥ*, the great heaven; *dhṛṣatā*, overpowering enemies, *tmanā*, of yourself, by yourself alone, *śambaram*, the Asura of that name, *avābhinat*, you split; killed — *yat*, when *vṛndinaḥ* [those enemies that had become soft in order to conquer — or, *vṛnda* is a multitude: possessed of hosts of Asuras], the *māyinaḥ*, the deceitful Asuras: you, joined with a mind *mandinā*, glad and *dhṛṣat*, bold, *pṛtanyasi*, desire as an army — you hurl against them — *aśanim*, the thunderbolt, *śitām*, sharpened, *gabhastim*, held in the hand (or: *gabhasti* is a name of rays — bearing rays); to conquer those Asuras. Then, 'you shook the top of great heaven' — connect with the first part."
 
@@ -5816,7 +5816,13 @@
 **English Translation (the source's own, p. 315)** — "You have shaken the summit of the spacious heavens; you have yourself killed Sambara by your foe-destroying might; you have hurled with exulting and determined mind the sharp and bright-eyed thunderbolt against the assembled Asuras."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 315–316**
-- **idam uktaṃ bhavati** *(Kannada, p. 315; the print gives it in Kannada with a few Sanskrit words)*: "This is what is said: Śambara, accompanied by many *māyā*-working followers, came to fight with Indra. Then Indra, taking his sharp thunderbolt, which is fit to be grasped in the hand, and with delight born from drinking soma, and filled with courage and enthusiasm, fought with Śambara and killed him. At that time even the great heaven trembled with fear of Indra. The deceitful ones, of evil conduct, with many followers, came wishing to fight Indra; then Indra, having drunk the soma and become delighted, firm and enthusiastic, took his bright thunderbolt in his hand, fought Śambara and killed him. At that time, the great world of heaven also shook with the force of Indra."
+- **idam uktaṃ bhavati** *(p. 315; a Sanskrit passage, followed by a Kannada rendering; re-read from the print)*:
+
+  > **इदमुक्तं भवति । अनेकमायाव्यनुचरयुक्तः शंबर इन्द्रेण सह युद्धायाजगाम । तदा हस्तग्रहणोचितं तीक्ष्णं वज्रं गृहीत्वा सोमपानेन जातहर्ष इन्द्रो धैर्ययुक्तमनाः सन् शंबरेण सह युद्धं कृत्वा तं जघान । तस्मिन्समये महान् द्युलोकोऽपि इन्द्रभियसा चकम्पे इति ।**
+
+  *idam uktaṃ bhavati | anekamāyāvyanucarayuktaḥ śaṃbara indreṇa saha yuddhāyājagāma | tadā hastagrahaṇocitaṃ tīkṣṇaṃ vajraṃ gṛhītvā somapānena jātaharṣa indro dhairyayuktamanāḥ san śaṃbareṇa saha yuddhaṃ kṛtvā taṃ jaghāna | tasmin samaye mahān dyuloko 'pi indrabhiyasā cakampe iti |*
+
+  "This is what is said: Śambara, accompanied by many *māyā*-working followers, came to fight with Indra. Then Indra, taking his sharp thunderbolt, which is fit to be grasped in the hand, and with delight born from drinking soma, and filled with courage and enthusiasm, fought with Śambara and killed him. At that time even the great heaven trembled with fear of Indra." The Kannada: "The deceitful ones, of evil conduct, with many followers, came wishing to fight Indra; then Indra, having drunk the soma and become delighted, firm and enthusiastic, took his bright thunderbolt in his hand, fought Śambara and killed him. At that time, the great world of heaven also shook with the force of Indra."
 - **divaḥ sānu** — "The upper part of the world of heaven. In common usage the word *sānu* means the 'table-land of a mountain'; here they have said 'the upper part'."
 - **tmanā** — "The word *ātman* in the Veda, by the loss of the letter *ā*, gives the very sense of the word *ātman*."
 - **śambaram** — "Śambara is a well-known Rākṣasa. There are many tales in the Purāṇas that Manmatha (Kāma) killed him."
@@ -5832,8 +5838,8 @@
 - **māyinaḥ**: as before, *vrīhyādibhyaś ca* gives *ini*; *yasyeti ca*; instrumental [i.e. accusative/nominative] plural form; the *i* acute by the suffix.
 - **vṛndinaḥ**: "*vṛnde 'sya asti iti vṛndī*"; *ata ini-ṭhanau* gives *ini*; *yasyeti ca* drops the *a*; the middle acute by the initial acute of the suffix.
 - **dhṛṣat**: *ñidhṛṣā prāgalbhye*; *śatṛ*; *vyatyaya* gives *śa* for *śap*; *ato guṇe*, *pararūpa*; in the instrumental singular *supāṃ suluk* drops the ending (*luk*): *dhṛṣat*; *ekāra*… the accent of the characteristic (*śatṛ*).
-- **śitām**: *śo tanūkaraṇe*; *niṣṭhā* *kta*; *śo + ta*: *śācchoranyatarasyām* (Pā. 7-4-… as read [?]) gives optional *i* for *ā*: *śita*; in the feminine *ajādyatas ṭāp*; end-acute by the suffix; accusative singular.
-- **pṛtanyasi**: "*pṛtanām ātmana icchati pṛtanyati*"; *supa ātmanaḥ kyac* gives *kyac* in the sense of desire; since *pṛtanā* + *ya*, *kavyadhvarapṛtanasyarci lopaḥ* (Pā. 7-4-39) drops the end of *pṛtanā*; *sanādyantā dhātavaḥ* gives the root-designation; *laṭ* second singular *sip*; *kartari śap*; *ato guṇe*: *pṛtanyasi*; since *yat* stands first, *yadvṛttān nityam* forbids the *nighāta*; by the suffix-accent the vowel after *y* is acute. **|| 4 ||**
+- **śitām**: *śo tanūkaraṇe*; *niṣṭhā* *kta*; *śo + ta*: *śācchoranyatarasyām* (Pā. sū. 7-4-41) gives optional *i* for *ā*: *śita*; in the feminine *ajādyatas ṭāp*; end-acute by the suffix; accusative singular.
+- **pṛtanyasi**: "*pṛtanām ātmana icchati pṛtanyati*"; *supa ātmanaḥ kyac* (Pā. sū. 3-1-8) gives *kyac* in the sense of desire; since *pṛtanā* + *ya*, *kavyadhvarapṛtanasyarci lopaḥ* (Pā. 7-4-39) drops the end of *pṛtanā*; *sanādyantā dhātavaḥ* gives the root-designation; *laṭ* second singular *sip*; *kartari śap*; *ato guṇe*: *pṛtanyasi*; since *yat* stands first, *yadvṛttān nityam* forbids the *nighāta*; by the suffix-accent the vowel after *y* is acute. **|| 4 ||**
 
 ---
 
