@@ -3,8 +3,8 @@ import os; R=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..'))
 def g(*a): return subprocess.run(['git','-C',R]+list(a),capture_output=True,text=True).stdout
 g('fetch','-q','origin')
 F={'3':'vol3/Rigveda_Samhita_Vol3_English_Translation.md','4':'Rigveda_Samhita_Vol4_English_Translation.md','5':'Rigveda_Samhita_Vol5_English_Translation.md'}
-for b in ['vol3-a','vol3-b','vol4-a','vol4-b','vol4-c','vol4-d','vol5-a','vol5-b','vol5-c']:
-    r='origin/claude/numerals-'+b
+for b in ['vol3','vol4-a','vol4-b','vol5-a','vol5-b','vol5-c']:
+    r='origin/claude/pass2-'+b
     if not g('rev-parse','-q','--verify',r).strip(): print(b,'NO BRANCH'); continue
     v=b[3]; f=F[v]; base=g('merge-base','origin/main',r).strip()
     n=g('rev-list','--count',base+'..'+r).strip()
