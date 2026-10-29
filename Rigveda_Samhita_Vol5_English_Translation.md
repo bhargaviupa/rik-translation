@@ -5561,15 +5561,15 @@
 
 **Sāyaṇa-bhāṣya (introduction)**
 
-> **मा न इत्येकादशर्चं चतुर्थं सूक्तम् । षष्ठ्यष्टमीनवम्येकादश्यस्त्रिष्टुभः । शिष्टाः सप्त जगत्यः । सव्य ऋषिः । इन्द्रो देवता । तथा चानुक्रान्तम् । मा नोऽन्त्या त्रिष्टुप् षष्ठ्यष्टमी नवमी चेति । अतिरात्रे प्रथमे पर्याये ऽच्छावाकशस्त्र इदं सूक्तम् । तथा च सूत्रितम् । मानो अस्मिन्मघवन्निन्द्र पिबा तुभ्यं सुतो मदायेति याज्या । आश्व. ६-४ [?] इति ॥**
+> **मा न इत्येकादशर्चं चतुर्थं सूक्तम् । षष्ठ्यष्टमीनवम्येकादश्यस्त्रिष्टुभः । शिष्टाः सप्त जगत्यः । सव्य ऋषिः । इन्द्रो देवता । तथा चानुक्रान्तम् । मा नोऽन्त्या त्रिष्टुप् षष्ठ्यष्टमी नवमी चेति । अतिरात्रे प्रथमे पर्याये ऽच्छावाकशस्त्र इदं सूक्तम् । तथा च सूत्रितम् । मानो अस्मिन्मघवन्निन्द्र पिब तुभ्यं सुतो मदायेति याज्या । आ. ६-४ इति ॥**
 
-*mā na ity ekādaśarcaṃ caturthaṃ sūktam | ṣaṣṭhyaṣṭamīnavamyekādaśyas triṣṭubhaḥ | śiṣṭāḥ sapta jagatyaḥ | savya ṛṣiḥ | indro devatā | tathā cānukrāntam | mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti | atirātre prathame paryāye 'cchāvākaśastra idaṃ sūktam | tathā ca sūtritam | mā no asmin maghavann indra pibā tubhyaṃ suto madāyeti yājyā | āśva. 6-4 [?] iti ||*
+*mā na ity ekādaśarcaṃ caturthaṃ sūktam | ṣaṣṭhyaṣṭamīnavamyekādaśyas triṣṭubhaḥ | śiṣṭāḥ sapta jagatyaḥ | savya ṛṣiḥ | indro devatā | tathā cānukrāntam | mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti | atirātre prathame paryāye 'cchāvākaśastra idaṃ sūktam | tathā ca sūtritam | mā no asmin maghavann indra piba tubhyaṃ suto madāyeti yājyā | ā. 6-4 iti ||*
 
-*(Reading note: the Anukramaṇī's "*mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti*" is crowded in the print ("ṣaṣṭhyaṣṭavi navamī ce…"), [?]; the Āśvalāyana numeral "6-4" is as read, [?]. The quotation* mā no asmin maghavann indra pibā tubhyaṃ suto madāya *is as the print gives it; the Rik's own words (Rik 54.1) are* mā no asmin maghavan pṛtsv aṃhasi*, so I treat the quotation as the* yājyā*-verse, not as Rik 54.1.)*
+*(Reading note: the Anukramaṇī's "*mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti*" is confirmed from the print (p. 303); the reference is printed "ಆ. ೬-೪" (Āśv. 6-4). The quotation* mā no asmin maghavann indra piba tubhyaṃ suto madāya *is as the print gives it; the Rik's own words (Rik 54.1) are* mā no asmin maghavan pṛtsv aṃhasi*, so I treat the quotation as the* yājyā*-verse, not as Rik 54.1.)*
 
-**Translation:** "'*Mā naḥ*': a sūkta of eleven Riks, the fourth [of the Tenth Anuvāka]; the sixth, eighth, ninth and eleventh are Triṣṭubh; the remaining seven are Jagatī. The seer is Savya, the deity Indra; so the Anukramaṇī: '*Mā naḥ*: the last [is] Triṣṭubh; the sixth, the eighth and the ninth' [?]. In the Atirātra rite, in the first *paryāya*, this sūkta belongs to the recitation of the Acchāvāka; so it is aphorized: '*mā no asmin maghavann indra pibā tubhyaṃ suto madāya*' is the *yājyā* (Āśv. 6-4 as read [?])."
+**Translation:** "'*Mā naḥ*': a sūkta of eleven Riks, the fourth [of the Tenth Anuvāka]; the sixth, eighth, ninth and eleventh are Triṣṭubh; the remaining seven are Jagatī. The seer is Savya, the deity Indra; so the Anukramaṇī: '*Mā naḥ*: the last [is] Triṣṭubh; the sixth, the eighth and the ninth'. In the Atirātra rite, in the first *paryāya*, this sūkta belongs to the recitation of the Acchāvāka; so it is aphorized: '*mā no asmin maghavann indra piba tubhyaṃ suto madāya*' is the *yājyā* (Āśv. 6-4)."
 
-**Anuvāda (Kannada, p. 303)** — "'*Mā naḥ*' is the fourth sūkta in the tenth anuvāka. It has eleven Riks. The sixth, eighth, ninth and eleventh Riks of this sūkta are in the Triṣṭubh metre; the remaining seven Riks are in Jagatī. The seer of this sūkta is Savya; the deity is Indra. In the Anukramaṇikā it is said '*mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti*' [?]. In the sacrifice called *Atirātra*, in the first *paryāya*, this sūkta is to be used by the priest Acchāvāka for the śastra mantras; the sūtra '*mā no asmin maghavann indra pibā tubhyaṃ suto madāya*' in the Āśvalāyana Śrauta Sūtra shows this (Āś. 6-4 as read [?])."
+**Anuvāda (Kannada, p. 303)** — "'*Mā naḥ*' is the fourth sūkta in the tenth anuvāka. It has eleven Riks. The sixth, eighth, ninth and eleventh Riks of this sūkta are in the Triṣṭubh metre; the remaining seven Riks are in Jagatī. The seer of this sūkta is Savya; the deity is Indra. In the Anukramaṇikā it is said '*mā no 'ntyā triṣṭup ṣaṣṭhyaṣṭamī navamī ceti*'. In the sacrifice called *Atirātra*, in the first *paryāya*, this sūkta is to be used by the priest Acchāvāka for the śastra mantras; the sūtra '*mā no asmin maghavann indra piba tubhyaṃ suto madāya*' in the Āśvalāyana Śrauta Sūtra shows this (printed "(ಸಿ. ೬-೪)" [?]: the abbreviation letter is unclear; the numerals 6-4 are clear)."
 
 *(The heading block and Rik 54.1 begin on p. 304 (PDF 320).)*
 
@@ -5580,23 +5580,23 @@
 ### Heading block of Sūkta 54 *(p. 304, PDF 320)*
 
 - Maṇḍala 1 · Anuvāka 10 · Sūkta 54
-- Aṣṭaka 1 · Adhyāya 4 · Varga 14, 15 [as read, small numerals, [?]]
+- Aṣṭaka 1 · Adhyāya 4 · Varga 16, 18 (as printed, "ವರ್ಗ—೧೬, ೧೮")
 - Number of Riks in the sūkta: 11
 - Ṛṣi: Savya Āṅgirasa
 - Deity: Indra
-- Metre: Riks 1–5, 7, 10 Jagatī; Riks 6, 8, 9, 11 Triṣṭubh *(the print's numerals "೧-೫, ೭, ೧೦ ಜಗತೀ । ೬, ೮, ೯, ೧೧ ತ್ರಿಷ್ಟುಪ್", small, [?])*
+- Metre: Riks 1–5, 7, 10 Jagatī; Riks 6, 8, 9, 11 Triṣṭubh *(the print's numerals "೧-೫, ೭, ೧೦ ಜಗತೀ । ೬, ೮, ೯, ೧೧ ತ್ರಿಷ್ಟುಪ್", confirmed)*
 
 ---
 
 ### Rik 54.1 (pp. 304–306, PDF 320–322)
 
-**Saṃhitā-pāṭha** *(p. 304; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 304; accents as printed; [accent ?]: an anudātta under* pṛ *of* pṛtsv *is not clear in the print)*
 
-> **मा नो अस्मिन्मघवन्पृत्स्वंहसि नहि ते अन्तः शवसः परीणशे ।**
-> **अक्रन्दयो नद्यो रोरुवद्वना कथा न क्षोणीर्भियसा समारत ॥ १ ॥**
+> **मा नो॑ अ॒स्मिन्म॑घवन्पृत्स्वंह॑सि न॒हि ते॒ अन्तः॒ शव॑सः परी॒णशे॑ ।**
+> **अक्र॑न्दयो न॒द्यो॒३॒॑ रोरु॑व॒द्वना॑ क॒था न क्षो॒णीर्भि॒यसा॒ समा॑रत ॥ १ ॥**
 
-*mā no asmin maghavan pṛtsv aṃhasi nahi te antaḥ śavasaḥ parīṇaśe |*
-*akrandayo nadyo roruvad vanā kathā na kṣoṇīr bhiyasā sam ārata || 1 ||*
+*mā́ no asmín maghavan pṛtsv áṃhasi nahí te ántaḥ śávasaḥ parīṇáśe |*
+*ákrandayo nadyò róruvad vánā kathā́ ná kṣoṇī́r bhiyásā sám ārata || 1 ||*
 
 **Pada-pāṭha** *(p. 304)*
 
@@ -5608,11 +5608,11 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 304–305)*
 
-> **हे मघवन् धनवन्निन्द्र अस्मिन् परिदृश्यमानेंऽहसि पापे पृत्सु पृतनासु पापफलभूतेषु संग्रामेषु च नोऽस्मान्मा प्रक्षैप्सीरिति शेषः । यस्मात्ते तव शवसो बलस्यान्तोऽवसानं परीणशे परितो व्याप्तुं न हि शक्यते । सर्वोऽपि जनस्त्वदीयं बलमतिक्रमितुं न शक्नोतीत्यर्थः । तस्मात्त्वमन्तरिक्षे वर्तमानो रोरुवत् आत्मार्थं शब्दं कुर्वन् नद्यो नदीर्वना तत्संबन्धीन्युदकानि चाक्रन्दयः शब्दयसि । क्षोणीः क्षोण्यः । क्षोणीति पृथिवीनाम । कदुफलक्षणास्त्रयो लोका भियसा त्वदीयेन कथा कथं न समारत । न संगच्छन्ते । त्वदीयं बलमवलोक्य त्रयोऽपि लोका बिभ्यतीति भावः ॥**
+> **हे मघवन् धनवन्निन्द्र अस्मिन् परिदृश्यमानेंऽहसि पापे पृत्सु पृतनासु पापफलभूतेषु संग्रामेषु च नोऽस्मान्मा प्रक्षैप्सीरिति शेषः । यस्मात्ते तव शवसो बलस्यान्तोऽवसानं परीणशे परितो व्याप्तुं न हि शक्यते । सर्वोऽपि जनस्त्वदीयं बलमतिक्रमितुं न शक्नोतीत्यर्थः । तस्मात्त्वमन्तरिक्षे वर्तमानो रोरुवत् आत्मार्थं शब्दं कुर्वन् नद्यो नदीर्वना तत्संबन्धीन्युदकानि चाक्रन्दयः शब्दयसि । क्षोणीः क्षोण्यः । क्षोणीति पृथिवीनाम । तदुपलक्षितास्त्रयो लोका भियसा त्वदीयेन कथा कथं न समारत । न संगच्छन्ते । त्वदीयं बलमवलोक्य त्रयोऽपि लोका बिभ्यतीति भावः ॥**
 
-*he maghavan dhanavann indra asmin paridṛśyamāne 'ṃhasi pāpe pṛtsu pṛtanāsu pāpaphalabhūteṣu saṃgrāmeṣu ca no 'smān mā prakṣaipsīr iti śeṣaḥ | yasmāt te tava śavaso balasyānto 'vasānaṃ parīṇaśe parito vyāptuṃ na hi śakyate | sarvo 'pi janas tvadīyaṃ balam atikramituṃ na śaknotīty arthaḥ | tasmāt tvam antarikṣe vartamāno roruvat ātmārthaṃ śabdaṃ kurvan nadyo nadīr vanā tatsaṃbandhīny udakāni cākrandayaḥ śabdayasi | kṣoṇīḥ kṣoṇyaḥ | kṣoṇīti pṛthivīnāma | kaduphalakṣaṇās trayo lokā bhiyasā tvadīyena kathā kathaṃ na samārata | na saṃgacchante | tvadīyaṃ balam avalokya trayo 'pi lokā bibhyatīti bhāvaḥ ||*
+*he maghavan dhanavann indra asmin paridṛśyamāne 'ṃhasi pāpe pṛtsu pṛtanāsu pāpaphalabhūteṣu saṃgrāmeṣu ca no 'smān mā prakṣaipsīr iti śeṣaḥ | yasmāt te tava śavaso balasyānto 'vasānaṃ parīṇaśe parito vyāptuṃ na hi śakyate | sarvo 'pi janas tvadīyaṃ balam atikramituṃ na śaknotīty arthaḥ | tasmāt tvam antarikṣe vartamāno roruvat ātmārthaṃ śabdaṃ kurvan nadyo nadīr vanā tatsaṃbandhīny udakāni cākrandayaḥ śabdayasi | kṣoṇīḥ kṣoṇyaḥ | kṣoṇīti pṛthivīnāma | tadupalakṣitās trayo lokā bhiyasā tvadīyena kathā kathaṃ na samārata | na saṃgacchante | tvadīyaṃ balam avalokya trayo 'pi lokā bibhyatīti bhāvaḥ ||*
 
-*(Reading notes: "*prakṣaipsīḥ*" is the print's "*prakṣaipsīr*", doubtful; "*kaduphalakṣaṇāḥ*" ("marked by ... fruit"?) is crowded in the print and I leave it as read, [?] — the Kannada Special Topics and Pratipadārtha say "the three worlds beginning with earth", so I translate so. The grammatical tail on pp. 305 — on* pṛtsu *(*pṛtanā* with the substitute* pṛt *by* pṛtanāyāṃ… *Pā. 6-1-63 *vārttika*),* parīṇaśe *(*naśa adarśane*, *kenyaḥ*? — "*kṛtyārthe tavaikakenn*" read as* kenn *suffix, Pā. 3-4-14 as read [?]; *nipātasya ca* lengthening),* nadyaḥ*,* roruvat *(*ru śabde*, *yaṅluk*, *śatṛ*; *adādivac ca*),* kathā *(*kim* + *thāl*, *kimaḥ kaḥ*),* ārata *(*ṛ gatau*, *saṃ* with *gamy-ṛcchi…*) — is characterized.)*
+*(Reading notes: "*prakṣaipsīḥ*" is confirmed from the print ("ಪ್ರಕ್ಷೈಪ್ಸೀರಿತಿ"); the print reads "*tadupalakṣitāḥ*" ("marked by that", i.e. the three worlds marked by the earth), as the Kannada "the three worlds beginning with earth" says. The grammatical tail on p. 305 — on* pṛtsu *(*pṛtanā* with the substitute* pṛt *by* padādiṣu māṃspṛtsnūnām upasaṃkhyānam*, printed "Pā. 3-1-63-1" [as printed; for 6-1-63-1]),* parīṇaśe *(*naśa vyāptikarmā*; "*kṛtyārthe tavaikekenkenyatvanaḥ*" gives the suffix* ken*, no number printed; *nipātasya ca* lengthening),* nadyaḥ*,* roruvat *(*ru śabde*, *yaṅluk*, *śatṛ*; *adādivac ca*),* kathā *(*kim* + *thāl*, *kimaḥ kaḥ*, Pā. 7-2-103 printed),* ārata *(*ṛ gatau*, *saṃ* with *gamy-ṛcchi…*) — is characterized.)*
 
 **Translation of the bhāṣya:** "O *maghavan*, wealthy Indra, in this visible *aṃhasi*, sin, and in *pṛtsu*, battles that are the fruit of sin, do not throw us (this is understood). Because the end, the limit, of your *śavasaḥ*, your strength, cannot be pervaded all round (*parīṇaśe*) — everyone is unable to surpass your strength, is the sense. Therefore you, abiding in the atmosphere, *roruvat*, roaring for your own sake, *akrandayaḥ*, make *nadyaḥ*, the rivers, and *vanā*, their waters, sound. *Kṣoṇīḥ* — *kṣoṇī* is a name for earth — the three worlds, beginning with the earth, *kathā na samārata*, how should they not be filled — *bhiyasā*, with fear of you? Seeing your strength all three worlds are afraid, is the sense."
 
@@ -5625,9 +5625,11 @@
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 306**
 - *(first Special Topic, a Sanskrit passage in the print)*:
 
-  > **केचिदेवमाहुः । किंचित्संग्राममुपसंप्राणसंकटप्रसंगमुद्दिश्य वचनमिदं सव्यस्य । य इन्द्रो वृत्रं भित्त्वा सगर्जनेन तथा लोकान् भयहेतुत्वात्सन्मासयेषा महता मेघजलवर्षणेन तेजसा नदीर्महदेकशब्दयेत् तेन च स्वबलमनंतमित्याविरभावयेत् सोऽस्मिन्धारुणे प्रसंगेऽस्माकं प्राणसंकटस्य निवारको भविष्यतीति भागवतम् ॥**
+  *(Introduced in Kannada: "ಕೆಲವರು ಈ ರೀತಿ ಹೇಳುತ್ತಾರೆ" — "some say thus"; the Sanskrit follows. Re-read from the print, p. 306.)*
 
-  *kecid evam āhuḥ | kiṃcit saṃgrāmam upasaṃprāṇasaṃkaṭaprasaṅgam uddiśya vacanam idaṃ savyasya | ya indro vṛtraṃ bhittvā sagarjanena tathā lokān bhayahetutvāt …[crowded, [?]] … meghajalavarṣaṇena tejasā nadīr mahad ekaśabdayet tena ca svabalam anantam ity āvirabhāvayet so 'smin dhāruṇe prasaṅge 'smākaṃ prāṇasaṃkaṭasya nivārako bhaviṣyatīti bhāgavatam ||* — "Some say thus: This saying of Savya is made with reference to some battle and a crisis of life: Indra who, having split Vṛtra, with a roar … by showering the rain-water of the cloud with brilliance made the rivers resound as one great sound, and thereby revealed his own boundless strength — he will be the remover of the crisis of our lives in this dreadful situation: so says the Bhāgavata." *(The print's middle is crowded, so this is a rough rendering, [?].)* The Kannada adds: "These are the words of Savya, the seer of the sūkta, in fear of battle. It is said in the Bhāgavata and the Purāṇas that when Indra killed Vṛtra there was a great rain with a loud sound and lightning, and a great river began to roar with terrible noise; seeing it the army (Savya) was frightened and praised Indra in this way to protect him."
+  > **कंचित्संग्रामरूपसंप्राणसंकटप्रसंगमुद्दिश्य वचनमिदं सव्यस्य । य इन्द्रो वृत्रं भित्त्वा सगर्जनेन तथा लोकांश्च भयहेतुत्वात्समासयता [?] महता मेघजलवर्षणेन तेज[?]ता नदीर्महदशब्दयत् तेन च स्वबलमनन्तमित्याविरभावयत् सोऽस्मिन्दारुण प्रसंगेऽस्माकं प्राणसंकटस्य निवारको भविष्यतीति भागवतम् ॥**
+
+  *kaṃcit saṃgrāmarūpasaṃprāṇasaṃkaṭaprasaṅgam uddiśya vacanam idaṃ savyasya | ya indro vṛtraṃ bhittvā sagarjanena tathā lokāṃś ca bhayahetutvāt samāsayatā [?] mahatā meghajalavarṣaṇena teja[?]tā nadīr mahad aśabdayat tena ca svabalam anantam ity āvirabhāvayat so 'smin dāruṇa prasaṅge 'smākaṃ prāṇasaṃkaṭasya nivārako bhaviṣyatīti bhāgavatam ||* — "Some say thus: This saying of Savya is made with reference to a crisis of life in the form of some battle: Indra who, having split Vṛtra, with a roar, [terrifying] the worlds too, being the cause of fear, by the great shower of the cloud's water … [?] made the rivers sound greatly, and thereby revealed his own boundless strength — he will be the remover of the crisis of our lives in this dreadful situation: so says the Bhāgavata." *("samāsayatā" is as printed, perhaps for* saṃtrāsayatā *[?]; the word before* nadīḥ *is printed "ತೇಜ್ಞಾತಾ"-like and is not settled [?].)* The Kannada adds: "These are the words of Savya, the seer of the sūkta, in fear of battle. It is said in the Bhāgavata and the Purāṇas that when Indra killed Vṛtra there was a great rain with a loud sound and lightning, and a great river began to roar with terrible noise; seeing it the army (Savya) was frightened and praised Indra in this way to protect him."
 - **pṛtsu** — "In battles that are the fruit of sin. For *pṛtanā*, a word meaning 'army', the substitute *pṛt* comes and gives the form *pṛtsu*."
 - **parīṇaśe** — "*Parito vyāptuṃ*: here the root *naś*, with the prefix *pari*, is understood in the sense of the action of pervading: 'to pervade fully'."
 - **nadyaḥ** — "This is used in the first case in the sense of the third [sic: second] case."
@@ -5635,17 +5637,17 @@
 - **kṣoṇī** — "Though this word generally means earth, here one must say it means the three worlds, marked by earth and the rest."
 
 **Vyākaraṇa-prakriyā** *(p. 306 — grammar page, noted briefly; continues on p. 307)*
-- **pṛtsu**: the word *pṛtanā* in the locative plural; *padādiṣu māṃspṛtsnūnām upasaṃkhyānam* (Pā. 6-1-63 *vārttika*, as read [?]) gives *pṛt* for it: *pṛtsu*.
-- **parīṇaśe**: *naśa adarśane*; here with the sense of pervasion; *kṛtyārthe tavaikakenn…* (Pā. 3-4-14 as read [?]) gives *kenn*; being *nit*, initial-acute; with *pari* standing first, *nipātasya ca* (Pā. 6-3-… as read [?]) lengthens the *i*.
-- **nadyaḥ**: from *nadī*, *jas* following, *dīrghājjasi ca* (Pā. 6-1-… as read [?]) forbids the long same-sound substitution; *yaṇ*; here the first case stands in the second-case sense.
+- **pṛtsu**: the word *pṛtanā* in the locative plural; *padādiṣu māṃspṛtsnūnām upasaṃkhyānam* (printed "Pā. sū. 6-1-63-1") gives *pṛt* for it: *pṛtsu*.
+- **parīṇaśe**: *naśa adarśane*; here with the sense of pervasion; *kṛtyārthe tavaikekenkenyatvanaḥ* (Pā. sū. 3-4-14) gives *ken*; being *nit*, initial-acute; with *pari* standing first, *nipātasya ca* (Pā. sū. 6-3-136) lengthens the *i*.
+- **nadyaḥ**: from *nadī*, *jas* following, *dīrghājjasi ca* (no number printed) forbids the long same-sound substitution; *yaṇ*; here the first case stands in the second-case sense.
 
 ---
 
 ---
 
 **Rik 54.1, grammar (end)** *(p. 307, PDF 323 — grammar page, noted briefly)*
-- **roruvat**: *ru śabde*; in the sense of intensity, *yaṅ* by *dhātor ekāco halādeḥ…*; *yaṅ* is dropped (*luk*) by *yaño 'ci ca* (as read, [?]); reduplication; *guṇo yaṅlukoḥ* gives *guṇa* to the reduplicative; *sanādyantā dhātavaḥ* gives the root-designation; *śatṛ* in the present sense; *yaṅluki* the *adādivat* extension drops *śap* by *adiprabhṛtibhyaḥ śapaḥ*; since *śatṛ* is *ṅit*-like, no *guṇa* by *sārvadhātukam apit*; *ro-ru + at*: *āciśnudhātubhruvāṃ…* gives *uvaṅ*: *roruvat*; *nābhyastācchatuḥ* forbids *num* even after *sarvanāmasthāna*; *halṅyābbhyo…* drops *su*: *roruvat*; *abhyastānām ādiḥ* gives the initial acute.
-- **kathā**: the word *kim*; where the sense of the interrogative is shown, *thā hetau ca chandasi* (Pā. 5-3-26 as read [?]) gives *thāl*; since the suffix is in the *prāg diśo vibhaktiḥ* section it takes the *vibhakti*-designation, so *kimaḥ kaḥ* (Pā. 7-2-103) gives *ka* for *kim*: *kathā*; end-acute by the suffix-accent.
+- **roruvat**: *ru śabde*; in the sense of intensity, *yaṅ* by *dhātor ekāco halādeḥ…*; *yaṅ* is dropped (*luk*) by *yaṅo 'ci ca*; reduplication; *guṇo yaṅlukoḥ* gives *guṇa* to the reduplicative; *sanādyantā dhātavaḥ* gives the root-designation; *śatṛ* in the present sense; *yaṅluki* the *adādivat* extension drops *śap* by *adiprabhṛtibhyaḥ śapaḥ*; since *śatṛ* is *ṅit*-like, no *guṇa* by *sārvadhātukam apit*; *ro-ru + at*: *āciśnudhātubhruvāṃ…* gives *uvaṅ*: *roruvat*; *nābhyastācchatuḥ* (Pā. sū. 7-1-78) forbids *num* even after *sarvanāmasthāna*; *halṅyābbhyo…* drops *su*: *roruvat*; *abhyastānām ādiḥ* (Pā. sū. 6-1-189) gives the initial acute.
+- **kathā**: the word *kim*; where the sense of the interrogative is shown, *thā hetau ca chandasi* (Pā. sū. 5-3-26) gives *thāl*; since the suffix is in the *prāg diśo vibhaktiḥ* section it takes the *vibhakti*-designation, so *kimaḥ kaḥ* (Pā. 7-2-103) gives *ka* for *kim*: *kathā*; end-acute by the suffix-accent.
 - **ārata**: *ṛ gatau*; with *sam* before, *samo gamyṛcchibhyām* (Pā. 1-3-29) gives the *ātmanepada*; *chandasi luṅlaṅliṭaḥ* gives *laṅ* in the present sense; for the third plural *jha*, *ātmanepadeṣv anataḥ* gives *at*; being in the *adādi*, *śap* drops by *adiprabhṛtibhyaḥ śapaḥ*; *āḍajādīnām* gives *āṭ*; *āṭaś ca* gives *vṛddhi*: *ārata*; *tiṅ atiṅaḥ*, *nighāta*. **|| 1 ||**
 
 ---
