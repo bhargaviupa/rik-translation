@@ -9478,10 +9478,12 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 **॥ Saṃhitāpāṭhaḥ ॥**
 
-> नकिरस्य सहन्त्य पर्येता कयस्य चित् ।
-> वाजो अस्ति श्रवाय्यः ॥ ८ ॥
+> नकि॑रस्य सहन्त्य पर्ये॒ता कय॑स्य चित् । [accent ?]
+> वाजो॑ अस्ति श्र॒वाय्यः॑ ॥ ८ ॥
 
-*nakir asya sahantya paryetā kayasya cit | vājo asti śravāyyaḥ || 8 ||*
+*nákir asya sahantya paryetā́ káyasya cit | vā́jo asti śravā́yyaḥ || 8 ||*
+
+*(Saṃhitā accents as printed (w3); [accent ?]: a dot-like mark above स of सहन्त्य, perhaps a broken svarita stroke, left unmarked; Pada unaccented.)*
 
 **॥ Padapāṭhaḥ ॥**
 
@@ -9491,11 +9493,11 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(p. 391)*
 
-> हे सहन्त्ये शत्रूणामभिभवनशीलाग्ने अस्य त्वद्भृत्यकृतस्य [?] यजमानस्य कयस्य चित्कस्यापि पर्येता नकिः आक्रमिता नास्ति । किंचास्य यजमानस्य श्रवाय्यः श्रवणीयो वाजोऽस्ति । बलविशेषोऽस्ति ॥ कयस्य । यकारोपजनश्छान्दसः । श्रवाय्यः । श्रुदक्षिस्पृहिगृहिभ्य आय्यः । उ. ३-१५१ [?] इत्यायेप्रत्ययः ॥
+> हे सहन्त्य शत्रूणामभिभवनशीलाग्ने अस्य त्वद्भक्तस्य यजमानस्य कयस्य चित्कस्यापि पर्येता नकिः । आक्रमिता नास्ति । किंचास्य यजमानस्य श्रवाय्यः श्रवणीयो वाजोऽस्ति । बलविशेषोऽस्ति ॥ कयस्य । यकारोपजनश्छान्दसः । श्रवाय्यः । श्रुदक्षिस्पृहिगृहिभ्य आय्यः । उ. ३-९५ । इत्याय्यप्रत्ययः ॥
 
-*he sahantye śatrūṇām abhibhavanaśīlāgne asya tvadbhṛtyakṛtasya [?] yajamānasya kayasya cit kasyāpi paryetā nakiḥ ākramitā nāsti | kiṃcāsya yajamānasya śravāyyaḥ śravaṇīyo vājo 'sti | balaviśeṣo 'sti || kayasya | yakāropajanaś chāndasaḥ | śravāyyaḥ | śrudakṣispṛhigṛhibhya āyyaḥ | u. 3-151 [?] ity āyyapratyayaḥ ||*
+*he sahantya śatrūṇām abhibhavanaśīlāgne asya tvadbhaktasya yajamānasya kayasya cit kasyāpi paryetā nakiḥ | ākramitā nāsti | kiṃcāsya yajamānasya śravāyyaḥ śravaṇīyo vājo 'sti | balaviśeṣo 'sti || kayasya | yakāropajanaś chāndasaḥ | śravāyyaḥ | śrudakṣispṛhigṛhibhya āyyaḥ | u. 3-95 | ity āyyapratyayaḥ ||*
 
-**Translation:** "O *sahantya* — Agni, who is wont to overcome enemies! Of this sacrificer [of yours], *kayasya cit* — of any one whatsoever [*kasya cit*] — there is no (*nakiḥ*) *paryetā* — overcomer, assailant. And for this sacrificer there is *vājaḥ* — a notable strength — that is *śravāyyaḥ* — renowned. *Kayasya*: the insertion of *y* is Vedic. *Śravāyyaḥ*: the suffix *āyya* after *śru* [etc.] by Uṇ. 3-151 [?]." *(Grammar page 392, noted briefly: the words treated are* kayasya *[*kim* + *ṅas*: *ka* for *kim* by P. 7-2-103 *kimaḥ kaḥ*; *sya* for *ṅas* by P. 7-1-… *ṭājasiṅasāmināt syāḥ*; *y* inserted in the Veda for the sake of the metre, whence *kayasya*] and* śravāyyaḥ *[*śru śravaṇe*, *bhvādi* + *āyya* by Uṇ. 3-151 *śrudakṣispṛhigṛhibhya āyyaḥ*; guṇa of *u* before the *ārdhadhātuka* suffix by P. 7-3-84, *av* by P. 6-1-78 — *śravāyya*; the suffix's accent makes the word middle-acute]; numerals as read, pointers only.)*
+**Translation:** "O *sahantya* — Agni, who is wont to overcome enemies! Of this sacrificer, your devotee, *kayasya cit* — of any one whatsoever [*kasya cit*] — there is no (*nakiḥ*) *paryetā* — overcomer, assailant. And for this sacrificer there is *vājaḥ* — a notable strength — that is *śravāyyaḥ* — renowned. *Kayasya*: the insertion of *y* is Vedic. *Śravāyyaḥ*: the suffix *āyya* after *śru* [etc.] by Uṇ. 3-95." *(Grammar page 392, noted briefly: the words treated are* kayasya *[*kim* + *ṅas*: *ka* for *kim* by P. 7-2-103 *kimaḥ kaḥ*; *sya* for *ṅas* by P. 7-1-12 *ṭāṅasiṅasām inātsyāḥ*; *y* inserted in the Veda for the sake of the metre, whence *kayasya*] and* śravāyyaḥ *[*śru śravaṇe*, *bhvādi* + *āyya* by U. sū. 3-376 *śrudakṣispṛhigṛhibhya āyyaḥ* (bhāṣya: 3-95); guṇa of *u* before the suffix by P. 7-3-84, *av* (no number printed) — *śravāyya*; the suffix's accent makes the word middle-acute]; numerals checked against the print, w3.)*
 
 **॥ Prati-padārthaḥ ॥** *(p. 391)* **(सहन्त्य) ((sahantya))** — O Agni, destroyer of enemies | **अस्य (asya)** — of this [sacrificer] | **कयस्य चित् (kayasya cit)** — of anyone | **पर्येता (paryetā)** — a conqueror | **नकिः (nakiḥ)** — not at all | **श्रवाय्यः (śravāyyaḥ)** — famous | **वाजः (vājaḥ)** — strength [or food] | **अस्ति (asti)** — is [there].
 
@@ -9505,7 +9507,7 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 > Subduer of enemies, (Agni) no conqueror of your worshipper ever exists; for his might is well-known.
 
-**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 392)* **नकिः** — among the nine words for 'not' beginning *nakiḥ, nakim* [etc.], the word *nakiḥ* is read (Ni. [1-4]); so *nakiḥ* means 'there is no'. **सहन्त्य** — *śatrūṇām abhibhavanaśīla*: one with the ability to defeat enemies. **पर्येता** — *pari eteti paryetā ākramitā*: the one who attacks, who conquers. **कयस्य चित्** — *kasya cit*: the syllable *ya* is inserted here for the metre. **वाजः** — strength or food. **श्रवाय्यः** — *śravaṇīyaḥ*: renowned.
+**॥ Viśeṣa-viṣayagaḷu (Special Topics) ॥** *(p. 392)* **नकिः** — among the nine words beginning *hikam, nukam*, which state the *sarvapadasamāmnāya*, the word *nakiḥ* is read (no reference printed); so *nakiḥ* may here be given the sense 'there is no' (or any sense that suits the context). **सहन्त्य** — *śatrūṇām abhibhavanaśīla*: one with the ability to defeat enemies. **पर्येता** — *pari eteti paryetā ākramitā*: the one who attacks, who conquers. **कयस्य चित्** — *kasya cit*: the syllable *ya* is inserted here for the metre. **वाजः** — strength or food. **श्रवाय्यः** — *śravaṇīyaḥ*: renowned.
 
 ---
 
