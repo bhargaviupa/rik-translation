@@ -6435,13 +6435,13 @@
 
 ### Rik 55.3 (pp. 349–353, PDF 365–369)
 
-**Saṃhitā-pāṭha** *(p. 349)*
+**Saṃhitā-pāṭha** *(p. 349; accents as printed; [accent ?]: no anudātta is visible under* nṛ *and no svarita over* śva *of* viśvasmā*; the svarita of* vīryeṇa *stands over* ṇa*)*
 
-> **त्वं तमिन्द्र पर्वतं न भोजसे महो नृम्णस्य धर्मणामिरज्यसि ।**
-> **प्र वीर्येण देवताति चेकिते विश्वस्मा उग्रः कर्मणे पुरोहितः ॥ ३ ॥**
+> **त्वं तमि॑न्द्र॒ पर्व॑तं॒ न भोज॑से म॒हो नृम्णस्य॒ धर्म॑णामिरज्यसि ।**
+> **प्र वी॒र्येण॑ दे॒वता॑ति चेकिते॒ विश्वस्मा उ॒ग्रः कर्म॑णे पु॒रोहि॑तः ॥ ३ ॥**
 
-*tvaṃ tam indra parvataṃ na bhojase maho nṛmṇasya dharmaṇām irajyasi |*
-*pra vīryeṇa devatāti cekite viśvasmā ugraḥ karmaṇe purohitaḥ || 3 ||*
+*tváṃ tám indra párvataṃ ná bhójase mahó nṛmṇásya dhármaṇām irajyasi |*
+*prá vīryéṇa devátāti cekite víśvasmā ugráḥ kármaṇe puróhitaḥ || 3 ||*
 
 **Pada-pāṭha** *(p. 350)*
 
@@ -6457,9 +6457,9 @@
 
 > **हे इन्द्र त्वं भोजसे भोजनाय पर्वतं पर्ववन्तं मेघं नाकार्षीः । न हि हतो भुङ्क्ते । इन्द्रो हि वर्षणार्थं मेघं वज्रेण हन्ति । तथा महो महतो नृम्णस्य धनस्य धर्मणां धारयितॄणां कुबेरादीनामिरज्यसि । ईशिषे । इरज्यतिरैश्वर्यकर्मा । स इन्द्रो देवता वीर्येणात्यतिशयित इति प्र चेकिते प्रकर्षेणास्माभिर्ज्ञातो बभूव । स चोग्र उद्गूर्ण इन्द्रो विश्वस्मै सर्वस्मै वृत्रवधादिरूपाय कर्मणे देवैः पुरोहितः पुरस्तादवस्थापितः ॥**
 
-*he indra tvaṃ bhojase bhojanāya parvataṃ parvavantaṃ megham nākārṣīḥ [?] | na hi hato bhuṅkte | indro hi varṣaṇārthaṃ megham vajreṇa hanti | tathā maho mahato nṛmṇasya dhanasya dharmaṇāṃ dhārayitṝṇāṃ kuberādīnām irajyasi | īśiṣe | irajyatir aiśvaryakarmā | sa indro devatā vīryeṇātyatiśayita iti pra cekite prakarṣeṇāsmābhir jñāto babhūva | sa cogra udgūrṇa indro viśvasmai sarvasmai vṛtravadhādirūpāya karmaṇe devaiḥ purohitaḥ purastād avasthāpitaḥ ||*
+*he indra tvaṃ bhojase bhojanāya parvataṃ parvavantaṃ megham nākārṣīḥ | na hi hato bhuṅkte | indro hi varṣaṇārthaṃ megham vajreṇa hanti | tathā maho mahato nṛmṇasya dhanasya dharmaṇāṃ dhārayitṝṇāṃ kuberādīnām irajyasi | īśiṣe | irajyatir aiśvaryakarmā | sa indro devatā vīryeṇātyatiśayita iti pra cekite prakarṣeṇāsmābhir jñāto babhūva | sa cogra udgūrṇa indro viśvasmai sarvasmai vṛtravadhādirūpāya karmaṇe devaiḥ purohitaḥ purastād avasthāpitaḥ ||*
 
-*(Reading notes: "*nākārṣīḥ*" for "you did not make (it) food" is as read, [?] — the Kannada Pratipadārtha says "you did not strike (the cloud) with the thunderbolt [for your own enjoyment], but struck it to make rain for men". The grammatical tail, pp. 350 foot: on* dharmaṇām *(*dhṛ*, *manin*; *uraṇ raparaḥ*),* irajyasi *(*irajyatiḥ aiśvaryakarmā*, Ni. as read [?]; *īrṣyā*; *kaṇḍvādi yak*),* vīryeṇa *(*vīra* + *yat*, the *vīravīryau ca* rule),* devatā *(*devāt tal*),* cekite *(*kita jñāne*, intensive),* purohitaḥ *(*puras*, an avyaya with the *gati* name, so the prefix's accent) — is characterized.)*
+*(Reading notes: "*nākārṣīḥ*" is clear in the print — the Kannada Pratipadārtha says "you did not strike (the cloud) with the thunderbolt [for your own enjoyment], but struck it to make rain for men". The grammatical tail, pp. 350 foot: on* dharmaṇām *(*dhṛ*, *manin*; *uraṇ raparaḥ*),* irajyasi *(*irajyatir aiśvaryakarmā*, no reference printed; *īrṣyā*; *kaṇḍvādi yak*),* vīryeṇa *(*vīra* + *yat*, the *vīravīryau ca* rule),* devatā *(*devāt tal*),* cekite *(*kita jñāne*, intensive),* purohitaḥ *(*puras*, an avyaya with the *gati* name, so the prefix's accent) — is characterized.)*
 
 **Translation of the bhāṣya:** "O Indra, you did not [strike] the cloud (*parvatam*, the cloud with its joints) *bhojase*, for eating — for one who is struck does not eat; Indra strikes the cloud with the thunderbolt for the sake of rain. And you *irajyasi*, are lord, of *dharmaṇām*, the holders — Kubera and the others — of *mahaḥ nṛmṇasya*, great wealth; *irajyati* is a verb of lordship. That Indra, as a deity, surpasses all by valour: so *pra cekite*, he has come to be well known to us. And he is *ugraḥ*, fierce, uplifted, *viśvasmai karmaṇe*, for every deed such as the slaying of Vṛtra, *purohitaḥ*, placed in front by the gods."
 
@@ -6471,22 +6471,22 @@
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 351–352**
 - **bhojase** — "*Bhojanāya*: the word *bhojas*, ending in *s*, gives in the Veda the sense of eating."
-- **parvatam** — "*Parvavantaṃ megham*: it gives satisfaction; it gladdens people by giving water and the like. The Nirukta says '*parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā; arthavad apa-parva-devān asmin prīṇantīti*' (Ni. 1-20 as read [?])" *(quoted incompletely in the print)*.
-- **nṛmṇasya** — "This word means wealth (Ni. 2-10 as read [?])."
+- **parvatam** — "*Parvavantaṃ megham*: it gives satisfaction; it gladdens people by giving water and the like. The Nirukta says '*parvavān parvataḥ, parva punaḥ pṛṇāteḥ prīṇāter vā; ardhamāsaparva devān asmin prīṇantīti*' (Niru. 1-20, printed "ನಿರು. ೧-೨೦")".
+- **nṛmṇasya** — "This word means wealth (Ni. 3-9, as printed "ನಿ. ೩-೯")."
 - **irajyasi** — "*Apekṣisuttīye*: 'you wish for' — though this is the sense, for the verb *irajyati* of the sense of jealousy (*īrṣyāyām*) some have given the sense of lordship from '*aiśvarye ity eke*'; the commentator takes the sense 'you hold lordship'."
 - **pra cekite** — "*Prakarṣeṇa asmābhir jñāto babhūva*: he has come to be especially known to us. This word is formed from the root *kita jñāne*."
 - **ugraḥ** — "*Udgūrṇa indraḥ*: the Indra who rises against enemies is its sense."
 
 **Vyākaraṇa-prakriyā** *(pp. 352–353 — grammar pages, noted briefly)*
 - **dharmaṇām**: *dhṛñ dhāraṇe*; *manin* (*anyebhyo 'pi dṛśyante*); *guṇa*, *uraṇ raparaḥ*: *dharman*; genitive plural; *nit*, initial-acute.
-- **irajyasi**: *irajyatir aiśvaryakarmā*; *īrṣyāyām* the root *īraj*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak*; *sanādyantā dhātavaḥ*; *laṭ* second singular; *nighāta*.
-- **vīryeṇa**: *vīra* (*śūra vīra vikrāntau*, *curādi*) with *satyāpapāśa…*: *ṇic*; *ac*… *yat* (*aco yat*); *ṇeraniṭi*: loss of *ṇic*; *vīrya*; instrumental. By *yato 'nāvaḥ* initial-acute would arise, but since *vīravīryau ca* restates the initial-acute for compounds, the Kannada reasons that *yat*'s accent does not come here, and *tit svaritam* gives *svarita*; "if *yato 'nāvaḥ* gave the initial acute, *vīravīryau ca* would be needless, since *ādyudāttaṃ dvyac chandasi* already gives it in compounds — so it would be useless; therefore the *svarita* comes here."
-- **devatā**: *deva eva devatā*; *devāt tal* (Pā. 5-4-27): *tal* in the self-sense; *talantaṃ strīyām*: feminine; *liti*: the acute before the suffix.
+- **irajyasi**: *irajyatir aiśvaryakarmā*; *īrṣyāyām* the root *īraj*, in the *kaṇḍvādi* list: *kaṇḍvādibhyo yak* (Pā. sū. 3-1-27); *sanādyantā dhātavaḥ*; *laṭ* second singular; *nighāta*.
+- **vīryeṇa**: *vīra* (*śūra vīra vikrāntau*, *curādi*) with *satyāpapāśa…*: *ṇic*; *ac*… *yat* (*aco yat*, Pā. sū. 3-1-97); *ṇeraniṭi*: loss of *ṇic*; *vīrya*; instrumental. By *yato 'nāvaḥ* (Pā. sū. 6-1-213) initial-acute would arise, but since *vīravīryau ca* (Pā. sū. 6-2-120) restates the initial-acute for compounds, the Kannada reasons that *yat*'s accent does not come here, and *tit svaritam* (Pā. sū. 6-1-185) gives *svarita*; "if *yato 'nāvaḥ* gave the initial acute, *vīravīryau ca* would be needless, since *ādyudāttaṃ dvyac chandasi* (Pā. sū. 6-2-119) already gives it in compounds — so it would be useless; therefore the *svarita* comes here."
+- **devatā**: *deva eva devatā*; *devāt tal* (Pā. 5-4-27): *tal* in the self-sense; *talantaṃ strīyām*: feminine; *liti* (Pā. sū. 6-1-193): the acute before the suffix.
 - **cekite**: *kita jñāne*; *yaṅ* in the sense of intensity; *sanyaṅoḥ* reduplication; *guṇo yaṅluk…*; *cekitya*; *liṭ* with *te* → *e*… (details as before).
 
 ---
 
-**Rik 55.3, grammar (end)** *(p. 353, PDF 369)*: **cekite** — *liṭ* after *yaṅ*-ending root (*liṭ* is *ārdhadhātuka* by *liṭi*…); *ato lopaḥ* drops the *a* of *yaṅ*; *yasya halaḥ* drops *y*; *liṭas tajhayor eśirec* gives *e* for *ta*: *cekite*; following an *atiṅ*, *nighāta*. **purohitaḥ** — *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39): *asi* with *pur* for the base: *puras*; being read as an *avyaya* (*taddhitaś cāsarvavibhaktiḥ*, Pā. 1-1-38), *purorvyayam* (Pā. 1-4-67) gives it the *gati*-name, so *gatir anantaraḥ* keeps the first member's accent. **|| 3 ||**
+**Rik 55.3, grammar (end)** *(p. 353, PDF 369)*: **cekite** — *liṭ* after *yaṅ*-ending root (*liṭ* is *ārdhadhātuka* by *liṭi*…); *ato lopaḥ* drops the *a* of *yaṅ*; *yasya halaḥ* (Pā. sū. 6-4-49) drops *y*; *liṭas tajhayor eśirec* gives *e* for *ta*: *cekite*; following an *atiṅ*, *nighāta*. **purohitaḥ** — *pūrvādharāvarāṇām asi puradhavaś caiṣām* (Pā. 5-3-39): *asi* with *pur* for the base: *puras*; being read as an *avyaya* (*taddhitaś cāsarvavibhaktiḥ*, Pā. 1-1-38), *purorvyayam* (Pā. 1-4-67) gives it the *gati*-name, so *gatir anantaraḥ* (Pā. sū. 6-2-49) keeps the first member's accent. **|| 3 ||**
 
 ---
 
