@@ -6098,15 +6098,15 @@
 
 ### Rik 54.9 (pp. 331–333, PDF 347–349; metre Triṣṭubh)
 
-**Saṃhitā-pāṭha** *(p. 331; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 331; accents as printed)*
 
-> **तुभ्येदेते बहुला अद्रिदुग्धाश्चमूषदश्चमसा इन्द्रपानाः ।**
-> **व्यश्नुहि तर्पया कामसेषामथा मनो वसुदेयाय कृष्व ॥ ९ ॥**
+> **तुभ्येदे॒ते ब॑हु॒ला अद्रि॑दुग्धाश्चमू॒षद॑श्चम॒सा इ॑न्द्र॒पानाः॑ ।**
+> **व्य॑श्नुहि त॒र्पया॒ काम॑मेषा॒मथा॒ मनो॑ वसु॒देया॑य कृष्व ॥ ९ ॥**
 
-*tubhyed ete bahulā adridugdhāś camūṣadaś camasā indrapānāḥ |*
-*vy aśnuhi tarpayā kāmam eṣām athā mano vasudeyāya kṛṣva || 9 ||*
+*túbhyéd eté bahulā́ ádridugdhāś camūṣádaś camasā́ indrapā́nāḥ |*
+*vyàśnuhi tarpáyā kā́mam eṣām áthā máno vasudéyāya kṛṣva || 9 ||*
 
-*(The print joins "*kāmam eṣām*" as "kāmasesām"-looking in the Saṃhitā line; I read* kāmam eṣām *from the Pada.)*
+*(The print reads "ಕಾಮಮೇಷಾಮಥಾ" clearly:* kāmam eṣām athā*.)*
 
 **Pada-pāṭha** *(p. 331)*
 
@@ -6144,7 +6144,7 @@
 **Vyākaraṇa-prakriyā** *(pp. 333 — grammar page, noted briefly)*
 - **tubhya**: *tubhyam*: *supāṃ… tubhyamahyau ṅayi* (Pā. 7-2-95) gives *tubhya* when *ṅe* follows the *yuṣmad*; the ending *ṅe* is replaced by *ya* (*ṅer yaḥ*) [as read, "*jaya*" for the ending], *ṅe prathamayor am* gives *am*, *śeṣe lopaḥ* drops the rest, *ami pūrvaḥ* gives the earlier substitution: *tubhyam*; in the Veda the *m* drops.
 - **adridugdhāḥ**: *druha jighāṃsāyām* [as printed; read *duha prapūraṇe*, [?]]; *kta* in the passive; *hodhaḥ*… when the *ḍhatva* is obtained, *dādo… vā druhamuhaṣṇuhaṣṇihām* gives *gha* [optional]; *dhaḥ* for *t* by *jhaṣas tathor dho 'dhaḥ*; *jhalāṃ jaś jhaśi*, *gha* → *g*; *adribhir dugdhāḥ*: *tṛtīyā karmaṇi* (Pā. 6-2-48) gives the accent of the first member, an exception to the *kṛdanta* final-member accent.
-- **camūṣadaḥ**: *camu adane*; *camanti anena iti camūḥ*; *kṛṣicamitanidhanisarjyarthi…* (Uṇ. 1-… as read [?]) the Uṇādi *ū*; *camūṣu sīdanti iti camūṣadaḥ*; *sat-sūdviṣadruha…* (Pā. 3-2-61) gives *kvip*; *pūrvapadāt saṃjñāyām agaḥ* (Pā. 8-3-106) gives *ṣatva*; *gatikārakopapadāt kṛt* gives the *kṛdanta* accent of the final member.
+- **camūṣadaḥ**: *camu adane*; *camanti anena iti camūḥ*; *kṛṣicamitanidhanisarjyarthi…* (Uṇ. sū. 1-81) the Uṇādi *ū*; *camūṣu sīdanti iti camūṣadaḥ*; *sat-sūdviṣadruha…* (Pā. 3-2-61) gives *kvip*; *pūrvapadāt saṃjñāyām agaḥ* (Pā. 8-3-106) gives *ṣatva*; *gatikārakopapadāt kṛt* gives the *kṛdanta* accent of the final member.
 - **indrapānāḥ**: *karmaṇi ca yena saṃsparśāt kartuḥ śarīrasukham* (Pā. 3-3-116): *lyuṭ* after *pā* with the object as *upapada*; *yuvor anākau* gives *ana*: *indrapāna*.
 - **aśnuhi**: *aśū vyāptau*, *svādi*; *vyatyayo bahulam* gives the *parasmaipada*; *loṭ* second singular *sip*; *hi* for *sip*; *svādibhyaḥ śnuḥ* gives *śnu*: *aśnuhi*; *tiṅ atiṅaḥ*, *nighāta*.
 - **vasudeyāya**: *ḍudāñ dāne*; *aco yat* (Pā. 3-1-97) gives *yat* after *ac*-ending roots, in the sense of the action here; *īdyati* (Pā. 6-4-65) gives *ī* to the root's *ā* before *yat*; *dī + ya*: *guṇa*; *yato 'nāvaḥ* gives the initial acute; compound with *vasu*, so *gatikārakopapadāt kṛt* gives the accent of the *kṛdanta*. **|| 9 ||**
