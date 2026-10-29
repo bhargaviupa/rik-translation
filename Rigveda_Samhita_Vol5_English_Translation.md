@@ -3385,15 +3385,17 @@
 
 ---
 
-### Rik 51.8 (pp. 180–, PDF 196–)
+### Rik 51.8 (pp. 180–184, PDF 196–200)
 
-**Saṃhitā-pāṭha** *(p. 180; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 180; accents as printed)*
 
-> **वि जानीह्यार्यान्ये च दस्यवो बर्हिष्मते रन्धया शासदव्रतान् ।**
-> **शाकी भव यजमानस्य चोदिता विश्वेत्ता ते सधमादेषु चाकन ॥ ८ ॥**
+> **वि जा॑नी॒ह्यार्या॒न्ये च॒ दस्य॑वो ब॒र्हिष्म॑ते रन्धया॒ शास॑दव्र॒तान् ।**
+> **शाकी॑ भव॒ यज॑मानस्य चोदि॒ता विश्वेत्ता ते॑ सध॒मादे॑षु चाकन ॥ ८ ॥**
 
-*vi jānīhy āryān ye ca dasyavo barhiṣmate randhayā śāsad avratān |*
-*śākī bhava yajamānasya coditā viśvet tā te sadhamādeṣu cākana || 8 ||*
+*ví jānīhy ā́ryān yé ca dásyavo barhíṣmate randhayā śā́sad avratā́n |*
+*śā́kī bhava yájamānasya coditā́ viśvét tā́ te sadhamā́deṣu cākana || 8 ||*
+
+*[accent ?] The svarita of* विश्वेत्ता ते *stands at the junction of* त्ता *and* ते *(placed on* ते*); no marks seen on* रन्धया *(before* या॒*) or on* चाकन*.*
 
 **Pada-pāṭha** *(p. 180)*
 
@@ -3405,11 +3407,11 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 180–181)*
 
-> **हे इन्द्र त्वमार्यान् कर्मण्यनुष्ठात्रृंस्तान् [?] वि जानीहि । विशेषेण बुध्यस्व । ये च दस्यवस्तेषामनुष्ठातॄणामुपक्षपयितारः शत्रवस्तानपि वि जानीहीति शेषः । ज्ञात्वा च बर्हिष्मते बर्हिषा यज्ञेन युक्ताय यजमानायाव्रतान् । व्रतमिति कर्मनाम । कर्मविरोधिनस्तान् रन्धय । हिंसां प्रापय । यद्वा । यजमानस्य वशं गमय । रध्यतिर्वशगमने (नि. ६-३२ [?]) इति यास्कः । किं कुर्वन् । शासत् दुष्टानामनुशासनं निग्रहं कुर्वन् [?] । अतः शाकी शक्तियुक्तस्त्वं यजमानस्य चोदिता प्रेरको भव । यज्ञविघातकानसुरांस्तिरस्कृत्य यज्ञान्यजमानैः सम्यगनुष्ठापयेति भावः । अहमपि स्तोता ते तव ता तानि पूर्वोक्तानि कर्माणि विश्वेत् सर्वाण्येव सधमादेषु सहमदनयुक्तेषु यज्ञेषु स्तोतुं चाकन । कामये ।**
+> **हे इन्द्र त्वमार्यान्विदुषोऽनुष्ठातॄन् [?] वि जानीहि । विशेषेण बुध्यस्व । ये च दस्यवस्तेषामनुष्ठातॄणामुपक्षपयितारः शत्रवस्तानपि वि जानीहीति शेषः । ज्ञात्वा च बर्हिष्मते बर्हिषा यज्ञेन युक्ताय यजमानायाव्रतान् । व्रतमिति कर्मनाम । कर्मविरोधिनस्तान् रन्धय । हिंसां प्रापय । यद्वा । यजमानस्य वशं गमय । रध्यतिर्वशगमने (नि. ६-३२) इति यास्कः । किं कुर्वन् । शासत् दुष्टानामनुशासनं निग्रहं कुर्वन् । अतः शाकी शक्तियुक्तस्त्वं यजमानस्य चोदिता प्रेरको भव । यज्ञविघातकानसुरांस्तिरस्कृत्य यज्ञान्यजमानैः सम्यगनुष्ठापयेति भावः । अहमपि स्तोता ते तव ता तानि पूर्वोक्तानि कर्माणि विश्वेत् सर्वाण्येव सधमादेषु सहमदनयुक्तेषु यज्ञेषु स्तोतुं चाकन । कामये ।**
 
-*he indra tvam āryān karmaṇy anuṣṭhātṝṃs tān [?] vi jānīhi | viśeṣeṇa budhyasva | ye ca dasyavas teṣām anuṣṭhātṝṇām upakṣapayitāraḥ śatravas tān api vi jānīhīti śeṣaḥ | jñātvā ca barhiṣmate barhiṣā yajñena yuktāya yajamānāyāvratān | vratam iti karmanāma | karmavirodhinas tān randhaya | hiṃsāṃ prāpaya | yadvā | yajamānasya vaśaṃ gamaya | radhyatir vaśagamane (ni. 6-32 [?]) iti yāskaḥ | kiṃ kurvan | śāsat duṣṭānām anuśāsanaṃ nigrahaṃ kurvan [?] | ataḥ śākī śaktiyuktas tvaṃ yajamānasya coditā prerako bhava | yajñavighātakān asurāṃs tiraskṛtya yajñān yajamānaiḥ samyag anuṣṭhāpayeti bhāvaḥ | aham api stotā te tava tā tāni pūrvoktāni karmāṇi viśvet sarvāṇy eva sadhamādeṣu sahamadanayukteṣu yajñeṣu stotuṃ cākana | kāmaye |*
+*he indra tvam āryān viduṣo 'nuṣṭhātṝn [?] vi jānīhi | viśeṣeṇa budhyasva | ye ca dasyavas teṣām anuṣṭhātṝṇām upakṣapayitāraḥ śatravas tān api vi jānīhīti śeṣaḥ | jñātvā ca barhiṣmate barhiṣā yajñena yuktāya yajamānāyāvratān | vratam iti karmanāma | karmavirodhinas tān randhaya | hiṃsāṃ prāpaya | yadvā | yajamānasya vaśaṃ gamaya | radhyatir vaśagamane (ni. 6-32) iti yāskaḥ | kiṃ kurvan | śāsat duṣṭānām anuśāsanaṃ nigrahaṃ kurvan | ataḥ śākī śaktiyuktas tvaṃ yajamānasya coditā prerako bhava | yajñavighātakān asurāṃs tiraskṛtya yajñān yajamānaiḥ samyag anuṣṭhāpayeti bhāvaḥ | aham api stotā te tava tā tāni pūrvoktāni karmāṇi viśvet sarvāṇy eva sadhamādeṣu sahamadanayukteṣu yajñeṣu stotuṃ cākana | kāmaye |*
 
-*(Reading notes: "*karmaṇy anuṣṭhātṝn*" and "*duṣṭānām*" are crowded in the print — [?]; the Nirukta numeral is as read, [?]. The grammatical tail on p. 180–181 —* jānīhi *with the sūtra* jñājanor jā*,* barhiṣmate*,* randhaya*,* śāsat*,* śākī*,* viśvā*,* sadhamādeṣu*,* cākana *— is characterized, not transcribed: it argues, as the Kannada grammar notes on p. 183 also do, about the shortening of the root vowel under the rule* prādīnāṃ hrasvaḥ*.)*
+*(Reading notes, re-read in the numeral pass: the print has* āryān viduṣo 'nuṣṭhātṝn *(the last word crowded, [?]) and* duṣṭānām*; Ni. 6-32. The tail prints Pā. 7-3-101, 6-1-6, 3-3-61, 7-1-91.* The grammatical tail on p. 180–181 —* jānīhi *with the sūtra* jñājanor jā*,* barhiṣmate*,* randhaya*,* śāsat*,* śākī*,* viśvā*,* sadhamādeṣu*,* cākana *— is characterized, not transcribed: it argues, as the Kannada grammar notes on p. 183 also do, about the shortening of the root vowel under the rule* prādīnāṃ hrasvaḥ*.)*
 
 **Translation of the bhāṣya:** "O Indra, *vi jānīhi*, discern especially, the *āryān* — those who perform the rites — and also those *dasyavaḥ*, who destroy these performers, the enemies; discern them too (this is understood). Having discerned, *barhiṣmate*, for the sacrificer who is joined with the *barhis*, the sacrifice, *randhaya*, bring to destruction *avratān* the 'vow-less' (*vrata* is a name for ritual action; so, the ones opposed to the rites); or, bring them under the sacrificer's control — 'the root *radh* means "to come under control"' says Yāska — doing what? *śāsat*, doing chastisement, restraint, of the wicked. Therefore, *śākī*, you who are powerful, *yajamānasya coditā bhava*, be the impeller of the sacrificer: having set aside the Asuras who obstruct the sacrifice, let the sacrificers duly perform the sacrifices — such is the sense. And I too, the praiser, *te tā viśvet*, all those deeds of yours, spoken of above, *sadhamādeṣu*, in sacrifices attended by joint delight, to praise them *cākana*, I desire."
 
@@ -3420,10 +3422,10 @@
 **English Translation (the source's own, p. 182)** — "Discriminate between the Aryas, and they who are Dasyus; restraining those who perform no religious rites, compel them to submit to the performer of sacrifices; you are powerful, be the encourage [sic: "encourager"] of the sacrificer; I am desirous of celebrating all your deeds in ceremonies that give you satisfaction."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 182**
-- **āryān** — "By *Āryas* are meant the good people who are attached to the acts prescribed in the Veda — sacrifice and the like — and who practise them; by *dasyus*, those who, in contrast to the acts of the Āryas, behave otherwise and do not perform sacrifice and the like — this becomes clear. Further, these Dasyus were the Kṛṣṇa people [?] (*kappu janaru*, 'black people') who were the former inhabitants of this country and were hostile to the Āryas; not mixing with them, they gave them troubles of many kinds; hence the sages have described them as thieves and as enemies of the gods in various places. *Āryān*: this word, meaning 'worthy of honour', gives the sense of persons who are both learned and performers of sacrifice and ritual."
+- **āryān** — "By *Āryas* are meant the good people who are attached to the acts prescribed in the Veda — sacrifice and the like — and who practise them; by *dasyus*, those who, in contrast to the acts of the Āryas, behave otherwise and do not perform sacrifice and the like — this becomes clear. Further, these Dasyus were the Kṛṣṇa people (*kappu janaru*, 'black people') who were the former inhabitants of this country and were hostile to the Āryas; not mixing with them, they gave them troubles of many kinds; hence the sages have described them as thieves and as enemies of the gods in various places. *Āryān*: this word, meaning 'worthy of honour', gives the sense of persons who are both learned and performers of sacrifice and ritual."
 - **dasyavaḥ** — "These are lowly people who inflict violence, in various ways, on believers (*āstika*s) who are attached to Vedic acts such as sacrifice. Indra is prayed to be the helper of the people before him, both to protect the believers and to punish the unbelievers."
 - **avratān** — "Those who are without *vrata*, that is, those hostile to all Vedic acts."
-- **randhaya** — "This word may be said to mean either 'do violence' or 'subdue'. The Nirukta sūtra '*radhyatir vaśagamane*' (Ni. 6-32 as read [?]) indicates the latter sense."
+- **randhaya** — "This word may be said to mean either 'do violence' or 'subdue'. The Nirukta sūtra '*radhyatir vaśagamane*' (Ni. 6-32) indicates the latter sense."
 
   > **रध्यतिर्वशगमने ।** *(Ni. 6-32 as read [?])*
 
@@ -3434,10 +3436,10 @@
 - **cākana** — (p. 183) "Formed from the root *kan*, with the senses 'brightness, desire, motion', this word conveys the sense of desire ('I know' [sic: the print has "ತಿಳಿಯುತ್ತೇನೆ" 'I come to know'? — read 'I wish'])." *(The Kannada word after the parenthesis is a crowded small print; I take the sense from the Pratipadārtha, "I wish".)*
 
 **Vyākaraṇa-prakriyā** *(pp. 181, 183–184 — grammar pages, noted briefly)*
-- **jānīhi**: *jñā avabodhane*, *kryādi*, *loṭ* second singular; *hi* by *sip*'s substitute, which being *apit* is *ṅit*, so *śnā* gives *nī* by *īhal…*; *jñājanor jā* (Pā. 7-3-79 as read [?]) substitutes *jā*; the long *ā*. The Kannada notes record at length the discussion of whether *prādīnāṃ hrasvaḥ* (shortening for the *kryādi* group "*pra…*") applies: on one view the *vṛt-karaṇa* in *plī gatau* ended the group; on another it holds only for *lvādi*; the conclusion is that, because the sūtra *jñājanor jā* itself carries the long vowel's mention (*dīrghoccāraṇa*), no shortening comes here. *Jānīhi*.
+- **jānīhi**: *jñā avabodhane*, *kryādi*, *loṭ* second singular; *hi* by *sip*'s substitute, which being *apit* is *ṅit*, so *śnā* gives *nī* by *īhal…*; *jñājanor jā* (Pā. 6-3-79 [as printed; for 7-3-79]) substitutes *jā*; the long *ā*. The Kannada notes record at length the discussion of whether *prādīnāṃ hrasvaḥ* (shortening for the *kryādi* group "*pra…*") applies: on one view the *vṛt-karaṇa* in *plī gatau* ended the group; on another it holds only for *lvādi*; the conclusion is that, because the sūtra *jñājanor jā* itself carries the long vowel's mention (*dīrghoccāraṇa*), no shortening comes here. *Jānīhi*.
 - **barhiṣmate**: *barhir asyāsti iti barhiṣmān*, dative singular; with *matup* the *pada*-designation would apply before it (*sāv… svaraḥ*); here, by *tasau matvarthe*, the word takes the *bha*-designation, so *rutva* and *jaśtva* do not occur; *ṣatva*: *barhiṣmate*.
 - **randhaya**: *radha hiṃsāsaṃrādhyoḥ*, as explained under *āṅ* in an earlier mantra.
-- **śāsat**: *śāsu anuśiṣṭau*, *adādi*; *śatṛ* by *laṭaḥ śatṛśānacau…*; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; *jakṣityādayaḥ ṣaṭ* (Pā. 6-1-6) — the seven roots *jakṣ*… are called *abhyasta* even when not reduplicated; so *num* is barred by *nābhyastācchatuḥ* (Pā. 7-1-78 as read [?]); the initial acute by *abhyastānām ādiḥ* (Pā. 6-1-189 as read [?]). *(The continuation of this grammar — on* śākī*,* viśvā*,* sadhamādeṣu*,* cākana *— is on p. 184, given with the next batch.)*
+- **śāsat**: *śāsu anuśiṣṭau*, *adādi*; *śatṛ* by *laṭaḥ śatṛśānacau…*; *śap* elided by *adiprabhṛtibhyaḥ śapaḥ*; *jakṣityādayaḥ ṣaṭ* (Pā. 6-1-6) — the seven roots *jakṣ*… are called *abhyasta* even when not reduplicated; so *num* is barred by *nābhyastācchatuḥ* (Pā. 7-1-78); the initial acute by *abhyastānām ādiḥ* (Pā. 6-1-189 as read [?]). *(The continuation of this grammar — on* śākī*,* viśvā*,* sadhamādeṣu*,* cākana *— is on p. 184, given with the next batch.)*
 
 ---
 
@@ -3446,8 +3448,8 @@
 **Rik 51.8, continued** *(p. 184, PDF 200 — grammar page, noted briefly)*
 - **śākī**: *śak śaktau*, *svādi*; *ghañ* in the sense of the action; the *ñit* gives *vṛddhi* of the penultimate *a* (*ata upadhāyāḥ*): *śāka*; "*śākam asyāstīti śākī*": the suffix *ini* in the sense "having" by *ata iniṭhanau*; the accent that comes from the suffix would be end-acute, but by *vyatyaya* in the Veda it is initial-acute; or, since the word is read in the *vṛṣādi* list, the initial-acute comes by *vṛṣādīnāṃ ca* (Pā. 6-1-203 as read [?]).
 - **viśvā tā**: for *viśvāni tāni*; the neuter plural substitute *śi* is dropped by *śeś chandasi bahulam*; the two words are *viśvā*, *tā*.
-- **sadhamādeṣu**: "*saha mādyanti eṣu*" — *sadamādāḥ* — the sacrifices in which all rejoice; from the root *mad harṣe*, the suffix *ghañ* in the locative sense; the *a* lengthened gives *māda*. Here an objection arises: when a non-preposition is the *upapada*, *mado 'nupasarge* (Pā. 3-3-67 as read [?]) gives *ap* in place of *ghañ*; how then does the form come from *ghañ*? Answer given in the *Dhātuvṛtti*: the Nyāsakāra explains that the sūtra *vyadhajapor anupasarge* (Pā. 3-3-61 as read [?]), which stands just before and also gives *ap*, could have taken *mad* into it; that *mad* has been kept separate as *mado 'nupasarge* shows that *ghañ* is also optionally obtained for this root; so the desired form comes from the optional *ghañ*. *Sadhamādastha-yoś chandasi* (Pā. 6-3-96 as read [?]) gives *sadha* for *saha*; locative plural *sadhamādeṣu*.
-- **cākana**: *kana dīptikāntigatiṣu*, here in the sense of desire (*kānti*); *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; the first-person *ṇal*; reduplication, *halādiḥ śeṣaḥ*, *cutva*; the *ṇ* is optional by *ṇal uttamo vā* (Pā. 7-1-91 as read [?]), so no *vṛddhi* here; the reduplicative vowel is lengthened because the root is read in the *tujādi* list (*tujādīnāṃ dīrgho 'bhyāsasya*): *cākana*. **|| 8 ||**
+- **sadhamādeṣu**: "*saha mādyanti eṣu*" — *sadamādāḥ* — the sacrifices in which all rejoice; from the root *mad harṣe*, the suffix *ghañ* in the locative sense; the *a* lengthened gives *māda*. Here an objection arises: when a non-preposition is the *upapada*, *mado 'nupasarge* (Pā. 3-3-67) gives *ap* in place of *ghañ*; how then does the form come from *ghañ*? Answer given in the *Dhātuvṛtti*: the Nyāsakāra explains that the sūtra *vyadhajapor anupasarge* (Pā. 3-3-61), which stands just before and also gives *ap*, could have taken *mad* into it; that *mad* has been kept separate as *mado 'nupasarge* shows that *ghañ* is also optionally obtained for this root; so the desired form comes from the optional *ghañ*. *Sadhamādastha-yoś chandasi* (Pā. 6-3-96) gives *sadha* for *saha*; locative plural *sadhamādeṣu*.
+- **cākana**: *kana dīptikāntigatiṣu*, here in the sense of desire (*kānti*); *liṭ* in the present sense by *chandasi luṅlaṅliṭaḥ*; the first-person *ṇal*; reduplication, *halādiḥ śeṣaḥ*, *cutva*; the *ṇ* is optional by *ṇal uttamo vā* (Pā. 7-1-91), so no *vṛddhi* here; the reduplicative vowel is lengthened because the root is read in the *tujādi* list (*tujādīnāṃ dīrgho 'bhyāsasya*): *cākana*. **|| 8 ||**
 
 ---
 
