@@ -7323,13 +7323,13 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 ### Rik 41.3 (pp. 415–, PDF 429–)
 
-**Saṃhitā-pāṭha** *(p. 415 foot; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 415 foot; Saṃhitā accents as printed (checked at 300 dpi); Pada unaccented; the print has* eṣāṃ*.)*
 
-> **वि दुर्गा वि द्विषः पुरो घ्नन्ति राजान एषाम् ।**
-> **नयन्ति दुरिता तिरः ॥ ३ ॥**
+> **वि दु॒र्गा वि द्विषः॑ पु॒रो घ्नन्ति॒ राजा॑न एषां ।**
+> **नय॑न्ति दुरि॒ता ति॒रः ॥ ३ ॥**
 
-*vi durgā vi dviṣaḥ puro ghnanti rājāna eṣām |*
-*nayanti duritā tiraḥ || 3 ||*
+*vi durgā́ vi dvíṣaḥ puró ghnanti rā́jāna eṣāṃ |*
+*náyanti duritā́ tiráḥ || 3 ||*
 
 **Pada-pāṭha** *(p. 416)*
 
@@ -7341,19 +7341,18 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 
 **Sāyaṇa-bhāṣya** *(p. 416)*
 
-> **राजानो वरुणादयो ये एषां स्वकीययजमानानां पुरः पुरस्तात् दुर्गा गन्तुं दुःशकानि शत्रुनगराणि वि घ्नन्ति । विशेषेण नाशयन्ति । तथा द्विषः शत्रूनपि वि घ्नन्ति । तथा दुरिता दुरितानि यजमानसम्बन्धीनि पापानि तिरो नयन्ति । विनाशं प्रापयन्ति ॥ दुर्गा । दुःखेन गच्छन्त्येत्रेति दुर्गाणि । सुदुरोरधिकरणे । पा. ३-२-४८ [?] । इति गमेर्डप्रत्ययः । शेश्छन्दसि बहुलमिति शेर्लोपः । पुरः । कालवाचिनः पूर्वशब्दात् सप्तम्यर्थे पूर्वाधरावराणां । पा. ५-३-३९ [?] । इत्यसिप्रत्ययः । तत्सन्नियोगेन पूर्वशब्दस्य पुरादेशश्च प्रत्ययस्वरः । घ्नन्ति । हन्तेर्लट्यदादित्वाच्छपो लुक् । गमहनेत्यादिनोपधालोपः । हो हन्तेः । पा. ७-३-५४ [?] । इति घत्वं । अङ्गादेशस्योपदेशवचनादाद्युदात्तत्वं । पादादित्वादनिघातः ॥**
+> **राजानो वरुणादय एषां स्वकीययजमानानां पुरः पुरस्तात् दुर्गा गन्तुं दुःशकानि शत्रुनगराणि वि घ्नन्ति । विशेषेण नाशयन्ति । तथा द्विषः शत्रूनपि वि घ्नन्ति । तथा दुरिता दुरितानि यजमानसम्बन्धीनि पापानि तिरो नयन्ति । विनाशं प्रापयन्ति ॥ दुर्गा । दुःखेन गच्छन्त्यत्रेति दुर्गाणि । सुदुरोरधिकरणे । पा. ३-२-४८-३ । इति गमेर्डप्रत्ययः । शेश्छन्दसि बहुलमिति शेर्लोपः । पुरः । कालवाचिनः पूर्वशब्दात् सप्तम्यर्थे पूर्वाधरावराणां । पा. ५-३-३९ । इत्यसिप्रत्ययः । तत्सन्नियोगेन पूर्वशब्दस्य पुरादेशश्च प्रत्ययस्वरः । घ्नन्ति । हन्तेर्लट्यदादित्वाच्छपो लुक् । गमहनेत्यादिनोपधालोपः । हो हन्तेः । पा. ७-३-५४ । इति घत्वं । अङ्गादेशस्योपदेशवचनादाद्युदात्तत्वं । पादादित्वादनिघातः ॥**
 
-*rājāno varuṇādayo ye eṣāṃ svakīyayajamānānāṃ puraḥ purastāt durgā gantuṃ duḥśakāni śatrunagarāṇi vi ghnanti | viśeṣeṇa nāśayanti | tathā dviṣaḥ śatrūn api vi ghnanti | tathā duritā duritāni yajamānasambandhīni pāpāni tiro nayanti | vināśaṃ prāpayanti || durgā | duḥkhena gacchanty atreti durgāṇi | sudurorādhikaraṇe | pā. 3-2-48 [?] | iti gamer ḍapratyayaḥ | śeś chandasi bahulam iti śer lopaḥ | puraḥ | kālavācinaḥ pūrvaśabdāt saptamyarthe pūrvādharāvarāṇāṃ | pā. 5-3-39 [?] | ity asipratyayaḥ | tatsanniyogena pūrvaśabdasya purādeśaś ca pratyayasvaraḥ | ghnanti | hanter laṭy adāditvāc chapo luk | gamahanety ādinopadhālopaḥ | ho hanteḥ | pā. 7-3-54 [?] | iti ghatvaṃ | aṅgādeśasyopadeśavacanād ādyudāttatvaṃ | pādāditvād anighātaḥ ||*
+*rājāno varuṇādaya eṣāṃ svakīyayajamānānāṃ puraḥ purastāt durgā gantuṃ duḥśakāni śatrunagarāṇi vi ghnanti | viśeṣeṇa nāśayanti | tathā dviṣaḥ śatrūn api vi ghnanti | tathā duritā duritāni yajamānasambandhīni pāpāni tiro nayanti | vināśaṃ prāpayanti || durgā | duḥkhena gacchanty atreti durgāṇi | suduror adhikaraṇe | pā. 3-2-48-3 | iti gamer ḍapratyayaḥ | śeś chandasi bahulam iti śer lopaḥ | puraḥ | kālavācinaḥ pūrvaśabdāt saptamyarthe pūrvādharāvarāṇāṃ | pā. 5-3-39 | ity asipratyayaḥ | tatsanniyogena pūrvaśabdasya purādeśaś ca pratyayasvaraḥ | ghnanti | hanter laṭy adāditvāc chapo luk | gamahanety ādinopadhālopaḥ | ho hanteḥ | pā. 7-3-54 | iti ghatvaṃ | aṅgādeśasyopadeśavacanād ādyudāttatvaṃ | pādāditvād anighātaḥ ||*
 
-*(In the grammatical tail the words "gacchanty atreti", the sūtra-name beginning "sudurorā…" and the number given for it are crowded [?].)*
+*(Bhāṣya numbers read at 400 dpi: 3-2-48-3 [a vārttika on 3-2-48], 5-3-39, 7-3-54.)*
 
-**Translation:** "The *rājānaḥ*, the kings Varuṇa and the others — of these, [their] own sacrificers, *puraḥ*, in front — *durgā*, strongholds hard to go to, enemy cities, *vi ghnanti*, they shatter; they destroy utterly. Likewise they *vi ghnanti* the *dviṣaḥ*, the enemies themselves. Likewise *duritā*, the sins connected with the sacrificer, *tiraḥ nayanti*, they lead away: they bring to destruction. *Durgā*: '*duḥkhena gacchanty atra*', where they go with difficulty: *durgāṇi*; the suffix *ḍa* after *gam* in the locative sense; the loss of *śi* by *śeś chandasi bahulam*. *Puraḥ*: from *pūrva* of time-denoting sense, in the sense of the locative, the suffix *asi* by *pūrvādharāvarāṇām* [Pā. 5-3-39 [?]], and in connection with it the substitute *pur* for *pūrva*; the accent of the suffix. *Ghnanti*: *laṭ* of *han*; *śap* elided as the root is of the *adādi* class; loss of the penultimate by *gamahana…*; *gha* for *ha* by *ho hanteḥ*; first-syllable acute for a substitute of the base, because of the statement of the *upadeśa*; no *nighāta* because it begins a *pāda*."
+**Translation:** "The *rājānaḥ*, the kings Varuṇa and the others — of these, [their] own sacrificers, *puraḥ*, in front — *durgā*, strongholds hard to go to, enemy cities, *vi ghnanti*, they shatter; they destroy utterly. Likewise they *vi ghnanti* the *dviṣaḥ*, the enemies themselves. Likewise *duritā*, the sins connected with the sacrificer, *tiraḥ nayanti*, they lead away: they bring to destruction. *Durgā*: '*duḥkhena gacchanty atra*', where they go with difficulty: *durgāṇi*; the suffix *ḍa* after *gam* in the locative sense; the loss of *śi* by *śeś chandasi bahulam*. *Puraḥ*: from *pūrva* of time-denoting sense, in the sense of the locative, the suffix *asi* by *pūrvādharāvarāṇām* [Pā. 5-3-39], and in connection with it the substitute *pur* for *pūrva*; the accent of the suffix. *Ghnanti*: *laṭ* of *han*; *śap* elided as the root is of the *adādi* class; loss of the penultimate by *gamahana…*; *gha* for *ha* by *ho hanteḥ*; first-syllable acute for a substitute of the base, because of the statement of the *upadeśa*; no *nighāta* because it begins a *pāda*."
 
 **Pratipadārtha** *(p. 416)* — "**rājānaḥ** — (Varuṇa and the other) lords; **eṣām** — of these (devotees who worship them with devotion), the sacrificers; **puraḥ** — in front, even beforehand; **durgā** — the cities [of enemies] difficult to enter, [with strongholds and walls]; **vi ghnanti** — destroy completely; **dviṣaḥ** — enemies; **vi (ghnanti)** — they destroy [in the same way]; **duritā** — the sins [committed by the sacrificer]; **tiraḥ nayanti** — they make to perish."
 
 **Bhāvārtha** *(p. 416)* — "Varuṇa and the other deities destroy, before those devotees who worship them with devotion, the strongholds and cities of their enemies and in the end the enemies themselves, completely. In the same way they destroy all the sins, the enemies within, of the sacrificer."
 
-*(The English translation, Special Topics and grammar of Rik 3 begin on p. 417, not yet written.)*
 
 ---
 
@@ -7367,9 +7366,9 @@ The print adds that in the sūtra *pūjanāt pūjitam—* — पूजनात
 - **nayanti duritā tiraḥ** — "*duritā* means sinful acts, bad deeds, evil thoughts and the like; the intention is that they destroy them. The main intention: these three deities, Varuṇa and the others, first destroy the enemies' cities, then the enemies; afterwards they remove the sins of the devotees who praise them."
 
 **Vyākaraṇa-prakriyā** *(pp. 417–418 — grammar pages, noted briefly)*
-- **durgā**: "*duḥkhena gacchanty atra*", a place fit to be entered only with trouble; *sudurorādhikaraṇe* [Pā. 3-2-48 with a vārttika, number as read [?]]: after *gam* preceded by the prefixes *su*, *dur*, the suffix *ḍa*; the print explains that the *ḍ* gives the *it* name to the *ṭu*-class and *ḍ*, with loss of the *ṭi* (the *a* of *gam*) by the *ḍit* effect; *śeś chandasi bahulam* the loss of *śi*; *num* augment, lengthening of the penultimate, loss of the nasal.
-- **puraḥ**: *pūrvādharāvarāṇām asipuradhavaś caiṣām* — पूर्वाधरावराणामसिपुरधवश्चैषाम् — [Pā. 5-3-39 as read [?]]: after the words *pūrva*, *adhara*, *avara* in the senses of direction, place and time, the suffix *asi*; and in this suffix, *pur*, *adh*, *av* for them; so *asi* after *pūrva* in the time-sense, with *pur* for *pūrva*: *pur + as*; the accent of the suffix, hence final-acute.
-- **ghnanti**: root *han hiṃsāgatyoḥ*, *laṭ*, *jhi*; *jho 'ntaḥ* gives *ant*; *śap* → *luk* because of the *adādi* class; *han + anti*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — गमहनजनखनघसां लोपः क्ङित्यनङि — [Pā. 6-4-98 as read [?]]: the penultimate of *gam*, *han*, *jan*, *khan*, *ghas* is lost before a *kit* or *ṅit* *ajādi* suffix other than *aṅ*; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — [Pā. 7-3-54 as read [?]]: *gha* [*kutva*] for the *h* of *han* before a *ñit*, *ṇit* suffix or *nī*; *āyannādiṣūpadeśivadvacanaṃ svarasiddhyartham* [as read]: the substitution *ant* counts as in the *upadeśa*, so by *ādyudāttaś ca* the *a* of *ant* is acute; it begins the second *pāda*, so *tiṅ atiṅaḥ* does not make it wholly unaccented. Rik 3 ends here (*|| 3 ||*).
+- **durgā**: "*duḥkhena gacchanty atra*", a place fit to be entered only with trouble; *suduror adhikaraṇe* (Pā. Sū. 3-2-48-vā. 3): after *gam* preceded by the prefixes *su*, *dur*, the suffix *ḍa*; the print explains that the *ḍ* gives the *it* name to the *ṭu*-class and *ḍ*, with loss of the *ṭi* (the *a* of *gam*) by the *ḍit* effect; *śeś chandasi bahulam* the loss of *śi*; *num* augment, lengthening of the penultimate, loss of the nasal.
+- **puraḥ**: *pūrvādharāvarāṇām asipuradhavaś caiṣām* — पूर्वाधरावराणामसिपुरधवश्चैषाम् — (Pā. Sū. 5-3-39): after the words *pūrva*, *adhara*, *avara* in the senses of direction, place and time, the suffix *asi*; and in this suffix, *pur*, *adh*, *av* for them; so *asi* after *pūrva* in the time-sense, with *pur* for *pūrva*: *pur + as*; the accent of the suffix, hence final-acute.
+- **ghnanti**: root *han hiṃsāgatyoḥ*, *laṭ*, *jhi*; *jho 'ntaḥ* gives *ant*; *śap* → *luk* because of the *adādi* class; *han + anti*; *gamahanajanakhanaghasāṃ lopaḥ kṅity anaṅi* — गमहनजनखनघसां लोपः क्ङित्यनङि — (Pā. Sū. 6-4-98): the penultimate of *gam*, *han*, *jan*, *khan*, *ghas* is lost before a *kit* or *ṅit* *ajādi* suffix other than *aṅ*; *ho hanter ñṇinneṣu* — हो हन्तेर्ञ्णिन्नेषु — (Pā. Sū. 7-3-54): *gha* [*kutva*] for the *h* of *han* before a *ñit*, *ṇit* suffix or *nī*; *āyannādiṣūpadeśivadvacanaṃ svarasiddhyartham* (Pā. Sū. 7-1-2-1, i.e. a vārttika on 7-1-2): the substitution *ant* counts as in the *upadeśa*, so by *ādyudāttaś ca* the *a* of *ant* is acute; it begins the second *pāda*, so *tiṅ atiṅaḥ* does not make it wholly unaccented. Rik 3 ends here (*|| 3 ||*).
 
 ---
 
