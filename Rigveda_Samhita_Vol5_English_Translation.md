@@ -1994,11 +1994,11 @@
 
 **Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image; words marked [?] are crowded)*
 
-> उदु त्यमिति त्रयोदशर्चं सप्तमं सूक्तं प्रस्कण्वस्यार्षं सौर्यदेवत्यं । आदौ नव गायत्र्यः शिष्टाश्चतस्रोऽनुष्टुभ इत्युक्तं । तथा चानुक्रान्तं । उदु त्यं सप्त्रोना [?] सौर्यं नवाद्या गायत्र्य इति ॥ आश्विनशस्त्रे सौर्ये क्रतावुदु त्यमित्यादयो नवर्चः शंसनीयाः । संस्थितेष्वाश्विनायेति खण्डे सूत्रितं । सूर्यो नो दिव उदु त्यं जातवेदसमिति नव । आ. ६-५ । इति ॥
+> उदु त्यमिति त्रयोदशर्चं सप्तमं सूक्तं प्रस्कण्वस्यार्षं सौर्यदेवत्यं । आदौ नव गायत्र्यः शिष्टाश्चतस्रोऽनुष्टुभ इत्युक्तं । तथा चानुक्रान्तं । उदु त्यं सप्तोना सौर्यं नवाद्या गायत्र्य इति ॥ आश्विनशस्त्रे सौर्ये क्रतावुदु त्यमित्यादयो नवर्चः शंसनीयाः । संस्थितेष्वाश्विनायेति खण्डे सूत्रितं । सूर्यो नो दिव उदु त्यं जातवेदसमिति नव । आ. ६-५ । इति ॥
 
-*udu tyam iti trayodaśarcaṃ saptamaṃ sūktaṃ praskaṇvasyārṣaṃ sauryadevatyaṃ | ādau nava gāyatryaḥ śiṣṭāś catasro 'nuṣṭubha ity uktaṃ | tathā cānukrāntaṃ | udu tyaṃ saptronā [?] sauryaṃ navādyā gāyatrya iti || āśvinaśastre saurye kratāv udu tyam ityādayo navarcaḥ śaṃsanīyāḥ | saṃsthiteṣv āśvināyeti khaṇḍe sūtritaṃ | sūryo no diva udu tyaṃ jātavedasam iti nava | ā. 6-5 | iti ||*
+*udu tyam iti trayodaśarcaṃ saptamaṃ sūktaṃ praskaṇvasyārṣaṃ sauryadevatyaṃ | ādau nava gāyatryaḥ śiṣṭāś catasro 'nuṣṭubha ity uktaṃ | tathā cānukrāntaṃ | udu tyaṃ saptonā sauryaṃ navādyā gāyatrya iti || āśvinaśastre saurye kratāv udu tyam ityādayo navarcaḥ śaṃsanīyāḥ | saṃsthiteṣv āśvināyeti khaṇḍe sūtritaṃ | sūryo no diva udu tyaṃ jātavedasam iti nava | ā. 6-5 | iti ||*
 
-**Translation** *(mine, tentative; the Anukramaṇikā word "saptronā" is crowded)*: "'*Udu tyam*' is the seventh sūkta, of thirteen ṛks, the revelation of Praskaṇva, with Sūrya as deity. It is said that the first nine are Gāyatrī and the remaining four Anuṣṭubh. So the Anukramaṇikā: '*udu tyaṃ* … *sauryaṃ*, the first nine Gāyatrī' [?]. In the Āśvina-śastra, at the Saurya rite, the nine ṛks beginning '*udu tyam*' are to be recited; it is prescribed in the section '*saṃsthiteṣv āśvināya*': '*sūryo no diva*, *udu tyaṃ jātavedasam*, nine' (Āśv. 6-5)."
+**Translation** *(mine, tentative)*: "'*Udu tyam*' is the seventh sūkta, of thirteen ṛks, the revelation of Praskaṇva, with Sūrya as deity. It is said that the first nine are Gāyatrī and the remaining four Anuṣṭubh. So the Anukramaṇikā: '*udu tyaṃ saptonā sauryaṃ*, the first nine Gāyatrī' (*saptonā*, 'seven less [than twenty]', i.e. thirteen: gloss mine and tentative). In the Āśvina-śastra, at the Saurya rite, the nine ṛks beginning '*udu tyam*' are to be recited; it is prescribed in the section '*saṃsthiteṣv āśvināya*': '*sūryo no diva*, *udu tyaṃ jātavedasam*, nine' (Āśv. 6-5)."
 
 **Anuvāda (Kannada), p. 106** — "*Udu tyam* is the seventh sūkta in the ninth anuvāka. It has thirteen ṛks. The first nine ṛks are in the Gāyatrī metre and the remaining four in the Anuṣṭubh metre. The Anukramaṇikā says that the sūkta *udu tyam* is the seventh sūkta of the ninth anuvāka and has Sūrya as deity, and that its first nine ṛks are Gāyatrī. In reciting the Āśvina-śastra mantras, the nine ṛks beginning *udu tyam* are to be used for the mantras of the Saurya rite. This matter is explained in the Āśvalāyana Śrauta-sūtra, in the section '*saṃsthiteṣv āśvināya*', by the sūtra '*sūryo no diva* (Ṛ. Saṃ. 10-158), *udu tyaṃ jātavedasam* (Ṛ. Saṃ. 1-50-1, nine ṛks from it)'."
 
@@ -2014,17 +2014,19 @@
 
 *sūkta 50 | maṇḍala 1 | anuvāka 9 | aṣṭaka 1 | adhyāya 4 | varga 7, 8 | ṛks 1–13 | ṛṣi: Praskaṇva Kāṇva | devatā: Sūrya | chandas: Riks 1–9 Gāyatrī, Riks 10–13 Anuṣṭubh.*
 
-*(The varga numerals are small and read with doubt.)*
+*(Varga numerals 7, 8 re-read from the print.)*
 
 ### Rik 50.1 (pp. 106–109, PDF 122–125)
 
-**Saṃhitā-pāṭha** *(p. 106; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 106; accents as printed)*
 
-> **उदु त्यं जातवेदसं देवं वहन्ति केतवः ।**
-> **दृशे विश्वाय सूर्यम् ॥ १ ॥**
+> **उदु॒ त्यं जा॒तवे॑दसं दे॒वं व॑हन्ति के॒तवः॑ ।**
+> **दृशे विश्वा॑य सूर्य॑म् ॥ १ ॥**
 
-*ud u tyaṃ jātavedasaṃ devaṃ vahanti ketavaḥ |*
-*dṛśe viśvāya sūryam || 1 ||*
+*úd u tyáṃ jātávedasaṃ deváṃ vahanti ketávaḥ |*
+*dṛśé víśvāya sū́ryam || 1 ||*
+
+*[accent ?] line 2: no anudātta is printed under* dṛ *or* ya*; the IAST acutes are inferred from the printed marks.*
 
 **Pada-pāṭha** *(p. 107)*
 
@@ -2036,13 +2038,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 107)*
 
-> **केतवः प्रज्ञापकाः सूर्याश्वा यद्वा सूर्यरश्मयः सूर्यं सर्वस्य प्रेरकमादित्यमुदु वहन्ति । ऊर्ध्वं वहन्ति । उ इति पादपूरणः । उक्तं च । मिताक्षरेष्वनर्थकाः कमीमिद्धीति । नि. १-९ [?] । किमर्थं विश्वाय विश्वस्मै भुवनाय दृशे द्रष्टुं । यथा सर्वे जनाः सूर्यं पश्यन्ति तथोर्ध्वं वहन्तीत्यर्थः । कीदृशं सूर्यं । त्यं प्रसिद्धं जातवेदसं जातानां प्राणिनां वेदितारं जातप्रज्ञं जातधनं वा देवं द्योतमानं । अत्र निरुक्तं । उद्वहन्ति तं जातवेदसं देवमश्वाः केतवो रश्मयो वा सर्वेषां भूतानां सन्दर्शनाय सूर्यम् । नि. १२-१३ [?] । इति ॥ जातवेदसं । जातानि वेत्तीति जातवेदाः । गतिकारकोपपदयोः पूर्वपदप्रकृतिस्वरत्वं च । उ. ४-६६६ [?] । इत्यसुन् पूर्वपदप्रकृतिस्वरत्वं च । दृशे । दृशे विख्ये च । पा. ३-४-११ । इति तुमर्थे निपातितः । सूर्यं । राजसूयसूर्येत्यादिना षू प्रेरण इत्यस्मात् क्यपि रुडागमसहितो निपातितः । आतः प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तत्वं ॥**
+> **केतवः प्रज्ञापकाः सूर्याश्वा यद्वा सूर्यरश्मयः सूर्यं सर्वस्य प्रेरकमादित्यमुदु वहन्ति । ऊर्ध्वं वहन्ति । उ इति पादपूरणः । उक्तं च । मिताक्षरेष्वनर्थकाः कमीमिद्धीति । नि. १-९ । किमर्थं विश्वाय विश्वस्मै भुवनाय दृशे द्रष्टुं । यथा सर्वे जनाः सूर्यं पश्यन्ति तथोर्ध्वं वहन्तीत्यर्थः । कीदृशं सूर्यं । त्यं प्रसिद्धं जातवेदसं जातानां प्राणिनां वेदितारं जातप्रज्ञं जातधनं वा देवं द्योतमानं । अत्र निरुक्तं । उद्वहन्ति तं जातवेदसं देवमश्वाः केतवो रश्मयो वा सर्वेषां भूतानां सन्दर्शनाय सूर्यम् । नि. १२-१५ । इति ॥ जातवेदसं । जातानि वेत्तीति जातवेदाः । गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं । चेत्यसुन् पूर्वपदप्रकृतिस्वरत्वं च । दृशे । दृशे विख्ये च । पा. ३-४-११ । इति तुमर्थे निपातितः । सूर्यं । राजसूयसूर्येत्यादिना षू प्रेरण इत्यस्मात् क्यपि रुडागमसहितो निपातितः । आतः प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरेणाद्युदात्तत्वं ॥**
 
-*ketavaḥ prajñāpakāḥ sūryāśvā yadvā sūryaraśmayaḥ sūryaṃ sarvasya prerakam ādityam ud u vahanti | ūrdhvaṃ vahanti | u iti pādapūraṇaḥ | uktaṃ ca | mitākṣareṣv anarthakāḥ kam īm id dhīti | ni. 1-9 [?] | kimarthaṃ viśvāya viśvasmai bhuvanāya dṛśe draṣṭuṃ | yathā sarve janāḥ sūryaṃ paśyanti tathordhvaṃ vahantīty arthaḥ | kīdṛśaṃ sūryaṃ | tyaṃ prasiddhaṃ jātavedasaṃ jātānāṃ prāṇināṃ veditāraṃ jātaprajñaṃ jātadhanaṃ vā devaṃ dyotamānaṃ | atra niruktaṃ | udvahanti taṃ jātavedasaṃ devam aśvāḥ ketavo raśmayo vā sarveṣāṃ bhūtānāṃ sandarśanāya sūryam | ni. 12-13 [?] | iti || jātavedasaṃ | jātāni vettīti jātavedāḥ | gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca | u. 4-666 [?] | ity asun pūrvapadaprakṛtisvaratvaṃ ca | dṛśe | dṛśe vikhye ca | pā. 3-4-11 | iti tumarthe nipātitaḥ | sūryaṃ | rājasūyasūryety ādinā ṣū preraṇa ity asmāt kyapi ruḍāgamasahito nipātitaḥ | ātaḥ pratyayasya pittvād anudāttatve dhātusvareṇādyudāttatvaṃ ||*
+*ketavaḥ prajñāpakāḥ sūryāśvā yadvā sūryaraśmayaḥ sūryaṃ sarvasya prerakam ādityam ud u vahanti | ūrdhvaṃ vahanti | u iti pādapūraṇaḥ | uktaṃ ca | mitākṣareṣv anarthakāḥ kam īm id dhīti | ni. 1-9 | kimarthaṃ viśvāya viśvasmai bhuvanāya dṛśe draṣṭuṃ | yathā sarve janāḥ sūryaṃ paśyanti tathordhvaṃ vahantīty arthaḥ | kīdṛśaṃ sūryaṃ | tyaṃ prasiddhaṃ jātavedasaṃ jātānāṃ prāṇināṃ veditāraṃ jātaprajñaṃ jātadhanaṃ vā devaṃ dyotamānaṃ | atra niruktaṃ | udvahanti taṃ jātavedasaṃ devam aśvāḥ ketavo raśmayo vā sarveṣāṃ bhūtānāṃ sandarśanāya sūryam | ni. 12-15 | iti || jātavedasaṃ | jātāni vettīti jātavedāḥ | gatikārakayor api pūrvapadaprakṛtisvaratvaṃ | cety asun pūrvapadaprakṛtisvaratvaṃ ca | dṛśe | dṛśe vikhye ca | pā. 3-4-11 | iti tumarthe nipātitaḥ | sūryaṃ | rājasūyasūryety ādinā ṣū preraṇa ity asmāt kyapi ruḍāgamasahito nipātitaḥ | ātaḥ pratyayasya pittvād anudāttatve dhātusvareṇādyudāttatvaṃ ||*
 
-*(Crowded: the Nirukta numbers, the Uṇādi number "4-666" as printed [?], and the clause* gatikārakopapadayoḥ *…; as read.)*
+*(Re-read from the print: Ni. 1-9 and 12-15; the bhāṣya gives no Uṇādi number here and prints the* ca *of the Uṇādi rule after the daṇḍa, as reproduced.)*
 
-**Translation:** "*Ketavaḥ*, the knowers (or: bringers of knowledge) — the Sun's horses, or the Sun's rays — *sūryam*, the Sun, the impeller of all, the Āditya, *ud u vahanti*, bear aloft. *U* is a mere filler of the *pāda*; as it is said: 'the particles *kam*, *īm*, *it*, *hi* in short-syllabled [places] have no meaning' (Ni. 1-9 [?]). For what? *Viśvāya dṛśe*, to be seen by the whole world: the sense is that they bear him up so that all people see the Sun. What Sun? *Tyam*, that well-known one; *jātavedasam*, the knower of all born beings, or one with born knowledge or born wealth; *devam*, shining. The Nirukta here: 'the horses, the *ketus* or the rays bear up that Jātavedas, the god, the Sun, that all beings may see him' (Ni. 12-13 [?]). *Jātavedasam*: 'he who knows the born'; *asun*, with the first member's natural accent (Uṇ. [?]). *Dṛśe*: given by *nipātana* in the sense of the infinitive (Pā. 3-4-11). *Sūryam*: from *ṣū preraṇe*, with *kyap* and the augment *ruṭ* by *rājasūyasūrya…*; the suffix being *pit* is unaccented, so the root's initial acute."
+**Translation:** "*Ketavaḥ*, the knowers (or: bringers of knowledge) — the Sun's horses, or the Sun's rays — *sūryam*, the Sun, the impeller of all, the Āditya, *ud u vahanti*, bear aloft. *U* is a mere filler of the *pāda*; as it is said: 'the particles *kam*, *īm*, *it*, *hi* in short-syllabled [places] have no meaning' (Ni. 1-9). For what? *Viśvāya dṛśe*, to be seen by the whole world: the sense is that they bear him up so that all people see the Sun. What Sun? *Tyam*, that well-known one; *jātavedasam*, the knower of all born beings, or one with born knowledge or born wealth; *devam*, shining. The Nirukta here: 'the horses, the *ketus* or the rays bear up that Jātavedas, the god, the Sun, that all beings may see him' (Ni. 12-15). *Jātavedasam*: 'he who knows the born'; *asun*, with the first member's natural accent (by the Uṇādi rule *gatikārakayor api…*). *Dṛśe*: given by *nipātana* in the sense of the infinitive (Pā. 3-4-11). *Sūryam*: from *ṣū preraṇe*, with *kyap* and the augment *ruṭ* by *rājasūyasūrya…*; the suffix being *pit* is unaccented, so the root's initial acute."
 
 **Pratipadārtha** *(p. 107)* — "**ketavaḥ** — (announcing his coming) the horses or rays of the Sun; **tyam** — that well-known one; **jātavedasam** — who knows all that is born, or who has wealth that is born; **devam** — the shining; **sūryam** — the Sun (who impels all in their work); **viśvāya** — of the whole world; **dṛśe** — for the sake of sight; **ud u vahanti** — raise up, carry up."
 
@@ -2051,28 +2053,28 @@
 **English Translation (the source's own, p. 108)** — "His horses (or rays) carry on high all-knowing and divine Sun that he may be seen by all."
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), pp. 108–109**
-- "This sūkta has Sūrya as its deity. In the Ṛgveda there are in all about sixty [?] ṛks whose deity is Sūrya; put together they are called the *Saura-sūkta*. This Saura-sūkta is recited at the time of Sūryopasthāna and at rites of worship such as Sūryanamaskāra. Although the deities named Sūrya, Āditya and Savitṛ indicate one and the same person, the Sun, there are, as said before, not many ṛks of the Ṛgveda that speak of Sūrya alone. There are many sūktas whose deity is Āditya or Savitṛ."
-- On the word *sūrya* Yāska says (**untranslated in the source**; reference "Ni. 12-14" as read [?]):
+- "This sūkta has Sūrya as its deity. In the Ṛgveda there are in all about sixty ṛks whose deity is Sūrya; put together they are called the *Saura-sūkta*. This Saura-sūkta is recited at the time of Sūryopasthāna and at rites of worship such as Sūryanamaskāra. Although the deities named Sūrya, Āditya and Savitṛ indicate one and the same person, the Sun, there are, as said before, not many ṛks of the Ṛgveda that speak of Sūrya alone. There are many sūktas whose deity is Āditya or Savitṛ."
+- On the word *sūrya* Yāska says (**untranslated in the source**; Ni. 12-14):
 
-  > **सूर्यः सर्तेर्वा । सुवतेर्वा । स्वीर्यतेर्वा ॥** *(Ni. 12-14 as read [?])*
+  > **सूर्यः सर्तेर्वा । सुवतेर्वा । स्वीर्यतेर्वा ॥** *(Ni. 12-14)*
 
-  *sūryaḥ sarter vā | suvater vā | svīryater vā ||* — mine and tentative: "*sūrya* (is) from *sṛ*, 'to go'; or from *su*, 'to impel'; or from *svīryate*." The Kannada author: "that is, he is called *sūrya* because he moves, or because he gives birth to all, or because he impels the whole group of living beings: these are the derivations of the word *sūrya*"; and he cites Yāska's own explanation of this ṛk (**untranslated in the source**; "Ni. 12-13" as read [?]):
+  *sūryaḥ sarter vā | suvater vā | svīryater vā ||* — mine and tentative: "*sūrya* (is) from *sṛ*, 'to go'; or from *su*, 'to impel'; or from *svīryate*." The Kannada author: "that is, he is called *sūrya* because he moves, or because he gives birth to all, or because he impels the whole group of living beings: these are the derivations of the word *sūrya*"; and he cites Yāska's own explanation of this ṛk (**untranslated in the source**; Ni. 12-15):
 
-  > **उद्वहन्ति तं जातवेदसं देवमश्वाः केतवो रश्मयो वा सर्वेषां भूतानां सन्दर्शनाय सूर्यमिति । कमन्यमादित्यादेवमवक्ष्यत् ॥** *(Ni. 12-13 as read [?])*
+  > **उद्वहन्ति तं जातवेदसं रश्मयः केतवः सर्वेषां भूतानां दर्शनाय सूर्यमिति । कमन्यमादित्यादेवमवक्ष्यत् ॥** *(Ni. 12-15)*
 
-  *udvahanti taṃ jātavedasaṃ devam aśvāḥ ketavo raśmayo vā sarveṣāṃ bhūtānāṃ sandarśanāya sūryam iti | kam anyam ādityād devam avakṣyat ||* — mine and tentative: "They bear up that Jātavedas, the god — the horses, the *ketus*, or the rays — for the beholding of all beings, the Sun. Whom else, other than Āditya, would one call god?" "Since this explanation is just as the commentator has said, no further explanation of it is needed."
+  *udvahanti taṃ jātavedasaṃ raśmayaḥ ketavaḥ sarveṣāṃ bhūtānāṃ darśanāya sūryam iti | kam anyam ādityād devam avakṣyat ||* — mine and tentative: "The rays, the *ketus*, bear up that Jātavedas, the Sun, for the sight of all beings. Whom else, other than Āditya, would one call god?" "Since this explanation is just as the commentator has said, no further explanation of it is needed."
 - **tyam** — "this word indicates the sense of *tad*, 'that'."
 - **jātavedasam** — "*jātāni vettīti jātavedāḥ*: one who knows everything born in the world."
 - **devam** — "the shining one, who shines in heaven."
 - **ud vahanti** — "bear up, or hold. The Sun's horses or his rays hold the Sun up in the upper part of the atmosphere so that all may see him, that is, carry him along the high path."
-- **ketavaḥ** — "since the word *ketu* has the sense 'knowledge' (Ni. 3-[?]3 as read) and also 'ray', the commentator, and also Skandasvāmin, explain *ketavaḥ* here as 'the Sun's horses endowed with knowledge' or 'rays of the Sun'. Yāska alone explains *ketavaḥ* as the Sun's rays."
+- **ketavaḥ** — "since the word *ketu* has the sense 'knowledge' (Ni. 3-13) and also 'ray', the commentator, and also Skandasvāmin, explain *ketavaḥ* here as 'the Sun's horses endowed with knowledge' or 'rays of the Sun'. Yāska alone explains *ketavaḥ* as the Sun's rays."
 - **dṛśe** — "*draṣṭum*: in order to be seen, for all to see."
 - **viśvāya** — "*viśvasmai bhuvanāya*: for the whole universe, or for the seeing of all people (beings)."
 
 **Vyākaraṇa-prakriyā** *(pp. 109–110 — grammar pages, noted briefly)*
-- **jātavedasam**: "*jātāni vetti*", he who knows the born; *gatikārakopapadāt kṛt* (Uṇ. 4-[?]66 as read [?]) — when a *gati* or *kāraka* is *upapada*, *asun* after the root and the first member's natural accent: *jāta*, a *kāraka*, is *upapada*, so *asun* after the root *vid*; *pugantalaghūpadhasya ca* gives *guṇa*: *jātaveda + s*; accusative: *jātavedasam*; the accent: *jāta* being end-acute by its suffix, the *ta*-vowel after *j* [the *ā*] is acute in *jātavedasam*.
-- **dṛśe**: "*draṣṭum*"; *dṛśe viḥkhye ca* (Pā. 3-4-11 as read) — these two forms are given by *nipātana* in the infinitive sense; *dṛśe* thus means "to see".
-- **sūryam**: root *ṣū preraṇe*, *tudādi*; *rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ* (Pā. 3-1-114 as read) — seven words ending in *kyap* given by *nipātana*, among which *sūrya*. Or one might derive *sūrya* from *sarati ākāśe* ("he who goes in the sky"), in which case *kyap* and the change to *ū* and lengthening are by *nipātana*; or *kyap* comes after the first-given root, so that one must say '*suvati karmaṇi lokaṃ preraya­ti sūryaḥ*', "the one who impels the world to its work"; with *kyap* the augment *ruṭ* comes: *sū + ruṭ + ya*; *ruṭ* is *cit*, so the end-acute of the member; *kyap* being *pit*, unaccented by *anudāttau suppitau*, the end-acute of the root by *dhātoḥ* prevails; *sūryam* is initial-acute; the unaccented after an acute becomes *svarita*. **|| 1 ||**
+- **jātavedasam**: "*jātāni vetti*", he who knows the born; *gatikārakopapadāt kṛt* (Uṇ. 5-666, as printed) — when a *gati* or *kāraka* is *upapada*, *asun* after the root and the first member's natural accent: *jāta*, a *kāraka*, is *upapada*, so *asun* after the root *vid*; *pugantalaghūpadhasya ca* gives *guṇa*: *jātaveda + s*; accusative: *jātavedasam*; the accent: *jāta* being end-acute by its suffix, the *ta*-vowel after *j* [the *ā*] is acute in *jātavedasam*.
+- **dṛśe**: "*draṣṭum*"; *dṛśe vikhye ca* (Pā. 3-4-11) — these two forms are given by *nipātana* in the infinitive sense; *dṛśe* thus means "to see".
+- **sūryam**: root *ṣū preraṇe*, *tudādi*; *rājasūyasūryamṛṣodyarucyakupyakṛṣṭapacyāvyathyāḥ* (Pā. 3-1-114) — seven words ending in *kyap* given by *nipātana*, among which *sūrya*. Or one might derive *sūrya* from *sarati ākāśe* ("he who goes in the sky"), in which case *kyap* and the change to *ū* and lengthening are by *nipātana*; or *kyap* comes after the first-given root, so that one must say '*suvati karmaṇi lokaṃ preraya­ti sūryaḥ*', "the one who impels the world to its work"; with *kyap* the augment *ruṭ* comes: *sū + ruṭ + ya*; *ruṭ* is *cit*, so the end-acute of the member; *kyap* being *pit*, unaccented by *anudāttau suppitau*, the end-acute of the root by *dhātoḥ* prevails; *sūryam* is initial-acute; the unaccented after an acute becomes *svarita*. **|| 1 ||**
 
 ---
 
