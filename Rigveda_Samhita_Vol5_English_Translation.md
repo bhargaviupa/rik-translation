@@ -3455,13 +3455,13 @@
 
 ### Rik 51.9 (pp. 185–188, PDF 201–204)
 
-**Saṃhitā-pāṭha** *(p. 185; accents printed, not reproduced)*
+**Saṃhitā-pāṭha** *(p. 185; accents as printed)*
 
-> **अनुव्रताय रन्धयन्नपव्रतानाभूभिरिन्द्रः श्नथयन्ननाभुवः ।**
-> **वृद्धस्य चिद्वर्धतो द्यामिनक्षतः स्तवानो वम्रो वि जघान संदिहः ॥ ९ ॥**
+> **अनु॑व्रताय र॒न्धय॒न्नप॑व्रताना॒भूभि॒रिन्द्रः॑ श्न॒थय॒न्नना॑भुवः ।**
+> **वृद्ध॑स्य चि॒द्वर्ध॑तो॒ द्यामिन॑क्षतः॒ स्तवा॑नो व॒म्रो वि ज॑घान सं॒दिहः ॥ ९ ॥**
 
-*anuvratāya randhayann apavratān ābhūbhir indraḥ śnathayann anābhuvaḥ |*
-*vṛddhasya cid vardhato dyām inakṣataḥ stavāno vamro vi jaghāna saṃdihaḥ || 9 ||*
+*anúvratāya randháyann ápavratān ābhū́bhir índraḥ śnatháyann ánābhuvaḥ |*
+*vṛ́ddhasya cid várdhato dyā́m ínakṣataḥ stávāno vamró ví jaghāna saṃdíhaḥ || 9 ||*
 
 **Pada-pāṭha** *(p. 185)*
 
@@ -3473,13 +3473,13 @@
 
 **Sāyaṇa-bhāṣya** *(pp. 185–186)*
 
-> **य इन्द्रोऽनुव्रतायानुकूलकर्मणे यजमानायापव्रतानपगतकर्मणो यजमानान् रन्धयन् हिंसयन् स्वीकुर्वन्वा । तथाभूभिः आभिमुख्येन भवन्तीत्याभुवः स्तोतारः । तैरनाभुवस्तद्विपरीतान् श्नथयन् हिंसयन् वर्तते । वृद्धस्य चिद्वर्धतः पूर्वं वृद्धस्यापि पुनर्वर्धमानस्य द्यामिनक्षतः स्वर्गं व्याप्नुवतस्तस्येन्द्रस्य स्तवानः स्तुतिं कुर्वाणो वम्रः स्तुत्यृद्धिरणशील [?] एतत्संज्ञक ऋषिः संदिहः सम्यगुपचिता [?] वल्मीकवपा [print perhaps वसा, [?]] वि जघान । इन्द्रेण परिहृतान्तरायः सन् पृथिव्याः सारभूतं वल्मीकवपालक्षणं यज्ञसंभारमाहार्षीदित्यर्थः । तथा च शाखान्तरे समाम्नातम् । यद्वल्मीकवपासंभारो भवति ऊर्जमेव रसं पृथिव्या अवरुन्धे । तै. ब्रा. [?] इति ॥**
+> **य इन्द्रोऽनुव्रतायानुकूलकर्मणे यजमानायापव्रतानपगतकर्मणो यजमानान् रन्धयन् हिंसयन् स्वीकुर्वन्वा । तथाभूभिः आभिमुख्येन भवन्तीत्याभुवः स्तोतारः । तैरनाभुवस्तद्विपरीतान् श्नथयन् हिंसयन् वर्तते । वृद्धस्य चिद्वर्धतः पूर्वं वृद्धस्यापि पुनर्वर्धमानस्य द्यामिनक्षतः स्वर्गं व्याप्नुवतस्तस्येन्द्रस्य स्तवानः स्तुतिं कुर्वाणो वम्रः स्तुत्युद्गिरणशील एतत्संज्ञक ऋषिः संदिहः सम्यगुपचिता वल्मीकवपा वि जघान । इन्द्रेण परिहृतान्तरायः सन् पृथिव्याः सारभूतं वल्मीकवपालक्षणं यज्ञसंभारमाहार्षीदित्यर्थः । तथा च शाखान्तरे समाम्नातम् । यद्वल्मीकवपासंभारो भवति ऊर्जमेव रसं पृथिव्या अवरुन्धे । तै. ब्रा. १-१-३-४ इति ॥**
 
-*ya indro 'nuvratāyānukūlakarmaṇe yajamānāyāpavratān apagatakarmaṇo yajamānān randhayan hiṃsayan svīkurvan vā | tathā ābhūbhiḥ ābhimukhyena bhavantīty ābhuvaḥ stotāraḥ | tair anābhuvas tadviparītān śnathayan hiṃsayan vartate | vṛddhasya cid vardhataḥ pūrvaṃ vṛddhasyāpi punar vardhamānasya dyām inakṣataḥ svargaṃ vyāpnuvatas tasyendrasya stavānaḥ stutiṃ kurvāṇo vamraḥ stutyṛddhiraṇaśīla [?] etatsaṃjña ṛṣiḥ saṃdihaḥ samyag upacitā [?] valmīkavapā [print perhaps vasā, [?]] vi jaghāna | indreṇa parihṛtāntarāyaḥ san pṛthivyāḥ sārabhūtaṃ valmīkavapālakṣaṇaṃ yajñasaṃbhāram āhārṣīd ity arthaḥ | tathā ca śākhāntare samāmnātam | yad valmīkavapāsaṃbhāro bhavati ūrjam eva rasaṃ pṛthivyā avarundhe | tai. brā. [?] iti ||*
+*ya indro 'nuvratāyānukūlakarmaṇe yajamānāyāpavratān apagatakarmaṇo yajamānān randhayan hiṃsayan svīkurvan vā | tathā ābhūbhiḥ ābhimukhyena bhavantīty ābhuvaḥ stotāraḥ | tair anābhuvas tadviparītān śnathayan hiṃsayan vartate | vṛddhasya cid vardhataḥ pūrvaṃ vṛddhasyāpi punar vardhamānasya dyām inakṣataḥ svargaṃ vyāpnuvatas tasyendrasya stavānaḥ stutiṃ kurvāṇo vamraḥ stutyudgiraṇaśīla etatsaṃjña ṛṣiḥ saṃdihaḥ samyag upacitā valmīkavapā vi jaghāna | indreṇa parihṛtāntarāyaḥ san pṛthivyāḥ sārabhūtaṃ valmīkavapālakṣaṇaṃ yajñasaṃbhāram āhārṣīd ity arthaḥ | tathā ca śākhāntare samāmnātam | yad valmīkavapāsaṃbhāro bhavati ūrjam eva rasaṃ pṛthivyā avarundhe | tai. brā. 1-1-3-4 iti ||*
 
-*(Reading notes: the line "*vamraḥ stutyṛddhiraṇaśīla*" and "*saṃdihaḥ samyag upacitā*" are crowded and doubtful, [?]; I read "*svargaṃ*" for the sky-going sense from the anuvāda; the Taittirīya Brāhmaṇa reference numeral is unreadable. The grammatical tail — on* anuvratāya*,* śnathayan*,* vardhataḥ*,* inakṣataḥ*,* stavānaḥ*,* jaghāna*,* saṃdihaḥ *— is characterized below.)*
+*(Reading notes, re-read from the print in the numeral pass:* vamraḥ stutyudgiraṇaśīlaḥ*,* saṃdihaḥ samyag upacitā valmīkavapā*,* svargaṃ vyāpnuvataḥ *and Tai. Brā. 1-1-3-4 are as printed.* The grammatical tail — on* anuvratāya*,* śnathayan*,* vardhataḥ*,* inakṣataḥ*,* stavānaḥ*,* jaghāna*,* saṃdihaḥ *— is characterized below.)*
 
-**Translation of the bhāṣya:** "That Indra who, for *anuvratāya*, the sacrificer who performs favourable rites, *randhayan*, harming — or bringing under his control — *apavratān*, the sacrificers who have turned away from the rites, and with the *ābhūbhiḥ*, those who stand facing him — the praisers — *śnathayan*, striking down *anābhuvaḥ*, the opposite kind — thus he abides. *Vṛddhasya cit vardhataḥ*, though grown earlier, growing again, *dyām inakṣataḥ*, pervading the sky, of that Indra *stavānaḥ*, offering praise, *vamraḥ*, the ṛṣi of that name (who is eager for the success of his praise [?]), *saṃdihaḥ*, the well-gathered (materials), the ant-hill *vapā*, [?] *vi jaghāna* — took away: freed by Indra from obstacles, he fetched the sacrificial material — described as the ant-hill fat, the very essence of the earth — is the sense. So it is declared in another śākhā: 'because there is a collection of ant-hill fat, he wins the very sap, the essence of the earth' (Tai. Brā., numeral [?])."
+**Translation of the bhāṣya:** "That Indra who, for *anuvratāya*, the sacrificer who performs favourable rites, *randhayan*, harming — or bringing under his control — *apavratān*, the sacrificers who have turned away from the rites, and with the *ābhūbhiḥ*, those who stand facing him — the praisers — *śnathayan*, striking down *anābhuvaḥ*, the opposite kind — thus he abides. *Vṛddhasya cit vardhataḥ*, though grown earlier, growing again, *dyām inakṣataḥ*, pervading the sky, of that Indra *stavānaḥ*, offering praise, *vamraḥ*, the ṛṣi of that name (whose habit is to utter praise), *saṃdihaḥ*, the well-gathered (materials), the ant-hill *vapā*, [?] *vi jaghāna* — took away: freed by Indra from obstacles, he fetched the sacrificial material — described as the ant-hill fat, the very essence of the earth — is the sense. So it is declared in another śākhā: 'because there is a collection of ant-hill fat, he wins the very sap, the essence of the earth' (Tai. Brā. 1-1-3-4)."
 
 **Pratipadārtha** *(p. 186)* — "**indraḥ** — Indra; **anuvratāya** — for the sacrificer who performs rites that are favourable; **apavratān** — those who have left the rites, the lapsed ones; **randhayan** — subduing and bringing them under his control, and; **ābhūbhiḥ** — with those who face (the deities) and praise; **anābhuvaḥ** — those who do not worship; **śnathayan** — he strikes down (and stays firm); **vṛddhasya cit vardhataḥ** — though grown earlier, again growing; **dyām inakṣataḥ** — who pervades all heaven; **stavānaḥ** — the praising; **vamraḥ** — the sage named Vamra; **saṃdihaḥ** — the sacrificial materials that are well-gathered; **vi jaghāna** — carried off."
 
@@ -3493,18 +3493,18 @@
 - **vṛddhasya cit** — "*vardhataḥ*: it makes clear the sense of Indra 'who, though already grown (even if of small strength), is growing again by other powers'."
 - **cit** — "The word *cit* is here used in the sense of 'again'."
 - **dyām inakṣataḥ** — "*dyām* — *inakṣataḥ*: one who moves, or abides, in the sky. In *inakṣataḥ*, formed from the root *nakṣ gatau*, the first-standing *i* is Vedic (*chāndasa*) and does not come within the grammatical rules; or one must say that there is a separate stem *inakṣati*, with the sense 'to go'."
-- **vamraḥ** — "The name of a sage who repeatedly wishes to recite praise of the deities. He praised Indra much, removed all the obstacles, and procured the sacrificial material called *valmīkavapā*, the essence of the earth. That *valmīkavapā* is the essence of the earth the śruti '*yad valmīkavapāsaṃbhāro bhavati ūrjam eva rasaṃ pṛthivyā avarundhe*' (Tai. Brā. numeral as read [?]) is the proof."
+- **vamraḥ** — "The name of a sage who repeatedly wishes to recite praise of the deities. He praised Indra much, removed all the obstacles, and procured the sacrificial material called *valmīkavapā*, the essence of the earth. That *valmīkavapā* is the essence of the earth the śruti '*yad valmīkavapāsaṃbhāro bhavati ūrjam eva rasaṃ pṛthivyā avarundhe*' (Tai. Brā. 1-1-3-4) is the proof."
 
-  > **यद्वल्मीकवपासंभारो भवति । ऊर्जमेव रसं पृथिव्या अवरुन्धे ।** *(Tai. Brā. numeral [?])*
+  > **यद्वल्मीकवपासंभारो भवति । ऊर्जमेव रसं पृथिव्या अवरुन्धे ।** *(Tai. Brā. 1-1-3-4)*
 
   *yad valmīkavapāsaṃbhāro bhavati | ūrjam eva rasaṃ pṛthivyā avarundhe |* — mine and tentative: "when there is a collection of ant-hill fat, he wins the very sap (*ūrj*), the essence, of the earth."
 
 **Vyākaraṇa-prakriyā** *(pp. 187–188 — grammar pages, noted briefly)*
 - **anuvratāya**: *anukūlaṃ vrataṃ yasya saḥ anuvrataḥ*, a bahuvrīhi; the accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam*; dative.
-- **śnathayan**: *śnatha hiṃsāyām*, *bhvādi*; *śatṛ* after *ṇic*; *vṛddhi* of the penultimate (*ata upadhāyāḥ*): *śnāthayat*; the root being in the *ghaṭādi* group within the *bhvādi*, it has the *mit* designation (*ghaṭādayo mitaḥ*), and so *mitāṃ hrasvaḥ* (Pā. 6-4-92 as read [?]) shortens it before *ṇic*; nominative singular, *num*, *sulopa*, *talopa*: *śnathayan*.
+- **śnathayan**: *śnatha hiṃsāyām*, *bhvādi*; *śatṛ* after *ṇic*; *vṛddhi* of the penultimate (*ata upadhāyāḥ*): *śnāthayat*; the root being in the *ghaṭādi* group within the *bhvādi*, it has the *mit* designation (*ghaṭādayo mitaḥ*), and so *mitāṃ hrasvaḥ* (Pā. 6-4-92) shortens it before *ṇic*; nominative singular, *num*, *sulopa*, *talopa*: *śnathayan*.
 - **vardhataḥ**: *vṛdhu vṛddhau*, *bhvādi*, *anudāttet*; by *vyatyayo bahulam* the *parasmaipada* suffix (*śatṛ*) appears in place of *śānac*; genitive singular *vardhataḥ*.
-- **inakṣataḥ**: *nakṣ gatau*; *śatṛ* in the present sense; a Vedic *i* comes as upapada [?]; genitive singular; or a separate root *inakṣati*, "to go", which is not in the Dhātupāṭha and has to be known from usage (*anuvāda*); the roots of *bhvādi* and *curādi* are *ākṛtigaṇa*, so such roots must be taken into them.
-- **stavānaḥ**: *ṣṭuñ stutau*, *adādi*; *sam ānac stuvaḥ* (Uṇ. 3-… as read [?]) — *ānac* after this root when *sam* is the upapada; by the word *bahulam*, *ānac* also comes without an upapada; with *ānac* alone the root takes *guṇa* and *avādeśa*; *stavāna*; initial-acute by *vyatyaya* instead of the suffix-accent.
+- **inakṣataḥ**: *nakṣ gatau*; *śatṛ* in the present sense; a Vedic *i* comes as upapada (so the Kannada; the bhāṣya says *ikāropajanaś chāndasaḥ*); genitive singular; or a separate root *inakṣati*, "to go", which is not in the Dhātupāṭha and has to be known from usage (*anuvāda*); the roots of *bhvādi* and *curādi* are *ākṛtigaṇa*, so such roots must be taken into them.
+- **stavānaḥ**: *ṣṭuñ stutau*, *adādi*; *sam ānac stuvaḥ* (Uṇ. 2-246) — *ānac* after this root when *sam* is the upapada; by the word *bahulam*, *ānac* also comes without an upapada; with *ānac* alone the root takes *guṇa* and *avādeśa*; *stavāna*; initial-acute by *vyatyaya* instead of the suffix-accent.
 - **jaghāna**: *han hiṃsāgatyoḥ*, *adādi*, *liṭ* third singular, *ṇal*; reduplication, *halādiḥ śeṣaḥ*, *cutva*; *abhyāsāc ca* (Pā. 7-3-55) — the *h* of *han* after a reduplicative syllable becomes a *k*-class letter, *gha* by nearness: *jaghāna*.
 - **saṃdihaḥ**: *diha upacaye*, *adādi*; *kṛtyalyuṭo bahulam* (Pā. 3-3-113), by *bahulam* *kvip* in the object sense; *sarvalopa*; accusative plural *saṃdihaḥ*; *gatikārakopapadāt kṛt* gives the accent of the final member. **|| 9 ||**
 
