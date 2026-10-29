@@ -2204,15 +2204,17 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 - **hiraṇyayena**: *ṛtvyavāstvyavāstvamādhvīhiraṇyayāni chandasi* — ऋत्व्यवास्त्व्यवास्त्वमाध्वीहिरण्ययानि छन्दसि — (Pā. 6-4-175): after the word *ṛtu* in the sense of "born in it" the suffix *yat* and *yaṇ*-substitution are given by *nipātana*; after *vāsu*, *yat* and *añ* together, *yaṇ*; after *madhu* in the feminine, *añ* and *yaṇ*; and *hiraṇyasya vikāraḥ*, "the product of gold", takes *mayaṭ* — here the *m* of *mayaṭ* is lost by *nipātana*: *hiraṇya + aya*; the *a* of *hiraṇya* is lost by *yasyeti ca* (Pā. 6-4-148); *aya* is first-syllable acute by the suffix-accent (*ādyudāttaś ca*). The print adds that the Kaumudī-author states a loss of the word *mas*, i.e. the group *m* + *a*, in this view, so that *hiraṇya + ya* would arise and *yasyeti ca* would be expected; since the loss of *m* is *asiddha*, it must be handled by the maxim *aṅgavṛtte punarvṛttāv avidhiḥ*; the lengthening that would arise by *akṛtsārvadhātukayor dīrghaḥ* must also be handled; the Veda-bhāṣya, on the ṛk Ṛ. Saṃ. 1-7-2 (middle digit the flat-footed 7), follows the same method; *ekādeśa udāttena…* (no number printed) is cited to say that the single substitute is acute.
 - **bhuvanāni**: root *bhū sattāyām*; the Uṇādi sūtra *bhūsūdhūbhrasjibhyaś chandasi* — भूसूधूभ्रस्जिभ्यश्छन्दसि — (Uṇ. 2-239 as printed here; the bhāṣya cites 2-80) gives *kyun* after *bhū sattāyām*, *ṣūṅ prāṇiprasave*, *dhūñ kampane*, *bhrasja pāke*; the *yu* of the suffix stays and *ana* replaces it; *aci śnudhātubhruvāṃ…* — Pā. 6-4-77 — *uvaṅ*; the suffix is *nit*, so the first syllable is acute. Rik 2 ends here (*|| 2 ||*).
 
-### Rik 35.3 (pp. 139–142, PDF 153–156)
+### Rik 35.3 (pp. 139–142, PDF 154–157)
 
-**Saṃhitā-pāṭha** *(p. 139; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 139; Saṃhitā accents as printed; Pada unaccented)*
 
-> **याति देवः प्रवता यात्युद्वता याति शुभ्राभ्यां यजतो हरिभ्याम् ।**
-> **आ देवो याति सविता परावतोऽप विश्वा दुरिता बाधमानः ॥ ३ ॥**
+> याति॑ दे॒वः प्र॒वता॒ यात्यु॒द्वता॒ याति॑ शु॒भ्राभ्यां॑ यज॒तो हरि॑भ्यां ।
+> आ दे॒वो या॑ति सवि॒ता प॑रा॒वतोऽप॒ विश्वा॑ दुरि॒ता बाध॑मानः ॥ ३ ॥
+>
+> *yā́ti deváḥ pravátā yā́ty udvátā yā́ti śubhrā́bhyāṃ yajató háribhyāṃ |*
+> *ā devó yāti savitā́ parāváto 'pa víśvā duritā́ bā́dhamānaḥ || 3 ||*
 
-*yāti devaḥ pravatā yāty udvatā yāti śubhrābhyāṃ yajato haribhyām |*
-*ā devo yāti savitā parāvato 'pa viśvā duritā bādhamānaḥ || 3 ||*
+*(As printed, the first half ends in हरिभ्यां with anusvara.)*
 
 **Pada-pāṭha** *(pp. 139–140)*
 
@@ -2222,15 +2224,15 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 *yāti | devaḥ | pra-vatā | yāti | ut-vatā | yāti | śubhrābhyām | yajataḥ | hari-bhyām ||*
 *ā | devaḥ | yāti | savitā | parā-vataḥ | apa | viśvā | duḥ-itā | bādhamānaḥ || 3 ||*
 
-**Sāyaṇa-bhāṣya** *(p. 140; the first half in full, the grammatical tail characterized; the phrase marked [?] is partly unclear)*
+**Sāyaṇa-bhāṣya** *(p. 140; the first half in full, the grammatical tail characterized)*
 
-> देवो दीप्यमानः सविता प्रवता प्रवणवता मार्गेण याति । गच्छति । तथोद्वतोत्कृष्ट [?]ऊर्ध्वदेशयुक्तेन मार्गेण याति । उदयानन्तरम् आ मध्याह्नमूर्ध्वो मार्गः । ततस्तत उपरि आ सायं प्रवणो मार्ग इति विवेकः । तथा यजतो यष्टव्यः स देवः शुभ्राभ्यां श्वेताभ्यां हरिभ्यामश्वाभ्यां याति । देवयजनदेशे गच्छति । सविता देवो विश्वा दुरिता सर्वाणि पापान्यप बाधमानो विनाशयन् परावतो दूरदेशात् । परावत इति दूरनामसु पठितत्वात् । तादृशाद्द्युलोकादायाति । यागदेश आगच्छति ॥
+> देवो दीप्यमानः सविता प्रवता प्रवणवता मार्गेण याति । गच्छति । तथोद्वतोत्कृष्टेनोर्ध्वदेशयुक्तेन मार्गेण याति । उदयानन्तरम् आ मध्याह्नमूर्ध्वो मार्गः । ततस्तत उपरि आ सायं प्रवणो मार्ग इति विवेकः । तथा यजतो यष्टव्यः स देवः शुभ्राभ्यां श्वेताभ्यां हरिभ्यामश्वाभ्यां याति । देवयजनदेशे गच्छति । सविता देवो विश्वा दुरिता सर्वाणि पापान्यप बाधमानो विनाशयन् परावतो दूरदेशात् । परावत इति दूरनामसु पठितत्वात् । तादृशाद्द्युलोकादायाति । यागदेश आगच्छति ॥
 
-*devo dīpyamānaḥ savitā pravatā pravaṇavatā mārgeṇa yāti | gacchati | tathodvatotkṛṣṭa [?]ūrdhvadeśayuktena mārgeṇa yāti | udayānantaram ā madhyāhnam ūrdhvo mārgaḥ | tatas tata upari ā sāyaṃ pravaṇo mārga iti vivekaḥ | tathā yajato yaṣṭavyaḥ sa devaḥ śubhrābhyāṃ śvetābhyāṃ haribhyām aśvābhyāṃ yāti | devayajanadeśe gacchati | savitā devo viśvā duritā sarvāṇi pāpāny apa bādhamāno vināśayan parāvato dūradeśāt | parāvata iti dūranāmasu paṭhitatvāt | tādṛśād dyulokād āyāti | yāgadeśa āgacchati ||*
+*devo dīpyamānaḥ savitā pravatā pravaṇavatā mārgeṇa yāti | gacchati | tathodvatotkṛṣṭenordhvadeśayuktena mārgeṇa yāti | udayānantaram ā madhyāhnam ūrdhvo mārgaḥ | tatas tata upari ā sāyaṃ pravaṇo mārga iti vivekaḥ | tathā yajato yaṣṭavyaḥ sa devaḥ śubhrābhyāṃ śvetābhyāṃ haribhyām aśvābhyāṃ yāti | devayajanadeśe gacchati | savitā devo viśvā duritā sarvāṇi pāpāny apa bādhamāno vināśayan parāvato dūradeśāt | parāvata iti dūranāmasu paṭhitatvāt | tādṛśād dyulokād āyāti | yāgadeśa āgacchati ||*
 
-**Translation:** "The shining god Savitṛ goes (*yāti*) by *pravatā*, a path with a slope [downward]; likewise he goes by *udvatā*, a path with an elevation, rising [upward]. After the rising, up to midday, the path is upward; thence on, up to evening, the path is a downward slope: that is the distinction. And *yajataḥ* — he who is to be worshipped — that god goes with *śubhrābhyāṃ haribhyām*, two white horses; he goes to the place of the sacrifice to the gods. Savitṛ the god, *viśvā duritā apa bādhamānaḥ* — warding off, destroying all sins — *parāvataḥ*, from a distant place (*parāvataḥ* being read in the lists of names for 'far') — comes from such a heaven: he comes to the place of the rite."
+**Translation:** "The shining god Savitṛ goes (*yāti*) by *pravatā*, a path with a slope [downward]; likewise he goes by *udvatā*, a path that is raised, with an upward region. After the rising, up to midday, the path is upward; thence on, up to evening, the path is a downward slope: that is the distinction. And *yajataḥ* — he who is to be worshipped — that god goes with *śubhrābhyāṃ haribhyām*, two white horses; he goes to the place of the sacrifice to the gods. Savitṛ the god, *viśvā duritā apa bādhamānaḥ* — warding off, destroying all sins — *parāvataḥ*, from a distant place (*parāvataḥ* being read in the lists of names for 'far') — comes from such a heaven: he comes to the place of the rite."
 
-**Grammar within the bhāṣya** *(p. 140, characterized)*: *pravatā* (root *vana paṇa sambhaktau*, with *pra*, *kvip* [the print gives the preverb-form in a way I could not read], the nasal dropped by the vārtika *gamādīnām iti vaktavyam* [Pā. 6-4-40, vārtika; as read], then *tuk* — *tatas tuk*; the accent of the later member of a *kṛt*-compound); *udvatā* ("with *ut* before the root *vana*, the same process"); *yajataḥ* (*bhṛmṛdṛśiyajiparvi…* [Uṇ. 3-110, as I read the numerals]; *yajateḥ karmaṇi atac*); *viśvā duritā* (in both words the *śi* is lost by *śeś chandasi bahulam*).
+**Grammar within the bhāṣya** *(p. 140, characterized)*: *pravatā* (root *vana ṣaṇa sambhaktau*; *asmāt prapūrvāt kvip* — *kvip* after it with *pra*; the nasal dropped by the vārtika *gamādīnām iti vaktavyam* [Pā. 6-4-40-1], then *tuk* — *tatas tuk*; the accent of the later member of a *kṛt*-compound); *udvatā* ("with *ut* before the root *vana*, the same process"); *yajataḥ* (*bhṛmṛdṛśi…* [Uṇ. 3-110]; *yajateḥ karmaṇi atac*); *viśvā duritā* (in both words the *śi* is lost by *śeś chandasi bahulam*).
 
 **Pratipadārtha** *(p. 140)* — "**devaḥ** — the shining Savitṛ; **udvatā** — by the path that goes upward (from sunrise up to midday); **pravatā** — by the path that goes downward (from midday up to evening); **yāti** — goes (moves about); **yāti** — moves; **yajataḥ** — he who is worthy of worship; **śubhrābhyām** — with two bright; **haribhyām** — horses; **yāti** — moves; **devaḥ** — the shining; **savitā** — Savitṛ; **viśvā** — all; **duritā** — sins; **apa bādhamānaḥ** — destroying; **parāvataḥ** — from a distant place; **ā yāti** — comes (graciously to this sacrificial ground)."
 
@@ -2247,15 +2249,15 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 - **viśvā duritā bādhamānaḥ** — "driving off all troubles or sins."
 
 **Vyākaraṇa-prakriyā** *(p. 141, PDF 155 — grammar page, noted briefly; begun, to continue on p. 142)*
-- **pravatā**: the root *vana paṇa sambhaktau* is read in the Dhātupāṭha; *gamaḥ kvau* — गमः क्वौ — (Pā. 6-4-40, as read): the nasal of *gam* is lost before *kvip*; the vārtika *gamādīnām iti vaktavyam* — "[it must be said that] this is for the *gamādi* [roots]" — so that the rule for the nasal of *gam* alone is not enough, and the loss of the nasal before *kvip* must be taught for many other roots; the verse "*uktānuktadurūktānāṃ cintā vārttikaṃ matam*" — "a vārtika is held to be the consideration of what is said, not said, or ill said" — is cited for the vārtika's character; then for *van* + *kvip* the *n* is lost by this vārtika; *hrasvasya piti kṛti tuk* — ह्रस्वस्य पिति कृति तुक् — (Pā. 6-1-71, as read): after the *p* of *kvip* is *it*, a *kṛt* that is *pit* … *(the page breaks off here and continues on p. 142)*.
+- **pravatā**: the root *vana ṣaṇa sambhaktau* is read in the Dhātupāṭha; *gamaḥ kvau* — गमः क्वौ — (Pā. 6-4-40): the nasal of *gam* is lost before *kvip*; the vārtika *gamādīnām iti vaktavyam* — "[it must be said that] this is for the *gamādi* [roots]" — so that the rule for the nasal of *gam* alone is not enough, and the loss of the nasal before *kvip* must be taught for many other roots; the verse "*uktānuktadurūktānāṃ cintā vārttikaṃ matam*" — "a vārtika is held to be the consideration of what is said, not said, or ill said" — is cited for the vārtika's character; then for *van* + *kvip* the *n* is lost by this vārtika; *hrasvasya piti kṛti tuk* — ह्रस्वस्य पिति कृति तुक् — (Pā. 6-4-71 as printed; for 6-1-71): after the *p* of *kvip* is *it*, a *kṛt* that is *pit* … *(the page breaks off here and continues on p. 142)*.
 
 ---
 
-### Rik 35.3 — Vyākaraṇa-prakriyā, concluded (p. 142, PDF 156; grammar page, noted briefly)
+### Rik 35.3 — Vyākaraṇa-prakriyā, concluded (p. 142, PDF 157; grammar page, noted briefly)
 
-- **pravatā** (concluded): after the *tuk* the form is *pravat*; the preverb *pra* + the third-case singular *ṭā*; in *pravat* the *va* is acute by the root's accent; once the compound with the preverb is made, *gatikārakopapadāt kṛt* — गतिकारकोपपदात्कृत् — (Pā. 6-2-139, as read) lets the accent of the later member, the *kṛdanta*, stand.
+- **pravatā** (concluded): after the *tuk* the form is *pravat*; the preverb *pra* + the third-case singular *ṭā*; in *pravat* the *va* is acute by the root's accent; once the compound with the preverb is made, *gatikārakopapadāt kṛt* — गतिकारकोपपदात्कृत् — (Pā. 6-2-139) lets the accent of the later member, the *kṛdanta*, stand.
 - **udvatā**: "here the preverb *ut* stands in place of *pra*; the rest of the process is as before."
-- **yajataḥ**: root *yaja devapūjāyām*; *bhṛmṛdṛśiyajiparvipacyamitamināmidayibhyo 'tac* — भृमृदृशियजिपर्विपच्यमितमिनमिदयिभ्योऽतच् — (Uṇ. 3-110, as I read the numerals [?]): *atac* after *yaj*: *yajata*.
+- **yajataḥ**: root *yaja devapūjāyām*; *bhṛmṛdṛśiyajiparvipacyamitamināmidayibhyo 'tac* — भृमृदृशियजिपर्विपच्यमितमिनमिदयिभ्योऽतच् — (Uṇ. 3-390 as printed here; the bhāṣya cites 3-110): *atac* after *yaj*: *yajata*.
 - **viśvā duritā**: *viśvāni duritāni*, second-case plural; the *śi* from *jaśśasoḥ śiḥ* is dropped by *śeś chandasi bahulam* — (Pā. 6-1-70); by the *sarvanāmasthāna* status the augment *num* had come and the lengthening of the penultimate; after the *luk* the *n* is lost. Rik 3 ends here (*|| 3 ||*).
 
 ### Rik 35.4 (pp. 142–, PDF 156–)
