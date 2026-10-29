@@ -9333,10 +9333,12 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 **॥ Saṃhitāpāṭhaḥ ॥**
 
-> इमामू षु त्वमस्माकं सनिं गायत्रं नव्यांसम् ।
-> अग्ने देवेषु प्र वोचः ॥ ४ ॥
+> इ॒ममू॒ षु त्वम॒स्माकं॑ स॒निं गा॑य॒त्रं नव्यां॑सं ।
+> अग्ने॑ दे॒वेषु॒ प्र वो॑चः ॥ ४ ॥
 
-*imam ū ṣu tvam asmākaṃ saniṃ gāyatraṃ navyāṃsam | agne deveṣu pra vocaḥ || 4 ||*
+*imám ū ṣú tvám asmā́kaṃ saníṃ gāyatráṃ návyāṃsaṃ | ágne devéṣu prá vocaḥ || 4 ||*
+
+*(Saṃhitā accents as printed (w3); the print has इममू (short a); Pada unaccented.)*
 
 **॥ Padapāṭhaḥ ॥**
 
@@ -9346,11 +9348,11 @@ In these and many other riks the words *sahasaḥ sūnuḥ* and *sahasas putra�
 
 **॥ Sāyaṇa-bhāṣyam ॥** *(p. 382)*
 
-> हे अग्ने त्वमस्माकमस्मत्संबन्धिनमिममू षु पुरोदेशेऽनुष्ठीयमानमपि सनिं हविर्दानं नव्यांसं नवतरं गायत्रं स्तुतिरूपं वचोऽपि देवेषु देवानामग्रे प्र वोचः । प्रब्रूहि ॥ ऊ षु । निपातस्य चेति संहितायां दीर्घत्वम् । सुञः इति षत्वम् । नव्यांसम् । नवशब्दादीयसुनि नकारलोपश्छान्दसः । ईयसुनो नित्त्वादाद्युदात्तम् । वोचः । छन्दसि लुङ्लङ्लिट इति लोडर्थे प्रार्थनायां लुङ् । लुङि च वक्तीति च्लेश्चङ् [?] । अस्यतिवक्तीत्यादिना च्लेरजादेशः । पा. ३-१-५२ । वच उम् । पा. ७-४-२० ।
+> हे अग्ने त्वमस्माकमस्मत्संबन्धिनमिममू षु पुरोदेशेऽनुष्ठीयमानमपि सनिं हविर्दानं नव्यांसं नवतरं गायत्रं स्तुतिरूपं वचोऽपि देवेषु देवानामग्रे प्र वोचः । प्रब्रूहि ॥ ऊ षु । निपातस्य चेति संहितायां दीर्घत्वम् । सुञः इति षत्वम् । नव्यांसम् । नवशब्दादीयसुनीकारलोपश्छान्दसः । ईयसुनो नित्त्वादाद्युदात्तत्वम् । वोचः । छन्दसि लुङ्लङ्लिट इति लोडर्थे प्रार्थनायां लुङ्यस्यतिवक्तीति च्लेरङादेशः । पा. ३-१-५२ । वच उम् । पा. ७-४-२० ॥
 
-*he agne tvam asmākam asmatsaṃbandhinam imam ū ṣu purodeśe 'nuṣṭhīyamānam api saniṃ havirdānaṃ navyāṃsaṃ navataraṃ gāyatraṃ stutirūpaṃ vaco 'pi deveṣu devānām agre pra vocaḥ | prabrūhi || ū ṣu | nipātasya ceti saṃhitāyāṃ dīrghatvam | suñaḥ iti ṣatvam | navyāṃsam | navaśabdād īyasuni nakāralopaś chāndasaḥ | īyasuno nittvād ādyudāttam | vocaḥ | chandasi luṅlaṅliṭa iti loḍarthe prārthanāyāṃ luṅ | luṅi ca vaktīti cleś caṅ [?] | asyativaktītyādinā cler ajādeśaḥ | pā. 3-1-52 | vaca um | pā. 7-4-20 |*
+*he agne tvam asmākam asmatsaṃbandhinam imam ū ṣu purodeśe 'nuṣṭhīyamānam api saniṃ havirdānaṃ navyāṃsaṃ navataraṃ gāyatraṃ stutirūpaṃ vaco 'pi deveṣu devānām agre pra vocaḥ | prabrūhi || ū ṣu | nipātasya ceti saṃhitāyāṃ dīrghatvam | suñaḥ iti ṣatvam | navyāṃsam | navaśabdād īyasunīkāralopaś chāndasaḥ | īyasuno nittvād ādyudāttatvam | vocaḥ | chandasi luṅlaṅliṭa iti loḍarthe prārthanāyāṃ luṅy asyativaktīti cler aṅādeśaḥ | pā. 3-1-52 | vaca um | pā. 7-4-20 ||*
 
-**Translation:** "O Agni! Declare (*pra vocaḥ*) in the presence of the gods (*deveṣu*) this *sani* — gift of oblation — of ours, being performed here at the front [of the altar], and also this *navyāṃsam* — newest — *gāyatram* — hymn in the Gāyatrī metre, in the form of praise. *Ū ṣu*: lengthening of the particle in the Saṃhitā; *ṣa* by *suñaḥ*. *Navyāṃsam*: from *nava* with *īyasun*; the loss of *n* is Vedic; since *īyasun* is *nit*, the first syllable is acute. *Vocaḥ*: the Vedic *luṅ* in the sense of the imperative (prayer); *a* for *cli* by P. 3-1-52 [*asyati-vakti-khyātibhyo 'ṅ*]; *um* augment of *vac* by P. 7-4-20." *(Grammar pages 383–384, noted briefly: the words treated are* ū ṣu *[*ū* with its vowel lengthened by P. 6-3-136 *nipātasya ca*; *su* → *ṣu* by P. 8-3-107 *suñaḥ*],* navyāṃsam *[*nava* + *īyasun* in the sense of excess by P. 5-3-… with the *y* — *nava* + *īyas* → *navyas*, the Vedic loss of the nasal; *īyasun* is *nit*, so the initial acute; *num* and lengthening in the accusative singular by P. 7-1-70 and P. 6-4-8 give *navyāṃsam*] and* vocaḥ *[*vaca paribhāṣaṇe*, *adādi* (or *brūñ vyaktāyāṃ vāci*); the Vedic *luṅ* in the sense of the imperative by P. 3-4-6; *sip* → *s*; the loss of *i* by P. 7-2-… *itaś ca lopaḥ*; *aṅ* for *cli* by P. 3-1-52; *vac* + *a* + *s* with the augment *um* by P. 7-4-20 *vaca um*; the *aṭ* augment is absent by P. 6-4-75 *na māṅyoge* [Vedic *bahulaṃ chandasi*]; *ru*-*visarga*; the verb is lowered by P. 8-1-28]; numerals as read, pointers only.)*
+**Translation:** "O Agni! Declare (*pra vocaḥ*) in the presence of the gods (*deveṣu*) this *sani* — gift of oblation — of ours, being performed here at the front [of the altar], and also this *navyāṃsam* — newest — *gāyatram* — hymn in the Gāyatrī metre, in the form of praise. *Ū ṣu*: lengthening of the particle in the Saṃhitā; *ṣa* by *suñaḥ*. *Navyāṃsam*: from *nava* with *īyasun*; the loss of the *ī* is Vedic; since *īyasun* is *nit*, the first syllable is acute. *Vocaḥ*: the Vedic *luṅ* in the sense of the imperative (prayer); *aṅ* for *cli* by P. 3-1-52 [*asyati-vakti-khyātibhyo 'ṅ*]; *um* augment of *vac* by P. 7-4-20." *(Grammar pages 383–384, noted briefly: the words treated are* ū ṣu *[*ū* with its vowel lengthened by P. 6-3-136 *nipātasya ca*; *su* → *ṣu* by P. 8-3-107 *suñaḥ*],* navyāṃsam *[*nava* + *īyasun* in the sense of excess (no sūtra number printed); the *ī* of *īyas* lost as a Vedic form; the *a* of *nava* lost by P. 6-4-148 *yasyeti ca*: *navyas*; being *ugit*, *num* before the accusative singular (a *sarvanāmasthāna*); lengthening by P. 6-4-14 *atvasantasya cādhātoḥ*: *navyāṃsam*; *īyasun* has *n* as *it*, so the first syllable is acute: the *a* after *n*] and* vocaḥ *[*vaca paribhāṣaṇe*, *adādi* (or *brūñ vyaktāyāṃ vāci*); the Vedic *luṅ* in the sense of the imperative by P. 3-4-6; *sip*; the *i* lost by *itaś ca* (no number printed); *cli* by P. 3-1-43 *cli luṅi*, and *aṅ* for it by P. 3-1-52 *asyativaktikhyātibhyo 'ṅ*; *vac* + *a* + *s* with the augment *um* by P. 7-4-20 *vaca um*; guṇa of the last vowel since *um* is *mit*; *ru*-*visarga*: *vocaḥ*; the *aṭ* augment is absent by P. 6-4-75 *bahulaṃ chandasy amāṅyoge 'pi*; the verb has the *tiṅanta* lowering (no number printed)]; numerals checked against the print, w3.)*
 
 **॥ Prati-padārthaḥ ॥** *(p. 383)* **(अग्ने) ((agne))** — O Agni | **त्वम् (tvam)** — you | **अस्माकम् (asmākam)** — our [offered] | **इमं सनिम् (imaṃ sanim)** — this oblation | **नव्यांसम् (navyāṃsam)** — newest | **गायत्रम् (gāyatram)** — the hymn | **देवेषु (deveṣu)** — in front of the gods | **प्र वोचः (pra vocaḥ)** — proclaim well.
 
