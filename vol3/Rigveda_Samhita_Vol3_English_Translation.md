@@ -10298,11 +10298,13 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Saṃhitā-pāṭha** *(p. 452)*
 
-> पताति कुण्डृणाच्या दूरं वातो वनादधि ।
-> आ तू न इन्द्र शंसय गोष्वश्वेषु शुभ्रिषु सहस्रेषु तुवीमघ ॥ ६ ॥
+> पता॑ति कुण्डृ॒णाच्या॑ दू॒रं वातो॒ वना॒दधि॑ । [accent ?]
+> आ तू न॑ इन्द्र शंसय॒ गोष्वश्वे॑षु शु॒भ्रिषु॑ स॒हस्रे॑षु तुवीमघ ॥ ६ ॥
 
-> *patāti kuṇḍṛṇācyā dūraṃ vāto vanādadhi |*
-> *ā tū na indra śaṃsaya goṣvaśveṣu śubhriṣu sahasreṣu tuvīmagha ‖ 6 ‖*
+> *pátāti kuṇḍṛṇā́cyā dūráṃ vāto vánād ádhi |*
+> *ā tū́ na indra śaṃsaya góṣv áśveṣu śubhríṣu sahásreṣu tuvīmagha ‖ 6 ‖*
+
+*(Saṃhitā accents as printed (w3); [accent ?]: the stroke in कुण्डृणाच्या stands between णा and च्या; Pada unaccented.)*
 
 **Pada-pāṭha** *(p. 453)*
 
@@ -10314,17 +10316,15 @@ The Taittirīya Saṃhitā lists ten sacrificial implements:
 
 **Sāyaṇa-bhāṣya** *(p. 453)*
 
-> वातोऽस्मत्प्रतिकूलो वायुः कुण्डृणाच्या कुटिलगत्या स त्वस्मान्परित्यज्य वनादरण्यादधिकं [?] दूरं देशं पताति । पतेत् । अन्यत्पूर्ववत् ॥
+> वातोऽस्मत्प्रतिकूलो वायुः कुण्डृणाच्या कुटिलगत्या स त्वस्मान्परित्यज्य वनादध्यरण्यादप्यधिकं दूरं देशं पताति । पततु । अन्यत्पूर्ववत् ॥ पताति । लेट्याडागमः । कुण्डृणाच्या । कुडि दाहे । अस्मात् ल्युडन्ते कुण्डनशब्दे डकारात्परस्याकारस्य ऋकारश्छान्दसः । ऋवर्णाच्चेति वक्तव्यमिति णत्वम् । तदञ्चतीति कुण्डृणाची । ऋत्विगित्यादिना क्विन् । अनिदितामिति नलोपेऽञ्चतेश्चेति वक्तव्यम् । पा. ४-१-६-२ । इति ङीप् । अचः । पा. ६-४-१३८ । इत्यकारलोपः । चौ । पा. ६-३-१३८ । इति पूर्वपदस्य दीर्घत्वम् । चौ । पा. ६-१-२२२ । इत्याकारस्योदात्तत्वम् ॥
 
-> *vāto 'smatpratikūlo vāyuḥ kuṇḍṛṇācyā kuṭilagatyā sa tvasmānparityajya vanādaraṇyādadhikaṃ [?] dūraṃ deśaṃ patāti | patet | anyatpūrvavat ‖*
+> *vāto 'smatpratikūlo vāyuḥ kuṇḍṛṇācyā kuṭilagatyā sa tvasmānparityajya vanādadhyaraṇyādapyadhikaṃ dūraṃ deśaṃ patāti | patatu | anyatpūrvavat ‖ patāti | leṭyāḍāgamaḥ | kuṇḍṛṇācyā | kuḍi dāhe | asmāt lyuḍante kuṇḍanaśabde ḍakārātparasyākārasya ṛkāraśchāndasaḥ | ṛvarṇācceti vaktavyamiti ṇatvam | tadañcatīti kuṇḍṛṇācī | ṛtvigityādinā kvin | aniditāmiti nalope 'ñcateśceti vaktavyam | pā. 4-1-6-2 | iti ṅīp | acaḥ | pā. 6-4-138 | ityakāralopaḥ | cau | pā. 6-3-138 | iti pūrvapadasya dīrghatvam | cau | pā. 6-1-222 | ityākārasyodāttatvam ‖*
 
-*Gist (mine):* "The wind that is hostile to us, going by a crooked course, leaving us, may fall (blow) far away, beyond the forest. *Patāti* = *patet*. The rest as before."
+*(Bhāṣya completed from the print, w3: वनादध्यरण्यादप्यधिकं (was …[?]), पततु (was पतेत्), and the grammatical tail, missing in the file, added.)*
 
-*Grammar (pp. 453–454), noted briefly:* the printed note treats *patāti* (*pata gatau*; *leṭ*, with the *aḍāgama* by P. 3-4-94 *leṭo 'ḍāṭau* [as read]) and *kuṇḍṛṇācyā* (from *kuḍi dāhe*; the *ṛ* for *a* is Vedic; *ñc*-affix, *kvin*, the *nalopa* and the lengthening before the instrumental ending are discussed with many sūtras whose numerals I could not read reliably: [?]).
+*Gist (mine):* "The wind that is hostile to us, going by a crooked course, leaving us, may fall (blow) far away, beyond the forest. *Patāti* = *patatu*. The rest as before." (Tail: *patāti* with the *leṭ* augment *āṭ*; *kuṇḍṛṇācyā*: *kuḍi dāhe* + *lyuṭ* → *kuṇḍana*, the *ṛ* after the *ḍ* Vedic, *ṇatva* by the vārttika *ṛvarṇāc ca*; *tad añcati* → *kuṇḍṛṇācī* with *kvin*, nasal lost, *ṅīp* by *añcateś ca* (Pā. 4-1-6-2), the *a* lost by *acaḥ* (6-4-138), the first member lengthened by *cau* (6-3-138), the *ā* acute by *cau* (6-1-222).)
 
-**Pratipadārtha** *(p. 453, Kannada, rendered)* — **वातः** the wind (hostile to us); **कुण्डृणाच्या** by a crooked course (leaving us); **वनादधि** beyond the forest; **दूरम्** to a far region; **पताति** may it blow; **तुवीमघ** O possessor of abundant wealth; **इन्द्र** O Indra; **नः** us; **सहस्रेषु** in thousands; **शुभ्रिषु** excellent; **गोषु** in cows; **अश्वेषु** in horses; **आ शंसय** make [us] fully worthy (that is, give us thousands of cows and horses).
-
-**Bhāvārtha** *(p. 453)* — O Indra of abundant wealth! Let the wind that is hostile to us and goes by a crooked course blow far from us, beyond the forest; and give us thousands of excellent cows and horses, making us wealthy.
+*Grammar (p. 454), noted briefly (corrected from the print, w3):* *patāti* (*patḷ gatau*; *leṭ* 3rd sg. *tip*, *śap*; the augment *āṭ* by *leṭo 'ḍāṭau* (P. sū. 3-4-94); first-syllable acute by the root accent); *kuṇḍṛṇācyā* (*kuḍi dāhe*, bhvādi; *lyuṭ*, *ana* by *yuvor anākau* (P. sū. 7-1-1); *num* as an *idit* root: *kuṇḍana*; the *a* after the *ḍ* becomes *ṛ* in the Veda; *ṇatva* by *ṛvarṇāc ceti vaktavyam* (Vā. 4969); *kuṇḍṛṇam añcati*: *kvin* by *ṛtvig dadhṛk…* (P. sū. 3-2-59); the nasal lost by *aniditāṃ hala upadhāyāḥ…* (P. sū. 6-4-24): *kuṇḍṛṇāc*; in the feminine *ṅīp* by *añcateś ceti vaktavyam* (P. sū. 4-1-6-2); in the instrumental the *a* of *añc* lost by *acaḥ* (P. sū. 6-4-138), the first member lengthened by *cau* (P. sū. 6-3-138), and its final *ā* made acute by *cau* (P. sū. 6-1-222): the *ā* after the *ṇ* is acute). ॥ ६ ॥
 
 **English Translation** *(as printed, p. 454)*
 
