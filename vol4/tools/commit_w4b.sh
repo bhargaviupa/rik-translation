@@ -3,4 +3,4 @@
 cd "$(dirname "$0")/../.." && git add -A && git commit -qm "$1
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01CtcBQVXQRS4yC7boCuHhz1" && git push -qu origin claude/pass2-vol4-b 2>&1 | grep -v '^remote:' ; git log --oneline -1
+Claude-Session: https://claude.ai/code/session_01CtcBQRDeyDqgzdMgca2eNa" && git push -qu origin claude/pass2-vol4-b 2>&1 | grep -v '^remote:' ; git log --oneline -1
