@@ -2062,49 +2062,49 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 
 ---
 
-## SŪKTA 35 *(printed p. 131 = PDF 145)*
+## SŪKTA 35 *(printed p. 131 = PDF 146)*
 
 **॥ ॐ ॥** — **Thirty-fifth Sūkta** *(Kannada title line: "mūvattaidaneya sūktavu")*
 
-### Page 131 (PDF 145) — Sāyaṇa's introduction and the Kannada anuvāda
+### Page 131 (PDF 146) — Sāyaṇa's introduction and the Kannada anuvāda
 
 *(The upper third of this leaf is the end of the grammar of Sūkta 34 Rik 12, already written above; the sūkta begins below the ornament.)*
 
-**Sāyaṇa's introduction** *(printed in Kannada script; read from the 150-dpi image)*
+**Sāyaṇa's introduction** *(printed in Kannada script; checked on 300/450-dpi crops of the better scan)*
 
-> ह्वयाम्यग्निमित्येकादशर्चं पञ्चमं सूक्तम् । हिरण्यस्तूप ऋषिः । आद्या नवमी च जगतीच्छन्दस्के । शिष्टास्त्रिष्टुभः । कृत्स्नस्य सूक्तस्य सविता देवता । आद्यायां ह्वयाम्यग्निमित्यस्यामग्निमित्रावरुणरात्रिसवित्राख्या लिङ्गोक्तदेवताः । तथा चानुक्रान्तम् । ह्वयाम्येकादश सावित्रं नवमी जगत्याद्या च लिङ्गोक्तदैवतपादाश्रय इति । आभिप्लवषडहस्य चतुर्थेऽहनि वैश्वदेवशस्त्र इदं सूक्तं सावित्रं निविद्धानम् [?] । तृतीयस्य त्र्यर्यमेति खण्डे सूत्रितम् । ह्वयाम्यग्निमस्य मे द्यावापृथिवी इति तिस्रः । आ. [numerals not read] । इति ॥
+> ह्वयाम्यग्निमित्येकादशर्चं पञ्चमं सूक्तम् । हिरण्यस्तूप ऋषिः । आद्या नवमी च जगतीच्छन्दस्के । शिष्टास्त्रिष्टुभः । कृत्स्नस्य सूक्तस्य सविता देवता । आद्यायां ह्वयाम्यग्निमित्यस्यामग्निमित्रावरुणरात्रिसवित्राख्या लिङ्गोक्तदेवताः । तथा चानुक्रान्तम् । ह्वयाम्येकादश सावित्रं नवमी जगत्याद्या च लिङ्गोक्तदैवतपादाश्रय इति । अभिप्लवषडहस्य चतुर्थेऽहनि वैश्वदेवशस्त्र इदं सूक्तं सावित्रं निविद्धानम् । तृतीयस्य त्र्यर्यमेति खण्डे सूत्रितम् । ह्वयाम्यग्निमस्य मे द्यावापृथिवी इति तिस्रः । आ. ७-७ । इति ॥
 
-*hvayāmy agnim ity ekādaśarcaṃ pañcamaṃ sūktam | hiraṇyastūpa ṛṣiḥ | ādyā navamī ca jagatīchandaske | śiṣṭās triṣṭubhaḥ | kṛtsnasya sūktasya savitā devatā | ādyāyāṃ hvayāmy agnim ity asyām agnimitrāvaruṇarātrisavitrākhyā liṅgoktadevatāḥ | tathā cānukrāntam | hvayāmy ekādaśa sāvitraṃ navamī jagaty ādyā ca liṅgoktadaivatapādāśraya iti | ābhiplavaṣaḍahasya caturthe 'hani vaiśvadevaśastra idaṃ sūktaṃ sāvitraṃ nividdhānam [?] | tṛtīyasya tryarymeti khaṇḍe sūtritam | hvayāmy agnim asya me dyāvāpṛthivī iti tisraḥ | ā. [numerals not read] | iti ||*
+*hvayāmy agnim ity ekādaśarcaṃ pañcamaṃ sūktam | hiraṇyastūpa ṛṣiḥ | ādyā navamī ca jagatīchandaske | śiṣṭās triṣṭubhaḥ | kṛtsnasya sūktasya savitā devatā | ādyāyāṃ hvayāmy agnim ity asyām agnimitrāvaruṇarātrisavitrākhyā liṅgoktadevatāḥ | tathā cānukrāntam | hvayāmy ekādaśa sāvitraṃ navamī jagaty ādyā ca liṅgoktadaivatapādāśraya iti | abhiplavaṣaḍahasya caturthe 'hani vaiśvadevaśastra idaṃ sūktaṃ sāvitraṃ nividdhānam | tṛtīyasya tryarymeti khaṇḍe sūtritam | hvayāmy agnim asya me dyāvāpṛthivī iti tisraḥ | ā. 7-7 | iti ||*
 
-**Translation:** "*Hvayāmy agnim* is the fifth sūkta, of eleven ṛks. The ṛṣi is Hiraṇyastūpa. The first and the ninth are in Jagatī metre; the rest are Triṣṭup. Savitṛ is the deity of the whole sūkta; in the first ṛk, *hvayāmy agnim*, the deities named by the words themselves (*liṅgokta*) are Agni, Mitra-Varuṇa, Night and Savitṛ. So the Anukramaṇikā: '*hvayāmy* — eleven; Savitṛ-addressed; the ninth and the first are Jagatī; [the first has] the deities stated by the pādas.' This sūkta, a Sāvitra [hymn], is used (*nividdhānam* — the reading of this word is doubtful [?]) in the Vaiśvadeva śastra on the fourth day of the Ābhiplava Ṣaḍaha. It is laid down in the section beginning '*tṛtīyasya tryaryamā*' [as read] — '*hvayāmy agnim*, *asya me dyāvāpṛthivī* — three [ṛks]' (Āś. [reference not read])."
+**Translation:** "*Hvayāmy agnim* is the fifth sūkta, of eleven ṛks. The ṛṣi is Hiraṇyastūpa. The first and the ninth are in Jagatī metre; the rest are Triṣṭup. Savitṛ is the deity of the whole sūkta; in the first ṛk, *hvayāmy agnim*, the deities named by the words themselves (*liṅgokta*) are Agni, Mitra-Varuṇa, Night and Savitṛ. So the Anukramaṇikā: '*hvayāmy* — eleven; Savitṛ-addressed; the ninth and the first are Jagatī; [the first has] the deities stated by the pādas.' This sūkta, a Sāvitra [hymn], is used (*nividdhānam*, as printed) in the Vaiśvadeva śastra on the fourth day of the Ābhiplava Ṣaḍaha. It is laid down in the section beginning '*tṛtīyasya tryaryamā*' [as read] — '*hvayāmy agnim*, *asya me dyāvāpṛthivī* — three [ṛks]' (Āś. 7-7)."
 
-**Anuvāda (Kannada):** "*Hvayāmy agnim* is the fifth sūkta in the seventh anuvāka. In it there are **ten** [as printed; the Sanskrit above and the heading on p. 132 say eleven] ṛks. The ṛṣi of this sūkta is Hiraṇyastūpa. Of the ṛks of this sūkta the first and the ninth are in the Jagatī metre; the remaining ṛks are in Triṣṭup. Savitṛ is the deity of the whole sūkta; in the first ṛk, those named in the ṛk — Agni, Mitrāvaruṇa, Rātri, and Savitṛ — are the deities. The Anukramaṇikā says '*hvayāmy ekādaśa sāvitraṃ navamī jagaty ādyā ca liṅgoktadaivatapādāśraya*'. For the Vaiśvadeva-śastra mantras on the fourth day of the Ābhiplava-ṣaḍaha rite it is prescribed that this sūkta be recited; this is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning '*tṛtīyasya tryaryamā*', in the sūtra '*hvayāmy agnim asya me dyāvāpṛthivī iti tisraḥ*' (Āś. [numerals not read])."
+**Anuvāda (Kannada):** "*Hvayāmy agnim* is the fifth sūkta in the seventh anuvāka. In it there are **ten** [as printed; the Sanskrit above and the heading on p. 132 say eleven] ṛks. The ṛṣi of this sūkta is Hiraṇyastūpa. Of the ṛks of this sūkta the first and the ninth are in the Jagatī metre; the remaining ṛks are in Triṣṭup. Savitṛ is the deity of the whole sūkta; in the first ṛk, those named in the ṛk — Agni, Mitrāvaruṇa, Rātri, and Savitṛ — are the deities. The Anukramaṇikā says '*hvayāmy ekādaśa sāvitraṃ navamī jagaty ādyā ca liṅgoktadaivatapādāśraya*'. For the Vaiśvadeva-śastra mantras on the fourth day of the Ābhiplava-ṣaḍaha rite it is prescribed that this sūkta be recited; this is explained in the Āśvalāyana Śrauta-sūtra, in the section beginning '*tṛtīyasya tryaryamā*', in the sūtra '*hvayāmy agnim asya me dyāvāpṛthivī* (Ṛ. Saṃ. 2-32-1) *iti tisraḥ*' (Āś. 7-7)."
 
-### Page 132 (PDF 146) — heading of Sūkta 35 and Rik 35.1
+### Page 132 (PDF 147) — heading of Sūkta 35 and Rik 35.1
 
 **॥ ॐ ॥**
 
 > **सूक्त — ३५**
 > ॥ मण्डल — १ ॥ अनुवाक — ७ ॥ सूक्त — ३५ ॥
-> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — ६, ७ [?] ॥
+> ॥ अष्टक — १ ॥ अध्याय — ३ ॥ वर्ग — ६, ७ ॥
 > ॥ सूक्तदल्लिरुव ऋक्संख्यै १—११ ॥
 > ॥ ऋषिः — हिरण्यस्तूप आङ्गिरसः ॥
 > ॥ देवता — १. अग्निर्मित्रावरुणौ रात्री सविता । २—११. सविता ॥
-> ॥ छन्दः — १–९ [?], जगती । २–८, १०, ११ त्रिष्टुप् ॥
+> ॥ छन्दः — १–९, जगती । २–८, १०, ११ त्रिष्टुप् ॥
 
-*sūkta 35 | maṇḍala 1 | anuvāka 7 | aṣṭaka 1 | adhyāya 3 | varga 6, 7 [?] | ṛks 1–11 | ṛṣi: Hiraṇyastūpa Āṅgirasa | devatā: 1. Agni, Mitra-Varuṇa, Rātrī, Savitṛ; 2–11. Savitṛ | chandas: "1–9 [?]" Jagatī; 2–8, 10, 11 Triṣṭup.*
+*sūkta 35 | maṇḍala 1 | anuvāka 7 | aṣṭaka 1 | adhyāya 3 | varga 6, 7 | ṛks 1–11 | ṛṣi: Hiraṇyastūpa Āṅgirasa | devatā: 1. Agni, Mitra-Varuṇa, Rātrī, Savitṛ; 2–11. Savitṛ | chandas: "1–9" (as printed) Jagatī; 2–8, 10, 11 Triṣṭup.*
 
-**Translation of the heading:** "Sūkta 35; Maṇḍala 1, Anuvāka 7; Aṣṭaka 1, Adhyāya 3, Varga 6, 7 [read at small size, [?]]; ṛks in the sūkta: 1–11; Ṛṣi: Hiraṇyastūpa Āṅgirasa; Deity: for Rik 1 Agni, Mitra-Varuṇa, Night and Savitṛ, for Riks 2–11 Savitṛ; Metre: Jagatī for what is printed as '1–9' (an enlarged slice shows a dash or comma between the two numerals — the introduction on p. 131 says Riks **1 and 9**), Triṣṭup for 2–8, 10, 11." *(The heading is thus consistent with the introduction if the first group is read "1, 9".)*
-
-**Saṃhitā-pāṭha** *(p. 132; accents not reproduced)*
+**Translation of the heading:** "Sūkta 35; Maṇḍala 1, Anuvāka 7; Aṣṭaka 1, Adhyāya 3, Varga 6, 7; ṛks in the sūkta: 1–11; Ṛṣi: Hiraṇyastūpa Āṅgirasa; Deity: for Rik 1 Agni, Mitra-Varuṇa, Night and Savitṛ, for Riks 2–11 Savitṛ; Metre: Jagatī for what is printed as '1–9' (an enlarged slice shows a dash or comma between the two numerals — the introduction on p. 131 says Riks **1 and 9**), Triṣṭup for 2–8, 10, 11." *(The heading is thus consistent with the introduction if the first group is read "1, 9".)*
 
 ### Rik 35.1
 
-> **ह्वयाम्यग्निं प्रथमं स्वस्तये ह्वयामि मित्रावरुणाविहावसे ।**
-> **ह्वयामि रात्रीं जगतो निवेशनीं ह्वयामि देवं सवितारमूतये ॥ १ ॥**
+**Saṃhitā-pāṭha** *(p. 132; Saṃhitā accents as printed; Pada unaccented)*
 
-*hvayāmy agniṃ prathamaṃ svastaye hvayāmi mitrāvaruṇāv ihāvase |*
-*hvayāmi rātrīṃ jagato niveśanīṃ hvayāmi devaṃ savitāram ūtaye || 1 ||*
+> ह्वया॑म्य॒ग्निं प्र॑थ॒मं स्व॒स्तये॒ ह्वया॑मि मि॒त्रावरु॑णावि॒हाव॑से ।
+> ह्वया॑मि॒ रात्रीं॒ जग॑तो नि॒वेश॑नीं॒ ह्वया॑मि दे॒वं स॑वि॒तार॑मू॒तये॑ ॥ १ ॥
+>
+> *hváyāmy agníṃ prathamáṃ svastáye hváyāmi mitrā́váruṇāv ihā́vase |*
+> *hváyāmi rā́trīṃ jágato nivéśanīṃ hváyāmi deváṃ savitā́ram ūtáye || 1 ||*
 
 **Pada-pāṭha** *(p. 132)*
 
@@ -2116,13 +2116,13 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 
 **Sāyaṇa-bhāṣya** *(p. 133; the first half in full, the grammatical tail characterized)*
 
-> स्वस्तयेऽस्माकमविनाशाय । स्वस्तीत्यविनाशनाम । नि. ३-२१ [?] । इति यास्कः । प्रथममादावग्निं ह्वयामि । इहास्मिन्कर्मण्यवसेऽस्मद्रक्षणाय मित्रावरुणौ ह्वयामि । जगतो जङ्गमस्य प्राणिजातस्य निवेशनीमुपवेशनहेतुभूतां रात्रीं रात्रिदेवतां ह्वयामि । जङ्गमाः सर्वे प्राणिनो दिवसे स्वस्वव्यापारान्कृत्वा स्वस्वगृहे रात्रावुपविशन्तीति प्रसिद्धम् । ऊतयेऽस्मद्रक्षणार्थं सवितारं देवं ह्वयामि ॥
+> स्वस्तयेऽस्माकमविनाशाय । स्वस्तीत्यविनाशनाम । नि. ३-२१ । इति यास्कः । प्रथममादावग्निं ह्वयामि । इहास्मिन्कर्मण्यवसेऽस्मद्रक्षणाय मित्रावरुणौ ह्वयामि । जगतो जङ्गमस्य प्राणिजातस्य निवेशनीमुपवेशनहेतुभूतां रात्रीं रात्रिदेवतां ह्वयामि । जङ्गमाः सर्वे प्राणिनो दिवसे स्वस्वव्यापारान्कृत्वा स्वस्वगृहे रात्रावुपविशन्तीति प्रसिद्धम् । ऊतयेऽस्मद्रक्षणार्थं सवितारं देवं ह्वयामि ॥
 
-*svastaye 'smākam avināśāya | svastīty avināśanāma | ni. 3-21 [?] | iti yāskaḥ | prathamam ādāv agniṃ hvayāmi | ihāsmin karmaṇy avase 'smadrakṣaṇāya mitrāvaruṇau hvayāmi | jagato jaṅgamasya prāṇijātasya niveśanīm upaveśanahetubhūtāṃ rātriṃ rātridevatāṃ hvayāmi | jaṅgamāḥ sarve prāṇino divase svasvavyāpārān kṛtvā svasvagṛhe rātrāv upaviśantīti prasiddham | ūtaye 'smadrakṣaṇārthaṃ savitāraṃ devaṃ hvayāmi ||*
+*svastaye 'smākam avināśāya | svastīty avināśanāma | ni. 3-21 | iti yāskaḥ | prathamam ādāv agniṃ hvayāmi | ihāsmin karmaṇy avase 'smadrakṣaṇāya mitrāvaruṇau hvayāmi | jagato jaṅgamasya prāṇijātasya niveśanīm upaveśanahetubhūtāṃ rātriṃ rātridevatāṃ hvayāmi | jaṅgamāḥ sarve prāṇino divase svasvavyāpārān kṛtvā svasvagṛhe rātrāv upaviśantīti prasiddham | ūtaye 'smadrakṣaṇārthaṃ savitāraṃ devaṃ hvayāmi ||*
 
-**Translation:** "*Svastaye* — for our imperishableness, our welfare; '*svasti*' is a word for 'imperishable' (Ni. 3-21 [?]), so Yāska. First, at the outset, I invoke Agni. Here, in this rite, for our protection I invoke Mitra and Varuṇa. *Jagataḥ niveśanīm* — the Night, the night-deity, who is the cause of settling down for the moving world, the whole class of living creatures — I invoke; it is well known that all moving creatures, having done their own works by day, settle down in their own homes at night. *Ūtaye* — for our protection I invoke the god Savitṛ."
+**Translation:** "*Svastaye* — for our imperishableness, our welfare; '*svasti*' is a word for 'imperishable' (Ni. 3-21), so Yāska. First, at the outset, I invoke Agni. Here, in this rite, for our protection I invoke Mitra and Varuṇa. *Jagataḥ niveśanīm* — the Night, the night-deity, who is the cause of settling down for the moving world, the whole class of living creatures — I invoke; it is well known that all moving creatures, having done their own works by day, settle down in their own homes at night. *Ūtaye* — for our protection I invoke the god Savitṛ."
 
-**Grammar within the bhāṣya** *(p. 133, characterized)*: *mitrāvaruṇau* (a *dvandva* of two divine names; *devatādvandve ca* [Pā. 6-3-26, as read [?]] — the print writes an *ānaṅ*-type substitute [*ānaj*, as I read it] for the end of the first member; *na lopaḥ prātipadikāntasya*; and the same-named rule on the accent, *devatādvandve ca* [Pā. 6-2-141, as read [?]], keeps the natural accent of both members); *rātrīm* (*rātreś cājasoḥ* — [Pā. 4-1-31, as read] — *ṅīp*, except before *jas* and *as*); *niveśanīm* (*niviśante 'syām iti niveśanī*; *lyuṭ* by *karaṇādhikaraṇayoś ca*; *ṅīp* by the *ṭiḍḍhāṇañ…* rule [Pā. 4-1-15, as read]); *ūtaye* (root *av*, *ktin*; *ū* in place of *v* and the penultimate, by *jvaratvarasrivyavimavām…*; the *ktin* is acute by the rule *ūtiyūtijūti…* [as printed]).
+**Grammar within the bhāṣya** *(p. 133, characterized)*: *mitrāvaruṇau* (a *dvandva* of two divine names; *devatādvandve ca* (no number in the bhāṣya) — the substitute *ānaṅ* for the end of the first member; *na lopaḥ prātipadikāntasya*; and the same-named rule on the accent, *devatādvandve ca*, keeps the natural accent of both members); *rātrīm* (*rātreś cājasoḥ* — Pā. 4-1-31 — *ṅīp*, except before *jas* and *as*); *niveśanīm* (*niviśante 'syām iti niveśanī*; *lyuṭ* by *karaṇādhikaraṇayoś ca*; *ṅīp* by the *ṭiḍḍhāṇañ…* rule [Pā. 4-1-15]); *ūtaye* (root *av*, *ktin*; *ū* in place of *v* and the penultimate, by *jvaratvarasrivyavimavām…*; the *ktin* is acute by the rule *ūtiyūtijūti…* [as printed]).
 
 **Pratipadārtha** *(p. 133)* — "**prathamam** — first; **svastaye** — so that we may not be destroyed (for our welfare); **agnim** — the deity Agni; **hvayāmi** — I call (praying); **iha** — in this sacrificial rite; **avase** — for our protection; **mitrāvaruṇau** — Mitra and Varuṇa; **hvayāmi** — I call; **jagataḥ** — for the moving world; **niveśanīm** — the giver of rest; **rātrīm** — the goddess of night; **hvayāmi** — I call; **ūtaye** — for protection; **savitāraṃ devam** — the Sun-god; **hvayāmi** — I call."
 
@@ -2132,22 +2132,22 @@ Kannada prose with sūtras quoted; numerals zoom-checked against the better scan
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 134**
 - "Although Savitṛ alone is the deity of this sūkta, in the first ṛk the deities Agni, Mitra-Varuṇa and Night are praised in the form of a preface, and then Savitṛ."
-- **svastaye** = *svastyayanāya*: "*svasti* is a name for the imperishable. Yāska explains: '*svastīty avināśanāma | avināśino 'rthasya nāma | astiḥ ayam abhipūjitaḥ supūrvaḥ san ucyate su-asti = svasti*' (as read; Ni. [reference not read]) — *svasti* is [*su* + *asti*], the word *asti* ('is') honoured by the prefix *su*; so it means what does not perish, what is auspicious, and so on." *(Translation of the Nirukta sentence mine and tentative.)*
+- **svastaye** = *svastyayanāya*: "*svasti* is a name for the imperishable. Yāska explains: '*svastīty avināśanāma | avināśino 'rthasya nāma | astiḥ ayam abhipūjitaḥ supūrvaḥ san ucyate su-asti = svasti*' (no Nirukta number printed here) — *svasti* is [*su* + *asti*], the word *asti* ('is') honoured by the prefix *su*; so it means what does not perish, what is auspicious, and so on." *(Translation of the Nirukta sentence mine and tentative.)*
 - **mitrāvaruṇau** — "Mitra and Varuṇa are connected with day and night. In the Taittirīya Brāhmaṇa it is said '*maitraṃ vā ahaḥ | vāruṇī rātriḥ*' — Mitra is the form of the day, Varuṇa the form of the night." *(The reference is not printed here.)*
 - **rātrīṃ jagato niveśanīm** — "By day all living beings are engaged in their several works; at night they seek rest from their dealings and the like. Hence the meaning here is: the Night, who gives rest to the creatures that are in the world."
 - **devaṃ savitāram** — "*devam* means shining, glowing with radiance — *bright, shining &c.* [the print's English]; *savitāram* means Savitṛ, the Sun. Ordinarily the word *deva* stands with the word *savitṛ* as its adjective."
 
 **Vyākaraṇa-prakriyā** *(pp. 134–, PDF 148–, grammar pages — noted briefly; begun, to continue on p. 135)*
-- **mitrāvaruṇau**: *mitraś ca varuṇaś ca*, a *dvandva*; both words name deities; *devatādvandve ca* — देवताद्वन्द्वे च — (Pā. 6-3-26, as read): in a *dvandva* of divine names a substitute is made in the end of the first member before the second; then *nalopaḥ prātipadikāntasya* — Pā. 8-2-7 — for the *n*; and *devatādvandve ca* — (Pā. 6-2-141, as read [?]): in a *dvandva* of divine names both members keep their natural accent, so the accent which each had before the compound stays. *Mitra* is masculine and, as a base, final-acute; *varuṇa* ends in the Uṇādi suffix *unan* (*ka-vṛ-dārībhya unan* — [Uṇ. 3-53 (as I read the numerals, [?])], the printed letters of the first word are unclear to me), which is *nit*, so by the *nit* rule the first syllable of *varuṇa* is acute.
-- **rātrīm**: root *rā dāne* [and *śadḷ śātane*]; the Uṇādi sūtra *rāśadibhyāṃ triṣ* — राशदिभ्यां त्रिष् — [Uṇ. 4-107 (as I read the numerals, [?])] gives *triṣ*; the suffix is *pit*, so *anudāttau suppitau*; then *rātreś cājasoḥ* — [Pā. 4-1-31, as read]: *ṅīp* is *not* made before *jas*, *as* [*na jasi ajasi, tasmin* — the print analyses the compound *ajasau* thus]; here the *i*… *(the page ends mid-sentence; it continues on p. 135)*.
+- **mitrāvaruṇau**: *mitraś ca varuṇaś ca*, a *dvandva*; both words name deities; *devatādvandve ca* — देवताद्वन्द्वे च — (Pā. 6-3-25 as printed; for 6-3-26): in a *dvandva* of divine names a substitute is made in the end of the first member before the second; then *nalopaḥ prātipadikāntasya* — Pā. 8-2-7 — for the *n*; and *devatādvandve ca* — (Pā. 6-2-141): in a *dvandva* of divine names both members keep their natural accent, so the accent which each had before the compound stays. *Mitra* is masculine and, as a base, final-acute; *varuṇa* ends in the Uṇādi suffix *unan* (*kṛvṛdāribhya unan* — Uṇ. 3-53), which is *nit*, so by the *nit* rule the first syllable of *varuṇa* is acute.
+- **rātrīm**: root *rā dāne* [and *śadḷ śātane*]; the Uṇādi sūtra *rāśadibhyāṃ triṣ* — राशदिभ्यां त्रिष् — (Uṇ. 4-50[?]; the last digit 7 or 2, undecided) gives *triṣ*; the suffix is *pit*, so *anudāttau suppitau*; then *rātreś cājasoḥ* — (Pā. 4-1-31): *ṅīp* is *not* made before *jas*, *as* [*na jasi ajasi, tasmin* — the print analyses the compound *ajasau* thus]; here the *i*… *(the page ends mid-sentence; it continues on p. 135)*.
 
 ---
 
-### Rik 35.1 — Vyākaraṇa-prakriyā, continued and concluded (p. 135, PDF 149; grammar page, noted briefly)
+### Rik 35.1 — Vyākaraṇa-prakriyā, continued and concluded (p. 135, PDF 150; grammar page, noted briefly)
 
-- **rātrīm** (concluded): in the Veda *ṅīp* comes after the word *rātri* even where the case is not *jas* [or *as*] — that *ṅīp* is itself *anudātta*; *rātri + ī*, the *i* of *rātri* is lost by *yasyeti ca* — यस्येति च — (Pā. 6-4-148), so *rātrī* is first-syllable acute; then *am*, with *ami pūrvaḥ* — अमि पूर्वः — (Pā. 6-1-107) giving *pūrvarūpa*; the single substitute standing in place of an unaccented vowel and an acute one takes the accent of the nearer, and by *udāttād anudāttasya svaritaḥ* — उदात्ताद् अनुदात्तस्य स्वरितः — (Pā. 8-4-66, as read [?]) the *ī* is *svarita*.
-- **niveśanīm**: *niviśante 'syām* — "in which they settle"; *karaṇādhikaraṇayoś ca* — करणाधिकरणयोश्च — (Pā. 3-3-117, as read): *lyuṭ* after a root in the sense of instrument or locus — here locus (*adhikaraṇa* = support); root *viśa praveśane* with *ni*; *viś + yu*; *yuvor anākau* — युवोरनाकौ — (Pā. 7-1-1) gives *ana* for *yu*; *laghūpadha-guṇa*; *ni* + *veśana*; *lyuṭ* is *ṭit*, so *ṅīp* by *ṭiḍḍhāṇañdvayasajdaghnañmātrac…* — टिड्ढाणञ्द्वयसज्दघ्नञ्मात्रच्तयप्ठक्ठञ्कञ्क्वरपः — (Pā. 4-1-15, as read): after a base ending in *a* that has at its end any of the *ṭit*-suffixes etc. which is not subordinate, *ṅīp* appears when the feminine is meant; *niveśan + ī*, loss of *a*.
-- **ūtaye**: root *ava rakṣaṇe*, *ktin*; *jvaratvarasrivyavimavāmupadhāyāś ca* — ज्वरत्वरस्रिव्यविमवामुपधायाश्च — (Pā. 6-4-20) gives *ūṭh* for the *v* and the penultimate; *ūtiyūtijūti…* — ऊतियूतिजूति… — (Pā. 3-3-97, as read) makes *ktin* acute. The print then discusses *ekaḥ pūrvaparayoḥ* — एकः पूर्वपरयोः — (Pā. 6-1-84) with the vārtika "*vyākaraṇe 'pi hy anyatra dvayoḥ sthāninor eka ādeśaḥ*" and the Mahābhāṣya on *jvaratvara…* ("here, in the *jvaratvara* sūtra, one substitute stands in place of two substituends"), and the other view in the Bhāṣya ("*iha tāvat jvaratvarasrivyavimavām upadhāyāś ceti | syāt tv ādyudātte nāsti doṣaḥ | savarṇadīrghatvena siddham*" as I read it, and so unsure of its exact words [?]) that there are two substitutes for the two substituends, made good by *savarṇadīrgha*. Rik 1 ends here (*|| 1 ||*).
+- **rātrīm** (concluded): in the Veda *ṅīp* comes after the word *rātri* even where the case is not *jas* [or *as*] — that *ṅīp* is itself *anudātta*; *rātri + ī*, the *i* of *rātri* is lost by *yasyeti ca* — यस्येति च — (no number printed), so *rātrī* is first-syllable acute; then *am*, with *ami pūrvaḥ* — अमि पूर्वः — (no number printed) giving *pūrvarūpa*; the single substitute standing in place of an unaccented vowel and an acute one takes the accent of the nearer, and by *udāttād anudāttasya svaritaḥ* — उदात्ताद् अनुदात्तस्य स्वरितः — (no number printed) the *ī* is *svarita*.
+- **niveśanīm**: *niviśante 'syām* — "in which they settle"; *karaṇādhikaraṇayoś ca* — करणाधिकरणयोश्च — (Pā. 3-3-117): *lyuṭ* after a root in the sense of instrument or locus — here locus (*adhikaraṇa* = support); root *viśa praveśane* with *ni*; *viś + yu*; *yuvor anākau* — युवोरनाकौ — (Pā. 7-1-1) gives *ana* for *yu*; *laghūpadha-guṇa*; *ni* + *veśana*; *lyuṭ* is *ṭit*, so *ṅīp* by *ṭiḍḍhāṇañdvayasajdaghnañmātrac…* — टिड्ढाणञ्द्वयसज्दघ्नञ्मात्रच्तयप्ठक्ठञ्कञ्क्वरपः — (Pā. 4-1-15): after a base ending in *a* that has at its end any of the *ṭit*-suffixes etc. which is not subordinate, *ṅīp* appears when the feminine is meant; *niveśan + ī*, loss of *a*.
+- **ūtaye**: root *ava rakṣaṇe*, *ktin*; *jvaratvarasrivyavimavāmupadhāyāś ca* — ज्वरत्वरस्रिव्यविमवामुपधायाश्च — (Pā. 6-4-20) gives *ūṭh* for the *v* and the penultimate; *ūtiyūtijūti…* — ऊतियूतिजूति… — (Pā. 3-3-97) makes *ktin* acute. The print then discusses *ekaḥ pūrvaparayoḥ* — एकः पूर्वपरयोः — (Pā. 6-1-84) with the vārtika "*vyākaraṇe 'pi hy anyatra dvayoḥ sthāninor eka ādeśaḥ*" and the Mahābhāṣya on *jvaratvara…* ("here, in the *jvaratvara* sūtra, one substitute stands in place of two substituends"), and the other view in the Bhāṣya ("इह तावत् ज्वरत्वरस्रिव्यविमवामुपधायाश्चेति । स्यान्द्वावूठौ नास्ति दोषः । सवर्णदीर्घत्वेन सिद्धम्" — *iha tāvat jvaratvarasrivyavimavām upadhāyāś ceti | syān dvāv ūṭhau nāsti doṣaḥ | savarṇadīrghatvena siddham* — "here, in *jvaratvara…*, there may be two *ūṭh* substitutes: no fault, it is achieved by the lengthening of like vowels") that there are two substitutes for the two substituends, made good by *savarṇadīrgha*. Rik 1 ends here (*|| 1 ||*).
 
 ### Rik 35.2 (pp. 135–, PDF 149–)
 
