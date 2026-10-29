@@ -5108,13 +5108,13 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 ### Rik 37.14 (pp. 288–290, PDF 302–304)
 
-**Saṃhitā-pāṭha** *(p. 288; accents printed)*
+**Saṃhitā-pāṭha** *(p. 288 = PDF 303 of the better scan; Saṃhitā accents as printed; Pada unaccented)*
 
-> **प्र यात शीभमाशुभिः सन्ति कण्वेषु वो दुवः ।**
-> **तत्रो षु मादयाध्वै ॥ १४ ॥**
+> **प्र या॑त॒ शीभ॑मा॒शुभिः॒ सन्ति॒ कण्वे॑षु वो॒ दुवः॑ ।**
+> **त॒त्रो षु मा॑दयाध्वै ॥ १४ ॥**
 
-*pra yāta śībham āśubhiḥ santi kaṇveṣu vo duvaḥ |*
-*tatro ṣu mādayādhvai || 14 ||*
+*prá yāta śī́bham āśúbhiḥ sánti káṇveṣu vo dúvaḥ |*
+*tatró ṣú mādayādhvai || 14 ||*
 
 **Pada-pāṭha** *(p. 288)*
 
@@ -5126,11 +5126,11 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Sāyaṇa-bhāṣya** *(pp. 288–289)*
 
-> **हे मरुत आशुभिर्वेगवद्भिः स्वकीयैर्वाहनैः शीभं शीघ्रं । शीभं तृषु तूयमिति [?] क्षिप्रनामसु पाठात् । प्रयात । प्रकर्षेण कर्मभूमिं गच्छत । कण्वेषु मेधाविष्वनुष्ठातृषु वो युष्माकं दुवो दुवांसि परिचरणानि सन्ति । तत्रो षु तेष्वेव परिचारकेषु कण्वेषु मादयाध्वै । तृप्ता भवत ॥ आशुभिः । अशू व्याप्तौ । कृवापाजीत्यादिना उण् । प्रत्ययस्वरः । सन्ति । श्नसोरल्लोपे इत्याकारलोपः । मादयाध्वै । मद तृप्तियोगे । चुरादिः । आकुस्मीये आत्मनेपदी । लेट्यडागमः । टेरेत्वं । वैतोऽन्यत्र । [Pā. 3-4-96, as read [?]] । इत्येकारस्यैकारादेशः ॥**
+> **हे मरुत आशुभिर्वेगवद्भिः स्वकीयैर्वाहनैः शीभं शीघ्रं । शीभं तृषु तूयमिति क्षिप्रनामसु पाठात् । प्रयात । प्रकर्षेण कर्मभूमिं गच्छत । कण्वेषु मेधाविष्वनुष्ठातृषु वो युष्माकं दुवो दुवांसि परिचरणानि सन्ति । तत्रो षु तेष्वेव परिचारकेषु कण्वेषु मादयाध्वै । तृप्ता भवत ॥ आशुभिः । अशू व्याप्तौ । कृवापाजीत्यादिना उण् । प्रत्ययस्वरः । सन्ति । श्नसोरल्लोपे इत्याकारलोपः । मादयाध्वै । मद तृप्तियोगे । चुरादिः । आकुस्मीये आत्मनेपदी । लेट्यडागमः । टेरेत्वं । वैतोऽन्यत्र । [Pā. 3-4-96, as printed on the grammar page] । इत्येकारस्यैकारादेशः ॥**
 
-*he maruta āśubhir vegavadbhiḥ svakīyair vāhanaiḥ śībhaṃ śīghraṃ | śībhaṃ tṛṣu tūyam iti [?] kṣipranāmasu pāṭhāt | prayāta | prakarṣeṇa karmabhūmiṃ gacchata | kaṇveṣu medhāviṣv anuṣṭhātṛṣu vo yuṣmākaṃ duvo duvāṃsi paricaraṇāni santi | tatro ṣu teṣv eva paricārakeṣu kaṇveṣu mādayādhvai | tṛptā bhavata || āśubhiḥ | aśū vyāptau | kṛvāpājity ādinā uṇ | pratyayasvaraḥ | santi | śnasor allope ity ākāralopaḥ | mādayādhvai | mada tṛptiyoge | curādiḥ | ākusmīye ātmanepadī | leṭy aḍāgamaḥ | ṭer etvaṃ | vaito 'nyatra | [Pā. 3-4-96, as read [?]] | ity ekārasyaikārādeśaḥ ||*
+*he maruta āśubhir vegavadbhiḥ svakīyair vāhanaiḥ śībhaṃ śīghraṃ | śībhaṃ tṛṣu tūyam iti kṣipranāmasu pāṭhāt | prayāta | prakarṣeṇa karmabhūmiṃ gacchata | kaṇveṣu medhāviṣv anuṣṭhātṛṣu vo yuṣmākaṃ duvo duvāṃsi paricaraṇāni santi | tatro ṣu teṣv eva paricārakeṣu kaṇveṣu mādayādhvai | tṛptā bhavata || āśubhiḥ | aśū vyāptau | kṛvāpājity ādinā uṇ | pratyayasvaraḥ | santi | śnasor allope ity ākāralopaḥ | mādayādhvai | mada tṛptiyoge | curādiḥ | ākusmīye ātmanepadī | leṭy aḍāgamaḥ | ṭer etvaṃ | vaito 'nyatra | [Pā. 3-4-96, as printed on the grammar page] | ity ekārasyaikārādeśaḥ ||*
 
-**Translation:** "O Maruts, *āśubhiḥ* — with your own swift, speedy vehicles — *śībham*, quickly ('*śībham*, *tṛṣu*, *tūyam*' [as read, doubtful [?]]: it is read among the names of 'quick'); *prayāta* — go forth strongly to the place of the rite. Among the *kaṇvas*, the wise performers, *vaḥ*, for you, *duvaḥ* — services, attentions — *santi*, there are. *Tatro ṣu* — among those very servants, the Kaṇvas, *mādayādhvai* — be satisfied; become pleased. *Āśubhiḥ*: root *aśū vyāptau*; the *uṇ* suffix by [the Uṇādi rule] *kṛvāpāji-…*; the accent of the suffix. *Santi*: by *śnasor allopaḥ* the loss of the *a*. *Mādayādhvai*: root *mada tṛptiyoge*, of the *curādi* class; belongs to the *ākusmīya* [roots], *ātmanepada*; in *leṭ*, the augment *aṭ*; *e* for *ṭi*; by *vaito 'nyatra* [Pā. 3-4-96, as read [?]] the *e* is replaced by *ai*."
+**Translation:** "O Maruts, *āśubhiḥ* — with your own swift, speedy vehicles — *śībham*, quickly ('*śībham*, *tṛṣu*, *tūyam*': it is read among the names of 'quick'); *prayāta* — go forth strongly to the place of the rite. Among the *kaṇvas*, the wise performers, *vaḥ*, for you, *duvaḥ* — services, attentions — *santi*, there are. *Tatro ṣu* — among those very servants, the Kaṇvas, *mādayādhvai* — be satisfied; become pleased. *Āśubhiḥ*: root *aśū vyāptau*; the *uṇ* suffix by [the Uṇādi rule] *kṛvāpāji-…*; the accent of the suffix. *Santi*: by *śnasor allopaḥ* the loss of the *a*. *Mādayādhvai*: root *mada tṛptiyoge*, of the *curādi* class; belongs to the *ākusmīya* [roots], *ātmanepada*; in *leṭ*, the augment *aṭ*; *e* for *ṭi*; by *vaito 'nyatra* [Pā. 3-4-96, as printed on the grammar page] the *e* is replaced by *ai*."
 
 **Pratipadārtha** *(p. 289)* — "**āśubhiḥ** — O Maruts, with your swift-going [vehicles]; **śībham** — promptly; **prayāta** — come rightly to the place of the sacrifice; **kaṇveṣu** — among the Kaṇvas, the wise sacrificers; **vaḥ** — for you; **duvaḥ** — materials of worship and so on; **santi** — are ready; **tatro ṣu** — among those very sacrificers (in their concern); **mādayādhvai** — be satisfied."
 
@@ -5140,13 +5140,13 @@ Here some, in the places *maruto mitarāviṇo vā*, would divide the pada as *m
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 289**
 - **āśubhiḥ** = *aśū vyāptau | vegavadbhiḥ svakīyair vāhanaiḥ* — "by your own vehicles that can move swiftly."
-- **śībham** = *śīghram* — "since the word *śībham* is read among the twenty-six [as read, *ippattāru*] names of 'quick' beginning with *nu* (Ni. 2-9 [?], as read), *śībham* means 'quickly', 'at once'."
+- **śībham** = *śīghram* — "since the word *śībham* is read among the twenty-six [as read, *ippattāru*] names of 'quick' beginning with *nu* (Ni. 3-9, as printed), *śībham* means 'quickly', 'at once'."
 - **mādayādhvai** = *mada tṛptiyoge* — "attain satisfaction."
 
 **Vyākaraṇa-prakriyā** *(pp. 289–290 — grammar page, noted briefly)*
-- **āśubhiḥ**: *aśū vyāptau*; *kṛvāpāji-misvadi-sādhyaśūbhya uṇ* — कृवापाजिमिस्वदिसाध्यशूभ्य उण् — [Uṇ. 1-1 [?], as read]: the Uṇādi *uṇ*; *ādyudāttaś ca* gives the suffix the first-syllable acute.
-- **santi**: *as bhuvi*, *jhi*, *ant* for *jh*, *śap* elided; *as + anti*; *śnasor allopaḥ* — श्नसोरल्लोपः — [Pā. 6-4-111 as read]: before a *kit* or *ṅit sārvadhātuka* the *a* of *śna* and of *as* is lost.
-- **mādayādhvai**: *mada tṛptiyoge*, tenth class; "in this class, from the root *cita saṃketane* up to *kusma*, the roots called *ākusmīya*" take the *ātmanepada* even where the fruit does not go to the agent; *leṭ*; *aṭ* as augment; madhyama-puruṣa plural *dhvam*; *ṭi* → *e*; *mad + i + ādhvai*; *upadhā-vṛddhi*, *guṇa*, *ay*-substitution: *mādaya + ādhvai*. By *vaito 'nyatra* — वैतोऽन्यत्र — [Pā. 3-4-96, as read [?]], leaving aside the matter of the sūtra *ātaḥ…* [garbled in print], the *e* of *leṭ* optionally gets *ai*: hence *mādayādhvai*. Rik 14 ends here (*|| 14 ||*).
+- **āśubhiḥ**: *aśū vyāptau*; *kṛvāpāji-misvadi-sādhyaśūbhya uṇ* — कृवापाजिमिस्वदिसाध्यशूभ्य उण् — (U. Sū. 1-1): the Uṇādi *uṇ*; *ādyudāttaś ca* gives the suffix the first-syllable acute.
+- **santi**: *as bhuvi*, *jhi*, *ant* for *jh*, *śap* elided; *as + anti*; *śnasor allopaḥ* — श्नसोरल्लोपः — [Pā. 6-4-111, as printed on the grammar page]: before a *kit* or *ṅit sārvadhātuka* the *a* of *śna* and of *as* is lost.
+- **mādayādhvai**: *mada tṛptiyoge*, tenth class; "in this class, from the root *cita saṃketane* up to *kusma*, the roots called *ākusmīya*" take the *ātmanepada* even where the fruit does not go to the agent; *leṭ*; *aṭ* as augment; madhyama-puruṣa plural *dhvam*; *ṭi* → *e*; *mad + i + ādhvai*; *upadhā-vṛddhi*, *guṇa*, *ay*-substitution: *mādaya + ādhvai*. By *vaito 'nyatra* — वैतोऽन्यत्र — [Pā. 3-4-96, as printed on the grammar page], leaving aside the matter of the sūtra *ātaḥ…* [garbled in print], the *e* of *leṭ* optionally gets *ai*: hence *mādayādhvai*. Rik 14 ends here (*|| 14 ||*).
 
 ---
 
