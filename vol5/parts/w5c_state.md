@@ -3,8 +3,8 @@
 Range: the Pariśiṣṭa, printed pp. 531–708 (better scan PDF 547–724, printed = PDF − 16) to the end of the file.
 Branch: claude/pass2-vol5-c. Edits log: vol5/review/edits_w5c.txt.
 
-Done through: p. 574 (PDF 590).
-Next unit: p. 575 (PDF 591).
+Done through: p. 575 (PDF 591).
+Next unit: p. 576 (PDF 592).
 
 Method notes: zoom_w5c.py x-coordinates run ~+60–70 px right of the 120-dpi view's x (y/line numbers match); widen crops accordingly.
  tools `vol5/tools/lines_w5c.py` (line y-ranges of a 120-dpi view) and `vol5/tools/zoom_w5c.py` (stacked crops at 300/450 dpi
