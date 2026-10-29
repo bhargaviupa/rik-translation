@@ -9307,13 +9307,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.14 (pp. 521–523, PDF 537–539)
 
-**Saṃhitā-pāṭha** *(p. 521)*
+**Saṃhitā-pāṭha** *(p. 521; accents as printed; the anudātta stroke under* sya *of* venasya *sits low, between* sya *and the* dhā *of* nodhāḥ *on the next line; taken as under* sya *[accent ?])*
 
-> **अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजेते ।**
-> **उपो वेनस्य जोगुवान ओणिं सद्यो भुवद्वीर्याय नोधाः ॥ १४ ॥**
+> **अ॒स्येदु॑ भि॒या गि॒रय॑श्च दृ॒ळ्हा द्यावा॑ च॒ भूमा॑ ज॒नुष॑स्तुजेते ।**
+> **उपो॑ वे॒नस्य॒ जोगु॑वान ओ॒णिं स॒द्यो भु॑वद्वी॒र्या॑य नोधाः ॥ १४ ॥**
 
-*asyed u bhiyā girayaś ca dṛḷhā dyāvā ca bhūmā januṣas tujete |*
-*upo venasya joguvāna oṇiṃ sadyo bhuvad vīryāya nodhāḥ || 14 ||*
+*asyéd u bhiyā́ giráyaś ca dṛḷhā́ dyā́vā ca bhū́mā janúṣas tujete |*
+*úpo venásya jóguvāna oṇíṃ sadyó bhuvad vīryā̀ya nodhāḥ || 14 ||*
 
 **Pada-pāṭha** *(p. 521)*
 
@@ -9331,7 +9331,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *asyaivendrasya bhiyo bhayenety arthaḥ | girayaḥ parvatā api dṛḷhāḥ | niścalāḥ svasvadeśe 'vatiṣṭhante | januṣaḥ prādurbhūtād asmād evendrād bhītyā dyāvā ca bhūmā ca dyāvāpṛthivyāv api tujete | tujir hiṃsārtho 'syatra kaṃpane draṣṭavyaḥ | kaṃpete ity arthaḥ | kiṃca venasya kāntasyāsyendrasyoṇiṃ duḥkhasyāpanayanakaṃ rakṣaṇam upo joguvāno 'nekaiḥ sūktaiḥ punaḥ punar upaśabdayan | upaślokayann ity arthaḥ | evaṃbhūto nodhā ṛṣiḥ sadyas tadānīm eva vīryāya bhuvat | vīryavān abhavat ||*
 
-*(The grammatical tail, p. 521 foot, characterized, not transcribed: **dyāvā ca bhūmā** (*divo dyāvā*, *ḍā* for the dual, both members keeping their accents); **januṣaḥ** (*janer usiḥ*, an Uṇādi suffix); **joguvānaḥ** (*guja avyakte śabde*, *yaṅluk*, *śānac*, *uvaṅ*); **oṇim** (*oṇṛ apanayane*, the Uṇādi *i*); **bhuvat** (*leṭ*, *aṭ*, no *guṇa*); **nodhāḥ** (Yāska: "*nodhā ṛṣir bhavati navanaṃ dadhātīti*", Ni. 4-16 [?]; *dhāñ*, *asun*, *nava* → *no*).)*
+*(The grammatical tail, p. 521 foot, characterized, not transcribed: **dyāvā ca bhūmā** (*divo dyāvā*, *ḍā* for the dual, both members keeping their accents); **januṣaḥ** (*janer usiḥ*, an Uṇādi suffix); **joguvānaḥ** (*guja avyakte śabde*, *yaṅluk*, *śānac*, *uvaṅ*); **oṇim** (*oṇṛ apanayane*, the Uṇādi *i*); **bhuvat** (*leṭ*, *aṭ*, no *guṇa*); **nodhāḥ** (Yāska: "*nodhā ṛṣir bhavati navanaṃ dadhātīti*", Ni. 4-16; *dhāñ*, *asun*, *nava* → *no*).)*
 
 **Translation of the bhāṣya:** "*Asyed u bhiyā*: through fear of this very Indra, *girayaḥ*, even the mountains, *dṛḷhāḥ*, stand firm, motionless, each in its own place. *Januṣaḥ*: from this very Indra who has appeared (been born), out of fear, *dyāvā ca bhūmā ca*, heaven and earth too, *tujete*. The root *tuj*, which means 'to harm', is to be taken here in the sense of 'trembling': the two tremble. Further, *oṇim*, the protection that removes the sorrow of this *venasya*, beloved Indra, *upo joguvānaḥ*, sounding it again and again with many hymns — praising it — such is the sense. Such a one, the seer Nodhas, *sadyaḥ*, at once, *vīryāya bhuvat*, became strong."
 
@@ -9341,9 +9341,9 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **English Translation (the source's own, p. 522)** — "Though fear of him, the mountains remain still ; and through fear of his appearance, heaven and earth tremble ; praising repeatedly with hymns the preserving power of that beloved Indra, Nodhas speedily acquired vigour."
 
-**Special Topics (*viśeṣa-viṣayagaḷu*), p. 522** — **januṣaḥ** — *janī prādurbhāve*: "from the state of Indra who has manifested himself." **tujete**: "though the root *tuj* has the sense of harming, here the sense 'trembling' must be said: heaven and earth shake from fear of Indra's appearance." **venasya** — *kāntasya*: "of the charming (Indra)." **joguvānaḥ** — *guja avyakte śabde*: "one who makes an indistinct sound at every step." **nodhāḥ**: "the meaning of this word is 'seer'. In the Ṛg-saṃhitā: '*ūvū adarśi śundhyavo navakṣo nodhā ivāvir akṛta priyāṇi*' (as read, the Ṛg numeral illegible [?]) — here too the word *nodhas* is explained as 'seer' (my gloss, tentative: 'as [a seer like] Nodhas makes his dear things manifest' — the reading of the verse is uncertain). The Nirukta explanations — '*nodhā iva āvir akṛta priyāṇi*', '*nodhā ṛṣir bhavati navanaṃ dadhāti*' and the like — also give 'seer' as its meaning."
+**Special Topics (*viśeṣa-viṣayagaḷu*), p. 522** — **januṣaḥ** — *janī prādurbhāve*: "from the state of Indra who has manifested himself." **tujete**: "though the root *tuj* has the sense of harming, here the sense 'trembling' must be said: heaven and earth shake from fear of Indra's appearance." **venasya** — *kāntasya*: "of the charming (Indra)." **joguvānaḥ** — *guja avyakte śabde*: "one who makes an indistinct sound at every step." **nodhāḥ**: "the meaning of this word is 'seer'. In the Ṛg-saṃhitā: '*upo adarśi śundhyuvo navakṣo nodhā ivāvir akṛta priyāṇi*' (Ṛ. Saṃ. 1-124-4) — here too the word *nodhas* is explained as 'seer' (my gloss, tentative: 'as [a seer like] Nodhas makes his dear things manifest' — the reading of the verse is uncertain). The Nirukta explanations — '*nodhā iva āvir akṛta priyāṇi*', '*nodhā ṛṣir bhavati navanaṃ dadhāti*' and the like — also give 'seer' as its meaning."
 
-**Vyākaraṇa-prakriyā** *(pp. 522–523 — noted briefly)* — *Grammar pages, noted briefly.* **bhiyā**: instrumental singular; *sāvekācas tṛtīyādiḥ*: acute on the ending. **dyāvā ca bhūmā**: the word *dyāvābhūmī*; the *ca* is read between the two words as a Vedic arrangement; *divo dyāvā* (Pā. 6-3-29 as read [?]): *dyāvā* in place of *div*; *supāṃ suluk*: *ḍā* for the dual ending; *ḍit*: loss of the *ṭi*; *devatādvandve ca* (Pā. 6-2-141 as read [?]): both members keep their own accent; both forms are traditional. **januṣaḥ**: *janī prādurbhāve*; *janer usiḥ* (Uṇ. 2-[?] as read [?]): the *Aunādika* suffix *usi*; *janus*; ablative singular; acute on *u* by the suffix. **joguvānaḥ**: *guja avyakte śabde*; *yaṅ* in the intensive sense; *yañoś ca*: its loss (*luk*); though a *parasmaipada* root, *vyatyayo bahulam*: *śānac*; as *yaṅluganta* roots are read in the *adādi* class (*carkarītaṃ ca*), *adiprabhṛtibhyaḥ śapaḥ*: loss of *śap*; because of *yaṅ*, doubling; *guṇo yaṅluṅkoḥ* (Pā. 7-4-82 as read [?]): *guṇa* of the reduplicative vowel; *joguv + āna*: *aci śnudhātubhruvāṃ…*: *uvaṅ*; *abhyastānām ādiḥ*: initial acute. **oṇim**: *oṇṛ apanayane*; the *Aunādika* *i*; end-acute by the suffix. **bhuvat**: *bhū sattāyām*; *leṭ*, third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: loss of *i*; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: loss of *śap*; *bhūsuvos tiṅi* (Pā. 7-3-88 as read [?]): no *guṇa* of the root; *uvaṅ*; *tiṅ atiṅaḥ*: *nighāta*. **nodhāḥ**: Yāska as above; *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *asun*, which arises on every root; "he holds newness" so *nava* → *no*; *nodhas*; *gatikārakopapadāt kṛt*: the first member's accent; nominative: *atvasantasya cādhātoḥ*: lengthening of the penultimate; *hal-ṅyābbhyo…*: loss of *su*; *rutva*, *visarga*.
+**Vyākaraṇa-prakriyā** *(pp. 522–523 — noted briefly)* — *Grammar pages, noted briefly.* **bhiyā**: instrumental singular; *sāvekācas tṛtīyādiḥ* (Pā. 6-1-168): acute on the ending. **dyāvā ca bhūmā**: the word *dyāvābhūmī*; the *ca* is read between the two words as a Vedic arrangement; *divo dyāvā* (Pā. 6-3-29): *dyāvā* in place of *div*; *supāṃ suluk*: *ḍā* for the dual ending; *ḍit*: loss of the *ṭi*; *devatādvandve ca* (Pā. 6-2-141): both members keep their own accent; both forms are traditional. **januṣaḥ**: *janī prādurbhāve*; *janer usiḥ* (Uṇ. 2-272 as read; middle digit 7 or 6 [?]): the *Aunādika* suffix *usi*; *janus*; ablative singular; acute on *u* by the suffix. **joguvānaḥ**: *guja avyakte śabde*; *yaṅ* in the intensive sense; *yañoś ca*: its loss (*luk*); though a *parasmaipada* root, *vyatyayo bahulam*: *śānac*; as *yaṅluganta* roots are read in the *adādi* class (*carkarītaṃ ca*), *adiprabhṛtibhyaḥ śapaḥ*: loss of *śap*; because of *yaṅ*, doubling; *guṇo yaṅluṅkoḥ* (Pā. 7-4-82): *guṇa* of the reduplicative vowel; *joguv + āna*: *aci śnudhātubhruvāṃ…*: *uvaṅ*; *abhyastānām ādiḥ* (Pā. 6-1-189): initial acute. **oṇim**: *oṇṛ apanayane*; the *Aunādika* *i*; end-acute by the suffix. **bhuvat**: *bhū sattāyām*; *leṭ*, third singular *tip*; *itaś ca lopaḥ parasmaipadeṣu*: loss of *i*; *leṭo 'ṭāṭau*: *aṭ*; *bahulaṃ chandasi*: loss of *śap*; *bhūsuvos tiṅi* (Pā. 7-3-88): no *guṇa* of the root; *uvaṅ*; *tiṅ atiṅaḥ*: *nighāta*. **nodhāḥ**: Yāska as above; *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *asun*, which arises on every root; "he holds newness" so *nava* → *no*; *nodhas*; *gatikārakopapadāt kṛt*: the first member's accent; nominative: *atvasantasya cādhātoḥ*: lengthening of the penultimate; *hal-ṅyābbhyo…*: loss of *su*; *rutva*, *visarga*.
 
 ---
 
@@ -9351,25 +9351,25 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.15 (pp. 523–526, PDF 539–542)
 
-**Saṃhitā-pāṭha** *(p. 523)*
+**Saṃhitā-pāṭha** *(p. 523; accents as printed; the print joins* दाय्येषामेको *(was given as* दायि एषामेको*); the anudātta under* śvye *of* sauvaśvye *sits under the* va *[accent ?])*
 
-> **अस्मा इदु त्यदनु दायि एषामेको यद्वव्ने भूरेरीशानः ।**
-> **प्रैतशं सूर्ये पस्पृधानं सौवश्व्ये सुष्विमावदिन्द्रः ॥ १५ ॥**
+> **अ॒स्मा इदु॒ त्यदनु॑ दाय्येषा॒मेको॒ यद्व॒व्ने भूरे॒रीशा॑नः ।**
+> **प्रैत॑शं॒ सूर्ये॑ पस्पृधा॒नं सौव॑श्व्ये॒ सुष्वि॑माव॒दिन्द्रः॑ ॥ १५ ॥**
 
-*asmā id u tyad anu dāyy eṣām eko yad vavne bhūrer īśānaḥ |*
-*praitaśaṃ sūrye paspṛdhānaṃ sauvaśvye suṣvim āvad indraḥ || 15 ||*
+*asmā́ íd u tyád ánu dāyy eṣām éko yád vavné bhū́rer ī́śānaḥ |*
+*praítaśaṃ sū́rye paspṛdhānáṃ saúvaśvye súṣvim āvad índraḥ || 15 ||*
 
 *(Reading note: the Saṃhitā prints *dāyy eṣām* as *dāyyeṣām*, i.e. *dāyi eṣām* with *y* before *e*; I give it as the Pada does.)*
 
 **Pada-pāṭha** *(p. 524)*
 
 > अस्मै । इत् । ऊं इति । त्यत् । अनु । दायि । एषाम् । एकः । यत् । वव्ने । भूरेः । ईशानः ।
-> प्र । एतशम् । सूर्ये । पस्पृधानम् । सौवश्व्ये । सुस्विम् [?] । आवत् । इन्द्रः ॥ १५ ॥
+> प्र । एतशम् । सूर्ये । पस्पृधानम् । सौवश्व्ये । सुष्विम् । आवत् । इन्द्रः ॥ १५ ॥
 
 *asmai | it | ūṃ iti | tyat | anu | dāyi | eṣām | ekaḥ | yat | vavne | bhūreḥ | īśānaḥ |*
-*pra | etaśam | sūrye | paspṛdhānam | sauvaśvye | susvim [?] | āvat | indraḥ || 15 ||*
+*pra | etaśam | sūrye | paspṛdhānam | sauvaśvye | suṣvim | āvat | indraḥ || 15 ||*
 
-*(Reading note: the Pada's word before *āvat* is printed *susvim*, with a plain *s*, while the Saṃhitā has *suṣvim* and the grammar page treats it as from *ṣuñ abhiṣave*: I give the Pada as printed with [?], not adjusting it.)*
+*(Reading note: on a 700 dpi zoom the Pada prints ಸುಷ್ವಿಂ, *suṣvim*, as in the Saṃhitā; the earlier reading *susvim* is withdrawn.)*
 
 **Sāyaṇa-bhāṣya** *(p. 524)*
 
@@ -9379,7 +9379,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *(The grammatical tail, p. 524 foot, characterized, not transcribed: **dāyi** (the *a*-augment absent by *bahulaṃ chandasy amāṅyoge 'pi*); **vavne** (*vanu yācane*, the perfect, the penultimate lost by *vyatyaya*); **paspṛdhānam** (*spardha saṃgharṣe*, *kānac*, reduplication, the *p* remaining by *śarpūrvāḥ khayaḥ*, *citaḥ*); **sauvaśvye** (*svaśva* as a country-name that is also used of a *kṣatriya*, *vā nāmadheyasya vṛddhasaṃjñā vaktavyā*, *ñyaṅ*, no *vṛddhi* after *v*, initial acute by *ñit*); **suṣvim** (*ṣuñ abhiṣave*, *kin*, doubling by the perfect-like rule, *yaṇ*).)*
 
-**Translation of the bhāṣya:** "*Ekaḥ*: he alone, capable of conquering enemies, *bhūreḥ īśānaḥ*, lord, master, of manifold wealth, *yad vavne*, whatever hymn he asked for [belonging to these *eṣām* praisers]; or, with a change of case, by these praisers that well-known hymn has been offered (*anu dāyi*) to this Indra — meaning 'was made' [reading doubtful [?]]. This is the story for the second half: there was a king named Svaśva. He, wishing for a son, worshipped Sūrya, and Sūrya himself became his son. A battle arose between him and the great seer named Etaśa; this is what is told here. This Indra, *sauvaśvye*, in [the war with] the son of Svaśva, *sūrye*, Sūrya, [protected] *etaśam*, the seer named Etaśa, who *paspṛdhānam*, was contending [with Sūrya], *suṣvim*, the presser of the Soma-juices: *prāvat*, protected him well."
+**Translation of the bhāṣya:** "*Ekaḥ*: he alone, capable of conquering enemies, *bhūreḥ īśānaḥ*, lord, master, of manifold wealth, *yad vavne*, whatever hymn he asked for [belonging to these *eṣām* praisers]; or, with a change of case, by these praisers that well-known hymn has been offered (*anu dāyi*) to this Indra — meaning 'was made' [the print's initial vowel looks like *ā* (*ākāri*) [?]]. This is the story for the second half: there was a king named Svaśva. He, wishing for a son, worshipped Sūrya, and Sūrya himself became his son. A battle arose between him and the great seer named Etaśa; this is what is told here. This Indra, *sauvaśvye*, in [the war with] the son of Svaśva, *sūrye*, Sūrya, [protected] *etaśam*, the seer named Etaśa, who *paspṛdhānam*, was contending [with Sūrya], *suṣvim*, the presser of the Soma-juices: *prāvat*, protected him well."
 
 **Pratipadārtha** *(p. 524)* — "**ekaḥ** — the sole one, in conquering enemies; **bhūreḥ** — of manifold wealth; **īśānaḥ** — the lord; Indra; **yat** — whatever hymn; **vavne** — he desired; **eṣām** — of those praisers, or by them; **tyat** — that famous hymn; **asmā idu** — to that Indra; **anu dāyi** — has been offered; **indraḥ** — Indra; **sauvaśvye** — [in the matter of] his own son; **sūrye** — with Sūrya; **paspṛdhānam** — who was contending; **etaśam** — the seer named Etaśa; **pra āvat** — protected well."
 
@@ -9389,7 +9389,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 525** — **ekaḥ**: "here the word *eka* means 'without a helper'. Indra, without anyone's help, alone, is able to conquer enemies." **eṣām**: "though it should mean 'of these hymns', here, by the exchange of case (*vibhaktivyatyaya*), they have explained it in the sense of the third case — 'by these hymns'." **sauvaśvye**: "in the son of the king named Svaśva: in former times King Svaśva, desiring a son, performed penance addressed to Sūrya; pleased with his penance, Sūrya himself was born as the king's son. A terrible battle arose between him and the great seer Etaśa." **suṣviṃ** — *ṣuñ abhiṣave*: "the one who offers (presses) the Soma-juice. The great seer Etaśa, named above, satisfied Indra by the Soma sacrifice. Indra, pleased with his penance, protected him from Sūrya."
 
-**Vyākaraṇa-prakriyā** *(pp. 525–526 — noted briefly)* — *Grammar pages, noted briefly.* **dāyi**: *ḍudāñ dāne*; passive *luṅ*, third singular *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* for *ta*; *ciṇo luk* (Pā. 6-4-104 as read [?]): loss of the following *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read [?]): *yuk*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*, after a non-verb. **vavne**: *vanu yācane*; *liṭ*, third singular; *eś*; doubling; *halādiśeṣa*; by *vyatyaya* the penultimate is lost though there is no cause for it; because of the *yad* word, no *nighāta*; end-acute by the suffix. **paspṛdhānam**: *spardha saṃgharṣe*; *kānac* in place of *liṭ*; doubling; in the reduplicative syllable *śarpūrvāḥ khayaḥ* (Pā. 7-4-61 as read [?]): the *p* remains; by *pṛṣodarādi*, the loss of the *a* of the root and the *saṃprasāraṇa* of *r*, as taught by "as stated" rules; *citaḥ*: end-acute. **sauvaśvye**: *svaśva* is the name of a country and also a *kṣatriya* name; *vā nāmadheyasya vṛddhasaṃjñā vaktavyā* (a *vārttika* on Pā. 1-1-73 [?]): it receives the *vṛddha* name; *vṛddhāt kosalājādāñ ñyaṅ* (Pā. 4-1-171 as read [?]): *ñyaṅ* in the sense of "descendant"; *vṛddhi* would be expected at the beginning, but *na yvābhyāṃ padāntābhyāṃ pūrvau tu tābhyām aic* (Pā. 7-3-3 as read [?]) prevents the *vṛddhi* and gives the *aic* augment after the *v*; being *ñit*, initial acute. **suṣvim**: *ṣuñ abhiṣave*; *utsargaś chandasi* (Pā. 3-2-171 as read [?]): *kin*; doubling by the perfect-like rule (*liḍvadbhāva*); being *kit*, no *guṇa*; *su* + *i*: in the Veda *uvaṅ* does not apply; *yaṇ*: *suṣvi*. **āvat**: *ava rakṣaṇe*; *laṅ*, third singular; *nighāta*, after a non-verb.
+**Vyākaraṇa-prakriyā** *(pp. 525–526 — noted briefly)* — *Grammar pages, noted briefly.* **dāyi**: *ḍudāñ dāne*; passive *luṅ*, third singular *ta*; *ciṇ bhāvakarmaṇoḥ*: *ciṇ* for *ta*; *ciṇo luk* (Pā. 6-4-104): loss of the following *ta*; *āto yuk ciṇkṛtoḥ* (Pā. 7-3-33 as read [?]): *yuk*; no *aṭ* (*bahulaṃ chandasy amāṅyoge 'pi*); *nighāta*, after a non-verb. **vavne**: *vanu yācane*; *liṭ*, third singular; *eś*; doubling; *halādiśeṣa*; by *vyatyaya* the penultimate is lost though there is no cause for it; because of the *yad* word, no *nighāta*; end-acute by the suffix. **paspṛdhānam**: *spardha saṃgharṣe*; *kānac* in place of *liṭ*; doubling; in the reduplicative syllable *śarpūrvāḥ khayaḥ* (Pā. 7-4-61): the *p* remains; by *pṛṣodarādi*, the loss of the *a* of the root and the *saṃprasāraṇa* of *r*, as taught by "as stated" rules; *citaḥ*: end-acute. **sauvaśvye**: *svaśva* is the name of a country and also a *kṣatriya* name; *vā nāmadheyasya vṛddhasaṃjñā vaktavyā* (printed "Pā. sū. 1-1-73-5" as read, the second and last digits [?]): it receives the *vṛddha* name; *vṛddhāt kosalājādāñ ñyaṅ* (Pā. 4-1-171 as read [?]): *ñyaṅ* in the sense of "descendant"; *vṛddhi* would be expected at the beginning, but *na yvābhyāṃ padāntābhyāṃ pūrvau tu tābhyām aic* (Pā. 7-3-3) prevents the *vṛddhi* and gives the *aic* augment after the *v*; being *ñit*, initial acute. **suṣvim**: *ṣuñ abhiṣave*; *utsargaś chandasi* (printed Pā. sū. 3-2-171-2, a *vārttika*): *kin*; doubling by the perfect-like rule (*liḍvadbhāva*); being *kit*, no *guṇa*; *su* + *i*: in the Veda *uvaṅ* does not apply; *yaṇ*: *suṣvi*. **āvat**: *ava rakṣaṇe*; *laṅ*, third singular; *nighāta*, after a non-verb.
 
 ---
 
@@ -9397,13 +9397,13 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 61.16 (pp. 526–529, PDF 542–545; the last Rik)
 
-**Saṃhitā-pāṭha** *(p. 526)*
+**Saṃhitā-pāṭha** *(p. 526; accents as printed)*
 
-> **एवा ते हारियोजना सुवृक्तीन्द्र ब्रह्माणि गोतमासो अक्रन् ।**
-> **ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥ १६ ॥**
+> **ए॒वा ते॑ हारियोजना सुवृ॒क्तीन्द्र॒ ब्रह्मा॑णि॒ गोत॑मासो अक्रन् ।**
+> **ऐषु॑ वि॒श्वपे॑शसं॒ धियं॑ धाः प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥ १६ ॥**
 
-*evā te hāriyojanā suvṛktīndra brahmāṇi gotamāso akran |*
-*aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātar makṣū dhiyāvasur jagamyāt || 16 ||*
+*evā́ te hāriyojanā suvṛktī́ndra bráhmāṇi gótamāso akran |*
+*aíṣu viśvápeśasaṃ dhíyaṃ dhāḥ prātár makṣū́ dhiyā́vasur jagamyāt || 16 ||*
 
 **Pada-pāṭha** *(p. 526)*
 
@@ -9431,7 +9431,7 @@ Maṇḍala 1 · Anuvāka 11 · Sūkta 61 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 **Special Topics (*viśeṣa-viṣayagaḷu*), p. 528** — **hāriyojana** — *haryor aśvayor yojanaṃ yasmin saḥ hariyojanaḥ*: "he who is related to it as its owner is *hāriyojanaḥ*: one who has a chariot with horses; or one seated as master in a horse-chariot." **gotamāsaḥ**: "the seers born in the Gotama line." **suvṛkti** — *suṣṭhv āvarjakāny abhimukhīkaraṇakuśalāni*: "mantras that have the capacity to turn the deities, in an excellent manner, to face the singer: an epithet of the mantras." **brahmāṇi**: "the collections of mantras in the form of praise." **viśvapeśasam** — *bahuvidharūpayuktam*: "endowed with many forms: an epithet of the word *dhiyam*." **dhiyaṃ dhāḥ**: "give wealth. *Dhiyo labhyatvāt dhīḥ dhanam ucyate*: or the word *dhī* is [read as] expressing rite — 'wealth of manifold forms such as cattle, or manifold rites such as the Agniṣṭoma': thus they explain *dhiyam* in two ways, either as wealth to be won by the understanding, or as rites such as the Agniṣṭoma through the word *dhī* meaning 'rite'." **dhiyāvasuḥ**: "one who has gained complete lordship by understanding or by the fruit of rite." **makṣu jagamyāt** — *śīghraṃ asmadrakṣaṇārtham āgacchatu*: "may he come vigilantly to protect us."
 
-**Vyākaraṇa-prakriyā** *(pp. 528–529 — noted briefly)* — *Grammar pages, noted briefly.* **eva**: *nipātasya ca* (Pā. 6-3-136 as read [?]): lengthening in the Saṃhitā. **hāriyojana**: *āmantritasya ca* (Pā. 8-1-19 as read [?]): the vocative *nighāta*. **suvṛkti**: in the neuter accusative plural, loss of the ending by *supāṃ suluk*. **gotamāsaḥ**: nominative plural *jas*: *ājjaser asuk* (Pā. 7-1-50 as read [?]): *asuk*. **akran**: *ḍukṛñ karaṇe*; *luṅ*, third plural: *jho 'ntaḥ*: *ant*; *itaś ca*: loss of *i*; *cli luṅi*: *cli* with its loss by *mantre ghasahvara…* (Pā. 2-4-80 as read [?]); *sārvadhātukam apit* is *ṅit*, so no *guṇa*; *iko yaṇaci*: *yaṇ*; *saṃyogāntasya lopaḥ*: loss of the final *t*; the *aṭ* augment because of *luṅ*; *nighāta*, after a non-verb. **viśvapeśasam**: *viśvāni peśāṃsi yasya*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member. **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the sense of *loṭ*; second singular *sip*; *itaś ca*: loss of *i*; *cli luṅi sic*: *sic* for *cli*; *gātisthāghupā…* (Pā. 2-4-77 as read [?]): since it is called *ghu*, loss of *sic*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *nighāta*. **makṣū**: *ṛcitunughamakṣu…* (Pā. 6-3-133 as read [?]): lengthening in the Saṃhitā.
+**Vyākaraṇa-prakriyā** *(pp. 528–529 — noted briefly)* — *Grammar pages, noted briefly.* **eva**: *nipātasya ca* (Pā. 6-3-136): lengthening in the Saṃhitā. **hāriyojana**: *āmantritasya ca* (Pā. 8-1-19 as read [?]): the vocative *nighāta*. **suvṛkti**: in the neuter accusative plural, loss of the ending by *supāṃ suluk*. **gotamāsaḥ**: nominative plural *jas*: *ājjaser asuk* (Pā. 7-1-50): *asuk*. **akran**: *ḍukṛñ karaṇe*; *luṅ*, third plural: *jho 'ntaḥ*: *ant*; *itaś ca*: loss of *i*; *cli luṅi*: *cli* with its loss by *mantre ghasahvara…* (Pā. 2-4-80); *sārvadhātukam apit* is *ṅit*, so no *guṇa*; *iko yaṇaci*: *yaṇ*; *saṃyogāntasya lopaḥ*: loss of the final *t*; the *aṭ* augment because of *luṅ*; *nighāta*, after a non-verb. **viśvapeśasam**: *viśvāni peśāṃsi yasya*; *bahuvrīhau prakṛtyā pūrvapadam*: accent of the first member. **dhāḥ**: *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *chandasi luṅlaṅliṭaḥ*: *luṅ* in the sense of *loṭ*; second singular *sip*; *itaś ca*: loss of *i*; *cli luṅi sic*: *sic* for *cli*; *gātisthāghupā…* (Pā. 2-4-77): since it is called *ghu*, loss of *sic*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi*; *nighāta*. **makṣū**: *ṛcitunughamakṣu…* (Pā. 6-3-133): lengthening in the Saṃhitā.
 
 ---
 
