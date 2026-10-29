@@ -2363,13 +2363,15 @@
 
 ### Rik 50.6 (pp. 123–126, PDF 139–142)
 
-**Saṃhitā-pāṭha** *(p. 123; accents not reproduced)*
+**Saṃhitā-pāṭha** *(p. 123; accents as printed)*
 
-> **येना पावक चक्षसा भुरण्यन्तं जनाँ अनु ।**
-> **त्वं वरुण पश्यसि ॥ ६ ॥**
+> **येना॑ पावक॒ चक्ष॑सा भुर॒ण्यन्तं॒ जना॒ँ अनु॑ ।**
+> **त्वं व॑रुण॒ पश्य॑सि ॥ ६ ॥**
 
-*yenā pāvaka cakṣasā bhuraṇyantaṃ janām̐ anu |*
-*tvaṃ varuṇa paśyasi || 6 ||*
+*yénā pāvaka cákṣasā bhuraṇyántaṃ jánām̐ ánu |*
+*tváṃ varuṇa páśyasi || 6 ||*
+
+*(The IAST acutes are inferred from the printed marks.)*
 
 **Pada-pāṭha** *(p. 123)*
 
@@ -2381,13 +2383,13 @@
 
 **Sāyaṇa-bhāṣya** *(p. 124)*
 
-> **हे पावक सर्वस्य शोधक वरुणानिष्टनिवारक सूर्य त्वं जनान्जातान्प्राणिनो भुरण्यन्तं धारयन्तं पोषयन्तं वेमं लोकं येन चक्षसा प्रकाशेनानु पश्यसि । अनुक्रमेण प्रकाशयसि । तं प्रकाशं स्तुम इति शेषः । यद्वा । उत्तरस्यामृचि सम्बन्धः । तेन चक्षसा व्येषीति । तथा च यास्केनोक्तं । तत्ते वयं स्तुम इति वाक्यशेषोऽपि वोत्तरस्या मन्त्रयस्तेन व्येषि । नि. १२-२१ [?] । इति ॥ भुरण्यन्तं । भुरण धारणपोषणयोः । कण्ड्वादित्वाद्यक् । ततः शतरि कर्तरि शप् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक एव स्वरः शिष्यते । वरुण । वृङ् वरणे । अस्मादन्तर्भावितण्यर्थात्क्यावृत्यादारिभ्य उनन् । उ. ३-५३ [?] । इत्युनन्प्रत्ययः । अत्र वरुणशब्देनादित्य एवोच्यते । तथा चान्यत्राम्नातं । तस्मै मित्रश्च वरुणश्चाजायेताम् । मित्रश्च वरुणश्च धाता चार्यमा च । तै. आ. १-१३-३ [?] । इति च ॥**
+> **हे पावक सर्वस्य शोधक वरुणानिष्टनिवारक सूर्य त्वं जनान्जातान्प्राणिनो भुरण्यन्तं धारयन्तं पोषयन्तं वेमं लोकं येन चक्षसा प्रकाशेनानु पश्यसि । अनुक्रमेण प्रकाशयसि । तं प्रकाशं स्तुम इति शेषः । यद्वा । उत्तरस्यामृचि सम्बन्धः । तेन चक्षसा व्येषीति । तथा च यास्केनोक्तं । तत्ते वयं स्तुम इति वाक्यशेषोऽपि वोत्तरस्यामन्वयस्तेन व्येषि । नि. १२-२२ । इति ॥ भुरण्यन्तं । भुरण धारणपोषणयोः । कण्ड्वादित्वाद्यक् । ततः शतरि कर्तरि शप् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे यक एव स्वरः शिष्यते । वरुण । वृङ् वरणे । अस्मादन्तर्भावितण्यर्थात्क्यावृत्यादारिभ्य उनन् । उ. ३-५३ । इत्युनन्प्रत्ययः । अत्र वरुणशब्देनादित्य एवोच्यते । तथा चान्यत्राम्नातं । तस्मै मित्रश्च वरुणश्चाजायेताम् । मित्रश्च वरुणश्च धाता चार्यमा च । तै. आ. १-१३-३ । इति च ॥**
 
-*he pāvaka sarvasya śodhaka varuṇāniṣṭanivāraka sūrya tvaṃ janān jātān prāṇino bhuraṇyantaṃ dhārayantaṃ poṣayantaṃ vemaṃ lokaṃ yena cakṣasā prakāśenānu paśyasi | anukrameṇa prakāśayasi | taṃ prakāśaṃ stuma iti śeṣaḥ | yadvā | uttarasyām ṛci sambandhaḥ | tena cakṣasā vyeṣīti | tathā ca yāskenoktaṃ | tat te vayaṃ stuma iti vākyaśeṣo 'pi vottarasyā mantrayas tena vyeṣi | ni. 12-21 [?] | iti || bhuraṇyantaṃ | bhuraṇa dhāraṇapoṣaṇayoḥ | kaṇḍvādittvād yak | tataḥ śatari kartari śap | adupadeśāl lasārvadhātukānudāttatve yaka eva svaraḥ śiṣyate | varuṇa | vṛṅ varaṇe | asmād antarbhāvitaṇyarthāt kyāvṛtyādāribhya unan | u. 3-53 [?] | ity unanpratyayaḥ | atra varuṇaśabdenāditya evocyate | tathā cānyatrāmnātaṃ | tasmai mitraś ca varuṇaś cājāyetām | mitraś ca varuṇaś ca dhātā cāryamā ca | tai. ā. 1-13-3 [?] | iti ca ||*
+*he pāvaka sarvasya śodhaka varuṇāniṣṭanivāraka sūrya tvaṃ janān jātān prāṇino bhuraṇyantaṃ dhārayantaṃ poṣayantaṃ vemaṃ lokaṃ yena cakṣasā prakāśenānu paśyasi | anukrameṇa prakāśayasi | taṃ prakāśaṃ stuma iti śeṣaḥ | yadvā | uttarasyām ṛci sambandhaḥ | tena cakṣasā vyeṣīti | tathā ca yāskenoktaṃ | tat te vayaṃ stuma iti vākyaśeṣo 'pi vottarasyām anvayas tena vyeṣi | ni. 12-22 | iti || bhuraṇyantaṃ | bhuraṇa dhāraṇapoṣaṇayoḥ | kaṇḍvādittvād yak | tataḥ śatari kartari śap | adupadeśāl lasārvadhātukānudāttatve yaka eva svaraḥ śiṣyate | varuṇa | vṛṅ varaṇe | asmād antarbhāvitaṇyarthāt kyāvṛtyādāribhya unan | u. 3-53 | ity unanpratyayaḥ | atra varuṇaśabdenāditya evocyate | tathā cānyatrāmnātaṃ | tasmai mitraś ca varuṇaś cājāyetām | mitraś ca varuṇaś ca dhātā cāryamā ca | tai. ā. 1-13-3 | iti ca ||*
 
-*(Crowded: the Nirukta number; the sentence "tat te vayaṃ stuma iti vākyaśeṣo 'pi vottarasyā mantrayas tena vyeṣi" is as I read it, [?]; the Uṇādi number and the Taittirīya Āraṇyaka number.)*
+*(Re-read from the print: Ni. 12-22, "…vottarasyām anvayas tena vyeṣi", Uṇ. 3-53, Tai. Ā. 1-13-3.)*
 
-**Translation:** "O *pāvaka*, purifier of all; O *varuṇa*, warder-off of the unwished; O Sūrya: *janān*, the born beings — *bhuraṇyantam*, upholding and nourishing this world — *yena cakṣasā*, with which light, *anu paśyasi*, you look after them in order, you illumine — *that light we praise*: this is the part understood. Or the connexion is with the next ṛk: 'with that light you move through (the sky)'. And as Yāska says: 'We praise that of yours: or the rest of the sentence is joined with the next ṛk, with which you go through' (Ni. 12-21 [?]). *Bhuraṇyantam*: root *bhuraṇa dhāraṇapoṣaṇayoḥ*, *yak* because it is of the *kaṇḍvādi* class; then *śatṛ*, *śap*; since the *lasārvadhātuka* is unaccented, the accent of *yak* alone remains. *Varuṇa*: root *vṛṅ varaṇe*, with the causative sense included; *unan* by *kyāvṛtyādāribhya*… (Uṇ. 3-53 [?]); by the word *varuṇa* the Āditya alone is meant: as it is said elsewhere, 'for him Mitra and Varuṇa were born'; 'Mitra and Varuṇa, Dhātṛ and Aryaman' (Tai. Ā. 1-13-3 [?])."
+**Translation:** "O *pāvaka*, purifier of all; O *varuṇa*, warder-off of the unwished; O Sūrya: *janān*, the born beings — *bhuraṇyantam*, upholding and nourishing this world — *yena cakṣasā*, with which light, *anu paśyasi*, you look after them in order, you illumine — *that light we praise*: this is the part understood. Or the connexion is with the next ṛk: 'with that light you move through (the sky)'. And as Yāska says: 'We praise that of yours: or the rest of the sentence: the construction is with the next ṛk, "with that you go through"' (Ni. 12-22). *Bhuraṇyantam*: root *bhuraṇa dhāraṇapoṣaṇayoḥ*, *yak* because it is of the *kaṇḍvādi* class; then *śatṛ*, *śap*; since the *lasārvadhātuka* is unaccented, the accent of *yak* alone remains. *Varuṇa*: root *vṛṅ varaṇe*, with the causative sense included; *unan* by *kyāvṛtyādāribhya*… (Uṇ. 3-53); by the word *varuṇa* the Āditya alone is meant: as it is said elsewhere, 'for him Mitra and Varuṇa were born'; 'Mitra and Varuṇa, Dhātṛ and Aryaman' (Tai. Ā. 1-13-3)."
 
 **Pratipadārtha** *(p. 124)* — "**pāvaka** — O Sūrya, purifier of all; **varuṇa** — and ward-off of the unwished; **tvam** — you; **janān** — all beings born; **bhuraṇyantam** — upholding or nourishing this world; **yena cakṣasā** — with what light; **anu paśyasi** — you look upon in order (making it shine); (that light we praise)."
 
@@ -2399,23 +2401,23 @@
 - **bhuraṇyantam** — "*bhuraṇa dhāraṇapoṣaṇayoḥ*; *dhārayantam*, *poṣayantam vā*: the world that nourishes people or that supports (protects) them."
 - **varuṇa** — "*vṛṅ varaṇe*; *aniṣṭanivāraka*: one who wards off the unwished things of men (that is, their sins). The commentator says that the word *varuṇa* indicates the Āditya, and for this he gives two Śruti sentences" — **untranslated in the source**:
 
-  1. > **तस्मै मित्रश्च वरुणश्चाजायेताम् ।** *(Tai. Brā. 1-6-9-2 as read [?]; the print gives "1-r-9-2")*
+  1. > **तस्मै मित्रश्च वरुणश्चाजायेताम् ।** *(Tai. Brā. 1-1-9-2)*
 
      *tasmai mitraś ca varuṇaś cājāyetām |* — mine and tentative: "for him Mitra and Varuṇa were born."
-  2. > **मित्रश्च वरुणश्च धाता चार्यमा च ।** *(Tai. Ā. 1-13-3 as read [?])*
+  2. > **मित्रश्च वरुणश्च धाता चार्यमा च ।** *(Tai. Ā. 1-13-3)*
 
      *mitraś ca varuṇaś ca dhātā cāryamā ca |* — mine and tentative: "Mitra and Varuṇa, Dhātṛ and Aryaman."
-- "Yāska has given the following explanation of this ṛk" (**untranslated in the source**; "Ni. 12-22" as read [?], the Sanskrit as printed and crowded in places):
+- "Yāska has given the following explanation of this ṛk" (**untranslated in the source**; Ni. 12-22):
 
-  > **भुरण्युरिति क्षिप्रनाम । भुरण्यः शकुनिर्भूरिमध्वानं नयेत्स्वर्गस्य लोकस्यापि वोढा तत्सम्पाती भुरण्युरनेन पावकख्यातेन । भुरण्यन्तं जनाननु । त्वं वरुण पश्यसि । तत्ते वयं स्तुम इति वाक्यशेषः ॥** *(Ni. 12-22 as read [?])*
+  > **भुरण्युरिति क्षिप्रनाम । भुरण्युः शकुनिर्भूरिमध्वानं नयति स्वर्गस्य लोकस्यापि वोढा तत्सम्पाती भुरण्युरनेन पावकख्यातेन । भुरण्यन्तं जनाननु । त्वं वरुण पश्यसि । तत्ते वयं स्तुम इति वाक्यशेषः ॥** *(Ni. 12-22)*
 
-  *bhuraṇyur iti kṣiprānāma | bhuraṇyaḥ śakunir bhūrim adhvānaṃ nayet svargasya lokasyāpi voḷhā tatsampātī bhuraṇyur anena pāvakakhyātena | bhuraṇyantaṃ janān anu | tvaṃ varuṇa paśyasi | tat te vayaṃ stuma iti vākyaśeṣaḥ ||* — mine and tentative, doubtful: "*Bhuraṇyu* is a name for 'swift'. The *bhuraṇya* (bird) might carry (one) over a long road; or the carrier of the world of heaven, he who flies together with it, is *bhuraṇyu*, by this [verse] called *pāvaka*. 'You, Varuṇa, look upon the nourishing (world) in order': 'that of you we praise' is the remainder of the sentence."
+  *bhuraṇyur iti kṣipranāma | bhuraṇyuḥ śakunir bhūrim adhvānaṃ nayati svargasya lokasyāpi voḷhā tatsampātī bhuraṇyur anena pāvakakhyātena | bhuraṇyantaṃ janān anu | tvaṃ varuṇa paśyasi | tat te vayaṃ stuma iti vākyaśeṣaḥ ||* — mine and tentative, doubtful: "*Bhuraṇyu* is a name for 'swift'. The *bhuraṇyu* is a bird: it carries over a long road; or the carrier of the world of heaven, he who flies together with it, is *bhuraṇyu*, by this [verse] called *pāvaka*. 'You, Varuṇa, look upon the nourishing (world) in order': 'that of you we praise' is the remainder of the sentence."
 - The Kannada author explains: "The word *bhuraṇyu* means swiftly: the one who moves swiftly along the path of the atmosphere, or the one who holds up heaven, or the one who guards heaven — this is the meaning of the word *bhuraṇyantam*: O Sūrya, such as you are, you look upon people, that is, people look at you: 'we praise you who are such'; or one may, if one wishes, connect it with the verb *vi eṣi* of the next ṛk, that is, state the connexion with the next ṛk thus: 'you who go forth with the light with which you...'."
 
 **Vyākaraṇa-prakriyā** *(pp. 125–126 — grammar pages, noted briefly)*
-- **cakṣasā**: root *cakṣiṅ vyaktāyāṃ vāci*; *cakṣer bahulaṃ śic ca* (Uṇ. 4-[?]23 as read [?]) gives *asun* (with the *śit*-marker); *cakṣas*, a stem in *s*; since it is *śit*, no *ārdhadhātuka*-name, hence no *khyāñ* by *cakṣiṅaḥ khyāñ*; the instrumental singular *cakṣasā*.
-- **bhuraṇyantam**: root *bhuraṇa dhāraṇapoṣaṇayoḥ*, *kaṇḍvādi*; *laṭ*, with the sense of agent; *bhuraṇ + at*; *kaṇḍvādibhyo yak* (Pā. 3-1-27 as read) gives *yak*; as the *yak* of the *kaṇḍvādi* is *sārvadhātuka* with an agentive sense standing after, *śap* as *vikaraṇa* follows; since *yak* is in the *sanādi* list, a *yak*-ending form is a root (*sanādyantā dhātavaḥ*); *bhuraṇya + a + at*; *ato guṇe* gives *pararūpa* in view of the two things taken together; *bhuraṇyat*, a stem in *t*; the accusative singular, *ugit*-ness gives *num*: *bhuraṇyantam*. Here *śap* is unaccented; since *śatṛ* as a *lasārvadhātuka* after a root that has an *upadeśa* ending in *a* is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186 as read), the accent of *yak* alone remains, and the *a* after *y* is acute.
-- **varuṇa**: root *vṛṅ varaṇe*, *svādi*; here the causative sense is to be taken as included; *kyāvṛtyādāribhya unan* (Uṇ. 3-[?]3 as read [?]) gives *unan*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* before *unan*, the *ṛ* becoming *ar*; *varuṇa*; *aṭkupvāṅnumvyavāye 'pi* (Pā. 8-4-2 as read) gives *ṇatva* because the *n* follows a *repha*; in the vocative the *su* drops after a short stem (*eṅhrasvāt sambuddheḥ*); being a vocative, *āmantritasya ca* (Pā. 8-1-19 as read) gives the all-unaccented. By the word *varuṇa* the Sun alone is said (the Kannada author cites the two Śruti sentences given above, from the Taittirīya Brāhmaṇa and Āraṇyaka). **|| 6 ||**
+- **cakṣasā**: root *cakṣiṅ vyaktāyāṃ vāci*; *cakṣer bahulaṃ śic ca* (Uṇ. 4-673, as printed) gives *asun* (with the *śit*-marker); *cakṣas*, a stem in *s*; since it is *śit*, no *ārdhadhātuka*-name, hence no *khyāñ* by *cakṣiṅaḥ khyāñ*; the instrumental singular *cakṣasā*.
+- **bhuraṇyantam**: root *bhuraṇa dhāraṇapoṣaṇayoḥ*, *kaṇḍvādi*; *laṭ*, with the sense of agent; *bhuraṇ + at*; *kaṇḍvādibhyo yak* (Pā. 3-1-27) gives *yak*; as the *yak* of the *kaṇḍvādi* is *sārvadhātuka* with an agentive sense standing after, *śap* as *vikaraṇa* follows; since *yak* is in the *sanādi* list, a *yak*-ending form is a root (*sanādyantā dhātavaḥ*); *bhuraṇya + a + at*; *ato guṇe* gives *pararūpa* in view of the two things taken together; *bhuraṇyat*, a stem in *t*; the accusative singular, *ugit*-ness gives *num*: *bhuraṇyantam*. Here *śap* is unaccented; since *śatṛ* as a *lasārvadhātuka* after a root that has an *upadeśa* ending in *a* is unaccented by *tāsyanudāttenṅidadupadeśāl lasārvadhātukam anudāttam* (Pā. 6-1-186), the accent of *yak* alone remains, and the *a* after *y* is acute.
+- **varuṇa**: root *vṛṅ varaṇe*, *svādi*; here the causative sense is to be taken as included; *kyāvṛtyādāribhya unan* (Uṇ. 3-333, as printed) gives *unan*; *sārvadhātukārdhadhātukayoḥ* gives *guṇa* before *unan*, the *ṛ* becoming *ar*; *varuṇa*; *aṭkupvāṅnumvyavāye 'pi* (no number printed) gives *ṇatva* because the *n* follows a *repha*; in the vocative the *su* drops after a short stem (*eṅhrasvāt sambuddheḥ*); being a vocative, *āmantritasya ca* (no number printed; "a sūtra of the eighth adhyāya") gives the all-unaccented. By the word *varuṇa* the Sun alone is said (the Kannada author cites the two Śruti sentences given above, from the Taittirīya Brāhmaṇa and Āraṇyaka). **|| 6 ||**
 
 ---
 
