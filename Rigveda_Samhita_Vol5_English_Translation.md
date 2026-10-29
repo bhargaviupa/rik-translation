@@ -6855,13 +6855,13 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 ### Rik 56.2 (pp. 375–378, PDF 391–394)
 
-**Saṃhitā-pāṭha** *(p. 375)*
+**Saṃhitā-pāṭha** *(p. 375; accents as printed)*
 
-> **तं गूर्तयो नेमन्निषः परीणसः समुद्रं न संचरणे सनिष्यवः ।**
-> **पतिं दक्षस्य विदथस्य नू सहो गिरिं न वेना अधि रोह तेजसा ॥ २ ॥**
+> **तं गू॒र्तयो॑ नेम॒न्निषः॒ परी॑णसः समु॒द्रं न सं॒चर॑णे सनि॒ष्यवः॑ ।**
+> **पतिं॒ दक्ष॑स्य वि॒दथ॑स्य॒ नू सहो॑ गि॒रिं न वे॒ना अधि॑ रोह॒ तेज॑सा ॥ २ ॥**
 
-*taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ |*
-*patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhi roha tejasā || 2 ||*
+*táṃ gūrtáyo nemanníṣaḥ párīṇasaḥ samudráṃ ná saṃcáraṇe saniṣyávaḥ |*
+*pátiṃ dákṣasya vidáthasya nū́ sáho giríṃ ná venā́ ádhi roha téjasā || 2 ||*
 
 **Pada-pāṭha** *(p. 376)*
 
@@ -6877,7 +6877,7 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 
 *gūrtayaḥ stotāro nemanniṣaḥ namaskārapūrvakaṃ gacchantaḥ | yadvā nītahaviṣkāḥ parīṇasaḥ parito vyāpnuvantaḥ | evaṃguṇaviśiṣṭā yajamānās tam indraṃ stutibhir adhirohanti | stuvanta ity arthaḥ | tatra dṛṣṭāntaḥ | saniṣyavaḥ saniṃ dhanam ātmana icchanto vaṇijo dhanārthaṃ saṃcaraṇe saṃcāre nimittabhūte sati samudraṃ na | yathā nāvā samudram adhirohanti evaṃ stotāro 'pi svābhimatadhanalābhāyendraṃ stuvantīti bhāvaḥ | he stotas tvaṃ ca dakṣasya pravṛddhasya vidathasya yajñasya patiṃ pālayitāraṃ sahaḥ sahasvantaṃ balavantam indraṃ tejasā devatāprakāśakena stotreṇa nu kṣipram adhi roha | stuhīti yāvat | tatra dṛṣṭāntaḥ | venāḥ kāntāḥ striyo giriṃ na | yathā parvataṃ svābhimukhapuṣpopacayārtham adhirohanti ||*
 
-*(The tail, p. 376 foot: on* gūrtayaḥ *(*gṝ śabde*, *ktic*; *gūrti*, Uṇ. as read [?]),* nemanniṣaḥ *(*namanta iṣyanti*; Uṇādi *thak*… *kvip*),* parīṇasaḥ *(*ṇasa kauṭilye*, "*nasate*" with *pari*; *upasargād asamāse*: *ṇatva*),* saniṣyavaḥ *(*ṣaṇu dāne*, *kyac* with *sarvaprātipadikebhyo lālasāyām asug…*: *suk*; *kyāc chandasi*: *u*),* nu*,* sahaḥ *(*matup* dropped) — in the Kannada notes.)*
+*(The tail, p. 376 foot: on* gūrtayaḥ *(*gṝ śabde*, *ktic*; *gūrti*; no Uṇādi number printed),* nemanniṣaḥ *(*namanta iṣyanti*; Uṇādi *thak*… *kvip*),* parīṇasaḥ *(*ṇasa kauṭilye*, "*nasate*" with *pari*; *upasargād asamāse*: *ṇatva*),* saniṣyavaḥ *(*ṣaṇu dāne*, *kyac* with *sarvaprātipadikebhyo lālasāyām asug…*, Pā. 7-1-51-3: *suk*; *kyāc chandasi*: *u*),* nu*,* sahaḥ *(*matup* dropped) — in the Kannada notes.)*
 
 **Translation of the bhāṣya:** "*Gūrtayaḥ*, the praisers, *nemanniṣaḥ*, who go with salutation — or: who have brought oblations; *parīṇasaḥ*, spread all round: sacrificers of such qualities mount that Indra with their praises, i.e. praise him. An illustration: *saniṣyavaḥ*, merchants wishing wealth for themselves, when there is travelling for wealth, *samudraṃ na*, as they mount the ocean in a ship; so the praisers also praise Indra to obtain the wealth they desire. And you, O praiser, *dakṣasya vidathasya patim*, the protector of the grown sacrifice, *sahaḥ*, the strong, the mighty Indra, *tejasā*, with a hymn that makes the deity shine, *nu*, quickly, *adhi roha*, mount: praise. An illustration: *venāḥ giriṃ na*, as lovely women climb a mountain to gather flowers they like."
 
@@ -6902,10 +6902,10 @@ Maṇḍala 1 · Anuvāka 10 · Sūkta 56 · Aṣṭaka 1 · Adhyāya 4 · Varga
 - **venāḥ giriṃ na** — "As women climb a mountain to gather flowers, — here the praise of Indra is given with an illustration: 'always praise Indra for the sake of obtaining your desired ends'."
 
 **Vyākaraṇa-prakriyā** *(pp. 378–379 — grammar pages, noted briefly)*
-- **gūrtayaḥ**: *gṝ śabde*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174): *ktic* here; *bahulaṃ chandasi*: *u* for the root's *ṛ*; *uraṇ raparaḥ*; *halica*: lengthening: *gūrti*; *citaḥ*: end-acute; nominative plural: *guṇa*, *ayādeśa*.
-- **nemanniṣaḥ**: *ṇamu prahvatve śabde ca*; *śatṛ*; *vyatyaya* for *a* → *e* and *t* → *n*: *namantaḥ iṣyanti* — *iṣu gatau*, *kvip ca*: *kvip*; *gatikārakopapadāt kṛt*. Or from *ṇī prāpaṇe*, Uṇādi *man* (*ārtistuṣu…*, Uṇ. 1-… as read [?]); *neman*; *nītāḥ prahatā iṣo yeṣām*: bahuvrīhi, *parādiś chandasi bahulam*: initial-acute of the last member.
-- **parīṇasaḥ**: *ṇasa kauṭilye*, used here with the sense of going; *pari* + *nas*, *kvip*; *nipātasya ca* lengthens the first member; *upasargād asamāse 'pi ṇopadeśasya*: *ṇatva*.
-- **saniṣyavaḥ**: *ṣaṇu dāne*; *ins sarvadhātubhyaḥ* (Uṇ. 4-… as read [?]): *in*; *ṣa* → *s*: *sani*; *sanim ātmana icchati*: *supa ātmanaḥ kyac*; *sarvaprātipadikebhyo lālasāyām asug vaktavyaḥ… sukāgamo 'pi vaktavyaḥ* (Kā.): *suk*; *kyāc chandasi*: *u*; *ato lopaḥ*; end-acute.
+- **gūrtayaḥ**: *gṝ śabde*; *ktic ktau ca saṃjñāyām* (Pā. 3-3-174): *ktic* here; *bahulaṃ chandasi*: *u* for the root's *ṛ*; *uraṇ raparaḥ*; *halica* (Pā. sū. 8-2-77): lengthening: *gūrti*; *citaḥ* (Pā. sū. 6-1-163): end-acute; nominative plural: *guṇa*, *ayādeśa*.
+- **nemanniṣaḥ**: *ṇamu prahvatve śabde ca*; *śatṛ*; *vyatyaya* for *a* → *e* and *t* → *n*: *namantaḥ iṣyanti* — *iṣu gatau*, *kvip ca* (Pā. sū. 3-2-76): *kvip*; *gatikārakopapadāt kṛt*. Or from *ṇī prāpaṇe*, Uṇādi *man* (*ārtistusu…*, Uṇ. sū. 1-137); *neman*; *nītāḥ prahatā iṣo yeṣām*: bahuvrīhi, *parādiś chandasi bahulam* (Pā. sū. 6-2-199): initial-acute of the last member.
+- **parīṇasaḥ**: *ṇasa kauṭilye*, used here with the sense of going; *pari* + *nas*, *kvip*; *nipātasya ca* (Pā. sū. 6-3-136) lengthens the first member; *upasargād asamāse 'pi ṇopadeśasya*: *ṇatva*.
+- **saniṣyavaḥ**: *ṣaṇu dāne*; *ins sarvadhātubhyaḥ* (an Uṇādi sūtra; no number printed): *in*; *ṣa* → *s*: *sani*; *sanim ātmana icchati*: *supa ātmanaḥ kyac*; *sarvaprātipadikebhyo lālasāyām asug vaktavyaḥ… sukāgamo 'pi vaktavyaḥ* (Kā. 7-1-51-3): *suk*; *kyāc chandasi*: *u*; *ato lopaḥ*; end-acute.
 - **nu**: *ṛci tunughamakṣu…*: lengthening in the Saṃhitā.
 - **sahaḥ**: "*saho 'syāstīti sahasvān*"; *tad asyāsty asmin*: *matup*, dropped (*luk*) in the Veda.
 - **roha**: *ruha bījajanmani prādurbhāve ca*; *loṭ* second singular; *nighāta*. **|| 2 ||**
