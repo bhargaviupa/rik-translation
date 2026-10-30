@@ -11655,4 +11655,69 @@ Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and 
 
 ---
 
-**Progress note:** printed p. 432 (PDF 452) done — Sūkta 177 Ṛk 1 complete; Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 433 (PDF 453), Ṛk 2 Special Topics. Open flags: Ṛk 2 bhāṣya partly doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 433  (PDF 453)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; signature mark "XIII 28" at foot.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***vṛṣaṇaḥ, vṛṣabhāsaḥ, vṛṣarathāsaḥ*** — these words are epithets of Indra's horses and show the special capacities of those horses. The differences of meaning in these words, which are formed from the word *vṛṣan*, and their usages, will be explained in the Special Topics of the following ṛk. Only the epithets *brahmayujaḥ* and *atyāḥ* are explained here.
+
+***brahmayujaḥ — parivṛḍhena mantreṇa yujyamānāḥ*** — "harnessed by the utterance of the exalted (*parivṛḍha*) mantra" is an epithet of Indra's horses. The word *brahma* as used here is formed from the root *bṛhi*, meaning "to grow", and means a mantra that has grown, i.e. a powerful mantra. The word *brahmayujaḥ* here, like the word *brahmavāhaḥ* ("borne by prayer"), is used in many places as an epithet of Indra's horses. There, "*brahmaṇā mantrarūpeṇa stotreṇa ūhyamānāḥ prāpyamāṇendra*" — Indra, who is to be reached by praise in the form of mantra; here too, the horses harnessed by praise.
+
+> ब्रह्मणा ते ब्रह्मयुजा युनज्मि हरी सखाया सधमाद आ शू । स्थिरं रथं सुखमिन्द्राधितिष्ठन्प्र जानन्विद्वाँ उप याहि सोमम् ॥
+
+> *brahmaṇā te brahmayujā yunajmi harī sakhāyā sadhamāda ā śū | sthiraṃ rathaṃ sukham indrādhitiṣṭhan pra jānan vidvāṃ upa yāhi somam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-35-4 [?]) — in such ṛks the process by which Indra's horses are harnessed to his chariot by the power of the mantra is described; in the ṛk at hand the same point is shown.
+
+***atyāḥ — aśvāḥ*** — Indra's horses. ***āpekṣitapradeśaṃ prati atanaśīlāḥ*** — "of the nature and power of going to the place desired": this is the sense, and it is not only for horses that this word is an epithet; it is also an epithet of Agni and of the Āditya (Sun).
+
+> एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः । दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसम् ॥
+
+> *eṣa pra pūrvīr ava tasya camriṣo 'tyo na yoṣām udayaṃsta bhurvaṇiḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ ratham āvṛtyā hariyogam ṛbhvasam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-56-1 [?]) — in this ṛk *atyaḥ* is used as a synonym of "horse"; and
+
+> अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यन्ति चेमा बृहस्पतेरहिमायाँ अभि द्यून् ॥
+
+> *asya śloko divīyate pṛthivyām atyo na yaṃsad yakṣabhṛd vicetāḥ | mṛgāṇāṃ na hetayo yanti cemā bṛhaspater ahimāyāṃ abhi dyūn ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-190-4 [?]) — in such ṛks *atanaśīlaḥ* ("the one who goes") means the Āditya also: the Sun, who moves about. In the ṛk at hand it is a word that is a synonym of horse.
+
+### Printed p. 434  (PDF 454)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177".)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***brahmayujaḥ*** — *brahmaṇā yujyante iti brahmayujaḥ*; root *yujir yoge*; by "*satsūdviṣadruhaduhayujavidabhidacchidajinīrājām upasarge 'pi kvip*" (Pā. Sū. 3-2-61 [?]) the suffix *kvip*; the *kṛdutta* final member keeps its natural accent; nominative plural.
+- ***vṛṣarathāsaḥ*** — a *bahuvrīhi* compound; by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent; when *jas* follows, by "*ajjhanasyerasuk*" (Pā. Sū. 7-1-50 [?], sūtra name as read) the augment *asuk*.
+- ***tān + ā*** — by "*dīrghād aṭi samānapāde*" (Pā. Sū. 8-3-9 [?]) *ru* for the *n*; by "*ato 'ṭi nityam*" (Pā. Sū. 8-3-3 [?]) the preceding *ā* always takes nasalization.
+- ***tiṣṭha*** — root *ṣṭhā gatinivṛttau*; *loṭ*, second person singular; *nighāta* for a *tiṅ*.
+- ***havāmahe*** — root *hveñ spardhāyāṃ śabde ca*; "*bahulaṃ chandasi*" gives *saṃprasāraṇa* in *laṭ*; first person plural; because it is in *pādādi* position no *nighāta*; the *la* *sārvadhātuka* being *anudātta* (by "*tāsyanudāttet*…"), the root accent remains.
+- ***sute*** — root *ṣuñ abhiṣave*; the suffix *kta* by the *niṣṭhā* rule; by the suffix accent the end syllable is *udātta*; locative singular. ‖ 2 ‖
+
+---
+
+**Sūkta 177, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> आ तिष्ठ रथं वृषणं वृषा ते सुतः सोमः परिषिक्ता मधूनि ।
+> युक्त्वा वृषभ्यां वृषभ क्षितीनां हरिभ्यां याहि प्रवतोप मद्रिक् ॥ ३ ॥
+
+> *ā tiṣṭha rathaṃ vṛṣaṇaṃ vṛṣā te sutaḥ somaḥ pariṣiktā madhūni |*
+> *yuktvā vṛṣabhyāṃ vṛṣabha kṣitīnāṃ haribhyāṃ yāhi pravatopa madrik ‖ 3 ‖*
+
+**Pada-pāṭha**
+
+> आ । तिष्ठ । रथम् । वृषणम् । वृषा । ते । सुतः । सोमः । परिऽसिक्ता । मधूनि ।
+> युक्त्वा । वृषऽभ्याम् । वृषभ । क्षितीनाम् । हरिऽभ्याम् । याहि । प्रवता । उप । मद्रिक् ॥ ३ ॥
+
+> *ā | tiṣṭha | ratham | vṛṣaṇam | vṛṣā | te | sutaḥ | somaḥ | pari-siktā | madhūni |*
+> *yuktvā | vṛṣa-bhyām | vṛṣabha | kṣitīnām | hari-bhyām | yāhi | pravatā | upa | madrik ‖ 3 ‖*
+
+---
+
+**Progress note:** printed p. 434 (PDF 454) done — Sūkta 177 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada written. Next: printed p. 435 (PDF 455), Ṛk 3 bhāṣya. Open flags: Ṛg refs [?]; sūtra numerals [?]; review/doubts_v13.json.
