@@ -1858,5 +1858,29 @@
   ],
   "note": "Rg 10-73-11? and Harward Oriental Series ref (vol 25 p 245)",
   "answer": ""
+ },
+ {
+  "pdf": 262,
+  "printed": 242,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta sama derivation (7-12?) and Ait.Br quote ruk ca vaa idamagre.. garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 262,
+  "printed": 242,
+  "crop": [
+   0.75,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya/Satapatha quote tadyathaa pituh putram... garbled",
+  "answer": ""
  }
 ]

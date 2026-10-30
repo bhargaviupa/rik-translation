@@ -5783,4 +5783,64 @@ Here *veḥ yathā* is taken as "as of a bird", and *nabhanyam* as "that which m
 
 ---
 
-**Progress note:** printed p. 240 (PDF 260) done — Sūkta 173 Ṛk 1 Special Topics (continues p. 241). Next: printed p. 241 (PDF 261). Open flags: Aitareya Brāhmaṇa quotations garbled [?]; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 241  (PDF 261)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 13"; a signature mark "XIII 16" is printed at the foot.)*
+
+(*vayaḥ* continued)
+
+> वयो वेर्बहुवचनम् । सुपर्णाः सुपतनाः ।
+
+> *vayo ver bahuvacanam | suparṇāḥ supatanāḥ |*
+
+(Ni. 4-3 [?]). The plural of *vi* is *vayaḥ*: as birds of excellent plumage come flying, the sages come quickly and approach Indra: so the meaning is given for the word *vi*. And
+
+> गन्तृत्वात्, पक्षिसादृश्याद्वा मरुतोऽत्र वयः उच्यन्ते
+
+> *gantṛtvāt, pakṣisādṛśyādvā maruto 'tra vayaḥ ucyante*
+
+— because of their quality of moving attractively and because of their resemblance to birds, the Marut-gods themselves are here called *vayaḥ*: so Sāyaṇa has explained in many places (Ṛ. Saṃ. 1-19-3 [?]). As there, so here also *veḥ yathā* can be taken to mean "like a bird". Then one has to know what *nabhanya* means. For the word *nabhanya* Sāyaṇa earlier gave the meaning
+
+> नभसि आकाशे भवो नभस्वान् वायुरिव ।
+
+> *nabhasi ākāśe bhavo nabhasvān vāyuriva |*
+
+(Ṛ. Saṃ. bhāṣya 1-169-3 [?]) — "like the wind (*nabhasvān*) that is in the sky" — this word being used as an epithet of the Vāyu who dwells in the sky. The Nirukta-writers include the word *nabhati* among the names of killing, with "*nabhati, ardati*" (Ni. 2-19 [?]); therefore Sāyaṇa, on that basis, giving a different meaning in the present ṛk — "*nabhovyāpinaṃ hiṃsakaṃ vā rākṣasādikasya*" — says that the sense is "harmful to Rākṣasas". But
+
+> प्र ब्राह्मणो अङ्गिरसो नक्षन्त प्र क्रन्दनुर्नभन्यस्य वेतु ।
+> प्र धेनव उदप्रुतो नवन्त युज्यातामद्री अध्वरस्य पेशः ॥
+
+> *pra brāhmaṇo aṅgiraso nakṣanta pra krandanur nabhanyasya vetu |*
+> *pra dhenava udapruto navanta yujyātām adrī adhvarasya peśaḥ ‖*
+
+(Ṛ. Saṃ. 7-42-1), where for the words *nabhanyasya stotrasya* they give the meaning "praise" (*stuti*). In this context, as Keith says, "springing forth", the inner feeling, shining forth in a poetic form of praise, in the form of a hymn, approaches Indra: this is what it means; then the resemblance to a bird is fitting. The scholar Monier-Williams too, in his Sanskrit-English Dictionary, gives for this word the meaning "springing forth (as a hymn, horse etc.)".
+
+Therefore, in the sentence "*nabhanyaṃ sāma yathā veḥ*" of the present ṛk, it is more appropriate than Sāyaṇa's reading, which makes *veḥ* a verb form, to take *veḥ* as the genitive of the word *vi* ("of a bird"), and to say that the hymn (Sāman), attractive and swift as a bird, arises from the heart and approaches Indra. The meaning of the word *sāma* also supports this.
+
+### Printed p. 242  (PDF 262)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+***sāma*** — the Nirukta-writers, explaining the derivation of this word, say
+
+> साम सम्मितमृचा [?] अस्य केट् [?] ऋचा संमीयते इति नैदानाः ।
+
+> *sāma saṃmitam ṛcā asya keṭ ṛcā saṃmīyate iti naidānāḥ |*
+
+(Ni. 7-12 [?]) — either because it shows its measure through the measure of the ṛk, or, from the root *as* (*kṣepaṇe*), with the meaning *ase*, it came to be well known as *sāma*: thus it is said. And the opinion of the experts in the Nidāna science is also stated, that since it is of the same measure as the ṛk, it has the name *sāma*. The Aitareya Brāhmaṇa describes as follows the relation between the ṛk and the Sāman:
+
+> ऋक्च वा इदमग्रे साम चास्तां सैव नाम ऋगासीदमो नाम साम सा वा ऋक्सामोपावदत्सह मिथुनं संभवाव प्रजात्या इति नेत्यब्रवीत्साम ज्यायान्वा अतो मम महिमेति ते द्वे भूत्वोपावदतां तेन प्रतिचन समवदते ताः तिस्रो भूत्वोपावदंस्तत्तिसृभिः समभवत्स्मात्तिसृभिस्तुवन्ति तिसृभिरुद्गायन्ति तिसृभिर्हि साम संमितं तस्मादेकस्य बह्व्यो जाया भवन्ति नैकस्यै बहवः सह पतयो यद्वै तत्सा चामश्च समभवतां तत्साम्नः सामत्वम् ॥ [as read; garbled in places]
+
+> *ṛkca vā idamagre sāma cāstāṃ saiva nāma ṛgāsīdamo nāma sāma sā vā ṛksāmopāvadatsaha mithunaṃ saṃbhavāva prajātyā iti netyabravītsāma jyāyānvā ato mama mahimeti te dve bhūtvopāvadatāṃ tena praticana samavadate tāḥ tisro bhūtvopāvadaṃstattisṛbhiḥ samabhavatsmāttisṛbhistuvanti tisṛbhirudgāyanti tisṛbhirhi sāma saṃmitaṃ tasmādekasya bahvyo jāyā bhavanti naikasyai bahavaḥ saha patayo yadvai tatsā cāmaśca samabhavatāṃ tatsāmnaḥ sāmatvam ‖ [as read; garbled in places]*
+
+(Ai. Brā. 3-23 [?]). In the beginning the ṛk and the Sāman were together. The ṛk was in the form of a female, and the Sāman in the form of a male. Then the ṛk approached the Sāman and said, "Let both of us unite in a marital relation and bring forth progeny"; the Sāman said, "No, my greatness is more than yours." Then the ṛk, taking two forms, asked again; even then the Sāman did not agree. Taking three forms, she asked, and the Sāman agreed; since the Sāman was joined with three ṛks, they praise with three ṛks (a *tṛca*), and sing with three ṛks. Therefore, in the world too, it is established that a man has many wives, and that a woman does not have many husbands. Thus, because the ṛk and the Sāman were united — *sā* + *ama* — the name *sāma* became well known.
+
+The relation between the ṛk, which is of the nature of a hymn (*arka*), and the Sāman is described in many places as a marital relation. In the Śatapatha and other Brāhmaṇas, and in the Chāndogya and other Upaniṣads, the ṛk is indicated as the wife and the Sāman as the husband.
+
+> तद्यथा पितुः पुत्रमेवं त्रीणि प्रथमान्याहाथ कस्माद्वै कामयोः संक्रामतीति साम वा ऋचः पतिस्तद्यत्त्रापि यथा पितुः पुत्रमेवं ब्रूयाद्यथा [as read, garbled; continues on the next page]
+
+> *tadyathā pituḥ putramevaṃ trīṇi prathamānyāhātha kasmādvai kāmayoḥ saṃkrāmatīti sāma vā ṛcaḥ patistadyattrāpi yathā pituḥ putramevaṃ brūyādyathā [as read, garbled; continues on the next page]*
+
+---
+
+**Progress note:** printed p. 242 (PDF 262) done — Sūkta 173 Ṛk 1 Special Topics (continues p. 243: Brāhmaṇa quotation, rest of notes, grammar). Next: printed p. 243 (PDF 263). Open flags: Nirukta/Brāhmaṇa quotations garbled [?]; ref numerals [?]; review/doubts_v13.json.
