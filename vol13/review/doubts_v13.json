@@ -1366,5 +1366,29 @@
   ],
   "note": "Nirukta ref for quote sugaa vo devaah (12-42?)",
   "answer": ""
+ },
+ {
+  "pdf": 211,
+  "printed": 191,
+  "crop": [
+   0.1,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "quote jmayo atra vasavo rante... (7-39-3?) garbled vowels; Ni. 12-? refs",
+  "answer": ""
+ },
+ {
+  "pdf": 212,
+  "printed": 192,
+  "crop": [
+   0.62,
+   0.72,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 171 heading Sanskrit: 'prati vah shanmarutam tu chetaso.. antyaa marutvatiiyaa [?]'",
+  "answer": ""
  }
 ]
