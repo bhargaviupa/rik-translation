@@ -82,5 +82,29 @@
   ],
   "note": "Ni. 1-20 / 1-10 for parvata",
   "answer": ""
+ },
+ {
+  "pdf": 50,
+  "printed": 30,
+  "crop": [
+   0.3,
+   0.62,
+   0.4,
+   0.95
+  ],
+  "note": "refs after the 4 sucetunā citations: 1-142-11 / 1-159-3 / 5-51-11 / 5-64-3 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 47,
+  "printed": 27,
+  "crop": [
+   0.15,
+   0.35,
+   0.4,
+   0.95
+  ],
+  "note": "refs 8-20-5 and 1-37-7",
+  "answer": ""
  }
 ]

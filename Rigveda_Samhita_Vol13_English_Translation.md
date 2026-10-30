@@ -497,7 +497,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 ### Printed p. 24  (PDF 44)
 
-*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?] where small).** *taviṣībhiḥ* (root *tava*, *sautra*; *ṭiṣac* by *tavernirdvā* Uṇ. 1-[?]; *ṭit* so *ṅīp* in the feminine by *ṭiḍḍhāṇañ…* [Pā. 4-1-15]; initial acute by the suffix; instrumental plural). *avyata* (root *vī* etc.; *laṅ*/*luṅ* [?] in the present sense by *chandasi*; ātmanepada by *vyatyayo bahulam*; *śap* dropped; *jhi* → *ata*; *yaṇ*-substitution; the *aṭ* augment comes first; as it is a *yuṣmad*-connection no *nighāta*; initial acute). *evāsaḥ* (root *iṇ gatau*; *vanip* by *iṇ śībhyāṃ van* Uṇ. 1-[?]; guṇa; initial acute as *nit*; *jas*, *asuk* by *ājjaser asuk* Pā. 7-1-50). *svayatāsaḥ* (*svayaṃ yataḥ yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam*). *adhrajan* (root *dhraja gatau*; *laṅ* in the present sense by *chandasi*; 3rd plural; *nighāta* after a *tiṅanta*). *bhayante* (root *ñibhī bhaye*; ātmanepada by *vyatyaya*; *laṭ* 3rd plural; *jhoʼntaḥ* gives *ant*; *śap* → *śluk* is not applied; guṇa, *ay*-substitution; pāda-initial so no *nighāta*; *tāsyanudāttet* — the root accent remains). *viśvā, harmyā* (neuter plural: *śeśchandasi bahulam* — elision of *śi*). *citraḥ* (root *ciñ cayane*; *ktra*/*ran* by *amicimidi…* Uṇ. 4-[?]; as *kit* no guṇa; final acute by the suffix). *prayatāsu* (*gatir anantaraḥ* Pā. 6-2-49 [?]: the *kta*-ending is followed by the *gati* so the *gati* keeps its own accent; locative plural). *yāmaḥ* (root *yā prāpaṇe*; *man* by *arti-stu-…* Uṇ. 1-[?]; initial acute as *nit*). ‖ 4 ‖
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?] where small).** *taviṣībhiḥ* (root *tava*, *sautra*; *ṭiṣac* by *tavernirdvā* Uṇ. 1-[?]; *ṭit* so *ṅīp* in the feminine by *ṭiḍḍhāṇañ…* [Pā. 4-1-15]; initial acute by the suffix; instrumental plural). *avyata* (root *vī* etc.; *laṅ*/*luṅ* [?] in the present sense by *chandasi*; ātmanepada by *vyatyayo bahulam*; *śap* dropped; *jhi* → *ata*; *yaṇ*-substitution; the *aṭ* augment comes first; as it is a *yuṣmad*-connection no *nighāta*; initial acute). *evāsaḥ* (root *iṇ gatau*; *vanip* by *iṇ śībhyāṃ van* Uṇ. 1-[?]; guṇa; initial acute as *nit*; *jas*, *asuk* by *ājjaser asuk* Pā. 7-1-50). *svayatāsaḥ* (*svayaṃ yataḥ yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam*). *adhrajan* (root *dhraja gatau*; *laṅ* in the present sense by *chandasi*; 3rd plural; *nighāta* after a *tiṅanta*). *bhayante* (root *ñibhī bhaye*; ātmanepada by *vyatyaya*; *laṭ* 3rd plural; *jhoʼntaḥ* gives *ant*; *śap* → *śluk* is not applied; guṇa, *ay*-substitution; pāda-initial so no *nighāta*; *tāsyanudāttet* — the root accent remains). *viśvā, harmyā* (neuter plural: *śeśchandasi bahulam* — elision of *śi*). *citraḥ* (root *ciñ cayane*; *kra* suffix by *amicimidi…* Uṇ. 4-[?]; as *kit* no guṇa; final acute by the suffix). *prayatāsu* (*gatir anantaraḥ* Pā. 6-2-49 [?]: the *kta*-ending is followed by the *gati* so the *gati* keeps its own accent; locative plural). *yāmaḥ* (root *yā prāpaṇe*; *man* by *arti-stu-…* Uṇ. 1-[?]; initial acute as *nit*). ‖ 4 ‖
 
 #### Ṛk 5
 
@@ -543,4 +543,96 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 ---
 
-**Progress note:** printed p. 26 (PDF 46) done — Sūkta 166 Ṛk 5 in progress (Special Topics: nadayante; continues on p. 27). Next: printed p. 27 (PDF 47). Open flags: small-type reference numerals [?]; review/doubts_v13.json.
+### Printed p. 27  (PDF 47)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Special Topics (continued).**
+
+> अच्युता चिद्वो अज्मन्ना नानदति पर्वतासो वनस्पतिः । भूमिर्यामेषु रेजते ॥
+
+> *acyutā cidvo ajmannā nānadati parvatāso vanaspatiḥ | bhūmiryāmeṣu rejate ‖*
+
+(Ṛ. Saṃ. 8-20-5 [?]) — in this ṛk the very matter spoken of in the present ṛk is described; it is said here that the earth too trembles. In this matter:
+
+> नि वो यामाय मानुषो दध्र उग्राय मन्यवे । जिहीत पर्वतो गिरिः ॥
+
+> *ni vo yāmāya mānuṣo dadhra ugrāya manyave | jihīta parvato giriḥ ‖*
+
+(Ṛ. Saṃ. 1-37-7 [?]) — in this ṛk the fearful nature of the coming of the Maruts is described, as one fit to be understood.
+
+***rathīyantīva*** — like a woman seated in a chariot: when the chariot moves fast, a woman seated in the chariot is tossed here and there, or goes trembling with fear — this is the sense. This word is not used elsewhere in the Ṛgveda. The scholar Max Müller says that the meaning "a chariot or chariot-wheel moving fast" is suitable for this word.
+
+***jihīte oṣadhiḥ*** — *priyaṅguvrīhyādi pra jahīte | prakarṣeṇa gacchati svasthānāditastataś calatīty arthaḥ*. In this ṛk the word *vanaspati*, which came before, indicates large trees; the word *oṣadhi* indicates small plants such as priyaṅgu and rice, that is, crops, which do not grow tall or stout, creepers, small plants and the like. Such crops are thrown about, with the blow of the wind, as if clutched: this is the sense. In the example above, *jihīte parvato giriḥ* — "a rock-built, immovable mountain itself is moved from its place by the Maruts" — it is said that plants and the like, without the strength to stand against it, cannot hold back the rush of the Maruts: this is the main purport.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *tveṣayāmāḥ* (*tveṣaḥ yāmaḥ yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam* Pā. 6-2-1 gives the accent of the first member; nominative plural). *nadayanta* (root *ṇada avyakte śabde*; *ṇopadeśa*, *no naḥ* Pā. 6-1-65 turns the initial *ṇ* into *n*; *hetumaṇṇic* Pā. 3-1-26; no *upadhā-vṛddhi* by the statement "*saṃjñāpūrvako vidhir anityaḥ*"; *laṅ* in the present sense by *chandasi*; 3rd plural; *ātmanepada*; no *aṭ* by *bahulaṃ chandasy amāṅyoge 'pi* Pā. 6-4-75 [?]; no *nighāta* as it is connected with the sacrifice-word [*yad*]; *ṇic* accent remains).
+
+### Printed p. 28  (PDF 48)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Vyākaraṇa-prakriyā (continued, noted briefly).** *parvatān* (root *parva pūraṇe*; *atac* by *bhṛmṛdṛśi-…* Uṇ. 3-1[?]0; initial acute by the suffix). *naryāḥ* (*narebhyo hitāḥ*; *yat*; *yasyeti ca* drops the *a*; *yato 'nāvaḥ* Pā. 6-1-213 gives the initial acute). *acucyavuḥ* (root *cyu(ṅ) gatau*; *laṅ*/*luṅ* in the present sense by *chandasi* [?]; *vyatyayo bahulam* gives parasmaipada; *jhi* after *bahulaṃ chandasi* …; *śap* → *ślu*, doubling; *sico yaṅ…* [?]; *ju-sādeśa*; *aṭ* dropped; *nighāta* prevented as it is after *yad*, so the *aṭ*-augment, being acute, gives initial acute). *ajman* (root *aja gatikṣepaṇayoḥ*; *manin* by *anyebhyo 'pi dṛśyante* [?]; *valādāv ārdhadhātuke* prevents *vī*-substitution; *supāṃ sulug* gives *luk* of the locative). *bhayate* (root *ñibhī bhaye*; 3rd singular, *śap* → *śluk* does not apply by *vyatyaya*; guṇa, *ay*-substitution; *nighāta* after a *tiṅanta*). *vanaspatiḥ* (*pāraskaraprabhṛtīni ca saṃjñāyām* gives *suṭ*; *ubhe vanaspatyādiṣu* Pā. 6-2-140 gives both members their own accent). *rathīyantī* (*ratham ātmana icchati iti rathīyati*; *kyac* in the sense of desire; *īttva* by *vyatyaya*; *ṅīṣ* after the *śatṛ*; *kyac* accent remains). *jihīte* (root *ohāṅ gatau*; *juhotyādi*; *laṭ* 3rd singular; *nighāta*). ‖ 5 ‖
+
+#### Ṛk 6
+
+### Printed p. 29  (PDF 49)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)*
+
+**॥ संहितापाठः ॥**
+
+> यूयं न उग्रा मरुतः सुचेतुनारिष्टग्रामाः सुमतिं पिपर्तन ।
+> यत्रा वो दिद्युद्रदति क्रिविर्दती रिणाति पश्वः सुधितेव बर्हणा ॥ ६ ॥
+
+> *yūyaṃ na ugrā marutaḥ sucetunāriṣṭagrāmāḥ sumatiṃ pipartana |*
+> *yatrā vo didyudradati krivirdatī riṇāti paśvaḥ sudhiteva barhaṇā ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> यूयम् । नः । उग्राः । मरुतः । सुऽचेतुना । अरिष्टऽग्रामाः । सुऽमतिम् । पिपर्तन ।
+> यत्र । वः । दिद्युत् । रदति । क्रिविऽदती । रिणाति । पश्वः । सुधिताऽइव । बर्हणा ॥ ६ ॥
+
+> *yūyam | naḥ | ugrāḥ | marutaḥ | su 'cetunā | ariṣṭa 'grāmāḥ | su 'matim | pipartana |*
+> *yatra | vaḥ | didyut | radati | krivi 'datī | riṇāti | paśvaḥ | sudhitā 'iva | barhaṇā ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे उग्रा उद्गूर्णबला मरुतः यूयं सुचेतुना शोभनचेतसारिष्टग्रामा अहिंसितसंघाः सन्तो नोऽस्माकं सुमतिं शोभनबुद्धिं पिपर्तन । पूरयत । कस्मिन्काल इति तदुच्यते । यत्र यस्मिन्काले वो युष्मत्संबन्धिनी क्रिविर्दती विक्षेपणशीलदन्ती दिद्युद्द्योतना [?] रदति लिखति मेघसंस्त्यायं [?] पश्वः पशून् च रिणाति रेषति हिनस्ति । वायौ वाति सति पशवः शीर्यन्ते इति प्रसिद्धम् । हिंसायां दृष्टान्तः । सुधिता सुहिता सुष्ठु प्रेरिता बर्हणा हतिसाधना हेतिर्वा यथा रिणाति तद्वत् ॥
+
+*Gist:* O fierce Maruts, unharmed in your host, grant us good intelligence with your kind mind, at the time when your lightning with its tearing teeth rends the cloud and harms the beasts, as a well-hurled weapon does.
+
+**Pratipadārtha.** *yatra* — at what time; *vaḥ* — your; *kriviḥdatī* — [the lightning] with a tearing (rending) set of teeth; *didyut* — the weapon (lightning); *radati* — it rends the cloud-rows; (and) *sudhitā* — a well-aimed; *barhaṇā iva* — like a weapon that serves for killing; *paśvaḥ* — the beasts; *riṇāti* — it harms; (*tatra* — at that time); *ugrāḥ* — fierce; (*he*) *marutaḥ* — O Marut-gods; *yūyam* — you; *sucetunā* — with a good mind; *ariṣṭagrāmāḥ* — being groups of people unharmed; *naḥ* — to us; *sumatim* — good intelligence; *pipartana* — fulfil.
+
+### Printed p. 30  (PDF 50)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Bhāvārtha.** O Maruts, your weapon, the lightning, is a thing of tossing, hurling; it rends the line of clouds and the beasts, like a well-hurled weapon. Being thus fierce, be gracious to us, not harming us, and be possessed of good intelligence.
+
+**English Translation (as printed):** Fierce Maruts, free from malevolence in your kindly thoughts, fulfil towards us your good purposes; when your missile lightning rends (the cloud), as a well-hurled weapon wounds the deer.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***sucetunā*** — *śobhanacetasā*: "with an excellent mind", that is, with a mind of kindness. This word is used in the Ṛgveda always in the third case, and shows the kindness that deities show toward men. In contrast, the word *sumati* shows the good intelligence of men who pray to the deities. The word *sucetunā* in
+
+> स नो नेदिष्ठं ददृशान आ भराग्ने देवेभिः सचनाः सुचेतुना महो रायः सुचेतुना ।
+
+> *sa no nediṣṭhaṃ dadṛśāna ā bharāgne devebhiḥ sacanāḥ sucetunā maho rāyaḥ sucetunā |*
+
+(Ṛ. Saṃ. 1-142-11 [?]) — "O Agni, you also, together with the deities, bring much wealth to us, with the mind of kindness that you have toward us": here the word *sucetunā* is used with reference to Agni.
+
+> अस्मभ्यं द्यावापृथिवी सुचेतुना रयिं धत्तं वसुमन्तं शतग्विनम् ।
+
+> *asmabhyaṃ dyāvāpṛthivī sucetunā rayiṃ dhattaṃ vasumantaṃ śatagvinam |*
+
+(Ṛ. Saṃ. 1-159-3 [?]) — "O Heaven and Earth, with a mind of kindness give us wealth in hundreds, jewels and the like, and cattle": it is used with reference to Heaven and Earth.
+
+> स्वस्ति पूषा असुरो दधातु नः स्वस्ति द्यावापृथिवी सुचेतुना ।
+
+> *svasti pūṣā asuro dadhātu naḥ svasti dyāvāpṛthivī sucetunā |*
+
+(Ṛ. Saṃ. 5-51-11 [?]) — here too it is used with reference to Heaven and Earth.
+
+> ता बाहवा सुचेतुना प्र यन्तमस्मा अर्चते ।
+
+> *tā bāhavā sucetunā pra yantamasmā arcate |*
+
+(Ṛ. Saṃ. 5-64-3 [?])
+
+---
+
+**Progress note:** printed p. 30 (PDF 50) done — Sūkta 166 Ṛk 6 in progress (Special Topics: sucetunā; continues on p. 31). Next: printed p. 31 (PDF 51). Open flags: small-type reference numerals [?]; review/doubts_v13.json.
