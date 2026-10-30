@@ -6730,5 +6730,29 @@
   ],
   "note": "Muller quote typos benifits/cnmmentator/draw marked sic; SBE ref; Rg 5-61-6,10 refs [?]; Tandya Br. attribution [?]",
   "answer": ""
+ },
+ {
+  "pdf": 667,
+  "printed": 647,
+  "crop": [
+   0.15,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Sayana quotes as read [?]; Sa.Bha. 1-81-? ref and 74-93 range [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 668,
+  "printed": 648,
+  "crop": [
+   0.1,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br. quote with print gap; Rg 5-26-3, 8-44-11, 5-26-2 refs [?]; Sa.Br. 1-4-1-10..15 ref [?]",
+  "answer": ""
  }
 ]
