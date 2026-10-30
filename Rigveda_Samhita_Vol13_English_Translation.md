@@ -15510,4 +15510,61 @@ In this mantra the words *śucayaḥ*, *vātaraṃhasaḥ* and the like are epit
 
 ---
 
-**Progress note:** printed p. 556 (PDF 576) done — Sūkta 181 Ṛk 2: Saṃhitā…printed English, Special Topics begun (śucayaḥ, atyāḥ; continues p. 557). Next: printed p. 557 (PDF 577). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 557  (PDF 577)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 557.)*
+
+**Special Topics (continued)** — the epithets *śucayaḥ*, *divyāsaḥ*, *vītapṛṣṭhāḥ*, *svarājaḥ* and the like describe qualities that are well known for Varuṇa's horse. Moreover, according to the Nirukta sentences "*rāsabhāv aśvinoḥ*", "*ajāḥ pūṣṇaḥ*" (Ni. 2-25 [?]), the *rāsabha*s are well known as the vehicles of the Aśvin deities. The horse described in the ṛk at hand also has the other names *rāsabha* and *aja*, and there are reasons for these names. The reasons how the names *rāsabha* and *aja* came to the horse, created by Prajāpati and pervading the whole universe, are described in the Śatapatha Brāhmaṇa as follows:
+
+> अथ यदश्रु संक्षरितमासीत्तोऽश्वत्र [?] प्रभवदश्वत्पर्ण [?] वै तमश्व इत्याचक्षते परोक्षं परोक्षकामा हि देवा अथ यदरसदिव स रासभोऽभवदथ यः कपाले रसो लिप्त आसित्तोऽजोऽभवदथ यत्कपालमासीत्सा पृथिव्यभवत् ॥
+
+> *atha yadaśru saṃkṣaritamāsītto 'śvatra [?] prabhavadaśvatparṇa [?] vai tamaśva ityācakṣate parokṣaṃ parokṣakāmā hi devā atha yadarasadiva sa rāsabho 'bhavadatha yaḥ kapāle raso lipta āsitto 'jo 'bhavadatha yatkapālamāsītsā pṛthivyabhavat ‖*
+
+(Śa. Brā. 6-1-1-11 [?]; as read, doubtful in places [?]) — the deities, who love indirect speech, called the horse that pervaded the world *aśva*. When the egg split into two, the sound that came was given the name *rāsabha*. The juice smeared on the shell of the egg became the *aja*. This is the description of how Prajāpati created the horse out of Agni, who pervades the universe.
+
+The many divine qualities of every sort that are told of the horse described in the ṛk at hand are told in many places of this horse created by Prajāpati. Not only that, but the close relation between Varuṇa and the horse, and between Prajāpati and the horse, is told in many places. For example:
+
+> वारुणो वा अश्वः । तं देवतया व्यर्धयति । यत्प्राजापत्यं करोति । …. वारुणो वा अश्वः ॥
+
+> *vāruṇo vā aśvaḥ | taṃ devatayā vyardhayati | yatprājāpatyaṃ karoti | …. vāruṇo vā aśvaḥ ‖*
+
+(Tai. Brā. 3-9-6-1 [?]) — Sāyaṇa explains this sentence: "*aśvasyābhyonitvād varuṇasya cāpāṃ patitvād ayam aśvo vāruṇaḥ*" [as read [?]] — since the horse is born from the waters and Varuṇa is the lord of the waters, this horse belongs to Varuṇa. The scholar Eggeling, who has translated the Śatapatha Brāhmaṇa into English, considering what the hidden meaning of this "horse of Varuṇa" is, has said:
+
+> Varuna's horse is none other than the fiery races [sic] who pursues his diurnal course across the all-encompassing arch of heaven, the sphere of Varuna, the all-ruler. It is in the form of the horse that the Sun is thus lauded in the hymn.
+
+(S. B. E. Vol. XLIV. P. XIX–XX)
+
+### Printed p. 558  (PDF 578)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 558.)*
+
+— he says that this horse of Varuṇa, the lord of heaven and earth and everything, is none other than the Sun, who completes his daily circuit. By the epithets *śucayaḥ* and *svarājaḥ* the horses described in the ṛk at hand may be said to be of the form of the rays of the Āditya (the Sun). Since it is described in the later ṛk, that is, the ṛk 1-181-4, that one of the Aśvin deities is of the form of Sūrya, the description of the ṛk at hand is like the description of the horse that is of the form of the Āditya's rays.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***aśvāsaḥ, divyāsaḥ*** — with *jas* following, by "*ājjaser asuk*" (Pā. Sū. 7-1-50 [?]) the augment *asuk*.
+- ***payaspāḥ*** — root *pā pāne*; by "*ato manin…*" (Pā. Sū. 3-2-74 [?]) the suffix *viṭ*; the *kṛdutta* final member keeps its natural accent; by "*pāto ca bahulam*" (Pā. Sū. 8-3-53 [?]) *ṣatva*; nominative plural.
+- ***vātaraṃhasaḥ, vītapṛṣṭhāḥ*** — in the *bahuvrīhi* compound the fore-member keeps its natural accent.
+- ***svarājaḥ*** — *svayam eva rājante iti svarājaḥ*; root *rāja dīptau*; the suffix *kvip*; the *kṛdutta* final member keeps its natural accent.
+- ***vahantu*** — root *vaha prāpaṇe*; *loṭ*, third person plural; *tiṅ*-final *nighāta* accent. ‖ 2 ‖
+
+---
+
+**Sūkta 181, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> आ वां रथोऽवनिर्न प्रवत्वान्त्सृप्रवन्धुरः सुविताय गम्याः ।
+> वृष्णः स्थातारा मनसो जवीयानहंपूर्वो यजतो धिष्ण्या यः ॥ ३ ॥
+
+**Pada-pāṭha**
+
+> आ । वाम् । रथः । अवनिः । न । प्रवत्वान् । सृप्रऽवन्धुरः । सुवितायै । गम्याः ।
+> वृष्णः । स्थातारा । मनसः । जवीयान् । अहम्ऽपूर्वः । यजतः । धिष्ण्या । यः ॥ ३ ॥
+
+> *ā | vām | rathaḥ | avaniḥ | na | pravatvān | sṛpra 'vandhuraḥ | suvitāyai | gamyāḥ |*
+> *vṛṣṇaḥ | sthātārā | manasaḥ | javīyān | aham 'pūrvaḥ | yajataḥ | dhiṣṇyā | yaḥ ‖ 3 ‖*
+
+---
+
+**Progress note:** printed p. 558 (PDF 578) done — Sūkta 181 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada written. Next: printed p. 559 (PDF 579), Ṛk 3 bhāṣya. Open flags: refs [?]; ŚB 6-1-1-11 quote doubtful; review/doubts_v13.json.
