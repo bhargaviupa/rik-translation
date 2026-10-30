@@ -15341,4 +15341,62 @@ Here ends the 180th Sūkta. (*iḷḷige nūra eṃbhattaneya sūkta mugidudu.*)
 
 ---
 
-**Progress note:** printed p. 550 (PDF 570) done — Sūkta 180 complete (10 ṛks). Next: printed p. 551 (PDF 571), Sūkta 181 heading and Ṛk 1. Sūktas remaining in the volume: 181–183 (ends ~printed p. 657). Open flags: refs [?]; review/doubts_v13.json; vol13_state.md needs update.
+### Printed p. 551  (PDF 571)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 551.)*
+
+---
+
+## Sūkta 181 (the 181st Sūkta; "Nūra eṃbhattoṃdaneya sūktavu")
+
+> कदु प्रेष्ठाविति नवर्चं द्वितीयं सूक्तमागस्त्यं त्रैष्टुभमाश्विनम् । कदु नवेत्यानुक्रान्तम् ॥ प्रातरनुवाकाश्विनशस्त्रयोर्विनियोगः पूर्वसूक्त एवोक्तः ॥
+
+*Translation of the introduction:* This sūkta beginning "*kadu preṣṭhau*" is the second sūkta in the twenty-fourth Anuvāka. It has nine ṛks. Its ṛṣi is Agastya; the Aśvin deities are the deity; the metre is Triṣṭubh. The Anukramaṇikā says "*kadu nava*" (as read). The application, for the Triṣṭubh ṛks, at the time of the Prātaranuvāka mantra recital and the Aśvina-śastra, was told in the preceding sūkta itself.
+
+**Sūkta 181**
+
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 181 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 25, 26 ‖
+Number of ṛks in the Sūkta — 9 ‖
+Ṛṣi — Agastya ‖ Devatā — Aśvinau ‖ Chandas — Triṣṭubh ‖
+
+**Sūkta 181, Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> कदु प्रेष्ठाविषां रयीणामध्वर्यन्ता यदुन्निनीथो अपाम् ।
+> अयं वां यज्ञो अकृत प्रशस्तिं वसुधिती अवितारा जनानाम् ॥ १ ॥
+
+**Pada-pāṭha**
+
+> कत् । ऊँ इति । प्रेष्ठौ । इषाम् । रयीणाम् । अध्वर्यन्ता । यत् । उत्ऽनिनीथः । अपाम् ।
+> अयम् । वाम् । यज्ञः । अकृत । प्रऽशस्तिम् । वसुधिती इति वसुऽधिती । अवितारा । जनानाम् ॥ १ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ प्रेष्ठौ प्रियतमौ वां युवां कदु कदा भविष्यति इषामिष्यमाणानामन्नानां रयीणां धनानाम् ॥ कर्मणि षष्ठ्यौ ॥ अन्नानि धनानि चोन्निनीथः ऊर्ध्वं प्रापयेथः । अध्वर्यन्ताध्वरं पारयितुमिच्छन्तौ युवानुषां [?] वृष्ट्युदकानां वृष्ट्युदकानि चोन्निनीथः उत्कृष्टमुधः [?] प्रापयेथ इति यत्तत्कदा । कस्मादेवमुच्यते इति उच्यते । अयं यज्ञोऽस्माभिरनुष्ठीयमानो वां युवयोरेव प्रशस्तिं प्रशंसां स्तुतिमकृत करोति । यज्ञे शंसनीयानि शस्त्राणि युवानेव प्रशंसन्तीत्यर्थः । यस्मादेवं तस्मात् हे वसुधिती वसुनो धनस्य धातारौ वस्त्रव्य [?] कर्माणौ तथा हे जनानामवितारावुक्तलक्षणौ युवां कदान्नानां धनानां च दातारौ भवथ इति ॥ [as read; a few words doubtful [?]]
+
+*Gist:* When will the most beloved Aśvins, wishing to carry the sacrifice through, bring up food, wealth and rain for us? This sacrifice praises only them.
+
+**Pratipadārtha**
+
+(*he*) **preṣṭhau** — O most dear Aśvins; **ayam** — this (sacrifice performed by us); **yajñaḥ** — the sacrifice; **vām** — your; **praśastim** — praise; **akṛta** — makes; (therefore) **vasudhitī** — O holders of wealth; **janānām** — of the people; **avitārā** — protectors; **iṣām** — the food desired by us; **rayīṇām** — the wealth; **udninīthaḥ** — you bring up (lift upward); (**tathā** — likewise) **adhvaryantā** — desiring to carry the sacrifice to completion; **apām** — the rain-waters; **udninīthaḥ** — you bring up (the best of them); (**iti**) **yat** — this which; **tat** — that; **kadu** — when will it be?
+
+**Bhāvārtha**
+
+O dearest Aśvins, the supreme holders of wealth and protectors of all people, desirous of bringing the sacrifice to completion! When will you favour us, giving us the food, wealth and rain-water that we desire?
+
+### Printed p. 552  (PDF 572)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 552.)*
+
+**Printed English**
+
+> When, beloved (Ashwins), do you bear aloft (the materials) of food and riches, that, desirous of the sacrifice, you may send down the rain: this sacrifice offers you adoration, givers of riches, protectors of men.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***adhvaryantā*** — *adhvara* is a name of the sacrifice (*yajña*): "*dhvarati hiṃsākarmā; tatpratiṣedhaḥ*" (Ni. 1-8 [?]) — the root *dhvṛ*, which gives the sense of "injury": the word *adhvara* suggests the negation of that sense; i.e. the sacrifice which is not of the nature of violence. "*etādṛśam adhvaram pārayitum icchatām yuvām*" — "you who wish to bring to completion such a non-violent sacrifice": so this word, being an epithet of the Aśvin deities, shows their importance in carrying out the sacrifice. When the head of Viṣṇu, who is of the nature of the sacrifice, was cut off, the Aśvin deities set it right and made the sacrifice complete, as told …
+
+---
+
+**Progress note:** printed p. 552 (PDF 572) done — Sūkta 181 heading (9 ṛks, Varga 25–26) and Ṛk 1 through printed English, Special Topics begun (adhvaryantā; continues p. 553). Next: printed p. 553 (PDF 573). Open flags: refs [?]; review/doubts_v13.json.

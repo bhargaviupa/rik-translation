@@ -5554,5 +5554,29 @@
   ],
   "note": "grammar sutra numerals small; print typo 'iife' marked sic",
   "answer": ""
+ },
+ {
+  "pdf": 571,
+  "printed": 551,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "heading Varga '25, 26' as read; Anukramanika 'kadu navety anukrantam' / 'evoktah' read approx; bhashya dense (yuvanusam, vastravya)",
+  "answer": ""
+ },
+ {
+  "pdf": 572,
+  "printed": 552,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref Ni 1-8 small",
+  "answer": ""
  }
 ]
