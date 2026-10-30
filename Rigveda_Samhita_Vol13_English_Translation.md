@@ -6463,4 +6463,66 @@ In these sentences the identity of Agni and the year is first stated, and then t
 
 ---
 
-**Progress note:** printed p. 262 (PDF 282) done — Sūkta 173 Ṛk 3 complete; Ṛk 4 Saṃhitā and Pada written. Next: printed p. 263 (PDF 283), Ṛk 4 bhāṣya. Open flags: Ṛk 4 Pada word 'aṣatarā' [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 263  (PDF 283)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> ता तान्यषतराणि व्याप्ततराणि वा हवींष्यस्मा इन्द्राय तदर्थं कर्म । कुर्वन्तः संपादयन्तः । कृञश्छन्दसि वर्तमानार्थे लुङ् [?] मन्त्रे घसेति च्लेर्लुक् [?] । छन्दस्युभयथेत्यार्धधातुकत्वेन जित्वाद्गुणः [?] । च्यौत्नानि च्यावयितॄणि दृढानि स्तोत्राणि कर्माणि स्वकीयानि सामर्थ्यानि वा देवयन्तो देवानात्मन इच्छन्तो यजमानाः प्र भरन्ते । प्रकर्षेण संपादयन्ति । तद्वद्यमपि संपादयाम इत्यर्थः । दस्मवर्चाः दर्शनीयतेजाः शत्रूपक्षयणबलो वा नासत्येव नासत्याविवाश्विनाविव । तौ हि द्यावापृथिव्यात्मानौ । तावि सुग्म्यः सुगम्यः सुखेन गन्तुं शक्यो रथेष्ठाः रथे वर्तमान एवंभूतः सन् जुजोषत् । अस्मत्संबन्धि तं स्तोत्रादि कर्म सेवताम् ॥
+
+> *tā tāny aṣatarāṇi vyāptatarāṇi vā havīṃṣy asmā indrāya tadarthaṃ karma | kurvantaḥ saṃpādayantaḥ | kṛño chandasi vartamānārthe luṅ [?] mantre ghaseti ceḥ luk [?] | chandasy ubhayatheti ārdhadhātukatvena jitvād guṇaḥ [?] | cyautnāni cyāvayitṝṇi dṛḍhāni stotrāṇi karmāṇi svakīyāni sāmarthyāni vā devayanto devān ātmana icchanto yajamānāḥ pra bharante | prakarṣeṇa saṃpādayanti | tadvad vayam api saṃpādayāma ity arthaḥ | dasmavarcāḥ darśanīyatejāḥ śatrūpakṣayaṇabalo vā nāsatyeva nāsatyāv ivāśvināv iva | tau hi dyāvāpṛthivyātmānau | tāv i sugmyaḥ sugamyaḥ sukhena gantuṃ śakyo ratheṣṭhāḥ rathe vartamāna evaṃbhūtaḥ san jujoṣat | asmatsaṃbandhi taṃ stotrādi karma sevatām ‖* [?]
+
+*Gist:* Doing for Indra those most abundant oblations, the sacrificers, desiring the gods, bring firm praises and acts; may Indra, of beautiful lustre, easy to approach, in his car like the Aśvins, accept them.
+
+**Pratipadārtha (Kannada, translated)**
+
+*aṣatarā* — abundantly flowing (pervading); *tā* — those oblations; *asmai* — for this Indra; *karma* — by action (accomplishing); *devayantaḥ* — the sacrificers who desire the gods (their favour); *cyautnāni* — firm praise-form actions; *pra bharante* — (the sacrificers) abundantly accomplish; *dasmavarcāḥ* — one of beautiful lustre, or of strength that destroys enemies; *nāsatyā iva* — like the Aśvins; *sugmyaḥ indraḥ* — Indra, easy in his going; *ratheṣṭhāḥ* — seated in his car; *jujoṣat* — may he accept (our praises etc.).
+
+**Bhāvārtha**
+
+The sacrificers, desiring the favour of the gods, perform praises and other acts in abundance. We too, in the same way, accomplish oblations that flow abundantly, etc. May Indra, beautiful to behold and easy of access like the Aśvins, seated in his car, accept our praises and so on.
+
+**Printed English**
+
+We offer to him (Indra), the most pious (oblations): the worshippers of the gods present to him substantial (adorations): may he, of conspicuous lustre, standing in his car, and light-moving like the Ashwins, be gratified (by our worship).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***aṣatarā asmai karma — aṣatarāṇi vyāptatarāṇi vā havīṃṣi indrāya saṃpādayāmaḥ*** — the sacrificers who perform sacrifice, in the sacrifice directed to Indra, for the satisfaction of Indra,
+
+### Printed p. 264  (PDF 284)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+prepare abundant oblations, or oblations that extend over a long time: so the meaning is given.
+
+***cyautnāni devayantaḥ prabharante — dṛḍhāni stotrāṇi karmāṇi sāmarthyāni vā devān ātmana icchanto yajamānāḥ prakarṣeṇa saṃpādayanti*** — The word *cyautna* is read among the names of strength (Ni. 2-9 [?]). It may mean actions by which enemies are driven from their places (made to flee); or, since it causes the deities, who listen to the praises recited by the sacrificers, to come to the sacrificer's presence, the Sāyaṇa explanation gives two meanings of *cyautnāni*: "actions" or "hymns". Sacrificers who wish to obtain the attention of the deities by offering oblations in sacrifices dedicated to them perform their acts according to their capacity and please the deities with praises: this meaning is given.
+
+The Nirukta-writers read *cyautna* among the names of strength: *ojaḥ*, *pājaḥ* and so on (Ni. 2-9 [?]).
+
+> तव च्यौत्नानि वज्रहस्त तानि नव यत्पुरो नवतिं च सद्यः ।
+
+> *tava cyautnāni vajrahasta tāni nava yat puro navatiṃ ca sadyaḥ |*
+
+(Ṛ. Saṃ. 8-… [?]) — in such ṛks the word is used as a synonym of *bala* (strength). And
+
+> तमिच्च्यौत्नैरार्यन्ति तं कृतेभिश्चर्षणीयः । एष इन्द्रो वरिवस्कृत् ।
+
+> *tam ic cyautnair āryanti taṃ kṛtebhiś carṣaṇīyaḥ | eṣa indro varivaskṛt |* [as read: [?]]
+
+(Ṛ. Saṃ. 8-… [?]) — in such places it is "praise endowed with strength"; and
+
+> स यो न मुहे न एथू जनो भूत्स्नमन्तु नामा चुमुरिं धुनिं च । वृणक्पिप्रुं शम्बरं शुष्णमिन्द्रः पुरां च्यौत्नाय शयथाय नू चित् ॥
+
+> *sa yo na muhe na ethū jano bhūtsnam antu nāmā cumuriṃ dhuniṃ ca | vṛṇak pipruṃ śambaraṃ śuṣṇam indraḥ purāṃ cyautnāya śayathāya nū cit ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 6-18-8 [?]) — in such ṛks it means "that which is the means of destruction, being endowed with strength"; the meaning is to be taken according to the respective contexts. This word is formed from the root *cyu* ("to fall, to shake": one who causes to fall or to tremble).
+
+***dasmavarcāḥ — darśanīyatejāḥ śatrūpakṣayaṇabalo vā*** — the word *varcas* is read among the names of food (Ni. 3-9 [?]). Sāyaṇa explains that it is used in the sense of "radiance" or "strength"; the meaning given is that Indra is of lustre worthy of being seen from all sides and has strength that destroys enemies.
+
+The word *dasma* has two kinds of meaning: one "destroyer of enemies", the other "of beautiful form". If it is formed from the root *dasi darśanadaṃśanayoḥ* ("to see, to bite"), then it means *darśanīyaḥ* "beautiful (to behold)"; if from the root *dasu upakṣaye* ("to waste, to destroy"), it means "destroyer of enemies" — [continues on p. 265].
+
+---
+
+**Progress note:** printed p. 264 (PDF 284) done — Sūkta 173 Ṛk 4 Special Topics (dasma continues p. 265). Next: printed p. 265 (PDF 285). Open flags: Ṛk 4 bhāṣya grammatical tail doubtful [?]; Ṛg/Nirukta refs [?]; review/doubts_v13.json.
