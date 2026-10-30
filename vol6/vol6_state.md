@@ -7,4 +7,4 @@ Status: **not started.** Folder set up Oct 30 (copy of the Vol 5 layout). **Bett
 ## To do
 1. (done) Scans in `vol6/scans/`; `cfg.py` finds them.
 2. (page map partly done, above) Note Sūkta start pages (62–80) here.
-3. Write `vol6_runbook.md` (model: `vol5/vol5_runbook.md`; use the Vol 5 lessons: short sessions, targeted viewing, accents required, HTML review for Pariśiṣṭa-type numeral lists), agree it with the user, then start.
+3. (draft written Oct 30, awaiting the user's agreement) `vol6_runbook.md`; original note: write (model: `vol5/vol5_runbook.md`; use the Vol 5 lessons: short sessions, targeted viewing, accents required, HTML review for Pariśiṣṭa-type numeral lists), agree it with the user, then start.
