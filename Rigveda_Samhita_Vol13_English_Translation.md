@@ -6156,4 +6156,78 @@ The word *vṛṣan* is used in many places in the sense *pumān* ("male"), "one
 
 ---
 
-**Progress note:** printed p. 252 (PDF 272) done — Sūkta 173 Ṛk 2 Special Topics (vṛṣan discussion continues p. 253). Next: printed p. 253 (PDF 273). Open flags: Ṛg refs and quotes in vṛṣan list partly doubtful [?]; review/doubts_v13.json.
+### Printed p. 253  (PDF 273)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+> वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन् ।
+
+> *vṛṣā vāṃ megho vṛṣaṇā pīpāya gor na seke manuṣo daśasyan |*
+
+(Ṛ. Saṃ. 1-181-8 [?]);
+
+> दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीररुं शूर मर्त्यं परिवृणक्षि मर्त्यम् ।
+
+> *dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cid yāvīrarum śūra martyaṃ parivṛṇakṣi martyam |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-33-3 [?]);
+
+> ता तू ते सत्या तुविनृम्ण विश्वा प्र धेनवः सिस्रते वृष्ण ऊध्नः ।
+
+> *tā tū te satyā tuvinṛmṇa viśvā pra dhenavaḥ sisrate vṛṣṇa ūdhnaḥ |*
+
+(Ṛ. Saṃ. 4-22-6 [?]).
+
+In such places *vṛṣan* is used in the sense of "sprinkler": *varṣakaḥ*, *varṣaṇaparamanaskaḥ* — one who pours down water, one who pours out desired objects. Besides this, other meanings also appear, but in many places the chief sense of the word *vṛṣṇya* is, again and again, extraordinary power, valour (*vīrya*):
+
+> आ प्यायस्व समेतु ते विश्वतः सोम वृष्ण्यम् ।
+
+> *ā pyāyasva sametu te viśvataḥ soma vṛṣṇyam |*
+
+(Ṛ. Saṃ. 1-91-16 [?]);
+
+> महाँ असि महिष वृष्ण्येभिर्धनस्पृदुग्र सहमानो अन्यान् ।
+
+> *mahāṃ asi mahiṣa vṛṣṇyebhir dhanaspṛd ugra sahamāno anyān |*
+
+(Ṛ. Saṃ. 3-46-2 [?]);
+
+> वि चर्मणीव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ण्यम् ।
+
+> *vi carmaṇīva dhiṣaṇe avartayad vaiśvānaro viśvam adhatta vṛṣṇyam |*
+
+(Ṛ. Saṃ. 6-8-3 [?]).
+
+In many such ṛks the word *vṛṣṇya* generally means strength and prowess. Moreover, as *vṛṣan* is used in many contexts as a synonym of Indra and other deities, in such places one must infer according to the context which deity is meant. For example —
+
+> अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वृषा ।
+
+> *apoṣā anasaḥ saratsampiṣṭād aha bibhyuṣī | ni yat sīṃ śiśnathad vṛṣā |*
+
+(Ṛ. Saṃ. 4-30-10 [?]) — here it can be conjectured that it is a synonym of Indra. But in many places it causes doubt as to which deity is meant. Sometimes even Sāyaṇācārya himself, as in the present ṛk, shows doubt, and his explanation of this adjective is not so conclusive.
+
+> वृषा छन्दुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति ।
+
+> *vṛṣā chandur bhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yad invati |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-55-4 [?])
+
+### Printed p. 254  (PDF 274)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+— and just as the meaning has been given in that ṛk, in the ṛk in hand, for the word *vṛṣā* he first says "*vṛṣā haviṣāṃ varṣayitā yajamānaḥ*" and then "*yadvā vṛṣā indraḥ*", leaving room for doubt. Since it is used in so many senses, the meaning that fits the idea in each context has to be taken. In describing this pregnant word, the English commentator Max Müller has written as follows of the depth of the ideas expressed by this word:
+
+> In *vṛṣan* we have one of those words which it is almost impossible to translate accurately. It occurs over and over again in the Vedic hymns and if we once know the various ideas which it either expresses or implies we have little difficulty in understanding its import in a vague and general way, though we look in vain for corresponding terms in any modern language and we shall see how difficult it would be to translate such terms without losing either the key-note that was still sounding, or the harmonies which were set vibrating by it in the minds of the poets and their listeners. [S.B.E. vol. XXXII, p. 138-139]
+
+In the ṛk at hand the word may be taken to denote either the priests of the oblations, or those possessed of valour, or those who shower desired objects — Indra and the others.
+
+***aśnaḥ mṛgo na atijuguryāt — vyāpakaḥ pānādyarthaṃ dhāvan hariṇādir iva ayam indraḥ aśanaśīlaś ca atyarthaṃ udyuṅkte havirbhakṣaṇāya*** — "*aśnaḥ*" is the word among the names read in the Nirukta (Ni. 2-... [?]). Here *vyāpakaḥ* ("pervading") is said to refer to the deer, and *aśanaśīlaḥ* ("given to eating") to Indra; the word *na* is used with two kinds of connection; so *mṛga iva indraḥ*: Indra, like a deer hastening for drink and the like (to drink water), swiftly comes and is ready to accept our oblations — thus one kind of meaning is given, with the comparison to a deer.
+
+***mṛgaḥ*** — "*mṛgo mārṣṭer gatikarmaṇaḥ*" (Ni. 1-20 [?]): from the root *mṛj*, which means going, the word is formed; "*nityaṃ hy asau gacchati*": it gives the sense that it is always moving; or "*anveṣaṇaśīlo vā*" — one who is always seeking his food; this is the sense.
+
+***yathā kṣutpipāsāditaḥ mṛgaḥ śīghram udyuṅkte tathāyam indro 'pi*** — just as a deer, suffering the pains of hunger and thirst, runs swiftly for its food and drink, so Indra comes swiftly to accept the oblations: this is how the second meaning is explained.
+
+---
+
+**Progress note:** printed p. 254 (PDF 274) done — Sūkta 173 Ṛk 2 Special Topics (mṛga discussion continues p. 255). Next: printed p. 255 (PDF 275). Open flags: Ṛg ref numerals and quoted verses [?]; review/doubts_v13.json.
