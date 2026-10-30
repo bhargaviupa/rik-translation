@@ -12697,4 +12697,77 @@ This Indra, desirous of good food, eats abundantly the oblation-food given by th
 
 ---
 
-**Progress note:** printed p. 464 (PDF 484) done — Sūkta 178 Ṛk 4: Pratipadārtha, Bhāvārtha, printed English, Special Topics (samarye, satrākaraḥ), grammar begun (evā, suśravasyā; continues p. 465). Next: printed p. 465 (PDF 485). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 465  (PDF 485)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 465; signature mark "XIII 30".)*
+
+**Vyākaraṇa-prakriyā (grammar, continued)** — noted briefly (sūtra numerals [?]):
+
+- ***prakhādaḥ*** — root *khād bhakṣaṇe*; by "*nandigrahapacādibhyo…*" (Pā. Sū. 3-1-134 [?]) the suffix *ac* in the agent; being *cit*, the final syllable is *udātta*; in the *prādi* compound the *kṛdutta* final member keeps its natural accent.
+- ***mitriṇaḥ*** — *mitram asya asti iti mitrī*; by "*ata iniṭhanau*" (Pā. Sū. 5-2-115 [?]) the suffix *ini* in the sense of possession; genitive singular; by the suffix accent the *i* is *udātta*.
+- ***samarye*** — root *mṛṅ prāṇatyāge*; by "*chandasi niṣṭarkya devahūya…*" (Pā. Sū. 3-1-123 [?], as read) the *yat*-final form is irregularly derived; in the compound the *kṛdutta* final member keeps its natural accent.
+- ***stavate*** — root *ṣṭuñ stutau*; *laṭ*, third person singular, suffix *ta*; *ṭe ēt*; the Vedic *śap* is not elided (as printed [?]); *guṇa* for the *u*, *av* substitution; being *atiṅanta*, *nighāta* accent.
+- ***vivāci*** — *vividhāḥ vāco yasmin tasmin*; by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent.
+- ***satrākaraḥ*** — root *ḍukṛñ karaṇe*; by *pacādi* (the class of words beginning with *paca*) the suffix *ac*; taking that as the cause, *guṇa* for the *ṛ*; the rest is a genitive compound; the *kṛdutta* final member keeps its natural accent. ‖ 4 ‖
+
+---
+
+**Sūkta 178, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> त्वया वयं मघवन्निन्द्र शत्रूनभि ष्याम महतो मन्यमानान् ।
+> त्वं त्राता त्वमु नो वृधे भूर्विद्यामेषं वृजनं जीरदानुम् ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> त्वया । वयम् । मघऽवन् । इन्द्र । शत्रून् । अभि । स्याम । महतः । मन्यमानान् ।
+> त्वम् । त्राता । त्वम् । ऊँ इति । नः । वृधे । भूः । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ५ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे मघवन्धनवन्निन्द्र त्वया सहायेन वयं यजमाना महतो मन्यमानानतिबलानवध्यान्मन्यमानाञ्छत्रूनभि स्याम । अभिभवितारो भवेम । हे इन्द्र त्वं त्राता नोऽस्माकं रक्षकः । अतस्त्वमु त्वमेव नोऽस्माकं वृधे धनादिवर्धनाय भूः । भव । विद्यामेत्यादि गतम् ॥
+
+> *he maghavandhanavannindra tvayā sahāyena vayaṃ yajamānā mahato manyamānānatibalānavadhyānmanyamānāñchatrūnabhi syāma | abhibhavitāro bhavema | he indra tvaṃ trātā no 'smākaṃ rakṣakaḥ | atastvamu tvameva no 'smākaṃ vṛdhe dhanādivardhanāya bhūḥ | bhava | vidyāmetyādi gatam ‖*
+
+### Printed p. 466  (PDF 486)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 466.)*
+
+*(The bhāṣya of Ṛk 5 ends on this page, as written above: "… vidyāmety ādi gatam".)*
+
+*Gist:* With Indra's help may we overcome enemies who think themselves mighty; he is our protector; may he increase our wealth, and grant food, strength and long life.
+
+**Pratipadārtha**
+
+**maghavan** — O wealthy (Indra); (*he*) **Indra** — O Indra; **tvayā** — with you as helper; **vayam** — we, the sacrificers; **mahataḥ manyamānān** — who think themselves exceedingly strong and unassailable; **śatrūn** — the enemies; **abhi syāma** — may we overcome; (*he*) **Indra** — O Indra; **tvam** — you; **trātā** — the protector for us; (therefore) **tvam u** — you indeed; **naḥ** — for our; **vṛdhe** — increase of wealth etc.; **bhūḥ** — be; **iṣam** — food; **vṛjanam** — strength; **jīradānum** — long life; **vidyāma** — may we obtain.
+
+**Bhāvārtha**
+
+O wealthy Indra! You alone are our protector; by your aid alone have we overcome the enemies who thought themselves strong and unassailable. Grant us the increase of wealth and the like, and food, strength and long life.
+
+**Printed English**
+
+> By you, [o]pulent [first letter faint in print] Indra, may we overcome our mighty and formidable enemies: you are our protector: may you be propitious to our prosperity, that we may thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***maghavan*** — the word *magha* is included among the names of "wealth" (Ni. 3-9 [?]). The Nirukta-writers' derivation of this word is as follows:
+
+> "मघमिति धननामधेयं मंहतेर्दानकर्मणः"
+
+> *"maghamiti dhananāmadheyaṃ maṃhaterdānakarmaṇaḥ"*
+
+(Ni. 1-7 [?]) — the Nirukta-writers explain that the word *magha* is formed from the root *maṃh*, which has the sense of giving, and gives the sense "wealth"; and, citing the ṛk of the Ṛk-saṃhitā:
+
+> नूनं सा ते प्रति वरं जरित्रे दुहीयदिन्द्र दक्षिणा मघोनी ।
+> शिक्षा स्तोतृभ्यो माति धग्भगो नो बृहद्वदेम विदथे सुवीराः ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadindra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖*
+
+(Ṛ. Saṃ. 2-11-21 [?]) — they have explained the meaning of the word *maghonī*. In the same way, in the ṛk at hand, [it is] an epithet of Indra. Since he has *magha* ("wealth") in him, Indra is called *maghavā* … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 466 (PDF 486) done — Sūkta 178 Ṛk 4 complete; Ṛk 5: Saṃhitā…printed English, Special Topics begun (maghavan; continues p. 467). Next: printed p. 467 (PDF 487). Open flags: refs [?]; review/doubts_v13.json.
