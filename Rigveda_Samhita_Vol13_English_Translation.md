@@ -6288,4 +6288,64 @@ In such places *gūrta* also means "praisers" (*stotāraḥ*). In the present �
 
 ---
 
-**Progress note:** printed p. 256 (PDF 276) done — Sūkta 173 Ṛk 2 complete (Special Topics + grammar). Next: printed p. 257 (PDF 277), Sūkta 173 Ṛk 3. Open flags: Ṛg/Nirukta/sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 257  (PDF 277)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā"; signature mark "XIII 17" at foot.)*
+
+---
+
+**Sūkta 173, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> नक्षद्धोता परि सद्म मिता यन्भरद्गर्भमा शरदः पृथिव्याः ।
+> क्रन्ददश्वो नयमानो रुवद्गौरन्तर्दूतो न रोदसी चरद्वाक् ॥ ३ ॥
+
+> *nakṣad dhotā pari sadma mitā yan bharad garbham ā śaradaḥ pṛthivyāḥ |*
+> *krandad aśvo nayamāno ruvad gaur antar dūto na rodasī carad vāk ‖ 3 ‖*
+
+**Pada-pāṭha**
+
+> नक्षत् । होता । परि । सद्म । मिता । यन् । भरत् । गर्भम् । आ । शरदः । पृथिव्याः ।
+> क्रन्दत् । अश्वः । नयमानः । रुवत् । गौः । अन्तः । दूतः । न । रोदसी इति । चरत् । वाक् ॥ ३ ॥
+
+> *nakṣat | hotā | pari | sadma | mitā | yan | bharat | garbham | ā | śaradaḥ | pṛthivyāḥ |*
+> *krandat | aśvaḥ | nayamānaḥ | ruvat | gauḥ | antaḥ | dūtaḥ | na | rodasī iti | carat | vāk ‖ 3 ‖*
+
+**Sāyaṇa-bhāṣya**
+
+> होता होमनिष्पादकोऽयमग्निः मिता परिमिता सद्म सदनानि गार्हपत्यादिस्थानानि परि यन् परितो गच्छन् नक्षत् । व्याप्नोति । व्याप्य च शरदः संवत्सरसंबन्धिनं पृथिव्या भूमव्याश्च संबन्धिनं गर्भं गर्भस्थानीयमन्नं हविर्लक्षणमा भरत् । आहरति । स्वीकरोति । संभरति वा । संवत्सरपर्यन्तं वर्धितं भूम्या मुत्पन्नमित्यर्थः । यद्वा । संवत्सरसंबन्धिनं वसन्तादिकाले ज्योतिष्टोमादिषु दीयमानं पार्थिवं हविर्भरत् । वसन्ते वसन्ते ज्योतिषा यजेतेति श्रुतेः । तथा कृत्वा क्रन्दत् अश्वः । लुप्तोपमम् एतत् । अश्व इव क्रन्दति हर्षातिशयात् । किं कुर्वन् । नयमानो नयदिन्द्रायु हविर्भारं । किंच गौर्गन्तोद्वृत्तो वृष इव रुवत् । रौति । शब्दायते । किं कुर्वन् । दूतो न वार्ताहरो दूत इव रोदसी रोदस्योर्द्यावापृथिव्योरन्तर्मध्ये रोदस्योरन्तरावाक् स्तूयमानः स्तुवन् वा देवांश्चरत् । चरति । गच्छति । हविःस्वीकाराय पृथिवीं तत्प्राणाय द्युलोकं च परिभ्रमतीत्यर्थः ॥ वक्तेः कर्तरि कर्मणि वा क्विब्बचेत्यादिना क्विब्दीर्घः संप्रसारणाभावश्च ॥ [as read; doubtful in places: [?]]
+
+> *hotā homaniṣpādako 'yam agniḥ mitā parimitā sadma sadanāni gārhapatyādisthānāni pari yan parito gacchan nakṣat | vyāpnoti | vyāpya ca śaradaḥ saṃvatsarasaṃbandhinaṃ pṛthivyā bhūmavyāś ca saṃbandhinaṃ garbhaṃ garbhasthānīyam annaṃ havirlakṣaṇam ā bharat | āharati | svīkaroti | saṃbharati vā | saṃvatsaraparyantaṃ vardhitaṃ bhūmyā mutpannam ity arthaḥ | yadvā | saṃvatsarasaṃbandhinaṃ vasantādikāle jyotiṣṭomādiṣu dīyamānaṃ pārthivaṃ havir bharat | vasante vasante jyotiṣā yajeteti śruteḥ | tathā kṛtvā krandat aśvaḥ | luptopamam etat | aśva iva krandati harṣātiśayāt | kiṃ kurvan | nayamāno nayad indrāyu havirbhāraṃ | kiṃca gaur gantodvṛtto vṛṣa iva ruvat | rauti | śabdāyate | kiṃ kurvan | dūto na vārtāharo dūta iva rodasī rodasyor dyāvāpṛthivyor antar madhye rodasyor antarāvāk stūyamānaḥ stuvan vā devāṃś carat | carati | gacchati | haviḥsvīkārāya pṛthivīṃ tatprāṇāya dyulokaṃ ca paribhramatīty arthaḥ ‖ vakteḥ kartari karmaṇi vā kvib bacetyādinā kvib dīrghaḥ saṃprasāraṇābhāvaś ca ‖* [?]
+
+*Gist:* Agni, the *hotṛ*, going round the measured stations (Gārhapatya etc.), accepts the oblation, the "embryo" of the year and of the earth; he neighs like a horse, bellows like a bull, and goes as a messenger between heaven and earth.
+
+**Pratipadārtha (Kannada, translated)**
+
+*hotā* — Agni, the accomplisher of offering into the fire; *mitā* — the measured; *sadma* — the Gārhapatya and other stations; *pari yan* — moving about on all sides; *nakṣat* — pervades (then); *śaradaḥ* — pertaining to the year (up to the year's end); *pṛthivyāḥ* — pertaining to the earth (that arose on the earth); *garbham* — the oblation that is like the earth's embryo; *ā bharat* —
+
+### Printed p. 258  (PDF 278)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+accepts (brings about); [or *śaradaḥ* — belonging to the year, offered in the Jyotiṣṭoma and other sacrifices performed in the spring and other seasons; *pṛthivyāḥ garbham* — the oblation arisen as the embryo of the earth; *ā bharat* — accepts] (receives); *nayamānaḥ* — (carrying oblations to Indra and the others); *aśvaḥ krandat* — neighs (with joy) like a horse (and); *dūtaḥ na* — like a messenger who brings news; *rodasī antaḥ* — between heaven and earth; *vāk* — being praised (praising the gods); *carat* — moving about; *gauḥ* — like a bull; *ruvat* — makes a noise.
+
+**Bhāvārtha**
+
+Agni, the accomplisher of the *homa*, pervades the Gārhapatya and other measured stations, and accepts the oblation, in the form of food, which is the earth's embryo, offered in the Jyotiṣṭoma and the others; then, carrying it to Indra and the others, he neighs with joy like a horse, and, as a messenger who brings news to the gods, moving between heaven and earth, he bellows like a bull.
+
+**Printed English**
+
+The invoker (of the gods, Agni), pervades the measured stations (of the altars), and accepts that (oblation), which is the germ of the year and of the earth; as a horse neighs when bringing (the offering to Indra), as a bull bellows like a messenger proclaiming (his message) between heaven and earth.
+
+*(The printed English reads "between and earth" at the line-break — "between heaven and earth" is meant; as printed: "between and earth" [sic].)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***hotā — homaniṣpādako 'yam agniḥ*** — Although the word *hotṛ* generally designates the priest who invites the deities to receive the oblations, here it is explained to mean Agni, who invites the deities to come and receive the oblations offered by the sacrificers, offers them, and performs the sacrifice. This meaning is chiefly used with respect to Agni.
+
+Besides, *homaniṣpādakam āhvātāraṃ vā*: the one who accomplishes the *homa* by offering oblations, or the one who calls the deities: thus two kinds of action belong to the *hotṛ*; so the meanings of the word *hotṛ* have been stated. This very intention is explained in the Aitareya Brāhmaṇa in the form of a discussion (*carcā*); it shows the position of the *hotṛ* in the sacrifice [the passage continues on p. 259].
+
+---
+
+**Progress note:** printed p. 258 (PDF 278) done — Sūkta 173 Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (hotṛ; continues p. 259). Next: printed p. 259 (PDF 279). Open flags: Ṛk 3 bhāṣya partly doubtful [?]; review/doubts_v13.json.
