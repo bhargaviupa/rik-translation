@@ -7,6 +7,7 @@ Glyphs: loop-footed 2 = ೨, flat-footed (ఒ-like) = ೭; ಲ/ಅ-like = ೮; �
 Done through: p. 635 (check pages: p626-629, p630-631, p632-635).
 Next page: p. 636 (PDF 652).
 Open items:
+- p. 634: 9-66-16 and 17 [?] (last number unsure); p. 635: print has "೯-೮೭-೯-೯;೯೬-೨" written 9-87-9; 9-96-2 [?]; p. 635 weapons printed "(೯; ೯೬-೧೬)" written 9-96-16.
 - Workflow: refs_w5d.py PAGE (list); parens_w5d.py PDF PREFIX 550 (montage); ltile_w5c.py PDF OUT A B 200 1 (strips for structure: the file often has a ref missing/extra vs the print); z_w5d.sh PDF "line:f0:f1" 500 (fractions); apply with refs_w5d.py PAGE apply MAP.json (+ "_text"); log lines prefixed with two spaces, added/merged refs written by hand.
 - Check pages for pp. 626-631 need PDF overrides: /tmp wrapper patched SECT with {626:646,...,631:643}; from p. 632 the plain build_verify_v5.py works.
 - p. 630: Kā. Śrau. Sū. 9-5-12 [?]; 9-7-4 [?] (last digits unsure); p. 631: Vai. Saṃ. 16-9 [?] (16-9 or 1-6-9).
