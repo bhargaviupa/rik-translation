@@ -3874,5 +3874,29 @@
   ],
   "note": "Rg refs 4-4-3, 7-61-3 small; quotes approx",
   "answer": ""
+ },
+ {
+  "pdf": 431,
+  "printed": 411,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya: 'ayam sarvanudattah sarvasabdaparyayah / ayasvan sarvan' phrase read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 431,
+  "printed": 411,
+  "crop": [
+   0.1,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals (3-2-61, 8-2-32, 8-2-37, 5-1-66, 6-4-36, 6-4-22) small type",
+  "answer": ""
  }
 ]

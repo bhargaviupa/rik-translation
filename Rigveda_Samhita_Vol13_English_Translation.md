@@ -10948,4 +10948,72 @@ In the first meaning mentioned above, the word is used where the object that com
 
 ---
 
-**Progress note:** printed p. 410 (PDF 430) done — Sūkta 176 Ṛk 3 Special Topics (pañcajanāḥ, spaś) and grammar begun (continues p. 411). Next: printed p. 411 (PDF 431). Open flags: Bṛhaddevatā ref numerals [?]; Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 411  (PDF 431)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+- ***asmadhruk*** — root *druha jighāṃsāyām*; by "*satsūdviṣa*…" (Pā. Sū. 3-2-61 [?]) the suffix *kvip*; by "*dādeḥ dhātor ghaḥ*" (Pā. Sū. 8-2-32 [?]), when *su* follows, the *h* becomes *gh*; by "*ekāco baśo bhaṣ*…" (Pā. Sū. 8-2-37 [?]) the initial *d* becomes *dh*; at the end of the word *jaśtva*, *cartva*; the *kṛdutta* final member keeps its natural accent.
+- ***divyā*** — *divi bhavā divyā*; by "*daṇḍādibhyo yaḥ*" (Pā. Sū. 5-1-66 [?]) the suffix *ya*; by the suffix accent the end syllable is *udātta*; in the feminine, since it ends in *a*, *ṭāp*.
+- ***jahi*** — root *hana hiṃsāgatyoḥ*; *loṭ*, second person singular; *hi* for *sip*; by "*hanter jaḥ*" (Pā. Sū. 6-4-36 [?]) *ja* for the root; by "*asiddhavat atrābhāt*" (Pā. Sū. 6-4-22 [?]) this is treated as not yet effected, so by "*ato heḥ*" the dropping of *hi* does not occur here; *nighāta* for a *tiṅ*. ‖ 3 ‖
+
+---
+
+**Sūkta 176, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> असुन्वन्तं समं जहि दूणाशं यो न ते मयः ।
+> अस्मभ्यमस्य वेदनं दद्धि सूरिश्चिदोहते ॥ ४ ॥
+
+> *asunvantaṃ samaṃ jahi dūṇāśaṃ yo na te mayaḥ |*
+> *asmabhyam asya vedanaṃ daddhi sūriś cid ohate ‖ 4 ‖*
+
+**Pada-pāṭha**
+
+> असुन्वन्तम् । समम् । जहि । दुःऽनशम् । यः । न । ते । मयः ।
+> अस्मभ्यम् । अस्य । वेदनम् । दद्धि । सूरिः । चित् । ओहते ॥ ४ ॥
+
+> *asunvantam | samam | jahi | duḥ-naśam | yaḥ | na | te | mayaḥ |*
+> *asmabhyam | asya | vedanam | daddhi | sūriḥ | cit | ohate ‖ 4 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र असुन्वन्तं सोमाभिषवमकुर्वाणं । त्वामयजन्तमित्यर्थः । दूणाशं दुःखेन नाशनीयं समुं । अयं सर्वानुदात्तः सर्वशब्दपर्यायः [?] । अयस्वान् सर्वान् । यद्वा । समुमेकोद्योगेनाविशेषेण वा जहि । तेन किमुपराद्धमिति अत आह । यस्ते तव मयः । मय इति सुखनाम । तव सुखहेतुर्न भवति । यो होमेन स्तुत्या वा न प्रीणाति तं जहि । किंचास्य वेदनं धनमस्मभ्यं दद्धि । देहि ॥ दद दान इत्यस्माद्व्यत्ययेन परस्मैपदं । छान्दसः शपो लुक् ॥ सूरिश्चिदोहते । चिदेवार्थे । सूरिस्त्वत्स्तोतैवोहते । वहति । प्राप्नोति धनं ॥ [?]
+
+> *he indra asunvantaṃ somābhiṣavam akurvāṇaṃ | tvām ayajantam ity arthaḥ | dūṇāśaṃ duḥkhena nāśanīyaṃ samum | ayaṃ sarvānudāttaḥ sarvaśabdaparyāyaḥ [?] | ayasvān sarvān | yadvā | samum ekodyogenāviśeṣeṇa vā jahi | tena kim uparāddham iti ata āha | yas te tava mayaḥ | maya iti sukhanāma | tava sukhahetur na bhavati | yo homena stutyā vā na prīṇāti taṃ jahi | kiṃcāsya vedanaṃ dhanam asmabhyaṃ daddhi | dehi ‖ dada dāna ity asmād vyatyayena parasmaipadaṃ | chāndasaḥ śapo luk ‖ sūriś cid ohate | cid evārthe | sūris tvatstotaivohate | vahati | prāpnoti dhanaṃ ‖* [?]
+
+*Gist:* O Indra, slay all at once the one who presses no Soma for you, however hard to destroy — he who is no source of happiness to you, who pleases you neither by offering nor by praise; and give us his wealth; for it is the praiser who obtains wealth.
+
+### Printed p. 412  (PDF 432)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he indra* — O Indra); *yaḥ* — which man; *te* — to you; *mayaḥ na* — (by oblation) is not a cause of happiness; *asunvantam* — one who does not perform the Soma-pressing (who gives you no Soma-offering); *dūṇāśam* — (although) destructible only with difficulty; *samam* — all at once (such persons altogether); *jahi* — slay; (*kiñca* — and) *asya* — his; *vedanam* — wealth; *asmabhyam* — to us; *daddhi* — give; *sūriḥ cit* — your praiser indeed; *ohate* — carries off (obtains wealth).
+
+**Bhāvārtha**
+
+O Indra, whoever does not, with you in view, perform the Soma-pressing, and does not make you happy by oblations and the like — slay all such at once, and give us their wealth; for it is your praisers alone who are fit to obtain wealth.
+
+**Printed English**
+
+Slay every one who offers not libations, however difficult to be destroyed: slay every one who is no delight to you: bestow upon us his wealth, for the pious (worshipper) deserves it.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***dūṇāśam — duḥkhena nāśanīyaṃ*** — "one who can be destroyed only with difficulty" is the sense. Since the prowess of some enemies is exceedingly great, effort is needed to destroy them; to show this point the word *dūṇāśa* is used.
+
+***sūriḥ — sūrir iva stotā*** — "praiser" is the sense. Since *rebhaḥ*, *jaritā*, *kāruḥ* and so on are read among the thirteen names of praisers (*stotṛ*) (Ni. 3-16 [?]), *sūrayaḥ* means praisers, devotees who recite *stotras*. In contexts that give the meaning "wise, discriminating, intelligent" too the word *sūri* is often used. When used of sages who possess the supernatural (*alaukika*) power of vision, visual and mental, by which they grasp the true nature of the deities and the secret truths of the universe, this epithet gives a special meaning.
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः । दिवीव चक्षुराततम् ॥
+
+> *tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣur ātatam ‖*
+
+(Ṛ. Saṃ. 1-22-20 [?]).
+
+In such contexts it suggests not merely that they are praisers but the extraordinary power of vision of the sages; and it is used not only of sages but also as an epithet of Indra and the other deities.
+
+---
+
+**Progress note:** printed p. 412 (PDF 432) done — Sūkta 176 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (dūṇāśa, sūri; continues p. 413 if any, then grammar). Next: printed p. 413 (PDF 433). Open flags: Ṛk 4 bhāṣya 'sarvānudāttaḥ' sentence [?]; sūtra numerals [?]; review/doubts_v13.json.
