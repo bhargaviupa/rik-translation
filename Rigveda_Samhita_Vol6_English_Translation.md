@@ -13103,8 +13103,10 @@ yenā vṛtraṃ nir adbhyo jaghantha vajrinn ojasārcann anu svarājyam ||2||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.3**
 
-> प्रेह्यभीहि धृष्णुहि न ते वज्रो नि यंसते ।
-> इन्द्र नृम्णं हि ते शवो हनो वृत्रं जया अपोऽर्चन्ननु स्वराज्यम् ॥ ३ ॥
+*(Accents as printed, 300–500 dpi.)*
+
+> प्रेह्य॒भी॑हि धृष्णु॒हि न ते॒ वज्रो॒ नि यं॑सते ।
+> इन्द्र॑ नृ॒म्णं हि ते॒ शवो॒ हनो॑ वृ॒त्रं जया॑ अ॒पोऽर्च॒न्ननु॑ स्व॒रा॑ज्यम् ॥ ३ ॥
 
 *prehy abhīhi dhṛṣṇuhi na te vajro ni yaṃsate |
 indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam ||3||*
@@ -13197,8 +13199,10 @@ indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam |
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.4**
 
-> निरिन्द्र भूम्या अधि वृत्रं जघन्थ निर्दिवः ।
-> सृजा मरुत्वतीरव जीवधन्या इमा अपोऽर्चन्ननु स्वराज्यम् ॥ ४ ॥
+*(Accents as printed, 300–500 dpi.)*
+
+> निरि॑न्द्र॒ भूम्या॒ अधि॑ वृ॒त्रं ज॑घन्थ॒ नि॒र्दिवः ।
+> सृ॒जा म॒रुत्व॑ती॒रव॑ जी॒वध॑न्या इ॒मा अ॒पोऽर्च॒न्ननु॑ स्व॒रा॑ज्यम् ॥ ४ ॥
 
 *nir indra bhūmyā adhi vṛtraṃ jaghantha nir divaḥ |
 sṛjā marutvatīr ava jīvadhanyā imā apo 'rcann anu svarājyam ||4||*
@@ -13277,8 +13281,10 @@ sṛjā marutvatīr ava jīvadhanyā imā apo 'rcann anu svarājyam ||4||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.5**
 
-> इन्द्रो वृत्रस्य दोधतः सानुं वज्रेण हीळितः ।
-> अभिक्रम्याव जिघ्नतेऽपः सर्माय चोदयन्नर्चन्ननु स्वराज्यम् ॥ ५ ॥
+*(Accents as printed, 300–650 dpi.)*
+
+> इन्द्रो॑ वृ॒त्रस्य॒ दोध॑तः॒ सानुं॒ वज्रे॑ण हीळि॒तः ।
+> अ॒भि॒क्रम्याव॑ जिघ्नते॒ऽपः सर्मा॑य चो॒दय॒न्नर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ ५ ॥
 
 *indro vṛtrasya dodhataḥ sānuṃ vajreṇa hīḷitaḥ |
 abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
@@ -13393,8 +13399,10 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.6**
 
-> अधि सानौ नि जिघ्नते वज्रेण शतपर्वणा ।
-> मन्दान इन्द्रो अन्धसः सखिभ्यो गातुमिच्छत्यर्चन्ननु स्वराज्यम् ॥ ६ ॥
+*(Accents as printed, 300–450 dpi; in line 1 the stroke between ta and pa of śatapar° is placed on pa [accent ?])*
+
+> अधि॒ सानौ॒ नि जि॑घ्नते॒ वज्रे॑ण श॒तप॑र्वणा । [accent ?]
+> म॒न्दा॒न इन्द्रो॒ अन्ध॑सः॒ सखि॑भ्यो गा॒तुमि॑च्छ॒त्यर्च॒न्ननु॑ स्व॒रा॑ज्यम् ॥ ६ ॥
 
 *adhi sānau ni jighnate vajreṇa śataparvaṇā |
 mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
@@ -13478,8 +13486,10 @@ mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.7**
 
-> इन्द्र तुभ्यमिदद्रिवोऽनुत्तं वज्रिन्वीर्यम् ।
-> यद्ध त्यं मायिनं मृगं तमु त्वं माययावधीरर्चन्ननु स्वराज्यम् ॥ ७ ॥
+*(Accents as printed, 300–700 dpi.)*
+
+> इन्द्र॒ तुभ्य॒मिद॑द्रि॒वोऽनु॑त्तं॒ वज्रिन्वी॒र्यं॑ ।
+> यद्ध॒ त्यं मा॒यि॑नं मृ॒गं तमु॒ त्वं मा॒यया॑वधी॒रर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ ७ ॥
 
 *indra tubhyam id adrivo 'nuttaṃ vajrin vīryam |
 yad dha tyaṃ māyinaṃ mṛgaṃ tam u tvaṃ māyayā vadhīr arcann anu svarājyam ||7||*
@@ -13595,10 +13605,12 @@ In such places it is described that Indra destroyed the *māyāvin* asuras by gu
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.8**
 
-> वि ते वज्रासो अस्थिरन्नवतिं नाव्या अनु ।
-> महत्त इन्द्र वीर्यं बाह्वोस्ते बलं हितमर्चन्ननु स्वराज्यम् ॥ ८ ॥
+*(Accents as printed, 300–450 dpi. Line 1: a sign ३ (pluta) is printed after nāvyā, with both a svarita stroke above and an anudātta stroke below it; it is not in the Pada text — recorded as printed [accent ?])*
 
-*vi te vajrāso asthiran navatiṃ nāvyā anu |
+> वि ते॒ वज्रा॑सो अस्थिरन्नव॒तिं ना॒व्या॒३॒॑ अनु॑ ।
+> म॒हत्त॑ इन्द्र वी॒र्यं॑ बा॒ह्वोस्ते॒ बलं॑ हि॒तमर्च॒न्ननु॑ स्व॒रा॑ज्यम् ॥ ८ ॥
+
+*vi te vajrāso asthiran navatiṃ nāvyā 3 anu |
 mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
@@ -13701,8 +13713,10 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.9**
 
-> सहस्रं साकमर्चत परि ष्टोभत विंशतिः ।
-> शतैनमन्वनोनवुरिन्द्राय ब्रह्मोद्यतमर्चन्ननु स्वराज्यम् ॥ ९ ॥
+*(Accents as printed, 300–450 dpi; strokes are faint here — in line 2 the anudātta after udya° lies between ta and ma [accent ?])*
+
+> स॒हस्रं॑ सा॒कम॑र्चत॒ परि॑ ष्टोभत विंश॒तिः ।
+> श॒तैन॒मन्व॑नोनवु॒रिन्द्रा॑य॒ ब्रह्मोद्य॑त॒मर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ ९ ॥ [accent ?]
 
 *sahasraṃ sākam arcata pari ṣṭobhata viṃśatiḥ |
 śatainam anv anonavur indrāya brahmodyatam arcann anu svarājyam ||9||*
@@ -13790,8 +13804,10 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.10**
 
-> इन्द्रो वृत्रस्य तविषीं निरहन्त्सहसा सहः ।
-> महत्तदस्य पौंस्यं वृत्रं जघन्वाँ असृजदर्चन्ननु स्वराज्यम् ॥ १० ॥
+*(Accents as printed, 300–450 dpi.)*
+
+> इन्द्रो॑ वृ॒त्रस्य॒ तवि॑षीं॒ निर॑ह॒न्त्सह॑सा॒ सहः॑ ।
+> म॒हत्तद॑स्य॒ पौंस्यं॑ वृ॒त्रं ज॑घ॒न्वाँ अ॑सृज॒दर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ १० ॥
 
 *indro vṛtrasya taviṣīṃ nir ahan sahasā sahaḥ |
 mahat tad asya pauṃsyaṃ vṛtraṃ jaghanvāṁ asṛjad arcann anu svarājyam ||10||*
@@ -13871,8 +13887,10 @@ mahat tad asya pauṃsyaṃ vṛtraṃ jaghanvāṁ asṛjad arcann anu svarājy
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.11**
 
-> इमे चित्तव मन्यवे वेपेते भियसा मही ।
-> यदिन्द्र वज्रिन्नोजसा वृत्रं मरुत्वाँ अवधीरर्चन्ननु स्वराज्यम् ॥ ११ ॥
+*(Accents as printed, 300–450 dpi.)*
+
+> इ॒मे चि॒त्तव॑ म॒न्यवे॒ वेपे॑ते भि॒यसा॑ म॒ही ।
+> यदि॑न्द्र वज्रि॒न्नोज॑सा वृ॒त्रं म॒रुत्वाँ॒ अव॑धी॒रर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ ११ ॥
 
 *ime cit tava manyave vepete bhiyasā mahī |
 yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam ||11||*
@@ -13954,8 +13972,10 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.12**
 
-> न वेपसा न तन्यतेन्द्रं वृत्रो वि बीभयत् ।
-> अभ्येनं वज्र आयसः सहस्रभृष्टिरायतार्चन्ननु स्वराज्यम् ॥ १२ ॥
+*(Accents as printed, 300–700 dpi; in line 2 the anudātta stroke under āyatā lies at the boundary of ya and tā [accent ?])*
+
+> न वेप॑सा॒ न त॑न्य॒तेन्द्रं॑ वृ॒त्रो वि बी॑भयत् ।
+> अ॒भ्ये॑नं॒ वज्र॑ आय॒सः स॒हस्र॑भृष्टिरायता॒र्च॒न्ननु॑ स्व॒रा॑ज्यम् ॥ १२ ॥ [accent ?]
 
 *na vepasā na tanyatendraṃ vṛtro vi bībhayat |
 abhy enaṃ vajra āyasaḥ sahasrabhṛṣṭir āyatārcann anu svarājyam ||12||*
@@ -14032,8 +14052,10 @@ abhy enaṃ vajra āyasaḥ sahasrabhṛṣṭir āyatārcann anu svarājyam ||1
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.13**
 
-> यद्वृत्रं तव चाशनिं वज्रेण समयोधयः ।
-> अहिमिन्द्र जिघांसतो दिवि ते बद्बधे शवोऽर्चन्ननु स्वराज्यम् ॥ १३ ॥
+*(Accents as printed, 300 dpi.)*
+
+> यद्वृ॒त्रं तव॑ चा॒शनिं॒ वज्रे॑ण स॒मयो॑धयः ।
+> अहि॑मिन्द्र॒ जिघां॑सतो दि॒वि ते॑ बद्बधे॒ शवोऽर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ १३ ॥
 
 *yad vṛtraṃ tava cāśaniṃ vajreṇa samayodhayaḥ |
 ahim indra jighāṃsato divi te badbadhe śavo 'rcann anu svarājyam ||13||*
@@ -14111,8 +14133,10 @@ ahim indra jighāṃsato divi te badbadhe śavo 'rcann anu svarājyam ||13||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.14**
 
-> अभिष्टने ते अद्रिवो यत्स्था जगच्च रेजते ।
-> त्वष्टा चित्तव मन्यव इन्द्र वेविज्यते भियार्चन्ननु स्वराज्यम् ॥ १४ ॥
+*(Accents as printed, 300–450 dpi.)*
+
+> अ॒भि॒ष्ट॒ने ते॑ अद्रिवो॒ यत्स्था जग॑च्च रेजते ।
+> त्वष्टा॑ चि॒त्तव॑ म॒न्यव॒ इन्द्र॑ वेवि॒ज्यते॑ भि॒यार्च॒न्ननु॑ स्वरा॑ज्यम् ॥ १४ ॥
 
 *abhiṣṭane te adrivo yat sthā jagac ca rejate |
 tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
@@ -14194,8 +14218,10 @@ tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.15**
 
-> नहि नु यादधीमसीन्द्रं को वीर्या परः ।
-> तस्मिन्नृम्णमुत क्रतुं देवा ओजांसि सं दधुरर्चन्ननु स्वराज्यम् ॥ १५ ॥
+*(Accents as printed, 300–600 dpi; in line 2 the stroke before jāṃsi lies on the boundary of o and jā [accent ?])*
+
+> न॒हि नु याद॑धी॒मसीन्द्रं॒ को वी॒र्या॑ प॒रः ।
+> तस्मि॑न्नृ॒म्ण॒मुत क्रतुं॑ दे॒वा ओ॑जांसि॒ सं द॑धु॒रर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ १५ ॥ [accent ?]
 
 *nahi nu yād adhīmasīndraṃ ko vīryā paraḥ |
 tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājyam ||15||*
@@ -14299,8 +14325,10 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.16** *(the last Ṛk of the sūkta)*
 
-> यामथर्वा मनुष्पिता दध्यङ् धियमत्नत ।
-> तस्मिन्ब्रह्माणि पूर्वथेन्द्र उक्था समग्मतार्चन्ननु स्वराज्यम् ॥ १६ ॥
+*(Accents as printed, 300–450 dpi; in line 2 the stroke in brahmāṇi lies between mā and ṇi [accent ?])*
+
+> यामथ॑र्वा॒ मनु॑ष्पि॒ता द॒ध्यङ् धिय॒मत्न॑त ।
+> तस्मि॒न्ब्रह्मा॑णि पूर्व॒थेन्द्र॑ उ॒क्था सम॑ग्म॒तार्च॒न्ननु॑ स्वरा॑ज्यम् ॥ १६ ॥ [accent ?]
 
 *yām atharvā manuṣ pitā dadhyaṅ dhiyam atnata |
 tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*

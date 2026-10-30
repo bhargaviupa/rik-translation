@@ -560,3 +560,4 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 516: removed [?] after pracyāvayasi and after "drive from their place" (print: sthānāt pracyāvayasi); p. 519: removed [?] after aṅganādiguṇayuktāya (print ಅಂಗನಾದಿಗುಣಯುಕ್ತಾಯ)
   p. 522: Saṃhitā 79.1 accents added (as printed; vā-ta mark [accent ?])
   p. 528: Saṃhitā 79.2 accents added as printed (marks at syllable boundaries, [accent ?]); pp. 523–527 flagged lines not yet re-viewed
+  p. 588: नाव्या अनु -> नाव्या ३ अनु (pluta ३ printed after nāvyā, Ṛk 80.8)
