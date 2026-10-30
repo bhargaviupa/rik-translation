@@ -9842,4 +9842,56 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 ---
 
-**Progress note:** printed p. 376 (PDF 396) done — Sūkta 175 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 377). Next: printed p. 377 (PDF 397). Open flags: Ṛk 4 bhāṣya partly doubtful [?]; Ṛg/sūtra refs [?]; review/doubts_v13.json.
+### Printed p. 377  (PDF 397)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *kave* — O wise Indra; *īśānaḥ* — you who are capable; *sūryam* — of the sun; *cakram* — one wheel of the chariot; *ojasā* — by your surpassing power; *muṣāya* — have carried off; (*kiñca* — and) *śuṣṇāya* — for the sake of destroying the *asura* called Śuṣṇa; *kutsam* — the cutting instrument; *vadham* — the thunderbolt; *vātasya* — (swift) of the wind's speed; *aśvaiḥ* — joined with the horses; *vaha* — carried (taken); [or *śuṣṇāya* — for the destruction of the *asura* Śuṣṇa; *vadham* — the thunderbolt; *vaha* — you carried (to slay him); *vātasya* — equal in speed to the wind; *aśvaiḥ* — joined with the horses of that Śuṣṇa (with wealth indicated by horses); *kutsam* — the sage called Kutsa (have reached).]
+
+**Bhāvārtha**
+
+O Indra, you, the capable one, by the surpassing power of your strength, took away one wheel of the Sun's chariot; and, holding the thunderbolt, you slew the *asura* called Śuṣṇa, and, becoming possessed of his wind-swift horses and his wealth, reached the sage Kutsa and gave him that wealth.
+
+**Printed English**
+
+Sage Indra, who are the lord, you have carried off by your strength one wheel of (the chariot of) the sun. Take up your bolt for the death of Shushna, and proceed with your horses, swift as the wind, to Kutsa.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***kave — krāntadarśinn indra*** — Sāyaṇa has explained the meaning of this word in this way. In some other places Sāyaṇa has explained the meaning of this word in two ways. First, citing the Śruti sentence "*yo vā anūcānās te kavayaḥ*" [as read: [?]] he says that *kavi* means a learned one who has studied the Vedas along with the Vedāṅgas; second, following the Nirukta sentence which gives *manīṣī* (Ni. 3-15 [?]), he says that the meaning "intelligent" (*medhāvin*) may be taken.
+
+> मेधावी कविः क्रान्तदर्शनो भवति कवतेर्वा ।
+
+> *medhāvī kaviḥ krāntadarśano bhavati kavater vā |*
+
+(Ni. 12-13 [?]) — thus the Nirukta-writers have given the derivation of the word *kavi*. Derived from the root *kram*, it can mean "one whose vision is beyond"; or, from the root *kūṅ* (*kuṅ śabde*), "he who is worthy to be praised, a praiser": so the Nirukta derivation shows. What is the nature of a *kavi*? To know the nature and power of a *kavi*, one must know where the word *kavi* is used in the Ṛk-saṃhitā.
+
+### Printed p. 378  (PDF 398)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used for the same sense, to point out whatever special nature the word *kavi* denotes. He who has an extraordinary, supernatural power to know all the activities of the times past, future and present is *dhīra*; he is *ṛṣi*; he too is *kavi*. One who has this power is worthy also of the creation of poetry (*kāvya*) in the form of praise. Hence the praisers too bear the names *kavi*, *rebha* and the like. In worldly literature and in works on poetics too, there are the words *kavi*, *kāvya*; the explanation there, it will be said further on in the context, is somewhat different from this. To know the true nature of the *kavi*, the Nirukta-writers —
+
+> विश्वा रूपाणि प्रति मुञ्चते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे । वि नाकमख्यत्सविता वरेण्योऽनु प्रयाणमुषसो वि राजति ॥
+
+> *viśvā rūpāṇi prati muñcate kaviḥ prāsāvīd bhadraṃ dvipade catuṣpade | vi nākam akhyat savitā vareṇyo 'nu prayāṇam uṣaso vi rājati ‖*
+
+(Ṛ. Saṃ. 5-81-2 [?]) — quoting this ṛk, explain what nature the word *kavi*, which is an epithet of Savitṛ, shows. Since Savitṛ illuminates all the forms of the universe, this epithet is given to Savitṛ, it is understood; that is, the power to hide, and make shine by his power, those parts that are hidden, covered, and not visible to the world's eye, and make them visible to the world. In this same sense the name *kavi* is also well known for the praiser who has the power of praise. This idea occurs in the Ṛk-saṃhitā:
+
+> ब्रह्मा कृणोति वरुणो गातुविदं तमीमहे । व्यूर्णोति हृदा मतिं नव्यो जायतामृतं विप्तं नो अस्य रोदसी ॥
+
+> *brahmā kṛṇoti varuṇo gātuvidaṃ tam īmahe | vyūrṇoti hṛdā matiṃ navyo jāyatām ṛtaṃ viptaṃ no asya rodasī ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-105-15 [?]) — in this ṛk, too, as in other ṛks, it is indicated: for the word *vyūrṇoti*, Sāyaṇa gives the meaning "*uccārayati*, *prakāśayati*" — "utters, reveals". The root *ūrṇuñ* (*ūrṇuñ ācchādane*) means "to cover", "to veil"; with the prefix *vi* it becomes "to uncover" — that is, the sense of removing the covering. The purport: it has the power of creation in the form of revealing a feeling hidden in the mind, and the power of showing, by revealing, a thing that is hidden: these are the special qualities of the *kavi*, or of the praiser. From this it is known that the word *kavi*, being the common quality of Savitṛ and of the praiser, is a special epithet for both. The same characteristic and the poetic character are described in the Ṛk-saṃhitā:
+
+> समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः । ऋतस्य पदं कवयो नि पान्ति गुहा नामानि दधिरे पराणि ॥
+
+> *samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ | ṛtasya padaṃ kavayo ni pānti guhā nāmāni dadhire parāṇi ‖*
+
+(Ṛ. Saṃ. 10-5-2 [?]).
+
+---
+
+**Progress note:** printed p. 378 (PDF 398) done — Sūkta 175 Ṛk 4 Pratipadārtha, Bhāvārtha, printed English, Special Topics (kavi; continues p. 379). Next: printed p. 379 (PDF 399). Open flags: Śruti/Nirukta/Ṛg refs for kavi [?]; review/doubts_v13.json.
