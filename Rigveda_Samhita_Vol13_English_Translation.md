@@ -4158,4 +4158,50 @@ The intention stated in the preceding ṛk exposes Indra's own fault (the fault 
 
 ---
 
-**Progress note:** printed p. 186 (PDF 206) done — Sūkta 170 Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya and Pratipadārtha begun (breaks off at 'te — your'). Next: printed p. 187 (PDF 207). Open flags: Ṛk 4 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 187  (PDF 207)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10".)*
+
+*(Pratipadārtha of Ṛk 4, concluded)* — *(te)* related to you; *yajñam* — the sacrifice; *tanavāvahai* — let us perform. [*tatra* — on the altar-ground; *amṛtasya* — of the oblation that accomplishes immortality; *cetanam* — make that tasting (that is, prepare the oblation); *(āvām* — the sacrificer, I, and my wife, or both of us, the priest and the sacrificer*)* ; *te* — for you; *yajñam* — the sacrifice; *tanavāvahai* — we shall perform.]
+
+**Bhāvārtha.** O priests, decorate the altar-ground, kindle the *āhavanīya* and other fires with fuel; in that fire, O Agastya, let both of us (I, Indra, and you) together perform the sacrifice which makes known the immortal [*or*: prepare, on that altar-ground, the oblations and the like that accomplish immortality; afterwards, O Indra, let both of us — Agastya and I, or I and my wife, or I and the priests — perform the sacrifice for you].
+
+**English Translation (as printed):** (Agastya),—Let the priests decorate the altar; let them kindle the fire to the east; and then let us both consummate the sacrifice, the inspirer of immortal (wisdom).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+*araṃ kṛṇvantu vediṃ, samagnim indhatāṃ puraḥ, yajñaṃ te tanavāvahai* — these sentences are, in one kind of meaning, explained as spoken by Indra to Agastya; in the second kind of explanation, it is described that the sage Agastya has said this to Indra.
+
+Indra, addressing the priests, says: ***agastyo yat aṅgīkṛtavān tasmāt vediṃ araṃ kṛṇvantu*** — "since Agastya has agreed, on hearing my words, to offer me the oblation, you adorn the sacrificial altar by sweeping (*sammārjana*) and sprinkling (*paryukṣaṇa*) and the like; and ***purastāt āhavanīyāgniṃ idhmaprakṣepeṇa prajvālayantu*** — kindle the *āhavanīya* fire in front, by putting in fuel, with the sacrifices to the gods in view, so that the fuel may be offered in the *āhavanīya* fire": thus he has spoken.
+
+***amṛtasya*** — *amaraṇalakṣaṇasya devatvasya*: the word *amṛta* is read among the names of water (Ni. 1-[?]), and among the names of gold (Ni. 1-[?]).
+
+> रुशद्वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः ।
+> समानबन्धू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥
+
+> *ruśadvatsā ruśatī śvetyāgād āraig u kṛṣṇā sadanāny asyāḥ |*
+> *samānabandhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*
+
+(Ṛ. Saṃ. 1-113-2). Here, for the word *amṛte*, "*amaraṇadharmāṇau*" — "those who are ever without death" — is explained.
+
+### Printed p. 188  (PDF 208)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+> वनस्पते रशनया नियूया पिप्यतेवयो वयुनानि विद्वान् ।
+> वहा देवत्रा दिधिषो हवींषि प्र च दातारममृतेषु वोचः ॥
+
+> *vanaspate raśanayā niyūyā pipyatevayo vayunāni vidvān |*
+> *vahā devatrā didhiṣo havīṃṣi pra ca dātāram amṛteṣu vocaḥ ‖*
+
+(Ni. 8-[?]). Here the sense "among the gods" is explained for *amṛteṣu*. It is said that the word means "those who are never subject to death and have the form of gods"; and by the sentence "*amṛtasya cetanaṃ yajñam*" the greatness of the sacrifice is described.
+
+***te*** — since this word is a pronoun, it is explained that in Indra's sentence the sacrifice belongs to the sage Agastya, and that Indra and the sage Agastya together perform the sacrifice.
+
+In the view that it is Agastya's speech to Indra, the meaning given for the word *te* is *tvadartham* — "for Indra"; "*vedyām amṛtasya tatsthāpanasya haviṣo vā cetanaṃ prajñāpanam āsādanaṃ kuruta*" — on the altar, prepare the materials and the oblations that accomplish a sacrifice which confers immortality; and "*āvāṃ patnī yajamānau adhvaryuyajamānau vā yajñaṃ tanavāvahai*" — it is explained that the wife and the sacrificer, or the *adhvaryu* and the sacrificer, together perform the sacrifice for Indra alone.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *kṛṇvantu* (root *kṛvi hiṃsākaraṇayoś ca*; *loṭ* 3rd plural, *anta*; *u*-insertion; the affix *u* in place of the *a*-final by "*dhinvikṛṇvyor a ca*", Pā. Sū. 3-1-80 [?]; since the root is *it*-marked, *num* is inserted; *nighāta*); *vedim* (root *vida jñāne*; affix *in* by an Uṇādi sūtra, "*hṛṣipiruhivṛti…*"; *guṇa* of the light penultimate by "*pugantalaghūpadhasya ca*"; first syllable acute by "*ñnityādirnityam*"; accusative singular); *indhatām* (root *ñi indhī dīptau*; *loṭ* 3rd plural; *nighāta*); *cetanam* (root *citī saṃjñāne*; affix *lyuṭ*; *ana* for *yu* by "*yuvoranākau*"; *guṇa* of the light penultimate; the syllable before the affix is acute by "*liti*", Pā. Sū. 6-1-193 [?]).
+
+---
+
+**Progress note:** printed p. 188 (PDF 208) done — Sūkta 170 Ṛk 4 through grammar (its '‖ 4 ‖' and Ṛk 5 follow on p. 189). Next: printed p. 189 (PDF 209). Open flags: small-type numerals [?]; Nirukta/Ṛg refs on p. 187–188; review/doubts_v13.json.
