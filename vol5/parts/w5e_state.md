@@ -4,8 +4,8 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: loop-footed 2 = ೨, flat-footed (ఒ-like) = ೭; ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 631 (check pages: p626-629, p630-631).
-Next page: p. 632 (PDF 648).
+Done through: p. 635 (check pages: p626-629, p630-631, p632-635).
+Next page: p. 636 (PDF 652).
 Open items:
 - Workflow: refs_w5d.py PAGE (list); parens_w5d.py PDF PREFIX 550 (montage); ltile_w5c.py PDF OUT A B 200 1 (strips for structure: the file often has a ref missing/extra vs the print); z_w5d.sh PDF "line:f0:f1" 500 (fractions); apply with refs_w5d.py PAGE apply MAP.json (+ "_text"); log lines prefixed with two spaces, added/merged refs written by hand.
 - Check pages for pp. 626-631 need PDF overrides: /tmp wrapper patched SECT with {626:646,...,631:643}; from p. 632 the plain build_verify_v5.py works.
