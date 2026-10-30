@@ -2207,4 +2207,52 @@ From the root *arc* (to worship, to honour) the word *arka* has been formed; by 
 
 ---
 
-**Progress note:** printed p. 96 (PDF 116) done — Sūkta 167 Ṛk 6 Special Topics and grammar complete up to arkaḥ (grammar continues p. 97). Next: printed p. 97 (PDF 117). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 97  (PDF 117)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Vyākaraṇa-prakriyā (continued, noted briefly; sūtra numbers [?]).** *gāyat* (root *gai śabde*; Vedic *laṅ* in the present sense; 3rd singular; *bahulaṃ chandasy amāṅyoge 'pi* Pā. 6-4-75 gives no *aṭ*; by connection with *yad* there is no *nighāta*; since *śap* is *anudātta*, the root-accent remains). *sutasomaḥ* (*sutaḥ somo yena saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* Pā. 6-2-1 gives the accent of the first member). *duvasyan* (*duvas* in the sense of service; *kaṇḍvādibhyo yak* Pā. 3-1-27 gives *yak* in the sense of the root itself; after the *yagantā* root, *laṭ* comes, for which *śatṛ* is substituted; the *yak* accent remains). ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> प्र तं विवक्मि वक्म्यो य एषां मरुतां महिमा सत्यो अस्ति ।
+> सचा यदीं वृषमना अहंयुः स्थिरा चिज्जनीर्वहते सुभागाः ॥ ७ ॥
+
+> *pra taṃ vivakmi vakmyo ya eṣāṃ marutāṃ mahimā satyo asti |*
+> *sacā yadīṃ vṛṣamanā ahaṃyuḥ sthirā cijjanīrvahate subhāgāḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । तम् । विवक्मि । वक्म्यः । यः । एषाम् । मरुताम् । महिमा । सत्यः । अस्ति ।
+> सचा । यत् । ईम् । वृषऽमनाः । अहंऽयुः । स्थिरा । चित् । जनीः । वहते । सुऽभागाः ॥ ७ ॥
+
+> *pra | tam | vivakmi | vakmyaḥ | yaḥ | eṣām | marutām | mahimā | satyaḥ | asti |*
+> *sacā | yat | īm | vṛṣa 'manāḥ | ahaṃ 'yuḥ | sthirā | cit | janīḥ | vahate | su 'bhāgāḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> एषां मरुतां यो महिमा महत्त्वातिशयो वक्म्यः सर्वैः स्तुत्यः सत्योऽबाध्योऽमोघोऽस्ति तं प्र विवक्मि प्रवच्मि । वर्णयामि । कथमेषां महिमा प्राप्त इति उच्यते । यद्यस्मादीमेतेषां सम्बन्धिनी रोदसी वृषमना वृष्ट्यादिवर्षणमनस्का अहंयुरहंकारवती । जगदुपकारकर्त्र्या न कदाचिदस्तीत्यहंकारः । स्थिरा । चित् । चिदिति पूजायाम् । अत्यन्तमविनश्वरा ईदृशी देवी सुभागाः शोभनभाग्योपेताः सुजनीर्जननशीलाः प्रजा वृष्ट्युत्पत्त्रीर्वा वहते धारयति । वृष्ट्या सत्यां सर्वे प्राणिन उत्पद्यन्ते । यस्मादेवं तस्मान्महिमास्ति । तं महिमानं स्तौमीत्यर्थः ॥ [?]
+
+> *eṣāṃ marutāṃ yo mahimā mahattvātiśayo vakmyaḥ sarvaiḥ stutyaḥ satyo 'bādhyo 'mogho 'sti taṃ pra vivakmi pravacmi | varṇayāmi | kathameṣāṃ mahimā prāpta iti ucyate | yadyasmādīmeteṣāṃ sambandhinī rodasī vṛṣamanā vṛṣṭyādivarṣaṇamanaskā ahaṃyurahaṃkāravatī | jagadupakārakartryā na kadācidastītyahaṃkāraḥ | sthirā | cit | ciditi pūjāyām | atyantamavinaśvarā īdṛśī devī subhāgāḥ śobhanabhāgyopetāḥ sujanīrjananaśīlāḥ prajā vṛṣṭyutpattrīrvā vahate dhārayati | vṛṣṭyā satyāṃ sarve prāṇina utpadyante | yasmādevaṃ tasmānmahimāsti | taṃ mahimānaṃ staumītyarthaḥ ‖ [?]*
+
+### Printed p. 98  (PDF 118)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)*
+
+*Gist:* I proclaim the great and unobstructed glory of the Maruts, which all praise, because their companion Rodasī, whose mind is on rain, proud and ever-lasting, bears fortunate, productive creatures; for all beings arise from rain.
+
+**Pratipadārtha.** *yat* — by whose (the Marut-gods') greatness; *vṛṣamanāḥ* — she whose mind is set on raining; *ahaṃyuḥ* — endowed with pride; *sthirā cit* — also eternal; *īm* — this goddess Rodasī, the lightning-deity who is the Maruts' own; *subhāgāḥ* — fortunate ones, endowed with auspicious fortune; *janīḥ* — creatures who produce [others] (or: *subhāgāḥ* — as the cause of auspicious fortune; *janīḥ* — the rain that generates); *sacā vahate* — she supports completely; *eṣām* — of such; *marutām* — Marut-gods; *yaḥ* — which; *mahimā* — greatness; *vakmyaḥ* — praised by all; *satyaḥ* — unobstructible (not in vain); *asti* — is; *tam* — that greatness; *pra vivakmi* — I describe well.
+
+**Bhāvārtha.** I describe well the great glory of the Marut-gods, true and praiseworthy: their wife called Rodasī (the lightning-deity), whose mind is on bringing rain, proud (the one who is the cause of all benefit to the world), and everlasting, by this very glory of theirs supports and protects fortunate and fertile creatures, bringing rain.
+
+**English Translation (as printed):** I celebrate that greatness of the Maruts, which is true, and worthy of celebration, inasmuch as their highminded, haughty, and ever-enduring (bride), supports a flourishing progeny.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***mahimā vakmyaḥ*** — *mahatvātiśayaḥ sarvaiḥ stutyaḥ*: the abundant greatness of these Marut-gods is worthy of being praised by all. And ***satyaḥ*** — *abādhyaḥ amoghaḥ*: since it is such that none can obstruct it and it is not in vain, "I describe this glory" — thus the seer of the mantra describes.
+
+***īṃ vṛṣamanāḥ ahaṃyuḥ janīḥ vahate*** — *etesāṃ sambandhinī rodasī vṛṣṭyādivarṣaṇamanaskā ahaṃkāravatī jagadupakārakartrī ye janaśīlāḥ prajāḥ vṛṣṭyutpattrī vā dhārayati*: the goddess connected with these Maruts (the goddess known by the name Rodasī) *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 98 (PDF 118) done — Sūkta 167 Ṛk 7: Saṃhitā to Special Topics begun (continues on p. 99). Next: printed p. 99 (PDF 119). Open flags: small-type numerals [?]; review/doubts_v13.json.
