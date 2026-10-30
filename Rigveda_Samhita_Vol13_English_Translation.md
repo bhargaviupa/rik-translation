@@ -7665,4 +7665,63 @@ As a house provided with drinking water on the well-known road (such as the wate
 
 ---
 
-**Progress note:** printed p. 302 (PDF 322) done — Sūkta 173 Ṛk 11 Special Topics, grammar begun (continues p. 303). Next: printed p. 303 (PDF 323). Open flags: Nirukta/Ṛg refs [?]; juhurāṇaḥ grammar garbled [?]; review/doubts_v13.json.
+### Printed p. 303  (PDF 323)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+**Vyākaraṇa-prakriyā (grammar)**, continued — noted briefly (sūtra numerals [?]):
+
+- ***pariyan*** — root *iṇ gatau*; *śatṛ* for *laṭ*; by "*iṇo yaṇ*" (Pā. Sū. 6-4-81 [?]) *yaṇ*; by "*gatikārakopapadāt kṛt*" (Pā. Sū. 6-2-139 [?]) the fore-member keeps its natural accent.
+- ***tīrthe*** — root *tṝ plavanataraṇayoḥ*; by "*pātṛtudi*…" (Uṇ. Sū. 2-… [?]) the suffix *thak*; by "*ṛta iddhātoḥ*" (Pā. Sū. 7-1-100 [?]) *i* comes in, and by "*hali ca*" (Pā. Sū. 8-2-77 [?]) the vowel is lengthened; the suffix accent is end-*udātta*.
+- ***accha*** — "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]): the long vowel in the Saṃhitā.
+- ***tātṛṣāṇam*** — root *ñitṛṣā pipāsāyām*; by "*liṭaḥ kānaj vā*" (Pā. Sū. 3-2-106 [?]) *kānac* for *liṭ*; on account of that the root is reduplicated; by the rule "*aṭ kupvāṅ*…" the *n* of the suffix becomes *ṇ*; in the Saṃhitā, Vedically, the reduplicative syllable takes a long vowel; being *cit*, by "*cita*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
+- ***sidhram*** — root *sidha gatyām*; by "*sphāyitañcivañci*…" (Uṇ. Sū. 2-… [?]) the suffix *rak*; being *kit*, the light-vowel guṇa does not occur; the suffix accent is end-*udātta*.
+- ***kṛṇoti*** — root *kṛvi hiṃsākaraṇayoś ca*; *laṭ*, third person singular; *nighāta* for a *tiṅ*. ‖ 11 ‖
+
+---
+
+**Sūkta 173, Ṛk 12**
+
+**Saṃhitā-pāṭha**
+
+> मो षू ण इन्द्रात्र पृत्सु देवैरस्ति हि ष्मा ते शुष्मिन्नवयाः ।
+> महश्चिद्यस्य मीळ्हुषो यव्या हविष्मतो मरुतो वन्दते गीः ॥ १२ ॥
+
+> *mo ṣū ṇa indrātra pṛtsu devair asti hi ṣmā te śuṣminn avayāḥ |*
+> *mahaś cid yasya mīḷhuṣo yavyā haviṣmato maruto vandate gīḥ ‖ 12 ‖*
+
+**Pada-pāṭha**
+
+> मो इति । सु । नः । इन्द्र । अत्र । पृत्ऽसु । देवैः । अस्ति । हि । स्म । ते । शुष्मिन् । अवऽयाः ।
+> महः । चित् । यस्य । मीळ्हुषः । यव्या । हविष्मतः । मरुतः । वन्दते । गीः ॥ १२ ॥
+
+> *mo iti | su | naḥ | indra | atra | pṛt-su | devaiḥ | asti | hi | sma | te | śuṣmin | ava-yāḥ |*
+> *mahaḥ | cit | yasya | mīḷhuṣaḥ | yavyā | haviṣmataḥ | marutaḥ | vandate | gīḥ ‖ 12 ‖*
+
+### Printed p. 304  (PDF 324)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र अत्र पृत्स्वेषूपस्थितेषु संग्रामेषु वृष्ट्यर्थं मेघजयेषु देवैर्मरुदादिभिः सह नोऽस्मान् मो षु त्यैव [?] त्याक्षीरिति शेषः । मरुत्सहितो युध्यस्वेत्यर्थः । हे शुष्मिन् बलवन्निन्द्र अस्ति हि स्म ते । अस्ति हि स्म तव खलु । तव किमस्तीति उच्यते । अवयाः अवयजनं अवयुज्य पृथक्कृत्य यजनं हविर्भागोऽस्ति । मरुद्भ्यः पृथगस्यास्ति हविर्भागः । केवलं मरुद्भ्य एव दीयते नास्मभ्यं अतः कथं योत्स्याम्यमीति न मन्तव्यमित्यर्थः । यद्वा । अवयाः शत्रूणां वर्जनायं गन्ता वज्रोऽस्ति ते । किंच हविष्मतः प्रदेयहविर्युक्तस्य मीळ्हुषो हविष्प्रदातुः । यद्वा । एतत्प्रदध्नयं [?] मरुतां विशेषणं । यस्य मम यव्या फलेनेन्द्रेण वा सह मिश्रयन्ति [?] गीः स्तुतिशस्त्रादिरूपा वाङ्महतश्चित् … मीळ्हुषः सेक्तॄन् हविष्मतो दत्तहविषा तद्वतो मरुतो वन्दते स्तौति ॥ [?]
+
+> *he indra atra pṛtsv eṣūpasthiteṣu saṃgrāmeṣu vṛṣṭyarthaṃ meghajayeṣu devair marudādibhiḥ saha no 'smān mo ṣu tyaiva [?] tyākṣīr iti śeṣaḥ | marutsahito yudhyasvety arthaḥ | he śuṣmin balavann indra asti hi sma te | asti hi sma tava khalu | tava kim astīti ucyate | avayāḥ avayajanaṃ avayujya pṛthakkṛtya yajanaṃ havirbhāgo 'sti | marudbhyaḥ pṛthag asyāsti havirbhāgaḥ | kevalaṃ marudbhya eva dīyate nāsmabhyaṃ ataḥ kathaṃ yotsyāmy amīti na mantavyam ity arthaḥ | yadvā | avayāḥ śatrūṇāṃ varjanāyaṃ gantā vajro 'sti te | kiṃca haviṣmataḥ pradeyahaviryuktasya mīḷhuṣo haviṣpradātuḥ | yadvā | etatpradhnayaṃ [?] marutāṃ viśeṣaṇaṃ | yasya mama yavyā phalenendreṇa vā saha miśrayanti [?] gīḥ stutiśastrādirūpā vāṅ mahataś cit … mīḷhuṣaḥ sektṝn haviṣmato dattahaviṣā tadvato maruto vandate stauti ‖* [?]
+
+*Gist:* O mighty Indra, do not abandon us in these battles for rain-clouds, which are fought together with the Maruts; a share of the oblation is set apart for you separately, apart from the Maruts, and your thunderbolt is ready for your enemies; and our speech praises the oblation-bearing Maruts.
+
+**Pratipadārtha (Kannada, translated)**
+
+*haviṣmataḥ* — (to you who are to be given) the one who has the oblation; *mīḷhuṣaḥ* — (to you) the giver of oblations; *yasya* — whose (our); *yavyā* — the one who has the fruit; *gīḥ* — the praise-form speech; *mahaḥ cit* — even the very great; [or *haviṣmataḥ* — (given by us) one who has the oblation; *mīḷhuṣaḥ* — the sprinklers (those who shower rain) as well;] *marutaḥ* — the Marut deities; *vandate* — praises; *naḥ* — (such) us; (*he*) *indra* — O Indra; *atra pṛtsu* — now in the battles (for the means of winning the clouds); *devaiḥ* — with the Maruts (together with them, you); *mo ṣu* — do not abandon (do not forsake); (*he*) *śuṣmin* — O mighty Indra; *te* — your; *avayāḥ* — the share of the sacrifice or the thunderbolt that destroys enemies; *asti hi sma* — is surely ready.
+
+**Bhāvārtha**
+
+The speech of ours, which has the oblation and gives the oblation, praises the exceedingly great Maruts. A share of the offering, which is fit for you, is ready (and so), O mighty Indra, do not leave us in the battles for the winning of the clouds, together with the Maruts.
+
+**Printed English**
+
+Indra, associated with the Maruts in battles (with the clouds), abandon us not; for a share of the offering is set apart, mighty one, for you, for whom, the shedder of rain and accepter of oblations, the worship is offered with oblations, whilst the hymn glorifies the Maruts. [As printed; "tLe" and "worship;" are the print's misprints: [sic].]
+
+---
+
+**Progress note:** printed p. 304 (PDF 324) done — Sūkta 173 Ṛk 11 complete; Ṛk 12: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 305 (PDF 325), Ṛk 12 Special Topics. Open flags: Ṛk 12 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
