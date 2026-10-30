@@ -12576,4 +12576,78 @@ Indra, who is a hero, who has the Maruts for companions, and who is victorious i
 
 ---
 
-**Progress note:** printed p. 460 (PDF 480) done — Sūkta 178 Ṛk 2 complete; Ṛk 3: Saṃhitā…printed English, Special Topics begun (kāroḥ; continues p. 461). Next: printed p. 461 (PDF 481). Open flags: refs [?]; bhāṣya words [?]; review/doubts_v13.json.
+### Printed p. 461  (PDF 481)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 461.)*
+
+**Special Topics (continued)**
+
+> दैव्या होतारा प्रथमा सुवाचा मिमाना यज्ञं मनुषो यजध्यै ।
+> प्रचोदयन्ता विदथेषु कारू प्राचीनं ज्योतिः प्रदिशा दिशन्ता ॥
+
+> *daivyā hotārā prathamā suvācā mimānā yajñaṃ manuṣo yajadhyai |*
+> *pracodayantā vidatheṣu kārū prācīnaṃ jyotiḥ pradiśā diśantā ‖*
+
+(Ṛ. Saṃ. 10-110-7 [?]) — in this ṛk *kartārau ṛtvijau* ("the two doers, the priests") is explained: the two persons who are the agents of the sacrificial act, i.e. the two *ṛtvij*s. The author of the Bṛhaddevatā has used this word in the sense of "poets", i.e. the ṛṣis who are the seers of sūktas, showing the sense "makers of praise".
+
+> अग्नेस्तु योनि [?] सूक्तानि पञ्च सामानि कारवः ।
+> षड्विंशतिस्तथेन्द्रस्य प्राहुः सूर्यस्य सप्त च ॥
+
+> *agnestu yoni [?] sūktāni pañca sāmāni kāravaḥ |*
+> *ṣaḍviṃśatistathendrasya prāhuḥ sūryasya sapta ca ‖*
+
+(Bṛ. De. 2-22 [?])
+
+> पृथक्त्वेन समासैस्तु यज्ञे यच्चैस्यते [?] नृभिः ।
+> स्तुवन्त्याप्रीषु तेनेमं नराशंसं तु कारवः ॥
+
+> *pṛthaktvena samāsaistu yajñe yaccaisyate [?] nṛbhiḥ |*
+> *stuvantyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*
+
+(Bṛ. De. 2-27 [?]) — in such sentences it is said that the *kāru*s sing praise, and this is explained as a synonym of "poet". In the Ṛk-saṃhitā also:
+
+> प्रदक्षिणिदभि [?] गृणन्ति कारवो वयो वदन्त ऋतुथा शकुन्तयः ।
+> उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति ॥
+
+> *pradakṣiṇidabhi [?] gṛṇanti kāravo vayo vadanta ṛtuthā śakuntayaḥ |*
+> *ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati ‖*
+
+(Ṛ. Saṃ. 2-43-1 [?]) — in these and other ṛks the sense is *stotāraḥ* ("praisers"). In the ṛk at hand too the meaning is the poets (ṛṣis) who are the makers of the praise.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***jetā*** — root *ji jaye*; the suffix *tṛn* in the agent; taking that as the cause, *guṇa* for the *i* of the root; by "*ñnityādir nityam*" the *ādyudātta* accent. In combination with this and the next three *tṛnanta* words, although by "*kartṛkarmaṇoḥ kṛti*" (Pā. Sū. 2-3-65 [?]) the genitive would arise for the object, by "*na lokāvyayaniṣṭhākhalarthatṛnām*" (Pā. Sū. 2-3-69 [?]) the prohibition applies, so the genitive does not occur.
+- ***pṛtsu*** — the word *pṛtanā*; when the locative plural follows, by the *vārttika* "*māṃsapṛtanāsānūnāṃ māṃspṛtsnūvo śasādau vā vācyaḥ*" the substitution *pṛt*. By "*ūḍidaṃpadādi…*" (Pā. Sū. 6-1-171 [?]) the case-ending takes the *udātta* accent.
+- ***nādhamānasya*** — root *nādhṛ yācñāyām*; *śānac* for *laṭ*; *śap* as the *vikaraṇa*; by "*ānemuk*" (Pā. Sū. 7-2-82 [?]) the augment *muk*; by "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) the *lasārvadhātuka* is *anudātta*, so the root accent remains.
+
+### Printed p. 462  (PDF 482)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 462.)*
+
+- ***dāśuṣaḥ*** — root *dāś dāne*; by "*dāśvān sāhvān…*" (Pā. Sū. 6-1-12 [?]) the *kvasu*-final form is irregularly derived; the genitive singular following, since it has the name *bha*, *saṃprasāraṇa* occurs, with the earlier form; by the suffix accent the middle syllable is *udātta*.
+- ***prabhartā*** — root *bhṛñ bharaṇe*; the suffix *tṛn* in the agent; *guṇa* for the root vowel; *raparatva*; by "*tāda ca niti kṛtyatau*" (Pā. Sū. 6-2-50 [?]) the *gati* (*pra*) keeps its natural accent.
+- ***tmanā*** — from the form *ātmanā*; by "*mantreṣv āṅy ādeḥ ātmanaḥ*" (Pā. Sū. 6-4-141 [?]) elision of the initial *a*. ‖ 3 ‖
+
+---
+
+**Sūkta 178, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> एवा नृभिरिन्द्रः सुश्रवस्या प्रखादः पृक्षो अभि मित्रिणो भूत् ।
+> समर्य इषः स्तवते विवाचि सत्राकरो यजमानस्य शंसः ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> एव । नृऽभिः । इन्द्रः । सुऽश्रवस्या । प्रऽखादः । पृक्षः । अभि । मित्रिणः । भूत् ।
+> सऽमर्ये । इषः । स्तवते । विऽवाचि । सत्राऽकरः । यजमानस्य । शंसः ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अयमिन्द्रो नृभिः कर्मनिर्वाहकैर्यजमानैर्दत्तं पृक्षो हविर्लक्षणमन्नं सुश्रवस्या शोभनान्नेच्छयोऽन्नेच्छुर्वा प्रखादः प्रकर्षेण खादिता एवमेवैवमेव [?] पूर्वं यथा तथैव मित्रिणः सहायवतोऽपि यजमानस्य शत्रूनभि भूत् । अभिभवति । यद्वा । नृभिर्ऋत्विग्भिर्मरुद्भिः सहितोऽयमिन्द्रः सुश्रवस्या प्रखादः सन्नेवमेव मित्रिण ऋत्विग्मरुन्मित्रवतो यजमानस्यार्थे तदभिमतायाभि भूत् । अभिमुखेन वा भवति । तस्य हविः स्वीकृत्य तदभिमतायाभिभवतीत्यर्थः । अथ तथाभूतः सन् विवाचि विविधपरस्परा [?] आह्वानध्वनियुक्ते समर्ये संग्रामे विविधस्तोत्रशस्त्रध्वनियुक्ते समर्ये मर्त्ययुक्ते यज्ञे वा तन्मित्रं यजमानस्य शंसः शंसकः सन् सत्राकरः फलानां सत्यकार्ययमिन्द्र [?] इषो हविर्लक्षणमन्नं स्तवते । स्तौति ॥ [as read; the middle of the passage is doubtful [?]]
+
+> *ayamindro nṛbhiḥ karmanirvāhakairyajamānairdattaṃ pṛkṣo havirlakṣaṇamannaṃ suśravasyā śobhanānnecchayo 'nnecchurvā prakhādaḥ prakarṣeṇa khāditā evamevaivameva [?] pūrvaṃ yathā tathaiva mitriṇaḥ sahāyavato 'pi yajamānasya śatrūnabhi bhūt | abhibhavati | yadvā | nṛbhirṛtvigbhirmarudbhiḥ sahito 'yamindraḥ suśravasyā prakhādaḥ sannevameva mitriṇa ṛtvigmarunmitravato yajamānasyārthe tadabhimatāyābhi bhūt | abhimukhena vā bhavati | tasya haviḥ svīkṛtya tadabhimatāyābhibhavatītyarthaḥ | atha tathābhūtaḥ san vivāci vividhaparasparā [?] āhvānadhvaniyukte samarye saṃgrāme vividhastotraśastradhvaniyukte samarye martyayukte yajñe vā tanmitraṃ yajamānasya śaṃsaḥ śaṃsakaḥ san satrākaraḥ phalānāṃ satyakāryayamindra [?] iṣo havirlakṣaṇamannaṃ stavate | stauti ‖ [as read; the middle of the passage is doubtful [?]]*
+
+---
+
+**Progress note:** printed p. 462 (PDF 482) done — Sūkta 178 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya written. Next: printed p. 463 (PDF 483), Ṛk 4 Pratipadārtha. Open flags: refs [?]; bhāṣya p.462 words [?]; review/doubts_v13.json.
