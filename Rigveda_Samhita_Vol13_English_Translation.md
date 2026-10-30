@@ -10418,4 +10418,77 @@ in these and other places the greatness of the *nivid* mantras is praised.
 
 ---
 
-**Progress note:** printed p. 394 (PDF 414) done — Sūkta 175 Ṛk 6 Special Topics (nivid; continues p. 395). Next: printed p. 395 (PDF 415). Open flags: Ai. Brā. nivid passages garbled [?]; Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 395  (PDF 415)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+In the ṛk at hand (1-175-6 [?]) the *nivid* mantras addressed to Indra are indicated by the sentence *tām anu tvā nividaṃ johavīmi*. There is also a slight difference of opinion in determining which sūktas are accompanied by *nivid* mantras addressed to the deity Indra. For example —
+
+> जनिष्ठा उग्रः सहसे तुराय निविद्धानमेकाहिकम् ।
+
+> *janiṣṭhā ugraḥ sahase turāya nividdhānam ekāhikam |* [as read; reading of the second half doubtful: [?]]
+
+(Ai. [?] 1-2-2 [?]). The Aitareya Brāhmaṇa says that the sūkta Ṛ. Saṃ. 10-73 [?], beginning with the ṛk *janiṣṭhā ugraḥ*, goes with *nivid* mantras. But in the Śāṅkhāyana Āraṇyaka (1-3 [?]) it is said that the sūkta Ṛ. Saṃ. 6-19 [?], beginning with the ṛk *mahāṃ indro nṛvad*, goes with these mantras. Thus the seer of the sūkta, in the ṛk at hand, has made known his resolve: "I will praise Indra with *nivid* mantras that praise Indra's nature, his prowess and his distinctive excellence."
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***jaritṛbhyaḥ*** — root *jṝṣ vayohānau*; here used in the sense of praising; in the agent sense the suffix *tṛc*; augment *iṭ*; guṇa for the *ṛ* of the root; since it is *cit*, the end syllable is *udātta*; dative plural.
+- ***tṛṣyate*** — root *ñitṛṣā pipāsāyām*; *śatṛ* for *laṭ*; by "*divādibhyaḥ śyan*" (Pā. Sū. 3-1-69 [?]) the *vikaraṇa* *śyan*; by "*tāsyanudāttet*…" (Pā. Sū. 6-1-186 [?]) the *śatṛ* is *anudātta*; since the *vikaraṇa* is *nit*, the first syllable is *udātta*; dative singular.
+- ***babhūtha*** — root *bhū sattāyām*; *liṭ*, second person singular; by "*babhūthātatanthā*…" (Pā. Sū. 7-2-64 [?]) the absence of *iṭ* is fixed by *nipātana*; by "*nipātair yad yadi*…" (Pā. Sū. 8-1-30 [?]), because of *yathā*, *nighāta* is prohibited; since *thal* is *lit*, by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix takes *udātta* accent.
+- ***johavīmi*** — root *hu dānādanayoḥ*; after the *yaṅluganta* (intensive with *luk*), *laṭ*; first person singular, *mip*; by "*yaño vā*" (Pā. Sū. 7-3-94 [?]) the augment *īṭ* for *mip*; since it stands after a *tiṅ* [as read: *ati…* [?]], *nighāta* accent comes. ‖ 6 ‖
+
+Here ends the hundred and seventy-fifth (175th) Sūkta.
+
+---
+
+## SŪKTA 176 (the hundred and seventy-sixth Sūkta)
+
+### Printed p. 396  (PDF 416)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+**Anukramaṇikā (Sanskrit, as read; doubtful passages marked [?])**
+
+> मत्सि न इति षडृचं द्वादशं सूक्तमागस्त्यमैन्द्रमानुष्टुभं । पूर्वाः क्रतुशब्दात् त्रिष्टुबन्तं त्रित्यक्त्वादन्त्या त्रिष्टुप् । मत्सि न इत्यनुक्रान्तं । विशेषविनियोगो लैङ्गिकः ॥
+
+> *matsi na iti ṣaḍṛcaṃ dvādaśaṃ sūktam āgastyam aindram ānuṣṭubhaṃ | pūrvāḥ kratuśabdāt triṣṭubantaṃ tritya-ktvād antyā triṣṭup | matsi na ity anukrāntaṃ | viśeṣaviniyogo laiṅgikaḥ ‖* [?]
+
+**Anuvāda (Kannada, translated)**
+
+This sūkta beginning *matsi na* is the twelfth sūkta in the twenty-third anuvāka. It has six ṛks. The ṛṣi of this sūkta is Agastya; the deity is Indra; the metre is Anuṣṭubh; the last ṛk is in Triṣṭubh. In the Anukramaṇikā it is stated as beginning with *matsi na*. The special application (*viniyoga*) is by indication (*laiṅgika*).
+
+**Sūkta — 176**
+
+Maṇḍala — 1 ‖ Anuvāka — 23 ‖ Sūkta — 176 ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 19 [?] ‖
+Number of ṛks in the sūkta — 6 ‖
+Ṛṣi — Agastya ‖ Devatā — Indra ‖
+Chandas — 1–5. *anuṣṭubh*; 6. *triṣṭubh* ‖
+
+**Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> मत्सि नो वस्यइष्टय इन्द्रमिन्दो वृषा विश ।
+> ऋघायमाण इन्वसि शत्रुमन्ति न विन्दसि ॥ १ ॥
+
+> *matsi no vasyaiṣṭaya indram indo vṛṣā viśa |*
+> *ṛghāyamāṇa invasi śatrum anti na vindasi ‖ 1 ‖*
+
+**Pada-pāṭha**
+
+> मत्सि । नः । वस्यःऽइष्टये । इन्द्रम् । इन्दो इति । वृषा । आ । विश ।
+> ऋघायमाणः । इन्वसि । शत्रुम् । अन्ति । न । विन्दसि ॥ १ ॥
+
+> *matsi | naḥ | vasyaḥ-iṣṭaye | indram | indo iti | vṛṣā | ā | viśa |*
+> *ṛghāyamāṇaḥ | invasi | śatrum | anti | na | vindasi ‖ 1 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्दो क्लेदयितः सोम त्वं नो वस्यइष्टये वसीयसो धनस्य प्राप्तये उक्तलक्षणाय यागाय वेन्द्रं मत्सि । मादयस्व । तदर्थं त्वमेवेन्द्रं …
+
+> *he indo kledayitaḥ soma tvaṃ no vasyaiṣṭaye vasīyaso dhanasya prāptaye uktalakṣaṇāya yāgāya vendraṃ matsi | mādayasva | tadarthaṃ tvam evendraṃ …* [continues on p. 397]
+
+---
+
+**Progress note:** printed p. 396 (PDF 416) done — Sūkta 175 COMPLETE (6 ṛks, printed pp. 361–395); Sūkta 176 begun: Anukramaṇikā, Anuvāda, heading, Ṛk 1 Saṃhitā, Pada, bhāṣya begun (continues p. 397). Next: printed p. 397 (PDF 417). Open flags: Sūkta 176 heading varga numeral [?]; Anukramaṇikā text partly garbled [?]; refs/sūtra numerals [?]; review/doubts_v13.json.
