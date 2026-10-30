@@ -4762,4 +4762,74 @@ This Indra (praised by the sacrificers), hearing the praises recited by the sacr
 
 ---
 
-**Progress note:** printed p. 206 (PDF 226) done — Sūkta 171 Ṛk 3 Special Topics (continues p. 207). Next: printed p. 207 (PDF 227). Open flags: ref numerals on pp. 205–206 [?] (small type); review/doubts_v13.json.
+### Printed p. 207  (PDF 227)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Special Topics of Ṛk 3 continue.)*
+
+(*viśvā* continued) — *ahāni*, all the days, *ūrdhvāḥ santu*: may they be excellent, each higher than the other in fame (*yaśas*) and in prosperity (*śrī*): thus it is wished.
+
+For the word *komyā*, the sense *kāmyāni spṛhaṇīyāni* — "desirable" — is given: in the days to be lived through in future, since all our desired objects will be fulfilled, it is wished that they be praiseworthy; and *vanāni*: that they be worthy of being sought by all.
+
+The word *vana* is read among the names of the ray (*raśmi*) (Ni. 1-[?]) and among the names of water (*udaka*) (Ni. 1-[?]). Along with these, the word is used in the Ṛk Saṃhitā in many other senses. "*vana saṃbhaktau*" — either from the root *van* giving the meaning of strong desire (*ākāṅkṣā*), or from the root *vanu yācane* giving the meaning "ask, pray"; since forms like *vanāni*, *vanāmahe*, *vanete* — names and verbal forms — are derived and used, a few examples may be given for understanding these meanings and variations. In uses of noun-words or adjectives:
+
+> घृषुं पावकं वनिनं विचर्षणिं रुद्रस्य सूनुं हवसा गृणीमसि ।
+
+> *ghṛṣuṃ pāvakaṃ vaninaṃ vicarṣaṇiṃ rudrasya sūnuṃ havasā gṛṇīmasi |*
+
+(Ṛ. Saṃ. 1-64-12 [?]) — here "*vanavantam, udakavantam*", the word *vana* in the sense of water;
+
+> वनानि विभ्यो नकिरस्य ता व्रता देवस्य सवितुर्मिनन्ति ।
+
+> *vanāni vibhyo nakiras ya tā vratā devasya savitur minanti |*
+
+(Ṛ. Saṃ. 2-38-2 [?]) — in ṛks of this kind *vanāni* means "trees";
+
+> पारावतस्य रातिषु द्रवच्चक्रेष्वाशुषु । तिष्ठं वनस्य मध्य आ ॥
+
+> *pārāvatasya rātiṣu dravaccakreṣv āśuṣu | tiṣṭhaṃ vanasya madhya ā ‖*
+
+(Ṛ. Saṃ. 8-34-18 [?]) — here a part of the chariot is meant. Likewise, looking at the uses of verbal forms, in the example cited in the Nirukta (Ni. 5-2 [?]):
+
+> त्वया वयं मघवन्पूर्व्ये धन इन्द्रत्वोताः सासह्याम पृतन्यतो वनुयाम वनुष्यतः ॥
+
+> *tvayā vayaṃ maghavan pūrvye dhana indratvotāḥ sāsahyāma pṛtanyato vanuyāma vanuṣyataḥ ‖*
+
+(Ṛ. Saṃ. 1-132-1 [?]) and
+
+> अस्माकेभिर्नृभिर्वयं सासह्याम पृतन्यतो वनुयाम वनुष्यतो नभन्तामन्यके समे ॥
+
+> *asmākebhir nṛbhir vayaṃ sāsahyāma pṛtanyato vanuyāma vanuṣyato nabhantām anyake same ‖*
+
+(Ṛ. Saṃ. 8-40-7 [?])
+
+### Printed p. 208  (PDF 228)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. Sū. 171".)*
+
+— in these ṛks the sense "kill" is expressed; and in
+
+> कविर्हि देवस्य सहसा चकानः सुम्नमग्निर्वनते वावृधानः ।
+
+> *kavir hi devasya sahasā cakānaḥ sumnam agnir vanate vāvṛdhānaḥ |*
+
+(Ṛ. Saṃ. 3-3-10 [?]) the sense "gives" (*prayacchati*);
+
+> वनेम पूर्वीरर्यो मनीषा अग्निः सुशोको विश्वान्यश्याः ।
+
+> *vanema pūrvīr aryo manīṣā agniḥ suśoko viśvāny aśyāḥ |*
+
+(Ṛ. Saṃ. 1-20-1 [?]). In places like these, *vanema* is explained as "let us serve with reverence"; and in
+
+> प्रियाँ आपिधीर्वनिषीष्ट मेधिर आ वनिषीष्ट मेधिरः ।
+
+> *priyāṃ āpidhīr vaniṣīṣṭa medhira ā vaniṣīṣṭa medhiraḥ |*
+
+(Ṛ. Saṃ. 1-122-7 [?]) the sense is "may he accept with love and serve"; and so there are still other meanings. Since many meanings are thus possible, in the present ṛk the meaning *saṃbhajanīyāni* ("to be shared, worthy of being enjoyed in common by all") may also be given for *vanāni*.
+
+In the second meaning, "*viśvā ahāni sarvāṇi divasāni jigīṣā santu — jetum iṣvāni jetavyāni ca santu*": it is explained that all the days that the sacrificers have to live through may be victorious for them. The main intention is the prayer that Indra and the Marut-gods, favouring the sacrificers in this way, may keep them in happiness.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *stutāsaḥ* (root *ṣṭuñ stutau*; *kta* in the passive; *asuk* before *jas* by "*ājjaserasuk*"); *mṛḷayantu* (root *mṛḍa sukhane*; *loṭ* 3rd plural; *nighāta*); *śaṃbhaviṣṭhaḥ* (*śaṃ bhāvayitā*; after the *tṛc*-ending *śaṃbhavitṛ*, the affix *iṣṭhan* in the sense of excess by "*tuścchandasi*"; the loss of *tṛc* before it by "*turiṣṭhemeyaḥsu*"; *guṇa* of *u* by "*ogguṇaḥ*", Pā. Sū. 6-4-146 [?]; *av*; first syllable acute by "*ñnityādirnityam*"); *ūrdhvā* (in the neuter, loss of *śi* by "*śeścchandasi bahulam*"; likewise *luk* of *śi* in *komyā* and *viśvā*); *komyā* (root *kanu kāntau*; affix *ṇyat* by "*ṛhaloṇyat*"; with *ādivṛddhi* the Vedic *o* arises; accent on the last syllable by *vyatyaya*).
+
+---
+
+**Progress note:** printed p. 208 (PDF 228) done — Sūkta 171 Ṛk 3 Special Topics and grammar (partly; grammar continues on p. 209). Next: printed p. 209 (PDF 229). Open flags: ref numerals for many Ṛg quotations on pp. 207–208 [?]; review/doubts_v13.json.
