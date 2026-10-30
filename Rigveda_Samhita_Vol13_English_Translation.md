@@ -2085,4 +2085,42 @@ The particle *īm* is explained by Yāska:
 
 ---
 
-**Progress note:** printed p. 90 (PDF 110) done — Sūkta 167 Ṛk 5 in progress (Special Topics: īm; continues on p. 91). Next: printed p. 91 (PDF 111). Open flags: small-type numerals [?]; Ṛk 5 Pada/Saṃhitā nṛmaṇāḥ/nṛmanāḥ as printed; review/doubts_v13.json.
+### Printed p. 91  (PDF 111)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* **Special Topics (continued).**
+
+***asuryā*** — *asurāḥ kṣeptāro marutaḥ teṣāṃ svabhūtā*: the Marut-gods move in accordance with their speed. "Belonging to them" means: in the form of the wife of these deities, she who is under their control.
+
+***viṣitastukā*** — *viśithilakeśasaṅghā viprakīrṇakeśasaṅghā vā saṃbhogena tathā*: the wife of the Marut-gods, who has gathered up her hair and adorned herself, or who, since she has experienced union with her husband, has dishevelled hair.
+
+***nṛmaṇāḥ*** — *nṛṣu netṛṣu marutsu mananavatī vṛṣṭipradānamanoyuktā vā manuṣyeṣu*: she who is always meditating on the welfare of her husband, the Maruts; or one who, in regard to men, has a mind to give rain, that is, to favour with water: this is the meaning explained.
+
+***tveṣapratīkā*** — *dīptopakramā dīptāvayavā vā*: one whose enterprise begins with brilliance, or whose limbs shine with brilliance: the wife of the Marut-gods, who thus has work starting radiantly and limbs shining with brilliance, is eager to come to the place where the sacrifice is going on, pervading the chariot of the Marut-gods who go all round. For this the illustration is given by the sentence *vidhataḥ rathaṃ sūryeva*. Sāyaṇa has given two kinds of meaning for this sentence. In the first meaning the comparison is made with the wife of Sūrya mounting the chariot of Sūrya.
+
+In the second meaning — "*yadvā sūryasya duhitāśvino rathamiva sā yathārohati tadvat*" — it is said as an illustration: as the daughter of Sūrya, at her *svayaṃvara* (choice of a husband), mounts the chariot of the Aśvins. This matter [is stated] in
+
+> आ वां रथं दुहिता सूर्यस्य काष्ठेवातिष्ठदर्वता जयन्ती । विश्वे देवा अन्वमन्यन्त हृद्भिः सं उ श्रिया नासत्या सचेथे ॥
+
+> *ā vāṃ rathaṃ duhitā sūryasya kāṣṭhevātiṣṭhadarvatā jayantī | viśve devā anvamanyanta hṛdbhiḥ saṃ u śriyā nāsatyā sacethe ‖*
+
+(Ṛ. Saṃ. 1-116-17 [?]) — it is expounded in this ṛk; and in
+
+> आ वां रथं युवतिस्तिष्ठदत्र जुष्ट्वी नरा दुहिता सूर्यस्य ॥
+
+> *ā vāṃ rathaṃ yuvatistiṣṭhadatra juṣṭvī narā duhitā sūryasya ‖*
+
+(Ṛ. Saṃ. 1-118-5 [?]) — in this ṛk also it is stated.
+
+***nabhasaḥ itvā na*** — *antarikṣādityayoḥ sādhāraṇaḥ nabhaḥśabdaḥ | atrādityavacanaḥ | tasya gatiriva | sā yathā śīghraṃ tadvat*: the word *nabhas*, common to the middle region and to the sun, here means the sun; "like his course; as swiftly as he". The word *nabhaḥ* is stated in the middle of the six common names beginning with *svaḥ*, *pṛśniḥ* (Ni. 2-[?]); "*sādhāraṇānyatra ṣaṭ divaś cādityasya ca*" *[continues on the next page]*
+
+### Printed p. 92  (PDF 112)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* — these six common names are explained by Yāska as synonymous words that denote the middle region and the sun: "*nabha ādityo bhavati netā bhāsāṃ jyotiṣāṃ praṇayo 'pi vā bhana iva syād vyaparītaḥ na na bhātīti*" (Ni. 2-[?]) [as read] — "he is the leader of the lustres in all directions"; hence the name *nabha* has come for the sun. Or, *bhana* is the word of the opposite order [with the letters transposed], *nabha*; or, *bhanaḥ* [with the letters] is also *nabhaḥ*. Or "*na na bhāti*" — he who does not not shine, that is, "who always shines" — by this derivation the word *nabhas* is explained here to mean the sun.
+
+The sun's course is swift; so the wife of the Marut-gods mounts the swiftly moving chariot of the Maruts and comes to the sacrificial hall with the Marut-gods: thus the speed of the coming is compared with the swiftness of the sun.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *joṣat* (root *juṣī prītisevanayoḥ*, of the *tudādi* class; *leṭ* 3rd singular; *iteś ca parasmaipadeṣu* [?] drops the *i*; by *vyatyaya* the suffix *tip*; *leṭo 'ḍāṭau* Pā. 3-4-94 gives the *aḍ* augment; in the Veda the *vikaraṇa* is dropped; *pugantalaghūpadhasya ca* Pā. 7-3-86 gives guṇa to the light penultimate of the root; since it stands at the beginning of the pāda no *nighāta*; the root-accent remains). *sacadhyai* (root *saca samavāye*; in the sense of *tumun*, *tumarthe sesenase…* Pā. 3-4-9 gives the suffix *adhyai*; *kṛnmejantaḥ* gives the name indeclinable; the initial acute by the suffix, so middle acute). *asuryā* (*asurāṇāṃ sambandhinī*; *yat* in the sense of relation; *tit svaritam* Pā. 6-1-185 gives *svarita*; *ṭāp* in the feminine). *viṣitastukā* (*viṣitāḥ viprakīrṇāḥ stukāḥ keśasaṅghāḥ yasyāḥ sā*; in the *bahuvrīhi* the first member keeps its accent). *nṛmanāḥ* (*nṛṣu manaḥ yasyāḥ sā*; *parādiś chandasi bahulam* Pā. 6-2-199 gives the initial acute of the latter member). *sūryā* (*sūryasya strī devatā*; *sūryād devatāyāṃ cāp vācyaḥ* Pā. 4-1-48 [?] gives the suffix *cāp*).
+
+---
+
+**Progress note:** printed p. 92 (PDF 112) done — Sūkta 167 Ṛk 5 Special Topics and grammar nearly complete (grammar continues on p. 93). Next: printed p. 93 (PDF 113). Open flags: small-type numerals [?]; review/doubts_v13.json.
