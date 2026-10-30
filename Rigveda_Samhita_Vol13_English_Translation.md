@@ -9014,4 +9014,64 @@ In the third: ***yadvā ye narā aryamaṇaṃ yaṃ kaṃcid dātāraṃ paśya
 
 ---
 
-**Progress note:** printed p. 346 (PDF 366) done — Sūkta 174 Ṛk 6 complete. Next: printed p. 347 (PDF 367), Sūkta 174 Ṛk 7. Open flags: Ṛg/Nirukta refs [?]; sūtra numerals [?]; Ṛk 6 construing difficult; review/doubts_v13.json.
+### Printed p. 347  (PDF 367)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+---
+
+**Sūkta 174, Ṛk 7**
+
+**Saṃhitā-pāṭha**
+
+> रपत्कविरिन्द्रार्कसातौ क्षां दासायोपबर्हणीं कः ।
+> करत्तिस्रो मघवा दानुचित्रा नि दुर्योणे कुयवाचं मृधि श्रेत् ॥ ७ ॥
+
+> *rapat kavir indrārkasātau kṣāṃ dāsāyopabarhaṇīṃ kaḥ |*
+> *karat tisro maghavā dānucitrā ni duryoṇe kuyavācaṃ mṛdhi śret ‖ 7 ‖*
+
+**Pada-pāṭha**
+
+> रपत् । कविः । इन्द्र । अर्कऽसातौ । क्षाम् । दासाय । उपऽबर्हणीम् । कः । इति कः [?] ।
+> करत् । तिस्रः । मघऽवा । दानुऽचित्राः । नि । दुर्योणे । कुयवाचम् । मृधि । श्रेत् ॥ ७ ॥
+
+> *rapat | kaviḥ | indra | arka-sātau | kṣām | dāsāya | upa-barhaṇīm | kaḥ | iti kaḥ [?] |*
+> *karat | tisraḥ | magha-vā | dānu-citrāḥ | ni | duryoṇe | kuyavācam | mṛdhi | śret ‖ 7 ‖*
+
+(The Pada line as printed has "*kariti kaḥ*"-like letters after *upabarhaṇīm*; I could not read it clearly: [?].)
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र त्वां कविः क्रान्तदर्शी क्रान्तेनोचानो वा [?] होतार्कसातावर्चनीयस्यान्नस्य लाभे निमित्तभूते सति रपत् । स्तौति । यद्वा । एतन्नामर्षिः रपत् अस्तौत् अन्नार्थम् । तस्मात्प्रभूतमन्नं प्रादा इत्यर्थः । तथा च दासाय प्राण्युपक्षयित्रेऽसुराय क्षां भूमिमुपबर्हणीं शय्यां कः । अकरोः । हत्वा भूमावपातयेत्यर्थः । करोतेर्लुञ् मन्त्रे घसेति च्लेर्लुक् । अथ परोक्षकृतः । मघवा धनवानयमिन्द्रस्तिस्रो भूमीः दार्शिकपाशुकसौमिकरूपा भूमीः क्षित्यन्तरिक्षद्यूरूपा वा भूमीर्दानुचित्रा दानेन देयैर्धनैर्वा चायनीयाः [?] करत् । करोति । यद्वा । तिस्रोऽयोरजतहिरण्यमयीः पुरीर्दानुचित्राः खण्डनेन चित्रा अकरोत् । तथा दुर्योणे दुष्पयोनौ स्थाने एतन्नामकस्य राज्ञः प्रीत्यर्थं वा कुयवाचं कुत्सितं शब्दायन्तमेतन्नामानमसुरं मृधि संग्रामे नि श्रेत् । हिंसितवान् ॥
+
+> *he indra tvāṃ kaviḥ krāntadarśī krāntenocāno vā [?] hotārkasātāv arcanīyasyānnasya lābhe nimittabhūte sati rapat | stauti | yadvā | etannāmarṣiḥ rapat astaut annārtham | tasmāt prabhūtam annaṃ prādā ity arthaḥ | tathā ca dāsāya prāṇyupakṣayitre 'surāya kṣāṃ bhūmim upabarhaṇīṃ śayyāṃ kaḥ | akaroḥ | hatvā bhūmāv apātayety arthaḥ | karoter luñ mantre ghaseti ceḥ luk | atha parokṣakṛtaḥ | maghavā dhanavān ayam indras tisro bhūmīḥ dārśikapāśukasaumikarūpā bhūmīḥ kṣity-antarikṣa-dyū-rūpā vā bhūmīr dānucitrā dānena deyair dhanair vā cāyanīyāḥ [?] karat | karoti | yadvā | tisro 'yorajatahiraṇyamayīḥ purīr dānucitrāḥ khaṇḍanena citrā akarot | tathā duryoṇe duṣpayonau sthāne etannāmakasya rājñaḥ prītyarthaṃ vā kuyavācaṃ kutsitaṃ śabdāyantam etannāmānam asuraṃ mṛdhi saṃgrāme ni śret | hiṃsitavān ‖* [?]
+
+*Gist:* The sage Kavi praises you, Indra, for the gain of food; you made the earth the bed of the *asura* Dāsa (the enemy); the wealthy Indra made the three worlds (or three cities of iron, silver and gold) wonderful by gifts (or by breaking them); and in battle he killed the asura Kuyavāc for the sake of King Duryoṇa.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *kaviḥ* — the wise *hotṛ*, or the sage called Kavi; *arkasātau* — for obtaining food; *rapat* — (praises) you; *dāsāya* — the asura who injures creatures; *kṣām* — the earth; *upabarhaṇīm* — as a pillow (a bed); *kaḥ* — you made; *maghavā* — this Indra, rich in wealth; *tisraḥ* — the three kinds of acts called *dārśika*, *pāśuka*, *saumika*; or the three worlds, earth, atmosphere and heaven; *dānu citrāḥ* — wonderful by giving; *karat* — made; *duryoṇe* — in a bad place, or for the sake of pleasing the king called Duryoṇa; *kuyavācam* — the asura called Kuyavāc, who makes evil sounds; *mṛdhi* — in battle; *ni śret* — killed.
+
+**Bhāvārtha**
+
+O Indra, the *hotṛ*, desiring food, praises you (the sage named Kavi praises you); you have made the earth a bed for the *asura* who injures creatures; being lord of wealth, you fill earth, atmosphere and heaven with wealth (you made the acts called *dārśika*, *pāśuka* and *saumika* beneficial through gifts of wealth); and for the pleasing of King Duryoṇa you destroyed the *asura* called Kuyavāc in battle.
+
+### Printed p. 348  (PDF 368)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Printed English**
+
+The sage praises you Indra, for the grant of desirable (food), since you have made the earth the bed of the Asura: Maghavan has made the three (regions) marvellous by his gifts, and has destroyed for (the prince) Duryoni (the Asura), Kuyavacha, in combat.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***kaviḥ*** — this word is read among the names of the wise (*medhāvin*) (Ni. 3-19 [?]). Sāyaṇa gives two meanings: "*krāntadarśī*" — one who knows the further shore of knowledge — and "*anūcāno vā*" — one who knows the tradition of the performance of the rites such as sacrifice; he explains, in the first meaning, that *kavi* is a learned man and supreme in the performance of rites, and that the *hotṛ* praises Indra, in order to obtain oblations that are the means of invoking the deities and worshipping them.
+
+In the sentence *kaviḥ arkasātau rapat* — "*yadvā etannāmarṣiḥ annārtham astaut indram? tasmāt prabhūtam annaṃ prādāḥ*" — the second meaning is given: the sage named Kavi praised Indra for the sake of obtaining food; therefore Indra gave him abundant food.
+
+***arkasātau — arcanīyasyānnasya lābhe*** — Yāska reads the word *arka* among the names of food (Ni. 3-9 [?]) and the names of thunderbolt (Ni. 3-11 [?]), and says "*arko devo bhavati yad enam arcanti*"
+
+---
+
+**Progress note:** printed p. 348 (PDF 368) done — Sūkta 174 Ṛk 7 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun, continues p. 349). Next: printed p. 349 (PDF 369). Open flags: Ṛk 7 Pada word after upabarhaṇīm [?]; bhāṣya doubtful [?]; review/doubts_v13.json.
