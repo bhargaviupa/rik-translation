@@ -17,17 +17,17 @@
 > वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
 > यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम् ॥
 
-> *yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanam ‖*
+> *vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame | yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanam ‖*
 
 > यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
 > निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
 
-> *nirmame tamahaṃ vande vidyātīrthamaheśvaram ‖*
+> *yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat | nirmame tamahaṃ vande vidyātīrthamaheśvaram ‖*
 
 > वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
 > तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
 
-> *tasmātsarvaprayatnena vedameva sadā japet ‖*
+> *vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ | tasmātsarvaprayatnena vedameva sadā japet ‖*
 
 (Salutation to Gaṇeśa — "Bowing to whom the gods headed by Vāgīśa become successful at the start of all undertakings, I salute the elephant-faced"; "I praise Vidyātīrtha-Maheśvara, whose breath the Vedas are and who from the Vedas made the whole world"; "the Veda is Śiva, Śiva is the Veda, the student of the Veda is Sadāśiva; therefore one should always recite the Veda with all effort" — my rendering, tentative.)
 
@@ -70,7 +70,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 > तन्नु वोचाम रभसाय जन्मने पूर्वं महित्वं वृषभस्य केतवे ।
 > ऐधेव यामन्मरुतस्तुविष्वणो युधेव शक्रास्तविषाणि कर्तन ॥ १ ॥
 
-> *aidheva yāmanmarutastuviṣvaṇo yudheva śakrāstaviṣāṇi kartana ‖ 1 ‖*
+> *tannu vocāma rabhasāya janmane pūrvaṃ mahitvaṃ vṛṣabhasya ketave |*
 > *aidheva yāmanmarutastuviṣvaṇo yudheva śakrāstaviṣāṇi kartana ‖ 1 ‖*
 
 ### Printed p. 4  (PDF 24)
@@ -82,7 +82,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 > तत् । नु । वोचाम । रभसाय । जन्मने । पूर्वम् । महित्वम् । वृषभस्य । केतवे ।
 > ऐधाऽइव । यामन् । मरुतः । तुविऽस्वनः । युधाऽइव । शक्राः । तविषाणि । कर्तन ॥ १ ॥
 
-> *aidhā 'iva | yāman | marutaḥ | tuvi 'svanaḥ | yudhā 'iva | śakrāḥ | taviṣāṇi | kartana ‖ 1 ‖*
+> *tat | nu | vocāma | rabhasāya | janmane | pūrvam | mahitvam | vṛṣabhasya | ketave |*
 > *aidhā 'iva | yāman | marutaḥ | tuvi 'svanaḥ | yudhā 'iva | śakrāḥ | taviṣāṇi | kartana ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -134,7 +134,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 > नित्यं न सूनुं मधु बिभ्रत उप क्रीळन्ति क्रीळा विदथेषु घृष्वयः ।
 > नक्षन्ति रुद्रा अवसा नमस्विनं न मर्धन्ति स्वतवसो हविष्कृतम् ॥ २ ॥
 
-> *nakṣanti rudrā avasā namasvinaṃ na mardhanti svatavaso haviṣkṛtam ‖ 2 ‖*
+> *nityaṃ na sūnuṃ madhu bibhrata upa krīḷanti krīḷā vidatheṣu ghṛṣvayaḥ |*
 > *nakṣanti rudrā avasā namasvinaṃ na mardhanti svatavaso haviṣkṛtam ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
@@ -142,7 +142,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 > नित्यम् । न । सूनुम् । मधु । बिभ्रतः । उप । क्रीळन्ति । क्रीळाः । विदथेषु । घृष्वयः ।
 > नक्षन्ति । रुद्राः । अवसा । नमस्विनम् । न । मर्धन्ति । स्वऽतवसः । हविःऽकृतम् ॥ २ ॥
 
-> *nakṣanti | rudrāḥ | avasā | namasvinam | na | mardhanti | sva 'tavasaḥ | haviḥ 'kṛtam ‖ 2 ‖*
+> *nityam | na | sūnum | madhu | bibhrataḥ | upa | krīḷanti | krīḷāḥ | vidatheṣu | ghṛṣvayaḥ |*
 > *nakṣanti | rudrāḥ | avasā | namasvinam | na | mardhanti | sva 'tavasaḥ | haviḥ 'kṛtam ‖ 2 ‖*
 
 ### Printed p. 8  (PDF 28)
@@ -326,7 +326,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 > यस्मा ऊमासो अमृता अरासत रायस्पोषं च हविषा ददाशुषे ।
 > उक्षन्त्यस्मै मरुतो हिता इव पुरू रजांसि पयसा मयोभुवः ॥ ३ ॥
 
-> *ukṣantyasmai maruto hitā iva purū rajāṃsi payasā mayobhuvaḥ ‖ 3 ‖*
+> *yasmā ūmāso amṛtā arāsata rāyaspoṣaṃ ca haviṣā dadāśuṣe |*
 > *ukṣantyasmai maruto hitā iva purū rajāṃsi payasā mayobhuvaḥ ‖ 3 ‖*
 
 **॥ पदपाठः ॥**
@@ -334,7 +334,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 > यस्मै । ऊमासः । अमृताः । अरासत । रायः । पोषम् । च । हविषा । ददाशुषे ।
 > उक्षन्ति । अस्मै । मरुतः । हिताःऽइव । पुरु । रजांसि । पयसा । मयःऽभुवः ॥ ३ ॥
 
-> *ukṣanti | asmai | marutaḥ | hitāḥ 'iva | puru | rajāṃsi | payasā | mayaḥ 'bhuvaḥ ‖ 3 ‖*
+> *yasmai | ūmāsaḥ | amṛtāḥ | arāsata | rāyaḥ | poṣam | ca | haviṣā | dadāśuṣe |*
 > *ukṣanti | asmai | marutaḥ | hitāḥ 'iva | puru | rajāṃsi | payasā | mayaḥ 'bhuvaḥ ‖ 3 ‖*
 
 ### Printed p. 17  (PDF 37)
@@ -384,7 +384,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 > आ ये रजांसि तविषीभिरव्यत प्र व एवासः स्वयतासो अध्रजन् ।
 > भयन्ते विश्वा भुवनानि हर्म्या चित्रो वो यामः प्रयतास्वृष्टिषु ॥ ४ ॥
 
-> *bhayante viśvā bhuvanāni harmyā citro vo yāmaḥ prayatāsvṛṣṭiṣu ‖ 4 ‖*
+> *ā ye rajāṃsi taviṣībhiravyata pra va evāsaḥ svayatāso adhrajan |*
 > *bhayante viśvā bhuvanāni harmyā citro vo yāmaḥ prayatāsvṛṣṭiṣu ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
@@ -392,7 +392,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 > आ । ये । रजांसि । तविषीभिः । अव्यत । प्र । वः । एवासः । स्वऽयतासः । अध्रजन् ।
 > भयन्ते । विश्वा । भुवनानि । हर्म्या । चित्रः । वः । यामः । प्रऽयतासु । ऋष्टिषु ॥ ४ ॥
 
-> *bhayante | viśvā | bhuvanāni | harmyā | citraḥ | vaḥ | yāmaḥ | pra 'yatāsu | ṛṣṭiṣu ‖ 4 ‖*
+> *ā | ye | rajāṃsi | taviṣībhiḥ | avyata | pra | vaḥ | evāsaḥ | sva 'yatāsaḥ | adhrajan |*
 > *bhayante | viśvā | bhuvanāni | harmyā | citraḥ | vaḥ | yāmaḥ | pra 'yatāsu | ṛṣṭiṣu ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -510,7 +510,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 > यत्त्वेषयामा नदयन्त पर्वतान् दिवो वा पृष्ठं नर्या अचुच्यवुः ।
 > विश्वो वो अज्मन् भयते वनस्पती रथीयन्तीव प्र जिहीत ओषधिः ॥ ५ ॥
 
-> *viśvo vo ajman bhayate vanaspatī rathīyantīva pra jihīta oṣadhiḥ ‖ 5 ‖*
+> *yattveṣayāmā nadayanta parvatān divo vā pṛṣṭhaṃ naryā acucyavuḥ |*
 > *viśvo vo ajman bhayate vanaspatī rathīyantīva pra jihīta oṣadhiḥ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
@@ -518,7 +518,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 > यत् । त्वेषऽयामाः । नदयन्त । पर्वतान् । दिवः । वा । पृष्ठम् । नर्याः । अचुच्यवुः ।
 > विश्वः । वः । अज्मन् । भयते । वनस्पतिः । रथीयन्तीऽइव । प्र । जिहीते । ओषधिः ॥ ५ ॥
 
-> *viśvaḥ | vaḥ | ajman | bhayate | vanaspatiḥ | rathīyantī 'iva | pra | jihīte | oṣadhiḥ ‖ 5 ‖*
+> *yat | tveṣa 'yāmāḥ | nadayanta | parvatān | divaḥ | vā | pṛṣṭham | naryāḥ | acucyavuḥ |*
 > *viśvaḥ | vaḥ | ajman | bhayate | vanaspatiḥ | rathīyantī 'iva | pra | jihīte | oṣadhiḥ ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -580,7 +580,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 > यूयं न उग्रा मरुतः सुचेतुनारिष्टग्रामाः सुमतिं पिपर्तन ।
 > यत्रा वो दिद्युद्रदति क्रिविर्दती रिणाति पश्वः सुधितेव बर्हणा ॥ ६ ॥
 
-> *yatrā vo didyudradati krivirdatī riṇāti paśvaḥ sudhiteva barhaṇā ‖ 6 ‖*
+> *yūyaṃ na ugrā marutaḥ sucetunāriṣṭagrāmāḥ sumatiṃ pipartana |*
 > *yatrā vo didyudradati krivirdatī riṇāti paśvaḥ sudhiteva barhaṇā ‖ 6 ‖*
 
 **॥ पदपाठः ॥**
@@ -588,7 +588,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 > यूयम् । नः । उग्राः । मरुतः । सुऽचेतुना । अरिष्टऽग्रामाः । सुऽमतिम् । पिपर्तन ।
 > यत्र । वः । दिद्युत् । रदति । क्रिविऽदती । रिणाति । पश्वः । सुधिताऽइव । बर्हणा ॥ ६ ॥
 
-> *yatra | vaḥ | didyut | radati | krivi 'datī | riṇāti | paśvaḥ | sudhitā 'iva | barhaṇā ‖ 6 ‖*
+> *yūyam | naḥ | ugrāḥ | marutaḥ | su 'cetunā | ariṣṭa 'grāmāḥ | su 'matim | pipartana |*
 > *yatra | vaḥ | didyut | radati | krivi 'datī | riṇāti | paśvaḥ | sudhitā 'iva | barhaṇā ‖ 6 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -658,7 +658,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 > प्र स्कम्भदेष्णा अनवभ्रराधसोऽलातृणासो विदथेषु सुष्टुताः ।
 > अर्चन्त्यर्कं मदिरस्य पीतये विदुर्वीरस्य प्रथमानि पौंस्या ॥ ७ ॥
 
-> *arcantyarkaṃ madirasya pītaye vidurvīrasya prathamāni pauṃsyā ‖ 7 ‖*
+> *pra skambhadeṣṇā anavabhrarādhaso 'lātṛṇāso vidatheṣu suṣṭutāḥ |*
 > *arcantyarkaṃ madirasya pītaye vidurvīrasya prathamāni pauṃsyā ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
@@ -666,7 +666,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 > प्र । स्कम्भऽदेष्णाः । अनवभ्रऽराधसः । अलातृणासः । विदथेषु । सुऽस्तुताः ।
 > अर्चन्ति । अर्कम् । मदिरस्य । पीतये । विदुः । वीरस्य । प्रथमानि । पौंस्या ॥ ७ ॥
 
-> *arcanti | arkam | madirasya | pītaye | viduḥ | vīrasya | prathamāni | pauṃsyā ‖ 7 ‖*
+> *pra | skambha 'deṣṇāḥ | anavabhra 'rādhasaḥ | alātṛṇāsaḥ | vidatheṣu | su 'stutāḥ |*
 > *arcanti | arkam | madirasya | pītaye | viduḥ | vīrasya | prathamāni | pauṃsyā ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -750,7 +750,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 > शतभुजिभिस्तमभिह्रुतेरघात्पूर्भी रक्षता मरुतो यमावत ।
 > जनं यमुग्रास्तवसो विरप्शिनः पाथना शंसात्तनयस्य पुष्टिषु ॥ ८ ॥
 
-> *janaṃ yamugrāstavaso virapśinaḥ pāthanā śaṃsāttanayasya puṣṭiṣu ‖ 8 ‖*
+> *śatabhujibhistamabhihruteraghātpūrbhī rakṣatā maruto yamāvata |*
 > *janaṃ yamugrāstavaso virapśinaḥ pāthanā śaṃsāttanayasya puṣṭiṣu ‖ 8 ‖*
 
 **॥ पदपाठः ॥**
@@ -758,7 +758,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 > शतभुजिऽभिः । तम् । अभिऽह्रुतेः । अघात् । पूःऽभिः । रक्षत । मरुतः । यम् । अवत ।
 > जनम् । यम् । उग्राः । तवसः । विऽरप्शिनः । पाथन । शंसात् । तनयस्य । पुष्टिषु ॥ ८ ॥
 
-> *janam | yam | ugrāḥ | tavasaḥ | vi 'rapśinaḥ | pāthana | śaṃsāt | tanayasya | puṣṭiṣu ‖ 8 ‖*
+> *śatabhuji 'bhiḥ | tam | abhi 'hruteḥ | aghāt | pūḥ 'bhiḥ | rakṣata | marutaḥ | yam | avata |*
 > *janam | yam | ugrāḥ | tavasaḥ | vi 'rapśinaḥ | pāthana | śaṃsāt | tanayasya | puṣṭiṣu ‖ 8 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -850,7 +850,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 > विश्वानि भद्रा मरुतो रथेषु वो मिथस्पृध्येव तविषाण्याहिता ।
 > अंसेष्वा वः प्रपथेषु खादयोऽक्षो वश्चक्रा समया वि वावृते ॥ ९ ॥
 
-> *aṃseṣvā vaḥ prapatheṣu khādayo 'kṣo vaścakrā samayā vi vāvṛte ‖ 9 ‖*
+> *viśvāni bhadrā maruto ratheṣu vo mithaspṛdhyeva taviṣāṇyāhitā |*
 > *aṃseṣvā vaḥ prapatheṣu khādayo 'kṣo vaścakrā samayā vi vāvṛte ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
@@ -858,7 +858,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 > विश्वानि । भद्रा । मरुतः । रथेषु । वः । मिथःस्पृध्याऽइव । तविषाणि । आऽहिता ।
 > अंसेषु । आ । वः । प्रऽपथेषु । खादयः । अक्षः । वः । चक्रा । समया । वि । ववृते ॥ ९ ॥
 
-> *aṃseṣu | ā | vaḥ | pra 'patheṣu | khādayaḥ | akṣaḥ | vaḥ | cakrā | samayā | vi | vavṛte ‖ 9 ‖*
+> *viśvāni | bhadrā | marutaḥ | ratheṣu | vaḥ | mithaḥspṛdhyā 'iva | taviṣāṇi | ā 'hitā |*
 > *aṃseṣu | ā | vaḥ | pra 'patheṣu | khādayaḥ | akṣaḥ | vaḥ | cakrā | samayā | vi | vavṛte ‖ 9 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -1002,7 +1002,7 @@ In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has 
 > भूरीणि भद्रा नर्येषु बाहुषु वक्षःसु रुक्मा रभसासो अञ्जयः ।
 > अंसेष्वेताः पविषु क्षुरा अधि वयो न पक्षान्व्यनु श्रियो धिरे ॥ १० ॥
 
-> *aṃseṣvetāḥ paviṣu kṣurā adhi vayo na pakṣānvyanu śriyo dhire ‖ 10 ‖*
+> *bhūrīṇi bhadrā naryeṣu bāhuṣu vakṣaḥsu rukmā rabhasāso añjayaḥ |*
 > *aṃseṣvetāḥ paviṣu kṣurā adhi vayo na pakṣānvyanu śriyo dhire ‖ 10 ‖*
 
 ### Printed p. 48  (PDF 68)
@@ -1014,7 +1014,7 @@ In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has 
 > भूरीणि । भद्रा । नर्येषु । बाहुषु । वक्षःऽसु । रुक्माः । रभसासः । अञ्जयः ।
 > अंसेषु । एताः । पविषु । क्षुराः । अधि । वयः । न । पक्षान् । वि । अनु । श्रियः । धिरे ॥ १० ॥
 
-> *aṃseṣu | etāḥ | paviṣu | kṣurāḥ | adhi | vayaḥ | na | pakṣān | vi | anu | śriyaḥ | dhire ‖ 10 ‖*
+> *bhūrīṇi | bhadrā | naryeṣu | bāhuṣu | vakṣaḥ 'su | rukmāḥ | rabhasāsaḥ | añjayaḥ |*
 > *aṃseṣu | etāḥ | paviṣu | kṣurāḥ | adhi | vayaḥ | na | pakṣān | vi | anu | śriyaḥ | dhire ‖ 10 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -1126,7 +1126,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 > महान्तो मह्ना विभ्वो विभूतयो दूरेदृशो ये दिव्या इव स्तृभिः ।
 > मन्द्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इन्द्रे मरुतः परिष्टुभः ॥ ११ ॥
 
-> *mandrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā indre marutaḥ pariṣṭubhaḥ ‖ 11 ‖*
+> *mahānto mahnā vibhvo vibhūtayo dūredṛśo ye divyā iva stṛbhiḥ |*
 > *mandrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā indre marutaḥ pariṣṭubhaḥ ‖ 11 ‖*
 
 ---
@@ -1140,7 +1140,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 > महान्तः । मह्ना । विऽभ्वः । विऽभूतयः । दूरेऽदृशः । ये । दिव्याःऽइव । स्तृऽभिः ।
 > मन्द्राः । सुऽजिह्वाः । स्वरितारः । आसऽभिः । संऽमिश्लाः । इन्द्रे । मरुतः । परिऽस्तुभः ॥ ११ ॥
 
-> *mandrāḥ | su 'jihvāḥ | svaritāraḥ | āsa 'bhiḥ | saṃ 'miślāḥ | indre | marutaḥ | pari 'stubhaḥ ‖ 11 ‖*
+> *mahāntaḥ | mahnā | vi 'bhvaḥ | vi 'bhūtayaḥ | dūre 'dṛśaḥ | ye | divyāḥ 'iva | stṛ 'bhiḥ |*
 > *mandrāḥ | su 'jihvāḥ | svaritāraḥ | āsa 'bhiḥ | saṃ 'miślāḥ | indre | marutaḥ | pari 'stubhaḥ ‖ 11 ‖*
 
 **॥ सायणभाष्यम् ॥**
@@ -1222,7 +1222,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 > तद्वः सुजाता मरुतो महित्वनं दीर्घं वो दात्रमदितेरिव व्रतम् ।
 > इन्द्रश्चन त्यजसा वि ह्रुणाति तज्जनाय यस्मै सुकृते अराध्वम् ॥ १२ ॥
 
-> *indraścana tyajasā vi hruṇāti tajjanāya yasmai sukṛte arādhvam ‖ 12 ‖*
+> *tadvaḥ sujātā maruto mahitvanaṃ dīrghaṃ vo dātramaditeriva vratam |*
 > *indraścana tyajasā vi hruṇāti tajjanāya yasmai sukṛte arādhvam ‖ 12 ‖*
 
 **॥ पदपाठः ॥**
@@ -1230,7 +1230,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 > तत् । वः । सुऽजाताः । मरुतः । महित्वनम् । दीर्घम् । वः । दात्रम् । अदितेःऽइव । व्रतम् ।
 > इन्द्रः । चन । त्यजसा । वि । ह्रुणाति । तत् । जनाय । यस्मै । सुऽकृते । अराध्वम् ॥ १२ ॥
 
-> *indraḥ | cana | tyajasā | vi | hruṇāti | tat | janāya | yasmai | su 'kṛte | arādhvam ‖ 12 ‖*
+> *tat | vaḥ | su 'jātāḥ | marutaḥ | mahitvanam | dīrgham | vaḥ | dātram | aditeḥ 'iva | vratam |*
 > *indraḥ | cana | tyajasā | vi | hruṇāti | tat | janāya | yasmai | su 'kṛte | arādhvam ‖ 12 ‖*
 
 **॥ सायणभाष्यम् ॥**
