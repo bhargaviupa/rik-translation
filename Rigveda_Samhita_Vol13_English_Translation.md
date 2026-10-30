@@ -8853,4 +8853,55 @@ in many such ṛks it is described that Tvaṣṭṛ prepared for Indra the thun
 
 ---
 
-**Progress note:** printed p. 340 (PDF 360) done — Sūkta 174 Ṛk 5 Special Topics complete; grammar in progress (continues p. 341). Next: printed p. 341 (PDF 361). Open flags: Ṛg/Nirukta/Śa. Brā. refs [?]; some quotes [?]; review/doubts_v13.json.
+### Printed p. 341  (PDF 361)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+- ***ṛjrā*** — root *ṛja gatisthānārjanādiṣu*; "*ṛjrendra*…" (Uṇ. Sū. 2-… [?]) the *ra*-ending is formed by *nipātana*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39 [?]) the dual (*au*) takes the substitution *ā*; likewise in *aśvā*.
+- ***vṛhatāt*** — root *vṛhū udyamane*; *tudādi*; *loṭ*, third person singular; since the *vikaraṇa* has the *jit*-term-ness, no light-vowel guṇa; *nighāta* for a *tiṅ*.
+- ***spṛdhaḥ*** — *spardha saṃgharṣe*; *spardhante iti spṛdhaḥ*; by "*kvip ca*" (Pā. Sū. 3-2-76 [?]) the suffix *kvip*; by "*bahulaṃ chandasi*" the *saṃprasāraṇa* of the *ra* of the root: *ṛ*; the *a* dropped; accusative plural.
+- ***yāsiṣat*** — root *yā prāpaṇe*; "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6 [?]) the *loṭ*-sense by *luṅ*; third person singular, *tip*; by "*iteś ca*" the *i* dropped; by "*cli luṅi*" *sic* is the substitution; "*yamaramanamātāṃ sak ca*" (Pā. Sū. 7-2-73 [?]) gives the root the augment *sak*, and the following *sic* the augment *iṭ*; by *vyatyaya* the augment *a* for the suffix; *nighāta* for a *tiṅ*. ‖ 5 ‖
+
+---
+
+**Sūkta 174, Ṛk 6**
+
+**Saṃhitā-pāṭha**
+
+> जघन्वाँ इन्द्र मित्रेरूञ्चोदप्रवृद्धो हरिवो अदाशून् ।
+> प्र ये पश्यन्नर्यमणं सचायोस्त्वया शूर्ता वहमाना अपत्यम् ॥ ६ ॥
+
+> *jaghanvāṃ indra mitrerūñ codapravṛddho harivo adāśūn |*
+> *pra ye paśyann aryamaṇaṃ sacāyos tvayā śūrtā vahamānā apatyam ‖ 6 ‖*
+
+**Pada-pāṭha**
+
+> जघन्वान् । इन्द्र । मित्रेरून् । चोदप्रवृद्धः । हरिवः । अदाशून् ।
+> प्र । ये । पश्यन् । अर्यमणम् । सचा । आयोः । त्वया । शूर्ताः । वहमानाः । अपत्यम् ॥ ६ ॥
+
+> *jaghanvān | indra | mitrerūn | codapravṛddhaḥ | harivaḥ | adāśūn |*
+> *pra | ye | paśyan | aryamaṇam | sacā | āyoḥ | tvayā | śūrtāḥ | vahamānāḥ | apatyam ‖ 6 ‖*
+
+### Printed p. 342  (PDF 362)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र हरिवः हरिभ्यां तद्वन् त्वं चोदप्रवृद्धश्चोदनैः स्तोत्रैः प्रवृद्धः सन् अदाशून् अदातॄन् मित्रेरून् मित्राणां द्रावयितॄन् [?] यजमानानामारयितॄन्पाधकान् [?] तद्वैरिणां मित्रत्वं गच्छतो वा जघन्वान् । हतवानसि । किंच ये अर्यमणं दातारं त्वां प्र पश्यन् पश्यन्ति ते नरा आयोर्मनुष्यस्याध्वर्यादेर्हविर्लक्षणान्नस्य वा सचा सह शूर्ताः क्षिप्ताः हविष्प्रदानेन त्वयोपेतं कुलस्यापातयितारं पुत्रं वहमाना येऽ संति ते प्र पश्यन् । यद्वा । येऽर्यमणं त्वां पश्यन्ति ते एवं भवन्ति । यद्वा । ये नरा अर्यमणं यं कंचिद्दातारं पश्यन् पश्यन्तस्त्वामयजन्त आयोर्मनुष्यस्य सचा सहायभूतास्त्वया शूर्ताः क्षिप्ताः वर्जिता अपत्यं पुत्रं वहमाना ये संति तान् जघन्वान्भवेत्यर्थः ॥
+
+> *he indra harivaḥ haribhyāṃ tadvan tvaṃ codapravṛddhaś codanaiḥ stotraiḥ pravṛddhaḥ san adāśūn adātṝn mitrerūn mitrāṇāṃ drāvayitṝn [?] yajamānānām ārayitṝn pādhakān [?] tadvairiṇāṃ mitratvaṃ gacchato vā jaghanvān | hatavān asi | kiṃca ye aryamaṇaṃ dātāraṃ tvāṃ pra paśyan paśyanti te narā āyor manuṣyasyādhvaryādeḥ havirlakṣaṇānnasya vā sacā saha śūrtāḥ kṣiptāḥ haviṣpradānena tvayopetaṃ kulasyāpātayitāraṃ putraṃ vahamānā ye 'saṃti te pra paśyan | yadvā | ye 'ryamaṇaṃ tvāṃ paśyanti ta evaṃ bhavanti | yadvā | ye narā aryamaṇaṃ yaṃ kaṃcid dātāraṃ paśyan paśyantas tvām ayajanta āyor manuṣyasya sacā sahāyabhūtās tvayā śūrtāḥ kṣiptāḥ varjitā apatyaṃ putraṃ vahamānā ye santi tān jaghanvān bhaveti arthaḥ ‖* [?]
+
+*Gist:* O Indra, you who have been strengthened by our praises, have slain the givers-not, the harassers of the sacrificers; those who see you as a giver (Aryaman), friends of man (the Adhvaryu and others) rejected by you, who bear sons (progeny) — may they thrive; be the slayer of those who do not.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *harivaḥ* — you who are endowed with the two horses called Hari; *codapravṛddhaḥ* — grown by our praises; *adāśūn* — those who give no oblations or other gifts, and; *mitrerūn* — those who torment the sacrificers who are their friends, or who make the friendship of their enemies grow; *jaghanvān* — you who slay (indeed); (*kiñca* — and) *ye* — who; *aryamaṇam* — you the giver; *pra paśyan* — (looking upon you as a friend) look at (they think); *te* — those men; *āyoḥ sacā* — of man (the Adhvaryu and others) or with the food in the form of oblation; *śūrtāḥ* — quickly; *tvayā* — by you; *apatyam* — a son; *vahamānāḥ* (*santi*) — they are bearers [or *ye* — who men; *aryamaṇam* — one of them a giver; *pra paśyan* — those who look to you without worshipping; *āyoḥ sacā* — as friends of men; *tvayā* — by you; *śūrtāḥ* — cast off (put away); *apatyam* — a son; *vahamānāḥ* (*santi*) — those who bear; (*tān jaghanvān bhava* — be the slayer of those)].
+
+**Bhāvārtha**
+
+O Indra, possessed of the two horses called Hari, pleased by our praises, you slay those who offer no oblations and other gifts, and those who trouble the sacrificers, the performers of the rites. Regarding you, the giver, as the one who protects us, the Adhvaryu and others, with their companions, grant progeny to those who offer you oblations and the rest (or: trusting in you the giver, as friends of men, and worshipping you, those who lack sons and other offspring — destroy them).
+
+---
+
+**Progress note:** printed p. 342 (PDF 362) done — Sūkta 174 Ṛk 5 complete; Ṛk 6: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English continues p. 343). Next: printed p. 343 (PDF 363). Open flags: Ṛk 6 bhāṣya dense [?]; sūtra numerals [?]; review/doubts_v13.json.
