@@ -3450,7 +3450,7 @@ In the second meaning, since *svarmīḷhasya* is an adjective of *pradhanasya*:
 
 **॥ सायणभाष्यम् ॥**
 
-> हे इन्द्र ते तव सा प्रसिद्धा ऋष्टिर्वज्राख्यायुधविशेषोऽस्मे अस्मदर्थम् अम्यक् । प्राप्नोति मेघसमीपे । एवं च सति मरुतोऽपि सनेमि । अह्नायेति षट् पुराणनामानीत्यादि [?] सनेमि पुराणनाम । पुराणं चिरकालं संगृहीतमभ्वमुदकं जुनन्ति । क्षिपन्ति । वर्षन्तीत्यर्थः । वृष्ट्या सस्यादिसमृद्धौ सत्यामग्निश्चिद्धि ष्म । हि स्मेति पूरणे । अग्निरप्यातसे सन्तके [?] कर्मणि निमित्तभूते सति शुशुक्वान् दीप्यमानो वर्तते । पश्चात्प्रयांसि चरुपुरोडाशादिहवींषि दधति । धारयन्ति ददति वा यजमानाः । किमिव आपो न द्वीपम् । द्विपार्श्वस्थोदकवान् पर्वतादिर्द्वीपः । तं यथापो धारयन्ति तद्वत् । यद्वा । आयुधमेवोच्यते । वज्राख्यायुधविशेषो [?] ऽतसे काष्ठसमूहे शुशुक्वान् दीपयन्नग्निश्चित् । चिच्छब्द उपमार्थे । दधि चिदित्युपमार्थे । नि. १-४ [?] । इति यास्केनोपमार्थस्योक्तत्वात् ॥ काष्ठे ज्वलन्नग्निरिव । तद्वद्दीप्तो वर्तते । एतदेव दीप्तत्वमपेक्ष्य स इत्युक्तम् [?] । एवं च सत्यापो द्वीपमिव वृष्ट्युदकानि प्रयांसि सस्याद्यन्नानि दधति । धारयन्ति । एतत्सर्वं महानुभावस्येन्द्रस्य वीर्यं सामर्थ्यमितीन्द्रस्य स्तुतिः ॥ [reading of the last sentence doubtful]
+> हे इन्द्र ते तव सा प्रसिद्धा ऋष्टिर्वज्राख्यायुधविशेषोऽस्मे अस्मदर्थम् अम्यक् । प्राप्नोति मेघसमीपे । एवं च सति मरुतोऽपि सनेमि । अह्नायेति षट् पुराणनामानीत्यादि [?] सनेमि पुराणनाम । पुराणं चिरकालं संगृहीतमभ्वमुदकं जुनन्ति । क्षिपन्ति । वर्षन्तीत्यर्थः । वृष्ट्या सस्यादिसमृद्धौ सत्यामग्निश्चिद्धि ष्म । हि स्मेति पूरणे । अग्निरप्यातसे संतते कर्मणि निमित्तभूते सति शुशुक्वान् दीप्यमानो वर्तते । पश्चात्प्रयांसि चरुपुरोडाशादिहवींषि दधति । धारयन्ति ददति वा यजमानाः । किमिव आपो न द्वीपम् । द्विपार्श्वस्थोदकवान् पर्वतादिर्द्वीपः । तं यथापो धारयन्ति तद्वत् । यद्वा । आयुधमेवोच्यते । वज्राख्यायुधविशेषो [?] ऽतसे काष्ठसमूहे शुशुक्वान् दीपयन्नग्निश्चित् । चिच्छब्द उपमार्थे । दधि चिदित्युपमार्थे । नि. १-४ [?] । इति यास्केनोपमार्थस्योक्तत्वात् ॥ काष्ठे ज्वलन्नग्निरिव । तद्वद्दीप्तो वर्तते । एतदेव दीप्तत्वमपेक्ष्य स इत्युक्तम् [?] । एवं च सत्यापो द्वीपमिव वृष्ट्युदकानि प्रयांसि सस्याद्यन्नानि दधति । धारयन्ति । एतत्सर्वं महानुभावस्येन्द्रस्य वीर्यं सामर्थ्यमितीन्द्रस्य स्तुतिः ॥ [reading of the last sentence doubtful]
 
 *Gist:* Indra's famous thunderbolt reaches the cloud for us; the Maruts pour down the old-stored water, and rain brings abundance; the sacrificers hold up the oblations as waters hold an island, and the bolt blazes like fire in a pile of wood.
 
@@ -3458,4 +3458,46 @@ In the second meaning, since *svarmīḷhasya* is an adjective of *pradhanasya*:
 
 ---
 
-**Progress note:** printed p. 154 (PDF 174) done — Sūkta 169 Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (breaks off at 'agniḥ cit hi sma'). Next: printed p. 155 (PDF 175). Open flags: Ṛk 3 bhāṣya [?] words (dense); small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 155  (PDF 175)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9".)*
+
+*(Pratipadārtha of Ṛk 3, continued)* — *ātase* — for the continuous (sacrificial) rite; *śuśukvān* — blazing brightly (he is); *āpaḥ* — waters; *dvīpaṃ na* — as an island (which they hold, that is, surround); *prayāṃsi* — oblations (such as *caru* and *puroḍāśa*); *dadhati* — they hold (offer). [*Or:* *(ṛṣṭiḥ* — the thunderbolt-weapon*)* *ātase* — in a pile of wood; *śuśukvān* — blazing brightly; *agniḥ cit* — like fire (it blazes); *āpaḥ* — waters; *dvīpaṃ na* — as an island (they surround); *prayāṃsi* — food in the form of crops and the like; *dadhati* — they hold (support).]
+
+**Bhāvārtha.** O Indra, your weapon, the thunderbolt, approaches the clouds, to cause rain; for the sake of the sacrificial rite Agni also blazes; and (the sacrificers) with offerings such as *caru* and *puroḍāśa* surround the fire, as waters surround an island.
+
+**English Translation (as printed):** Your weapon, Indra, is at hand for our (good); the Maruts send down the long-accumulated rain; Agni is blazing for the ceremony; the oblations encompass him as the waters (surround) an island.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***ṛṣṭiḥ asme amyak*** — here Indra is addressed. The word *ṛṣṭi* means "*vajrākhyāyudhaviśeṣaḥ*": it is well known by the name of the thunderbolt-weapon, and the sense is that it is Indra's weapon; "*asmadvṛṣṭyarthaṃ meghasamīpe prāpnoti*" — it is employed near the clouds to bring down the waters of rain for us, the sacrificers. The Nirukta-writers explain the word *amyak*, citing this very ṛk,
+
+> अम्यक् सा त इन्द्र ऋष्टिरस्मे सनेम्यभ्वं
+
+> *amyak sā ta indra ṛṣṭirasme sanemyabhvaṃ*
+
+as "*amāktīti vā abhyuktīti vā*" [as read]; Durgācārya says "*ṛṣṭirabhidheyo māṃ eṣā pratyañci tām āmoṣāpratyañcite…, śatravaḥ manyante*" [garbled in the reading]: the enemies think "Indra's weapon called *ṛṣṭi* is directed towards me"; and because "*nityakālaṃ śatrūn prati abhigaitva bhavatīti*" [as read] — it is always facing the enemies — it is well known as *amyak*. Thus the sense is explained.
+
+***marutaḥ sanemi abhvaṃ junanti*** — *cirakālaṃ saṃgṛhītaṃ udakaṃ varṣanti*: when the weapon of Indra called *ṛṣṭi* is employed near the clouds, the clouds, with the water they have collected for a very long time, are made to pour it out, and rain is produced: this is the meaning stated. The word *abhva* is read among the names of water (Ni. 1-[?]) and also among the names of great things (Ni. 3-[?]); here the sense "water" is explained.
+
+### Printed p. 156  (PDF 176)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+***sanemi*** — this word is stated among the names of "old" (Ni. 3-[?]); even so, in the ṛk
+
+> शं नो भवन्तु वाजिनो हवेषु देवताता मितद्रवः स्वर्काः ।
+> जम्भयन्तोऽहिं वृकं रक्षांसि सनेम्यस्मद्युयवन्नमीवाः ॥
+
+> *śaṃ no bhavantu vājino haveṣu devatātā mitadravaḥ svarkāḥ |*
+> *jambhayanto'hiṃ vṛkaṃ rakṣāṃsi sanemy asmad yuyavann amīvāḥ ‖*
+
+(Ṛ. Saṃ. 7-35-7 [?]), the use of the word *sanemi* in the sense *kṣipram* ("quickly") is shown. The Nirukta-writer gives two meanings for the word *sanemi*: "old" or "of a long past time", and *kṣipra* (alertness); of these Sāyaṇa has taken "old". And this very thing in his commentary: "*sanemi ahnāye ti ṣaṭ purāṇanāmāni…; sanemi purāṇanāma; purāṇaṃ ciraṃ kālaṃ saṃgṛhītam*" [as read]: since it is read among the six names of "old" in the Nirukta, the sense "old (ancient)" is supported for the word *sanemi*; it is explained that the waters have been gathered for a very long time.
+
+For the latter half of this ṛk, two kinds of meaning are explained. Both follow the filler (*pūraṇa*) and comparison meanings of the word *cit* in *agniścid dhi ṣma*. In the first meaning, the word *agni* is the qualified word: *agniḥ ātase santate karmaṇi nimittabhūte sati śuśukvān* — after the crops have been produced by rain and the like, for the sacrificial rites and the like, he blazes in brightness; and, in order to satisfy the fire thus shining, *prayāṃsi dadhati carupuroḍāśādihavīṃṣi dhārayanti dadati vā yajamānāḥ* — the sacrificers hold (offer) oblations or pour them into the fire; the oblations held by the sacrificers are compared, "*āpo na dvīpam*", to waters holding an island. The sense of the word *dvīpa* is also explained: "*dvipārśvastodakavān parvatādiḥ*" — a place such as a mountain, with water on two sides; "*taṃ yathā āpo dhārayanti*" — as waters hold the island; so the way of comparison, that the oblations are held between Agni and the sacrificers, is described.
+
+The Nirukta-writer, explaining the sense of the particle *cit*: "*cid ity eṣo anekakarmā*" — the particle *cit* is used in many senses — explains it, and these (continued on the next page).
+
+---
+
+**Progress note:** printed p. 156 (PDF 176) done — Sūkta 169 Ṛk 3 Pratipadārtha to Special Topics (continues p. 157). Next: printed p. 157 (PDF 177). Open flags: Ṛk 3 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
