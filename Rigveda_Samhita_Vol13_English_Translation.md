@@ -12454,4 +12454,69 @@ Uṣas (Dawn) is said to be the elder sister of Night. With the rising of Uṣas
 
 ---
 
-**Progress note:** printed p. 456 (PDF 476) done — Sūkta 178 Ṛk 2 Special Topics (yoni = yajña; continues p. 457). Next: printed p. 457 (PDF 477). Open flags: refs [?]; garbled SB quote p. 455; review/doubts_v13.json.
+### Printed p. 457  (PDF 477)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 457.)*
+
+**Special Topics (continued)** — … together with the motion of the world it takes on its own motion. Explaining this point, the Śatapatha Brāhmaṇa gives the derivation of the word *yajña* thus:
+
+> अथ यस्माद्यज्ञो नाम । घ्नन्ति वा एनमेतद्यदभिषुण्वन्ति तद्यदेनं तन्वते तदेनं जनयन्ते स तायमानो जायते स यज्ञा [?] यते [?] तस्माद्यज्ञो यज्ञो ह वै नाम्यैतद्यज्ञ इति [?] ..........
+
+> *atha yasmādyajño nāma | ghnanti vā enametadyadabhiṣuṇvanti tadyadenaṃ tanvate tadenaṃ janayante sa tāyamāno jāyate sa yajñā [?] yate [?] tasmādyajño yajño ha vai nāmyaitadyajña iti [?] ..........*
+
+(Śa. Brā. 3-9-4-23 [?]) — at the time of pressing (*abhiṣava*) they kill it; then they cause it to be born again. Because it is born together with a motion of expansion, it became known by the name *yajña*. This sacrifice, being always in keeping with the states of the world, is beneficial to the world. How? —
+
+> भुज्युः सुपर्ण इति । यज्ञो वै भुज्युः यज्ञो हि सर्वाणि भुनक्ति यज्ञो गन्धर्वः ..........
+
+> *bhujyuḥ suparṇa iti | yajño vai bhujyuḥ yajño hi sarvāṇi bhunakti yajño gandharvaḥ ..........*
+
+(Śa. Brā. 9-4-1-11 [?]) — the sacrifice expects all beings for its offering (*āhuti*), and again goes out for the benefit of all beings. In this way, by showing the identity-relation (*tādātmya*) of the principle of the world and the sacrifice with other things, it is stated that the sacrifice itself is the cause of all worldly dealings, that the very relation in the form of a thread is the navel of the world. This is what is indicated in the ṛk at hand by the word *yoni*.
+
+In this womb of the world, the *svasṛ*s ("sisters"), having performed their acts, are ready to see that those who engage in the world's dealings suffer no obstruction. These *svasṛ*s may be:
+
+1. in the form of day and night; or
+2. in the form of the sacrificer and the *adhvaryu*; or
+3. in the form of the fingers, the instruments of the sacrifice (the Nirukta-writers have counted the word *svasṛ* among the names of the fingers, Ni. 3-9 [?]). — So Indra is prayed to make the acts performed in such a womb of the world faultless and fruitful.
+
+***sutukāḥ*** — Sāyaṇa explains this word as "*śobhanabalopetāḥ*" ("endowed with good strength"). The Nirukta-writers explain *sutuka* as "of excellent movement", and in the Ṛk-saṃhitā, describing Agni's advance:
+
+> स आ वक्षि महि न आ च सत्सि दिवस्पृथिव्योररतिर्युवत्योः ।
+> अग्निः सुतुकः सुतुकेभिरश्वै रभस्वद्भी रभस्वाँ एह गम्याः ॥ [as read [?]]
+
+> *sa ā vakṣi mahi na ā ca satsi divaspṛthivyoraratiryuvatyoḥ |*
+> *agniḥ sutukaḥ sutukebhiraśvai rabhasvadbhī rabhasvā~ eha gamyāḥ ‖ [as read [?]]*
+
+(Ṛ. Saṃ. 10-3-7 [?])
+
+### Printed p. 458  (PDF 478)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 458.)*
+
+— citing this ṛk, he explains "*sutukenaḥ*" [as read [?]]. In this cited ṛk Sāyaṇa too says: "*tukir gatyarthaḥ | sugamaḥ stotṛbhiḥ yaṣṭṛbhiś ca sukhena prāptavyaḥ*" ("*tuk* means going; easy to go to, easily reached by praisers and sacrificers"). But according to the Nirukta-writers' derivation, the word seems to describe here the excellent going, or the advance, of Agni. In the ṛk at hand, as an epithet of *āpaḥ* it can only mean "that which gives its fruit quickly".
+
+***rājā indraḥ*** — "*rājamānaḥ īśvaro vā*" ("shining, or sovereign"): the word *rājā* is an epithet of Indra, in the sense "shining" or "universal emperor". Indra has the epithets *samrāṭ*, *svarāṭ* and the like in many places. For example, in the Ṛk-saṃhitā:
+
+> आवासृजन्त जिव्रयो न देवा भुवः सम्राळिन्द्र सत्ययोनिः । [as read [?]]
+
+> *āvāsṛjanta jivrayo na devā bhuvaḥ samrāḷindra satyayoniḥ | [as read [?]]*
+
+(Ṛ. Saṃ. 4-19-2 [?]) — in this ṛk *samrāṭ* is described as the protector of all the worlds and the abode (*niyāsa*) of truth. And likewise:
+
+> सम्राळन्यः स्वराळन्य उच्यते वां महान्तावुद्रावरुणा [?] महावसू ।
+> विश्वे देवासः परमे व्योमनि सं वामोजो वृषणा सं बलं दधुः ॥
+
+> *samrāḷanyaḥ svarāḷanya ucyate vāṃ mahāntāvudrāvaruṇā [?] mahāvasū |*
+> *viśve devāsaḥ parame vyomani saṃ vāmojo vṛṣaṇā saṃ balaṃ dadhuḥ ‖*
+
+(Ṛ. Saṃ. 6-68-2 [?]) — in such ṛks Indra and Varuṇa, who are independent of any other, are described by the epithets *samrāṭ*, *svarāṭ*. The greatness that lies in these epithets of Indra and Varuṇa, and the special character of the epithets, will be explained later in the Ṛk-saṃhitā. In the ṛk at hand also, by the epithet *rājā*, the same idea is shown.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***ghā*** — by "*ṛcitunughamakṣu…*" (Pā. Sū. 6-3-133 [?]) lengthening in the Saṃhitā.
+- ***dabhat*** — root *dambhu dambhe*; *laṅ* used in the sense of *loṭ* in Vedic; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; by "*bahulaṃ chandasy amāṅyoge 'pi*" the *aṭ* augment does not occur; *tiṅ*-final *nighāta* accent.
+- ***yā*** — by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) elision of *śi*.
+- ***svasārā*** — by "*supāṃ sulukpūrvasavarṇa…*" the dual takes *ā* substitution.
+
+---
+
+**Progress note:** printed p. 458 (PDF 478) done — Sūkta 178 Ṛk 2 Special Topics complete; grammar begun (ghā, dabhat, yā, svasārā; continues p. 459). Next: printed p. 459 (PDF 479). Open flags: refs [?]; garbled SB quotes p. 457; review/doubts_v13.json.
