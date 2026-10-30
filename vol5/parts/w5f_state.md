@@ -14,3 +14,8 @@ Open items:
 - p. 621: Nirukta printed (೫-೧)? written 5-1 [?]. p. 593: 5-57-5 [?] (2/7).
 - p. 622: neighbours without ? differ from the print (pure printed 7-97-7, file 7-97-5; Tvaṣṭṛ printed 10-53-9, file 10-59-9): not changed. p. 625: 'most divinity [2-24-11]' not checked; 10-97-15 and 19 (thin rounded glyph read as 7, as on p. 622).
 - p. 620: the file's immortality ref 1-96-2 (no ?) not checked; the preceding 'first to create men' is printed 1-96-2.
+
+Unsettled references (for a doubts page):
+- p. 593: "It has been said many times that they were born (5-57-5 [?]; etc.)" — printed ೫-೫?-೫, middle glyph 2 or 7.
+- p. 621: "In the Nirukta (5-1 [?]) *Vaiśvānara* is one of the names of Agni" — printed (೫-೧)?; first glyph read ೫, but the following explanation cites Nir. 7-.
+- 2/7 glyph calls to confirm: p. 622 "holds a golden axe [7-97-7]", p. 625 "growth of crops [10-97-15 and 19]" (thin round-footed glyph read 7).
