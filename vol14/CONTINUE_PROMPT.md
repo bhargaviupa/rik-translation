@@ -1,0 +1,7 @@
+# Vol 14 — continue prompt (lean) for a NEW independent session
+
+Paste everything below the line.
+
+---
+
+Continue translating Vol 14 (repo bhargaviupa/rik-translation) in LEAN MODE (save tokens). Independent session; no coordinator. `git fetch origin claude/vol14 && git checkout -B claude/vol14 origin/claude/vol14` (never reset a pushed branch or force-push; no PRs; merge to main only when I say). Read ONLY CLAUDE.md, vol14/vol14_runbook.md, vol14/vol14_state.md and vol14/parts/session_state.md, and glance at the last finished sūkta of `Rigveda_Samhita_Vol14_English_Translation.md` for the format. Continue from the recorded point with the method of the runbook: page-anchored, each page viewed once at ~110 dpi, zoom only crops in doubt, IAST by script, append with vol14/tools/append_en.py (one trailing progress note), doubtful readings logged with vol14/tools/doubt.py, no OCR for readings, no image = stop. Push after every sūkta (or ~15 pages) and update vol14/parts/session_state.md. When your context is filling, finish the current Ṛk, push, update the state and tell me to start the next session with vol14/CONTINUE_PROMPT.md. One or two lines per reply.
