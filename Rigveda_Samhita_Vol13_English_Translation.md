@@ -893,4 +893,34 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ---
 
-**Progress note:** printed p. 42 (PDF 62) done — Sūkta 166 Ṛk 9 in progress (Special Topics: mithaspṛdhyeva; continues on p. 43). Next: printed p. 43 (PDF 63). Open flags: small-type numerals [?]; Ṛk 9 bhāṣya words marked [?]; review/doubts_v13.json.
+### Printed p. 43  (PDF 63)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* …made of iron and the like — many kinds of weapons are joined together and set in one place in the chariots; with the motion of the chariot those weapons rub against one another and make a noise: this is the purport.
+
+***taviṣāṇi*** — the word *taviṣa* is read among the names of strength (Ni. 2-9 [?]); but here this word is in the neuter plural, so the explanation of the word *taviṣāṇi* in the first ṛk of this Sūkta as *sāmarthyāni* — "capabilities, valorous deeds, deeds of daring" — does not fit well; for neither capabilities nor deeds of daring are things that are laid in chariots — they are only names of acts; and if *taviṣāṇi* is explained as "armies" (*sainya*), it is not possible to lay armies (however large) in chariots. Therefore the sense "weapons that give strength" for the word *taviṣāṇi* is the one that fits. Hence:
+
+***mithaspṛdhyeva taviṣāṇy āhitā*** — in this sentence the meaning is: "many excellent weapons, rubbing against each other through the movement of the chariots, are laid in your chariots".
+
+***aṃseṣv ā vaḥ*** — besides the weapons in the chariots described above, you have also kept some weapons on your arms.
+
+***prapatheṣu khādayaḥ*** — 
+
+> वः प्रपथेषु । प्रगताः पन्थानो येषु विश्रामस्थानेषु तानि प्रपथानि । तेषु खादयः खाद्यानि भक्ष्याण्याहितानि । यद्वा । प्रगतः पन्था यैस्तेषु पादाग्रेषु खादयः स्थिरा आभरणविशेषा आहिताः ॥
+
+> *vaḥ prapatheṣu | pragatāḥ panthāno yeṣu viśrāmasthāneṣu tāni prapathāni | teṣu khādayaḥ khādyāni bhakṣyāṇyāhitāni | yadvā | pragataḥ panthā yaistesu pādāgreṣu khādayaḥ sthirā ābharaṇaviśeṣā āhitāḥ ‖*
+
+The Bhāṣyakāra has given two kinds of meaning for this sentence. *Prapatha* are the places where, at the time of journeys, one sits for some time to rest from the fatigue of the road; it is natural to eat, while sitting at such places, the food one has brought with one; this very matter is indicated here. Or *prapatha* means the feet that serve for going along the paths (for walking), and *khādayaḥ* is the name of the foot-ornaments worn on them — he gives this other meaning too.
+
+Max Müller, a German scholar, takes the two phrases *aṃseṣv ā vaḥ prapatheṣu khādayaḥ* as one sentence and translates it: "When you are on your journeys, you carry rings on your shoulders." (English in the source; with the Kannada: "when you journey you wear ornaments (weapons?) on your arms"). To support this, in explaining the word *vṛṣakhādayaḥ* in Ṛ. Saṃ. 1-64-10 [?] he has made the following discussion about the word *khādi* (English):
+
+"In वृषखादयः (*vṛṣakhādayaḥ*) the meaning of खादि (*khādi*) is by no means clear. Sayana evidently guesses and proposes two meanings–weapon or food. In several *[continues on the next page]*
+
+### Printed p. 44  (PDF 64)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* "passages where खादि occurs, it seems to be an ornament rather than a weapon, yet if derived from khad to bite, it may originally have signified some kind of weapon. Roth tranlates [sic] it by ring, and it is certain that these khadis were to be seen not only on the arms and shoulders, but likewise on the feet of the Maruts. There is a famous weapon in India, the चक्र (*cakra*) or quoit, a ring with sharp edges (चक्रायुध) which is thrown from a great distance with fatal effect. Bollensen (Orient and Occident Vol. II. p. 46) suggests for वृषन् (*vṛṣan*) the meanig [sic] of hole in the ear, and then translates the compound as having earrings in the hole of the ear. But वृषन् does not mean the hole in the lap of the ear, nor has वृषभ (*vṛṣabha*) that meaning either in the Veda or elsewhere. Wilson gives for वृषभ, not for वृषन्, the meaning of orifice of the ear, but this is very different from the hole in the lap of the ear. Benfey suggests that the khadis were made of the teeth of wild animals and hence their name of biters. वृषन् conveys the meanig [sic] of strong, though possibly with the implied idea of rain-producing, fertlising [sic]. In वृषन् we have one of those words which it is almost impossible to translate accurately. It occurs over and over again in the Vedic Hymns, and if we once know the various ideas which it either expreesss [sic] or implies, we have little difficulty in understanding its import in a vague and genaral [sic] way, though we look in vain for corresponding terms in any modern language. In the Veda, and in ancient languages generally, one and the same word is frequently made to do service for many. Words retain their general meaning, though at the same time they are evidently used with a definite purpose. This is not only a peculiar phase of language, but a peculiar phase of thought, and as to us this phase hase [sic] become strange and unreal, it is very difficult to transport ourselves back into it, still more to translate the pregnant terms of the Vedic poets into the definite languages which we have to use."
+
+(Kannada:) There is another mantra which says that the Marut-gods wear on their arms ornaments called *khādi*, or special weapons — *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 44 (PDF 64) done — Sūkta 166 Ṛk 9 Special Topics (khādayaḥ; Max Müller quotation complete; next a further mantra on khādi). Next: printed p. 45 (PDF 65). Open flags: small-type numerals [?]; review/doubts_v13.json.
