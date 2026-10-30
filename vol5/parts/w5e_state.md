@@ -4,8 +4,8 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 644 (file section p. 643 covers print 643-644) (check pages: p626-629, p630-631, p632-635, p636-639). (check pages to p640-644).
-Next page: p. 645 (PDF 661).
+Done through: p. 646 (check pages: p626-629, p630-631, p632-635, p636-639). (check pages to p640-644).
+Next page: p. 647 (PDF 663).
 Open items:
 - The file has no "Printed p. 644" heading: its p. 643 section also holds print p. 644 (PDF 660); refs 15-30 of that section were read from PDF 660 and logged as p. 643 (check-page crops for them may be missing).
 - p. 640: the print has "'ಅಸುರ'ನ (೧-೧೧೦-೩) ಆಹಾರವು ತುಂಬಿದ್ದ ಒಂದು ಹೊಸಬಟ್ಟಲನ್ನು (೧-೨೦-೬) ತಯಾರಿಸಿದನು" (made a new bowl full of food, 1-20-6); the translation lacks this clause and ref (not added: translation issue).
