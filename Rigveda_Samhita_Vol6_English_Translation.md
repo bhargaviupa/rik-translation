@@ -11733,11 +11733,13 @@ In this Ṛk the word *rajas* gives the sense 'day'. In the present context the 
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.2**
 
-> आ ते सुपर्णा अमिनन्त एवैः कृष्णो नोनाव वृषभो यदीदम् ।
-> शिवाभिर्न स्मयमानाभिरा गात्पतन्ति मिहः स्तनयन्त्यभ्रा ॥ २ ॥
+*(Accents as printed, 300 dpi; exact syllable of several strokes/underlines is doubtful: [accent ?].)*
+
+> आ ते॑ सुप॒र्णा अ॑मिनन्त॒ एवैः कृ॒ष्णो नो॑नाव वृ॒षभो यदी॒दम् ।
+> शि॒वाभि॒र्न स्म॑यमाना॒भिरा गा॒त्प॑तन्ति॒ मि॑हः स्त॑नयन्त्य॒भ्रा ॥ २ ॥
 
 *ā te suparṇā aminanta evaiḥ kṛṣṇo nonāva vṛṣabho yadīdam |
-śivābhir na smayamānābhir ā gāt patanti mihaḥ stanayanty abhrā ||2||*
+śivābhir na smayamānābhir ā gāt patanti mihaḥ stanayanty abhrā ||2||* [accent ?]
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
