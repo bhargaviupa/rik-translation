@@ -14291,14 +14291,14 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 > आहेयातारं कमपश्य इन्द्र हृदि यत्ते जघ्नुषो भीरगच्छत् ।
 
-*āhe yātāraṃ kam apaśya indra hṛdi yat te jaghnuṣo bhīr agacchat |* (Ṛk. Saṃ. 1-32-[4] [?]) — *the opening words are read with doubt [?]. Gloss, mine and tentative:* "Whom did you see as an avenger of the serpent, O Indra, when fear entered your heart as you slew him?"
+*āhe yātāraṃ kam apaśya indra hṛdi yat te jaghnuṣo bhīr agacchat |* (Ṛk. Saṃ. 1-32-4) — *the opening words are read with doubt [?]. Gloss, mine and tentative:* "Whom did you see as an avenger of the serpent, O Indra, when fear entered your heart as you slew him?"
 
 — in the word *yātāram* in this Ṛk, as the example: 'Indra confronts all enemies; there is no one who can confront Indra, fight him and make him bow.' So Skandasvāmin explains the sense. *Sarvatra vyāpya vartamānam indram*: 'we, small people, cannot know Indra, who dwells pervading all places, in all quarters' — so Sāyaṇa explains."
 - **परः वीर्या** — "'Indra, by his own strength, dwells in a very distant place, which men cannot reach' is the sense. The word *paraḥ* is an indeclinable ending in *s*; it indicates 'very far'.
 
 > परो दिवा पर एना पृथिव्या परो देवेभिरसुरैर्यदस्ति ।
 
-*paro divā para enā pṛthivyā paro devebhir asurair yad asti |* (Ṛk. Saṃ. 10-[82]-[5] [?]) — *Gloss, mine and tentative:* "Beyond heaven, beyond this earth, beyond the gods and the Asuras — (that which) is."
+*paro divā para enā pṛthivyā paro devebhir asurair yad asti |* (Ṛk. Saṃ. 10-82-5) — *Gloss, mine and tentative:* "Beyond heaven, beyond this earth, beyond the gods and the Asuras — (that which) is."
 
 — in this Ṛk the word *paraḥ* is used in the sense stated above."
 
@@ -14428,28 +14428,28 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 > दश रथान्प्रष्टिमतः शतं गा आथर्वणेभ्यः ।
 > अश्वथः पायवे ददात् ॥
 
-*daśa rathān praṣṭimataḥ śataṃ gā ātharvaṇebhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛk. Saṃ. 6-47-[24] [?]) — *Gloss, mine and tentative:* "Ten chariots with their (team) and a hundred cows (he gave) to the Ātharvaṇas; Aśvatha gave to Pāyu."
+*daśa rathān praṣṭimataḥ śataṃ gā ātharvaṇebhyaḥ | aśvathaḥ pāyave dadāt ||* (Ṛk. Saṃ. 6-47-24) — *Gloss, mine and tentative:* "Ten chariots with their (team) and a hundred cows (he gave) to the Ātharvaṇas; Aśvatha gave to Pāyu."
 
 — in this and other Ṛks there is the praise of a gift (*dānastuti*): King Aśvatha gave chariots, cows and so on to those of the Atharvan line.
 
 > अभि ते मधुना पयोऽथर्वाणो अशिश्रयुः ।
 > देवं देवाय देवयु ॥
 
-*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛk. Saṃ. 9-11-[2] [?]) — *Gloss, mine and tentative:* "The Atharvans have mixed milk with your honey (Soma), the divine for the god, desiring the gods."
+*abhi te madhunā payo 'tharvāṇo aśiśrayuḥ | devaṃ devāya devayu ||* (Ṛk. Saṃ. 9-11-2) — *Gloss, mine and tentative:* "The Atharvans have mixed milk with your honey (Soma), the divine for the god, desiring the gods."
 
 — in this Ṛk it is mentioned that these of the Atharvan line offered Soma juice mixed with milk to Soma. The name of this ṛṣi is also found in —
 
 > यज्ञैरथर्वा प्रथमः पथस्तते ततः सूर्यो व्रतपा वेन आजनि ।
 
-*yajñair atharvā prathamaḥ pathas tate tataḥ sūryo vratapā vena ājani |* (Ṛk. Saṃ. 1-83-[5] [?]) — *Gloss, mine and tentative:* "By sacrifices Atharvan first opened the paths; then was born the sun, guardian of the law, the radiant."
+*yajñair atharvā prathamaḥ pathas tate tataḥ sūryo vratapā vena ājani |* (Ṛk. Saṃ. 1-83-5) — *Gloss, mine and tentative:* "By sacrifices Atharvan first opened the paths; then was born the sun, guardian of the law, the radiant."
 
 > त्वामग्ने पुष्करादध्यथर्वा निरमन्थत ।
 
-*tvām agne puṣkarād adhy atharvā niramanthata |* (Ṛk. Saṃ. 6-16-[13] [?]) — *Gloss, mine and tentative:* "You, O Agni, Atharvan churned out from the lotus (the sky/waters)."
+*tvām agne puṣkarād adhy atharvā niramanthata |* (Ṛk. Saṃ. 6-16-13) — *Gloss, mine and tentative:* "You, O Agni, Atharvan churned out from the lotus (the sky/waters)."
 
 > [ऐना महान्त्स्पहद्दिवो आथर्वणोऽचिक्षयाम् [?] तन्वं मिन्द्रमेव] [?]
 
-*[the third citation printed at the foot of this group is garbled at this resolution and I do not reproduce it]* (Ṛk. Saṃ. 10-[120]-[9] [?]).
+*[the third citation printed at the foot of this group is garbled at this resolution and I do not reproduce it]* (Ṛk. Saṃ. 10-120-9).
 
 — in these Ṛks the word occurs. In the tenth *maṇḍala* of the Ṛgveda (Ṛk. Saṃ. 10-[120] [?]) there is a sūkta addressed to Indra, seen by the ṛṣi Bṛhaddiva, of the lineage of this ṛṣi Atharvan."
 - **मनुः** — "In the Ṛgveda the name of Manu occurs in many places, but nowhere is there much detail. Manu is known to be the primal man (*mūlapuruṣa*) of the human race and also the guide in the order of procedure of sacrifices and the like. When he was distributing his property among his sons, his youngest son, Nābhānediṣṭha, who was studying in the *gurukula* as a *brahmacārin*, received no share; having finished his studies he came and asked his father for his inheritance (*dāyabhāga*). *(the passage runs on to p. 618)*
