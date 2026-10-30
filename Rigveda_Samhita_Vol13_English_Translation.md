@@ -16962,4 +16962,52 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 604 (PDF 624) done — Sūkta 182 Ṛk 2 ends (Special Topics, grammar); Ṛk 3 Saṃhitā, Pada. Next: printed p. 605 (PDF 625): Ṛk 3 bhāṣya onward. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 605  (PDF 625)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 605.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे दस्रोपक्षपयितारौ युवामत्रास्मिन्मनुष्ये किं कृणुथः । कुरुथः । हविषोऽभावादिति भावः । तत्रैव किमासाथे । किं तिष्ठथः । अत्रेत्युक्तं कुत्रेत्याह । यः कश्चिज्जनो जन्मनानहविर्यज्ञार्थहविरहितो महीयते पूज्यते स्वयं न युष्मान् पूजयति । तं जनमति क्रमिष्टं । पराभूयात् तिष्ठतं । न केवलमतिक्रममात्रं किंतु पणेर्वणिग्भूतस्य लुब्धकस्यायुष्यस्तस्यासुं प्राणं जुरतं । अहिंसिष्टं । अनीनशतं । विप्राय मेधाविने वचस्यवे वचसः स्तोत्ररूपस्य युवाभ्यामिच्छते मह्यं ज्योतिः कृणुतं । युष्मद्यजनविषयज्ञानं कुरुतम् ॥
+
+*(Sanskrit as read; doubtful in several words [?]. Gist: why do you linger where a man, giving no oblation, is honoured? Overcome him, destroy the life of the niggardly trader, and give me, a wise praiser, the light of knowledge.)*
+
+**Pratipadārtha** — *he dasrā* — O Aśvin deities, destroyers of foes; **yaḥ kaḥ cit janaḥ** — whichever man; **ahaviḥ** — devoid of oblations for sacrifice; **mahīyate** — (himself, without worshipping you) is honoured, becomes worshipped; **atra** — in the matter of such a man; **kiṃ kṛṇuthaḥ** — what do you do; **kiṃ āsāthe** — why do you sit there; **ati kramiṣṭaṃ** — overcome (such a man); **paṇeḥ** — of the miser, the trader; **asuṃ** — the life; **jurataṃ** — afflict (destroy); **viprāya** — for the wise one; **vacasyave** — who desires praise in the form of words; **jyotiḥ** — the light of knowledge (that you should be worshipped); **kṛṇutaṃ** — make.
+
+**Bhāvārtha** — O Aśvin deities, destroyers of foes, why do you go near a man who, himself honoured, gives no oblation for sacrifice? What do you do with such a man? Overcome that man; destroy the miser, the niggard; and grant to me, a wise man who desires to praise you, the light of knowledge to worship you.
+
+**English Translation.** *(printed)*
+
+"What make you here, Ashwins : why do you tarry, (where) any man who makes no oblation is respected : humble him ; take away the life of the niggard ; grant light to the pious man striving to speak your praise,"
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Dasrā** — the senses of this word — "those with attractive forms" in one sense, and "destroyers of enemies" in another — were told earlier. In the present context it is explained as "destroyers of enemies" (*upakṣayakāraka*).
+
+### Printed p. 606  (PDF 626)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 606.)*
+
+There is a reason for telling this meaning. The sacrificer who is destitute, not having oblations in full to give and unfit to give, shows his fear. And solely from poverty, saying "*haviṣaḥ abhāvāt*" ("from lack of oblation"), he prays that he has not been able to offer oblations to them for their sake, that his devotion and faith are boundless nonetheless, and therefore that no calamity may come to him; and, though possessing full wealth, he who without faith and devotion does not offer oblations — he prays that the *paṇi*s, the other kind, be wholly destroyed.
+
+For the word **paṇi**, the Nirukta-author's derivation, and the meaning given by Sāyaṇa, were told before in the Special Topics of Ṛk 1-180-2 [?]. In **lubdhakāḥ**, **abudhyamānāḥ**, **yāgā dīnakurvāṇāḥ**, **adānaśīlāḥ**, **asmacchatravaḥ** and the like, Sāyaṇa has shown the nature of the *paṇi*s.
+
+Thus, since they are harmful to the sacrificers, the sacrificer there prays to the Aśvin deities to destroy them.
+
+**Juratam** — for this word the meaning is "afflict, or destroy". In general this word is used of enemies who are harmful. For example:
+
+> चित्रं तद्वो मरुतो याम चेकिते पृश्न्या यदूधरप्सा यो दुदुहुः ।
+> यद्वा निदे नवमानस्य रुद्रियास्त्रितं जराय जरतामदाभ्याः ॥
+
+> *citraṃ tadvo maruto yāma cekite pṛśnyā yadūdharapsā yo duduhuḥ |*
+> *yadvā nide navamānasya rudriyāstritaṃ jarāya jaratāmadābhyāḥ ‖*
+
+(Ṛ. Saṃ. 2-34-10 [?]; as read) — in ṛks such as these, *jaratām* is explained as "of the afflicters, of the enemies". In the ṛk at hand, "afflict the enemies".
+
+**Jyotiḥ** — for this word the meaning is not merely physical light or radiance. "*Yuṣmadyajana-viṣayajñānaṃ*" — "the light in the form of the knowledge to worship you" is the meaning given.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *kṛṇuthaḥ* — root *kṛvi hiṃsākaraṇayoś ca*; *laṭ* second person dual form; being after a *tiṅ*-final, *nighāta* accent. *āsāthe* — root *āsa upaveśane*; *laṭ* second person dual form; *tiṅ*, *nighāta* accent. *ahaviḥ* — "*na vidyate haviḥ yasya saḥ*", by *vyatyaya* the *nañ* … gives no *nimitta*-accent; *bahuvrīhau* — "…" gives initial acute; or, since the word *haviḥ* has the suffix with the sense of possession dropped, being a *tatpuruṣa* compound, "*tatpuruṣe tulyārtha…*" (Pā. Sū. 6-2-2 [?]) gives the *prakṛti* accent of the former member that is an indeclinable.
+
+---
+
+**Progress note:** printed p. 606 (PDF 626) done — Sūkta 182 Ṛk 3 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (dasrā, paṇi, juratam, jyotiḥ), grammar begun (continues p. 607). Next: printed p. 607 (PDF 627). Open flags: refs [?]; review/doubts_v13.json.
