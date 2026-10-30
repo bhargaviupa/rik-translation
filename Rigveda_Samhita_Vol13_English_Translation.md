@@ -4404,4 +4404,66 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 
 ---
 
-**Progress note:** printed p. 194 (PDF 214) done — Sūkta 171 heading block done; pp. 193–194 are an editorial note quoting the Bṛhaddevatā. Next: printed p. 195 (PDF 215): Sūkta 171 Ṛk 1. Open flags: Bṛhaddevatā quotations on pp. 193–194 are garbled in places [?]; sūkta numbers in the note [?]; review/doubts_v13.json.
+### Printed p. 195  (PDF 215)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्रति व एना नमसाहमेमि सूक्तेन भिक्षे सुमतिं तुराणाम् ।
+> रराणता मरुतो वेद्याभिर्नि हेळो धत्त वि मुचध्वमश्वान् ॥ १ ॥
+
+> *prati va enā namasāhamemi sūktena bhikṣe sumatiṃ turāṇām |*
+> *rarāṇatā maruto vedyābhirni heḷo dhatta vi mucadhvamaśvān ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रति । वः । एना । नमसा । अहम् । एमि । सुऽउक्तेन । भिक्षे । सुऽमतिम् । तुराणाम् ।
+> रराणता । मरुतः । वेद्याभिः । नि । हेळः । धत्त । वि । मुचध्वम् । अश्वान् ॥ १ ॥
+
+> *prati | vaḥ | enā | namasā | aham | emi | su 'uktena | bhikṣe | su 'matim | turāṇām |*
+> *rarāṇatā | marutaḥ | vedyābhiḥ | ni | heḷaḥ | dhatta | vi | mucadhvam | aśvān ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वो युष्मानहं प्रत्येमि । अभिगच्छामि । केन साधनेन । नमसा नमस्कारेण हविषा वा । नम इत्यन्ननाम । तथा सूक्तेन शोभनवचनेन स्तुतिरूपेण । तुराणां त्वरमाणानां शत्रूणां हिंसकानां वा युष्माकं सुमतिं शोभनां मतिमनुग्रहबुद्धिं भिक्षे । याचे । इन्द्रस्यैव पुनरर्विप्रदानादिदं याच्यते [?] । किंच हे मरुतः यूयं वेद्याभिर्वेदिकव्याभिः [?] स्तुतिभी रराणता रममाणेन मनसेत्थंभूताः सन्तो हेळः । क्रोधनामैतत् । क्रोधं युष्मदभिक्रमजनितं नि धत्त । निकृष्टं धारयत । त्यजतेत्यर्थः । तथाश्वान् वि मुचध्वम् । रथेभ्यो वियोजयत । क्रोधात्सुनिर्गमनं मा कुरुतेत्यर्थः ॥
+
+*Gist:* Agastya approaches the Maruts with homage and a hymn, begging their good will; with minds delighted by his praises they should lay down their anger and unyoke their horses.
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods; *aham* — I; *enā namasā* — with this salutation or oblation (together with); *vaḥ* — to you; *prati emi* — I approach with that intention; *(tathā* — likewise*)* *sūktena* — with a good speech (in the form of praise); *turāṇām* — (for those who are eager) (in respect of enemies), or of those who harm; *sumatim* — (towards us) the mind of favour; *bhikṣe* — I ask; *(kiṃca* — and*)* *(he marutaḥ)* *vedyābhiḥ* — (by our) praises; *rarāṇatā* — with a delighted mind (being united with them); *heḷaḥ* — your anger; *ni dhatta* — lay down (give up); *(tathā* — and*)* *aśvān* — (chariot) horses; *vi mucadhvam* — unyoke (you, enraged, so that you may not come back from the chariot).
+
+**Bhāvārtha.** O Marut-gods, I approach you with a salutation; praising you, I beg you to show favour to us; O Maruts, delighted by our praises, give up your anger; do not come to us in anger; and, likewise, unyoke your chariot horses.
+
+### Printed p. 196  (PDF 216)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+**English Translation (as printed):** I approach you, Maruts, with this reverential homage, and with a hymn implore your favour against eager (foes): with minds pacified by our praises, suppress your anger, and let loose your horses.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***namasā*** — *namaskāreṇa haviṣā vā*: the word *namas* is read also among the names of food (Ni. 2-[?]). It is explained that the sage Agastya makes the Marut-gods content by saluting them and by offering oblations.
+
+***sūktena turāṇāṃ sumatiṃ bhikṣe*** — *śobhanavacanena stutirūpeṇa tvaramāṇānāṃ śatrūṇāṃ hiṃsakānāṃ vā*: the word *tura* is explained by Yāska with the example
+
+> प्रातर्जितं भगमुग्रं हुवेम वयं पुत्रमदितेर्यो विधर्ता ।
+> आध्रश्चिद्यं मन्यमानस्तुरश्चिद्राजा चिद्यं भगं भक्षीत्याह ॥
+
+> *prātarjitaṃ bhagam ugraṃ huvema vayaṃ putram aditer yo vidhartā |*
+> *ādhraś cid yaṃ manyamānas turaś cid rājā cid yaṃ bhagaṃ bhakṣīty āha ‖*
+
+(Ṛ. Saṃ. 7-41-2). In this ṛk, "*tura iti yamanāma tarater vā tvarater vā*" — the word *tura*, formed from the root *tṝ* or the root *tvar*, is explained as denoting Yama, who is swift in destroying beings. Sāyaṇa explains this word as "those who harm", or "enemies": when Agastya had prepared an oblation for Indra and then offered it to the Marut-gods, Indra himself having taken it, he salutes the Marut-gods who act quickly — so that, in respect of him (Agastya), they may not perform the acts of enemies or harmful acts (that is, may not be angry) — offers them oblations, praises them with excellent speech, and prays for *sumati*, "the mind of favour", which indicates satisfaction, that they may show it toward him. The word *tura* is also used as a synonym of *śakti* ("power").
+
+> सदिद्धि ते तुविजातस्य मन्ये सहः सहिष्ठ तुरतस्तुरस्य ।
+> उग्रमुग्रस्य तवसस्तवीयोऽरध्रस्य रध्रतुरो बभूव ॥
+
+> *sad id dhi te tuvijātasya manye sahaḥ sahiṣṭha turatas turasya |*
+> *ugram ugrasya tavasas tavīyo 'radhrasya radhraturo babhūva ‖*
+
+(Ṛ. Saṃ. 6-18-4 [?]). In this ṛk the word is used both in the sense of power and in the sense of killing. For the words *turataḥ turasya*, the explanation "*asmān hiṃsataḥ; śatrūṇāṃ hiṃsituḥ balavato vā*" is given: "one capable of subduing enemies who harm", as an epithet of Indra in the first half; and "*radhraturaḥ — vaśīkaraṇīyānāṃ sapatnānāṃ hiṃsakasya tava balam*" — your strength, as one who kills the enemies to be subdued — is used in the second half. And (continued on the next page)
+
+---
+
+**Progress note:** printed p. 196 (PDF 216) done — Sūkta 171 Ṛk 1 through Special Topics (continues p. 197). Next: printed p. 197 (PDF 217). Open flags: Ṛk 1 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
