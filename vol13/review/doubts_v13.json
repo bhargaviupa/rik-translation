@@ -5074,5 +5074,29 @@
   ],
   "note": "bhashya Rk4 garbled in places (tau cah, asalayatam); grammar sutra numerals",
   "answer": ""
+ },
+ {
+  "pdf": 531,
+  "printed": 511,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 cont. very dense and garbled (etanno, bhraksitavan, kuruta); refs TS 5-2-1, 2-1-10, Rg 1-119-6 small",
+  "answer": ""
+ },
+ {
+  "pdf": 532,
+  "printed": 512,
+  "crop": [
+   0.45,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Yaska-view sentence garbled ('akte', 'omyavantam'); ref Rg 1-119-6",
+  "answer": ""
  }
 ]
