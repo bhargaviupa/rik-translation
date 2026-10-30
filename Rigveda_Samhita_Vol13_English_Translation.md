@@ -2372,4 +2372,22 @@ Addressing the Marut-gods, the time when the Mitra deities and the rest perform 
 
 ---
 
-**Progress note:** printed p. 104 (PDF 124) done — Sūkta 167 Ṛk 8 complete; Ṛk 9: Saṃhitā to English done. Next: printed p. 105 (PDF 125): Ṛk 9 Special Topics. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 105  (PDF 125)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Special Topics (Viśeṣaviṣayagaḷu).**
+
+***śavasaḥ antam asme nu nahi āpuḥ*** — *yuṣmākaṃ sambandhino balasya avasānam asmākaṃ madhye 'py eko 'pi kṣipraṃ naiva khalu prāpnuvanti | sannidhāvasannidhau ca na prāpnuvanti*. The word *śavas* is stated among the names of water (Ni. 1-12 [?]) and read among the names of strength (Ni. 2-9 [?]). The seers of the mantra, in order to praise the greatness of the Maruts, say that not even one of us, whether near you or far, has the capacity to know by knowledge the measure of your strength; thus, since it is boundless, the Maruts' greatness is praised.
+
+The word *asme*, though having the same form in all the seven cases, conveys the sense of the respective case; thus the Nirukta-writers have given explanations and examples. *Asme te bandhuḥ* — in this sentence the word *asme* has the sense of the nominative case, "we". *Asme yātaṃ nāsatyā sajoṣāḥ* — here the sense of the accusative, *asmān* ("us"). *Asme samānebhir vṛṣabha pauṃsyebhiḥ* — here the sense of the instrumental, *asmābhiḥ* ("by us"). *Asme priyendhi maghavann ṛjīṣin* — the sense of the dative, *asmabhyam* ("to us"). *Asme ārāc cid dveṣaḥ sanutar yuyotu* — the sense of the ablative, *asmat* ("from us"). *Ūrvo iva paprathe kāmo asme* — the use of the genitive, *asmākam* ("our"). *Asme dhatta vasavo vasūni* — the sense of the locative, *asmāsu* ("in us") is given here (Ni. 6-[?]).
+
+***ārāccit*** — *dūrādapi | yadvā cideti kutsāyāṃ atyantadūrāt*: "even from afar"; or the particle *cit* is in the sense of scorn: "from very far". The Nirukta-writer has explained that the particle *cit* is used in many senses. Here, for the word *cit*, the sense *api* ("even"), which is of the nature of conjunction, and a sense of disparagement are given. He explains the sense as "whether far, or from very far".
+
+***śavasā śūśuvāṃsaḥ*** — the Marut-gods, who grow in strength by a power that overbears others, *dveṣaḥ pari ṣṭhuḥ* by their own strength — it is described that they keep enemies under their own control. In this matter the simile *arṇaḥ na* is stated: *yathā udakaṃ rajaḥ ādikam abhibhavati tadvat* — "as water overwhelms the dust and the like". It is explained that, as water, by its own capacity, draws into itself the dust, its enemy, so these keep their enemies in subjection to themselves. From this it is described that they are of immeasurable strength.
+
+### Printed p. 106  (PDF 126)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *nahi* (*nipātasya ca* Pā. 6-3-136 gives lengthening in the Saṃhitā). *anti* (the word *antika*; by the statement *kādilopaḥ… bahulam iti vaktavyam* the *k* of it is dropped). *asme* (locative plural; *supāṃ sulug…* Pā. 7-1-39 gives *śe* in its place). *ārāttāt* (*ārāt* is an indeclinable that gives the senses "far" and "near"; the suffix *tātil* in its own sense; being *lit*, the preceding syllable gets the acute). *āpuḥ* (root *āpḷ vyāptau*; Vedic *liṭ* in the present sense; 3rd plural; by connection with *nahi*, no *nighāta*; final acute by the suffix). *dhṛṣṇunā* (root *ḍhṛṣā prāgalbhye*; *knu* by *trasigṛdhidhṛṣikṣipeḥ knuḥ* Pā. 3-2-140; as it is *kit* no *laghūpadha-guṇa*; instrumental singular). *śūśuvāṃsaḥ* (root *ṭuośvi gativṛddhyoḥ*; *kvasu* in place of *liṭ*; *vibhāṣā śveḥ* Pā. 6-1-30 gives *saṃprasāraṇa* to the root; *pūrvarūpa*; *vasvekājāddhasām* Pā. 7-2-67 prevents *iṭ* for the suffix; the root being doubled, *tujādīnāṃ dīrgho 'bhyāsasya* Pā. 6-1-7 gives the reduplicate its lengthening; accent by the suffix). *dveṣaḥ* (root *dviṣa aprītau*; *vic* by *anyebhyo 'pi dṛśyante*; *pugantalaghūpadhasya ca* gives guṇa; the suffix is wholly dropped; accusative plural). *ṣṭhuḥ* (root *ṣṭhā gatinivṛttau*; Vedic *luṅ* in the present sense by *chandasi luṅlaṅliṭaḥ*; 3rd plural, *jhi*; *cli* → *sic*; *āteḥ* Pā. 3-4-110 gives *jus* for *jhi*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* gives *luk* of *sic*; *uṣyapadāntāt* gives *pararūpa*; by *bahulaṃ chandasy amāṅyoge 'pi* no *aṭ*; *nighāta* follows; *upasargāt sunoti…* Pā. 8-3-65 gives *ṣatva*). ‖ 9 ‖
+
+---
+
+**Progress note:** printed p. 106 (PDF 126) done — Sūkta 167 Ṛk 9 complete. Next: printed p. 107 (PDF 127): Ṛk 10. Open flags: small-type numerals [?]; review/doubts_v13.json.
