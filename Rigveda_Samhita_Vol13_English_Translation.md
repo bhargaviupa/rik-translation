@@ -7219,4 +7219,60 @@ Following this order, in the Soma sacrifice the offering of the morning pressing
 
 ---
 
-**Progress note:** printed p. 286 (PDF 306) done — Sūkta 173 Ṛk 8 printed English + Special Topics (savana; Aitareya Brāhmaṇa story of Ṛbhus continues p. 287). Next: printed p. 287 (PDF 307). Open flags: Tai. Saṃ./Ai. Brā./Ath. refs [?]; quotations partly garbled [?]; review/doubts_v13.json.
+### Printed p. 287  (PDF 307)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+> तेभ्यस्तृतीयसवने वाचि कल्पयिषंस्तान्विश्वे देवा आनोनुद्यन्त नेह पास्यन्ति नेहेति स प्रजापतिरब्रवीत्सवितारं तव वा इमेऽन्तेवासा [?] … संपिबस्वेति स तथेत्यब्रवीत्सविता तान्स्मै त्वमुभयतः परिषिञ्चेति तान्प्रजापतिरुभयतः पर्यसिबत् [?] ॥
+
+> *tebhyas tṛtīyasavane vāci kalpayiṣaṃs tān viśve devā ānonudyanta neha pāsyanti neheti sa prajāpatir abravīt savitāraṃ tava vā ime 'ntevāsā [?] … saṃpibasveti sa tathety abravīt savitā tān asmai tvam ubhayataḥ pariṣiñceti tān prajāpatir ubhayataḥ paryasibat [?] ‖*
+
+(Ai. Brā. 6-13 [?]). When, at the third pressing, the gods prepared a place for them, the Viśve-devāḥ drove them out, saying, "They shall not drink here." Prajāpati then said to Savitṛ, "These are your pupils; drink along with them"; Savitṛ agreed, and Prajāpati too drank along with the Ṛbhus: thus the position of the Ṛbhus at the third pressing is shown. And as stated in another passage of the Aitareya Brāhmaṇa:
+
+> प्रजापतिर्वै यज्ञं छन्दांसि देवेभ्यो भागधेयानि व्यभजत्स गायत्रीमेवाग्नये वसुभ्यः प्रातःसवनेऽभजत्त्रिष्टुभमिन्द्राय रुद्रेभ्यो माध्यंदिने जगतीं विश्वेभ्यो देवेभ्य आदित्येभ्यस्तृतीयसवने ॥
+
+> *prajāpatir vai yajñaṃ chandāṃsi devebhyo bhāgadheyāni vyabhajat sa gāyatrīm evāgnaye vasubhyaḥ prātaḥsavane 'bhajat triṣṭubham indrāya rudrebhyo mādhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyas tṛtīyasavane ‖*
+
+(Ai. Brā. 12-2 [?]). Prajāpati distributed to the gods the portions of the sacrifice and of the metres: he allotted the Gāyatrī to Agni and the Vasus at the morning pressing; the Triṣṭubh to Indra and the Rudras (Maruts?) at the midday pressing; and the Jagatī to the Viśve-devāḥ and the Ādityas at the third pressing.
+
+Since Agni represents the Brāhmaṇa's brilliance, Indra the Kṣatriya's power, and the Viśve-devāḥ the Vaiśya's activity, the distinctions of caste in creation also follow these divisions of the pressings, as we learn from the passage of the Taittirīya Saṃhitā quoted above. The Chāndogya Upaniṣad, too, describes this same division from the spiritual point of view, saying:
+
+> ब्रह्मवादिनो वदन्ति यद्वसूनां प्रातःसवनं रुद्राणां माध्यंदिनं सवनमादित्यानां च विश्वेषां च देवानां तृतीयसवनम् ॥
+
+> *brahmavādino vadanti yad vasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanam ādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanam ‖*
+
+(Chā. Up. 2-24-1 [?]). From this we learn that the morning pressing belongs to the Vasus, the midday to the Rudras, and the third pressing to the Ādityas and Viśve-devāḥ; and also these mantras show that the best stations in earth, atmosphere and heaven are obtained by the offerings made at these pressings.
+
+> लोकद्वारमपावार्णा पश्येम त्वा वयं … अथ जुहोति नमोऽग्नये पृथिवीक्षिते लोकक्षिते लोकं मे यजमानाय विन्दैष वै यजमानस्य लोक एतास्मि ॥
+
+> *lokadvāram apāvārṇā paśyema tvā vayaṃ … atha juhoti namo 'gnaye pṛthivīkṣite lokakṣite lokaṃ me yajamānāya vindaiṣa vai yajamānasya loka etāsmi ‖* [as read; omission marked by dots in the print: [?]]
+
+(Chā. Up. 2-24-… [?]).
+
+### Printed p. 288  (PDF 308)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+At the morning pressing the sacrificer addresses the Vasus: "Open for us the door to your world, that we may also obtain a sight of you"; making this prayer and offering the oblation to Agni, he becomes worthy of the best place in the world of the earth. In the same way, he prays to the Rudras and the Ādityas, and by offering oblations to them at the midday and at the third pressing, becomes worthy of the best place in the atmospheric world and in the world of heaven. Thus the greatness of the three pressings and the fruit of each are described. Besides, as is said below, the *savana* is shown as the reflection of the full man's life, the Soma sacrifice.
+
+> पुरुषो वाव यज्ञस्तस्य यानि चतुर्विंशतिवर्षाणि तत्प्रातःसवनं चतुर्विंशत्यक्षरा गायत्री गायत्रं प्रातःसवनं तदस्य वसवोऽन्वायत्ताः प्राणा वाव वसव एते हीदं सर्वं वासयन्ति ॥
+
+> *puruṣo vāva yajñas tasya yāni caturviṃśativarṣāṇi tat prātaḥsavanaṃ caturviṃśatyakṣarā gāyatrī gāyatraṃ prātaḥsavanaṃ tad asya vasavo 'nvāyattāḥ prāṇā vāva vasava ete hīdaṃ sarvaṃ vāsayanti ‖*
+
+(Chā. Up. 3-16-1). The man himself is the sacrifice. The first twenty-four years of his life are the morning pressing (*prātaḥsavana*), because the Gāyatrī metre of twenty-four syllables is the metre of the morning pressing. The Vasus are the deities of this oblation; the vital breaths themselves are the Vasus; they are the means of establishing (*vāsa*) on the earth.
+
+> तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा वसव इदं मे प्रातःसवनं माध्यंदिनं सवनमनुसंतनुतेति माहं प्राणानां वसूनां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति ॥
+
+> *taṃ ced etasmin vayasi kiṃcid upatapet sa brūyāt prāṇā vasava idaṃ me prātaḥsavanaṃ mādhyaṃdinaṃ savanam anusaṃtanuteti māhaṃ prāṇānāṃ vasūnāṃ madhye yajño vilopsīyety uddhaiva tata ety agado ha bhavati ‖*
+
+(Chā. Up. 3-16-2). If in the period of this age there be any indisposition of the body, then he should pray to the Vasus: "O vital breaths, O Vasus, let this my morning pressing be continued without break into the midday pressing; let not my sacrifice of life be cut off in the midst of you, the Vasus": thus the person is freed of his indisposition.
+
+> अथ यानि चतुश्चत्वारिंशद्वर्षाणि तन्माध्यंदिनं सवनं चतुश्चत्वारिंशदक्षरा त्रिष्टुप् त्रैष्टुभं माध्यंदिनं सवनं तदस्य रुद्रा अन्वायत्ताः प्राणा वाव रुद्रा एते हीदं सर्वं रोदयन्ति ।
+
+> *atha yāni catuścatvāriṃśadvarṣāṇi tan mādhyaṃdinaṃ savanaṃ catuścatvāriṃśadakṣarā triṣṭup traiṣṭubhaṃ mādhyaṃdinaṃ savanaṃ tad asya rudrā anvāyattāḥ prāṇā vāva rudrā ete hīdaṃ sarvaṃ rodayanti |*
+
+(Chā. Up. 3-16-3). The Triṣṭubh metre has forty-four syllables; it is the metre of the midday pressing. So the next forty-four years of life constitute the midday pressing in the life-sacrifice. In it the Rudras are the presiding deities; they are the vital breaths themselves, since, when the breath departs, they cause all to weep (*rodayanti*): hence the breaths are the Rudras.
+
+---
+
+**Progress note:** printed p. 288 (PDF 308) done — Sūkta 173 Ṛk 8 Special Topics (savana; Chāndogya on the stages of life continues p. 289). Next: printed p. 289 (PDF 309). Open flags: Ai. Brā./Chā. Up. refs and quotations partly [?]; review/doubts_v13.json.

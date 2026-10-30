@@ -2398,5 +2398,29 @@
   ],
   "note": "Tai.Sam 6-1-1-4,5; Atharva 9-1-2?; Ait.Br 13-6 refs small; Rbhu quotes read approx",
   "answer": ""
+ },
+ {
+  "pdf": 307,
+  "printed": 287,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br quote tebhyas trtiyasavane.. garbled in middle; refs 6-13, 12-2 small",
+  "answer": ""
+ },
+ {
+  "pdf": 307,
+  "printed": 287,
+  "crop": [
+   0.75,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya lokadvaram quote with omission; ref small",
+  "answer": ""
  }
 ]
