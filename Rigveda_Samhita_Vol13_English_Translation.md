@@ -13044,4 +13044,66 @@ As this passage also shows, *ṛta* is a word that reflects the principle of the
 
 ---
 
-**Progress note:** printed p. 476 (PDF 496) done — Sūkta 179 Ṛk 2 Special Topics (ṛta; continues p. 477). Next: printed p. 477 (PDF 497). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 477  (PDF 497)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 477.)*
+
+**Special Topics (continued)** — … the relation [between deities and men]: since the sacrifice, which fosters the relation and is of the nature of truth, protects the universal rule, *ṛta* is a word that shows identity (*tādātmya*) with both the sacrifice and truth (*satya*). For example:
+
+> ऋतेन्नृतेन [?] सपन्तेषिरं [?] दक्षमाशाते । अद्रुहा देवौ वर्धेते ॥
+
+> *ṛtennṛtena [?] sapanteṣiraṃ [?] dakṣamāśāte | adruhā devau vardhete ‖*
+
+(Ṛ. Saṃ. 5-68-4 [?]) — here Mitra and Varuṇa are praised as "those who make *ṛta* grow by *ṛta*". This sentence describes the sacrifice of the nature of truth, and truth of the nature of the sacrifice; the idea is the same as in the sentence "*yajñena yajñam ayajanta devāḥ*". Since the sacrifice, whose nature is truth, protects the universal rule, it may be said that *ṛta* is a word reflecting both these principles. (The relation of *ṛta* to deities such as Mitra and Varuṇa, and which deities are "*ṛtāvṛdhaḥ*", will be explained later.)
+
+In the ṛk at hand, Lopāmudrā, wishing for union with her husband Agastya, shows that all the ṛṣis of old — the protectors of truth and of the sacrifice, who obtained relation with the deities through the sacrifice — obtained fulfilment of desire. Since a man's desire is natural to man, and if it is not satisfied there comes an unnatural way of life, she asks for her husband's union. The same, in the later ṛk, in the conversation of Yama and Yamī, Yamī, addressing her brother Yama, says that all the ṛṣis who acted in keeping with the rule of the seasons obtained satisfaction of desire:
+
+> ये चित्पूर्व ऋतसाप ऋतावान [?] ऋतावृधः ।
+> पितॄन्तपस्वतो यम तांश्चिदेवापि गच्छतात् ॥
+
+> *ye citpūrva ṛtasāpa ṛtāvāna [?] ṛtāvṛdhaḥ |*
+> *pitṝntapasvato yama tāṃścidevāpi gacchatāt ‖*
+
+(Ṛ. Saṃ. 10-154-4 [?]) — in this ṛk she makes a prayer asking for Yama's union. But since the wife's prayer in the ṛk at hand is just, the husband Agastya accepts it. In the ṛk cited, the prayer is made by the sister Yamī to her brother Yama, so it is an unethical dealing.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***ṛtasāpaḥ*** — root *āpḷ vyāptau*; the suffix *kvip*; in Vedic the *s* is added in addition; in the compound the *kṛdutta* final member keeps its natural accent.
+- ***āsan*** — by "*hi ca*" (Pā. Sū. 8-1-34 [?]) the *nighāta* accent is prohibited, so *ādyudātta* accent results.
+
+### Printed p. 478  (PDF 498)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 478.)*
+
+- ***avadan*** — root *vada vyaktāyāṃ vāci*; *laṅ*, third person plural; because of *yad*-connection the *nighāta* is prohibited; by the accent of the *aṭ* augment, *ādyudātta*.
+- ***avāsuḥ*** — root *ṣo antakarmaṇi*; in the sense of "release" in connection with the prefix *ava*; Vedic *luṅ* in the present sense; third person plural; being in an *atiṅanta* word-position, *nighāta* accent occurs.
+- ***āpuḥ*** — root *āpḷ vyāptau*; *liṭ*, third person plural; by "*hi ca*" the *nighāta* is prohibited; by the suffix accent the final syllable is *udātta*.
+- ***patnīḥ*** — by "*supāṃ sulukpūrvasavarṇa…*" (Pā. Sū. 6-1-[?]) with *jas* following, the *pūrvasavarṇa* lengthening. ‖ 2 ‖
+
+---
+
+**Sūkta 179, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> न मृषा श्रान्तं यदवन्ति देवा विश्वा इत्स्पृधो अभ्यश्नवाव ।
+> जयावेदत्र शतनीथमाजिं यत्सम्यञ्चा मिथुनावभ्यजाव ॥ ३ ॥
+
+**Pada-pāṭha**
+
+> न । मृषा । श्रान्तम् । यत् । अवन्ति । देवाः । विश्वाः । इत् । स्पृधः । अभि । अश्नवाव ।
+> जयाव । इत् । अत्र । शतऽनीथम् । आजिम् । यत् । सम्यञ्चा । मिथुनौ । अभि । अजाव ॥ ३ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अगस्त्यः स्त्रामाह [?] ॥ भोः पत्नि त्वया मया न मृषा श्रान्तम् । व्यर्थं नैव खिन्नमावाभ्याम् । यद्यस्माद्देवा अवन्ति रक्षन्ति तपोभिः प्रीता देवाः । विश्वाः सर्वाः स्पृधोऽभ्यश्नवाव । अभितो व्याप्नुयाव । अत्रास्मिन्संसारे शतनीथमपरिमितभोगप्राप्तिसाधनमाजिं प्राप्तिं [?] परस्परं जयाव । जयलक्षणं सुरते संग्रामं वा जयाव । यद्यस्मात्सम्यञ्चा सम्यक्परस्परं गच्छन्तौ प्रजयन्तौ [?] वा मिथुना मिथुनौ स्त्रीपुरुषरूपौ सन्तावभ्यजाव । त्वं चाहमपि परस्परमभिजयावेत्येवं तयोक्तं संभोगं संभावयामास ॥ [as read; a few words doubtful [?]]
+
+*Gist:* Agastya replies that their labour has not been in vain, the deities protect them; let them overcome all rivals and win each other in union as a couple.
+
+**Pratipadārtha**
+
+(*bhoḥ patni* — O wife Lopāmudrā) **yat** — because; **devāḥ** — the deities; **avanti** — (pleased with our austerities) protect; (**tat** — therefore) … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 478 (PDF 498) done — Sūkta 179 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun. Next: printed p. 479 (PDF 499), Ṛk 3 Pratipadārtha continues. Open flags: refs [?]; review/doubts_v13.json.
