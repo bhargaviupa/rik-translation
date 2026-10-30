@@ -3178,5 +3178,29 @@
   ],
   "note": "grammar sutra numerals small type (aguh, bhinat, nanamah, piyoh)",
   "answer": ""
+ },
+ {
+  "pdf": 375,
+  "printed": 355,
+  "crop": [
+   0.4,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 9 bhashya: 'tadvat ksantetah' phrase and 'jalapratirodhakaryasurah' read approx; Rg ref 5-31-8",
+  "answer": ""
+ },
+ {
+  "pdf": 376,
+  "printed": 356,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs for dhuni (5-12?), dhunayah (1-24?), svasti quote read approx",
+  "answer": ""
  }
 ]
