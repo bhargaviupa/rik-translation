@@ -95,16 +95,39 @@ for p in range(a,b+1):
     subprocess.run(['pdftoppm','-f',str(n),'-l',str(n),'-r','576','-gray',path,d+'/h'],check=True)
     pg=Image.open(d+'/'+os.listdir(d)[0]); subprocess.run(['rm','-rf',d])
     nflag=0
+    # gap fill: between two matched references, if the number of unmatched file groups equals the number of unmatched tokens, pair them in order
+    order=sorted(inv.items()); tok_used=set(inv.values()); filled=set()
+    segs=[(-1,-1)]+[(jj,ii) for jj,ii in order]+[(len(fg),len(toks))]
+    for (ja,ia),(jb,ib) in zip(segs,segs[1:]):
+        gf=[x for x in range(ja+1,jb) if x not in inv]; gt=[k for k in range(ia+1,ib) if k not in tok_used]
+        if gf and len(gf)==len(gt):
+            for x,k in zip(gf,gt): inv[x]=k; filled.add(x)
+    mj=sorted(inv)
     for j,f in enumerate(fg):
         if not f['flag']: continue
         nflag+=1
+        region=False
         if j not in inv:
-            unmatched.append(dict(printed=p,pdf=g,file=f['v'],ctx=f['ctx'])); continue
-        i=inv[j]; t=toks[i]; x,y,w,h=t['box']; need=int(h*(0.85*len(re.sub(r'\s','',f['v']))+1.2)); pad=max(int(h*1.6),need-w); lpad=int(h*2.6)
-        cr=pg.crop((max(0,int((x-lpad)*S600)),max(0,int((y-h*0.25)*S600)),int((x+w+pad)*S600),int((y+h*1.25)*S600))).convert('L')
+            prv=[a for a in mj if a<j]; nxt=[a for a in mj if a>j]
+            if os.environ.get('V5REGION')!='1' or not (prv and nxt):
+                unmatched.append(dict(printed=p,pdf=g,j=j,file=f['v'],ctx=f['ctx'])); continue
+            b1=toks[inv[prv[-1]]]['box']; b2=toks[inv[nxt[0]]]['box']; h=max(b1[3],b2[3]); region=True
+            ya=int(min(b1[1],b2[1])-h*0.25); yb=int(max(b1[1],b2[1])+h*1.25)
+            if abs(b2[1]-b1[1])<h*1.5:
+                boxes=[(b1[0]+b1[2],ya,b2[0],yb)]
+            else:
+                boxes=[(b1[0]+b1[2],int(b1[1]-h*0.25),2480,int(b1[1]+h*1.25)),(0,int(b2[1]-h*0.25),b2[0],int(b2[1]+h*1.25))]
+            parts=[pg.crop((max(0,int(x0*S600)),max(0,int(y0*S600)),max(1,int(x1*S600)),max(1,int(y1*S600)))).convert('L') for x0,y0,x1,y1 in boxes if x1>x0]
+            if not parts: unmatched.append(dict(printed=p,pdf=g,j=j,file=f['v'],ctx=f['ctx'])); continue
+            W=max(c.width for c in parts); H=sum(c.height+6 for c in parts); cr=Image.new('L',(W,H),255); yy=0
+            for c in parts: cr.paste(c,(0,yy)); yy+=c.height+6
+            t=dict(tess='',box=[0,0,0,0])
+        else:
+            i=inv[j]; t=toks[i]; x,y,w,h=t['box']; need=int(h*(0.85*len(re.sub(r'\s','',f['v']))+1.2)); pad=max(int(h*1.6),need-w); lpad=int(h*2.6)
+            cr=pg.crop((max(0,int((x-lpad)*S600)),max(0,int((y-h*0.25)*S600)),int((x+w+pad)*S600),int((y+h*1.25)*S600))).convert('L')
         cr=cr.resize((max(1,cr.width*3//5),max(1,cr.height*3//5)),Image.LANCZOS).point(lambda v:255 if v>150 else 0).convert('1')
         bf=io.BytesIO(); cr.save(bf,'PNG',optimize=True)
-        rows.append(dict(id=f'{p}_{j}',printed=p,pdf=g,img=base64.b64encode(bf.getvalue()).decode(),file=f['v'],ctx=f['ctx'],tess=t['tess'],prop=prefill(t['tess'],f['v']),box=t['box']))
+        rows.append(dict(id=f'{p}_{j}',printed=p,pdf=g,img=base64.b64encode(bf.getvalue()).decode(),file=f['v'],ctx=f['ctx'],tess=t['tess'],prop=('' if region else prefill(t['tess'],f['v'])),box=t['box'],region=region,filled=(j in filled)))
     print(p,'located',len(toks),'file groups',len(fg),'flagged',nflag,'rows so far',len(rows),'unmatched so far',len(unmatched),flush=True)
 json.dump(dict(rows=[{k:v for k,v in r.items() if k!='img'} for r in rows],unmatched=unmatched),open(OUT.replace('.html','.json'),'w'),ensure_ascii=False,indent=0)
 body=[];lastp=None
@@ -114,7 +137,7 @@ for r in rows:
     cls='m' if r['prop'] else 'e'
     body.append(f'<div class="r {cls}"><span class="n">{r["id"]}</span><img src="data:image/png;base64,{r["img"]}" alt="">'
                 f'<input data-id="{r["id"]}" data-orig="{html.escape(r["prop"])}" value="{html.escape(r["prop"])}" autocomplete="off" inputmode="text" placeholder="digits">'
-                f'<span class="f" title="{html.escape(r["ctx"])}">file: {html.escape(r["file"])} &nbsp; <small>{html.escape(r["ctx"][:70])}</small></span></div>')
+                f'<span class="f" title="{html.escape(r["ctx"])}">file: {html.escape(r["file"])}{" &nbsp; <b>(the strip between the neighbouring references: the reference is inside it)</b>" if r.get("region") else ""} &nbsp; <small>{html.escape(r["ctx"][:70])}</small></span></div>')
 um=''.join(f'<li>p. {u["printed"]}: {html.escape(u["file"])} — {html.escape(u["ctx"])}</li>' for u in unmatched)
 page=f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(TITLE)}</title>
 <style>
