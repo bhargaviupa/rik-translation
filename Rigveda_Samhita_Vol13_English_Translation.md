@@ -4994,20 +4994,68 @@ The Nirukta-writers, pointing out this very matter, speak thus:
 
 **॥ संहितापाठः ॥**
 
-> येन मासासश्चितयन्त [?] उस्रा व्युष्टिषु शवसा शश्वतीनाम् ।
+> येन मानासश्चितयन्त उस्रा व्युष्टिषु शवसा शश्वतीनाम् ।
 > स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ॥ ५ ॥
 
-> *yena māsāsaścitayanta [?] usrā vyuṣṭiṣu śavasā śaśvatīnām |*
+> *yena mānāsaścitayanta [?] usrā vyuṣṭiṣu śavasā śaśvatīnām |*
 > *sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
-> येन । मासासः । चितयन्ते । उस्राः । विऽउष्टिषु । शवसा । शश्वतीनाम् ।
+> येन । मानासः । चितयन्ते । उस्राः । विऽउष्टिषु । शवसा । शश्वतीनाम् ।
 > सः । नः । मरुत्ऽभिः । वृषभ । श्रवः । धाः । उग्रः । उग्रेभिः । स्थविरः । सहःऽदाः ॥ ५ ॥
 
-> *yena | māsāsaḥ | citayante | usrāḥ | vi 'uṣṭiṣu | śavasā | śaśvatīnām |*
+> *yena | mānāsaḥ | citayante | usrāḥ | vi 'uṣṭiṣu | śavasā | śaśvatīnām |*
 > *saḥ | naḥ | marut 'bhiḥ | vṛṣabha | śravaḥ | dhāḥ | ugraḥ | ugrebhiḥ | sthaviraḥ | sahaḥ 'dāḥ ‖ 5 ‖*
 
 ---
 
-**Progress note:** printed p. 214 (PDF 234) done — Sūkta 171 Ṛk 4 complete; Ṛk 5 Saṃhitā and Pada written. Next: printed p. 215 (PDF 235): bhāṣya of Ṛk 5. Open flags: Ṛk 5 Saṃhitā 'māsāsaḥ/cityanta' reading [?]; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 215  (PDF 235)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11". The zoom confirms the Pada word *mānāsaḥ*; the Saṃhitā of Ṛk 5 above has been set accordingly.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र येन शवसा बलभूतेन त्वयानुगृहीता मानासो मान्यास्त्वयाभिमानिता वो उस्रा रश्मयः शश्वतीनां नित्यानां बह्वीनामुषसां व्युष्टिषु सतीषु प्रकाशेषु सत्सु चितयन्ते चेतयन्ते प्राणिनां स्वस्वव्यवहाराय प्रज्ञापयन्ति । ऐन्द्र्यां दिशि तेनैवानुगृहीता उषसो रश्मय उद्गच्छन्तीति प्रसिद्धम् । हे वृषभ वर्षितरिन्द्र स तादृशस्त्वं मरुद्भिः सहितः श्रवो धाः । सर्वत्र श्रूयमाणमन्नं धेहि । स्थापय । देहीत्यर्थः । कीदृशस्त्वम् । उग्र उद्गूर्णबलः सहोदाः । परा... [?] भवसामर्थ्यं बलं सहः । तस्य दाता स्थविरः पुरातनः । कीदृशैर्मरुद्भिः । उग्रेभिः क्रूरबलैः । एवं महानुभावोऽस्मभ्यमन्नं देहि ॥
+
+*Gist:* Indra's strength favours the honoured rays of the eternal dawns, which wake all living beings to their tasks; may he, fierce, ancient, giver of strength, with the fierce Maruts, grant us food.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *mānāsaḥ* — honourable (the object of your esteem); *usrāḥ* — the rays; *śaśvatīnām* — of the eternal; *uṣasām* — of the dawns; *vyuṣṭiṣu* — when they shine; *śavasā* — by the strength; *yena* — by which (favoured by you); *citayante* — they make living beings (in their own activities) alert; *(he)* *vṛṣabha* — O Indra, who rain wishes; *saḥ* — such as you are; *ugraḥ* — of fierce strength; *sahodāḥ* — giver of strength; *sthaviraḥ* — ancient; *ugrebhiḥ* — with those of fierce nature; *marudbhiḥ* — with the Marut-gods; *saḥ* (*sahitaḥ*) — accompanied; *naḥ* — for us; *śravaḥ* — food; *dhāḥ* — establish (grant).
+
+**Bhāvārtha.** O Indra, the rays of the morning, the object of your esteem, at the dawning of the eternal dawns make all living beings alert to their own activities. O Indra, granter of wishes, fierce, giver of strength, ancient, together with the fierce Marut-gods, grant us food.
+
+**English Translation (as printed):** The rays of the ever-recurring mornings, favoured, Indra, by your vigour, confer consciousness as they shine: showerer of benefits, ancient (of days), bestower of strength, fierce, (and attended) by the fierce Maruts, grant us (abundant) food.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***usrāḥ śavasā mānāsaḥ*** — *raśmayaḥ balabhūtena tvayā anugṛhītāḥ mānyāḥ tvayā abhimānitā vā*: the word *śavas* is read among the names of water (Ni. 1-[?]) and among the names of strength (Ni. 2-[?])
+
+### Printed p. 216  (PDF 236)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+(Ni. 3-[?]). Here, addressing Indra, it is said that Indra is "strong, or endowed with strength". The word *usrāḥ* is used as an epithet of the word *usra*; two meanings are explained: that the rays are worthy of honour, being favoured by Indra who is of the form of strength; or that they are esteemed by Indra who is of the form of strength. The word *usra* is read among the names of rays (Ni. 1-[?]).
+
+According to Sāyaṇa's explanation the word *mānāsaḥ* is an epithet of *usrāḥ*. But the scholar Max Müller has interpreted it in another way. His translation is as follows:
+
+*Thou, through whom the Manas see the Mornings, whenever the eternal dawns flash forth with power, O Indra, O Strong hero, grant thou glory to us with the Maruts, terrible with the terrible ones, strong and a giver of victory.* [S. B. E. XXXII. P. 289].
+
+According to this translation the word *mānāsaḥ* means the descendants of the sage Mānya (the seers born in the lineage of Mānya). Since Sāyaṇa also gives this same meaning elsewhere, in another context, it cannot be said that this translation is wrong. For example:
+
+> तद्वां नरा नासत्यावनु ष्याद्यद्वां मानास उचथमवोचन् ।
+> अस्मादद्य सदसः सोम्यादा विद्यामेषं वृजनं जीरदानुम् ॥
+
+> *tad vāṃ narā nāsatyāv anu ṣyād yad vāṃ mānāsa ucatham avocan |*
+> *asmād adya sadasaḥ somyād ā vidyām eṣaṃ vṛjanaṃ jīradānum ‖*
+
+(Ṛ. Saṃ. 1-182-8). In this ṛk Sāyaṇa has interpreted *mānāsaḥ* as "*pūjāvantaḥ asmadīyāḥ hotrādayaḥ*" — "our worshipful *hotṛ* priests and others". And in the same way here too, if it were said: "O Indra, by your favour the descendants of Māna (the *mānasas*), seeing the light of the morning every day at the appearance of the dawn, become engaged in their duties", that would be the purport. In these contexts, for the words *mānasaḥ*, *mānyasya*, *mānāsaḥ* there is a difference between the meaning given by the English scholars and Sāyaṇa's explanation. For example:
+
+> एष वः स्तोमो मरुत इयं गीर्मान्दार्यस्य मान्यस्य कारोः ।
+
+> *eṣa vaḥ stomo maruta iyaṃ gīr māndāryasya mānyasya kāroḥ |*
+
+(Ṛ. Saṃ. 1-165-15). In this ṛk the word *mānyasya*, though it is an epithet of Agastya, is explained by Sāyaṇa as "*varapradānādinā mānyasya*" — "worthy of honour because of the granting of boons and the like". Max Müller says thus: *(continued)*
+
+---
+
+**Progress note:** printed p. 216 (PDF 236) done — Sūkta 171 Ṛk 5: Saṃhitā to Special Topics (Max Müller on mānāsaḥ; continues p. 217). Next: printed p. 217 (PDF 237). Open flags: ref numerals [?]; review/doubts_v13.json.
