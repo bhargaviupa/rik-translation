@@ -12650,4 +12650,51 @@ Indra, who is a hero, who has the Maruts for companions, and who is victorious i
 
 ---
 
-**Progress note:** printed p. 462 (PDF 482) done — Sūkta 178 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya written. Next: printed p. 463 (PDF 483), Ṛk 4 Pratipadārtha. Open flags: refs [?]; bhāṣya p.462 words [?]; review/doubts_v13.json.
+### Printed p. 463  (PDF 483)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 463.)*
+
+**Pratipadārtha**
+
+**indraḥ** — Indra; **nṛbhiḥ** — by the sacrificers who carry out the rites; **pṛkṣaḥ** — the food in the form of the oblation; **suśravasyā** — from desire of good food, or from desire for food; **prakhādaḥ** — the good eater (he becomes); **eva** — in just that way; **mitriṇaḥ** — (the sacrificer) who has helpers; **abhi bhūt** — overcomes (his enemies); [or: **nṛbhiḥ** — with the Maruts, the deities who lead the rain; **indraḥ** — this Indra; **suśravasyā** — from desire for auspicious food; **pṛkṣaḥ** — oblation-food; **prakhādaḥ** — good eater; **eva** — likewise; **mitriṇaḥ** — of the sacrificer united with *ṛtvij*s, Maruts and friends; **abhi bhūt** — becomes favourable (for his desire)]; **vivāci** — in the many-voiced, i.e. in the battle where calls are exchanged; **samarye** — in the battle [or: **vivāci** — in the sacrifice with its manifold stotra and śastra sounds; **samarye** — in the sacrifice attended by men]; **yajamānasya** — of the sacrificer; **śaṃsaḥ** — the praiser; **satrākaraḥ** — the maker of true fruits; **indraḥ** — Indra; **iṣaḥ** — the oblation-food; **stavate** — praises.
+
+**Bhāvārtha**
+
+This Indra, desirous of good food, eats abundantly the oblation-food given by the sacrificers, and becomes favourable to the sacrificer who has priests and others with him; in the sacrifice, filled with the manifold sounds of *stotra* and the like, praising the sacrificer, he praises the oblation-food the sacrificer has given.
+
+**Printed English**
+
+> Verily, Indra, through desire of (sacrificial) food, is the devourer (of that which is presented) by (his) worshippers, and overcomes (the adversaries) of his friend: in the many-voiced assembly (of men), Indra, the faithful (performer of his promise), commending (the piety) of his worshipper, approves of the (offered) food.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***samarye*** — Sāyaṇa explains *samarye* as "in the sacrifice accompanied by mortals". Generally, since the word *samarya* is included among the names of "battle" (*saṃgrāma*) (Ni. 2-9 [?]), it means "battle". "*maryāḥ manuṣyāḥ taiḥ saha vartate iti samaryaḥ saṃgrāmaḥ*" — "that which is together with men (*marya*) is *samarya*, battle": since men are always gathered in a group in a battle, it is called *samarya*. In compounds with words of victory, such as *samaryajit*, the word *samarya* is fixed in the sense "battle". But when the word *samarya* stands alone, it need not have the meaning "war"; what is "with men (*marya*)" is not only the battlefield; it may also be a sacrifice. For example:
+
+> यो वां यज्ञो नासत्या हविष्मान्कृतब्रह्मा समर्यो भवाति ।
+
+> *yo vāṃ yajño nāsatyā haviṣmānkṛtabrahmā samaryo bhavāti |*
+
+(Ṛ. Saṃ. 7-70-6 [?]) — here the meaning is "the sacrificer, the doer of the sacrifice, together with priests and mortals". In the ṛk at hand also, in the same way, *samarya* is explained as a sacrifice connected with mortal men. But in common usage the word *samarya* is mostly a synonym of "battle". In the ṛk at hand there is room for that sense as well, as is shown; for:
+
+### Printed p. 464  (PDF 484)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 464.)*
+
+… when "*vivāci samarye*" is said: if *samarye* is taken in the sense of battle, then to the epithet *vivāci* the meaning is "*vividhaparasparāhvānadhvaniyukte*" — "having the sounds of manifold mutual calls" — i.e. possessing the sound of calling one another for help; and if *samarye* is taken to mean *yajñe* ("in the sacrifice"), then to the epithet *vivāci* the meaning is "*vividhastotraśastradhvaniyukte*" — "having the sounds of manifold stotras and śastras". Following this sense, the meaning of "*mitriṇaḥ abhibhūt*" also has to be stated. In the sense of battle: "*mitriṇaḥ sahāyavataḥ asi (yajamānasya) śatrūn abhibhavati*" — the enemies of the sacrificer, even though they have many friends in battle, can be defeated; and in the sense of the sacrifice it means that Indra helps the sacrificer who has priests and other friends of manifold kinds.
+
+***satrākaraḥ*** — the word *satrā* is included among the names of "true" (*satya*) (Ni. 3-13 [?]); the words *satrājit*, *satrāsaha* also show truth of act or of fruit. In some places the word *satrā* is also given the meaning "always". For example:
+
+> तुविग्रये वह्नये दुष्टरीतवे सत्रासाहे नम इन्द्राय वोचत ।
+
+> *tuvigraye vahnaye duṣṭarītave satrāsāhe nama indrāya vocata |*
+
+(Ṛ. Saṃ. 2-21-2 [?]) — in ṛks such as this it is explained as *sarvadā abhibhavitre* or *mahataḥ abhibhavitre* ("who always overcomes", "who overcomes the great"). Since "always" means constantly and without once failing, and subduing enemies is meant, here too the sense is "true".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***evā*** — by "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]) lengthening in the Saṃhitā.
+- ***suśravasyā*** — by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) *kyac* in the sense of desiring for oneself; by "*apratyayāt*" (Pā. Sū. 3-3-102 [?]) the suffix *a* after a *kyac*-final stem; the *kṛdutta* final member keeps its natural accent; being feminine and ending in *a*, *ṭāp*; the instrumental singular following, by "*supāṃ sulukpūrvasavarṇa…*" (Pā. Sū. 7-1-39 [?]) the *pūrvasavarṇa* lengthening.
+
+---
+
+**Progress note:** printed p. 464 (PDF 484) done — Sūkta 178 Ṛk 4: Pratipadārtha, Bhāvārtha, printed English, Special Topics (samarye, satrākaraḥ), grammar begun (evā, suśravasyā; continues p. 465). Next: printed p. 465 (PDF 485). Open flags: refs [?]; review/doubts_v13.json.
