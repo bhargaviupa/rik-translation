@@ -13872,4 +13872,74 @@ In this ṛk both the nature of the chariot of the deities Aśvins and the relat
 
 ---
 
-**Progress note:** printed p. 502 (PDF 522) done — Sūkta 180 Ṛk 1 complete; Ṛk 2: Saṃhitā…printed English, Special Topics begun. Next: printed p. 503 (PDF 523). Open flags: refs [?]; bhāṣya Ṛk 2 doubtful [?]; review/doubts_v13.json.
+### Printed p. 503  (PDF 523)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 503.)*
+
+**Special Topics (continued)**
+
+***atyasya — atanaśīlasya, satatasaṃcāriṇaḥ*** — "of one that moves constantly, that ranges without break": i.e. having the nature of moving always without a break. This word is an epithet of the chariot and shows the nature of the chariot. In general it is used as an epithet of horses and of the Āditya, who always move.
+
+> एष प्र पूर्वीरव तस्य चम्रिषोऽत्यो न योषामुदयंस्त भुर्वणिः ।
+> दक्षं महे पाययते हिरण्ययं रथमावृत्या हरियोगमृभ्वसम् ॥
+
+> *eṣa pra pūrvīrava tasya camriṣo 'tyo na yoṣāmudayaṃsta bhurvaṇiḥ |*
+> *dakṣaṃ mahe pāyayate hiraṇyayaṃ rathamāvṛtyā hariyogamṛbhvasam ‖*
+
+(Ṛ. Saṃ. 1-56-1 [?]) — in this ṛk *atyaḥ* is said of the horse; and
+
+> अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः ।
+> मृगाणां न हेतयो यन्ति चेमा बृहस्पतेरहिमायाँ अभि द्यून् ॥
+
+> *asya śloko divīyate pṛthivyāmatyo na yaṃsadyakṣabhṛdvicetāḥ |*
+> *mṛgāṇāṃ na hetayo yanti cemā bṛhaspaterahimāyā~ abhi dyūn ‖*
+
+(Ṛ. Saṃ. 1-190-4 [?]) — in this the word is used so as to mean *atanaśīlaḥ ādityaḥ* ("the Āditya, who goes always"). In the ṛk at hand it is an epithet of the chariot.
+
+***viśvagūrtī*** — *gūrī* (*gur*), from the root meaning "to exert" (*udyamane*), the word *gūrti* is formed. The word *gūrti* means merely exertion, effort, or action; and this word's usage everywhere shows that in that effort there is both faith (*śraddhā*) and resolve (*saṅkalpa*). For example:
+
+> यूपव्रस्का उत ये यूपवाहाश्चषालं ये अश्वयूपाय तक्षति ।
+> ये चार्वते पचनं सम्भरन्त्युतो तेषामभिगूर्तिर्न इन्वतु ॥
+
+> *yūpavraskā uta ye yūpavāhāścaṣālaṃ ye aśvayūpāya takṣati |*
+> *ye cārvate pacanaṃ sambharantyuto teṣāmabhigūrtirna invatu ‖*
+
+(Ṛ. Saṃ. 1-162-6 [?]) — here Sāyaṇa explains it as "resolve joined with faith". In the same way, for words such as *svagūrti*, *rādhogūrti*, *arigūrti*, and for words like *gūrtamanāḥ*, *gūrtaśravāḥ*, *gūrtavasuḥ*, the meanings must be learnt as the context suggests. The Nirukta-writers, on the word *svagūrta*:
+
+> समस्मिन्नञ्जायमान आसते ग्ना उतेमवर्धन्नद्यः स्वगूर्ताः ।
+> महे यत्त्वा पुरूरवो रणायावर्धयन् दस्युहत्याय देवाः ॥
+
+> *samasminnañjāyamāna āsate gnā utemavardhannadyaḥ svagūrtāḥ |*
+> *mahe yattvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ ‖*
+
+(Ṛ. Saṃ. 10-95-7 [?]) — citing this ṛk, they explain *svagūrtāḥ* there as *svayaṃgāminyaḥ* ("going of themselves"). Here the word *gūrta* has no sense such as "faith" or "resolve"; it is evident that it has only the sense of "going" (*gamana*). In the same way …
+
+### Printed p. 504  (PDF 524)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 504.)*
+
+> असद्यथा नो वरुणः सुकीर्तिरिषश्च पर्षदरिगूर्तः सूरिः ।
+
+> *asadyathā no varuṇaḥ sukīrtiriṣaśca parṣadarigūrtaḥ sūriḥ |*
+
+(Ṛ. Saṃ. 1-186-3 [?]) — here too Sāyaṇa explains it, saying only "*śatruhananāya udyuktaḥ*" ("intent on slaying the enemy"), showing merely the sense of exertion. But in words such as *gūrtaśravāḥ*, *gūrtamavāḥ* the word *gūrta* has the sense "praiseworthy". For example:
+
+> स प्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः ।
+
+> *sa prādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ |*
+
+(Ṛ. Saṃ. 1-132-10 [?]) — in this, for the word *gūrtaśravāḥ* the meaning "of praiseworthy or manifest lustre (*udgūrṇadīptiḥ*), or of famous food (*prakhyātānnaḥ*), or of praiseworthy food" is given; and for the word *gūrtamanāḥ* in the ṛk 6-63-4 [?] the meaning "*prakarṣeṇa udyatamanāḥ*" is given. Thus, since for the word *gūrta* a meaning in keeping with the context has to be given, in the ṛk at hand the word *viśvagūrtī* is an epithet of the deities Aśvins, with the sense *sarvastutyau* ("praised by all").
+
+***svasā bharāti*** — the word *svasṛ* here means "Uṣas" (Dawn). The relation of the Aśvin deities to Uṣas, and the part the goddess Uṣas plays in the sacrifice — her manifesting herself as the praiseworthy time — are shown here.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***nakṣathaḥ*** — root *ṇakṣ gatau*; by "*ṇo naḥ*" (Pā. Sū. 6-1-65 [?]) the initial *ṇ* becomes *n*; *laṭ*, second person dual; *tiṅ*-final *nighāta* accent.
+- ***vipatmanaḥ*** — root *patḷ gatau*; the *Uṇādi* suffix *manin*; *vividhāḥ patmānaḥ yasya tasya* (one who has varied goings); in the *bahuvrīhi*, by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent.
+- ***naryasya*** — *narāya hitam tasya*; by "*chandasi ca*" (Pā. Sū. 5-1-67 [?]) the suffix *yat*; by "*yasyeti ca*" elision of *a*; by "*yato 'nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the *ādyudātta* accent.
+- ***viśvagūrtī*** — *viśvā gūrtiḥ yayos tau*; by "*āmantritasya ca*" (Pā. Sū. 8-1-19 [?]) the *nighāta* accent occurs.
+- ***bharāti*** — root *bhṛñ bharaṇe*; *leṭ*, third person singular, *tip*; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *aṭ*; *śap* as cause, *guṇa* for the root; *raparatva* … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 504 (PDF 524) done — Sūkta 180 Ṛk 2 Special Topics (atyasya, viśvagūrtī, svasā) and grammar begun (continues p. 505). Next: printed p. 505 (PDF 525). Open flags: refs [?]; review/doubts_v13.json.
