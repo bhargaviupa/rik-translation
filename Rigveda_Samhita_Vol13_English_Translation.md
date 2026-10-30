@@ -3098,4 +3098,48 @@ Here, "*yuṣmākaṃ sambandhinī sātiḥ yathā prasastaguṇaṃ tadvat va�
 
 ---
 
-**Progress note:** printed p. 138 (PDF 158) done — Sūkta 168 Ṛk 7 complete; Ṛk 8 Saṃhitā to Special Topics in progress (continues p. 139). Next: printed p. 139 (PDF 159). Open flags: Ṛk 8 Saṃhitā ṣṭobhanti/pruṣṇvanti glyphs [?]; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 139  (PDF 159)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; the Special Topics of Ṛk 8 continue.)*
+
+***pavibhyaḥ*** — *marutsaṃbandhi vajrebhyaḥ*: the word *pavi* is read among the names of speech (Ni. 1-[?]) and also among the names of the thunderbolt (Ni. 2-[?]). Yāska explains it as "*pavī rathanemirbhavati yadvipunāti bhūmim*": the sound produced by the rim of a chariot wheel as it cleaves (*vipunāti*) the earth is well known as *pavi*; and he gives as example the ṛk
+
+> उत स्मा ते परुष्ण्यामूर्णा वसते शुन्ध्यवः । उत पव्या रथानामद्रिं [?] भिन्दन्त्योजसा ॥
+
+> *uta smā te paruṣṇyām ūrṇā vasate śundhyavaḥ | uta pavyā rathānām adriṃ [?] bhindanty ojasā ‖*
+
+(Ṛ. Saṃ. 5-52-9 [?]). In this ṛk they explain *pavi* as "the rim of a chariot wheel". Durgācārya says: "*devā vai vṛtrasya marmaṇi nāvindan taṃ marutaḥ kṣuradhārapavinā vyayuḥ*" [as read] — when the gods did not find Vṛtra's vital spot, the Marut-gods cut him open with the razor-edged rims of their wheels, which are the colour of the tawny (*haritavarṇa*) edges, like thunderbolt-weapons; that is, the Maruts split the cloud with the sharp edges (*pavi*) of their chariots. Sāyaṇa adopts this meaning in his commentary and, in the sentence *pavibhyaḥ sindhavaḥ prati ṣṭobhanti*, explains "*marutsaṃbandhi vajrebhyaḥ*" as meaning the rims of the chariot wheels belonging to the Marut-gods (the streams of rain).
+
+***sindhavaḥ*** — *syandanaśīlāḥ āpaḥ*: the word *sindhu* is read among the names of rivers (Ni. 1-[?]); and
+
+> सुदेवो असि वरुण यस्य ते सप्त सिन्धवः । अनुक्षरन्ति काकुदं सूर्म्यं सुषिरामिव ॥
+
+> *sudevo asi varuṇa yasya te sapta sindhavaḥ | anukṣaranti kākudaṃ sūrmyaṃ suṣirām iva ‖*
+
+(Ṛ. Saṃ. 8-41-2 [?]). In this ṛk it is explained that, since the water flows (*sravaṇāt*), *sindhu* is well known as the name of water.
+
+***pṛthivyām*** — *antarikṣe, bhūmyām*: the word *pṛthivī* is read among the names of the earth (Ni. 1-[?]) and among the names of the atmosphere (Ni. 1-[?]). Here the two senses (atmosphere, earth) are explained.
+
+***ghṛtam*** — *kṣaradudakam*: the word *ghṛta* is read among the names of water (Ni. 1-[?]), and
+
+> कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतन्ति ।
+> त आववृत्रन्त्सदनादृतस्यादिद्घृतेन पृथिवी व्युद्यते ॥
+
+> *kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divam utpatanti |*
+> *ta āvavṛtrant sadanād ṛtasyād id ghṛtena pṛthivī vy udyate ‖*
+
+(Ṛ. Saṃ. 1-164-47).
+
+### Printed p. 140  (PDF 160)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+In this ṛk the word *ghṛtena* is given the sense "by water". "*ghṛtam ity udakanāma jigharteḥ secanakarmaṇaḥ*": the word *ghṛta*, formed from the root *ghṛ* with the sense of sprinkling, is described by Yāska as meaning water.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *ṣṭobhanti* (root *ṣṭubhu stambhe*; the *parasmaipada* by *vyatyaya*; *laṭ* 3rd person plural form; since the preverb *prati* stands before it, the root-initial *s* becomes *ṣ* by "*upasargāt sunoti…*", Pā. Sū. 8-3-65 [?]; *nighāta* accent of the verb); *pavibhyaḥ* (root *pūñ pavane*; affix *i* by an Uṇādi sūtra, "*aci iḥ*" [as read]; *guṇa* and *av* before it; accent by the affix); *abhriyām* (*abhre bhavā abhriyā*; affix *gha* by "*samudrābhrād ghaḥ*", Pā. Sū. 4-4-118 [?]; the *iya* substitute by "*āyaneyīnīyiyaḥ…*"; loss of *a* by "*yasyeti ca*"; the affix takes the acute on the first syllable; *ṭāp* in the feminine, the stem ending in *a*); *udīrayanti* (root *īra gatau preraṇe ca*; *ṇic* by "*hetumati ca*"; *laṭ* 3rd plural after the *ṇijanta*; because of *yat* no *nighāta*; the accent of *ṇic* remains; the preverb *ut* takes *nighāta* by "*tiṅ codāttavati*"); *smayante* (root *ṣmiṅ īṣaddhasane*; Vedic *laṅ* in the sense of present time [as read]; 3rd plural middle; the augment *aṭ* does not occur by "*bahulaṃ chandasyamāṅyogepi*"; *nighāta* accent); *yadi* (long vowel in the Saṃhitā by "*nipātasya ca*", Pā. Sū. 6-3-136 [?], hence *yadī*); *pruṣṇvanti* (root *pruṣa snehanasevanapūraṇeṣu*, *kryādi*; *laṭ* 3rd plural, *jhi* → *anta*; *śnu* by "*vyatyayo bahulam*"; *guṇa* does not occur because the affixes are *jit*-type; *uvaṅ* substitute by "*aci śnudhātu…*"; since *yadi* is connected, no *nighāta* by "*nipātair yadyadihantakuvinnetracetcaṇkaccid yatra yuktam*", Pā. Sū. 8-1-30 [?]; accent on the first syllable of the affix). ‖ 8 ‖
+
+*(ornamental rule — an elaborate printer's ornament at the foot of the page)*
+
+---
+
+**Progress note:** printed p. 140 (PDF 160) done — Sūkta 168 Ṛk 8 complete. Next: printed p. 141 (PDF 161): Ṛk 9 Saṃhitā. Open flags: small-type numerals [?]; review/doubts_v13.json.
