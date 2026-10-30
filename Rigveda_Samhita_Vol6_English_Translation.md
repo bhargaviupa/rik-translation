@@ -11686,15 +11686,15 @@ dyumnaír abhi pra ṇonumaḥ ||5||* [accent ?]
 
 > इह त्या सधमाद्या हरी हिरण्यकेश्या ।
 
-*iha tyā sadhamādyā harī hiraṇyakeśyā |* (Ṛk. Saṃ. 8-[2]-[29] [?]) — *Gloss, mine and tentative:* "Here (are) those two bay horses, sharing the revelry, golden-maned."
+*iha tyā sadhamādyā harī hiraṇyakeśyā |* (Ṛk. Saṃ. 8-32-29) — *Gloss, mine and tentative:* "Here (are) those two bay horses, sharing the revelry, golden-maned."
 
-— the word *hiraṇyakeśyā* is used. The comparison of Agni's flame to *hiraṇyajihvaḥ* ('golden-tongued') is stated in the Ṛk Saṃ. 6-[21?]-[3?] [?]."
+— the word *hiraṇyakeśyā* is used. The comparison of Agni's flame to *hiraṇyajihvaḥ* ('golden-tongued') is stated in the Ṛk Saṃ. 6-71-3."
 
 - **रजसः** — "Yāska gives an etymological explanation (*nirvacana*) of this word —
 
 > रजः । रजो रजतेर्ज्योतीरज उच्यते । उदकं रज उच्यते । लोका रजांस्युच्यन्ते । असृगहनी रजसी उच्येते ।
 
-*rajaḥ | rajo rajater jyotī-raja ucyate | udakaṃ raja ucyate | lokā rajāṃsy ucyante | asṛg-ahanī rajasī ucyete |* (Ni. 4-[19] [?]) — I give the line as the print has it (the words after *rajaḥ* are as read; the Kannada gloss follows). *Gloss, mine and tentative:* "*Rajas*: from the root *raj* 'to shine'; light is called *rajas*; water is called *rajas*; the worlds are called *rajāṃsi*; blood and day are called the two *rajasī*."
+*rajaḥ | rajo rajater jyotī-raja ucyate | udakaṃ raja ucyate | lokā rajāṃsy ucyante | asṛg-ahanī rajasī ucyete |* (Ni. 4-19) — I give the line as the print has it (the words after *rajaḥ* are as read; the Kannada gloss follows). *Gloss, mine and tentative:* "*Rajas*: from the root *raj* 'to shine'; light is called *rajas*; water is called *rajas*; the worlds are called *rajāṃsi*; blood and day are called the two *rajasī*."
 
 That is: (1) *Rajaḥ* — the word, derived from the verb *rajati*, 'it shines', means light, brightness; since it makes other things visible by its own light, *rajas* is a name for light. As example they have given the mantra *yā te agne rajaḥśayā tanūḥ* (…) [the mantra is quoted only in part in the print].
 
@@ -11702,21 +11702,21 @@ That is: (1) *Rajaḥ* — the word, derived from the verb *rajati*, 'it shines'
 
 > नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो [?] रजांसि ।
 
-*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro [?] rajāṃsi |* (Ṛk. Saṃ. 1-[33]-[14] [?]) — *the verb before* rajāṃsi *is read* ataro *with doubt [?] (the print shows the first vowel unclearly).* *Gloss, mine and tentative:* "When you crossed, like a frightened falcon, the ninety-nine flowing (waters)…" (sense uncertain to me).
+*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro [?] rajāṃsi |* (Ṛk. Saṃ. 1-32-14) — *the verb before* rajāṃsi *is read* ataro *with doubt [?] (the print shows the first vowel unclearly).* *Gloss, mine and tentative:* "When you crossed, like a frightened falcon, the ninety-nine flowing (waters)…" (sense uncertain to me).
 
 > भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिः सचसे शिवाभिः ।
 
-*bhuvo yajñasya rajasaś ca netā yatrā niyudbhiḥ sacase śivābhiḥ |* (Ṛk. Saṃ. 10-[8]-6 [?]) — *Gloss, mine and tentative:* "You became the leader of the sacrifice and of the waters (/space), where you attend with your auspicious teams."
+*bhuvo yajñasya rajasaś ca netā yatrā niyudbhiḥ sacase śivābhiḥ |* (Ṛk. Saṃ. 10-8-6) — *Gloss, mine and tentative:* "You became the leader of the sacrifice and of the waters (/space), where you attend with your auspicious teams."
 
 The word *rajas* in these Ṛks gives the sense 'water'.
 
 > पूर्वे अर्धे रजसो अप्त्यस्य गवां जनित्र्यकृत प्र केतुम् ।
 
-*pūrve ardhe rajaso aptyasya gavāṃ janitry akṛta pra ketum |* (Ṛk. Saṃ. 1-[134]-3 [?]) — *Gloss, mine and tentative:* "In the earlier half of the watery (region), the mother of the cows made a banner (sign) appear."
+*pūrve ardhe rajaso aptyasya gavāṃ janitry akṛta pra ketum |* (Ṛk. Saṃ. 1-134-5) — *Gloss, mine and tentative:* "In the earlier half of the watery (region), the mother of the cows made a banner (sign) appear."
 
 > इन्द्रश्च या चक्रथुः सोम तानि धुरा न युक्ता रजसो वहन्ति ।
 
-*indraś ca yā cakrathuḥ soma tāni dhurā na yuktā rajaso vahanti |* (Ṛk. Saṃ. 1-[186]-[19] [?]) — *the reference numerals are doubtful [?].* *Gloss, mine and tentative:* "And what you two, Indra and Soma, have done, (those deeds) bear (it) on like yoked ones to the pole of the (watery) region."
+*indraś ca yā cakrathuḥ soma tāni dhurā na yuktā rajaso vahanti |* (Ṛk. Saṃ. 1-164-19) — *the reference numerals are doubtful [?].* *Gloss, mine and tentative:* "And what you two, Indra and Soma, have done, (those deeds) bear (it) on like yoked ones to the pole of the (watery) region."
 
 ### Page 526 (PDF 544)
 
