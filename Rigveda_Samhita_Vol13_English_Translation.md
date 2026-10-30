@@ -5252,4 +5252,82 @@ For the word *nṝn*, Sāyaṇa explains "*netṝn asmān marutaḥ vā*" — in
 
 ---
 
-**Progress note:** printed p. 222 (PDF 242) done — Sūkta 171 Ṛk 6 through Special Topics (grammar, the colophon of Sūkta 171 and Sūkta 172 heading on p. 223). Next: printed p. 223 (PDF 243). Open flags: ref numerals (Śat. Brā., Ṛg) [?]; review/doubts_v13.json.
+### Printed p. 223  (PDF 243)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Special Topics of Ṛk 6 continue.)*
+
+***marudbhiḥ avayātaheḷāḥ bhava*** — it is wished that Indra, together with the Marut-gods, be free from anger toward us, or *apagatamanyur bhava* — that Indra be of a reconciled mind in respect of the Marut-gods. The word *heḷas* is read among the names of anger (Ni. 2-[?]); hence it is used here in the sense of anger.
+
+***suprakeṭebhiḥ sāsahiḥ*** — it is prayed that Indra overcome our enemies together with the Marut-gods who are possessed of excellent knowledge, and that he may be *asmadabhimatasya dhārayitā bhava* — the one who accomplishes our desired objects, the sacrificers. The word *praketa* is explained by the Nirukta-writers with the example
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिराग्राच्चित्रः प्रकेतो अजनिष्ट विभ्वा ।
+> यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā |*
+> *yathā prasūtā savituḥ savāyaṃ evā rātry uṣase yonim āraik ‖*
+
+(Ṛ. Saṃ. 1-113-1). In this ṛk *praketa* is explained as *prakṛṣṭatamaḥ* ("the most excellent"); Durgācārya gives the meaning *prajñātatamaḥ* ("the best known").
+
+***vidyāmeṣaṃ vṛjanaṃ jīradānum*** — by this sentence it is wished that we, the sacrificers, may obtain, by Indra's favour, food, strength, and the power of giving gifts. The sage Agastya has placed this sentence at the end of the sūktas that he recited. The word *iṣa* is read among the names of food, and the word *vṛjana* among the names of strength, as Yāska says; this has been said in many places earlier.
+
+But the word *vṛjana* is not used only in the sense of strength. In the Ṛk Saṃhitā this word is also used so as to indicate other senses: violence, war, a mighty enemy, a mighty deity, and so on. For example:
+
+> आषाढ्हं युत्सु पृतनासु पप्रिं स्वर्षामप्सां वृजनस्य गोपाम् ।
+
+> *āṣāḍhaṃ yutsu pṛtanāsu papriṃ svarṣām apsāṃ vṛjanasya gopām |*
+
+(Ṛ. Saṃ. 1-80-30 [?]). Here, "*vṛjyate'nena iti vṛjanaṃ balam*" — that by which one is surrounded (protected) — "strength" is the meaning (or, since it protects, the meaning is strength). And
+
+> मरुत्स्तोत्रस्य वृजनस्य गोपा वयमिन्द्रेण सनुयाम वाजम् ।
+
+> *marutstotrasya vṛjanasya gopā vayam indreṇa sanuyāma vājam |*
+
+(Ṛ. Saṃ. 1-100-11). In ṛks of this kind, "*śatrūṇāṃ kṣepsuḥ indrasya*" — the meaning "Indra, who hurls enemies down" is given, and the strength of that Indra is indicated. Moreover, in the sense of "enclosure", this word means "a deceit that hides the truth" when used with the sense of truth; or "a house that grants protection". For example:
+
+> यद्वा मरुत्वः परमे सधस्थे यद्वावमे वृजने मादयासे ।
+
+> *yad vā marutvaḥ parame sadhasthe yad vāvame vṛjane mādayāse |*
+
+(Ṛ. Saṃ. 1-101-8).
+
+### Printed p. 224  (PDF 244)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+— in ṛks of this kind Sāyaṇa has explained the meaning "house". The Skandasvāmin has explained *varjite yoṣaiḥ* as a sacrifice free of faults.
+
+> दशस्या नः पुर्वणीक होतर्देवेभिरग्ने अग्निभिरिधानः ।
+> रायः सूनो सहसो वावसाना अति स्रसेम वृजनं नांहः ॥
+
+> *daśasyā naḥ purvaṇīka hotar devebhir agne agnibhir idhānaḥ |*
+> *rāyaḥ sūno sahaso vāvasānā ati srasema vṛjanaṃ nāṃhaḥ ‖*
+
+(Ṛ. Saṃ. 6-11-6) — in it the meaning "a harmful enemy";
+
+> मा नो अज्ञाता वृजना दुराध्यो३माशिवासो अव क्रमुः ।
+
+> *mā no ajñātā vṛjanā durādhyo māśivāso ava kramuḥ |*
+
+(Ṛ. Saṃ. 7-32-27 [?]) — in ṛks of this kind, "violence";
+
+> विश्वेष्वेनं वृजनेषु पामि यो मे कुक्षी सुतसोमः पृणाति ।
+
+> *viśveṣv enaṃ vṛjaneṣu pāmi yo me kukṣī sutasomaḥ pṛṇāti |*
+
+(Ṛ. Saṃ. 10-28-2 [?]). In many ṛks beginning with these, the meaning is "war" (*saṃgrāma*) that is full of violence or of strength. And when "*vṛjyate'nena*" is said,
+
+> युक्ता मातासीद्धुरि दक्षिणाया अतिष्ठद्गर्भो वृजनीष्वन्तः ।
+
+> *yuktā mātāsīd dhuri dakṣiṇāyā atiṣṭhad garbho vṛjanīṣv antaḥ |*
+
+(Ṛ. Saṃ. 1-164-9). In places of this kind the meanings "possessing water", "rows of clouds" are given. In many places this word is also used for an enemy, in the sense of one who is crooked (*vañcane, vakra*), by its qualities. The meaning of the word must be stated according to the context. In the present ṛk it means strength, or protection full of strength, or a house full of protection. By the change of the gender of this word the change of meaning is known. In giving the purport of the ṛk 1-165-11 [?], the scholar Max Müller, explaining this word, says:
+
+*वृजन means an enclosure, whether it be derived from* वृज् *to ward off or from* वृज् *in the sense of clearing as in* वृक्तबर्हिः. *In either case the meaning remains much the same, namely, a field cleared for pasture or agriculture. In this sense,* वृजन *is neuter while as a masculine it means powerful, invigorating.* [S. B. E. XXXII. P 208]
+
+That is, he holds that when the word *vṛjana* is used in the masculine, it means strength. But the Nirukta-writers, in neuter use alone, have read this word among the names of strength: "*vardhaḥ, vargaḥ, vṛjanam*" (Ni. 2-[?]).
+
+***jīradānum*** — the special meanings of this word are explained in the ṛk 1-173-13 [?].
+
+---
+
+**Progress note:** printed p. 224 (PDF 244) done — Sūkta 171 Ṛk 6 Special Topics (grammar and colophon of Sūkta 171 on p. 225). Next: printed p. 225 (PDF 245). Open flags: ref numerals [?] on pp. 223–224; review/doubts_v13.json.
