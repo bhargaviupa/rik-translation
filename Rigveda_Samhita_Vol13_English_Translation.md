@@ -13728,4 +13728,90 @@ O Aśvins! When your chariot sets out for the place desired, your chariot-horses
 
 ---
 
-**Progress note:** printed p. 498 (PDF 518) done — Sūkta 180 heading (Varga 23–24, 10 ṛks, Aśvinau, Triṣṭubh) and Ṛk 1 through Special Topics begun (rathaḥ; continues p. 499). Next: printed p. 499 (PDF 519). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 499  (PDF 519)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 499.)*
+
+**Special Topics (continued)**
+
+> वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणः सुवीरः ।
+> गोभिः सन्नद्धो असि वीळयस्वास्थाता ते जयतु जेत्वानि ॥
+
+> *vanaspate vīḍvaṅgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ |*
+> *gobhiḥ sannaddho asi vīḷayasvāsthātā te jayatu jetvāni ‖*
+
+(Ṛ. Saṃ. 6-47-26 [?]) — citing this ṛk, the derivation of the word *ratha* is explained [in some places the word also denotes the sons and others who run in chariots; it is designated by this same word]. In some places this word is used also as a synonym of *āditya* (for example Ṛ. Saṃ. 1-164-2 [?]).
+
+***rajāṃsi*** — "*rajo rajyater jyotir ity api raja ucyate udakaṃ raja ucyate | lokā rajāṃsy ucyante*" (Ni. 4-19 [?]) — for the word *rajas*, formed from the root *rañj*, which gives the sense of "to shine", the meanings are "light", "water" and "worlds".
+
+> रजांसि चित्रा वि चरन्ति तन्यवो दिवः सम्राजा पयसा न उक्षतम् ।
+
+> *rajāṃsi citrā vi caranti tanyavo divaḥ samrājā payasā na ukṣatam |*
+
+(Ṛ. Saṃ. 5-63-3 [?]) — citing this ṛk, the Nirukta-writers say that the word *rajāṃsi* has the meaning "worlds". In the 10th adhyāya, 44th [?] section of the Nirukta, for
+
+> आब्जा मुक्थ्यैरहिं गृणीषे बुध्ने नदीनां रजस्सु षीदन् ।
+
+> *ābjā mukthyairahiṃ gṛṇīṣe budhne nadīnāṃ rajassu ṣīdan |*
+
+(Ṛ. Saṃ. 7-34-16 [?]) — in explaining this ṛk, it is said that *rajassu* means *udakeṣu* ("in the waters"); and in the 12th adhyāya, 6th section [?],
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
+
+> *etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumañjate |*
+
+(Ṛ. Saṃ. 1-92-1 [?]) — in explaining this ṛk, he gives, for *rajasaḥ*, the meaning "of the intermediate region". And:
+
+> त्रीणि भान्ति रजांस्यस्य यत्पदानि तु तेजसा ।
+
+> *trīṇi bhānti rajāṃsyasya yatpadāni tu tejasā |*
+
+— the author of the Bṛhaddevatā, describing the three strides of Viṣṇu over the three worlds, used the word *rajāṃsi* as a synonym of the three worlds. *Rajaḥ*, *rajāṃsi* are in general words that are synonyms of "world". But:
+
+> यन्मा सोमासो ममदन्यदुक्थोभे भयेते रजसी अपारे ।
+
+> *yanmā somāso mamadanyadukthobhe bhayete rajasī apāre |*
+
+(Ṛ. Saṃ. 4-42-6 [?]) — in such ṛks this word, which is in the dual, is stated to have the technical meaning "heaven and earth" (*dyāvāpṛthivī*). In some places only, as in:
+
+> अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
+
+> *ahaśca kṛṣṇamahararjunaṃ ca vi vartete rajasī vedyābhiḥ |*
+
+(Ṛ. Saṃ. 6-9-1 [?])
+
+### Printed p. 500  (PDF 520)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 500.)*
+
+— in one or two ṛks such as "*rajasī jagad rañjayantau*" the original meaning of the root is primary. In the ṛk at hand it means the three shining worlds.
+
+***pavayaḥ*** — the word *pavi* is read among the names of speech (Ni. 2-23 [?]) and among the names of the thunderbolt (*vajra*) (Ni. 3-11 [?]); and also "*pavī rathanemir bhavati yad vipunāti bhūmim*" (Ni. 5-5 [?]) — the Nirukta-writers explain that the wheel of the chariot gets the name *pavi* because it digs up the earth, and, citing
+
+> उत पव्या रथानामद्रिं भिन्दन्त्योजसा ।
+
+> *uta pavyā rathānāmadriṃ bhindantyojasā |*
+
+(Ṛ. Saṃ. 5-53-9 [?]) — they show that in it *pavi* means the felloe of the wheel. The word *pavi* also shows the meaning "arrow-head" (*śalya*):
+
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः ।
+
+> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ |*
+
+(Ṛ. Saṃ. 10-65-13 [?]) — citing this ṛk, (Ni. 12-30 [?]) "*pavī śalyo bhavati yad vipunāti kāyaṃ tadvatvevīram āyudhaṃ tadvān indraḥ pavīravān*" [as read [?]]: because it pierces the body, the arrow-head is called *pavi*; and because he possesses it, Indra has the epithet *pavīravān*, so it is explained; and
+
+> यो जनान् महिषाँ इवातितस्थौ पवीरवान् । उतापवीरवान् युधा ।
+
+> *yo janān mahiṣā~ ivātitasthau pavīravān | utāpavīravān yudhā |*
+
+(Ṛ. Saṃ. 10-60-2 [?]) — citing this ṛk, he has explained. In the ṛk at hand Sāyaṇa has given, as alternative meanings, "*pavayaḥ — vajrāḥ, rathanemayo vā*" (the thunderbolts, or the felloes of the chariot-wheels).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***yuvoḥ*** — the genitive dual; since the case-ending *os* follows, by the statement "*supāṃ supo bhavanti*" the substitution of the dual genitive occurs; therefore by "*yoci*" (Pā. Sū. 7-2-89 [?]) the *yā* substitution does not occur; by "*śeṣe lopaḥ*" elision of the *ṭi*; by the accent of cessation (*nivṛtti-svara*) the case-ending is *udātta*.
+- ***suyamāsaḥ*** — by "*ādyudāttaṃ dvyac chandasi*" (Pā. Sū. 6-2-119 [?]) the hind-member takes the *ādyudātta* accent; with *jas* following, by "*ājjaser asuk*" (Pā. Sū. 7-1-50 [?]) the augment *asuk*.
+- ***dīyat*** — root *dīya gatau* (a Vedic root); *leṭ*, third person singular; by "*itaś ca lopaḥ parasmaipadeṣu*" (Pā. Sū. 3-4-97 [?]) elision of the *i*; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *aṭ*; because of *yad*-connection no *nighāta*; the root accent remains. Yāska has read *dīyati*, *takati* among the roots of motion.
+
+---
+
+**Progress note:** printed p. 500 (PDF 520) done — Sūkta 180 Ṛk 1 Special Topics (rathaḥ, rajāṃsi, pavayaḥ) and grammar begun (yuvoḥ, suyamāsaḥ, dīyat; continues p. 501). Next: printed p. 501 (PDF 521). Open flags: refs [?]; review/doubts_v13.json.
