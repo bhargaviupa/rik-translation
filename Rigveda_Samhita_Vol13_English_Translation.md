@@ -10779,7 +10779,7 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
 - ***veśaya*** — root *viśa praveśane*; to show the instigator's activity, by "*hetumati ca*" (Pā. Sū. 3-1-26 [?]) the suffix *ṇic*; after the *ṇijanta*, *loṭ*, second person singular; *nighāta* for a *tiṅ*; Vedically the long vowel in the Saṃhitā.
-- ***carṣaṇīnām*** — root *kṛṣa vilekhane*; by "*kṛṣer ādeś ca caḥ*" (Uṇ. Sū. 2-… [?]) the suffix *ani*, with *ca* substituted at the beginning; by "*pugantalaghūpadhasya ca*" guṇa for the light penultimate of the root; genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-… [?], sūtra name as read, doubtful) the *nām* takes *udātta* accent.
+- ***carṣaṇīnām*** — root *kṛṣa vilekhane*; by "*kṛṣer ādeś ca caḥ*" (Uṇ. Sū. 2-… [?]) the suffix *ani*, with *ca* substituted at the beginning; by "*pugantalaghūpadhasya ca*" guṇa for the light penultimate of the root; genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-177 [?]) the *nām* takes *udātta* accent.
 
 ### Printed p. 406  (PDF 426)
 
@@ -10879,4 +10879,73 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 ---
 
-**Progress note:** printed p. 408 (PDF 428) done — Sūkta 176 Ṛk 3 Pratipadārtha, Bhāvārtha, printed English, Special Topics (pañcakṣiti; continues p. 409). Next: printed p. 409 (PDF 429). Open flags: Ṛg/Nirukta refs [?]; some quotes read approx [?]; review/doubts_v13.json.
+### Printed p. 409  (PDF 429)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+> प्रत्यूवाचाथ तानग्निर्विश्वेदेवा यदूच माम् । तत्करिष्ये जुषन्तां तु होत्रं पञ्चजना मम ॥
+
+> *pratyūvācātha tān agnir viśvedevā yad ūca mām | tat kariṣye juṣantāṃ tu hotraṃ pañcajanā mama ‖* [as read: [?]]
+
+(Bṛ. De. 7-66 [?]) — in this verse, after giving the deities the answer that Agni had given, the word *pañcajana* is explained:
+
+> शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्नीरेते पञ्चजनाः स्मृताः ॥
+
+> *śālāmukhyaḥ praṇītaś ca putro gṛhapateś ca yaḥ | uttaro dakṣiṇaś cāgnīr ete pañcajanāḥ smṛtāḥ ‖*
+
+(Bṛ. De. 7-67 [?]). That is: the fire at the entrance of the hall (the *āhavanīya*), the *praṇīta* fire, the *gārhapatya* fire that is the son of the sacrificer, and the northern and southern fires: these five kinds of fires are, by traditional usage, called the five groups. Besides this view —
+
+> मनुष्याः पितरो देवा गन्धर्वोरगराक्षसाः । गन्धर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥
+
+> *manuṣyāḥ pitaro devā gandharvoragarākṣasāḥ | gandharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*
+
+(Bṛ. De. 7-68 [?]) — according to the first view, the *uraga* and the *rākṣasas* form one group; according to the second, the *yakṣas* and *rākṣasas* form one group.
+
+> योऽस्कोपमन्यवावेतानाहतुः पञ्च वै जनान् । निषादपञ्चमान्वर्णान्मन्यते शाकटायनः ॥
+
+> *yo 'skopamanyavāv etān āhatuḥ pañca vai janān | niṣādapañcamān varṇān manyate śākaṭāyanaḥ ‖* [as read; first pāda doubtful: [?]]
+
+(Bṛ. De. 7-69 [?]). The authors of the Bṛhaddevatā say in this sentence that Yāska's view is the first. But in the Nirukta, only the opinions of others are stated; Yāska has not stated his own opinion definitely. Perhaps he accepted that very first one.
+
+> ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते ।
+
+> *ṛtvijo yajamānaṃ ca śākapūṇis tu manyate |*
+
+(Bṛ. De. 7-70 [?]). The four priests beginning with the *hotṛ*, together with the sacrificer, make five groups: this is Śākapūṇi's view.
+
+> चक्षुःश्रोत्रं मनो वाक्च प्राणश्चेत्यात्मवादिनः । गन्धर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ सर्पाश्च ब्राह्मणे चैव श्रूयन्ते ह्यैतरेयके ॥
+
+> *cakṣuḥśrotraṃ mano vāk ca prāṇaś cety ātmavādinaḥ | gandharvāpsaraso devā manuṣyāḥ pitaras tathā ‖ sarpāś ca brāhmaṇe caiva śrūyante hy aitareyake ‖*
+
+(Bṛ. De. 7-71, 72 [?]). Eye, ear, mind, speech and breath: these five are the *pañcajanas* according to the *ātmavādins* (those who speak of the Self). Gandharvas and the rest are explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5 [?]). The Bṛhaddevatā too shows the differences of opinion, in the explanation, saying that Agni gave the deities the answer that such *pañcajanas* may also enjoy the oblations.
+
+### Printed p. 410  (PDF 430)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+***pañca kṣitīnāṃ viśvāni vasu indrasya hastayoḥ*** — as is described in the ṛk at hand, all the worlds being included within Indra's protection, all the earlier-mentioned meanings of *pañca kṣitīnām* are acceptable.
+
+***spāśayasva — bādhasva*** — "oppress". *Spaś* — "*bādhanasparśanayoḥ*": *sparśana* means touching, or knowing by other means of perception; meaning also *hiṃsā*, it is formed from the root *spaś*. The prayer is made: "Oppress and destroy the enemies of the sacrificers." There are also nominal forms in use that are formed from this root; in those contexts the sense is "harmful enemies", or "deity-messengers who destroy enemies".
+
+> प्रति स्पशो वि सृज तूर्णितमो भवा पायुर्विशो अस्या अदब्धः । यो नो दूरे अघशंसो यो अन्त्यग्ने माकिष्टे व्यथिरा दधर्षीत् ॥
+
+> *prati spaśo vi sṛja tūrṇitamo bhavā pāyur viśo asyā adabdhaḥ | yo no dūre aghaśaṃso yo antyagne mākiṣṭe vyathirā dadharṣīt ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 4-4-3 [?]) — in this ṛk, for the word *spaśaḥ* the meaning is "*parabādhakān raśmīn cārān vā*", "the rays that trouble others, or spies": either the rays of Agni that destroy enemies, or Agni's messengers that destroy enemies.
+
+In the first meaning mentioned above, the word is used where the object that comes within the range of the sense organs, such as touch, is described. For example —
+
+> प्रोरोर्मित्रावरुणा पृथिव्याः प्र दिव ऋष्वाद्बृहतः सुदानू । स्पशो दधाथे ओषधीषु विक्ष्वृधग्यतो अनिमिषं रक्षमाणा ॥
+
+> *prorór mitrāvaruṇā pṛthivyāḥ pra diva ṛṣvād bṛhataḥ sudānū | spaśo dadhāthe oṣadhīṣu vikṣv ṛdhag yato animiṣaṃ rakṣamāṇā ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 7-61-3 [?]) — in such ṛks it means "form" (*rūpa*) that is visible to the eye. In the ṛk at hand the root is used in the sense of *bādhā* (obstruction): "oppress the enemies, destroy them" is the meaning.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***kṣitīnām*** — root *kṣi nivāsagatyoḥ*; the suffix *ktin*; genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-177 [?]) the *nām* takes *udātta* accent.
+- ***spāśayasva*** — root *spaśa bādhanasparśanayoḥ*; by "*hetumati ca*" (Pā. Sū. 3-1-26 [?]) *ṇic*; by "*ato 'pad…*" "*ata upadhāyāḥ*" (Pā. Sū. 7-2-116 [?]) *vṛddhi* of the penultimate; after the *ṇijanta*, *loṭ*, second person singular; by "*thāsaḥ se*" (Pā. Sū. 3-4-80 [?]) *se* for *thās*; by "*savābhyāṃ vāmau*" (Pā. Sū. 3-4-91 [?]) the *e* is replaced by *va*; the *vikaraṇa* *śap* being the cause, guṇa for the *ṇic*, substitution *aya*; because it is in *pādādi* position, no *nighāta*; the *ṇic* accent remains.
+
+---
+
+**Progress note:** printed p. 410 (PDF 430) done — Sūkta 176 Ṛk 3 Special Topics (pañcajanāḥ, spaś) and grammar begun (continues p. 411). Next: printed p. 411 (PDF 431). Open flags: Bṛhaddevatā ref numerals [?]; Ṛg refs [?]; review/doubts_v13.json.
