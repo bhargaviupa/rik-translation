@@ -2902,5 +2902,29 @@
   ],
   "note": "Rg ref 1-113-1? small; quote idam sresttham jyotisam read approx",
   "answer": ""
+ },
+ {
+  "pdf": 351,
+  "printed": 331,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-164-32, 1-65-2, 5-21-4, 1-66-3, 1-144-4, 1-140-1 small; Nirukta 2-8, 1-12; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 352,
+  "printed": 332,
+  "crop": [
+   0.3,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 10-65-13 small; quote 'savirvi tanyatur ekapadajo' read approx; Nirukta pavi ref not read",
+  "answer": ""
  }
 ]

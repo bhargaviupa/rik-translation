@@ -8525,4 +8525,78 @@ Let (your foes, Indra,) humbled by the might of your thunderbolt, rest in their 
 
 ---
 
-**Progress note:** printed p. 330 (PDF 350) done — Sūkta 174 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 331). Next: printed p. 331 (PDF 351). Open flags: Ṛk 4 bhāṣya doubtful [?]; review/doubts_v13.json.
+### Printed p. 331  (PDF 351)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā". A smudge/stamp mark in the header strip.)*
+
+In this ṛk the word *yoni* is explained as used in the sense of "place"; and —
+
+> य ईं चकार न सो अस्य वेद य ईं ददर्श हिरुगिन्नु तस्मात् । स मातुर्योना परिवीतो अन्तर्बहुप्रजा निर्ऋतिमा विवेश ॥
+
+> *ya īṃ cakāra na so asya veda ya īṃ dadarśa hirug in nu tasmāt | sa mātur yonā parivīto antar bahuprajā nirṛtim ā viveśa ‖*
+
+(Ṛ. Saṃ. 1-164-32 [?]).
+
+Here Yāska has written:
+
+> योनिरन्तरिक्षं महानवयवः परिवीतो वायुना । अयमपीतरो योनिरेतस्मादेव परियुतो भवति ।
+
+> *yonir antarikṣaṃ mahān avayavaḥ parivīto vāyunā | ayam apītaro yonir etasmād eva pariyuto bhavati |* [as read: [?]]
+
+(Ni. 2-8 [?]). As the embryo arises in the womb through the wind, so the atmosphere, pervaded by the wind and filled with water-laden clouds, is referred to here by the word *yoni*: so the meaning is given.
+
+The word *yoni* is used in the senses cause, place of origin, dwelling-place; and the Nirukta-writers have read this word also among the names of water: *aṇaḥ*, *kṣodaḥ*, and so on (Ni. 1-12 [?]).
+
+> ऋतस्य देवा अनु व्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम । वर्धन्तीमापः पन्वा सुशिश्विमृतस्य योना गर्भे सुजातम् ॥
+
+> *ṛtasya devā anu vratā gur bhuvat pariṣṭir dyaur na bhūma | vardhantīm āpaḥ panvā suśiśvim ṛtasya yonā garbhe sujātam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-65-2 [?]) — in this ṛk, "in the water that is the cause of sacrifice or of food", i.e. in the water that is the cause of the sacrifice and of grain;
+
+> देवं वो देवयज्ययाग्निमीळीत मर्त्यः । समिद्धः शुक्र दीदिह्यृतस्य योनिमासदः ससस्य योनिमासदः ॥
+
+> *devaṃ vo devayajyayāgnim īḷīta martyaḥ | samiddhaḥ śukra dīdihy ṛtasya yonim āsadaḥ sasasya yonim āsadaḥ ‖*
+
+(Ṛ. Saṃ. 5-21-4 [?]) — in this ṛk, *yoniṃ kāraṇaṃ svargasādhanaṃ*: "cause, the means of heaven", the means that cooperates in reaching heaven;
+
+> दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । चित्रो यदभ्राट् छ्वेतो न विष्टु रथो न रुक्मी त्वेषः समत्सु ॥
+
+> *durokaśociḥ kratur na nityo jāyeva yonāv araṃ viśvasmai | citro yad abhrāṭ chveto na viṣṭu ratho na rukmī tveṣaḥ samatsu ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-66-3 [?]) — "house"; and
+
+> युवाभिमां त्वा सवयसा सपर्यतः समाने योना मिथुना सनोकसा । दिवा न नक्तं पलितो युवाजनि पुरू चरन्नजरो मानुषा युगा ॥
+
+> *yuvābhimāṃ tvā savayasā saparyataḥ samāne yonā mithunā sanokasā | divā na naktaṃ palito yuvājani purū carann ajaro mānuṣā yugā ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-144-4 [?]) — "the place of origin of the fruit": and so,
+
+> वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये । वस्त्रेणेव वासया मन्मना शुचिं ज्योतीरथं शुक्रवर्णं तमोहनम् ॥
+
+> *vediṣade priyadhāmāya sudyute dhāsim iva pra bharā yonim agnaye | vastreṇeva vāsayā manmanā śuciṃ jyotīrathaṃ śukravarṇaṃ tamohanam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-140-1 [?]).
+
+### Printed p. 332  (PDF 352)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+In such ṛks the word is used, with the sense *vedyākhyaṃ sthānam* ("the place called the altar"), and thus in many different senses. In the ṛk at hand it is explained as "the atmosphere, the support of all things".
+
+Addressing Indra, the meaning is explained: "May the enemies of Indra lie down in their own places, each where he was before; or may they lie in the atmosphere, the resting-place of all beings."
+
+***pavīravasya mahā praśastaye*** — the word *pavi* is read among the names of the thunderbolt (Ni. 2-… [?]) and among the names of speech (Ni. 3-… [?]). And Yāska:
+
+> सावीर्वी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापस्समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥
+
+> *sāvīrvī tanyatur ekapādajo divo dhartā sindhur āpas samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-65-13 [?]) — quoting this ṛk, he explains: "*paviḥ śalyo bhavati yad vipunāti kāyam, tadvat pavīram āyudhaṃ tadvān indraḥ pavīravān*" — *pavi* means a thorn (*śalya*), because it pierces and purifies the body: *pavi* may be taken to mean "thorn"; since the body is divided by the thorn, the weapon fitted with a point is called *pavīra*; and Indra, who possesses this weapon, is called *pavīravān*: this is the meaning given. Here Sāyaṇa —
+
+for the word *pavīravasya* explains "*kuliśasya*", "of the thunderbolt", or "of the word *kuliśa*"; having explained the meaning of the word "weapon, thunderbolt", he states that, through the greatness of the thunderbolt and "*tvadvajraprahāreṇa hatā meghāḥ śatravo vā tatraiva śerate nipātena palāyante*" — the clouds or the enemies, struck by the blow of your thunderbolt, lie there, or flee by falling away; and that this (state, as it were) is for the sake of proclaiming Indra's greatness: "*praśaṃsanāya tvattrātaye tvanmahimajñāpanāya*" [as read: [?]].
+
+***yat yudhā gāḥ arṇāṃsi avasṛjat*** — "*yadā praharaṇasādhanena āyudhena yuddhena vā gacchasi tadā udakāni avāsṛjaḥ*": the word *yat* is used in the sense of *yadā* ("when"). For the word *yudhā* the meaning "weapon, the instrument of attack" or "battle" is given. By this it is said that when Indra moves in battle, or when he is with his weapon, he causes the waters to fall to the earth (he gives rain). By the word *anāṅmukham upātayeḥ* ("you cause to fall with the face turned down") it is indicated that the worldly picture is described here of Indra: as in the world a hero, bearing his weapon and fighting a battle with enemies, brings them down on the earth with face downward, so they fall and perish.
+
+---
+
+**Progress note:** printed p. 332 (PDF 352) done — Sūkta 174 Ṛk 4 Special Topics (yoni, pavīra, yudhā; continues p. 333). Next: printed p. 333 (PDF 353). Open flags: Ṛg/Nirukta refs [?]; some quotes garbled [?]; review/doubts_v13.json.
