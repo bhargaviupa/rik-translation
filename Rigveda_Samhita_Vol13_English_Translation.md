@@ -16639,4 +16639,46 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 594 (PDF 614) done — Sūkta 182 Ṛk 1 Pratipadārtha, Bhāvārtha, printed English, Special Topics (vayuna, dhiyaṃjinvā, jinvati; continues p. 595). Next: printed p. 595 (PDF 615). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 595  (PDF 615)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 595.)*
+
+**Dhiṣṇyā** — those worthy of meditation, or worthy of praise. The special senses of this word have been told before.
+
+**Viśpalāvasū** — for this word also two kinds of meaning are given. First, "*viśāṃ prajānām asmākaṃ pālayitṛdhanau*" — those whose wealth protects the people, that is, they who can protect us, the people. Second, "*viśpalākhyā-aśvinnajaṅghāyā hiraṇmayajaṅghā-pradānena tathābhūtau*" — they who gave a golden leg to the cut leg of Viśpalā. The story of Viśpalā has been hinted at earlier too. Its substance is this:
+
+> अगस्त्यपुरोहितः खेलो नाम राजा बभूव । तस्य सेनायां योद्ध्री विश्पला नाम स्त्री । तस्या अन्नार्थं धनार्थं च युध्यमानायाः शत्रवो जङ्घां चिच्छिदुः । तस्याश्विन्नां जङ्घां ज्ञात्वा पुरोहितोऽगस्त्योऽश्विनौ तुष्टाव । तौ विश्पलां प्रति जग्मतुः । आगत्य च सद्यो लोहमयीं जङ्घां विश्पलायै चक्रतुः । तदेवेहाप्युच्यते ।
+
+> *agastyapurohitaḥ khelo nāma rājā babhūva | tasya senāyāṃ yoddhrī viśpalā nāma strī | tasyā annārthaṃ dhanārthaṃ ca yudhyamānāyāḥ śatravo jaṅghāṃ cicchiduḥ | tasyāśvinnāṃ jaṅghāṃ jñātvā purohito 'gastyo 'śvinau tuṣṭāva | tau viśpalāṃ prati jagmatuḥ | āgatya ca sadyo lohamayīṃ jaṅghāṃ viśpalāyai cakratuḥ | tadevehāpyucyate |*
+
+(Sā. Bhā. Ṛ. Saṃ. 1-116-15) — "There was a king named Khela, whose priest was Agastya. In his army was a woman warrior named Viśpalā. While she was fighting for food and for wealth, the enemies cut off her leg. Knowing that her leg was cut, the priest Agastya praised the Aśvin deities. They went to Viśpalā, and at once made her an iron leg. This same is said here too." — this is the old story: that the Aśvin deities made her an iron (*lohamayī*) leg and caused her to walk (in the ṛk at hand Sāyaṇa says "by giving a golden leg"). The same story was told by Sāyaṇa in the Sūkta of Kakṣīvān [as printed; "kakṣīvatkṛta sūkta"] also, citing the ṛk:
+
+> चरित्रं हि वेरिवाच्छेदि पर्णमाजा खेलस्य परितक्म्यायाम् ।
+> सद्यो जङ्घामायसीं विश्पलायै धने हिते सर्तवे प्रत्यधत्तम् ॥
+
+> *caritraṃ hi verivācchedi parṇamājā khelasya paritakmyāyām |*
+> *sadyo jaṅghāmāyasīṃ viśpalāyai dhane hite sartave pratyadhattam ‖*
+
+(Ṛ. Saṃ. 1-116-15).
+
+**Divaḥ napātā** — the word *napāt* means "son" and also "grandson". The Nirukta-author says: "*napād ity antarāyoḥ prajāyāḥ nāmadheyam*" [as read; Ni. 8-5 [?]] — that it is not a direct son; the word means grandsons etc. In the ṛk at hand, for *divaḥ napātā* Sāyaṇa explains "*ādityasya napātayitārau*". On the origin of the Aśvin deities, it has been told fully before in the Special Topics of Ṛk 1-181-4. To these the epithet *divaḥ napātā* comes in many places. Sāyaṇa does not give one meaning everywhere. In Ṛk 1-184-1 he explains *dyulokasya naptṛsthānīyau* ("in the position of grandsons of the heavenly world"), and:
+
+### Printed p. 596  (PDF 616)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 596.)*
+
+> कृष्णा यद्गोष्वरुणीषु सीदद्दिवो नपाताश्विना हुवे वाम् ।
+> वीतं मे यज्ञमा गतं मे अन्नं ववन्वांसा नेषमस्मृतध्रू ॥
+
+> *kṛṣṇā yadgoṣvaruṇīṣu sīdaddivo napātāśvinā huve vām |*
+> *vītaṃ me yajñamā gataṃ me annaṃ vavanvāṃsā neṣamasmṛtadhrū ‖*
+
+(Ṛ. Saṃ. 10-61-4) — here he explains "*dīpyamānasya svargasya prātaśātmakasya yāgasya vā napātayitārau*". Since the nature of the Aśvin deities is described in many ways, all these meanings are suitably reconciled.
+
+**Śucivratā** — the word *śuci* means "purity" and also "shining". Here it is "those whose *vrata* (rite or deed of strength) is exceedingly extensive and shining".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *abhūt* — in the beginning of a *pāda* there is no *nighāta* accent; the *āḍāgama* being acute, the first syllable is acute; *vayunam* — root *aja gatikṣepaṇayoḥ*; "*ajiyamiśī…*" (Un. Sū. 3-143 [?]) gives suffix *unan*; "*ajer vy-aghañapoḥ*" (Pā. Sū. 2-4-56 [?]) gives *vī* for the root; guṇa, *ay* substitution; by *vyatyaya* the suffix's initial acute accent; *bhūṣata* — root *bhūṣa alaṅkāre*, *bhvādi*; *loṭ* second person plural form; *nighāta* accent (as following a *tiṅ*); in Vedic usage lengthening in the Saṃhitā; *vṛṣaṇvān* — suffix *matup* after the word *vṛṣan*; "*ano nuṭ*" (Pā. Sū. 8-2-16 [?]) gives *nuḍāgama*; "*hrasvanuḍbhyāṃ matup*" (Pā. Sū. 6-1-176 [?]) — *matup* acute; *madata* — root *mada tṛptiyoge*; as the causative action is shown, it is *antarbhāvita-ṇyartha*; *loṭ* second person plural; by *vyatyaya* initial acute; *manīṣiṇaḥ* — "*manīṣā eṣām asti*"; "*ata iniṭhanau*": suffix *ini*; vocative plural; *nighāta* accent; *dhiyaṃjinvā* — root *jivi prīṇane*; "*kṛtyaluṭo bahulam*": from the *bahula* rule the suffix *khac* (accent by the sound of the rule); "*idito num dhātoḥ*" gives *num*; "*ici ekāco 'm pratyayavac ca*" (Pā. Sū. 6-3-68 [?]) gives *am* augment to the former; the accent of the *kṛdutta* last member gives final acute; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) — ā-substitution for the dual (*au*); so also in *dhiṣṇyā*; *napātā* — "*na pātayitārau*; *nabhrāṇ napāt…*" (Pā. Sū. 6-3-75 [?]): the non-elision of *na* is irregularly established in the compound; ā-substitution of the dual as before; *nañ* — the former member keeps its own accent.
+
+---
+
+**Progress note:** printed p. 596 (PDF 616) done — Sūkta 182 Ṛk 1 Special Topics (dhiṣṇyā, viśpalāvasū / Viśpalā story, divaḥ napātā, śucivratā) and grammar. Next: printed p. 597 (PDF 617): Ṛk 1 grammar end / Ṛk 2. Open flags: refs [?]; review/doubts_v13.json.
