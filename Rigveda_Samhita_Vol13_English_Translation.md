@@ -9778,4 +9778,68 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 ---
 
-**Progress note:** printed p. 374 (PDF 394) done — Sūkta 175 Ṛk 3 Special Topics (ratha, sahāvān, dasyu; continues p. 375). Next: printed p. 375 (PDF 395). Open flags: Nirukta/Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 375  (PDF 395)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+> त्वं ह नु त्यददमायो दस्यूँ रेकः कृष्वीरवनो रार्याय ।
+
+> *tvaṃ ha nu tyad adamāyo dasyūṃr ekaḥ kṛṣvīr avano rāryāya |* [as read: [?]]
+
+(Ṛ. Saṃ. 6-18-3 [?]). In such ṛks, for the word *dasyūn*, "men without rites" is the meaning given. Since Indra has destroyed *dasyus* of the form of Vṛtra and other *asuras*, and *dasyus* of the form of men who perform no rites, the epithet *dasyuhā* (slayer of *dasyus*) is natural for him.
+
+> कुवित्सस्य प्र हि व्रजं गोमन्तं दस्युहा गमत् ।
+
+> *kuvit sasya pra hi vrajaṃ gomantaṃ dasyuhā gamat |* [as read: [?]]
+
+(Ṛ. Saṃ. 6-45-24 [?]). In many such ṛks this epithet shows Indra's extraordinary power, and also the protection of the world that arises through the slaying of *dasyus*. And —
+
+***ārya, dasyu*** — it is the opinion of some that these two words are conventional terms denoting two different groups of people. The historians have discussed the distinction between these two groups: that the *ārya* are Sanskrit-speaking (*saṃskṛta*) and the *dasyus* are not Sanskrit-speaking and of different colour. This matter will be explained, with examples, further on.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***sanitā*** — root *ṣaṇu dāne*; by "*dhātvādeḥ ṣaḥ saḥ*" (Pā. Sū. 6-1-64 [?]) *ṣa* becomes *sa* at the beginning; in the agent sense the suffix *tṛn*; by "*ārdhadhātukasyeḍ valādeḥ*" (Pā. Sū. 7-2-35 [?]) the augment *iṭ*; by "*jñ-ityādir nityam*" (Pā. Sū. 6-1-197 [?]) the first syllable is *udātta*.
+- ***codayaḥ*** — root *cuda preraṇe*; by "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6 [?]) *laṅ* in the sense of *loṭ*; by "*satyāpapāśa*…" (Pā. Sū. 3-1-25 [?]) *ṇic* in its own sense; *sip*, *śap*; because *śap* is the cause, guṇa for the *ṇic*, substitution *aya*; since *ṇic* is the cause, guṇa for the light penultimate vowel of the root; because it is in *pādādi* position, no *nighāta*; the *ṇic* accent remains.
+- ***dasyum*** — root *dasu upakṣaye*; by "*yujimuni śuṃdhi*…" (Uṇ. Sū. 3-100 [?]) the suffix *yuc*; since it belongs to the *vṛṣādi* group, the first syllable is *udātta*; since the substitution *anādeśa* (for *yu*) is prescribed for *ukāra* *ityādi*, no *anādeśa* occurs here.
+- ***avratam*** — *na vidyate vratam yasya saḥ tam*; by "*naño subhyām*" (Pā. Sū. 6-2-172 [?]) the final member takes *udātta* accent.
+- ***oṣaḥ*** — root *uṣa dāhe*, *bhvādi*; to show the sense of *loṭ*, Vedic *laṅ*; second person singular; Vedically no augment; because it is in *pādādi* position, no *nighāta*;
+
+### Printed p. 376  (PDF 396)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+*śap* being *anudātta*, the root accent remains.
+
+- ***śociṣā*** — root *śuca śokte*; by "*arciśucihu*…" (Uṇ. Sū. 2-… [?]) the suffix *iṣi*; the suffix accent is first-syllable *udātta*; instrumental singular. ‖ 3 ‖
+
+---
+
+**Sūkta 175, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> मुषाय सूर्यं कवे चक्रमीशान ओजसा ।
+> वह शुष्णाय वधं कुत्सं वातस्याश्वैः ॥ ४ ॥
+
+> *muṣāya sūryaṃ kave cakram īśāna ojasā |*
+> *vaha śuṣṇāya vadhaṃ kutsaṃ vātasyāśvaiḥ ‖ 4 ‖*
+
+**Pada-pāṭha**
+
+> मुषाय । सूर्यम् । कवे । चक्रम् । ईशानः । ओजसा ।
+> वह । शुष्णाय । वधम् । कुत्सम् । वातस्य । अश्वैः ॥ ४ ॥
+
+> *muṣāya | sūryam | kave | cakram | īśānaḥ | ojasā |*
+> *vaha | śuṣṇāya | vadham | kutsam | vātasya | aśvaiḥ ‖ 4 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे कवे क्रान्तदर्शिन्निन्द्र ईशानः समर्थः सन् सूर्यं सूर्यस्य ॥ सुपां सुलुगिति षष्ठ्यैकवचनस्य द्वितीयैकवचनादेशः ॥ तत्संबन्धि चक्रमेकनेमि [?] ओजसा बलेन सामर्थ्यातिशयेन मुषाय । अमुष्णाः ॥ छन्दसि शायजसीति शायजादेशः ॥ पूर्वं सूर्यरथस्य चक्रद्वयमस्ति । एकमिन्द्रो मुमुष इतीतिहासः । तथा च मन्त्रान्तरं । प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यत् । ऋ. ५-२९-१० [?] । इति । किंच शुष्णाय एतन्नामकायासुराय तद्वधार्थं । द्वितीयार्थे वा चतुर्थी । शुष्णं हन्तुमित्यर्थः । कुत्सं कर्तनसाधनं वधं वज्रं वातस्य वायोरश्वैरश्वैर्वायुवेगैर्वाश्वैर्युक्तः सन् वह । अवहः । शुष्णं हन्तुं वज्रमुदारयः । यद्वा । शुष्णवधाय वज्रमवहः । तं च हत्वा तदीयैः वायुवेगैरश्वैस्तदुपलक्षितैस्तदीयैर्धनैः कुत्सं महर्षिमगमः । शुष्णासुरधनं कुत्सायादा इत्यर्थः । तथा चान्यत्र त्वं कुत्सं शुष्णहत्येष्वावित । ऋ. १-१०६-६ [?] । कुत्सायु शुष्णमशुषं । ऋ. ४-१६-१२ [?] । इत्यादीति ॥
+
+> *he kave krāntadarśinn indra īśānaḥ samarthaḥ san sūryaṃ sūryasya ‖ supāṃ suluk iti ṣaṣṭhyaikavacanasya dvitīyaikavacanādeśaḥ ‖ tatsaṃbandhi cakram ekanemi [?] ojasā balena sāmarthyātiśayena muṣāya | amuṣṇāḥ ‖ chandasi śāyajasīti śāyajādeśaḥ ‖ pūrvaṃ sūryarathasya cakradvayam asti | ekam indro mumuṣa itītihāsaḥ | tathā ca mantrāntaraṃ | prānyac cakram avṛhaḥ sūryasya kutsāyānyat | ṛ. 5-29-10 [?] | iti | kiṃca śuṣṇāya etannāmakāyāsurāya tadvadhārthaṃ | dvitīyārthe vā caturthī | śuṣṇaṃ hantum ity arthaḥ | kutsaṃ kartanasādhanaṃ vadhaṃ vajraṃ vātasya vāyor aśvair aśvair vāyuvegair vāśvair yuktaḥ san vaha | avahaḥ | śuṣṇaṃ hantuṃ vajram udārayaḥ | yadvā | śuṣṇavadhāya vajram avahaḥ | taṃ ca hatvā tadīyaiḥ vāyuvegair aśvais tadupalakṣitais tadīyair dhanaiḥ kutsaṃ maharṣim agamaḥ | śuṣṇāsuradhanaṃ kutsāyādā ity arthaḥ | tathā cānyatra tvaṃ kutsaṃ śuṣṇahatyeṣv āvitha | ṛ. 1-106-6 [?] | kutsāyu śuṣṇam aśuṣaṃ | ṛ. 4-16-12 [?] | ity ādīti ‖* [?]
+
+*Gist:* O Indra, you, the mighty, by your power took away the sun's one wheel (the Sun's chariot has two wheels); and, drawn by the wind-swift horses, you drove forth the cutting thunderbolt to slay Śuṣṇa and gave his wealth to the sage Kutsa.
+
+---
+
+**Progress note:** printed p. 376 (PDF 396) done — Sūkta 175 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 377). Next: printed p. 377 (PDF 397). Open flags: Ṛk 4 bhāṣya partly doubtful [?]; Ṛg/sūtra refs [?]; review/doubts_v13.json.
