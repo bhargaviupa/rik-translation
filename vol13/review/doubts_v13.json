@@ -5902,5 +5902,29 @@
   ],
   "note": "refs Ni. 4-25, Rg 10-85-39, 10-48-7 small type [?]",
   "answer": ""
+ },
+ {
+  "pdf": 599,
+  "printed": 579,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ni./Rg 5-7-3 refs small type [?]; grammar sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 600,
+  "printed": 580,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "grammar wording and sutra/Unadi numerals [?]",
+  "answer": ""
  }
 ]

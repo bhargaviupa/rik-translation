@@ -16212,4 +16212,58 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 ---
 
-**Progress note:** printed p. 578 (PDF 598) done — Sūkta 181 Ṛk 6 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (śaradvān, niṣṣāṭ; continues p. 579). Next: printed p. 579 (PDF 599). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 579  (PDF 599)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 579.)*
+
+**Evaiḥ** — "*kāmyair ayanair vā*" (Ni. 12-21 [?]) — showing independent, unobstructed motion (of the Maruts, who are friends of Indra), this word is in general used of one who ever has the nature of moving. But in the ṛk at hand it is an epithet of the Sun-formed deity (one of the Aśvins).
+
+**Pīpayanta** — from the root *pyai* this word, formed in the sense of "cause to grow" or "make manifest", has both these senses; the special senses of both have been told in the preceding ṛk with examples.
+
+**Veṣantīḥ** — formed from the root *viṣ* in the sense of pervading; in general in places where this is used both senses are chief:
+
+> अव स्म यस्य वेषणे स्वेदं पथिषु जुह्वति ।
+> अभीमह स्वजेन्यं भूमा पृष्ठेव रुरुहुः ॥
+
+> *ava sma yasya veṣaṇe svedaṃ pathiṣu juhvati |*
+> *abhīmaha svajenyaṃ bhūmā pṛṣṭheva ruruhuḥ ‖*
+
+(Ṛ. Saṃ. 5-7-3 [?]) — in places such as this, in the sense of "*paricaryā* work", i.e. rites like worship; in the ṛk at hand, "pervade". But:
+
+> नि यद्युवेथे नियुतः सुदानू उप स्वधाभिः सृजथः पुरंधिम् ।
+> प्रेषद्वेषद्वातो न सूरिरा महे ददे सुव्रतो न वाजम् ॥
+
+> *ni yadyuvethe niyutaḥ sudānū upa svadhābhiḥ sṛjathaḥ puraṃdhim |*
+> *preṣadveṣadvāto na sūrirā mahe dade suvrato na vājam ‖*
+
+(Ṛ. Saṃ. 1-180-6) — here Sāyaṇa has explained that if it is formed from the root *viṣ* the meaning is "pervading", and if from the root *iṣ* it is "desiring". In the ṛk at hand it means only "pervading everywhere": that is, the fruits come in abundance to the sacrificers.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *śaradvān* — "*śaradaḥ asya santi*"; suffix *matup*; "*māduṣ-padhāyāś ca*" gives *va* for *ma*; the suffix, having *p*, is unaccented; *niṣṣāṭ* — root *saha marṣaṇe*, suffix *ṇvi* by "*chandasi sahaḥ*" (Pā. Sū. 3-2-63 [?]); "*ata upadhāyāḥ*" (Pā. Sū. 7-2-116 [?]) gives vṛddhi of the penultimate; "*sahes sāḍaḥ saḥ*" (Pā. Sū. 8-3-56 [?]) gives *ṣa* for the root's *sa*; the accent of the base of a word ending in a *kṛt* suffix; *madhvaḥ* — "*jasādiṣu chandasi vā vacanam*": no guṇa etc.; genitive in the sense of the object (*karmārtha*).
+
+### Printed p. 580  (PDF 600)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 580.)*
+
+*(Grammar page, continued, noted briefly):* *iṣṇan* — root *iṣu icchāyām*; *kryādi*; *laṭ* with *śatṛ*-substitution; *śnā* (*vikaraṇa*) by "*kryādibhyaḥ śnā*"; since the suffix has *ś*, *śnā-bhyas-tayor ātaḥ* (Pā. Sū. 6-4-112 [?]) elision of the *ā* of the *vikaraṇa*; since *ṭakāra* is the occasion, "*raṣābhyāṃ no ṇaḥ samānapade*" gives *ṇa*; the suffix takes initial acute accent; *evaiḥ* — root *iṇ gatau*; "*iṇ-śībhyāṃ van*" (Un. Sū. 1-150 [?]) gives suffix *van*; "*sārvadhātukārdhadhātukayoḥ*" gives guṇa of the root; the suffix being *nit*, initial acute accent; *veṣantīḥ* — root *vī gatyādiṣu*; *laṭ* with *śatṛ*; "*sibbahulaṃ leṭi*" (Pā. Sū. 3-1-34 [?]); the *bahula* gives *śap*; guṇa of the root's *i*; in the feminine, by "*ugitaś ca*" *ṅīp*; *nuṃ* augment; "*supāṃ sulug*" — *jas* following, lengthening of the earlier vowel by *pūrvasavarṇa*; *āguḥ* — root *iṇ gatau*; in Vedic usage *luṅ*; "*iṇo gā luṅi*" (Pā. Sū. 2-4-45 [?]) gives *gā* substitution; when *sic* comes after *laṅ*… by "*gātisthāghupābhū*…" (Pā. Sū. 2-4-77 [?]) its *luk*; "*ātaḥ*" gives *jus* for *jhi*; *pararūpa*; tiṅ-accent *nighāta*.  ‖ 6 ‖
+
+### Sūkta 181, Ṛk 7  (printed p. 580; PDF 600)
+
+**Saṃhitā-pāṭha**
+
+> असर्जि वां स्थविरा वेधसा गीर्बाळ्हे अश्विना त्रेधा क्षरन्ती ।
+> उपस्तुताववतं नाधमानं यामन्नयामञ्छृणुतं हवं मे ॥ ७ ॥
+
+**Pada-pāṭha**
+
+> असर्जि । वां । स्थविरा । वेधसा । गीः । बाळ्हे । अश्विना । त्रेधा । क्षरन्ती ।
+> उपस्तुतौ । अवतं । नाधमानं । यामन् । अयामन् । शृणुतं । हवं । मे ॥ ७ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे वेधसा विधातारावश्विनौ वां युवयोर्बाळ्हे दृढे स्थैर्ये निमित्तभूते सति गीः स्तुतिरूपा वागसर्जि । सृज्यते । कीदृशी सा । स्थविरात्यन्तं स्थिरा नित्या
+
+> *he vedhasā vidhātārāvaśvinau vāṃ yuvayorbāḷhe dṛḍhe sthairye nimittabhūte sati gīḥ stutirūpā vāgasarji | sṛjyate | kīdṛśī sā | sthavirātyantaṃ sthirā nityā*
+
+---
+
+**Progress note:** printed p. 580 (PDF 600) done — Sūkta 181 Ṛk 6 ends (grammar); Ṛk 7 Saṃhitā, Pada, bhāṣya begun (continues p. 581). Next: printed p. 581 (PDF 601). Open flags: refs [?]; review/doubts_v13.json.
