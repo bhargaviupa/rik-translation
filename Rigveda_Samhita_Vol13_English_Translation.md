@@ -9166,4 +9166,55 @@ O Indra, you split the cities of the destructive *asuras*, and bent down the thu
 
 ---
 
-**Progress note:** printed p. 352 (PDF 372) done — Sūkta 174 Ṛk 7 complete; Ṛk 8: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English continues p. 353). Next: printed p. 353 (PDF 373). Open flags: Ṛk 8 bhāṣya partly doubtful [?]; Pratipadārtha order approximate; review/doubts_v13.json.
+### Printed p. 353  (PDF 373)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā"; signature mark "XIII 23" at foot.)*
+
+**Printed English**
+
+The sages have celebrated your everlasting (as well as your) recent (exploits, in achieving which) you have endured many injuries in putting an end to war: verily, you have de molished the hostile and undivine cities; you have bowed down the thunderbolt of the undivine Asura. [As printed: "de molished" [sic].]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***navyāḥ sanā āguḥ*** — in this ṛk two kinds of meaning are described. In the first, *navyāḥ* is explained as "*idānīntanāḥ ṛṣayaḥ*", the sages of the present day: the meaning of the word *navya* is given as "present-day sages". Addressing Indra, the present-day sages, who are no longer of the ancient times, praise the valorous deeds (acts expressive of valour), accomplished with courage, that are well known (celebrated glories) at all times in relation to Indra: so they are said to know.
+
+The word *nabhaḥ*, as an expression of the Nirukta-writers, is a name that denotes water and other things. Here Sāyaṇa has given this word the meaning "*hiṃsā*" ("violence"). *Pūrvīḥ nabhaḥ aviraṇāya sahaḥ*: Indra has put down the abundant acts of violence, so that there may be no war (so that the world may be quiet); and since *asuras*' cities also have been destroyed, the greatness is described: so the first meaning is given.
+
+In the second meaning, for the word *pūrvīḥ* the sense *purātanyaḥ āpaḥ* ("ancient waters") is given, and *navyāḥ stutyāḥ* ("new, to be praised") — addressing Indra, the ancient waters, though always existing, are seen, in the world, as if newly praiseworthy at the various times; and it is said that through them there is life for creatures; and —
+
+> तदर्थं नभो हिंसकान् बन्धकान् वा मेघान् सहः मर्षणमकरोः । किंच अदेवीः पुरः अवर्षणेन अदेवनशीलान् उदकपुटबन्धान् भिन्नानकरोः । तथा अदेवस्य अदेवनशीलस्य पीयोः प्रतिकूलस्य वृत्रस्य वधः वज्रं ननमः अनमयः ।
+
+> *tadarthaṃ nabho hiṃsakān bandhakān vā meghān sahaḥ marṣaṇam akaroḥ | kiṃca adevīḥ puraḥ avarṣaṇena adevanaśīlān udakapuṭabandhān bhinnān akaroḥ | tathā adevasya adevanaśīlasya pīyoḥ pratikūlasya vṛtrasya vadhaḥ vajraṃ nanamaḥ anamayaḥ |*
+
+— for this purpose Indra restrained the clouds that harm or bind (the waters), by his strength, without harming them; and the clouds which, by withholding rain, are like cities, uncheerful in nature, filled with water, he split; and he bent the thunderbolt against the hostile and joyless Vṛtra: so Indra's greatness is described here as acting in the manner of one sending down water, by striking with the thunderbolt the cloud that obstructs the world, that has no brightness.
+
+### Printed p. 354  (PDF 374)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***tā*** — from the form *tāni*; "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) drops *śi*; or a change of gender.
+- ***āguḥ*** — root *iṇ gatau*; *luṅ*, third person plural, the suffix *jhi*; by "*luṅi ca*" (Pā. Sū. 2-4-43 [?]) the substitution *gā* for the root; by "*gātisthāghupā*…" (Pā. Sū. 2-4-77 [?]) *luk* for *sic*; by "*ātaḥ*" (Pā. Sū. 3-4-110 [?]) the substitution *jus* for *jhi*; "*ussyapadāntāt*" (Pā. Sū. 6-1-96 [?]) *parar-ūpa*; the augment *a* for it; being after *ati* (*tiṅ*), *nighāta* accent.
+- ***nabhaḥ*** — root *ṇabha hiṃsāyām*; by "*kvip ca*" the suffix *kvip*; accusative plural.
+- ***bhinat*** — root *bhidir vidāraṇe*; *laṅ*, second person singular (by *vyatyaya*); *tip* arises by "*vyatyayo bahulam*"; by "*itaś ca*" the *i* is dropped; by "*rudhādibhyaḥ śnam*" the *śnam* *vikaraṇa*; because it ends in *mit*, the *n* is placed after the last vowel; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75 [?]) no augment; because it is in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
+- ***bhidaḥ*** — for the same root, the suffix *kvip*; accusative plural.
+- ***adevīḥ*** — *naña* *tatpuruṣa* compound; accusative plural; by "*tatpuruṣe tulyārtha*…" (Pā. Sū. 6-2-2 [?]) the *naña*-fore-member keeps its natural accent.
+- ***nanamaḥ*** — root *ṇamu prahvatve śabde ca*; the root includes *ṇic* in its sense; *laṅ*, second person singular, *sip*; the *i* dropped; *śap* *vikaraṇa*; by *vyatyaya* reduplication of the root; because it is in *pādādi* position, no *nighāta*; the root accent remains.
+- ***pīyoḥ*** — root *pā pāne*; by "*khyaru śaṃku pīyu*" (Uṇ. Sū. 1-… [?]) the suffix *yu*, ending in *ku*, is formed by *nipātana*; genitive singular. ‖ 8 ‖
+
+---
+
+**Sūkta 174, Ṛk 9**
+
+**Saṃhitā-pāṭha**
+
+> त्वं धुनिरिन्द्र धुनिमतीर्ऋणोरपः सीरा न स्रवन्तीः ।
+> प्र यत्समुद्रमति शूर पर्षि पारया तुर्वशं यदुं स्वस्ति ॥ ९ ॥
+
+> *tvaṃ dhunir indra dhunimatīr ṛṇor apaḥ sīrā na sravantīḥ |*
+> *pra yat samudram ati śūra parṣi pārayā turvaśaṃ yaduṃ svasti ‖ 9 ‖*
+
+---
+
+**Progress note:** printed p. 354 (PDF 374) done — Sūkta 174 Ṛk 8 complete; Ṛk 9 Saṃhitā written (Pada continues p. 355). Next: printed p. 355 (PDF 375). Open flags: sūtra/Uṇādi numerals [?]; review/doubts_v13.json.
