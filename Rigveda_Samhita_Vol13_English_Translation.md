@@ -11997,4 +11997,56 @@ In the ṛk at hand, *medhaḥ paśuḥ*: the commentator states that the word *
 
 ---
 
-**Progress note:** printed p. 442 (PDF 462) done — Sūkta 177 Ṛk 4 Special Topics under way (hāriyojana, yajña, miyedha; continues p. 443). Next: printed p. 443 (PDF 463). Open flags: many Ṛg/Ni./Brā. refs [?]; review/doubts_v13.json.
+### Printed p. 443  (PDF 463)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; page 443.)*
+
+**Special Topics (continued)** — by this sentence, *yajña* is "animal" and the animal is *yajña*: the identity (*tādātmya*) of the two words is shown and explained. On that same basis, in the ṛk at hand also *medha* can be taken as *paśu*. "This is your animal" — so Indra is addressed.
+
+***śakra — sarvakāryeṣu samarthaḥ indraḥ*** — "Indra, capable in all tasks": the epithet indicates Indra's capacity. In the Ṛk-saṃhitā this epithet is used also of other deities; but here it is a unique epithet, describing Indra's exceeding power.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***devayāḥ*** — root *yā prāpaṇe*; suffix *kvip*; nominative singular; the *kṛdutta* final member keeps its natural accent.
+- ***miyedhaḥ*** — from *medhaḥ*, with a Vedic change of letters (*varṇavikāra*) in the form.
+- ***imā*** — by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) the elision of *śi* in the neuter plural.
+- ***stīrṇam*** — root *stṛñ ācchādane*; suffix *kta* in the passive; by "*ṛta iddhātoḥ*" (Pā. Sū. 7-1-100 [?]) *i* for the root vowel, with *r* following; by "*hali ca*" lengthening; by "*radābhyāṃ niṣṭhāto naḥ*" (Pā. Sū. 8-2-42 [?]) *n* for the *t* of the *kta* suffix; by *raṣābhyāṃ no ṇaḥ* (sūtra named only) the *ṇ*; by the suffix accent the final syllable is *udātta*.
+- ***piba*** — root *pā pāne*; *loṭ*, second person singular; since it is in *pādādi* position no *nighāta*; *śap* being *pit*, the root accent remains; by "*dvyaco 'tastiṅaḥ*" (Pā. Sū. 6-3-135 [?]) lengthening in the Saṃhitā.
+- ***niṣadya*** — root *ṣad viśaraṇagatyavasādaneṣu*; suffix *ktvā*; by "*samāse 'nañpūrve ktvo lyap*" (Pā. Sū. 7-1-37 [?]) *lyap* replaces it; being *pit* it is *anudātta*; by "*upasargāt sunoti…*" (Pā. Sū. 8-3-65 [?]) *ṣatva*; the *kṛdutta* final member keeps its natural accent.
+- ***muca*** — root *muñc mokṣaṇe*; *loṭ*, second person singular; by "*śe muceādīnām*" (Pā. Sū. 7-1-59 [?]) the *num* augment that would be required does not occur, being Vedic; as before, lengthening in the Saṃhitā by "*dvyaco 'tastiṅaḥ*". ‖ 4 ‖
+
+---
+
+### Printed p. 444  (PDF 464)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177"; page 444.)*
+
+**Sūkta 177, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> ओ षु सुष्टुत इन्द्र याह्यर्वाङुप ब्रह्माणि मान्यस्य कारोः ।
+> विद्याम वस्तोरवसा गृणन्तो विद्यामेषं वृजनं जीरदानुम् ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> ओ इति । सुऽस्तुतः । इन्द्र । याहि । अर्वाक् । उप । ब्रह्माणि । मान्यस्य । कारोः ।
+> विद्याम । वस्तोः । अवसा । गृणन्तः । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ५ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे इन्द्र सुष्टुतोऽस्माभिः सम्यक्स्तुतः सन्नर्वाङ् [?] अस्मदभिमुखमा याहि । आगच्छैव [?] । मा विलम्बय [?] । किमुद्दिश्य । मान्यस्य माननीयस्य कारोः स्तोतुः होतुः कर्तुर्यजमानस्य वा ब्रह्माणि मन्त्रानुपोपलक्ष्य । गृणन्तः स्तुवन्तोऽभिमतं शब्दयन्तो वा वयमवसा त्वद्रक्षणेन रक्षिताः सन्तो वस्तोः वस्तुं सुखेन संस्थातुमहनि वा सर्वेष्वहःस्वन्नादिकं विद्याम । लभेमहि । विद्यामेत्यादि व्याख्यातम् ॥
+
+*Gist:* Indra, well praised by us, is asked to come at once towards us for the mantras of the honoured sacrificer; protected by him, we shall get dwelling in comfort, food, strength and long life.
+
+**Pratipadārtha**
+
+(*he*) **Indra** — O Indra; **suṣṭutaḥ** — well praised (by us); **mānyasya** — of the honoured; **kāroḥ** — of the praiser, the priest, or of the sacrificer who performs the rite; **brahmāṇi** — the mantras; **upa** — having in view; **arvāk** — facing us; **o yāhi** — come right here; **gṛṇantaḥ** — we, who praise you or express what we desire; **avasā** — protected by your protection; **vastoḥ** — for dwelling in comfort, or on all days, **vidyāma** — may we obtain; **iṣam** — food; **vṛjanam** — strength; **jīradānum** — long life; **vidyāma** — may we obtain (by your favour).
+
+**Bhāvārtha**
+
+O Indra! Being well praised by us, come facing us, with the mantras of the praising, honoured sacrificer in view; and for us, protected by you, for dwelling in comfort, grant food, strength and long life.
+
+---
+
+**Progress note:** printed p. 444 (PDF 464) done — Sūkta 177 Ṛk 4 complete; Ṛk 5: Saṃhitā…Bhāvārtha written. Next: printed p. 445 (PDF 465): Ṛk 5 printed English, Special Topics, grammar, Sūkta 177 closing; then Sūkta 178. Open flags: refs [?]; review/doubts_v13.json.

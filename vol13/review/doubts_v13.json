@@ -4258,5 +4258,29 @@
   ],
   "note": "refs Ni 3-19, Rg 10-20-3 (printed; std would differ), 3-19-1, SB 11-2-3-6 small",
   "answer": ""
+ },
+ {
+  "pdf": 463,
+  "printed": 443,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small (7-1-100, 8-2-42, 6-3-135, 7-1-37, 8-3-65, 7-1-59)",
+  "answer": ""
+ },
+ {
+  "pdf": 464,
+  "printed": 444,
+  "crop": [
+   0.45,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya: 'sannarvaj', 'agacchaiva', 'ma vilambayu' garbled",
+  "answer": ""
  }
 ]
