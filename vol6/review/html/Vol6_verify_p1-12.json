@@ -1,0 +1,192 @@
+{
+"rows": [
+{
+"id": "3_3",
+"printed": 3,
+"pdf": 22,
+"file": "6-14",
+"ctx": "ya | girvaṇā devo bhavati gīrbhir enaṃ vanayanti | ni. 6-14 | iti yās",
+"tess": "ವ.೧.]",
+"prop": "6-14",
+"box": [
+654,
+545,
+107,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "3_4",
+"printed": 3,
+"pdf": 22,
+"file": "5-11",
+"ctx": "| śūṣaṃ sukhahetubhūtam | āṅgūṣaḥ stomaḥ āghoṣaḥ | ni. 5-11 | iti yās",
+"tess": "೧॥",
+"prop": "5-11",
+"box": [
+912,
+1159,
+71,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "3_13",
+"printed": 3,
+"pdf": 22,
+"file": "6-4-107",
+"ctx": "*m-/v-* ending by \"*lopaś cāsyānyatarasyām mvoḥ*\", Pā. 6-4-107); *śavasā",
+"tess": "೬೪.೧೦೭",
+"prop": "6-4-107",
+"box": [
+1078,
+2130,
+151,
+24
+],
+"region": false,
+"filled": false
+},
+{
+"id": "4_1",
+"printed": 4,
+"pdf": 23,
+"file": "1-4-18-3",
+"ctx": "a read \"*nabho 'ṅgiro manuṣāṃ vatyupasaṃkhyānam*\", Pā. 1-4-18-3, printed ",
+"tess": "೧-೪-೧೮೨೩",
+"prop": "1-4-18-3",
+"box": [
+1364,
+1050,
+189,
+27
+],
+"region": false,
+"filled": false
+},
+{
+"id": "4_2",
+"printed": 4,
+"pdf": 23,
+"file": "4-3-144",
+"ctx": "he line on p. 4 ends \"…*nityaṃ mayaṭam icchanti*\", Kā. 4-3-144 as printe",
+"tess": "೪-೩-೧೪೪",
+"prop": "4-3-144",
+"box": [
+1004,
+1600,
+164,
+25
+],
+"region": false,
+"filled": false
+},
+{
+"id": "5_1",
+"printed": 5,
+"pdf": 24,
+"file": "3-13",
+"ctx": "ūṣam* means happiness, or the causer of happiness (Ni. 3-13). - ***āṅ",
+"tess": "೩-೧೩).",
+"prop": "3-13",
+"box": [
+1498,
+2146,
+114,
+37
+],
+"region": false,
+"filled": false
+},
+{
+"id": "9_0",
+"printed": 9,
+"pdf": 28,
+"file": "3-3-118",
+"ctx": "यां घः प्रायेण**\" (*puṃsi saṃjñāyāṃ ghaḥ prāyeṇa*, Pā. 3-3-118); the *a*",
+"tess": "೩-೩-೧೧೮)",
+"prop": "3-3-118",
+"box": [
+625,
+713,
+185,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "9_1",
+"printed": 9,
+"pdf": 28,
+"file": "7-3-52",
+"ctx": "\"**चजोः कुः घिण्ण्यतोः**\" (*cajoḥ kuḥ ghiṇṇyatoḥ*, Pā. 7-3-52) the fina",
+"tess": "೭-೩-೫೨)",
+"prop": "7-3-52",
+"box": [
+1004,
+785,
+144,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "9_2",
+"printed": 9,
+"pdf": 28,
+"file": "6-2-49",
+"ctx": "wn accent, by \"**गतिरनन्तरः**\" (*gatir anantaraḥ*, Pā. 6-2-49). *(End o",
+"tess": "೬-೨-೪೯)",
+"prop": "6-2-49",
+"box": [
+1019,
+1169,
+148,
+44
+],
+"region": false,
+"filled": false
+},
+{
+"id": "11_0",
+"printed": 11,
+"pdf": 30,
+"file": "8-1-21",
+"ctx": " in the second case by \"*bahuvacanasya vasnasau*\" (Pā. 8-1-21); unaccen",
+"tess": "೮-೧-೨೧)",
+"prop": "8-1-21",
+"box": [
+592,
+2376,
+147,
+41
+],
+"region": false,
+"filled": false
+},
+{
+"id": "12_0",
+"printed": 12,
+"pdf": 31,
+"file": "7-1-59",
+"ctx": " augment from \"**शे मुचादीनाम्**\" (*śe mucādīnām*, Pā. 7-1-59) since *v",
+"tess": "೭-೧-೫೯)",
+"prop": "7-1-59",
+"box": [
+1355,
+1177,
+149,
+42
+],
+"region": false,
+"filled": false
+}
+],
+"unmatched": []
+}
