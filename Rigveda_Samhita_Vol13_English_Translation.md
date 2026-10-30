@@ -2662,4 +2662,38 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 118 (PDF 138) done — Sūkta 168 Ṛk 2: Saṃhitā to Special Topics in progress (continues on p. 119). Next: printed p. 119 (PDF 139). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 119  (PDF 139)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; the page continues the Special Topics of Ṛk 2.)*
+
+***dhūtayaḥ, iṣaṃ svaḥ abhijāyante*** — *kampanaśīlāḥ santi | annaṃ haviḥ-lakṣaṇam anna-sādhanaṃ sasyādikaṃ vā svargaṃ ca abhilakṣya prādurbhavanti*: the Marut-gods, being always of a moving (shaking) nature, set other things (trees and the like) in motion; and, for the production of the grain that is the means of the food in the form of the oblation, they themselves become eager in their work; and, for the sacrificers who offer oblations in the name of the gods, they engage in bringing about heaven and the other excellent states that begin with heaven. This is what is described.
+
+***apāṃ ūrmayo na*** — as the waves in the ocean are without number, so the number of the Marut-gods is endless; or, they are those who do endless benefits. This is what is said.
+
+***sahasriyāsaḥ vandyāsaḥ gāvo na*** — *sahasrasaṃmitāḥ bahukṣīrādi pradeśena stutyāḥ gāva iva*: being of countless number, not to be encompassed by counting; and, as cows, because they give much milk and the like, are benefactors to others and so become objects of praise, in the same way, since the action of the Marut-gods is of indirect benefit (*paropakāra*), the Marut-gods are described as worthy of praise. And
+
+***āsā ukṣaṇaḥ*** — *samīpā iva vṛṣṭyudakasya sektāraḥ*: the word *āsāt* [as read; the ṛk has *āsā*] is read among the names of "near" (Ni. 3-[?]). As the Marut-gods bestow rain-water directly upon the world, and as cows give milk and the like directly, it is said here by way of the relation of comparison (*upamānopameyabhāva*).
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *vavrāsaḥ* (*vavriḥ yeṣām asti*; affix *ac* by "*arśa ādibhyo'c*", Pā. Sū. 5-2-127 [?]; elision of the *i* by "*yasyeti ca*"; the augment *asuk* before *jas* by "*ājjaserasuk*", Pā. Sū. 7-1-50 [?]); *svajāḥ* (*svayameva jāyante*; affix *ḍa* by "*anyeṣvapi dṛśyate*", Pā. Sū. 3-2-101); *svatavasaḥ* (*svaṃ tavaḥ yeṣāṃ te*; a *bahuvrīhi*, the first member keeping its own accent by "*bahuvrīhau prakṛtyā pūrvapadam*", Pā. Sū. 6-2-1).
+
+### Printed p. 120  (PDF 140)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; the grammar notes continue.)*
+
+**Vyākaraṇa-prakriyā** *(continued; noted briefly)*: *abhijāyante* (root *janī prādurbhāve*; the Vedic present-sense *laṭ*, the vikaraṇa *śyan*, the substitute *jā* by "*jñājanorjā*", Pā. Sū. 7-3-79 [?]; no augment *āṭ*; accent by the rule on the verb (*tiṅ*) with the preverb *abhi* unaccented); *sahasriyāsaḥ* (*sahasreṇa tulyāḥ*; affix *gha* "*sahasreṇa saṃmitau ghaḥ*", Pā. Sū. 5-4-[?]; the substitute *iya* by the rule on *ayaneyīnīyaḥ…*, Pā. Sū. 7-1-2 [?]; *asuk* before *jas* as above); *apām* (genitive plural; the accent on the case-ending by "*ūḍidaṃpadādi…*", Pā. Sū. 6-1-171 [?]); *ūrmayaḥ* (root *ṛ gatau*; affix *mi* by an Uṇādi sūtra, "*arterūcca*", Uṇ. Sū. 4-[?]; *ū* substituted for the root vowel; *guṇa* and *ay* before *jas*); *vandyāsaḥ* (root *vadi abhivādanastutyoḥ*; affix *ṇyat* [as read], with the accent by "*īḍavandavṛśaṃsaduhāṃ ṇyataḥ*", Pā. Sū. 6-1-[?]; *asuk* before *jas*); *ukṣaṇaḥ* (*ukṣan*, formed with the affix *kasi* by Uṇādi, as an irregular form (*nipātita*); no lengthening of the penultimate vowel before *jas* by "*ṣapūrvasya nigame*", Pā. Sū. 6-4-9 [?]). ‖ 2 ‖
+
+*(ornamental rule)*
+
+**॥ संहितापाठः ॥**
+
+> सोमासो न ये सुताः तृप्ताःशवो [?] हृत्सु पीतासो दुवसो नासते ।
+> एषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ॥ ३ ॥
+
+> *somāso na ye sutāḥ tṛptāḥśavo [?] hṛtsu pītāso duvaso nāsate |*
+> *eṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe ‖ 3 ‖*
+
+*(Ṛk 3 begins; the Saṃhitā as printed: "सोमासो न ये सुतास्तृप्ांशवो…" — the word after *sutāḥ* is read doubtfully; see the doubts log.)*
+
+---
+
+**Progress note:** printed p. 120 (PDF 140) done — Sūkta 168 Ṛk 2 complete; Ṛk 3 Saṃhitā written (word 'tṛpt…aṃśavo' [?]). Next: printed p. 121 (PDF 141): Pada, bhāṣya of Ṛk 3. Open flags: small-type numerals [?]; review/doubts_v13.json.
