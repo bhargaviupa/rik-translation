@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 698 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694).
-Next page: p. 699 (old scan Rig_Vol5.pdf PDF 715).
+Done through: p. 699 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694).
+Next page: p. 700 (PDF 716, better scan).
 Open items:
+- p. 699 (old scan): Āś. Gṛ. Sū. 4-4-2 [?] (last digit unsure); Av. 14-1-45 added; last ref printed '(೧೮-೪-೩೧)' without 'ಅ. ವೇ.'.
 - SCAN GAP: the better scan lacks printed pp. 698-699 (its PDF 714-715 repeat pp. 694-695; PDF 716 = p. 700, offset +16 resumes). pp. 698-699 were read from the old scan Rig_Vol5.pdf PDF 714-715 (pdftoppm crops); build_verify check-page crops for 698-699 will show the wrong page.
 - p. 697: last ref printed across a line break '(೧೦-೮೭-' / '೩-೬ ಇತ್ಯಾದಿ)', written 10-87-3-6 [?]; bold-looking first glyph in (೭-೧೦೪-೮) and Av. (೭-೭೬-೪) taken as ೭ (sūkta range); 10-86-16, 17 (೬ hook).
 - p. 696: 'Hā. Gṛ. Sū. ?' printed (ಮಾ. ಗೃ. ಸೂ. ೧-೧೦) = Mā. Gṛ. Sū. 1-10 (label corrected); last Av. paren (೮-೬; …) continues on p. 697.
