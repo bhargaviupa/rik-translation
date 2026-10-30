@@ -1,0 +1,101 @@
+[
+ {
+  "page": 598,
+  "y0": 0.82,
+  "y1": 0.94,
+  "kind": "numeral",
+  "file": "(8-26-21 and ?)",
+  "ctx": "son-in-law of Tvaṣṭṛ (8-26-21 and ?)",
+  "note": "second ref not located (OCR missed it; end of page); read and give the number after \"and\""
+ },
+ {
+  "page": 608,
+  "y0": 0.25,
+  "y1": 0.33,
+  "kind": "numeral",
+  "file": "(10-91-4 and ?)",
+  "ctx": "rays of Uṣas, of Sūrya or of lightning (10-91-4 and ?)",
+  "note": "not located with certainty; a nearby print reads (10-45-5? and 12): check first ref and the number after \"and\""
+ },
+ {
+  "page": 603,
+  "y0": 0.31,
+  "y1": 0.36,
+  "kind": "numeral",
+  "file": "[2-47-1 and 2 [?]]",
+  "ctx": "produced intoxication in him [2-47-1 and 2 [?]]",
+  "note": "middle digits 4/7 and last number unsure (file had only \"[2 and ?]\")"
+ },
+ {
+  "page": 604,
+  "y0": 0.74,
+  "y1": 0.8,
+  "kind": "numeral",
+  "file": "[6-61-3 and 7 [?]]",
+  "ctx": "slayer of Vṛtra [6-61-3 and 7 [?]]",
+  "note": "the number after \"and\" printed at the next line start; 7 or 2"
+ },
+ {
+  "page": 604,
+  "y0": 0.76,
+  "y1": 0.82,
+  "kind": "numeral",
+  "file": "[7-95-4 and 5; 2-30-8]",
+  "ctx": "destroys their enemies [7-95-4 and 5; 2-30-8]",
+  "note": "file had \"[7 and ?; 7-95; 2-30-8]\"; first ref read on one line, \"and 5\" at next line start; later refs of that paren may follow"
+ },
+ {
+  "page": 610,
+  "y0": 0.66,
+  "y1": 0.72,
+  "kind": "numeral",
+  "file": "(10-4-1 and 2 [?])",
+  "ctx": "seen together (10-4-1 and 2 [?])",
+  "note": "last glyph 2 or 3"
+ },
+ {
+  "page": 611,
+  "y0": 0.37,
+  "y1": 0.42,
+  "kind": "numeral",
+  "file": "(3-1-13 and 13 [?])",
+  "ctx": "embryo of water (3-1-13 and 13 [?])",
+  "note": "number after \"and\" printed at next line start, read 13"
+ },
+ {
+  "page": 620,
+  "y0": 0.77,
+  "y1": 0.84,
+  "kind": "numeral",
+  "file": "a protector (7-7-4 [?])",
+  "ctx": "giver of immortality (7-4-6), a protector (7-7-4 [?])",
+  "note": "7 or 2 in each glyph (2-2-4 possible)"
+ },
+ {
+  "page": 622,
+  "y0": 0.46,
+  "y1": 0.53,
+  "kind": "numeral",
+  "file": "[2-7, 7-97-7; 7-97-7]",
+  "ctx": "radiant [2-7, 7-97-7; 7-97-7]",
+  "note": "print seems \"[2.62?-7, 7-97-7)\"; first ref not read (file has the incomplete 2-7)"
+ },
+ {
+  "page": 625,
+  "y0": 0.73,
+  "y1": 0.81,
+  "kind": "numeral",
+  "file": "[2-24-3 [?]]",
+  "ctx": "most divinity among the deities [2-24-3 [?]]",
+  "note": "last digit 3 or 5 (file had 2-24-11)"
+ },
+ {
+  "page": 598,
+  "y0": 0.4,
+  "y1": 0.47,
+  "kind": "numeral",
+  "file": "(1-64-8 and 8)",
+  "ctx": "anger comes upon them like serpents (1-64-8 and 8)",
+  "note": "last glyph looks 9 (ε-like) not 8"
+ }
+]
