@@ -5,7 +5,7 @@ Priority: **tokens**. Only the translation work; no audits, no sample tests, no 
 ## Set-up (cheap; once)
 1. **Page offset by sampling (about 6–8 pages, spread over the volume), not by reading every page.** View header-strip contact sheets of ~every 25th page: `python3 vol14/tools/numsheets.py FIRST LAST PREFIX` makes a sheet of header number strips (75 pages per sheet by default; build a sheet over a list/step by giving a small range, or a whole 75-page block when you need it). Offsets that agree at the sampled pages = no missing/duplicate pages in between; if the offset changes between two samples, bisect there. Front matter is numbered in roman (record its offset). Set OFFSET in vol14/tools/cfg.py; write the findings in vol14/vol14_state.md.
 2. **Range only:** view the title page once (~100 dpi) for the Sūkta range; if a digit is doubtful, confirm it against the ordinal word on the title page or the last contents heading. Do NOT build lists of sūkta start pages or Ṛk counts up front: each sūkta opens with a heading block (Sūkta number, Ṛk count, ṛṣi, devatā, chandas) which you read when you reach it (a short crop; `python3 vol14/tools/findhead.py PDFPAGE` can locate it, locating only). No per-sūkta page counting.
-3. Check by eye whether any scan page is upside down before building any tool for it (Vol 13's prompt claimed some were; none were).
+3. (Nothing else is needed before translating: no orientation checks, no inventories, no audits.)
 
 ## Work (per sūkta)
 - View each page **once** at ~100–120 dpi (`python3 vol14/tools/view.py PDFPAGE OUT.png 110` — whole-page fractions; crops: `view.py PDFPAGE OUT.png DPI y0 y1 x0 x1`); **zoom only a crop that is in doubt** (small-type numerals, garbled letters); several doubtful lines can be stacked into one image: `python3 vol14/tools/stack.py OUT.png 300 PAGE:y0:y1 PAGE:y0:y1 …`.
@@ -21,7 +21,7 @@ Priority: **tokens**. Only the translation work; no audits, no sample tests, no 
 ## Lessons from the Vol 13 set-up (apply)
 1. No whole-volume Tesseract scans (20+ min, dropped twice); contact sheets of header strips instead.
 2. Never crop a header by a fixed fraction of the page; `numsheets.py` finds the header row from the ink profile. Crops everywhere are whole-page fractions.
-3. A prompt's premises are claims to check by eye (e.g. "pages upside down").
+3. A prompt's premises are claims to check by eye before building tools for them.
 4. Confirm range numerals from the contents' word forms.
 5. Front matter is numbered separately (roman); the contents title page may be unnumbered but counted.
 6. Git/LFS: if `git checkout -b … origin/main` fails with "should have been a pointer", use `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull` for the scans needed.
