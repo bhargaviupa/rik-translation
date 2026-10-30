@@ -15399,4 +15399,45 @@ O dearest Aśvins, the supreme holders of wealth and protectors of all people, d
 
 ---
 
-**Progress note:** printed p. 552 (PDF 572) done — Sūkta 181 heading (9 ṛks, Varga 25–26) and Ṛk 1 through printed English, Special Topics begun (adhvaryantā; continues p. 553). Next: printed p. 553 (PDF 573). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 553  (PDF 573)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 553.)*
+
+… told earlier. Besides, at the very time of the *prātaḥsavana* they appear together with the goddess Uṣas and help the performance of the sacrifice; this too has been told earlier. For all these reasons the epithet *adhvaryantā* is apt for them.
+
+This epithet is used only of the Aśvin deities, and only in the ṛk at hand. Agni, although he is the presiding deity (*adhyakṣa*) of sacrifices and the principal one in carrying out all sacrifices, does not have this epithet. Therefore it is shown by this epithet that the Aśvin deities have the principal part in the rite of sacrifice and its performance. Praising this very quality of theirs, the Aitareya Brāhmaṇa describes it in this way:
+
+> यज्ञो वै देवेभ्य उदक्रामन्नाहं वोऽन्नं भविष्यामीति नेति देवा अब्रुवन्नन्नमेव नो भविष्यसीति तं देवा विमेथिरे [?] सह्यभ्यो [?] विप्रतो ने [?] प्रबभूव ते होचुर्देवा न वै अत्तं विप्रतोऽलं भविष्यति हन्तेमं यज्ञं सम्भराम इति तथेति तं सञ्जभ्रुः । तं सम्भृत्योचुरश्विनाविमं भिषज्यतमित्यश्विनौ वै देवानां भिषजावश्विनावध्वर्यू तस्मादध्वर्यू घर्मं सम्भरतः ॥
+
+> *yajño vai devebhya udakrāmannāhaṃ vo 'nnaṃ bhaviṣyāmīti neti devā abruvannannameva no bhaviṣyasīti taṃ devā vimethire [?] sahyabhyo [?] viprato ne [?] prababhūva te hocurdevā na vai attaṃ viprato 'laṃ bhaviṣyati hantemaṃ yajñaṃ sambharāma iti tatheti taṃ sañjabhruḥ | taṃ sambhṛtyocuraśvināvimaṃ bhiṣajyatamityaśvinau vai devānāṃ bhiṣajāvaśvināvadhvaryū tasmādadhvaryū gharmaṃ sambharataḥ ‖*
+
+(Ai. Brā. 4-1 [?]; as read, doubtful in places [?]) — once the sacrifice left the deities, saying, "I shall not be your food." Then the deities said, "You shall indeed be our food", and with persistence they churned it. It broke up and was spoiled and was not enough. Then they gathered it together and approached the Aśvin deities, begging them to repair it and make it whole again. Because the Aśvins, the divine physicians, completed the injured sacrifice, they are praised as *adhvaryu*s ("priests who carry through the sacrifice").
+
+***vasudhitī*** — the word *dhiti*, formed from the root *dhā* in the sense of "holding", is used in forms such as *nemadhiti*, *mitradhiti*, *vanadhiti* and the like; it gives the sense "one who holds Mitra", "one who holds wealth". In some places, for example:
+
+> इन्द्रो अस्मे सुमना अस्तु विश्वहा राजा सोमः सुविते [?] स्यार्द्येतु नः ।
+> यथायथा मित्रधितानि सन्दधुरा सर्वतातिमदितिं वृणीमहे ॥
+
+> *indro asme sumanā astu viśvahā rājā somaḥ suvite [?] syārdyetu naḥ |*
+> *yathāyathā mitradhitāni sandadhurā sarvatātimaditiṃ vṛṇīmahe ‖*
+
+(Ṛ. Saṃ. 10-100-4 [?]) — in such places *mitradhitāni* is explained as *mitranihitāni* ("things placed by Mitra"); the purport is just as stated above. In the ṛk at hand Sāyaṇa has explained it: "*vasunaḥ dhanasya dhātārau vastravya* [?] *karmāṇau*". *Vasu* may mean "wealth" or "dwelling"; it gives the meaning "those who hold wealth, or those who give houses (*vāsagṛha*) as gifts".
+
+### Printed p. 554  (PDF 574)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 554.)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***preṣṭhau*** — *atiśayena priyau preṣṭhau*; by "*atiśāyane tamabiṣṭhanau*" (Pā. Sū. 5-3-55 [?]) the suffix *iṣṭhan*; by "*priyasthira…*" (Pā. Sū. 6-4-157 [?]) the substitute *pra*; by "*prakṛtyaikāc*" (Pā. Sū. 6-4-163 [?]) the natural form (*prakṛtibhāva*) occurs, so *guṇa*; since the suffix has *n* as marker, the *ādyudātta* accent.
+- ***iṣām*** — by "*sāvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending takes the *udātta* accent; the genitive is in the sense of the object.
+- ***adhvaryantā*** — *adhvaram ātmanaḥ icchantau*; by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) the suffix *kyac* after the word *adhvara*; by "*kavyādhvarapṛtanasyarci lopaḥ*" (Pā. Sū. 7-4-39 [?]) elision of the last letter of the earlier part, when *kyac* follows; after *kyac*, *laṭ* comes and *śatṛ* is substituted for it; the dual following, by "*supāṃ sulak…*" *ā* is substituted; the *lasārvadhātuka* being *anudātta*, the *kyac* accent remains.
+- ***udninīthaḥ*** — root *nīñ prāpaṇe*; *laṭ*, second person dual, *thas*; by "*bahulaṃ chandasi*" *ślu* for *śap*; reduplication and so on; because of *yad*-connection no *nighāta*; by the suffix accent the final syllable is *udātta*; by "*tiṅ citodāttavati*" (Pā. Sū. 6-1-[?]) the *gati* (*ut*) is *anudātta*.
+- ***akṛta*** — root *ḍukṛñ karaṇe*; Vedic *laṅ* in the present sense; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; the augment *aṭ* for the stem; *tiṅ*-final *nighāta* accent.
+- ***praśastim*** — root *śaṃsu stutau*; by "*striyāṃ ktin*" the suffix *ktin*; by "*anuditāṃ hala…*" elision of the penultimate nasal; by "*tādau ca niti kṛtyatau*" (Pā. Sū. 6-2-50 [?]) the *gati* (*pra*) takes the *udātta* accent.
+- ***vasudhitī*** — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; by "*striyāṃ ktin*", through the statement "*bahulam*", the suffix *ktin* in the agent; by "*sudhitavasudhitenemanemadhitaṃ…*" (Pā. Sū. 7-4-[?], as read [?]) *i* for the root; dual.
+- ***avitārā*** — by "*supāṃ sulak…*" *ā* is substituted for the nominative dual. ‖ 1 ‖
+
+---
+
+**Progress note:** printed p. 554 (PDF 574) done — Sūkta 181 Ṛk 1 complete. Next: printed p. 555 (PDF 575), Ṛk 2 Saṃhitā. Open flags: refs [?]; AiBr quote doubtful; review/doubts_v13.json.
