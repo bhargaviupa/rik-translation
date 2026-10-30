@@ -10,7 +10,7 @@ EN=os.path.join(ROOT,'Rigveda_Samhita_Vol6_English_Translation.md')
 REVIEW=os.path.join(VOL,'review')
 WORK=os.environ.get('V6WORK','/tmp/v6num/')
 os.makedirs(WORK,exist_ok=True)
-OFFSET=18   # old scan: printed = PDF - 18 (better scan: to be checked)
+OFFSET=19   # better scan: printed = PDF - 19 (PDF 20 = p. 1, PDF 21 = p. 2); old scan Rig_Vol6.pdf: PDF - 18
 def _parts():
     fs=sorted(glob.glob(os.path.join(VOL,'scans','*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
     out=[];g=1
