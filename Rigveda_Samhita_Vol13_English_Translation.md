@@ -13286,4 +13286,73 @@ In this ṛk Agastya, giving his wife Lopāmudrā once more assurance, says that
 
 ---
 
-**Progress note:** printed p. 484 (PDF 504) done — Sūkta 179 Ṛk 4 Special Topics (Mahābhārata Lopāmudrā story). Next: printed p. 485 (PDF 505): Ṛk 4 grammar, then Ṛk 5 (Bṛhatī). Open flags: refs [?]; MBh verses as read [?]; review/doubts_v13.json.
+### Printed p. 485  (PDF 505)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 485.)*
+
+**Special Topics (continued)**
+
+***nadasya — nadanasya japaśabdayituḥ japādhyayanakartuḥ*** — one who sounds the recitation (*japa*), who studies and mutters it; Sāyaṇa explains it as "the praiser" (*stutikartā*), the one who utters words of *japa*, *stotra* and the like. The Nirukta-writers, giving an explanation of this ṛk, have given the derivation of the word as follows:
+
+> "ऋषिर्नदो भवति नदतेः स्तुतिकर्मणः"
+
+> *"ṛṣirnado bhavati nadateḥ stutikarmaṇaḥ"*
+
+(Ni. 5-2 [?]) — the word *nada*, formed from the root *nad* ("to praise"), means "the ṛṣi who is the praiser". The word is used in many places as a synonym of *ṛṣi*. For example:
+
+> रसद्गन्धर्वीरस्या च योषणा नदस्य नादे परि पातु नो मनः ।
+
+> *rasadgandharvīrasyā ca yoṣaṇā nadasya nāde pari pātu no manaḥ |*
+
+(Ṛ. Saṃ. 10-11-2 [?]) — there are in this the two words *nadasya* and *nāde*; of these, *nadasya* is explained as "of the praiser", and *nāde* as "in the sound of praise". But the meaning "praiser" is not required in every place where the word occurs. For example:
+
+> उक्षन्ते अश्वा अत्या इवाजिषु नदस्य कर्णैस्तुरयन्त आशुभिः ।
+
+> *ukṣante aśvā atyā ivājiṣu nadasya karṇaisturayanta āśubhiḥ |*
+
+(Ṛ. Saṃ. 2-34-3 [?]) — here *nadasya* is explained as *śabdavataḥ meghasya* ("of the sounding cloud").
+
+***ni riṇāti*** — the word *riṇāti* is read among the names of motion (*gati*). Here it is explained as "let her approach". This meaning follows the order of the words of the ṛk. For, as Sāyaṇa says, if this sentence is by Agastya, then "she approaches"; or, if, according to the Nirukta-writers' view, it is Lopāmudrā's sentence, then it means "it burns". In general this word is used mostly in the meanings "to dry up, to burn". For example:
+
+> पुरूणि दस्मो नि रिणाति जम्भैराद्रोचते वन आ विभावा ।
+
+> *purūṇi dasmo ni riṇāti jambhairādrocate vana ā vibhāvā |*
+
+(Ṛ. Saṃ. 1-148-4 [?]) — just as in such ṛks it gives the sense "to burn", so in the ṛk at hand, too, since there is no room for fulfilment of desire in the love of a self-restrained ascetic, to explain it as "it burns the body" would not be wrong. The words *itaḥ* and *amutaḥ* likewise vary in meaning.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***nadasya*** — root *nad avyakte śabde*; by "*nandigrahapacādibhyo…*" (Pā. Sū. 3-1-134 [?]) the suffix *ac*; by "*citaḥ*" the final syllable is *udātta*; the genitive is in the sense of the object (*karmārthe ṣaṣṭhī*).
+
+### Printed p. 486  (PDF 506)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 486.)*
+
+- ***rudhataḥ*** — root *rudhir āvaraṇe*; *śatṛ* substituted for *laṭ*; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; genitive singular; by "*śatur anumo nadyajādī*" (Pā. Sū. 6-1-173 [?]) the case-ending that follows the *num*-less *śatṛ* takes the *udātta* accent.
+- ***agan*** — root *gamḷ gatau*; *laṅ*, third person singular, *tip*; by "*itaś ca*" elision of the *i*; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; by "*hal ṅyābbhyo dīrghāt…*" elision of the *tip*; by "*mo no dhātoḥ*" (Pā. Sū. 8-2-64 [?], as read) *n* in place of the final *m* of the root; *tiṅ*-final *nighāta* accent.
+- ***ājātaḥ*** — by "*gatir anantaraḥ*" (Pā. Sū. 6-2-49 [?]), since it stands in a *krānta*-word, the *gati* (*ā*) takes the *udātta* accent.
+- ***riṇāti*** — root *rī gatireṣaṇayoḥ*, *kryādi* class; *laṭ*, third person singular; by "*pvādīnāṃ hrasvaḥ*" (Pā. Sū. 7-3-80 [?]) shortening of the root vowel; *tiṅ*-final *nighāta* accent.
+- ***adhīrā*** — a *naña*-*tatpuruṣa* compound; by "*tatpuruṣe tulyārtha…*" (Pā. Sū. 6-2-2 [?]) the fore-member (an indeclinable) keeps its natural accent.
+- ***dhayati*** — root *dhet pāne*; *laṭ*, third person singular, *tip* following; *śap* as the *vikaraṇa*; taking that as the cause, *e* becomes *ay*; *tiṅ*-final *nighāta* accent.
+- ***śvasantam*** — root *śvas prāṇane*; *śatṛ* substituted for *laṭ*; elision of *śap*; by the suffix accent the first syllable is *udātta*; accusative singular. ‖ 4 ‖
+
+---
+
+**Sūkta 179, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> इमं नु सोममन्तितो हृत्सु पीतमुप ब्रुवे ।
+> यत्सीमागश्चकृमा तत्सु मृळतु पुलुकामो हि मर्त्यः ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> इमम् । नु । सोमम् । अन्तितः । हृत्ऽसु । पीतम् । उप । ब्रुवे ।
+> यत् । सीम् । आगः । चकृम । तत् । सु । मृळतु । पुलुऽकामः । हि । मर्त्यः ॥ ५ ॥
+
+> *imam | nu | somam | antitaḥ | hṛt 'su | pītam | upa | bruve |*
+> *yat | sīm | āgaḥ | cakṛma | tat | su | mṛḷatu | pulu 'kāmaḥ | hi | martyaḥ ‖ 5 ‖*
+
+---
+
+**Progress note:** printed p. 486 (PDF 506) done — Sūkta 179 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada written. Next: printed p. 487 (PDF 507), Ṛk 5 bhāṣya. Open flags: refs [?]; review/doubts_v13.json.
