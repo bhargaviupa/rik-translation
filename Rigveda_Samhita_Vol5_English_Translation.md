@@ -11281,19 +11281,19 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 ### Printed p. 693 (PDF 709)
 
-"…contexts (1-?-?; 4-?-?; 8-?-?) it is used together with *phalaga* as a refuge for water; in the Nirukta (Nir. 1-?) *vala* too is one of the names of cloud. Indra drove all the cows out and opened the door of Vala (2-?-?); or he opened the hole of Vala that was filled with cows (1-?-?). In the Pañcaviṃśa Brāhmaṇa it is said that the cave of the Asuras (*vala*) was broken by a stone (Paṃ. Brā. 14-?-?). In some sentences this word may indicate the person Vala or a cave and the like (1-?-?; 2-?-?; 3-?-?). In *Valaṃruja* ('breaker of Vala'), the epithet of Indra along with *Vṛtrakhāda*, the Rākṣasa Vala must be intended (3-?-?; compare 3-?-?, ?). The change of person into 'cave' is clear in 3-?-?. In the name 'Vala himself is the cow-pen; Indra strikes him', this Vala opens the door of the pen. By not using, for the killing of Vala, the roots *han*, *bhid*, *dṛ* or *ruj*, the personification is incomplete. *Valabhit* ('splitter of Vala') is an epithet of Indra; it is seen especially in the Purāṇas. Here Indra kills both Vala and Vṛtra, who are brothers (*Vala-Vṛtra-hā*)."
+"…contexts (1-62-4; 4-50-5; 8-32-25) it is used together with *phalaga* as a refuge for water; in the Nirukta (Nir. 1-10) *vala* too is one of the names of cloud. Indra drove all the cows out and opened the door of Vala (2-14-3); or he opened the hole of Vala that was filled with cows (1-11-5). In the Pañcaviṃśa Brāhmaṇa it is said that the cave of the Asuras (*vala*) was broken by a stone (Paṃ. Brā. 19-7). In some sentences this word may indicate the person Vala or a cave and the like (1-52-5; 2-12-3; 3-34-10). In *Valaṃruja* ('breaker of Vala'), the epithet of Indra along with *Vṛtrakhāda*, the Rākṣasa Vala must be intended (3-45-2; compare 2-12-3). The change of person into 'cave' is clear in 3-30-10. In the name 'Vala himself is the cow-pen; Indra strikes him', this Vala opens the door of the pen. By not using, for the killing of Vala, the roots *han*, *bhid*, *dṛ* or *ruj*, the personification is incomplete. *Valabhit* ('splitter of Vala') is an epithet of Indra; it is seen especially in the Purāṇas. Here Indra kills both Vala and Vṛtra, who are brothers (*Vala-Vṛtra-hā*)."
 
-**Arbuda.** "It occurs seven times; always as an enemy of Indra. He is deceitful; Indra drove his cows out (8-?-?). Indra threw him down (2-?-?, 3-?-?; compare 8-?-?), crushed him with his foot (1-?-?), or cut off his head (10-?-?). Two or three times he is mentioned along with Vṛtra (Ahi), and is by nature of his race."
+**Arbuda.** "It occurs seven times; always as an enemy of Indra. He is deceitful; Indra drove his cows out (8-3-19). Indra threw him down (2-11-20, 2-14-4; compare 8-32-3), crushed him with his foot (1-51-6), or cut off his head (10-67-12). Two or three times he is mentioned along with Vṛtra (Ahi), and is by nature of his race."
 
-**Viśvarūpa.** "Son of Tvaṣṭṛ, with three heads; Indra and Trita killed him and brought his cows under their control (10-?-?, ?). In two or three other sentences too he is indicated only by the word *Tvāṣṭra* ('belonging to Tvaṣṭṛ'). Tvāṣṭra was rich in cows, horses and so on (10-?-?); Indra seized him and handed him to Trita (2-?-?). In the Taittirīya Saṃhitā (Tai. Saṃ. 2-?-?-?), Viśvarūpa, though connected with the Asuras, is the *purohita* of the deities. In the Mahābhārata, the notion is that the three-headed Tvāṣṭra and Vṛtra are one and the same."
+**Viśvarūpa.** "Son of Tvaṣṭṛ, with three heads; Indra and Trita killed him and brought his cows under their control (10-8-8, 9). In two or three other sentences too he is indicated only by the word *Tvāṣṭra* ('belonging to Tvaṣṭṛ'). Tvāṣṭra was rich in cows, horses and so on (10-76-3); Indra seized him and handed him to Trita (2-11-19). In the Taittirīya Saṃhitā (Tai. Saṃ. 2-5-1-1), Viśvarūpa, though connected with the Asuras, is the *purohita* of the deities. In the Mahābhārata, the notion is that the three-headed Tvāṣṭra and Vṛtra are one and the same."
 
 **Svarbhānu.** "He too is a Rākṣasa by nature. He has occurred four times in one sūkta (5-40). He covers Sūrya with darkness. Defeating his deceits, Indra fought; and Atri placed Sūrya's eye again in the sphere of the air. His story is told in many places in the Brāhmaṇas. In the Purāṇas, Rāhu is in the place of Svarbhānu. The meaning of this word is 'one who obstructs the light of the sun'."
 
-**Uraṇa.** "This one, with ninety-nine arms, was killed by Indra (2-?-?)."
+**Uraṇa.** "This one, with ninety-nine arms, was killed by Indra (2-14-4)."
 
 ### The Dāsas — Dasyus
 
-**Śuṣṇa.** "His name occurs about forty times. He is Kutsa's chief enemy. Together with Kutsa, or for Kutsa's sake, Indra uproots Śuṣṇa (4-?-?,…"
+**Śuṣṇa.** "His name occurs about forty times. He is Kutsa's chief enemy. Together with Kutsa, or for Kutsa's sake, Indra uproots Śuṣṇa (4-16-12,…"
 
 ---
 
