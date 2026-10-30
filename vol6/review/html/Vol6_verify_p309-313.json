@@ -1,0 +1,124 @@
+{
+"rows": [
+{
+"id": "310_2",
+"printed": 310,
+"pdf": 329,
+"file": "3-9",
+"ctx": "nce it is read among the twenty-two names of food (Ni. 3-9), it mean",
+"tess": "೩",
+"prop": "3-9",
+"box": [
+1547,
+2356,
+20,
+21
+],
+"region": false,
+"filled": false
+},
+{
+"id": "311_1",
+"printed": 311,
+"pdf": 330,
+"file": "6-17",
+"ctx": "sthānayoḥ parivṛḍho madhyame ca sthāne uttame ca* (Ni. 6-17) — \"grown",
+"tess": "೬-೧೭),",
+"prop": "6-17",
+"box": [
+441,
+896,
+108,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "311_2",
+"printed": 311,
+"pdf": 330,
+"file": "5-80-4",
+"ctx": "havati dvibarhā āviṣkṛṇvānā tanvaṃ purastāt* (Ṛk. Saṃ. 5-80-4)    > महा",
+"tess": "೫-೮೦-೪)",
+"prop": "5-80-4",
+"box": [
+1575,
+1177,
+147,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "311_3",
+"printed": 311,
+"pdf": 330,
+"file": "6-19-1",
+"ctx": "d ā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ* (Ṛk. Saṃ. 6-19-1)    In th",
+"tess": "೬-೧೯-೧)",
+"prop": "6-19-1",
+"box": [
+1573,
+1331,
+147,
+41
+],
+"region": false,
+"filled": false
+},
+{
+"id": "311_10",
+"printed": 311,
+"pdf": 330,
+"file": "9-100-2",
+"ctx": "4-2; 9-4-7?; 9-40-6; 10-116-4] and other places. In Ṛk 9-100-2, *dvibarh",
+"tess": "೯-೧೦೦-೨ನೇ",
+"prop": "9-100-2",
+"box": [
+372,
+1562,
+174,
+35
+],
+"region": false,
+"filled": false
+},
+{
+"id": "311_11",
+"printed": 311,
+"pdf": 330,
+"file": "3-9",
+"ctx": "nce it is read among the twenty-two names of food (Ni. 3-9), *vayaḥ*",
+"tess": "(ನಿ.೩-೯)",
+"prop": "3-9",
+"box": [
+1723,
+1789,
+128,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "312_1",
+"printed": 312,
+"pdf": 331,
+"file": "1-27-7",
+"ctx": "ājeṣu yaṃ junāḥ | sa yantā śaśvatīr iṣaḥ ||* (Ṛk. Saṃ. 1-27-7)    In th",
+"tess": "೧-೨೭-೭)",
+"prop": "1-27-7",
+"box": [
+1884,
+1015,
+154,
+41
+],
+"region": false,
+"filled": false
+}
+],
+"unmatched": []
+}

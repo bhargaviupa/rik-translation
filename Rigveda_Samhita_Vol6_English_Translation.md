@@ -6246,15 +6246,17 @@ Words treated: *mahe* (*mahat*; before the fourth-case ending, loss of the *t* b
 
 ### Page 309 (PDF 327)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 16".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.6** *(printed Ṛk "6 ||")*
 
-> स्वे आ यस्तुभ्यं दम आ विभाति नमो वा दाशादुशतो अनु द्यून् ।
-> वर्धो अग्ने वयो अस्य द्विबर्हा यासद्राया सरथं यं जुनासि ॥ ६ ॥
+*(Accents as printed.)*
 
-*sve ā yas tubhyaṃ dama ā vibhāti namo vā dāśād uśato anu dyūn |
-vardho agne vayo asya dvibarhā yāsad rāyā sarathaṃ yaṃ junāsi ||6||*
+> स्वे आ यस्तुभ्यं॒ दम॒ आ वि॒भाति॒ नमो॑ वा॒ दाशा॑दुश॒तो अनु॒ द्यून् ।
+> वर्धो॑ अग्ने॒ वयो॑ अस्य द्वि॒बर्हा॒ यास॑द्रा॒या स॒रथं॒ यं जु॒नासि॑ ॥ ६ ॥
+
+*své ā́ yás túbhyaṃ dáma ā́ vibhā́ti námo vā dā́śād uśató ánu dyū́n |
+várdho agne váyo asya dvibárhā yā́sad rāyā́ saráthaṃ yáṃ junā́si ||6||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -6279,7 +6281,7 @@ vardho agne vayo asya dvibarhā yāsad rāyā sarathaṃ yaṃ junāsi ||6||*
 
 *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 12 Sū. 71".)*
 
-**Grammatical tail of the bhāṣya of Rik 71.6 (concluded; characterized, not transcribed):** *uśataḥ* (the *ṅīp*-less genitive of *śatṛ*, with acute on the ending by *śatur anumo…*; here the sense "of the one who desires"); the fourth case in *tubhyam* by the statement *kriyāgrahaṇaṃ kartavyam*, "since the goal-object stands in the *sampradāna*-relation"; *anu dyūn* (*dyu* with *anu*, the *karmapravacanīya*, so the second case); *vardhaḥ* (root *vṛdh*, *ṇic*; *loṭ*, with the Vedic *u* in place of the ending: *vardho*, then *vardhaya*; *śap*; the *ārdhadhātuka* sense of the *śap* and the loss of *ṇi* by *ṇeraniṭi*; accent: the *śap* being *pit*, anudātta, the accent is on the root; the *ū*-ending replaced by *u* and the *pragṛhya* by Pā. [1-1-11] [as read, ?]); *yāsat* (*yā prāpaṇe*; *sip* by the Vedic *bahulam leṭi*, *leṭ*; *aḍāgama*); *junāsi* (*ju* "to go"; Sautra root; *śap* when expected, *śnā* by *vyatyaya*). *(The tail is compressed; sūtra numerals [?].)*
+**Grammatical tail of the bhāṣya of Rik 71.6 (concluded; characterized, not transcribed):** *uśataḥ* (the *ṅīp*-less genitive of *śatṛ*, with acute on the ending by *śatur anumo…*; here the sense "of the one who desires"); the fourth case in *tubhyam* by the statement *kriyāgrahaṇaṃ kartavyam*, "since the goal-object stands in the *sampradāna*-relation"; *anu dyūn* (*dyu* with *anu*, the *karmapravacanīya*, so the second case); *vardhaḥ* (root *vṛdh*, *ṇic*; *loṭ*, with the Vedic *u* in place of the ending: *vardho*, then *vardhaya*; *śap*; the *ārdhadhātuka* sense of the *śap* and the loss of *ṇi* by *ṇeraniṭi*; accent: the *śap* being *pit*, anudātta, the accent is on the root; the *ū*-ending replaced by *u* and the *pragṛhya* by *uñaḥ*, Pā. [1-1-12?]); *yāsat* (*yā prāpaṇe*; *sip* by the Vedic *bahulam leṭi*, *leṭ*; *aḍāgama*); *junāsi* (*ju* "to go"; Sautra root; *śap* when expected, *śnā* by *vyatyaya*). *(The tail is compressed; sūtra numerals [?].)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
 
@@ -6295,29 +6297,29 @@ O Agni! The sacrificer who every day kindles you, the desirous, in his own house
 
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada; begun at the foot of p. 310)*
 
-- **नमः** — *andhaḥ*, *vājaḥ*, *payaḥ* [as read, ?] and so on — "since it is read among the twenty-two names of food (Ni. [2-7?]), it means food. Here the meaning is food in the form of the oblation." *(The page ends here; the rest of the Special Topics and the grammar page of Rik 71.6 follow on p. 311.)*
+- **नमः** — *andhaḥ*, *vājaḥ*, *payaḥ* and so on — "since it is read among the twenty-two names of food (Ni. 3-9), it means food. Here the meaning is food in the form of the oblation." *(The page ends here; the rest of the Special Topics and the grammar page of Rik 71.6 follow on p. 311.)*
 
 ---
 
 ### Page 311 (PDF 329)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 2 [as printed; for 1], Adhyāya 5, Varga 16".)*
 
 **Special Topics of Rik 71.6 (continued)**
 
-- **द्विबर्हाः** — *dvayoḥ sthānayoḥ parivṛḍho madhyame ca sthāne uttame ca* (Ni. [6-12?]) — "grown (in power) in two places, the middle and the highest: the meaning is one who is firm and large, having grown in the worlds such as earth and the atmosphere. This epithet shows the places and natures of the deities Indra, Rudra, Agni and Uṣas in the sūktas addressed to them. For example:
+- **द्विबर्हाः** — *dvayoḥ sthānayoḥ parivṛḍho madhyame ca sthāne uttame ca* (Ni. 6-17) — "grown (in power) in two places, the middle and the highest: the meaning is one who is firm and large, having grown in the worlds such as earth and the atmosphere. This epithet shows the places and natures of the deities Indra, Rudra, Agni and Uṣas in the sūktas addressed to them. For example:
 
   > एषा व्येनी भवति द्विबर्हा आविष्कृण्वाना तन्वं पुरस्तात् ।
-  > *eṣā vyenī bhavati dvibarhā āviṣkṛṇvānā tanvaṃ purastāt* (Ṛk. Saṃ. [3-61-4?], as read)
+  > *eṣā vyenī bhavati dvibarhā āviṣkṛṇvānā tanvaṃ purastāt* (Ṛk. Saṃ. 5-80-4)
 
   > महाँ इन्द्रो नृवदा चर्षणिप्रा उत द्विबर्हा अमिनः सहोभिः ।
-  > *mahāṃ indro nṛvad ā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ* (Ṛk. Saṃ. [6-19-1?])
+  > *mahāṃ indro nṛvad ā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ* (Ṛk. Saṃ. 6-19-1)
 
-  In these Ṛks the nature of the Dawn and of Indra is told. Likewise this epithet is used in [4-[?]-3; 4-[?]-6; 2-[?]-3; 8-[?]-2; 8-[?]-6; 10-[?]-4] and other places. In Ṛk [9-100-9?], *dvibarhasaṃ rayim* ('wealth that increases in two worlds') is an epithet of wealth. Because it is applied here to Agni, the meaning is 'one who is grown in the earth and the atmosphere'." *(Ṛgveda numerals as read, doubtful [?]; glosses mine and tentative: "this dawn becomes manifold in two ways, displaying her body in the east"; "great Indra, a champion of men, fulfilling the peoples, doubly mighty, unrestrained by his powers".)*
-- **वयः** — "*andhaḥ*, *vājaḥ*, *payaḥ* and so on — since it is read among the twenty-two names of food (Ni. [2-7?]), *vayaḥ* here means food."
+  In these Ṛks the nature of the Dawn and of Indra is told. Likewise this epithet is used in [4-5-3; 7-8-6; 7-24-2; 9-4-7?; 9-40-6; 10-116-4] and other places. In Ṛk 9-100-2, *dvibarhasaṃ rayim* ('wealth that increases in two worlds') is an epithet of wealth. Because it is applied here to Agni, the meaning is 'one who is grown in the earth and the atmosphere'." *(Ṛgveda numerals as read, doubtful [?]; glosses mine and tentative: "this dawn becomes manifold in two ways, displaying her body in the east"; "great Indra, a champion of men, fulfilling the peoples, doubly mighty, unrestrained by his powers".)*
+- **वयः** — "*andhaḥ*, *vājaḥ*, *payaḥ* and so on — since it is read among the twenty-two names of food (Ni. 3-9), *vayaḥ* here means food."
 - **जुनासि** — "This is a rarely occurring usage. The root *ju* is given the sense of 'going', so *sañcarisu* 'to move' is the sense; hence *junāsi* means broadly 'you go'. Here the construction may be made in different ways. First, [by Sāyaṇa]: *sarathaṃ yaṃ junāsi rāyo yāsat* —
 
-  *rathena sahitaṃ yuyutsuṃ yaṃ puruṣaṃ yuddhe prerayasi sa puruṣaḥ dhanena saṃgacchate* — 'whom you urge to battle, a man who is eager to fight and goes with his chariot, that man unites with wealth', that is, he gains wealth. *Rāyo dhanena saha yaṃ stotāraṃ yajamānaṃ prati junāsi gacchasi | tasminn eva rathe svaṃ ārohasi dhanāny api tetraivārohya gacchety arthaḥ* — Skandasvāmin explains the construction: 'whom, with wealth, you go to — the worshipper — you mount that very chariot, and, taking the wealth, go (to him)'; that is, in the same chariot in which you sit and go to the sacrificer, you carry wealth to him. But Sāyaṇa's first construction seems more suitable for this context, because: the man whom Agni urges to battle and helps in the battle …" *(continued on p. 312; the Sanskrit sentences of Skandasvāmin are read from a small print and are doubtful [?]).*
+  *rathena sahitaṃ yuyutsuṃ yaṃ puruṣaṃ yuddhe prerayasi sa puruṣaḥ dhanena saṃgacchate* — 'whom you urge to battle, a man who is eager to fight and goes with his chariot, that man unites with wealth', that is, he gains wealth. *Rāyā dhanena saha yaṃ stotāraṃ yaṣṭāraṃ prati junāsi | gacchasi | tasminn eva rathe svaṃ ārohasi dhanāny api tatraivāropya gaccher ity arthaḥ* — Skandasvāmin explains the construction: 'whom, with wealth, you go to — the worshipper — you mount that very chariot, and, taking the wealth, go (to him)'; that is, in the same chariot in which you sit and go to the sacrificer, you carry wealth to him. But Sāyaṇa's first construction seems more suitable for this context, because: the man whom Agni urges to battle and helps in the battle …" *(continued on p. 312; the Sanskrit sentences were re-read from the better scan).*
 
 ---
 
@@ -6330,7 +6332,7 @@ O Agni! The sacrificer who every day kindles you, the desirous, in his own house
 - **जुनासि** (concluded) — "…whom Agni urges to battle and to whom he gives help in battle, he wins in the battle and obtains boundless wealth — this has been said many times. For example:
 
   > यमग्ने पृत्सु मर्त्यमवा वाजेषु यं जुनाः । स यंता शश्वतीरिषः ॥
-  > *yam agne pṛtsu martyam avā vājeṣu yaṃ junāḥ | sa yantā śaśvatīr iṣaḥ ||* (Ṛk. Saṃ. [1-27-8?], as read)
+  > *yam agne pṛtsu martyam avā vājeṣu yaṃ junāḥ | sa yantā śaśvatīr iṣaḥ ||* (Ṛk. Saṃ. 1-27-7)
 
   In this Ṛk it is praised that he who has Agni's help in battle wins, unbroken, and obtains abundant, lasting wealth of food. Moreover, since *junāḥ* can be rendered here too as 'you urge' (*prerayasi*), in the explanation of the present Ṛk also, as in Sāyaṇa's explanation, *junāsi* is properly *prerayasi*: the man whom Agni urges to battle obtains wealth."
 - *Purport:* "Agni gives most abundant food, even in the house, to the sacrificer who offers him oblations in the sacrifice; and he makes him gain victory and wealth even in battle."
@@ -6343,7 +6345,7 @@ Words treated: *tubhyam* (*yuṣmad* in the dative; by the statement *kriyāgrah
 
 ### Page 313 (PDF 331)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 16".)*
 
 **Grammar page of Rik 71.6 (concluded; noted briefly)**
 
