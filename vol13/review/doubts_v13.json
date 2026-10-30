@@ -2326,5 +2326,29 @@
   ],
   "note": "Nirukta refs 2-17, 9-17(?), 10-8; Rg ref 6-75-14 small; quote aa janghanti.. read approx",
   "answer": ""
+ },
+ {
+  "pdf": 301,
+  "printed": 281,
+  "crop": [
+   0.1,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-7, 2-17, 11-12, 3-16 small",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 282,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs (1-22-20, 1-61-3, 1-122-8, 6-23-10, 10-83-6, 1-141-8) small; 'mamhistham acchoktibhir' quote and following 'viparyayam' read approx; Brhaddevata 4-36",
+  "answer": ""
  }
 ]

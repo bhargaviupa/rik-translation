@@ -7029,4 +7029,80 @@ In this ṛk it is described that the Maruts (the Marut deities), the companions
 
 ---
 
-**Progress note:** printed p. 280 (PDF 300) done — Sūkta 173 Ṛk 7 Special Topics (indra discussion continues p. 281). Next: printed p. 281 (PDF 301). Open flags: Ṛk 7 bhāṣya partly doubtful [?]; Ṛg/Nirukta refs [?]; review/doubts_v13.json.
+### Printed p. 281  (PDF 301)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+***sajoṣasaḥ kṣoṇīḥ — saha sevamānāḥ samānaprītayo vā kṣoṇyo viśaḥ parijanāḥ*** — having explained these two words as epithets of the Marut deities, he gives the meaning. Though the Marut deities are many (forty-nine in number, by the usual count — *ekonapañcāśat saṃkhyākāḥ*), they are affectionate toward one another through their oneness; or, as friends of Indra, all serve him with the same kind of love: so he explains the sense — that they are like Indra's subjects, though friends.
+
+***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 2-7 [?]), among the names of battle (Ni. 2-17 [?]), and as the name of a person (Ni. 11-12 [?]), and then quotes
+
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
+
+> *pāvakā naḥ sarasvatī vājebhir vājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*
+
+(Ṛ. Saṃ. 1-3-10). In this ṛk he explains it as "oblations" or "water".
+
+Second: "*ye yajamānāḥ yajñaṃ kurvāṇā yajamānāḥ vājaiḥ havirbhir mādayanti te samānaprītiyuktāḥ tava manuṣyabhūtā ṛtvijaḥ yajamānabhūtāḥ prajāḥ samatsu sahamādanasthāneṣu yāgeṣu uktalakṣaṇaviśiṣṭaṃ tvām eva pūjayituṃ tava mādāya ca prayatante*": those sacrificers who perform sacrifice delight Indra with oblations, united in love; those who take human form as priests and as sacrificers, as the subjects of Indra, in the sacrifices that are places of common delight, worship Indra, who has such qualities, and strive to bring about his delight: so the meaning is given.
+
+The word *samatsu* is read among the names of battle (Ni. 2-17 [?]). Here Sāyaṇa takes this word, saying "*sahamādanasthāneṣu yāgeṣu*", in the sense of "sacrifice", the place where all rejoice together, which increases joy at once.
+
+Sāyaṇa has not explained the word *sūriṃ cit* in this ṛk.
+
+***sūrayaḥ — rebhaḥ, jaritā, kāruḥ*** and the like: the Nirukta-writers read this word among the thirteen names of praisers (Ni. 3-16 [?]); *sūri* may mean one fit to be a patron (*bhakta*) of the praiser; or learned (*prājña*), discriminating, intelligent. When used of those sages who have the power of seeing, who grasp the true nature of the deities and the mystic truths of the universe, which are transcendental, both visual and mental, this word has a special meaning.
+
+### Printed p. 282  (PDF 302)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+In places like
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः ।
+
+> *tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ |*
+
+(Ṛ. Saṃ. 1-22-20), it indicates the extraordinary power of sight of the sages, not merely "those who praise". And it is also used as an epithet of Indra and other deities, not merely of the sages:
+
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं नावृधथ्यै । [?]
+
+> *maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ nāvṛdhathyai |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-61-3 [?]) — in such ṛks *viparyayaṃ* [as read: *vipaścitam*? [?]] "Indra" shows the wisdom of Indra and the other deities. Besides, when it bears the sense "lord, impeller, guide of the right path", the word *sūri* is used; and for example —
+
+> जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः ।
+
+> *jano yaḥ pajrebhyo vājinīvān aśvāvato rathino mahyaṃ sūriḥ |*
+
+(Ṛ. Saṃ. 1-122-8 [?]);
+
+> असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ।
+
+> *asad yathā jaritra uta sūrir indro rāyo viśvavārasya dātā |*
+
+(Ṛ. Saṃ. 6-23-10 [?]);
+
+> मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ।
+
+> *muhyantv anye abhito janāsa ihāsmākaṃ maghavā sūrir astu |*
+
+(Ṛ. Saṃ. 10-83-6 [?]) —
+
+in these and other ṛks this epithet is used for deities who are lords and guides of the right path, describing their qualities.
+
+> आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ।
+
+> *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathād īṣate vayaḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-141-8 [?]) — in such places it also gives the sense of "path" (*mārga*). In the ṛk in hand it may be taken to mean "wise" or "lord".
+
+***sajoṣasaḥ kṣoṇīḥ*** — the relation, as of those who have the same affection and of subjects, and of closeness other than by the Śāstra, between Indra and the Maruts, has been shown. The matter of this relation has been shown earlier in this same part, in the Special Topics of Ṛk 1-… [?]. Because of this companionship, in all the hymns that address Indra together with the Maruts, the Bṛhaddevatā describes by the name *marutvān* the epithet indicating this relationship of the deities:
+
+> मरुद्भिः सह यत्रेन्द्रो मरुत्वांस्तत्र सोऽभवत् ।
+
+> *marudbhiḥ saha yatrendro marutvāṃs tatra so 'bhavat |*
+
+(Bṛ. De. 4-36 [?]).
+
+---
+
+**Progress note:** printed p. 282 (PDF 302) done — Sūkta 173 Ṛk 7 Special Topics (sajoṣasaḥ; continues p. 283). Next: printed p. 283 (PDF 303). Open flags: Ṛg/Nirukta/Bṛhaddevatā refs [?]; review/doubts_v13.json.
