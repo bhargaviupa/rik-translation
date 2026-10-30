@@ -1,0 +1,47 @@
+[
+ {
+  "page": 18,
+  "y0": 0.718,
+  "y1": 0.794,
+  "kind": "numeral",
+  "file": "10-108-7; 10-108-8; 10-108-2",
+  "ctx": "6-20-4; 10-108-7; 10-108-8; 10-108-2; 10-108-4",
+  "note": "paṇayaḥ list: first 10-108 item read 7 (flat-footed), third read 2 (curled); please check the 2/7 digits in this list"
+ },
+ {
+  "page": 19,
+  "y0": 0.208,
+  "y1": 0.3,
+  "kind": "numeral",
+  "file": "**paṇiḥ** 1-33-3; 1-180-7; 5-61-8; **paṇinā** 4-25-7; **paṇi-iva** (printed \"paṇinā iva\") 1-32-11; **paṇibhiḥ** 4-58-4; **paṇibhyaḥ** 9-22-7",
+  "ctx": "**paṇiḥ** 1-33-3; 1-180-7",
+  "note": "paṇiḥ … paṇibhyaḥ: check the 2/7 digits (1-180-7, 4-25-7, 1-32-11, 9-22-7)"
+ },
+ {
+  "page": 19,
+  "y0": 0.3,
+  "y1": 0.385,
+  "kind": "numeral",
+  "file": "**paṇim** 1-93-4; 6-44-22; 6-51-14; 6-61-1; 8-45-14; 8-75-7; 10-67-6; 10-156-3; **paṇīn** 1-184-2; 6-33-2; 6-39-2; 7-6-3; 7-19-9",
+  "ctx": "**paṇim** 1-93-4",
+  "note": "paṇim, paṇīn (first line): check 2/7 digits (6-44-22, 8-75-7, 10-67-6, 1-184-2, 6-33-2, 6-39-2, 7-6-3, 7-19-9)"
+ },
+ {
+  "page": 19,
+  "y0": 0.385,
+  "y1": 0.495,
+  "kind": "numeral",
+  "file": "8-26-10; 8-64-2; 8-66-10; 10-60-6; **paṇīnām** 2-24-6; 6-45-31; 6-53-5; 6-53-7; 7-9-2; 9-3-2; **paṇeḥ** 1-83-4; 1-182-3; 3-58-2; 5-34-7; 6-13-3; 6-53-3; 6-53-6; 10-92-3; **paṇau** 8-97-2",
+  "ctx": "**paṇīnām** 2-24-6",
+  "note": "rest of paṇīn, paṇīnām, paṇeḥ, paṇau: check 2/7 digits"
+ },
+ {
+  "page": 20,
+  "y0": 0.49,
+  "y1": 0.522,
+  "kind": "numeral",
+  "file": "\"U. Sū. 41-170\" [?]",
+  "ctx": "the Uṇādi rule for *rak* is printed",
+  "note": "ಉ. ಸೂ. ೪೧-೧?೦: middle digit 2 or 7? and is the first group ೪೧?"
+ }
+]

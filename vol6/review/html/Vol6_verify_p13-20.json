@@ -1,0 +1,328 @@
+{
+"rows": [
+{
+"id": "13_1",
+"printed": 13,
+"pdf": 32,
+"file": "11-24",
+"ctx": "dāditvān nighātābhāvaḥ | saramā | saramā saraṇāt | ni. 11-24 | iti yās",
+"tess": "೧೧-೨೪|",
+"prop": "11-24",
+"box": [
+698,
+2451,
+126,
+33
+],
+"region": false,
+"filled": false
+},
+{
+"id": "14_2",
+"printed": 14,
+"pdf": 33,
+"file": "6-1-157",
+"ctx": "ule printed with the Kannada numerals \"६-१-१५७\" (*pā.* 6-1-157); the wor",
+"tess": "೬-೧-೧೫೭",
+"prop": "6-1-157",
+"box": [
+803,
+759,
+149,
+24
+],
+"region": false,
+"filled": false
+},
+{
+"id": "14_4",
+"printed": 14,
+"pdf": 33,
+"file": "6-1-20",
+"ctx": "d the *sampra-sāraṇa* rule printed \"पा. ६-१-२०\" (*pā.* 6-1-20, as print",
+"tess": "೬-೧-೨೦",
+"prop": "6-1-20",
+"box": [
+576,
+1290,
+135,
+27
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_0",
+"printed": 18,
+"pdf": 37,
+"file": "1-124-10",
+"ctx": "among them —  **paṇayaḥ** — the word occurs in Ṛ. Saṃ. 1-124-10; 1-151-9;",
+"tess": "೧-೧೨೪-೧೦;",
+"prop": "1-124-10",
+"box": [
+1174,
+2562,
+200,
+30
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_1",
+"printed": 18,
+"pdf": 37,
+"file": "1-151-9",
+"ctx": " —  **paṇayaḥ** — the word occurs in Ṛ. Saṃ. 1-124-10; 1-151-9; 4-51-3; ",
+"tess": "೧-೧೫೧-೯;",
+"prop": "1-151-9",
+"box": [
+1416,
+2563,
+180,
+30
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_2",
+"printed": 18,
+"pdf": 37,
+"file": "4-51-3",
+"ctx": "ayaḥ** — the word occurs in Ṛ. Saṃ. 1-124-10; 1-151-9; 4-51-3; 6-20-4; ",
+"tess": "೪೫೧೨೩;",
+"prop": "4-51-3",
+"box": [
+1628,
+2534,
+167,
+59
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_3",
+"printed": 18,
+"pdf": 37,
+"file": "6-20-4",
+"ctx": " the word occurs in Ṛ. Saṃ. 1-124-10; 1-151-9; 4-51-3; 6-20-4; 10-108-7",
+"tess": "೬-೨೦-೪;",
+"prop": "6-20-4",
+"box": [
+1819,
+2561,
+158,
+32
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_4",
+"printed": 18,
+"pdf": 37,
+"file": "10-108-7",
+"ctx": "d occurs in Ṛ. Saṃ. 1-124-10; 1-151-9; 4-51-3; 6-20-4; 10-108-7; 10-108-8",
+"tess": "೧೦-೧೦೮-೭;",
+"prop": "10-108-7",
+"box": [
+638,
+2628,
+196,
+30
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_5",
+"printed": 18,
+"pdf": 37,
+"file": "10-108-8",
+"ctx": "n Ṛ. Saṃ. 1-124-10; 1-151-9; 4-51-3; 6-20-4; 10-108-7; 10-108-8; 10-108-2",
+"tess": "೧೦-೧೦೮-೮",
+"prop": "10-108-8",
+"box": [
+851,
+2629,
+198,
+29
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_6",
+"printed": 18,
+"pdf": 37,
+"file": "10-108-2",
+"ctx": "1-124-10; 1-151-9; 4-51-3; 6-20-4; 10-108-7; 10-108-8; 10-108-2; 10-108-4",
+"tess": "೧೦-೧೦೮-೨",
+"prop": "10-108-2",
+"box": [
+1079,
+2628,
+196,
+32
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_7",
+"printed": 18,
+"pdf": 37,
+"file": "10-108-4",
+"ctx": "1-151-9; 4-51-3; 6-20-4; 10-108-7; 10-108-8; 10-108-2; 10-108-4; 10-108-6",
+"tess": "೧೦-೧೦೮-೪",
+"prop": "10-108-4",
+"box": [
+1300,
+2630,
+201,
+29
+],
+"region": false,
+"filled": false
+},
+{
+"id": "18_8",
+"printed": 18,
+"pdf": 37,
+"file": "10-108-6",
+"ctx": "-51-3; 6-20-4; 10-108-7; 10-108-8; 10-108-2; 10-108-4; 10-108-6; 10-108-1",
+"tess": "೧೦-೧೦೮-೬",
+"prop": "10-108-6",
+"box": [
+1525,
+2630,
+201,
+32
+],
+"region": false,
+"filled": false
+},
+{
+"id": "19_40",
+"printed": 19,
+"pdf": 38,
+"file": "465–466",
+"ctx": "have written before: Ṛgveda Saṃhitā, Part 2, page 228, 465–466.\" *(As pr",
+"tess": "೪೬೫-೪೬೬",
+"prop": "465–466",
+"box": [
+1772,
+1918,
+157,
+24
+],
+"region": false,
+"filled": false
+},
+{
+"id": "19_42",
+"printed": 19,
+"pdf": 38,
+"file": "3-3-96",
+"ctx": "affix is made acute by \"*mantre vṛṣeṣapaca…*\" (Pā. Sū. 3-3-96, as print",
+"tess": "೩-೩-೯೬)",
+"prop": "3-3-96",
+"box": [
+1643,
+2284,
+150,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "20_1",
+"printed": 20,
+"pdf": 39,
+"file": "11-24",
+"ctx": "मा** (*saramā*; Nirukta cited with \"सरमा सरणात्\" (Nir. 11-24); root *s",
+"tess": "೧೧-೨೪)",
+"prop": "11-24",
+"box": [
+1252,
+665,
+125,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "20_2",
+"printed": 20,
+"pdf": 39,
+"file": "6-1-45",
+"ctx": "ādi *si*; the *ātva* by \"ādeca upadeśe 'śiti\" [Pā. Sū. 6-1-45]); **बृहस",
+"tess": "೬-೧-೪೫)",
+"prop": "6-1-45",
+"box": [
+1364,
+1020,
+147,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "20_3",
+"printed": 20,
+"pdf": 39,
+"file": "6-1-157",
+"ctx": "ṛhatoḥ karapatyoś corudevatayoḥ suṭ taluk ca\" [Pā. Sū. 6-1-157]; the acc",
+"tess": "೬-೧-೧೫೭",
+"prop": "6-1-157",
+"box": [
+548,
+1315,
+155,
+36
+],
+"region": false,
+"filled": false
+},
+{
+"id": "20_4",
+"printed": 20,
+"pdf": 39,
+"file": "6-1-140",
+"ctx": "and in compound \"ubhe vanaspatyādiṣu\" [printed Pā. Sū. 6-1-140; for 6-2-",
+"tess": "೬-೧-೧೪೦)",
+"prop": "6-1-140",
+"box": [
+1461,
+1520,
+166,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "20_6",
+"printed": 20,
+"pdf": 39,
+"file": "6-1-15",
+"ctx": "k*, saṃprasāraṇa by \"vacisvapiyajādīnāṃ kiti\" [Pā. Sū. 6-1-15; the Uṇād",
+"tess": "೬-೧-೧೫)",
+"prop": "6-1-15",
+"box": [
+973,
+1821,
+145,
+40
+],
+"region": false,
+"filled": false
+}
+],
+"unmatched": []
+}

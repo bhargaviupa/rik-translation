@@ -1,0 +1,58 @@
+[
+{
+"id": "123_d0",
+"printed": 123,
+"file": "समित्स॒बाधः॒",
+"ctx": "पृष॑तीभिर्ऋ॒ष्टिभिः॒ समित्स॒बाधः॒ शव॒साहि॑मन्यवः",
+"kind": "accent",
+"note": "Rik 64.8 line 2: no svarita is seen over mi of samit. Is one printed?"
+},
+{
+"id": "130_d1",
+"printed": 130,
+"file": "वृष॑खादयो नरः॑",
+"ctx": "रन॒न्तशु॑ष्मा॒ वृष॑खादयो नरः॑",
+"kind": "accent",
+"note": "Rik 64.10: the svarita of vṛṣakhādayaḥ stands over ṣa (read there)."
+},
+{
+"id": "130_d2",
+"printed": 130,
+"file": "(Uṇ. Sū. 1-7 [?],",
+"ctx": "by \"bhṛmṛdṛśiyaji…\" (Uṇ. Sū. 1-7 [?], the digit",
+"kind": "numeral",
+"note": "Grammar page: the Uṇādi number after 1- is partly cut at the edge (7?)."
+},
+{
+"id": "134_d3",
+"printed": 134,
+"file": "भ्राज॑दृष्टयः",
+"ctx": "म॒रुतो॒ भ्राज॑दृष्टयः ॥ ११ ॥",
+"kind": "accent",
+"note": "Rik 64.11: the svarita stands over the join of bhrā and ja (read on ja)."
+},
+{
+"id": "143_d4",
+"printed": 143,
+"file": "म॑रुतो यमाव॑त",
+"ctx": "व॑ ऊ॒ती म॑रुतो यमाव॑त ।",
+"kind": "accent",
+"note": "Rik 64.13 line 1: no anudātta is seen under to of marutaḥ before yam āvata."
+},
+{
+"id": "147_d5",
+"printed": 147,
+"file": "तनयं शतं हिमाः॑",
+"ctx": "पु॑ष्येम॒ तनयं शतं हिमाः॑ ॥ १४ ॥",
+"kind": "accent",
+"note": "Rik 64.14 line 2: no svarita over na of tanayam and no anudātta under śa of śatam are seen; svarita over mā of himāḥ."
+},
+{
+"id": "150_d6",
+"printed": 150,
+"file": "श॒तिनं॑",
+"ctx": "स॒ह॒स्रिणं॑ श॒तिनं॑ शूशु॒वांसं॑",
+"kind": "accent",
+"note": "Rik 64.15 line 2: the svarita of śatinam stands over the join of ti and naṃ (read on naṃ)."
+}
+]

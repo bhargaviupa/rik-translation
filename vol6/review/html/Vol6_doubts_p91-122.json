@@ -1,0 +1,66 @@
+[
+{
+"id": "96_d0",
+"printed": 96,
+"file": "वृष्णे॒ शर्धा॑य॒",
+"ctx": "वृष्णे॒ शर्धा॑य॒ सुम॑खाय वे॒धसे॒",
+"kind": "accent",
+"note": "Rik 64.1 line 1: is the anudātta stroke under ṣṇe of vṛṣṇe (it stands under the subscript ṇ)?"
+},
+{
+"id": "100_d1",
+"printed": 100,
+"file": "दि॒व ऋ॒ष्वास॑",
+"ctx": "ते ज॑ज्ञिरे दि॒व ऋ॒ष्वास॑ उ॒क्षणो॑",
+"kind": "accent",
+"note": "Rik 64.2 line 1: a faint stroke stands above the gap between diva and ṛṣvāsa (taken as a blot). Is it a svarita?"
+},
+{
+"id": "104_d2",
+"printed": 104,
+"file": "अभो॒ग्घ्नो॑ वव॒क्षुरध्रि॑गावः",
+"ctx": "अ॒जरा॑ अभो॒ग्घ्नो॑ वव॒क्षुरध्रि॑गावः पर्व॑ता",
+"kind": "accent",
+"note": "Rik 64.3: anudātta in vavakṣur stands between the two va (read on the second); abhogghno: is it printed ಘ್ನೋ or ಘನೋ (anudātta under bho, svarita over no)?"
+},
+{
+"id": "105_d3",
+"printed": 105,
+"file": "दि॒व्यानि॑ म॒ज्मना॑",
+"ctx": "च्या॑वयन्ति दि॒व्यानि॑ म॒ज्मना॑ ॥ ३ ॥",
+"kind": "accent",
+"note": "Rik 64.3 line 2: the svarita strokes of divyāni and majmanā stand over the joins (vyā/ni, jma/nā); read on ni and nā."
+},
+{
+"id": "108_d4",
+"printed": 108,
+"file": "अधि॑ येतिरे शुभे",
+"ctx": "रु॒क्माँ अधि॑ येतिरे शुभे ।",
+"kind": "accent",
+"note": "Rik 64.4 line 1: a stroke stands near the end of śubhe; no anudātta seen under śu (left unmarked)."
+},
+{
+"id": "108_d5",
+"printed": 108,
+"file": "मि॑मृक्षुरृ॒ष्टयः॑",
+"ctx": "नि मि॑मृक्षुरृ॒ष्टयः॑ सा॒कं",
+"kind": "accent",
+"note": "Rik 64.4 line 2: anudātta under ṛ and the svarita of ṛṣṭayaḥ (stands over ṣṭa; read on yaḥ)."
+},
+{
+"id": "104_d6",
+"printed": 104,
+"file": "(Uṇ. Sū. 4-526 [?];",
+"ctx": "\"pra īrasadyos tuṭ ca\" (Uṇ. Sū. 4-526 [?]; the number is blurred",
+"kind": "numeral",
+"note": "Grammar page: the reference starts at the end of the first line \"(ಉ. ಸೂ.\" and continues at the start of the second line \"೪-೫೨೬)\"; read 4-526, blurred; the bhāṣya on p. 101 prints 4-116."
+},
+{
+"id": "112_d7",
+"printed": 112,
+"file": "रिशच्छब्दाच्छ्रन्तादसु [?]",
+"ctx": "यद्वा । रिशच्छब्दाच्छ्रन्तादसु [?] क्षेपण",
+"kind": "word",
+"note": "Bhāṣya on riśādasaḥ (second analysis): print reads ರಿಶಚ್ಛಬ್ದಾಚ್ಛ್ರಂ-ತಾದಸು ಕ್ಷೇಪಣ; corrupt; what is the reading?"
+}
+]

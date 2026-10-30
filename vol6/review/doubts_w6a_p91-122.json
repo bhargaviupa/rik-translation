@@ -1,0 +1,90 @@
+[
+ {
+  "page": 96,
+  "y0": 0.395,
+  "y1": 0.45,
+  "x0": 0.15,
+  "x1": 0.9,
+  "kind": "accent",
+  "file": "वृष्णे॒ शर्धा॑य॒",
+  "ctx": "वृष्णे॒ शर्धा॑य॒ सुम॑खाय वे॒धसे॒",
+  "note": "Rik 64.1 line 1: is the anudātta stroke under ṣṇe of vṛṣṇe (it stands under the subscript ṇ)?"
+ },
+ {
+  "page": 100,
+  "y0": 0.435,
+  "y1": 0.49,
+  "x0": 0.15,
+  "x1": 0.9,
+  "kind": "accent",
+  "file": "दि॒व ऋ॒ष्वास॑",
+  "ctx": "ते ज॑ज्ञिरे दि॒व ऋ॒ष्वास॑ उ॒क्षणो॑",
+  "note": "Rik 64.2 line 1: a faint stroke stands above the gap between diva and ṛṣvāsa (taken as a blot). Is it a svarita?"
+ },
+ {
+  "page": 104,
+  "y0": 0.7,
+  "y1": 0.755,
+  "x0": 0.15,
+  "x1": 0.9,
+  "kind": "accent",
+  "file": "अभो॒ग्घ्नो॑ वव॒क्षुरध्रि॑गावः",
+  "ctx": "अ॒जरा॑ अभो॒ग्घ्नो॑ वव॒क्षुरध्रि॑गावः पर्व॑ता",
+  "note": "Rik 64.3: anudātta in vavakṣur stands between the two va (read on the second); abhogghno: is it printed ಘ್ನೋ or ಘನೋ (anudātta under bho, svarita over no)?"
+ },
+ {
+  "page": 105,
+  "y0": 0.275,
+  "y1": 0.315,
+  "x0": 0.15,
+  "x1": 0.9,
+  "kind": "accent",
+  "file": "दि॒व्यानि॑ म॒ज्मना॑",
+  "ctx": "च्या॑वयन्ति दि॒व्यानि॑ म॒ज्मना॑ ॥ ३ ॥",
+  "note": "Rik 64.3 line 2: the svarita strokes of divyāni and majmanā stand over the joins (vyā/ni, jma/nā); read on ni and nā."
+ },
+ {
+  "page": 108,
+  "y0": 0.36,
+  "y1": 0.43,
+  "x0": 0.15,
+  "x1": 0.9,
+  "kind": "accent",
+  "file": "अधि॑ येतिरे शुभे",
+  "ctx": "रु॒क्माँ अधि॑ येतिरे शुभे ।",
+  "note": "Rik 64.4 line 1: a stroke stands near the end of śubhe; no anudātta seen under śu (left unmarked)."
+ },
+ {
+  "page": 108,
+  "y0": 0.445,
+  "y1": 0.53,
+  "x0": 0.15,
+  "x1": 0.9,
+  "kind": "accent",
+  "file": "मि॑मृक्षुरृ॒ष्टयः॑",
+  "ctx": "नि मि॑मृक्षुरृ॒ष्टयः॑ सा॒कं",
+  "note": "Rik 64.4 line 2: anudātta under ṛ and the svarita of ṛṣṭayaḥ (stands over ṣṭa; read on yaḥ)."
+ },
+ {
+  "page": 104,
+  "y0": 0.435,
+  "y1": 0.487,
+  "x0": 0.05,
+  "x1": 0.98,
+  "kind": "numeral",
+  "file": "(Uṇ. Sū. 4-526 [?];",
+  "ctx": "\"pra īrasadyos tuṭ ca\" (Uṇ. Sū. 4-526 [?]; the number is blurred",
+  "note": "Grammar page: the reference starts at the end of the first line \"(ಉ. ಸೂ.\" and continues at the start of the second line \"೪-೫೨೬)\"; read 4-526, blurred; the bhāṣya on p. 101 prints 4-116."
+ },
+ {
+  "page": 112,
+  "y0": 0.475,
+  "y1": 0.522,
+  "x0": 0.05,
+  "x1": 0.95,
+  "kind": "word",
+  "file": "रिशच्छब्दाच्छ्रन्तादसु [?]",
+  "ctx": "यद्वा । रिशच्छब्दाच्छ्रन्तादसु [?] क्षेपण",
+  "note": "Bhāṣya on riśādasaḥ (second analysis): print reads ರಿಶಚ್ಛಬ್ದಾಚ್ಛ್ರಂ-ತಾದಸು ಕ್ಷೇಪಣ; corrupt; what is the reading?"
+ }
+]
