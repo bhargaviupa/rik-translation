@@ -6348,4 +6348,62 @@ Besides, *homaniṣpādakam āhvātāraṃ vā*: the one who accomplishes the *h
 
 ---
 
-**Progress note:** printed p. 258 (PDF 278) done — Sūkta 173 Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (hotṛ; continues p. 259). Next: printed p. 259 (PDF 279). Open flags: Ṛk 3 bhāṣya partly doubtful [?]; review/doubts_v13.json.
+### Printed p. 259  (PDF 279)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+> यज्ञो वै देवेभ्य उदक्रामत्तमिष्टिभिः प्रैषयैश्चैन्य [?] दिष्टिभिः प्रैषयैश्चैन्द्रस्तदिष्टीनामिष्टित्वं तमन्वविन्दन् । अनुवित्तयज्ञो राध्नोति य एवं वेद । आहूतयो वै नामैता यदाहुतयु [?] एताभिर्वै देवान्यजमानो ह्वयति तदाहुतीनामाहूतित्वं । ऊतयः खलु वै ता नामु [?] याभिर्देवा यजमानस्य हवमायंति यो वै पंथानो याः स्रोतयस्ता वा ऊतयस्त उ एवैतत्स्वर्गयाणा यजमानस्य भवंति ॥
+
+> *yajño vai devebhya udakrāmat tam iṣṭibhiḥ praiṣayaiś caint ya [?] diṣṭibhiḥ praiṣayaiś caindras tad iṣṭīnām iṣṭitvaṃ tam anvavindan | anuvittayajño rādhnoti ya evaṃ veda | āhūtayo vai nāmaitā yad āhutayu [?] etābhir vai devān yajamāno hvayati tad āhutīnām āhūtitvaṃ | ūtayaḥ khalu vai tā nāmu [?] yābhir devā yajamānasya havam āyanti yo vai panthāno yāḥ srotayas tā vā ūtayas ta u evaitat svargayāṇā yajamānasya bhavanti ‖* [as read, garbled in places]
+
+(Ai. Brā. 1-2 [?]). Once the sacrifice went away from the gods; then, by offering oblations (*āhuti*), they got it back again. *Āhuti* is the invitation (*āhvāna*) of the deity by pronouncing its name, i.e. an act of "calling". If one is then asked why one who offers the oblations is called *hotṛ* —
+
+> तदाहुर्यदन्यो जुहोत्यथ योऽसु चाह यजति च कस्मात्तं होतेत्याचक्षत इति । यद्वाव स तत्र यथाभाजसं देवता आमुमावहामुमावहेत्यावाहयति तदेव होतुर्होतृत्वं होता भवति । होतेत्येनमाचक्षते य एवं वेद ॥
+
+> *tad āhur yad anyo juhoty atha yo 'su cāha yajati ca kasmāt taṃ hotety ācakṣata iti | yad vāva sa tatra yathābhājasaṃ devatā āmum āvahāmum āvahety āvāhayati tad eva hotur hotṛtvaṃ hotā bhavati | hotety enam ācakṣate ya evaṃ veda ‖* [as read: [?]]
+
+(Ai. Brā. 1-2 [?]). The one who offers the oblation is one person, and the one who recites the mantra is another; to the question how the name *hotṛ* is justified, the answer is that the one who recites the mantra invites the deities, in proportion to the offering made, "Bring this one, bring that one", and so calls them; hence he too is called *hotṛ* (Ai. Brā. [as above]). Then,
+
+> मनो वै यज्ञस्य वैत्रावरुणो वाग्यज्ञस्य होता ।
+
+> *mano vai yajñasya vaitrāvaruṇo vāg yajñasya hotā |*
+
+(Ai. Brā. 6-5 [?]) — by this sentence the identity of the *hotṛ* with the speech that recites the mantra is stated. And again —
+
+> सीद होतः स्व उ लोके चिकित्वानित्यग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदीनाभिः … नि होता होतृषदने विदान इत्यग्निर्वै देवानां होता तस्यैतद्धोतृषदनं यदुत्तरवेदीनाभिः ॥
+
+> *sīda hotaḥ sva u loke cikitvān ity agnir vai devānāṃ hotā tasyaiṣa svo loko yad uttaravedīnābhiḥ … ni hotā hotṛṣadane vidāna ity agnir vai devānāṃ hotā tasyaitad dhotṛṣadanaṃ yad uttaravedīnābhiḥ ‖* [as read; part omitted in the print with dots]
+
+(Ai. Brā. 3-2 [?]). In such sentences Agni, the accomplisher of the *homa*, is addressed as the *hotṛ* of the gods. So in the present ṛk the word *hotāram* can be taken to mean "the accomplisher of the *homa*", or "the invoker". By words such as *krandad aśvaḥ* the *hotṛ*-hood of Agni is described.
+
+### Printed p. 260  (PDF 280)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+***nakṣat — vyāpnoti*** — *aṃśati, nakṣati, āksāṇaḥ* and so on are read among the ten names of the action of pervading (Ni. 2-... [?]); so *abhinakṣati* is "pervades on all sides, praises everywhere": the meaning is "to praise"; for example —
+
+> प्र पर्वता अनवन्त प्र गावः प्र ब्रह्माणो अभिनक्षन्त इन्द्रम् ।
+> सरस्वतीं याम् पितरो हवन्ते दक्षिणा यज्ञमभिनक्षमाणाः ॥
+
+> *pra parvatā anavanta pra gāvaḥ pra brahmāṇo abhinakṣanta indram |*
+> *sarasvatīṃ yām pitaro havante dakṣiṇā yajñam abhinakṣamāṇāḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 8-96-… [?]; 10-17-8 [?]). In such ṛks *abhinakṣantaḥ*, *abhinakṣamāṇāḥ* mean "standing, praising on all sides". Here the sacrificial fire stands pervading the Gārhapatya and other stations of the sacrifice.
+
+***mitā sadma pariyan nakṣat*** — the word *sadma* is read among the names of water (Ni. 1-... [?]), of battle (Ni. 2-... [?]), of house (Ni. 3-... [?]), and, in "*sadmanī*", among the names of heaven and earth (Ni. 3-... [?]). Here it is used in the sense of a house, a dwelling-place. The meaning described here is that Agni, in accordance with his own name "Gārhapatya", fitted to his dwelling, which is prescribed in the Śāstra, pervades fully his own measured dwelling-place.
+
+***śaradaḥ pṛthivyāḥ garbham ā bharat*** — "he accepts or brings together the oblation, in the nature of food standing as the embryo, pertaining to the year and to the earth." The word *śarad* means the autumn season: "*śaracchṛtā asyām oṣadhayo bhavanti*" — "the season when the plants (of the herbs, the roots and the like) dry up": thus it is said; or "*śīrṇā āpo*" — the season in which the waters dry up (Ni. 4-... [?]). Agni accepts, or causes to arise, the food in the form of oblation that is produced on the earth until the end of the year and is dried up in the autumn season: this is the meaning given.
+
+In the second sense: "*vasante vasante jyotiṣā yajeta*" — by this *śruti* the one who in spring practises the Jyotiṣṭoma sacrifice in order to perform the Jyotiṣṭoma and other such sacrifices; in these seasons, prescribed in the Śāstra beginning with spring, which come round until the year is complete, he accepts the oblation, endowed with the beauty arisen on earth: so this meaning is given.
+
+The same is shown in the Śatapatha Brāhmaṇa, pointing out the relation of Agni, spring and the oblation:
+
+> तद्यदेतेऽत्रोपदधाति संवत्सर एषोऽग्निरिमे उ लोकाः संवत्सरस्तस्यायमेव लोकः प्रथमा चितिरयमस्य लोको वसन्त ऋतुस्तस्यादेतेऽत्रोपदधाति यदेवास्यैते आत्मनस्तदस्मिन्नेतत्प्रतिदधाति तस्मादेतेऽत्रोपदधाति ॥
+
+> *tad yad ete 'tropadadhāti saṃvatsara eṣo 'gnir ime u lokāḥ saṃvatsaras tasyāyam eva lokaḥ prathamā citir ayam asya loko vasanta ṛtus tasyād ete 'tropadadhāti yad evāsyaite ātmanas tad asmin etat pratidadhāti tasmād ete 'tropadadhāti ‖* [as read: [?]]
+
+(Śa. Brā. 8-4-3-10 [?]).
+
+---
+
+**Progress note:** printed p. 260 (PDF 280) done — Sūkta 173 Ṛk 3 Special Topics (Śatapatha quotation continues p. 261). Next: printed p. 261 (PDF 281). Open flags: Brāhmaṇa quotations partly garbled [?]; ref numerals [?]; review/doubts_v13.json.
