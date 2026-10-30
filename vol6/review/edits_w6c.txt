@@ -1,0 +1,23 @@
+  p. 490: Uṇ. 1-132 [?] -> Uṇ. 1-137
+  p. 499: इ॒षय॑न्त॒ मन्म ॥ ४ ॥ -> इ॒षय॑न्त॒ मन्म॑ ॥ ४ ॥
+  p. 499: iṣáyanta manma [accent ?] ||4|| -> iṣáyanta manmá ||4||
+  p. 499: (Accents as printed; the stroke over "मन्म" stands between its two syllables, so its place is left open [accent ?].) -> (Accents as printed; the stroke over "मन्म" stands on the syllable "न्म", as read by the reader.)
+  p. 546: 4-1[4/5?]-5 [as printed first digit 4; middle digit doubtful] -> 4-15-5
+  p. 546: 8-44-2[6/7?] -> 8-44-27
+  p. 553: pasasthāḥ [?] | Āś. 2-19 -> pasasthāḥ | Āś. 2-19
+  p. 563: Ai. Ā. 5-2-[?] -> Ai. Ā. 5-2-2
+  p. 575: **जयाः** [as read, [?]] -> **जयाः**
+  p. 581: Nirukta 2-12-2 as read [?] -> Nirukta 2-12-2
+  p. 581: Uṇ. Sū. 1-14[2] [?] -> Uṇ. Sū. 1-137
+  p. 587: Ṛk. Saṃ. 10-14[2]-[9] [?] -> Ṛk. Saṃ. 1-147-2
+  p. 590: Ṛk. Saṃ. 1-12[1]-13 [?] -> Ṛk. Saṃ. 1-121-13
+  p. 590: Ṛk. Saṃ. 5-29-6 [?] -> Ṛk. Saṃ. 5-29-6
+  p. 592: हसिर्लक्षणम् [?] -> हविर्लक्षणम्
+  p. 592: brahma hasirlakṣaṇam [?] -> brahma havirlakṣaṇam
+  p. 592: brahma hasirlakṣaṇam annam -> brahma havirlakṣaṇam annam
+  p. 601: pā. 6-1-56 [?] -> pā. 6-1-56
+  p. 601: (Pā. 6-1-56 [?]) -> (Pā. 6-1-56)
+  p. 603: Uṇ. Sū. 4-[188] [?] -> Uṇ. Sū. 4-188
+  p. 603: Uṇ. Sū. 3-442 [?] -> Uṇ. Sū. 3-442
+  p. 610: [स्नधीमसि] [?] -> स्वधीमसि
+  p. 610: [snadhīmasi] [?] -> svadhīmasi
