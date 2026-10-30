@@ -4786,5 +4786,29 @@
   ],
   "note": "grammar sutra numerals small (mo no dhatoh 8-2-64?)",
   "answer": ""
+ },
+ {
+  "pdf": 507,
+  "printed": 487,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk5 dense; Saunaka 'Rgvidhana 1-26' ref; several phrases garbled (mahatvapam, akalayati, ateyo, uktaiko'yuktah)",
+  "answer": ""
+ },
+ {
+  "pdf": 508,
+  "printed": 488,
+  "crop": [
+   0.25,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref Rg 10-85-2 small",
+  "answer": ""
  }
 ]

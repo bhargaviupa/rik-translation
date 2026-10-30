@@ -13355,4 +13355,52 @@ In this ṛk Agastya, giving his wife Lopāmudrā once more assurance, says that
 
 ---
 
-**Progress note:** printed p. 486 (PDF 506) done — Sūkta 179 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada written. Next: printed p. 487 (PDF 507), Ṛk 5 bhāṣya. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 487  (PDF 507)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 487.)*
+
+**Sāyaṇa-bhāṣya**
+
+> अथानयोर्दम्पत्योः सम्भोगसंलापं श्रुत्वा तत्पाश्चात्यशिष्यस्तं चिकीर्षुरुत्तराभ्यां [?] द्वाभ्यामाह । अनयोर्विनियोगः शौनकेनोक्तः ॥ इमं नु सोममित्येते द्वे ऋचौ प्रयतो जपन् । सर्वान्कामानवाप्नोति पापेभ्यश्च प्रमुच्यते । ऋग्वि. १-२६ [?] ॥ इति ॥ उपेत्य मनसा प्राप्य प्रार्थयते । किं ब्रवीति उच्यते । यदागो गुर्वोः कामप्रलापश्रवणविषयं पापं चकृम कृतवन्तो वयं तत्तस्मादागसः स सोमः सु सम्यग्मृळतु । सुखयतु । पापजनितदुःखं मा करोत्वित्यर्थः । महत्त्वापमनुभुज्यमानं [?] प्रार्थनया कथं लुप्यते इति अत आह । हि यस्मान्मर्त्यो मनुष्यः पुलुकामो बहुकामनावान् । अल्पेनैव कर्मणा बहुकामानाकालयति [?] । यस्मादेवं तस्मात्परिहरेत्यर्थः । यद्वा । अयमपवर्जनीयेऽतेयो [?] प्राप्यते इवेत्याह । पुलुकामो हि खलु मर्त्यः कामहतः सन् कामेन निरुद्ध एव वर्तते । अतस्तयोरुक्तैकोऽयुक्तः [?] । केचिद्बह्वश्रवणदोषोऽपि प्रामादिकोऽस्माकं प्राप्तेन सोमेन परिहर्तव्य इत्यर्थः । यद्वा । अयं मन्त्रश्चन्द्रपरो व्याख्येयो मनसोऽभिमानित्वाच्च तस्य पापस्यापि मनस्येव सम्भावितत्वात् । अस्मिन्पक्षे हृत्सु पीतं हृदयस्थितमित्यर्थः । शिष्टं स्पष्टम् ॥ [as read; several phrases doubtful [?]]
+
+*Gist:* Hearing the couple's talk of union, their pupil, wishing to atone for it, says in these two ṛks that men are full of desires and begs Soma to remove the sin; Soma may be the juice or (in another view) the moon, the deity of the mind.
+
+**Pratipadārtha**
+
+**hi** — because; **martyaḥ** — man; **pulukāmaḥ** — desiring much gain from little work; **yat sīm** — which (this: the hearing of the guru-wife's talk of desire); **āgaḥ** — sin; **cakṛma** — we have done; **tat** — that sin; **su mṛḷatu** — may it be made well, easy (so that no fault arises from the sin); **nu** — now; **hṛtsu pītam** — drunk with the heart (drunk by the mind); **imaṃ somam** — this Soma juice; **antitaḥ** — from near; **upa bruve** — I pray; [or **hṛtsu pītam** — residing in the heart (the moon, the deity of the mind); **imaṃ somam** — this moon; **antitaḥ upa bruve** — I draw near and pray.]
+
+**Bhāvārtha**
+
+Men are full of desires; therefore, for this sin done by us (by the pupil) — the fault of hearing the talk of desire of the guru-couple — I draw near and pray to this Soma, drunk in the mind, that it be removed. (I pray the Moon, the presiding deity of the mind, to remove the sin.)
+
+### Printed p. 488  (PDF 508)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 488.)*
+
+**Printed English**
+
+> (Pupil),—I beseech the Soma juice, which has been drunk in my heart, that it may fully expiate the sin we have committed: man is subject to many desires.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+This ṛk has been explained in two or three ways. Here Agastya's pupil indicates repentance for his sinful act. The repentance may be for the sin arising from having heard the conversation about desire between Agastya and Lopāmudrā. Or, since the natural faults of man are many, and among these desire is outstanding, he may be expressing repentance for such a fault. And the means of removing this sin must be a prayer addressed to Soma. But here, for the word *somam*, there is room for dispute whether the meaning is the Soma juice or the moon. Therefore Sāyaṇa too could not give a definitive meaning for this ṛk. First:
+
+> *āgaḥ — gurvoḥ kāmapralāpaśravaṇaviṣayaṃ pāpaṃ kṛtavantaḥ tasmād āgasaḥ sukhayatu*
+
+— "may there be removal of the sin that comes from hearing the conversation about the desire of our gurus (the couple)"; and second:
+
+> *pulukāmo hi martyaḥ kāmahataḥ san kāmena niruddha eva vartate*
+
+— "man, afflicted by manifold desires, lives hindered by desire, and so commits sin; may there be removal of such sin". But the means of removing the sin is a prayer addressed to Soma. What is the sense of Soma? It may be the Soma juice or the moon. In the Ṛgveda the word *soma* is nowhere explained as "moon". But when it is called the *Soma-devatā*, it can bear both meanings. The identity (*tādātmya*) of the deity Soma and the moon is stated in many places; and in many places this deity Soma is addressed in prayer for the removal of sin; so here there is room for both meanings.
+
+> सोमेनादित्या बलिनः सोमेन पृथिवी मही ।
+> अथो नक्षत्राणामेषामुपस्थे सोम आहितः ॥
+
+> *somenādityā balinaḥ somena pṛthivī mahī |*
+> *atho nakṣatrāṇāmeṣāmupasthe soma āhitaḥ ‖*
+
+(Ṛ. Saṃ. 10-85-2 [?]) — as it is described here that Indra and the other deities, and the earth and the other worlds, grow by *soma*, the sense "Soma juice" fits. And even if it is explained as "moon", since the moon is the cause of the nourishment of all the worlds, it is quite natural; and in the Śatapatha Brāhmaṇa, … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 488 (PDF 508) done — Sūkta 179 Ṛk 5: bhāṣya…printed English, Special Topics begun (Soma = juice or moon; continues p. 489). Next: printed p. 489 (PDF 509). Open flags: refs [?]; bhāṣya Ṛk 5 phrases [?]; review/doubts_v13.json.
