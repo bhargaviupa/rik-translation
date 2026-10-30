@@ -2255,4 +2255,47 @@ From the root *arc* (to worship, to honour) the word *arka* has been formed; by 
 
 ---
 
-**Progress note:** printed p. 98 (PDF 118) done — Sūkta 167 Ṛk 7: Saṃhitā to Special Topics begun (continues on p. 99). Next: printed p. 99 (PDF 119). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 99  (PDF 119)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* …with a mind eager to pour rain, taking pride in her function of benefiting the world, always honourable, and with a nature of ever arising, she bears the creatures that are by nature productive. Or, since all beings come to be when rain falls, she causes rain to arise and sustains all. Therefore, because the greatness of the Marut-gods is manifest through this goddess, it is said here, "I praise the greatness of these Marut-gods."
+
+***sthirā cit*** — *cid iti pūjāyām | atyantam avinaśvarā*: ["*cit*" is in the sense of honour]: extremely imperishable. Yāska says that the particle *cit* is used in many different meanings:
+
+> चिदित्येषोऽनेककर्मा । आचार्यश्चिदिदं ब्रूयादिति पूजायाम् । दधिचित्क्षुपमार्थे [?] । कुल्माषांश्चिदाहरेत्यकुत्सिते [?]
+
+> *cidityeṣo 'nekakarmā | ācāryaścididaṃ brūyāditi pūjāyām | dadhicitkṣupamārthe [?] | kulmāṣāṃścidāharetyakutsite [?]*
+
+(Ni. 1-[?]) — in the sentence "*ācāryaś cid*" it is used for reverence; in the sentence "*dadhicit*" in the sense of comparison (*upamā*); in "*kulmāṣāṃś cit*" in censure: thus he explains with examples. Here Sāyaṇa explains it as used in the sense of honour: "that goddess is worthy of honour and imperishable"; by describing the greatness of that goddess he has described the great glory of the Maruts.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *vivakmi* (root *vaca paribhāṣaṇe*; *laṭ* 1st singular, *mip*; *bahulaṃ chandasi* gives *ślu* for the vikaraṇa; the root is doubled; *bahulaṃ chandasi* Pā. 2-4-73 gives *i* to the reduplicate; the Vedic [?] gives *ku*-substitution for the *c* of the root; *nighāta* after a *tiṅanta*). *mahimā* (after the word *mahat*, *imanic* in the sense of excess; *ciṭaḥ* Pā. 6-1-163 gives the final acute). *asti* (by connection with *yad*, no *nighāta*; *tip* being *pit*, the root-accent remains). *vṛṣamanāḥ* (*bahuvrīhi*; the accent of the first member remains). *ahaṃyuḥ* (*aham* is an indeclinable ending in *m*, used in the sense of pride; *ahaṃśubhamor yus* Pā. 5-2-140 gives *yus* in the possessive sense; final acute by the suffix). *sthirā* (root *ṣṭhā gatinivṛttau*; *kirac* by *ajiraśiśira…* Uṇ. 1-53 given by *nipātana*; in the feminine, being *a*-ending, *ṭāp*; as it is *cit* the final acute).
+
+### Printed p. 100  (PDF 120)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Vyākaraṇa-prakriyā (continued).** *janīḥ* (*janyante āsu iti janayaḥ*; the root *jani prādurbhāve*; suffix *iṇ* by *iṇ sarvadhātubhyaḥ* Uṇ. 4-[?]; *jñityādir nityam* Pā. 6-1-197 gives the initial acute; accusative plural). *vahate* (root *vaha prāpaṇe*; *laṭ* 3rd singular; by connection with *yad*, no *nighāta*; by *tāsyanudāttet* the root-accent remains). *subhāgāḥ* (*śobhano bhāgo yāsāṃ tāḥ*; *nañsubhyām* Pā. 6-2-172 gives the final acute). ‖ 7 ‖
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> पान्ति मित्रावरुणाववद्याच्चयत ईमर्यमो अप्रशस्तान् ।
+> उत च्यवन्ते अच्युता ध्रुवाणि वावृध ईं मरुतो दातिवारः ॥ ८ ॥
+
+> *pānti mitrāvaruṇāvavadyāccayata īmaryamo apraśastān |*
+> *uta cyavante acyutā dhruvāṇi vāvṛdha īṃ maruto dātivāraḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> पान्ति । मित्रावरुणौ । अवद्यात् । चयते । ईम् । आर्यमः । इति । अप्रऽशस्तान् ।
+> उत । च्यवन्ते । अच्युता । ध्रुवाणि । ववृधे । ईम् । मरुतः । दातिऽवारः ॥ ८ ॥
+
+*(The Saṃhitā word "*cayata*" and the Pada "*cayate*" are as printed [?]; the reading of the Saṃhitā is doubtful.)*
+
+**॥ सायणभाष्यम् ॥** *(begins)*
+
+> हे मरुतः युष्मत्सम्बन्धिनो देवा मित्रावरुणावहोरात्राभिमानिदेवावर्यमा । अर्यमा उ इति निपातेसमुदायात्कमेकं पदम् । उशब्दोऽपि शब्दार्थः । अर्यमापि । एते त्रयोऽपीमममुं लोकं यज्ञं वावद्याद्गर्ह्यादयथानुष्ठानात् । जगत्पक्षे व्यवहारप्रतिबन्धरूपात् पान्ति । रक्षन्ति । तथैतेषामप्रशस्तान् श्रेणानामपि पदार्थाश्च यते । चातयन्ति । नाशयन्ति । उतापि चैत्यैः [?] प्रेरितान्यच्युतान्यच्युतानि ध्रुवाणि विशक्तध्रुवाणि विचलानि मेघस्फोदकानि च्यवन्ते । च्यावयन्ति वैते । अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षतीति श्रुतेः । यद्वा । अच्युतानि ध्रुवाणि धनानि च्यवन्ते । कदेति उच्यते । *[continues on the next page — the whole of this Ṛk 8 bhāṣya is doubtful in several words]*
+
+> *he marutaḥ yuṣmatsambandhino devā mitrāvaruṇāvahorātrābhimānidevāvaryamā | aryamā u iti nipātesamudāyātkamekaṃ padam | uśabdo 'pi śabdārthaḥ | aryamāpi | ete trayo 'pīmamamuṃ lokaṃ yajñaṃ vāvadyādgarhyādayathānuṣṭhānāt | jagatpakṣe vyavahārapratibandharūpāt pānti | rakṣanti | tathaiteṣāmapraśastān śreṇānāmapi padārthāśca yate | cātayanti | nāśayanti | utāpi caityaiḥ [?] preritānyacyutānyacyutāni dhruvāṇi viśaktadhruvāṇi vicalāni meghasphodakāni cyavante | cyāvayanti vaite | ahorātre vai mitrāvaruṇāvahorātrābhyāṃ khalu vai parjanyo varṣatīti śruteḥ | yadvā | acyutāni dhruvāṇi dhanāni cyavante | kadeti ucyate | *[continues on the next page — the whole of this Ṛk 8 bhāṣya is doubtful in several words]**
+
+---
+
+**Progress note:** printed p. 100 (PDF 120) done — Sūkta 167 Ṛk 7 complete; Ṛk 8: Saṃhitā, Pada and start of bhāṣya (continues on p. 101). Next: printed p. 101 (PDF 121). Open flags: small-type numerals [?]; Ṛk 8 Saṃhitā 'cayata' [?] and bhāṣya words; review/doubts_v13.json.

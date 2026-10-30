@@ -682,5 +682,29 @@
   ],
   "note": "Ṛk 7 bhāṣya: several words uncertain at 125 dpi; Ṛk number 7 vs 8 in the print",
   "answer": ""
+ },
+ {
+  "pdf": 120,
+  "printed": 100,
+  "crop": [
+   0.38,
+   0.62,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 8: Saṃhitā first line 'cayata' and Pada 'cayate'; bhāṣya several words",
+  "answer": ""
+ },
+ {
+  "pdf": 119,
+  "printed": 99,
+  "crop": [
+   0.3,
+   0.4,
+   0.08,
+   0.95
+  ],
+  "note": "Nirukta quote on cit (words and Ni. ref)",
+  "answer": ""
  }
 ]
