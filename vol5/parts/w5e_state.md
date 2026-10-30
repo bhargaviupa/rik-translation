@@ -4,8 +4,8 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 667 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667).
-Next page: p. 668 (PDF 684).
+Done through: p. 670 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670).
+Next page: p. 671 (PDF 687).
 Open items:
 - p. 664: Av. 16-118-1, 2 [?] added (print ೧೬-೧೧೮; file lacked it); p. 665: Tai. Saṃ. printed ೭-೮೨೫-೨ (written 7-825-2 [?]); p. 666: Av. ೪- ೩-೭ written 4-3-7 [?].
 - p. 655: 6-57 [?], 10-17-3 [?]; p. 658: 10-9-7 [?]; p. 660: 1-161-3, 7 [?] (2/7 doubtful).
