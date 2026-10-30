@@ -4016,4 +4016,50 @@ Yāska, citing this ṛk, explains it. In this explanation the sense that the wo
 
 ---
 
-**Progress note:** printed p. 180 (PDF 200) done — Sūkta 170 Ṛk 1 complete; Ṛk 2 Saṃhitā written. Next: printed p. 181 (PDF 201): Pada, bhāṣya of Ṛk 2. Open flags: Yāska quotation on p. 179 garbled [?]; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 181  (PDF 201)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10".)*
+
+**॥ पदपाठः ॥**
+
+> किम् । नः । इन्द्र । जिघांससि । भ्रातरः । मरुतः । तव ।
+> तेभिः । कल्पस्व । साधुऽया । मा । नः । सम्ऽअरणे । वधीः ॥ २ ॥
+
+> *kim | naḥ | indra | jighāṃsasi | bhrātaraḥ | marutaḥ | tava |*
+> *tebhiḥ | kalpasva | sādhu 'yā | mā | naḥ | sam 'araṇe | vadhīḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इदमगस्त्यवाक्यम् । हे इन्द्र नोऽस्मान् अनपराधिनः किं जिघांससि । हन्तुमिच्छसि । कथमवध्यत्वमिति अत आह । मरुतस्तव भ्रातरः । त्वया भोगप्रदानेन भरणीया [?] इत्यर्थः । अतो वयमवध्या इत्युक्तं भवति । मरुतामिन्द्रभ्रातृत्वमेकस्मिन्नेवादितिगर्भ उत्पन्नत्वात् । सा चोत्पत्तिः पुराणादिषु प्रसिद्धा । सन्तु भ्रातरस्तथापि किमिति अत आह । तेभिस्त्वैर्मरुद्भिः सह साधुया साधु त्वं कल्पस्व । कल्पय हविर्भागं तैः सह युद्धं वा [?] । नोऽस्मान् समरणे संग्रामे मा वधीः । मा हिंसीः । यद्वा । लुप्तोपमा दृष्टान्तः । संग्रामे यथा विरोधिनं हंसि न तथास्मानिति ॥
+
+*Gist:* This is Agastya's speech: Indra, why do you wish to slay us, who are blameless? The Maruts are your brothers, born of the same womb; be on good terms with them and share the oblation, and do not kill us in battle.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *marutaḥ* — the Marut-gods; *tava bhrātaraḥ* — your brothers (those nourished by you); *naḥ* — (blameless) us; *kim* — for what reason; *jighāṃsasi* — do you wish to kill?; *tebhiḥ* — with those Marut-gods; *sādhuyā* — in a peaceful way; *kalpasva* — (the portion of the oblation) cause to be shared; *naḥ* — us; *saṃ araṇe* — in battle (in the fight); *mā vadhīḥ* — do not kill (do not slay).
+
+**Bhāvārtha.** (Agastya says to Indra:) O Indra, the Marut-gods are among those nourished by you (your brothers); why do you wish to kill us, who are blameless? Share the oblation with them in peace; do not kill us in battle (out of enmity).
+
+**English Translation (as printed):** (Agastya),— Why, Indra, do you purpose to slay us: the Maruts are your brethren: share with them (the offering) in peace; destroy us not in enmity.
+
+### Printed p. 182  (PDF 202)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this Sūkta, which has the form of a dialogue between Indra and the sage Agastya, it is stated in the first mantra that Indra, learning that the sage Agastya has the intention of offering to the Marut-gods the oblation prepared for him, expressed his regret. By this mantra the reply that Agastya gave to Indra is expressed. This is what Sāyaṇa, in the bhāṣya, has explained as "*idam agastyavākyam*" ("this is Agastya's speech").
+
+Addressing Indra, ***naḥ kiṃ jighāṃsasi*** — *asmān anaparādhinaḥ hantum icchasi kim*: "why do you wish to kill us, who have committed no fault?" — by putting this as a question, and by stating the reply that "since we, the sages, have done no wrong, we do not deserve punishment", he gives the reason, *marutaḥ tava bhrātaraḥ* — "the Marut-gods are your brothers". *Tvayā bhogapradānena bharaṇīyāḥ* — "the Marut-gods are to be supported by you through the giving of enjoyments": since they are nourished by you, we, who wish to offer oblations to your dependents, do not deserve to be punished: so the meaning is explained. Yāska says:
+
+> भ्राता भरतेः [?] भरतिकर्मणो हरते भागं भर्तव्यो भवतीति वा
+
+> *bhrātā bharateḥ [?] bharatikarmaṇo harate bhāgaṃ bhartavyo bhavatīti vā*
+
+(Ni. 4-[?]) — the word *bhrātṛ*, formed from the root *bhṛ* (*bhṛñ*), is explained as one who obtains a share or one who is to be nourished (*bharaṇārha*). Sāyaṇa explains that the Marut-gods are Indra's brothers "*ekasminn eva aditigarbha utpannatvāt*" — because they were born in one and the same womb, the womb of the goddess Aditi, Indra's mother [as printed here; compare p. 148, where the origin of the Maruts is told of Diti] — and that "*sā ca utpattiḥ purāṇādiṣu prasiddhā*" — the order in which the Marut-gods came into being is well known in the Purāṇas and other books. This matter is stated also in the Bṛhaddevatā.
+
+***tebhiḥ sādhuyā kalpasva*** — *taiḥ marudbhiḥ saha sādhutvaṃ kalpaya haviḥbhāgaṃ taiḥ saha yuddhaṃ vā*: Agastya, addressing Indra, says: "adopt a kind disposition toward your brothers, and grant them at least a share of the oblation; or else fight them".
+
+***naḥ samaraṇe mā vadhīḥ*** — *asmān saṃgrāme yathā virodhinaṃ haṃsi*: "do not kill us as you kill an enemy in battle": thus the reply is given. In this sentence there is a view that the word expressing the comparison is dropped (*lupta-upamā*); and another meaning is given: "do not, by fighting, kill us, with whom there is no relation of comparison". The word *samaraṇa* is read among the names of battle (Ni. 2-[?]); "*saha maraṇaṃ yasmin*" — that in which the death of many beings occurs together at once — thus battle is described.
+
+---
+
+**Progress note:** printed p. 182 (PDF 202) done — Sūkta 170 Ṛk 2 through Special Topics (grammar on p. 183). Next: printed p. 183 (PDF 203). Open flags: small-type numerals [?]; Aditi/Diti remark noted in text; review/doubts_v13.json.
