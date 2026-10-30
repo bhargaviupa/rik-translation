@@ -5132,4 +5132,60 @@ The eternal Uṣas rises every day and lights up the world according to her rule
 
 ---
 
-**Progress note:** printed p. 218 (PDF 238) done — Sūkta 171 Ṛk 5 Special Topics (grammar and the closing of Ṛk 5 on p. 219). Next: printed p. 219 (PDF 239). Open flags: ref numerals pp. 217–218 [?]; review/doubts_v13.json.
+### Printed p. 219  (PDF 239)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Special Topics of Ṛk 5 continue.)*
+
+(*śravaḥ dhāḥ* …) ***saḥ*** — *tādṛśaḥ*: Indra, thus impelled by greatness, ***ugrebhiḥ*** — *krūrabalaiḥ* — together with the Marut-gods of fierce power, ***śravo dhāḥ*** — *sarvatra śrūyamāṇam annaṃ dehi*: "give us the food that is well known everywhere and is needed by all": thus it is described.
+
+***sahodāḥ*** — *parābhavasāmarthyaṃ sahaḥ tasya dātā*: the word *sahas* is read among the names of strength; but here the meaning "the power to overcome others" is given for *sahas*, and it is described that Indra grants it.
+
+***vṛṣabha*** — *varṣiteḥ*: Sāyaṇa gives the meaning "one who sends rain". The Nirukta-writer says: "*prajāṃ varṣatīti vā atibṛhatir īte iti vā tad vṛṣakarmā varṣaṇād vṛṣabhaḥ*" [as read]; and Durgācārya explains "*prajotpattikāraṇaṃ retasiñcati*" — because he sprinkles seed for the production of progeny — "or because he renders his own body exceedingly vigorous for sprinkling semen": in this sense the word *vṛṣabha* is used.
+
+> मरुत्वा इन्द्र वृषभो रणाय पिबा सोममनुष्वधं मदाय ।
+> आ सिञ्चस्व जठरे मध्व ऊर्मिं त्वं राजासि प्रदिवः सुतानाम् ॥
+
+> *marutvā indra vṛṣabho raṇāya pibā somam anuṣvadhaṃ madāya |*
+> *ā siñcasva jaṭhare madhva ūrmiṃ tvaṃ rājāsi pradivaḥ sutānām ‖*
+
+(Ṛ. Saṃ. 3-47-1). Here the meaning of *vṛṣabhaḥ* is explained as *varṣitā rasānām* ("one who sprinkles the juices").
+
+> प्र नू महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
+> वैश्वानरो दस्युमग्निर्जघन्वाँ अधूनोत्काष्ठा अव शम्बरं भेत् ॥
+
+> *pra nū mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |*
+> *vaiśvānaro dasyum agnir jaghanvāṃ adhūnot kāṣṭhā ava śambaraṃ bhet ‖*
+
+(Ṛ. Saṃ. 1-59-6). In this ṛk also, for *vṛṣabhasya* the meaning "one who sprinkles the juices" is explained.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *mānāsaḥ* (root *mana jñāne*; by *bahulagrahaṇa*, *ghañ* in the agent sense; *ādivṛddhi* by "*ata upadhāyāḥ*", Pā. Sū. 7-2-116 [?]; since the affix is *ñ*-marked the first syllable is acute; *asuk* before *jas* by "*ājjaserasuk*"); *citayante* (root *citī saṃjñāne*; *ṇic* by "*hetumati ca*"; by the statement "*sañjñāpūrvako vidhir anityaḥ*" there is no *guṇa* of the light penultimate; *laṭ* 3rd plural after the *ṇic*; as the *nighāta* is prevented by "*yadvṛttānnityam*", the accent of *ṇic* remains).
+
+### Printed p. 220  (PDF 240)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+*(Grammar of Ṛk 5, continued; noted briefly)*: *vyuṣṭiṣu* (root *vaś kāntau*; *ktin* in the sense of the action; *saṃprasāraṇa* and the preceding form by "*grahijyāvayi…*", Pā. Sū. 6-1-16 [?]; *ś* → *ṣ* by "*vṛścabhrasja…*", Pā. Sū. 8-2-36 [?]; the preverb *vi* takes the acute by "*tādau ca niti*", Pā. Sū. 6-2-50 [?]; *yaṇ* replaces the acute vowel and, since an unaccented vowel follows, *svarita* by "*udāttasvaritayor yaṇaḥ svaritaḥ*", Pā. Sū. 8-2-4 [?]); *vṛṣabha* (root *vṛṣu secane*; affix *abhac* by "*ṛṣivṛṣibhyāṃ kit*" (Uṇ.); since *kit*-ness is extended to it there is no *guṇa* of the light penultimate; in the vocative *nighāta* by "*ānantritasya ca*"); *dhāḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Vedic *luṅ* in the sense of the imperative; *luk* of *sic* before *sip* by "*gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*"; no augment *aṭ* in the Veda; *nighāta*); *ugrebhiḥ* (root *uca samavāye*; ending in *r*-affix as an irregular form by an Uṇādi sūtra, "*ṛjrendra…*"; before *bhis*, *iṭ* being optional, *e* occurs); *sthaviraḥ* (root *ṣṭhā gatinivṛttau*; ending in the affix *kirac* as an irregular form by "*ajiraśiśira…*" (Uṇ.)); *sahodāḥ* (root *ḍudāñ dāne*; *sahaḥ balaṃ dadātīti sahodāḥ*; affix *kvip*; the latter member keeps its accent). ‖ 5 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वं साहीन्द्र सहीयसो नॄन्भवा मरुद्भिरवयातहेळाः ।
+> सुप्रकेतेभिः सासहिर्दधानो विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+
+> *tvaṃ sāhīndra sahīyaso nṝnbhavā marudbhiravayātaheḷāḥ |*
+> *supraketebhiḥ sāsahirdadhāno vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । साहि । इन्द्र । सहीयसः । नॄन् । भव । मरुत्ऽभिः । अवयातऽहेळाः ।
+> सुप्रऽकेतेभिः । ससहिः । दधानः । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ६ ॥
+
+> *tvam | sāhi | indra | sahīyasaḥ | nṝn | bhava | marut 'bhiḥ | avayāta 'heḷāḥ |*
+> *supra 'ketebhiḥ | sasahiḥ | dadhānaḥ | vidyāma | iṣam | vṛjanam | jīra 'dānum ‖ 6 ‖*
+
+---
+
+**Progress note:** printed p. 220 (PDF 240) done — Sūkta 171 Ṛk 5 complete; Ṛk 6 (last ṛk of Sūkta 171): Saṃhitā and Pada written. Next: printed p. 221 (PDF 241): bhāṣya of Ṛk 6. Open flags: small-type numerals [?]; review/doubts_v13.json.
