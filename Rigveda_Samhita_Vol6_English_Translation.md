@@ -8570,24 +8570,24 @@ The gods, worthy of worship in the sacrifice, longing for your good will, offere
 - **सुमतिम्** — "*śobhanām anugrahātmikāṃ buddhim* (Sāyaṇa): 'a good understanding in the form of favour'. The word *sumati* is cited in the same sense in other Ṛks:
 
   > आर्ष्टिषेणो होत्रमृषिर्निषीदन्देवापिर्देवसुमतिं चिकित्वान् ।
-  > *ārṣṭiṣeṇo hotram ṛṣir niṣīdan devāpir devasumatiṃ cikitvān* (Ṛk. Saṃ. [10-98-?]; as read)
+  > *ārṣṭiṣeṇo hotram ṛṣir niṣīdan devāpir devasumatiṃ cikitvān* (Ṛk. Saṃ. 10-98-5)
 
   Here *sumatim* means *kalyāṇīṃ matim* — 'an excellent understanding'.
 
   > वैश्वानरस्य सुमतौ स्याम राजा हि कं भुवनानामभिश्रीः ।
-  > *vaiśvānarasya sumatau syāma rājā hi kaṃ bhuvanānām abhiśrīḥ* (Ṛk. Saṃ. [1-98-1])
+  > *vaiśvānarasya sumatau syāma rājā hi kaṃ bhuvanānām abhiśrīḥ* (Ṛk. Saṃ. 1-98-1)
 
-  Here *sumatau kalyāṇyāṃ matau* — 'in a good understanding' (Ni. [2-?]).
+  Here *sumatau kalyāṇyāṃ matau* — 'in a good understanding' (Ni. 7-22).
 
   > वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ।
-  > *vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ* (Ā. Saṃ. [2-?-?], as read)
+  > *vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ* (printed "A. Saṃ." 7-17-2)
 
-  Here too *sumatiṃ kalyāṇīṃ matim* (Ni. [11-?]) — 'an excellent understanding'.
+  Here too *sumatiṃ kalyāṇīṃ matim* (Ni. 11-12) — 'an excellent understanding'.
 
   > केषां वयं सुमतौ यज्ञियानामपि भद्रे सौमनसे स्याम ।
-  > *keṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma* (Ṛk. Saṃ. [10-?-?])
+  > *keṣāṃ vayaṃ sumatau yajñiyānām api bhadre saumanase syāma* (Ṛk. Saṃ. 10-14-6)
 
-  Here too *sumatau kalyāṇyāṃ matau* (Ni. [11-?]) — 'in an excellent understanding'." *(The Ṛgveda/Āśvalāyana-type citations and numerals are read from small print and are doubtful [?]; the source leaves them untranslated; glosses mine and tentative: "the sage Ārṣṭiṣeṇa sitting as priest, Devāpi, knowing the favour of the gods"; "may we be in the favour of Vaiśvānara, the king, the joy-bringing refuge of the worlds"; "we meditate on the favour of the god, whose law is truth"; "in whose favour may we be, even of the worshipful, in good-will".)* *(continued on p. 413)*
+  Here too *sumatau kalyāṇyāṃ matau* (Ni. 11-20) — 'in an excellent understanding'." *(Citation numerals re-read from the print; the source leaves them untranslated; glosses mine and tentative: "the sage Ārṣṭiṣeṇa sitting as priest, Devāpi, knowing the favour of the gods"; "may we be in the favour of Vaiśvānara, the king, the joy-bringing refuge of the worlds"; "we meditate on the favour of the god, whose law is truth"; "in whose favour may we be, even of the worshipful, in good-will".)* *(continued on p. 413)*
 
 ---
 
@@ -8598,14 +8598,14 @@ The gods, worthy of worship in the sacrifice, longing for your good will, offere
 **Special Topics of Rik 73.7 (continued)**
 
 > देवानां भद्रा सुमतिर्ऋजूयतां देवानां रातिरभि नो निवर्तताम् ।
-> *devānāṃ bhadrā sumatir ṛjūyatāṃ devānāṃ rātir abhi no nivartatām* (Ṛk. Saṃ. [1-89-2])
+> *devānāṃ bhadrā sumatir ṛjūyatāṃ devānāṃ rātir abhi no nivartatām* (Ṛk. Saṃ. 1-89-2)
 
-"Here too — *devānāṃ vayaṃ sumatau kalyāṇyāṃ matau sumatiḥ śobhanā matiḥ prasādābhimukhī matiḥ* (Ni. [11-?]) — 'an excellent understanding'. In this way the Nirukta-sense is also in accord with Sāyaṇa's explanation of the word *sumati* in these Ṛks.
+"Here too — *devānāṃ vayaṃ sumatau kalyāṇyāṃ matau sumatiḥ śobhanā matiḥ prasādābhimukhī matiḥ* (Ni. 12-40) — 'an excellent understanding'. In this way the Nirukta-sense is also in accord with Sāyaṇa's explanation of the word *sumati* in these Ṛks.
 
 *Skandasvāmin* explains the word *sumati* as 'wealth', and *sumatiṃ bhikṣamāṇāḥ* as 'those who beg wealth' (*dhanāni yācamānāḥ*)." *(Gloss mine and tentative: "may the auspicious favour of the gods be for the upright; may the gifts of the gods turn toward us".)*
 
 - **यज्ञियासः दिवि त्वे श्रवः दधिरे** — "*divi śravaḥ havirlakṣaṇam annaṃ dadhire devebhyo havīṃṣi dadhire ity arthaḥ* — 'they placed in the shining one food in the form of oblation; the meaning is that they placed oblations for the gods'. Or: *divi* as a seventh-case form: 'to you, established in heaven, they gave food'. Skandasvāmin: 'those who sacrifice offer oblation-portions in you for the gods'; or 'the oblations that you [who are] in heaven …' — thus two kinds of sense are given."
-- **नक्ता च चक्रुरुषसा विरूपे कृष्णं च वर्णमरुणं च संधुः** — "Skandasvāmin on these words: *naktā iti rātrināma | yajñārāḥ rātrau caitat kurvanti uṣasā uṣasi ca | uṣasā ca atra ānanteryodaharvlakṣate | ahani cety arthaḥ* [as read, doubtful]: '*naktā* is a name of night; the sacrificers perform this in the night and in the dawn, i.e. in the day'; *susamiddhasyāgner jvālāyā upari kṛṣṇo bhavati śiṣṭe aruṇaḥ | tau saṃdhuḥ saṃdadhati | yathā tava kṛṣṇāruṇau varṇāv api bhinnau bhavete ity arthaḥ* [as read, doubtful]: 'when the fire is well kindled, the top of the flame is black and the rest ruddy; those two they join; as in you the black and the ruddy colours become distinct'. Since *naktā* is read among the [nine] names of night (Ni. [1-7?]), it means 'night'. When the sacrificers offer oblations, Agni, kindled brightly, becomes in the night a bright flame, and the dark colour at the flame's tip, and the self-arisen red colour at the root, though distinct, become visible so that all can see; so Agni is made radiant. Or: *naktā ca cakrur uṣasā virūpe* — the second case is meant by the dropped *ā*: 'they made the night and the dawn of different forms' — with the sense that the sacrificers make *naktoṣasau* ('night and dawn') separate in form: *naktoṣasor iva kṛṣṇaṃ ca varṇam aruṇaṃ ca saṃdhuḥ*. Since the sacrificial rite is the cause of the world's upkeep, and the rite is the root of dharma, all activity of the world is carried on at appropriate times, so that the divisions of days and nights are produced by the sacrifices the sacrificers perform. In *naktā*, *uṣasā*, *virūpe* the slight endings are not of the seventh case but of the second case. When offering oblation-portions, the sacrificers make the night dark-coloured and the dawn-time ruddy-coloured —" *(continued on p. 414)*
+- **नक्ता च चक्रुरुषसा विरूपे कृष्णं च वर्णमरुणं च संधुः** — "Skandasvāmin on these words: *naktā iti rātrināma | yajñārāḥ rātrau caitat kurvanti uṣasā uṣasi ca | uṣasā ca atra ānanteryodaharvlakṣate | ahani cety arthaḥ* [as read, doubtful]: '*naktā* is a name of night; the sacrificers perform this in the night and in the dawn, i.e. in the day'; *susamiddhasyāgner jvālāyā upari kṛṣṇo bhavati śiṣṭe aruṇaḥ | tau saṃdhuḥ saṃdadhati | yathā tava kṛṣṇāruṇau varṇāv api bhinnau bhavete ity arthaḥ* [as read, doubtful]: 'when the fire is well kindled, the top of the flame is black and the rest ruddy; those two they join; as in you the black and the ruddy colours become distinct'. Since *naktā* is read among the twenty-three names of night (Ni. 2-18 [as printed]), it means 'night'. When the sacrificers offer oblations, Agni, kindled brightly, becomes in the night a bright flame, and the dark colour at the flame's tip, and the self-arisen red colour at the root, though distinct, become visible so that all can see; so Agni is made radiant. Or: *naktā ca cakrur uṣasā virūpe* — the second case is meant by the dropped *ā*: 'they made the night and the dawn of different forms' — with the sense that the sacrificers make *naktoṣasau* ('night and dawn') separate in form: *naktoṣasor iva kṛṣṇaṃ ca varṇam aruṇaṃ ca saṃdhuḥ*. Since the sacrificial rite is the cause of the world's upkeep, and the rite is the root of dharma, all activity of the world is carried on at appropriate times, so that the divisions of days and nights are produced by the sacrifices the sacrificers perform. In *naktā*, *uṣasā*, *virūpe* the slight endings are not of the seventh case but of the second case. When offering oblation-portions, the sacrificers make the night dark-coloured and the dawn-time ruddy-coloured —" *(continued on p. 414)*
 
 ---
 
@@ -8633,11 +8633,13 @@ Words treated: *tve* (the stem *yuṣmad*; before the seventh-case singular endi
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.8** *(printed Ṛk "8 ||")*
 
-> यान्राये मर्तान्त्सुषूदो अग्ने ते स्याम मघवानो वयं च ।
-> छायेव विश्वं भुवनं सिषक्ष्यापप्रिवान्रोदसी अंतरिक्षम् ॥ ८ ॥
+*(Accents as printed; no mark printed on विश्वं.)*
 
-*yān rāye martān susūdo agne te syāma maghavāno vayaṃ ca |
-chāyeva viśvaṃ bhuvanaṃ sisakṣy āpaprivān rodasī antarikṣam ||8||*
+> यान्रा॒ये मर्ता॒न्त्सुषू॑दो अग्ने॒ ते स्या॑म म॒घवा॑नो व॒यं च॑ ।
+> छा॒येव॒ विश्वं भुव॑नं सिषक्ष्यापप्रि॒वान्रोद॑सी अं॒तरि॑क्षम् ॥ ८ ॥
+
+*yā́n rāyé mártān súṣūdo ágne té syāma maghávāno vayáṃ ca |
+chāyéva víśvaṃ bhúvanaṃ sisakṣy āpaprivā́n ródasī antárikṣam ||8||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -8646,7 +8648,7 @@ chāyeva viśvaṃ bhuvanaṃ sisakṣy āpaprivān rodasī antarikṣam ||8||*
 
 *yān | rāye | martān | susūdaḥ | agne | te | syāma | magha-vānaḥ | vayam | ca | chāyā-iva | viśvam | bhuvanam | sisakṣi | ā-papri-vān | rodasī iti | antarikṣam ||8||*
 
-*(Reading note: the Saṃhitā prints "रायो" in the first line; the Pada's *rāye*, "for wealth", is the reading of the Pada as printed — the Saṃhitā's "यान्राये" is as the Pada divides "yān | rāye".)*
+*(Reading note: the Saṃhitā prints "यान्राये" (*yān rāye*), as the Pada divides "yān | rāye".)*
 
 ---
 
@@ -8656,9 +8658,9 @@ chāyeva viśvaṃ bhuvanaṃ sisakṣy āpaprivān rodasī antarikṣam ||8||*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.8** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
 
-> यान्मर्तान्मनुष्यान्स्यान्राये धनाय सुषूदः अग्निहोत्रादिकर्मसु प्रेरयसि ते तादृशा वयं च मघवानो धनिनः स्याम । भवेम । रोदसी द्यावापृथिव्यावंतरिक्षं चापप्रिवान् स्वतेजसा वृष्ट्युदकेन वापूरितवांस्त्वं च विश्वं भुवनं सर्वं जगत् सिषक्षि सेवसे । अनुगृह्य सर्वं रक्षसीत्यर्थः । तत्र दृष्टांतः । छायेव । यथा छत्रादेशश्चायोतपादिजनितं क्लेशं निवार्य रक्षति तद्वत् ॥ रायः । ऊडिदमिति विभक्तेरुदात्तत्वं । सुषूदः । षूद प्रेरणे । लेट्यडामः(?) । बहुलं छंदसीति शपः श्लुः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । सिषक्षि । षच समवायै । बहुलं छंदसीति शपः श्लुः । इदित्यनुवृत्तौ बहुलं छंदसीत्यभ्यासस्येत्वं । आपप्रिवान् । प्रा पूरणे । लिटः क्वसुः । वस्वेकाजाद्घसामिति ईडागमः । आतो लोप इटि चेत्याकारलोपः । द्विर्वचनेऽचीति स्थानिवद्भावात् द्विर्भावादि ॥
+> यान्मर्तान्मनुष्यानस्मान्राये धनाय सुषूदः अग्निहोत्रादिकर्मसु प्रेरयसि ते तादृशा वयं च मघवानो धनिनः स्याम । भवेम । रोदसी द्यावापृथिव्यावंतरिक्षं चापप्रिवान् स्वतेजसा वृष्ट्युदकेन वापूरितवांस्त्वं च विश्वं भुवनं सर्वं जगत् सिषक्षि सेवसे । अनुगृह्य सर्वं रक्षसीत्यर्थः । तत्र दृष्टांतः । छायेव । यथा छत्रादेशश्चायोतपादिजनितं क्लेशं निवार्य रक्षति तद्वत् ॥ रायः । ऊडिदमिति विभक्तेरुदात्तत्वं । सुषूदः । षूद प्रेरणे । लेट्यडामः(?) । बहुलं छंदसीति शपः श्लुः । अभ्यस्तानामादिरित्याद्युदात्तत्वं । यद्वृत्तान्नित्यमिति निघातप्रतिषेधः । सिषक्षि । षच समवायै । बहुलं छंदसीति शपः श्लुः । इदित्यनुवृत्तौ बहुलं छंदसीत्यभ्यासस्येत्वं । आपप्रिवान् । प्रा पूरणे । लिटः क्वसुः । वस्वेकाजाद्घसामिति ईडागमः । आतो लोप इटि चेत्याकारलोपः । द्विर्वचनेऽचीति स्थानिवद्भावात् द्विर्भावादि ॥
 
-*yān martān manuṣyān syān [sic: svān?] rāye dhanāya susūdaḥ agnihotrādikarmasu prerayasi te tādṛśā vayaṃ ca maghavāno dhaninaḥ syāma | bhavema | rodasī dyāvāpṛthivyāv antarikṣaṃ cāpaprivān svatejasā vṛṣṭyudakena vāpūritavāṃs tvaṃ ca viśvaṃ bhuvanaṃ sarvaṃ jagat sisakṣi sevase | anugṛhya sarvaṃ rakṣasīty arthaḥ | tatra dṛṣṭāntaḥ | chāyeva | yathā chatrādeś chāyātapādijanitaṃ kleśaṃ nivārya rakṣati tadvat || rāyaḥ | ūḍidam iti vibhakter udāttatvaṃ | susūdaḥ | ṣūda preraṇe | leṭy aḍāmaḥ(?) | bahulaṃ chandasīti śapaḥ śluḥ | abhyastānām ādir ity ādyudāttatvaṃ | yadvṛttān nityam iti nighātapratiṣedhaḥ | sisakṣi | ṣaca samavāye | bahulaṃ chandasīti śapaḥ śluḥ | idity anuvṛttau bahulaṃ chandasīty abhyāsasyetvaṃ | āpaprivān | prā pūraṇe | liṭaḥ kvasuḥ | vasv-ekājād-ghasām iti īḍāgamaḥ | āto lopa iṭi ceti ākāralopaḥ | dvirvacane 'cīti sthānivadbhāvāt dvirbhāvādi ||*
+*yān martān manuṣyān asmān rāye dhanāya susūdaḥ agnihotrādikarmasu prerayasi te tādṛśā vayaṃ ca maghavāno dhaninaḥ syāma | bhavema | rodasī dyāvāpṛthivyāv antarikṣaṃ cāpaprivān svatejasā vṛṣṭyudakena vāpūritavāṃs tvaṃ ca viśvaṃ bhuvanaṃ sarvaṃ jagat sisakṣi sevase | anugṛhya sarvaṃ rakṣasīty arthaḥ | tatra dṛṣṭāntaḥ | chāyeva | yathā chatrādeś chāyātapādijanitaṃ kleśaṃ nivārya rakṣati tadvat || rāyaḥ | ūḍidam iti vibhakter udāttatvaṃ | susūdaḥ | ṣūda preraṇe | leṭy aḍāmaḥ(?) | bahulaṃ chandasīti śapaḥ śluḥ | abhyastānām ādir ity ādyudāttatvaṃ | yadvṛttān nityam iti nighātapratiṣedhaḥ | sisakṣi | ṣaca samavāye | bahulaṃ chandasīti śapaḥ śluḥ | idity anuvṛttau bahulaṃ chandasīty abhyāsasyetvaṃ | āpaprivān | prā pūraṇe | liṭaḥ kvasuḥ | vasv-ekājād-ghasām iti īḍāgamaḥ | āto lopa iṭi ceti ākāralopaḥ | dvirvacane 'cīti sthānivadbhāvāt dvirbhāvādi ||*
 
 *(Reading note: "syān" in "yān martān manuṣyān syān rāye" is read as printed and is doubtful — the context wants "svān" or "tān"; "leṭy aḍāmaḥ(?)" for *leṭy aḍāgamaḥ* and "īḍāgamaḥ" for *iḍāgamaḥ* are as printed [sic]; Pāṇini numerals are not given.)*
 
@@ -8687,7 +8689,7 @@ For the attainment of lordship (*aiśvarya*), we mortals, urged by you (to perfo
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
 - **विश्वं छायेव सिसक्षि** — *bhuvanaṃ sarvaṃ kleśaṃ nivārya rakṣati chāyā tadvat* — "Sāyaṇa explains the meaning as: as, when one holds an umbrella, its shade protects one from the distress of rain, sun and so on, so Agni protects the whole world. Skandasvāmin: *yathā chāyā nityasaṃnihitā evaṃ tvaṃ viśvaṃ bhuvanaṃ bhūtajātaṃ sisakṣi dahanapacanādinā sevase* — 'as the shade is ever near, so you serve the whole world of beings by burning, cooking and the like'. As a shade is always ready to serve beings, Agni protects all by doing the works, beginning with the cooking of the food of all creatures of the world."
-- **रोदसी आपप्रिवान्** — "*svadhe*, *purandhī* and so on — since the word *rodasī* is read among the twenty-four names of heaven and earth (Ni. [3-30?]), it means 'heaven and earth'. In the same sense the word *rodasī* occurs in many places: *vittaṃ me asya rodasī* (Ni. [4-?]), *ime cid indra rodasī* (Ni. [6-1]) and so on. The sense is that Agni pervades the earth, the sky and the heavens fully with his own radiance and with rain-water."
+- **रोदसी आपप्रिवान्** — "*svadhe*, *purandhī* and so on — since the word *rodasī* is read among the twenty-four names of heaven and earth (Ni. 3-22), it means 'heaven and earth'. In the same sense the word *rodasī* occurs in many places: *vittaṃ me asya rodasī* (Ni. 4-6), *ime cid indra rodasī* (Ni. 6-1) and so on. The sense is that Agni pervades the earth, the sky and the heavens fully with his own radiance and with rain-water."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.8, noted briefly; not transcribed)*
 
