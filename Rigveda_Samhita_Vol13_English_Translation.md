@@ -4318,4 +4318,90 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 
 ---
 
-**Progress note:** printed p. 192 (PDF 212) done — Sūkta 170 complete (5 ṛks, pp. 175–192); Sūkta 171 (6 ṛks) heading block written. Next: printed p. 193 (PDF 213): Sūkta 171 Ṛk 1. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 193  (PDF 213)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; a signature mark "XIII 13" is printed at the foot. The page opens with a note on the group of sūktas, quoting the Bṛhaddevatā.)*
+
+**Note (Kannada).** In the first maṇḍala, the last 38 [?] sūktas are divided in the Bṛhaddevatā into two groups. From the 165th sūkta to the 170th, it tells in the form of a story the conversation that took place between Indra and the Marut-gods, and how, between them, the sage Agastya entered, praised the Marut-gods and Indra and brought them peace. From the 171st to the 1[8–9]? [?] it speaks of the sūktas composed in the course of showing the relationship and love between Agastya and Lopāmudrā. The nature of the conversation between Indra and the Marut-gods, and its description in the Bṛhaddevatā, has been shown earlier (Ṛgveda Saṃhitā, Part 12, p. 679).
+
+> स तानभिजगामाशु निरूप्यैन्द्रं हविस्तदा ।
+> मरुतश्चाभितुष्टाव सूक्तैस्तन्निस्त्रिभिः [?] ॥
+
+> *sa tānabhijagāmāśu nirūpyaindraṃ havistadā |*
+> *marutaścābhituṣṭāva sūktaistannistribhiḥ [?] ‖*
+
+(Bṛ. Dev. 5-48 [?]). Agastya, as soon as he had heard their conversation, went himself towards them and had the oblation prepared for Indra. Together with it, he praised the Marut-gods with three sūktas composed of mantras beginning "*tan nu vocāma*" (1-166 to 1-168 [?]), it is described; and
+
+> महश्चिदिति चैवेन्द्रं सहस्रमिति चैतया ।
+> निरुप्तं तद्धि हिङ्कृत्येन्द्रं मरुद्भ्यो दातुमिच्छति ॥ [as read]
+
+> *mahaściditi caivendraṃ sahasramiti caitayā |*
+> *niruptaṃ taddhi hiṅkṛtyendraṃ marudbhyo dātumicchati ‖ [as read]*
+
+(Bṛ. Dev. 5-49 [?]). By the mantra "*mahaścit*" (1-169) he praised Indra, and by the mantra "*sahasram*" (1-167-1) he became ready to offer to the Marut-gods the oblation prepared for Indra. In the Nirukta this matter is told thus:
+
+> अगस्त्य इन्द्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सां चकार । स इन्द्र एत्य परिदेवयां चक्रे ॥
+
+> *agastya indrāya havirnirupya marudbhyaḥ saṃpraditsāṃ cakāra | sa indra etya paridevayāṃ cakre ‖*
+
+(Ni. 1-[?]). By this, Indra, having found dissatisfaction, opposed it.
+
+> विज्ञायावेक्ष्य तद्भावमिन्द्रो नेति तमब्रवीत् ।
+> न श्वो नाद्यैतनं ह्यस्ति वेद कस्तद्यदद्भुतम् ॥
+
+> *vijñāyāvekṣya tadbhāvamindro neti tamabravīt |*
+> *na śvo nādyaitanaṃ hyasti veda kastadyadadbhutam ‖*
+
+(Bṛ. Dev. 5-50 [?]). Understanding this feeling, Indra rejected it with "*na nūnam asti*" (1-170). But since he refused it without making his purpose known, Agastya asks the question:
+
+> कस्य चित्त्वर्थसंचारे चित्तनेव विनश्यति ।
+> किं न इत्यब्रवीदिन्द्रमागस्त्योऽभ्रातरस्तव ॥ [as read; the lines continue on p. 194]
+
+> *kasya cittvarthasaṃcāre cittaneva vinaśyati |*
+> *kiṃ na ityabravīdindramāgastyo 'bhrātarastava ‖ [as read; the lines continue on p. 194]*
+
+### Printed p. 194  (PDF 214)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+> मरुद्भिः संप्रकल्पस्व वधीर्मा नः शतक्रतो ।
+> किं नो भ्रातरिति त्वस्यां इन्द्रो मान्यमुपालभत् ॥ [as read]
+> अगस्त्यस्त्वरमित्येस्यां क्षुब्धमिन्द्रं प्रशामयत् ।
+> प्रादात्सवनं कृत्वा तेभ्य एव च तद्धविः ॥
+
+> *marudbhiḥ saṃprakalpasva vadhīrmā naḥ śatakrato |*
+> *kiṃ no bhrātariti tvasyāṃ indro mānyamupālabhat ‖ [as read]*
+> *agastyastvaramityesyāṃ kṣubdhamindraṃ praśāmayat |*
+> *prādātsavanaṃ kṛtvā tebhya eva ca taddhaviḥ ‖*
+
+(Bṛ. Dev. 5-51 to 53 [?]). By this refutation, it is shown that his not making known his purpose was of no use; by the mantra "*kiṃ naḥ*" (1-170-2) he makes known that the Marut-gods, too, are Indra's friends. Afterwards, by the mantra "*kiṃ no bhrātaḥ*", when Indra is entreated, he is slightly angered and reproaches. Yet, with the mantra "*araṃ*" (1-170-4) he appeased Indra and offered a share of the oblation to the Marut-gods.
+
+> सुते चकार सोमेऽथ तानिन्द्रः सोमपीथिनः ।
+> तस्माद्विद्यान्निपातेन ऐन्द्रेषु मरुतः स्तुतान् ॥
+
+> *sute cakāra some 'tha tānindraḥ somapīthinaḥ |*
+> *tasmādvidyānnipātena aindreṣu marutaḥ stutān ‖*
+
+(Bṛ. Dev. 5-54). As soon as the *soma* was pressed, Indra apportioned it to the Marut-gods also and made them drink it. Therefore it must be understood that, even if Indra is praised in a sūkta, the Marut-gods are also praised in his company, as his attendants.
+
+> प्रीतात्मा पुनरेवर्षिस्तांस्तुष्टाव पृथक् पृथक् ।
+> मरुतः प्रति सूक्ताभ्यां इन्द्रं षड्भिः परैस्तु सः ॥
+
+> *prītātmā punarevarṣistāṃstuṣṭāva pṛthak pṛthak |*
+> *marutaḥ prati sūktābhyāṃ indraṃ ṣaḍbhiḥ paraistu saḥ ‖*
+
+(Bṛ. Dev. 5-55). By this, Agastya, who was satisfied, praised them again, separately: with two sūktas (1-171 and 1-172 [?]) he praised the Marut-gods; and with the sūktas from 1-173 to 1-178 [?] he praised Indra.
+
+> स्तुतश्च तैर्भिश्चेन्द्र स्तुतास इति त्रैः सह ।
+> मरुद्भिः सह मरुत्वांस्तत्र सोऽभवत् ॥
+
+> *stutaśca tairbhiścendra stutāsa iti traiḥ saha |*
+> *marudbhiḥ saha marutvāṃstatra so 'bhavat ‖*
+
+(Bṛ. Dev. 5-56). Four mantras (1-173-3 to 6 [?]) praise Indra. But since Indra needs the Marut-gods at every place, the epithet *marutvān* is natural to him: thus it is stated in the Bṛhaddevatā, and afterwards the loving conversation that took place between the sage Agastya and Lopāmudrā is described.
+
+*(ornamental rule)*
+
+---
+
+**Progress note:** printed p. 194 (PDF 214) done — Sūkta 171 heading block done; pp. 193–194 are an editorial note quoting the Bṛhaddevatā. Next: printed p. 195 (PDF 215): Sūkta 171 Ṛk 1. Open flags: Bṛhaddevatā quotations on pp. 193–194 are garbled in places [?]; sūkta numbers in the note [?]; review/doubts_v13.json.
