@@ -3802,5 +3802,29 @@
   ],
   "note": "Max Muller quote: Kannada-set Sanskrit words inside English; reproduced as printed; 'maya' vs 'mayaya' glyph",
   "answer": ""
+ },
+ {
+  "pdf": 425,
+  "printed": 405,
+  "crop": [
+   0.6,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar: carsaninam sutra name 'namanyatarasyam' read approx; Unadi ref small; Rg refs 4-26-4, 10-27-19, 8-20-7, 7-35-13 small",
+  "answer": ""
+ },
+ {
+  "pdf": 426,
+  "printed": 406,
+  "crop": [
+   0.58,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 Pada word asmadhruk/asmadruk (dh vs d) uncertain; zoom needed",
+  "answer": ""
  }
 ]
