@@ -12201,4 +12201,70 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 ---
 
-**Progress note:** printed p. 448 (PDF 468) done — Sūkta 178 Ṛk 1: Saṃhitā…printed English, Special Topics begun (śruṣṭi; continues p. 449). Next: printed p. 449 (PDF 469). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 449  (PDF 469)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 449; signature mark "XIII 29".)*
+
+**Special Topics (continued)** — … in this ṛk he explains it in two ways: first as "*śruṣṭīvān iva kṣipravantau aśvāv iva*" ("like two swift horses") and second as "*sukhavantau puruṣāv iva*" ("like two men possessed of happiness"), giving the import. Thus the meaning suited to the context has to be told for this word. The scholar Monier Williams, in his Sanskrit–English Dictionary, has included for this word the sense "obedience, willing service"; that too has "swift" as its import: the word is evidently used when one means doing a thing at once, according to another's wish. Taking all together, the sense of the word should be given in keeping with the context. In the ṛk at hand Sāyaṇa's explanation is "prosperity (*saṃpat-samṛddhi*) that wins renown swiftly [?]".
+
+***āyoḥ*** — the word *āyu* is here explained as "man" (*manuṣya*). For this word too the meaning has to be given according to the context. This word may denote a person who has attained [the power of] going about, or a community. The Nirukta-writers also support this view; thus in the Nirukta:
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् ।
+> यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि ॥
+
+> *mā no mitro varuṇo aryamāyurindra ṛbhukṣā marutaḥ pari khyan |*
+> *yadvājino devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi ‖*
+
+(Ṛ. Saṃ. 1-[?]62-1 [?]) — the word *āyu* in this ṛk is explained; here *āyu* means "wind" (*vāyu*). *āyuś ca vāyur ayanaḥ* — "*āyu* is Vāyu, the goer"; because the one that moves about throughout the universe (*viśvam*) [as read: "*etihy asau viśvam* [?]"] is wind, the name *āyu* (with elision of the *v*) is said to be well known — Durgācārya has so explained (Ni. 9-3 [?]). Besides, the word *āyu* is used in the senses *āyuḥ* ("life") and *manuṣya*, and in many places it is also used as a proper name, pointing to different persons. For example:
+
+> येन ज्योतींष्यायवे मनवे च विवेदिथ ।
+> मन्दानो अस्य बर्हिषो वि राजसि ॥
+
+> *yena jyotīṃṣyāyave manave ca viveditha |*
+> *mandāno asya barhiṣo vi rājasi ‖*
+
+(Ṛ. Saṃ. 8-15-3 [?]) — here *aurvaśeyāyu*: *āyuve, manave ca* — it is understood that "Āyu" and "Manu" are different persons; here *āyu* is used as a proper name. Some English commentators (Vedic Subjects and Proper Names, by Macdonell & Keith, Vol. I) —
+
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
+
+> *tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne arandhanāyaḥ |*
+
+(Ṛ. Saṃ. 1-53-10 [?])
+
+### Printed p. 450  (PDF 470)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 450.)*
+
+> य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे ।
+
+> *ya āyuṃ kutsamatithigvamardayo vāvṛdhāno divedive |*
+
+(Ṛ. Saṃ. 8-53-2 [?]) — citing these two ṛks, they infer that the person called *Āyu* must be an adversary of Indra. Since *arandhanāyuḥ* and *ardayaḥ* ("subdued", "harassed") occur — "he harassed him, he made him his own" — they say that he is understood to be Indra's enemy. But in this context, in the Sāyaṇa-bhāṣya, for "*ardayaḥ*" Sāyaṇa says: "*āyuṃ āyunāmānam ṛṣiṃ varapradānena pīḍayasi*" — "you oppress the ṛṣi named Āyu by giving him boons" — and explains that Indra burdens devotee-friends like Āyu with the load of granting boons and so "harasses" them. But this is an imported meaning; the explanation is not natural. Besides:
+
+> मा नो गुह्या रिप आयोरहन्दभन्नशविष्ठा [?] मा आभ्यो रीरधो दुच्छुनाभ्यः ।
+
+> *mā no guhyā ripa āyorahandabhannaśaviṣṭhā [?] mā ābhyo rīradho ducchunābhyaḥ |*
+
+(Ṛ. Saṃ. 2-32-2 [?]) — in this, for the word *āyoḥ* Sāyaṇa himself has stated plainly: *śatrubhūtasya manuṣyasya* — "of the man who is an enemy". And again:
+
+> युयोप नाभिरुपरस्यायोः प्र पूर्वाभिस्तिरते राष्टि शूरः ।
+
+> *yuyopa nābhiruparasyāyoḥ pra pūrvābhistirate rāṣṭi śūraḥ |*
+
+(Ṛ. Saṃ. 1-104-4 [?]) — here too: "*āyoḥ pareṣām upadravārtham itas tato gacchataḥ kuyavasya asurasya*" — "of the Asura Kuyava, who goes hither and thither to molest others", is the sense he gives. It is established that this is a person in the form of an enemy. But again:
+
+> कुत्सस्यायोरतिथिग्वस्य वीरान्न्यावृणग्भरता सोममस्मै ।
+
+> *kutsasyāyoratithigvasya vīrānnyāvṛṇagbharatā somamasmai |*
+
+(Ṛ. Saṃ. 2-14-7 [?]) — in such places Kutsa, Atithigva and Āyu are all evidently stated to be friends needed by Indra. Thus there are persons named Āyu who are enemies of the deities and of sacrificers; the Āyu who is Indra's friend is another; the Āyu who is Agni's friend is yet another; and the fact that there was a lineage known by the name Āyu is known from many *śruti* sentences. For example:
+
+> उर्वश्यसीत्यथोत्तरारणिमाज्यविलापनीमुपस्पृशत्यायुरसीति तामभिनिदधाति पुरूरवा असीत्यैर्वशी वाप्सराः पुरूरवाः पतिरथ यत्तस्मान्मिथुनादजायत तदायुरेवैनमेवैष एतस्मान्मिथुनाद्यज्ञं जनयति [?]
+
+> *urvaśyasītyathottarāraṇimājyavilāpanīmupaspṛśatyāyurasīti tāmabhinidadhāti purūravā asītyairvaśī vāpsarāḥ purūravāḥ patiratha yattasmānmithunādajāyata tadāyurevainamevaiṣa etasmānmithunādyajñaṃ janayati [?]*
+
+(Śa. Brā. 3-4-1-20 [?]) — [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 450 (PDF 470) done — Sūkta 178 Ṛk 1 Special Topics (āyu; continues p. 451). Next: printed p. 451 (PDF 471). Open flags: refs [?]; garbled Brāhmaṇa quote p. 450; review/doubts_v13.json.
