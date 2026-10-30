@@ -1584,4 +1584,34 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 66 (PDF 86) done — Sūkta 166 Ṛk 13 complete; Ṛk 14 Saṃhitā and Pada written. Next: printed p. 67 (PDF 87): bhāṣya of Ṛk 14. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 67  (PDF 87)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे तुरासो वेगवन्तो मरुतः युष्माकेन युष्मत्सम्बन्धिना येन परीणसा । यद्यप्येतद्बहुनामसु पठितं तथापि यद्बहु तन्महदसि भवतीत्यत्र महदित्यर्थे गृह्यते । महता युष्मदभिगमनेनैषणेन वा दीर्घमायतं सत्रादिरूपं कर्म शूशवाम प्रवर्धयामः । किञ्च यद्येन चाभिगमनेनैषणेन वा जनासो जना अस्मदीया वृजने सङ्ग्रामे आ ततेनन् [?] सर्वतो विस्तारयन्ति । स्वसामर्थ्यैः सङ्ग्रामं जयन्तीत्यर्थः । तदिष्टिमेषणं गमनमेभिर्यज्ञेभिरिदानीं क्रियमाणैः स्तोत्रादिरूपैः पूजनैरभ्याभिमुख्येनाश्याम् । व्याप्नुयाम् ॥
+
+*Gist:* O swift Maruts, by your mighty approach we extend the long, sattra-type rite; by the same approach our men spread out in battle and win; may we gain your coming through these sacrifices, with hymns and worship.
+
+**Pratipadārtha.** *turāsaḥ* — those who are swift; (*he*) *marutaḥ* — O Marut-gods; *yuṣmākena* — connected with you; *yena pariṇasā* — by which great and splendid (approach); *dīrgham* — extended (sacrificial acts in the form of *sattra* and the like); *śūśavāma* — we increase; (and) *yat* — which, by your coming or desire; *janāsaḥ* — (our) men; *vṛjane* — in battle; *ā tatenan* — spread out in all directions (are victorious); *tat* — such; *iṣṭim* — your (wished-for) arrival; *ebhiḥ yajñebhiḥ* — by these sacrifices; *abhi aśyām* — may we obtain, facing it.
+
+**Bhāvārtha.** O swift-going Maruts, by your coming, full of greatness, we increase the long acts such as *sattra*, which we perform; and by your coming men become victorious in battle. Such a coming of yours we desire through these sacrifices.
+
+**English Translation (as printed):** Quick-moving Maruts, we augment the long (offered ceremony) upon your mighty (approach), whereby men triumph in war.—May we obtain, by these our sacrifices, your wished-for (presence).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***dīrgham*** — of sacrifices, some are to be done in a few days, and some are of long duration, that is, to be done over a period of up to a year (*saṃvatsara*); there are two kinds. Sacrifices such as the *darśapūrṇamāsa*, the Soma sacrifices, the *paśubandha*, the *vājapeya*, the *abhiplavaṣaḍaha*, the *agniṣṭoma* are to be done in a few days *[continues on the next page]*
+
+### Printed p. 68  (PDF 88)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* (that is, within a fixed number of days) and finished. The *sattra* sacrifice may be one that is to be done for a year or longer: a long period. Here *dīrgham* means: the Bhāṣyakāra's explanation is that the *sattra* sacrifice to be performed over a long time is intended.
+
+***pariṇasā*** — this word is read among the twelve names of "much", beginning with *uru*, *tuvi*, so it means "abundantly" (Ni. 3-13 [?]). Here the Bhāṣyakāra, in "*yadyapyetadbahunāmasu paṭhitaṃ tathāpi yadbahu tanmahadasi bhavatītyatra mahadityarthe gṛhyate | mahatā yuṣmadabhigamanenaiṣaṇena*", has said: although *pariṇasā* is read among the names of multiplicity, since what is much is great, here it is taken in the sense of "great". Therefore here this word must be rendered "mahatā", that is, "with your coming, full of greatness".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *śūśavāma* (root *ṭuośvi gativṛddhyoḥ*, with the sense of a causal included; 1st plural *mas*; by *nityaṃ ṅitaḥ* the *s* of *mas* drops; by *vyatyaya* *śap* → *ślu*; *bahulaṃ chandasi* gives *saṃprasāraṇa* to the root; or by *vibhāṣā śveḥ* [Pā. 6-1-30] *saṃprasāraṇa* after the manner of the *yajus*; doubling; *āḍutta* … [Pā. 6-4-9? [?]] gives the *ā* augment to the suffix; guṇa after the *ik* by the *nimitta*; *av*-substitution; as it is *yad*-connected no *nighāta*; the root accent remains). *yuṣmākena* (*yuṣmākam ayam*; suffix *aṇ* in the sense of relation; *tasminn aṇi ca yuṣmākāsmākau* Pā. 4-3-2 gives *yuṣmāka* to the stem; *saṃjñāpūrvako vidhir anityaḥ* [Pā.] so no *vṛddhi* because of the suffix; by *vyatyaya* the acute falls on the syllable before the suffix). *turāsaḥ* (*matup* dropped in the Veda; *jas* with *asuk*; *āmantrita-nighāta*). *tatenan* [?] (root *tanu vistāre*; *leṭ* 3rd plural, *jhi* suffix; *jho 'ntaḥ* gives *ant*; *itaś ca lopaḥ parasmaipadeṣu* Pā. 3-4-97 drops the *i*; *bahulaṃ chandasi* gives *ślu* in place of the vikaraṇa; the root is doubled because of it; no *nighāta* because of *yad*; the root accent remains). *vṛjane* (root *vṛjī varjane*; suffix *kyu* by *kvaipy avṛji…* [Uṇ. 2-[?]]; *yuvor anākau* Pā. 7-1-1 gives *ana* for *yu*; as it is *kit* no *laghūpadha-guṇa*; initial acute by the suffix; locative singular).
+
+---
+
+**Progress note:** printed p. 68 (PDF 88) done — Sūkta 166 Ṛk 14 complete up to the Special Topics (grammar done). Next: printed p. 69 (PDF 89): Ṛk 15 (last of Sūkta 166, triṣṭubh). Open flags: small-type numerals [?]; Ṛk 14 word 'ततनन्' vs bhāṣya 'ततेनन्' [?]; review/doubts_v13.json.
