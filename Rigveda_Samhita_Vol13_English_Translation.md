@@ -4262,4 +4262,60 @@ This mantra is explained as spoken by the sage Agastya in reply to Indra's words
 
 ---
 
-**Progress note:** printed p. 190 (PDF 210) done — Sūkta 170 Ṛk 5 (last ṛk of Sūkta 170): Saṃhitā to Special Topics in progress (continues p. 191). Next: printed p. 191 (PDF 211). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 191  (PDF 211)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; the Special Topics of Ṛk 5 continue.)*
+
+> ज्मया अत्र वसवो रन्ते [?] देवा उरावन्तरिक्षे मर्जयन्त शुभ्राः [?] ।
+> अर्वाक्पथ उरुज्रयः कृणुध्वं श्रोता दूतस्य जग्मुषो नो अस्य ॥ [as read]
+
+> *jmayā atra vasavo rante [?] devā urāvantarikṣe marjayanta śubhrāḥ [?] |*
+> *arvākpatha urujrayaḥ kṛṇudhvaṃ śrotā dūtasya jagmuṣo no asya ‖ [as read]*
+
+(Ṛ. Saṃ. 7-39-3 [?]). Here the word *vasavaḥ* is explained as meaning *agni*.
+
+***vasavaḥ ādityaraśmayaḥ vivasanāt syāt dyusthānāḥ*** (Ni. 12-[?]) — the word *vasu* is applied to the rays of the sun. And in the ṛk
+
+> सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मै वय इन्द्रो दधाति ।
+> यस्त्वायन्तं वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति ॥
+
+> *sugurasat suhiraṇyaḥ svaśvo bṛhad asmai vaya indro dadhāti |*
+> *yas tvāyantaṃ vasunā prātaritvo mukṣījayeva padim utsināti ‖*
+
+(Ṛ. Saṃ. 1-125-2) the word *vasunā* is explained as *annena* ("by food"). By the sentence "*vṛttyā vṛttibhyāṃ bahutvaṃ nityasaṃbandhaś ca pratipādyate*" it is established that the multiplicity of wealth and the constant relation of Indra with wealth are proved.
+
+***mitrapate*** — by this word, "*asmadādimitrasya nityaṃ pālakena*" — "the constant protector of friends such as us (Agastya himself and the others)" — is the sense, and Indra is addressed by it. ***tvaṃ dheṣṭhaḥ*** — *sarvasyātiśayena dhārako'si*: "you are the one who supports everything exceedingly, more than others do": thus the meaning is explained.
+
+***marudbhiḥ saṃvadasva*** — *taiḥ sākaṃ samyak kṛtam iti vadasva*: "may the great Indra say, together with the Marut-gods, that the sacrifice has been well (closely) performed": this wish is expressed.
+
+***ṛtuthā havīṃṣi prāśāna*** — *ṛtāv ṛtau tattadyāgakāle ājyacarvādīni prakarṣeṇa bhuṅkṣva*: "in each season, at each time of sacrifice, enjoy abundantly the *ājya*, *caru* and the like": the hope is expressed that at each sacrifice Indra will come and eat abundantly the oblations put into the fire.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *īśiṣe* (root *īśa aiśvarye*; *se* replaces the 2nd singular of *laṭ*; the augment *iṭ* by "*īśaḥ se*", Pā. Sū. 7-2-77 [?]; *ṣ* for the affix; *nighāta*); *dheṣṭhaḥ* (after the *tṛc*-ending word *dhātṛ*, the affix *iṣṭhan* in the sense of excess; the loss of *tṛc* by "*turiṣṭhemeyaḥsu*", Pā. Sū. 6-4-154 [?]; by "*prakṛtyaikāc*" there is *prakṛtibhāva*, so the *ṭi* part is not dropped; *guṇa*; first syllable acute because the affix is *ñ*-marked).
+
+### Printed p. 192  (PDF 212)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+*(Grammar of Ṛk 5, continued; noted briefly)*: *vadasva* (root *vada vyaktāyāṃ vāci*; *ātmanepada* by "*vyaktavācāṃ samuccāraṇe*", Pā. Sū. 1-3-48 [?]; *loṭ* 2nd singular; *nighāta* since it stands after a word ending in a verb); *aśāna* (root *aśa bhojane*; *loṭ* 2nd singular, *hi* for *sip*; *śnā* by "*kryādibhyaḥ śnā*"; *śānac* in place of the affix by "*halaḥ śnaḥ śānajjhau*", Pā. Sū. 3-1-83 [?]; loss of *hi* by "*ato heḥ*", Pā. Sū. 6-4-105 [?]; *nighāta*); *ṛtuthā* (the affix *thā* when repetition is meant, in the sense of time). ‖ 5 ‖
+
+*Here ends the hundred and seventieth Sūkta.* (ಇಲ್ಲಿಗೆ ನೂರಎಪ್ಪತ್ತನೇ ಸೂಕ್ತ ಮುಗಿದುದು.)
+
+## Sūkta 171 — *prati va* (Anuvāka 23, seventh Sūkta; 6 ṛks)
+
+*(Heading, p. 192: "The hundred and seventy-first Sūkta" — ನೂರ ಎಪ್ಪತ್ತೊಂದನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रति व इति षडृचं सप्तमं सूक्तमागस्त्यं त्रैष्टुभं मारुतम् । आद्ये द्वे केवलमारुते । शिष्टाश्चतस्रो मरुत्वदिन्द्रदेवताकाः । प्रति वः षण्मारुतं तु चेतसोऽन्त्या मरुत्वतीया [?] इत्यनुक्रमणिका ॥ विशेषविनियोगो लैङ्गिकः ॥
+
+*Gist:* The seventh sūkta (*prati va*), of six ṛks, by Agastya, to the Maruts in triṣṭubh; the first two ṛks are to the Maruts alone, the other four to Indra with the Maruts.
+
+**Anuvāda (Kannada).** This Sūkta beginning *prati va* is the seventh Sūkta in the twenty-third anuvāka. It has six ṛks. Agastya is the ṛṣi of this Sūkta; the Marut-gods are the deities; the metre is Triṣṭubh. The first two ṛks are addressed to the Marut-gods alone; the remaining four ṛks have Marut and Indra as deities. In the Anukramaṇikā it is said: "*prati vaḥ ṣaṇmārutaṃ tu cetaso'ntyā marutvatīyā*" [as read]. The special application (*viniyoga*) of this Sūkta is by the indicatory sign.
+
+**॥ ॐ ॥** Sūkta—171
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 171 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 11 ‖
+Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the Maruts; ṛks 3–6 Indra with the Maruts · Chandas: *triṣṭubh*.
+
+---
+
+**Progress note:** printed p. 192 (PDF 212) done — Sūkta 170 complete (5 ṛks, pp. 175–192); Sūkta 171 (6 ṛks) heading block written. Next: printed p. 193 (PDF 213): Sūkta 171 Ṛk 1. Open flags: small-type numerals [?]; review/doubts_v13.json.
