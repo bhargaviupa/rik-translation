@@ -2686,5 +2686,29 @@
   ],
   "note": "grammar sutra numerals small; vavrtyah grammar read approx",
   "answer": ""
+ },
+ {
+  "pdf": 333,
+  "printed": 313,
+  "crop": [
+   0.28,
+   0.38,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 174 heading: varga numerals (16,17?) uncertain; Anukramanika Asvalayana ref 7-12? small",
+  "answer": ""
+ },
+ {
+  "pdf": 334,
+  "printed": 314,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya: 'nnasman karmanetrnasya jamanan' and 'viseso 'sman asi raksa' read approx",
+  "answer": ""
  }
 ]

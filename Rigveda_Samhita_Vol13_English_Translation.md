@@ -7953,4 +7953,79 @@ Here ends the hundred and seventy-third (173rd) Sūkta.
 
 ---
 
-**Progress note:** printed p. 312 (PDF 332) done — SŪKTA 173 COMPLETE (13 ṛks, printed pp. 237–312). Next: printed p. 313 (PDF 333), Sūkta 174. Open flags: many Ṛg/Nirukta/Brāhmaṇa refs and sūtra numerals [?]; some dense bhāṣya passages [?]; review/doubts_v13.json.
+---
+
+## SŪKTA 174 (the hundred and seventy-fourth Sūkta)
+
+### Printed p. 313  (PDF 333)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+**Anukramaṇikā (Sanskrit, as read; doubtful passages marked [?])**
+
+> त्वं राजेति दशर्चं दशमं सूक्तमागस्त्यमैन्द्रं त्रैष्टुभम् । त्वं राजा दशेत्यनुक्रान्तं । पृष्ठ्ये षळहे स्तोमवृद्धौ स्तोमातिशंसनार्थं होत्रकैरेतच्छस्तव्यं [?] । ऐन्द्राणि त्रैष्टुभान्यमरुच्छा न्यान्यवापेरन् । आ. [?] । इति सूक्तम् ॥
+
+> *tvaṃ rājeti daśarcaṃ daśamaṃ sūktam āgastyam aindraṃ traiṣṭubham | tvaṃ rājā daśety anukrāntaṃ | pṛṣṭhye ṣaḷahe stomavṛddhau stomātiśaṃsanārthaṃ hotrakair etac chastavyaṃ [?] | aindrāṇi traiṣṭubhāny amaruc chā nyāny avāperan | ā. [?] | iti sūktam ‖*
+
+**Anuvāda (Kannada, translated)**
+
+This sūkta beginning *tvaṃ rājendra* is the tenth sūkta in the twenty-third anuvāka. It has ten ṛks. The ṛṣi of this sūkta is Agastya; the deity is Indra; the metre is Triṣṭubh. In the Anukramaṇikā it is stated as "*tvaṃ rājā daśa*". This sūkta is to be recited by the *hotṛ*-class priests, for the sake of the augmentation of the *stoma* (*stomātiśaṃsanārtha*), in the *pṛṣṭhya* Soma sacrifice, which extends over six days. In this matter, in the Āśvalāyana Śrauta-sūtra there is the sūtra "*aindrāṇi traiṣṭubhāny amarucchānyāny avāperan*" (Āś. Śrau. 7-12 [?]).
+
+**Sūkta — 174**
+
+Maṇḍala — 1 ‖ Anuvāka — 23 ‖ Sūkta — 174 ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 16, 17 [?] ‖
+Number of ṛks in the sūkta — 10 ‖
+Ṛṣi — Agastya ‖ Devatā — Indra ‖ Chandas — Triṣṭubh ‖
+
+**Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> त्वं राजेन्द्र ये च देवा रक्षा नॄन्पाह्यसुर त्वमस्मान् ।
+> त्वं सत्पतिर्मघवा नस्तरुत्रस्त्वं सत्यो वसवानः सहोदाः ॥ १ ॥
+
+> *tvaṃ rājendra ye ca devā rakṣā nṝn pāhy asura tvam asmān |*
+> *tvaṃ satpatir maghavā nas tarutras tvaṃ satyo vasavānaḥ sahodāḥ ‖ 1 ‖*
+
+**Pada-pāṭha**
+
+> त्वम् । राजा । इन्द्र । ये । च । देवाः । रक्ष । नॄन् । पाहि । असुर । त्वम् । अस्मान् ।
+> त्वम् । सत्ऽपतिः । मघऽवा । नः । तरुत्रः । त्वम् । सत्यः । वसवानः । सहःऽदाः ॥ १ ॥
+
+> *tvam | rājā | indra | ye | ca | devāḥ | rakṣa | nṝn | pāhi | asura | tvam | asmān |*
+> *tvam | sat-patiḥ | magha-vā | naḥ | tarutraḥ | tvam | satyaḥ | vasavānaḥ | sahaḥ-dāḥ ‖ 1 ‖*
+
+### Printed p. 314  (PDF 334)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे इन्द्र त्वं राजाधिपतिः सर्वस्य जगतः । किंच ये देवा मरुदादयः सन्ति तेषामपि विशेषेण । अतो हे असुर शत्रूणां निरसिता त्वं न्नस्मान् कर्मनेतॄन्नस्य जमानान्रक्ष । पालय । विशेषतोऽस्मानसि रक्ष [?] । त्वं च सत्पतिः सतां सतः कर्मफलस्य वा पाता मघवा धनवान्नोऽस्माकं तरुत्रस्तारयिता पापात् । किंच त्वं सत्यो बाधाभ्यः सत्यफलो वा वसवानः स्वतेजसा सर्वं छादयन् वसूनि वा कुर्वन् स्तोतृभ्यः सहोदाः सहसो बलस्य दाता भवेति शेषः ॥ [as read; partly doubtful: [?]]
+
+> *he indra tvaṃ rājādhipatiḥ sarvasya jagataḥ | kiṃca ye devā marudādayaḥ santi teṣām api viśeṣeṇa | ato he asura śatrūṇāṃ nirasitā tvaṃ nnasmān karmanetṝn asya jamānān rakṣa | pālaya | viśeṣato 'smān asi rakṣa [?] | tvaṃ ca satpatiḥ satāṃ sataḥ karmaphalasya vā pātā maghavā dhanavān no 'smākaṃ tarutras tārayitā pāpāt | kiṃca tvaṃ satyo bādhābhyaḥ satyaphalo vā vasavānaḥ svatejasā sarvaṃ chādayan vasūni vā kurvan stotṛbhyaḥ sahodāḥ sahaso balasya dātā bhaveti śeṣaḥ ‖* [?]
+
+*Gist:* O Indra, you are lord of the whole world, and also of the gods such as the Maruts; protect us, the performers of the rites, you who are the best of the good, the bestower of wealth, the saviour from sin, true, and the giver of strength.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *tvam* — you; *rājā* — (of the whole world) the lord; *ye devāḥ* — (the Maruts and the other) deities who are; (to them also, specially, you are the lord); (*he*) *asura* — O Indra, the destroyer of enemies; *tvam* — you; *nṝn* — the sacrificers, the leaders of rites; *pāhi* — protect; (and) *asmān* — us; *rakṣa* — protect; *tvam* — you; *satpatiḥ* — the lord of men of truth, or of the fruit of rites; *maghavā* — the wealthy one; *naḥ* — us; *tarutraḥ* — the one who carries across (from sin); (and) *tvam* — you; *satyaḥ* — free from obstruction, or of true fruit; *vasavānaḥ* — one who covers everything with his own splendour, or who gives wealth to the praisers; *sahodāḥ* — the giver of strength; (*bhava* — be).
+
+**Bhāvārtha**
+
+O Indra, you are the lord of the whole world, together with the gods, the Maruts and the others; O destroyer of enemies, protect the performers of the sacrifice and ourselves; as lord of the fruit of rites, rich, the remover of sin, grant us true fruit, wealth and strength.
+
+**Printed English**
+
+You, Indra, are King: they who are gods (are subject) to you therefore, scatterer (of foes), do you protect and cherish us men: you are the protector of the good, the possessor of wealth, the extricator of us (from sin): you are true, the invester (of all with your lustre), the giver of strength. [As printed; "do yau protect" at the head of the line is a misprint for "do you protect": [sic].]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Indra's greatness is described, together with an account of his qualities.
+
+***tvaṃ rājā*** — Indra is addressed. Indra is *sarvasya jagataḥ adhipatiḥ*: "lord of the whole world", the one who has all the world under him: this meaning is explained; and "*ye devāḥ marudādayaḥ santi teṣām api viśeṣeṇa*" — Indra is the protector and the lord of the deities, the Maruts and the others, in a special degree.
+
+---
+
+**Progress note:** printed p. 314 (PDF 334) done — Sūkta 174 Ṛk 1 (Anukramaṇikā, Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun, continues p. 315). Next: printed p. 315 (PDF 335). Open flags: Sūkta 174 heading varga numerals [?]; Anukramaṇikā ref [?]; Ṛk 1 bhāṣya partly doubtful [?]; review/doubts_v13.json.
