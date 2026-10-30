@@ -6406,4 +6406,61 @@ The same is shown in the Śatapatha Brāhmaṇa, pointing out the relation of Ag
 
 ---
 
-**Progress note:** printed p. 260 (PDF 280) done — Sūkta 173 Ṛk 3 Special Topics (Śatapatha quotation continues p. 261). Next: printed p. 261 (PDF 281). Open flags: Brāhmaṇa quotations partly garbled [?]; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 261  (PDF 281)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+In these sentences the identity of Agni and the year is first stated, and then the identity of the first layer (*prathamā citi*) and spring is shown. And again —
+
+> यद्येवैतेऽत्रोपदधाति । प्रजापतिरेषोऽग्निः संवत्सर उ प्रजापतिस्तस्य प्रतिष्ठैव प्रथमा चितिः प्रतिष्ठोऽस्य वसन्त ऋतुस्तद्यदेतेऽत्रोपदधाति … तेऽन्तर्हिते विश्वज्योतिष उपदधाति प्रजा वै विश्वज्योतिः … ऋतुभिर्हीवं गर्भे सन्तं संपश्यन्त्यृतुभिर्जातम् ॥ [as read, dots in the print]
+
+> *yady evaitte 'tropadadhāti | prajāpatir eṣo 'gniḥ saṃvatsara u prajāpatis tasya pratiṣṭhaiva prathamā citiḥ pratiṣṭho 'sya vasanta ṛtus tad yad ete 'tropadadhāti … te 'ntarhite viśvajyotiṣa upadadhāti prajā vai viśvajyotiḥ … ṛtubhir hīvaṃ garbhe santaṃ saṃpaśyanty ṛtubhir jātam ‖* [?]
+
+(Śa. Brā. 8-4-3-10 [?]). By such sentences, showing the identity of earth and year, and of the year and the others, it is explained that the food, the oblation, produced in the year's womb arose as if in the womb of the earth.
+
+***krandad aśvaḥ — aśva iva krandati harṣātiśayāt*** — In this sentence the word *iva*, which denotes comparison, is not used, but it is explained that Agni, accepting the oblations, makes a sound like a horse that is delighted: he makes a sounding noise.
+
+***nayamānaḥ gauḥ ruvat — nayann indrāyu havirbhāram*** — it is explained that Agni leads the loads of oblations in heaps for Indra. For the word *gauḥ* the meaning is given as "an ox" (one that carries a burden); Agni is compared to a well-fed ox that carries a load and makes a sound.
+
+***dūto na rodasī antaḥ vāk carat*** — "Agni, like a messenger who carries the present to each, moving between heaven and earth, being himself praised by the priests (or, going himself in praise of the deities)", with the explanation "*haviḥsvīkārāya pṛthivīṃ tatprāpaṇāya dyulokaṃ ca paribhramati*": Agni comes to the earth to accept the oblations, and goes to heaven to bring the accepted oblations to the deities. The order of this movement of Agni is described. In this movement of Agni the comparison with the messenger who bears news is made clear.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***nakṣat*** — root *nakṣ vyāptau*; Vedic *laṅ* in the present sense; third person singular; no augment; because in *pādādi* position, no *nighāta*; the *sārvadhātuka* *la* being *anudātta*, the root accent remains.
+- ***sadma*** — root *ṣadḷ viśaraṇagatyavasādaneṣu*; the suffix *manin* (by *ṭoṇādi*, i.e. the *uṇādi* list); being *nit*, the first syllable is *udātta*.
+
+### Printed p. 262  (PDF 282)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+- ***yan*** — root *iṇ gatau*; *laṭ* with *śatṛ*; *iṇo yaṇ* (Pā. Sū. 6-4-81 [?]) gives *yaṇ*; the suffix accent is *udātta* on the first syllable.
+- ***bharat*** — root *hṛñ haraṇe* [as printed]; Vedic *laṅ* in the present sense; third person singular; no augment; by "*hṛgrahor bhaś chandasi*" the *ha* becomes *bha*; in *pādādi* position, no *nighāta*; *śap* being *pit*, the root accent remains.
+- ***krandat*** — root *kradi āhvāne rodane ca*; *laṭ* with *śatṛ*; by "*idito num dhātoḥ*" the root takes *num*; or, as before, Vedic *laṅ*; the root accent remains.
+- ***nayamānaḥ*** — root *ṇīñ prāpaṇe*; *laṭ* with *śānac*; *śap* as the *vikaraṇa*; guṇa of the root; *āna* replaced by *mu* [?]; by "*āne muk*" (Pā. Sū. 7-2-82 [?]) the augment *muk*; since the *sārvadhātuka* *la* is *anudātta*, by the rule "*tāsy anudāttet*" the root accent remains.
+- ***ruvat*** — root *ru śabde*; *laṭ* with *śatṛ*; by "*acchnā-dhātu-bhruvāṃ*…" [?] *uvaṅ* substitution; the suffix accent is first-syllable *udātta*.
+- ***carat*** — root *cara gatibhakṣaṇayoḥ*; Vedic *laṅ* in the present sense; third person singular; by "*bahulaṃ chandasy amāṅyoge 'pi*" no augment; *nighāta* accent for a *tiṅ*.
+- ***vāk*** — root *vaca paribhāṣaṇe*; *kvip* by "*kvibvacipracchi*…" (Uṇ. Sū. 2-… [?]) in the agent or in the passive sense; long vowel; no *saṃprasāraṇa*; at the end of the word *ku* (*c* becomes *k*). ‖ 3 ‖
+
+---
+
+**Sūkta 173, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> ता कर्माषतरास्मै प्र च्यौत्नानि देवयन्तो भरन्ते ।
+> जुजोषदिन्द्रो दस्मवर्चा नासत्येव सुग्म्यो रथेष्ठाः ॥ ४ ॥
+
+> *tā karmāṣatarāsmai pra cyautnāni devayanto bharante |*
+> *jujoṣad indro dasmavarcā nāsatyeva sugmyo ratheṣṭhāḥ ‖ 4 ‖*
+
+**Pada-pāṭha**
+
+> ता । कर्म । अषतरा [?] । अस्मै । प्र । च्यौत्नानि । देवयन्तः । भरन्ते ।
+> जुजोषत् । इन्द्रः । दस्मवर्चाः । नासत्याऽइव । सुग्म्यः । रथेस्थाः ॥ ४ ॥
+
+> *tā | karma | aṣatarā [?] | asmai | pra | cyautnāni | devayantaḥ | bharante |*
+> *jujoṣat | indraḥ | dasmavarcāḥ | nāsatyā-iva | sugmyaḥ | rathe-sthāḥ ‖ 4 ‖*
+
+---
+
+**Progress note:** printed p. 262 (PDF 282) done — Sūkta 173 Ṛk 3 complete; Ṛk 4 Saṃhitā and Pada written. Next: printed p. 263 (PDF 283), Ṛk 4 bhāṣya. Open flags: Ṛk 4 Pada word 'aṣatarā' [?]; sūtra numerals [?]; review/doubts_v13.json.
