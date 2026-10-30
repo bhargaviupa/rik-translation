@@ -489,3 +489,19 @@ Unit 9 (Sūkta 74, pp. 426–454; Oct 30):
   p. 453: Varga -> 22; p. 454: head "Sū. 74" as read -> prints Sū. 75; Sūkta 74 end note vargas reconciled (21, 22)
   pp. 450 (bhāṣya note "abhi … [?]" not re-read), 437 (body), 444 (body): no other flagged lines viewed. Generic "doubtful places [?]" labels of the bhāṣya headings left as they are; p. 443 "pp. 640–641 [as read]" not re-viewed.
 Doubts: vol6/review/html/Vol6_doubts_p426-454.html (2).
+Unit 10 (Sūkta 75, pp. 454–467):
+  p. 454: ā. [3-4?] -> 3-4 (intro, Devanagari+IAST); Anuvāda (Ā. [3-4]) -> (Ā. 3-4); meaning (Ā. [3-4?]) -> (Ā. 3-4)
+  p. 455: heading Varga [२३?] -> २३; head Varga [?] -> 23; Saṃhitā 75.1 accents as printed (आ॒सनि॑ zoomed 600); bhāṣya कृदीयेन -> त्वदीयेन, स्वीकुर्विरित्यर्थः -> स्वीकुर्वित्यर्थः
+  p. 456: Uṇ. [4-?] -> 4-666 (gatikārakayor api…)
+  p. 457: head Varga [?] -> 23; Saṃhitā 75.2 accents as printed (ते and अङ्गि unmarked in the print)
+  p. 458: Ni. [3-19?] -> 3-19
+  p. 459: head Varga [?] -> 23; Ni. [2-7?] -> 3-9 [as printed] (brahma = food, wealth); Uṇ. [4-?] -> 4-547 (sānasi…); Saṃhitā 75.3 accents as printed
+  p. 460: bhāṣya re-read: [varṣase?] | te [sthānam api] -> vartase | tat-sthānam api; ईदृग्गुण -> ईदृग्रूप; अतस्त्वत्सम- -> अतस्त्वम्; दाश्व दाने -> दाशृ दाने; उकादयो ऽबहुलमिति…कर्तर्यु- -> उणादयो बहुलमिति…कर्मण्यु-; दत्त्वो -> दत्तो
+  p. 461: head Varga [?] -> 23; Ni. [3-6?] -> 3-7
+  p. 462: Pā. [6-4-?] as read -> 8-4-50 [as printed; for 7-4-50] (tāsastyor lopaḥ); Saṃhitā 75.4 accents as printed (अ॑सि zoomed 600)
+  p. 463: head "Aṣṭaka 1 … Varga [?]" -> prints Aṣṭaka 2, Varga 23; bhāṣya उ. [४-१२४?] -> ४-१२९; सखिवदेत्यंतं -> सखिवदत्यंतं; ण्यते इत्यादि । आद्यु- -> ण्यत इत्याद्यु-; tail Uṇ. [4-124?] -> 4-129; Pā. [3-1-?] -> (no sūtra number printed)
+  p. 464: grammar Uṇ. [4-124?] -> 4-129; Saṃhitā 75.5 accents as printed
+  p. 465: head Varga [?] -> 23; Ni. [4-19?] -> 4-19; vol. 1 p. 642 [as read, ?] -> 647
+  p. 466: Ni. [3-4?] -> 3-13 [as printed]
+  p. 467: head Varga [?] -> 24; end note vargas reconciled
+  Generic "doubtful places [?]" labels of bhāṣya headings left as they are. No doubts for the doubts page in Sūkta 75.
