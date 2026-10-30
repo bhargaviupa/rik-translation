@@ -15135,4 +15135,57 @@ In this ṛk there is a prayer of Agastya addressed to the Aśvin deities. Here 
 
 ---
 
-**Progress note:** printed p. 542 (PDF 562) done — Sūkta 180 Ṛk 8 Special Topics (kārādhunī, virudra, narāṃ nṛṣu) and grammar begun (continues p. 543). Next: printed p. 543 (PDF 563). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 543  (PDF 563)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 543.)*
+
+- ***praśastaḥ*** — root *śaṃsu stutau*; the suffix *kta*; by "*anuditāṃ hala…*" (Pā. Sū. 6-4-37 [?]) elision of the penultimate nasal; by "*gatir anantaraḥ*" (Pā. Sū. 6-2-49 [?]) the *gati* (*pra*) takes the *udātta* accent.
+- ***citayat*** — root *citī saṃjñāne*; after the causative stem, *leṭ*, third person singular, *tip*; elision of the *i*; the *aṭ* augment; by the statement "*saṃjñāpūrvako vidhir anityaḥ*", since *ṇic* is the cause, *guṇa* does not occur for the short penultimate vowel of the root; since *śap* is the cause, *guṇa* for *ṇic* and the *ay* substitution; being in an *atiṅanta* word-position, the *nighāta* accent occurs. ‖ 8 ‖
+
+---
+
+**Sūkta 180, Ṛk 9**
+
+**Saṃhitā-pāṭha**
+
+> प्र यद्वहेथे महिना रथस्य प्र स्यन्द्रा याथो मनुषो न होता ।
+> धत्तं सूरिभ्य उत वा स्वश्व्यं नासत्या रयिषाचः स्याम ॥ ९ ॥
+
+**Pada-pāṭha**
+
+> प्र । यत् । वहेथे इति । महिना । रथस्य । प्र । स्यन्द्रा । याथः । मनुषः । न । होता ।
+> धत्तम् । सूरिऽभ्यः । उत । वा । सुऽअश्व्यम् । नासत्या । रयिऽसाचः । स्याम ॥ ९ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवां रथस्य गमनसाधनस्य महिना महत्त्वेन यद्यस्मात्र [?] वहेथे धारयथो यज्ञम् । यद्वा । रथस्य स्वर्गगमनसाधनस्य यागस्य धुरं वहथः । तथा हे स्यन्द्रा स्यन्दनशीलौ युवां याथः । गच्छथः । स्वस्थानं यज्ञारम्भे आगच्छथः यज्ञसमाप्तौ पुनर्गच्छथश्च । तत्र दृष्टान्तः । मनुषो होता मनुष्यस्य यजमानस्य होता यथा यज्ञप्रारम्भे आगच्छति कर्मणि निर्वृत्ते पुनरपगच्छति तद्वत् । आगमनसमये सूरिभ्यः स्तोतृभ्यो धत्तम् । धारयतं फलम् । उत वा स्वश्व्यं शोभनाश्वसमूहं धत्तम् । नासत्या । सत्सु भवौ सत्यौ । न असत्यौ नासत्यौ । हे ताद्दशौ त्वदनुग्रहाद्रयिषाचो धनसमवायिनः स्याम । भवेम ॥ [as read; a few words doubtful [?]]
+
+*Gist:* The Aśvins, by the greatness of their chariot (or of the sacrifice), come, bear the sacrifice, and depart like a priest after the rite; they bestow rewards and good horses; may we be enriched.
+
+**Pratipadārtha**
+
+(*he*) **nāsatyā** — O Nāsatyas (who are ever in truthful acts); **yat** — because; (**yuvām** — you two); **rathasya** — of (your chariot, the means of going); **mahinā** — by greatness; **pra vahethe** — you bear (support) the sacrifice; [or **mahinā** — by own greatness; **rathasya** — of the sacrifice, the means of going to heaven; **pra (vahethe)** — you bear the leadership;] (*he*) **syandrā** — O Aśvins whose nature is to glide, to go quickly; **manuṣaḥ hotā na** — like the *hotṛ* of the sacrificer (who comes at the beginning of the sacrifice and goes away after the rite); **yāthaḥ** — you go (after the sacrifice, to your own place); **sūribhyaḥ** — to the praisers (who have come for the sacrifice); **dhattam** — you bear the fruit (you favour); **uta svaśvyam vā** — or good horses (you favour); (**tat** — therefore) **rayiṣācaḥ** — endowed with wealth; **syāma** — may we be (by your favour).
+
+### Printed p. 544  (PDF 564)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 544.)*
+
+**Bhāvārtha**
+
+O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the sacrifice and, having carried out the sacrifice, you go away to your own place like a *hotṛ* priest after the rite; when you come to the sacrifice you bestow on the praisers excellent horses and the like; being such, favour us also with wealth and the like.
+
+**Printed English**
+
+> When, by the virtue of your chariot, you come (to the sacrifice), and when, like the ministering priest, (after discharging his function), you depart, gliding away, you give to the devout (worshippers a reward), though it be store of good horses: may we be enriched, Nasatyas, (by your favour,
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***rathasya*** — here the word *ratha* may mean the chariot of the Aśvin deities engaged in travelling; or, Sāyaṇa has explained, this word may be a synonym of the sacrifice (*yajña*), which is the means of going to heaven. "*rathaḥ raṃhater gatikarmaṇaḥ …*" and so on: the derivation of the Nirukta-writers has been told, and the special meanings of this word have been told earlier. "*rathaṃ raṃhaṇam ādityaṃ raṃhaṇaś cāsau muhūrte muhūrte asya nāvasthāyi syāt*" [as read [?]] — since the Āditya moves constantly, without rest for a moment, that name is explained, as already told. Formed from the root *raṃh*, which has the sense of motion, this word may also be used in the ṛk at hand as a synonym of the sacrifice, the means of going.
+
+***rathasya mahinā pra vahethe*** — Sāyaṇa has shown that two kinds of construction are possible for this: first,
+
+1. by the greatness of your chariot, which is the means of going, you bear the sacrifice; and second, …
+
+---
+
+**Progress note:** printed p. 544 (PDF 564) done — Sūkta 180 Ṛk 8 complete; Ṛk 9: Saṃhitā…Special Topics begun (rathasya; continues p. 545). Next: printed p. 545 (PDF 565). Open flags: refs [?]; review/doubts_v13.json.
