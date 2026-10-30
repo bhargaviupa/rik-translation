@@ -3118,5 +3118,29 @@
   ],
   "note": "Rik 7 bhashya dense: 'krantenocano va', 'cayaniyah', 'durpayonau' read approx",
   "answer": ""
+ },
+ {
+  "pdf": 369,
+  "printed": 349,
+  "crop": [
+   0.05,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta arka quotes and refs small; Rg ref 1-10-1; dasa Nirukta ref 2-19",
+  "answer": ""
+ },
+ {
+  "pdf": 370,
+  "printed": 350,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra/Unadi numerals small type",
+  "answer": ""
  }
 ]

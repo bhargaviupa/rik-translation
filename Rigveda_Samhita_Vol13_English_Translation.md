@@ -9074,4 +9074,41 @@ In the sentence *kaviḥ arkasātau rapat* — "*yadvā etannāmarṣiḥ annār
 
 ---
 
-**Progress note:** printed p. 348 (PDF 368) done — Sūkta 174 Ṛk 7 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun, continues p. 349). Next: printed p. 349 (PDF 369). Open flags: Ṛk 7 Pada word after upabarhaṇīm [?]; bhāṣya doubtful [?]; review/doubts_v13.json.
+### Printed p. 349  (PDF 369)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+…it is said that all the deities who are worthy of worship are denoted by the word *arka*: "*arko devo bhavati yad enam arcanti*" [as read: [?]] — in the matter of worshipping the deities or others, the mantra that serves as the means of worship is itself called *arka*; "*arkam annaṃ bhavaty arcatīti bhūtāni*" — the food with which beings are satisfied and which they honour is also known by the word *arka*; for the word *arka* he shows three kinds of derivation: "*arcyate iti arkaḥ, arcanasādhanam arkaḥ, arcananimittam asi arkaḥ*", and "*arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā*" — the tree, being surrounded by its bitterness (acrid quality), also is denoted by the word *arka*: this is the meaning he has given. And again,
+
+> गायन्ति त्वा गायत्रिणोऽर्चन्त्यर्कमर्किणः । ब्रह्माणस्त्वा शतक्रत उद्वंशमिव येमिरे ॥
+
+> *gāyanti tvā gāyatriṇo 'rcanty arkam arkiṇaḥ | brahmāṇas tvā śatakrata ud vaṃśam iva yemire ‖*
+
+(Ṛ. Saṃ. 1-10-1 [?]) — quoting this ṛk he explains that the words *arka*, *arkin* mean "worthy of worship" and "those who worship". By this, two kinds of explanation by Sāyaṇa are given here.
+
+***dāsāya kṣāṃ upabarhaṇīṃ kaḥ*** — "*dāsa* is *dāso dasyater upadāsayanti karmāṇi*" (Ni. 2-19 [?]) — because the *asura*, by doing evil acts abundantly, is a doer of acts, he is called *dāsa*; Sāyaṇa has explained "*prāṇyupakṣayitre asurāya*" — "to the *asura* who destroys creatures greatly": Indra made the earth a pillow to him, "*hatvā bhūmāv apātayeḥ*" — he killed the *asura* and made him lie upon the earth: so the meaning is given. The word *kṣā* is read among the names of the earth (Ni. 1-… [?]) and "*kṣā kṣiyater nivāsakarmaṇaḥ*" (Ni. 2-5 [?]) — the word *kṣā*, formed from the root *kṣi*, meaning "to dwell", is used in the sense of earth, Yāska explains.
+
+***maghavā*** — the word *magha* is read among the names of wealth (Ni. 2-10 [?]). Because it is used in the sense of wealth, Indra, having wealth, is meant by the word *maghavā*.
+
+***tisraḥ dānucitrāḥ karat*** — Sāyaṇa has explained two meanings for the word *tisraḥ* and for the word *dānu*, and given two meanings for the sentence. In the first meaning: the acts that are performed are in the form of *dārśika* (relating to the new-moon sacrifice, *darśa*), in the form of the *pāśuka* (relating to the animal sacrifice) and the *saumika* (relating to the Soma sacrifice) — *tisraḥ bhūmīḥ*, the three kinds of forms; and since the places where those acts are performed are the earth, the atmosphere and the heaven, they are worlds; and "*dānena dhanair deyaiḥ vā*" — those acts, when giving results, are accumulated by gifts of wealth, or by (gifts of) other worthy articles that are fit for giving: he has explained.
+
+### Printed p. 350  (PDF 370)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+In this meaning, the word *dānucitrāḥ*, "because it is giving", has been explained as "*cāyanīyāḥ*" ("to be gathered").
+
+In the second meaning — "*ayorajatahiraṇmayīḥ purīḥ dānucitrāḥ khaṇḍanena citrā akarot*" — he has explained that he made the iron, silver and golden cities wonderful by breaking them. Since it is said "*atha parokṣakṛtaḥ*", although for this sentence two meanings, a historical (*itihāsa*) and a *tattva* ("philosophical") one, can be given, he has described only the historical meaning. Indra, with his thunderbolt, destroyed the three cities, of iron, silver and gold, which the *asuras* had built for their own protection by oppressing the world, and he broke them so that they became variegated in colour. In this sense, the word *dānu*, derived from the root *do avakhaṇḍane*, means "cutting": the word *dātu* is formed and is used in the sense of "breaking". (Though it would be possible to describe the other sense — that Indra is the *jñānin* (knowing one), that the three are the *tāmasa*, *rājasa* and *sāttvika* tendencies in the form of cities, and that he destroyed them — this he has not described here.)
+
+***duryoṇe kuyavācaṃ mṛdhi śret*** — in this sentence, "*duṣpayonau sthāne kutsitaṃ śabdāyantaṃ asuram*" — a single meaning is explained: Indra destroyed the *asura* who makes sounds that are distorted and bad in an evil place. In the second meaning, to this word *duryoṇe* he gives "*etannāmakasya rājñaḥ prītyarthaṃ etannāmānam asuram*": it is explained that Indra, trusting a king known by the name *Duryoṇa*, destroyed in battle the *asura* named Kuyavāc. Sāyaṇa has explained the sense of these two sentences with the words "*atra parokṣakṛtaḥ*".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***rapat*** — root *rapa śabde*; *laṅ*, third person singular; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75 [?]) the augment *a* does not occur; because it is in *pādādi* position, no *nighāta*; the root accent remains.
+- ***arkasātau*** — *arkasya sātiḥ yasmin*, locative; in the bahuvrīhi, the fore-member keeps its natural accent.
+- ***dāsāya*** — root *dasi sevane*; by "*daṃse ḥ ṣṭaṭanau nalopaś ca*" (Uṇ. Sū. 5-… [?]) the suffix *ṭa* or *ṭan*; the *n* of the root is dropped; *ā* substitution; by "*ciṭuṭū*" (Pā. Sū. 1-3-7 [?]) *ṭ* is dropped; the suffix accent is end-*udātta*.
+- ***kaḥ*** — root *ḍukṛñ karaṇe*; *luṅ*, second person singular, *sip*; the *i* is dropped; by "*mantre ghasa*…" (Pā. Sū. 2-4-80 [?]) *luk* for *cli*; for the suffix being the cause, guṇa of the *ik*…
+
+---
+
+**Progress note:** printed p. 350 (PDF 370) done — Sūkta 174 Ṛk 7 Special Topics (arka, dāsa, tisraḥ dānucitrāḥ, duryoṇe); grammar begun (continues p. 351). Next: printed p. 351 (PDF 371). Open flags: Nirukta/Ṛg refs [?]; sūtra numerals [?]; review/doubts_v13.json.
