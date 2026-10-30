@@ -3326,4 +3326,54 @@ Both Indra and the Marut-gods are of great power; both are independent in their 
 
 ---
 
-**Progress note:** printed p. 148 (PDF 168) done — Sūkta 169 Ṛk 1 through Special Topics (continues p. 149). Next: printed p. 149 (PDF 169). Open flags: small-type numerals [?]; Ṛk 1 bhāṣya [?] words; review/doubts_v13.json.
+### Printed p. 149  (PDF 169)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9"; the Special Topics of Ṛk 1 continue.)*
+
+(*tyajasaḥ* continued) … it is explained that the word means "from abandonment". Many mighty persons, in relation to other powerful persons, are accustomed to foster their friendship for some purpose or other. Indra, though he was independent in this way and abandoned them (the Marut-gods) at the time of their very origin, is afterwards in friendship with them; this shows that Indra's abundant greatness is made manifest. Thus the meaning is described.
+
+In the second meaning, the sense "anger" is given to the word *tyajasaḥ*. The word *tyajas* is read among the names of anger (Ni. 2-[?]). Indra, regarding them as enemies and knowing, at the very time of their origin, that they would act to subdue him, though angry with them, afterwards becomes *varūtā* — one who protects them: so the glory of Indra is said to be praiseworthy. This meaning is explained.
+
+In the third meaning, in "*maruto'pi tyāgāt vṛṣṭyādi viṣayāt vārayitāsi*": because Indra makes the Marut-gods refrain (from) the work of bringing about rain, Indra is the *marutāṃ vedhāḥ vidhātaḥ* — one who is the maker in respect of the Marut-gods; thus Indra's greatness is described.
+
+***cikitvān na sumnā vanuṣva*** — the word *cikitvān* means in general "one who has consciousness, one who has knowledge"; but here, "*asmadanugrahaviṣayajñānopetaḥ*" — one who has the knowledge of favouring us, who perform sacrifices — is the sense explained. The word *sumnā* is read among the names of happiness (Ni. 3-[?]); therefore, "*marudāyattāni vṛṣṭirūpāṇi*": the happiness favoured to the sacrificer by Indra is that which is governed by the Marut-gods, in the form of rain; and by this explanation it is wished that Indra may favour us, the sacrificers, with all the happiness that arises through it.
+
+***tava hi preṣṭhā*** — by this sentence it is described that happiness of this kind, since it arises from the Marut-gods who are Indra's friends, is an object of Indra's affection. And in the ṛk
+
+> अयमिन्द्रो मरुत्सखा
+
+> *ayam indro marutsakhā*
+
+(Ṛ. Saṃ. 8-[?]-[?]) the fact that Indra is a friend of the Marut-gods is stated.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *mahaḥ* (in *mahataḥ* the *ta* is dropped in the Veda); *asi* (root *as bhuvi*; *laṭ* 2nd singular; *nighāta*); *tyajasaḥ* (root *tyaja hānau*; affix *asun* by "*sarvadhātubhya asun*" (Uṇ.); accent on the first syllable because of the *n* marker; ablative singular form); *varūtā* (root *vṛñ varaṇe*; irregular, ending in *tṛc*, by "*grasitaskabhita…*", Pā. Sū. 7-2-34 [?]; accent on the last syllable since it ends in a *cit* affix).
+
+### Printed p. 150  (PDF 170)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+*(Grammar of Ṛk 1, continued; noted briefly)*: *varūtāḥ* (the nominative singular form); *preṣṭhā* (*atiśayena priyatamāni*; when the word *priya* shows the sense of excess, the affix *iṣṭhan* by "*atiśāyane tamabiṣṭhanau*", Pā. Sū. 5-3-55 [?]; the substitute *pra* for *priya* by "*priyasthira…*", Pā. Sū. 6-4-157 [?]; *prakṛtibhāva* by "*prakṛtyaikāc*"; *guṇa*; since the affix is *n*-marked, the first syllable is acute); *vedhaḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; when the preverb *vi* precedes, the affix *asun* by "*vidhāñjoḥ vedhaśca*" [as read] (Uṇ.); the substitute *vedha* for the preverb-bearing form; in the vocative *nighāta* by "*ānantritasya ca*", Pā. Sū. 8-1-19 [?]); *cikitvān* (root *kita jñāne*; for *liṭ* the substitute *kvasu* by "*kvasuśca*", Pā. Sū. 3-2-107 [?]; reduplication of the root; the accent of *vasu*; nominative singular form); *sumnā* (loss of *śi* by "*śeścchandasi bahulam*"); *vanuṣva* (root *vanu dāne* (a root of various meanings); *loṭ* 2nd singular; *nighāta*). ‖ 1 ‖
+
+*(ornamental rule — a printer's ornament)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अयुज्रन्त इन्द्र विश्वकृष्टीर्विदानासो निष्षिधो मर्त्यत्रा [?] ।
+> मरुतां पृत्सुतिर्हासमाना स्वर्मीळ्हस्य प्रधनस्य सातौ ॥ २ ॥
+
+> *ayujranta indra viśvakṛṣṭīrvidānāso niṣṣidho martyatrā [?] |*
+> *marutāṃ pṛtsutirhāsamānā svarmīḷhasya pradhanasya sātau ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अयुज्रन् । ते । इन्द्र । विश्वऽकृष्टीः । विदानासः । निःऽसिधः । मर्त्यऽत्रा [?] ।
+> मरुताम् । पृत्ऽसुतिः । हासमाना । स्वःऽमीळ्हस्य । प्रऽधनस्य । सातौ ॥ २ ॥
+
+> *ayujran | te | indra | viśva 'kṛṣṭīḥ | vidānāsaḥ | niḥ 'sidhaḥ | martya 'trā [?] |*
+> *marutām | pṛt 'sutiḥ | hāsamānā | svaḥ 'mīḷhasya | pra 'dhanasya | sātau ‖ 2 ‖*
+
+---
+
+**Progress note:** printed p. 150 (PDF 170) done — Sūkta 169 Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written. Next: printed p. 151 (PDF 171): bhāṣya of Ṛk 2. Open flags: small-type numerals [?]; Ṛk 2 Saṃhitā niṣṣidho/martyatrā [?]; review/doubts_v13.json.
