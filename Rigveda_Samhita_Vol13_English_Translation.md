@@ -2530,4 +2530,52 @@ The word *iṣa* is stated among the names of food (Ni. 2-7 [?]); the word *vṛ
 
 ---
 
-**Progress note:** printed p. 112 (PDF 132) done — SŪKTA 167 COMPLETE (printed pp. 72–112, 11 ṛks). Sūkta 168 begun (heading, bhāṣya, anuvāda). Next: printed p. 113 (PDF 133): Sūkta 168 heading block and Ṛk 1. Open flags: small-type numerals [?] (~70 entries in vol13/review/doubts_v13.json); no Kannada file (lean mode).
+### Printed p. 113  (PDF 133)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+**॥ ॐ ॥** Sūkta—168
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 168 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 6, 7 ‖
+Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · Chandas: ṛks 1–8 *jagatī*, 9–10 *triṣṭubh* (as read in the heading block [?]).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> यज्ञायज्ञा वः समना तुतुर्वणिर्धियंधियं वो देवया उ दधिध्वे ।
+> आ वोऽर्वाचः सुविताय रोदस्योर्महे ववृत्यामवसे सुवृक्तिभिः ॥ १ ॥
+
+> *yajñāyajñā vaḥ samanā tuturvaṇirdhiyaṃdhiyaṃ vo devayā u dadhidhve |*
+> *ā vo 'rvācaḥ suvitāya rodasyormahe vavṛtyāmavase suvṛktibhiḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> यज्ञाऽयज्ञा । वः । समना । तुतुर्वणिः । धियम्ऽधियम् । वः । देवऽयाः । ऊँ इति । दधिध्वे ।
+> आ । वः । अर्वाचः । सुविताय । रोदस्योः । महे । ववृत्याम् । अवसे । सुवृक्तिऽभिः ॥ १ ॥
+
+> *yajñā 'yajñā | vaḥ | samanā | tuturvaṇiḥ | dhiyam 'dhiyam | vaḥ | deva 'yāḥ | ū~ iti | dadhidhve |*
+> *ā | vaḥ | arvācaḥ | suvitāya | rodasyoḥ | mahe | vavṛtyām | avase | suvṛkti 'bhiḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वः समना समाकृतिर्न्यूनाधिकाभावलक्षणा यज्ञा यज्ञा सर्वेष्वपि यज्ञेषु तुतुर्वणिस्तूर्णवनिस्त्वरमाणा संभजमाना भवति । तुतुर्वणिस्तूर्णवनिरिति यास्कः ॥ नि. ६-१४ । तत्र त्यागावसर आगत्य हविः स्वीकृत्य वैकल्यपरिहारेण सफलं कुरुथेत्यर्थः । किञ्च वो यूयं धियं धियं युष्मत्सम्बन्धिवृष्टिप्रदानादिरूपं सर्वं कर्म देवयाः देवानात्मन इच्छन्तः [?] पूजयितार इव सन्तो दधिध्वे । धारयथ धारयध्वे वा । देवार्थहविराद्युत्पादनाय वृष्टिं कुरुथेत्यर्थः । यस्मादेवं कुरथ तस्माद्वो युष्मानर्वाचोऽभिमुखानहं ववृत्याम् । आवर्तयामि । किमर्थम् । रोदस्योर्द्यावापृथिव्योर्महते [?] ऽवसे रक्षणाय प्रीणनाय वा । तदपि किमर्थमिति । सुविताय सुष्ठु व्याप्ताय । कैः साधनैः । सुवृक्तिभिः शोभनावर्जनैः स्तोत्रैः ॥
+
+*Gist:* O Maruts, in every sacrifice your balanced hastening is felt; you come at the time of oblation, accept it and make it fruitful; you carry out every act (rain-giving and the like) as if you desired the gods; therefore, with good praises I turn you towards us, for the great protection of heaven and earth.
+
+### Printed p. 114  (PDF 134)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 168".)*
+
+**Pratipadārtha.** (*he marutaḥ* — O Marut-gods); *vaḥ* — your; *samanā* — an even mind (free from the feeling of "more" or "less"); *yajñāyajñā* — in every sacrifice too; *tuturvaṇiḥ* — hastening, pervading with speed; (*kiṃca* — and further); *vaḥ* — you; *dhiyaṃdhiyam* — every act of yours (of the form of giving rain and so on); *devayā u* — those serving the gods; *dadhidhve* — you bear (you carry out); (therefore) *vaḥ* — you; *rodasyoḥ* — of heaven and earth; *suvitāya* — well pervaded; *mahe avase* — for the great protection (for satisfaction); *suvṛktibhiḥ* — by auspicious praises; *arvācaḥ* — (towards us) facing us; *ā vavṛtyām* — I turn.
+
+**Bhāvārtha.** O Marut-gods, your equable mind (without more or less) pervades all sacrifices; and all your acts (the giving of rain and so on) you carry out as helpers of the gods (as if as bringers of the oblations and the like to the gods). Therefore, for our satisfaction and for the protection of heaven and earth and the sky, I face you towards us with beneficial praises.
+
+**English Translation (as printed):** Maruts, at every sacrifice your alacrity is uniform: you, verily, discharge your every function for the benefit of the gods: therefore, do I invite you to come hither, by sacred hymns, for (the sake of) your powerful protection of heaven and earth, and your beneficent praise.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***vaḥ samanā yajñāyajñā tuturvaṇiḥ*** — addressing the Marut-gods: "in all sacrifices, that is, at the times when the sacrifices are performed by the sacrificer, you favour with your presence for the acceptance of the oblation, and you are capable of being at hand in the sacrifice, without deficiency or excess" *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 114 (PDF 134) done — Sūkta 168 Ṛk 1 in progress (Special Topics begun; continues on p. 115). Next: printed p. 115 (PDF 135). Open flags: small-type numerals [?]; the chandas line of Sūkta 168 heading block (1–8 jagatī, 9–10 triṣṭubh vs. bhāṣya 'last three triṣṭubh'); review/doubts_v13.json.
