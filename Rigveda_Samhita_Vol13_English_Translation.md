@@ -6977,4 +6977,56 @@ Pointing out thus the difference between the singular and the dual uses, the B�
 
 ---
 
-**Progress note:** printed p. 278 (PDF 298) done — Sūkta 173 Ṛk 6 complete; Ṛk 7 Saṃhitā and Pada written. Next: printed p. 279 (PDF 299), Ṛk 7 bhāṣya. Open flags: Ṛg/Bṛhaddevatā/sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 279  (PDF 299)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे शूर शौर्योपेतेन्द्र समत्सु संग्रामेषु सतां त्वामेवाश्रित्य वर्तमानानां प्राणिनामुराणमुरूण्यतिप्रभूतानि बलादीनि कुर्वाणं प्रपथिन्तमं प्रकृष्टमार्गेतमं [?] सुकृतिनामुत्तममार्गभूतमिन्द्रं शत्रूणां दारकं त्वा त्वां परितंसयध्यै अवतंसीकर्तुं भूषणीकर्तुं भूषयितुं वा निमित्तेऽर्थे । मदे तव मदार्थं च सजोषसः सह सेवमानाः समानप्रीतयो वा क्षोणीः क्षोण्यः विशः परिजना मरुतः प्रयतन्ते । ईदृशास्ते । ये वाजैर्बलैरनुमदन्ति आनुकूल्यं मादयन्ति संग्रामे मरुतस्त्वामेव स्वामिनं कृत्वा मादयन्ति । हर्षयन्तीत्यर्थः । यद्वा । ये यजमाना वाजैर्हविर्भिर्मादयन्ति ते समानप्रीतियुक्तास्त एव मनुष्यभूता ऋत्विजो यजमानभूताः प्रजाः समत्सु सहमादनस्थानेषु याग्येषूक्तलक्षणविशिष्टं त्वामेव पूजयितुं तव मादाय च प्रयतन्ते ॥ [?]
+
+> *he śūra śauryopetendra samatsu saṃgrāmeṣu satāṃ tvām evāśritya vartamānānāṃ prāṇinām urāṇam urūṇy atiprabhūtāni balādīni kurvāṇaṃ prapathintamaṃ prakṛṣṭamārgetamaṃ [?] sukṛtinām uttamamārgabhūtam indraṃ śatrūṇāṃ dārakaṃ tvā tvāṃ paritaṃsayadhyai avataṃsīkartuṃ bhūṣaṇīkartuṃ bhūṣayituṃ vā nimitte 'rthe | made tava madārthaṃ ca sajoṣasaḥ saha sevamānāḥ samānaprītayo vā kṣoṇīḥ kṣoṇyaḥ viśaḥ parijanā marutaḥ prayatante | īdṛśās te | ye vājair balair anumadanti ānukūlyaṃ mādayanti saṃgrāme marutas tvām eva svāminaṃ kṛtvā mādayanti | harṣayantīty arthaḥ | yadvā | ye yajamānā vājair havirbhir mādayanti te samānaprītiyuktās ta eva manuṣyabhūtā ṛtvijo yajamānabhūtāḥ prajāḥ samatsu sahamādanasthāneṣu yāgyeṣūktalakṣaṇaviśiṣṭaṃ tvām eva pūjayituṃ tava mādāya ca prayatante ‖* [?]
+
+*Gist:* O hero Indra, who in battles do great things for those who depend on you, the best of paths for the righteous and destroyer of enemies — the Maruts (or the sacrificers), in agreement with one another, strive by their powers (or oblations) to honour you and to give you delight.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *śūra* — O heroic Indra; *ye* — which Maruts (deities); *vājaiḥ* — by their own strength; *sūriṃ cit* — you, the wise one; *anu madanti* — they follow (in order to be agreeable to you) and give delight; (*te* — those); *kṣoṇīḥ* — the retinue (the Marut deities); *sajoṣasaḥ* — serving together (in concert); *samatsu* — in battles; *satām* — to the creatures who take refuge in you; *urāṇam* — giving great strength; *prapathintamam* — the best path (for the righteous); *indram* — the destroyer of enemies; *tvā* — you; *paritaṃsayadhyai* — in order to adorn (them); *made* — for your delight (they strive); [or: *he śūra* — O heroic Indra; *ye* — which sacrificers; *vājaiḥ* — with oblations; *sūriṃ cit* — you, the wise; *anu madanti* — delight; (*te* — those); *kṣoṇīḥ* — sacrificers, the people; *sajoṣasaḥ* — with equal affection; *satām urāṇam* — giver of strength to those who take refuge in you; *prapathintamam* — the best of paths; *indram* — the destroyer of enemies; *tvā* — you; *paritaṃsayadhyai* — to worship; and *made* — for your delight; *samatsu* — in sacrifices, the places of delight (they strive)].
+
+**Bhāvārtha**
+
+O heroic Indra, to you, who give strength to those who take refuge in you, who are the best path for the righteous and the destroyer of enemies, the Maruts (or the sacrificers) strive by their own strength to give worship and delight.
+
+### Printed p. 280  (PDF 300)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Printed English**
+
+Those people, who, jointly worshipping Indra, diligently endeavour, O hero, to propitiate you, the invigorator in combats, the guide in the rightway: provide, for his gratification, with sacrificial viands.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk it is described that the Maruts (the Marut deities), the companions of Indra, ever practise and cause to practise the giving of strength to Indra in the time of battles, and that the extraordinary help of the Maruts is thus available. In the same way, the sacrificers also, when they perform sacrifices, strive to worship Indra in the sacrifices; this too is described.
+
+***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 2-17 [?]). And the Nirukta-writers, showing the derivation of this word, say:
+
+> समदः संमदो वा मदतेः ; संमुदो वा मदतेः ।
+
+> *samadaḥ saṃmado vā madateḥ; saṃmudo vā madateḥ |* [as read: [?]]
+
+(Ni. 9-17 [?]) — thus giving alternatives: the preposition *sam* joined with the root *mad* gives *samad*; or from the root *mud* ("to rejoice") with *sam* gives *samud*; so the derivation is shown. And, where the word *samatsu* is used —
+
+> आ जङ्घन्ति सान्वेषां जघनाँ उप जिघ्नते । अश्वाजनि प्रचेतसोऽश्वान्त्समत्सु चोदय ॥
+
+> *ā jaṅghanti sānv eṣāṃ jaghanāṁ upa jighnate | aśvājani pracetaso 'śvān samatsu codaya ‖*
+
+(Ṛ. Saṃ. 6-75-14 [?]) — quoting this ṛk, the special meaning of the word is shown there.
+
+***prapathintamam — sukṛtināṃ uttamamārgabhūtam*** — Indra, who shows the best path to the virtuous, is, by the non-difference of cause and effect, described as the best path itself.
+
+***indraṃ — śatrūṇāṃ dārakaṃ*** — the Nirukta-writers have explained the meaning of the word *indra* in many ways. Sāyaṇa follows "*indro 'rd 'śatrūṇāṃ dārayitā*" (Ni. 10-8 [?]) — Indra is the one who tears enemies apart — and so describes Indra here as the destroyer of enemies.
+
+---
+
+**Progress note:** printed p. 280 (PDF 300) done — Sūkta 173 Ṛk 7 Special Topics (indra discussion continues p. 281). Next: printed p. 281 (PDF 301). Open flags: Ṛk 7 bhāṣya partly doubtful [?]; Ṛg/Nirukta refs [?]; review/doubts_v13.json.
