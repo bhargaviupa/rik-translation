@@ -11149,17 +11149,17 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 **The boar (*Varāha*).** "Rudra, the Maruts and Vṛtra are figuratively called *Varāha*. In the Taittirīya Saṃhitā and the Brāhmaṇas, the form taken by the creator in raising the earth out of the midst of the water is this. Later, this became famous as an incarnation of Viṣṇu."
 
-**The tortoise (*Kūrma*).** "In other Vedas the tortoise is given a half-divine character, because 'it breaks all the water' (Vāj. Saṃ. 13-?); or it appears, under the name *Kaśyapa*, at the side of Prajāpati or as Prajāpati himself; in this form it is also called *Svayambhū* (Av. 19-?-?). In the Aitareya Brāhmaṇa it is said that Viśvakarman had promised to give the earth to this very Kaśyapa (Ai. Brā. 8-?-?). In the Śatapatha Brāhmaṇa it is said that Prajāpati, taking the form of a tortoise, created all beings (Śat. Brā. 7-?-?-?; 2-?-?-?). This form became famous in the Purāṇas as the Kūrma incarnation of Viṣṇu. In the Taittirīya Saṃhitā (Tai. Saṃ. 5-?-?-?) it is said that the *puroḍāśa* cake is transformed into a tortoise."
+**The tortoise (*Kūrma*).** "In other Vedas the tortoise is given a half-divine character, because 'it breaks all the water' (Vāj. Saṃ. 13-31); or it appears, under the name *Kaśyapa*, at the side of Prajāpati or as Prajāpati himself; in this form it is also called *Svayambhū* (Av. 19-53-10). In the Aitareya Brāhmaṇa it is said that Viśvakarman had promised to give the earth to this very Kaśyapa (Ai. Brā. 8-21-10). In the Śatapatha Brāhmaṇa it is said that Prajāpati, taking the form of a tortoise (Śat. Brā. 7-4-35), created all beings (Śat. Brā. 7-5-1-1). This form became famous in the Purāṇas as the Kūrma incarnation of Viṣṇu. In the Taittirīya Saṃhitā (Tai. Saṃ. 2-6-3-3) it is said that the *puroḍāśa* cake is transformed into a tortoise."
 
-**The monkey (*Vānaraḥ*).** "In 10-?-? there is a reference to an ape who was dear to Indra; the enraged Indrāṇī, angered by his gifts, drives him away; at last he gets back his first place."
+**The monkey (*Vānaraḥ*).** "In 10-86 there is a reference to an ape who was dear to Indra; the enraged Indrāṇī, angered by his gifts, drives him away; at last he gets back his first place."
 
-**The frogs (*Keppe*).** "The frogs awakened by the rain (7-?) are said to give cows and long life, and there is a belief that mantras and knowledge come to them."
+**The frogs (*Keppe*).** "The frogs awakened by the rain (7-103) are said to give cows and long life, and there is a belief that mantras and knowledge come to them."
 
 **Birds (*Pakṣi*).** "In the Vedic histories birds too have a part. Soma is compared to a bird, and is called a bird. Agni in particular is compared to birds or called a bird. Sūrya too has the name *bird*; in two contexts he has the name *Garutmān*. In the Purāṇas, Garuḍa as the vehicle of Viṣṇu must have this very basis. The chief work of the bird in the Veda is, in the form of an eagle, bringing Soma-juice for Indra. In the manner of the Kāṭhaka Upaniṣad, Indra himself, in the form of an eagle, takes the Soma or nectar."
 
-"Omen-birds and other animals are sent by some deities. The owl and the pigeon are Yama's messengers. In the Sūtra books the owl is a messenger of evil deities, and the fierce bird stained with blood, and the pigeons that are wild, are Yama's messengers. In the Ṛgveda there is a prayer to an omen-bird that it may indicate only good omens (2-?-?)."
+"Omen-birds and other animals are sent by some deities. The owl and the pigeon are Yama's messengers. In the Sūtra books the owl is a messenger of evil deities, and the fierce bird stained with blood, and the pigeons that are wild, are Yama's messengers. In the Ṛgveda there is a prayer to an omen-bird that it may indicate only good omens (2-42-43)."
 
-**Fierce animals.** "These are seen as Rākṣasas or as possessing the characteristics of Rākṣasas. In the Ṛgveda, to indicate Rākṣasas, the word *mṛga* ('beast') is also used (1-?-?; 5-?-?; 5-?-?). A Rākṣasa named Ūrṇavābha (of the kind of the spider) is mentioned three times (2-?-?; 8-?-?; 8-?-?); and another is Uraṇa, that is, a ram (2-?-?)."
+**Fierce animals.** "These are seen as Rākṣasas or as possessing the characteristics of Rākṣasas. In the Ṛgveda, to indicate Rākṣasas, the word *mṛga* ('beast') is also used (1-80-7; 5-29-4; 5-32-3). A Rākṣasa named Ūrṇavābha (of the kind of the spider) is mentioned three times (2-11-8; 8-32-26; 8-66-2); and another is Uraṇa, that is, a ram (2-14-4)."
 
 ### Printed p. 685 (PDF 701)
 
