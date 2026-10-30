@@ -797,7 +797,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > विश्वाद्रिरिक्षोरुत वा निनित्सोरभिह्रुतामसि हि देव विष्पट् ।
 
-> *viśvādriristhorutra vā ninitsorabhihrutāmasi hi deva viṣpaṭ* — [as printed: *viśvād riśiṣoruta vā ninitsorabhihrutām asi hi deva viṣpaṭ* — the first words are doubtful [?]]
+> *viśvādririkṣoruta vā ninitsorabhihrutāmasi hi deva viṣpaṭ [?]*
 
 (Ṛ. Saṃ. 1-189-6 [?]) — for the word *abhihrutām* in this ṛk Sāyaṇa explains: "*abhihrutām abhimukhyena kuṭilaṃ kurvatāṃ dviṣām*" — of the enemies who make crooked [trouble] especially, causing us pain. Besides this, the word *vihruta*, with the prefix *vi* added to the root *hru*, occurs
 
@@ -839,4 +839,58 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ---
 
-**Progress note:** printed p. 40 (PDF 60) done — Sūkta 166 Ṛk 8 complete. Next: printed p. 41 (PDF 61): Ṛk 9. Open flags: small-type numerals [?]; the viśvād… citation on p. 39; review/doubts_v13.json.
+#### Ṛk 9
+
+### Printed p. 41  (PDF 61)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)*
+
+**॥ संहितापाठः ॥**
+
+> विश्वानि भद्रा मरुतो रथेषु वो मिथस्पृध्येव तविषाण्याहिता ।
+> अंसेष्वा वः प्रपथेषु खादयोऽक्षो वश्चक्रा समया वि वावृते ॥ ९ ॥
+
+> *viśvāni bhadrā maruto ratheṣu vo mithaspṛdhyeva taviṣāṇyāhitā |*
+> *aṃseṣvā vaḥ prapatheṣu khādayo 'kṣo vaścakrā samayā vi vāvṛte ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वानि । भद्रा । मरुतः । रथेषु । वः । मिथःस्पृध्याऽइव । तविषाणि । आऽहिता ।
+> अंसेषु । आ । वः । प्रऽपथेषु । खादयः । अक्षः । वः । चक्रा । समया । वि । ववृते ॥ ९ ॥
+
+> *viśvāni | bhadrā | marutaḥ | ratheṣu | vaḥ | mithaḥspṛdhyā 'iva | taviṣāṇi | ā 'hitā |*
+> *aṃseṣu | ā | vaḥ | pra 'patheṣu | khādayaḥ | akṣaḥ | vaḥ | cakrā | samayā | vi | vavṛte ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वो रथेषु युष्मत्संबन्धिरथेषु रंहणसाधनेषु विश्वानि भद्रा सर्वाणि कल्याणानि भोगयोग्यानि द्रव्याण्यस्मभ्यं प्रदेयानि फलानि वाहितानि । तथा वोऽसेष्वा [?] तदुसलक्षितभुजेष्वपि । आकारोऽस्यर्थे । मिथस्पृध्येव बलाधिक्यात्परस्परस्पर्धाविषयाणि तविषाणि बलानि अंसेषूक्तलक्षणान्यायुधानि वाहितानि । किञ्च वः प्रपथेषु । प्रगताः पन्थानो येषु विश्रामस्थानेषु तानि प्रपथानि । तेषु खादयः खाद्यानि भक्ष्याण्याहितानि । यद्वा । प्रगतः पन्था यैस्तेषु पादाग्रेषु खादयः स्थिरा आभरणविशेषा आहिताः । किञ्चाक्षो वो युष्मत्संबन्धी रथ्योऽक्षः [?] चक्रा तेक्रोपनिबद्धानि [?] चक्राणि समया समीपे तेषां परिसरे वि ववृते । विशेषेण वर्तते । न कदाचिदपि चक्रेषु संलग्नो भवतीत्यर्थः । यस्मादेवं देवयजनगमनसाधनानि सन्ति तस्माच्छीघ्रमागच्छतेत्यभिप्रायः ॥
+
+*Gist:* O Maruts, in your chariots all enjoyable good things are laid, ready to be given to us; on your shoulders are weapons of rival strength; in your resting-places are food, or firm ornaments on your feet; and the axle turns evenly in the wheels — everything is ready for the journey to the sacrifice, so come quickly.
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; *vaḥ* — your; *ratheṣu* — in the chariots; *viśvāni bhadrā* — all the means of enjoyment, or the things to be given to us; *ā hitā* — are set; *aṃseṣu ā* — on your shoulders too; *mithaspṛdhyā iva* — as if in rivalry with one another; *taviṣāṇi* — strengths (weapons that display strength); (*ā hitā* — are set); (and) *vaḥ* — your; *prapatheṣu* — at the resting-places on the road; *khādayaḥ* — edible things *[continues on the next page]*
+
+### Printed p. 42  (PDF 62)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* …are set; [or, *prapatheṣu* — at the ends of the feet; *khādayaḥ* — firm special ornaments are set]; (*kiṃce* — and further) *vaḥ akṣaḥ* — the axle (of your chariot); *cakrā* — (of the wheels fixed to it); *samayā* — near; *vi vāvṛte* — turns specially.
+
+**Bhāvārtha.** O Maruts, in your chariots all the means of enjoyment, and things to be given to us, are ready; your protecting weapons are borne on your arms; at your resting-places on the road, eatables are ready (or special ornaments are put on the ends of your feet); the wheels of your chariot are fitted properly to the axle; (so, since everything is ready for your journey, set out quickly for our sacrificial hall).
+
+**English Translation (as printed):** Maruts, all good things are in your cars: on your shoulders abides emulous strength: at your resting-places on the road refreshments (are ready): the axle of your (chariot) wheels holds them firmly together.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***viśvāni bhadrā maruto ratheṣu vaḥ*** — in this ṛk the ṛṣi, wishing the Maruts' coming, describes everything as ready for their coming. O Maruts, in your chariots everything excellent and choice is laid ready; those things are fit for enjoyment; they have been laid in your chariots in order to be given to us, who praise these [gods]: this is the main purport of this sentence.
+
+***ratheṣu*** — for the word *ratha*, Yāska in his Nirukta says:
+
+> रथो रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रमतेर्वा स्याद्विपरीतस्य । रममाणोऽस्मिंस्तिष्ठतीति वा । रसतेर्वा [?]
+
+> *ratho raṃhater gatikarmaṇaḥ | sthiratervā syādviparītasya | ramatervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā | rasatervā [?]*
+
+(Ni. 9-11 [?]) That is: the word may be formed from the root *raṃh*, which indicates motion, or from the root *sthira* in the opposite sense. Because this always goes about (travels), it is called *ratha*. Or the warrior (*yodha*) who sits in it becomes steady: when one sits on horses and other vehicles the body shakes about; when one sits in a chariot it does not shake about, one can sit steady; therefore it is called *ratha*. Or, since the one who sits in it enjoys himself while he sits there, it is called *ratha*: thus he has explained the literal sense.
+
+***mithaspṛdhyeva*** — *balādhikyātparasparaspardhāviṣayāṇi*: "through the abundance of strength, things about which they compete with one another"; rubbing against each other (taking spar), "clashing against each other" (English in the source). Iron and the like *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 42 (PDF 62) done — Sūkta 166 Ṛk 9 in progress (Special Topics: mithaspṛdhyeva; continues on p. 43). Next: printed p. 43 (PDF 63). Open flags: small-type numerals [?]; Ṛk 9 bhāṣya words marked [?]; review/doubts_v13.json.
