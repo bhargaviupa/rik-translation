@@ -3850,5 +3850,29 @@
   ],
   "note": "Rg refs 3-20-4, 1-100-15, 10-53-4; Nirukta 3-8 small; quotes read approx",
   "answer": ""
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "crop": [
+   0.05,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Brhaddevata refs (7-66..72? first digit 2/7) and verse texts read approx; Ait.Br 3-31-5?",
+  "answer": ""
+ },
+ {
+  "pdf": 430,
+  "printed": 410,
+  "crop": [
+   0.3,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 4-4-3, 7-61-3 small; quotes approx",
+  "answer": ""
  }
 ]
