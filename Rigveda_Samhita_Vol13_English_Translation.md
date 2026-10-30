@@ -1526,4 +1526,62 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 64 (PDF 84) done — Sūkta 166 Ṛk 13: text, Pratipadārtha, Bhāvārtha, English, Special Topics begun (jāmitvam; may continue on p. 65). Next: printed p. 65 (PDF 85). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 65  (PDF 85)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Special Topics (continued).**
+
+***yuge*** — *yugaśabdaḥ kālopalakṣakaḥ | utkṛṣṭe mahati kāle 'tīte 'pi*: the word *yuga* indicates time. Here *pare yuge* means "even after a very long time has passed". The relation between the sacrificer, that is, us, and the Marut-gods is not one that lasts only a short time; it is for a long time: this is the purport.
+
+***śaṃsam*** — *asmābhiḥ kriyamāṇāṃ stutim*: the praise being made by us. The root *śaṃs* means "to say", so *śaṃsa* means "saying". According to the context, in many ṛks the meaning is given as praise (*stotra*) or curse (*śāpa*).
+
+> यजाम देवान्यदि शक्नवाम मा ज्यायसः शंसमा वृक्षि देवाः ।
+
+> *yajāma devānyadi śaknavāma mā jyāyasaḥ śaṃsamā vṛkṣi devāḥ |*
+
+(Ṛ. Saṃ. 1-42-13 [?])
+
+> अवादेहो दिव आ दस्युमुच्चा प्र सुन्वतः स्तुवतः शंसमावः ॥
+
+> *avādeho diva ā dasyumuccā pra sunvataḥ stuvataḥ śaṃsamāvaḥ ‖*
+
+(Ṛ. Saṃ. 1-33-6 [?])
+
+> आ वो रुवण्युमौशिजो हुवध्यै घोषेव शंसमर्जुनस्य नंशे ।
+
+> *ā vo ruvaṇyumauśijo huvadhyai ghoṣeva śaṃsamarjunasya naṃśe |*
+
+(Ṛ. Saṃ. 1-122-5 [?]) — in these ṛks the word *śaṃsa* has the senses praise, eulogy, extolling; and in
+
+> मा नः शंसो अररुषो धूर्तिः प्रणङ्मर्त्यस्य ।
+
+> *mā naḥ śaṃso araruṣo dhūrtiḥ praṇaṅmartyasya |*
+
+(Ṛ. Saṃ. 1-18-3) and ṛks like it the word *śaṃsa* is used in the senses of defamation, evil speech, and curse.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *jāmitvam* (*jāmeḥ bhāvaḥ*; the suffix *tva* by *tasya bhāvas tvatalau*). *yuge* (root *yujir yoge*; *ghañ*; *cajoḥ ku ghiṇṇyatoḥ* Pā. 7-3-52 turns *j* of the root into *g*; in the sense of a particular time it is in the *uṅbādi* class, so *uṅbādīnāṃ ca* Pā. 6-1-160 gives the final acute; by the force of the text the *laghūpadha-guṇa* that the suffix would bring does not apply). *amṛtāsaḥ* (*na vidyate mṛtaṃ maraṇaṃ yeṣāṃ te*; *ājjaser asuk* Pā. 7-1-50 gives *asuk* to *jas*; *āmantritasya ca* Pā. 8-1-19 gives *nighāta*). *(Printer's signature at the foot: "XIII 5".)*
+
+### Printed p. 66  (PDF 86)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Vyākaraṇa-prakriyā (continued).** *āvata* (root *ava rakṣaṇe*; *chandasi luṅlaṅliṭaḥ* Pā. 3-4-6 gives *laṅ* in the sense of the imperative; 2nd plural; no *nighāta* by the connection with *yad*; the *āṭ* augment being acute gives the initial acute). *ayā* (*anayā*; by *vyatyaya*, in the Veda the *n* is dropped). *dhiyā* (instrumental singular; *sānekācaś ca tṛtīyādiḥ* Pā. 6-1-168 gives the acute to the case-ending). *āvya* (prefix *ā*; root *ava rakṣaṇe*; *ktvā*; *samāse 'napūrve ktvo lyap* Pā. 7-1-37 gives *lyap*; as it has *p* it is *anudātta*). *naraḥ* (root *nṛ nayane*; *kvip*; *jas* following, *ṛto ṅisarvanāmasthānayoḥ* Pā. 7-3-110 gives guṇa; *ra*-ending). *cikitrire* (root *kita jñāne*; *chandasi luṅlaṅliṭaḥ* gives *liṭ* in the sense of the present; by *vyatyaya* the third plural suffix comes in place of the second plural; *liṭas tajhayor eśirec* Pā. 3-4-81 gives *ire* for it; *bahulaṃ chandasi* gives *ruk*; as it is *ṭit* the initial acute; *kuhoś cuḥ* gives *cu* to the reduplicate; *nighāta* after a non-*tiṅanta*). ‖ 13 ‖
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> येन दीर्घं मरुतः शूशवाम युष्माकेन परीणसा तुरासः ।
+> आ यत्ततनन्वृजने जनास एभिर्यज्ञेभिस्तदभीष्टिमश्याम् ॥ १४ ॥
+
+> *yena dīrghaṃ marutaḥ śūśavāma yuṣmākena parīṇasā turāsaḥ |*
+> *ā yattatananvṛjane janāsa ebhiryajñebhistadabhīṣṭimaśyām ‖ 14 ‖*
+
+**॥ पदपाठः ॥**
+
+> येन । दीर्घम् । मरुतः । शूशवाम । युष्माकेन । परीणसा । तुरासः ।
+> आ । यत् । ततनन् । वृजने । जनासः । एभिः । यज्ञेभिः । तत् । अभि । इष्टिम् । अश्याम् ॥ १४ ॥
+
+> *yena | dīrgham | marutaḥ | śūśavāma | yuṣmākena | parīṇasā | turāsaḥ |*
+> *ā | yat | tatanan | vṛjane | janāsaḥ | ebhiḥ | yajñebhiḥ | tat | abhi | iṣṭim | aśyām ‖ 14 ‖*
+
+---
+
+**Progress note:** printed p. 66 (PDF 86) done — Sūkta 166 Ṛk 13 complete; Ṛk 14 Saṃhitā and Pada written. Next: printed p. 67 (PDF 87): bhāṣya of Ṛk 14. Open flags: small-type numerals [?]; review/doubts_v13.json.
