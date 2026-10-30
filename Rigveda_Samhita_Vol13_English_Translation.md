@@ -209,10 +209,84 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 > *āmādeṣāṃ bhiyasā bhūmirejati naurna pūrṇā kṣarati vyathiryatī | dūredṛśo ye citayanta emabhirantarmahe vidathe yetire naraḥ ‖*
 
-(Ṛ. Saṃ. 5-59-2 [?]) has translated the word *vidathe* as "assembly" (the great sacrificial assembly) [in English in the source]; and giving his explanation of it, another scholar, a German, has given the meaning of this word and their opinions about its root, and at the end: "Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East, Vol. 32, p. 349–50.) Some say that the meaning of the word *vidatha* is a holy rite (*kriyā*) that is sacred, as the meaning of the word *veda* is sacred knowledge; but he decides that there is no doubt that *yajña-sabhā* ("sacrificial assembly") is the main sense of this word.
+(Ṛ. Saṃ. 5-59-2 [?]) has translated the word *vidathe* as "assembly" (the great sacrificial assembly) [in English in the source]; and, while giving its explanation, other German scholars have in the same way given the meaning of this word and their views on its root; and at the end he [Max Müller] says: "Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East, Vol. 32, p. 349–50.) Some say that the meaning of the word *vidatha* is a holy rite (*kriyā*) that is sacred, as the meaning of the word *veda* is sacred knowledge; but he decides that there is no doubt that *yajña-sabhā* ("sacrificial assembly") is the main sense of this word.
 
 The scholar Hermann Oldenberg, in explaining the meaning of the word *vidathe* in the ṛk Ṛ. Saṃ. 1-31-6 [?] in his work *Vedic Hymns*, has given his opinion thus. His words are quoted and then his opinions are given: "On the derivation and meaning of *vidatha* various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R. V, V. 59·2 (S. B. E. Vol. 32 p. 349 sp.) without trying to discuss here all different theories, I proceed to state my own opinion;" *[continues on the next page]*
 
 ---
 
-**Progress note:** printed p. 10 (PDF 30) done — Sūkta 166 Ṛk 2 in progress (Special Topics on vidatha continues, Oldenberg quotation). Next: printed p. 11 (PDF 31). Open flags: small-type reference numerals [?].
+### Printed p. 11  (PDF 31)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Special Topics (continued) — Oldenberg's note, in English in the source (Devanagari words as printed):** "I propose to derive विदथ (*vidatha*) from वि+धा (*vi+dhā*); The verb वि+धा means 'to distrbute [sic], to arrange, to ordain;' thus the original meaning of विदथ must be like the meaning of विधान (*vidhāna*), 'distribution, disposition, ordinance; In V. 3-6, we read विदथेषु अह्नां (*vidatheṣu ahnām*): this phrase receives its explanation by VII. (6-11 [sic] we may call attention also to VI. 51-2 within the sphere of the Vedic poets' thoughts, the most prominent example of something most artificially विहित (*vihita*) was the sacrifice. यज्ञ (*yajña*) and विदथ (*vidatha*), 'Sacrifice' and 'ordinance' became nearly synonymous. (III 3-3)……………… finally विदथ seems to mean 'the act of disposing of any business' or the like; this meaning appears, I believe, in some passages like the well-known phrase, बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*) — may we with Valiant men mightily raise our voice at the determining of ordinances. Thus the word विदथ and सभा (*sabhā*) approach each other in the meaning; a person influential in council is called both विदथ्य (*vidathya*) and सभेय (*sabheya*)" (Sacred Books of the East. Vol. 46. p. 27).
+
+The substance of this passage (Kannada): the word *vidatha* is formed by adding the prefix *vi* to the root *dhā*; *vidhā* means "to distribute", "to regulate", so the sense "ordinance, regulation" arises; that *vidatha* and *vidhā* have one and the same meaning is shown by the word *vidatheṣv ahnām* in the ṛk
+
+> वयमग्ने वनुयाम त्वोता वसूयवो हविषा बुध्यमानाः । वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥
+
+> *vayamagne vanuyāma tvotā vasūyavo haviṣā budhyamānāḥ | vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasaspatra [sic?] martān ‖*
+
+(Ṛ. Saṃ. 5-3-6 [?]; the Kannada print has *sahasaspu[?]tra*, to be read *sahasas putra*, as printed: "सहसस्पुत्र")
+
+and by the words *vi—dadhuḥ* in the ṛk
+
+> वि ये दधुः शरदं मासमादहर्यज्ञमक्तुं चादृचम् । अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशते ॥
+
+> *vi ye dadhuḥ śaradaṃ māsamādaharyajñamaktuṃ cādṛcam | anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśate ‖*
+
+(Ṛ. Saṃ. 7-66-11); the same sense follows from the common meaning of the two. And since the words *vihita* and *vidatha* also have the same sense, the sacrifice prescribed by the śāstra was called by the name *vidatha*; the sense "sacrifice" or "sacrificial assembly" remained at the end — this scholar has so explained.
+
+### Printed p. 12  (PDF 32)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* *vidatha* does not mean "assembly" at all; the personal meaning "house" (*gṛha*) alone is right — thus the scholar **Bloomfield** has shown the faults in the meanings given by Max Müller and Oldenberg. His opinion runs thus (English, as printed):
+
+"The word विदथ contains the root विद् in its ordinary sense of 'get, acquire'. Instead of this, the radical idea underlying the word was genernlly [sic] felt to be 'come to-gether,' 'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approximation of the word to other words for assemblage, especially to सभा with which विदथ was almost identified. We shall see that there are decided points of contact between the words विदथ and सभा but the contact is that of extreme opposites in a way. विदथ refers to home matters ; सभा generally to public matters.
+
+In the interpretation of a term that figures prominently in the mystic—hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X—85-26, the bride after the wedding ceremoney [sic] proper, as the newly married couple are about to travel to their new home is addressed with the words "May Pushan taking thee by the hand lead thee home, may the Asvins lead thee forth on their car. Go to your house in order that thou mayst be mistress of the house'.
+
+Now विदथ here, can but have one meaning, 'household' or something very like it. It certainly cannot refer to anything in the nature of publie [sic] gathering similar to the सभा. In the phrase बृहद्वदेम विदथे सुवीराः (R. V. 2-1-I6 [sic: I for 1]), the word सुवीराः refers to family relations, not to public life.
+
+Thus far, it may not be doubted, the word appears in the language of ordinary life. But it is found to a very much greater extent in the sacredotal [sic] sphere; indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice' itself. This is as it should be, in as much as the sacrifice is a private, home affair, it is very natural विदथ the house, the premises, the establishment, should figure *[continues on the next page]*
+
+### Printed p. 13  (PDF 33)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* prominently in connection with the sacrifice." The substance of this passage: the meaning *sabhā* ("assembly") that some give to the word *vidatha* is not right; the word has the personal meaning "house". Use in this sense can be noticed in many places. For example:
+
+> पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्रवहतां रथेन । गृहान् गच्छ गृहपत्नी यथासो वशिनी त्वं विदथमा वदासि ॥
+
+> *pūṣā tveto nayatu hastagṛhyāśvinā tvā pravahatāṃ rathena | gṛhān gaccha gṛhapatnī yathāso vaśinī tvaṃ vidathamā vadāsi ‖*
+
+(Ṛ. Saṃ. 10-85-26) — in this ṛk it is plain that the sense is: "may Pūṣan and the Aśvins call you, with welfare, to your husband's house." Moreover:
+
+> ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजन्ति सूरयः । अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः ॥
+
+> *ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjanti sūrayaḥ | asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ ‖*
+
+(Ṛ. Saṃ. 2-1-16) — here too, since *suvīrāḥ* means "possessed of good sons and so on" (*śobhanaputrādisahitāḥ*), the meaning is "house"; but because the work of sacrifice is carried on in the house, in the present context it becomes "sacrificial house" (*yajñagṛha*); Yāska and others have said the same in the *yajña*-synonyms too. Thus the Western scholars have given many individual opinions.
+
+Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sabhā*) all fit, none of them can be called wrong. In the Sāyaṇa-bhāṣya itself all these meanings occur. For example, in ṛks 10-85-26 and 27 [?]; 2-?-? [?] and so on it is explained as "house", and in 10-100-6, 10-100-? [?] and many other ṛks as "sacrifice"; and "sacrificial house" and "sacrificial assembly" are also meant.
+
+***ghṛṣvayaḥ*** — *rakṣaḥprabhṛtīnāṃ gharṣakāḥ*: "crushers of the rākṣasas and others"; that is, those who remove the troubles those cause to the sacrifice; those who cause harm to rākṣasas and the like is the purport.
+
+***rudrāḥ*** — *rudraputrāḥ | maruto 'pi rudrā ucyante janyajanakayor abhedāt*: *rudrāḥ* here means the sons of Rudra. Since, by usage, sons are called by the father's name, and since in worldly practice no difference is seen between begotten and begetter, the Marut-gods, the sons of Rudra, are described here by the word *rudra* itself. How the Maruts are sons of Rudra: Sāyaṇa narrates an old story (*pūrvetihāsa*) in the bhāṣya of Ṛ. Saṃ. 1-114-6 [?].
+
+### Printed p. 14  (PDF 34)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* The bhāṣya there reads:
+
+> रुद्रस्य च मरुतां पितृत्वमेवमाख्यायते । पुरा कदाचिदिन्द्रोऽसुरान् जिगाय । तदानीं दितिरसुरमाता [?] इन्द्रहननसमर्थं पुत्रं कामयमाना तपसा भर्तुः सकाशाद्गर्भं लेभे । इमं वृत्तान्तमवगच्छन्निन्द्रो वज्रहस्तः सन् सूक्ष्मरूपो भूत्वा तस्या उदरं प्रविश्य तं गर्भं सप्तधा बिभेद । पुनरप्येकैकं सप्त खण्डमकरोत् । ते सर्वे गर्भैकदेशा योनेर्निर्गत्यारुदन् । एतस्मिन्नवसरे लीलार्थं गच्छन्तौ पार्वतीपरमेश्वरावि मान् ददृशतुः । महेशं प्रति पार्वत्येवमुवाचेत् । इमे मांसखण्डा यथा प्रत्येकं पुत्राः सम्पद्यन्तामेवं त्वया कार्यं मयि चेत्प्रीतिरस्तीति । स च महेश्वरस्तान्मांसखण्डान् समानरूपान् समानवयसः समानालङ्कारान् स्वतन्त्रान् [?] कृत्वा गौर्यै प्रददौ तेऽमी पुत्राः सन्तीति । अतः सर्वेषु मारुतेषु सूक्तेषु मरुतो रुद्रपुत्रा इति स्तूयन्ते । रौद्रेषु च मरुतां पिता रुद्र इति ॥
+
+*Gist:* Diti, mother of the asuras, wishing for a son who could kill Indra, conceived by her husband through austerity; Indra, entering her womb with the thunderbolt, cut the embryo into seven, and each into seven again (49 pieces), which fell and wept; Pārvatī and Parameśvara saw them, and at Pārvatī's wish Maheśvara made them forty-nine sons of equal form, age and ornament and gave them to Gaurī; hence in the Marut-sūktas the Maruts are praised as Rudra's sons, and in Rudra-sūktas Rudra is the father of the Maruts.
+
+(The Kannada explanation of this passage:) Long ago, at one time, when Indra conquered the asuras, Diti, the mother of the asuras, wishing for a son able to kill Indra, practised austerity and conceived by her husband. Knowing this news, Indra, thunderbolt in hand, took a subtle form, entered Diti's womb, and first cut that embryo into seven parts, and then each of them again into seven, that is, forty-nine pieces. Those pieces of the embryo fell from the womb on to the earth and wept. Pārvatī and Parameśvara, who were going about for the sake of the good of the world, saw them. Then Pārvatī, moved with pity for those lumps of flesh, asked her husband that they be given life-breath (*prāṇa*) so that they might live; at that request Parameśvara made the forty-nine lumps of flesh into sons of one form, ornaments and age, and gave them to Pārvatī, saying "these are your sons." From this story the Maruts are said in the various Sūktas to be sons of Rudra, and Rudra to be the father of the Maruts.
+
+***nityam*** — although in modern Sanskrit this word always conveys the sense "eternal, everlasting" (English words in the source), in the Ṛgveda it is mostly used in the sense "one's own" (*tanna svaṃ*, English "one's own" in the source). Besides, this word occurs in many contexts; for example —
+
+> रयिर्न चित्रा सूरो न संदृगायुर्न प्राणो नित्यो न सूनुः ।
+
+> *rayirna citrā sūro na saṃdṛgāyurna prāṇo nityo na sūnuḥ |*
+
+(Ṛ. Saṃ. 1-66-1) *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 14 (PDF 34) done — Sūkta 166 Ṛk 2 Special Topics in progress (nityam). Next: printed p. 15 (PDF 35). Open flags: small-type reference numerals [?].
