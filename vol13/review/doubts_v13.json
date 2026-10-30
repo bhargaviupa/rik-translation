@@ -742,5 +742,29 @@
   ],
   "note": "the seven 'asme' examples: exact quoted padas and Ni. 6-? reference",
   "answer": ""
+ },
+ {
+  "pdf": 127,
+  "printed": 107,
+  "crop": [
+   0.14,
+   0.34,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 10 Saṃhitā second pāda 'dyūn tanna ṛbhukṣā narām anu ṣyāt' reading; Ā.Gṛ.Sū. ref 3-6-14",
+  "answer": ""
+ },
+ {
+  "pdf": 127,
+  "printed": 107,
+  "crop": [
+   0.62,
+   0.8,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 10 bhāṣya: 'adyāsminnine', 'tatsmadbhyām ibhakṣāḥ' etc.",
+  "answer": ""
  }
 ]
