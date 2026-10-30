@@ -687,3 +687,9 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 615: Varga [?] -> 31
   p. 617: Varga [?] -> 31
   p. 619: Varga [?] -> 31
+  p. 587: 10-[147]-[2] -> 10-14[2]-[9] (zoom 600 dpi, middle/last glyph undecidable)
+  p. 590: 1-[32]-[14] -> 1-32-14
+  p. 590: 1-[130]-[?] -> 1-12[1]-13 [?] (middle number read 121; earlier 130 not confirmed)
+  p. 590: [3]-[31]-[6] -> 5-29-6 [?]
+  p. 591: 10-[104]-[8] -> 10-104-8
+  p. 594: 8-[34]-[18] -> 8-34-18

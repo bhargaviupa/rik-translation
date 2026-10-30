@@ -13583,7 +13583,7 @@ The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises 
 
 > त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः ।
 
-*tvaṃ māyābhir anavadya māyinaṃ śravasyatā manasā vṛtram ardayaḥ |* (Ṛk. Saṃ. 10-[147]-[2] [?]) — *Gloss, mine and tentative:* "You, blameless one, with wiles, with a mind eager for fame, crushed the wily Vṛtra."
+*tvaṃ māyābhir anavadya māyinaṃ śravasyatā manasā vṛtram ardayaḥ |* (Ṛk. Saṃ. 10-14[2]-[9] [?]) — *Gloss, mine and tentative:* "You, blameless one, with wiles, with a mind eager for fame, crushed the wily Vṛtra."
 
 In such places it is described that Indra destroyed the *māyāvin* asuras by guile itself."
 
@@ -13676,15 +13676,15 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > नव च यन्नवतिं च स्रवन्तीः श्येनो न भीतो अतरो रजांसि ।
 
-*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro rajāṃsi |* (Ṛk. Saṃ. 1-[32]-[14] [?]) — *Gloss, mine and tentative:* "Nine and ninety flowing (rivers) you crossed, like a frightened falcon, the (watery) spaces."
+*nava ca yan navatiṃ ca sravantīḥ śyeno na bhīto ataro rajāṃsi |* (Ṛk. Saṃ. 1-32-14) — *Gloss, mine and tentative:* "Nine and ninety flowing (rivers) you crossed, like a frightened falcon, the (watery) spaces."
 
 > ह्रास्य पारं नवतिं नाव्यानामपि कर्तमवर्तयोऽयज्यून् ।
 
-*hrāsya [?] pāraṃ navatiṃ nāvyānām api kartam avartayo 'yajyūn |* (Ṛk. Saṃ. 1-[130]-[?] [?]) — *the first word is garbled in the print [?]; the sense is uncertain to me; I give the words as read.*
+*hrāsya [?] pāraṃ navatiṃ nāvyānām api kartam avartayo 'yajyūn |* (Ṛk. Saṃ. 1-12[1]-13 [?]) — *the first word is garbled in the print [?]; the sense is uncertain to me; I give the words as read.*
 
 > नव यदस्य नवतिं च भोगान्त्साकं वज्रेण मघवा विवृश्चत् ।
 
-*nava yad asya navatiṃ ca bhogān sākaṃ vajreṇa maghavā vivṛścat |* (Ṛk. Saṃ. [3]-[31]-[6] [?]) — *Gloss, mine and tentative:* "When Maghavan cut off nine and ninety of its coils together with the thunderbolt."
+*nava yad asya navatiṃ ca bhogān sākaṃ vajreṇa maghavā vivṛścat |* (Ṛk. Saṃ. 5-29-6 [?]) — *Gloss, mine and tentative:* "When Maghavan cut off nine and ninety of its coils together with the thunderbolt."
 
 ### Page 591 (PDF 609)
 
@@ -13694,7 +13694,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > नवतिं स्रोत्या नव च स्रवन्तीर्देवेभ्यो गातुं मनुषे च विन्दः ।
 
-*navatiṃ srotyā nava ca sravantīr devebhyo gātuṃ manuṣe ca vindaḥ |* (Ṛk. Saṃ. 10-[104]-[8] [?]) — *Gloss, mine and tentative:* "(You found) the ninety streams and nine flowing (waters), a path for the gods and for Manu."
+*navatiṃ srotyā nava ca sravantīr devebhyo gātuṃ manuṣe ca vindaḥ |* (Ṛk. Saṃ. 10-104-8) — *Gloss, mine and tentative:* "(You found) the ninety streams and nine flowing (waters), a path for the gods and for Manu."
 
 — in these Ṛks the word *navati* is used in connection with rivers. Except for the second example, in the other Ṛks the number is stated as *nava navatim*, ninety-nine; and in contexts where Indra destroyed the cities of Śambara and other asuras the words *nava navatim* — 'ninety-nine' — are also used; so there is room for the doubt that these words may indicate 'many'."
 
@@ -13780,7 +13780,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 > आ यदिन्द्रश्च दद्वहे सहस्रं वसुरोचिषः ।
 
-*ā yad indraś ca dadvahe sahasraṃ vasurociṣaḥ |* (Ṛk. Saṃ. 8-[34]-[18] [?]) — *Gloss, mine and tentative:* "When Indra and we (the *Vasurociṣas*) received a thousand."
+*ā yad indraś ca dadvahe sahasraṃ vasurociṣaḥ |* (Ṛk. Saṃ. 8-34-18) — *Gloss, mine and tentative:* "When Indra and we (the *Vasurociṣas*) received a thousand."
 
 — in this Ṛk, for the word *sahasram* the sense 'those who praise the well-known Indra, the *vasurociṣaḥ*, a thousand in number: the ṛṣis' is given. By the word *viṃśati*, 'twenty', the twenty Aṅgirases may be understood. In the *itihāsa* the Aṅgirases are well known as ten persons; but if one counts Bṛhaspati and the other brothers, the Aṅgirasa-ṛṣis come to twenty. These also, together with the thousand *vasurociṣas*, praise Indra. According to the statement '*pavasnetraiyā …*' [as read: '*havasnetrai(?)yaiḥ sūktaṃ śataṃ vaikhānasā viduḥ*' — the quotation is read with doubt [?]] the Vaikhānasas too, a hundred persons, praise Indra. And he explains that those who perform the sacrifice also praise Indra."
 
