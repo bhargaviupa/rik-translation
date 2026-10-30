@@ -886,5 +886,29 @@
   ],
   "note": "grammar sutra numerals (5-2-127, 7-1-50, 3-2-101, 6-2-1) small type",
   "answer": ""
+ },
+ {
+  "pdf": 141,
+  "printed": 121,
+  "crop": [
+   0.18,
+   0.28,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 3 Pada: tRptyaamshavah and rarabhe (printed ra-rabhe vs saMhitaa raarabhe)",
+  "answer": ""
+ },
+ {
+  "pdf": 141,
+  "printed": 121,
+  "crop": [
+   0.33,
+   0.56,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 3 bhaashya: paatRRNaam, vanaamsaalambinii, bhujalakshmiirvaa, hastatraaNakashca, khaDgalataaShTishca",
+  "answer": ""
  }
 ]

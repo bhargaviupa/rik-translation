@@ -2686,14 +2686,50 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> सोमासो न ये सुताः तृप्ताःशवो [?] हृत्सु पीतासो दुवसो नासते ।
-> एषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ॥ ३ ॥
+> सोमासो न ये सुतास्तृप्त्यांशवो [?] हृत्सु पीतासो दुवसो नासते ।
+> ऐषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ॥ ३ ॥
 
 > *somāso na ye sutāḥ tṛptāḥśavo [?] hṛtsu pītāso duvaso nāsate |*
 > *eṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe ‖ 3 ‖*
 
-*(Ṛk 3 begins; the Saṃhitā as printed: "सोमासो न ये सुतास्तृप्ांशवो…" — the word after *sutāḥ* is read doubtfully; see the doubts log.)*
+*(Ṛk 3 begins. The conjunct after *tṛ-* in *tṛptyāṃśavo* is doubtful; see the doubts log.)*
 
 ---
 
-**Progress note:** printed p. 120 (PDF 140) done — Sūkta 168 Ṛk 2 complete; Ṛk 3 Saṃhitā written (word 'tṛpt…aṃśavo' [?]). Next: printed p. 121 (PDF 141): Pada, bhāṣya of Ṛk 3. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 121  (PDF 141)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+**॥ पदपाठः ॥**
+
+> सोमासः । न । ये । सुताः । तृप्त्यऽअंशवः [?] । हृत्ऽसु । पीतासः । दुवसः । न । आसते ।
+> आ । एषाम् । अंसेषु । रम्भिणीऽइव । ररभे [?] । हस्तेषु । खादिः । च । कृतिः । च ।
+> सम् । दधे ॥ ३ ॥
+
+*(Pada as printed; the word *rārabhe* of the Saṃhitā is read in the Pada as *ra-rabhe*, doubtful — see the doubts log.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> ये मरुतः सुता अभिषुतास्तृप्त्यांशवस्तर्पितावयवाः सोमासो न सोमा इव । यथा वल्लीरूपाः सोमा अभिषवात्पूर्वमाप्यायनेन तृप्त्यावयवाः सन्तः पश्चात्सुता अभिषुता रसभूताः पीतासः पीताः सन्तो हृत्सु पातॄणां [?] हृदयेषु दुवसो नासते परिचरन्त इवासते तद्वत् । ये मरुतो यज्ञे आहूतास्तृप्त्यावयवा भवन्ति ध्यायमानाः सन्तो हृत्सु हृदयेषु दुवसो न परिचरन्त इवासते । यद्वा । प्राणादिरूपेण शरीरे स्थिता दुवसः परिचरन्त इव गमनादिचेष्टाः कुर्वन्त आसते । ऐषामंसेषु रम्भिणीव युवतेर्वनांसालम्बिनी [?] योषिदिवा रारभे । आरेभे । आश्लिष्यति । अवलम्बने सामर्थ्याच्छक्त्यायुधविशेषो भुजलक्ष्मीर्वा [?] । किंच हस्तेषु खादिर्हस्तत्राणकश्च [?] कृतिः कर्तनी च खड्गलताष्टिश्च [?] सं दधे । संधीयते । सम्यग्धृता भवति । परस्परसमुच्चयार्थाश्चकाराः । ये मरुत उक्तरूपास्त आविर्भवन्तीत्यर्थः ॥
+
+*Gist:* The Maruts, well-nourished like soma plants, once drunk dwell in the hearts of worshippers like attendants; on their shoulders a spear is held like a clinging young woman, and in their hands a hand-guard and a sword.
+
+**Pratipadārtha.** *ye* — which Marut-gods; *tṛptyāṃśavaḥ* — those whose limbs are full (satisfied) with juice; *somāsaḥ* — like soma-creepers; *sutāḥ* — pressed (in the form of juice); *pītāsaḥ* — having been drunk; *hṛtsu* — (of those who drink) in the hearts; *duvasaḥ na* — like those who serve (they produce delight); *āsate* — (as) they remain (those invoked in sacrifices). Or: *tṛptyāṃśavaḥ* — (those who are, meditated upon) whose limbs are full (satisfied); *hṛtsu* — (of those who meditate) in the hearts; *duvasaḥ na* — like those who serve; *āsate* — they remain. Or: [*tṛptyāṃśavaḥ* — (by the form of the vital airs and the like) abiding in the body]; *duvasaḥ na* — like servants (through the activities of movement and the like); *āsate* — they remain. *eṣām* — of these Maruts; *aṃseṣu* — on the shoulders; *ā-bhujeṣu* [as printed] — on the arms; *rambhiṇī iva* — like a young woman (clinging to the arm of a youth, taking refuge); *rārabhe* — (the lance of power) is held up; (*kiṃca* — and further) *hasteṣu* — in the hands; *khādiḥ ca* — a guard (a hand-guard) too; *kṛtiḥ ca* — a sword too; *saṃ dadhe* — is held fast (such Marut-gods appear).
+
+### Printed p. 122  (PDF 142)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+**Bhāvārtha.** (Even before being pressed) full of limbs (rich in juice), and after being pressed, like soma-creepers which delight the minds of those who have drunk the soma juice that has the form of the sap, the Marut-gods, invoked in the sacrifices, delight the hearts of those who are satiated with fullness of limbs (those who meditate on them) (as established in the body, as the cause of movement and other activities, they produce contentment); as a young woman clings to the arm of a youth, a lance of power clings to their arms. That is: these hold the lance of power; and these also hold in their hands a sword and a guard (such Marut-gods appear for us).
+
+**English Translation (as printed):** They, who are like the Soma plants, with well-nourished branches, and then poured out (in libations), are imbibed; they abide, like devoted adherents, in the hearts (of men); upon their shoulders hangs (a lance), like a youthful female, and in their hands a guard and sword are wielded.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***sutāḥ tṛptyāṃśavaḥ somāso na*** — the sentence *somāso na* and the sentence *hṛtsu pītāsaḥ duvaso na* are both *upamāna*-sentences. Soma-creepers are *sutāḥ* — those from which the juice has been pressed; *tṛptyāṃśavaḥ* — the pressed soma juice, for those who drink it, becomes a cause of satisfaction; or, before that, the soma-creepers are made full. This is the meaning. *yathā vallīrūpāḥ somāḥ abhiṣavāt pūrvam āpyāyanena tṛptyāvayavāḥ santaḥ paścāt sutāḥ abhiṣutāḥ rasabhūtāḥ* — the soma-creepers are brought and made to swell (like an offering, as one does); afterwards they are pressed and the juice is taken. The Marut-gods too, invoked for the soma-drinking in the sacrifice like soma, are *sutāḥ* — those who have been called; *tṛptyāṃśavaḥ* — those who have been satisfied (*tarpitāḥ santaḥ*); *vayovāḥ* [as printed; *vayo-avāḥ*?] — those of limbs satisfied with joy. By this, the two qualities *sutāḥ* and *tṛptyāṃśavaḥ* are described as belonging (to the Maruts) in both the *upamāna* and the *upameya*.
+
+***hṛtsu pītāsaḥ duvaso na āsate*** — *pītāsaḥ santaḥ pātṝṇāṃ hṛdayeṣu paricaranta ivāsate*: after the soma juice has been drunk, it acts in the hearts of those who have drunk it, as if performing service. So also the Marut-gods appear as if performing acts in the hearts of those who meditate on them. This sense is explained by the sentence "*yajñe āhūtāḥ tṛptyāvayavāḥ bhavanti marutaḥ dhyāyamānāḥ santaḥ hṛtsu hṛdayeṣu paricaranta ivāsate*". This is one kind of meaning.
+
+---
+
+**Progress note:** printed p. 122 (PDF 142) done — Sūkta 168 Ṛk 3: Saṃhitā to Special Topics (continues p. 123). Next: printed p. 123 (PDF 143). Open flags: small-type numerals [?]; Ṛk 3 Pada rarabhe, bhāṣya [?] words; review/doubts_v13.json.
