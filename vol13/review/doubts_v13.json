@@ -3946,5 +3946,29 @@
   ],
   "note": "Rg refs 6-19-1, 10-106-4?, 10-63-3?, 1-10-1; Nirukta 3-4; Ai.Ar 1-4-1 small",
   "answer": ""
+ },
+ {
+  "pdf": 437,
+  "printed": 417,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 1-7-1; Brh.Up 1-2-1,2; Satapatha 10-3-4-1,2 refs small; Satapatha quotes read approx; 'kyani' doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 438,
+  "printed": 418,
+  "crop": [
+   0.08,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha arka passages (10-3-4-3, 10-3-4-5) long, repetitive, read approx",
+  "answer": ""
  }
 ]
