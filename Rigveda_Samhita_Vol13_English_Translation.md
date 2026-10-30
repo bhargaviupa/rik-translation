@@ -14809,4 +14809,64 @@ In the sense of control (*niyamana*), the name *niyutvān* is well known also fo
 
 ---
 
-**Progress note:** printed p. 532 (PDF 552) done — Sūkta 180 Ṛk 6 complete; Ṛk 7: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 533). Next: printed p. 533 (PDF 553). Open flags: refs [?]; grammar sutra numerals [?]; review/doubts_v13.json.
+### Printed p. 533  (PDF 553)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 533.)*
+
+**Pratipadārtha (continued)** — … (praise-worthy) Aśvins! (*he* **Aśvinau**) O Aśvins; **vṛṣaṇau** — you two, who rain down desires; **antidevam** — near the (other) deities; **pāthaḥ** — drink the Soma; [or **antidevam** — the Soma juice that reaches the deities]; **pāthaḥ sma hi** — you do drink.
+
+**Bhāvārtha**
+
+O blameless Aśvin deities! We, your praisers, praise you in various ways; for you the *droṇa*-vessel has been set up with the Soma; you, the showerers of desires, sit near the other deities and drink the Soma.
+
+**Printed English**
+
+> Your sincere adorers, we verily praise you in various ways. The pitcher has been placed (ready for the Soma juice). Irreproachable Ashwins, showerer (of benefits), drink freely of the juice in the presence of the gods.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***jaritāraḥ*** — the word *jaritṛ* has been read among the names of "praiser" (Ni. 3-19 [?]). The Nirukta-writers, citing the ṛk "*nūnaṃ sā te prati varaṃ jaritre*" (Ṛ. Saṃ. 2-11-21 [?]), explain *jaritṛ* there as *garitṛ*. "*jaritā garitā*" (Ni. 1-7 [?]) — since praise is of the nature of song, the doer of praise also becomes a singer: this is the intention of the identity. Besides, a proper name *Jaritṛ* also is known. For example:
+
+> अयमग्ने जरिता त्वे अभूदपि सहसः सूनो नह्यन्यदस्त्याप्यम् ।
+> भद्रं हि शर्म त्रिवरूथमस्ति त आरे हिंसानामप दिद्युमा कृधि ॥
+
+> *ayamagne jaritā tve abhūdapi sahasaḥ sūno nahyanyadastyāpyam |*
+> *bhadraṃ hi śarma trivarūthamasti ta āre hiṃsānāmapa didyumā kṛdhi ‖*
+
+(Ṛ. Saṃ. 10-142-1 [?]) — in this ṛk and the following two mantras the ṛṣi named Jaritṛ is the agent. Since *jaritṛ* means "doer of praise", in the cited ṛk the word *jaritṛ* may also be *garitṛ*, or it may be the name of the ṛṣi. As a synonym of "praiser" the word is used in many places. Because the prayers of such excellent praisers all give fruit of the nature of truth, a belief arises; and the epithet *satyāḥ* is used.
+
+***satyāḥ*** — "*satyaphalāḥ santaḥ*" ("being those whose fruits are true") — this explains the meaning. The word *satya* is used everywhere in the Ṛk-saṃhitā chiefly in a sense that shows the most excellent and the ethical (*naitika*) worthiness and power. The acts that persons of such excellent worthiness perform are of the nature of truth. The Nirukta-writers too, making this meaning clear, have given the derivation of the word *satya* in this way:
+
+### Printed p. 534  (PDF 554)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 534.)*
+
+> सत्यं कस्मात् सत्सु तायते सत्सु भवं भवतीति वा ।
+
+> *satyaṃ kasmāt satsu tāyate satsu bhavaṃ bhavatīti vā |*
+
+(Ni. 6-13 [?]) — "Why is it *satya*? It spreads (*tāyate*) among the good (*sat*); or, it is what exists among the good": so the Nirukta-writers' derivation. By this derivation the fruit of the nature of truth, too, must be obtained by good people; the idea that "to the truthful acts of good men belongs a fruit of the nature of the good" is suggested by the description of this ṛk. By this the following is shown: although, at the beginning, the power of a deity-reviler who follows the path of untruth may be much greater than that of a deity-devotee who follows the path of truth, in the end it dwindles of itself; and the strengths of the deity-devotee grow, and that growth is the fruit of his truthful life. Thus, since in this place the word *satya* is used also in the sense of *karma*-observance, in these two contexts too it must be explained what principle of the universe this idea reflects.
+
+> ते देवा उत्सृज्यानृतम् । सत्यमुन्नाले [?] भिरे ।
+
+> *te devā utsṛjyānṛtam | satyamunnāle [?] bhire |*
+
+(Śa. Brā. 9-5-1-13 [?])
+
+> तद्यत्तत्सत्यम् । त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तनवामहा इति ॥
+
+> *tadyattatsatyam | trayī sā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tanavāmahā iti ‖*
+
+(Śa. Brā. 9-5-1-18 [?]) — the deities gave up untruth and firmly took support in truth. *Trayī* — the three Vedas — are of the nature of truth; therefore, by performing the rites enjoined in the Veda the deities wished to spread the truth. Thus, besides showing the relation of a bond between truth and conduct, it is wished that, with acts of such purity, the one who is fulfilled in them and endowed with all wealth may obtain the highest good.
+
+> नाभिर्ऋतस्य सप्रथाः इति । सत्यं वा ऋतं वा ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह ।
+
+> *nābhirṛtasya saprathāḥ iti | satyaṃ vā ṛtaṃ vā ṛtaṃ satyasya nābhiḥ saprathā ityevaitadāha sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ityevaitadāha |*
+
+(Śa. Brā. 14-3-1-14 [?]) — by such explanations the identity of the universal rule and truth is shown; and, by following such truth and by performing truthful acts, it is shown that a full life is obtained as fruit; and the relation of cause and effect between the fruit of truth and the act of truth is made known.
+
+Since, along with the performance of acts of the nature of truth, the universal rule, and the nature of the deities who are its cause, have to be known, and since that knowledge is essential and can be had only through truth, this has also been explained in detail in many contexts.
+
+---
+
+**Progress note:** printed p. 534 (PDF 554) done — Sūkta 180 Ṛk 7 Special Topics (jaritāraḥ, satyāḥ; continues p. 535). Next: printed p. 535 (PDF 555). Open flags: refs [?]; SB 9-5-1 quotes [?]; review/doubts_v13.json.
