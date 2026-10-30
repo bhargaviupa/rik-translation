@@ -6051,4 +6051,57 @@ Sāyaṇa explains *dhenu* as "cows" and gives the meaning that the cows which y
 
 ---
 
-**Progress note:** printed p. 248 (PDF 268) done — Sūkta 173 Ṛk 1 grammar begun (gāyat, nabhanyam; continues p. 249). Next: printed p. 249 (PDF 269). Open flags: Ṛg/Nirukta ref numerals [?]; some quoted Ṛks partly doubtful; review/doubts_v13.json.
+### Printed p. 249  (PDF 269)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+Grammar page, noted briefly (Vyākaraṇa-prakriyā, continued; sūtra numerals are small type, marked [?]):
+
+- ***veḥ*** — root *vid jñāne*; Vedically *laṅ* in the present sense; second person singular, *sip*, the *i* dropped (*lopa*), *luk* for *śap*; guṇa for the light vowel of the root by "*hal-jyā-bhyaḥ*…" [?]; *d* of the root to *ru* by "*dakṣa*…" [?]; the visarga Vedically takes no augment; the accent is *nighāta*.
+- ***arcāma*** — root *arca pūjāyām*; *loṭ*, first person plural; because it stands after a *tiṅ*, no *nighāta* accent; the root accent remains.
+- ***vavṛdhānam*** — root *vṛdhu vṛddhau*; *śānac* for *laṭ*; "*bahulaṃ chandasi*" gives *śluḥ* in place of *śap*; reduplication, with a long vowel in the reduplicative syllable of the Saṃhitā; *cit*-accent (Pā. Sū. 6-1-163 [?]) — end-udātta.
+- ***adabdhāḥ*** — *naña* (negative) compound; by "*tatpuruṣe*…" [?] the fore-member keeps its natural accent.
+- ***divyam*** — *divi bhavam divyam*; *yat* suffix by the *daṇḍādi* group; by the suffix the final syllable is *udātta*.
+- ***vivāsān*** — *vivāsa* is used in the sense of "serving"; *leṭ*, third person plural, *jhi* replaced by *an*; *i* dropped by "*itaś ca lopaḥ*" [?]; the augment *āṭ* by "*leṭo 'ḍāṭau*" [?]; *yadyoga* (because there is a relative), no *nighāta*; by transposition the first syllable is *udātta*. ‖ 1 ‖
+
+---
+
+**Sūkta 173, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> अर्चद्वृषा वृषभिः स्वेदुहव्यैर्मृगो नाश्नो अति यज्जुगुर्यात् ।
+> प्र मन्दयुर्मनां गूर्त होता भरते मर्यो मिथुना यजत्रः ॥ २ ॥
+
+> *arcad vṛṣā vṛṣabhiḥ svedūhavyair mṛgo nāśno ati yaj jugurvāt |*
+> *pra mandayur manāṃ gūrta hotā bharate maryo mithunā yajatraḥ ‖ 2 ‖*
+
+*(The Saṃhitā is printed with accent marks, which are not reproduced here; "svedu-havyaiḥ" as read.)*
+
+### Printed p. 250  (PDF 270)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Pada-pāṭha**
+
+> अर्चत् । वृषा । वृषऽभिः । स्वऽइदुहव्यैः [?] । मृगः । न । अश्नः । अति । यत् । जुगुर्यात् ।
+> प्र । मन्दयुः । मनाम् । गूर्ते । होता । भरते । मर्यः । मिथुना । यजत्रः ॥ २ ॥
+
+> *arcat | vṛṣā | vṛṣa-bhiḥ | sva-idu-havyaiḥ [?] | mṛgaḥ | na | aśnaḥ | ati | yat | jugurvāt |*
+> *pra | mandayuḥ | manām | gūrte | hotā | bharate | maryaḥ | mithunā | yajatraḥ ‖ 2 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> वृषा हविषां वर्षिताऽयं यजमानः स्वेदुहव्यैः स्वायत्तैर्दुग्धहविष्कैः [?] । यद्वा । स्वयंप्राप्तैर्दोहकं [?] हव्यं येषां तादृशैः । वृषभिर्वर्षकैर्हविर्भिः [?] अध्वर्य्वादिभिर्विशिष्टः सन् अर्चत् । अर्चयतीन्द्रं । यद्वा । वृषा फलस्य वर्षिताऽयमिन्द्र उक्तलक्षणैर्ऋत्विग्भिरर्च्यते । यद्यस्मादश्नो व्यापकः पानाद्यर्थं धावन् मृगो न हरिणादिरिवायमिन्द्रोऽश्नोऽशनशीलः सन् अति जुगुर्यात् । अत्यर्थमुद्युङ्क्ते हविर्भक्षणाय । यथा मृगः क्षुत्पिपासादितः शीघ्रमुद्युङ्क्ते तथायमिन्द्रोऽपि । यस्मादेवं तस्मादर्चति । यद्वा । … भक्षयेत् तथार्चतीत्यर्थः [?] । किंच हे गूर्तोदूर्णेन्द्र [?] मनां मननं स्तोत्रमिच्छतां देवानां मन्दयुः स्तुतियुक्तो मर्यो होता मानुष इतन्नामुक ऋत्विग् यजत्रो यागनिष्पादकः सन् मिथुना मिथुनानि युग्मरूपाणि याज्यापुरोनुवाक्यादीनि मिथुनौ वा जायापतिरूपः सन् प्र भरते । प्रकर्षेण संपादयति । तस्मादर्चतीत्यर्थः ॥
+
+> *vṛṣā haviṣāṃ varṣitā 'yaṃ yajamānaḥ svedūhavyaiḥ svāyattair dugdhahaviṣkaiḥ [?] | yadvā | svayaṃprāptair dohakaṃ [?] havyaṃ yeṣāṃ tādṛśaiḥ | vṛṣabhir varṣakair havirbhiḥ [?] adhvaryvādibhir viśiṣṭaḥ san arcat | arcayatīndraṃ | yadvā | vṛṣā phalasya varṣitā 'yam indra uktalakṣaṇair ṛtvigbhir arcyate | yad yasmād aśno vyāpakaḥ pānādyarthaṃ dhāvan mṛgo na hariṇādir ivāyam indro 'śno 'śanaśīlaḥ san ati jugurvāt | atyarthaṃ udyuṅkte havirbhakṣaṇāya | yathā mṛgaḥ kṣutpipāsāditaḥ śīghram udyuṅkte tathāyam indro 'pi | yasmād evaṃ tasmād arcati | yadvā | … bhakṣayet tathārcatīty arthaḥ [?] | kiṃca he gūrtodūrṇendra [?] manāṃ mananaṃ stotram icchatāṃ devānāṃ mandayuḥ stutiyukto maryo hotā mānuṣa itannāmuka ṛtvig yajatro yāganiṣpādakaḥ san mithunā mithunāni yugmarūpāṇi yājyāpurononuvākyādīni mithunau vā jāyāpatirūpaḥ san pra bharate | prakarṣeṇa saṃpādayati | tasmād arcatīty arthaḥ ‖*
+
+*Gist:* the sacrificer, showerer of oblations, worships Indra with the Adhvaryu and the other priests and their oblations; as a hungry deer runs to drink, so Indra, being hungry, hastens to the oblations; therefore the priest, as a pair, offers *yājyā* and *puronuvākyā* verses.
+
+**Pratipadārtha (Kannada, translated)**
+
+*yat* — because; *aśnaḥ* — the pervasive (one who runs for drinking etc.); *mṛgaḥ na* — like a deer; (*aśnaḥ* — hungry); *ati jugurvāt* — strives greatly (for eating the oblation); *tat* — therefore; [or *aśnaḥ* — he who runs for drink etc.; *mṛgaḥ na* — like a deer; *yat ati jugurvāt* — (Indra) who exerts himself quickly]; *vṛṣā* — the sacrificer, the rainer of oblations; *svedu-havyaiḥ* — with the self-prepared oblations; *vṛṣabhiḥ* — with the Adhvaryu and the other givers of oblations; *arcat* — worships (Indra); [or *vṛṣā* — Indra, the rainer of desires; *svedu-havyaiḥ* — by those of well-prepared oblations; *vṛṣabhiḥ* — by the Adhvaryu etc., the givers of oblations; *arcat* — is worshipped]; (*kiñca* — further) (*he*) *gūrte* — O Indra, the valiant in effort; *manām* — of the gods fond of praise; *mandayuḥ* — the one intent on praising; *maryaḥ* — [continues on p. 251].
+
+---
+
+**Progress note:** printed p. 250 (PDF 270) done — Sūkta 173 Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 251). Next: printed p. 251 (PDF 271). Open flags: Ṛk 2 bhāṣya partly doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
