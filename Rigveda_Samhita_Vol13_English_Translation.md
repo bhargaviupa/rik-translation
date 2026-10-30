@@ -1814,4 +1814,44 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 76 (PDF 96) done — Sūkta 167 Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written. Next: printed p. 77 (PDF 97): bhāṣya of Ṛk 2. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 77  (PDF 97)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> ते मरुतोऽवोभी रक्षणैः सहिता नोऽस्मानच्छाभिमुख्येन यान्तु । आगच्छन्तु । सुमायाः । मायेति प्रज्ञानाम । शोभनप्रज्ञा एव मरुतो ज्येष्ठेभिर्बृहद्दिवैर्वा ज्येष्ठैः प्रशस्यतमैर्बृहद्दिवैः [?] मणिमुक्तादिधनैश्च सहिता आ यान्तु । वाशब्दः समुच्चये । आगमने कथमेषां सामर्थ्यमिति अत आह । अध यद्यस्मादेषां मरुतां नियुत एतन्नामकाः परमा उत्कृष्टा अश्वाः समुद्रस्य चित् चिच्छब्दोऽप्यर्थे । समुद्रस्यापि पारे परस्मिंस्तीरे धनयन्ते धनधारणं वहनं कुर्वन्ति । तस्माज्ज्येष्ठैर्धनैश्चायान्त्वित्यर्थः ॥
+
+*Gist:* May the Maruts, of good wisdom, come to us with their protections and with their choice treasures (jewels, pearls), since their excellent horses called Niyut carry wealth even from beyond the sea.
+
+**Pratipadārtha.** *adha* — afterwards; *yat* — for what reason; *eṣām* — of these Marut-gods; *paramāḥ* — most excellent; *niyutaḥ* — horses named Niyut; *samudrasya* — of the ocean; *pāre cit* — even on the farther side; *dhanayante* — bear wealth; (*tat* — therefore); (*te*) *marutaḥ* — those Marut-gods; *avobhiḥ* — with (our) acts of protection; *naḥ* — to us; *acchā* — towards; *ā yāntu* — may they come; *sumāyāḥ* — wise Marut-gods; *jyeṣṭhebhiḥ* — most excellent; (and) *bṛhaddivaiḥ vā* — greatly praiseworthy jewels and pearls, riches [with them]; (*ā yāntu* — may they come).
+
+**Bhāvārtha.** O Marut-gods, of excellent wisdom: your best horses called Niyut are able to carry wealth from even beyond the ocean; therefore, with the highest and most praiseworthy wealth of jewels and the like, and with acts of protection, come toward us.
+
+**English Translation (as printed):** May the Maruts come to our presence with benefactions: may they who are possessed of knowledge (come) with most excellent and brilliant (treasures), since their glorious horses, the Niyutas, gather wealth even on the farther shore of the sea.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***marutaḥ avobhiḥ naḥ ā yāntu*** — *rakṣaṇaiḥ sahitāḥ asmān āgacchantu*: "may they come to us together with protections". The word *marutaḥ* is read among the names of priests (Ni. 3-19 [?]) and also among the names of gold (Ni. 1-10 [?]). *Marutaḥ* — "*mitarāviṇo vā mitarociṇo vā mahad dravantīti vā*" [as read] is the derivation given by Yāska *[continues on the next page]*
+
+### Printed p. 78  (PDF 98)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* …the explained word *marut* is read by Yāska among the groups of gods in the middle region. Explaining the word as "those who make a sound in proportion to their strength", as "those who shine with brilliance", and as "those who give rain", and thus giving the meaning in many ways, the prayer is made that these Maruts may come to our sacrifice together with the means of protecting us.
+
+***sumāyāḥ*** — *śobhanaprajñāḥ*: the word *māyā* is stated among the names of intelligence (Ni. 3-13 [?]). The Marut-gods are described as having extraordinary wisdom.
+
+***jyeṣṭhebhiḥ bṛhaddivaiḥ ā yāntu*** — the word *jyeṣṭhebhiḥ* may mean "with abundant brilliance"; or *praśasyaiḥ maṇimuktādidhanaiś ca sahitāḥ*: giving two kinds of meaning, "jewels (*ratna*)", "pearls (*muktā*)" and such wealth, the prayer is made that the Maruts come with these.
+
+***niyutaḥ paramāḥ samudrasya cit pāre dhanayante*** — *etannāmakāḥ utkṛṣṭāḥ aśvāḥ samudrasyāpi pare 'smiṃstīre…* [as read]: "excellent horses named Niyut carry wealth even on the farther shore of the ocean"; so, describing that the Marut-gods have such horses, called Niyut, and bring wealth even from the farther shore of the sea, the prayer is made that they come to our sacrifice with such abundant wealth. The word *samudra* is read among the names of the middle region (Ni. 2-10 [?]); and since the word *samudra* indicates both the earthly ocean, filled with well-known water, and the middle region, in order to clear the doubt Yāska says:
+
+> तत्र समुद्र इत्येतत् पार्थिवेन समुद्रेण संदिह्यते । समुद्रः कस्मात् । समुद्द्रवन्त्यस्मादापः । समभिद्रवन्त्येनमापः । संमोदन्तेऽस्मिन्भूतानि । समुदको भवति । समुनत्तीति वा ।
+
+> *tatra samudra ityetat pārthivena samudreṇa saṃdihyate | samudraḥ kasmāt | samuddravantyasmādāpaḥ | samabhidravantyenamāpaḥ | saṃmodante 'smin bhūtāni | samudako bhavati | samunattīti vā |*
+
+(Ni. 2-10 [?]) — [meaning]: because the waters in it, in the form of waves and ripples, move in many ways; because very abundant waters collect in your region, the waters flow in with speed; because creatures living in water are made happy by the abundance of water; and because it makes everything wet with water — for these reasons the name *samudra* has come about: thus Yāska has explained; and he has also established that *samudra* means the *antarikṣa* (middle region). That the Maruts have horses is well known in the Yajurveda.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *avobhiḥ* (root *ava rakṣaṇe*; *asun* by *sarvadhātubhya asun* Uṇ. 4-[?]; as it is *nit*, the initial acute; instrumental plural). *yāntu* (root *yā prāpaṇe*; *loṭ* 3rd plural; *nighāta* after a *tiṅanta*).
+
+---
+
+**Progress note:** printed p. 78 (PDF 98) done — Sūkta 167 Ṛk 2 in progress (grammar note of Ṛk 2 begun; continues on p. 79). Next: printed p. 79 (PDF 99). Open flags: small-type numerals [?]; review/doubts_v13.json.
