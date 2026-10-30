@@ -8028,4 +8028,100 @@ In this ṛk Indra's greatness is described, together with an account of his qua
 
 ---
 
-**Progress note:** printed p. 314 (PDF 334) done — Sūkta 174 Ṛk 1 (Anukramaṇikā, Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun, continues p. 315). Next: printed p. 315 (PDF 335). Open flags: Sūkta 174 heading varga numerals [?]; Anukramaṇikā ref [?]; Ṛk 1 bhāṣya partly doubtful [?]; review/doubts_v13.json.
+### Printed p. 315  (PDF 335)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+***asura nṝn asmān rakṣa*** — the word *asura* is read among the names of the cloud (Ni. 2-22 [?]); and in the explanation of the word *asura*:
+
+> असुरा असुरताः स्थानेष्वस्ताः स्थानेभ्यो इति वा अपि वासुरिति प्राणनामास्तः शरीरे भवति तेन तद्वन्तः ।
+
+> *asurā asuratāḥ sthāneṣv astāḥ sthānebhyo iti vā api vāsur iti prāṇanāmāstaḥ śarīre bhavati tena tadvantaḥ |* [as read: [?]]
+
+(Ni. 3-8 [?]) — *asura* is explained as "those thrown out from their places", or *asu* is a name of the vital breath, which dwells in the body; hence those possessed of it. Sāyaṇa explains that Indra is *asura* because he destroys enemies (*śatrūn nirasitā*), and the meaning is given that Indra may protect us, the sacrificers who perform the sacrificial rites.
+
+In the Purāṇas and other works the word *asura* is a synonym of *rākṣasa*; but in the Ṛk-saṃhitā the use of this word has various meanings: *asu* means "life-breath, wisdom" (*prāṇa*, *prajñā*) and "that which is cast" (*asyati*), and so on; hence the word *asura* is used in the senses that follow from these meanings. They are to be construed according to the context.
+
+> बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः ।
+
+> *bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ |*
+
+(Ṛ. Saṃ. 1-54-3 [?]) — in this ṛk the word *asura* is, as in the ṛk in hand, an epithet of Indra. Here also, as stated in that ṛk, *asuraḥ śatrūṇāṃ nirasitā* — "the destroyer of enemies" — is one meaning; and *yadvā asuḥ prāṇo balaṃ vā tadvān* ("one who has *asu*, life or strength"), or "*asavaḥ prāṇāḥ tena ca āpo lakṣyante tān rāti dadātīti asuraḥ*" — *asavaḥ* means waters, and the giver of them is *asura*, so it may be Indra. Since Indra has various powers of this kind, in all these meanings the word may be an epithet of Indra. In the same way —
+
+> क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ।
+
+> *kṣayann asmabhyam asura pracetā rājann enāṃsi śiśrathaḥ kṛtāni |*
+
+(Ṛ. Saṃ. 1-24-14 [?]) — in this ṛk the special epithet *asura* is given to Varuṇa, because he destroys what is undesirable (*aniṣṭakṣepaṇaśīla*); and likewise in the same sense —
+
+> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
+
+> *tvam agne rudro asuro maho divas tvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
+
+(Ṛ. Saṃ. 2-1-6 [?]) — the qualities of Agni are described. In the same way —
+
+> वि सुपर्णो अन्तरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः ।
+
+> *vi suparṇo antarikṣāṇy akhyad gabhīravepā asuraḥ sunīthaḥ |*
+
+(Ṛ. Saṃ. 1-35-7 [?]) — in this ṛk *asuraḥ* means *prāṇadātā*, the giver of life breath, that is, the Sun.
+
+### Printed p. 316  (PDF 336)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+> पृषद्योनिः पञ्चहोता शृणोत्वतोर्धसंथा असुरो मयोभुः ।
+
+> *pṛṣadyoniḥ pañcahotā śṛṇotv atordhasaṃthā asuro mayobhuḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 5-42-1 [?]) — the word means the life-giving Vāyu (wind);
+
+> प्रुकप्रसक्त्रो असुरः सुशेवो रायो धर्ता धरुणो वस्वो अग्निः ।
+
+> *prukaprasaktro asuraḥ suśevo rāyo dhartā dharuṇo vasvo agniḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 5-15-1 [?]);
+
+> न्यग्निः सीददसुरो न होता हुवानो अत्र सुभगाय देवान् ।
+
+> *ny agniḥ sīdad asuro na hotā huvāno atra subhagāya devān |*
+
+(Ṛ. Saṃ. 2-30-3 [?]) — in such places it is an epithet of Agni and the others, in the sense "strong, possessed of power";
+
+> अस्मे वीरो मरुतः शुष्म्यस्तु जनानां यो असुरो विधर्ता ।
+
+> *asme vīro marutaḥ śuṣmy astu janānāṃ yo asuro vidhartā |*
+
+(Ṛ. Saṃ. 7-46-34 [?]) — in such places, "possessed of wisdom"; and
+
+> शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवोऽजरमा ततान ।
+
+> *śataṃ kakṣīvāṃ asurasya gonāṃ divi śravo 'jaramā tatāna |*
+
+(Ṛ. Saṃ. 1-126-3 [?]) — here "of a generous nature"; and
+
+> त्रिरुत्तमा दूणशा रोचनानि त्रयो राजन्त्यसुरस्य वीराः ।
+
+> *trir uttamā dūṇaśā rocanāni trayo rājanty asurasya vīrāḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 3-56-8 [?]) — in this ṛk, "*āsyati kṣipati sarvam ity asuraḥ kālātmā saṃvatsaraḥ*": *asura* is time, a synonym for the year; and
+
+> यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः ।
+
+> *yathā rudrasya sūnavo divo vaśanty asurasya vedhasaḥ |*
+
+(Ṛ. Saṃ. 8-20-17 [?]) — in such places in the sense "cloud"; and
+
+> अनायुधासो असुरा अदेवाश्चक्रेण ताँ अप वपा ऋजीषिन् ।
+
+> *anāyudhāso asurā adevāś cakreṇa tāṃ apa vapa ṛjīṣin |* [as read: [?]]
+
+(Ṛ. Saṃ. 8-96-9 [?]) — in such ṛks, "the *asuras*" are the demons, the host of *rākṣasas*; and in the ṛk at hand the meaning is that it is Indra who drives away such *rākṣasas*.
+
+***satpatiḥ — satāṃ karmaphalasya vā pātā*** — Sāyaṇa has given two meanings: that Indra protects the good, or that he protects the fruit of the rites they have performed.
+
+Here *satām*, "of the good" (*sat*, "the true"), may be taken to mean "of all living beings, who are by nature of the nature of truth"; or "of all good men". Explaining the special meaning of this word, the scholar Max Müller has spoken as follows —
+
+---
+
+**Progress note:** printed p. 316 (PDF 336) done — Sūkta 174 Ṛk 1 Special Topics (asura; satpati begins, Max Müller quotation continues p. 317). Next: printed p. 317 (PDF 337). Open flags: many Ṛg/Nirukta ref numerals [?]; review/doubts_v13.json.
