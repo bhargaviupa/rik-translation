@@ -9,7 +9,7 @@ WORK=os.environ.get('V14WORK','/tmp/v14num/')
 os.makedirs(WORK,exist_ok=True)
 OFFSET=0   # TO BE SET from the page map (printed = PDF - OFFSET)
 def _parts():
-    fs=sorted(glob.glob(os.path.join(VOL,'scans','*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
+    fs=sorted(glob.glob(os.path.join(VOL,'scans','14 [Rr]igveda*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
     out=[];g=1
     for p in fs:
         n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',p],capture_output=True,text=True).stdout).group(1))
