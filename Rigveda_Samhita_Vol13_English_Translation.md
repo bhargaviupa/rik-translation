@@ -2010,4 +2010,30 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 86 (PDF 106) done — Sūkta 167 Ṛk 4 Special Topics in progress (rodasī; continues on p. 87). Next: printed p. 87 (PDF 107). Open flags: small-type numerals [?]; Ṛk 4 bhāṣya end words [?]; review/doubts_v13.json.
+### Printed p. 87  (PDF 107)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* **Special Topics (continued: *rodasī*).**
+
+> उत ग्ना व्यन्तु देवपत्नीरिन्द्राण्यग्नाय्यश्विनी राट् । आ रोदसी वरुणानी शृणोतु व्यन्तु देवीर्य ऋतुर्जनीनाम् ॥
+
+> *uta gnā vyantu devapatnīrindrāṇyagnāyyaśvinī rāṭ | ā rodasī varuṇānī śṛṇotu vyantu devīrya ṛturjanīnām ‖*
+
+(Ṛ. Saṃ. 5-46-8) — for the word *rodasī* used in this ṛk the meaning *rudrasya patnī*, "Rudra's wife", is given (Ni. 11-[?]). Sāyaṇa, too, explains the word *rodas* as indicating Rudra, who has the nature of weeping (*rodana*), and so shows another view — that the denoted one of the word *rodasī* is the wife of Rudra, Rudra's wife. And by the sentence *apare tu* he points out the other view that, since the wives of the Marut-gods are mentioned [with this word], the name *rodasī* is for the wives of the Marut-gods; and he explains that this interpretation will be suited, in accordance with the meaning, in what follows; in this explanation, the form *rodasī* ends in the seventh case, and "*tasyāṃ priyaṃ dhanaṃ muñcanti*" — "in that woman they let fall their beloved wealth" he explains. Yāska —
+
+> रथं नु मारुतं वयं श्रवस्युमा हवामहे । आ यस्मिन्तस्थौ सुरणानि बिभ्रती सचा मरुत्सु रोदसी ॥
+
+> *rathaṃ nu mārutaṃ vayaṃ śravasyumā havāmahe | ā yasmintasthau suraṇāni bibhratī sacā marutsu rodasī ‖*
+
+(Ṛ. Saṃ. 5-56-8) — quoting this ṛk, he explains: "we call here the chariot of the Maruts, desiring fame, in which Rodasī, bearing pleasing [riches], stands with the Maruts" (Ni. 11-30 [?]).
+
+***devāḥ*** — *modayitāro mādayitāro vā marutaḥ*: Yāska says "*devo dānād vā dīpanād vā dyotanād vā dyusthāno bhavatīti vā*" (Ni. 7-15 [?]) — [the deity is so called] because he gives to the sacrificers abundantly with favour, or because he makes the sacrificers radiant, or because he himself shines with his own splendour, or because he dwells in the excellent heaven: thus he gives the meaning of the word *deva*. Here the Marut-gods are called *devāḥ*; the purport is that these Marut-gods keep the sacrificers happy, or make them intoxicated with joy.
+
+***sakhyāya vṛdhaṃ juṣante*** — by this sentence it is described that the Maruts increase in order that their friendship may reach others; and that heaven and earth gain prosperity for the good of the world: that is, "for the friendship of heaven and earth" — in order to be always together with heaven and earth — thus the meaning "they increase" is explained: they promote the growth of heaven and earth by their friendship.
+
+### Printed p. 88  (PDF 108)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *śubhrāḥ* (root *śubha dīptau*; *rak* by *sphāyitañcivañci…* Uṇ. 2-[?]; as it is *kit*, no *laghūpadha-guṇa*; final acute by the suffix). *ayāsaḥ* (root *aya gatau*; *ayante iti ayāḥ*; *ac* by *nandigrahapacādibhyaḥ* Pā. 3-1-134; *ciṭaḥ* Pā. 6-1-163 gives final acute; *jas* with *asuk* by *ājjaser asuk*). *yavyā* (root *yu miśraṇāmiśraṇayoḥ*; suffix *i* by *ac ca iḥ* [?]; guṇa, *av*-substitution; instrumental singular). *sādhāraṇyā* (the word *sādhāraṇī*; since it ends in *īṣat*… [as read], final acute; in the instrumental there is *yaṇ*; *udāttayaṇo hal pūrvāt* Pā. 6-1-174 gives the acute to the case-ending). *mimikṣuḥ* (root *miha secane*; the desiderative-like root *mimikṣa*; *liṭ* 3rd plural; *nighāta* after a *tiṅanta*). *rodasī* (this word, meaning heaven and earth, though initially acute, here by *vyatyaya* is final-acute; or in the feminine with *ṅīṣ*, the suffix's accent gives the final acute; in the locative *supāṃ sulug…* Pā. 7-1-39 gives *īkāra*; or *luk*; as it has an *ī* in the sense of the seventh case, *īdūtau ca saptamyarthe* Pā. 1-1-19 gives *pragṛhya*, so no sandhi even before a vowel). *nudante* (root *ṇuda preraṇe*; *ṇo naḥ* Pā. 6-1-65 gives *n* in the beginning; *laṅ* in the present sense by *chandasi*; 3rd plural; *bahulaṃ chandasy amāṅyoge 'pi* gives no *aṭ*; *nighāta* after a *tiṅanta*). *juṣanta* (root *juṣī prītisevanayoḥ*; as before *laṅ*, 3rd plural; no *nighāta* because it is the pāda-initial; the *vikaraṇa* accent remains). *vṛdham* (root *vṛdhu vṛddhau*; *kvip*; accusative singular). *sakhyāya* (*sakhyur yaḥ* Pā. 4-1-[?], suffix *ya* in the sense of the state; *yasyeti ca* drops the *i*; final acute by the suffix; dative singular). ‖ 4 ‖
+
+---
+
+**Progress note:** printed p. 88 (PDF 108) done — Sūkta 167 Ṛk 4 complete. Next: printed p. 89 (PDF 109): Ṛk 5. Open flags: small-type numerals [?]; review/doubts_v13.json.
