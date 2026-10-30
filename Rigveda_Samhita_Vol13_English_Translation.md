@@ -7896,4 +7896,61 @@ Or these (*jīra*) may be epithets of their chariot.
 
 ---
 
-**Progress note:** printed p. 310 (PDF 330) done — Sūkta 173 Ṛk 13 Special Topics (jīradānu; continues p. 311). Next: printed p. 311 (PDF 331). Open flags: many Ṛg/Nirukta ref numerals [?]; some quotes partly doubtful [?]; review/doubts_v13.json.
+### Printed p. 311  (PDF 331)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+*Dānu* means an *asura* woman, that is, the name of the mother of Vṛtra. Her sons are *dānava*; apart from this, how the word *dānu* came to be, the scholar has asked. Moreover, the *uṇādi* sūtra shows that the meanings "power" and "wise" (*prājña*) are also obtainable for this word; but the meaning *dātṛ* ("giver") is better known.
+
+So if *jīra* means "swift" and *dānu* means "gift", then in the ṛk at hand *jīradānu* must mean "swift giving"; but Sāyaṇa has taken it to mean "giving that is victorious" (*jayaśīla*). Since the word *jīra* is used in many places in the sense of "impelling", here the sense "giving that impels victory" may be taken. In general the word *jīradānavaḥ* is used chiefly as an epithet of the Maruts.
+
+> पृक्षे ता विश्वा भुवना ववक्षिरे मित्राय वा सदमा जीरदानवः ॥
+
+> *pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya vā sadam ā jīradānavaḥ ‖*
+
+(Ṛ. Saṃ. 2-34-4 [?]);
+
+in such ṛks *jīradānavaḥ* is well known as an epithet of the Maruts. And
+
+> वृषा न क्रुद्धः पतयद्रजःस्वा यो अर्यपत्नीरकृणोदिमा आपः । स सुन्वते मघवा जीरदानवेऽविन्दज्ज्योतिर्मनवे हविष्मते ॥
+
+> *vṛṣā na kruddhaḥ patayad rajaḥsvā yo aryapatnīr akṛṇod imā āpaḥ | sa sunvate maghavā jīradānave 'vindaj jyotir manave haviṣmate ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-43-7 [?]);
+
+in such ṛks the word is an epithet of the sacrificer who offers oblations and the like.
+
+***suvitāya — suhitāya śobhanagamanāya vā*** — the wish is expressed that Indra may come to our sacrificial hall for our welfare and for our good movement. Yāska —
+
+> आ रुद्रासः इन्द्रवन्तः सजोषसो हिरण्यरथाः सुविताय गन्तन । इयं वो अस्मत्प्रति हर्यते मतिस्तृष्णजे न दिव उत्सा उदन्यवे ॥
+
+> *ā rudrāsa indravantaḥ sajoṣaso hiraṇyarathāḥ suvitāya gantana | iyaṃ vo asmat prati haryate matis tṛṣṇaje na diva utsā udanyave ‖*
+
+(Ṛ. Saṃ. 5-57-1 [?]) — in this ṛk he has shown the use of the word *suvitāya* in the sense "for the best action (*sukarman*, *suguṇāya karmaṇe*)".
+
+> पुनरेहि वृषाकपे सुविता कल्पयावहै । य एष स्वप्ननंशनोऽस्तमेषि पथा पुनर्विश्वस्मादिन्द्र उत्तरः ॥
+
+> *punar ehi vṛṣākape suvitā kalpayāvahai | ya eṣa svapnanaṃśano 'stam eṣi pathā punar viśvasmād indra uttaraḥ ‖*
+
+(Ṛ. Saṃ. 10-86-19 [?]) — in this ṛk the meaning given for the word *suvitā* is "well-produced, well-conducted (*suprasūtāni*, *supravṛttāni*)".
+
+### Printed p. 312  (PDF 332)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+By the favour of Indra, *vṛjanam* — strength — *iṣam* — food — *jīradānum* — the power of giving abundantly: "may we, the sacrificers, obtain": this is the sense of the wish described.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***asme*** — "*supāṃ suluk*" (Pā. Sū. 7-1-39 [?]): the substitution *śe* for the case ending (genitive plural).
+- ***gātum*** — root *gai śabde*; by "*kamimanijani*…" (Uṇ. Sū. 1-… [?]) the suffix *tu*; by the suffix accent the end syllable is *udātta*.
+- ***harivaḥ*** — "*chandasīraḥ*" (Pā. Sū. 8-2-15 [?]): *va* for the *m* of the suffix *matup*; "*matoḥ*"… "*sambuddhau*" (Pā. Sū. 8-3-1 [?]): *ru* in the vocative; by "*āmantritasya ca*" (Pā. Sū. 8-1-19 [?]) *nighāta*.
+- ***vidaḥ*** — root *vida jñāne*; *leṭ*, second person singular, *sip*; "*iteś ca lopaḥ*" (Pā. Sū. 3-4-97 [?]) the dropping of the vowel *i*; "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) gives the augment *a*; the final *s* of the suffix becomes visarga; being after *ati* (*tiṅ*), *nighāta* accent.
+- ***vavṛtyāḥ*** — root *vṛtu vartane*; in *liṅ*, by "*vyatyayo bahulam*" the *parasmaipada* suffix; by "*bahulaṃ chandasi*" *śluḥ* for *śap*; for that reason the root is reduplicated, and so on; *siṣ* takes *yāsuṭ*; because that is *jit*, no light-vowel guṇa; by "*tiṅ ca tiṅaḥ*" (Pā. Sū. 8-1-71? [?]) *nighāta* accent.
+- ***suvitāya*** — root *iṇ gatau*; suffix *kta*; by "*kanyādīnāṃ chandasi bahulam upasaṅkhyānam*" (a *vārttika*) the substitution of *uvaṅ*; by "*gatir anantaraḥ*" (Pā. Sū. 6-2-49 [?]) the fore-member retains its natural accent, but this being applicable, by "*sūpamānāt ktaḥ*" (Pā. Sū. 6-2-139 [?]) the final syllable of the latter member is *udātta*. ‖ 13 ‖
+
+Here ends the hundred and seventy-third (173rd) Sūkta.
+
+---
+
+**Progress note:** printed p. 312 (PDF 332) done — SŪKTA 173 COMPLETE (13 ṛks, printed pp. 237–312). Next: printed p. 313 (PDF 333), Sūkta 174. Open flags: many Ṛg/Nirukta/Brāhmaṇa refs and sūtra numerals [?]; some dense bhāṣya passages [?]; review/doubts_v13.json.
