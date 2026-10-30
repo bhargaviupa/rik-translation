@@ -5188,4 +5188,68 @@ The eternal Uṣas rises every day and lights up the world according to her rule
 
 ---
 
-**Progress note:** printed p. 220 (PDF 240) done — Sūkta 171 Ṛk 5 complete; Ṛk 6 (last ṛk of Sūkta 171): Saṃhitā and Pada written. Next: printed p. 221 (PDF 241): bhāṣya of Ṛk 6. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 221  (PDF 241)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं साहि । रक्ष । कान् । सहीयसो नॄन् सहस्वितमान् त्वदनुग्रहेणातिप्रवृद्धबलान्नेतॄन्नरानस्मान् मरुतो वा । किंच मरुद्भिः साकमस्मास्ववयातहेळा भव । अपगतमन्युर्भव । मरुत्सु वा तथा भव । किंच सुप्रकेतेभिः शोभनप्रज्ञानैर्मरुद्भिः सह सासहिः शत्रूणामभिभविता सन्दधानोऽस्मदभिमतस्य धारयिता भवेति शेषः । शिष्टो व्याख्यातः ॥ [reading doubtful in places]
+
+*Gist:* Indra is to protect us, made exceedingly strong by his favour (or the Maruts), to put away anger against us and the Maruts, and, with the wise Maruts, to overcome enemies and uphold what we desire.
+
+**Pratipadārtha.** *he indra* — O Indra; *tvam* — you; *sahīyasaḥ* — (by your favour) exceedingly strong; *nṝn* — (us) men, or the leaders (Marut-gods); *pāhi* — protect; *(kiṃca* — and*)* *marudbhiḥ* — accompanied by the Marut-gods; *avayātaheḷāḥ* — free from anger (towards us); *bhava* — be; *(and)* *marudbhiḥ* — with the Marut-gods; *supraketebhiḥ* — with the Marut-gods of excellent knowledge; *sāsahiḥ* — overcoming (enemies); *dadhānaḥ (bhava)* — be the upholder (of what is desired by us); *(vayam* — we, by your favour*)* *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain.
+
+**Bhāvārtha.** O Indra, protect us, who are of great strength by your favour; accompanied by the Marut-gods, give up your anger against us; together with the Marut-gods, endowed with good knowledge, overcome our enemies, and grant us food, strength and long life.
+
+**English Translation (as printed):** Do you, Indra, cherish the vigorous leaders (of the rains), be free from displeasure against the Maruts: overcoming (our) enemies along with the intelligent (Muruts [sic]), support us (so that) we may obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***sahīyaso nṝn*** — here Indra is addressed. The word *sahas* is read among the names of strength by the Nirukta-writers (Ni. 2-[?]). From this: "*sahasvitamān tvadanugraheṇa atipravṛddhabalān*" — we sacrificers, whose strength has greatly increased by Indra's favour; the prayer is made that Indra may be our protector.
+
+### Printed p. 222  (PDF 242)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+For the word *nṝn*, Sāyaṇa explains "*netṝn asmān marutaḥ vā*" — in two ways: "us, the leaders" or "the Marut-gods". The epithet *sahīyasaḥ* — "exceedingly strong" — fits both meanings. If the sage means himself and his descendants, it means that by Indra's favour they have obtained strong strength. Or, if it is an epithet of the Marut-gods, the power of the Marut-gods is described: their natural and collective power, and the heroic deeds performed in various ways by that power, are indicated by many epithets, such as *yujyebhiḥ pauṃsyebhiḥ*.
+
+> सप्त सप्त हि मरुतो गणस्तस्मान्मारुतः सप्तकपालः ।
+
+> *sapta sapta hi maruto gaṇas tasmān mārutaḥ saptakapālaḥ |*
+
+(Śat. Brā. 2-5-1-13 [?])
+
+> सप्त सप्त हि मारुतो गणः सर्वमेव्यैतेन रथं प्रीणाति ।
+
+> *sapta sapta hi māruto gaṇaḥ sarvamevyaitena rathaṃ prīṇāti |*
+
+(Śat. Brā. 5-4-3-17 [?]). From sentences of this kind it is understood that the Marut-gods are always in groups, and that in such a group a certain consciousness and power are naturally present. Therefore the epithet *sahīyasaḥ* is proper in the present ṛk.
+
+***nṝn*** — it is explained also as "*netṝn prajārūpiṇaḥ marutaḥ*" — "the Marut-gods, who are leaders and who are of the nature of subjects": the Marut-gods are well known as the subjects of the deities.
+
+> स एतान्मैन्द्रीं मरुत्वतीमजुहोत् [?] । क्षत्रं वा इन्द्रो विशो मरुतः क्षत्रं वै विशो निषेद्धा ॥ [as read]
+
+> *sa etānmaindrīṃ marutvatīmajuhot [?] | kṣatraṃ vā indro viśo marutaḥ kṣatraṃ vai viśo niṣeddhā ‖ [as read]*
+
+(Śat. Brā. 2-5-2-37 [?]). From sentences of this kind the meaning is understood; hence for the word *nṝn* the other meaning, *marutaḥ*, is also proper. The word *nara* is used in the Ṛk Saṃhitā itself, in many places, as an epithet of the Marut-gods. For example:
+
+> चित्रैरञ्जिभिर्वपुषे व्यञ्जते वक्षःसु रुक्माँ अधि येतिरे शुभे ।
+> अंसेष्वेषां नि मिमृक्षुरृष्टयः साकं जज्ञिरे स्वधया दिवो नरः ॥
+
+> *citrair añjibhir vapuṣe vy añjate vakṣaḥsu rukmāṃ adhi yetire śubhe |*
+> *aṃseṣv eṣāṃ ni mimṛkṣur ṛṣṭayaḥ sākaṃ jajñire svadhayā divo naraḥ ‖*
+
+(Ṛ. Saṃ. 1-64-4)
+
+> विश्ववेदसो रयिभिः समोकसः संमिश्लास्तविषीभिर्विरप्शिनः ।
+> अस्तार इषुं दधिरे गभस्त्योरनन्तशुष्मा वृषखादयो नरः ॥
+
+> *viśvavedaso rayibhiḥ samokasaḥ saṃmiślās taviṣībhir virapśinaḥ |*
+> *astāra iṣuṃ dadhire gabhastyor anantaśuṣmā vṛṣakhādayo naraḥ ‖*
+
+(Ṛ. Saṃ. 1-64-10). In many ṛks of this kind the word *naraḥ* shows the nature of the Marut-gods. In the same way, in the present ṛk too, *nṝn* may be taken to mean the Marut-gods.
+
+---
+
+**Progress note:** printed p. 222 (PDF 242) done — Sūkta 171 Ṛk 6 through Special Topics (grammar, the colophon of Sūkta 171 and Sūkta 172 heading on p. 223). Next: printed p. 223 (PDF 243). Open flags: ref numerals (Śat. Brā., Ṛg) [?]; review/doubts_v13.json.
