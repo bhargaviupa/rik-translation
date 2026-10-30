@@ -2812,4 +2812,54 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 126 (PDF 146) done — Sūkta 168 Ṛk 4 complete through grammar; end of Ṛk 4 on p. 127 ('‖ 4 ‖' marker to check). Next: printed p. 127 (PDF 147). Open flags: small-type numerals [?]; Ṛk 4 bhāṣya [?] words; review/doubts_v13.json.
+### Printed p. 127  (PDF 147)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6". The scan of this page is smudged; the readings below are therefore marked [?] more often.)*
+
+*(Grammar of Ṛk 4, concluded; noted briefly)*: *bhrājadṛṣṭayaḥ* (root *bhrāja dīptau*; *śatṛ* in place of *laṭ* by *vyatyaya*; the accent of the root stays since the *lasārvadhātuka* ending is unaccented; *ṛṣṭi* from root *ṛṣī gatau*, with the affix *kric* [as read], which yields the form *ṛṣṭi*; in the *bahuvrīhi* the first member keeps its own accent). ‖ 4 ‖
+
+*(ornamental rule)*
+
+**॥ संहितापाठः ॥**
+
+> को वोऽन्तर्मरुत ऋष्टिविद्युतो रेजति त्मना हन्वेव जिह्वया ।
+> धन्वच्युत इषां न यामनि पुरुप्रैषा अहन्यो नैतशः ॥ ५ ॥
+
+> *ko vo 'ntarmaruta ṛṣṭividyuto rejati tmanā hanveva jihvayā |*
+> *dhanvacyuta iṣāṃ na yāmani purupraiṣā ahanyo naitaśaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> कः । वः । अन्तः । मरुतः । ऋष्टिऽविद्युतः । रेजति । त्मना । हन्वाऽइव । जिह्वया ।
+> धन्वऽच्युतः । इषाम् । न । यामनि । पुरुऽप्रैषाः । अहन्यः । न । एतशः ॥ ५ ॥
+
+> *kaḥ | vaḥ | antaḥ | marutaḥ | ṛṣṭi 'vidyutaḥ | rejati | tmanā | hanvā 'iva | jihvayā |*
+> *dhanva 'cyutaḥ | iṣām | na | yāmani | puru 'praiṣāḥ | ahanyaḥ | na | etaśaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः ऋष्टिविद्युतः मेघभेदनायुधविशेषेण विद्योतमानाः युष्माकमन्तर्युष्मासु मध्ये स्थितः कः पुमान् रेजति । चालयति । प्रेरयति । तर्हि कथं चालनमित्युच्यते । त्मना आत्मनैव । चालने दृष्टान्तः । जिह्वया हन्वेव । द्विवचनस्याकारः [?] । हनू इव । तौ यथा जिह्वया चाल्येते तद्वत् । यद्यप्येवं तथापीषामन्नानां तत्साधनानां सस्यानां यामनि प्राप्तौ सम्यक्सिद्ध्यर्थं धन्वच्युतो न [?] । धन्वन्नन्तरिक्षं [?] वचनः [?] । तेन तत्स्थमुदकं लक्ष्यते । उदकेन आविर्भूतो मेघा [?] इव । तेन यथाकाङ्क्षन्ते [?] तथा युष्मानन्नादिप्राप्तये पुरुप्रैषा बहुविधं फलमिच्छन् यजमानः स्तोत्रैर्बहुप्रकारमाकारयतीत्यर्थः [?] । तत्र दृष्टान्तः । अहन्योऽश्वो भवत्येतशो नाश्व इव । स यथा शिक्षकेण नानाप्रकारं प्राप्यते तद्वत् [?] ।
+
+*Gist:* Who among you, lightning-armed Maruts, moves you? You move of yourselves, like the jaws moved by the tongue; for food and crops, the sacrificer, as one trains a horse daily, urges you in many ways with praise.
+
+**Pratipadārtha.** *ṛṣṭividyutaḥ* — the ones shining as if with a special weapon that splits clouds; *(he)* *marutaḥ* — O Marut-gods; *vaḥ* — your; *antaḥ* — among (you) (standing); *kaḥ* — who; *hanvā* — the two jaws
+
+### Printed p. 128  (PDF 148)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+— *jihvayā iva* — as the tongue moves (them); *tmanā* — by yourselves; *rejati* — makes (you) move? — *(tathāpi* — nevertheless*)* *iṣām* — of foods (of crops, the means of food); *yāmani* — for attainment (prosperity); *dhanvacyutaḥ na* — like clouds that pour out the water present in the sky [?]; *(vaḥ* — you*)*; *ahanyaḥ* — on every day too; *etaśaḥ na* — like a horse made to move in many ways by a trainer; *puruprraiṣāḥ* — (the sacrificer, desiring many fruits) by praises urges you in many ways.
+
+**Bhāvārtha.** O Marut-gods, shining as if with a weapon that splits clouds — who is it that would make you move, as the tongue makes the two jaws move, when you are yourselves in your midst? Even so, as a trainer, at the time of exercise, turns a horse about in many ways, and as clouds are needed by crops, so the sacrificer makes you, who are needed for the many kinds of fruits of the sacrifice, favourable to himself with his hymns of praise.
+
+**English Translation (as printed):** Maruts, lightning-armed, who, (standing) amongst you, sets you of yourselves in motion, as the jaws are (set in motion) by the tongue: as falling rains (are essential) for the obtaining of food, so (those, desirous of sustenance), excite you in various ways, like a horse in (his) daily (training).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***ṛṣṭi vidyutaḥ*** — *meghabhedanāyudhaviśeṣeṇa vidyotamānāḥ*: the word *ṛṣṭi* conveys a special weapon. By this weapon the Marut-gods shine. The question, "who sets them in motion in the work of splitting the cloud?", is asked by the sentence *ko rejati*; and to answer it, and to remove the impossibility of a motion-action, the reply *tmanā* ("of themselves") is given. Rain does not result merely from the Marut-gods' wearing the weapon and shining; as the action of splitting the cloud is brought about, there is no one else to urge them, so the meaning is described that they themselves split the cloud with their weapon.
+
+***jihvayā hanveva*** — as the tongue (*jihvā*) moves the two jaws. It is compared thus: as, when the Marut-gods, set in motion by themselves, split the cloud, the movement-action arises, the impelling cause is born from the Marut-gods themselves; in this matter, as the movement of the jaws arises of itself from the movement-action of the tongue, it is said by way of a further illustration (*dṛṣṭāntara*).
+
+---
+
+**Progress note:** printed p. 128 (PDF 148) done — Sūkta 168 Ṛk 4 complete; Ṛk 5: Saṃhitā to Special Topics in progress (continues p. 129). Next: printed p. 129 (PDF 149). Open flags: p. 127 scan smudged, bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
