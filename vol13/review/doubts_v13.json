@@ -2374,5 +2374,29 @@
   ],
   "note": "grammar sutra numerals small type",
   "answer": ""
+ },
+ {
+  "pdf": 305,
+  "printed": 285,
+  "crop": [
+   0.65,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Taittiriya Samhita quote prajapatir vava jyesthah.. garbled/approx; ref small",
+  "answer": ""
+ },
+ {
+  "pdf": 306,
+  "printed": 286,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Tai.Sam 6-1-1-4,5; Atharva 9-1-2?; Ait.Br 13-6 refs small; Rbhu quotes read approx",
+  "answer": ""
  }
 ]
