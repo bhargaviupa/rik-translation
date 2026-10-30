@@ -23,3 +23,6 @@ Goal: near-zero errors on the FIRST pass. Principles come from the Vol 5/6 corre
 7. **Git/LFS.** If `git checkout -b … origin/main` fails with "should have been a pointer", the working copy of a scan is the real file: use `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull` for the scans needed (scans are normal files in vol13/scans/).
 8. **Background jobs.** `pkill -f PATTERN` can kill your own shell; kill by PID (`ps -eo pid,comm,args | awk … | xargs kill -9`). Kill a job you drop, and ignore expired-Monitor notices for it. Do not poll with sleep.
 9. **Ask before long or costly steps**; give the cheap alternative in the same message.
+
+## Lean mode (user, Oct 30): cut cost everywhere
+Only the translation work: no extra audits, sample tests or calibration passes. View each page once at ~100–120 dpi, whole text block; **zoom only a crop that is in doubt** (numerals, garbled letters); `[?]` otherwise. No per-sūkta OCR/inventory scans. Heading blocks and Ṛk counts are read when a sūkta starts. Kannada file alongside the English as in Vol 11, from the same single viewing. Lint and the 10% blind re-read audit only if the user asks.
