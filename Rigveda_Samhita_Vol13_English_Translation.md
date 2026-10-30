@@ -13814,4 +13814,62 @@ O Aśvins! When your chariot sets out for the place desired, your chariot-horses
 
 ---
 
-**Progress note:** printed p. 500 (PDF 520) done — Sūkta 180 Ṛk 1 Special Topics (rathaḥ, rajāṃsi, pavayaḥ) and grammar begun (yuvoḥ, suyamāsaḥ, dīyat; continues p. 501). Next: printed p. 501 (PDF 521). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 501  (PDF 521)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 501.)*
+
+**Vyākaraṇa-prakriyā (grammar, continued)** — noted briefly (sūtra numerals [?]):
+
+- ***hiraṇyayāḥ*** — by "*ṛtvyāvāstvyāvāstvamādhvīhiraṇyayāni chandasi*" (Pā. Sū. 6-4-175 [?]) the elision of *m* occurs, and the form is irregularly derived. By the suffix accent the *a* is *udātta*; when it is combined as a single substitute with a preceding *anudātta*, by "*ekādeśa udāttenodāttaḥ*" it is *udātta*.
+- ***pruṣāyan*** — root *pruṣa pluṣa snehanasecanapūraṇeṣu*, *kryādi* class; *leṭ*, third person plural, *anta* in place of the ending; by "*itaś ca lopaḥ*" (Pā. Sū. 3-4-97 [?]) elision of the final *i*; by "*chandasi śāyajapi*" (Pā. Sū. 3-1-84 [?]) *śāyac* by *vyatyaya* in place of the *śnā* *vikaraṇa*; since it stands in an *atiṅanta* word, the *nighāta* accent occurs.
+- ***madhvaḥ*** — when the *guṇa* and other changes in *jas* and the following cases do not occur, by the statement "*jasādiṣu chandasi vā vacanam*" the *yaṇ* substitution; the genitive is in the sense of the object.
+- ***pibantā*** — root *pā pāne*; *śatṛ* in place of *laṭ*; *śap* as *vikaraṇa*; by "*pāghrādhmā…*" (Pā. Sū. 7-3-78 [?]) *piba* substituted; the *lasārvadhātuka* being *anudātta*, the root accent remains.
+- ***sacethe*** — root *saca samavāye*; *laṭ*, third person dual; *tiṅ*-final *nighāta* accent. ‖ 1 ‖
+
+---
+
+**Sūkta 180, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> युवमत्यस्याव नक्षथो यद्विपत्मनो नर्यस्य प्रयज्योः ।
+> स्वसा यद्वां विश्वगूर्ती भराति वाजायेट्टे मधुपाविषे च ॥ २ ॥
+
+**Pada-pāṭha**
+
+> युवम् । अत्यस्य । अव । नक्षथः । यत् । विऽपत्मनः । नर्यस्य । प्रऽयज्योः ।
+> स्वसा । यत् । वाम् । विश्वऽगूर्ती इति विश्वऽगूर्ती । भराति । वाजाय । ईट्टे । मधुऽपौ । इषे । च ॥ २ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवं युवां यदेत्यस्यातनशीलस्य [?] सततसञ्चारिणो विपत्मनो विविधगमनस्य विचित्रगमनस्य वा नर्यस्य मनुष्याणां हितस्य प्रयज्योः प्रकर्षेण
+
+> *he aśvinau yuvaṃ yuvāṃ yadetyasyātanaśīlasya [?] satatasañcāriṇo vipatmano vividhagamanasya vicitragamanasya vā naryasya manuṣyāṇāṃ hitasya prayajyoḥ prakarṣeṇa*
+
+### Printed p. 502  (PDF 522)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 502.)*
+
+> पूज्यस्य ॥ एतानि कर्मणि षष्ठ्यन्तानि ॥ उक्तरूपं रथमववासत्त्तुदुदयोत्त्रोर्वं [?] नक्षथः व्याप्नुथो देवयजनं गन्तुम् । किंच यद्यदा हे विश्वगूर्ती सर्वस्तुत्यौ सर्वदोद्गूर्णौ वा वां युवयोः स्वसा स्वसृस्थानीया स्वयंसारिणी वोषा [?] भराति पोषयते त्वदागमनाय प्रभातं करोति । यदा हे मधुपौ मधुरस्य सोमरसस्य पातारौ युवां यजमानो वाजाय बलाय गमनाय वेषे [?] प्रभूतान्नायेट्टे स्तौति । तदा रथं प्राप्नुथ इत्यर्थः ॥ [as read; the first sentence on this page is doubtful [?]]
+
+*Gist:* The Aśvins set out in their swift, much-worshipped chariot when their sister Dawn rises and the sacrificer praises them for strength and food.
+
+**Pratipadārtha**
+
+(*he* **Aśvinau**) — O Aśvins; **yuvam** — you two; **yat** — when; **atyasya** — constantly moving; **vipatmanaḥ** — of varied (wonderful) motion; **naryasya** — beneficial to men; **prayajyoḥ** — especially to be honoured (your chariot); **ava nakṣathaḥ** — you set out downward (to go to the sacrificial hall); (**kiṃ ca** — and) **yat** — when; (*he*) **viśvagūrtī** — O all-praised (ever eager) Aśvins; **vām** — your; **svasā** — the sister-like (going by her own power) Dawn-goddess; **bharāti** — nourishes (you) [or rouses (you) for coming]; (**tadā** — then) (*he*) **madhupau** — O drinkers of the Soma juice; **vām** — you two; **vājāya** — for strength or for going; **iṣe ca** — and for abundant food; **īṭṭe** — (the sacrificer) praises.
+
+**Bhāvārtha**
+
+O all-praised Aśvins, drinkers of the Soma! When your chariot, ever moving, of wonderful motion, beneficial to men and highly worthy of honour, sets out for the sacrificial hall, as your sister-like goddess Dawn rises at your coming; then the sacrificer praises you, praying "grant strength and food".
+
+**Printed English**
+
+> Direct downwards (the course) of your (car) swift moving, variously going, friendly to man, and to be especially venerated, when, all adorable, your sister (dawn) prepares (for your approach), and (the institutor of the ceremony) worships you, drinkers of the Soma juice, for the sake (of obtaining) strength and food.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk both the nature of the chariot of the deities Aśvins and the relation between them and the deity Uṣas (Dawn) are described.
+
+---
+
+**Progress note:** printed p. 502 (PDF 522) done — Sūkta 180 Ṛk 1 complete; Ṛk 2: Saṃhitā…printed English, Special Topics begun. Next: printed p. 503 (PDF 523). Open flags: refs [?]; bhāṣya Ṛk 2 doubtful [?]; review/doubts_v13.json.
