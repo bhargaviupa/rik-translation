@@ -4474,5 +4474,29 @@
   ],
   "note": "bhashya 'stotvanodyanta' garbled; 'na lokavyaya' sutra tail",
   "answer": ""
+ },
+ {
+  "pdf": 481,
+  "printed": 461,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 10-110-7, Brh.De 2-22/2-27, Rg 2-43-1 small; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 482,
+  "printed": 462,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 dense Sanskrit; middle part (vivaci ... samarye) read approx; 'satyakaryayam' etc",
+  "answer": ""
  }
 ]
