@@ -12709,8 +12709,10 @@ bharasva sumnayur giraḥ ||10||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.11**
 
-> यो नो अग्नेऽभिदासत्यन्ति दूरे पदीष्ट सः ।
-> अस्माकमिद्वृधे भव ॥ ११ ॥
+*(Accents as printed, 300 dpi; underline positions doubtful: [accent ?].)*
+
+> यो नो॑ अग्नेऽभि॒दास॒त्यन्ति॑ दू॒रे प॑दी॒ष्ट सः ।
+> अ॒स्मा॒कमि॒द्वृधे॑ भव ॥ ११ ॥
 
 *yo no agne 'bhidāsaty anti dūre padīṣṭa saḥ |
 asmākam id vṛdhe bhava ||11||*
