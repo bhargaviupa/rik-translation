@@ -1642,5 +1642,29 @@
   ],
   "note": "refs: Ni. for shavas / usra; 1-182-8; 1-165-15; SBE XXXII p.289",
   "answer": ""
+ },
+ {
+  "pdf": 237,
+  "printed": 217,
+  "crop": [
+   0.45,
+   0.78,
+   0.05,
+   0.95
+  ],
+  "note": "Brihaddevata refs 5-146,147; Sat.Br 1-6-4-18; Rg 1-6-1 numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 238,
+  "printed": 218,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs 3-61-1, 1-113-15, 1-48-3, 7-79-1 numerals",
+  "answer": ""
  }
 ]
