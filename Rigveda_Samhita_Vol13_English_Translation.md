@@ -11915,4 +11915,86 @@ O Indra! This sacrifice, which is for the deities; this victim fit for the sacri
 
 ---
 
-**Progress note:** printed p. 440 (PDF 460) done — Sūkta 177 Ṛk 4: Saṃhitā…printed English, Special Topics begun (continues p. 441). Next: printed p. 441 (PDF 461). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 441  (PDF 461)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; page 441.)*
+
+**Special Topics (continued)**
+
+> स घा तं वृषणं रथमधि तिष्ठाति गोविदम् ।
+> यः पात्रं हारियोजनं पूर्णमिन्द्र चिकेतति योजा न्विन्द्र ते हरी ॥
+
+> *sa ghā taṃ vṛṣaṇaṃ rathamadhi tiṣṭhāti govidam |*
+> *yaḥ pātraṃ hāriyojanaṃ pūrṇamindra ciketati yojā nvindra te harī ‖*
+
+(Ṛ. Saṃ. 1-82-5 [?]) — here *hāriyojana-mety-saṃjñakam* (as read [?]): Sāyaṇa explains it as "the vessel full of Soma, mixed with grain (*dhānā*), that is called *hāriyojana*"; *hāri* means grain-mixed Soma juice. In the Kauṣītaki Brāhmaṇa, in the portion called *Hāriyojana-graha*, two ṛks connected with that cup are prescribed. Of these, the first is:
+
+> तिष्ठा सु कं मघवन्मा परा गाः सोमस्य नु त्वा सुषुतस्य यक्षि ।
+> पितुर्न पुत्रः सिचमा रभे त इन्द्र स्वादिष्ठया गिरा शचीवः ॥
+
+> *tiṣṭhā su kaṃ maghavanmā parā gāḥ somasya nu tvā suṣutasya yakṣi |*
+> *piturna putraḥ sicamā rabhe ta indra svādiṣṭhayā girā śacīvaḥ ‖*
+
+(Ṛ. Saṃ. 3-35-2 [?]) — and the second is the ṛk 1-82-5 cited above; so it is explained that these are the two mantras of this occasion. In the Taittirīya Saṃhitā the matter of the *hāriyojana* is given thus:
+
+> हरिरसि हारियोजनो हर्योः स्थाता वज्रस्य भर्ता पृश्नेः प्रेता तस्य ते देव सोमेस्वयजुषः [?] स्तुतस्तोमस्य शस्त्रोक्थस्य हरिवन्तं ग्रहं गृह्णामि हरीः स्थ हर्योर्धानाः सह सोमा इन्द्राय स्वाहा ॥
+
+> *harirasi hāriyojano haryoḥ sthātā vajrasya bhartā pṛśneḥ pretā tasya te deva somesvayajuṣaḥ [?] stutastomasya śastrokthasya harivantaṃ grahaṃ gṛhṇāmi harīḥ stha haryordhānāḥ saha somā indrāya svāhā ‖*
+
+(Tai. Saṃ. 1-4-38 [?]) — explaining the word *hāriyojana* used here, Bhaṭṭabhāskara says:
+
+> हरिरसीति । सोमः एवोच्यते । हरिरिन्द्रः । स एव त्वमसीतीन्द्रात्मना सोमः स्तूयते । यद्वा हरिर्हर्ता अभिमतानां श्रेयसामाहर्ता त्वमसि । हारियोजनः हरिः अश्वविशेषः योजनो वाहनं यस्य स हरियोजनः इन्द्रः तस्य स्वभूतः हारियोजनः इन्द्रोऽसीत्यर्थः ।
+
+> *harirasīti | somaḥ evocyate | haririndraḥ | sa eva tvamasītīndrātmanā somaḥ stūyate | yadvā harirhartā abhimatānāṃ śreyasāmāhartā tvamasi | hāriyojanaḥ hariḥ aśvaviśeṣaḥ yojano vāhanaṃ yasya sa hariyojanaḥ indraḥ tasya svabhūtaḥ hāriyojanaḥ indro 'sītyarthaḥ |*
+
+— he has given the sense that *hāriyojana* is the Soma; "*hari* means Indra's horses; the one who has those horses as his vehicle is *hariyojana*, i.e. Indra; since it belongs to that Indra, the name *hāriyojana* became well known." In the Śatapatha Brāhmaṇa the same matter is explained thus:
+
+> अथ हारियोजनं गृह्णाति । छन्दांसि वै हारियोजनश्छन्दांस्येवैतत्संतर्पयति तस्माद्धारियोजनं गृह्णाति ॥
+
+> *atha hāriyojanaṃ gṛhṇāti | chandāṃsi vai hāriyojanaśchandāṃsyevaitatsaṃtarpayati tasmāddhāriyojanaṃ gṛhṇāti ‖*
+
+(Śa. Brā. 4-4-3-2 [?]) — and so on, the matter of the *hāriyojana-graha* has been explained. In the present context there is no need for a detailed account of it; therefore, when occasion for explaining it arises later, the nature of this cup and its nature as a limb of the rite will be given. In the mantra at hand, which is connected with such a *hāriyojana-graha*, [the passage continues on the next page.]
+
+### Printed p. 442  (PDF 462)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177"; page 442.)*
+
+… "*ayaṃ yajñaḥ; ayam miyedhaḥ*" — "this sacrifice is offered; this animal is offered", and so on — Indra is directly addressed.
+
+***yajñaḥ*** — "*yajña*" means in the gross sense an act of worship (*pūjākarma*). The Nirukta-writers explain the derivation of this word at length:
+
+> यज्ञः कस्मात् प्रख्यातं यजति कर्मेति नैरुक्ताः । याच्ञो भवतीति वा । यजुरुन्नो भवतीति वा । बहुकृष्णाजिन इत्यौपमन्यवः । यजूंष्येनं नयन्तीति वा ॥
+
+> *yajñaḥ kasmāt prakhyātaṃ yajati karmeti nairuktāḥ | yācño bhavatīti vā | yajurunno bhavatīti vā | bahukṛṣṇājina ityaupamanyavaḥ | yajūṃṣyenaṃ nayantīti vā ‖*
+
+(Ni. 3-19 [?]) — "*yajña* is the well-known rite of worship", is the view of the Nirukta-writers. Some say it is a petition made in the presence of the deities (*yācñā*); others, that it is that in which *yajus* mantras raise up (*unna*); others, that it is so called because black antelope skins are numerous in it (so Aupamanyava); still others, that the *yajus* mantras lead it forward — so they give different etymologies.
+
+***miyedhaḥ*** — here this word is used as a synonym of *paśu* ("animal"). *Miyedha* means "fit for *medha*", i.e. fit for sacrifice or fit for praise. It is used in some places also as a synonym of *yajña*. For example:
+
+> आ देवानामग्रयावेह यातु नराशंसो विश्वरूपेभिरश्वैः ।
+> ऋतस्य पथा नमसा मियेधो देवेभ्यो देवतमः सुषूदत् ॥
+
+> *ā devānāmagrayāveha yātu narāśaṃso viśvarūpebhiraśvaiḥ |*
+> *ṛtasya pathā namasā miyedho devebhyo devatamaḥ suṣūdat ‖*
+
+(Ṛ. Saṃ. 10-20-3 [?], as read) — here *miyedhaḥ* is explained *medhyaḥ yajñahitaḥ stutiyogyo vā* ("fit for the sacrifice, beneficial to the sacrifice, or worthy of praise") as an epithet of Agni; and
+
+> अग्निं होतारं प्र वृणे मियेधे गृत्सं कविं विश्वविदममूरम् ।
+> स नो यक्षद्देवताता यजीयान्राये वाजाय वनते मघानि ॥
+
+> *agniṃ hotāraṃ pra vṛṇe miyedhe gṛtsaṃ kaviṃ viśvavidamamūram |*
+> *sa no yakṣaddevatātā yajīyānrāye vājāya vanate maghāni ‖*
+
+(Ṛ. Saṃ. 3-19-1 [?]) — here *miyedhe asmābhiḥ kriyamāṇe 'smin yajñe* ("in this sacrifice being performed by us") is used as a synonym of the sacrifice.
+
+In the ṛk at hand, *medhaḥ paśuḥ*: the commentator states that the word *miyedha* is a synonym of *paśu*, which is fit for the sacrifice, and to support his meaning he cites the *śruti* sentence "*paśur vai medhaḥ*" ("the animal is the sacrifice"). Likewise in the Śatapatha Brāhmaṇa also:
+
+> कतमो यज्ञ इति पशव इति ।
+
+> *katamo yajña iti paśava iti |*
+
+(Śa. Brā. 11-2-3-6 [?]) — [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 442 (PDF 462) done — Sūkta 177 Ṛk 4 Special Topics under way (hāriyojana, yajña, miyedha; continues p. 443). Next: printed p. 443 (PDF 463). Open flags: many Ṛg/Ni./Brā. refs [?]; review/doubts_v13.json.
