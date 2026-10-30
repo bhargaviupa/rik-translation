@@ -4402,5 +4402,29 @@
   ],
   "note": "refs Rg 6-49-3, 1-96-5, 10-110-6, Brh.De 3-8 small",
   "answer": ""
+ },
+ {
+  "pdf": 475,
+  "printed": 455,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-140-1, 6-16-40, AiBr 1-18, SB 11-1-8-3, BhG 3-14/15 small; SB quote garbled (yadvai tena, yathaiva, yatve); 'yadagnir agneh'",
+  "answer": ""
+ },
+ {
+  "pdf": 476,
+  "printed": 456,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 10-90-16, TS 7-3-4-3, SB 14-3-2-1 small",
+  "answer": ""
  }
 ]
