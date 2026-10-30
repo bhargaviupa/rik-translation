@@ -2422,5 +2422,29 @@
   ],
   "note": "Chandogya lokadvaram quote with omission; ref small",
   "answer": ""
+ },
+ {
+  "pdf": 309,
+  "printed": 289,
+  "crop": [
+   0.05,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya 3-16-4..7 refs small; quotes read from image",
+  "answer": ""
+ },
+ {
+  "pdf": 310,
+  "printed": 290,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha quote garbled in places; ref 3-2-1-53..59? small",
+  "answer": ""
  }
 ]
