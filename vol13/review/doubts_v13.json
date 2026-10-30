@@ -4546,5 +4546,29 @@
   ],
   "note": "refs Ni 3-9, Ni 1-7, Rg 2-11-21 small; 'opulent' first letter faint",
   "answer": ""
+ },
+ {
+  "pdf": 487,
+  "printed": 467,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 14-1-1-13, Rg 7-99-5; syama 'lan/lin' as printed; sutra 8-3-87 name; numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 488,
+  "printed": 468,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Anukramanika text of Suk 179 garbled in places (agastyasisyair drstatvat...); verify; Varga 22 numeral",
+  "answer": ""
  }
 ]

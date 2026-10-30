@@ -12770,4 +12770,64 @@ O wealthy Indra! You alone are our protector; by your aid alone have we overcome
 
 ---
 
-**Progress note:** printed p. 466 (PDF 486) done — Sūkta 178 Ṛk 4 complete; Ṛk 5: Saṃhitā…printed English, Special Topics begun (maghavan; continues p. 467). Next: printed p. 467 (PDF 487). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 467  (PDF 487)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 467.)*
+
+**Special Topics (continued)** — … a synonym. Besides this, *maghavā* cannot be called wrong even if it is said to mean "Indra united with Viṣṇu". For Indra obtains Viṣṇu's help when fighting the Asuras and others, and since the name *makha* is well known for Viṣṇu, the Śruti gives support for this meaning in such contexts. For example:
+
+> स उ एव मखः स विष्णुः । तत इन्द्रो मखवानभवन्मखवान्ह वै तं मघवानित्याचक्षते परोक्षं परोक्षकामा हि देवाः ।
+
+> *sa u eva makhaḥ sa viṣṇuḥ | tata indro makhavānabhavanmakhavānha vai taṃ maghavānityācakṣate parokṣaṃ parokṣakāmā hi devāḥ |*
+
+(Śa. Brā. 14-1-1-13 [?]) — since Viṣṇu is *makha*, and Indra is such a possessor of *makha*, the Śatapatha Brāhmaṇa explains the word *maghavan*: the deities, who love the indirect, call that *makhavān* "*maghavān*". And:
+
+> इन्द्राविष्णू दृंहिताः शम्बरस्य नव पुरो नवतिं च श्नथिष्टम् ।
+
+> *indrāviṣṇū dṛṃhitāḥ śambarasya nava puro navatiṃ ca śnathiṣṭam |*
+
+(Ṛ. Saṃ. 7-99-5 [?]) — in such ṛks Indra, together with Viṣṇu, is described as having slain the Asuras; and because he is united with such a Viṣṇu there is the epithet *maghavā*.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***syāma*** — root *asa bhuvi*; *liṅ* [printed *laṅ* [?]], first person (plural); *tiṅ*-final *nighāta* accent. Since the prefix *abhi* precedes, by "*upasargaprāduḥbhyām astir yacparaḥ*" (Pā. Sū. 8-3-87 [?]) the initial *s* becomes *ṣ*.
+- ***mahataḥ*** — by "*bṛhanmahator upasaṃkhyānam*" (*vārttika*) the case-ending takes the *udātta* accent.
+- ***manyamānān*** — root *man avabodhane*; *laṭ*, with *śānac* substituted; *śyan* as the *vikaraṇa*; by "*ānemuk*" the augment *muk*; the *lasārvadhātuka* being *anudātta*, and *śyan* having *ñ* as marker, by "*ñnityādir nityam*" the *ādyudātta* accent.
+- ***trātā*** — root *trai pālane* (*trāṅ*); the suffix *tṛc* in the agent; by "*ād eś ca upadeśe 'śiti*" (Pā. Sū. 6-1-45 [?]) *ā* for the root; being *cit*, the final syllable is *udātta*.
+- ***vṛdhe*** — root *vṛdhu vardhane*; the suffix *kvip*; dative singular; by "*sāvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending takes the *udātta* accent.
+- ***bhūḥ*** — root *bhū sattāyām*; Vedic *luṅ* in the sense of *loṭ*; second person singular; the augment *aṭ* does not occur. ‖ 5 ‖
+
+### Printed p. 468  (PDF 488)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 468.)*
+
+*(Sūkta 178 ends here; no closing line is printed.)*
+
+---
+
+## Sūkta 179 (the 179th Sūkta; "Nūra eppattoṃbhattaneya sūktavu")
+
+> पूर्वीरहमिति षडृचं पञ्चदशं सूक्तं त्रैष्टुभम् । उपान्त्या बृहती । अत्र त्रयाणां द्व्यृचानां लोपामुद्रागस्त्यशिष्यैर्दृष्टत्वात्त एवर्षयः [?] । सूक्तप्रतिपाद्योऽर्थो रतिर्देवता । अत्रानुक्रमणिका । पूर्वीः षड्जायापत्योर्लोपामुद्रायाा अगस्त्यस्य च द्व्यृचाभ्यां रत्यर्थं संवादं श्रुत्वान्तेवासी ब्रह्मचार्यन्त्ये बृहत्यदी अपश्यदिति ॥ विशेषविनियोगो लैङ्गिकः ॥ [as read; garbled in places [?]]
+
+*Translation of the introduction:* This Sūkta beginning "*pūrvīraham*" is the fifteenth sūkta in the twenty-third Anuvāka. It has six ṛks. The ṛṣi is Agastya; the metre is Triṣṭubh — but the penultimate ṛk (the fifth) is of Bṛhatī metre. In this sūkta, since the mantras are seen by two persons at a time — that is, Lopāmudrā for Ṛks 1–2, Agastya for Ṛks 3–4, and Agastya's disciple for Ṛks 5–6 — those very persons are the ṛṣis of the respective ṛks. The subject taught in the sūkta, *rati* ("conjugal love"), is its deity. The Anukramaṇikā says: "*pūrvīḥ ṣaḍ…*" — i.e. in the six ṛks of this sūkta beginning "*pūrvīraham*", the conversation that took place on the subject of *rati* between the married pair, Lopāmudrā and the ṛṣi Agastya, is told in Ṛks 1–4; the matter that their pupil heard this conversation is told in Ṛks 5–6. Only the fifth ṛk is of Bṛhatī metre; the remaining ṛks are of Triṣṭubh metre. The special application (*viśeṣaviniyoga*) of this sūkta is *laiṅgika* (as the context indicates).
+
+**Sūkta 179**
+
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 179 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 22 ‖
+Number of ṛks in the Sūkta — 6 ‖
+Ṛṣi — 1–2 Lopāmudrā; 3–4 Agastya; 5–6 Antevāsī Brahmacārī (Agastya's disciple, a student) ‖
+Chandas — 1–4, 6 Triṣṭubh; 5 Bṛhatī ‖
+
+**Sūkta 179, Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> पूर्वीरहं शरदः शश्रमाणा दोषा वस्तोरुषसो जरयन्तीः ।
+> मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ॥ १ ॥
+
+> *pūrvīrahaṃ śaradaḥ śaśramāṇā doṣā vastoruṣaso jarayantīḥ |*
+> *mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ ‖ 1 ‖*
+
+---
+
+**Progress note:** printed p. 468 (PDF 488) done — Sūkta 178 complete (5 ṛks); Sūkta 179 heading (Varga 22, 6 ṛks; Lopāmudrā/Agastya/disciple) and Ṛk 1 Saṃhitā written. Next: printed p. 469 (PDF 489), Ṛk 1 Pada. Open flags: refs [?]; review/doubts_v13.json.
