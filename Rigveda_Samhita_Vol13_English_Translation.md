@@ -16154,4 +16154,62 @@ For the word **piśaṅgarūpaḥ** Sāyaṇa has explained "*hiraṇyarūpaḥ,
 
 ---
 
-**Progress note:** printed p. 576 (PDF 596) done — Sūkta 181 Ṛk 5 ends (Special Topics, grammar); Ṛk 6 Saṃhitā, Pada, bhāṣya begun (continues p. 577). Next: printed p. 577 (PDF 597). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 577  (PDF 597)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 577.)*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> न । वर्षिता यथेन्द्रः । स इव शत्रूणां निष्षाट् निःसारयिता सन् पूर्वीर्बह्वीः पुरातनीर्वेषोऽन्नानि ससस्यादीन्यृद्ध्यै प्र चरति । प्रकर्षेण गच्छति । मध्यमस्थानश्चन्द्र इति पक्षे शरद्वाञ्छरत्कालवान् । तस्मिन्नृतौ हि चन्द्रः संनद्धो भवति । तेन च तृणगुल्मौषध्यादीनि वर्धन्ते । स किमर्थमेवं करोतीत्युच्यते । मध्वः इष्णन् मधुनो मधुसदृशस्य हविषः । किमर्थं हविष इष्णन् । हविरिच्छन् । तदर्थमेवं करोति । तथान्यस्येत्यादित्यस्यैवैः कामैर्गमनैर्वा निमित्तैर्भूतैः पीपयन्ते । आप्याययन्ति हविर्भिर्यजमानाः । तुष्ट्येन तेन प्रेरिता वेषन्तीर्व्याप्नुवन्तीः ऊर्ध्वा उन्नता उत्तीरा नद्यो न नदनशीला यथा नोऽस्मदर्थमागुः आगच्छन्ति ॥
+
+*(Sanskrit as read; several words doubtful [?]. Gist: one of the Aśvins is "autumnal" (Moon) who, like Indra, drives off foes and moves about for the offering; the other's horses the sacrificers feed with oblations, and blessings come flowing like swollen rivers.)*
+
+**Pratipadārtha** — (*he aśvinau* — O Aśvin deities!) **śaradvān** — the one who makes clouds, trees, leaves etc. wither (or: the one endowed with the autumn season); **vṛṣabhaḥ na** — like Indra, the rain-giver of desires; **niṣṣāṭ** — the one who drives away foes; **vāṃ** — among you two (the one, the Moon); **pūrvīḥ** — manifold, or ancient; **iṣaḥ** — foods (as the object); **madhvaḥ** — the sweet-flavoured oblation; **iṣṇan** — desiring; **pra carati** — moves forth, wandering about (**tathā** — likewise); **anyasya** — of the other one, of the Āditya (Sun) of the upper world; **evaiḥ** — with desires, or with goings (with respect to them); **vājaiḥ pīpayanta** — they (the sacrificers) gladden him with oblations etc. (by him, thus gladdened, being impelled); **veṣantīḥ** — pervading ones (fruits); **ūrdhvāḥ** — overflowing the banks, running; **nadyaḥ (na)** — like rivers; **naḥ** — to us; **ā guḥ** — come.
+
+**Bhāvārtha** — O Aśvin deities, one of you two is the Moon of the middle region, the one who makes clouds etc. wither (that is, who has the nature of autumn), who, like Indra, drives away foes, and who, longing for oblations and the like, moves about bestowing abundant food; the sacrificers please the other with oblations and the like, and through him the fruits of sacrifice come, like river waters overflowing the banks.
+
+**English Translation.** *(printed)*
+
+"(One of you), the disperser (of the clouds), like Indra, the annihilator (of his foes), desirous of the oblation, proceeds, (bestowing) abundant food. (Devout worshippers) cherish with (sacrificial) viands, (the faculties) of the other, for the sake of favours, wich [sic] flow upon us like swelling rivers."  XIII 37
+
+### Printed p. 578  (PDF 598)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 578.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given two senses to this epithet. First: "*śaradvān śaraṇavān meghavṛkṣaparṇādīnāṃ viśaraṇavān*" — that is, one who, in due season, makes trees and leaves etc. wither completely. The Nirukta-author, explaining this sense, has given this derivation for the word:
+
+> शरच्छीर्णा अस्यामोषधयो भवन्ति । शीर्णा आप इति वा ।
+
+> *śaracchīrṇā asyāmoṣadhayo bhavanti | śīrṇā āpa iti vā |*
+
+(Ni. 4-25 [?]) — in this season the herbs ripen, or the river-currents have subsided; therefore it is named *śarat* (autumn). As the Moon prompts both of these functions, the epithet **śaradvān** here is applied to the Aśvin deity in the form of the Moon. Or, in the second sense, "*bahusaṃvatsaraḥ pūrvatano nityaḥ*" — one who has many years, that is, who is eternal. To state this sense, the ṛk-sentences of the Saṃhitā themselves may be taken as basis. For example:
+
+> तच्चक्षुर्देवहितं शुक्रमुच्चरत् ।
+> पश्येम शरदः शतं जीवेम शरदः शतम् ॥
+
+> *taccakṣurdevahitaṃ śukramuccarat |*
+> *paśyema śaradaḥ śataṃ jīvema śaradaḥ śatam ‖*
+
+(Ṛ. Saṃ. 7-66-16)
+
+> दीर्घायुरस्या यः पतिर्जीवाति शरदः शतम् ।
+
+> *dīrghāyurasyā yaḥ patirjīvāti śaradaḥ śatam |*
+
+(Ṛ. Saṃ. 10-85-39 [?]) — in all such ṛks the word *śarad* means a year composed of autumns. Accordingly, in the ṛk at hand also the meaning "one who has many years", that is, "eternal", has been given by the commentator.
+
+**Niṣṣāṭ** — (*śatrūṇāṃ niḥsārayitā*) one who drives enemies out, having made them flee. The Nirukta-author also, citing the ṛk in which this word is used:
+
+> अभी३ दमेकमेको अस्मि निष्षाळभी द्वा किमु त्रयः करन्ति ।
+> खले न पर्षान्प्रति हन्मि भूरि किं मा निन्दन्ति शत्रवोऽनिन्द्राः ॥
+
+> *abhī3 damekameko asmi niṣṣāḷabhī dvā kimu trayaḥ karanti |*
+> *khale na parṣānprati hanmi bhūri kiṃ mā nindanti śatravo 'nindrāḥ ‖*
+
+(Ṛ. Saṃ. 10-48-7 [?]), has explained: "*niṣṣahamāṇaḥ śatrūn abhibhavāmi*" — "I overcome the enemies, crushing them", that is, "I make them yield". In the ṛk at hand also the meaning is: one fit to drive away enemies.
+
+---
+
+**Progress note:** printed p. 578 (PDF 598) done — Sūkta 181 Ṛk 6 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (śaradvān, niṣṣāṭ; continues p. 579). Next: printed p. 579 (PDF 599). Open flags: refs [?]; review/doubts_v13.json.
