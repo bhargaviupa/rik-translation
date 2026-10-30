@@ -10,7 +10,7 @@ Vol 6 = Maṇḍala 1, Sūktas 62–80, the Fifth Adhyāya of the First Aṣṭa
 | `scans/` | The better scan, in parts (`06 rigveda samhita volume 6 N.pdf`). |
 | `parts/` | One state file per worker. |
 | `review/` | Per batch: review HTML/JSON, `edits_*.txt`, notes. |
-| `tools/` | `cfg.py` (paths, page map), `view.py`, `apply.py`, `qctx.py`, `pass_log.py`, copied from `vol5/tools/` and renamed; `build_verify_v6.py`, `make_artifact_v6.py`, `apply_edits_v6.py` (HTML check pages; adapted to Vol 6's `### Page N` headings, tested on p. 4). |
+| `tools/` | `cfg.py` (paths, page map), `view.py`, `apply.py`, `qctx.py`, `pass_log.py`, copied from `vol5/tools/` and renamed; `build_verify_v6.py`, `make_artifact_v6.py`, `apply_edits_v6.py`, `doubts_v6.py` (check pages and doubts pages; adapted to Vol 6's `### Page N` headings, tested on p. 4). |
 
 Still at the repository root: `Rig_Vol6.pdf` (old scan), `Rigveda_Samhita_Vol6_English_Translation.md/.docx/.pdf`.
 Print build: `python3 publish/build_vol45.py 6 full` (cleaner `publish/vol67_clean.py`).
