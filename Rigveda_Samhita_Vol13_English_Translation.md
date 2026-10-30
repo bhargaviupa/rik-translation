@@ -739,4 +739,50 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ---
 
-**Progress note:** printed p. 36 (PDF 56) done — Sūkta 166 Ṛk 7 grammar note done up to madirasya; continues on p. 37. Next: printed p. 37 (PDF 57). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 37  (PDF 57)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* **Vyākaraṇa-prakriyā (continued, noted briefly).** *pītaye* (root *pā pāne*; *ktin* by *sthāgāpāpacabhāve* [Pā. 3-3-95 [?]]; *ghumāsthāgā…* Pā. 6-4-66 [?] gives the root *ī*; initial acute by the suffix; dative singular). *viduḥ* (root *vida jñāne*; *laṭ* 3rd plural; *vido laṭo vā* Pā. 3-4-83 [?] gives *jus*; *śap* dropped; pāda-initial so no *nighāta*; final acute by the suffix). *vīrasya* (root *aja gatikṣepaṇayoḥ*; *rak* by *sphāyitañcivañci…* Uṇ. 2-[?]; *ajer vyaghañapoḥ* Pā. 2-4-56 gives *vī* for the root; final acute by the suffix). *pauṃsyā* (*puṃsaḥ imāni*; *ṣyañ* suffix; *ñit*, so initial acute; *śeśchandasi bahulam* Pā. 6-1-70 drops *śi*). ‖ 7 ‖
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> शतभुजिभिस्तमभिह्रुतेरघात्पूर्भी रक्षता मरुतो यमावत ।
+> जनं यमुग्रास्तवसो विरप्शिनः पाथना शंसात्तनयस्य पुष्टिषु ॥ ८ ॥
+
+> *śatabhujibhistamabhihruteraghātpūrbhī rakṣatā maruto yamāvata |*
+> *janaṃ yamugrāstavaso virapśinaḥ pāthanā śaṃsāttanayasya puṣṭiṣu ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> शतभुजिऽभिः । तम् । अभिऽह्रुतेः । अघात् । पूःऽभिः । रक्षत । मरुतः । यम् । अवत ।
+> जनम् । यम् । उग्राः । तवसः । विऽरप्शिनः । पाथन । शंसात् । तनयस्य । पुष्टिषु ॥ ८ ॥
+
+> *śatabhuji 'bhiḥ | tam | abhi 'hruteḥ | aghāt | pūḥ 'bhiḥ | rakṣata | marutaḥ | yam | avata |*
+> *janam | yam | ugrāḥ | tavasaḥ | vi 'rapśinaḥ | pāthana | śaṃsāt | tanayasya | puṣṭiṣu ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः यूयं शतभुजिभिः । शतमित्यपरिमितनाम । असंख्यातभोगवद्भिः पूर्भिः पालनैर्जेतव्यैः शत्रूणां नगरैर्वा तं रक्षथ । पालयत । तमित्युक्तं । कमित्याह । यं जनमभिह्रुतेरभिभवकारणात्कुटिलस्वभावादघात्पापादवत रक्षथ । किञ्च हे उग्रा उद्गूर्णतेजसो हे तवसो बलवन्तो वेगवन्तो वा हे विरप्शिनः । महन्नामैतत् । महान्तः । रपणेयोः शब्दा रप्साः । ते येषां ते रप्शिनः । विविधा रप्शिनः स्तोतारो येषां ते तथोक्ताः । हे तादृशाः यूयं यं च जनं पाथन पाथ रक्षथ । कस्मान्निमित्तादिति उच्यते । तनयस्य । उपलक्षणमेतत् । पुत्रादीनां पुष्टिषु निमित्तभूतेषु शंसादभिशंसनात् । येमेवं कुरुथ तं रक्षतेति शेषः । [पासक्षयोर्य… ?] निष्परिहारेण पुत्रादिपोषरूपे स्वप्राप्य च रक्षतेत्यर्थः [?] ॥
+
+*(The bhāṣya ends on the next page; the last clause is doubtful.)*
+
+### Printed p. 38  (PDF 58)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+*Gist:* O Maruts, protect with countless, enjoyment-giving defences (or conquered enemy cities) the man whom you guard from the sin of a crooked, overpowering nature; O fierce, strong ones praised by manifold hymns, protect also the man whom you save from curse in matters of nourishing his sons and the rest.
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; *yam* — whichever man; *abhihruteḥ* — from the crooked nature that causes oppression; *aghāt* — from sin; *avata* — you protect; (and) *ugrāḥ* — fierce ones; *tavasaḥ* — strong ones; *virapśinaḥ* — you possessed of greatness (those who have many praisers); (*he marutaḥ* — O Marut-gods) *yaṃ janam* — whichever man; *tanayasya* — of a son (of children and the like); *puṣṭiṣu* — in the matter of the nourishing; *śaṃsāt* — from cursing (reproach); *pāthana* — you protect; *taṃ* — that man; *śatabhujibhiḥ* — endowed with unlimited enjoyment; *pūrbhiḥ* — with acts of protection, or with the enemy cities that are to be conquered; *rakṣata* — protect.
+
+**Bhāvārtha.** O Marut-gods, fierce, of great strength and praised by various hymns: you protect some men from sin, the instrument of oppression, which arises from a crooked nature; and others you protect by nourishing sons and the like; for all these, having conquered the enemy cities that bring unlimited enjoyment [to them], be their protectors.
+
+**English Translation (as printed):** Maruts, gratify, with infinite and complete enjoyments, him, whom you protect from degrading sin: that man whom, fierce and mighty, and glorified (as you are), you defend from calumny, by (providing for) the nourishment of his descendants.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***abhihruteḥ*** — *abhibhavakāraṇāt kuṭilasvabhāvāt*: from the crooked nature that is the cause of oppression, that is, of harm to others; from a bad nature. This word is formed from the root *hru*; the root *hru* is not stated in the *Dhātupāṭha*. The Bhāṣyakāra, when explaining the word *hruṇāti*, formed from this root, in the 12th [?] ṛk of this same sūkta, explained its meaning from another root, *hvarati*, "to be crooked" — a root of similar sense.
+
+---
+
+**Progress note:** printed p. 38 (PDF 58) done — Sūkta 166 Ṛk 8 in progress (Special Topics: abhihruteḥ; continues on p. 39). Next: printed p. 39 (PDF 59). Open flags: small-type numerals [?]; Ṛk 8 bhāṣya last clause [?]; review/doubts_v13.json.
