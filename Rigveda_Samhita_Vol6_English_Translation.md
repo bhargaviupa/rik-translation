@@ -11993,9 +11993,10 @@ aryamā mitro varuṇaḥ parijmā tvacaṃ pṛñcanty uparasya yonau ||3||*
 *Grammar page, noted briefly; sūtra numerals tentative [?].*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.4**
+*(Accents as printed, 300 dpi; exact syllable of several strokes/underlines is doubtful: [accent ?].)*
 
-> अग्ने वाजस्य गोमत ईशानः सहसो यहो ।
-> अस्मे धेहि जातवेदो महि श्रवः ॥ ४ ॥
+> अग्ने॒ वाज॑स्य गोम॑त॒ ईशा॑नः सहसो यहो ।
+> अ॒स्मे धे॑हि जातवेदो॒ महि॒ श्रवः॑ ॥ ४ ॥
 
 *agne vājasya gomata īśānaḥ sahaso yaho |
 asme dhehi jātavedo mahi śravaḥ ||4||*
