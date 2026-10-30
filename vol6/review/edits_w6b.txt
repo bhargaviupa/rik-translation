@@ -1,0 +1,28 @@
+w6b unit 1 (Sūkta 71, from p. 282)
+  p. 282: Ā. [4-13?] -> 4-13
+  p. 282: Ā. [6-3?] -> 6-5
+p. 282: intro re-read: आत्रानुक्रम्यते -> अत्रानुक्रम्यते; परिभाषयोः -> परिभाषया (twice); "अनादेशपरिभाषयो स्त्रिष्टुप्" -> "अनादेशपरिभाषया त्रिष्टुप्"; ऋषिश्छान्दस्यादिति -> ऋषिश्चान्यस्मादिति [?]; परमाग्नेयेन्द्रादिति -> परमाग्नेयमैन्द्रादिति [?] (doubts page).
+  p. 283: वर्ग १३, १४ [?] -> १५, १६
+  p. 283: running-head Varga [?] -> 15
+p. 283: Rik 71.1 Saṃhitā accents set as printed (zoomed 400 dpi).
+  p. 284: उ. [३-८२?] -> [२-९७?]
+  p. 284: उ. [४-२८?] -> [४-७३?]
+p. 284: जायो -> जाया; शुभ्ररूपेयुक्ता -> शुभ्ररूपयुक्ता; ऋन्नन्/ऋनन् -> ऋन् (print "ಸೇರ್ಋನ್", "ಋನ್"); Pā. 4-1-10 confirmed; Uṇādi numerals still doubtful (doubts page).
+  p. 285: running-head Varga [?] -> 15
+  p. 285: Ni. [3-4?] -> [3-13?]
+  p. 285: Ṛk. Saṃ. [5-?-?] -> [9-72-2?]
+  p. 285: [1-?-?; 2-?-?] -> [1-165-1; 7-56-1?]
+  p. 285: Ni. [2-5?] -> [3-9?]
+p. 285: printed English: "dawn. which" [sic] withdrawn: the better scan has a comma.
+  p. 286: Ni. [6-21?] -> 6-22
+  p. 286: Ni. [6-21?] -> 6-22
+  p. 286: Ṛk. Saṃ. [4-5-5?] -> 4-5-5
+  p. 286: Ṛk. Saṃ. [10-18-7?] -> 10-18-7
+  p. 286: Ṛk. Saṃ. [1-164-51?] -> 1-164-51
+Digit calibration (p. 286 header "ಅ. ೧೨ ಸೂ. ೭೧"): 2 = loop at top-left; 7 = loop at bottom-left.
+  p. 286: Ṛk 1-[?]-10 -> 1-62-10
+p. 286: "śruti [as read, ?]" -> "(*iti śruteḥ*)", print clear.
+  p. 287: running-head Varga [?] -> 15
+  p. 287: Uṇ. [3-82?] -> [2-253?]
+  p. 287: Uṇ. [4-?] -> [4-513?]
+p. 287: grammar page: *suñasyaser ṛnan* -> *suñsyaser ṛn* (print "ಸುಞ್ಸ್ಯಸೇರ್ಋನ್"); the grammar page's Uṇādi numbers are in a different (running) numbering from the bhāṣya's.
