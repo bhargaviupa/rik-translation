@@ -17265,4 +17265,47 @@ In this, what we must chiefly notice is that, for *catasraḥ nāvaḥ* in the �
 
 ---
 
-**Progress note:** printed p. 616 (PDF 636) done — Sūkta 182 Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (A. C. Das quote), grammar begun (continues p. 617). Next: printed p. 617 (PDF 637). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 617  (PDF 637)
+
+*(Header: "A. 2 A. 4 Va. 28"; "Ṛgvedasaṃhitā"; page 617.)*
+
+*(Grammar page of Ṛk 6, continued, noted briefly):* … *yak* [of *vyadh*] is replaced by *dh* [as read]; "*gatiranantaraḥ*" (Pā. Sū. 6-2-49 [?]) — the *gati* (*liv*) keeps its natural accent; in *praviddham* also the same rules and accent come. *apsu* — "*ūḍidaṃ padādi…*" (Pā. Sū. 6-1-171 [?]) gives acute on the case-ending. *anārambhaṇe* — "*na vidyate ārambhaṇaṃ yasya tat*"; "*nañ-subhyām*" (Pā. Sū. 6-2-172 [?]) gives acute on the last syllable of the latter member; locative singular form. *jaṭhalasya* — root *janī prādurbhāve*; "*janer araṣṭha ca*" (Un. Sū. 1-?? [?]) gives suffix *ara*; the root's *n* becomes *ṭh* [as read]; in Vedic usage *la* for the suffix's *ra*; "*kartṛkarmaṇoḥ kṛti*" (Pā. Sū. 2-3-65 [?]) — genitive in the sense of the object. *juṣṭāḥ* — root *juṣī prītisevanayoḥ*; suffix *kta*; due to *ṣṭutva* the *ta* takes *ṭa*; by *vyatyaya* initial acute. *iṣitāḥ* — root *iṣa gatau*; when *kta* comes, the augment *iṭ*; since the augments are unaccented, the suffix accent makes the last syllable acute. *pārayanti* — root *pāra karmasamāptau*; "*satyāpapāśa…*" (Pā. Sū. 3-1-25 [?]) gives *ṇic* in the root's own sense; *laṭ* third person plural form; *tiṅ*, *nighāta* accent.  ‖ 6 ‖
+
+### Sūkta 182, Ṛk 7  (printed p. 617; PDF 637)
+
+**Saṃhitā-pāṭha**
+
+> कः स्विद्वृक्षो निष्ठितो मध्ये अर्णसो यं तौग्र्यो नाधितः पर्यसस्वजत् ।
+> पर्णा मृगस्य पतरोरिवारभ उदश्विना ऊहथुः श्रोमताय कम् ॥ ७ ॥
+
+*(The word "paryasasvajat" is printed with a doubtful letter ("paryaṣasvajat"? [?]); the Pada, which reads "asasvajat", is followed here.)*
+
+**Pada-pāṭha**
+
+> कः । स्वित् । वृक्षः । निःऽस्थितः । मध्ये । अर्णसः । यं । तौग्र्यः । नाधितः । परि । असस्वजत् ।
+> पर्णा । मृगस्य । पतरोःऽइव । आऽरभे । उत् । अश्विना । ऊहथुः । श्रोमताय । कं ॥ ७ ॥
+
+> *kaḥ | svit | vṛkṣaḥ | niḥ 'sthitaḥ | madhye | arṇasaḥ | yaṃ | taugryaḥ | nādhitaḥ | pari | asasvajat |*
+> *parṇā | mṛgasya | pataroḥ 'iva | ā 'rabhe | ut | aśvinā | ūhathuḥ | śromatāya | kaṃ ‖ 7 ‖*
+
+### Printed p. 618  (PDF 638)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 618.)*
+
+**Sāyaṇa-bhāṣya**
+
+> कः स्वित् कश्चिदनुग्राहको वृक्षो वृक्षविकारो रथः । विकारे प्रकृतिशब्दः । यद्वा । संस्तावाभिप्रायमेतत् । स्तोत्रात्मको वृक्ष इत्यर्थः । कीदृशो रथः । निष्ठितो निश्चलं वर्तमानः । कुत्रेति उच्यते । अर्णसः उदकस्य मध्ये । यं वृक्षं तौग्र्यस्तुग्रपुत्रो भुज्युर्नाधितो याचमानः पर्यसस्वजत् परिष्वक्तमकरोत् । आलम्बने दृष्टान्तः । पतरोः पतनशीलस्य मृगस्य मार्जयितुः शोधयितुर्हिंसादेरारभ आलम्बनाय पर्णानीव । तानि यथालम्बनाय प्रभवन्ति तद्वत् । हे अश्विनौ श्रोमताय कीर्तिमत्त्वायो ऊहथुः । ऊर्ध्वं प्रापयथुः । स्तुतिपक्षे स्तोतृत्वाख्यं वृक्षमाश्रितवन्तं तमूहथुरित्यर्थः ॥
+
+*(Sanskrit as read; the middle part is doubtful [?]. Gist: what tree was it, amid the water, to which the suppliant Bhujyu clung, as a falling animal clutches at leaves? — you lifted him up to renown.)*
+
+**Pratipadārtha** — **patarōḥ** — of the falling; **mṛgasya** — of the animal; **parṇā** — leaves; **ārabhe iva** — like a support (as aids); **yaṃ** — which tree; **nādhitaḥ** — (having been thrown into the sea, asking for help) suppliant; **tauġryaḥ** — Bhujyu, son of Tugra; **pari asasvajat** — clung to (embraced); **kaḥ svit** — what indeed; **vṛkṣaḥ** — the tree, i.e. the chariot that is a transformation of a tree, or the tree in the form of praise; **arṇasaḥ madhye** — in the middle of the water; **niṣṭhitaḥ** — firmly stationed; (*he*) **aśvinā** — O Aśvin deities; **śromatāya** — so that you may become famous; **kaṃ** — as a pleasure (to a protected place); **ut ūhathuḥ** — lifted up (that Bhujyu) (brought to him).
+
+**Bhāvārtha** — As leaves become the support of a falling animal, what was that tree standing in the middle of the sea, which Bhujyu, sunk in the ocean and seeking help, clung to? O Aśvin deities, in order to preserve your fame, you brought Bhujyu, who took refuge in your praise itself, to a safe place.
+
+**English Translation.** *(printed)*
+
+"What was the tree that was stationed in the midst of the ocean, to which the supplicating son of Tugra clung : as leaves (are caught hold of) for the support of a falling animal : you, Ashwins, bore him up to safety, to your great renown."
+
+---
+
+**Progress note:** printed p. 618 (PDF 638) done — Sūkta 182 Ṛk 6 ends (grammar); Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 619 (PDF 639): Ṛk 7 Special Topics. Open flags: refs [?]; review/doubts_v13.json.
