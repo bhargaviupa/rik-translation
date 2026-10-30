@@ -5362,5 +5362,29 @@
   ],
   "note": "refs Ni 6-13? (read 3-13?), SB 9-5-1-13/18, 14-3-1-14 small; 'satyamunnalebhire' garbled",
   "answer": ""
+ },
+ {
+  "pdf": 555,
+  "printed": 535,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 3-39-5, 7-76-4, 7-2-16(?), 1-67-3, 1-12-7, 1-73-2, cross-ref 1-185-11? small",
+  "answer": ""
+ },
+ {
+  "pdf": 556,
+  "printed": 536,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-23-20, 1-102-5, 2-20-1, 8-66-10, Ni 3-19, 6-26, 2-17 small; paṇi bhashya second-meaning phrase garbled; 'second part' of Rgveda reading",
+  "answer": ""
  }
 ]
