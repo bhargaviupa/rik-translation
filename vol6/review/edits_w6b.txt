@@ -558,3 +558,4 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 508: IAST yaṅluṅantāl -> yaṅlugantāl (Devanagari already यङ्लुगंताल्लट्); reading note rewritten; sūtra printed 'upasargād asamāse 'pīti ṇatvam' [?] removed
   p. 512 (Ṛk. Saṃ. 3-2-8 citation): re-read from print: namusyata havyadātiṃ svadhvaraṃ duvasyata damyaṃ jātavedasam (was samusyaka … havyadāśiṃ … duvasyake) in all layers; garbled-note replaced
   p. 516: removed [?] after pracyāvayasi and after "drive from their place" (print: sthānāt pracyāvayasi); p. 519: removed [?] after aṅganādiguṇayuktāya (print ಅಂಗನಾದಿಗುಣಯುಕ್ತಾಯ)
+  p. 522: Saṃhitā 79.1 accents added (as printed; vā-ta mark [accent ?])
