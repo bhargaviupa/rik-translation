@@ -267,3 +267,63 @@ p. 350: Ni. number for rodasī reads 3-22 (two ೨-like digits) [?]: doubts page
   p. 351: Ni. [3-18?] -> 3-19
 p. 351: "fifteen names of mankind" -> "twenty-five" (print "ippattaidu"); "[as read, ?]" removed from "thirteen names of hymns" (print "hadimūru"). Ni. for mankind reads 3-2 [?] (doubts page). Tai. Saṃ. [2-5-4-3?] on this page not re-viewed (p. 349 prints 5-4-8-3).
 Unit 5 ends at p. 351 (Ṛks 72.1–72.4; p. 352 grammar page not re-read).
+p. 352: grammar page; skipped, no flagged lines (generic note only).
+p. 353: Saṃhitā 72.5 accents set as printed (zoom 300/450 dpi).
+  p. 354: Ā. [4-2?] -> 4-7
+  p. 354: Ai. Brā. [3-11?] -> 2-11
+p. 354: bhāṣya: athottram -> athottaram; yajñān akurvan -> yāgān akurvan; yajñam akṛṇvata -> yajñam atanvata (print); reading-note doubts withdrawn.
+  p. 355: Ā. [4-2?] -> 4-7
+  p. 355: Ai. Brā. [3-11?] -> 2-11
+p. 355: Special Topics: "stutaḥ [as printed]" removed (not in print); athottaram; atanvata.
+  p. 356: Ṛk. Saṃ. [10-[?]-?] -> 10-15-6
+p. 356: "ājñā jānu" -> "ācyā jānu" (print).
+p. 357: Saṃhitā 72.6 accents set as printed (zoom 300/450 dpi).
+  p. 358: Pā. [8-3-8?] -> 8-3-8
+p. 358: bhāṣya: "svarga abhir" -> "svarga ebhir"; "homasvaiśvadeva" -> "homavaiśvadeva"; "sajoṣāḥ samyag yajamānaiḥ" -> "sajoṣās tair yajamānaiḥ"; "vṛttrāṇi-jātam" -> "yat prāṇijātam"; "ubhayatharṣu" -> "ubhayatharkṣu" (print); "padā padāni" confirmed.
+p. 359: Special Topics: "svarga abhir" -> "ebhir"; "ucchante [as printed, ucyante]" -> "ucyante" (print ಉಚ್ಯಂತೇ).
+  p. 361: Ai. Brā. [1-1?] -> 1-1
+p. 360: skipped, no flagged lines.
+  p. 362: Pā. [8-3-8?] -> 8-3-8
+p. 362: Pā. 8-3-7 confirmed.
+p. 362-363: Saṃhitā 72.7 accents set as printed (zoom 450 dpi); print has a̱n·ta̱r·vi̱·dvā́m̐ and á·tandro (as printed).
+  p. 363: Varga [?] -> 18
+  p. 365: Varga [?] -> 18
+p. 365: running head prints Aṣṭaka 2 (for 1).
+  p. 367: Varga [?] -> 18
+  p. 369: Varga [?] -> 18
+  p. 371: Varga [?] -> 18
+  p. 373: Varga [?] -> 18
+  p. 375: Varga [?] -> 18
+  p. 377: Varga [?] -> 18
+  p. 379: Varga [?] -> 18
+  p. 381: Varga [?] -> 18
+  p. 363: Uṇ. [3-61?] -> 3-61
+  p. 363: Pā. [2-4-56?] -> 2-4-56
+p. 363: bhāṣya: "kṣudropasya" -> "kṣudrūpasya"; "kurv iti arthaḥ" -> "kurv ity arthaḥ"; "ajer vībhāvaḥ | pā." -> "ajer vy aghañapoḥ | pā. 2-4-56 | iti vībhāvaḥ"; "kritktau" -> "kticktau"; "hrasvāntāt kti | jñātiśabdād" -> "hrasvāntāt ktiśabdād" (print); tail doubts withdrawn.
+  p. 364: Ni. [3-13?] -> 3-13
+  p. 364: Ni. [1-1?] -> 2-5
+  p. 364: Ni. [2-3?] -> 3-8
+  p. 364: Ṛk. Saṃ. [4-23-8?] -> 4-23-8
+p. 364: "twelve names of the earth" -> "twenty-one" (print "ippattondu"); Ni. for earth printed 2-5 (marked [as printed]).
+  p. 365: Ni. [6-16?] -> 6-16
+  p. 365: Uṇ. [3-61?] -> 3-341
+p. 365: grammar page Uṇ. printed 3-341 (running numbering; bhāṣya has 3-61).
+p. 366: Saṃhitā 72.8 accents set as printed (zoom 300/400 dpi); print has gávyaṃ (bar on ವ್ಯಂ) and sarámā.
+p. 367: bhāṣya: "vṛṣṭidvārā tvam eva" -> "vṛṣṭidvārāgnir eva"; "yogena prīte" -> "yāgena prīta"; "manusaḥ" -> "manoḥ"; "dhvaśabdāj … eranekācaḥ" -> "dhīśabdāj … eranekāca" (print); doubts withdrawn.
+  p. 368: Ni. [1-13?] -> 2-24
+  p. 368: Ni. [3-3?] -> 3-13
+p. 368: "avasayaḥ … [as read, ?]" -> "avanayaḥ"; "[thirty-odd]" -> "thirty-seven" (print "mūvattēḷu"); Ni. for rivers printed 2-24 (marked [as printed]).
+  p. 369: Ni. [11-?] -> 11-19
+  p. 369: Ni. [1-12?] -> 2-24
+  p. 369: Ṛk. Saṃ. [7-21-5] -> 5-3-3-5
+  p. 369: Ni. [4-?] -> 4-19
+  p. 369: Ṛk. Saṃ. [7-2-6?] -> 5-2-6-2
+  p. 369: Ni. [4-3?] -> 3-3
+  p. 369: Ṛk. Saṃ. [1-91-?] -> 6-4-12-2
+  p. 369: Ni. [4-2?] -> 4-7
+p. 369: Ṛk references printed in Aṣṭaka–Adhyāya–Varga–Ṛk form (recorded so); "hundred names of water" -> "hundred and one" (print "nūrondu"); Ni. for water printed 2-24 (as on p. 368 for rivers; marked [as printed]); citation syllables checked against the print, doubt note withdrawn.
+  p. 370: Ṛk. Saṃ. [3-30-19?] -> 3-30-19
+  p. 370: Ni. [6-2?] -> 6-7
+  p. 370: Ṛk. Saṃ. [2-14-?] -> 7-16-7
+  p. 370: Ṛk. Saṃ. [10-108-?] -> 10-108-8
+p. 370: citations completed from the print: "ūrvān [?] … gonām" -> "ūrvān dayanta gonām" (print ದಯಂತ); "bhajante" -> "bhajanta" (print ಭಜಂತ); "gonām … paṇayo" -> "gonām athaitad vacaḥ paṇayo".
