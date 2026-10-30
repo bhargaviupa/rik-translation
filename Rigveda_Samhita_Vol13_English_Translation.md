@@ -1890,4 +1890,46 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 80 (PDF 100) done — Sūkta 167 Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha written. Next: printed p. 81 (PDF 101): Bhāvārtha, English, Special Topics of Ṛk 3. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 81  (PDF 101)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)*
+
+**Bhāvārtha.** As the adorned wife of an excellent man moves about in the inner apartments, so the garland of clouds — moving in the sky, appearing in the rainy season like speech (the praises and the rest) fit for sacrifice, which comes out only in assemblies — is joined with the Marut-gods; and lightning, golden-coloured and the cause of rain, is joined with them in a fitting manner. May such Marut-gods come to our sacrificial hall.
+
+**English Translation (as printed):** In whom the water-shedding, golden-coloured lightning, is fitly deposited like a chaplet (of clouds) moving in the firmament like the (splendidly-attired) wife of a man (of rank), and distinguished in assemblies like a sacrificial hymn.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***sudhitā*** — *suṣṭhu nihitā suṣṭhu hitā vā*: "well placed" or "very beneficial". Two kinds of meaning are given: that which does good to the world, or that which is known as lovely to all in the world.
+
+***ghṛtācī hiraṇyanirṇik ṛṣṭiḥ*** — *ghṛtaṃ kṣaraṇaśīlam udakam añcati hitaramaṇīyarūpā vidyudākhyāyudhaviśeṣo vā*: [Sāyaṇa]. The word *nirṇik* is read among the names of form (Ni. 2-13 [?]); the word *ghṛta* is also read among the names of water (Ni. 1-12 [?]). The meaning given is: the Marut-gods produce a weapon, lightning (*vidyut*), which has a form beneficial to the people of the world, joined with water that flows in liquid form. By the special action of their motion the Marut-gods produce the weapon, lightning (*aśani*), in the waters.
+
+***upara na saṃ mimyakṣa*** — *meghapaṅktir vidyutā … ime api saṃgate ity arthaḥ*: the word *upara* is stated among the names of the cloud (Ni. 1-[?]). The Marut-gods, by making in the waters two kinds of change, the fluid nature and the dense (thickening) nature, in that, the line of clouds and the lightning join together; and in their body of this form is borne the weapon known as *ṛṣṭi*, the *aśani*, and they are seen in the world with lightning as with a garland of clouds — thus the form of the Maruts' special weapon is compared with the form together with cloud and lightning. Yāska — *(Printer's signature at the foot: "XIII 6".)* *[continues on the next page]*
+
+### Printed p. 82  (PDF 102)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)*
+
+> आ विद्युन्मद्भिर्मरुतः स्वर्कै रथेभिर्यात ऋष्टिमद्भिरश्वपर्णैः । आ वर्षिष्ठया न इषा वयो न पप्तता सुमायाः ॥
+
+> *ā vidyunmadbhirmarutaḥ svarkai rathebhiryāta ṛṣṭimadbhiraśvaparṇaiḥ | ā varṣiṣṭhayā na iṣā vayo na paptatā sumāyāḥ ‖*
+
+(Ṛ. Saṃ. 1-88-1) — in the ṛk that teaches this same idea, the Maruts' coming, with their weapons, riding in chariots, is described. About the moving of the line of clouds together with lightning, the sentence *guhā carantī manuṣo na yoṣā* has been said in the form of an illustration. In the cloud the lightning (*vidyut*) is hidden; and because it moves in the middle region, for the word *guhā* two meanings, "secret place" and "the middle region", are explained. The particle *na* is explained by Yāska: "*neti pratiṣedhārthīyo bhāṣāyām ubhayam anvadhyāyam*" (Ni. 1-4 [?]) [as read]; the particle *na*, as a word of ordinary usage, conveys the sense of negation. In the Veda it is used in two kinds of sense, negation and comparison (*upamā*). For example:
+
+> नेन्द्रं देवममंसत ।
+
+> *nendraṃ devamamaṃsata |*
+
+— here the word *na* is used in the sense of negation.
+
+> हृत्सु पीतासो युध्यन्ते दुर्मदासो न सुरायाम् । ऊधर्न नग्ना जरन्ते ॥
+
+> *hṛtsu pītāso yudhyante durmadāso na surāyām | ūdharna nagnā jarante ‖*
+
+(Ṛ. Saṃ. 8-2-12 [?]) — here, to say "those who have drunk spirits fight like those who are in mutual rivalry", the sense of comparison is given to the word *na*, and its usage in the sense of comparison is shown. Likewise in *ūdhar na nagnā* it is used in the comparative sense. Following this, for the sentence *manuṣo na yoṣā* the meaning is given: "*manuṣyasya parivyūḍhādeḥ mahiṣīvat*" — as the wife of a hero or of an excellent man is; "*sā yathā suveṣā antaḥpura iva madhye carati*" — as that well-dressed woman moves within the inner apartments; so the line of clouds, likened to a woman of a hero, who, adorned with ornaments and the like, moves hidden in the inner apartments, and the movement of the lightning, have been described.
+
+***sabhāvatī vidathyā vāg iva*** — *sabhā janasaṅghaḥ | tadvatī | varṣākāle āvirbhavanti | vidatho yajñaḥ | tadarhatīti vidathyā praiṣastotrādirūpā vāk | sā yathā yajñasabhāṃ prāpyāvirbhavati tadvat | yadvā | vedanārhā vividamānayor vāk | sā yathā sabhā bhavati tadvat*: the line of clouds, which is not visible at all seasons, is likened to the speech (*vāk*) of *praiṣa* and praise, which is read at sacrifices; the sacrificial words, *praiṣa* and praise, that are parts of the sacrifice, are recited only at that time in the midst of the multitude gathered in the sacrificial assembly. In the same way, in the middle region, the lightning and the garland of clouds *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 82 (PDF 102) done — Sūkta 167 Ṛk 3 Special Topics in progress (sabhāvatī; continues on p. 83). Next: printed p. 83 (PDF 103). Open flags: small-type numerals [?]; review/doubts_v13.json.
