@@ -4954,5 +4954,29 @@
   ],
   "note": "refs Ni 2-23, 3-11, 5-5, 12-30; Rg 5-53-9, 10-65-13, 10-60-2 small; Ni 12-30 quote garbled; grammar sutra numerals",
   "answer": ""
+ },
+ {
+  "pdf": 521,
+  "printed": 501,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'chandasi sayajapi' sutra; Rk2 Samhita 'bharati' sandhi reading",
+  "answer": ""
+ },
+ {
+  "pdf": 522,
+  "printed": 502,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk2 first sentence garbled (rathamavavasattudu...), 'vosa', 'vese'",
+  "answer": ""
  }
 ]
