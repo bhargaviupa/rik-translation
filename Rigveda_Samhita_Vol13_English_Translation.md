@@ -12887,4 +12887,61 @@ In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā an
 
 ---
 
-**Progress note:** printed p. 470 (PDF 490) done — Sūkta 179 Ṛk 1: Pada…printed English, Special Topics begun (doṣāḥ vastoḥ; continues p. 471). Next: printed p. 471 (PDF 491). Open flags: refs [?]; Bṛhaddevatā verses p.470 [?]; review/doubts_v13.json.
+### Printed p. 471  (PDF 491)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 471.)*
+
+**Special Topics (continued)** — … citing this ṛk, he has explained *doṣā* as "night" and *vastoḥ* as "day".
+
+***śaradaḥ*** — "*śarac chṛtā asyām oṣadhayo bhavanti | śīrṇā āpa iti vā*" (Ni. 4-25 [?]) — "in this season the plants become ripe (*śṛta*); or the waters shrink" — whence the name "autumn". This word is not merely the name of a single season; in many places it is also used as a synonym of "year". For example, in the ṛk cited by the Nirukta-writers (Ni. 4-25 [?]):
+
+> दीर्घायुरस्या यः पतिर्जीवाति शरदः शतम् ।
+
+> *dīrghāyurasyā yaḥ patirjīvāti śaradaḥ śatam |*
+
+(Ṛ. Saṃ. 10-85-39 [?]) — here *śaradaḥ śatam* means "a hundred years".
+
+***vṛṣaṇaḥ*** — the meanings contained in the words formed from *vṛṣan*, and the contexts of their use in the Ṛk-saṃhitā, have been explained earlier (Ṛ. Saṃ. 1-177-3 [?], printed "1-77-3"). In the present context it gives the sense "*puṃs*" — a male possessed of the capacity to sprinkle.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***pūrvīḥ*** — in these first four words, by "*kālādhvanor atyantasaṃyoge*" (Pā. Sū. 2-3-5 [?]) the accusative has come, since each is connected with the sense of continuous duration.
+- ***śaśramāṇā*** — root *śramu tapasi khede ca*; by "*vyatyayo bahulam*" *śānac* for *laṭ*; by "*bahulaṃ chandasi*" *ślu* as the *vikaraṇa*; taking that as the cause, reduplication of the root; by "*aṭkupvāṅnumvyavāye 'pi*" (Pā. Sū. 8-4-2 [?], as read) *ṇatva* for the *n* of the suffix; by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the final syllable is *udātta*.
+- ***vastoḥ*** — root *vasa nivāse*; the suffix *tosun* in the sense of the infinitive.
+- ***jarayantīḥ*** — root *jṛṣ vayohānau*; after *ṇic*, *śatṛ*; in the feminine, since it has the marker *u*, *ṅīp*; by "*janījṛṣkñasurañjo 'mantāś ca*" the name *mit* arises; by "*mitāṃ hrasvaḥ*" (Pā. Sū. 6-4-92 [?]) shortening of the penultimate vowel of the root; the *lasārvadhātuka* being *anudātta*, the *ṇic* accent remains.
+- ***mināti*** — root *mīñ hiṃsāyām*, *kryādi* class; *laṭ*, third person singular; by "*pvādīnāṃ hrasvaḥ*" (Pā. Sū. 7-3-80 [?]) shortening of the root; being in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
+
+### Printed p. 472  (PDF 492)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 472.)*
+
+- ***jarimā*** — root *jṛṣ vayohānau*; in the abstract sense the *Uṇādi* suffix *imanic*; taking that as the cause, *guṇa* for the *ṛ*; by "*citaḥ*" the final syllable is *udātta*.
+- ***jagamyuḥ*** — root *gamḷ gatau*; *liṅ*, third person plural, with *us* for *jhi* ... (*jus* → *us*); by "*bahulaṃ chandasi*" elision of the *vikaraṇa*, with reduplication; *tiṅ*-final *nighāta* accent. ‖ 1 ‖
+
+---
+
+**Sūkta 179, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> ये चिद्धि पूर्व ऋतसाप आसन्त्साकं देवेभिरवदन्नृतानि ।
+> ते चिदवासुर्ह्यन्तमापुः सं नू पत्नीर्वृषभिर्जगम्युः ॥ २ ॥
+
+**Pada-pāṭha**
+
+> ये । चित् । हि । पूर्वे । ऋतऽसापः । आसन् । साकम् । देवेभिः । अवदन् । ऋतानि ।
+> ते । चित् । अव । असुः । हि [?] । अन्तम् । आपुः । सम् । ऊँ इति । नु । पत्नीः । वृषऽभिः । जगम्युः ॥ २ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> सा तमेहवा [?] ॥ हे पतेऽगस्त्य ये चिद्धि येऽपि तु पूर्वे पुरातना ऋतसापः सत्यस्यापयितारो व्याप्नुवाना महर्षय आसन् ते देवेभिर्देवैः साकं सहर्तानि [?] सत्यवाक्यान्यवदन् । वदन्ति । ये महत्तपो यज्ञं वानुतिष्ठन्ति ये च देववाक्यानि देवस्तुतिरूपाणि वदन्ति ते चित् । चिदप्यर्थे । ते चिदपि अवासुः । अवक्षिपन्ति रेतः ॥ स्तुतिरुपसृष्टो विनोचने [?] वर्तते ॥ ते नह्यन्तमापुः [?] । न हि ब्रह्मचर्योदेरन्तं प्राप्नुवन् । ब्रह्मचर्यमनिषिद्धर्तुकालगमनमपि कुर्वन्तीत्यर्थः । तथा पत्नीः पत्न्यश्च तपस्यमानास्तैव [?] ऋषिभोगवर्षकैः पतिभिः सह समू न जगम्युः । उ न्विति पूरणौ । संगच्छेरन् । अतस्त्वं कथं मां नानुभवसीत्यर्थः ॥ [as read; several phrases doubtful [?]]
+
+*Gist:* Even the ancient truth-keeping seers, who spoke truths with the gods and practised austerity, were not without conjugal union at the proper time, and their wives joined their husbands; so why does he not approach her?
+
+**Pratipadārtha**
+
+(*he Agastya*) — O Agastya; **ye cit hi** — those who; **pūrve** — of old; **ṛtasāpaḥ** — [who practised sacrifice etc.] great seers who pervade (cause to reach) the truth … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 472 (PDF 492) done — Sūkta 179 Ṛk 1 complete; Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun. Next: printed p. 473 (PDF 493), Ṛk 2 Pratipadārtha continues. Open flags: refs [?]; bhāṣya Ṛk 2 doubtful [?]; review/doubts_v13.json.

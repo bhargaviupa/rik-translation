@@ -4594,5 +4594,29 @@
   ],
   "note": "Brhaddevata verses (4-57..59) small & garbled at line 2-3; refs Ni 3-9, Rg 10-40-2",
   "answer": ""
+ },
+ {
+  "pdf": 491,
+  "printed": 471,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 4-25, Rg 10-85-39, 1-177-3 (printed 1-77-3?), sutra numerals; sutra name 'atkupvang' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 492,
+  "printed": 472,
+  "crop": [
+   0.5,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk2 dense and partly garbled; pada 'asuh hi' reading",
+  "answer": ""
  }
 ]
