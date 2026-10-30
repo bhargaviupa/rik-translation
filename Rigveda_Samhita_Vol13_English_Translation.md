@@ -8124,4 +8124,80 @@ Here *satām*, "of the good" (*sat*, "the true"), may be taken to mean "of all l
 
 ---
 
-**Progress note:** printed p. 316 (PDF 336) done — Sūkta 174 Ṛk 1 Special Topics (asura; satpati begins, Max Müller quotation continues p. 317). Next: printed p. 317 (PDF 337). Open flags: many Ṛg/Nirukta ref numerals [?]; review/doubts_v13.json.
+### Printed p. 317  (PDF 337)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+> सत्पति. Lord of men means Lord of real men, of heroes, and should not be translated as good lord (सत्) sat by itself is frequently used in the sense of heroes, of men, physically rather than morally good. [S. B. E. XXXII]
+
+> *satpati. Lord of men means Lord of real men, of heroes, and should not be translated as good lord (sat) sat by itself is frequently used in the sense of heroes, of men, physically rather than morally good. [S. B. E. XXXII]*
+
+*(The word is printed "सत्पति" with a Kannada-style *pa*; as printed.)*
+
+For this word, he explains that it means not merely "protector of the people", but "protector of the people who are possessed of strength and who show their prowess in battles"; and as examples of the use of this word he has cited two ṛks. The first is:
+
+> त्वमग्न इन्द्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः । त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥
+
+> *tvam agna indro vṛṣabhaḥ satām asi tvaṃ viṣṇur urugāyo namasyaḥ | tvaṃ brahmā rayivid brahmaṇas pate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*
+
+(Ṛ. Saṃ. 2-1-3 [?]) — in this ṛk, for *satāṃ vṛṣabhaḥ asi* he takes the meaning "the hero among heroes"; and, in the same way, the use of this word in
+
+> समत्सु त्वा शूर सतामुराणं प्रपथिन्तमं परितंसयध्यै । सजोषस इन्द्रं मदे क्षोणीः सूरिं चिद्ये अनुमदन्ति वाजैः ॥
+
+> *samatsu tvā śūra satām urāṇaṃ prapathintamaṃ paritaṃsayadhyai | sajoṣasa indraṃ made kṣoṇīḥ sūriṃ cid ye anumadanti vājaiḥ ‖*
+
+(Ṛ. Saṃ. 1-173-7), as *samatsu śūra satām urāṇam* — in the ṛk in hand he has taken it that the protector of the people who are heroes may be understood in the sense "he who protects others in battle".
+
+***maghavā tarutraḥ*** — it is explained that Indra is a possessor of wealth, and that he protects us from sin (*tārayitā pāpāt*), that is, from evil-doers.
+
+***satyaḥ vasavānaḥ sahodāḥ — abādhyaḥ satyaphalo vā*** — the meaning of *satya* is explained as "one who cannot be hindered, one who is not shackled by troubles that arise from enemies", or "one who gives to the sacrificers the fruit that does not fail".
+
+This word *satya* is, in several other places, an epithet of Indra; there, *abādhyaḥ satsu bhavo vā bādhātītaḥ* — "he who is among the good, or one beyond hindrance" — the sense is given: even if he was to be hindered he would not be of unreal nature, he would be of the nature of truth and walk in the path of truth.
+
+In the Ṛk-saṃhitā the word *satya* is always set before us as a sign of excellence and of moral value, and of strength. The actions performed by those who are of this lofty worth are true in nature. Making this meaning clear, the Nirukta-writers, too, have explained the derivation of the word *satya* thus —
+
+### Printed p. 318  (PDF 338)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+> सत्यं कस्मात् सत्सु तायते सत्त्वभवं भवतीति वा ।
+
+> *satyaṃ kasmāt satsu tāyate sattvabhavaṃ bhavatīti vā |*
+
+(Ni. 3-13 [?]) — "why is it called *satya*? — because it is spread (*tāyate*) among the good (*sat*); or because it arises from the nature of the good (*sattva*)": by this explanation it is shown that the fruit of the nature of truth should come to the good alone, so it is fit for the true acts of the good; and the idea that it becomes manifest through a thing of the nature of truth (*sadātmaka*) — this too is understood from this passage. Here the word *satya* has been used both for the acts and for the fruit; in these two contexts the sense should be explained as reflecting which truth of the universe.
+
+> ते देवा उत्सृज्यानृतं । सत्यमन्वालेभिरे ।
+
+> *te devā utsṛjyānṛtaṃ | satyam anvālebhire |*
+
+(Śa. Brā. 9-5-1-13 [?])
+
+> तद्यत्तत्सत्यम् । त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तेनैवामाहा इति ।
+
+> *tad yat tat satyam | trayī sā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tenaivāmāhā iti |* [as read: [?]]
+
+(Śa. Brā. 9-5-1-18 [?]) — the gods, giving up untruth, took firm hold of truth. *Trayī* means the triple Veda, whose acts are true in nature, since they are enjoined in the Veda: the gods, having performed the sacrifice, wished that "by it we may obtain this truth". And thereby, besides showing the relation of *satya* to common usage, it is hoped that one may obtain, through acts of such pure conduct, full-complete welfare accompanied with all riches.
+
+> नाभिर्ऋतस्य सप्रथा इति । सत्यं वा ऋतं वा ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह । स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह ।
+
+> *nābhir ṛtasya saprathā iti | satyaṃ vā ṛtaṃ vā ṛtaṃ satyasya nābhiḥ saprathā ity evaitad āha | sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ity evaitad āha |*
+
+(Śa. Brā. 14-3-1-18 [?]). By such explanations, showing the identity of the order of the world and of *satya*, and of following such truth, the cause-and-effect relation between *satya* and its fruit, and between true acts and fruits, is shown: namely, that following truth (*satyānusaraṇa*) and the performance of true acts give the full span of life as their fruit.
+
+It is also explained clearly in many places that, for the performance of acts of the nature of truth, a knowledge of the order of the world and of the nature of the deities that cause it is indispensable, and that this knowledge too is attained only through truth.
+
+> सखा ह यत्र सखिभिर्नवग्वैरभिज्ञ्वा सत्वभिर्गा अनुग्मन् । सत्यं तदिन्द्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियन्तम् ॥
+
+> *sakhā ha yatra sakhibhir navagvair abhijñvā satvabhir gā anugman | satyaṃ tad indro daśabhir daśagvaiḥ sūryaṃ viveda tamasi kṣiyantam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-39-5 [?]);
+
+> ते इद्देवानां सधमाद आसन्नृतावानः कवयः पूर्व्यासः । गूळ्हं ज्योतिः पितरो अन्वविन्दन्त्सत्यमन्त्रा अजनयन्नुषासम् ॥
+
+> *te id devānāṃ sadhamāda āsann ṛtāvānaḥ kavayaḥ pūrvyāsaḥ | gūḷhaṃ jyotiḥ pitaro anv avindan satyamantrā ajanayann uṣāsam ‖*
+
+(Ṛ. Saṃ. 7-76-4 [?]).
+
+---
+
+**Progress note:** printed p. 318 (PDF 338) done — Sūkta 174 Ṛk 1 Special Topics (satya; continues p. 319). Next: printed p. 319 (PDF 339). Open flags: many Ṛg/Nirukta/Śa. Brā. refs and quotations [?]; review/doubts_v13.json.
