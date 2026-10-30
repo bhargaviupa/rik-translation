@@ -17509,4 +17509,104 @@ In the above sentences two points are clearly understood. First:
 
 ---
 
-**Progress note:** printed p. 626 (PDF 646) done — Sūkta 183 Ṛk 1 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (Hopkins quote; continues p. 627). Next: printed p. 627 (PDF 647). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 627  (PDF 647)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 627.)*
+
+2. These three deities all have three steps, and the third step of all the deities has traversed the world that is beyond the reach of the human being (*puruṣa*) — a hidden world. Both of these points concern motion. Examining only a few of the sentences that describe the first point:
+
+> प्र तद्विष्णुः स्तवते वीर्येण मृगो न भीमः कुचरो गिरिष्ठाः ।
+> यस्योरुषु त्रिषु विक्रमणेष्वधिक्षियन्ति भुवनानि विश्वा ॥
+
+> *pra tadviṣṇuḥ stavate vīryeṇa mṛgo na bhīmaḥ kucaro giriṣṭhāḥ |*
+> *yasyoruṣu triṣu vikramaṇeṣvadhikṣiyanti bhuvanāni viśvā ‖*
+
+(Ṛ. Saṃ. 1-154-2)
+
+> यस्य त्री पूर्णा मधुना पदान्यक्षीयमाणा स्वधया मदन्ति ।
+> य उ त्रिधातु पृथिवीमुत द्यामेको दाधार भुवनानि विश्वा ॥
+
+> *yasya trī pūrṇā madhunā padānyakṣīyamāṇā svadhayā madanti |*
+> *ya u tridhātu pṛthivīmuta dyāmeko dādhāra bhuvanāni viśvā ‖*
+
+(Ṛ. Saṃ. 1-154-4)
+
+> त्रीणि जाना परि भूषन्त्यस्य समुद्र एकं दिव्येकमप्सु ।
+> पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्विदधावनुष्ठु ॥
+
+> *trīṇi jānā pari bhūṣantyasya samudra ekaṃ divyekamapsu |*
+> *pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvidadhāvanuṣṭhu ‖*
+
+(Ṛ. Saṃ. 1-95-3)
+
+> अग्निस्त्रीणि त्रिधातून्या क्षेति विदथा कविः ।
+> स त्रीरेकादशाँ इह यक्षच्च पिप्रयच्च नो विप्रो दूतः परिष्कृतः ।
+> नभन्तामन्यके समे ॥
+
+> *agnistrīṇi tridhātūnyā kṣeti vidathā kaviḥ |*
+> *sa trīrekādaśā~ iha yakṣacca piprayacca no vipro dūtaḥ pariṣkṛtaḥ |*
+> *nabhantāmanyake same ‖*
+
+(Ṛ. Saṃ. 8-39-9 [?]; as read)
+
+> त्रीणि पदान्यश्विनोराविः सान्ति गुहा परः ।
+> कवी ऋतस्य पत्मभिरर्वाग्दिवेभ्यस्परि ॥
+
+> *trīṇi padānyaśvinorāviḥ sānti guhā paraḥ |*
+> *kavī ṛtasya patmabhirarvāgdivebhyaspari ‖*
+
+(Ṛ. Saṃ. 8-8-23 [?])
+
+Of these ṛks, the first two describe the all-pervading nature of Viṣṇu. Thus: the three strides of Viṣṇu, extremely wide, three in number, full of the sweet immortal [honey] and imperishable, have all the created things resting on them in the moments of their casting; these three strides of Viṣṇu satisfy their dependants with pure food-giving. And the same Viṣṇu, with the three-fold *dhātus*, has lifted and held the seven lower worlds and the seven upper worlds, thus all the fourteen worlds, together with Earth and Heaven — thus the all-pervading nature of the three strides of Viṣṇu is described. In the third and fourth ṛks the nature of Agni is told. For Agni the three birth-places are: one in the ocean, in the form of the submarine fire; one in the heaven-world, in the form of the Āditya; and one in the atmosphere, in the form of lightning: thus three birth-places. And the same Agni has traversed the *tridhātus* — thus it is described that Agni pervades the three worlds. In the same way, in the fifth ṛk the three steps of the Aśvin deities are described, and — just as the dwelling places of Viṣṇu and Agni are described —
+
+### Printed p. 628  (PDF 648)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 628.)*
+
+> इदं हि वां प्रदिवि स्थानमोक इमे गृहा अश्विनेदं दुरोणम् ।
+> आ नो दिवो बृहतः पर्वतादाद्भ्यो यातमिषमूर्जं वहन्ता ॥
+
+> *idaṃ hi vāṃ pradivi sthānamoka ime gṛhā aśvinedaṃ duroṇam |*
+> *ā no divo bṛhataḥ parvatādādbhyo yātamiṣamūrjaṃ vahantā ‖*
+
+(Ṛ. Saṃ. 5-76-4 [?]) — the Aśvin deities too are described as having Earth, Atmosphere and Heaven, these three worlds, as dwelling places. In these descriptions yet another point must be noted. In Ṛ. Saṃ. 1-154-? [?] describing the strides of Viṣṇu, in Ṛ. Saṃ. 8-39-? [?] describing the all-pervading nature of Agni, and in the ṛk at hand describing the chariot-journey of the Aśvin deities (1-183-1), the word **tridhātu** is a word that suggests the identical nature of these three deities.
+
+Second: the description that the third step (or station) of all of them lies in a deep, hidden place shows the same nature common to all.
+
+> विष्णुरित्था परममस्य विद्वाञ्जातो बृहन्नभि पाति तृतीयम् ।
+> आसा यदस्य पयो अक्रत स्वं सचेतसो अभ्यर्चन्त्यत्र ॥
+
+> *viṣṇuritthā paramamasya vidvāñjāto bṛhannabhi pāti tṛtīyam |*
+> *āsā yadasya payo akrata svaṃ sacetaso abhyarcantyatra ‖*
+
+(Ṛ. Saṃ. 10-1-3 [?])
+
+> को इमं वो निण्यमा चिकेत वत्सो मातॄर्जनयत स्वधाभिः ।
+
+> *ko imaṃ vo niṇyamā ciketa vatso mātṝrjanayata svadhābhiḥ |*
+
+(Ṛ. Saṃ. 1-95-4 [?]; first word as read [?])
+
+> द्वे इदस्य क्रमणे स्वर्दृशोऽभिख्याय मर्त्यो भुरण्यति ।
+> तृतीयमस्य नकिरा दधर्षति वयश्चन पतयन्तः पतत्रिणः ॥
+
+> *dve idasya kramaṇe svardṛśo 'bhikhyāya martyo bhuraṇyati |*
+> *tṛtīyamasya nakirā dadharṣati vayaścana patayantaḥ patatriṇaḥ ‖*
+
+(Ṛ. Saṃ. 1-155-5) — in ṛks such as these, it is told that the third place of Agni and the third stride of Viṣṇu cannot be known by any man. As it says: "The mortal, looking at the two strides of Viṣṇu that look to heaven, those strides in the earth-world and atmosphere-world, praises and understands; but this third stride of Viṣṇu — no man can know the world of that stride" — in the same way, the motion of the chariot of the Aśvin deities, composed of three wheels, and the movement of one who is hidden (*gūḍhatam*), is told:
+
+> यदयातं शुभस्पती वरेयं सूर्यामुप ।
+> क्वैकं चक्रं वामासीत्क्व देष्ट्राय तस्थथुः ॥
+> द्वे ते चक्रे सूर्ये ब्रह्माण ऋतुथा विदुः ।
+> अथैकं चक्रं यद्गुहा तदद्धातय इद्विदुः ॥
+
+> *yadayātaṃ śubhaspatī vareyaṃ sūryāmupa |*
+> *kvaikaṃ cakraṃ vāmāsītkva deṣṭrāya tasthathuḥ ‖*
+> *dve te cakre sūrye brahmāṇa ṛtuthā viduḥ |*
+> *athaikaṃ cakraṃ yadguhā tadaddhātaya idviduḥ ‖*
+
+(Ṛ. Saṃ. 10-85-15, 16)
+
+---
+
+**Progress note:** printed p. 628 (PDF 648) done — Sūkta 183 Ṛk 1 Special Topics (three strides/stations of Viṣṇu, Agni, Aśvins; tridhātu; third station hidden; continues p. 629). Next: printed p. 629 (PDF 649). Open flags: refs [?]; review/doubts_v13.json.
