@@ -34,4 +34,4 @@ Unit 13 (started): only Saṃhitā 79.1 accents done (p. 522; line 1 mark betwee
 
 Unit 13 (partial, session ended early): Saṃhitā 79.2 accented (p. 528, [accent ?]). Resume at Ṛk 79.3 Saṃhitā (p. 533 — verse lines near whole-page y 0.20–0.45; use stackp_w6b.py at 300 dpi), then flagged [?] lines pp. 523–545. Tip: crop_w6b fractions are text-block fractions; stackp_w6b are whole-page fractions (Saṃhitā of p. 528 at 0.245–0.415).
 Unit 13 (cont.): Saṃhitā 79.3 accented from p. 533 crop (many [accent ?]; marks at syllable boundaries, not zoomed beyond 300 dpi). Resume at Ṛk 79.4 Saṃhitā, then flagged [?] lines pp. 523–545.
-Done through Ṛk 80.1 Saṃhitā accents (p. 564, rough [accent ?]). Next: Ṛk 80.2 (p. 567), then flagged [?] lines pp. 523–620.
+Done through Ṛk 80.2 Saṃhitā accents (p. 567, rough [accent ?]). Next: Ṛk 80.3 (p. 571), then flagged [?] lines pp. 523–620.

@@ -13007,8 +13007,10 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.2**
 
-> स त्वामदद्वृषा मदः सोमः श्येनाभृतः सुतः ।
-> येना वृत्रं निरद्भ्यो जघन्थ वज्रिन्नोजसार्चन्ननु स्वराज्यम् ॥ २ ॥
+*(Accents as printed, 300 dpi; read roughly — strokes/underlines doubtful in many places: [accent ?], to be re-checked.)*
+
+> स त्वा॑मद॒द्वृषा॒ मदः॑ सोमः॑ श्येनाभृ॑तः सु॒तः ।
+> येना॑ वृत्रं निरद्भ्यो ज॑घन्थ वज्रि॒न्नोज॑सार्च॒न्ननु॑ स्वरा॑ज्यम् ॥ २ ॥
 
 *sa tvām adad vṛṣā madaḥ somaḥ śyenābhṛtaḥ sutaḥ |
 yenā vṛtraṃ nir adbhyo jaghantha vajrinn ojasārcann anu svarājyam ||2||*
