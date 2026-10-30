@@ -3574,5 +3574,29 @@
   ],
   "note": "Sankara bhashya quote read approx with dots; Satapatha ref 10-6-3-1 small",
   "answer": ""
+ },
+ {
+  "pdf": 407,
+  "printed": 387,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-5-4, 1-80-15?, 1-100-14; Isa 17, Brh.Up 5-15-1?, Ait.Up 3-2 refs small; Ait Up quote with dots",
+  "answer": ""
+ },
+ {
+  "pdf": 408,
+  "printed": 388,
+  "crop": [
+   0.12,
+   0.28,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 7-25-3?; Nirukta dyumna passage read approx",
+  "answer": ""
  }
 ]

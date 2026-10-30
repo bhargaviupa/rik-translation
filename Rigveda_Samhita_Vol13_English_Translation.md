@@ -10190,4 +10190,72 @@ The gist: both in the Śatapatha Brāhmaṇa (10-6-3-1 [?]) and in the Chāndogy
 
 ---
 
-**Progress note:** printed p. 386 (PDF 406) done — Sūkta 175 Ṛk 5 Special Topics (kratu; Edgerton quotation; continues p. 387). Next: printed p. 387 (PDF 407). Open flags: Ṛg/Chā.Up./Śa.Brā. refs and quotes [?]; Edgerton quote reproduced as printed; review/doubts_v13.json.
+### Printed p. 387  (PDF 407)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+…and the meaning of the synonym *dhyeya* ("object of meditation") is also given. On the whole, he says, in this word the meaning is "a mental resolve (*manaḥsaṅkalpa*) that determines the abiding states of man".
+
+In many parts of the Ṛk-saṃhitā, for this word, the meaning is "sacrifice" (*yajña*) also; but with the same purport it suggests the sacrifice that is of the nature of resolve (*saṅkalpātmaka*). For example —
+
+> साकं हि शुचिना शुचिः प्रशास्ता क्रतुनाजनि । विद्वाँ अस्य व्रता ध्रुवा वया इवानु रोहते ॥
+
+> *sākaṃ hi śucinā śuciḥ praśāstā kratunājani | vidvāṃ asya vratā dhruvā vayā ivānu rohate ‖*
+
+(Ṛ. Saṃ. 2-5-4 [?]) —
+
+in all such ṛks this idea becomes plain. Since the existence of man and his future states of becoming rest upon this action that is of the form of *kratu*, a warning is given to men on this matter, step by step, in the Upaniṣads and elsewhere.
+
+> ॐ क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर ।
+
+> *oṃ krato smara kṛtaṃ smara krato smara kṛtaṃ smara |*
+
+(Īśā. 17) — thus in the Īśā and the Bṛhadāraṇyaka and other Upaniṣads (Bṛ. Up. 5-15-1 [?]), the Self, of the nature of resolve, is addressed and instructed. For the word *krato*, Śaṅkarācārya has given the meaning "O one of the nature of resolve". But in the Aitareya Upaniṣad, in explaining the spiritual (*adhyātma*) nature —
+
+> संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं …………स्मृतिः संकल्पः क्रतुः ।
+
+> *saṃjñānam ājñānaṃ vijñānaṃ prajñānaṃ ………… smṛtiḥ saṃkalpaḥ kratuḥ |*
+
+(Ai. Up. 3-2 [?]) — *saṅkalpa* and *kratu* are stated as separate qualities of the Self.
+
+In this way, the word is used not only where the spiritual qualities are shown, but also where the physical acts of man are shown. For example —
+
+> न हि नु यादधीमसीन्द्रं को वीर्या परः । तस्मिन्नृम्णमुत क्रतुं देवा ओजांसि सं दधुरर्चन्ननु स्वराज्यम् ॥
+
+> *na hi nu yād adhīmasīndraṃ ko vīryā paraḥ | tasmin nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājyam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-80-15 [?]) —
+
+in such ṛks the word *kratu* means "heroic action"; and
+
+> यस्याजस्रं शवसा मानमुक्थं परिभुजद्रोदसी विश्वतः सीम् । स सारिशत्क्रतुभिर्मन्दसानो मरुत्वान्नो भवत्विन्द्र ऊती ॥
+
+> *yasyājasraṃ śavasā mānam uktham paribhuj rodasī viśvataḥ sīm | sa sāriśat kratubhir mandasāno marutvān no bhavatv indra ūtī ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-100-14 [?]) — in this and other ṛks it also means "sacrificial act". So also in the senses of power, wealth, greatness and the like this word is used.
+
+### Printed p. 388  (PDF 408)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+Here the function of this word — ***asmadarthaḥ*** — is for us, the sacrificers: the act performed by Indra for us. ***dyumnintamaḥ — atiśayena annavān yaśovān vā*** — the meaning is explained that it is for the sake of giving us abundant food or fame. Yāska —
+
+> शतं ते शिप्रिन्नूतयः सुदासे सहस्रं शंसा उत रातिरस्तु । जहि वधर्नुषो मर्त्यस्यास्मे द्युम्नमधि रत्नं च धेहि ॥
+
+> *śataṃ te śiprinn ūtayaḥ sudāse sahasraṃ śaṃsā uta rātir astu | jahi vadhar nuṣo martyasyāsme dyumnam adhi ratnaṃ ca dhehi ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 7-25-3 [?]) — quoting this ṛk, he explains that the word *dyumna* is "*dyotater yaśo vā annaṃ vā kāntiyinda belagisu*" — from the root *dyut*, meaning "to shine": the word *dyumna* ("*dyu*-") is explained as "fame" or "food".
+
+***aśvasātamaḥ — aśvopalakṣitabahudhanadāḥ*** — it is explained that Indra graciously bestows abundant wealth, including horses.
+
+***varivovidā — dhanasya vā paricaraṇasya vā vedayitārau laṃbhayitārau*** — the word *varivaḥ* is read among the names of wealth (Ni. 3-… [?]). Sāyaṇa says that Indra's exhilaration and his action, in the sense of a historical meaning (*aitihāsika*), restrain the *asura* Vṛtra, and, in that sense, cause rain to arise by cleaving the cloud; he explains that in respect of us, the sacrificers, who perform the sacrifice for the sake of giving things like wealth and restraining enemies, ***tau śatrughātinau dhanadātārau ca syātām ity anugraham akaroḥ*** — Indra graciously grants that these two, the exhilaration and the action, may be destroyers of enemies and givers of wealth.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***śuṣmintamaḥ*** — *śuṣmaṃ balam asya asti iti śuṣmī*; by "*ata ini-ṭhanau*" (Pā. Sū. 5-2-115 [?]) in the possessive sense the suffix *ini*; to it, in the sense of excess, the suffix *tamap*; by "*ayaḥśmayādīni chandasi*" (Pā. Sū. 1-4-20 [?]) the *bha* designation applies to the one preceding *tamap*; therefore no dropping occurs, because the designation *pada* is the cause; since *tamap* is *pit*, it is *anudātta*; the suffix accent of *ini* remains. The same operations occur in *dyumnintamaḥ*.
+- ***madaḥ*** — root *mada tṛptiyoge*; by "*madoʼnupasarge*" (Pā. Sū. 3-3-67 [?]) the suffix *ap*; being *pit*, it is *anudātta*, so the root accent remains.
+- ***vṛtraghnā*** — root *hana hiṃsāgatyoḥ*; the suffix *kvip*; Vedically, by the *bha* designation, the dropping of the *a* of the root; by "*supāṃ suluk*" (Pā. Sū. 7-1-39 [?]) the substitution *ā* for the dual; the *kṛdutta* final member keeps its natural accent.
+
+---
+
+**Progress note:** printed p. 388 (PDF 408) done — Sūkta 175 Ṛk 5 Special Topics complete; grammar in progress (continues p. 389). Next: printed p. 389 (PDF 409). Open flags: Ṛg/Upaniṣad refs and quotes [?]; sūtra numerals [?]; review/doubts_v13.json.
