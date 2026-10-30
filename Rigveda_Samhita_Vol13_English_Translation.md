@@ -2036,4 +2036,53 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 88 (PDF 108) done — Sūkta 167 Ṛk 4 complete. Next: printed p. 89 (PDF 109): Ṛk 5. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 89  (PDF 109)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> जोषद्यदीमसुर्या सचध्यै विषितस्तुका रोदसी नृमणाः ।
+> आ सूर्येव विधतो रथं गात्त्वेषप्रतीका नभसो नेत्या ॥ ५ ॥
+
+> *joṣadyadīmasuryā sacadhyai viṣitastukā rodasī nṛmaṇāḥ |*
+> *ā sūryeva vidhato rathaṃ gāttveṣapratīkā nabhaso netyā ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> जोषत् । यत् । ईम् । असुर्या । सचध्यै । विषितऽस्तुका । रोदसी । नृऽमनाः ।
+> आ । सूर्याऽइव । विधतः । रथम् । गात् । त्वेषऽप्रतीका । नभसः । न । इत्या ॥ ५ ॥
+
+*(The Saṃhitā has* nṛmaṇāḥ*, the Pada* nṛ-manāḥ *as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> रोदसी मरुत्पत्नी विद्युद्वा एतन्नामिकेयमीमेनं मरुत्संघं जोषत् सेवते ॥ जुषेर्लेट्यडागमः ॥ किमर्थम् । सचध्यै सङ्गमनार्थम् । कीदृशी सा । असुर्या । असुराः क्षेप्तारो मरुतः । तेषां स्वभूता विषितस्तुका विशिथिलकेशसंघा विप्रकीर्णकेशसंघा वा सम्भोगवशेन तथा नृमणा नृषु नेतृषु मरुत्सु मननवती मनुष्येषु वा वृष्टिप्रदानमनोयुक्ता त्वेषप्रतीका दीप्तोपक्रमा दीप्तावयवा वा । ईदृशी देवी विधतः परिचरतो मरुत्संघस्य रथमा गात् । आगच्छति । व्याप्नोति । यागदेशं गन्तुं रथमारुह्य वा यज्ञमागच्छति । केव । विधतः सूर्यस्य रथं त्वेषप्रतीका सूर्येव सूर्यपत्नीव । यद्वा । सूर्यस्य दुहिताश्विनो रथमिव सा यथारोहति तद्वत् । आगमने दृष्टान्तः । नभस इत्या न । अन्तरिक्षादित्ययोः साधारणोऽयं नभःशब्दः नभ इति षट् साधारणानि । नै. १-४ । इत्युक्तत्वात् । अत्रादित्यवचनः । तस्य गतिरिव । सा यथा शीघ्रं तद्वत् ॥ [?]
+
+*Gist:* Rodasī, the Maruts' wife (lightning), with scattered locks and her mind on the Marut-leaders, comes to join the Marut band; radiant, she mounts the chariot of the busy Maruts, as Sūryā mounts the Aśvins' chariot, and comes as swift as the sun's course.
+
+**Pratipadārtha.** *asuryā* — (agitating the clouds) belonging to the Maruts; *viṣitastukā* — with dishevelled locks; (and) *nṛmaṇāḥ* — whose mind is firmly on the leaders, the Marut-gods; *rodasī* — the Maruts' wife called Rodasī (lightning); *sacadhyai* — for union; *īm* — this Marut-host; *yat* — when; *joṣat* — she serves (desires); *tat* — for that reason; *tveṣapratīkā* — Rodasī of shining limbs; *sūryā iva* — as the wife of Sūrya [mounts Sūrya's chariot], or as Sūrya's daughter Sūryā mounts the Aśvins' chariot; *nabhasaḥ* — of the sun; *itvā na* — as with speed; *vidhataḥ* — of the restless Maruts; *ratham* — the chariot; *ā gāt* — she reaches.
+
+### Printed p. 90  (PDF 110)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Bhāvārtha.** The consort of the cloud-agitating Marut-gods, with fluttering locks and with her mind fixed on the Marut-gods, the Marut-wife Rodasī (lightning), desires the Marut-host for the sake of union; therefore, she, of radiant limbs, ascends the chariot of the Marut-gods, as the wife of Sūrya ascends the chariot of Sūrya, or as Sūryā, the daughter of Sūrya, ascends the chariot of the Aśvins, with the speed of the sun.
+
+**English Translation (as printed):** Rodasi, the associate of the scatterers (of the clouds), with dishevelled tresses, and mind devoted to her lords, wooes them to associate (with her): Radiant in form, she has ascended the car of the restless (Maruts) as Surya (ascended the car of the Ashwins), and comes hither (with the celerity) of the sun.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***rodasī īṃ joṣat*** — *marutpatnī vidyut vā etannāmikā iyam īm enaṃ marutsaṅghaṃ sevate*: the wife of the Marut-gods, lightning (*miñcu*), serves the host of the Maruts. In poetic style the husband-and-wife relation between the Maruts and lightning is described. That the Maruts are of seven kinds (*avaha*, *uvaha*, *saṃvaha*, *pravaha*, *parivaha* and so on, names of the seven Maruts) is well known in the Purāṇas. Following this, "host of Maruts" is said here. This is one kind of meaning. Another implied meaning, as of a woman who, desiring pleasure, sees men going about here and there and becomes attached to their companies, also appears here from the sentence "*etannāmikā marutsaṅghaṃ sevate*".
+
+The particle *īm* is explained by Yāska:
+
+> अथ ये प्रवृत्तीर्थेऽमिताक्षरेषु ग्रन्थेषु वाक्यपूरणा आगच्छन्ति पदपूरणास्ते मिताक्षरेष्वनर्थकाः कमीमिदित्येते [?]
+
+> *atha ye pravṛttīrthe 'mitākṣareṣu grantheṣu vākyapūraṇā āgacchanti padapūraṇāste mitākṣareṣvanarthakāḥ kamīmidityete [?]*
+
+— the particles in the form of sentence-fillers (indeclinables) are used in the Vedic texts for completing the sentence; in the metrical texts, in the form of padding (*padapūraṇa*) they are used in an expletive sense. These particles are *kam*, *īm*, *it*, *u*. Of these, the particle *īm* is used here; Sāyaṇa has explained its meaning as "*enaṃ marutsaṅgham*".
+
+---
+
+**Progress note:** printed p. 90 (PDF 110) done — Sūkta 167 Ṛk 5 in progress (Special Topics: īm; continues on p. 91). Next: printed p. 91 (PDF 111). Open flags: small-type numerals [?]; Ṛk 5 Pada/Saṃhitā nṛmaṇāḥ/nṛmanāḥ as printed; review/doubts_v13.json.
