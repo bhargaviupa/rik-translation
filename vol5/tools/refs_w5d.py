@@ -5,7 +5,7 @@ sys.path.insert(0,os.path.dirname(__file__))
 from cfg import EN
 R=re.compile(r'(?<![\w.])(?:\d+|\?)(?:-(?:\d+|\?))+(?![\w])')
 P=int(sys.argv[1]); txt=open(EN,encoding='utf-8').read()
-a=txt.index(f'\n### Printed p. {P} ('); b=txt.index('\n### ',a+5); seg=txt[a:b]
+a=txt.index(f'\n### Printed p. {P} ('); b=min([i for i in (txt.find('\n### Printed p. ',a+5),txt.find('\n**Progress note',a+5)) if i>0]); seg=txt[a:b]
 ms=list(R.finditer(seg))
 if len(sys.argv)>2 and sys.argv[2]=='apply':
     J=json.load(open(sys.argv[3])); T=J.pop('_text',[]); M={int(k):v for k,v in J.items()}; out=[]; last=0
