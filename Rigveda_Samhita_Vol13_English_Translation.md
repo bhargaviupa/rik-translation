@@ -10563,4 +10563,61 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 
 ---
 
-**Progress note:** printed p. 398 (PDF 418) done — Sūkta 176 Ṛk 1 Pratipadārtha, Bhāvārtha, printed English, Special Topics (matsi, śatruṃ anti na vindasi; continues p. 399). Next: printed p. 399 (PDF 419). Open flags: Ṛk 1 bhāṣya closing sentences read approx [?]; Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 399  (PDF 419)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+> अवंशे द्यामस्तभायद्बृहन्तमा रोदसी अपृणदन्तरिक्षम् । स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मद इन्द्रश्चकार ॥
+
+> *avaṃśe dyām astabhāyad bṛhantam ā rodasī apṛṇad antarikṣam | sa dhārayat pṛthivīṃ paprathac ca somasya tā mada indraś cakāra ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 2-15-2 [?]) — in this ṛk Indra is described as valiant, as having grown strong in battle, and as having acquired the power to support heaven and earth; with this power, it means, Indra drives his enemies far away and wins victory.
+
+3. The growth of Indra does many kinds of good to the sacrificers and increases their wealth. Therefore the prayer "*vasyaiṣṭaye vṛṣā viśa*" is made.
+
+***vasya iṣṭaye — vasīyaso dhanasya prāptaye uktalakṣaṇāya yāgāya vā*** — "for the obtaining of wealth, or for the sake of a sacrifice of the kind described that brings wealth": epithets such as *vasuvat* are used in many places in connection with Soma. For example,
+
+> गोवित्पवस्व वसुविद्धिरण्यविद्रेतोधा इन्दो भुवनेष्वर्पितः । त्वं सुवीरो असि सोम विश्ववित्तं त्वा विप्रा उप गिरेम आसते ॥
+
+> *govit pavasva vasuvid dhiraṇyavid retodhā indo bhuvaneṣv arpitaḥ | tvaṃ suvīro asi soma viśvavit taṃ tvā viprā upa girema āsate ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 9-96-19 [?]) — in this ṛk the three epithets *vasuvit* ("finder of wealth"), *hiraṇyavit* ("finder of gold"), *govit* ("finder of cows") belong to Soma alone. From such qualities it is meant that Indra too, drinking the Soma juice, becomes able to provide wealth.
+
+***indo*** — "*indur indher undater vā*" (Ni. 10-42 [?]) — this word may be formed either from the root *indh*, meaning "to blaze", or from the root *und*, meaning "to flow, to make wet". Quoting
+
+> प्र तद्वोचेयं भव्यायेन्दवे हव्यो न य इषवान्मन्म रेजति रक्षोहा मन्म रेजति ॥
+
+> *pra tad voceyaṃ bhavyāyendave havyo na ya iṣavān manma rejati rakṣohā manma rejati ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-129-6 [?]) — the Nirukta-writers have explained the word *indu* in both ways. In the ṛk at hand also this word praises the quality of Soma, which shines and also, in liquid form, flows forth and makes everything moist.
+
+***ṛghāyamāṇaḥ — śatrūn hiṃsayan*** — "injuring enemies". In Monier Williams' dictionary, under *ṛghāy*, the meaning "violence, passion" is given, i.e. intense eagerness, a fury of anger. This word is used in some other ṛks also. For example —
+
+### Printed p. 400  (PDF 420)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+> इन्द्रः सुशिप्रो मघवा तरुत्रो महाव्रातस्तुविकूर्मिर्ऋघावान् । यदुग्रो धा बाधितो मर्त्येषु क्व त्या ते वृषभ वीर्याणि ॥
+
+> *indraḥ suśipro maghavā tarutro mahāvrātas tuvikūrmir ṛghāvān | yad ugro dhā bādhito martyeṣu kva tyā te vṛṣabha vīryāṇi ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-30-9 [?]) — in this and other ṛks, as in the ṛk at hand, "*śatruviṣaye hiṃsāvān*" — "one who has the power to hurt enemies" — is the purport stated. Sāyaṇa —
+
+> नहि त्वा रोदसी उभे ऋघायमाणमिन्वतः । जेषः स्वर्वतीरपः सं गा अस्मभ्यं धूनुहि ॥
+
+> *nahi tvā rodasī ubhe ṛghāyamāṇam invataḥ | jeṣaḥ svarvatīr apaḥ saṃ gā asmabhyaṃ dhūnuhi ‖*
+
+(Ṛ. Saṃ. 1-100-8 [?]) — in this ṛk, giving the explanation of this word, he says "*ṛghnan hantīti ṛghā [?] | śatruvadhaṃ kurvāṇaṃ*" — "one who slays the enemies; since he slays men [i.e. foes], this epithet is used" [as read: [?]]. In the ṛk at hand this word is an epithet of Soma or of Indra.
+
+***invasi — invati, nakṣati*** and so on: since this word is read among the roots expressing the action of pervading (Ni. 2-10 [?]), *invasi* means "you pervade". Pervading Indra, you increase his strength: this is the sense.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***matsi*** — root *madī stutimodamadasvapnakāntigatiṣu*; the root contains *ṇic* in its sense; *laṭ*, second person singular, *sip*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; by "*khari ca*" (Pā. Sū. 8-4-55 [?]) the *d* of the root becomes *t*; because it is in *pādādi* position no *nighāta*; since the suffix is *pit*, the root accent remains.
+- ***vasyaiṣṭaye*** — *vasīyasaḥ iṣṭiḥ prāptiḥ tasyai*; from the word *vasu* the suffix *matup*; when the suffix *īyasun* comes after it, by "*vinmator luk*" (Pā. Sū. 5-3-65 [?]) *luk* for *matup*; by "*ṭeḥ*" (Pā. Sū. 6-4-155 [?]) the loss of the *ṭi*; Vedically the *y* also drops; the fore-member keeps its natural accent.
+- ***viśa*** — root *viśa praveśane*; *loṭ*, second person singular; *nighāta* accent for a *tiṅ*.
+- ***ṛghāyamāṇaḥ*** — root *hana hiṃsāgatyoḥ*; by "*anyebhyo 'pi dṛśyante*" (Pā. Sū. 3-2-75 [?]) the suffix *viṭ*; by the force of the word *dṛś* the *n* is dropped; the *h* becomes *gh*; when the meaning "he who is not *ṛghā* becomes *ṛghā*" is intended, by "*lohitādi ḍājbhyaḥ kyaṣ*" (Pā. Sū. 3-1-13 [?]) the suffix *kyaṣ*; by "*vākyaṣaḥ*" (Pā. Sū. 1-3-90 [?]) the *ātmanepada* suffix comes; *śānac* for *laṭ*; since the *sārvadhātuka* *la* is *anudātta*, the *kyaṣ* accent remains.
+
+---
+
+**Progress note:** printed p. 400 (PDF 420) done — Sūkta 176 Ṛk 1 Special Topics complete; grammar in progress (continues p. 401). Next: printed p. 401 (PDF 421). Open flags: Ṛg/Nirukta refs [?]; sūtra numerals [?]; review/doubts_v13.json.
