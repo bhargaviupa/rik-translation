@@ -10067,4 +10067,71 @@ in such ṛks, as well as in many other places, the description is that Indra ki
 
 ---
 
-**Progress note:** printed p. 382 (PDF 402) done — Sūkta 175 Ṛk 4 Special Topics complete; grammar begun (continues p. 383). Next: printed p. 383 (PDF 403). Open flags: Ṛg/Śatapatha refs and quotes [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 383  (PDF 403)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+- ***īśānaḥ*** — root *īśa aiśvarye*; in the sense of *laṭ*, the substitution *śānac*; since the *ṅit*-less *śānac* takes the accent on the suffix, it is *anudātta*, so the root accent remains.
+- ***vaha*** — root *vaha prāpaṇe*; by *vyatyaya* *loṭ* for *laṅ*; second person singular; because it is in *pādādi* position, no *nighāta*; *śap* being *anudātta*, the root accent remains.
+- ***sūryam*** — root *ṣū gatau*; by "*rājasūyasūrya*…" (Pā. Sū. 3-1-114 [?]) the suffix *kyap* is formed by *nipātana*; by the statement "*supāṃ suluk*"… "*supo bhavanti*" the genitive singular receives the substitution of the accusative singular.
+- ***vadham*** — root *hana hiṃsāgatyoḥ*; by "*hanaś ca vadhaḥ*" (Pā. Sū. 3-3-76 [?]) the suffix *ap* in the sense of action; with it, the substitution *vadha*, with the accent *anta-udātta*; by "*ato lopaḥ*" (Pā. Sū. 6-4-48 [?]) the *a* is dropped; by "*anudāttasya ca yatrodāttalopaḥ*" (Pā. Sū. 6-1-161 [?]) the suffix *ap* takes the *udātta* accent. ‖ 4 ‖
+
+---
+
+**Sūkta 175, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> शुष्मिन्तमो हि ते मदो द्युम्निन्तम उत क्रतुः ।
+> वृत्रघ्ना वरिवोविदा मंसीष्ठा अश्वसातमः ॥ ५ ॥
+
+> *śuṣmintamo hi te mado dyumnintama uta kratuḥ |*
+> *vṛtraghnā varivovidā maṃsīṣṭhā aśvasātamaḥ ‖ 5 ‖*
+
+**Pada-pāṭha**
+
+> शुष्मिन्ऽतमः । हि । ते । मदः । द्युम्निन्ऽतमः । उत । क्रतुः ।
+> वृत्रऽघ्ना । वरिवःऽविदा । मंसीष्ठाः । अश्वऽसातमः ॥ ५ ॥
+
+> *śuṣmin-tamaḥ | hi | te | madaḥ | dyumnin-tamaḥ | uta | kratuḥ |*
+> *vṛtra-ghnā | varivaḥ-vidā | maṃsīṣṭhāḥ | aśva-sātamaḥ ‖ 5 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र ते तव मदः सोमपानजनितः शुष्मिन्तमो बलवत्तमः । उताषि च ते क्रतुः कर्म व्यापारोऽस्मदर्थो द्युम्निन्तमोऽतिशयेनान्नवान् यशोवान्वा ॥ उभयत्रायस्मयोदीनि छन्दसीति भसंज्ञायो बाधितत्वान्न लोपः [?] ॥ हे इन्द्र अश्वसातमोऽश्वोपलक्षितबहुधनदास्त्वं वृत्रघ्ना वृत्रघातिनौ वरिवोविदा धनस्य वा परिचरणस्य वा वेदयितारौ लंभयितारौ तव मदक्रतू मंसीष्ठाः । अनुज्ञातवानसि । शत्रुघातिनौ धनदातारौ च स्यातामित्यनुग्रहमकरोरित्यर्थः ॥
+
+> *he indra te tava madaḥ somapānajanitaḥ śuṣmintamo balavattamaḥ | utāpi ca te kratuḥ karma vyāpāro 'smadartho dyumnintamo 'tiśayenānnavān yaśovān vā ‖ ubhayatrāyasmayodīni chandasīti bhasaṃjñāyo bādhitatvān na lopaḥ [?] ‖ he indra aśvasātamo 'śvopalakṣitabahudhanadās tvaṃ vṛtraghnā vṛtraghātinau varivovidā dhanasya vā paricaraṇasya vā vedayitārau laṃbhayitārau tava madakratū maṃsīṣṭhāḥ | anujñātavān asi | śatrughātinau dhanadātārau ca syātām ity anugraham akaror ity arthaḥ ‖* [?]
+
+*Gist:* O Indra, your exhilaration (from Soma) is the most mighty, and your action for us the most abundant in renown; you, giver of wealth in horses, have approved that these two, your exhilaration and your action, be slayers of enemies and givers of wealth.
+
+### Printed p. 384  (PDF 404)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he indra* — O Indra); *te* — your; *madaḥ* — (Soma-drinking-produced) exhilaration; *śuṣmintamaḥ* — the most strong; *uta* — and; (*te* — your) *kratuḥ* — (for us) the act, or activity; *dyumnintamaḥ* — the most abundant (in strength); (*he indra* — O Indra); *aśvasātamaḥ* — you, the giver of many riches indicated by horses; (your exhilaration and your acts) *vṛtraghnā* — are such as to slay Vṛtra (enemies); *varivovidā* — such as bring wealth to us (to be); *maṃsīṣṭhāḥ* — you have given permission.
+
+**Bhāvārtha**
+
+O Indra, your exhilaration, produced by drinking the Soma juice, is very great, and your acts, which are for our sake, are exceedingly beneficial. O Indra, may this exhilaration of yours and these acts be the powers that kill enemies and bestow riches; by you they have been favoured.
+
+**Printed English**
+
+Your inebriety is most intense; nevertheless, Your acts (for our good) are most beneficent. You desire, bountiful giver of horses, that (both your inebriety and your beneficence should be the means of) destroying enemies and distributing riches.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Addressing Indra, it is said that the exhilaration that arises in Indra from drinking Soma is more abundant than that of other exhilarating things, as described in the sentence ***madaḥ śuṣmintamaḥ balavattamaḥ***.
+
+***kratuḥ — karma*** — Yāska explains that the word *kratu* means "act or wisdom" (*karma vā prajñā vā*) (Ni. 2-28 [?]). And in the Ṛk-saṃhitā —
+
+> यो जात एव प्रथमो मनस्वान्देवो देवान्क्रतुना पर्यभूषत् । यस्य शुष्माद्रोदसी अभ्यसेतां नृम्णस्य महा स जनास इन्द्रः ॥
+
+> *yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat | yasya śuṣmād rodasī abhyasetāṃ nṛmṇasya mahnā sa janāsa indraḥ ‖*
+
+(Ṛ. Saṃ. 2-12-1 [?]) — quoting this ṛk, the Nirukta-writers (Ni. 10-10 [?]) have shown the special meaning of the word *kratu*. Although the meaning "act" is commonly given for the word *kratu*, it is learned from the use of the word in several places that this word has a special excellence in being greatly distinctive in the act; and that its chief meaning is "resolve" (*saṅkalpa*), which impels an act. This meaning is learned from the ṛk quoted below.
+
+---
+
+**Progress note:** printed p. 384 (PDF 404) done — Sūkta 175 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (kratu; continues p. 385). Next: printed p. 385 (PDF 405). Open flags: Ṛk 5 bhāṣya partly doubtful [?]; sūtra/Nirukta/Ṛg refs [?]; review/doubts_v13.json.
