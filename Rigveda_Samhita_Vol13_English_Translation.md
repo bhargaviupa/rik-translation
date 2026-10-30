@@ -4904,7 +4904,7 @@ The eternal companionship between Indra and the Marut-gods, the relation of king
 
 > *sa no marudbhir vṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*
 
-(Ṛ. Saṃ. 1-171-6 [?]). With such ṛks, Indra and the Marut-gods are together invoked and offered oblations; and, describing this companionship, the Bṛhaddevatā says
+(Ṛ. Saṃ. 1-171-5 [?]; this is the second half of the very next ṛk of this sūkta). With such ṛks, Indra and the Marut-gods are together invoked and offered oblations; and, describing this companionship, the Bṛhaddevatā says
 
 > मरुद्भिः सह यत्रेन्द्रो मरुत्वांस्तत्र सोऽभवत् ।
 
@@ -4964,4 +4964,50 @@ The Nirukta-writers, pointing out this very matter, speak thus:
 
 ---
 
-**Progress note:** printed p. 212 (PDF 232) done — Sūkta 171 Ṛk 4 Special Topics (continues p. 213: end of īṣamāṇaḥ note, grammar). Next: printed p. 213 (PDF 233). Open flags: ref numerals in Special Topics (pp. 211–212) [?]; review/doubts_v13.json.
+### Printed p. 213  (PDF 233)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11".)*
+
+(*īṣamāṇaḥ* continued) — in the ṛk quoted above also, the state of all the gods fleeing, frightened of Vṛtra, is shown by the word *īṣamāṇāḥ*. In the present ṛk the sage himself describes the state of Agastya, who fled in fear of Indra's anger.
+
+***niśitāni*** — the word *niśita* is not used in everyday speech in the sense of "sharp, keen". In the Kaṭhopaniṣad:
+
+> क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ।
+
+> *kṣurasya dhārā niśitā duratyayā durgaṃ pathas tat kavayo vadanti |*
+
+(Kaṭha Up. 1-3-14), where the difficulty of crossing the edge of a razor (a barber's knife) is well known as the description of the sharpness. In the Ṛk Saṃhitā this word is generally used in the sense "well prepared"; in the present ṛk it is an epithet of *havyā* ("prepared oblations").
+
+***ahaṃ asmāt taviṣāt indrāt bhiyā īṣamāṇaḥ rejamānaḥ*** — *prasiddhāt balavataḥ indrāt bhītyā palāyamānaḥ puraḥ sthātum aśaktaḥ vepamānaś cābhavam*: here it is explained that the sage Agastya, afraid of the powerful Indra, unable to stand before him, was trembling. Agastya's overstepping with respect to Indra, and his regret for it afterwards, are stated in ṛk 1-170-1. Because Indra made known his displeasure at the transgression, the conversation that the sage Agastya held with Indra is stated in ṛk 1-170-2. Again, the conversation in which Indra, having heard Agastya's reply, asked, along with the priests and with the sage Agastya himself, to obtain his own share of the oblation, is stated in ṛk 1-170-[4?]. In this matter, the defeat brought about by Indra is told here by the sage Agastya, addressing the Marut-gods: thus the narrative context is indicated here.
+
+***yuṣmabhyaṃ havyā niśitāni tāni āre cakṛma*** — addressing the Marut-gods: "*yuṣmabhyaṃ saṃskṛtāni havīṃṣi dūre kṛtavanto vayam indrabhayāt*" — "we have put far away, out of fear of Indra, the oblations that were prepared for you": declaring his offence thus, ***naḥ mṛḷata ataḥ aparādhinaḥ asmān sukhayata*** — "for this reason, being guilty (of the offence of disrespect to you, or of what amounts to a rebuke of you), may the Marut-gods forgive our offence and keep us in happiness": thus the prayer of the mantra-seer Agastya is described here.
+
+### Printed p. 214  (PDF 234)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *taviṣāt* (root *tava*, a Sautra root; affix *ṭiṣac* by an Uṇādi sūtra, "*taverṇidvā*" [as read]; accent on the last syllable since it is *c*-marked; ablative singular); *īṣamāṇaḥ* (root *īṣa gatihiṃsādarśaneṣu*; *śānac* for *laṭ*; the vikaraṇa *śap*; the augment *muk* by "*āne muk*", Pā. Sū. 7-2-82 [?]; because *lasārvadhātuka* is unaccented by "*tāsyanudāttet…*", the accent of the root remains); *bhiyā* (root *ñibhī bhaye*; affix *kvip*; instrumental singular; the ending takes the acute by "*sāvekācastṛtīyādiḥ*", Pā. Sū. 6-1-168 [?]); *rejamānaḥ* (root *reja kampane*; *śānac* for *laṭ*; the augment *muk* and the accent as before); *niśitāni* (root *śo tanūkaraṇe*; affix *kta* in the passive; the substitute *i*-ending for the root by "*śācchoranyatarasyām*", Pā. Sū. 7-4-41 [?]; the preverb *ni* takes the acute by "*gatir anantaraḥ*"); *cakṛma* (root *ḍukṛñ karaṇe*; *liṭ* 1st plural; *nighāta* since it stands after a word ending in a verb); *mṛḷata* (root *mṛḍa sukhane*; since the causal action is shown, the causal sense is included; *loṭ* 2nd plural; because it stands after a word ending in a verb there is no *nighāta*, and by the accent of the *vikaraṇa* it becomes acute on the middle syllable). ‖ 4 ‖
+
+*(ornamental rule — a printer's ornament)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> येन मासासश्चितयन्त [?] उस्रा व्युष्टिषु शवसा शश्वतीनाम् ।
+> स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ॥ ५ ॥
+
+> *yena māsāsaścitayanta [?] usrā vyuṣṭiṣu śavasā śaśvatīnām |*
+> *sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> येन । मासासः । चितयन्ते । उस्राः । विऽउष्टिषु । शवसा । शश्वतीनाम् ।
+> सः । नः । मरुत्ऽभिः । वृषभ । श्रवः । धाः । उग्रः । उग्रेभिः । स्थविरः । सहःऽदाः ॥ ५ ॥
+
+> *yena | māsāsaḥ | citayante | usrāḥ | vi 'uṣṭiṣu | śavasā | śaśvatīnām |*
+> *saḥ | naḥ | marut 'bhiḥ | vṛṣabha | śravaḥ | dhāḥ | ugraḥ | ugrebhiḥ | sthaviraḥ | sahaḥ 'dāḥ ‖ 5 ‖*
+
+---
+
+**Progress note:** printed p. 214 (PDF 234) done — Sūkta 171 Ṛk 4 complete; Ṛk 5 Saṃhitā and Pada written. Next: printed p. 215 (PDF 235): bhāṣya of Ṛk 5. Open flags: Ṛk 5 Saṃhitā 'māsāsaḥ/cityanta' reading [?]; small-type numerals [?]; review/doubts_v13.json.
