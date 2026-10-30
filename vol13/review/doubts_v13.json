@@ -3382,5 +3382,29 @@
   ],
   "note": "Rg refs 3-29-9, 3-49-2, 3-16-2 small; quotes read approx; Nirukta 2-17",
   "answer": ""
+ },
+ {
+  "pdf": 391,
+  "printed": 371,
+  "crop": [
+   0.1,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta matsara quote and ref (2-25?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 392,
+  "printed": 372,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhashya last sentence 'yogadhikari san yoni na yajate' read approx",
+  "answer": ""
  }
 ]

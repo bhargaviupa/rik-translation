@@ -9669,4 +9669,67 @@ This word is well established as an epithet of Indra, describing Indra's distinc
 
 ---
 
-**Progress note:** printed p. 370 (PDF 390) done — Sūkta 175 Ṛk 2 complete in text up to Special Topics (pṛtanāṣāṭ; grammar next). Next: printed p. 371 (PDF 391). Open flags: Ṛk 2 Pada 'sahasvān' [?]; Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 371  (PDF 391)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+***matsaraḥ*** — for this word two meanings are possible: "the cause of delight", and, as another, "envy" (*mātsarya*). The Nirukta-writers too have given two meanings for this word.
+
+> मत्सरः सोमो मन्दतेस्तृप्तिकर्मणः ।
+
+> *matsaraḥ somo mandates tṛptikarmaṇaḥ |*
+
+(Ni. 2-25 [?]) — from the root *mad* (*mandate*), meaning "to cause satisfaction", the word is used as a synonym of the Soma juice; and "*matsara iti lobha nāma*" — "*matsara* is a name for greed": since it shows excessive desire and rivalry (*ahamahamikā*), the Nirukta-writers explain the name *matsara*. In the ṛk at hand it may mean "the cause of delight", or "excellent, in rivalry with the Soma juices of other sacrifices".
+
+Having given these meanings of the words in the Bhāṣya, Sāyaṇa explains: "*uttarārdhaḥ indraparatayā vyākhyeyaḥ*" — it is proper to explain the second half as addressed to Indra.
+
+From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyavān* ("having as companion the Soma given by us"), that is, the one who has as friend the Soma juice offered by the sacrificer; or *balavān*, "strong"; *sānasiḥ* — "worthy to be obtained by the sacrificers"; *pṛtanāṣāṭ amartyaś ca* — one who has the power to carry out battles and defeat the enemy armies, and who is free from the nature of death: so Indra's abundant greatness is described.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***gantu*** — root *gamḷ gatau*; *loṭ*, third person singular, *tip*; by "*eruḥ*" (Pā. Sū. 3-4-86 [?]) *u*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; the *m* of the root becomes *anusvāra*, *parasavarṇa*; *nighāta* for a *tiṅ*.
+- ***vareṇyaḥ*** — root *vṛñ varaṇe*; by "*vṛñaḥ eṇyaḥ*" (Uṇ. Sū. 3-… [?]) the suffix *eṇya*; the suffix being the cause, guṇa of the *ik* of the root; *ra* follows; the first syllable is *udātta*, as in *vṛṣādi*.
+- ***sahāvān*** — when *matup* comes, by "*mādhupadhāyāś ca*" (Pā. Sū. 8-2-9 [?]) the *m* becomes *v*; by "*anyeṣām api dṛśyate*" (Pā. Sū. 6-3-137 [?]) the preceding vowel is lengthened in the Saṃhitā; when *indra* follows, by "*dīrghād aṭi samānapāde*" (Pā. Sū. 8-3-9 [?]) *ru* for the *n*; by "*ato 'ṭi nityam*" (Pā. Sū. 8-3-3 [?]) the *ā* takes nasalization.
+- ***sānasiḥ*** — root *ṣaṇa saṃbhaktau*; by "*sānasivarṇasi*…" (Uṇ. Sū. 4-… [?]) the suffix *asi*, the lengthening, and the end-*udātta* accent are fixed by *nipātana*.
+
+### Printed p. 372  (PDF 392)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+- ***pṛtanāṣāṭ*** — root *saha marṣaṇe*; by "*chandasi sahaḥ*" (Pā. Sū. 3-2-63 [?]) the suffix *ṇvi*; by "*ate upadhāyāḥ*" (Pā. Sū. 7-2-116 [?]) *vṛddhi* of the penultimate; by "*sahes sāḍaḥ saḥ*" (Pā. Sū. 8-3-56 [?]) at the end of the word the *s* of the root becomes *ṣ*; the *kṛdutta* final member keeps its natural accent. ‖ 2 ‖
+
+---
+
+**Sūkta 175, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> त्वं हि शूरः सनिता चोदयो मनुषो रथम् ।
+> सहावान्दस्युमव्रतमोषः पात्रं न शोचिषा ॥ ३ ॥
+
+> *tvaṃ hi śūraḥ sanitā codayo manuṣo ratham |*
+> *sahāvān dasyum avratam oṣaḥ pātraṃ na śociṣā ‖ 3 ‖*
+
+**Pada-pāṭha**
+
+> त्वम् । हि । शूरः । सनिता । चोदयः । मनुषः । रथम् ।
+> सहस्वान् [?] । दस्युम् । अव्रतम् । ओषः । पात्रम् । न । शोचिषा ॥ ३ ॥
+
+> *tvam | hi | śūraḥ | sanitā | codayaḥ | manuṣaḥ | ratham |*
+> *sahasvān [?] | dasyum | avratam | oṣaḥ | pātram | na | śociṣā ‖ 3 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र त्वं खलु शूरः शौर्योपेतः सनिता दातासि । अतो मनुषो मानुष्यस्य मे रथं रंहणं स्पन्दनं मनोरथं वा स्वर्गगमनसाधनं यज्ञाख्यं रथं वा चोदयः । प्रेरय । किंच त्वं सहावान् सोमसहायवान् बलवान्वा भूत्वा दस्युमुपक्षपयितारमव्रतमकर्माणमनुष्ठायिनमोषः । दह । किमिव । शोचिषा दीप्त्या ज्वालयाग्निः पात्रं न स्वाधारं पात्रविशेषमिव । योगाधिकारी सन् योनि न यजते तं दहेत्यर्थः ॥ [?]
+
+> *he indra tvaṃ khalu śūraḥ śauryopetaḥ sanitā dātāsi | ato manuṣo mānuṣyasya me rathaṃ raṃhaṇaṃ spandanaṃ manoratham vā svargagamanasādhanaṃ yajñākhyaṃ rathaṃ vā codayaḥ | preraya | kiṃca tvaṃ sahāvān somasahāyavān balavān vā bhūtvā dasyum upakṣapayitāram avratam akarmāṇam anuṣṭhāyinam oṣaḥ | daha | kim iva | śociṣā dīptyā jvālayāgniḥ pātraṃ na svādhāraṃ pātraviśeṣam iva | yogādhikārī san yoni na yajate taṃ dahety arthaḥ ‖* [?]
+
+*Gist:* O Indra, you are a hero and a giver; urge on the chariot of the man who sacrifices (the sacrificial "chariot" that carries him to heaven); and, strong and companioned by Soma, burn up the *dasyu*, the rite-less one, by your blaze, as fire burns a vessel.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he indra* — O Indra); *śūraḥ* — the heroic; *tvaṃ hi* — you alone; *sanitā* — (to us) the giver (therefore); *manuṣaḥ* — me, a man; *ratham* — the chariot of my desire (the chariot in the form of the sacrifice that conveys to heaven); *codayaḥ* — urge on; (*kiñca tvam* — and you) *sahāvān* — endowed with the companion Soma (powerful); *dasyum* — the destroyer; *avratam* — one who has no rites and acts, and such persons; *śociṣā* — by your flame (as fire); *pātraṃ na* — as the fire burns a vessel which is its own support; *oṣaḥ* — burn.
+
+---
+
+**Progress note:** printed p. 372 (PDF 392) done — Sūkta 175 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha continues p. 373). Next: printed p. 373 (PDF 393). Open flags: Ṛk 3 Pada 'sahasvān' [?]; bhāṣya last sentence [?]; sūtra numerals [?]; review/doubts_v13.json.
