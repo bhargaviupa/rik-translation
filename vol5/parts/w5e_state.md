@@ -4,8 +4,8 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 654 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653).
-Next page: p. 655 (PDF 671).
+Done through: p. 657 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657).
+Next page: p. 658 (PDF 674).
 Open items:
 - p. 652: (೧-೧೨೦-೨) written 1-120-2 [?] (glyph not ೬); p. 654: (೪-೬೦-೧೩, ೧೪) written 4-60-13, 14 [?]; p. 654: 7-92-4, 7-90-6 (first glyph read as ೭; the bold glyph here, compare ೭/೨ on the check page).
 - p. 649: Av. 16-6-7 [?] (last digit unsure); p. 651: "(೧೧-೧೭-೨)" written 11-17-2 as printed (file had 10-?-?).
