@@ -4138,5 +4138,29 @@
   ],
   "note": "Rik 2 bhashya: 'taana tistha asraya' and 'arvajasmadabhimukham' read approx",
   "answer": ""
+ },
+ {
+  "pdf": 453,
+  "printed": 433,
+  "crop": [
+   0.4,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-35-4, 1-56-1, 1-190-4? small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 454,
+  "printed": 434,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'ajjhanasyerasuk' sutra name garbled",
+  "answer": ""
  }
 ]
