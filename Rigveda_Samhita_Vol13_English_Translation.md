@@ -5731,4 +5731,56 @@ Sāyaṇa states that the present sūkta, 1-173, belongs to the *Marutvatīya* l
 
 ---
 
-**Progress note:** printed p. 238 (PDF 258) done — Sūkta 173 Ṛk 1 through the start of Special Topics (continues p. 239). Next: printed p. 239 (PDF 259). Open flags: Aitareya Brāhmaṇa quotation garbled [?]; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 239  (PDF 259)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 13"; the Special Topics of Ṛk 1 continue.)*
+
+(Aitareya Brāhmaṇa story, continued; given in Kannada) — When Indra was about to kill Vṛtra, he said to all the gods, "Help me in this work of killing Vṛtra"; and when he asked thus, they agreed, saying "so be it", and came running for it. Then the Asura Vṛtra, saying "They are coming to kill me; I shall frighten them", let loose his breath. At once all the gods, terrified, fled. But the Marut-gods alone did not leave Indra; they urged Indra, "Strike him, use your whole strength against him" — this very matter is praised in the ṛk
+
+> वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः ।
+> मरुद्भिरिन्द्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासि ॥
+
+> *vṛtrasya tvā śvasathād īṣamāṇā viśve devā ajahur ye sakhāyaḥ |*
+> *marudbhir indra sakhyaṃ te astv athemā viśvāḥ pṛtanā jayāsi ‖*
+
+(Ṛ. Saṃ. 8-96-7). Therefore Indra, remembering the help the Marut-gods had given him in his time of distress, [says the Brāhmaṇa]:
+
+> सोऽवेदिमे वै किल मे सखिना [?] इमे माकामयन्त हन्तेमानस्मिन्नुक्थे आभजा इति तानेतस्मिन्नुक्थे आभजदथ हैते तर्ह्येभे एव निष्केवल्ये उक्थे आसतुः । मरुत्वतीयं ग्रहं गृह्णाति मरुत्वतीयं प्रगाथं शंसति मरुत्वतीयं सूक्तं शंसति मरुत्वतीयो निविदं दधाति मरुतां सा भक्तिः ॥ [as read]
+
+> *so 'vedime vai kila me sakhinā [?] ime mākāmayanta hantemānasminnukthe ābhajā iti tānetasminnukthe ābhajadatha haite tarhyebhe eva niṣkevalye ukthe āsatuḥ | marutvatīyaṃ grahaṃ gṛhṇāti marutvatīyaṃ pragāthaṃ śaṃsati marutvatīyaṃ sūktaṃ śaṃsati marutvatīyo nividaṃ dadhāti marutāṃ sā bhaktiḥ ‖ [as read]*
+
+(Ai. Brā. 3-20 [?]). "These Marut-gods are my true friends. They pleased me. Therefore I shall give them, too, a share in the *uktha* I had designed for myself": so resolving, he gave them a share. For the Marut-gods he took the cup (*graha*), he recited the *pragātha*, and so on; thus it is said, in the context of the Marutvatīya litany, that he honoured them in many ways. And
+
+> इन्द्रं वै वृत्रं जघ्निवांसं नास्तृतेति [?] मन्यमानाः सर्वा देवता अजहुस्तं मरुत एव स्वापयो नाजहुः । प्राणा वै मरुतः स्वापयः प्राणा हैवैनं तं नाजहुस्तस्मादेषोऽच्युतः स्वापिमान् प्रगाथः शस्यते आस्वापे स्वापिभिरिति ॥ [as read]
+
+> *indraṃ vai vṛtraṃ jaghnivāṃsaṃ nāstṛteti [?] manyamānāḥ sarvā devatā ajahustaṃ maruta eva svāpayo nājahuḥ | prāṇā vai marutaḥ svāpayaḥ prāṇā haivainaṃ taṃ nājahustasmādeṣo 'cyutaḥ svāpimān pragāthaḥ śasyate āsvāpe svāpibhiriti ‖ [as read]*
+
+(Ai. Brā. 3-16 [?]). At the time of the killing of Vṛtra all the gods abandoned Indra; only the Marut-gods, as his friends, as his vital breaths, did not abandon him. Because they did not abandon Indra, this indicates the very close relation between Indra and the Marut-gods; and, besides, in describing the nature of the Marutvatīya *graha*, the Śatapatha Brāhmaṇa also tells of the relation between Indra and the Marut-gods
+
+### Printed p. 240  (PDF 260)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+and likewise, of the relation of king and subjects between them. The nature of the Marutvatīya *graha*, *pragātha*, *nivid* and the litanies, mentioned in the sentence of the Aitareya Brāhmaṇa quoted above, will be explained later.
+
+"*tṛtīye chandome marutvatīyaśastre etat sūktam*" — Sāyaṇa has said this in the introduction to the sūkta. In a *dvādaśāha* (twelve-day rite), the *stomas* to be recited on the seventh, eighth and ninth days are called *chandoma*. In three orders — *caturviṃśa*, *catuścatvāriṃśa* and *aṣṭacatvāriṃśa* — the *chandoma stomas* have forms of praise. Among them the present sūkta belongs to the third *chandoma*. This is only a part of the Marutvatīya litany. How the remaining sūktas are used in the Marutvatīya litany will be explained later.
+
+***nabhanyam*** — *nabhasi bhavaṃ nabhanyaṃ nabhovyāpinam | hiṃsakaṃ vā rākṣasādikasya | nabhate ardayati*: the word *nabhate*, among the names of killing, is read by Yāska (Ni. 2-[?]). Sāyaṇa, accepting the reading *nabhasyam* [as printed] for *nabhanyam*, explains it as an epithet of the word *sāma*: two kinds of meaning are explained — that this Sāman pervades the atmosphere because it is sung loudly (with a tremor), and that it harms the Rākṣasas and the like, who cause evil.
+
+***nabhanyaṃ sāma yathā veḥ*** — another kind of meaning may also be given to this. The same sentence is quoted in the Aitareya Brāhmaṇa, and Keith, the English scholar, in translating it, gives a meaning at variance with that which Sāyaṇa explains:
+
+*"Let him say the Saman, springing forth as of a bird."* [Harward Oriental Series Vol. 25 p. 245].
+
+Here *veḥ yathā* is taken as "as of a bird", and *nabhanyam* as "that which manifests itself of itself, flashes forth". This meaning is not at all improper; it suits the context. There is also a basis for stating the purport in this manner: as a bird flies quickly to approach, so the devotee approaches Indra swiftly; the comparison with a bird is made in the Ṛk Saṃhitā itself. For example:
+
+> वयः सुपर्णा उप सेदुरिन्द्रं प्रियमेधा ऋषयो नाधमानाः ।
+> अप ध्वान्तमूर्णुहि पूर्धि चक्षुर्मुमुग्ध्यस्मान्निधयेव बद्धान् ॥
+
+> *vayaḥ suparṇā upa sedur indraṃ priyamedhā ṛṣayo nādhamānāḥ |*
+> *apa dhvāntam ūrṇuhi pūrdhi cakṣur mumugdhy asmān nidhayeva baddhān ‖*
+
+(Ṛ. Saṃ. 10-73-11 [?]). This ṛk also belongs among the Marutvatīya *nivid* mantras. Here, for the word *vayaḥ*, the Nirukta-writers show the derivation, *(continued)*
+
+---
+
+**Progress note:** printed p. 240 (PDF 260) done — Sūkta 173 Ṛk 1 Special Topics (continues p. 241). Next: printed p. 241 (PDF 261). Open flags: Aitareya Brāhmaṇa quotations garbled [?]; ref numerals [?]; review/doubts_v13.json.

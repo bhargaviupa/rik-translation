@@ -1834,5 +1834,29 @@
   ],
   "note": "Aitareya Brahmana quote (3-20?) garbled; zoom 200dpi",
   "answer": ""
+ },
+ {
+  "pdf": 259,
+  "printed": 239,
+  "crop": [
+   0.4,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Aitareya Br. quotes (3-20, 3-16) readings garbled; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 260,
+  "printed": 240,
+  "crop": [
+   0.65,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-73-11? and Harward Oriental Series ref (vol 25 p 245)",
+  "answer": ""
  }
 ]
