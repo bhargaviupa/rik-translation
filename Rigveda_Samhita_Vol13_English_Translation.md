@@ -9217,4 +9217,66 @@ In the second meaning, for the word *pūrvīḥ* the sense *purātanyaḥ āpa�
 
 ---
 
-**Progress note:** printed p. 354 (PDF 374) done — Sūkta 174 Ṛk 8 complete; Ṛk 9 Saṃhitā written (Pada continues p. 355). Next: printed p. 355 (PDF 375). Open flags: sūtra/Uṇādi numerals [?]; review/doubts_v13.json.
+### Printed p. 355  (PDF 375)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+**Pada-pāṭha**
+
+> त्वम् । धुनिः । इन्द्र । धुनिऽमतीः । ऋणोः । अपः । सीराः । न । स्रवन्तीः ।
+> प्र । यत् । समुद्रम् । अति । शूर । पर्षि । पारय । तुर्वशम् । यदुम् । स्वस्ति ॥ ९ ॥
+
+> *tvam | dhuniḥ | indra | dhuni-matīḥ | ṛṇoḥ | apaḥ | sīrāḥ | na | sravantīḥ |*
+> *pra | yat | samudram | ati | śūra | parṣi | pāraya | turvaśam | yadum | svasti ‖ 9 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र त्वं धुनिः कंपयिता शत्रूणामसि । अतो धुनिमतीः कंपनोपेतेतरंगवतीः । अथवा । धुनिर्नाम जलप्रतिरोधकार्यसुरः । स एव प्रतिबन्धकतया यासां तादृशीः अपः ऋणोः । अगमयः । भूमावपातयः । तत्र दृष्टान्तः । स्रवन्तीः प्रवहन्तीः सीरा न । नदीनामैतत् । सरणवतीर्नदीरिव । तद्वत्क्षन्तेतः [?] इत्यर्थः । एवं कृत्वा हे शूर यद्यदा समुद्रमति पर्षि अतिक्रम्य पूरयसि । उदकं तदानीं तुर्वशं यदुमुभावपि राजर्षी स्वस्ति अविनाशं पारय । आपालयः संपूर्णजलवर्षणेन । तथा च मन्त्रान्तरं । त्वमपो यदवे तुर्वशायारमयः । ऋ. ५-३१-८ [?] । इति ॥
+
+> *he indra tvaṃ dhuniḥ kaṃpayitā śatrūṇām asi | ato dhunimatīḥ kaṃpanopetetaraṃgavatīḥ | athavā | dhunir nāma jalapratirodhakāry asuraḥ | sa eva pratibandhakatayā yāsāṃ tādṛśīḥ apaḥ ṛṇoḥ | agamayaḥ | bhūmāv apātayaḥ | tatra dṛṣṭāntaḥ | sravantīḥ pravahantīḥ sīrā na | nadīnāmaitat | saraṇavatīr nadīr iva | tadvat kṣantetaḥ [?] ity arthaḥ | evaṃ kṛtvā he śūra yad yadā samudram ati parṣi atikramya pūrayasi | udakaṃ tadānīṃ turvaśaṃ yadum ubhāv api rājarṣī svasti avināśaṃ pāraya | āpālayaḥ saṃpūrṇajalavarṣaṇena | tathā ca mantrāntaraṃ | tvam apo yadave turvaśāyāramayaḥ | ṛ. 5-31-8 [?] | iti ‖* [?]
+
+*Gist:* Indra is the shaker of foes; he sends down the trembling waters like flowing rivers (or releases waters held back by the *asura* Dhuni); and when he fills the ocean he safely carries across the royal sages Turvaśa and Yadu.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *tvam* — you; *dhuniḥ* (*asi*) — you are one who makes (enemies) tremble with fear (hence); *dhunimatīḥ* — the waters that are with waves, or that have an *asura* called Dhuni as their obstacle; *apaḥ* — the waters; *sravantīḥ* — flowing; *sīrāḥ na* — like rivers (continuously); *ṛṇoḥ* — you have sent out (cast on the earth) (in this way); *śūra* — O hero; *yat* — when; *samudram* — the ocean; *pra ati parṣi* — you cross and fill; (*tadā* — then); *turvaśam* — Turvaśa and; *yadum* — Yadu (the royal sages); *svasti* — so that no harm befalls them; *pāraya* — you have protected.
+
+**Bhāvārtha**
+
+O Indra, you cause your enemies to tremble with fear; having killed the *asura* Dhuni, who was binding the waters, you have sent the waters out in the form of flowing streams; by it, filling the ocean, you have brought welfare to the two royal sages Turvaśa and Yadu.
+
+**Printed English**
+
+You, Indra, are the terrifier (of your foes); you have made the trembling waters overspread (the earth) like flowing rivers: but, hero, when you fill the ocean, you have protected in their well-being Turvasha and Yadu.
+
+### Printed p. 356  (PDF 376)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***dhuniḥ — kaṃpayitā*** — Indra is described as one who makes his enemies tremble. The word *dhuni*, formed from the root *dhūñ kaṃpane* ("to shake"), is explained as "*dhunoti iti dhuniḥ*" (Ni. 5-12 [?]). The word *dhunayaḥ* is read among the names of rivers (Ni. 1-24 [?]).
+
+***dhunimatīḥ apaḥ ṛṇoḥ — kaṃpanoper etaraṃgavatīḥ | athavā jalapratirodhakārī asuraḥ sa eva pratibandhakatayā yāsāṃ tādṛśīḥ apaḥ bhūmāvapātayaḥ*** — when waters flow, because of the agitation that arises in them, they are called *dhunimatyaḥ* (those with waves) — described as "possessed of waves, ripples". Or, the *asura* who obstructs the flowing of the waters is called *dhuni*; the waters that have as their obstacle the *asura* called *Dhuni*, who hinders the stream, are described as *dhunimatyaḥ*. The meaning is given that Indra, by destroying the obstructing state existing in such waters, caused the waters to flow on the earth.
+
+***sravantīḥ sīrā na — saraṇavatīr nadīr iva | tadvat*** — *sravantyaḥ* is read among the names of rivers (Ni. 1-… [?]). The word *na* is used here as a particle of comparison, said by way of simile: as the waters flow, uniting and running together like rivers, so they flow.
+
+Addressing Indra with the word *śūra*, "*yat samudram atiparṣi turvaśaṃ yadum svasti pāraya*" — "*yadā samudram atikramya udakena pūrayasi tadānīṃ turvaśaṃ yadum ubhāv api rājarṣī saṃpūrṇajalavarṣaṇena avināśam apālayaḥ*": the meaning is explained that when Indra fills the ocean with water, as a river fills up and overflows, he makes the two royal sages Turvaśa and Yadu glad by abundant rain and protects them from harm. Sāyaṇa quotes in support the same sense from the mantra:
+
+> त्वमपो यदवे तुर्वशायारमयः सुदुघाः पार इन्द्र ।
+
+> *tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra |* [as read: [?]]
+
+(Ṛ. Saṃ. 5-31-8 [?]).
+
+Yāska has explained the meaning of the word *svasti*, with a mantra example:
+
+> स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥
+
+> *sa naḥ piteva sūnave 'gne sūpāyano bhava | sacasvā naḥ svastaye ‖*
+
+(Ṛ. Saṃ. 1-1-9). Here the word *svasti* is explained as "*svastīti avināśināma | astir abhipūjitaḥ | su āstīti*" [as read: [?]] — *svasti* is a name for "imperishable"; the word *asti* is used in the sense of "worship"; with the preposition *su* joined, *su asti* became *svasti*. Durgācārya has explained *avināśi* as "that which is free from destruction".
+
+---
+
+**Progress note:** printed p. 356 (PDF 376) done — Sūkta 174 Ṛk 9 Special Topics (dhuni, svasti; continues p. 357). Next: printed p. 357 (PDF 377). Open flags: Ṛk 9 bhāṣya 'kṣantetaḥ' [?]; Nirukta/Ṛg refs [?]; review/doubts_v13.json.
