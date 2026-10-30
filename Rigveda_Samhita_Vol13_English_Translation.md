@@ -13995,4 +13995,68 @@ O Aśvins, of truth-nature, devourers of the oblations of the sacrifice! The sac
 
 ---
 
-**Progress note:** printed p. 506 (PDF 526) done — Sūkta 180 Ṛk 2 complete; Ṛk 3: Saṃhitā…printed English, Special Topics begun (ṛtaspū, vaninaḥ; continues p. 507). Next: printed p. 507 (PDF 527). Open flags: refs [?]; 'ṛtaspū' reading [?]; review/doubts_v13.json.
+### Printed p. 507  (PDF 527)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 507.)*
+
+**Special Topics (continued)** — the word *vana* has been read among the names of *raśmi* ("ray") (Ni. 1-15 [?]) and among the names of "water" (Ni. 1-12 [?]). Besides these meanings, the word is used in many other senses in the Ṛk-saṃhitā. From the root *van*, giving the sense of eager desire ("wishing to obtain"), or from the root *vas*, "to beg", or *van*, giving the sense "to ask, to pray", the forms *vanāni*, *vaninaḥ*, *vanāmahe*, *vananta* and the like are formed, as nouns and as verbs; so, to know the changes of meaning, some examples may be seen. When it is a noun it has the meanings "venerable" (*pūjya*), "water" (*udaka*), "tree of the forest", "flower and fruit"; when it is a verb, the meanings "to kill" (*kollu*), "to give" (*koḍu*), "to serve with devotion" (*bhaktiyiṃde sēvisu*) occur. The occurrences, with examples, have been explained at length earlier in this same portion in the special topics of Ṛk 1-168-3 [?]. In the ṛk at hand it means either "of the sacrifice marked by water" or "of the group of trees".
+
+***hvāraḥ*** — *hvāra* is explained as "thief". The meanings "robber" (*taskara*) and "cheat" (*vañcaka*) came to this word by tradition; the original meaning of this word is *kuṭila*, *vakra* ("crooked", "curved").
+
+> क्रत्वा हि द्रोणे अज्यसेऽग्ने वाजी न कृत्व्यः ।
+> परिज्मेव स्वधा गयोऽत्यो न ह्वार्यः शिशुः ॥
+
+> *kratvā hi droṇe ajyase 'gne vājī na kṛtvyaḥ |*
+> *parijmeva svadhā gayo 'tyo na hvāryaḥ śiśuḥ ‖*
+
+(Ṛ. Saṃ. 6-2-8 [?]) — in this ṛk the word *hvāryaḥ* shows a quality of the horse. Here it is an epithet of Agni; the common property of the horse and of Agni is suggested by this word. Just as a horse goes with a crooked movement, so also the flame of Agni spreads with crooked movement. Likewise:
+
+> उत स्म दुर्गृभीयसे पुत्रो न ह्वार्याणाम् ।
+> पुरू यो दग्धासि वनाग्ने पशुर्न यवसे ॥
+
+> *uta sma durgṛbhīyase putro na hvāryāṇām |*
+> *purū yo dagdhāsi vanāgne paśurna yavase ‖*
+
+(Ṛ. Saṃ. 6-6-4 [?]) — in this ṛk the word *hvāryāṇām* means *kuṭilaṃ gacchatāṃ sarpāṇām* ("of the serpents that go crookedly"); it shows the crooked movement of serpents which go in a crooked way. Thus, with its original sense, this word is also used as a synonym of thieves and the like. Straightness is the disposition of truth; and for a cheat the quality is the lack of straight dealing; so *hvāraḥ* means "thief". And:
+
+> वि यदस्थाद्यजतो वातचोदितो ह्वारो न वक्वा जरणा अनाकृतः ।
+> तस्य पत्मन्दक्षुषः कृष्णजंहसः शुचिजन्मनो रज आ व्यध्वनः ॥
+
+> *vi yadasthādyajato vātacodito hvāro na vakvā jaraṇā anākṛtaḥ |*
+> *tasya patmandakṣuṣaḥ kṛṣṇajaṃhasaḥ śucijanmano raja ā vyadhvanaḥ ‖*
+
+(Ṛ. Saṃ. 1-140-7 [?]) —
+
+### Printed p. 508  (PDF 528)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 508.)*
+
+— in such ṛks the meaning is *haraṭe-malla* ("a rambling talker, a wrestler of talk" [as read [?]]). The talker, since he goes beyond bounds, has no straight and fixed direction; therefore there is crookedness in him too; hence the epithet *vakvā hvāraḥ* ("crooked thief"). In the ṛk at hand the "thief" is the sense; but here one more point should be noted. Used in general as an epithet of a thief, this word shows his deceitfulness; but in the ṛk at hand it shows a general quality common to the sacrificer and to the *hvāra*; namely, as the thief carries out his theft with alertness, so the sacrificer also carries out the sacrifice: the common property of both is attention and alertness.
+
+***usriyāyām*** — in the Ṛgveda this word is read among the names of "cow" (*go*): *usrā*, *usriyā*, and so on (Ni. 3-8 [?]). "*usriyeti gonāma | usrāviṇaḥ asyāṃ bhogāḥ*" [as read [?]] — because the milk, the means of comfort, flows out, the name *usriyā* arose; so the Nirukta-writers, citing
+
+> उत वां विक्षु मद्यास्वन्धो गाव आपेश्च पीपयन्त देवीः ।
+> उतो नो अस्य पूर्व्यः पतिर्दन्वीतं पाहि पयस उस्रियायाः ॥
+
+> *uta vāṃ vikṣu madyāsvandho gāva āpeśca pīpayanta devīḥ |*
+> *uto no asya pūrvyaḥ patirdanvītaṃ pāhi payasa usriyāyāḥ ‖*
+
+(Ṛ. Saṃ. 1-153-4 [?]) — have explained it as above (Ni. 4-19 [?]).
+
+In the ṛk at hand it is intimated that the Aśvin deities placed milk in the unripe udder of the cow; this context is intimated in many places in the Ṛk-saṃhitā. The story is told in some places in this way:
+
+> शयुर्नाम राजर्षिः । सोऽश्विनौ परिचर्यया तुष्टावुवाच । मम गौर्धेनुर्निवृत्तप्रसवा वृद्धा च । तां मे धेनुं कुरुतमिति । तामस्मै अश्विनौ धेनुं चक्रतुरित्यैतिहासमाचक्षते ॥
+
+> *śayurnāma rājarṣiḥ | so 'śvinau paricaryayā tuṣṭāvuvāca | mama gaurdhenurnivṛttaprasavā vṛddhā ca | tāṃ me dhenuṃ kurutamiti | tāmasmai aśvinau dhenuṃ cakraturityaitihāsamācakṣate ‖*
+
+— a royal sage named Śayu pleased the Aśvins by his service. Then he said to them, "My cow is past bearing and old; make her a milch cow for me." The Aśvins made her a milch cow for him: so the tradition tells. In this connection many ṛks intimate the story. For example:
+
+> अथेनुं दस्रा स्तर्यं विषक्तामपिन्वतं शयवे अश्विना गाम् ।
+
+> *athenuṃ dasrā staryaṃ viṣaktāmapinvataṃ śayave aśvinā gām |*
+
+(Ṛ. Saṃ. 1-112-20 [?])
+
+---
+
+**Progress note:** printed p. 508 (PDF 528) done — Sūkta 180 Ṛk 3 Special Topics (vana, hvāra, usriyā; Śayu story; continues p. 509). Next: printed p. 509 (PDF 529). Open flags: refs [?]; review/doubts_v13.json.
