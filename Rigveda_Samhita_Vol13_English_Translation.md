@@ -17473,4 +17473,40 @@ Chandas — Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 624 (PDF 644) done — Sūkta 182 complete (Ṛk 8 grammar, closing); Sūkta 183 (6 ṛks) heading, anuvāda, Ṛk 1 Saṃhitā, Pada. Next: printed p. 625 (PDF 645): Ṛk 1 bhāṣya onward. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 625  (PDF 645)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 625.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे वृषणा वर्षकौ कामानां युवां तं वक्ष्यमाणगुणविशिष्टं रथं युञ्जाथां । योजयथं । तमित्युक्तं कमित्याह । यो रथस्त्रिवन्धुरः त्रिप्रकारसारथिस्थानः । वन्धुरं रथिनः स्थानमित्याहुः । ऋ. ४-४३-१ । इत्यादिमन्त्रान्तरात् । यश्च त्रिचक्रः चक्रत्रितयोपेतः । पुनः स एव विशेष्यते । येन रथेनोपयाथः उपगच्छथः । किं । सुकृते शोभनसोमाख्यकर्मवतो यजमानस्य दुरोणं । गृहनामैतत् । यागगृहं । येनेत्युक्तं केनेत्याह । त्रिधातुना त्रिप्रकारसानोपेतेन सुवर्णरजतताम्रधातुत्रयोपेतेन वा रथेन । गमने दृष्टान्तः । विर्न पर्णैः पक्षी पक्षैर्यथा शीघ्रमप्रयत्नेन गच्छति तद्वदुक्तलक्षणेन रथेन पतेथः । गच्छथः ॥
+
+*(Sanskrit as read; the Ṛg reference "4-43-1" is as read [?]. Gist: yoke your chariot, three-seated, three-wheeled, of three metals; by it, like a bird on wings, you come swiftly to the house of the pious sacrificer.)*
+
+**Pratipadārtha** — **he vṛṣaṇā** — O Aśvin deities, who rain desires; **yaḥ** — which chariot; **trivandhuraḥ** — having three kinds of seats for the charioteer; and **manasaḥ javīyān** — swifter than the mind; **yaḥ** — which; **tricakraḥ** — having three wheels; **tridhātunā** — endowed with the three kinds of metal — gold, silver and copper; (**yena** — by which chariot); **viḥ** — a bird; **parṇaiḥ na** — as with wings; **patathaḥ** — you fly; and **yena** — by which chariot; **sukṛtaḥ** — (to the one who performs the good rite of Soma) the sacrificer; **duroṇaṃ** — to the house; **upa yāthaḥ** — you come; **taṃ** — that chariot; **yuñjāthāṃ** — you two yoke.
+
+**Bhāvārtha** — O Aśvin deities, who rain desires, yoke that chariot of yours which has three kinds of seats for the charioteer, which is swifter than the mind, which has three wheels, which is made of gold, silver and copper, and which moves without effort, like birds, and is favourable to you; and, seated in it, which is your vehicle for going to the houses of the performers of good rites, come to our sacrificial hall.
+
+**English Translation.** *(printed)*
+
+"Showerers of benefits, harness the car which has three benches, three wheels, and is as quick as thought with which, embellished with three metals, you come to the dwelling of the pious (worshipper), and in which you travel like a bird with wings."  XIII 40
+
+### Printed p. 626  (PDF 646)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 626.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk also the description of the chariot of the Aśvin deities is given. The purport of epithets such as **tricakraḥ**, **trivandhuraḥ**, **manasaḥ javīyān** has been explained before. In the present context, how the epithets *tricakraḥ*, *trivandhuraḥ* show the all-pervading nature of the Aśvin deities must be examined. Just as the all-pervading nature of Viṣṇu is understood from sentences such as "*triṣu vikramaṇeṣu*" ("in the three strides"), and the all-pervading nature of Agni from "*trīṇi jānā pari bhūṣanti*" etc., so from epithets such as *tricakraḥ* the nature of the Aśvin deities is understood; the descriptions of Agni, Viṣṇu, Savitṛ and the Aśvin deities all explain an identical principle; and in all contexts this point — that the same thing is common to all the deities — is worthy of notice. The English scholar Hopkins, explaining this point, has said thus:
+
+> "A comparison with the abodes of other Vedic Deities who are said to traverse the whole Universe like Vishnu confirms the same view. One of these deitics [sic] is *Savitṛ* [printed in Kannada letters]. The second deity that traverses or measures the Universe is *Agni*. He has three stations. his light is spoken of as three-fold. Althouge [sic] these three stations do not seem to be always conceived alike, yet, one of them at any rate can be clearly identified with the third step of Vishnu. Agni somtimes [sic] represents the Sun in the Rig-Veda and Vishnu is also the same Sun under a different name and the third or the hidden abode of Agni can therefore, be easily recognised as identical in character. The third Deity that traverses the Universe is the Aswins to whom the epithet *parijman* [printed in Kannada letters] is applied several times in the Rig-Veda. The Aswins are said to have three stations and their chariot which is to go over both the worlds alike has three wheels one of which is represented as deposited in a cave or a secret place like the third step of Vishnu which is beyond the ken of mortals. This coincidence between the third stations of three different worldtraversing [sic] Gods cannot be treated as accidental."
+
+(J. A. O. S. Vol. 16. p. CXLIX to CL.)
+
+In the above sentences two points are clearly understood. First:
+
+1. the three worlds, Earth, Heaven and Atmosphere, are likewise the abodes of Agni, Viṣṇu and the Aśvin deities; second,
+
+---
+
+**Progress note:** printed p. 626 (PDF 646) done — Sūkta 183 Ṛk 1 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (Hopkins quote; continues p. 627). Next: printed p. 627 (PDF 647). Open flags: refs [?]; review/doubts_v13.json.
