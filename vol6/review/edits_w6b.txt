@@ -26,3 +26,34 @@ p. 286: "śruti [as read, ?]" -> "(*iti śruteḥ*)", print clear.
   p. 287: Uṇ. [3-82?] -> [2-253?]
   p. 287: Uṇ. [4-?] -> [4-513?]
 p. 287: grammar page: *suñasyaser ṛnan* -> *suñsyaser ṛn* (print "ಸುಞ್ಸ್ಯಸೇರ್ಋನ್"); the grammar page's Uṇādi numbers are in a different (running) numbering from the bhāṣya's.
+p. 288: Rik 71.2 Saṃhitā accents set as printed (360–420 dpi); no mark under ಕೇ of ketum [accent ?] (doubts page).
+  p. 289: running-head Varga [?] -> 15
+p. 289: सुष्ठुअरणीयम् -> सुष्ठ्वरणीयम् (print); reading-note doubts on adrim attāram / paṇināpahṛtā cleared.
+  p. 290: Ṛk. Saṃ. [7-6-3?] -> 7-6-3
+  p. 290: Ni. [2-9?] -> [3-9?]
+  p. 290: Ni. [4-4?] -> 4-4
+  p. 290: Ṛk. Saṃ. [1-51-3?] -> 1-51-3
+p. 290: citation of Ṛk 7-6-3 re-read: नैक्रूतून् -> न्यक्रतून्; candrabindus पणीँर्, दस्यूँर्, अपराँ as printed.
+  p. 291: running-head Varga [?] -> 15
+  p. 291: running-head Aṣṭaka 1 -> 2 [as printed; for 1]
+  p. 291: Ṛk. Saṃ. [10-85-19?] -> 10-85-19
+  p. 291: Ni. [11-6?] -> 11-5
+  p. 291: Ṛk 1-[?]-4 -> 1-92-4
+p. 292: Rik 71.3 Saṃhitā accents set as printed (380 dpi); pluta ३ printed with both marks [accent ?] (doubts page). The pluta '೩' confirms the ಖ-like glyph = ೩.
+  p. 293: running-head Varga [?] -> 15
+p. 293: bhāṣya re-read: कर्मान्वतिष्ठन्; restored dropped clause "ऽर्या … स्वामिन्यो दिधिष्वस्तेन धनेन"; विषयांतरतृष्णा; सत्य; अच्छाभिमुख्येन.
+p. 294/295: the two Ṛgveda citations of the dhīti note (Ṛk 6-61-2, 4-23-8) stand on printed p. 295, not p. 294: moved below the p. 295 heading; "aśitam api prajñānāma etat" as printed.
+  p. 295: running-head Varga [?] -> 15
+  p. 295: Ṛk. Saṃ. [6-61-2?] -> 6-61-2
+  p. 295: Ni. [3-?] -> 2-24
+  p. 295: Ṛk. Saṃ. [4-23-8?] -> 4-23-8
+  p. 295: Ni. [10-?] -> 10-41
+  p. 295: Ni. [3-11?] -> 3-11
+  p. 295: Ṛk. Saṃ. [1-?-5] -> 1-73-5
+  p. 295: Ni. [2-1?] -> 3-1
+  p. 295: Ni. [2-7?] -> 3-9
+  p. 290: Ni. [3-9?] -> 3-9
+  p. 285: Ni. [3-9?] -> 3-9
+  p. 285: Ni. [3-13?] -> 3-13
+p. 295: word lists as printed: "niyutvān, inaina"; "apaḥ, apnaḥ, daṃsaḥ"; "andhaḥ, vājaḥ, payaḥ, prayaḥ"; vṛjināni.
+Calibration: the Ṛk number "|| ೩ ||" (p. 292) and the pluta ೩ have the same ಖ-like glyph as the first digit of the Ni. references (3-9, 3-13): first digit 3 settled; the source's Ni. numbers do not follow the usual Nighaṇṭu sections, recorded as printed.
