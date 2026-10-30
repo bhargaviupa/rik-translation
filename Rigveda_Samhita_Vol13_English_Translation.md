@@ -3190,4 +3190,44 @@ In this ṛk the word *ghṛtena* is given the sense "by water". "*ghṛtam ity 
 
 ---
 
-**Progress note:** printed p. 142 (PDF 162) done — Sūkta 168 Ṛk 9 through Special Topics (grammar on p. 143). Next: printed p. 143 (PDF 163). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 143  (PDF 163)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; the Special Topics of Ṛk 9 conclude.)*
+
+***svadhā*** — the word *svadhā* is read among the names of water (Ni. 1-[?]) and among the names of food (Ni. 2-[?]); and *svadhe* is stated among the names of heaven and earth (Ni. 3-[?]). Here it is used in the sense of food that arises from crops and the like (in forms).
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *asūta* (root *sūṅ prāṇigarbhavimocane*; *laṅ* 3rd singular; no *nighāta* since it stands at the beginning of a *pāda*; the augment *aṭ* being acute, the word is accented on the first syllable); *ayāsām* (root *aya gatau*; *ayante iti ayāḥ teṣām*; since it is included among the *pacādi* roots, the affix *ac* by "*nandigrahipacādibhyaḥ*", Pā. Sū. 3-1-134 [?]; the augment *suṭ* before the genitive plural ending by *vyatyaya*); *anīkam* (root *ana prāṇane*; affix *īkan* by an Uṇādi sūtra, "*anihṛṣibhyāṃ …*" [as read]; first-syllable acute by "*ñityādirnityam*"); *sapsarāsaḥ* (root *psā bhakṣaṇe*; *psāti bhakṣayati iti psaraḥ*, form; Uṇādi affix *ḍara*; because of the *ḍ* marker the final (*ā*) of the root is dropped; *samānaḥ psaraḥ yeṣāṃ te*; the substitute *sa* for *samāna* by "*samānasya chandasi…*", Pā. Sū. 6-3-84 [?]; *asuk* before *jas* by "*ājjaserasuk*"); *ajanayanta* (root *janī prādurbhāve*; *laṅ* in the present sense by "*chandasi luṅlaṅliṭaḥ*", Pā. Sū. 3-4-6 [?]; *ṇic* by "*hetumati ca*"; when the penultimate lengthening has come, as it is *mit*-marked, shortening by "*mitāṃ hrasvaḥ*"; 3rd plural middle; *nighāta* accent); *iṣirām* (root *iṣu icchāyām*; affix *kirac* by "*iṣimadimudikhidichidibhyaḥ kirac*" [as read]; because it is *kit* there is no *guṇa* of the light penultimate; accent on the last syllable by "*citaḥ*"; *ṭāp* in the feminine because it ends in *a*); *apaśyan* (root *dṛśir prekṣaṇe*; Vedic *laṅ* in the present sense; 3rd plural; *nighāta* because it stands after a word ending in a verb). ‖ 9 ‖
+
+*(ornamental rule)*
+
+### Printed p. 144  (PDF 164)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+**॥ संहितापाठः ॥**
+
+> एष वः स्तोमो मरुत इयं गीर्मांदार्यस्य मान्यस्य कारोः ।
+> एषा यासीष्ट तन्वे वयां विद्यामेषं वृजनं जीरदानुम् ॥ १० ॥
+
+> *eṣa vaḥ stomo maruta iyaṃ gīrmāṃdāryasya mānyasya kāroḥ |*
+> *eṣā yāsīṣṭa tanve vayāṃ vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> एषः । वः । स्तोमः । मरुतः । इयम् । गीः । मांदार्यस्य । मान्यस्य । कारोः ।
+> आ । इषा । यासीष्ट । तन्वे । वयाम् । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ १० ॥
+
+> *eṣaḥ | vaḥ | stomaḥ | marutaḥ | iyam | gīḥ | māṃdāryasya | mānyasya | kāroḥ |*
+> *ā | iṣā | yāsīṣṭa | tanve | vayām | vidyāma | iṣam | vṛjanam | jīra 'dānum ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अथ पञ्चदश्यां [?] सूक्तोपक्रममारभ्य कृतां स्तुतिं मरुद्भ्यो निवेद्याभिमतमाशास्ते ॥ हे मरुतः एष स्तोम इदानीं क्रियमाणप्रकारं स्तोत्रं वो युष्मदर्थम् । युष्मत्प्रीणनाय भवत्वित्यर्थः । तथेयं गीः स्तुतिरूपा वागपि वो युष्मदर्थाय । यस्मादेवं तस्मान्मांदार्यस्य स्तुतिविशेषैर्मन्दयितुः स्तुतिभिर्मदस्य प्रेरयितुर्वा मान्यस्य वरप्रदानादिना माननीयस्य कारोः स्तोतुर्विशेषेच्छया यासीष्ट । आगच्छत [?] । किमर्थम् । तन्वे शरीराय । तत्पोषायेत्यर्थः । वयां वयमपीषमन्नं वृजनं बलं जीरदानुं जयशीलदानमेतत्सर्वं विद्याम । युष्मास्वागतेषु यज्ञसंपूर्त्येष्ट्यादिद्वारा लभेमहि ॥
+
+*Gist:* Beginning at the opening of the sūkta, the praise made is offered to the Maruts and the desired boon is asked: may they come for the sake of the praiser's body, and may we obtain food, strength and victorious gifts.
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods; *māndāryasya* — of one who gives delight by praises; *mānyasya* — worthy of honour; *kāroḥ* — of the praise-composer; *eṣaḥ stomaḥ* — this praise, made for (you); *vaḥ* — be for you; *(tathā* — likewise*)* *iyaṃ gīḥ* — this speech (in the form of praise); *(vaḥ* — be for you*)*; [*māndāryasya* — of one who satisfies you with praises; *mānyasya* — therefore worthy of worship; *kāroḥ* — of this praise-composer] —
+
+---
+
+**Progress note:** printed p. 144 (PDF 164) done — Sūkta 168 Ṛk 9 complete; Ṛk 10 (last of Sūkta 168): Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (breaks off at the bracketed māndāryasya… entry). Next: printed p. 145 (PDF 165). Open flags: small-type numerals [?]; Ṛk 10 bhāṣya opening word 'pañcadaśyāṃ' [?]; review/doubts_v13.json.
