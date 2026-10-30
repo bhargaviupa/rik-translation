@@ -9506,4 +9506,59 @@ The derivation that shows *svara* to come from the root *prī*, with the changed
 
 ---
 
-**Progress note:** printed p. 364 (PDF 384) done — Sūkta 175 Ṛk 1 Special Topics (svarasāman; continues p. 365). Next: printed p. 365 (PDF 385). Open flags: Āś.Śrau./Ai.Brā. refs and quotes partly garbled [?]; Haug quote reproduced as printed; review/doubts_v13.json.
+### Printed p. 365  (PDF 385)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+…they are in the form of the worlds. The set of three *stomas* that are the *pūrvabhāgī* (first-part) of the *viṣuvat* day and the set of three *stomas* that are *paścādbhāgī* (latter-part) together make the seventeen *stomas*. In the midst of these is the twenty-one-fold *stoma*, which has the *svarasāma* days as its support and is the reflection of the Āditya. Since the Āditya is held by the *svarasāmans*, there is no obstacle at all to his rounds in the three worlds.
+
+> तेषां वै देवाः सप्तदशानां प्रत्नयोनादबिभयुः समूहा इव वै स्तोमा अविगूह्या इवेमे ह न प्रविश्येरन्निति तान्सर्वैः स्तोमैरवस्ताद्यपर्षन्सर्वैः पृष्ठैः परस्तात्त्र्यभिजित्सर्वस्तोमोऽवस्ताद्भवति विश्वजित्सर्वपृष्ठः परस्तात्तत्सप्तदशानुभयतः पर्यृषन्ति धृत्या अप्रस्रंसाय ॥ [as read; garbled: [?]]
+
+> *teṣāṃ vai devāḥ saptadaśānāṃ pratnayonād abibhayuḥ samūhā iva vai stomā avigūhyā ivema ha na praviśyeran iti tān sarvaiḥ stomair avastād yaparṣan sarvaiḥ pṛṣṭhaiḥ parastāt tryabhijit sarvastomo 'vastād bhavati viśvajit sarvapṛṣṭhaḥ parastāt tat saptadaśān ubhayataḥ paryṛṣanti dhṛtyā aprasraṃsāya ‖* [?]
+
+(Ai. Brā. 4-19 [?]). The seventeen *stomas*, in the form of the *svarasāman*, were liable to fall for want of a support; and from the fear of falling the deities freed them, below, by all the *stomas*, and above, by the *pṛṣṭhas*. Therefore, on the *abhijit* day, the day before the *svarasāma* days, all the *stomas* are employed, and on the following day, the *viśvajit*, the *pṛṣṭhas*, to hold the seventeen *stomas* from falling. Thus the peculiarity of the *svarasāmans*, and of the recitations connected with them, is praised. And, showing the origin of this form, the Śatapatha Brāhmaṇa says:
+
+> त्रिष्टुभं छन्दो ग्रीष्माद्वृतोर्निरमिमीत त्रिष्टुभः स्वारमिति त्रिष्टुभश्छन्दसः स्वारंसाम निरमिमीत स्वारादन्तर्यामं इति ।
+
+> *triṣṭubhaṃ chando grīṣmād ṛtor niramimīta triṣṭubhaḥ svāram iti triṣṭubhaś chandasaḥ svāraṃsāma niramimīta svārād antaryāmam iti |* [as read: [?]]
+
+(Śa. Brā. 8-1-1-8 [?]) — Viśvakarman fashioned the *triṣṭubh* metre from the summer season; from the *triṣṭubh* metre, the *svarasāman*; and from the *svarasāman*, the *antaryāma* graha. And in the course of a year — the "going of the cows" (*gavām ayana*) — the *svarasāma* days are very important in the performance of the sacrificial act. The division of time for this conduct is as follows:
+
+1. The *prāyaṇīya* *atirātra*: the day of the beginning.
+2. *Caturviṃśa*-day … … consisting of the twenty-four-fold *stoma*.
+3. In each of five months, four *abhiplava ṣaḍaha*s (six-day periods) and one *pṛṣṭhya ṣaḍaha*.
+4. The month (the sixth) containing the *abhijit* day and the three *svarasāma* days.
+5. The *viṣuvat* day, with the twenty-one-fold *stoma*.
+6. The seventh month, containing the *viśvajit* day and again the three *svarasāma* days. And so on.
+
+Thus the order of origin of the *svarasāma* days, which are the chief part and an inseparable limb of the year, the period of the *gavām ayana*, is described.
+
+### Printed p. 366  (PDF 386)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+> संवत्सराच्चतुर्विंशमहः । ब्रह्मणोऽभिप्लवं क्षत्रात्पृष्ठ्यमग्नेरभिजितमद्भ्यः स्वरसाम्न आदित्याद्विषुवन्तमुक्ताः स्वरसामानः ॥
+
+> *saṃvatsarāc caturviṃśam ahaḥ | brahmaṇo 'bhiplavaṃ kṣatrāt pṛṣṭhyam agner abhijitam adbhyaḥ svarasāmna ādityād viṣuvantam uktāḥ svarasāmānaḥ ‖* [as read: [?]]
+
+(Śa. Brā. 12-1-2-2 [?]). From the year the *caturviṃśa* day; from Brahman the *abhiplava*; from the Kṣatra the *pṛṣṭhya*; from Agni the *abhijit*; from the waters the *svarasāman*; from the Āditya the *viṣuvat* arose: thus the *svarasāman* days are described. This tells the order of the *svarasāma* days. The matter that they are connected with the waters and the Āditya is stated above. The Śatapatha Brāhmaṇa also describes it thus:
+
+> अथ यत्स्वरसाम्न उपयन्ति । आप एव देवतां यजन्त आपो देवता भवन्तेपाग्ं सायुज्यग्ं सलोकतां जयति । अथ यद्विषुवन्तमुपयन्ति । आदित्यमेव देवतां यजन्त आदित्यो देवता भवन्त्यादित्यस्य सायुज्यग्ं सलोकतां जयत्युक्ताः स्वरसामानः ॥
+
+> *atha yat svarasāmna upayanti | āpa eva devatāṃ yajante āpo devatā bhavanty apāṃ sāyujyaṃ salokatāṃ jayati | atha yad viṣuvantam upayanti | ādityam eva devatāṃ yajanta ādityo devatā bhavanty ādityasya sāyujyaṃ salokatāṃ jayaty uktāḥ svarasāmānaḥ ‖* [as read: [?]]
+
+(Śa. Brā. 12-1-2-13 [?]). Those who perform the acts on the *svarasāma* days worship the waters, the deity and cause of the *svarasāman*; as a result of that worship they obtain union with the waters. Likewise, those who perform worship on the *viṣuvat* day obtain union with the Āditya. This is the speciality of the *svarasāmans*. And, showing the identity of man and the year, the period of the *gavām ayana*:
+
+> पुरुषो वै संवत्सरः । तस्य पादादेव प्रायणीयोऽतिरात्रः पादाभ्यां हि प्रयन्ति …………… ॥ १ ॥
+
+> *puruṣo vai saṃvatsaraḥ | tasya pādād eva prāyaṇīyo 'tirātraḥ pādābhyāṃ hi prayanti …………… ‖ 1 ‖* [dots in the print: [?]]
+
+> अयमेव दक्षिणो बाहुरभिजित् । इमे एव दक्षिणे त्रयः प्राणाः स्वरसामानो मूर्धा विषुवानिमे एवोत्तरे त्रयः प्राणाः स्वरसामानः ॥ २ ॥
+
+> *ayam eva dakṣiṇo bāhur abhijit | ime eva dakṣiṇe trayaḥ prāṇāḥ svarasāmāno mūrdhā viṣuvān ime evottare trayaḥ prāṇāḥ svarasāmānaḥ ‖ 2 ‖*
+
+(Śa. Brā. 12-1-4-2 [?]). The year is the man; the *prāyaṇīya* *atirātra*, the day of the beginning of the *gavām ayana*, is his foot; the foot serving for movement, so this *atirātra* serves for the movement of sacrificial action ……………; the *abhijit* day is his right arm; the three *svarasāmans* belonging to it are the three chief breaths on the right side; the *viṣuvat* day is the head; the *svarasāmans* belonging to it are the three chief breaths on the left, etc. Thus the author praises it; and, considering the peculiarity of the *svarasāmans* sung in the *svarasāma* days and the order of singing, the English scholar Eggling says as follows —
+
+---
+
+**Progress note:** printed p. 366 (PDF 386) done — Sūkta 175 Ṛk 1 Special Topics (svarasāman days; Eggling quotation continues p. 367). Next: printed p. 367 (PDF 387). Open flags: Ai.Brā./Śa.Brā. refs and quotes partly garbled [?]; review/doubts_v13.json.
