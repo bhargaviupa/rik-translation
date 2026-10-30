@@ -5950,5 +5950,29 @@
   ],
   "note": "Sa.Br. quote garbled/elided in print, ref numerals [?]; Rg 1-156-2 and 1-122-10 as read",
   "answer": ""
+ },
+ {
+  "pdf": 603,
+  "printed": 583,
+  "crop": [
+   0.15,
+   0.7,
+   0.1,
+   0.9
+  ],
+  "note": "Bha./Rg 1-116-13, 1-33-2 refs small type [?]; Skandasvamin quote as read",
+  "answer": ""
+ },
+ {
+  "pdf": 604,
+  "printed": 584,
+  "crop": [
+   0.75,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk8 Samhita line 1 word 'gih pri' doubtful; check vs Pada",
+  "answer": ""
  }
 ]
