@@ -6466,5 +6466,29 @@
   ],
   "note": "Sukta 183 Varga numeral 29 as read [?]",
   "answer": ""
+ },
+ {
+  "pdf": 645,
+  "printed": 625,
+  "crop": [
+   0.1,
+   0.4,
+   0.1,
+   0.9
+  ],
+  "note": "Rk1 bhasya as read; Rg 4-43-1 ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 646,
+  "printed": 626,
+  "crop": [
+   0.2,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Hopkins quote sic marks (deitics, Althouge, somtimes, worldtraversing); JAOS ref",
+  "answer": ""
  }
 ]
