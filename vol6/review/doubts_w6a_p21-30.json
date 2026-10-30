@@ -1,0 +1,47 @@
+[
+ {
+  "page": 22,
+  "y0": 0.548,
+  "y1": 0.595,
+  "kind": "numeral",
+  "file": "[Pā. 3-2-48, [?]]",
+  "ctx": "root *gam* with *ḍa* [Pā. 3-2-48, [?]]",
+  "note": "bhāṣya: the sūtra number after ಡೋऽನ್ಯತ್ರಾಪಿ ದೃಶ್ಯತೇ (the line is overprinted); the grammar on p. 26 prints 3-2-48"
+ },
+ {
+  "page": 24,
+  "y0": 0.32,
+  "y1": 0.35,
+  "kind": "numeral",
+  "file": "Ni. 2-21 [?]",
+  "ctx": "a mountain, or a cloud (Ni. 2-21 [?]",
+  "note": "Nirukta reference after ಅದ್ರಿಂ — ಪರ್ವತವನ್ನು ಅಥವಾ ಮೇಘವನ್ನು: read ೨-೨೧; are the 2s curled (2) or flat-footed (7)?"
+ },
+ {
+  "page": 24,
+  "y0": 0.645,
+  "y1": 0.662,
+  "kind": "numeral",
+  "file": "Ṛ. Saṃ. 9-10-84, as printed",
+  "ctx": "(Ṛ. Saṃ. 9-10-84, as printed",
+  "note": "reference after ಯೇನಾ ನವಗ್ವೇ ದಧ್ಯಙ್ಙಪೋರ್ಣುತೇ: printed ೯-೧೦-೮೪? (the verse is usually 9-108-4)"
+ },
+ {
+  "page": 27,
+  "y0": 0.243,
+  "y1": 0.32,
+  "kind": "accent",
+  "file": "गोभि॑र॒न्धः॑",
+  "ctx": "सूर्ये॑ण॒ गोभि॑र॒न्धः॑ ।",
+  "note": "Saṃhitā line 1: is there an anudātta stroke under ರಂ of ಗೋಭಿರಂಧಃ, and is the stroke above on ಭಿ or on ಧಃ?"
+ },
+ {
+  "page": 27,
+  "y0": 0.586,
+  "y1": 0.611,
+  "kind": "word",
+  "file": "शत्रूणामुपक्षयितरिन्द्र [?]",
+  "ctx": "हे दस्म दर्शनीय शत्रूणामुपक्षयितरिन्द्र [?]",
+  "note": "bhāṣya line 1: ಉಪಕ್ಷಯಿತರ್?ೇಂದ್ರ — is it ಉಪಕ್ಷಯಿತರ್ಹೇಂದ್ರ (upakṣayitar he 'ndra) or ಉಪಕ್ಷಯಿತರಿಂದ್ರ?"
+ }
+]
