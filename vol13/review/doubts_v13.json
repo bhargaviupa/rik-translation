@@ -1978,5 +1978,29 @@
   ],
   "note": "bhashya rik 2 dense: svedu-havyaih, dugdha-haviskaih, 'gurtodurnendra', 'itannamuka' uncertain; middle sentence after 'yadva' not read",
   "answer": ""
+ },
+ {
+  "pdf": 272,
+  "printed": 252,
+  "crop": [
+   0.4,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-54-8, 1-177-1, 1-140-6, 1-179-1 small; quotes stuteh sravasyan.. / bhusann yodhi.. / minati sriyam.. read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 271,
+  "printed": 251,
+  "crop": [
+   0.75,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "svayamprapte-dhakam havyam phrase read approx",
+  "answer": ""
  }
 ]

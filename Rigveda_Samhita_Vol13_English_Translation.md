@@ -6104,4 +6104,56 @@ Grammar page, noted briefly (Vyākaraṇa-prakriyā, continued; sūtra numerals 
 
 ---
 
-**Progress note:** printed p. 250 (PDF 270) done — Sūkta 173 Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 251). Next: printed p. 251 (PDF 271). Open flags: Ṛk 2 bhāṣya partly doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 251  (PDF 271)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+*(Pratipadārtha continued)* *hotā* — the mortal invoking-priest; *yajatraḥ* — as the accomplisher of the sacrifice; *mithunā* — the pairs, i.e. *yājyā*, *puronuvākyā* and the like (or, as husband and wife); *pra bharate* — abundantly brings about.
+
+**Bhāvārtha**
+
+O valiant Indra, the sacrificer, the giver of oblations, assisted by the Adhvaryu and the other priests, worships you; to receive those oblations, you hasten swiftly, like a deer tormented by hunger and thirst running to drink water. The mortal *hotṛ*, loving the praise of the gods, praises them and recites the *yājyā*, *puronuvākyā* and other verses.
+
+**Printed English**
+
+The showerer (of the oblation, the offerer of the sacrifice, assisted) by (the priests), presenting the oblations which have been provided by himself, adores (Indra), in order that he may hasten (to the rite), as a (thirsty) deer to the water. The mortal invoker (of the gods), O mighty Indra, whilst glorifying them who are desirous of praise, presents a twofold offering (to you).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***vṛṣā svedūhavyaiḥ vṛṣabhir arcat*** — *haviṣāṃ varṣitā ayaṃ yajamānaḥ | svāyattair dugdhahaviṣkaiḥ [?] | yadvā svayaṃ prāptaidhakaṃ havyaṃ yeṣāṃ tādṛśaiḥ haviṣkṛdbhir adhvaryvādibhiḥ viśiṣṭaḥ san arcayatīndram |* Sāyaṇa has given two meanings to this sentence. The word *vṛṣā* is used in the sense of the sacrificer who offers oblations. The word *svedūhavyaiḥ* is an epithet of the fires, and also an epithet of the priests Adhvaryu and the rest. By this, the first meaning is given: the sacrificer, offering oblations to the gods, kindled by fuel (sticks) and oblations — worships Indra with the fire (of fires). In the second meaning: the sacrificer, together with the Adhvaryu and other priests who are ready to offer the oblations they have in abundance, worships Indra with many oblations. *Yadvā vṛṣā phalasya varṣitā indra uktalakṣaṇair ṛtvigbhir arcyate*: or, Indra, who like rain pours out the desired fruits for the sacrificers, is worshipped by the priests, the Adhvaryu and the others, who have prepared abundant oblations.
+
+### Printed p. 252  (PDF 272)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+Here the two words *vṛṣā* and *vṛṣabhiḥ* are both derived from the root *vṛṣ*. The commentator, in this context, says that the first word *vṛṣā* comes from the root *vṛṣ* (with the meaning "to sprinkle, to shower": *vṛṣu secane*; *vṛṣa śaktibandhane*), which gives the sense of raining, pouring; and the second word *vṛṣabhiḥ* from the root which gives the meaning of strength and capacity — as will be understood from the explanation proper to this context. But the adjective *vṛṣan* and the other adjectives derived from this root are used again and again in the Ṛk-saṃhitā, and so these words cannot be said to carry one fixed meaning; according to the various contexts the meaning has to be given. Therefore, having first briefly noted in which meanings the word *vṛṣan* is chiefly used, let us then examine what its special sense is when used as an epithet in the present ṛk, whether of Indra or of the priests or of the other deities.
+
+The word *vṛṣan* is used in many places in the sense *pumān* ("male"), "one with the power to sprinkle"; the word is used as an indication of *pumān* — as a synonym for "man", or for other living beings such as the horse.
+
+> यो ते इन्द्र दधुषो वर्धयन्ति महि क्षत्रं स्थविरं वृष्ण्यं च ।
+
+> *yo te indra dadhuṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca |*
+
+(Ṛ. Saṃ. 1-54-8 [?]) — here *vṛṣṇyam* means *vṛṣatvam*, "manhood" (*puṃstvam*); and
+
+> स्तुतश्च श्रवस्यन्नवसोप मुद्रिग्यक्त्वा हरी वृषणा योह्यर्वाङ् ।
+
+> *stutaś ca śravasyan nava sopa mudrigyaktvā harī vṛṣaṇā yohy arvāṅ |* [as read; doubtful: [?]]
+
+(Ṛ. Saṃ. 1-177-1 [?]) — here *vṛṣaṇā* means "youthful"; and
+
+> भूषन्न योधि बभ्रूषु नम्नते वृषेव पत्नीरभ्येति रोरुवत् ।
+
+> *bhūṣan na yodhi babhrūṣu namnate vṛṣeva patnīr abhy eti roruvat |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-140-6 [?]) — here *vṛṣā iva* means "like a bull (ox) that sprinkles (*sektā*)"; and
+
+> मिनाति श्रियं जरिमा तनूनामपू नु पत्नीर्वृषणो जगम्युः ।
+
+> *mināti śriyaṃ jarimā tanūnām apū nu patnīr vṛṣaṇo jagamyuḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-179-1 [?]) — in such ṛks *vṛṣaṇaḥ* means *sektāraḥ puruṣāḥ*, "men who sprinkle (seed)"; and in many other places, similarly, the word is used in meanings that indicate masculine gender and show the power of the male creature. And further —
+
+---
+
+**Progress note:** printed p. 252 (PDF 272) done — Sūkta 173 Ṛk 2 Special Topics (vṛṣan discussion continues p. 253). Next: printed p. 253 (PDF 273). Open flags: Ṛg refs and quotes in vṛṣan list partly doubtful [?]; review/doubts_v13.json.
