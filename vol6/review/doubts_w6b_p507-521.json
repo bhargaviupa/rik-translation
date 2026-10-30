@@ -1,0 +1,9 @@
+[
+ {"page": 508, "y0": 0.415, "y1": 0.505, "x0": 0.25, "x1": 0.85, "kind": "accent", "file": "द्यु॒म्नैरभि॒ प्र णो॑नुमः [accent ?]", "ctx": "Saṃhitā 78.1, line 2", "note": "line 2: lower strokes under dyu and bhi; upper stroke between ṇo and nu (also in 78.2–78.5, same line 2)"},
+ {"page": 511, "y0": 0.235, "y1": 0.285, "x0": 0.2, "x1": 0.85, "kind": "accent", "file": "तमु॑ त्वा॒ गोत॑मो गि॒रा रा॒यस्का॑मो दुवस्यति [accent ?]", "ctx": "Saṃhitā 78.2, line 1", "note": "strokes: over mu? over ta of gotamo; stroke near kā/mo of rāyaskāmo on the syllable boundary"},
+ {"page": 513, "y0": 0.635, "y1": 0.69, "x0": 0.2, "x1": 0.85, "kind": "accent", "file": "तमु॑ त्वा वाज॒सात॑ममङ्गि॒रस्वद्ध॑वामहे [accent ?]", "ctx": "Saṃhitā 78.3, line 1", "note": "strokes between neighbouring syllables; underlines under ja, ra"},
+ {"page": 516, "y0": 0.435, "y1": 0.485, "x0": 0.2, "x1": 0.85, "kind": "accent", "file": "तमु॑ त्वा वृत्र॒हन्त॑मं॒ यो दस्यू॑रवधूनु॒षे [accent ?]", "ctx": "Saṃhitā 78.4, line 1", "note": "strokes between neighbouring syllables; underlines under tra, maṃ, nu"},
+ {"page": 519, "y0": 0.49, "y1": 0.535, "x0": 0.2, "x1": 0.85, "kind": "accent", "file": "अवो॑चाम॒ रहू॑गणा अ॒ग्नये॒ मधु॑म॒द्वचः॑ [accent ?]", "ctx": "Saṃhitā 78.5, line 1", "note": "strokes between neighbouring syllables; several underlines"},
+ {"page": 518, "y0": 0.227, "y1": 0.246, "x0": 0.55, "x1": 0.85, "kind": "numeral", "file": "Ṛk. Saṃ. 10-95-7 [?]", "ctx": "mahe yat tvā purūravo raṇāyāvardhayan", "note": "last digit: flat-footed 7 or curled 2"},
+ {"page": 517, "y0": 0.733, "y1": 0.754, "x0": 0.2, "x1": 0.86, "kind": "word", "file": "upaprayendra [?] dasyuhatyāya", "ctx": "upaprayendra [?] dasyuhatyāya vajrī yaddha sūnuḥ", "note": "print reads ಉಪಪ್ರಯೇನ್ದಸ್ಯುಹತ್ಯಾಯ: the ra of 'indra' and the word division"}
+]

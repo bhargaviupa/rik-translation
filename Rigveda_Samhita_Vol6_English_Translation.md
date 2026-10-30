@@ -11089,16 +11089,18 @@ Words treated: *gotamebhiḥ* ("descendants of Gotama" — *gotamasyāpatyāni p
 
 ॥ ओं ॥ — *Oṃ.*
 ॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७८ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 78.*
-॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२६?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "26" as read, doubtful [?].*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—२६ ॥ — *Aṣṭaka 1; Adhyāya 5; Varga 26.*
 *Number of Ṛks in the sūkta:* 5. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Gāyatrī.
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.1**
 
-> अभि त्वा गोतमा गिरा जातवेदो विचर्षणे ।
-> द्युम्नैरभि प्र णोनुमः ॥ १ ॥
+*(Accents as printed, 450 dpi; line 2 [accent ?]: whether the lower stroke stands under *bhi* alone is doubtful, and the upper stroke stands between *ṇo* and *nu*.)*
 
-*abhi tvā gotamā girā jātavedo vicarṣaṇe |
-dyumnair abhi pra ṇonumaḥ ||1||*
+> अ॒भि त्वा॒ गोत॑मा गि॒रा जात॑वेदो॒ विच॑र्षणे ।
+> द्यु॒म्नैरभि॒ प्र णो॑नुमः ॥ १ ॥
+
+*abhí tvā gótamā girā́ jātavedo vícarṣaṇe |
+dyumnaír abhí pra ṇonumaḥ ||1||* [accent ?]
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -11111,9 +11113,9 @@ dyumnair abhi pra ṇonumaḥ ||1||*
 
 > हे जातवेदो जातानां वेदितर्विचर्षणे विशेषेण सर्वस्य द्रष्टः । एवंभूताग्ने त्वा त्वां गोतमा अस्य सूक्तस्य द्रष्टा गोतमो ऋषिः । ऋषेरेकत्वे ऽपि पूजार्थं बहुवचनं । गिरा स्तोत्रलक्षणया वाचाभ्यभिमुख्येनास्तौदिति शेषः । तद्वद्वयमपि त्वां द्युम्नैः स्वदीयगुणप्रकाशकैर्मंत्रैरभि प्र णोनुमः । अभिमुख्येन पुनःपुनः स्तुमः ॥ नोनुमः । णु स्तुतौ । अस्माद्यङ्लुगंताल्लट् । उपसर्गादसमासे ऽपीति णत्वं ॥
 
-*he jātavedo jātānāṃ veditar vicarṣaṇe viśeṣeṇa sarvasya draṣṭaḥ | evaṃbhūtāgne tvā tvāṃ gotamā asya sūktasya draṣṭā gotamo ṛṣiḥ | ṛṣer ekatve 'pi pūjārthaṃ bahuvacanaṃ | girā stotralakṣaṇayā vācābhyabhimukhyenāstaud iti śeṣaḥ | tadvad vayam api tvāṃ dyumnaiḥ svadīyaguṇaprakāśakair mantrair abhi pra ṇonumaḥ | abhimukhyena punaḥ punaḥ stumaḥ || nonumaḥ | ṇu stutau | asmād yaṅluṅantāl laṭ | upasargād asamāse 'pīti ṇatvaṃ ||*
+*he jātavedo jātānāṃ veditar vicarṣaṇe viśeṣeṇa sarvasya draṣṭaḥ | evaṃbhūtāgne tvā tvāṃ gotamā asya sūktasya draṣṭā gotamo ṛṣiḥ | ṛṣer ekatve 'pi pūjārthaṃ bahuvacanaṃ | girā stotralakṣaṇayā vācābhyabhimukhyenāstaud iti śeṣaḥ | tadvad vayam api tvāṃ dyumnaiḥ svadīyaguṇaprakāśakair mantrair abhi pra ṇonumaḥ | abhimukhyena punaḥ punaḥ stumaḥ || nonumaḥ | ṇu stutau | asmād yaṅlugantāl laṭ | upasargād asamāse 'pīti ṇatvaṃ ||*
 
-*(Reading note: "yaṅluṅantāl" is printed so, for *yaṅlugantāt*; the sūtra reading "upasargād asamāse 'pi ṇopadeśasya" is shortened in the print [?].)*
+*(Reading note (250 dpi crop): the print reads "yaṅlugantāl laṭ" (second letter of "yaṅ" ಜ್-like, taken as the standard *yaṅ*); the sūtra is printed shortened as "upasargād asamāse 'pīti ṇatvam", without "ṇopadeśasya".)*
 
 *Meaning:* O *jātavedaḥ* — knower of what is born — O *vicarṣaṇe* — in particular seer of all — Agni: Gotama (*gotamāḥ*), the seer of this sūkta — the plural is for honour though the sage is one — praised (*astaut*, supplied) you with the word (*girā*) in the form of hymns, facing you; as he did, we too praise you, repeatedly (*nonumaḥ*), facing you, with *dyumnaiḥ* — with mantras that make known your own qualities.
 
@@ -11123,7 +11125,7 @@ dyumnair abhi pra ṇonumaḥ ||1||*
 
 ### Page 509 (PDF 527)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 26".)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.1** *(Kannada)*
 
@@ -11163,15 +11165,17 @@ O all-knowing, all-seeing Agni! The descendants of Gotama praise you with words 
 
 ### Page 511 (PDF 529)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 26"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.2**
 
-> तमु त्वा गोतमो गिरा रायस्कामो दुवस्यति ।
-> द्युम्नैरभि प्र णोनुमः ॥ २ ॥
+*(Accents as printed (300 dpi); line 1 [accent ?]: the places of several strokes between neighbouring syllables are doubtful; line 2 as in Rik 78.1.)*
 
-*tam u tvā gotamo girā rāyaskāmo duvasyati |
-dyumnair abhi pra ṇonumaḥ ||2||*
+> तमु॑ त्वा॒ गोत॑मो गि॒रा रा॒यस्का॑मो दुवस्यति ।
+> द्यु॒म्नैरभि॒ प्र णो॑नुमः ॥ २ ॥
+
+*támu tvā gótamo girā́ rāyáskāmo duvasyati | [accent ?]
+dyumnaír abhi pra ṇonumaḥ ||2||* [accent ?]
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -11218,19 +11222,19 @@ dyumnair abhi pra ṇonumaḥ ||2||*
 
 > आकरे वसोर्जरिता पनस्यतेऽनेहसः स्तुभ इन्द्रो दुवस्यति ।
 
-*ākare vasor jaritā panasyate 'nehasaḥ stubha indro duvasyati |* (Ṛk. Saṃ. 3-[13?]-3 [?]) — *Gloss, mine and tentative:* "… the singer of the lord of wealth praises/admires; Indra serves (/is served by) the faultless praisers…" (the words as printed are fully legible but the sense is uncertain to me).
+*ākare vasor jaritā panasyate 'nehasaḥ stubha indro duvasyati |* (Ṛk. Saṃ. 3-51-3) — *Gloss, mine and tentative:* "… the singer of the lord of wealth praises/admires; Indra serves (/is served by) the faultless praisers…" (the words as printed are fully legible but the sense is uncertain to me).
 
 > अग्निर्हि देवाँ अमृतो दुवस्यत्यथा धर्माणि सनता न दूदुषत् ।
 
-*agnir hi devāṁ amṛto duvasyaty athā dharmāṇi sanatā na dūduṣat |* (Ṛk. Saṃ. 3-[3?]-[1?] [?]) — *Gloss, mine and tentative:* "Agni, the immortal, indeed serves the gods; so (the worshippers) do not spoil the ancient rites."
+*agnir hi devāṁ amṛto duvasyaty athā dharmāṇi sanatā na dūduṣat |* (Ṛk. Saṃ. 3-3-1) — *Gloss, mine and tentative:* "Agni, the immortal, indeed serves the gods; so (the worshippers) do not spoil the ancient rites."
 
 > क्षेमेण मित्रो वरुणं दुवस्यति मरुद्भिरुग्रः शुभमन्य ईयते ।
 
-*kṣemeṇa mitro varuṇaṃ duvasyati marudbhir ugraḥ śubham anya īyate |* (Ṛk. Saṃ. 5-[63?]-[5?] [?]) — *Gloss, mine and tentative:* "With well-being Mitra serves Varuṇa; the other, fierce, goes in splendour with the Maruts."
+*kṣemeṇa mitro varuṇaṃ duvasyati marudbhir ugraḥ śubham anya īyate |* (Ṛk. Saṃ. 7-82-5) — *Gloss, mine and tentative:* "With well-being Mitra serves Varuṇa; the other, fierce, goes in splendour with the Maruts."
 
-> समुस्यक हव्यदाशिं स्वध्वरं दुवस्यके दम्यं जातवेदसम् ।
+> नमुस्यत हव्यदातिं स्वध्वरं दुवस्यत दम्यं जातवेदसम् ।
 
-*samusyaka havyadāśiṃ svadhvaraṃ duvasyake damyaṃ jātavedasam |* (Ṛk. Saṃ. 3-[2?]-[8?] [?]) — *the print of the first words of this Ṛk is garbled at this resolution (the verb reads like* namasyata *and* duvasyata *in the known text, but I transcribe as printed, [?]).* *Gloss, mine and tentative:* "… (serve) Jātavedas, the household Agni, who gives oblations, of good rites."
+*namusyata havyadātiṃ svadhvaraṃ duvasyata damyaṃ jātavedasam |* (Ṛk. Saṃ. 3-2-8) — *read afresh from a 250 dpi crop of the print: "ನಮುಸ್ಯತ ಹವ್ಯದಾತಿಂ ಸ್ವಧ್ವರಂ ದುವಸ್ಯತ ದಮ್ಯಂ ಜಾತವೇದಸಂ" (earlier misread).* *Gloss, mine and tentative:* "… (serve) Jātavedas, the household Agni, who gives oblations, of good rites."
 
 "In such Ṛks the word *duvasyati* has the sense of service" (*paricaraṇa*).
 
@@ -11240,7 +11244,7 @@ dyumnair abhi pra ṇonumaḥ ||2||*
 
 ### Page 513 (PDF 531)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 33" at the foot.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 26"; right: "Ṛgvedasaṃhitā". A signature mark "VI 33" at the foot.)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 78.2)** *(grammar page, noted briefly)*
 
@@ -11253,11 +11257,13 @@ dyumnair abhi pra ṇonumaḥ ||2||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.3**
 
-> तमु त्वा वाजसातममङ्गिरस्वद्धवामहे ।
-> द्युम्नैरभि प्र णोनुमः ॥ ३ ॥
+*(Accents as printed (300 dpi); line 1 [accent ?]: the places of several strokes between neighbouring syllables are doubtful; line 2 as in Rik 78.1.)*
 
-*tam u tvā vājasātamam aṅgirasvad dhavāmahe |
-dyumnair abhi pra ṇonumaḥ ||3||*
+> तमु॑ त्वा वाज॒सात॑ममङ्गि॒रस्वद्ध॑वामहे ।
+> द्यु॒म्नैरभि॒ प्र णो॑नुमः ॥ ३ ॥
+
+*támu tvā vājasā́tamam aṅgirásvad dhávāmahe | [accent ?]
+dyumnaír abhi pra ṇonumaḥ ||3||* [accent ?]
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -11299,35 +11305,35 @@ dyumnair abhi pra ṇonumaḥ ||3||*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 78.3)**
 
-- **वाजसातमम्** — *annasāmatiśayena dātāram* — "the one who gives food to the highest degree. *Vāja* means food (Ni. 2-[7?] [?]); because he gives food in exceeding measure, Agni is praised as *vājasātamam*."
+- **वाजसातमम्** — *annasāmatiśayena dātāram* — "the one who gives food to the highest degree. *Vāja* means food (Ni. 3-9 [as printed]); because he gives food in exceeding measure, Agni is praised as *vājasātamam*."
 - **अङ्गिरस्वत्** — "as the sage Aṅgiras called Agni (to the sacrifice). This simile is stated in many Ṛks of the Ṛgveda —" *(the passage runs on to the next page; the citations follow on p. 515)*
 
 ### Page 515 (PDF 533)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 26"; right: "Ṛgvedasaṃhitā".)*
 
-*Special Topics continued — citations (three layers; the glosses are mine and tentative; reference numerals as read, all [?]):*
+*Special Topics continued — citations (three layers; the glosses are mine and tentative; reference numerals as printed (600 dpi)):*
 
 > मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्वचित्ते ।
 
-*manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvacitte |* (Ṛk. Saṃ. 1-[31]-[17] [?]) — *Gloss, mine and tentative:* "As Manu, O Agni, as Aṅgiras, O Aṅgiras, as Yayāti, in the seat of the primeval insight (sacrificial seat)…"
+*manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvacitte |* (Ṛk. Saṃ. 1-31-17) — *Gloss, mine and tentative:* "As Manu, O Agni, as Aṅgiras, O Aṅgiras, as Yayāti, in the seat of the primeval insight (sacrificial seat)…"
 
 > अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ।
 
-*aṅgirasvan mahivrata praskaṇvasya śrudhī havam |* (Ṛk. Saṃ. 1-[45]-3 [?]) — *Gloss, mine and tentative:* "As (for) Aṅgiras, O you of great ordinance, hear the call of Praskaṇva."
+*aṅgirasvan mahivrata praskaṇvasya śrudhī havam |* (Ṛk. Saṃ. 1-45-3) — *Gloss, mine and tentative:* "As (for) Aṅgiras, O you of great ordinance, hear the call of Praskaṇva."
 
 > तदस्मै नव्यमङ्गिरस्वदर्चत शुष्मा यदस्य प्रत्नथोदीरते ।
 
-*tad asmai navyam aṅgirasvad arcata śuṣmā yad asya pratnathodīrate |* (Ṛk. Saṃ. 2-[11]-1 [?]) — *Gloss, mine and tentative:* "Sing to him that new (song) as the Aṅgirases did, when his strength rises as of old."
+*tad asmai navyam aṅgirasvad arcata śuṣmā yad asya pratnathodīrate |* (Ṛk. Saṃ. 2-17-1) — *Gloss, mine and tentative:* "Sing to him that new (song) as the Aṅgirases did, when his strength rises as of old."
 
 > तमङ्गिरस्वन्नमसा सपर्यन्नव्यं कृणोमि सन्यसे पुराजाम् ।
 
-*tam aṅgirasvan namasā saparyan navyaṃ kṛṇomi sanyase purājām |* (Ṛk. Saṃ. 3-[15]-[?] [?]) — *Gloss, mine and tentative:* "Him, as the Aṅgirases did, serving with homage, I make new (a song) for the old-born one." *(The reading of "sanyase" and the reference are uncertain.)*
+*tam aṅgirasvan namasā saparyan navyaṃ kṛṇomi sanyase purājām |* (Ṛk. Saṃ. 3-31-19) — *Gloss, mine and tentative:* "Him, as the Aṅgirases did, serving with homage, I make new (a song) for the old-born one." *(The reading of "sanyase" and the reference are uncertain.)*
 
 > उत त्वा भृगुवच्छुचे मनुष्वदग्न आ हुवे ।
 > अङ्गिरस्वद्धवामहे ।
 
-*uta tvā bhṛguvac chuce manuṣvad agna ā huve | aṅgirasvad dhavāmahe |* (Ṛk. Saṃ. 8-[43]-[13] [?]) — *Gloss, mine and tentative:* "And I call you, O bright Agni, as Bhṛgu did, as Manu did; we call you as Aṅgiras did."
+*uta tvā bhṛguvac chuce manuṣvad agna ā huve | aṅgirasvad dhavāmahe |* (Ṛk. Saṃ. 8-43-13) — *Gloss, mine and tentative:* "And I call you, O bright Agni, as Bhṛgu did, as Manu did; we call you as Aṅgiras did."
 
 "In such Ṛks the matter of the sage Aṅgiras having invoked Agni and served him is described. Because that arrangement (*vidhāna*) has been regarded as of the highest authority, many ṛṣis have given just this example (simile)."
 
@@ -11352,11 +11358,13 @@ dyumnair abhi pra ṇonumaḥ ||3||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.4**
 
-> तमु त्वा वृत्रहन्तमं यो दस्यूरवधूनुषे ।
-> द्युम्नैरभि प्र णोनुमः ॥ ४ ॥
+*(Accents as printed (300 dpi); line 1 [accent ?]: the places of several strokes between neighbouring syllables are doubtful; line 2 as in Rik 78.1.)*
 
-*tam u tvā vṛtrahantamaṃ yo dasyūr avadhūnuṣe |
-dyumnair abhi pra ṇonumaḥ ||4||*
+> तमु॑ त्वा वृत्र॒हन्त॑मं॒ यो दस्यू॑रवधूनु॒षे ।
+> द्यु॒म्नैरभि॒ प्र णो॑नुमः ॥ ४ ॥
+
+*támu tvā vṛtrahántamaṃ yo dasyū̍r avadhūnuṣé | [accent ?]
+dyumnaír abhi pra ṇonumaḥ ||4||* [accent ?]
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -11367,15 +11375,15 @@ dyumnair abhi pra ṇonumaḥ ||4||*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.4** *(Sanskrit in Kannada script; doubtful places [?])*
 
-> हे अग्ने दस्यून् उपक्षपयितॄन् राक्षसादीन्यस्त्वमवधूनुषे अवचालयसि स्थानात्प्रच्यावयसि [?] वृत्रहन्तमं वृत्राणां पाप्मानामतिशयेन हन्तारं तमु त्वा तमेव त्वां द्युम्नैरित्यादि पूर्ववत् ॥ वृत्रहन्तमम् । अतिशयेन वृत्रहा वृत्रहन्तमः । पदसंज्ञायां नलोपे नाद्घस्य । पा. ८-२-१७ [?] । इति तमपो नुट् । दस्यून् । दीर्घादटि समानपादे इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु नेत्येकारः सानुनासिकः ॥
+> हे अग्ने दस्यून् उपक्षपयितॄन् राक्षसादीन्यस्त्वमवधूनुषे अवचालयसि स्थानात्प्रच्यावयसि वृत्रहन्तमं वृत्राणां पाप्मानामतिशयेन हन्तारं तमु त्वा तमेव त्वां द्युम्नैरित्यादि पूर्ववत् ॥ वृत्रहन्तमम् । अतिशयेन वृत्रहा वृत्रहन्तमः । पदसंज्ञायां नलोपे नाद्घस्य । पा. ८-२-१७ [?] । इति तमपो नुट् । दस्यून् । दीर्घादटि समानपादे इति नकारस्य रुत्वम् । अत्रानुनासिकः पूर्वस्य तु नेत्येकारः सानुनासिकः ॥
 
-*he agne dasyūn upakṣapayitṝn rākṣasādīn yas tvam avadhūnuṣe avacālayasi sthānāt pracyāvayasi [?] vṛtrahantamaṃ vṛtrāṇāṃ pāpmanām atiśayena hantāraṃ tam u tvā tam eva tvāṃ dyumnair ity ādi pūrvavat || vṛtrahantamam | atiśayena vṛtrahā vṛtrahantamaḥ | padasaṃjñāyāṃ nalope nādghasya | pā. 8-2-17 [?] | iti tamapo nuṭ | dasyūn | dīrghād aṭi samānapāde iti nakārasya rutvam | atrānunāsikaḥ pūrvasya tu netyekāraḥ sānunāsikaḥ ||*
+*he agne dasyūn upakṣapayitṝn rākṣasādīn yas tvam avadhūnuṣe avacālayasi sthānāt pracyāvayasi vṛtrahantamaṃ vṛtrāṇāṃ pāpmanām atiśayena hantāraṃ tam u tvā tam eva tvāṃ dyumnair ity ādi pūrvavat || vṛtrahantamam | atiśayena vṛtrahā vṛtrahantamaḥ | padasaṃjñāyāṃ nalope nādghasya | pā. 8-2-17 [?] | iti tamapo nuṭ | dasyūn | dīrghād aṭi samānapāde iti nakārasya rutvam | atrānunāsikaḥ pūrvasya tu netyekāraḥ sānunāsikaḥ ||*
 
-*Sense:* "O Agni, you who shake off (*avadhūnuṣe* = *avacālayasi*, drive from their place [?]) the *dasyus* — the Rākṣasas and others who cause destruction (*upakṣapayitṝn*) — you the best slayer of the *vṛtras* (= sins, *pāpmanām*); that very you [we praise] with praises, as before." *The grammatical tail:* *vṛtrahantamam* — "the best *vṛtrahan*": the *n* of the stem is dropped when the *pada*-designation applies (*nalopa*); the *tamap* gets the augment *nuṭ* by the sūtra beginning "nādghasya" (Pā. 8-2-17 [?], number as read, doubtful); *dasyūn* — the final *n* becomes *ru* by "dīrghād aṭi samānapāde" (दीर्घादटि समानपादे, Pā. Sū. 8-3-9 [?]); here (the retained) nasal *ū* before is not made nasal — only the *e* is nasalised (*sānunāsika*) as the print has it (the last sentence is compressed; reading uncertain [?]).
+*Sense:* "O Agni, you who shake off (*avadhūnuṣe* = *avacālayasi*, drive from their place) the *dasyus* — the Rākṣasas and others who cause destruction (*upakṣapayitṝn*) — you the best slayer of the *vṛtras* (= sins, *pāpmanām*); that very you [we praise] with praises, as before." *The grammatical tail:* *vṛtrahantamam* — "the best *vṛtrahan*": the *n* of the stem is dropped when the *pada*-designation applies (*nalopa*); the *tamap* gets the augment *nuṭ* by the sūtra beginning "nādghasya" (Pā. 8-2-17 [?], number as read, doubtful); *dasyūn* — the final *n* becomes *ru* by "dīrghād aṭi samānapāde" (दीर्घादटि समानपादे, Pā. Sū. 8-3-9 [?]); here (the retained) nasal *ū* before is not made nasal — only the *e* is nasalised (*sānunāsika*) as the print has it (the last sentence is compressed; reading uncertain [?]).
 
 ### Page 517 (PDF 535)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 26"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 78.4** *(Kannada)*
 
@@ -11402,17 +11410,17 @@ dyumnair abhi pra ṇonumaḥ ||4||*
 
 > दस्युर्दस्यतेः क्षयार्थादुपदस्यन्त्यस्मिन् रसा उपदासयति कर्माणि ।
 
-*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasā upadāsayati karmāṇi |* (Ni. [7-23]? [?], numeral as read: "೭-೨೩") — *Gloss, mine and tentative:* "*Dasyu* is from the root *das* in the sense of destruction: in him the juices (*rasāḥ*) waste away; or he causes the rites to fail (*upadāsayati*)."
+*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasā upadāsayati karmāṇi |* (Ni. 7-23, as read from a coarse 600 dpi crop: "೭-೨೩") — *Gloss, mine and tentative:* "*Dasyu* is from the root *das* in the sense of destruction: in him the juices (*rasāḥ*) waste away; or he causes the rites to fail (*upadāsayati*)."
 
 The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, waters, and destroys them, one who causes lack of rain (*anāvṛṣṭi*). For this very reason the meaning of *dasyu* is 'one who causes obstacle (*vighna*) to sacrificial and other rites'. The Western scholars say that *dasyu* means the black people, the early inhabitants who had settled in this land, who practised theft and caused troubles to the sacrifices of the Āryas, and so (they suppose) were called Rākṣasas. To protect themselves from such *dasyu* people, the ṛṣis praise Agni and Indra in many Ṛks —"
 
 > महान्तं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ।
 
-*mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe |* (Ṛk. Saṃ. 1-[51]-6 [?]) — *Gloss, mine and tentative:* "You trampled down even the great Arbuda with your foot; from of old you were born for the slaying of the Dasyus."
+*mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe |* (Ṛk. Saṃ. 1-51-6) — *Gloss, mine and tentative:* "You trampled down even the great Arbuda with your foot; from of old you were born for the slaying of the Dasyus."
 
 > उपप्रयेन्द्र [?] दस्युहत्याय वज्री यद्ध सूनुः श्रवसे नाम दधे ।
 
-*upaprayendra [?] dasyuhatyāya vajrī yaddha sūnuḥ śravase nāma dadhe |* (Ṛk. Saṃ. 1-[103?]-4 [?]) — *the first words are garbled in the print at this resolution [?]; I transcribe what I read.* *Gloss, mine and tentative:* "…the thunderbolt-bearer, for the slaying of the Dasyus, when the son took a name for fame."
+*upaprayendra [?] dasyuhatyāya vajrī yaddha sūnuḥ śravase nāma dadhe |* (Ṛk. Saṃ. 1-103-4) — *the first words are garbled in the print at this resolution [?]; I transcribe what I read.* *Gloss, mine and tentative:* "…the thunderbolt-bearer, for the slaying of the Dasyus, when the son took a name for fame."
 
 ### Page 518 (PDF 536)
 
@@ -11422,15 +11430,15 @@ The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, water
 
 > महे यत्त्वा पुरूरवो रणायावर्धयन्दस्युहत्याय देवाः ।
 
-*mahe yat tvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ |* (Ṛk. Saṃ. 10-[95]-[?] [?]) — *Gloss, mine and tentative:* "When the gods made you grow, O Purūravas, for great combat, for the slaying of the Dasyus."
+*mahe yat tvā purūravo raṇāyāvardhayan dasyuhatyāya devāḥ |* (Ṛk. Saṃ. 10-95-7 [?]) — *Gloss, mine and tentative:* "When the gods made you grow, O Purūravas, for great combat, for the slaying of the Dasyus."
 
 > तमु त्वा पाथ्यो वृषा समीधे दस्युहन्तमम् ।
 
-*tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam |* (Ṛk. Saṃ. 6-[16]-[15] [?]) — *Gloss, mine and tentative:* "Pāthya the bull kindled you, the best slayer of the Dasyus."
+*tam u tvā pāthyo vṛṣā samīdhe dasyuhantamam |* (Ṛk. Saṃ. 6-16-15) — *Gloss, mine and tentative:* "Pāthya the bull kindled you, the best slayer of the Dasyus."
 
 > तमागन्म त्रसदस्युं मान्धातुर्दस्युहन्तममग्निं यज्ञेषु पूर्व्यं नभन्तामन्यके समे ।
 
-*tam āganma trasadasyuṃ māndhātur dasyuhantamam agniṃ yajñeṣu pūrvyaṃ nabhantām anyake same |* (Ṛk. Saṃ. 8-[39]-[?] [?]) — *the printed* "ತ್ರಸದಸ್ಯುಂ ಮಂಧಾತುಃ" *is read as above; doubtful [?].* *Gloss, mine and tentative:* "We have come to him, Agni, the old (god) of the sacrifices, the best slayer of the Dasyus, [of] Trasadasyu (and of) Māndhātṛ; let all the others be destroyed."
+*tam āganma trasadasyuṃ māndhātur dasyuhantamam agniṃ yajñeṣu pūrvyaṃ nabhantām anyake same |* (Ṛk. Saṃ. 8-39-8) — *the printed* "ತ್ರಸದಸ್ಯುಂ ಮಂಧಾತುಃ" *is read as above; doubtful [?].* *Gloss, mine and tentative:* "We have come to him, Agni, the old (god) of the sacrifices, the best slayer of the Dasyus, [of] Trasadasyu (and of) Māndhātṛ; let all the others be destroyed."
 
 "Many such examples may be given."
 
@@ -11438,11 +11446,11 @@ The Kannada continues: "(Meaning:) one who dries up the *rasa*-substances, water
 
 > अग्निं देवासोऽग्रियमिन्धते वृत्रहन्तमम् ।
 
-*agniṃ devāso 'griyam indhate vṛtrahantamam |* (Ṛk. Saṃ. 6-[16]-[34] [?]) — *Gloss, mine and tentative:* "The gods kindle Agni, the first, the best slayer of Vṛtras."
+*agniṃ devāso 'griyam indhate vṛtrahantamam |* (Ṛk. Saṃ. 6-16-48) — *Gloss, mine and tentative:* "The gods kindle Agni, the first, the best slayer of Vṛtras."
 
 > आगन्म वृत्रहन्तमं ज्येष्ठमग्निमानवम् ।
 
-*āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *Gloss, mine and tentative:* "We have come to Agni, of the race of Manu, the eldest, the best slayer of Vṛtras."
+*āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam |* (Ṛk. Saṃ. 8-74-4) — *Gloss, mine and tentative:* "We have come to Agni, of the race of Manu, the eldest, the best slayer of Vṛtras."
 
 In these examples the word *vṛtrahantama* is of Agni. When used of Indra, this word means 'he killed the demon Vṛtra'; when used of Agni, it is proper to give the general sense of the word *vṛtra*, 'enemy', and to say 'destroyer of enemies'. In the present context the bhāṣyakāra has given *pāpmānaḥ* (sins) as the sense of *vṛtra*, i.e. 'evil, sin' (*duritam*); the sense of *pāpa* has been given."
 
@@ -11454,7 +11462,7 @@ In these examples the word *vṛtrahantama* is of Agni. When used of Indra, this
 
 ### Page 519 (PDF 537)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 26"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 78.4, continued from p. 518 (grammar page, noted briefly):*
 
@@ -11466,11 +11474,13 @@ In these examples the word *vṛtrahantama* is of Agni. When used of Indra, this
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 78.5**
 
-> अवोचाम रहूगणा अग्नये मधुमद्वचः ।
-> द्युम्नैरभि प्र णोनुमः ॥ ५ ॥
+*(Accents as printed (300 dpi); line 1 [accent ?]: the places of several strokes between neighbouring syllables are doubtful; line 2 as in Rik 78.1.)*
 
-*avocāma rahūgaṇā agnaye madhumad vacaḥ |
-dyumnair abhi pra ṇonumaḥ ||5||*
+> अवो॑चाम॒ रहू॑गणा अ॒ग्नये॒ मधु॑म॒द्वचः॑ ।
+> द्यु॒म्नैरभि॒ प्र णो॑नुमः ॥ ५ ॥
+
+*ávocāma rahūgaṇā agnáye madhumádvacaḥ | [accent ?]
+dyumnaír abhi pra ṇonumaḥ ||5||* [accent ?]
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -11481,9 +11491,9 @@ dyumnair abhi pra ṇonumaḥ ||5||*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 78.5** *(Sanskrit in Kannada script; doubtful places [?])*
 
-> ऋषिः कृतं स्तोत्रमनयोपसंहरति । रहूगणा रहूगणस्य पुत्रा वयं गोतमा अग्नये अङ्गनादिगुणयुक्ताय [?] देवाय मधुमद्वचो माधुर्योपेतं वचनमवोचाम प्रावादिष्म । तद्वचनरूपैर्द्युम्नैर्द्योतमानैः स्तोत्रैः पुनःपुनरग्निं वयमभि प्र णोनुमः । अभिमुख्येन प्रकर्षेण स्तुमः ॥
+> ऋषिः कृतं स्तोत्रमनयोपसंहरति । रहूगणा रहूगणस्य पुत्रा वयं गोतमा अग्नये अङ्गनादिगुणयुक्ताय देवाय मधुमद्वचो माधुर्योपेतं वचनमवोचाम प्रावादिष्म । तद्वचनरूपैर्द्युम्नैर्द्योतमानैः स्तोत्रैः पुनःपुनरग्निं वयमभि प्र णोनुमः । अभिमुख्येन प्रकर्षेण स्तुमः ॥
 
-*ṛṣiḥ kṛtaṃ stotram anayopasaṃharati | rahūgaṇā rahūgaṇasya putrā vayaṃ gotamā agnaye aṅganādiguṇayuktāya [?] devāya madhumad vaco mādhuryopetaṃ vacanam avocāma prāvādiṣma | tadvacanarūpair dyumnair dyotamānaiḥ stotraiḥ punaḥ punar agniṃ vayam abhi pra ṇonumaḥ | abhimukhyena prakarṣeṇa stumaḥ ||*
+*ṛṣiḥ kṛtaṃ stotram anayopasaṃharati | rahūgaṇā rahūgaṇasya putrā vayaṃ gotamā agnaye aṅganādiguṇayuktāya devāya madhumad vaco mādhuryopetaṃ vacanam avocāma prāvādiṣma | tadvacanarūpair dyumnair dyotamānaiḥ stotraiḥ punaḥ punar agniṃ vayam abhi pra ṇonumaḥ | abhimukhyena prakarṣeṇa stumaḥ ||*
 
 *Sense:* "The ṛṣi concludes the hymn made, with this (Ṛk): 'We, the Gotamas, the sons of Rahūgaṇa, have spoken (*avocāma* = *prāvādiṣma*), to Agni, the god endowed with qualities such as [the *aṅgana*… — reading uncertain [?]], sweet speech (*madhumad vacaḥ*), speech endowed with sweetness; with those shining praises that have that speech as their form, we praise Agni again and again, facing him and with eminence.'"
 
@@ -11521,7 +11531,7 @@ dyumnair abhi pra ṇonumaḥ ||5||*
 
 ### Page 521 (PDF 539)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 2 [as printed; for 1], Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 78.5, continued from p. 520:*
 

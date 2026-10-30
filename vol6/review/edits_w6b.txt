@@ -547,3 +547,14 @@ Unit 11 (Sūkta 77, pp. 487–507):
   pp. 494, 506 (bodies), 507 body: no flagged lines viewed (p. 506 Pā. [4-1-114] etc. not re-viewed). Generic "doubtful places [?]" labels left.
 Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 484: ā. [3-2?] -> 3-7 (all layers) and vacyamānāḥ [?] -> vacyamānāḥ (Devanagari वच्यैमानाः -> वच्यमानाः to match) — user reading, doubts page p454-486 row 484_d1
+  p. 508: Saṃhitā 78.1 unaccented -> accented as printed (line 2 [accent ?])
+  p. 511/513/516/519: Saṃhitā 78.2–78.5 unaccented -> accented as printed (300 dpi crops; line 1 of each [accent ?], line 2 identical in all five: dyu॒ … bhi॒ … ṇo॑)
+  p. 512: Ṛk. Saṃ. 3-[13?]-3 -> 3-51-3; 3-[3?]-[1?] -> 3-3-1; 5-[63?]-[5?] -> 7-82-5 (first digit flat-footed 7, 600 dpi); 3-[2?]-[8?] -> 3-2-8
+  p. 514: Ni. 2-[7?] [?] -> 3-9 [as printed] (600 dpi)
+  p. 515: Ṛk. Saṃ. 1-[31]-[17] -> 1-31-17; 1-[45]-3 -> 1-45-3; 2-[11]-1 -> 2-17-1; 3-[15]-[?] -> 3-31-19; 8-[43]-[13] -> 8-43-13 (600 dpi, [?] removed)
+  p. 517: Ni. [7-23]? [?] -> 7-23 (coarse); Ṛk. Saṃ. 1-[51]-6 -> 1-51-6; 1-[103?]-4 -> 1-103-4
+  p. 518: Ṛk. Saṃ. 10-[95]-[?] -> 10-95-7 [?] (last digit flat vs curled 2, doubts page); 6-[16]-[15] -> 6-16-15; 8-[39]-[?] -> 8-39-8; 6-[16]-[34] -> 6-16-48; 8-[?]-[?] -> 8-74-4
+  pp. 508–521 running heads (heads strips, 300 dpi): Varga 26 on pp. 508, 509, 511, 513, 515, 517, 519; p. 521 prints Aṣṭaka "೨" [as printed; for 1] and Varga 27 (so Varga 27 begins by p. 521; p. 520 not viewed)
+  p. 508: IAST yaṅluṅantāl -> yaṅlugantāl (Devanagari already यङ्लुगंताल्लट्); reading note rewritten; sūtra printed 'upasargād asamāse 'pīti ṇatvam' [?] removed
+  p. 512 (Ṛk. Saṃ. 3-2-8 citation): re-read from print: namusyata havyadātiṃ svadhvaraṃ duvasyata damyaṃ jātavedasam (was samusyaka … havyadāśiṃ … duvasyake) in all layers; garbled-note replaced
+  p. 516: removed [?] after pracyāvayasi and after "drive from their place" (print: sthānāt pracyāvayasi); p. 519: removed [?] after aṅganādiguṇayuktāya (print ಅಂಗನಾದಿಗುಣಯುಕ್ತಾಯ)
