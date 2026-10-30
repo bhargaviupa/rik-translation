@@ -7838,4 +7838,62 @@ This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to ou
 
 ---
 
-**Progress note:** printed p. 308 (PDF 328) done — Sūkta 173 Ṛk 13 (last): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (gātu; continues p. 309). Next: printed p. 309 (PDF 329). Open flags: Ṛk 13 Samhitā 'stoma' final mark [?]; Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 309  (PDF 329)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+> न्यस्मै देवी स्वधितिर्जिहीते इन्द्राय गातुरुशतीव येमे । सं यदोजो युवते विश्वमाभिरनु स्वधावने क्षितयो नमन्त ॥
+
+> *ny asmai devī svadhitir jihīte indrāya gātur uśatīva yeme | saṃ yad ojo yuvate viśvam ābhir anu svadhāvne kṣitayo namanta ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 5-32-10 [?]) — here *gātu* is taken to mean "the earth" (the word *gātu* is read among the names of the earth, Ni. 1-… [?]);
+
+> स ते जानाति सुमतिं यविष्ठ य ईवते ब्रह्मणे गातुमैरत् । विश्वान्यस्मै सुदिनानि रायो द्युम्नान्यर्यो वि दुरो अभि द्यौत् ॥
+
+> *sa te jānāti sumatiṃ yaviṣṭha ya īvate brahmaṇe gātum airat | viśvāny asmai sudināni rāyo dyumnāny aryo vi duro abhi dyaut ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 4-4-6 [?]). In such ṛks the word is also used as a synonym of *stotra* (praise): "*gīyate uccāryate iti gātuḥ stotram*" ("that which is sung, uttered, is *gātu*, praise"). In the ṛk at hand it is given the meaning "going" (*gamanam*) or "the region of the sacrificial place of the gods" (*devayajanadeśa*).
+
+***jīradānum*** — in Ṛk 1-165-15 [?] Sāyaṇa has given for this word the meaning "*jayaśīladānam*" ("giving that conquers"); there is also an alternative reading, "*jayaśīlaṃ dānaṃ jīvanaṃ vā*". Here how the word *jīra* comes to mean "victory" or "that which gives victory" is a matter for discussion. *Jīra* and *dānu* are two words which, taken separately, are used in many places in different senses; moreover, with the word *jīra*, such words as *aśva*, *adhvara* combine, giving *jīrāśva*, *jīrādhvara* and the like.
+
+> मनुष्वद्देव धीमहि प्रचेतसं जीरं दूतममर्त्यम् ।
+
+> *manuṣvad deva dhīmahi pracetasaṃ jīraṃ dūtam amartyam |*
+
+(Ṛ. Saṃ. 1-44-11 [?]) — in this ṛk, showing the derivation of the word *jīra*, Sāyaṇa says that it is formed from the root *jū* (*jorī ca*, Uṇ. Sū. 2-191 [?]) and gives the meaning "*śatrūṇāṃ vayohānikaram*" ("that which causes loss of life to enemies"). Here *jīraṃ* is an epithet of Agni. The derivation is possible also from the root *jyā vayohānau* ("to age, to lose strength"), as is learnt from this meaning. The Nirukta-writers have read the word *jīra* among the names of the "swift" (Ni. 2-… [?]).
+
+> दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्नमिष्टये । प्राचीनरश्मिमाहुतं घृतेन तद्देवानामवो अद्या वृणीमहे ॥
+
+> *divispṛśaṃ yajñam asmākam aśvinā jīrādhvaraṃ kṛṇutaṃ sumnam iṣṭaye | prācīnaraśmim āhutaṃ ghṛtena tad devānām avo adyā vṛṇīmahe ‖*
+
+(Ṛ. Saṃ. 10-36-6 [?]) — in this ṛk the Aśvin deities are asked to "make our sacrifice *jīrādhvara*"; here *jīrādhvara* means a sacrifice that is without obstruction by the Rākṣasas, free of violence, and carried through swiftly.
+
+### Printed p. 310  (PDF 330)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+> पृक्षे ता विश्वा भुवना ववक्षिरे मित्राय वा सदमा जीरदानवः । पृषदश्वासो अनवभ्रराधस ऋजिप्यासो न वयुनेषु धूर्षदः ॥
+
+> *pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya vā sadam ā jīradānavaḥ | pṛṣadaśvāso anavabhrarādhasa ṛjipyāso na vayuneṣu dhūrṣadaḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 5-… [?]) — in such places *jīradānavaḥ* is an epithet of the Maruts; it means those who very swiftly accomplish the desired ends of the sacrificer. Likewise the compound words *jīrāśvaḥ*, *jīrāśvam* are epithets of the deities Agni and the rest.
+
+Or these (*jīra*) may be epithets of their chariot.
+
+> आ वां रथं पुरुमायं मनोजुवं जीराश्वं यज्ञियं जीवसे हुवे । सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टीवानं वरिवोधामभि प्रयः ॥
+
+> *ā vāṃ rathaṃ purumāyaṃ manojuvaṃ jīrāśvaṃ yajñiyaṃ jīvase huve | sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭīvānaṃ varivodhām abhi prayaḥ ‖*
+
+(Ṛ. Saṃ. 1-118-1 [?]). In such ṛks the chariot of the Aśvin deities is described as having swiftly running horses. Likewise the word *dānu* is used in several ways, separately and as a compound, as in *sudānavaḥ* and *jīradānavaḥ*, giving meanings according to the context. That the word *dānu* means *dātṛ* (giver) or *asura* is shown from the context in which the Nirukta-writers have cited it:
+
+> स्तुषेय्यं पुरुवर्पसमृभ्वमिनतममाप्त्यमाप्त्यानां । आ दर्षते शवसा सप्त दानून् प्र साक्षते प्रतिमानानि भूरि ॥
+
+> *stuṣeyyaṃ puruvarpasam ṛbhvam inatamam āptyam āptyānāṃ | ā darṣate śavasā sapta dānūn pra sākṣate pratimānāni bhūri ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-120-6 [?]) — explaining the meaning of this ṛk, the Nirukta-writers say that "*sapta dānūn*" means "*saptadātṝn iti vā saptadānavān iti vā*" — "the seven givers, or the seven *dānavas* (demons)". But how the meaning "demon" (*asura*) can be obtained for the word *dānu* in such contexts, Max Müller, indicating his own difficulty, has said as follows:
+
+> It must be confessed that even the meaning of Danu is by no means quite clear. It is clear enough where it means Demon, II. 11. 18; II. 12. 11; IV. 30. 7; X. 120. 6; The seven Demons. In I. 32. 9; III. 30. 8 Danu, Demon is applied to the mother of Vritra, the dark cloud; From this Danu we have the derivative Danava, meaning again Demon, why the demons conquered by Indra, were called Danu, is not clear, unless they were conceived originally as dark clouds, like Danu, the mother of Indra. Danu might mean wise or even powerful, for this meaning also is ascribed to Danu by the author of Unadi Sutras. [S. B. E. XXXII. P. 114-115]
+
+---
+
+**Progress note:** printed p. 310 (PDF 330) done — Sūkta 173 Ṛk 13 Special Topics (jīradānu; continues p. 311). Next: printed p. 311 (PDF 331). Open flags: many Ṛg/Nirukta ref numerals [?]; some quotes partly doubtful [?]; review/doubts_v13.json.
