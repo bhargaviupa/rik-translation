@@ -14126,4 +14126,48 @@ In the ṛk at hand it is intimated that the Aśvin deities placed milk in the u
 
 ---
 
-**Progress note:** printed p. 510 (PDF 530) done — Sūkta 180 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya begun (continues p. 511). Next: printed p. 511 (PDF 531). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 511  (PDF 531)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 511.)*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> एतन्नो [?] महर्षये क्षोदः क्षोदांसि क्षोद्यमानान्यपो नोदकानीवावृणीतम् । आवारयतम् । औष्ण्यं शैत्येन सुखं कृतवन्तौ । तप्तघर्मसकाशाद् भ्रक्षितवानित्यर्थः [?] । यद्वा । अत्रये क्षोदः । उदकनामैतत् । तेषां शैत्यं लक्ष्यते । अपः क्षोदो न । अपः इति षष्ठ्यर्थे द्वितीया । उदकानां शैत्यं यथा भवति तद्वत् । पक्षान्तरे तु घर्मं दीप्तमग्निं मधुमन्तं कृत्वावृणीतम् । सुखयतमित्यर्थः । तथा च मन्त्रान्तरम् । तप्तं घर्म्यमोम्यावन्तमत्रये [?] । ऋ. १-११९-६ [?] । इति । तत्र तस्मात् यस्मादेवं तस्मात् हे नरौ नेतारौ नराकारौ वाश्विनाश्विनौ वां युवाभ्यां पश्वइष्टिः । पशुरित्यग्नेर्नाम । अग्निः पशुरासीदित्यादि श्रुतेः । तै. सं. ५-२-१ [?] । यद्वा । पशुप्रियत्वात् पशुः इत्यादि । तस्मादग्नेरिष्टिर्भवति । अग्नौ योगः सर्वोऽपि युष्मदर्थं प्रवर्तते ... पशुसाध्यो योगो युवाभ्यां प्रवर्तत इति शेषः । आश्विनं धूम्रललाममालभेत यो दुर्ब्राह्मणः सोमं पिपासेत् । तै. सं. २-१-१० [?] । इत्यादिना श्रुतेः पशुर्विहितः । तथा मध्वः मधुसदृशाः सोमरसा अपि युवाभ्यां प्रति यन्ति । अभिगच्छन्ति । तत्र दृष्टान्तः । रथ्येव चक्रा रथसम्बन्धिनी चक्रा चक्राणीव । तानि यथा प्रवणदेशमभिगच्छन्ति तद्वत् ॥ [as read; several phrases doubtful [?]]
+
+*Gist:* Atri, thrown into the heated *gharma* fire, was cooled by the Aśvins as if by water; therefore the animal sacrifice to Agni (the *paśu* being Agni's name) is offered for them, and the honey-like Soma juices flow to them like wheels down a slope.
+
+**Pratipadārtha**
+
+(*he* **Aśvinau**) — O Aśvins; **yuvam** — you two; **madhumantam** — endowed with honey in the form of milk and ghee; **gharmam** — the blazing fire; **eṣe** — (to him who, thrown into the fire, longs for comfort) seeking; **atraye** — to Atri; **kṣodaḥ** — the agitated (fire); **apaḥ na** — like water (cool); **avṛṇītam ha** — you made (checked the heat of the fire), made it cool; **tat** — therefore; **narau** — leaders, or of human form; (*he* **Aśvinau**); **vām** — for you two; **paśvaiṣṭiḥ** — in the fire, the sacrifice or animal sacrifice (has been set in motion); (**tathā** — likewise) **madhvaḥ** — honey-like (Soma juices too); (**vām** — to you two); **rathyā** — belonging to the chariot; **cakrā iva** — like wheels (reaching the desired place); **prati yanti** — go toward.
+
+**Bhāvārtha**
+
+O Aśvins! To Atri, who, thrown into the fire, was seeking release, you made the blazing fire cool, like water in motion, by means of honey in the form of milk and ghee; this is well known. Therefore, O leaders of the sacrifice, for you this animal sacrifice is set in motion, and this honey-like Soma is offered.
+
+### Printed p. 512  (PDF 532)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 512.)*
+
+**Printed English**
+
+> You rendered the heat as soothing as sweet butter to Atri; wishing (for relief), and invested it with coolness, like water: therefore, for you, Ashwins, leaders (of rites), the fire-offering (is made); to you the Soma juices run like chariot wheels (down a declivity).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+To understand the ṛk at hand fully, one must know the relation among the deities Agni, Atri and the Aśvins, and know what place these have in the *gharma*, which is of the nature of the *pravargya* rite.
+
+***madhumantaṃ gharmaṃ atraye …… avṛṇītaṃ ha*** — for this sentence Sāyaṇa has shown two kinds of construction (*anvaya*). These constructions fit the meanings that are to be given to the words *atri* and *gharma*.
+
+1. First, Sāyaṇa has indicated this story as the background, saying that the Aśvin deities helped the great sage Atri:
+
+> अत्रेतिहासमाहुः । प्रवर्ग्येण प्रचरन्तमत्रिं राक्षसास्तप्ते घर्मेऽपातयन् । स च तप्यमानोऽश्विनौ तुष्टाव । तौ च स्तुत्या हृष्टमनसावरक्षतामिति ॥
+
+> *atretihāsamāhuḥ | pravargyeṇa pracarantamatriṃ rākṣasāstapte gharme 'pātayan | sa ca tapyamāno 'śvinau tuṣṭāva | tau ca stutyā hṛṣṭamanasāvarakṣatāmiti ‖*
+
+— Atri, who was engaged in worship with the *pravargya* rite, was thrown by the Rākṣasas into the blazing fire. Then Atri prayed to the Aśvin deities for protection; pleased with him, they protected him: so the story goes.
+
+2. Second, as in the ṛk at hand, "*madhumantaṃ gharmaṃ atraye avṛṇītam*", as it says in Ṛk 1-119-6 [?], "*taptaṃ gharmam omyāvantam atraye*" [?]. In that context Sāyaṇa explained the purport of the ṛk as shown. But here, citing Yāska's view also: "*yāskapakṣe tu atraye haviṣām akte [?] 'gnaye haviruptyarthaṃ sūryakiraṇasaṃtaptaṃ gharmaṃ naidāghaṃ ahaḥ omyāvantaṃ tṛptihetuvṛṣṭyudakopetaṃ kṛtavantau iti yojyam*" [as read [?]] — "In Yāska's view, *atri* is the fire that eats the oblations; for giving oblations to Agni, for the *gharma* blazing in the heat of the sun's rays, they made the summer day provided with satisfying rain-water": so he explains. In explaining the ṛk at hand also, Sāyaṇa, citing the very ṛk 1-119-6 [?], says "*pakṣāntare tu gharmaṃ dīptam agniṃ madhumantaṃ kṛtvā avṛṇītam* … *tathā ca mantrāntaram*" — "*taptaṃ gharma-* … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 512 (PDF 532) done — Sūkta 180 Ṛk 4: bhāṣya…printed English, Special Topics begun (Atri, gharma; continues p. 513). Next: printed p. 513 (PDF 533). Open flags: refs [?]; bhāṣya Ṛk 4 garbled in places [?]; review/doubts_v13.json; GitHub push intermittently failing (retry).
