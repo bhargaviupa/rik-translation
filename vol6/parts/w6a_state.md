@@ -1,7 +1,7 @@
 # w6a part file — Vol 6 numeral/[?]/accent pass
 Range: printed pp. 1–281 (Sūktas 62–70; 65–70 dvaipada). Branch claude/pass2-vol6-a.
-Done through: printed p. 179 (PDF 198 in the better scan): Sūktas 62–65 complete.
-Next unit: Sūkta 66 (dvaipada) from p. 179 lower part (file heading '### Page 179 (PDF 197), lower part'; better scan PDF 198).
+Done through: printed p. 203 (PDF 222 in the better scan): Sūktas 62–66 complete.
+Next unit: Sūkta 67 (dvaipada) from p. 203 lower part (file heading '### Page 203 (PDF 221), lower part'; better scan PDF 222).
 Open items: doubts page vol6/review/html/Vol6_doubts_p1-12.html (6 rows: Ni. 3-9?, Pā. 1-4-1?, accents 62.2 pitaraḥ, 62.3 dhāsim/bhinadadriṃ/naraḥ); check page Vol6_verify_p1-12.html. Unit 2: Vol6_doubts_p13-20.html (5 rows: 2/7 digits in the paṇi reference lists pp. 18–19; Uṇ. 41-1?0 p. 20), Vol6_verify_p13-20.html.
 Tools: vol6/tools/lines_w6a.py (line bands of a page, crop lines by index — y fractions of the whole page, same as doubts_v6.py); pcrop_w6a.py. Note: view.py's y fractions are of the text block and did not match estimates from the whole-page view; use lines_w6a.py (line indices from its listing; x fractions are of the whole page width).
 Scan pages: no missing/duplicate pages seen in pp. 1–12.
@@ -16,3 +16,5 @@ Unit 6 (pp. 91–122, Ṛk 63.9, Sūkta 64 intro, Ṛks 64.1–64.7): Vol6_doubt
 Unit 7 (pp. 122–153, Ṛks 64.8–64.15): Vol6_doubts_p122-153.html (7 rows: 6 accent rows on 64.8, 64.10, 64.11, 64.13, 64.14, 64.15; p. 130 Uṇ. 1-7 [?] cut at the edge), Vol6_verify_p122-153.html (28 rows). Log items the check page could not place: p. 127 Varga 7 (and all running-head vargas), p. 130 Uṇ. 1-7 [?], p. 135 Pā. 6-4-144 and Pā. 3-2-5-1, p. 151 Ā. 3-2 (the p. 152 Ā. 3-2 pair gave one row). Running heads: pp. 123–133 Varga 7, 135–153 Varga 8; p. 133 prints ೨ for the aṣṭaka. Saṃhitā text corrections: 64.13 'pra nū' (ನೂ, not ṇū); 64.14 'duṣṭaram' (ದುಷ್ಟರಂ). Paribhāṣā 93-2 (p. 148 bhāṣya) vs 93-9 (p. 149 grammar), both as printed. Left unviewed: sense-only [?] notes on pp. 141, 145, 146, 152 (Skandasvāmin on śatinam), 153 (grammar). In this font ದು resembles ಮು (p. 135).
 
 Unit 8 (pp. 154–179, Sūkta 65): Vol6_doubts_p154-179.html (8 rows: 3 accent rows 65.2/65.4/65.5; p. 157 dadṛśur; p. 161 Pā. Sū. 2-38-5?; p. 167/170 root taki/taṅku; p. 177 Tai. Brā. 3-9-17-1?). Running heads Varga 9 (pp. 155–177), Varga 10 (p. 179); p. 171 prints ೨ for the aṣṭaka. Digit note: in this font ೯ (as in Varga ೯) has a hook like ೬; ೮ looks like ಲ; Tai. Saṃ. 'somo vā oṣadhīnāṃ rājā' printed 6-1-9-1 (twice).
+
+Unit 9 (pp. 179–203, Sūkta 66): Vol6_doubts_p179-203.html (8 rows: accents 66.2 line 2, 66.5 lines 1–2; Uṇ. 4-11? p. 198, 4-500? p. 202, 4-4?? p. 203; Pā. 6-2-53? pp. 200/202). The ಜ-like digit in this font is probably 5 (unconfirmed). Not viewed: the arcann atra reference (p. 202 top). Tool: thumbs_w6a.py (several thumbnails side by side, for locating lines).

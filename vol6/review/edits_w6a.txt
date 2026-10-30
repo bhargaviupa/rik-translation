@@ -331,3 +331,21 @@ Varga heads: pp. 155–177 Varga 9 (p. 156 heading block Varga 9), p. 179 Varga 
 Words: p. 154 "tuhyādiparibhāṣayā", "paramāgneyam aindrād iti" confirmed. p. 157 "tāyum iva" -> "tāyuṃ na"; "padyaśur" -> "dadṛśur [?]" (first glyph like ವ; doubts). p. 159 Skandasvāmin quotation confirmed ("amṛtarasaṃ"); Ṛk "tebhiṣ ṭvā cātayāmasi". p. 162 "tāśau ca niti" -> "tādau ca niti"; "liṭtvād vāpy adirbhāve" -> "liḍvadbhāvād dvirbhāve". p. 165 grammar prints "ಸ್ವತೀ ಪೂಜಾಯಾಂ". p. 166 "trāyamuñcati" -> "pramuñcati"; "śatrūn antaṃ" -> "śatrūn hantuṃ"; "dagdhvyā-" -> "dagdhavyā-". p. 167/170 root "taki gatau" [?] (print ತನ್ಕು / ತಙ್ಕು; doubts). p. 169 "agni = forest fire" (ಕಾಡುಕಿಚ್ಚು). p. 171 grammar "āḍāgama". p. 172 bhāṣya: "svasrāṃ svasṝṇāṃ"; "tādṛśo 'gnir"; "bhiyaṃ yantīti nairuktavyutpattyā ibhyāḥ śatravaḥ"; "san nānā vanāny". p. 173 Davāgni confirmed. p. 175 "prabhūtāvayavo jāta" (line break, not [?]); "ekāco baśa iti"; "śo tanūkaraṇe"; "ity upratyayaḥ". p. 176 "yogaśīlaru".
 Accents as printed set on 65.1–65.5 ([accent ?] on 65.2 line 1, 65.4 line 2, 65.5 line 1 -> doubts page). Left unviewed: p. 154 sense-only note on the 64.15 grammar page (line 3220). Pages skipped (no flagged lines): 158, 178.
   p. 104: Uṇ. Sū. 4-[?] -> 4-526 [?] (re-viewed at 450 dpi for the coordinator; doubts row 104 rebuilt with a two-line band 0.435–0.487)
+Unit 9 (pp. 179–203, Sūkta 66, Ṛks 66.1–66.5): accents as printed set on all five Saṃhitās ([accent ?] on 66.2 line 2 (vayo), 66.5 lines 1–2).
+  p. 181: Tai. Brā. 3-2-2-10 [?] -> 3-7-7-10 (flat-footed 7s; also p. 182/183 quotations)
+  p. 181: Ma. 4-2-104 [?] -> 4-2-104
+  p. 182: Kau. Up. 3-2 (as read, ?) -> 3-2
+  p. 183: Ni. [3-24] -> 3-19
+  p. 184: Uṇ. Sū. 4-[53] -> 4-492
+  p. 185: Pā. 2-3-41 [?] -> 2-3-41
+  p. 187: Uṇ. Sū. 1-[142] -> 1-137
+  p. 191: Ni. [1-2?, ?] -> 2-10; Ni. [2-17] -> 3-9
+  p. 193: Ni. 10-30 [?] -> 10-21
+  p. 194: Pā. 4-1-10-4 [?] -> 3-3-20-4; Ṛk 10-85-? -> 10-85-41
+  p. 197: Ṛk. Saṃhitā 10-85-40 (as read) -> Ṛ. Ve. 10-85-40
+  p. 198: Pā. Sū. 3-3-20-4 ? -> 3-3-20-4; Uṇ. Sū. 4-[117] -> 4-11[?] (doubts)
+  p. 200: U. 4-200 [?] -> 4-60; Pā. 6-1-6-3 [?] -> 4-1-6-2; Pā. 6-2-37 [?] -> 6-2-53 [?] (doubts)
+  p. 201: Ṛk 9-[?]-6 -> 8-2-6; 1-[?]-[?] -> 1-134-2; 1-[?] -> 1-19-4 (ye ulgrā; arcann atra ref on p. 202 not viewed)
+  p. 202: Uṇ. Sū. 4-[200] -> 4-500 [?]; Pā. Sū. 6-1-6-2 ? -> 4-1-6-2; 6-2-[37] -> 6-2-53 [?]
+  p. 203: Uṇ. Sū. 4-[148] -> 4-4[?] (doubts)
+Words: p. 200 "vahivasiśribhyaḥ ktic [?]" -> "vahivasyartibhyaś cit"; pp. 200/202 "syadhī ca" -> "nyadhī ca"; p. 202 sūtra printed "añcateś copasaṅkhyānam". Left unviewed: p. 183 sense-only "nourishes him [?]"; running-head "as read" notes. Pages skipped (no flagged lines): 179 lower, 186, 189, 190, 192, 195, 196.
