@@ -289,4 +289,88 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 ---
 
-**Progress note:** printed p. 14 (PDF 34) done — Sūkta 166 Ṛk 2 Special Topics in progress (nityam). Next: printed p. 15 (PDF 35). Open flags: small-type reference numerals [?].
+### Printed p. 15  (PDF 35)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Special Topics (continued: *nityam*).**
+
+> नित्यं न सूनुं पित्रोरुपस्थे द्यावा रक्षतं पृथिवी नो अभ्वात् ।
+
+> *nityaṃ na sūnuṃ pitrorupasthe dyāvā rakṣataṃ pṛthivī no abhvāt |*
+
+(Ṛ. Saṃ. 1-185-2) In ṛks like this with the word *sūnu*;
+
+> जन्मेव नित्यं तनयं जुषस्व स्तोमं मे अग्ने तन्वा सुजात ।
+
+> *janmeva nityaṃ tanayaṃ juṣasva stomaṃ me agne tanvā sujāta |*
+
+(Ṛ. Saṃ. 3-15-2)
+
+> स्यंवृक्षामु [?] योषणां न मर्ये नित्यं न सूनुं तनयं दधानाः ॥
+
+> *syaṃvṛkṣāmu [?] yoṣaṇāṃ na marye nityaṃ na sūnuṃ tanayaṃ dadhānāḥ ‖*
+
+(Ṛ. Saṃ. 10-39-14) in ṛks like these, with the word *tanaya*; and with the word *toka* in Ṛ. Saṃ. 3-2-11 [?], with the word *āpi* in Ṛ. Saṃ. 7-88-6 [?], and with the word *pati* in Ṛ. Saṃ. 1-71-1 [?], this word [*nitya*] has been used. In all these places the word *nitya* has the sense "one's own, that which is of oneself" ("one's own", English in the source).
+
+***haviṣkṛtam*** — *haviṣaḥ kartāraṃ, pradātāraṃ yajamānam*: the sacrificer who makes and gives the oblation; the sense is "the sacrificer who offers the oblation to the deities in sacrifices and the like".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers as printed, doubtful ones [?]).** *nityam* (*tyap* after *ni*, by the statement "*tyap nedhruve ti vaktavyam*"; as it has *p* it is *anudātta*); *bibhṛtaḥ* (root *ḍubhṛñ dhāraṇapoṣaṇayoḥ*; *śap*, *śluk* [reduplicated]; doubling of the root; *bhṛñām it* Pā. 7-4-76 gives *i* to the reduplicate; *abhyastānām ādiḥ* Pā. 6-1-189 gives the initial acute; no *num* by *nābhyastācchatuḥ* [Pā. 7-1-78]; 1st plural); *krīḷanti* (root *krīḍṛ vihāre*; *laṭ* 3rd plural; as the *pāda* begins with it no *nighāta*; the root accent remains by *tāsyanudāttet* [Pā. 6-1-180] as the *sārvadhātuka* follows); *krīḷāḥ* (*ac* by *nandigrahapacādibhyaḥ* Pā. 3-1-134, with the agent sense; final acute as it is *cit*); *vidatheṣu* (root *vida jñāne*; *athac* by *rudhivididibhyāṃ jit* [Uṇ. 3-?]; because it is *jit*, no *laghūpadha-guṇa*; initial acute by the suffix; locative plural).
+
+### Printed p. 16  (PDF 36)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Vyākaraṇa-prakriyā (continued, noted briefly).** *ghṛṣvayaḥ* (root *ghṛṣa saṃgharṣe*; *kvip* after *traivi-* … by Uṇ. 4-?? as a nipāta; nominative plural); *nakṣanti* (root *nakṣa vyāptau*, of the *sautra* class; *laṭ* 3rd plural; the root-accent remains as in *krīḷanti*); *rudrāḥ* (root *rudir aśruvimocane*; *rak* suffix by *sphāyitañcivañcy-* … [Uṇ. 2-13 [?]]; accent by the suffix); *namasvinam* (*namas asya asti iti*; *vini* in the sense of possession by *asmāyāmedhā…* [Pā. 5-2-121]; initial acute by the suffix; accusative); *mardhanti* (root *mṛdhu kledane*; *laṭ* 3rd plural; *nighāta* as it stands after a *tiṅanta*); *svatavasaḥ* (*svaṃ tavaḥ yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member); *haviṣkṛtam* (*haviḥ karoti*; root *ḍukṛñ karaṇe*; *kvip*; *hrasvasya piti kṛti tuk* Pā. 6-1-71 gives *tuk*; accent of the final member's nature). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> यस्मा ऊमासो अमृता अरासत रायस्पोषं च हविषा ददाशुषे ।
+> उक्षन्त्यस्मै मरुतो हिता इव पुरू रजांसि पयसा मयोभुवः ॥ ३ ॥
+
+> *yasmā ūmāso amṛtā arāsata rāyaspoṣaṃ ca haviṣā dadāśuṣe |*
+> *ukṣantyasmai maruto hitā iva purū rajāṃsi payasā mayobhuvaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> यस्मै । ऊमासः । अमृताः । अरासत । रायः । पोषम् । च । हविषा । ददाशुषे ।
+> उक्षन्ति । अस्मै । मरुतः । हिताःऽइव । पुरु । रजांसि । पयसा । मयःऽभुवः ॥ ३ ॥
+
+> *yasmai | ūmāsaḥ | amṛtāḥ | arāsata | rāyaḥ | poṣam | ca | haviṣā | dadāśuṣe |*
+> *ukṣanti | asmai | marutaḥ | hitāḥ 'iva | puru | rajāṃsi | payasā | mayaḥ 'bhuvaḥ ‖ 3 ‖*
+
+### Printed p. 17  (PDF 37)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यस्मै यजमानाय हविषा ददाशुषे सोमादिहविर्दत्तवते हविषा प्रीता ऊमासोऽवितारोऽमृता अमरणधर्माणो मरुतो रायस्पोषं धनस्य पुष्टिं । चशब्दात्सस्यादिपुष्टिं । अरासत प्रायच्छन् । रासतिर्दानार्थः । अस्मै यजमानाय हिता इव हिताचरणाः सखाय इव सन्तो मयोभुवः सुखस्य भावयितारो मरुतो रजांसि लोकान् पुरु प्रभूतं यथा भवति तथा पयसोदकेन सस्याद्युत्पत्त्यर्थमुक्षन्ति । सिञ्चन्ति ॥
+
+*Gist:* The immortal Maruts, protectors pleased with the oblation, have given wealth and the growth of crops to the sacrificer who gave the oblation; like well-wishing friends, bestowers of happiness, they sprinkle the worlds abundantly with water.
+
+**Pratipadārtha.** *haviṣā* — with the oblations such as Soma; *dadāśuṣe* — to him who offers; *yasmai* — to which sacrificer; *ūmāsaḥ* — the protectors; *amṛtāḥ* — those free of death, the Marut-gods; *rāyaḥ poṣam* — the increase of wealth; *ca* — and afterwards the increase of crops; *arāsata* — they give; *asmai* — to that sacrificer; *hitāḥ iva* — as friends who are well-wishers; *mayobhuvaḥ* — givers of happiness; *marutaḥ* — the Marut-gods; *rajāṃsi* — the worlds; *puru* — so that they grow; *payasā* — with water (for the sake of the growth of crops and the like); *ukṣanti* — they sprinkle.
+
+**Bhāvārtha.** The Marut-gods, protectors and immortal, give to the sacrificer who offers oblations first the increase of wealth and then crops and cattle; and these Marut-gods, who, like friends who are well-wishers, are givers of happiness, by supplying water cause all the worlds to flourish by means of the growth of crops and the like.
+
+**English Translation (as printed):** To him, the presenter (of offerings), the protecting and immortal Maruts, (gratified) by the oblation, have given abundance of riches: they, the bestowers of happiness, becoming, as it were, the friends (of the worshipper), sprinkle the regions plentifully with water.
+
+**Special Topics (Viśeṣaviṣayagaḷu).** *The main purport:* addressing the Marut-gods, the immortal Maruts give wealth, cattle, sons and the like to the sacrificer who offers oblations, and protect him. And, ever seeking the good of the sacrificer, for his advantage, for the protection of the world, and for the growth of crops, they bring about rain and wet the whole earth with water. *(Printer's signature at the foot of the page: "XIII 2".)*
+
+### Printed p. 18  (PDF 38)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* ***rāyaḥ poṣam*** — *rāyaḥ* is wealth, *poṣam* is increase; the sense is cattle and the like, the means to these.
+
+***haviṣā dadāśuṣe*** — *somādihavirdattavate*: to the sacrificer who offers oblations such as Soma.
+
+***hitā iva*** — *hitācaraṇāḥ sakhāya iva*: like friends who always do what is good; the Marut-gods seek only the good of the sacrificer.
+
+***puru*** — *prabhūtam*: among the twelve names of "much", beginning with *uru*, *tuvi*, the word *puru* is read; hence *puru* means "abundantly" (Ni. 3-13 [?]).
+
+***rajāṃsi*** — the word *rajas* has several meanings: *rajas* is night (Ni. 1-7 [?]), also light, and water (Ni. 4-19 [?]) and world (Ni. 4-19 [?]); here the sense is worlds.
+
+***mayobhuvaḥ*** — *mayas* means happiness (Ni. 3-13 [?]); the Maruts, being makers of happiness for the sacrificers, are indicated by the epithet *mayobhuvaḥ*; but this word is used in general of all deities.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?] where small).** *ūmāsaḥ* (root *ava rakṣaṇe*; *man* suffix by *avisiviśuśibhyaḥ kit* Uṇ. 1-142 [?]; as *kit*, no guṇa; *ūṭh* substitution by *jvarasvara…* Pā. 6-4-20 [?]; initial acute by *jñityādir nityam*; *jas* with *asuk* by *ājjaser asuk* Pā. 7-1-50). *amṛtāḥ* (the negative *naṅ*; the accent displaced by *nañsubhyām* [Pā. 6-2-172], the later member's initial acute). *arāsata* (root *rāsṛ śabde*, here in the sense of giving; *luṅ*? by *vyatyaya* [?], *ruk*; *atādeśa*; *laṅ* 3rd plural; no *nighāta* as there is a connection with the sacrifice-word; as it has the *āṭ* augment, initial acute). *rāyaḥ* (*ūḍidam…* Pā. 6-1-171 gives the acute to the case-ending). *dadāśuṣe* (root *dāś dāne*; *kvasu* by *dāśvān sāhvān* … Pā. 3-2-107 [?]; reduplicated; dative singular).
+
+---
+
+**Progress note:** printed p. 18 (PDF 38) done — Sūkta 166 Ṛk 3 in progress (grammar note ends at dadāśuṣe; page continues on p. 19). Next: printed p. 19 (PDF 39). Open flags: small-type reference numerals [?]; see review/doubts_v13.json.
