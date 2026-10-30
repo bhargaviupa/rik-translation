@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 703 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694, 695-699, 700-703).
-Next page: p. 704 (PDF 720).
+Done through: p. 704 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694, 695-699, 700-703).
+Next page: p. 705 (PDF 721).
 Open items:
+- IMPORTANT (p. 704): here the bold flat-footed glyph must be 7 (7-104-3/17/11, Rākṣoghna sūkta; file had 7-) and the thin curled one 2 (Śat. Brā. 12-9-1-1, book ≤14) — i.e. CLAUDE.md's key (flat-footed = 7, curled = 2), the reverse of the 'bold = 2' rule used on pp. 701-703. All 2/7 readings on pp. 700-703 (and earlier where the rule decided) need the user's check against the check pages. p. 704: Śat. Brā. 11-2-7-33 [?], 6-2-2-27 [?], 10-14-7, 2, 15 [?].
 - p. 703: Śat. Brā. (೧೧-೬-೨-೩, ?) second number unclear, written 3 [?]; Tai. Brā. printed (೬-೩-೯-?) written 6-3-9-7 [?] (Tai. Brā. has 3 books; as printed).
 - p. 702: (೧೦-?೭-೨೧) written 10-27-21 [?]; 10-102-7, 10-14-7, 4-34-7 follow the bold=2/thin=7 rule (same glyph pairs as p. 701; user check).
 - p. 701 (2/7 doubts, glyph rule applied: bold flat-based = 2, thin rounded = 7; NB CLAUDE.md's key words it the other way, so these need the user's check): (೯-೧೧೩-?ರಿಂದ ೯) written 9-113-2 [?]; (೧೦-೧೦?-?) written 10-102-7; (?-೧?೫-೬) written 5-125-6 [?] (5-125 is out of range; first/second glyph unsure); 4-34-7; Tai. Ā. 1-11-1-7 [?]; first ref of the 'Sūrya' pair printed 1-109-7 (file had 10-).
