@@ -5722,5 +5722,29 @@
   ],
   "note": "bhashya Rk4 very dense; 'arepasapau', 'tadrgjahattva' garbled; refs Ni 12-1, 12-3, Rg 1-116-12",
   "answer": ""
+ },
+ {
+  "pdf": 585,
+  "printed": 565,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 12-3 small; printed English typo 'tee' sic",
+  "answer": ""
+ },
+ {
+  "pdf": 586,
+  "printed": 566,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ni 12-1 quote readings; 'vasatisu sma' mantra garbled/unspecified; Macdonell quote typos (of of, to Puzzle to) marked sic",
+  "answer": ""
  }
 ]
