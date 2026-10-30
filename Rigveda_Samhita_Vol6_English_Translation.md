@@ -11619,7 +11619,7 @@ dyumnaír abhi pra ṇonumaḥ ||5||* [accent ?]
 
 ### Page 523 (PDF 541)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -11678,7 +11678,7 @@ dyumnaír abhi pra ṇonumaḥ ||5||* [accent ?]
 
 ### Page 525 (PDF 543)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 79.1, continued from p. 524 (the sentence on **हिरण्यकेशः** resumes mid-way):*
 
@@ -11742,7 +11742,7 @@ In this Ṛk the word *rajas* gives the sense 'day'. In the present context the 
 
 ### Page 527 (PDF 545)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.1)** *(grammar page, noted briefly)*
 
@@ -11786,7 +11786,7 @@ In this Ṛk the word *rajas* gives the sense 'day'. In the present context the 
 
 ### Page 529 (PDF 547)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 34" at the foot.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā". A signature mark "VI 34" at the foot.)*
 
 *Bhāṣya of Rik 79.2, continued from p. 528:*
 
@@ -11854,7 +11854,7 @@ and so he has given the derivation of the form of the word *vṛṣabha*. That i
 
 ### Page 531 (PDF 549)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 79.2, continued from p. 530 (mid-sentence):*
 
@@ -11892,7 +11892,7 @@ as an example."
 
 ### Page 533 (PDF 551)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.3**
 *(Accents as printed, 300 dpi; exact syllable of several strokes/underlines is doubtful: [accent ?].)*
@@ -11964,7 +11964,7 @@ aryamā mitro varuṇaḥ parijmā tvacaṃ pṛñcanty uparasya yonau ||3||*
 
 ### Page 535 (PDF 553)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 79.3 continued:*
 
@@ -12012,7 +12012,7 @@ asme dhehi jātavedo mahi śravaḥ ||4||*
 
 ### Page 537 (PDF 555)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.4** *(Sanskrit in Kannada script; doubtful places [?])*
 
@@ -12088,7 +12088,7 @@ have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (�
 
 ### Page 539 (PDF 557)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics continued — Yāska's illustrations of the seven case-senses of* asme:
 
@@ -12166,7 +12166,7 @@ In the word *asme* of this Ṛk the seventh case, *asmāsu*, 'in us'."
 
 ### Page 541 (PDF 559)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.5**
 
@@ -12233,7 +12233,7 @@ revad asmabhyaṃ purvaṇīka dīdihi ||5||*
 
 ### Page 543 (PDF 561)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 79.5, continued from p. 542 (grammar page, noted briefly):*
 
@@ -12295,7 +12295,7 @@ sa tigmajambha rakṣaso daha prati ||6||*
 
 ### Page 545 (PDF 563)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 27"; right: "Ṛgvedasaṃhitā".)*
 
 **English Translation** *(printed in English in the source)*
 
@@ -12368,7 +12368,7 @@ In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*
 
 ### Page 547 (PDF 565)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 79.6, continued from p. 546:*
 
@@ -12441,7 +12441,7 @@ viśvāsu dhīṣu vandya ||7||*
 
 ### Page 549 (PDF 567)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.7)** *(grammar page, noted briefly)*
 
@@ -12509,7 +12509,7 @@ viśvāsu pṛtsu dustaram ||8||*
 
 ### Page 551 (PDF 569)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 79.8, continued from p. 550:*
 
@@ -12567,7 +12567,7 @@ mārḍīkaṃ dhehi jīvase ||9||*
 
 ### Page 553 (PDF 571)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 79.9** *(Sanskrit in Kannada script; doubtful places [?])*
 
@@ -12626,7 +12626,7 @@ mārḍīkaṃ dhehi jīvase ||9||*
 
 ### Page 555 (PDF 573)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 79.9, continued from p. 554 (grammar page, noted briefly):*
 
@@ -12697,7 +12697,7 @@ bharasva sumnayur giraḥ ||10||*
 
 ### Page 557 (PDF 575)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 79.10, continued from p. 556:*
 
@@ -12770,7 +12770,7 @@ asmākam id vṛdhe bhava ||11||*
 
 ### Page 559 (PDF 577)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 79.11)** *(grammar page, noted briefly)*
 
@@ -12832,7 +12832,7 @@ hotā gṛṇīta ukthyaḥ ||12||*
 
 ### Page 561 (PDF 579)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". The folio is printed "5o1", i.e. 561; a signature mark "VI 36" at the foot.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 28"; right: "Ṛgvedasaṃhitā". The folio is printed "5o1", i.e. 561; a signature mark "VI 36" at the foot.)*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 79.12)**
 
@@ -12882,7 +12882,7 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 ### Page 563 (PDF 581)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 **ಎಂಭತ್ತನೆಯ ಸೂಕ್ತವು** — *eṃbhattaneya sūktavu* — "The eightieth sūkta."
 
@@ -12934,7 +12934,7 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 ### Page 565 (PDF 583)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 *Bhāṣya of Rik 80.1, continued:*
 
@@ -12994,7 +12994,7 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 ### Page 567 (PDF 585)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 80.1, continued from p. 566:*
 
@@ -13064,7 +13064,7 @@ yenā vṛtraṃ nir adbhyo jaghantha vajrinn ojasārcann anu svarājyam ||2||*
 
 ### Page 569 (PDF 587)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 **English Translation** *(Rik 80.2; printed in English in the source)*
 
