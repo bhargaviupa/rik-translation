@@ -12782,8 +12782,10 @@ asmākam id vṛdhe bhava ||11||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.12**
 
-> सहस्राक्षो विचर्षणिरग्नी रक्षांसि सेधति ।
-> होता गृणीत उक्थ्यः ॥ १२ ॥
+*(Accents as printed, 300 dpi; underline positions doubtful: [accent ?].)*
+
+> स॒ह॒स्रा॒क्षो विच॑र्षणि॒रग्नी रक्षां॑सि सेधति ।
+> होता॑ गृणीत उ॒क्थ्यः॑ ॥ १२ ॥
 
 *sahasrākṣo vicarṣaṇir agnī rakṣāṃsi sedhati |
 hotā gṛṇīta ukthyaḥ ||12||*
