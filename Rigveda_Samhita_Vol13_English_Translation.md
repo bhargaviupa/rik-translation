@@ -3418,4 +3418,44 @@ In the second meaning, since *svarmīḷhasya* is an adjective of *pradhanasya*:
 
 ---
 
-**Progress note:** printed p. 152 (PDF 172) done — Sūkta 169 Ṛk 2 through Special Topics (grammar on p. 153). Next: printed p. 153 (PDF 173). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 153  (PDF 173)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9".)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *ayujran* (root *yujir yoge*; Vedic *laṅ* in the present sense; the passive, with the *vikaraṇa* dropped by *vyatyaya*; *jhi* → *anta*; loss of *i*; by "*bahulaṃ chandasi*" the augment *ruṭ*; the augment *aṭ*; no *nighāta* since it stands at the beginning of a *pāda*, so the word is accented on the first syllable); *viśvakṛṣṭīḥ* (*viśve—sarve kṛṣṭayaḥ—janāḥ yasya saḥ*; in the *bahuvrīhi* the first member keeps its accent by "*bahuvrīhau prakṛtyā pūrvapadam*"; before *jas* the preceding-similar-vowel lengthening by "*supāṃ sulukpūrvasavarṇa…*", Pā. Sū. 7-1-39 [?]); *vidānāsaḥ* (root *vida jñāne*; *śānac* for *laṭ*; the *vikaraṇa* dropped; as the affix is of the *jit*-type, no *guṇa* of the light penultimate; last syllable acute by "*citaḥ*"; *asuk* before *jas* by "*ājjaserasuk*"); *niṣṣidhaḥ* (root *ṣidha gatyām*; affix *kvip*; in a *prādi* compound the latter member keeps the accent by the rule for compounds ending in a *kṛt*; accusative plural form); *martyatrā* (the affix *trā* after a locative-ending word, "*devamanuṣyapuruṣapuruмartyebhyo…*", Pā. Sū. 5-4-56 [?]; accent on the last syllable by the affix); *hāsamānā* (root *hase hasane*; *śānac* for *laṭ*; lengthening of the penultimate by the affix; since the *lasārvadhātuka* is unaccented the root keeps its accent); *svarmīḷhasya* (root *mihaṃ secane*; *kta* by "*niṣṭhā*"; *h* → *ḍh* by "*hoḍhaḥ*", Pā. Sū. 8-2-31 [?]; *t* → *dh* by "*jhaṣastathordho'dhaḥ*"; *ṣṭutva*; the former *ḍh* dropped by "*ḍho ḍhe lopaḥ*", Pā. Sū. 8-3-13 [?]; the preceding vowel lengthened by "*ḍhralope pūrvasyā dīrgho'ṇaḥ*", Pā. Sū. 6-3-111 [?]; *svar* becomes *svarita* by "*nyaṅ svarau svaritau*"; in the *bahuvrīhi* the first member keeps its accent; genitive singular); *sātau* (root *ṣaṇu dāne*; *ktin*, irregular with acute by "*ūtiyūtijūti…*", Pā. Sū. 3-3-97 [?]; locative singular). ‖ 2 ‖
+
+*(ornamental rule)*
+
+### Printed p. 154  (PDF 174)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अम्यक् सा त इन्द्र ऋष्टिरस्मे सनेम्यभ्वं मरुतो जुनन्ति ।
+> अग्निश्चिद्धि ष्मातसे शुशुक्वानापो न द्वीपं दधति प्रयांसि ॥ ३ ॥
+
+> *amyak sā ta indra ṛṣṭirasme sanemyabhvaṃ maruto junanti |*
+> *agniściddhi ṣmātase śuśukvānāpo na dvīpaṃ dadhati prayāṃsi ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> अम्यक् । सा । ते । इन्द्र । ऋष्टिः । अस्मे इति । सनेमि । अभ्वम् । मरुतः । जुनन्ति ।
+> अग्निः । चित् । हि । स्म । आतसे । शुशुक्वान् । आपः । न । द्वीपम् । दधति । प्रयांसि ॥ ३ ॥
+
+> *amyak | sā | te | indra | ṛṣṭiḥ | asme iti | sanemi | abhvam | marutaḥ | junanti |*
+> *agniḥ | cit | hi | sma | ātase | śuśukvān | āpaḥ | na | dvīpam | dadhati | prayāṃsi ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र ते तव सा प्रसिद्धा ऋष्टिर्वज्राख्यायुधविशेषोऽस्मे अस्मदर्थम् अम्यक् । प्राप्नोति मेघसमीपे । एवं च सति मरुतोऽपि सनेमि । अह्नायेति षट् पुराणनामानीत्यादि [?] सनेमि पुराणनाम । पुराणं चिरकालं संगृहीतमभ्वमुदकं जुनन्ति । क्षिपन्ति । वर्षन्तीत्यर्थः । वृष्ट्या सस्यादिसमृद्धौ सत्यामग्निश्चिद्धि ष्म । हि स्मेति पूरणे । अग्निरप्यातसे सन्तके [?] कर्मणि निमित्तभूते सति शुशुक्वान् दीप्यमानो वर्तते । पश्चात्प्रयांसि चरुपुरोडाशादिहवींषि दधति । धारयन्ति ददति वा यजमानाः । किमिव आपो न द्वीपम् । द्विपार्श्वस्थोदकवान् पर्वतादिर्द्वीपः । तं यथापो धारयन्ति तद्वत् । यद्वा । आयुधमेवोच्यते । वज्राख्यायुधविशेषो [?] ऽतसे काष्ठसमूहे शुशुक्वान् दीपयन्नग्निश्चित् । चिच्छब्द उपमार्थे । दधि चिदित्युपमार्थे । नि. १-४ [?] । इति यास्केनोपमार्थस्योक्तत्वात् ॥ काष्ठे ज्वलन्नग्निरिव । तद्वद्दीप्तो वर्तते । एतदेव दीप्तत्वमपेक्ष्य स इत्युक्तम् [?] । एवं च सत्यापो द्वीपमिव वृष्ट्युदकानि प्रयांसि सस्याद्यन्नानि दधति । धारयन्ति । एतत्सर्वं महानुभावस्येन्द्रस्य वीर्यं सामर्थ्यमितीन्द्रस्य स्तुतिः ॥ [reading of the last sentence doubtful]
+
+*Gist:* Indra's famous thunderbolt reaches the cloud for us; the Maruts pour down the old-stored water, and rain brings abundance; the sacrificers hold up the oblations as waters hold an island, and the bolt blazes like fire in a pile of wood.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *te* — your; *sā* — that famous; *ṛṣṭiḥ* — thunderbolt-weapon; *asme* — for us (to bring about rain); *amyak* — approaches (the clouds); *marutaḥ* — the Marut-gods; *sanemi* — from a long time; *abhvam* — water; *junanti* — throw down (pour out); *agniḥ cit hi sma* — fire too —
+
+---
+
+**Progress note:** printed p. 154 (PDF 174) done — Sūkta 169 Ṛk 2 complete; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (breaks off at 'agniḥ cit hi sma'). Next: printed p. 155 (PDF 175). Open flags: Ṛk 3 bhāṣya [?] words (dense); small-type numerals [?]; review/doubts_v13.json.
