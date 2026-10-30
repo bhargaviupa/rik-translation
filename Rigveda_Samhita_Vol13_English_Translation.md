@@ -17987,4 +17987,62 @@ In the ṛk at hand, the word *vṛka* generally means the wild dog (*āraṇya�
 
 ---
 
-**Progress note:** printed p. 642 (PDF 662) done — Sūkta 183 Ṛk 4 ends (grammar); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 643 (PDF 663): Ṛk 5 Special Topics. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 643  (PDF 663)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 643.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In the ṛk at hand it is told that these three — **Purumīḷha**, **Atri** and **Gotama** — took refuge in the protection of the Aśvin deities and received protection from them.
+
+Among these, one named Purumīḷha is known in some places as an ancient seer (*prācīna ṛṣi*) and in other places as a king. His story is told in the Bṛhaddevatā in this way. Though the story there is chiefly about Śyāvāśva, what is to be understood here is the relation between Śyāvāśva and Purumīḷha.
+
+> राजर्षिरभवद्दार्भ्यो रथवीतिरिति श्रुतः । स यज्ञ्यमाणो राजात्रिमभिगम्य प्रसाद्य च ॥
+> आत्मानं कार्यमर्थं च ख्यापयन् प्राञ्जलिः स्थितः । अवृणीतर्षिमात्रेयमार्चनानसम् ॥
+> स सपुत्रोऽभ्यगच्छत्तं राजानं यज्ञसिद्धये । श्यावाश्वश्चात्रिपुत्रस्य पुत्रः खल्वर्चनानसः ॥
+> सांगोपांगान् सर्ववेदान् यः पित्राध्यापितो मुदा । आर्चनानाः सपुत्रोऽथ गत्वा नृपमयोजयत् ॥
+> यज्ञे च विततेऽपश्यद्राजपुत्रीं यशस्विनीम् । स्नुषा मे राजपुत्री स्यादिति तस्य मनोऽभवत् ॥
+> श्यावाश्वस्य च तस्यां वै सक्तमासीत्तदा मनः । संयुज्यस्व मया राजन्निति योज्यं चेत्सोऽब्रवीत् ॥
+> किं ते मतेमहं कन्यां श्यावाश्वाय ददामि हि । अत्रिपुत्रोऽदुर्बलो हि जामाता त्वावयोरिति ॥
+> राजानमब्रवीत्सापि नृपर्षिकुलजा ह्यहम् । नान्यर्षिनौ तु जामाता नैष मन्त्रान् हि दृष्टवान् ॥
+> ऋषये दीयतां कन्या वेदस्याम्बा भवेत्तथा । ऋषिर्मन्त्रदृशं वेदपितरं मन्यते यतः ॥
+> प्रत्याचष्टे स तं राजा सह संमन्त्र्य भार्यया । अन्यर्षिर्नैव जामाता कश्चिद्द्विवितुमर्हति ॥
+> प्रत्याख्याते ऋषिस्तेन न्यवृत्ते यज्ञे न्यवर्तत । श्यावाश्वस्य तु कन्यायां मनो नैव न्यवर्तत ॥
+> ततस्तौ तु निवर्तेतां उभावेवाभिजग्मतुः । शशीयसीं तरन्तं च पुरुमीळ्हं च पार्थिवम् ॥
+> तरन्ते पुरुमीळ्हौ तु राजानौ वैददश्विऋषी । ताभ्यां तौ चक्रतुः पूजां ऋषिभ्यां नृपती स्वयम् ॥
+> ऋषिपुत्रं महिष्याश्च दर्शयामास तं नृपः । आजाविकं गवाश्वं च श्यावाश्वाय शशीयसी ॥
+> अत्रिं यज्ञार्चितौ गत्वा पितापुत्रौ स्वमाश्रमम् । अभ्यावदद्यतामात्रिं महर्षिं दीप्ततेजसम् ॥
+> श्यावाश्वस्य मनस्यासीन्मन्त्रस्यादर्शनादहम् । न लब्धवानहं कन्यां हन्ते सर्वाङ्गशोभनाम् ॥
+> आष्यहं मन्त्रदर्शी स्यां भवेद्वर्षो महान्मम । इत्यरण्ये चिन्तयतः प्रादुरासीन्मरुद्गणः ॥
+> ददर्श संस्थितानार्श्वे तुल्यरूपानिवात्मनः । समानवयसश्चैव मरुतो रूक्मवक्षसः ॥
+> तांस्तुल्यवयसो दृष्ट्वा देवान्पुरुषविग्रहान् । श्यावाश्वो
+
+*(The Bṛhaddevatā passage, as printed in the Sāyaṇa-bhāṣya volume's Special Topics (Bṛ. De. 5-50 to 80, per the closing reference on p. 644 [?]); the Sanskrit is transcribed as read, in a dense small Kannada type, and many words are doubtful [?], e.g. "abhigamya prasādyai ca", "yojyaṃ cet", "vaidadaśvi-ṛṣī", "ābhyāvadadyatām", "hante", "āṣyahaṃ", "ārśve" — to be re-checked in the doubts pass.)*
+
+### Printed p. 644  (PDF 664)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 644.)*
+
+> विस्मितोऽपृच्छत्क्वेष्मेति मरुतस्तदा ॥ ततस्तु मरुतो देवान् रुद्रसूनूनबुध्यत । य ईं वहन्ते इत्याभिर्बुद्ध्वा तुष्टाव तांस्तथा ॥
+> अतिक्रमुं हि तं नेने ऋषिर्विपुलमात्मनः …… ॥ रथवीतेर्दुहितरं आगच्छन्नैनसा तदा ।
+> स सद्मे ऋषिरात्मानं प्रवक्ष्यन् रथवीतये ॥ …… आदाय कन्यां तां दार्भ्य उपेयेयोर्चनानसम् ।
+> पादौ तस्योपसंगृह्य स्थित्वा प्रह्वः कृताञ्जलिः ॥ रथवीतिरहं दार्भ्य इति नाम शशंस च ।
+> मया संगतिमिच्छन्ते त्वां प्रत्याचक्ष यत्पुरा ॥ तत् क्षमस्व नमस्तेऽस्तु मा च मे भगवन्कृधः ।
+> ऋषेः पुत्रैः स्वयमृषिः पितासि भगवन्स्वं पेः ॥ हन्त प्रतिगृहाणेमां स्नुषामित्येवमब्रवीत् ।
+> पादार्घ्यमधुपर्कैश्च पूजयित्वा स्वयं स्वसेः ॥ शुक्लमश्वशतं पत्वा अनुजज्ञे गृहान्प्रति ।
+> शशीयसीं तरन्तं च पुरुमीळ्हं च पार्थिवम् ॥ षड्भिः सनदिति स्तुत्वा जगामर्षिरपि क्षयम् ॥
+
+> *vismito 'pṛcchatkveṣmeti marutastadā ‖ tatastu maruto devān rudrasūnūnabudhyata | ya īṃ vahante ityābhirbuddhvā tuṣṭāva tāṃstathā ‖*
+> *atikramuṃ hi taṃ nene ṛṣirvipulamātmanaḥ …… ‖ rathavīterduhitaraṃ āgacchannainasā tadā |*
+> *sa sadme ṛṣirātmānaṃ pravakṣyan rathavītaye ‖ …… ādāya kanyāṃ tāṃ dārbhya upeyeyorcanānasam |*
+> *pādau tasyopasaṃgṛhya sthitvā prahvaḥ kṛtāñjaliḥ ‖ rathavītirahaṃ dārbhya iti nāma śaśaṃsa ca |*
+> *mayā saṃgatimicchante tvāṃ pratyācakṣa yatpurā ‖ tat kṣamasva namaste 'stu mā ca me bhagavankṛdhaḥ |*
+> *ṛṣeḥ putraiḥ svayamṛṣiḥ pitāsi bhagavansvaṃ peḥ ‖ hanta pratigṛhāṇemāṃ snuṣāmityevamabravīt |*
+> *pādārghyamadhuparkaiśca pūjayitvā svayaṃ svaseḥ ‖ śuklamaśvaśataṃ patvā anujajñe gṛhānprati |*
+> *śaśīyasīṃ tarantaṃ ca purumīḷhaṃ ca pārthivam ‖ ṣaḍbhiḥ sanaditi stutvā jagāmarṣirapi kṣayam ‖*
+
+(Bṛ. De. 5-50 to 80; the Sanskrit as read, many words doubtful [?]) — the story the verses tell is as follows. A royal sage named Rathavīti Dārbhya, wishing to perform a sacrifice, went to the seer Atri, honoured him, and asked him to accept the office of priest (*paurohitya*) for himself, and to assist him in his sacrificial work. Atri agreed, and sent his son Śyāvāśva (Arcanānasa's son) to the king's house for the sacrifice; and the sacrifice was duly accomplished. While the sacrifice was going on, Arcanānasa saw the king's daughter, was attracted by her, and wished to have her married to Śyāvāśva; and Śyāvāśva too was infatuated with her. When both father and mother (of the girl) were told of their wish, the king agreed to the alliance, but when he consulted his wife, saying that he would give his answer afterwards, she did not consent. She told him: "Śyāvāśva is not a seer, and I cannot give a daughter born to a seer to a man who is not a seer; so I do not agree." In the same way the king too gave a reply to the parents, and they returned home. But Śyāvāśva alone remained fixed in mind on the royal daughter. On his way home he met on the road **Śaśīyasī**, **Taranta** and the king **Purumīḷha**. Taranta and Purumīḷha were also sons of a king named Vidadaśva, and were themselves seers. Both of them saluted the parents (Atri and Arcanānasa), honoured them; and then the women of the harem honoured them with gifts such as cows and horses. But Śyāvāśva, not having obtained a beautiful wife, was grieved, and wandered in the forest. At that time he met the host of Maruts and, knowing them to be the sons of Rudra and of divine portion, praised them with a hymn beginning "**ke ṣṭhā naraḥ**" (Ṛ. Saṃ. 5-61-1) and became a seer of that hymn. Knowing this, Rathavīti, the son of Darbha, brought his daughter, and, [asking pardon for his earlier refusal, offered her to him …]
+
+---
+
+**Progress note:** printed p. 644 (PDF 664) done — Sūkta 183 Ṛk 5 Special Topics (Purumīḷha, Atri, Gotama; Śyāvāśva–Rathavīti story from Bṛhaddevatā, Sanskrit as read [?]; continues p. 645). Next: printed p. 645 (PDF 665). Open flags: refs [?]; Bṛ. De. verses doubtful; review/doubts_v13.json.
