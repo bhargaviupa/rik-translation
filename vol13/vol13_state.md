@@ -1,6 +1,6 @@
 # Vol 13 — state
 
-Status: **translation under way (English only, Sonnet).** Done: title page, introduction, **Sūkta 166 (printed pp. 2–72) and Sūkta 167 (pp. 72–112) complete**; Sūkta 168 begun (p. 112). Output `Rigveda_Samhita_Vol13_English_Translation.md` (its last block is the progress note). ~420 `[?]` so far (68 logged doubt entries), nearly all small-type reference numerals; each logged with its crop in `review/doubts_v13.json` (answer field empty). Tools added: `append_en.py` (append + single progress note), `doubt.py` (log a doubt with crop coordinates). Branch `claude/vol13`.
+Status: **fully translated (English only, Sonnet, lean mode).** Sūktas 166–183 (printed pp. 2–657, the whole scan, PDF 22–677) are in `Rigveda_Samhita_Vol13_English_Translation.md` (~2.1 MB; its last block is the progress note "VOLUME COMPLETE"). ~2,250 lines carry `[?]`, nearly all small-type reference numerals and garbled Brāhmaṇa/Nirukta/Bṛhaddevatā/Upaniṣad quotations; 572 doubt entries (with crop coordinates) are logged in `review/doubts_v13.json` (answer field empty). Grammar notes are brief; sūtra numerals are all `[?]`. No Kannada file, no audits, no numeral pass, no DOCX/PDF yet. Tools: `append_en.py`, `doubt.py`, `view.py`. Branch `claude/vol13`.
 
 ## Facts established (all from viewed crops)
 - Scan: 6 parts, 677 PDF pages, ~665 ppi 1-bit, in `scans/`. `tools/cfg.py` maps PDF page -> part+page. **No upside-down pages** (header strips PDF 22–677 and views of PDF 1–26 all upright); no gaps, duplicates or out-of-order pages.
@@ -13,5 +13,6 @@ Status: **translation under way (English only, Sonnet).** Done: title page, intr
 
 ## Remaining checklist (lean — do only when needed)
 - [x] scans, page map, offset, contents, title range, tools (`view.py` whole-page crops, `stack.py`, `numsheets.py`)
-- [ ] translation, sūkta by sūkta (per runbook "Lean mode"); doubts zoomed only when in doubt
+- [x] translation, sūkta by sūkta (lean mode) — done
+- [ ] optional later: zoom pass on the logged doubts; numeral pass; Kannada back-fill; IAST `--check`; DOCX/PDF build
 - [ ] user decision: model for drafting (Sonnet vs Opus) — no test run, to save cost
