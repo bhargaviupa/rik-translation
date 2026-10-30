@@ -110,7 +110,7 @@ for p in range(a,b+1):
         if j not in inv:
             prv=[a for a in mj if a<j]; nxt=[a for a in mj if a>j]
             if os.environ.get('V5REGION')!='1' or not (prv and nxt):
-                unmatched.append(dict(printed=p,pdf=g,file=f['v'],ctx=f['ctx'])); continue
+                unmatched.append(dict(printed=p,pdf=g,j=j,file=f['v'],ctx=f['ctx'])); continue
             b1=toks[inv[prv[-1]]]['box']; b2=toks[inv[nxt[0]]]['box']; h=max(b1[3],b2[3]); region=True
             ya=int(min(b1[1],b2[1])-h*0.25); yb=int(max(b1[1],b2[1])+h*1.25)
             if abs(b2[1]-b1[1])<h*1.5:
@@ -118,7 +118,7 @@ for p in range(a,b+1):
             else:
                 boxes=[(b1[0]+b1[2],int(b1[1]-h*0.25),2480,int(b1[1]+h*1.25)),(0,int(b2[1]-h*0.25),b2[0],int(b2[1]+h*1.25))]
             parts=[pg.crop((max(0,int(x0*S600)),max(0,int(y0*S600)),max(1,int(x1*S600)),max(1,int(y1*S600)))).convert('L') for x0,y0,x1,y1 in boxes if x1>x0]
-            if not parts: unmatched.append(dict(printed=p,pdf=g,file=f['v'],ctx=f['ctx'])); continue
+            if not parts: unmatched.append(dict(printed=p,pdf=g,j=j,file=f['v'],ctx=f['ctx'])); continue
             W=max(c.width for c in parts); H=sum(c.height+6 for c in parts); cr=Image.new('L',(W,H),255); yy=0
             for c in parts: cr.paste(c,(0,yy)); yy+=c.height+6
             t=dict(tess='',box=[0,0,0,0])
