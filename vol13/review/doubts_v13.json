@@ -5794,5 +5794,41 @@
   ],
   "note": "Rg 1-182-1 and 9-66-11 refs doubtful; verse 1 line 3 chaturakshau as read",
   "answer": ""
+ },
+ {
+  "pdf": 591,
+  "printed": 571,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "verse ref 9-90-3 and Sanskrit words doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 591,
+  "printed": 571,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals small type, all [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 592,
+  "printed": 572,
+  "crop": [
+   0.2,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Rk5 bhasya a few words (ksiradi/ramiksa, nirupyamano) as read; Sanhita svara marks omitted",
+  "answer": ""
  }
 ]

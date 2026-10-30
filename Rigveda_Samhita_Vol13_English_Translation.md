@@ -15956,4 +15956,44 @@ As described in the Ṛk at hand, these two, being two luminous forms, are descr
 
 ---
 
-**Progress note:** printed p. 570 (PDF 590) done — Sūkta 181 Ṛk 4 Special Topics (Saraṇyū story, dogs of Yama, ārepasā, āvāvaśītām; continues p. 571). Next: printed p. 571 (PDF 591). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 571  (PDF 591)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 571.)*
+
+> अभि त्रिपृष्ठं वृषणं वयोधामाङ्गूषाणामवावशन्त वाणीः ।
+> वना वसानो वरुणो न सिन्धूञ्छ्रत्नधा दयते वार्याणि ॥
+
+> *abhi tripṛṣṭhaṃ vṛṣaṇaṃ vayodhāmāṅgūṣāṇāmavāvaśanta vāṇīḥ |*
+> *vanā vasāno varuṇo na sindhūñchratnadhā dayate vāryāṇi ‖*
+
+(Ṛ. Saṃ. 9-90-3 [?]; Sanskrit as read, several words doubtful [?]) — here also the sense is that speeches (*vāṇīḥ*) sounded. In the Ṛk at hand, the purport is to be understood either that the Aśvin deities are pleased by sounds in the form of praise, or that they become the sacrificers' desirers (? "yajñecchu") — as read [?].
+
+**Subhagā** — this word is read among the names of wealth: "*maghaṃ, reknaḥ*" etc. (Ni. 2-10 [?]); wealth of the excellent kind. Since in the Ṛk at hand it occurs along with the word for the Sun, the meaning here is wealth in the form of rays, as it is said to be the wealth of the deity.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *iheha* — doubling by "*nityavīpsayoḥ*" (Pā. Sū. 8-1-4 [?]), the latter part becoming wholly unaccented by "*anudāttaṃ ca*"; *jātā* — root *janī prādurbhāve*, with *kta*; "*janasana-khanāṃ san-jhal-oḥ*" (Pā. Sū. 6-4-42 [?]) gives ā; the dual takes the ā-substitute; *āvāvaśītām* — root *vaś kāntau*, *yaj* in the sense of repetition, by "*dhātor-ekācaḥ…*" (Pā. Sū. 3-1-22 [?]); "*vyatyayo bahulam*" gives *laṅ* madhyama-puruṣa dual with prathama-puruṣa dual endings, *āḍāgama*; *ārepasā* — "*na vidyate repaḥ yayoḥ*", "*nañ subhyām*" (Pā. Sū. 6-2-172 [?]) gives acute on the last member; *supāṃ sulug*… the dual gets ā; *tenā* — acute-to-svarita by "*udāttasvaritayor yaṇaḥ*" (Pā. Sū. 8-2-4 [?]); *jiṣṇuḥ* — root *ji jaye*, suffix *kṣnu* by "*glājisthaś ca kṣnuḥ*" (Pā. Sū. 3-2-139 [?]); *subhagā* — bahuvrīhi; "*ādyudāttaṃ dvyac chandasi*" (Pā. Sū. 6-1-119 [?]) gives acute on the first syllable of the latter member; *ūhe* — root *vah prāpaṇe*, *liṭ* by "*chandasi luṅ-laṅ-liṭaḥ*", *eś*-substitute of the first person singular; *vaci-svapi-yajādīnāṃ kiti* (Pā. Sū. 6-1-15 [?]) gives *saṃprasāraṇa*; doubling; *nighāta* accent. (All sūtra numerals as read: `[?]`.)  ‖ 4 ‖
+
+### Sūkta 181, Ṛk 5  (printed p. 572; PDF 592)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 572.)*
+
+**Saṃhitā-pāṭha**
+
+> प्र वां निचेरुः ककुहो वशाँ अनु पिशङ्गरूपः सदनानि गम्याः ।
+> हरी अन्यस्य पीपयन्त वाजैर्मथा रजांस्यश्विना वि घोष्यैः ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> प्र । वां । निऽचेरुः । ककुहः । वशान् । अनु । पिशङ्गऽरूपः । सदनानि । गम्याः ।
+> हरी इति । अन्यस्य । पीपयन्त । वाजैः । मथा । रजांसि । अश्विना । वि । घोष्यैः ॥ ५ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनावश्विनौ वां युवयोर्मध्येऽन्यस्यैकस्य ककुहः श्रेष्ठः पिशङ्गरूपो हिरण्यरूपः पीतवर्णो वा बहुभिरश्वाद्यवयवैर्निरूप्यमाणो वा रथो वशानन्वनुलक्ष्य यथाकामं । अस्मद्यज्ञागमनेच्छयेत्यर्थः । यद्वा । वशान् स्वाधीनाः ककुहो दिशो दिगन्तरालानुक्रमेण नीचैरुच्चैश्चरन् स्वस्थानाद्देवयजनमुखं गच्छन् । सदनान्यस्मद्यागगृहाणि प्र गम्याः । प्रकर्षेण गच्छतु ॥ पुरुषव्यत्ययः ॥ अत्र यद्यस्येति नोक्तं तथाप्युत्तरवाक्ये तथोक्तत्वात्प्राप्यलभ्यते । अन्यस्य युवयोरन्यतमस्य हरी अश्वौ रजांसि लोकाः । अत्र लोकशब्दो जनवाचकः । ते यजमानरूपा जना इत्यर्थः । ते च मथा प्रमथनेनालोडनेन निष्पादितैर्वाजैरन्नैः क्षीरादिरूपैर्घोष्यैः स्तुतिभिश्चाह्वानादिशब्दविशिष्टैर्वा पीपयन्त । आप्याययन्ति ॥
+
+*(Gist: the Aśvins' golden chariot comes at will to our sacrificial houses; the people, as sacrificers, feed their horses with offerings and praises. Reading doubtful in several words [?].)*
+
+**Pratipadārtha** — (*he*) **aśvinā** — O Aśvin deities; **vāṃ** — among you two (of the one); (**kakuhaḥ** — the best one); **piśaṅgarūpaḥ** — golden-formed (yellow-hued); **vaśān anu** — following the wishes (desires) (as the mind wills); **ni cheruḥ** — moves about; [or **vaśān** — self-governed … — continues on the next page].
+
+---
+
+**Progress note:** printed p. 572 (PDF 592) done — Sūkta 181 Ṛk 4 ends (grammar); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 573). Next: printed p. 573 (PDF 593). Open flags: refs [?]; review/doubts_v13.json.
