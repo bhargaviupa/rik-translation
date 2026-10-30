@@ -9279,4 +9279,66 @@ Yāska has explained the meaning of the word *svasti*, with a mantra example:
 
 ---
 
-**Progress note:** printed p. 356 (PDF 376) done — Sūkta 174 Ṛk 9 Special Topics (dhuni, svasti; continues p. 357). Next: printed p. 357 (PDF 377). Open flags: Ṛk 9 bhāṣya 'kṣantetaḥ' [?]; Nirukta/Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 357  (PDF 377)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+> स्वस्तिरिद्धि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेति । सा नो अमा सो अरणे नि पातु स्वावेशा भवतु देवगोपा ॥
+
+> *svastir id dhi prapathe śreṣṭhā rekṇasvaty abhi yā vāmam eti | sā no amā so araṇe ni pātu svāveśā bhavatu devagopā ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-63-16 [?]). A goddess well known by the name *Svasti* is said to be the presiding deity of the middle region, since she dwells in the atmosphere; and her greatness is described in this ṛk in this manner.
+
+> स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती स्वस्तीर्धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सा निरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप्त्री देवान् गोपायेत्ति देवा एनां गोपायन्तीति वा ।
+
+> *svastir eva hi prapathe śreṣṭhā rekṇasvatī svastīr dhanavaty abhyeti yā vasūni vananīyāni sā no 'mā gṛhe sā niramaṇe sā nirgamane pātu svāveśā bhavatu devī goptrī devān gopāyetti devā enāṃ gopāyantīti vā |* [as read: [?]]
+
+(Ni. 11-44 [?]). Of this, Durgācārya [says]: the goddess Svasti is the most praiseworthy among all the deities in the atmosphere; always travelling filled with water, like one who fills all with wealth, she is greatly necessary; may that goddess protect us who live in the forest and in the house; may we move in comfort; may she protect the oblations offered for the deities and the deities and us; and may the middle-region deities, those in the heavenly regions, or the rays also guard this goddess: so he explains.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***dhuniḥ*** — root *dhūñ kaṃpane*, *svādi*; the suffix *ni* of the *ṭoṇādika* [= *uṇādi*] group in the agent sense.
+- ***dhunimatīḥ*** — *dhuniḥ āsāṃ santi iti dhunimatyaḥ tāḥ*; when the suffix *matup* comes, in the feminine, by "*ugitaś ca*" (Pā. Sū. 4-1-6 [?]) *ṅīp*.
+- ***ṛṇoḥ*** — root *ṛṇu gatau*, *tanādi*; *laṅ*, second person singular, *sip*; the *i* is dropped; by "*tanādikṛñbhya uḥ*" (Pā. Sū. 3-1-79 [?]) the *u* *vikaraṇa*; because *sip* is the cause, guṇa for it; the *ru* for the suffix, visarga; no augment Vedically; because it is in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
+- ***apaḥ*** — accusative plural; by "*ūḍidaṃ padā*…" (Pā. Sū. 6-1-171 [?]) the case ending takes *udātta* accent.
+- ***sīrāḥ*** — root *siñ bandhane*; by "*śucisi*… *dīrghaś ca*" (Uṇ. Sū. 2-… [?]) the suffix *kran*; long vowel of the root; being *kit*, no guṇa; by the suffix accent the end syllable is *udātta*. *Śūra* also is established by the same sūtra.
+
+### Printed p. 358  (PDF 378)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+- ***sravantīḥ*** — root *sru gatau*; *śatṛ* for *laṭ*; by "*ugitaś ca*" (Pā. Sū. 4-1-6 [?]) *ṅīp*; accusative plural; since the *sārvadhātuka* *la* is *anudātta*, the root accent remains.
+- ***parṣi*** — root *pṝ pālanapūraṇayoḥ*, *kryādi*; *laṭ*, second person singular, *sip*; by "*bahulaṃ chandasi*" *luk* for the *vikaraṇa*; because the suffix is the cause, guṇa for the *ik* of the root; *ra* follows.
+- ***pāraya*** — the root as before takes *ṇic* by "*hetumati ca*" (Pā. Sū. 3-1-26 [?]); by "*aco ñṇiti*" (Pā. Sū. 7-2-115 [?]) *vṛddhi* for the *ṛ*; *ra* follows; after the *ṇijanta* *loṭ* in the second person singular, *sip* is replaced by *hi*; since *śap* is the cause, guṇa for the *ik*; "*ato heḥ*" (Pā. Sū. 6-4-105 [?]) gives *luk* for *hi*; because of the *ati* *tiṅ* position, no *nighāta*; the *ṇic* accent remains. ‖ 9 ‖
+
+---
+
+**Sūkta 174, Ṛk 10**
+
+**Saṃhitā-pāṭha**
+
+> त्वमस्माकमिन्द्र विश्वध स्या अवृकतमो नरां नृपाता ।
+> स नो विश्वासां स्पृधां सहोदा विद्यामेषं वृजनं जीरदानुम् ॥ १० ॥
+
+> *tvam asmākam indra viśvadha syā avṛkatamo narāṃ nṛpātā |*
+> *sa no viśvāsāṃ spṛdhāṃ sahodā vidyām eṣaṃ vṛjanaṃ jīradānum ‖ 10 ‖*
+
+**Pada-pāṭha**
+
+> त्वम् । अस्माकम् । इन्द्र । विश्वध । स्याः । अवृकऽतमः । नराम् । नृऽपाता ।
+> सः । नः । विश्वासाम् । स्पृधाम् । सहःऽदाः । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ १० ॥
+
+> *tvam | asmākam | indra | viśvadha | syāḥ | avṛka-tamaḥ | narām | nṛ-pātā |*
+> *saḥ | naḥ | viśvāsām | spṛdhām | sahaḥ-dāḥ | vidyāma | iṣam | vṛjanam | jīra-dānum ‖ 10 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र त्वमस्माकं विश्वध विश्वस्मिन्नपि काले विश्वप्रकारैर्वावृकतमः । विद्वा [?] दातृतम इत्यर्थः । स्याः । भव । तथा नरां नृपातास्मदीयानां पुत्रत्वादिरूपाणां बहूनां मनुष्याणां रक्षको भव । अपरो नृपभोद्देऽनुवादः [?] । च स त्वं विश्वासां स्पृधां सर्वासां स्पर्धानिमित्तानामुत्कृष्टानां सहोदास्तासामर्थ्यः [?] बलस्य दाता भव । विद्यामेति गतम् ॥
+
+> *he indra tvam asmākaṃ viśvadha viśvasminn api kāle viśvaprakārair vāvṛkatamaḥ | vidvā [?] dātṛtama ity arthaḥ | syāḥ | bhava | tathā narāṃ nṛpātāsmadīyānāṃ putratvādirūpāṇāṃ bahūnāṃ manuṣyāṇāṃ rakṣako bhava | aparo nṛpabhodde 'nuvādaḥ [?] | ca sa tvaṃ viśvāsāṃ spṛdhāṃ sarvāsāṃ spardhānimittānām utkṛṣṭānāṃ sahodāstāsāmarthyaḥ [?] balasya dātā bhava | vidyāmeti gatam ‖* [?]
+
+*Gist:* O Indra, at all times and in every way be the most generous to us and the protector of the many men, our sons and others; be the giver of strength in all contests; "*vidyāma*" etc. as explained before.
+
+---
+
+**Progress note:** printed p. 358 (PDF 378) done — Sūkta 174 Ṛk 9 complete; Ṛk 10 (last of Sūkta 174): Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 359). Next: printed p. 359 (PDF 379). Open flags: Ṛk 10 bhāṣya partly doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
