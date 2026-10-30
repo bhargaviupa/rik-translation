@@ -1718,4 +1718,54 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 72 (PDF 92) done — SŪKTA 166 COMPLETE (printed pp. 2–72, 15 ṛks). Sūkta 167 begun (heading, bhāṣya, anuvāda). Next: printed p. 73 (PDF 93): Sūkta 167 heading block and Ṛk 1. Open flags: small-type numerals [?] (see vol13/review/doubts_v13.json, ~37 entries); no Kannada file (lean mode).
+### Printed p. 73  (PDF 93)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)*
+
+**॥ ॐ ॥** Sūkta—167
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 167 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 4, 5 ‖
+Number of ṛks in the Sūkta: 11 · Ṛṣi: Agastya · Devatā: ṛk 1 Indra; ṛks 2–11 the Maruts · Chandas: *jagatī* … *triṣṭubh* (the numerals of the metre line, "1–10 jagatī | 11 triṣṭubh" as read, are doubtful [?]).
+
+**॥ संहितापाठः ॥**
+
+> सहस्रं त इन्द्रोतयो नः सहस्रमिषो हरिवो गूर्ततमाः ।
+> सहस्रं रायो मादयध्यै सहस्रिण उप नो यन्तु वाजाः ॥ १ ॥
+
+> *sahasraṃ ta indrotayo naḥ sahasramiṣo harivo gūrtatamāḥ |*
+> *sahasraṃ rāyo mādayadhyai sahasriṇa upa no yantu vājāḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> सहस्रम् । ते । इन्द्र । ऊतयः । नः । सहस्रम् । इषः । हरिऽवः । गूर्तऽतमाः ।
+> सहस्रम् । रायः । मादयध्यै । सहस्रिणः । उप । नः । यन्तु । वाजाः ॥ १ ॥
+
+> *sahasram | te | indra | ūtayaḥ | naḥ | sahasram | iṣaḥ | hari 'vaḥ | gūrta 'tamāḥ |*
+> *sahasram | rāyaḥ | mādayadhyai | sahasriṇaḥ | upa | naḥ | yantu | vājāḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र ते तवोतयो रक्षाप्रकाराः सहस्रम् । अपरिमिता इत्यर्थः । नोऽस्मभ्यमुप यन्त्विति सर्वत्र योज्यम् । तथा हे हरिवः । हरी इन्द्रस्याश्वौ । ताभ्यां तद्वन्निन्द्र गूर्ततमा अत्यन्तं गूर्णानि [?] एषणीयानि [?] अन्नानि सहस्रं बहूनि त्वदीयानि । तथा सहस्रं रायोऽपरिमितानि धनानि मणिमुक्तादीनि मादयध्यै अस्मान्मादयितुं यानि सन्ति तान्यस्मानुप यन्तु । तथा सहस्रिणो वाजा गमनवन्तश्चतुष्पादपशवोऽपि नोऽस्मानुप यन्तु । समीपं प्राप्नुवन्तु ॥
+
+*Gist:* O Indra, may your thousand (countless) protections, thousands of coveted foods, countless gems and pearls to gladden us, and thousands of moving animals, come near to us.
+
+**Pratipadārtha.** (*he*) *indra* — O Indra; *te* — your; *ūtayaḥ* — acts of protection; *sahasram* — a thousand; *naḥ* — for us; *upa yantu* — may they come near; (*he*) *harivaḥ* — O Indra with the horses called Hari; *gūrtatamāḥ* — (exceedingly strong =) most excellent; *sahasram* — countless; *iṣaḥ* — (various) foods; (*naḥ upa yantu* — may they come near us); (*tathā* — likewise) *sahasram rāyaḥ* — countless wealth of jewels and the like; *mādayadhyai* — to gladden us; (*naḥ upa yantu*); (*tathā* — likewise) *sahasriṇaḥ* — in thousands; *vājāḥ* — moving beings, animals and the like; *naḥ* — to us; (*upa yantu* — may they come near).
+
+### Printed p. 74  (PDF 94)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Bhāvārtha.** O Indra, protect us in a thousand ways; O Indra, with the horses called Hari, grant us, for our delight, most excellent foods of many kinds, in countless numbers, unlimited wealth of jewels and the like, and thousands of animals.
+
+**English Translation (as printed):** May your thousand benefits, Indra, come to us: may a thousand kinds of abundant food come to us, lord of horses: may a thousand (sorts of) wealth come to exhilarate us: may thousands of horses be ours.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***sahasraṃ ūtayaḥ*** — here, in addressing Indra, the word *sahasra* is explained as *aparimitāḥ* ("immeasurable"), that is, "so many that it is impossible to count". The prayer is made that Indra, as many as there are acts of protection, may protect us, the sacrificers, by his many kinds of protection.
+
+***harivaḥ*** — Yāska says "*harī indrasya*" (Ni. 1-[?]); the horses of Indra are known as *harī*. Because Indra has these horses he is addressed by the word *harivaḥ*.
+
+***gūrtatamāḥ iṣaḥ*** — *atyantaṃ gūrṇāni eṣaṇīyāni annāni*: "very greatly desirable foods, to be sought". Because living beings seek them, the word *iṣaḥ* is explained as "food". *Iṣam* is stated among the names of food (Ni. 2-[?]). The prayer is made: "O Indra, grant us countless foods."
+
+***sahasraṃ rāyaḥ mādayadhyai upayantu*** — *aparimitāni dhanāni maṇimuktādīni asmān mādayituṃ yāni santi tāni asmān upayantu*: "may all the countless riches, jewels, pearls and the like that exist for gladdening us come to us". The word *rāyaḥ* is read among the names of wealth (Ni. 2-[?]). The prayer is made that all the wealth, that is, countless jewels and pearls and other things such as we desire in order to be glad and gladdened, may come to us by Indra's grace.
+
+---
+
+**Progress note:** printed p. 74 (PDF 94) done — Sūkta 167 Ṛk 1 (Saṃhitā–Special Topics) complete; grammar note of Ṛk 1 follows on p. 75. Next: printed p. 75 (PDF 95). Open flags: small-type numerals [?]; the chandas line of the 167 heading block (p. 73); review/doubts_v13.json.
