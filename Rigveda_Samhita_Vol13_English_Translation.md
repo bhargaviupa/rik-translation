@@ -15902,4 +15902,58 @@ Dr. Śyāmaśāstri has explained his own opinion on this subject in detail in t
 
 ---
 
-**Progress note:** printed p. 568 (PDF 588) done — Sūkta 181 Ṛk 4 Special Topics (scholars' views on the Aśvins; Saraṇyū legend per Bṛhaddevatā; continues p. 569). Next: printed p. 569 (PDF 589). Open flags: refs [?]; Bṛhaddevatā verses as read [?]; review/doubts_v13.json.
+### Printed p. 569  (PDF 589)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 569.)*
+
+> नासत्यश्चैव दस्रश्च यौ स्तुतावश्विनाविति ॥
+> इतिहासमिमं यास्कः सरण्यूर्देवते द्वृचे ।
+> विवस्वतश्च त्वष्टुश्च त्वाष्ट्येति सह मन्यते ॥
+
+> *nāsatyaścaiva dasraśca yau stutāvaśvināviti ‖*
+> *itihāsamimaṃ yāskaḥ saraṇyūrdevate dvṛce |*
+> *vivasvataśca tvaṣṭuśca tvāṣṭyeti saha manyate ‖*
+
+(Bṛ. De. 6-162 to 7-2 [?], numerals as read) — Tvaṣṭṛ gave his daughter Saraṇyū to Vivasvān. She bore two twins, Yama and Yamī. Saraṇyū, creating a woman of her own form and entrusting the care of her two children to her without her husband's knowledge, herself took the form of a mare and went away. Not knowing this secret, Vivasvān begot Manu on that woman created by Saraṇyū. Presently, learning that she was not the real Saraṇyū, he set out to find her, taking the form of a horse. Seeing that form, she was enamoured and desired union with him. Then, from the force of his seed, two sons, **Nāsatya** and **Dasra**, were born; they are the Aśvin deities — so runs the story. The same story is told in the Harivaṃśa also. Since it follows the Paurāṇika tradition, and since in the descriptions of the subject at hand we are examining only on the basis of Vedic sentences, the Harivaṃśa account is not to the point here. As stated above, the order of origin of the Aśvin deities may be shown thus:
+
+*(Genealogical diagram, printed in Kannada letters; given here in words, "mine"):* Tvaṣṭṛ → Triśirā and Saraṇyū. Saraṇyū — Vivasvān — Savarṇā; from Savarṇā, Manu. From Saraṇyū and Vivasvān: Yama and Yamī. Another Saraṇyū (as mare) → Nāsatya and Dasra.
+
+And (printed in a brace): (1) Triśirā and Saraṇyū, (2) Yama and Yamī, (3) Nāsatya and Dasra — "also" (*saha*), are the twins (*yamaḷaru*).
+
+As described in the Ṛk at hand, these two, being two luminous forms, are described in another place in another form.
+
+### Printed p. 570  (PDF 590)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 570.)*
+
+> अति द्रव सारमेयौ श्वानौ चतुरक्षौ शबलौ साधुना पथा ।
+> अथा पितॄन्सुविदत्रां उपेहि यमेन ये सधमादं मदन्ति ॥
+
+> *ati drava sārameyau śvānau caturakṣau śabalau sādhunā pathā |*
+> *athā pitṝnsuvidatrāṃ upehi yamena ye sadhamādaṃ madanti ‖*
+
+(Ṛ. Saṃ. 10-14-10) — regarding the pair of dogs described here, the scholar Max Müller has formed this opinion:
+
+> "Those two dogs represent Time, in double aspect as morning and evening. Representing Time in all forms of its double aspect—as morning and evening, day and night, bright and dark fortnights, bright and dark halves of the year—the two dogs probably identical with the two Aświns."
+
+(Seience [sic] of Languge [sic], Vol. II.) — It may be said that this pair of dogs guarding Yama may be parts of Time: that is, they may be in the forms of day and night, forenoon and evening, or the bright and dark fortnights, or the Uttarāyaṇa and Dakṣiṇāyana. Thus the Aśvin deities too may be said to be natural divisions reflecting these. Accordingly:
+
+> धियंजिन्वा धिष्ण्या विश्पलावसू दिवो नपाता सुकृते शुचिव्रता ।
+
+> *dhiyaṃjinvā dhiṣṇyā viśpalāvasū divo napātā sukṛte śucivratā |*
+
+(Ṛ. Saṃ. 1-182-1 [?]) — here the Aśvin deities are addressed as *divo napātā*. In the Ṛk at hand, Sāyaṇa has explained them as Soma and Sūrya. The time of their manifestation will be told in the Special Topics of the next ṛk.
+
+**Ārepasā** — for this word the Nirukta-author explains "*pāpena alipyamānayā tanvā*": with a body not smeared with fault; *repas* means fault or sin; hence "not smeared".
+
+**Āvāvaśītām** — the word is formed from the root *vaś*, in the two senses "to desire" or "to make manifest". Sāyaṇa gives "*punaḥ punaḥ stūyethe vā kāmayethām*" — "you are praised again and again" or "you desire again and again". Uses of this word in both senses may be seen elsewhere, e.g.:
+
+> अच्छा कोशं मधुश्चुतमसृग्रं वारे अव्यये । अवावशन्त धीतयः ॥
+
+> *acchā kośaṃ madhuścutamasṛgraṃ vāre avyaye | avāvaśanta dhītayaḥ ‖*
+
+(Ṛ. Saṃ. 9-66-11 [?]) — here: "the fingers desired again" — [the sentence continues on the next page].
+
+---
+
+**Progress note:** printed p. 570 (PDF 590) done — Sūkta 181 Ṛk 4 Special Topics (Saraṇyū story, dogs of Yama, ārepasā, āvāvaśītām; continues p. 571). Next: printed p. 571 (PDF 591). Open flags: refs [?]; review/doubts_v13.json.
