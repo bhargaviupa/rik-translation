@@ -2254,5 +2254,29 @@
   ],
   "note": "Rg refs 1-113-13, 8-10-6, 8-20-7, 5-.., 4-26-4, 10-27-19 small; vi vidyuto na vrstibhi quote garbled",
   "answer": ""
+ },
+ {
+  "pdf": 295,
+  "printed": 275,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-30-5, 5-56-8; Nirukta 6-1, 11-49 small",
+  "answer": ""
+ },
+ {
+  "pdf": 296,
+  "printed": 276,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-167-4/5, 6-66-6 small; rodasa sabdena quote and joshad yad im.. read approx",
+  "answer": ""
  }
 ]

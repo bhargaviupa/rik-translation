@@ -6839,4 +6839,76 @@ and similar ṛks, the meaning is "sufficient to give satisfaction".
 
 ---
 
-**Progress note:** printed p. 274 (PDF 294) done — Sūkta 173 Ṛk 6 Special Topics (svadhā; continues p. 275). Next: printed p. 275 (PDF 295). Open flags: many Ṛg ref numerals [?]; quoted Ṛks partly doubtful; review/doubts_v13.json.
+### Printed p. 275  (PDF 295)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+In such places Sāyaṇa explains it as "*senayā*" ("with the army"); it shows the nature of a thing possessed of splendour. In the ṛk at hand, the word *svadhāvān* can be said to describe the might of Indra, who is of great glory.
+
+***opaśam iva — īṣad upaśete ity opaśaṃ śṛṅgaṃ tad vṛṣabha iva*** — the horn (*śṛṅga*), because it arises slightly (little) on the head, is explained as having the sense of the word *opaśa*. In the matter of Indra's supporting the three worlds, it is explained in one way by comparing him to a bull, which carries without effort the horn that has grown in a slight rise on its head. In the second meaning: "*parasparaṃ samīpe vartamānaṃ kṣity-antarikṣākhyaṃ lokadvayam opaśaṃ tad iva dyāṃ bibharti | lokatrayam api bibhartīty arthaḥ*" — as one holds the two worlds, known as earth and atmosphere, which lie close to each other, so Indra holds the world of heaven; the sense is that he holds the three worlds. By this the abundant greatness of Indra, who guards the three worlds without effort, is described.
+
+***rodasī*** — *rodasī* means heaven and earth. The word *rodasī*, which is a "marked" (*aṅkita*) name, in many contexts also indicates the name of a person (the wife of Rudra). Therefore this word is used both in the singular and in the dual; the meaning is to be given according to the contexts. The Nirukta-writers, quoting
+
+> उताभये पुरुहूत श्रवोभिरेको दृळ्हमवदो वृत्रहा सन् । इमे चिदिन्द्र रोदसी अपारे यत्संगृभ्णा मघवन् काशिरित्ते ॥
+
+> *utābhaye puruhūta śravobhir eko dṛḷham avado vṛtrahā san | ime cid indra rodasī apāre yat saṃgṛbhṇā maghavan kāśir it te ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-30-5 [?]), in explaining the word *rodasī* there, say
+
+> रोदसी द्यावापृथिव्यौ विरोधनात् ।
+
+> *rodasī dyāvāpṛthivyau virodhanāt |*
+
+(Ni. 6-1 [?]) — since both are bound and restricted by a limited boundary (*sīmā*), the name *rodasī* is known for heaven and earth; this is the derivation of the dual *rodasī*. Again, to give the meaning of the word in the singular, they say
+
+> रोदसी रुद्रस्य पत्नी
+
+> *rodasī rudrasya patnī*
+
+(Ni. 11-49 [?]) — *rodasī* is the wife of Rudra; and
+
+> रथं नु मारुतं वयं श्रवस्युमा हुवामहे । आ यस्मिन्तस्थौ सुरणानि बिभ्रती सचा मरुत्सु रोदसी ॥
+
+> *rathaṃ nu mārutaṃ vayaṃ śravasyum ā huvāmahe | ā yasmin tasthau suraṇāni bibhratī sacā marutsu rodasī ‖*
+
+(Ṛ. Saṃ. 5-56-8 [?]).
+
+### Printed p. 276  (PDF 296)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+— quoting this ṛk, he points out that here *rodasī* is the "marked" name meaning Rudra's wife. But here another problem arises: *rudrapatnī*, "Rudra's wife" — either the wife of the deity Rudra, or — since the word *rudra* may also mean the Maruts — the consort of the Marut deities: to leave room for this doubt, Sāyaṇa has commented in two ways. Explaining the ṛk at hand, he says:
+
+> रोदसी रुद्रस्य पत्नी मरुतां माता । यद्वा रुद्रो वायुः । तस्य पत्नी माध्यमिका देवी ॥
+
+> *rodasī rudrasya patnī marutāṃ mātā | yadvā rudro vāyuḥ | tasya patnī mādhyamikā devī ‖*
+
+(Sā. Bhā.). *Rodasī* may be one meaning: the wife of Rudra and the mother of the Maruts. Or, since the word *rudra* has the meaning "wind", *rodasī* is the wife of the wind: the speech of the middle region (*mādhyamikā vāk*): thus it is explained in two ways. And
+
+> परा शुभ्रा अयासो यव्या साधारण्येव मरुतो मिमिक्षुः । न रोदसी अप नुदन्ते घोरा जुषन्त वृधं सख्याय देवाः ॥
+
+> *parā śubhrā ayāso yavyā sādhāraṇyeva maruto mimikṣuḥ | na rodasī apa nudante ghorā juṣanta vṛdhaṃ sakhyāya devāḥ ‖*
+
+(Ṛ. Saṃ. 1-167-4 [?]) — in explaining this ṛk, as shown before:
+
+> रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । अपरे तु मरुतां स्त्रियो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्त उत्तरत्रैवं व्यवहारात् ।
+
+> *rodasā śabdena rodanasvabhāvo rudraḥ | tasya strī rodasīti kecid āhuḥ | apare tu marutāṃ striyo rodasīti nāmadheyam ity āhuḥ | ayam eva pakṣo yukta uttaratraivaṃ vyavahārāt |* [as read: [?]]
+
+By the word *rodasa*, Rudra, of weeping nature; his wife is *rodasī*, some say; others say that the wives of the Maruts bear the name *rodasī*. This latter view is the proper one, because of the usage in what follows: this is the opinion he gives. *Rodasī* is thus (one view) the wife of Rudra; (another) the wife of the Maruts; of these the second seems the right one, he says. Further —
+
+> जोषद्यदीमसुर्या सचध्यै विषितस्तुका रोदसी नृमणाः ॥
+
+> *joṣad yad īm asuryā sacadhyai viṣitastukā rodasī nṛmaṇāḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-167-5 [?]) — in explaining this ṛk he states that *rodasī* here is *marutpatnī* "Maruts' wife", *vidyut* "lightning"; she is the wife of the Maruts, or is known by this name *vidyut* ("lightning"). He has also quoted the passage in which this *rodasī* is stated to be present in the sight of (i.e. as an attendant of) the Maruts. Further, examining other cases where *rodasī* is used —
+
+> ते इदुग्राः शवसा धृष्णुषेणा उभे युजन्त रोदसी सुमेके । अध स्मैषु रोदसी स्वशोचिरामवत्सु तस्थौ न रोकः ॥
+
+> *te id ugrāḥ śavasā dhṛṣṇuṣeṇā ubhe yujanta rodasī sumeke | adha smaiṣu rodasī svaśocir āmavatsu tasthau na rokaḥ ‖*
+
+(Ṛ. Saṃ. 6-66-6 [?]) — in this single ṛk the word *rodasī* has been used in two meanings. Here, for the first word Sāyaṇa gives "*dyāvāpṛthivyau*" ("heaven and earth"), and for the second "*rudrasya patnī mādhyamikī vāk*" ("Rudra's wife, the speech of the middle region"). And again —
+
+---
+
+**Progress note:** printed p. 276 (PDF 296) done — Sūkta 173 Ṛk 6 Special Topics (rodasī discussion continues p. 277). Next: printed p. 277 (PDF 297). Open flags: Ṛg/Nirukta refs [?]; some quoted verses and Sāyaṇa's rodasā passage read approx [?]; review/doubts_v13.json.
