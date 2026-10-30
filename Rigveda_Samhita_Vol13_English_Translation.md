@@ -4596,4 +4596,60 @@ Addressing the Marut-gods by "*he marutaḥ*", ***vedyābhiḥ rarāṇatā*** �
 
 ---
 
-**Progress note:** printed p. 200 (PDF 220) done — Sūkta 171 Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha written (Bhāvārtha on p. 201). Next: printed p. 201 (PDF 221). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 201  (PDF 221)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11".)*
+
+**Bhāvārtha.** O Marut-gods, this praise of ours, accompanied by salutation (oblation) for you, has been composed with the whole heart. Accept it with respect and, since you are the increasers of the oblation, come with glad hearts to receive our oblation.
+
+**English Translation (as printed):** This praise, accompanied by offerings, Maruts, ir [sic] for you, offered from the heart: accept it, divinities, with favour, and come with willing minds (to receive) these (laudations), for you are the augmenters of sacrificial food.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***vaḥ stomaḥ namasvān hṛdā taṣṭaḥ*** — *idānīṃ kriyamāṇaprakāraḥ havirlakṣaṇānnavān yuṣmannivedanabuddhyai saṃpāditaḥ*: our hymn, addressed to the Marut-gods and being recited for them, and our wish to offer the oblation prepared for them, are both intended only to obtain their favour; and by "*manasā dhāyi asmadanugrahavatā cittena dhāryatām*" it is prayed that the shining Marut-gods may hear our praises with a mind of favour towards us.
+
+Here the words *hṛdā taṣṭaḥ manasā dhāyi* make clear the poet's intention in the composition. They indicate the skill and the delight-giving quality of the poet's making.
+
+***taṣṭaḥ*** — "*takṣatiḥ karotikarmā*" (Ni. 4-[?]). This word is used wherever a skill of construction is indicated.
+
+> आ ते अग्न ऋचा हविर्हृदा तष्टं भरामसि ।
+
+> *ā te agna ṛcā havir hṛdā taṣṭaṃ bharāmasi |*
+
+(Ṛ. Saṃ. 6-16-47 [?])
+
+> हृदिस्पृशो मनसा वच्यमाना अस्मभ्यं चित्रं वृषणं रयिं दाः ।
+
+> *hṛdispṛśo manasā vacyamānā asmabhyaṃ citraṃ vṛṣaṇaṃ rayiṃ dāḥ |*
+
+(Ṛ. Saṃ. 10-47-2 [?]). As described in places like these, the meaning is that both the quality of giving delight to the mind and the skill that goes with devotion are present.
+
+***manasā juṣāṇāḥ īṃ upā yāta*** — *ādarayā buddhyā enāṃ stutiṃ taddhaviś ca sevamānāḥ mā vilambaṃ kuruta*: "with a mind of affection towards us who praise, come in haste, so that you may hear our praise and partake of our oblation; may it come to our sacrifice": thus the prayer is made. Here, regarding the particle *īm*, (the Nirukta says:) "*atha ye … [as read]*" (Ni. 1-[?])
+
+### Printed p. 202  (PDF 222)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+— the particles *kam*, *īm*, *it*, *u* are used in sentences as fillers of the sentence, and in metres as fillers of the word, say the Nirukta-writers. But "*evam uccāvaceṣv artheṣu nipatanti te upekṣitavyāḥ …*" [as read; Ni. 1-9 [?]]: since it has been said that the use of these in a given text must be understood according to the meaning and the rules of that śāstra, here Sāyaṇa gives, for the particle *īm*, the meaning *enāṃ stutim*, "this praise". The word *it* is described as used in the sense of a filler (*padapūraṇa*). *Yūyaṃ namasaḥ vṛdhāsaḥ stha hi* — "*havīrūpasya annasya vardhayitāro bhavatha khalu*": the Marut-gods are indeed the increasers of food in the form of the oblation: this is a well-established matter.
+
+> रोदसी हि मरुतश्चक्रिरे वृधे मदन्ति वीरा विदथेषु घृष्वयः ।
+
+> *rodasī hi marutaś cakrire vṛdhe madanti vīrā vidatheṣu ghṛṣvayaḥ |*
+
+(Ṛ. Saṃ. 1-85-1). Since the Marut-gods are the cause of the increase of heaven and earth, and also the cause of the growth of the world, the sacrificers, by their favour, rejoice in the sacrifices and in the accomplishment of the wealth of their lives; their happiness and delight are described in many places. But here one point has to be noted: in one or two places it is stated that the Marut-gods, apart from being the producers of the food that is useful for the oblation, do not themselves partake of the oblation as other deities do. For example:
+
+> अहुतादो वा देवानां मरुतः [?]
+
+> *ahutādo vā devānāṃ marutaḥ [?]*
+
+(Śat. Brā. 4-5-2-16 [?]). Although it is stated emphatically that the Marut-gods do not eat what has been offered, it must be noted that in those places the word *ahuta* ("unoffered") food does not mean the oblation that is generally offered. Therefore in the present ṛk, for "*vaḥ stomaḥ namasvān hṛdā taṣṭaḥ*", the meaning that the hymn was composed together with oblation-food is natural.
+
+> सीदता बर्हिरुरु वः सदस्कृतं मादयध्वं मरुतो मध्वो अन्धसः ।
+
+> *sīdatā barhir uru vaḥ sadaskṛtaṃ mādayadhvaṃ maruto madhvo andhasaḥ |*
+
+(Ṛ. Saṃ. 1-85-6). In places such as these, the prayer "be satisfied with the drinking of the sweet *soma* juice" is clear.
+
+---
+
+**Progress note:** printed p. 202 (PDF 222) done — Sūkta 171 Ṛk 2 through Special Topics (grammar on p. 203). Next: printed p. 203 (PDF 223). Open flags: Nirukta quotation on 'īm' (p. 201–202) garbled [?]; small-type numerals [?]; review/doubts_v13.json.
