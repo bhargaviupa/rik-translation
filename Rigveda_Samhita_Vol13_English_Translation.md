@@ -3672,4 +3672,48 @@ In the second meaning: "*tośatirvadhakarmā nitośayati nibarhayatīti*" (Ni. 2
 
 ---
 
-**Progress note:** printed p. 164 (PDF 184) done — Sūkta 169 Ṛk 5 through first grammar notes (continues p. 165). Next: printed p. 165 (PDF 185). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 165  (PDF 185)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9"; grammar of Ṛk 5 concluded.)*
+
+*(Grammar, noted briefly)*: *ṛtāyoḥ* (*ṛtam ātmana icchati ṛtāyati*; affix *kyac* by "*supa ātmanaḥ kyac*", Pā. Sū. 3-1-8 [?]; lengthening of the preceding vowel by "*ānyeṣām api dṛśyate*", Pā. Sū. 6-3-137 [?]; the affix *u* after a *kyac*-ending root by "*kyācchandasi*", Pā. Sū. 3-2-170 [?]; loss of the *a* of *kyac* by "*ato lopaḥ*"; accent by the affix); *mṛḷayantu* (root *mṛḍa sukhane*; *loṭ* after the causal; 3rd plural; *nighāta*); *gātuyanti* (*gātuṃ gamanam ātmana icchanti*; *kyac* by "*supa ātmanaḥ kyac*"; "*sanādyantā dhātavaḥ*" gives the name of a root; *laṭ* after the *kyac*-ending root, 3rd plural; since the word *yajña* is not connected there is no *nighāta*; the accent of *kyac* remains). ‖ 5 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> प्रति प्र याहीन्द्र मीळ्हुषो नॄन्महः पार्थिवे सदने यतस्व ।
+> अध यदेषां पृथुबुध्नास एतास्तीर्थे नार्यः पौंस्यानि तस्थुः ॥ ६ ॥
+
+> *prati pra yāhīndra mīḷhuṣo nṝnmahaḥ pārthive sadane yatasva |*
+> *adha yadeṣāṃ pṛthubudhnāsa etāstīrthe nāryaḥ pauṃsyāni tasthuḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रति । प्र । याहि । इन्द्र । मीळ्हुषः । नॄन् । महः । पार्थिवे । सदने । यतस्व ।
+> अध । यत् । एषाम् । पृथुऽबुध्नासः । एताः । तीर्थे । न । अर्यः । पौंस्यानि । तस्थुः ॥ ६ ॥
+
+> *prati | pra | yāhi | indra | mīḷhuṣaḥ | nṝn | mahaḥ | pārthive | sadane | yatasva |*
+> *adha | yat | eṣām | pṛthu 'budhnāsaḥ | etāḥ | tīrthe | na | aryaḥ | pauṃsyāni | tasthuḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं मीळ्हुष उदकसेक्तॄन्नॄन्नेतॄन्नराकारान्महो महतो मेघान् प्रति प्र याहि । अभिगच्छ । मेघानां वृत्ररूपेण नराकारत्वं युक्तम् । गत्वा च पार्थिवे सदने । पृथिवीत्यन्तरिक्षनाम । तत्संबन्धिनि स्थाने यतस्व । प्रयत्नं कुरु । तैः सह युध्यस्वेत्यर्थः । यद्वा । हविष्प्रदातॄन् कर्मनिर्वाहकान् महतो यजमानान् प्रति गच्छ । गत्वा च पार्थिवे सदने देवयजने यतस्व । यत्नं कुरु हविर्भोजनाय । अथापि यदैषां त्रैत्नाहाय्यकारिणां मरुतां संबन्धिनः पृथुबुध्नासो विस्तीर्णमूला एताः पृषद्वर्णा गन्तारो वाश्वा अर्योऽरेः शत्रोः पौंस्यानि तीर्थे न युद्धमार्ग इव तस्थुः तिष्ठन्ति मेघानाक्रमन्ते । यद्वा । येषां मरुतां पृथुबुध्नासो बृहन्मूला एताः कृष्णवर्णा मेघास्तिष्ठन्ति । तत्र दृष्टान्तः । अर्योऽरणीयस्य स्वामिनः पौंस्यानि बलानि तीर्थे न राजवीथ्यां यथा तिष्ठन्ति तद्वत् ॥ [several words doubtful: त्रैत्नाहाय्यकारिणां, पृषद्वर्णा, अर्योऽरणीयस्य]
+
+*Gist:* Indra is to go against the great man-shaped (cloud) foes and strive in the aerial abode; or to the sacrificers on earth for the oblations; the broad-rooted steeds of the Maruts stand like armies at a ford.
+
+### Printed p. 166  (PDF 186)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+**Pratipadārtha.** *atha yat* — when; *eṣām* — (of the Marut-gods who help you) of these; *pṛthubudhnāsaḥ* — broad-rooted (extended at the base); *etāḥ* — these variously coloured horses; *aryaḥ* — of the enemy; *pauṃsyāni* — armies (strengths); *tīrthe na* — as at a battle-ford (as they stand); [*or* *pṛthubudhnāsaḥ* — those of great roots; *etāḥ* — these black clouds; *aryaḥ* — of the master (the sacrificer); *pauṃsyāni* — forces; *tīrthe na* — as in the royal street]; *tasthuḥ* — stand; *(tadā* — then*)* *(he)* *indra* — O Indra; *(tvam* — you*)* *mīḷhuṣaḥ* — those who shed water; *nṝn* — man-formed (clouds); *mahaḥ prati* — towards great clouds; *pra yāhi* — go; *(anantara* — afterwards*)* *pārthive sadane* — in the place of the atmosphere; *yatasva* — strive (make an effort in battle); [*or* *mīḷhuṣaḥ* — givers of oblations; *nṝn* — performers of rites; *mahaḥ* — honoured sacrificers; *prati pra yāhi* — go toward with the intention; *(tataḥ)* *pārthive sadane* — in the sacrificial hall belonging to the earth; *yatasva* — make an effort (to partake of the oblations)].
+
+**Bhāvārtha.** O Indra, going against the great clouds of human form (in the form of Vṛtra and the like) that abide in the sky, fight with them (or: setting out toward the honoured sacrificers who offer oblations, strive in the sacrificial halls for the food of the oblations); at that time the broad-rooted horses belonging to the Marut-gods stand ready for your help, like the armies of an enemy standing at the battle-ford.
+
+**English Translation (as printed):** Go, Indra, to the mighty rain-shedding leaders (of the clouds), and exert yourself in (your) aerial dwelling; for their broad-footed steeds stand (firm) like the manly energies of an enemy in the field of battle.
+
+---
+
+**Progress note:** printed p. 166 (PDF 186) done — Sūkta 169 Ṛk 5 complete; Ṛk 6 Saṃhitā to printed English (Special Topics on p. 167). Next: printed p. 167 (PDF 187). Open flags: Ṛk 6 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
