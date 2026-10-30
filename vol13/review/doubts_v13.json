@@ -2878,5 +2878,29 @@
   ],
   "note": "grammar sutra numerals small; 'yebhih' note read approx",
   "answer": ""
+ },
+ {
+  "pdf": 349,
+  "printed": 329,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya dense: 'vrtyaye na parasmaipadam', 'sibbahulam', 'tavaitat sutaye', 'trasminhimajajnapanaya' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 350,
+  "printed": 330,
+  "crop": [
+   0.8,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 1-113-1? small; quote idam sresttham jyotisam read approx",
+  "answer": ""
  }
 ]
