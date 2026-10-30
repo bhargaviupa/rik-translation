@@ -16825,4 +16825,74 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 600 (PDF 620) done — Sūkta 182 Ṛk 2 Special Topics (indratamā derivations, marutvatamā, daṃsiṣṭhā, rathītamā, madhvaḥ); grammar next. Next: printed p. 601 (PDF 621). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 601  (PDF 621)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 601.)*
+
+> इदं वै तन्मधु दध्यङ्ङाथर्वणोऽश्विभ्यामुवाच । तदेतदृषिः पश्यन्नवोचत् ।
+
+> *idaṃ vai tanmadhu dadhyaṅṅātharvaṇo 'śvibhyāmuvāca | tadetadṛṣiḥ paśyannavocat |*
+
+(Bṛ. U. 2-5-16 [?]) — thus the story is well known that Dadhīci, the son of Atharvan, taught the *madhu-vidyā* to the Aśvin deities. Since the Aśvin deities were the teachers of this *madhuvidyā*, which is the basis of spiritual knowledge, there is a figurative description that they come filling their chariot with this knowledge. This very point is:
+
+> त्रयः पवयो मधुवाहने रथे सोमस्य वेनामनु विश्व इद्विदुः ।
+
+> *trayaḥ pavayo madhuvāhane rathe somasya venāmanu viśva idviduḥ |*
+
+(Ṛ. Saṃ. 1-34-2 [?])
+
+> अधि वां स्थामु वन्धुरे रथे दस्रा हिरण्यये ।
+> पथेव यन्तावनुशासता रजोऽञ्जसा शासता रजः ॥
+
+> *adhi vāṃ sthāmu vandhure rathe dasrā hiraṇyaye |*
+> *patheva yantāvanuśāsatā rajo 'ñjasā śāsatā rajaḥ ‖*
+
+(Ṛ. Saṃ. 1-119-4 [?]) — in many ṛks, such as these, it is shown by the epithets "*madhuvāhane rathe*" and "*hiraṇyaye rathe*". "*Hiraṇyaye rathe*" too, as before, means "in the chariot filled with honey (*madhu*)". Therefore, for the epithet **madhvaḥ** here, a special meaning must be told. How this *madhuvidyā* came to the Aśvin deities:
+
+> दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाच ॥
+
+> *dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvāca ‖*
+
+(Ṛ. Saṃ. 1-116-12) — Sāyaṇa, explaining this ṛk, has told it with the story context. Its substance was told earlier. The same story, repeated here, is told in the Śatapatha Brāhmaṇa, and the very form of this *madhuvidyā* is described in the Upaniṣads etc.; this is to be understood here. This context in the Śatapatha Brāhmaṇa (Śa. Brā. 14-1-1-18 to 25 [?]) runs thus:
+
+> दध्यङ् ह वा आथर्वणः । एकं शुक्रमेतं यज्ञं विदांचकार । यथा यथैतद्यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति । सहेन्द्रेणोक्त आस । एतं चेदन्यस्मा अनुब्रूयास्ते एव ते शिरश्छिन्द्यामिति ।
+
+> *dadhyaṅ ha vā ātharvaṇaḥ | ekaṃ śukrametaṃ yajñaṃ vidāṃcakāra | yathā yathaitadyajñasya śiraḥ pratidhīyate yathaiṣa kṛtsno yajño bhavati | sahendreṇokta āsa | etaṃ cedanyasmā anubrūyāste eva te śiraśchindyāmiti |*
+
+(Sanskrit as read; doubtful in places [?]) — Dadhīci Ātharvaṇa, son of Atharvan, knew this pure sacrificial doctrine: how the head of the sacrifice is set back again, and how the sacrifice becomes complete. Indra told him: "If you tell this to anyone else, I shall cut off your head."
+
+### Printed p. 602  (PDF 622)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 602.)*
+
+> तदु हाश्विनोरनुश्रुतमास । दध्यङ् ह वा आथर्वण एतं शुक्रमेतं यज्ञं वेद यथैतद्यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति ।
+
+*(Sanskrit as read [?]).* Then the Aśvin deities, hearing of this prohibition of Indra, still wished to obtain from Dadhīci the sacrificial doctrine he knew:
+
+> तौ हेत्योचतुः । उप त्वायाव एति किमनुवक्ष्यमाणावित्येतं शुक्रमेतं यज्ञं यथा …… कृत्स्नो यज्ञो भवतीति ।
+
+> *tau hetyocatuḥ | upa tvāyāva eti kimanuvakṣyamāṇāvityetaṃ śukrametaṃ yajñaṃ yathā …… kṛtsno yajño bhavatīti |*
+
+(print has a row of dots in the middle) — then they went to Dadhīci, and asked that they themselves be made his pupils, so that they too might learn that doctrine and he might teach them.
+
+> स होवाच । इन्द्रेण वा उक्तोऽस्म्येतं चेदन्यस्मा अनुब्रूयास्ते एव ते शिरश्छिन्द्यामिति तस्माद्वै बिभेमि यद्वै मे स शिरो न विन्द्यान्न वामुपनेष्य इति ।
+
+> *sa hovāca | indreṇa vā ukto 'smyetaṃ cedanyasmā anubrūyāste eva te śiraśchindyāmiti tasmādvai bibhemi yadvai me sa śiro na vindyānna vāmupaneṣya iti |*
+
+(as read [?]) — knowing the command Indra had given him, he said that he could not accept them as pupils.
+
+> तौ होचतुः । आवां त्वा तस्मात्त्रायस्यावह इति कथं मा त्रास्येथे इति यदा नौ उपनेष्यसेऽथ शिरश्छित्वान्यत्रापनिधास्यावोऽथाश्वस्य शिर आहृत्य तत्ते प्रतिधास्यावस्तेन नावनुवक्ष्यसि स यदा नावनुवक्ष्यस्यथ ते तदिन्द्रः शिरश्छेत्स्यत्यथ ते स्वं शिर आहृत्य तत्ते प्रतिधास्याव इति तथेति ।
+
+> *tau hocatuḥ | āvāṃ tvā tasmāttrāyasyāvaha iti kathaṃ mā trāsyethe iti yadā nau upaneṣyase 'tha śiraśchitvānyatrāpanidhāsyāvo 'thāśvasya śira āhṛtya tatte pratidhāsyāvastena nāvanuvakṣyasi sa yadā nāvanuvakṣyasyatha te tadindraḥ śiraśchetsyatyatha te svaṃ śira āhṛtya tatte pratidhāsyāva iti tatheti |*
+
+(as read [?]) — to this they replied: "We shall protect you from that." "How will you protect me?" he asked. "When you accept us as pupils, we shall cut off your head and put it elsewhere, and bring a horse's head and set it on you; with it you will teach us. When you have taught us, Indra will cut off that head of yours; then we shall bring your own head and set it back on you." He agreed, saying "So be it."
+
+> तौ होपनिन्येते । तौ यदोपनिन्येऽथास्य शिरश्छित्वान्यत्रापनिदधतुरथाश्वस्य शिर आहृत्य तदस्य प्रतिदधतुस्तेन हाभ्यामनूवाच स यदाभ्यामनूवाचाथास्य तदिन्द्रः शिरश्चिच्छेदाथास्य स्वं शिर आहृत्य तदस्य प्रतिदधतुः ।
+
+> *tau hopaninyete | tau yadopaninye 'thāsya śiraśchitvānyatrāpanidadhaturathāśvasya śira āhṛtya tadasya pratidadhatustena hābhyāmanūvāca sa yadābhyāmanūvācāthāsya tadindraḥ śiraścicchedāthāsya svaṃ śira āhṛtya tadasya pratidadhatuḥ |*
+
+(as read [?]; several words doubtful) — Straightway the two accepted the pupilhood and he gave the instruction; then Indra came and cut off that horse's head; at once the Aśvin deities set Dadhīci's own head back again.
+
+---
+
+**Progress note:** printed p. 602 (PDF 622) done — Sūkta 182 Ṛk 2 Special Topics (madhuvidyā; Dadhīci story from Śatapatha Brāhmaṇa; continues p. 603). Next: printed p. 603 (PDF 623). Open flags: refs [?]; Sanskrit of Brāhmaṇa passage doubtful [?]; review/doubts_v13.json.
