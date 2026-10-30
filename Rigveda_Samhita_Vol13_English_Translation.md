@@ -15777,4 +15777,56 @@ The Nirukta-writers have read the word *dhiṣaṇā* among the names of "speech
 
 ---
 
-**Progress note:** printed p. 564 (PDF 584) done — Sūkta 181 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya, Pratipadārtha written (Bhāvārtha next). Next: printed p. 565 (PDF 585). Open flags: refs [?]; bhāṣya Ṛk4 dense [?]; review/doubts_v13.json.
+### Printed p. 565  (PDF 585)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 565.)*
+
+**Bhāvārtha**
+
+O Aśvin deities, who are born in the middle region (the intermediate region) and in the highest region (heaven), possessed of bodies of defined (specific) form, with names such as Nāsatya! You two, united, are praised again and again (or you become desired at the sacrifice); one of you, the master of the middle region, victorious, in the form of the Moon, impelling the sacrifice through the growth of the herbs; the other, the son-like of the highest region, heaven, in the form of the Sun, causing the world to prosper through his rays; in this way you two protect this universe.
+
+**Printed English**
+
+> Born here (in the middle region) and here (in the upper region), you are glorified together, as faultless in your forms and (perfect in your own many excellences): one (of you), the victorious son (of the firmament), the devout (promoter) of sacred sacrifices, the other, tee [sic] auspicious son of heaven, (each) upholds (the world).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***jiṣṇur vām anyaḥ sumakhasya sūrir divo anyaḥ subhagaḥ putra ūhe*** — in this sentence the individual nature and the function of the Aśvin deities are shown. To explain their individual nature definitively is not easy; but, on the basis of the *śruti* sentences, on the opinions of scholars following the Vedic tradition, and by citing the views of English critics, the idea told in the ṛk at hand is examined here as far as possible.
+
+"Nāsatya and the rest, deities of defined names, O Aśvins, you two, united, are praised again and again; one of you, in the form of the Moon, belonging to the middle world, victorious, impelling the sacrifice by the growth of the herbs; the other, in the form of the Sun, the son-like of the upper region, protecting the world by his rays" — thus is their individual form described in the ṛk at hand; in the Nirukta this passage is explained thus:
+
+> इहेह च जातौ संस्तूयेते पापेनालिप्यमानया तन्वा नामभिश्च स्वैर्जिष्णुर्वामन्यः सुमहतो बलस्येरयिता मध्यमो दिवोऽन्यः सुभगः पुत्र ऊह्यत आदित्यः ॥
+
+> *iheha ca jātau saṃstūyete pāpenālipyamānayā tanvā nāmabhiśca svairjiṣṇurvāmanyaḥ sumahato balasyerayitā madhyamo divo 'nyaḥ subhagaḥ putra ūhyata ādityaḥ ‖*
+
+(Ni. 12-3 [?])
+
+### Printed p. 566  (PDF 586)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 566.)*
+
+> Born here and there, they two are praised together with reference to a body unstained by sin and to their own names. One of you two is the Victor, the furtherer of very great strength, i.e., belongs to the middle region; the other is considered the blessed son of heaven, i.e. the Sun.
+
+The meaning of these sentences is as already stated above. Thus the purport of this ṛk is that one is in the form of the Sun and the other in the form of the Moon, and that both are protectors of the world. But in some other places they are praised in different ways. For that very reason the Nirukta-writers, too, have not given a definitive opinion in this matter but have told other views. That is as follows:
+
+> अश्विनौ यद्व्यश्नुवाते सर्वं रसेनान्यो ज्योतिषान्यः । अश्वैरश्विनावित्यौर्णवाभः । तत्कावश्विनौ द्यावापृथिव्यावित्येके । अहोरात्रावित्येके । सूर्याचन्द्रमसावित्येके । राजानौ पुण्यकृतावित्यैतिहासिकाः ॥
+
+> *aśvinau yadvyaśnuvāte sarvaṃ rasenānyo jyotiṣānyaḥ | aśvairaśvināvityaurṇavābhaḥ | tatkāvaśvinau dyāvāpṛthivyāvityeke | ahorātrāvityeke | sūryācandramasāvityeke | rājānau puṇyakṛtāvityaitihāsikāḥ ‖*
+
+(Ni. 12-1 [?]) — "Of these deities, one pervades everywhere with water (*rasa*), the other with light; hence they have the name Aśvins": this is one view. "By means of horses they are Aśvins," says Aurṇavābha. "Who are these Aśvins?" Some say "heaven and earth"; some say "day and night"; some say "the Sun and the Moon"; the *aitihāsikas* (historians) say "two pious kings". Thus, noting the differences of opinion, citing the ṛk (1-181-4) and another unspecified mantra, they have stated the diversity of views in this matter. First:
+
+> वसातिषु स्म चरथोऽसितौ पेश्वावि [?] ।
+> कदेदमश्विना युवमभि देवा आगच्छतम् ॥ [as read [?]]
+
+> *vasātiṣu sma caratho 'sitau peśvāvi [?] |*
+> *kadedamaśvinā yuvamabhi devā āgacchatam ‖ [as read [?]]*
+
+— as is said in this mantra, one of them is *Vasātiputra* ("the son of the night"), the other *Uṣaḥputra* ("the son of the dawn"); having said this, they afterwards explain, as shown above, citing the ṛk at hand. The scholar Macdonell, giving his opinion on this matter, has said:
+
+> "Though they (Aśvinau [set in Kannada letters]) hold a distinct position among the Deities of of [sic] light and their appellation is Indian, their connection with any definite Phenomena of light is so obscure that their original nature is to Puzzle to [sic] the Vedic interpreters from the earliest times."
+
+[Vedic Mythology, P. 49]
+
+---
+
+**Progress note:** printed p. 566 (PDF 586) done — Sūkta 181 Ṛk 4: Bhāvārtha, printed English, Special Topics (nature of the Aśvins: Ni. 12-1, 12-3; Macdonell; continues p. 567). Next: printed p. 567 (PDF 587). Open flags: refs [?]; review/doubts_v13.json.
