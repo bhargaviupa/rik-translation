@@ -12056,7 +12056,7 @@ asme dhehi jātavedo mahi śravaḥ ||4||*
 
 *Special Topics of Rik 79.4, continued:*
 
-- **सहसो यहो** — "The word *sahas* has the sense 'strength' (Ni. [2-9] [?]); *yahu* means 'son' (Ni. [3-?] [?]); so *sahaso yaho* = 'son of strength', that is, one born by the application of strength (the churning of the sticks), since Agni arises at the end of that effort. It is customary to address Agni by the vocatives *sahaso yaho*, *sahasas putra*, *sahasaḥ sūno*."
+- **सहसो यहो** — "The word *sahas* has the sense 'strength' (Ni. 3-9 [as printed]); *yahu* means 'son' (Ni. 3-2); so *sahaso yaho* = 'son of strength', that is, one born by the application of strength (the churning of the sticks), since Agni arises at the end of that effort. It is customary to address Agni by the vocatives *sahaso yaho*, *sahasas putra*, *sahasaḥ sūno*."
 - **वाजस्य गोमतः** — *bahubhir gobhir yuktasya annasya* — "*Vāja* means food (Ni. [2-7] [?]). 'Food provided with cows' means both the cows and the food; the sense is that of the *lord* (svāmin) of food."
 - **अस्मे धेहि** — *asmāsu sthāpaya* — "'establish among us' means 'give to us'. The word *asme* is used in the Ṛgveda in the sense of all case-endings of *asmad*. On this matter Yāska has explained (Ni. [6-2?] [?]) in this way —
 
@@ -12078,7 +12078,7 @@ asme dhehi jātavedo mahi śravaḥ ||4||*
 > हवे हि वामश्विना रातहव्यः शश्वत्तमाया उषसो व्युष्टौ ॥
 
 *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |
-have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (Ṛk. Saṃ. 1-[118]-[11] [?]) — *Gloss, mine and tentative:* "With the new speed of the falcon, come to us, O Nāsatyas, of one accord; for I, who have offered the oblation, call you, Aśvins, at the dawning of the ever-recurring dawn."
+have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (Ṛk. Saṃ. 1-118-11) — *Gloss, mine and tentative:* "With the new speed of the falcon, come to us, O Nāsatyas, of one accord; for I, who have offered the oblation, call you, Aśvins, at the dawning of the ever-recurring dawn."
 
 — they have given this Ṛk. The word *asme* in this Ṛk means *asmān*, 'us'."
 
@@ -12096,7 +12096,7 @@ have hi vām aśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ||* (�
 > भूरीणि हि कृणवामा शविष्ठेन्द्र क्रत्वा मरुतो यद्वशाम ॥
 
 *bhūri cakartha yujyebhir asme samānebhir vṛṣabha pauṃsyebhiḥ |
-bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yad vaśāma ||* (Ṛk. Saṃ. 1-[165]-[7?] [?]) — *Gloss, mine and tentative:* "Much you have done with your fitting, equal deeds of manliness, O bull, with us; many (deeds) we shall do, O mightiest Indra, by (our) skill, if we, the Maruts, so wish." *(The words are read as printed; the sense is uncertain to me.)*
+bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yad vaśāma ||* (Ṛk. Saṃ. 1-165-7) — *Gloss, mine and tentative:* "Much you have done with your fitting, equal deeds of manliness, O bull, with us; many (deeds) we shall do, O mightiest Indra, by (our) skill, if we, the Maruts, so wish." *(The words are read as printed; the sense is uncertain to me.)*
 
 — "they have given this Ṛk as an example; here *asme* means *asmābhiḥ*, 'by us'.
 
@@ -12108,7 +12108,7 @@ bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yad vaśāma ||* 
 > अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इन्द्र शिप्रिन् ॥
 
 *asme pra yandhi maghavann ṛjīṣinn indra rāyo viśvavārasya bhūreḥ |
-asme śataṃ śarado jīvase dhā asme vīrāñ chaśvata indra śiprin ||* (Ṛk. Saṃ. 2-[31?]-[10] [?]) — *Gloss, mine and tentative:* "Bestow on us, O Maghavan, O Indra, drinker of the soma-dregs [?], much wealth that all would choose; give us a hundred autumns to live; (give) us heroes, O Indra of the fine helmet, for ever."
+asme śataṃ śarado jīvase dhā asme vīrāñ chaśvata indra śiprin ||* (Ṛk. Saṃ. 3-36-10 [as printed]) — *Gloss, mine and tentative:* "Bestow on us, O Maghavan, O Indra, drinker of the soma-dregs [?], much wealth that all would choose; give us a hundred autumns to live; (give) us heroes, O Indra of the fine helmet, for ever."
 
 In the words *asme* of this Ṛk the sense is the fourth case, *asmabhyam*, 'to us'.
 
@@ -12120,7 +12120,7 @@ In the words *asme* of this Ṛk the sense is the fourth case, *asmabhyam*, 'to 
 > स सुत्रामा स्ववाँ इन्द्रो अस्मे आराच्चिद्द्वेषः सनुतर्युयोतु ॥
 
 *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |
-sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu ||* (Ṛk. Saṃ. 6-[47]-[13] [?]) — *Gloss, mine and tentative:* "May we be in the favour of him, the worthy of sacrifice, in his fortunate good-will; may he, Indra, the good protector, the rich in his own, keep far from us, away, hatred."
+sa sutrāmā svavāṃ indro asme ārāc cid dveṣaḥ sanutar yuyotu ||* (Ṛk. Saṃ. 6-47-13) — *Gloss, mine and tentative:* "May we be in the favour of him, the worthy of sacrifice, in his fortunate good-will; may he, Indra, the good protector, the rich in his own, keep far from us, away, hatred."
 
 In the word *asme* of this Ṛk the sense is the fifth case, 'from our side', *asmat*.
 
@@ -12132,7 +12132,7 @@ In the word *asme* of this Ṛk the sense is the fifth case, 'from our side', *a
 > ऊर्व इव पप्रथे कामो अस्मे तमा पृण वसुपते वसूनाम् ॥
 
 *ā no bhara bhagam indra dyumantaṃ ni te deṣṇasya dhīmahi prareke |
-ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām ||* (Ṛk. Saṃ. 3-[3?]-[19?] [?]) — *Gloss, mine and tentative:* "Bring us, O Indra, a shining portion; may we hold (it) in our mind as the surplus of your gift; (our) desire has spread (wide) like the sea; fulfil it, O lord of goods, of the goods."
+ūrva iva paprathe kāmo asme tam ā pṛṇa vasupate vasūnām ||* (Ṛk. Saṃ. 3-31-19) — *Gloss, mine and tentative:* "Bring us, O Indra, a shining portion; may we hold (it) in our mind as the surplus of your gift; (our) desire has spread (wide) like the sea; fulfil it, O lord of goods, of the goods."
 
 In the word *asme* of this Ṛk the sixth case, *asmākam* 'our', 'to us'.
 
@@ -12144,7 +12144,7 @@ In the word *asme* of this Ṛk the sixth case, *asmākam* 'our', 'to us'.
 > अस्मे धेहि जातवेदो महि श्रवः ॥
 
 *agne vājasya gomata īśānaḥ sahaso yaho |
-asme dhehi jātavedo mahi śravaḥ ||* (Ṛk. Saṃ. 1-[79]-4) — this very Ṛk.
+asme dhehi jātavedo mahi śravaḥ ||* (Ṛk. Saṃ. 1-79-4) — this very Ṛk.
 
 In the word *asme* of this Ṛk the seventh case, *asmāsu*, 'in us'."
 
@@ -12309,11 +12309,11 @@ sa tigmajambha rakṣaso daha prati ||6||*
 
 > अव त्मना भरते केतवेदा अव त्मना भरते फेनमुदन् ।
 
-*ava tmanā bharate ketavedā ava tmanā bharate phenam udan |* (Ṛk. Saṃ. 1-[104]-3 [?]) — *Gloss, mine and tentative:* "By himself the finder of signs brings down; by himself he brings down the foam in the water." (Sense uncertain to me.)
+*ava tmanā bharate ketavedā ava tmanā bharate phenam udan |* (Ṛk. Saṃ. 1-104-3) — *Gloss, mine and tentative:* "By himself the finder of signs brings down; by himself he brings down the foam in the water." (Sense uncertain to me.)
 
 > जगृभ्मा दूरआदिशं श्लोकमद्रेरध त्मना ।
 
-*jagṛbhmā dūrā-ādiśaṃ ślokam adrer adha tmanā |* (Ṛk. Saṃ. 1-[139]-10 [?]) — *the words as read; the reading* dūra-ādiśam *is doubtful [?]. Gloss, mine and tentative:* "We have taken hold, by ourselves, of the far-reaching call (praise) of the stone [?]."
+*jagṛbhmā dūrā-ādiśaṃ ślokam adrer adha tmanā |* (Ṛk. Saṃ. 1-139-10) — *the words as read; the reading* dūra-ādiśam *is doubtful [?]. Gloss, mine and tentative:* "We have taken hold, by ourselves, of the far-reaching call (praise) of the stone [?]."
 
 > त्वं वातैररुणैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ।
 
@@ -12321,11 +12321,11 @@ sa tigmajambha rakṣaso daha prati ||6||*
 
 > जातो आपृणो भुवनानि रोदसी अग्ने ता विश्वा परिभूरसि त्मना ।
 
-*jāto āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (Ṛk. Saṃ. 3-[3]-10 [?]) — *Gloss, mine and tentative:* "Being born you filled the worlds, the two firmaments; O Agni, all these you encompass by yourself."
+*jāto āpṛṇo bhuvanāni rodasī agne tā viśvā paribhūr asi tmanā |* (Ṛk. Saṃ. 3-3-10) — *Gloss, mine and tentative:* "Being born you filled the worlds, the two firmaments; O Agni, all these you encompass by yourself."
 
 > परि त्मना मितद्रुरेति होताग्निर्मन्द्रो मधुवचा ऋतावा ।
 
-*pari tmanā mitadrur eti hotāgnir mandro madhuvacā ṛtāvā |* (Ṛk. Saṃ. 4-[6]-[5] [?]) — *Gloss, mine and tentative:* "The Hotṛ Agni, of measured speed, goes round by himself, the joyous, sweet-speeched, the keeper of the *ṛta*."
+*pari tmanā mitadrur eti hotāgnir mandro madhuvacā ṛtāvā |* (Ṛk. Saṃ. 4-6-5) — *Gloss, mine and tentative:* "The Hotṛ Agni, of measured speed, goes round by himself, the joyous, sweet-speeched, the keeper of the *ṛta*."
 
 In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*."
 
@@ -12343,20 +12343,20 @@ In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*
 
 > प्र तां अग्निर्बभसत्तिग्मजम्भस्तपिष्ठेन शोचिषा यः सुराधाः ।
 
-*pra tāṃ agnir babhasat tigmajambhas tapiṣṭhena śociṣā yaḥ surādhāḥ |* (Ṛk. Saṃ. [4]-[5]-4 [?]) — *Gloss, mine and tentative:* "Let Agni, the sharp-jawed, devour them with his hottest flame — he who gives good gifts."
+*pra tāṃ agnir babhasat tigmajambhas tapiṣṭhena śociṣā yaḥ surādhāḥ |* (Ṛk. Saṃ. 4-5-4) — *Gloss, mine and tentative:* "Let Agni, the sharp-jawed, devour them with his hottest flame — he who gives good gifts."
 
 > अस्य त्वा वीर ईवतोऽग्नेरीशीत मर्त्यः ।
 > तिग्मजम्भस्य मीळ्हुषः ॥
 
-*asya tvā vīra īvato 'gner īśīta martyaḥ | tigmajambhasya mīḷhuṣaḥ ||* (Ṛk. Saṃ. 6-[15]-[5] [?]) — *Gloss, mine and tentative:* "Of this you, O hero, the swift Agni, the sharp-jawed, the bountiful, a mortal may become master." (Sense uncertain to me.)
+*asya tvā vīra īvato 'gner īśīta martyaḥ | tigmajambhasya mīḷhuṣaḥ ||* (Ṛk. Saṃ. 4-1[4/5?]-5 [as printed first digit 4; middle digit doubtful]) — *Gloss, mine and tentative:* "Of this you, O hero, the swift Agni, the sharp-jawed, the bountiful, a mortal may become master." (Sense uncertain to me.)
 
 > तिग्मजम्भाय तरुणाय राजते प्रयो गायस्यग्नये ।
 
-*tigmajambhāya taruṇāya rājate prayo gāyasy agnaye |* (Ṛk. Saṃ. 8-[19]-[23] [?]) — *Gloss, mine and tentative:* "To the sharp-jawed, youthful, shining Agni you sing (the offering of) food."
+*tigmajambhāya taruṇāya rājate prayo gāyasy agnaye |* (Ṛk. Saṃ. 8-19-22) — *Gloss, mine and tentative:* "To the sharp-jawed, youthful, shining Agni you sing (the offering of) food."
 
 > यज्ञानां रथ्ये वयं तिग्मजम्भाय वीळवे ।
 
-*yajñānāṃ rathye vayaṃ tigmajambhāya vīḷave |* (Ṛk. Saṃ. 8-[49]-[17] [?]) — *Gloss, mine and tentative:* "(We invoke) the charioteer of the sacrifices, the sharp-jawed, the strong."
+*yajñānāṃ rathye vayaṃ tigmajambhāya vīḷave |* (Ṛk. Saṃ. 8-44-2[6/7?]) — *Gloss, mine and tentative:* "(We invoke) the charioteer of the sacrifices, the sharp-jawed, the strong."
 
 — in these Ṛks alone it occurs, and nowhere else. In all these places this word is used of Agni."
 
