@@ -14422,4 +14422,72 @@ O Dasras! As Bhujyu, the son of Tugra, whose limbs were old, called you of old t
 
 ---
 
-**Progress note:** printed p. 520 (PDF 540) done — Sūkta 180 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (continues p. 521). Next: printed p. 521 (PDF 541). Open flags: refs [?]; Ṛk 5 bhāṣya very dense/doubtful [?]; review/doubts_v13.json.
+### Printed p. 521  (PDF 541)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 521.)*
+
+**Bhāvārtha (continued)** — … serves heaven and earth; O worshipful Aśvins! this ṛṣi, whose limbs are aged, by your favour is freed from old age and attains long life.
+
+**Printed English**
+
+> Dasras, may I bring you, by the vehicle of my prayers, (hither), to bestow (upon me your aid), like the infirm son of Tugra: heaven and earth combine (to worship you) through your greatness: may this, your aged (worshipper), adorable (Ashwins), enjoy long life, (exempt) from sin.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***dasrā*** — "*dasu upakṣaye | śatrūṇām upakṣayitārau | yadvā devavaidyatvena rogāṇām upakṣayitārau*" — "destroyers of enemies; or, being divine physicians, destroyers of diseases". The word *dasrā* also has the sense *darśanīyau* ("beautiful of form"). In the ṛk at hand it is explained as "destroyers of enemies". Of the Aśvins, the sons of Saraṇyū, one has the name Dasra and the other Nāsatya; but in general it is the custom to speak of both together as *dasrā*. The origin and the forms of the Aśvin deities will be explained later in this same portion, in the special topics of Ṛk 1-181-4 [?].
+
+***goḥ ohena*** — of these words two kinds of meaning for *goḥ* have been given. First, "*goḥ stutirūpāyā vācaḥ ohena vahanena sādhanena*" — "by the means of carrying, of the speech in the form of praise"; second, "*goḥ gantryāḥ uṣasaḥ vahanena*" — "by the bringing of the moving Uṣas".
+
+The Nirukta-writers count the word *go* among the names of the earth (Ni. 2-5 [?]), and give the derivation of the word as follows:
+
+> गौरिति पृथिव्या नामधेयं यद्दूरंगता भवति यच्चास्यां भूतानि गच्छन्ति । गातेर्वौकारो नामकरणः ।
+
+> *gauriti pṛthivyā nāmadheyaṃ yaddūraṃgatā bhavati yaccāsyāṃ bhūtāni gacchanti | gātervaukāro nāmakaraṇaḥ |*
+
+(Ni. 2-5 [?]) — because it is spread out very far (it "goes far"), and because beings go about on it: the word *gauḥ* is a synonym of the earth. They explain that the formation of this word is possible even by adding the suffix *au* to the root *gā*; and then, …
+
+### Printed p. 522  (PDF 542)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 522.)*
+
+> अथापि पशुनापि भवत्येतस्मादेव ।
+
+> *athāpi paśunāpi bhavatyetasmādeva |*
+
+— "for this very reason" — that is, because [the word] is formed from the root *gam* or *gā*, giving the meaning stated above, the name is well known for the animal also; and having said "*ādityo 'pi gaur ucyate; sarve 'pi raśmayo gāva ucyante*" ("the Āditya too is called *gauḥ*; all the rays also are called *gāvaḥ*"), they have shown that the word *go* is used also in the senses "Āditya", "ray" and so on. And, explaining the word in the ṛk 1-164-28 [?], the Nirukta-writers have given for *gauḥ* the meaning *mādhyamikā vāk* ("the middle speech") (Ni. 11-42 [?]). In the ṛk at hand, to explain it as "speech in the form of praise" is the more fitting, as earlier:
+
+> इमं रथमधि ये सप्त तस्थुः सप्तचक्रं सप्त वहन्त्यश्वाः ।
+> सप्त स्वसारो अभि सं नवन्ते यत्र गवां निहिता सप्त नाम ॥
+
+> *imaṃ rathamadhi ye sapta tasthuḥ saptacakraṃ sapta vahantyaśvāḥ |*
+> *sapta svasāro abhi saṃ navante yatra gavāṃ nihitā sapta nāma ‖*
+
+(Ṛ. Saṃ. 1-164-3 [?]) — just as *gavām* is explained here as "of speech in the form of praise", so here too the meaning "of speech in the form of praise" is in keeping.
+
+***ohena*** — this word, formed from the root *vah*, is used in the sense of "the means of carrying". Uses such as *ohasā*, *ohabrahmāṇaḥ* are many; they are explained in the respective contexts.
+
+***jivriḥ*** — for this word Sāyaṇa has shown in the bhāṣya that both meanings, "aged" and "victorious" (*jayaśīla*), are possible. But in the Nirukta, in the following which are cited (Ni. 3-21 [?]):
+
+> आ त्वा रम्भं न जिव्रयो ररम्भा शवसस्पते । उश्मसि त्वा सधस्थ आ ॥
+
+> *ā tvā rambhaṃ na jivrayo rarambhā śavasaspate | uśmasi tvā sadhastha ā ‖*
+
+(Ṛ. Saṃ. 8-93-10 [?])
+
+> एना सत्या तन्वं १ सं सृजस्वाथा जिव्री विदथमा वदाथः ।
+
+> *enā satyā tanvaṃ 1 saṃ sṛjasvāthā jivrī vidathamā vadāthaḥ |*
+
+(Ṛ. Saṃ. 10-95-12 [?]) — in all these ṛks Yāska has explained it as "aged, old". But since the word *jūrṇi*, which shows old age, is used here again, in the ṛk at hand *jivri* may also be given the meaning "victorious".
+
+***jūrṇiḥ*** — "*jarayā jīrṇāṅgaḥ*" — "one whose limbs are worn by old age": that is, one who has a body that has faded and shrivelled with age. In other places Sāyaṇa has given other meanings for the word *jūrṇi*. The Nirukta-writers have read the word *jūrṇi* among the names of "anger" (Ni. 2-7 [?]) and among the names of "swift" (*kṣipra*) (Ni. 2-9 [?]), and they explain this derivation:
+
+> जूर्णिर्जवतेर्वा द्रवतेर्वा दूनोतेर्वा ।
+
+> *jūrṇirjavatervā dravatervā dūnotervā |*
+
+(Ni. 6-9 [?])
+
+---
+
+**Progress note:** printed p. 522 (PDF 542) done — Sūkta 180 Ṛk 5: Pratipadārtha…printed English, Special Topics (dasrā, goḥ ohena, jivriḥ, jūrṇiḥ; continues p. 523). Next: printed p. 523 (PDF 543). Open flags: refs [?]; review/doubts_v13.json.
