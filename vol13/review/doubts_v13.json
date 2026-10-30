@@ -6346,5 +6346,29 @@
   ],
   "note": "grammar sutra numerals [?], wording as read",
   "answer": ""
+ },
+ {
+  "pdf": 635,
+  "printed": 615,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Rk6 bhasya words as read [?]; header Varga numeral 28 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 636,
+  "printed": 616,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "A.C. Das quote typos marked; grammar sutra numerals [?]",
+  "answer": ""
  }
 ]
