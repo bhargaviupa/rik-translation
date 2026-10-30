@@ -1510,5 +1510,29 @@
   ],
   "note": "Rik 3 bhaashya second half garbled (jigiishitavyaani ... vostsvaanyaani komyaa...) ; zoom 200dpi",
   "answer": ""
+ },
+ {
+  "pdf": 225,
+  "printed": 205,
+  "crop": [
+   0.3,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.205: 4-57-3, Ni. magha (2-?, 1-?), Sat.Br. 14-1-1-13 + quote garbled, 5-46-2, 7-?-?",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 206,
+  "crop": [
+   0.05,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "ref 1-156-4 and Max Muller quote refs (VII.68.8, V.46.2)",
+  "answer": ""
  }
 ]

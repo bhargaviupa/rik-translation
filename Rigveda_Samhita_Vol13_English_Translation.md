@@ -4696,4 +4696,70 @@ Here the words *hṛdā taṣṭaḥ manasā dhāyi* make clear the poet's inten
 
 ---
 
-**Progress note:** printed p. 204 (PDF 224) done — Sūkta 171 Ṛk 2 complete; Ṛk 3 through printed English (breaks off mid-sentence; Special Topics on p. 205). Next: printed p. 205 (PDF 225). Open flags: Ṛk 3 bhāṣya second half [?]; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 205  (PDF 225)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11".)*
+
+*(English Translation of Ṛk 3, concluded)* — … ensuing days that may be expected by us prove gratifying, and full of enjoyment.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***he marutaḥ stutāsaḥ*** — addressing the Marut-gods, it is prayed that they, praised by the sacrificers who perform sacrifices for them, make us happy. Yāska cites
+
+> क्षेत्रस्य पते मधुमन्तमूर्मिं धेनुरिव पयो अस्मासु धुक्ष्व ।
+> मधुश्चुतं घृतमिव सुपूतमृतस्य नः पतयो मृळयन्तु ॥
+
+> *kṣetrasya pate madhumantam ūrmiṃ dhenur iva payo asmāsu dhukṣva |*
+> *madhuścutaṃ ghṛtam iva supūtam ṛtasya naḥ patayo mṛḷayantu ‖*
+
+(Ṛ. Saṃ. 4-57-3 [?]). In this ṛk, for the word *mṛḷayantu* the meaning "*mṛḷayatiḥ* [*dayā*]*karma vā*" [as read] is explained. Durgācārya says "*mṛḷayantu nityam asmān rakṣantu pūjayantu vā*" — may they protect us, or may they bring us honour (worship).
+
+***maghavā stutaḥ śaṃbhaviṣṭhaḥ*** — the word *magha* is read among the names of wealth (Ni. 2-[?]); and "*maghamiti dhananāmadheyaṃ maṃhater dānakarmaṇaḥ*" (Ni. 1-[?]) — the word *magha*, formed from the root *maṃh* ("to give"), denotes wealth: so Yāska explains. Sāyaṇa, for this word, says "*maghamiti dhananāma asmaddātavyabahudhanena tadvān indraḥ*": *magha* means wealth, and Indra, possessing abundant wealth to be given properly to the sacrificers, is well known as *maghavā*.
+
+It has been said earlier that the word *maghavat* may also be construed as referring to the sacrificer. In other places it is explained that *maghavā* is Indra together with Viṣṇu — Indra, who obtains Viṣṇu's help in his battles with Asuras and others; for stating this meaning there is the authority of the Śruti:
+
+> स उ एव मुखः स विष्णुः । ते ते इन्द्रो मुखवानभवत् [?] । मुखवान् ह वै तं मघवानित्याचक्षते परोक्षं परोक्षकामा हि देवाः ॥ [as read]
+
+> *sa u eva mukhaḥ sa viṣṇuḥ | te te indro mukhavānabhavat [?] | mukhavān ha vai taṃ maghavānityācakṣate parokṣaṃ parokṣakāmā hi devāḥ ‖ [as read]*
+
+(Śat. Brā. 14-1-1-13 [?]). Since Indra has Viṣṇu — the sacrifice (*yajña*) — as his mouth (*mukha*), the gods, who are fond of the indirect, call him *maghavān* indirectly: so the Śatapatha Brāhmaṇa explains. In some places, too, the companionship of Indra, the Marut-gods and Viṣṇu is well known. For example:
+
+> एता अग्न आशुषाणासो इष्टीर्युवोः सचाभ्यश्याम वाजान् ।
+> मेन्द्रो नो विष्णुर्मरुतः परि ख्यन् यूयं पात स्वस्तिभिः सदा नः ॥
+
+> *etā agna āśuṣāṇāso iṣṭīr yuvoḥ sacābhyaśyāma vājān |*
+> *mendro no viṣṇur marutaḥ pari khyan yūyaṃ pāta svastibhiḥ sadā naḥ ‖*
+
+(Ṛ. Saṃ. 5-46-2 [?]), where Indra and the Marut-gods are besought together with Viṣṇu. Besides this, it is indicated in some places that the word *mārutaḥ* is an epithet of Viṣṇu. For example:
+
+> अग्न इन्द्र वरुण मित्र देवाः शर्धः प्र यन्त मारुतोत विष्णो ।
+> उभा नासत्या रुद्रो अध ग्नाः पूषा भगः सरस्वती जुषन्त ॥
+
+> *agna indra varuṇa mitra devāḥ śardhaḥ pra yanta mārutota viṣṇo |*
+> *ubhā nāsatyā rudro adha gnāḥ pūṣā bhagaḥ sarasvatī juṣanta ‖*
+
+(Ṛ. Saṃ. 7-[?]-[?])
+
+### Printed p. 206  (PDF 226)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+> तमस्य राजा वरुणस्तमश्विना क्रतुं सचन्त मारुतस्य वेधसः ॥
+
+> *tam asya rājā varuṇas tam aśvinā kratuṃ sacanta mārutasya vedhasaḥ ‖*
+
+(Ṛ. Saṃ. 1-156-4). In places such as these, some hold that the words *mārute* and *mārutasya* are epithets of Viṣṇu. Explaining this, the scholar Max Müller says:
+
+*Vishnu, whose character in the hymns of the Veda is very different from that assumed by him in later periods of Hindu religion, must be taken here as the friend and companion of Indra. Like Maruts, he assisted Indra in his battle against Vritra and the conquest of the clouds. When Indra was forsaken by all the Gods, Vishnu came to his help.*
+
+*In VII. 68. 8. Indra, Vishnu and Maruts are called upon to-gether* [sic] *Nay,* मारुते, *belonging to the Maruts becoms* [sic] *actually an epithet of Vishnu. (V. 46. 2.) and in I 156. 4,* मारुतस्य *has been pointed out by Roth as an appellation of Vishnu.* (S. B. E. Vol. XXXII. P. 134)
+
+But in the opinion of some, these words become epithets of Viṣṇu; Sāyaṇa has not stated this view. In the present ṛk, the word *maghavā* alone may be taken to mean either Indra who is wealthy, or Indra together with Viṣṇu.
+
+This Indra (praised by the sacrificers), hearing the praises recited by the sacrificers, and, to the sacrificers who have praised him, calling "*sukhasya bhāvayitṛtamaḥ*" — "may there be abundant happiness" — prays "*asmān mṛḷayatu*" — that he make us, who perform sacrifices, happy.
+
+***jigīṣā*** — *jigīṣitavyāni prāptavyāni uttarottarānubhūyamānāni*: those that are to be obtained by the sacrificers, ready to be enjoyed, or those that remain in the future; *viśvā* (continued)
+
+---
+
+**Progress note:** printed p. 206 (PDF 226) done — Sūkta 171 Ṛk 3 Special Topics (continues p. 207). Next: printed p. 207 (PDF 227). Open flags: ref numerals on pp. 205–206 [?] (small type); review/doubts_v13.json.
