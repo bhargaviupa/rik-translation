@@ -15084,4 +15084,55 @@ In this ṛk there is a prayer of Agastya addressed to the Aśvin deities. Here 
 
 ---
 
-**Progress note:** printed p. 540 (PDF 560) done — Sūkta 180 Ṛk 7 complete; Ṛk 8: Saṃhitā…Special Topics begun (kārādhunī; continues p. 541). Next: printed p. 541 (PDF 561). Open flags: refs [?]; 'kārādiva' vs 'kārādhunīva' in Saṃhitā [?]; review/doubts_v13.json.
+### Printed p. 541  (PDF 561)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 541.)*
+
+**Special Topics (continued)** — … "conch" is the meaning stated. But the word *kāra* does not mean "conch" in all places. This word, formed from the root *kṛ*, gives merely the sense "a means of producing sound". In some places it may denote the conch; in others it may give another meaning. For example:
+
+> चकर्थ कारमेभ्यः पृतनासु प्रवन्तवे ।
+
+> *cakartha kāramebhyaḥ pṛtanāsu pravantave |*
+
+(Ṛ. Saṃ. 1-131-5 [?]) — in this ṛk the word is explained as merely *siṃhanādalakṣaṇaṃ śabdam*, "a sound in the form of a lion's roar". Thus, to show that it is not invariably the conch, Skandasvāmin too has said, "*kriyata iti kāraśabdaḥ*" — "the word *kāra* here gives only the meaning of what is done", and also "*sāmarthyāt śaṅkhaḥ*" ("by capacity, the conch").
+
+> पश्यन्त्यासो अभि कारमर्चन्ति ज्योतिश्च कृपन्ते धीभिः ।
+
+> *paśyantyāso abhi kāramarcanti jyotiśca kṛpante dhībhiḥ |*
+
+(Ṛ. Saṃ. 9-101-14 [?], as read [?]) — in such ṛks everywhere *kāra* has merely the sense of "doer" (*kartā*). It is for that reason that Sāyaṇa too, in the ṛk at hand, has given two explanations: first, "like the conch", and second, "the *hotṛ*, the impeller of sound". Here, for the word *iva*, in the second explanation the question what its sense is can be resolved, and he himself has given the resolution: "*astyupamārthasya saṃpratyarthe prayogaḥ*" (Ni. 2-31 [?]), according to the statement of the Nirukta-writers — *iva* means *saṃprati* ("now"). In the present context it means "now".
+
+***virudrasya*** — this word is an epithet of *prasravaṇasya*. *Prasravaṇa* means a mass of rain-water, or a full flow. Since this full flow destroys the pain in the form of heat, or since it flows, making manifold sounds, it has the epithet *virudra*. For this word Sāyaṇa has given the explanation "*viśiṣṭoṣṇarūpaduḥkhadrāvaṇasya, vividharorūyamāṇadravaṇavato vā*". For the word *rut* the meaning "pain" is given; if *prasravaṇa* is taken to mean "that which destroys a special pain", or "that which flows with manifold sounds", it comes to mean "endowed with manifold roaring". The Nirukta-writers' derivation of the word *rudra* is as follows:
+
+> रुद्रो रौतीति सतः । रोरूयमाणो द्रवतीति वा । रोदयतेर्वा । "यदरुदत्तद्रुद्रस्य रुद्रत्वम्" इति काठकम् । "यदरोदीत्तद्रुद्रस्य रुद्रत्वम्" इति हारिद्रविकम् ।
+
+> *rudro rautīti sataḥ | rorūyamāṇo dravatīti vā | rodayatervā | "yadarudattadrudrasya rudratvam" iti kāṭhakam | "yadarodīttadrudrasya rudratvam" iti hāridravikam |*
+
+(Ni. 10-5 [?])
+
+### Printed p. 542  (PDF 562)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 542.)*
+
+— *rudra* means "*rauti*" ("he cries, he makes the sound of thunder"): one who makes a sound like the cloud's thunder; or "*rorūyamāṇo dravati*": one who runs swiftly, thundering; or "*rodayati*": one who makes enemies weep; so the meanings come out. Following this explanation, the meaning of the word *virudra* has been stated for the ṛk at hand; the remaining explanation is not relevant to us at present. According to the first derivation, the meaning is "destruction of pain"; therefore the full flow is *virudra*. According to the second derivation, the meaning is "of the nature of thunder"; therefore also the full flow is *virudra*. Thus in the present context both meanings are natural.
+
+***narāṃ nṛṣu praśastaḥ*** — "Among the leaders who carry out the sacrifice, the one supremely praiseworthy": Agastya has praised himself. Even though this is self-praise, here the ṛṣi has spoken of his own true greatness; there is no exaggeration in it.
+
+> अगस्त्यः खनमानः खनित्रैः प्रजामपत्यं बलमिच्छमानः ।
+> उभौ वर्णावृषिरुग्रः पुपोष सत्या देवेष्वाशिषो जगाम ॥
+
+> *agastyaḥ khanamānaḥ khanitraiḥ prajāmapatyaṃ balamicchamānaḥ |*
+> *ubhau varṇāvṛṣirugraḥ pupoṣa satyā deveṣvāśiṣo jagāma ‖*
+
+(Ṛ. Saṃ. 1-179-6) — in explaining the purport of this ṛk it has been told how Agastya accomplished, by his great power, both the *puruṣārthas* called *dharma* and *kāma*; and what his extraordinary greatness is has been explained in detail. Therefore it can be said that in this praise there is no kind of exaggeration.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***virudrasya*** — *vividhāḥ rudrāḥ yasmin tasya*; by "*bahuvrīhau prakṛtyā pūrvapadam*" (Pā. Sū. 6-2-1 [?]) the fore-member keeps its natural accent.
+- ***prasravaṇasya*** — root *sru gatau*; the suffix *lyuṭ*; by "*yuvor anākau*" *ana* is substituted for it; since the suffix has the marker *l*, by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix takes the *udātta* accent; in the *prādi* compound the *kṛdutta* final member keeps its natural accent.
+- ***sātau*** — by "*ūtiyūtijūtisātihetikīrtayaś ca*" (Pā. Sū. 3-3-97 [?]) *ktin* with *udātta* is irregularly formed.
+- ***narām*** — genitive plural; by "*sāvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending takes the *udātta* accent.
+
+---
+
+**Progress note:** printed p. 542 (PDF 562) done — Sūkta 180 Ṛk 8 Special Topics (kārādhunī, virudra, narāṃ nṛṣu) and grammar begun (continues p. 543). Next: printed p. 543 (PDF 563). Open flags: refs [?]; review/doubts_v13.json.

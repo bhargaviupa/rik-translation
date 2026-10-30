@@ -5434,5 +5434,29 @@
   ],
   "note": "refs Ni 2-10, Rg 1-112-1; Skandasvamin cross-ref; 'kara' = conch gloss",
   "answer": ""
+ },
+ {
+  "pdf": 561,
+  "printed": 541,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-131-5?, 9-101-14?, Ni 2-31, 10-5 small; Rg quote 'pasyantyaso abhi karam' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 562,
+  "printed": 542,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small",
+  "answer": ""
  }
 ]
