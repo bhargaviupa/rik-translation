@@ -5338,5 +5338,29 @@
   ],
   "note": "bhashya Rk7 dense: 'sthapitasomo', 'upasargasruteh', second 'yadva' alt garbled",
   "answer": ""
+ },
+ {
+  "pdf": 553,
+  "printed": 533,
+  "crop": [
+   0.4,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-19, 1-7, Rg 2-11-21, 10-142-1 small; 'showerer' print typo? not marked",
+  "answer": ""
+ },
+ {
+  "pdf": 554,
+  "printed": 534,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 6-13? (read 3-13?), SB 9-5-1-13/18, 14-3-1-14 small; 'satyamunnalebhire' garbled",
+  "answer": ""
  }
 ]
