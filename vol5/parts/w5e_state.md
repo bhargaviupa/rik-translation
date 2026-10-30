@@ -1,12 +1,14 @@
+RANGE DONE
 # w5e state (Vol 5 Pariśiṣṭa bare-? reference pass, pp. 626–708, worker w5e)
 
 Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (refs_w5d.py, parens_w5d.py, ltile_w5c.py; scipy needed: pip install scipy).
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 707 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694, 695-699, 700-703).
-Next page: p. 708 (PDF 724).
+Done through: p. 708 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694, 695-699, 700-703, 704-708).
+Next page: none (range complete).
 Open items:
+- p. 708: the better scan clips the right margin of PDF 724; p. 708 was read from the old scan Rig_Vol5.pdf PDF 724 (clear). 10-123-6 [?], Av. 18-2-12 [?]; 'sentences of 7-?-? onward' corrected to 'sentences 7-55-2 to 5' as printed.
 - p. 707: 2/7 doubts marked [?] (10-17-1, 18-2-32, 10-97-16, 5-30-12, 18-2-27, and p. 706's last 10-135-7).
 - p. 706: many 2/7 doubts marked [?] (glyph weight is not a reliable cue: on p. 706 the bold glyph in Av. 18-2-28 must be 2); Vāj. Saṃ. printed (೧೨-೬೩)? written 12-63 [?] (file 18-).
 - p. 705: compare 10-102-1 [?] and 10-2-7 [?] (2/7 glyphs); Tai. Brā. printed 2-3-8-2 (file 3-).
