@@ -5528,4 +5528,62 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 
 ---
 
-**Progress note:** printed p. 230 (PDF 250) done — Sūkta 172 Ṛk 1 Special Topics and first grammar notes (continues p. 231, with Ṛk 1 close and Ṛk 2). Next: printed p. 231 (PDF 251). Open flags: ref numerals [?] on pp. 229–230; review/doubts_v13.json.
+### Printed p. 231  (PDF 251)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 12"; grammar of Ṛk 1 concluded.)*
+
+*(Grammar, noted briefly)*: *sudānavaḥ* (*śobhanaḥ dānuḥ yasya saḥ*; in the vocative the *āmantrita* accent, *nighāta*, applies); *marutaḥ* (since it stands at the beginning of a *pāda*, the *āmantrita nighāta* does not apply; the first syllable is acute by "*āmantritasya ca*", Pā. Sū. 6-1-198 [?]); *ahibhānavaḥ* (by "*āmantritaṃ pūrvam avidyamānavat*" the preceding word, though present, is treated as non-existent, since there is no word after this, *nighāta* does not come, and, as before, the first syllable is acute). ‖ 1 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> आरे सा वः सुदानवो मरुत ऋञ्जती शरुः ।
+> आरे अश्मा यमस्यथ ॥ २ ॥
+
+> *āre sā vaḥ sudānavo maruta ṛñjatī śaruḥ |*
+> *āre aśmā yamasyatha ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> आरे । सा । वः । सुऽदानवः । मरुतः । ऋञ्जती । शरुः ।
+> आरे । अश्मा । यम् । अस्यथ ॥ २ ॥
+
+> *āre | sā | vaḥ | su 'dānavaḥ | marutaḥ | ṛñjatī | śaruḥ |*
+> *āre | aśmā | yam | asyatha ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सुदानवः शोभनदाना मरुतः वो युष्माकं संबन्धिन्यृञ्जती प्रसाधयन्ती स्वतेजसा स्वात्मानमलंकुर्वती प्रसिद्धिं प्राप्नुवाना वा सा प्रसिद्धा शरुर्हिंसका ऋष्टिरारे दूरे भवतु । तथा यमस्यथ क्षिपथ सोऽश्मा व्यापक आयुधविशेष आरे । दूरनामैतत् । दूरे भवतु । मां न प्राप्नोतु । यद्वा । आरेशब्द आराच्छब्दपर्यायः । स च दूरे समीपे च वर्तते । अत्र समीपवचनः । यमस्मत्तोऽन्यमस्यथ तं वैरिणमस्माकमुपलोपमः [?] कशिन आयुधविशेष आरे समीपं प्राप्नोतु ॥
+
+*Gist:* May the Maruts' bright, harmful shaft, and the stone they hurl, be far from us; or, in the second sense, may it come near (the enemies).
+
+**Pratipadārtha.** *sudānavaḥ* — O excellent givers; *(he)* *marutaḥ* — O Marut-gods; *vaḥ* — your; *ṛñjatī* — shining with brilliance; *sā śaruḥ* — that (famous) harmful weapon; *āre* — far (be); *yam* — which weapon; *asyatha* — you hurl; *(saḥ)* *aśmā* — that (pervading) weapon (hard as a stone); *āre* — far away (from us) (be). [*Or:* *yam* — which weapon; *asyatha* — you hurl (at our enemy, in his direction); *(saḥ)* *aśmā* — that hard weapon like a stone; *āre* — near (of that enemy) (be).]
+
+**Bhāvārtha.** O Marut-gods, excellent givers, may your harmful weapon, shining with brilliance, be far from us; may the stone-like weapon that you hurl be far from us; (or: may the weapon that you hurl bring our enemy near).
+
+### Printed p. 232  (PDF 252)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 172".)*
+
+**English Translation (as printed):** Maruts, liberal benefactors, may your bright destructive (shaft) be far from us: may the stone which you hurl be far from us.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***ṛñjatī*** — *prasādhayantī svatejasā svātmānam alaṅkurvatī prasiddhiṃ prāpnuvānā vā*: this word is used here as an epithet of the word *śaruḥ*, which denotes the weapon called *ṛṣṭi* belonging to the Marut-gods. The Nirukta-writer says "*ṛñjatiḥ prasādhanakarmā*" (Ni. 6-[?]): the word *ṛñjati* is used in the sense of "adorn"; and in the ṛk
+
+> दूतं वो विश्ववेदसं हव्यवाहममर्त्यम् ।
+> यजिष्ठमृञ्जसे गिरा ॥
+
+> *dūtaṃ vo viśvavedasaṃ havyavāham amartyam |*
+> *yajiṣṭham ṛñjase girā ‖*
+
+(Ṛ. Saṃ. 4-8-1 [?]) he shows the use [as printed: *yajiṣṭham*]. Sāyaṇa addresses the Marut-gods as "*sudānavaḥ marutaḥ*", "givers of many excellent things". It is explained that their weapon *ṛṣṭi* shines with its own brilliance, or is well known for destroying enemies; and that, though that weapon is harmful toward enemies, it should be far from us, the sacrificers.
+
+***āre aśmā yamasyatha*** — *vyāpakaḥ āyudhaviśeṣaḥ dūre bhavatu māṃ na prāpnotu*: "the pervading weapon that you hurl, sent to punish, let it be far from us (since we are not their enemies)": so it is said, taking the word *āre* in the sense "far". In the second meaning, "*āreśabdaḥ ārāccabdaparyāyaḥ | sa ca dūre samīpe ca vartate*" — the word *āre*, being a synonym of the word *ārāt*, conveys both "far" and "near"; here the meaning "near" is explained, and "*asmatto'nyaṃ yaṃ vairiṇam*" — "the enemy other than us" — (continued).
+
+---
+
+**Progress note:** printed p. 232 (PDF 252) done — Sūkta 172 Ṛk 1 complete; Ṛk 2 through Special Topics (continues p. 233). Next: printed p. 233 (PDF 253). Open flags: Ṛk 2 bhāṣya [?] words; ref numerals [?]; review/doubts_v13.json.
