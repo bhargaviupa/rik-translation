@@ -3716,4 +3716,30 @@ In the second meaning: "*tośatirvadhakarmā nitośayati nibarhayatīti*" (Ni. 2
 
 ---
 
-**Progress note:** printed p. 166 (PDF 186) done — Sūkta 169 Ṛk 5 complete; Ṛk 6 Saṃhitā to printed English (Special Topics on p. 167). Next: printed p. 167 (PDF 187). Open flags: Ṛk 6 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 167  (PDF 187)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***mīḷhuṣaḥ*** — *udakasektṝn*: the word *mīḷha* is read among the names of wealth (Ni. 3-[?]). Here the sense "those who sprinkle waters" is explained.
+
+***nṝn*** — *jagannetṝn narākārān vā*: the word *nara* is read among the names of man (Ni. 2-[?]). It is explained as "those who nourish (the world) abundantly", or as "those who have the form of men"; and by "*mahaḥ marutaḥ*" it is wished that Indra should face the clouds filled with greatness. Since the Nirukta-writers refer to the clouds by the word *vṛtra*, it is established that "*meghānāṃ vṛtrarūpeṇa narākāratvaṃ yuktam*" — for the clouds, in the form of Vṛtra, to have human shape is fitting.
+
+***pārthive sadane yatasva*** — the word *pṛthivī* is read among the names of the atmosphere (Ni. 1-[?]); "*pṛthivītyantarikṣanāma tatsaṃbandhini sthāne yatnaṃ kuru taiḥ saha yudhyasva*": "the word *pṛthivī* is a name of the atmosphere; make an effort in the place connected with it; fight with them": one kind of meaning, spoken as addressed to Indra. Sāyaṇa gives another: "*yadvā haviṣpradātṝn karmanirvāhakān mahato yajamānān pratigaccha gatvā ca pārthive sadane devayajane yatasva | havirbhojanāya yatnaṃ kuru*" — going to the great sacrificers who offer oblations and carry out the rites of the sacrifice, make an effort in the sacrificial hall belonging to the earth, in order to partake of the oblations. By this, for the words *pārthive sadane* the meaning in the first sense is "the region of the atmosphere" and in the second "the place of the worship of the gods, or the sacrificial altar in the form of the earth". The matter of the earth being the sacrificial altar is stated in the Taittirīya Saṃhitā.
+
+***eṣāṃ pṛthubudhnāsaḥ etāḥ aryaḥ pauṃsyāni tīrthe na tasthuḥ*** — *marutāṃ saṃbandhinaḥ vistīrṇamūlāḥ pṛṣadvarṇāḥ gantāro vā aśvāḥ arer śatroḥ yuddhamārga iva meghān ākramante*: the word *etaśa* is read among the names of the horse (Ni. 1-[?]); by the word *pṛṣatyaḥ* in "*pṛṣatyo marutām*" (Ni. 2-[?]) the vehicles of the Marut-gods are indicated as *pṛṣatyaḥ* (spotted deer). Here the horses of the Marut-gods are described as *pṛṣadvarṇāḥ* (spotted-coloured) and as having vast root (back) regions; as the armies of an enemy stand against the way of war, so they attack the clouds: this is one kind of meaning explained.
+
+### Printed p. 168  (PDF 188)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+In the second meaning: the word *aryaḥ* is read among the names of the lord (Ni. 3-[?]); so "*araṇīyasya svāminaḥ (yuddhodyamādinā) gamanaśīlānāṃ prabhor (balaṃ) senā rājavīthyāṃ yathā tiṣṭhanti*" — as the army (strength) of a lord who goes forth with the intention of fighting stands massed in the royal street; "*eṣāṃ marutāṃ pṛthubudhnāso bṛhanmūlāḥ etāḥ kṛṣṇavarṇāḥ meghāstiṣṭhanti*" — these clouds, belonging to the Marut-gods who give help to Indra, with vast root regions and black in colour, stand together: this meaning is explained.
+
+The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* among the names of war (Ni. 2-[?]). Here the meaning "army" is explained.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *mīḷhuṣaḥ* (root *miha secane*; by "*dāśvān sāhvān mīḍhvāṃśca*", Pā. Sū. 6-1-12 [?], the form ending in *kvasu* is given as irregular; before the accusative plural *śas*, *saṃprasāraṇa* by "*vasoḥ saṃprasāraṇam*", the preceding form; the *u* is acute by the affix's accent); *pārthive* (*pṛthivyāḥ idaṃ pārthivam, tasmin*; the affix *āñ* in the sense of relation by "*pṛthivyā āñ ñau*" [as read]; because it is *ñ*-marked, the first syllable is acute by "*ñniti ādiḥ*"; *vṛddhi* of the first vowel on that occasion; loss of *ī*); *yatasva* (root *yatī prayatne*; *loṭ* 2nd singular, affix *thās*; *va* substituted for the *ṭi* part by "*thāso se*", Pā. Sū. 3-4-80 [?]; *nighāta* since it stands after a word ending in a verb); *pṛthubudhnāsaḥ* (a *karmadhāraya* compound; accent on the last syllable by "*samāsasya*"; *asuk* before *jas* by "*ājjaserasuk*"); *tīrthe* (root *tṝ plavanataraṇayoḥ*; affix *thak* by an Uṇādi sūtra, "*pātṛtudi…*"; *i* for the root vowel by "*ṛta iddhātoḥ*", Pā. Sū. 7-1-100 [?]; *r* follows; accent on the last syllable by the affix; locative form); *aryaḥ* (the word *ari*; before the genitive, no *guṇa* and the like by "*jasādiṣu chandasi vāvacanam*"; *yaṇ* substitution; the ending takes the acute by "*udāttayaṇo hal pūrvāt*", Pā. Sū. 6-1-174 [?]).
+
+---
+
+**Progress note:** printed p. 168 (PDF 188) done — Sūkta 169 Ṛk 6 through grammar (the end marker '‖ 6 ‖' comes with p. 169). Next: printed p. 169 (PDF 189). Open flags: small-type numerals [?]; review/doubts_v13.json.
