@@ -2960,4 +2960,48 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 132 (PDF 152) done — Sūkta 168 Ṛk 6 complete (through grammar; '‖ 6 ‖' marker on p. 133). Next: printed p. 133 (PDF 153). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 133  (PDF 153)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; grammar of Ṛk 6 concluded.)*
+
+*(Grammar, noted briefly)*: *vithurā* (root *vyatha bhayasaṃcalanayoḥ*; affix *uraca* by an Uṇādi sūtra, with *saṃprasāraṇa* of the root; accent on the last syllable by "*citaḥ*"; in the neuter, *luk* of *śi* by "*śeścchandasi bahulam*"); *patatha* (root *paṭḷ gatau*, causal sense included; *laṭ* 2nd plural; *nighāta* accent); *tveṣam* (root *tviṣa dīptau*; affix *ac* by "*nandigrahipacādibhyaḥ*"; *guṇa* of the light penultimate; accent on the last syllable by the affix); *arṇavam* (*arṇaḥ asya asti*; the vārttika "*arṇaso lopaśca*" [as read, Kā.]; affix *va* in the sense of possession; loss of *s*; accent on the last syllable by the affix). ‖ 6 ‖
+
+*(ornamental rule)*
+
+**॥ संहितापाठः ॥**
+
+> सातिर्न वोऽमवती स्वर्वती त्वेषा विपाका मरुतः पिपिष्वती ।
+> भद्रा वो रातिः पृणतो न दक्षिणा पृथुज्रया [?] असुर्येव जञ्जती ॥ ७ ॥
+
+> *sātirna vo 'mavatī svarvatī tveṣā vipākā marutaḥ pipiṣvatī |*
+> *bhadrā vo rātiḥ pṛṇato na dakṣiṇā pṛthujrayā [?] asuryeva jañjatī ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> सातिः । न । वः । अमऽवती । स्वःऽवती । त्वेषा । विऽपाका । मरुतः । पिपिष्वती ।
+> भद्रा । वः । रातिः । पृणतः । न । दक्षिणा । पृथुऽज्रयी [?] । असुर्याऽइव । जंजती ॥ ७ ॥
+
+> *sātiḥ | na | vaḥ | ama 'vatī | svaḥ 'vatī | tveṣā | vi 'pākā | marutaḥ | pipiṣvatī |*
+> *bhadrā | vaḥ | rātiḥ | pṛṇataḥ | na | dakṣiṇā | pṛthu 'jrayī [?] | asuryā 'iva | jaṃjatī ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वो युष्माकं सम्बन्धिनी सातिर्न सम्भक्तिरिव युष्मत्संभजनं यथा प्रशस्तगुणं तद्वत् । वो रात्रिवृष्ट्याख्या दिविषयोमवत्कमात्यवतीन्द्रातिसहायवती [?] । यथा राजेवामवान् । ऋ. ४-४-१ [?] । इत्यत्र त्रामश्चब्दोऽमात्यवचनः [?] तद्वत् । यद्वा । वः सातिः सम्भक्तिरमवती । रोगवती न भवति । किंतु स्वर्वती सुखवती त्वेषा दीप्ता विपाका परिपक्वफला पिपिष्वती प्रेषणवती कृषीवलैः कर्षणवती । वृष्टौ सत्यां कर्षन्तीति प्रसिद्धम् । स्वविरोधिपेषणवती वा । भद्रा भन्दनीया सुत्या [?] । किंच पृणतो धातुर्धनिकस्य दक्षिणा न दक्षिणेव तद्वत् स्वर्वती [?] पृथुज्रयी पृथुजवा शीघ्रगामिनी । किंचासुर्येवासुरस्य स्वभूता जंजती सर्वानभिभवन्ती शक्तिरिव । सा यथान्येभ्योऽपहृत्यान्यस्मै दातुं समर्था तद्वदियमपि मेघस्थमुदकमपहृत्य जगतो दातुं शक्तेत्यर्थः । ईदृशी रातिरस्मभ्यमस्त्विति भावः ॥
+
+*Gist:* Your giving (of rain) is like a splendid gift: mighty, heaven-bringing, bright, ripening, bountiful like a rich man's fee, swift, and like the all-overcoming Asura power.
+
+### Printed p. 134  (PDF 154)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+*(The bhāṣya of Ṛk 7 ends on the previous page; the page opens with the Pratipadārtha.)*
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods; *vaḥ* — your; *sātiḥ na* — like (your) coming (as if praised); *rātiḥ* — (your) gift of rain and the like; *amavatī* — accompanied by Indra and others as companions, praised; *vaḥ* — your; *sātiḥ* — coming; *na amavatī* — not diseased (not afflicted); *(kiṃtu* — but*)* *svarvatī* — endowed with happiness (heaven); *tveṣā* — brilliant; *vipākā* — bearing ripened fruit; *pipiṣvatī* — favourable to farmers; *bhadrā* — auspicious; *pṛṇataḥ* — of a giver, a wealthy man; *dakṣiṇā na* — like a *dakṣiṇā* (bringing prosperity); *pṛthujrayī* — swift-moving (giving fruit quickly); *(ca)* *asuryā* [as printed: *asuryor*] — related to the Asuras; *jaṃjatī* — like a power overcoming all, being otherwise too; *rātiḥ* — (such) giving (be obtained by us).
+
+**Bhāvārtha.** O Marut-gods, the rain that you shower with the help of Indra is, like your coming, a means of the happiness of heaven, brilliant, bearing ripened fruit, favourable to farmers, auspicious, prosperity-giving like the *dakṣiṇā* of a wealthy man, bearing fruit in very short time, and, like the Asuri power, overcoming everything (so that it can be given by one, quickly). May such a gift of yours be ours.
+
+**English Translation (as printed):** Like your possession of treasure, Maruts, is your liberality: ministeral [sic] (of Indra's bounty), heaven-bestowing, brilliant, fruitful, favowable [sic] to the husbandman, propitions [sic]: it is like the donation of a wealthy (donor), prompt (of distribution), and like the all-subduing force of the Asuras.
+
+---
+
+**Progress note:** printed p. 134 (PDF 154) done — Sūkta 168 Ṛk 7: Saṃhitā to printed English written (Special Topics on p. 135). Next: printed p. 135 (PDF 155). Open flags: Ṛk 7 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
