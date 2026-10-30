@@ -373,3 +373,7 @@ Unit 12 (pp. 240–261, Sūkta 69 and Ṛk 70.1): accents set on the 6 Saṃhit�
   p. 243: Ṛk. Saṃ. 1-92-10 (as read, ?) -> 1-92-10 (as printed)
   p. 247: Ṛk. Saṃ. 5-54-6 [?] -> 5-54-6; 1-68-10 [?] -> 1-65-10 [?] (middle digit 5/8 doubtful); 1-60-2 [?] -> 1-60-2
 Not viewed: bracketed Nirukta refs p. 242 [1-12], p. 246 [3-15], p. 247 [2-7],[3-13], p. 248 [3-4], p. 251 [2-3], p. 257 [1-4], p. 258 [1-5],[1-15]; sense-only [?] notes pp. 241, 246, 253, 254, 256, 258, 261. Pages skipped (no flagged lines): 244, 245(except accents), 249, 250, 252, 255, 259 (not in file), 260 except accents.
+Unit 13 (pp. 262–281, Ṛks 70.2–70.6): accents set on the 5 Saṃhitā blocks (labels -> "accents as printed ... [accent ?]"; doubts page Vol6_doubts_p262-281.html, 6 rows); 'Accents not reproduced' notes updated (70.3, 70.4, 70.5).
+  p. 266: Ni. [10-?] -> Ni. 10-18 (as printed); Ṛk. Saṃ. 10-30-4 (as read, ?) -> 10-30-4 (as printed); Ni. [?] -> Ni. 7-31 (as printed); Ṛk. Saṃ. 10-[?] -> 10-88-19 [?] (8/9 and last digit doubtful)
+  p. 269: Tai. Brā. [1-1-9-2?] / [?] -> 2-1-2-7 (as printed); Tai. Brā. [1-1-9-10?] / [?] -> 2-1-2-10 (as printed; last two digits cut at crop edge, read 10)
+Not viewed: p. 265 Uṇ. 3-113 [?]; p. 268 Ni. [?]; p. 269 Ni. [1-?], Ṛk. Saṃ. 10-[?], 8-[?]; p. 277 Ni. [1-12?], Ṛk. Saṃ. [8-?]; p. 280 Uṇ. [2-28?]; Varga [?] running heads; sense-only [?] notes pp. 270–283 left as they were.
