@@ -5050,5 +5050,29 @@
   ],
   "note": "refs Ni 3-8, Rg 1-153-4, Ni 4-19, Rg 1-112-20 small; 'harate-malla' gloss approx",
   "answer": ""
+ },
+ {
+  "pdf": 529,
+  "printed": 509,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-118-8, 6-62-7, 10-39-13, 2-40-2, list of aama refs small; grammar quote 'yannu padarthavisesa' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 530,
+  "printed": 510,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 garbled in places (tau cah, asalayatam); grammar sutra numerals",
+  "answer": ""
  }
 ]
