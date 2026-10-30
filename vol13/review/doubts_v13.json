@@ -5602,5 +5602,29 @@
   ],
   "note": "grammar sutra numerals small; 'sudhitavasudhite..' sutra name garbled",
   "answer": ""
+ },
+ {
+  "pdf": 575,
+  "printed": 555,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "none serious",
+  "answer": ""
+ },
+ {
+  "pdf": 576,
+  "printed": 556,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-25, 6-1, Rg 1-149-3, 1-190-4 small; 'nistriktam' Nirukta wording garbled",
+  "answer": ""
  }
 ]

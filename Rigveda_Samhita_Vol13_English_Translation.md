@@ -15440,4 +15440,74 @@ This epithet is used only of the Aśvin deities, and only in the ṛk at hand. A
 
 ---
 
-**Progress note:** printed p. 554 (PDF 574) done — Sūkta 181 Ṛk 1 complete. Next: printed p. 555 (PDF 575), Ṛk 2 Saṃhitā. Open flags: refs [?]; AiBr quote doubtful; review/doubts_v13.json.
+### Printed p. 555  (PDF 575)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 555.)*
+
+**Sūkta 181, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> आ वामश्वासः शुचयः पयस्पा वातरंहसो दिव्यासो अत्याः ।
+> मनोजुवो वृषणो वीतपृष्ठा एह स्वराजो अश्विना वहन्तु ॥ २ ॥
+
+**Pada-pāṭha**
+
+> आ । वाम् । अश्वासः । शुचयः । पयःऽपाः । वातऽरंहसः । दिव्यासः । अत्याः ।
+> मनःऽजुवः । वृषणः । वीतऽपृष्ठाः । आ । इह । स्वऽराजः । अश्विना । वहन्तु ॥ २ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अश्विनौ शोभनाश्वयुक्तौ वां युवामश्वासो युष्मदीया इहास्मिन्यज्ञ आ वहन्तु । प्रापयन्तु । अवशिष्टान्यश्वविशेषणानि । कीदृशास्ते । शुचयः शुद्धा दीप्ता वा पयस्पा वृष्ट्युदकस्य पातारः वातरंहसो वायुवेगाः दिव्या दिवि भवाः अत्या अतनशीलाः मनोजुवो मनोजवाः वृषणो वर्षकाः । युवान इत्यर्थः । वीतपृष्ठाः कान्तपृष्ठाः । वपुष्मन्त इत्यर्थः । स्वराजः स्वयमेव राजमानाः । ईदृशा भवन्तु ॥
+
+*Gist:* May the pure, wind-swift, heaven-born, mind-swift horses of the Aśvins bring them to the sacrifice.
+
+**Pratipadārtha**
+
+(*he* **Aśvinau**) — O Aśvin deities, with excellent horses; **śucayaḥ** — pure (bright); **payaspāḥ** — drinkers of rain-water; **vātaraṃhasaḥ** — with the speed of the wind; **divyāsaḥ** — born in heaven; **atyāḥ** — ever-moving; **manojuvaḥ** — swift as the mind; **vṛṣaṇaḥ** — showering desires (youthful); **vītapṛṣṭhāḥ** — of charming bodies; **svarājaḥ** — naturally radiant; **aśvāsaḥ** — your horses; **vām** — you two; **iha** — to this sacrifice; **ā vahantu** — bring.
+
+**Bhāvārtha**
+
+O Aśvin deities, possessed of excellent horses! May your horses — pure, protectors of the rain-water, swift as the wind, born in heaven, ever-moving, swift as the mind, granting the wished-for objects, of charming bodies, naturally radiant — bring you two to our sacrificial hall.
+
+### Printed p. 556  (PDF 576)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 556.)*
+
+**Printed English**
+
+> Ashwins, may your horses, pure, rain-drinking, swift as the wind, heaven-born, quick-moving, fleet as thought, vigorous, well-packed, and self-irradiating, bring you hither.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this mantra the words *śucayaḥ*, *vātaraṃhasaḥ* and the like are epithets of the word *aśvāsaḥ*. There is no need to give a different meaning for the question whether the Aśvins' horses are horses; "*rāsabhāv aśvinoḥ*" ("the two asses of the Aśvins") is said in the Nirukta (Ni. 2-25 [?]). There is also a view that says "*divyatejas*" ("divine brilliance"). That will be discussed later, with examples, together with the differences of view.
+
+***śucayaḥ*** — "*śuddhāḥ, dīptā vā*" — "pure" or "shining". The Nirukta-writers give the derivation of the word thus:
+
+> शोचतेर्ज्वलतिकर्मणः । अयमपीतरः शुचिरेतस्मादेव । निष्ट्रिक्तमस्मात् [?] पापकमिति नैरुक्ताः ॥
+
+> *śocaterjvalatikarmaṇaḥ | ayamapītaraḥ śuciretasmādeva | niṣṭriktamasmāt [?] pāpakamiti nairuktāḥ ‖*
+
+(Ni. 6-1 [?]) — the noun *śuci* is formed from the root *śuc*, which gives the sense "to shine"; the word means "brilliance, light". The word *śuci* too, which gives the senses "holy, pure", is derived from this same root; and the statement of the Nirukta-writers that "sin is driven away from him" is well known. On this basis *śuci* here must be explained as "pure"; or the horses may be taken as "shining".
+
+***atyāḥ*** — "*atanaśīlāḥ*" — "of a continuously moving nature", i.e. having the nature of ranging constantly. This word need not be an epithet of the horse alone. For example:
+
+> आ यः पुरं नार्मिणीमदीदेदत्यः कविर्नभन्योऽ नार्वा ।
+> सूरो न रुरुक्वाञ्छतात्मा ॥
+
+> *ā yaḥ puraṃ nārmiṇīmadīdedatyaḥ kavirnabhanyo ' nārvā |*
+> *sūro na rurukvāñchatātmā ‖*
+
+(Ṛ. Saṃ. 1-149-3 [?]) — here it is an epithet of Agni and describes his independent method of ranging. And:
+
+> अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः ।
+> मृगाणां न हेतयो यन्ति चेमा बृहस्पतेरहिमायाँ अभि द्यून् ॥
+
+> *asya śloko divīyate pṛthivyāmatyo na yaṃsadyakṣabhṛdvicetāḥ |*
+> *mṛgāṇāṃ na hetayo yanti cemā bṛhaspaterahimāyā~ abhi dyūn ‖*
+
+(Ṛ. Saṃ. 1-190-4 [?]) — in this the word is used so that it gives the sense *atanaśīlaḥ ādityaḥ* ("the Āditya, who is of a ranging nature"). In the ṛk at hand it is an epithet of the horses of the Aśvin deities.
+
+---
+
+**Progress note:** printed p. 556 (PDF 576) done — Sūkta 181 Ṛk 2: Saṃhitā…printed English, Special Topics begun (śucayaḥ, atyāḥ; continues p. 557). Next: printed p. 557 (PDF 577). Open flags: refs [?]; review/doubts_v13.json.
