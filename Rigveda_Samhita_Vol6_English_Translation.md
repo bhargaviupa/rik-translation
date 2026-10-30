@@ -13093,7 +13093,7 @@ yenā vṛtraṃ nir adbhyo jaghantha vajrinn ojasārcann anu svarājyam ||2||*
 
 ### Page 571 (PDF 589)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 80.2, continued from p. 570:*
 
@@ -13161,7 +13161,7 @@ indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam |
 
 ### Page 573 (PDF 591)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.3)**
 
@@ -13188,7 +13188,7 @@ indra nṛmṇaṃ hi te śavo hano vṛtraṃ jayā apo 'rcann anu svarājyam |
 
 ### Page 575 (PDF 593)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 80.3, continued from p. 574 (grammar page, noted briefly):*
 
@@ -13257,7 +13257,7 @@ sṛjā marutvatīr ava jīvadhanyā imā apo 'rcann anu svarājyam ||4||*
 
 ### Page 577 (PDF 595)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 33" at the foot.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā". A signature mark "VI 33" at the foot.)*
 
 *Special Topics of Rik 80.4, continued:*
 
@@ -13317,7 +13317,7 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 ### Page 579 (PDF 597)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 *Pratipadārtha of Rik 80.5, continued from p. 578:*
 
@@ -13382,7 +13382,7 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 ### Page 581 (PDF 599)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 29"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 80.5, continued from p. 580 (grammar page, noted briefly):*
 
@@ -13434,7 +13434,7 @@ mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
 
 ### Page 583 (PDF 601)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 *Pratipadārtha of Rik 80.6, continued from p. 582:*
 
@@ -13482,7 +13482,7 @@ mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
 
 ### Page 585 (PDF 603)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.7**
 
@@ -13554,7 +13554,7 @@ The asuras are well known as *māyāvins*. *Māyāvin* means 'one who practises 
 
 ### Page 587 (PDF 605)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 80.7, continued from p. 586 — Ṛgvedic citations (three layers; glosses mine and tentative; reference numerals as read, all [?]):*
 
@@ -13623,7 +13623,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 ### Page 589 (PDF 607)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.8** *(Sanskrit in Kannada script; doubtful places [?])*
 
@@ -13688,7 +13688,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 ### Page 591 (PDF 609)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 80.8, continued:*
 
@@ -13741,7 +13741,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 ### Page 593 (PDF 611)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 38" at the foot.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā". A signature mark "VI 38" at the foot.)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha of Rik 80.9** *(Kannada)*
 
@@ -13793,7 +13793,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 ### Page 595 (PDF 613)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 80.9, continued from p. 594:*
 
@@ -13858,7 +13858,7 @@ mahat tad asya pauṃsyaṃ vṛtraṃ jaghanvāṁ asṛjad arcann anu svarājy
 
 ### Page 597 (PDF 615)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 30"; right: "Ṛgvedasaṃhitā".)*
 
 **English Translation** *(Rik 80.10; printed in English in the source)*
 
@@ -13907,7 +13907,7 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 
 ### Page 599 (PDF 617)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 80.11** *(Sanskrit in Kannada script; doubtful places [?])*
 
@@ -13968,7 +13968,7 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 
 ### Page 601 (PDF 619)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.12**
 
@@ -14034,7 +14034,7 @@ abhy enaṃ vajra āyasaḥ sahasrabhṛṣṭir āyatārcann anu svarājyam ||1
 
 ### Page 603 (PDF 621)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.12)** *(grammar page, noted briefly)*
 
@@ -14099,7 +14099,7 @@ ahim indra jighāṃsato divi te badbadhe śavo 'rcann anu svarājyam ||13||*
 
 ### Page 605 (PDF 623)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ भावार्थः ॥ — Bhāvārtha of Rik 80.13** *(Kannada)*
 
@@ -14143,7 +14143,7 @@ tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
 
 ### Page 607 (PDF 625)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -14207,7 +14207,7 @@ tvaṣṭā cit tava manyava indra vevijyate bhiyārcann anu svarājyam ||14||*
 
 ### Page 609 (PDF 627)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā". A signature mark "VI 39" at the foot.)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā". A signature mark "VI 39" at the foot.)*
 
 *Grammar of Rik 80.14, continued from p. 608:*
 
@@ -14277,7 +14277,7 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 ### Page 611 (PDF 629)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.15)**
 
@@ -14321,7 +14321,7 @@ tasminn nṛmṇam uta kratuṃ devā ojāṃsi saṃ dadhur arcann anu svarājy
 
 ### Page 613 (PDF 631)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.16** *(the last Ṛk of the sūkta)*
 
@@ -14389,7 +14389,7 @@ tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*
 
 ### Page 615 (PDF 633)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 80.16, continued:*
 
@@ -14419,7 +14419,7 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 ### Page 617 (PDF 635)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 *Special Topics of Rik 80.16, continued (the persons named in the Ṛk; Ṛgvedic citations in three layers, glosses mine and tentative, reference numerals as read, all [?]):*
 
@@ -14473,7 +14473,7 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 ### Page 619 (PDF 637)
 
-*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
+*(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga 31"; right: "Ṛgvedasaṃhitā".)*
 
 *Grammar of Rik 80.16, continued from p. 618:*
 

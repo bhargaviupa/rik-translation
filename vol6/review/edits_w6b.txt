@@ -662,3 +662,28 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 555: उ. १-१४१ [?] -> उ. १-१४५
   p. 555: u. 1-141 [?] -> u. 1-145
   p. 555: 1-[141] [?] -> 1-145
+  p. 571: Varga [?] -> 29
+  p. 573: Varga [?] -> 29
+  p. 575: Varga [?] -> 29
+  p. 577: Varga [?] -> 29
+  p. 579: Varga [?] -> 29
+  p. 581: Varga [?] -> 29
+  p. 583: Varga [?] -> 30
+  p. 585: Varga [?] -> 30
+  p. 587: Varga [?] -> 30
+  p. 589: Varga [?] -> 30
+  p. 591: Varga [?] -> 30
+  p. 593: Varga [?] -> 30
+  p. 595: Varga [?] -> 30
+  p. 597: Varga [?] -> 30
+  p. 599: Varga [?] -> 31
+  p. 601: Varga [?] -> 31
+  p. 603: Varga [?] -> 31
+  p. 605: Varga [?] -> 31
+  p. 607: Varga [?] -> 31
+  p. 609: Varga [?] -> 31
+  p. 611: Varga [?] -> 31
+  p. 613: Varga [?] -> 31
+  p. 615: Varga [?] -> 31
+  p. 617: Varga [?] -> 31
+  p. 619: Varga [?] -> 31
