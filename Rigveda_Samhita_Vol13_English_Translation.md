@@ -16066,4 +16066,92 @@ For the word **piśaṅgarūpaḥ** Sāyaṇa has explained "*hiraṇyarūpaḥ,
 
 ---
 
-**Progress note:** printed p. 574 (PDF 594) done — Sūkta 181 Ṛk 5 Pratipadārtha, Bhāvārtha, printed English, Special Topics (chariot of the Aśvins, piśaṅgarūpa; Max Müller; continues p. 575). Next: printed p. 575 (PDF 595). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 575  (PDF 595)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 575.)*
+
+*(Special Topics, continued.)* In this ṛk it is prayed that, with such splendour, the Aśvins should come to the house of the sacrifice, seated in the chariot that illumines the golden colour and draws the whole world towards it.
+
+**Sadanāni** — this word can also mean "the intermediate regions"; but in the present context the purport is "sacrificial houses".
+
+**Rajāṃsi** — the other special senses of this word have been told before; in the ṛk at hand it is taken as "world", and then the people of all the worlds — that is, the people as sacrificers — are meant. Sāyaṇa has explained the purport of the word thus: "*rajāṃsi lokāḥ ǀ atra lokaśabdo janavācakaḥ ǀ te yajamānarūpā janā ityarthaḥ*".
+
+**Pīpayanta** — formed from the root *ōpyāyī vṛddhau* (*pyai*) in the sense of growth. This word is used both in the sense of "growth" and of "gladness".
+
+> पीपाय स श्रवसा मर्त्येषु यो अग्नये ददाश विप्र उक्थैः ।
+
+> *pīpāya sa śravasā martyeṣu yo agnaye dadāśa vipra ukthaiḥ |*
+
+(Ṛ. Saṃ. 6-10-3 [?])
+
+> उत वां विक्षु मद्यास्वन्धो गाव आपश्च पीपयन्त देवीः ।
+
+> *uta vāṃ vikṣu madyāsvandho gāva āpaśca pīpayanta devīḥ |*
+
+(Ṛ. Saṃ. 1-143-4 [?]) — in ṛks such as these both senses are suggested. In the ṛk at hand also the sense is that the praise addressed to the Aśvin deities, and the food too, being full, give them perfect gladness.
+
+**Ghoṣyaiḥ** — the word *ghoṣa* is read among the names of speech (Ni. 1-11 [?]). Though this word generally means "sound", it is used in the sense of showing a special power in that sound. In the Saṃhitās and the Brāhmaṇas etc. the word *ghoṣa* means a sound possessing a supernatural (*alaukika*) power.
+
+> वि रोदसी अतपद्घोष एषाम् ।
+
+> *vi rodasī atapadghoṣa eṣām |*
+
+(Ṛ. Saṃ. 3-31-10 [?]);
+
+> अयामि घोष इन्द्र ।
+
+> *ayāmi ghoṣa indra |*
+
+(Ṛ. Saṃ. 8-93-2 [?]) — in Saṃhitā sentences such as these; and
+
+> ता वा एताः सर्वा ऋचः सर्वे वेदाः सर्वे घोषा एकैव व्याहृतिः ।
+
+> *tā vā etāḥ sarvā ṛcaḥ sarve vedāḥ sarve ghoṣā ekaiva vyāhṛtiḥ |*
+
+(Ai. Ā. 1-3-2 [?]);
+
+> मयि स्तोभो, मयि स्तोमो, मयि श्लोको मयि घोषो मयि यशः ।
+
+> *mayi stobho, mayi stomo, mayi śloko mayi ghoṣo mayi yaśaḥ |*
+
+(Ai. Ā. 3-1-3 [?]);
+
+> येनेदमन्नं पच्यते यदिदमद्यते तस्यैष घोषो भवति ।
+
+> *yenedamannaṃ pacyate yadidamadyate tasyaiṣa ghoṣo bhavati |*
+
+(Śa. Brā. 14-9-1-? [?]);
+
+> सर्वे स्वरा घोषवन्तो बलवन्तो वक्तव्याः ।
+
+> *sarve svarā ghoṣavanto balavanto vaktavyāḥ |*
+
+(Bhā. U. 2-22-3 [?]) — in such places also the word is used in the sense of a sound that is supernatural and possesses power. In the Ṛk at hand the meaning is: sound in the form of praise.
+
+### Printed p. 576  (PDF 596)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 576.)*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *kakuhaḥ* — from the word *kakubh*, *ha*-substitution for *bh* in Vedic usage; second (case) in plural, another form; *piśaṅgarūpaḥ* — a bahuvrīhi, by "*bahuvrīhau prakṛtyā pūrvapadam*" (Pā. Sū. 6-2-1 [?]) the former member keeps its own accent; *gamyāḥ* — root *gam ṛ gatau*; "*vyatyayo bahulam*" gives the *liṅ* (ending) of the third person singular, with second-person singular ending; "*bahulaṃ chandasi*" gives *luk* for *vikaraṇa*; *yāsuṭ* augment; *tiṅ* accent *nighāta*; *pīpayanta* — root *ōpyāyī vṛddhau*, *pī* substituted for the root in Vedic usage; *ṇic*, doubling; by "*bahulaṃ chandasy-māṅyoge 'pi*"… no *āḍāgama*; by *vyatyaya* the *ṇic* accent remains; *aśvinā* — "*supāṃ sulug…*" gives ā-substitution for the case ending (au); vocative gets *nighāta* accent; *ghoṣyaiḥ* — *ghuṣir viśabdane*, *ṇyat* suffix; "*pugantalaghūpadhasya ca*" gives guṇa of the penultimate short vowel; "*ñit-ādir-nityam*" gives initial acute. (All sūtra numerals small type: `[?]`.)  ‖ 5 ‖
+
+### Sūkta 181, Ṛk 6  (printed p. 576; PDF 596)
+
+**Saṃhitā-pāṭha**
+
+> प्र वां शरद्वान्वृषभो न निष्षाट् पूर्वीरिषश्चरति मध्व इष्णन् ।
+> एवैरन्यस्य पीपयन्त वाजैर्वेषन्तीरूर्ध्वा नद्यो न आगुः ॥ ६ ॥
+
+**Pada-pāṭha**
+
+> प्र । वां । शरत्ऽवान् । वृषभः । न । निःऽसाट् । पूर्वीः । इषः । चरति । मध्वः । इष्णन् ।
+> एवैः । अन्यस्य । पीपयन्त । वाजैः । वेषन्तीः । ऊर्ध्वाः । नद्यः । नः । आ । अगुः ॥ ६ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवयोरन्यतमो मध्यमस्थानः शरद्वाञ्छरणवान् मेघवृक्षपर्णादीनां विशरणवान् । अथवा बहुसंवत्सरः पूर्वतनो नित्य इत्यर्थः । वृषभो
+
+> *he aśvinau yuvayoranyatamo madhyamasthānaḥ śaradvāñcharaṇavān meghavṛkṣaparṇādīnāṃ viśaraṇavān | athavā bahusaṃvatsaraḥ pūrvatano nitya ityarthaḥ | vṛṣabho*
+
+---
+
+**Progress note:** printed p. 576 (PDF 596) done — Sūkta 181 Ṛk 5 ends (Special Topics, grammar); Ṛk 6 Saṃhitā, Pada, bhāṣya begun (continues p. 577). Next: printed p. 577 (PDF 597). Open flags: refs [?]; review/doubts_v13.json.
