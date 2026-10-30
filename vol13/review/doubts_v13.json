@@ -2530,5 +2530,29 @@
   ],
   "note": "Rik 10 bhashya: 'sasparddhan', 'asyam indram', 'sakhayoh' read approx",
   "answer": ""
+ },
+ {
+  "pdf": 320,
+  "printed": 300,
+  "crop": [
+   0.28,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 11 bhashya dense; 'dhyayannarte', 'yatha nilambena', 'dirgho na vakrascenati' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 320,
+  "printed": 300,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 11 Pratipadartha: rendering of 'tirthe naccha tatrsano..' and 'sidhram a krnoti' approximate",
+  "answer": ""
  }
 ]

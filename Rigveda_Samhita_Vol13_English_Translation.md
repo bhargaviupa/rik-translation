@@ -7561,4 +7561,60 @@ Emulous in commendation, like (those contending for the favour) of men, may Indr
 
 ---
 
-**Progress note:** printed p. 298 (PDF 318) done — Sūkta 173 Ṛk 10: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 299). Next: printed p. 299 (PDF 319). Open flags: Ṛk 10 word suśiṣvā/suśiprā [?]; bhāṣya doubtful [?]; review/doubts_v13.json.
+### Printed p. 299  (PDF 319)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+*(Special Topics concluded)* …as they honour a lord in his presence: the meaning is explained by comparing Indra, who is honoured visibly by the offering of oblations.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***vispardhasaḥ*** — *vigataṃ spardhaḥ yeṣāṃ te*; by "*bahuvrīhau prakṛtyā pūrvapadam*" (Pā. Sū. 6-2-1 [?]) the fore-member keeps its natural accent.
+- ***asmāka*** — Vedically the final letter is dropped.
+- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular; *nighāta* for a *tiṅ*.
+- ***vajrahastaḥ*** — *vajraḥ haste yasya saḥ*; a *vyadhikaraṇa* bahuvrīhi compound; the fore-member keeps its natural accent.
+- ***mitrāyuvaḥ*** — *mitrāṇi ātmanaḥ icchanti*; by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) *kyac*; the long vowel in the Saṃhitā Vedically; by "*kyāc chandasi*" (Pā. Sū. 3-2-170 [?]) the suffix *u* after a *kyac*-ending; by "*ato lopaḥ*" (Pā. Sū. 6-4-48 [?]) the *a* is dropped; the suffix accent remains; nominative plural.
+- ***pūrpatiḥ*** — *puraḥ patiḥ pūrpatiḥ*; by "*patyāvaiśvaryeye*" (Pā. Sū. 6-2-18 [?]) the fore-member keeps its natural accent.
+- ***suśiṣvā*** [?] — root *śāsu anuśiṣṭau*; *ktin* in the feminine (*striyāṃ ktin*) in the sense of the action; by "*śāsa idaj-halo*" (Pā. Sū. 6-4-34 [?]) the penultimate becomes *i*; by "*śāsivasighasīnāṃ ca*" (Pā. Sū. 8-3-60 [?]) the *s* of the root becomes *ṣ*; treating that as the cause, the suffix *t* becomes *ṭ* (*ṣṭutva*); by "*tādau ca niti*" (Pā. Sū. 6-2-50 [?]) the preposition (*su*) takes the *udātta* accent.
+- ***madhyāyuvaḥ*** — by "*kyāc chandasi*" (Pā. Sū. 3-2-170 [?]) the suffix *u* after the *kyac* ending; the *a* of *kyac* is dropped; long vowel in the Saṃhitā Vedically; the suffix accent remains.
+- ***śikṣanti*** — root *śikṣa vidyopādāne*; here used in the sense of giving; *laṭ*, third person plural; *nighāta* for a *tiṅ*. ‖ 10 ‖
+
+---
+
+**Sūkta 173, Ṛk 11**
+
+### Printed p. 300  (PDF 320)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Saṃhitā-pāṭha**
+
+> यज्ञो हि ष्मेन्द्रं कश्चिदृन्धञ्जुहुराणश्चिन्मनसा परियन् ।
+> तीर्थे नाच्छा तातृषाणोको दीर्घो न सिध्रमा कृणोत्यध्वा ॥ ११ ॥
+
+> *yajño hi ṣmendraṃ kaś cid ṛndhañ juhurāṇaś cin manasā pariyan |*
+> *tīrthe nācchā tātṛṣāṇoko dīrgho na sidhram ā kṛṇoty adhvā ‖ 11 ‖*
+
+**Pada-pāṭha**
+
+> यज्ञः । हि । स्म । इन्द्रम् । कः । चित् । ऋन्धन् । जुहुराणः । चित् । मनसा । परिऽयन् ।
+> तीर्थे । न । अच्छ । तातृषाणः । ओकः । दीर्घः । न । सिध्रम् । आ । कृणोति । अध्वा ॥ ११ ॥
+
+> *yajñaḥ | hi | sma | indram | kaḥ | cit | ṛndhan | juhurāṇaḥ | cit | manasā | pari-yan |*
+> *tīrthe | na | accha | tātṛṣāṇaḥ | okaḥ | dīrghaḥ | na | sidhram | ā | kṛṇoti | adhvā ‖ 11 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> कश्चिद्यज्ञो यज्ञवान् यज्ञानुष्ठाता ऋन्धन् वर्धयन् ऋन्धति वर्धयति । इन्द्रं यज्ञेन वर्धयतीत्यर्थः । जुहुराणश्चित् कुटिलगतिश्चित् कश्चिन्मनसा केवलेन परियन् परितो गच्छन् लौकिकविषयादिकं ध्यायन्नर्तते [?] । यद्वा । परि वर्जनार्थः । वर्जयित्वा गच्छन्नेदं प्राप्नोति । तत्र दृष्टान्तः । तीर्थे प्रसिद्धे मार्गेऽच्छाभिमुख्येन समीपे वर्तमानोऽकः पानीयादिकं सदनं तत्र तृषाणं पिपासायुक्तं यथानिलंबेन प्रीणाति [?] । स यथा तत्पदनमागच्छतीत्यर्थः । तद्वद्यज्ञेन कश्चित्तृप्यमानमिन्द्रमभिगच्छतीति । कुटिलस्य दृष्टान्तः । दीर्घो न वक्रश्चेनाति दूरोऽध्वा मार्ग इव [?] । स यथा सिध्रं फलं पानीयादिरूपं फलार्थिनं वा पुरुषमा कृणोति आर्वाक्करोति नीचैः करोति । वर्जयतीत्यर्थः । तस्माद्यज्ञमार्गमजानानो वक्रो दूरे परिभ्रमति नेन्द्रं तर्पयति । तद्विलक्षणस्तु वर्जयत्येव ॥ [?]
+
+> *kaścid yajño yajñavān yajñānuṣṭhātā ṛndhan vardhayan ṛndhati vardhayati | indraṃ yajñena vardhayatīty arthaḥ | juhurāṇaś cit kuṭilagatiś cit kaścin manasā kevalena pariyan parito gacchan laukikaviṣayādikaṃ dhyāyann arte [?] | yadvā | pari varjanārthaḥ | varjayitvā gacchann edaṃ prāpnoti | tatra dṛṣṭāntaḥ | tīrthe prasiddhe mārge 'cchābhimukhyena samīpe vartamāno 'kaḥ pānīyādikaṃ sadanaṃ tatra tṛṣāṇaṃ pipāsāyuktaṃ yathā nilambena prīṇāti [?] | sa yathā tatpadanam āgacchatīty arthaḥ | tadvad yajñena kaścit tṛpyamānam indram abhigacchatīti | kuṭilasya dṛṣṭāntaḥ | dīrgho na vakraś cenāti dūro 'dhvā mārga iva [?] | sa yathā sidhraṃ phalaṃ pānīyādirūpaṃ phalārthinaṃ vā puruṣam ā kṛṇoti ārvākkaroti nīcaiḥ karoti | varjayatīty arthaḥ | tasmād yajñamārgam ajānāno vakro dūre paribhramati nendraṃ tarpayati | tadvilakṣaṇas tu varjayaty eva ‖* [?]
+
+*Gist:* A sacrificer who worships Indra with the sacrifice makes him prosper; one of crooked ways, who goes round about with mind only on worldly things, does not satisfy Indra — like a long, winding road that keeps a man from his goal.
+
+**Pratipadārtha (Kannada, translated)**
+
+*kaḥ cit yajñaḥ* — a sacrificer, the performer of the sacrifice; *tīrthe* — (as by) a bathing-place; *accha* — by one who is near; *okaḥ* — the abode of water and the like; *tātṛṣāṇaṃ na* — as one is satisfied who is thirsty, by (affection that is not troubled): *ṛndhan sma* — (so) as he (increases Indra) prospers (him); (but) *juhurāṇaḥ cit* — a man of crooked ways; *dīrghaḥ* — the long; *adhvā* — path; *sidhram* — to the desired fruit; *ā kṛṇoti na* — makes (it) crooked; *sidhram* — the man who seeks the fruit; *ā kṛṇoti na* — as one is kept away (from the fruit he wishes); *manasā* — in the mind alone; *pari yan* — (thinking of worldly objects) wandering about (that is, never worships Indra).
+
+---
+
+**Progress note:** printed p. 300 (PDF 320) done — Sūkta 173 Ṛk 10 complete; Ṛk 11: Saṃhitā, Pada, bhāṣya, Pratipadārtha (continues p. 301). Next: printed p. 301 (PDF 321). Open flags: Ṛk 11 bhāṣya dense and Pratipadārtha garbled in places [?]; sūtra numerals [?]; review/doubts_v13.json.
