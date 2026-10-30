@@ -5770,5 +5770,29 @@
   ],
   "note": "Brh.De verses (Sarnyu legend) transcribed from print; ref number not printed in view; Rg 3-39-3 line1 garbled; Max Muller quote ok",
   "answer": ""
+ },
+ {
+  "pdf": 589,
+  "printed": 569,
+  "crop": [
+   0.1,
+   0.3,
+   0.1,
+   0.9
+  ],
+  "note": "Brh.De ref numerals 6-162 to 7-2 as read; Sanskrit lines as read",
+  "answer": ""
+ },
+ {
+  "pdf": 590,
+  "printed": 570,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 1-182-1 and 9-66-11 refs doubtful; verse 1 line 3 chaturakshau as read",
+  "answer": ""
  }
 ]
