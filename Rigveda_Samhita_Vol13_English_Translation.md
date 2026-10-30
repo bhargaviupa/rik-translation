@@ -8962,4 +8962,56 @@ For "men who perform sacrifice", the words *āyuḥ*, *āyoḥ* have been used i
 
 ---
 
-**Progress note:** printed p. 344 (PDF 364) done — Sūkta 174 Ṛk 6 Special Topics (āyu; continues p. 345). Next: printed p. 345 (PDF 365). Open flags: Ṛg/Nirukta/Śa. Brā. refs and garbled Śatapatha quote (Urvaśī/Purūravas) [?]; review/doubts_v13.json.
+### Printed p. 345  (PDF 365)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+> होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायवे ।
+
+> *hotrābhir agnir manuṣaḥ svadhvaro rājā viśām atithiś cārur āyave |*
+
+(Ṛ. Saṃ. 2-2-8 [?]);
+
+> इमं विधन्तो अपां सधस्थे द्वितादधुर्भृगवो विक्ष्वायोः ।
+
+> *imaṃ vidhanto apāṃ sadhasthe dvitādadhur bhṛgavo vikṣv āyoḥ |*
+
+(Ṛ. Saṃ. 2-4-2 [?]);
+
+> प्र स्वादनं पितूनामस्तं तातिं चिदायवे ।
+
+> *pra svādanaṃ pitūnām astaṃ tātiṃ cid āyave |* [as read: [?]]
+
+(Ṛ. Saṃ. 5-7-6 [?]) — in many such ṛks the Bhāṣya-writer has given the word *āyu* the meaning "sacrificer". In the ṛk at hand also, pointing to the same intention, he has explained it as meaning "men, the Adhvaryu and others".
+
+***śūrtāḥ — kṣiptāḥ*** — the word *śūrtāḥ* is read among the names of "swift" (*kṣipra*) (Ni. 2-… [?]). Here it is used in the sense "swiftly".
+
+***apatyaṃ — kulasyāpātayitāraṃ putraṃ*** — the word *apatya* is read among the fifteen names of progeny, *tuk*, *tokam* and so on (Ni. 3-2 [?]). "*Apatyaṃ kasmāt*" — "*apatataṃ bhavati pitus sakāśāt pṛthag iva tataṃ bhavati*, *nānena pateti vā*" [as read: [?]] — Durgācārya has explained the meaning of the word thus: because it is spread separately, as it were, from the father; or because the father, through the son, is not made to fall into hell (*naraka*). Sāyaṇa explains that the child that arises is called *apatya* because he makes the family prosper and does not let it fall (*kulasyāpātayitāram*).
+
+Sāyaṇa has explained three kinds of meaning for the second half of the ṛk. In the first sense: Indra, they learn, is of the nature of a generous giver; the men, the Adhvaryu and others, with the other priests, quickly make an offering of oblations in the form of food; and they are to see the generous Indra, having obtained, from the delighted Indra, a son who maintains the family (a progeny who increases the family): so the sense is described.
+
+In the second: ***yadvā — aryamaṇaṃ tvāṃ paśyanti te evaṃ bhavanti*** — knowing Indra to be the destroyer of the darkness of ignorance, those who behold him obtain a son who maintains the family, and, seeing Indra again face to face, are described as having worldly and otherworldly happiness.
+
+In the third: ***yadvā ye narā aryamaṇaṃ yaṃ kaṃcid dātāraṃ paśyan paśyantas tvām ayajanta āyor manuṣyasya sacā sahāyabhūtās tvayā śūrtāḥ kṣiptāvarjitā apatyaṃ putraṃ vahamānā ye santi tān jaghanvān bhava* —
+
+### Printed p. 346  (PDF 366)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+— "those who, regarding anyone as a giver, with indifference worship Indra; since they are the helpers of men, you, Indra, quickly destroy their wealth, in the form of sons and grandsons, and destroy them also": this is the meaning explained. (In the Kannada commentary the sense of this ṛk is explained in a somewhat free way, since it is difficult to construe smoothly.)
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***jaghanvān*** — root *hana hiṃsāgatyoḥ*; by "*kvasuś ca*" (Pā. Sū. 3-2-107 [?]) the substitution *kvasu* for *liṭ*; reduplication of the root; by "*kuhoś cuḥ*" (Pā. Sū. 7-4-62 [?]) *ku* becomes *cu*; "*abhyāsāc ca*" (Pā. Sū. 7-3-55 [?]) *ku* for the *h* following the reduplicative syllable; the accent of *vasu* remains; nominative singular: *num*, long vowel, loss of *s*.
+- ***mitrerūn*** — root *īra gatihiṃsādarśaneṣu*; the suffix *u* after a *ṭoṇādika* [?]; *mitrāṇi īrayanti iti mitrerava iti tān*; the *kṛdutta* final member keeps its natural accent; accusative plural.
+- ***codapravṛddhaḥ*** — *codaiḥ pravṛddhaḥ*; by "*tṛtīyā karmaṇi*" (Pā. Sū. 6-2-48 [?]) the fore-member keeps its natural accent.
+- ***harivaḥ*** — *harayaḥ asya santi iti harivān*; in the vocative, *ru*; by "*āmantritasya ca*" *nighāta* accent.
+- ***adāśūn*** — root *dāś dāne*; by *ṭoṇādika* *u*; *na dāśavaḥ adāśavaḥ tān*; by "*tatpuruṣe tulyārtha*…" (Pā. Sū. 6-2-2 [?]) *naña*-fore-member keeps its natural accent.
+- ***paśyan*** — root *dṛśir prekṣaṇe*; *laṅ* in the present sense, Vedically; third person plural; no augment Vedically; by "*yad vṛttān nityam*" (Pā. Sū. 8-1-66 [?]) *nighāta* is prohibited; the *sārvadhātuka* *la* being *anudātta*, the root accent remains.
+- ***āyoḥ*** — root *iṇ gatau*; by "*chandasīṇaḥ*" the suffix *uṇ*; by "*aco ñṇiti*" (Pā. Sū. 7-2-115 [?]) *vṛddhi* of the root, substitution *āy*; the suffix accent remains.
+- ***vahamānāḥ*** — root *vaha prāpaṇe*; *śānac* for *laṭ*; the *śap* vikaraṇa; by "*āne muk*" the augment *muk*; since the *sārvadhātuka* *la* is *anudātta*, the root accent remains.
+- ***apatyam*** — *na patanti pitaraḥ yena*; root *patḷ gatau*; suffix *yat*; the *naña* fore-member keeps its natural accent. ‖ 6 ‖
+
+---
+
+**Progress note:** printed p. 346 (PDF 366) done — Sūkta 174 Ṛk 6 complete. Next: printed p. 347 (PDF 367), Sūkta 174 Ṛk 7. Open flags: Ṛg/Nirukta refs [?]; sūtra numerals [?]; Ṛk 6 construing difficult; review/doubts_v13.json.
