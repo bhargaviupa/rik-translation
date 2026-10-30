@@ -18364,4 +18364,42 @@ Here ends the hundred and eighty-third Sūkta.
 
 ---
 
-**Progress note:** printed p. 656 (PDF 676) done — Sūkta 183 complete (Ṛk 6 Special Topics end, grammar, closing). Next: printed p. 657 (PDF 677): Sūkta 184 heading. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 657  (PDF 677) — end of the Fourth Adhyāya of the Second Aṣṭaka
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 657. The scan ends with this page; the printer's imprint is at its foot.)*
+
+**Closing verse and colophon (Sanskrit, three layers)**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्यधुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे ऋक्संहिताभाष्ये द्वितीयाष्टके चतुर्थोऽध्यायः समाप्तः ॥
+
+*(Sanskrit as read. Gloss: "May Maheśvara, the *Vidyātīrtha*, dispelling the darkness of the heart by the light of the meaning of the Veda, grant the four human aims. — Thus ends the Fourth Adhyāya of the Second Aṣṭaka in the Ṛk-saṃhitā-bhāṣya, called the *Mādhavīya Vedārtha-prakāśa*, composed by Sāyaṇācārya, bearer of the burden of the empire of the illustrious king Vīra Bukka, promoter of the Vedic path." — "Mine and tentative" for the compound titles.)*
+
+**Kannada closing (printed)**
+
+> ॥ ॐ तत्सत् ॥
+
+*(Kannada, printed:)* Here the Fourth Adhyāya in the Second Aṣṭaka of the Ṛgveda-saṃhitā, with the Sāyaṇa-bhāṣya and the Kannada (Karnāṭaka) translation, is concluded.
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+
+*(Gloss: "Whatever syllable or word has slipped, or is wanting in measure, let all that be forgiven, O God, Lord of Speech; salutation to you.")*
+
+> ॥ शुभं भूयात् ॥
+> ॥ मङ्गलम् ॥
+
+*(Gloss: "May it be auspicious. Blessing.")*
+
+**Printer's imprint (Kannada, printed):** R. Krishna Shetty, Printer, Sri Sharada Press, Hanumantharao Street, Mysore.
+
+*(End of the volume scan: PDF 677 = printed p. 657.)*
+
+---
+
+**Progress note:** VOLUME COMPLETE — printed p. 657 (PDF 677) is the last page of the scan (end of the Fourth Adhyāya of the Second Aṣṭaka); Sūktas 166–183 translated. Open flags: all [?] readings (small-type reference numerals; garbled Brāhmaṇa/Nirukta/Bṛhaddevatā quotations); see vol13/review/doubts_v13.json (571 doubts logged).
