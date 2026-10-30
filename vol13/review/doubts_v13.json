@@ -6754,5 +6754,29 @@
   ],
   "note": "Sa.Br. quote with print gap; Rg 5-26-3, 8-44-11, 5-26-2 refs [?]; Sa.Br. 1-4-1-10..15 ref [?]",
   "answer": ""
+ },
+ {
+  "pdf": 669,
+  "printed": 649,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br. 11-4-3-20 quote garbled in print, many words [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 670,
+  "printed": 650,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Bṛ.U. ref, Rg 1-180-4 ref [?]; grammar sutra numerals [?]",
+  "answer": ""
  }
 ]
