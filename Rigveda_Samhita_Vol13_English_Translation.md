@@ -9964,4 +9964,107 @@ The close connection of Kutsa and of Indra is learned from the descriptions in t
 
 ---
 
-**Progress note:** printed p. 380 (PDF 400) done — Sūkta 175 Ṛk 4 Special Topics (kavi, muṣāya, śuṣṇa, kutsa; continues p. 381). Next: printed p. 381 (PDF 401). Open flags: Ṛg/Nirukta/Śatapatha refs and some quotes [?]; review/doubts_v13.json.
+### Printed p. 381  (PDF 401)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+…quotes the Vājasaneyi-saṃhitā mantra:
+
+> एतद्वा इन्द्रस्य गुह्यं नाम यदर्जुनः ।
+
+> *etad vā indrasya guhyaṃ nāma yad arjunaḥ |*
+
+and, further —
+
+> अहं कुत्समार्जुनेयं न्यृंजेऽहं कविरुशना पश्यता मा ।
+
+> *ahaṃ kutsam ārjuneyaṃ nyṛṃje 'haṃ kavir uśanā paśyatā mā |*
+
+(Ṛ. Saṃ. 4-26-1 [?]);
+
+> दासं यच्छुष्णं कुयवं न्यस्मा अरन्धय आर्जुनेयाय शिक्षन् ।
+
+> *dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhaya ārjuneyāya śikṣan |*
+
+(Ṛ. Saṃ. 7-19-2 [?]);
+
+> वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ।
+
+> *vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam |* [as read: [?]]
+
+(Ṛ. Saṃ. 4-1-11 [?]) —
+
+in such ṛks, for the words *ārjuneya* and the like, Sāyaṇa too has explained "*arjunyāḥ putraṃ kutsaṃ*" — "Kutsa, the son of Arjunī": that is, Kutsa, the son of the woman Arjunī. Since it is said in other Śrutis that the words *Arjuna*, *Arjunī* are connected with Indra, the two kinds of explanation above may be said to give one and the same meaning. For example —
+
+> फल्गुनीष्वग्नी आदधीत । एता वा इन्द्रनक्षत्रं यत्फल्गुन्योऽर्जुनस्य प्रतिनाम्न्योऽर्जुनो ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुन्यो वै नाम्नैतास्ता एतेकत्परोक्षमाचक्षते फल्गुन्य इति को हेतस्यार्हति गुह्यं नाम ………………… ।
+
+> *phalgunīṣv agnī ādadhīta | etā vā indranakṣatraṃ yat phalgunyo 'rjunasya pratināmnyo 'rjuno ha vai nāmendro yad asya guhyaṃ nāmārjunyo vai nāmnaitās tā etekat parokṣam ācakṣate phalgunya iti ko hetasyārhati guhyaṃ nāma ………………… |*
+
+(Śa. Brā. 2-1-2-11 [?]);
+
+> इन्द्रो भवति यच्छ क्षत्रियो यदु च यजमानस्तस्मादाहारिष्ठोऽर्जुन इति ।
+
+> *indro bhavati yac cha kṣatriyo yad u ca yajamānas tasmād āhāriṣṭho 'rjuna iti |*
+
+(Śa. Brā. 5-4-1-2 [?]).
+
+The *Phalgunī* are the lunar mansions of Indra; they are also associated with his name. Indra has the name *Arjuna*, and the *Phalgunīs* are also called *Arjunīs*; since this is said in the Śatapatha Brāhmaṇa and in other places, Kutsa may be called by two names, "son of Indra" and "son of Ārjunī". In many places of the Ṛk-saṃhitā it is shown that Kutsa conquered his enemies with the help of Indra; thus the relation of Indra and Kutsa is shown.
+
+> त्वं शुष्णं वृजने पृक्ष आणौ यूने कुत्साय द्युमते सचाहन् ।
+
+> *tvaṃ śuṣṇaṃ vṛjane pṛkṣa āṇau yūne kutsāya dyumate sacāhan |*
+
+(Ṛ. Saṃ. 1-63-3 [?]);
+
+> कुत्साय यत्र पुरुहूत वन्वञ्छुष्णमनन्तैः परियासि वध्नैः ।
+
+> *kutsāya yatra puruhūta vanvañ chuṣṇam anantaiḥ pariyāsi vadhnaiḥ |*
+
+(Ṛ. Saṃ. 1-121-9 [?]) —
+
+in such ṛks, as well as in many other places, the description is that Indra killed Śuṣṇa to help Kutsa. And again —
+
+### Printed p. 382  (PDF 402)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+> अहं पितेव वेतसूनभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ।
+
+> *ahaṃ piteva vetasūn abhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam |* [as read: [?]]
+
+(Ṛ. Saṃ. 10-49-4 [?]) — here Indra himself says, "For Kutsa I subdued Vetasu, Tugra, Smadibha and others, all the enemies, and helped my friend." And —
+
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
+
+> *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
+
+(Ṛ. Saṃ. 1-53-10 [?]);
+
+> य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवेदिवे ।
+
+> *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive |*
+
+(Ṛ. Saṃ. 8-53-2 [?]) — in such ṛks Indra is also described as having subdued Kutsa and others.
+
+***vadhaṃ*** — the Nirukta-writers have read *vadha* among the names of strength. When this word is used in the Ṛk-saṃhitā, it is often an epithet of the thunderbolt, which is the instrument that is used with strength and is the means of killing. For example,
+
+> स्वयं सो अस्मदा निदो वधैरजेत दुर्मतिम् ।
+
+> *svayaṃ so asmad ā nido vadhair ajeta durmatim |*
+
+(Ṛ. Saṃ. 1-129-6 [?]) — in such ṛks (1-129-6; 2-20-2; 6-20-4 and others [?]) the words *vadhaiḥ*, *vadham* are used in the sense of weapons such as the thunderbolt, the instruments of killing. For this instrument of killing it is not a rule that it must be Indra's thunderbolt; any weapon that is used with strength may be a synonym of this. For example —
+
+> अरे गोहा नृहा वधो वो अस्तु सुम्नेभिरस्मे वसवो नमध्वम् ।
+
+> *are gohā nṛhā vadho vo astu sumnebhir asme vasavo namadhvam |*
+
+(Ṛ. Saṃ. 7-56-17 [?]) — here, addressing the Maruts, a prayer is made that their weapon may not harm the sacrificers. In the ṛk at hand it means Indra's thunderbolt.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***muṣāya*** — root *muṣa steye*, *kryādi*; *loṭ*, second person singular, *sip*; *hi* substituted for it; by "*chandasi śāyajapi*" (Pā. Sū. 3-1-84 [?]) the substitution *śāyac* for the *vikaraṇa*; because it is *sārvadhātuka*… "*sārvadhātukam apit*" (Pā. Sū. 1-2-4 [?]), being *jit*, the light-vowel guṇa does not occur; because it is in *pādādi* position, no *nighāta*; the suffix is *cit*, so by "*cita*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
+- ***kave*** — root *ku śabde*; by "*ajiriśiḥ*" (Uṇ. Sū. 4-… [?]) the suffix *i*; making that the cause, *guṇa*, *avādeśa* (*av*); vocative singular; the vocative (*āmantrita*) takes *nighāta* accent.
+
+---
+
+**Progress note:** printed p. 382 (PDF 402) done — Sūkta 175 Ṛk 4 Special Topics complete; grammar begun (continues p. 383). Next: printed p. 383 (PDF 403). Open flags: Ṛg/Śatapatha refs and quotes [?]; sūtra numerals [?]; review/doubts_v13.json.
