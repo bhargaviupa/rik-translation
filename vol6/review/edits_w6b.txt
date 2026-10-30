@@ -192,3 +192,78 @@ p. 331: Bṛhaddevatā verse re-read: "tasmād dhy adyāpi" -> "tasmād ye 'dyā
 p. 332: "prādīnāṃ hrasvaḥ [as read]" -> "pvādīnāṃ hrasvaḥ" (print). Uṇ. number reads 4-650 at 600 dpi (p. 329 prints 4-210): doubts page.
 p. 323: grammar page; only the running head checked. Sūkta 71 grammar-page "sūtra numerals [?]" notes left (grammar pages, not re-read).
 Unit 4 ends at p. 332 (end of Sūkta 71).
+Unit 5 (Sukta 72 from p. 333):
+  p. 333: running-head Varga [?] -> 17
+  p. 333: colophon Varga [15?], [16?] -> 17, 18
+p. 333: Saṃhitā 72.1 accents set as printed.
+p. 334: bhāṣya "datteṣv asyaiverdhanaṃ [?] na prīyate" -> "datteṣv apy agner dhanaṃ na kṣīyata" (print); "āth." -> "ath." (print).
+  p. 334: Ath. [5-4-11?] -> 5-28-11
+  p. 334: Pā. [5-1-2?] -> 5-1-2
+  p. 335: running-head Varga [?] -> 17
+  p. 337: running-head Varga [?] -> 17
+  p. 339: running-head Varga [?] -> 17
+  p. 341: running-head Varga [?] -> 17
+  p. 343: running-head Varga [?] -> 17
+  p. 345: running-head Varga [?] -> 17
+  p. 347: running-head Varga [?] -> 17
+  p. 349: running-head Varga [?] -> 17
+  p. 351: running-head Varga [?] -> 17
+  p. 353: running-head Varga [?] -> 17
+  p. 355: running-head Varga [?] -> 17
+  p. 357: running-head Varga [?] -> 18
+  p. 359: running-head Varga [?] -> 18
+  p. 361: running-head Varga [?] -> 18
+  p. 345: running-head Aṣṭaka 1 -> 2 [as printed; for 1]
+  p. 335: Ni. [3-15?] -> [3-19?]
+  p. 336: Ni. [3-13?] -> 3-13
+  p. 336: Ni. [3-13?] -> 3-13
+  p. 336: Ath. Saṃ. [5-4-11?] -> 5-28-11
+  p. 336: Ni. [11-?] -> 11-36
+p. 335: Ni. number for the names of the wise reads 3-19 (last digit ೯-like) [?]: doubts page.
+p. 337: grammar page; running head only.
+p. 338: Saṃhitā 72.2 accents set as printed; "amūrāḥ", "parame", "cārv agneḥ" accents doubtful [accent ?] (doubts page); IAST "cār agneḥ" -> "cārv agneḥ".
+  p. 338: Tai. Brā. [3-2-2-10?] -> 3-7-7-10
+p. 338: bhāṣya "dhiyom agneḥ" -> "dhiyām agneḥ" (print). p. 340 Tai. Brā. citation of the same passage set to 3-7-7-10 after viewing p. 340 (below).
+p. 339: bhāṣya "tenāditvād guṇ[?]" -> "tenāditvād uvaṅ" (print).
+  p. 339: Pā. [8-3-87?] -> 8-3-87
+  p. 339: Uṇ. [2-57?] -> 2-57
+  p. 340: Ni. [6-6?] -> 6-7
+  p. 340: Ni. [1-4?] -> 1-4
+  p. 340: Ni. [1-4?] -> 1-4
+  p. 340: Tai. Brā. [3-2-2-10?] -> 3-7-7-10
+  p. 341: Ni. [6-9?] -> 6-8
+  p. 341: Ṛk. Saṃ. [10-4-4?] -> 10-4-4
+  p. 341: Ṛk. Saṃ. [1-30-14?] -> 1-51-14
+  p. 341: Ṛk. Saṃ. [6-1-4?] -> 6-1-4
+p. 341: "twenty-two [as read, ?] words" -> "thirty-two words" (print "mūvatteraḍu").
+  p. 342: Ṛk. Saṃ. [4-?-?] -> 9-97-39
+p. 343: Saṃhitā 72.3 accents set as printed; "yajñiyāny asūdayanta" marks doubtful [accent ?] (doubts page).
+p. 344: bhāṣya "kedanantaraṃ(?)" -> "tadanantaraṃ" (print); "ghakhañau" confirmed.
+  p. 344: Tai. Saṃ. [4-6-5-5?] -> 4-6-5-5
+  p. 344: Phi. [1-1?] -> 1-1
+  p. 344: Uṇ. [1-139?] -> [1-129?]
+  p. 344: Pā. [2-3-5?] -> 2-3-5
+p. 344: Uṇ. number reads 1-129 (middle digit ೨-like) [?]: doubts page.
+  p. 345: Ni. [6-1?] -> 6-1
+p. 345: "āśukukṣaṇi, are different in this way [as read, ?]" -> "āśuśukṣaṇi, are different" (print).
+  p. 346: Ṛk. Saṃ. [2-1-1] -> 2-1-1
+  p. 346: Ni. [4-?] -> 4-26
+  p. 346: Ṛk. Saṃ. [10-85-39?] -> 10-85-39
+  p. 346: Tai. Saṃ. [4-6-5-5?] -> 4-6-5-5
+  p. 347: Ni. [3-5?] -> 3-13
+p. 347-348: grammar pages; sutra numerals not re-read.
+p. 348: Saṃhitā 72.4 accents set as printed.
+  p. 349: Tai. Saṃ. [1-5-1-1?] -> 1-5-1-1
+  p. 349: Ni. [3-20?] -> 3-20
+  p. 349: Tai. Saṃ. [2-5-4-3?] -> 5-4-8-3
+p. 349: "tad agnir nārkāmayata": print appears "nyarkāmayata" [?] (doubts page).
+  p. 350: Pā. [6-2-4?] -> 7-4-45
+p. 350: bhāṣya tail "nipāto 'kaḥ [?]" -> "nipātyate" (print).
+  p. 350: Ni. [3-30?] -> [3-22?]
+p. 350: Ni. number for rodasī reads 3-22 (two ೨-like digits) [?]: doubts page.
+  p. 351: Tai. Saṃ. [1-5-1-1?] -> 1-5-1-1
+  p. 351: Ni. [3-20?] -> 3-20
+  p. 351: Ni. [2-2?] -> [3-2?]
+  p. 351: Ni. [3-18?] -> 3-19
+p. 351: "fifteen names of mankind" -> "twenty-five" (print "ippattaidu"); "[as read, ?]" removed from "thirteen names of hymns" (print "hadimūru"). Ni. for mankind reads 3-2 [?] (doubts page). Tai. Saṃ. [2-5-4-3?] on this page not re-viewed (p. 349 prints 5-4-8-3).
+Unit 5 ends at p. 351 (Ṛks 72.1–72.4; p. 352 grammar page not re-read).
