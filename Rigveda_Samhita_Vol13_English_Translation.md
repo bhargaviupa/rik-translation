@@ -17687,4 +17687,42 @@ Second: the description that the third step (or station) of all of them lies in 
 
 ---
 
-**Progress note:** printed p. 630 (PDF 650) done — Sūkta 183 Ṛk 1 Special Topics (tridhātu: many senses, citations from Chā. U., Ṛg, Śa. Brā., Tai. Saṃ.; continues p. 631). Next: printed p. 631 (PDF 651). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 631  (PDF 651)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 631.)*
+
+*(Special Topics, continued.)* — "[the worlds'] being in the three worlds, and in the three forms (*trirūpa*), and the Prajāpati arranged food, in the form of the puroḍāśa, for the deity who is in the three times": thus for the word **tridhātu** he gives meanings such as **loka** (world), **anna** (food), **bhūtatraya** (the three beings). Thus the word *tridhātu* is used in different senses in various places. In the present context it may be said that, in the ṛks that praise the deities Agni, the Aśvin deities and Viṣṇu, this word is used as a synonym indicating the three worlds, Earth, Atmosphere and Heaven. The explanation of the words *tricakra*, *tridhātu* etc. is given in the Special Topics of the 34th Sūkta in Part 4 [?] of the Ṛg-saṃhitā.
+
+**Duroṇaṃ** — the word *duroṇa* is read among the names of house (Ni. 3-13 [?]); in general the meaning is "sacrificial house".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *yuñjāthām* — root *yujir yoge*; *loṭ* second person dual, *āthām* suffix; "*rudhādibhyaḥ śnam*" (Pā. Sū. 3-1-78 [?]) gives *śnam* as *vikaraṇa*; since it has *m*, it comes after the last vowel; "*śnasoralloṇaḥ*" (Pā. Sū. 6-4-111 [?]) elides the *a* of the *vikaraṇa*; *tiṅ*, *nighāta* accent. *javīyān* — suffix *īyasun* in the sense of excess; "*ñit-ādir-nityam*" (Pā. Sū. 6-1-197 [?]) gives initial acute. *trivandhuraḥ* — belonging to the *tricakrādi* group, in a *bahuvrīhi* compound; "*tricakrādīnāṃ chandasy upasaṃkhyānam*" gives acute on the last syllable of the latter member; and in *tricakraḥ* too, in the same way, final acute. *upayāthaḥ* — root *yā prāpaṇe*; *laṭ* second person dual form; since *yat* is connected, there is no *nighāta* accent; by the suffix accent, final acute; "*tiṅ-ci-odāttavati*" (Pā. Sū. 8-1-71 [?]) — the *gati* (*upa*) is wholly unaccented. *patathaḥ* — root *paṭlṛ gatau* [as read]; *laṭ* second person dual; *tiṅ*, *nighāta* accent. *viḥ* — root *vā gatigandhanayoḥ*; "*vāteḍiḥ…*" (Un. Sū. 4-124 [?]) gives suffix *iṇ*; since the *ḍit*-ness is laid down, the *ṭi* part of the root (*a*) is elided; suffix accent. *parṇaiḥ* — root *pṝ pālanapūraṇayoḥ*; "*dhāsyavasyajyatibhyo naḥ*" (Un. Sū. 3-?? [?]) gives suffix *na*; with the suffix as occasion, guṇa of the root's *i*; *r* follows; "*raṣābhyāṃ* …
+
+### Printed p. 632  (PDF 652)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 632.)*
+
+*(Grammar, continued:)* … by the sūtra, *ṇatva* of the suffix's *n*; by the suffix accent, final acute; third (case) plural form.  ‖ 1 ‖
+
+### Sūkta 183, Ṛk 2  (printed p. 632; PDF 652)
+
+**Saṃhitā-pāṭha**
+
+> सुवृद्रथो वर्तते यन्नभि क्षां यत्तिष्ठथः क्रतुमन्तानु पृक्षे ।
+> वपुर्वपुष्या सचतामियं गीर्दिवो दुहित्रोषसा सचेथे ॥ २ ॥
+
+**Pada-pāṭha**
+
+> सुऽवृत् । रथः । वर्तते । यन् । अभि । क्षां । यत् । तिष्ठथः । क्रतुऽमन्ता । अनु । पृक्षे ।
+> वपुः । वपुष्या । सचताम् । इयं । गीः । दिवः । दुहित्रा । उषसा । सचेथे इति ॥ २ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवयोः रथः सुवृत् शोभनचक्रपरिभ्रमणो यन् गच्छन् क्षामभि वर्तते । देवयजनभूमिं प्रति गच्छति । यद्यं रथं क्रतुमन्ता संकल्पवन्तौ कर्मवन्तौ वा पृक्षे । अन्ननाम्नैतत् । हविषि निमित्तभूते सति । अन्नस्पृध्यर्थे । अधि तिष्ठथः आश्रयथः । ताद्दृशो रथो देवयजनं प्रत्यागत इत्यर्थः । अनन्तरं वपुष्या युष्मद्वपुषि हिता शरीरवर्धनीयं गीरिदानीं क्रियमाणप्रकारा स्तुतिरूपा वाग्वपुः सचताम् । युवां च दिवो द्युलोकस्यादित्यस्य वा दुहित्रा दुहितृस्थानीययोः उषसोपोदेवतयोषसा सचेथे । यज्ञं संगच्छेथे । उषस्याश्विनयोः समानकालत्वादिति भावः ॥
+
+*(Sanskrit as read; doubtful in several words [?]. Gist: the Aśvins' well-wheeled chariot comes to the sacrificial ground when you, resolute, mount it for the offering; may this praise reach your forms; you consort with Dawn, daughter of Heaven.)*
+
+**Pratipadārtha** — (*he aśvinau* — O Aśvin deities) **kratumantā** — you two who possess the rite (resolved on the sacrifice); **pṛkṣe** — for the oblation; **yat** — which chariot; **anutiṣṭhathaḥ** — you ascend, resorting to it; (**saḥ** — that); **suvṛt** — with well-turning wheels; **rathaḥ** — your chariot; **yan** — going; **kṣāṃ** — to the place of sacrifice; **abhi vartate** — goes towards.
+
+---
+
+**Progress note:** printed p. 632 (PDF 652) done — Sūkta 183 Ṛk 1 ends (Special Topics, grammar); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 633). Next: printed p. 633 (PDF 653). Open flags: refs [?]; review/doubts_v13.json.
