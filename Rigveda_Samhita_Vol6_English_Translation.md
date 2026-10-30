@@ -12637,8 +12637,10 @@ mārḍīkaṃ dhehi jīvase ||9||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.10**
 
-> प्र पूतास्तिग्मशोचिषे वाचो गोतमाग्नये ।
-> भरस्व सुम्नयुर्गिरः ॥ १० ॥
+*(Accents as printed, 300 dpi; many underline/stroke positions doubtful: [accent ?]; only the main strokes are reliable.)*
+
+> प्र पू॒तास्ति॒ग्मशो॑चिषे॒ वाचो॑ गोतमा॒ग्नये॑ ।
+> भर॑स्व सु॒म्नयु॑र्गिरः॑ ॥ १० ॥
 
 *pra pūtās tigmaśociṣe vāco gotamāgnaye |
 bharasva sumnayur giraḥ ||10||*
