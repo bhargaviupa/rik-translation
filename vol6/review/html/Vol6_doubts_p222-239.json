@@ -1,0 +1,34 @@
+[
+{
+"id": "222_d0",
+"printed": 222,
+"file": "प॒रि यदे॑षा॒मेको॒",
+"ctx": "Rik 68.1 Saṃhitā line 2: प॒रि यदे॑षा॒मेको॒ विश्वे॑षां॒",
+"kind": "accent",
+"note": "Line under pa of pari (as written) or under ri?"
+},
+{
+"id": "226_d1",
+"printed": 226,
+"file": "भ॑जन्त॒ विश्वे॑",
+"ctx": "Rik 68.2 Saṃhitā (concluded): भ॑जन्त॒ विश्वे॑ देव॒त्वं",
+"kind": "accent",
+"note": "Svarita above bha (as written) or above ja?"
+},
+{
+"id": "231_d2",
+"printed": 231,
+"file": "मनो॒रप॑त्ये॒ स चि॒न्न्वा॑सां॒ पती रयीणाम्",
+"ctx": "Rik 68.4 Saṃhitā line 1: निष॑त्तो॒ मनो॒रप॑त्ये॒",
+"kind": "accent",
+"note": "Line under no of manor (or ma)? Any svarita on patī? Any marks on rayīṇām?"
+},
+{
+"id": "231_d3",
+"printed": 231,
+"file": "स्वैर्दक्षैरमू॑राः",
+"ctx": "Rik 68.4 Saṃhitā line 2: सं जा॑नत॒ स्वैर्दक्षैरमू॑राः",
+"kind": "accent",
+"note": "Svarita above mū (as written) or above ra/kṣai?"
+}
+]

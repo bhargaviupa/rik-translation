@@ -1,7 +1,7 @@
 # w6a part file — Vol 6 numeral/[?]/accent pass
 Range: printed pp. 1–281 (Sūktas 62–70; 65–70 dvaipada). Branch claude/pass2-vol6-a.
-Done through: printed p. 221 (PDF 240 in the better scan): Sūktas 62–67 complete.
-Next unit: Sūkta 68 (dvaipada) from p. 222 (file heading '### Page 222 (PDF 240)'; better scan PDF 241).
+Done through: printed p. 239 (PDF 258 in the better scan): Sūktas 62–68 complete.
+Next unit: Sūkta 69 (dvaipada) from p. 240 (file heading '### Page 240 (PDF 258)'; better scan PDF 259).
 Open items: doubts page vol6/review/html/Vol6_doubts_p1-12.html (6 rows: Ni. 3-9?, Pā. 1-4-1?, accents 62.2 pitaraḥ, 62.3 dhāsim/bhinadadriṃ/naraḥ); check page Vol6_verify_p1-12.html. Unit 2: Vol6_doubts_p13-20.html (5 rows: 2/7 digits in the paṇi reference lists pp. 18–19; Uṇ. 41-1?0 p. 20), Vol6_verify_p13-20.html.
 Tools: vol6/tools/lines_w6a.py (line bands of a page, crop lines by index — y fractions of the whole page, same as doubts_v6.py); pcrop_w6a.py. Note: view.py's y fractions are of the text block and did not match estimates from the whole-page view; use lines_w6a.py (line indices from its listing; x fractions are of the whole page width).
 Scan pages: no missing/duplicate pages seen in pp. 1–12.
@@ -20,3 +20,4 @@ Unit 8 (pp. 154–179, Sūkta 65): Vol6_doubts_p154-179.html (8 rows: 3 accent r
 Unit 9 (pp. 179–203, Sūkta 66): Vol6_doubts_p179-203.html (8 rows: accents 66.2 line 2, 66.5 lines 1–2; Uṇ. 4-11? p. 198, 4-500? p. 202, 4-4?? p. 203; Pā. 6-2-53? pp. 200/202). The ಜ-like digit in this font is probably 5 (unconfirmed). Not viewed: the arcann atra reference (p. 202 top). Tool: thumbs_w6a.py (several thumbnails side by side, for locating lines).
 
 Unit 10 (pp. 203–221, Sūkta 67): Vol6_doubts_p203-221.html (7 accent rows: marks at glyph junctions in 67.1, 67.2, 67.3, 67.5). Ni. ref printed 6-12 on p. 205 but 6-13 on p. 206 (both kept as printed). p. 212 Taittirīya quotation re-read (suvargalokasya … adṛhan dhṛtyā). p. 219 7-1-37 printed without 'Pā.'. Odd pages' text block sits further left than even pages (x0 ≈ 0.10–0.14).
+Unit 11 (pp. 222–239, Sūkta 68): Vol6_doubts_p222-239.html (4 accent rows). Uṇ. 1-152 on p. 226 (file had 153). p. 229 sūtra word corrected to mīmāghura…. Skandasvāmin paragraph of 68.4 continues on p. 235 (filed under p. 234). Unviewed bracketed Nirukta refs: p. 233 [2-2], p. 234 [1-12], p. 238 [3-9], 4-[4].
