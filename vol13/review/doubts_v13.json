@@ -5458,5 +5458,29 @@
   ],
   "note": "grammar sutra numerals small",
   "answer": ""
+ },
+ {
+  "pdf": 563,
+  "printed": 543,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk9 dense ('yadyasmatra vahethe'); grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 564,
+  "printed": 544,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta-style sentence 'rathan ramhanam adityam ... asya navasthayi syat' garbled",
+  "answer": ""
  }
 ]
