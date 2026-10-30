@@ -7,6 +7,8 @@ import sys,re,json,os
 sys.path.insert(0,os.path.dirname(__file__))
 from cfg import EN
 E=open(sys.argv[1],encoding='utf8').read().splitlines(); J=json.load(open(sys.argv[2])); W='--write' in sys.argv
+BASE=sys.argv[sys.argv.index('--base')+1] if '--base' in sys.argv else None   # commit whose text the row indices refer to (use when earlier edits changed the group count)
+import difflib,subprocess
 rows={r['id']:r for r in J['rows']}
 SEG=r'(?:\d{1,4}|\[\?\]|\?)'
 GRP=re.compile(r'(?<![\w.\-,])((?:\d{1,3}(?:,\d{3})+|\d{1,4}|\?)(?:\s*[-.–]\s*'+SEG+r'){1,4})(\s*\[\?\])?(?![\w])')
@@ -27,8 +29,22 @@ for p,lst in per.items():
     gs=[(g.start(1)+body_off,g.end(),g.group(1),g) for g in GRP.finditer(sec[body_off:])]
     # re-anchor offsets to sec
     gs=[(g.start(1)+body_off,g.end()+body_off,g.group(1)) for g in GRP.finditer(sec[body_off:])]
+    remap=None
+    if BASE:
+        ot=subprocess.run(['git','show',BASE+':'+os.path.relpath(EN)],capture_output=True,text=True).stdout
+        mo=re.search(r'\n### Printed p\. %d \(PDF \d+\)'%p,ot); so=mo.start()+1
+        no=re.search(r'\n### Printed p\. ',ot[so+5:]); osec=ot[so:so+5+no.start()] if no else ot[so:]
+        og=[g.group(1) for g in GRP.finditer(osec[osec.index('\n')+1:])]
+        sm=difflib.SequenceMatcher(None,[re.sub(r'\s','',x) for x in og],[re.sub(r'\s','',x[2]) for x in gs],autojunk=False)
+        remap={}
+        for a,b,n in sm.get_matching_blocks():
+            for k in range(n): remap[a+k]=b+k
     for j,v,exp in sorted(lst,reverse=True):
-        a,b,txt=gs[j]
+        if remap is not None:
+            if j not in remap: print('UNMAPPED',p,j,exp,'(group edited or moved since BASE)'); skip+=1; continue
+            jj=remap[j]
+        else: jj=j
+        a,b,txt=gs[jj]
         if re.sub(r'\s','',txt)!=re.sub(r'\s','',exp): print('MISMATCH',p,j,repr(txt),'expected',repr(exp)); skip+=1; continue
         oldsegs=re.split(r'[-.–]',re.sub(r'\s','',txt)); newsegs=re.split(r'[-.–]',v)
         changed=len(oldsegs)==len(newsegs) and any(o.isdigit() and o!=n for o,n in zip(oldsegs,newsegs))
