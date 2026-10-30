@@ -2778,4 +2778,38 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 124 (PDF 144) done — Sūkta 168 Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (breaks off at '(te) marutaḥ—'). Next: printed p. 125 (PDF 145). Open flags: small-type numerals [?]; Ṛk 4 bhāṣya [?] words; review/doubts_v13.json.
+### Printed p. 125  (PDF 145)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+*(Pratipadārtha of Ṛk 4, continued)* — those Marut-gods: *arenavaḥ* — free of dust; *tuvijātāḥ* — (in many sacrifices) those who appear; *bhrājadṛṣṭayaḥ* — brilliant ones (being); *dṛḷhāni cit* — even exceedingly firm mountains and the like — *acucyavuḥ* — they shake.
+
+**Bhāvārtha.** The Marut-gods, joined to one another, come without effort from the heaven-world to this world; O immortal Marut-gods, urge us (as if to praise) by your own speech; the Marut-gods, free from dust, appearing in many sacrifices, brilliant, make even exceedingly firm mountains and the like tremble.
+
+**English Translation (as printed):** Mutually supported, they descend readily form [sic] the sky: immortal Maruts, animate us by your own words (to praise you): exempt from toil, present at many (sacrifices) brilliant-eyed, the Maruts have shaken the firmest mountains.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***svayuktāḥ*** — the Marut-gods are *ekonapañcāśat* in number ("forty-nine persons"). They are described as mutually in friendship, or, taking the word *sva* in the sense of wealth, as joined with wealth: the two senses are given.
+
+***vṛthā ava ā yayuḥ*** — it describes the way they come: from heaven, without effort, face downward, they descend to the sacrificial hall (*yāgaśāle* [?]).
+
+***tmanā kaśayā codata*** — *ātmanā stutirūpayā vācā stotuṃ prerayata*: the word *tmanā* is used in the sense of *ātmanā*, as shown by the example
+
+> तन्नस्तुरीपमद्भुतं पुरु वारं पुरु त्मना । त्वष्टा पोषाय वि ष्यतु रायो नाभा नो अस्मयुः ॥
+
+> *tannasturīpam adbhutaṃ puru vāraṃ puru tmanā | tvaṣṭā poṣāya vi ṣyatu rāyo nābhā no asmayuḥ ‖*
+
+(Ṛ. Saṃ. 1-142-10 [?]). Here the sense of *tmanā* is *ātmanā*, as explained. The word *kaśā* is read among the names of speech (Ni. 1-11 [?]). The Marut-gods are besought to favour, with words of praise, that they may inspire the order of praising in those who praise them.
+
+### Printed p. 126  (PDF 146)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+***arenavaḥ tuvijātāḥ bhrājadṛṣṭayaḥ*** — these words are adjectives of the word *marutaḥ*: the Marut-gods are free of dust, those who appear (in many sacrifices) abundantly, of exceeding brilliance — thus their greatness is described. And that they shake even firm mountains — thus their strength is described.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly; sūtra numerals small, not read)*: *svayuktāḥ* (root *yuj yoge*; *kta* in the passive; *svaiḥ yuktāḥ*, a *tṛtīyā* compound; the first member keeps its accent by "*tṛtīyā karmaṇi*"); *yayuḥ* (root *yā prāpaṇe*; Vedic *liṭ* with present sense, 3rd plural; *nighāta* accent); *codata* (root *cud preraṇe*, *curādi*; *loṭ* 2nd plural, *ta*-substitute; *śap* by *vyatyaya*; *guṇa* of the light penultimate by "*pugantalaghūpadhasya ca*"; *nighāta*); *tmanā* (by "*mantreṣvāṅyādeḥ ātmanaḥ*" the *ā* of *ātman* is dropped after the *tṛtīyā* ending); *arenavaḥ* (*na vidyate reṇuḥ yeṣāṃ te*; accent on the last syllable of the latter member by "*nañsubhyām*"); *acucyavuḥ* (root *cyu gatau*; the causal sense included in the root; Vedic *luṅ*; *parasmaipada* by *vyatyaya*; *śap* replaced; reduplication of the root; *jher jus* by "*sijabhyastavidibhyaśca*"; *guṇa* by "*jusi ca*"; *av* substitution; augment *aṭ*; *nighāta*); *dṛḷhāni* (root *vṛha vṛddhau*; *kta*; *ha* → *ḍha* by "*hoḍhaḥ*"; *ta* → *dha* by "*jhaṣastathordho'dhaḥ*"; *ṣṭutva*; "*ḍho ḍhe lopaḥ*" drops the former *ḍha*; the accent falls on the last syllable by the affix).
+
+---
+
+**Progress note:** printed p. 126 (PDF 146) done — Sūkta 168 Ṛk 4 complete through grammar; end of Ṛk 4 on p. 127 ('‖ 4 ‖' marker to check). Next: printed p. 127 (PDF 147). Open flags: small-type numerals [?]; Ṛk 4 bhāṣya [?] words; review/doubts_v13.json.
