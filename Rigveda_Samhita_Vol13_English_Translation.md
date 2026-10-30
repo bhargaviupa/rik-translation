@@ -9450,4 +9450,60 @@ Chandas — 1. *skandhogrīvī bṛhatī*; 2–5. *anuṣṭubh*; 6. *triṣṭu
 
 ---
 
-**Progress note:** printed p. 362 (PDF 382) done — Sūkta 175 begun: Anukramaṇikā, Anuvāda, heading, Ṛk 1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha; Bhāvārtha continues p. 363). Next: printed p. 363 (PDF 383). Open flags: Sūkta 175 heading varga numeral [?]; Anukramaṇikā text partly garbled [?]; review/doubts_v13.json.
+### Printed p. 363  (PDF 383)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+**Bhāvārtha**
+
+O Indra, endowed with the two horses called Hari, for you the Soma juice, which gives desired objects, satisfaction and delight, joy-giving, satisfying like food, and bringing unmeasured gladness, has been prepared. Drink this worthy Soma, as it is held in the cup, in abundance, and be satisfied with it.
+
+**Printed English**
+
+Lord of steeds, you are exhilarated when the sacred (Soma juice) has been imbibed by you as by its (appropriate) vessel; for to you, showerer (of benefits), it is exhilarating, inebriating, invigorating, the yielder of delight, (satisfying as) food, and the giver of a thousand (pleasures).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Sāyaṇa has stated the application (*viniyoga*) of the mantras of this sūkta in the words "*dvitīye svarasāmni* …………" [dots in the print]. It is learned from this that they are the mantras to be recited in the days called *svarasāman*. *Svarasāman* is the name of a set of days in some sacrifices. In the Āśvalāyana Śrauta-sūtra and in its commentary, the explanation of *svarasāman* is given as follows:
+
+> अभिप्लवत्र्यहः पूर्वः स्वरसामानः । स्वराणि त्रिह पृष्ठानि । तेषां स्तोत्रियो यज्ञायज्ञीयं यथा अपूर्वमत्स्यपायि ते मह …………
+
+> *abhiplavatryahaḥ pūrvaḥ svarasāmānaḥ | svarāṇi triha pṛṣṭhāni | teṣāṃ stotriyo yajñāyajñīyaṃ yathā apūrvam matsyapāyi te maha …………* [as read; dots in the print: [?]]
+
+(Āś. Śrau. 8-5 [?]). The explanation given in the commentary on the Āśvalāyana Śrauta-sūtra is clearer:
+
+> अभिप्लवस्य यः पूर्वस्त्र्यहस्तेनातिदिष्टानि वक्ष्यमाणगुणविशिष्टानि त्रीण्यहानि स्वरसामसंज्ञानि भवन्ति । स्वरसंज्ञकानि सामानि एतेष्वहस्सु पृष्ठानि भवन्ति । एतदेवैषु स्वरसामशब्दस्य प्रवृत्तिनिमित्तं । यथासंख्येन तेषामेते स्तोत्रियाः भवन्ति ।
+
+> *abhiplavasya yaḥ pūrvas tryahas tenātidiṣṭāni vakṣyamāṇaguṇaviśiṣṭāni trīṇy ahāni svarasāmasaṃjñāni bhavanti | svarasaṃjñakāni sāmāni eteṣv ahassu pṛṣṭhāni bhavanti | etad evaiṣu svarasāmaśabdasya pravṛttinimittaṃ | yathāsaṃkhyena teṣām ete stotriyāḥ bhavanti |* [as read: [?]]
+
+(Nārāyaṇa's vṛtti). As in the *abhiplava* sacrifice, the first three days are named *svarasāman*; the Sāmans called *svara* serve in these days as *pṛṣṭha*; this is the reason for the application of the word *svarasāman*. Dwelling on this same point in the Aitareya Brāhmaṇa, the greatness of the *svarasāman* is described thus:
+
+> स्वरसाम्न उपयन्तीमे वै लोकाः स्वरसामान इमांस्तै लोकान् स्वरसामभिस्तृण्वन्ति स्वरसामत्वं तद्यत्स्वरसाम्न उपयन्त्येष्वेवैनं तल्लोकेष्वाभजन्ति ।
+
+> *svarasāmna upayantīme vai lokāḥ svarasāmāna imāṃs tai lokān svarasāmabhis tṛṇvanti svarasāmatvaṃ tad yat svarasāmna upayanty eṣv evainaṃ tal lokeṣv ābhajanti |* [as read; garbled: [?]]
+
+(Ai. Brā. 4-18 [?]).
+
+### Printed p. 364  (PDF 384)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+These three worlds are the *svarasāma* days. Since the sacrificers, by the *svarasāmans*, satisfy these three worlds, these days became known by the name *svarasāma* days. In these *svarasāma* days, by faithfully performing the acts that are to be performed, the sacrificers urge the Āditya to be the support of the three worlds: so it is said. About the explanation given here, the scholar Haug has commented as follows:
+
+> This etymology is certainly fanciful. Swara cannot be traced to the root स्वृणा [as printed], a modification of प्री to love. The name literally means "The samans of the tones" This appears to refer to some peculiarities in their intonations. These Samans being required only for great सत्र [as printed], which have been out of use for at least a thousand years, it is difficult now to ascertain the exact nature of the Samans. (Aiteraya Brahmana. P. 290 Translation by Haug.)
+
+> *This etymology is certainly fanciful. Swara cannot be traced to the root svṛṇā [as printed], a modification of prī to love. The name literally means "The samans of the tones" This appears to refer to some peculiarities in their intonations. These Samans being required only for great satra [as printed], which have been out of use for at least a thousand years, it is difficult now to ascertain the exact nature of the Samans. (Aiteraya Brahmana. P. 290 Translation by Haug.)*
+
+[As printed; "Aiteraya" is the print's spelling of Aitareya: [sic].]
+
+The derivation that shows *svara* to come from the root *prī*, with the changed form *svṛṇ* [as printed], is not very appropriate. *Svara* is to be taken as a name properly belonging to the Sāmans, as they have a speciality in the arrangement of tones and are to be recited in the *sattra*s and the like. Since the sacrifices performed thousands of years ago are no longer in the practice of conduct, Haug has said that it is not possible to ascertain clearly the nature of the form of the Sāmans and the like then recited, nor the arrangement of their tones. Having understood the enumeration of the *svarasāma* days, he also states the reasons for the pursuit of the Āditya's rounds and other activities, and of the acts to be performed, on the days before and after these days.
+
+> तस्य वै देवा आदित्यस्य स्वर्गाल्लोकादेव पातादबिभयुस्तं त्रिभिः स्वर्गैर्लोकैरवस्राद्यत्तभ्नुवन् स्तोमा वै त्रयो लोकास्तस्य पराचोऽतिपाताद बिभयुस्तं त्रिभिः स्वर्गैर्लोकैः परस्तात्तभ्नुवन् स्तोमा वै त्रयः स्वर्गा लोकास्त्रयोऽवस्तात्पञ्चदशा भवन्ति त्रयः परस्तान्मध्य एष एकविंश उभयतः स्वरसामभिर्धृत उभयतो हि वा एष स्वरसामभिर्धृतस्तस्मादेषोऽन्तरेमालोकान्न व्यथते ।
+
+> *tasya vai devā ādityasya svargāl lokād eva pātād abibhayus taṃ tribhiḥ svargair lokair avastād yat tabhnuvan stomā vai trayo lokās tasya parāco 'tipātād abibhayus taṃ tribhiḥ svargair lokaiḥ parastāt tabhnuvan stomā vai trayaḥ svargā lokās trayo 'vastāt pañcadaśā bhavanti trayaḥ parastān madhya eṣa ekaviṃśa ubhayataḥ svarasāmabhir dhṛta ubhayato hi vā eṣa svarasāmabhir dhṛtas tasmād eṣo 'ntarem āl lokān na vyathate |* [as read; garbled in places: [?]]
+
+(Ai. Brā. 4-18 [?]). The gods feared that Āditya might fall; so they fixed a pillar of support, under the three worlds, for the Āditya, to rest on; the *svarasāmans* are this pillar. Then fearing a fall again, they set up a pillar of support, in the form of *svarasāman*, above the three worlds also. These are the three: [as the sūktas are put in the three — the 15-fold *stoma* under it and above it, the 21-fold in the middle, he is upheld on both sides by the *svarasāmans*, therefore he does not tremble in these worlds: this is the sense given.]
+
+---
+
+**Progress note:** printed p. 364 (PDF 384) done — Sūkta 175 Ṛk 1 Special Topics (svarasāman; continues p. 365). Next: printed p. 365 (PDF 385). Open flags: Āś.Śrau./Ai.Brā. refs and quotes partly garbled [?]; Haug quote reproduced as printed; review/doubts_v13.json.
