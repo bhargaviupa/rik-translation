@@ -12267,4 +12267,71 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 ---
 
-**Progress note:** printed p. 450 (PDF 470) done — Sūkta 178 Ṛk 1 Special Topics (āyu; continues p. 451). Next: printed p. 451 (PDF 471). Open flags: refs [?]; garbled Brāhmaṇa quote p. 450; review/doubts_v13.json.
+### Printed p. 451  (PDF 471)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 451.)*
+
+**Special Topics (continued)** — … in this [sentence] it is said that Āyu was born of Urvaśī and Purūravas, and so the identity (*tādātmya*) of Āyu and Agni is stated. Likewise:
+
+> आयुषो न मध्यादित्यग्निर्वा आयुः ।
+
+> *āyuṣo na madhyādityagnirvā āyuḥ |*
+
+(Śa. Brā. 2-2-1-15 [?]) — in this sentence also the identity of Agni and Āyu is stated. But there it is one view that the word *āyu* is a proper name (*aṅkitanāma*); another view is that it is not. Since in many places the word *āyoḥ* has been explained as "Manu", it can be understood that this is Manu, one of the Prajāpatis who were creators.
+
+In many places the words *āyuḥ*, *āyoḥ* are used as synonyms of "the man (*mānava*) who is a performer of sacrifices, who goes about (*ayana*, *saṃcāra*) hither and thither for the performance of sacrifice". For example:
+
+> होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायवे ।
+
+> *hotrābhiragnirmanuṣaḥ svadhvaro rājā viśāmatithiścārurāyave |*
+
+(Ṛ. Saṃ. 2-2-8 [?])
+
+> इमं विधन्तो अपां सधस्थे द्वितादधुर्भृगवो विक्ष्वा [?] आयोः [?] ।
+
+> *imaṃ vidhanto apāṃ sadhasthe dvitādadhurbhṛgavo vikṣvā [?] āyoḥ [?] |*
+
+(Ṛ. Saṃ. 2-4-2 [?])
+
+> प्र स्वादनं पितूनामस्ततातिं चिदायवे [?] ।
+
+> *pra svādanaṃ pitūnāmastatātiṃ cidāyave [?] |*
+
+(Ṛ. Saṃ. 5-2-6 [?]) — in these and many other ṛks the word *āyu* is understood from the bhāṣya to mean the sacrificer who performs the sacrifice. But Oldenberg and other English translators take all these as proper names and have rendered the ṛks accordingly. Thus, since the word is used in many senses, in the ṛk at hand it means "man who performs a sacrifice".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***asti*** — by "*hi ca*" (Pā. Sū. 8-1-34 [?]) the prohibition of *nighāta* occurs, so the root accent remains.
+- ***jaritṛbhyaḥ*** — root *jṛṣ vayohānau* (used here in the sense of praising); the suffix *tṛc* in the agent; by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the final syllable is *udātta*; dative plural.
+- ***ūtī*** — by "*ūtiyūtijūti…*" (Pā. Sū. 3-3-97 [?]) *ktin* is irregularly formed with *udātta*; dative singular; by "*supāṃ sulukpūrvasavarṇa…*" (Pā. Sū. 7-1-39 [?]) the *pūrvasavarṇa* lengthening as single substitute.
+
+### Printed p. 452  (PDF 472)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 452.)*
+
+- ***mahayantam*** — root *mah pūjāyām*; by "*hetumati ca*" the suffix *ṇic*; after *ṇic*, *laṭ* comes and *śatṛ* replaces it; *śap* being the cause, the *ṇic* takes *guṇa* and *ayādeśa*; the *lasārvadhātuka* accent by "*tāsyanudāttet…*" is *anudātta*, so the *ṇic* accent remains; accusative singular.
+- ***dhak*** — root *dah bhasmīkaraṇe*; by "*mā ṅi luṅ*" (Pā. Sū. 3-3-175 [?], as read) *luṅ*; second person singular, *sip*; loss of *i*; by "*mantre ghasahvaranaśavṛdahādvṛc…*" (Pā. Sū. 2-4-80 [?]) *cli* is elided; by "*halyabbhyo…*" the *sip* is elided; by "*dādeḥ dhātor ghaḥ*" the *h* of the root becomes *gh*; by "*ekāco baśo bhaṣ…*" (sūtra named) the initial *d* becomes *dh*; by "*vāvasāne*" *cartva*; by "*namājñyoge*" (Pā. Sū. 6-4-74 [?]) the *aṭ* augment does not occur; *tiṅ*-final *nighāta* accent.
+- ***viśvā*** — by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) elision of *śi*.
+- ***aśyām*** — root *aśū vyāptau*; by "*vyatyayo bahulam*" (Pā. Sū. 3-1-85 [?]) *parasmaipada*; *liṅ*, first person singular; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; *yāsuṭ* augment; *nighāta* accent.
+- ***āyoḥ*** — root *iṇ gatau*; by "*chandasīṇaḥ*" (Uṇ. 1-2 [?]) the suffix *uṇ*; by "*āco ñṇiti*" *vṛddhi*; *āy* substitution; the final syllable *udātta* by the suffix accent; genitive singular. ‖ 1 ‖
+
+---
+
+**Sūkta 178, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> न घा राजेन्द्र आ दभन्नो या नु स्वसारा कृणवन्त योनौ ।
+> आपश्चिदस्मै सुतुका अवेषन्गमन्न इन्द्रः सख्या वयश्च ॥ २ ॥
+
+**Pada-pāṭha**
+
+> न । घ । राजा । इन्द्रः । आ । दभत् । नः । या । नु । स्वसारा । कृण्वन्त । योनौ ।
+> आपः । चित् । अस्मै । सुऽतुकाः । अवेषन् । गमत् । नः । इन्द्रः । सख्या । वयः । च ॥ २ ॥
+
+> *na | gha | rājā | indraḥ | ā | dabhat | naḥ | yā | nu | svasārā | kṛṇvanta | yonau |*
+> *āpaḥ | cit | asmai | su 'tukāḥ | aveṣan | gamat | naḥ | indraḥ | sakhyā | vayaḥ | ca ‖ 2 ‖*
+
+---
+
+**Progress note:** printed p. 452 (PDF 472) done — Sūkta 178 Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada written. Next: printed p. 453 (PDF 473), Ṛk 2 bhāṣya. Open flags: refs [?]; review/doubts_v13.json.
