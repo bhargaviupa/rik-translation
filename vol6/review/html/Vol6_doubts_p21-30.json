@@ -1,0 +1,42 @@
+[
+{
+"id": "22_d0",
+"printed": 22,
+"file": "[Pā. 3-2-48, [?]]",
+"ctx": "root *gam* with *ḍa* [Pā. 3-2-48, [?]]",
+"kind": "numeral",
+"note": "bhāṣya: the sūtra number after ಡೋऽನ್ಯತ್ರಾಪಿ ದೃಶ್ಯತೇ (the line is overprinted); the grammar on p. 26 prints 3-2-48"
+},
+{
+"id": "24_d1",
+"printed": 24,
+"file": "Ni. 2-21 [?]",
+"ctx": "a mountain, or a cloud (Ni. 2-21 [?]",
+"kind": "numeral",
+"note": "Nirukta reference after ಅದ್ರಿಂ — ಪರ್ವತವನ್ನು ಅಥವಾ ಮೇಘವನ್ನು: read ೨-೨೧; are the 2s curled (2) or flat-footed (7)?"
+},
+{
+"id": "24_d2",
+"printed": 24,
+"file": "Ṛ. Saṃ. 9-10-84, as printed",
+"ctx": "(Ṛ. Saṃ. 9-10-84, as printed",
+"kind": "numeral",
+"note": "reference after ಯೇನಾ ನವಗ್ವೇ ದಧ್ಯಙ್ಙಪೋರ್ಣುತೇ: printed ೯-೧೦-೮೪? (the verse is usually 9-108-4)"
+},
+{
+"id": "27_d3",
+"printed": 27,
+"file": "गोभि॑र॒न्धः॑",
+"ctx": "सूर्ये॑ण॒ गोभि॑र॒न्धः॑ ।",
+"kind": "accent",
+"note": "Saṃhitā line 1: is there an anudātta stroke under ರಂ of ಗೋಭಿರಂಧಃ, and is the stroke above on ಭಿ or on ಧಃ?"
+},
+{
+"id": "27_d4",
+"printed": 27,
+"file": "शत्रूणामुपक्षयितरिन्द्र [?]",
+"ctx": "हे दस्म दर्शनीय शत्रूणामुपक्षयितरिन्द्र [?]",
+"kind": "word",
+"note": "bhāṣya line 1: ಉಪಕ್ಷಯಿತರ್?ೇಂದ್ರ — is it ಉಪಕ್ಷಯಿತರ್ಹೇಂದ್ರ (upakṣayitar he 'ndra) or ಉಪಕ್ಷಯಿತರಿಂದ್ರ?"
+}
+]
