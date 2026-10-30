@@ -18232,4 +18232,62 @@ Having told thus that those who reach the *Brahmaloka* have no return, the natur
 
 ---
 
-**Progress note:** printed p. 652 (PDF 672) done — Sūkta 183 Ṛk 6 (last): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (devayāna / pitṛyāna from Bṛ. U.; continues p. 653). Next: printed p. 653 (PDF 673). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 653  (PDF 673)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 653.)*
+
+*(Special Topics, continued.)* — those who, by sacrifice alone, by gifts and the like, win the worlds, and who are satisfied with them, enter a different path after death: those who have performed only good deeds, not knowing the *Pañcāgnividyā*. After the body has been burnt, the soul, together with smoke, reaches successively the night; through it the dark half; through that the southern course; then the world of the fathers; and at last the world of the Moon. That is their end. Having enjoyed there the fruits suited to their good deeds in full, living with the fathers, they come back to the earth by the same path of smoke, as soon as the effect of their karma is exhausted. This is the nature of the *devayāna* and *pitṛyāna* described in the Upaniṣads.
+
+What we must note in the present context is whether the whole sense described in the Upaniṣads is meant by the word *devayāna*, used in the Ṛk-saṃhitā, or whether it only means the physical path that the gods travel. Likewise we must consider what meaning the word *pitṛyāna* has in the Upaniṣads.
+
+In the Ṛk-saṃhitā the word *devayāna* occurs in all thirteen times [the references, printed in small type, read approximately: 1-72-2; 1-163-4; 1-184-6; 4-33-?; 5-?; 7-?; 10-? etc. — all numerals [?]]. In all these contexts Sāyaṇa has mainly given two meanings: first, the path along which sacrificers go, taking their oblations, to bring the gods near; and second, the path by which the gods come to earth to receive the oblations.
+
+The word *pitṛyāna* is used in the Ṛk-saṃhitā only once. The context of that use is:
+
+> यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान ।
+> पन्थामनु प्रविद्वान्पितृयाणं द्यौमदग्ने समिधानो वि भाहि ॥
+
+> *yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna |*
+> *panthāmanu pravidvānpitṛyāṇaṃ dyaumadagne samidhāno vi bhāhi ‖*
+
+(Ṛ. Saṃ. 10-2-7) — in this ṛk Agni, born from Heaven and Earth, from the waters, from Tvaṣṭṛ, and from the fair-birthed, is prayed to: "being fully aware of the nature of the *pitṛyāṇa*, shine, kindled together with the Heaven-form". According to Sāyaṇa's explanation of this word in the third pāda, "*pitṛyāṇaṃ pitaro yena mārgeṇa gacchanti taṃ*" — the path along which the fathers go. The English scholars too have accepted this same meaning.
+
+### Printed p. 654  (PDF 674)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 654.)*
+
+Thus, if *devayāna* means the path along which the gods travel for the oblations, and *pitṛyāna* the path along which the fathers travel, then how is the spiritual purport described in the Upaniṣads possible in these contexts? To settle this we must consider the purport of the ṛks cited below, and decide whether this sense is expressed by those mantras.
+
+> प्र मे पन्था देवयाना अदृश्रन्नमर्धन्तो वसुभिरिष्कृतासः ।
+> अभूदु केतुरुषसः पुरस्तात्प्रतीच्यागादधि हर्म्येभ्यः ॥
+
+> *pra me panthā devayānā adṛśrannamardhanto vasubhiriṣkṛtāsaḥ |*
+> *abhūdu keturuṣasaḥ purastātpratīcyāgādadhi harmyebhyaḥ ‖*
+
+(Ṛ. Saṃ. 7-76-2)
+
+> को मा ददर्श कतमः स देवो यो मे तन्वो बहुधा पर्यपश्यत् ।
+> क्वाह मित्रावरुणा क्षियन्त्यग्नेर्विश्वाः समिधो देवयानीः ॥
+
+> *ko mā dadarśa katamaḥ sa devo yo me tanvo bahudhā paryapaśyat |*
+> *kvāha mitrāvaruṇā kṣiyantyagnerviśvāḥ samidho devayānīḥ ‖*
+
+(Ṛ. Saṃ. 10-51-2)
+
+> एहि मनुर्देवयुर्यज्ञकामोऽरंकृत्या तमसि क्षेष्यग्ने ।
+> सुगान्पथः कृणुहि देवयानान्वह हव्यानि सुमनस्यमानः ॥
+
+> *ehi manurdevayuryajñakāmo 'raṃkṛtyā tamasi kṣeṣyagne |*
+> *sugānpathaḥ kṛṇuhi devayānānvaha havyāni sumanasyamānaḥ ‖*
+
+(Ṛ. Saṃ. 10-51-5)
+
+— in the first of these ṛks, in the first half, the *devayāna* has two epithets. First, **amardhantaḥ** (*ahiṃsantaḥ*, "not injuring"); and second, **vasubhiḥ iṣkṛtāsaḥ** (*tejobhiḥ saṃskṛtāḥ*, "made ready by the radiant ones"). By these two epithets the nature of the *devayāna* is described as a path that is not harmful and that is full of radiance. In the latter half of the second mantra, Agni questions Mitra and Varuṇa, and asks, being full of lustre and himself of the form of *devayāna*, where in the world his further form, [found] among the gods, is. And in the third mantra, Agni is prayed to make the *devayāna* that bears the oblations to the gods full of radiance.
+
+On this basis, the *devayāna* described in the Ṛk-saṃhitā is not merely a path of travel, but can be called a path fit for travel. That the *pitṛmārga* is the opposite of it, without these qualities, is known from the Upaniṣads.
+
+A further question is whether the matter stated in the Upaniṣads — that the soul which has become fit to travel by the *devayāna* does not return to the earth after reaching the *Brahmaloka* — is also indicated in the sentences of the Ṛk-saṃhitā. That may be known clearly from the descriptions in the mantras cited below.
+
+---
+
+**Progress note:** printed p. 654 (PDF 674) done — Sūkta 183 Ṛk 6 Special Topics (devayāna / pitṛyāna; Ṛg citations 10-2-7, 7-76-2, 10-51-2, 10-51-5; continues p. 655). Next: printed p. 655 (PDF 675). Open flags: refs [?]; thirteen devayāna refs on p. 653 unread [?]; review/doubts_v13.json.
