@@ -4234,5 +4234,29 @@
   ],
   "note": "Rg ref 1-61-16? small",
   "answer": ""
+ },
+ {
+  "pdf": 461,
+  "printed": 441,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs 1-82-5, 3-35-2, Tai.Sam 1-4-38, SB 4-4-3-2 small; hariyojana 'ety-samjnakam' phrase; svayajusah reading",
+  "answer": ""
+ },
+ {
+  "pdf": 462,
+  "printed": 442,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-19, Rg 10-20-3 (printed; std would differ), 3-19-1, SB 11-2-3-6 small",
+  "answer": ""
  }
 ]
