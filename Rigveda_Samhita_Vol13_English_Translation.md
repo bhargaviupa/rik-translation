@@ -2390,4 +2390,54 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 ---
 
-**Progress note:** printed p. 106 (PDF 126) done — Sūkta 167 Ṛk 9 complete. Next: printed p. 107 (PDF 127): Ṛk 10. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 107  (PDF 127)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> वयमद्येन्द्रस्य प्रेष्ठा वयं श्वो वोचेमहि समर्ये ।
+> वयं पुरा महि च नो अनु द्यून्तन्न ऋभुक्षा नरामनु ष्यात् ॥ १० ॥ [?]
+
+> *vayamadyendrasya preṣṭhā vayaṃ śvo vocemahi samarye |*
+> *vayaṃ purā mahi ca no anu dyūntanna ṛbhukṣā narāmanu ṣyāt ‖ 10 ‖ [?]*
+
+**॥ पदपाठः ॥**
+
+> वयम् । अद्य । इन्द्रस्य । प्रेष्ठाः । वयम् । श्वः । वोचेमहि । सऽमर्ये ।
+> वयम् । पुरा । महि । च । नः । अनु । द्यून् । तत् । नः । ऋभुक्षाः । नराम् । अनु । स्यात् ॥ १० ॥
+
+> *vayam | adya | indrasya | preṣṭhāḥ | vayam | śvaḥ | vocemahi | sa 'marye |*
+> *vayam | purā | mahi | ca | naḥ | anu | dyūn | tat | naḥ | ṛbhukṣāḥ | narām | anu | syāt ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> वयमद्येत्येतासां दशमीमस्तमित आदित्ये जपेत् । तथा च सूत्रम् । वयमद्येन्द्रस्य प्रेष्ठा इत्यस्तं यात्याद्ये । आ. गृ. ३-६-१४ । इति ॥
+
+> *vayamadyetyetāsāṃ daśamīmastamita āditye japet | tathā ca sūtram | vayamadyendrasya preṣṭhā ityastaṃ yātyādye | ā. gṛ. 3-6-14 | iti ‖*
+>
+> अद्यास्मिन्निने [?] दिने वयं यष्टारः इन्द्रस्य देवस्य प्रेष्ठाः प्रियतमा भवेम । यद्वा । प्रियतमा वयमिन्द्रस्य महत्त्वं वोचेमहि । स्तोतुं समर्था भूयास्म । किञ्च वयं श्वः परस्मिन्नपि दिने समर्ये । सह मर्यैर्मर्त्यैऋत्विग्भिर्यस्मिन् स समर्यो यज्ञस्तस्मिन् । संग्रामे वा । इन्द्रस्य महत्त्वं वोचेमहि । किञ्च वयं पुरा पूर्वस्मिन्नतीतेऽपि काले मही महद्बलं नोऽस्मदर्थं वोचेमहि । तथा द्यून् दिवसाननु । प्रतिदिवसमित्यर्थः । अतीते आगामिनि च दिवसे सर्वदा वोचेमहि । तत्स्मद्भ्यामिभक्षाः [?] । महन्नामैतत् ऋभुक्षा उक्षा इति तन्नामसु पाठात् । महानिन्द्रो नरां मनुष्याणां मध्ये नोऽस्मानन्वनु स्यात् । अनुभवतु । अनुकूलमभिमतप्रदो वा भवतु ॥
+
+*Gist:* The tenth ṛk is to be recited when the sun has set (Āśvalāyana Gṛhya-sūtra). May we be dearest to Indra today; may we tell his greatness tomorrow too, at the sacrifice or in battle, and in the past and every day; may great Indra be favourable to us among men.
+
+**Pratipadārtha.** *adya* — this day; *indrasya* — to Indra; *preṣṭhāḥ* — the dearest; *vayam* — we (the sacrificers); *vocemahi* — [may we be] capable of praising (Indra's greatness); [or: *vayam* — we; *indrasya* — of Indra; *preṣṭhāḥ* — his dearest (we become); *adya* — this day; *vocemahi* — (his greatness) may we declare;] *vayam* — we; *śvaḥ* — tomorrow's *[continues on the next page]*
+
+### Printed p. 108  (PDF 128)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* *samarye* — at a sacrifice with priests and so on, or in a battle (*vocemahi* — may we praise his greatness); and *vayam* — we; *purā* — in the past also; (*vocemahi* — we have declared his greatness); *dyūn anu* — now, every day; *mahi* — his great strength; *naḥ* — for us (as the giver of strength); (*vocemahi* — we praise); *tat* — therefore; *ṛbhukṣāḥ* — the great Indra; *narām* — among men; *naḥ* — to us (praisers); *anu syāt* — may he be favourable (the giver of the desired).
+
+**Bhāvārtha.** We who are dear to Indra will praise him today; tomorrow too, at the time of the sacrifice, we shall praise him; as in the past, so also every day, we shall praise him for our benefit. Thereby may Indra, pleased, favour us among men, the praisers.
+
+**English Translation (as printed):** Let us, who are beloved of Indra, glorify him to-day; let us glorify him tomorrow, at the sacred rite; let us glorify him for our gret [sic] (good), in future days as of old, so that Ribhukshin may ever be favourable to us amongst men.
+
+**Special Topics (Viśeṣaviṣayagaḷu).** This ṛk is said, in the Āśvalāyana Gṛhya-sūtra (Ā. Gṛ. Sū. 3-6-14 [?]), to be recited after sunset.
+
+***vayam adya indrasya preṣṭhāḥ*** — *yaṣṭāraḥ asmin dine devasya priyatamā bhavema*: "we, the sacrificers, on this day may be most dear to the god": the wish, made by the sacrificers who perform the sacrifice that on this day they become objects of affection to the deities, is stated as the first meaning of this sentence. *Yadvā vayam indrasya mahatvaṃ stotuṃ samarthā bhūyāsma*: or, as the second meaning, "we, as sacrificers, may become able to praise Indra's greatness" is explained.
+
+***śvaḥ samarye vocemahi*** — "tomorrow, after the sacrifice has been performed, we praise Indra's greatness". The word *samarya* here: *saha maryāḥ martyāḥ ṛtvijaḥ yasmin sa samaryo yajñaḥ tasmin | saṃgrāme vā* — "the sacrifice in which are men, mortals, that is, priests", or "in a battle". The word *marya* is stated among the names of men (Ni. 3-[?]); the meaning of the word *samarya* is *yajña*, the sacrifice with the priests who gather with men at the place of the sacrifice to perform the necessary rites, or *yuddha* (war), a battle with the intent of men to carry out their purposes; it is explained: we praise Indra's greatness both in sacrifices and in battles.
+
+---
+
+**Progress note:** printed p. 108 (PDF 128) done — Sūkta 167 Ṛk 10 Special Topics in progress (continues on p. 109). Next: printed p. 109 (PDF 129). Open flags: small-type numerals [?]; Ṛk 10 Saṃhitā last pāda reading [?] and bhāṣya words; review/doubts_v13.json.
