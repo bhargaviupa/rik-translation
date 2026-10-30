@@ -7617,4 +7617,52 @@ Emulous in commendation, like (those contending for the favour) of men, may Indr
 
 ---
 
-**Progress note:** printed p. 300 (PDF 320) done — Sūkta 173 Ṛk 10 complete; Ṛk 11: Saṃhitā, Pada, bhāṣya, Pratipadārtha (continues p. 301). Next: printed p. 301 (PDF 321). Open flags: Ṛk 11 bhāṣya dense and Pratipadārtha garbled in places [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 301  (PDF 321)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+**Bhāvārtha**
+
+As the water of the field relieves the thirst of a man who is near a sacred bathing-place, so the performer of the sacrifice satisfies Indra with sacrifices and the like; and as a long road puts off one who wishes for the fruit and keeps him from it, so a crooked man, thinking in his mind only of worldly objects, wanders about without worshipping Indra.
+
+**Printed English**
+
+One man propitiates Indra, augmenting (his vigour) by sacrifice; another, who is insincere, worships (him), with mind averted, (to worldly thoughts): (to the first he is) like a lake to a thirsty (pilgrim) near a sacred spot: (to the other) like a long road, which retards the end (of the journey).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***kaścit yajñaḥ ṛndhan*** — here the word *yajña* is used in the sense of the sacrificer who performs the sacrifice. ***yajñavān yajñānuṣṭhātā indraṃ yajñena vardhayati*** — the meaning is explained: the sacrificer, by performing the sacrifice, gratifies Indra.
+
+***juhurāṇaś cit manasā pariyan*** — "*kuṭilagatiś cit*" (the one who walks along a crooked way, deviating from the straight path) ***parito gacchan laukikaviṣayādikaṃ dhyāyan varte*** — one who thinks in his own mind only of the objects of enjoyment that are in the world. Or — ***yadvā varjayitvā gacchann edaṃ prāpnoti*** — he who gives up the way to obtain the favour of Indra and the other deities by sacrifices and the like; according to the use of the preposition *pari* in the sense of "excluding" (*varjanārtha*), the meaning is explained.
+
+***tīrthe accha okaḥ tātṛṣāṇam*** — the Nirukta-writers explain the meaning of the word *okas* as "dwelling-place" (Ni. 3-3 [?]).
+
+To show that man has a full sense of pride in his own home, the Nirukta-writers have given a telling example:
+
+> नहि ग्रभायारणः सुशेवोऽन्योदर्यो मनसा मन्तवा उ । अधा चिदोकः पुनरित्स एत्या नो वाज्यभीषाळेतु नव्यः ॥
+
+> *nahi grabhāyāraṇaḥ suśevo 'nyodaryo manasā mantavā u | adhā cid okaḥ punar it sa etyā no vājy abhīṣāḷ etu navyaḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 4-… [?]).
+
+### Printed p. 302  (PDF 322)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+Even for one who goes out, it is said, the pride is in his own home, since he returns there; the preceding ṛk is quoted to show that *oka* indicates the person's worthiness for fully-founded pride in the home.
+
+As a house provided with drinking water on the well-known road (such as the water-shed) quickly satisfies the thirsty man, so a person who performs the sacrifice and other rites well known in the Śruti pleases Indra: so the meaning is explained.
+
+***dīrgho na adhvā sidhram ā kṛṇoti — vakratvena atidūraḥ mārga iva*** — the Nirukta-writers explain the meaning of the word *sidhra* as "means" (*sādhana*) (Ni. 6-… [?]). Sāyaṇa explains it as "fruit": ***pānīyādirūpaṃ phalārthinaṃ vā puruṣam*** — the fruit in the form of drinking water and the like, or the man who wants the fruit (a man troubled by thirst): in order that a man with thirst, journeying along a very long and crooked road, may give up even the places where drinking water and the like beneficial to him are to be found, the movement of the crooked man along crooked ways is described.
+
+***tasmād yajñamārgam ajānāno vakro dūre paribhramati nendraṃ tarpayati tadvilakṣaṇas tu varjayaty eva*** — the crooked man does not know the way of satisfying Indra by performing the sacrifice; therefore he wanders only in the ways of worldly dealings and does not bring Indra satisfaction. He who performs the sacrifice, by performing the sacrificial acts in the order laid down in the Śruti, pleases Indra, and so gives up the crooked path of worldly conduct. Thus, showing the fruit produced by the conduct of worldly and Vedic ways, the difference between the crooked man who follows worldly practice and the Vedic man who performs sacrifice is described.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***yajñaḥ*** — *yajñaḥ asya asti iti yajñaḥ*: by "*arśa-ādibhyo 'c*" (Pā. Sū. 5-2-127 [?]) the suffix *ac* in the possessive sense; by "*yasyeti ca*" (Pā. Sū. 6-4-148 [?]) the *a* of the fore-member is dropped; the suffix accent is end-*udātta*.
+- ***ṛndhan*** — root *ṛdhu vṛddhau*, *divādi*; *śatṛ* for *laṭ*; by *vyatyaya* *śnam* as the *vikaraṇa*; being *mit*, the nasal comes after the last vowel of the root; the suffix accent is first-syllable *udātta*.
+- ***juhurāṇaḥ*** — root *hvṛ kauṭilye*; by "*hvārcher ghanoḥ sanaḥ*" — *luk* and *halo lopa* (Uṇ. Sū. 2-… [?]) the suffix *ānaṭ* after a desiderative ending; loss of *san*; the root loses *tha*; although the suffix (*san*) is dropped, by the characteristic of the suffix the root is reduplicated; owing to *repha* the suffix *n* becomes *ṇ*; being *cit*, by "*cita*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
+
+---
+
+**Progress note:** printed p. 302 (PDF 322) done — Sūkta 173 Ṛk 11 Special Topics, grammar begun (continues p. 303). Next: printed p. 303 (PDF 323). Open flags: Nirukta/Ṛg refs [?]; juhurāṇaḥ grammar garbled [?]; review/doubts_v13.json.
