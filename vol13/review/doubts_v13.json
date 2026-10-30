@@ -6226,5 +6226,29 @@
   ],
   "note": "grammar sutra numerals [?]; wording as read",
   "answer": ""
+ },
+ {
+  "pdf": 625,
+  "printed": 605,
+  "crop": [
+   0.15,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Rk3 bhasya as read, several words [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 626,
+  "printed": 606,
+  "crop": [
+   0.4,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 2-34-10 ref [?]; cross-ref 1-180-2 [?]; grammar wording as read",
+  "answer": ""
  }
 ]
