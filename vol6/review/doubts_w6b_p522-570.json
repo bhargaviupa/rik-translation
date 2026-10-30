@@ -1,0 +1,74 @@
+[
+ {
+  "page": 525,
+  "y0": 0.328,
+  "y1": 0.347,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 8-32-29",
+  "note": "last digit 9 vs 4 (OCR located ೨೪); read ೯"
+ },
+ {
+  "page": 546,
+  "y0": 0.36,
+  "y1": 0.376,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 4-1[4/5?]-5 (Ṛk 79.6 special topics)",
+  "note": "middle digit 4 or 5; first digit 4 not 6"
+ },
+ {
+  "page": 546,
+  "y0": 0.439,
+  "y1": 0.455,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 8-44-2[6/7?]",
+  "note": "last digit 6 or 7"
+ },
+ {
+  "page": 551,
+  "y0": 0.268,
+  "y1": 0.31,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 8-[?]-[?] (tvam u vaḥ satrāsāham …)",
+  "note": "citation looks like 8-92-7 but not readable with confidence; left [?]"
+ },
+ {
+  "page": 563,
+  "y0": 0.388,
+  "y1": 0.412,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Āś. 7-4 (standard would be 8-4)",
+  "note": "first digit printed same glyph as 7 in Āś. 7-12 on the line above; recorded as printed"
+ },
+ {
+  "page": 563,
+  "y0": 0.434,
+  "y1": 0.453,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ai. Ā. 5-2-[?]",
+  "note": "last two digits unclear (2/3)"
+ },
+ {
+  "page": 553,
+  "y0": 0.29,
+  "y1": 0.31,
+  "kind": "word",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "jīvātumantau savyottarair yaḥ pasasthāḥ [?]",
+  "note": "word after yaḥ kept [?]"
+ },
+ {
+  "page": 566,
+  "y0": 0.35,
+  "y1": 0.372,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ni. 2-23 (antarikṣa names)",
+  "note": "as printed; source's own numbering"
+ }
+]
