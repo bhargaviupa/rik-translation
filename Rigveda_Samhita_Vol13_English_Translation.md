@@ -123,4 +123,96 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 6 (PDF 26) done — Ṛk 1 of Sūkta 166 complete. Next: printed p. 7 (PDF 27), Ṛk 2. Open flags: small-type reference numerals marked [?].
+### Printed p. 7  (PDF 27)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Vyākaraṇa-prakriyā (continued, noted briefly; sūtra numbers [?] where small).** *aidhā iva* (*aidhāni* = belonging to fuel; *aṇ* suffix in the sense of relation by *tasyedam*; *ādivṛddhi* by *tiṣyapunarvasvoḥ* … [?]; accent on the last by the suffix; *iva* — elision by *bahulaṃ chandasi*). *yāman* (root *yā prāpaṇe*; *manin* by *ādeḥ muninn* … Uṇ. [?]; initial acute as *nit*; the locative ending dropped by *supāṃ suluk* Pā. 7-1-39). *yudhā* (root *yudha saṃprahāre*; *kvip*, by *kvip ca* Pā. 3-2-76 [?]; the third case singular; an acute on the case-ending by *sāvekācas tṛtīyādiḥ* Pā. 6-1-168). *taviṣāṇi* (root *tava* of the *sautra* class; *ṭiṣac* suffix by *tavernirdvā* Uṇ. 1-[?]; *ṭi* dropped by *ṭeḥ*; *cit* so final acute). *kartana* (root *ḍukṛñ karaṇe*; *loṭ* 2nd plural; *tana* in place of *ta* by *taptanaptanathanāś ca* Pā. 7-1-45 [?]; *luk* of the *vikaraṇa* by *bahulaṃ chandasi*; guṇa; *nighāta* accent as it stands after a *tiṅanta*).
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> नित्यं न सूनुं मधु बिभ्रत उप क्रीळन्ति क्रीळा विदथेषु घृष्वयः ।
+> नक्षन्ति रुद्रा अवसा नमस्विनं न मर्धन्ति स्वतवसो हविष्कृतम् ॥ २ ॥
+
+> *nityaṃ na sūnuṃ madhu bibhrata upa krīḷanti krīḷā vidatheṣu ghṛṣvayaḥ |*
+> *nakṣanti rudrā avasā namasvinaṃ na mardhanti svatavaso haviṣkṛtam ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> नित्यम् । न । सूनुम् । मधु । बिभ्रतः । उप । क्रीळन्ति । क्रीळाः । विदथेषु । घृष्वयः ।
+> नक्षन्ति । रुद्राः । अवसा । नमस्विनम् । न । मर्धन्ति । स्वऽतवसः । हविःऽकृतम् ॥ २ ॥
+
+> *nityam | na | sūnum | madhu | bibhrataḥ | upa | krīḷanti | krīḷāḥ | vidatheṣu | ghṛṣvayaḥ |*
+> *nakṣanti | rudrāḥ | avasā | namasvinam | na | mardhanti | sva 'tavasaḥ | haviḥ 'kṛtam ‖ 2 ‖*
+
+### Printed p. 8  (PDF 28)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> नित्यं न सूनुमौरसं प्रियं पुत्रमिव मधु मधुरं हविर्बिभ्रतो धारयन्तो मरुतो विदथेषु यागेषु घृष्वयो रक्षःप्रभृतीनां घर्षकाः सन्तः क्रीळाः क्रीडनशीला उपोपेत्य क्रीळन्ति । विहरन्ति । किञ्च रुद्राः । रुद्रपुत्रा मरुतोऽपि रुद्रा उच्यन्ते जन्यजनकयोरभेदात् । मरुतां रुद्रपुत्रत्वं पुराणेषु तपसा तुष्टौ पार्वतीपरमेश्वरौ मरुतः पुत्रत्वेन स्वीचक्रतुरिति प्रसिद्धम् । नमस्विनं नमस्कारोपलक्षितैः स्तोत्रैरुपेतं [?] हविष्मन्तं हविषः कर्तारं प्रदातारं यजमानमवसा रक्षणेन तर्पणेन वा निमित्तभूतेन नक्षन्ति । व्याप्नुवन्ति । किञ्च स्वतवसः स्वायत्तबला मरुतो यजमानं न मर्धन्ति । न संग्राहयन्ति [?] न क्लेशयन्तीत्यर्थः ॥
+
+*Gist:* The Maruts, bearing the sweet oblation as one holds a dear son, come to sacrifices and sport, crushing demons and the like; they, the sons of Rudra (also called Rudras), reach the worshipping sacrificer with protection and satisfaction, and being self-powered they do not harm him. (The Purāṇic account: Pārvatī and Parameśvara, pleased with austerity, accepted the Maruts as sons.)
+
+**Pratipadārtha.** *nityaṃ sūnuṃ na* — as one bears a son of one's own body (constantly); *madhu* — sweet oblation; *bibhrataḥ* — the Maruts who bear (accept) it; *vidatheṣu* — in sacrifices; *ghṛṣvayaḥ* — those who crush the demons and others; *krīḷāḥ* — playful by nature; *upa* — approaching; *krīḷanti* — they sport; (*kiṃca* — moreover) *rudrāḥ* — the Marut-gods, the sons of Rudra; *namasvinam* — him who is accompanied by obeisance; *haviṣkṛtam* — the sacrificer who gives the oblation; *avasā* — [by their] act of protecting or by satisfying (for protecting or satisfying); *nakṣanti* — they pervade, reach; (and) *svatavasaḥ* — the Maruts, whose strength is their own (of strength excellent by nature); *na mardhanti* — they do not trouble (the sacrificer).
+
+**Bhāvārtha.** The Marut-gods, accepting the sweet oblation as one accepts a son of one's own body, sport in the sacrifices, crushing those who are the enemies of the sacrifices. The Marut-gods, the sons of Rudra, come to protect the sacrificer who offers obeisance and gives the oblation; though of great strength, they do not harm the sacrificer.
+
+**English Translation (as printed):** Ever accepting the sweet (libation), as (they would) a son, they sport playfully at sacrifices, demolishing (all intruders): the Rudras come to the offerer of prayers and oblations, for his protection, and powerful as they are, do him no harm.
+
+### Printed p. 9  (PDF 29)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Special Topics (Viśeṣaviṣayagaḷu).**
+
+***nityaṃ na sūnuṃ madhu*** — the word *na* here is a particle of comparison (*upamā*). As, every day, a father gives sweet food to his dear son, so the Maruts give the desired fruits to the sacrificer who performs the sacrifice: this extremely apt illustration is given. As the father, out of great love for the dear son, gives him prepared sweet food and makes him glad, so the Maruts show favour with all desired objects to the sacrificers who worship with hymns and the like: this is the main purport.
+
+***krīḷanti, krīḷāḥ*** — when the wind blows with force a kind of delightful sound arises; hence the ṛṣi describes the Maruts as sporting, with sounds of joy, for diversion. The words *krīḷanti*, *krīḷāḥ* are generally used as epithets of the Maruts, showing their special character; but this word is used with reference to other deities too. For example:
+
+> क्रीळं वः शर्धो मारुतमनर्वाणं रथेशुभम् । कण्वा अभि प्र गायत ॥
+
+> *krīḷaṃ vaḥ śardho mārutamanarvāṇaṃ rathe śubham | kaṇvā abhi pra gāyata ‖*
+
+(Ṛ. Saṃ. 1-37-1) In ṛks like this, with reference to the Maruts (gloss, mine and tentative: "Sing, O Kaṇvas, towards your sporting, horseless, chariot-adorning host of the Maruts");
+
+> क्रीळन्तस्त्वा सुमनसः सपेमाभि द्युम्ना तस्थिवांसो जनानाम् ।
+
+> *krīḷantastvā sumanasaḥ sapemābhi dyumnā tasthivāṃso janānām |*
+
+(Ṛ. Saṃ. 4-4-9 [?])
+
+> ज्येष्ठेभिर्यस्तेजिष्ठैः क्रीळुमद्भिर्वर्षिष्ठेभिर्भानुभिर्नक्षति द्याम् ।
+
+> *jyeṣṭhebhiryastejiṣṭhaiḥ krīḷumadbhirvarṣiṣṭhebhirbhānubhirnakṣati dyām |*
+
+(Ṛ. Saṃ. 10-3-5 [?]) In ṛks like these, with reference to Agni;
+
+> वृथा क्रीळन्त इन्दवः सधस्थमभ्येकमित् [?] । सिन्धोरूर्मा व्यक्षरन् ॥
+
+> *vṛthā krīḷanta indavaḥ sadhasthamabhyekamit [?] | sindhorūrmā vyakṣaran ‖*
+
+(Ṛ. Saṃ. 9-20-3 [?]) In ṛks like this, with reference to the Soma deity, this word is used. (Glosses: "O … [the Soma drops] sporting in vain, flowed as waves of the stream" — mine and tentative.)
+
+***vidatheṣu*** — *yajñeṣu*: in sacrifices, that is, at the sacrificial places. By "*vedayutsu stotreṣu nimittabhūteṣu*" [as read] he has shown the derivation of the word *vidatha*. Here one of the Nirukta-writers' derivations has been followed. *Yajñaḥ*, *veniḥ* and the like are read among the names of sacrifice (Ni. 3-19 [?]), and that *vidathāni vedanāni* — that the word *vidatha* means knowledge (Ni. 6-? [?]). To show this…
+
+### Printed p. 10  (PDF 30)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* …he cites the ṛk:
+
+> होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥
+
+> *hotā devo amartyaḥ purastādeti māyayā | vidathāni pracodayan ‖*
+
+(Ṛ. Saṃ. 3-27-7 [?]) and has explained there that the word is formed from the root *vid* meaning knowledge. Here Sāyaṇa has glossed *vidathāni* as *vedayitavyāni karmāṇi*: "acts to be known". Some scholars try to establish the essential meaning of this word, and each shows his own individual view; each, showing one kind of derivation of this word, gives different meanings; so we understand that all those meanings can be held to fit according to the context. The scholar Max Müller, in explaining the ṛk
+
+> आमादेषां भियसा भूमिरेजति नौर्न पूर्णा क्षरति व्यथिर्यती । दूरेदृशो ये चितयन्त एमभिरन्तर्महे विदथे येतिरे नरः ॥
+
+> *āmādeṣāṃ bhiyasā bhūmirejati naurna pūrṇā kṣarati vyathiryatī | dūredṛśo ye citayanta emabhirantarmahe vidathe yetire naraḥ ‖*
+
+(Ṛ. Saṃ. 5-59-2 [?]) has translated the word *vidathe* as "assembly" (the great sacrificial assembly) [in English in the source]; and giving his explanation of it, another scholar, a German, has given the meaning of this word and their opinions about its root, and at the end: "Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East, Vol. 32, p. 349–50.) Some say that the meaning of the word *vidatha* is a holy rite (*kriyā*) that is sacred, as the meaning of the word *veda* is sacred knowledge; but he decides that there is no doubt that *yajña-sabhā* ("sacrificial assembly") is the main sense of this word.
+
+The scholar Hermann Oldenberg, in explaining the meaning of the word *vidathe* in the ṛk Ṛ. Saṃ. 1-31-6 [?] in his work *Vedic Hymns*, has given his opinion thus. His words are quoted and then his opinions are given: "On the derivation and meaning of *vidatha* various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R. V, V. 59·2 (S. B. E. Vol. 32 p. 349 sp.) without trying to discuss here all different theories, I proceed to state my own opinion;" *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 10 (PDF 30) done — Sūkta 166 Ṛk 2 in progress (Special Topics on vidatha continues, Oldenberg quotation). Next: printed p. 11 (PDF 31). Open flags: small-type reference numerals [?].
