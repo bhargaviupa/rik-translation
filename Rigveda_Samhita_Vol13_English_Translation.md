@@ -2484,4 +2484,50 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 ---
 
-**Progress note:** printed p. 110 (PDF 130) done — Sūkta 167 Ṛk 10 complete; Ṛk 11 (last of Sūkta 167): Saṃhitā, Pada, bhāṣya note and Pratipadārtha done. Next: printed p. 111 (PDF 131): Bhāvārtha, English of Ṛk 11 and the end of Sūkta 167. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 111  (PDF 131)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Bhāvārtha.** O Marut-gods, may the praise made so far and this praise-speech [being made now] give you satisfaction; and, from the wish of the praiser, who is a giver of delight to you by his praises and the like, and is honourable, may it come to you for the nourishment of your bodies; and for us too grant food, strength and long life.
+
+**English Translation (as printed):** This praise, Maruts, is for you; this hymn is for you, (the work) of a venerable author, capable of conferring delight (by his laudations): may the praise reach you for (the good of your) persons, so that we may thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***eṣaḥ stomaḥ vaḥ*** — by this sentence, addressing the Maruts: *idānīṃ kriyamāṇa prakāraṃ stotraṃ yuṣmat prīṇanāya bhavatu* — "let the praise, in the manner now being made by us, the sacrificers, be glorious and give you pleasure" — thus it is explained.
+
+***iyaṃ gīḥ*** — *stutirūpā vāk api yuṣmadarthāya*: even this speech in the form of praise, may it be for your delight: thus a wish is expressed.
+
+***māndāryasya*** — this word is used as an adjective of the word *kāroḥ*. The word *kāru* is read among the names of the praiser (Ni. 3-19 [?]). By the word *māndārya* is explained "he who, by his praises, makes manifest, or increases, the greatness of his praised deity"; and by the word *mānyasya*, "the praiser who, by his praise, through the favour of the satisfied deities, has obtained boons and is worthy of honour" — by the explanation *stotṛviśeṣaiḥ mandayituḥ stutibhiḥ madasya preraṇayituḥ nārā varapradānādinā mānanīyasya* [as read].
+
+***vayāṃ tanve iṣaṃ vṛjanaṃ jīradānuṃ vidyāma*** — *vayaṃ śarīrāya tejobalāya annaṃ balaṃ jayaśīlatānaṃ yuṣmat-prāgateṣu yajñasaṃpūrtyai* [?]: "we, because the sacrifice is performed without obstruction through the coming of the deities, have our desires granted by the deities *[continues on the next page]*
+
+### Printed p. 112  (PDF 132)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* …and, being favoured, for the growth of our body we pray the deities that we may have food and strength, and be victorious, and be of a nature to do abundant giving."
+
+The word *iṣa* is stated among the names of food (Ni. 2-7 [?]); the word *vṛjana* is also read among the names of strength (Ni. 2-9 [?]). Here the meaning "strength" is given. The Nirukta-writer has also illustrated the use of this word in another sense:
+
+> महां अमत्रो वृजने विरप्शी उग्रं शवः पत्यते धृष्ण्वोजः । नाह विव्याच पृथिवी चनैनं यत्सोमासो हर्यश्वममन्दन् ॥
+
+> *mahāṃ amatro vṛjane virapśī ugraṃ śavaḥ patyate dhṛṣṇvojaḥ | nāha vivyāca pṛthivī canainaṃ yatsomāso haryaśvamamandan ‖*
+
+(Ṛ. Saṃ. 3-36-4 [?]) — here *vṛjane* is explained as "in battle" (*saṃgrāme*).
+
+**॥ व्याकरणप्रक्रिया ॥** This has been explained earlier, in Ṛ. Saṃ. 1-166-15 [?].
+
+*Here the hundred and sixty-seventh Sūkta ends.* (ಇಲ್ಲಿಗೆ ನೂರ ಅರವತ್ತೇಳನೆಯ ಸೂಕ್ತ ಮುಗಿದುದು.)
+
+## Sūkta 168 — *yajñāyajñā vaḥ* (Anuvāka 23, fourth Sūkta; 10 ṛks)
+
+*(Heading, p. 112: "The hundred and sixty-eighth Sūkta" — ನೂರ ಅರವತ್ತೆಂಟನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> यज्ञायज्ञेति दशर्चं चतुर्थं सूक्तमागस्त्यं मारुतम् । अन्त्यास्तिस्रस्त्रिष्टुभः । शिष्टाः सप्त तिसृष्टुबन्तपरिभाषया जगत्यः [?] । यज्ञायज्ञा दश त्रिष्टुबन्तमित्यनुक्रान्तम् ॥ विशेषविनियोगो लैङ्गिकः ॥
+
+*Gist:* The fourth sūkta (*yajñāyajñā*), of ten ṛks, by Agastya, to the Maruts; the last three ṛks are triṣṭubh, the other seven jagatī (by the rule "up to the triṣṭubh ones"); the Anukramaṇikā: "*yajñāyajñā daśa triṣṭubantam*"; the special application is by indication.
+
+**Anuvāda (Kannada).** This Sūkta beginning *yajñāyajñā* is the fourth Sūkta in the twenty-third anuvāka. It has ten ṛks. Agastya is the ṛṣi of this Sūkta; the Maruts are the deities. The last three ṛks are in *jagatī* metre [*as printed*; the bhāṣya says the last three are *triṣṭubh*]. The Anukramaṇikā says: "*yajñāyajñā daśa triṣṭubantam*". The special application (*viniyoga*) is by indication.
+
+---
+
+**Progress note:** printed p. 112 (PDF 132) done — SŪKTA 167 COMPLETE (printed pp. 72–112, 11 ṛks). Sūkta 168 begun (heading, bhāṣya, anuvāda). Next: printed p. 113 (PDF 133): Sūkta 168 heading block and Ṛk 1. Open flags: small-type numerals [?] (~70 entries in vol13/review/doubts_v13.json); no Kannada file (lean mode).
