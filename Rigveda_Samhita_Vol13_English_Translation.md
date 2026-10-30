@@ -1306,4 +1306,84 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 58 (PDF 78) done — Sūkta 166 Ṛk 12 Special Topics (vrata; Varuṇa-ṛk 1-25-1 in progress; continues on p. 59). Next: printed p. 59 (PDF 79). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 59  (PDF 79)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Special Topics (continued: *vrata* as "rule").**
+
+> य उ श्रियो दमेष्वा दोषोषसि प्रशस्यते । यस्य व्रतं न मीयते ॥
+
+> *ya u śriyo dameṣvā doṣoṣasi praśasyate | yasya vrataṃ na mīyate ‖*
+
+(Ṛ. Saṃ. 2-8-3 [?]) — "he (Agni) whose rule is not transgressed…" [the print has an ellipsis here].
+
+> इन्द्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनन्ति विश्वे ।
+
+> *indrasya karma sukṛtā purūṇi vratāni devā na minanti viśve |*
+
+(Ṛ. Saṃ. 3-32-8) — Indra's deeds of valour are many and well performed; the gods do not break (do not transgress) such rules of Indra.
+
+> विश्वं सत्यं मघवाना युवोरिदापश्चन प्र मिनन्ति व्रतं वाम् ।
+
+> *viśvaṃ satyaṃ maghavānā yuvoridāpaścana pra minanti vrataṃ vām |*
+
+(Ṛ. Saṃ. 7-84-2 [?]) — "O mighty gods, all that is yours is true; even the waters do not violate your rules."
+
+> वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनन्ति ।
+
+> *vanāni vibhyo nakirasya tāni vratā devasya savitur minanti |*
+
+(Ṛ. Saṃ. 2-38-2) — no one transgresses these rules of the god Savitṛ.
+
+> अमिनती दैव्यानि व्रतानि सूर्यस्य चेति रश्मिभिर्दृशाना ।
+
+> *aminatī daivyāni vratāni sūryasya ceti raśmibhirdṛśānā |*
+
+(Ṛ. Saṃ. 1-92-12)
+
+> अमिनती दैव्यानि व्रतानि प्रमिनती मनुष्या युगानि ।
+
+> *aminatī daivyāni vratāni praminatī manuṣyā yugāni |*
+
+(Ṛ. Saṃ. 1-124-2) — this goddess Uṣas does not transgress the rules of the gods.
+
+> किं स्विन्नो राजा जगृहे कदस्याति व्रतं चकृमा को वि वेद ।
+
+> *kiṃ svinno rājā jagṛhe kadasyāti vrataṃ cakṛmā ko vi veda |*
+
+(Ṛ. Saṃ. 10-12-5) — "which of the rules of (this Agni) have we transgressed?"
+
+> अयमेक इत्था पुरूरु चष्टे वि विश्पतिः । तस्य व्रतान्यनु वश्चरामसि ॥
+
+> *ayameka itthā purūru caṣṭe vi viśpatiḥ | tasya vratānyanu vaścarāmasi ‖*
+
+(Ṛ. Saṃ. 8-23-16 [?])
+
+### Printed p. 60  (PDF 80)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* …"we shall follow his rules (observe them)". In ṛks like these, and in Ṛ. Saṃ. 10-37-8 [?]; 2-5-4 [?]; 2-28-6 [?]; 3-38-6 [?] and others, the word *vrata* suggests the meaning "rules, ordinances"; and the word *anuvrata*, found in the ṛks Ṛ. Saṃ. 2-38-3 [?]; 3-38-6 [?]; 8-40-8 [?]; 1-136-5 [?]; 3-61-1 [?]; 4-13-2 [?]; 5-69-1 [?] and others, suggests the meaning "in accordance with the rules".
+
+(3) In some contexts the rules of the gods are explained as *yajña*, or as the acts of sacrifice, and the word *vrata* has been used for them; for by performing sacrifices and the like, the wish of the gods or their rules are, so to say, observed; thus it is said:
+
+> यो अग्नीषोमा हविषा सपर्याद्देवद्रीचा मनसा यो घृतेन । तस्य व्रतं रक्षतं पातमंहसो विशे जनाय महि शर्म यच्छतम् ॥
+
+> *yo agnīṣomā haviṣā saparyāddevadrīcā manasā yo ghṛtena | tasya vrataṃ rakṣataṃ pātamaṃhaso viśe janāya mahi śarma yacchatam ‖*
+
+(Ṛ. Saṃ. 1-93-8) — "O Agni and Soma, protect the sacrifice of the man (the sacrificer) who honours you with his mind full of devotion, with oblations and ghee; guard him, so that no harm may happen to him."
+
+> त्वमग्ने प्रथमो अङ्गिरास्तमः कविर्देवानां परि भूषसि व्रतम् ।
+
+> *tvamagne prathamo aṅgirāstamaḥ kavirdevānāṃ pari bhūṣasi vratam |*
+
+(Ṛ. Saṃ. 1-31-2) — "O Agni, you are the foremost of the Aṅgirasas, and a seer; you carry out the sacrifice of the gods."
+
+> तस्य व्रतानि भूरिपोषिणो वयमुप भूषेम दम आ सुवृक्तिभिः ।
+
+> *tasya vratāni bhūripoṣiṇo vayamupa bhūṣema dama ā suvṛktibhiḥ |*
+
+(Ṛ. Saṃ. 3-3-9 [?]) — "we, rich in wealth and the like, shall perform Agni's sacrificial acts in our house with hymns of praise." In ṛks like these, and in Ṛ. Saṃ. 3-3-9 [?]; 8-43-1 [?]; 6-14-3 [?]; 1-24-13 [?]; 6-34-5 [?]; 10-34-13 [?] and others the word *vrata* is used in some one sense: sacrifice, sacrificial act, or act (*karma*). When the meanings are to be made to fit the mantras, of the three kinds of meaning that Yāska has given, whichever fits according to the context is to be stated. This is the main sense and use of the word *vrata*.
+
+***dātram*** — *dānam*: giving, that is, "the act of giving". From the root *dā dāne* are formed *dātā*, *dātram* and the like; the meaning is "one who gives, giving".
+
+---
+
+**Progress note:** printed p. 60 (PDF 80) done — Sūkta 166 Ṛk 12 Special Topics (vrata complete; dātram). Next: printed p. 61 (PDF 81). Open flags: small-type numerals [?]; review/doubts_v13.json.
