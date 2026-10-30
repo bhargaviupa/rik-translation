@@ -3142,4 +3142,52 @@ In this ṛk the word *ghṛtena* is given the sense "by water". "*ghṛtam ity 
 
 ---
 
-**Progress note:** printed p. 140 (PDF 160) done — Sūkta 168 Ṛk 8 complete. Next: printed p. 141 (PDF 161): Ṛk 9 Saṃhitā. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 141  (PDF 161)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+**॥ संहितापाठः ॥**
+
+> असूत पृश्निर्महते रणाय त्वेषमयासां मरुतामनीकम् ।
+> ते सप्सरासोऽजनयन्ताभ्वमादित्स्वधामिषिरां पर्यपश्यन् ॥ ९ ॥
+
+> *asūta pṛśnirmahate raṇāya tveṣamayāsāṃ marutāmanīkam |*
+> *te sapsarāso 'janayantābhvamāditsvadhāmiṣirāṃ paryapaśyan ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> असूत । पृश्निः । महते । रणाय । त्वेषम् । अयासाम् । मरुताम् । अनीकम् ।
+> ते । सप्सरासः । अजनयन्त । अभ्वम् । आत् । इत् । स्वधाम् । इषिराम् । परि । अपश्यन् ॥ ९ ॥
+
+> *asūta | pṛśniḥ | mahate | raṇāya | tveṣam | ayāsām | marutām | anīkam |*
+> *te | sapsarāsaḥ | ajanayanta | abhvam | āt | it | svadhām | iṣirām | pari | apaśyan ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> पृश्निर्मरुन्माता नानावर्णा । पृश्न्यै वै पयसो मरुतो जाताः । तै. सं. २-२-११-४ [?] । पृश्नेः पुत्रा उपमासः । ऋ. ५-५२-१६ [?] । इत्यादिश्रुतेः । तामेवान्तरिक्षदेवतां केचिदाहुः । सा देवी त्वेषं दीप्तमयासां गन्तॄणां मरुतामनीकं समूहमेकोनपञ्चाशत्संख्याकमसूत । उत्पादितवती । किमर्थम् । महते रणाय संग्रामाय । मेघजयायेत्यर्थः । ते च मरुतः सप्सरासः समानरूपा हिंसका वा मेघानामभ्वं मेघं जनयन्ति । उत्पादितवन्तः । आदिदनन्तरमेवेषिरां सर्वैरेष्टव्यां स्वधामन्नं सस्यादिसमृद्धिलक्षणं पर्यपश्यन् । परिपश्यन्ति सर्वे जनाः ॥
+
+*Gist:* Pṛśni bore the brilliant host of the swift Maruts for the great fight with the cloud; they brought forth the cloud, and at once all people saw the longed-for food.
+
+**Pratipadārtha.** *pṛśniḥ* — the many-coloured sky (the deity named Pṛśni); *tveṣam* — brilliant; *ayāsām* — of those who are of moving nature; *marutām* — of the Marut-gods; *anīkam* — the host; *mahate raṇāya* — (in the form of victory over the clouds) for a great battle; *asūta* — gave birth to; *sapsarāsaḥ* — of equal form, or the destroyers of the clouds; *te* — those Marut-gods; *abhvam* — the cloud; *ajanayanta* — created; *āt it* — immediately after; *iṣirām* — desired by all; *svadhām* — (in the form of crops and the like) food; *pari apaśyan* — (people) saw.
+
+**Bhāvārtha.** After the many-coloured sky (or the deity named Pṛśni) had given birth to the brilliant host of the Marut-gods for a great battle, in the form of victory over the clouds, the cloud was created by those Marut-gods. Immediately after, (people) saw the prosperity of crops and the like.
+
+### Printed p. 142  (PDF 162)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+**English Translation (as printed):** Prishni bore the brilliant troop of the quick-moving Maruts for the great combat (with the clouds), whercupon [sic] (mankind) immediately beheld the desiderated food.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***pṛśniḥ*** — *marunmātā nānāvarṇā | tām evāntarikṣadevatāṃ kecid āhuḥ*: the word *pṛśni* is read among the names "*svaḥ, nākaḥ*" of the atmosphere and among the common names of the Āditya (Ni. 2-[?]), and "*pṛśnirādityo bhavati prāśnute enaṃ varṇa iti nairuktāḥ*" (Ni. 2-[?]) — "abundant colour spreads over him exceedingly, thus the Āditya is *Pṛśni*", so Yāska explains. The deity *Pṛśni* is, in one explanation, the mother of the Marut-gods, one of many colours; some say that she is the very deity of the atmosphere. On the point of *Pṛśni* being the mother of the Marut-gods, Sāyaṇa cites the Taittirīya Saṃhitā sentence "*pṛśnyai vai payaso maruto jātāḥ*" (Tai. Saṃ. 2-2-11-4 [?]) and the Ṛk Saṃhitā sentence "*pṛśneḥ putrāḥ upamāsaḥ*" (Ṛ. Saṃ. 5-52-16 [?]).
+
+***sā devī tveṣam ayāsām marutām anīkam asūta*** — it is explained that the goddess *Pṛśni*, brilliant and of moving nature, gave birth to the host of the Marut-gods, forty-nine in number (49 persons); *mahate raṇāya saṃgrāmāya meghajayāya* — it is described that these Marut-gods, fighting with the clouds, should be victorious.
+
+***sapsarāsaḥ abhvam*** — *samānarūpā hiṃsakā vā meghānām | meghaṃ janayanti utpādayantaḥ*: all the Marut-gods have an identical form, and they harm the clouds: thus the meaning of the word *sapsarāsaḥ* is explained. The word *abhva* is read among the names of water (Ni. 1-[?]) and among the names of great things (Ni. 3-[?]). Here, the meaning "cloud" is given to this word, and it is said that the Marut-gods produce the cloud.
+
+***ādit iṣirāṃ svadhāṃ paryapaśyan*** — *anantarameva sarvairaṣṭavyāṃ annaṃ sasyādisamṛddhilakṣaṇaṃ paripaśyanti sarve janāḥ*: immediately after the Marut-gods have produced the cloud, all the people of the world know that the desired food, in the form of the growth of crops and the like, is going to arise.
+
+---
+
+**Progress note:** printed p. 142 (PDF 162) done — Sūkta 168 Ṛk 9 through Special Topics (grammar on p. 143). Next: printed p. 143 (PDF 163). Open flags: small-type numerals [?]; review/doubts_v13.json.
