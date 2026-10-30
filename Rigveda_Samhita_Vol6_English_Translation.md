@@ -5742,7 +5742,7 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
   > अनश्रवोऽनमीवाः सुरत्ना आ रोहंतु जनयो योनिमग्रे ।
   > *anaśravo 'namīvāḥ suratnā ā rohantu janayo yonim agre |* (Ṛk. Saṃ. 10-18-7)
 
-  In places like these, the word *janayaḥ* is used as a synonym of human women; here also *saha janayaḥ — jāyāḥ* means generally 'wives'." *(Glosses mine and tentative: "women unbrothered, like wives who hate their husbands, bad-natured" for the first; "wifeless/tearless, free from sickness, with good jewels, may the wives go up to the womb first" for the second; the Ṛgveda numerals are read doubtfully [?].)*
+  In places like these, the word *janayaḥ* is used as a synonym of human women; here also *saha janayaḥ — jāyāḥ* means generally 'wives'." *(Glosses mine and tentative: "women unbrothered, like wives who hate their husbands, bad-natured" for the first; "wifeless/tearless, free from sickness, with good jewels, may the wives go up to the womb first" for the second.)*
 - **जिन्वन्** — *jinvatiḥ prītikarmā* (Ni. 6-22) — "It is used in the sense of 'to please'. As a wife pleases her husband and, attending him with love, serves him, so the fingers, with devotion, attend Agni and serve him. But this is not merely common pleasing; it includes the sense of nourishing. For this the Nirukta-writer gives a very apt example of a pleasing that causes joy and nourishment (Ni. 6-22), the Ṛk Saṃhitā's
   > भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ।
   > *bhūmiṃ parjanyā jinvanti divaṃ jinvanty agnayaḥ |* (Ṛk. Saṃ. 1-164-51)
@@ -5755,7 +5755,7 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 
 *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
-**Special Topics of Rik 71.1 (concluded):** **उच्छंतीम्** — *naiśaṃ tamo varjayantīm* — "driving far away the darkness of night — this is an illustration for the service of the fingers: as the rays serve the dawn (*gāvo na*), so the fingers serve Agni. (For the explanation of the word *ucchantīm* see the Special Topics of Ṛk 1-[?]-6.)"
+**Special Topics of Rik 71.1 (concluded):** **उच्छंतीम्** — *naiśaṃ tamo varjayantīm* — "driving far away the darkness of night — this is an illustration for the service of the fingers: as the rays serve the dawn (*gāvo na*), so the fingers serve Agni. (For the explanation of the word *ucchantīm* see the Special Topics of Ṛk 1-92-6.)"
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.1, noted briefly; not transcribed)*
 
@@ -5786,7 +5786,7 @@ cakrúr divó bṛható gātúm asmé áhaḥ svàr vividuḥ ketum usrā́ḥ |
 
 *vīḷu | cit | dṛḷhā | pitaraḥ | naḥ | ukthaiḥ | adrim | rujan | aṅgirasaḥ | raveṇa | cakruḥ | divaḥ | bṛhataḥ | gātum | asme iti | ahar iti | svaḥ | vividuḥ | ketum | usrāḥ ||2||*
 
-*(Reading note: the Pada prints "ahar iti" and "asme iti" as read; the former is evidently *ahaḥ* with *iti* [?].)*
+*(Reading note: the Pada prints "ahar iti" and "asme iti", as printed (checked against the better scan).)*
 
 ---
 
@@ -5844,7 +5844,7 @@ The sages called Aṅgirasas, who belong to the company of our ancestors, praise
   > ससेन चिद्विमदायावहो वस्वाजावद्रिं वावसानस्य नर्तयन् ।
   > *sasena cid vimadāyāvaho vasvājāvadriṃ vāvasānasya nartayan* (Ṛk. Saṃ. 1-51-3)
 
-  *adri* is explained as the thunderbolt, devourer of enemies; but the word *adri* is mostly used in the sense of 'mountain' or 'cloud' — such a meaning is less suitable here. Skandasvāmin too, explaining the word *adri* in this Ṛk as 'mountain', writes *adriṃ mṛgaparvataṃ cāsurāṇāṃ svabhūtam* [as read, ?]: though the mountain, the dwelling-place of the *asuras*, was very firm and strong, Agni split it with help" *(the Sanskrit of Skandasvāmin's note is read doubtfully [?]; the glosses are mine and tentative).*
+  *adri* is explained as the thunderbolt, devourer of enemies; but the word *adri* is mostly used in the sense of 'mountain' or 'cloud' — such a meaning is less suitable here. Skandasvāmin too, explaining the word *adri* in this Ṛk as 'mountain', writes *adriṃ durgaparvataṃ cāsurāṇāṃ svabhūtam*: though the mountain, the dwelling-place of the *asuras*, was very firm and strong, Agni split it with help" *(Skandasvāmin's note re-read from the better scan; the glosses are mine and tentative).*
 
 ---
 
@@ -5980,15 +5980,15 @@ After the Aṅgirases, in the sacrificial hall, had established Agni and perform
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.3, noted briefly; not transcribed)*
 
-Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*, third person plural, *jhi* by *vyatyayo bahulam*; *antādeśa*; loss; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta since at the head of a pāda; the root accent remains since *śap* and the *ārdhadhātuka*-like *laṅ* are anudātta); *dhanayan* (from the noun *dhana*, *ṇic* in the sense "he does that" by the vārttika *tat karoti tad ācaṣṭe*; by *iṣṭhavat prātipadikasya* the operations of *iṣṭha* are extended; here *ṭi*-loss; the *ṇijanta* *dhani* is a root by *sanādyantā dhātavaḥ*, and after it *laṅ* behaves as with *dadhan*; no *aḍ*; the accent on the middle by *ṇic*'s accent); *aryaḥ* (*aryaḥ svāmivaiśyayoḥ*, Pā. [3-1-103], by nipāta in the sense "master"; here the feminine and plural are required by the context, and the gender-change is by *vyatyaya*, the masculine singular having come; *āryaḥ svāmyākhyā cet*, Phiṭ. [1-?], final acute); *didhiṣvaḥ* (root *ḍudhāñ* "to hold, to nourish"; *ko* affix by the Uṇādi sūtra *kūpa-jambū-karkandhū-didhiṣū*, Uṇ. [1-93?]; final acute by the affix accent; before *jas*, *yaṇ* in place of the udātta and *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. [8-2-4], gives svarita). Continued on p. 297. *Grammar page, noted briefly; sūtra numerals [?].*
+Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*, third person plural, *jhi* by *vyatyayo bahulam*; *antādeśa*; loss; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; no nighāta since at the head of a pāda; the root accent remains since *śap* and the *ārdhadhātuka*-like *laṅ* are anudātta); *dhanayan* (from the noun *dhana*, *ṇic* in the sense "he does that" by the vārttika *tat karoti tad ācaṣṭe*; by *iṣṭhavat prātipadikasya* the operations of *iṣṭha* are extended; here *ṭi*-loss; the *ṇijanta* *dhani* is a root by *sanādyantā dhātavaḥ*, and after it *laṅ* behaves as with *dadhan*; no *aḍ*; the accent on the middle by *ṇic*'s accent); *aryaḥ* (*aryaḥ svāmivaiśyayoḥ*, Pā. [3-1-103], by nipāta in the sense "master"; here the feminine and plural are required by the context, and the gender-change is by *vyatyaya*, the masculine singular having come; *āryaḥ svāmyākhyā cet*, Phiṭ. [17?], final acute); *didhiṣvaḥ* (root *ḍudhāñ* "to hold, to nourish"; *ko* affix by the Uṇādi sūtra *kūpa-jambū-karkandhū-didhiṣū*, Uṇ. 1-93; final acute by the affix accent; before *jas*, *yaṇ* in place of the udātta and *udāttasvaritayor yaṇaḥ svaritaḥ*, Pā. [8-2-4], gives svarita). Continued on p. 297. *Grammar page, noted briefly; sūtra numerals [?].*
 
 ---
 
 ### Page 297 (PDF 315)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
-**Grammar page of Rik 71.3 (concluded; noted briefly):** *vibhṛtrāḥ* (root *hṛñ* "to carry" with the prefix *vi*, *tra*/*ṭrā*-affix, *kratra*-type affix; with the prefix *vi* as the first member the accent …; loss of the *k* by *laśakvataddhite*; no guṇa since *kit*; *bha* for *ha* by *hṛgrahor bhaś chandasi*; the accusative plural form); *atṛṣyantīḥ* (root *ito ṭṛṣā pipāsāyām*, with *śatṛ* — *śyan*-vikaraṇa; feminine *ṅīp* by *ugitaś ca*; *na tṛṣyantī* = *atṛṣyantī*; before *jas* the lengthening of the earlier similar vowel is optional by *vā chandasi*, hence here made; accent of the indeclinable-first compound by *tatpuruṣe tulyārtha…*, Pā. [6-2-2]); *apasaḥ* (*apas* is a noun in *s* meaning "work"; the possessive affix *vini* by *asmāyāmedhā sraji vini* [?], Pā. [5-2-121]; loss of *vini* by the power of the statement *bahulagrahaṇa*; because *vini*-final words have no fixed gender and are possible in three genders, the bare *nap* neuter acute is ruled; final acute by the stem's accent); *yanti* (root *iṇ* "to go", Adādi; *jhi* → *anta*; *yaṇ* for the *i* of the root by *iko yaṇ aci*, since an affix beginning with a vowel follows; nighāta because it follows an *atijanta*); *janma* (*jāyante*, "those born", men; root *janī prādurbhāve*; *manin* by *anyebhyo 'pi dṛśyante*, Pā. [3-2-75]; the form *janman*; in the accusative plural *śas*, loss of *śas* by *supāṃ sulug…*; loss of *n* by *nalopaḥ prātipadikāntasya*). Ends "॥ ३ ॥". *Grammar page, noted briefly.*
+**Grammar page of Rik 71.3 (concluded; noted briefly):** *vibhṛtrāḥ* (root *hṛñ* "to carry" with the prefix *vi*, *tra*/*ṭrā*-affix, *kratra*-type affix; with the prefix *vi* as the first member the accent …; loss of the *k* by *laśakvataddhite*; no guṇa since *kit*; *bha* for *ha* by *hṛgrahor bhaś chandasi*; the accusative plural form); *atṛṣyantīḥ* (root *ito ṭṛṣā pipāsāyām*, with *śatṛ* — *śyan*-vikaraṇa; feminine *ṅīp* by *ugitaś ca*; *na tṛṣyantī* = *atṛṣyantī*; before *jas* the lengthening of the earlier similar vowel is optional by *vā chandasi*, hence here made; accent of the indeclinable-first compound by *tatpuruṣe tulyārtha…*, Pā. [6-2-2]); *apasaḥ* (*apas* is a noun in *s* meaning "work"; the possessive affix *vini* by *asmāyāmedhā srajo viniḥ*, Pā. [5-2-122]; loss of *vini* by the power of the statement *bahulagrahaṇa*; because *vini*-final words have no fixed gender and are possible in three genders, the bare *nap* neuter acute is ruled; final acute by the stem's accent); *yanti* (root *iṇ* "to go", Adādi; *jhi* → *anta*; *yaṇ* for the *i* of the root by *iko yaṇ aci*, since an affix beginning with a vowel follows; nighāta because it follows an *atijanta*); *janma* (*jāyante*, "those born", men; root *janī prādurbhāve*; *manin* by *anyebhyo 'pi dṛśyante*, Pā. [3-2-75]; the form *janman*; in the accusative plural *śas*, loss of *śas* by *supāṃ sulug…*; loss of *n* by *nalopaḥ prātipadikāntasya*). Ends "॥ ३ ॥". *Grammar page, noted briefly.*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.4** *(printed Ṛk "4 ||")*
 

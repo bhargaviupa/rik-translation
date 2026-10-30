@@ -57,3 +57,12 @@ p. 294/295: the two Ṛgveda citations of the dhīti note (Ṛk 6-61-2, 4-23-8) 
   p. 285: Ni. [3-13?] -> 3-13
 p. 295: word lists as printed: "niyutvān, inaina"; "apaḥ, apnaḥ, daṃsaḥ"; "andhaḥ, vājaḥ, payaḥ, prayaḥ"; vṛjināni.
 Calibration: the Ṛk number "|| ೩ ||" (p. 292) and the pluta ೩ have the same ಖ-like glyph as the first digit of the Ni. references (3-9, 3-13): first digit 3 settled; the source's Ni. numbers do not follow the usual Nighaṇṭu sections, recorded as printed.
+  p. 296: Phiṭ. [1-?] -> [17?]
+  p. 296: Uṇ. [1-93?] -> 1-93
+  p. 297: running-head Varga [?] -> 15
+  p. 297: Pā. [5-2-121] -> [5-2-122]
+p. 297: sūtra name "asmāyāmedhā sraji vini [?]" -> "asmāyāmedhā srajo viniḥ" (print).
+Unit 1 ends at p. 297 (Ṛks 71.1–71.3); pages with no flagged lines: none in pp. 282–297 (every page had a flagged line).
+  p. 287: Ṛk 1-[?]-6 -> 1-92-6
+p. 290: Skandasvāmin "mṛgaparvataṃ [?]" -> "durgaparvataṃ" (print).
+p. 286: note "Ṛgveda numerals doubtful" removed (numerals read). p. 288: Pada note: "ahar iti" as printed.

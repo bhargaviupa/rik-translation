@@ -1,0 +1,90 @@
+[
+{
+"id": "282_d0",
+"printed": 282,
+"file": "ऋषिश्चान्यस्मादिति [?]",
+"ctx": "दशेति । ऋषिश्चान्यस्मादिति [?] परिभाषया शक्तिपुत्रः",
+"kind": "word",
+"note": "first word of 2nd line of the intro: ಶ್ಚಾನ್ಯ or ಶ್ಶಾನ್ಯ?"
+},
+{
+"id": "282_d1",
+"printed": 282,
+"file": "परमाग्नेयमैन्द्रादिति [?]",
+"ctx": "त्रिष्टुप् । परमाग्नेयमैन्द्रादिति [?] परिभाषितत्वादग्निर्देवता",
+"kind": "word",
+"note": "ಯಮೈಂದ್ರಾ? syllables after ಪರಮಾಗ್ನೇ"
+},
+{
+"id": "284_d2",
+"printed": 284,
+"file": "उ. [२-९७?]",
+"ctx": "स्यसेर्ऋन् । उ. [२-९७?] इति ऋन्",
+"kind": "numeral",
+"note": "Uṇādi numeral: 2-97? (2/7 and 9/8 doubtful)"
+},
+{
+"id": "284_d3",
+"printed": 284,
+"file": "उ. [४-७३?]",
+"ctx": "ऋहनिभ्यामुषच् । उ. [४-७३?] । छन्दसीवनिपा",
+"kind": "numeral",
+"note": "Uṇādi numeral: 4-73? (7/2 and 3/8 doubtful)"
+},
+{
+"id": "285_d4",
+"printed": 285,
+"file": "Ṛk. Saṃ. [9-72-2?]",
+"ctx": "Ṛks like Ṛk. Saṃ. [9-72-2?] the words",
+"kind": "numeral",
+"note": "7/2 in the middle group; last digit 2?"
+},
+{
+"id": "285_d5",
+"printed": 285,
+"file": "[1-165-1; 7-56-1?]",
+"ctx": "in the places [1-165-1; 7-56-1?] where the Maruts",
+"kind": "numeral",
+"note": "first digit of the second reference: 2 or 7?"
+},
+{
+"id": "287_d6",
+"printed": 287,
+"file": "Uṇ. [2-253?]",
+"ctx": "by *suñsyaser ṛn*, Uṇ. [2-253?], giving",
+"kind": "numeral",
+"note": "running Uṇādi number: 2-253?"
+},
+{
+"id": "287_d7",
+"printed": 287,
+"file": "Uṇ. [4-513?]",
+"ctx": "\"to go\"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-513?];",
+"kind": "numeral",
+"note": "4-513? (5/7 doubtful)"
+},
+{
+"id": "288_d8",
+"printed": 288,
+"file": "केतुमु॒स्राः",
+"ctx": "स्व॑र्विविदुः केतुमु॒स्राः ॥ २ ॥",
+"kind": "accent",
+"note": "is there an anudātta mark under ಕೇ (ketum)? none seen"
+},
+{
+"id": "292_d9",
+"printed": 292,
+"file": "दि॑धि॒ष्वो॒३॑ विभृ॑त्राः",
+"ctx": "धी॒तिमादिद॒र्यो दि॑धि॒ष्वो॒३॑ विभृ॑त्राः ।",
+"kind": "accent",
+"note": "marks on ಷ್ವೋ and on the pluta ೩ (under and over?); no mark under ವಿ?"
+},
+{
+"id": "296_d10",
+"printed": 296,
+"file": "Phiṭ. [17?]",
+"ctx": "*āryaḥ svāmyākhyā cet*, Phiṭ. [17?], final acute)",
+"kind": "numeral",
+"note": "printed (ಫಿ. ಸೂ. ೧?) — second digit 7 or 2?"
+}
+]
