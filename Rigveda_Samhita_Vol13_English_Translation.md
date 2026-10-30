@@ -9341,4 +9341,51 @@ Yāska has explained the meaning of the word *svasti*, with a mantra example:
 
 ---
 
-**Progress note:** printed p. 358 (PDF 378) done — Sūkta 174 Ṛk 9 complete; Ṛk 10 (last of Sūkta 174): Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 359). Next: printed p. 359 (PDF 379). Open flags: Ṛk 10 bhāṣya partly doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 359  (PDF 379)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *tvam* — you; *asmākam* — for us; *viśvadha* — at all times (in every manner); *avṛkatamaḥ* — the most protective (the most excellent among the givers); *syāḥ* — be; (*tathā* — so); *narām nṛpātā* — the protector of our men, sons, grandsons and others; (*kiñca* — and) *saḥ* — such you; *naḥ* — our; *viśvāsām* — all; *spṛdhām* — contest-causing, to our armies; *sahodāḥ* (*syāḥ*) — be the giver of strength; (*vayam* — we); *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain (by your grace).
+
+**Bhāvārtha**
+
+O Indra, you are the special protector at all times and in all ways; protect our sons, grandsons and the rest; give strength to all our armies; and grant us food, strength and long life.
+
+**Printed English**
+
+Be Indra, at all times our especial defender, the preserver of our people, the bestower of strength upon all these our emulous (followers); that we may obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***viśvadha avṛkatamaḥ syāḥ — viśvasmin kāle viśvaprakārair vā dātṛtamaḥ bhava*** — addressing Indra, it is wished that he may be gracious towards us at all times and in all ways in our concerns, a knower of our true nature, a proper knower of our sacrifice, or one who favours us. The Nirukta-writers —
+
+> उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः । असुं य ईयुरवृका ऋतज्ञास्ते नोऽवन्तु पितरो हवेषु ॥
+
+> *udīratām avara ut parāsa un madhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyur avṛkā ṛtajñās te no 'vantu pitaro haveṣu ‖*
+
+(Ṛ. Saṃ. 10-15-1 [?]) — quoting this ṛk, they have explained *avṛkāḥ* as "*anamitrāḥ satyajñā vā, yajñajñā vā*" — "those free from enemies, knowers of truth, or knowers of sacrifice". Durgācārya has given the meaning of the word *avṛka* as: those who behave in one way towards those who take refuge in them, who know truth and sacrifice. It is wished that Indra may be *avṛkatama*.
+
+### Printed p. 360  (PDF 380)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+***narāṃ nṛpātā — asmadīyānāṃ putrabhṛtyādirūpāṇāṃ bahūnāṃ manuṣyāṇāṃ sarvadā rakṣako bhava*** — it is a prayer that Indra may always protect our people, who are related to us as sons, servants and in other ways, as sacrificers.
+
+***viśvāsāṃ spṛdhāṃ sahodāḥ — sarvāsāṃ spardhānimittānām asmatsenānām arthāya balasya dātā bhava*** — a wish that Indra may give abundant strength to our armies, our helpers in mutual rivalry, so that their success may increase.
+
+The sentence *vidyām eṣaṃ vṛjanaṃ jīradānum* has been explained two or three times before as a wish that, by Indra's grace, we may obtain food, strength, and the power of giving.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***viśvadha*** — the word *viśva*; to it the suffix *tasil*; "*pṛṣodarādīni yathopadiṣṭam*" (Pā. Sū. 6-3-109 [?]): the suffix's *sa* is dropped; *ta* becomes *tha*; since the suffix is *lit*, by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix takes *udātta* accent.
+- ***avṛkatamaḥ*** — *nāsti vṛkaḥ asmin iti avṛkaḥ*; in the bahuvrīhi, by "*naño subhyām*" (Pā. Sū. 6-2-172 [?]) the final member takes the *udātta* accent; to it, by "*atiśāyane tamabiṣṭhanau*" the suffix *tamap*; being *pit*, it is *anudātta*.
+- ***nṛpātā*** — here the word *nṛ* repeats the previous sense; root *pā rakṣaṇe*; *tṛc* in the agent sense; being *cit*, the end syllable is *udātta*.
+- ***spṛdhām*** — root *spardha saṃgharṣe*; suffix *kvip*; Vedically the root *ṛ* takes *saṃprasāraṇa* and the *a* is dropped; genitive plural; by "*sānvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending takes *udātta* accent. ‖ 10 ‖
+
+Here ends the hundred and seventy-fourth (174th) Sūkta.
+
+---
+
+**Progress note:** printed p. 360 (PDF 380) done — SŪKTA 174 COMPLETE (10 ṛks, printed pp. 313–360). Next: printed p. 361 (PDF 381), Sūkta 175. Open flags: Ṛg/Nirukta refs and sūtra numerals [?]; some dense bhāṣya passages [?]; review/doubts_v13.json.
