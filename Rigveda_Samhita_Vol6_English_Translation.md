@@ -11730,7 +11730,7 @@ The word *rajas* in these Ṛks gives the sense 'water'.
 
 > अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
 
-*ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ |* (Ṛk. Saṃ. 6-[9]-1 [?]) — *Gloss, mine and tentative:* "The black day and the bright day revolve apart, the two (spaces), by their courses."
+*ahaś ca kṛṣṇam ahar arjunaṃ ca vi vartete rajasī vedyābhiḥ |* (Ṛk. Saṃ. 6-9-1) — *Gloss, mine and tentative:* "The black day and the bright day revolve apart, the two (spaces), by their courses."
 
 In this Ṛk the word *rajas* gives the sense 'day'. In the present context the sense of *rajas* is light, brightness."
 
@@ -11840,13 +11840,13 @@ In this Ṛk the word *rajas* gives the sense 'day'. In the present context the 
 
 > प्र नो महित्वं वृषभस्य वोचं यं पूरवो वृत्रहणं सचन्ते ।
 
-*pra no mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |* (Ṛk. Saṃ. 1-[59]-6 [?]) — *Gloss, mine and tentative:* "Let me proclaim the greatness of the bull, whom the Pūrus attend, the slayer of Vṛtra"
+*pra no mahitvaṃ vṛṣabhasya vocaṃ yaṃ pūravo vṛtrahaṇaṃ sacante |* (Ṛk. Saṃ. 1-59-6) — *Gloss, mine and tentative:* "Let me proclaim the greatness of the bull, whom the Pūrus attend, the slayer of Vṛtra"
 
-— gives the explanation *vṛṣabhasya* = *varṣitur apām*, 'of the shedder of the waters' (Ni. 2-[23] [?]) and again —
+— gives the explanation *vṛṣabhasya* = *varṣitur apām*, 'of the shedder of the waters' (Ni. 7-23) and again —
 
 > वृषभः । वृषभः प्रजां वर्षतीति वा अतिब्रूहति रेते इति वा तद्वृषकर्मा वर्षणाद्वृषभः ॥
 
-*vṛṣabhaḥ | vṛṣabhaḥ prajāṃ varṣatīti vā atibrūhati rete iti vā tad vṛṣakarmā varṣaṇād vṛṣabhaḥ ||* (Ni. [4-?]-22 [?]) — *the print of this line is compressed and the words after* varṣatīti vā *are read with doubt [?]. Gloss, mine and tentative:* "*Vṛṣabha*: because he showers (*varṣati*) the creatures, or because he … in the seed; he whose action is that of a bull; *vṛṣabha* from showering."
+*vṛṣabhaḥ | vṛṣabhaḥ prajāṃ varṣatīti vā atibrūhati rete iti vā tad vṛṣakarmā varṣaṇād vṛṣabhaḥ ||* (Ni. 9-22) — *the print of this line is compressed and the words after* varṣatīti vā *are read with doubt [?]. Gloss, mine and tentative:* "*Vṛṣabha*: because he showers (*varṣati*) the creatures, or because he … in the seed; he whose action is that of a bull; *vṛṣabha* from showering."
 
 and so he has given the derivation of the form of the word *vṛṣabha*. That is: the male who sheds in the womb the seed (virility), the cause of the birth of offspring, is called *vṛṣabha*. Or, the word *retaḥ* (…" *(the passage breaks off at the foot of p. 530 in mid-sentence: "…the word *retaḥ* means water, [and]…" continues on p. 531)*
 
@@ -11858,11 +11858,11 @@ and so he has given the derivation of the form of the word *vṛṣabha*. That i
 
 *Special Topics of Rik 79.2, continued from p. 530 (mid-sentence):*
 
-"…(*retaḥ*) also has the sense of 'water' (Ni. [1-12] [?]); so *vṛṣaṇa* is the name of one who showers water especially (in the form of rain or shower); one who causes such a downpour of water is called *vṛṣabha*. To show this they have given the Ṛk —
+"…(*retaḥ*) also has the sense of 'water' (Ni. 2-24); so *vṛṣaṇa* is the name of one who showers water especially (in the form of rain or shower); one who causes such a downpour of water is called *vṛṣabha*. To show this they have given the Ṛk —
 
 > न्यक्रन्दयन्नुपयन्त एनममेहयन्वृषभं मध्य आजेः ।
 
-*nyakrandayann upayanta enam amehayan vṛṣabhaṃ madhya ājeḥ |* (Ṛk. Saṃ. 10-[102]-5 [?]) — *Gloss, mine and tentative:* "They made him bellow as they came up to him; they made the bull shed water in the midst of the race."
+*nyakrandayann upayanta enam amehayan vṛṣabhaṃ madhya ājeḥ |* (Ṛk. Saṃ. 10-102-5) — *Gloss, mine and tentative:* "They made him bellow as they came up to him; they made the bull shed water in the midst of the race."
 
 as an example."
 

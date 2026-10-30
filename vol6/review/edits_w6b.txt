@@ -592,3 +592,9 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 525: (Ṛk. Saṃ. 1-[134]-3 [?]) -> (Ṛk. Saṃ. 1-134-5)
   p. 525: (Ṛk. Saṃ. 1-[186]-[19] [?]) -> (Ṛk. Saṃ. 1-164-19)
   p. 525: 6-[21?]-[3?] -> 6-71-3 (as printed in the Ṛk. Saṃ. citation; 71 read with ೭೧)
+  p. 526: Ṛk. Saṃ. 6-[9]-1 [?] -> Ṛk. Saṃ. 6-9-1
+  p. 530: Ṛk. Saṃ. 1-[59]-6 [?] -> Ṛk. Saṃ. 1-59-6
+  p. 530: 'of the shedder of the waters' (Ni. 2-[23] [?]) -> 'of the shedder of the waters' (Ni. 7-23)
+  p. 530: (Ni. [4-?]-22 [?]) -> (Ni. 9-22)
+  p. 531: sense of 'water' (Ni. [1-12] [?]) -> sense of 'water' (Ni. 2-24)
+  p. 531: Ṛk. Saṃ. 10-[102]-5 [?] -> Ṛk. Saṃ. 10-102-5
