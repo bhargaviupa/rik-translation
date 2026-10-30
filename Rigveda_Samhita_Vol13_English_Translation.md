@@ -2167,4 +2167,44 @@ The sun's course is swift; so the wife of the Marut-gods mounts the swiftly movi
 
 ---
 
-**Progress note:** printed p. 94 (PDF 114) done — Sūkta 167 Ṛk 6: Saṃhitā to English done (Special Topics next, p. 95). Next: printed p. 95 (PDF 115). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 95  (PDF 115)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Special Topics (Viśeṣaviṣayagaḷu).**
+
+***yuvānaḥ*** — *miśrayanto nityatarunā vā*: [Sāyaṇa: "mixing, or ever young"]. Yāska —
+
+> युवं च्यवानं सनयं यथा रथं पुनर्युवानं चरथाय तक्षथुः । निष्टौग्र्यमूहथुरद्भ्यस्परि विश्वेत्ता वां सवनेषु प्रवाच्या ॥
+
+> *yuvaṃ cyavānaṃ sanayaṃ yathā rathaṃ punaryuvānaṃ carathāya takṣathuḥ | niṣṭaugryamūhathuradbhyaspari viśvettā vāṃ savaneṣu pravācyā ‖*
+
+(Ṛ. Saṃ. 10-39-4) — here, for the word *yuvānam*, *yuvā prayoyati karmāṇi miśrayati*: "one who joins together, mixes". Sāyaṇa has explained that the Marut-gods are those who are always in youthful strength, and are united [with the other one].
+
+***yuvatīm āsthāpayanta*** — *miśrayantīṃ nityatarūṇīṃ vā vidyudrūpāṃ rodasyāṃ striyam āsthāpayanta devatātvena rathe dhārayanti*: she of the nature of being united at all times in her youth with the men (desirous), shining like the lightning, or the woman called Rodasī, in the form of lightning: they have her seated in their chariot. The meaning is: they bear Rodasī in their chariot so that those who worship their chariots and themselves may have the knowledge that Rodasī is of the nature of a goddess.
+
+***śubhe*** — *śobhate dīpyate iti śubhudakaṃ vṛṣṭyudakārthaṃ | śubhe rathe iti vā yojyam*: by the derivation "that which shines", water is named *śubh*, [meaning "for the sake of the water of rain", that is,] for giving water in the form of rain; or, as another meaning, "in your auspicious chariot".
+
+***arkaḥ*** — *arcanasādhanamantropetaḥ stotā vā*: "the praiser, endowed with a mantra as the means of worship". The word *arka* is stated among the names of food (Ni. 2-7 [?]) and among the names of the thunderbolt (Ni. 2-11 [?]).
+
+> अर्कः । अर्को देवो भवति यदेनमर्चन्ति । अर्को मन्त्रो भवति यदनेनार्चन्ति । अर्कमन्नं भवत्यर्चन्ति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥
+
+> *arkaḥ | arko devo bhavati yadenamarcanti | arko mantro bhavati yadanenārcanti | arkamannaṃ bhavatyarcanti bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*
+
+From the root *arc* (to worship, to honour) the word *arka* has been formed; by the derivation "*arcatīty arkaḥ*" it is explained that the word is used in the senses of "means of worship" and "worthy of worship"; and since the deity must be worshipped with praises, the deity is the meaning of the word *arka*: one kind of meaning. As the mantra is the means of worship, it is *arka*; and since beings worship [food] and honour it by preparing it, food too is the meaning of the word *arka*. Because it is joined with bitterness (*kaṭuka*), the word *arka* indicates the tree. Here, since the suffix *matup* has been dropped after the word *arka*, the word *arka* is used for one who has a mantra serving as the means of worship. By this it is explained that the sacrificers, who know the mantras by which they worship, or who recite the praises, with the oblations offered to Agni, and having prepared the Soma juice for the *homa* in the fire, serve the fire and recite the stotras. *[continues on the next page]*
+
+### Printed p. 96  (PDF 116)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* ***duvasyan*** — *paricaran*: *duvasyati* is stated among the names of acts of service (Ni. 3-[?]). And
+
+> परेयिवांसं प्रवतो महीरनु बहुभ्यः पन्थामनुपस्पशानम् । वैवस्वतं सङ्गमनं जनानां यमं राजानं हविषा दुवस्य ॥
+
+> *pareyivāṃsaṃ pravato mahīranu bahubhyaḥ panthāmanupaspaśānam | vaivasvataṃ saṅgamanaṃ janānāṃ yamaṃ rājānaṃ haviṣā duvasya ‖*
+
+(Ṛ. Saṃ. 10-14-1) — here the word *duvasya* is explained as *rādhnuhi*; Durgācārya explains the word *rādhnuhi* as *paricarasva* ("serve").
+
+***gātham*** — *gātavyaṃ stotram*: "a hymn to be sung". The word *gāthā* is read among the names of speech (Ni. 1-[?]). Here the word *gātham* is used; the meaning given for it is "stotra".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *āsthāpayanta* (root *ṣṭhā gatinivṛttau*; *ṇic* by *hetumati ca*; *puk* by *arti-hrī-vlī-rī-knūyī-kṣmāyy-ātāṃ puk ṇau* Pā. 7-3-36 since the root ends in *ā*; Vedic *laṅ* [?] in the present sense after the *ṇijanta*; 3rd plural; *nighāta* after a *tiṅanta*). *yuvatim* (the word *yuvan*; in the feminine *yūnas tiḥ* Pā. 4-1-77 gives *ti*; *nalopaḥ prātipadikāntasya* drops the *n*; final acute by the suffix). *śubhe* (*śobhata iti śubh*; root *śubha dīptau*; *kvip*; dative singular; *sānekācaś ca tṛtīyādiḥ* Pā. 6-1-168 gives the acute to the case-ending). *vidatheṣu* (root *vida jñāne*; *athac* by *rudhividibhyāṃ jit* Uṇ. 3-[?]; as it is *jit*, no *laghūpadha-guṇa*; initial acute by the suffix). *arkaḥ* (root *arca pūjāyām*; *ka* by *kṛdādhārārciśubhyaḥ kaḥ* [?] Uṇ. 3-[?]; *arka* is a mantra; since it is "that which has it", in the Veda the possessive suffix is dropped; or, as it belongs to the *arśa-ādi* class, *ac* in the sense of possession).
+
+---
+
+**Progress note:** printed p. 96 (PDF 116) done — Sūkta 167 Ṛk 6 Special Topics and grammar complete up to arkaḥ (grammar continues p. 97). Next: printed p. 97 (PDF 117). Open flags: small-type numerals [?]; review/doubts_v13.json.
