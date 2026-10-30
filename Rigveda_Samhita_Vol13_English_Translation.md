@@ -2614,4 +2614,52 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 116 (PDF 136) done — Sūkta 168 Ṛk 1 complete; Ṛk 2 Saṃhitā written. Next: printed p. 117 (PDF 137): Pada, bhāṣya of Ṛk 2. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 117  (PDF 137)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+**॥ पदपाठः ॥**
+
+> वव्रासः । न । ये । स्वऽजाः । स्वऽतवसः । इषम् । स्वः । अभिऽजायन्ते । धूतयः ।
+> सहस्रियासः । अपाम् । न । ऊर्मयः । आसा । गावः । वन्द्यासः । न । उक्षणः ॥ २ ॥
+
+> *vavrāsaḥ | na | ye | sva 'jāḥ | sva 'tavasaḥ | iṣam | svaḥ | abhi 'jāyante | dhūtayaḥ |*
+> *sahasriyāsaḥ | apām | na | ūrmayaḥ | āsā | gāvaḥ | vandyāsaḥ | na | ukṣaṇaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> ये मरुतो वव्रासो न । वव्रिरिति रूपनाम । रूपवन्त इव । ते यथा प्रकृष्टा लक्ष्यन्ते तद्वत् । यद्वा । अरूपा अपि सरूपा इव । स्वजाः स्वयमेव स्वस्माद्वा जायमानाः । अनन्यहेतुका इत्यर्थः । धूतयः कम्पनशीलाः सन्ति ते इषमन्नं हविर्लक्षणमन्नसाधनं सस्यादिकं वा स्वः स्वर्गं चाभिजायन्ते । अभिलक्ष्य प्रादुर्भवन्ति । ते दृष्टान्तमुखेन श्रूयन्ते । अपां नोर्मयः उदकानामूर्मय इव सहस्रियासः सहस्रसंमिताः । तथा वन्द्यासो बहुक्षीरादिप्रदेशेन [?] स्तुत्या गावो न गाव इवासा समीपापि [?] उक्षणो वृष्ट्युदकस्य सेक्तारः । ताद्दृशा मरुतः प्रादुर्भवन्तीत्यन्वयः ॥
+
+*Gist:* The self-born, self-powered, quivering Maruts, as if embodied, appear for the sake of food and heaven, numerous as the waves of the waters, praise-worthy like cows, sprinklers of the rain.
+
+**Pratipadārtha.** *ye marutaḥ* — which Marut-gods; *vavrāsaḥ na* — (though formless) like those who have a form; *svajāḥ* — self-born (not born of anything else); *svatavasaḥ* — endowed with innate strength; *dhūtayaḥ* — of trembling nature (those who shake); *te* — those; *apām* — of waters; *ūrmayaḥ na* — like the waves; *sahasriyāsaḥ* — countless; (*tathā* — likewise) *vandyāsaḥ* — (as givers of milk and the like) deserving praise; *gāvaḥ na* — like cows; *āsā* — being near; *ukṣaṇaḥ* — sprinklers of water; (*vandyāsaḥ* — praise-worthy) *te* — those Marut-gods; *iṣam* — (what we desire) food; *svaḥ* — heaven too (to give them); *abhi jāyante* — appear.
+
+**Bhāvārtha.** The Marut-gods, as though having form though formless, self-born, powerful by nature, of trembling nature, numerous like the waves of water, and worthy of praise like cows that give milk and the like, appear sprinkling water, in order to bestow on us the food and heavenly worlds that we wish for.
+
+### Printed p. 118  (PDF 138)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 168".)*
+
+**English Translation (as printed):** They who are as if embodied, self-born, self-invigorated, and (ever) tremulous (in movement), are generated (to confer) abundant food and heaven: they are numerous as the undulations of the waters; they are to be praised when present, shedding water, like cows (yielding milk).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***marutaḥ vavrāso na*** — *vavririti rūpanāma rūpavanta iva te yathā prakṛṣṭā lakṣyante tadvat | yadvā arūpā api sarūpā iva*: here the particle *na* is used in the sense of comparison. The word *vavri* is read among the names of form (Ni. 3-7 [?]) and
+
+> अयं स शिङ्क्ते येन गौरभीवृता मिमाति मायुं ध्वसनावधि श्रिता । सा चित्तिभिर्नि हि चकार मर्त्यं विद्युद्भवन्ती प्रति वव्रिमौहत ॥
+
+> *ayaṃ sa śiṅkte yena gaurabhīvṛtā mimāti māyuṃ dhvasanāvadhi śritā | sā cittibhirni hi cakāra martyaṃ vidyudbhavantī prati vavrimauhata ‖*
+
+(Ṛ. Saṃ. 1-164-29) — for the word *vavri* in this ṛk, "*vavririti rūpanāma vṛṇotīti sataḥ*" [as read] (from the root *vṛñ*): the word *vavri* is explained as conveying the sense of form (*rūpa*). Following the sense of the Vedic statement that the Maruts are of various forms, Sāyaṇa, in the ṛk
+
+> वायवा याहि दर्शतेमे सोमा अरंकृताः ।
+
+> *vāyavā yāhi darśateme somā araṃkṛtāḥ |*
+
+(Ṛ. Saṃ. 1-2-1 [?]) explains *darśate* as *darśanīya* ("O beautiful Vāyu, to be seen"), taking the sense of "*rūpavantaḥ iva*" ("as having form"), and explains "*te yathā prakṛṣṭā lakṣyante*" — "they are seen as splendid ones" — as "beautiful": thus the Maruts, having bodies, are of changeable forms; he establishes the meaning by comparing them to those of different forms. Based on another Vedic statement, that the deity Vāyu has no form but his activity alone is perceptible, he gives the second meaning "*arūpā api sarūpā iva*": though the Marut-gods have no form, they perform acts as if they were of changed form.
+
+***svajāḥ*** — *svayam eva svasmād vā jāyamānāḥ | ananyahetukāḥ*: "born of themselves, from themselves; without any other cause": the Marut-gods do not come to birth in the world as beings do, taking birth by a cause in accordance with their own meritorious and unmeritorious acts, to experience the fruits that depend on acts. They are said to have arisen of themselves to manifest their own glory to the world and to bring about the increase of the happiness of the world.
+
+---
+
+**Progress note:** printed p. 118 (PDF 138) done — Sūkta 168 Ṛk 2: Saṃhitā to Special Topics in progress (continues on p. 119). Next: printed p. 119 (PDF 139). Open flags: small-type numerals [?]; review/doubts_v13.json.
