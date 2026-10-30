@@ -3274,4 +3274,56 @@ In this ṛk the word *ghṛtena* is given the sense "by water". "*ghṛtam ity 
 
 ---
 
-**Progress note:** printed p. 146 (PDF 166) done — Sūkta 168 complete (10 ṛks, pp. 112–146); Sūkta 169 (8 ṛks) heading written. Next: printed p. 147 (PDF 167): Sūkta 169 heading block and Ṛk 1. Open flags: small-type numerals [?]; Sūkta 168 print oddities noted in text; review/doubts_v13.json.
+### Printed p. 147  (PDF 167)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 8"; the heading block of Sūkta 169 follows.)*
+
+**॥ ॐ ॥** Sūkta—169
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 169 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 8, 9 ‖
+Number of ṛks in the Sūkta: 8 · Ṛṣi: Agastya · Devatā: Indra · Chandas: ṛks 1, 3–8 *triṣṭubh*; ṛk 2 *catuṣpadā virāṭ*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> महश्चित्त्वमिन्द्र यत एतान्महश्चिदसि त्यजसो वरूता ।
+> स नो वेधो मरुतां चिकित्वान्त्सुम्ना वनुष्व तव हि प्रेष्ठा ॥ १ ॥
+
+> *mahaścittvamindra yata etānmahaścidasi tyajaso varūtā |*
+> *sa no vedho marutāṃ cikitvāntsumnā vanuṣva tava hi preṣṭhā ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> महः । चित् । त्वम् । इन्द्र । यतः । एतान् । महः । चित् । असि । त्यजसः । वरूता ।
+> सः । नः । वेधः । मरुताम् । चिकित्वान् । सुम्ना । वनुष्व । तव । हि । प्रेष्ठा ॥ १ ॥
+
+> *mahaḥ | cit | tvam | indra | yataḥ | etān | mahaḥ | cit | asi | tyajasaḥ | varūtā |*
+> *saḥ | naḥ | vedhaḥ | marutām | cikitvān | sumnā | vanuṣva | tava | hi | preṣṭhā ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं यतः कारणादेतान्मरुतो महश्चिन्महतोऽपि सामर्थ्यातिशयवत्त्वात् त्वं निरपेक्षेणापि स्नेहान्न त्यजसीति शेषः । अतः कारणान्महश्चिदसि । चिदिति पादपूरणः । महतोऽपि त्यजसस्त्यागात् [?] । यद्वा । एतेः क्रोधनाम [?] । क्रोधाद्वा । वरूता वरिता रक्षितासि । भवसि । यद्वा । मरुतोऽपि त्यागाद्वृष्ट्यादिविषयोद्वारयितासि [?] । यस्मादेवं तस्मात् हे मरुतां वेधो विधातः स तादृशस्त्वं चिकित्वान् ज्ञेतनावान् [?] अस्मदनुग्रहविषयज्ञानोपेतः सन् नोऽस्मभ्यं सुम्ना सुखानि मरुदायत्तानि वृष्ट्यादिरूपाणि वनुष्व । देहि । तानि तव हि प्रेष्ठा । तव खलु प्रियतमानि । हिशब्दः अयमिन्द्रो मरुत्सखा । ऋ. ८-६३-२ [?] । इत्यादिश्रुतिषु प्रसिद्ध्यर्थः ॥
+
+*Gist:* Indra is great, since he protects even these great Maruts without abandoning them; as creator of the Maruts, let him, kindly disposed to us, give the rain-like blessings that are dearest to him.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *yataḥ* — for whatever reason; *tvam* — you; *mahaḥ cit* — exceedingly great; *etān* — these Marut-gods; *tyajasaḥ* — from anger
+
+### Printed p. 148  (PDF 168)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+(from abandonment concerning rain and the like); *varūtā (asi)* — you are the protector; *(ataḥ* — for that reason*)* *mahaḥ cit asi* — you are indeed great-souled; *he marutām vedhaḥ* — O creator of the Marut-gods, Indra; *saḥ* — such as you are; *cikitvān* — having the knowledge of a favour towards us; *naḥ* — to us; *sumnā* — (Marut-bound) happinesses in the form of rain and the like; *vanuṣva* — be the giver; *(tāni* — those happinesses*)*; *tava* — to you; *preṣṭhā hi* — are known to be most dear.
+
+**Bhāvārtha.** O Indra, since you protect without ever leaving them even the greatest Marut-gods, you are in truth great-souled; O Indra, creator of the Marut-gods, with a mind of favour towards us, grant us the happinesses in the form of rain and the like, which are most dear to you.
+
+**English Translation (as printed):** You, Indra, are mighty from the might of those of whom you are the protector against abandonment: therefore, creator of the Maruts, favourably-minded towards us, grant us those blessings which are most dear to you.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***marutaḥ mahaścit; tyajasaḥ varūtā; mahato'pi sāmarthyātiśayavattvāt tvaṃ nirapekṣeṇāpi snehāt na tyajasi*** — here Indra is addressed. The matter of the origin of the Marut-gods is stated both in the Bṛhaddevatā and in the Taittirīya Saṃhitā. The goddess Diti, desiring a son who would subdue Indra, obtained the favour of the sage Kaśyapa and, while she was living under a vow and was with child, Indra entered her womb and with his thunderbolt cut the embryo into seven parts; when the infant wept, Indra said "*mā ruda*" ("do not weep"), and so the name *marut* arose for them. Afterwards Diti awoke and, as she said, "let these fragments of the embryo live and be your helpers along with Indra", Indra consented and made the Marut-gods his friends. This is indicated here.
+
+Both Indra and the Marut-gods are of great power; both are independent in their action and do not seek help from one another. Even so, because Indra, though by his own power very powerful, is in friendship with these Marut-gods, one kind of meaning is that Indra's abundant greatness is made manifest: this is one meaning for the word *tyajasaḥ* (continued on the next page).
+
+---
+
+**Progress note:** printed p. 148 (PDF 168) done — Sūkta 169 Ṛk 1 through Special Topics (continues p. 149). Next: printed p. 149 (PDF 169). Open flags: small-type numerals [?]; Ṛk 1 bhāṣya [?] words; review/doubts_v13.json.
