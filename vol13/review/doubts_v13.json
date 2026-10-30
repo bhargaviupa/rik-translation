@@ -4930,5 +4930,29 @@
   ],
   "note": "Ni 9-11 ref small; 'ramamano' reading",
   "answer": ""
+ },
+ {
+  "pdf": 519,
+  "printed": 499,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "many Rg/Ni refs small (6-47-26, 1-164-2, 4-19, 5-63-3, 7-34-16, 1-92-1, 4-42-6, 6-9-1); Ni khanda numbers (10th/44th, 12th/6th) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 520,
+  "printed": 500,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-23, 3-11, 5-5, 12-30; Rg 5-53-9, 10-65-13, 10-60-2 small; Ni 12-30 quote garbled; grammar sutra numerals",
+  "answer": ""
  }
 ]
