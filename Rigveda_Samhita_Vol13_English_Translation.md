@@ -4652,4 +4652,48 @@ Here the words *hṛdā taṣṭaḥ manasā dhāyi* make clear the poet's inten
 
 ---
 
-**Progress note:** printed p. 202 (PDF 222) done — Sūkta 171 Ṛk 2 through Special Topics (grammar on p. 203). Next: printed p. 203 (PDF 223). Open flags: Nirukta quotation on 'īm' (p. 201–202) garbled [?]; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 203  (PDF 223)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; grammar of Ṛk 2.)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *namasvān* (*namaḥ annam asya asti iti namasvān*; affix *matup*; *va* for the *m* by "*mādupadhāyāśca…*"; since the affix is *p*-marked it is unaccented); *hṛdā* (*hṛdaya* before the instrumental singular; *hṛd* substituted by "*padannomāsṛn…*", Pā. Sū. 6-1-63 [?]; the ending takes the acute by "*ūḍidaṃpadādi…*", Pā. Sū. 6-1-171 [?]); *taṣṭaḥ* (root *takṣū tanūkaraṇe*; affix *kta* in the passive; loss of *t* by "*skoḥ saṃyogādyoḥ ante ca*", Pā. Sū. 8-2-29 [?]; accent on the last syllable by the affix); *dhāyi* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Vedic *luṅ* in the passive; *ciṇ* for *cli*; *luk* of the *ta* by "*ciṇo luk*", Pā. Sū. 6-4-104 [?]; the augment *yuk* by "*āto yuk ciṇkṛtoḥ*", Pā. Sū. 7-3-33 [?]; no augment *aṭ* in the Veda; *nighāta*); *yāta* (root *yā prāpaṇe*; *loṭ* 2nd plural; *nighāta*); *juṣāṇāḥ* (root *juṣī prītisevanayoḥ*; *śānac* for *laṭ*; *ṇ* for its *n* by "*āṭkupvāṅnumvyavāye'pi*", Pā. Sū. 8-4-2 [?]; accent on the last syllable by "*citaḥ*"); *stha* (root *as bhuvi*; *laṭ* 2nd plural; *nighāta*); *vṛdhāsaḥ* (root *vṛdhu vṛddhau*; affix *ka* by "*igupadhajñāprīkiraḥ kaḥ*", Pā. Sū. 3-1-135 [?]; *asuk* before *jas* by "*ājjaserasuk*"; the accent of the *ka* affix). ‖ 2 ‖
+
+*(ornamental rule)*
+
+### Printed p. 204  (PDF 224)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> स्तुतासो नो मरुतो मृळयन्तूत स्तुतो मघवा शंभविष्ठः ।
+> ऊर्ध्वा नः सन्तु कोम्या वनान्यहानि विश्वा मरुतो जिगीषा ॥ ३ ॥
+
+> *stutāso no maruto mṛḷayantūta stuto maghavā śaṃbhaviṣṭhaḥ |*
+> *ūrdhvā naḥ santu komyā vanānyahāni viśvā maruto jigīṣā ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्तुतासः । नः । मरुतः । मृळयन्तु । उत । स्तुतः । मघऽवा । शंऽभविष्ठः ।
+> ऊर्ध्वाः । नः । सन्तु । कोम्या । वनानि । अहानि । विश्वा । मरुतः । जिगीषा ॥ ३ ॥
+
+> *stutāsaḥ | naḥ | marutaḥ | mṛḷayantu | uta | stutaḥ | magha 'vā | śaṃ 'bhaviṣṭhaḥ |*
+> *ūrdhvāḥ | naḥ | santu | komyā | vanāni | ahāni | viśvā | marutaḥ | jigīṣā ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> ते मरुतः स्तुतासः स्तुताः सन्तो नोऽस्मान् मृळयन्तु सुखयन्तु । उतापि च मघवा । मघमिति धननाम । अस्मद्दातव्येन बहुधनेन तद्वानिन्द्रः स्तुतः शंभविष्ठः सुखस्य भावयितृतमः सन्नस्मान्मृळयतु । किंच हे मरुतः नोऽस्माकं जिगीषा ॥ जिगातेर्गतिकर्मणो जिगीषा ॥ जिगीषितव्यानि प्राप्तव्यान्यत्र [?] त्रात्रानुभूयमानानि [?] विश्वा सर्वाण्यहानि दिवसान्यूर्ध्वान्येतान्युपर्युपरि श्रिया यशसा वोत्स्वान्यानि [?] कोम्या कामयानि स्पृहणीयानि वनानि सर्वैः संभजनीयानि सन्तु । जिगीषा जेतुमिष्यानि जेतव्यानि च संश्रिति वा योज्यम् [?] । एवं कृत्वा मरुत इन्द्रश्च सुखयन्त्वित्यर्थः ॥ [garbled in the second half]
+
+*Gist:* May the Maruts, praised, and Maghavan Indra, praised, give us happiness, and may all our days be elevated and desirable.
+
+**Pratipadārtha.** *(te)* *marutaḥ* — those Marut-gods; *stutāsaḥ* — (praised by us); *naḥ* — us; *mṛḷayantu* — may they give happiness; *uta* — and; *stutaḥ* — praised; *maghavā* — (giver of wealth to us) Indra, the wealthy; *śaṃbhaviṣṭhaḥ* — extremely beneficent; *(mṛḷayatu* — may he favour us with happiness*)* ; *(kiṃca* — and*)* *(he)* *marutaḥ* — O Marut-gods; *naḥ* — to us; *jigīṣā* — (those to be attained) to be won; *viśvā ahāni* — all days; *ūrdhvāḥ* — excellent; *komyā* — desirable (worthy to be desired); *vanāni* — (for all) the sources of happiness; and; *(jigīṣā* — worthy of victory*)* ; *santu* — may they be (by your favour).
+
+**Bhāvārtha.** O Marut-gods, praised by us, give us happiness; and may Indra, the lord of wealth, also praised, be a bringer of happiness; and, O Marut-gods, as all wish, may we, in the days to come (by your favour), live happily and in excellent fashion.
+
+**English Translation (as printed):** May the Maruts, now hymned, bestow happiness upon us: may Maghavan, now glorified, be propitious to us: Maruts, may all the *(continues on the next page)*
+
+---
+
+**Progress note:** printed p. 204 (PDF 224) done — Sūkta 171 Ṛk 2 complete; Ṛk 3 through printed English (breaks off mid-sentence; Special Topics on p. 205). Next: printed p. 205 (PDF 225). Open flags: Ṛk 3 bhāṣya second half [?]; small-type numerals [?]; review/doubts_v13.json.
