@@ -11533,4 +11533,64 @@ In this ṛk, describing Indra's lordship and his generosity, a prayer is made f
 
 ---
 
-**Progress note:** printed p. 428 (PDF 448) done — SŪKTA 177 begun (5 ṛks): Anukramaṇikā, Anuvāda, heading, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (continues p. 429). Next: printed p. 429 (PDF 449). Open flags: Anukramaṇikā Āś. ref [?]; Ṛk 1 bhāṣya phrase 'ājānātvāgacchatu' [?]; review/doubts_v13.json.
+### Printed p. 429  (PDF 449)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā". The sentence "Here" at the foot of p. 428 continues:)*
+
+the three words *carṣaṇi*, *jana* and *kṛṣṭi* are synonyms of "man"; but since they are used in different contexts, they should be understood as epithets that show the variety in the nature and in the occupations of man.
+
+***carṣaṇi*** — this word is mostly used in the plural only. Its formation and the variety of its meanings were explained earlier, in the Special Topics of the 2nd ṛk of the 176th sūkta (pp. 402–404 above). It is formed either from the root *car*, meaning "to move about", or from the root *kṛṣ*, meaning "to cultivate". Although this is the root meaning, in many places where the word is used Sāyaṇa has explained it as "men who have the sight of the nature of knowledge". It was also shown earlier that this word is used as an epithet not only of men but also of Indra and the other deities, who possess extraordinary knowledge. The epithets *rājā carṣaṇīnām* and *carṣaṇiprāḥ* too are used mostly of Indra and Agni [Ṛ. Saṃ. 3-100-1 [?]; 5-39-4 [?] and so on]; the purport is that Indra is the protector of men who are wise, who are seers of sūktas and who perform sacrifices. The word *kṛṣṭi* also has the general meaning "those born as men". The Nirukta-writers —
+
+> आ दधिक्राः शवसा पञ्च कृष्टीः सूर्य इव ज्योतिषापस्ततान ।
+
+> *ā dadhikrāḥ śavasā pañca kṛṣṭīḥ sūrya iva jyotiṣāpas tatāna |*
+
+(Ṛ. Saṃ. 4-38-10 [?]) — in this ṛk, for the words *pañca kṛṣṭīḥ* they give the meaning *pañca janān* (Ni. 10-18 [?]), i.e. all classes of men. About this word Keith gives the following explanation:
+
+> कृष्टि denotes 'people' in general from the Rig-Veda onwards. Its common and regular use in this sense appears to show that the Aryans, when they invaded India, were already Agriculturists, though the employment of the words reffering to ploughing mentioned under कृषि indicates that not all of the people devoted themselves equally to that occupation. Indra and Agni are Par exellence the lords of men. the word (कृष्टि) Sometimes is further defined by the addition of an adjective meaning "belonging to mankind" (मानुषीः : मानवीः).
+
+> *kṛṣṭi denotes 'people ' in general from the Rig-Veda onwards. Its common and regular use in this sense appears to show that the Aryans, when they invaded India, were already Agriculturists, though the employment of the words reffering to ploughing mentioned under kṛṣi indicates that not all of the people devoted themselves equally to that occupation. Indra and Agni are Par exellence the lords of men. the word (kṛṣṭi) Sometimes is further defined by the addition of an adjective meaning "belonging to mankind" (mānuṣīḥ : mānavīḥ).*
+>
+> [Vedic Index of Names and Subjects. By Keith anc Maedoneth [Vol. I. P. 183.]
+
+[As printed; "reffering", "exellence" and "anc" are the print's misprints: [sic]; the Sanskrit words in the English are set in Kannada letters in the print.]
+
+From the above explanation it is indicated that the word *kṛṣṭi* shows the Āryas to have been engaged in agriculture and other occupations: that is, it points to their way of life.
+
+### Printed p. 430  (PDF 450)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177".)*
+
+> स युध्मः सत्वा खजकृत्समद्वा तुविम्रक्षो नदनुमाँ ऋजीषी । बृहद्रेणुश्च्यवनो मानुषीणामेकः कृष्टीनामभवत्सहावा ॥
+
+> *sa yudhmaḥ satvā khajakṛt samadvā tuvimrakṣo nadanumāṃ ṛjīṣī | bṛhadreṇuś cyavano mānuṣīṇām ekaḥ kṛṣṭīnām abhavat sahāvā ‖*
+
+(Ṛ. Saṃ. 6-18-2 [?]) — in such ṛks the usage is found with the epithet *mānuṣīṇāṃ kṛṣṭīnām*.
+
+Like the words *carṣaṇi* and *kṛṣṭi*, which are synonyms for the human race, the word *kṣiti*, which gives the meaning "settled, dwelling", is also used in such contexts. *Manuṣyāḥ*, *naraḥ* and so on are read among the names of men (Ni. 3-7 [?]).
+
+It is said that Indra is the protector of the people who perform sacrifices, their guide, the lord who protects them all: thus Indra's extraordinary and universally dear qualities are described. Hence the epithet ***puruhūtaḥ — bahubhir āhūtaḥ*** — "he who is called by many". A prayer is made that such an Indra may come towards our sacrifice.
+
+***śravasyan — havirlakṣaṇam annam icchan*** — this shows Indra's wish too: "desiring the food that is in the form of oblation". For the word *śravas* the two meanings "food" and "fame" are possible. The Nirukta-writers —
+
+> आसस्राणासः शवसानमच्छेन्द्रं सुचक्रे रथ्यासो अश्वाः । अभि श्रव ऋज्यन्तो वहेयुर्नू चिन्नु वायोरमृतं वि दस्येत् ॥
+
+> *āsasrāṇāsaḥ śavasānam acchendraṃ sucakre rathyāso aśvāḥ | abhi śrava ṛjyanto vaheyur nū cin nu vāyor amṛtaṃ vi dasyet ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 6-32-3 [?]) — in explaining this ṛk, for the word *śrava* they say "*śrava ity annanāma śrūyata iti śruteḥ*" [as read: [?]] — *śrava* is a name of food; since it is universally well known, i.e. is heard by all, the word *śrava*, formed from the root *śru*, means food (Ni. 10-3 [?]). And
+
+> इन्द्रस्य यस्य सुमुखं सहो महि श्रवो नृम्णं च रोदसी सपर्यतः ।
+
+> *indrasya yasya sumukhaṃ saho mahi śravo nṛmṇaṃ ca rodasī saparyataḥ |*
+
+(Ṛ. Saṃ. 10-50-1 [?]) — in this, "*śravaṇīyaṃ yaśaḥ*" — "that which is heard by all", i.e. fame well known everywhere — is the meaning they have given (Ni. 11-9 [?]). Since food is the cause of fame for givers, it may also be taken to mean food that brings fame. On this basis —
+
+> बृहत्या श्रीकामो यशस्कामः कुर्वीत । श्रीर्वै यशश्छन्दसां बृहती । श्रियमेव यश आत्मन्धत्ते ॥
+
+> *bṛhatyā śrīkāmo yaśaskāmaḥ kurvīta | śrīr vai yaśaś chandasāṃ bṛhatī | śriyam eva yaśa ātman dhatte ‖*
+
+(Ai. Brā. 1-5 [?]).
+
+---
+
+**Progress note:** printed p. 430 (PDF 450) done — Sūkta 177 Ṛk 1 Special Topics (carṣaṇi, kṛṣṭi, śravas; continues p. 431). Next: printed p. 431 (PDF 451). Open flags: Ṛg/Nirukta/Ai.Brā. refs [?]; Keith quote reproduced as printed; review/doubts_v13.json.
