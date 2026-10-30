@@ -3230,4 +3230,48 @@ In this ṛk the word *ghṛtena* is given the sense "by water". "*ghṛtam ity 
 
 ---
 
-**Progress note:** printed p. 144 (PDF 164) done — Sūkta 168 Ṛk 9 complete; Ṛk 10 (last of Sūkta 168): Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (breaks off at the bracketed māndāryasya… entry). Next: printed p. 145 (PDF 165). Open flags: small-type numerals [?]; Ṛk 10 bhāṣya opening word 'pañcadaśyāṃ' [?]; review/doubts_v13.json.
+### Printed p. 145  (PDF 165)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; a signature mark "XIII 10" is printed at the foot.)*
+
+*(Pratipadārtha of Ṛk 10, continued)* — *iṣā* — by the wish; *tanve* — for the increase of (your) body; *ā yāsīṣṭa* — (may the praise) go, having you as its object; *vayām* — we; *iṣam* — food too; *vṛjanam* — strength too; *jīradānum* — long life too; *vidyāma* — may we obtain.
+
+**Bhāvārtha.** O Marut-gods, may this praise of ours, the praise-composers who satisfy you with praises and are worthy of worship, be delightful to you; by our wish, may this praise be a cause of the increase of your body; and may we too be favoured with food, strength and long life.
+
+**English Translation (as printed):** This praise, Maruts, is for you: this hymn is for you, (the work) of a venerable author, capable of conferring delight (by his laudations): may the praise reach you for (the good of your) persons, so that we may thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***māndāryasya mānyasya*** — in explaining the component parts of these words, Sāyaṇa takes *māndārya* to mean "one who produces delight" and *mānya* to mean "worthy of worship"; both are epithets of Agastya. Both are also used as *aṅkita-nāma* (signature names). In telling of Agastya's birth, the Bṛhaddevatā says:
+
+> मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुम्भादृषिर्जातः कुम्भेनापि मिमायते ॥
+
+> *mānena saṃmito yasmāt tasmān mānya ihocyate | yadvā kumbhād ṛṣir jātaḥ kumbhenāpi mimāyate ‖*
+
+(Bṛ. Dev. 5-153 [?]) — it is explained that the name *mānya* is well known for Agastya either because he is worthy of worship, or because he is born from a pot (*kumbha*) that gives the measure (*māna*), that is, born from the pot as a measure. In the same order the words *māndāryasya mānyasya kāroḥ* occur also in the last ṛks of the Sūktas 165, 166 and 167 [numerals as read].
+
+***stomaḥ, gīḥ*** — these are two words for praise, which indicate different kinds of praise. The matter of the greatness of *stoma* is explained in detail in the Ṛgveda Saṃhitā, Part 11, pp. 50–52.
+
+### Printed p. 146  (PDF 166)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *iṣā* (the accent of the third and following case-endings by "*sāvekācastṛtīyādiḥ*", Pā. Sū. 6-1-168 [?]); *yāsīṣṭa* (root *yā prāpaṇe*; *ātmanepada* by "*vyatyayo bahulam*", Pā. Sū. 3-1-85 [?]; *liṅ* 3rd person singular, affix *ta*; the augment *sīyuṭ* by "*liṅaḥ sīyuṭ*" (Pā. Sū. 3-4-102 [?]); *suṭ* by "*suṭ tiṅoḥ*" (Pā. Sū. 3-4-107 [?]); loss of *y*; the singular arises by *vyatyaya*; *nighāta* accent); *vidyāma* (root *vidḷ lābhe*; as read, *liṭ*, 1st person plural; since it stands at the beginning of a *pāda* there is no *nighāta*; because *yāsuṭ* is acute, the *ā* becomes acute); *vṛjanam* (root *vṛjī varjane*; affix *kyu* by an Uṇādi sūtra (cited); because it is *kit* there is no *guṇa*; *ana* for *yu* by "*yuvoranākau*", Pā. Sū. 7-1-1 [?]; first syllable acute by the affix); *jīradānum* (in the *bahuvrīhi* the first member keeps its accent).
+
+*(ornamental rule)*
+
+## Sūkta 169 — *mahaścittvam* (Anuvāka 23, fifth Sūkta; 8 ṛks)
+
+*(Heading, p. 146: "The hundred and sixty-ninth Sūkta" — ನೂರ ಅರವತ್ತೊಂಭತ್ತನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> महश्चित्त्वमित्यष्टर्चं पञ्चमं सूक्तमैन्द्रमागस्त्यं त्रैष्टुभम् । द्वितीया चतुष्पदा विराट् । अथ चतुष्पदा विराड्दशकैरित्युक्तत्वात् विराजो दिशः । पिं. ३-५ [?] । इति पिङ्गलनागेन सूत्रितत्वाच्च । महोऽष्टौ द्वितीया विराडित्यनुक्रमणिका ॥ समूळ्हे दशरात्रे द्वितीयेऽहनि मरुत्वतीये इदं विश्वजिकोऽग्निं नर इति खण्डे सूत्रितम् । द्वितीयस्य शंसा महाँ महश्चित्त्वमिन्द्र । आ. ८-६ [?] । इति ॥
+
+*Gist:* The fifth sūkta (*mahaścit tvam*), of eight ṛks, by Agastya, to Indra, in triṣṭubh; the second ṛk is a four-pāda *virāṭ*; used in the Samūḍha ten-day rite on the second day, in the Marutvatīya litany.
+
+**Anuvāda (Kannada).** This Sūkta beginning *mahaścittvam* is the fifth Sūkta in the twenty-third anuvāka. It has eight ṛks. Agastya is the ṛṣi of this Sūkta; Indra is the deity; the metre is Triṣṭubh. *Virāṭ daśakaiḥ* — since Piṅgalanāga, in the Chandonukramaṇikā, has said that a ṛk of four pādas of ten syllables is called *virāṭ* metre (Piṅ. 3-5 [?]), the second ṛk is of the *virāṭ* metre. In the Anukramaṇikā, too, it is said "*maho'ṣṭau dvitīyā virāṭ*". In the sacrifice called *samūḍha*, to be performed over ten days, its use in the Marutvatīya-śastra mantras at the time of the recitation of the mantras of the second metre on the second day is stated by the Āśvalāyana Śrauta-sūtra, in the section beginning *viśvajiko'gniṃ nara*, by the sūtra "*dvitīyasya śaṃsā mahāṃ mahaścittvam indra*" (Āś. 8-6 [?]).
+
+---
+
+**Progress note:** printed p. 146 (PDF 166) done — Sūkta 168 complete (10 ṛks, pp. 112–146); Sūkta 169 (8 ṛks) heading written. Next: printed p. 147 (PDF 167): Sūkta 169 heading block and Ṛk 1. Open flags: small-type numerals [?]; Sūkta 168 print oddities noted in text; review/doubts_v13.json.
