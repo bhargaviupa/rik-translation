@@ -11167,4 +11167,64 @@ Soma, you protect him in whose prayers, doubly devout, there is the combination 
 
 ---
 
-**Progress note:** printed p. 416 (PDF 436) done — Sūkta 176 Ṛk 5 Pratipadārtha, Bhāvārtha, printed English, Special Topics (dvibarhas, arka; continues p. 417). Next: printed p. 417 (PDF 437). Open flags: Ṛg/Nirukta/Ai. Ā. refs [?]; review/doubts_v13.json.
+### Printed p. 417  (PDF 437)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 27" at foot.)*
+
+Quoting this sentence, together with the ṛk
+
+> इन्द्रमिद्गाथिनो बृहदिन्द्रमर्केभिरर्किणः ।
+
+> *indram id gāthino bṛhad indram arkebhir arkiṇaḥ |*
+
+(Ṛ. Saṃ. 1-7-1 [?]) — the following nine [?] ṛks that begin from this ṛk are *arka* mantras; they are the mantras that constitute the head (*śiras*) and are of the nature of the Self (*ātmaka*); and since these mantras are in the form of Gāyatrī, which is the chief principle, all the *arka* mantras are said to occupy the chief place among the mantras: so it explains. In the Bṛhadāraṇyaka Upaniṣad, in explaining the derivation of the word *arka* —
+
+> सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वं कं ह वा अस्मै भवति य एवमेतदर्कस्यार्कत्वं वेद ।
+
+> *so 'rcann acarat tasyārcata āpo 'jāyantārcate vai me kam abhūd iti tad evārkasyārkatvaṃ kaṃ ha vā asmai bhavati ya evam etad arkasyārkatvaṃ veda |*
+
+(Bṛ. Up. 1-2-1 [?]). Death (*mṛtyu*), worshipping, wandering in search of a body, brought forth water; hence the name *arka* became well known for water. For this very reason —
+
+> आपो वा अर्कः तद्यदपां शर आसीत्तत्समहन्यत ।
+
+> *āpo vā arkaḥ tad yad apāṃ śara āsīt tat samahanyata |*
+
+(Bṛ. Up. 1-2-2 [?]) — and so on, it is described. Here *arka* reflects the secret truths of the universe. The greatness of *arka*, which establishes the Prajāpati principle, and the account of its nature, are described in the Śatapatha Brāhmaṇa in the context of Āruṇi's instruction, in this way —
+
+> श्वेतकेतुर्हारुणेयः यक्ष्यमाणा आस तं ह पिता उवाच कानृत्विजोऽवृथा इति स होवाचायं न्वेव मे वैश्वानसव्यो होतेति तं ह पप्रच्छ वेत्थ ब्राह्मण वैश्वानसव्य ॥
+
+> *śvetaketur hāruṇeyaḥ yakṣyamāṇā āsa taṃ ha pitā uvāca kān ṛtvijo 'vṛthā iti sa hovācāyaṃ nv eva me vaiśvānasavyo hoteti taṃ ha papraccha vettha brāhmaṇa vaiśvānasavya ‖* [as read: [?]]
+
+(Śa. Brā. 10-3-4-1 [?]). Śvetaketu Āruṇeya, the son of Uddālaka Āruṇi, was about to perform a sacrifice. His father asked him which priests he had chosen for the sacrificial rites; Śvetaketu said, "This Vaiśvānasavya is my *hotṛ*." Then the father asked Vaiśvānasavya —
+
+> चत्वारि महान्तीति । वेद भोः इति होवाच ……………… वेत्थ चत्वारि क्यानीति वेद भोः इति होवाच वेत्थ चत्वारि क्यानां क्यानीति वेद भोः इति होवाच वेत्थ चत्वारि अर्काणीति वेद भोः इति होवाच वेत्थ चतुरोऽर्काणामर्कानिति वेद भोः इति होवाच ॥
+
+> *catvāri mahāntīti | veda bhoḥ iti hovāca ……………… vettha catvāri kyānīti veda bhoḥ iti hovāca vettha catvāri kyānāṃ kyānīti veda bhoḥ iti hovāca vettha catvāri arkāṇīti veda bhoḥ iti hovāca vettha caturo 'rkāṇām arkān iti veda bhoḥ iti hovāca ‖* [as read; dots in the print; *kyāni* doubtful: [?]]
+
+(Śa. Brā. 10-3-4-2 [?]). "Do you know the four great (truths)?" — "I know, sir." … "Do you know the four *ka*-things?" [*ka* = Prajāpati: as the Kannada explains "the truth connected with *Ka* (Prajāpati)"; the reading *kyāni* is doubtful: [?]] — "I know, sir." "Do you know the four *arkas*?" … The father asked whether he knew the four most secret truths of that kind, the nature of the four universal lights, and whether he had reflected on the truth that is the light of lights —
+
+### Printed p. 418  (PDF 438)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+— and Śvetaketu said that he knew all that. Again the father asked —
+
+> वेत्थार्कमिति । अथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्कपर्णे इत्यथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्कपुष्पे इत्यथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्ककोश्यावित्यथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्कसमुद्गावित्यथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्कधाना इत्यथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्काष्ठीलामित्यथ वै नो भवान्स्पृक्ष्यतीति वेत्थार्कमूलमित्यथ वै नो भवान्स्पृक्ष्यतीति ॥
+
+> *vettha arkam iti | atha vai no bhavān spṛkṣyatīti vettha arkaparṇe ity atha vai no bhavān spṛkṣyatīti vettha arkapuṣpe ity atha vai no bhavān spṛkṣyatīti vettha arkakośyāv ity atha vai no bhavān spṛkṣyatīti vettha arkasamudgāv ity atha vai no bhavān spṛkṣyatīti vettha arkadhānā ity atha vai no bhavān spṛkṣyatīti vettha arkāṣṭhīlām ity atha vai no bhavān spṛkṣyatīti vettha arkamūlam ity atha vai no bhavān spṛkṣyatīti ‖* [as read; repetitive formula, doubtful in places: [?]]
+
+(Śa. Brā. 10-3-4-3 [?]). "Do you know the *arka*?" … "Do you know the *arka* leaves, the *arka* flowers, the two *arka* pods, the two *arka* caskets, the *arka* grains, the *arka* stem (?), the *arka* root?" Asked whether he knew the nature of the *arka*, of the *arka* leaves, and of the *arka* flowers; of the *arka* pods and of the *arka* grains; whether he knew the root of the *arka*, he replied that he did not know them all, and asked his father to explain them. Then the father, explaining the *arka*, told its secret meaning also:
+
+> अथ ह वै यत्तदुवाच । वेत्थार्कमिति पुरुषं हैव तदुवाच । वेत्थार्कपर्णे इति कर्णौ हैव तदुवाच वेत्थार्कपुष्पे इत्यक्षिणी हैव तदुवाच वेत्थार्ककोश्याविति नासिके हैव तदुवाच वेत्थार्कसमुद्गाविति ओष्ठौ हैव तदुवाच वेत्थार्कधाना इति दन्तान् हैव तदुवाच वेत्थार्काष्ठीलामिति जिह्वां हैव तदुवाच वेत्थार्कमूलमित्यन्नं हैव तदुवाच स एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्ते [अयमहमग्निरर्कोऽस्मीति] विद्ययैवास्यैष आत्मन्नग्निरर्कश्चितो भवति ॥
+
+> *atha ha vai yat tad uvāca | vettha arkam iti puruṣaṃ haiva tad uvāca | vettha arkaparṇe iti karṇau haiva tad uvāca vettha arkapuṣpe ity akṣiṇī haiva tad uvāca vettha arkakośyāv iti nāsike haiva tad uvāca vettha arkasamudgāv iti oṣṭhau haiva tad uvāca vettha arkadhānā iti dantān haiva tad uvāca vettha arkāṣṭhīlām iti jihvāṃ haiva tad uvāca vettha arkamūlam ity annaṃ haiva tad uvāca sa eṣo 'gnir arko yat puruṣaḥ sa yo haitam evam agnim arkaṃ puruṣam upāste [ayam aham agnir arko 'smīti] vidyayaivāsyaiṣa ātmann agnir arkaś cito bhavati ‖* [as read; bracketed words doubtful: [?]]
+
+(Śa. Brā. 10-3-4-5 [?]). *Arka* means man: the *arka* leaves are the ears of man; the *arka* flowers, the eyes; the *arka* pods, the nostrils; the *arka* caskets, the lips; the *arka* grains, the teeth; the *arka* … , the tongue; the *arka* root, food. This man who is taught by the *arka* is the sacrificial fire: so, for one who knows the identity of this *arka* and man, the sacrificial fire becomes visible directly in the sacrificial altar. Thus the secret meaning of the word *arka* is explained. And, explaining again that this *arka* is the Parabrahman in the form of the Imperishable (*akṣara*) —
+
+> तद्धैतत्पश्यन्नृषिरभ्यनूवाद । भूतं भविष्यत्प्र स्तौमि । महद्ब्रह्मैकमक्षरं बहु ब्रह्मैकमक्षरमित्येतद्वा अक्षरं सर्वे देवाः सर्वाणि भूतान्यभि …
+
+> *tad dhaitat paśyann ṛṣir abhyanūvāda | bhūtaṃ bhaviṣyat pra staumi | mahad brahmaikam akṣaraṃ bahu brahmaikam akṣaram ity etad vā akṣaraṃ sarve devāḥ sarvāṇi bhūtāny abhi …* [continues on p. 419]
+
+---
+
+**Progress note:** printed p. 418 (PDF 438) done — Sūkta 176 Ṛk 5 Special Topics (arka; Śatapatha Śvetaketu passage continues p. 419). Next: printed p. 419 (PDF 439). Open flags: long Bṛ.Up./Śa.Brā. quotations read approx [?]; refs [?]; review/doubts_v13.json.
