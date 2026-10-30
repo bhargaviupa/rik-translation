@@ -3632,4 +3632,44 @@ In the second, "*yāḥ stutayaḥ tvā neva akāmayanta*" — the praises recit
 
 ---
 
-**Progress note:** printed p. 162 (PDF 182) done — Sūkta 169 Ṛk 4 complete; Ṛk 5 Saṃhitā and Pada written. Next: printed p. 163 (PDF 183): bhāṣya of Ṛk 5. Open flags: small-type numerals [?]; Ṛk 5 Pada 'gātuyanti-iva' [?]; review/doubts_v13.json.
+### Printed p. 163  (PDF 183)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वे तव रायो धनविशेषाः तोशतमाः । अतिशयेन प्रीणयितारः ॥ तुष्यतेस्तोशः । छान्दसं शत्त्वम् ॥ यद्वा । ते रायो रातयो बन्धवो बन्धुभूताः सखिभूताः मरुतः तोशतमाः । तोशतिर्वधकर्मा निर्तोशयति निबर्हयतीति तन्नामसु पाठात् । तोशतमा हिंसितृतमाः अवर्षकाणां मेघानाम् । कस्य चिदृतायोः । ऋतमिति यज्ञनाम । कस्यापि यज्ञेच्छोर्यजमानस्य प्रकर्षेण निर्वोढारः । ते मरुतो नोऽस्मान् सुष्ठु मृळयन्तु । के ते । ये स्म ये खलु देवा द्योतनशीला मरुतः पुरा पूर्वं गातुयन्तीव । यज्ञगमनमिच्छन्तीव । ते आगत्य मृळयन्तु ॥
+
+*Gist:* Indra's riches are most gladdening; or the Maruts, his kin, destroy the rainless clouds and carry through the sacrifice of anyone who wishes to sacrifice; may they, who once eagerly went to the sacrifice, make us happy.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *tve* — your; *rāyaḥ* — special wealths; *tośatamāḥ* — causing the greatest delight (exceeding satisfaction); [*or* *tve* — your; *rāyaḥ* — relatives (Marut-gods); *tośatamāḥ* — (of clouds that do not shower rain) those who especially destroy (the Marut-gods)]; *kasyacit ṛtāyoḥ* — of any one who wishes to sacrifice; *praṇetāraḥ* — those who carry the sacrifice through to its end; *ye* — which; *devāḥ sma* — Marut-gods; *purā* — before; *gātūyanti iva* — like those who wish to go to the sacrifice; *te* — those; *marutaḥ* — Marut-gods; *naḥ* — to us; *su mṛḷayantu* — may they bestow great happiness.
+
+**Bhāvārtha.** O Indra, your wealth is the cause of happiness (or your relatives the Marut-gods especially destroy the non-shedding clouds); for all who desire to perform a sacrifice, they become (favourably) the carriers-through of the work; those who have first desired to come to the sacrifice — may such Marut-gods make us happy.
+
+**English Translation (as printed):** Your riches, Indra, are most delighting; the exciters of any one desirous to sacrifice: may those Maruts be propitious to us; the divine beings who were anxious to go first to the ceremony.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***tve rāyaḥ tośatamāḥ*** — *tava dhanaviśeṣāḥ atiśayena prīṇayitāraḥ*: Indra is addressed, and the wealth bestowed by Indra produces abundant delight: this is one kind of meaning.
+
+### Printed p. 164  (PDF 184)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+In the second meaning: "*tośatirvadhakarmā nitośayati nibarhayatīti*" (Ni. 2-[?]); since *tośate* is read among the names of killing, the word *tośatamāḥ* is explained as "*hiṃsitṛtamāḥ avarṣakāṇāṃ meghānām*" — those who destroy exceedingly the clouds that do not shed rain; and "*te rāyo rātayo bandhavo bandhubhūtāḥ sakhibhūtāḥ marutaḥ tośatamāḥ*" — the Marut-gods, who are Indra's relatives and friends and givers, destroy the clouds that do not give rain.
+
+***kasya cid ṛtāyoḥ praṇetāraḥ*** — *ṛtam iti yajñanāma | kasyāpi yajñecchor yajamānasya prakarṣeṇa nirvoḍhāraḥ*: the word *ṛta*, which conveys the meanings "water", "a particular time", "truth" and "sacrifice", is used here in the sense of sacrifice. And the word *ṛtāyu* is used, in the ṛk
+
+> मा नोऽहिर्बुध्न्यो रिषे धान्मा यज्ञो अस्य स्रिधदृतायोः ।
+
+> *mā no'hir budhnyo riṣe dhān mā yajño asya sridhad ṛtāyoḥ |*
+
+(Ṛ. Saṃ. 7-34-17 [?]), in the sense of "*yajñakāmasya*", "one who desires to perform a sacrifice". It is explained that the Marut-gods, whoever the person may be who wishes to perform a sacrifice, carry through his wish.
+
+***ye devāḥ purā gātuyantīva te naḥ mṛḷayantu*** — *dyotanaśīlāḥ yajñagamanam icchantīva marutaḥ asmān mṛḷayantu*: the gods who come to a sacrifice, the Marut-gods who shine, as those who go to the sacrifice before anyone else, may keep us, sacrificers, in great happiness; thus the prayer.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *tośatamāḥ* (root *tuṣa prītau*; affix *ac* by "*nandigrahipacādibhyaḥ*", Pā. Sū. 3-1-134 [?]; *guṇa* by "*pugantalaghūpadhasya ca*"; in the Veda *ṣ* is replaced by *ś*; *atiśayena tośāḥ tośatamāḥ*; the affix *tamap* in the sense of excess; being *p*-marked it is unaccented; in the second meaning the root is *tuśa* in the sense of killing; the process is as before); *praṇetāraḥ* (root *ṇīñ prāpaṇe*; *tṛc* in the agent sense; *guṇa* of the root's *ī* on that occasion; accent on the last syllable because it is *c*-marked; in a *prādi* compound the latter member keeps its accent as a *kṛdutarapada*).
+
+---
+
+**Progress note:** printed p. 164 (PDF 184) done — Sūkta 169 Ṛk 5 through first grammar notes (continues p. 165). Next: printed p. 165 (PDF 185). Open flags: small-type numerals [?]; review/doubts_v13.json.
