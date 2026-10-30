@@ -6703,4 +6703,52 @@ Indra is *pratīcaś cit yodhīyān* — "the most excellent among the warriors 
 
 ---
 
-**Progress note:** printed p. 270 (PDF 290) done — Sūkta 173 Ṛk 5 complete; Ṛk 6: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 271). Next: printed p. 271 (PDF 291). Open flags: Ṛk 6 Pada 'bhūma' [?]; bhāṣya doubtful; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 271  (PDF 291)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+*(Pratipadārtha concluded)* …this Indra); *svadhāvān* — rich in food (in the form of rain-water); *opaśam iva* — as a bull bears its horn, or like the earth and atmosphere, which lie near each other; *bharti* — bears (he is the support).
+
+**Bhāvārtha**
+
+Indra, the protector of the sacrificers who carry out the rites, of great glory, has overspread the regions of earth and atmosphere; as the sky covers the earth, so he covers the three worlds with his splendour; and, endowed with food (in the form of rain-water), as he is the support of earth and atmosphere, so he is the support of heaven too.
+
+**Printed English**
+
+Heaven and earth are insufficient for the girth of that Indra, who, with his greatness, rules over the leaders (of sacrifice): as the atmosphere encompasses the earth, so he encompasses (the three worlds), and, being the master of the rain, he upholds the sky as well as the firmament and the earth.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***mahinā nṛbhyaḥ pra asti — mahattvena svaiśvaryeṇa netṛbhyaḥ karmanirvāhakebhyaḥ yajamānebhyaḥ prabhavati*** — By the power of his greatness, filled with majesty, Indra is worshipped by the sacrificers who carry out the sacrificial rites: so the meaning is given. The word *nṛ* is read among the names of horses (Ni. 1-... [?]) and among the names of men (Ni. 3-... [?]); here it is used in the sense of the sacrificers who perform the rites.
+
+***itthā*** — the word is read among the *satya* names ("truth"): *bṭ, śrat* and so on (Ni. 3-10 [?]). Showing the explanation of the word *itthā*, the Nirukta says: "*itthā amutheti etena vyākhyātam*" (Ni. 5-5 [?]) — "*itthā* is explained by the word *amuthā*", as said; "*amuthā yathāsāv iti vyākhyātam*" (Ni. 3-16 [?]) — *amuthā* is used both in the sense of "truly" and in the sense of "in that manner". Likewise the use of the word *itthā* is to be understood; so —
+
+> त्यं चिदित्था कत्पयं शयानमसूर्ये तमसि वावृधानम् ।
+
+> *tyaṃ cid itthā katpayaṃ śayānam asūrye tamasi vāvṛdhānam |* [as read: [?]]
+
+(Ṛ. Saṃ. 5-32-2 [?])
+
+### Printed p. 272  (PDF 292)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+— quoting this ṛk, the Nirukta (Ni. 6-3 [?]) shows that the word *itthā* means "truly". Durgācārya explains it as "in this manner" (*amunā prakāreṇa*) and Sāyaṇa as "*amuṣminn antarikṣaloke*", "in that atmospheric world"; in the ṛk at hand it is used in the sense of "truly".
+
+***kakṣye — kakṣyā rajjuḥ raśmasya — kakṣaṃ sevate*** — "*kakṣyā* (girth) — the rope, of the horse's *raśmi*; it serves the *kakṣa*; *kakṣo gāhateḥ, kasa iti nāmakaraṇaḥ | khyāter vārthakyo 'bhyāsaḥ | kim asmin khyānam iti | kaṣater vā | tatsamānāny aṅgāni manuṣyasya kakṣo bāhumūlasāmānyāt*" [as read; garbled: [?]] (Ni. 2-… [?]). The band tied around the belly of the horse is called *kakṣyā*. The word *kakṣyā* may be formed with the suffix *ṣya* [?] added to the root *gāh* used in the sense of "entering within"; or from the reduplicated form of the root *khyā*; or its source may be the root *kaṣ* with the sense of *ujjh* (rubbing); hence the armpit (*kakṣa*) of a man is well known by the name; that is, it may be taken to mean "heaven and earth, which resemble the armpit in their interval".
+
+Besides, the Nirukta-writers read the word *kakṣyā* among the names of "fingers" (Ni. 3-... [?]) and for the use of this word, in
+
+> दशावनिभ्यो दशकक्ष्येभ्यो दशयोक्त्रेभ्यो दशयोजनेभ्यः । दशाभीशुभ्यो अर्चताजरेभ्यो दश धुरो दश युक्ता वहद्भ्यः ॥
+
+> *daśāvanibhyo daśakakṣyebhyo daśayoktrebhyo daśayojanebhyaḥ | daśābhīśubhyo arcatājarebhyo daśa dhuro daśa yuktā vahadbhyaḥ ‖*
+
+(Ṛ. Saṃ. 10-94-7 [?]) the meaning given here for the word *kakṣyā* is "fingers". In the ṛk at hand it means the interval between heaven and earth.
+
+***asmai rodasī kakṣye nālam*** — the word *rodasī* is read among the names of heaven and earth (Ni. 3-... [?]). The meaning is given that heaven and earth, though they are travelling in their own paths, are not enough for the movements of Indra, who protects the sacrificers performing the rites; and, "*jagato 'dhīśasya indrasya saṃcārāya alpatvāt dyāvāpṛthivyau na paryāpte | sṛṣṭyāder api sraṣṭur mahimno 'dhikatvāt*": since the greatness of the maker of creation is greater than the greatness of the thing created, Indra, who is lord of the world, finds the space in heaven and earth insufficient to move about in. By this it is indicated that the greatness of heaven and earth is less than that of Indra.
+
+***araṃ — alam | paryāpte ity arthaḥ*** — "enough": the sense is that it be enough to give satisfaction. As it gives the sense of "sufficient", this word is used also in the senses "prepare, serve".
+
+---
+
+**Progress note:** printed p. 272 (PDF 292) done — Sūkta 173 Ṛk 6 Special Topics (aram; continues p. 273). Next: printed p. 273 (PDF 293). Open flags: Nirukta kakṣyā quotation garbled [?]; Ṛg/Nirukta ref numerals [?]; review/doubts_v13.json.
