@@ -11301,4 +11301,64 @@ The breath is *arka*; the *ka*-principle is its food; the harmony of the two is 
 
 ---
 
-**Progress note:** printed p. 420 (PDF 440) done — Sūkta 176 Ṛk 5 complete; Ṛk 6 (last of Sūkta 176): Saṃhitā, Pada, bhāṣya begun (continues p. 421). Next: printed p. 421 (PDF 441). Open flags: Śa.Brā. arka passages with dots [?]; Nirukta/Śa. refs [?]; review/doubts_v13.json.
+### Printed p. 421  (PDF 441)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā". This ṛk and its commentary repeat, word for word, Sūkta 175 Ṛk 6 (pp. 389–394 above).)*
+
+*(Sāyaṇa-bhāṣya concluded)*
+
+> … भव । तत्र दृष्टान्तः । तृष्यते आपो न तृषार्तस्योदकानि यथा सुखकराणीति तद्वत् । तस्मात्तां निविदं स्वप्रसिद्धां स्तुतिं त्वा तुभ्यमनु जोहवीमि । पुनः पुनः करोमि । यद्वा । तां निविदमनु ॥ तृतीयार्थे । पा. १-४-८५ । इत्यनोः कर्मप्रवचनीयत्वम् ॥ तया स्तुत्या त्वां जोहवीमि । पुनः पुनराह्वयामि । विद्यामेति व्याख्यातम् ॥
+
+> *… bhava | tatra dṛṣṭāntaḥ | tṛṣyate āpo na tṛṣārtasyodakāni yathā sukhakarāṇīti tadvat | tasmāt tāṃ nividaṃ svaprasiddhāṃ stutiṃ tvā tubhyam anu johavīmi | punaḥ punaḥ karomi | yadvā | tāṃ nividam anu ‖ tṛtīyārthe | pā. 1-4-85 | ity anoḥ karmapravacanīyatvam ‖ tayā stutyā tvāṃ johavīmi | punaḥ punar āhvayāmi | vidyāmeti vyākhyātam ‖*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *pūrvebhyaḥ jaritṛbhyaḥ* — to the ancient praisers; *tṛṣyate* — to the thirsty; *āpaḥ na* — as waters are the cause of satisfaction; *mayaḥ iva* — as of the nature of happiness; *yathā* — as; *babhūtha* — you were; (*tathā* — so, to us also be of happy nature); (therefore) *tām* — that well-known; *nividam anu* — following the (your) praise; *tvā* — you; *johavīmi* — I invoke again and again; *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain (by your grace).
+
+**Bhāvārtha**
+
+O Indra, as you were happiness-giving to the ancient praisers, as waters give satisfaction to the thirsty, so be to us also happiness-giving; I praise you again and again with those well-known words of praise; bestow on us food, strength and long life.
+
+**Printed English**
+
+Inasmuch, Indra, as you have been the (giver of) happiness to your ancient encomiasts, like water to one who is thirsty, therefore I constantly repeat this your praise, that I may thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Describing the delight that Indra gives to the praisers, and likening the satisfaction arising from that delight to the satisfaction obtained by the thirsty from drinking water, the sage-seer of this sūkta also resolves to praise, with *nivid* mantras, the Indra who gives such satisfaction, as the earlier praisers praised him.
+
+***nividaṃ johavīmi — nivid*** mantras: the resolve "I offer *nivid* mantras" is made. Earlier, in describing the special matters of Ṛ. Saṃ. 1-96-2 [?], by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras indicated there was explained (Ṛgvedasaṃhitā, Part 8 [?], pp. 74–76); but that mantra being addressed to Agni, and the *nivid* mantras specified there being Agni's,
+
+### Printed p. 422  (PDF 442)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+only the mantras whose deity is Agni were described in that context. In the ṛk at hand, as it is addressed to Indra, the influence and the applications of the *nivid* mantras are described in the manner suited to this context.
+
+Mantras which describe the extraordinary qualities of a deity, or of a group of deities, and invoke them, are well known by the name *nivid* mantras. The Bṛhaddevatā, pointing out this very fact —
+
+> कर्मैव तावत्सावित्र्यां निविदि स्तौति कर्मणा । यद्धेनुः सप्त्यै नड्वाहौ वोळ्हा दोग्ध्र्याशुरेव वा ॥
+
+> *karmaiva tāvat sāvitryāṃ nividi stauti karmaṇā | yad dhenuḥ saptyai naḍvāhau voḷhā dogdhry āśur eva vā ‖* [as read: [?]]
+
+(Bṛhaddevatā 3-30 [?]) — from *dogdhrī* ("milking") the cow is meant; from *āśu* ("swift") the horse; from *voḷhā* ("carrying the load") the ox: so their special qualities are to be known by these epithets; and in the same way, by the *nivid* mantras the individual qualities of the respective deities are to be understood through the description of their respective acts. For example,
+
+> अभि त्वा देव सवितरीशानं वार्याणाम् । सदावन्भागमीमहे ॥
+
+> *abhi tvā deva savitar īśānaṃ vāryāṇām | sadāvan bhāgam īmahe ‖*
+
+(Ṛ. Saṃ. 1-24-3 [?]) — in this ṛk, the *nivid* mantra addressed to the deity Savitṛ shows the speciality of Savitṛ by describing his extraordinary acts. The greatness of the *nivid* mantras, and the relation of cause and effect that exists between the creation of the world and those great mantras, is stated in the Aitareya Brāhmaṇa in this way:
+
+> प्रजापतिर्वा इदमेक एवाग्र आस सोऽकामयत प्रजायेय भूयान्स्यामिति स तपोऽतप्यत स वाचमयच्छत्संवत्सरस्य परस्ताद्द्वाऽहरत्तद्द्वादशकृत्वो द्वादशपदा वा एषा निविदेतां वाव तां निविदं व्याहरत्तां सर्वाणि भूतान्यसृज्यन्त ।
+
+> *prajāpatir vā idam eka evāgra āsa so 'kāmayata prajāyeya bhūyān syām iti sa tapo 'tapyata sa vācam ayacchat saṃvatsarasya parastād dvā 'harat tad dvādaśakṛtvo dvādaśapadā vā eṣā nivid etāṃ vāva tāṃ nividaṃ vyāharat tāṃ sarvāṇi bhūtāny asṛjyanta |* [as read: [?]]
+
+(Ai. Brā. 10-1 [?]). In the beginning Prajāpati was alone; he desired to create progeny and to become many, and, for a year, observing silence, he practised austerity. Afterwards, he uttered the *nivid* mantras of twelve great sentences twelve times; by this all beings in the world were created: thus the effect of these mantras is made known; and the speciality of these mantras at the time of the rites, and the order of their application, is explained thus —
+
+> गर्भा वा एते उक्थानां यन्निविदस्तद्यत्प्रातःसवने धीयन्ते तस्मात्पराञ्चो गर्भा धीयन्ते पराञ्चः संभवति । यन्मध्यतो मध्यंदिने …
+
+> *garbhā vā ete ukthānāṃ yan nividas tad yat prātaḥsavane dhīyante tasmāt parāñco garbhā dhīyante parāñcaḥ saṃbhavati | yan madhyato madhyaṃdine …* [continues on p. 423]
+
+---
+
+**Progress note:** printed p. 422 (PDF 442) done — Sūkta 176 Ṛk 6 (repeat of Sūkta 175 Ṛk 6 text): Pratipadārtha, Bhāvārtha, printed English, Special Topics (nivid; Ai. Brā. passage continues p. 423). Next: printed p. 423 (PDF 443). Open flags: Ṛg/Ai.Brā./Bṛ.De. refs [?]; review/doubts_v13.json.

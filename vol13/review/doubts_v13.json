@@ -3994,5 +3994,29 @@
   ],
   "note": "grammar sutra/Unadi numerals small; 'anidtam hala' sutra name as read",
   "answer": ""
+ },
+ {
+  "pdf": 441,
+  "printed": 421,
+  "crop": [
+   0.05,
+   0.12,
+   0.05,
+   0.95
+  ],
+  "note": "Panini 1-4-85 digits read again (matches p.389 note); Rik 6 text repeats Sukta 175 rik 6",
+  "answer": ""
+ },
+ {
+  "pdf": 442,
+  "printed": 422,
+  "crop": [
+   0.15,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Bṛ.De 3-30?, Rg 1-24-3, Ait.Br 10-1 refs small; quotes approx (same as pp.391-392)",
+  "answer": ""
  }
 ]
