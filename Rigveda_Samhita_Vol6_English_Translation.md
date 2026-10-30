@@ -14462,7 +14462,7 @@ The name of this ṛṣi occurs in the Ṛgveda Saṃhitā at 1-80-16; 1-84-13; 
 
 "Manu told him: 'Go to the place where the Aṅgirasa ṛṣis are performing a sacrifice and teach them some mantras; they will give you wealth as you wish.' This story is related in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā. Because the sacrifice performed by this Manu is famous, the matter of Manu's sacrifice is also mentioned there in the Ṛgveda. The matter of this Manu is stated, besides the Ṛgveda, in the Atharvaveda (14-2-41 [?]), the Taittirīya Saṃhitā (1-5-1-3 [?]; 2-5-1-3; 3-1-9-4; …), the Kāṭhaka Saṃhitā (…), the Śatapatha Brāhmaṇa (1-1-4-14 [?]), the Jaiminīya Upaniṣad Brāhmaṇa (3-12-1 [?]) and other places." *(All reference numerals in this paragraph are printed in Kannada numerals, and are given as read and uncertain [?].)*
 
-"Because Manu is the son of Vivasvān (Ṛk. Saṃ. 8-[52]-1 [?]), the Sun-god, he is called *Vaivasvata* (Ath. 8-10-24 [?]; Śat. Br. 13-4-3-3 [?]); because he is of the lineage of the woman (*Savarṇā*) he is *Sāvarṇi*; and because he is of the lineage of Saṃvaraṇa he is *Sāṃvaraṇi* (Ṛk. Saṃ. 5-[33]-1 [?]) — he has many names."
+"Because Manu is the son of Vivasvān (Ṛk. Saṃ. 8-52-1 [?]), the Sun-god, he is called *Vaivasvata* (Ath. 8-10-24 [?]; Śat. Br. 13-4-3-3 [?]); because he is of the lineage of the woman (*Savarṇā*) he is *Sāvarṇi*; and because he is of the lineage of Saṃvaraṇa he is *Sāṃvaraṇi* (Ṛk. Saṃ. 8-51-1 [?]) — he has many names."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.16)** *(grammar page, noted briefly; begins here, runs to p. 619)*
 
