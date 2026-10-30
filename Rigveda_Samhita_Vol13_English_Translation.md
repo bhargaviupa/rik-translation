@@ -10818,4 +10818,65 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 ---
 
-**Progress note:** printed p. 406 (PDF 426) done — Sūkta 176 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 407). Next: printed p. 407 (PDF 427). Open flags: Ṛk 3 Pada 'asmadhruk' [?]; Ṛg refs [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 407  (PDF 427)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+*yasya* — of which Indra; *hastayoḥ* — in both hands; *pañca kṣitīnām* — dear to the five classes of beings (gods, men, fathers, animals, birds); *viśvāni* — of all kinds; *vasu* — wealth (is held firmly); (*he indra* — O Indra;) *saḥ* — such you; *yaḥ* — whoever; *asmadhruk* — hostile to us; (*tam* — him); *spāśayasva* — oppress; *divyā* — of the heavenly world; *aśaniḥ iva* — as the thunderbolt; *jahi* — slay (our enemies).
+
+**Bhāvārtha**
+
+The wealth of all kinds, dear to beings of five classes (gods, men, fathers, animals, birds), is in your hands; O Indra, such as you are, oppress whoever hates us; and, as with the heavenly thunderbolt, slay our enemies.
+
+**Printed English**
+
+In whose hands are all the treasures (that are desired by) the five classes of beings: destroy, Indra, him who oppresses us; slay him, (as if you were yourself) the heavenly thunderbolt.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Describing Indra as the lord of all the wealth that causes the growth of all beings, gods, men and the rest, the prayer is made that Indra, endowed with such greatness, may destroy the enemies of the sacrificers.
+
+***yasya hastayoḥ pañca kṣitīnāṃ viśvāni vasu*** — "in whose hands lies all the wealth of the five *kṣitis*": the lordship of Indra is described. Here Sāyaṇa has given two kinds of meaning for *pañcakṣiti*. First,
+
+1. ***devā manuṣyāḥ pitaraḥ paśavaḥ pakṣiṇaś ceti pañca janāḥ*** — gods, men, fathers, animals and birds: five kinds; and second,
+2. ***catvāro varṇā niṣādapañcamāḥ pañca janā ity anye*** — the four *varṇas*, with the Niṣādas as fifth: five groups of people, as others say.
+
+Support for both meanings can be shown from Śruti passages. First, the derivation of the word *kṣiti* should be examined; afterwards, what meaning of *pañcakṣiti* should be taken in this context may be considered.
+
+***kṣitīnām — kṣiyanti nivasanti gacchanti vā kṣitayo manuṣyāḥ*** — "they dwell or they move; hence this epithet of men", Sāyaṇa has explained. The Nirukta-writers read the word *kṣiti* among the twenty-five [?] names of men beginning with *naraḥ* (Ni. 3-7 [?]).
+
+### Printed p. 408  (PDF 428)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+> अग्निर्नेता भग इव क्षितीनां दैवीनां देव ऋतुपा ऋतावा । स वृत्रहा सनयो विश्ववेदाः पर्षद्विश्वाति दुरिता गृणन्तम् ॥
+
+> *agnir netā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā | sa vṛtrahā sanayo viśvavedāḥ parṣad viśvāti duritā gṛṇantam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-20-4 [?]) — in such ṛks, showing the difference between the *kṣitis* belonging to men and those belonging to the deities, the word *kṣiti* indicates the people of the earth, that is, men. But in the ṛk at hand it cannot be said with certainty that only men of the earth are meant, because the lordship of Indra pervades all three: earth, atmosphere and heaven.
+
+> न यस्य देवा देवता न मर्ता आपश्चन शवसो अन्तमापुः । स प्ररिक्वा त्वक्षसा क्ष्मो दिवश्च मरुत्वान्नो भवत्विन्द्र ऊती ॥
+
+> *na yasya devā devatā na martā āpaś cana śavaso antam āpuḥ | sa prarikvā tvakṣasā kṣmo divaś ca marutvān no bhavatv indra ūtī ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-100-15 [?]) — in such ṛks it is described that Indra, being of the nature of deity, with qualities such as bounty, has a power that exceeds that of all others in the world; that neither deities nor men nor even the waters can attain the end of his strength; and that by his power he makes earth and heaven shine together. Since in the ṛk at hand too Indra's lordship is described as all-pervading, the word *pañcakṣitīnām* is not to be taken as meaning only men with the Niṣāda as the fifth of the four castes. In this matter the Nirukta-writers have not stated their own view but only point to the opinions of others.
+
+> पञ्चजनाः "मम होत्रं जुषध्वम्" गन्धर्वाः पितरो देवा असुरा रक्षांसीत्येके । चत्वारो वर्णा निषादः पञ्चम इत्यौपमन्यवः ।
+
+> *pañcajanāḥ "mama hotraṃ juṣadhvam" gandharvāḥ pitaro devā asurā rakṣāṃsīty eke | catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ |* [as read: [?]]
+
+(Ni. 3-8 [?]). Some say that the five groups are the Gandharvas, fathers, gods, *asuras* and Rākṣasas; Aupamanyava and others say that they are the four *varṇas* with the Niṣāda as fifth: thus they state only the opinions of others.
+
+Formerly, when all the deities prayed to Agni to accept, for their sake, the oblations offered in the sacrifice and to distribute them to all, Agni agreed and said —
+
+> तदद्य वाचः प्रथमं मसीय येनासुराँ अभि देवा असाम । ऊर्जादः उत यज्ञियासः पञ्च जना मम होत्रं जुषध्वम् ॥
+
+> *tad adya vācaḥ prathamaṃ masīya yenāsurāṃ abhi devā asāma | ūrjādaḥ uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ‖*
+
+(Ṛ. Saṃ. 10-53-4 [?]). The authors of the Bṛhaddevatā, quoting this sentence, in which the answer was given that "the *pañcajanāḥ* also may enjoy this oblation", have discussed the differences of opinion as to who the *pañcajanāḥ* are.
+
+---
+
+**Progress note:** printed p. 408 (PDF 428) done — Sūkta 176 Ṛk 3 Pratipadārtha, Bhāvārtha, printed English, Special Topics (pañcakṣiti; continues p. 409). Next: printed p. 409 (PDF 429). Open flags: Ṛg/Nirukta refs [?]; some quotes read approx [?]; review/doubts_v13.json.
