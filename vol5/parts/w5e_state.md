@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 681 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678).
-Next page: p. 682 (PDF 698).
+Done through: p. 682 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678).
+Next page: p. 683 (PDF 699; its first 3 refs belong to the file's p. 682 section and are done).
 Open items:
+- p. 682: several refs printed with thin ೭ where file had 2- (7-62-2, 7-66-14, 7-63-2, 7-77-3); one extra 1-ref deleted; last 3 refs of the file's p. 682 section are on print p. 683 (logged under p. 682).
 - p. 680: last ref printed (೪-೩೯-೨; …) = 4-39-2 (file had 7-). p. 681: (೮-೨೨-?) last glyph looks thin ೭, written 8-22-7 (check); (೭-೯೪-೧ರಿಂದ ೪) written 7-94-1 to 4 (barred ೯); Vāj. Saṃ. printed 15-18 (file 25-); 7-71-5 printed (file 2-); (compare 6-44-4) added.
 - p. 678: Kutsa refs printed with the thin ೭ (7-25-5, 7-19-2; file had 2-); (1-175-4) moved to its printed place. p. 679: Nir. printed (೨-೨೦) = 2-20 (file had 3-?).
 - p. 674: 1-31-17 [?], Śat. Brā. 11-5-6-7 [?].
