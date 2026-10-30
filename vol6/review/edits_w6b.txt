@@ -434,3 +434,9 @@ p. 402: "vyatyayena śaḥ" confirmed; "āca irīti" -> "aca iritī" (as printed
 p. 403: "sumubrāhmaṇe [as printed, doubtful]" -> "samam brāhmaṇe dānam" (printed ಸಮಮಬ್ರಾಹ್ಮಣೇ).
   p. 404: Ni. [2-10?] -> 3-9 [as printed]; Pā. [7-1-?]/[7-1-78] -> 7-1-78; Pā. [6-1-189] -> 6-1-189
   p. 404: Pā. [7-3-103] -> 7-3-111 (printed after gher ṅiti); Uṇ. [4-?] -> 4-578 ("aji [ṛ?] ṛ ca iḥ" -> "aca iḥ")
+  p. 405: running-head Varga "20" as read [?] -> 20; Saṃhitā 73.6 accents set as printed (underline places in vāvaśānāḥ, sumatiṃ, sasruḥ [accent ?])
+  p. 406: bhāṣya Pā. [6-1-20?] -> 6-1-20; [5-4-131?] -> 5-4-131; [4-1-26?] -> 4-1-26; [5-1-118?] -> 5-1-118
+  p. 407: running-head Varga -> 20; Ni. [1-12?] -> 2-25 [as printed]; Ni. [2-?] -> 2-25 [as printed]
+  p. 409: Pā. [6-1-?] (śācchāsāhvā) -> 7-3-37; added Pā. 6-1-11 (caṅi), 7-4-94 (dīrgho laghoḥ) as printed
+  p. 410: Pā. [6-1-?] (caṅy anyatarasyām) -> 6-1-218; Saṃhitā 73.7 accents set as printed (yajñiyāsaḥ underline [accent ?])
+  pp. 409–423 (odd): running-head Varga "20" as read [?] -> 20 (head strips); p. 425: "Aṣṭaka 1 … Varga 21 as read [?]" -> "Aṣṭaka 2 [as printed; for 1] … Varga 20"
