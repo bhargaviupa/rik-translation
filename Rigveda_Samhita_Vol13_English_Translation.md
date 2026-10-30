@@ -16419,4 +16419,52 @@ From the sentence **vāṃ vṛṣā meghaḥ daśasyan** the relation of cause 
 
 ---
 
-**Progress note:** printed p. 586 (PDF 606) done — Sūkta 181 Ṛk 8 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 587). Next: printed p. 587 (PDF 607). Open flags: refs [?]; Ṛk 8 Saṃhitā line-1 corrected in p. 585 note; review/doubts_v13.json.
+### Printed p. 587  (PDF 607)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 587.)*
+
+*(Special Topics, continued.)*
+
+> सवने अहन् त्रिरवद्यगोहना त्रिरद्य यज्ञं मधुना मिमिक्षतम् ।
+
+> *savane ahan triravadyagohanā triradya yajñaṃ madhunā mimikṣatam |*
+
+(Ṛ. Saṃ. 1-34-3 [?])
+
+> त्रिषधस्थे बर्हिषि विश्ववेदसा मध्वा यज्ञं मिमिक्षतम् ॥
+
+> *triṣadhasthe barhiṣi viśvavedasā madhvā yajñaṃ mimikṣatam ‖*
+
+(Ṛ. Saṃ. 1-47-4 [?]; Sanskrit as read, first line doubtful [?]) — in ṛks such as these also, the prayer is that they sprinkle the sacrificial ground with sweet juice at the three times, and satisfy it. The same intention is implied in the ṛk at hand also; and in each context the epithets **madhumatī**, **mādhvī** etc. have been used. Hence, regarding the rain-giving connected with them, a particular purport must be told. That subject will be told fully further on, in the Special Topics of Ṛk 1-182-? [numeral doubtful] of this same part.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *ruśataḥ* — root *ruś hiṃsāyām*, *tudādi*; since roots have many senses, it is used here in the sense of "shining"; *laṭ* with *śatṛ*-substitution; "*tāsyanudāttet…*" — the *sārvadhātuka l* being unaccented, the root's accent remains; genitive singular form; *pinvate* — root *pivi secane*; "*vyatyayo bahulam*" gives *ātmanepada*; "*iditonum dhātoḥ*" (Pā. Sū. 7-1-58 [?]) gives *num* augment; *laṭ* third person singular form; being after a *tiṅ*-final, *nighāta* accent; *vṛṣaṇā* — root *vṛṣu secane*, suffix *kanin* by "*kanin yuvṛṣi…*"; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives ā for the dual; "*vā ṣapūrvasya nigame*" (Pā. Sū. 6-4-9 [?]) the lengthening of the penultimate does not occur; vocative: *nighāta* accent; *pīpāya* — root *ōpyāyī vṛddhau*; "*chandasi luṅ-laṅ-liṭaḥ*" (Pā. Sū. 3-4-6 [?]) gives *liṭ* in the present sense; "*liṭy-abhyāsasyobhayeṣām*" … *pī* for the root; doubling; *ṇal*, *vṛddhi* of the *ī*; *āy*-substitution; *nighāta*; *seke* — root *ṣicir kṣaraṇe*; suffix *ghañ*; "*pugantalaghūpadhasya ca*" gives guṇa of the penultimate short vowel; "*cajoḥ kuḥ ghiṇṇyatoḥ*" (Pā. Sū. 7-3-52 [?]) gives *ku* for *c*; suffix with *ñ*, initial acute accent; *daśasyan* — *daśas dāne*; *kaṇḍvādi*; "*kaṇḍvādibhyo yak*" (Pā. Sū. 3-1-27 [?]) gives *yak* in the root's own sense; *laṭ* with *śatṛ* after the *yak*-final; *yak*'s accent remains; first (case), another form.  ‖ 8 ‖
+
+### Printed p. 588  (PDF 608)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 588.)*
+
+### Sūkta 181, Ṛk 9  (printed p. 588; PDF 608)
+
+**Saṃhitā-pāṭha**
+
+> युवां पूषेवाश्विना पुरंधिरग्निमुषां न जरते हविष्मान् ।
+> हुवे यद्वां वरिवस्या गृणानो विद्यामेषं वृजनं जीरदानुम् ॥ ९ ॥
+
+**Pada-pāṭha**
+
+> युवां । पूषाऽइव । अश्विना । पुरंऽधिः । अग्निं । उषां । न । जरते । हविष्मान् ।
+> हुवे । यत् । वां । वरिवस्या । गृणानः । विद्याम । इषं । वृजनं । जीरऽदानुम् ॥ ९ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवां पुरंधिर्बहुप्रज्ञः पूषेव पोषक इव हविष्मान् हविर्युक्तो जरते । स्तौति । यद्वा । पुरंधिर्बहूनां धारयित्री पूषेव पृथिवीव ॥ द्वितीयार्थे प्रथमा ॥ तां यथा स्तौति तद्वत् । किमिव । अग्निमुषां न । अग्निमुषसं च यथा तथा युवामपि । प्रातरनुवाकाश्विनशस्त्रयोराश्विनक्रतुवदाग्नेयोषस्योरपि सद्भावादिति भावः । कदेति आह । यद्वा वरिवस्या परिचर्ययायो युक्तो गृणानः स्तोता स्तौति तदा यजमानोऽपि जरते इत्यर्थः । विद्याम । इत्यादि गतम् ॥
+
+*(Sanskrit as read; several words doubtful [?]. Gist: the sacrificer, rich in offerings, praises you two as one praises Agni and Uṣas; and "when I, serving, call you" he asks to gain food, strength and long life — the rest "as already explained".)*
+
+**Pratipadārtha** — **yat** — whenever; **varivasyā** — joined with service; **gṛṇānaḥ** — praising (I); **huve** — (with praise) I invoke; (**tat** — then); (**he**) **aśvinā** — O Aśvin deities; **puraṃdhiḥ** — the highly wise; **pūṣā iva** — like the nourisher; **haviṣmān** — the sacrificer provided with oblations etc.; [or **puraṃdhiḥ** — the supporter of many people; **pūṣā iva** — as one praises Earth]; **agniṃ uṣāṃ na** — as Agni and the goddess Uṣas ([sacrificers] praise at dawn); **jarate** — praises; (**vayaṃ** — we); **iṣaṃ** — food; **vṛjanaṃ** — strength; **jīradānuṃ** — long life; **vidyāma** — may we obtain (through your favour).
+
+**Bhāvārtha** — O Aśvin deities, with devotion I serve you by praise; at the same time the highly wise sacrificer, provided with oblations etc., praises the earth, the supporter of many, … [the passage continues on the next page].
+
+---
+
+**Progress note:** printed p. 588 (PDF 608) done — Sūkta 181 Ṛk 8 ends (Special Topics, grammar); Ṛk 9 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (continues p. 589). Next: printed p. 589 (PDF 609). Open flags: refs [?]; review/doubts_v13.json.
