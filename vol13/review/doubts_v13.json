@@ -3310,5 +3310,29 @@
   ],
   "note": "Ait.Br quote tasya vai deva adityasya.. garbled/approx; Haug text in Devanagari glyphs (svrn, sattra) uncertain",
   "answer": ""
+ },
+ {
+  "pdf": 385,
+  "printed": 365,
+  "crop": [
+   0.12,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br quote teshAm vai deva saptadasanAm.. garbled; ref 4-19; Satapatha ref 8-1-1-8",
+  "answer": ""
+ },
+ {
+  "pdf": 386,
+  "printed": 366,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha refs 12-1-2-2?, 12-1-2-13?, 12-1-4-2? small; quotes approx",
+  "answer": ""
  }
 ]
