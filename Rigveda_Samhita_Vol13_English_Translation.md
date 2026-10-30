@@ -14545,4 +14545,57 @@ For the latter half of this mantra three kinds of construction have been shown t
 
 ---
 
-**Progress note:** printed p. 524 (PDF 544) done — Sūkta 180 Ṛk 5 Special Topics (jūrṇi, Bhujyu, aṃhasaḥ) and grammar begun (continues p. 525). Next: printed p. 525 (PDF 545). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 525  (PDF 545)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 525.)*
+
+**Vyākaraṇa-prakriyā (grammar, continued)** — noted briefly (sūtra numerals [?]):
+
+- ***dasrā*** — by "*supāṃ sulak…*" (Pā. Sū. 7-1-39 [?]) *ā* is substituted for the dual; being in the vocative, the *nighāta* accent occurs.
+- ***jivriḥ*** — root *jyā vayohānau*; by "*jīryater krin raśca vaḥ*" (Uṇ. Sū. 4-[?]) the suffix *krin*, with *va* substituted for the *r* of the root; since the suffix has *n* as marker, the *ādyudātta* accent.
+- ***jūrṇiḥ*** — root *jvara saṃtāpe*; the suffix *kta*; by "*jvarasvarasrivyaviḥ…*" (Pā. Sū. 6-4-20 [?]) *ūṭh* [as printed] is substituted for the *va* and the penultimate vowel of the root; by "*radābhyāṃ niṣṭhāto naḥ*" the *n* for the *t* of the *niṣṭhā*; by "*raṣābhyāṃ no ṇaḥ samānapade*" the *ṇ*; the final syllable is *udātta* by the suffix accent.
+- ***yajatrā*** — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; by "*amināsi…yaji bandhi…*" (Uṇ. Sū. 3-[?], as read [?]) the suffix *atran*; by "*supāṃ sulak…*" *ā* in the dual of the vocative; being in the vocative, the *nighāta* accent.
+- ***kṣoṇī*** — in the second meaning it is the locative singular; by "*supāṃ sulak…*" the *pūrvasavarṇa* lengthening; by "*īdūtau ca saptamyarthe*" (Pā. Sū. 1-1-19 [?]) it receives the name *pragṛhya*. ‖ 5 ‖
+
+---
+
+**Sūkta 180, Ṛk 6**
+
+**Saṃhitā-pāṭha**
+
+> नि यद्युवेथे नियुतः सुदानू उप स्वधाभिः सृजथः पुरंधिम् ।
+> प्रेषद्वेषद्वातो न सूरिरा महे ददे सुव्रतो न वाजम् ॥ ६ ॥
+
+**Pada-pāṭha**
+
+> नि । यत् । युवेथे इति । निऽयुतः । सुदानू इति सुऽदानू । उप । स्वधाभिः । सृजथः । पुरम्ऽधिम् ।
+> प्रेषत् । वेषत् । वातः । न । सूरिः । आ । महे । ददे । सुऽव्रतः । न । वाजम् ॥ ६ ॥
+
+> *ni | yat | yuvethe iti | ni 'yutaḥ | sudānū iti su 'dānū | upa | svadhābhiḥ | sṛjathaḥ | puram 'dhim |*
+> *preṣat | veṣat | vātaḥ | na | sūriḥ | ā | mahe | dade | su 'vrataḥ | na | vājam ‖ 6 ‖*
+
+### Printed p. 526  (PDF 546)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 526.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे सुदानू शोभनदानावश्विनौ यद्यदा नियुतोऽश्वानि [?] युवेथे नियुञ्जाथे नियोजयथः । ताभिरस्मद्यज्ञगमनाय सम्युक्तौ भवथः तदा स्वधाभिरन्नैस्तत्कारणैरुदकैर्वा पुरन्धिं बहूनां धात्रीं पृथिवीमुप सृजथः । एवं च सति सूरिः स्तोता यजमानो वातो न वायुरिव तद्वत् क्षिप्रं युवां प्रेषत् । तर्पयतु । वेषत् । व्याप्नोतु । कामयतां वा । प्रीणातेर्वेवेष्टेश्च लेटि रूपे ॥ अनन्तरं सुव्रतो नातिप्रसस्तोष्णादिकर्मवानिव [?] वाजमन्नं महे महत्त्वायायं [?] यजमान आ ददे । आदत्ते । स्वीकरोति । अजो दोऽनास्यविवरणे । पा. ७-४-५० [?] इत्यात्मनेपदम् । लोपस्त आत्मनेपदेष्विति तलोपः । यद्वा । छान्दसे लिटि रूपम् ॥ स्वीकृत्य स्वमहत्त्वायं [?] युवानेव तर्पयित्वित्यर्थः ॥ [as read; a few words doubtful [?]]
+
+*Gist:* When the Aśvins yoke their *niyut*-horses to come to the sacrifice, they fill the earth with food-giving water; the sacrificer, swift as the wind, pleases them and, like a man of good works, receives food and greatness.
+
+**Pratipadārtha**
+
+(*he*) **sudānū** — O Aśvin deities of good giving; **yat** — when; **niyutaḥ** — your horses called *niyut*; **ni yuvethe** — you yoke (to the chariot); (**tat** — then); **svadhābhiḥ** — with food, or with water, the cause of food; **purandhim** — this earth, the nurse of many; **upa sṛjathaḥ** — you fill; (**evaṃ sati** — this being so) **sūriḥ** — the praiser (the sacrificer); **vātaḥ na** — like the wind (swiftly); **preṣat** — may he satisfy you two; **veṣat** — may he attain (or desire) you; **suvrataḥ na** — like a man of good deeds; **vājam** — food; **mahe** — (for his own greatness); **ā dade** — (this sacrificer) accepts [or: accepting you two, satisfies you].
+
+**Bhāvārtha**
+
+O Aśvins of good giving! Whenever, with a wish to come, you yoke your *niyut*-horses to the chariot, you pour out on the earth the water that is the cause of food; the sacrificer, as swift as the wind, becomes ready to please you; and, like a man of good works, by your favour obtains food, receives it, satisfies you, and attains greatness.
+
+**Printed English**
+
+> Bountiful givers, when you yoke your horses you replenish the earth with viands: may this your wurshipper [sic] be (swift) as the wind to propitiate and please you, that through your great (favour), he may, like a pious man obtain food.
+
+---
+
+**Progress note:** printed p. 526 (PDF 546) done — Sūkta 180 Ṛk 5 complete; Ṛk 6: Saṃhitā…printed English written. Next: printed p. 527 (PDF 547), Ṛk 6 Special Topics. Open flags: refs [?]; review/doubts_v13.json.
