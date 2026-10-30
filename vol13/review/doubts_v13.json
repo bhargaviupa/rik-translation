@@ -2578,5 +2578,29 @@
   ],
   "note": "juhuranah grammar (hvarcher.. / halo lopah) read approx; sutra numerals small",
   "answer": ""
+ },
+ {
+  "pdf": 324,
+  "printed": 304,
+  "crop": [
+   0.15,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 12 bhashya dense: 'mo su tyaiva', 'etatpradhnayam', 'yasya mama yavya phalenendrena..' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 324,
+  "printed": 304,
+  "crop": [
+   0.5,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 12 Pratipadartha garbled order (havismatah/mihluso etc.); rendering approximate",
+  "answer": ""
  }
 ]
