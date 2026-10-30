@@ -3478,5 +3478,29 @@
   ],
   "note": "Rg refs 5-81-2, 1-105-15, 10-5-2 small; quotes read approx",
   "answer": ""
+ },
+ {
+  "pdf": 399,
+  "printed": 379,
+  "crop": [
+   0.05,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-71-1, 10-71-3, 5-29-10; Satapatha quote ayur etejo.. garbled, ref 14-1-3-26?",
+  "answer": ""
+ },
+ {
+  "pdf": 400,
+  "printed": 380,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-51-6, 4-16-12, 1-54-5, 1-33-12 small; Nirukta 2-9; quotes read approx",
+  "answer": ""
  }
 ]
