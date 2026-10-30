@@ -9894,4 +9894,74 @@ The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used fo
 
 ---
 
-**Progress note:** printed p. 378 (PDF 398) done — Sūkta 175 Ṛk 4 Pratipadārtha, Bhāvārtha, printed English, Special Topics (kavi; continues p. 379). Next: printed p. 379 (PDF 399). Open flags: Śruti/Nirukta/Ṛg refs for kavi [?]; review/doubts_v13.json.
+### Printed p. 379  (PDF 399)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+> बृहस्पते प्रथमं वाचो अग्रं यत्प्रैरत नामधेयं दधानाः । यदेषां श्रेष्ठं यदरिप्रमासीत्प्रेणा तदेषां निहितं गुहाविः ॥
+
+> *bṛhaspate prathamaṃ vāco agraṃ yat praírata nāmadheyaṃ dadhānāḥ | yad eṣāṃ śreṣṭhaṃ yad ariprām āsīt preṇā tad eṣāṃ nihitaṃ guhāviḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-71-1 [?]) — in all such ṛks this idea is made evident: the *kavis*, having entered the path of *ṛta*, bear the highly secret and most excellent names in their very deep hearts; and, having revealed them, they make them known to the world: so it is described. This *kavi* is attainable by an instrument of vision and light itself.
+
+> यज्ञेन वाचः पदवीयमायन् तामन्वविन्दन्नृषिषु प्रविष्टाम् । तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवन्ते ॥
+
+> *yajñena vācaḥ padavīyam āyan tām anv avindann ṛṣiṣu praviṣṭām | tām ābhṛtyā vy adadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navante ‖*
+
+(Ṛ. Saṃ. 10-71-3 [?]). The sages, seers of things beyond the senses, obtained, by the means of sacrifice, the speech that had been hidden; afterwards, for the benefit of the people of the world, they gave them instruction. This speech that is of the nature of the universe is served by metres such as Gāyatrī; and so on: thus the identity of the creation in the form of revealing speech, and of the act in the form of sacrifice, is shown; and in some places the relation of cause and effect is also shown. The same idea is stated in the Śatapatha and other Brāhmaṇas:
+
+> आयुरेतेजो ज्योतिः प्रविशति य एतमनु वा ब्रूते भक्षयति वा तस्य व्रतेचर्या यो सृष्ट्यै ॥ [as read; garbled: [?]]
+
+> *āyur etejo jyotiḥ praviśati ya etam anu vā brūte bhakṣayati vā tasya vratecaryā yo sṛṣṭyai ‖* [?]
+
+(Śa. Brā. 14-1-3-26 [?]) — here the identity of the act, preceded by the utterance of the mantra, and of new creation is stated. In the ṛk at hand it is an epithet describing the extraordinary quality of Indra, who is endowed with knowledge of what lies beyond the senses and is omniscient. Because this epithet is used in many places, it should be construed according to the respective contexts.
+
+***īśānaḥ sūryaṃ cakraṃ ojasā muṣāya — sarvārthaḥ san sūryasya ekaṃ cakraṃ sāmarthyātiśayena amuṣṇāḥ*** — Indra, by his strength, took away one of the two wheels of the Sun's chariot: the sense is given, and it is stated that "*pūrvaṃ sūryarathasya cakradvayam asti, ekam indro mumuṣa itītihāsaḥ*" — "there were formerly two wheels of the Sun's chariot; Indra stole one": that this is known in the tradition (*itihāsa*), and he cites the ṛk:
+
+> प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यद्वरिवो यातवेऽकः ।
+
+> *prānyac cakram avṛhaḥ sūryasya kutsāyānyad varivo yātave 'kaḥ |*
+
+(Ṛ. Saṃ. 5-29-10 [?]).
+
+***śuṣṇāya — etannāmakāya asurāya śuṣṇaṃ hantum*** — in order to destroy the *asura* known by the name Śuṣṇa, ***vātasya aśvaiḥ*** — joined with the horses having the speed of the wind, or
+
+### Printed p. 380  (PDF 400)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+with the horses of Śuṣṇa — Indra, having the *kutsa* (cutting) thunderbolt, carried it. ***athavā taṃ ca hatvā tadīyair dhanaiḥ kutsaṃ maharṣim agamaḥ*** — the word *kutsa*, taken as an epithet of the thunderbolt, gives one meaning, "the instrument of cutting". In the second meaning it is explained that Indra, having destroyed Śuṣṇa, gave all the wealth of the *asura* Śuṣṇa to the great sage named Kutsa. And —
+
+> त्वं कुत्सं शुष्णहत्येष्वाविथारन्धयोऽतिथिग्वाय शंबरम् । महान्तं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ॥
+
+> *tvaṃ kutsaṃ śuṣṇahatyeṣv āvitha arandhayo 'tithigvāya śambaram | mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe ‖*
+
+(Ṛ. Saṃ. 1-51-6 [?]);
+
+> कुत्सायु शुष्णमशुषं नि बर्हीः प्रपित्वे अह्नः कुयवं सहसा ।
+
+> *kutsāyu śuṣṇam aśuṣaṃ ni barhīḥ prapitve ahnaḥ kuyavaṃ sahasā |*
+
+(Ṛ. Saṃ. 4-16-12 [?]).
+
+In these ṛks Sāyaṇa has quoted them to show that this meaning is stated; and he explains that the same intention is expressed in other mantras. The word *śuṣṇa* is read by Yāska among the names of strength (Ni. 2-9 [?]). And —
+
+> नियद्वृणक्षि श्वसनस्य मूर्धनि शुष्णस्य चित्व्रन्दिनो रोरुवद्वना । प्राचीनेन मनसा बर्हणावता यदद्या चित्कृणवः कस्त्वा परि ॥
+
+> *ni yad vṛṇakṣi śvasanasya mūrdhani śuṣṇasya cit vrandino roruvad vanā | prācīnena manasā barhaṇāvatā yad adyā cit kṛṇavaḥ kas tvā pari ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-54-5 [?]). In this ṛk the meaning "*śuṣṇasya śoṣayitur ādityasya*" — "of Śuṣṇa, of the dryer, i.e. of the Āditya" — is explained.
+
+> न्याविध्यदिलीबिशस्य दृळ्हा वि शृङ्गिणमभिनच्छुष्णमिन्द्रः । यावत्तरो मघवन् यावदोजो वज्रेण शत्रुमवधीः पृतन्युम् ॥
+
+> *ny āvidhyad ilībiśasya dṛḷhā vi śṛṅgiṇam abhinac chuṣṇam indraḥ | yāvat taro maghavan yāvad ojo vajreṇa śatrum avadhīḥ pṛtanyum ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-33-12 [?]). Here the word *śuṣṇa* is used in the sense of *śuṣṇaṃ balavantaṃ meghaṃ*, "the mighty cloud".
+
+***kutsaṃ*** — here the commentary of Sāyaṇa shows that two kinds of meaning may be given for the word *kutsa*. First, as an epithet of the thunderbolt, "*kutsa-kartana-sādhanam*" (the instrument of cutting, being the means of cutting); second, "*kutsaṃ kutsanāmānam ṛṣim*" — he explains it as "the sage called Kutsa". If it is explained as "sage", it is the praise of Indra that he killed the *asura* Śuṣṇa and helped Kutsa.
+
+The close connection of Kutsa and of Indra is learned from the descriptions in the Ṛk-saṃhitā. The epithet *ārjuneya* for Kutsa occurs in many places. For the word *ārjuneya* it may be "son of the woman Arjunī". Or "*arjuna* is a name of Indra (*arjuna itīndrasya nāma*), *tasya putraḥ*": since Kutsa is Indra's son, the epithet *ārjuneya* is natural: thus another meaning may be given. To support that Indra has the name *Arjuna*, Sāyaṇa, in some places,
+
+---
+
+**Progress note:** printed p. 380 (PDF 400) done — Sūkta 175 Ṛk 4 Special Topics (kavi, muṣāya, śuṣṇa, kutsa; continues p. 381). Next: printed p. 381 (PDF 401). Open flags: Ṛg/Nirukta/Śatapatha refs and some quotes [?]; review/doubts_v13.json.
