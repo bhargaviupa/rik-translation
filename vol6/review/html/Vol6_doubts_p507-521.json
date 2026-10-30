@@ -1,0 +1,58 @@
+[
+{
+"id": "508_d0",
+"printed": 508,
+"file": "द्यु॒म्नैरभि॒ प्र णो॑नुमः [accent ?]",
+"ctx": "Saṃhitā 78.1, line 2",
+"kind": "accent",
+"note": "line 2: lower strokes under dyu and bhi; upper stroke between ṇo and nu (also in 78.2–78.5, same line 2)"
+},
+{
+"id": "511_d1",
+"printed": 511,
+"file": "तमु॑ त्वा॒ गोत॑मो गि॒रा रा॒यस्का॑मो दुवस्यति [accent ?]",
+"ctx": "Saṃhitā 78.2, line 1",
+"kind": "accent",
+"note": "strokes: over mu? over ta of gotamo; stroke near kā/mo of rāyaskāmo on the syllable boundary"
+},
+{
+"id": "513_d2",
+"printed": 513,
+"file": "तमु॑ त्वा वाज॒सात॑ममङ्गि॒रस्वद्ध॑वामहे [accent ?]",
+"ctx": "Saṃhitā 78.3, line 1",
+"kind": "accent",
+"note": "strokes between neighbouring syllables; underlines under ja, ra"
+},
+{
+"id": "516_d3",
+"printed": 516,
+"file": "तमु॑ त्वा वृत्र॒हन्त॑मं॒ यो दस्यू॑रवधूनु॒षे [accent ?]",
+"ctx": "Saṃhitā 78.4, line 1",
+"kind": "accent",
+"note": "strokes between neighbouring syllables; underlines under tra, maṃ, nu"
+},
+{
+"id": "519_d4",
+"printed": 519,
+"file": "अवो॑चाम॒ रहू॑गणा अ॒ग्नये॒ मधु॑म॒द्वचः॑ [accent ?]",
+"ctx": "Saṃhitā 78.5, line 1",
+"kind": "accent",
+"note": "strokes between neighbouring syllables; several underlines"
+},
+{
+"id": "518_d5",
+"printed": 518,
+"file": "Ṛk. Saṃ. 10-95-7 [?]",
+"ctx": "mahe yat tvā purūravo raṇāyāvardhayan",
+"kind": "numeral",
+"note": "last digit: flat-footed 7 or curled 2"
+},
+{
+"id": "517_d6",
+"printed": 517,
+"file": "upaprayendra [?] dasyuhatyāya",
+"ctx": "upaprayendra [?] dasyuhatyāya vajrī yaddha sūnuḥ",
+"kind": "word",
+"note": "print reads ಉಪಪ್ರಯೇನ್ದಸ್ಯುಹತ್ಯಾಯ: the ra of 'indra' and the word division"
+}
+]

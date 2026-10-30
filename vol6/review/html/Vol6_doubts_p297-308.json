@@ -1,0 +1,42 @@
+[
+{
+"id": "297_d0",
+"printed": 297,
+"file": "दू॒त्यं१॒॑ भृग॑वाणो विवाय",
+"ctx": "सचा॒ सन्ना दू॒त्यं१॒॑ भृग॑वाणो विवाय ॥ ४ ॥",
+"kind": "accent",
+"note": "marks on the numeral ೧ after ದೂತ್ಯಂ and the stroke over ಗ of ಭೃಗ-ವಾಣೋ"
+},
+{
+"id": "298_d1",
+"printed": 298,
+"file": "तानरिष्ठः [?]",
+"ctx": "तैरेवाम्नातं । तानरिष्ठः [?] प्राण उवाच",
+"kind": "word",
+"note": "ಅರಿಷ್ಠಃ or ಅರಿಷ್ಟಃ / ವರಿಷ್ಠಃ?"
+},
+{
+"id": "303_d2",
+"printed": 303,
+"file": "दु॑हि॒तरि॒ त्वि॑षिं धात्",
+"ctx": "दे॒वो दु॑हि॒तरि॒ त्वि॑षिं धात् ॥ ५ ॥",
+"kind": "accent",
+"note": "marks under ಹಿ and ರಿ and the stroke over ತ್ವಿ"
+},
+{
+"id": "306_d3",
+"printed": 306,
+"file": "(Ni. [3-9?])",
+"ctx": "names of 'going/action' (Ni. [3-9?])",
+"kind": "numeral",
+"note": "the print shows (ನಿ. ೩-೯) here too, as for the names of fingers (p. 285), strength (p. 290) and food (pp. 295, 305): please check the second digit"
+},
+{
+"id": "307_d4",
+"printed": 307,
+"file": "7-25-1?]",
+"ctx": "1-66-4; 1-166-6; 5-86-3; 7-25-1?] and so on",
+"kind": "numeral",
+"note": "last reference: first digit 7 or 2?"
+}
+]
