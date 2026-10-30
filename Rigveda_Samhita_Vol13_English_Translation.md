@@ -1854,4 +1854,40 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 78 (PDF 98) done — Sūkta 167 Ṛk 2 in progress (grammar note of Ṛk 2 begun; continues on p. 79). Next: printed p. 79 (PDF 99). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 79  (PDF 99)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* **Vyākaraṇa-prakriyā (continued, noted briefly; sūtra numbers [?]).** *acchā* (*nipātasya ca* Pā. 6-3-136 [?] gives lengthening in the Saṃhitā). *jyeṣṭhebhiḥ* (*atiśayena praśasyaḥ*; suffix *iṣṭhan*; *jyā ca* Pā. 5-3-61 gives *jya* for *praśasya*; *prakṛtyaikāc* Pā. 6-4-163 [?] — by the preservation of the base the *al*-drop does not occur; guṇa; *bhis*: *bahulaṃ chandasi* gives no *ais*; *bahuvacane jhaly et* gives *e*). *bṛhaddivaiḥ* (*bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member). *sumāyāḥ* (*śobhanā māyā yeṣāṃ te*; *nañsubhyām* Pā. 6-2-172 gives the final acute of the later member). *adha* (the Vedic change in the word *atha*). *niyutaḥ* (root *yu miśraṇāmiśraṇayoḥ*; *kvip ca*; *hrasvasya piti kṛti tuk* gives *tuk*; the *kṛdutta* member keeps its own accent; nominative plural). *dhanayante* (from the word *dhana*; *tatkaroti tadācaṣṭe* gives *ṇic*; *chandasi luṅlaṅliṭaḥ* gives *laṭ* in the present sense; 3rd plural, *jha* → *anta*; *śap*; guṇa and *ay*-substitution after *ṇic*; *ṭi* dropped; *bahulaṃ chandasy amāṅyoge 'pi* gives no *aṭ*). ‖ 2 ‖
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> मिम्यक्ष येषु सुधिता घृताची हिरण्यनिर्णिगुपरा न ऋष्टिः ।
+> गुहा चरन्ती मनुषो न योषा सभावती विदथ्येव सं वाक् ॥ ३ ॥
+
+> *mimyakṣa yeṣu sudhitā ghṛtācī hiraṇyanirṇiguparā na ṛṣṭiḥ |*
+> *guhā carantī manuṣo na yoṣā sabhāvatī vidathyeva saṃ vāk ‖ 3 ‖*
+
+### Printed p. 80  (PDF 100)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)*
+
+**॥ पदपाठः ॥**
+
+> मिम्यक्ष । येषु । सुऽधिता । घृताची । हिरण्यऽनिर्निक् । उपरा । न । ऋष्टिः ।
+> गुहा । चरन्ती । मनुषः । न । योषा । सभाऽवती । विदथ्याऽइव । सम् । वाक् ॥ ३ ॥
+
+> *mimyakṣa | yeṣu | su 'dhitā | ghṛtācī | hiraṇya 'nirnik | uparā | na | ṛṣṭiḥ |*
+> *guhā | carantī | manuṣaḥ | na | yoṣā | sabhā 'vatī | vidathyā 'iva | sam | vāk ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> सुधिता सुष्ठु निहिता सुष्ठु हिता वा लोके घृताची घृतं क्षरणशीलमुदकमञ्चन्ती हिरण्यनिर्णिक् तरमणीयरूपा [?] । निर्णिगिति रूपनाम । एवंरूपा ऋष्टिर्विद्युदाख्यायुधविशेषो वा उपरा न मेघमालेव येषु मरुत्सु सं मिम्यक्ष संगतभूत् । मेघपङ्क्तिर्विद्युताविनो [?] अपि संगते इत्यर्थः । मेघपङ्क्तिर्विद्युच्छोभे दृष्टान्तेन विशेष्येते [?] । गुहा निगूढा गुहायां वान्तरिक्षे चरन्ती । तत्र दृष्टान्तः । मनुषो न योषा मनुष्यस्य परिव्यूढादेर्महिषीव [?] । सा यथा सुवेषान्तःपुर इव मध्ये चरति तद्वत् । किं सर्वदैवमिति नेत्याह । सभावती । सभा जनसंघः । तद्वती । वर्षकाल आविर्भवन्तीत्यर्थः । तत्र दृष्टान्तः । विदथ्येव वाक् । विदथो यज्ञः । तदर्हतीति विदथ्या प्रैषस्तोत्रादिरूपा वाक् । सा यथा यज्ञसभां प्राप्याविर्भवति तद्वत् । यद्वा । विदथ्या वेदनार्हा विविदमानयोर्वाक् । सा यथा सभा भवति तद्वत् । एवंरूपा येषु मिम्यक्ष ते मरुतो देवयजनमागच्छन्त्वित्यर्थः ॥
+
+*Gist:* In whichever Maruts the lightning, well-set, water-pouring, golden-shaped, is joined, like a cloud-line; moving hidden in the sky as a woman of a man, appearing in the rainy season as in an assembly, as sacrificial speech appears at the sacrifice — may those Maruts come to our sacrifice.
+
+**Pratipadārtha.** *yeṣu* — in which Marut-gods; *sudhitā* — well fixed; *ghṛtācī* — water-pouring; *hiraṇyanirnik* — of a lovely, golden form; *ṛṣṭiḥ* — the lightning-weapon; *manuṣaḥ* — of a man (an excellent man); *yoṣā* — an adorned woman; (*guhā carantī iva* — as if moving concealed in the inner apartments); *guhā* — in the hidden place; *carantī* — moving; *vidathyā* — fit for sacrifice; *vāk* — speech in the form of praise (*sabhāvatī iva* — as if appearing in the sacrificial assembly); *vidathyā* — of those who discuss; *vāk* — speech; (*sabhāvatī iva* — as if appearing in an assembly); *sabhāvatī* — appearing in the rainy season; *upara na* — like a garland of clouds (as it is joined with the Maruts); *saṃ mimyakṣa* — is well joined (may those Marut-gods come to our sacrificial hall).
+
+---
+
+**Progress note:** printed p. 80 (PDF 100) done — Sūkta 167 Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha written. Next: printed p. 81 (PDF 101): Bhāvārtha, English, Special Topics of Ṛk 3. Open flags: small-type numerals [?]; review/doubts_v13.json.
