@@ -14869,4 +14869,74 @@ Since, along with the performance of acts of the nature of truth, the universal 
 
 ---
 
-**Progress note:** printed p. 534 (PDF 554) done — Sūkta 180 Ṛk 7 Special Topics (jaritāraḥ, satyāḥ; continues p. 535). Next: printed p. 535 (PDF 555). Open flags: refs [?]; SB 9-5-1 quotes [?]; review/doubts_v13.json.
+### Printed p. 535  (PDF 555)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 535.)*
+
+**Special Topics (continued)**
+
+> सखा ह यत्र सखिभिर्नवग्वैरभिज्ञ्वा सत्वभिर्गा अनुग्मन् ।
+> सत्यं तदिन्द्रो दशभिर्दशग्वैः सूर्यं विवेद तमसि क्षियन्तम् ॥
+
+> *sakhā ha yatra sakhibhirnavagvairabhijñvā satvabhirgā anugman |*
+> *satyaṃ tadindro daśabhirdaśagvaiḥ sūryaṃ viveda tamasi kṣiyantam ‖*
+
+(Ṛ. Saṃ. 3-39-5 [?])
+
+> ते इद्देवानां सधमाद आसन्नृतावानः कवयः पूर्व्यासः ।
+> गूळ्हं ज्योतिः पितरो अन्वविन्दन्त्सत्यमन्त्रा अजनयन्नुषासम् ॥
+
+> *te iddevānāṃ sadhamāda āsannṛtāvānaḥ kavayaḥ pūrvyāsaḥ |*
+> *gūḷhaṃ jyotiḥ pitaro anvavindantsatyamantrā ajanayannuṣāsam ‖*
+
+(Ṛ. Saṃ. 7-76-4 [?]) — in these and other ṛks there are many sentences that hint at earlier contexts: that all the ṛṣis, having known the true forms of the deities who are of the nature of truth, performed rites, and obtained prosperity as the fruit of what they performed. And, together with truth, there is also a prayer for well-being:
+
+> अधा यथा नः पितरः परासः प्रत्नासो अग्न ऋतमाशुषाणाः ।
+> शुचीदयन्दीधितिमुक्थशासः क्षामा भिन्दन्तो अरुणीरप व्रन् ॥
+
+> *adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtamāśuṣāṇāḥ |*
+> *śucīdayandīdhitimukthaśāsaḥ kṣāmā bhindanto aruṇīrapa vran ‖*
+
+(Ṛ. Saṃ. 7-2-16 [?]) — in prayers such as "as our fathers obtained good fruits through the conduct of sacrifices, which are of the nature of truth, so may all our acts too give fruits that are true", the true form of the deities of *satyadharma* such as Agni is also described.
+
+> अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।
+
+> *ajo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
+
+(Ṛ. Saṃ. 1-67-3 [?])
+
+> कविमग्निमुपस्तुहि सत्यधर्माणमध्वरे । देवममीवचातनम् ॥
+
+> *kavimagnimupastuhi satyadharmāṇamadhvare | devamamīvacātanam ‖*
+
+(Ṛ. Saṃ. 1-12-7 [?])
+
+> देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा ।
+> पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥
+
+> *devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā |*
+> *purupraśasto amatirna satya ātmeva śevo didhiṣāyyo bhūt ‖*
+
+(Ṛ. Saṃ. 1-73-2 [?]) — in many other places too it is shown that Agni and the other deities, by truth, upheld the earth and the other worlds, carried out the protection of the worlds, and that men also must follow this path of truth. The derivation of the word *satya* as given in the Brāhmaṇas, the Upaniṣads and others, and how the whole world is of the nature of truth, and the description of the true form which, in opposition, rejects the untrue, will be told later in the special topics of Ṛk 1-185-11 [?].
+
+***vipanyāmahe*** — for this word the scholar Monier Williams, in his English–Sanskrit Dictionary [as printed], gives the meaning "To pride one's self or to boast", citing the ṛk at hand, 1-180-7. The word *vipanyu* is read among the names of the "intelligent" along with *vipraḥ*, *vigraḥ* and others (Ni. 3-19 [?]).
+
+### Printed p. 536  (PDF 556)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 536.)*
+
+— in the Ṛk-saṃhitā this word is used in the sense of stotṛs who are intelligent and devout: *tad viprāso vipanyavaḥ* (Ṛ. Saṃ. 1-23-20 [?]); *avasā vipanyavaḥ* (Ṛ. Saṃ. 1-102-5 [?]); *vipanyavo dīdhyato manīṣā* (Ṛ. Saṃ. 2-20-1 [?]) — in all these ṛks it is understood as "those who praise in a special way", i.e. those who praise exceedingly. In the ṛk at hand the sacrificer speaks of praising the Aśvin deities. If the meaning of the Dictionary is followed, here the sacrificer says it by pride, in order to show his devotion to excess, and the excellence of his praise, that he boasts.
+
+***paṇiḥ*** — for the word *paṇi* Sāyaṇa has given the meaning "*vyayāsahiṣṇavo vaṇijaḥ*" ("the traders, the *vaiśyas*, who cannot bear to spend") in many places; and he cites also the opinion of Yāska: "*paṇir vaṇig bhavatīti yāskaḥ*" ("Yāska says *paṇi* is a trader"). The Nirukta-writers, explaining the meaning of this word, in citing
+
+> इन्द्रो विश्वान्बेकनाटाँ अहर्दृश उत क्रत्वा पणीँरभि ।
+
+> *indro viśvānbekanāṭā~ ahardṛśa uta kratvā paṇī~rabhi |*
+
+(Ṛ. Saṃ. 8-66-10 [?]) — have given, for the word *paṇi* there, the sense "*vaṇijaḥ*", those who carry on trade (Ni. 6-26 [?]); and "*paṇiḥ paṇanād vaṇik paṇyaṃ nenekti*" (Ni. 2-17 [?]) — because he trades, the *vaiśya* has the name *paṇi*; and this trader, they explain, always keeps his goods clean, fit for trade. Besides this, in some places Sāyaṇa has explained this word as "*paṇayaḥ iti lubdhakāḥ abudhyamānā yāgādīn akurvāṇā adānaśīlā asmacchatravaḥ*" — "the *paṇis*, the greedy, ignorant, not performing sacrifices and the like, not given to giving, our enemies". In the ṛk at hand two kinds of meaning are shown possible for this word. First, "*paṇādhāro droṇakalaśaḥ*" — the *droṇa*-vessel, which holds the Soma; or second, "*paṇir vaṇig lubdho 'yaṣvā hitavān niyatadhano dhanāḍhyo 'sya yaṣvā*" — a trader, greedy, not sacrificing, of fixed wealth, wealthy, "one who sacrifices to him [?]". The use of the word as a synonym of the *droṇakalaśa* is irregular. In most contexts the meanings are "one without rites", or "Asura". A race of Asuras called *paṇis* is mentioned in the second part of the Ṛk-saṃhitā [as read [?]].
+
+Sāyaṇa has given a story concerning the Asuras called *Paṇis*. The Asuras named Paṇi stole cows from the world of the deities and kept them hidden in a mountain cave. To find them, Indra sent the divine bitch (the female dog of the world of the gods) named Saramā. That bitch went to the Paṇis, brought them under her power with attractive words, and helped to bring the cows back. In this connection the conversation that took place between the Paṇis and Saramā …
+
+---
+
+**Progress note:** printed p. 536 (PDF 556) done — Sūkta 180 Ṛk 7 Special Topics (satya, vipanyāmahe, paṇiḥ; Paṇi–Saramā story begun; continues p. 537). Next: printed p. 537 (PDF 557). Open flags: refs [?]; review/doubts_v13.json.
