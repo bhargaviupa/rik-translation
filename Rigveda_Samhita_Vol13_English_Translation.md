@@ -10362,4 +10362,60 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ---
 
-**Progress note:** printed p. 392 (PDF 412) done — Sūkta 175 Ṛk 6 Special Topics (nivid; Brāhmaṇa passages continue p. 393). Next: printed p. 393 (PDF 413). Open flags: long Bṛhaddevatā/Aitareya Brāhmaṇa quotes, very garbled in print/reading [?]; refs [?]; review/doubts_v13.json.
+### Printed p. 393  (PDF 413)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+…in the form of sentences (*vākya*). All the portions of the sacrifice were put together by the deities into a single whole, and from that, the horse was born; therefore a rule is laid down that a gift of a horse must be made to the priest who recites these mantras. One must not go beyond any *pada* in the *nivid* mantras; if any *pada* is skipped, it makes a break in the sacrifice itself, and that brings harm to the sacrificer. The sentences in these mantras must not be joined together; nor may one put what precedes after, and what follows before. If this is done, a *saṃdhi*-fault arises in the sacrificial action; and the sacrificer too becomes bewildered. If two sentences are put together, the sacrificer's life too is shortened and he may come to death; hence, in mantra recitation, no confusion by mixing sentences should be made. Only the two mantras *predaṃ brahma*, *predaṃ kṣatram*, which are pure in nature and of the nature of divine speech, may be mixed: therefore the *brahma*-lustre and the *kṣatra*-lustre should be mixed. The *nivid* mantras are to be recited as three or four ṛks, and must not be neglected; the *nivid*, by its *brahma* function, makes the recitation of the praise more important.
+
+> एकां परिशिष्य तृतीयसवने निविदं दध्यात् । यद्द्वे परिशिष्य दध्यात्प्रजननं तदुपहन्याद्गर्भिस्त्रैजा व्यर्धयेत् तस्मादेकामेव परिशिष्य तृतीयसवने निविदं दध्यात् । न सूक्तेन निविदमतिपद्येत येन सूक्तेन निविदमतिपद्येत न तत्सूक्तं पुनरुपनिवर्तेत नाप्स्तुहमेव तत् । अन्यत्र द्दैवतं तच्छन्दसं सूक्तमाहृत्य तस्मिन्निविदं दध्यात् । मा प्र गाम पथो वयं मा यज्ञादिन्द्र सोमिनः । मान्तः स्थुर्नो अरातय इत्यरातीयत एव तदपहन्ति । यो यज्ञस्य प्रसाधनस्तन्तुर्देवेष्वाततः । तमाहुतं नशीमहीति । प्रजा वै तन्तुः प्रजामेवास्मा एतत्तन्तनोति । मनो न्वाहुवामहे नाराशंसेन सोमेनेति । मनसा वै यज्ञस्तायते मनसा क्रियते । सैव तत्र प्रायश्चित्तिः प्रायश्चित्तिः ॥
+
+> *ekāṃ pariśiṣya tṛtīyasavane nividaṃ dadhyāt | yad dve pariśiṣya dadhyāt prajananaṃ tad upahanyād garbhis traijā vyardhayet tasmād ekām eva pariśiṣya tṛtīyasavane nividaṃ dadhyāt | na sūktena nividam atipadyeta yena sūktena nividam atipadyeta na tat sūktaṃ punar upanivarteta nāpstuham eva tat | anyatra daivataṃ tacchandasaṃ sūktam āhṛtya tasmin nividaṃ dadhyāt | mā pra gāma patho vayaṃ mā yajñād indra sominaḥ | māntaḥ sthur no arātaya ity arātīyata eva tad apahanti | yo yajñasya prasādhanas tantur deveṣv ātataḥ | tam āhutaṃ naśīmahīti | prajā vai tantuḥ prajām evāsmā etat tantanoti | mano nv āhuvāmahe nārāśaṃsena somenety | manasā vai yajñas tāyate manasā kriyate | saiva tatra prāyaścittiḥ prāyaścittiḥ ‖* [as read; garbled in places: [?]]
+
+(Ai. Brā. 11-11 [?]). In the third pressing, one *ṛk* is to be left over and the *nivid* put with it; if two ṛks are left over and put together, the power of generation is destroyed; then, the power of conceiving is lost, and people become unable to bear an embryo. So, in a sūkta that has no *nivid* connected with it, one must not recite that sūkta without adding a *nivid*; once one has recited it, it is not proper to add it again afterwards. If this loss occurs, one should choose another sūkta that has the same deity and the same metre and add these *nivid* mantras to it. In such a case:
+
+### Printed p. 394  (PDF 414)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+> मा प्र गाम पथो वयं मा यज्ञादिन्द्र सोमिनः । मान्तः स्थुर्नो अरातयः ॥
+
+> *mā pra gāma patho vayaṃ mā yajñād indra sominaḥ | māntaḥ sthur no arātayaḥ ‖*
+
+(Ṛ. Saṃ. 10-57-1 [?]) — having first prayed "May we not go astray from the path; may we not be cut off from the sacrifice; may evil-minded powers not come to dwell among us", the sūkta accompanied by the *nivid* mantras is to be recited. Then the sacrificial work proceeds, free of any delusion, without obstacle, and the destruction of evil powers also results. The sacrificer recites: "*yo yajñasya prasādhanas tantur deveṣv ātataḥ tam āhutaṃ naśīmahi*" — "May the thread of the fruit of the sacrifice that is spread among the deities extend to us, the sacrificers" (Ṛ. Saṃ. 10-57-2 [?]); and offspring, as the thread, as the form of continuity of the family, is obtained for the sacrificers in unbroken succession.
+
+> तद्यदेतां पुरस्तात्सूक्तस्य निविदं दधाति प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद ॥
+
+> *tad yad etāṃ purastāt sūktasya nividaṃ dadhāti prajātyai | prajāyate prajayā paśubhir ya evaṃ veda ‖*
+
+(Ai. Brā. 10-2 [?]). For this reason the *hotṛ* gets offspring as the fruit of reciting the *nivid* mantras at the beginning of a sūkta. It is said elsewhere also that one who knows this obtains the continuity of progeny, and the other riches. It is learned from many places in the Ṛk-saṃhitā that the recitation of mantras, with faith that it gives the most excellent fruit, is traditional, when invoking the respective deities, in praising them: the nature of each deity, their power, the great acts they have accomplished, and so on. For example —
+
+> ताँ पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
+
+> *tāṃ pūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham |*
+
+(Ṛ. Saṃ. 1-89-3 [?]);
+
+> जुषेथां यज्ञं बोधतं हवस्य मे सत्तो होता निविदः पूर्व्या अनु ।
+
+> *juṣethāṃ yajñaṃ bodhataṃ havasya me satto hotā nividaḥ pūrvyā anu |*
+
+(Ṛ. Saṃ. 2-36-6 [?]);
+
+> किमु ष्विदस्मै निविदो भनन्तेन्द्रस्यावद्यं दिधिषन्त आपः ।
+
+> *kim u ṣvid asmai nivido bhananta indrasyāvadyaṃ didhiṣanta āpaḥ |*
+
+(Ṛ. Saṃ. 4-18-6 [?]);
+
+> वि यद्वाचं कीस्तासो भरन्ते शंसन्ति के चिन्निविदो मनानाः ।
+
+> *vi yad vācaṃ kīstāso bharante śaṃsanti ke cin nivido manānāḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 6-62-10 [?]) —
+
+in these and other places the greatness of the *nivid* mantras is praised.
+
+---
+
+**Progress note:** printed p. 394 (PDF 414) done — Sūkta 175 Ṛk 6 Special Topics (nivid; continues p. 395). Next: printed p. 395 (PDF 415). Open flags: Ai. Brā. nivid passages garbled [?]; Ṛg refs [?]; review/doubts_v13.json.
