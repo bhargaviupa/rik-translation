@@ -2332,4 +2332,44 @@ Addressing the Marut-gods, the time when the Mitra deities and the rest perform 
 
 ---
 
-**Progress note:** printed p. 102 (PDF 122) done — Sūkta 167 Ṛk 8 Special Topics complete up to the end of p. 102 (grammar note follows on p. 103). Next: printed p. 103 (PDF 123). Open flags: small-type numerals [?]; Ṛk 8 Saṃhitā/bhāṣya doubtful words; the Kannada gloss of dātivāra is rendered tentatively; review/doubts_v13.json.
+### Printed p. 103  (PDF 123)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *pānti* (root *pā rakṣaṇe*; *laṭ* 3rd plural; as it is pāda-initial no *nighāta*; *tip* being *pit*, the root-accent remains). *avadyāt* (root *vada vyaktāyāṃ vāci*; with *nañ* as *upapada*, *avadyapaṇyavaryā…* Pā. 3-1-101 gives *yat* by *nipātana*, ending in *yad*; ablative singular). *cayate* (root *ciñ cayane*, of the *curādi* class; because of the *i*-ness *ṇic* is optional by its capacity; by *vyatyaya* *jha* → *ata*; *śap*; guṇa and *ay*-substitution after the *nimitta*; as it is pāda-initial no *nighāta*; the root-accent remains). *apraśastān* (root *śaṃsu stutau*; *niṣṭhā* in the passive; *nañ-tatpuruṣa*; *tatpuruṣe tu…* Pā. 6-2-2 [?] gives the first member, the indeclinable, its own accent). *cyavante* (root *cyuṅ gatau*; *laṭ* 3rd singular; *nighāta* after a *tiṅanta*). *acyutā* (*na cyutāni*; *nañ-tatpuruṣa*; as before the *nañ*-accent remains; *śeśchandasi bahulam* Pā. 6-1-70 drops *śi* of the neuter plural). *vavṛdhe* (root *vṛdhu vṛddhau*; *chandasi luṅlaṅliṭaḥ* gives *liṭ* in the present sense; 3rd singular; since it is at the beginning of a pāda no *nighāta*; final acute by the suffix). *dātivāraḥ* (*bahuvrīhi*; *bahuvrīhau prakṛtyā pūrvapadam* gives the first member's accent). ‖ 8 ‖
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> नही नु वो मरुतो अन्त्यस्मे आरात्ताच्चिच्छवसो अन्तमापुः ।
+> ते धृष्णुना शवसा शूशुवांसोऽर्णो न द्वेषो धृषता परि ष्ठुः ॥ ९ ॥
+
+> *nahī nu vo maruto antyasme ārāttāccicchavaso antamāpuḥ |*
+> *te dhṛṣṇunā śavasā śūśuvāṃso 'rṇo na dveṣo dhṛṣatā pari ṣṭhuḥ ‖ 9 ‖*
+
+### Printed p. 104  (PDF 124)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)*
+
+**॥ पदपाठः ॥**
+
+> नहि । नु । वः । मरुतः । अन्ति । अस्मे इति । आरात्तात् । चित् । शवसः । अन्तम् । आपुः ।
+> ते । धृष्णुना । शवसा । शूशुवांसः । अर्णः । न । द्वेषः । धृषता । परि । स्थुः ॥ ९ ॥
+
+> *nahi | nu | vaḥ | marutaḥ | anti | asme iti | ārāttāt | cit | śavasaḥ | antam | āpuḥ |*
+> *te | dhṛṣṇunā | śavasā | śūśuvāṃsaḥ | arṇaḥ | na | dveṣaḥ | dhṛṣatā | pari | sthuḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वः शवसो युष्मत्सम्बन्धिनो बलस्यान्तमवसानमन्त्यैकान्तिके [?] आरात्ताच्चिद्दूरादपि । यद्वा । चिदिति कुत्सायाम् । अत्यन्तदूरात् । अस्मे अस्मासु मध्य एकेऽपि नु क्षिप्रं नह्याप्नुवन्ति । नैव खलु प्राप्नुवन्ति । संनिधानासंनिधौ च न प्राप्नुवन्तीत्यर्थः । अथ परोक्षे [?] प्राप्तबलवत्त्वमाह । ते खलु मरुतो धृष्णुना धर्षकेण शवसा बलेन शूशुवांसो वर्धमानाः अत एव धृषता पराभिभावकेन सामर्थ्येन द्विषो द्वेष्टॄन् परि ष्ठुः । परिभवन्ति । वशीकुर्वन्ति । तत्र दृष्टान्तः । अर्णो न । उदकमिव । यथोदकं स्वनिरोधि रजआदिकमभिभवति तद्वत् । यस्मादेवं तस्मात्तव शवसोऽन्तं नापुः ॥
+
+*Gist:* None among us has reached, near or far, the limit of your strength; for you, grown in bold strength, overcome your enemies, as water overwhelms dust and the like.
+
+**Pratipadārtha.** *te* — those Marut-gods; *dhṛṣṇunā* — overpowering; *śavasā* — with their own strength; *śūśuvāṃsaḥ* — increasing; *dhṛṣatā* — (therefore) by their capacity for overcoming; *dviṣaḥ* — the haters; *arṇaḥ na* — as the water of the sea covers dust and the like; *pari ṣṭhuḥ* — they surround (they overcome); (therefore) (*he*) *marutaḥ* — O Marut-gods; *vaḥ* — your; *śavasaḥ* — of strength; *antam* — the end; *anti* — near; (or) *ārāttāt cit* — from afar; *asme* — (anyone in the midst of) us; *nu* — quickly; *nahi āpuḥ* — do not reach at all.
+
+**Bhāvārtha.** The Marut-gods, increasing with their own strength, overwhelming the haters, bring all of them into their power, as the water of the sea brings dust and such things into its own power; therefore no one can know the end (the limit) of their strength, either near or from afar.
+
+**English Translation (as printed):** None of us, Maruts, have attained, either nearly or remotely the limit of your strength: those (Maruts), increasing in energy and vigour, overwhelm their enemies like an ocean.
+
+---
+
+**Progress note:** printed p. 104 (PDF 124) done — Sūkta 167 Ṛk 8 complete; Ṛk 9: Saṃhitā to English done. Next: printed p. 105 (PDF 125): Ṛk 9 Special Topics. Open flags: small-type numerals [?]; review/doubts_v13.json.
