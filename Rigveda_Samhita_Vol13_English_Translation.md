@@ -5677,4 +5677,58 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 
 ---
 
-**Progress note:** printed p. 236 (PDF 256) done — Sūkta 172 complete (3 ṛks, pp. 226–236); Sūkta 173 (13 ṛks) heading and anuvāda written. Next: printed p. 237 (PDF 257): Sūkta 173 heading block and Ṛk 1. Open flags: ref numerals [?]; review/doubts_v13.json.
+### Printed p. 237  (PDF 257)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 13".)*
+
+**॥ ॐ ॥** Sūkta—173
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 173 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 13, 14, 15 ‖
+Number of ṛks in the Sūkta: 13 · Ṛṣi: Agastya · Devatā: Indra · Chandas: *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> गायत्साम नभन्यं यथा वेरर्चाम तद्वावृधानं स्वर्वत् ।
+> गावो धेनवो बर्हिष्यदब्धा आ यत्सद्मानं दिव्यं विवासान् ॥ १ ॥
+
+> *gāyatsāma nabhanyaṃ yathā verarcāma tadvāvṛdhānaṃ svarvat |*
+> *gāvo dhenavo barhiṣyadabdhā ā yatsadmānaṃ divyaṃ vivāsān ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> गायत् । साम । नभन्यम् । यथा । वेः । अर्चाम । तत् । वावृधानम् । स्वःऽवत् ।
+> गावः । धेनवः । बर्हिषि । अदब्धाः । आ । यत् । सद्मानम् । दिव्यम् । विवासान् ॥ १ ॥
+
+> *gāyat | sāma | nabhanyam | yathā | veḥ | arcāma | tat | vāvṛdhānam | svaḥ 'vat |*
+> *gāvaḥ | dhenavaḥ | barhiṣi | adabdhāḥ | ā | yat | sadmānam | divyam | vivāsān ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र नभन्यं नभस्यं नभसि भवं नभोव्यापिनं हिंसकं वा राक्षसादिकस्य । नभतिर्वधकर्मा नभत्यर्दतीति वधकर्मसु गणनात् । तादृशं साम हे इन्द्र यथा वेः येन प्रकारेण वेत्सि तथा गायत् । गायत्युद्गाता । तत्तस्मात्कारणाद्वावृधानं वर्धमानं स्वर्वत् फलभूतेन स्वर्गेण तद्वच्छस्त्रं यथा वेः तथार्चाम । पूजयाम । शंसाम इत्यर्थः । स्तुतशमनुशंसतीति न्यायात् । यद्वा । तदुक्तलक्षणं साम वावृधानं सर्वत्र यथा भवति तथार्चाम । किंच धेनवो दोग्ध्र्योऽदब्धा अहिंसिता गावो यद्बर्हिषि सद्मानं सीदन्तं दिव्यं दिवि भवमिन्द्रं त्वामा विवासान् । विवासतिः परिचरणकर्मा । आगत्य परिचरन्ति क्षीरं दुहन्ति तथार्चाम ॥ [reading doubtful in places]
+
+*Gist:* As the Udgātṛ sings the sky-reaching Sāman that you know, so we praise it, a Sāman that grows and confers heaven, as the unharmed cows serve you, the heavenly Indra, seated on our sacred grass.
+
+**Pratipadārtha.** *(he indra)* — O Indra; *nabhanyam* — sky-pervading (harmful to Rākṣasas and the like); *sāma* — the Sāman; *yathā* — in what manner; *veḥ* — you know (it); *(tathā)* — in the same manner; *gāyat* — (the *udgātṛ*) sings; *tat* — for that reason; *vāvṛdhānam* — which grows; *svarvat* — conferring the fruit of heaven; *sāma* — the Sāman; *arcāma* — (as you are worthy of acceptance) we offer (praise); [*or* *svarvat* — heaven-possessing; *tat* — that Sāman; *vavṛdhānam* — as it prospers everywhere; *arcāma* — we praise]; *(kiṃca* — and*)* *dhenavaḥ* — milk-giving; *adabdhāḥ* — unharmed; *gāvaḥ* — cows; *barhiṣi* — on the *kuśa* grass; *sadmānam* — seated; *divyam* — heavenly; *yat* — as; *ā vivāsān* — they come and serve; *(tathā arcāma* — so we worship*)*.
+
+**Bhāvārtha.** O Indra, the Sāman that the *udgātṛ* priests sing is worthy of your acceptance and pervades the sky; we praise that very Sāman as the means of prosperity, conferring heaven; and, as unharmed milk-giving cows serve you, the heavenly one, seated on the *kuśa* grass in our sacrificial hall, with their milk, so we worship you.
+
+### Printed p. 238  (PDF 258)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**English Translation (as printed):** The priests chant the heaven-ascending Sama, as you know (it) for such (praise) do we venerate as the cause of increase and conferrer of heaven, whence the eows [sic] unimpeded, do honour to the divine (Indra), who is seated on the sacred grass.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+Sāyaṇa states that the present sūkta, 1-173, belongs to the *Marutvatīya* litany (*śastra*) which the *hotṛ* has to recite at the time of the midday pressing, saying "*samūḍhe daśarātre tṛtīye chandome marutvatīye śastre etat sūktam*" ("in the *samūḍha* ten-day rite, on the third, *chandoma*, day, in the Marutvatīya litany, this sūkta"). To know what place this sūkta has in that litany, one must first know the nature of the Marutvatīya litany. A prior story explaining the nature of this litany is cited in the Aitareya Brāhmaṇa. If one examines the section on the Marutvatīya litany, the Marut-gods, having shown their trust, appear as a cause of faith to Indra, and Indra desires that, along with them, a share in the oblation offered to him be obtained also.
+
+> इन्द्रो वै वृत्रं हनिष्यन्त्सर्वा देवता अब्रवीदनु मोपतिष्ठध्वमुप मा ह्वयध्वमिति तथेति तं हनिष्यन्त आद्रवन्नोऽन्वेन्नामं वै हनिष्यन्ते आद्रवन्ति हन्तेमान् भीषया इति [?] तानभिप्राश्चसीत् [?] तस्य श्वसथादीषमाणा विश्वे देवा अद्रवन्मरुतो हैनं नाजहुः प्रहर भगवो जहि वीरयस्वेत्येवैनमेतां वाचं वदन्त उपातिष्ठन्त ॥ [as read]
+
+> *indro vai vṛtraṃ haniṣyantsarvā devatā abravīdanu mopatiṣṭhadhvamupa mā hvayadhvamiti tatheti taṃ haniṣyanta ādravanno 'nvennāmaṃ vai haniṣyante ādravanti hantemān bhīṣayā iti [?] tānabhiprāścasīt [?] tasya śvasathādīṣamāṇā viśve devā adravanmaruto hainaṃ nājahuḥ prahara bhagavo jahi vīrayasvetyevainametāṃ vācaṃ vadanta upātiṣṭhanta ‖ [as read]*
+
+(Ai. Brā. 3-20 [?]).
+
+---
+
+**Progress note:** printed p. 238 (PDF 258) done — Sūkta 173 Ṛk 1 through the start of Special Topics (continues p. 239). Next: printed p. 239 (PDF 259). Open flags: Aitareya Brāhmaṇa quotation garbled [?]; ref numerals [?]; review/doubts_v13.json.
