@@ -5854,5 +5854,29 @@
   ],
   "note": "Rg refs 10-61-4, 10-39-12 doubtful; Max Muller quote sic marks; 1-157-1 ok",
   "answer": ""
+ },
+ {
+  "pdf": 595,
+  "printed": 575,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "all Rg/Ai.A./Sa.Br./Bha.U./Ni. reference numerals small type [?]; ghosa citations as read",
+  "answer": ""
+ },
+ {
+  "pdf": 596,
+  "printed": 576,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; some grammar wording as read",
+  "answer": ""
  }
 ]
