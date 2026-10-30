@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 693 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678).
-Next page: p. 694 (PDF 710).
+Done through: p. 694 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678).
+Next page: p. 695 (PDF 711).
 Open items:
+- p. 694: 'Vāj. Saṃ. 3-?' printed (ವಾಲ. ೩-೮) = Vāl. 3-8 (label corrected); (ಲ-ಲ೫-೧?) last read bold ೨ = 8-85-12.
 - p. 693: Paṃ. Brā. printed 19-7 (file 14-); Śuṣṇa paren (4-16-12, …) continues on print p. 694.
 - p. 692: (7-19-5) added after 'forts of Vṛtra'; (೧೦-೬೭-೬) read 10-67-6 (thin ೭) - p. 689's (೧೦-೬?-೬) written 10-62-6 may be the same glyph (recheck on the check page).
 - p. 691: thunder ref split (1-80-12) and (1-32-13) added; forts: print has (7-19-5, 8-82-2) after 'ninety-nine' and (10-89-7) after 'pierced' (file keeps one paren); (8-85-?) last glyph read as ೨ (check); 8-17-9 thin ೭.
