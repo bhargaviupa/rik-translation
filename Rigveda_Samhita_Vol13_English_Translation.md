@@ -5450,4 +5450,82 @@ It is well known that the vehicle of the Marut-gods and the manner of their move
 
 ---
 
-**Progress note:** printed p. 228 (PDF 248) done — Sūkta 172 Ṛk 1 through Special Topics (continues p. 229). Next: printed p. 229 (PDF 249). Open flags: Ṛg quotation on p. 228 partly garbled [?]; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 229  (PDF 249)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 12"; the Special Topics of Ṛk 1 continue.)*
+
+(*sudānavaḥ* continued) — used as an epithet; in some places *rasadātāraḥ* ("givers of sap") means those who send down excellent rain-water.
+
+> पिन्वन्त्यपो मरुतः सुदानवः पयो घृतवद्विदथेष्वाभुवः ।
+
+> *pinvanty apo marutaḥ sudānavaḥ payo ghṛtavad vidatheṣv ābhuvaḥ |*
+
+(Ṛ. Saṃ. 1-64-6). In many places it is an epithet of the Marut-gods, and rain-water is prayed for from them. For the Marut-gods the epithet *jīradānu* also exists. In both senses the generosity of the deities is shown. But the generosity indicated by the word *sudānavaḥ* may be a quality of the sacrificer too, apart from the nature of the deities such as the Maruts:
+
+> इषं पृञ्चन्ता सुकृते सुदानव आ बर्हिः सीदतं नरा ।
+
+> *iṣaṃ pṛñcantā sukṛte sudānava ā barhiḥ sīdataṃ narā |*
+
+(Ṛ. Saṃ. 1-47-9 [?])
+
+> सेदग्ने अस्तु सुभगः सुदानुर्यस्त्वा नित्येन हविषा य उक्थैः ।
+
+> *sed agne astu subhagaḥ sudānur yas tvā nityena haviṣā ya ukthaiḥ |*
+
+(Ṛ. Saṃ. 4-4-8 [?]). In ṛks like these, *sudānuḥ* is an epithet of the sacrificer, who is an excellent giver. In ṛks such as 10-[?]-2, the word *dānu* may be taken to mean the *soma* juice. Besides,
+
+> उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः ।
+
+> *uttarā sūradharaḥ putra āsīd dānuḥ śaye sahavatsā na dhenuḥ |*
+
+(Ṛ. Saṃ. 1-32-9)
+
+> सहदानुं पुरुहूत क्षियन्तमहस्तमिन्द्र सं पिणक्कुणारुम् ।
+
+> *sahadānuṃ puruhūta kṣiyantam ahastam indra saṃ piṇak kuṇārum |*
+
+(Ṛ. Saṃ. 2-30-8). In ṛks like these *dānu* means "the Asura woman, mother of Vṛtra". But when *sudānavaḥ* is used, the meaning is "generous givers"; in the present ṛk it is an epithet of the Marut-gods, and their generosity is shown. The special description of this was given when the word *jīradānu* was explained in the ṛk of the 173rd sūkta [as printed].
+
+***yuṣmākaṃ saṃbandhī citraḥ sa āgamanaḥ ūtī rakṣaṇāya iṣṭatarpaṇāya vā bhavatu*** — "may your coming, worthy of honour, be for the protection of us, or for the fulfilment of our desires": thus it is wished. By "*tadāgamanaṃ śīghram astu abhimataprada ca astu*", the prayer is understood that the Marut-gods come quickly and fulfil our desired objects.
+
+***ūtī*** — *ūtyai rakṣaṇāya iṣṭatarpaṇāya vā*: the word *ūti* is explained by Yāska as "*ūtir avanāt*" — from the root *ava*, conveying the meaning "protect", the word *ūti* has the meaning "protection". And in
+
+> आ त्वा रथं यथोतये सुम्नाय वर्तयामसि ।
+> तुविकूर्मिमृतीषहमिन्द्र शविष्ठ सत्पते ॥
+
+> *ā tvā rathaṃ yathotaye sumnāya vartayāmasi |*
+> *tuvikūrmim ṛtīṣaham indra śaviṣṭha satpate ‖*
+
+(Ṛ. Saṃ. 8-68-1)
+
+### Printed p. 230  (PDF 250)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 172".)*
+
+in this ṛk *ūtaye* is explained as "*avanāya rakṣaṇāya*": here, in the second meaning, "*iṣṭatarpaṇāya vā*" shows the manner of the protection.
+
+***ahibhānavaḥ*** — Sāyaṇa explains this word as *ahīyamānaprakāśāḥ* — "those who have splendour that is not diminished in the least and is growing". But the English translators, taking the word *ahi* as "serpent", mean "those who have brightness like serpents". Their translation is:
+
+*O Maruts, you bounteous givers, shining like snakes.* [S. B. E. XXXII. P. 293].
+
+Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have the brightness of the lightning that resides within the cloud. The Nirukta-writer, explaining the word *ahigopāḥ*, says
+
+> अहिगोपा अतिष्ठन् । अहिना गुप्ताः । अहिरयनादेत्यन्तरिक्षे ।
+
+> *ahigopā atiṣṭhan | ahinā guptāḥ | ahir ayanād ety antarikṣe |*
+
+(Ni. 2-17 [?]). They have explained *ahi* as "cloud"; so, if here too the meaning "cloud" is given for *ahi*, it cannot be wrong. How?
+
+> ते क्षोणीभिररुणेभिर्नाञ्जिभी रुद्रा ऋतस्य सदनेषु वावृधुः ।
+> निमेघमाना अत्येन पाजसा सुश्चन्द्रं वर्णं दधिरे सुपेशसम् ॥
+
+> *te kṣoṇībhir aruṇebhir nāñjibhī rudrā ṛtasya sadaneṣu vāvṛdhuḥ |*
+> *nimeghamānā atyena pājasā suścandraṃ varṇaṃ dadhire supeśasam ‖*
+
+(Ṛ. Saṃ. 2-34-13). In ṛks of this kind the dwelling of the Marut-gods in the clouds — being within the clouds — and their shining with the lustre of gold, are described. Therefore the description given for the epithet *ahibhānavaḥ* in the present ṛk is like that in the ṛk above.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *yāmaḥ* (root *yā prāpaṇe*; Uṇādi affix *man*; the first syllable is acute since it is *n*-marked); *ūtī* (by "*ūtiyūtijūti…*", Pā. Sū. 3-3-97 [?] the word is formed irregularly from the root *av* with the affix *ktin* and the acute; before the dative singular, the lengthening to the preceding similar vowel by "*supāṃ sulak…*", Pā. Sū. 7-1-39 [?]).
+
+---
+
+**Progress note:** printed p. 230 (PDF 250) done — Sūkta 172 Ṛk 1 Special Topics and first grammar notes (continues p. 231, with Ṛk 1 close and Ṛk 2). Next: printed p. 231 (PDF 251). Open flags: ref numerals [?] on pp. 229–230; review/doubts_v13.json.

@@ -1750,5 +1750,29 @@
   ],
   "note": "quotes 6-66-10/11 garbled readings; epithet list 'vishvaih vishvaasah vishvayomarut'; zoom",
   "answer": ""
+ },
+ {
+  "pdf": 249,
+  "printed": 229,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.229: 1-64-6, 1-47-9?, 4-4-8?, 10-?-2 dAnu, 1-32-9, 2-30-8, 8-68-1",
+  "answer": ""
+ },
+ {
+  "pdf": 250,
+  "printed": 230,
+  "crop": [
+   0.2,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.230: Ni. 2-17? ahigopaah; 2-34-13; SBE XXXII p.293",
+  "answer": ""
  }
 ]
