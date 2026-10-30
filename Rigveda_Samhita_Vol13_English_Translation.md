@@ -15236,4 +15236,49 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 
 ---
 
-**Progress note:** printed p. 546 (PDF 566) done — Sūkta 180 Ṛk 9 Special Topics (Viṣṇu's head, Aśvins; ŚB 14-1-1, TA 5-1; continues p. 547). Next: printed p. 547 (PDF 567). Open flags: refs [?]; ŚB/TA quotes as read [?]; review/doubts_v13.json.
+### Printed p. 547  (PDF 567)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 547.)*
+
+> … प्रवर्ग्यस्य प्रवर्ग्यत्वम् । यद्घ्रां [?] इत्यपतत् । तद्घर्मस्य घर्मत्वम् । महतो वीर्यमपस्रदिति । तन्महावीरस्य वीरत्वम् । यदस्याः समभरन्त सम्राजः संसाम्राट्त्वम् [?] । तर्ग्स्तुतं [?] देवतास्त्रेधा व्यगृह्णत । अग्निः प्रातःसवनम् । इन्द्रो माध्यन्दिनꣳ सवनम् । विश्वेदेवास्तृतीयसवनम् । तेनापशीर्ष्णा यज्ञेन यजमानाः । नाशिषोऽवारुन्धत । न सुवर्गं लोकमभ्यजयन् । ते देवा अश्विनावब्रुवन् । भिषजौ वै स्थः । इदं यज्ञस्यैशिरः [?] प्रतिधत्तमिति । तावब्रूतां वरं वृणावहै । ग्रह एव नावत्रापि गृह्यतामिति । ताभ्यामेतमाश्विनमगृह्णन् । तावेतद्यज्ञस्य शिरः प्रत्यधत्ताम् । यत्प्रवर्ग्यः । तेन सशीर्ष्णा यज्ञेन यजमानाः । आवाशिषोऽरुन्धत । …. अभि सुवर्गं लोकं जयति । तस्मादेष आश्विनप्रवयो इव । यत्प्रवर्ग्यः ॥
+
+> *… pravargyasya pravargyatvam | yadghrāṃ [?] ityapatat | tadgharmasya gharmatvam | mahato vīryamapasraditi | tanmahāvīrasya vīratvam | yadasyāḥ samabharanta samrājaḥ saṃsāmrāṭtvam [?] | targstutaṃ [?] devatāstredhā vyagṛhṇata | agniḥ prātaḥsavanam | indro mādhyandinam̐ savanam | viśvedevāstṛtīyasavanam | tenāpaśīrṣṇā yajñena yajamānāḥ | nāśiṣo 'vārundhata | na suvargaṃ lokamabhyajayan | te devā aśvināvabruvan | bhiṣajau vai sthaḥ | idaṃ yajñasyaiśiraḥ [?] pratidhattamiti | tāvabrūtāṃ varaṃ vṛṇāvahai | graha eva nāvatrāpi gṛhyatāmiti | tābhyāmetamāśvinamagṛhṇan | tāvetadyajñasya śiraḥ pratyadhattām | yatpravargyaḥ | tena saśīrṣṇā yajñena yajamānāḥ | āvāśiṣo 'rundhata | …. abhi suvargaṃ lokaṃ jayati | tasmādeṣa āśvinapravayo iva | yatpravargyaḥ ‖*
+
+(Tai. Ā. 5-1-1 to 6 [?]; as read, doubtful in places [?]) — after the head of Viṣṇu, who is of the nature of the sacrifice, had been cut off, as in the story quoted above from the Śatapatha Brāhmaṇa, the sacrificial body that remained was divided by the deities into three parts. Then Agni took the morning pressing (*prātaḥsavana*), Indra the midday pressing (*mādhyandina-savana*), and the Viśvedevas the third pressing. But by that sacrifice, which had no head, they could obtain neither prosperity nor the heavenly world. Then they said to the Aśvin deities, "You are the physicians of the deities; unite again this head of the sacrifice." They asked for a boon: "Let a cup (*graha*) be taken for us two here also." The deities agreed, and the Aśvins fixed the head of the sacrifice again; hence the *āśvina* cup is taken. Thus the Aśvins became the cause of the sacrifice and received a share of it.
+
+> मधोः पिबतमश्विनेत्याश्विनावेवैतदाहाश्विनौ ह्येतद्यज्ञस्य शिरः प्रत्यधत्ताम् । तावेवैतत्प्रीणात्यवरꣳ स्वाहाकारं करोति ॥
+
+> *madhoḥ pibatamaśvinetyāśvināvevaitadāhāśvinau hyetadyajñasya śiraḥ pratyadhattām | tāvevaitatprīṇātyavaram̐ svāhākāraṃ karoti ‖*
+
+(Śa. Brā. 14-3-2-16 [?]) — in such sentences of the *śruti*, and in Tai. Saṃ. 6-4-9 [?], the same matter is told, and the greatness of the Aśvin deities is praised.
+
+***syandrā*** — the word *syandra* is read among the names of motion (*gati*), of action (*karma*) and also of strength (*bala*) (Ni. 3-9 [?]). It describes the beauty of motion of the Aśvin deities. There are many mantras that describe their coming and its beauty. For example:
+
+### Printed p. 548  (PDF 568)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 548.)*
+
+> आ तेन यातं मनसो जवीयसा रथं यं वामृभवश्चक्रुरश्विना ।
+> यस्य योगे दुहिता जायते दिव उभे अहनी सुदिने विवस्वतः ॥
+
+> *ā tena yātaṃ manaso javīyasā rathaṃ yaṃ vāmṛbhavaścakruraśvinā |*
+> *yasya yoge duhitā jāyate diva ubhe ahanī sudine vivasvataḥ ‖*
+
+(Ṛ. Saṃ. 10-39-12 [?]) — in such ṛks it is said that, as the Aśvins sit in the chariot which the Ṛbhus have built for them alone and are ready to travel, at once the goddess Uṣas, who spreads beauty over the whole world, and the day and night arise. The causes of that beauty — the Aśvin deities — come, with a speed exceeding that of the mind, towards the sacrificial place; in this description the two qualities that are suggested by the word *syandrā* are also indicated.
+
+***sūribhyaḥ*** — the meaning of this word is "the ṛṣis, poets and intelligent ones who possess the power of vision that grasps what lies beyond the senses". The special meanings of this word and the special uses of it have been told earlier in the special topics of the sixth ṛk of this same sūkta.
+
+***nāsatyā*** — since the Aśvin deities have the synonyms *dasrā* and *nāsatyā*, it has also been told earlier which divine quality of theirs these words show.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***vahethe*** — root *vaha prāpaṇe*; *laṭ*, second person dual; because of *yad*-connection no *nighāta*; the suffix being *anudātta* by "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]), the root accent remains.
+- ***syandrā*** — root *syandū prasravaṇe*; by the force of the statement "*bahulam*" the *Uṇādi* suffix *ran*; in the vocative dual, by "*supāṃ sulak…*" *ā* is substituted for the case-ending; being in the vocative, the *nighāta* accent occurs.
+- ***yāthaḥ*** — root *yā prāpaṇe*; *laṭ*, second person dual; *tiṅ*-final *nighāta* accent.
+- ***dhattam*** — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ*, second person dual; being in *pādādi* position, no *nighāta*; by the suffix accent the final syllable is *udātta*.
+- ***svaśvyam*** — *śobhanānām aśvānāṃ samūhaḥ svaśvyam*; the suffix *yat* in the sense of "collection"; by "*yato 'nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the *ādyudātta* accent.
+- ***nāsatyā*** — by "*supāṃ sulak…*" (Pā. Sū. 7-1-39 [?]) *ā* for the dual of the vocative; being in *pādādi* position, the vocative *nighāta* does not occur; by "*āmantritasya ca*" (Pā. Sū. 6-1-198 [?]) the *ādyudātta* accent.
+
+---
+
+**Progress note:** printed p. 548 (PDF 568) done — Sūkta 180 Ṛk 9 Special Topics and grammar (syandrā etc.); Ṛk 9 grammar continues? Next: printed p. 549 (PDF 569) — check for end of Ṛk 9 grammar (rayiṣācaḥ, syāma) and Ṛk 10 (last of Sūkta 180). Open flags: refs [?]; TA quote [?]; review/doubts_v13.json.
