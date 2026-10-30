@@ -4888,4 +4888,80 @@ The eternal companionship between Indra and the Marut-gods, the relation of king
 
 ---
 
-**Progress note:** printed p. 210 (PDF 230) done — Sūkta 171 Ṛk 3 complete; Ṛk 4 through Special Topics (continues p. 211). Next: printed p. 211 (PDF 231). Open flags: Śatapatha quotation on p. 210 garbled [?]; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 211  (PDF 231)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Special Topics of Ṛk 4 continue.)*
+
+(*Bṛhaspati* continued) — with the Viśvedevas; thus, each forming a separate group, they came together. In this story the close relation, in which Indra joined with the Marut-gods and made companionship with them, is told. Besides, in many places it is said that Indra is the king and the Marut-gods are the subjects. For example, in the same Śatapatha Brāhmaṇa:
+
+> क्षत्रं वा इन्द्रो विशो मरुतो विशा वै क्षत्रियो बलवान् भवति ।
+
+> *kṣatraṃ vā indro viśo maruto viśā vai kṣatriyo balavān bhavati |*
+
+(Śat. Brā. 4-3-1-6 [?]). Indra is the *kṣatra*, the ruling power, the king; the Marut-gods are the subjects (*viśaḥ*). By the cooperation of the subjects the king becomes strong; and with the help of the Marut-gods Indra's valour gains increase: this is indicated. Because such a close relationship and companionship exists, the Śrutis show the way in which oblations are offered with Indra and the Marut-gods together as the objects of the invocation. And
+
+> स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ।
+
+> *sa no marudbhir vṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ |*
+
+(Ṛ. Saṃ. 1-171-6 [?]). With such ṛks, Indra and the Marut-gods are together invoked and offered oblations; and, describing this companionship, the Bṛhaddevatā says
+
+> मरुद्भिः सह यत्रेन्द्रो मरुत्वांस्तत्र सोऽभवत् ।
+
+> *marudbhiḥ saha yatrendro marutvāṃs tatra so'bhavat |*
+
+(Bṛ. Dev. 5-56 [?]). By sentences of this kind the epithet indicating relation with these deities is explained. But in the present sūkta, the discord between them and Indra's anger have been indicated as an effect of the dialogue between Indra and the Marut-gods. The cause of this anger has been shown earlier, in the following way:
+
+> क्व स्या वो मरुतः स्वधासीद्यन्मां एकं समधत्ताहिहत्ये ।
+> अहं ह्युग्रस्तविषस्तुविष्मान्विश्वस्य शत्रोरनमं वधस्नैः ॥
+
+> *kva syā vo marutaḥ svadhāsīd yan māṃ ekaṃ samadhattāhihatye |*
+> *ahaṃ hy ugras taviṣas tuviṣmān viśvasya śatror anamaṃ vadhasnaiḥ ‖*
+
+(Ṛ. Saṃ. 1-165-8). "O Marut-gods, to say that you did the slaying of the serpent (Vṛtra) is false. Where was that power of yours? My own power, being unique, did not seek the help of any other power when Vṛtra was slain; I alone am of terrible and wonderful power and greatness": thus, in a spirit of contempt for the Marut-gods, he expresses his anger. Here that anger is indicated. It is well known that Indra received the help of the Marut-gods at the time of killing Vṛtra. Even so, when the Marut-gods, understanding the matter, asked Indra that they too should be given a share in the oblation intended for Indra, Indra said that he had had no help at all from them, and that he had himself killed all his enemies by his own power.
+
+### Printed p. 212  (PDF 232)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+The Nirukta-writers, pointing out this very matter, speak thus:
+
+> अगस्त्य इन्द्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सां चकार । स इन्द्र एत्य परिदेवयाञ्चक्रे ।
+
+> *agastya indrāya havirnirupya marudbhyaḥ saṃpraditsāṃ cakāra | sa indra etya paridevayāñcakre |*
+
+(Ni. 1-[?]). When the sage Agastya prepared an oblation intended for Indra, and wished to offer to the Marut-gods a share in it, Indra objected in this matter without any expectation (of it); so, understanding the context, the Nirukta-writers explain this part, citing the ṛk
+
+> न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतम् । अन्यस्य चित्तमभि संचरेण्यमुताधीतं विनश्यति ॥
+
+> *na nūnamasti no śvaḥ kastadveda yadadbhutam | anyasya cittamabhi saṃcareṇyamutādhītaṃ vinaśyati ‖*
+
+(Ṛ. Saṃ. 1-170-1). With the force of that anger diminished, so that it may not afflict him, and with the aim that the Marut-gods too should have their rightful share of the oblation, the Marut-gods are here addressed and entreated. After such conciliatory words, Indra's friendship grew as before and he himself gave his share of the oblation to the Marut-gods. The sage describes this matter in the eighth maṇḍala, praising thus:
+
+> वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः ।
+> मरुद्भिरिन्द्र सख्यं ते अस्त्वथेमा विश्वाः पृतना जयासि ॥
+
+> *vṛtrasya tvā śvasathād īṣamāṇā viśve devā ajahur ye sakhāyaḥ |*
+> *marudbhir indra sakhyaṃ te astv athemā viśvāḥ pṛtanā jayāsi ‖*
+
+(Ṛ. Saṃ. 8-96-7 [?]). "O Indra, your friendship with the Marut-gods is famous. Give them also a share of your oblation, and conquer all your enemies with their help": thus the prayer is made.
+
+***īṣamāṇaḥ*** — the root *īṣa* is used in the senses of motion, of violence, and of non-seeing (*adarśana*); in everyday usage it is not found, but in the Ṛk Saṃhitā this word is used only in the sense of motion. For example:
+
+> सम्यक्स्रवन्ति सरितो न धेना अन्तर्हृदा मनसा पूयमानाः ।
+> एते अर्षन्त्यूर्मयो घृतस्य मृगा इव क्षिपणोरीषमाणाः ॥
+
+> *samyak sravanti sarito na dhenā antar hṛdā manasā pūyamānāḥ |*
+> *ete arṣanty ūrmayo ghṛtasya mṛgā iva kṣipaṇor īṣamāṇāḥ ‖*
+
+(Ṛ. Saṃ. 4-58-6). In this ṛk the meaning of this word is clear: as the deer, frightened of the hunter, run far away and hide themselves, both movement and non-visibility are indicated by the simile. In the same way
+
+> वृत्रस्य त्वा श्वसथादीषमाणा विश्वे देवा अजहुर्ये सखायः ।
+
+> *vṛtrasya tvā śvasathādīṣamāṇā viśve devā ajahurye sakhāyaḥ |*
+
+(Ṛ. Saṃ. 8-96-7 [?]).
+
+---
+
+**Progress note:** printed p. 212 (PDF 232) done — Sūkta 171 Ṛk 4 Special Topics (continues p. 213: end of īṣamāṇaḥ note, grammar). Next: printed p. 213 (PDF 233). Open flags: ref numerals in Special Topics (pp. 211–212) [?]; review/doubts_v13.json.
