@@ -171,6 +171,57 @@
 "filled": false
 },
 {
+"id": "29_0",
+"printed": 29,
+"pdf": 48,
+"file": "2-6",
+"ctx": "— \"by the rays\"; *sarve 'pi raśmayo gāva ucyante* (Ni. 2-6) — \"all r",
+"tess": "೨-೬),",
+"prop": "2-6",
+"box": [
+1628,
+1344,
+88,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "29_1",
+"printed": 29,
+"pdf": 48,
+"file": "5-1",
+"ctx": "ḥ*\". - **अन्धः** (*andhaḥ*) — *tamas*, \"darkness\" (Ni. 5-1). - **रजः",
+"tess": "೫-೧).",
+"prop": "5-1",
+"box": [
+1024,
+1419,
+89,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "29_2",
+"printed": 29,
+"pdf": 48,
+"file": "4-19",
+"ctx": "*रजः** (*rajaḥ*) — *lokaḥ | lokā rajāṃsy ucyante* (Ni. 4-19) — \"world",
+"tess": "೪-೧೯).",
+"prop": "4-19",
+"box": [
+1302,
+1499,
+114,
+43
+],
+"region": false,
+"filled": false
+},
+{
 "id": "30_1",
 "printed": 30,
 "pdf": 49,

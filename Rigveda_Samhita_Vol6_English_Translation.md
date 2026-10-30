@@ -653,8 +653,8 @@ The Kannada explains: some of the Aṅgirasa ṛṣi-family, in the sacrificial 
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya**
 
-> **हे दस्म दर्शनीय शत्रूणामुपक्षयितरिन्द्र [?] त्वमङ्गिरोभिर्ऋषिभिर्गृणानः स्तूयमानः सन्नुषसा सूर्येण च सह गोभिः किरणैरन्धोऽन्धकारं वि वः । व्यवृणोः । व्यनाशयः इत्यर्थः । तथा हे इन्द्र त्वं भूम्याः पृथिव्याः सानु समुच्छ्रितप्रदेशं व्यप्रथयः । विशेषेण विस्तीर्णमकरोः । विषमामिमां समीकृतवानित्यर्थः । तथा दिवोऽन्तरिक्षस्य रजो रजसो लोकस्योपरमुप्तं मूलप्रदेशमस्तभायः । अस्तभ्नाः । यथान्तरिक्षलोकस्य मूलं दृढं भवति तथाकार्षीरित्यर्थः ॥**
-> *he dasma darśanīya śatrūṇām upakṣayitar indra [?] tvam aṅgirobhir ṛṣibhir gṛṇānaḥ stūyamānaḥ sann uṣasā sūryeṇa ca saha gobhiḥ kiraṇair andho 'ndhakāraṃ vi vaḥ | vyavṛṇoḥ | vyanāśayaḥ ity arthaḥ | tathā he indra tvaṃ bhūmyāḥ pṛthivyāḥ sānu samucchritapradeśaṃ vyaprathayaḥ | viśeṣeṇa vistīrṇam akaroḥ | viṣamām imāṃ samīkṛtavān ity arthaḥ | tathā divo 'ntarikṣasya rajo rajaso lokasyoparam uptaṃ mūlapradeśam astabhāyaḥ | astabhnāḥ | yathāntarikṣalokasya mūlaṃ dṛḍhaṃ bhavati tathākārṣīr ity arthaḥ ||*
+> **हे दस्म दर्शनीय शत्रूणामुपक्षयितरिन्द्र त्वमङ्गिरोभिर्ऋषिभिर्गृणानः स्तूयमानः सन्नुषसा सूर्येण च सह गोभिः किरणैरन्धोऽन्धकारं वि वः । व्यवृणोः । व्यनाशयः इत्यर्थः । तथा हे इन्द्र त्वं भूम्याः पृथिव्याः सानु समुच्छ्रितप्रदेशं व्यप्रथयः । विशेषेण विस्तीर्णमकरोः । विषमामिमां समीकृतवानित्यर्थः । तथा दिवोऽन्तरिक्षस्य रजो रजसो लोकस्योपरमुप्तं मूलप्रदेशमस्तभायः । अस्तभ्नाः । यथान्तरिक्षलोकस्य मूलं दृढं भवति तथाकार्षीरित्यर्थः ॥**
+> *he dasma darśanīya śatrūṇām upakṣayitar indra tvam aṅgirobhir ṛṣibhir gṛṇānaḥ stūyamānaḥ sann uṣasā sūryeṇa ca saha gobhiḥ kiraṇair andho 'ndhakāraṃ vi vaḥ | vyavṛṇoḥ | vyanāśayaḥ ity arthaḥ | tathā he indra tvaṃ bhūmyāḥ pṛthivyāḥ sānu samucchritapradeśaṃ vyaprathayaḥ | viśeṣeṇa vistīrṇam akaroḥ | viṣamām imāṃ samīkṛtavān ity arthaḥ | tathā divo 'ntarikṣasya rajo rajaso lokasyoparam uptaṃ mūlapradeśam astabhāyaḥ | astabhnāḥ | yathāntarikṣalokasya mūlaṃ dṛḍhaṃ bhavati tathākārṣīr ity arthaḥ ||*
 > *"O handsome one (dasma), destroyer of enemies, Indra! You, being praised by the Aṅgiras ṛṣis, together with the dawn and the sun, with the rays, **vi vaḥ** — uncovered, i.e. destroyed, the darkness. And, O Indra, you spread out the heights, the raised ground, of the earth; you made this uneven earth level. And you fixed firm the base region, [the lower part] of the world of the sky, the region of the atmosphere — **astabhāyaḥ**, 'you propped': you so acted that the base of the atmospheric world became firm."*
 
 (The words "उपरमुप्तं" are read with doubt; the sense is "the base-region, lying below".)
@@ -697,9 +697,9 @@ The Kannada explains: some of the Aṅgirasa ṛṣi-family, in the sacrificial 
 
 - **गृणानः** (*gṛṇānaḥ*) — *stūyamānaḥ san* — "being praised"; in Kannada, "one who is being praised".
 - **दस्म** (*dasma*) — *darśanīya | athavā dasu upakṣaye | śatrūṇām upakṣayitar indra |* — "beautiful; or [from] *dasu*, 'to waste away': O Indra, destroyer of enemies"; in Kannada, "beautiful, or the destroyer of enemies".
-- **गोभिः** (*gobhiḥ*) — "by the rays"; *sarve 'pi raśmayo gāva ucyante* (Ni. [2-6, numerals as read, ?]) — "all rays are called *gāvaḥ*".
-- **अन्धः** (*andhaḥ*) — *tamas*, "darkness" (Ni. [5-1, ?]).
-- **रजः** (*rajaḥ*) — *lokaḥ | lokā rajāṃsy ucyante* (Ni. [4-19, ?]) — "world; 'the worlds are called *rajāṃsi*'".
+- **गोभिः** (*gobhiḥ*) — "by the rays"; *sarve 'pi raśmayo gāva ucyante* (Ni. 2-6) — "all rays are called *gāvaḥ*".
+- **अन्धः** (*andhaḥ*) — *tamas*, "darkness" (Ni. 5-1).
+- **रजः** (*rajaḥ*) — *lokaḥ | lokā rajāṃsy ucyante* (Ni. 4-19) — "world; 'the worlds are called *rajāṃsi*'".
 - **सानु** (*sānu*) — *samucchritaṃ pradeśam* — "the raised region" (that you made level).
 
 **॥ व्याकरणप्रक्रिया ॥ — Grammar page for Rik 62.5 (begins; noted briefly).** Words treated on this page: **गृणानः** (passive *laṭ*, *śānac*; *śnā* by the exchange of affixes where *yak* would arise, "vyatyayo bahulam"; shortening by "pvādīnāṃ hrasvaḥ", Pā. Sū. [7-3-80, as read, ?]; *na* → *ṇa*; final-udātta by "citaḥ"); **दस्म** (*dasu upakṣaye*, *mak* by an Uṇādi rule "iṣiyudhīndhidasi…", Uṇ. Sū. [1-146, ?]; the vocative loses its *su* and keeps *dasma*; *nighāta* accent by "āmantritasya ca"); **वः** (*vṛṅ varaṇe*, *luṅ*, *sip*; "itaś ca" removes the *i*; "cli luṅi" gives *cli*; the *luk* of *cli* by "mantre ghasahvaraṇaśavṛdahādvṛc…", Pā. Sū. [2-4-80, as read, ?]; *guṇa* of the root; "uraṇ raparaḥ"; "hal-ṅyābbhyo dīrghāt…" drops the *sip*; *visarga* by "kharavasānayor visarjanīyaḥ"; no *aṭ* by "bahulaṃ chandasy amāṅyoge 'pi"; the *nighāta* accent). *Grammar page, noted briefly; only legible sūtra names given.*
