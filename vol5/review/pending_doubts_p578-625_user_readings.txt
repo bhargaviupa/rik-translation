@@ -1,0 +1,10 @@
+User readings saved on the Vol 5 doubts page (pp. 578–625), Oct 30 — NOT APPLIED (user: "leave it for now").
+Artifact: https://claude.ai/artifact/U87VXVhRZfKnAQbdTGTbFA ; row ids as in vol5/review/html/Vol5_doubts_p578-625.json (branch claude/pass2-vol5-pari4).
+598_d0   x                (crop did not show the place: '(8-26-21 and ?)')
+598_d10  x                (crop did not show the place: '(1-64-8 and 8)')
+603_d2   7-47-1 and 2     (file: '[2-47-1 and 2 [?]]')
+608_d1   1-127-1          (file: '(10-91-4 and ?)')
+611_d6   3-1-12 and 13    (file: '(3-1-13 and 13 [?])')
+622_d8   3-62-7, 7-97-7   (file: '[2-7, 7-97-7; 7-97-7]')
+625_d9   2-24-11          (file: '[2-24-3 [?]]')
+Rows with no entry (empty = accept the file as it is): 604_d3, 604_d4, 610_d5, 620_d7.
