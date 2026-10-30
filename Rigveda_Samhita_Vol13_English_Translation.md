@@ -9732,4 +9732,50 @@ From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyav�
 
 ---
 
-**Progress note:** printed p. 372 (PDF 392) done — Sūkta 175 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha continues p. 373). Next: printed p. 373 (PDF 393). Open flags: Ṛk 3 Pada 'sahasvān' [?]; bhāṣya last sentence [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 373  (PDF 393)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+**Bhāvārtha**
+
+O Indra, you are a hero and also our giver; urge on the chariot of my desire (the sacrifice) of me, a man, so that it may prosper; and you, mighty one (who are lord of the rites), burn the one who performs no acts of sacrifice, and the violent one, as fire burns with its flame a vessel that is its own support.
+
+**Printed English**
+
+You are a hero, a benefactor, accelerate the vehicle of man (that bears him to heaven); consume, mighty one, the irreligious Dasyu, as a (wooden) vessel is burnt by fire.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***sanitā — dātā*** — explaining that this word is used in the sense of "of a generous nature", Sāyaṇa explains that Indra, being a giver, should, for the sacrificer who is a man, *rathaṃ — raṃhaṇaṃ spandanaṃ manoratham vā svargagamanasādhanaṃ yajñākhyaṃ ratham vā codayaḥ* — urge on the chariot, or the movement, or the desire, or the chariot of sacrifice that is the means of going to heaven, so that the wishes of the sacrificers may be fulfilled, or that the sacrifice, the chariot that enables the sacrificers to go to heaven, may be carried to completion.
+
+***rathaḥ*** — the word *ratha*: "*ratho raṃhater gatikarmaṇaḥ sthiratevā syād viparītasya*" [as read: [?]] — formed from the root *raṃh*, meaning "to go"; or from *sthira* (steady) with the change of letters, so that the word *ratha* comes from the opposite; and "*athavā ramaṇāmo 'smiṃs tiṣṭhatīti vā rapater vā rasater vā*" (Ni. 9-12 [?]) — "he who fights has a comfortable seat in it", and from the root *rap* or from the root *ras*: so it is explained. The Nirukta-writers —
+
+> वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणः सुवीरः । गोभिः संनद्धो असि वीळयस्वास्था ता ते जयतु जेत्वानि ॥
+
+> *vanaspate vīḍvaṅgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ | gobhiḥ saṃnaddho asi vīḷayasvāsthātā te jayatu jetvāni ‖*
+
+(Ṛ. Saṃ. 6-47-26 [?]) — quoting this ṛk, they have shown the form of the chariot. But since the word *ratha* is formed from the root *raṃh*, which has the sense of "going", the word is used in several places as an epithet of sons also. In the ṛk at hand, Sāyaṇa has explained the word *ratha* in two ways: as a "desire" (*manoratha*), which is of the nature of movement, and as the chariot in the form of the sacrifice, which is the means of going to heaven.
+
+### Printed p. 374  (PDF 394)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+***sahāvān — somasahāyavān balavān vā*** — the word *sahaḥ* is read among the names of strength (Ni. 2-9 [?]). The Nirukta-writers, the word *sahāvān* —
+
+> त्यमू षु वाजिनं देवजूतं सहावानं तरुतारं रथानाम् । अरिष्टनेमिं पृतनाजमाशुं स्वस्तये तार्क्ष्यमिहा हुवेम ॥
+
+> *tyam ū ṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānām | ariṣṭanemiṃ pṛtanājam āśuṃ svastaye tārkṣyam ihā huvema ‖*
+
+(Ṛ. Saṃ. 10-178-1 [?]) — has been explained as *sahasvantam* in the ṛk quoted. Durgācārya: "*sahāvānaṃ sahaḥ balaṃ tena tadvantam*" — he explained *sahas* as strength, and the word as "one who has it". Sāyaṇa here describes Indra as one who has Soma as a helper, or as one possessed of strength.
+
+***dasyuṃ — upakṣapayitāram*** — Yāska: "*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasāḥ upadāsayati iti karmāṇi*" (Ni. 7-23 [?]) — the word *dasyu*, formed from the root *dasu* meaning "to injure, destroy", is explained in the sense: "that in which the waters are dried up, the rites destroyed". Sāyaṇa has given the meaning "destroyer".
+
+This word *dasyuṃ* is used as an epithet of the word *avratam*. For the word *avratam*, "*akarmāṇam ananuṣṭhāyinaṃ*" is the meaning given — "the one who destroys all, without performing acts of sacrifice". The command "burn" (*daha* for *oṣaḥ*) is also given for Indra here. In this connection: "*śociṣā pātraṃ na jvālayāgniḥ svādhāraṃ pātraviśeṣam iva*" — as fire, by its flame, burns the fuel that is its support, a fuel-vessel; "*yogādhikārī yo na yajate taṃ daha*" — even the man who has the qualifications for performing sacrifice, but remains inactive, without performing the sacrifice, may be burned by Indra; this is said by way of a simile.
+
+The word *deva* is of the nature of illumination, brightness, giving (Ni. 7-15 [?]); and the meanings opposed to these are given by the word *dasyu*: destructive, full of darkness, and violent. Vṛtra and all the other *asuras* belong to the group of *dasyus*. As they restrained the water, withholding it from flowing, and hid the light, Indra, by destroying them, let the water flow and let the light come out; hence the epithet *dasyuhā* ("slayer of *dasyus*") has been used for Indra in many places.
+
+Although the word *dasyu* is used in many places as a synonym of *rākṣasa* and the like, it is also used in some places for men who are without rites. For example —
+
+---
+
+**Progress note:** printed p. 374 (PDF 394) done — Sūkta 175 Ṛk 3 Special Topics (ratha, sahāvān, dasyu; continues p. 375). Next: printed p. 375 (PDF 395). Open flags: Nirukta/Ṛg refs [?]; review/doubts_v13.json.

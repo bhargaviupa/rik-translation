@@ -3406,5 +3406,29 @@
   ],
   "note": "Rik 3 bhashya last sentence 'yogadhikari san yoni na yajate' read approx",
   "answer": ""
+ },
+ {
+  "pdf": 393,
+  "printed": 373,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta ratha derivation (9-12?) and Rg 6-47-26 read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 394,
+  "printed": 374,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-178-1; Nirukta refs 2-9, 7-23?, 7-15? small",
+  "answer": ""
  }
 ]
