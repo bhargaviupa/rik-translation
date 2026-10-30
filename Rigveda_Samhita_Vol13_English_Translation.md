@@ -935,7 +935,7 @@ Max Müller, a German scholar, takes the two phrases *aṃseṣv ā vaḥ prapat
 
 > एषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ।
 
-> *aiṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*
+> *eṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*
 
 (Ṛ. Saṃ. 1-168-3)
 
@@ -2732,4 +2732,50 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 122 (PDF 142) done — Sūkta 168 Ṛk 3: Saṃhitā to Special Topics (continues p. 123). Next: printed p. 123 (PDF 143). Open flags: small-type numerals [?]; Ṛk 3 Pada rarabhe, bhāṣya [?] words; review/doubts_v13.json.
+### Printed p. 123  (PDF 143)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; the Special Topics of Ṛk 3 continue.)*
+
+***yadvā prāṇādirūpeṇa śarīre sthitāḥ gamanādicēṣṭāḥ kurvaṃta āsate*** — in this second meaning the Marut-gods, abiding in the body in the forms of the vital airs and the like, are explained as being of the nature of actions such as moving; this is another meaning.
+
+***eṣām aṃseṣu rambhiṇīva ā rārabhe*** — *yuvatervanāṃsālambinī yoṣiditva āśliṣyati | avalambane sāmarthyāt śaktyāyudhaviśeṣo bhujalakṣmīrvā*: the Marut-gods hold on their arms the weapon called *śakti*; as a young woman, or a special beauty, clings to the arms, so the holding of the weapon is described.
+
+***hasteṣu khādiḥ kṛtiśca saṃdadhe*** — *hastatrāṇakaḥ kartanī khaḍgalatā ca samyak dhṛtā*: the Marut-gods hold in their hands a hand-guard and also a sword; thus their form is described, and it is explained that Marut-gods of such shape appear in the sacrifice.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *tṛptyāṃśavaḥ* (*tṛptāḥ aṃśavaḥ yeṣāṃ te*, a *bahuvrīhi*; the first member keeps its own accent) [the printed analysis reads as *tṛptāḥ*]; *hṛtsu* (*hṛdaya* before the locative plural; *hṛd* substituted by "*padannomāsṛn…*", Pā. Sū. 6-1-63 [?]; accent on the ending by "*ūḍidaṃpadādi…*", Pā. Sū. 6-1-171 [?]); *pītāsaḥ* (root *pā pāne*; *kta* in the passive; *ī* for the root by "*ghumāsthāgāpā…*", Pā. Sū. 6-4-66 [?]; *asuk* before *jas*); *duvasaḥ* (root *duvas* in the sense of serving; affix *kvip*; accent on the last syllable of the root); *āsate* (root *āsa upaveśane*, *adādi*; *laṭ*, 3rd person plural, *jha* → *ata*; the loss of the *nighāta* accent by "*yadvṛttānnityam*", Pā. Sū. 8-1-66 [?]; since the root is *anudāttet*, the root keeps its accent as the personal ending is unaccented); *rārabhe* (root *rabha rābhasye*; *liṭ*; the Vedic option "*sarve vidhayaḥ chandasi vikalpyante*" means the *itva* and the loss of the reduplicative syllable do not occur; lengthening of the reduplicative syllable in the Veda; accent of the verb after a non-verb (*nighāta*) because a word with the ending stands before it).
+
+### Printed p. 124  (PDF 144)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+*khādiḥ* (root *khāda bhakṣaṇe*; by "*bahulagrahaṇa*", the Uṇādi affix *i* applies, as with *auṇādika* forms; the affix's accent makes the word *antodātta*); *dadhe* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *liṭ*, 3rd person singular, the middle form; *nighāta* accent on the verb). ‖ 3 ‖
+
+*(ornamental rule)*
+
+**॥ संहितापाठः ॥**
+
+> अव स्वयुक्ता दिव आ वृथा ययुरमर्त्याः कशया चोदत त्मना ।
+> अरेणवस्तुविजाता अचुच्यवुर्दृळ्हानि चिन्मरुतो भ्राजदृष्टयः ॥ ४ ॥
+
+> *ava svayuktā diva ā vṛthā yayuramartyāḥ kaśayā codata tmanā |*
+> *areṇavastuvijātā acucyavurdṛḷhāni cinmaruto bhrājadṛṣṭayaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अव । स्वऽयुक्ताः । दिवः । आ । वृथा । ययुः । अमर्त्याः । कशया । चोदत । त्मना ।
+> अरेणवः । तुविऽजाताः । अचुच्यवुः । दृळ्हानि । चित् । मरुतः । भ्राजत्ऽऋष्टयः ॥ ४ ॥
+
+> *ava | sva 'yuktāḥ | divaḥ | ā | vṛthā | yayuḥ | amartyāḥ | kaśayā | codata | tmanā |*
+> *areṇavaḥ | tuvi 'jātāḥ | acucyavuḥ | dṛḷhāni | cit | marutaḥ | bhrājat 'ṛṣṭayaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> एते मरुतः स्वयुक्ताः स्वैर्योक्तृभिः परस्परं संयुक्ताः स्वेन धनेन वा युक्ताः सन्तो दिवो द्युलोकात् वृथानायासेन वा [?] ययुः । अवाङ्मुखा गच्छन्ति । हे अमर्त्या मरुतः यूयं त्मना आत्मना स्वयमेव कशया [?] वाङ्मा [?] स्मैतत् [?] । वाचा स्तुतिरूपया चोदत । प्रेरयत । स्तोतृभिरिति शेषः । ते च मरुतोऽरेणवोऽपांसवः [?] तुविजाता बहुयज्ञेषु प्रादुर्भूता भ्राजदृष्टयो दीप्ता एवंभूताः सन्तो दृळ्हानि चिद्दृढान्यपि पर्वतादीनि अचुच्यवुः । च्यावयन्ति । चालयन्ति ॥
+
+*Gist:* The Maruts, self-yoked, come down from heaven without effort; with the word of praise they urge us; dustless, born in many sacrifices, bright-speared, they shake even firm mountains.
+
+**Pratipadārtha.** *(ete* — these Marut-gods); *svayuktāḥ* — joined to one another (each with his own wealth); *divaḥ* — from the heaven-world; *vṛthā* — without effort; *ava* — downward-faced; *ā yayuḥ* — they come. *(he)* *amartyāḥ* — O immortal Marut-gods (you); *tmanā* — of your own accord; *kaśayā* — (the praise in form of) with the word; *codata* — (like praise) urge us on. *(te)* *marutaḥ* —
+
+---
+
+**Progress note:** printed p. 124 (PDF 144) done — Sūkta 168 Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (breaks off at '(te) marutaḥ—'). Next: printed p. 125 (PDF 145). Open flags: small-type numerals [?]; Ṛk 4 bhāṣya [?] words; review/doubts_v13.json.
