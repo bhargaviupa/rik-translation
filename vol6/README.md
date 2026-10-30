@@ -1,6 +1,6 @@
 # Volume 6
 
-Vol 6 = Maṇḍala 1, Sūktas 62–80, the Fifth Adhyāya of the First Aṣṭaka (638 PDF pages in the old scan `Rig_Vol6.pdf`; printed page = PDF − 18, to be re-checked against the better scan). Translation complete (printed pp. 1–620); file closed until the combined back-fill pass. Sūktas 65–70 are *dvaipada*.
+Vol 6 = Maṇḍala 1, Sūktas 62–80, the Fifth Adhyāya of the First Aṣṭaka (638 PDF pages in the old scan `Rig_Vol6.pdf`; better scan in `scans/` (639 PDF pp.): printed page = PDF − 19, old scan − 18). Translation complete (printed pp. 1–620); file closed until the combined back-fill pass. Sūktas 65–70 are *dvaipada*.
 
 | Path | What it is |
 |---|---|
