@@ -1930,5 +1930,29 @@
   ],
   "note": "Rg refs 1-164-26 and 1-160-3 and Nirukta refs small type; dhenu/go quotes",
   "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 247,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-14, 5-4 and Rg refs 1-50-5, 1-68-10, 2-2-2 small type; tmana vahanto quote garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 268,
+  "printed": 248,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 8-92-1, 8-40-11, 1-136-3, 6-19-9 small; quotes partly doubtful",
+  "answer": ""
  }
 ]
