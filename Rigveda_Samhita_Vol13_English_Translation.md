@@ -13672,4 +13672,60 @@ Here ends the 179th Sūkta. (*iḷḷige nūra eppattoṃbhattaneya sūkta mugid
 
 ---
 
-**Progress note:** printed p. 496 (PDF 516) done — Sūkta 179 complete (6 ṛks); Sūkta 180 heading (24th Anuvāka, 10 ṛks) and introduction written. Next: printed p. 497 (PDF 517): Sūkta 180 heading block (Varga etc.) and Ṛk 1. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 497  (PDF 517)
+
+*(Header: "A. 2 A. 4 Va. 23"; "Ṛgvedasaṃhitā"; page 497; signature mark "XIII 32".)*
+
+**Sūkta 180**
+
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 180 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 23–24 [as read [?]] ‖
+Number of ṛks in the Sūkta — 10 ‖
+Ṛṣi — Agastya ‖ Devatā — Aśvinau ‖ Chandas — Triṣṭubh ‖
+
+**Sūkta 180, Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> युवो रजांसि सुयमासो अश्वा रथो यद्वां पर्यर्णांसि दीयत् ।
+> हिरण्यया वां पवयः प्रुषायन्मध्वः पिबन्ता उषसः सचेथे ॥ १ ॥
+
+**Pada-pāṭha**
+
+> युवोः । रजांसि । सुऽयमासः । अश्वाः । रथः । यत् । वाम् । परि । अर्णांसि । दीयत् ।
+> हिरण्ययाः । वाम् । पवयः । प्रुषायन् । मध्वः । पिबन्ता । उषसः । सचेथे इति ॥ १ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवोर्युवयोरश्वा रथवोढारो रजांसि रञ्जकाॅल्लोकान् सुयमासः शोभननियमनाः । लोकत्रयेऽसञ्चारिण [?] इत्यर्थः । कदेति आह । यद्यदा वां रथोऽर्णांस्यरणीयानभिमतदेशान् परि दीयत् परिगच्छेत् परितो गच्छति वा । तदेत्यर्थः । दीयतिर्गतिकर्मा दीयति तकतीति तैक्ष्णर्मसु [?] पाठात् । किंच रथागमनकाले वां युवयोः पवयो वज्रा रथनेमयो वा हिरण्यया हिरण्मयाः [?] प्रुषायन् । प्रुष्णन्त्यभिमतम् । यद्वा । हिरण्ययानि पवयो मधुपात्राणि वां युवाभ्यामर्थाय । यस्मादेवं तस्माद्युवां मध्वो मधुनो मधुसदृशस्य सोमरसस्य ॥ कर्मणि षष्ठी ॥ सोमरसं पिबन्तावास्वादयन्तौ उषस उषःसम्बन्धिनि काले सचेथे । यज्ञं सङ्गच्छेथे । अत्र क्रमो न विवक्षितः । उषःकाल एवागत्य मधुरं सोमरसं पिबतमित्यर्थः ॥ [as read; a few words doubtful [?]]
+
+*Gist:* When the Aśvins' chariot travels to the desired places, their well-controlled horses range the worlds and the golden fellies shower what is wished; at dawn they come and drink the honey-like Soma.
+
+### Printed p. 498  (PDF 518)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 498.)*
+
+**Pratipadārtha**
+
+(*he* **Aśvinau**) — O Aśvins; **yat** — when; **vām** — your; **rathaḥ** — chariot; **arṇāṃsi** — to the desired places; **pari dīyat** — goes round about; (**tadā** — then) **yuvoḥ** — of you two; **aśvāḥ** — the chariot-horses; **rajāṃsi** — the three worlds; **suyamāsaḥ** — well controlled in movement (they range); (**kiṃ ca** — and) **vām** — your; **hiraṇyayāḥ** — golden; **pavayaḥ** — the thunderbolt-weapons or the felloes of the chariot-wheels; **pruṣāyan** — shower the desired (rain the wished-for objects); [or **hiraṇyayāḥ** — golden; **pavayaḥ** — honey-vessels; **vām** — for you two; **pruṣāyan** — pour (the desired honey)]; (therefore) you two, **madhvaḥ** — honey-like Soma juice; **pibantā** — drinking; **uṣasaḥ** — at the time of dawn; **sacethe** — join (the sacrifice).
+
+**Bhāvārtha**
+
+O Aśvins! When your chariot sets out for the place desired, your chariot-horses range through the three worlds; your golden thunderbolt-weapons or chariot-felloes fulfil wishes (or the golden honey-vessels pour out the honey you want); therefore you two, coming at dawn to the sacrificial hall, drink the honey-like Soma juice.
+
+**Printed English**
+
+> Ashwins, your horses are traversers of the (three) regions, when your chariot proceeds to (its desired) quarters: the golden fellies of your wheels grant (whatever is wished for): drinking the Soma juice, you participate in the morning (rite).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***rathaḥ*** —
+
+> रथः रंहतेर्गतिकर्मणः । स्थिरतेर्वा स्याद्विपरीतस्य । रमतेर्वा रममाणोऽस्मिंस्तिष्ठतीति वा [?] । रपतेर्वा रसतेर्वा ॥
+
+> *rathaḥ raṃhatergatikarmaṇaḥ | sthiratervā syādviparītasya | ramatervā ramamāṇo 'smiṃstiṣṭhatīti vā [?] | rapatervā rasatervā ‖*
+
+(Ni. 9-11 [?]) — the Nirukta-writers say that the word *ratha* is formed from the root *raṃh*, which gives the sense of motion or speed; or, by a reversal of letters, from *sthira* ("firm"); or from the root *ram*, meaning "to rejoice, to be glad while seated in it"; or from *rap* or *ras*, meaning "to make a sound". The Nirukta-writers, …[the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 498 (PDF 518) done — Sūkta 180 heading (Varga 23–24, 10 ṛks, Aśvinau, Triṣṭubh) and Ṛk 1 through Special Topics begun (rathaḥ; continues p. 499). Next: printed p. 499 (PDF 519). Open flags: refs [?]; review/doubts_v13.json.
