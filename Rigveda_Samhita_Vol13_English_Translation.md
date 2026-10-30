@@ -11227,4 +11227,78 @@ Quoting this sentence, together with the ṛk
 
 ---
 
-**Progress note:** printed p. 418 (PDF 438) done — Sūkta 176 Ṛk 5 Special Topics (arka; Śatapatha Śvetaketu passage continues p. 419). Next: printed p. 419 (PDF 439). Open flags: long Bṛ.Up./Śa.Brā. quotations read approx [?]; refs [?]; review/doubts_v13.json.
+### Printed p. 419  (PDF 439)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+*(Śatapatha quotation continued)*
+
+> … संपद्यन्ते तदेतद्ब्रह्म च क्षत्रं चाग्निरेव ब्रह्मेन्द्रः क्षत्रमिन्द्राग्नी वै विश्वे देवा विडु विश्वे देवास्तदेतद्ब्रह्म क्षत्रं विट् ॥
+
+> *… saṃpadyante tad etad brahma ca kṣatraṃ cāgnir eva brahmendraḥ kṣatram indrāgnī vai viśve devā viḍ u viśve devās tad etad brahma kṣatraṃ viṭ ‖* [as read: [?]]
+
+(Śa. Brā. 10-4-1-9 [?]). The Parabrahman, which mirrors the past, the future and the present, and is all-pervading, is this *arka*. All the deities are included in this Parabrahman, which is of the form of *arka* and of the form of the *akṣara*. It reflects the *brahma*-power and the *kṣatra*-power in one. All deities are included in it: thus the sage has explained what principle the *arka*-principle is. And —
+
+> स एष एवार्कः । योऽयमग्निश्चितस्तस्यैतदन्नं कैमेष सौम्योऽध्वरस्तदर्क्यं …………… सहोदक्रामदेष चन्द्रमाः ॥
+
+> *sa eṣa evārkaḥ | yo 'yam agniś citas tasyaitad annaṃ kaimeṣa saumyo 'dhvaras tad arkyaṃ …………… sahodakrāmad eṣa candramāḥ ‖* [as read; dots in the print: [?]]
+
+(Śa. Brā. 10-4-1-10 [?]) — the sacrificial altar is itself *arka*. The *ka*-principle, that is, the Soma sacrifice, is its food. The harmony of the two becomes *arkya*.
+
+> स एष एवार्कोऽय एष तपति । तस्यैतदन्नं कैमेष चन्द्रमास्तदर्क्यं यजुष्य एष एव महान् …………… ॥ इत्यधिदैवतम् ।
+
+> *sa eṣa evārko 'ya eṣa tapati | tasyaitad annaṃ kaimeṣa candramās tad arkyaṃ yajuṣya eṣa eva mahān …………… ‖ ity adhidaivatam |* [as read: [?]]
+
+(Śa. Brā. 10-4-1-21 [?]) — the sun that blazes in the atmosphere is *arka*; the moon is its food; the harmony of the two is *arkya*. This is the *adhidaivata* view.
+
+> अथाध्यात्मम् । प्राणो वा अर्कस्तस्यान्नमेव कै …………… ॥
+
+> *athādhyātmam | prāṇo vā arkas tasyānnam eva kai …………… ‖* [as read; dots in the print: [?]]
+
+The breath is *arka*; the *ka*-principle is its food; the harmony of the two is *arkya*. Thus the *arka*-principle is described in both the *adhidaivata* and the *adhyātma* views.
+
+***sānuṣak — sānuṣaṅgaḥ sātatyam*** — "continuously" is the sense: Indra and the mantras in the form of *arka* have an unbroken relation, this is the purport.
+
+***vājeṣu — baleṣu; anneṣu vā*** — whether as being the cause of strength or as being the cause of food: so two kinds of meaning are given. The word *vāja* is read among the names of food (Ni. 3-9 [?]) and among the names of battle (3-9 [?], as read). It is also used in the sense of praise, and in the sense of extremely excellent strength. Its special meanings and special usages have been explained earlier.
+
+### Printed p. 420  (PDF 440)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***āvaḥ*** — root *ava rakṣaṇe*; Vedically *laṅ*; second person singular; because it is in *pādādi* position, no *nighāta*; since the augment *āṭ* is *udātta*, the first syllable is *udātta*.
+- ***dvibarhasaḥ*** — root *bṛha bṛhi vṛddhau*; "*dvayoḥ sthānayoḥ barhate pravardhate iti dvibarhāḥ*"; to it (genitive) — the suffix *asun* of the *ṭoṇādika* (*uṇādi*) group; by "*gatikārakopapadāt kṛt*" (Pā. Sū. 6-2-139 [?]) the *kṛdutta* final member keeps its natural accent; the genitive stands in the sense of the object.
+- ***sānuṣak*** — root *ṣañja saṅge*; the suffix *kvip*; by "*anidītāṃ hala upadhāyāḥ kṅiti*" (Pā. Sū. 6-4-24 [?], as read) the loss of the penultimate nasal; at the end of the word the *j* becomes *k*; *cartva*; the *kṛdutta* final member keeps its natural accent.
+- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular; when the *i* of the suffix is dropped, the augment *a*; because of the relative (*yadyoga*) no *nighāta*; since the suffix is *pit*, it is *anudātta*, so the root accent remains.
+- ***ājau*** — root *aja gatikṣepaṇayoḥ*; by "*ajyatibhyāṃ ca*" (Uṇ. Sū. 4-… [?]) the suffix *iṇ*; by "*ato 'pad…*" "*ata upadhāyāḥ*" *vṛddhi* of the penultimate; the suffix accent makes the end syllable *udātta*; locative singular. ‖ 5 ‖
+
+---
+
+**Sūkta 176, Ṛk 6**
+
+**Saṃhitā-pāṭha**
+
+> यथा पूर्वेभ्यो जरितृभ्य इन्द्र मय इवापो न तृष्यते बभूथ ।
+> तामनु त्वा निविदं जोहवीमि विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+
+> *yathā pūrvebhyo jaritṛbhya indra maya ivāpo na tṛṣyate babhūtha |*
+> *tām anu tvā nividaṃ johavīmi vidyām eṣaṃ vṛjanaṃ jīradānum ‖ 6 ‖*
+
+**Pada-pāṭha**
+
+> यथा । पूर्वेभ्यः । जरितृऽभ्यः । इन्द्र । मयःऽइव । आपः । न । तृष्यते । बभूथ ।
+> ताम् । अनु । त्वा । निऽविदम् । जोहवीमि । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ६ ॥
+
+> *yathā | pūrvebhyaḥ | jaritṛ-bhyaḥ | indra | mayaḥ-iva | āpaḥ | na | tṛṣyate | babhūtha |*
+> *tām | anu | tvā | ni-vidam | johavīmi | vidyāma | iṣam | vṛjanam | jīra-dānum ‖ 6 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; the print follows the commentary of the last ṛk of Sūkta 175)
+
+> हे इन्द्र पूर्वेभ्यो जरितृभ्यः पुरातनेभ्यो गरितृभ्यः स्तोतृभ्यः स्तोतृभ्यो मय इव बभूथ । मयः सुखं । सुखस्वरूपमिवाभवः । तद्वत् स्तोतृभ्योऽस्मभ्यं सुखो …
+
+> *he indra pūrvebhyo jaritṛbhyaḥ purātanebhyo garitṛbhyaḥ stotṛbhyaḥ stotṛbhyo maya iva babhūtha | mayaḥ sukhaṃ | sukhasvarūpam ivābhavaḥ | tadvat stotṛbhyo 'smabhyaṃ sukho …* [continues on p. 421]
+
+---
+
+**Progress note:** printed p. 420 (PDF 440) done — Sūkta 176 Ṛk 5 complete; Ṛk 6 (last of Sūkta 176): Saṃhitā, Pada, bhāṣya begun (continues p. 421). Next: printed p. 421 (PDF 441). Open flags: Śa.Brā. arka passages with dots [?]; Nirukta/Śa. refs [?]; review/doubts_v13.json.

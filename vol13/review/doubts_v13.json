@@ -3970,5 +3970,29 @@
   ],
   "note": "Satapatha arka passages (10-3-4-3, 10-3-4-5) long, repetitive, read approx",
   "answer": ""
+ },
+ {
+  "pdf": 439,
+  "printed": 419,
+  "crop": [
+   0.05,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha passages 10-4-1-9/10/21 (digits 9/10/30?) read approx; dots in print; Nirukta vaja refs (3-9 twice?)",
+  "answer": ""
+ },
+ {
+  "pdf": 440,
+  "printed": 420,
+  "crop": [
+   0.08,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra/Unadi numerals small; 'anidtam hala' sutra name as read",
+  "answer": ""
  }
 ]
