@@ -18100,4 +18100,46 @@ He says: "Purumīḷha and Taranta, the sons of Vidadaśva, are persons who are 
 
 ---
 
-**Progress note:** printed p. 646 (PDF 666) done — Sūkta 183 Ṛk 5 Special Topics (Śyāvāśva story continued; Max Müller on Purumīḷha; continues p. 647). Next: printed p. 647 (PDF 667). Open flags: refs [?]; Sāyaṇa verse passage doubtful [?]; review/doubts_v13.json.
+### Printed p. 647  (PDF 667)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 647.)*
+
+**Gotamaḥ** — Gotama is one of the seers who received protection from the Aśvin deities. Sāyaṇa has briefly told his story in this way.
+
+> अत्रेदमाख्यानम् । कदाचिन्मरुभूमौ वर्तमानस्य स्तोतुः गोतमस्य ऋषेः समीपं देशान्तरे वर्तमानं कूपमुत्पाट्याश्विनौ प्रापयेताम् । प्रापय्य च तं कूपं स्नानपानादिसौकर्याय उपरिमूलमधोबलमवास्थापयेतामिति । तदेतदाह ।
+
+*(Sanskrit as read; "prāpayye" doubtful [?].)* — Once Gotama, the praiser, was in the desert; the Aśvin deities, tearing up a well lying in another region, brought it near the seer; and having brought that well, they set it with its root above and its force below, for ease of bathing, drinking and so on. That is what is said here:
+
+> परावतं नासत्यानुदेथामुच्चा बुध्नं चक्रथुर्जिह्मबारम् ।
+> क्षरन्नापो न पायनाय राये सहस्राय तृष्यते गोतमस्य ॥
+
+> *parāvataṃ nāsatyānudethāmuccā budhnaṃ cakrathurjihmabāram |*
+> *kṣarannāpo na pāyanāya rāye sahasrāya tṛṣyate gotamasya ‖*
+
+(Ṛ. Saṃ. 1-116-9) — in this ṛk the help the Aśvin deities gave to Gotama is told: the well, which lay far off, was fetched and set near him in order to favour the praiser Gotama who was doing penance in the desert; this gives a short account of the greatness of Gotama.
+
+Gotama is well known in the Saṃhitā, Brāhmaṇa and other works as the son of Rahūgaṇa. Sāyaṇa, giving his introduction, has also indicated a certain *itihāsa* context, which is as follows:
+
+> अत्रेदमाख्यानम् । रहूगणपुत्रो गोतमः कुरुसृञ्जयानां राज्ञां पुरोहित आसीत् । तेषां राज्ञां पर्यैः सह युद्धे सति स ऋषिरनेन सूक्तेनेन्द्रं स्तुत्वा स्वकीयानां जयं प्रार्थयामासेति । तस्य च तत्पुरोहितत्वं वाजसनेयिभिराम्नातम् । गोतमो हि वै राहूगण उभयेषां कुरुसृञ्जयानां पुरोहित आसीदिति ।
+
+> *atredamākhyānam | rahūgaṇaputro gotamaḥ kurusṛñjayānāṃ rājñāṃ purohita āsīt | teṣāṃ rājñāṃ paryaiḥ saha yuddhe sati sa ṛṣiranena sūktenendraṃ stutvā svakīyānāṃ jayaṃ prārthayāmāseti | tasya ca tatpurohitatvaṃ vājasaneyibhirāmnātam | gotamo hi vai rāhūgaṇa ubhayeṣāṃ kurusṛñjayānāṃ purohita āsīditi |*
+
+(Sā. Bhā. Ṛ. Saṃ. 1-81-? [?]) — Gotama, the son of Rahūgaṇa, the seer of the 81st sūkta of the Ṛgveda, was the family priest of the kings of the Kuru and Sṛñjaya peoples. When these kings were at war with their enemy kings, he praised Indra with this sūkta and made Indra gracious, and prayed for the victory of his people. And as to his being the Kurus' and Sṛñjayas' priest, the *Vājasaneyins* (followers of the White Yajurveda) have a Śruti sentence: "*gotamo ha vai rāhūgaṇa ubhayeṣāṃ kurusṛñjayānāṃ purohita āsīt*". This Rāhūgaṇa Gotama is the seer of twenty sūktas in the first Maṇḍala alone, from the 74th to the 93rd [?]. And about this same Rāhūgaṇa Gotama,
+
+### Printed p. 648  (PDF 668)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 648.)*
+
+the Śatapatha Brāhmaṇa also tells of him, narrating a historical (*aitihāsika*) incident in this way:
+
+> विदेघो ह माथवोऽग्निं वैश्वानरं मुखे बभार तस्य …… मुखेऽभूत्सनेन्मे मुखान्निष्पद्या इति तस्मात्ते न प्रत्यश्रौषमिति ॥
+
+> *videgho ha māthavo 'gniṃ vaiśvānaraṃ mukhe babhāra tasya …… mukhe 'bhūtsanenme mukhānniṣpadyā iti tasmātte na pratyaśrauṣamiti ‖*
+
+(Śa. Brā. 1-4-1-10 to 15 [?]; Sanskrit as read, partly omitted by dots in the print [?]) — Videgha Māthava was a king, and the seer Gotama Rāhūgaṇa was his priest. Once Videgha Māthava bore the *Vaiśvānara* fire in his mouth. At that time the priest Gotama, addressing him, tried to speak to him; but Māthava, fearing that fire would fall from his mouth if he spoke, gave no answer. Then Gotama prayed with the ṛk beginning "**vītihotraṃ tvā kave dyumantaṃ**" (Ṛ. Saṃ. 5-26-3 [?]); the king gave no answer. Again Gotama prayed with the mantra "**udagne śucayas tava śukrā bhrājanta īrate**" (Ṛ. Saṃ. 8-44-11 [?]); the king gave no answer even to that. Then again Gotama prayed with the mantra "**taṃ tvā ghṛtasna vīmahe**" (Ṛ. Saṃ. 5-26-2 [?]); and as soon as the word *ghṛta* was uttered, Agni Vaiśvānara blazed up, shone with his lustre, and fell out of his mouth. At that time Māthava could not hold him back. Then Agni Vaiśvānara slipped and dropped downwards. At that moment Videgha Māthava was on the bank of the Sarasvatī. Then the fallen Agni came burning all the regions to the east of that place. In this way, as Agni advanced burning, Gotama and Māthava followed him, going behind. Agni dried up all the rivers on the way. Only the river named **Sadānīrā**, which flows from the northern region, the Himālaya, towards the south, did not dry; Agni Vaiśvānara had not burnt it. Hence the Brahmins did not cross that river. Even now, to the east of the Sadānīrā the community of Brahmins has settled. But at that time that region was uninhabited and without cultivation; it was not honoured by Agni Vaiśvānara, and so no one entered that region. Then Videgha Māthava asked Agni Vaiśvānara: "Where shall I dwell?" — "Dwell to the east of this river Sadānīrā," said he. Even now it is the boundary region between Kosala and Videha.
+
+Then Rāhūgaṇa Gotama asked Māthava: "When I addressed you, why did you not answer?" To which he gave the reply: "Agni Vaiśvānara was in my mouth, and I was afraid that, if I opened it, he would escape" — this is the account of that incident. This old tale of Rāhūgaṇa Gotama and Māthava …
+
+---
+
+**Progress note:** printed p. 648 (PDF 668) done — Sūkta 183 Ṛk 5 Special Topics (Gotama; well in desert; Rāhūgaṇa Gotama and Videgha Māthava from Śatapatha Brāhmaṇa; continues p. 649). Next: printed p. 649 (PDF 669). Open flags: refs [?]; review/doubts_v13.json.
