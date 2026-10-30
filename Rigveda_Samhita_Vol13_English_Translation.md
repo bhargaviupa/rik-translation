@@ -3792,4 +3792,36 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 
 ---
 
-**Progress note:** printed p. 170 (PDF 190) done — Sūkta 169 Ṛk 6 complete; Ṛk 7 Saṃhitā through first Special Topics (continues p. 171). Next: printed p. 171 (PDF 191). Open flags: Ṛk 7 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 171  (PDF 191)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9"; the Special Topics of Ṛk 7 continue.)*
+
+***martyam*** — this word is read among the names of man (Ni. 2-[?]). Here, giving the sense "*maraṇadharmāṇam*" ("one who has the nature of dying"), it is used as a qualifier of the word *pṛtanāyantam*.
+
+***ūrmyaiḥ pṛtanāyantam*** — the word *pṛtanā* is read among the names of battle (Ni. 2-[?]). Here two kinds of meaning are explained. First: the cloud, by its means for flowing (descent) of water, as though itself wishing to wage a battle by the means of water's movement, is of such a desire. Second: the enemy, wishing to wage war by means of his own protective devices — the Marut-gods are meant to strike clouds that wish to fight like enemies; *sargaiḥ* — by their own hurled blows (their arrows), *patayanta* — they cause to fall; this meaning is explained, and so "*teṣām eva dhvaniḥ śrūyate*": the sound of the Marut-gods striking the clouds is heard.
+
+***sargaiḥ ṛṇavānaṃ na*** — *ṛṇavantam adhamarṇam iva*: as a person who is liable to pay a debt, a low-ranking enemy, is made to fall by blows (as when one is felled), so the Marut-gods make the clouds fall by their blows: thus a comparison is given concerning the felling of the cloud by the Marut-gods. *evaṃ mahānubhāvā marutaḥ tvadanugāḥ iti indrasya stutiḥ* — thus the Marut-gods, endowed with great greatness, are Indra's followers; Indra's greatness is shown to be excessive.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *ghorāṇām* (root *hana hiṃsāgatyoḥ*; affix *ac* by an Uṇādi sūtra, "*saṃterac ghur ca*" [as read]; the substitute *ghur* for the root; *guṇa* of the light penultimate on that occasion; accent on the last syllable since it is *c*-marked; genitive plural); *etānām* (root *iṇ gatau*; affix *tan* by an Uṇādi sūtra [cited]; *guṇa* on that occasion; being *n*-marked, the first syllable is acute); *ayāsām* (root *aya gatau*; affix *ac* since it belongs to *pacādi*; accent on the last syllable since it is *c*-marked; the augment *suṭ* before the genitive plural by *vyatyaya*); *śṛṇve* (root *śru śravaṇe*; by "*vyatyayo bahulam*" the agent-affix in the passive; *laṭ* 3rd singular, affix *ta*; *e* for the *ṭi* part; *śṛ* substituted for the root by "*śruvaḥ śṛc*" [as read]; *śnu* inserted; the *t* of the affix dropped by "*lopas ta ātmanepadeṣu*", Pā. Sū. 7-1-41 [?]; *yaṇ* substitution; *nighāta* of the verb).
+
+### Printed p. 172  (PDF 192)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+*(Grammar of Ṛk 7, continued; noted briefly)*: *āyatām* (the preverb *ā*; root *iṇ gatau*; affix *śatṛ*; *yaṇ* substitution by "*iṇo yaṇ*", Pā. Sū. 6-4-81 [?]; the genitive plural after a *śatṛ* without *num* by "*śatur anumo nadyajādī*", Pā. Sū. 6-1-173 [?] — the ending takes the acute); *pṛtanāyantam* (*pṛtanām ātmanaḥ icchati pṛtanāyati*; affix *kyac* by "*supa ātmanaḥ kyac*", Pā. Sū. 3-1-8 [?]; after the *kyac*-ending verb, *śatṛ* in the sense of the present; accusative singular; the accent of *kyac* remains); *ūrmyaiḥ* (root *ava rakṣaṇādau*; affix *man* by an Uṇādi sūtra, "*avivisi…*"; it is *kit*; *ūṭh* by "*jvaratvarasrivyavimavām upadhāyāś ca*", Pā. Sū. 6-4-20 [?]; lengthening to the same vowel; since the affix is *n*-marked the first syllable is acute); *ṛṇāvānam* (*ṛṇam asya asti iti ṛṇāvān*; affix *vanip* in the sense of possession by "*chandasīvanipau*"; lengthening of the preceding vowel by "*anyeṣām api dṛśyate*"; by *vyatyaya* the first syllable of the affix is acute); *patayanta* (root *paṭḷ gatau*; after the *ṇic*, Vedic *laṅ* in the present sense; 3rd plural; as the *nighāta* is prevented by "*yadvṛttānnityam*" the accent of *ṇic* remains; by "*sañjñāpūrvako vidhir anityaḥ*" there is no lengthening of the penultimate); *sargaiḥ* (root *sṛja visarge*; by *bahulagrahaṇa*, *ghañ* in the passive; *guṇa* of the light penultimate; *k* for *j* by "*cajoḥ kuṣ ghiṇṇyatoḥ*", Pā. Sū. 7-3-52 [?]; the first syllable is acute since the affix is *ñ*-marked). ‖ 7 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> त्वं मानेभ्य [?] इन्द्र विश्वजन्या रदा मरुद्भिः शुरुधो गोअग्राः ।
+> स्तवानेभिः स्तवसे देव देवैर्विद्यामेषं वृजनं जीरदानुम् ॥ ८ ॥
+
+> *tvaṃ mānebhya [?] indra viśvajanyā radā marudbhiḥ śurudho goagrāḥ |*
+> *stavānebhiḥ stavase deva devairvidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 8 ‖*
+
+---
+
+**Progress note:** printed p. 172 (PDF 192) done — Sūkta 169 Ṛk 7 complete; Ṛk 8 (last of Sūkta 169): Saṃhitā written ('mānebhya' [?]). Next: printed p. 173 (PDF 193): Pada, bhāṣya of Ṛk 8. Open flags: small-type numerals [?]; review/doubts_v13.json.
