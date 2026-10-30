@@ -3706,5 +3706,29 @@
   ],
   "note": "Sukta 176 Anukramanika text partly garbled (purvah kratusabdat.. tritya-ktvad); heading varga numeral (19?) uncertain",
   "answer": ""
+ },
+ {
+  "pdf": 417,
+  "printed": 397,
+  "crop": [
+   0.07,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya second sentence: 'atyantantike', 'tvatsamarthyena palayitah' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 418,
+  "printed": 398,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 9-113-7/10/11 small (digits read); 3-32-10 quote read approx",
+  "answer": ""
  }
 ]
