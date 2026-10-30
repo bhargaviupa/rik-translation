@@ -11861,4 +11861,58 @@ In the ṛks under consideration it can be said that the word *vṛṣan* is use
 
 ---
 
-**Progress note:** printed p. 438 (PDF 458) done — Sūkta 177 Ṛk 3 complete. Next: printed p. 439 (PDF 459), Ṛk 4 Saṃhitā. Open flags: Ṛg/Ni./Pā. refs [?]; review/doubts_v13.json.
+### Printed p. 439  (PDF 459)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; page 439.)*
+
+**Sūkta 177, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> अयं यज्ञो देवया अयं मियेध इमा ब्रह्माण्ययमिन्द्र सोमः ।
+> स्तीर्णं बर्हिरा तु शक्र प्र याहि पिबा निषद्य वि मुचा हरी इह ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> अयम् । यज्ञः । देवऽयाः । अयम् । मियेधः । इमा । ब्रह्माणि । अयम् । इन्द्र । सोमः ।
+> स्तीर्णम् । बर्हिः । आ । तु । शक्र । प्र । याहि । पिब । निऽसद्य । वि । मुच । हरी इति । इह ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अहर्गणेषु मध्येष्वहःसु हारियोजनग्रहस्य याज्या । अग्निष्टोमोऽत्यग्निष्टोम इति खण्डे सूत्रितम् । अयं यज्ञो देवया अयं मियेध इतीतरेषु । आ ६-१० [?] इति ॥ हे इन्द्र अयं यज्ञो देवयाः देवान् [?] गच्छन् [?] भवति । तथायं यज्ञो मियेधः । मेधः पशुः । पशुर्वै मेध इति हि श्रुतिः । इमानि [?] ब्रह्माणि मन्त्राः । अयं सुतः सोमः । स्तीर्णं बर्हिः । आसनायास्तृता दर्भाः । एते पदार्थास्त्वदुचिता एवं संपादिताः । हे शक्रेन्द्र तु पुनः किमित्युक्ते आ प्र याहि । प्रकर्षेण शीघ्रमागच्छ । आगत्य च निषद्य बर्हिष्युपविश्य पिब सोमम् । तदर्थमिहास्मिन्देवयजने हरी अश्वौ वि मुच । वियोजय ॥ छान्दसो नुमभावः ॥
+
+*Gist:* This ṛk is the *yājyā* of the *hāriyojana* cup on the middle days of the *ahargaṇa* (Āśvalāyana, Śrauta-sūtra 6-10 [?]); Indra is told that sacrifice, victim, mantras, Soma and spread grass are ready, and is asked to come quickly, sit, drink and unyoke his horses here.
+
+**Pratipadārtha**
+
+(*he*) **Indra** — O Indra! **ayaṃ yajñaḥ** — this sacrifice; **devayāḥ** — goes towards the deities (is intended for the deities); **ayam** — this; **miyedhaḥ** — the sacrificial victim (the animal fit to be offered); **imā** — these; **brahmāṇi** — the mantras; **ayam** — this; **somaḥ** — (pressed) Soma juice; **barhiḥ** — the *darbha* grass; **stīrṇam** — has been strewn (for a seat); (therefore) (*he*)
+
+### Printed p. 440  (PDF 460)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177"; page 440.)*
+
+**śakra** — O Indra; **tu** — again; **ā pra yāhi** — come quickly; (having come) **niṣadya** — sitting (on the *darbha* grass); **piba** — drink (the Soma juice); (for that) **iha** — in this sacrificial hall; **harī** — your two horses; **vi muca** — unyoke (from the chariot).
+
+**Bhāvārtha**
+
+O Indra! This sacrifice, which is for the deities; this victim fit for the sacrifice; these mantras; this pressed Soma; these spread *darbha* grass — all of these are ready for you. Therefore, O Indra, come quickly, unyoke the horses from the chariot, sit on the *darbha* seat, and drink the Soma juice.
+
+**Printed English**
+
+> This is the sacrifice offered to the g..ds [sic]: this is the offering of the victim: these are the prayers: this Indra, is the Soma juice: the sacred grass is ready strewn: come therefore, Indra, quickly, sit down, drink (the libation). here let loose your steeds.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***ahargaṇeṣu madhyeṣv ahaḥsu hāriyojanagrahasya yājyā*** — with these words Sāyaṇa has stated the application (*viniyoga*) of this mantra. For the word *hāriyojana* a general sense can be given: Indra yokes his bay horses (*hari*) to the chariot. Since in the present context the drinking of Soma by Indra and Indra's yoking of the horses to the chariot are both included, it is understood that the name *hāriyojana-graha* ("the cup of the harnessing of the bays") covers all these items. In the Ṛk-saṃhitā the word *hāriyojana* is used in only two places; but the mantras belonging to this cup are different (elsewhere). Therefore the two questions — what meaning the commentator gave to this word, and what the special sense is of the ṛks connected with the *hāriyojana-graha* — have to be examined here.
+
+> इवा ते हारियोजना सुवृक्तीन्द्र ब्रह्माणि गोतमासो अक्रन् ।
+> ऐषु विश्वपेशसं धियं धाः प्रातर्मक्षू धियावसुर्जगम्यात् ॥
+
+> *ivā te hāriyojanā suvṛktīndra brahmāṇi gotamāso akran |*
+> *aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātarmakṣū dhiyāvasurjagamyāt ‖*
+
+(Ṛ. Saṃ. 1-61-16 [?]) — in this the word *hāriyojana* is an epithet of Indra. Sāyaṇa has explained: ***haryor aśvayor yojanaṃ yasmin rathe sa tathoktaḥ | tasya svāmitvena saṃbandhī hāriyojanaḥ indraḥ*** — "the chariot in which the yoking of the two bays is done is so called; Indra, who is related to it as its owner, is *hāriyojana*"; that is, the meaning is "the Indra on whose chariot the horses called *hari* are fastened". But, … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 440 (PDF 460) done — Sūkta 177 Ṛk 4: Saṃhitā…printed English, Special Topics begun (continues p. 441). Next: printed p. 441 (PDF 461). Open flags: refs [?]; review/doubts_v13.json.
