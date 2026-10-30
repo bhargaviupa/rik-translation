@@ -21,8 +21,10 @@ Opens `Rigveda_Samhita_Vol6_English_Translation.md` (and later its `.docx/.pdf`)
 - Do not re-transcribe bhāṣya, re-translate, or rewrite Pratipadārtha/Bhāvārtha/Special Topics/grammar.
 - Apply with `vol6/tools/apply.py BATCH.json` (exact-unique replacements, all-or-nothing). Never `git checkout`/restore the file; keep exactly one progress note.
 
-## Pariśiṣṭa-style numeral lists / review pages
-Vol 6 has no Pariśiṣṭa, but dense reference lists in Special Topics (and any block with many `?` numerals) can use the Vol 5 HTML-review method (`vol5/tools/build_review_v5.py`, `build_verify_v5.py`, `make_artifact_v5.py`, `apply_edits_v5.py`; copy and adapt to `vol6/tools/`): crops + boxes, the user corrects, edits applied by the coordinator. Decide per sūkta; ask the user.
+## HTML check pages for the user (agreed Oct 30: "as the workers crop anyway, let them create html for review", as for w5e)
+After each unit (about 4 printed pages, or the sūkta end) the worker builds a **check page** from its edits log, so the user can verify every numeral it entered:
+`python3 vol6/tools/build_verify_v6.py FIRST LAST vol6/review/edits_w6X.txt vol6/review/html/Vol6_verify_pFIRST-LAST.html` (needs `pip install scipy pillow`, tesseract with `kan`; Tesseract only locates the groups, never gives a reading). Each row = crop of the scan (printed page = PDF − 19, taken from `cfg.py`, not from the file heading), a box with the worker's reading, the words around it. Commit the `.html` and `.json`. The coordinator publishes it as an artifact (`vol6/tools/make_artifact_v6.py`, db capability), the user corrects boxes, and the coordinator applies the corrections (`vol6/tools/apply_edits_v6.py`). Edits-log lines must be `  p. N: OLD -> NEW` (two leading spaces, printed page N) for the page to be built.
+Limits: the builder covers numeral references (`1-14-3`, `10-?-?`). Doubtful Sanskrit letters and accents are not boxed there; the worker lists them as `[?]` / `[accent ?]` in the file and in its part file, and may add a second crop page for them later (to be agreed).
 
 ## Workers and sessions
 Short sessions (one sūkta or ~30 printed pages), one worker per part file `vol6/parts/w6X_state.md`, edits log `vol6/review/edits_w6X.txt` (lines `  p. N: OLD -> NEW`). Several workers in parallel on separate sūkta ranges and branches; coordinator merges with the no-work-lost check (all added lines present, headings unchanged, one progress note).
