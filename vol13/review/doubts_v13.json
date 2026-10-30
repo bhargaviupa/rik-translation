@@ -406,5 +406,17 @@
   ],
   "note": "refs on p. 65: 1-42-13; 1-33-6; 1-122-5; 1-18-3",
   "answer": ""
+ },
+ {
+  "pdf": 87,
+  "printed": 67,
+  "crop": [
+   0.3,
+   0.45,
+   0.1,
+   0.95
+  ],
+  "note": "word 'ā tatenan' in bhāṣya vs 'tatanan' in Saṃhitā/Pada (p.86 line 2); also p.88 grammar heading 'tatenan'",
+  "answer": ""
  }
 ]
