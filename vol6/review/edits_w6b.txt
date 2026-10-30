@@ -743,3 +743,4 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 592: arcate [?] -> arcate
   p. 592: brahma [parimitalakṣaṇaṃ?] [?] annam udyatam | [dāte mūrdhnaṃ dhṛtam?] [?] -> brahma hasirlakṣaṇam [?] annam udyatam | dā[?]mūrdhvaṃ dhṛtam [?]
   p. 592: [the clause is compressed and illegible at this resolution: I give it with doubt [?]] -> [the clause *brahma hasirlakṣaṇam annam udyatam | dā[?]mūrdhvaṃ dhṛtam* is read letter by letter from the print; its words and sense are doubtful [?]]
+  p. 564: *(Accents as printed, 300 dpi; strokes/underlines doubtful in many places: [accent ?]; read roughly, to be re-checked.)* -> *(Accents as printed, re-checked at 450 dpi: line 1 confirmed as given; line 2 confirmed except that a svarita-like stroke stands above the syllable of *śaśā* (before its underline), which the text does not reproduce [accent ?].)*

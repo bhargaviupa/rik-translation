@@ -1,0 +1,146 @@
+[
+ {
+  "page": 587,
+  "y0": 0.523,
+  "y1": 0.542,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 10-14[2]-[9]",
+  "note": "10-14[2]-[9] [?]: middle and last digit glyphs undecidable at 600 dpi (curled 2 / flat 7; 9)"
+ },
+ {
+  "page": 590,
+  "y0": 0.718,
+  "y1": 0.735,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 1-12[1]-13",
+  "note": "1-12[1]-13 [?]: read 121; an earlier pass had 130"
+ },
+ {
+  "page": 590,
+  "y0": 0.755,
+  "y1": 0.771,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 5-29-6",
+  "note": "5-29-6 [?]: first glyph read as 5 (earlier [3]-[31])"
+ },
+ {
+  "page": 581,
+  "y0": 0.222,
+  "y1": 0.244,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Nirukta 2-12-2 as read",
+  "note": "Nirukta 2-12-2 as read [?]: \"niru 2-12-2\" read from print; 2/7 glyphs not separable"
+ },
+ {
+  "page": 581,
+  "y0": 0.486,
+  "y1": 0.508,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Uṇ. Sū. 1-14[2]",
+  "note": "1-14[2] [?]: last digit curled 2 vs 7"
+ },
+ {
+  "page": 601,
+  "y0": 0.74,
+  "y1": 0.762,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Pā. 6-1-56",
+  "note": "Pā. 6-1-56 [?]: tail line; digits 5/3 doubtful"
+ },
+ {
+  "page": 603,
+  "y0": 0.329,
+  "y1": 0.351,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Uṇ. Sū. 3-442",
+  "note": "3-442 [?]: printed 3-44? with last glyph 2/7"
+ },
+ {
+  "page": 603,
+  "y0": 0.262,
+  "y1": 0.288,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Uṇ. Sū. 4-[188]",
+  "note": "4-[188] [?]: asun sūtra number not re-viewed"
+ },
+ {
+  "page": 575,
+  "y0": 0.2,
+  "y1": 0.3,
+  "kind": "word",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "जयाः [as read, [?]]",
+  "note": "जयाः [?]: grammar-page headword not re-viewed"
+ },
+ {
+  "page": 592,
+  "y0": 0.62,
+  "y1": 0.7,
+  "kind": "word",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "ब्रह्म हसिर्लक्षणम् … दा[?]मूर्ध्वं धृतम्",
+  "note": ": bhāṣya clause read letter by letter; words doubtful"
+ },
+ {
+  "page": 610,
+  "y0": 0.224,
+  "y1": 0.242,
+  "kind": "word",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "नहि [स्नधीमसि]",
+  "note": "[snadhīmasi] [?]: second word: स्नधी/स्वधी; sandhi with अधीमसि expected"
+ },
+ {
+  "page": 618,
+  "y0": 0.338,
+  "y1": 0.378,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Taittirīya Saṃhitā etc. refs (p.618 para 1)",
+  "note": "TS 1-5-1-3; 2-5-1-3; 3-1-9-4 …: print reads roughly 1-5-1-3; 2-5-15-3; 2-5-6-1?; not matching file in all places; Kāṭhaka 8-15; ŚB 1-1-4-14; JUB 3-15-2"
+ },
+ {
+  "page": 618,
+  "y0": 0.425,
+  "y1": 0.442,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 8-51-1 (Sāṃvaraṇi)",
+  "note": "8-51-1 [?]: first glyph 8 (ಲ-like); middle digits 51 vs 52"
+ },
+ {
+  "page": 616,
+  "y0": 0.3,
+  "y1": 0.6,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "p.616 Dadhīci reference list",
+  "note": "1-80-16; 1-84-13 …: all numerals read at an earlier pass; not re-viewed"
+ },
+ {
+  "page": 617,
+  "y0": 0.62,
+  "y1": 0.66,
+  "kind": "numeral",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "Ṛk. Saṃ. 10-120",
+  "note": "10-120 [?]: second 10-120 mention in the Atharvan passage not viewed"
+ },
+ {
+  "page": 579,
+  "y0": 0.7,
+  "y1": 0.75,
+  "kind": "word",
+  "file": "Rigveda_Samhita_Vol6_English_Translation.md",
+  "ctx": "अजाश्व श्रवस्यताम् [?]",
+  "note": ": Saṃhitā/bhāṣya word 79.x not re-viewed"
+ }
+]
