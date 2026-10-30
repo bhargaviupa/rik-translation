@@ -17115,4 +17115,50 @@ Thus, since they are harmful to the sacrificers, the sacrificer there prays to t
 
 ---
 
-**Progress note:** printed p. 610 (PDF 630) done — Sūkta 182 Ṛk 4 ends (Special Topics, grammar). Next: printed p. 611 (PDF 631): Ṛk 5. Open flags: refs [?]; review/doubts_v13.json.
+### Sūkta 182, Ṛk 5  (printed p. 611; PDF 631)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 611.)*
+
+**Saṃhitā-pāṭha**
+
+> युवमेतं चक्रथुः सिन्धुषु प्लवमात्मन्वन्तं पक्षिणं तौग्र्याय कम् ।
+> येन देवत्रा मनसा निरूहथुः सुपप्तनी पेतथुः क्षोदसो महः ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> युवं । एतं । चक्रथुः । सिन्धुषु । प्लवं । आत्मन्ऽवन्तं । पक्षिणं । तौग्र्याय । कं ।
+> येन । देवऽत्रा । मनसा । निःऽऊहथुः । सुऽपप्तनी । पेतथुः । क्षोदसः । महः ॥ ५ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवं युवामेतं सिन्धुषु समुद्रोदकेष्वेतं प्लवं प्रसिद्धं प्लुतिसाधनं प्लवं नावमात्मन्वन्तं दाढ्यवन्तं पक्षिणं पक्षवद्गतिसाधनरथवन्तं तौग्र्याय तुग्रनाम्नो राज्ञः पुत्राय भुज्युनाम्ने राज्ञे कं सुखकरं चक्रथुः । तौग्र्यो भुज्युः राजा समुद्रवर्ती ससेनः परचक्रं प्रमथितुं प्रस्थितः । तं प्रतीपबलान्यागत्याघातयन् । स च प्रसादफलकरावश्विनौ स्तुत्वा स्वात्मानं ररक्षेत्ययमितिहासो बहुधा पूर्वं प्रपञ्चितः । यद्वा । कमिति पूरणः । तस्य जलसंचारिरथस्य सहायभूतानप्ताहून्रथादीनकुरुतमित्यर्थः । अयमर्धर्चः । तमूहथुर्नौभिः । ऋ. १-११६-३ । चतस्रो नावः । ऋ. १-११६-५ । त्रिभी रथैः । ऋ. १-११६-४ । इत्यादिमन्त्रान्तरेषु प्रसिद्धः । येन युष्मद्दत्तेन प्लवेन देवत्रा देवेषु मध्ये मनसानुग्रहयुक्तया बुद्ध्या । येन मनसेति वा योज्यं । निरूहथुः निर्गमनं कुरुथः । तथा सुपप्तनी शोभनपतनं यथा भवति सुपतनौ वा युवां महो महतः क्षोदसः । उदकनाम्नैतत् । उदकात्पेतथुः । तद्धः पतेथ उत्तरीतुं ॥
+
+*(Sanskrit as read; the passage is dense and several words are doubtful [?]; the Ṛg references 1-116-3, 1-116-5, 1-116-4 are as read [?]. Gist: you made a winged, sturdy vessel on the ocean-waters for Bhujyu, son of Tugra; by it, with minds favourably set towards the gods, you bore him out and sped from the great flood.)*
+
+**Pratipadārtha** — (*he*) **aśvinā** — O Aśvin deities; **yena** — by which float; **devatrā** — among the gods; (you two alone) **manasā** — with a mind of grace; **nirūhathuḥ** — (you bore Bhujyu out of) the sea; **etaṃ** — such a famous; **ātmanvantaṃ** — endowed with firmness; **pakṣiṇaṃ** — wing-like, endowed with a chariot that is the means of motion; **plavaṃ** — the boat; **sindhuṣu** — in the ocean-waters; **tauġryāya** — for Bhujyu, the son of Tugra [text continues on the next page].
+
+### Printed p. 612  (PDF 632)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 612.)*
+
+*(Pratipadārtha, continued)* … for Bhujyu, the son of one named Tugra; **kaṃ** — so that it may be pleasant; **yuvaṃ** — you two; **cakrathuḥ** — made; (**tathā** — and so); **supaptanī** — as a pleasant descent into the ocean (or: you two who are accustomed to falling into the ocean); **mahaḥ kṣodasaḥ** — from the immeasurable water of the ocean (to lift up that Bhujyu); **petathuḥ** — you plunged (into the water).
+
+**Bhāvārtha** — O Aśvin deities, of all the gods, you two alone, with a mind of grace towards Bhujyu, the son of Tugra, made for him in the ocean-waters that boat, firm and wing-like, a chariot-vessel that helps one go over the earth; and, so as to give him ease in the waters, joined him to it, and, plunging into the sea, you two, accustomed to such daring acts, lifted him out of the immeasurable waters of the ocean.
+
+**English Translation.** *(printed)*
+
+"You constructed a pleasant, substantial, winged bark, borne on the ocean waters for the son of Tugra, by which, with mind devoted to the gods, you bore him up, and, quickly descending (from the sky), you made a path for him across the great waters."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk also, the matter of the protection of Bhujyu told earlier is itself told. "*Pūrvaṃ prapañcitaḥ*" ("already elaborated"), says Sāyaṇa, and tells again that same story in this way:
+
+> तौग्र्यो भुज्युः राजा समुद्रवर्ती ससेनः परचक्रं प्रमथितुं प्रस्थितः । तं प्रतीपबलानि आगत्याघातयन् । स च प्रसादफलकरावश्विनौ स्तुत्वा स्वात्मानं ररक्षेत्ययमितिहासः ।
+
+*(Sanskrit as read, "pratīpabalāni āgatyāghātayan" doubtful [?].)* — King Bhujyu, the son of Tugra, who was in the ocean, set out with his army to crush an enemy host; the enemy forces, coming, struck him; and he, praising the Aśvin deities, who give the fruit of favour, protected himself: this is the story. The enemy armies cast Bhujyu, who had gone into the sea to destroy the enemy armies, into the sea. Then, when he prayed to the Aśvin deities as protectors, they protected him with the help of a boat: this subject is told in Ṛ. Saṃ. 1-116-3 and 1-116-4 [?] and in many other places. The subject of Bhujyu was told earlier; and it was told earlier that he was troubled by the dust-storm [?, "birugāḷi"] — in the account at hand it is told that he was caught by enemies. The difference is that.
+
+**Sindhuṣu** — for this word is given the sense "*samudrodakeṣu*": in the waters of the ocean. The word *sindhu* is read among the names of rivers (Ni. 1-24 [?]); "*sindhuḥ sravaṇāt*" (Ni. 2-25 [?]) — since it flows, *sindhu* is the name for a river. As it is in the form of a current, in some places the meaning "rays" is also possible; in that sense also this word is used. For example —
+
+---
+
+**Progress note:** printed p. 612 (PDF 632) done — Sūkta 182 Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (Bhujyu story; sindhuṣu; continues p. 613). Next: printed p. 613 (PDF 633). Open flags: refs [?]; review/doubts_v13.json.
