@@ -12334,4 +12334,66 @@ In many places the words *āyuḥ*, *āyoḥ* are used as synonyms of "the man (
 
 ---
 
-**Progress note:** printed p. 452 (PDF 472) done — Sūkta 178 Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada written. Next: printed p. 453 (PDF 473), Ṛk 2 bhāṣya. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 453  (PDF 473)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 453.)*
+
+**Sāyaṇa-bhāṣya**
+
+> अयं राजा राजमानः ईश्वरो वेन्द्रो नोऽस्मदीयानि कर्माणि ना दभत् । सर्वतो न हिंस्यात् । कानीति उच्यते । यो यानि कर्माणि वृष्ट्यादिरूपाणि स्वसारा परस्परं स्वसृभूते स्वयंसरणभूते अहोरात्रे । नु पूरणः । योनौ स्वकीये स्थाने कृण्वन्त ॥ द्विवचनस्थाने बहुवचनं ॥ कुरुतः ॥ कृवि हिंसाकरणयोश्च । धिन्विकृण्व्योर च इत्यप्रत्ययः । बहुलग्रहणाच्छप् ॥ तानिन्द्रोऽपि अनुजानाति इत्यर्थः । स्वसृभूतावध्वर्युर्यजमानौ वा कुरुतः । यद्वा । स्वसारौ अङ्गुलयः योनौ फलोत्पादनस्थाने यज्ञे यानि कृतवन्तः तानीति योज्यम् । किंचास्मै इन्द्राय सुतुकाः शोभनबलहेतवः अन्नाद्या आपः हवींषि अवेषन् । व्याप्नुवन्ति । सोऽस्मभ्यमिन्द्रः सख्या सख्यानि वयः च प्रभूतमन्नं च गमत् । गमयतु ॥ [as read; several words doubtful [?]]
+
+*Gist:* Indra is not to frustrate the rain-and-other acts that Day and Night (or the two priests, or the fingers) perform in their place; oblations strengthen him, and may he bring us friendship and abundant food.
+
+**Pratipadārtha**
+
+**yā nu** — which (acts such as rain); **svasārā** — the mutually sister-like day and night; **yonau** — in their own place; **kṛṇavanta** — do; [or **yā** — which acts; **svasārā** — the *adhvaryu* and the sacrificer, like sisters; **yonau** — in the sacrifice; **kṛṇavanta** — do;] [or **svasārā** — the fingers; **yonau** — in the sacrifice, the place producing the fruit; **kṛṇavanta** — do;] (**tāni** — those); **naḥ** — our (acts); **rājā** — the shining, or sovereign; **indraḥ ghā** — Indra; **na ā dabhat** — let him not obstruct; (**kiṃ ca** — and further); **asmai** — to this Indra; **sutukāḥ** — causes of good strength; **āpaḥ cit** — the oblations etc.; **avēṣan** — pervade; **naḥ** — to us; **indraḥ** — Indra; **sakhyā** — friendship; **vayaḥ ca** — and abundant food; **gamat** — may he bring.
+
+**Bhāvārtha**
+
+Let Indra not obstruct the acts, such as rain, which the day and night, sister-like, carry on in their own places (or which the *adhvaryu* and sacrificers perform in the sacrifice). All oblations, causes of strength, go to Indra alone. May his friendship and abundant food be granted to us.
+
+**Printed English**
+
+> Let not the royal Indra frustrate those our actions, which the sisters, (day and night), are directing to their object. May these invigorating offerings propitiate him, so that he may bestow upon us friendly (regard), and (abundant) food.
+
+### Printed p. 454  (PDF 474)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 454.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In the ṛk at hand Sāyaṇa has stated three kinds of meaning for the word *svasārā*: first, "day and night"; second, the *adhvaryu* and the sacrificer, who are "like sisters"; third, the fingers, which are the means for the sacrificial act. Accordingly the word *yoni* too has to be explained in agreement with these meanings. First: ***yā nu svasārā yonau kṛṇavanta*** means: the acts such as rain which day and night, as sisters, perform in their own place. To see that this is right, one has to examine the natures of day and night and the acts by which they help each other.
+
+Uṣas (Dawn) is said to be the elder sister of Night. With the rising of Uṣas, Night becomes invisible and gives place to her sister.
+
+> अरुषस्य दुहितरा विरूपे स्तृभिरन्या पिपिशे सूरो अन्या ।
+> मिथस्तुरा विचरन्ती पावके मन्म श्रुतं नक्षत ऋच्यमाने ॥
+
+> *aruṣasya duhitarā virūpe stṛbhiranyā pipiśe sūro anyā |*
+> *mithasturā vicarantī pāvake manma śrutaṃ nakṣata ṛcyamāne ‖*
+
+(Ṛ. Saṃ. 6-49-3 [?]) — in many such ṛks, describing the relation between Night and Uṣas, it is explained how both, by their constant, regulated movement, cause the life of the world. Day and night, being the mothers who cause the birth of Parjanya (rain), the fruit of the sacrifice, and likewise of food, are thus the root cause.
+
+> नक्तोषासौ च ये देव्यावाग्नेय्यावेव ते स्मृते ।
+
+> *naktoṣāsau ca ye devyāvāgneyyāveva te smṛte |*
+
+(Bṛ. De. 3-8 [?])
+
+> नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची ।
+
+> *naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samīcī |*
+
+(Ṛ. Saṃ. 1-96-5 [?]) — in such places day and night are said to help Agni, the lord of the sacrifice, to drink the oblations. And because of this relation:
+
+> आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
+
+> *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 10-110-6 [?]) — in such ṛks day and night are said to be the sacrificer's neighbours. Because they are connected with the things of the sacrifice that bring about worldly affairs, they have the epithet *ṛtasya mātarā* ("the two mothers of the *ṛta*"). Such sister-like day and night, in their own place, carry out the acts such as rain … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 454 (PDF 474) done — Sūkta 178 Ṛk 2: bhāṣya…printed English, Special Topics begun (svasārā; continues p. 455). Next: printed p. 455 (PDF 475). Open flags: refs [?]; bhāṣya words [?]; review/doubts_v13.json.

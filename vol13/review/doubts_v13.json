@@ -4378,5 +4378,29 @@
   ],
   "note": "grammar sutra numerals small; 'ma ni lun' sutra reading",
   "answer": ""
+ },
+ {
+  "pdf": 473,
+  "printed": 453,
+  "crop": [
+   0.12,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya dense: 'nu puranah', 'dhinvikrnvyor a', 'kuruta', 'sutukah' glosses; read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 474,
+  "printed": 454,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 6-49-3, 1-96-5, 10-110-6, Brh.De 3-8 small",
+  "answer": ""
  }
 ]
