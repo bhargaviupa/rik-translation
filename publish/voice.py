@@ -456,3 +456,14 @@ def residual(text):
         if "this is mine" in ctx: continue
         out.append(ctx.replace('\n', ' '))
     return out
+
+# Vol 4 print build (Oct 30): remaining first-person phrases
+EXACT += [
+ ("; I took it as *da*.", "; it is taken as *da*."),
+ ("; I took it as *sa* [accent ?].", "; it is taken as *sa* [accent ?]."),
+ ("my tentative rendering:", "tentative rendering:"),
+ ("with one conjunct I could not settle", "with one conjunct that could not be settled"),
+ ("(Translation mine.)", "(Translation: the translator's.)"),
+ ("Translation mine.", "Translation: the translator's."),
+]
+EXACT.sort(key=lambda p: -len(p[0]))
