@@ -7457,4 +7457,46 @@ Under the word *gauḥ*, the explanation of the meanings "earth", "animal" and s
 
 ---
 
-**Progress note:** printed p. 294 (PDF 314) done — Sūkta 173 Ṛk 8 complete; Ṛk 9: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 295). Next: printed p. 295 (PDF 315). Open flags: Ṛk 9 bhāṣya doubtful ('tedrūpa', 'phalaprāpayen') [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 295  (PDF 315)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+*(Pratipadārtha concluded)* …like one in a hurry; (*naḥ* — for us); *karma* — to the acts (to the rites); *ukthā* — with *śastras* (satisfied); *nayamānaḥ* — one who brings about the fruit; *yathā* — how; *asat* — he may be; (*tathā kurute* — do so).
+
+**Bhāvārtha**
+
+O Lord Indra, as, by their praises, kings and others are made contented and gain the fulfilment of their wishes, so we desire, by your friendship (through your favour), to obtain the fulfilment of our desires; O priests, do so that Indra, pleased with our acts and *śastras* and so on, may speedily become the giver of fruit.
+
+**Printed English**
+
+May we be, as it were, your valued friends, O Lord, and obtain our desires, like those (who gain their objects) by the praise of princes. May Indra, propitiated by our eulogiums, be brought to the sacrifice by our hymns.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the sage, the seer of the mantra, is described as stating the instruction given by the sacrificers to their own priests.
+
+By the words ***he ena indra*** Indra is addressed as "O lord, O Indra". ***narāṃ na śaṃsaiḥ — rājādīnāṃ śaṃsaiḥ stutibhiḥ yathā manuṣyāḥ śobhanābhīṣṭā bhavanti tadvat śobhanasakhāyavantaḥ śobhanābhīṣṭāś ca asāma*** — as men, by praising kings and others, gain their wishes, so we, by worshipping and praising Indra, wish to become his objects of favour, his friends, and to have our wishes fulfilled: this is the sacrificers' wish described here.
+
+***turo na ukthā nayamānaḥ karma yathā asat*** — as one who is in haste, so Indra, becoming the object of the praises of us the sacrificers, hears our praises, and by his favour our sacrifices and other acts may bring forth their fruit; "*asmadīyena karmaṇā phalaprāpayitā*": the sacrificers say to their priests: "Perform the sacrificial acts so that he himself may give us the fruits of our sacrifices": this is the instruction described.
+
+By the two similes *narāṃ na* and *turo na* the comparison with kings and with men is shown. In the clause *turo na*, comparing the attentiveness he gives to the carrying out of his own necessary act, and likening it to a hasty man swiftly carrying out his obligation, the speaker brings out the carefulness needed in the performance of the rite, that Indra, hearing our praises, may quickly become the full giver of the fruits of our sacrifices.
+
+### Printed p. 296  (PDF 316)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***asāma*** — root *asa bhuvi*; *loṭ*, first person plural; being in *pādādi* position, no *nighāta*; the augment *a* (*āḍāgama*); *pit*, so the root accent remains.
+- ***susakhāyaḥ*** — *śobhanaḥ sakhā yeṣāṃ te*; by "*naño subhyām*" (Pā. Sū. 6-2-172 [?]) the final member is *udātta* in its accent.
+- ***svabhiṣṭayaḥ*** — *śobhanā abhiṣṭayo yeṣāṃ te*; as before, the final member is *udātta*.
+- ***narām*** — "*sānvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]); the genitive plural has the *udātta* accent.
+- ***śaṃsaiḥ*** — root *śaṃsu stutau*; suffix *ghañ*; being *ñit*, the first syllable is *udātta*; third plural.
+- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular, *tip*; "*iteś ca lopaḥ*" (Pā. Sū. 3-4-97 [?]); the augment by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]); in the *pādādi* position no *nighāta*; the root accent remains.
+- ***vandaneṣṭhāḥ*** — *vandane tiṣṭhatīti vandaneṣṭhāḥ*; root *ṣṭhā gatinivṛttau*; suffix *kvip*; by "*tatpuruṣe kṛti bahulam*" the locative is not dropped; the *kṛdutta* final member keeps its natural accent.
+- ***turaḥ*** — root *tura tvaraṇe*; by "*igupadhajñāprīkiraḥ kaḥ*" (Pā. Sū. 3-1-135 [?]) the suffix *ka*; being *kit*, no light-vowel guṇa; the suffix accent is end-*udātta*.
+- ***ukthā*** — root *vaca paribhāṣaṇe*; by "*pātṛtudivacī*…" (Uṇ. Sū. 2-… [?]) the suffix *thak*; being *kit*, by "*vaciśvapiyajādīnāṃ kiti*" (Pā. Sū. 6-1-15 [?]) *saṃprasāraṇa* with the earlier form; "*coḥ kuḥ*" gives *ku*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39 [?]) the third (instrumental) before a following vowel takes the preceding *savarṇadīrgha*. ‖ 9 ‖
+
+---
+
+**Progress note:** printed p. 296 (PDF 316) done — Sūkta 173 Ṛk 9 complete. Next: printed p. 297 (PDF 317), Sūkta 173 Ṛk 10. Open flags: sūtra numerals [?]; review/doubts_v13.json.
