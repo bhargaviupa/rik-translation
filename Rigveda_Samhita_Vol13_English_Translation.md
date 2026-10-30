@@ -17885,4 +17885,66 @@ In this ṛk the Aśvin deities are prayed to: "protect me from the harm of the 
 
 ---
 
-**Progress note:** printed p. 638 (PDF 658) done — Sūkta 183 Ṛk 3 ends (grammar); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (vṛka; continues p. 639). Next: printed p. 639 (PDF 659). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 639  (PDF 659)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 639.)*
+
+— here the description is: "the rays of the Sun, whose descent is mind-stealing, are in the middle of the atmosphere, which pervades everywhere. They stop the wolf that comes on the way to eat Trita, seizing him with the great waters." Here Sāyaṇa has shown that two kinds of meaning exist for the word *vṛka*. First:
+
+> "कूपस्थेनात्पूर्वं त्रितं दृष्ट्वा एनं भक्षयितुं कश्चिदरण्यश्वा महतीं नदीं तितीर्षुः आजगाम । स च सूर्यरश्मीन् दृष्ट्वा आयुमवसरो न भवतीति निववृते । अतो रश्मयो वृकं निषेधन्तीत्युच्यते ॥"
+
+*(Sanskrit as read; doubtful in places [?].)* — Trita, who was in the well, was seen earlier by a wolf; when it tried to cross the great river, it saw the Sun's rays and turned back, thinking that this was not the time. Hence it is said that the rays hold back the wolf. Then:
+
+> "यो अस्य पक्षे तौ — आप इत्यन्तरिक्षनाम । यह्वतीरपो महदन्तरिक्षं पथः पथा द्वादशरात्र्यात्मना मार्गेण तरन्तं वृकं चन्द्रमसं सूर्यरश्मयो निषेधन्ति । अहनि हि सूर्यरश्मिभिः निरुद्धश्चन्द्रमा निष्प्रभो दृश्यते । अतो निष्प्रभं कुर्वन्तीत्यर्थः ॥"
+
+*(Sanskrit as read; "dvādaśarātryātmanā" doubtful [?].)* — According to Yāska's view, if *apaḥ* means "atmosphere" and *vṛka* means "the moon", then the rays of the Sun hold back the moon, which crosses the vast atmosphere in the form of day-and-night [?]; for the moon, held back by the Sun's rays by day, is seen without lustre — this is the sense. So Sāyaṇa has given two meanings. And:
+
+> अरुणो मासकृद्वृकः पथा यन्तं ददर्श हि ।
+> उज्जिहीते निचाय्या तष्टेव पृष्ट्यामयी वित्तं मे अस्य रोदसी ॥
+
+> *aruṇo māsakṛdvṛkaḥ pathā yantaṃ dadarśa hi |*
+> *ujjihīte nicāyyā taṣṭeva pṛṣṭyāmayī vittaṃ me asya rodasī ‖*
+
+(Ṛ. Saṃ. 1-105-18) — in this ṛk the description is: "Once, when I was going along the road, a tawny wolf saw me; then, looking at me and desiring to eat, that wolf raised its body upright and came at me, driving me away." And the Nirukta-author, explaining the word *vṛka* in the ṛk cited above:
+
+> वृकश्चन्द्रमा भवति । विवृतज्योतिष्को वा विकृतज्योतिष्को वा विक्रान्तज्योतिष्को वा ।
+
+> *vṛkaścandramā bhavati | vivṛtajyotiṣko vā vikṛtajyotiṣko vā vikrāntajyotiṣko vā |*
+
+(Ni. 5-20 [?]) — "*vṛka*" means the moon: because it is one whose light is revealed, or whose light is diminished, or by comparison with the stars one of surpassing light; that is the meaning given. From this too, the name has come to the moon.
+
+### Printed p. 640  (PDF 660)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 640.)*
+
+Moreover, this word is used in some other senses as well. As the Nirukta-author says, "*ādityo 'pi vṛka ucyate yadā vṛñkte*" (Ni. 5-21 [?]) —
+
+> आजोहवीदश्विना वर्तिका वामास्नो यत्सीममुञ्चतं वृकस्य ।
+
+> *ājohavīdaśvinā vartikā vāmāsno yatsīmamuñcataṃ vṛkasya |*
+
+(Ṛ. Saṃ. 1-112-8 [?]) — citing this ṛk, since the word gives the sense "to destroy the darkness by taking away", here the word *vṛka* means the Āditya.
+
+> श्वासि वृक उच्यते विकर्तनात् ।
+
+> *śvāsi vṛka ucyate vikartanāt |*
+
+— because it tears, the wild dog (*āraṇyaśvā*), that is, the wolf, is called *vṛka* — he says; and, citing:
+
+> वृकश्चिदस्य वारण उरामथिरा वयुनेषु भूषति ।
+
+> *vṛkaścidasya vāraṇa urāmathirā vayuneṣu bhūṣati |*
+
+(Ṛ. Saṃ. 8-66-8 [?]) — he has explained it. But in this ṛk Sāyaṇa gives the meaning "thief" (*taskara*) for the word *vṛka*, since it is one who takes things; hence the name. And in the ṛk cited above, "*ājohavīd aśvinā*" (Ṛ. Saṃ. 1-112-8 [?]), Sāyaṇa has given this explanation:
+
+> वर्तते प्रतिदिवसमावर्तते इति वर्तिका उषाः । वृके इति विवृतज्योतिष्कः सूर्यः उच्यते । तेन ग्रस्ता सती सा हे अश्विनौ युवां आजोहवीत् आह्वयत् । यदा खलु युवां वृकस्य सूर्यस्य आस्यः अस्यस्थानीयान्मण्डलात् अमुञ्चतं अमोचयतं । सूर्येण एकीभूतामुषसं पृथक्कृत्य उदयादूर्ध्वं रात्रेरपरभागे स्थापितवन्तावित्यर्थः ॥
+
+*(Sanskrit as read; several words doubtful [?].)* — that is, "*vartikā*" means Uṣas, and "*vṛka*" means the Āditya; on this basis Yāska's sentence (Ni. 5-31 [?]) was cited before. (Ṛ. Saṃ. 1-112-8 [?]) Besides, the story that the Aśvin deities, having killed sheep — the chariot's carrier, the she-ass [?], being turned into the form of a wolf — gave them food for it, and Ṛjrāśva was cursed by his father, was told before.
+
+In the ṛk at hand, the word *vṛka* generally means the wild dog (*āraṇyaśvā*), that is, the wolf.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *vṛkīḥ* — root *vṛñ varaṇe*; "*sṛvṛbhūśuṣimuṣibhyaḥ kak*" (Un. Sū. 3-?? [?]) gives suffix *kak*; since it has *k*, no guṇa; "*jāter astrī viṣayād*…" (Pā. Sū. 4-1-63 [?]) …
+
+---
+
+**Progress note:** printed p. 640 (PDF 660) done — Sūkta 183 Ṛk 4 Special Topics (vṛka: wolf / moon / Āditya / thief; continues), grammar begun (continues p. 641). Next: printed p. 641 (PDF 661). Open flags: refs [?]; review/doubts_v13.json.
