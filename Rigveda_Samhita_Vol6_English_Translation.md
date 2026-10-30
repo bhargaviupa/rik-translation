@@ -10502,17 +10502,17 @@ evā́ hotaḥ satyatara tvám adyā́gne mandráyā juhvā̀ yajasva ||5||*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.5** *(Sanskrit in Kannada script; doubtful places [?])*
 
-> एकादशिनस्याग्नेयस्य पशोर्यथा विप्रस्येत्येषा पशुपुरोडाशस्य याज्या । सूत्रितं च प्रदानानामिति खंडे । यथा विप्रस्य मनुषो हविर्भिः प्र कारवो मनना वच्यैमानाः । आ. [३-२?] इति ॥
+> एकादशिनस्याग्नेयस्य पशोर्यथा विप्रस्येत्येषा पशुपुरोडाशस्य याज्या । सूत्रितं च प्रदानानामिति खंडे । यथा विप्रस्य मनुषो हविर्भिः प्र कारवो मनना वच्यमानाः । आ. ३-७ इति ॥
 
 > कविः क्रांतदर्शी सन्कविभिर्मेधाविभिर्ऋत्विग्भिः सह विप्रस्य मेधाविनो मनुषो मनोर्यज्ञे हविर्भिश्चरुपुरोडाशादिभिर्हे अग्ने यथा देवानयजः । एवमेव होतर्होमनिष्पादक सत्यतरातिशयेन सत्सु साधो अग्ने त्वमद्यास्मिन्यज्ञे मन्द्रया हर्षयित्र्या जुह्वा होमसाधनभूतया स्रुचा यजस्व । देवान्हविर्भिः पूजय ॥ मनुषः । मन ज्ञाने । बहुलमन्यत्रापीति मनेरुसिन्प्रत्ययः ॥
 
-*ekādaśinasyāgneyasya paśor yathā viprasyety eṣā paśupuroḍāśasya yājyā | sūtritaṃ ca pradānānām iti khaṇḍe | yathā viprasya manuṣo havirbhiḥ pra kāravo manana vacyamānāḥ [?] | ā. [3-2?] iti ||*
+*ekādaśinasyāgneyasya paśor yathā viprasyety eṣā paśupuroḍāśasya yājyā | sūtritaṃ ca pradānānām iti khaṇḍe | yathā viprasya manuṣo havirbhiḥ pra kāravo manana vacyamānāḥ | ā. 3-7 iti ||*
 
 *kaviḥ krāntadarśī san kavibhir medhāvibhir ṛtvigbhiḥ saha viprasya medhāvino manuṣo manor yajñe havirbhiś caru-puroḍāśādibhir he agne yathā devān ayajaḥ | evam eva hotar homaniṣpādaka satyatarātiśayena satsu sādho agne tvam adyāsmin yajñe mandrayā harṣayitryā juhvā homasādhanabhūtayā srucā yajasva | devān havirbhiḥ pūjaya || manuṣaḥ | mana jñāne | bahulam anyatrāpīti manner usin pratyayaḥ ||*
 
-*(Reading note: the opening liturgical sentence and its sūtra quotation are compressed ("manana vacyamānāḥ" is printed so); "san kavibhir medhāvibhir" and "devān havirbhiḥ pūjaya" re-read from the print; the Āśvalāyana numeral is doubtful [?] (3-2 or 3-7; on the doubts page).)*
+*(Reading note: the opening liturgical sentence and its sūtra quotation are compressed ("manana vacyamānāḥ" is printed so); "san kavibhir medhāvibhir" and "devān havirbhiḥ pūjaya" re-read from the print; the Āśvalāyana numeral is 3-7 and "vacyamānāḥ" stands as printed (user reading, doubts page p454-486).)*
 
-*Meaning (liturgical note):* For the eleven-fold animal offering to Agni, this Ṛk, "*yathā viprasya*", is the *yājyā* for the animal's *puroḍāśa*; so the sūtra in the section *pradānānām*: "*yathā viprasya manuṣo havirbhiḥ pra kāravo*…" (Ā. [3-2?]).
+*Meaning (liturgical note):* For the eleven-fold animal offering to Agni, this Ṛk, "*yathā viprasya*", is the *yājyā* for the animal's *puroḍāśa*; so the sūtra in the section *pradānānām*: "*yathā viprasya manuṣo havirbhiḥ pra kāravo*…" (Ā. 3-7).
 
 *Meaning:* As you, O Agni, being a seer (*kaviḥ*), together with wise priests (*kavibhiḥ*), in the sacrifice of the wise (*viprasya*) Manu (*manuṣaḥ*), worshipped (*ayajaḥ*) the gods with oblations — *caru*, *puroḍāśa* and the rest — even so, O *hotṛ* (*hotaḥ*) — accomplisher of the offering — most good (*satyatara*) among the good, do you today, in this sacrifice, worship (*yajasva*) with the delightful (*mandrayā*) ladle (*juhvā*) — the instrument of the offering — and gratify the gods with their share.
 
