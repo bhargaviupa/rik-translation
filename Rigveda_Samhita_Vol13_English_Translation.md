@@ -935,7 +935,7 @@ Max Müller, a German scholar, takes the two phrases *aṃseṣv ā vaḥ prapat
 
 > एषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ।
 
-> *eṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*
+> *aiṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*
 
 (Ṛ. Saṃ. 1-168-3)
 
@@ -2689,8 +2689,8 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 > सोमासो न ये सुतास्तृप्त्यांशवो [?] हृत्सु पीतासो दुवसो नासते ।
 > ऐषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ॥ ३ ॥
 
-> *somāso na ye sutāḥ tṛptāḥśavo [?] hṛtsu pītāso duvaso nāsate |*
-> *eṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe ‖ 3 ‖*
+> *somāso na ye sutās tṛptyāṃśavo [?] hṛtsu pītāso duvaso nāsate |*
+> *aiṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe ‖ 3 ‖*
 
 *(Ṛk 3 begins. The conjunct after *tṛ-* in *tṛptyāṃśavo* is doubtful; see the doubts log.)*
 
