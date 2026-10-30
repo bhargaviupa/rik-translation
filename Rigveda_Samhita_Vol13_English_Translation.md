@@ -14598,4 +14598,66 @@ O Aśvins of good giving! Whenever, with a wish to come, you yoke your *niyut*-h
 
 ---
 
-**Progress note:** printed p. 526 (PDF 546) done — Sūkta 180 Ṛk 5 complete; Ṛk 6: Saṃhitā…printed English written. Next: printed p. 527 (PDF 547), Ṛk 6 Special Topics. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 527  (PDF 547)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 527.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***sudānū*** — "*śobhanadānau*" — "the two of good giving": it is an epithet showing the quality of the Aśvin deities as most excellent givers. Its special meanings have been told earlier.
+
+***niyutaḥ*** — the meaning of this word is "horses". By the sentence "*niyuto vāyoḥ, rāsabhāv aśvinoḥ*" (Ni. 2-25 [?]) it is well known that the *niyut*s are the vehicles of Vāyu and the asses are the vehicles of the Aśvin deities. Here the word *niyutaḥ* is fit to be taken as the horses of the Aśvin deities. There is no rule that the epithet *niyutvān* should be used only for Vāyu. For example:
+
+> प्र वावृजे सुप्रया बर्हिरेषामा विश्पतीव बीरिट इयाते ।
+> विशामक्तोरुषसः पूर्वहूतौ वायुः पूषा स्वस्तये नियुत्वान् ॥
+
+> *pra vāvṛje suprayā barhireṣāmā viśpatīva bīriṭa iyāte |*
+> *viśāmaktoruṣasaḥ pūrvahūtau vāyuḥ pūṣā svastaye niyutvān ‖*
+
+(Ṛ. Saṃ. 7-39-2 [?]) — here *niyutvān* is an epithet of Pūṣan. The Nirukta-writers, giving the derivation of this word, say "*niyutvān niyuta asyāśvāḥ | niyuto niyamanād vā niyojanād vā*" (Ni. 5-28 [?]) — that the horses are so called because they are controlled or because they are yoked. The same derivation applies to the word *niyutaḥ* in the ṛk at hand. Then, since the word is usable for horses in general, it is an epithet also of the Aśvin deities' horses.
+
+In the sense of control (*niyamana*), the name *niyutvān* is well known also for the Lord (*Īśvara*), who controls; *niyutvān* is read among the names of Īśvara (Ni. 5-11 [?]).
+
+***svadhābhiḥ*** — for this word the explanation is "with food, or the water that is its cause" (*annaiḥ tatkāraṇair udakair vā*). In some places for this same word the explanation is "by one's own splendour or by food" (*ātmīyena tejasā annena vā*). The Nirukta-writers have included this word among the names of "water" (Ni. 1-12 [?]) and among the names of "food" (Ni. 6-9 [?]). Besides these meanings, in many contexts the word has the meanings "by one's own greatness", "one's own splendour" and "self-support". The special meanings of the word have been told in this same portion in the special topics of Ṛk 1-176-2 [?]. Besides the meanings "food" and "water", it is a special feature that the word is used also as a synonym of the power of the Lord. For example:
+
+> न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः ।
+> आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ॥
+
+> *na mṛtyurāsīdamṛtaṃ na tarhi na rātryā ahna āsītpraketaḥ |*
+> *ānīdavātaṃ svadhayā tadekaṃ tasmāddhānyanna paraḥ kiṃ canāsa ‖*
+
+(Ṛ. Saṃ. 10-129-2 [?]) — in this, *svasmin dhīyate dhriyate āśritya vartate iti svadhā* — "that which is supported in itself and rests in itself is *svadhā*": since it has self-support, *svadhā* is, as Sāyaṇa explains, an epithet of the extraordinary power, the *māyā*, of the Lord (the Supreme Brahman) … [the passage continues on the next page.]
+
+### Printed p. 528  (PDF 548)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 528.)*
+
+… as he has explained. In the same way it is a word describing the supernatural power of Viṣṇu, Uṣas and others.
+
+***purandhim*** — "*bahūnāṃ dhātrīṃ pṛthivīm*" — "the earth, the nurse of many": the word *purandhi* is explained as "earth", the nurse of many. This word also suggests the senses *prabhūta* ("abundance") [as read [?]], *pauṣkalya* ("fullness") and *samṛddhi* ("prosperity"), and though it is used so everywhere, since it occurs in many contexts it is clear, from the very words of the Nirukta-writers, that its meaning has to be given according to each context. For:
+
+> ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि सन्ति देवाः ।
+> ताँ अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिम् ॥
+
+> *te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi santi devāḥ |*
+> *tā~ adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhim ‖*
+
+(Ṛ. Saṃ. 7-39-4 [?]) — in explaining the meaning of *purandhim* in this ṛk, there:
+
+> पुरंधिर्बहुधीस्तत्कः । पुरंधिर्भगः पुरस्तात्त्वस्यान्यादेश इत्येकम् । इन्द्र इत्यपरं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरं तं प्रज्ञया स्तौति ।
+
+> *puraṃdhirbahudhīstatkaḥ | puraṃdhirbhagaḥ purastāttvasyānyādeśa ityekam | indra ityaparaṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparaṃ taṃ prajñayā stauti |*
+
+(Ni. 6-13 [?]) — the meaning of the word *purandhi* is "one who has abundant *dhī* (intellect)". But who is such a one? Some hold that, since the word *bhaga* occurs in the cited ṛk before this word, it is an epithet of *bhaga*. Since the word *dhī* is also read among the names of "action" (*karma*), *purandhi* means "one of manifold works", or, since it means "one who splits the enemy's cities", some hold that it is an epithet of Indra. Or, as in the sentences "*imāṃ nu kavitamasya māyām*" (Ṛ. Saṃ. 5-85-6 [?]) and the like, the Nirukta-writers have shown, citing this ṛk, that just as Varuṇa's most excellent wisdom is praised, it may be that in this ṛk too his wisdom is described, and that it may be a synonym of *varuṇa*: so they have given these different views of the intention. And, to show the superiority of the generosity of the deities toward the sacrificer, and to indicate the prosperity of the oblations and the like which the sacrificer offers to the deities, the Nirukta-writers have shown the use of this word with still other examples:
+
+> आदायु श्येनो अभरत्सोमं सहस्रं सवां अयुतं च साकम् ।
+> अत्रा पुरंधिरजहादरातीर्मदे सोमस्य मूरा अमूराः ॥
+
+> *ādāyu śyeno abharatsomaṃ sahasraṃ savāṃ ayutaṃ ca sākam |*
+> *atrā puraṃdhirajahādarātīrmade somasya mūrā amūrāḥ ‖*
+
+(Ṛ. Saṃ. 4-26-6 [?])
+
+---
+
+**Progress note:** printed p. 528 (PDF 548) done — Sūkta 180 Ṛk 6 Special Topics (sudānū, niyutaḥ, svadhābhiḥ, purandhim; continues p. 529). Next: printed p. 529 (PDF 549). Open flags: refs [?]; review/doubts_v13.json.
