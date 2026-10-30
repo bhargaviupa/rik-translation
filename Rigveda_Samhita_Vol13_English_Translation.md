@@ -14250,4 +14250,72 @@ Besides these epithets, there are many contexts which speak of the identity (*t�
 
 ---
 
-**Progress note:** printed p. 514 (PDF 534) done — Sūkta 180 Ṛk 4 Special Topics (Atri origin, Atri–Agni identity; continues p. 515). Next: printed p. 515 (PDF 535). Open flags: refs [?]; Bṛhaddevatā verse 2 garbled [?]; review/doubts_v13.json.
+### Printed p. 515  (PDF 535)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 515.)*
+
+**Special Topics (continued)**
+
+> ग्राव्णो [?] ब्रह्मा युयुजानः सपर्यन् कीरिणा देवान्नमसोपशिक्षन् ।
+> अत्रिः सूर्यस्य दिवि चक्षुराधात्स्वर्भानोरप माया अधुक्षत् ॥
+> यं वै सूर्यं स्वर्भानुस्तमसाविध्यदासुरः ।
+> अत्रयस्तमन्वविन्दन्न ह्यन्ये अशक्नुवन् ॥
+
+> *grāvṇo [?] brahmā yuyujānaḥ saparyan kīriṇā devānnamasopaśikṣan |*
+> *atriḥ sūryasya divi cakṣurādhātsvarbhānorapa māyā adhukṣat ‖*
+> *yaṃ vai sūryaṃ svarbhānustamasāvidhyadāsuraḥ |*
+> *atrayastamanvavindanna hyanye aśaknuvan ‖*
+
+(Ṛ. Saṃ. 5-40-8 to 9 [?]) — in this it is said that Atri, intent on the sacrificial rite, by his divine power and by godly power set the vision of the Āditya in the sky and destroyed the power of Svarbhānu. In this same sūkta the Sun shows gratitude to Atri:
+
+> मा मामिमं तव सन्तमत्र इरस्या द्रुग्धो भियसा नि गारीत् ।
+> त्वं मित्रो असि सत्यराधास्तौ मोहावतं वरुणश्च राजा ॥
+
+> *mā māmimaṃ tava santamatra irasyā drugdho bhiyasā ni gārīt |*
+> *tvaṃ mitro asi satyarādhāstau mohāvataṃ varuṇaśca rājā ‖*
+
+(Ṛ. Saṃ. 5-40-2 [?]) — in this ṛk the Sun asks for Atri's help; and prays, "I am yours; I belong to you. Do not leave me to the Asuras." The description and the prayer in this mantra are like the prayer addressed to Agni, who is hostile to the Asuras. In these contexts, if one examines certain contexts in the fifth Maṇḍala, well known as the "Atri-maṇḍala" (the maṇḍala of Atri), a close relation is shown between Agni and Atri. For example: the author of the second sūkta of the fifth Maṇḍala is well known by the name Kumāra, born in Atri's *gotra*; but:
+
+> कुमारं माता युवतिः समुब्धं गुहा बिभर्ति न ददाति पित्रे ।
+> अनीकमस्य न मिनज्जनासः पुरः पश्यन्ति निहितमरतौ ॥
+
+> *kumāraṃ mātā yuvatiḥ samubdhaṃ guhā bibharti na dadāti pitre |*
+> *anīkamasya na minajjanāsaḥ puraḥ paśyanti nihitamaratau ‖*
+
+(Ṛ. Saṃ. 5-2-1 [?]) — it is stated in the Sāyaṇa commentary that *kumāram* is an epithet of Agni. And likewise in the cases of *vasuśrut*, *īśa*, *gayu* and others, the portion belonging to Agni can be seen in the matter of the Ātreyas. Showing that the word is formed from the root *ad* ("to eat"), the Upaniṣads too praise Atri:
+
+> वागेवात्रिर्वाचा ह्यन्नमद्यतेऽत्त्रिर्ह वै नामैतद्यदत्रिरिति सर्वस्यात्ता भवति सर्वमस्यान्नं भवति य एवं वेद ॥
+
+> *vāgevātrirvācā hyannamadyate 'ttrirha vai nāmaitadyadatririti sarvasyāttā bhavati sarvamasyānnaṃ bhavati ya evaṃ veda ‖*
+
+(Bṛ. U. 1-2-4 [?]) — from such sentences the description of the word *atri* in the sense of the Supreme Brahman has been given. In this same sense the word *atri* is used in the Ṛk-saṃhitā in many places as an epithet of Agni.
+
+In the ṛk at hand, the first meaning is that the Aśvin deities saved the ṛṣi Atri, who had fallen into the heated fire-pit. Second, they did the service of cooling to the Agni abiding in the *gharma* … [the passage continues on the next page.]
+
+### Printed p. 516  (PDF 536)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 516.)*
+
+… is the meaning. But here what is *gharma*? One must know what the "service" for Agni there is. Sāyaṇa gave the meaning *pravargya* for the word *gharma*. Are *gharma* and *pravargya* words showing identity, both of one and the same meaning? What is the basis for this in the *śruti* sentences? Now the nature of the *gharma*, or of the *pravargya*, must be examined. And one must know what kind of leadership (*netṛtva*) the Aśvin deities bear in the *pravargya*. In the sentences of the Taittirīya Āraṇyaka that are quoted later, in the ṛk 1-180-9 [?], the relation between the *pravargya* and the Aśvin deities is explained in detail; here that matter is stated only briefly.
+
+> ताभ्यामेतमाश्विनमगृह्णन् । तावेतद्यज्ञस्य शिरः प्रत्यैधतां [?] । यत्प्रवर्ग्यः । तेन सशीर्ष्णा यज्ञेन यजमानाः । अवाशिषोऽरुन्धत । अभि सुवर्गं लोकमजयन् ।
+
+> *tābhyāmetamāśvinamagṛhṇan | tāvetadyajñasya śiraḥ pratyaidhatāṃ [?] | yatpravargyaḥ | tena saśīrṣṇā yajñena yajamānāḥ | avāśiṣo 'rundhata | abhi suvargaṃ lokamajayan |*
+
+(Tai. Ā. 5-1-2 [?]) — the deities, having propitiated the divine physicians, the Aśvin deities, prayed: "You are physicians; unite again the *pravargya*, the head of the sacrifice, with the body of the sacrifice, in a three-day session." Then the Aśvins, obtaining for themselves a share in the fruit of the sacrifice, fulfilled the prayer of the deities. Therefore:
+
+> यत्प्रवर्ग्यं प्रवृणक्ति । यज्ञस्यैव तच्छिरः प्रतिदधाति । तेन सशीर्ष्णा यज्ञेन यजमानाः । अवाशिषो रुन्धे । अभि सुवर्गं लोकं जयति । तस्मादेष आश्विनप्रवया इव । यत्प्रवर्ग्यः ॥
+
+> *yatpravargyaṃ pravṛṇakti | yajñasyaiva tacchiraḥ pratidadhāti | tena saśīrṣṇā yajñena yajamānāḥ | avāśiṣo rundhe | abhi suvargaṃ lokaṃ jayati | tasmādeṣa āśvinapravayā iva | yatpravargyaḥ ‖*
+
+(Tai. Ā. 5-1-2 [?]) — thus the greatness of this rite called *pravargya*, which even the deities honoured as foremost, is praised: by performing it, the sacrificer accomplishes his desired aims and obtains the heavenly world. Since both the Aśvin mantras and the Aśvin deities are foremost at the time of this rite, it also has the synonymous name "*āśvinapravayoḥ*" [as read [?]]. Next, the meanings of the words *gharma* and *pravargya* must be known. In the fourth *prapāṭhaka* of the Taittirīya Āraṇyaka the order of its performance is told. Explaining in this context, Sāyaṇa has explained the meanings of these words, citing sentences of the fifth *prapāṭhaka*:
+
+> स धनुः प्रतिष्कभ्याभितिष्ठत् । ता उपदीका अब्रुवन्वरं वृणामहै । अथ व इमाꣳ रन्धयाम । यत्र क्व च खनानु [?] । तदपोऽभित्र्यन्ददामेति [?] । तस्मादुपदीका यत्र क्व च खनन्ति । तदपोऽभितृन्दन्ति । वारे वृतꣳ ह्यासाम् । तस्य …
+
+> *sa dhanuḥ pratiṣkabhyābhitiṣṭhat | tā upadīkā abruvanvaraṃ vṛṇāmahai | atha va imām̐ randhayāma | yatra kva ca khanānu [?] | tadapo 'bhitryandadāmeti [?] | tasmādupadīkā yatra kva ca khananti | tadapo 'bhitṛndanti | vāre vṛtam̐ hyāsām | tasya …*
+
+(Tai. Ā. 5-1-[?]; as read, doubtful [?])
+
+---
+
+**Progress note:** printed p. 516 (PDF 536) done — Sūkta 180 Ṛk 4 Special Topics (Atri–Agni, pravargya; continues p. 517). Next: printed p. 517 (PDF 537). Open flags: refs [?]; Sanskrit quotes (TS/TA) garbled [?]; review/doubts_v13.json.
