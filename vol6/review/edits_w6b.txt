@@ -525,3 +525,24 @@ Unit 10 (cont., Sūkta 76, pp. 467–486):
   pp. 482, 485 (bodies): no flagged lines. Generic "doubtful places [?]" labels left.
 Doubts: vol6/review/html/Vol6_doubts_p454-486.html (3).
   p. 440: Uṇ. 1-14[2?] -> 1-142 (user reading, doubts page p426-454 row 440_d0; other rows accepted as in the file)
+Unit 11 (Sūkta 77, pp. 487–507):
+  p. 487: heading Varga [२५?] -> 25; Saṃhitā 77.1 accents as printed ("देवान्" unmarked)
+  p. 488: bhāṣya tail artistusuhusmṛty-ādinā -> artistusv ityādinā; teto -> tato; matvarthīye -> matvarthīya; vanipāv itai -> vanipāv iti
+  pp. 489–505 odd heads: Varga [?] -> 25 (p. 489 prints Aṣṭaka 2); p. 507: Varga [?] -> 26
+  p. 490: Pā. 5-3-26, 5-3-1, 7-2-103, 7-2-80, 6-2-48, 6-1-15 confirmed (brackets removed); Uṇ. [1-142?] -> 1-132 [?] -> doubts page
+  p. 491: Saṃhitā 77.2 accents as printed
+  p. 492: bhāṣya yajñasvyān -> yaṣṭavyān
+  p. 493: Ni. [3-?] -> 3-13 [as printed] (and twenty-eight -> twenty names); Ni. [3-30?] -> 3-20 [as printed]
+  p. 495: Saṃhitā 77.3 accents as printed
+  p. 496: bhāṣya u. [4-124?] -> 4-129; eṇ(?)-pratyayaḥ -> apīṇpratyayaḥ; kṛdikārād ktinaḥ -> kṛdikārād aktina
+  p. 497: Ni. [3-17?] -> 3-19 [as printed]
+  p. 498: Uṇ. [4-124?] -> 4-569 [as printed]
+  p. 499: Saṃhitā 77.4 accents as printed (मन्म [accent ?] -> doubts page); bhāṣya tanā dhanānām(?) -> tanā | dhananāmaitat; aiṣayanti first letter [?] -> doubts page
+  p. 500: bhāṣya tete atiśāyanika -> tata ātiśāyanika
+  p. 501: Ni. [2-7?] x2, [2-10?] x2, [2-9?] -> 3-9 [as printed]
+  p. 502: Uṇ. [4-?] -> 4-666 [?] -> doubts page
+  p. 503: Saṃhitā 77.5 accents as printed
+  p. 504: Pā. ६३ -> 2-4-65 (Devanagari); 4-1-114 confirmed; tail "ciṇ bhāvakarmaṇoḥ … chandasi luṅlaṅliṭaḥ …" -> ciṇabhāvaś chāndasaḥ; opening checked
+  p. 505: Ni. [2-10?] x2, [3-19?], [2-7?] -> 3-9 [as printed]; Ṛk. Saṃ. [2-?-?] -> 7-25-3; Ni. [5-5?] removed (no Nirukta number printed)
+  pp. 494, 506 (bodies), 507 body: no flagged lines viewed (p. 506 Pā. [4-1-114] etc. not re-viewed). Generic "doubtful places [?]" labels left.
+Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
