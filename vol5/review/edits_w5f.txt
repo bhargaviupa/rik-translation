@@ -1,0 +1,76 @@
+# w5f edits log (Vol 5 Pariśiṣṭa pp. 578–625: refs still carrying ?). Lines "  p. N: OLD -> NEW" (NEW = value now in the file); "  # " lines are notes.
+  p. 585: 2-35-? -> 1-95-4
+  # p. 585: "(2-35-? and Śat.… compare Agni in 1-95-4)" set to the print "(compare Agni in 1-95-4 and 5)" (printed ೧-೯೫-೪ ಮತ್ತು ೫ರಲ್ಲಿ ಅಗ್ನಿಗೆ ಹೋಲಿಸಿ)
+  p. 590: 1-?-? -> 1-114-6
+  # p. 590: "(1-114-6; 2-33-1) ... Rudriyas (1-?-?; 2-34-10; etc.), children of Pṛśni (2-34-2; 5-?-?; 5-60-5; 6-66-3); ... Pṛśnimātaraḥ (1-23-10; etc.; Av. 5-?-?). Pṛśni, the cow (5-?-?), ... the cow (8-?-?) ... Gomātaraḥ (compare 8-?-?; 8-20-?). This cow is probably the cloud ..." set to the print: "(1-114-6 and 9; 2-33-1) ... Rudras, or Rudriyas." (printed ತಂದೆಯು (೧-೧೧೪-೬ ಮತ್ತು ೯; ೨-೩೩-೧) ... ರುದ್ರರು ಅಥವಾ ರುದ್ರಿಯರು ಎಂದೂ ಹೆಸರು. ಪೃಶ್ನಿಯು ಹೊಳೆಯುತ್ತಿರುವ ಕೆಚ್ಚಲಿನಿಂದ ...; the Pṛśni/Gomātaraḥ refs and sentences are not on p. 590 (same in both scans; that material is printed on p. 593))
+  p. 592: 2-?-? -> 7-46-3
+  p. 592: 2-33-? -> 7-35-6
+  # p. 592: herbs paren "(compare 7-46-3; 7-353-6)" set to the print "(compare 5-53-14) (10-59-9)" (printed (೫-೫೩-೧೪ನ್ನು ಹೋಲಿಸಿ / (೧೦-೫೯-೯)); lightning (೭-೪೬-೩); other Rudras (೭-೩೫-೬)
+  p. 593: 5-52-? -> 5-57-5
+  # p. 593: written 5-57-5 [?] (printed ೫-೫?-೫; middle 2/7 glyph unsure)
+  p. 595: 3-26-? -> 2-34-1
+  # p. 595: printed ೨-೩೪-೧. NB the neighbouring refs of that sentence in the file (1-19-4; 2-34-6) do not match the print (೭-೫೬-೮ ; ೫-೫೬-೨ ಮತ್ತು ೩, ೭-೫೮-೨): not changed (no ?)
+  p. 597: 8-?-? -> 4-22-4
+  p. 597: 8-?-? -> 8-65-4
+  p. 598: 1-171-? -> 1-171-6
+  p. 598: 2-?-? -> 7-56-9
+  p. 599: 2-?-? -> 4-48-2
+  # p. 599: "(4-46-2; 7-91-5; 2-?-?)" set to the print "(4-46-2; 4-48-2; 7-91-5)"
+  p. 600: 10-?-? -> 10-168-1
+  # p. 600: written "10-168-1 and 4" (printed ೧೦-೧೬೮-೧ ಮತ್ತು ೪)
+  p. 604: 3-?-11 -> 5-43-11
+  p. 605: 3-?-? -> 2-30-8
+  # p. 607: the opening "[3-?-?]" is not printed (p. 606 ends 'ಕರು (ವತ್ಸ)ವಾಗಿದ್ದನೆಂದು ಅನೇಕ ಸಲ ಹೇಳ' / p. 607 'ಲ್ಪಟ್ಟಿವೆ.' with no ref): removed
+  p. 607: 10-?-? -> 10-91-2
+  p. 607: 2-?-? -> 2-2-4
+  # p. 607: refs from 'flames' to the end of the section are printed on p. 608 (PDF 624) lines 1-9; logged under p. 607 (check-page crops for them will be missing)
+  # p. 607: "(14; 10-?-?)" -> "(1-76-5; 10-6-4)" (printed ೧-೭೬-೫ ; ೧೦-೬-೪)
+  p. 607: 10-?-? -> 10-6-4
+  p. 607: 3-?-? onward; 3-?-? onward -> 3-21-1 to 4; 3-28-1 to 6
+  p. 607: 1-?-? -> 1-127-1
+  # p. 607: "(1-?-?, 10; 1-?-?, 1-?-?, 3-?-?, 3-?-?)" set to the print "(1-14-10, 1-19-9, 1-21-1 and 3; 2-36-4)"
+  p. 607: 10-?-? and ? -> 10-45-5 and 12
+  p. 607: 10-?-? -> 10-98-9
+  p. 607: 3-?-?; 5-?-?; 5-?-?; 2-?-?; 2-?-? -> 3-14-2; 5-11-2; 5-26-5; 7-11-2; 7-43-3
+  p. 608: 1-?-? -> 1-141-7
+  # p. 609: "(1-14-12; 3-6-6; 8-64-1; 6-?-?)" set to the print "(1-14-12; 3-6-6; 8-64-1)" (printed ೧-೧೪-೧೨ ; ೩-೬-೬ ; ೮-೬೪-೧; no fourth ref)
+  # p. 609: "(3-2-2; 3-25-1; 3-25-1; 10-1-2; 10-2-7; 10-?-?)" set to the print "(3-2-2; 3-3-11; 3-25-1; 10-1-2; 10-2-7; 10-140-2)"
+  p. 609: 10-?-? -> 10-140-2
+  # p. 609: two stones printed (೨-೧೨-೩) (file had 3-29-3, the next ref); son of Iḷā printed (೩-೨೯-೩)
+  p. 609: 3-29-3 -> 2-12-3
+  p. 609: 3-?-? -> 3-29-3
+  # p. 612: "10-187-4 and ?" -> "10-187-4 and 5" (printed ೧೦-೧೮೭-೪ ಮತ್ತು ೫)
+  p. 612: 8-?-? and ? -> 8-28-9 and 13
+  # p. 614: "(Av. 3-21-2; 12-1-19; 4-6-1-3; Tai. Saṃ. 4-?-?)" set to the print "(Av. 3-21-2; 12-1-19; 12-2-33; Tai. Saṃ. 4-6-1-3)" (printed ೧೨-೨-೩೩ ; ತೈ. ಸಂ. ೪-೬-೧-೩)
+  p. 614: 4-?-? -> 12-2-33
+  p. 616: 3-?-? -> 3-5-3
+  # p. 616: Bharata "(3-?-?; 2-7-1; etc.)" set to the print "(2-7-1; 7-8-4; etc.)" (printed ೨-೭-೧ ; ೭-೮-೪, ಇತ್ಯಾದಿ)
+  p. 616: 2-7-1 -> 7-8-4
+  # p. 617: "others (6-?-?; 3-25-1; etc.)" set to the print "(1-94-6; 2-1-2; etc.)"; "worship ... (7-11-3; 2-?-?; etc.)" set to the print "(3-25-1; 7-11-3; etc.)" (printed ೧-೯೪-೬ ; ೨-೧-೨ ; ಇತ್ಯಾದಿ / ೩-೨೫-೧ ; ೭-೧೧-೩ ; ಇತ್ಯಾದಿ)
+  p. 617: 6-?-? -> 1-94-6
+  p. 617: 3-25-1 -> 2-1-2
+  p. 617: 7-11-3 -> 3-25-1
+  p. 617: 2-?-? -> 7-11-3
+  p. 619: 2-?-? -> 7-6-1
+  # p. 619: Ārya "(2-?-?; 7-5-6)" set to the print "(7-5-6)" (printed ೭-೫-೬ only)
+  # p. 620: "(3-?-?; 2-8-3)" set to the print: rules (೨-೮-೩) ... followed by heaven and earth (೭-೫-೪) -> "(2-8-3; 7-5-4)"
+  p. 620: 3-?-? -> 7-5-4
+  # p. 620: "(1-?-?; 6; 8-44-16)" -> "(1-59-2, 6; 8-44-16)" (printed ೧-೫೯-೨, / ೬; ೮-೪೪-೧೬)
+  p. 620: 1-?-? -> 1-59-2
+  # p. 620: "(Śat. Brā. 4-7-13-3; Tai. Saṃ. 2-?-?)" set to the print "(Śat. Brā. 2-3-1-5; Tai. Saṃ. 4-7-13-3)"
+  p. 620: 4-7-13-3; Tai. Saṃ. 2-?-? -> 2-3-1-5; Tai. Saṃ. 4-7-13-3
+  p. 620: 8-?-? -> 1-96-2
+  # p. 620: first to create men printed (೧-೯೬-೨); the file's next ref (immortality, 1-96-2) not checked (no ?)
+  p. 621: 7-? -> 5-1
+  # p. 621: Nirukta printed (೫-೧)? written 5-1 [?] (first glyph reads ೫; the following explanation cites Nir. 7-)
+  p. 622: 6-?-? -> 7-97-5
+  p. 622: 6-?-? -> 7-97-7
+  # p. 622: NB (no ?, not changed) the file's neighbours differ from the print: radiant printed [೩-೬೨-೭?, ೭-೯೭-೭], pure [೭-೯೭-೭] (file 7-97-5), Tvaṣṭṛ [೧೦-೫೩-೯] (file 10-59-9)
+  # p. 623: "[2-23-6; ?]" -> "[2-23-6 and 7]" (printed ೨-೨೩-೬ ಮತ್ತು ೭)
+  p. 623: 2-?-? -> 2-23-1
+  # p. 625: "[8-61-18; compare 6-?-?]" set to the print "[2-24-11; compare 8-61-18]" (printed (೨-೨೪-೧೧ ; ೮-೬೧-೧೮ನ್ನು ಹೋಲಿಸಿ)); the file's preceding 'most divinity [2-24-11]' not checked
+  p. 625: 6-?-? -> 2-24-11
+  p. 625: 10-?-? -> 10-68-10
+  # p. 625: crops "[10-68-10 and ?]" set to the print "[10-97-15 and 19]" (printed ೧೦-೯೭-೧೫ ಮತ್ತು ೧೯; the 7 is the thin rounded glyph, as in 7-97-7 on p. 622)
+  p. 625: 10-68-10 and ? -> 10-97-15 and 19
+  p. 625: 4-?-? -> 4-4-10-1
