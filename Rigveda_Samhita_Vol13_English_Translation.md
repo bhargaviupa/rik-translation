@@ -11393,4 +11393,71 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ---
 
-**Progress note:** printed p. 424 (PDF 444) done — Sūkta 176 Ṛk 6 Special Topics (nivid; Ai. Brā. passages repeated from pp. 391–394; continues p. 425). Next: printed p. 425 (PDF 445). Open flags: Ai. Brā. passages garbled in print; refs [?]; review/doubts_v13.json.
+### Printed p. 425  (PDF 445)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā". The page repeats, with the same sense, the matter of pp. 393–394 above.)*
+
+*(Special Topics continued)* …in the third pressing one ṛk is to be left over and the *nivid* mantras are to be put with it. But if both ṛks are left over and the *nivid* put with them, a loss of power arises; then the capacity of conceiving is lost; therefore only one is to be left over and put with it; then the sacrificial action is completed. It must not be done by leaving out two: if so, the power of generation is destroyed, and people lose the power to bear an embryo. In a sūkta that does not accept *nivid* mantras, one should not recite that sūkta without joining them; once it has been recited, it is not proper to add them again. If such an omission occurs, one should choose another sūkta of the same deity and the same metre, and add these *nivid* mantras to it. In such a case —
+
+> मा प्र गाम पथो वयं मा यज्ञादिन्द्र सोमिनः । मान्तः स्थुर्नो अरातयः ॥
+
+> *mā pra gāma patho vayaṃ mā yajñād indra sominaḥ | māntaḥ sthur no arātayaḥ ‖*
+
+(Ṛ. Saṃ. 10-57-1 [?]) — "May we not go astray from the path; may we not be cut off from the sacrifice; may evil-minded powers not come to dwell among us": having first prayed thus, one should recite the sūkta accompanied by the *nivid* mantras. Then the sacrificial work proceeds without any delusion, free of obstacle, and the destruction of evil powers also results. "May the thread of the fruit of the sacrifice that is spread among the deities extend to us, the sacrificers" (Ṛ. Saṃ. 10-57-2 [?]) — so the sacrificer prays; the thread of offspring, in the form of continuity of the family, is obtained by the sacrificer in unbroken succession.
+
+> तद्यदेतां पुरस्तात्सूक्तस्य निविदं दधाति प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद ॥
+
+> *tad yad etāṃ purastāt sūktasya nividaṃ dadhāti prajātyai | prajāyate prajayā paśubhir ya evaṃ veda ‖*
+
+(Ai. Brā. 10-2 [?]). For this reason the *hotṛ* obtains offspring as the fruit of reciting the *nivid* mantras at the beginning of a sūkta. It is said elsewhere also that the sacrificer who knows this obtains good offspring, and then all the other riches. It is learned from many places in the Ṛk-saṃhitā that, in invoking the respective deities with faith that the recitation of mantras gives the most excellent fruit, it is traditional to praise their nature, power, great acts and so on. For example —
+
+> ताँ पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
+
+> *tāṃ pūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham |*
+
+(Ṛ. Saṃ. 1-89-3 [?]);
+
+> जुषेथां यज्ञं बोधतं हवस्य मे सत्तो होता निविदः पूर्व्या अनु ।
+
+> *juṣethāṃ yajñaṃ bodhataṃ havasya me satto hotā nividaḥ pūrvyā anu |*
+
+(Ṛ. Saṃ. 2-36-6 [?]);
+
+### Printed p. 426  (PDF 446)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+> किमु ष्विदस्मै निविदो भनन्तेन्द्रस्यावद्यं दिधिषन्त आपः ।
+
+> *kim u ṣvid asmai nivido bhananta indrasyāvadyaṃ didhiṣanta āpaḥ |*
+
+(Ṛ. Saṃ. 4-18-6 [?]);
+
+> वि यद्वाचं कीस्तासो भरन्ते शंसन्ति के चिन्निविदो मनानाः ।
+
+> *vi yad vācaṃ kīstāso bharante śaṃsanti ke cin nivido manānāḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 6-62-10 [?]) —
+
+in these and other places the greatness of the *nivid* mantras is praised.
+
+In the ṛk at hand (1-176-6 [?]) the *nivid* mantras addressed to Indra are indicated by the sentence *tām anu tvā nividaṃ johavīmi*. There is also a slight difference of opinion in determining which sūktas are accompanied by *nivid* mantras addressed to the deity Indra. For example —
+
+> जनिष्ठा उग्रः सहसे तुराय निविद्धानमेकाहिकम् ।
+
+> *janiṣṭhā ugraḥ sahase turāya nividdhānam ekāhikam |* [as read; reading of the second half doubtful: [?]]
+
+(Ai. Ā. 1-2-2 [?]). It is said in the Aitareya Brāhmaṇa that the sūkta Ṛ. Saṃ. 10-73 [?], beginning with the ṛk *janiṣṭhā ugraḥ*, goes with *nivid* mantras. But in the Śāṅkhāyana Āraṇyaka (1-3 [?]) it is said that the sūkta Ṛ. Saṃ. 6-19 [?], beginning with the ṛk *mahāṃ indro nṛvad*, goes with these mantras. Thus the seer of the sūkta, in the ṛk at hand, has made known his resolve: "I will praise Indra with *nivid* mantras that praise Indra's nature, prowess and distinctive excellence."
+
+**Vyākaraṇa-prakriyā (grammar)** — the notes on the words of this ṛk are the same as those given for Sūkta 175 Ṛk 6 (p. 395 above); noted briefly (sūtra numerals [?]):
+
+- ***jaritṛbhyaḥ*** — root *jṝṣ vayohānau*, used here in the sense of praising; the agent suffix *tṛc*; augment *iṭ*; guṇa for the *ṛ*; since *cit*, the end syllable is *udātta*; dative plural.
+- ***tṛṣyate*** — root *ñitṛṣā pipāsāyām*; *śatṛ* for *laṭ*; by "*divādibhyaḥ śyan*" (Pā. Sū. 3-1-69 [?]) the *vikaraṇa* *śyan*; by "*tāsyanudāttet*…" (Pā. Sū. 6-1-186 [?]) the *śatṛ* is *anudātta*; the first syllable is *udātta* since the *vikaraṇa* is *nit*; dative singular.
+- ***babhūtha*** — root *bhū sattāyām*; *liṭ*, second person singular; by "*babhūthātatanthā*…" (Pā. Sū. 7-2-64 [?]) the absence of *iṭ* by *nipātana*; by "*nipātair yad yadi*…" (Pā. Sū. 8-1-30 [?]) no *nighāta*, because of *yathā*; since *thal* is *lit*, by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix takes *udātta* accent.
+- ***johavīmi*** — root *hu dānādanayoḥ*; after *yaṅ luk*, *laṭ*, first person singular *mip*; by "*yaño vā*" (Pā. Sū. 7-3-94 [?]) the augment *īṭ* for *mip*; since it stands after a *tiṅ* [as read: *ati…* [?]], *nighāta* accent. ‖ 6 ‖
+
+Here ends the hundred and seventy-sixth (176th) Sūkta.
+
+---
+
+**Progress note:** printed p. 426 (PDF 446) done — SŪKTA 176 COMPLETE (6 ṛks, printed pp. 396–426). Next: printed p. 427 (PDF 447), Sūkta 177. Open flags: many refs and sūtra numerals [?]; some Brāhmaṇa quotes garbled [?]; review/doubts_v13.json.
