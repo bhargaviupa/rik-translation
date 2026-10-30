@@ -17835,4 +17835,54 @@ Second: the description that the third step (or station) of all of them lies in 
 
 ---
 
-**Progress note:** printed p. 636 (PDF 656) done — Sūkta 183 Ṛk 3 bhāṣya end, Pratipadārtha, Bhāvārtha, printed English, Special Topics (vartiḥ, tmane), grammar begun (continues p. 637). Next: printed p. 637 (PDF 657). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 637  (PDF 657)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 637.)*
+
+*(Grammar page of Ṛk 3, continued, noted briefly):* *vartiḥ* — root *vṛtu vartane*; "*hṛṣiruhi vṛti…*" (Un. Sū. 4-127 [?]) gives suffix *in*; "*pugantalaghūpadhasya ca*" gives guṇa of the penultimate short vowel; by *vyatyaya* acute on the last syllable. "*vartate atra iti vartiḥ gṛham*" (the house). *tmane* — in the form *ātmane*, "*mantreṣv-āṅy-ādyer-ātmanaḥ*" (Pā. Sū. 6-4-141 [?]) elides the initial *a*.  ‖ 3 ‖
+
+### Sūkta 183, Ṛk 4  (printed p. 637; PDF 657)
+
+**Saṃhitā-pāṭha**
+
+> मा वां वृको मा वृकीरा दधर्षीन्मा परि वर्क्तमुत माति धक्तम् ।
+> अयं वां भागो निहित इयं गीर्दस्राविमे वां निधयो मधूनाम् ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> मा । वां । वृकः । मा । वृकीः । आ । दधर्षीत् । मा । परि । वर्क्तं । उत । मा । अति । धक्तं ।
+> अयं । वां । भागः । निऽहितः । इयं । गीः । दस्रा । इमे । वां । निऽधयः । मधूनां ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे दस्रौ शत्रूणामुपक्षपयितारावश्विनौ वां युवयोरनुग्रहादिति शेषः । वृको हिंसकोऽरण्यश्वादिर्मा दधर्षीत् । तथा वृकीर्वृक्यो हिंसका अन्या अपि मा दधर्षीत् ॥ वचनव्यत्ययः ॥ धर्षणं मा कार्षुः । युष्मानेव वा मा दधर्षीदिति योज्यं । तथा युवां मा परि वर्क्तं । परितो मा वर्जयतं मां । उतापि च मा अति धक्तं । अस्मानतिक्रम्यान्यस्मै मा दत्तं । किमर्थमेवमिति उच्यते । वां युवयोरर्थायायं भागो भजनीयोऽंशो हविरंशो निहितः । तथेयं च गीः स्तुतिरूपा वागपि निहितेति शेषः । हे दस्रावश्विनौ वां युवाभ्यामिमे इमानि मधूनां सोमरसानां निधयो निधानानि स्थापितानि ॥
+
+*(Sanskrit as read; the second sentence is doubtful [?]. Gist: may the wolf and she-wolf not harm me; do not abandon me, nor hand me over to another; for you this share, this praise and these Soma-treasures have been set down.)*
+
+### Printed p. 638  (PDF 658)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 638.)*
+
+**Pratipadārtha** — (*he*) **dasrā** — O Aśvin deities, destroyers of foes; **vāṃ** — your (by favour); **vṛkaḥ** — the wolf (cruel); **mā ā dadharṣīt** — let it not harm me; (**tathā** — likewise); **vṛkīḥ** — she-wolves; **mā** — let them not (harm); **mā pari vark taṃ** — do not leave me; **uta** — and; **mā ati dhaktaṃ** — do not abandon me (and give me to another); **vāṃ** — to you two; **ayaṃ bhāgaḥ** — this share of the oblation; **nihitaḥ** — has been put down; (**tathā** — likewise); **iyaṃ gīḥ** (ca) — this praise too; **vāṃ** — has been made ready for you; **ime** — these; **madhūnāṃ** — of the honey-like Soma juices; **nidhayaḥ** — vessels in the position of treasures; (**nihitāḥ** — have been put down).
+
+**Bhāvārtha** — O Aśvin deities, let no wolf or she-wolf harm me, who am worthy of your favour; and do not abandon me, nor give me over to any other; your share of the oblation has been prepared; this praise is directed to you alone; and these Soma-juices, honey-like, have been prepared only for you.
+
+**English Translation.** *(printed)*
+
+"Let not the wolf, let not the she-wolf, harm me, safe (in your protcction [sic]) ; obandon [sic] me not, nor deliver me (to another). This your share of the offering is prepared ; this prayer, Dasras, (is addressed) to you ; these treasures of Soma juice are for you."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Aśvin deities are prayed to: "protect me from the harm of the wolf". The word **vṛka** is explained in general as "wolf" (*toḷa*). The story that the Aśvin deities freed a bird named Vartikā, which had been seized in the mouth of a wolf, is hinted at in the ṛk Ṛ. Saṃ. 1-118-8 [?]. It is told in many places that animals like these gave trouble to men. But the word *vṛka* does not mean in every place where it is used a creature of cruel nature in the established sense. For:
+
+> सुपर्णा एते आसते मध्य आरोधने दिवः ।
+> ते सेधन्ति पथो वृकं तरन्तं यह्वतीरपो वित्तं मे अस्य रोदसी ॥
+
+> *suparṇā ete āsate madhya ārodhane divaḥ |*
+> *te sedhanti patho vṛkaṃ tarantaṃ yahvatīrapo vittaṃ me asya rodasī ‖*
+
+(Ṛ. Saṃ. 1-105-11)
+
+---
+
+**Progress note:** printed p. 638 (PDF 658) done — Sūkta 183 Ṛk 3 ends (grammar); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (vṛka; continues p. 639). Next: printed p. 639 (PDF 659). Open flags: refs [?]; review/doubts_v13.json.
