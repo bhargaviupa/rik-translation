@@ -13478,4 +13478,70 @@ This ṛk has been explained in two or three ways. Here Agastya's pupil indicate
 
 ---
 
-**Progress note:** printed p. 490 (PDF 510) done — Sūkta 179 Ṛk 5 complete; Ṛk 6 (last): Saṃhitā, Pada written. Next: printed p. 491 (PDF 511), Ṛk 6 bhāṣya. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 491  (PDF 511)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 491.)*
+
+**Sāyaṇa-bhāṣya**
+
+> अथ विनियुक्तयोर्मध्ये द्वितीययो [?] सूक्ते षष्ठ्यन्तेवास्याह [?] ॥ अयमगस्त्यो मुद्गरुः [?] खनित्रैः फलस्योत्पादनसाधनैर्यज्ञस्तोत्रादिभिः खनमानः फलमभिमतमुत्पादयन् प्रजां प्रकर्षेण पुनःपुनर्जायमानमपत्यं कुलस्यापकेनसाधनं [?] पुत्रादिकं बलं चेच्छमानः सन् । यद्वा । प्रजां भृत्यादिरूपां चेच्छन् । ऋषिरतीन्द्रियद्रष्टा महानुभाव उग्र उद्गूर्णः संसारे सञ्चरन्नप्यपापः सन्नुभौ वर्णौ वर्णनीयावाकारौ कामं च तपश्च पुपोष । सत्या आशिषो देवेषु देवेभ्यो जगाम । प्राप्तवान् । यतोऽयं महानुभावस्तस्मादस्मान्पातीत्यर्थः ॥ [as read; several words doubtful [?]]
+
+*Gist:* Agastya, a seer who has obtained from the gods blessings of true fruit, nourished both desire and austerity, seeking offspring and strength; so he protects us.
+
+**Pratipadārtha**
+
+**khanitraiḥ** — with the implements, such as sacrifice and *stotra*, that produce the fruit; **khanamānaḥ** — digging out the desired fruit; **prajām** — progeny, such as servants; **apatyam** — sons and grandsons, who raise up the family; **balam (ca)** — and strength; **icchamānaḥ** — desiring; **ṛṣiḥ** — the seer of what lies beyond the senses; **ugraḥ** — [though immersed in the world] sinless; **Agastyaḥ** — our teacher Agastya; **ubhau varṇau** — the two kinds of acts, desire and austerity; **pupoṣa** — fostered; (and) **deveṣu** — from the deities; **satyāḥ** — of true fruits; **āśiṣaḥ** — the blessings; **jagāma** — obtained.
+
+**Bhāvārtha**
+
+The ṛṣi Agastya, who achieves what he desires by means such as sacrifice and praise, who desires sons, servants, strength and the like, who sees beyond the senses and is sinless though immersed in worldly life, has come having accomplished both desire and austerity; therefore he has obtained from the deities blessings of true fruit (the favour of the deities).
+
+**Printed English**
+
+> Agastya, a venerable sage, working with (fit) implements, desiring progeny, offspring, and strength, practised both classes (of obligations), and received true benedictions from the gods.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***ubhau varṇau ṛṣir ugraḥ pupoṣa*** — it says that the ṛṣi Agastya made two kinds of *varṇa* flourish. For "*ubhau varṇau*" Sāyaṇa has explained "*kāmaṃ ca tapaś ca*" … [the sentence continues on the next page.]
+
+### Printed p. 492  (PDF 512)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 492.)*
+
+… that is, desire and austerity, the two. Or it can be explained as the two kinds of wealth, this-worldly (*aihika*) and other-worldly (*āmuṣmika*): earthly wealth is the fruit of desire, and other-worldly wealth is the fruit of austerity. The sense can be that Agastya made both these fruits flourish. If one is to obtain, by one's own power, the riches of both worlds, Agastya must have had extraordinary strength of being (*sattva*); its greatness is shown by the sequence of his origin.
+
+Since Agastya is the son of Mitra and Varuṇa, the individual powers of Mitra and Varuṇa joined and made a special power in Agastya. Agastya is well known as *Maitrāvaruṇi*; how this came about and why, the author of the Bṛhaddevatā has explained in this way:
+
+> तयोरादित्ययोः सत्रे दृष्ट्वाप्सरसमुर्वशीम् । रेतश्चस्कन्द तत्कुम्भे न्यपतद्वासतीवरे ॥
+> तेनैव तु मुहूर्तेन वीर्यवन्तौ तपस्विनौ । अगस्त्यश्च वसिष्ठश्च तत्रर्षी सम्बभूवतुः ॥
+> बहुधा पतितं रेतः कलशे च जले स्थले । स्थले वसिष्ठस्तु मुनिः सम्भूत ऋषिसत्तमः ॥
+> कुम्भे त्वगस्त्यः सम्भूतो जले मत्स्यो महाद्युतिः । उदियाय ततोऽगस्त्यः शम्यामात्रो महातपाः ॥
+> मानेन सम्मितो यस्मात्तस्मान्मान्य इहोच्यते । यद्वा कुम्भादृषिर्जातः कुम्भेनापि हि मीयते ॥
+> कुम्भ इत्यभिधानं च परिमाणस्य लक्ष्यते ॥
+
+> *tayorādityayoḥ satre dṛṣṭvāpsarasamurvaśīm | retaścaskanda tatkumbhe nyapatadvāsatīvare ‖*
+> *tenaiva tu muhūrtena vīryavantau tapasvinau | agastyaśca vasiṣṭhaśca tatrarṣī sambabhūvatuḥ ‖*
+> *bahudhā patitaṃ retaḥ kalaśe ca jale sthale | sthale vasiṣṭhastu muniḥ sambhūta ṛṣisattamaḥ ‖*
+> *kumbhe tvagastyaḥ sambhūto jale matsyo mahādyutiḥ | udiyāya tato 'gastyaḥ śamyāmātro mahātapāḥ ‖*
+> *mānena sammito yasmāttasmānmānya ihocyate | yadvā kumbhādṛṣirjātaḥ kumbhenāpi hi mīyate ‖*
+> *kumbha ityabhidhānaṃ ca parimāṇasya lakṣyate ‖*
+
+(Bṛ. De. 5-149 to 154 [?]) — of these Ādityas, Mitra and Varuṇa both saw, in a sacrificial session (*sattra*), the heavenly courtesan Urvaśī and were infatuated; then their seed fell and dropped into the *vasatīvarī* pot (*kumbha*).
+
+> तस्या दर्शनान्मित्रावरुणयोः रेतश्चस्कन्द ।
+
+> *tasyā darśanānmitrāvaruṇayoḥ retaścaskanda |*
+
+(Ni. 5-13 [?]) — at once two ascetics, ṛṣis of great vigour, Vasiṣṭha and Agastya, came into being. That is, the seed fell in the pot, in the water, and on the ground. By the seed that fell on the ground Vasiṣṭha, the best of ṛṣis, was born; Agastya was born from the pot and from the water, and the fish [*matsya*, of great brilliance]. The greatly austere Agastya, of the measure of a *śamyā* (the sacrificial peg), came out. Because he was measured (*sammita*), he is said to be "honoured" (*mānya*), and so he got the name; the story of Agastya's origin. Born of Mitra and Varuṇa, Agastya must have obtained the extraordinary powers of both; the individual powers of the two are described in the *śruti* thus:
+
+> इमां वां मित्रावरुणा सुवृक्तिमिषं न कृण्वे असुरा नवीयः ।
+> इनो वामन्यः पदवीरदब्धो जनं च मित्रो यतते ब्रुवाणः ॥
+
+> *imāṃ vāṃ mitrāvaruṇā suvṛktimiṣaṃ na kṛṇve asurā navīyaḥ |*
+> *ino vāmanyaḥ padavīradabdho janaṃ ca mitro yatate bruvāṇaḥ ‖*
+
+(Ṛ. Saṃ. 7-36-2 [?], as read)
+
+---
+
+**Progress note:** printed p. 492 (PDF 512) done — Sūkta 179 Ṛk 6: bhāṣya…printed English, Special Topics (ubhau varṇau; Agastya's birth from Mitra-Varuṇa; continues p. 493). Next: printed p. 493 (PDF 513). Open flags: refs [?]; review/doubts_v13.json.
