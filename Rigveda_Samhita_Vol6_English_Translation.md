@@ -12247,8 +12247,10 @@ revad asmabhyaṃ purvaṇīka dīdihi ||5||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.6**
 
-> क्षपो राजन्नुत त्मनाग्ने वस्तोरुतोषसः ।
-> स तिग्मजम्भ रक्षसो दह प्रति ॥ ६ ॥
+*(Accents as printed, 300 dpi; positions of strokes/underlines doubtful in both lines: [accent ?].)*
+
+> क्षपो॑ राजन्नु॒त त्मनाग्ने॑ वस्तो॑रु॒तोष॑सः ।
+> स ति॑ग्मजम्भ र॒क्ष॑सो दह॒ प्रति॑ ॥ ६ ॥
 
 *kṣapo rājann uta tmanāgne vastor utoṣasaḥ |
 sa tigmajambha rakṣaso daha prati ||6||*
