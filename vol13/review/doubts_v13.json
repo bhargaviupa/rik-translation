@@ -3334,5 +3334,29 @@
   ],
   "note": "Satapatha refs 12-1-2-2?, 12-1-2-13?, 12-1-4-2? small; quotes approx",
   "answer": ""
+ },
+ {
+  "pdf": 387,
+  "printed": 367,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Eggling quote with Devanagari glyphs inside English: reproduced as printed; verify words (padanusvarani, hayikarasvarani)",
+  "answer": ""
+ },
+ {
+  "pdf": 388,
+  "printed": 368,
+  "crop": [
+   0.2,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra/Unadi numerals small type (matsi, apayi, matsarah, madah, indu, sahasrasatamah)",
+  "answer": ""
  }
 ]
