@@ -3552,4 +3552,42 @@ The Nirukta-writer, explaining the sense of the particle *cit*: "*cid ity eṣo 
 
 ---
 
-**Progress note:** printed p. 158 (PDF 178) done — Sūkta 169 Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada and the first part of the bhāṣya written (breaks off at 'याः स्तुतयस्त्वानेवा—'). Next: printed p. 159 (PDF 179). Open flags: Ṛk 4 bhāṣya [?] words (dense); small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 159  (PDF 179)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9"; the bhāṣya of Ṛk 4 concludes.)*
+
+> कामयन्तेति वा योजना ॥ कनतेर्ण्यन्ताल्लुङि चङ्रूपम् [?] । चङ्यन्यतरस्यामिति [?] चङः पूर्वमुत्तराक्षरमुदात्तम् । त्वां होत्रादयो वाज्यैर्वाजलक्षणैरन्नैः [?] पीपयन्त । आप्याययन्ति । तत्र दृष्टान्तः । मध्वो मधुरस्य स्तन्यस्य लाभाय वाज्यैः सारवद्भिरन्नविशेषैः स्तनं न । तं यथाप्याययन्ति तद्वदयं त्वां बहुकृतप्रदानाय [?] स्तुत्या हविषाप्याययामः । त्वं तु दातव्यत्वेन प्रसिद्धं धनं सर्वदा देहीत्यर्थः ॥
+
+*Gist:* The ṛtvijs feed you with strong food-offerings, as a woman's breast is nourished for sweet milk; and you, give us the wealth that is to be given.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *ojiṣṭhayā* — exceedingly strong (most excellent); *dakṣiṇayā iva* — as with a gift that is a means of prosperity (as one satisfies the priests with cows and the like); *rātim* — you, the giver (we satisfy). [*Or:* *ojiṣṭhayā* — most excellent; *dakṣiṇayā* — with a gift; *rātim iva* — as relatives (are won over), so you too we win over with praise and oblations and the like.] *(kiṃca* — and*)* *vāyoḥ* — of you, who are quick to grant boons; *te* — you; *stutaḥ* — (which, ours) the praisers; *cakananta* — praise (desire); *yāḥ stutaḥ ca* — and which (our) praises; *cakananta* — desired; *madhvaḥ* — sweet (for the gain of milk); *vājyaiḥ* — (substantial) with food and the like; *stanam na* — as one nourishes (a woman's) breast; *(vājyaiḥ* — with oblations and the like*)* *pīpayanta* — (they) satisfy; *tvaṃ tu* — you, however; *tam* — that (fit to be offered to you); *rayim* — (cow-form) wealth; *naḥ* — to us; *dāḥ* — bestow.
+
+**Bhāvārtha.** O Indra, as priests are satisfied with an excellent gift consisting of cattle and the like, or as relatives are, so we satisfy you; our praises also are directed to you alone; as a woman's breast is nourished with food in order that she may give sweet milk, the priests such as the *hotṛ* nourish you with oblations; you also grant us wealth, in the form of cattle and the like, that is fit to be offered to you.
+
+**English Translation (as printed):** Indra, quickly grant us that wealth (which you possess, for we gratify) the donor with a most worthy present: we, your praisers, offer to you, the ready-giver of boons, the laudations that would propitiate you; (and the priests) nourish you with sacrificial food, as they cherish the bosom (of a female for the sake of replenishing it) with sweet (milk).
+
+### Printed p. 160  (PDF 180)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***taṃ rayiṃ dāḥ*** — *tvaddānayogyaṃ gavādidhanaṃ dehi*: the word *rayi* is read among the names of water (Ni. 1-[?]) and among the names of wealth (Ni. 2-[?]), and it is explained as "*rayiriti dhananāma rāter dānakarmaṇaḥ*" (Ni. 4-[?]). Indra is described as one who gives abundant wealth beyond others: "*yasmād itarebhyo'pi tvam eva bahupradaḥ; ato'ti mahaddhanaṃ dehi*"; and by this sentence the wealth is also prayed for, that he may bestow it on us.
+
+***ojiṣṭhayā dakṣiṇayā iva rātim*** — for this sentence two kinds of meaning are explained. The word *ojiṣṭhayā* is used as an adjective of the word *dakṣiṇā*. "*Dakṣiṇā*" is explained as wealth which is a means of prosperity and is moving (that is, living, such as cattle). As priests are satisfied by such a *dakṣiṇā*, so we satisfy Indra, who is the giver: this is one kind of meaning. The Nirukta-writer says: "*dakṣiṇā dakṣateḥ samṛddhyayati karmaṇaḥ vyṛddhaṃ samarthayatīti*" [as read] — the gift that brings prosperity; or, "*dakṣiṇo hasto dakṣateḥ utsāhakarmaṇaḥ*" — the right hand, with a force that raises enthusiasm. And among the words for gifts (Ni. 3-[?]) the word *rāti* is read.
+
+> शुक्रं ते अन्यद्यजतं ते अन्यद्विषुरूपे अहनी द्यौरिवासि ।
+> विश्वा हि माया अवसि स्वधावो भद्रा ते पूषन्निह रातिरस्तु ॥
+
+> *śukraṃ te anyad yajataṃ te anyad viṣurūpe ahanī dyaur ivāsi |*
+> *viśvā hi māyā avasi svadhāvo bhadrā te pūṣann iha rātir astu ‖*
+
+(Ṛ. Saṃ. 6-58-1). Here the sense "gift" is given for the word *rāti*.
+
+Sāyaṇa, in explaining the second meaning: "*dakṣiṇāśabdo deyadravyasāmānyavacanaḥ | rātiśabdo bandhuvacanaḥ*" — the word *dakṣiṇā* denotes the substance that is given; for the word *rāti* the sense "relative" is explained; "*hiraṇyādisāravaddravyapradānena bandhuṃ yathā vaśīkurvanti*" — as men win over relatives by giving costly things, gold and the like — and "*tadvat tvāṃ vaśīkurmaḥ*", "we win you over in the same way": thus the wish of the sacrificers is described.
+
+***vāyoḥ*** — *dhautayuvakṣepiṣṭhasya śīghravarapradasya*: for the word *vāyu* the meaning "one who destroys the youthful life of enemies, one who bestows boons promptly, being alert" is explained. Yāska says: "*vāyur vāter veter vā syād gatikarmaṇaḥ; eterīti śākaṭāyanaḥ … anarthako vakāraḥ*" (Ni. 10-[?]) — whether from the root *vā* of motion, or from *iṅ gatau* … (continued on the next page).
+
+---
+
+**Progress note:** printed p. 160 (PDF 180) done — Sūkta 169 Ṛk 4 Pratipadārtha to Special Topics (continues p. 161). Next: printed p. 161 (PDF 181). Open flags: Ṛk 4 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
