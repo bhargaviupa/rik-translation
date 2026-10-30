@@ -12908,8 +12908,10 @@ and there it is only (…); there the sense is 'having a thousand, or countless,
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 80.1**
 
-> इत्था हि सोम इन्मदे ब्रह्मा चकार वर्धनम् ।
-> शविष्ठ वज्रिन्नोजसा पृथिव्या निः शशा अहिमर्चन्ननु स्वराज्यम् ॥ १ ॥
+*(Accents as printed, 300 dpi; strokes/underlines doubtful in many places: [accent ?]; read roughly, to be re-checked.)*
+
+> इ॒त्था हि सोम॒ इन्मदे॑ ब्रह्मा॒ च॒कार॒ वर्ध॑नम् ।
+> शवि॑ष्ठ वज्रि॒न्नोज॑सा पृथि॒व्या निः श॒शा॒ अहि॒मर्च॒न्ननु॑ स्वरा॑ज्यम् ॥ १ ॥
 
 *itthā hi soma in made brahmā cakāra vardhanam |
 śaviṣṭha vajrinn ojasā pṛthivyā niḥ śaśā ahim arcann anu svarājyam ||1||*
