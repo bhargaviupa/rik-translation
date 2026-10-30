@@ -13216,4 +13216,74 @@ In this ṛk Agastya, giving his wife Lopāmudrā once more assurance, says that
 
 ---
 
-**Progress note:** printed p. 482 (PDF 502) done — Sūkta 179 Ṛk 4: Saṃhitā…printed English, Special Topics begun (Nirukta vs Bṛhaddevatā on speaker; continues p. 483). Next: printed p. 483 (PDF 503). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 483  (PDF 503)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 483.)*
+
+**Special Topics (continued)**
+
+> … [एवं लोपा]मुद्रावाक्ये "नदस्य रुधतो मामागमत् कामः" इति प्रकरणादृषिनदशब्देनोच्यते इत्युपपद्यते ॥
+
+> *… [evaṃ lopā]mudrāvākye "nadasya rudhato māmāgamat kāmaḥ" iti prakaraṇādṛṣinadaśabdenocyate ityupapadyate ‖*
+
+(Nirukta-vyākhyā 5-2 [?]) — the Nirukta-writers called Lopāmudrā "a ṛṣi's daughter", and Durgācārya called her "a royal ṛṣi's daughter". She is Agastya's wife; there is also a story that Agastya himself fashioned her, from the wish to obtain a beautiful wife, and left her in the Vidarbha king's palace. It is described in this way in the Mahābhārata. Since it follows the statements of the Bṛhaddevatā, it is quoted here:
+
+> ततः प्रसवसन्तानं चिन्तयन्भगवानृषिः । आत्मनः प्रसवस्यार्थे नापश्यत्सदृशीं स्त्रियम् ॥
+> स तस्य तस्य सत्त्वस्य तत्तदङ्गमनुत्तमम् । संगृह्य तत्स्वैरङ्गैर्निर्ममे [?] स्त्रियमुत्तमाम् ॥
+> स तां विदर्भराजाय पुत्रकामाय काम्यते । निर्मितामात्मनोऽर्थाय मुनिः प्रादान्महातपाः ॥
+> सा तत्र जज्ञे सुभगा विद्युत्सौदामिनी यथा । विभ्राजमाना वपुषा व्यवर्धत शुभानना ॥
+> जातमात्रां च तां दृष्ट्वा वैदर्भः पृथिवीपतिः । प्रहर्षेण द्विजातिभ्यो न्यवेदयत भारत ॥
+> अभ्यनन्दन्त तं सर्वे ब्राह्मणा वसुधाधिप । लोपामुद्रेति तस्याश्च चक्रिरे नाम ते द्विजाः ॥
+> ववृधे सा महाराज बिभ्रती रूपमुत्तमम् । अप्स्विवोत्पलिनी शीघ्रमग्नेरिव शिखा शुभा ॥
+> ........ वैदर्भोऽतु तथायुक्तां यौवनीं प्रेक्ष्य वै पिता । मनसा चिन्तयामास कस्मै दद्यामिमां सुताम् ॥
+> यदा त्वमन्यशागस्त्र्ये [?] गार्हस्थ्ये तां क्षमामिति । तदाभिगम्य प्रोवाच वैदर्भं पृथिवीपतिम् ॥
+> राजन्निवेशे बुद्धिर्मे वर्तते पुत्रकारणात् । वरये त्वां महीपाल लोपामुद्रां प्रयच्छ मे ॥
+> एवमुक्तः स मुनिना महीपालो विचेतनः । प्रत्याख्यानाय चाशक्तः प्रदातुं चैव नैच्छत ॥
+> ततः स भार्यामभ्येत्य प्रोवाच पृथिवीपतिः । महर्षिर्वीर्यवानेष क्रुद्धः शापाग्निना दहेत् ॥
+> तं तथा दुःखितं दृष्ट्वा सभार्यं पृथिवीपतिम् । लोपामुद्राभिगम्येदं काले वचनमब्रवीत् ॥
+> न मत्कृते महीपाल पीडामभ्येतुमर्हसि । प्रयच्छ मामगस्त्याय त्राह्यात्मानं मया पितः ॥
+> दुहितुर्वचनाद्राजा सोऽगस्त्याय महात्मने । लोपामुद्रां ततः प्रादाद्विधिपूर्वं विशां पते ॥
+> प्राप्य भार्यामगस्त्यस्तु लोपामुद्रामभाषत । महार्हाण्याविसृजैतानि वासांस्याभरणानि च ॥
+> ततः सा दर्शनीयानि महार्हाणि तनूनि च । समुत्ससर्ज रम्भोरूर्वासनान्यायतेक्षणा ॥
+> ततश्चीराणि जग्राह वल्कलान्यजिनानि च । समानव्रतचर्या च बभूवायतलोचना ॥
+
+> *tataḥ prasavasantānaṃ cintayanbhagavānṛṣiḥ | ātmanaḥ prasavasyārthe nāpaśyatsadṛśīṃ striyam ‖*
+> *sa tasya tasya sattvasya tattadaṅgamanuttamam | saṃgṛhya tatsvairaṅgairnirmame [?] striyamuttamām ‖*
+> *sa tāṃ vidarbharājāya putrakāmāya kāmyate | nirmitāmātmano 'rthāya muniḥ prādānmahātapāḥ ‖*
+> *sā tatra jajñe subhagā vidyutsaudāminī yathā | vibhrājamānā vapuṣā vyavardhata śubhānanā ‖*
+> *jātamātrāṃ ca tāṃ dṛṣṭvā vaidarbhaḥ pṛthivīpatiḥ | praharṣeṇa dvijātibhyo nyavedayata bhārata ‖*
+> *abhyanandanta taṃ sarve brāhmaṇā vasudhādhipa | lopāmudreti tasyāśca cakrire nāma te dvijāḥ ‖*
+> *vavṛdhe sā mahārāja bibhratī rūpamuttamam | apsvivotpalinī śīghramagneriva śikhā śubhā ‖*
+> *........ vaidarbho 'tu tathāyuktāṃ yauvanīṃ prekṣya vai pitā | manasā cintayāmāsa kasmai dadyāmimāṃ sutām ‖*
+> *yadā tvamanyaśāgastrye [?] gārhasthye tāṃ kṣamāmiti | tadābhigamya provāca vaidarbhaṃ pṛthivīpatim ‖*
+> *rājanniveśe buddhirme vartate putrakāraṇāt | varaye tvāṃ mahīpāla lopāmudrāṃ prayaccha me ‖*
+> *evamuktaḥ sa muninā mahīpālo vicetanaḥ | pratyākhyānāya cāśaktaḥ pradātuṃ caiva naicchata ‖*
+> *tataḥ sa bhāryāmabhyetya provāca pṛthivīpatiḥ | maharṣirvīryavāneṣa kruddhaḥ śāpāgninā dahet ‖*
+> *taṃ tathā duḥkhitaṃ dṛṣṭvā sabhāryaṃ pṛthivīpatim | lopāmudrābhigamyedaṃ kāle vacanamabravīt ‖*
+> *na matkṛte mahīpāla pīḍāmabhyetumarhasi | prayaccha māmagastyāya trāhyātmānaṃ mayā pitaḥ ‖*
+> *duhiturvacanādrājā so 'gastyāya mahātmane | lopāmudrāṃ tataḥ prādādvidhipūrvaṃ viśāṃ pate ‖*
+> *prāpya bhāryāmagastyastu lopāmudrāmabhāṣata | mahārhāṇyāvisṛjaitāni vāsāṃsyābharaṇāni ca ‖*
+> *tataḥ sā darśanīyāni mahārhāṇi tanūni ca | samutsasarja rambhorūrvāsanānyāyatekṣaṇā ‖*
+> *tataścīrāṇi jagrāha valkalānyajināni ca | samānavratacaryā ca babhūvāyatalocanā ‖*
+
+### Printed p. 484  (PDF 504)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 484.)*
+
+> गङ्गाद्वारमथागम्य भगवानृषिसत्तमः । उग्रमातिष्ठत तपः सह पत्न्यानुकूलया ॥
+> सा प्रीत्या बहुमानाच्च पतिं पर्यचरत्तदा । अगस्त्यश्च परां प्रीतिं भार्यायां चान्वगच्छत ॥
+> ततो बहुतिथे काले लोपामुद्रां विशांपते । तपसा द्योतितां स्नातां ददर्श भगवानृषिः ॥
+> स तस्याः परिचारेण शौचेन च दमेन च । श्रिया रूपेण च प्रीतो मैथुनायाजुहाव ताम् ॥
+
+> *gaṅgādvāramathāgamya bhagavānṛṣisattamaḥ | ugramātiṣṭhata tapaḥ saha patnyānukūlayā ‖*
+> *sā prītyā bahumānācca patiṃ paryacarattadā | agastyaśca parāṃ prītiṃ bhāryāyāṃ cānvagacchata ‖*
+> *tato bahutithe kāle lopāmudrāṃ viśāṃpate | tapasā dyotitāṃ snātāṃ dadarśa bhagavānṛṣiḥ ‖*
+> *sa tasyāḥ paricāreṇa śaucena ca damena ca | śriyā rūpeṇa ca prīto maithunāyājuhāva tām ‖*
+
+(Mahābhārata, Vana-parva, 94–95 [?]; as read, several words doubtful [?]; a line is given in print with dots)
+
+— Afterwards the ṛṣi Agastya wished to obtain the fruit of progeny; but no wife suitable to him was to be found. So he himself fashioned a girl suited to him, and left her in the house of the Vidarbha king, who desired a son. The Vidarbha king was delighted at obtaining her, and his friends all congratulated him on gaining such a beautiful daughter. They gave her the name Lopāmudrā. She grew up happily in the palace of the Vidarbha king and attained youth. Then Agastya came and asked the Vidarbha king to give her to him as wife. The king did not like it; but, afraid that the angry ṛṣi might curse him, he went to ask his wife's leave. Then Lopāmudrā herself came to her father's aid and said, "Give me to Agastya." Afterwards the Vidarbha king gave her in marriage to Agastya with due rites. Having obtained Lopāmudrā as his wife, Agastya wished her too to follow the rule of the ṛṣis; so he had her put off her ornaments and the like, and she too, at his word, put on bark garments, as her husband desired. Having got such a suitable wife, he practised severe austerity with her on the bank of the Gaṅgā. She too served him with respect and love for her husband, and was his helper. Once, when Lopāmudrā had bathed after her season, Agastya, pleased by her purity of body, by her beauty and by her love for her husband, desired her company — so the story is told in the Mahābhārata. But in the Ṛk-saṃhitā it is told that Lopāmudrā, worn by hard austerity, obtained rest and wished for her husband's company; in the Mahābhārata it is Agastya himself who wished. The rest of the story is the same. As in the Bṛhaddevatā — "*ṛtusnātāṃ ṛṣir bhāryāṃ lopāmudrāṃ yaśasvinīm | upajalpitum ārebhe rahaḥsaṃyogakāmyayā*" — so also in the Mahābhārata, "*tapasā dyotitāṃ snātāṃ dadarśa bhagavān ṛṣiḥ*". In the sequence of this story there is no great difference between the Vedic description and the description in the Itihāsa. That same matter the Nirukta-writers have stated as "*ṛṣiputryā vilapitam*" ("the lament of a ṛṣi's daughter").
+
+---
+
+**Progress note:** printed p. 484 (PDF 504) done — Sūkta 179 Ṛk 4 Special Topics (Mahābhārata Lopāmudrā story). Next: printed p. 485 (PDF 505): Ṛk 4 grammar, then Ṛk 5 (Bṛhatī). Open flags: refs [?]; MBh verses as read [?]; review/doubts_v13.json.
