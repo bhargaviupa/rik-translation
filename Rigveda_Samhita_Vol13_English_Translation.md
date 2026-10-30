@@ -677,4 +677,34 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 ---
 
-**Progress note:** printed p. 32 (PDF 52) done — Sūkta 166 Ṛk 7: Saṃhitā, Pada, bhāṣya done. Next: printed p. 33 (PDF 53): Pratipadārtha of Ṛk 7. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 33  (PDF 53)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)*
+
+**Pratipadārtha.** (*marutaḥ* — Marut-gods); *vīrasya* — of the hero Indra; *prathamāni* — foremost (first); *pauṃsyā* — deeds of valour such as the slaying of Vṛtra; *viduḥ* — they know; (such) *pra skambhadeṣṇāḥ* — those who give with firm gifts (that do not stop); *anavabhrarādhasaḥ* — those whose wealth in the form of oblations is not spoiled; *alātṛṇāsaḥ* — those who have no wish to harm, or, towards enemies, those with the wish to harm, or great givers of fruits; *vidatheṣu* — in sacrifices; *suṣṭutāḥ* — well praised; (those Marut-gods) *madirasya* — of the intoxicating Soma juice; *pītaye* — for drinking; *arkam* — the worship-worthy Indra; *arcanti* — worship with praise and the like.
+
+**Bhāvārtha.** These Marut-gods, givers without cease, possessors of unspoiled wealth in the form of oblations, great givers of fruits, specially praised in sacrifices, knowing the foremost deeds of valour such as the slaying of Vṛtra by the hero Indra, call upon and worship, with praises and the like, the worship-worthy Indra for the drinking of the Soma juice, the means of gladness.
+
+**English Translation (as printed):** Givers without stint, possessors of inexhaustible riches, devoid of malevolence, ever glorified at sacrifices, they worship the adorable (indra), for (the sake of) drinking the (Soma) wine; for they know the first manly exploits of the hero.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***pra skambhadeṣṇāḥ*** — *prakarṣeṇa stambhitadānāḥ | aviratadānā ity arthaḥ*: the desired objects that the Maruts give are firm; that is, they are not things that last a short time and perish, but remain permanently — this is the purport.
+
+***anavabhrarādhasaḥ*** — *abhraṣṭahavirādhidhanāḥ*: since the word *rādhaḥ* is read among the twenty-eight names of wealth beginning with *magha*, *rekṇaḥ* (Ni. 2-9 [?]), *rādhaḥ* means wealth. *Anavabhra* means "not fallen", that is, "not in vain". The oblation and the like (wealth) offered to the Maruts is not wasted: since they accept it and bestow on the sacrificers the fitting fruits, the wealth in the form of the oblation offered to the Marut-gods does not become fruitless: this is the main purport. *(Printer's signature at the foot: "XIII 3".)*
+
+### Printed p. 34  (PDF 54)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* ***alātṛṇāsaḥ*** — this word is used in this ṛk and also in
+
+> अलातृणो वल इन्द्र व्रजो गोः पुरा हन्तोर्भयमानो व्यार । सुगान्पथो अकृणोन्निरजे गाः प्रावन्वाणीः पुरुहूतं धनन्तीः ॥ [?]
+
+> *alātṛṇo vala indra vrajo goḥ purā hantorbhayamāno vyāra | sugānpatho akṛṇonniraje gāḥ prāvanvāṇīḥ puruhūtaṃ dhanantīḥ ‖ [?]*
+
+(Ṛ. Saṃ. 2-30-10 [?]) It does not occur elsewhere. Sāyaṇa explains this word here: "*anātṛṇāsa ātardanarahitāḥ | athavā alaṃ paryāptamātardanāḥ śatrūṇām | yadvā alam atyarthaṃ dātāraḥ phalānām*" [as read]; and in his commentary on the ṛk *alātṛṇo vala indra vrajaḥ*, given as the example in the explanation of the present ṛk, he explains it as *bahūdakatayālam atyarthaṃ mātṛdyate himsyate ityalātṛṇaḥ* [as read]. The Nirukta-writer, in explaining this ṛk, says "*alātṛṇo valamātardano meghaḥ*" (Ni. 6-2 [?]); that is, "the Maruts who, for the water that is in the cloud, force it and exert strength so that it may rain". It cannot be said that merely because they are within the clouds they pour rain. The main purport is that the Maruts, impelled by the blow of the strongly blowing wind, pour rain, and in this way "harm" the clouds; or, as Sāyaṇa explains, it can be understood as "harming the enemies" or "giving special fruits to those who praise them".
+
+The scholar Max Müller has pointed out the opinions of some Western scholars on the meaning of this word and criticised them. The meaning given by the Nirukta-writer, *alamātardano meghaḥ* — "the cloud which opens easily" (English in the source) — he has made clear; in his view the word *atardana* is formed from the root *tṛd*. Sāyaṇa, against this, says that this word is formed from the root *tṛ̥* meaning "to kill, to harm" (*kolla, hiṃsisu*), and has explained it accordingly. Professor Roth has said that the word *tardana* is formed from the root *rā dānē* (to give) with a prefix *tṛ* [?], and, since the word *ātardana* shows a negative sense, he has expressed the opinion that *ātardana* ought to mean "one who gives nothing" ("one who does not give or yield anything", English in the source). If this meaning is accepted, would not what is said in the words *skambhadeṣṇāḥ* and the like, in this very ṛk, about the generosity of the Maruts, become meaningless? Wilson: "Devoid of melevolence [sic]" (English in the source) — the English rendering he has made for this word does not seem to fit very well either. Therefore, if the word is to be explained so as to fit both the Maruts here, as an epithet, and the Asura named Vala in Ṛ. Saṃ. 2-30-10, it must be said that the word *alātṛṇa* is formed from the word *lātṛn*. This word *lātṛn* or *lātra* *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 34 (PDF 54) done — Sūkta 166 Ṛk 7 Special Topics in progress (alātṛṇāsaḥ; continues on p. 35). Next: printed p. 35 (PDF 55). Open flags: small-type numerals [?]; review/doubts_v13.json.
