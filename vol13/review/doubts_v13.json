@@ -4090,5 +4090,29 @@
   ],
   "note": "Rik 1 bhashya: 'ajanatvagacchatu va' phrase read approx - zoom needed",
   "answer": ""
+ },
+ {
+  "pdf": 449,
+  "printed": 429,
+  "crop": [
+   0.3,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-100-1?, 5-39-4?, 4-38-10; Nirukta 10-18? small; Keith quote with Kannada-set Sanskrit",
+  "answer": ""
+ },
+ {
+  "pdf": 450,
+  "printed": 430,
+  "crop": [
+   0.05,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 6-18-2, 6-32-3?, 10-50-1; Nirukta 3-7, 10-3, 11-9; Ait.Br 1-5? small; quotes approx",
+  "answer": ""
  }
 ]
