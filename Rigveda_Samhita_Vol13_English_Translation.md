@@ -4997,7 +4997,7 @@ The Nirukta-writers, pointing out this very matter, speak thus:
 > येन मानासश्चितयन्त उस्रा व्युष्टिषु शवसा शश्वतीनाम् ।
 > स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ॥ ५ ॥
 
-> *yena mānāsaścitayanta [?] usrā vyuṣṭiṣu śavasā śaśvatīnām |*
+> *yena mānāsaścitayanta usrā vyuṣṭiṣu śavasā śaśvatīnām |*
 > *sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
@@ -5058,4 +5058,78 @@ According to this translation the word *mānāsaḥ* means the descendants of th
 
 ---
 
-**Progress note:** printed p. 216 (PDF 236) done — Sūkta 171 Ṛk 5: Saṃhitā to Special Topics (Max Müller on mānāsaḥ; continues p. 217). Next: printed p. 217 (PDF 237). Open flags: ref numerals [?]; review/doubts_v13.json.
+### Printed p. 217  (PDF 237)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Max Müller quotation from p. 216 concludes.)*
+
+*"I translate* मान्य, *the son of* मान, *because, the poet so called in I. 189-8 is in all probability, the same as our* मांदार्य मान्य. *But it may also be Manya the descendant of* मांदारि." [S. B. E. XXXII. P. 206].
+
+And, explaining in this very ṛk the meaning of the word *mānāsaḥ*, he says:
+
+*The* मानासः *are the people of* मान्य *and there is no necessity for taking* मान *with Grassmann as a general name for poet.* [S. B. E. XXXII. P. 291].
+
+Thus he states his own opinion.
+
+Here, if, as Sāyaṇa explains, the word *mānāsaḥ* is made an epithet of *usrāḥ*, then the purport is that by the favour of Indra the rays, at the very appearance of the dawn, make living beings engaged in their various activities. Here the question what connection the rays of the sun have with Indra has no occasion to arise; for it is well known that Indra is the presiding deity of the eastern quarter. Moreover,
+
+> भगश्चैवार्यमा चांशश्च मित्रो वरुण एव च ।
+> धाता चैव विधाता च विवस्वांश्च महाद्युतिः ॥
+> त्वष्टा पूषा तथैवेन्द्रो द्वादशो विष्णुरुच्यते ।
+
+> *bhagaś caivāryamā cāṃśaś ca mitro varuṇa eva ca |*
+> *dhātā caiva vidhātā ca vivasvāṃś ca mahādyutiḥ ‖*
+> *tvaṣṭā pūṣā tathaivendro dvādaśo viṣṇur ucyate |*
+
+(Bṛ. Dev. 5-146, 147 [?]). Thus the Bṛhaddevatā counts Indra as one of the twelve Ādityas. And
+
+> तद्वा एष एवेन्द्रः । य एष तपति ।
+
+> *tad vā eṣa evendraḥ | ya eṣa tapati |*
+
+(Śat. Brā. 1-6-4-18 [?]) — in this sentence of the Śatapatha Brāhmaṇa the identity of Indra and the blazing Āditya is stated. And, describing Indra's greatness,
+
+> युञ्जन्ति ब्रध्नमरुषं चरन्तं परि तस्थुषः । रोचन्ते रोचना दिवि ॥
+
+> *yuñjanti bradhnam aruṣaṃ carantaṃ pari tasthuṣaḥ | rocante rocanā divi ‖*
+
+(Ṛ. Saṃ. 1-6-1). It is described that Indra himself, in the forms of all the deities — Agni, Vāyu, Āditya and the rest — carries out the functions of all. Therefore the appearance of the dawn and, after it, the diffusion of the rays of the Āditya are accomplished by the favour of Indra: this is the purport.
+
+***śaśvatīnāṃ vyuṣṭiṣu citayante*** — *nityānāṃ bahvīnām uṣasāṃ prakāśeṣu satsu prāṇināṃ svasvavyavahārāya prajñāpayanti*: taking the differences of days (*ahan*) as the occasion, it is explained that the dawns are many. At the appearance of the several dawns, the rays favoured by Indra produce in each being (continued)
+
+### Printed p. 218  (PDF 238)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+the consciousness suited to the activities that each living being carries on; and by explaining "*aindryāṃ diśi tenaivānugṛhītā uṣaso raśmaya udgacchantīti prasiddham*" — "it is well known that, in the eastern quarter, the rays of the dawn, favoured by Indra, rise" — he describes the rising of the dawn, and explains that these rays give this power, namely that, when the dawn has risen, living beings acquire the knowledge suited to their respective activities.
+
+The eternal Uṣas rises every day and lights up the world according to her rule. This view is praised in many places:
+
+> पुराणी देवि युवतिः पुरंधिरनु व्रतं चरसि विश्ववारे ।
+
+> *purāṇī devi yuvatiḥ puraṃdhir anu vrataṃ carasi viśvavāre |*
+
+(Ṛ. Saṃ. 3-61-1).
+
+> ईयुषीणामुपमा शश्वतीनां विभातीनां प्रथमोषा व्यश्चैत् ।
+
+> *īyuṣīṇām upamā śaśvatīnāṃ vibhātīnāṃ prathamoṣā vyaśvait |*
+
+(Ṛ. Saṃ. 1-113-15). She is praised as beginningless, eternal, bright, and a means of lighting up. And
+
+> वाजिनीवती सूर्यस्य योषा चित्रामघा राय ईशे वसूनाम् ।
+
+> *vājinīvatī sūryasya yoṣā citrāmaghā rāya īśe vasūnām |*
+
+(Ṛ. Saṃ. 1-48-3 [?]). In ṛks of this kind the relation of husband and wife between Indra, who is of the nature of the Āditya, and Uṣas is described. The purport is that, with the appearance of Uṣas, the rays of the Āditya spread and give consciousness to all living beings who lie almost dead.
+
+> व्यु१षा आवः पथ्या३ जनानां पञ्च क्षितीर्मानुषीर्बोधयन्ती ।
+
+> *vy uṣā āvaḥ pathyā janānāṃ pañca kṣitīr mānuṣīr bodhayantī |*
+
+(Ṛ. Saṃ. 7-79-1 [?]). In many such places the benefit that has come to the world from the goddess Uṣas is described. That whole purpose is accomplished only by the favour of Indra, the lord of the entire world: this is the intention of the present ṛk. It has therefore been said, "*śavasā yena citayante*".
+
+***vṛṣabha*** — *varṣiteḥ*: Indra is addressed by the word *vṛṣabha* as "one who sends rain". And, Indra is ***ugraḥ*** — *udgūrṇabalaḥ*, one filled with strength; ***sahodāḥ*** — *parābhavasāmarthyaṃ balaṃ sahaḥ tasya dātā*: since *sahas* is well known as the capacity for defeating others, Indra is the giver of that power of overcoming (the capacity to subdue others); ***sthaviraḥ*** — *purātanaḥ*: Indra has existed for a very long time: thus it is described.
+
+---
+
+**Progress note:** printed p. 218 (PDF 238) done — Sūkta 171 Ṛk 5 Special Topics (grammar and the closing of Ṛk 5 on p. 219). Next: printed p. 219 (PDF 239). Open flags: ref numerals pp. 217–218 [?]; review/doubts_v13.json.
