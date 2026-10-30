@@ -1476,4 +1476,54 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 62 (PDF 82) done — Sūkta 166 Ṛk 12 complete (grammar noted). Next: printed p. 63 (PDF 83): Ṛk 13. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 63  (PDF 83)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Vyākaraṇa-prakriyā (continued, noted briefly; sūtra numbers [?]).** *sukṛte* (*śobhanaṃ karoti iti sukṛt*; *kvip*; by *hrasvasya piti kṛti tuk* Pā. 6-1-71 *tuk* is added; in the *prādisamāsa* the *kṛdutta* member keeps its own accent; dative singular). *arādhvam* (root *rā dāne*, of the *adādi* class; by *vyatyaya* ātmanepada; *laṅ* 2nd plural; as it follows *yad*-connection *nighāta* is prevented, so by *yadvṛttānnityam* [Pā. 8-1-66] the *aṭ*-augment, being acute, gives the initial acute). ‖ 12 ‖
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> तद्वो जामित्वं मरुतः परे युगे पुरू यच्छंसममृतास आवत ।
+> अया धिया मनवे श्रुष्टिमाव्या साकं नरो दंसनैरा चिकित्रिरे ॥ १३ ॥
+
+> *tadvo jāmitvaṃ marutaḥ pare yuge purū yacchaṃsamamṛtāsa āvata |*
+> *ayā dhiyā manave śruṣṭimāvyā sākaṃ naro daṃsanairā cikitrire ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> तत् । वः । जामिऽत्वम् । मरुतः । परे । युगे । पुरु । यत् । शंसम् । अमृतासः । आवत ।
+> अया । धिया । मनवे । श्रुष्टिम् । आव्य । साकम् । नरः । दंसनैः । आ । चिकित्रिरे ॥ १३ ॥
+
+> *tat | vaḥ | jāmi 'tvam | marutaḥ | pare | yuge | puru | yat | śaṃsam | amṛtāsaḥ | āvata |*
+> *ayā | dhiyā | manave | śruṣṭim | āvya | sākam | naraḥ | daṃsanaiḥ | ā | cikitrire ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वो जामित्वं बन्धुत्वमस्मद्विषयप्रेमाधिक्यं तत् खलु प्रसिद्धमित्यर्थः । कियत्पर्यन्तमिति तदुच्यते । परे युगे । युगशब्दः कालोपलक्षकः । उत्कृष्टे महति कालेऽतीतेऽपि वर्तत इति शेषः । तत्कथमवगतमित्यत आह । अमृतासोऽमरणधर्माणो हे मरुतः यूयं यद्यस्माच्छंसमस्माभिः क्रियमाणां स्तुतिं पुरु प्रभूतं यथा भवति तथावत रक्षथ । तस्माद्युष्मत्कृतं जामित्वमविनाशीत्यर्थः । किञ्च यूयमया धियानयानुग्रहात्मिकया बुद्ध्या मनवे मनुष्याय स्तोत्रे यष्ट्रेऽस्मदादये श्रुष्टिमाव्य कीर्तिं स्तुतिं वा रक्षित्वा साकं सम्भूय नरो नेतारः सन्तो दंसनैः कर्मभिरित्थंभूता आ चिकित्रिरे । सर्वतो जानीथ ॥ [?]
+
+*Gist:* The Maruts' kinship with us, felt for long ages, shows in their having protected our praises abundantly; with this gracious intent, protecting the fame of the praising man, they act as leaders and come to know all through their deeds.
+
+### Printed p. 64  (PDF 84)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+**Pratipadārtha.** (*he*) *amṛtāsaḥ* — O immortal Marut-gods (you); *yat* — for which reason; *śaṃsam* — praise offered by us; *puru* — abundantly; *āvata* — you protect; *ayā dhiyā* — by this intelligence (of grace); *manave* — to men who praise, to us; *śruṣṭim āvya* — protecting fame (praise); *sākam* — (all) together; *naraḥ* — (for us) as leaders; *daṃsanaiḥ* — by acts which; *ā cikitrire* — you know all around (or: you are satisfied); (*he marutaḥ* — O Maruts); *tat* — that; *vaḥ* — your; *jāmitvam* — kinship; *pare yuge* — for a very long time (will remain).
+
+**Bhāvārtha.** O immortal Marut-gods, you consider with great pleasure the praises that we offer, and with a gracious mind you produce renown for us, men who praise you, and become our leaders and perform acts, and are satisfied with them; such is your kinship with us, which is everlasting.
+
+**English Translation (as printed):** Your alliance with us, Maruts, is of a long duration: on which account, immortals, accept our ample praise; and, having accepted our laudation, be gratified, leaders (of sacrifice), by our holy acts, through this (your) favourable disposition towards mankind.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***jāmitvam*** — the word *jāmi* is read among the names of water (Ni. 1-12 [?]); but here, for the word *jāmitvam*, the Bhāṣyakāra explains "kinship" (*bandhutva*). Yāska, in his Nirukta, says:
+
+> न जामये भगिन्यै । जामिरन्येऽस्यां जनयन्ति जामुपत्यम् । जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्रायो भवति ॥
+
+> *na jāmaye bhaginyai | jāmiranye 'syāṃ janayanti jāmupatyam | jamatervā syādgatikarmaṇo nirgamanaprāyo bhavati ‖*
+
+(Ni. 3-6 [?]) — that is, *jāmi* means a sister (*bhaginī*): since in this woman others, that is, the husband and so on, beget offspring, she is called *jāmi*; or, since the word *jāmi* has the sense of motion (*gamana*): since the woman born in a house leaves the house after her marriage and goes to her husband's house, the sister is called *jāmi*: such is the derivation he gives. The general meaning "kinship" which has been given in this ṛk is appropriate.
+
+---
+
+**Progress note:** printed p. 64 (PDF 84) done — Sūkta 166 Ṛk 13: text, Pratipadārtha, Bhāvārtha, English, Special Topics begun (jāmitvam; may continue on p. 65). Next: printed p. 65 (PDF 85). Open flags: small-type numerals [?]; review/doubts_v13.json.
