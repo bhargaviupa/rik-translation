@@ -12990,4 +12990,58 @@ Examining the original meaning of the word *ṛta* and its development, Max Mül
 
 ---
 
-**Progress note:** printed p. 474 (PDF 494) done — Sūkta 179 Ṛk 2 Special Topics under way (ṛta; continues p. 475). Next: printed p. 475 (PDF 495). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 475  (PDF 495)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 475.)*
+
+> doubtless also commands positive action. ṛta [set in Indic letters] is more than truth, satya [Indic letters]. Law is denoted by dharma [Indic letters], which denotes that which supports and that which is supported; it applies like ṛta to all aspects of the world, to the sequence of events in Nature, to the sacrifice and to man's life."
+
+In the physical universe, wherever the universal rule is described, it is indicated by the word *ṛta*. In the same way, in human ethical conduct also, the words *ṛta* and its opposite *anṛta* indicate the ethical rule of man and unethical conduct. Since man's sacrificial activity is directly related to both physical and ethical dealings, *ṛta* is used also as a synonym of *yajña*. Hence the word is also a synonym of *satya*, and gives a sense wider than the idea indicated by the word *satya*: this is the essence of the above sentences.
+
+All the deities, whether singly or collectively, are described in the Ṛk-saṃhitā at every step as presiding over *ṛta* (*ṛtādhyakṣa*) and as pervaded by *ṛta*. Taking a mantra that shows this fully, the matter becomes clear:
+
+> हंसः शुचिषद्वसुरन्तरिक्षसद्धोता वेदिषदतिथिर्दुरोणसत् ।
+> नृषद्वरसदृतसद्व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋतम् ॥
+
+> *haṃsaḥ śuciṣadvasurantarikṣasaddhotā vediṣadatithirduroṇasat |*
+> *nṛṣadvarasadṛtasadvyomasadabjā gojā ṛtajā adrijā ṛtam ‖*
+
+(Ṛ. Saṃ. 4-40-5) — in this ṛk the universal rule is taught: to every individual in the universe a fixed place is assigned by *ṛta*. The place of the Āditya is regulated in the sky; the place of the *hotṛ* in the sacrificial altar; the place of the guest in the house; but the place of *ṛta* alone pervades the whole universe — *ṛta* is pervasive in the earth, in the intermediate region, in men, in the gods, in sacrifices and rites, in the acts of the Āditya, in mountains and the like: this is the description of this mantra. It is a statement that shows the spiritual (*ādhyātmika*) and ethical principle of the universe. Showing the greatness of this *ṛta*, the scholar Bloomfield says:
+
+> "If therefore an ethics of the Rig-veda, rooted in the concept of Ritaf [sic] be at all conceded, it is not to be construed as an ethies o, [sic] naturalism with its apothesis of la bete humaine [sic]. It provides in the stricter sense, an ethics in accordance with the highest human
+
+### Printed p. 476  (PDF 496)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 476.)*
+
+> idial [sic] which was destined to realise all its ethical implications in the Law of karma [set in Indic letters, as printed with a visarga [?]]. Of that there is surely no room for misgivings; for accredited exponents of the philosophy and history of religion, like Pfleiderer, view the Rita and Karma of the Hindus as more or less hyphenated in their nature, and classify them on grounds of functional similarity, with the Nemesis of the Greeks, the Ashavaista of the Persians and the Tao of the Chinese"
+
+As this passage also shows, *ṛta* is a word that reflects the principle of the universal rule; likewise it makes clear the ideas that exist in the beliefs of other peoples under names such as Nemesis, Tao and the like. But one more thing has to be noted here: the word *ṛta* is used in the plural in many places, and in those contexts it is not right to give it the sense "universal rule". Thus in some contexts a different meaning has to be given, according to the context. So here the special meanings of this word are briefly examined with a few examples.
+
+> वि श्रयन्तामृतावृधो द्वारो देवीरसश्चतः ।
+> अद्या नूनं च यष्टवे ॥
+
+> *vi śrayantāmṛtāvṛdho dvāro devīrasaścataḥ |*
+> *adyā nūnaṃ ca yaṣṭave ‖*
+
+(Ṛ. Saṃ. 1-13-6) — here the deities called the Divine Doors are called *ṛtāvṛdhaḥ* ("increasing *ṛta*"); the sense here is protection of the sacrifice, and *ṛta* must here be a synonym of *yajña*. And:
+
+> नमस्यत हव्यदातिं स्वध्वरं दुवस्यत दम्यं जातवेदसम् ।
+> रथीरृतस्य बृहतो विचर्षणिरग्निर्देवानामभवत्पुरोहितः ॥
+
+> *namasyata havyadātiṃ svadhvaraṃ duvasyata damyaṃ jātavedasam |*
+> *rathīrṛtasya bṛhato vicarṣaṇiragnirdevānāmabhavatpurohitaḥ ‖*
+
+(Ṛ. Saṃ. 3-2-8 [?]) — here Agni is described as the charioteer of *ṛta*; here *ṛta* has to mean the sacrifice; there is no room to explain it otherwise. But:
+
+> ससस्य यद्वियुता सस्मिन्नूधन्नृतस्य धामन्रणयन्त देवाः ।
+> महा अग्निर्नमसा रातहव्यो वेरध्वराय सदमिदृतावा ॥
+
+> *sasasya yadviyutā sasminnūdhannṛtasya dhāmanraṇayanta devāḥ |*
+> *mahā agnirnamasā rātahavyo veradhvarāya sadamidṛtāvā ‖*
+
+(Ṛ. Saṃ. 4-2-7 [?]) — in this ṛk the meaning can be given in two ways. First: there are two words, *ṛtasya dhāman* and *ṛtāvā*. Here, for the first, *ṛtasya*, Sāyaṇa has given "water" (*udaka*), and for the second, *ṛtāvā*, he has shown *ṛta* as "truth" — "*satyavān*" — as the first meaning; second: *ṛtasya dhāman* means "the womb (*yoni*) of truth", i.e. the sacrifice, and *ṛtāvā* "possessed of truth". Or between the deities and men mutual … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 476 (PDF 496) done — Sūkta 179 Ṛk 2 Special Topics (ṛta; continues p. 477). Next: printed p. 477 (PDF 497). Open flags: refs [?]; review/doubts_v13.json.
