@@ -1,0 +1,294 @@
+{
+"rows": [
+{
+"id": "21_3",
+"printed": 21,
+"pdf": 40,
+"file": "11-19",
+"ctx": "ḥ || navagvā navanītagataya iti yāsko vyācakhyau | ni. 11-19 | ye tu d",
+"tess": "೧೦.೧೯1",
+"prop": "11-19",
+"box": [
+1628,
+2518,
+133,
+33
+],
+"region": false,
+"filled": false
+},
+{
+"id": "22_1",
+"printed": 22,
+"pdf": 41,
+"file": "6-24",
+"ctx": "valo 'suraḥ | devā vai vale gāḥ paryapaśyan | ai. brā. 6-24 ity ādāv ",
+"tess": "೬.೨೪",
+"prop": "6-24",
+"box": [
+965,
+1419,
+87,
+26
+],
+"region": false,
+"filled": false
+},
+{
+"id": "24_1",
+"printed": 24,
+"pdf": 43,
+"file": "9-10-84",
+"ctx": "gve dadhyaṅ apornute yena viprāsa āpire |* > *(Ṛ. Saṃ. 9-10-84, as print",
+"tess": "೯-೧೦-೮೪)",
+"prop": "9-10-84",
+"box": [
+1687,
+2276,
+158,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "25_1",
+"printed": 25,
+"pdf": 44,
+"file": "19-1-56",
+"ctx": "e Ṛgveda, and also mantras of the Atharvaveda Saṃhitā (19-1-56; 18-3-20)",
+"tess": "೧೯೨೧೨೫೬;",
+"prop": "19-1-56",
+"box": [
+1360,
+943,
+168,
+29
+],
+"region": false,
+"filled": false
+},
+{
+"id": "25_2",
+"printed": 25,
+"pdf": 44,
+"file": "18-3-20",
+"ctx": " and also mantras of the Atharvaveda Saṃhitā (19-1-56; 18-3-20) and othe",
+"tess": "೧೮-೩-೨೦",
+"prop": "18-3-20",
+"box": [
+1582,
+945,
+155,
+23
+],
+"region": false,
+"filled": false
+},
+{
+"id": "26_3",
+"printed": 26,
+"pdf": 45,
+"file": "3-2-48",
+"ctx": "oot *gam* with *ḍa* by \"ḍo 'nyatrāpi dṛśyate\" [Pā. Sū. 3-2-48]; the *kṛ",
+"tess": "೩-೨-೪೮)",
+"prop": "3-2-48",
+"box": [
+694,
+1948,
+140,
+37
+],
+"region": false,
+"filled": false
+},
+{
+"id": "26_4",
+"printed": 26,
+"pdf": 45,
+"file": "8-2-18",
+"ctx": "n *kapilakādi* words by the Vārttika at Pā. Mahābhāṣya 8-2-18); **दरयः*",
+"tess": "೮-೨-೧೮)",
+"prop": "8-2-18",
+"box": [
+1898,
+2236,
+133,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "28_0",
+"printed": 28,
+"pdf": 47,
+"file": "5-1",
+"ctx": "— *tamo 'py andha ucyate, nāsmin dhyānaṃ bhavati | ni. 5-1 | iti yās",
+"tess": "೧.",
+"prop": "5-1",
+"box": [
+1691,
+515,
+31,
+23
+],
+"region": false,
+"filled": false
+},
+{
+"id": "28_2",
+"printed": 28,
+"pdf": 47,
+"file": "3-1-82",
+"ctx": "** — *laṅ*, \"stambhustumbhu…\" the affix *śnā* (Pā. Sū. 3-1-82); \"chanda",
+"tess": "೩.೧.೮೨!",
+"prop": "3-1-82",
+"box": [
+1284,
+777,
+148,
+33
+],
+"region": false,
+"filled": false
+},
+{
+"id": "28_3",
+"printed": 28,
+"pdf": 47,
+"file": "3-1-84",
+"ctx": "x *śnā* (Pā. Sū. 3-1-82); \"chandasi śāyajapi\" (Pā. Sū. 3-1-84); \"ity ah",
+"tess": "೩.೧.೮೪",
+"prop": "3-1-84",
+"box": [
+589,
+862,
+125,
+26
+],
+"region": false,
+"filled": false
+},
+{
+"id": "29_0",
+"printed": 29,
+"pdf": 48,
+"file": "2-6",
+"ctx": "— \"by the rays\"; *sarve 'pi raśmayo gāva ucyante* (Ni. 2-6) — \"all r",
+"tess": "೨-೬),",
+"prop": "2-6",
+"box": [
+1628,
+1344,
+88,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "29_1",
+"printed": 29,
+"pdf": 48,
+"file": "5-1",
+"ctx": "ḥ*\". - **अन्धः** (*andhaḥ*) — *tamas*, \"darkness\" (Ni. 5-1). - **रजः",
+"tess": "೫-೧).",
+"prop": "5-1",
+"box": [
+1024,
+1419,
+89,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "29_2",
+"printed": 29,
+"pdf": 48,
+"file": "4-19",
+"ctx": "*रजः** (*rajaḥ*) — *lokaḥ | lokā rajāṃsy ucyante* (Ni. 4-19) — \"world",
+"tess": "೪-೧೯).",
+"prop": "4-19",
+"box": [
+1302,
+1499,
+114,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "30_1",
+"printed": 30,
+"pdf": 49,
+"file": "5-1",
+"ctx": "— *tamo 'py andha ucyate, nāsmin dhyānaṃ bhavati* (Ni. 5-1) *iti yās",
+"tess": "೫-೧)",
+"prop": "5-1",
+"box": [
+1630,
+1084,
+72,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "30_3",
+"printed": 30,
+"pdf": 49,
+"file": "4-19",
+"ctx": "*रजः** — \"since 'the worlds are called *rajāṃsi*' (Ni. 4-19) is said,",
+"tess": "೪-೧೯)",
+"prop": "4-19",
+"box": [
+1276,
+1252,
+100,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "30_4",
+"printed": 30,
+"pdf": 49,
+"file": "3-1-82",
+"ctx": "taś ca\"; the affix *śnā* by \"stambhustumbhu…\" (Pā. Sū. 3-1-82); *śāyajā",
+"tess": "೩-೧-೮೨)",
+"prop": "3-1-82",
+"box": [
+1479,
+1490,
+148,
+44
+],
+"region": false,
+"filled": false
+},
+{
+"id": "30_5",
+"printed": 30,
+"pdf": 49,
+"file": "3-1-84",
+"ctx": "at affix, in the Veda, by \"chandasi śāyajapi\" (Pā. Sū. 3-1-84) even tho",
+"tess": "೩-೧-೮೪)",
+"prop": "3-1-84",
+"box": [
+1002,
+1561,
+147,
+39
+],
+"region": false,
+"filled": false
+}
+],
+"unmatched": []
+}

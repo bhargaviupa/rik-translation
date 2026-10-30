@@ -1,0 +1,103 @@
+[
+ {
+  "page": 31,
+  "y0": 0.33,
+  "y1": 0.41,
+  "kind": "accent",
+  "file": "**उ॒प॒ह्व॒रे यदुप॑रा॒ अपि॑न्व॒न्मध्व॑र्णसो न॒द्य॑श्च॒त॑स्रः ॥ ६ ॥** [accent ?]",
+  "ctx": "उ॒प॒ह्व॒रे यदुप॑रा॒",
+  "note": "Ṛk 62.6 line 2: is there a mark above re of upahvare? in catasraḥ the anudātta is read under ca and the svarita above ta — please check"
+ },
+ {
+  "page": 31,
+  "y0": 0.625,
+  "y1": 0.665,
+  "kind": "word",
+  "file": "(The words *ātmann annabho* are read as printed and doubtful [?];",
+  "ctx": "ātmann annabho",
+  "note": "bhāṣya, first line: ಕರ್ಮಾತ್ಮನ್ನನ್ನಭೋ — printed so; sense unclear"
+ },
+ {
+  "page": 35,
+  "y0": 0.245,
+  "y1": 0.405,
+  "kind": "accent",
+  "file": "**द्विता वि व॑व्रे स॒नजा॒ सनी॑ळे अ॒यास्यः॒ स्तव॑मानेभिर॒र्कैः ।** [accent ?]",
+  "ctx": "द्विता वि व॑व्रे",
+  "note": "Ṛk 62.7: is there an anudātta under dvi of dvitā? line 2: svarita read above daṃ of sudaṃsāḥ"
+ },
+ {
+  "page": 39,
+  "y0": 0.67,
+  "y1": 0.76,
+  "kind": "accent",
+  "file": "**कृ॒ष्णेभि॑र॒क्तोषा रुश॑द्भि॒र्वपु॑र्भि॒रा च॑रतो अ॒न्यान्या॑ ॥ ८ ॥** [accent ?]",
+  "ctx": "कृ॒ष्णेभि॑र॒क्तोषा",
+  "note": "Ṛk 62.8 line 2: no mark read on ṣā of aktoṣā; please check"
+ },
+ {
+  "page": 42,
+  "y0": 0.365,
+  "y1": 0.395,
+  "kind": "numeral",
+  "file": "(Uṇ. Sū. 1-250 [?], as read)",
+  "ctx": "iṇśīṅjibhyāṃ van",
+  "note": "Uṇādi number after ಇಣ್ಶೀಙ್ಜಿಭ್ಯಾಂ ವನ್: read ೧-೨೫೦ (the bhāṣya on p. 40 prints 1-152)"
+ },
+ {
+  "page": 42,
+  "y0": 0.495,
+  "y1": 0.525,
+  "kind": "numeral",
+  "file": "(Uṇ. Sū. 2-274 [?], as read)",
+  "ctx": "arti-pṛ-vapi-yajiṣu",
+  "note": "Uṇādi number in the vapurbhiḥ paragraph: read ೨-೨೭೪ (middle digit 7 or 2?; the bhāṣya on p. 40 prints 2-118)"
+ },
+ {
+  "page": 43,
+  "y0": 0.255,
+  "y1": 0.415,
+  "kind": "accent",
+  "file": "**आ॒मा॑सु चिद्दधिषे प॒क्वम॒न्तः पयः॑ कृ॒ष्णासु॒ रुश॒द्रोहि॑णीषु ॥ ९ ॥** [accent ?]",
+  "ctx": "आ॒मा॑सु चिद्दधिषे",
+  "note": "Ṛk 62.9: svarita read directly after an anudātta (su-DAṂ-sāḥ, ā-MĀ-su); also check line 1"
+ },
+ {
+  "page": 46,
+  "y0": 0.33,
+  "y1": 0.36,
+  "kind": "numeral",
+  "file": "(Uṇ. Sū. 3-374 [?], as read; the bhāṣya on p. 44 prints 3-94)",
+  "ctx": "ruher ruś ca lo vā",
+  "note": "Uṇādi number after ರುಹೇ ರಶ್ಚ ಲೋ ವಾ: read ೩-೩೭೪"
+ },
+ {
+  "page": 50,
+  "y0": 0.585,
+  "y1": 0.74,
+  "kind": "accent",
+  "file": "**पतिं॒ न पत्नी॑रुश॒तीरु॒शन्तं॑ स्पृश॑न्ति त्वा शवसावन्मनी॒षाः ॥ ११ ॥** [accent ?]",
+  "ctx": "पतिं॒ न पत्नी॑",
+  "note": "Ṛk 62.11: line 1 first underline of namasā (under vo or na?); line 2 svarita of spṛśanti read above śa"
+ },
+ {
+  "page": 54,
+  "y0": 0.66,
+  "y1": 0.735,
+  "kind": "accent",
+  "file": "**द्यु॒माँ अ॑सि॒ क्रतु॑माँ इन्द्र धी॒रः॒ शिक्षा॑ शचीव॒स्तव॑ नः॒ श॑चीभिः ॥ १२ ॥** [accent ?]",
+  "ctx": "द्यु॒माँ अ॑सि॒",
+  "note": "Ṛk 62.12 line 2: anudātta under both dhī and raḥ? svarita of śacībhiḥ above śa?"
+ },
+ {
+  "page": 60,
+  "y0": 0.24,
+  "y1": 0.265,
+  "x0": 0.1,
+  "x1": 0.6,
+  "kind": "word",
+  "file": "(printed \"kyaj\"; the nasal read doubtfully, ?)",
+  "ctx": "the affix *kyaṅ*",
+  "note": "ಕರ್ತುಃ ಕ್ಯ?್ ಸಲೋಪಶ್ಚ — is the final letter ಙ್ or ಜ್?"
+ }
+]

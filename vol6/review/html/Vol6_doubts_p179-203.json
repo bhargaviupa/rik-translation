@@ -1,0 +1,66 @@
+[
+{
+"id": "184_d0",
+"printed": 184,
+"file": "प्री॒तो व॑यो दधाति ॥ ३ ॥ ४ ॥** [accent ?]",
+"ctx": "Rik 66.2 Saṃhitā line 2: वा॒जी न प्री॒तो व॑यो दधाति",
+"kind": "accent",
+"note": "Stroke above vayo: on va (as written) or on yo?"
+},
+{
+"id": "198_d1",
+"printed": 198,
+"file": "(Uṇ. Sū. 4-11[?])",
+"ctx": "janīnām: sarvadhātubhya in (Uṇ. Sū. 4-11[?])",
+"kind": "numeral",
+"note": "Last digit: 7 (flat-footed) or 2 (curled)?"
+},
+{
+"id": "198_d2",
+"printed": 198,
+"file": "> **तं व॑श्च॒राथा॑ व॒यं व॑स॒त्यास्तं॒ न गावो॒ नक्ष॑न्त इ॒द्धम् ।** [accent ?]",
+"ctx": "Rik 66.5 Saṃhitā line 1",
+"kind": "accent",
+"note": "In vasatyāstaṃ: is the line under the subscript of tyā an anudātta (then tyā॒) or part of the glyph? Line under sta read as anudātta."
+},
+{
+"id": "199_d3",
+"printed": 199,
+"file": "> **सिन्धु॒र्न क्षोदः॒ प्र नीची॑रैनो॒न्नव॑न्त॒ गावः॒ स्व॑र्दृशी॑के ॥ ९ ॥ १० ॥** [accent ?]",
+"ctx": "Rik 66.5 Saṃhitā line 2",
+"kind": "accent",
+"note": "svar: stroke above and line below sva — svarita or anudātta? Line under nta/gā: which syllable?"
+},
+{
+"id": "200_d4",
+"printed": 200,
+"file": "न्यधी च । पा. ६-२-५३ [?]",
+"ctx": "nyadhī ca | Pā. 6-2-53 [?] iti gateḥ",
+"kind": "numeral",
+"note": "Last two digits: read 53; the first of them looks like ಜ (5?)."
+},
+{
+"id": "202_d5",
+"printed": 202,
+"file": "(Uṇ. Sū. 4-500 [?]; print \"vahivasyartibhyaś cit\")",
+"ctx": "Vasatyā: vahivasyartibhyaś cit (Uṇ. Sū. 4-...)",
+"kind": "numeral",
+"note": "Read 4-500: the ಜ-like digit (5?) then two zeros."
+},
+{
+"id": "202_d6",
+"printed": 202,
+"file": "by \"nyadhī ca\" (Pā. Sū. 6-2-53 [?])",
+"ctx": "Nīcīḥ grammar: nyadhī ca (Pā. Sū. 6-2-..)",
+"kind": "numeral",
+"note": "Same as p. 200: 6-2-53?"
+},
+{
+"id": "203_d7",
+"printed": 203,
+"file": "(Uṇ. Sū. 4-4[?])",
+"ctx": "dṛśīke: aniḍbhyāṃ ca (Uṇ. Sū. 4-4..)",
+"kind": "numeral",
+"note": "Digits after 4-4: read like ಜ (5?) and a 7/2."
+}
+]

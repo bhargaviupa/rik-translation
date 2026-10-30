@@ -1,0 +1,50 @@
+[
+{
+"id": "5_d0",
+"printed": 5,
+"file": "Ni. 3-9 [?]",
+"ctx": "*śavaḥ* means strength (Ni. 3-9 [?], as printed",
+"kind": "numeral",
+"note": "first digit of the Nirukta reference: ೩ (3) or ೨ (2)? (line beginning ಶವಸಾನಾಯ—ಶವಃ ಎಂದರೆ ಬಲವು)"
+},
+{
+"id": "8_d1",
+"printed": 8,
+"file": "Pā. 1-4-1? [?]",
+"ctx": "svādiṣv asarvanāmasthāne*\" (Pā. 1-4-1? [?], as printed",
+"kind": "numeral",
+"note": "last digit of ಪಾ. ಸೂ. ೧-೪-೧?: looks like ೩ (3); the rule svādiṣv asarvanāmasthāne is usually 1-4-17"
+},
+{
+"id": "9_d2",
+"printed": 9,
+"file": "पितरः॑",
+"ctx": "नः॒ पूर्वे॑ पितरः॑ पद॒ज्ञा",
+"kind": "accent",
+"note": "is there an anudātta stroke under ಪಿ of ಪಿತರಃ? (also: svarita of ಅಂಗಿರಸೋ read on ಗಿ)"
+},
+{
+"id": "12_d3",
+"printed": 12,
+"file": "धासिम्",
+"ctx": "तन॑याय धासिम् ।",
+"kind": "accent",
+"note": "is there an anudātta stroke under ಧಾ of ಧಾಸಿಂ (line 2 of the Saṃhitā)?"
+},
+{
+"id": "12_d4",
+"printed": 12,
+"file": "र्भि॒नदद्रिं",
+"ctx": "बृह॒स्पति॑र्भि॒नदद्रिं वि॒दद्गाः",
+"kind": "accent",
+"note": "the svarita stroke stands between ದ and ದ್ರಿಂ of ಭಿನದದ್ರಿಂ: on which syllable?"
+},
+{
+"id": "12_d5",
+"printed": 12,
+"file": "न॑रः",
+"ctx": "वावशन्त॒ न॑रः ॥ ३ ॥",
+"kind": "accent",
+"note": "the svarita stroke over ನ of ನರಃ (as printed?) or over ರಃ?"
+}
+]

@@ -1,0 +1,66 @@
+[
+{
+"id": "63_d0",
+"printed": 63,
+"file": "Varga [?]\" as read.)*",
+"ctx": "### Page 63 (PDF 81)",
+"kind": "numeral",
+"note": "Left running head: the varga numeral after ವ. is broken in the print (4?)"
+},
+{
+"id": "66_d1",
+"printed": 66,
+"file": "बा॒ह्वो॑र्धात् ।** [accent ?]",
+"ctx": "वज्रं॑ जरि॒ता",
+"kind": "accent",
+"note": "Ṛk 63.2 line 1: bāhvor — anudātta under bā and svarita above hvo?"
+},
+{
+"id": "70_d2",
+"printed": 70,
+"file": "न॒र्यस्त्वं षाट् ।** [accent ?]",
+"ctx": "त्वमृ॑भु॒क्षा",
+"kind": "accent",
+"note": "Ṛk 63.3 line 1: is the anudātta under na or rya of naryas?"
+},
+{
+"id": "74_d3",
+"printed": 74,
+"file": "यद्यदोभ्नाः [?]",
+"ctx": "कुत्सस्य शत्रुं यद्यदोभ्नाः",
+"kind": "word",
+"note": "bhāṣya: ಯದ್ಯದೋಭ್ನಾಃ (or ಯದ್ಯದೌಭ್ನಾಃ?) — what is the first word?"
+},
+{
+"id": "77_d4",
+"printed": 77,
+"file": "मित्रा॑न् ॥ ५ ॥** [accent ?]",
+"ctx": "व्य॑स्म॒दा",
+"kind": "accent",
+"note": "Ṛk 63.5 line 2: at vy asmad a svarita stroke and an anudātta stand close together — where?"
+},
+{
+"id": "80_d5",
+"printed": 80,
+"file": "भूत् ॥ ६ ॥** [accent ?]",
+"ctx": "त॑व स्वधाव",
+"kind": "accent",
+"note": "Ṛk 63.6 line 2: svarita above ta of tava? and in atasāyyā above sā or yyā?"
+},
+{
+"id": "84_d6",
+"printed": 84,
+"file": "पू॒रवे॑ कः ॥ ७ ॥** [accent ?]",
+"ctx": "ब॒र्हिर्न",
+"kind": "accent",
+"note": "Ṛk 63.7 line 2: svarita of pūrave above ra or ve?"
+},
+{
+"id": "89_d7",
+"printed": 89,
+"file": "(Ni. 2-24 [?], as read)",
+"ctx": "one names of water",
+"kind": "numeral",
+"note": "Nirukta numbers in the iṣam paragraph: read ೨-೨೪ (water) and ೩-೯ (anna) — please check the digits"
+}
+]

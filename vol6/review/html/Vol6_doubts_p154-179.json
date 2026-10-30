@@ -1,0 +1,66 @@
+[
+{
+"id": "157_d0",
+"printed": 157,
+"file": "ददृशुरित्यर्थः [?]",
+"ctx": "समीपं प्राप्नुवन् । ददृशुरित्यर्थः [?] ॥ पश्वा",
+"kind": "word",
+"note": "first glyph looks like ವ (vadṛśur?); read as dadṛśur (they saw)"
+},
+{
+"id": "161_d1",
+"printed": 161,
+"file": "(Pā. Sū. 2-38-5 [?], as printed; small type)",
+"ctx": "\"aminakṣiyajivadhi…\" (Pā. Sū. 2-38-5 [?], as printed",
+"kind": "numeral",
+"note": "small-type reference at the start of the line: 2-38-5? (first digit curled 2 or 3?)"
+},
+{
+"id": "161_d2",
+"printed": 161,
+"file": "गु॒र्भुव॑त्प॒रिष्टि॒र्द्यौर्न भूम ।** [accent ?]",
+"ctx": "व्र॒ता गु॒र्भुव॑त्प॒रिष्टि॒र्द्यौर्न भूम",
+"kind": "accent",
+"note": "svarita over the join of bhu/vat (read on vat); anudātta strokes under gu, (t)pa, ṣṭi"
+},
+{
+"id": "167_d3",
+"printed": 167,
+"file": "तकि गतौ [?]",
+"ctx": "आद्युदात्तः । तकि गतौ [?] अस्मादन्तर्भावित",
+"kind": "word",
+"note": "root name: print looks like ತನ್ಕು (tanku?), read as taki"
+},
+{
+"id": "170_d4",
+"printed": 170,
+"file": "\"ತಙ್ಕು ಗತೌ\", i.e. *taṅku*? (the bhāṣya, p. 167, has \"taki gatau\") [?]",
+"ctx": "the initial acute; the root [print: \"ತಙ್ಕು ಗತೌ\"",
+"kind": "word",
+"note": "root name in the grammar page: ತಙ್ಕು / ತನ್ಕು?"
+},
+{
+"id": "171_d5",
+"printed": 171,
+"file": "दाति॒ रोमा॑ पृथि॒व्याः ॥ ७ ॥ ८ ॥** [accent ?]",
+"ctx": "यद्वात॑जूतो॒ वना॒ व्यस्था॑द॒ग्निर्ह॑ दाति॒ रोमा॑",
+"kind": "accent",
+"note": "svarita over the join of ro/mā (read on mā); svarita of vātajūto read on ta"
+},
+{
+"id": "174_d6",
+"printed": 174,
+"file": "सीद॒न्क्रत्वा॒ चेति॑ष्ठो वि॒शामु॑षर्भु॒त् ।** [accent ?]",
+"ctx": "श्वसि॑त्य॒प्सु हं॒सो न सीद॒न्क्रत्वा॒ चेति॑ष्ठो",
+"kind": "accent",
+"note": "anudātta of kratvā under kra (read on tvā); anudātta of uṣarbhut under ṣar/bhu join (read on bhu)"
+},
+{
+"id": "177_d7",
+"printed": 177,
+"file": "(3-9-17-1 [?], the third number 17 or 16)",
+"ctx": "Taittirīya Brāhmaṇa sentence (3-9-17-1 [?]",
+"kind": "numeral",
+"note": "Tai. Brā. reference: third group 17 or 16?"
+}
+]
