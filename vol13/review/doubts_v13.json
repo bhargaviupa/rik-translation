@@ -6202,5 +6202,29 @@
   ],
   "note": "long Sa.Br. quote, several words doubtful [?]; transcribed from print",
   "answer": ""
+ },
+ {
+  "pdf": 623,
+  "printed": 603,
+  "crop": [
+   0.1,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Brh.De. verses 3-18..21 many words doubtful [?]; Sa.Br. ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 624,
+  "printed": 604,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; wording as read",
+  "answer": ""
  }
 ]

@@ -16895,4 +16895,71 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 602 (PDF 622) done — Sūkta 182 Ṛk 2 Special Topics (madhuvidyā; Dadhīci story from Śatapatha Brāhmaṇa; continues p. 603). Next: printed p. 603 (PDF 623). Open flags: refs [?]; Sanskrit of Brāhmaṇa passage doubtful [?]; review/doubts_v13.json.
+### Printed p. 603  (PDF 623)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 603.)*
+
+> तस्मादेतदृषीणामभ्यनूक्तं । दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाचेत्यायतं तदुवाचेति हैतदेवैतदुक्तम् ।
+
+> *tasmādetadṛṣīṇāmabhyanūktaṃ | dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvācetyāyataṃ taduvāceti haitadevaitaduktam |*
+
+(Śa. Brā. 14-1-1-18 to 25 [?]; as read, doubtful in places [?]) — therefore the seers say in the ṛk: "when Dadhīci Ātharvaṇa spoke the *madhu* to you with a horse's head". Hence it is well known that it was through the horse's head that the Atharvan-born Dadhīci taught this *madhuvidyā*. The story is told also in the Bṛhaddevatā:
+
+> प्रादाद्ब्रह्माऽपि सुप्रीतः सुताय तदथर्वणः ।
+> स चाभवदृषिस्तेन ब्रह्मणा दीप्तिमत्तरः ॥
+> तमृषिं निषिषेधेन्द्रो मैवं वोचः क्वचिन्मधु ।
+> न हि प्रोक्ते मधुन्यस्मिञ्जीवन्तं त्वोजाम्यहम् ॥
+> तमृषिं त्वश्विनौ देवौ विविक्ते मध्वयाचताम् ।
+> स चेताभ्यां तदाचख्यौ यदुवाच शचीपतिः ॥
+> तमब्रूतां तु नासत्यावाश्व्येन शिरसा भवान् ।
+> मथ्नाशु ग्राहयेत्वावां मेन्द्रश्च त्वा वधीत्ततः ॥
+> आश्व्येन शिरसा तौ तु दध्यञ्चाह यदश्विनौ ।
+> तदस्येन्द्रोऽहरत्क्षिप्रं तन्न्यधत्तानुस्य यज्ञिरः ॥
+> दधीचश्च शिरश्चाश्व्यं कृत्तं वज्रेण वज्रिणा ।
+> पपात सरसो मध्ये पर्वते शर्यणावति ॥
+> तदद्भ्यस्तु समुत्थाय भूतेभ्यो विविधान्वरान् ।
+> प्रादायु युगपर्यन्तं तास्वेवाप्सु निमज्जति ॥
+
+> *prādādbrahmā 'pi suprītaḥ sutāya tadatharvaṇaḥ |*
+> *sa cābhavadṛṣistena brahmaṇā dīptimattaraḥ ‖*
+> *tamṛṣiṃ niṣiṣedhendro maivaṃ vocaḥ kvacinmadhu |*
+> *na hi prokte madhunyasmiñjīvantaṃ tvojāmyaham ‖*
+> *tamṛṣiṃ tvaśvinau devau vivikte madhvayācatām |*
+> *sa cetābhyāṃ tadācakhyau yaduvāca śacīpatiḥ ‖*
+> *tamabrūtāṃ tu nāsatyāvāśvyena śirasā bhavān |*
+> *mathnāśu grāhayetvāvāṃ mendraśca tvā vadhīttataḥ ‖*
+> *āśvyena śirasā tau tu dadhyañcāha yadaśvinau |*
+> *tadasyendro 'haratkṣipraṃ tannyadhattānusya yajñiraḥ ‖*
+> *dadhīcaśca śiraścāśvyaṃ kṛttaṃ vajreṇa vajriṇā |*
+> *papāta saraso madhye parvate śaryaṇāvati ‖*
+> *tadadbhyastu samutthāya bhūtebhyo vividhānvarān |*
+> *prādāyu yugaparyantaṃ tāsvevāpsu nimajjati ‖*
+
+(Bṛ. De. 3-18 to 21 [?]; Sanskrit as read, many words doubtful [?]) — the same story is told in these sentences. There is no difference in the telling of the story, except that at the end it is added that the horse's head, cut off by Indra's weapon, the *vajra*, fell in the lake on the mountain *Śaryaṇāvat*; rising from there, it gave in abundance to all beings suitable boons, and remains in those waters to the end of the *yuga*.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *indratamā* — "*atiśāyane tamabiṣṭhanau*" (Pā. Sū. 5-3-55 [?]) gives suffix *tamap*; having *p*, it is unaccented; "*supāṃ sulug*" gives ā-substitution for the first (case) dual; so too the changes in *marutvatamā*. *daṃsiṣṭhā* — by the above sūtra, suffix *iṣṭhan* in the sense of excess; "*ṭeḥ*" (Pā. Sū. 6-4-155 [?]) elides the final part (*as*) of the base; "*ñit-ādir-nityam*" gives initial acute; ā-substitution for the dual as before.
+
+### Printed p. 604  (PDF 624)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 604.)*
+
+*(Grammar page, continued, noted briefly):* *rathyā* — "*rathaṃ arhataḥ iti rathyā*": "*rathād yat*" (Pā. Sū. 4-4-121 [?]) gives suffix *yat* in the sense of "worthy"; "*yasyeti ca*" (Pā. Sū. 6-4-148 [?]) elides *a*; "*tit svaritam*" (Pā. Sū. 6-1-185 [?]) gives svarita accent; ā-substitution for the dual. *rathītamā* — as before the suffix *tamap* in the sense of excess; "*anyeṣām api dṛśyate*" (Pā. Sū. 6-3-137 [?]) gives lengthening of the former member in the Saṃhitā; ā-substitution for the case ending. *pūrṇam* — root *pyai pālanapūraṇayoḥ*; "*niṣṭhā*" gives suffix *kta*; "*udoṣṭhyapūrvasya*" (Pā. Sū. 7-1-102 [?]) gives *u*; "*uraṇ raparaḥ*" gives *r* following; "*halī ca*" lengthens; "*radābhyāṃ niṣṭhāto naḥ*" (Pā. Sū. 8-2-42 [?]) gives *na* when *kta* follows *r*; "*raṣābhyāṃ no ṇaḥ*" gives *ṇa*; by the suffix accent final acute. *vahethe* — root *vaha prāpaṇe*; *laṭ* second person dual form; *nighāta* accent. *ācitam* — root *ciñ cayane*; *niṣṭhā*, suffix *kta*; as it has *k*, no guṇa; "*gatiranantaraḥ*" (Pā. Sū. 6-2-49 [?]) the *gati* (*ā*) has *nighāta* accent. *dāśvāṃsam* — root *dāś dāne*; "*dāśvān sāhvān mīḍhvāṃś ca*" (Pā. Sū. 6-1-12 [?]) — the suffix *kvasu* comes as irregular; second case singular: *num* augment because it has *u*; the suffix's accent. *yāthaḥ* — root *yā prāpaṇe*; *laṭ* second person dual form; *nighāta* accent.  ‖ 2 ‖
+
+### Sūkta 182, Ṛk 3  (printed p. 604; PDF 624)
+
+**Saṃhitā-pāṭha**
+
+> किमत्र दस्रा कृणुथः किमासाथे जनो यः कश्चिदहविर्महीयते ।
+> अति क्रमिष्टं जुरतं पणेरसुं ज्योतिर्विप्राय कृणुतं वचस्यवे ॥ ३ ॥
+
+**Pada-pāṭha**
+
+> किं । अत्र । दस्रा । कृणुथः । किं । आसाथे इति । जनः । यः । कः । चित् । अहविः । महीयते ।
+> अति । क्रमिष्टं । जुरतं । पणेः । असुं । ज्योतिः । विप्राय । कृणुतं । वचस्यवे ॥ ३ ॥
+
+> *kiṃ | atra | dasrā | kṛṇuthaḥ | kiṃ | āsāthe iti | janaḥ | yaḥ | kaḥ | cit | ahaviḥ | mahīyate |*
+> *ati | kramiṣṭaṃ | jurataṃ | paṇeḥ | asuṃ | jyotiḥ | viprāya | kṛṇutaṃ | vacasyave ‖ 3 ‖*
+
+---
+
+**Progress note:** printed p. 604 (PDF 624) done — Sūkta 182 Ṛk 2 ends (Special Topics, grammar); Ṛk 3 Saṃhitā, Pada. Next: printed p. 605 (PDF 625): Ṛk 3 bhāṣya onward. Open flags: refs [?]; review/doubts_v13.json.
