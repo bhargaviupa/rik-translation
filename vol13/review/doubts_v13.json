@@ -1906,5 +1906,29 @@
   ],
   "note": "Chandogya quotes and ref numerals (1-7-6, 1-7-8/9, 2-1-4) small type",
   "answer": ""
+ },
+ {
+  "pdf": 265,
+  "printed": 245,
+  "crop": [
+   0.15,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya words vavrdhanam svarvat and Nirukta refs; several ref numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 246,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-164-26 and 1-160-3 and Nirukta refs small type; dhenu/go quotes",
+  "answer": ""
  }
 ]

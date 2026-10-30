@@ -5915,4 +5915,66 @@ Thus, in speaking of the relation of the ṛk and the Sāman, the omnipresence o
 
 ---
 
-**Progress note:** printed p. 244 (PDF 264) done — Sūkta 173 Ṛk 1 Special Topics (Sāman discussion continues p. 245). Next: printed p. 245 (PDF 265). Open flags: Brāhmaṇa/Upaniṣad quotation refs [?]; review/doubts_v13.json.
+### Printed p. 245  (PDF 265)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+…the Sāman is praised in many ways as the direct means of the soul's welfare; as the description is very extensive, those words of praise cannot be cited here; they may be seen in the Chāndogya and other Upaniṣads.
+
+Therefore, for ***nabhanyaṃ sāma yathā veḥ***, it can be understood that the most excellent hymn of praise, rising from the heart, goes swiftly like a bird and brings the deity near.
+
+Sāyaṇa's bhāṣya on the second half of the ṛk:
+
+> वव्यृधानं स्वर्वत् अर्चाम । वर्धमानं फलभूतेन स्वर्गेण तद्वत् शस्त्रं यथा वेः तथा पूजयामः शंसामः । स्तुतेमनु शंसेतीति न्यायात् ।
+
+> *vavṛdhānaṃ svarvat arcāma | vardhamānaṃ phalabhūtena svargeṇa tadvat śastraṃ yathā veḥ tathā pūjayāmaḥ śaṃsāmaḥ | stutemanu śaṃsetīti nyāyāt |*
+
+The *udgātṛ*, a priest, sings from the Sāmaveda, and, knowing that singing is that which pervades the sky and destroys Rākṣasas, we the sacrificers, following that, address Indra and, abundantly reciting the *śastra*-mantras that proclaim the qualities of Indra, the giver of heaven's fruit, worship Indra; following the maxim "one should recite (*śaṃsa*) after the praise", we offer *śaṃsana* after the *stuti*; thus one meaning is made. Another meaning is that the Sāman sung by the *udgātṛ* priest — in the second sense Sāyaṇa gives "*tadṛklakṣaṇaṃ sāma vavṛdhānaṃ sarvatra yathā bhavati tathā arcāma*" — as it grows everywhere, so we praise and worship Indra with *śastra*-mantras.
+
+***dhenavaḥ — gāvaḥ — adabdhāḥ — dogdhryaḥ — gāvaḥ — ahiṃsitāḥ***: the Nirukta-writers have read the word *dhenu* in the Vāṅmaya list (Ni. 2-... [?]).
+
+The words formed from the root *dabh* ("to injure, destroy") are numerous and are commonly Vedic; the word *adabdha* ("unharmed, not destroyed") is also commonly Vedic. Generally, when Agni is asked for protection, the adjective and noun appear together: *adabdhebhiḥ pāyubhiḥ*; *adabdhebhiḥ gopābhiḥ*:
+
+> अदब्धेभिस्तव गोपाभिरिष्टेऽस्माकं पाहि त्रिषधस्थ सूरीन् ।
+
+> *adabdhebhis tava gopābhir iṣṭe 'smākaṃ pāhi triṣadhastha sūrīn |*
+
+(Ṛ. Saṃ. 6-8-2 [?]). In many ṛks this usage is found.
+
+***dhenavaḥ*** — "*dhenur dhayate vā, dhinoti vā; dhayater asau vatsena iti; tarpayati asau payasā*" (Ni. 11-43 [?]): because milk is drawn by the calf, or because it satisfies with its milk — the cows are called *dhenu* either because milk is drawn from them by pressing, or because they cause satisfaction by giving milk.
+
+### Printed p. 246  (PDF 266)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+> उप ह्वयेः सुदुघां धेनुमेतां सुहस्तो गोधुगुत दोहदेनाम् ।
+> श्रेष्ठं सवं सविता साविषन्नोऽभीद्धो घर्मस्तदु षु प्र वोचम् ॥
+
+> *upa hvaye sudughāṃ dhenum etāṃ suhasto godhug uta dohad enām |*
+> *śreṣṭhaṃ savaṃ savitā sāviṣan no 'bhīddho gharmas tad u ṣu pra vocam ‖*
+
+(Ṛ. Saṃ. 1-164-26 [?]): the Nirukta-writers quote this ṛk and explain the word *dhenu* with the adjective *sudughām*. In this ṛk two meanings are given to *dhenu*: as explained above, "the cow that is filled with milk", and secondly: "*vṛṣṭyā prīṇayitrīṃ meghalakṣaṇāṃ dhenum*" — as an ordinary cow gratifies the sacrificer with milk, so the cloud gratifies the world with rain; hence the name *dhenu* is known for the cloud, and this *dhenu* in cloud form is milked by Āditya, the sun.
+
+> धेनुं च पृश्निं वृषभं सुरेतसं विश्वाहा शुक्रं पयोऽस्य दुक्षत ।
+
+> *dhenuṃ ca pṛśniṃ vṛṣabhaṃ suretasaṃ viśvāhā śukraṃ payo 'sya dukṣata |*
+
+(Ṛ. Saṃ. 1-160-3 [?]). In such ṛks the word *dhenu* is a synonym of the earth (*pṛthivī*); since the earth satisfies the world with grain and other riches, this identity is stated.
+
+Sāyaṇa, using this word as an adjective of the word *gāvaḥ*, gives the meaning "(cows) yielding abundant milk".
+
+The word *gauḥ* is read by the Nirukta-writers in the Vāṅmaya list (Ni. 2-... [?]); *gaur iti pṛthivyā nāmadheyam* — "*gauḥ* is a name of the earth" — also stated among the names of the earth (Ni. 1-... [?]). In *gobhis sannaddho asi vīḷeyasva* ("bound with cow-hide [strips], be strong"), *carman* and *ślīṣman* are conveyed by the word *go*. "*Jyāpi gaur ucyate ādityo 'pi gaur ucyate suṣumṇo raśmir ekaḥ eva gauriti ucyate sarve 'pi raśmayo gāva ucyante*" (Ni. 2-... [?]): thus for the word *go* many meanings are stated — hide, phlegm, bow-string, the sun, the *suṣumnā* artery, and so forth.
+
+Sāyaṇa explains *dhenu* as "cows" and gives the meaning that the cows which yield abundant milk, sitting on the sacred grass —
+
+> बर्हिषि सदन्तं दिव्यं आविवासार्ह बर्हिषि सीदन्तं दिविभवं इन्द्रं त्वां आगत्य परिचरन्ति क्षीरं दुहन्ति तथा अर्चाम
+
+> *barhiṣi sadantaṃ divyaṃ āvivāsārha barhiṣi sīdantaṃ divibhavaṃ indraṃ tvāṃ āgatya paricaranti kṣīraṃ duhanti tathā arcāma*
+
+— just as the cows serve with their milk Indra, the dweller in heaven, who sits comfortably on the sacred grass, so we the sacrificers worship Indra. [Reading of this quotation uncertain: [?]]
+
+***svarvat — phalabhūtena svargeṇa tadvat śastraṃ*** — "the *śastra* that is the means of heaven's fruit." The *svar* word, with a suffix, is used a hundred times in the Ṛk-saṃhitā; the word *svar* alone is also well known, but the meaning is not clearly known in every place. In some places [the page continues on p. 247].
+
+---
+
+**Progress note:** printed p. 246 (PDF 266) done — Sūkta 173 Ṛk 1 Special Topics (svar discussion continues p. 247). Next: printed p. 247 (PDF 267). Open flags: Nirukta/Ṛk ref numerals [?]; review/doubts_v13.json.
