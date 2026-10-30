@@ -1,12 +1,9 @@
 # Vol 14 — state
 
-Status: **not started.** Folder created Oct 30. Scan not yet in the repo (no Rig_Vol14.pdf found); upload to `vol14/scans/`.
+Status: **not started.** Scan not yet in the repo (upload to `vol14/scans/`). LEAN MODE (see `vol14_runbook.md`).
 
-## Set-up checklist (do all before translating; test on 3 pages with known answers)
-- [ ] Scan uploaded to `vol14/scans/` (resolution? ~600 dpi preferred); `tools/cfg.py` maps global PDF page → part + page.
-- [ ] Page inventory script run: printed page + header on every scan page → map (printed = PDF − k), missing/duplicate/out-of-order pages listed here.
-- [ ] Contents table read: Sūkta ranges, Ṛk counts, anuvāka/aṣṭaka/adhyāya/varga headers (dvaipada sūktas noted).
-- [ ] Digit key calibrated on header/varga numerals and a few references (record glyph rules in the runbook).
-- [ ] Tools tested: crop (whole-page fractions only), apply (unique-match asserts), lint, doubts builder, Kannada→Devanagari→IAST script.
-- [ ] Model chosen by a test: same 5 pages (with known answers) by Sonnet and Opus, compared.
-- [ ] Runbook agreed with the user.
+## Facts (fill in from the print)
+- Scan: parts / pages / ppi: ?
+- Page offset (printed = PDF − k): ?  Front matter offset: ?
+- Content (Maṇḍala / Aṣṭaka / Adhyāya / Sūktas): ?
+- Sūkta start pages and Ṛk counts: ?
