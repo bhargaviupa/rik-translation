@@ -3754,5 +3754,29 @@
   ],
   "note": "Rg refs 3-30-9, 1-100-8 small; 'rghnan hantiti rgha' Sayana gloss read approx; Nirukta 2-10",
   "answer": ""
+ },
+ {
+  "pdf": 421,
+  "printed": 401,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhashya dense; 'vrtyaye', 'tasminneva siddhe', 'anumanyate'?, 'cakrsat kramenadadate' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 422,
+  "printed": 402,
+  "crop": [
+   0.7,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 3-43-2; Satapatha ref 5-33-1; Nirukta 3-7 small; quotes approx",
+  "answer": ""
  }
 ]

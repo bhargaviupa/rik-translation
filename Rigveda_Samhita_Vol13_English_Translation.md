@@ -10620,4 +10620,76 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 
 ---
 
-**Progress note:** printed p. 400 (PDF 420) done — Sūkta 176 Ṛk 1 Special Topics complete; grammar in progress (continues p. 401). Next: printed p. 401 (PDF 421). Open flags: Ṛg/Nirukta refs [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 401  (PDF 421)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 26" at foot.)*
+
+- ***invasi*** — root *ivi vyāptau*; since it is *idit*, the augment *num*; *laṭ*, second person singular; *nighāta* accent for a *tiṅ*.
+- ***anti*** — in *antike* the *ka* is dropped Vedically.
+- ***vindasi*** — root *vidḷ lābhe*, *tudādi*; *laṭ*, second person singular; by "*śe mucādīnām*" (Pā. Sū. 7-1-59 [?]) the augment *num*; *anusvāra*, *parasavarṇa*; *nighāta* for a *tiṅ*. ‖ 1 ‖
+
+---
+
+**Sūkta 176, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> तस्मिन्ना वेशया गिरो य एकश्चर्षणीनाम् ।
+> अनु स्वधा यमुप्यते यवं न चर्कृषद्वृषा ॥ २ ॥
+
+> *tasminn ā veśayā giro ya ekaś carṣaṇīnām |*
+> *anu svadhā yam upyate yavaṃ na cakṛṣad vṛṣā ‖ 2 ‖*
+
+**Pada-pāṭha**
+
+> तस्मिन् । आ । वेशय । गिरः । यः । एकः । चर्षणीनाम् ।
+> अनु । स्वधा । यम् । उप्यते । यवम् । न । चर्कृषत् । वृषा ॥ २ ॥
+
+> *tasmin | ā | veśaya | giraḥ | yaḥ | ekaḥ | carṣaṇīnām |*
+> *anu | svadhā | yam | upyate | yavam | na | cakṛṣat | vṛṣā ‖ 2 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे आन्तरात्मन् होतर्वा तस्मिन्नेव सिद्धे इन्द्रे गिरः स्तुतिरूपा वाचः आ वेशय । स्थापय । तं स्तुहीत्यर्थः । य इन्द्रश्चर्षणीनां ज्ञानवतां मनुष्याणामेक एव स्थानीयः । यमनु यमेवेन्द्रमनु स्वधा हविर्लक्षणमन्नमनुमन्यते । दीयत इत्यर्थः । स चेन्द्रो वृषा वर्षकः सन्यवं न यवमिव पक्वं यवं यथा चर्कृषत् क्रमेणाददते कर्षकाः तद्वदादत्ते । यद्वा । अनु स्वधान्नसाधनं व्रीह्यादिकमुप्यते भूमौ यस्येन्द्रस्य वृष्टिरूपमनुग्रहमपेक्ष्योप्यते इत्यर्थः । स च वृषा वृष्टेर्वर्षिता स इन्द्रो यवं न यवमिव सर्वबीजमपि चर्कृषत् । पुनः पुनः करोति । अङ्कुरयति । हविःसाधनत्वप्राशस्त्यमपेक्ष्य यवशब्दः प्रयुक्तः । एवंमहानुभाव इन्द्रे गिर आ वेशयेति ॥ [?]
+
+> *he āntarātman hotar vā tasminn eva siddhe indre giraḥ stutirūpā vācaḥ ā veśaya | sthāpaya | taṃ stuhīty arthaḥ | ya indraś carṣaṇīnāṃ jñānavatāṃ manuṣyāṇām eka eva sthānīyaḥ | yam anu yam evendram anu svadhā havirlakṣaṇam annam anumanyate | dīyata ity arthaḥ | sa cendro vṛṣā varṣakaḥ san yavaṃ na yavam iva pakvaṃ yavaṃ yathā cakṛṣat krameṇādadate karṣakāḥ tadvad ādatte | yadvā | anu svadhānnasādhanaṃ vrīhyādikam upyate bhūmau yasyendrasya vṛṣṭirūpam anugraham apekṣyopyate ity arthaḥ | sa ca vṛṣā vṛṣṭer varṣitā sa indro yavaṃ na yavam iva sarvabījam api cakṛṣat | punaḥ punaḥ karoti | aṅkurayati | haviḥsādhanatvaprāśastyam apekṣya yavaśabdaḥ prayuktaḥ | evaṃmahānubhāva indre gira ā veśayeti ‖* [?]
+
+*Gist:* O inner self (or *hotṛ*), place your praises in Indra, the sole support of discerning men, to whom the oblation is given; he, the rain-giver, gathers the offering as farmers gather ripe barley; or, for whose rain-favour paddy and the like are sown in the earth, he makes all seed sprout again and again, like barley. The word *yava* is used for its excellence as an oblation-material.
+
+### Printed p. 402  (PDF 422)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(O self, or O *hotṛ*;) *yaḥ* — which Indra; *carṣaṇīnām* — of all the wise; *ekaḥ* — he who alone is the support; *yam anu* — following which Indra; *svadhā* — the food in the form of oblation; *upyate* — is given; (*saḥ* — that Indra); *vṛṣā* — as the showerer of what is desired; *yavaṃ na* — as farmers reap ripe barley; *cakṛṣat* — accepts. [Or: *yam anu* — following which Indra (the rain given by Indra); *svadhā* — paddy and the other means of food; *upyate* — are sown in the earth; *saḥ* — that; *vṛṣā* — Indra, the cause of rain; *yavaṃ na* — like barley; *cakṛṣat* — (all seeds) he causes to sprout again and again.] *tasmin* — in such an Indra; *giraḥ* — words in the form of praise; *ā veśaya* — place (praise Indra).
+
+**Bhāvārtha**
+
+O self (or *hotṛ*), praise Indra, the sole refuge of all knowers, the rain-giver needed for the growth of paddy and other food-materials, and the cause of the sprouting of barley and all other grains.
+
+**Printed English**
+
+Pervade with our praise him who is the sole sustainer of men, to whom the oblation is presented, and who, the showerer (of benefits), causes (every desire) to bud like barley.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***ekaḥ carṣaṇīnām — jñānavatāṃ manuṣyāṇām eka eva sthānīyaḥ*** — the greatness of Indra is praised: among all men endowed with wisdom he is the one and only support, the sole bearer and nourisher.
+
+***carṣaṇi*** — this word is read among the names of men (Ni. 3-7 [?]). In the sense "man" the use of this word is very frequent. For example —
+
+> आ याहि पूर्वीरति चर्षणीरार्य आशिष उप नो हरिभ्याम् । इमा हि त्वा मतयः स्तोमतष्टा इन्द्र हवन्ते सख्यं जुषाणाः ॥
+
+> *ā yāhi pūrvīr ati carṣaṇīr ārya āśiṣa upa no haribhyām | imā hi tvā matayaḥ stomataṣṭā indra havante sakhyaṃ juṣāṇāḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-43-2 [?]);
+
+> विश्वा यश्चर्षणीरभ्यासा वाजेषु सासहत् ।
+
+> *viśvā yaś carṣaṇīr abhy āsā vājeṣu sāsahat |* [as read: [?]]
+
+(Śa. Brā. 5-33-1 [?]).
+
+---
+
+**Progress note:** printed p. 402 (PDF 422) done — Sūkta 176 Ṛk 1 complete; Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (carṣaṇi; continues p. 403). Next: printed p. 403 (PDF 423). Open flags: Ṛk 2 bhāṣya partly doubtful [?]; Ṛg/Nirukta/Śa.Brā. refs [?]; review/doubts_v13.json.
