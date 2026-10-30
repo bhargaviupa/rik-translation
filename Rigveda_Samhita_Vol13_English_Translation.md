@@ -7724,4 +7724,44 @@ Indra, associated with the Maruts in battles (with the clouds), abandon us not; 
 
 ---
 
-**Progress note:** printed p. 304 (PDF 324) done — Sūkta 173 Ṛk 11 complete; Ṛk 12: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 305 (PDF 325), Ṛk 12 Special Topics. Open flags: Ṛk 12 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 305  (PDF 325)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā"; signature mark "XIII 20" at foot.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***pṛtsu devaiḥ naḥ no ṣu*** — the word *pṛtsu* is read among the names of battle (Ni. 2-17 [?]). Addressing Indra here, *saṃgrāmeṣu upasthiteṣu* — when occasions for fighting arise — ***vṛṣṭyarthaṃ meghajayeṣu*** — at the time of the winning of clouds, in order to cause the waters of rain to flow — the wish is expressed that Indra, together with the Maruts and the other deities (*marudādibhiḥ saha*), may fight.
+
+The sentence shows that, as Indra fights in company with the Marut deities, a share of the oblation is allotted separately both to Indra and to the Maruts.
+
+***avayāḥ — avayajanaṃ avakṛtyai pṛthakkṛtyai yajanaṃ | he śuṣmin balavan*** — in this sentence, addressing the powerful Indra, "*marudbhyaḥ pṛthag asyāsti haviḥ bhāgaḥ*" — since the share of oblations is allotted to the Marut deities separately, "*kevalaṃ marudbhya eva dīyate nāsmabhyam ataḥ kathaṃ yotsyāmīti na mantavyam*" — one should not think, "It is given only to the Maruts and not to me; how then shall I fight?": explaining the alternative meaning, which suggests doubt (that Indra, having no share of the oblations because the Maruts alone are offered them, would not fight), he gives the reply in the sentence "*asti hi sma te*" — "*asti hi sma tava khalu*" — to Indra too, there is surely a share in the oblations.
+
+In the second meaning — ***yadvā avayāḥ śatrūṇāṃ varjanāya gantā vajro 'sti*** — the word *avayāḥ* is explained as "that which goes to destroy enemies": Indra has both the thunderbolt that destroys enemies, and natural strength.
+
+***yavyā gīḥ mahaś cit marutaḥ vandate*** — the word *yavyā*, which describes the fruit by *phalenendreṇa vā miśrayanti*, or describes the greatness of Indra, is used as an epithet of *vāk* (speech). For the word *gīḥ* the meaning "speech, in the form of praise and *śastra*, which praises the deities or invokes them" is given. The words *haviṣmataḥ mīḷhuṣaḥ* are used as epithets for both the Maruts and Indra. For Indra, these words, in the sense of one who has the share of the oblations offered by the sacrificer and who gives food to the worlds; for the Maruts, in the sense of those who send down very abundant rain, more than all other deities, and who, through Indra, receive shares of oblations, are explained. The sacrificer and the Adhvaryu and the others hope that their speech, in the form of praise and *śastra*, may be directed to the worship of Indra or of the Maruts (in the form of praise), who bear oblations and give rain.
+
+### Printed p. 306  (PDF 326)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprinkling. The meaning of its root form can be seen from the sentence "***yan mehati tad varṣati***" (Bṛ. Up. 1-1-1 [?]).
+
+> वाजयन्निव नू रथान्योगाँ अग्नेरुप स्तुहि । यशस्तमस्य मीळ्हुषः ॥
+
+> *vājayann iva nū rathān yogāṁ agner upa stuhi | yaśastamasya mīḷhuṣaḥ ‖*
+
+(Ṛ. Saṃ. 2-9-1 [?]). In all such ṛks it means *phalasya sektā*, "the sprinkler of the fruit", that is, "one who grants desired objects". In the ṛk at hand it is "one who sends down rain". The word *mīḷhuṣ*, derived from this root, is read by the Nirukta-writers among the names of wealth (Ni. 2-10 [?]) and the word *mīḷhe* among the names of battle (Ni. 2-17 [?]); their special meanings are explained in the respective contexts.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***mo ṣu*** — *su* is *suñ*; by "*sūciśūkṣūḥ*…" (Pā. Sū. 8-3-107 [?]) *ṣatva*; by "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]) the long vowel occurs in the Saṃhitā.
+- ***pṛtsu*** — the word *pṛtanā*; the seventh case plural following, by the statement "*māṃsapṛtanāsāṇūnāṃ māṃs pṛt-snavaḥ śasādau vā vācyaḥ*" the substitution *pṛt* occurs; "*ūḍidaṃ padādi*" (Pā. Sū. 6-1-171 [?]) makes the case-ending *udātta*.
+- ***sma*** — "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]): the long vowel in the Saṃhitā.
+- ***śuṣmin*** — *śuṣma* (strength) *asya asti* — *śuṣmī*; by "*ata ini ṭhanau*" (Pā. Sū. 5-2-115 [?]) the suffix *ini* in the possessive sense; in the vocative, by "*āmantritasya ca*" (Pā. Sū. 8-1-19 [?]) *nighāta* accent.
+- ***avayāḥ*** — *ava pṛthak kṛtya yāti iti avayāḥ*; root *yā prāpaṇe*; suffix *kvip*; the *kṛdutta* final member keeps its natural accent.
+- ***mīḷhuṣaḥ*** — root *mihá secane*; by "*dāśvān sāhvān mīḍhvāṃś ca*" (Pā. Sū. 6-1-12 [?]) *kvasu*-ending is formed by *nipātana*; *śas* or *jas* following, by "*vasoḥ saṃprasāraṇam*" (Pā. Sū. 6-4-131 [?]) *saṃprasāraṇa*, with the earlier form; the suffix accent makes *u* *udātta*.
+- ***vandate*** — root *vadi abhivādanastutyoḥ*; by "*idito num dhātoḥ*" the augment *num*; *laṭ*, third person singular; by "*yad vṛttān nityam*" (Pā. Sū. 8-1-66 [?]) *nighāta* is prohibited; by "*tāsy anudāttet*" (Pā. Sū. 6-1-186 [?]) the *sārvadhātuka* *la* being *anudātta*, the root accent remains. ‖ 12 ‖
+
+---
+
+**Progress note:** printed p. 306 (PDF 326) done — Sūkta 173 Ṛk 12 complete. Next: printed p. 307 (PDF 327), Sūkta 173 Ṛk 13 (last of the sūkta; colophon). Open flags: Ṛg/Nirukta/Bṛ.Up. refs and sūtra numerals [?]; review/doubts_v13.json.
