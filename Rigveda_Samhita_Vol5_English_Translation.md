@@ -11195,23 +11195,23 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 ### Printed p. 687 (PDF 703)
 
-"…(the same sūkta, 3-?-?; 10-?-?). The *barhis* (sacred grass) too is said to be a deity. The doors of the sacrificial hall have often been called deities (*Devīr dvāraḥ*)."
+"…(the same sūkta, 2-3-4; 10-70-4). The *barhis* (sacred grass) too is said to be a deity. The doors of the sacrificial hall have often been called deities (*Devīr dvāraḥ*)."
 
-"The stones used for pressing Soma-juice (*grāvāṇaḥ*, *adrayaḥ*) are conceived as deities in three sūktas (10-?-?, ?, ?). They have no destruction, and no old age; and they are greater than heaven. At the time of pressing Soma they are like horses or bulls, and the sound produced by them reaches heaven. They are prayed to ward off Rākṣasas and harm, and to grant lordship and progeny. In 1-?-?, ? the *kalabatta* (pestle), *kuṭṭaṇi* (mortar) and the like, sounding loudly, are prayed to press the Soma juice."
+"The stones used for pressing Soma-juice (*grāvāṇaḥ*, *adrayaḥ*) are conceived as deities in three sūktas (10-76, 94, 175). They have no destruction, and no old age; and they are greater than heaven. At the time of pressing Soma they are like horses or bulls, and the sound produced by them reaches heaven. They are prayed to ward off Rākṣasas and harm, and to grant lordship and progeny. In 1-28-5, 6 the *kalabatta* (pestle), *kuṭṭaṇi* (mortar) and the like, sounding loudly, are prayed to press the Soma juice."
 
-"In the Atharvaveda it is said that the remnant of the *homa* (the left-over, *ucchiṣṭa*) has great divine power (Av. 11-?); likewise the sacrificial ladles *sruk*, *sruva* and the rest, used in sacrifice, have power."
+"In the Atharvaveda it is said that the remnant of the *homa* (the left-over, *ucchiṣṭa*) has great divine power (Av. 11-7); likewise the sacrificial ladles *sruk*, *sruva* and the rest, used in sacrifice, have power."
 
-"There are some praise-sentences too for the agricultural implements, the plough (*śuna*, *sīra*), (4-?-? to ?), and for them the *puroḍāśa* is prescribed (Śat. Brā. 2-?-?-?)."
+"There are some praise-sentences too for the agricultural implements, the plough (*śuna*, *sīra*), (4-57-5 to 8), and for them the *puroḍāśa* is prescribed (Śat. Brā. 2-6-3-5)."
 
-"Weapons too have the form of deities. The whole sūkta 6-75 is devoted to the praise of implements of war — the bow, arrows, the quiver and so on. The arrow too is divine; it is prayed to protect and to strike the enemies. The drum too is dealt with in the same way, and it is prayed to drive away the evil, the enemies and the Rākṣasas. A whole sūkta of the Atharvaveda praises it (Av. 5-?)."
+"Weapons too have the form of deities. The whole sūkta 6-75 is devoted to the praise of implements of war — the bow, arrows, the quiver and so on. The arrow too is divine; it is prayed to protect and to strike the enemies. The drum too is dealt with in the same way, and it is prayed to drive away the evil, the enemies and the Rākṣasas. A whole sūkta of the Atharvaveda praises it (Av. 4-20)."
 
 ## Emblems — Images (*Lāñchanagaḷu — Pratimegaḷu*)
 
-"In other Vedas, a little of the practice of speaking of ordinary things as representatives of the deities is seen. 'Who will buy this Indra of mine for ten cows? After defeating his enemies, he may be returned' (4-?-?; compare 8-?-?): in a statement like this, a certain image of Indra must have been the thing for sale. References to images are found more in the Brāhmaṇas and Sūtras."
+"In other Vedas, a little of the practice of speaking of ordinary things as representatives of the deities is seen. 'Who will buy this Indra of mine for ten cows? After defeating his enemies, he may be returned' (4-24-10; compare 8-1-5): in a statement like this, a certain image of Indra must have been the thing for sale. References to images are found more in the Brāhmaṇas and Sūtras."
 
 "In some rites the wheel is used as the representative of Sūrya (indicating form and motion). In the Vājapeya sacrifice, at the time of the installation of the fires, they use it in this way. In the Purāṇas, the wheel is a weapon of Viṣṇu."
 
-"After sunset, when sprinkling water, they place in the place of the sun a piece of burning charcoal or a burning torch (Śat. Brā. 3-?-?-?); but when there is a sign of the sun…"
+"After sunset, when sprinkling water, they place in the place of the sun a piece of burning charcoal or a burning torch (Śat. Brā. 3-9-2-9); but when there is a sign of the sun…"
 
 ### Printed p. 688 (PDF 704)
 
