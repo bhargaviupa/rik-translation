@@ -18142,4 +18142,40 @@ Then Rāhūgaṇa Gotama asked Māthava: "When I addressed you, why did you not 
 
 ---
 
-**Progress note:** printed p. 648 (PDF 668) done — Sūkta 183 Ṛk 5 Special Topics (Gotama; well in desert; Rāhūgaṇa Gotama and Videgha Māthava from Śatapatha Brāhmaṇa; continues p. 649). Next: printed p. 649 (PDF 669). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 649  (PDF 669)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 649.)*
+
+*(Special Topics, continued.)* — … the historians have concluded that, on the basis of this incident, the people of that time gradually spread eastward.
+
+> "It was pointed out by Weber that this legend distinguishes three successive stages of the eastward migration of the Brahmanical Hindus. In the first place, the settlements of the Aryans had already been extended from the Panjab, where they were settled in the times of the Rig-Veda, as far as the Saraswathi. They thence pushed forward, led by Videha Mathava and Rahugana Gotama according to our legend, as far east as the river *Sadānīrā* [printed in Kannada letters], which, according to Sayana, is another name for the *Karatoyā* [Kannada letters], which formed the eastern boundary of the Videhas."
+
+[S. B. E. Vol. XII. Satapatha Brahmana Vol. I. p. 104].
+
+That is: if the Gotama indicated in the ṛk at hand (1-183-5) is the same Rāhūgaṇa Gotama (it is probable that he is Rāhūgaṇa), then, as the narrative of the Śatapatha Brāhmaṇa shows, up to the time of the Ṛk-saṃhitā the extension of the Vedic community had not reached any region east of the Sarasvatī river; and from the time of Videgha Māthava and this Gotama Rāhūgaṇa, it is the view of historians that they spread eastward past the river Sarasvatī as far as the river **Sadānīrā**, and gradually even a little beyond it. The river Sadānīrā is the one that Sāyaṇa too calls **Karatoyā**.
+
+The greatness of Gotama, who was priest even to Māthava of great *itihāsa*, is praised in many other places in the same way.
+
+> तागं हैतां गोतमो राहूगणः । विदांचकार सा ह जनकं वैदेहं प्रत्यैत्सा सादतागं हाज्ञजिद्ब्राह्मणेष्वन्विषेष ताम् उ ह याज्ञवल्क्ये विवेद स होवाच सहस्रं भो याज्ञवल्क्य दद्मो यस्मिन्नयं त्वयु मित्रविन्दामन्नविदामेति विन्दते मित्रगं राष्ट्रमस्य भवत्येष पुनर्मृत्योः जयति सर्वमायुरेति य एवं विद्वान् ॥
+
+> *tāgaṃ haitāṃ gotamo rāhūgaṇaḥ | vidāṃcakāra sā ha janakaṃ vaidehaṃ pratyaitsā sādatāgaṃ hājñajidbrāhmaṇeṣvanviṣeṣa tām u ha yājñavalkye viveda sa hovāca sahasraṃ bho yājñavalkya dadmo yasminnayaṃ tvayu mitravindāmannavidāmeti vindate mitragaṃ rāṣṭramasya bhavatyeṣa punarmṛtyoḥ jayati sarvamāyureti ya evaṃ vidvān ‖*
+
+(Śa. Brā. 11-4-3-20 [?]; Sanskrit as read, many words doubtful [?]) — this same Rāhūgaṇa Gotama taught the sacrificial teaching called *Mitravindā*. This sacrificial doctrine *Mitravindā* spread in the land of Janaka of Videha. Janaka searched among the Brahmins of his assembly for whoever knew this doctrine, among all who knew the Vedāṅgas. At last, knowing that Yājñavalkya had this knowledge, he gave him gifts of many kinds.
+
+### Printed p. 650  (PDF 670)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 650.)*
+
+Understanding this doctrine of *Mitravindā* as taught by Gotama, and its spiritual greatness, the praise is that "the whole kingdom of those who follow the sacrifice becomes friendly, under his own control, and he conquers death". The same greatness of Gotama, which reflects the spiritual doctrine, is also praised in the Bṛhadāraṇyaka.
+
+(Bṛ. U. 2-2-4 [?])
+
+Of the seers **Purumīḷha**, **Gotama** and **Atri**, indicated in the ṛk at hand (1-183-5), the matter of Atri was told earlier (Ṛ. Saṃ. 1-180-4 [?]).
+
+All these three seers pray in the ṛk at hand to the Aśvin deities, praising them and relating how they follow a straight path (*ṛjumārga*) in their sacrificial conduct, and seeking their favour.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *dasrā* — "*supāṃ sulug*" gives ā-substitution for the dual; being at the beginning of a *pāda*, no vocative *nighāta* accent; "*āmantritasya ca*" (Pā. Sū. 6-1-198 [?]) gives the initial acute. *havate* — "*āmantritaṃ pūrvam avidyamānavat*" (Pā. Sū. 8-1-72 [?]) — since the earlier (word) is as if non-existent, it comes at the beginning of a *pāda* and so there is no *nighāta* accent for the *tiṅ*; the root *hvā śabdārthaka* [as read: *hveñ*]; *laṭ* third person singular form. *diṣṭām* — root *diśa atisarjane*; suffix *kta*; "*vṛścabhrasja…*" (Pā. Sū. 8-2-36 [?]) gives *ṣa* for the root's *ś*; with that as occasion, *ṭatva* for the suffix; in the feminine, *ṭāp*; by the suffix accent, final acute. *ṛjūyā iva* — "*ṛjuṃ yāti iti ṛjūyāḥ tam*"; root *yā prāpaṇe*, suffix *vic* [as read]; "*gatikārakopapadāt kṛt*" (Pā. Sū. 6-2-139 [?]) gives the *prakṛti* accent of the *kṛdutta* last member; "*supāṃ sulug*" gives ā-substitution for the second case. *yantā* — *yam* root in the agent sense, suffix *tṛn*; since *ñit*, "*ñnityādir-nityam*" (Pā. Sū. 6-1-197 [?]) gives initial acute. *yātam* — root *yā prāpaṇe*; *loṭ* second person dual form; *tiṅ*, *nighāta* accent.  ‖ 5 ‖
+
+---
+
+**Progress note:** printed p. 650 (PDF 670) done — Sūkta 183 Ṛk 5 ends (Special Topics: Weber/Eggeling on eastward migration; Mitravindā; grammar). Next: printed p. 651 (PDF 671): Ṛk 6 (last of Sūkta 183). Open flags: refs [?]; review/doubts_v13.json.
