@@ -11321,19 +11321,19 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 ### Printed p. 696 (PDF 712)
 
-"…(10-?-?); and Dabhīti received from the deities a reward suited to his devotion (2-?-?). For Dabhīti, Indra made thirty thousand Dasyus sleep (4-?-?); for him he bound the Dasyus without a rope (2-?-?)."
+"…(10-113-9); and Dabhīti received from the deities a reward suited to his devotion (6-26-6). For Dabhīti, Indra made thirty thousand Dasyus sleep (4-30-21); for him he bound the Dasyus without a rope (2-13-9)."
 
 "*Dhuni* means 'one who roars'."
 
-**Varcin and others.** "He is mentioned four times together with Śambara. He too is an Asura (7-?-?), but Śambara and he are called 'Dāsa' (6-?-?). Indra, breaking Śambara's forts, destroyed one hundred thousand warriors of Varcin (3-?-?; 4-?-?). *Varcin* means 'one who shines'."
+**Varcin and others.** "He is mentioned four times together with Śambara. He too is an Asura (7-99-5), but Śambara and he are called 'Dāsa' (6-47-21). Indra, breaking Śambara's forts, destroyed one hundred thousand warriors of Varcin (2-14-6; 4-30-15). *Varcin* means 'one who shines'."
 
-"Along with Vala, Śuṣṇa, Namuci and others, some more Piśācas are named, and they too were destroyed by Indra. Among them are Vṛśīka, Rudhikra (2-?-?, ?), Anarśani, Spabinda (8-?-?) and Ilībiśa (1-?-?)."
+"Along with Vala, Śuṣṇa, Namuci and others, some more Piśācas are named, and they too were destroyed by Indra. Among them are Vṛśīka, Rudhikra (2-14-3, 5), Anarśani, Spabinda (8-32-2) and Ilībiśa (1-33-12)."
 
 ### Rākṣasas (*Rakṣasaḥ*)
 
 "The Piśācas or ghosts (*bhūta*) of the earth are haters of men. The generic name for them is *rakṣaḥ* ('Rākṣasa'). It occurs more than fifty times in the singular and plural; generally it comes in the form of a prayer to destroy the Rākṣasa with some deity, or praise that the deity killed the Rākṣasa. They are described in the sūktas 7-104 and 10-87; there the words *rakṣaḥ*, *yātu*, *yātudhāna* and the like indicate them. The word *rakṣaḥ* is a name for all evil deities and Piśācas; so it may be understood as a generic word, and *yātu* as a sub-generic word."
 
-"These Piśācas or ghosts have the forms of dogs, wild beasts, owls and other birds (7-?-? to ?). Being in the form of birds, they fly about at night (7-?-?). Taking the form of brother, husband or lover, they approach women and wish to destroy their children (10-?-?). In the form of dogs or monkeys they wait to fall on pregnant women (Av. 4-?-?); therefore women with child and children are afraid of them (Av. 8-?-?). At marriage times they run round the bride; to peck out their eyes, little arrows are shot in the sky (Hā. Gṛ. Sū. ?). The description of their forms and the rest is in the Atharvaveda. They especially take the form of men. They have heads, eyes, hearts and other limbs; but there is always some deformity: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward or horns on the hands, and so on (Av. 8-?-?;"
+"These Piśācas or ghosts have the forms of dogs, wild beasts, owls and other birds (7-104-20 to 22). Being in the form of birds, they fly about at night (7-104-18). Taking the form of brother, husband or lover, they approach women and wish to destroy their children (10-162-5). In the form of dogs or monkeys they wait to fall on pregnant women (Av. 4-37-11); therefore women with child and children are afraid of them (Av. 8-6). At marriage times they run round the bride; to peck out their eyes, little arrows are shot in the sky (Mā. Gṛ. Sū. 1-10). The description of their forms and the rest is in the Atharvaveda. They especially take the form of men. They have heads, eyes, hearts and other limbs; but there is always some deformity: three heads, two mouths, four eyes, five feet, no fingers, feet turned backward or horns on the hands, and so on (Av. 8-6;"
 
 ### Printed p. 697 (PDF 713)
 
