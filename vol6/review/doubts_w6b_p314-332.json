@@ -1,0 +1,35 @@
+[
+ {
+  "page": 324,
+  "y0": 0.3856,
+  "y1": 0.4278,
+  "x0": 0.1854,
+  "x1": 0.6103,
+  "kind": "accent",
+  "file": "योऽध्व॑नः",
+  "ctx": "मनो॒ न योऽध्व॑नः स॒द्य एत्येकः॑",
+  "note": "Saṃhitā 71.9: the svarita stroke stands between 'dhva' and 'naḥ'; set on 'dhva' — on which syllable is it?"
+ },
+ {
+  "page": 328,
+  "y0": 0.501,
+  "y1": 0.5415,
+  "x0": 0.2308,
+  "x1": 0.5155,
+  "kind": "accent",
+  "file": "विदुष्कविः",
+  "ctx": "म॑र्षिष्ठा अ॒भि विदुष्कविः सन् ।",
+  "note": "Saṃhitā 71.10: no accent mark visible on 'viduṣ kaviḥ san'; is there an anudātta under 'vi' or 'ṣka'?"
+ },
+ {
+  "page": 332,
+  "y0": 0.3394,
+  "y1": 0.3658,
+  "x0": 0.1945,
+  "x1": 0.4396,
+  "kind": "numeral",
+  "file": "Uṇ. [4-650?]",
+  "ctx": "*nahedivi bhaś ca*, Uṇ. [4-650?] (p. 329 prints 4-210)",
+  "note": "Uṇādi number after 'ಉ. ಸೂ.': reads 4-650 (hook digit + ʒ-digit); p. 329 prints 4-210 for the same sūtra"
+ }
+]
