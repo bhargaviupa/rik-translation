@@ -5640,36 +5640,36 @@ Words treated: *gṛdhnuḥ* (root *gṛdhu* "to desire"; affix *knu* by *trasig
 
 **Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; compressed, with several doubtful syllables [?])*
 
-> उप प्रेति दशर्चं सप्तमं सूक्तं । आत्रानुक्रम्यते । उप प्र दशेति । ऋषिश्छान्दस्यादिति परिभाषयोः शक्तिपुत्रः पराशर ऋषिः । अनादेशपरिभाषयो स्त्रिष्टुप् । परमाग्नेयेन्द्रादिति परिभाषितत्वादग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दसीदमादीनि त्रीणि सूक्तानि । अथैतस्या इति खण्डे तथैव सूत्रितं । उप प्र जिन्वन्निति तिस्रः का ते उपेतिरिति सूक्ते । आ. [४-१३?] इति ॥ अश्विनशस्त्रेऽपि प्रातरनुवाकातिदेशादिदमादीनि त्रीणि सूक्तानि । तथैव सूत्र्यते । एतयोराग्नेयं गायत्रमुपसंतनुयात् । प्रातरनुवाकन्यायेन । आ. [६-३?] इति ॥
+> उप प्रेति दशर्चं सप्तमं सूक्तं । अत्रानुक्रम्यते । उप प्र दशेति । ऋषिश्चान्यस्मादिति [?] परिभाषया शक्तिपुत्रः पराशर ऋषिः । अनादेशपरिभाषया त्रिष्टुप् । परमाग्नेयमैन्द्रादिति [?] परिभाषितत्वादग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छन्दसीदमादीनि त्रीणि सूक्तानि । अथैतस्या इति खण्डे तथैव सूत्रितं । उप प्र जिन्वन्निति तिस्रः का ते उपेतिरिति सूक्ते । आ. ४-१३ इति ॥ अश्विनशस्त्रेऽपि प्रातरनुवाकातिदेशादिदमादीनि त्रीणि सूक्तानि । तथैव सूत्र्यते । एतयोराग्नेयं गायत्रमुपसंतनुयात् । प्रातरनुवाकन्यायेन । आ. ६-५ इति ॥
 
-*upa preti daśarcaṃ saptamaṃ sūktaṃ | atrānukramyate | upa pra daśeti | ṛṣiś chāndasyād iti paribhāṣayoḥ śaktiputraḥ parāśara ṛṣiḥ | anādeśaparibhāṣayo striṣṭup | paramāgneyendrād iti paribhāṣitatvād agnir devatā || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādīni trīṇi sūktāni | athaitasyā iti khaṇḍe tathaiva sūtritaṃ | upa pra jinvann iti tisraḥ kā te upetir iti sūkte | ā. [4-13?] iti || aśvinaśastre 'pi prātaranuvākātideśād idamādīni trīṇi sūktāni | tathaiva sūtryate | etayor āgneyaṃ gāyatram upasaṃtanuyāt | prātaranuvākanyāyena | ā. [6-3?] iti ||*
+*upa preti daśarcaṃ saptamaṃ sūktaṃ | atrānukramyate | upa pra daśeti | ṛṣiś cānyasmād iti [?] paribhāṣayā śaktiputraḥ parāśara ṛṣiḥ | anādeśaparibhāṣayā triṣṭup | paramāgneyam aindrād iti [?] paribhāṣitatvād agnir devatā || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādīni trīṇi sūktāni | athaitasyā iti khaṇḍe tathaiva sūtritaṃ | upa pra jinvann iti tisraḥ kā te upetir iti sūkte | ā. 4-13 iti || aśvinaśastre 'pi prātaranuvākātideśād idamādīni trīṇi sūktāni | tathaiva sūtryate | etayor āgneyaṃ gāyatram upasaṃtanuyāt | prātaranuvākanyāyena | ā. 6-5 iti ||*
 
-*(Reading note: the first two sentences are compressed in the print — the words "ṛṣiś chāndasyād iti paribhāṣayoḥ", "anādeśaparibhāṣayo striṣṭup" and "paramāgneyendrād" are read as printed and are doubtful in several syllables [?]; the sense is given by the Kannada anuvāda below. Āśvalāyana numerals [?].)*
+*(Reading note: re-read from the better scan in the numeral pass: "atrānukramyate", "paribhāṣayā", "anādeśaparibhāṣayā triṣṭup" are as printed; "ṛṣiś cānyasmād iti" (first syllables of the second line) and "paramāgneyam aindrād iti" remain doubtful [?]; the sense is given by the Kannada anuvāda below. Āśvalāyana numerals 4-13 and 6-5 as printed.)*
 
-**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*upa pra jinvan*", is the seventh sūkta in the twelfth anuvāka. It has ten Ṛks. The Anukramaṇikā says "*upa pra daśa*". The ṛṣi of this sūkta is Parāśara, son of Śakti; the metre is Triṣṭup; the deity is Agni. At the time of reciting the Prātaranuvāka mantras, this sūkta and the next two sūktas are used for the Ṛks of Agni in the Triṣṭup metre — as is stated in the sūtra of the Āśvalāyana-śrauta-sūtra, in the section beginning "*athaitasyāḥ*": "*upa pra jinvan* [and the] three [Ṛks] and the two sūktas *kā te upetiḥ*" (Ā. [4-13?]). And for the Aśvina-śastra mantras, belonging to the Prātaranuvāka, these three sūktas are used, as indicated by the sūtra of the Āśvalāyana-śrauta-sūtra "*etayor āgneyaṃ gāyatram upasaṃtanuyāt prātaranuvākanyāyena*" (Ā. [6-3?]).
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*upa pra jinvan*", is the seventh sūkta in the twelfth anuvāka. It has ten Ṛks. The Anukramaṇikā says "*upa pra daśa*". The ṛṣi of this sūkta is Parāśara, son of Śakti; the metre is Triṣṭup; the deity is Agni. At the time of reciting the Prātaranuvāka mantras, this sūkta and the next two sūktas are used for the Ṛks of Agni in the Triṣṭup metre — as is stated in the sūtra of the Āśvalāyana-śrauta-sūtra, in the section beginning "*athaitasyāḥ*": "*upa pra jinvan* [and the] three [Ṛks] and the two sūktas *kā te upetiḥ*" (Ā. 4-13). And for the Aśvina-śastra mantras, belonging to the Prātaranuvāka, these three sūktas are used, as indicated by the sūtra of the Āśvalāyana-śrauta-sūtra "*etayor āgneyaṃ gāyatram upasaṃtanuyāt prātaranuvākanyāyena*" (Ā. 6-5).
 
 ---
 
 ### Page 283 (PDF 301)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **सूक्त — ७१ (Sūkta 71)**
 
 ॥ ओं ॥ — *Oṃ.*
 ॥ मण्डल—१ ॥ अनुवाक—१२ ॥ सूक्त—७१ ॥ — *Maṇḍala 1; Anuvāka 12; Sūkta 71.*
-॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—१३, १४ [?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga 13, 14 [as read; the second numeral is doubtful, ?].*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—१५, १६ ॥ — *Aṣṭaka 1; Adhyāya 5; Varga 15, 16.*
 *Number of Ṛks in the sūkta:* 10. *Ṛṣi:* Pārāśara Śākti. *Devatā:* Agni. *Chandas:* Triṣṭup.
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.1**
 
-> उप प्र जिन्वन्नुशतीरुशंतं पतिं न नित्यं जनयः सनीळाः ।
-> स्वसारः श्यावीमरुषीमजुष्रञ्चित्रमुच्छंतीमुषसं न गावः ॥ १ ॥
+*(Accents as printed.)*
 
-*upa pra jinvann uśatīr uśantaṃ patiṃ na nityaṃ janayaḥ sanīḷāḥ |
-svasāraḥ śyāvīm aruṣīm ajuṣran citram ucchantīm uṣasaṃ na gāvaḥ ||1||*
+> उप॒ प्र जि॑न्वन्नुश॒तीरु॒शंतं॒ पतिं॒ न नित्यं॒ जन॑यः॒ सनी॑ळाः ।
+> स्वसा॑रः॒ श्यावी॒मरु॑षीमजुष्रञ्चि॒त्रमु॒च्छंती॑मु॒षसं॒ न गावः॑ ॥ १ ॥
 
-*(Accents are marked in the print; not reproduced here.)*
+*úpa prá jinvann uśatī́r uśántaṃ pátiṃ ná nítyaṃ jánayaḥ sánīḷāḥ |
+svásāraḥ śyā́vīm áruṣīm ajuṣran citrám ucchántīm uṣásaṃ ná gā́vaḥ ||1||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -5688,15 +5688,15 @@ svasāraḥ śyāvīm aruṣīm ajuṣran citram ucchantīm uṣasaṃ na gāva�
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.1**
 
-> उशतीरुशत्यः कामयमानाः सनीळाः । नीळो निवासस्थानं । समाननिवासस्थानाः । एकपाण्यवस्थानात् । स्वसार इत्यंगुलिनाम । एवंभूता अंगुलयः उशंतं कामयमानमग्निं जनयो जायो नित्यमसाधारणं पतिं न भर्तारमिवोप प्र जिन्वन् । उपेत्य हविष्प्रदानादिकर्मणा प्रीणयंति । प्रीणयित्वा च चित्रं चायनीयं पूजनीयं तमग्निमंजलिबंधनेनाजुष्रन् । असेवंत । तत्र दृष्टांतः । श्यावीं श्यावर्णां रात्रिसंबंधात्कृष्णां तते उच्छंतीं सूर्यकिरणसंबंधात्तमो वर्जयंतीम् अत एवारुषीमारोचमानां यद्वा शुभ्ररूपेयुक्तामुषसं ने उषोदेवतां गावो रश्मयो यथा सेवंते तद्वत् । यथा रश्मयः उषसा नित्यसंबद्धा एवं सर्वेषु यज्ञेष्वग्निपरिचरणेनांगुलयो नित्यसंबद्धा इति तात्पर्यार्थः ॥ जिन्वन् । जिवि प्रीणनार्थः । इदित्त्वान्नुम् । लेट्यडागमः । उशतीः । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । शतुरनुम इति नद्या उदात्तत्वं । स्वसारः । असु क्षेपण इत्यस्मात्सृ‌ञ्स्यसेरृन्नन् । उ. [३-८२?] इति ऋनन् । न षट्स्वस्रादिभ्यः । पा. [४-१-१०] इति ङीप्प्रतिषेधः । नित्त्वादाद्युदात्तत्वं । अरुषीम् । अरुषमिति रूपनाम । ऋ गतौ । ऋहनिभ्यामुषच् । उ. [४-२८?] । छन्दसीवनिपाविति मत्वर्थीय ईकारः । व्यत्ययेनाद्युदात्तत्वं । अजुष्रन् । जुषी प्रीतिसेवनयोः । तौदादिकः । लङि व्यत्ययेन परस्मैपदं । रुडित्यनुवृत्तौ बहुलं छन्दसीत्यंतादेशस्य रुडागमः ॥
+> उशतीरुशत्यः कामयमानाः सनीळाः । नीळो निवासस्थानं । समाननिवासस्थानाः । एकपाण्यवस्थानात् । स्वसार इत्यंगुलिनाम । एवंभूता अंगुलयः उशंतं कामयमानमग्निं जनयो जाया नित्यमसाधारणं पतिं न भर्तारमिवोप प्र जिन्वन् । उपेत्य हविष्प्रदानादिकर्मणा प्रीणयंति । प्रीणयित्वा च चित्रं चायनीयं पूजनीयं तमग्निमंजलिबंधनेनाजुष्रन् । असेवंत । तत्र दृष्टांतः । श्यावीं श्यावर्णां रात्रिसंबंधात्कृष्णां तते उच्छंतीं सूर्यकिरणसंबंधात्तमो वर्जयंतीम् अत एवारुषीमारोचमानां यद्वा शुभ्ररूपयुक्तामुषसं ने उषोदेवतां गावो रश्मयो यथा सेवंते तद्वत् । यथा रश्मयः उषसा नित्यसंबद्धा एवं सर्वेषु यज्ञेष्वग्निपरिचरणेनांगुलयो नित्यसंबद्धा इति तात्पर्यार्थः ॥ जिन्वन् । जिवि प्रीणनार्थः । इदित्त्वान्नुम् । लेट्यडागमः । उशतीः । वा छन्दसीति पूर्वसवर्णदीर्घत्वम् । शतुरनुम इति नद्या उदात्तत्वं । स्वसारः । असु क्षेपण इत्यस्मात्सृ‌ञ्स्यसेर्ऋन् । उ. [२-९७?] इति ऋन् । न षट्स्वस्रादिभ्यः । पा. [४-१-१०] इति ङीप्प्रतिषेधः । नित्त्वादाद्युदात्तत्वं । अरुषीम् । अरुषमिति रूपनाम । ऋ गतौ । ऋहनिभ्यामुषच् । उ. [४-७३?] । छन्दसीवनिपाविति मत्वर्थीय ईकारः । व्यत्ययेनाद्युदात्तत्वं । अजुष्रन् । जुषी प्रीतिसेवनयोः । तौदादिकः । लङि व्यत्ययेन परस्मैपदं । रुडित्यनुवृत्तौ बहुलं छन्दसीत्यंतादेशस्य रुडागमः ॥
 
-*uśatīr uśatyaḥ kāmayamānāḥ sanīḷāḥ | nīḷo nivāsasthānaṃ | samānanivāsasthānāḥ | ekapāṇyavasthānāt | svasāra ity aṅgulināma | evaṃbhūtā aṅgulayaḥ uśantaṃ kāmayamānam agniṃ janayo jāyo nityam asādhāraṇaṃ patiṃ na bhartāram ivopa pra jinvan | upetya haviṣpradānādikarmaṇā prīṇayanti | prīṇayitvā ca citraṃ cāyanīyaṃ pūjanīyaṃ tam agniṃ añjalibandhanenājuṣran | asevanta | tatra dṛṣṭāntaḥ | śyāvīṃ śyāvarṇāṃ rātrisaṃbandhāt kṛṣṇāṃ tate(?) ucchantīṃ sūryakiraṇasaṃbandhāt tamo varjayantīm ata evāruṣīm ārocamānāṃ yadvā śubhrarūpeyuktām uṣasaṃ na(?) uṣodevatāṃ gāvo raśmayo yathā sevante tadvat | yathā raśmayaḥ uṣasā nityasaṃbaddhā evaṃ sarveṣu yajñeṣv agniparicaraṇenāṅgulayo nityasaṃbaddhā iti tātparyārthaḥ || jinvan | jivi prīṇanārthaḥ | iditvān num | leṭy aḍāgamaḥ | uśatīḥ | vā chandasīti pūrvasavarṇadīrghatvam | śatur anuma iti nadyā udāttatvaṃ | svasāraḥ | asu kṣepaṇa ity asmāt sṛñsyaser ṛnnan | u. [3-82?] iti ṛnan | na ṣaṭsvasrādibhyaḥ | pā. [4-1-10] iti ṅīpprati-ṣedhaḥ | nitvād ādyudāttatvaṃ | aruṣīm | aruṣam iti rūpanāma | ṛ gatau | ṛhanibhyām uṣac | u. [4-28?] | chandasīvanipāv iti matvarthīya īkāraḥ | vyatyayenādyudāttatvaṃ | ajuṣran | juṣī prītisevanayoḥ | taudādikaḥ | laṅi vyatyayena parasmaipadaṃ | ruḍityanuvṛttau bahulaṃ chandasīty antādeśasya ruḍāgamaḥ ||*
+*uśatīr uśatyaḥ kāmayamānāḥ sanīḷāḥ | nīḷo nivāsasthānaṃ | samānanivāsasthānāḥ | ekapāṇyavasthānāt | svasāra ity aṅgulināma | evaṃbhūtā aṅgulayaḥ uśantaṃ kāmayamānam agniṃ janayo jāyā nityam asādhāraṇaṃ patiṃ na bhartāram ivopa pra jinvan | upetya haviṣpradānādikarmaṇā prīṇayanti | prīṇayitvā ca citraṃ cāyanīyaṃ pūjanīyaṃ tam agniṃ añjalibandhanenājuṣran | asevanta | tatra dṛṣṭāntaḥ | śyāvīṃ śyāvarṇāṃ rātrisaṃbandhāt kṛṣṇāṃ tate(?) ucchantīṃ sūryakiraṇasaṃbandhāt tamo varjayantīm ata evāruṣīm ārocamānāṃ yadvā śubhrarūpayuktām uṣasaṃ na(?) uṣodevatāṃ gāvo raśmayo yathā sevante tadvat | yathā raśmayaḥ uṣasā nityasaṃbaddhā evaṃ sarveṣu yajñeṣv agniparicaraṇenāṅgulayo nityasaṃbaddhā iti tātparyārthaḥ || jinvan | jivi prīṇanārthaḥ | iditvān num | leṭy aḍāgamaḥ | uśatīḥ | vā chandasīti pūrvasavarṇadīrghatvam | śatur anuma iti nadyā udāttatvaṃ | svasāraḥ | asu kṣepaṇa ity asmāt sṛñsyaser ṛn | u. [2-97?] iti ṛn | na ṣaṭsvasrādibhyaḥ | pā. [4-1-10] iti ṅīpprati-ṣedhaḥ | nitvād ādyudāttatvaṃ | aruṣīm | aruṣam iti rūpanāma | ṛ gatau | ṛhanibhyām uṣac | u. [4-73?] | chandasīvanipāv iti matvarthīya īkāraḥ | vyatyayenādyudāttatvaṃ | ajuṣran | juṣī prītisevanayoḥ | taudādikaḥ | laṅi vyatyayena parasmaipadaṃ | ruḍityanuvṛttau bahulaṃ chandasīty antādeśasya ruḍāgamaḥ ||*
 
-*(Reading note: the print is clear; "tate", "na" before *uṣodevatām*, "ṛnnan" and "ṛnan", and every Uṇādi/Pāṇini numeral are doubtful readings [?]. The bhāṣya's grammatical tail begins at "jinvan" and is characterized, not transcribed further, below.)*
+*(Reading note: the print is clear; "tate" is as printed; "na" before *uṣodevatām*, "jāyā", "śubhrarūpayuktām", "ṛn" and Pā. 4-1-10 were checked against the better scan; the two Uṇādi numerals remain doubtful [?]. The bhāṣya's grammatical tail begins at "jinvan" and is characterized, not transcribed further, below.)*
 
 *Meaning:* *Uśatīḥ* — the desiring ones; *sanīḷāḥ* — *nīḷa* is a dwelling; "of a common dwelling", because they stay on one hand; *svasāraḥ* is a name of the fingers. Such fingers *pra jinvan* — please, as wives (*janayaḥ*, *jāyāḥ*) always please an uncommon, desiring husband (*patiṃ na*): they approach him and, by the act of offering the oblation and so on, gratify him; and having gratified him they serve (*ajuṣran*) that wonderful (*citra*), honourable Agni with the joining of the palms. The illustration: as the rays (*gāvaḥ*) serve the dawn — dark (*śyāvī*) from its connection with the night, then *ucchantī*, dispelling the darkness by connection with the sun's rays, therefore bright-red (*aruṣī*) or possessed of a shining form, the deity Uṣas — so the fingers. As the rays are always bound up with the dawn, so in all sacrifices the fingers are always bound up with the tending of Agni; such is the purport.
 
-**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *jinvan* (root *jivi* in the sense of pleasing; *num* because of the *it*; *aḍ*-augment in the *leṭ*); *uśatīḥ* (lengthening to the earlier similar vowel by *vā chandasi*; acute on the feminine ending *ī* by *śatur anumo nadyajādī*); *svasāraḥ* (root *asu kṣepaṇe*, affix *ṛnan* by Uṇ. [3-82?]; no *ṅīp* by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute since the affix is *nit*); *aruṣīm* (*aruṣam* is a name of form, root *ṛ* "to go", affix *uṣac* by Uṇ. [4-28?]; the *ī* in the possessive sense by *chandasīvanipau*; accent by *vyatyaya*); *ajuṣran* (root *juṣī* "to please/serve", Tudādi class; Parasmaipada in the *laṅ* by *vyatyaya*; *ruṭ*-augment by *bahulaṃ chandasi*).
+**Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *jinvan* (root *jivi* in the sense of pleasing; *num* because of the *it*; *aḍ*-augment in the *leṭ*); *uśatīḥ* (lengthening to the earlier similar vowel by *vā chandasi*; acute on the feminine ending *ī* by *śatur anumo nadyajādī*); *svasāraḥ* (root *asu kṣepaṇe*, affix *ṛn* by Uṇ. [2-97?]; no *ṅīp* by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute since the affix is *nit*); *aruṣīm* (*aruṣam* is a name of form, root *ṛ* "to go", affix *uṣac* by Uṇ. [4-73?]; the *ī* in the possessive sense by *chandasīvanipau*; accent by *vyatyaya*); *ajuṣran* (root *juṣī* "to please/serve", Tudādi class; Parasmaipada in the *laṅ* by *vyatyaya*; *ruṭ*-augment by *bahulaṃ chandasi*).
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
 
@@ -5710,21 +5710,21 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 
 ### Page 285 (PDF 303)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **Bhāvārtha (concluded):** …and at last obtaining a bright colour, so do the fingers serve Agni with the joining of the palms and the like.
 
 **English Translation** *(the source's own, as printed):*
 
-> The contiguous fingers, loving the affectionate Agni, as wives love their own husbands, please him (with offered oblations), and honour him, who is entitled to honour (with gesticulations) as the rays of light (are assiduous in the service) of the dawn. which is (at first) dark, then glimmering, and (finally) radiant.
+> The contiguous fingers, loving the affectionate Agni, as wives love their own husbands, please him (with offered oblations), and honour him, who is entitled to honour (with gesticulations) as the rays of light (are assiduous in the service) of the dawn, which is (at first) dark, then glimmering, and (finally) radiant.
 
-*(The full stop before "which" is printed so [sic].)*
+*(The better scan shows a comma before "which"; the earlier "[sic]" full stop is withdrawn.)*
 
 **॥ विशेषविषयगळು ॥ — Special Topics** *(Kannada)*
 
 - The source says that this Ṛk describes the ever-necessary and most excellent connection of the fingers, with devotion and faith, with the worship that is done to Agni. It compares this connection to the attentions a wife full of excessive love pays to her husband, and to the service which the rays pay to the dawn, which is shining by its own radiance and still increases in beauty by the rays. **यथा रश्मयः उषसा नित्यसंबद्धाः इति तात्पर्यार्थः** — "In the way the dawn and the rays are always connected, so the fingers and Agni are always connected, as the offerings and attentions in the sacrifices are being given always to Agni": thus Sāyaṇa explains the purport.
-- **सनीळाः** — "The word *nīḷa* means 'house', as it is read among the twenty-two names of the house, *gayaḥ*, *kṣayaḥ*, *durāḥ* and so on (Ni. [3-4?]); and the word *nīḷa* itself is used in many places as a word for sections of a house. Here *sanīḷāḥ* — those having a common dwelling — is used as an adjective for the fingers: the meaning is that all of them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. [5-?-?] the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for the fingers. Ordinarily the *Maruts*, who always live together, are likewise given the epithet, in the places [1-?-?; 2-?-?] where the Maruts are described."
-- **स्वसारः** — "As *agruvaḥ*, *aṇvyaḥ* and so on, it is read among the twenty-two names of the fingers (Ni. [2-5?]); hence it means 'fingers' (*svayam eva sarantī aṅgulayaḥ* — 'they go of themselves'). Because they move of their own accord for the work of Agni, they are *svasāraḥ* ('sisters' [i.e., 'self-going']). *Sanīḷāḥ* and *svasāraḥ* are epithets that commonly occur together for the fingers." *(Continued on p. 286.)*
+- **सनीळाः** — "The word *nīḷa* means 'house', as it is read among the twenty-two names of the house, *gayaḥ*, *kṣayaḥ*, *durāḥ* and so on (Ni. [3-13?]); and the word *nīḷa* itself is used in many places as a word for sections of a house. Here *sanīḷāḥ* — those having a common dwelling — is used as an adjective for the fingers: the meaning is that all of them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. [9-72-2?] the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for the fingers. Ordinarily the *Maruts*, who always live together, are likewise given the epithet, in the places [1-165-1; 7-56-1?] where the Maruts are described."
+- **स्वसारः** — "As *agruvaḥ*, *aṇvyaḥ* and so on, it is read among the twenty-two names of the fingers (Ni. [3-9?]); hence it means 'fingers' (*svayam eva sarantī aṅgulayaḥ* — 'they go of themselves'). Because they move of their own accord for the work of Agni, they are *svasāraḥ* ('sisters' [i.e., 'self-going']). *Sanīḷāḥ* and *svasāraḥ* are epithets that commonly occur together for the fingers." *(Continued on p. 286.)*
 
 ---
 
@@ -5734,32 +5734,32 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 
 **Special Topics of Rik 71.1 (continued)**
 
-- **जनयः** — *janayaḥ iti devānāṃ patnyaḥ ucyante — devānāṃ vai patnīr janayaḥ* — "'The wives of the gods are called *janayaḥ*': 'the wives of the gods are *janayaḥ*' — thus the śruti [as read, ?]. When explaining Ṛk 1-[?]-10, Sāyaṇa indicates that the word *janayaḥ* is well known as 'the wives of the gods', but the example he gives is not given with a firm basis to show which scriptural sentence it is. There is no rule that *janayaḥ* must be the wives of the gods only. In the Ṛk Saṃhitā, in *utpādayitryaḥ patnyaḥ santānaṃ…* ('the wives, who are able to bear children'), it is used generally for the wives of both gods and men. For example:
+- **जनयः** — *janayaḥ iti devānāṃ patnyaḥ ucyante — devānāṃ vai patnīr janayaḥ* — "'The wives of the gods are called *janayaḥ*': 'the wives of the gods are *janayaḥ*' — thus the śruti (*iti śruteḥ*). When explaining Ṛk 1-62-10, Sāyaṇa indicates that the word *janayaḥ* is well known as 'the wives of the gods', but the example he gives is not given with a firm basis to show which scriptural sentence it is. There is no rule that *janayaḥ* must be the wives of the gods only. In the Ṛk Saṃhitā, in *utpādayitryaḥ patnyaḥ santānaṃ…* ('the wives, who are able to bear children'), it is used generally for the wives of both gods and men. For example:
 
   > अभ्रातरो न योषणो व्यंतः पतिरिपो न जनयो दुरेवाः ।
-  > *abhrātaro na yoṣaṇo vyantaḥ patiripo na janayo durevāḥ |* (Ṛk. Saṃ. [4-5-5?])
+  > *abhrātaro na yoṣaṇo vyantaḥ patiripo na janayo durevāḥ |* (Ṛk. Saṃ. 4-5-5)
 
   > अनश्रवोऽनमीवाः सुरत्ना आ रोहंतु जनयो योनिमग्रे ।
-  > *anaśravo 'namīvāḥ suratnā ā rohantu janayo yonim agre |* (Ṛk. Saṃ. [10-18-7?])
+  > *anaśravo 'namīvāḥ suratnā ā rohantu janayo yonim agre |* (Ṛk. Saṃ. 10-18-7)
 
   In places like these, the word *janayaḥ* is used as a synonym of human women; here also *saha janayaḥ — jāyāḥ* means generally 'wives'." *(Glosses mine and tentative: "women unbrothered, like wives who hate their husbands, bad-natured" for the first; "wifeless/tearless, free from sickness, with good jewels, may the wives go up to the womb first" for the second; the Ṛgveda numerals are read doubtfully [?].)*
-- **जिन्वन्** — *jinvatiḥ prītikarmā* (Ni. [6-21?]) — "It is used in the sense of 'to please'. As a wife pleases her husband and, attending him with love, serves him, so the fingers, with devotion, attend Agni and serve him. But this is not merely common pleasing; it includes the sense of nourishing. For this the Nirukta-writer gives a very apt example of a pleasing that causes joy and nourishment (Ni. [6-21?]), the Ṛk Saṃhitā's
+- **जिन्वन्** — *jinvatiḥ prītikarmā* (Ni. 6-22) — "It is used in the sense of 'to please'. As a wife pleases her husband and, attending him with love, serves him, so the fingers, with devotion, attend Agni and serve him. But this is not merely common pleasing; it includes the sense of nourishing. For this the Nirukta-writer gives a very apt example of a pleasing that causes joy and nourishment (Ni. 6-22), the Ṛk Saṃhitā's
   > भूमिं पर्जन्या जिन्वंति दिवं जिन्वंत्यग्नयः ।
-  > *bhūmiṃ parjanyā jinvanti divaṃ jinvanty agnayaḥ |* (Ṛk. Saṃ. [1-164-51?])
+  > *bhūmiṃ parjanyā jinvanti divaṃ jinvanty agnayaḥ |* (Ṛk. Saṃ. 1-164-51)
   
-  'The rains please [i.e., refresh] the earth; the fires please the heaven' — by which he shows that the use of the word *jinvanti* is proper where, as the rain brings joy and nourishment to the earth and the fires cause pleasure to the heaven, there is such pleasure. Here too the fingers have a pleasure of joy and nourishment for Agni. The example of the love of husband and wife is also very fitting." *(Gloss mine and tentative; the Ṛgveda numerals [?].)*
+  'The rains please [i.e., refresh] the earth; the fires please the heaven' — by which he shows that the use of the word *jinvanti* is proper where, as the rain brings joy and nourishment to the earth and the fires cause pleasure to the heaven, there is such pleasure. Here too the fingers have a pleasure of joy and nourishment for Agni. The example of the love of husband and wife is also very fitting." *(Gloss mine and tentative.)*
 
 ---
 
 ### Page 287 (PDF 305)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **Special Topics of Rik 71.1 (concluded):** **उच्छंतीम्** — *naiśaṃ tamo varjayantīm* — "driving far away the darkness of night — this is an illustration for the service of the fingers: as the rays serve the dawn (*gāvo na*), so the fingers serve Agni. (For the explanation of the word *ucchantīm* see the Special Topics of Ṛk 1-[?]-6.)"
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.1, noted briefly; not transcribed)*
 
-Words treated: *jinvan* (root *jivi* in the sense of pleasing; *num* by *idito num dhātoḥ*; *leṭ*, third person plural, *jhi*→*anta* by *jho 'ntaḥ*; loss of the final *i* by *iteś ca lopaḥ*, loss of the final *t* by *saṃyogāntalopa*; nighāta accent, not being at the head of a pāda); *uśatīḥ* (root *vaś* "to desire"; *śatṛ*; *ṅīp* in the feminine by *ugitaś ca*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*; the *ī* of the *nadī*-designated ending acute by *śatur anumo nadyajādī*, Pā. [6-1-173]); *nityam* (*tyap* on the indeclinable *ni* by *avyayāt tyap*, Pā. [4-2-104], with the statement *tyab-bhedhruve* in the sense of "perpetual"; being *pit*, anudātta, so the indeclinable keeps its accent); *svasāraḥ* (root *asu kṣepaṇe*, Divādi; *ṛnan* after the upapada *su* by *suñasyaser ṛnan*, Uṇ. [3-82?], giving *svasṛ*; the *ṅīp* that the feminine would take is prohibited by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute by *ñnityādir nityam*; in the nominative plural, *jas* following, guṇa by *ṛto ñi sarvanāmasthānayoḥ*, Pā. [7-3-110]; lengthening of the penultimate by *apṛkta…*; *ru*, visarga); *aruṣīm* (*aruṣam* is a name of form; root *ṛ* "to go"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-?]; in the sense "possessing *aruṣa*" the possessive *ī* by *chandasīvanipau*; the affix gives final acute, but *vyatyayo bahulam* gives initial acute). Continued on p. 288. *Grammar page, noted briefly; numerals [?].*
+Words treated: *jinvan* (root *jivi* in the sense of pleasing; *num* by *idito num dhātoḥ*; *leṭ*, third person plural, *jhi*→*anta* by *jho 'ntaḥ*; loss of the final *i* by *iteś ca lopaḥ*, loss of the final *t* by *saṃyogāntalopa*; nighāta accent, not being at the head of a pāda); *uśatīḥ* (root *vaś* "to desire"; *śatṛ*; *ṅīp* in the feminine by *ugitaś ca*; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*; the *ī* of the *nadī*-designated ending acute by *śatur anumo nadyajādī*, Pā. [6-1-173]); *nityam* (*tyap* on the indeclinable *ni* by *avyayāt tyap*, Pā. [4-2-104], with the statement *tyab-bhedhruve* in the sense of "perpetual"; being *pit*, anudātta, so the indeclinable keeps its accent); *svasāraḥ* (root *asu kṣepaṇe*, Divādi; *ṛn* after the upapada *su* by *suñsyaser ṛn*, Uṇ. [2-253?], giving *svasṛ*; the *ṅīp* that the feminine would take is prohibited by *na ṣaṭsvasrādibhyaḥ*, Pā. [4-1-10]; first syllable acute by *ñnityādir nityam*; in the nominative plural, *jas* following, guṇa by *ṛto ñi sarvanāmasthānayoḥ*, Pā. [7-3-110]; lengthening of the penultimate by *apṛkta…*; *ru*, visarga); *aruṣīm* (*aruṣam* is a name of form; root *ṛ* "to go"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-513?]; in the sense "possessing *aruṣa*" the possessive *ī* by *chandasīvanipau*; the affix gives final acute, but *vyatyayo bahulam* gives initial acute). Continued on p. 288. *Grammar page, noted briefly; numerals [?].*
 
 ---
 
