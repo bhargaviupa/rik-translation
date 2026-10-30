@@ -16737,4 +16737,92 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 598 (PDF 618) done — Sūkta 182 Ṛk 1 ends; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (indratamā; continues p. 599). Next: printed p. 599 (PDF 619). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 599  (PDF 619)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 599.)*
+
+> वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन् ।
+
+> *vṛṣā vāṃ megho vṛṣaṇā pīpāya gorna seke manuṣo daśasyan |*
+
+(Ṛ. Saṃ. 1-181-8) — from the descriptions in ṛks such as these it is well known that the qualities mentioned above are fully present in them. In the same way:
+
+> इन्दवे द्रवतीति वा ।
+
+> *indave dravatīti vā |*
+
+— from the root *dru*, "to run", from running with eagerness to the Soma-juice; hence this name, if so:
+
+> हंसाविव पतथो अध्वगाविव सोमं सुतं महिषेवाव गच्छथः ।
+> सजोषसा उषसा सूर्येण च त्रिर्वर्तिर्यातमश्विना ॥
+> श्येनाविव पतथो हव्यदातये सोमं सुतं महिषेवाव गच्छथः ।
+> सजोषसा उषसा सूर्येण च त्रिर्वर्तिर्यातमश्विना ॥
+
+> *haṃsāviva patatho adhvagāviva somaṃ sutaṃ mahiṣevāva gacchathaḥ |*
+> *sajoṣasā uṣasā sūryeṇa ca trirvartiryātamaśvinā ‖*
+> *śyenāviva patatho havyadātaye somaṃ sutaṃ mahiṣevāva gacchathaḥ |*
+> *sajoṣasā uṣasā sūryeṇa ca trirvartiryātamaśvinā ‖*
+
+(Ṛ. Saṃ. 8-35-8 to 9 [?]; as read) — in ṛks such as these, the Aśvin deities, like Indra, are described as coming in haste for drinking Soma; so the derivation above is suitable. Therefore, the epithet *indratamā* can be applied to them. And:
+
+> इन्दौ रमते इति वा ।
+
+> *indau ramate iti vā |*
+
+— from the root *ram*, which gives the sense "to be delighted": one who is satisfied by drinking the Soma-juice; for the name too the above example is the basis. Or:
+
+> इन्धे भूतानीति वा ।
+
+> *indhe bhūtānīti vā |*
+
+— from the root *indh*, meaning "to shine": one who makes beings shine; or the name Indra is famous in this sense; by this derivation the epithet becomes:
+
+> वि चेदुच्छन्त्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरन्ते ।
+> ऊर्ध्वं भानुं सविता देवो अश्रेद्बृहदग्नयः समिधा जरन्ते ॥
+
+> *vi ceducchantyaśvinā uṣāsaḥ pra vāṃ brahmāṇi kāravo bharante |*
+> *ūrdhvaṃ bhānuṃ savitā devo aśredbṛhadagnayaḥ samidhā jarante ‖*
+
+(Ṛ. Saṃ. 7-72-4 [?]; Sanskrit as read, last words doubtful [?]) — in ṛks such as these, along with the rising of the Aśvin deities there is the destruction of darkness, and the world receives the rays of the Ādityas; so they are praised as the illuminators of the world. Hence this epithet suits them.
+
+> इदं करणादित्याग्रयणः ।
+
+> *idaṃ karaṇādityāgrayaṇaḥ |*
+
+(Ni. 10-8 [?]; as read) — "Since in the creation of the world he did everything (*idam asau sarvam akarot*)": if the word Indra is [taken to be] so formed, it is in agreement with "*asarji vāṃ sthavirā vedhasā…*"
+
+### Printed p. 600  (PDF 620)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 600.)*
+
+(Ṛ. Saṃ. 1-181-7) — in the Special Topics of this ṛk it has been told how the Aśvin deities are the cause of the creation of the world. By that same greatness they can be praised with this epithet.
+
+**Indratevaiśvaryakarmaṇaḥ** *(as printed; the intended sense: "all-lordship")* — if the derivation is given that this name may be borne because of lordship over everything: since the Aśvin deities are in the forms of the Sun, Moon and Earth [?], and in the forms of day and night, and in the form of Heaven and Earth the producers of the world, and are pervaders of the universe, and are presidents over all the activities, this sense also fits when praising their greatness. Thus, since all great qualities are in the Aśvin deities, the epithet *indratamā* is very suitable. Likewise:
+
+> अभूदुषा इन्द्रतमा मघोन्यजीजनत्सुविताय श्रवांसि ।
+> वि दिवो देवी दुहिता दधात्यङ्गिरस्तमा सुकृते वसूनि ॥
+
+> *abhūduṣā indratamā maghonyajījanatsuvitāya śravāṃsi |*
+> *vi divo devī duhitā dadhātyaṅgirastamā sukṛte vasūni ‖*
+
+(Ṛ. Saṃ. 7-79-3 [?]) — here also the epithet *indratamā* is applied to Uṣas, and her greatness is described by this epithet.
+
+**Marutvatamā** *(printed "marut-tamā")* — "*marudvegagāminau mitarāgiṇau mitarāviṇau vā*": swift-moving like the Maruts; or of measured passion; or in the matter of measured splendour or sound. Sāyaṇa has so explained the epithet. All these qualities are described in the Aśvin deities.
+
+**Daṃsiṣṭhā** — "*atiśayakarmāṇau*": *daṃsa* is read among the names of work; the meaning is "those who have exceedingly great works".
+
+**Rathītamā (rathinaḥ)** — for this word the meaning "*netāraḥ*" is given. If the question comes: how does this meaning fit this word? then, as the basis for it,
+
+> त्वमसि प्रशस्यो विदथेषु सहन्त्य ।
+> अग्ने रथीरध्वराणाम् ।
+
+> *tvamasi praśasyo vidatheṣu sahantya |*
+> *agne rathīradhvarāṇām |*
+
+(Ṛ. Saṃ. 8-11-2 [?]) — taking this ṛk as example: as there the word *rathīḥ* gives the sense *netā*, so in the ṛk at hand also it is to be understood as meaning that.
+
+**Madhvaḥ** — "*madhu sadṛśasya udakasya vā (pūritaṃ rathaṃ)*": the chariot filled with water like honey, or with ambrosia — the special quality of the chariot of the Aśvin deities is praised. In general the chariots of the Aśvin deities have the epithets *madhumān*, *madhuvāhanaḥ* etc. by their very nature; and not only to their chariot, but to them also, it is famous that they are bearers of honey (*madhuvāhaka*).
+
+---
+
+**Progress note:** printed p. 600 (PDF 620) done — Sūkta 182 Ṛk 2 Special Topics (indratamā derivations, marutvatamā, daṃsiṣṭhā, rathītamā, madhvaḥ); grammar next. Next: printed p. 601 (PDF 621). Open flags: refs [?]; review/doubts_v13.json.
