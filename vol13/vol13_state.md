@@ -1,6 +1,6 @@
 # Vol 13 — state
 
-Status: **translation under way (English only, Sonnet).** Done: title page, introduction, **Sūkta 166 complete (printed pp. 2–72)**; Sūkta 167 begun (p. 72). Output `Rigveda_Samhita_Vol13_English_Translation.md` (its last block is the progress note). ~300 `[?]` so far, nearly all small-type reference numerals; each logged with its crop in `review/doubts_v13.json` (answer field empty). Tools added: `append_en.py` (append + single progress note), `doubt.py` (log a doubt with crop coordinates). Branch `claude/vol13`.
+Status: **translation under way (English only, Sonnet).** Done: title page, introduction, **Sūkta 166 (printed pp. 2–72) and Sūkta 167 (pp. 72–112) complete**; Sūkta 168 begun (p. 112). Output `Rigveda_Samhita_Vol13_English_Translation.md` (its last block is the progress note). ~420 `[?]` so far (68 logged doubt entries), nearly all small-type reference numerals; each logged with its crop in `review/doubts_v13.json` (answer field empty). Tools added: `append_en.py` (append + single progress note), `doubt.py` (log a doubt with crop coordinates). Branch `claude/vol13`.
 
 ## Facts established (all from viewed crops)
 - Scan: 6 parts, 677 PDF pages, ~665 ppi 1-bit, in `scans/`. `tools/cfg.py` maps PDF page -> part+page. **No upside-down pages** (header strips PDF 22–677 and views of PDF 1–26 all upright); no gaps, duplicates or out-of-order pages.
