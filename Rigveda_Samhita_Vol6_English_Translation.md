@@ -11581,11 +11581,13 @@ dyumnaír abhi pra ṇonumaḥ ||5||* [accent ?]
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.1**
 
-> हिरण्यकेशो रजसो विसारेऽहिर्धुनिर्वात इव ध्रजीमान् ।
-> शुचिभ्राजा उषसो नवेदा यशस्वतीरपस्युवो न सत्याः ॥ १ ॥
+*(Accents as printed, 450 dpi; line 1, the mark between* vā *and* ta *is unclear and the* [accent ?] *is doubtful there.)*
+
+> हिरण्य॑केशो॒ रज॑सो विसा॒रे ऽहि॒र्धुनि॒र्वात॑ इ॒व ध्रजी॑मान् ।
+> शुचि॑भ्राजा उ॒षसो॒ नवे॑दा॒ यशस्व॑तीरप॒स्युवो॒ न स॒त्याः ॥ १ ॥
 
 *hiraṇyakeśo rajaso visāre 'hir dhunir vāta iva dhrajīmān |
-śucibhrājā uṣaso navedā yaśasvatīr apasyuvo na satyāḥ ||1||*
+śucibhrājā uṣaso navedā yaśasvatīr apasyuvo na satyāḥ ||1||* [accent ?]
 
 ### Page 523 (PDF 541)
 
