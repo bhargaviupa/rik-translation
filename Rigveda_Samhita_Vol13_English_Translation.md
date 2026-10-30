@@ -14490,4 +14490,59 @@ The Nirukta-writers count the word *go* among the names of the earth (Ni. 2-5 [?
 
 ---
 
-**Progress note:** printed p. 522 (PDF 542) done — Sūkta 180 Ṛk 5: Pratipadārtha…printed English, Special Topics (dasrā, goḥ ohena, jivriḥ, jūrṇiḥ; continues p. 523). Next: printed p. 523 (PDF 543). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 523  (PDF 543)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 523.)*
+
+**Special Topics (continued)** — the word *jūrṇi* is derived either from the root *jū*, which gives the sense of "speed", or from the root *drū*, which gives the sense "to run", or from the root *du*, which has the sense "to injure": so the commentator has shown the formation of the word. And, to show its use, citing the ṛk
+
+> हतेमुसन्न [?] वक्षति क्षिप्ता जूर्णिर्न वक्षति ।
+
+> *hatemusanna [?] vakṣati kṣiptā jūrṇirna vakṣati |*
+
+(Ṛ. Saṃ. 1-19-5 [?]) — he has explained there that *jūrṇiḥ* is *śaktiḥ* ("spear-like missile"), since it is speedy, by reason of its connection with throwing (*kṣepaṇa*). But in the ṛk at hand there is no room for stating that meaning. For *jivriḥ* the meaning "victorious" must be given, and for *jūrṇiḥ* the meaning "grown old in years".
+
+*Jivriḥ* is an epithet of the word *taugryaḥ*. Here the sacrificer compares himself to Taugrya and says that, as the latter was rescued by the favour of the Aśvin deities, so he too shares their favour.
+
+Sāyaṇa: *taugryaḥ na tugrākhyasya rājñaḥ putro bhujyur iva | sa yathā śatrubhiḥ saṃtāḍya samudre pātito yuvāṃ parito 'syai svoddhārāya svasamīpam ānayata kenasid ity arthaḥ* [as read [?]] — "like Bhujyu, the son of the king named Tugra: as he, struck by enemies and thrown into the sea, called you for his rescue, and you brought him to your side". He gives the matter of the earlier story as background: Tugra's son Bhujyu, tormented by enemies, praised you, who were called to his side from the sea, and was pleased.
+
+The son of Tugra, Taugrya, once, being defeated by enemies, was bound hand and foot and thrown into the middle of the sea. He prayed for help to the Aśvin deities. At once they harnessed their horses to their chariot and rescued him in a ship; so Sāyaṇa has told the story as quoted. This son of Tugra is well known by the name Bhujyu; and in many places his story is told.
+
+That the Aśvin deities rescued this same son of Tugra who was drowning in the sea is described by Kakṣīvān, the son of Dīrghatamas, in Ṛk-saṃhitā 1-116 and 1-117 [as read [?]]; by Agastya Maitrāvaruṇi in the 182nd sūkta; by Brahmātithi of the Kaṇva *gotra* in 8-5; and by Ghoṣā, the daughter of Kakṣīvān, in 10-39. In the 182nd sūkta [?] it is described, as seen below, how they sent boats, and how the son of Tugra, filled with hope, clung to them and was saved by their favour.
+
+> युवमेतं चक्रथुः सिन्धुषु प्लवमात्मन्वन्तं पक्षिणं तौग्र्याय कम् ।
+> येन देवत्रा मनसा निरूहथुः सुपप्तनी पेतथुः क्षोदसो महः ॥
+> अवविद्धं तौग्र्यमप्स्वन्तरनारम्भणे तमसि प्रविद्धम् ।
+> चतस्रो नावो जठलस्य जुष्टा उदश्विभ्यामिषिताः पारयन्ति ॥
+
+> *yuvametaṃ cakrathuḥ sindhuṣu plavamātmanvantaṃ pakṣiṇaṃ taugryāya kam |*
+> *yena devatrā manasā nirūhathuḥ supaptanī petathuḥ kṣodaso mahaḥ ‖*
+> *avaviddhaṃ taugryamapsvantaranārambhaṇe tamasi praviddham |*
+> *catasro nāvo jaṭhalasya juṣṭā udaśvibhyāmiṣitāḥ pārayanti ‖*
+
+### Printed p. 524  (PDF 544)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 524.)*
+
+> कः स्विद्वृक्षो निष्ठितो मध्ये अर्णसो यं तौग्र्यो नाधितः पर्यषस्वजत् ।
+> पर्णा मृगस्य पतरोरिवारभ उदश्विना ऊहथुः श्रोमताय कम् ॥
+
+> *kaḥ svidvṛkṣo niṣṭhito madhye arṇaso yaṃ taugryo nādhitaḥ paryaṣasvajat |*
+> *parṇā mṛgasya patarorivārabha udaśvinā ūhathuḥ śromatāya kam ‖*
+
+(Ṛ. Saṃ. 1-182-5 to 7 [?]) — "O Aśvin deities! For Bhujyu, the son of Tugra, you fashioned this sentient boat, furnished with wings. For the son of Tugra, who had fallen and was sinking in the sea, bottomless and dark, you sent four boats. For the flying birds the wings are a support in the sky; for Bhujyu, who was sinking in the sea, you made the limbs of the boat a support and a protector; from what tree did you make them?" — so the story is praised. The same matter is intimated in the ṛk at hand also.
+
+***aṃhasaḥ*** — "*aṃhatir āhaśāṃ* [?] *haṃś cāṃhaś ca haṃteḥ*" (Ni. 4-25 [?]) — although the word *aṃhas* is formed from the root *han* that gives the sense "to injure", this word is in general used more in the sense of "sin" than in the sense of "injury". In the ṛk at hand the meaning is "evil" (*duritam*).
+
+For the latter half of this mantra three kinds of construction have been shown to be possible. First: (1) "*jūrṇiḥ māhinā aṃhasaḥ apaḥ kṣoṇī akṣuḥ vāṃ sacete*" — the aged sacrificer, freed by your favour from sin, obtains the Soma for ever and serves you on the earth; second, (2) "*vāṃ mahinā apaḥ kṣoṇī sacete*" — by your greatness heaven and earth have both won renown as the protectors of the world; third, (3) "*vāṃ mahinā jūrṇiḥ apaḥ kṣoṇī sacete*" — by your greatness the sacrificer serves heaven and earth: so the Sāyaṇa-bhāṣya shows.
+
+***apaḥ*** — read among the names of the intermediate region (Ni. 2-8 [?]); ***kṣoṇī*** — "*kṣoṇīti pṛthivīnāma*" — *kṣoṇī* is read among the names of the earth (Ni. 1-7 [?]).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***dānāya*** — root *ḍudāñ dāne*; the suffix *yuc*; by "*yuvor anākau*" (Pā. Sū. 7-1-1 [?]) *ana* substituted for it; by "*citaḥ*" the final syllable is *udātta*.
+- ***vavṛtīya*** — root *vṛtu vartane*; because the activity of the causer (*prayojaka*) is shown, it contains the sense of the causative; *liṅ*, first person singular, the ending *iṭ*; by "*iṭo 'ṭ*" (Pā. Sū. 3-4-106 [?]) *a* is substituted for it; by "*liṅaḥ sīyuṭ*" (Pā. Sū. 3-4-103 [?]) the augment *sīyuṭ*; by "*bahulaṃ chandasi*" *ślu* as the *vikaraṇa*; reduplication of the root; by "*liṅaḥ salopo 'ntyasya*" (Pā. Sū. 7-2-79 [?]) elision of the *s*; thus *vavṛtīya*; *tiṅ*-final *nighāta* accent.
+
+---
+
+**Progress note:** printed p. 524 (PDF 544) done — Sūkta 180 Ṛk 5 Special Topics (jūrṇi, Bhujyu, aṃhasaḥ) and grammar begun (continues p. 525). Next: printed p. 525 (PDF 545). Open flags: refs [?]; review/doubts_v13.json.
