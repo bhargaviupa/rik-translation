@@ -12170,8 +12170,10 @@ In the word *asme* of this Ṛk the seventh case, *asmāsu*, 'in us'."
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.5**
 
-> स इधानो वसुष्कविरग्निरीळेन्यो गिरा ।
-> रेवदस्मभ्यं पुर्वणीक दीदिहि ॥ ५ ॥
+*(Accents as printed, 300 dpi; positions of strokes/underlines in line 1 doubtful: [accent ?].)*
+
+> स इ॑धा॒नो वसु॑ष्कविर॒ग्निरी॒ळे॑न्यो गि॒रा ।
+> रे॒वद॒स्मभ्य॑म् पुर्वणीक दीदिहि ॥ ५ ॥
 
 *sa idhāno vasuṣ kavir agnir īḷenyo girā |
 revad asmabhyaṃ purvaṇīka dīdihi ||5||*
