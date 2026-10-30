@@ -92,3 +92,6 @@ p. 300: story quotation: "mātariśvākāśe", "mathitvā cānayad iti" (print);
   p. 302: Pā. [3-1-?] -> [3-1-97]
 p. 302: grammar page: "ajo yat [as read, ?]" -> "aco yat" (print "ಅಚೋಯತ್").
 p. 303: Rik 71.5 Saṃhitā accents set as printed (380–520 dpi); svarita over ತ್ವಿ after anudātta under ರಿ [accent ?] (doubts page).
+  p. 304: तै. ब्रा. [२-१-२-१०?] -> २-१-२-१०
+  p. 304: उ. [२-४९?] -> २-८१
+p. 304: bhāṣya re-read: राक्षसादिश्चिकित्वान्; "त्सरतेर्द्धातुः [सरतिः] छद्मगतौ । त्सरत्पृशन्यो ऽलायते [?]" -> "त्वद्भयात्पलायते" (print); दुहितृवत्समनंतरभाविन्यामुषसि; उद्यंतं वावादित्यम्; sūtra name before Uṇ. 2-81 "क्याप्यावृजीति [?]" (doubts page).
