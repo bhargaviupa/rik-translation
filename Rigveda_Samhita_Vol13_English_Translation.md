@@ -14318,4 +14318,66 @@ In the ṛk at hand, the first meaning is that the Aśvin deities saved the ṛ�
 
 ---
 
-**Progress note:** printed p. 516 (PDF 536) done — Sūkta 180 Ṛk 4 Special Topics (Atri–Agni, pravargya; continues p. 517). Next: printed p. 517 (PDF 537). Open flags: refs [?]; Sanskrit quotes (TS/TA) garbled [?]; review/doubts_v13.json.
+### Printed p. 517  (PDF 537)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 517.)*
+
+**Special Topics (continued)**
+
+> … ज्यामप्यादन् [?] । तस्य धनुर्विप्रवमाणाꣳ [?] शिर उदवर्तयत् । तद्द्यावापृथिवी अनुप्रावर्तेताम् । यत्प्रवर्तेते । तत्प्रवर्ग्यस्य प्रवर्ग्यत्वम् । यद्घ्रां [?] ळ इत्यपतत् । तद्घर्मस्य घर्मत्वम् ।
+
+> *… jyāmapyādan [?] | tasya dhanurvipravamāṇām̐ [?] śira udavartayat | taddyāvāpṛthivī anuprāvartetām | yatpravartete | tatpravargyasya pravargyatvam | yadghrāṃ [?] ḷa ityapatat | tadgharmasya gharmatvam |*
+
+(Tai. Ā. 5-1-4 to 6 [?]; as read, doubtful [?]) — in this explanation a story-context is hinted at, and afterwards it is shown that names such as *gharma* became well known. As is said in the Śatapatha Brāhmaṇa, the story context is as follows. Indra and the others performed a sacrificial session at the divine sacrificial place called Kurukṣetra. Then, when it had to be decided who among them was the best — he who first reached the end of the sacrifice by austerity, faith and performance of the sacrifice was to be counted best of all — Viṣṇu won that contest. Then Viṣṇu was held to be the best. Pride arose in him, born of such victory; Viṣṇu, full of self-esteem, took his bow, planted its end on the ground, held three arrows in his hand, and sat resting his head on the tip of the bow; among the deities no one dared face him, and all sat around him. Then, to ridicule his pride, the deities approached ants (*vamri*, *kṛmi*) and asked them to cut the bow-string; and the ants cut Viṣṇu's bow-string (in another reading, "Indra, in the form of an ant, cut the bow-string"; also a variant "*tasyendro vamrirūpeṇa dhanurjyām abhinat*" [?]). Then the tip of the bow sprang upward and the head of Viṣṇu was cut off.
+
+When the bow-string was cut, it sounded "*ghṛṇ*" and fell, so it got the name *gharma*. The shrunk bow and the string, as soon as they were cut, spread widely, and so it became known as *pravargya*.
+
+> मखस्य शिरोऽसीत्याह । यज्ञो वै मखः ।
+
+> *makhasya śiro 'sītyāha | yajño vai makhaḥ |*
+
+(Tai. Ā. 5-3-2 [?]) — in sentences such as these, the portion in which the *pravargya* is praised as the head of all sacrifices is quoted, and its pre-eminence is stated. Afterwards:
+
+> ब्रह्मन् प्रवर्ग्येण प्रचरिष्यामः । होतर्घर्ममभिष्टुहि ।
+
+> *brahman pravargyeṇa pracariṣyāmaḥ | hotargharmamabhiṣṭuhi |*
+
+(Tai. Ā. 4-4-1 [?])
+
+> ब्रह्मन् प्रचरिष्यामः । होतर्घर्ममभिष्टुहि ।
+
+> *brahman pracariṣyāmaḥ | hotargharmamabhiṣṭuhi |*
+
+(Tai. Ā. 4-3-1 [?]) — by such mantras the installation of the *pravargya* is carried out. The nature of the *pravargya* and its greatness will also be explained later, in a fitting context. In the ṛk at hand, to the word *gharma* …
+
+### Printed p. 518  (PDF 538)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 518.)*
+
+… the meaning *pravargya* has been given; it is only to show that both belong to one and the same rite.
+
+***paśvaiṣṭiḥ*** — two ways of meaning have been given for this. First, "*paśur ity agner nāma*" ("*paśu* is a name of Agni"): since Agni too is the sacrificial animal, the sacrifice to Agni is called an animal sacrifice (*paśuyāga*); so he has quoted a sentence of the Taittirīya Saṃhitā:
+
+> अग्निः पशुरासीत्तेनायजन्त स एतं लोकमजयद्यस्मिन्नग्निः ॥
+
+> *agniḥ paśurāsīttenāyajanta sa etaṃ lokamajayadyasminnagniḥ ‖*
+
+(Tai. Saṃ. 5-2-26 [?]) — Agni was the sacrificial animal; when they had offered him as oblation, he then obtained the world in which Agni now exercises lordship; and so on. On this basis, when it is said *paśvaiṣṭiḥ*, it should be explained as "an Agni-sacrifice of the nature of an animal". Or "*athavā paśupriyatvāt paśur ity ucyate* [?] | *tasyāgneḥ iṣṭir bhavati | agnau yāgaḥ sarvo yuṣmadarthaṃ pravartate*" — since Agni is fond of the animal, the name *paśu* is itself well known for Agni. Here the oblation offered in Agni belongs to you also, and as it is an oblation offered with you in view, it is taken to be the praise in the ṛk at hand. Sāyaṇa has explained that sentences such as the following support this very meaning:
+
+> आश्विनं धूम्रललाममालभेत यो दुर्ब्राह्मणः सोमं पिपासेत् ।
+
+> *āśvinaṃ dhūmralalāmamālabheta yo durbrāhmaṇaḥ somaṃ pipāset |*
+
+(Tai. Saṃ. 2-1-10-1 [?])
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***gharmam*** — "*gharmaḥ*" (Uṇ. Sū. 1-146 [?]): to the root *ghṛ kṣaraṇadīptyoḥ* the suffix *mak* is added, with the *guṇa* irregularly derived; by the suffix accent the final syllable is *udātta*.
+- ***apaḥ*** — the accusative has come in the sense of the genitive; by "*ūḍidaṃpadādi…*" (Pā. Sū. 6-1-171 [?]) the case-ending takes the *udātta* accent.
+- ***avṛṇītam*** — root *vṛṅ sambhaktau*, *kryādi* class; *laṅ*, second person dual; *tiṅ*-final *nighāta* accent.
+- ***eṣe*** — root *iṣu icchāyām*; by "*anyebhyo 'pi dṛśyante*" (Pā. Sū. 3-2-178 [?]) the suffix *viṭ* [as printed *vic*]; by "*pugantalaghūpadhasya ca*" (Pā. Sū. 7-3-86 [?]) *guṇa* for the short penultimate vowel; dative singular; by "*sāvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending takes the *udātta* accent.
+- ***rathyā*** — by "*rathād yat*" (Pā. Sū. 4-3-121 [?]) the suffix *yat* in the sense of relation; by "*yato 'nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the *ādyudātta* accent; in the neuter plural …
+
+---
+
+**Progress note:** printed p. 518 (PDF 538) done — Sūkta 180 Ṛk 4 Special Topics complete (pravargya/gharma, paśvaiṣṭiḥ); grammar begun (continues p. 519). Next: printed p. 519 (PDF 539). Open flags: refs [?]; TA quote p.517 garbled [?]; review/doubts_v13.json.
