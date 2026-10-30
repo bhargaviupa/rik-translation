@@ -1,0 +1,2 @@
+Last six (user, Oct 30): L1 p617 3-10-4; L2 p617 10-91-8; L3 p622 Av. 5-18-8 (the 2-24-8 before it was already in place); L4 p625 10-68-10; L5 p618 8-91-8; L6 p622 2-24-9.
+Fixes: p622 swap (2-26-3 now at "father of the deities", 2-24-9 at "used for him too"); p625 "[1]" after "unimitable deed" restored to [10-?-?] (stray value).
