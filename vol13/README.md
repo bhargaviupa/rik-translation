@@ -1,6 +1,6 @@
 # Volume 13
 
-Vol 13 = the volume after Vol 12 in the series — **fill in what it covers (Maṇḍala, Aṣṭaka/Adhyāya, Sūkta range) from the scan's contents table.** First translation of this volume (not a correction pass). Companion Kannada file as in Vol 11. Vol 13 is being done before Vol 12 (Vol 12's scan is low-resolution; see `vol12/`).
+Vol 13 = the volume after Vol 12 in the series — **Maṇḍala 1, Sūktas 166–183, Second Aṣṭaka, Fourth Adhyāya** (printed pp. 1–657; printed = PDF − 20). First translation of this volume (not a correction pass). Companion Kannada file as in Vol 11. Vol 13 is being done before Vol 12 (Vol 12's scan is low-resolution; see `vol12/`).
 
 | Path | What it is |
 |---|---|
