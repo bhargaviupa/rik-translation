@@ -3004,4 +3004,50 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 134 (PDF 154) done — Sūkta 168 Ṛk 7: Saṃhitā to printed English written (Special Topics on p. 135). Next: printed p. 135 (PDF 155). Open flags: Ṛk 7 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 135  (PDF 155)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***vaḥ sātirna vaḥ rātiḥ amavatī*** — *yuṣmākaṃ sambandhinī sambhaktiriva yuṣmatsaṃbhajanaṃ yathā prasastaguṇaṃ tadvat vṛṣṭyādiviṣayā amātyavatī indrādisahāyavatī | yadvā vaḥ sātiḥ saṃvibhaktiḥ na amavatī rogavatī na bhavati*: the word *sāti* is explained as meaning "service"; the word *rāti* is said to mean "gift". The word *amavatī* is explained by the Nirukta-writers as meaning *āmātya* ("a minister").
+
+> कृणुष्व पाजः प्रसितिं न पृथ्वीं याहि राजेवामवाँ इभेन ।
+> तृष्वीमनु प्रसितिं द्रूणानोऽस्तासि विध्य रक्षसस्तपिष्ठैः ॥
+
+> *kṛṇuṣva pājaḥ prasitiṃ na pṛthvīṃ yāhi rājevāmavāṃ ibhena |*
+> *tṛṣvīm anu prasitiṃ drūṇāno'stāsi vidhya rakṣasas tapiṣṭhaiḥ ‖*
+
+(Ṛ. Saṃ. 4-4-1). In this ṛk, for the word *amavān* (*rājeva*), the sense "*āmātyavān abhyamanavān*" is stated [as read]. Durgācārya explains it as: the king who sets out to win victory together with a minister who knows policy (*nīti*); or, alternatively, "*abhyamanavān — rogabhūtaḥ parebhyo bhayadātā*": as a disease causes fear to others, one who causes fear to enemies. In this passage Sāyaṇa supports both senses.
+
+The coming of the Marut-gods is like their abundant and excellent qualities; the rain-giving that the Marut-gods perform is, he says, with the help of Indra, and so the king is compared: as the king goes, together with a minister who knows policy, and with strength gathered by his helpers, to conquer his enemies, so the Marut-gods, when they give rain, keep Indra himself as their *amātya* (helper). This is one kind of meaning.
+
+In the second meaning, the giving of rain by the Marut-gods, like a disease to a king's enemies, is fear-causing, and it is described as not causing fear to others. Of the two meanings of the word *amavatī*, one agrees with the comparison to the king and the other does not.
+
+Sāyaṇa also gives here another kind of meaning: among these there is implied a *vyatireka* (contrast) concerning the king. The king's coming is full of fear; in the coming of the Marut-gods there is never any occasion for the fear of disease. Though this contrast is indicated, the superiority over the king's coming is stated by the other epithets.
+
+### Printed p. 136  (PDF 156)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+***svarvatī*** — the coming of the Marut-gods, which always produces happiness; ***tveṣā*** — which is brilliant; ***vipākā*** — which produces excellent fruits; ***pipiṣvatī*** — which, by farmers, ploughs the earth for the increase of the crops and destroys enemies; ***bhadrā*** — which is worthy of praise: thus it is described.
+
+***pṛṇataḥ dakṣiṇā na*** — *dātur dhanikasya dakṣiṇeva samṛddhikarī*: the word *pṛṇataḥ* is explained, following the Nirukta, in the sense of "filling", as in
+
+> तमूर्मिरं न पृणता यवेन [?]
+
+> *tam ūrmiraṃ na pṛṇatā yavena [?]*
+
+(Ṛ. Saṃ. 2-14-11 [?]), where *yavena pūrayati* is taken in the sense of filling. Here it is explained as "wealthy, filled with wealth". As the wealth given by a rich man as *dakṣiṇā* produces prosperity, so the prosperity brought about by the coming of the Marut-gods is shown by this comparison.
+
+***asuryeva jañjatī*** — *asurasya svabhūtā sarvānabhibhavantī śaktiriva*: for the word *asuryā* the sense "related to the Asuras" is explained. The word *asura* is read among the names of cloud (Ni. 2-[?]) and, as "*asorasurānām asṛjata tad asurāṇām asuratvam iti vijñāyate*" [as read] (Ni. 3-[?]), it is explained. Durgācārya says: "*asuraḥ asuratāḥ sthāneṣu*" — those not firmly settled in their own places are *asuras*; or "*āsyāḥ sthānebhyaḥ*" — those driven by the gods from their places.
+
+The power of these Asuras is all-overcoming. And "*anyebhyo apahṛtya anyasmai dātuṃ samarthā*" — to take another's property or wealth from him and to be able to give it to somebody else: thus Sāyaṇa explains the nature of the Asura power. In the same way, the power of the Marut-gods, "*meghasthamudakam apahṛtya jagataḥ dātuṃ samarthā*" — taking the water that is in the clouds, being able to give it to the world — it is described that they are ready to give it as rain.
+
+Here, "*yuṣmākaṃ sambandhinī sātiḥ yathā prasastaguṇaṃ tadvat vaḥ rātiḥ*" — in addressing the Marut-gods, it is said as a comparison that "as your coming has praiseworthy qualities, so your gift is of the nature of rain, which you grant"; by this it is indicated that all the other epithets about *sāti* are related to *rāti* as well. And "*īdṛśī rātiḥ asmabhyam astu*" — "may such a gift of yours be for us who perform sacrifices": thus the prayer is made.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *sātiḥ* (by "*ūtiyūtijūti…*", Pā. Sū. 3-3-97 [?], the affix *ktin* is given as irregular, with the acute accent).
+
+---
+
+**Progress note:** printed p. 136 (PDF 156) done — Sūkta 168 Ṛk 7 Special Topics and first grammar note; continues p. 137 (grammar, '‖ 7 ‖'). Next: printed p. 137 (PDF 157). Open flags: small-type numerals [?]; review/doubts_v13.json.
