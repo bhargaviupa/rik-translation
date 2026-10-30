@@ -14939,4 +14939,83 @@ Sāyaṇa has given a story concerning the Asuras called *Paṇis*. The Asuras n
 
 ---
 
-**Progress note:** printed p. 536 (PDF 556) done — Sūkta 180 Ṛk 7 Special Topics (satya, vipanyāmahe, paṇiḥ; Paṇi–Saramā story begun; continues p. 537). Next: printed p. 537 (PDF 557). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 537  (PDF 557)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 537.)*
+
+**Special Topics (continued)** — … the Paṇis, Saramā shows her cleverness of intelligence. And since, by this conversation, the nature of the Paṇis is also understood to some extent, it is briefly cited here (Ṛ. Saṃ. 10-108 [?]). Here the Paṇis first question Saramā:
+
+> किमिच्छन्ती सरमा प्रेदमानड्दूरे ह्यध्वा जगुरिः पराचैः ।
+> कास्मेहितिः का परितक्म्यासीत्कथं रसाया अतरः पयांसि ॥
+
+> *kimicchantī saramā predamānaḍdūre hyadhvā jaguriḥ parācaiḥ |*
+> *kāsmehitiḥ kā paritakmyāsītkathaṃ rasāyā ataraḥ payāṃsi ‖*
+
+— "O Saramā, what do you wish for, that you have come so far, over a path that is hard to cross? What was your purpose? How did you cross the waters of the river Rasā?" When they thus ask her, how it became possible for her to cross the stream of the river Rasā, Saramā replies with cleverness:
+
+> इन्द्रस्य दूतीरिषिता चरामि मह इच्छन्ती पणयो निधीन्वः ।
+> अतिष्कदो भियसा तन्न आवत्तथा रसाया अतरं पयांसि ॥
+
+> *indrasya dūtīriṣitā carāmi maha icchantī paṇayo nidhīnvaḥ |*
+> *atiṣkado bhiyasā tanna āvattathā rasāyā ataraṃ payāṃsi ‖*
+
+— "O Paṇis, wishing for your treasure, I have come here as the messenger of Indra; therefore the power came to me to cross the stream of Rasā." Then:
+
+> कीदृङ्ङिन्द्रः सरमे का दृशीका यस्येदं दूतीरसरः पराकात् ।
+> आ च गच्छान्मित्रमेना दधामाथा गवां गोपतिर्नो भवाति ॥
+
+> *kīdṛṅṅindraḥ sarame kā dṛśīkā yasyedaṃ dūtīrasaraḥ parākāt |*
+> *ā ca gacchānmitramenā dadhāmāthā gavāṃ gopatirno bhavāti ‖*
+
+— "O Saramā, who is that Indra, and what is he like? Let him come here; we shall make him a friend, and let him be the keeper of our cows." So they answered, and she said:
+
+> नाहं तं वेद दभ्यं दभत्स यस्येदं दूतीरसरं पराकात् ।
+> न तं गूहन्ति स्रवतो गभीरा हता इन्द्रेण पणयः शयध्वे ॥
+
+> *nāhaṃ taṃ veda dabhyaṃ dabhatsa yasyedaṃ dūtīrasaraṃ parākāt |*
+> *na taṃ gūhanti sravato gabhīrā hatā indreṇa paṇayaḥ śayadhve ‖*
+
+— "O Paṇis, there is none among you who is able to conquer Indra. Be the stream however deep, he is not stopped. O Paṇis, you will lie smitten by him." To that they:
+
+> इमा गावः सरमे या ऐच्छः परि दिवो अन्तान्त्सुभगे पतन्ती ।
+> कस्त एना अव सृजादयुध्वी उतास्माकमायुधा सन्ति तिग्मा ॥
+
+> *imā gāvaḥ sarame yā aicchaḥ pari divo antāntsubhage patantī |*
+> *kasta enā ava sṛjādayudhvī utāsmākamāyudhā santi tigmā ‖*
+
+— "O Saramā, here are the cows, they range through all the regions of the intermediate region. Who can give them up without fighting? Our weapons are very sharp. No one can take these cows from us." Then:
+
+> असेन्या वः पणयो वचांस्यनिषव्यास्तन्वः सन्तु पापीः ।
+> अधृष्टो व एतवा अस्तु पन्था बृहस्पतिर्व उभया न मृळात् ॥
+
+> *asenyā vaḥ paṇayo vacāṃsyaniṣavyāstanvaḥ santu pāpīḥ |*
+> *adhṛṣṭo va etavā astu panthā bṛhaspatirva ubhayā na mṛḷāt ‖*
+
+— "O Paṇis, however strong your army, Bṛhaspati, impelled by Indra, will not spare you," she warned. Then they:
+
+### Printed p. 538  (PDF 558)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 538.)*
+
+> अयं निधिः सरमे अद्रिबुध्नो गोभिरश्वेभिर्वसुभिर्न्यृष्टः ।
+> रक्षन्ति तं पणयो ये सुगोपा रेकु पदमलकमा जगन्थ ॥
+
+> *ayaṃ nidhiḥ sarame adribudhno gobhiraśvebhirvasubhirnyṛṣṭaḥ |*
+> *rakṣanti taṃ paṇayo ye sugopā reku padamalakamā jagantha ‖*
+
+— "O Saramā, we guard with courage our treasure. Your coming here is in vain." So they spoke, in pride. Afterwards Saramā, showing her cleverness of intelligence, helped Indra to plunder them: so it is told. To show the true nature of the Asuras called *Paṇi*, and in what way they gave trouble to the deities and sacrificers, that part of the story has been briefly told.
+
+In the ṛk at hand, for the word *paṇi*, the two kinds of meaning stated have been told above.
+
+***vṛṣaṇau*** — of the two roots *vṛṣu secane* and *vṛṣa śaktibandhane* — the root *vṛṣa* that gives the sense "to sprinkle, to rain", and the second root that gives the sense of "power and capacity" — it has been told earlier at length that the words *vṛṣan*, *vṛṣaṇā*, *vṛṣṇyebhiḥ* and the like are formed, and that the meaning has to be given in keeping with these words. In the ṛk at hand, this epithet is used to praise the Aśvin deities as "showerers of desires".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***vipanyāmahe*** — root *pana stutau*; *laṭ*, first person plural, the ending *mahiṅ*; *e* for the *ṭi*; by *vyatyaya* the *śyan* *vikaraṇa*; by "*hi ca*" (Pā. Sū. 8-1-34 [?]) the *nighāta* accent is prohibited.
+- ***hitavān*** — by "*dadhāter hiḥ*" (Pā. Sū. 7-4-42 [?]) *hi* is substituted for the root *dhā* when the suffix *kta* follows; after *kta*, *matup*; by "*mādupadhāyāś ca…*" (Pā. Sū. 8-2-9 [?]) *va* for the *m*; since *matup* is *anudātta*, the *kta* suffix accent remains.
+- ***adha*** — by "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]) lengthening in the Saṃhitā.
+- ***anindyā*** — root *nidi kutsāyām*; the suffix *yat*; since it has *i* as marker, the *num* augment for the root; a *naña*-*tatpuruṣa* compound; the vocative dual following, by "*supāṃ sulak…*" (Pā. Sū. 7-1-39 [?]) *ā* is substituted for it; being in the vocative, the *nighāta* accent occurs.
+
+---
+
+**Progress note:** printed p. 538 (PDF 558) done — Sūkta 180 Ṛk 7 Special Topics (Paṇi–Saramā verses 10-108), grammar begun (continues p. 539). Next: printed p. 539 (PDF 559). Open flags: refs [?]; review/doubts_v13.json.
