@@ -17769,4 +17769,70 @@ Second: the description that the third step (or station) of all of them lies in 
 
 ---
 
-**Progress note:** printed p. 634 (PDF 654) done — Sūkta 183 Ṛk 2 ends (Pratipadārtha, Bhāvārtha, printed English, Special Topics, grammar); Ṛk 3 Saṃhitā, Pada, bhāṣya begun (continues p. 635). Next: printed p. 635 (PDF 655). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 635  (PDF 655)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 635.)*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> कर्माण्यनु वर्तते । यद्वा । यजमानाय दत्तहविषा तद्वान् । येन च रथेन हे नरा नेतारौ वा हे नासत्यासत्यरहितौ युवामिषयध्यै । यज्ञं प्राप्तुमिच्छतमिति शेषः । तेन रथेन वर्तिः । गृहनामैतत् । यजमानस्य यज्ञगृहं तनयाय पुत्रलाभाय त्मने आत्मने आत्महिताय च याथः ॥
+
+*(Sanskrit as read; doubtful in places [?]. Gist: mount the well-rolling chariot that follows the sacrificer's rites, by which you go to his house for his offspring and his own welfare.)*
+
+**Pratipadārtha** — **narā** — leaders; **nāsatyā** — free from untruth; O Aśvin deities; **yaḥ rathaḥ** — which chariot; **haviṣmān** — of the sacrificer endowed with oblations; **vratāni anu** — following the rites; **vartate** — goes; **yena** — by which chariot; **iṣayadhyai** — desiring to reach the sacrifice; and (**yena** — by which chariot); **vartiḥ** — the house of the sacrificer; **tanayāya** — (to him) for sons etc. (for favour); **tmane ca** — and for his own good; **yāthaḥ** — you go; (**taṃ** — that); **vāṃ** — your; **suvṛtaṃ** — well-moving chariot; **ā tiṣṭhataṃ** — mount.
+
+**Bhāvārtha** — O leaders, free from untruth, Aśvin deities: your chariot goes following the rites of the sacrificer provided with oblations etc. (being in time for them); and in that very chariot you come to the sacrifices, and bestow offspring and prosperity on the sacrificers: mount that easy-moving chariot of yours and come to our sacrificial hall.
+
+**English Translation.** *(printed)*
+
+"Ascend your rolling car, which approaches the sacred rite of the oblation ; the car in which, Nasatyas, leaders, you purpose to come the sacrifice, and to procceed [sic] to the dwelling (of the worshipper) for (bestowing upon him) offspring, and for his own (good)."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Vartiḥ** — "*vartanahetubhūtaṃ gṛhaṃ*" — "the house that is the basis for residence" is the meaning Sāyaṇa gives to this word in every place where it occurs. But Skandasvāmin has in general explained it everywhere as "path" (*mārga*), which is well known. For example:
+
+> त्रिर्वर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतम् ।
+> त्रिर्नान्द्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतम् ॥
+
+> *trirvartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣatam |*
+> *trirnāndyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvatam ‖*
+
+(Ṛ. Saṃ. 1-34-4) — in ṛks such as these Sāyaṇa explains *vartiḥ* as "house", Skandasvāmin as "path". Thus in the compounds *trivartiḥ*, *aśvināvartiḥ* etc., where the word *vartiḥ* is used — 1-116-15 [?]; 
+
+### Printed p. 636  (PDF 656)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 636.)*
+
+— 1-117-3 [?]; 1-189-4 [?] etc. — one special point is that all Sūktas with these ṛks are devoted to the Aśvin deities. But:
+
+> इषं दुहन्सुदुघां विश्वधायसं यज्ञप्रिये यजमानाय सुक्रतो ।
+> अग्ने घृतस्नुस्त्रिर्ऋतानि दीद्यद्वर्तिर्यज्ञं परियन्सुक्रतायसे ॥
+
+> *iṣaṃ duhansudughāṃ viśvadhāyasaṃ yajñapriye yajamānāya sukrato |*
+> *agne ghṛtasnustrirṛtāni dīdyadvartiryajñaṃ pariyansukratāyase ‖*
+
+(Ṛ. Saṃ. 10-122-6 [?]) — only in this ṛk, in a mantra devoted to Agni, this word is used; here "sacrificial house" is the meaning given. Sāyaṇa too has given the meaning "path" in some places for this word. For example:
+
+> यो ह स्य वां रथिरा वस्त उस्रा रथो युजानः परियाति वर्तिः ।
+> तेन नः शं योरुषसो व्युष्टौ न्यश्विना वहतं यज्ञे अस्मिन् ॥
+
+> *yo ha sya vāṃ rathirā vasta usrā ratho yujānaḥ pariyāti vartiḥ |*
+> *tena naḥ śaṃ yoruṣaso vyuṣṭau nyaśvinā vahataṃ yajñe asmin ‖*
+
+(Ṛ. Saṃ. 7-69-3 [?]) — here *vartiḥ* is explained as "path". This too is a mantra in which the Aśvin deities alone are addressed and prayed to. In the ṛk at hand, "house" is meant — that is, the sacrificial house.
+
+**Tmane ca** — the word *tman* occurs as a form of the word *ātman*. In one context alone, Sāyaṇa has explained it as "life" (*jīva*).
+
+> त्वं त्यां न इन्द्र देव चित्रामिषमापो न पीपयः परिज्मन् ।
+> ययाशूर प्रत्यस्मभ्यं यंसि त्मनमूर्जं न विश्वध क्षरध्यै ॥
+
+> *tvaṃ tyāṃ na indra deva citrāmiṣamāpo na pīpayaḥ parijman |*
+> *yayāśūra pratyasmabhyaṃ yaṃsi tmanamūrjaṃ na viśvadha kṣaradhyai ‖*
+
+(Ṛ. Saṃ. 1-63-8 [?]) — here, for *tmanam* he gives the meaning "*ātmānaṃ jīvam*" — the self, the life.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *tiṣṭhatam* — root *ṣṭhā gatinivṛttau*; *loṭ* second person dual form; *tiṅ*, *nighāta* accent. *vartate* — root *vṛtu vartane*; since *yat* is connected, there is no *nighāta* accent; the *sārvadhātuka l* being unaccented, the root's accent remains. *narā* — "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives ā-substitution for the dual; the vocative has the *nighāta* accent. *iṣayadhyai* — root *iṣa gatau*; in the sense of the infinitive, by "*tumarthe sese…*" (Pā. Sū. 3-4-9 [?]) suffix *adhyai*; by "*kṛtnejanta…*" it gets the name *avyaya* (indeclinable); the suffix's initial acute.
+
+---
+
+**Progress note:** printed p. 636 (PDF 656) done — Sūkta 183 Ṛk 3 bhāṣya end, Pratipadārtha, Bhāvārtha, printed English, Special Topics (vartiḥ, tmane), grammar begun (continues p. 637). Next: printed p. 637 (PDF 657). Open flags: refs [?]; review/doubts_v13.json.
