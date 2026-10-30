@@ -298,3 +298,35 @@ Unit 7 (pp. 122–153; Riks 64.8–64.15, end of Sūkta 64):
 Varga heads: pp. 123–133 Varga 7, pp. 135–153 Varga 8 (16 running heads); p. 133 prints ೨ for the aṣṭaka numeral (noted).
 Words: p. 123 'pṛṣadbṛhan…' Uṇ. confirmed. p. 127 bhāṣya "vīkṣīkaraṇāya sevamānāḥ [?]" -> "haviḥsvīkaraṇāya sevamānāḥ" (ಹವಿಃಸ್ವೀಕರಣಾಯ); bandhura "bandhakakāṣṭha". p. 128 "ṛci tunughama…" -> "ṛci tunugha…" (ತುನುಘೇತ್ಯಾದಿನಾ); "atac" confirmed. p. 130 grammar affix "aśat" -> "atac". p. 131 khādir āyudhasthānīyaḥ (not khadira wood; print ಖಾಧಿ). p. 132 twenty-five (not twenty-eight) names of 'great'; Skandasvāmin "kaṭṭarikā kārāyudhaviśeṣavācino vā" confirmed. p. 135 "śatrūṃs ti [?]" -> "śatrūn prati"; "mudhraṃ" -> "dudhraṃ" (this font's ದು resembles ಮು). p. 137 Skandasvāmin's quotation "āpathayo vipathayo 'ntaspathā anupathāḥ" (Ṛ. Ve. 5-52-10); "antaspathāḥ". p. 138 "parvatān meghanāmaitat | … caṅkramyamāṇāḥ". p. 140 "ātes tadvantaṃ" -> "atas tadvantaṃ". p. 143 Saṃhitā "pra ṇū" -> "pra nū" (ನೂ). p. 145 the twenty-six names of 'quick' beginning makṣu, dravat. p. 147 Saṃhitā "dustaraṃ" -> "duṣṭaraṃ" (ದುಷ್ಟರಂ). p. 148 Brāhmaṇa "dhīyeti vāg vaitad" -> "dhiṣīyeti vāvaitad"; "bhāṣāyāṃ kṛvṛṣoḥ" -> "vibhāṣā kṛvṛṣoḥ"; "yaṅluganata" -> "yaṅluganta". p. 151 'kartari kric' confirmed. p. 153 'nu, dravat, oṣam'.
 Accents as printed set on the Saṃhitā of Ṛks 64.8–64.15 ([accent ?] on 64.8, 64.10, 64.11, 64.13, 64.14, 64.15 -> doubts page). Pages skipped (no flagged lines): 124, 126, 136, 141 (general note only), 142, 144. Left unviewed (sense-only [?] notes): p. 141 compressed Kannada note; p. 145 compressed Kannada gloss; p. 146 "tentative" note; p. 152 Skandasvāmin on śatinam/sahasriṇam; p. 153 grammar compressed note. Bracketed grammar-page numbers without ? (pp. 125, 129, 134, 138, 139) not viewed.
+
+Unit 8 (pp. 154–179, Sūkta 65 dvaipada, Ṛks 65.1–65.5): doubts page Vol6_doubts_p154-179.html (8 rows).
+  p. 154: Anu. 12-4 [?] -> 12-8
+  p. 154: Ā. 8-12 [?] -> 8-12
+  p. 157: Tai. Saṃ. 2-6-6-1 [?] -> 2-6-6-1
+  p. 159: Ṛk. Saṃ. 10-[51]-1 -> 10-51-1
+  p. 159: Tai. Brā. 1-1-3-[6] -> 1-1-3-9
+  p. 159: Ṛk. Saṃ. 10-[113?]-1 -> 10-155-1
+  p. 159: Ni. [2-7] -> 3-9
+  p. 160: Vārttika on Pā. 7-1-[39] -> (no number printed)
+  p. 161: Pā. Sū. 3-2-[?] -> 2-38-5 [?] (small type; doubts page)
+  p. 162: Pā. 6-1-94-4 [?] -> 6-1-94-4
+  p. 162: Pā. 3-2-171-2 [?] -> 3-2-171-2
+  p. 162: Pā. 1-4-94 [?] -> 1-4-94
+  p. 162: Pā. 2-2-18 [?] -> 2-2-18
+  p. 163: Ṛk Saṃhitā Part 3 [?] -> Part 2 (pp. 60–61)
+  p. 163: Ni. [1-12] -> Nirukta 2-24
+  p. 165: Mahābhāṣya 2-2-18 ? -> Pā. Ma. 2-2-18-4
+  p. 167: Kā. 2-4-56-2 [?] -> 2-4-56-2
+  p. 167: Pā. 3-4-96 [?] -> 3-4-96
+  p. 168: Tai. Saṃ. 1-[8]-5-[1]? -> 1-8-5-3
+  p. 173: Tai. Ā. 8-1 (as read) -> 8-1
+  p. 175: Tai. Saṃ. 6-1-8-1 [?] -> 6-1-9-1
+  p. 175: Pā. 7-2-76 [?] -> 7-2-76
+  p. 175: Ma. 8-2-70 [?] -> 8-2-70
+  p. 175: U. 1-10 [?] -> 1-20
+  p. 177: Tai. Saṃ. 6-1-8-1 -> 6-1-9-1
+  p. 177: Tai. Brā. [3-1-2-1] -> 3-9-17-1 [?] (17 or 16; doubts page)
+  p. 179: Uṇ. 1-[10] -> 1-20
+Varga heads: pp. 155–177 Varga 9 (p. 156 heading block Varga 9), p. 179 Varga 10; p. 171 prints ೨ for the aṣṭaka numeral.
+Words: p. 154 "tuhyādiparibhāṣayā", "paramāgneyam aindrād iti" confirmed. p. 157 "tāyum iva" -> "tāyuṃ na"; "padyaśur" -> "dadṛśur [?]" (first glyph like ವ; doubts). p. 159 Skandasvāmin quotation confirmed ("amṛtarasaṃ"); Ṛk "tebhiṣ ṭvā cātayāmasi". p. 162 "tāśau ca niti" -> "tādau ca niti"; "liṭtvād vāpy adirbhāve" -> "liḍvadbhāvād dvirbhāve". p. 165 grammar prints "ಸ್ವತೀ ಪೂಜಾಯಾಂ". p. 166 "trāyamuñcati" -> "pramuñcati"; "śatrūn antaṃ" -> "śatrūn hantuṃ"; "dagdhvyā-" -> "dagdhavyā-". p. 167/170 root "taki gatau" [?] (print ತನ್ಕು / ತಙ್ಕು; doubts). p. 169 "agni = forest fire" (ಕಾಡುಕಿಚ್ಚು). p. 171 grammar "āḍāgama". p. 172 bhāṣya: "svasrāṃ svasṝṇāṃ"; "tādṛśo 'gnir"; "bhiyaṃ yantīti nairuktavyutpattyā ibhyāḥ śatravaḥ"; "san nānā vanāny". p. 173 Davāgni confirmed. p. 175 "prabhūtāvayavo jāta" (line break, not [?]); "ekāco baśa iti"; "śo tanūkaraṇe"; "ity upratyayaḥ". p. 176 "yogaśīlaru".
+Accents as printed set on 65.1–65.5 ([accent ?] on 65.2 line 1, 65.4 line 2, 65.5 line 1 -> doubts page). Left unviewed: p. 154 sense-only note on the 64.15 grammar page (line 3220). Pages skipped (no flagged lines): 158, 178.
