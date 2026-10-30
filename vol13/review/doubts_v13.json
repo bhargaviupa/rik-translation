@@ -34,5 +34,29 @@
   ],
   "note": "Ni. refs puru, rajas, mayas",
   "answer": ""
+ },
+ {
+  "pdf": 42,
+  "printed": 22,
+  "crop": [
+   0.33,
+   0.52,
+   0.5,
+   0.95
+  ],
+  "note": "three Rg refs (harmya ṛks): 7-56-16 / 7-55-6 / 7-76-3 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 41,
+  "printed": 21,
+  "crop": [
+   0.53,
+   0.58,
+   0.08,
+   0.93
+  ],
+  "note": "Ni. 2-25 (pṛṣatyo marutām)",
+  "answer": ""
  }
 ]

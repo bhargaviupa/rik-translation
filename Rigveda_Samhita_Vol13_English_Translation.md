@@ -373,4 +373,90 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 ---
 
-**Progress note:** printed p. 18 (PDF 38) done — Sūkta 166 Ṛk 3 in progress (grammar note ends at dadāśuṣe; page continues on p. 19). Next: printed p. 19 (PDF 39). Open flags: small-type reference numerals [?]; see review/doubts_v13.json.
+### Printed p. 19  (PDF 39)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Vyākaraṇa-prakriyā (continued, noted briefly).** *dadāśuṣe* (*vasoḥ samprasāraṇam*: *va* becomes *u*, the earlier form; *śāsivasighasīnāṃ ca* Pā. 8-3-60 [?] turns *s* into *ṣ*). *ukṣanti* (root *ukṣa secane*; *laṭ* 3rd plural; *jhi* → *ant*; *śap* dropped by *bahulaṃ chandasi*; as it begins the pāda there is no *nighāta*; initial acute by the suffix). *hitāḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* suffix; *dadhāter hiḥ* Pā. 7-4-42 [?] gives *hi* for the root; final acute by the suffix). *mayobhuvaḥ* (*mayas* is a word for happiness; with it as the *upapada*, *kvip* after the root *bhū*, which has the sense of "causing" within it; the *kṛdutta* member keeps its own accent; nominative plural). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> आ ये रजांसि तविषीभिरव्यत प्र व एवासः स्वयतासो अध्रजन् ।
+> भयन्ते विश्वा भुवनानि हर्म्या चित्रो वो यामः प्रयतास्वृष्टिषु ॥ ४ ॥
+
+> *ā ye rajāṃsi taviṣībhiravyata pra va evāsaḥ svayatāso adhrajan |*
+> *bhayante viśvā bhuvanāni harmyā citro vo yāmaḥ prayatāsvṛṣṭiṣu ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । ये । रजांसि । तविषीभिः । अव्यत । प्र । वः । एवासः । स्वऽयतासः । अध्रजन् ।
+> भयन्ते । विश्वा । भुवनानि । हर्म्या । चित्रः । वः । यामः । प्रऽयतासु । ऋष्टिषु ॥ ४ ॥
+
+> *ā | ye | rajāṃsi | taviṣībhiḥ | avyata | pra | vaḥ | evāsaḥ | sva 'yatāsaḥ | adhrajan |*
+> *bhayante | viśvā | bhuvanāni | harmyā | citraḥ | vaḥ | yāmaḥ | pra 'yatāsu | ṛṣṭiṣu ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः युष्मत्संबन्धिनो ये एवासः एवा अश्वविशेषास्तविषीभिः स्वकीयैर्बलैर्वृष्टिप्रदानादिरूपैः रजांसि लोकानाव्यत सर्वत आवृण्वन्ति ते वो युष्माकमेवासोऽश्वाः स्वयतासः स्वयमेव सारथिना विनैव युक्ताः प्राध्रजन् । प्रकर्षेण गच्छन्ति । व्याप्नुवन्ति । किञ्च युष्मदागमनाद्विश्वा भुवनानि सर्वाणि भूतजातानि विश्वा हर्म्या सर्वाणि हर्म्याणि च भयन्ते । बिभ्यति पतनात् । यस्मादेवं तस्माद्वो यामः चित्रः आश्चर्यभूत [?] इत्यर्थः । भीतेः कारणमाह । ऋष्टिषु युद्धस्थासु हेतिषु प्रयतासु प्रकर्षेणोद्यतासु सतीषु । अथवा भीतौ दृष्टान्तः । ऋष्टिषु प्रयतासु सतीषु । उपमेयं [?] । आयुधेषूद्यतेषु यथा जना बिभ्यति तद्वद्युष्मदागमनाद्बिभ्यतीत्यर्थः ॥
+
+> *he marutaḥ yuṣmatsaṃbandhino ye evāsaḥ evā aśvaviśeṣāstaviṣībhiḥ svakīyairbalairvṛṣṭipradānādirūpaiḥ rajāṃsi lokānāvyata sarvata āvṛṇvanti te vo yuṣmākamevāso 'śvāḥ svayatāsaḥ svayameva sārathinā vinaiva yuktāḥ prādhrajan | prakarṣeṇa gacchanti | vyāpnuvanti | kiñca yuṣmadāgamanādviśvā bhuvanāni sarvāṇi bhūtajātāni viśvā harmyā sarvāṇi harmyāṇi ca bhayante | bibhyati patanāt | yasmādevaṃ tasmādvo yāmaḥ citraḥ āścaryabhūta [?] ityarthaḥ | bhīteḥ kāraṇamāha | ṛṣṭiṣu yuddhasthāsu hetiṣu prayatāsu prakarṣeṇodyatāsu satīṣu | athavā bhītau dṛṣṭāntaḥ | ṛṣṭiṣu prayatāsu satīṣu | upameyaṃ [?] | āyudheṣūdyateṣu yathā janā bibhyati tadvadyuṣmadāgamanādbibhyatītyarthaḥ ‖*
+
+### Printed p. 20  (PDF 40)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+*Gist:* O Maruts, your horses, self-yoked and without a charioteer, pervade the worlds with their rain-giving strength; all beings and all houses tremble at your coming, as men tremble when weapons (*ṛṣṭi*) are raised in battle; your going is wondrous.
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; *ye evāsaḥ* — those horses of yours; *taviṣībhiḥ* — by their own strength (in the form of giving rain); *rajāṃsi* — the worlds; *ā avyata* — they enclose everywhere; (*te*) — those; *vaḥ* — your (horses); *svayatāsaḥ* — self-yoked (yoked to the chariot of themselves, without a charioteer); *pra adhrajan* — pervade eminently; (*kiṃca* — and further) *viśvā bhuvanāni* — all created beings; (*viśvā*) *harmyā* — all houses; *ṛṣṭiṣu* — weapons of war; *prayatāsu* — when raised up (as men are afraid); *bhayante* — they fear, are afraid (as if "the worlds are afraid"); (*tasmāt*) — therefore; *vaḥ* — your; *yāmaḥ* — (that) going; *citraḥ* — is wondrous.
+
+**Bhāvārtha.** O Maruts, your horses, yoked of themselves, move through all the worlds, distinguished by the power of giving rain; as men are seized with fear in battle at the weapons, so at your coming the palaces and all beings are seized with fear.
+
+**English Translation (as printed):** Those, ycur [sic] coursers, which traverse the regions in their speed, proceed, self-guided: all worlds, all dwellings, are alarmed, for marvellous is your coming: (such fear as is felt) when spears are thrust forth (in battle).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***rajāṃsi*** — *rajo rajateḥ | jyotī raja ucyate | udakaṃ raja ucyate | lokā rajāṃsyucyante* [as read]. The word *rajas* has several meanings: light, water and worlds (Ni. 4-19); here the sense is worlds.
+
+***taviṣībhiḥ*** — the word *taviṣī* is read among the twenty-eight names of strength (Ni. 2-9). The Bhāṣyakāra explains this word as *svakīyair balair vṛṣṭipradānādirūpaiḥ* — "by their own strengths, powers (in the form of giving rain, and so on)" *[continues on the next page]*
+
+### Printed p. 21  (PDF 41)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* …by their own powers and capacities. The scholar Max Müller: "you have stirred up the clouds with might" (English in the source): with your strength and capacities you stir up the clouds and make it rain. When the rain pours, the wind blows with great violence, and so the Maruts display their strength: this is described here.
+
+***avyata*** — *lokān sarvata āvṛṇvanti*: they pervade the whole earth, they enclose it — this is the Bhāṣyakāra's explanation. The scholar Max Müller derives this word from the root *vī* in the sense "to stir up, excite" (English: to stir up, to excite), and says that here the Maruts stir up, impel, the clouds; and that *pravayaṇa* — "a goad" (English: a goad), *pravetṛ* — "driver" (English: driver) and similar words are formed from the same root.
+
+***evāsaḥ*** — this word, formed from the root *iṇ gatau*, indicates swift going: [horses] that go with great speed. Here the horses of the Maruts are to be understood. According to the Nirukta the horses of the Maruts are "*pṛṣatyo marutām*" (Ni. 2-25 [?]), i.e. spotted deer (does), though in many ṛks words denoting horses are used.
+
+***svayatāsaḥ*** — *svayam eva sārathinā vinaiva yuktāḥ*: [horses] that are yoked to the chariot on their own, is the purport: without the help of a charioteer. In ordinary practice the charioteer and the like harness the horses to the chariot; but the horses of the Maruts, in this way, have the capacity of yoking themselves, of their own accord, without the guidance or help of others. The same idea is described in connection with the horses called *hari* of Indra, and with the vehicle of the Aśvins.
+
+***bhayante viśvā bhuvanāni harmyā*** — all things and beings in the world, houses and buildings, tremble with fear at the coming of the Maruts. Because of the wind that blows with great violence, and because of the rain, trees, people and houses are shaken. By the blow of the wind trees roll over with their roots; houses fall. The ṛṣi has described this very matter by the word *bhayante*.
+
+***harmyā*** — *sarvāṇi harmyāṇi*: "all houses" is the Bhāṣyakāra's explanation. The scholar Max Müller says that this word is an adjective of the word *bhuvanāni*, and that *harmyā* means "living in houses"; and he has explained the various meanings of this word. *Harmya*, in order, means a pit that holds fire, a hearth, a house — which he suggests marks the changes of meaning in the course of time. He thinks as follows *[English quotation continues on the next page]*:
+
+### Printed p. 22  (PDF 42)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* — "हर्म्य (*harmya*) is used here as an adjective of भुवनानि and can only mean living in houses. It does not, however, occur again in the same sense, though it occurs several times as a Substantive, meaning houses· Its original meaning is fire-pit, then, hearth, then house, a transition of meaning analogous to that of aedes. Most of the ancient nations begin their kitchen with a fire-pit. They dig a hole in the ground, take a piece of the animal's raw hide, and press it down with their hands close to the sides of the hole, which thus becomes a sort of pot or basin. This they fill with water, and they make a number of stones red-hot in a fire clse [sic] by. The meat is put into the water, and the stones dropped in till the meat is boiled. Catlin describes the process as awkward and tedious, and says that since the Assinaboins had learnt from the Mandans to make pottery, and had been supplied with vessels by the traders, they had entirely done away the custom excepting at public festivals; where they seem, like all others of the human family, to take pleasure in cherishing and perpetuating their ancient customs. This pit was called हर्म्य." (Tylor's Early History of mankind. p. 262).
+
+Besides this:
+
+> के हर्म्येष्ठाः शिशवो न शुभ्रा वत्सासो न प्र क्रीळिनः पयोधाः ।
+
+> *ke harmyeṣṭhāḥ śiśavo na śubhrā vatsāso na pra krīḷinaḥ payodhāḥ |*
+
+(Ṛ. Saṃ. 7-56-16 [?]) — in this ṛk the Maruts are described as shining like small children, sitting near the hearth (*oley*); hence *harmya* here means hearth.
+
+> तेषां स हन्मो अक्षाणि यथेदं हर्म्यं तथा ।
+
+> *teṣāṃ sa hanmo akṣāṇi yathedaṃ harmyaṃ tathā |*
+
+(Ṛ. Saṃ. 7-55-6 [?]) — in this ṛk, saying "we shall close our eyes as we close this house", the word *harmya* here means house.
+
+> अभूदु केतुरुषसः पुरस्तात्प्रतीच्यागादधि हर्म्येभ्यः । [?]
+
+> *abhūdu keturuṣasaḥ purastātpratīcyāgādadhi harmyebhyaḥ | [?]*
+
+(Ṛ. Saṃ. 7-76-3 [?]) — in this ṛk, "the light of the dawn falls first on the houses", the word *harmya* means houses.
+
+---
+
+**Progress note:** printed p. 22 (PDF 42) done — Sūkta 166 Ṛk 4 Special Topics (harmyā) complete up to the Ṛgvedic examples; the page may continue on p. 23. Next: printed p. 23 (PDF 43). Open flags: small-type reference numerals [?]; see review/doubts_v13.json.
