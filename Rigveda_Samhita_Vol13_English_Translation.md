@@ -1131,4 +1131,68 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 52 (PDF 72) done — Sūkta 166 Ṛk 10 complete; Ṛk 11 Saṃhitā written. Next: printed p. 53 (PDF 73): Pada, bhāṣya of Ṛk 11. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 53  (PDF 73)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)*
+
+**॥ पदपाठः ॥**
+
+> महान्तः । मह्ना । विऽभ्वः । विऽभूतयः । दूरेऽदृशः । ये । दिव्याःऽइव । स्तृऽभिः ।
+> मन्द्राः । सुऽजिह्वाः । स्वरितारः । आसऽभिः । संऽमिश्लाः । इन्द्रे । मरुतः । परिऽस्तुभः ॥ ११ ॥
+
+> *mahāntaḥ | mahnā | vi 'bhvaḥ | vi 'bhūtayaḥ | dūre 'dṛśaḥ | ye | divyāḥ 'iva | stṛ 'bhiḥ |*
+> *mandrāḥ | su 'jihvāḥ | svaritāraḥ | āsa 'bhiḥ | saṃ 'miślāḥ | indre | marutaḥ | pari 'stubhaḥ ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> ये मरुतो महान्तो महाप्रभावोपेताः । केन । मह्ना महत्त्वेन प्रभावातिशयेन । तथा विभ्वो विभवो व्याप्ताः तथा विभूतयो विविधैश्वर्यवन्तः । दूरेदृशो दूरे दृश्यमानाः प्रकाशमानाः । दूरदर्शने दृष्टान्तः । दिव्याः स्तृभिरिव । स्तृ इति नक्षत्रनाम ऋक्षाः स्तृभिरिति नक्षत्राणाम् । नि. ३-२० । इति निरुक्तात् । दिवि भवा देवाः स्तृभिः स्वपुष्पकभूतैस्तेजःपुञ्जैर्नक्षत्रैर्यथा दूरे दृश्यमाना भवन्ति तद्वत् । किञ्च मन्द्रा मादनाः सुजिह्वाः शोभनजिह्वाः आसभिराश्यैः स्वरितारः शब्दयितारः । प्रियवचना इत्यर्थः । अत एव सुजिह्वा इत्युक्तम् । किञ्च इन्द्रे संमिश्लाः सम्यग्मिश्रयितारः । इन्द्रसहायिन इत्यर्थः । मरुतो ह्येनं नाजहुरिति श्रुतेः । तथा परिष्टुभः परिस्तोभयुक्ताः स्तुतिभिर्युक्ताः । एवं महाभागा ये मरुतः सन्ति तेऽस्मद्यज्ञमागच्छन्तीति शेषः ॥
+
+*Gist:* The Maruts, great in glory, all-pervading, many-powered, seen from afar as the star-gods are, joyous, sweet-tongued, speaking pleasantly, Indra's associates, praised on all sides — may such Maruts come to our sacrifice. (Ni. 3-20 [?] is cited for *stṛ* = star.)
+
+**Pratipadārtha.** (*ye marutaḥ* — which Marut-gods); *mahnā* — by the abundance of power; *mahāntaḥ* — endowed with greatness; *vibhvaḥ* — all-pervading; *vibhūtayaḥ* — possessed of manifold glories; *stṛbhiḥ* — by the stars (by their light); *divyāḥ iva* — like those dwelling in the heavenly world, the gods (who are seen from afar); *dūredṛśaḥ* — seen even from afar; *mandrāḥ* — gladdening; *āsabhiḥ* — with mouths; *svaritāraḥ* — sounders (of pleasant speech); *sujihvāḥ* — with excellent tongues (therefore); (*kiṃca* — and further) *indre* — in Indra (with Indra); *saṃmiślāḥ* — well mingled (helpers of Indra); (*tathā* — likewise) *pariṣṭubhaḥ* — endowed with praise (let them come to our sacrificial hall).
+
+**Bhāvārtha.** These Marut-gods are by nature endowed with greatness, are all-pervading, possessed of manifold powers, are seen from afar as the gods are by the brilliance of the stars; they are bestowers of contentment, speakers of pleasant words from their mouths, of good tongues, helpers of Indra and praised everywhere: such as they are, they come to our sacrificial hall.
+
+### Printed p. 54  (PDF 74)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+**English Translation (as printed):** Maruts, mighty with mighty power, all-pervading, manifest afar off, as the gods (are made manifest) by the constellations; exhilarating, soft-tongued, speaking gently with your mouths, associated with Indra, glorified by praise; (come to our sacrifice).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***vibhūtayaḥ*** — *vividhaiśvaryavantaḥ*: having manifold glories. In some contexts this word means "powers and capabilities". Though this word is ordinarily used in the nominative (as a subject), in many contexts it is used as an adjective.
+
+> एवा हि ते विभूतय ऊतय इन्द्र मावते ।
+
+> *evā hi te vibhūtaya ūtaya indra māvate |*
+
+(Ṛ. Saṃ. 1-8-9 [?]) — here, "O Indra, your powers and capabilities produce protection for a sacrificer such as I": used as a noun (as the thing described).
+
+> स्तोत्रं राधानां पते गिर्वाहो वीर यस्य ते । विभूतिरस्तु सूनृता ॥
+
+> *stotraṃ rādhānāṃ pate girvāho vīra yasya te | vibhūtirastu sūnṛtā ‖*
+
+(Ṛ. Saṃ. 1-30-5 [?]) — here, "O Indra, may the praise we make to you be of great power": *vibhūti* is an adjective of the word *sūnṛtā*.
+
+> महामनूनं तवसं विभूतिं मत्सरासो जर्हृषन्त प्रसाहम् ।
+
+> *mahāmanūnaṃ tavasaṃ vibhūtiṃ matsarāso jarhṛṣanta prasāham |*
+
+(Ṛ. Saṃ. 6-18-4 [?]) — here, "the sweet Soma juices gladdened Indra, who is great-souled, complete, strong, capable and unconquerable": the word *vibhūti* is used as an epithet of Indra.
+
+> उग्रं न वीरं नमसोप सेदिमा विभूतिमक्षितावसुम् ।
+
+> *ugraṃ na vīraṃ namasopa sedimā vibhūtimakṣitāvasum |*
+
+(Ṛ. Saṃ. 8-49-6 [?])
+
+> प्र वीरमुग्रं विविचिं धनस्पृतं विभूतिं राधसो महः ।
+
+> *pra vīramugraṃ vivicim dhanaspṛtaṃ vibhūtiṃ rādhaso mahaḥ |*
+
+(Ṛ. Saṃ. 8-50-6 [?]) — in these ṛks too the word *vibhūti* has been used as an adjective meaning "powerful".
+
+---
+
+**Progress note:** printed p. 54 (PDF 74) done — Sūkta 166 Ṛk 11 Special Topics (vibhūtayaḥ) in progress; continues on p. 55. Next: printed p. 55 (PDF 75). Open flags: small-type numerals [?]; review/doubts_v13.json.
