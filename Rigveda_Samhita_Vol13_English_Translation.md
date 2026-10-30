@@ -15829,4 +15829,77 @@ The meaning of these sentences is as already stated above. Thus the purport of t
 
 ---
 
-**Progress note:** printed p. 566 (PDF 586) done — Sūkta 181 Ṛk 4: Bhāvārtha, printed English, Special Topics (nature of the Aśvins: Ni. 12-1, 12-3; Macdonell; continues p. 567). Next: printed p. 567 (PDF 587). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 567  (PDF 587)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 567.)*
+
+**Special Topics (continued)** — if the opinions of Vedic and modern English scholars are brought together, these views are seen (table printed in English):
+
+| Seholars [sic] | Their opinions |
+|---|---|
+| Yaska | Twilight before Dawn, half dark and half light. |
+| Aurnavabha | Light rays. |
+| Oldenberg | Morning or evening star. |
+| Macdonell | Twilight or Morning stars. |
+| Bloomfield | Morning or evening stars. |
+| Hopekins [sic] | Transition from darkness to light. |
+| Bergaine [sic] | Fire of heaven and of the altar. |
+| *aitihāsikāḥ* (set in Kannada letters) | Two pious kings. |
+| E. N. Ghosh | Two stars of Asvini. (Aries) |
+| Weber | Twin constellation of Gemini. |
+| Shama Shastry | The Sun and the Moon. |
+| Max Muller | Personification of Morning and evening. |
+
+Dr. Śyāmaśāstri has explained his own opinion on this subject in detail in the journal of the Mythic Society (Vol. XX, No. 2, P. 80–88); and he has supported the view that they are the Sun and the Moon and nobody else. If the nature of the Aśvin deities is to be determined from the descriptions in the sentences of the Ṛk-saṃhitā, the evidences cited below may be examined.
+
+> त्वष्टा दुहित्रे वहतुं कृणोतीतीदं विश्वं भुवनं समेति ।
+> यमस्य माता पर्युह्यमाना महो जाया विवस्वतो ननाश ॥
+> अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामदधुर्विवस्वते ।
+> उताश्विनावभरद्यत्तदासीदजहादु द्वा मिथुना सरण्यूः ॥
+
+> *tvaṣṭā duhitre vahatuṃ kṛṇotītīdaṃ viśvaṃ bhuvanaṃ sameti |*
+> *yamasya mātā paryuhyamānā maho jāyā vivasvato nanāśa ‖*
+> *apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadhurvivasvate |*
+> *utāśvināvabharadyattadāsīdajahādu dvā mithunā saraṇyūḥ ‖*
+
+(Ṛ. Saṃ. 10-17-1 to 2) — Tvaṣṭṛ ordered that the whole universe should come together for his daughter's wedding. At her wedding the mother of Yama and the wife of Vivasvān vanished; that is, they hid her, the immortal, from the sight of mortals. Then they made a woman of the same form (*Savarṇā*) and gave her to Vivasvān. Afterwards she bore the Aśvin deities. Saraṇyū, who is well known by that name, left the Aśvin deities as her sons and went away: this is the purport of the above ṛks. And:
+
+### Printed p. 568  (PDF 588)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 568.)*
+
+> यमूचित्र [?] यमुसूरसूत जिह्वाया अग्रं पतदा ह्यस्थात् ।
+> वपूंषि जाता मिथुना सचेते तमोहना तपुषो बुध्न एता ॥
+
+> *yamūcitra [?] yamusūrasūta jihvāyā agraṃ patadā hyasthāt |*
+> *vapūṃṣi jātā mithunā sacete tamohanā tapuṣo budhna etā ‖*
+
+(Ṛ. Saṃ. 3-39-3 [?]) — it is told that the mother of the twins (that is, of the Aśvin deities) gave birth to twins; both of them, in the form of bodies, destroyed darkness. The scholar Max Müller, citing this ṛk, has given his opinion on this subject in this way:
+
+> "We might have guessed from the text itself, even without the help of the Commentator, that 'the mother of the twins' here spoken of is Dawn: but it may be stated that the commentator, too, adopts this view."
+
+(Science of Language. Vol. II. P. 530) — that is, Sāyaṇa, in his bhāṣya, for the word *yamusūḥ* has given "*uṣo 'bhimāninī devatā* (*atra uṣaḥkāle asūta*)" ("the deity presiding over Dawn, who gave birth at the time of dawn"); so it is agreed on all hands that the mother of the Aśvin deities is the goddess Uṣas, says this scholar. Besides, that Tvaṣṭṛ gave his daughter Saraṇyū to Vivasvān, and that the Aśvin deities were born from her, is told in the Bṛhaddevatā in this way:
+
+> अभवन्मिथुनं त्वाष्ट्रः सरण्यूस्त्रिशिराः सह । स वै सरण्यूं प्रायच्छत्स्वयमेव विवस्वते ॥
+> ततः सरण्यूर्जज्ञाते यमं यमीं विवस्वतः [?] । तौ चाप्युभौ यमौ नाम्ना ज्यायांस्ताभ्यां तु वै यमः ॥
+> सृष्ट्वा भर्तुः परोक्षं तु सरण्यूः सदृशीं स्त्रियम् । निक्षिप्य मिथुनं तस्यामश्वा भूत्वापचक्रमे ॥
+> अविज्ञानाद्विवस्वांस्तु तस्यामजनयन्मनुम् । राजर्षिरभवत्सोऽपि विवस्वानिव तेजसा ॥
+> स विज्ञाय त्वपक्रान्तां सरण्यूमश्वरूपिणीम् । त्वाष्ट्रीं प्रति जगामाशु वाजी भूत्वा सलक्षणः ॥
+> सरण्यूश्च विवस्वन्तं विदित्वा हयरूपिणम् । मैथुनायोपचक्राम तां च तत्रारुरोह सः ॥
+> ततस्तयोस्तु वेगेन शुक्रं तदपतद्भुवि । उपाजिघ्रच्च सा त्वश्वा तच्छुक्रं गर्भकाम्यया ॥
+> आघ्रातमात्राच्छुक्रात्तु कुमारौ सम्बभूवतुः ।
+
+> *abhavanmithunaṃ tvāṣṭraḥ saraṇyūstriśirāḥ saha | sa vai saraṇyūṃ prāyacchatsvayameva vivasvate ‖*
+> *tataḥ saraṇyūrjajñāte yamaṃ yamīṃ vivasvataḥ [?] | tau cāpyubhau yamau nāmnā jyāyāṃstābhyāṃ tu vai yamaḥ ‖*
+> *sṛṣṭvā bhartuḥ parokṣaṃ tu saraṇyūḥ sadṛśīṃ striyam | nikṣipya mithunaṃ tasyāmaśvā bhūtvāpacakrame ‖*
+> *avijñānādvivasvāṃstu tasyāmajanayanmanum | rājarṣirabhavatso 'pi vivasvāniva tejasā ‖*
+> *sa vijñāya tvapakrāntāṃ saraṇyūmaśvarūpiṇīm | tvāṣṭrīṃ prati jagāmāśu vājī bhūtvā salakṣaṇaḥ ‖*
+> *saraṇyūśca vivasvantaṃ viditvā hayarūpiṇam | maithunāyopacakrāma tāṃ ca tatrāruroha saḥ ‖*
+> *tatastayostu vegena śukraṃ tadapatadbhuvi | upājighracca sā tvaśvā tacchukraṃ garbhakāmyayā ‖*
+> *āghrātamātrācchukrāttu kumārau sambabhūvatuḥ |*
+
+(Bṛ. De. [?]; as read, several words doubtful [?]) — [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 568 (PDF 588) done — Sūkta 181 Ṛk 4 Special Topics (scholars' views on the Aśvins; Saraṇyū legend per Bṛhaddevatā; continues p. 569). Next: printed p. 569 (PDF 589). Open flags: refs [?]; Bṛhaddevatā verses as read [?]; review/doubts_v13.json.

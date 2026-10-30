@@ -5746,5 +5746,29 @@
   ],
   "note": "Ni 12-1 quote readings; 'vasatisu sma' mantra garbled/unspecified; Macdonell quote typos (of of, to Puzzle to) marked sic",
   "answer": ""
+ },
+ {
+  "pdf": 587,
+  "printed": 567,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "table typos Seholars/Hopekins/Bergaine marked sic; Rg 10-17-1/2 text; Syamasastri journal ref",
+  "answer": ""
+ },
+ {
+  "pdf": 588,
+  "printed": 568,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brh.De verses (Sarnyu legend) transcribed from print; ref number not printed in view; Rg 3-39-3 line1 garbled; Max Muller quote ok",
+  "answer": ""
  }
 ]
