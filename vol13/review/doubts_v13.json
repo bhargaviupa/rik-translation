@@ -2350,5 +2350,29 @@
   ],
   "note": "Rg refs (1-22-20, 1-61-3, 1-122-8, 6-23-10, 10-83-6, 1-141-8) small; 'mamhistham acchoktibhir' quote and following 'viparyayam' read approx; Brhaddevata 4-36",
   "answer": ""
+ },
+ {
+  "pdf": 304,
+  "printed": 284,
+  "crop": [
+   0.3,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 bhashya: 'udakasamudravanapadanabhute', 'stotradipreyitrn stotrjananasi' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 303,
+  "printed": 283,
+  "crop": [
+   0.2,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type",
+  "answer": ""
  }
 ]
