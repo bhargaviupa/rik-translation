@@ -8657,4 +8657,78 @@ Although the word *vāja* has many meanings, it is clear that here its use is on
 
 ---
 
-**Progress note:** printed p. 334 (PDF 354) done — Sūkta 174 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 335). Next: printed p. 335 (PDF 355). Open flags: Ṛk 5 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 335  (PDF 355)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+*(Pratipadārtha concluded)* …straight (swiftly) going; *vātasya* — of the wind (equal in speed); *aśvā* — your horses (by means of them); *vaha* — bear (convey) (from that same place); *sūraḥ* — the impeller, the Sun; *cakram* — his disc, or his wheel; *abhīke* — in a near place; *pra vṛhatāt* — let him raise, let him send up (let him shine); *vajrabāhuḥ* — (this Indra) the bearer of the thunderbolt; *spṛdhaḥ* — the enemies who fight; *abhi yāsiṣat* — let him go to meet them.
+
+**Bhāvārtha**
+
+O Indra, with the oblations and the like by which you wish to attach yourself to Kutsa, to the place where those oblations are, let your horses, which are desirous of comfort (constantly going), straight-going, and of the speed of the wind, bear that Kutsa; let the Sun also shine for this purpose; and do you, the bearer of the thunderbolt, advance against the enemies (for the destruction of the enemy, to win the clouds) and press them back.
+
+**Printed English**
+
+Bear, Indra, with your obedient horses as swift as the wind, (the sage) Kutsa, to that ceremony (to which you desire (to convey him) let the sun bring near the wheel of his chariot, and let the thunder-armed advance against his opponents. [As printed; the bracketing is unbalanced in the print: [sic].]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Two points should be noted in this mantra. First: Indra goes mounted on his horses to help Kutsa; and in this context the sun-disc shines and helps Indra to be stronger. Among these, an examination of the matter of Kutsa shows that in some contexts Kutsa is a friend of Indra and is helped by Indra, while in some others he is at odds with Indra.
+
+> तत्र कुत्स इत्येतत् कृन्ततेः । ऋषिः कुत्सो भवति कर्ता स्तोमानाम् इत्यौपमन्यवः । तत्सखा इन्द्रः शुष्णं जघान इति ॥
+
+> *tatra kutsa ity etat kṛntateḥ | ṛṣiḥ kutso bhavati kartā stomānām ity aupamanyavaḥ | tatsakhā indraḥ śuṣṇaṃ jaghāna iti ‖* [as read: [?]]
+
+(Ni. 3-11 [?]) — from this explanation the Nirukta-writers say that Kutsa is a friend of Indra.
+
+In some contexts there is also room for the conjecture that Kutsa might be Indra's son. For example, the epithet *ārjuneya* ("son of Arjunī") for Kutsa occurs in many places; and in all places where it is said that Indra helped Kutsa Ārjuneya, the sun also is said to have helped Indra. In such contexts it is made quite clear that Kutsa was a friend of Indra; it must be understood what the epithet *ārjuneya* means in such contexts.
+
+### Printed p. 336  (PDF 356)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+…(it is) stated that he was the friend. What *ārjuneya* means in such contexts should be considered.
+
+> अहं मनुरभवं सूर्यश्चाहं कक्षीवाँ ऋषिरस्मि विप्रः । अहं कुत्समार्जुनेयं न्यृंजेऽहं कविरुशना पश्यता मा ॥
+
+> *ahaṃ manur abhavaṃ sūryaś cāhaṃ kakṣīvāṃ ṛṣir asmi vipraḥ | ahaṃ kutsam ārjuneyaṃ nyṛṃje 'haṃ kavir uśanā paśyatā mā ‖*
+
+(Ṛ. Saṃ. 4-26-1 [?]);
+
+> त्वं ह त्यदिन्द्र कुत्समावः शुश्रूषमाणस्तन्वा समर्ये । दासं यच्छुष्णं कुयवं न्यस्मा अरन्धय आर्जुनेयाय शिक्षन् ॥
+
+> *tvaṃ ha tyad indra kutsam āvaḥ śuśrūṣamāṇas tanvā samarye | dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhaya ārjuneyāya śikṣan ‖*
+
+(Ṛ. Saṃ. 7-19-2 [?]);
+
+> यत्तुदत्सूर एतशं वङ्के वातस्य पर्णिना । वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ॥
+
+> *yat tudat sūra etaśaṃ vaṅke vātasya parṇinā | vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 4-31-11 [?]).
+
+For words like *ārjuneya* that occur in such ṛks, in some contexts Sāyaṇa has taken *ārjunyāḥ putraṃ kutsam* — "Kutsa, the son of the woman Arjunī" — and in some others, "*arjunaḥ* is the name of Indra; his son (*tasya putram*)": giving the meaning "Kutsa, the son of Arjuna, i.e. Indra". Explaining that the epithet *ārjuneya* is given to Kutsa because he was Indra's son (called Arjuna), the *Vājasaneyi-saṃhitā* mantra says, for those who speak of "Indra's son":
+
+> एतद्वा इन्द्रस्य गुह्यं नाम यदर्जुनः ।
+
+> *etad vā indrasya guhyaṃ nāma yad arjunaḥ |* [as read: [?]]
+
+— quoted, and it is shown that the name *Arjuna* for Indra is well known in the Śruti and elsewhere. It may also be noted that *arjuna* and *ārjunī* are said, by other Śrutis as well, to have a connection with Indra. For example —
+
+> फल्गुनीष्वग्नी आदधीत । एता वा इन्द्रनक्षत्रं यत्फल्गुन्यो ऽर्जुनस्य प्रतिनाम्न्यो ऽर्जुनो ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुन्यो वै नाम्नैतास्ता एतेकत्परोक्षमाचक्षते फल्गुन्य इति को हेतस्यार्हति गुह्यं नाम … ॥
+
+> *phalgunīṣv agnī ādadhīta | etā vā indranakṣatraṃ yat phalgunyo 'rjunasya pratināmnyo 'rjuno ha vai nāmendro yad asya guhyaṃ nāmārjunyo vai nāmnaitās tā etekat parokṣam ācakṣate phalgunya iti ko hetasyārhati guhyaṃ nāma … ‖* [as read; garbled; dots in the print: [?]]
+
+(Śa. Brā. 2-1-2-11 [?]);
+
+> इन्द्रो भवति यच्छ क्षत्रियो यदु च यजनूनस्तस्मादाहारिष्ठोऽर्जुन इति ।
+
+> *indro bhavati yac cha kṣatriyo yad u ca yajanūnas tasmād āhāriṣṭho 'rjuna iti |* [as read: [?]]
+
+(Śa. Brā. 5-4-1-2 [?]).
+
+The *Phalgunī* are the lunar mansions of Indra; they are also associated with his name. Indra is named *Arjuna*, and the *Phalgunīs* are also called *Arjunīs*; since this is said in the Śatapatha Brāhmaṇa and in other places, Kutsa may be called by two names, "son of Indra" and "son of Ārjunī".
+
+---
+
+**Progress note:** printed p. 336 (PDF 356) done — Sūkta 174 Ṛk 5 Special Topics (Kutsa Ārjuneya; continues p. 337). Next: printed p. 337 (PDF 357). Open flags: Ṛg/Nirukta/Śatapatha refs and some quotations [?]; review/doubts_v13.json.
