@@ -66,3 +66,4 @@ Unit 1 ends at p. 297 (Ṛks 71.1–71.3); pages with no flagged lines: none in 
   p. 287: Ṛk 1-[?]-6 -> 1-92-6
 p. 290: Skandasvāmin "mṛgaparvataṃ [?]" -> "durgaparvataṃ" (print).
 p. 286: note "Ṛgveda numerals doubtful" removed (numerals read). p. 288: Pada note: "ahar iti" as printed.
+p. 297: Rik 71.4 Saṃhitā accents set as printed (both lines on p. 297; the textbox crop missed the bottom, read with FULL=1); kampa १ after dūtyaṃ and the stroke above ga of bhṛgavāṇo doubtful [accent ?] (doubts page).
