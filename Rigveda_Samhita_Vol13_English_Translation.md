@@ -4466,4 +4466,92 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 
 ---
 
-**Progress note:** printed p. 196 (PDF 216) done — Sūkta 171 Ṛk 1 through Special Topics (continues p. 197). Next: printed p. 197 (PDF 217). Open flags: Ṛk 1 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 197  (PDF 217)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Special Topics of Ṛk 1 continue.)*
+
+> यं वर्धयन्तीद्गिरः पतिं तुरस्य राधसः ।
+> तमिन्न्वस्य रोदसी देवी शुष्मं सपर्यतः ॥
+
+> *yaṃ vardhayantīd giraḥ patiṃ turasya rādhasaḥ |*
+> *tam in nv asya rodasī devī śuṣmaṃ saparyataḥ ‖*
+
+(Ṛ. Saṃ. 6-44-5 [?]) — in it the meaning "of a powerful enemy" (*balavataḥ śatroḥ*) is given [as read]. And further,
+
+> ता वामेषे रथानामिन्द्राग्नी हवामहे ।
+> पती तुरस्य राधसो विद्वांसा गिर्वणस्तमा ॥
+
+> *tā vām eṣe rathānām indrāgnī havāmahe |*
+> *patī turasya rādhaso vidvāṃsā girvaṇastamā ‖*
+
+(Ṛ. Saṃ. 5-86-4 [?]). In ṛks of this kind, for *turasya rādhasaḥ* the meanings "*jaṅgamarūpasya dhanasya*" and "of wealth that moves, that is unstable" are given: the word is used as an epithet of things that are moving in nature, fit for transactions, and capable of quick movement. In ṛks like 1-61-13 [?] it is used as a synonym of Yama. In the present context it is an epithet of the Marut-gods, as "those who harm enemies".
+
+The word *sumati* is explained by Yāska with the example
+
+> धाता ददातु दाशुषे प्राचीं जीवातुमक्षिताम् ।
+> वयं देवस्य धीमहि सुमतिं सत्यधर्मणः ॥
+
+> *dhātā dadātu dāśuṣe prācīṃ jīvātum akṣitām |*
+> *vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ ‖*
+
+(Ath. Saṃ. 7-17-2 [?]). In this ṛk and in other places Sāyaṇa has explained that it expresses the meaning *kalyāṇī matiḥ* ("an auspicious mind"). However, the word *sumati* is used not only in the sense of the mind of divine favour, but also in the sense of a prayer made by a man, or of a man's best wish. For example:
+
+> तुभ्यं भरन्ति क्षितयो यविष्ठ बलिमग्ने अन्तित ओत दूरात् ।
+> आ भन्दिष्ठस्य सुमतिं चिकिद्धि बृहत्ते अग्ने महि शर्म भद्रम् ॥
+
+> *tubhyaṃ bharanti kṣitayo yaviṣṭha balim agne antita ota dūrāt |*
+> *ā bhandiṣṭhasya sumatiṃ cikiddhi bṛhat te agne mahi śarma bhadram ‖*
+
+(Ṛ. Saṃ. 5-[?]-10).
+
+> प्र वो महे महिवृधे भरध्वं प्रचेतसे प्र सुमतिं कृणुध्वम् ।
+> विशः पूर्वीः प्र चरा चर्षणिप्राः ॥
+
+> *pra vo mahe mahivṛdhe bharadhvaṃ pracetase pra sumatiṃ kṛṇudhvam |*
+> *viśaḥ pūrvīḥ pra carā carṣaṇiprāḥ ‖*
+
+(Ṛ. Saṃ. 7-[?]-10). In ṛks of this kind, "*stotuḥ sutim ā jānīhi*" is explained as "know the praise of the praiser", and "*indrāya su ṣuṣṭutiṃ pra kurute*" as "he offers excellent praise toward Indra". And in
+
+> यूयं न उग्रा मरुतः सुचेतुनारिष्टग्रामाः सुमतिं पिपर्तन ।
+> यत्रा वो दिद्युद्रदति क्रिविर्दती रिणाति पश्वः सुधितेव बर्हणा ॥
+
+> *yūyaṃ na ugrā marutaḥ sucetunāriṣṭagrāmāḥ sumatiṃ pipartana |*
+> *yatrā vo didyud radati krivirdatī riṇāti paśvaḥ sudhiteva barhaṇā ‖*
+
+(Ṛ. Saṃ. 1-166-6).
+
+### Printed p. 198  (PDF 218)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+in the ṛk explained earlier, for *sumatiṃ pipartana*, Sāyaṇa has explained "*śobhanabuddhiṃ pūrayata*" — "fulfil good understanding". Here "good understanding" cannot mean the mind of favour of the deities; and since *pipartana* is used, the meaning "fulfil our excellent desired objects" is natural. On this same ṛk 1-166-6 the scholar Max Müller says:
+
+*In our passage the Verb* पिपर्तन, *fill or fulfil, indicates in what sense* सुमति *ought to be taken.* सुमतिं पिपर्तन *is no more than* कामं पिपर्तन. [S. B. E. XXXII. P. 221].
+
+That is, "fulfil our desired object" is the meaning; and this meaning is natural. But in the present ṛk the words *sumatiṃ bhikṣe* would mean "I ask the Marut-gods for a mind of favour".
+
+Addressing the Marut-gods by "*he marutaḥ*", ***vedyābhiḥ rarāṇatā*** — "with the praises recited by the sage Agastya, understanding his wish, *ramamāṇena manasā*, may they have minds in a state of joy": thus the meaning is explained.
+
+***rarāṇatā*** — this word is formed from the root *raṇ*. In general it means a word of the form of praise (*stotra*), but in some contexts the word is also used in the sense of joy. The Nirukta-writers show this use, citing
+
+> नाहमिन्द्राणि रारण सख्युर्वृषाकपेरृते ।
+> यस्येदमप्यं हविः प्रियं देवेषु गच्छति विश्वस्मादिन्द्र उत्तरः ॥
+
+> *nāham indrāṇi rāraṇa sakhyur vṛṣākaper ṛte |*
+> *yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati viśvasmād indra uttaraḥ ‖*
+
+(Ṛ. Saṃ. 10-86-12 [?]), where for the word *rāraṇa* the sense "*ramasva*" ("rejoice") is given. Sāyaṇa has given the meaning "sound" in some places. For example:
+
+> यः सोमं सख्ये तव रारणद्देव मर्त्यः ।
+> तं दक्षः सचते कविः ॥
+
+> *yaḥ somaṃ sakhye tava rāraṇad deva martyaḥ |*
+> *taṃ dakṣaḥ sacate kaviḥ ‖*
+
+(Ṛ. Saṃ. 1-91-[?]). In such ṛks, "*raṇati etat tvayoktarūpeṇa tvāṃ stauti*" — "with this form of word (praise) he praises you" — is the explanation. Generally, the use in the sense of joy is the more frequent.
+
+***heḷaḥ ni dhatta aśvān vi mucadhvam*** — the word *heḷas* is read among the names of anger (Ni. 2-[?]). The Marut-gods: "*yuṣmadabhikramajanitaṃ krodhaṃ nikṛṣṭaṃ dhārayata tyajata*" (continued).
+
+---
+
+**Progress note:** printed p. 198 (PDF 218) done — Sūkta 171 Ṛk 1 Special Topics continue (p. 199: rest, grammar). Next: printed p. 199 (PDF 219). Open flags: many Ṛg/Nirukta reference numerals on pp. 197–198 [?] (small type); review/doubts_v13.json.
