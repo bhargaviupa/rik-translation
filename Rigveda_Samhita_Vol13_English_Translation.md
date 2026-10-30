@@ -15996,4 +15996,74 @@ As described in the Ṛk at hand, these two, being two luminous forms, are descr
 
 ---
 
-**Progress note:** printed p. 572 (PDF 592) done — Sūkta 181 Ṛk 4 ends (grammar); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 573). Next: printed p. 573 (PDF 593). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 573  (PDF 593)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 573.)*
+
+**Pratipadārtha (continued)** — **kakuhaḥ anu** — following the quarters and intermediate quarters; **ni cheruḥ** — moves about up and down, in every direction] (that chariot); **sadanāni** — to our sacrificial houses; **pra gamyāḥ** — may it come specially; **anyasya** — of the other one; **harī** — the horses; **rajāṃsi** — the people in the form of sacrificers; **mathā** — by churning (produced); **vājaiḥ** — with food in the form of *āmikṣā* etc. (and); **ghoṣyaiḥ** — with praises; **vi pīpayanta** — they satisfy.
+
+**Bhāvārtha** — O Aśvin deities, may that chariot belonging to one of you two, yellow-hued, moving in all the quarters and intermediate quarters, come to our sacrificial houses; and the sacrificers satisfy the horses of the other with *āmikṣā* and other foods prepared by churning, and with hymns.
+
+**English Translation.** *(printed)*
+
+"Ashwins, may the golden–coloured (car of one of you) traversing at will, the quarters of space, come to our dwellings ; may mankind encourage the horses of the other by food, by friction, and by shouts."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In the previous ṛk the Aśvin deities were described as the Sun, Moon and Earth [? "Sūrya-Candra-mas…" as read]; in this ṛk the order of motion of their chariot and its attractive colour are described.
+
+> अश्विना परि वामिषः पुरोचीरीयुर्गीर्भिर्यतमाना अमृध्राः ।
+> रथो ह वामृतेजा अद्रिजूतः परि द्यावापृथिवी याति सद्यः ॥
+
+> *aśvinā pari vāmiṣaḥ purocīrīyurgīrbhiryatamānā amṛdhrāḥ |*
+> *ratho ha vāmṛtejā adrijūtaḥ pari dyāvāpṛthivī yāti sadyaḥ ‖*
+
+(Ṛ. Saṃ. 3-58-8 [?])
+
+> यूयं हि देवीरृतयुग्भिरश्वैः परिप्रयाथ भुवनानि सद्यः ।
+> प्रबोधयन्तीरुषसः ससन्तं द्विपाच्चतुष्पाच्चरथाय जीवम् ॥
+
+> *yūyaṃ hi devīrṛtayugbhiraśvaiḥ pariprayātha bhuvanāni sadyaḥ |*
+> *prabodhayantīruṣasaḥ sasantaṃ dvipāccatuṣpāccarathāya jīvam ‖*
+
+(Ṛ. Saṃ. 4-51-5 [?]) — as described in these ṛks etc., their chariot is of unobstructed motion in all the quarters, and goes round heaven, earth and the intermediate region, both at will and independently. This sense is conveyed by the sentence "*pra vāṃ nicheruḥ kakuho vaśāṃ anu*".
+
+The word **kakuhaḥ** is read among the names of the great (*mahat*) (Ni. 3-13 [?]); hence, as an epithet of the chariot, it may mean an exceedingly excellent chariot. Or, **kakuhaḥ anu** may be taken to mean "in the ten quarters (moving independently)". The Nirukta-author has shown that the two words *kakubh* and *kakuha* are formed from the same root. The epithet **piśaṅgarūpaḥ** has been added to show the attractive colour of that chariot as it moves.
+
+### Printed p. 574  (PDF 594)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 574.)*
+
+For the word **piśaṅgarūpaḥ** Sāyaṇa has explained "*hiraṇyarūpaḥ, pītavarṇo vā bahubhir aśvādyavayavair nirūpyamāṇo vā rathaḥ*": a chariot of golden hue — or of yellow colour, or one that is described by many parts such as horses etc. — that is, one with a golden or white lustre, or a chariot described as endowed with many-coloured gold. When the time of appearance and of travel of the Aśvin deities is understood, the nature of this colour is understood.
+
+> कृष्णा यद्गोष्वरुणीषु सीदद्दिवो नपाताश्विना हुवे वाम् ।
+
+> *kṛṣṇā yadgoṣvaruṇīṣu sīdaddivo napātāśvinā huve vām |*
+
+(Ṛ. Saṃ. 10-61-4 [?])
+
+> आ तेन यातं मनसो जवीयसा रथं यं वामृभवश्चक्रुरश्विना ।
+> यस्य योगे दुहिता जायते दिव उभे अहनी सुदिने विवस्वतः ॥
+
+> *ā tena yātaṃ manaso javīyasā rathaṃ yaṃ vāmṛbhavaścakruraśvinā |*
+> *yasya yoge duhitā jāyate diva ubhe ahanī sudine vivasvataḥ ‖*
+
+(Ṛ. Saṃ. 10-39-12 [?]) — in ṛks such as these it is told that, when Uṣas (Dawn) with her splendour makes all beings glad, and drives away the enemies, and while the sun is rising, the Aśvin deities too, in order to go to the sacrificial place, prepare their chariot, and prayer is made for their coming. At this time the rising of Uṣas, the kindling of Agni, and the rising of Aruṇa all together make the chariot of the Aśvin deities golden-hued. In describing this very arrangement, the scholar Max Mullar [sic] has said thus:
+
+> "Thus the appearance of the Aswins, the kindling of the sacrificial fire, the break of dawn are synchronous with the first appearanee [sic] of the Sun's rays or more correctly the appearance of the light on the earth reflected from an immense number of meteors circulating around the Sun in or near the ecliptic and extending out somewhat beyond the orbit of the earth. Such meteors are more numerous precisely opposite to the sun and they cause the corralative [sic] and complementary phenomena of the reflection both thus giving rise to the laborate [sic] celestial Phenomena. connected by the Vedic Deities, the Asvinau. (अश्विनौ)"
+
+> *"Thus the appearance of the Aswins, the kindling of the sacrificial fire, the break of dawn are synchronous with the first appearanee [sic] of the Sun 's rays or more correctly the appearance of the light on the earth reflected from an immense number of meteors circulating around the Sun in or near the ecliptic and extending out somewhat beyond the orbit of the earth. Such meteors are more numerous precisely opposite to the sun and they cause the corralative [sic] and complementary phenomena of the reflection both thus giving rise to the laborate [sic] celestial Phenomena. connected by the Vedic Deities, the Asvinau. (aśvinau)"*
+
+(Science of Language. Vol. II.) — As thus described, as an example of the sentence-arrangement of the chariot of the Aśvin deities, which gives the chariot its golden form, the following ṛk is cited:
+
+> अबोध्यग्निर्ज्म उदेति सूर्यो व्युषाश्चन्द्रा मह्यावो अर्चिषा ।
+> आयुक्षातामश्विना यातवे रथं प्रासावीद्देवः सविता जगत्पृथक् ॥
+
+> *abodhyagnirjma udeti sūryo vyuṣāścandrā mahyāvo arciṣā |*
+> *āyukṣātāmaśvinā yātave rathaṃ prāsāvīddevaḥ savitā jagatpṛthak ‖*
+
+(Ṛ. Saṃ. 1-157-1)
+
+---
+
+**Progress note:** printed p. 574 (PDF 594) done — Sūkta 181 Ṛk 5 Pratipadārtha, Bhāvārtha, printed English, Special Topics (chariot of the Aśvins, piśaṅgarūpa; Max Müller; continues p. 575). Next: printed p. 575 (PDF 595). Open flags: refs [?]; review/doubts_v13.json.
