@@ -1,0 +1,2 @@
+RANGE DONE
+w6d: numeral list vol6/review/numerals_todo_w6d.json (186 marks, 97 pages, ids n001-n186). Bands for all 186 in vol6/review/numerals_w6d_p*.json (doubts row format + id). Page was found via OCR line positions only (no OCR digits used); stacked crops checked by eye for every item that was moved by hand. Notes: n002 file puts it under "Pages 7-8"; band is on p. 8. n108/n109 are filed under p. 514 in the file but the reference is on p. 515. n008, n119, n132: band covers the sūtra line but a number may not be printed there (user may answer x).
