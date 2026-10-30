@@ -15188,4 +15188,52 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 
 ---
 
-**Progress note:** printed p. 544 (PDF 564) done — Sūkta 180 Ṛk 8 complete; Ṛk 9: Saṃhitā…Special Topics begun (rathasya; continues p. 545). Next: printed p. 545 (PDF 565). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 545  (PDF 565)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 545; signature mark "XIII 35".)*
+
+**Special Topics (continued)**
+
+2. … and, second, "by the greatness of the sacrifice you bear the leadership of the sacrifice, which is the means of going to heaven" — Sāyaṇa has explained the meaning of this sentence also. It may be seen that both these constructions have the authority of *śruti* sentences. That, according to the first construction, the help of the Aśvin deities is absolutely essential both for the performance of the sacrifice and for its leadership, is known from the following Ṛk-saṃhitā sentences:
+
+> जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणाम् ।
+> सजूरश्विभ्यामुषसा सुवीर्यमस्मे धेहि श्रवो बृहत् ॥
+
+> *juṣṭo hi dūto asi havyavāhano 'gne rathīradhvarāṇām |*
+> *sajūraśvibhyāmuṣasā suvīryamasme dhehi śravo bṛhat ‖*
+
+(Ṛ. Saṃ. 1-44-2 [?])
+
+> सवितारमुषसमश्विना भगमग्निं व्युष्टिषु क्षपः ।
+> कण्वासस्त्वा सुतसोमास इन्धते हव्यवाहं स्वध्वर ॥
+
+> *savitāramuṣasamaśvinā bhagamagniṃ vyuṣṭiṣu kṣapaḥ |*
+> *kaṇvāsastvā sutasomāsa indhate havyavāhaṃ svadhvara ‖*
+
+(Ṛ. Saṃ. 1-44-8 [?]) — in these two ṛks, Agni, the carrier of oblations, the divine messenger and leader of the sacrifice, is called to perform the sacrifice, together with all the deities who are awake (*upabarbudha*). Even in the morning, Agni is described as bearing the sacrifice along with the Aśvin deities; so in the leadership of the sacrifice, the Aśvins' principal role is understood. Or, by the second construction, the idea that the sacrifice, if it is to be performed fully, must be protected by the Aśvin deities, and that it is impossible without their help, is shown, and the function of carrying out the sacrifice is praised. How was the sacrifice protected by the Aśvin deities? The context of the story, which tells in what way they made the sacrifice complete, and what principal part they played in this carrying out of the sacrifice, is told in the Śatapatha Brāhmaṇa. In it the cutting off of the head of Viṣṇu, who is of the nature of the sacrifice, is described, and, since the Aśvin deities restored it, they bore the leadership of the sacrifice and played the principal part in its carrying out — so that story-context is told as follows:
+
+> देवा ह वै सत्रं निषेदुः । अग्निरिन्द्रः सोमो मखो विष्णुर्विश्वे देवा अन्यत्रैवाश्विभ्याम् । तेषां कुरुक्षेत्रं देवयजनमास । तस्मादाहुः कुरुक्षेत्रं देवानां देवयजनमिति तस्माद्यत्र क्व च कुरुक्षेत्रस्य निगच्छति तदेव मन्यत इदं देवयजनमिति तद्धि देवानां देवयजनम् । त आसत । श्रियं गच्छेम यशः स्यामान्नादाः स्यामेति । तथो इवेमे सत्त्रमासते श्रियं गच्छेम यशः स्यामान्नादाः स्यामेति । ते होचुः । यो नः श्रमेण तपसा श्रद्धया यज्ञेनाहुतिभिर्यज्ञस्योदृचं पूर्वोऽवगच्छात्स नः श्रेष्ठोऽसत्तदु नः सर्वेषाꣳ सहेति तथेति । तद्विष्णुः प्रथमः प्राप । स देवानाꣳ श्रेष्ठोऽभवत्तस्मादाहुर्विष्णुर्देवानाꣳ श्रेष्ठ
+
+> *devā ha vai satraṃ niṣeduḥ | agnirindraḥ somo makho viṣṇurviśve devā anyatraivāśvibhyām | teṣāṃ kurukṣetraṃ devayajanamāsa | tasmādāhuḥ kurukṣetraṃ devānāṃ devayajanamiti tasmādyatra kva ca kurukṣetrasya nigacchati tadeva manyata idaṃ devayajanamiti taddhi devānāṃ devayajanam | ta āsata | śriyaṃ gacchema yaśaḥ syāmānnādāḥ syāmeti | tatho iveme sattramāsate śriyaṃ gacchema yaśaḥ syāmānnādāḥ syāmeti | te hocuḥ | yo naḥ śrameṇa tapasā śraddhayā yajñenāhutibhiryajñasyodṛcaṃ pūrvo 'vagacchātsa naḥ śreṣṭho 'sattadu naḥ sarveṣām̐ saheti tatheti | tadviṣṇuḥ prathamaḥ prāpa | sa devānām̐ śreṣṭho 'bhavattasmādāhurviṣṇurdevānām̐ śreṣṭha*
+
+### Printed p. 546  (PDF 566)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 546.)*
+
+> इति । स यः स विष्णुर्यज्ञः स स यः स यज्ञोऽसौ स आदित्यस्तद्धेदं यशो विष्णुर्न शशाक संयन्तुं तदिदमप्यैतर्हि नैव सर्व इव यशः शक्नोति संयन्तुम् । स त्रिधन्वमादायोपचक्राम । स धनुरात्न्यां शिर उपस्तभ्य तस्थौ तं देवा अनभिधृष्णुवन्तः समन्तं परिण्यविशन्त । ताहाहुर्वम्र्य ऊचुः । इमा वै वम्र्यो यदुपदीका योऽस्य ज्यामुप्यादभिक्ति [?] मस्मै प्रयच्छेतेत्यन्नाद्यमस्मै प्रयच्छेमापि धन्वन्न पोऽधिगच्छेत्रेथास्मै सर्वमन्नाद्यं प्रयच्छेमेति तथेति । तस्मोपरराः [?] सत्ये । ज्यामपिजक्षुस्तस्याः छिन्नायां धनुरात्न्यै विस्फुरन्त्यै विष्णोः शिरः प्रचिच्छिदतुः ॥
+
+> *iti | sa yaḥ sa viṣṇuryajñaḥ sa sa yaḥ sa yajño 'sau sa ādityastaddhedaṃ yaśo viṣṇurna śaśāka saṃyantuṃ tadidamapyaitarhi naiva sarva iva yaśaḥ śaknoti saṃyantum | sa tridhanvamādāyopacakrāma | sa dhanurātnyāṃ śira upastabhya tasthau taṃ devā anabhidhṛṣṇuvantaḥ samantaṃ pariṇyaviśanta | tāhāhurvamrya ūcuḥ | imā vai vamryo yadupadīkā yo 'sya jyāmupyādabhikti [?] masmai prayacchetetyannādyamasmai prayacchemāpi dhanvanna po 'dhigacchetrethāsmai sarvamannādyaṃ prayacchemeti tatheti | tasmopararāḥ [?] satye | jyāmapijakṣustasyāḥ chinnāyāṃ dhanurātnyai visphurantyai viṣṇoḥ śiraḥ pracicchidatuḥ ‖*
+
+(Śa. Brā. 14-1-1-1 to 9 [?]; as read, several words doubtful [?])
+
+— Formerly, leaving out only the Aśvin deities, all the other deities — Indra, Viṣṇu, Soma and so on — together began a sacrificial session at Kurukṣetra, the divine sacrificial place, wishing to be glorious and to be eaters of food. Then they decided that whoever of them first completed the sacrifice with all its limbs, by toil, by faith and by oblations, was to be counted the best of all; and Viṣṇu was the first to obtain that best position. Having obtained such an excellent position, Viṣṇu himself became of the nature of the sacrifice (*yajñātman*). Then pride arose in him, and there was no one to restrain it. He took his wealth-bow with its three arrows and set out; all the deities, with no courage to oppose him, sat silent. Then there came the ants (*vamri*), insects of that kind, and asked the deities, "If we gnaw the bowstring and make him bend, what reward will you give us?" Such was their request. The deities gave them the promise: "We shall give you complete food, and you will find water wherever you seek it." Then the ants gnawed through the string, and, as the cut tip of the bow sprang upward, it cut off the head of Viṣṇu. The deities, knowing that, when the head of Viṣṇu, who is of the nature of the sacrifice, was cut off, the sacrifice had become void, thought; and the Aśvin deities joined together the severed head of Viṣṇu. Therefore it is shown that the carrying out of the sacrifice was not possible without the Aśvin deities. The same matter is told in this way in the Taittirīya Āraṇyaka:
+
+> देवा वै सत्रमासत । ऋद्धिपरिमितं यशस्कामाः । तेऽब्रुवन् । यन्नः प्रथमं यश ऋच्छात् । सर्वेषां नस्तत्सहासदिति । …… तेषां मुखं वैष्णवं यश आर्छत् । ………… तस्य सिस्मियाणस्य तेजोऽपाक्रामत् । …… वारे वृतꣳ ह्यासाम् । तस्य ज्यामप्यादन् । तस्य धनुर्विप्रवमाणꣳ शिर उदवर्तयत् । तद्द्यावापृथिवी अनु प्रावर्तेताम् । यत्प्रावर्तेताम् । तत् …
+
+> *devā vai satramāsata | ṛddhiparimitaṃ yaśaskāmāḥ | te 'bruvan | yannaḥ prathamaṃ yaśa ṛcchāt | sarveṣāṃ nastatsahāsaditi | …… teṣāṃ mukhaṃ vaiṣṇavaṃ yaśa ārchat | ………… tasya sismiyāṇasya tejo 'pākrāmat | …… vāre vṛtam̐ hyāsām | tasya jyāmapyādan | tasya dhanurvipravamāṇam̐ śira udavartayat | taddyāvāpṛthivī anu prāvartetām | yatprāvartetām | tat …*
+
+(Tai. Ā. 5-1-[?]; as read, with elisions marked in the print by dots)
+
+---
+
+**Progress note:** printed p. 546 (PDF 566) done — Sūkta 180 Ṛk 9 Special Topics (Viṣṇu's head, Aśvins; ŚB 14-1-1, TA 5-1; continues p. 547). Next: printed p. 547 (PDF 567). Open flags: refs [?]; ŚB/TA quotes as read [?]; review/doubts_v13.json.

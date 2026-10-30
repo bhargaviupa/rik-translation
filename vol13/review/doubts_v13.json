@@ -5482,5 +5482,29 @@
   ],
   "note": "Nirukta-style sentence 'rathan ramhanam adityam ... asya navasthayi syat' garbled",
   "answer": ""
+ },
+ {
+  "pdf": 565,
+  "printed": 545,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 1-44-2, 1-44-8 refs small; SB 14-1-1 quote long, a few word doubts (nigacchati/mantyate, tatha u iveme)",
+  "answer": ""
+ },
+ {
+  "pdf": 566,
+  "printed": 546,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "SB 14-1-1-1..9 end and TA quote garbled/elided; 'abhikti', 'tasmoparaah' doubtful",
+  "answer": ""
  }
 ]
