@@ -1095,4 +1095,40 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 50 (PDF 70) done — Sūkta 166 Ṛk 10 Special Topics (etāḥ; continues on p. 51). Next: printed p. 51 (PDF 71). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 51  (PDF 71)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* …Western scholars are of opinion that the sense indicated here is that the Marut-gods wear (have thrown over) on their shoulders the skin of a spotted deer, [spotted] with marks. For in the Āśvalāyana Gṛhya-sūtra, and in other Gṛhya-sūtras too, there is the rule that a brāhmaṇa should wear a deer-skin as a garment (in place of a garment). After the *upanayana*, a *brahmacārin* who is a brāhmaṇa should, while studying the Veda, wear the *aiṇeya* (antelope) skin, a kṣatriya the skin of the *raurava* (the deer called *ruru*), and a vaiśya the skin of a goat (*aja*); and when they wear garments, the brāhmaṇa should wear a garment of *kāṣāya* (dark red colour — English), the kṣatriya of *mañjiṣṭha* (bright red colour — English), and the vaiśya of *hāridra* (yellow — English). Hence it may be said that the use of deer-skin in place of cloth was the custom. For this reason it may be that in the present ṛk the ṛṣis and Marut-gods are described as wearing deer-skins on their shoulders. The prepared hide of a deer used as cloth is called *ajina*; it is also called *kṛṣṇājina* (black-deer skin). The use of the word *ajina*, though not in the Ṛgveda, is especially common in the Yajurveda and in the other Vedas.
+
+***kṣurāḥ*** — weapons with greenish edges. *Kṣura* is the name also of the knife that shaves (Razor — English); for a razor must be very green [dark] in colour. It is the custom, when speaking of greenish weapons, to give the example of the razor (*kṣura*). In the Ṛgveda period, and earlier too, shaving with a knife is seen to have been the custom. In this matter:
+
+> यदा ते वातो अनुवाति शोचिर्वप्तेव श्मश्रु वपसि प्र भूम ।
+
+> *yadā te vāto anuvāti śocirvapteva śmaśru vapasi pra bhūma |*
+
+(Ṛ. Saṃ. 10-142-4)
+
+> केशश्मश्रु वपते नखानि निकृन्तते मृता वा एषा त्वगमेध्या यत्केशश्मश्रु मृतामेव त्वचममेध्यामपहत्य यज्ञियो भूत्वा मेधमुपैति । [?]
+
+> *keśaśmaśru vapate nakhāni nikṛntate mṛtā vā eṣā tvagamedhyā yatkeśaśmaśru mṛtāmeva tvacamamedhyāmapahatya yajñiyo bhūtvā medhamupaiti | [?]*
+
+(Tai. Saṃ. 6-1-1-2 [?]) — mantras such as these support the fact that shaving with a razor was customary.
+
+***vayo na pakṣān vi anu śriyo dhire*** — here *śriyaḥ* means beauty, splendour ("Splendour", English). As birds spread out their wings when they fly, when the Marut-gods journey their splendour spreads all round, or in all directions: this is the purport.
+
+### Printed p. 52  (PDF 72)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *naryeṣu* (*narāya hitāḥ naryāḥ*; *yat*; *yasyeti ca* drops *a*; *yato 'nāvaḥ* gives the initial acute). *rukmāḥ* (root *ruca dīptau*; suffix *mak* by *yuji rucitijāṃ kuś ca* Uṇ. 1-[?]; *ku* for the root's final by its association; *kit*, so no *laghūpadha-guṇa*; final acute by the suffix). *rabhasāsaḥ* (root *rabha rābhasye*; *asac* suffix by *atyavipracitam…* [as read] Uṇ. 3-[?]; *ciṭaḥ* Pā. 6-1-163 gives the final acute; *jas* with *asuk* by *ājjaser asuk*). *añjayaḥ* (root *añjū vyaktimrakṣaṇagatiṣu*; suffix *i* by *khanikaṣyañji…* Uṇ. 4-[?]; final acute by the suffix; nominative plural). *etāḥ* (root *iṇ gatau*; suffix *tan* by *hasimṛgrinvā…* Uṇ. 3-[?]; guṇa of the *ik* because of it; initial acute as *nit*). *paviṣu* (root *pūñ pavane*; suffix *i* by *āc ca iḥ* Uṇ. 4-[?]; guṇa and *av*-substitution; final acute by the suffix). *kṣurāḥ* (root *kṣura vilekhane*; *ran* by *ṛjrendrāgra…* Uṇ. 2-[?] given by *nipātana*; final acute by *vyatyaya*). *dhire* (root *dhṛñ dhāraṇe*; Vedic *liṭ*; by *vyatyaya* the *ṛ*-part is dropped; no doubling since in the Veda it is optional; *nighāta* since it follows a non-*tiṅanta* [?]). ‖ 10 ‖
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> महान्तो मह्ना विभ्वो विभूतयो दूरेदृशो ये दिव्या इव स्तृभिः ।
+> मन्द्राः सुजिह्वाः स्वरितार आसभिः संमिश्ला इन्द्रे मरुतः परिष्टुभः ॥ ११ ॥
+
+> *mahānto mahnā vibhvo vibhūtayo dūredṛśo ye divyā iva stṛbhiḥ |*
+> *mandrāḥ sujihvāḥ svaritāra āsabhiḥ saṃmiślā indre marutaḥ pariṣṭubhaḥ ‖ 11 ‖*
+
+---
+
+**Progress note:** printed p. 52 (PDF 72) done — Sūkta 166 Ṛk 10 complete; Ṛk 11 Saṃhitā written. Next: printed p. 53 (PDF 73): Pada, bhāṣya of Ṛk 11. Open flags: small-type numerals [?]; review/doubts_v13.json.
