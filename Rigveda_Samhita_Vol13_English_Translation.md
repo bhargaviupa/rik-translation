@@ -8904,4 +8904,62 @@ O Indra, possessed of the two horses called Hari, pleased by our praises, you sl
 
 ---
 
-**Progress note:** printed p. 342 (PDF 362) done — Sūkta 174 Ṛk 5 complete; Ṛk 6: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English continues p. 343). Next: printed p. 343 (PDF 363). Open flags: Ṛk 6 bhāṣya dense [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 343  (PDF 363)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+**Printed English**
+
+Indra, lord of steeds, invigorated by our animating praise, you have slain those who make you no offerings and disturb your worshippers; but they who look upon you as (their) protector, and are associated for (the presentation of sacrficial) food, obtain from you posterity. [As printed; "sacrficial" is a misprint: [sic].]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***adāśūn mitrerūn jaghanvān*** — for the word *adāśūn*, the meaning "those who do not give" is stated. Here, for the word *mitra* the meaning "sacrificers" is given; and for *mitrerūn* two meanings are given: "those who bring about a *thorn* (obstruction) for the sacrificers who perform the sacrifice", or "those who urge the enemies of the sacrificers to give them trouble". The sentence in which Indra is said to kill the people who give no offerings and who cause trouble to the sacrificers is explained by "*mitrāṇāṃ yajamānānāṃ ārayitṝn bādhakān, tadvairiṇāṃ mitratvaṃ gacchato vā hatavān asi*".
+
+***aryamaṇam*** — Sāyaṇa has explained it as "the giver" (*dātāram*). Yāska —
+
+> दक्षस्य वादिते जन्मनि व्रते राजाना मित्रावरुणा विवाससि । अतूर्तपन्थाः पुरुरथो अर्यमा सप्तहोता विषुरूपेषु जन्मसु ॥
+
+> *dakṣasya vādite janmani vrate rājānā mitrāvaruṇā vivāsasi | atūrtapanthāḥ pururatho aryamā saptahotā viṣurūpeṣu janmasu ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-64-5 [?]) — quoting this ṛk, he explains: "*aryamā ādityo arīn niyacchati*" — "Aryaman is the Āditya who restrains enemies" — that the Āditya is to be understood by the word *aryaman*. Durgācārya has given the meaning "he who destroys the darkness that lies like enemies, restraining the darkness" (*arīṇāṃ tamasāṃ niyantā*).
+
+***āyoḥ — manuṣyasyādhvaryvādeḥ haviḥlakṣaṇānnasya vā*** — the word *āyuḥ* is read among the names of food (Ni. 3-9 [?]). Sāyaṇa gives two meanings for this word: "the priests, the Adhvaryu and the others", or "food in the form of an oblation".
+
+For the word *āyoḥ* the meaning is given as a synonym of *śatru* ("enemy") in some places, and in other places as a synonym of *mitra* ("friend"). That this word is given as the explanation for the above is learned from Sāyaṇa's explanation. The Bhāṣya-writer shows his own doubt, saying whether *āyu* refers to the people of the race of Manu, the *adhvaryu* and others, or to food in the form of an oblation. The word *āyuḥ* is a "marked" name (*aṅkita*), and a name that suggests a progeny (*santati*).
+
+### Printed p. 344  (PDF 364)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+…and also one that indicates a progeny. In these contexts it is said, in some places, that he is a friend of Indra and others, and, in other places, that he is an enemy. Therefore it is necessary to understand, to the extent possible, the variety in the use of this word. In the case in hand, it is learned that there are many persons with the name *Āyu*, citing the Śruti and other passages that show a relation to Indra and other deities; that the *Āyu* who was an enemy of the gods and of the sacrificers was a different one; that the *Āyu* who was a friend of Indra was another; that the *Āyu* who was a friend of Agni was another; and that there was a progeny known by the name *Āyu*.
+
+> उर्वश्यसीत्यै धोत्रोरारण्योज्यविलापसनीमुपास्प्यशक्त्यायुरसीति तामभिनिदधाति पुरूरवा आसीत्यैर्वशी वाप्सराः पुरूरवाः पशिरथ यत्त्र स्यान्मिथुनादेजायेत तदायुरेवान्मैष एतस्मिन्मिथुनाद्यज्ञं जनयति ॥ [as printed; garbled: [?]]
+
+> *urvaśy asīty ai dhotror āraṇyojyavilāpasanīm upāspy aśaktyāyur asīti tām abhinidadhāti pururavā āsīty airvaśī vāpsarāḥ pururavāḥ paśiratha yat tra syān mithunād ejāyeta tad āyur evānmaiṣa etasmin mithunād yajñaṃ janayati ‖* [?]
+
+(Śa. Brā. 3-4-1-20 [?]) — in this passage it is said that *Āyu* was born of Urvaśī and Purūravas; and the identity of Agni and Āyu is stated. In the same way —
+
+> आयुषो न मध्यादित्यग्निर्वा आयुः ।
+
+> *āyuṣo na madhyād ity agnir vā āyuḥ |*
+
+(Śa. Brā. 7-2-1-15 [?]) — in this sentence also the identity of Agni and *Āyu* is stated. But here the word *āyu* is, in one view, a "marked" name; in another, not. In the Śatapatha Brāhmaṇa the mantra of the Ṛk-saṃhitā —
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् ।
+
+> *mā no mitro varuṇo aryamāyur indra ṛbhukṣā marutaḥ pari khyan |*
+
+(Ṛ. Saṃ. 1-162-1 [?]) — is quoted (Śa. Brā. 13-5-1-18 [?]), and also shows a prayer addressed to *Āyu* together with the other deities.
+
+> स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनाम् ।
+
+> *sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām |*
+
+(Ṛ. Saṃ. 1-96-2 [?]) — in this verse of the Ṛk-saṃhitā, since the word *āyoḥ* is explained by the word *manu*, it may be understood that it is Manu, one of the Prajāpatis, makers of creation. Likewise, in Ṛ. Saṃ. 1-53-10 [?]; 8-15-5 [?]; 8-53-2 [?]; 2-3-2 [?] and other ṛks as well, it has been seen earlier which person is signified by the "marked" name *Āyu*. (Ṛgvedasaṃhitā, Part 8, p. 26 [?].)
+
+For "men who perform sacrifice", the words *āyuḥ*, *āyoḥ* have been used in many places as synonyms.
+
+---
+
+**Progress note:** printed p. 344 (PDF 364) done — Sūkta 174 Ṛk 6 Special Topics (āyu; continues p. 345). Next: printed p. 345 (PDF 365). Open flags: Ṛg/Nirukta/Śa. Brā. refs and garbled Śatapatha quote (Urvaśī/Purūravas) [?]; review/doubts_v13.json.
