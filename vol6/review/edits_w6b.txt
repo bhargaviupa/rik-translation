@@ -460,3 +460,32 @@ Doubts: vol6/review/html/Vol6_doubts_p396-425.html (8).
 User corrections (doubts page pp. 352–395, via coordinator, Oct 30):
   p. 385: "śaṃjātā [?]" -> "śaṃbātā" (user's reading ಶಂಬಾತಾ; only IAST/English layer present in the file)
   p. 391: Uṇ. 3-49 [?] -> 3-499 (as printed)
+Unit 9 (Sūkta 74, pp. 426–454; Oct 30):
+  p. 426: head "Maṃ. 1 A. 12 Sū. 74" as read -> A. 13; Ā. [4-13?] -> 4-13; [6-3?] -> 6-5; [7-10?] -> 7-10; intro re-read: "kettropaprayanta" -> tatropaprayanta, "gāyatraṃ triti" -> gāyatraṃ tv iti / tv ity uktatvād, "upo revatīḥ" -> āpo revatīḥ; Sūkta 73 end note vargas reconciled (19, 20)
+  p. 427: Varga head -> 21; heading Vargas [21?], [22?] -> 21, 22; Anuvāda Ā. -> 4-13, 6-5, 7-10 ("āpo revatīḥ"); Saṃhitā 74.1 accents set as printed
+  p. 428: bhāṣya re-read (upaprayanta upetya, prāpyāvicchedena, 'pyartha, sthitvāsmākaṃ, vocema, liṅy āśiṣy aṅ, vaca um ity umāgamaḥ); ST: Sūktas 74–93 [?] -> 204 Ṛks; 68th sūkta -> 67th (Ṛks 7–9); total [303?] -> 213
+  p. 429: Varga -> 21; Ni. [3-20?] -> 3-20; "ākare" -> āke
+  p. 430: Pā. [2-4-53?] -> 2-4-53; [7-4-20] [as read] -> 7-4-20; added Pā. 1-1-47 (mid aco 'ntyāt paraḥ, printed); "aj" -> aṅ; atiṅanta; Saṃhitā 74.2 accents set as printed
+  p. 431: Varga -> 21; bhāṣya "mu. [2-1-9-1?]" -> "ma. 7-2-9-1"; nipītir itivad iḍāgamaḥ; vyatyayenaikārasyekārādeśaḥ; gamy ṛcchi
+  p. 432: "three verbs of killing" -> thirty-three; Ni. [3-10?] -> 3-10 [as printed]; Ni. [3-2?] -> 3-2; wealth twenty-eight confirmed, Ni. [2-10?] -> 3-9 [as printed]; house Ni. [3-4?] -> 3-13 [as printed] (kṣayaḥ -> kṛdaraḥ); Nirukta [3-?] -> Niru. 2-19-13
+  p. 433: Varga -> 21; Saṃhitā 74.3 accents set as printed
+  p. 434: bhāṣya re-read (jātāyānubrūhīty ukta … ity eṣānuvacanīyā; iṣṭāv eṣaiva); Ā. [2-10?] -> 2-16 and 2-18; Pā. [3-2-46?] -> 3-2-46; [6-3-67?] -> 6-3-67; [3-3-38?] -> 3-3-58-3
+  p. 435: Varga -> 21; Ā. [2-10?] -> 2-16, 2-18; Ṛk. Saṃ. [9-?-?] -> 9-46-5, 9-84-5
+  p. 436: Ṛk. Saṃ. [3-?-?] -> 3-42-6 (print "dhanaṃjayaḥ [sic] … dadhṛṣaṃ"); [8-?-?] -> 8-45-13; [10-?-?] -> 10-95-7; battle "seventy-odd … (Ni. [2-17?])" -> forty-six, no Ni. number printed; Ni. [4-?] and [10-?] -> 4-8 and 10-47; removed a verse line "mahe yat pitra īṃ rasaṃ …" not on the page
+  p. 437, 439: Varga -> 21 (head strips only)
+  p. 438: Saṃhitā 74.4 accents set as printed; bhāṣya "tam it tuṃ havyam ity uktarayā" -> "tam it suhavyam ity uttarayā"; tail "dasmāt" -> dasmat
+  p. 440: Uṇ. [1-?] -> 1-14[2?] (doubts page)
+  p. 441: Varga -> 21; Saṃhitā 74.5 accents set as printed, second line [accent ?] (doubts page); bhāṣya tail re-read (subāmantrite, ṣaṣṭhy-, -anudāttatvaṃ)
+  p. 442: Ṛk. Saṃ. [4-3-15?] -> 4-3-15; [4-8-2?] -> 4-9-7; [5-8-4?] -> 5-8-4; [5-10-2?] -> 5-10-7; [5-11-6?] -> 5-11-6
+  p. 443: running head prints Varga "12" [as printed; for 21]; Ni. [2-9?] -> 3-9 [as printed]; Ni. [3-2?] -> 3-2; Ṛk. Saṃ. [3-?-?] -> 2-7-6; [3-11-?] -> 3-11-4; [3-?-?] -> 3-24-3; [3-?-?] -> 5-4-8
+  p. 444: Ṛk. Saṃ. [6-?-?] -> 6-5-1
+  p. 445: Varga -> 22; Saṃhitā 74.6 accents set as printed
+  p. 446: Ni. [11-5?] -> 11-5
+  p. 447: Varga -> 22; Uṇ. [1-22?] -> 1-22; Tai. Prā. [23-8?] -> 23-9; Saṃhitā 74.7 accents set as printed
+  p. 448: speech "fifty-eight [as read, ?]" -> fifty-seven; Ni. [1-11?] -> 2-23 [as printed]
+  p. 449: Varga -> 22; Uṇ. [1-?] -> 1-21 [as printed]; Tai. Prā. [23-8?] -> 23-9; Saṃhitā 74.8 accents set as printed
+  p. 451: Varga -> 22; Ni. [2-7?] -> 3-9 [as printed]
+  p. 452: Saṃhitā 74.9 accents set as printed
+  p. 453: Varga -> 22; p. 454: head "Sū. 74" as read -> prints Sū. 75; Sūkta 74 end note vargas reconciled (21, 22)
+  pp. 450 (bhāṣya note "abhi … [?]" not re-read), 437 (body), 444 (body): no other flagged lines viewed. Generic "doubtful places [?]" labels of the bhāṣya headings left as they are; p. 443 "pp. 640–641 [as read]" not re-viewed.
+Doubts: vol6/review/html/Vol6_doubts_p426-454.html (2).
