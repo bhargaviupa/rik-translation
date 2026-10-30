@@ -16320,4 +16320,52 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 ---
 
-**Progress note:** printed p. 582 (PDF 602) done — Sūkta 181 Ṛk 7 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (vedhasā, bāḷhe, tredhā gīḥ; continues p. 583). Next: printed p. 583 (PDF 603). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 583  (PDF 603)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 583.)*
+
+*(Special Topics, continued.)* … these divisions may be pointed to. And when explaining the word *udgītha* in the Upaniṣad,
+
+> वाग्गीर्वाचो ह गिर इत्याचक्षते ।
+
+> *vāggīrvāco ha gira ityācakṣate |*
+
+(Bhā. 1-3-6 [?]) — by sentences such as this the division is shown: the three divisions of *śastra* etc., and the three *mantras* *ṛc* etc.; these will be explained later.
+
+**Yāman, ayāman** — Sāyaṇa has explained these words as "*gamane, agamane ca*". The word *yāman* is used in many places and not in one sense; its meaning must be told according to the context. In many places Skandasvāmin, explaining this word, says "*yāmanty asmin devatā dvijātayaś ca iti yāmano yajñaḥ*" — "the deities and the twice-born come here, hence *yāma* means sacrifice" [as read, [?]]. It is formed from the root *yā prāpaṇe*. In each context the commentators' tendency gives different meanings. For example:
+
+> अजोहवीन्नासत्या करा वां महे यामन्पुरुभुजा पुरंधिः ।
+
+> *ajohavīnnāsatyā karā vāṃ mahe yāmanpurubhujā puraṃdhiḥ |*
+
+(Ṛ. Saṃ. 1-116-13 [?]) — for the word *yāman* in this ṛk Sāyaṇa explains "*yāti gacchatīti yāmaḥ stotram*" (praise), while Skandasvāmin explains "*yāmanti yoddhāro yasmin sa yāmaḥ saṃgrāmaḥ*" — "where warriors go, that is *yāma*, battle", the sense of war here; and
+
+> इन्द्रं नमस्यन्नुपमेभिरर्कैर्यः स्तोत्रे भ्यो हव्यो अस्ति यामन् ।
+
+> *indraṃ namasyannupamebhirarkairyaḥ stotre bhyo havyo asti yāman |*
+
+(Ṛ. Saṃ. 1-33-2 [?]) — for the word *yāman* in this ṛk Sāyaṇa explains "battle", and Skandasvāmin "sacrifice". In the ṛk at hand also the words *yāman; ayāman* may mean "going" and "not going", or "at the time of the sacrifice" and "at a time without sacrifice", or "at the time of battle" and "at a time without battle". The meaning is: hear our praise and be satisfied at all these times.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *asarji* — root *sṛj visarge*; in Vedic usage *luṅ* in the passive; "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66 [?]) gives *ciṇ*-substitution for *cli*; with that as occasion, guṇa of the root's short penultimate; "*ciṇo luk*" (Pā. Sū. 6-4-104 [?]) elision of the *ta* suffix following; *āḍāgama* to the base; being in a *pādādi* position there is no *nighāta* accent; the augment having the acute, the first syllable becomes acute.
+
+### Printed p. 584  (PDF 604)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 584.)*
+
+*(Grammar page, continued, noted briefly):* *sthavirā* — root *ṣṭhā gatinivṛttau*; "*ajiraśiśira…*" (Un. Sū. 1-53 [?]) gives suffix *kirac* as an irregular formation ending in the suffix; the suffix's accent makes the middle syllable acute; in the feminine, as it ends in *a*, *ṭāp*; *vedhasā* — "*supāṃ sulug*" gives ā-substitution for the dual; vocative: *nighāta* accent; *tredhā* — "*dhā ca*" (Pā. Sū. 5-3-45 [?]): suffix *edhācc* added to *tri* in the sense of manner; "*yasyeti ca*" elides the *i*; "*citaḥ*" (Pā. Sū. 6-1-163 [?]) gives acute on the last syllable; *kṣarantī* — root *kṣar sañcalane*; *laṭ* with *śatṛ*-substitution; "*ugitaś ca*" (Pā. Sū. 4-1-6 [?]) gives *ṅīp* in the feminine; the *sārvadhātuka l* being unaccented, the root's accent remains; *upastutau* — *upa* + *ṣṭuñ stutau*; "*striyāṃ ktin*" gives suffix *ktin*; "*tādau ca niti*" (Pā. Sū. 6-2-50 [?]) gives the *gati* (*upa*) its own accent; *nādhamānam* — root *nāthṛ yācñāyām*; *laṭ*, *śānac*-substitution; *śap*; "*āneṃuk*" gives *muk* augment; "*tāsyanudāttet…*" the *sārvadhātuka l* being unaccented, the root's accent remains; *yāman* — root *yā prāpaṇe*; suffix *manin*; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives *luk* for the locative; so also in *ayāman*, *luk* has come; the *nañ* has the special accent of its own nature (*prakṛti-svara*); *śruṇutaṃ* — root *śru śravaṇe*; *loṭ* second-person dual; *nighāta* accent.  ‖ 7 ‖
+
+### Sūkta 181, Ṛk 8  (printed p. 584; PDF 604)
+
+**Saṃhitā-pāṭha**
+
+> उत स्या वां रुशतो वप्ससो गीः प्रि बर्हिषि सदसि पिन्वते नॄन् ।
+> वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन् ॥ ८ ॥
+
+> *uta syā vāṃ ruśato vapsaso gīḥ pri barhiṣi sadasi pinvate nṝn |*
+> *vṛṣā vāṃ megho vṛṣaṇā pīpāya gorna seke manuṣo daśasyan ‖ 8 ‖*
+
+*(Reading of the second word-group of line 1 doubtful [?]: print shows "गीः प्रि" / "गीष्प्रि"; to be checked against the Pada on the next page.)*
+
+---
+
+**Progress note:** printed p. 584 (PDF 604) done — Sūkta 181 Ṛk 7 ends (Special Topics, grammar); Ṛk 8 Saṃhitā only (line 1 word-group doubtful [?]). Next: printed p. 585 (PDF 605): Ṛk 8 Pada onward. Open flags: refs [?]; review/doubts_v13.json.
