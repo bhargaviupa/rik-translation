@@ -1980,4 +1980,34 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 84 (PDF 104) done — Sūkta 167 Ṛk 3 complete (grammar done); Ṛk 4: Saṃhitā, Pada and the start of the bhāṣya. Next: printed p. 85 (PDF 105). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 85  (PDF 105)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* **Bhāṣya (continued from p. 84):**
+
+> एवं कुर्वन्तो घोरा अतिवृष्टिप्रदानेन भयंकरास्ते रोदसी द्यावापृथिव्यौ नापनुदन्त । अपनोदनं वर्षणरूपं तिरस्कारं न कुर्वन्ति । द्यावापृथिवीवचनो रोदसीशब्दः सर्वत्राद्युदात्तः । अत्र तु व्यत्ययेनान्तोदात्तत्वमिति द्रष्टव्यम् । यद्वा । रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । अपरे तु मरुतां स्त्रियो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्तः । उत्तरत्रैवं व्यवहारात् । तत्पक्षे रोदसी रोदस्याम् [?] ॥ जोषन्तात्स्तं स्तम्याः [?] ईकारो लुग्णाः [?] । ईदूतौ च सप्तम्यर्थ इति प्रगृह्यसंज्ञा ॥ तस्यां प्रियं धनं मुञ्चन्ति । किन्तु देवा मोदयितारो मादयितारो वा मरुतः सख्याय वृधं वृद्धिं जुषन्ते । सेवन्ते द्यावापृथिवीपक्षे सख्याय जगतां सखिभावाय तयोर्वृद्धिं कुर्वन्तीत्यर्थः ॥
+
+*Gist:* The Maruts, adorned and moving, mix with the lightning, their companion, and send down rain, as young men with a woman of the common sort; terrible by giving abundant rain, they do not drive away heaven and earth (do not insult them by the form of rain), but, gladdening gods, they enjoy and promote the growth of the worlds, for friendship.
+
+**Pratipadārtha.** *śubhrāḥ* — the beautifully adorned; *ayāsaḥ* — those that move; *marutaḥ* — the Marut-gods; *yavyā* — with the mixing, [the lightning] (those who are united with the lightning); *sādhāraṇyā iva* — like a common woman (as youths sprinkle their seed upon her); *parā mimikṣuḥ* — they pour water abundantly (as they do thus); *ghorāḥ* — the fearful Marut-gods (who give excess of rain); *rodasī* — heaven and earth; *na apa nudante* — do not reject (but); *devāḥ* — the Marut-gods, givers of delight (gladness); *sakhyāya* — for friendship (of the worlds); *vṛdham* — their growth; *juṣanta* — they serve.
+
+**Bhāvārtha.** The splendid and moving Marut-gods, as young men in the world join a common woman and discharge their seed, join with their companion, the lightning, and bring about rain. These terrible ones, though they send excessive rain, do not make heaven and earth tremble. But, wishing for the friendship of the worlds, they desire their prosperity.
+
+**English Translation (as printed):** The radiant, ever-moving Maruts, have mingled with (their) associate, (lightning), like (youths) with common women; the formidable divinities do not overwhelm heaven and earth (with rain), but promote their prosperity through (friendly) regard.
+
+### Printed p. 86  (PDF 106)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Special Topics (Viśeṣaviṣayagaḷu).**
+
+***marutaḥ yavyā sādhāraṇyeva parā mimikṣuḥ*** — *miśraṇaśīlayā vidyutā prakarṣeṇa siñcanty udakasaṃsthāpyam* [as read] *| yathā loke sādhāraṇyā striyā saṅgatā yuvāno reto muñcanti tadvat*: "with the lightning, which is of a mixing nature, they sprinkle abundantly [water]; as young men in the world, united with a common woman, let go their seed, so". Lightning (*miñcu*) is of a nature that is always to join with a cloud other than itself. By a cloud together with lightning, rain is naturally produced; the raindrops fall to the ground through contact with the wind. This matter is described here in the style of poetry (*kāvya*). Since the word *vidyut* is feminine it indicates a woman, and since the word *marut* is masculine it indicates a man, and the relationship between the two is described here. The Marut-gods are *śubhrāḥ* — *śobhanālaṅkārāḥ*, "possessed of excellent, auspicious ornaments and other adornments"; *ayāsaḥ* — *abhigantāraḥ*, "moving about" is the meaning given. As in the world men in youth, adorned with ornaments and the like, move about with a woman, wandering, and enjoy her, so it is described that the Marut-gods let fall raindrops in company with the lightning, in the form of the cloud.
+
+***ghorāḥ rodasī na apanudante*** — *atiṛṣṭipradānena bhayaṅkarāḥ dyāvāpṛthivyau apanodanaṃ varṣaṇarūpaṃ tiraskāraṃ na kurvanti | yadvā rodasā śabdena rodanasvabhāvo rudraḥ | tasya strī rodasīti kecid āhuḥ | apare tu marutāṃ striyo rodasīti nāmadheyam ityāhuḥ | ayam eva pakṣo yuktaḥ | uttaratraivaṃ vyavahārāt | tatpakṣe rodasī rodasyām* [as read]: "terrible by giving excess of rain, they do not insult (repel) heaven and earth in the form of rain-driving". The word *rodasī* is stated among the names of heaven and earth (Ni. 3-30 [?]).
+
+> उताभये पुरुहूत श्रवोभिरेको दृळ्हमवदो वृत्रहा सन् । इमे चिदिन्द्र रोदसी अपारे यत्संगृभ्णा मघवन्काशिरित्ते ॥ [?]
+
+> *utābhaye puruhūta śravobhireko dṛḷhamavado vṛtrahā san | ime cidindra rodasī apāre yatsaṃgṛbhṇā maghavankāśirit te ‖ [?]*
+
+(Ṛ. Saṃ. 3-30-5 [?]) — here *rodasī*: "*rodhasī dyāvāpṛthivyau | vividhāni hi bhūtāni ete rundhaḥ virodhanāt*" — since these two obstruct and shut in many kinds of beings, heaven and earth are intended by the word *rodasī*: this meaning is explained (Ni. 6-1 [?]). The meaning is given in one way: the Marut-gods, by their fierce form and abundant rain, do not at all offer to heaven and earth the insult of non-rain (*anāvṛṣṭi*). In the second meaning the word *rodasī* is used in the sense "the wife of Rudra, the manifestation of Rudra" (Ni. 11-30 [?]); having said so, *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 86 (PDF 106) done — Sūkta 167 Ṛk 4 Special Topics in progress (rodasī; continues on p. 87). Next: printed p. 87 (PDF 107). Open flags: small-type numerals [?]; Ṛk 4 bhāṣya end words [?]; review/doubts_v13.json.
