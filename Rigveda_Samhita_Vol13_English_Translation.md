@@ -8599,4 +8599,62 @@ for the word *pavīravasya* explains "*kuliśasya*", "of the thunderbolt", or "o
 
 ---
 
-**Progress note:** printed p. 332 (PDF 352) done — Sūkta 174 Ṛk 4 Special Topics (yoni, pavīra, yudhā; continues p. 333). Next: printed p. 333 (PDF 353). Open flags: Ṛg/Nirukta refs [?]; some quotes garbled [?]; review/doubts_v13.json.
+### Printed p. 333  (PDF 353)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+***harī tiṣṭhat*** — the Nirukta-writers say "*harī indrasya*" (Ni. 1-… [?]) — *hari* is well known as the name of Indra's horses. For that reason, so that Indra may attain victory in battle, he mounts his own horses, the two called *hari*, as his vehicle; and *yadā harī adhitiṣṭhasi tadā avāsṛjaḥ* — explaining that he is the sender of rain; and by the sentence *vājān dhṛṣatā mṛṣṭa* ("increase the food by your strength"), Sāyaṇa explains that Indra should, by *dharṣakeṇa sāmarthyena*, by his overpowering strength, increase grain in the form of *sasyādi-lakṣaṇāni annāni*, the food of crops, so as to surpass others.
+
+Although the word *vāja* has many meanings, it is clear that here its use is only in the sense of "food".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***śeṣan*** — root *śīṅ svapne*; *leṭ*, third person plural; by "*vyatyayo bahulam*" the suffix *jhi*; by "*itaś ca lopaḥ*" (Pā. Sū. 3-4-97 [?]) the final *i* is dropped; by "*jho 'ntaḥ*" the substitution *ant*; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *a* for it; the *anta*-dropping; "*sibbahulaṃ leṭi*" (Pā. Sū. 3-1-34 [?]) *sip*; by making that the cause, guṇa for the *ik* of the root; because in *pādādi* position, no *nighāta*; the root accent remains.
+- ***sasmin*** — when the form *sarvasmin* is the cause (*rūpa*), by Vedic usage the dropping of the letters occurs.
+- ***praśastaye*** — root *śaṃsu stutau*; the suffix *ktin* in the sense of the action; by "*tādau ca niti*" (Pā. Sū. 6-2-50 [?]) the preposition (*pra*) takes *udātta* accent; dative singular.
+- ***sṛjat*** — root *sṛja visarge*; by "*vyatyayo bahulam*" *laṅ*, second person singular *tip*; the *i* dropped; the *śa* *vikaraṇa*; being *jit*, no light-vowel guṇa; by "*bahulaṃ chandasy amāṅyoge 'pi*" no augment; because in *pādādi* position, no *nighāta*; the vikaraṇa accent remains.
+- ***yudhā*** — root *yudha saṃprahāre*; suffix *kvip*; instrumental singular; by "*sānvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case ending is *udātta*.
+- ***tiṣṭhat*** — root *ṣṭhā gatinivṛttau*; as before, *vyatyaya* of person; *laṅ*; by "*yad vṛttān nityam*" (Pā. Sū. 8-1-66 [?]) *nighāta* is prohibited; *śap* being *anudātta*, the root accent remains.
+
+### Printed p. 334  (PDF 354)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+- ***dhṛṣatā*** — root *ñidhṛṣā prāgalbhye*; *śatṛ* for *laṭ*; in the *num*-less *śatṛ* suffix, the third (instrumental) singular having come, by "*śatur anumo nadyajādī*" (Pā. Sū. 6-1-173 [?]) it has *udātta* accent.
+- ***mṛṣṭa*** — root *mṛjū śuddhau*; *loṭ*, second person, by *vyatyaya* the substitution *tā* for the singular; *luk* for the *vikaraṇa*; by "*vṛśca-bhrasja*…" (Pā. Sū. 8-2-36 [?]) *ṣatva* for the *ja* and *ṣṭutva* for the suffix; *nighāta* for a *tiṅ*. ‖ 4 ‖
+
+---
+
+**Sūkta 174, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> वह कुत्समिन्द्र यस्मिञ्चाकन्स्यूमन्यू ऋज्रा वातस्याश्वा ।
+> प्र सूरश्चक्रं वृहतादभीके ऽभि स्पृधो यासिषद्वज्रबाहुः ॥ ५ ॥
+
+> *vaha kutsam indra yasmiñ cākan syūmanyū ṛjrā vātasyāśvā |*
+> *pra sūraś cakraṃ vṛhatād abhīke 'bhi spṛdho yāsiṣad vajrabāhuḥ ‖ 5 ‖*
+
+**Pada-pāṭha**
+
+> वह । कुत्सम् । इन्द्र । यस्मिन् । चाकन् । स्यूमन्यू इति । ऋज्रा । वातस्य । अश्वा ।
+> प्र । सूरः । चक्रम् । वृहतात् । अभीके । अभि । स्पृधः । यासिषत् । वज्रऽबाहुः ॥ ५ ॥
+
+> *vaha | kutsam | indra | yasmin | cākan | syūmanyū iti | ṛjrā | vātasya | aśvā |*
+> *pra | sūraḥ | cakram | vṛhatāt | abhīke | abhi | spṛdhaḥ | yāsiṣat | vajra-bāhuḥ ‖ 5 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र कुत्समेतन्नामानमृषिं प्राप्तं स्यूमन्यू । स्यूमकमिति सुखनाम । तद्वन्तौ सततगामिनौ वा ऋज्रा ऋजुगामिनौ वातस्य वायोः समानवेगावश्वा तदीयावश्वौ वह । प्रस्थापय । यस्मिन् हविषि निमित्तभूते सति कुत्सं चाकन् कामयसे तर्पयसे वा हविरादिकं । तदर्थं सूरः प्रेरकः सूर्यश्चक्रं स्वमण्डलं स्वरथचक्रं वाभीके आसन्ने देशे वृहतात् । ऊर्ध्वं गमयतु । प्रकाशयतु । अथ परोक्षेणाह । वज्रबाहुरयमिन्द्रः स्पृधः संग्रामं कुर्वतः शत्रूनभि यासिषत् । अभियातु ॥ [?]
+
+> *he indra kutsam etannāmānam ṛṣiṃ prāptaṃ syūmanyū | syūmakam iti sukhanāma | tadvantau satatagāminau vā ṛjrā ṛjugāminau vātasya vāyoḥ samānavegāv aśvā tadīyāv aśvau vaha | prasthāpaya | yasmin haviṣi nimittabhūte sati kutsaṃ cākan kāmayase tarpayase vā havirādikaṃ | tadarthaṃ sūraḥ preraka sūryaś cakraṃ svamaṇḍalaṃ svarathacakraṃ vābhīke āsanne deśe vṛhatāt | ūrdhvaṃ gamayatu | prakāśayatu | atha parokṣeṇāha | vajrabāhur ayam indraḥ spṛdhaḥ saṃgrāmaṃ kurvataḥ śatrūn abhi yāsiṣat | abhiyātu ‖* [?]
+
+*Gist:* O Indra, bring to Kutsa, with whom you are pleased, your two swift horses, equal in speed to the wind; let the sun raise his disc near; and let Indra, thunderbolt in arm, advance against the enemies who fight.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *yasmin* — on account of which oblations and so on; (*kutsaṃ* — the sage called Kutsa;) *cākan* — you who wish (or satisfy); *kutsam* — the sage Kutsa; *syūmanyū* — those that wish for comfort, or those that move constantly; *ṛjrā* —
+
+---
+
+**Progress note:** printed p. 334 (PDF 354) done — Sūkta 174 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 335). Next: printed p. 335 (PDF 355). Open flags: Ṛk 5 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
