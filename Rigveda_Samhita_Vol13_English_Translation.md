@@ -1614,4 +1614,52 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 68 (PDF 88) done — Sūkta 166 Ṛk 14 complete up to the Special Topics (grammar done). Next: printed p. 69 (PDF 89): Ṛk 15 (last of Sūkta 166, triṣṭubh). Open flags: small-type numerals [?]; Ṛk 14 word 'ततनन्' vs bhāṣya 'ततेनन्' [?]; review/doubts_v13.json.
+### Printed p. 69  (PDF 89)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Vyākaraṇa-prakriyā (continued, noted briefly; sūtra numbers [?]).** *janāsaḥ* (*ājjaser asuk* Pā. 7-1-50 gives *asuk* to *jas*). *yajñebhiḥ* (*bahulaṃ chandasi* Pā. 7-1-10 makes the change of *bhis* to *ais* optional, so it does not come here; *bahuvacane jhaly et* gives *e*). *iṣṭim* (root *iṣa gatau*; *striyāṃ ktin* in the sense of the action; by *ṣṭutva* the *t* becomes *ṭ*; *jñityādir nityam* gives the initial acute). *aśyām* (root *aśū vyāptau*; *liṅ* 1st singular; *tasthasthamipāṃ tāmtamtāmaḥ* [Pā. 3-4-101] gives *am* for *mip*; by *vyatyaya* parasmaipada; *bahulaṃ chandasi* gives *luk* of *śap*; *yāsuṭ* is added to the suffix; as it is *yad*-connected no *nighāta*). ‖ 14 ‖
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> एष वः स्तोमो मरुत इयं गीर्मान्दार्यस्य मान्यस्य कारोः ।
+> एषा यासीष्ट तन्वे वयां विद्यामेषं वृजनं जीरदानुम् ॥ १५ ॥
+
+> *eṣa vaḥ stomo maruta iyaṃ gīrmāndāryasya mānyasya kāroḥ |*
+> *eṣā yāsīṣṭa tanve vayāṃ vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 15 ‖*
+
+**॥ पदपाठः ॥**
+
+> एषः । वः । स्तोमः । मरुतः । इयम् । गीः । मान्दार्यस्य । मान्यस्य । कारोः ।
+> आ । इषा । यासीष्ट । तन्वे । वयाम् । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ १५ ॥
+
+> *eṣaḥ | vaḥ | stomaḥ | marutaḥ | iyam | gīḥ | māndāryasya | mānyasya | kāroḥ |*
+> *ā | iṣā | yāsīṣṭa | tanve | vayām | vidyāma | iṣam | vṛjanam | jīra 'dānum ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> अयं मन्त्रस्तृतीयाध्यायान्ते व्याख्यातः । सूक्तोपक्रमप्रभृति क्रियमाणां स्तुतिं मरुद्भ्यः समर्प्य स्वाभीष्टमाशास्ते । हे मरुतः एष स्तोम इदानीं कृतं स्तोत्रं वो युष्माकं युष्मदर्थमित्यर्थः । तथेयं गीः स्तुतिरूपा वागपि वो युष्माकम् । कस्य सम्बन्धीदमिति तदुच्यते । मान्दार्यस्य । मन्दतेरीयतेश्च मान्दार्यः । स्तुतिं प्रेरयतो मान्यस्य माननार्हस्य कारोः स्तोत्रकर्तुः । स्तोत्रैनान्येतत् [?] । स्तोतुः सम्बन्धि । यद्वा । एतत्पदत्रयमुत्तरत्र सम्बध्यते ।
+
+> *ayaṃ mantrastṛtīyādhyāyānte vyākhyātaḥ | sūktopakramaprabhṛti kriyamāṇāṃ stutiṃ marudbhyaḥ samarpya svābhīṣṭamāśāste | he marutaḥ eṣa stoma idānīṃ kṛtaṃ stotraṃ vo yuṣmākaṃ yuṣmadarthamityarthaḥ | tatheyaṃ gīḥ stutirūpā vāgapi vo yuṣmākam | kasya sambandhīdamiti taducyate | māndāryasya | mandaterīyateśca māndāryaḥ | stutiṃ prerayato mānyasya mānanārhasya kāroḥ stotrakartuḥ | stotrainānyetat [?] | stotuḥ sambandhi | yadvā | etatpadatrayamuttaratra sambadhyate |*
+
+### Printed p. 70  (PDF 90)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Bhāṣya (continued from p. 69):**
+
+> उक्तलक्षणस्तोतुरिष्टेच्छया कामनया तन्वे युष्मच्छरीरवृद्ध्यै । स्तुत्या हि शरीरं वर्धते । आ यासीष्ट । अभिगच्छतु स्तुतिः । वयां वयं चेषमन्नं वृजनं बलं जीरदानुं चिरकालजीवनं च विद्याम । लभेमहि ॥
+
+*Gist:* This ṛk was explained at the end of the third adhyāya. Presenting the praise made since the beginning of the Sūkta to the Maruts, the poet asks for his wish: may the praise of the honoured praiser, who is a delight-giver by his praise, reach you for your bodily growth, and may we obtain food, strength and long life.
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; *eṣaḥ* — this (what has been made so far); *stomaḥ* — praise; *vaḥ* — to you (to please you); *iyaṃ gīḥ* — this speech of praise; *vaḥ* — to you (therefore); *māndāryasya* — who gives you delight by praise; *mānyasya* — worshipful (by giving boons, by [your] honouring); *kāroḥ* — of the praiser; *iṣā* — with desire; *tanve* — for the body (for its nourishment); *ā yāsīṣṭa* — may it come; *vayām* — we; *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain.
+
+**Bhāvārtha.** O Marut-gods, may the praise made so far, and this speech [being uttered] now, give you satisfaction; and, by the wish of the praiser, who delights you with praise and who is worshipful, may it come to you for the nourishing of your bodies; (and having come) may you grant us food, strength and a long life.
+
+**English Translation (as printed):** This praise, Maruts, is for you: this hymn is for you; (the work) of a venerable author, capable of conferring delight (by his laudationi [sic]): may the praise reach you (for the good of your) persons, so that we may thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu).** In this last ṛk of the Sūkta the ṛṣi offers the praise to the deities and prays for their grace in the form of food, strength, long life, and — beginning with victory — the like; this prayer is made. This ṛk is read again at the end of the previous Sūkta, that is, in 1-165 [?], and in the Sūktas 1-166 [?]; 1-167 [?]; 1-168 [?]. Besides this, the sentence of the last pāda of this ṛk, *vidyāmeṣaṃ vṛjanaṃ jīradānum*, is read again in many of the following Sūktas seen by this ṛṣi.
+
+***māndāryasya*** — *mandater īyateś ca māndāryaḥ*: "the praiser of you who impels you with hymns", is the meaning.
+
+---
+
+**Progress note:** printed p. 70 (PDF 90) done — Sūkta 166 Ṛk 15 in progress (Special Topics: māndāryasya; continues on p. 71). Next: printed p. 71 (PDF 91). Open flags: small-type numerals [?]; review/doubts_v13.json.
