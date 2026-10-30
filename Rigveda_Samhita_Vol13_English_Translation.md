@@ -10752,4 +10752,70 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 ---
 
-**Progress note:** printed p. 404 (PDF 424) done — Sūkta 176 Ṛk 2 Special Topics (carṣaṇi, svadhā; Max Müller quotation; continues p. 405). Next: printed p. 405 (PDF 425). Open flags: Ṛg/Nirukta refs [?]; Max Müller quote reproduced as printed (Kannada-set Sanskrit words); review/doubts_v13.json.
+### Printed p. 405  (PDF 425)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+> प्र सु ष विभ्यो मरुतो विरस्तु प्र श्येनः श्येनेभ्य आशुपत्वा । अचक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टम् ॥
+
+> *pra su ṣa vibhyo maruto viras tu pra śyenaḥ śyenebhya āśupatvā | acakrayā yat svadhayā suparṇo havyaṃ bharan manave devajuṣṭam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 4-26-4 [?]) — in this ṛk, explaining this word, Sāyaṇa says "here the word *svadhā* means *rasa* (essence)", and, to support this meaning —
+
+> अपश्यं ग्रामं वहमानमाराद चक्रया स्वधया वर्तमानम् । सिषक्त्यर्यः प्र युगा जनानां सद्यः शिश्ना प्रमिनानो नवीयान् ॥
+
+> *apaśyaṃ grāmaṃ vahamānam ārād acakrayā svadhayā vartamānam | siṣakty aryaḥ pra yugā janānāṃ sadyaḥ śiśnā praminān o navīyān ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-27-19 [?]) — quoting this ṛk, he says "*atra svadhāśabdo rathavācī*; 10-27-19 [?] *ity ādau darśanāt*" — "here the word *svadhā* means 'chariot', since it is so seen in 10-27-19 and elsewhere": as in the ṛk quoted, so in this ṛk (4-26-4 [?]) also he takes *svadhā* to mean "chariot". But again, in explaining the ṛk 10-27-19, he says "*acakrayā cakravarjitayā rathahīnayā, svadhayā — svayam ūtātmānaṃ dhārayantyā senayā*" and gives the meaning "army" for the word *svadhā*. Although the many meanings of the word *svadhā* are thus indicated in this context, the sentence of the bhāṣya mentioned earlier seems to have been forgotten here.
+
+***svadhām anu; anu svadhām*** — where these usages occur they naturally mean "by nature" (*svabhāvataḥ*) or "according to custom". For example —
+
+> स्वधामनु श्रियं नरो महि त्वेषा अमवन्तो वृषप्सवः । वहन्ते अह्रुतप्सवः ॥
+
+> *svadhām anu śriyaṃ naro mahi tveṣā amavanto vṛṣapsavaḥ | vahante ahrutapsavaḥ ‖*
+
+(Ṛ. Saṃ. 8-20-7 [?]) — in such ṛks it means "naturally". In Ṛ. Saṃ. 7-35-13 [?] and other places it is learned to mean "water" (*udaka*).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***veśaya*** — root *viśa praveśane*; to show the instigator's activity, by "*hetumati ca*" (Pā. Sū. 3-1-26 [?]) the suffix *ṇic*; after the *ṇijanta*, *loṭ*, second person singular; *nighāta* for a *tiṅ*; Vedically the long vowel in the Saṃhitā.
+- ***carṣaṇīnām*** — root *kṛṣa vilekhane*; by "*kṛṣer ādeś ca caḥ*" (Uṇ. Sū. 2-… [?]) the suffix *ani*, with *ca* substituted at the beginning; by "*pugantalaghūpadhasya ca*" guṇa for the light penultimate of the root; genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-… [?], sūtra name as read, doubtful) the *nām* takes *udātta* accent.
+
+### Printed p. 406  (PDF 426)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+- ***upyate*** — root *ḍuvapḷ bījasaṃtāne*; *laṭ* in the passive; third person singular; because of the relative (*yadyoga*), no *nighāta*; the *la* *sārvadhātuka* being *anudātta* (by "*tāsyanudāttet*…"), the *yak* accent remains.
+- ***cakṛṣat*** — root *kṛṣa vilekhane*; after *yaṅ luk*, reduplication of the root; by "*ādihal-śeṣa*" the first consonant remains; *ca* for *ka*; and "*rugrikau ca luki*" (Pā. Sū. 7-4-91 [?]) the augment *ruk* for the reduplicative syllable; *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ parasmaipadeṣu*" (Pā. Sū. 3-4-97 [?]) the *i* is dropped; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *a*; by "*adiprabhṛtibhyaḥ śapaḥ*" (Pā. Sū. 2-4-72 [?]) *luk* for *śap*; by "*nābhyastasyācīti piti*" (Pā. Sū. 7-3-87 [?]) the guṇa of the light penultimate vowel is prohibited; by "*abhyastānām ādiḥ*" (Pā. Sū. 6-1-189 [?]) the first syllable is *udātta*. ‖ 2 ‖
+
+---
+
+**Sūkta 176, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> यस्य विश्वानि हस्तयोः पञ्च क्षितीनां वसु ।
+> स्पाशयस्व यो अस्मध्रुग्दिव्येवाशनिर्जहि ॥ ३ ॥
+
+> *yasya viśvāni hastayoḥ pañca kṣitīnāṃ vasu |*
+> *spāśayasva yo asmadhrug divyevāśanir jahi ‖ 3 ‖*
+
+**Pada-pāṭha**
+
+> यस्य । विश्वानि । हस्तयोः । पञ्च । क्षितीनाम् । वसु ।
+> स्पाशयस्व । यः । अस्मध्रुक् [?] । दिव्याऽइव । अशनिः । जहि ॥ ३ ॥
+
+> *yasya | viśvāni | hastayoḥ | pañca | kṣitīnām | vasu |*
+> *spāśayasva | yaḥ | asmadhruk [?] | divyā-iva | aśaniḥ | jahi ‖ 3 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> यस्येन्द्रस्य हस्तयोः पञ्च क्षितीनां । क्षियन्ति निवसन्ति गच्छन्ति वा क्षितयो मनुष्याः । पञ्चानां मनुष्याणां प्रीणयित्रीणि विश्वानि सर्वाणि वसु वसूनि धृतानि भवन्ति । देवा मनुष्याः पितरः पशवः पक्षिणश्चेति पञ्च जनाः । चत्वारो वर्णा निषादपञ्चमाः पञ्च जना इत्यन्ये । स तादृशेन्द्र त्वं स्पाशयस्व । बाधस्व । योऽस्मद्ध्रुक् अस्मभ्यं द्रुह्यति तं । केन प्रकारेणेति स उच्यते । दिव्या दिवि भवाशनिरिवाशनिर्भूतात्मास्मद्द्वेष्टारं जहि ॥ [?]
+
+> *yasyendrasya hastayoḥ pañca kṣitīnāṃ | kṣiyanti nivasanti gacchanti vā kṣitayo manuṣyāḥ | pañcānāṃ manuṣyāṇāṃ prīṇayitrīṇi viśvāni sarvāṇi vasu vasūni dhṛtāni bhavanti | devā manuṣyāḥ pitaraḥ paśavaḥ pakṣiṇaś ceti pañca janāḥ | catvāro varṇā niṣādapañcamāḥ pañca janā ity anye | sa tādṛśendra tvaṃ spāśayasva | bādhasva | yo 'smaddhruk asmabhyaṃ druhyati taṃ | kena prakāreṇeti sa ucyate | divyā divi bhavāśanir ivāśanir bhūtātmāsmaddveṣṭāraṃ jahi ‖* [?]
+
+*Gist:* Indra, in whose two hands all the wealth that delights the five peoples is held (the five: gods, men, fathers, animals, birds; or the four castes with the Niṣādas as fifth) — repress whoever does harm to us, striking him like the heavenly thunderbolt.
+
+---
+
+**Progress note:** printed p. 406 (PDF 426) done — Sūkta 176 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya (Pratipadārtha continues p. 407). Next: printed p. 407 (PDF 427). Open flags: Ṛk 3 Pada 'asmadhruk' [?]; Ṛg refs [?]; sūtra numerals [?]; review/doubts_v13.json.
