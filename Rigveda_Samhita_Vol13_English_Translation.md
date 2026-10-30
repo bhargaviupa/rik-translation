@@ -459,4 +459,88 @@ Besides this:
 
 ---
 
-**Progress note:** printed p. 22 (PDF 42) done — Sūkta 166 Ṛk 4 Special Topics (harmyā) complete up to the Ṛgvedic examples; the page may continue on p. 23. Next: printed p. 23 (PDF 43). Open flags: small-type reference numerals [?]; see review/doubts_v13.json.
+### Printed p. 23  (PDF 43)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)* **Special Topics (continued: *harmyā*).**
+
+> स शेवृधो जात आ हर्म्येषु नाभिर्युवा भवति रोचनस्य ।
+
+> *sa śevṛdho jāta ā harmyeṣu nābhiryuvā bhavati rocanasya |*
+
+(Ṛ. Saṃ. 10-46-3) — in this, "Agni is born in houses (that is, he who bears fire in houses)": the word *harmya* denotes the sense "house".
+
+> मन्योरियाय हर्म्येषु तस्थौ यतः प्रजज्ञ इन्द्रो अस्य वेद ।
+
+> *manyoriyāya harmyeṣu tasthau yataḥ prajajña indro asya veda |*
+
+(Ṛ. Saṃ. 10-63-10 [?]) — here (Indra) came from [the effect of] anger and stood in the house; so here too the sense is house.
+
+At some places the word *harmya* denotes "one who lives in a house", but since in Ṛ. Saṃ. 7-55-6 [?] it is clearly said to be a house or a building (English "building"), it cannot be that this word has any other kind of meaning; yet the use of this word is found also in the sense "pit".
+
+> यदीं सुक्षत्र प्रभृता मदस्य युयुत्सन्तं तमसि हर्म्य धाः ।
+
+> *yadīṃ sukṣatra prabhṛtā madasya yuyutsantaṃ tamasi harmya dhāḥ |*
+
+(Ṛ. Saṃ. 5-32-5 [?]) — in this ṛk ("O Indra, you have thrown the Asura Śuṣṇa, who desired to fight, into the pit [*harmya*] with darkness") the sense is pit;
+
+> युवं कण्वायापिरिप्ताय हर्म्ये शश्वदूतीर्दशस्यथः ।
+
+> *yuvaṃ kaṇvāyāpiriptāya harmye śaśvadūtīrdaśasyathaḥ |*
+
+(Ṛ. Saṃ. 8-5-23 [?]) — in this ṛk ("O Nāsatyas, you gave help to the sage Kaṇva, cast by the asuras into the pit") the word *harmya* is also used in the sense "pit";
+
+> श्रमस्य दायं वि भजन्त्येभ्यो यदा यमो भवति हर्म्ये हितः ।
+
+> *śramasya dāyaṃ vi bhajantyebhyo yadā yamo bhavati harmye hitaḥ |*
+
+(Ṛ. Saṃ. 10-114-10 [?]) — in this ṛk ("when Yama is sitting in his house or in the lower world") it is used in the sense of "house" or "lower world". Besides this, the word *gharma* in the ṛks Ṛ. Saṃ. 1-112-7 [?]; 1-117-6 [?]; 8-63-3 [?]; 10-80-3 [?] indicates, too, the Ṛṣi Atri having been cast into a pit possessed of fire-flame.
+
+### Printed p. 24  (PDF 44)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?] where small).** *taviṣībhiḥ* (root *tava*, *sautra*; *ṭiṣac* by *tavernirdvā* Uṇ. 1-[?]; *ṭit* so *ṅīp* in the feminine by *ṭiḍḍhāṇañ…* [Pā. 4-1-15]; initial acute by the suffix; instrumental plural). *avyata* (root *vī* etc.; *laṅ*/*luṅ* [?] in the present sense by *chandasi*; ātmanepada by *vyatyayo bahulam*; *śap* dropped; *jhi* → *ata*; *yaṇ*-substitution; the *aṭ* augment comes first; as it is a *yuṣmad*-connection no *nighāta*; initial acute). *evāsaḥ* (root *iṇ gatau*; *vanip* by *iṇ śībhyāṃ van* Uṇ. 1-[?]; guṇa; initial acute as *nit*; *jas*, *asuk* by *ājjaser asuk* Pā. 7-1-50). *svayatāsaḥ* (*svayaṃ yataḥ yeṣāṃ te*; *bahuvrīhau prakṛtyā pūrvapadam*). *adhrajan* (root *dhraja gatau*; *laṅ* in the present sense by *chandasi*; 3rd plural; *nighāta* after a *tiṅanta*). *bhayante* (root *ñibhī bhaye*; ātmanepada by *vyatyaya*; *laṭ* 3rd plural; *jhoʼntaḥ* gives *ant*; *śap* → *śluk* is not applied; guṇa, *ay*-substitution; pāda-initial so no *nighāta*; *tāsyanudāttet* — the root accent remains). *viśvā, harmyā* (neuter plural: *śeśchandasi bahulam* — elision of *śi*). *citraḥ* (root *ciñ cayane*; *ktra*/*ran* by *amicimidi…* Uṇ. 4-[?]; as *kit* no guṇa; final acute by the suffix). *prayatāsu* (*gatir anantaraḥ* Pā. 6-2-49 [?]: the *kta*-ending is followed by the *gati* so the *gati* keeps its own accent; locative plural). *yāmaḥ* (root *yā prāpaṇe*; *man* by *arti-stu-…* Uṇ. 1-[?]; initial acute as *nit*). ‖ 4 ‖
+
+#### Ṛk 5
+
+### Printed p. 25  (PDF 45)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 1".)*
+
+**॥ संहितापाठः ॥**
+
+> यत्त्वेषयामा नदयन्त पर्वतान् दिवो वा पृष्ठं नर्या अचुच्यवुः ।
+> विश्वो वो अज्मन् भयते वनस्पती रथीयन्तीव प्र जिहीत ओषधिः ॥ ५ ॥
+
+> *yattveṣayāmā nadayanta parvatān divo vā pṛṣṭhaṃ naryā acucyavuḥ |*
+> *viśvo vo ajman bhayate vanaspatī rathīyantīva pra jihīta oṣadhiḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> यत् । त्वेषऽयामाः । नदयन्त । पर्वतान् । दिवः । वा । पृष्ठम् । नर्याः । अचुच्यवुः ।
+> विश्वः । वः । अज्मन् । भयते । वनस्पतिः । रथीयन्तीऽइव । प्र । जिहीते । ओषधिः ॥ ५ ॥
+
+> *yat | tveṣa 'yāmāḥ | nadayanta | parvatān | divaḥ | vā | pṛṣṭham | naryāḥ | acucyavuḥ |*
+> *viśvaḥ | vaḥ | ajman | bhayate | vanaspatiḥ | rathīyantī 'iva | pra | jihīte | oṣadhiḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> मरुतस्त्वेषयामाः प्रदीप्तगमना यद्यदा पर्वतान् पर्ववतो गिरीर्गह्वराणि पूरकान्मेघान्वा नदयन्त नादयन्ति । अथ वा दिवो विद्योतनात्मकस्यान्तरिक्षस्य पृष्ठमुपरिभागं नर्या नरेभ्यो हिता अचुच्यवुः गच्छन्ति तदा वो युष्मत्संबन्धिन्यज्मन् गमने निमित्तभूते सति विश्वो वनस्पतिर्वनस्य पालयिता वृक्षसमूहो भयते । बिभेति । तथौषधिः प्रियङ्गुव्रीह्यादिः प्र जिहीते । प्रकर्षेण गच्छति । स्वस्थानादितस्ततश्चलतीत्यर्थः । तत्र दृष्टान्तः । रथीयन्तीव । रथमात्मन इच्छन्ती स्त्री । रथारूढेत्यर्थः । तादृशी स्त्रीव सा यथा चलति तद्वत् ॥
+
+*Gist:* When the brightly-going Maruts make the mountains (or clouds) resound and pass over the back of the sky, the whole forest-lord (tree-host) fears at your going, and the herbs (priyaṅgu, rice and the like) move off from their places, like a woman who has set her mind on a chariot, riding in it.
+
+**Pratipadārtha.** *tveṣayāmāḥ* — brilliant Marut-gods; *yat* — when; *parvatān* — mountains, or clouds; *nadayanta* — they make them echo; *vā* — or; *divaḥ* — of the sky; *pṛṣṭham* — the upper part; *naryāḥ* — for the good of men; *acucyavuḥ* — they pervade; (*tadā* — then); *vaḥ* — your; *ajman* — at the time of going; *viśvaḥ vanaspatiḥ* — all trees; *bhayate* — are afraid; (*tathā* — likewise); *oṣadhiḥ* — crops and the like; *rathīyantī iva* — like a woman riding in a chariot; *pra jihīte* — (from their place) move about greatly.
+
+### Printed p. 26  (PDF 46)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Bhāvārtha.** O Maruts, your brilliant horses make the mountains resound and, for the good of men, pervade the upper part of the sky; thus, at the time of your journeying, all trees shake with fear; creepers, grasses and the like sway here and there like a woman riding in a chariot.
+
+**English Translation (as printed):** When your brilliant coursers make the mountains echo; and friendly to man, traverse the summit of the firmament; then all the forest lords are alarmed at your approach, and the bushes wave to and fro, as a woman in a chariot.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***tveṣayāmāḥ*** — *pradīptagamanāḥ*: those of fearful going. When the wind blows with force it causes fear to everyone, chiefly to trees and houses and the like; the purport is that. For trees, with their trunks, are rolled over by the quick-blowing strong wind; houses, and the roofs of them, are thrown far; the small tender crops and plants are tossed here and there. Since [the wind] does so much harm, the going of the Maruts (the wind blowing with force) is described here as very fearful. The scholar Wilson has explained this word as "the horses of the Maruts"; there seems to be no proper reason for explaining it so.
+
+***nadayante*** — the root *nad* means "make sound, resound". In this ṛk the word *parvata*, used here, can be given two kinds of meaning: *parvata* is cloud (Ni. 1-20 [?]) or hill (Ni. 1-10 [?]). If the meaning "cloud" is taken, it must be said that the wind makes the clouds thunder; if the meaning "hill" is taken, that the wind blowing swiftly in mountain gorges and in caves makes a sound. Wilson explains it thus: when the horses of the Maruts go swiftly, the mountains and the like make an echo. But the root *nad* has first the meanings "to tremble, to move, to shake" (English: to vibrate, to shake) and, in course of time, the sense "to make a sound" appears to have come about in usage. Explaining the meaning of this ṛk from this point of view, it is implied that all people and trees and the like walk in fear at the coming of the Maruts; the sentence in the second half of this ṛk, *viśvo vo ajman bhayate vanaspatiḥ*, makes this clear.
+
+---
+
+**Progress note:** printed p. 26 (PDF 46) done — Sūkta 166 Ṛk 5 in progress (Special Topics: nadayante; continues on p. 27). Next: printed p. 27 (PDF 47). Open flags: small-type reference numerals [?]; review/doubts_v13.json.
