@@ -6,4 +6,3 @@ Status: **not started.** Scan not yet in the repo (upload to `vol14/scans/`). LE
 - Scan: parts / pages / ppi: ?
 - Page offset (printed = PDF − k): ?  Front matter offset: ?
 - Content (Maṇḍala / Aṣṭaka / Adhyāya / Sūktas): ?
-- Sūkta start pages and Ṛk counts: ?
