@@ -4834,5 +4834,29 @@
   ],
   "note": "grammar sutra numerals small; 'madhyama' for mrlatu as printed",
   "answer": ""
+ },
+ {
+  "pdf": 511,
+  "printed": 491,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk6 first line garbled (dvitiyayo sukte sasthyante...; mudgaruh; apakena sadhanam)",
+  "answer": ""
+ },
+ {
+  "pdf": 512,
+  "printed": 492,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brh.De 5-149..154 & Ni 5-13 & Rg 7-36-2? refs small; 'matsya' in verse printed",
+  "answer": ""
  }
 ]
