@@ -11016,4 +11016,89 @@ In such contexts it suggests not merely that they are praisers but the extraordi
 
 ---
 
-**Progress note:** printed p. 412 (PDF 432) done — Sūkta 176 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (dūṇāśa, sūri; continues p. 413 if any, then grammar). Next: printed p. 413 (PDF 433). Open flags: Ṛk 4 bhāṣya 'sarvānudāttaḥ' sentence [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 413  (PDF 433)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+*(The print resumes in the middle of a quoted ṛk; the first half of the ṛk is not printed at the foot of p. 412 or here: [print gap?])*
+
+> … मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ॥
+
+> *… maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai ‖* [as printed: [?]]
+
+(Ṛ. Saṃ. 1-61-3 [?]) — in such ṛks, by the word *vipaścitam indram*, the wisdom of Indra and the other deities is shown. Besides this, the word *sūri* is also used where the meaning "lord" (*prabhu*), "impeller" (*preraka*), "one who sets on the right path" (*sanmārgapravartaka*) is suggested. For example —
+
+> जनो यः पज्रेभ्यो वाजिनीवाँ अश्वावतो रथिनो मह्यं सूरिः ।
+
+> *jano yaḥ pajrebhyo vājinīvāṃ aśvāvato rathino mahyaṃ sūriḥ |*
+
+(Ṛ. Saṃ. 1-122-8 [?]);
+
+> असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ।
+
+> *asad yathā jaritra uta sūrir indro rāyo viśvavārasya dātā |*
+
+(Ṛ. Saṃ. 6-23-10 [?]);
+
+> मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ।
+
+> *muhyantv anye abhito janāsa ihāsmākaṃ maghavā sūrir astu |*
+
+(Ṛ. Saṃ. 10-83-6 [?]) —
+
+in these and similar contexts, this epithet is used of deities who are lords and guides along the right path, and describes the qualities of Indra and the others.
+
+> आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ।
+
+> *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathād īṣate vayaḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-141-8 [?]) — in some such places only does it have the meaning "path" (*mārga*).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***asunvantam*** — root *ṣuñ abhiṣave*; *śatṛ* for *laṭ*; since it is a *naña tatpuruṣa* compound, by "*tatpuruṣe tulyārtha*…" (Pā. Sū. 6-2-2 [?]) the *naña* fore-member keeps its natural accent.
+- ***samum*** — this word *sama*, in the sense of "all" (*sarvārthaka*), is *sarvānudātta*.
+- ***vedanam*** — root *vidḷ lābhe*; the suffix *lyuṭ*; by "*yuvor anākau*" the substitution *ana* for *yu*; because of it, guṇa of the light penultimate; by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix takes *udātta* accent.
+- ***daddhi*** — root *dada dāne*, *bhvādi*; by "*vyatyayo bahulam*" it takes the *parasmaipada*; *loṭ*, second person singular, *hi* for *sip*; by "*bahulaṃ chandasi*" *luk* for *śap*; since it ends in a *jhal* letter, by "*hurjhalbhyo herdhiḥ*" (Pā. Sū. 6-4-101 [?]) *dhi* for *hi*; because it is in *pādādi* position, no *nighāta*; since the suffix is prescribed as *apit*, the end syllable is *udātta*.
+
+### Printed p. 414  (PDF 434)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+- ***ohate*** — root *vaha prāpaṇe*; *laṭ*, third person singular; by "*bahulaṃ chandasi*" *saṃprasāraṇa* occurs; since it stands after a *tiṅ* [as read: *ati…* [?]], *nighāta* accent. ‖ 4 ‖
+
+---
+
+**Sūkta 176, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> आवो यस्य द्विबर्हसोऽर्केषु सानुषगसत् ।
+> आजाविन्द्रस्येन्दो प्रावो वाजेषु वाजिनम् ॥ ५ ॥
+
+> *āvo yasya dvibarhaso 'rkeṣu sānuṣag asat |*
+> *ājāv indrasyendo prāvo vājeṣu vājinam ‖ 5 ‖*
+
+**Pada-pāṭha**
+
+> आवः । यस्य । द्विऽबर्हसः । अर्केषु । सानुषक् । असत् ।
+> आजौ । इन्द्रस्य । इन्दो इति । प्र । आवः । वाजेषु । वाजिनम् ॥ ५ ॥
+
+> *āvaḥ | yasya | dvi-barhasaḥ | arkeṣu | sānuṣak | asat |*
+> *ājau | indrasya | indo iti | pra | āvaḥ | vājeṣu | vājinam ‖ 5 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्दो सोम तव यस्य द्विबर्हसः स्तोत्रहवीरूपद्विविधपरिवृढकर्मवतो यजमानस्यार्केषु मन्त्रेषु सानुषक् सानुषङ्गः सातत्यमसत् भवेत् तमावः । तं यजमानं रक्षसि तर्पयसि वा । यद्वा ॥ कर्मणि षष्ठी ॥ यं द्वयोः स्थानयोः परिवृढं यमिन्द्रं हे इन्दो यदार्केषु सानुषगसत् भवेः तदावः । अरक्षः । अतर्पयो वा । तस्यैवेन्द्रस्याजौ संग्रामे हे सोम वाजिनं तथान्नवन्तं तमिन्द्रं वाजेषु बलेष्वन्नेषु वा निमित्तभूतेषु प्रावः । प्रकर्षेणारक्षयः । पानसमये तर्पयित्वा संग्रामसमये बलवर्धनेन जयप्राप्तशक्तिधनतर्पणेन वारक्षः इत्यर्थः ॥ [?]
+
+> *he indo soma tava yasya dvibarhasaḥ stotrahavīrūpadvividhaparivṛḍhakarmavato yajamānasyārkeṣu mantreṣu sānuṣak sānuṣaṅgaḥ sātatyam asat bhavet tam āvaḥ | taṃ yajamānaṃ rakṣasi tarpayasi vā | yadvā ‖ karmaṇi ṣaṣṭhī ‖ yaṃ dvayoḥ sthānayoḥ parivṛḍhaṃ yam indraṃ he indo yadārkeṣu sānuṣag asat bhaveḥ tadāvaḥ | arakṣaḥ | atarpayo vā | tasyaivendrasyājau saṃgrāme he soma vājinaṃ tathānnavantaṃ tam indraṃ vājeṣu baleṣv anneṣu vā nimittabhūteṣu prāvaḥ | prakarṣeṇārakṣayaḥ | pānasamaye tarpayitvā saṃgrāmasamaye balavardhanena jayaprāptaśaktidhanatarpaṇena vārakṣaḥ ity arthaḥ ‖* [?]
+
+*Gist:* O Soma, you protect and satisfy the sacrificer whose mantras are constantly joined with your praise and oblations; or, O Soma, you strengthen Indra, the lord of both worlds, in battle, by satisfying him at the time of drinking and increasing his strength for the fight.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indo* — O Soma juice; *dvibarhasaḥ* — endowed with devotion (to Indra) in the twofold form of praise and oblation; *yasya* — which sacrificer; *arkeṣu* — in the mantras; *sānuṣak* — (of the praise and the oblations) connected without a break (always); *asat* — is; (*tam* — him also); *āvaḥ* — you protect. Or (*he*) *indo* — O Soma juice; *yadā* — when; *arkeṣu* — in the mantras; *sānuṣak* — joined; *asat* — you were; (*tadā* — then) *dvibarhasaḥ* — of the two worlds, heaven and earth, the lord; *yasya* — which Indra; *āvaḥ* —
+
+---
+
+**Progress note:** printed p. 414 (PDF 434) done — Sūkta 176 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 415). Next: printed p. 415 (PDF 435). Open flags: p. 413 start mid-ṛk (print gap?) [?]; Ṛk 5 bhāṣya partly doubtful [?]; Ṛg refs [?]; review/doubts_v13.json.
