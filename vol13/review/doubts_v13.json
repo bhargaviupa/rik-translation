@@ -2110,5 +2110,29 @@
   ],
   "note": "grammar notes sutra numerals small",
   "answer": ""
+ },
+ {
+  "pdf": 283,
+  "printed": 263,
+  "crop": [
+   0.2,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya tail: krno chandasi... luk / jitvad guna sentence read approx; 'tavi sugmyah'",
+  "answer": ""
+ },
+ {
+  "pdf": 284,
+  "printed": 264,
+  "crop": [
+   0.45,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs for cyautna quotes (8-.., 6-18-8) small; Nirukta refs 2-9, 3-9",
+  "answer": ""
  }
 ]
