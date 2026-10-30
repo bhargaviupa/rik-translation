@@ -1,0 +1,464 @@
+{
+"rows": [
+{
+"id": "282_6",
+"printed": 282,
+"pdf": 301,
+"file": "4-13",
+"ctx": "upa pra jinvann iti tisraḥ kā te upetir iti sūkte | ā. 4-13 iti || aś",
+"tess": "೪-೧೩|",
+"prop": "4-13",
+"box": [
+1361,
+1906,
+101,
+34
+],
+"region": false,
+"filled": false
+},
+{
+"id": "282_7",
+"printed": 282,
+"pdf": 301,
+"file": "6-5",
+"ctx": "yaṃ gāyatram upasaṃtanuyāt | prātaranuvākanyāyena | ā. 6-5 iti ||*  ",
+"tess": "೬.೫॥",
+"prop": "6-5",
+"box": [
+1294,
+2044,
+84,
+33
+],
+"region": false,
+"filled": false
+},
+{
+"id": "285_0",
+"printed": 285,
+"pdf": 304,
+"file": "3-13",
+"ctx": "f the house, *gayaḥ*, *kṣayaḥ*, *durāḥ* and so on (Ni. 3-13); and the",
+"tess": "೩-೧೩)",
+"prop": "3-13",
+"box": [
+1806,
+2022,
+99,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "285_4",
+"printed": 285,
+"pdf": 304,
+"file": "3-9",
+"ctx": "is read among the twenty-two names of the fingers (Ni. 3-9); hence i",
+"tess": "(೩-೯)",
+"prop": "3-9",
+"box": [
+1718,
+2585,
+92,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "286_1",
+"printed": 286,
+"pdf": 305,
+"file": "1-62-10",
+"ctx": "*' — thus the śruti (*iti śruteḥ*). When explaining Ṛk 1-62-10, Sāyaṇa i",
+"tess": "೧-೬೨-೧೦",
+"prop": "1-62-10",
+"box": [
+1654,
+1004,
+162,
+24
+],
+"region": false,
+"filled": false
+},
+{
+"id": "286_2",
+"printed": 286,
+"pdf": 305,
+"file": "4-5-5",
+"ctx": "yoṣaṇo vyantaḥ patiripo na janayo durevāḥ |* (Ṛk. Saṃ. 4-5-5)    > अनश",
+"tess": "೪-೫-೫).",
+"prop": "4-5-5",
+"box": [
+1718,
+1440,
+140,
+45
+],
+"region": false,
+"filled": false
+},
+{
+"id": "286_3",
+"printed": 286,
+"pdf": 305,
+"file": "10-18-7",
+"ctx": "mīvāḥ suratnā ā rohantu janayo yonim agre |* (Ṛk. Saṃ. 10-18-7)    In pl",
+"tess": "೧೦-೧೮-೭).",
+"prop": "10-18-7",
+"box": [
+1668,
+1587,
+188,
+44
+],
+"region": false,
+"filled": false
+},
+{
+"id": "286_4",
+"printed": 286,
+"pdf": 305,
+"file": "6-22",
+"ctx": "e second.)* - **जिन्वन्** — *jinvatiḥ prītikarmā* (Ni. 6-22) — \"It is",
+"tess": "೬-೨೨).",
+"prop": "6-22",
+"box": [
+1903,
+1848,
+112,
+45
+],
+"region": false,
+"filled": false
+},
+{
+"id": "286_5",
+"printed": 286,
+"pdf": 305,
+"file": "6-22",
+"ctx": "ple of a pleasing that causes joy and nourishment (Ni. 6-22), the Ṛk ",
+"tess": "೬-೨೨)",
+"prop": "6-22",
+"box": [
+741,
+2185,
+103,
+44
+],
+"region": false,
+"filled": false
+},
+{
+"id": "286_6",
+"printed": 286,
+"pdf": 305,
+"file": "1-164-51",
+"ctx": " parjanyā jinvanti divaṃ jinvanty agnayaḥ |* (Ṛk. Saṃ. 1-164-51)      'Th",
+"tess": "೧-೧೬೪-೫೧).",
+"prop": "1-164-51",
+"box": [
+1531,
+2343,
+210,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "287_1",
+"printed": 287,
+"pdf": 306,
+"file": "1-92-6",
+"ctx": "n of the word *ucchantīm* see the Special Topics of Ṛk 1-92-6.)\"  **॥ व",
+"tess": "೧-೯೨-೬",
+"prop": "1-92-6",
+"box": [
+1021,
+898,
+137,
+23
+],
+"region": false,
+"filled": false
+},
+{
+"id": "290_1",
+"printed": 290,
+"pdf": 309,
+"file": "7-6-3",
+"ctx": " agnir vivāya pūrvaś cakārāparāṃ ayajyūn ||* (Ṛk. Saṃ. 7-6-3)    In th",
+"tess": "೭-೬-೩)",
+"prop": "7-6-3",
+"box": [
+1785,
+1449,
+123,
+41
+],
+"region": false,
+"filled": false
+},
+{
+"id": "290_2",
+"printed": 290,
+"pdf": 309,
+"file": "3-9",
+"ctx": "u* is read among the twenty-two names of strength (Ni. 3-9), the wor",
+"tess": "೩-೯)",
+"prop": "3-9",
+"box": [
+1922,
+1672,
+78,
+41
+],
+"region": false,
+"filled": false
+},
+{
+"id": "290_3",
+"printed": 290,
+"pdf": 309,
+"file": "4-4",
+"ctx": "रिम्** — *adrir ādṛṇāty anena, api vā atteḥ syāt* (Ni. 4-4) — \"the N",
+"tess": "(ಥಿ.೪-೪)ತಿನ್ನು",
+"prop": "4-4",
+"box": [
+1468,
+2035,
+198,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "290_4",
+"printed": 290,
+"pdf": 309,
+"file": "1-51-3",
+"ctx": "dāyāvaho vasvājāvadriṃ vāvasānasya nartayan* (Ṛk. Saṃ. 1-51-3)    *adri",
+"tess": "೧-೫೧-೩)",
+"prop": "1-51-3",
+"box": [
+1767,
+2364,
+143,
+49
+],
+"region": false,
+"filled": false
+},
+{
+"id": "291_1",
+"printed": 291,
+"pdf": 310,
+"file": "10-85-19",
+"ctx": "avati jāyamāno 'hnāṃ ketur uṣasām ety agram* (Ṛk. Saṃ. 10-85-19)    In th",
+"tess": "೧೦-೮೫-೧೯)",
+"prop": "10-85-19",
+"box": [
+1649,
+1089,
+183,
+41
+],
+"region": false,
+"filled": false
+},
+{
+"id": "291_2",
+"printed": 291,
+"pdf": 310,
+"file": "11-5",
+"ctx": " explains that the *ketu* of the days is the moon (Ni. 11-5). So in t",
+"tess": "೧೧-೫).",
+"prop": "11-5",
+"box": [
+1699,
+1185,
+107,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "291_3",
+"printed": 291,
+"pdf": 310,
+"file": "1-92-4",
+"ctx": " explanation of this word see the Special Topics of Ṛk 1-92-4.\"  *The c",
+"tess": "೧೯೨-೪ನನೇ",
+"prop": "1-92-4",
+"box": [
+1530,
+1409,
+176,
+36
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_1",
+"printed": 295,
+"pdf": 314,
+"file": "6-61-2",
+"ctx": "suvṛktibhiḥ sarasvatīm ā vivāsema dhītibhiḥ* (Ṛk. Saṃ. 6-61-2)    expla",
+"tess": "೬-೬೧-೨)",
+"prop": "6-61-2",
+"box": [
+1732,
+881,
+148,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_2",
+"printed": 295,
+"pdf": 314,
+"file": "2-24",
+"ctx": " word *dhītibhiḥ* here as *karmabhiḥ* (\"by rites\", Ni. 2-24), and the",
+"tess": "೨-೨೪),",
+"prop": "2-24",
+"box": [
+1577,
+999,
+114,
+38
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_3",
+"printed": 295,
+"pdf": 314,
+"file": "4-23-8",
+"ctx": "ḥ santi pūrvīr ṛtasya dhītir vṛjināni hanti* (Ṛk. Saṃ. 4-23-8)    gives",
+"tess": "೪-೨೩-೮)",
+"prop": "4-23-8",
+"box": [
+1729,
+1187,
+147,
+42
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_4",
+"printed": 295,
+"pdf": 314,
+"file": "10-41",
+"ctx": " *dhīti* there the explanation *prajñā*, \"wisdom\" (Ni. 10-41).\" *(The ",
+"tess": "೧೦-೪೧)",
+"prop": "10-41",
+"box": [
+521,
+1370,
+126,
+41
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_5",
+"printed": 295,
+"pdf": 314,
+"file": "3-11",
+"ctx": "* [as printed] — these four are names of the lord (Ni. 3-11). *Īśvara",
+"tess": "೩-೧೧.)",
+"prop": "3-11",
+"box": [
+1849,
+1592,
+114,
+44
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_6",
+"printed": 295,
+"pdf": 314,
+"file": "1-73-5",
+"ctx": " as 'masters of wealth'. (In a few places, as Ṛk. Saṃ. 1-73-5, *aryaḥ* ",
+"tess": "೧-೭೩-೫",
+"prop": "1-73-5",
+"box": [
+1608,
+1872,
+137,
+24
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_7",
+"printed": 295,
+"pdf": 314,
+"file": "3-1",
+"ctx": "o on — since it is read among the names of 'work' (Ni. 3-1), it mean",
+"tess": "೩-೧)",
+"prop": "3-1",
+"box": [
+1888,
+2227,
+79,
+44
+],
+"region": false,
+"filled": false
+},
+{
+"id": "295_8",
+"printed": 295,
+"pdf": 314,
+"file": "3-9",
+"ctx": " so on — since it is read among the names of food (Ni. 3-9), *prayaḥ",
+"tess": "೩-೯)",
+"prop": "3-9",
+"box": [
+590,
+2539,
+80,
+43
+],
+"region": false,
+"filled": false
+},
+{
+"id": "296_5",
+"printed": 296,
+"pdf": 315,
+"file": "1-93",
+"ctx": "by the Uṇādi sūtra *kūpa-jambū-karkandhū-didhiṣū*, Uṇ. 1-93; final ac",
+"tess": "೧-೯೩)",
+"prop": "1-93",
+"box": [
+1734,
+2524,
+106,
+44
+],
+"region": false,
+"filled": false
+}
+],
+"unmatched": []
+}
