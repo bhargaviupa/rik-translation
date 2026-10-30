@@ -14499,7 +14499,7 @@ pumarthāṃś caturo deyād vidyātīrthamaheśvaraḥ ||*
 
 *Translation:* "Thus ends the fifth chapter (*adhyāya*), in the first *aṣṭaka*, of the commentary on the Ṛgveda Saṃhitā in the *Vedārthaprakāśa* of the *Mādhavīya*, composed by Sāyaṇācārya, who bears the burden of the empire of the illustrious King Vīra Bukka, the promoter of the Vedic path under the great sovereign (*rājādhirāja-parameśvara*). Oṃ tat sat."
 
-**Kannada closing line:** ಇಲ್ಲಿಗೆ ಶ್ರೀಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ ಋಗ್ವೇದಸಂಹಿತೆಯ ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ಐದನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತವಾದುದು. — *illige śrī sāyaṇabhāṣyasahitavū karnāṭakabhāṣānuvādayutavū āda ṛgvedasaṃhiteya prathamāṣṭakadalli aidaneya adhyāyavu samāptavādudu.* — "Here, in the first *aṣṭaka* of the Ṛgveda Saṃhitā, which is accompanied by the illustrious Sāyaṇa-bhāṣya and by a Kannada-language translation, the fifth adhyāya is completed."
+**Kannada closing line:** ಇಲ್ಲಿಗೆ ಶ್ರೀಸಾಯಣಭಾಷ್ಯಸಹಿತವೂ ಕರ್ನಾಟಕಭಾಷಾನುವಾದಯುತವೂ ಆದ ಋಗ್ವೇದಸಂಹಿತೆಯು ಪ್ರಥಮಾಷ್ಟಕದಲ್ಲಿ ಐದನೆಯ ಅಧ್ಯಾಯವು ಸಮಾಪ್ತವಾದುದು. — *illige śrī sāyaṇabhāṣyasahitavū karnāṭakabhāṣānuvādayutavū āda ṛgvedasaṃhiteyu prathamāṣṭakadalli aidaneya adhyāyavu samāptavādudu.* — "Here, in the first *aṣṭaka* of the Ṛgveda Saṃhitā, which is accompanied by the illustrious Sāyaṇa-bhāṣya and by a Kannada-language translation, the fifth adhyāya is completed."
 
 **Closing verse of apology** *(Sanskrit in Kannada script)*:
 
