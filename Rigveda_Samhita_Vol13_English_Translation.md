@@ -3978,4 +3978,42 @@ Number of ṛks in the Sūkta: 5 · Ṛṣi: ṛks 1, 3, 4 Indra; ṛks 2, 5 Aga
 
 ---
 
-**Progress note:** printed p. 178 (PDF 198) done — Sūkta 170 Ṛk 1 through Special Topics (continues p. 179). Next: printed p. 179 (PDF 199). Open flags: Ṛk 1 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 179  (PDF 199)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; the Special Topics of Ṛk 1 continue.)*
+
+(*yadadbhutaṃ tat ko veda* continued) … no one knows that an event of this kind (the abnormal change in an oblation) will take place: thus one kind of meaning is explained. ***yadvā yadadbhutaṃ bhāvi kāryaṃ yadasti tat ko veda adya śvo vā labhyate ityāśā na kāryā*** — "who knows which wonder-causing event will come about in future time? Therefore no hope should be held, either now or tomorrow, that the oblation prepared for me will be obtained": it is said that this is Indra's sorrowful remark; Sāyaṇa explains the second meaning also.
+
+***abhi saṃcareṇyaṃ cittaṃ*** — *sarvataḥ saṃcārī anyasya mānasam*: the mind of others is of a nature always to move, and there is no stability; so he understands that, because of this, what has been prepared for me now is not obtained. ***uta api ca ādhītaṃ vinaśyati*** — "though I, Indra, was sure that the oblation I prepared for myself would reach me, it is lost (it will be destroyed), and does not reach me; who knows beforehand such a wonderful non-receipt of this oblation?": thus Indra's words, indicating distress, are described.
+
+Yāska, citing this ṛk, explains it. In this explanation the sense that the word *nūnam* is used in the sense of doubt (the sense of decision) is shown:
+
+> न नूनमस्त्यद्येतेनं नो एव श्वस्तनम् । अद्य अस्मिन् द्यवि द्युरित्यह्नो नामधेयं द्योतत इति सतः । श्व उपाशंसनीयः कालः । ह्यो हीनः कालः । कस्तद्वेद यदद्भुतं कस्तद्वेद यदभूत् । इदमसीतरदद्भुतमभूतेनिव [?] । अन्यस्य चित्तमभिसंचरेण्यम् अभिसंचारि ॥ अन्यो नानेयः । चित्तं चेततेः । उताधीतं विनश्यतीति । अप्याध्यातं विनश्यतीति । अध्यातम् अभिप्रेतम् ॥ [as read; garbled in places]
+
+> *na nūnamastyadyetenaṃ no eva śvastanam | adya asmin dyavi dyurityahno nāmadheyaṃ dyotata iti sataḥ | śva upāśaṃsanīyaḥ kālaḥ | hyo hīnaḥ kālaḥ | kastadveda yadadbhutaṃ kastadveda yadabhūt | idamasītaradadbhutamabhūteniva [?] | anyasya cittamabhisaṃcareṇyam abhisaṃcāri ‖ anyo nāneyaḥ | cittaṃ cetateḥ | utādhītaṃ vinaśyatīti | apyādhyātaṃ vinaśyatīti | adhyātam abhipretam ‖ [as read; garbled in places]*
+
+(Ni. 1-[?]). The word *nūnam* conveys a decision, after discriminating deliberation. The word *dyavi*, formed from the root *dyut* meaning "to shine", denotes *ahas* (the day), and here the form belonging to "today" is indicated by it: what is decided to occur in the daytime is not obtained; in the same way, since the hope was that it would be fulfilled, there is no certainty about even the future time that the oblation will reach me. The word *śvaḥ* denotes a time to be hoped for (*upāśaṃsanīya*); *hyaḥ* denotes a past (*hīna*) time; for *adbhuta*, the past sense *abhūt* ("was") is explained; "now what was prepared for me is not for me; in the future also — to whom does it come, to me or to another? who knows this with certainty?" thus he says.
+
+### Printed p. 180  (PDF 200)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+(*anyasya cittam* continued) — the mind of another is given to wandering, of a restless nature; therefore it is meant that what has been prepared now will not reach me. It is also said that the words *uta*, *api* and *atha* are, in the Veda, synonymous words that convey one and the same sense. For the words *adya*, *śvaḥ*, *hyaḥ*, *adbhutam*, *anyaḥ*, *cittam*, *ādhītam* the explanation of meaning given is: "*dyotata iti sataḥ*"; "*śvaḥ upāśaṃsanīyaḥ kālaḥ*"; "*hyaḥ hīnaḥ kālaḥ*"; "*adbhutam abhūt*"; "*anyaḥ nāneyaḥ*"; "*cittaṃ cetateḥ*"; "*ādhyātam abhipretam*".
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *asti* (since the *nighāta* is prevented by "*nipātair yad yadihanta…*", Pā. Sū. 8-1-30 [?], the accent of the root remains); *veda* (root *vida jñāne*; the substitute *ṇal* for the 3rd person singular of *laṭ* by "*vido laṭo vā*", Pā. Sū. 3-4-83 [?]; *guṇa* of the light penultimate; *nighāta* of the verb); *adbhutam* (root *bhū sattāyām*; when *ad* is the first member, the affix *ḍutac* by "*adi bhuvo ḍutac*" (Uṇ.); because of the *ḍ* marker the *ū* of the *ṭi* part is dropped; the first syllable is acute by *vyatyaya*); *saṃcareṇyam* (root *cara gatibhakṣaṇayoḥ*; the preverb *sam*; by *bahulagrahaṇa* the Uṇādi affix *enya*; the first syllable of the affix is acute; in a *prādi* compound the latter member keeps its accent); *ādhītam* (root *iṅ adhyayane*; *kta* in the passive; the preverb keeps its accent by "*gatir anantaraḥ*", Pā. Sū. 6-2-49 [?]); *naśyati* (root *naśa adarśane*; *laṭ* 3rd singular; *nighāta* of the verb). ‖ 1 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> किं न इन्द्र जिघांससि भ्रातरो मरुतस्तव ।
+> तेभिः कल्पस्व साधुया मा नः समरणे वधीः ॥ २ ॥
+
+> *kiṃ na indra jighāṃsasi bhrātaro marutastava |*
+> *tebhiḥ kalpasva sādhuyā mā naḥ samaraṇe vadhīḥ ‖ 2 ‖*
+
+---
+
+**Progress note:** printed p. 180 (PDF 200) done — Sūkta 170 Ṛk 1 complete; Ṛk 2 Saṃhitā written. Next: printed p. 181 (PDF 201): Pada, bhāṣya of Ṛk 2. Open flags: Yāska quotation on p. 179 garbled [?]; small-type numerals [?]; review/doubts_v13.json.
