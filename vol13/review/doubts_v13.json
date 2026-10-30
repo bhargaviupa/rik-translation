@@ -2950,5 +2950,29 @@
   ],
   "note": "Rik 5 Samhita 'rjra' vs rjugra; bhashya dense; read approx - zoom needed",
   "answer": ""
+ },
+ {
+  "pdf": 355,
+  "printed": 335,
+  "crop": [
+   0.7,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta kutsa quote and ref 3-11 read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 356,
+  "printed": 336,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 4-26-1, 7-19-2?, 4-31-11?; Satapatha 2-1-2-11, 5-4-1-2 small; quotes garbled in places",
+  "answer": ""
  }
 ]
