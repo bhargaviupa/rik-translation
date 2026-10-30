@@ -9388,4 +9388,66 @@ Here ends the hundred and seventy-fourth (174th) Sūkta.
 
 ---
 
-**Progress note:** printed p. 360 (PDF 380) done — SŪKTA 174 COMPLETE (10 ṛks, printed pp. 313–360). Next: printed p. 361 (PDF 381), Sūkta 175. Open flags: Ṛg/Nirukta refs and sūtra numerals [?]; some dense bhāṣya passages [?]; review/doubts_v13.json.
+---
+
+## SŪKTA 175 (the hundred and seventy-fifth Sūkta)
+
+### Printed p. 361  (PDF 381)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+**Anukramaṇikā (Sanskrit, as read; doubtful passages marked [?])**
+
+> मत्स्यपायीति षडृचमेकादशं सूक्तमागस्त्यमैन्द्रं । आद्या स्कन्धोग्रीवी बृहती द्वितीयस्य पादस्य द्वादशाक्षरत्वादितरेषां त्रयोदशानामष्टाक्षरत्वाच्च । द्वितीयश्चैन्यं कुसारिण्यरोबृहती वा स्कन्धोग्रीवी वा [?] । अनु. २-३ । इत्युक्तलक्षणसद्भावात् । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषयो आनुष्टुभं त्रितीविशेषवचनेनाप्येदितत्वादनुष्टुभः । मत्सि षळानुष्टुभं तु त्रिष्टुबन्तं त्वाद्या स्कन्धोग्रीवीत्यनुक्रान्तं ॥ द्वितीये स्वरसाम्न्यादृ ऋचः स्तोत्रीयाः । अभिजिद्वैहत्स्पृष्ठ इति खण्डे सूत्रितं । मत्स्यपायि ते मह एनेन प्रत्येतेन । आ. ८ ५ [?] । इति ॥
+
+> *matsyapāyīti ṣaḍṛcam ekādaśaṃ sūktam āgastyam aindraṃ | ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayodaśānām aṣṭākṣaratvāc ca | dvitīyaś caiṇyaṃ kusāriṇyaro bṛhatī vā skandhogrīvī vā [?] | anu. 2-3 | ity uktalakṣaṇasadbhāvāt | antyā triṣṭup | śiṣṭās triṣṭubantaparibhāṣayo ānuṣṭubhaṃ tritīviśeṣavacanenāpy edita tvād anuṣṭubhaḥ | matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvīty anukrāntaṃ ‖ dvitīye svarasāmnyādṛ ṛcaḥ stotrīyāḥ | abhijidvaihatspṛṣṭha iti khaṇḍe sūtritaṃ | matsyapāyi te maha enena pratyetena | ā. 8 5 [?] | iti ‖* [?]
+
+**Anuvāda (Kannada, translated)**
+
+This sūkta beginning *matsyapāyi te* is the eleventh sūkta in the twenty-third anuvāka. It has six ṛks. The ṛṣi of this sūkta is Agastya; the deity is Indra. In the Anukramaṇikā it is stated: "*ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayodaśānām aṣṭākṣaratvāc ca*; *dvitīyaś caiṇyaṃ kusāriṇyaro bṛhatī vā skandhogrīvī vā*" (Anukr. 2-3 [?]): that is, since in the first ṛk the first foot has twelve syllables and the remaining three feet have eight syllables each, such a ṛk is called, according to the Chandaḥśāstra, *skandhogrīvī bṛhatī* or *uro-bṛhatī*. Or, if the second foot has twelve syllables and the remaining feet eight each, it is called *nyaṅkusāriṇī bṛhatī*. The last ṛk of this sūkta is in *triṣṭubh* metre; the rest are in *anuṣṭubh*. In the Anukramaṇikā it is stated: "*matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvī*". In the *svarasāman* the first three ṛks of this sūkta are to be recited as *stotrīya* mantras; in the Āśvalāyana Śrauta-sūtra, in the section *abhijid-vaihat-spṛṣṭha*, the sūtra "*matsyapāyi te maha enena pratyetena*" explains it (Āś. Śrau. 8-5 [?]).
+
+**Sūkta — 175**
+
+Maṇḍala — 1 ‖ Anuvāka — 23 ‖ Sūkta — 175 ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 18 [?] ‖
+Number of ṛks in the sūkta — 6 ‖
+Ṛṣi — Agastya ‖ Devatā — Indra ‖
+Chandas — 1. *skandhogrīvī bṛhatī*; 2–5. *anuṣṭubh*; 6. *triṣṭubh* ‖
+
+### Printed p. 362  (PDF 382)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+**Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> मत्स्यपायि ते महः पात्रस्येव हरिवो मत्सरो मदः ।
+> वृषा ते वृष्ण इन्दुर्वाजी सहस्रसातमः ॥ १ ॥
+
+> *matsy apāyi te mahaḥ pātrasyeva harivo matsaro madaḥ |*
+> *vṛṣā te vṛṣṇa indur vājī sahasrasātamaḥ ‖ 1 ‖*
+
+**Pada-pāṭha**
+
+> मत्सि । अपायि । ते । महः । पात्रस्यऽइव । हरिऽवः । मत्सरः । मदः ।
+> वृषा । ते । वृष्णे । इन्दुः । वाजी । सहस्रऽसातमः ॥ १ ॥
+
+> *matsi | apāyi | te | mahaḥ | pātrasya-iva | hari-vaḥ | matsaraḥ | madaḥ |*
+> *vṛṣā | te | vṛṣṇe | induḥ | vājī | sahasra-sātamaḥ ‖ 1 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे हरिवो हरिभ्यां तद्वन्निन्द्र महो महान् पूज्योऽयं सोमः पात्रस्येव तत्पात्रेणेव सोमपात्रेण यथा धार्यते सोमस्तत्सदृशेन ते त्वया । तृतीयार्थे षष्ठी । यद्वा । पात्रस्येव ते । तव स्वभूतो महो महान् सोमो मदः इति वा योजना । अपायि पीयते ॥ आशंसायाम्—विवक्षितत्वाद्भूतवत्सूत्रयोगः ॥ यतेः पिबसि आतो मत्सि । माद्यसि मादयस्व वा । पात्रे यथा सोमः पूर्यते तथात्यधिकं पिब पीत्वा च मादयस्वेत्यर्थः । किंच वृष्णे तेऽभिमतवर्षित्रे तुभ्यं । चतुर्थ्यर्थे षष्ठी । मत्सरो मदसाधनो मदस्तर्पयिता वृषा वर्षितेन्दुः क्लेदयिता आह्लादकारीत्यर्थः । वाजी अन्नवान् । अन्नं वा यद्यतृप्तिसद्भावादन्नवानित्युच्यते [?] । सहस्रसातमोऽपरिमितदातृतमः सहस्रपुरुषसंभजनसमर्थोऽशक्त्यतिशयो वा एवंमहानुभावः सोमः संपादितः । तं पिबेत्यर्थः ॥
+
+> *he harivo haribhyāṃ tadvann indra maho mahān pūjyo 'yaṃ somaḥ pātrasyeva tatpātreṇeva somapātreṇa yathā dhāryate somas tatsadṛśena te tvayā | tṛtīyārthe ṣaṣṭhī | yadvā | pātrasyeva te | tava svabhūto maho mahān somo madaḥ iti vā yojanā | apāyi pīyate ‖ āśaṃsāyām — vivakṣitatvād bhūtavat sūtrayogaḥ ‖ yateḥ pibasi āto matsi | mādyasi mādayasva vā | pātre yathā somaḥ pūryate tathātyadhikaṃ piba pītvā ca mādayasvety arthaḥ | kiṃca vṛṣṇe te 'bhimatavarṣitre tubhyaṃ | caturthyarthe ṣaṣṭhī | matsaro madasādhano madastarpayitā vṛṣā varṣitendur kledayitā āhlādakārīty arthaḥ | vājī annavān | annaṃ vā yad yatṛptisadbhāvād annavān ity ucyate [?] | sahasrasātamo 'parimitadātṛtamaḥ sahasrapuruṣasaṃbhajanasamartho 'śaktyatiśayo vā evaṃmahānubhāvaḥ somaḥ saṃpāditaḥ | taṃ pibety arthaḥ ‖* [?]
+
+*Gist:* O Indra, this great Soma has been prepared and set before you in the cup; drink it and rejoice; the juice is intoxicating, rain-giving, abounding in strength and food, a giver of a thousandfold.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *harivaḥ* — O Indra, endowed with the two horses called Hari; *vṛṣṇe* — the giver of what is desired; *te* — for you; *matsaraḥ* — the means of delight; *madaḥ* — the satisfier; *vṛṣā* — the giver of desired objects; *induḥ* — the one that causes moisture (the cause of joy); *vājī* — the one with food; (food-like, satisfying); *sahasrasātamaḥ* — the one who gives unmeasured, with the power to be shared by a thousand persons; *mahaḥ* — the worshipful (the great) Soma; *pātrasya iva* — as it is held by a cup; *te* — by you; *apāyi* — is drunk; (therefore) *matsi* — you are pleased.
+
+---
+
+**Progress note:** printed p. 362 (PDF 382) done — Sūkta 175 begun: Anukramaṇikā, Anuvāda, heading, Ṛk 1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha; Bhāvārtha continues p. 363). Next: printed p. 363 (PDF 383). Open flags: Sūkta 175 heading varga numeral [?]; Anukramaṇikā text partly garbled [?]; review/doubts_v13.json.

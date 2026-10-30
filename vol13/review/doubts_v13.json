@@ -3250,5 +3250,41 @@
   ],
   "note": "grammar sutra numerals small type",
   "answer": ""
+ },
+ {
+  "pdf": 381,
+  "printed": 361,
+  "crop": [
+   0.12,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 175 Anukramanika text garbled in places (caiyam kusariniyaro..., tritiviseshavacanena, abhijidvaihat..); Asvalayana ref 8-5?",
+  "answer": ""
+ },
+ {
+  "pdf": 381,
+  "printed": 361,
+  "crop": [
+   0.72,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 175 heading: varga numeral (18?) uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 382,
+  "printed": 362,
+  "crop": [
+   0.45,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya: 'annam va yad yatrptisadbhavat..' read approx",
+  "answer": ""
  }
 ]
