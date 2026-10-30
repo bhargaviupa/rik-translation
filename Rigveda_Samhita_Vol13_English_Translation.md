@@ -6525,4 +6525,59 @@ The word *dasma* has two kinds of meaning: one "destroyer of enemies", the other
 
 ---
 
-**Progress note:** printed p. 264 (PDF 284) done — Sūkta 173 Ṛk 4 Special Topics (dasma continues p. 265). Next: printed p. 265 (PDF 285). Open flags: Ṛk 4 bhāṣya grammatical tail doubtful [?]; Ṛg/Nirukta refs [?]; review/doubts_v13.json.
+### Printed p. 265  (PDF 285)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+…meaning "destroyer of enemies". Since both these powers belong to Indra and the other deities, it is shown that for the word *dasma* either of these two meanings may be taken. For example —
+
+> त्वं भगो न आ हि रत्नमिषे परिज्मेव क्षयसि दस्मवर्चाः ।
+
+> *tvaṃ bhago na ā hi ratnam iṣe parijmeva kṣayasi dasmavarcāḥ |*
+
+(Ṛ. Saṃ. 6-13-2 [?]);
+
+> पूषा सुबन्धुर्दिव आ पृथिव्या इळस्पतिर्मघवा दस्मवर्चाः ।
+
+> *pūṣā subandhur diva ā pṛthivyā iḷas patir maghavā dasmavarcāḥ |*
+
+(Ṛ. Saṃ. 6-58-4 [?]).
+
+In such ṛks, as the first, "*śatrūpakṣayaṇabalaḥ*" means "one with the power to destroy enemies"; and as the second, "*varca iti rūpanāma | dasmaṃ darśanīyaṃ varcaḥ yasya tādṛśaḥ*" — "*varcas* is a name of form; one whose form is beautiful to behold" — the bhāṣya-writers thus show it to mean one whose form is delightful. The word *dasmavarcāḥ* is used as an epithet of Indra and the other deities in many places in the Ṛk-saṃhitā; in the ṛk in hand also it describes, as an epithet of Indra, his power to destroy enemies and his lovely form.
+
+***sugmyaḥ*** — "easily attained (by the sacrificer)", and ***ratheṣṭhāḥ*** — "moving in the car itself": so the meaning is stated.
+
+***nāsatyeva — nāsatyāv iva aśvināv iva tau hi dyāvāpṛthivyātmānau*** — the Nirukta-writers, quoting
+
+> ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि सन्ति देवाः ।
+> ता अध्वर उशतो यक्ष्यग्ने श्रुष्टीवे भगं नासत्या पुरंधिम् ॥
+
+> *te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi santi devāḥ |*
+> *tā adhvara uśato yakṣy agne śruṣṭī bhagaṃ nāsatyā puraṃdhim ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 7-39-4 [?]),
+
+this ṛk, have given the meaning of the word *nāsatya*: "*satyāv eva nāsatyāv ity aurṇavābhaḥ, satyasya praṇetārāv ity āgrāyaṇaḥ, nāsikāprabhavau babhūvatur iti vā*" (Ni. 6-13 [?]) — as to the word *nāsatya*, they state the opinion that *nāsatyau* are the Aśvins. The opinion of the teacher Aurṇavābha is stated: the Aśvin deities are known as *nāsatyau* because they always speak the truth. The teacher Āgrāyaṇa accepts the same explanation of the word *nāsatya* ("*satyāv eva nāsatyau*"), and says the word *satya* means water or sacrifice, so that the Aśvin deities are those who accomplish the sacrifice. As said in the Bṛhaddevatā, there is another explanation: the Aśvins were born from the nose-region of Saṃjñā, the goddess, who, to be recognized as the Saṃjñā deity in the form of a mare, assumed the form of a mare when Sūrya, taking the form of a horse, looked at her.
+
+Sāyaṇa: here the word *nāsatyāveva* means "like the Aśvin deities"; he says "*tau hi dyāvāpṛthivyātmānau*" — the Aśvin deities are of the nature of heaven and earth, as it is stated; that is, they come
+
+### Printed p. 266  (PDF 286)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+from the form of heaven and earth, and so are able to go comfortably, and to move in the chariot; Indra also, like them, is *sugmya* and a dweller in the car; and *asmatsaṃbandhi taṃ stotrādi karma sevatām* — "may he, along with us, the sacrificers who perform them, be pleased with the sacrificial acts, the praises and so on": so the sacrificers' prayer is stated.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***tā*** — from the form *tāni*; by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) *śi* is dropped.
+- ***karma*** — root *ḍukṛñ karaṇe*; Vedic *luṅ* in the present sense (*chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 [?]); first person plural, *masa* suffix; *nityaṃ ṅitaḥ* gives loss of *s*; *mantre ghasa-hvara*… (Pā. Sū. 2-4-80 [?]) gives *luk* for *cli*; by "*chandasy ubhayathā*" (Pā. Sū. 3-4-117 [?]) the suffix is classed as *ārdhadhātuka*, and therefore the *ñit* guṇa; by "*sārvadhātukārdhadhātukayoḥ*" the root takes guṇa for the *ik*; *raparatva*; since it follows a *tiṅanta*, *nighāta* accent.
+- ***cyautnāni*** — root *cyuṅ cyutau*; suffix *tnaṇ* by "*janidācyuvaḥ*…" (Uṇ. Sū. 4-… [?]); being *ṇit*, by "*aco ñṇiti*" the *u* is lengthened (vṛddhi); the final syllable is *udātta* by suffix accent.
+- ***devayantaḥ*** — "they wish for the gods for themselves": by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) *kyac*; the *laṭ* comes after it and is replaced by *śatṛ*; third person plural.
+- ***bharante*** — root *bhṛñ bharaṇe*; *laṭ*, third person plural; *nighāta* for a *tiṅ*.
+- ***jujoṣat*** — root *juṣī prītisevanayoḥ*; in *loṭ* the *vyatyaya* gives *śap*; Vedically the root is reduplicated; or "*bahulaṃ chandasi*" replaces *śap* by *śluḥ*; thereafter by *vyatyaya* *śap*; by the statement "*bahulaṃ chandasīti vaktavyam*", "*nābhyastasyācīṇiti sārvadhātuke*" (Pā. Sū. 7-3-87 [?]) — the guṇa required by it does not occur here; being in *pādādi* position, no *nighāta*; "*abhyastānām ādiḥ*" (Pā. Sū. 6-1-189 [?]) makes the first syllable *udātta*.
+- ***dasmavarcāḥ*** — *dasma varcaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the fore-member keeps its accent.
+- ***sugmyaḥ*** — *sumu gantavyaḥ sugmyaḥ*; root *gamḷ gatau*; the suffix *ka* by the statement "*ghañarthe ka vidhānam*"; being *kit*, "*gamahanajana*…" (Pā. Sū. 6-4-98 [?]) drops the penultimate…
+
+---
+
+**Progress note:** printed p. 266 (PDF 286) done — Sūkta 173 Ṛk 4 Special Topics complete; grammar in progress (sugmyaḥ continues p. 267). Next: printed p. 267 (PDF 287). Open flags: Ṛg/Nirukta/sūtra numerals [?]; review/doubts_v13.json.
