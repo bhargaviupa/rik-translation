@@ -5578,5 +5578,29 @@
   ],
   "note": "ref Ni 1-8 small",
   "answer": ""
+ },
+ {
+  "pdf": 573,
+  "printed": 553,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "AiBr 4-1 quote garbled (vimethire, sahyabhyo, ne prababhuva); Rg 10-100-4 ref/text; 'vastravya' phrase",
+  "answer": ""
+ },
+ {
+  "pdf": 574,
+  "printed": 554,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'sudhitavasudhite..' sutra name garbled",
+  "answer": ""
  }
 ]
