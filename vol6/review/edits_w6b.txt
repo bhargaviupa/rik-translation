@@ -371,3 +371,44 @@ p. 352: Pā. 6-2-48 confirmed.
 p. 358-359: bhāṣya-tail note "[Pā. 8-3-8?]" -> 8-3-8 (as read on p. 358).
 pp. 354-377: bhāṣya headers "doubtful places [?]" replaced (flagged readings checked).
 p. 377: "यद॒क्षी" anudātta position doubtful [accent ?] (doubts page).
+Unit 7 (pp. 382–395, Ṛks 73.1–73.3):
+  p. 382: Varga [19?], [20?] -> 19, 20
+p. 382: Saṃhitā 73.1 accents set as printed (ti॑thi॒, śāsuḥ॑ as printed).
+  p. 383: running-head Varga [?] -> 19
+  p. 383: bhāṣya Pā. [8-2-58?] -> 8-2-58; added Kā. 7-2-68
+p. 383: bhāṣya "viśisāhacaryāt … labdhārtha eva …" -> "viśisāhacaryāt taudādika eva vidir gṛhyata ity uktaṃ | kā. 7-2-68 |" (print).
+  p. 384: Ni. [2-7?] -> 3-9 [as printed]
+p. 384: "twenty-eight [as read, ?]" confirmed.
+  p. 385: running-head Varga [?] -> 19 (Aṣṭaka printed 2)
+  p. 385: Ni. [3-6?] -> 3-13 [as printed]
+  p. 385: Ṛk. [1-?-?] -> 1-32-8
+p. 385: "śaṃyuḥ, śatam [as read, ?] … [twenty-odd]" -> "śaṃjātā [?], śatarā … twenty"; Ṛk citation re-read "tāsām ahiḥ patsutaḥśīr babhūva" (gloss mine, tentative). Pā. 7-2-15, 7-2-68 confirmed.
+p. 386: Pā. 8-2-58, 3-2-74, 3-3-94, 6-2-50, 3-2-107, 8-3-60, 6-1-197, 3-2-76, Uṇ. 1-10 confirmed (brackets removed).
+  p. 387: running-head Varga [?] -> 19
+p. 387: Pā. 3-1-77, 6-1-173 confirmed; Saṃhitā 73.2 accents set as printed.
+  p. 388: Tai. Saṃ. [1-5-2-1?] -> 1-5-2-1
+  p. 388: Pā. [6-2-148?] -> 6-2-147
+  p. 388: Uṇ. [3-98?] -> 3-97
+p. 388: vibhaktivyatyayaḥ, rūpyate, āgamāpāyiṣu confirmed.
+  p. 389: running-head Varga [?] -> 19
+  p. 389: Ṛk. Saṃ. [4-23-8?] -> 4-23-8
+  p. 389: Ni. [3-13?] -> 3-13 [as printed]
+  p. 390: Br. Up. [4-3-32?] -> 4-3-32
+  p. 390: Tai. Up. [2-7?] -> Tai. Ā. 8-7 [as printed]
+  p. 390: Tai. Saṃ. [1-5-2-1?] -> 1-5-2-1
+  p. 390: Pā. [6-4-8] -> (no number printed)
+p. 390: Pā. 3-2-75 confirmed.
+  p. 391: running-head Varga [?] -> 19
+  p. 391: Uṇ. [3-?] -> 2-239 [?] (vṛjana)
+  p. 391: Uṇ. [3-?] -> 3-49 [?] (amati)
+  p. 391: Uṇ. [3-?] -> 3-377 [?] (didhiṣāyya)
+p. 391: Pā. 6-2-1, 6-2-48, 6-2-147 confirmed.
+p. 391/392: Saṃhitā 73.3 moved from the end of p. 391 to the top of p. 392 (where it is printed); accents set as printed; "सदः॑" [accent ?].
+  p. 393: running-head Varga [?] -> 19
+  p. 393: Pā. [4-1-34?] -> 4-1-73 (bhāṣya tail and p. 396 grammar note untouched: p. 396 reads Pā. [4-1-?], not yet viewed)
+p. 393: "marudvṛdhādiśvāt" -> "marudvṛdhāditvāt".
+  p. 395: running-head Varga [?] -> 19
+  p. 395: Uṇ. [4-?] -> 4-666; Uṇ. [4-?] -> 4-660; Uṇ. [4-?] -> 4-457
+p. 395: Pā. 7-3-33, 8-1-66, 8-1-71 confirmed.
+p. 394: skipped, no flagged lines.
+Doubts: vol6/review/html/Vol6_doubts_p382-395.html (5).
