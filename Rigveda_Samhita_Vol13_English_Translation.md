@@ -4554,4 +4554,46 @@ Addressing the Marut-gods by "*he marutaḥ*", ***vedyābhiḥ rarāṇatā*** �
 
 ---
 
-**Progress note:** printed p. 198 (PDF 218) done — Sūkta 171 Ṛk 1 Special Topics continue (p. 199: rest, grammar). Next: printed p. 199 (PDF 219). Open flags: many Ṛg/Nirukta reference numerals on pp. 197–198 [?] (small type); review/doubts_v13.json.
+### Printed p. 199  (PDF 219)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; the Special Topics of Ṛk 1 conclude.)*
+
+(*heḷaḥ ni dhatta* continued) — … they are begged to give up the anger arisen because they were transgressed against. And "***krodhāt punar gamanaṃ mā kuruta***": the prayer of the sage Agastya is expressed here, that the horses be unyoked from the chariots prepared for the coming to the sacrifice, and that, being angry, they should not go back.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *namasā* (root *ṇamu prahvatve śabde ca*; Uṇādi affix *asun*; the first syllable is acute because it is *n*-marked); *emi* (root *iṇ gatau*; *laṭ* 1st singular; *nighāta*); *sūktena* (root *vaca paribhāṣaṇe*; affix *kta*; *saṃprasāraṇa* and the preceding form by "*vacisvapiyajādīnāṃ kiti*", Pā. Sū. 6-1-15 [?]; accent on the last syllable by "*nañ subhyām*", Pā. Sū. 6-2-172 [?]); *bhikṣe* (root *bhikṣa yācñāyām*; *laṭ* 1st singular; *nighāta*); *sumatim* (root *mana jñāne*; *ktin* with the acute by "*mantre vṛṣeṣapacamanavidabhūvīrā uḍudāttaḥ*", Pā. Sū. 3-3-96 [?]; the latter member keeps its accent); *turāṇām* (root *tura tvaraṇe*; affix *ka* by "*igupadhajñāprīkiraḥ kaḥ*", Pā. Sū. 3-1-135 [?]; because it is *k*-marked there is no *guṇa* of the light penultimate; or, root *turvī hiṃsāyām*; the affix *aṭ* [as read] because it belongs to *pacādi*; Vedic loss of *v*; accent on the last syllable by the affix; genitive plural); *rarāṇatā* (root *raṇu krīḍāyām*; *śānac* in the sense of the present; *luk* of *śap* by "*bahulaṃ chandasi*"; reduplication on that occasion, and by *vyatyaya* *a* for the *m*-final of the root; before the instrumental *ṭā*, an extra *t* appears); *dhatta* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ* 2nd plural; since it stands at the beginning of a *pāda* there is no *nighāta*; accent on the last syllable by the affix); *mucadhvam* (root *muclṛ mokṣaṇe*, *tudādi*; *loṭ* 2nd plural, affix *dhvam*; when the *ṭi* part takes *e*, *am* replaces it by "*savābhyāṃ vāmau*", Pā. Sū. 3-4-91 [?]; *nighāta*). ‖ 1 ‖
+
+*(ornamental rule)*
+
+### Printed p. 200  (PDF 220)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> एष वः स्तोमो मरुतो नमस्वान्हृदा तष्टो मनसा धायि देवाः ।
+> उपेमा यात मनसा जुषाणा यूयं हि ष्ठा नमस इद्वृधासः ॥ २ ॥
+
+> *eṣa vaḥ stomo maruto namasvānhṛdā taṣṭo manasā dhāyi devāḥ |*
+> *upemā yāta manasā juṣāṇā yūyaṃ hi ṣṭhā namasa idvṛdhāsaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> एषः । वः । स्तोमः । मरुतः । नमस्वान् । हृदा । तष्टः । मनसा । धायि । देवाः ।
+> उप । ईम् । आ । यात । मनसा । जुषाणाः । यूयम् । हि । स्थ । नमसः । इत् । वृधासः ॥ २ ॥
+
+> *eṣaḥ | vaḥ | stomaḥ | marutaḥ | namasvān | hṛdā | taṣṭaḥ | manasā | dhāyi | devāḥ |*
+> *upa | īm | ā | yāta | manasā | juṣāṇāḥ | yūyam | hi | stha | namasaḥ | it | vṛdhāsaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः एष वः स्तोम इदानीं क्रियमाणप्रकारो वो युष्माकम् । युष्मदर्थ इत्यर्थः । कीदृशोऽयम् । नमस्वान् । नम इत्यन्ननाम । हविर्लक्षणान्नवान् । न केवलं स्तुतिमात्रं भक्षणायापि हविरपि युष्माकमित्यर्थः । किंच हृदा तष्टो युष्मन्निवेदनबुद्ध्यै [?] संपादितः । ताद्दृशः स्तोमो हे देवा देवनशीलाः मनसास्मदनुग्रहवता चित्तेन धायि । धार्यताम् । तदर्थं मनसादरया बुद्ध्या जुषाणा ईमेनां स्तुतिं तद्धविश्च सेवमाना उपा यात । उपागच्छतैव । मा विलम्बं कुरुत । यूयं नमसोऽन्नस्य हविरूपस्य वृधासः स्थ ह । वर्धयितारो भवथ खलु । अतो गन्तव्यमेव । इत्पूरणः ॥
+
+*Gist:* This praise, with its oblation of food, devised in the heart, is for you; take it up with a kindly mind and come near without delay, for you are the increasers of this offering.
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods; *namasvān* — endowed with salutation (oblation); *eṣaḥ stomaḥ* — this praise; *vaḥ* — (is) for you; *hṛdā* — heartily; *taṣṭaḥ* — made ready (a praise of the heart); *(he)* *devāḥ* — O shining Marut-gods; *manasā* — with a respectful mind; *dhāyi* — let (it) be held (accepted); *yūyam* — you; *namasaḥ* — of food in the form of the oblation; *vṛdhāsaḥ stha hi it* — are (certainly) the increasers; *manasā* — with respect (with understanding); *īm* — this (offered by us) (salutation or praise); *juṣāṇāḥ* — being those who enjoy; *upa āyāta* — come near.
+
+---
+
+**Progress note:** printed p. 200 (PDF 220) done — Sūkta 171 Ṛk 1 complete; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha written (Bhāvārtha on p. 201). Next: printed p. 201 (PDF 221). Open flags: small-type numerals [?]; review/doubts_v13.json.
