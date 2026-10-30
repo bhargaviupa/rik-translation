@@ -14660,4 +14660,90 @@ In the sense of control (*niyamana*), the name *niyutvān* is well known also fo
 
 ---
 
-**Progress note:** printed p. 528 (PDF 548) done — Sūkta 180 Ṛk 6 Special Topics (sudānū, niyutaḥ, svadhābhiḥ, purandhim; continues p. 529). Next: printed p. 529 (PDF 549). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 529  (PDF 549)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 529; signature mark "XIII 34".)*
+
+**Special Topics (continued)** — in the ṛk, for the word *purandhi*, Durgācārya (Ni. 11-2 [?]) gives "*purandhiḥ bahudhanasya dātā*" ("giver of abundant wealth"), and Sāyaṇa "*bahukarmā*" ("of many works"). Here the word is an epithet of Indra; the purport is "generous".
+
+> नैधूतो [?] अद्रिषुतो बर्हिषि प्रियः पतिर्गवां प्रदिव इन्दुर्ऋत्वियः ।
+> पुरन्धिवान्मनुषो यज्ञसाधनः शुचिर्धिया पवते सोम इन्द्र ते ॥
+
+> *naidhūto [?] adriṣuto barhiṣi priyaḥ patirgavāṃ pradiva indurṛtviyaḥ |*
+> *purandhivānmanuṣo yajñasādhanaḥ śucirdhiyā pavate soma indra te ‖*
+
+(Ṛ. Saṃ. 9-62-4 [?]) — in this ṛk *purandhivān manuṣaḥ* is explained as "a man of many works", i.e. a man who performs rites, in order to satisfy the deities; and
+
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापः समुद्रियः ।
+> विश्वे देवासः शृणवन्वचांसि मे सरस्वती सह धीभिः पुरन्ध्या ॥
+
+> *pāvīravī tanyaturekapādajo divo dhartā sindhurāpaḥ samudriyaḥ |*
+> *viśve devāsaḥ śṛṇavanvacāṃsi me sarasvatī saha dhībhiḥ purandhyā ‖*
+
+(Ṛ. Saṃ. 10-65-13 [?]) — in this ṛk the Nirukta-writers (Ni. 12-30 [?]) have given the meaning "*vacanāni* (words) that are accompanied by manifold praise (*purandhyā stutyā prayuktāni*)" for this word. Sāyaṇa, saying "*bahuvidhayā prajñayā sahitā sarasvatī*", has stated that it is an epithet of Sarasvatī, who is endowed with manifold wisdom. But, from the explanation given by Durgācārya (Ni. 12-30 [?]), "*bahudhātryai; mādhyamikayā vācā*", it is known that the word *purandhi* suggests a special deity like Sarasvatī. In the same way:
+
+> शं नो भगः शमु नः शंसो अस्तु शं नः पुरन्धिः शमु सन्तु रायः ।
+> शं नः सत्यस्य सुयमस्य शंसः शं नो अर्यमा पुरुजातो अस्तु ॥
+
+> *śaṃ no bhagaḥ śamu naḥ śaṃso astu śaṃ naḥ purandhiḥ śamu santu rāyaḥ |*
+> *śaṃ naḥ satyasya suyamasya śaṃsaḥ śaṃ no aryamā purujāto astu ‖*
+
+(Ṛ. Saṃ. 7-35-2 [?]) — in such ṛks it appears that *purandhi* is an individual deity. Sāyaṇa too has not made it an epithet of *bhaga* and the other words in this ṛk. And:
+
+> देवो वो भगः सविता रायो अंश इन्द्रो वृत्रस्य संजितो धनानाम् ।
+> ऋभुक्षा वाज उत वा पुरन्धिरवन्तु नो अमृतासस्तुरासः ॥
+
+> *devo vo bhagaḥ savitā rāyo aṃśa indro vṛtrasya saṃjito dhanānām |*
+> *ṛbhukṣā vāja uta vā purandhiravantu no amṛtāsasturāsaḥ ‖*
+
+(Ṛ. Saṃ. 5-42-5 [?]) — in this ṛk the word is a synonym of Vibhvan [?].
+
+> पुराणी देवि युवतिः पुरन्धिरनु व्रतं [?] विश्ववारे ।
+
+> *purāṇī devi yuvatiḥ purandhiranu vrataṃ [?] viśvavāre |*
+
+(Ṛ. Saṃ. 3-61-1 [?]) — in such places it is an epithet of Uṣas: "possessed of many *stotras*" is the meaning. So in many places this word is used both for the wife and for woman in general: it gives the meaning of "women who are fit and ripe to bear offspring and not barren".
+
+### Printed p. 530  (PDF 550)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 530.)*
+
+> अग्निः सप्तिं वाजम्भरं ददात्यग्निर्वीरं श्रुत्यं कर्मनिष्ठाम् ।
+> अग्नी रोदसी वि चरत्समञ्जन्नग्निर्नारीं वीरकुक्षिं पुरन्धिम् ॥
+
+> *agniḥ saptiṃ vājambharaṃ dadātyagnirvīraṃ śrutyaṃ karmaniṣṭhām |*
+> *agnī rodasī vi caratsamañjannagnirnārīṃ vīrakukṣiṃ purandhim ‖*
+
+(Ṛ. Saṃ. 10-80-1 [?]) — in such ṛks (Ṛ. Saṃ. 1-116-13 [?]; 1-117-19 [?]) it means a woman capable of giving birth (*prasavasamartha*), a wife; and
+
+> प्र बोधयोषः पुरन्धिं जार आ ससतीमिव ।
+> प्र चक्षय रोदसी वासयोषसः श्रवसे वासयोषसः ॥
+
+> *pra bodhayoṣaḥ purandhiṃ jāra ā sasatīmiva |*
+> *pra cakṣaya rodasī vāsayoṣasaḥ śravase vāsayoṣasaḥ ‖*
+
+(Ṛ. Saṃ. 1-124-6 [?]) — in such ṛks too it means a woman fit for enjoyment. Thus, when it describes manifold qualities, the word *purandhi* indicates both the abundance of those qualities and the prosperity of truth. In the ṛk at hand the Sāyaṇa-bhāṣya shows that it is an epithet that describes the quality of the earth, which is full of wealth and is the supporter of the world.
+
+***sūriḥ*** — "*stotā ayaṃ yajamānaḥ*" — "the sacrificer, who is the praiser": it shows the *stuti*-doing of the sacrificer. Since *rebhaḥ*, *jaritā*, *kāruḥ* and so on are read among the thirteen names of "praiser" (Ni. 3-13 [?]), *sūrayaḥ* means "praisers", i.e. devotees who do *stotra*. In contexts in which it gives the meaning "the discerning, the intelligent", the word *sūri* is used in many places. When it is used of the ṛṣis who have obtained an unearthly, bodily-eyed and mental vision, which grasps the true forms of the deities and the secret truths of the universe, this epithet gives a special meaning.
+
+> तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः । दिवीव चक्षुराततम् ॥
+
+> *tadviṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣurātatam ‖*
+
+(Ṛ. Saṃ. 1-22-20 [?]) — in such contexts the word indicates the extraordinary power of vision of the ṛṣis, not merely of those who praise. And this word is used also of Indra and other deities, as an epithet. For example:
+
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ।
+
+> *maṃhiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai |*
+
+(Ṛ. Saṃ. 1-61-3 [?]) — in such ṛks, "*vipaścitam indram*" and so on, the wisdom (*prājñatva*) of Indra and other deities is shown. Besides, the word *sūri* is used also to indicate the meanings "master" (*prabhu*), "impeller" (*preraka*), "one who sets on the right path" (*sanmārgapravartaka*). For example:
+
+> जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः ।
+
+> *jano yaḥ pajrebhyo vājinīvānaśvāvato rathino mahyaṃ sūriḥ |*
+
+(Ṛ. Saṃ. 1-122-7 [?])
+
+---
+
+**Progress note:** printed p. 530 (PDF 550) done — Sūkta 180 Ṛk 6 Special Topics (purandhim, sūriḥ; continues p. 531). Next: printed p. 531 (PDF 551). Open flags: refs [?]; review/doubts_v13.json.
