@@ -7499,4 +7499,66 @@ By the two similes *narāṃ na* and *turo na* the comparison with kings and wit
 
 ---
 
-**Progress note:** printed p. 296 (PDF 316) done — Sūkta 173 Ṛk 9 complete. Next: printed p. 297 (PDF 317), Sūkta 173 Ṛk 10. Open flags: sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 297  (PDF 317)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+---
+
+**Sūkta 173, Ṛk 10**
+
+**Saṃhitā-pāṭha**
+
+> विस्पर्धसो नरां न शंसैरस्माकासदिन्द्रो वज्रहस्तः ।
+> मित्रायुवो न पूर्पतिं सुशिष्वो मध्यायुव उप शिक्षन्ति यज्ञैः ॥ १० ॥
+
+> *vispardhaso narāṃ na śaṃsair asmākāsad indro vajrahastaḥ |*
+> *mitrāyuvo na pūrpatiṃ suśiṣvo madhyāyuva upa śikṣanti yajñaiḥ ‖ 10 ‖*
+
+(Saṃhitā word *suśiṣvo* as read from print: [?].)
+
+**Pada-pāṭha**
+
+> विऽस्पर्धसः । नराम् । न । शंसैः । न । अस्माकम् । असत् । इन्द्रः । वज्रऽहस्तः ।
+> मित्रऽयुवः । न । पूःऽपतिम् । सुऽशिष्वा [?] । मध्यऽयुवः । उप । शिक्षन्ति । यज्ञैः ॥ १० ॥
+
+> *vi-spardhasaḥ | narām | na | śaṃsaiḥ | na | asmākam | asat | indraḥ | vajra-hastaḥ |*
+> *mitra-yuvaḥ | na | pūḥ-patim | su-śiṣvā [?] | madhya-yuvaḥ | upa | śikṣanti | yajñaiḥ ‖ 10 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> नरां नेतॄणां मध्ये सस्पर्धान्नरान्यथा विस्पर्धसः कुर्वन्ति सखिभूताः तद्वदस्यमिन्द्रं शंसैः । स्तुतिभिः सखायोः वयं तं तथा कुर्मः । स च वज्रहस्तो विरोधिशिक्षणाय सर्वदा वज्रधारीन्द्रोऽस्माकमसत् । विस्पर्धमनुकूलो भवतु । किंच मित्रायुवो न मित्रेच्छवो हितैषिण इव सुशिष्वा [?] सुशासने वर्तमानं पूर्पतिं पुरः स्वामिनं यथाभिमतदानेन पूजयन्ति तथा मध्यायुवोऽस्माकं श्रियां यशसां च मध्येऽवस्थितिं कामयमाना अध्वर्य्वादयो यज्ञैर्यज्ञसाधनैर्हविःस्तोत्रादिभिरुपशिक्षन्ति । उपेत्य यजन्ते । शिक्षतिर्दानकर्मा ॥ [?]
+
+> *narāṃ netṝṇāṃ madhye sasparddhān narān yathā vispardhasaḥ kurvanti sakhibhūtāḥ tadvad asyam indraṃ śaṃsaiḥ | stutibhiḥ sakhāyoḥ vayaṃ taṃ tathā kurmaḥ | sa ca vajrahasto virodhiśikṣaṇāya sarvadā vajradhārīndro 'smākam asat | vispardham anukūlo bhavatu | kiṃca mitrāyuvo na mitrecchavo hitaiṣiṇa iva suśiṣvā [?] suśāsane vartamānaṃ pūrpatiṃ puraḥ svāminaṃ yathābhimatadānena pūjayanti tathā madhyāyuvo 'smākaṃ śriyāṃ yaśasāṃ ca madhye 'vasthitiṃ kāmayamānā adhvaryvādayo yajñair yajñasādhanair haviḥstotrādibhir upaśikṣanti | upetya yajante | śikṣatir dānakarmā ‖* [?]
+
+*Gist:* As friends emulate men with praises, so we, by our praises, make the thunderbolt-handed Indra friendly to us; as friends honour a good ruler of a city with gifts, so our priests, wishing to stand in the midst of our fortune and fame, honour him with sacrifices.
+
+**Pratipadārtha (Kannada, translated)**
+
+*narām* — among men (those who are in rivalry); *vispardhasaḥ na* — as friends make (men) free from rivalry; *śaṃsaiḥ* — by *stotras* and the like (we make Indra friendly); *vajrahastaḥ* — (to subdue the enemy) the bearer of the thunderbolt; *indraḥ* — Indra; *asmākam asat* — may he be (favourable) to us; *mitrāyuvaḥ* — the well-wishers; *suśiṣvā* [?] — (a kingdom) in a good manner, in the governing of which (the lord of the city, the jewel) is (rich); *pūrpatim na* — as the lord of a city is satisfied with gifts as desired (the master); *madhyāyuvaḥ* — those who, in the midst (of our riches or of our fame), wish to stand — the Adhvaryu and the others; *yajñaiḥ* — with the means of sacrifice, oblations and so on; *upa śikṣanti* — approach and worship.
+
+**Bhāvārtha**
+
+As friends, by praise and the like, bring about the removal of rivalry among men, so we, by praising Indra, make him favourable to us. As friends honour with gifts, desired by him, a king who rules a kingdom well, so our priests, the Adhvaryu and others, who wish for the regard of riches, honour Indra with oblations and the other means of sacrifice.
+
+### Printed p. 298  (PDF 318)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Printed English**
+
+Emulous in commendation, like (those contending for the favour) of men, may Indra, the wielder of the thunderbolt, be equally (a friend) to us: like those who, desirous of his friendship, (conciliate) the lord of a city (ruling) with good government, so do our intermediate (representatives) propitiate (Indra) with sacrifices.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***narāṃ vispardhasaḥ śaṃsaiḥ — netṝṇāṃ madhye sasparddhān narān yathā sakhibhūtāḥ kurvanti tadvad asmin indraṃ stutibhiḥ sakhāyo vayaṃ taṃ tathā kurmaḥ*** — In the world, men engaged in business, seeing rivalry among them, make the rival friends give up the rivalry for the sake of their favour; so we, the sacrificers, knowing Indra to be our friend, praise him with the wish that Indra, in being favourable to us, may raise our rivalry (our zeal) to excess in granting favour: so it is explained.
+
+***vajrahastaḥ — virodhiśikṣaṇāya sarvadā vajradhārī asmākam anukūlo bhavatu*** — Indra, who holds the thunderbolt in his hand always in order to chastise enemies, is wished to be favourable to us, the sacrificers.
+
+***mitrāyuvo na*** — Sāyaṇa has explained the word *mitra* as "benefit" (*hita*): that Indra be a well-wisher to us, as a *mitra* seeks the benefit of his friends.
+
+***pūrpatiṃ madhyāyuvaḥ yajñaiḥ upaśikṣanti — asmākaṃ śriyāṃ yaśasāṃ ca madhye avasthitiṃ kāmayamānāḥ adhvaryv-ādayaḥ yajñasādhanair haviḥ stotrādibhiḥ upetya yajante*** — the verb root *śikṣ* is read by the Nirukta-writers among the names of the action of giving, *dāśati* and the others (Ni. 3-19 [?]). Here it is used in the sense "give". As, in the visible presence of a lord, men honour him by offering gifts desired by him, so the Adhvaryu and other priests, wishing a position for the sacrificers in the midst of their riches and fame, honour Indra by offering oblations, the means of the sacrifice, and by reciting *stotras*: this is the meaning described. The lord, by gifts desired by him, directly…
+
+---
+
+**Progress note:** printed p. 298 (PDF 318) done — Sūkta 173 Ṛk 10: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 299). Next: printed p. 299 (PDF 319). Open flags: Ṛk 10 word suśiṣvā/suśiprā [?]; bhāṣya doubtful [?]; review/doubts_v13.json.
