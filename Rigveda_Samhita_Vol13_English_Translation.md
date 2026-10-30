@@ -12125,4 +12125,80 @@ Number of ṛks in the Sūkta — 5 ‖ Ṛṣi — Agastya ‖ Devatā — Indr
 
 ---
 
-**Progress note:** printed p. 446 (PDF 466) done — Sūkta 177 complete (5 ṛks); Sūkta 178 heading written (Varga 21, 5 ṛks, Triṣṭubh). Next: printed p. 447 (PDF 467), Sūkta 178 Ṛk 1 Saṃhitā. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 447  (PDF 467)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 447.)*
+
+**Sūkta 178, Ṛk 1**
+
+**Saṃhitā-pāṭha**
+
+> यद्ध स्या त इन्द्र श्रुष्टिरस्ति यया बभूथ जरितृभ्य ऊती ।
+> मा नः कामं महयन्तमा धग्विश्वा ते अश्यां पर्याप आयोः ॥ १ ॥
+
+**Pada-pāṭha**
+
+> यत् । ह । स्या । ते । इन्द्र । श्रुष्टिः । अस्ति । यया । बभूथ । जरितृऽभ्यः । ऊती ।
+> मा । नः । कामम् । महयन्तम् । आ । धक् । विश्वा । ते । अश्याम् । परि । आपः । आयोः ॥ १ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे इन्द्र यद्वा स्यासौ [?] प्रसिद्धा श्रुष्टिः सर्वत्र श्रूयमाणा सम्पृद्धिस्ते त्वास्ति [?] यया जरितृभ्यः स्तोतृभ्य ऊत्यै रक्षणाय बभूथ समर्थो भवसि नोऽस्माकं महयन्तमस्मान्महतः कुर्वाणं कामममीष्टं मा धक् । मा दाक्षीः । ते तव सम्बन्धीनि विश्वा सर्वाणि भोगजातान्याप आप्तव्यानि [?] । यद्वा । विश्वा सर्वा आप आप्ताः श्रुतयः [?] आयोर्मनुष्यस्योचिताः । पर्यश्याम् । परितो व्याप्नुयाम् ॥
+
+*Gist:* Indra possesses a well-known, widely heard prosperity by which he protects his praisers; may he not frustrate our desire for greatness, and may we obtain all that is fit for man by his favour.
+
+**Pratipadārtha**
+
+(*he*) **Indra** — O Indra; **yat ha** — for which reason; **syā** — that well-known; **śruṣṭiḥ** — prosperity heard of everywhere; **te** — for you; **asti** — there is; **yayā** — by which; **jaritṛbhyaḥ** — of the praisers; **ūtī** — for protection; **babhūtha** — you are capable; (therefore) **naḥ** — our; **mahayantam** — greatness-seeking; **kāmam** — desire; **mā ā dhak** — do not frustrate; **āyoḥ** — fit for man; **te** — related to you; **viśvā āpaḥ** — all obtainable enjoyments etc.; **pari aśyām** — may I obtain (by your favour).
+
+**Bhāvārtha**
+
+O Indra! You have well-known prosperity by which you are able to protect your praisers. Therefore do not frustrate our wish for greatness; and may we obtain, from among the enjoyments that are yours, those that are fit for men.
+
+### Printed p. 448  (PDF 468)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 448.)*
+
+**Printed English**
+
+> Inasmuch, Indra, as the praise by which you are (induced to bestow) protection on your adorers is heard (by all), therefore disappoint not the desire (that would raise us) to greatness: may I obtain, through your (favour), all things that are obtainable by man.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***śruṣṭiḥ*** — "*śruṣṭīti kṣipranāma āśu aṣṭīti*" — the word *śruṣṭi*, which gives the sense "to pervade quickly", the Nirukta-writers have said is to be counted among the names of "swift" (*kṣipra*) (Ni. 6-12 [?]); and to show the usage of the word, the Ṛk-saṃhitā ṛk
+
+> ता अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिम् ।
+
+> *tā adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā puraṃdhim |*
+
+(Ṛ. Saṃ. 7-39-4 [?]) is cited and explained. Sāyaṇa too takes it as "swift". But in the ṛk at hand only, *śruṣṭiḥ — sarvatra śrūyamāṇā samṛddhiḥ* ("prosperity heard of everywhere") — he explains it as "prosperity renowned in all regions". Since this is said, the root here has to be different. Note how others elsewhere explain the same word:
+
+> वनेषु जायुर्मर्तेषु मित्रो वृणीते श्रुष्टिं राजेवाजुर्यम् ।
+
+> *vaneṣu jāyurmarteṣu mitro vṛṇīte śruṣṭiṃ rājevājuryam |*
+
+(Ṛ. Saṃ. 1-67-1 [?]) — in this ṛk the Nirukta-writers' own derivation is cited (Ni. 6-12 [?]): "one who performs rites quickly" — so it is explained that the word is used as a synonym of the sacrificer. Thus different meanings, too, become possible according to the context. For example:
+
+> नकिष्ट एता व्रता मिनन्ति नृभ्यो यदेभ्यः श्रुष्टिं चकर्थ ।
+
+> *nakiṣṭa etā vratā minanti nṛbhyo yadebhyaḥ śruṣṭiṃ cakartha |*
+
+(Ṛ. Saṃ. 1-69-9 [?]) — in this ṛk "*śu āśu aśnute vyāpnotīti śruṣṭir yajñaphalarūpaṃ sukham*" ("what quickly pervades — *śruṣṭi* — is the happiness that is the fruit of the sacrifice") it is used as a synonym of "happiness", because it quickly reaches the sacrificer along with the performance of the sacrifice. Likewise in the Ṛk-saṃhitā,
+
+> गिरा च श्रुष्टिः सभरा असन्नो नेदीय इत्सृण्यः पक्वमेयात् ।
+
+> *girā ca śruṣṭiḥ sabharā asanno nedīya itsṛṇyaḥ pakvameyāt |*
+
+(Ṛ. Saṃ. 10-101-9 [?]) — it is explained as "food". And again:
+
+> आपी वो अस्मे पितरेव पुत्रोग्रेव रुचा नृपतीव तुर्यै [?] ।
+> इर्यैव पुष्ट्यै किरणेव भुज्यै श्रुष्टीवानेव हवमा गमिष्टम् ॥
+
+> *āpī vo asme pitareva putrogreva rucā nṛpatīva turyai [?] |*
+> *iryaiva puṣṭyai kiraṇeva bhujyai śruṣṭīvāneva havamā gamiṣṭam ‖*
+
+(Ṛ. Saṃ. 10-106-4 [?]) — [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 448 (PDF 468) done — Sūkta 178 Ṛk 1: Saṃhitā…printed English, Special Topics begun (śruṣṭi; continues p. 449). Next: printed p. 449 (PDF 469). Open flags: refs [?]; review/doubts_v13.json.
