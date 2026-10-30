@@ -10258,4 +10258,68 @@ Here the function of this word — ***asmadarthaḥ*** — is for us, the sacrif
 
 ---
 
-**Progress note:** printed p. 388 (PDF 408) done — Sūkta 175 Ṛk 5 Special Topics complete; grammar in progress (continues p. 389). Next: printed p. 389 (PDF 409). Open flags: Ṛg/Upaniṣad refs and quotes [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 389  (PDF 409)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+- ***varivovidā*** — root *vida jñāne*; the suffix *kvip*; as before, the substitution *ā* for the case ending; the *kṛdutta* final member keeps its natural accent.
+- ***maṃsīṣṭhāḥ*** — root *mana jñāne*; *liṅ*, second person singular, *thās*; by "*liṅaḥ sīyuṭ*" (Pā. Sū. 3-4-102 [?]) the augment *sīyuṭ*; by "*suṭ tithoḥ*" (Pā. Sū. 3-4-107 [?]) the augment *suṭ* for *thās*; *anusvāra* for the *n* of the root; because it is in *pādādi* position, no *nighāta*; by the suffix accent the end syllable is *udātta*.
+- ***aśvasātamaḥ*** — root *ṣaṇu dāne*; the suffix *kvip*; by "*janasanakhanāṃ sañjhaloḥ*" (Pā. Sū. 6-4-42 [?]) *ā* for the root; to it, in the sense of excess, the suffix *tamap*; the *kṛdutta* final member keeps its natural accent. ‖ 5 ‖
+
+---
+
+**Sūkta 175, Ṛk 6**
+
+**Saṃhitā-pāṭha**
+
+> यथा पूर्वेभ्यो जरितृभ्य इन्द्र मय इवापो न तृष्यते बभूथ ।
+> तामनु त्वा निविदं जोहवीमि विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+
+> *yathā pūrvebhyo jaritṛbhya indra maya ivāpo na tṛṣyate babhūtha |*
+> *tām anu tvā nivida johavīmi vidyām eṣaṃ vṛjanaṃ jīradānum ‖ 6 ‖*
+
+(The print reads *nividaṃ* in the Saṃhitā line: *tāmanu tvā nividaṃ johavīmi*.)
+
+**Pada-pāṭha**
+
+> यथा । पूर्वेभ्यः । जरितृऽभ्यः । इन्द्र । मयःऽइव । आपः । न । तृष्यते । बभूथ ।
+> ताम् । अनु । त्वा । निऽविदम् । जोहवीमि । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ६ ॥
+
+> *yathā | pūrvebhyaḥ | jaritṛ-bhyaḥ | indra | mayaḥ-iva | āpaḥ | na | tṛṣyate | babhūtha |*
+> *tām | anu | tvā | ni-vidam | johavīmi | vidyāma | iṣam | vṛjanam | jīra-dānum ‖ 6 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र पूर्वेभ्यो जरितृभ्यः पुरातनेभ्यो गरितृभ्यः स्तोतृभ्यः स्तोतृभ्यो मयु [?] इव बभूथ । मयः सुखं । सुखस्वरूपमिवाभवः । तद्वत् स्तोतृभ्योऽस्मभ्यं सुखो भव । तत्र दृष्टान्तः । तृष्यते आपो न तृषार्तस्योदकानि यथा सुखकराणीति तद्वत् । तस्मात्तां निविदं स्वप्रसिद्धां स्तुतिं त्वा तुभ्यमनु जोहवीमि । पुनः पुनः करोमि । यद्वा । तां निविदमनु ॥ तृतीयार्थे । पा. १-४-८५ [?] । इत्येनोः कर्मप्रवचनीयत्वम् ॥ तया स्तुत्या त्वां जोहवीमि । पुनः पुनराह्वयामि । विद्यामेति व्याख्यातम् ॥
+
+> *he indra pūrvebhyo jaritṛbhyaḥ purātanebhyo garitṛbhyaḥ stotṛbhyaḥ stotṛbhyo mayu [?] iva babhūtha | mayaḥ sukhaṃ | sukhasvarūpam ivābhavaḥ | tadvat stotṛbhyo 'smabhyaṃ sukho bhava | tatra dṛṣṭāntaḥ | tṛṣyate āpo na tṛṣārtasyodakāni yathā sukhakarāṇīti tadvat | tasmāt tāṃ nividaṃ svaprasiddhāṃ stutiṃ tvā tubhyam anu johavīmi | punaḥ punaḥ karomi | yadvā | tāṃ nividam anu ‖ tṛtīyārthe | pā. 1-4-85 [?] | ity enoḥ karmapravacanīyatvam ‖ tayā stutyā tvāṃ johavīmi | punaḥ punar āhvayāmi | vidyāmeti vyākhyātam ‖*
+
+*Gist:* O Indra, as you were happiness itself to the ancient praisers, like water to the thirsty, so be to us; by that same well-known praise (*nivid*) I call on you again and again; that we may obtain food, strength and long life.
+
+### Printed p. 390  (PDF 410)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *pūrvebhyaḥ* — to the ancient; *jaritṛbhyaḥ* — praisers; *tṛṣyate* — to the thirsty; *āpaḥ na* — as waters are the cause of satisfaction; *mayaḥ iva* — as of the nature of happiness; *yathā* — as; *babhūtha* — you were (so to us also you be happy-natured); (therefore) *tām* — that well-known; *nividam anu* — following the praise (of yours); *tvā* — you; *johavīmi* — I repeatedly invoke; *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain (by your grace).
+
+**Bhāvārtha**
+
+O Indra, as you were happiness-giving to the ancient praisers, as waters give satisfaction to the thirsty, so be to us also happiness-giving; I praise you again and again with those well-known words of praise; bestow on us food, strength and long life.
+
+**Printed English**
+
+Inasmuch, Indra, as you have been the-(giver of) happiness to your ancient encomiasts, like water to one who is thirsty, therefore I constantly repeat this your praise, that I may thence obtain food, strength, and long life. [As printed: "the-(giver of)".]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Describing the delight that Indra gives to praisers, and likening the satisfaction arising from that delight to the satisfaction obtained by the thirsty from drinking water, the sage-seer of this sūkta also resolves to praise, with *nivid* mantras, the Indra who gives such satisfaction, as the earlier praisers praised.
+
+***nividaṃ johavīmi — nivid*** mantras: it is resolved that "I offer *nivid* mantras". Earlier, in Ṛ. Saṃ. 1-96-2 [?], in describing the special matters of that ṛk, by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras, which was indicated there, was explained. (Ṛgvedasaṃhitā, Part 8 [?], pp. 74–76.) But that mantra was addressed to Agni, and the *nivid* mantras expressly indicated there being Agni's, only the mantras whose deity is Agni were described in that context. In the ṛk in hand, as it is addressed to Indra, the influence and the applications of the *nivid* mantras are described in the manner suited to this context.
+
+Mantras which describe the extraordinary qualities of a deity, or of a group of deities, and invoke them, are well known by the name *nivid* mantras. The Bṛhaddevatā, pointing out this very fact —
+
+---
+
+**Progress note:** printed p. 390 (PDF 410) done — Sūkta 175 Ṛk 5 complete; Ṛk 6 (last of Sūkta 175): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (nivid; continues p. 391). Next: printed p. 391 (PDF 411). Open flags: Ṛk 6 Saṃhitā 'nividaṃ' print [?]; sūtra numerals [?]; review/doubts_v13.json.
