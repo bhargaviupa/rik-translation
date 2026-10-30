@@ -3360,15 +3360,15 @@ In the third meaning, in "*maruto'pi tyāgāt vṛṣṭyādi viṣayāt vārayi
 
 **॥ संहितापाठः ॥**
 
-> अयुज्रन्त इन्द्र विश्वकृष्टीर्विदानासो निष्षिधो मर्त्यत्रा [?] ।
+> अयुज्रन्त इन्द्र विश्वकृष्टीर्विदानासो निष्षिधो मर्त्यत्रा ।
 > मरुतां पृत्सुतिर्हासमाना स्वर्मीळ्हस्य प्रधनस्य सातौ ॥ २ ॥
 
-> *ayujranta indra viśvakṛṣṭīrvidānāso niṣṣidho martyatrā [?] |*
+> *ayujranta indra viśvakṛṣṭīrvidānāso niṣṣidho martyatrā |*
 > *marutāṃ pṛtsutirhāsamānā svarmīḷhasya pradhanasya sātau ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
 
-> अयुज्रन् । ते । इन्द्र । विश्वऽकृष्टीः । विदानासः । निःऽसिधः । मर्त्यऽत्रा [?] ।
+> अयुज्रन् । ते । इन्द्र । विश्वऽकृष्टीः । विदानासः । निःऽसिधः । मर्त्यऽत्रा ।
 > मरुताम् । पृत्ऽसुतिः । हासमाना । स्वःऽमीळ्हस्य । प्रऽधनस्य । सातौ ॥ २ ॥
 
 > *ayujran | te | indra | viśva 'kṛṣṭīḥ | vidānāsaḥ | niḥ 'sidhaḥ | martya 'trā [?] |*
@@ -3376,4 +3376,46 @@ In the third meaning, in "*maruto'pi tyāgāt vṛṣṭyādi viṣayāt vārayi
 
 ---
 
-**Progress note:** printed p. 150 (PDF 170) done — Sūkta 169 Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written. Next: printed p. 151 (PDF 171): bhāṣya of Ṛk 2. Open flags: small-type numerals [?]; Ṛk 2 Saṃhitā niṣṣidho/martyatrā [?]; review/doubts_v13.json.
+### Printed p. 151  (PDF 171)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9".)*
+
+**॥ सायणभाष्यम् ॥**
+
+> पूर्वमन्त्रे मरुतामिन्द्रसाहाय्यमुक्तम् । अत्रेन्द्रस्य मरुत्साहाय्यमुच्यते । हे इन्द्र ते मरुतोऽयुज्रन् । युज्यन्ते । त्वया [?] युक्ता भवन्तीत्यर्थः । कीदृशास्ते । विश्वकृष्टीर्विश्वकृष्टयो राज्यत्वेन सर्वजनवन्तः । किंच मर्त्यत्रा मर्त्येषु मर्त्यार्थं निष्षिधो निःशेषेणोदकस्य सेक्तॄन् मेघान् विदानासो जानानाः । किंच येषां मरुतां पृत्सुतिः सेना स्वर्मीळ्हस्य प्रधनस्य सुखसेक्तुः प्रकृष्टधनवतो वृत्रादिसंग्रामस्य सातौ लाभे जयो निमित्तभूते सति सेना हासमाना हासं कुर्वती हर्षयुक्ता भवति । यद्वा । सुखेन मिह्यते जलं यस्मिन् ताद्दृशस्य प्रधनस्य प्रकृष्टोदकाख्यधनसाधनस्य संग्रामस्य सातौ । मेघभेदनायेति यावत् । येषामीदृशी सेनास्ति ते मरुतोऽयुज्रन्निति संबन्धः ॥
+
+*Gist:* The Maruts join Indra, rulers over all men, knowing the water-shedding clouds that rain for mortals; their army exults at the victory in the battle with Vṛtra, or in the cloud-splitting that wins the waters.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *(yeṣām)* *marutām* — of which Marut-gods; *pṛtsutiḥ* — the army; *svarmīḷhasya* — conducive to heaven (conducive to happiness); *pradhanasya* — of the battle in which excellent wealth is gained (such as the battle with Vṛtra); *sātau* — in the matter of gain (victory); *[atha vā* — or*]* *svarmīḷhasya* — easily obtainable water; *pradhanasya* — of the cloud possessing excellent water as wealth; *sātau* — in (your) bringing about victory; *hāsamānā* — laughing (delighted); *te* — those; *viśvakṛṣṭīḥ* — distinguished by all people; *martyatrā* — for human beings (among men); *niṣṣidhaḥ* — clouds that sprinkle water in abundance; *vidānāsaḥ* — those who know (the Marut-gods); *ayujran* — (with you) are joined.
+
+**Bhāvārtha.** O Indra, the Marut-gods, distinguished by all people (that is, rulers of men), and urging for men the rain-causing clouds, are with you alone; through the victory in the battle with Vṛtra and the like that you achieve, or through the splitting of the cloud, these Marut-gods become delighted.
+
+**English Translation (as printed):** Rulers over all men, and impelling towards man the water-shedding clouds, they are united, Indra, (with you): the host of Maruts is delighted by (your) acquisition of heaven-bestowing wealth.
+
+### Printed p. 152  (PDF 172)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+The help that Indra gave to the Marut-gods was stated in the preceding mantra; the help that Indra receives from the Marut-gods is stated in this mantra.
+
+***viśvakṛṣṭīḥ*** — Sāyaṇa changes this word into the nominative plural *viśvakṛṣṭayaḥ* and, by "*rājyatvena sarvajanavantaḥ*", explains that the Marut-gods, regarding all as their realm, with the idea that all must be protected, are in affection of one kind towards all beings.
+
+***martyatrā niṣṣidhaḥ vidānāsaḥ*** — *martyārthaṃ niḥśeṣeṇa udakasya sektṝn meghān vidānāsaḥ jānānāḥ*: the Marut-gods know that the clouds send down waters for the prosperity of men; this sense too is explained.
+
+***marutāṃ pṛtsutiḥ pradhanasya sātau hāsamānā*** — for the word *pṛtsuti* the sense "army" is given by the Nirukta-writer, and the word *pradhana* is explained by him:
+
+> न्यक्रन्दयन्नुपयन्त एनममेहयन्वृषभं मध्य आजेः ।
+> तेन सूभर्वं शतवत्सहस्रं गवां मुद्गलः प्रधने जगाय ॥
+
+> *nyakrandayann upayanta enam amehayan vṛṣabhaṃ madhya ājeḥ |*
+> *tena sūbharvaṃ śatavat sahasraṃ gavāṃ mudgalaḥ pradhane jagāya ‖*
+
+(Ṛ. Saṃ. 10-102-5 [?]). Here "*pradhana iti saṃgrāma nāma prakīrṇānyasmin dhanāni bhavanti*" — wealth is lavishly spent in it, so *pradhana* denotes battle, war, according to the Nirukta-writer's explanation. Following this, Sāyaṇa explains it as "battle", and, because this bestows happiness, "*sukhasektuḥ prakṛṣṭadhanavato vṛtrādisaṃgrāmasya lābhe jaye nimittabhūte sati senā harṣayuktā bhavati*": the army of the Marut-gods is joyful, because victory is to be obtained in the battle with a Vṛtra possessing abundant wealth that bestows happiness, in the war of conduct to be waged with Asuras beginning with Vṛtra.
+
+In the second meaning, since *svarmīḷhasya* is an adjective of *pradhanasya*: "*sukhena mihyate jalaṃ yasmin tādṛśasya pradhanasya prakṛṣṭodakākhyadhanasādhanasya saṃgrāmasya sātau meghabhedanāya*" — in a battle in which water, a wealth, is obtained with ease, that is, for the sake of the splitting of the cloud, which is the means to the wealth called water: thus the sense is explained, that the army of the Marut-gods is ready for the help of Indra.
+
+---
+
+**Progress note:** printed p. 152 (PDF 172) done — Sūkta 169 Ṛk 2 through Special Topics (grammar on p. 153). Next: printed p. 153 (PDF 173). Open flags: small-type numerals [?]; review/doubts_v13.json.
