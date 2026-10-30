@@ -5635,4 +5635,46 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 
 ---
 
-**Progress note:** printed p. 234 (PDF 254) done — Sūkta 172 Ṛk 2 complete; Ṛk 3 (last of Sūkta 172) through Special Topics begun (continues p. 235). Next: printed p. 235 (PDF 255). Open flags: Ṛk 3 bhāṣya [?]; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 235  (PDF 255)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 12".)*
+
+(*tṛṇaskandasya* continued) — the Nirukta-writers have given the derivation of this word in another context (Ni. 1-[?]); the meaning is "make move", from the root *skand*. Or *tṛṇaskanda* may mean a locust that hops and flies. In the same way, the movement of that Asura may be so described. Since this word is used in the Ṛk Saṃhitā in this one place only, the meaning has to be stated suitably here.
+
+***viśaḥ nu parivṛṅktā*** — two kinds of meaning are explained for this sentence. In the first, the word *viśaḥ* is explained as the sons and the servants — the progeny and the rest — connected with the sacrificer; the prayer is that the Marut-gods, by removing hindrances, protect these progeny, so that they are not troubled in any way. In the second meaning, ***yadvā uktalakṣaṇakālasya asuraviśeṣasya vā prajāḥ parivarjayata*** — "destroy the progeny of the time of the kind described, which causes distress to the sacrificer, or of an Asura named Tṛṇaskanda — his sons and servants of evil nature": the favour of the Marut-gods is wished. The word *viśaḥ* is read among the names of men (Ni. 2-[?]). And
+
+> जराबोध तद्विविड्ढि विशे विशे यज्ञियाय ।
+> स्तोमं रुद्राय दृशीकम् ॥
+
+> *jarābodha tad viviḍḍhi viśe viśe yajñiyāya |*
+> *stomaṃ rudrāya dṛśīkam ‖*
+
+(Ṛ. Saṃ. 1-114-4 [?]). In this ṛk the words *viśe viśe* are used in the sense of *manuṣyasya manuṣyasya* ("of each man"). Sāyaṇa explains *putrabhṛtyādirūpāḥ prajāḥ* ("progeny in the form of sons, servants and the like").
+
+***naḥ ūrdhvān kartā jīvase*** — *asmān cirajīvanāya kuruta*: the prayer is that the Marut-gods grant that we, the sacrificers, may live for a very long time. "*ūrdhva ucchritaḥ bhavati*" (Ni. 2-[?]) — the meaning is "elevated". In general the word is used to show worldly elevation, but in the present ṛk it means exceedingly excellent material and spiritual progress.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *tṛṇaskandasya* (*tṛṇavat skandaḥ pariścalanaṃ yasya*; accent on the last syllable by the rule for compounds); *vṛṅkta* (root *vṛjī varjane*; *loṭ* 2nd plural; since there is no *liṅvadbhāva*, *ta* by "*tasthasthamipāṃ tāntaṃtāmaḥ*", Pā. Sū. 3-4-101 [?]; *śnam* as vikaraṇa; loss of its *a* by "*śnasoralloṇaḥ*" [as read], Pā. Sū. 6-4-111 [?]; *anusvāra* for *n* by the following-class nasal; *nighāta*).
+
+### Printed p. 236  (PDF 256)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 172".)*
+
+*(Grammar of Ṛk 3, concluded; noted briefly)*: *kartā* (root *ḍukṛñ karaṇe*; *loṭ* 2nd plural; when *ta* arises, *tana* replaces it by "*taptanaptanthanāśca*", Pā. Sū. 7-1-45 [?]; *luk* of the vikaraṇa by "*bahulaṃ chandasi*"; since the affix is *p*-marked, no *ñ*-ness comes; *guṇa* by "*sārvadhātukārdhadhātukayoḥ*"; *r* follows; *nighāta*); *jīvase* (root *jīva prāṇadhāraṇe*; in the sense of an infinitive the affix *ase* by "*tumarthe sese…*", Pā. Sū. 3-4-9 [?]; the first syllable of the affix is acute; since it ends in a diphthong (*ejanta*), it gets the name *avyaya* by "*kṛnmejantaḥ*", Pā. Sū. 1-1-39 [?]). ‖ 3 ‖
+
+*Here ends the hundred and seventy-second Sūkta.* (ಇಲ್ಲಿಗೆ ನೂರ ಎಪ್ಪತ್ತೆರಡನೇ ಸೂಕ್ತ ಮುಗಿದುದು.)
+
+## Sūkta 173 — *gāyat sāma* (Anuvāka 23, ninth Sūkta; 13 ṛks)
+
+*(Heading, p. 236: "The hundred and seventy-third Sūkta" — ನೂರ ಎಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> गायत्साम [?] इति त्रयोदशर्चं नवमं सूक्तमागस्त्यं त्रैष्टुभमैन्द्रम् । गायत्स्तोत्रीया [?] इत्यनुक्रान्तम् ॥ समूळ्हे दशरात्रे तृतीयेऽहनि छन्दोमे मरुत्वतीये शस्त्र एतत्सूक्तम् । विश्वजितोऽग्निं नर इति खण्डे सूत्रितम् । तृतीयस्येन्द्रः स्वाहा गायत्साम । आ. ८-७ [?] । इति ॥
+
+*Gist:* The ninth sūkta (*gāyat sāma*), of thirteen ṛks, by Agastya, to Indra, in triṣṭubh; used in the Marutvatīya litany of the third day of the ten-day Samūḍha rite.
+
+**Anuvāda (Kannada).** This Sūkta beginning *gāyat sāma* is the ninth Sūkta in the twenty-third anuvāka. It has thirteen ṛks. Agastya is the ṛṣi of this Sūkta; Indra is the deity; the metre is Triṣṭubh. In the Anukramaṇikā it is said "*gāyatstotrīyā*" [as read]. In the sacrifice called *samūḍha*, performed over ten days, the application of this Sūkta in the Marutvatīya-śastra mantras at the time of the recitation of the mantras of the third (*chandoma*) day is stated by the Āśvalāyana Śrauta-sūtra, in the section beginning *viśvajito'gniṃ naraḥ*, by the sūtra "*tṛtīyasyendraḥ svāhā gāyatsāma*" (Āś. 8-7 [?]).
+
+---
+
+**Progress note:** printed p. 236 (PDF 256) done — Sūkta 172 complete (3 ṛks, pp. 226–236); Sūkta 173 (13 ṛks) heading and anuvāda written. Next: printed p. 237 (PDF 257): Sūkta 173 heading block and Ṛk 1. Open flags: ref numerals [?]; review/doubts_v13.json.
