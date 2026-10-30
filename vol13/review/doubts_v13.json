@@ -2302,5 +2302,29 @@
   ],
   "note": "grammar sutra numerals small type",
   "answer": ""
+ },
+ {
+  "pdf": 299,
+  "printed": 279,
+  "crop": [
+   0.12,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 7 bhashya dense: 'urunyatiprabhutani', 'prapathintamam prakrstamargetamam', 'samanaprtiyuktasta..' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 280,
+  "crop": [
+   0.45,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-17, 9-17(?), 10-8; Rg ref 6-75-14 small; quote aa janghanti.. read approx",
+  "answer": ""
  }
 ]
