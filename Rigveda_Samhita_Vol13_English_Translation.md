@@ -15281,4 +15281,64 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 
 ---
 
-**Progress note:** printed p. 548 (PDF 568) done — Sūkta 180 Ṛk 9 Special Topics and grammar (syandrā etc.); Ṛk 9 grammar continues? Next: printed p. 549 (PDF 569) — check for end of Ṛk 9 grammar (rayiṣācaḥ, syāma) and Ṛk 10 (last of Sūkta 180). Open flags: refs [?]; TA quote [?]; review/doubts_v13.json.
+### Printed p. 549  (PDF 569)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 549.)*
+
+- ***rayiṣācaḥ*** — root *ṣaca samavāye*; after the causative stem, the suffix *viṭ*; by "*ato 'upadhāyāḥ*" (Pā. Sū. 7-2-116 [?], as read) *vṛddhi* for the *a* of the root; the *kṛdutta* final member keeps its natural accent; nominative plural. ‖ 9 ‖
+
+---
+
+**Sūkta 180, Ṛk 10**
+
+**Saṃhitā-pāṭha**
+
+> तं वां रथं वयमद्या हुवेम स्तोमैरश्विना सुविताय नव्यम् ।
+> अरिष्टनेमिं परि द्यामियानं विद्यामेषं वृजनं जीरदानुम् ॥ १० ॥
+
+**Pada-pāṭha**
+
+> तम् । वाम् । रथम् । वयम् । अद्य । हुवेम । स्तोमैः । अश्विना । सुवितायै । नव्यम् ।
+> अरिष्टऽनेमिम् । परि । द्याम् । इयानम् । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ १० ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विना हे अश्विनौ वां युवयोः सम्बन्धिनं शीघ्रगमनेन स्तुत्यं रथं वयमगस्त्याद्या [?] अस्मिन्स्तुत्येऽहनि हुवेम । ह्वयेम । केन साधनेनेति उच्यते । स्तोमैः स्तोत्रैः । किमर्थम् । सुवितायै सुष्ठु प्राप्तये । कीदृशम् । नव्यं स्तुत्यं नूतनं वा तथारिष्टनेमिमहिंसितचक्रवलयं द्यां परीयानं द्युलोकस्य परितो गच्छन्तम् । विद्यामेत्यादि गतम् ॥
+
+*Gist:* We call today, with hymns, the new, unobstructed chariot of the Aśvins that circles the sky, that we may obtain food, strength and long life.
+
+**Pratipadārtha**
+
+(*he*) **Aśvinā** — O Aśvins; **navyam** — new, or praiseworthy; **ariṣṭanemim** — with unharmed wheel-rim (of unobstructed motion); **dyām pari** — round the sky; **iyānam** — going; **vām** — your; **tam** — that well-known; **ratham** — chariot; **suvitāyai** — for obtaining good things; **stomaiḥ** — with hymns; **adya** — today; **vayam** — we; **huvema** — call; **iṣam** — food; **vṛjanam** — strength; **jīradānum** — long life; **vidyāma** — (by your favour we) obtain.
+
+**Bhāvārtha**
+
+O Aśvins! Your well-known chariot, new, of unobstructed motion, going round the sky, we call today with hymns, in order to obtain good things. Grant us food, strength and long life.
+
+### Printed p. 550  (PDF 570)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 550.)*
+
+**Printed English**
+
+> We invoke to-day, Ashwins, with hymns, for the sake of good things, your praiseworthy chariot of undamaged wheels, and traversing the sky, that we may obtain (from it) food, strength, and long iife [sic].
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***suvitāyai*** — "*suṣṭhu prāptaye*" — "for good obtaining": the meaning is "for the sake of obtaining the best". For this word, in some places, "*suṣṭhu gantavyāya yajñāya*" ("for the sacrifice that is to be well gone to") and, in others, "*sugamanāya*" ("for easy going") are given as meanings; the purport of all of them is one.
+
+***navyam, ariṣṭanemim*** — these words are epithets of the chariot of the Aśvin deities; they show the speciality of the chariot. The greatness of this chariot will be told in the later sūktas.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***adya*** — by "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]) lengthening in the Saṃhitā.
+- ***huvema*** — root *hveñ spardhāyāṃ śabde ca*; *liṅ*, first person plural; by "*bahulaṃ chandasi*" *saṃprasāraṇa* of the root; *tiṅ*-final *nighāta* accent.
+- ***suvitāyai*** — root *iṇ gatau*; the suffix *niṣṭhā* in the passive; by the statement "*tenvādīnāṃ chandasi bahulam upasaṃkhyānam*" the *u* of *su* gets the *uvaṅ* substitution; by "*sūpamānāt ktaḥ*" (Pā. Sū. 6-2-144 [?]) the final syllable of the hind-member is *udātta*; dative singular.
+- ***ariṣṭanemim*** — a *bahuvrīhi* compound; by "*bahuvrīhau prakṛtyā pūrvapadam*" (Pā. Sū. 6-2-1 [?]) the fore-member keeps its natural accent.
+- ***iyānam*** — root *īja gatau*; "*chandasi liṭ*" (Pā. Sū. 3-2-105 [?]): *liṭ* comes, and by "*liṭaḥ kānaj vā*" (Pā. Sū. 3-2-106 [?]) *kānac* is substituted; by "*aci śnudhātubhruvāṃ…*" (Pā. Sū. 6-4-77 [?]) the *iyaṅ* substitution; by the statement "*dvirvacanaprakaraṇe chandasi vety vaktavyam*" the reduplication and the like do not occur; by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the final syllable is *udātta*. ‖ 10 ‖
+
+Here ends the 180th Sūkta. (*iḷḷige nūra eṃbhattaneya sūkta mugidudu.*)
+
+---
+
+**Progress note:** printed p. 550 (PDF 570) done — Sūkta 180 complete (10 ṛks). Next: printed p. 551 (PDF 571), Sūkta 181 heading and Ṛk 1. Sūktas remaining in the volume: 181–183 (ends ~printed p. 657). Open flags: refs [?]; review/doubts_v13.json; vol13_state.md needs update.
