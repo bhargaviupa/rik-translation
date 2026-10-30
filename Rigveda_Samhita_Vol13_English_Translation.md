@@ -16467,4 +16467,56 @@ From the sentence **vāṃ vṛṣā meghaḥ daśasyan** the relation of cause 
 
 ---
 
-**Progress note:** printed p. 588 (PDF 608) done — Sūkta 181 Ṛk 8 ends (Special Topics, grammar); Ṛk 9 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (continues p. 589). Next: printed p. 589 (PDF 609). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 589  (PDF 609)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 589.)*
+
+**Bhāvārtha (continued)** — … as one praises the supporter of many, so he praises you two, and also Agni and the goddess Uṣas. Thereafter may we obtain food, strength and long life.
+
+**English Translation.** *(printed)*
+
+"The wise offerer of oblations, like Pushan, praises you, Ashwins, as (he would praise) Agni and Ushas, (at the season) at which I invoke you, praising with devotion. that we may thence obtain food, strength, and long life."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Sāyaṇa has shown that two kinds of purport are to be told for this ṛk. First: the words **puraṃdhiḥ**, **pūṣā iva** are epithets of the sacrificer who has oblations. Here **puraṃdhi** is explained as "of much wisdom" and **pūṣā** as "nourisher"; that is, the sacrificer, wise and possessed of oblations, praises you, like a nourisher, with oblations, for your growth. Second: if **puraṃdhiḥ** is an epithet of **pūṣā**, then **puraṃdhi** means "the supporter of many", and **pūṣā** means "the all-nourishing Earth".
+
+For the word *puraṃdhi* the senses *prabhūta*, *pauṣkalya* (plenty) and *samṛddha* are in use. If it is an epithet of the sacrificer, it means one who has various kinds of actions, or one of many kinds of wisdom; or *puraṃdhi* may be a separate deity. All the special senses of this word have been told in the Special Topics of Ṛk 1-180-6. And the word **pūṣā** too means "nourisher": either the Sun-form (Agni-form) that nourishes the world by rays, or Earth that nourishes the world with food etc.; the use of this word in this sense has been told in many places. This word is in many contexts used of the Aśvin deities. Since in the ṛk at hand the sense must be told according to context, Sāyaṇa has given another meaning. Through this very explanation, the quality of the deity Pūṣan, one of the twelve Ādityas, is also described.
+
+> पूषा — यद्रश्मिभिः पोषं पुष्यति तत्पूषा भवति ।
+
+> *pūṣā — yadraśmibhiḥ poṣaṃ puṣyati tatpūṣā bhavati |*
+
+(Ni. 12-16 [?]) — the Nirukta-author explains that he is named *Pūṣan* because he nourishes with rays. In the Śatapatha Brāhmaṇa also:
+
+### Printed p. 590  (PDF 610)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 25 Sū. 181"; page 590.)*
+
+> इयं वै पूषा पूषेयं हीदं सर्वं पुष्यति यदिदं किंच ।
+
+> *iyaṃ vai pūṣā pūṣeyaṃ hīdaṃ sarvaṃ puṣyati yadidaṃ kiṃca |*
+
+(Śa. Brā. 14-4-2-? [?]) — it is said that this deity is called *Pūṣan* because it nourishes everything. This sense may refer to the Āditya, or, since the Fire (Agni), being the bearer of oblations, is the cause of the nourishment of all the devas and men, it may refer to Agni. Explaining this same derivation:
+
+> पुष्यन्क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः ।
+> तेनैनमस्तौत्पूषेति भरद्वाजस्तु पञ्चभिः ॥
+
+> *puṣyankṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*
+> *tenainamastautpūṣeti bharadvājastu pañcabhiḥ ‖*
+
+(Bṛ. De. 2-63 [?]) — "destroying darkness, the Earth gains growth, and since he nourishes it he is named *Pūṣan*": the Bṛhaddevatā sentence also suggests the same purport. Thus, since the chief meaning is "nourisher of the world", and since in the ṛk at hand the intention is that the sacrificer, with oblations, increases the sacrifice and helps in the nourishing of the world, here it may mean the sacrificer. Or it may mean Earth.
+
+**Agniṃ uṣāṃ na** — in the Āśvina-śastra, Agni and Uṣas have the chief place among these deities; the fact that the *nareveretas* [?] hymns of praise there refer to Agni and Uṣas will be told later when the subject of the Āśvina-śastra is explained.
+
+> तदाहुर्यच्चस्कृत आग्नेयं कस्यैत उषस्यं कस्यैत ऐन्द्रमथ तस्मादेतदाश्विनमित्याचक्षत इत्यश्विनौ हि तदुदजयतामुश्विनावाश्नुवाथां यदश्विनावुदजयतामश्विनावाश्नुवाथां तस्मादेतदाश्विनमित्याचक्षते ॥
+
+> *tadāhuryaccaskṛta āgneyaṃ kasyaita uṣasyaṃ kasyaita aindramatha tasmādetadāśvinamityācakṣata ityaśvinau hi tadudajayatāmuśvināvāśnuvāthāṃ yadaśvināvudajayatāmaśvināvāśnuvāthāṃ tasmādetadāśvinamityācakṣate ‖*
+
+(Ai. Brā. 12-3 [?]; Sanskrit as read, garbled in print; several words doubtful [?]) — in this context, since mantras are to be recited aiming at Agni, Indra and Uṣas, an objection arises: how did the name "Āśvina" come to all these? The reply, that this is mainly connected with the victory of the Aśvin deities and therefore the name is given to these mantras, is told here, showing the greatness of the Aśvin deities. In the ṛk at hand also, the sentence **agniṃ, uṣāṃ na jarate** suggests the same item.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *pūṣā iva* — root *puṣ vṛddhau*; "*śnasnaksan pūṣan*" (Un. Sū. 1-158 [?]) — a *kani*-ending form (*pūṣan*) is formed irregularly; in Vedic usage the first (case) occurs in the sense of the second.
+
+---
+
+**Progress note:** printed p. 590 (PDF 610) done — Sūkta 181 Ṛk 9 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (puraṃdhi, pūṣā, agniṃ uṣāṃ na; Āśvina-śastra), grammar begun (continues p. 591). Next: printed p. 591 (PDF 611). Open flags: refs [?]; review/doubts_v13.json.
