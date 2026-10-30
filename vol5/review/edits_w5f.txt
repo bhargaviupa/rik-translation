@@ -1,0 +1,22 @@
+# w5f edits log (Vol 5 Pariśiṣṭa pp. 578–625: refs still carrying ?). Lines "  p. N: OLD -> NEW" (NEW = value now in the file); "  # " lines are notes.
+  p. 585: 2-35-? -> 1-95-4
+  # p. 585: "(2-35-? and Śat.… compare Agni in 1-95-4)" set to the print "(compare Agni in 1-95-4 and 5)" (printed ೧-೯೫-೪ ಮತ್ತು ೫ರಲ್ಲಿ ಅಗ್ನಿಗೆ ಹೋಲಿಸಿ)
+  p. 590: 1-?-? -> 1-114-6
+  # p. 590: "(1-114-6; 2-33-1) ... Rudriyas (1-?-?; 2-34-10; etc.), children of Pṛśni (2-34-2; 5-?-?; 5-60-5; 6-66-3); ... Pṛśnimātaraḥ (1-23-10; etc.; Av. 5-?-?). Pṛśni, the cow (5-?-?), ... the cow (8-?-?) ... Gomātaraḥ (compare 8-?-?; 8-20-?). This cow is probably the cloud ..." set to the print: "(1-114-6 and 9; 2-33-1) ... Rudras, or Rudriyas." (printed ತಂದೆಯು (೧-೧೧೪-೬ ಮತ್ತು ೯; ೨-೩೩-೧) ... ರುದ್ರರು ಅಥವಾ ರುದ್ರಿಯರು ಎಂದೂ ಹೆಸರು. ಪೃಶ್ನಿಯು ಹೊಳೆಯುತ್ತಿರುವ ಕೆಚ್ಚಲಿನಿಂದ ...; the Pṛśni/Gomātaraḥ refs and sentences are not on p. 590 (same in both scans; that material is printed on p. 593))
+  p. 592: 2-?-? -> 7-46-3
+  p. 592: 2-33-? -> 7-35-6
+  # p. 592: herbs paren "(compare 7-46-3; 7-353-6)" set to the print "(compare 5-53-14) (10-59-9)" (printed (೫-೫೩-೧೪ನ್ನು ಹೋಲಿಸಿ / (೧೦-೫೯-೯)); lightning (೭-೪೬-೩); other Rudras (೭-೩೫-೬)
+  p. 593: 5-52-? -> 5-57-5
+  # p. 593: written 5-57-5 [?] (printed ೫-೫?-೫; middle 2/7 glyph unsure)
+  p. 595: 3-26-? -> 2-34-1
+  # p. 595: printed ೨-೩೪-೧. NB the neighbouring refs of that sentence in the file (1-19-4; 2-34-6) do not match the print (೭-೫೬-೮ ; ೫-೫೬-೨ ಮತ್ತು ೩, ೭-೫೮-೨): not changed (no ?)
+  p. 597: 8-?-? -> 4-22-4
+  p. 597: 8-?-? -> 8-65-4
+  p. 598: 1-171-? -> 1-171-6
+  p. 598: 2-?-? -> 7-56-9
+  p. 599: 2-?-? -> 4-48-2
+  # p. 599: "(4-46-2; 7-91-5; 2-?-?)" set to the print "(4-46-2; 4-48-2; 7-91-5)"
+  p. 600: 10-?-? -> 10-168-1
+  # p. 600: written "10-168-1 and 4" (printed ೧೦-೧೬೮-೧ ಮತ್ತು ೪)
+  p. 604: 3-?-11 -> 5-43-11
+  p. 605: 3-?-? -> 2-30-8
