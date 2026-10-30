@@ -989,4 +989,44 @@ In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has 
 
 ---
 
-**Progress note:** printed p. 46 (PDF 66) done — Sūkta 166 Ṛk 9 Special Topics (akṣo vaścakrā; continues on p. 47). Next: printed p. 47 (PDF 67). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 47  (PDF 67)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* …in the same way as the wheels are connected — thus the ṛṣi may have described it. The word *samayā* in the Veda means "together" or "at the same time".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *bhadrā* (root *bhadi kalyāṇe sukhe ca*; *oṇādika* suffix *rak*; in the neuter plural *śi* is dropped by *śeśchandasi bahulam* Pā. 6-1-70). *āhitā* (prefix *ā*; root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive by *niṣṭhā*; *dadhāter hiḥ* Pā. 7-4-42 gives *hi* for the root; *gatir anantaraḥ* Pā. 6-2-49 gives the acute to the *gati* (*ā*); *śi* dropped in the neuter plural as before). *mithaspṛdhyā* (root *spardha saṅgharṣe*; *kvip* is given; *bahulaṃ chandasi* gives *saṃprasāraṇa* to the *r* of the root and drops the *ā*; *spṛdhaḥ* "that which is rivalled"; then *yat* in the sense of the action; *yato 'nāvaḥ* Pā. 6-1-213 gives initial acute; in the compound the *kṛdutta* member keeps its accent; *śi* dropped as before). *prapatheṣu* (*pragatāḥ panthāno yeṣu tāni prapathāni*; *ṛkpūrabdhūḥpathām ānakṣe* Pā. 5-4-74 gives the suffix *a* as a compound-final; *ṭi* dropped; in the *bahuvrīhi* the first member keeps its accent). *cakrā* (*cakrāṇi*; *śeśchandasi bahulam* drops *śi*). *samayā* (since it is connected with *samayā*, *abhitaḥ paritaḥ samayā…* gives the second case as an exception to the sixth). *vavṛte* (root *vṛtu vartane*; *liṭ* 3rd singular, Vedic; *nighāta* after a *tiṅanta*). ‖ 9 ‖
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> भूरीणि भद्रा नर्येषु बाहुषु वक्षःसु रुक्मा रभसासो अञ्जयः ।
+> अंसेष्वेताः पविषु क्षुरा अधि वयो न पक्षान्व्यनु श्रियो धिरे ॥ १० ॥
+
+> *bhūrīṇi bhadrā naryeṣu bāhuṣu vakṣaḥsu rukmā rabhasāso añjayaḥ |*
+> *aṃseṣvetāḥ paviṣu kṣurā adhi vayo na pakṣānvyanu śriyo dhire ‖ 10 ‖*
+
+### Printed p. 48  (PDF 68)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+**॥ पदपाठः ॥**
+
+> भूरीणि । भद्रा । नर्येषु । बाहुषु । वक्षःऽसु । रुक्माः । रभसासः । अञ्जयः ।
+> अंसेषु । एताः । पविषु । क्षुराः । अधि । वयः । न । पक्षान् । वि । अनु । श्रियः । धिरे ॥ १० ॥
+
+> *bhūrīṇi | bhadrā | naryeṣu | bāhuṣu | vakṣaḥ 'su | rukmāḥ | rabhasāsaḥ | añjayaḥ |*
+> *aṃseṣu | etāḥ | paviṣu | kṣurāḥ | adhi | vayaḥ | na | pakṣān | vi | anu | śriyaḥ | dhire ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> ते मरुतो नर्येषु नरेभ्यो हितेषु बाहुषु भुजेषु भूरीणि प्रभूतानि भद्रा भद्राणि कल्याणानि धनानि स्तोतृभ्यो दातुं धिरे । दधिरे । धारयन्ति । तथा वक्षःसूरःस्थलेषु रुक्माः सुवर्णरत्नादिनिर्मितान्याभरणानि धारयन्ति । कीदृशानि । रभसासो राभस्ययुक्तानि कान्तिमन्ति वा तथाञ्जयो व्यक्तानि । अंसेषु भुजमूलेषु एताः शुक्लवर्णा मालाः । पविषु वज्रसदृशेष्वायुधेषु क्षुराः क्षुरधाराः । अधि सप्तम्यर्थानुवादी । एवमेते मरुतः सर्वाङ्गेषु श्रियो लक्ष्मीरनुक्रमेण वि धिरे । विविधं धारयन्ति । तत्र दृष्टान्तः । वयो न पक्षान् पक्षिणः पक्षानिव ॥
+
+*Gist:* The Maruts bear much auspicious wealth to give to the singers on their arms that benefit men, golden ornaments on their chests, white garlands on their shoulders, razor-edges on their thunderbolt-like weapons — they carry adornments on all limbs, as birds carry wings.
+
+**Pratipadārtha.** (*te marutaḥ* — those Marut-gods); *naryeṣu* — for the good of men; *bāhuṣu* — on the arms; *bhūrīṇi* — abundant; *bhadrā* — auspicious (wealth to be given to those who praise); *dhire* — they bear; *vakṣaḥsu* — on the chests; *rabhasāsaḥ* — splendid; *añjayaḥ* — clear (to be seen); *rukmāḥ* — ornaments made of gold and the like; (*dhire* — they bear); *aṃseṣu* — on the roots of the arms; *etāḥ* — white garlands; *paviṣu* — on the weapons resembling the thunderbolt; *kṣurāḥ* — keen edges; *adhi* (*dhire*) — they bear; (thus the Marut-gods) *śriyaḥ* — (various) adornments; *anu* — in the said order; *vayaḥ* — birds; *pakṣān na* — as (various-coloured) wings; *vi* (*dhire*) — bear variously.
+
+**Bhāvārtha.** On the arms of the Marut-gods, who do good to men, are many auspicious things to be given to men; on their chests glitter and are plainly seen golden ornaments; on their shoulders are white garlands, and on their (hands) green [?] weapons resembling the thunderbolt are keen edges. As birds have wings of many kinds, the Marut-gods are adorned in many ways (or: they scatter their splendour all round).
+
+---
+
+**Progress note:** printed p. 48 (PDF 68) done — Sūkta 166 Ṛk 10: Saṃhitā to Bhāvārtha done. Next: printed p. 49 (PDF 69): English of Ṛk 10, Special Topics. Open flags: small-type numerals [?]; review/doubts_v13.json.
