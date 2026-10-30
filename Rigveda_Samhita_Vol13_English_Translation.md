@@ -15018,4 +15018,70 @@ In the ṛk at hand, for the word *paṇi*, the two kinds of meaning stated have
 
 ---
 
-**Progress note:** printed p. 538 (PDF 558) done — Sūkta 180 Ṛk 7 Special Topics (Paṇi–Saramā verses 10-108), grammar begun (continues p. 539). Next: printed p. 539 (PDF 559). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 539  (PDF 559)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 539.)*
+
+**Vyākaraṇa-prakriyā (grammar, continued)** — noted briefly (sūtra numerals [?]):
+
+- ***pāthaḥ*** — root *pā pānे*; *laṭ*, second person dual, the ending *thas*; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; therefore the *pibādeśa* does not occur for the root; by "*hi ca*" (Pā. Sū. 8-1-34 [?]) the *nighāta* accent is prohibited, so the suffix accent remains.
+- ***vi*** — this is an *upasarga*; by "*upasargaḥ kriyāyoge*" the suitable verb has to be supplied here, and the construction is made. ‖ 7 ‖
+
+---
+
+**Sūkta 180, Ṛk 8**
+
+**Saṃhitā-pāṭha**
+
+> युवां चिद्धि ष्माश्विनावनु द्यून्विरुद्रस्य प्रस्रवणस्य सातौ ।
+> अगस्त्यो नरां नृषु प्रशस्तः कारादिव चितयत्सहस्रैः ॥ ८ ॥ [as read: *kārādhunīva* in the bhāṣya, *kārādiva* in the Saṃhitā [?]]
+
+**Pada-pāṭha**
+
+> युवाम् । चित् । हि । स्म । अश्विना । अनु । द्यून् । विरुद्रस्य । प्रऽस्रवणस्य । सातौ ।
+> अगस्त्यः । नराम् । नृषु । प्रऽशस्तः । काराधुनीऽइव । चितयत् । सहस्रैः ॥ ८ ॥
+
+> *yuvām | cit | hi | sma | aśvinā | anu | dyūn | virudrasya | pra 'sravaṇasya | sātau |*
+> *agastyaḥ | narām | nṛṣu | pra 'śastaḥ | kārādhunī 'iva | citayat | sahasraiḥ ‖ 8 ‖*
+
+### Printed p. 540  (PDF 560)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 540.)*
+
+*(The Sāyaṇa-bhāṣya of this Ṛk 8 is printed on p. 539 in the lower part of the page, as follows.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवां चिद्धि ष्मेति त्रयः पूरणाः । अनु द्यून् प्रतिदिनं विरुद्रस्य विशिष्टोष्णरूपदुःखद्रावणस्य विविधरोरूयमाणवतो वा प्रस्रवणस्य वृष्ट्युदकसंस्राव्ययस्य सातौ लाभे निमित्तभूते सत्यगस्त्य एतन्नामा महर्षिर्नरां नेतॄणां कर्मनिर्वाहकानां मनुष्याणां नृषु येषु ताद्दृशा मनुष्याः सन्ति तेषु प्रशस्तः प्रशस्यतरोऽयं सहस्रैरपरिमितैः स्तोत्रैः क्षिति तयत् [?] । चेतयति । स्तुत्या प्रबोधयति । तत्र दृष्टान्तः । कारा धुनीव । कारा शब्दः । तस्य धूनयितोत्पादयिता शङ्खादिः । स इव । यद्वा । एतदप्यगस्त्यस्य विशेषणम् । कारः शब्दयिता होत्रादिः । तस्य धुनिः कम्पयिता प्रेरक इव । इवेति सम्प्रत्यर्थे । "अस्त्युपमार्थस्य सम्प्रत्यर्थे प्रयोगः" इति निरुक्तम् । २-३१ [?] ॥ [as read; a few words doubtful [?]]
+
+*Gist:* Agastya, most praised among the leaders of men, rouses the Aśvins daily with thousands of hymns, as a conch sounds, to obtain the cooling rain-flow.
+
+**Pratipadārtha**
+
+(*he* **Aśvinau**) — O Aśvins; **narām** — of the leaders who carry out rites; **nṛṣu** — among men; **praśastaḥ** — highly praiseworthy (the foremost); [**kārādhunīva** — like the impeller of the sound-makers, the priests such as the *hotṛ*]; **Agastyaḥ** — the great ṛṣi Agastya; **virudrasya** — of the sun-like heat that causes pain; **prasravaṇasya** — of the flow of rain-water; **sātau** — for obtaining; **anu dyūn** — every day; **sahasraiḥ** — with countless *stotras*; **kārādhunīva** — like an instrument of sound such as the conch; **yuvām** — you two; **citayat** — awakens (by praise); (**cit hi sma** — sentence-fillers).
+
+**Bhāvārtha**
+
+O Aśvins! The great ṛṣi Agastya, the most renowned among those who carry out rites, every day, with countless *stotras*, like the sound of a conch and the like, awakens you (by praise, as if rousing you), to obtain rain-water that removes the pain of heat.
+
+**Printed English**
+
+> Ashwins, Agastya, eminent amongst the leaders of men, arouses you daily with numerous (invocations), like an instrument of sound, for the sake of obtaining a manifold (flow) of a torrent (of rain).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk there is a prayer of Agastya addressed to the Aśvin deities. Here the ṛṣi compares his own praise to the sound of the conch, and, by showing the simile *kārādhunīva*, he praises the excellence of his own praise.
+
+***kārādhunīva*** — "*kārā śabdaḥ | tasya dhūnayitā utpādayitā śaṃkhādiḥ | sa eva | yadvā | etad api agastyasya viśeṣaṇam | kāraḥ śabdayitā hotrādiḥ | tasya dhuniḥ kaṃpayitā preraka iva | iveti saṃpratyarthe | 'astyupamārthasya saṃpratyarthe prayogaḥ'*" (Ni. 2-10 [?]) — so Sāyaṇa has explained the meaning of this word. According to this explanation two meanings are possible for the word *kārādhunī*. First, *kāra* is "sound" (*śabda*); the conch and the like, which shake it out and produce it, are *kārādhunī*; second, the *hotṛ* and others, who are the makers of sound in the form of praise, meaning the one who impels them. Earlier:
+
+> ईळे द्यावापृथिवी पूर्वचित्तयेऽग्निं घर्मं सुरुचं यामन्निष्टये ।
+> याभिर्भरे कारमंशाय जिन्वथस्ताभिरू षु ऊतिभिरश्विना गतम् ॥
+
+> *īḷe dyāvāpṛthivī pūrvacittaye 'gniṃ gharmaṃ surucaṃ yāmanniṣṭaye |*
+> *yābhirbhare kāramaṃśāya jinvathastābhirū ṣu ūtibhiraśvinā gatam ‖*
+
+(Ṛ. Saṃ. 1-112-1 [?]) — in this ṛk, in showing the meaning of the word *kāra*, Sāyaṇa says "*kāraśabdaḥ śaṅkhavāci ity abhiyuktāḥ saṃgirante | kāraṃ śabdakāriṇaṃ śaṅkham*" — "the learned say that the word *kāra* denotes the conch; *kāra* is the conch that makes sound". To support this very meaning, Skandasvāmin cites the ṛk at hand (Ṛ. Saṃ. 1-180-8). In both places the meaning is "conch" …
+
+---
+
+**Progress note:** printed p. 540 (PDF 560) done — Sūkta 180 Ṛk 7 complete; Ṛk 8: Saṃhitā…Special Topics begun (kārādhunī; continues p. 541). Next: printed p. 541 (PDF 561). Open flags: refs [?]; 'kārādiva' vs 'kārādhunīva' in Saṃhitā [?]; review/doubts_v13.json.

@@ -5410,5 +5410,29 @@
   ],
   "note": "verse 7 'rekupadam alakam'; grammar sutra numerals small",
   "answer": ""
+ },
+ {
+  "pdf": 559,
+  "printed": 539,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rk8 Samhitata word 'karadhuniva' vs 'karadiva'; bhashya in lower part; 'ksitayat/citayat' read; Ni ref 2-31? 2-10?",
+  "answer": ""
+ },
+ {
+  "pdf": 560,
+  "printed": 540,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-10, Rg 1-112-1; Skandasvamin cross-ref; 'kara' = conch gloss",
+  "answer": ""
  }
 ]
