@@ -4114,5 +4114,29 @@
   ],
   "note": "Rg refs 6-18-2, 6-32-3?, 10-50-1; Nirukta 3-7, 10-3, 11-9; Ait.Br 1-5? small; quotes approx",
   "answer": ""
+ },
+ {
+  "pdf": 451,
+  "printed": 431,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type (carsanipra, vrsabha, krstinam, sravasyan, madryak, yuktva)",
+  "answer": ""
+ },
+ {
+  "pdf": 452,
+  "printed": 432,
+  "crop": [
+   0.2,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhashya: 'taana tistha asraya' and 'arvajasmadabhimukham' read approx",
+  "answer": ""
  }
 ]

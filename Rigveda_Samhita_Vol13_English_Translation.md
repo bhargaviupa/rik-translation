@@ -11593,4 +11593,66 @@ It is said that Indra is the protector of the people who perform sacrifices, the
 
 ---
 
-**Progress note:** printed p. 430 (PDF 450) done — Sūkta 177 Ṛk 1 Special Topics (carṣaṇi, kṛṣṭi, śravas; continues p. 431). Next: printed p. 431 (PDF 451). Open flags: Ṛg/Nirukta/Ai.Brā. refs [?]; Keith quote reproduced as printed; review/doubts_v13.json.
+### Printed p. 431  (PDF 451)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā".)*
+
+— in this passage the identity of *Śrī* (prosperity), which is of the nature of the wealth of grain and the like, and of the fame (*yaśas*) obtained by it, is stated. The basis of fame is the wealth of food and the like; and if there is wealth of food and the like, fame comes of itself; hence both meanings are possible for the word *śrava*. In the ṛk at hand it may be taken to mean food in the form of oblation, which is the means to the sacrificer's fame.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***carṣaṇiprāḥ*** — root *prā pūraṇe*; the suffix *kvip*; by "*gatikārakopapadāt kṛt*" (Pā. Sū. 6-2-139 [?]) the *kṛdutta* final member keeps its natural accent.
+- ***vṛṣabhaḥ*** — root *vṛṣu secane*; the suffix *abhac* of the *ṭoṇādika* (*uṇādi*) group; since it is *cit*, by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
+- ***kṛṣṭīnām*** — genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-177 [?]) the *nām* takes *udātta* accent.
+- ***śravasyan*** — *śravaḥ annam ātmana icchan śravasyan*; by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) the suffix *kyac*; after *kyac*, *laṭ* with the substitution *śatṛ*; nominative singular; by the *kyac* accent the end syllable is *udātta*.
+- ***madryak*** — root *añcu gatipūjanayoḥ*; by "*pṛṣodarādīni yathopadiṣṭam*" (Pā. Sū. 6-3-109 [?]) the desired form is obtained.
+- ***yuktvā*** — root *yujir yoge*; since instigation is shown, the root contains *ṇic* in its sense; by "*samānakartṛkayoḥ pūrvakāle*" (Pā. Sū. 3-4-21 [?]) the suffix *ktvā*; by "*coḥ kuḥ*" the *j* of the root becomes *k*; *cartva*; by the suffix accent the end syllable is *udātta*.
+- ***yāhi*** — root *yā prāpaṇe*; *loṭ*, second person singular; *nighāta* for a *tiṅ*. ‖ 1 ‖
+
+---
+
+**Sūkta 177, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> ये ते वृषणो वृषभास इन्द्र ब्रह्मयुजो वृषरथासो अत्याः ।
+> ताँ आ तिष्ठ तेभिरा याह्यर्वाङ् हवामहे त्वा सुत इन्द्र सोमे ॥ २ ॥
+
+> *ye te vṛṣaṇo vṛṣabhāsa indra brahmayujo vṛṣarathāso atyāḥ |*
+> *tāṃ ā tiṣṭha tebhir ā yāhy arvāṅ havāmahe tvā suta indra some ‖ 2 ‖*
+
+### Printed p. 432  (PDF 452)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177".)*
+
+**Pada-pāṭha**
+
+> ये । ते । वृषणः । वृषभासः । इन्द्र । ब्रह्मऽयुजः । वृषऽरथासः । अत्याः ।
+> तान् । आ । तिष्ठ । तेभिः । आ । याहि । अर्वाङ् । हवामहे । त्वा । सुते । इन्द्र । सोमे ॥ २ ॥
+
+> *ye | te | vṛṣaṇaḥ | vṛṣabhāsaḥ | indra | brahma-yujaḥ | vṛṣa-rathāsaḥ | atyāḥ |*
+> *tān | ā | tiṣṭha | tebhiḥ | ā | yāhi | arvāṅ | havāmahe | tvā | sute | indra | some ‖ 2 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र ते तव संबन्धिनो वृषणो वर्षका युवानो वर्षणवन्तो वा वृषभासः श्रेष्ठा ब्रह्मयुजः परिवृढेन मन्त्रेण युज्यमाना वृषरथासो वर्षणरथवन्तः । तत्र नियुक्ता इत्यर्थः । ईदृशा अत्या अश्वा ये सन्ति तान् आ तिष्ठ आश्रय । आरोह । तेभिस्तैरर्वागस्मदभिमुखमा याहि । आगच्छ । वयं च हे इन्द्र सोमे सुते सति त्वा त्वां हवामहे । आह्वयामः ॥
+
+> *he indra te tava saṃbandhino vṛṣaṇo varṣakā yuvāno varṣaṇavanto vā vṛṣabhāsaḥ śreṣṭhā brahmayujaḥ parivṛḍhena mantreṇa yujyamānā vṛṣarathāso varṣaṇarathavantaḥ | tatra niyuktā ity arthaḥ | īdṛśā atyā aśvā ye santi tān ā tiṣṭha āśraya | āroha | tebhis tair arvāg asmadabhimukham ā yāhi | āgaccha | vayaṃ ca he indra some sute sati tvā tvāṃ havāmahe | āhvayāmaḥ ‖* [?]
+
+*Gist:* O Indra, mount those horses of yours — young and showering, excellent, yoked by mantra, harnessed to the rain-giving chariot — and come to us on them; we call you when the Soma is pressed.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *vṛṣaṇaḥ* — those that shower (desires), or are in their prime; *vṛṣabhāsaḥ* — excellent; *brahmayujaḥ* — those that are harnessed by mantra alone; *vṛṣarathāsaḥ* — those yoked to a desire-showering chariot; *te* — your; *atyāḥ* — horses; *ye* (*santi*) — which there are; *tān* — them; *ā tiṣṭha* — mount; *tebhiḥ* — yoked with them; *arvāṅ* — turned towards (us); *ā yāhi* — come; (*vayaṃ ca* — and we); (*he*) *indra* — O Indra; *some* — the Soma juice; *sute* (*sati*) — being pressed; *tvām* — you; *havāmahe* — we invoke.
+
+**Bhāvārtha**
+
+O Indra, mount those excellent horses of yours which are to be harnessed by mantra alone, yoked to your wish-granting chariot, and in their prime, and come towards us; we also, having prepared the Soma juice, call you.
+
+**Printed English**
+
+Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and harnessed to a bounty-shedding car: come down with them to us. We invoke you, Indra, the libation being poured out.
+
+---
+
+**Progress note:** printed p. 432 (PDF 452) done — Sūkta 177 Ṛk 1 complete; Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 433 (PDF 453), Ṛk 2 Special Topics. Open flags: Ṛk 2 bhāṣya partly doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
