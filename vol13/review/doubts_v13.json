@@ -3550,5 +3550,29 @@
   ],
   "note": "Nirukta kratu ref (2-28?, 10-10?); Rg 2-12-1 small",
   "answer": ""
+ },
+ {
+  "pdf": 405,
+  "printed": 385,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-13-11?, 1-91-2, 7-90-5? small; quotes read approx; Chandogya ref 3-14-1",
+  "answer": ""
+ },
+ {
+  "pdf": 406,
+  "printed": 386,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Sankara bhashya quote read approx with dots; Satapatha ref 10-6-3-1 small",
+  "answer": ""
  }
 ]

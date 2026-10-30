@@ -10134,4 +10134,60 @@ Addressing Indra, it is said that the exhilaration that arises in Indra from dri
 
 ---
 
-**Progress note:** printed p. 384 (PDF 404) done — Sūkta 175 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (kratu; continues p. 385). Next: printed p. 385 (PDF 405). Open flags: Ṛk 5 bhāṣya partly doubtful [?]; sūtra/Nirukta/Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 385  (PDF 405)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 25" at foot.)*
+
+> सुप्रवाचनं तव वीर वीर्यं यदेकेन क्रतुना विन्दसे वसु । जातूष्ठिरस्य प्र वयः सहस्वतो या चकर्थ सेन्द्र विश्वास्युक्थ्यः ॥
+
+> *supravācanaṃ tava vīra vīryaṃ yad ekena kratunā vindase vasu | jātūṣṭhirasya pra vayaḥ sahasvato yā cakartha sendra viśvāsy ukthyaḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-13-11 [?]). In this ṛk, for the word *kratunā* Sāyaṇa has explained "*karmaṇā*". It is proper here to say "*saṅkalpa*" (resolve) rather than "action". Explaining this very example, the scholar Monier Williams, in his Sanskrit-English Dictionary, has explained *ekena karmaṇā* as "Through the mere will" (*kevala saṅkalpamātreṇa*). This is the natural meaning in this context; for here the prowess of Indra is described, and it is more natural to say that Indra "destroyed enemies by mere will" than that he destroyed them by a single act.
+
+Whenever the word *kratu* is used as a synonym of *karman*, this word shows the resolve that is the basis of the act and the purpose directed to the act: it points out the spiritual existence of man, and the same purpose. For example —
+
+> त्वं सोम क्रतुभिः सुक्रतुर्भूस्त्वं दक्षैः सुदक्षो विश्ववेदाः । त्वं वृषा वृषत्वेभिर्महित्वा द्युम्नेभिर्द्युम्न्यभवो नृचक्षाः ॥
+
+> *tvaṃ soma kratubhiḥ sukratur bhūs tvaṃ dakṣaiḥ sudakṣo viśvavedāḥ | tvaṃ vṛṣā vṛṣatvebhir mahitvā dyumnebhir dyumny abhavo nṛcakṣāḥ ‖*
+
+(Ṛ. Saṃ. 1-91-2 [?]) — in this ṛk the two words *kratu* and *dakṣa* describe the extraordinary qualities of the god Soma: Soma is addressed as one endowed with the highest knowledge. Likewise —
+
+> ते सत्येन मनसा दीध्यानाः स्वेन युक्तासः क्रतुना वहन्ति । इन्द्रवायू वीरवाहं रथं वामीशानयोरभि पृक्षः सचन्ते ॥
+
+> *te satyena manasā dīdhyānāḥ svena yuktāsaḥ kratunā vahanti | indravāyū vīravāhaṃ rathaṃ vām īśānayor abhi pṛkṣaḥ sacante ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 7-90-5 [?]) — here, by the word *kratunā*, the knowledge and the resolve that are the root of human activity, of the nature of sacrifice, are indicated. Since all worldly activity is of the nature of sacrifice, the sacrifice that is the root of this universal and also of individual acts is the *saṅkalpa* of man. The individuality of man must be complete with this resolve and purpose. Therefore man is described as "*kratumaya*" (made of resolve). The Upaniṣads and other texts describe this same point thus:
+
+> सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत । अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिंल्लोके पुरुषो भवति तथेतः प्रेत्य भवति स क्रतुं कुर्वीत ।
+
+> *sarvaṃ khalv idaṃ brahma tajjalān iti śānta upāsīta | atha khalu kratumayaḥ puruṣo yathākraturasmiṃl loke puruṣo bhavati tathetaḥ pretya bhavati sa kratuṃ kurvīta |*
+
+(Chā. Up. 3-14-1 [?]).
+
+### Printed p. 386  (PDF 406)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+— the Upaniṣad says that the man is made of resolve (*kratumaya*). Explaining here what *kratu* is, the teacher Śaṅkara has spoken the following in his commentary:
+
+> क्रतुं कुर्वीत क्रतुर्निश्चयोऽध्यवसाय एवमेव नान्यथेत्यविचलः प्रत्ययस्तं क्रतुं कुर्वीतोपासीतेत्यनेन व्यवहितेन संबन्धः । किं पुनः क्रतुकरणेन कर्तव्यं प्रयोजनं । कथं वा क्रतुः कर्तव्यः । क्रतुकरणं चाभिप्रेतार्थसिद्धिसाधनं कथं ? इत्यस्यार्थस्य प्रतिपादनार्थमथेत्यादि ग्रन्थः । ………… यस्मात् क्रतुमयः क्रतुप्रायोऽध्यवसायात्मकः पुरुषो जीवः । यथाक्रतुर्यादृशः क्रतुः अस्य सोऽयं यथाक्रतुर्यथाध्यवसायः यादृङ्निश्चयः अस्मिन्निह पुरुषो भवति तथेतोऽस्माद्देहात् प्रेत्य मृत्वा भवति । क्रतुनानुरूपफलात्मको भवतीत्यर्थः ॥
+
+> *kratuṃ kurvīta kratur niścayo 'dhyavasāya evam eva nānyathety avicalaḥ pratyayas taṃ kratuṃ kurvītopāsītety anena vyavahitena saṃbandhaḥ | kiṃ punaḥ kratukaraṇena kartavyaṃ prayojanaṃ | kathaṃ vā kratuḥ kartavyaḥ | kratukaraṇaṃ cābhipretārthasiddhisādhanaṃ kathaṃ ? ity asyārthasya pratipādanārtham athety ādi granthaḥ | ………… yasmāt kratumayaḥ kratuprāyo 'dhyavasāyātmakaḥ puruṣo jīvaḥ | yathākratur yādṛśaḥ kratuḥ asya so 'yaṃ yathākratur yathādhyavasāyaḥ yādṛṅ niścayaḥ asminn iha puruṣo bhavati tathetо 'smād dehāt pretya mṛtvā bhavati | kratunānurūpaphalātmako bhavatīty arthaḥ ‖* [as read; dots in the print: [?]]
+
+(Śāṅkarabhāṣya on Chā. Up. 3-14-1).
+
+*Kratu* means firm resolve (*niścaya*), a mind's resolution (*manaḥsaṅkalpa*) and unwavering faith (*śraddhā*). Thus the worship (*upāsanā*) of the *kratu*, which is of the nature of resolve and is full of faith, ought to be done by man without fail; whether in this world or, after the dissolution of the earthly body, in the next, the existence of man follows the nature of his *kratu*. And the worship of *kratu* has its fruit; if there is no worship of *kratu*, the highest fruit is not obtained: so Śaṅkara's commentary explains.
+
+Discussing here whether the word *kratu* means "resolve" or "purpose" (*dhyeya*), Edgerton, an English scholar, quotes the sentence of the Śatapatha Brāhmaṇa and the passage cited above, and then explains the meaning of the word *kratu* thus —
+
+> The word क्रतु is not easy to define. Eggeling translates it "understanding" but with an alternative "will; purpose" which is more in accord with the Hindu commentator on the passage who says that क्रतु means निश्चय, अध्यवसाय, i.e, "fixed determination." It seems to mean man's mental costitution as a whole, the "total frame of mind," but with a strong flavourof will, Conscious purpose, or determination………………Man's क्रतु therefore would be his mental make up in general, but particularly any fixed determination he may entertain with regard to his future life. And his क्रतु at the moment of death decides his destiny after death. (Annals of Bhandarkar Institute. Vol. VIII. p. 223)
+
+> *The word kratu is not easy to define. Eggeling translates it "understanding" but with an alternative "will; purpose" which is more in accord with the Hindu commentator on the passage who says that kratu means niścaya, adhyavasāya, i.e, "fixed determination." It seems to mean man 's mental costitution as a whole, the "total frame of mind," but with a strong flavourof will, Conscious purpose, or determination………………Man 's kratu therefore would be his mental make up in general, but particularly any fixed determination he may entertain with regard to his future life. And his kratu at the moment of death decides his destiny after death. (Annals of Bhandarkar Institute. Vol. VIII. p. 223)*
+
+[As printed: "costitution", "flavourof" [sic].]
+
+The gist: both in the Śatapatha Brāhmaṇa (10-6-3-1 [?]) and in the Chāndogya Upaniṣad (3-14-1), for the word *kratu* the translator Eggeling first says "knowledge" (*jñāna*), and then "resolve",
+
+---
+
+**Progress note:** printed p. 386 (PDF 406) done — Sūkta 175 Ṛk 5 Special Topics (kratu; Edgerton quotation; continues p. 387). Next: printed p. 387 (PDF 407). Open flags: Ṛg/Chā.Up./Śa.Brā. refs and quotes [?]; Edgerton quote reproduced as printed; review/doubts_v13.json.
