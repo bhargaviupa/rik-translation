@@ -1,6 +1,6 @@
 """HTML page for the doubts a worker could NOT resolve (words, accents, letters, numerals): one row per doubt, a crop of the scan line(s), the file's text, an empty box for the user's reading.
 python3 doubts_v6.py DOUBTS.json OUT.html [TITLE]
-DOUBTS.json = list of {"page": PRINTED, "y0":0.31,"y1":0.36,"x0":0.0,"x1":1.0 (fractions of the text block as for view.py, optional x), "kind":"word|accent|numeral|other", "file":"the text as now in the file (with [?])", "ctx":"words around it", "note":"what is doubtful" }
+DOUBTS.json = list of {"page": PRINTED, "y0":0.31,"y1":0.36,"x0":0.0,"x1":1.0 (fractions of the WHOLE page height/width (not the text block), optional x), "kind":"word|accent|numeral|other", "file":"the text as now in the file (with [?])", "ctx":"words around it", "note":"what is doubtful" }
 The crop is the page band (200 dpi, grayscale; PDF = printed + OFFSET from cfg.py). The user's box is saved by the artifact page; the coordinator applies the readings (exact text in "file" is replaced, uniquely by "ctx")."""
 import sys,os,io,re,json,base64,html,subprocess,tempfile
 sys.path.insert(0,os.path.dirname(__file__))
