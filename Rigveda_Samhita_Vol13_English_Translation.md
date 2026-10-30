@@ -9599,4 +9599,74 @@ The qualities of the Soma juice are described: ***matsaraḥ*** — the means of
 
 ---
 
-**Progress note:** printed p. 368 (PDF 388) done — Sūkta 175 Ṛk 1 complete. Next: printed p. 369 (PDF 389), Sūkta 175 Ṛk 2. Open flags: Eggling quotation reproduced as printed (Devanagari/Kannada-type glyphs inside English text); sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 369  (PDF 389)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 24" at foot.)*
+
+---
+
+**Sūkta 175, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> आ नस्ते गन्तु मत्सरो वृषा मदो वरेण्यः ।
+> सहावाँ इन्द्र सानसिः पृतनाषाळमर्त्यः ॥ २ ॥
+
+> *ā nas te gantu matsaro vṛṣā mado vareṇyaḥ |*
+> *sahāvāṃ indra sānasiḥ pṛtanāṣāḷ amartyaḥ ‖ 2 ‖*
+
+**Pada-pāṭha**
+
+> आ । नः । ते । गन्तु । मत्सरः । वृषा । मदः । वरेण्यः ।
+> सहस्वान् [?] । इन्द्र । सानसिः । पृतनाषाट् । अमर्त्यः ॥ २ ॥
+
+> *ā | naḥ | te | gantu | matsaraḥ | vṛṣā | madaḥ | vareṇyaḥ |*
+> *sahasvān [?] | indra | sānasiḥ | pṛtanāṣāṭ | amartyaḥ ‖ 2 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र ते त्वां नोऽस्मदीयो मत्सरो मर्षणसाधनः सोम आ गन्तु । आगच्छतु । कीदृशोऽयं । वृषा वर्षकः मदस्तर्पयिता वरेण्यो वरणीयः सहावान् सहायवान् सहसा बलेन तद्वान्वा सानसिः संभजनीयः पृतनाषाट् शत्रुसेनाया अभिभविता अमर्त्योऽविनाशी । ईदृशः सोमस्त्वामागच्छतु । यद्वा । उत्तरार्धे इन्द्रपरतयापि व्याख्येयं । हे इन्द्र सहावानस्मद्दत्तसोमसहायवान् बलवान्वा सानसिरस्माभिः संभजनीयः पृतनाषाडमर्त्यश्च भवसि ॥
+
+> *he indra te tvāṃ no 'smadīyo matsaro marṣaṇasādhanaḥ soma ā gantu | āgacchatu | kīdṛśo 'yaṃ | vṛṣā varṣakaḥ madas tarpayitā vareṇyo varaṇīyaḥ sahāvān sahāyavān sahasā balena tadvān vā sānasiḥ saṃbhajanīyaḥ pṛtanāṣāṭ śatrusenāyā abhibhavitā amartyo 'vināśī | īdṛśaḥ somas tvām āgacchatu | yadvā | uttarārdhe indraparatayāpi vyākhyeyaṃ | he indra sahāvān asmaddattasomasahāyavān balavān vā sānasir asmābhiḥ saṃbhajanīyaḥ pṛtanāṣāḍ amartyaś ca bhavasi ‖*
+
+*Gist:* O Indra, may our Soma, which is exhilarating, strengthening, satisfying, choice and imperishable, come to you; or, taking the second half as addressed to Indra: you, strong, companionable, enjoyable, overthrower of hosts, immortal.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *naḥ* — our; *vṛṣā* — the giver of desired objects; *madaḥ* — satisfying; *vareṇyaḥ* — desirable; *sahāvān* — endowed with companions (strength); *sānasiḥ* — enjoyable; *pṛtanāṣāṭ* — the destroyer of enemies, and; *amartyaḥ* — imperishable; *matsaraḥ* — the Soma juice, the means of gladness; *te* — to you; *ā gantu* — may it come. [Or *naḥ* — ours; *vṛṣā*, *madaḥ*, *vareṇyaḥ* — the giver of desired objects, the satisfier, the choice; *matsaraḥ* — the Soma juice that is offered by us as the means of gladness; *te ā gantu* — may it come to you (drinking it, you); *sahāvān* — mighty; *sānasiḥ* — attainable by us; *pṛtanāṣāṭ* — the destroyer of enemies; *amartyaḥ* — the imperishable (be).]
+
+**Bhāvārtha**
+
+O Indra, may the Soma juice that is offered by us, which gives desired objects, satisfaction, delight, and is the means of gladness, come to you; drinking it, be strong, attainable by us, a destroyer of enemies, and imperishable.
+
+### Printed p. 370  (PDF 390)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+**Printed English**
+
+May our Soma libation reach you, (for it is) exhilarating, invigorating, inebriating, most precious: it is companionable, Indra, enjoyable, the overthrower of hosts, immortal. [As printed: "ove r-thrower" is a broken letter-space in the print.]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk it is explained that the words *matsaraḥ*, *vṛṣā*, *madaḥ*, *vareṇyaḥ*, *sahāvān*, *sānasiḥ*, *pṛtanāṣāṭ*, *amartyaḥ* are used as epithets of the Soma juice. The meaning of these words has already been explained in the preceding ṛks, so it will not be described again here.
+
+***pṛtanāṣāṭ*** — the word *pṛtanā* is read among the names of battle (Ni. 2-17 [?]). Since those who fight in battle are the soldiers of armies, here the meaning "enemy-army" (*śatrusenā*) is given: "*śatrusenāyāḥ abhibhavitā*" — the explanation is given that the Soma produces the power to conquer the enemy's army.
+
+This word is well established as an epithet of Indra, describing Indra's distinction; but in the Ṛk-saṃhitā it is not only an epithet of Indra, but an epithet of Agni and other deities as well, indicating their prowess. For example —
+
+> कृणोत धूमं वृषणं सखायोऽस्रेधन्त इतन वाजमच्छ । अयमग्निः पृतनाषाट् सुवीरो येन देवासो असहन्त दस्यून् ॥
+
+> *kṛṇota dhūmaṃ vṛṣaṇaṃ sakhāyo 'sredhanta itana vājam accha | ayam agniḥ pṛtanāṣāṭ suvīro yena devāso asahanta dasyūn ‖*
+
+(Ṛ. Saṃ. 3-29-9 [?]) — here "*pṛtanopalakṣitaṃ yuddhaṃ sahamānaḥ*" ("the one who withstands battle, which is indicated by *pṛtanā*") is the sense of the prowess of Agni that is shown; and "*vyāpriyante atra yoddhāraḥ iti pṛtanāḥ saṃgrāmāḥ*" — since it is the place where warriors gather together in groups, the word *pṛtanā* is used for battle in one place (Ṛ. Saṃ. 3-49-2 [?]); and further,
+
+> इमं नरो मरुतः सश्चता वृधं यस्मिन्रायः शेवृधासः । अभि ये सन्ति पृतनासु दूढ्यो विश्वाहा शत्रुमादभुः ॥
+
+> *imaṃ naro marutaḥ saścatā vṛdhaṃ yasmin rāyaḥ śevṛdhāsaḥ | abhi ye santi pṛtanāsu dūḍhyo viśvāhā śatrum ādabhuḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-16-2 [?]) — here, in *pṛtanāsu*, Sāyaṇa in another place explains the word "*senāsu tadupalakṣiteṣu saṃgrāmeṣu*" — "in armies, in the battles that are indicated by them". The Nirukta-writers include this word among the names of battle (Ni. 2-17 [?]). Since in such battles, with enemy armies, he bears his own strength and the strength of his enemies, it is natural that this epithet should apply to Indra or to Agni; but in the ṛk at hand it is an epithet of Soma.
+
+---
+
+**Progress note:** printed p. 370 (PDF 390) done — Sūkta 175 Ṛk 2 complete in text up to Special Topics (pṛtanāṣāṭ; grammar next). Next: printed p. 371 (PDF 391). Open flags: Ṛk 2 Pada 'sahasvān' [?]; Ṛg refs [?]; review/doubts_v13.json.
