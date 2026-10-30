@@ -4018,5 +4018,29 @@
   ],
   "note": "Bṛ.De 3-30?, Rg 1-24-3, Ait.Br 10-1 refs small; quotes approx (same as pp.391-392)",
   "answer": ""
+ },
+ {
+  "pdf": 443,
+  "printed": 423,
+  "crop": [
+   0.05,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br nivid passages repeat 391-394; text garbled in print; ref 11-10 / 11-11",
+  "answer": ""
+ },
+ {
+  "pdf": 444,
+  "printed": 424,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br ekam parisisya passage repeats 393; garbled",
+  "answer": ""
  }
 ]
