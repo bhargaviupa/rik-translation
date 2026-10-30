@@ -327,3 +327,47 @@ p. 369: Ṛk references printed in Aṣṭaka–Adhyāya–Varga–Ṛk form (re
   p. 370: Ṛk. Saṃ. [2-14-?] -> 7-16-7
   p. 370: Ṛk. Saṃ. [10-108-?] -> 10-108-8
 p. 370: citations completed from the print: "ūrvān [?] … gonām" -> "ūrvān dayanta gonām" (print ದಯಂತ); "bhajante" -> "bhajanta" (print ಭಜಂತ); "gonām … paṇayo" -> "gonām athaitad vacaḥ paṇayo".
+  p. 371: Pā. [5-1-?] -> (none printed)
+p. 371: grammar: vārttika "gor ajādipratyayaprasaṅge yad vaktavyam" has no number in the print; Pā. 6-1-79 and 6-1-213 confirmed.
+p. 372: Saṃhitā 72.9 accents set as printed (zoom 450/600 dpi; the whole verse is on p. 372).
+  p. 373: Tai. Saṃ. [7-4-6-1?] -> 7-4-6-1
+  p. 373: Uṇ. [4-?] -> (none printed)
+p. 373: bhāṣya: "iyāmeti | te etaṃ" -> "iyāmetīti | ta etagṃ"; "aditir devīnā" -> "aditir adīnā"; "yogeṣu" -> "yāgeṣu"; "numabhāvaḥ" -> "guṇābhāvaḥ"; "ṇidittvanunastrer" -> "ṇid ity anuvṛtter"; "gatetvāt" -> "gatatvāt" (print); Meaning and tail updated; doubts withdrawn.
+  p. 374: Tai. Saṃ. [2-4-6?] -> 7-4-6
+  p. 374: Ni. [1-1?] -> 2-5
+  p. 374: Ni. [1-11?] -> 2-13
+  p. 374: Ni. [2-5?] -> 3-9
+  p. 374: Ni. [3-30?] -> 3-22
+  p. 374: Ni. [4-22?] -> 4-23
+p. 374: "hundred and ten [?] names of speech" -> "fifty-seven" (print "aivattēḷu"); quote "te etaṃ" -> "ta etagṃ" (print).
+  p. 375: Ṛk. Saṃ. [1-89-10] -> 10-89-10
+  p. 375: Ni. [11-23?] -> 11-23
+p. 375: the Ṛk "aditir dyauḥ" is printed "10-89-10" (marked [as printed]).
+  p. 376: Uṇ. [4-?] -> 4-660
+p. 376: Pā. 7-3-33 confirmed; "no ñit-effect" -> "treated as ṇit" (print "ṇidvadbhāva").
+p. 377: Saṃhitā 72.10 accents set as printed (zoom 600 dpi); print leaves kṣaranti unmarked and has nī́cīḥ (bar on cī).
+  p. 377: Tai. Saṃ. [2-6-3-1?] -> 2-6-2-1
+  p. 377: Pā. [6-1-22?] -> 7-1-77
+p. 377: bhāṣya: "aruṣīr ocamānāḥ" -> "aruṣīr ārocamānāḥ"; "evaṃbhūtāḥ jvālāḥ" -> "evaṃbhūtās tvadīyā jvālāḥ"; "dikṣūrdhvaṃ jantīty" -> "dikṣūdgacchantīty"; "homāyedṛk ko" -> "homāyedṛśyo" (print).
+  p. 378: Pā. [6-1-22?] -> 7-1-77
+  p. 378: Pā. [6-2-52] -> 6-2-53
+p. 378: tail re-read and characterized from the print (Pari. 40 printed; ṅīp by upasaṃkhyāna; anidhitām); "Compressed; numerals [?]" note removed.
+  p. 379: Tai. Saṃ. [2-6-3-1?] -> 2-6-2-1
+  p. 379: Tai. Saṃ. [2-6-3] -> 2-6-2
+p. 379: Taittirīya passage: "tasmāt [?] …" -> "tasmāt prabāhuk cakṣuṣī" (print; nothing omitted); gloss completed (mine, tentative).
+  p. 380: Ni. [1-13?] -> 2-24
+  p. 380: Ni. [1-8?] -> 2-19
+  p. 380: Pā. [6-1-22?] -> 7-1-77
+  p. 380: Pā. [6-1-171] -> 6-1-171
+p. 380: "thirty-odd [as read, ?]" -> "thirty-seven"; "Rocamānāḥ" -> "Ārocamānāḥ"; Skandasvāmin quote "udepīpadan tad eva" -> "uda pīpadan tad daiva" (as printed); grammar "akṣṇo dvivacane" -> "ī ca dvivacane" (print).
+  p. 381: Paribhāṣā [40?] -> 40
+  p. 381: Uṇ. [4-?] -> 4-513
+p. 381: vārttika for chandasīvanipau printed "vā. 3202-" with the rest blank (noted).
+  p. 381: Pā. [6-2-52] -> 6-2-53
+p. 381: Pā. 3-2-59, 6-4-138, 6-3-138 confirmed.
+p. 381: "explained in the earlier mantra" -> "eighth mantra" (print "8 nē"); end-of-sūkta note: vargas reconciled (17 pp. 333–355; 18 pp. 357–381).
+  p. 352: Pā. [6-2-?] -> 7-4-45
+p. 352: Pā. 6-2-48 confirmed.
+p. 358-359: bhāṣya-tail note "[Pā. 8-3-8?]" -> 8-3-8 (as read on p. 358).
+pp. 354-377: bhāṣya headers "doubtful places [?]" replaced (flagged readings checked).
+p. 377: "यद॒क्षी" anudātta position doubtful [accent ?] (doubts page).
