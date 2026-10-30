@@ -12830,4 +12830,61 @@ Chandas — 1–4, 6 Triṣṭubh; 5 Bṛhatī ‖
 
 ---
 
-**Progress note:** printed p. 468 (PDF 488) done — Sūkta 178 complete (5 ṛks); Sūkta 179 heading (Varga 22, 6 ṛks; Lopāmudrā/Agastya/disciple) and Ṛk 1 Saṃhitā written. Next: printed p. 469 (PDF 489), Ṛk 1 Pada. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 469  (PDF 489)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 469.)*
+
+**Pada-pāṭha**
+
+> पूर्वीः । अहम् । शरदः । शश्रमाणा । दोषाः । वस्तोः । उषसः । जरयन्तीः ।
+> मिनाति । श्रियम् । जरिमा । तनूनाम् । अपि । ऊँ इति । नु । पत्नीः । वृषणः । जगम्युः ॥ १ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> लोपामुद्राह । हे अगस्त्य अहं लोपामुद्रा पूर्वीः शरदः पुरातनान्यसंख्यातान्संवत्सरान् दोषा रात्रीर्वस्तोरहानि तथा देहं जरयन्तीरुषस उषःकालांश्च ॥ सर्वत्रात्यन्तकालसंयोगे द्वितीया ॥ अद्यैतत्कालपर्यन्तं बहुसंवत्सरं कार्त्स्न्येन त्वच्छुश्रूषया शश्रमाणा श्रान्ताभूवम् । इदानीं तु जरिमा जरा तनूनामङ्गानां श्रियं सौन्दर्यं मिनाति । हिनस्ति । एवमपि नानुगृह्णासीत्यर्थः । अप्यू नु । अपि सम्भावनायाम् । ऊ इत्यैवधारणे [?] । नु इति वितर्के । इदानीमपि किं सम्भावनीयम् । लोके हि पत्नीः स्त्रियो वृषणः सेक्तारः पुरुषा जगम्युः । गच्छेयुः । संभोगं कुर्युः । अतो मां किमित्थैवमुपेक्षसे [?] । इदानीमपि वा सम्भावयेत्यर्थः ॥ [as read; a few words doubtful [?]]
+
+*Gist:* Lopāmudrā says she has served Agastya through many years, and old age now spoils her beauty; yet he does not approach her — as husbands do their wives.
+
+**Pratipadārtha**
+
+(*he* **Agastya**) — O Agastya; **ahaṃ** — I (the one called Lopāmudrā); **pūrvīḥ** — long past; **śaradaḥ** — many years; **doṣāḥ** — nights; **vastoḥ** — days; (and) **jarayantīḥ** — causing the body to age; **uṣasaḥ** — (up to) the dawns; **śaśramāṇā** — I have grown weary in serving you; (now) **jarimā** — old age; **tanūnām** — of the limbs; **śriyam** — the beauty; **mināti** — destroys; **api ū nu** — what, now, is to be done? **loke hi** — in the world indeed; **patnīḥ** — their wives; **vṛṣaṇaḥ** — husbands who sprinkle the seed; **jagamyuḥ** — approach (for union).
+
+**Bhāvārtha**
+
+Lopāmudrā says: O Agastya! For many years, by day, by night and at dawns, I have been tiring myself without rest in serving you; now old age is spoiling the beauty of my limbs. What am I to do now? In the world husbands approach their wives for union. (You alone still do not favour me.)
+
+### Printed p. 470  (PDF 490)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 470.)*
+
+**Printed English**
+
+> (Lopamudra),—Many years have I been serving you diligently, both day and night, and through mornings, bringing on old age: decay now imqairs [sic] the beauty of my limbs: what, therefore, is now (to be done): let husbands approach their wives.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā and Agastya is described. The commentator of the Bṛhaddevatā has explained this episode as follows:
+
+> ऋतौ स्नातां नृषिर्भार्यां लोपामुद्रां यशस्विनीम् । उपजल्पितुमारेभे रहःसंयोगकाम्यया ॥
+> द्वाभ्यां सा श्वब्रवीद्वैग्भ्यां [?] पूर्वीरिति चिकीर्षितम् । रिरंसुस्तामथागस्त्य उत्तराभ्यामतोषयत् ॥
+> विदित्वा तपसा सर्वं तयोर्भावं रिरंसतोः । श्रुत्वैनः कृतवानस्मि ब्रह्मचार्युः [?] तनो जगौ ॥
+
+> *ṛtau snātāṃ nṛṣirbhāryāṃ lopāmudrāṃ yaśasvinīm | upajalpitumārebhe rahaḥsaṃyogakāmyayā ‖*
+> *dvābhyāṃ sā śvabravīdvaigbhyāṃ [?] pūrvīriti cikīrṣitam | riraṃsustāmathāgastya uttarābhyāmatoṣayat ‖*
+> *viditvā tapasā sarvaṃ tayorbhāvaṃ riraṃsatoḥ | śrutvainaḥ kṛtavānasmi brahmacāryuḥ [?] tano jagau ‖*
+
+(Bṛ. De. 4-57 to 59 [?]) — after the ritual bath following her season (*ṛtusnāna*), Agastya, wishing union with his wife Lopāmudrā, began a conversation with her. She too, by the two ṛks "*pūrvīraham śaradaḥ*" (Ṛ. Saṃ. 1-179-1) and "*ye cid dhi pūrve*" (1-179-2), made known her purpose. Then Agastya, by the two ṛks "*na mṛṣā śrāntam*" (1-179-3) and "*nadasya mā rudhataḥ*" (1-179-4), made known his own wish to her and satisfied her. In this context Agastya's disciple, who by the power of his austerity (*tapas*) had understood all of what lay in the minds of the pair desiring union, and had heard this conversation — thinking that it was a sin — himself recited the two ṛks "*imaṃ nu somam*" (1-179-5) and "*agastyaḥ khanamānaḥ*" (1-179-6): so it is explained in the Bṛhaddevatā.
+
+***doṣāḥ; vastoḥ*** — of these two words, *doṣāḥ* is read among the names of night (Ni. 3-9 [?]) and *vastoḥ* among the names of day. And explaining the meanings of the two words, the Nirukta-writers, in the Ṛk-saṃhitā's
+
+> कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः ।
+> को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥
+
+> *kuha sviddoṣā kuha vastoraśvinā kuhābhipitvaṃ karataḥ kuhoṣatuḥ |*
+> *ko vāṃ śayutrā vidhaveva devaraṃ maryaṃ na yoṣā kṛṇute sadhastha ā ‖*
+
+(Ṛ. Saṃ. 10-40-2 [?]) — [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 470 (PDF 490) done — Sūkta 179 Ṛk 1: Pada…printed English, Special Topics begun (doṣāḥ vastoḥ; continues p. 471). Next: printed p. 471 (PDF 491). Open flags: refs [?]; Bṛhaddevatā verses p.470 [?]; review/doubts_v13.json.
