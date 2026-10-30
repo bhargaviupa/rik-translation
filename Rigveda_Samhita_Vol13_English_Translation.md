@@ -18178,4 +18178,58 @@ All these three seers pray in the ṛk at hand to the Aśvin deities, praising t
 
 ---
 
-**Progress note:** printed p. 650 (PDF 670) done — Sūkta 183 Ṛk 5 ends (Special Topics: Weber/Eggeling on eastward migration; Mitravindā; grammar). Next: printed p. 651 (PDF 671): Ṛk 6 (last of Sūkta 183). Open flags: refs [?]; review/doubts_v13.json.
+### Sūkta 183, Ṛk 6  (printed p. 651; PDF 671)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 651.)*
+
+**Saṃhitā-pāṭha**
+
+> अतारिष्म तमसस्पारमस्य प्रति वां स्तोमो अश्विनावधायि ।
+> एह यातं पथिभिर्देवयानैर्विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+
+**Pada-pāṭha**
+
+> अतारिष्म । तमसः । पारं । अस्य । प्रति । वां । स्तोमः । अश्विनौ । अधायि ।
+> आ । इह । यातं । पथिऽभिः । देवऽयानैः । विद्याम । इषं । वृजनं । जीरऽदानुम् ॥ ६ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवयोः प्रसादादस्य तमसस्तमनहेतोः श्रेयःप्रतिबन्धरूपस्य दुःखस्य पारं पर्यन्तभूमिमतारिष्म । उत्तीर्णाः स्मः । हे अश्विनौ वां प्रति स्तोमः स्तोत्रमधायि । अकारीत्यर्थः । युवां देवयानैर्देवागन्तव्यैर्मार्गैरिहास्मद्यज्ञ आ यातं । आगच्छतं । शिष्टो व्याख्यातः ॥
+
+*(Sanskrit as read; "tamanahetoḥ" doubtful [?]. Gist: by your grace we have crossed to the far shore of this darkness, the obstacle to welfare; this praise has been made to you; come by the paths the gods travel.)*
+
+**Pratipadārtha** — (*he aśvinau* — O Aśvin deities!) (**yuvayoḥ prasādāt** — by your grace) **asya tamasaḥ** — of this darkness (the suffering that stands as obstacle to welfare); **pāraṃ** — the farther shore; **atāriṣma** — we have crossed; (*he*) **aśvinau** — O Aśvin deities; **vāṃ prati** — directed to you; **stomaḥ** — the praise; **adhāyi** — has been made; **devayānaiḥ pathibhiḥ** — by the paths along which the gods travel; **iha** — to this sacrifice of ours; **ā yātaṃ** — come; **iṣaṃ** — food; **vṛjanaṃ** — strength; **jīradānuṃ** — long life; **vidyāma** — may we obtain.
+
+**Bhāvārtha** — O Aśvin deities, by your favour this darkness-like suffering, an obstacle to welfare, has been crossed; our praise in the form of hymns, offered to you, has been performed; come to our sacrificial hall by the paths fit for the gods, and grant us food, strength and long life.
+
+**English Translation.** *(printed)*
+
+"(Through your aid), Aswins, we cross over this (limit of) darkness; to you this (our) hymn has been addressed ; come hither by the paths traversed by the gods, that we may obtain food, and strength and long life."
+
+### Printed p. 652  (PDF 672)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 652.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Devayānaiḥ pathibhiḥ** — "*devagantavyair mārgaiḥ*" — "by the paths along which the gods travel": the physical sense is told. In the Upaniṣads, the words *devayāna* and *pitṛyāna* have technical meanings. But in the Ṛk-saṃhitā, in many places the word *devayāna* simply means "the path along which the gods travel". In some places only, the spiritual purport described in the Upaniṣads is also suggested.
+
+In the Upaniṣads, by the words *devayāna* and *pitṛyāna* it is well known that, after a man's death, his body turns to ashes, and that two paths exist for the eternal soul to travel. These two paths — *devayāna* and *pitṛyāna* — lead to the fruit of the good deeds: one is the path of the gods, the other the path of the fathers. Those who, having known the *Pañcāgnividyā*, worship faith (*śraddhā*) and truth in the forest, travel by the path of the gods to the Supreme Brahman. It is described in the Upaniṣads, in this way, that after their death the soul enters the flame, and through it the day, the bright half, the northern course, the year, the Sun and lightning, and through it reaches Supreme Brahman with the help of a non-human person:
+
+> ते य एवमेतद्विदुर्ये चामी अरण्ये श्रद्धां सत्यमुपासते तेऽर्चिरभिसंभवन्त्यर्चिषोऽहरह्न आपूर्यमाणपक्षमापूर्यमाणपक्षाद्यान्षण्मासानुदङ्ङादित्य एति मासेभ्यो देवलोकं देवलोकादादित्यमादित्याद्वैद्युतं तान्वैद्युतान्पुरुषो मानस एत्य ब्रह्मलोकान्गमयति ते तेषु ब्रह्मलोकेषु पराः परावतो वसन्ति तेषां न पुनरावृत्तिः ॥
+
+> *te ya evametadvidurye cāmī araṇye śraddhāṃ satyamupāsate te 'rcirabhisaṃbhavantyarciṣo 'harahna āpūryamāṇapakṣamāpūryamāṇapakṣādyānṣaṇmāsānudaṅṅāditya eti māsebhyo devalokaṃ devalokādādityamādityādvaidyutaṃ tānvaidyutānpuruṣo mānasa etya brahmalokāngamayati te teṣu brahmalokeṣu parāḥ parāvato vasanti teṣāṃ na punarāvṛttiḥ ‖*
+
+(Bṛ. U. 6-2-15 [?]; Sanskrit as read, doubtful in places [?])
+
+Having told thus that those who reach the *Brahmaloka* have no return, the nature of the *pitṛyāna* and the order of that path are described:
+
+> अथ ये यज्ञेन दानेन तपसा लोकाञ्जयन्ति ते धूममभिसंभवन्ति धूमाद्रात्रिं रात्रेरपक्षीयमाणपक्षमपक्षीयमाणपक्षाद्यान्षण्मासान्दक्षिणादित्य एति मासेभ्यः पितृलोकं पितृलोकाच्चन्द्रं ते चन्द्रं प्राप्यान्नं भवन्ति तांस्तत्र देवा यथा सोमं राजानमाप्यायस्वापक्षीयस्वेत्येवमेनांस्तत्र भक्षयन्ति …… ते पृथिवीं प्राप्यान्नं भवन्ति ते पुनः पुरुषाग्नौ हूयन्ते …… एवमेवानुपरिवर्तन्ते ।
+
+> *atha ye yajñena dānena tapasā lokāñjayanti te dhūmamabhisaṃbhavanti dhūmādrātriṃ rātrerapakṣīyamāṇapakṣamapakṣīyamāṇapakṣādyānṣaṇmāsāndakṣiṇāditya eti māsebhyaḥ pitṛlokaṃ pitṛlokāccandraṃ te candraṃ prāpyānnaṃ bhavanti tāṃstatra devā yathā somaṃ rājānamāpyāyasvāpakṣīyasvetyevamenāṃstatra bhakṣayanti …… te pṛthivīṃ prāpyānnaṃ bhavanti te punaḥ puruṣāgnau hūyante …… evamevānuparivartante |*
+
+(Bṛ. U. 6-2-16 [?]; Sanskrit as read, with gaps marked by dots in the print; doubtful in places [?]).
+
+---
+
+**Progress note:** printed p. 652 (PDF 672) done — Sūkta 183 Ṛk 6 (last): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (devayāna / pitṛyāna from Bṛ. U.; continues p. 653). Next: printed p. 653 (PDF 673). Open flags: refs [?]; review/doubts_v13.json.
