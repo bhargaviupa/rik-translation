@@ -4062,4 +4062,52 @@ Addressing Indra, ***naḥ kiṃ jighāṃsasi*** — *asmān anaparādhinaḥ h
 
 ---
 
-**Progress note:** printed p. 182 (PDF 202) done — Sūkta 170 Ṛk 2 through Special Topics (grammar on p. 183). Next: printed p. 183 (PDF 203). Open flags: small-type numerals [?]; Aditi/Diti remark noted in text; review/doubts_v13.json.
+### Printed p. 183  (PDF 203)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; grammar of Ṛk 2.)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *jighāṃsasi* (root *hana hiṃsāgatyoḥ*; the affix *san* in the sense of wish by "*dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā*", Pā. Sū. 3-1-7 [?]; lengthening of the root's penultimate by "*ajjhanagamāṃ sani*", Pā. Sū. 6-4-16 [?]; reduplication by "*sanyaṅoḥ*"; the velar replaces *h* by "*abhyāsāc ca*", Pā. Sū. 7-3-55 [?]; *i* in the reduplicative syllable by "*sanyataḥ*"; *nighāta* since it stands after a word ending in a verb); *bhrātaraḥ* (root *bhrāja dīptau*; ending in *tṛn* by an Uṇādi sūtra, "*naptṛneṣṭṛ…*", as an irregular form); *tebhiḥ* (by "*bahulaṃ chandasi*", the *iṭ* of *bhis* being optional, *e* occurs); *kalpasva* (root *kṛpū sāmarthye*; *loṭ* 2nd singular; *se* replaces the affix by "*thāsaḥ se*"; *va* for the *ṭi* part by "*savābhyāṃ vāmau*", Pā. Sū. 3-4-91 [?]; *guṇa* of the light penultimate because of *śap*; when *r* follows, *l* by "*kṛpo ro laḥ*", Pā. Sū. 8-2-18 [?]; *nighāta*); *sādhuyā* (the word *sādhu* before the instrumental singular; by "*supāṃ sulak…*", Pā. Sū. 7-1-39 [?], *yāc* is substituted; accent on the last syllable by "*citaḥ*"); *vadhīḥ* (root *hana hiṃsāgatyoḥ*; *luṅ* when *māṅ* precedes, by "*māṅi luṅ*", Pā. Sū. 3-3-175 [?]; loss of *i* when *sip* comes in the 2nd singular; when "*hano vadha liṅi*" is continued, *vadha* substitutes for the root by "*luṅi ca*", Pā. Sū. 2-4-43 [?]; *sic* replaces *cli*; loss of the *ī* by "*iṭa īṭi*", Pā. Sū. 8-2-28 [?]; no augment *aṭ* by "*na māṅyoge*", Pā. Sū. 6-4-74 [?]; *nighāta*). ‖ 2 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> किं नो भ्रातरगस्त्य सखा सन्नति मन्यसे ।
+> विद्मा हि ते यथा मनोऽस्मभ्यमिन्न दित्ससि ॥ ३ ॥
+
+> *kiṃ no bhrātaragastya sakhā sannati manyase |*
+> *vidmā hi te yathā mano 'smabhyaminna ditsasi ‖ 3 ‖*
+
+### Printed p. 184  (PDF 204)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+**॥ पदपाठः ॥**
+
+> किम् । नः । भ्रातः । अगस्त्य । सखा । सन् । अति । मन्यसे ।
+> विद्म । हि । ते । यथा । मनः । अस्मभ्यम् । इत् । न । दित्ससि ॥ ३ ॥
+
+> *kim | naḥ | bhrātaḥ | agastya | sakhā | san | ati | manyase |*
+> *vidma | hi | te | yathā | manaḥ | asmabhyam | it | na | ditsasi ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इदमिन्द्रवाक्यम् । हे भ्रातः हे अगस्त्य । हविष्प्रदानवरप्रदानाभ्यां परस्परोपकारत्वाद्भ्रातृत्वम् । तादृशस्त्वं सखा सन् अस्मद्धितकार्यपि सन्नोऽस्मान्निमति [?] मन्यसे । कस्मादपराधादतिक्रम्य मनुषे । अपलपसि । नायमपलापः । किंतु तथ्यमेवेति चेत् उच्यते । गन्तव्यं ते तव मनो मानसं यथा यथावत् सत्तद्विद्म । जानीमः । कथं जानीथेति उच्यते । अस्मभ्यमिन्न दित्ससि । अस्मदर्थं निरुप्तमस्मभ्यं दातुं नेच्छस्येव । इदेवार्थे ॥ [reading doubtful in places]
+
+*Gist:* Indra's speech: Agastya, a friend and brother (through mutual boons), why do you slight me? We know your mind: you do not wish to give us what was prepared for us.
+
+**Pratipadārtha.** *he bhrātaḥ agastya* — O brotherly Agastya; *sakhā san* — though a friend to me (though a benefactor); *naḥ* — us (me); *kim ati manyase* — why do you treat (me) with disregard?; *te* — your; *manaḥ* — mind; *yathā* — truly; *vidma hi* — we know well; *asmabhyam* — to us; *na dittsasi it* — you have no wish at all to give (oblations and the like).
+
+**Bhāvārtha.** O brother Agastya, although you are a friend (a benefactor) to me, why do you disregard me? We know it well: you have no wish to give us oblations and the like.
+
+**English Translation (as printed):** (Indra),—Wherefore, brother Agastya, do you, who are my friend, treat me with disregard? Verily, we know what is in your mind: you do not intend to give us anything.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+Sāyaṇa, explaining that Indra speaks these words, says that Indra addressed the sage Agastya as ***he bhrātaḥ*** ("O brother"), and that Indra's brotherhood with the sage Agastya is *haviṣpradānavarapradā-* (continued on the next page).
+
+---
+
+**Progress note:** printed p. 184 (PDF 204) done — Sūkta 170 Ṛk 2 complete; Ṛk 3 Saṃhitā to Special Topics begun (continues p. 185). Next: printed p. 185 (PDF 205). Open flags: Ṛk 3 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
