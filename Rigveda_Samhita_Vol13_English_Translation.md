@@ -3742,4 +3742,54 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 
 ---
 
-**Progress note:** printed p. 168 (PDF 188) done — Sūkta 169 Ṛk 6 through grammar (the end marker '‖ 6 ‖' comes with p. 169). Next: printed p. 169 (PDF 189). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 169  (PDF 189)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9".)*
+
+*(Grammar of Ṛk 6, concluded; noted briefly)*: *tasthuḥ* (root *ṣṭhā gatinivṛttau*; Vedic *liṭ* in the present sense; 3rd plural; because of *yat* (*yadyoga*) there is no *nighāta*; accent on the last syllable by the affix). ‖ 6 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> प्रति घोराणामेतानामयासां मरुतां शृण्व आयतामुपब्दिः ।
+> ये मर्त्यं पृतनायन्तमूर्म्यैर्ऋणावानं न पतयन्त सर्गैः ॥ ७ ॥
+
+> *prati ghorāṇāmetānāmayāsāṃ marutāṃ śṛṇva āyatāmupabdiḥ |*
+> *ye martyaṃ pṛtanāyantamūrmyairṛṇāvānaṃ na patayanta sargaiḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्रति । घोराणाम् । एतानाम् । अयासाम् । मरुताम् । शृण्वे । आऽयताम् । उपब्दिः ।
+> ये । मर्त्यम् । पृतनाऽयन्तम् । ऊर्म्यैः । ऋणऽवानम् । न । पतयन्त । सर्गैः ॥ ७ ॥
+
+> *prati | ghorāṇām | etānām | ayāsām | marutām | śṛṇve | ā 'yatām | upabdiḥ |*
+> *ye | martyam | pṛtanā 'yantam | ūrmyaiḥ | ṛṇa 'vānam | na | patayanta | sargaiḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र ते संबन्धिनां घोराणां भयानकानां शब्दाभिमानानां [?] वैतानामेतवर्णानाम् [?] अयासामयमानानां गमनशीलानां मरुतामायतामागन्तॄणां मरुतामुपब्दिः । उप गुर्वादिसमीपे गम्यते ज्ञायते उपपद्यते इति वोपब्दिर्वाक् । शृण्वे । श्रूयते । कर्मणि कर्तृप्रत्ययः ॥ ते एव विशिष्यन्ते । ये मरुतो मर्त्यं मरणधर्माणमूर्म्यैः स्वरक्षणैरुदकनिगमनसाधनैर्वा पृतनायन्तं पृतनामात्मन इच्छन्तं वैरिणं मेघं वा सर्गैः सृष्ट्यैः [?] स्वकीयप्रहारविशेषैः पतयन्त । पातयन्ति । तेषामेव ध्वनिः श्रूयत इत्यर्थः । पातने दृष्टान्तः । सर्गैर्ऋणवानं न ॥ छन्दसीवनिपाविति वनिप् ॥ ऋणवन्तमधमर्णमृणिनमिव [?] । तं यथा पीडयित्वा तदीयं धनमुपहरन्ति तद्वत् । एवं महानुभावा मरुतस्त्वानुगा इतीन्द्रस्य स्तुतिः ॥
+
+*Gist:* The sound of Indra's fearsome, dark-hued, swift Maruts is heard as they come; with their own blows they bring down the foe or the cloud, as men press a debtor and carry off his goods.
+
+### Printed p. 170  (PDF 190)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *ye* — which Marut-gods; *ūrmyaiḥ* — by protective acts; *pṛtanāyantam* — desiring victory in battle; *martyam* — the enemy of mortal nature; [*or* *ūrmyaiḥ* — by means of the flow of water; *pṛtanāyantam* — desiring victory in battle (to shed water); *martyam* — the impermanent cloud]; *sargaiḥ* — by (self-protecting) blows; *ṛṇāvānam na* — like a contemptible enemy (as one presses him); *patayanta* — they cause to fall downward (as rain); *(teṣām* — of such*)* *te* — your; *ghorāṇām* — fearsome (proud of their sound); *etānām* — of the variously coloured; *ayāsām* — of the moving; *āyatām* — of those who approach from before; *marutām* — of the Marut-gods; *upabdiḥ* — the sound as they near; *prati* — echoing; *śṛṇve* — is heard.
+
+**Bhāvārtha.** O Indra, the sound of your Marut-gods — fearsome, variously coloured, swift, coming from above — is heard echoing; they bring down, as in battle, the impermanent cloud that desires victory (in the form of the splitting of the cloud).
+
+**English Translation (as printed):** The noise of the formidable, dark-coloured, swift-moving, and advancing Maruts, is everywhere echoed; (the noise) of them who strike down their mortal (foes), gathering in a host against them, by their self-defending blows, as (they strike down) a contemptible enemy.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***ghorāṇām*** — *bhayānakānāṃ śabdābhimānānāṃ vā*: those who cause fear, and those who produce abundant sound, are well known; thus the meaning is explained for *marutām*; and that the Marut-gods are of variegated appearance and always in motion. In describing their greatness he explains *ā yatām upabdiḥ āgantṝṇām, vāk śṛṇve śrūyate*: the sound of those who come to the sacrifice is heard.
+
+***upabdiḥ*** — this word is read among the names of speech (Ni. 1-[?]); "*upa gurvādisamīpe gamyate jñāyate upapadyate iti vā*" — as it is known near a teacher and the like, or as it is acceptable (*upapadyate*), it is *vāk* ("speech"): thus Sāyaṇa explains.
+
+---
+
+**Progress note:** printed p. 170 (PDF 190) done — Sūkta 169 Ṛk 6 complete; Ṛk 7 Saṃhitā through first Special Topics (continues p. 171). Next: printed p. 171 (PDF 191). Open flags: Ṛk 7 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
