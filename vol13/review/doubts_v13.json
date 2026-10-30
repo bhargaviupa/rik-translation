@@ -2854,5 +2854,29 @@
   ],
   "note": "Rik 3 bhashya dense: 'vrto 'surapurih', 'vahutendra', 'raksoraksasasca' read approx - zoom needed",
   "answer": ""
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 3-4, 2-1 small",
+  "answer": ""
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "crop": [
+   0.5,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'yebhih' note read approx",
+  "answer": ""
  }
 ]

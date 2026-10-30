@@ -8421,4 +8421,45 @@ Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brā
 
 ---
 
-**Progress note:** printed p. 326 (PDF 346) done — Sūkta 174 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha (continues p. 327). Next: printed p. 327 (PDF 347). Open flags: Ṛk 3 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 327  (PDF 347)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+**Bhāvārtha**
+
+O Indra, called in many ways or by many, go, in company with the Maruts and others, your followers, to conquer the cities of the *asuras* guarded by Rākṣasas. As a lion goes boldly among other animals and swallows them, go forth; go from there also to the world of heaven; and protect Agni, the fire of the *homa*, who is swift-moving and unquiet, establishing him so as to carry out rites in the houses.
+
+**Printed English**
+
+Go to the cities inhabited by the Rakshasas, and thence to heaven (attended), receiver of many sacrifices, by those who (attend you). Defend, like a lion, the untamed, quick-moving Agni, that he may abide in his dwelling, fulfilling his functions. [As printed: "quick-mo\ing" is a broken letter in the print.]
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***śūrapatnīḥ*** — it is explained that this word is used in two meanings. In the first meaning, "*śūraiḥ rakṣobhiḥ pālitāḥ vīrarāda rākṣasarinda pālisalpaṭṭavugaḷāgiyū*, *vartante 'sti iti vṛtaḥ*": "guarded by the heroic Rākṣasas, and *vṛta* — (cities) where Rākṣasas dwell": the meaning is "the *asura* cities". In the second, "*śūrāḥ yajamānāḥ taiḥ pālitāḥ vṛtaḥ vedibhūmīḥ*": by the word *śūra* the meaning "sacrificers" is given, and *vṛtaḥ* means the sacrificial altars guarded by them: so Indra is to go towards the cities guarded by the *asuras*, or the sacrificial altars guarded by the sacrificers.
+
+Addressing Indra with the word ***puruhūte***, by the explanation "*puru-bhiḥ bahudhā vā āhūte*" he describes the sense: invoked by the many sacrificers in many ways. ***yebhiḥ dyāṃ ca nūnaṃ aja*** — since Indra is always in the company of the Marut deities, along with them he conquers the *asura* cities; or, coming to the sacrificial hall and accepting oblations, he reaches heaven (*dyām*): the sacrificers' wish is described.
+
+***aśuṣaṃ tūrvayāṇam*** — these two words are used as epithets of the word *agnim*. ***aśoṣayitāraṃ aśāntaṃ vā*** — the fire that dries up everything completely, and is unquiet; and that moves with speed — thus describing the quality of Agni; "*agnim*" may be *vaidyutāgni* (the lightning) or even the earthly fire that supports the *homa* in which oblations are offered; the meaning is given that Indra should protect this Agni: so the wish is described.
+
+### Printed p. 328  (PDF 348)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+***dame apāṃsi vastoḥ — gṛhe karmāṇi kurvan vastuṃ | yadvā vāsayituṃ sthāpayituṃ kārayituṃ*** — the word *dame* is read among the names of house (Ni. 3-4 [?]). The word *apaḥ* is read among the names of acts (Ni. 2-1 [?]). The word *vastoḥ* means "dwelling": the explanation is "attaining a position". The wish is described that, while Agni is comfortable on the sacrificial altar, Indra's protection, which is the necessary duty, be available for the priests to perform for the sacrificer the acts of sacrifice and the rest; and, as *yajñadviṭsu hateṣu agnau susthire yāgādy-anuṣṭhānaparaḥ sthāsyāmi* ("when those who hate the sacrifice are slain, and Agni is firmly settled, I shall remain intent on performing sacrifice and so on"), the sacrificer's hope is stated.
+
+***siṃhaḥ iva*** — this sentence is given as a comparison in the matter of the protection done by Indra. In the protection done by a lion, the forest, the dwelling of the lion, is the result of warding off the harm that comes from elephants and the like. In the same way, the protection of the performance of sacrifice by the sacrificers is of the nature of destroying the molestations of the *asuras*, who are the enemies of the sacrifice: so the sense is described by the way of a simile.
+
+In the second sense, saying "*asurapurabhaṅgagamane vā dṛṣṭāntaḥ*", "or the example is of going to break the cities of the *asuras*", he says that Indra goes with the intention to destroy the *asuras*; and "*siṃho yathā nirbhayo virodhimṛgān haṃtuṃ dhāvati tadvat*" — as a lion, without any fear, rushes to kill the animals that oppose it, so Indra, fearless, sets out to subdue the *asuras*.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***ajā*** — root *aja gatikṣepaṇayoḥ*; *loṭ*, second person singular; because it is in *pādādi* position, no *nighāta*; by "*dvyacoʼtastiṅaḥ*" (Pā. Sū. 6-3-135 [?]) the long vowel occurs in the Saṃhitā.
+- ***vṛtaḥ*** — by "*kvip ca*" the suffix *kvip*; accusative plural.
+- ***yebhiḥ*** — *yad*; *bhis* following, by "*bahulaṃ chandasi*" (Pā. Sū. 7-1-10 [?]) the option of *ais* does not occur, so *eta* [*e*].
+- ***puruhūta*** — *purubhiḥ hūtaḥ puruhūtaḥ*; in the vocative, by "*āmantritasya*" *nighāta* accent.
+- ***rakṣo*** — root *rakṣa pālane*; *loṭ*, second person singular; because it is in *pādādi* position, the root accent remains.
+- ***tūrvayāṇam*** — *tūrvaṃ yānaṃ yasya saḥ*; *tanap*; in the bahuvrīhi, by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent.
+
+---
+
+**Progress note:** printed p. 328 (PDF 348) done — Sūkta 174 Ṛk 3 Special Topics and grammar in progress (grammar continues p. 329). Next: printed p. 329 (PDF 349). Open flags: Nirukta/sūtra numerals [?]; review/doubts_v13.json.
