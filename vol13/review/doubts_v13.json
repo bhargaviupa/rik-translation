@@ -2998,5 +2998,29 @@
   ],
   "note": "Rg 10-86-23 ref; Nirukta follow-up passage 'tamagamuddesam...' garbled; story quote read approx",
   "answer": ""
+ },
+ {
+  "pdf": 359,
+  "printed": 339,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-29-1 quote 'vane na va yo nyadhayi cakan..' read approx; Nirukta cakan ref; abhike ref 3-20",
+  "answer": ""
+ },
+ {
+  "pdf": 360,
+  "printed": 340,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-61-6, 5-31-4, 1-121-12, 8-100-9; Nirukta 2-11 small",
+  "answer": ""
  }
 ]
