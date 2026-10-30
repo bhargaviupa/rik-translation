@@ -8369,4 +8369,56 @@ Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brā
 
 ---
 
-**Progress note:** printed p. 324 (PDF 344) done — Sūkta 174 Ṛk 2 Special Topics (Purukutsa; continues p. 325). Next: printed p. 325 (PDF 345). Open flags: Ṛg/Śa. Brā./Nirukta refs [?]; review/doubts_v13.json.
+### Printed p. 325  (PDF 345)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***danaḥ*** — root *damu upaśame*; *laṅ*, second person singular, *sip*; "*itaś ca*" (Pā. Sū. 3-4-100 [?]) drops the *i*; the root includes *ṇic* in its sense; by "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75 [?]) the augment *a* does not occur. Or *ṇada avyakte śabde* — in the Veda a transposition of letters is found; because of *pādādi* position, no *nighāta*; *śap* being *pit*, the root accent remains.
+- ***mṛdhravācaḥ*** — *mṛdhrā vāk yeṣāṃ te*; in the bahuvrīhi, the fore-member keeps its natural accent.
+- ***dart*** — root *dṝ vidāraṇe*; *laṅ*; by "*vyatyayo bahulam*" *sip* becomes *tip*; by "*bahulaṃ chandasi*" *luk* for the *vikaraṇa*; by "*sārvadhātukārdhadhātukayoḥ*" guṇa for the *ik* of the root; *ra* follows; by "*rāt sasya*" (Pā. Sū. 8-2-24 [?]) the dropping of the final conjunct (*saṃyogānta-lopa*) does not occur; by "*bahulaṃ chandasy amāṅyoge 'pi*" no augment; *nighāta* for a *tiṅ*.
+- ***ṛṇoḥ*** — root *ṛṇu gatau*; *tanādi*; *laṅ*, second person singular, *sip*; the *i* is dropped; by "*tanādikṛñbhya uḥ*" (Pā. Sū. 3-1-79 [?]) the *u* vikaraṇa; since *sip* is the cause, guṇa on it; no augment Vedically; the vikaraṇa accent remains.
+- ***apaḥ*** — accusative plural; by "*ūḍidaṃ padādi*" (Pā. Sū. 6-1-171 [?]) the case ending is *udātta*.
+- ***yūne*** — the word *yuvan*; dative singular following, by "*śvayuvamaghonām ataddhite*" (Pā. Sū. 6-4-133 [?]) *saṃprasāraṇa*, with the earlier form.
+- ***randhīḥ*** — root *radha hiṃsāsaṃrāddhyoḥ*; *luṅ*, second person singular, *sip*; the *i* is dropped; the *cli* gets *sic*; by "*ārdhadhātuke*" (Pā. Sū. 2-4-35 [?]) the augment *iḍ*; by "*asti sico 'pṛkte*" (Pā. Sū. 7-3-96 [?]) the suffix takes the augment *īḍ*; by "*iṭa īṭi*" (Pā. Sū. 8-2-28 [?]) *sic* is dropped; by "*radhijabhor aci*" (Pā. Sū. 7-1-61 [?]) the root takes *num*; no augment Vedically; being after *ati* (*tiṅ*) *nighāta*. ‖ 2 ‖
+
+---
+
+**Sūkta 174, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> अजा वृत इन्द्र शूरपत्नीर्द्यां च येभिः पुरुहूत नूनम् ।
+> रक्षो अग्निमशुषं तूर्वयाणं सिंहो न दमे अपांसि वस्तोः ॥ ३ ॥
+
+> *ajā vṛta indra śūrapatnīr dyāṃ ca yebhiḥ puruhūta nūnam |*
+> *rakṣo agnim aśuṣaṃ tūrvayāṇaṃ siṃho na dame apāṃsi vastoḥ ‖ 3 ‖*
+
+### Printed p. 326  (PDF 346)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Pada-pāṭha**
+
+> अज । वृतः । इन्द्र । शूरऽपत्नीः । द्याम् । च । येभिः । पुरुऽहूत । नूनम् ।
+> रक्षो इति । अग्निम् । अशुषम् । तूर्वयाणम् । सिंहः । न । दमे । अपांसि । वस्तोः ॥ ३ ॥
+
+> *aja | vṛtaḥ | indra | śūra-patnīḥ | dyām | ca | yebhiḥ | puru-hūta | nūnam |*
+> *rakṣo iti | agnim | aśuṣam | tūrvayāṇam | siṃhaḥ | na | dame | apāṃsi | vastoḥ ‖ 3 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र शूरपत्नीः शूरै रक्षोभिः पालिता वृतः । वर्तन्ते अस्तीति वृतोऽसुरपुरीः [?] । यद्वा । शूरा यजमानाः । तैः पालिता वृतो वेदिभूमीः । अज । गच्छ जेतुं । तथा कृत्वा द्यां च नूनमवश्यमज । किं त्वमेक एव न । हे पुरुहूत बहुभिर्बहुधा वाहूतेन्द्र येभिर्मरुदादिभिरनुगतोऽसि तैः सहितः सन् । तथा कृत्वाऽशुषमाशोषयितारमशान्तं वा तूर्वयाणं तूर्णगमनमग्निं वैद्युतं होमाधारं वाग्निं रक्षो रक्षसश्चैव [?] । किमर्थं रक्षणमिति उच्यते । दमे गृहेऽपांसि कर्माणि कुर्वन् वस्तोर्वसतुं । यद्वा । वासयितुं स्थापयितुं । कारयितुमित्यर्थः । यज्ञद्विट्सु हतेष्वग्नौ सुस्थिरे सति यागाद्यनुष्ठानपरः स्थास्यामीत्यर्थः । रक्षणे दृष्टान्तः । सिंह इव । स यथा स्वाश्रयभूतं वनं गजाद्युपद्रवपरिहारेण रक्षति तद्वत् । असुरपुरभंगगमने वा दृष्टान्तः । सिंहो यथा निर्भयो विरोधिमृगान् हंतुं धावति तद्वत् ॥
+
+> *he indra śūrapatnīḥ śūrai rakṣobhiḥ pālitā vṛtaḥ | vartante astīti vṛto 'surapurīḥ [?] | yadvā | śūrā yajamānāḥ | taiḥ pālitā vṛto vedibhūmīḥ | aja | gaccha jetuṃ | tathā kṛtvā dyāṃ ca nūnam avaśyam aja | kiṃ tvam eka eva na | he puruhūta bahubhir bahudhā vāhūtendra yebhir marudādibhir anugato 'si taiḥ sahitaḥ san | tathā kṛtvā 'śuṣam āśoṣayitāram aśāntaṃ vā tūrvayāṇaṃ tūrṇagamanam agniṃ vaidyutaṃ homādhāraṃ vāgniṃ rakṣo rakṣasaś caiva [?] | kimarthaṃ rakṣaṇam iti ucyate | dame gṛhe 'pāṃsi karmāṇi kurvan vastor vasatuṃ | yadvā | vāsayituṃ sthāpayituṃ | kārayitum ity arthaḥ | yajñadviṭsu hateṣv agnau susthire sati yāgādy-anuṣṭhānaparaḥ sthāsyāmīty arthaḥ | rakṣaṇe dṛṣṭāntaḥ | siṃha iva | sa yathā svāśrayabhūtaṃ vanaṃ gajādyupadravaparihāreṇa rakṣati tadvat | asurapurabhaṅgagamane vā dṛṣṭāntaḥ | siṃho yathā nirbhayo virodhimṛgān haṃtuṃ dhāvati tadvat ‖* [?]
+
+*Gist:* O Indra, go, with the Maruts and the rest, to conquer the *asura* cities guarded by heroes (or the sacrificial ground guarded by heroic sacrificers); destroy the Rākṣasas and protect the fire, so that, in our house, we may perform our rites; like a lion that guards its forest or charges its foes.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *śūrapatnīḥ* — protected by the heroic Rākṣasas; *vṛtaḥ* — the *asura* cities of those who dwell there, the cities; *siṃhaḥ na* — as a lion goes without fear against others and attacks them; *aja* — go (to conquer); [or *śūrapatnīḥ* — guarded by the sacrificers; *vṛtaḥ* — (aimed at) the altar-grounds; *aja* — go] (*anantaram* — then); *dyāṃ ca* — to the heavenly world also; *nūnam* (*aja*) — go surely; (*he*) *puruhūta* — O Indra, invoked by many or in many ways; *yebhiḥ* — by those who follow you, the Maruts and the others, with whom you are accompanied; (*aja* — go to the two places mentioned above) | afterwards | *aśuṣam* — the one who dries up or is not at peace; *tūrvayāṇam* — swift-moving; *agnim* — the lightning-fire, or the fire of the *homa*; *dame* — in the house; *apāṃsi* — performing rites; *vastoḥ* — for dwelling; [or *apāṃsi* — the rites; *vastoḥ* — for establishing]; *siṃhaḥ na* — as a lion protects the forest that is its dwelling by warding off the harm of elephants and the like; *rakṣaḥ* — protect.
+
+---
+
+**Progress note:** printed p. 326 (PDF 346) done — Sūkta 174 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha (continues p. 327). Next: printed p. 327 (PDF 347). Open flags: Ṛk 3 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.

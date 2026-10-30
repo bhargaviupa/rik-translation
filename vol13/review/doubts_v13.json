@@ -2830,5 +2830,29 @@
   ],
   "note": "Satapatha 13-5-4-5?, Rg refs 4-42-8, 1-63-7, 6-20-10, 4-42-9 small; quotes read from print",
   "answer": ""
+ },
+ {
+  "pdf": 345,
+  "printed": 325,
+  "crop": [
+   0.1,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type; danah/dart/rnoh/randhih notes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 346,
+  "printed": 326,
+  "crop": [
+   0.2,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhashya dense: 'vrto 'surapurih', 'vahutendra', 'raksoraksasasca' read approx - zoom needed",
+  "answer": ""
  }
 ]
