@@ -1195,4 +1195,50 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 54 (PDF 74) done — Sūkta 166 Ṛk 11 Special Topics (vibhūtayaḥ) in progress; continues on p. 55. Next: printed p. 55 (PDF 75). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 55  (PDF 75)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Special Topics (continued).**
+
+***stṛbhiḥ*** — *stṛ iti nakṣatranāma | ṛkṣāḥ stṛbhiriti nakṣatrāṇām* (Ni. 3-20 [?]): Yāska says that *stṛbhiḥ* means "stars". Therefore the sentence *dūredṛśo ye divyā iva stṛbhiḥ* means: like the stars shining in the sky, visible from regions very far away; though the stars in the sky are exceedingly far, they appear to us; in the same way the Maruts, though very far off, are visible to us: this is the purport.
+
+***saṃmiślāḥ indre marutaḥ*** — "those who are mixed in Indra", that is, who are in Indra's company, helpers of Indra: this is the purport. That the Marut-gods are Indra's friends is described in ṛks such as:
+
+> अयमिन्द्रो मरुत्सखा वि वृत्रस्याभिनच्छिरः ।
+
+> *ayamindro marutsakhā vi vṛtrasyābhinacchiraḥ |*
+
+(Ṛ. Saṃ. 8-76-2 [?])
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *mahnā* (formed as *mahimnā*, with the loss of a letter by Vedic usage; or from the root *mahū pūjāyām* with the *oṇādika* suffix *kasi*; final acute by the suffix; in the instrumental singular the *a* is dropped by *allopo 'naḥ* Pā. 6-4-134; the case-ending gets the acute by *anudāttasya ca yatrodāttalopaḥ* Pā. 6-1-158). *vibhvaḥ* (*vibhu* + *jas*; by *jasādiṣu chandasi vā vacanam* there is no guṇa; *yaṇ*-substitution; *udāttasvaritayor yaṇaḥ svaritaḥ* Pā. 8-2-4 gives *svarita* to the case-ending). *vibhūtayaḥ* (root *bhū sattāyām*; *ktin*; *tādau ca niti kṛty atiḥ* Pā. 6-2-50 keeps the *gati* (*vi*) accent). *dūredṛśaḥ* (root *dṛśir prekṣaṇe*; *kvip*; in the *tatpuruṣa* with a *kṛt*, *taṭpuruṣe kṛti bahulam* Pā. 6-3-14 gives *aluk* of the locative; nominative plural). *divyāḥ* (*divi bhavāḥ*; *bhave chandasi* Pā. 4-4-110 [?] gives suffix *ya*; final acute by the suffix). *mandrāḥ* (root *madi stutau*; *rak* by *sphāyitañcivañci…* Uṇ. 2-[?]; *num* by *idito num dhātoḥ* Pā. 7-1-58; final acute by the suffix). *sujihvāḥ* (*śobhanā jihvā yeṣāṃ te*; *nañsubhyām* Pā. 6-2-172 gives the later member the final acute).
+
+### Printed p. 56  (PDF 76)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Vyākaraṇa-prakriyā (continued).** *svaritāraḥ* (root *svṛ śabdopatāpayoḥ*; *tṛc* in the agent sense; *svarati sūti…* Pā. 7-2-44 gives optional *iṭ*; the *iṭ* augment is prescribed; guṇa; *ra*-ending; initial/final accent as the suffix; nominative plural). *āsabhiḥ* (the word *āsya* with *bhis* following; *pad-dan-no-māsa…* Pā. 6-1-63 gives *āsan* in its place; it has the *pada*-designation, so *nalopaḥ prātipadikāntasya* Pā. 8-2-7 drops the *n*). ‖ 11 ‖
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> तद्वः सुजाता मरुतो महित्वनं दीर्घं वो दात्रमदितेरिव व्रतम् ।
+> इन्द्रश्चन त्यजसा वि ह्रुणाति तज्जनाय यस्मै सुकृते अराध्वम् ॥ १२ ॥
+
+> *tadvaḥ sujātā maruto mahitvanaṃ dīrghaṃ vo dātramaditeriva vratam |*
+> *indraścana tyajasā vi hruṇāti tajjanāya yasmai sukṛte arādhvam ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> तत् । वः । सुऽजाताः । मरुतः । महित्वनम् । दीर्घम् । वः । दात्रम् । अदितेःऽइव । व्रतम् ।
+> इन्द्रः । चन । त्यजसा । वि । ह्रुणाति । तत् । जनाय । यस्मै । सुऽकृते । अराध्वम् ॥ १२ ॥
+
+> *tat | vaḥ | su 'jātāḥ | marutaḥ | mahitvanam | dīrgham | vaḥ | dātram | aditeḥ 'iva | vratam |*
+> *indraḥ | cana | tyajasā | vi | hruṇāti | tat | janāya | yasmai | su 'kṛte | arādhvam ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सुजाताः शोभनजनना हे मरुतः वो युष्मदीयं महित्वनं महत्त्वं तत् ताद्दृक् खलु । तदित्युक्तं किमित्याह । वो युष्माकं दात्रं दानं वृष्ट्यादिरूपं दीर्घमत्यायतमविच्छिन्नं । प्रकृष्टोपकारीत्यर्थः । दीर्घत्वे दृष्टान्तः । अदितेर्व्रतमिव । अदीनाया [?] देवमातुर्भूम्या वा । व्रतमिति कर्मनाम । तद्यथा दीर्घमतिविस्तृतं तद्वत् । अदितिर्द्यौरदितिरन्तरिक्षम् । ऋ. १-८९-१० । इत्यादिमन्त्रवर्णात् । किञ्च हे मरुतः यूयं यस्मै सुकृते शोभनयागादिकर्त्रे यजमानाय यदभिमतं धनमराध्वं तदिन्द्रश्चेन्द्रोऽपि त्यजसा त्यागेन न वि ह्रुणाति ।
+
+> *he sujātāḥ śobhanajananā he marutaḥ vo yuṣmadīyaṃ mahitvanaṃ mahattvaṃ tat tāddṛk khalu | tadityuktaṃ kimityāha | vo yuṣmākaṃ dātraṃ dānaṃ vṛṣṭyādirūpaṃ dīrghamatyāyatamavicchinnaṃ | prakṛṣṭopakārītyarthaḥ | dīrghatve dṛṣṭāntaḥ | aditervratamiva | adīnāyā [?] devamāturbhūmyā vā | vratamiti karmanāma | tadyathā dīrghamativistṛtaṃ tadvat | aditirdyauraditirantarikṣam | ṛ. 1-89-10 | ityādimantravarṇāt | kiñca he marutaḥ yūyaṃ yasmai sukṛte śobhanayāgādikartre yajamānāya yadabhimataṃ dhanamarādhvaṃ tadindraścendro 'pi tyajasā tyāgena na vi hruṇāti |*
+
+---
+
+**Progress note:** printed p. 56 (PDF 76) done — Sūkta 166 Ṛk 11 complete; Ṛk 12: Saṃhitā, Pada, bhāṣya begun (continues on p. 57). Next: printed p. 57 (PDF 77). Open flags: small-type numerals [?]; review/doubts_v13.json.
