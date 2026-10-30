@@ -13154,4 +13154,66 @@ The restraint of desire, being an extremely hard means, is here likened to battl
 
 ---
 
-**Progress note:** printed p. 480 (PDF 500) done — Sūkta 179 Ṛk 3 complete. Next: printed p. 481 (PDF 501), Ṛk 4 Saṃhitā (Sūkta 179 has 6 ṛks). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 481  (PDF 501)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 481; signature mark "XIII 31".)*
+
+**Sūkta 179, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> नदस्य मा रुधतः काम आगन्नित आजातो अमुतः कुतश्चित् ।
+> लोपामुद्रा वृषणं नी रिणाति धीरमधीरा धयति श्वसन्तम् ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> नदस्य । मा । रुधतः । कामः । आ । अगन् । इतः । आऽजातः । अमुतः । कुतः । चित् ।
+> लोपामुद्रा । वृषणम् । नि । रिणाति । धीरम् । अधीरा । धयति । श्वसन्तम् ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अथ चतुर्थ्याह्यगस्त्य आह ॥ हे जाये नदस्य नदनस्य जपशब्दयितुर्जपाध्ययनकर्तो रुधतो रेतो निरोद्धुर्ब्रह्मचर्यमास्थितस्य ॥ उभे कर्मणि षष्ठ्यौ ॥ उक्तलक्षणं मां कामः आगन् । आगमत् । नदस्य मा रुधतः काम आगमदिति निरुक्तम् । ५-२ [?] । कस्य हेतोरिति उच्यते । इतस्त्वत्संगमनिमित्तात् तथामुतो वसन्तादिकालात् कुतश्चित्कारणादाजातः सर्वत उत्पन्नः । यद्वा । इत एतल्लोकजनितादमुतो लोकान्तरजनिताद्वा कुतश्चिन्निमित्तात्कामात् । कथमिति उच्यते । इयं लोपामुद्रा वृषणं रेतसः प्रवर्तकं मां नी रिणाति । नितरां गच्छतु । किंच धीरं धीमन्तं नियमादविचालिनं श्वसन्तं महाप्राणं महाबलमधीरा कातरैषा योषिद्धयति । उपभुङ्क्ताम् ॥ [as read; a few words doubtful [?]]
+
+*Gist:* Agastya says that desire has arisen in him, an ascetic, from her closeness or some other cause; let Lopāmudrā approach him — a restless woman can unsettle even a firm and strong man.
+
+**Pratipadārtha**
+
+(*he jāye* — O wife) **nadasya** — of me, the one who mutters (study of *japa*); **rudhataḥ** — who restrains the seed (practising *brahmacarya*); **mā** — to me; **itaḥ** — from this cause (union with you); **amutaḥ** — from that cause (the time of spring and the like); or **kutaścit** — from some other cause; [or **itaḥ** — born of this world; or **amutaḥ** — born of the other world; **kutaḥ cit** — from some cause;] **ājātaḥ** — arisen; **kāmaḥ** — desire for objects; **ā agan** — has come; (*iyam*) **Lopāmudrā** — this Lopāmudrā; **vṛṣaṇam** — me, who impel the seed; **ni riṇāti** — (let her) approach; **kiṃ ca** — and further; **adhīrā** — the restless woman; **dhīram** — the wise (man); **śvasantam** — of great strength; **dhayati** — enjoys.
+
+### Printed p. 482  (PDF 502)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 482.)*
+
+**Bhāvārtha**
+
+O Lopāmudrā! In me, who am devoted to the study and muttering of *japa* and to the vow of *brahmacarya*, desire has arisen, either from your closeness or from some other cause; therefore approach me, who impel the seed. A restless woman makes even a man who is wise and strong lose his steadiness.
+
+**Printed English**
+
+> Desire, either from this cause or from that, has come upon me whilst engaged in prayer and suppressing (passion): let Lopamudra approach her husband: the unsteady famale [sic] beguiles the firm and resolute man.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Agastya, giving his wife Lopāmudrā once more assurance, says that he will satisfy her; and he also makes his own wish plain. The Nirukta-writers have given the following explanation of this ṛk:
+
+> "नदस्य मा रुधतः कामु [?] आगमत् । संरुद्धप्रजननस्य ब्रह्मचारिण इत्यृषिपुत्र्या विलपितं वेदयन्ते ॥"
+
+> *"nadasya mā rudhataḥ kāmu [?] āgamat | saṃruddhaprajananasya brahmacāriṇa ityṛṣiputryā vilapitaṃ vedayante ‖"*
+
+(Ni. 3-2 [?]) — "With the ṛṣi who has controlled himself, I [as a wife] must be the object of his tenderness; he has no desire; he is a *brahmacārin*" and so on: the ṛṣi's daughter laid her sorrow before him. Here some contradiction is seen between the Bṛhaddevatā statement and the Nirukta statement. In the Bṛhaddevatā:
+
+> रिरंसुस्तामथागस्त्य उत्तराभ्यामतोषयत् ।
+
+> *riraṃsustāmathāgastya uttarābhyāmatoṣayat |*
+
+(Bṛ. De. 4-58 [?]) — it is said that Agastya, with the following two ṛks, that is, the 3rd and the 4th ṛks of the sūkta at hand, made known his wish and gratified his wife Lopāmudrā. But according to the Nirukta statement it follows that this is the speech of Lopāmudrā, and that she makes known her mental distress by these words. Durgācārya has given the following explanation of the Nirukta statement:
+
+> अगस्त्यलोपामुद्राब्रह्मचारिसूक्तसंवादे लोपामुद्रया इयमार्षम् । सा अब्रवीदगस्त्यं भर्तारमभिप्रेत्य "नदस्य नदस्य ..........." । इत्येवं विलपमाना कामार्ता लोपामुद्रा राजर्षिपुत्रिका । ......... एवं लोपा-
+
+> *agastyalopāmudrābrahmacārisūktasaṃvāde lopāmudrayā iyamārṣam | sā abravīdagastyaṃ bhartāramabhipretya "nadasya nadasya ..........." | ityevaṃ vilapamānā kāmārtā lopāmudrā rājarṣiputrikā | ......... evaṃ lopā-*
+
+— [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 482 (PDF 502) done — Sūkta 179 Ṛk 4: Saṃhitā…printed English, Special Topics begun (Nirukta vs Bṛhaddevatā on speaker; continues p. 483). Next: printed p. 483 (PDF 503). Open flags: refs [?]; review/doubts_v13.json.
