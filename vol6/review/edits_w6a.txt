@@ -357,3 +357,4 @@ Unit 10 (pp. 203–221, Sūkta 67): accents set as printed on all 5 Saṃhitā b
   p. 216: Pā. 6-1-17 [?] -> 6-1-17; Pā. 6-1-106 [?] -> 6-1-106 (the ೦ is broken, open arc)
   p. 219: Pā. 7-3-53 [?] -> 7-3-53; dīrgho [?] -> dīrgho; Ni. 6-3 [?] -> 6-3; Pā. 7-1-37 [?] -> 7-1-37 (printed without "Pā."); Pā. 6-4-69 [?] -> 6-4-69
 Left unviewed (sense-only or grammar): p. 205 ajurya derivation note; p. 207 Uṇ. 1-1 "as read"; p. 214 grammar nighāta [?]; p. 216/219 "read at 150 dpi" labels; p. 217 compressed sense; p. 220 Ni. 6-3 (anuvāda) and "atmosphere" note. Pages skipped (no flagged lines): 207, 209, 210, 213, 214, 217, 220, 221.
+  p. 198: Uṇ. Sū. 4-11[?] -> 4-557 (as printed; user reading from doubts page p179-203, row 198_d1; other rows accepted as in the file)
