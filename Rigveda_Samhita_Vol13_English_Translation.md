@@ -5586,4 +5586,53 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 
 ---
 
-**Progress note:** printed p. 232 (PDF 252) done — Sūkta 172 Ṛk 1 complete; Ṛk 2 through Special Topics (continues p. 233). Next: printed p. 233 (PDF 253). Open flags: Ṛk 2 bhāṣya [?] words; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 233  (PDF 253)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 12"; the Special Topics of Ṛk 2 conclude.)*
+
+(*asyatha* continued) — *asmākam upalopamaḥ kaśinaḥ āyudhaviśeṣaḥ taṃ vairiṇaṃ samīpaṃ prāpnotu*: the weapon launched by the Marut-gods who are being worshipped in the sacrifice, at enemies other than us, the sacrificers, though hard as a stone, should reach the proximity of those enemies and destroy them: this is wished. The word *āre* is read among the names of "far" (Ni. 3-20 [?]). Sāyaṇa here explains the usage as a synonym of *ārāt*, in the sense of "far" or "near".
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *ṛñjatī* (the root *ṛñj* is used in the sense of adorning; *śatṛ* for *laṭ*; when the feminine is intended, *ṅīp* by "*ugitaś ca*", Pā. Sū. 4-1-6 [?]; since *ṅīp* comes after a *śatṛ* without *num*, it takes the acute by "*śatur anumo nadyajādī*"); *śaruḥ* (root *śṛ hiṃsāyām*; *śṛṇāti iti śaruḥ*; affix *un* by an Uṇādi sūtra, "*śṛ svṛ snihi…*"; *guṇa* of the root's *ṛ* on that occasion, with *r* following); *aśmā* (root *aśū vyāptau*; affix *manin* by an Uṇādi sūtra, "*aśeśkikibhyāṃ chandasi*" [as read]; since it is *n*-marked, the first syllable is acute); *asyatha* (root *asu kṣepaṇe*; *laṭ* 2nd plural; since *yat* is connected, no *nighāta*; since *lasārvadhātuka* is unaccented by "*tāsyanudāttet…*", the accent of the root remains; *śyan* being *n*-marked, the first syllable is acute). ‖ 2 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तृणस्कन्दस्य नु विशः परि वृङ्क्त सुदानवः ।
+> ऊर्ध्वान्नः कर्त जीवसे ॥ ३ ॥
+
+> *tṛṇaskandasya nu viśaḥ pari vṛṅkta sudānavaḥ |*
+> *ūrdhvānnaḥ karta jīvase ‖ 3 ‖*
+
+### Printed p. 234  (PDF 254)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 172".)*
+
+**॥ पदपाठः ॥**
+
+> तृणऽस्कन्दस्य । नु । विशः । परि । वृङ्क्त । सुऽदानवः ।
+> ऊर्ध्वान् । नः । कर्त । जीवसे ॥ ३ ॥
+
+*(The Pada is printed on p. 233 and the Saṃhitā likewise; the bhāṣya begins on p. 234.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः सुदानवः शोभनदानाः यूयं तृणस्कन्दस्य तृणवच्चलनस्वभावस्य शुष्यमाणस्य वा ममा विशः पुत्रभृत्यादिरूपाः प्रजा नु क्षिप्रं परि वृङ्क्त । परिवर्जयत । बाधापरिहारेण रक्षत । यद्वा । उक्तलक्षणकालस्यासुरविशेषस्य वा प्रजाः परिवर्जयत । किंच नोऽस्मानूर्ध्वान् कर्त । कुरुत । जीवसे चिरजीवनायेति ॥ [reading doubtful in places]
+
+*Gist:* Maruts, protect the people (sons, servants) of me, restless as grass, and make us excellent for long life; or (in the second sense) destroy the people of the Asura Tṛṇaskanda.
+
+**Pratipadārtha.** *(he)* *sudānavaḥ* — O liberal ones, Marut-gods (you); *tṛṇaskandasya* — of one who, like grass, is restless by nature, or who withers (my); *viśaḥ* — the sons, servants and the like; *nu* — quickly; *pari vṛṅkta* — protect, removing obstacles; [*or* *tṛṇaskandasya* — of the Asura named Tṛṇaskanda; *viśaḥ* — the sons, servants and the like (the peoples); *nu* — quickly; *pari vṛṅkta* — destroy]; *(kiṃca* — and*)* *naḥ* — us; *jīvase* — in order to live (long); *ūrdhvān* — excellent; *kartā* — make.
+
+**Bhāvārtha.** O Marut-gods, of liberal gifts, protect, by removing hindrances, my sons, servants and the rest, who am restless as grass; and make us excellent in life, so that we may live long.
+
+**English Translation (as printed):** Maruts, liberal benefactors, protect my people, (although I be) as insignificant as grass: lift us up, that we may live.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***tṛṇaskandasya*** — *tṛṇavat calanasvabhāvasya śuṣyamāṇasya vā*: since this word is used as an epithet of the word *mama* (meaning the sacrificer), it is described that the sacrificer is of a nature that moves like a blade of grass. Or, Sāyaṇa has also said that it is a proper name (*aṅkita-nāma*): by "*uktalakṣaṇakālasya asuraviśeṣasya vā*" it can be taken that *Tṛṇaskanda* is a certain Asura. In that case *tṛṇaskanda* means one who moves, hidden within a cloud — his quality is indicated. The word *tṛṇa* means "cloud": "a cloud, thickened, rubbed and torn; then the rain falls". "*tṛdyate'sau iti tṛṇaḥ*" — formed from the root *tṛd* ("to tear"), rubbed and torn: therefore the cloud has the name *tṛṇa*: this is Durgācārya's explanation. "*tṛndyāt tṛṇam*" … (continued)
+
+---
+
+**Progress note:** printed p. 234 (PDF 254) done — Sūkta 172 Ṛk 2 complete; Ṛk 3 (last of Sūkta 172) through Special Topics begun (continues p. 235). Next: printed p. 235 (PDF 255). Open flags: Ṛk 3 bhāṣya [?]; ref numerals [?]; review/doubts_v13.json.
