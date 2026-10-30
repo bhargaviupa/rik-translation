@@ -4978,5 +4978,29 @@
   ],
   "note": "bhashya Rk2 first sentence garbled (rathamavavasattudu...), 'vosa', 'vese'",
   "answer": ""
+ },
+ {
+  "pdf": 523,
+  "printed": 503,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-56-1, 1-190-4, 1-162-6, 10-95-7 small; 'svagurta' quote text approx",
+  "answer": ""
+ },
+ {
+  "pdf": 524,
+  "printed": 504,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-186-3, 1-132-10, 6-63-4, sutra numerals small",
+  "answer": ""
  }
 ]
