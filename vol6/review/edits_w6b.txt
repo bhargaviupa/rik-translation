@@ -701,3 +701,10 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 617:  6-16-[13] [?] ->  6-16-13
   p. 617:  10-[120]-[9] [?] ->  10-120-9
   p. 619: Kannada closing line ಸಂಹಿತೆಯ -> ಸಂಹಿತೆಯು (as printed)
+  p. 612: Ni. [2-9] -> 3-9 [as printed]; Ni. [2-10] -> 3-9 [as printed]
+  p. 573: strength and so denotes 'strength' (Ni. [2-9] [?]) -> strength and so denotes 'strength' (Ni. 3-9 [as printed])
+  p. 573: names of strength (Ni. [2-9] [?]) -> names of strength (Ni. 3-9 [as printed])
+  p. 573: (Ni. [2-10] [?]) -> (Ni. 3-9 [as printed])
+  p. 573: (Ni. [3-19] [?]) -> (Ni. 3-19 [as printed])
+  p. 573: (Ni. [1-10] [?]) -> (Ni. 2-21 [as printed])
+  p. 573: (Ni. [1-12] [?]) -> (Ni. 2-24 [as printed])
