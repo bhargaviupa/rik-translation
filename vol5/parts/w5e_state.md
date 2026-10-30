@@ -7,6 +7,7 @@ Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-li
 Done through: p. 648 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648).
 Next page: p. 649 (PDF 665).
 Open items:
+- p. 649: Av. 16-6-7 [?] (last digit unsure); p. 651: "(೧೧-೧೭-೨)" written 11-17-2 as printed (file had 10-?-?).
 - The file has no "Printed p. 644" heading: its p. 643 section also holds print p. 644 (PDF 660); refs 15-30 of that section were read from PDF 660 and logged as p. 643 (check-page crops for them may be missing).
 - p. 640: the print has "'ಅಸುರ'ನ (೧-೧೧೦-೩) ಆಹಾರವು ತುಂಬಿದ್ದ ಒಂದು ಹೊಸಬಟ್ಟಲನ್ನು (೧-೨೦-೬) ತಯಾರಿಸಿದನು" (made a new bowl full of food, 1-20-6); the translation lacks this clause and ref (not added: translation issue).
 - p. 634: 9-66-16 and 17 [?] (last number unsure); p. 635: print has "೯-೮೭-೯-೯;೯೬-೨" written 9-87-9; 9-96-2 [?]; p. 635 weapons printed "(೯; ೯೬-೧೬)" written 9-96-16.
