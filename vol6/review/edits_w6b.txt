@@ -67,3 +67,25 @@ Unit 1 ends at p. 297 (Ṛks 71.1–71.3); pages with no flagged lines: none in 
 p. 290: Skandasvāmin "mṛgaparvataṃ [?]" -> "durgaparvataṃ" (print).
 p. 286: note "Ṛgveda numerals doubtful" removed (numerals read). p. 288: Pada note: "ahar iti" as printed.
 p. 297: Rik 71.4 Saṃhitā accents set as printed (both lines on p. 297; the textbox crop missed the bottom, read with FULL=1); kampa १ after dūtyaṃ and the stroke above ga of bhṛgavāṇo doubtful [accent ?] (doubts page).
+w6b unit 2 (Sūkta 71 from p. 297, Rik 71.4)
+  p. 298: छां. उ. [१-३-५?] -> १-३-३ रिंद ५
+  p. 298: ऋ. सं. [१-९३-६?] -> ऋग्वे. १-९३-६
+  p. 298: तै. सं. [६-२-३-६?] -> ६-२-२-६
+  p. 298: ऐ. ब्रा. [६-४?] -> ६-४
+p. 298: bhāṣya re-read: व्यानवायुसाध्यत्वमथ; छंदोगैराम्नातं; वाणम्; restored "मंथनेनोत्पन्नोऽयमग्निः"; श्वेतः as printed; तानरिष्ठः [?].
+  p. 299: running-head Varga [?] -> 15
+  p. 299: म. [३-१-११-४?] -> ३-१-११-३
+p. 299: bhāṣya tail re-read: कृत्यल्युटो, कर्तर्यचो यदिति, तदंताल्लटो, अदुपदेशाल्लसार्वधातुक, अंतर्भावितण्यर्थाल्लिट्, प्रापयति, इन्यप्रत्ययष्टिलोप.
+  p. 300: Ṛk 1-[93]-6 -> 1-93-6
+  p. 300: Ṛk. Saṃ. [1-93-6?] -> 1-93-6
+  p. 300: Ṛk. Saṃ. [6-8-4?] -> 6-8-4
+p. 300: story quotation: "mātariśvākāśe", "mathitvā cānayad iti" (print); cited Ṛk 1-93-6 begins "ಆನ್ಯಂ" in the print (file had आस्यं): recorded [as printed].
+  p. 301: running-head Varga [?] -> 15
+  p. 301: [1-[?]-2; 1-[?]-6; 1-[?]-3; 3-[?]-1; 10-[?]-4] -> [1-128-7; 1-130-6; 1-140-2; 2-5-1; 10-4-3]
+  p. 301: Ṛk. Saṃ. [1-26-3?] -> 1-26-3
+  p. 301: Ṛk. Saṃ. [1-75-4?] -> 1-75-4
+  p. 301: Ṛk. Saṃ. [2-1-9?] -> 2-1-9
+  p. 301: Ṛk. Saṃ. [6-1-5?] -> 6-1-5
+  p. 301: Ṛk. Saṃ. [1-12-1?] -> 1-12-1
+  p. 301: Ṛk. Saṃ. [1-36-4?] -> 1-36-4
+  p. 301: Ṛk. Saṃ. [1-44-2?] -> 1-44-2

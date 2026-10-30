@@ -5992,13 +5992,15 @@ Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.4** *(printed Ṛk "4 ||")*
 
-> मथीद्यदीं विभृतो मातरिश्वा गृहेगृहे श्येतो जेन्यो भूत् ।
-> आदीं राज्ञे न सहीयसे सचा सन्ना दूत्यं भृगवाणो विवाय ॥ ४ ॥
+*(Accents as printed. After "dūtyaṃ" the print has the numeral १ carrying both an anudātta and a svarita mark; in "bhṛgavāṇo" a svarita stroke stands above "ga" and no other mark is visible in "bhṛgavāṇo vivāya" [accent ?].)*
 
-*mathīd yadīṃ vibhṛto mātariśvā gṛhe-gṛhe śyeto jenyo bhūt |
-ād īṃ rājñe na sahīyase sacā sannā dūtyaṃ bhṛgavāṇo vivāya ||4||*
+> मथी॒द्यदीं॒ विभृ॑तो मात॒रिश्वा॑ गृ॒हेगृ॑हे श्ये॒तो जेन्यो॒ भूत् ।
+> आदीं॒ राज्ञे॒ न सही॑यसे॒ सचा॒ सन्ना दू॒त्यं१॒॑ भृग॑वाणो विवाय ॥ ४ ॥
 
-*(Reading note: the Saṃhitā prints "सचा सन्ना दूत्यं" — *sacā sann ā dūtyam* — as the Pada below divides it; accents not reproduced.)*
+*máthīd yád īṃ víbhṛto mātaríśvā gṛhé-gṛhe śyetó jényo bhū́t |
+ā́d īṃ rā́jñe ná sáhīyase sácā sánnā dūtyàṃ bhṛgavāṇo vivāya ||4||*
+
+*(Reading note: the Saṃhitā prints "सचा सन्ना दूत्यं" — *sacā sann ā dūtyam* — as the Pada below divides it.)*
 
 ---
 
@@ -6015,11 +6017,11 @@ Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.4** *(a long, compressed passage; read from the print, doubtful places marked [?]; the page ends mid-sentence)*
 
-> मातरिश्वा व्यानवृत्तिरूपेणावस्थितो मुख्यप्राण ईमेनमग्निं यद्यदा मथीत् अमथ्नात् । अग्निर्मंथनस्य व्यानसाध्यत्वात् । अथ यः प्राणापानयोः संधिः स व्यान इत्युपक्रम्य छंदोगैरामनातं । अतो यान्यन्यानि वीर्यवंति कर्माणि यथाग्नेर्मंथनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानंस्तानि करोति । छां. उ. [१-३-५?] इति मंत्रांतरं च भवति । अस्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः । ऋ. सं. [१-९३-६?] इति । कीदृशो मातरिश्वा । विभृतः प्राणिषु प्राणापानादिपंचवृत्तिरूपेण विहृतो विभज्य स्थितः । तदपि प्राणसंवादे तैरेवाम्नातं । तान् अरिष्टः प्राण उवाच । मा मोहमापद्यथाहमेवैतत् पंचधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति । मंथनेन श्येतः शुभ्रवर्णो भूत्वा गृहे गृहे सर्वस्मिन् यज्ञगृहे यदा जेन्यः प्रादुर्भूतो भूत् । यद्वा रक्षसां जेन्यो जेता अभिभविता भूत् । तथा च तैत्तिरीयकं । देवासुराः संयत्ता आसन् । ते देवा बिभ्यतोऽग्निं प्राविशन् । तस्मादाहुरग्निः सर्वा देवता इति । ते ऽग्निमेव वरूथं कृत्वासुरानभ्यभवन् । तै. सं. [६-२-३-६?] इति । ऐतरेयिणोऽप्यामनंति । ते देवाः प्रतिबुध्याग्निं पुरस्तात्प्रातःसवने पर्यौहंस्तेऽग्निनैव पुरस्तात्प्रातःसवनेऽसुररक्षांस्यपाघ्नत । ऐ. ब्रा. [६-४?] इति । आत् यज्ञगृहे प्रादुर्भावानंतरमीमेनमग्निं भृगवाणः भृगुर्ऋषिः स इवाचरन् यजमानो दूत्यं दूतस्य कर्म विवाय । शास्त्रमर्यादया प्रापयामास । तत्र दृष्टांतः । सचा सन् । सखाभवन्नन्यो राजा सहीयसेऽभिभवित्रे …
+> मातरिश्वा व्यानवृत्तिरूपेणावस्थितो मुख्यप्राण ईमेनमग्निं यद्यदा मथीत् अमथ्नात् । अग्निर्मंथनस्य व्यानवायुसाध्यत्वमथ यः प्राणापानयोः संधिः स व्यान इत्युपक्रम्य छंदोगैराम्नातं । अतो यान्यन्यानि वीर्यवंति कर्माणि यथाग्नेर्मंथनमाजेः सरणं दृढस्य धनुष आयमनमप्राणन्ननपानंस्तानि करोति । छां. उ. १-३-३ रिंद ५ इति मंत्रांतरं च भवति । अस्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः । ऋग्वे. १-९३-६ इति । कीदृशो मातरिश्वा । विभृतः प्राणिषु प्राणापानादिपंचवृत्तिरूपेण विहृतो विभज्य स्थितः । तदपि प्राणसंवादे तैरेवाम्नातं । तानरिष्ठः [?] प्राण उवाच । मा मोहमापद्यथाहमेवैतत् पंचधात्मानं प्रविभज्यैतद्वाणमवष्टभ्य विधारयामीति । मंथनेनोत्पन्नोऽयमग्निः श्वेतः [as printed] शुभ्रवर्णो भूत्वा गृहे गृहे सर्वस्मिन् यज्ञगृहे यदा जेन्यः प्रादुर्भूतो भूत् । यद्वा रक्षसां जेन्यो जेता अभिभविता भूत् । तथा च तैत्तिरीयकं । देवासुराः संयत्ता आसन् । ते देवा बिभ्यतोऽग्निं प्राविशन् । तस्मादाहुरग्निः सर्वा देवता इति । ते ऽग्निमेव वरूथं कृत्वासुरानभ्यभवन् । तै. सं. ६-२-२-६ इति । ऐतरेयिणोऽप्यामनंति । ते देवाः प्रतिबुध्याग्निं पुरस्तात्प्रातःसवने पर्यौहंस्तेऽग्निनैव पुरस्तात्प्रातःसवनेऽसुररक्षांस्यपाघ्नत । ऐ. ब्रा. ६-४ इति । आत् यज्ञगृहे प्रादुर्भावानंतरमीमेनमग्निं भृगवाणः भृगुर्ऋषिः स इवाचरन् यजमानो दूत्यं दूतस्य कर्म विवाय । शास्त्रमर्यादया प्रापयामास । तत्र दृष्टांतः । सचा सन् । सखाभवन्नन्यो राजा सहीयसेऽभिभवित्रे …
 
-*mātariśvā vyānavṛttirūpeṇāvasthito mukhyaprāṇa īm enam agniṃ yad yadā mathīt amathnāt | agnir manthanasya vyānasādhyatvāt | atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyāna ity upakramya chandogair āmnātaṃ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti | chāṃ. u. [1-3-5?] iti maṃtrāntaraṃ ca bhavati | asyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ | ṛ. saṃ. [1-93-6?] iti | kīdṛśo mātariśvā | vibhṛtaḥ prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ | tad api prāṇasaṃvāde tair evāmnātaṃ | tān ariṣṭaḥ prāṇa uvāca | mā moham āpadyathāham evaitat pañcadhātmānaṃ pravibhajyaitad bāṇam avaṣṭabhya vidhārayāmīti | manthanena śyetaḥ śubhravarṇo bhūtvā gṛhe gṛhe sarvasmin yajñagṛhe yadā jenyaḥ prādurbhūto bhūt | yadvā rakṣasāṃ jenyo jetā abhibhavitā bhūt | tathā ca taittirīyakaṃ | devāsurāḥ saṃyattā āsan | te devā bibhyato 'gniṃ prāviśan | tasmād āhur agniḥ sarvā devatā iti | te 'gnim eva varūthaṃ kṛtvāsurān abhyabhavan | tai. saṃ. [6-2-3-6?] iti | aitareyiṇo 'py āmananti | te devāḥ pratibudhyāgniṃ purastāt prātaḥsavane paryauhaṃs te 'gninaiva purastāt prātaḥsavane 'surarakṣāṃsy apāghnata | ai. brā. [6-4?] iti | āt yajñagṛhe prādurbhāvānantaram īm enam agniṃ bhṛgavāṇaḥ bhṛgur ṛṣiḥ sa ivācaran yajamāno dūtyaṃ dūtasya karma vivāya | śāstramaryādayā prāpayāmāsa | tatra dṛṣṭāntaḥ | sacā san | sakhābhavann anyo rājā sahīyase 'bhibhavitre …*
+*mātariśvā vyānavṛttirūpeṇāvasthito mukhyaprāṇa īm enam agniṃ yad yadā mathīt amathnāt | agnir manthanasya vyānavāyusādhyatvam atha atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyāna ity upakramya chandogair āmnātaṃ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti | chāṃ. u. 1-3-3 riṃda 5 iti maṃtrāntaraṃ ca bhavati | asyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ | ṛgve. 1-93-6 iti | kīdṛśo mātariśvā | vibhṛtaḥ prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ | tad api prāṇasaṃvāde tair evāmnātaṃ | tān ariṣṭhaḥ [?] prāṇa uvāca | mā moham āpadyathāham evaitat pañcadhātmānaṃ pravibhajyaitad vāṇam avaṣṭabhya vidhārayāmīti | manthanenotpanno 'yam agniḥ śvetaḥ [as printed] śubhravarṇo bhūtvā gṛhe gṛhe sarvasmin yajñagṛhe yadā jenyaḥ prādurbhūto bhūt | yadvā rakṣasāṃ jenyo jetā abhibhavitā bhūt | tathā ca taittirīyakaṃ | devāsurāḥ saṃyattā āsan | te devā bibhyato 'gniṃ prāviśan | tasmād āhur agniḥ sarvā devatā iti | te 'gnim eva varūthaṃ kṛtvāsurān abhyabhavan | tai. saṃ. 6-2-2-6 iti | aitareyiṇo 'py āmananti | te devāḥ pratibudhyāgniṃ purastāt prātaḥsavane paryauhaṃs te 'gninaiva purastāt prātaḥsavane 'surarakṣāṃsy apāghnata | ai. brā. 6-4 iti | āt yajñagṛhe prādurbhāvānantaram īm enam agniṃ bhṛgavāṇaḥ bhṛgur ṛṣiḥ sa ivācaran yajamāno dūtyaṃ dūtasya karma vivāya | śāstramaryādayā prāpayāmāsa | tatra dṛṣṭāntaḥ | sacā san | sakhābhavann anyo rājā sahīyase 'bhibhavitre …*
 
-*(Reading note: this passage is dense and the print is small; the Chāndogya, Ṛgveda, Taittirīya-Saṃhitā and Aitareya numerals are read doubtfully [?]; the Chāndogya quotation is compressed and a few of its syllables ("saraṇam", "āyamanam", "aprāṇann anapānan") are doubtful. The sentence on "sacā san" runs on to p. 299.)*
+*(Reading note: re-read from the better scan: the numerals are as printed (Chāndogya "1-3-3 to 5", with the Kannada "riṃda"; Ṛgveda labelled "Ṛgve."); "vyānavāyusādhyatvam atha", "āmnātaṃ", "manthanenotpanno 'yam agniḥ", "vāṇam" as printed; "ariṣṭhaḥ" doubtful [?]; the Chāndogya quotation is compressed and a few of its syllables ("saraṇam", "āyamanam", "aprāṇann anapānan") are doubtful. The sentence on "sacā san" runs on to p. 299.)*
 
 *Meaning (so far):* Mātariśvan — the chief breath (*mukhyaprāṇa*), abiding in the form of the *vyāna* function — *yad īm mathīt* when he churned this Agni: for Agni is produced by churning, which is achieved by *vyāna*. The Chāndogya (Upaniṣad) begins: "Now that which is the junction of *prāṇa* and *apāna* is *vyāna*", and goes on: "therefore the other deeds that need strength — the churning of fire, running a race, bending a stiff bow — he does without breathing in or out." And another mantra says, "Mātariśvan fetched him from heaven; the falcon churned another from the rock" (Ṛk. Saṃ. [1-93-6?]). How is Mātariśvan *vibhṛtaḥ*? Variously borne — divided in living beings as the five functions *prāṇa*, *apāna* and the rest. The same is related in the Prāṇa-dialogue: "Prāṇa, unharmed, spoke to them: 'Do not fall into delusion; I alone, dividing myself in five, support this body by holding it up.'" (Agni, by the churning, becoming *śyeta* — of bright colour — in house after house — in every house of sacrifice — when he became *jenya*, "to be conquered" or rather "victorious", appeared. Or he became the conqueror, the overcomer, of the demons. So the Taittirīya says: "The gods and the *asuras* were arrayed in battle. The gods, afraid, entered Agni; therefore they say 'Agni is all the deities'. Making Agni their shelter, they overcame the *asuras*" (Tai. Saṃ. [6-2-3-6?]); and the Aitareya adherents also recite: "The gods, awakening, led Agni in front at the morning pressing; by Agni alone they struck down the *asuras* and *rakṣas* at the morning pressing" (Ai. Brā. [6-4?]). Then, after he appeared in the house of sacrifice, the sacrificer, acting like the sage Bhṛgu (*bhṛgavāṇaḥ*), *vivāya* — carried out — the office of messenger (*dūtya*) of this Agni, by the rule of the scripture. The illustration: "*sacā san*" — a king who has become a friend … *(continued on p. 299)*.
 
@@ -6027,17 +6029,17 @@ Words treated: *dadhan* (root *dhā* "to hold", Bhvādi, *anudātteṭ*; *laṅ*
 
 ### Page 299 (PDF 317)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **Sāyaṇa's bhāṣya of Rik 71.4 (concluded from p. 298)** *(Sanskrit in Kannada script; compressed; read from the print, doubtful places [?])*
 
-> …प्रबलाय राज्ञे न । यथा राज्ञे स्वपुरुषं दूतकर्म प्रापयतीति तद्वत् ॥ मथीत् । मथे विलोडने । लुङि ह्म्यंतक्षणेति वृद्धिप्रतिषेधः । जेन्यः । जनी प्रादुर्भावे । अस्माद्दौणादिक इन्यप्रत्ययेष्टिलोपश्चेति भट्टभास्करमिश्रः । यद्वा । जि जये । इत्यस्मात्कैल्युटो बहुलमिति बहुलवचनात्कर्तर्येन्यो यदिति [?] यत् । तस्य नुडागमश्च । यतोऽनाव इत्याद्युदात्तत्वं । दूत्यं । दूतस्य कर्म दूत्यं । दूतस्य भागकर्मणी इति यत् । तित्स्वरिते इति स्वरितत्वं । यतोऽनाव इत्याद्युदात्तत्वं । त्वनित्यमिति वीरवीर्यौ चेत्यत्र ज्ञापितं । भृगवाणः । भृगुरिवाचरन् सर्वप्रातिपदिकेभ्यः क्विब्वक्तव्यः । म. [३-१-११-४?] इति वचनात् क्विप् । तदंतात्कल्टो व्यत्ययेन शानच् । अदुपदेशात्सर्वधातुकानुदात्तत्वे प्रत्ययांतधातोरंतोदात्तत्वे प्राप्ते वृषादेराकृतिगणत्वादाद्युदात्तत्वं । विवाय । वी गत्यादिषु । अस्मादंतेर्भाविताणिक्यर्थाल्लिट् ॥
+> …प्रबलाय राज्ञे न । यथा राज्ञे स्वपुरुषं दूतकर्म प्रापयति तद्वत् ॥ मथीत् । मथे विलोडने । लुङि ह्म्यंतक्षणेति वृद्धिप्रतिषेधः । जेन्यः । जनी प्रादुर्भावे । अस्माद्दौणादिक इन्यप्रत्ययष्टिलोपश्चेति भट्टभास्करमिश्रः । यद्वा । जि जये इत्यस्मात्कृत्यल्युटो बहुलमिति बहुलवचनात्कर्तर्यचो यदिति यत् । तस्य नुडागमश्च । यतोऽनाव इत्याद्युदात्तत्वं । दूत्यं । दूतस्य कर्म दूत्यं । दूतस्य भागकर्मणी इति यत् । तित्स्वरिते इति स्वरितत्वं । यतोऽनाव इत्याद्युदात्तत्वं । त्वनित्यमिति वीरवीर्यौ चेत्यत्र ज्ञापितं । भृगवाणः । भृगुरिवाचरन् सर्वप्रातिपदिकेभ्यः क्विब्वक्तव्यः । म. ३-१-११-३ इति वचनात् क्विप् । तदंताल्लटो व्यत्ययेन शानच् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे प्रत्ययांतधातोरंतोदात्तत्वे प्राप्ते वृषादेराकृतिगणत्वादाद्युदात्तत्वं । विवाय । वी गत्यादिषु । अस्मादंतर्भावितण्यर्थाल्लिट् ॥
 
-*…prabalāya rājñe na | yathā rājñe svapuruṣaṃ dūtakarma prāpayatīti tadvat || mathīt | mathe viloḍane | luṅi hmyantakṣaṇeti vṛddhipratiṣedhaḥ | jenyaḥ | janī prādurbhāve | asmād dauṇādika inyapratyayeṣṭilopaś ceti bhaṭṭabhāskaramiśraḥ | yadvā | ji jaye | ity asmāt kailyuṭo bahulam iti bahulavacanāt kartary enyo yad iti [?] yat | tasya nuḍāgamaś ca | yato 'nāva ity ādyudāttatvaṃ | dūtyaṃ | dūtasya karma dūtyaṃ | dūtasya bhāgakarmaṇī iti yat | titsvarite iti svaritatvaṃ | yato 'nāva ity ādyudāttatvaṃ | tvanityam iti vīravīryau cetyatra jñāpitaṃ | bhṛgavāṇaḥ | bhṛgur ivācaran sarvaprātipadikebhyaḥ kvib vaktavyaḥ | ma. [3-1-11-4?] iti vacanāt kvip | tadantāt kalṭo vyatyayena śānac | adupadeśāt sarvadhātukānudāttatve pratyayāntadhātor antodāttatve prāpte vṛṣāder ākṛtigaṇatvād ādyudāttatvaṃ | vivāya | vī gatyādiṣu | asmād anter bhāvitaṇikyarthāl liṭ ||*
+*…prabalāya rājñe na | yathā rājñe svapuruṣaṃ dūtakarma prāpayati tadvat || mathīt | mathe viloḍane | luṅi hmyantakṣaṇeti vṛddhipratiṣedhaḥ | jenyaḥ | janī prādurbhāve | asmād dauṇādika inyapratyayaṣṭilopaś ceti bhaṭṭabhāskaramiśraḥ | yadvā | ji jaye ity asmāt kṛtyalyuṭo bahulam iti bahulavacanāt kartary aco yad iti yat | tasya nuḍāgamaś ca | yato 'nāva ity ādyudāttatvaṃ | dūtyaṃ | dūtasya karma dūtyaṃ | dūtasya bhāgakarmaṇī iti yat | titsvarite iti svaritatvaṃ | yato 'nāva ity ādyudāttatvaṃ | tvanityam iti vīravīryau cetyatra jñāpitaṃ | bhṛgavāṇaḥ | bhṛgur ivācaran sarvaprātipadikebhyaḥ kvib vaktavyaḥ | ma. 3-1-11-3 iti vacanāt kvip | tadantāl laṭo vyatyayena śānac | adupadeśāl lasārvadhātukānudāttatve pratyayāntadhātor antodāttatve prāpte vṛṣāder ākṛtigaṇatvād ādyudāttatvaṃ | vivāya | vī gatyādiṣu | asmād antarbhāvitaṇyarthāl liṭ ||*
 
-*(Reading note: this is the bhāṣya's grammatical tail; it is characterized below, not treated line by line. Many of its syllables ("hmyantakṣaṇa", "kailyuṭaḥ", "kalṭaḥ", "anter bhāvitaṇikyarthāt") and the Mahābhāṣya numeral are doubtful [?]. The first line completes the sentence of p. 298: "…as a king sends his own man for the office of messenger to a mightier king, so [the sacrificer to Agni].")*
+*(Reading note: this is the bhāṣya's grammatical tail; it is characterized below, not treated line by line. Re-read from the better scan: "hmyantakṣaṇa" is as printed; "kṛtyalyuṭo", "kartary aco yad", "laṭo", "lasārvadhātuka", "antarbhāvitaṇyarthāt" and the Mahābhāṣya numeral 3-1-11-3 as printed. The first line completes the sentence of p. 298: "…as a king sends his own man for the office of messenger to a mightier king, so [the sacrificer to Agni].")*
 
-*Meaning of the tail (characterized):* *mathīt* — root *mathe* "to churn"; *luṅ*; the *vṛddhi* is prohibited; *jenyaḥ* — root *janī* "to be born"; the *inya*-affix is Uṇādic, and the loss of *ṭi*, thus Bhaṭṭabhāskaramiśra [as read]; or from the root *ji* "to conquer", with a Vedic *yat*, with the *nuṭ* augment; initial acute; *dūtyam* — "the office of the messenger", *yat* by the sūtra on the portion and work of *dūta*, svarita by *titsvarite*; *bhṛgavāṇaḥ* — "acting like Bhṛgu", *kvip* after every stem, then *śānac*; initial acute since *vṛṣa*-class words are an open class (*ākṛtigaṇa*); *vivāya* — root *vī* "to go and so on", *liṭ*, with the sense of the causative included.
+*Meaning of the tail (characterized):* *mathīt* — root *mathe* "to churn"; *luṅ*; the *vṛddhi* is prohibited; *jenyaḥ* — root *janī* "to be born"; the *inya*-affix is Uṇādic, and the loss of *ṭi*, thus Bhaṭṭabhāskaramiśra; or from the root *ji* "to conquer", with a Vedic *yat*, with the *nuṭ* augment; initial acute; *dūtyam* — "the office of the messenger", *yat* by the sūtra on the portion and work of *dūta*, svarita by *titsvarite*; *bhṛgavāṇaḥ* — "acting like Bhṛgu", *kvip* after every stem, then *śānac*; initial acute since *vṛṣa*-class words are an open class (*ākṛtigaṇa*); *vivāya* — root *vī* "to go and so on", *liṭ*, with the sense of the causative included.
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
 
@@ -6059,14 +6061,14 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
-- **मातरिश्वा मथीत्** — "For the explanation of the word *mātariśvā* see the Special Topics of Ṛk 1-[93]-6. *Kīdṛśo mātariśvā* — *vibhṛtaḥ*: *prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ* — 'what kind of Mātariśvan? *vibhṛta*' — divided in living beings in the five forms of function, *prāṇa*, *apāna* and the rest. In beings the pervading breath is divided into five — *prāṇa*, *apāna*, *vyāna*, *udāna* and *samāna*: this is the sense of the word *vibhṛtaḥ*. Among these, in this context *mātariśvā* means the chief breath (*mukhyaprāṇa*) abiding in the form of *vyāna* — thus the bhāṣyakāra explains: the wind in this form is able to churn Agni and has accomplished the work. To support this, the Chāndogya passage is quoted: *atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyānaḥ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti* — in praise of the wind in the form of *vyāna*: "All the deeds of valour such as churning of fire, which cannot be done by the power of *prāṇa* and *apāna*, can be done only by the wind in the form of *vyāna*" — this is the purport of the śruti sentence (Chā. Up. [1-3-5?])."
-- *A story prior to the churning of Agni:* "There is a story current about the churning of Agni: as it says, *sarvam idam andhaṃ tama āsīt | atha mātariśvā kāśe sūkṣmam agnim apaśyat | tam amathnāt | mathitvā ca nanu yad iti* [as read, ?] — 'all this was dark; then Mātariśvan saw in the sky the subtle Agni; he churned him' [gloss mine and tentative]. Then Mātariśvan, recognizing the fire in subtle form, churned it; afterwards he is said to have called it to the sacrifice as favourable: this well-known story is told in many places in the Ṛk Saṃhitā in subtle form. For example:
+- **मातरिश्वा मथीत्** — "For the explanation of the word *mātariśvā* see the Special Topics of Ṛk 1-93-6. *Kīdṛśo mātariśvā* — *vibhṛtaḥ*: *prāṇiṣu prāṇāpānādipañcavṛttirūpeṇa vihṛto vibhajya sthitaḥ* — 'what kind of Mātariśvan? *vibhṛta*' — divided in living beings in the five forms of function, *prāṇa*, *apāna* and the rest. In beings the pervading breath is divided into five — *prāṇa*, *apāna*, *vyāna*, *udāna* and *samāna*: this is the sense of the word *vibhṛtaḥ*. Among these, in this context *mātariśvā* means the chief breath (*mukhyaprāṇa*) abiding in the form of *vyāna* — thus the bhāṣyakāra explains: the wind in this form is able to churn Agni and has accomplished the work. To support this, the Chāndogya passage is quoted: *atha yaḥ prāṇāpānayoḥ saṃdhiḥ sa vyānaḥ | ato yāny anyāni vīryavanti karmāṇi yathāgner manthanam ājeḥ saraṇaṃ dṛḍhasya dhanuṣa āyamanam aprāṇann anapānaṃs tāni karoti* — in praise of the wind in the form of *vyāna*: "All the deeds of valour such as churning of fire, which cannot be done by the power of *prāṇa* and *apāna*, can be done only by the wind in the form of *vyāna*" — this is the purport of the śruti sentence (Chā. Up. [1-3-5?])."
+- *A story prior to the churning of Agni:* "There is a story current about the churning of Agni: as it says, *sarvam idam andhaṃ tama āsīt | atha mātariśvākāśe sūkṣmam agnim apaśyat | tam amathnāt | mathitvā cānayad iti* — 'all this was dark; then Mātariśvan saw in the sky the subtle Agni; he churned him' [gloss mine and tentative]. Then Mātariśvan, recognizing the fire in subtle form, churned it; afterwards he is said to have called it to the sacrifice as favourable: this well-known story is told in many places in the Ṛk Saṃhitā in subtle form. For example:
 
-  > आस्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
-  > *āsyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ* (Ṛk. Saṃ. [1-93-6?])
+  > आन्यं [as printed] दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
+  > *ānyaṃ [as printed] divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ* (Ṛk. Saṃ. 1-93-6)
 
   > आ दूतो अग्निमभरद्विवस्वतो वैश्वानरं मातरिश्वा परावतः ।
-  > *ā dūto agnim abharad vivasvato vaiśvānaraṃ mātariśvā parāvataḥ* (Ṛk. Saṃ. [6-8-4?])
+  > *ā dūto agnim abharad vivasvato vaiśvānaraṃ mātariśvā parāvataḥ* (Ṛk. Saṃ. 6-8-4)
 
   In these sūktas too, as here, praise of Agni is told together with the older story. Thus, after Mātariśvan fetched him, Agni shone in the house of sacrifice — such is the meaning." *(Glosses mine and tentative: "Mātariśvan carried one [fire] from heaven; the falcon churned another from the rock"; "the messenger Mātariśvan brought Agni Vaiśvānara from the far-off to Vivasvat".)*
 - **श्येतः** — *śubhravarṇo bhūtvā* — "becoming bright of colour: shining brightly."
@@ -6076,35 +6078,35 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
 ### Page 301 (PDF 319)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **Special Topics of Rik 71.4 (continued)**
 
-- **जेन्यः** (concluded) — "…But the word *jenyaḥ* is used in the Ṛk Saṃhitā mostly in the sense of 'one of victorious nature'; in various Ṛks, [1-[?]-2; 1-[?]-6; 1-[?]-3; 3-[?]-1; 10-[?]-4] and so on, the meaning 'of victorious nature' (*jayaśīlaḥ*) is appropriate. Here too that sense is natural." *(Ṛgveda numerals read doubtfully [?].)*
+- **जेन्यः** (concluded) — "…But the word *jenyaḥ* is used in the Ṛk Saṃhitā mostly in the sense of 'one of victorious nature'; in various Ṛks, [1-128-7; 1-130-6; 1-140-2; 2-5-1; 10-4-3] and so on, the meaning 'of victorious nature' (*jayaśīlaḥ*) is appropriate. Here too that sense is natural."
 - **सचा सन्** — *sakhā bhavan* — "becoming a friend. *Dūtasya karma ā vivāya* — he caused the work of messenger to be done: 'he made him carry out the duties of a messenger.' Agni is described in many places as the most dear friend, both of the sacrificer and of the gods. For example:
 
   > आ हि ष्मा सूनवे पिता पिर्यजत्यापये । सखा सख्ये वरेण्यः ॥
-  > *ā hi ṣmā sūnave pitāpir yajaty āpaye | sakhā sakhye vareṇyaḥ ||* (Ṛk. Saṃ. [1-26-3?])
+  > *ā hi ṣmā sūnave pitāpir yajaty āpaye | sakhā sakhye vareṇyaḥ ||* (Ṛk. Saṃ. 1-26-3)
 
   > त्वं जामिर्जनानामग्ने मित्रो असि प्रियः । सखा सखिभ्य ईड्यः ॥
-  > *tvaṃ jāmir janānām agne mitro asi priyaḥ | sakhā sakhibhya īḍyaḥ ||* (Ṛk. Saṃ. [1-75-4?])
+  > *tvaṃ jāmir janānām agne mitro asi priyaḥ | sakhā sakhibhya īḍyaḥ ||* (Ṛk. Saṃ. 1-75-4)
 
   > त्वं पुत्रो भवसि यस्तेऽविधत्त्वं सखा सुशेवः पास्याधृषः ।
-  > *tvaṃ putro bhavasi yas te 'vidhat tvaṃ sakhā suśevaḥ pāsy ādhṛṣaḥ |* (Ṛk. Saṃ. [2-1-9?])
+  > *tvaṃ putro bhavasi yas te 'vidhat tvaṃ sakhā suśevaḥ pāsy ādhṛṣaḥ |* (Ṛk. Saṃ. 2-1-9)
 
   > त्वं त्राता तरणे चेत्यो भूः पिता माता सदमिन्मानुषाणाम् ।
-  > *tvaṃ trātā taraṇe cetyo bhūḥ pitā mātā sadam in mānuṣāṇām |* (Ṛk. Saṃ. [6-1-5?])
+  > *tvaṃ trātā taraṇe cetyo bhūḥ pitā mātā sadam in mānuṣāṇām |* (Ṛk. Saṃ. 6-1-5)
 
   In Ṛks such as these, as the friendship and helpfulness of Agni are told, so here too it is praised that he, being such a friend, performed the duty of a messenger. The dialogue that goes on between Agni, who is petitioned to carry out the office of messenger, and the other gods, in the fifty-first sūkta of the tenth maṇḍala [as read, ?], explains this context well. Moreover:
 
   > अग्निं दूतं वृणीमहे होतारं विश्ववेदसम् ।
-  > *agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam* (Ṛk. Saṃ. [1-12-1?])
+  > *agniṃ dūtaṃ vṛṇīmahe hotāraṃ viśvavedasam* (Ṛk. Saṃ. 1-12-1)
 
   > देवासस्त्वा वरुणो मित्रो अर्यमा सं दूतं प्रत्नमिन्धते ।
-  > *devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate* (Ṛk. Saṃ. [1-36-4?])
+  > *devāsas tvā varuṇo mitro aryamā saṃ dūtaṃ pratnam indhate* (Ṛk. Saṃ. 1-36-4)
 
   > जुष्टो हि दूतो असि हव्यवाहनोऽग्ने रथीरध्वराणाम् ।
-  > *juṣṭo hi dūto asi havyavāhano 'gne rathīr adhvarāṇām* (Ṛk. Saṃ. [1-44-2?])
+  > *juṣṭo hi dūto asi havyavāhano 'gne rathīr adhvarāṇām* (Ṛk. Saṃ. 1-44-2)
 
   — that Agni, as a messenger, is the equal of both gods and men who perform sacrifices, is natural; but for him to be a messenger to such, the sacrificer's qualification must be of great excellence — to show this …" *(page breaks off; continued on p. 302.)* *(Ṛgveda numerals as read, [?]; glosses mine and tentative: "for a son the father is *āpi*, friend with the friend, the choicest one worships" [?]; "you are the kinsman of men, O Agni, the dear friend; the friend is to be praised by friends"; "you are the son to him who has served you, you are the kind, unassailable friend"; "you the saviour, to be known in the crossing, are ever father and mother of men"; "we choose Agni as messenger, the priest, who knows all"; "the gods, Varuṇa, Mitra, Aryaman kindle you, the ancient messenger"; "you are the welcome messenger, carrier of oblation, O Agni, charioteer of the rites".)*
 
