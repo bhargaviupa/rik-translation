@@ -10491,4 +10491,76 @@ Chandas — 1–5. *anuṣṭubh*; 6. *triṣṭubh* ‖
 
 ---
 
-**Progress note:** printed p. 396 (PDF 416) done — Sūkta 175 COMPLETE (6 ṛks, printed pp. 361–395); Sūkta 176 begun: Anukramaṇikā, Anuvāda, heading, Ṛk 1 Saṃhitā, Pada, bhāṣya begun (continues p. 397). Next: printed p. 397 (PDF 417). Open flags: Sūkta 176 heading varga numeral [?]; Anukramaṇikā text partly garbled [?]; refs/sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 397  (PDF 417)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+*(Sāyaṇa-bhāṣya of Ṛk 1 concluded; as read, doubtful passages marked [?])*
+
+> … वृषा कामानां वर्षिता आ विश । अथ तथा पीतः सन् ऋघायमाणः शत्रून् हिंसयन् इन्वसि । व्याप्नोषि । अत्यन्तान्तिके शत्रुं न विन्दसि । न लभसे । यतः शत्रवस्त्वत्सामर्थ्येन पलायिताः अतो न विन्दसि । यद्वा । उत्तरार्ध इन्द्रपरतया व्याख्येयः । हे इन्द्र त्वं तं सोमं पीत्वा ऋघायमाणः सन् इन्वसि । अन्तिके शत्रुं न विन्दसि ॥ [?]
+
+> *… vṛṣā kāmānāṃ varṣitā ā viśa | atha tathā pītaḥ san ṛghāyamāṇaḥ śatrūn hiṃsayan invasi | vyāpnoṣi | atyantāntike śatruṃ na vindasi | na labhase | yataḥ śatravas tvatsāmarthyena palāyitāḥ ato na vindasi | yadvā | uttarārdha indraparatayā vyākhyeyaḥ | he indra tvaṃ taṃ somaṃ pītvā ṛghāyamāṇaḥ san invasi | antike śatruṃ na vindasi ‖* [?]
+
+*Gist:* O Soma, shower of desires, enter Indra; so drunk, he, destroying enemies, pervades all; and, since they flee before his might, he finds no enemy near. Or the second half is addressed to Indra: "drinking that Soma, you find no enemy near."
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indo* — O Soma juice; (*tvam* — you); *naḥ* — our; *vasyaiṣṭaye* — to obtain wealth; *indram* — Indra; *matsi* — make glad; *vṛṣā* — as the giver of desires; *ā viśa* — (Indra) enter well, pervade (when so drunk); *ṛghāyamāṇaḥ* — as the injurer of enemies; *invasi* — you pervade; (therefore) *anti* — near; *śatrum* — an enemy; *na vindasi* — you do not find. [Or: (*he*) *indra* — O Indra; *tvam* — you; (that Soma having drunk) *ṛghāyamāṇaḥ* — as the injurer of enemies; *invasi* — you pervade; (therefore) *anti* — near; *śatrum* — an enemy; *na vindasi* — you do not get.]
+
+**Bhāvārtha**
+
+O Soma juice, for the sake of obtaining wealth and the like for us, delight Indra; O giver of desires, pervade him well. O Indra, drinking the Soma, injure the enemies thoroughly; therefore they cannot approach you.
+
+**Printed English**
+
+Soma, exhilarate Indra (at the sacrifice we offer), for the sake of obtaining wealth: pervade him, showerer (of benefits), for when imbibed you are the annihilator (of enemies), and suffer not a foe to be nigh.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+The 176th sūkta, composed by the sage Agastya, is addressed to Indra. In its first ṛk, *matsi naḥ*, a prayer is made to Soma to cause satisfaction to Indra. By the drinking of the Soma juice,
+
+(1) the extraordinary delight that comes to Indra,
+(2) the growth of the power that serves to subdue enemies, and
+(3) the gift of wealth that Indra, out of that delight, grants to the sacrificer,
+
+are indicated.
+
+1. ***matsi — mādayasva*** — "cause satisfaction" is the prayer. That Indra is a lover of Soma (*somakāma*) is well known, being described in many places. And that the supreme happiness obtained from drinking this Soma juice exceeds
+
+### Printed p. 398  (PDF 418)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+what is commonly described as the happiness of heaven (*svargasukha*) may be learned from the explanation in the following ṛks. It is prayed that Soma juice, of such happiness-giving nature, may be prepared for Indra to drink.
+
+> यत्र ज्योतिरजस्रं यस्मिन् लोके स्वर्हितम् । तस्मिन्मां धेहि पवमानामृते लोके अक्षित इन्द्रायेन्दो परि स्रव ॥
+
+> *yatra jyotir ajasraṃ yasmin loke svarhitam | tasmin māṃ dhehi pavamānāmṛte loke akṣita indrāyendo pari srava ‖*
+
+(Ṛ. Saṃ. 9-113-7);
+
+> यत्र कामा निकामाश्च यत्र ब्रध्नस्य विष्टपम् । स्वधा च यत्र तृप्तिश्च तत्र मामृतं कृधीन्द्रायेन्दो परि स्रव ॥
+
+> *yatra kāmā nikāmāś ca yatra bradhnasya viṣṭapam | svadhā ca yatra tṛptiś ca tatra māmṛtaṃ kṛdhīndrāyendo pari srava ‖*
+
+(Ṛ. Saṃ. 9-113-10);
+
+> यत्रानन्दाश्च मोदाश्च मुदः प्रमुद आसते । कामस्य यत्राप्ताः कामास्तत्र मामृतं कृधीन्द्रायेन्दो परि स्रव ॥
+
+> *yatrānandāś ca modāś ca mudaḥ pramuda āsate | kāmasya yatrāptāḥ kāmās tatra māmṛtaṃ kṛdhīndrāyendo pari srava ‖*
+
+(Ṛ. Saṃ. 9-113-11).
+
+In such ṛks the nature of the happiness described exceeds the heavenly happiness commonly described: the *nikāma* (utmost fulfilment of desire), *ānanda*, *moda*, *pramoda* are described as obtainable by the grace of Soma. By the word *matsi* in the ṛk at hand a prayer is made that such satisfying delight be given to Indra.
+
+2. Secondly, ***śatruṃ anti na vindasi; antike śatruṃ na vindasi*** — "by your power the enemies are driven far, without ever coming near": thus the power of the Soma juice is described. Sāyaṇa has shown that this sentence has two meanings: that the Soma drunk by Indra does not suffer the enemies to come near by its power; or, "***he indra tvaṃ somaṃ pītvā antike śatruṃ na vindasi***" — "O Indra, having drunk the Soma juice, you do not find an enemy near": that is, drinking Soma and increasing your power, you drive away the enemies — thus the sense directed to Indra is also possible. In both senses the purport is the same: the Soma juice gives Indra heroism, and by drinking it Indra can subdue his enemies. The same idea is stated in many other places. For example —
+
+> त्वं सद्यो अपिबो जात इन्द्र मदाय सोमं परमे व्योमन् । यद्ध द्यावापृथिवी आविवेशीरथाभवः पूर्व्यः कारुधायाः ॥
+
+> *tvaṃ sadyo apibo jāta indra madāya somaṃ parame vyoman | yad dha dyāvāpṛthivī āviveśīr athābhavaḥ pūrvyaḥ kārudhāyāḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-32-10 [?]) — in such ṛks it is described that Indra's mother made him drink the Soma juice as soon as he was born, and that thereby his greatness grew; and, as a result of this,
+
+---
+
+**Progress note:** printed p. 398 (PDF 418) done — Sūkta 176 Ṛk 1 Pratipadārtha, Bhāvārtha, printed English, Special Topics (matsi, śatruṃ anti na vindasi; continues p. 399). Next: printed p. 399 (PDF 419). Open flags: Ṛk 1 bhāṣya closing sentences read approx [?]; Ṛg refs [?]; review/doubts_v13.json.
