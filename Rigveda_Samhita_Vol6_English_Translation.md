@@ -12515,13 +12515,13 @@ viśvāsu pṛtsu dustaram ||8||*
 
 > विवस्वतः सदन आ हि पिप्रिये सत्रासाहमभिमातिहनं स्तुहि ।
 
-*vivasvataḥ sadana ā hi pipriye satrāsāham abhimātihanaṃ stuhi |* (Ṛk. Saṃ. 3-[37]-3 [?]) — *Gloss, mine and tentative:* "In the abode of Vivasvat he was delighted; praise him, the all-conquering, the slayer of the hostile."
+*vivasvataḥ sadana ā hi pipriye satrāsāham abhimātihanaṃ stuhi |* (Ṛk. Saṃ. 3-51-3) — *Gloss, mine and tentative:* "In the abode of Vivasvat he was delighted; praise him, the all-conquering, the slayer of the hostile."
 
 > त्वमु वः सत्रासाहं विश्वासु गीर्ष्वायतम् ।
 
 *tvam u vaḥ satrāsāhaṃ viśvāsu gīrṣv āyatam |* (Ṛk. Saṃ. 8-[?]-[?] [?]) — *Gloss, mine and tentative:* "You (we praise), the all-conquering, ranged over all the songs of praise." *(Sense uncertain to me.)*
 
-— in these Ṛks (and also in Ṛk 3-[37]-3 [?] the word *satrāsahaḥ*, in Ṛk 3-[31]-3 [?] the word *satrāsahe*) this word is used; elsewhere it is not used. In explaining the first of the Ṛks cited above the bhāṣyakāra has given for the word *satrāsāham* the sense *vṛtrādiśatrūṇām abhibhavitāram*, 'the conqueror of enemies such as Vṛtra' (a destroyer of enemies); and in explaining the word *satrāsāha* in the second example he gives the very same sense *śatrūṇām abhibhavitāram*. In the Ṛks 3-[37]-3 and 3-[31]-3 [?] too the sense 'overcome the enemies' is given for *saha*. In the Ṛk now before us as well the sense *saha* ('overcoming') may be given." *(The numbering of the references in this paragraph is garbled in the print; all are given with doubt [?].)*
+— in these Ṛks (and also in Ṛk 2-21-2 the word *satrāsahaḥ*, in Ṛk 2-21-3 the word *satrāsahe*) this word is used; elsewhere it is not used. In explaining the first of the Ṛks cited above the bhāṣyakāra has given for the word *satrāsāham* the sense *vṛtrādiśatrūṇām abhibhavitāram*, 'the conqueror of enemies such as Vṛtra' (a destroyer of enemies); and in explaining the word *satrāsāha* in the second example he gives the very same sense *śatrūṇām abhibhavitāram*. In the Ṛks 2-21-2 and 2-21-3 too the sense 'overcome the enemies' is given for *saha*. In the Ṛk now before us as well the sense *saha* ('overcoming') may be given." *(The numbering of the references in this paragraph is garbled in the print; all are given with doubt [?].)*
 
 - **वरेण्यम्** — *sarvair varaṇīyam* — "wealth that is sought by all: everybody desires wealth."
 - **पृत्सु** — "Among the forty-six names of battle beginning *raṇaḥ, vivākaḥ* the word *pṛtsu* occurs; so for this word the sense is 'in battles' (Ni. [2-17] [?]). This word is generally used in the plural."
