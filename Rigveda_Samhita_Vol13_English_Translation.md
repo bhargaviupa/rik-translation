@@ -16681,4 +16681,60 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 596 (PDF 616) done — Sūkta 182 Ṛk 1 Special Topics (dhiṣṇyā, viśpalāvasū / Viśpalā story, divaḥ napātā, śucivratā) and grammar. Next: printed p. 597 (PDF 617): Ṛk 1 grammar end / Ṛk 2. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 597  (PDF 617)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 597.)*
+
+*(Grammar page of Ṛk 1, continued, noted briefly):* *sukṛte* — "*śobhanaṃ karoti iti sukṛt*"; to it, root *kṛ*, *kvip*; *tuk* augment to the root; the accent of the *kṛdutta* last member is the *prakṛti* accent; fourth case singular form; *śucivratā* — "*śuci vrataṃ yayoḥ*"; "*bahuvrīhau prakṛtyā pūrvapadam*" (Pā. Sū. 6-2-1) gives the former member's own accent; second (case), ā-substitution for the dual.  ‖ 1 ‖
+
+### Sūkta 182, Ṛk 2  (printed p. 597; PDF 617)
+
+**Saṃhitā-pāṭha**
+
+> इन्द्रतमा हि धिष्ण्या मरुत्तमा दस्रा दंसिष्ठा रथ्या रथीतमा ।
+> पूर्णं रथं वहेथे मध्व आचितं तेन दाश्वांसमुप याथो अश्विना ॥ २ ॥
+
+**Pada-pāṭha**
+
+> इन्द्रऽतमा । हि । धिष्ण्या । मरुत्ऽतमा । दस्रा । दंसिष्ठा । रथ्या । रथिऽतमा ।
+> पूर्णं । रथं । वहेथे इति । मध्वः । आऽचितं । तेन । दाश्वांसं । उप । याथः । अश्विना ॥ २ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवामिन्द्रतमा हीश्वरतमौ खलु । एवं प्रतिविशेषणं हिः संबन्धः । तथा धिष्ण्या स्तुत्यर्हौ मरुत्तमा मरुद्भ्योऽतिशयेन वेगगामिनौ मितरागिणौ मितरावणौ वा दस्रोपक्षयितारौ शत्रूणां दंसिष्ठातिशययुक्तकर्माणौ रथ्या रथार्हौ रथवन्तौ रथितमा । रथिनो नेतारः । तेषां श्रेष्ठौ । रथीरध्वराणां । ऋ. ८-१०-२ । इति नेतृत्वपरतया व्याख्यातत्वात् । ईदृशौ युवां मध्वो मधुसदृशस्य उदकस्यामृतस्य वा पूर्णं पूरितमाचितं सर्वतः संनद्धं रथं वहेथे । नयथः । तेनोक्तगुणविशिष्टेन रथेन हे अश्विनावश्विनौ उक्तगुणविशिष्टौ सन्तावुप याथः । यज्ञमभिप्राप्नुथः ॥
+
+*(Sanskrit as read; doubtful in several words [?], and the reference "Ṛ. 8-10-2" is as read [?]. Gist: the Aśvins are most lordly, swift, best chariot-leaders; come in your chariot full of sweetness to the sacrificer.)*
+
+**Pratipadārtha** — (*he aśvinau* — O Aśvin deities!) (you two) **indratamā** — endowed with the highest splendour; **dhiṣṇyā** — worthy of praise; **marutvatamā** *(printed "marut-tamā")* — swifter than the Maruts (of measured passion, or of measured sound); **dasrā** — destroyers of foes; **daṃsiṣṭhā** — performers of exceedingly great deeds; **rathyā** — worthy of the chariot; (and) **rathītamā** — the highest of charioteers (chiefs of chariot-owners); **hi** — verily; (such) you two; **madhvaḥ** — resembling honey (with water or with ambrosia); **pūrṇaṃ** — full; (and) **ācitaṃ** — on all sides made ready; **rathaṃ** — the chariot; **vahethe** — you bring; **tena** — with that chariot; (*he*) **aśvinā** — O Aśvin deities (possessed of the said qualities); **dāśvāṃsaṃ** — the sacrificer who offers oblations; **upa yāthaḥ** — approach.
+
+### Printed p. 598  (PDF 618)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 598.)*
+
+*(The page opens in the middle of the Pratipadārtha, continuing from p. 597:)* … **daṃsiṣṭhā** — doers of exceedingly great works; **rathyā** — worthy of the chariot; (and) **rathītamā** — the most distinguished charioteers (chiefs of chariot-owners); **hi** — verily; (such) you two; **madhvaḥ** — resembling honey (with water or with ambrosia); **pūrṇaṃ** — full; (and) **ācitaṃ** — on all sides made ready; **rathaṃ** — the chariot; **vahethe** — you bring; **tena** — with that chariot; (*he*) **aśvinā** — O Aśvin deities (possessed of the said qualities); **dāśvāṃsaṃ** — the sacrificer who gives oblations; **upa yāthaḥ** — approach.
+
+**Bhāvārtha** — O Aśvin deities, you two are truly very mighty, worthy of praise, swifter than the wind, destroyers of foes, who especially perform works of strength, who move in the chariot, and are the best of charioteers; come to the sacrificer, sitting in that chariot of yours, full of ambrosia and ready in all ways.
+
+**English Translation.** *(printed)*
+
+"Dasras, in truth most imperial, adorable, swifter than the winds, and eminent in good works, riders in a car, and most distinguished charioteers, bring hither your car, full heaped up with ambrosia, and with it come, Ashwins, to the donor (of the offering)."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Indratamā** — for the word *indratamā* Sāyaṇa has explained "*īśvaratamau khalu*" — "most mighty". Earlier, the Nirukta-author's sentences giving derivations of the word *indra*, and the senses of *alaṅkāra* [as printed], have been cited as examples. Therefore, as the Nirukta-author has given a few derivations suited to the epithets applied to the Aśvin deities in the ṛk at hand, the purport of these derivations must be understood as describing their greatness in whatever way (Ni. 10-8 [?]).
+
+> इन्द्र इरां दृणातीति वा ।
+
+> *indra irāṃ dṛṇātīti vā |*
+
+(Ni. 10-8 [?]) — the root *dṛ* gives the sense of "to divide"; from it, *irām annaṃ vrīhyādi dṛṇāti vidārayati* [as read; doubtful [?]]: he splits the seed-sprout moistened by rain; that is, he is called Indra because, by causing the seeds of grain etc. to burst from the rain, he makes the tree grow. And:
+
+> इरां ददातीति वा । वर्षद्वारेणासौ इरां ददाति ।
+
+> *irāṃ dadātīti vā | varṣadvāreṇāsau irāṃ dadāti |*
+
+(as read [?]) — from the root *dā*, "to give", the word is formed: "he gives food through rain-giving" — thus considering the meanings of the two derivations, and seeing that it applies to the Aśvin deities,
+
+---
+
+**Progress note:** printed p. 598 (PDF 618) done — Sūkta 182 Ṛk 1 ends; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (indratamā; continues p. 599). Next: printed p. 599 (PDF 619). Open flags: refs [?]; review/doubts_v13.json.
