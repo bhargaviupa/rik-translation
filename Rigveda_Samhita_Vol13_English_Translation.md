@@ -5843,4 +5843,76 @@ The relation between the ṛk, which is of the nature of a hymn (*arka*), and th
 
 ---
 
-**Progress note:** printed p. 242 (PDF 262) done — Sūkta 173 Ṛk 1 Special Topics (continues p. 243: Brāhmaṇa quotation, rest of notes, grammar). Next: printed p. 243 (PDF 263). Open flags: Nirukta/Brāhmaṇa quotations garbled [?]; ref numerals [?]; review/doubts_v13.json.
+### Printed p. 243  (PDF 263)
+
+*(Header: "Ṛgvedasaṃhitā"; "A. 2 A. 4 Va. 13".)*
+
+Continuation of the Śatapatha Brāhmaṇa quotation (reading garbled, as printed):
+
+> पतिग्ंसंतं पुत्रं ब्रूयात् [?] … तस्माद्यज्ञ [?] … त्रिः संतनोतीति पितरं पुत्रं पौत्रं तांस्तत्सन्तनोति तस्मादु तेभ्य एक एव पदधाति [?]
+
+> *patigṃsaṃtaṃ putraṃ brūyāt [?] … tasmād yajña [?] … triḥ saṃtanotīti pitaraṃ putraṃ pautraṃ tāṃs tat santanoti tasmād u tebhya eka eva padadhāti [?]*
+
+(Śa. Brā. 8-1-2-9 [?]). Gist: when the relation of father and son is spoken of, the question arises what is fitting to compare it with in the case of the Sāman and the ṛk; the Sāman is the husband (*pati*) of the ṛk, and the husband's place is shown accordingly. The Sāman has three stages, father, son, grandson (*pitṛ, putra, pautra*), as the ṛk has three verses; thus the relation of the ṛk and its husband, the Sāman, is made known.
+
+In the same way the Chāndogya Upaniṣad also shows the relation of the ṛk and the Sāman, describing it in one way on the *adhidaivata* side and in another on the *adhyātma* side. As on the adhidaivata side (Chā. Up. 1-6-1 to 8 [?]):
+
+> इयमेवर्गग्निः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयत इयमेव सा अग्निरमस्तत्साम ॥ १ ॥
+
+> *iyam evarg agniḥ sāma tad etad etasyām ṛcy adhyūḍhaṃ sāma tasmād ṛcy adhyūḍhaṃ sāma gīyata iyam eva sāgnir amas tat sāma ‖ 1 ‖*
+
+> अन्तरिक्षमेवर्ग्वायुः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयतेऽन्तरिक्षमेव सा वायुरमस्तत्साम ॥ २ ॥
+
+> *antarikṣam evarg vāyuḥ sāma tad etad etasyām ṛcy adhyūḍhaṃ sāma tasmād ṛcy adhyūḍhaṃ sāma gīyate 'ntarikṣam eva sā vāyur amas tat sāma ‖ 2 ‖*
+
+> द्यौरेवर्गादित्यः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयते द्यौरेव सादित्योऽमस्तत्साम ॥ ३ ॥
+
+> *dyaur evarg ādityaḥ sāma tad etad etasyām ṛcy adhyūḍhaṃ sāma tasmād ṛcy adhyūḍhaṃ sāma gīyate dyaur eva sādityo 'mas tat sāma ‖ 3 ‖*
+
+> नक्षत्राण्येवर्क्चन्द्रमाः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयते नक्षत्राण्येव सा चन्द्रमा अमस्तत्साम ॥ ४ ॥
+
+> *nakṣatrāṇy evark candramāḥ sāma tad etad etasyām ṛcy adhyūḍhaṃ sāma tasmād ṛcy adhyūḍhaṃ sāma gīyate nakṣatrāṇy eva sā candramā amas tat sāma ‖ 4 ‖*
+
+In this passage, earth, atmosphere, heaven and the stars are the ṛk; fire, air, the sun and the moon are the Sāman. The relation between the ṛk and the Sāman is thus the relation between the deities and their seats; the ṛk is *sā*, the deity is *ama*, and the two together are known as *sāma*. In the same manner on the *adhyātma* side (Chā. Up. 1-7-1 to 9 [?]):
+
+> अथाध्यात्मं वागेवर्क्प्राणः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयते । वागेव सा प्राणोऽमस्तत्साम ॥ १ ॥
+
+> *athādhyātmaṃ vāg evark prāṇaḥ sāma tad etad etasyām ṛcy adhyūḍhaṃ sāma tasmād ṛcy adhyūḍhaṃ sāma gīyate | vāg eva sā prāṇo 'mas tat sāma ‖ 1 ‖*
+
+> चक्षुरेवर्गात्मा साम … चक्षुरेव सात्माऽमस्तत्साम ॥ २ ॥
+
+> *cakṣur evarg ātmā sāma … cakṣur eva sātmā 'mas tat sāma ‖ 2 ‖*
+
+> श्रोत्रमेवर्ग्मनः साम … श्रोत्रमेव सा मनोऽमस्तत्साम ॥ ३ ॥
+
+> *śrotram evarg manaḥ sāma … śrotram eva sā mano 'mas tat sāma ‖ 3 ‖*
+
+### Printed p. 244  (PDF 264)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+Speech, eye, ear and the rest are the ṛk; breath, self (*ātman*) and mind and the rest are the Sāman: the seats and their indwellers. Speech and the others are the ṛks (*sā*); breath and the others are the *ama*; the two together make the Sāman. This is the explanation of the adhyātma side.
+
+Thus, in speaking of the relation of the ṛk and the Sāman, the omnipresence of ṛk and Sāman is described in the *adhidaivata* form (the three worlds, earth etc., and the deities of this world, Agni etc., being in this form) and in the *adhyātma* form.
+
+> स एष ये चैतस्मादर्वाञ्चो लोकास्तेषां चेष्टे मनुष्यकामानां चेति तद्य इमे वीणायां गायन्त्येतं ते गायन्ति तस्मात्ते धनसनयः ।
+
+> *sa eṣa ye caitasmād arvāñco lokās teṣāṃ ceṣṭe manuṣyakāmānāṃ ceti tad ya ime vīṇāyāṃ gāyanty etaṃ te gāyanti tasmāt te dhanasanayaḥ |*
+
+(Chā. Up. 1-7-6 [?]). Gist: he is lord of all the worlds that lie within (this) and of all human desires; those who sing this Sāman in the manner of the lute-players obtain wealth of every kind.
+
+> अथ य एतदेवं विद्वान्साम गायत्यभ्यां स गायति सोऽमुनैव स एष यो ऽमुष्मात्पराञ्चो लोकास्ताꣳश्चाप्नोति देवकामांश्च । कं ते कामम् आगायानीत्येष ह्येव कामागानस्येष्टे य एवं विद्वान्साम गायति साम गायति ॥ [as read; the Kannada print is partly garbled]
+
+> *atha ya etad evaṃ vidvān sāma gāyaty abhyāṃ sa gāyati so 'munaiva sa eṣa yo 'muṣmāt parāñco lokās tāṃś cāpnoti devakāmāṃś ca | kaṃ te kāmam āgāyānīty eṣa hy eva kāmāgānasyeṣṭe ya evaṃ vidvān sāma gāyati sāma gāyati ‖*
+
+(Chā. Up. 1-7-8 and 9 [?]). Gist: from this singing all desires, common to the paths of the gods and men, are obtained; so the *udgātṛ* may ask, "By this singing, let such-and-such wish of yours be fulfilled", because the one who sings this holy Sāman is able to bring about every kind of desire, of this world and the next.
+
+> स य एतदेवं विद्वान्सामेत्युपास्ते अभ्याशो ह यदेनं साधवो धर्मा आ च गच्छेयुरुप च नमेयुः ।
+
+> *sa ya etad evaṃ vidvān sāmety upāste abhyāśo ha yad enaṃ sādhavo dharmā ā ca gaccheyur upa ca nameyuḥ |*
+
+(Chā. Up. 2-1-4 [?]). One who knowing this truth reveres the Sāman as good (*sādhu*) — good duties come to him always as protectors, and for the protection of his own self they approach him and serve him. Thus the power of the Sāman is described in many ways; besides, the description of the divisions of the Sāman ("one should revere the five-fold Sāman" and so on) and its praise are manifold, and [the page continues on p. 245].
+
+---
+
+**Progress note:** printed p. 244 (PDF 264) done — Sūkta 173 Ṛk 1 Special Topics (Sāman discussion continues p. 245). Next: printed p. 245 (PDF 265). Open flags: Brāhmaṇa/Upaniṣad quotation refs [?]; review/doubts_v13.json.
