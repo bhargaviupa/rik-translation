@@ -11077,11 +11077,11 @@ Kannada closing line: "ಇಲ್ಲಿಗೆ ಶ್ರೀ ಸಾಯಣಭಾಷ�
 
 ### Printed p. 679 (PDF 695)
 
-"Indra rolled in the dust (2-?-?); he oppressed Āyu, Kutsa and Atithigva (Vāl. 5-?), and gave these three into the hands of the young king Tūrvayāṇa (1-?-?), or yoked the three for that king and made them roll on the ground (6-?-?). In the Nirukta (Nir. 3-?) *Kutsa* is one of the names of the vajra-weapon."
+"Indra rolled in the dust (2-14-2); he oppressed Āyu, Kutsa and Atithigva (Vāl. 5-2), and gave these three into the hands of the young king Tūrvayāṇa (1-53-10), or yoked the three for that king and made them roll on the ground (6-18-13). In the Nirukta (Nir. 2-20) *Kutsa* is one of the names of the vajra-weapon."
 
 ### Kāvya Uśanā
 
-"The name of the seer *Uśanā* occurs eleven times. Twice he is called *Kavi* and five times *Kāvya*. Soma, who speaks the words of wisdom, is likened to Uśanas (9-?-?); and by reason of the instruction, Soma himself is called Uśanā (9-?-?). Kāvya Uśanā set Agni in the place of the *hotṛ* in the sacrifice (8-?-?). It was he who drove the cows this way (towards the earth) (1-?-?). He is a dependant of Indra (6-?-?); Indra rose with satisfaction in his company (1-?-?); and Indra himself says that Kutsa, Uśanā and the rest are the same as he (4-?-?). Joined with Kutsa, Uśanā also took part in the uprooting of Śuṣṇa by Indra (5-?-?). Also in the making of the vajra-weapon used for the killing of Vṛtra, Uśanā had a hand (1-?-?; 5-?-?; compare 1-?-?)."
+"The name of the seer *Uśanā* occurs eleven times. Twice he is called *Kavi* and five times *Kāvya*. Soma, who speaks the words of wisdom, is likened to Uśanas (9-97-7); and by reason of the instruction, Soma himself is called Uśanā (9-87-3). Kāvya Uśanā set Agni in the place of the *hotṛ* in the sacrifice (8-23-12). It was he who drove the cows this way (towards the earth) (1-83-5). He is a dependant of Indra (6-20-11); Indra rose with satisfaction in his company (1-51-11); and Indra himself says that Kutsa, Uśanā and the rest are the same as he (4-26-1). Joined with Kutsa, Uśanā also took part in the uprooting of Śuṣṇa by Indra (5-29-9). Also in the making of the vajra-weapon used for the killing of Vṛtra, Uśanā had a hand (1-121-12; 5-34-2; compare 1-51-10)."
 
 "Many more ancient seers are mentioned. Gotama, Viśvāmitra, Vāmadeva, Bharadvāja, Vasiṣṭha and others are some of them. These, or their descendants, are the seers of the mantras of the second, third, fourth, sixth and seventh maṇḍalas respectively. Agastya too is one of the seers mentioned many times in the Ṛgveda. Among well-known ancient warriors are Sudāsa, Purukutsa and his son Trasadasyu, and Divodāsa Atithigva, and some others."
 
