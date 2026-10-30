@@ -5506,5 +5506,29 @@
   ],
   "note": "SB 14-1-1-1..9 end and TA quote garbled/elided; 'abhikti', 'tasmoparaah' doubtful",
   "answer": ""
+ },
+ {
+  "pdf": 567,
+  "printed": 547,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "TA 5-1 quote and SB 14-3-2-16, TS 6-4-9, Ni 3-9 refs small; several words doubtful in TA quote",
+  "answer": ""
+ },
+ {
+  "pdf": 568,
+  "printed": 548,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref Rg 10-39-12; grammar sutra numerals small",
+  "answer": ""
  }
 ]
