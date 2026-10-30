@@ -147,3 +147,65 @@ Words: p. 51 bhāṣya "kyāc chandasīty u-pratyayaḥ [?]" confirmed (ಕ್�
 Words: p. 55 bhāṣya "kartṛvadbhāvād ecaḥ [?] kartary api yaki" -> "kartṛvadbhāvād acaḥ kartṛyaki" (ಕರ್ತೃವದ್ಭಾವಾದಚಃ ಕರ್ತೃಯಕಿ).
 Words: p. 58 bhāṣya "gomato [?]" confirmed as printed (ಗೋಮತೋ); "auṇādikastakpratyayaḥ [?]" -> "auṇādikas thakpratyayaḥ" (ಔಣಾದಿಕಸ್ಥಕ್ಪ್ರತ್ಯಯಃ).
 Accents as printed set on the Saṃhitā of Ṛks 62.6–62.13 (doubts on 62.6, 62.7, 62.8, 62.9, 62.11, 62.12 -> doubts page). Header vargas: pp. 31–47 Varga 2; p. 49 prints Varga 3; pp. 51–59 Varga 3. Left open (doubts page p31-60): 6 accent rows, Uṇ. 1-250/2-274 (p. 42), Uṇ. 3-374 (p. 46), ātmann annabho (p. 31), kyaṅ/kyaj (p. 60).
+w6a unit 5: Sūkta 63, printed pp. 61–90 (Ṛks 63.1–63.8). Better scan PDF = printed + 19 checked on each page viewed.
+  p. 61: Ā. 8-2 [?] -> 8-7
+  p. 61: varga 4, 5 [?] -> 4, 5
+  p. 61: Varga [?] -> 4
+  p. 61: Ā. 8-[2] (anuvāda) -> 8-7
+  p. 62: U. 2-80 [?] -> 2-81 (printed on p. 63)
+  p. 63: Ni. [2-9, ?] -> 2-9
+  p. 63: Varga [?] -> (glyph broken, left [?])
+  p. 64: Ni. [3-3?, ?] -> 3-13
+  p. 64: Ni. [?] -> 2-24
+  p. 64: Ni. [1-5?, ?] -> 1-5
+  p. 64: Ni. [3-13?, ?] -> 3-13
+  p. 65: Uṇ. Sū. 2-[81, ?] -> 2-239
+  p. 65: Varga [?] -> 4
+  p. 67: Ni. 2-12 [?] -> 7-17
+  p. 67: Varga [?] -> 4
+  p. 68: Ni. [2-1, ?] -> 3-1
+  p. 68: Ni. [3-25?] -> 2-28
+  p. 68: Ni. [3-16?, ?] -> 3-19
+  p. 68: Ni. [2-12, ?] -> 7-17
+  p. 69: Varga [?] -> 4
+  p. 71: U. 1-38 [?] -> 1-38
+  p. 71: U. 4-131 [?] -> 4-12
+  p. 71: Pā. 7-1-85 [?] -> 7-1-85
+  p. 71: Varga [?] -> 4
+  p. 72: Ni. [3-3?, ?] -> 3-13
+  p. 72: Ni. [2-9?, ?] -> 3-9
+  p. 73: Uṇ. Sū. 4-[132] -> 4-452
+  p. 73: Varga [?] -> 4
+  p. 75: Ni. 11-25 [?] -> 11-25
+  p. 75: Varga [?] -> 4
+  p. 76: Ni. [11-25] (2x) -> 11-25
+  p. 77: Varga [?] -> 4
+  p. 78: Pā. 7-4-36 [?] -> 7-4-36
+  p. 78: Pā. 3-3-77 [?] -> 3-3-77
+  p. 79: Varga [?] -> 4
+  p. 81: U. 4-196 [?] -> 4-196
+  p. 81: Ma. 6-3-109-6 [?] -> 6-3-109-6
+  p. 81: Varga [?] -> 5
+  p. 82: Ni. [2-8?, ?] -> 3-9
+  p. 83: Ni. [2-10, ?] -> 3-9
+  p. 83: Phiṭ Sū. [?] -> 74
+  p. 83: Varga [?] -> 5
+  p. 85: Ni. 2-24 [?] -> 2-24
+  p. 85: Varga [?] -> 5
+  p. 86: Ni. [2-24, ?] -> 2-24
+  p. 88: Pā. 6-1-28 [?] -> 6-1-28
+  p. 89: Kā. 6-4-141-1 [?] -> 6-4-141-1
+  p. 89: Ni. [1-12?, ?] -> 2-24 [?]
+  p. 89: Ni. [2-7?, ?] -> 3-9 [?]
+  p. 89: Varga [?] -> 5
+  p. 90: Ni. [1-4, ?] -> 2-4
+  p. 87: Varga [?] -> 5
+Words: p. 62 bhāṣya "amūmucaḥ [?]" -> "amūmuca ity" (ಯಾದಮೂಮುಚ ಇತ್ಯರ್ಥಃ); "prayogaś chāndasaḥ [?]" -> "pāṭhaś chāndasaḥ" (ಪಾಠಶ್ಛಾಂದಸಃ).
+Words: p. 71 bhāṣya "teṣu nivasatīti [?]" -> "teṣu nivasatīti patestha" (ಪತೇಸ್ಥ, as printed); "diva ud ity ṛtvam" as printed.
+Words: p. 74 bhāṣya "yad ubhnāḥ [?] ātubhnāḥ [?] āhiṃsīḥ" -> "yadyadobhnāḥ [?] atubhnāḥ ahiṃsīḥ" (as printed; first word doubtful); p. 75 "veti aikārasya" -> "vety ūkārasya" (ವೇತ್ಯೂಕಾರಸ್ಯ).
+Words: p. 78 bhāṣya "asmadīyāyāśvāya [?]" -> "asmad arvate 'smadīyāyāśvāya"; "anicchan starse [?]" -> "anicchan vartase"; "cikīrṣase [?]" -> "cakṛṣe" (all as printed).
+Words: p. 81 bhāṣya "yair yoddhṛbhiḥ [?] ūtir" -> "yaiṣotir" (ಯೈಷೋತಿರ); "udake 'nuṭṭ [?]" -> "udake nuṭ ca" (ಉದಕೇ ನುಟ್ಚ).
+Words: p. 83 Special Topics quotations checked (mīḷhuṣṭama śivatama; tām̐ ā rudrasya); Phiṭ "nañ-svarau" -> "nyaṅsvarau svaritau" (ನ್ಯಙ್ ಸ್ವರೌ ಸ್ವರಿತೌ).
+Words: p. 85 bhāṣya "sipi adivac ceti … luk [?]" -> "sipy adādivac ceti … luk" (ಸಿಪ್ಯದಾದಿವಚ್ಚೇತಿ); "abhaitsīḥ" confirmed.
+Words: p. 88 bhāṣya "citrāṃ cāyanīyāṃ [?] tvām [?] iṣam" -> "citrāṃ cāyanīyāṃ tyāṃ tām iṣam" (ತ್ಯಾಂ ತಾಮಿಷಮನ್ನಂ); "luṅi [?]", "nipātitaḥ [?]" confirmed.
+Accents as printed set on the Saṃhitā of Ṛks 63.1–63.8 ([accent ?] on 63.2, 63.3, 63.5, 63.6, 63.7 -> doubts page). Header vargas: p. 61 Varga 4 (Sūkta heading varga 4, 5), pp. 65–79 Varga 4, pp. 81–89 Varga 5; p. 63 broken. Left open (doubts page p61-90): 5 accent rows, p. 63 varga, p. 74 yadyadobhnāḥ, p. 89 Ni. 2-24/3-9. New tool: vol6/tools/thumb_w6a.py (thumbnail with line indices).
