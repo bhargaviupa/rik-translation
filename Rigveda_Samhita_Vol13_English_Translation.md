@@ -3934,4 +3934,48 @@ Number of ṛks in the Sūkta: 5 · Ṛṣi: ṛks 1, 3, 4 Indra; ṛks 2, 5 Aga
 
 ---
 
-**Progress note:** printed p. 176 (PDF 196) done — Sūkta 169 complete (8 ṛks, pp. 146–175); Sūkta 170 (5 ṛks) heading block and Ṛk 1 Saṃhitā + Pada written. Next: printed p. 177 (PDF 197): bhāṣya of Sūkta 170 Ṛk 1. Open flags: small-type numerals [?]; Sūkta 170 heading Sanskrit [?]; review/doubts_v13.json.
+### Printed p. 177  (PDF 197)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; a signature mark "XIII 12" is printed at the foot.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> परिदेवनप्रकारः प्रतिपाद्यते । इन्द्र आह । अद्येतेनं [?] यदस्ति तन्नूनमद्य नास्ति । नूनमत्र विचिकित्सार्थे । अत्राद्येति यद्यपि नास्ति तथाप्युत्तरवाक्ये श्व इति दर्शनादद्येति गम्यते । तथा श्वोऽपि नूनं नो । उशब्दोऽवधारणे । श्वस्तनमपि नैव नास्ति । अद्य यथास्मदर्थं निरुप्तमस्मभ्यं नास्ति किल श्वः कथं लप्स्यत इति भावः । यदद्भुतमन्यस्मै निरुप्यान्यस्मै दत्तमिति यदस्ति वैपरीत्यं तत्को वेद । यद्वा । यदद्भुतं भावि कार्यं यदस्ति तत्को वेद । अद्य श्वो वा लभ्यत इत्याशा न कार्येत्युक्तं भवति । तदेवाह । अभि सञ्चरेण्यं सर्वतः सञ्चार्यस्यान्यस्य चित्तं मानसं जानातीति शेषः । उतापि चाधीतमाध्यातं [?] चिन्तितमपि न दृश्यं [?] किमु सकृत्स्पृष्टं वि नश्यतीति ॥
+
+*Gist:* Indra laments: what exists today is not certain, nor what will be tomorrow; who can know such a wonder (that what was prepared for one is given to another)? The mind of another is unsteady, and even what was well studied is forgotten.
+
+**Pratipadārtha.** *(adya* — what may happen today*)* ; *nūnam* — certainly; *nāsti* — is not known; *śvaḥ* — tomorrow (what may happen, too); *no* — will not be known (so); *yat adbhutam* — what wonderful matter; *tat* — that; *kaḥ* — what man by himself; *veda* — can know?; *abhi* — everywhere (in all subjects); *saṃcareṇyam* — moving about; *anyasya* — of another man; *cittam* — the mind; *(jānāti* — knows?*)* ; *uta* — also; *ādhītam* — that which has been well practised; *vi naśyati* — is lost (forgotten in the course of time).
+
+**Bhāvārtha.** (Indra speaks thus:) O Agastya, what will happen today or tomorrow is not known to anyone. Who by himself can know such a wonderful matter (that is, the events that will occur in the future)? How, then, could one know the mind of another man who is engaged in various activities? It cannot be; for even a matter that has been well practised is forgotten in the course of time.
+
+**English Translation (as printed):** (Indra speaks),— It is not certain what to-day or what tomorrow will yield to us: who comprehends this mystery? Verily, the mind of any other (being) is of an unsteady (nature), and even that which has been profoundly studied, is (in time) forgotten.
+
+### Printed p. 178  (PDF 198)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***na nūnam*** — *adyatanaṃ yadasti tadadya nāsti | nūnamatra vicikitsārthe*: among the three kinds of divisions made by time — past, present, future — the meaning is that the division belonging to the present, "today", does not exist. In this ṛk the word *adya* ("today") is not used. Even so, since in the following sentence the word *śvaḥ* ("tomorrow"), denoting future time, is used, Sāyaṇa explains that it is proper to supply (*adhyāhāra*) the word *adya* in this sentence: "*adya iti yadyapi nāsti tathāpi uttaravākye śvaḥ iti darśanāt adyeti gamyate*". Yāska says:
+
+> नूनमिति विचिकित्सार्थीयो भाषायामुभयमन्वध्यायं विचिकित्सार्थीयश्च पदपूरणश्च
+
+> *nūnam iti vicikitsārthīyo bhāṣāyām ubhayam anvadhyāyaṃ vicikitsārthīyaś ca padapūraṇaś ca*
+
+(Ni. 1-[?]) — the word *nūnam* is used in the sense of doubt (*vicikitsā*) in the ordinary language also, and in the Veda (*chandas*) it is used both in the sense of doubt and in the sense of a filler (*padapūraṇa*): thus he explains. Durgācārya explains the word *vicikitsā* as "*vicikitsā nāma vivekapūrvako avadhāraṇābhiprāyaḥ*" — doubt is, in situations where doubt arises, the intention of arriving at a decision through deliberation. Sāyaṇa supports that here the word *nūnam* is used in the sense of *vicikitsā*.
+
+***śvaḥ nūnaṃ na*** — *tathā śvastanam api naiva nāsti*: just as there is no division made by present time, the designation of future time, *śvaḥ* ("tomorrow"), is also absent: this meaning is explained. Here Sāyaṇa cites Yāska:
+
+> अत्र यास्कः—अगस्त्य इन्द्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सां चकार स इन्द्र एत्य परिदेवयाञ्चक्रे
+
+> *atra yāskaḥ—agastya indrāya havirnirupya marudbhyaḥ saṃpraditsāṃ cakāra sa indra etya paridevayāñcakre*
+
+(Ni. 1-[?]) — Yāska says that when the sage Agastya had prepared an oblation for Indra and wished to give it to the Marut-gods, Indra, since the oblation prepared for him was to be offered to others, lamented his sorrow; the meaning that this is indicated by this mantra is given, and he quotes this statement.
+
+***adya yathā asmadarthaṃ niruptam asmabhyaṃ nāsti kila śvaḥ kathaṃ lapsyate*** — "today the oblation prepared for us is not available to us; how shall it be obtained tomorrow?": the manner of Indra's grief is described thus: "Having prepared the oblation for me today, when I did not get it, how can I hope that I shall get it tomorrow?"
+
+***yadadbhutaṃ tat ko veda*** — *anyasmai nirupyānyasmai dattam iti yadasti vaiparītyaṃ tat ko veda*: that one prepares an oblation for one and gives it to another — who can know such a reversal? (continued on the next page).
+
+---
+
+**Progress note:** printed p. 178 (PDF 198) done — Sūkta 170 Ṛk 1 through Special Topics (continues p. 179). Next: printed p. 179 (PDF 199). Open flags: Ṛk 1 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
