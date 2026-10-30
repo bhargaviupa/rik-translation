@@ -5262,10 +5262,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 70.2 *(printed "3 || 4 ||")*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **गर्भो यो अपां गर्भो वनानां गर्भश्च स्थातां गर्भश्चरथाम् ।**
-> **अद्रौ चिदस्मा अन्तर्दुरोणे विशां न विश्वो अमृतः स्वाधीः ॥ ३ ॥ ४ ॥**
+> **गर्भो॒ यो अ॒पां गर्भो॒ वना॑नां॒ गर्भश्च स्था॒तां गर्भ॑श्च॒र॑थाम् ।**
+> **अद्रौ॑ चिदस्मा अ॒न्तर्दुरो॒णे विशां॒ न विश्वो अ॒मृतः स्वाधीः ॥ ३ ॥ ४ ॥**
 > *garbho yo apāṃ garbho vanānāṃ garbhaś ca sthātāṃ garbhaś carathām |*
 > *adrau cid asmā antar duroṇe viśāṃ na viśvo amṛtaḥ svādhīḥ || 3 || 4 ||*
 
@@ -5306,9 +5306,9 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 **॥ विशेषविषयाः ॥ — Special Topics** *(Kannada)*
 
-- **अपां गर्भः** — *garbhavad antarvartī apāṃnapāt saṃjñaḥ* — "Agni is named *Apāṃnapāt* because he lives in the middle of the waters. This deity, Apāṃnapāt, is one of the middle-region deities. The word *apāṃnapāt* is read in the Nirukta (Ni. [10-?], as read). In this word, the word *napāt* is explained as 'offspring' (*apatya*); here it is used in the sense of 'grandson'. Explaining Agni as the grandson of the waters, the Ṛk '*apāṃ napāt…yo 'bhir indro vṛṣabhir…*' (Ṛk. Saṃ. 10-30-4, as read, ?) is quoted as an example [print compressed, ?]. Sāyaṇa explains that the sacrificers who offer oblations to Agni, who is famous under various names in the waters, the forests, the immovable things such as wood, and the moving beings, offer oblations even in places hard to enter — in the middle of mountains. Skandasvāmin says Agni has his dwelling in the mountains in this way, and also in the middle of the sacrificial hall where the sacrifice is performed."
+- **अपां गर्भः** — *garbhavad antarvartī apāṃnapāt saṃjñaḥ* — "Agni is named *Apāṃnapāt* because he lives in the middle of the waters. This deity, Apāṃnapāt, is one of the middle-region deities. The word *apāṃnapāt* is read in the Nirukta (Ni. 10-18, as printed). In this word, the word *napāt* is explained as 'offspring' (*apatya*); here it is used in the sense of 'grandson'. Explaining Agni as the grandson of the waters, the Ṛk '*apāṃ napāt…yo 'bhir indro vṛṣabhir…*' (Ṛk. Saṃ. 10-30-4, as printed) is quoted as an example [print compressed, ?]. Sāyaṇa explains that the sacrificers who offer oblations to Agni, who is famous under various names in the waters, the forests, the immovable things such as wood, and the moving beings, offer oblations even in places hard to enter — in the middle of mountains. Skandasvāmin says Agni has his dwelling in the mountains in this way, and also in the middle of the sacrificial hall where the sacrifice is performed."
 - **विशां न विश्वः अमृतः स्वाधीः** — *suṣena sthāpayitā rājā prajānāṃ rakṣaṇarūpaśobhanakarmayukto bhavati tathā amaraṇadharmā agniḥ śobhanādhyāno vā asmākaṃ bhavatu* — "as a king who ponders what is good for all subjects does what is favourable to them, so may Agni, in the form of a deity, grant what we have resolved. Sāyaṇa explains it by taking the *na* of the Nirukta as an *upamārtha* [word of comparison].
-  *Skandasvāmin:* on *viśām* — '*yaṣṭṝṇām, stotṝṇām*', 'of those who perform sacrifices, or of those who praise'; and *viśvaḥ* [he takes] as 'one who does all the works, therefore Agni has become established as a fully conceived deity'; and *na* [he takes] 'also, in the sense of *sampratī*' (Ni. [?]), and on the sentence '*yavān nāmram uṣaso na pratīkam*' (Ṛk. Saṃ. 10-[?]) gives its meaning with the clause that follows." *(Compressed; the Ṛgveda and Nirukta references are read doubtfully [?].)*
+  *Skandasvāmin:* on *viśām* — '*yaṣṭṝṇām, stotṝṇām*', 'of those who perform sacrifices, or of those who praise'; and *viśvaḥ* [he takes] as 'one who does all the works, therefore Agni has become established as a fully conceived deity'; and *na* [he takes] 'also, in the sense of *sampratī*' (Ni. 7-31, as printed), and on the sentence '*yavān nāmram uṣaso na pratīkam*' (Ṛk. Saṃ. 10-88-19 [?], digits 8/9 and the last digit doubtful) gives its meaning with the clause that follows." *(Compressed; the Ṛgveda and Nirukta references are read doubtfully [?].)*
 
 ---
 
@@ -5320,15 +5320,15 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 Words treated: *apām* (*ap*; genitive plural; acute on the ending by the sūtra on *ūḍidaṃpadādi…*); *sthātām* (root *sthā*, *kvip* by Pā. [3-2-76?], tuk-augment by Vedic usage, or an Uṇādi affix; loss of *ā* before *ām*; acute by "*sāvekācas tṛtīyādiḥ*" — *सावेकाचस्तृतीयादिः* / *sāvekācas tṛtīyādiḥ* — "of a word with a single vowel, the endings from the third case on take the acute"); *carathām* (root *car*; affix *atha* by "*śīrṣaś cirugami…*", Uṇ. [3-113?]; the *nuṭ* of *hrasvanadyāpo nuṭ* does not come, by the rule *āgamaśāstram anityam* — "the grammar of augments is not constant"; lengthening of like vowels; acute on the *ra* by the affix's first-syllable acute); *viśām* (genitive plural, same acute rule as above); *viśvaḥ* (root *viś*, "to enter"; *kvan* by the Uṇādi sūtra "*āśiśṛṣilaṭikaṇi…*", Uṇ. [1-154?]; no guṇa because the affix is *kit*; initial acute because it is *nit*, by "*ñnityādir nityam*"). Ends "॥ ३–४ ॥" (as read). *Grammar page, noted briefly.*
 
-**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.3** *(printed Ṛk "5 || 6 ||")*
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.3** *(printed Ṛk "5 || 6 ||")* *(accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)*
 
-> स हि क्षपावाँ अग्नी रयीणां दाशद्यो अस्मा अरं सूक्तैः ।
-> एता चिकित्वो भूमा नि पाहि देवानां जन्म मर्तांश्च विद्वान् ॥ ५ ॥ ६ ॥
+> स हि क्ष॒पावाँ॑ अ॒ग्नी र॑यी॒णां दाश॒द्यो॑ अ॒स्मा अरं॑ सू॒क्तैः ।
+> ए॒ता चि॑कि॒त्वो भूमा॒ नि पा॑हि दे॒वानां॒ ज॒न्म मर्तां॑श्च वि॒द्वान् ॥ ५ ॥ ६ ॥
 
 *sa hi kṣapāvāṃ agnī rayīṇāṃ dāśad yo asmā araṃ sūktaiḥ |
 etā cikitvo bhūmā ni pāhi devānāṃ janma martāṃśca vidvān ||5||6||*
 
-*(Reading note: the printed "5 || 6 ||" are the two half-Ṛk numbers, joined in one four-pāda Ṛk, as with the earlier Riks of this sūkta. Accents not reproduced.)*
+*(Reading note: the printed "5 || 6 ||" are the two half-Ṛk numbers, joined in one four-pāda Ṛk, as with the earlier Riks of this sūkta. Accents set as read (see label).)*
 
 ---
 
@@ -5351,7 +5351,7 @@ etā cikitvo bhūmā ni pāhi devānāṃ janma martāṃśca vidvān ||5||6||*
 
 *(Reading note: the bhāṣya text here is read from a clear print; the Taittirīya and Nirukta numerals and the bracketed "[maluṃ]" completion are doubtful [?].)*
 
-*Meaning:* Agni is *kṣapāvān*: *kṣapā* is a name of night; he is "possessed of night", for "the night belongs to Agni" (Tai. Brā. [?]), the night being connected with Agni, since the oblation "Agni is light, light is Agni, svāhā" is offered into him (Tai. Brā. [?]). Or he is one who is joined with the destruction (*kṣapaṇa*) of the demons and the like. Such an Agni gives (*dāśat*) the riches to the sacrificer who praises him in due manner with well-spoken hymns (*sūktaiḥ*) — that is, adequately. "O *cikitvaḥ*" — knowing one (Yāska, Ni. [?]); O all-knowing Agni, knowing the births of the gods, Indra and the rest, and of mortals, men, protect well these beings that live upon the earth; because you know all gods, men and the rest, you are so addressed.
+*Meaning:* Agni is *kṣapāvān*: *kṣapā* is a name of night; he is "possessed of night", for "the night belongs to Agni" (Tai. Brā. 2-1-2-7), the night being connected with Agni, since the oblation "Agni is light, light is Agni, svāhā" is offered into him (Tai. Brā. 2-1-2-10). Or he is one who is joined with the destruction (*kṣapaṇa*) of the demons and the like. Such an Agni gives (*dāśat*) the riches to the sacrificer who praises him in due manner with well-spoken hymns (*sūktaiḥ*) — that is, adequately. "O *cikitvaḥ*" — knowing one (Yāska, Ni. [?]); O all-knowing Agni, knowing the births of the gods, Indra and the rest, and of mortals, men, protect well these beings that live upon the earth; because you know all gods, men and the rest, you are so addressed.
 
 **Grammatical tail of the bhāṣya** *(characterized, not transcribed)*: *rayīṇām* (genitive of the object of giving, in the sense of the dative); *dāśat* (root *dāś*, *leṭ*, with the *aḍ*-augment); *aram* (formed by the sūtra on *vālamūle…*, as read); *sūktaiḥ* (*kta* after *su* by the comparison, Pā. [6-1-139?], so that the accent is on the final of the first member); *cikitvaḥ* (*matuvasoḥ… ruḥ*, the change to *ru* for the final of the vocative); *bhūma* (the dvitīyā plural ending replaced by *ḍā* by *supāṃ sulug…*); shortening in the Padakāla.
 
@@ -5377,7 +5377,7 @@ Agni, who is related to the night, and is the destroyer of the demons for the sa
 
 **॥ विशेषविषयाः ॥ — Special Topics** *(Kannada; begun here)*
 
-- **अग्निः क्षपावान्** — *kṣapā iti rātrināma* — "*Kṣapā* is a name of night. 'The night belongs to Agni' (Tai. Brā. [1-1-9-2?], as read); 'Agni is light, light is Agni, svāhā' (Tai. Brā. [1-1-9-10?]). Or: being joined with the destruction of the demons — Agni is closely connected with the night; for the word *kṣapā* is read among the twenty-two [as read, ?] names of night (Ni. [1-?]); when the word *kṣapā* has the acute on its final it means the night; when on the first syllable it denotes 'destroying'. Examples of both senses are '*nṛṇāṃ nṛtomaḥ kṣapāvān*' (Ṛk. Saṃ. 10-[?]) and '*tvam asi kṣapāvān*' (Ṛk. Saṃ. 8-[?]), which are the two kinds of sense. The Taittirīya Brāhmaṇa too says that night is related to Agni, and those who sacrifice offer the oblation to Agni with the mantra 'Agni is light'. Since Agni destroys the demons greatly, and since the root *kṣap* has the sense of destruction, Agni is *kṣapāvān*." *(Compressed; the Ṛgveda and Nirukta numerals [?], and the details of the accent remark are read doubtfully [?].)*
+- **अग्निः क्षपावान्** — *kṣapā iti rātrināma* — "*Kṣapā* is a name of night. 'The night belongs to Agni' (Tai. Brā. 2-1-2-7, as printed); 'Agni is light, light is Agni, svāhā' (Tai. Brā. 2-1-2-10). Or: being joined with the destruction of the demons — Agni is closely connected with the night; for the word *kṣapā* is read among the twenty-two [as read, ?] names of night (Ni. [1-?]); when the word *kṣapā* has the acute on its final it means the night; when on the first syllable it denotes 'destroying'. Examples of both senses are '*nṛṇāṃ nṛtomaḥ kṣapāvān*' (Ṛk. Saṃ. 10-[?]) and '*tvam asi kṣapāvān*' (Ṛk. Saṃ. 8-[?]), which are the two kinds of sense. The Taittirīya Brāhmaṇa too says that night is related to Agni, and those who sacrifice offer the oblation to Agni with the mantra 'Agni is light'. Since Agni destroys the demons greatly, and since the root *kṣap* has the sense of destruction, Agni is *kṣapāvān*." *(Compressed; the Ṛgveda and Nirukta numerals [?], and the details of the accent remark are read doubtfully [?].)*
 - **Skandasvāmin:** "*kṣapā iti rātrināma*" — *kṣapā* is a name of night. Though Agni is connected with both day and night, his connection with night is special; since Agni gives much light, he is necessarily so. Because of this connection with light, Agni is designated *kṣapāvān*. Or: (the word) is one that destroys weakness by increasing the power of praises." *(The page breaks off here; continued on p. 270.)*
 
 ---
@@ -5402,15 +5402,15 @@ Words treated: *kṣapāvān* (*matup*; *mādupadhāyāḥ…*, the *ma* of *mat
 
 **Grammar page of Rik 70.3 (concluded; noted briefly):** *bhūma* (feminine stem in *i*; the *ḍā*-substitution for the ending by *supāṃ sulug…*; because of the *ḍit* the stem loses its *ṭi* [final *i*] though it lacks *bha*-designation; shortening occurs in the Padakāla by Vedic usage); *pāhi* (root *pā* "to protect", *loṭ* second person singular; nighāta accent because it follows *ā-ti-jan…* [as read, ?]). Ends "॥ ५–६ ॥" (as read). *Grammar page, noted briefly.*
 
-**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.4** *(printed Ṛk "7 || 8 ||", as read [?])*
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.4** *(printed Ṛk "7 || 8 ||", as read [?])* *(accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)*
 
-> वर्धान्यं पूर्वीः क्षपो विरूपाः स्थातुश्च रथमृतप्रवीतम् ।
-> अराधि होता स्वर्निषत्तः कृण्वन्विश्वान्यपांसि सत्या ॥ ७ ॥ ८ ॥
+> व॒र्धान्यं पू॒र्वीः क्ष॒पो विरू॑पाः स्था॒तुश्च रथ॑मृतप्र॑वीतम् ।
+> अराधि॒ हो॑ता॒ स्वर्नि॑षत्तः॒ कृ॑ण्वन्वि॒श्वान्यपां॑सि सत्या ॥ ७ ॥ ८ ॥
 
 *vardhān yaṃ pūrvīḥ kṣapo virūpāḥ sthātuś ca rathām ṛtapravītam |
 arādhi hotā svar niṣattaḥ kṛṇvan viśvāny apāṃsi satyā ||7||8||*
 
-*(Reading note: the Pada, printed below, divides the first word as *vardhān | yam*; the Saṃhitā is therefore "vardhān yaṃ". The Kannada numerals of the Ṛk number are hard to read — "7 || 8" is a best reading [?]. In the Saṃhitā the printed "रथमृत-" is carried over the line-end to "प्रवीतम्". Accents not reproduced.)*
+*(Reading note: the Pada, printed below, divides the first word as *vardhān | yam*; the Saṃhitā is therefore "vardhān yaṃ". The Kannada numerals of the Ṛk number are hard to read — "7 || 8" is a best reading [?]. In the Saṃhitā the printed "रथमृत-" is carried over the line-end to "प्रवीतम्". Accents set as read (see label).)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -5483,15 +5483,15 @@ May Agni, grown by the many dawns of white and dark colours and by the nights, g
 
 *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
 
-**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.5** *(printed Ṛk "9 || 10 ||", as read)*
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.5** *(printed Ṛk "9 || 10 ||", as read)* *(accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)*
 
-> गोषु प्रशस्तिं वनेषु धिषे भरंत विश्वे बलिं स्वर्णः ।
-> वि त्वा नरः पुरुत्रा सपर्यन्पितुर्न जिव्रेर्वि वेदो भरंत ॥ ९ ॥ १० ॥
+> गोषु॒ प्रश॑स्तिं॒ वने॑षु धिषे॒ भरं॑त॒ विश्वे॒ ब॒लिं स्व॑र्णः ।
+> वि त्वा॒ न॑रः पुरु॒त्रा स॑पर्यन्पि॒तुर्न जिव्रेर्वि वेदो॑ भरंत ॥ ९ ॥ १० ॥
 
 *goṣu praśastiṃ vaneṣu dhiṣe bharanta viśve baliṃ svar ṇaḥ |
 vi tvā naraḥ purutrā saparyan pitur na jivrer vi vedo bharanta ||9||10||*
 
-*(Reading note: the Kannada numerals of the Ṛk number are small; "9 || 10" is read from the print, [?]. The accents are reproduced in the print but not here.)*
+*(Reading note: the Kannada numerals of the Ṛk number are small; "9 || 10" is read from the print, [?]. Accents set as read (see label).)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -5574,9 +5574,9 @@ O Agni! May (through your grace) the best cattle and the like, and the wealth br
 
 **Grammar page of Rik 70.5 (concluded; noted briefly):** *vedaḥ* — guṇa of the light penultimate by the affix; *vedas* is a neuter stem in *s*, here the accusative singular. *bharante* — the process was explained earlier; because of the prohibition *atijaḥ* (as read) the nighāta accent is applied by *tiṅ atiṅaḥ*. Ends "॥ ९–१० ॥" (as read). *Grammar page, noted briefly.*
 
-**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.6** *(the last Ṛk of the sūkta; printed "11 ||", the Kannada numeral read as "११")*
+**॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 70.6** *(the last Ṛk of the sūkta; printed "11 ||", the Kannada numeral read as "११")* *(accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)*
 
-> साधुर्न गृध्नुरस्तेव शूरो यातेव भीमस्त्वेषः समत्सु ॥ ११ ॥
+> सा॒धुर्न गृ॒ध्नुरस्ते॑व॒ शूरो॒ या॑तेव भी॒मस्त्वेषः स॒मत्सु ॥ ११ ॥
 
 *sādhur na gṛdhnur asteva śūro yāteva bhīmas tveṣaḥ samatsu ||11||*
 

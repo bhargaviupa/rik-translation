@@ -1,6 +1,7 @@
+RANGE DONE
 # w6a part file — Vol 6 numeral/[?]/accent pass
 Range: printed pp. 1–281 (Sūktas 62–70; 65–70 dvaipada). Branch claude/pass2-vol6-a.
-Done through: printed p. 239 (PDF 258 in the better scan): Sūktas 62–68 complete.
+Done through: printed p. 281 (Sūktas 62–70; targeted pass complete).
 Next unit: Sūkta 69 (dvaipada) from p. 240 (file heading '### Page 240 (PDF 258)'; better scan PDF 259).
 Open items: doubts page vol6/review/html/Vol6_doubts_p1-12.html (6 rows: Ni. 3-9?, Pā. 1-4-1?, accents 62.2 pitaraḥ, 62.3 dhāsim/bhinadadriṃ/naraḥ); check page Vol6_verify_p1-12.html. Unit 2: Vol6_doubts_p13-20.html (5 rows: 2/7 digits in the paṇi reference lists pp. 18–19; Uṇ. 41-1?0 p. 20), Vol6_verify_p13-20.html.
 Tools: vol6/tools/lines_w6a.py (line bands of a page, crop lines by index — y fractions of the whole page, same as doubts_v6.py); pcrop_w6a.py. Note: view.py's y fractions are of the text block and did not match estimates from the whole-page view; use lines_w6a.py (line indices from its listing; x fractions are of the whole page width).
@@ -23,3 +24,5 @@ Unit 10 (pp. 203–221, Sūkta 67): Vol6_doubts_p203-221.html (7 accent rows: ma
 Unit 11 (pp. 222–239, Sūkta 68): Vol6_doubts_p222-239.html (4 accent rows). Uṇ. 1-152 on p. 226 (file had 153). p. 229 sūtra word corrected to mīmāghura…. Skandasvāmin paragraph of 68.4 continues on p. 235 (filed under p. 234). Unviewed bracketed Nirukta refs: p. 233 [2-2], p. 234 [1-12], p. 238 [3-9], 4-[4].
 
 Unit 12 (pp. 240–261, Sūkta 69, Ṛk 70.1): Saṃhitā accents set on the 6 blocks (69.1–69.5, 70.1), all marks at glyph junctions, so heavily flagged: Vol6_doubts_p240-261.html (7 rows: 6 accent rows + p. 247 Ṛk. Saṃ. 1-6?-10, 5 vs 8). Settled: p. 243 1-92-10; p. 247 5-54-6, 1-60-2. 69.1 Saṃhitā word now śuśukvāṃ (print ಶುಶುಕ್ವಾಂ). Bracketed Nirukta refs not viewed (see edits_w6a.txt). Done through p. 261 (Ṛk 70.1 Saṃhitā only; 70.2 onward not touched). Next: Sūkta 70 from p. 261 (accents of 70.2–70.5, remaining [?] lines); my range ends p. 281.
+
+Unit 13 (pp. 262–281, Ṛks 70.2–70.6): accents set on 5 Saṃhitā blocks, all flagged; doubts page Vol6_doubts_p262-281.html (6 rows incl. p. 266 Ṛk. Saṃ. 10-88-19?). Settled: p. 266 Ni. 10-18, Ni. 7-31, Ṛk 10-30-4; p. 269 Tai. Brā. 2-1-2-7 and 2-1-2-10. Open (not viewed): p. 265 Uṇ. 3-113; p. 268 Ni.; p. 269 Ni./Ṛk. numerals; p. 277 Ni. [1-12?], Ṛk [8-?]; p. 280 Uṇ. [2-28?]; running-head Varga [?].
