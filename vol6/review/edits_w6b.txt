@@ -708,3 +708,8 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 573: (Ni. [3-19] [?]) -> (Ni. 3-19 [as printed])
   p. 573: (Ni. [1-10] [?]) -> (Ni. 2-21 [as printed])
   p. 573: (Ni. [1-12] [?]) -> (Ni. 2-24 [as printed])
+  p. 583: (Ni. [2-7] [?]) -> (Ni. 3-9 [as printed])
+  p. 586: (Ni. [1-10] [?]) -> (Ni. 2-21 [as printed])
+  p. 605: (Ni. [1-12] [?]) -> (Ni. 2-24 [as printed])
+  p. 605: (Ni. [1-10] [?]) -> (Ni. 2-21 [as printed])
+  p. 614: (Ni. [11-33] [?]) -> (Ni. 12-34 [as printed])

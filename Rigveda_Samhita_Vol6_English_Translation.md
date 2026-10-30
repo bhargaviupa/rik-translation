@@ -13460,7 +13460,7 @@ mandāna indro andhasaḥ sakhibhyo gātum icchaty arcann anu svarājyam ||6||*
 - **शतपर्वणा** — *śatasaṃkhyākadhārābhir yuktena* — "the word *parvan* is used in the sense of 'edge'; the thunderbolt has a hundred, or many, edges."
 - **मन्दानः** — *madī stutau* — "for this word, derived from the root *madi*, which has the sense of praise, Sāyaṇa gives *stūyamānaḥ*, 'one who is being praised', and Skandasvāmin gives *modamānaḥ tṛpyan*, 'one who is pleased, satisfied'."
 - **सखिभ्यः** — *samānakhyānebhyaḥ stotṛbhyaḥ* — "taking the sense 'friends', Skandasvāmin, for the sake of the benefit of those who are friends, and the bhāṣyakāra, 'for the praisers who make known the proper deeds and so on', explain it."
-- **अन्धसः गातुमिच्छति** — "The word *andhaḥ* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. [2-7] [?]); so *andhaḥ* means food. The bhāṣya says that Indra desires for those who praise him a way by which food may be obtained: that is, he shows them a means of getting food."
+- **अन्धसः गातुमिच्छति** — "The word *andhaḥ* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. 3-9 [as printed]); so *andhaḥ* means food. The bhāṣya says that Indra desires for those who praise him a way by which food may be obtained: that is, he shows them a means of getting food."
 
 ---
 
@@ -13544,7 +13544,7 @@ yad dha tyaṃ māyinaṃ mṛgaṃ tam u tvaṃ māyayā vadhīr arcann anu sva
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.7)**
 
-- **अद्रिवः** — *adrir iti meghanāma* — "the word *adri* is read among the thirty names of cloud beginning *adriḥ, grāvā* (Ni. [1-10] [?]); it means 'cloud'. Because Indra has the cloud as his vehicle he is well known as 'cloud-borne'. Skandasvāmin: *adrayaḥ* — *somābhiṣavagrāvāṇaḥ*: 'stones for pressing Soma, the stones that crush the Soma juice'."
+- **अद्रिवः** — *adrir iti meghanāma* — "the word *adri* is read among the thirty names of cloud beginning *adriḥ, grāvā* (Ni. 2-21 [as printed]); it means 'cloud'. Because Indra has the cloud as his vehicle he is well known as 'cloud-borne'. Skandasvāmin: *adrayaḥ* — *somābhiṣavagrāvāṇaḥ*: 'stones for pressing Soma, the stones that crush the Soma juice'."
 - **अनुत्तम्** — "The word *anuttam* is a *nipātita* word. *Nipāta* means that, because the separate analysis into stem and affix is not clearly seen, the words are simply read as such. It is also said to be an indeclinable. They explain that for the word *anuttam* the meaning is 'power not subject to being repelled', that is, the power Indra possesses. In this sense the word is an epithet of the word *vīryam*."
 - **मायिनं मृगं मायया वधीः** — "Sāyaṇa explains that Indra destroys by guile itself Vṛtra, who is in the form of a deer (*mṛga*), a cheat who creates trouble (*hiṃsā*) for the world. Skandasvāmin explains: the cloud named *mṛga*, which is to be sought for the sake of sending down the asura or the rain, since no one else was able to strike it, you strike it by guile and thus set a limit to the (threat to the) protection of your sovereignty (*svarājyarakṣaṇa*), the empire.
 
@@ -14112,7 +14112,7 @@ ahim indra jighāṃsato divi te badbadhe śavo 'rcann anu svarājyam ||13||*
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.13)**
 
 - **बद्बधे** — *badha bandhane* — "the root *badha* conveys the sense of binding; used in the passive sense, *badbadhe* means 'was bound'. *Divi badbadhe* — 'in heaven was bound' means: *anusyūtaṃ baddhaṃ vyāptam*, 'pervaded, spread'. The sense is: it shone, pervading the whole sky."
-- **अहिम्** — "the word *ahi*, as it is stated among the hundred and one names of water (Ni. [1-12] [?]), is stated also among the thirty names of cloud (Ni. [1-10] [?]). Sāyaṇa explains it as *āgatya hantāram*, 'one who strikes, having come in front'. Skandasvāmin explains that the word *ahi* has the senses 'cloud' and 'Vṛtra'."
+- **अहिम्** — "the word *ahi*, as it is stated among the hundred and one names of water (Ni. 2-24 [as printed]), is stated also among the thirty names of cloud (Ni. 2-21 [as printed]). Sāyaṇa explains it as *āgatya hantāram*, 'one who strikes, having come in front'. Skandasvāmin explains that the word *ahi* has the senses 'cloud' and 'Vṛtra'."
 - **वृत्रं तव चाशनिं वज्रेण** — "though *aśani* here means 'the thunderbolt-weapon', here the general sense 'weapon' must be given. The sense is that Indra struck both Vṛtra and his weapon well, with his thunderbolt."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.13)** *(grammar page, noted briefly; runs to p. 606)*
@@ -14382,7 +14382,7 @@ tasmin brahmāṇi pūrvathendra ukthā samagmatārcann anu svarājyam ||16||*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.16)**
 
-- **मनुः** — "Among the names of the deities of the middle region — *Aśvinau, Uṣāḥ* and so on — the words *manuḥ, dadhyaṅ, atharvā* are stated (Ni. [11-33] [?]). The ṛṣi Atharvan, and Manu, and the ṛṣi Dadhyañc, son of Atharvan — all the rites performed by them are connected with Indra."
+- **मनुः** — "Among the names of the deities of the middle region — *Aśvinau, Uṣāḥ* and so on — the words *manuḥ, dadhyaṅ, atharvā* are stated (Ni. 12-34 [as printed]). The ṛṣi Atharvan, and Manu, and the ṛṣi Dadhyañc, son of Atharvan — all the rites performed by them are connected with Indra."
 - **उक्था** — "praises that make known the greatness of the respective deities in sacrifices."
 - **ब्रह्माणि** — "the word means oblations such as *havis*, offered into the fire with a deity as the object."
 - **पूर्वथा** — "this word shows the relation of the illustration and what is illustrated (*dṛṣṭānta-dārṣṭāntika*). In the sense that, in the time when the sages *Vasiṣṭha* and others of former times performed sacrifices, the oblations and praises went to Indra" *(the sentence breaks off at the foot of p. 614 and continues on p. 615)*
