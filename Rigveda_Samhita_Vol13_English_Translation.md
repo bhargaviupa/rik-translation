@@ -1662,4 +1662,60 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 70 (PDF 90) done — Sūkta 166 Ṛk 15 in progress (Special Topics: māndāryasya; continues on p. 71). Next: printed p. 71 (PDF 91). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 71  (PDF 91)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Special Topics (continued).**
+
+***mānyasya*** — *varapradānādibhiḥ* (by you) honourable: since you favour those who praise, with the granting of boons and the like — this is the purport.
+
+***kāroḥ*** — since the word *kāru* is read among the thirteen names of the praiser, *rebhaḥ*, *jaritā* and the rest (Ni. 3-16 [?]), *kāroḥ* means "of the praiser". And for the word *kāru* he has also given the derivation "*yajñasya kartārau* (*ṛtvijau*)" — "the priests who take part in a sacrifice" (Ni. 9-13 [?]).
+
+***tanve*** — *yuṣmacchararīravṛddhyai*: for the increase of your (bodies); it is well known that deities who are praised, grow. In many ṛks, in place of words meaning "to praise", the word *vṛddhi* ("growth") is used. For example:
+
+> त्वां स्तोमा अवीवृधन् त्वामुक्था शतक्रतो । त्वां वर्धन्तु नो गिरः ॥
+
+> *tvāṃ stomā avīvṛdhan tvāmukthā śatakrato | tvāṃ vardhantu no giraḥ ‖*
+
+(Ṛ. Saṃ. 1-5-8)
+
+> इमा उ त्वा पुरूवसो गिरो वर्धन्तु या मम ।
+
+> *imā u tvā purūvaso giro vardhantu yā mama |*
+
+(Ṛ. Saṃ. 8-1-3 [?])
+
+> अग्निं वर्धन्तु नो गिरो यतो जायत उक्थ्यः ।
+
+> *agniṃ vardhantu no giro yato jāyata ukthyaḥ |*
+
+(Ṛ. Saṃ. 3-10-6 [?])
+
+> वर्धन्तु त्वा सुष्टुतयो गिरो मे यूयं पात स्वस्तिभिः सदा नः ।
+
+> *vardhantu tvā suṣṭutayo giro me yūyaṃ pāta svastibhiḥ sadā naḥ |*
+
+(Ṛ. Saṃ. 7-99-7 [?]) — in ṛks like these it is said that deities grow by the praises made by the priests.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *māndāryasya* (from the root *madi stutimodamadasvapnakāntigatiṣu*, and from the root *īra gatau preraṇe ca*; from these it is obtained by *pṛṣodarādīni yathopadiṣṭam*). *kāroḥ* (root *ḍukṛñ karaṇe*; *karotīti kāruḥ*; suffix *uṇ* by *kṛvāpājimisvadisādhyaśūbhya uṇ* Uṇ. 1-1; being *ṇit*, *vṛddhi* by *aco 'ñṇiti*; final acute by the suffix). *iṣā* (root *iṣu icchāyām*; *kvip* by *kvip ca*; instrumental singular; *sānekācaś ca tṛtīyādiḥ* Pā. 6-1-168 gives the acute to the case-ending).
+
+### Printed p. 72  (PDF 92)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Vyākaraṇa-prakriyā (continued).** *yāsīṣṭa* (root *yā prāpaṇe*; by *vyatyayo bahulam* ātmanepada; *liṅ* 3rd singular *ta*; *suṭ tithoḥ* Pā. 3-4-107 gives *suṭ*; *liṅaḥ sīyuṭ* Pā. 3-4-102 gives *sīyuṭ*; *y* dropped; *nighāta* after a non-*tiṅanta*). *tanve* (the word *tanū*, dative singular; *tanādīnāṃ chandasy upasaṃkhyānam* gives *yaṇ*-substitution; *udāttasvaritayor yaṇaḥ svaritaḥ* Pā. 8-2-4 gives *svarita* to the case-ending). *vayām* (*asmad* + *jas*; *jasaḥ śī* … *prathamayor am* Pā. 7-1-28 gives *am* for the suffix; *yūyavayau jasi* Pā. 7-2-93 gives *vaya* for the base; *ā* by *vyatyaya*). *vidyāma* (root *vida lābhe*; *liṅ* 1st plural; since it is at the start of the pāda no *nighāta*; the suffix gets the initial acute). *jīradānum* (*jīraḥ dānur yasya saḥ jīradānuḥ taṃ*; *bahuvrīhau prakṛtyā pūrvapadam* gives the first member's accent). ‖ 15 ‖
+
+*The hundred and sixty-sixth Sūkta is ended.* (ನೂರ ಅರವತ್ತಾರನೇ ಸೂಕ್ತ ಮುಗಿದುದು.)
+
+## Sūkta 167 — *sahasraṃ te svapivāta* (Anuvāka 23, third Sūkta; 11 ṛks)
+
+*(Heading, p. 72: "The hundred and sixty-seventh Sūkta" — ನೂರ ಅರವತ್ತೇಳನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सहस्रं ते इत्येकादशर्चं तृतीयं सूक्तमागस्त्यं त्रैष्टुभम् । आद्येन्द्री शिष्टा मरुद्देवताकाः पूर्वत्र हिशब्दात् । सहस्रमेकादशाद्यैन्द्रीत्यनुक्रमणिका ॥ विशेषविनियोगो लैङ्गिकः ॥
+
+*Gist:* The third sūkta (*sahasraṃ te*), of eleven ṛks, seen by Agastya, in triṣṭubh; the first ṛk is addressed to Indra, the rest to the Maruts (because of *hi* in the preceding sūkta); the Anukramaṇikā: "*sahasram ekādaśādyaindrī*". Special application by indication.
+
+**Anuvāda (Kannada).** This Sūkta beginning *sahasraṃ te* is the third Sūkta in the twenty-third anuvāka. It has eleven ṛks. Agastya is the ṛṣi of this Sūkta. The metre is *triṣṭubh*. The first ṛk has Indra as its deity; the remaining ṛks are addressed to the Maruts. The Anukramaṇikā says: "*sahasram ekādaśādyaindrī*". The special application (*viniyoga*) is by indication.
+
+---
+
+**Progress note:** printed p. 72 (PDF 92) done — SŪKTA 166 COMPLETE (printed pp. 2–72, 15 ṛks). Sūkta 167 begun (heading, bhāṣya, anuvāda). Next: printed p. 73 (PDF 93): Sūkta 167 heading block and Ṛk 1. Open flags: small-type numerals [?] (see vol13/review/doubts_v13.json, ~37 entries); no Kannada file (lean mode).
