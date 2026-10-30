@@ -5698,5 +5698,29 @@
   ],
   "note": "refs Rg 5-57-1, 10-86-21, 8-25-5, 1-34 small; 'sprapradanu' quote garbled",
   "answer": ""
+ },
+ {
+  "pdf": 583,
+  "printed": 563,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals; Un sutras partly garbled; Rk4 Samhita 'samavavasitam' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 584,
+  "printed": 564,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 very dense; 'arepasapau', 'tadrgjahattva' garbled; refs Ni 12-1, 12-3, Rg 1-116-12",
+  "answer": ""
  }
 ]

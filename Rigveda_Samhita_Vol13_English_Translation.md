@@ -15731,4 +15731,50 @@ The Nirukta-writers have read the word *dhiṣaṇā* among the names of "speech
 
 ---
 
-**Progress note:** printed p. 562 (PDF 582) done — Sūkta 181 Ṛk 3 Special Topics (dhiṣṇyā, avaniḥ, ahaṃpūrvaḥ, suvitāyai, sṛpravandhuraḥ; continues p. 563 with grammar). Next: printed p. 563 (PDF 583). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 563  (PDF 583)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 563.)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***avaniḥ*** — root *ava rakṣaṇe*; by "*artisṛdhṛdhmā…*" (Uṇ. Sū. 2-[?]) the suffix *ani*; the suffix takes the *ādyudātta* accent.
+- ***pravatvān*** — root *vana paṇa sambhaktau*; the suffix *kvip* when *pra* precedes; by "*gamādīnām iti vaktavyam*" (Pā. Sū. 6-4-40 [?]) elision of the nasal *n* of the root; by "*hrasvasya piti kṛti tuk*" the augment *tuk*; the *kṛdutta* final member keeps its natural accent. *pravat asya asti iti pravatvān*; by "*mādupadhāyāś ca…*" *va* for the *m* of *matup*; since *matup* is *pit*, it is *anudātta*; nominative singular.
+- ***gamyāḥ*** — root *gamḷ gatau*; by "*vyatyayo bahulam*" the second person singular ending has come in place of the third person singular of *liṅ*; by "*bahulaṃ chandasi*" elision of the *vikaraṇa*; therefore no *ā* substitution; being in an *atiṅanta* word-position, the *nighāta* accent occurs.
+- ***sthātārā*** — root *ṣṭhā gatinivṛttau*; the suffix *tṛc* in the agent; the vocative dual following, by "*supāṃ sulak…*" *ā* is substituted; being in the vocative, the *nighāta* accent.
+- ***yajataḥ*** — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; by "*bhṛmṛdṛśiyajiparvipacibhyo 'tac*" (Uṇ. Sū. 3-110 [?]) the suffix *atac*; by "*citaḥ*" the final syllable is *udātta*.
+- ***dhiṣṇyā*** — root *ñidhṛṣā prāgalbhye*; by "*sānasi varṇasi parṇasi…*" (Uṇ. Sū. 4-[?]) the form is irregularly derived, ending in the suffix *ṇya*; *ā* is substituted for the case-ending *au*; being in the vocative, the *nighāta* accent. ‖ 3 ‖
+
+---
+
+**Sūkta 181, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> इहेह जाता समवावशीतामरेपसा तन्वा नामभिः स्वैः ।
+> जिष्णुर्वामन्यः सुमखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> इहऽइह । जाता । सम् । अवावशीताम् । अरेपसा । तन्वा । नामऽभिः । स्वैः ।
+> जिष्णुः । वाम् । अन्यः । सुऽमखस्य । सूरिः । दिवः । अन्यः । सुऽभगः । पुत्रः । ऊहे ॥ ४ ॥
+
+> *iha 'iha | jātā | sam | avāvaśītām | arepasā | tanvā | nāma 'bhiḥ | svaiḥ |*
+> *jiṣṇuḥ | vām | anyaḥ | su 'makhasya | sūriḥ | divaḥ | anyaḥ | su 'bhagaḥ | putraḥ | ūhe ‖ 4 ‖*
+
+### Printed p. 564  (PDF 584)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 564.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवां समवावशीताम् । सह सम्यग्गत्वा पुनःपुनः स्तूयेथे कामयेथां वा यज्ञम् ॥ पुरुषव्यत्ययः ॥ कीदृशौ युवाम् । इहेह जाता । उभाभ्यामिहशब्दाभ्यां मध्यमोत्तमस्थाने उच्येते । तयोः सम्भूतौ । चन्द्रसूर्येणेति यावत् । सूर्याचन्द्रमसाविव्येके । नि. १२-१ [?] । इति निरुक्तम् । अरेपसापौ [?] । अथर्वणस्य गुरोः शिरश्छेदनादिना पापलेपरहितावितिभावः । आथर्वणायाश्विना दधीचेऽश्व्यं शिरः प्रत्यैरयतम् । ऋ. १-११६-१२ [?] । इत्यादि मन्त्रवर्णात् । केन हेतुनेति उच्यते । तन्वा शरीरेण शरीरसौन्दर्येण निमित्तेन स्वैर्नामभिः स्वीयैर्नासत्यादिभिर्नामभिरपि । रमणीयशरीरवत्त्वान्मनोज्ञनामवत्त्वाच्च हेतोः संस्तूयेथे इत्यर्थः । यद्वा । अरेपसा तन्वेति योज्यम् । उक्तप्रकारेण गुरुशिरश्छेदादिप्यपापेन शीर्ष्णेण तादृग्जहत्त्व [?] … अपनेनेति यावत् । किंच वां युवयोरन्य एको मध्यमस्थानान्तरिक्षस्य पुत्रस्थानीयः सोमो वै जिष्णुर्जयशीलः सुमखस्य शोभनयज्ञस्य सूरिः प्रेरयिता सन्नूहे । वहति । विश्वं जगद्धारयति । चन्द्रात्तेनस्योदये सति ह्योषधिवनस्पत्यादयो वर्धन्ते । अन्योऽपर उत्तमस्थानो दिवो द्युलोकस्य पुत्रः पुत्रस्थानीय आदित्यः सुभगः शोभनरश्मिरूपधन ऊहे । वहति । कृत्स्नमेवं पृथग्जगन्निर्वाहकौ महानुभावौ युवां सह स्तूयेथे । अत्र निरुक्तम् । इहेह जातौ संस्तूयेथे पापेनालिप्यमानया तन्वा नामभिश्च स्वैर्जिष्णुर्वामन्यः सुमहतो बलस्येरयिता मध्यमो दिवोऽन्यः सुभगः पुत्र उह्यत आदित्यः । नि. १२-३ [?] । इति ॥ [as read; the passage is dense and several phrases are doubtful [?]]
+
+*Gist:* The two Aśvins, born in the middle region and in the highest heaven (as moon and sun), are praised for their fair bodies and names; one, victorious, impels the good sacrifice; the other, the Āditya, bears the world.
+
+**Pratipadārtha**
+
+**iha** — here (in the middle region, as the moon); **iha** — here (in the highest region, as the sun); **jātā** — born; **tanvā** — by beauty of body; (and) **svaiḥ nāmabhiḥ** — by your own names, Nāsatya and others; **arepasā** — free from fault; (*he* **Aśvinau**) **yuvām** — you two; **saṃ avāvaśītām** — are praised well, again and again, or are longed for at the sacrifice; (**kiṃ ca**) **vām** — of you two; **anyaḥ** — one (in the form of the moon of the middle region); **jiṣṇuḥ** — the victorious; **sumakhasya** — of the good sacrifice; **sūriḥ** — the impeller; **ūhe** — (carries the world); (and) **divaḥ putraḥ** — the son of heaven, the highest region; **anyaḥ** — the other, in the form of the Āditya; **subhagaḥ** — rich in auspicious rays; (**ūhe** — carries the world.)
+
+---
+
+**Progress note:** printed p. 564 (PDF 584) done — Sūkta 181 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya, Pratipadārtha written (Bhāvārtha next). Next: printed p. 565 (PDF 585). Open flags: refs [?]; bhāṣya Ṛk4 dense [?]; review/doubts_v13.json.
