@@ -17308,4 +17308,50 @@ In this, what we must chiefly notice is that, for *catasraḥ nāvaḥ* in the �
 
 ---
 
-**Progress note:** printed p. 618 (PDF 638) done — Sūkta 182 Ṛk 6 ends (grammar); Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 619 (PDF 639): Ṛk 7 Special Topics. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 619  (PDF 639)
+
+*(Header: "A. 2 A. 4 Va. 28"; "Ṛgvedasaṃhitā"; page 619.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Śromatāya** — "*kīrtimattvāya*" — "so as to be famous", is the meaning given. This word is formed from the root *śru*, "to hear" (*śru* + *mat*); and since it is used in other places also, only the sense "fit to be heard" is given. For example:
+
+> स्ववत्त इन्द्र स्वतवाभिरूती वंसीमहि वामं श्रोमतेभिः ।
+> ईक्षे हि वस्व उभयस्य राजन्धा रत्नं महि स्थूरं बृहन्तम् ॥
+
+> *svavatta indra svatavābhirūtī vaṃsīmahi vāmaṃ śromatebhiḥ |*
+> *īkṣe hi vasva ubhayasya rājandhā ratnaṃ mahi sthūraṃ bṛhantam ‖*
+
+(Ṛ. Saṃ. 6-19-10; first line as read, doubtful [?]) — in ṛks such as these, having first said "*śromatebhiḥ*", the purport "with fame (*yaśobhiḥ*)" is afterwards given. In the ṛk at hand also, the purport is likewise.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *niṣṭhitaḥ* — *nir* prefix; root *ṣṭhā gatinivṛttau*; suffix *kta* following; "*dyatisyati māsthām*" (Pā. Sū. 7-4-40 [?]) gives *i* for the root's *ā*; "*gatiranantaraḥ*" (Pā. Sū. 6-2-49 [?]) gives the *gati* its natural accent. *nādhitaḥ* — root *nādhṛ yācñāyām*; when *kta* comes, the augment *iṭ*; by the suffix accent, final acute. *paryasasvajat* [printed "paryaṣasvajat"] — *pari* prefix; root *ṣvañja pariṣvaṅge*; by *vyatyaya* it becomes *parasmaipada*; *laṅ* third person singular, *tip*; "*itaś ca*" elides *i* [as read]; *śap* as *vikaraṇa*; "*daṃśasañjasvañjāṃ śapi*" (Pā. Sū. 6-4-25 [?]) — the penultimate *n* is elided when *śap* follows; *aṅga* takes *āṭ*; "*yady-vṛttāc cin-nityam*" … *nighāta* accent is prohibited; by the *āḍ* accent, initial acute; "*tiṅ-ci-odāttavati*" (Pā. Sū. 8-1-71 [?]) — the *gati* (*pari*) is wholly unaccented. *pataroḥ* — root *paṭlṛ gatau* [as read]; the suffix *aru* by "*oṇādika*"; the suffix's initial acute; genitive singular form. *śromatāya* — root *śru śravaṇe*; "*pṛṣodarādīni yathopadiṣṭam*" (Pā. Sū. 6-3-109) — the intended suffix and accents are accomplished.  ‖ 7 ‖
+
+### Printed p. 620  (PDF 640)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 620.)*
+
+### Sūkta 182, Ṛk 8  (printed p. 620; PDF 640)
+
+**Saṃhitā-pāṭha**
+
+> तद्वां नरा नासत्यावनु ष्याद्यद्वां मानास उचथमवोचन् ।
+> अस्मादद्य सदसः सोम्यादा विद्यामेषं वृजनं जीरदानुम् ॥ ८ ॥
+
+**Pada-pāṭha**
+
+> तत् । वां । नरा । नासत्या । अनु । स्यात् । यत् । वां । मानासः । उचथं । अवोचन् ।
+> अस्मात् । अद्य । सदसः । सोम्यात् । आ । विद्याम । इषं । वृजनं । जीरऽदानुम् ॥ ८ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे नरा नेतारौ कर्मणो नराकारौ वा हे नासत्यावसत्यैरहितौ सत्यफलौ वा वां युवां तत्तादृशं स्तोत्रमनु स्यात् । अनुकूलं भवतु । अनुभवतु वा वां । तदित्युक्तं यदित्याह । वां प्रति मानासः पूजावन्तोऽस्मदीया होत्रादयो यदुचथं स्तोत्रमवोचन् अकुर्वन् तद्वामनु स्यात् । हे अश्विनौ अद्य प्रधानयागदिनेऽस्मादस्माभिः क्रियमाणात्सदसः संबन्धिनः सोम्यात् सोमयागसंपादकात् । आ इत्यैच्छ्र्थे । अस्माभिर्यजमानैरद्य क्रियमाणादपि स्तोत्रात् प्रीणयेतमिति । विद्यामेति गतम् ॥
+
+*(Sanskrit as read; "aicchrthe"/"aicchārthe" doubtful [?]. Gist: may the praise that our priests have spoken to you be favourable to you; be pleased today by the praise made at this Soma-sacrifice; the rest "as explained before".)*
+
+**Pratipadārtha** — **narā** — leaders of the sacrifice (or: of human form); **nāsatyā** — givers of true fruit (those free from untruth); O Aśvin deities; **vāṃ (prati)** — in respect of you two; **mānāsaḥ** — (our) hotṛs etc., the ones who perform worship; **yat uchathaṃ** — which praise; **avocan** — they have spoken; **tat** — that praise; **vāṃ** — to you two; **anu syāt** — may it be favourable; **tat** — that praise; **vāṃ** — you two; **anu syāt** — may you experience (and); **adya** — on this principal sacrificial day; **asmāt** — from us (being made); **sadasaḥ** — pertaining to the sacrificial hall; **somyāt** — from the Soma-accomplishing; and from this praise (be pleased); **iṣaṃ** — food; **vṛjanaṃ** — strength; **jīradānuṃ** — long life; **vidyāma** — may we (pleased, from you) obtain.
+
+**Bhāvārtha** — O Aśvin deities, leaders of the sacrifice and free from untruth: the praise made to you by us, the worshipping hotṛs and the other priests, and the praise made today on the principal sacrificial day, in the sacrificial hall, in the Soma-sacrifice, by us —
+
+---
+
+**Progress note:** printed p. 620 (PDF 640) done — Sūkta 182 Ṛk 7 ends (Special Topics, grammar); Ṛk 8 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (continues p. 621). Next: printed p. 621 (PDF 641). Open flags: refs [?]; review/doubts_v13.json.
