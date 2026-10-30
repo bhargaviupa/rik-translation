@@ -11,6 +11,7 @@ while args:
     if a=='--from-page': frm=int(args.pop(0))
     elif a=='--include':
         while args and ':' in args[0] and not args[0].endswith('.json'): inc.append(args.pop(0))
+    elif a.strip('-‑–—')=='' : continue   # stray separator
     else: files.append(a)
 rows=[]; seen=set()
 for f in files:
