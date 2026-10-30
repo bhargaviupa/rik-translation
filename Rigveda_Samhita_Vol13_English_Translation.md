@@ -7394,4 +7394,67 @@ Then the Brāhmaṇas said to King Śaṃtanu, "You have committed *adharma* by 
 
 ---
 
-**Progress note:** printed p. 292 (PDF 312) done — Sūkta 173 Ṛk 8 Special Topics (samudra, Devāpi story, viśvā gauḥ; continues p. 293). Next: printed p. 293 (PDF 313). Open flags: Ṛg/Nirukta refs [?]; Nirukta story quotes partly [?]; review/doubts_v13.json.
+### Printed p. 293  (PDF 313)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+Under the word *gauḥ*, the explanation of the meanings "earth", "animal" and so on has been given earlier. In the present context, this word bears the sense of "*yajñāhuti*" (the oblation offered in sacrifice), or the meaning "rays of the Sun, the cause of rain", which suits the context. If *āhuti* is meant, then the oblations and other wealth that may be obtained by Indra are indicated.
+
+> गा दास्यति गोदा गा मे देहीत्येवं यं कामं कामयते सोऽस्मै कामः समृध्यते ।
+
+> *gā dāsyati godā gā me dehīty evaṃ yaṃ kāmaṃ kāmayate so 'smai kāmaḥ samṛdhyate* |
+
+(Śa. Brā. 1-9-3-16 [?]) — and in such sentences the refined meaning of the word *go* has been shown earlier; it will also be explained further on.
+
+***sūrīṃś cit dhiṣā veṣi*** — the word *sūri* is read among the names of praisers (Ni. 3-19 [?]). Sāyaṇa has explained that Indra, in order to be favourable to the praising people who impel him by *stotras* and other acts, by wisdom (*prajñayā*) or by an act such as the giving of rain (*vṛṣṭipradānarūpeṇa karmaṇā vā*), favours them with wisdom or with rain, and is therefore always the fit object of their praise.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***evā*** — of a *nipāta*, by "*nipātasya ca*" (Pā. Sū. 6-3-136 [?]) the long vowel occurs in the Saṃhitā.
+- ***savanā*** — root *ṣuñ abhiṣave*; *lyuṭ* in the locative sense; by "*yuvor anākau*" (Pā. Sū. 7-1-1 [?]) *ana*; in the neuter plural, "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) drops *śi*; by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix is *udātta*.
+- ***madanti*** — root *mada tṛptiyoge*; since the activity of the instigator is shown, the root includes *ṇic* in sense; *laṭ*, third person plural; because of the relative (*yadyoga*), no *nighāta*; the *sārvadhātuka* *la* being *anudātta*, the root accent remains.
+- ***devīḥ*** — *supāṃ sulug*… (Pā. Sū. 7-1-39 [?]): *jas* following, the preceding *savarṇadīrgha* appears.
+- ***joṣyā*** — root *juṣī prītisevanayoḥ*; suffix *yat* in the sense of fitness; by "*pugantalaghūpadhasya ca*" the light-vowel guṇa; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the first syllable is *udātta*.
+- ***bhūt*** — root *bhū sattāyām*; Vedic *luṅ* in the present sense; by "*gātisthāghu*…" (Pā. Sū. 2-4-77 [?]) *luk* for *sic*; no augment Vedically; *nighāta* accent for a *tiṅ*.
+
+### Printed p. 294  (PDF 314)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+- ***veṣi*** — root *vī gatyādiṣu*; used here in the sense of desire; *laṭ*, second person singular; by "*nipātair yad yadi*…" (Pā. Sū. 8-1-30 [?]), because of the connection with *yadi*, no *nighāta*; *sip* being *pit*, it is *anudātta*, so the root accent remains. ‖ 8 ‖
+
+---
+
+**Sūkta 173, Ṛk 9**
+
+**Saṃhitā-pāṭha**
+
+> असाम यथा सुषखाय एन स्वभिष्टयो नरां न शंसैः ।
+> असद्यथा नो इन्द्रो वन्दनेष्ठास्तुरो न कर्म नयमान उक्था ॥ ९ ॥
+
+> *asāma yathā suṣakhāya ena svabhiṣṭayo narāṃ na śaṃsaiḥ |*
+> *asad yathā no indro vandaneṣṭhās turo na karma nayamāna ukthā ‖ 9 ‖*
+
+**Pada-pāṭha**
+
+> असाम । यथा । सुऽसखायः । एन । सुऽअभिष्टयः । नराम् । न । शंसैः ।
+> असत् । यथा । नः । इन्द्रः । वन्दनेऽस्थाः । तुरः । न । कर्म । नयमानः । उक्था ॥ ९ ॥
+
+> *asāma | yathā | su-sakhāyaḥ | ena | su-abhiṣṭayaḥ | narām | na | śaṃsaiḥ |*
+> *asat | yathā | naḥ | indraḥ | vandane-sthāḥ | turaḥ | na | karma | nayamānaḥ | ukthā ‖ 9 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे एनेश्वरेन्द्र यथा सुसखायः शोभनतेद्रूपसहायवन्तोऽसाम भूयास्म [?] किंच स्वभिष्टयः शोभनाभ्येषणाः शोभनाभीष्टाश्चासाम । किमिव । नरां न शंसैः । नराणां राजादीनां शंसैः शंसनैरिव । स्तुतिभिर्यथा मनुष्याः शोभनाभीष्टा भवन्ति तद्वत् । इदानीं परोक्षेणाह । नोऽस्मभ्यमिन्द्रो वन्दनेष्ठा अस्मत्स्तुतौ वर्तमानः संस्तुतो न त्वरमाण इव नोऽस्माकं कर्मोक्थैः शस्त्रैर्गीयमानः फलं प्रापयेन् स्तुत्या तुष्टः सन्नस्मदीयेन कर्मणा फलप्रापयिता यथासत् भवेत् । हे ऋत्विजः तथा कुरुतेति शेषः ॥ [?]
+
+> *he eneśvarendra yathā susakhāyaḥ śobhanatedrūpasahāyavanto 'sāma bhūyāsma [?] kiṃca svabhiṣṭayaḥ śobhanābhyeṣaṇāḥ śobhanābhīṣṭāś cāsāma | kim iva | narāṃ na śaṃsaiḥ | narāṇāṃ rājādīnāṃ śaṃsaiḥ śaṃsanair iva | stutibhir yathā manuṣyāḥ śobhanābhīṣṭā bhavanti tadvat | idānīṃ parokṣeṇāha | no 'smabhyam indro vandaneṣṭhā asmatstutau vartamānaḥ saṃstuto na tvaramāṇa iva no 'smākaṃ karmokthaiḥ śastrair gīyamānaḥ phalaṃ prāpayen stutyā tuṣṭaḥ sann asmadīyena karmaṇā phalaprāpayitā yathāsat bhavet | he ṛtvijaḥ tathā kurutety śeṣaḥ ‖* [?]
+
+*Gist:* O Indra, may we be well befriended and fulfil our wishes, as men do by the praises of kings and the like; and may Indra, praised by our hymns and *śastras*, come speedily and grant the fruit of our rites.
+
+**Pratipadārtha (Kannada, translated)**
+
+*he ena* — O Indra, the lord; *yathā* — as; *susakhāyaḥ* — having you, the beneficent one, as friend; *narām* — of men, kings and the like; *śaṃsaiḥ na* — as by praise they obtain their wishes; *su-abhiṣṭayaḥ* — those who have auspicious desires; *asāma* — may we become (so favour us); (*kiñca he ṛtvijaḥ* — and, O priests;) *naḥ* — for us; *indraḥ* — Indra; *vandaneṣṭhāḥ* — he who is in our praise (pleased by our praise); *turaḥ na* —
+
+---
+
+**Progress note:** printed p. 294 (PDF 314) done — Sūkta 173 Ṛk 8 complete; Ṛk 9: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 295). Next: printed p. 295 (PDF 315). Open flags: Ṛk 9 bhāṣya doubtful ('tedrūpa', 'phalaprāpayen') [?]; sūtra numerals [?]; review/doubts_v13.json.
