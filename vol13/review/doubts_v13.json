@@ -6442,5 +6442,29 @@
   ],
   "note": "Ai.Br. quote as read [?]; Ni. 3-30 ref [?]; Rg bha. ref",
   "answer": ""
+ },
+ {
+  "pdf": 643,
+  "printed": 623,
+  "crop": [
+   0.3,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ai.Br. ref 10-4 [?]; grammar sutra/Unadi numerals [?]; wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 644,
+  "printed": 624,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "Sukta 183 Varga numeral 29 as read [?]",
+  "answer": ""
  }
 ]

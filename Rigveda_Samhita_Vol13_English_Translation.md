@@ -17418,4 +17418,59 @@ In this, what we must chiefly notice is that, for *catasraḥ nāvaḥ* in the �
 
 ---
 
-**Progress note:** printed p. 622 (PDF 642) done — Sūkta 182 Ṛk 8 printed English, Special Topics begun (mānāsaḥ / Agastya-māna; Keith; sadasaḥ / Aitareya-Brāhmaṇa; continues p. 623). Next: printed p. 623 (PDF 643). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 623  (PDF 643)
+
+*(Header: "A. 2 A. 4 Va. 28"; "Ṛgvedasaṃhitā"; page 623.)*
+
+*(Special Topics, continued.)* … made it of iron-like form, the sky of silver form, heaven of golden form, and the asuras, moving in these (the three worlds as fortresses) like strongholds. Then the devas, having turned the earth into the form of the *sadas*, were afraid of their (the asuras') might; thus the story of the origin of the *sadas* is told. And:
+
+> देवासुरा वा एषु लोकेषु समयतन्त ते वै देवाः सद एवायतनमकुर्वत तान्सदसोऽजयन् ।
+
+> *devāsurā vā eṣu lokeṣu samayatanta te vai devāḥ sada evāyatanamakurvata tānsadaso 'jayan |*
+
+(Ai. Brā. 10-4 [?]) — here, resorting to the *sadas*, they fought the asuras and conquered the three worlds; thus the greatness of the *sadas* is told.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *narā* — "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) — the vocative dual takes the ā-substitution; the vocative has the *nighāta* accent. *syāt* — root *asa bhuvi*; *liṅ* third person singular, suffix *tip*; elision of the *i*; *yāsuṭ* augment; "*śnasoralloṇaḥ*" … (Pā. Sū. 6-4-111 [?]) elides the *a* of the root. *mānāsaḥ* — root *mana jñāne*; suffix *ghañ*; "*ata upadhāyāḥ*" (Pā. Sū. 7-2-116) gives vṛddhi of the penultimate; in Vedic usage *luk* for the *matup*-sense suffix; since the suffix has *ñ*, initial acute; with *jas* following, "*ājjaser asuk*" (Pā. Sū. 7-1-50 [?]) gives the augment *asuk* to it. *uchatham* — root *vac paribhāṣaṇe*; suffix *kit*-type *thak* [as read] by "*ruvidibhyāṃ kit*" (Un. Sū. 3-?? [?]) — the suffix and *kit*-ness come by the *bahula* rule; "*vacisvapiyajādīnāṃ kiti*" (Pā. Sū. 6-1-15 [?]) gives *saṃprasāraṇa* of *v* into *u*; the suffix's initial acute. *avocan* — the root as before, *luṅ* third person plural; since *yat* is connected, there is no *nighāta*; the *āḍāgama* being acute, the first syllable is acute. *somyāt* — "*somam arhati yaḥ*" (Pā. Sū. 5-1-?? [?]) gives suffix *ya*; "*yasyeti ca*" (Pā. Sū. 6-4-148) elides the earlier *a*; the suffix's accent; fifth case singular form.  ‖ 8 ‖
+
+Here ends the hundred and eighty-second Sūkta.
+
+### Printed p. 624  (PDF 644)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 624.)*
+
+### Sūkta 183  (printed p. 624; PDF 644)
+
+**The hundred and eighty-third Sūkta**
+
+> तं युञ्जाथामिति षडृचं चतुर्थं सूक्तं त्रैष्टुभमागस्त्यमाश्विनम् ॥
+
+*(Anukramaṇikā, as printed.)*
+
+**Anuvāda** — The Sūkta beginning *taṃ yuñjāthāṃ* is the fourth Sūkta in the twenty-fourth Anuvāka. It has six ṛks. The ṛṣi of this Sūkta is Agastya; the deity is the Aśvin deities themselves; the metre is *Triṣṭubh*. As said of the preceding Sūktas, at the time of reciting the Prātaranuvāka-mantras, this Sūkta is used for the *Triṣṭubh* mantras connected with the Āśvina-śastra.
+
+**Sūkta — 183**
+Maṇḍala — 1 ‖ Anuvāka — 24 ‖ Sūkta — 183 ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 29 ‖ (as read [?])
+Number of ṛks in the Sūkta — 6
+Ṛṣi — Agastya
+Devatā — the Aśvin deities
+Chandas — Triṣṭubh
+
+### Sūkta 183, Ṛk 1  (printed p. 624; PDF 644)
+
+**Saṃhitā-pāṭha**
+
+> तं युञ्जाथां मनसो यो जवीयान्त्रिवन्धुरो वृषणा यस्त्रिचक्रः ।
+> येनोपयाथः सुकृतो दुरोणं त्रिधातुना पतथो विर्न पर्णैः ॥ १ ॥
+
+**Pada-pāṭha**
+
+> तं । युञ्जाथां । मनसः । यः । जवीयान् । त्रिऽबन्धुरः । वृषणा । यः । त्रिऽचक्रः ।
+> येन । उपऽयाथः । सुऽकृतः । दुरोणं । त्रिऽधातुना । पतथः । विः । न । पर्णैः ॥ १ ॥
+
+> *taṃ | yuñjāthāṃ | manasaḥ | yaḥ | javīyān | tri 'bandhuraḥ | vṛṣaṇā | yaḥ | tri 'cakraḥ |*
+> *yena | upa 'yāthaḥ | su 'kṛtaḥ | duroṇaṃ | tri 'dhātunā | patathaḥ | viḥ | na | parṇaiḥ ‖ 1 ‖*
+
+---
+
+**Progress note:** printed p. 624 (PDF 644) done — Sūkta 182 complete (Ṛk 8 grammar, closing); Sūkta 183 (6 ṛks) heading, anuvāda, Ṛk 1 Saṃhitā, Pada. Next: printed p. 625 (PDF 645): Ṛk 1 bhāṣya onward. Open flags: refs [?]; review/doubts_v13.json.
