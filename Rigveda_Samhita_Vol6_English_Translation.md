@@ -5723,8 +5723,8 @@ The fingers, with love (devotion), first worship Agni — the trusted, the worsh
 **॥ विशेषविषयगळು ॥ — Special Topics** *(Kannada)*
 
 - The source says that this Ṛk describes the ever-necessary and most excellent connection of the fingers, with devotion and faith, with the worship that is done to Agni. It compares this connection to the attentions a wife full of excessive love pays to her husband, and to the service which the rays pay to the dawn, which is shining by its own radiance and still increases in beauty by the rays. **यथा रश्मयः उषसा नित्यसंबद्धाः इति तात्पर्यार्थः** — "In the way the dawn and the rays are always connected, so the fingers and Agni are always connected, as the offerings and attentions in the sacrifices are being given always to Agni": thus Sāyaṇa explains the purport.
-- **सनीळाः** — "The word *nīḷa* means 'house', as it is read among the twenty-two names of the house, *gayaḥ*, *kṣayaḥ*, *durāḥ* and so on (Ni. [3-13?]); and the word *nīḷa* itself is used in many places as a word for sections of a house. Here *sanīḷāḥ* — those having a common dwelling — is used as an adjective for the fingers: the meaning is that all of them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. [9-72-2?] the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for the fingers. Ordinarily the *Maruts*, who always live together, are likewise given the epithet, in the places [1-165-1; 7-56-1?] where the Maruts are described."
-- **स्वसारः** — "As *agruvaḥ*, *aṇvyaḥ* and so on, it is read among the twenty-two names of the fingers (Ni. [3-9?]); hence it means 'fingers' (*svayam eva sarantī aṅgulayaḥ* — 'they go of themselves'). Because they move of their own accord for the work of Agni, they are *svasāraḥ* ('sisters' [i.e., 'self-going']). *Sanīḷāḥ* and *svasāraḥ* are epithets that commonly occur together for the fingers." *(Continued on p. 286.)*
+- **सनीळाः** — "The word *nīḷa* means 'house', as it is read among the twenty-two names of the house, *gayaḥ*, *kṣayaḥ*, *durāḥ* and so on (Ni. 3-13); and the word *nīḷa* itself is used in many places as a word for sections of a house. Here *sanīḷāḥ* — those having a common dwelling — is used as an adjective for the fingers: the meaning is that all of them lie together in one common hand. So also in Ṛks like Ṛk. Saṃ. [9-72-2?] the words *sanīḷābhiḥ*, *sanīḷāḥ* are used as adjectives for the fingers. Ordinarily the *Maruts*, who always live together, are likewise given the epithet, in the places [1-165-1; 7-56-1?] where the Maruts are described."
+- **स्वसारः** — "As *agruvaḥ*, *aṇvyaḥ* and so on, it is read among the twenty-two names of the fingers (Ni. 3-9); hence it means 'fingers' (*svayam eva sarantī aṅgulayaḥ* — 'they go of themselves'). Because they move of their own accord for the work of Agni, they are *svasāraḥ* ('sisters' [i.e., 'self-going']). *Sanīḷāḥ* and *svasāraḥ* are epithets that commonly occur together for the fingers." *(Continued on p. 286.)*
 
 ---
 
@@ -5771,13 +5771,13 @@ Words treated: *jinvan* (root *jivi* in the sense of pleasing; *num* by *idito n
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.2** *(printed Ṛk "2 ||")*
 
-> वीळु चिद्दृळ्हा पितरो न उक्थैरद्रिं रुजन्नङ्गिरसो रवेण ।
-> चक्रुर्दिवो बृहतो गातुमस्मे अहः स्वर्विविदुः केतुमुस्राः ॥ २ ॥
+*(Accents as printed; in the second line no anudātta mark is visible under "ke" of *ketum* [accent ?].)*
 
-*vīḷu cid dṛḷhā pitaro na ukthair adriṃ rujann aṅgiraso raveṇa |
-cakrur divo bṛhato gātum asme ahaḥ svar vividuḥ ketum usrāḥ ||2||*
+> वी॒ळु चि॑द्दृ॒ळ्हा पि॒तरो॑ न उ॒क्थैरद्रिं॑ रुज॒न्नङ्गि॑रसो॒ रवे॑ण ।
+> च॒क्रुर्दि॒वो बृ॑ह॒तो गा॒तुम॒स्मे अहः॒ स्व॑र्विविदुः केतुमु॒स्राः ॥ २ ॥
 
-*(Accents are marked in the print; not reproduced.)*
+*vīḷú cid dṛḷhā́ pitáro na ukthaír ádriṃ rujann áṅgiraso ráveṇa |
+cakrúr divó bṛható gātúm asmé áhaḥ svàr vividuḥ ketum usrā́ḥ ||2||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -5792,15 +5792,15 @@ cakrur divo bṛhato gātum asme ahaḥ svar vividuḥ ketum usrāḥ ||2||*
 
 ### Page 289 (PDF 307)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 19".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15"; foot signature "VI 19".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.2**
 
-> नोऽस्माकं पितरोऽङ्गिरस एतत्संज्ञा ऋषय उक्थैः शस्त्रैरग्निं स्तुत्वा वीळु चिद्दृळ्हा । वीळिति बलनाम । बलवंतं दृढांगमप्यद्रिमत्तारं पणिनामानमसुरं रवेण स्तुतिशब्दमात्रेणैव रुजन् । अभंजन् । तैः स्तुतोऽग्निस्तमसुरं हतवानित्यर्थः । किंच बृहतो महतो दिवो द्युलोकस्य गातुं मार्गमस्मे अस्माकं चक्रुः । कृतवंतः । आवरकस्यासुरस्याग्निना हतत्वात् । मार्गं कृत्वा च स्वः सुष्ठुअरणीयमसुरराहित्येन सुखेन प्राप्यमहर्दिवसं विविदुः । अजानन् लब्धवंतो वा । तथा केतुमस्माकं केतयितारं ज्ञापयितारमादित्यमुस्राः पणिनापहृता गाश्च विविदुरित्यनुषंगः ॥ वीळु । सुपां सुलुगिति विभक्तेर्लुक् । दृळ्हा । दृढः स्थूलबलयोः । पा. [७-२-२०] इति निपातितः । सुपां सुलुगिति डादेशः । रुजन् । रुजो भङ्गे । तौदादिकः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । विविदुः । विद ज्ञाने विद्लृ लाभ इति वा । लिट्युसि रूपं ॥
+> नोऽस्माकं पितरोऽङ्गिरस एतत्संज्ञा ऋषय उक्थैः शस्त्रैरग्निं स्तुत्वा वीळु चिद्दृळ्हा । वीळिति बलनाम । बलवंतं दृढांगमप्यद्रिमत्तारं पणिनामानमसुरं रवेण स्तुतिशब्दमात्रेणैव रुजन् । अभंजन् । तैः स्तुतोऽग्निस्तमसुरं हतवानित्यर्थः । किंच बृहतो महतो दिवो द्युलोकस्य गातुं मार्गमस्मे अस्माकं चक्रुः । कृतवंतः । आवरकस्यासुरस्याग्निना हतत्वात् । मार्गं कृत्वा च स्वः सुष्ठ्वरणीयमसुरराहित्येन सुखेन प्राप्यमहर्दिवसं विविदुः । अजानन् लब्धवंतो वा । तथा केतुमस्माकं केतयितारं ज्ञापयितारमादित्यमुस्राः पणिनापहृता गाश्च विविदुरित्यनुषंगः ॥ वीळु । सुपां सुलुगिति विभक्तेर्लुक् । दृळ्हा । दृढः स्थूलबलयोः । पा. [७-२-२०] इति निपातितः । सुपां सुलुगिति डादेशः । रुजन् । रुजो भङ्गे । तौदादिकः । बहुलं छन्दस्यमाङ्योगेऽपीत्यडभावः । विविदुः । विद ज्ञाने विद्लृ लाभ इति वा । लिट्युसि रूपं ॥
 
-*no 'smākaṃ pitaro 'ṅgirasa etatsaṃjñā ṛṣayaḥ ukthaiḥ śastrair agniṃ stutvā vīḷu cid dṛḷhā | vīḷiti balanāma | balavantaṃ dṛḍhāṅgam apy adrim attāraṃ paṇināmānam asuraṃ raveṇa stuti-śabdamātreṇaiva rujan | abhañjan | taiḥ stuto 'gnis tam asuraṃ hatavān ity arthaḥ | kiṃca bṛhato mahato divo dyulokasya gātuṃ mārgam asme asmākaṃ cakruḥ | kṛtavantaḥ | āvarakasyāsurasyāgninā hatatvāt | mārgaṃ kṛtvā ca svaḥ suṣṭhu-araṇīyam asurarāhityena sukhena prāpyam ahar divasaṃ vividuḥ | ajānan labdhavanto vā | tathā ketum asmākaṃ ketayitāraṃ jñāpayitāram ādityam usrāḥ paṇinā-pahṛtā gāś ca vividur ity anuṣaṅgaḥ || vīḷu | supāṃ sulug iti vibhakter luk | dṛḷhā | dṛḍhaḥ sthūlabalayoḥ | pā. [7-2-20] iti nipātitaḥ | supāṃ sulug iti ḍādeśaḥ | rujan | rujo bhaṅge | taudādikaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | vividuḥ | vida jñāne vidḷ lābha iti vā | liṭy usi rūpaṃ ||*
+*no 'smākaṃ pitaro 'ṅgirasa etatsaṃjñā ṛṣayaḥ ukthaiḥ śastrair agniṃ stutvā vīḷu cid dṛḷhā | vīḷiti balanāma | balavantaṃ dṛḍhāṅgam apy adrim attāraṃ paṇināmānam asuraṃ raveṇa stuti-śabdamātreṇaiva rujan | abhañjan | taiḥ stuto 'gnis tam asuraṃ hatavān ity arthaḥ | kiṃca bṛhato mahato divo dyulokasya gātuṃ mārgam asme asmākaṃ cakruḥ | kṛtavantaḥ | āvarakasyāsurasyāgninā hatatvāt | mārgaṃ kṛtvā ca svaḥ suṣṭhv-araṇīyam asurarāhityena sukhena prāpyam ahar divasaṃ vividuḥ | ajānan labdhavanto vā | tathā ketum asmākaṃ ketayitāraṃ jñāpayitāram ādityam usrāḥ paṇinā-pahṛtā gāś ca vividur ity anuṣaṅgaḥ || vīḷu | supāṃ sulug iti vibhakter luk | dṛḷhā | dṛḍhaḥ sthūlabalayoḥ | pā. [7-2-20] iti nipātitaḥ | supāṃ sulug iti ḍādeśaḥ | rujan | rujo bhaṅge | taudādikaḥ | bahulaṃ chandasy amāṅyoge 'pīty aḍabhāvaḥ | vividuḥ | vida jñāne vidḷ lābha iti vā | liṭy usi rūpaṃ ||*
 
-*(Reading note: "adrim attāram" — the gloss of *adri* as "devourer" — and "suṣṭhu-araṇīyam", "paṇinā-pahṛtā" are read as printed and are doubtful in places [?]. The grammatical tail, from "vīḷu", is characterized below.)*
+*(Reading note: "adrim attāram" — the gloss of *adri* as "devourer" — "suṣṭhv-araṇīyam" (print "ಸುಷ್ಠ್ವರ-ಣೀಯಮ") and "paṇināpahṛtā" were checked against the better scan and are as printed. The grammatical tail, from "vīḷu", is characterized below.)*
 
 *Meaning:* Our fathers, the Aṅgirases — sages of this name — having praised Agni with *ukthas* (*śastras*), (made *vīḷu cid dṛḷhā* —) *vīḷu* is a name of strength — the strong, firm-limbed devourer, the *asura* by name Paṇi, *rujan* — break, by the mere sound of praise. The meaning: Agni, praised by them, killed that *asura*. Moreover, they made for us the path to the great heaven, because the enveloping *asura* was slain by Agni; and having made the path they found the day, easily attainable, well to be gone to, free from the *asura*. And they found the *ketu* — the one who makes known, the Sun — and the cows (*usrāḥ*) that had been carried off by Paṇi: such is the connection of the clauses.
 
@@ -5832,17 +5832,17 @@ The sages called Aṅgirasas, who belong to the company of our ancestors, praise
 
 - "In this Ṛk the might of Agni, who killed the *asura* called Paṇi, is described. Though this great deed is generally known as belonging to the greatness of Indra, here too it is described that Agni accomplished this great deed and obtained a pleasant way of life for the Āryas. For example:
 
-  > नैक्रूतून्ग्रथिनो मृध्रवाचः पणीरश्रद्धाँ अवृधाँ अयज्ञान् ।
-  > प्रप्र तान्दस्यूरग्निर्विवाय पूर्वश्चकारापरा अयज्यून् ॥
-  > *naikrūtūn grathino mṛdhravācaḥ paṇīr aśraddhāṃ avṛdhāṃ ayajñān | prapra tān dasyūr agnir vivāya pūrvaś cakārāparā ayajyūn ||* (Ṛk. Saṃ. [7-6-3?], as read)
+  > न्यक्रतून्ग्रथिनो मृध्रवाचः पणीँरश्रद्धाँ अवृधाँ अयज्ञान् ।
+  > प्रप्र तान्दस्यूँरग्निर्विवाय पूर्वश्चकारापराँ अयज्यून् ॥
+  > *nyakratūn grathino mṛdhravācaḥ paṇīṃr aśraddhāṃ avṛdhāṃ ayajñān | prapra tān dasyūṃr agnir vivāya pūrvaś cakārāparāṃ ayajyūn ||* (Ṛk. Saṃ. 7-6-3)
 
-  In this Ṛk the valour that destroyed the Paṇis is described, and then the benefit that the destruction brought to the sacrificing sages. The praise in this Ṛk is of the same context." *(The Sanskrit of this citation is read from a small print and is doubtful in several syllables [?]; the source leaves it untranslated; my gloss, tentative: "the Paṇis, scornful of speech, faithless, without increase and without sacrifice — Agni drove those *dasyus* far away, and made those who do not sacrifice the later ones".)*
-- **वीळु** — "*ojaḥ*, *pājaḥ*, *śavaḥ* …" — "since *vīḷu* is read among the twenty-two names of strength (Ni. [2-9?]), the word *vīḷu* has the name 'strength'."
+  In this Ṛk the valour that destroyed the Paṇis is described, and then the benefit that the destruction brought to the sacrificing sages. The praise in this Ṛk is of the same context." *(The Sanskrit of this citation was re-read from the better scan (first word "nyakratūn", candrabindus as printed); the source leaves it untranslated; my gloss, tentative: "the Paṇis, scornful of speech, faithless, without increase and without sacrifice — Agni drove those *dasyus* far away, and made those who do not sacrifice the later ones".)*
+- **वीळु** — "*ojaḥ*, *pājaḥ*, *śavaḥ* …" — "since *vīḷu* is read among the twenty-two names of strength (Ni. 3-9), the word *vīḷu* has the name 'strength'."
 - **दृळ्हा** — *dṛḍhaḥ sthūlabalayoḥ* — "firm, and in the general sense 'thick' and 'strong'. *Vīḷu dṛḷhā cit* means: though exceedingly strong, even so, with the help of Agni our fathers destroyed the demons."
-- **अद्रिम्** — *adrir ādṛṇāty anena, api vā atteḥ syāt* (Ni. [4-4?]) — "the Nirukta-writer explains that the word *adri* may come from the root *ad* 'to eat'. On the basis of this etymology the bhāṣyakāra also explains *adriṃ* as *attāraṃ paṇināmānam asuram*, 'the devourer, the *asura* named Paṇi, the eater of everything'. In the same sense, in the Ṛk
+- **अद्रिम्** — *adrir ādṛṇāty anena, api vā atteḥ syāt* (Ni. 4-4) — "the Nirukta-writer explains that the word *adri* may come from the root *ad* 'to eat'. On the basis of this etymology the bhāṣyakāra also explains *adriṃ* as *attāraṃ paṇināmānam asuram*, 'the devourer, the *asura* named Paṇi, the eater of everything'. In the same sense, in the Ṛk
 
   > ससेन चिद्विमदायावहो वस्वाजावद्रिं वावसानस्य नर्तयन् ।
-  > *sasena cid vimadāyāvaho vasvājāvadriṃ vāvasānasya nartayan* (Ṛk. Saṃ. [1-51-3?], as read)
+  > *sasena cid vimadāyāvaho vasvājāvadriṃ vāvasānasya nartayan* (Ṛk. Saṃ. 1-51-3)
 
   *adri* is explained as the thunderbolt, devourer of enemies; but the word *adri* is mostly used in the sense of 'mountain' or 'cloud' — such a meaning is less suitable here. Skandasvāmin too, explaining the word *adri* in this Ṛk as 'mountain', writes *adriṃ mṛgaparvataṃ cāsurāṇāṃ svabhūtam* [as read, ?]: though the mountain, the dwelling-place of the *asuras*, was very firm and strong, Agni split it with help" *(the Sanskrit of Skandasvāmin's note is read doubtfully [?]; the glosses are mine and tentative).*
 
@@ -5850,17 +5850,17 @@ The sages called Aṅgirasas, who belong to the company of our ancestors, praise
 
 ### Page 291 (PDF 309)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 2 [as printed; for 1], Adhyāya 5, Varga 15".)*
 
 **Special Topics of Rik 71.2 (continued)**
 
 - **केतुम्** — *ahnāṃ ketayitāraṃ jñāpayitāram ādityam* — "The one who makes known the days: the Sun, who makes known the day by his own light. Though the words 'sun' and 'moon' are synonyms, this epithet serves to make known their natures; hence it is used. For example:
 
   > नवो नवो भवति जायमानोऽह्नां केतुरुषसामेत्यग्रम् ।
-  > *navo navo bhavati jāyamāno 'hnāṃ ketur uṣasām ety agram* (Ṛk. Saṃ. [10-85-19?])
+  > *navo navo bhavati jāyamāno 'hnāṃ ketur uṣasām ety agram* (Ṛk. Saṃ. 10-85-19)
 
-  In this Ṛk the Nirukta-writer explains that the *ketu* of the days is the moon (Ni. [11-6?]). So in the Ṛk Saṃhitā the word *ketu*, in the various senses 'banner', 'wisdom', 'deed' and the like, has been used also as a synonym of the sun and the moon." *(Gloss mine and tentative: "ever new, he is born; the sign of the days, he goes at the head of the dawns".)*
-- **उस्राः** — *gāvaḥ* — "cows. For the explanation of this word see the Special Topics of Ṛk 1-[?]-4."
+  In this Ṛk the Nirukta-writer explains that the *ketu* of the days is the moon (Ni. 11-5). So in the Ṛk Saṃhitā the word *ketu*, in the various senses 'banner', 'wisdom', 'deed' and the like, has been used also as a synonym of the sun and the moon." *(Gloss mine and tentative: "ever new, he is born; the sign of the days, he goes at the head of the dawns".)*
+- **उस्राः** — *gāvaḥ* — "cows. For the explanation of this word see the Special Topics of Ṛk 1-92-4."
 
 *The chief purport of the Ṛk:* by Agni's grace the sun, the remover of darkness, rose and became a benefit to the world, with the destruction of the exceedingly powerful enemies.
 
@@ -5878,13 +5878,13 @@ Words treated: *vīḷu* (the accusative ending lost by *supāṃ sulug…*); *d
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.3** *(printed Ṛk "3 ||")*
 
-> दधन्नृतं धनयन्नस्य धीतिमादिदर्यो दिधिष्वो३ विभृत्राः ।
-> अतृष्यंतीरपसो यंत्यच्छा देवाञ्जन्म प्रयसा वर्धयंतीः ॥ ३ ॥
+*(Accents as printed. The print marks a protracted (pluta) vowel in "didhiṣvo3"; the pluta numeral carries both an anudātta and a svarita mark [accent ?]; "yaṃ" of *yanty* is marked anudātta and "tya" svarita.)*
 
-*dadhann ṛtaṃ dhanayann asya dhītim ād id aryo didhiṣvo3 vibhṛtrāḥ |
-atṛṣyantīr apaso yanty acchā devāñ janma prayasā vardhayantīḥ ||3||*
+> दध॑न्नृ॒तं ध॒नय॑न्नस्य धी॒तिमादिद॒र्यो दि॑धि॒ष्वो॒३॑ विभृ॑त्राः ।
+> अतृ॑ष्यंतीर॒पसो॑ यं॒त्य॑च्छा दे॒वाञ्जन्म॒ प्रय॑सा वर्धयं॑तीः ॥ ३ ॥
 
-*(The print marks a protracted (pluta) vowel in "didhiṣvo3"; accents not reproduced.)*
+*dádhann ṛtáṃ dhanáyann asya dhītím ā́d íd aryó didhiṣvo3 víbhṛtrāḥ |
+átṛṣyantīr apáso yanty acchā devā́ñ jánma práyasā vardháyantīḥ ||3||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -5897,15 +5897,15 @@ atṛṣyantīr apaso yanty acchā devāñ janma prayasā vardhayantīḥ ||3||*
 
 ### Page 293 (PDF 311)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 71.3**
 
-> ऋतं देवयजनदेशं प्राप्तमग्निमंगिरसो महर्षयो दधन् । गार्हपत्यादिरूपेणाधारयन् । धारयित्वा चास्याग्नेर्धीतिं कर्माग्निहोत्रादिलक्षणं धनयन् । धनमकुर्वन् । यथा पुरुषा धनं संपादयंति तद्वदग्निदेवत्यं कर्मानुतिष्ठन्नित्यर्थः [?] । आदित् अंगिरसामनुष्ठानानंतरमेवार्यो धनस्य स्वामिनो दिधिष्वो ऽग्नीनां धारणं कुर्वत्यः । कृताग्न्याधाना इत्यर्थः । विभृत्रा आहिताग्नीनग्निहोत्रादिकर्मणि विहरंत्यो ऽतृष्यंतीर्विषयांतरेतृष्णारहिताः अत एवापसोऽपसा कर्मणा युक्ताः एवंभूता यजमानलक्षणाः प्रजाः प्रयसा हविर्लक्षणेनान्नेन देवानिंद्रादीञ्जन्म जातान्मनुष्यांश्च वर्धयंतीर्वर्धयंत्यः । सत्यं एनमग्निमच्छाभिमुखेन यंति । प्राप्नुवंति । परिचरंतीति यावत् ॥
+> ऋतं देवयजनदेशं प्राप्तमग्निमंगिरसो महर्षयो दधन् । गार्हपत्यादिरूपेणाधारयन् । धारयित्वा चास्याग्नेर्धीतिं कर्माग्निहोत्रादिलक्षणं धनयन् । धनमकुर्वन् । यथा पुरुषा धनं संपादयंति तद्वदग्निदेवत्यं कर्मान्वतिष्ठन्नित्यर्थः । आदित् अंगिरसामनुष्ठानानंतरमेवार्योऽर्या धनस्य स्वामिन्यो दिधिष्वस्तेन धनेन दिधिष्वोऽग्नीनां धारणं कुर्वत्यः । कृताग्न्याधाना इत्यर्थः । विभृत्रा आहिताग्नीनग्निहोत्रादिकर्मणि विहरंत्यो ऽतृष्यंतीर्विषयांतरतृष्णारहिताः अत एवापसोऽपसा कर्मणा युक्ताः एवंभूता यजमानलक्षणाः प्रजाः प्रयसा हविर्लक्षणेनान्नेन देवानिंद्रादीञ्जन्म जातान्मनुष्यांश्च वर्धयंतीर्वर्धयंत्यः । सत्य एनमग्निमच्छाभिमुख्येन यंति । प्राप्नुवंति । परिचरंतीति यावत् ॥
 
-*ṛtaṃ devayajanadeśaṃ prāptam agniṃ aṅgiraso maharṣayo dadhan | gārhapatyādirūpeṇādhārayan | dhārayitvā cāsyāgner dhītiṃ karmāgnihotrādilakṣaṇaṃ dhanayan | dhanam akurvan | yathā puruṣā dhanaṃ saṃpādayanti tadvad agnidevatyaṃ karmānutiṣṭhann ity arthaḥ [?] | ād it aṅgirasām anuṣṭhānānantaram evāryo dhanasya svāmino didhiṣvo 'gnīnāṃ dhāraṇaṃ kurvatyaḥ | kṛtāgnyādhānā ity arthaḥ | vibhṛtrā āhitāgnīn agnihotrādikarmaṇi viharantyo 'tṛṣyantīr viṣayāntare tṛṣṇārahitāḥ ata evāpaso 'pasā karmaṇā yuktāḥ evaṃbhūtā yajamānalakṣaṇāḥ prajāḥ prayasā havirlakṣaṇenānnena devān indrādīn janma jātān manuṣyāṃś ca vardhayantīr vardhayantyaḥ | satyaṃ enam agnim acchābhimukhena yanti | prāpnuvanti | paricarantīti yāvat ||*
+*ṛtaṃ devayajanadeśaṃ prāptam agniṃ aṅgiraso maharṣayo dadhan | gārhapatyādirūpeṇādhārayan | dhārayitvā cāsyāgner dhītiṃ karmāgnihotrādilakṣaṇaṃ dhanayan | dhanam akurvan | yathā puruṣā dhanaṃ saṃpādayanti tadvad agnidevatyaṃ karmānvatiṣṭhann ity arthaḥ | ād it aṅgirasām anuṣṭhānānantaram evāryo 'ryā dhanasya svāminyo didhiṣvas tena dhanena didhiṣvo 'gnīnāṃ dhāraṇaṃ kurvatyaḥ | kṛtāgnyādhānā ity arthaḥ | vibhṛtrā āhitāgnīn agnihotrādikarmaṇi viharantyo 'tṛṣyantīr viṣayāntaratṛṣṇārahitāḥ ata evāpaso 'pasā karmaṇā yuktāḥ evaṃbhūtā yajamānalakṣaṇāḥ prajāḥ prayasā havirlakṣaṇenānnena devān indrādīn janma jātān manuṣyāṃś ca vardhayantīr vardhayantyaḥ | satya enam agnim acchābhimukhyena yanti | prāpnuvanti | paricarantīti yāvat ||*
 
-*(Reading note: the print is dense and small; several syllables (the clause "agnidevatyaṃ karmānutiṣṭhann", "satyaṃ", "janma jātān") are read doubtfully [?].)*
+*(Reading note: re-read from the better scan: "karmānvatiṣṭhann", "aryo 'ryā … svāminyo didhiṣvas tena dhanena didhiṣvo" (a clause the first reading had dropped), "satya", "acchābhimukhyena" and "janma jātān" are as printed.)*
 
 *Meaning:* The great sages, the Aṅgirases, established (*dadhan*) in the sacrificial place the Agni that had come there — they maintained him in the forms of the Gārhapatya and the other fires; and having established him they wrought (*dhanayan*) for this Agni the rite (*dhīti*) of Agnihotra and the like, as if making wealth: as men acquire wealth, so they carried out the rites belonging to Agni. And immediately after the Aṅgirases' performance, the masters (*aryaḥ*) of wealth, the sustainers of the fires (*didhiṣvaḥ*), do the maintaining of the fires — that is, having set up the fires. The *vibhṛtrāḥ* — those who move about in the rites of Agnihotra with the consecrated fires, *atṛṣyantīḥ* — free from thirst for other objects, hence *apasaḥ*, "engaged in rites": such people, the sacrificers, with *prayas* — the food in the form of the oblation — cause the gods, Indra and the others, and the men who are born, to prosper; they go (*yanti*) towards Agni, face to face (*acchā*): they reach, they serve him.
 
@@ -5935,31 +5935,31 @@ After the Aṅgirases, in the sacrificial hall, had established Agni and perform
 
 - "*Dhāraṇād dharmaḥ* — 'dharma is so called because it sustains' [as read]: just as this rule says, because *dharma* protects the whole world by sustaining it; because the sacrifice, the *yāga* and the rest, are the root of the protection of this *dharma*; because Agni is the leader and master of all sacrifices; and because the sustaining of all beings — gods, men and the rest — in succession is accomplished only through Agni's grace: showing how essential such service of Agni is, the Ṛk describes the worship of Agni."
 - **ऋतम्** — *devayajanadeśaṃ prāptam agnim* — "Agni, who is established at the place of sacrifice."
-- **दधन्** — "They established; the great sages established him (in the forms of the Gārhapatya and the other fires). Next, **धीतिम्** — *agnihotrādilakṣaṇaṃ karma* (Sāyaṇa) — Sāyaṇa explains the word *dhīti* as 'rite'; Skandasvāmin explains it, *'aśitam api prajñānāma etat'* [as read, ?], as 'wisdom' or 'mind'. The word *dhīti* in the Ṛk Saṃhitā is used in both these senses in different contexts. The Nirukta-writer, quoting [the Ṛk]:
-
-  > पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ।
-  > *pārāvataghnīm avase suvṛktibhiḥ sarasvatīm ā vivāsema dhītibhiḥ* (Ṛk. Saṃ. [6-61-2?])
-
-  explains the word *dhītibhiḥ* here as *karmabhiḥ* ("by rites", Ni. [3-?]), and then quoting the sūkta
-
-  > ऋतस्य हि शुरुधः संति पूर्वीरृतस्य धीतिर्वृजिनानि हंति ।
-  > *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjinān[i] hanti* (Ṛk. Saṃ. [4-23-8?])
-
-  gives to the word *dhīti* there the explanation *prajñā*, "wisdom" (Ni. [10-?])." *(The two Ṛgveda citations are read from a small print; their Sanskrit and the numerals are doubtful [?]; the source leaves them untranslated; my glosses, tentative: "with good praises, we would serve Sarasvatī who smites the distant [foes], for protection, with rites/thoughts"; "for the *ṛta* there are many (that are) *śurudhaḥ* [?]; the thought [or rite] of *ṛta* destroys the crookednesses".)*
+- **दधन्** — "They established; the great sages established him (in the forms of the Gārhapatya and the other fires). Next, **धीतिम्** — *agnihotrādilakṣaṇaṃ karma* (Sāyaṇa) — Sāyaṇa explains the word *dhīti* as 'rite'; Skandasvāmin explains it, *'aśitam api prajñānāma etat'*, as 'wisdom' or 'mind'. The word *dhīti* in the Ṛk Saṃhitā is used in both these senses in different contexts. The Nirukta-writer, quoting [the Ṛk]: *(continued on p. 295)*
 
 ---
 
 ### Page 295 (PDF 313)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 15".)*
 
 **Special Topics of Rik 71.3 (continued)**
 
+  > पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ।
+  > *pārāvataghnīm avase suvṛktibhiḥ sarasvatīm ā vivāsema dhītibhiḥ* (Ṛk. Saṃ. 6-61-2)
+
+  explains the word *dhītibhiḥ* here as *karmabhiḥ* ("by rites", Ni. 2-24), and then quoting the sūkta
+
+  > ऋतस्य हि शुरुधः संति पूर्वीरृतस्य धीतिर्वृजिनानि हंति ।
+  > *ṛtasya hi śurudhaḥ santi pūrvīr ṛtasya dhītir vṛjināni hanti* (Ṛk. Saṃ. 4-23-8)
+
+  gives to the word *dhīti* there the explanation *prajñā*, "wisdom" (Ni. 10-41)." *(The two Ṛgveda citations and their numerals were checked against the better scan (printed on p. 295); the source leaves them untranslated; my glosses, tentative: "with good praises, we would serve Sarasvatī who smites the distant [foes], for protection, with rites/thoughts"; "for the *ṛta* there are many (that are) *śurudhaḥ* [?]; the thought [or rite] of *ṛta* destroys the crookednesses".)*
+
 - **धनयन्** — "They practised — they performed the rite. Or: they meditated."
-- **अर्यः** — "*rāṣṭrī*, *aryaḥ*, *sayutvān*, *inaḥ* [as read, ?] — these four are names of the lord (Ni. [3-11?]). *Īśvara* means master, ruler, owner. This epithet is used again and again for Indra and for the other gods. The epithet is used not merely to show lordship but, in many places, to suggest honour and favour to the master. Here, however, *dhanasya svāminyaḥ* is taken, with reference to the sacrificers, as 'masters of wealth'. (In a few places, as Ṛk. Saṃ. [1-?-5], *aryaḥ* means 'belonging to the enemy', *areḥ saṃbandhinaḥ*; belonging to the foe.)"
+- **अर्यः** — "*rāṣṭrī*, *aryaḥ*, *niyutvān*, *inaina* [as printed] — these four are names of the lord (Ni. 3-11). *Īśvara* means master, ruler, owner. This epithet is used again and again for Indra and for the other gods. The epithet is used not merely to show lordship but, in many places, to suggest honour and favour to the master. Here, however, *dhanasya svāminyaḥ* is taken, with reference to the sacrificers, as 'masters of wealth'. (In a few places, as Ṛk. Saṃ. 1-73-5, *aryaḥ* means 'belonging to the enemy', *areḥ saṃbandhinaḥ*; belonging to the foe.)"
 - **अतृष्यन्तीः** — *viṣayāntare tṛṣṇārahitāḥ* — "free from thirst for other objects; not attached to other matters apart from the worship of Agni, with the mind fixed on that alone."
-- **अपसः** — "*apaḥ*, *aṣṇaḥ*, *daṃsaḥ* [as read, ?] and so on — since it is read among the names of 'work' (Ni. [2-1?]), it means work. *Apasaḥ* means *apasā karmaṇā yuktāḥ yajamānalakṣaṇāḥ prajāḥ* — the people, the sacrificers, engaged in rites such as sacrifice."
-- **प्रयसा** — "*andhaḥ*, *vājaḥ*, *payaḥ*, *prayaḥ* [as read, ?] and so on — since it is read among the names of food (Ni. [2-7?]), *prayaḥ* means food. *Prayasā* — with the food in the form of the oblation."
+- **अपसः** — "*apaḥ*, *apnaḥ*, *daṃsaḥ* and so on — since it is read among the names of 'work' (Ni. 3-1), it means work. *Apasaḥ* means *apasā karmaṇā yuktāḥ yajamānalakṣaṇāḥ prajāḥ* — the people, the sacrificers, engaged in rites such as sacrifice."
+- **प्रयसा** — "*andhaḥ*, *vājaḥ*, *payaḥ*, *prayaḥ* and so on — since it is read among the names of food (Ni. 3-9), *prayaḥ* means food. *Prayasā* — with the food in the form of the oblation."
 - **देवान् जन्म प्रयसा वर्धयन्तीः** — "They serve Agni in such a way that the gods and born human beings may prosper."
 
 ---
