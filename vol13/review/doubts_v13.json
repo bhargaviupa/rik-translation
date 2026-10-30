@@ -2470,5 +2470,29 @@
   ],
   "note": "Rg refs 10-98-5, 10-149-1, 9-73-3 small; 'pavitravantah' quote read approx; Nirukta ref 2-5",
   "answer": ""
+ },
+ {
+  "pdf": 314,
+  "printed": 294,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 9 bhashya dense: 'sobhanatedrupasahaya', 'phalaprapayen' read approx; Samhita first word asama(asamu?)",
+  "answer": ""
+ },
+ {
+  "pdf": 313,
+  "printed": 293,
+  "crop": [
+   0.05,
+   0.25,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha ref 1-9-3-16? small",
+  "answer": ""
  }
 ]
