@@ -1,0 +1,1 @@
+Vol 12 scans go in this folder, in page order, named `12 rigveda samhita volume 12 1.pdf`, `… 2.pdf`, … (the number before `.pdf` sets the order; Git LFS if large). Use the best (high-resolution, ~600 dpi) scan from the start; do not translate from a low-resolution copy.
