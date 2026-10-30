@@ -2662,5 +2662,29 @@
   ],
   "note": "Rg ref 5-?-? (prkse ta visva..), 1-118-1, 10-120-6 small; quotes read approx",
   "answer": ""
+ },
+ {
+  "pdf": 331,
+  "printed": 311,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-34-4, 10-43-7, 5-57-1, 10-86-19 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 332,
+  "printed": 312,
+  "crop": [
+   0.15,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; vavrtyah grammar read approx",
+  "answer": ""
  }
 ]
