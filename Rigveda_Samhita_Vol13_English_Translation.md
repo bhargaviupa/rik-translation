@@ -6580,4 +6580,70 @@ from the form of heaven and earth, and so are able to go comfortably, and to mov
 
 ---
 
-**Progress note:** printed p. 266 (PDF 286) done — Sūkta 173 Ṛk 4 Special Topics complete; grammar in progress (sugmyaḥ continues p. 267). Next: printed p. 267 (PDF 287). Open flags: Ṛg/Nirukta/sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 267  (PDF 287)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+*(Grammar of Ṛk 4 concluded)* — …the penultimate (*upadhā*) is dropped; *sugme bhavaṃ sugmyam*: "being in the pleasant (way)": *bhave chandasi* (Pā. Sū. 4-4-110 [?]) gives the suffix *yat*; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the first syllable is *udātta*.
+
+***ratheṣṭhāḥ*** — *rathe tiṣṭhatīti ratheṣṭhāḥ*; the *kṛdutta* (final) member keeps its natural accent (*prakṛtisvara*); by "*tatpuruṣe kṛti bahulam*" (Pā. Sū. 6-3-14 [?]) the *saptamī* is not dropped (*aluk*). ‖ 4 ‖
+
+---
+
+**Sūkta 173, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> तमु ष्टुहीन्द्रं यो ह सत्वा यः शूरो मघवा यो रथेष्ठाः ।
+> प्रतीचश्चिद्योधीयान्वृषण्वान्ववव्रुषश्चित्तमसो विहन्ता ॥ ५ ॥
+
+> *tam u ṣṭuhīndraṃ yo ha satvā yaḥ śūro maghavā yo ratheṣṭhāḥ |*
+> *pratīcaś cid yodhīyān vṛṣaṇvān vavavruṣaś cit tamaso vihantā ‖ 5 ‖*
+
+**Pada-pāṭha**
+
+> तम् । ऊं इति । स्तुहि । इन्द्रम् । यः । ह । सत्वा । यः । शूरः । मघऽवा । यः । रथेऽस्थाः ।
+> प्रतीचः । चित् । योधीयान् । वृषण्ऽवान् । ववव्रुषः । चित् । तमसः । विऽहन्ता ॥ ५ ॥
+
+> *tam | ūṃ iti | stuhi | indram | yaḥ | ha | satvā | yaḥ | śūraḥ | magha-vā | yaḥ | rathe-sthāḥ |*
+> *pratīcaḥ | cit | yodhīyān | vṛṣaṇ-vān | vavavruṣaḥ | cit | tamasaḥ | vi-hantā ‖ 5 ‖*
+
+**Sāyaṇa-bhāṣya**
+
+> तमु तमेवेन्द्रं स्तुहि । हे होतः स्तुतिं कुरु । किमस्याधिक्यमिति उच्यते । यो ह यः खलु सत्वा अतिप्रभूतबलः । यद्वा । सत्वा सादकः शत्रूणां । यश्च शूरः शौर्योपेतो मघवा बलवान्नन्नवान्वा । यश्च रथेष्ठा रथे वर्तमानः । किंच प्रतीचश्चित् प्रत्यभिमुखं योद्धॄनपि योधीयान् योद्धृतमः । प्रतिपूर्वादञ्चतेः क्विनन्ताल्लुप्तनकारादच्छसि [?] अचश्च इत्येकारलोपे चावपि दीर्घः । अञ्चेश्छन्दस्यसर्वनामस्थानमिति विभक्तिरुदात्ता [?] ॥ वृषण्वान् । वृषाणो वर्षितारो वज्रादयः । तद्वान् । वृषा ते वज्र उत ते वृषा रथः [?] । ऋ. २-१६-६ । इति हि निगमः । तथा ववव्रुषश्चित्तमसः आवरकस्यापि तमसो मेघादेर्विहन्ता विशेषेण घातकः । यस्मादेनं महानुभावः तस्मात्स्तुहि ॥ [as read; partly doubtful: [?]]
+
+> *tam u tam evendraṃ stuhi | he hotaḥ stutiṃ kuru | kim asyādhikyam iti ucyate | yo ha yaḥ khalu satvā atiprabhūtabalaḥ | yadvā | satvā sādakaḥ śatrūṇāṃ | yaś ca śūraḥ śauryopeto maghavā balavān annavān vā | yaś ca ratheṣṭhā rathe vartamānaḥ | kiṃca pratīcaś cit pratyabhimukhaṃ yoddhṝn api yodhīyān yoddhṛtamaḥ | pratipūrvād añcateḥ kvinantāl luptanakārād acchasi [?] acaś ca ity ekāralope cāvapi dīrghaḥ | añceś chandasy asarvanāmasthānam iti vibhaktir udāttā [?] ‖ vṛṣaṇvān | vṛṣāṇo varṣitāro vajrādayaḥ | tadvān | vṛṣā te vajra uta te vṛṣā rathaḥ [?] | ṛ. 2-16-6 | iti hi nigamaḥ | tathā vavavruṣaś cit tamasaḥ āvarakasyāpi tamaso meghāder vihantā viśeṣeṇa ghātakaḥ | yasmād enaṃ mahānubhāvaḥ tasmāt stuhi ‖* [?]
+
+*Gist:* O *hotṛ*, praise that very Indra: he is very mighty or a destroyer of enemies, a hero, rich, standing in his car, the best of fighters even against opponents who face him, with bulls (i.e. showering weapons such as the thunderbolt), and the destroyer of the all-enveloping darkness (cloud).
+
+**Pratipadārtha (Kannada, translated)**
+
+*yaḥ ha* — he who indeed (is Indra); *satvā* — one of abundant strength, or the destroyer of enemies; *yaḥ* — who; *śūraḥ* — heroic one (and); *maghavā* — rich in strength or in food; *yaḥ* —
+
+### Printed p. 268  (PDF 288)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+who; *ratheṣṭhāḥ* — standing in his chariot; *pratīcaḥ cit* — even among those who face and fight; *yodhīyān* — the most excellent fighter; *vṛṣaṇvān* — one who has the thunderbolt and the other weapons, (and); (*yaḥ* — who) *vavavruṣaḥ cit tamasaḥ* — of the cloud that envelops all things; *vihantā* — the destroyer (of the cloud); *tam u* — that very one; *indram* — Indra; *stuhi* — praise.
+
+**Bhāvārtha**
+
+(O *hotṛ*,) praise Indra, who is of great prowess, heroic, rich in wealth, standing in his car, a fighter who faces his foes, a wielder of the thunderbolt and other weapons, a destroyer of the cloud and other things that are of the nature of the enveloping darkness.
+
+**Printed English**
+
+Glorify that Indra who is mighty, who is a hero, possessing abundant wealth, standing in his car, a valiant combatant against adversaries, the wielder of the thunderbolt, the disperser of all-enveloping gloom.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***tam u ṣṭuhi*** — by this sentence the address to the *hotṛ*-priests, "praise Indra", is made; the command of the sage who sees the mantra is stated here.
+
+***yo ha satvā — atiprabhūtabalaḥ, yadvā sādakaḥ śatrūṇām*** — Indra is "of great strength" or "the destroyer of enemies": so the meaning is given.
+
+***maghavā — balavān annavān vā*** — the Nirukta-writers read the word *magha* among the names of wealth (Ni. 2-10 [?]): "*maghaṃ iti dhananāmadheyaṃ maṃhater dānakarmaṇaḥ*" — the word *magha*, derived from the root *maṃh* which means giving, signifies wealth, they explain. Sāyaṇa takes the word *magha* in the senses "strength" or "food", and so gives the meaning "one who has strength or one who has food" for Indra.
+
+Indra is *pratīcaś cit yodhīyān* — "the most excellent among the warriors who fight facing the enemy who is waging battle" — and *vṛṣaṇvān* — "possessing weapons such as the thunderbolt, which help in showering rain". Sāyaṇa, explaining the word *vṛṣaṇvān* as "*varṣitāraḥ*", says that it means weapons such as the thunderbolt, which are producers of rain; and to convey this same meaning —
+
+---
+
+**Progress note:** printed p. 268 (PDF 288) done — Sūkta 173 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (continues p. 269). Next: printed p. 269 (PDF 289). Open flags: Ṛk 5 bhāṣya grammatical tail doubtful [?]; review/doubts_v13.json.
