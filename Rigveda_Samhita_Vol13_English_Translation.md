@@ -15567,4 +15567,82 @@ The many divine qualities of every sort that are told of the horse described in 
 
 ---
 
-**Progress note:** printed p. 558 (PDF 578) done — Sūkta 181 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada written. Next: printed p. 559 (PDF 579), Ṛk 3 bhāṣya. Open flags: refs [?]; ŚB 6-1-1-11 quote doubtful; review/doubts_v13.json.
+### Printed p. 559  (PDF 579)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 559.)*
+
+**Sāyaṇa-bhāṣya**
+
+> पूर्वमन्त्रेऽश्वव्याजेनाश्विनोरागमनमुक्तम् । अनेन रथव्याजेनोच्यते । हे धिष्ण्यौ उन्नतस्थानार्हौ स्थातारा स्वरथाधिष्ठानौ वां युवयोर्यो रथोऽस्ति स सुविताय शोभनफलाय गम्याः । अस्मद्यज्ञमागच्छतु ॥ पुरुषव्यत्ययः ॥ कीदृशो रथ इति स विशेष्यते । अवनिर्न प्रवत्वान् भूमिरिवात्यन्तविस्तारवान् सृप्रवन्धुरो विस्तीर्णपुरोभागः वृष्णो वर्षकस्याश्वस्य मनसोऽपि जवीयान् । मनोवेगवानित्यर्थः । अहम्पूर्वोऽहङ्कारपूर्वो मनस्वी वाकृत्यादारः [?] यजतो यष्टव्यः । ईदृशो रथ आगच्छतु ॥ [as read; a few words doubtful [?]]
+
+*Gist:* In the previous ṛk the Aśvins' coming was spoken of through their horses; now through their chariot: let the broad, mind-swift, adorable chariot come to our sacrifice for our good.
+
+**Pratipadārtha**
+
+**dhiṣṇyā** — O worthy of an exalted place; **sthātārā** — you who stand on your own chariot, O Aśvin deities; **avaniḥ na** — vast like the earth; **pravatvān** — extremely spread out; **sṛpravandhuraḥ** — with a broad forepart; **vṛṣṇaḥ** — than the desire-showering horse; **manasaḥ** — [and] than the mind; **javīyān** — swifter; **ahaṃpūrvaḥ** — eager (as if first to arrive); **yajataḥ** — worthy of worship; **vām** — your; **yaḥ rathaḥ** — which chariot; (**saḥ** — that chariot); **suvitāya** — for auspicious fruit; **ā gamyāḥ** — may it come to our sacrifice.
+
+**Bhāvārtha**
+
+O Aśvin deities, exalted, standing steady on your own chariot! May your chariot — vast like the earth, broad in front, swifter than horse and mind, eager and worthy of worship — come with you to our sacrificial hall, in order to bestow on us an auspicious fruit.
+
+**Printed English**
+
+> Ashwins, excellent and steady, may your chariot, vast as the earth, broad-fronted, rapid as the rain, (fleet) as thought, emulative and adorable, come hither for (our) good.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***dhiṣṇyā*** — for this word Sāyaṇa has given the meaning "*unnatasthānārhau*" ("worthy of an exalted place"), i.e. "worthy of worship". Since this synonym is used also of the sacrificial places such as that of the Āgnīdhra, here too the meaning "worthy of such a place" is possible. The two words *dhiṣaṇā* and *dhiṣṇyā* have, in general, one and the same meaning. (That these two words should have a difference of meaning is very unusual.)
+
+### Printed p. 560  (PDF 580)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 560.)*
+
+The Nirukta-writers have read the word *dhiṣaṇā* among the names of "speech" (*vāc*) (Ni. 1-11 [?]) and among the names of "heaven and earth" (*dyāvāpṛthivī*) (Ni. 3-30 [?]). Citing
+
+> मेद्यन्तु ते वह्नयो येभिरीयसेऽरिषण्यन्नळेळयस्वा वनस्पते ।
+> आयूया धृष्णो अभिगूर्या त्वं नेष्ट्रात्सोमं द्रविणोदः पिब ऋतुभिः ॥
+
+> *medyantu te vahnayo yebhirīyase 'riṣaṇyannaḷeḷayasvā vanaspate |*
+> *āyūyā dhṛṣṇo abhigūryā tvaṃ neṣṭrātsomaṃ draviṇodaḥ piba ṛtubhiḥ ‖*
+
+(Ṛ. Saṃ. 2-37-3 [?]) — "*dhṛṣṇo dhiṣṇyo dhiṣaṇo dhiṣaṇābhavaḥ | dhiṣaṇā vāk dhiṣer dadhāty arthe | dhīsādinīti vā | dhī sāninīti vā*" [as read [?]]: from the root *dhiṣ*, which gives the sense "hold", *dhiṣaṇā* is formed in the sense of *vāc*; or it gives the idea "that which spreads understanding" or "that which gives conversation". Hence, for the word *dhiṣaṇā*, the derivation "*vāk*" is the one they show. But other meanings too are possible for this word.
+
+> आपश्च मित्रं धिषणा च साधन्देवा अग्निं धारयन्द्रविणोदाम् ।
+
+> *āpaśca mitraṃ dhiṣaṇā ca sādhandevā agniṃ dhārayandraviṇodām |*
+
+(Ṛ. Saṃ. 1-96-1 [?])
+
+> इमां ते धियं प्र भरे महो महीमस्य स्तोत्रे धिषणा यत्त आनजे ।
+
+> *imāṃ te dhiyaṃ pra bhare maho mahīmasya stotre dhiṣaṇā yatta ānaje |*
+
+(Ṛ. Saṃ. 1-102-1 [?]) — in such ṛks it means "speech" or "intellect". If *vāk* is explained as speech in the form of praise, then for the word *dhiṣṇya* the meaning "worthy of praise, worthy of worship" arises, and in this sense this same word is used in many places.
+
+> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः ।
+> तद्ग्रावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवम् ॥
+
+> *tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tatpitā dyauḥ |*
+> *tadgrāvāṇaḥ somasuto mayobhuvastadaśvinā śṛṇutaṃ dhiṣṇyā yuvam ‖*
+
+(Ṛ. Saṃ. 1-89-4 [?]) — in this the word *dhiṣṇyā* is an epithet of the Aśvin deities. For this, Sāyaṇa has explained "*dhiṣaṇā buddhiḥ, tadārhāv aśvinau*" — that is, "worthy of meditation". Likewise:
+
+> युवं श्रीभिर्दर्शताभिराभिः शुभे पुष्टिमूहथुः सूर्यायाः ।
+> प्र वां वयो वपुषेऽनु पप्त्नक्षद्वाणी सुष्टुता धिष्ण्या वाम् ॥
+
+> *yuvaṃ śrībhirdarśatābhirābhiḥ śubhe puṣṭimūhathuḥ sūryāyāḥ |*
+> *pra vāṃ vayo vapuṣe 'nu paptnakṣadvāṇī suṣṭutā dhiṣṇyā vām ‖*
+
+(Ṛ. Saṃ. 6-63-6 [?]) — in this and other contexts also (Ṛ. Saṃ. 8-5-14; 8-35-13 [?]) this epithet is used as one of the Aśvin deities; it is used everywhere in the sense "worthy of praise, worthy of worship".
+
+> कद्धिष्ण्यासु वृधसानो अग्ने कद्वाताय प्रतवसे शुभंये ।
+> परिज्मने नासत्याय क्षे ब्रवः कदग्ने रुद्राय नृघ्ने ॥
+
+> *kaddhiṣṇyāsu vṛdhasāno agne kadvātāya pratavase śubhaṃye |*
+> *parijmane nāsatyāya kṣe bravaḥ kadagne rudrāya nṛghne ‖*
+
+(Ṛ. Saṃ. 4-3-6 [?])
+
+---
+
+**Progress note:** printed p. 560 (PDF 580) done — Sūkta 181 Ṛk 3: bhāṣya…printed English, Special Topics begun (dhiṣṇyā; continues p. 561). Next: printed p. 561 (PDF 581). Open flags: refs [?]; review/doubts_v13.json.

@@ -5650,5 +5650,29 @@
   ],
   "note": "cross-ref Rg 1-181-4; Samhita Rk3 'suvitaya' vs suvitayai in pada; grammar sutra numerals",
   "answer": ""
+ },
+ {
+  "pdf": 579,
+  "printed": 559,
+  "crop": [
+   0.1,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk3: 'vakrtyadarah' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 580,
+  "printed": 560,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 1-11, 3-30; Rg 2-37-3, 1-96-1, 1-102-1, 1-89-4, 6-63-6, 8-5-14, 8-35-13, 4-3-6 small; Nirukta quote 'dhrsno dhisnyo dhisano' garbled",
+  "answer": ""
  }
 ]
