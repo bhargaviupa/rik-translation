@@ -17161,4 +17161,62 @@ In this ṛk also, the matter of the protection of Bhujyu told earlier is itself
 
 ---
 
-**Progress note:** printed p. 612 (PDF 632) done — Sūkta 182 Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (Bhujyu story; sindhuṣu; continues p. 613). Next: printed p. 613 (PDF 633). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 613  (PDF 633)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 613.)*
+
+> युवमेतानि दिवि रोचनान्यग्निश्च सोम सक्रतू अधत्तम् ।
+> युवं सिन्धूरभिशस्तेरवद्यादग्नीषोमावमुञ्चतं गृभीतान् ॥
+
+> *yuvametāni divi rocanānyagniśca soma sakratū adhattam |*
+> *yuvaṃ sindhūrabhiśasteravadyādagnīṣomāvamuñcataṃ gṛbhītān ‖*
+
+(Ṛ. Saṃ. 1-93-5) — here Sāyaṇa has explained *sindhūn* as "*nadīviśeṣān*" (particular rivers). Skandasvāmin explains "*syandanāt sindhavo raśmaya ihocyante*" — "the rays are here called *sindhu* from flowing": i.e. rays that spread; and citing the sentence
+
+> न सिन्धवो रजसो अन्तमानशुः
+
+> *na sindhavo rajaso antamānaśuḥ*
+
+(Ṛ. Saṃ. 1-52-12 [?]) he says that, just as in that ṛk, here too (in the ṛk cited above) the meaning "rays" must be told. In many places the word *sindhu* must be given the meaning "ocean". But:
+
+> सिषीले अंशुर्मद्यो न सिन्धुरा त्वा शमी शशमानस्य शक्तिः ।
+> अस्मद्र्यक् कुशुचानस्य यम्या आशुर्न रश्मिं तुव्योजसं गोः ॥
+
+> *siṣīle aṃśurmadyo na sindhurā tvā śamī śaśamānasya śaktiḥ |*
+> *asmadryak kuśucānasya yamyā āśurna raśmiṃ tuvyojasaṃ goḥ ‖*
+
+(Ṛ. Saṃ. 4-22-8 [?]; as read, doubtful [?]) — in a few places such as these *syandamānaḥ somaḥ* — "flowing Soma" — is used as a synonym of Soma; it means "of flowing nature". In Ṛ. Saṃ. 2-11-? [?] etc., the word means "cloud" (*megha*). In the ṛk at hand, for *sindhuṣu* it is explained as *samudrodakeṣu*.
+
+The word **ātmanvantaṃ** is an epithet of the word *plava*; "*dāḍhyavantaṃ plavam*" — a boat endowed with firmness. In all places where this epithet occurs, the meaning of the word *ātman* must be given as firm, steady, essential. For example:
+
+> तमूहथुर्नौभिरात्मन्वतीभिरन्तरिक्षप्रुद्भिरपोदकाभिः ।
+
+> *tamūhathurnaubhirātmanvatībhirantarikṣaprudbhirapodakābhiḥ |*
+
+(Ṛ. Saṃ. 1-116-3) — in this ṛk also, to describe the power of the boat of the Aśvin deities, the epithet *ātmanvatībhiḥ* is used; for it Sāyaṇa has explained "*dhṛtirātmā dhāraṇavatībhiḥ*", that is, "strong and bearing, having the power of support".
+
+> आत्मन्वन्नभो दुह्यते घृतं पय ऋतस्य नाभिरमृतं वि जायते ।
+> समीचीनाः सुदानवः प्रीणन्ति तं नरो हितमिव मेहन्ति पेरवः ॥
+
+> *ātmanvannabho duhyate ghṛtaṃ paya ṛtasya nābhiramṛtaṃ vi jāyate |*
+> *samīcīnāḥ sudānavaḥ prīṇanti taṃ naro hitamiva mehanti peravaḥ ‖*
+
+(Ṛ. Saṃ. 9-74-4 [?]; as read) — here the word *ātmavat* is an epithet of *ghṛtaṃ* and of *payaḥ*; it means "*sāravat*", that is, "with juice, with inner strength". In the ṛk at hand also the meaning is: a boat having the power of bearing.
+
+**Kṣodasaḥ** — the word *kṣodas* is read among the names of water (Ni. 1-9 [?]).
+
+### Printed p. 614  (PDF 634)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 614.)*
+
+**Pakṣiṇaṃ** — this word also is an epithet of the word *plava*. "*Pakṣavadgatisādhanarathavantam*" — one having a chariot that is the means of motion like wings; that is, a boat that has wings (or: the one that goes swiftly).
+
+**Manasā** — "with a mind of favour (*anugrahātmaka*)", is the meaning.
+
+**Devatrā** — "among the deities (you two alone are protectors)" is explained. In the same way, where the expression *yajatrā* is used, the purport becomes "worthy of sacrifice, worthy of worship".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *cakrathuḥ* — root *ḍukṛñ karaṇe*; *liṭ* second person dual form; being after a *tiṅ*-final, *nighāta* accent. *plavam* — root *plṛñ gatau* [as read, "plu"]; "*nandigrahapacādibhyaḥ…*" (Pā. Sū. 3-1-134 [?]) gives suffix *aj* (*ac*); "*sārvadhātukārdha…*" gives guṇa; with the *āvādeśa*, the suffix accent makes the final acute. *ātmanvantam* — "*ātmā asya asti*"; when it is wished to give the sense of the possessive, suffix *matup*; "*māduṣpadhāyāś ca*" gives *va* for *ma*; having the name *pada*, the *n* is not elided; "*ano nuṭ*" (Pā. Sū. 8-2-16 [?]) gives the augment *nuṭ* before *matup*; "*hrasvanuḍbhyāṃ matup*" (Pā. Sū. 6-1-176 [?]) gives *matup* acute; second (case) singular form. *devatrā* — "*devamanuṣyapuruṣa…*" (Pā. Sū. 5-4-56 [?]) gives suffix *tral* in the sense of the seventh case; the suffix's accent. *nirūhathuḥ* — *nir* prefix; root *vaha prāpaṇe*; in Vedic usage *liṭ*; second person dual form; as *yat* is connected [with the relative], there is no *nighāta*; the suffix's initial acute; "*tiṅ-ci-odāttavati*" (Pā. Sū. 8-1-71 [?]) — the *gati* (*nir*) becomes unaccented. *supaptanī* — root *patlṛ gatau* [as read]; by *vyatyaya* the *āṭ* is [not] there; "*nañ-subhyām*" (Pā. Sū. 6-2-172 [?]) gives acute on the last syllable of the latter member. *petathuḥ* — the root as before; in Vedic usage *liṭ*; second person dual: *athus*-substitution; since *liṭ* is *ñit* [as read], doubling etc. come; "*ata ekahalmadhye…*" (Pā. Sū. 6-4-120 [?]) gives *e*-substitution and elision of the reduplicate; *tiṅ*, *nighāta* accent.  ‖ 5 ‖
+
+---
+
+**Progress note:** printed p. 614 (PDF 634) done — Sūkta 182 Ṛk 5 ends (Special Topics, grammar). Next: printed p. 615 (PDF 635): Ṛk 6. Open flags: refs [?]; review/doubts_v13.json.
