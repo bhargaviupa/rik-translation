@@ -14746,4 +14746,67 @@ In the sense of control (*niyamana*), the name *niyutvān* is well known also fo
 
 ---
 
-**Progress note:** printed p. 530 (PDF 550) done — Sūkta 180 Ṛk 6 Special Topics (purandhim, sūriḥ; continues p. 531). Next: printed p. 531 (PDF 551). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 531  (PDF 551)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 531.)*
+
+> असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ।
+
+> *asadyathā jaritra uta sūririndro rāyo viśvavārasya dātā |*
+
+(Ṛ. Saṃ. 6-33-10 [?])
+
+> मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ।
+
+> *muhyantvanye abhito janāsa ihāsmākaṃ maghavā sūrirastu |*
+
+(Ṛ. Saṃ. 10-81-6 [?]) — in these and other places, the epithet describes the quality of Indra and other deities, who are masters (*prabhu*) and guides on the right path. And:
+
+> आदस्य ते कृष्णासो दक्षि सूरयः शूरस्येव त्वेषथादीषते वयः ।
+
+> *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathādīṣate vayaḥ |*
+
+(Ṛ. Saṃ. 1-141-5 [?]) — in such places it is often given the meaning "path" (*mārga*), in the form of *āpa*. In the ṛk at hand the word is used in the sense of "praiser".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***yuvethe*** — root *yu miśraṇāmiśraṇayoḥ*; by "*vyatyayo bahulam*" (Pā. Sū. 3-1-85 [?]) the ending *āthām* in the second person dual; by "*ṭita ātmanepadānāṃ ṭer e*" (Pā. Sū. 3-4-79 [?]) *e* for the *ṭi*; by *vyatyaya* the *śa* *vikaraṇa*; by "*ato yeyaḥ*" … (Pā. Sū. 6-2-[?], as read [?]) *iya* for the *ā*; by "*āto lopa iṭi ca*" (Pā. Sū. 6-4-64 [?]) elision of the *y*; *guṇa*; by "*aci śnudhātubhruvāṃ…*" (Pā. Sū. 6-4-77 [?]) *uvaṅ* substitution; because of *yad*-connection no *nighāta* accent; the *vikaraṇa* accent remains.
+- ***sṛjathaḥ*** — root *sṛja visarge*; second person dual; *tiṅ*-final *nighāta* accent.
+- ***preṣat*** — root *prīñ tarpaṇe kāntau ca*; *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ*" elision of the *i*; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *aṭ*; by "*sibbahulaṃ leṭi*" (Pā. Sū. 3-1-34 [?]) *sip*; taking that as the cause, *guṇa* for the root; by "*ādeśapratyayayoḥ*" (Pā. Sū. 8-3-59 [?]) *ṣatva* for the *s*; being in *pādādi* position there is no *nighāta*; the suffixes being *pit*, they are *anudātta*, so the root accent remains.
+- ***veṣat*** — root *vī gatyādiṣu*; *leṭ*, third person singular; the operations as before; being in an *atiṅanta* word-position, no *nighāta*; the root accent remains.
+- ***dade*** — root *ḍudāñ dāne*; since it is connected with the prefix *ā*, by "*āṅo 'nāsyavivaraṇe*" (Pā. Sū. 1-3-20 [?]) it is *ātmanepada*; third person singular …
+
+### Printed p. 532  (PDF 552)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 532.)*
+
+… the suffix *ta*; *e* for the *ṭi*; *ślu* as *vikaraṇa*; reduplication and so on; by "*lopaś ca ātmanepadeṣu*" (Pā. Sū. 7-1-41 [?]) elision of the *t*; or, in the Vedic *liṭ*; *tiṅ*-final *nighāta* accent.
+- ***suvrataḥ*** — *śobhanaṃ vrataṃ yasya saḥ*; by "*nañsubhyām*" (Pā. Sū. 6-2-172 [?]) the final syllable of the hind-member is *udātta*. ‖ 6 ‖
+
+---
+
+**Sūkta 180, Ṛk 7**
+
+**Saṃhitā-pāṭha**
+
+> वयं चिद्धि वां जरितारः सत्या विपन्यामहे वि पणिर्हितावान् ।
+> अधा चिद्धि ष्माश्विनावनिन्द्या पाथो हि ष्मा वृषणावन्तिदेवम् ॥ ७ ॥
+
+**Pada-pāṭha**
+
+> वयम् । चित् । हि । वाम् । जरितारः । सत्याः । विपन्यामहे । वि । पणिः । हितऽवान् ।
+> अध । चित् । हि । स्म । अश्विनौ । अनिन्द्या । पाथः । हि । स्म । वृषणौ । अन्तिऽदेवम् ॥ ७ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> वयं चिद्धि वयमपि जरितारस्तव स्तोतारः सत्याः सत्यफलाः सन्तो विपन्यामहे । विविधं स्तुमः । पणिः पणाधारो द्रोणकलशो वि हितवान् स्थापितसोमो [?] ऽसीत् । यद्वा । पणिर्वणिग्लुब्धकोऽयष्वा हितान्नियतधनो धनाढ्योऽस्य यष्वा वि । वियुज्यताम् ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ अथापि चिद्धि ष्म । एते त्रयः पूरणाः । हे अश्विनावनिन्द्या । प्रशस्यनाम्नैतत् । हे प्रशस्यौ वृषणौ हे कामानां वर्षितारौ युवामन्तिदेवं देवानामन्तिके पाथः । सोमं पिबथः । यद्वा । अन्तिके वर्तमानं देवान्नाप्नुवानं सोममिति योज्यम् ॥ [as read; several words doubtful [?]]
+
+*Gist:* We, your true praisers, praise you in many ways; the Soma vessel is set; you, blameless and showering, drink the Soma near the gods; the miser is to be separated.
+
+**Pratipadārtha**
+
+(*he*) **Aśvinau** — O Aśvin deities; **jaritāraḥ** — your praisers; **vayaṃ cit hi** — we too; **satyāḥ** — those with true fruits; **vām** — you two; **vipanyāmahe** — we praise in diverse ways; **paṇiḥ** — the *droṇa*-vessel (for the Soma); **vi hitavān** — (with the Soma) placed; [or **paṇiḥ** — the greedy trader; **hitavān** — one whose wealth is fixed; **vi (yujyatām)** — let him be separated]; (**cit hi sma** — three expletives); **adha** — and; **anindyā** — O blameless …
+
+---
+
+**Progress note:** printed p. 532 (PDF 552) done — Sūkta 180 Ṛk 6 complete; Ṛk 7: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 533). Next: printed p. 533 (PDF 553). Open flags: refs [?]; grammar sutra numerals [?]; review/doubts_v13.json.

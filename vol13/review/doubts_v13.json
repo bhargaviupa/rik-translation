@@ -5314,5 +5314,29 @@
   ],
   "note": "refs Rg 10-80-1, 1-116-13, 1-117-19, 1-124-6, 1-22-20, 1-61-3, 1-122-7, Ni 3-13 small",
   "answer": ""
+ },
+ {
+  "pdf": 551,
+  "printed": 531,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 6-33-10, 10-81-6, 1-141-5 small; grammar 'yuvethe' derivation with sutra names partly garbled; sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 552,
+  "printed": 532,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk7 dense: 'sthapitasomo', 'upasargasruteh', second 'yadva' alt garbled",
+  "answer": ""
  }
 ]
