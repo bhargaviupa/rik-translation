@@ -2170,5 +2170,41 @@
   ],
   "note": "Rik 5 bhashya tail (pratipurvad ancateh kvinantat.. luptanakarat..) dense; read approx; Rg ref 2-16-6 small",
   "answer": ""
+ },
+ {
+  "pdf": 290,
+  "printed": 270,
+  "crop": [
+   0.25,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 Pada word bhuma/bhuma uncertain; Samhita kakshye naasmai / bhuma",
+  "answer": ""
+ },
+ {
+  "pdf": 290,
+  "printed": 270,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhashya dense; 'iisve', 'nara nalam', 'bhrno loT chandasah' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 289,
+  "printed": 269,
+  "crop": [
+   0.35,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; Rg ref 3-35-6",
+  "answer": ""
  }
 ]

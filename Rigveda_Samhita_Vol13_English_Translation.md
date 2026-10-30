@@ -6646,4 +6646,61 @@ Indra is *pratīcaś cit yodhīyān* — "the most excellent among the warriors 
 
 ---
 
-**Progress note:** printed p. 268 (PDF 288) done — Sūkta 173 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun (continues p. 269). Next: printed p. 269 (PDF 289). Open flags: Ṛk 5 bhāṣya grammatical tail doubtful [?]; review/doubts_v13.json.
+### Printed p. 269  (PDF 289)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+> वृषा ते वज्र उत ते वृषा रथो वृषणा हरी वृषभाण्यायुधा । वृष्णो मदस्य वृषभ त्वमीशिष इन्द्र सोमस्य वृषभस्य तृप्णुहि ॥
+
+> *vṛṣā te vajra uta te vṛṣā ratho vṛṣaṇā harī vṛṣabhāṇy āyudhā | vṛṣṇo madasya vṛṣabha tvam īśiṣa indra somasya vṛṣabhasya tṛpṇuhi ‖*
+
+(Ṛ. Saṃ. 3-35-6 [?]) — this ṛk is quoted. And as to Indra's being *vavavruṣaś cit tamasaḥ vihantā*, "the destroyer of the enveloping darkness", the great might of Indra is thereby described.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***stuhi*** — root *ṣṭuñ stutau*; *loṭ* second person singular; *nighāta* accent for a *tiṅ*.
+- ***satvā*** — root *ṣadḷ viśaraṇagatyavasādaneṣu*; the suffix *kvanip* ("*prasera sadyoḥ stuṭ ca*", Uṇ. Sū. 4-… [?]), prescribed by the rule, applies in the plural to this root also; the suffix, being *pit*, is *anudātta*, so the root accent remains.
+- ***pratīcaḥ*** — *prati* is a preposition; root *añcu gatipūjanayoḥ*; *kvin* suffix by "*ṛtvik dadhṛk…*" (Pā. Sū. 3-2-59 [?]); *anidātāṃ halaḥ upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24 [?]) drops the penultimate nasal; because of *bha* designation before a *śas* ending, *acaḥ* (Pā. Sū. 6-4-138 [?]) drops the *a* of the root; the root having *a* standing before the nasal-*a*-vowel, and following, "*cau*" (Pā. Sū. 6-3-138 [?]) lengthens the preceding vowel; by the statement "*añceś chandasy asarvanāmasthānam*" the case ending is *udātta*.
+- ***yodhīyān*** — the word *yodhin*, in the sense of excess, takes the suffix *īyasun*; by "*turiṣṭhemeyaḥsu*" (Pā. Sū. 6-4-154 [?]) the *ṭi* of *tṛc* (agent suffix) is dropped; by "*prakṛtyaikāc*" the natural form is retained, so the *ṭi*-loss does not occur; being *nit*, the suffix takes the first-syllable *udātta* by "*ñnityādir nityam*" (Pā. Sū. 6-1-197 [?]).
+- ***vavavruṣaḥ*** — root *vṛñ āvaraṇe*, *curādi*; *kvasu* for *liṭ*; reduplication on account of the suffix; Vedically an extra *va* syllable appears; in the genitive, by "*vasoḥ saṃprasāraṇam*" (Pā. Sū. 6-4-131 [?]), *saṃprasāraṇa*, with the earlier form; by "*śāsivasighasīnāṃ ca*" (Pā. Sū. 8-3-60 [?]) *ṣatva*; the *kvasu*-suffix accent remains.
+- ***vihantā*** — root *hana hiṃsāgatyoḥ*; *tṛc* in the agent sense; the *kṛdutta* final member keeps its natural accent. ‖ 5 ‖
+
+---
+
+**Sūkta 173, Ṛk 6**
+
+### Printed p. 270  (PDF 290)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Saṃhitā-pāṭha**
+
+> प्र यदित्था महिना नृभ्यो अस्त्यरं रोदसी कक्ष्ये नास्मै ।
+> सं विव्य इन्द्रो वृजनं न भूमा भर्ति स्वधावाँ ओपशमिव द्याम् ॥ ६ ॥
+
+> *pra yad itthā mahinā nṛbhyo asty araṃ rodasī kakṣye nāsmai |*
+> *saṃ vivya indro vṛjanaṃ na bhūmā bharti svadhāvāṃ opaśam iva dyām ‖ 6 ‖*
+
+**Pada-pāṭha**
+
+> प्र । यत् । इत्था । महिना । नृऽभ्यः । अस्ति । अरम् । रोदसी इति । कक्ष्ये इति । न । अस्मै ।
+> सम् । विव्ये । इन्द्रः । वृजनम् । न । भूम [?] । भर्ति । स्वधाऽवान् । ओपशंऽइव । द्याम् ॥ ६ ॥
+
+> *pra | yat | itthā | mahinā | nṛ-bhyaḥ | asti | aram | rodasī iti | kakṣye iti | na | asmai |*
+> *sam | vivye | indraḥ | vṛjanam | na | bhūma [?] | bharti | svadhā-vān | opaśaṃ-iva | dyām ‖ 6 ‖*
+
+**Sāyaṇa-bhāṣya**
+
+> यद्यै इन्द्रो महिना महत्त्वेन स्वैश्वर्येण नृभ्यो नेतृभ्यः कर्मनिर्वाहकेभ्यो यजमानेभ्यः प्राप्ति प्रभवति ईष्वे [?] स्वर्गादिप्रदाने रक्षितुं अस्मै रक्षकायेन्द्राय रोदसी द्यावापृथिव्यौ कक्ष्ये कक्ष्ययेते सती संचाराय नारं नालं । न पर्याप्ते । जगतोऽधीशस्येन्द्रस्य संचारायाल्पत्वाद्द्यावापृथिव्यौ न पर्याप्ते इत्यर्थः । सृष्ट्यादेपि सृष्टुर्महिम्नोऽधिकत्वादिति भावः । अयमिन्द्रो वृजनं न भूमं भूमिं भूतानि वा वृजनं न वृजनमिव ॥ वृजेः कर्तनार्थस्येदं रूपम् । तदिव तद्यथावृणोति तथायमपि स्वतेजसा सं विव्ये । सम्यग्वावृणोति लोकत्रयम् । किंचायं स्वधावाननवान् वृष्टिलक्षणोदकवान्वा द्यां दिवं भर्ति बिभर्ति । धारणे दृष्टान्तः । ओपशमिव । ईषदुपशेते इत्योपशं शृङ्गं । तद्वृषभ इव । यद्वा । परस्परं समीपे वर्तमानं क्षित्यन्तरिक्षाख्यं लोकद्वयमोपशं । तदिव द्यां बिभर्ति । लोकत्रयमपि बिभर्तीत्यर्थः ॥ भृञोऽलोट्‌ छान्दसः शपो लुक् ॥ [as read; partly doubtful: [?]]
+
+> *yad yai indro mahinā mahattvena svaiśvaryeṇa nṛbhyo netṛbhyaḥ karmanirvāhakebhyo yajamānebhyaḥ prāpti prabhavati īṣve [?] svargādipradāne rakṣituṃ asmai rakṣakāyendrāya rodasī dyāvāpṛthivyau kakṣye kakṣyayete satī saṃcārāya nāraṃ nālaṃ | na paryāpte | jagato 'dhīśasyendrasya saṃcārāyālpatvād dyāvāpṛthivyau na paryāpte ity arthaḥ | sṛṣṭyāder api sraṣṭur mahimno 'dhikatvād iti bhāvaḥ | ayam indro vṛjanaṃ na bhūmaṃ bhūmiṃ bhūtāni vā vṛjanaṃ na vṛjanam iva ‖ vṛjeḥ kartanārthasyedaṃ rūpam | tad iva tad yathā vṛṇoti tathāyam api svatejasā saṃ vivye | samyag vāvṛṇoti lokatrayam | kiṃcāyaṃ svadhāvān annavān vṛṣṭilakṣaṇodakavān vā dyāṃ divaṃ bharti bibharti | dhāraṇe dṛṣṭāntaḥ | opaśam iva | īṣad upaśete ity opaśaṃ śṛṅgaṃ | tad vṛṣabha iva | yadvā | parasparaṃ samīpe vartamānaṃ kṣity-antarikṣākhyaṃ lokadvayam opaśaṃ | tad iva dyāṃ bibharti | lokatrayam api bibhartīty arthaḥ ‖ bhṛño 'loṭ chāndasaḥ śapo luk ‖* [?]
+
+*Gist:* Because of his greatness Indra is able to protect and give heaven to the sacrificers who carry out the rites; heaven and earth are too small for his movement; he covers the three worlds with his splendour and, rich in food and water, bears heaven like a horn.
+
+**Pratipadārtha (Kannada, translated)**
+
+*yat* — because Indra; *itthā* — truly; *mahinā* — by his own greatness (lordship); *nṛbhyaḥ* — to the leaders (to the sacrificers who carry out the rites); *pra asti* — is able to grant heaven and other fruits, or to protect; *asmai* — (protecting) to this Indra; *kakṣye* — extending to the sides (as in the sense of the hip-girdle); *rodasī* — earth and atmosphere; *na aram* — are not sufficient (for his movement); *indraḥ* — this Indra; *bhūma* — the earth; *vṛjanaṃ na* — like a covering the sky; *saṃ vivye* — (with his lustre, the three worlds) pervades; (*kiñca ayam* — further this)
+
+---
+
+**Progress note:** printed p. 270 (PDF 290) done — Sūkta 173 Ṛk 5 complete; Ṛk 6: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 271). Next: printed p. 271 (PDF 291). Open flags: Ṛk 6 Pada 'bhūma' [?]; bhāṣya doubtful; sūtra numerals [?]; review/doubts_v13.json.
