@@ -17609,4 +17609,82 @@ Second: the description that the third step (or station) of all of them lies in 
 
 ---
 
-**Progress note:** printed p. 628 (PDF 648) done — Sūkta 183 Ṛk 1 Special Topics (three strides/stations of Viṣṇu, Agni, Aśvins; tridhātu; third station hidden; continues p. 629). Next: printed p. 629 (PDF 649). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 629  (PDF 649)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 629.)*
+
+— in this it is described that, of the three wheels of the chariot of the Aśvin deities, one alone is hidden from every eye and is known only to the seers who have the power of sight. Thus, in describing their extraordinary nature, the point shown in the two chief aspects is that all three deities have the same nature (*dharma*). It was told before also that the three deities are of the nature of the Ādityas. In epithets such as **tricakraḥ**, **tribarhiḥ**, **triṣadhasthaḥ**, **trivandhuraḥ**, **trivikramaḥ** a symbolic purport is implied. The same subject is told in the ṛk at hand too. And, as told above, by the word **tridhātu** their all-pervading nature is indicated; what the meaning of the word *tridhātu* is must be understood.
+
+**Tridhātunā** — "*triprakārasānopetena; suvarṇarajatatāmradhātutrayopetena vā rathena*" is the meaning given. The word *tridhātu* has many senses in many places: "*trayāṇāṃ dhātūnāṃ samāhāras tridhātu*" — a compound of three constituents; it is one distinguished by the three constituents of the form Earth, Fire and Light [?]. It is told that this is a combined nature of the three elements — Earth, Water (*ap*) and Light (*tejas*). Sāyaṇa, when explaining the purport of this word, in some places:
+
+> तासां त्रिवृतं त्रिवृतमेकैकां करवाणीति सेयं देवतेमास्तिस्रो देवता अनेनैव जीवेनात्मानुप्रविश्य नामरूपे व्याकरोत् ।
+
+> *tāsāṃ trivṛtaṃ trivṛtamekaikāṃ karavāṇīti seyaṃ devatemāstisro devatā anenaiva jīvenātmānupraviśya nāmarūpe vyākarot |*
+
+(Chā. U. 6-3-2-3 [?]; the print reads "Bhā. U."; as read [?]) — citing this sentence, Sāyaṇa has shown that here the three *tattvas* — *anna* (earth), *ap* and *tejas* — were created, and that the greatness of the Supreme Spirit which holds them by its glory is praised everywhere. This explanation is but one of the many explanations of the word *tridhātu*. In still other places Sāyaṇa says that *tridhātu* is "*kālatrayaṃ guṇatrayaṃ vā*" — the three times (past, present and future), or the three qualities *sattva*, *rajas* and *tamas*.
+
+> अग्निरस्मि जन्मना जातवेदा घृतं मे चक्षुरमृतं म आसन् ।
+> अर्कस्त्रिधातू रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥
+
+> *agnirasmi janmanā jātavedā ghṛtaṃ me cakṣuramṛtaṃ ma āsan |*
+> *arkastridhātū rajaso vimāno 'jasro gharmo havirasmi nāma ‖*
+
+(Ṛ. Saṃ. 3-26-7 [?]) — in this ṛk the word *tridhātu* means "he who exists in three forms, *prāṇa*, *apāna* and *vyāna*": "*yo 'rko 'rcanīyo yaḥ prāṇo 'sti so 'ham asmi*" — the three forms of life-force — and,
+
+> यद्देवाः शर्म शरणं यद्भद्रं यदनातुरम् ।
+> त्रिधातु यद्वरूथ्यं तदस्मासु वि यन्तन । अनेहसो व ऊतयः सुऊतयो व ऊतयः ॥
+
+> *yaddevāḥ śarma śaraṇaṃ yadbhadraṃ yadanāturam |*
+> *tridhātu yadvarūthyaṃ tadasmāsu vi yantana | anehaso va ūtayaḥ suūtayo va ūtayaḥ ‖*
+
+(Ṛ. Saṃ. 8-47-10) — in this ṛk the meaning given is "the threefold quality (*triguṇa*) of the form *sattva*, *rajas*, *tamas*". Moreover:
+
+### Printed p. 630  (PDF 650)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 630.)*
+
+> आ धर्णसिर्बृहद्दिवो ररिणो विश्वेभिर्गोभिर्नृभिर्हुवानः ।
+> ग्ना वसान ओषधीरमृध्रस्त्रिधातुशृङ्गो वृषभो वयोधाः ॥
+
+> *ā dharṇasirbṛhaddivo rariṇo viśvebhirgobhirnṛbhirhuvānaḥ |*
+> *gnā vasāna oṣadhīramṛdhrastridhātuśṛṅgo vṛṣabho vayodhāḥ ‖*
+
+(Ṛ. Saṃ. 5-43-13 [?]; as read, first-line words doubtful [?]) — here the flame of Agni is described. For the word *tridhātuśṛṅgaḥ* here the meaning given is "*triprakāraśṛṅgavantaṃ*": "*śukla-kṛṣṇa-lohita-varṇajvālaḥ*" — he who has flames of three kinds, rising high, white, black and red.
+
+> त्रिरा दिवः सवितर्वार्याणि दिवेदिवे आ सुव त्रिर्नो अह्नः ।
+> त्रिधातु राय आ सुवा वसूनि भग त्रातर्धिषणे सातये धाः ॥
+
+> *trirā divaḥ savitarvāryāṇi divedive ā suva trirno ahnaḥ |*
+> *tridhātu rāya ā suvā vasūni bhaga trātardhiṣaṇe sātaye dhāḥ ‖*
+
+(Ṛ. Saṃ. 3-56-6) — here, as epithet of *vasūni* ("riches"), "*tridhātūni paśukanakaratnabhedena triprakārāṇi*" — *tridhātu* means riches of three kinds: cattle, gold and gems.
+
+> तव त्रिधातु पृथिवी उत द्यौर्वैश्वानर व्रतमग्ने सचन्ते ।
+> त्वं भासा रोदसी आ ततन्थाजस्रेण शोचिषा शोशुचानः ॥
+
+> *tava tridhātu pṛthivī uta dyaurvaiśvānara vratamagne sacante |*
+> *tvaṃ bhāsā rodasī ā tatanthājasreṇa śociṣā śośucānaḥ ‖*
+
+(Ṛ. Saṃ. 6-5-4 [?]) — here, to describe that the three worlds follow the vow of Vaiśvānara, *tridhātu* is used, with Earth and Heaven, as a synonym of the atmosphere.
+
+> तस्य यो योनिराशय आस । तमनु परामृश्य संलुप्याच्छिनत्त्वैष एश्वरभवत्तद्यदेतस्मिन्नाशये त्रिधातुरिवैषा विद्या तस्मात्त्रैधातवी नाम ।
+
+> *tasya yo yonirāśaya āsa | tamanu parāmṛśya saṃlupyācchinattvaiṣa eśvarabhavattadyadetasminnāśaye tridhāturivaiṣā vidyā tasmāttraidhātavī nāma |*
+
+(Śa. Brā. 5-5-5-6 [?]; Sanskrit as read, garbled in print [?]) — at the time of the slaying of Vṛtra, because the three-fold knowledge was the support, it is shown by the sentences of the Śatapatha Brāhmaṇa that the Iṣṭi, which was offered, became famous by the name *Traidhātavī Iṣṭi*.
+
+> ततो वै स इमान्लोकान्त्रेधाधुहत्तत्त्रिधातोस्त्रिधातुत्वं यं कामयेतान्नाद्यं स्यादिति तस्मा एतं त्रिधातुं निर्वपेदिन्द्राय राज्ञे पुरोडाशमेकादशकपालम् ॥
+
+> *tato vai sa imānlokāntredhādhuhattattridhātostridhātutvaṃ yaṃ kāmayetānnādyaṃ syāditi tasmā etaṃ tridhātuṃ nirvapedindrāya rājñe puroḍāśamekādaśakapālam ‖*
+
+(Tai. Saṃ. 2-3-6-1 [?]; Sanskrit as read, doubtful in places [?]) — for the word *tridhātu* in the Saṃhitā sentences of the Taittirīya, Sāyaṇa gives this explanation:
+
+> तिस्र एताः स्त्रिधातोर्देवताः लोकत्रयात्मिकाः । ततः खलु त्रिधातु देवतानां त्रिश्चात्रेजापतिः लोकत्रयव्याप्ती व्याप्तानिमान् लोकान्स्त्रेधा दुहत् त्रिप्रकारमदुहत् । त्रयोऽधाधातवो धनान्यस्मिन्निति त्रिधातुः । त्रेधा धातव्यत्वात्पुरोडाशस्य । यद्वा सर्वाधारलोकत्रयात्मकत्वात् त्रिधातुः ॥
+
+> *tisra etāḥ stridhātordevatāḥ lokatrayātmikāḥ | tataḥ khalu tridhātu devatānāṃ triścātrejāpatiḥ lokatrayavyāptī vyāptānimān lokānstredhā duhat triprakāramaduhat | trayo 'dhādhātavo dhanānyasminniti tridhātuḥ | tredhā dhātavyatvātpuroḍāśasya | yadvā sarvādhāralokatrayātmakatvāt tridhātuḥ ‖*
+
+(Tai. Saṃ. Bhāṣya [?]; Sanskrit as read, corrupt in print; many words doubtful [?]).
+
+---
+
+**Progress note:** printed p. 630 (PDF 650) done — Sūkta 183 Ṛk 1 Special Topics (tridhātu: many senses, citations from Chā. U., Ṛg, Śa. Brā., Tai. Saṃ.; continues p. 631). Next: printed p. 631 (PDF 651). Open flags: refs [?]; review/doubts_v13.json.
