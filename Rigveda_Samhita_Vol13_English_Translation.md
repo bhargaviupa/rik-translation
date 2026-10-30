@@ -8462,4 +8462,67 @@ In the second sense, saying "*asurapurabhaṅgagamane vā dṛṣṭāntaḥ*", 
 
 ---
 
-**Progress note:** printed p. 328 (PDF 348) done — Sūkta 174 Ṛk 3 Special Topics and grammar in progress (grammar continues p. 329). Next: printed p. 329 (PDF 349). Open flags: Nirukta/sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 329  (PDF 349)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+- ***apāṃsi*** — *apaḥ karmākhyāyām* — by "*asun*" (Uṇ. Sū. 4-… [?]) the suffix *asun*; short *s*; being *nit*, the first syllable is *udātta*; accusative plural.
+- ***vastoḥ*** — root *vasa nivāse*; by "*bahulagrahaṇa*" in the sense *tumun*, the suffix *tosun*; by "*ñnityādir nityam*" (Pā. Sū. 6-1-197 [?]) the first syllable is *udātta*; since it ends in *ejanta* *kṛdanta* it takes the name *avyaya*. ‖ 3 ‖
+
+---
+
+**Sūkta 174, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> शेषन्नु त इन्द्र सस्मिन्योनौ प्रशस्तये पवीरवस्य महा ।
+> सृजदर्णांस्यव यद्युधा गास्तिष्ठद्धरी धृषता मृष्ट वाजान् ॥ ४ ॥
+
+> *śeṣan nu ta indra sasmin yonau praśastaye pavīravasya mahā |*
+> *sṛjad arṇāṃsy ava yad yudhā gās tiṣṭhad dharī dhṛṣatā mṛṣṭa vājān ‖ 4 ‖*
+
+**Pada-pāṭha**
+
+> शेषन् । नु । ते । इन्द्र । सस्मिन् । योनौ । प्रऽशस्तये । पवीरवस्य । महा ।
+> सृजन् । अर्णांसि । अव । यत् । युधा । गाः । तिष्ठत् । हरी इति । धृषता । मृष्ट । वाजान् ॥ ४ ॥
+
+> *śeṣan | nu | te | indra | sasmin | yonau | pra-śastaye | pavīravasya | mahā |*
+> *sṛjan | arṇāṃsi | ava | yat | yudhā | gāḥ | tiṣṭhat | harī iti | dhṛṣatā | mṛṣṭa | vājān ‖ 4 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र ते शत्रवः सस्मिन् सर्वस्मिन् समाने वा योनौ स्वकीये स्थानेऽन्तरिक्षे वा । योनिरन्तरिक्षं [?] । नु क्षिप्रं शेषन् शेरताम् । शीङो लेट्यडागमः । वृत्यये न परस्मैपदं । सिब्बहुलमिति सिप् [?] । किमर्थं । प्रशस्तये प्रशंसनाय तवैतत्सुतये [?] । त्रस्मिन्हिमजज्ञापनायेत्यर्थः [?] । किं सेवनादिसाधनेनेति आह । पवीरवस्य कुलिशस्य कुलिशशब्दस्य वा महा महिम्ना । त्वद्वज्रप्रहारेण हता मेघाः शत्रवो वा तत्रैव शेरते निपातेन पलायन्त इत्यर्थः । किंच यद्यदा युधा प्रहरणसाधनेनायुधेन युद्धेन वा गाः गच्छसि तदार्णांस्युदकान्यव सृजत् । अवासृजः । आवाङ्मुखमुपातयेः । पुरुषव्यत्ययः । तदर्थं हरी अश्वौ तिष्ठत् । अध्यतिष्ठः । अत्रापि पुरुषव्यत्ययः । यद्वा । यदा हरी अधितिष्ठसि तदावासृजः । अथैवं कृत्वा वाजानन्नानि सस्यादिलक्षणानि धृषता धर्षकेण सामर्थ्येन मृष्ट । शोधय । प्रवर्धयेत्यर्थः ॥
+
+> *he indra te śatravaḥ sasmin sarvasmin samāne vā yonau svakīye sthāne 'ntarikṣe vā | yonir antarikṣaṃ [?] | nu kṣipraṃ śeṣan śerantām | śīṅo leṭy aḍāgamaḥ | vṛtyaye na parasmaipadaṃ | sibbahulam iti sip [?] | kimartham | praśastaye praśaṃsanāya tavaitat sutaye [?] | trasminhimajajñāpanāyety arthaḥ [?] | kiṃ sevanādisādhaneneti āha | pavīravasya kuliśasya kuliśaśabdasya vā mahā mahimnā | tvadvajraprahāreṇa hatā meghāḥ śatravo vā tatraiva śerate nipātena palāyanta ity arthaḥ | kiṃca yad yadā yudhā praharaṇasādhanenāyudhena yuddhena vā gāḥ gacchasi tadārṇāṃsy udakāny ava sṛjat | avāsṛjaḥ | āvāṅmukham upātayeḥ | puruṣavyatyayaḥ | tadarthaṃ harī aśvau tiṣṭhat | adhyatiṣṭhaḥ | atrāpi puruṣavyatyayaḥ | yadvā | yadā harī adhitiṣṭhasi tadāvāsṛjaḥ | athaivaṃ kṛtvā vājān annāni sasyādilakṣaṇāni dhṛṣatā dharṣakeṇa sāmarthyena mṛṣṭa | śodhaya | pravardhayety arthaḥ ‖* [?]
+
+*Gist:* O Indra, by the might of your thunderbolt let your enemies (the clouds) lie low in their own place; when you go, armed, you let the waters pour down; mount your two bay horses and, by your power, cleanse and increase the grains.
+
+### Printed p. 330  (PDF 350)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174". Stray pencil/stamp marks at the top left of the page, not text.)*
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *te* — those enemies of yours (the clouds); *sasmin* — all, or the same; *yonau* — in their own place, or (in the cloud) in the atmosphere; *pavīravasya* — of the thunderbolt, or of the sound of the thunderbolt; *mahā* — by greatness; *praśastaye* — for praising (your greatness); *nu* — quickly; *śeṣan* — may they lie (fall); (*kiñca* — and) *yat* — when; *yudhā* — with a weapon used in attack, or with battle (specially); *gāḥ* — you go; (*tadā* — then); *arṇāṃsi* — the waters; *ava sṛjat* — you pour down (with face turned down); (*tadartham* — for that purpose, by that same intention); *harī* — the two horses called Hari; *tiṣṭhat* — you mount (having done so); *vājān* — the grains and the like; *dhṛṣatā* — by your power; *mṛṣṭa* — purify (bring to increase).
+
+**Bhāvārtha**
+
+O Indra, may your enemies, overcome by the power of your thunderbolt, lie quiet in their own places, each manifesting your greatness (let the clouds, separated by the thunderbolt, show your greatness in the atmosphere, their own place); mounting your two bay horses and going forth eager for battle (as the bearer of the weapon), you pour down the waters with their faces turned down. By this power of yours let the grains and the like increase.
+
+**Printed English**
+
+Let (your foes, Indra,) humbled by the might of your thunderbolt, rest in their own station, for your glory: when you move, (armed) with your weapon, you send down the waters: arresting your horses, increase, by your power, (the abundance of) food.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***sasmin yonau te nu śeṣan*** — in this sentence Indra is addressed. The word *te* means "your enemies". The word *sasmin* is used as an epithet of the word *yonau*. The Nirukta-writers read the word *yoni* among the names of house (Ni. 3-4 [?]). And —
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिराचित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir ācitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātry uṣase yonim āraik ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-113-1 [?]).
+
+---
+
+**Progress note:** printed p. 330 (PDF 350) done — Sūkta 174 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 331). Next: printed p. 331 (PDF 351). Open flags: Ṛk 4 bhāṣya doubtful [?]; review/doubts_v13.json.
