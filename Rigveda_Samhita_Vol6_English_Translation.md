@@ -8412,7 +8412,7 @@ Words treated: *aśyuḥ* (root *aśū vyāptau*, Ātmanepada; by *vyatyayo bahu
 
 ### Page 405 (PDF 423)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **Grammar page of Rik 73.5 (concluded; noted briefly)**
 
@@ -8420,11 +8420,13 @@ Words treated: *aśyuḥ* (root *aśū vyāptau*, Ātmanepada; by *vyatyayo bahu
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.6** *(printed Ṛk "6 ||")*
 
-> ऋतस्य हि धेनवो वावशानाः स्मदूध्नीः पीपयंत द्युभक्ताः ।
-> परावतः सुमतिं भिक्षमाणा वि सिंधवः समया सस्रुरद्रिम् ॥ ६ ॥
+*(Accents as printed; the underline of "सस्रु॒" stands between ಸ and ಸ್ರು, that of "सुम॒तिं" under ಮ, and "वावशा॒नाः" under ಶಾ [accent ?].)*
 
-*ṛtasya hi dhenavo vāvaśānāḥ smadūdhnīḥ pīpayanta dyubhaktāḥ |
-parāvataḥ sumatiṃ bhikṣamāṇā vi sindhavaḥ samayā sasrur adrim ||6||*
+> ऋ॒तस्य॒ हि धे॒नवो॑ वावशा॒नाः स्मदू॑ध्नीः पी॒पयं॑त॒ द्युभ॑क्ताः ।
+> प॒रा॒वतः॑ सुम॒तिं भिक्ष॑माणा॒ वि सिंध॑वः स॒मया॑ सस्रु॒रद्रि॑म् ॥ ६ ॥
+
+*ṛtásya hí dhenávo vāvaśānā́ḥ smádūdhnīḥ pīpáyanta dyúbhaktāḥ |
+parāvátaḥ sumatíṃ bhíkṣamāṇā ví síndhavaḥ samáyā sasrur ádrim ||6||*
 
 *(Reading note: the last word of the Saṃhitā is printed "सस्रुरद्रिम्" — *sasrur adrim*; the Pada will show the division.)*
 
@@ -8443,11 +8445,11 @@ parāvataḥ sumatiṃ bhikṣamāṇā vi sindhavaḥ samayā sasrur adrim ||6|
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.6** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
 
-> ऋतस्य हि ऋतं देवयजनदेशं प्राप्तमग्निमेव धेनवोऽग्निहोत्रादिहविषां दोग्ध्र्यो गावः पीपयंत । क्षीरादिलक्षणं गव्यमपाययन् । कीदृश्यो गावः । वावशाना अग्निं पुनः पुनः कामयमानाः स्मदूध्नीः । स्मच्छब्दो नित्यशब्दसमानार्थः । नित्यमूधसा युक्ताः । सर्वदा पयसः प्रदात्र्य इत्यर्थः । द्युभक्ताः दिवा प्रकाशेन संभक्ताः संश्लिष्टाः । तेजस्विन्य इत्यर्थः । अपि च सिन्धवः स्यंदनशीला नद्यः सुमतिमस्याग्नेः शोभनामनुग्रहात्मिकां बुद्धिं भिक्षमाणा याचमानाः सस्रुः अद्रिं समयोद्रेः पर्वतस्य समीपे परावतो दूरदेशाद्वि सस्रुः । विशेषेण गच्छंति प्रवहंति । अग्नये धात्वेव्यानां हविषां निष्पत्तये ऽप्रवहंतीत्यर्थः ॥ ऋतस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । वावशानाः । वश कांतौ । यजंताच्छानच् । न वशः । पा. [६-१-२०?] इति संप्रसारणप्रतिषेधः । बहुलं छंदसीति शपो लुक् । छंदस्युभयथेति शानचि आर्धधातुकत्वादेशो लोप-यलोपौ । अत एव लसार्वधातुकानुदात्तत्वाभावे चित्स्वर एव शिष्यते । स्मदूध्नीः । स्मत् नित्यं ऊधांसि यासां । ऊधसोऽनङ् । पा. [५-४-१३१?] इत्यनङादेशः समासांतः । संख्याव्ययादेर्ङीप् । पा. [४-१-२६?] इति ङीप् । भसंज्ञायामल्लोपो ऽन इत्यलोपः । ङीपः पित्त्वाद् अनुदात्तत्वे बहुव्रीहिस्वर एव शिष्यते । पीपयंत । पा पाने । अस्माद्धेतुमति णिच् । शाच्छासाभ्येति युक् । णिअंताल्लङि ङ्लेश्च जादेशादि । चङ्यन्यतरस्यामिति चङः पूर्वस्योदात्तत्वं । हि चेति निघातप्रतिषेधः । परावतः । परागतात् । दूरं हि परागतं भवति । अस्मिन्पाठे ऽर्थे गम्यमान उपसर्गाच्छंदसि धात्वर्थे । पा. [५-१-११८?] । इति वतिः ॥
+> ऋतस्य हि ऋतं देवयजनदेशं प्राप्तमग्निमेव धेनवोऽग्निहोत्रादिहविषां दोग्ध्र्यो गावः पीपयंत । क्षीरादिलक्षणं गव्यमपाययन् । कीदृश्यो गावः । वावशाना अग्निं पुनः पुनः कामयमानाः स्मदूध्नीः । स्मच्छब्दो नित्यशब्दसमानार्थः । नित्यमूधसा युक्ताः । सर्वदा पयसः प्रदात्र्य इत्यर्थः । द्युभक्ताः दिवा प्रकाशेन संभक्ताः संश्लिष्टाः । तेजस्विन्य इत्यर्थः । अपि च सिन्धवः स्यंदनशीला नद्यः सुमतिमस्याग्नेः शोभनामनुग्रहात्मिकां बुद्धिं भिक्षमाणा याचमानाः सस्रुः अद्रिं समयोद्रेः पर्वतस्य समीपे परावतो दूरदेशाद्वि सस्रुः । विशेषेण गच्छंति प्रवहंति । अग्नये धात्वेव्यानां हविषां निष्पत्तये ऽप्रवहंतीत्यर्थः ॥ ऋतस्य । क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्चतुर्थ्यर्थे षष्ठी । वावशानाः । वश कांतौ । यजंताच्छानच् । न वशः । पा. ६-१-२० इति संप्रसारणप्रतिषेधः । बहुलं छंदसीति शपो लुक् । छंदस्युभयथेति शानचि आर्धधातुकत्वादेशो लोप-यलोपौ । अत एव लसार्वधातुकानुदात्तत्वाभावे चित्स्वर एव शिष्यते । स्मदूध्नीः । स्मत् नित्यं ऊधांसि यासां । ऊधसोऽनङ् । पा. ५-४-१३१ इत्यनङादेशः समासांतः । संख्याव्ययादेर्ङीप् । पा. ४-१-२६ इति ङीप् । भसंज्ञायामल्लोपो ऽन इत्यलोपः । ङीपः पित्त्वाद् अनुदात्तत्वे बहुव्रीहिस्वर एव शिष्यते । पीपयंत । पा पाने । अस्माद्धेतुमति णिच् । शाच्छासाभ्येति युक् । णिअंताल्लङि ङ्लेश्च जादेशादि । चङ्यन्यतरस्यामिति चङः पूर्वस्योदात्तत्वं । हि चेति निघातप्रतिषेधः । परावतः । परागतात् । दूरं हि परागतं भवति । अस्मिन्पाठे ऽर्थे गम्यमान उपसर्गाच्छंदसि धात्वर्थे । पा. ५-१-११८ । इति वतिः ॥
 
-*ṛtasya hi ṛtaṃ devayajanadeśaṃ prāptam agnim eva dhenavo 'gnihotrādihaviṣāṃ dogdhryo gāvaḥ pīpayanta | kṣīrādilakṣaṇaṃ gavyam apāyayan | kīdṛśyo gāvaḥ | vāvaśānā agniṃ punaḥ punaḥ kāmayamānāḥ smadūdhnīḥ | smacchabdo nityaśabdasamānārthaḥ | nityam ūdhasā yuktāḥ | sarvadā payasaḥ pradātrya ity arthaḥ | dyubhaktāḥ divā prakāśena saṃbhaktāḥ saṃśliṣṭāḥ | tejasvinya ity arthaḥ | api ca sindhavaḥ syandanaśīlā nadyaḥ sumatim asyāgneḥ śobhanām anugrahātmikāṃ buddhiṃ bhikṣamāṇā yācamānāḥ sasruḥ adriṃ samayādreḥ parvatasya samīpe parāvato dūradeśād vi sasruḥ | viśeṣeṇa gacchanti pravahanti | agnaye dhātavyānāṃ haviṣāṃ niṣpattaye 'pravahantīty arthaḥ || ṛtasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī | vāvaśānāḥ | vaśa kāntau | yaṅantāc chānac | na vaśaḥ | pā. [6-1-20?] iti saṃprasāraṇapratiṣedhaḥ | bahulaṃ chandasīti śapo luk | chandasy ubhayathā iti śānaci ārdhadhātukatvād eśo lopa-yalopau | ata eva lasārvadhātukānudāttatvābhāve citsvara eva śiṣyate | smadūdhnīḥ | smat nityaṃ ūdhāṃsi yāsāṃ | ūdhaso 'nań | pā. [5-4-131?] ity anaṅādeśaḥ samāsāntaḥ | saṅkhyāvyayādeṅ ṅīp | pā. [4-1-26?] iti ṅīp | bhasaṃjñāyām allopo 'na ity alopaḥ | ṅīpaḥ pittvād anudāttatve bahuvrīhisvara eva śiṣyate | pīpayanta | pā pāne | asmād dhetumati ṇic | śācchāsābhyeti yuk | ṇyantāl laṅi ṅleś ca jādeśādi | caṅy anyatarasyām iti caṅaḥ pūrvasyodāttatvaṃ | hi ceti nighātapratiṣedhaḥ | parāvataḥ | parāgatāt | dūraṃ hi parāgataṃ bhavati | asmin pāṭhe 'rthe gamyamāna upasargāc chandasi dhātvarthe | pā. [5-1-118?] | iti vatiḥ ||*
+*ṛtasya hi ṛtaṃ devayajanadeśaṃ prāptam agnim eva dhenavo 'gnihotrādihaviṣāṃ dogdhryo gāvaḥ pīpayanta | kṣīrādilakṣaṇaṃ gavyam apāyayan | kīdṛśyo gāvaḥ | vāvaśānā agniṃ punaḥ punaḥ kāmayamānāḥ smadūdhnīḥ | smacchabdo nityaśabdasamānārthaḥ | nityam ūdhasā yuktāḥ | sarvadā payasaḥ pradātrya ity arthaḥ | dyubhaktāḥ divā prakāśena saṃbhaktāḥ saṃśliṣṭāḥ | tejasvinya ity arthaḥ | api ca sindhavaḥ syandanaśīlā nadyaḥ sumatim asyāgneḥ śobhanām anugrahātmikāṃ buddhiṃ bhikṣamāṇā yācamānāḥ sasruḥ adriṃ samayādreḥ parvatasya samīpe parāvato dūradeśād vi sasruḥ | viśeṣeṇa gacchanti pravahanti | agnaye dhātavyānāṃ haviṣāṃ niṣpattaye 'pravahantīty arthaḥ || ṛtasya | kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī | vāvaśānāḥ | vaśa kāntau | yaṅantāc chānac | na vaśaḥ | pā. 6-1-20 iti saṃprasāraṇapratiṣedhaḥ | bahulaṃ chandasīti śapo luk | chandasy ubhayathā iti śānaci ārdhadhātukatvād eśo lopa-yalopau | ata eva lasārvadhātukānudāttatvābhāve citsvara eva śiṣyate | smadūdhnīḥ | smat nityaṃ ūdhāṃsi yāsāṃ | ūdhaso 'nań | pā. 5-4-131 ity anaṅādeśaḥ samāsāntaḥ | saṅkhyāvyayādeṅ ṅīp | pā. 4-1-26 iti ṅīp | bhasaṃjñāyām allopo 'na ity alopaḥ | ṅīpaḥ pittvād anudāttatve bahuvrīhisvara eva śiṣyate | pīpayanta | pā pāne | asmād dhetumati ṇic | śācchāsābhyeti yuk | ṇyantāl laṅi ṅleś ca jādeśādi | caṅy anyatarasyām iti caṅaḥ pūrvasyodāttatvaṃ | hi ceti nighātapratiṣedhaḥ | parāvataḥ | parāgatāt | dūraṃ hi parāgataṃ bhavati | asmin pāṭhe 'rthe gamyamāna upasargāc chandasi dhātvarthe | pā. 5-1-118 | iti vatiḥ ||*
 
-*(Reading note: the print is clear but small; the tail from "ṛtasya" on is much compressed; "yaṅantāc chānac", "ṇyantāl laṅi ṅleś ca jādeśādi", "caṅy anyatarasyām" and the whole of the last two sentences are doubtful, and the Pāṇini numerals are doubtful [?]. The bhāṣya's tail begins at "ṛtasya".)*
+*(Reading note: the print is clear but small; the tail from "ṛtasya" on is much compressed; "yaṅantāc chānac", "ṇyantāl laṅi ṅleś ca jādeśādi", "caṅy anyatarasyām" and the whole of the last two sentences are doubtful, and the Pāṇini numerals re-read from the print. The bhāṣya's tail begins at "ṛtasya".)*
 
 *Meaning:* To *ṛta* — to Agni, who has come to the place of sacrifice — indeed the cows (*dhenavaḥ*), milkers of the oblations for the *agnihotra* and the rest, *pīpayanta* — gave to drink (the cow-produce, milk and the rest). How are the cows? *Vāvaśānāḥ* — desiring Agni again and again; *smadūdhnīḥ* — *smat* is of the same sense as "constant": possessed of constant udders: always givers of milk; *dyubhaktāḥ* — joined with the radiance of the day: shining. And the rivers (*sindhavaḥ*) — streaming ones — begging (*bhikṣamāṇāḥ*) the good (*su*) favour (*matim*), the benevolent mind, of this Agni, have flowed (*sasruḥ*) towards the mountain (*adrim*), near the mountain, from afar (*parāvataḥ*) — for the preparation of the oblations to be offered to Agni they flow.
 
@@ -8455,7 +8457,7 @@ parāvataḥ sumatiṃ bhikṣamāṇā vi sindhavaḥ samayā sasrur adrim ||6|
 
 ### Page 407 (PDF 425)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
 
@@ -8471,9 +8473,9 @@ The cows, ever giving milk, radiant, who love Agni, have come to the sacrificial
 
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
-- **ऋतस्य** — *kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī* — "here the sixth case is used in the sense of the fourth case, which is the *saṃpradāna* form. Yāska makes *ṛtam ity udakanāma pratyṛtaṃ bhavati* (Ni. [1-12?]) — 'water'; and Sāyaṇa explains *ṛtam* as *devayajanadeśam*, 'the place where, with the gods in view, the sacrifice is done'.
+- **ऋतस्य** — *kriyāgrahaṇaṃ kartavyam iti karmaṇaḥ saṃpradānatvāc caturthyarthe ṣaṣṭhī* — "here the sixth case is used in the sense of the fourth case, which is the *saṃpradāna* form. Yāska makes *ṛtam ity udakanāma pratyṛtaṃ bhavati* (Ni. 2-25 [as printed]) — 'water'; and Sāyaṇa explains *ṛtam* as *devayajanadeśam*, 'the place where, with the gods in view, the sacrifice is done'.
 
-  Skandasvāmin: *ṛtam ṛter gatikarmaṇaḥ* (Ni. [2-?]) — 'from the root *ṛ* "to go" is the form of the word *ṛta*'; so *ṛtasya* — *sarvatra gatasya* — 'of him who has gone to all places', i.e. 'of him able to go about in all places'."
+  Skandasvāmin: *ṛtam ṛter gatikarmaṇaḥ* (Ni. 2-25 [as printed]) — 'from the root *ṛ* "to go" is the form of the word *ṛta*'; so *ṛtasya* — *sarvatra gatasya* — 'of him who has gone to all places', i.e. 'of him able to go about in all places'."
 - **स्मदूध्नीः** — *smacchabdaḥ praśastavacanaḥ | amṛtapacanāt praśastam ūdho yāsāṃ tāḥ smat* — "the word *smat* denotes 'excellent' or 'best'. *Amṛta*—" *(continued on p. 408)*
 
 ---
@@ -8494,11 +8496,11 @@ The cows, ever giving milk, radiant, who love Agni, have come to the sacrificial
 
 ### Page 409 (PDF 427)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 73.6, noted briefly; not transcribed)*
 
-Words treated: *ṛtasya* (in the sūtra that prescribes the *saṃpradāna* designation there is the statement *kriyāgrahaṇaṃ kartavyam*, so the *saṃpradāna* designation arises for the object, and the sixth case stands in the sense of the fourth). *vāvaśānāḥ* (root *vaśa kāntau*; since intensity is meant, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ*, Pā. [3-1-22]; doubling by *sanyaṅoḥ*; *halādiśeṣa* of the reduplicate; lengthening by *dīrgho 'kitaḥ*, Pā. [7-4-83]; *vāvaśya* receives the root-designation by *sanādyantā dhātavaḥ*; *śānac* in the present sense; the samprasāraṇa is prohibited by *na vaśaḥ*, Pā. [6-1-20], since *yaṅ* follows; loss of *śap* by *bahulaṃ chandasi*; the *śānac* gets *ārdhadhātuka* designation by *chandasy ubhayathā*, so loss of *y* by *yasya halaḥ* and of *a* by *ato lopaḥ*; the form *vāvaśāna*; since the root is not in the *adupadeśa* class, *tāsyanudāttet…* does not apply; because *śānac* is *cit*, final acute by *citaḥ*). *smadūdhnīḥ* ("those whose udders are constant"; by *ūdhaso 'nań*, Pā. [5-4-131], the substitute *anaṅ* comes as a samāsānta; since the indeclinable is the first member, in the feminine *ṅīp* by *saṅkhyāvyayādeḥ…*, Pā. [4-1-26]; with *smadūdhan* + *ī*, loss of the *a* by *alopo 'naḥ*, Pā. [6-4-134]; the *ṅīp* is *pit*, hence anudātta by *anudāttau supitau*, so the bahuvrīhi accent — the first member's natural accent — remains; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*). *pīpayanta* (root *pā pāne*; with the causative sense *ṇic* by *hetumati ca*, Pā. [3-1-26]; *yuk*-augment by *śācchāsāhvā…*, Pā. [6-1-?]; the *ṇijanta* *pāyi* becomes a root by *sanādyantā*; *laṅ*, third person plural, *jhi* → *anta*; *cli* → *caṅ* by *ṇiśrid ruprasrubhyaḥ kartari caṅ*, Pā. [3-1-48]; doubling of the first single-vowel part of the root by *caṅi*; *halādiśeṣa*; shortening by *ṇau caṅy upadhāyā hrasvaḥ*, Pā. [7-4-1]; *i* for the reduplicate's vowel by *sanvallaghuni…*; lengthening of the *i* by *dīrgho laghoḥ*; loss of *ṇi* by *ṇer aniṭi*; *pararūpa* by *ato guṇe*; the form *pīpayanta*; the *ca*-reduplicate's first part gets acute by *caṅy anyatarasyām*, Pā. [6-1-?]; since *hi* occurs before, nighāta is prohibited by *hi ca*, Pā. [8-1-34]). *(Continued on p. 410.) Grammar page, noted briefly; sūtra numerals [?].*
+Words treated: *ṛtasya* (in the sūtra that prescribes the *saṃpradāna* designation there is the statement *kriyāgrahaṇaṃ kartavyam*, so the *saṃpradāna* designation arises for the object, and the sixth case stands in the sense of the fourth). *vāvaśānāḥ* (root *vaśa kāntau*; since intensity is meant, *yaṅ* by *dhātor ekāco halādeḥ kriyāsamabhihāre yaṅ*, Pā. [3-1-22]; doubling by *sanyaṅoḥ*; *halādiśeṣa* of the reduplicate; lengthening by *dīrgho 'kitaḥ*, Pā. [7-4-83]; *vāvaśya* receives the root-designation by *sanādyantā dhātavaḥ*; *śānac* in the present sense; the samprasāraṇa is prohibited by *na vaśaḥ*, Pā. [6-1-20], since *yaṅ* follows; loss of *śap* by *bahulaṃ chandasi*; the *śānac* gets *ārdhadhātuka* designation by *chandasy ubhayathā*, so loss of *y* by *yasya halaḥ* and of *a* by *ato lopaḥ*; the form *vāvaśāna*; since the root is not in the *adupadeśa* class, *tāsyanudāttet…* does not apply; because *śānac* is *cit*, final acute by *citaḥ*). *smadūdhnīḥ* ("those whose udders are constant"; by *ūdhaso 'nań*, Pā. [5-4-131], the substitute *anaṅ* comes as a samāsānta; since the indeclinable is the first member, in the feminine *ṅīp* by *saṅkhyāvyayādeḥ…*, Pā. [4-1-26]; with *smadūdhan* + *ī*, loss of the *a* by *alopo 'naḥ*, Pā. [6-4-134]; the *ṅīp* is *pit*, hence anudātta by *anudāttau supitau*, so the bahuvrīhi accent — the first member's natural accent — remains; before *jas*, lengthening of the earlier similar vowel by *vā chandasi*). *pīpayanta* (root *pā pāne*; with the causative sense *ṇic* by *hetumati ca*, Pā. [3-1-26]; *yuk*-augment by *śācchāsāhvā…*, Pā. 7-3-37; the *ṇijanta* *pāyi* becomes a root by *sanādyantā*; *laṅ*, third person plural, *jhi* → *anta*; *cli* → *caṅ* by *ṇiśrid ruprasrubhyaḥ kartari caṅ*, Pā. [3-1-48]; doubling of the first single-vowel part of the root by *caṅi*, Pā. 6-1-11; *halādiśeṣa*; shortening by *ṇau caṅy upadhāyā hrasvaḥ*, Pā. [7-4-1]; *i* for the reduplicate's vowel by *sanvallaghuni…*; lengthening of the *i* by *dīrgho laghoḥ*, Pā. 7-4-94; loss of *ṇi* by *ṇer aniṭi*; *pararūpa* by *ato guṇe*; the form *pīpayanta*; the *ca*-reduplicate's first part gets acute by *caṅy anyatarasyām*, Pā. 6-1-218; since *hi* occurs before, nighāta is prohibited by *hi ca*, Pā. [8-1-34]). *(Continued on p. 410.) Grammar page, noted briefly; sūtra numerals [?].*
 
 ---
 
@@ -8512,17 +8514,19 @@ Words treated: *ṛtasya* (in the sūtra that prescribes the *saṃpradāna* des
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 73.7** *(printed Ṛk "7 ||")*
 
-> त्वे अग्ने सुमतिं भिक्षमाणा दिवि श्रवो दधिरे यज्ञियासः ।
-> नक्ता च चक्रुरुषसा विरूपे कृष्णं च वर्णमरुणं च संधुः ॥ ७ ॥
+*(Accents as printed; in "यज्ञि॒या॑सः" the underline stands between ಜ್ಞಿ and ಯಾ [accent ?].)*
 
-*tve agne sumatiṃ bhikṣamāṇā divi śravo dadhire yajñiyāsaḥ |
-naktā ca cakrur uṣasā virūpe kṛṣṇaṃ ca varṇam aruṇaṃ ca saṃdhuḥ ||7||*
+> त्वे अ॑ग्ने सुम॒तिं भिक्ष॑माणा दि॒वि श्रवो॑ दधिरे यज्ञि॒या॑सः ।
+> नक्ता॑ च च॒क्रुरु॒षसा॒ विरू॑पे कृ॒ष्णं च॒ वर्ण॑मरु॒णं च॒ संधुः॑ ॥ ७ ॥
+
+*tvé agne sumatíṃ bhíkṣamāṇā diví śrávo dadhire yajñíyāsaḥ |
+náktā ca cakrúr uṣásā vírūpe kṛṣṇáṃ ca várṇam aruṇáṃ ca sáṃdhuḥ ||7||*
 
 ---
 
 ### Page 411 (PDF 429)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.7**
 
@@ -8589,7 +8593,7 @@ The gods, worthy of worship in the sacrifice, longing for your good will, offere
 
 ### Page 413 (PDF 431)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **Special Topics of Rik 73.7 (continued)**
 
@@ -8621,7 +8625,7 @@ Words treated: *tve* (the stem *yuṣmad*; before the seventh-case singular endi
 
 ### Page 415 (PDF 433)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **Grammar page of Rik 73.7 (concluded; noted briefly)**
 
@@ -8678,7 +8682,7 @@ For the attainment of lordship (*aiśvarya*), we mortals, urged by you (to perfo
 
 ### Page 417 (PDF 435)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]"; foot signature "VI 27".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20"; foot signature "VI 27".)*
 
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
@@ -8711,7 +8715,7 @@ Words treated: *rāye* (the stem *rai*; before the dative singular ending *ṅe*
 
 ### Page 419 (PDF 437)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha of Rik 73.9**
 
@@ -8763,7 +8767,7 @@ O Agni! Protected by you, may we destroy the enemies' horses by our horses, thei
 
 ### Page 421 (PDF 439)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **Special Topics of Rik 73.9 (concluded)**
 
@@ -8805,7 +8809,7 @@ Words treated: *arvadbhiḥ* (root *ṛ gatau*; the affix *vanip* by *anyebhyo '
 
 ### Page 423 (PDF 441)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "20" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 20".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 73.10** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
 
@@ -8852,7 +8856,7 @@ O wise Agni! May the hymns that we now offer be taken up by your mind and heart.
 
 ### Page 425 (PDF 443)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga "21" as read [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 2 [as printed; for 1], Adhyāya 5, Varga 20".)*
 
 **Grammar page of Rik 73.10 (continued; noted briefly)**
 
