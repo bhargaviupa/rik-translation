@@ -505,3 +505,22 @@ Unit 10 (Sūkta 75, pp. 454–467):
   p. 466: Ni. [3-4?] -> 3-13 [as printed]
   p. 467: head Varga [?] -> 24; end note vargas reconciled
   Generic "doubtful places [?]" labels of bhāṣya headings left as they are. No doubts for the doubts page in Sūkta 75.
+Unit 10 (cont., Sūkta 76, pp. 467–486):
+  p. 467: intro जिन्वन्नित्ति -> जिन्वन्निति; [tisraḥ?] -> trīṇi; ā. [4-13?] -> 4-13 (intro, meaning, Anuvāda)
+  p. 468: heading Varga [२४?] -> २४; Saṃhitā 76.1 accents as printed (दाशेम unmarked in the print)
+  p. 469: head Varga [?] -> 24; bhāṣya वरायं -> वराय (twice); अस्माद्धेतुभावितण्यर्थाद्वृ हव्यदनिष्ठिगमश्च -> अस्मादंतर्भावितण्यर्थाद्ग्रहवृदृनिश्चिगमश्च; pā. [3-3-38?] -> 3-3-58 (also in the tail note)
+  p. 470: Ṛk. Saṃ. [10-?-?] -> 10-31-2; वदेते -> वदेत
+  p. 471: head Varga [?] -> prints 21 [as printed; for 24]; Ni. [2-9?] -> 3-9 [as printed]
+  p. 472: Saṃhitā 76.2 accents as printed
+  p. 473: head Varga [?] -> 24; pā. [5-1-130?] -> 5-1-130
+  p. 474: Ni. [3-13?] -> 3-13 [as printed]; Ṛk. Saṃ. [1-185-1] -> 1-185-1; śruti "tayor yad … sā dyauḥ [as read]" -> "tad yat … sā dyaur iti"
+  p. 475, 477, 479, 481, 483, 485: head Varga [?] -> 24; p. 487: head Varga [?] -> 25
+  p. 476: Saṃhitā 76.3 accents as printed; "व॑ह॒" [accent ?] (stroke over ವ) -> doubts page
+  p. 477: bhāṣya तदीयोश्वाभ्यामा -> तदीयाश्वाभ्यामा; चकृमं -> चकृम
+  p. 478: Ni. [2-?] -> 2-28
+  p. 480: Saṃhitā 76.4 accents as printed; bhāṣya आंगिरसास्यस्थानीयो ज्वालयो वह्निर्वेनेभ्यो -> आसास्यस्थानीयया ज्वालया वह्निर्देवेभ्यो; श्वम् -> त्वम्; वसूनस्मद- -> वसून्यस्मद-
+  p. 481: tail ह्वेञ्ज्ञो लट् -> ह्वेञो लटि; हुरुघ्न्योर्हेर्धिः -> हुझल्भ्यो हेर्धिः
+  p. 484: Saṃhitā 76.5 accents as printed; bhāṣya सन्त्वमविभि- -> सन्कविभि-; देवांस्तद्विभिः -> देवान्हविर्भिः; ā. [3-2?] left (3-2 or 3-7) -> doubts page
+  p. 486: Uṇ. [2-?] -> 2-278 [?] (third digit 7 or 2) -> doubts page; end note vargas reconciled
+  pp. 482, 485 (bodies): no flagged lines. Generic "doubtful places [?]" labels left.
+Doubts: vol6/review/html/Vol6_doubts_p454-486.html (3).
