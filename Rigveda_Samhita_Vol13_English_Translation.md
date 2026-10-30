@@ -3050,4 +3050,52 @@ Here, "*yuṣmākaṃ sambandhinī sātiḥ yathā prasastaguṇaṃ tadvat va�
 
 ---
 
-**Progress note:** printed p. 136 (PDF 156) done — Sūkta 168 Ṛk 7 Special Topics and first grammar note; continues p. 137 (grammar, '‖ 7 ‖'). Next: printed p. 137 (PDF 157). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 137  (PDF 157)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; grammar of Ṛk 7 concluded.)*
+
+*(Grammar, noted briefly)*: *amavatī* (*amaḥ asyā asti*; affix *matup*; *m* → *v* by "*mādupadhāyāśca…*" [as read]; *ṅīp* in the feminine because of the *u* marker); *svarvatī* (as before, *matup*, *va*, *ṅīp*; the affix being *pit* it is unaccented; *svar* becomes *svarita* by the Phiṭ-sūtra "*nyaṅ svarau svaritau*", [number printed, read as 65 [?]]); *rātiḥ* (root *rā ādāne*; affix *ktin*; the affix takes the acute by "*mantre vṛṣeṣapacamanaviḍāvanarakṣaśāḥ…*" [as read; Pā. Sū. 3-3-96 [?]]); *pṛṇataḥ* (root *pṛṇa prīṇane*; *śatṛ* for *laṭ*; the genitive ending after *śatṛ* without *num* takes the acute by "*śatuḥ anumo nadyajādī*", Pā. Sū. 6-1-173 [?]); *asuryā* (*asurasya iyam*; affix *yat* in the sense of relation; loss of *a* by "*yasyeti ca*"; *svarita* by "*tit svaritam*"; *ṭāp* in the feminine). ‖ 7 ‖
+
+*(ornamental rule)*
+
+**॥ संहितापाठः ॥**
+
+> प्रति ष्टोभन्ति सिन्धवः पविभ्यो यदभ्रियां वाचमुदीरयन्ति ।
+> अव स्मयन्त विद्युतः पृथिव्यां यदी घृतं मरुतः प्रुष्ण्वन्ति ॥ ८ ॥
+
+> *prati ṣṭobhanti sindhavaḥ pavibhyo yadabhriyāṃ vācamudīrayanti |*
+> *ava smayanta vidyutaḥ pṛthivyāṃ yadī ghṛtaṃ marutaḥ pruṣṇvanti ‖ 8 ‖*
+
+*(The Saṃhitā reads *ṣṭobhanti* and *pruṣṇvanti* as printed; the second is split across the line as "प्रुष्ण्-वन्ति".)*
+
+**॥ पदपाठः ॥**
+
+> प्रति । ष्टोभन्ति । सिन्धवः । पविऽभ्यः । यत् । अभ्रियाम् । वाचम् । उत्ऽईरयन्ति ।
+> अव । स्मयन्त । विऽद्युतः । पृथिव्याम् । यदि । घृतम् । मरुतः । प्रुष्ण्वन्ति ॥ ८ ॥
+
+> *prati | ṣṭobhanti | sindhavaḥ | pavi 'bhyaḥ | yat | abhriyām | vācam | ut 'īrayanti |*
+> *ava | smayanta | vi 'dyutaḥ | pṛthivyām | yadi | ghṛtam | marutaḥ | pruṣṇvanti ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> पविभ्यो मरुत्संबन्धिवज्रेभ्यः सिन्धवः स्यन्दनशीला आपः प्रति ष्टोभन्ति । प्रतिचलन्ति । कदा । यद्यदाभ्रियां मेघभवां वाचं शब्दं स्तनितलक्षणमुदीरयन्ति उच्चारयन्ति वज्राणि । किंच विद्युतो विद्योतमानास्तडितः पृथिव्यामन्तरिक्षे । पृथिवीत्यन्तरिक्षनाम । पृथिवी भूरिति तन्नामसूक्तत्वात् [?] । तत्रावस्मयन्ते । स्मयन्ते । अवाङ्मुखं प्रकाशन्ते । पृथिव्यामित्येतदुत्तरत्र वा योज्यम् । यदि यदा पृथिव्यां भूम्यां घृतं क्षरदुदकं मरुतः प्रुष्णवन्ति [?] प्रुष्णन्ति सिञ्चन्ति । प्रुषेः क्र्यादिकस्य व्यत्ययेन श्नुः । यद्येवं तदेत्यर्थः ॥
+
+*Gist:* When the Marut-thunderbolts utter the cloud's voice, the waters rush forth; the lightnings smile downward in the sky when the Maruts sprinkle rain on the earth.
+
+### Printed p. 138  (PDF 158)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168". The bhāṣya of Ṛk 8 ends at the top.)*
+
+**Pratipadārtha.** *yat* — when; *(vajrāṇi* — the thunderbolt-weapons*)* *abhriyām* — that is in the clouds; *vācam* — (the sound in the form of a thunder-rumble) voice; *ut īrayanti* — they send forth; *(tat* — then*)* *sindhavaḥ* — waters of flowing nature; *pavibhyaḥ* — by the thunderbolt-weapons of the Maruts; *prati ṣṭobhanti* — they start forth; *(kiṃca* — and*)* *yadi* — when; *pṛthivyām* — on the earth; *ghṛtam* — water; *marutaḥ* — the Marut-gods; *pruṣṇvanti* — are those who sprinkle; *(tadā* — then*)* *vidyutaḥ* — flashing lightnings; *(pṛthivyām* — in the atmosphere*)* *ava smayante* — they smile downward (shine).
+
+**Bhāvārtha.** While the clouds are thundering, the waters are sent forth by the thunderbolt-weapons (belonging to the Maruts); thus, while the Marut-gods sprinkle water on the earth, lightning shines in the sky.
+
+**English Translation (as printed):** The rivers are arrested by the thunderbolts when they utter the voice of the clouds; but the lightnings smile in the firmament when the Maruts sprinkle water on the earth.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***abhriyāṃ vācaṃ udīrayanti*** — *abhrabhavāṃ stanitalakṣaṇāṃ vācaṃ śabdam uccārayanti*: the thunderbolt-weapons, in the clouds, produce the sound of thunder; the lightnings, as they shine downward in the sky, are as if the Marut-gods drew forth the waters in the earth. Then ***sindhavaḥ prati ṣṭobhanti*** — *syandanaśīlāḥ āpaḥ praticalanti*: the waters, of flowing nature, flow over the earth and in the atmosphere as well: this is the meaning explained — that is, the rain-water fallen in the form of a downpour falls on the earth and flows.
+
+---
+
+**Progress note:** printed p. 138 (PDF 158) done — Sūkta 168 Ṛk 7 complete; Ṛk 8 Saṃhitā to Special Topics in progress (continues p. 139). Next: printed p. 139 (PDF 159). Open flags: Ṛk 8 Saṃhitā ṣṭobhanti/pruṣṇvanti glyphs [?]; small-type numerals [?]; review/doubts_v13.json.
