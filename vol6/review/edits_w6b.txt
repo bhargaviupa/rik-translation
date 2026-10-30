@@ -134,3 +134,61 @@ p. 310: tail: sūtra name "uñaḥ" added from the print; andhaḥ, vājaḥ, pa
   p. 313: running-head Varga [?] -> 16
 Unit 3 ends at p. 313 (end of Rik 71.6).
 p. 311: Skandasvāmin quotation re-read: "rāyā … yaṣṭāraṃ prati junāsi | gacchasi | … tatraivāropya gaccher ity arthaḥ" (print).
+Unit 4 (pp. 314–332, Rks 71.7–71.10, end of Sukta 71):
+p. 314: Saṃhitā 71.7 accents set as printed (crop zoom 300 dpi); bhāṣya "pṛkṣaś ca [caru-]puroḍāśādīni [?]" -> "pṛkṣaś caru-puroḍāśādīni" (print); "aṅganādiguṇayuktam" confirmed.
+  p. 315: running-head Varga [?] -> 16
+  p. 316: Ni. [2-7?] -> 3-9
+  p. 316: Ni. [8-8?] -> 8-8
+  p. 316: Ṛk. Saṃ. [10-110-3?] -> 10-110-3
+  p. 316: Ṛk. Saṃ. [10-75-5?] -> 10-75-5
+  p. 316: Ṛk. Saṃ. [2-1-4?] -> 7-11-4
+  p. 317: running-head Varga [?] -> 16
+  p. 317: Ṛk. Saṃ. [3-31-2?] -> 3-31-2
+  p. 317: Ni. [3-6?] -> 3-6
+  p. 317: Ṛk. Saṃ. [1-123-5?] -> 1-123-5
+  p. 317: [1-?-4; 1-?-3; 1-?-1] -> [1-65-4; 1-65-3; 1-100-1]
+  p. 317: Ṛk. Saṃ. [9-38-4?] -> 9-28-4
+  p. 317: Ṛk. Saṃ. [9-86-?] -> 9-68-4
+  p. 318: 1-?-? -> 1-71-7
+  p. 319: running-head Varga [?] -> 16
+  p. 321: running-head Varga [?] -> 16
+  p. 323: running-head Varga [?] -> 16
+  p. 325: running-head Varga [?] -> 16
+  p. 327: running-head Varga [?] -> 16
+  p. 329: running-head Varga [?] -> 16
+  p. 331: running-head Varga [?] -> 16
+p. 319: Saṃhitā 71.8 accents set as printed; "ānaṭ śuci" -> "ānaṭ chuci" (print, sandhi).
+p. 320: bhāṣya "abhīke [?] gabharbhasthāne" -> "abhīke 'bhyakte 'bhigate 'bhiprāpte garbhasthāne" (print); "vṛścādiṣatve ṣṭutvam" confirmed.
+  p. 320: Pā. [6-2-199?] -> (none printed)
+  p. 321: Bṛhaddevatā [1-63?] -> 1-65
+  p. 322: Ni. [2-20?] -> 3-10
+  p. 322: Ni. [3-20?] -> 3-20
+  p. 322: Ṛk. Saṃ. [10-?-?] -> 10-133-1
+p. 322: "ten names of 'pervading/doing' [as read, ?]" -> "'pervading' (vyāptikarma)" (print).
+p. 323: no flagged lines besides the running head (grammar page).
+p. 324: Saṃhitā 71.9 accents set as printed; the svarita in "yo 'dhvanaḥ" stands between dhva/naḥ [accent ?] (doubts page).
+  p. 325: Tai. Brā. [3-8-9-4?] -> 3-9-5-4
+p. 325: bhāṣya "he agne te 'drohena … bhāvaḥ [?]" -> "he agne tattadrūpeṇa tvam evaivaṃ vartasa iti bhāvaḥ" (print).
+  p. 326: Ṛk. Saṃ. [10-156-4?] -> 10-156-4
+  p. 326: Ṛk. Saṃ. [6-7-7?] -> 6-7-7
+  p. 326: Ṛk. Saṃ. [1-141-9?] -> 1-141-9
+  p. 326: Ṛk. Saṃ. [1-50-4?] -> 1-50
+  p. 326: Ṛk. [1-?-4] -> 1-109-4
+  p. 327: Ṛk. Saṃ. [2-41-6?] -> 7-64-2
+  p. 327: Ṛk. Saṃ. [8-?-10?] -> 8-23-30
+p. 328: Saṃhitā 71.10 accents set as printed; no mark visible on "viduṣ kaviḥ san" [accent ?] (doubts page); Pada "viduḥ" confirmed.
+p. 329: bhāṣya tail re-read: "sakhyur yaḥ | pā. [5-1-126?] iti yaḥ pratyayaḥ | rīṅ ṛta iti" -> "sakhyur ya iti yaḥ | pitryāṇi | pitṛbhya āgatāni | pitur yac ca | pā. 4-3-79 | iti yatpratyayaḥ | rīṅ ṛtaḥ" (a clause had been dropped); "vāprāpnotiśayoḥ" -> "vāprāmreḍitayoḥ"; "tāḍā ceti" -> "tādau ceti"; "pvādīnāṃ" confirmed.
+  p. 329: Pā. [5-1-126?] -> (none printed; 4-3-79 belongs to "pitur yac ca")
+  p. 329: Pā. [6-4-28?] -> 7-4-27
+  p. 329: Pā. [8-3-49?] -> 8-3-49
+  p. 329: Uṇ. [4-200?] -> 4-210
+  p. 330: Ṛk. Saṃ. [7-33-11?] -> 7-33-11
+  p. 330: Bṛ. De. [3-1?] -> 5-160
+p. 330: Bṛhaddevatā verse re-read: "tvagnim āprīs tasya" -> "tvagniṃ āpryas tasya" (as printed).
+  p. 331: Bṛ. De. [1-144?] -> 1-159
+p. 331: Bṛhaddevatā verse re-read: "tasmād dhy adyāpi" -> "tasmād ye 'dyāpi"; "bhālaveyī śrutis triyam" -> "bhāllaveyī śrutis triyaṃ" (print).
+  p. 332: Uṇ. [4-200?] -> [4-650?]
+  p. 332: Pā. [6-3-?] -> 7-3-80
+p. 332: "prādīnāṃ hrasvaḥ [as read]" -> "pvādīnāṃ hrasvaḥ" (print). Uṇ. number reads 4-650 at 600 dpi (p. 329 prints 4-210): doubts page.
+p. 323: grammar page; only the running head checked. Sūkta 71 grammar-page "sūtra numerals [?]" notes left (grammar pages, not re-read).
+Unit 4 ends at p. 332 (end of Sūkta 71).
