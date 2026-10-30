@@ -8311,4 +8311,62 @@ In this ṛk Sāyaṇa has given one meaning of a historical (*aitihāsika*) kin
 
 ---
 
-**Progress note:** printed p. 322 (PDF 342) done — Sūkta 174 Ṛk 2 (bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun, continues p. 323). Next: printed p. 323 (PDF 343). Open flags: Ṛk 2 bhāṣya long/dense, many [?]; Pratipadārtha order garbled; review/doubts_v13.json.
+### Printed p. 323  (PDF 343)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+…it is explained that Indra tears apart and destroys the seven cities of the *asuras*, made firm so that for a year or until the end of the year they could not be broken.
+
+***anavadya arṇāḥ apaḥ ṛṇoḥ*** — the word *anavadya* is explained as meaning one in whom there is no blame, such as fear (*kātaratva*); with this word Indra is addressed. As Indra destroyed the cities of the enemies, being himself fearless, *tadīyadurgasthānāni udakāśrayāṇi taṭākādīn prāvartayaḥ* — the meaning is explained as: "he caused the fortified places of the *asuras*, the lakes and the like which are the resting-places of waters, to be filled with flowing waters and changed in form".
+
+***purukutsāya vṛtraṃ randhīḥ*** — it is made clear that Indra killed the *asura* Vṛtra and so benefited the king Purukutsa.
+
+According to the sense of the Nirukta-writers: addressing Indra, for the word *viśaḥ* "*vṛṣṭirūpāḥ prajāḥ*", the people in the form of rain, "*mṛdhravācaḥ*", "*marṣaṇadhvani*"-possessed; the sense is that he made them so that sounds and the downpour of rain resulted. For the words in the sentence *sapta puraḥ śāradīr dart*, "*sarpaṇasvabhāvān pratyagrān vṛṣṭyai jāgarūkān meghān adārayaḥ*" — Indra has torn apart the new clouds, of a moving nature, that are awake for the sending of rain. For *anavadya arṇāḥ apaḥ ṛṇoḥ* — "*araṇasvabhāvā apaḥ prāvartayaḥ kulyādirūpeṇa*": the meaning is as before: Indra sent rain, as if the waters of a moving nature flowed in the form of channels. By the sentence *yūne purukutsāya vṛtraṃ randhīḥ* the word *vṛtra* is given the meaning "cloud": for the young king Purukutsa, he tore the cloud so that rain might fall.
+
+> त्वं ह त्यदिन्द्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥
+
+> *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ ‖*
+
+(Ṛ. Saṃ. 1-63-7 [?]). In this ṛk the same meaning is stated.
+
+The Nirukta-writers, quoting this ṛk, explained for the word *mṛdhravācaḥ* the sense "*dānamanaso no manuṣyān indra mṛduvācaḥ kuru*" (Ni. 6-31 [?]): "O Indra, make us men soft-spoken and of a generous mind" — the sense that Indra makes the sacrificer a man of soft speech, and of a mind to give, is described by the Nirukta-writers.
+
+### Printed p. 324  (PDF 344)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brāhmaṇa:
+
+> पुरुकुत्सो दौर्गहेणेज ऐक्ष्वाको राजा ।
+
+> *purukutso daurgaheṇeja aikṣvāko rājā |*
+
+(Śa. Brā. 13-5-4-5 [?]) — this sentence says that the king Purukutsa, of the Ikṣvāku line, performed the *aśvamedha* sacrifice, being the son of Durgaha (*daurgaha*). The same matter is indicated in the ṛk:
+
+> अस्माकमत्र पितरस्त आसन्त्सप्त ऋषयो दौर्गहे बध्यमाने ।
+
+> *asmākam atra pitaras ta āsan sapta ṛṣayo daurgahe badhyamāne |*
+
+(Ṛ. Saṃ. 4-42-8 [?]). But in this quoted ṛk Sāyaṇa takes the word *daurgaha* as a "marked" name (*aṅkita*), and explains it as "*durgahasya putre purukutse*", "in Purukutsa, the son of Durgaha".
+
+> त्वं ह त्यदिन्द्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥
+
+> *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ ‖*
+
+(Ṛ. Saṃ. 1-63-7 [?]) — from the basis of this ṛk it is learned that he was a contemporary of the king Sudāsa.
+
+> सनेम तेऽवसा नव्य इन्द्र प्र पूरवः स्तवन्त एना यज्ञैः । सप्त यत्पुरः शर्म शारदीर्दर्दन् दासीः पुरुकुत्साय शिक्षन् ॥
+
+> *sanema te 'vasā navya indra pra pūravaḥ stavanta enā yajñaiḥ | sapta yat puraḥ śarma śāradīr dardan dāsīḥ purukutsāya śikṣan ‖*
+
+(Ṛ. Saṃ. 6-20-10 [?]) — in this ṛk it is said that Purukutsa was a king of the people called Pūru, and that he conquered all the *dāsas*. It is learned that he had a son named Trasadasyu. But that son was apparently born after the death of Purukutsa:
+
+> पुरुकुत्सानी हि वामदाशद्धव्यैरिन्द्रावरुणा नमोभिः । अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवम् ॥
+
+> *purukutsānī hi vām adāśad dhavyair indrāvaruṇā namobhiḥ | athā rājānaṃ trasadasyum asyā vṛtrahaṇaṃ dadathur ardhadevam ‖*
+
+(Ṛ. Saṃ. 4-42-9 [?]) — this says that when Purukutsa's wife satisfied Indra and Varuṇa with oblations and with praises, they graciously gave her a son named Trasadasyu. On this basis, after Purukutsa had died in battle, his wife prayed to Indra and Varuṇa and obtained the son Trasadasyu: so the story goes.
+
+---
+
+**Progress note:** printed p. 324 (PDF 344) done — Sūkta 174 Ṛk 2 Special Topics (Purukutsa; continues p. 325). Next: printed p. 325 (PDF 345). Open flags: Ṛg/Śa. Brā./Nirukta refs [?]; review/doubts_v13.json.
