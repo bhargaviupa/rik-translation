@@ -1,0 +1,34 @@
+[
+{
+"id": "490_d0",
+"printed": 490,
+"file": "Uṇ. 1-132 [?]",
+"ctx": "*manin* by *ārtistu-su…*, Uṇ. 1-132 [?]; the stem *bhāman*",
+"kind": "numeral",
+"note": "Uṇādi number after ārtistusu: middle digit 3 or 4, last digit 2 or 7 (p. 440 printed 1-142 for the same sūtra)"
+},
+{
+"id": "499_d1",
+"printed": 499,
+"file": "aiṣayanti",
+"ctx": "stotram iṣayanta aiṣayanti ṛtvigbhiḥ kārayitum",
+"kind": "word",
+"note": "first letter at the start of the line: ಐ (ai) or ಏ (e)?"
+},
+{
+"id": "499_d2",
+"printed": 499,
+"file": "मन्म ॥ ४ ॥",
+"ctx": "इ॒षय॑न्त॒ मन्म ॥ ४ ॥",
+"kind": "accent",
+"note": "Saṃhitā 77.4 last word: the stroke above ಮನ್ಮ stands between the syllables — म॑न्म or मन्म॑?"
+},
+{
+"id": "502_d3",
+"printed": 502,
+"file": "Uṇ. 4-666 [?]",
+"ctx": "*gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca*, Uṇ. 4-666 [?]",
+"kind": "numeral",
+"note": "Uṇādi number: the three digits after 4- look alike (6? 7?)"
+}
+]

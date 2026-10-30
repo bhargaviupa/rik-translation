@@ -1,0 +1,123 @@
+[
+ {
+  "page": 282,
+  "y0": 0.4622,
+  "y1": 0.5026,
+  "kind": "word",
+  "file": "ऋषिश्चान्यस्मादिति [?]",
+  "ctx": "दशेति । ऋषिश्चान्यस्मादिति [?] परिभाषया शक्तिपुत्रः",
+  "note": "first word of 2nd line of the intro: ಶ್ಚಾನ್ಯ or ಶ್ಶಾನ್ಯ?",
+  "x0": 0.1794,
+  "x1": 0.8478
+ },
+ {
+  "page": 282,
+  "y0": 0.4896,
+  "y1": 0.5179,
+  "kind": "word",
+  "file": "परमाग्नेयमैन्द्रादिति [?]",
+  "ctx": "त्रिष्टुप् । परमाग्नेयमैन्द्रादिति [?] परिभाषितत्वादग्निर्देवता",
+  "note": "ಯಮೈಂದ್ರಾ? syllables after ಪರಮಾಗ್ನೇ",
+  "x0": 0.1794,
+  "x1": 0.8478
+ },
+ {
+  "page": 284,
+  "y0": 0.4463,
+  "y1": 0.4769,
+  "kind": "numeral",
+  "file": "उ. [२-९७?]",
+  "ctx": "स्यसेर्ऋन् । उ. [२-९७?] इति ऋन्",
+  "note": "Uṇādi numeral: 2-97? (2/7 and 9/8 doubtful)",
+  "x0": 0.2005,
+  "x1": 0.8538
+ },
+ {
+  "page": 284,
+  "y0": 0.4846,
+  "y1": 0.5153,
+  "kind": "numeral",
+  "file": "उ. [४-७३?]",
+  "ctx": "ऋहनिभ्यामुषच् । उ. [४-७३?] । छन्दसीवनिपा",
+  "note": "Uṇādi numeral: 4-73? (7/2 and 3/8 doubtful)",
+  "x0": 0.2005,
+  "x1": 0.8538
+ },
+ {
+  "page": 285,
+  "y0": 0.6424,
+  "y1": 0.6727,
+  "x0": 0.3283,
+  "x1": 0.95,
+  "kind": "numeral",
+  "file": "Ṛk. Saṃ. [9-72-2?]",
+  "ctx": "Ṛks like Ṛk. Saṃ. [9-72-2?] the words",
+  "note": "7/2 in the middle group; last digit 2?"
+ },
+ {
+  "page": 285,
+  "y0": 0.688,
+  "y1": 0.716,
+  "x0": 0.3,
+  "x1": 0.95,
+  "kind": "numeral",
+  "file": "[1-165-1; 7-56-1?]",
+  "ctx": "in the places [1-165-1; 7-56-1?] where the Maruts",
+  "note": "first digit of the second reference: 2 or 7?"
+ },
+ {
+  "page": 287,
+  "y0": 0.5451,
+  "y1": 0.5792,
+  "x0": 0.4498,
+  "x1": 0.95,
+  "kind": "numeral",
+  "file": "Uṇ. [2-253?]",
+  "ctx": "by *suñsyaser ṛn*, Uṇ. [2-253?], giving",
+  "note": "running Uṇādi number: 2-253?"
+ },
+ {
+  "page": 287,
+  "y0": 0.7078,
+  "y1": 0.7419,
+  "x0": 0.1431,
+  "x1": 0.95,
+  "kind": "numeral",
+  "file": "Uṇ. [4-513?]",
+  "ctx": "\"to go\"; *uṣac* by *ṛhanibhyām uṣac*, Uṇ. [4-513?];",
+  "note": "4-513? (5/7 doubtful)"
+ },
+ {
+  "page": 288,
+  "y0": 0.577,
+  "y1": 0.6106,
+  "x0": 0.1945,
+  "x1": 0.6043,
+  "kind": "accent",
+  "file": "केतुमु॒स्राः",
+  "ctx": "स्व॑र्विविदुः केतुमु॒स्राः ॥ २ ॥",
+  "note": "is there an anudātta mark under ಕೇ (ketum)? none seen"
+ },
+ {
+  "page": 292,
+  "y0": 0.455,
+  "y1": 0.5,
+  "x0": 0.45,
+  "x1": 0.95,
+  "kind": "accent",
+  "file": "दि॑धि॒ष्वो॒३॑ विभृ॑त्राः",
+  "ctx": "धी॒तिमादिद॒र्यो दि॑धि॒ष्वो॒३॑ विभृ॑त्राः ।",
+  "note": "marks on ಷ್ವೋ and on the pluta ೩ (under and over?); no mark under ವಿ?"
+ },
+ {
+  "page": 296,
+  "y0": 0.6574,
+  "y1": 0.6973,
+  "x0": 0.1794,
+  "x1": 0.95,
+  "kind": "numeral",
+  "file": "Phiṭ. [17?]",
+  "ctx": "*āryaḥ svāmyākhyā cet*, Phiṭ. [17?], final acute)",
+  "note": "printed (ಫಿ. ಸೂ. ೧?) — second digit 7 or 2?"
+ }
+]
