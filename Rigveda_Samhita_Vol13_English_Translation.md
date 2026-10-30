@@ -1029,4 +1029,70 @@ In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has 
 
 ---
 
-**Progress note:** printed p. 48 (PDF 68) done — Sūkta 166 Ṛk 10: Saṃhitā to Bhāvārtha done. Next: printed p. 49 (PDF 69): English of Ṛk 10, Special Topics. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 49  (PDF 69)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)*
+
+**English Translation (as printed):** Maruts, in your arms, propitious to man, are many good things: on your breasts are golden (ornaments), brilliant and conspicuous: white garlands (hang) on your shoulders: sharp are (the edges of) your weapons: the Maruts have various decorations, as birds have (many coloured) wings.
+
+**Special Topics (Viśeṣaviṣayagaḷu).** In this ṛk the ornaments the Marut-gods wear on their various limbs for adornment, and their weapons, are described.
+
+***bhūrīṇi bhadrā naryeṣu bāhuṣu*** — the Marut-gods bear in their strong arms (hands) excellent things in order to give to the sacrificers; that is, they hold in their hands many auspicious excellent things to be given to the sacrificers who praise them. Here for the word *naryeṣu* the Bhāṣyakāra explains *narebhyo hiteṣu*, "beneficial to men", that is, "desired by men". The scholar Max Müller translates it as "manly" — "strong (arms) such as men ought to have" (English: manly).
+
+***vakṣassu rukmā*** — *urasthaleṣu rukmāḥ suvarṇaratnādinirmitānyābharaṇāni dhārayanti*: they wear on the chest ornaments such as necklaces made of gold and jewels. This matter is described also in the ṛk *vakṣaḥsu rukmā* (Ṛ. Saṃ. 1-64-4). The word *rukmā*, in the plural, is used to denote the necklaces and similar ornaments of gold that the Maruts wear on their breasts. For this very reason, in ṛks 2-34-2 [?]; 5-55-1 [?]; 5-52-5 [?] and others, the Marut-gods are called *rukmavakṣasaḥ* ("with golden ornaments on the chest" — "gold-breasted", English). In the Āśvalāyana Śrauta-sūtra (Ā. Śrau. Sū. 9-4 [?]) and in the Taittirīya Saṃhitā (Tai. Saṃ. 1-8-13-1 [?]) the *rukmaṃ hotre* — the gold ornament given to the *hotṛ* priest in a sacrifice, at the end of the performance [?] — is described. It is said that this ornament is round in shape; it may be an ornament like what is called a necklace (*hāra*).
+
+***rabhasāsaḥ*** — *rābhasyayuktāni kāntimanti vā*: glittering, shining. This word is formed from the root *rabh*, meaning "to rush in, to fall upon". This word shows strength accompanied by speed. The word *rabhasa* is found used not only of the Maruts but also of Agni and Indra. *(Printer's signature at the foot: "XIII 4".)*
+
+### Printed p. 50  (PDF 70)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+> पृश्नेः पुत्रा उपमासो रभिष्ठाः स्वया मत्या मरुतः सं मिमिक्षुः ।
+
+> *pṛśneḥ putrā upamāso rabhiṣṭhāḥ svayā matyā marutaḥ saṃ mimikṣuḥ |*
+
+(Ṛ. Saṃ. 5-52-16 [?]) — in this ṛk the word *rabhiṣṭhāḥ* (very forceful ones) is used as an epithet of the Maruts.
+
+> पृथुं तिरश्चा वयसा बृहन्तं व्यचिष्ठमन्नै रभसं दृशानम् । [?]
+
+> *pṛthuṃ tiraścā vayasā bṛhantaṃ vyaciṣṭhamannai rabhasaṃ dṛśānam | [?]*
+
+(Ṛ. Saṃ. 3-10-4 [?]) — here the word *rabhasam* is used as an epithet of Agni.
+
+> विष्कभ्नन्तः स्कम्भनेना जनित्री आसीना ऊर्ध्वं रभसं वि मिन्वन् ।
+
+> *viṣkabhnantaḥ skambhanenā janitrī āsīnā ūrdhvaṃ rabhasaṃ vi minvan |*
+
+(Ṛ. Saṃ. 3-31-13 [?]) — in this ṛk the word *rabhasam* is used as an epithet of Indra. And in some places this word is found used in the senses of cruel, terrible, falling suddenly with speed, and so on:
+
+> अधा शयीत निर्ऋतेरुपस्थेऽधैनं वृका रभसासो अद्युः ।
+
+> *adhā śayīta nirṛterupasthe 'dhainaṃ vṛkā rabhasāso adyuḥ |*
+
+(Ṛ. Saṃ. 10-95-14 [?]) — in this ṛk the word *rabhasāsaḥ* is used as an epithet of *vṛkāḥ* (wolves), in the sense "rushing in front with speed, terrible". In the ṛk in question here (the present ṛk) the word *rabhasa* has been used in the sense "shining, luminous".
+
+> भद्रान्कृण्वन्निन्द्रहवान्त्सखिभ्य आ सोमो वस्त्रा रभसानि दत्ते ।
+
+> *bhadrānkṛṇvannindrahavāntsakhibhya ā somo vastrā rabhasāni datte |*
+
+(Ṛ. Saṃ. 9-96-1 [?]) — in this ṛk too, the word is used in the same sense, as an epithet of *vastrā* (garments).
+
+The ornaments and weapons of the Maruts are described in detail in the ṛks:
+
+> चित्रैरञ्जिभिर्वपुषे व्यञ्जते वक्षःसु रुक्माँ अधि येतिरे शुभे । अंसेष्वेषां नि मिम्रक्षुर्ऋष्टयः साकं जज्ञिरे स्वधया दिवो नरः ॥
+
+> *citrairañjibhirvapuṣe vyañjate vakṣaḥsu rukmāṃ adhi yetire śubhe | aṃseṣveṣāṃ ni mimrakṣurṛṣṭayaḥ sākaṃ jajñire svadhayā divo naraḥ ‖*
+
+(Ṛ. Saṃ. 1-64-4)
+
+> अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः । अग्निभ्राजसो विद्युतो गभस्त्योः शिप्राः शीर्षसु वितता हिरण्ययीः ॥
+
+> *aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ | agnibhrājaso vidyuto gabhastyoḥ śiprāḥ śīrṣasu vitatā hiraṇyayīḥ ‖*
+
+(Ṛ. Saṃ. 5-54-11)
+
+***etāḥ*** — *śuklavarṇā mālāḥ*: "white garlands or necklaces", is the Bhāṣyakāra's explanation. The word *etāḥ* suggests the sense "a spotted deer". For this very reason *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 50 (PDF 70) done — Sūkta 166 Ṛk 10 Special Topics (etāḥ; continues on p. 51). Next: printed p. 51 (PDF 71). Open flags: small-type numerals [?]; review/doubts_v13.json.
