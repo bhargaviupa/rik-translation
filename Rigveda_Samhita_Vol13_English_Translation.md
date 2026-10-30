@@ -13403,4 +13403,79 @@ This ṛk has been explained in two or three ways. Here Agastya's pupil indicate
 
 ---
 
-**Progress note:** printed p. 488 (PDF 508) done — Sūkta 179 Ṛk 5: bhāṣya…printed English, Special Topics begun (Soma = juice or moon; continues p. 489). Next: printed p. 489 (PDF 509). Open flags: refs [?]; bhāṣya Ṛk 5 phrases [?]; review/doubts_v13.json.
+### Printed p. 489  (PDF 509)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 489.)*
+
+**Special Topics (continued)**
+
+> एष वै सोमो राजा देवानामन्नं यच्चन्द्रमाः ।
+
+> *eṣa vai somo rājā devānāmannaṃ yaccandramāḥ |*
+
+(Śa. Brā. 1-6-4-5 [?]) — here the identity of the moon and Soma is stated. Likewise in the sentences below also this description occurs:
+
+> चन्द्रमा वै ब्रह्मा सोमो वै चन्द्रमाः ।
+
+> *candramā vai brahmā somo vai candramāḥ |*
+
+(Śa. Brā. 13-1-1-2 [?])
+
+> सूर्य एवाग्नेयः । चन्द्रमाः सौम्यः ।
+
+> *sūrya evāgneyaḥ | candramāḥ saumyaḥ |*
+
+(Śa. Brā. 1-6-3-24 [?]) — thus in many places the moon is called *saumya*. Therefore, in the ṛk at hand, for "*hṛtsu pītam imaṃ somam*" the meaning "this moon who is the presiding deity of the mind and who abides in the heart" has been stated as the second meaning. And for the removal of sin:
+
+> उरुष्या णो अभिशस्तेः सोम नि पाह्यंहसः ।
+> सखा सुशेव एधि नः ॥
+
+> *uruṣyā ṇo abhiśasteḥ soma ni pāhyaṃhasaḥ |*
+> *sakhā suśeva edhi naḥ ‖*
+
+(Ṛ. Saṃ. 1-91-15 [?]) — in such ṛks the prayer is made: "O deity Soma, protect us from calumny and blame (*apavāda*); protect us fully from the sin done by us or possible for us"; and so on. In the same way here too the pupil prays for the removal of his own sin. In the Atharvaveda:
+
+> सोमो मा देवो मुञ्चतु यमाहुश्चन्द्रमा इति ।
+
+> *somo mā devo muñcatu yamāhuścandramā iti |*
+
+(At. Ve. 11-6-7 [?]) — in the prayer "may the deity Soma, whom all call the moon, release me from sin" the identity of Soma and the moon is quite plain.
+
+***pulukāmaḥ*** — "*pulukāmaḥ purukāmaḥ, pulukāmo hi martyaḥ ity api nigamo bhavati*" (Ni. 6-4 [?]) — it shows the nature of man, who has manifold desires. Since there are so many kinds of desires, sin (*āgaḥ*) comes naturally to man; therefore the prayer is made: escape from this sin.
+
+***āgaḥ*** — "*āñpūrvād gameḥ*" (Ni. 11-23 [?]) — to the root *gam* the prefix *ā* is added, and the form *āgaḥ* is derived. That is, the one who has done sinful acts must certainly come, as the result, to this sin-impression (*pāpasaṃskāra*) and its fruit; because the word shows this meaning, the name *āgaḥ* is well known — so the Nirukta-writers explain.
+
+### Printed p. 490  (PDF 510)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 490.)*
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***hṛtsu*** — by "*ūḍidaṃpadādi…*" (Pā. Sū. 6-1-171 [?]) the case-ending takes the *udātta* accent.
+- ***pītam*** — root *pā pāne*; the suffix *kta* in the passive; by "*ghumāsthāgāpājahātisāṃ hali*" (Pā. Sū. 6-4-66 [?]) *ī* for the *ā*; by the suffix accent the final syllable is *udātta*.
+- ***bruve*** — root *brūñ vyaktāyāṃ vāci*; *laṭ*, first person singular; since it stands in an *atiṅanta* word-position, the *nighāta* accent occurs.
+- ***āgaḥ*** — root *iṇ gatau*; by "*iṇa āgo 'parādhe ca*" (Uṇ. Sū. 4-[?]) the suffix *asun*; *āg* substituted for the root; since the suffix has *n* as marker, the *ādyudātta* accent.
+- ***cakṛma*** — root *ḍukṛñ karaṇe*; *liṭ*, first person plural; because of *yad*-connection no *nighāta*; by the suffix accent the final syllable is *udātta*.
+- ***mṛḷatu*** — root *mṛḍa sukhane*; *loṭ*, second (third) person singular [as printed "madhyama"]; *tiṅ*-final *nighāta* accent.
+- ***pulukāmaḥ*** — in the *bahuvrīhi*, by "*parādiś chandasi bahulam*" (Pā. Sū. 6-2-199 [?]) the hind-member takes the *ādyudātta* accent. ‖ 5 ‖
+
+---
+
+**Sūkta 179, Ṛk 6**
+
+**Saṃhitā-pāṭha**
+
+> अगस्त्यः खनमानः खनित्रैः प्रजामपत्यं बलमिच्छमानः ।
+> उभौ वर्णावृषिरुग्रः पुपोष सत्या देवेष्वाशिषो जगाम ॥ ६ ॥
+
+**Pada-pāṭha**
+
+> अगस्त्यः । खनमानः । खनित्रैः । प्रऽजाम् । अपत्यम् । बलम् । इच्छमानः ।
+> उभौ । वर्णौ । ऋषिः । उग्रः । पुपोष । सत्याः । देवेषु । आऽशिषः । जगाम ॥ ६ ॥
+
+> *agastyaḥ | khanamānaḥ | khanitraiḥ | pra 'jām | apatyam | balam | icchamānaḥ |*
+> *ubhau | varṇau | ṛṣiḥ | ugraḥ | pupoṣa | satyāḥ | deveṣu | ā 'śiṣaḥ | jagāma ‖ 6 ‖*
+
+---
+
+**Progress note:** printed p. 490 (PDF 510) done — Sūkta 179 Ṛk 5 complete; Ṛk 6 (last): Saṃhitā, Pada written. Next: printed p. 491 (PDF 511), Ṛk 6 bhāṣya. Open flags: refs [?]; review/doubts_v13.json.
