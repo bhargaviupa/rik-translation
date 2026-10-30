@@ -9111,4 +9111,59 @@ In the second meaning — "*ayorajatahiraṇmayīḥ purīḥ dānucitrāḥ kha
 
 ---
 
-**Progress note:** printed p. 350 (PDF 370) done — Sūkta 174 Ṛk 7 Special Topics (arka, dāsa, tisraḥ dānucitrāḥ, duryoṇe); grammar begun (continues p. 351). Next: printed p. 351 (PDF 371). Open flags: Nirukta/Ṛg refs [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 351  (PDF 371)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+*(Grammar of Ṛk 7 continued)* …guṇa; *ra* follows; by "*hal-jyā-bhyo dīrghāt*…" (Pā. Sū. 6-1-68 [?]) the dropping of the suffix; *repha* becomes visarga; *nighāta* accent.
+
+- ***karat*** — for the same root, *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ*" the *i* is dropped; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *a*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; the suffix being the cause, guṇa of the *ik* of the root; because it is in *pādādi* position, no *nighāta*; the root accent remains.
+- ***tisraḥ*** — the word *tri*, with *śas* following, the substitution *tisṛ*, ending in *udātta*; when *yaṇ* substitution comes, by "*udāttayaṇo hal pūrvāt*" (Pā. Sū. 6-1-174 [?]) the case-ending takes *udātta* accent.
+- ***kuyavācam*** — *kuyā vāk yasya saḥ kuyavāk*; in the bahuvrīhi, the fore-member keeps its natural accent.
+- ***śret*** — root *śriñ pāke*; *laṅ*, third person singular, *tip*; by "*itaś ca*" the *i* is dropped; by "*bahulaṃ chandasi*" *luk* for the *vikaraṇa*; by "*sārvadhātukārdhadhātukayoḥ*" guṇa for the *ik* of the root; Vedically no augment; *nighāta* for a *tiṅ*. ‖ 7 ‖
+
+---
+
+**Sūkta 174, Ṛk 8**
+
+**Saṃhitā-pāṭha**
+
+> सना ता त इन्द्र नव्या आगुः सहो नभोऽविरणाय पूर्वीः ।
+> भिनत्पुरो न भिदो अदेवीर्ननमो वधरदेवस्य पीयोः ॥ ८ ॥
+
+> *sanā tā ta indra navyā āguḥ saho nabho 'viraṇāya pūrvīḥ |*
+> *bhinat puro na bhido adevīr nanamo vadhar adevasya pīyoḥ ‖ 8 ‖*
+
+**Pada-pāṭha**
+
+> सना । ता । ते । इन्द्र । नव्याः । आ । अगुः । सहः । नभः । अविरणाय । पूर्वीः ।
+> भिनत् । पुरः । न । भिदः । अदेवीः । ननमः । वधः । अदेवस्य । पीयोः ॥ ८ ॥
+
+> *sanā | tā | te | indra | navyāḥ | ā | aguḥ | sahaḥ | nabhaḥ | aviraṇāya | pūrvīḥ |*
+> *bhinat | puraḥ | na | bhidaḥ | adevīḥ | nanamaḥ | vadhaḥ | adevasya | pīyoḥ ‖ 8 ‖*
+
+### Printed p. 352  (PDF 372)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र ते तव संबन्धीनि सना सनातनानि नित्यानि तानि शौर्याणि नव्या नवतरा इदानीन्तना ऋषय आगुः । आगच्छन्ति । स्तुतिव्याजेन प्राप्नुवन्तीत्यर्थः । कानि तानीति उच्येते । पूर्वीर्बह्वीर्नभो हिंसा [?] । तदन्तस्यैदं रूपम् ॥ ता हिंसा अविरणायाविगतरणाय संग्रामानाशनाय सहः । अभ्यैभवः । तदर्थं भिदो भेत्र्यो घातिका अदेवीरासुरीः पुरो न पुरीरसि भिनत् । विदारितवानसि । पुरुषव्यत्ययः । नशब्दश्चार्थे । तथादेवस्यासुरस्य पीयोर्हिंसकस्य वधर्वज्रं ननमः । अनमयः । अनुकूलमकरोः ॥ यद्वा । हे इन्द्र सना नित्यं तत्तत्कालेन ते तव संबन्धिन्यस्ता तानि । लिङ्गव्यत्ययः । ताः पूर्वीः पुरातन्यो ऽपो नव्या नूतना स्तुत्याः सत्यै आगुः । आगच्छन्ति । किमर्थं । अविरणायाविरमणाय प्राणिनामविनाशनाय । तदर्थं नभो हिंसकान्धकाराणान्मेघान् सहः । मर्षणमकरोः । किंचादेवीः पुरोऽवर्षणे-नादेवनशीलानुदकपुटबन्धान् भिनत् । भिन्नानकरोः । तथादेवस्यादेवनशीलस्य पीयोः प्रतिकूलस्य वृत्रस्य वधर्वज्रं ननमः । अनमयः ॥
+
+> *he indra te tava saṃbandhīni sanā sanātanāni nityāni tāni śauryāṇi navyā navatarā idānīntanā ṛṣaya āguḥ | āgacchanti | stutivyājena prāpnuvantīty arthaḥ | kāni tānīti ucyete | pūrvīr bahvīr nabho hiṃsā [?] | tadantasyaidaṃ rūpam ‖ tā hiṃsā aviraṇāyāvigataraṇāya saṃgrāmānāśanāya sahaḥ | abhyaibhavaḥ | tadarthaṃ bhido bhetryo ghātikā adevīr āsurīḥ puro na purīr asi bhinat | vidāritavān asi | puruṣavyatyayaḥ | naśabdaś cārthe | tathādevasyāsurasya pīyor hiṃsakasya vadhar vajraṃ nanamaḥ | anamayaḥ | anukūlam akaroḥ ‖ yadvā | he indra sanā nityaṃ tattatkālena te tava saṃbandhinyas tā tāni | liṅgavyatyayaḥ | tāḥ pūrvīḥ purātanyo 'po navyā nūtanā stutyāḥ satyai āguḥ | āgacchanti | kimartham | aviraṇāyāviramaṇāya prāṇinām avināśanāya | tadarthaṃ nabho hiṃsakāndhakārāṇān meghān sahaḥ | marṣaṇam akaroḥ | kiṃcādevīḥ puro 'varṣaṇenādevanaśīlān udakapuṭabandhān bhinat | bhinnān akaroḥ | tathādevasyādevanaśīlasya pīyoḥ pratikūlasya vṛtrasya vadhar vajraṃ nanamaḥ | anamayaḥ ‖* [?]
+
+*Gist:* O Indra, the new sages come with ever-fresh praises of your ancient, eternal acts of valour: you overcame the Rākṣasa-clouds for the sake of preserving creatures from destruction, split the hostile cities (or the water-barriers), and bent the thunderbolt against the god-hating Vṛtra.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *te* — your; *sanā* — eternal; *navyāḥ* — new, fresh (the new ones); *pūrvīḥ* — numerous; *nabhaḥ* — (your experienced) acts of violence; *tāḥ* — these acts of violence; *ā aguḥ* — they approach (the sages, under the pretext of praise); *aviraṇāya* — in order that there may be no battles; *sahaḥ* — he endured; (*tadartham* — for that very reason); *bhidaḥ* — the destroyers; *adevīḥ* — those belonging to the asuras; *puraḥ na* — as cities; *bhinat* — he split; (*tathā* — so); *adevasya* — of the hostile one; *pīyoḥ* — the injurer; of the asura; *vadhaḥ* — the thunderbolt; *nanamaḥ* — you made to bend (favourable).
+
+Or (*he*) O Indra; *sanā* — as eternal; *te* — for you; *pūrvīḥ* — those ancient waters; *tāḥ* — those; *navyāḥ* — as praised (as praise); *ā aguḥ* — they come; *aviraṇāya* — in order that creatures may not perish; *nabhaḥ* — the harmful or binding clouds; *sahaḥ* — you have made friends (you have made them); (*kiñca* — and) *adevīḥ* — (when it did not rain) the uncheerful; *puraḥ* — the water-barriers; *bhinat* — you broke; *tathā* — so; *adevasya* — the one who has no cheerful nature; *pīyoḥ* — the hostile Vṛtra; *vadhaḥ* — the thunderbolt; *nanamaḥ* — you bent (against him).
+
+**Bhāvārtha**
+
+O Indra, you split the cities of the destructive *asuras*, and bent down the thunderbolt of the *asura* who is a source of suffering and a destroyer, to stop the battles; the sages praise at all times the heroic deeds of this kind that you have performed for this purpose, and the opposing acts of the enemies.
+
+---
+
+**Progress note:** printed p. 352 (PDF 372) done — Sūkta 174 Ṛk 7 complete; Ṛk 8: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English continues p. 353). Next: printed p. 353 (PDF 373). Open flags: Ṛk 8 bhāṣya partly doubtful [?]; Pratipadārtha order approximate; review/doubts_v13.json.
