@@ -12453,8 +12453,10 @@ viśvāsu dhīṣu vandya ||7||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.8**
 
-> आ नो अग्ने रयिं भर सत्रासाहं वरेण्यम् ।
-> विश्वासु पृत्सु दुष्टरम् ॥ ८ ॥
+*(Accents as printed, 300 dpi; underline positions doubtful: [accent ?].)*
+
+> आ नो॑ अग्ने र॒यिं भ॑र सत्रा॒साहं॒ वरे॑ण्यम् ।
+> विश्वा॑सु पृ॒त्सु दु॒ष्ट॑रम् ॥ ८ ॥
 
 *ā no agne rayiṃ bhara satrāsāhaṃ vareṇyam |
 viśvāsu pṛtsu dustaram ||8||*
