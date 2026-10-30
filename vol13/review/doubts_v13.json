@@ -5926,5 +5926,29 @@
   ],
   "note": "grammar wording and sutra/Unadi numerals [?]",
   "answer": ""
+ },
+ {
+  "pdf": 601,
+  "printed": 581,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "Rk7 bhasya as read [?]; Ni. 3-19 ref small type",
+  "answer": ""
+ },
+ {
+  "pdf": 602,
+  "printed": 582,
+  "crop": [
+   0.25,
+   0.55,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br. quote garbled/elided in print, ref numerals [?]; Rg 1-156-2 and 1-122-10 as read",
+  "answer": ""
  }
 ]

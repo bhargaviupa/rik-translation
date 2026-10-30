@@ -16266,4 +16266,58 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 ---
 
-**Progress note:** printed p. 580 (PDF 600) done — Sūkta 181 Ṛk 6 ends (grammar); Ṛk 7 Saṃhitā, Pada, bhāṣya begun (continues p. 581). Next: printed p. 581 (PDF 601). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 581  (PDF 601)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 581.)*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> वेदमयी त्रेधा मन्त्रादिभेदेन त्रिप्रकारा क्षरन्ती युवां गच्छन्ती । ईदृशी स्तुतिः कृतेत्यर्थः । तथोपस्तुतौ सन्तौ नाधमानमभिमतफलं याचमानमवतं । रक्षतं तर्पयतं वा । किंच यामन् गमने ऽयामन्नगमने च हवमाह्वानं शृणुतं ॥
+
+*(Gist: a threefold Veda-made hymn has been offered to you; praised thus, protect and satisfy the suppliant, and hear his call whether travelling or at rest.)*
+
+**Pratipadārtha** — **he vedhasā** — O creators (makers, *sraṣṭṛ*); **aśvinā** — O Aśvin deities; **vāṃ** — of you two; **bāḷhe** — with the aim of a steady (firm) favour; **sthavirā** — exceedingly steady (eternal, or Veda-formed); **tredhā** — threefold, by the divisions *mantra* etc.; **kṣarantī** — flowing, moving towards you; **gīḥ** — praise; **asarji** — has been created (by us); **upastutau** — (so) having been praised; **nādhamānam** — him who solicits the desired fruit; **avataṃ** — protect, or (by granting fruit) satisfy; (**kiṃca** — further); **yāman** — also at the time of going; **ayāman** — also at the time of not moving; **me** — my; **havaṃ** — invocation with praise; **śruṇutaṃ** — hear.
+
+**Bhāvārtha** — O Aśvin deities, makers of creation: this praise of ours, Veda-formed, threefold by *mantra* etc., adhering to you and directed to the aim of your steady favour, — being pleased with it, grant me, the suppliant, the desired fruit and protect me; and hear our invocation with praise both at your times of motion and at your times of rest.
+
+**English Translation.** *(printed)*
+
+"Ashwins, creators, the perpetual threefold hymn, addressed to you, has been uttered, (to seeure [sic]) your steady (favour): thus glorified, protect him who solicits (your bounty), and, whether moving or resting, hear his invocation."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Vedhasā** — "*vidhātārau aśvinau*": in this ṛk the Aśvin deities are called the doers of creation. The word *vedhas* is read in the Nirukta among the names of the wise (Ni. 3-19 [?]). In many places this word is an epithet of a wise sacrificer. Though in one place the meaning "producer" may be possible, still, in the sense "producer of the sacrificial fruit", the word is not seen used in the sense of the creator of the world. But:
+
+### Printed p. 582  (PDF 602)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 582.)*
+
+> यः पूर्व्याय वेधसे नवीयसे सुमज्जानये विष्णवे ददाशति ।
+> यो जातमस्य महतो महि ब्रवत्सेदु श्रवोभिर्युज्यं चिदभ्यसत् ॥
+
+> *yaḥ pūrvyāya vedhase navīyase sumajjānaye viṣṇave dadāśati |*
+> *yo jātamasya mahato mahi bravatsedu śravobhiryujyaṃ cidabhyasat ‖*
+
+(Ṛ. Saṃ. 1-156-2) — only here, the form of the creator of the world is described; the word *vedhase* is explained as "to the creator of the world in many ways" (*vividha-jagatkartre*). In the ṛk at hand also, Sāyaṇa has said "*vidhātārau aśvinau*". What connection the Aśvin deities have with the creation of the world may be said to be this: on the basis of Śruti-sentences, there is a direct connection between creation and them. For:
+
+> …… एतद्वै प्रजापतिरेतस्मिन्नात्मनः प्रतिहितेऽकामयत प्रजाः सृजेयेति प्रजायेयेति स ऋतुभिरद्भिः प्राणैः संवत्सरेणाश्विभ्यां सयुग्भूत्वैताः प्रजाः प्राजनयत्तथैवैतद्यजमान एताभिर्देवताभिः सयुग्भूत्वैताः प्रजाः प्रजनयति । …… अग्निर्वै वैश्वानरः संवत्सरेण वै सयुग्भूत्वा प्राजनयदश्विनावध्वर्यू सादयतामिह श्वेत्सश्विभ्यां वै सयुग्भूत्वा प्राजनयत् ॥
+
+> *…… etadvai prajāpatiretasminnātmanaḥ pratihite 'kāmayata prajāḥ sṛjeyeti prajāyeyeti sa ṛtubhiradbhiḥ prāṇaiḥ saṃvatsareṇāśvibhyāṃ sayugbhūtvaitāḥ prajāḥ prājanayattathaivaitadyajamāna etābhirdevatābhiḥ sayugbhūtvaitāḥ prajāḥ prajanayati | …… agnirvai vaiśvānaraḥ saṃvatsareṇa vai sayugbhūtvā prājanayadaśvināvadhvaryū sādayatāmiha śvetsaśvibhyāṃ vai sayugbhūtvā prājanayat ‖*
+
+(Śa. Brā. 8-2-2-2 to 9 [?]; Sanskrit as read, doubtful in several words [?]) — Prajāpati, desiring "let me create offspring, let me be born in them", created offspring in union with the seasons, with the waters, with the vital airs, with the year, and with the Aśvin deities. Since it is thus said that the creation of the world has a direct connection with these, in the ṛk at hand the word **vedhasā** may be taken as "*vidhātārau*", that is, those who are creators.
+
+**Bāḷhe** — this word means firm, steady.
+
+> स व्राधतो नहुषो दंसुजूतः शर्धस्तरो नरां गूर्तश्रवाः ।
+> विसृष्टरातिर्याति बाळ्हसृत्वा विश्वासु पृत्सु सदमिच्छूरः ॥
+
+> *sa vrādhato nahuṣo daṃsujūtaḥ śardhastaro narāṃ gūrtaśravāḥ |*
+> *visṛṣṭarātiryāti bāḷhasṛtvā viśvāsu pṛtsu sadamicchūraḥ ‖*
+
+(Ṛ. Saṃ. 1-122-10) — as here the meaning is "firm" or "steady", so in the ṛk at hand also the praise-sentence is steady.
+
+**Tredhā gīḥ** — the speech is explained as "threefold by the divisions *mantra* etc." And the epithet *sthavirā* is also there. Here it may be three kinds: *ṛc*, *yajus* and *sāman*; or, since the epithets *śastra*, *stoma*, *stotra* are present, and since Sāyaṇa has explained the sense of this word as "*atyantaṃ sthirā nityā vedamayī*", here *ṛc*, *yajus* and *sāman* [the passage continues on the next page].
+
+---
+
+**Progress note:** printed p. 582 (PDF 602) done — Sūkta 181 Ṛk 7 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (vedhasā, bāḷhe, tredhā gīḥ; continues p. 583). Next: printed p. 583 (PDF 603). Open flags: refs [?]; review/doubts_v13.json.
