@@ -707,4 +707,36 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ---
 
-**Progress note:** printed p. 34 (PDF 54) done — Sūkta 166 Ṛk 7 Special Topics in progress (alātṛṇāsaḥ; continues on p. 35). Next: printed p. 35 (PDF 55). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 35  (PDF 55)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* …is of the *ā*-ending class (*ātra*). Since there is no distinction between *ra* and *la*, one may say *rātra* instead of *lātra*. When this word *rātra* is said to be formed from the root *rā śabde* (to bark — English in the source), then for the word *alātṛṇa* (*arātṛṇa*), in the case of the Maruts the sense "fearless, not frightening the harmful ones" can be given, and in the case of Vala the sense "without sounding" (printed: "without braking" [sic?]) — thus he has discussed the meaning of the word.
+
+***vidatheṣu*** — in sacrifices and the like. For the meaning of this word see the detailed explanation we have given on pp. 9–13.
+
+***arkam*** — *arcanīyam indram*: Indra, who is fit to be worshipped. The word *arka* has several meanings: food (Ni. 5-9 [?]), thunderbolt (Ni. 2-11 [?]), deity, mantra (Ni. 5-4 [?]). On the word *arka* Yāska says:
+
+> अर्कः । अर्को देवो भवति यदेनमर्चन्ति । अर्को मन्त्रो भवति यदनेनार्चन्ति । अर्कमन्नं भवत्यर्चन्ति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥
+
+> *arkaḥ | arko devo bhavati yadenamarcanti | arko mantro bhavati yadanenārcanti | arkamannaṃ bhavatyarcanti bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*
+
+(Ni. 5-4 [?]) — thus he has given four kinds of meaning. Their sense may be explained as follows:
+
+***devaḥ*** — *tāvat sarva evārka ity ucyate yasmād enaṃ devam arcanti stotāraḥ*: *arka* means deity; because by this the worshippers worship whomever [they worship] — such a person or deity, that is, the object (the deity) which the worshippers worship, is called *arka*.
+
+***arko mantro bhavati*** — *yadasmād anena mantreṇārcanti stotāras tasmād arkaḥ*: *arka* means mantra; because the praisers worship the deity by this (*arka*, or the mantra), the word *arka* is also called "mantra".
+
+***arkam annaṃ bhavati*** — *taddhi arcanti bhūtāni yo hi pūjyaḥ tasyānnam api saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate | pūjyaṃ ca sarvasyaivānnam*: *arka* means food. Since food (*āhāra*) is necessary for all living beings, everyone honours and desires food; that is, because all honour and desire it with love and so on, the word *arka* means food.
+
+### Printed p. 36  (PDF 56)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* ***arko vṛkṣo bhavati*** — *ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṅgataḥ saṃvyāptaḥ kaṭukimnā kaṭukabhāvena bhavati*: this name *arka* is well known as the name of a species of tree: *arkavṛkṣa* is *ekkadagiḍa* (the "Ekka" plant) as it is called in the Karṇāṭaka language. Its sticks are used in the *homa*s, and since it is also used in medicines by custom, the *arka* tree is a thing known to everyone. Because it is bitter it is called *kaṭukimnā*. In the present ṛk the Bhāṣyakāra has explained the word *arka* as *arcanīya*, that is, "fit to be worshipped".
+
+***prathamāni*** — *prathamāni pratamāni mukhyāni*: *prathama* means "chief". Yāska has given the explanation "*prathama iti mukhyanāma pratamo bhavati*" (Ni. 2-22 [?]).
+
+***pauṃsyā*** — *puṃstvāni vṛtravadhādirūpāṇi*: deeds of daring that men and heroes can do; feats of valour; here they are explained as acts of valour such as the slaying of Vṛtra.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *skambhadeṣṇāḥ* (root *skabhi gatipratibandhe*; *ac* since it belongs to the *pacādi* class; *skambho deṣṇo yeṣāṃ te*, a *bahuvrīhi*; the prior member keeps its own accent). *anavabhrarādhasaḥ* (*anavabhraṃ rādho yeṣāṃ te*; accent as before). *alātṛṇāsaḥ* (*na vidyate ātṛṇaṃ yeṣāṃ te*; *nañsubhyām* Pā. 6-2-172 [?] gives the acute on the last vowel of the later member; *nalopo nañaḥ* drops the *n* of *nañ*; *tasmān nuḍ aci* gives *nuṭ* to the following initial vowel; the *n* is replaced by *l* by the Vedic usage; *ājjaser asuk* Pā. 7-1-50 gives *asuk* to *jas*). *susṭutāḥ* (root *ṣṭuñ stutau*; *kta* in the passive; *gatir anantaraḥ* Pā. 6-2-49 gives the *gati* (*su*) its own accent). *arcanti* (root *arca pūjāyām*; *laṭ* 3rd plural; pāda-initial so no *nighāta*; by *tāsyanudāttet* the root-accent stays). *madirasya* (root *madī harṣe*; *kirac* by *iṣimadimudi…* Uṇ. 1-[?]; *ciṭaḥ* Pā. 6-1-163 gives the final acute; genitive singular).
+
+---
+
+**Progress note:** printed p. 36 (PDF 56) done — Sūkta 166 Ṛk 7 grammar note done up to madirasya; continues on p. 37. Next: printed p. 37 (PDF 57). Open flags: small-type numerals [?]; review/doubts_v13.json.
