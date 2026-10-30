@@ -923,4 +923,70 @@ Max Müller, a German scholar, takes the two phrases *aṃseṣv ā vaḥ prapat
 
 ---
 
-**Progress note:** printed p. 44 (PDF 64) done — Sūkta 166 Ṛk 9 Special Topics (khādayaḥ; Max Müller quotation complete; next a further mantra on khādi). Next: printed p. 45 (PDF 65). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 45  (PDF 65)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* **Special Topics (continued: *khādayaḥ*).**
+
+> अंसेष्वा मरुतः खादयो वो वक्षःसु रुक्मा उपशिश्रियाणाः । वि विद्युतो न वृष्टिभी रुचानाः अनु स्वधामायुधैर्यच्छमानाः ॥
+
+> *aṃseṣvā marutaḥ khādayo vo vakṣaḥsu rukmā upaśiśriyāṇāḥ | vi vidyuto na vṛṣṭibhī rucānāḥ anu svadhāmāyudhairyacchamānāḥ ‖*
+
+(Ṛ. Saṃ. 2-34-13 [?]) — in this ṛk there is the description: "O Maruts, on your arms there are weapons called *khādi*; on your chests golden ornaments are fastened."
+
+> एषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ।
+
+> *eṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe |*
+
+(Ṛ. Saṃ. 1-168-3)
+
+> त्वेषं गणं तवसं खादिहस्तं धुनिव्रतं मायिनं दातिवारम् ।
+
+> *tveṣaṃ gaṇaṃ tavasaṃ khādihastaṃ dhunivrataṃ māyinaṃ dātivāram |*
+
+(Ṛ. Saṃ. 5-58-2 [?]) — in these ṛks the weapon called *khādi* is described as held in the hands. The places where the Maruts bear special weapons and ornaments —
+
+> अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः ।
+
+> *aṃseṣu va ṛṣṭayaḥ patsu khādayo vakṣaḥsu rukmā maruto rathe śubhaḥ |*
+
+(Ṛ. Saṃ. 5-54-11) — in explaining this ṛk it is said that they bear the weapons called *khādi* (or ornaments) on the feet ("The khadis are on your forefeet" — English in the source). It is not possible to bear weapons on the feet, so here the word *khādi* must be taken in the sense of a special ornament. The shape and form of the *khādi* are not known to us now, but it is a point established that it is a special weapon resembling a *cakra*. Since it is circular (round, ring-shaped), it may be inferred that these ankle-rings (rounded like a *cakra*) worn on the feet were described in many places by the name *khādi*. Whether worn on the feet, or on the arms or hands, or on other limbs, when fighting they would have to be held in the hands. Hence the ṛṣis have described this matter in different ways. The weapon called *cakra* in the hand of Viṣṇu also may have come into usage on the basis of this weapon *khādi*.
+
+The Bhāṣyakāra gives for the word *khādi* the sense "*khādyāni bhakṣyāṇi*" — "edibles, things fit for eating". Many Western scholars do not accept that this is fitting. Max Müller, on this matter (English):
+
+"What however is quite certain is this, that खादि in the Veda never means food, as Sayana opt'onally [sic] interprets it. This interpretation is accepted by Wilson, who translates–at your resting places on the road *[continues on the next page]*
+
+### Printed p. 46  (PDF 66)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* "refreshments (are ready). Nay, he goes on in a note to use this passage as a proof of the advanced civilisation of India at the time of the Vedic Rishis. "The expression" he says "is worthy of note as indicating the existence of accomodations [sic] for the use of travellers: the प्रपथ is the choltri (छत्र) of the south of India, the Sarai of Mohammadans, a place by the roadside whare [sic] the travellers may find shelter and provisions.""
+
+In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has explained in this ṛk: *prapatheṣu panthāno viśrāmasthāneṣu* — "in the resting places found on the road"; but in
+
+> आयुर्विश्वायुः परि पासति त्वा पूषा त्वा पातु प्रपथे पुरस्तात् ।
+
+> *āyurviśvāyuḥ pari pāsati tvā pūṣā tvā pātu prapathe purastāt |*
+
+(Ṛ. Saṃ. 10-17-4)
+
+> प्रपथे पथामजनिष्ट पूषा प्रपथे दिवः प्रपथे पृथिव्याः ।
+
+> *prapathe pathāmajaniṣṭa pūṣā prapathe divaḥ prapathe pṛthivyāḥ |*
+
+(Ṛ. Saṃ. 10-17-6)
+
+> स्वस्तिरिद्धि प्रपथे श्रेष्ठा रेक्णस्वत्यभि या वाममेति ।
+
+> *svastiriddhi prapathe śreṣṭhā rekṇasvatyabhi yā vāmameti |*
+
+(Ṛ. Saṃ. 10-63-15 [?]) — in ṛks like these, the word *prapathe* is said to mean "*prakṛṣṭe mārge*", "in an excellent road". Therefore, for the words *prapatheṣu khādayaḥ* in this ṛk, the meaning "when the Maruts journey along excellent roads they wear the special weapons called *khādi*" fits well.
+
+***akṣo vaścakrā samayā vi vāvṛte*** — the Bhāṣyakāra: "*akṣo vo yuṣmatsaṃbandhī rathyo 'kṣaś cakrā tetropanibaddhāni cakrāṇi samayā samīpe teṣāṃ parisare vi vavṛte viśeṣeṇa vartate na kadācidapi cakreṣu saṃlagno bhavatīty arthaḥ*" [as read, doubtful]. O Maruts, the axle of your chariot makes the wheels at its two sides turn round simultaneously. They are firmly fastened; there is no falling off from the axle. The same sense is said in
+
+> सत्रा ते अनु कृष्टयो विश्वा चक्रेण नावृतुः ।
+
+> *satrā te anu kṛṣṭayo viśvā cakreṇa nāvṛtuḥ |*
+
+(Ṛ. Saṃ. 4-30-2 [?]) — that is: your chariot moves smoothly, without any hindrance: this is the main purport. To say here that the axle makes the wheel turn is not correct. As the horses pull the chariot the wheels turn; but still, in the neighbourhood of the axle, to that *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 46 (PDF 66) done — Sūkta 166 Ṛk 9 Special Topics (akṣo vaścakrā; continues on p. 47). Next: printed p. 47 (PDF 67). Open flags: small-type numerals [?]; review/doubts_v13.json.
