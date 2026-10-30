@@ -738,3 +738,8 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 610: vaidūryam ācaṣṭe [?] -> vaidūryam ācaṣṭe
   p. 610: 10-82-2 [?] -> 10-82-5 [?]
   p. 610: 10-82-2 [?] -> 10-82-5 [?]
+  p. 592: साकमर्चते [?] -> साकमर्चते
+  p. 592: ब्रह्म [परिमितलक्षणं?] [?] अन्नमुद्यतम् । [दाते मूर्ध्नं धृतम्?] [?] -> ब्रह्म हसिर्लक्षणम् [?] अन्नमुद्यतम् । दा[?]मूर्ध्वं धृतम् [?]
+  p. 592: arcate [?] -> arcate
+  p. 592: brahma [parimitalakṣaṇaṃ?] [?] annam udyatam | [dāte mūrdhnaṃ dhṛtam?] [?] -> brahma hasirlakṣaṇam [?] annam udyatam | dā[?]mūrdhvaṃ dhṛtam [?]
+  p. 592: [the clause is compressed and illegible at this resolution: I give it with doubt [?]] -> [the clause *brahma hasirlakṣaṇam annam udyatam | dā[?]mūrdhvaṃ dhṛtam* is read letter by letter from the print; its words and sense are doubtful [?]]
