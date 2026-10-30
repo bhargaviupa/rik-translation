@@ -6911,4 +6911,70 @@ By the word *rodasa*, Rudra, of weeping nature; his wife is *rodasī*, some say;
 
 ---
 
-**Progress note:** printed p. 276 (PDF 296) done — Sūkta 173 Ṛk 6 Special Topics (rodasī discussion continues p. 277). Next: printed p. 277 (PDF 297). Open flags: Ṛg/Nirukta refs [?]; some quoted verses and Sāyaṇa's rodasā passage read approx [?]; review/doubts_v13.json.
+### Printed p. 277  (PDF 297)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+> मिमय्क्ष येषु रोदसी नु देवी सिषक्ति पूषा अभ्यर्धयज्वा । श्रुत्वा हवं मरुतो यद्ध याथ भूमा रेजन्ते अध्वनि प्रविक्ते ॥ [as read: [?]]
+
+> *mimayakṣa yeṣu rodasī nu devī siṣakti pūṣā abhyardhayajvā | śrutvā havaṃ maruto yad dha yātha bhūmā rejante adhvani pravikte ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 6-50-5 [?]) — here also he has interpreted *devī dyotamānā mādhyamikā vāk*, "the shining speech of the middle region". Explaining Ṛk 1-167-3 [?], the scholar Max Müller, on the word *rodasī* used in the senses lightning (*vidyut*), speech of the middle region and heaven and earth, has written as follows:
+
+> In our verse, we take वाक् in the sense of thunder, but as a feminine, of the lightning and thunder as the two companions of the Maruts, represents the first, रोदसी or lightning, as the recognised wife, hiding herself in the house, while the other, the loud thunder, is represented as a more public companion of the Maurts [sic]. This contrast, if it is really what the poet intended, throws a curious light on the social character of the Vedic times, as it presupposes two classes of wives, not necessarily simultaneous, however — a house wife, who stays at home and is not much seen, and a wife who appears in public and takes part in the society…… The loud voice of the thunder as well as the usual hiding of the lightning might well suggest this comparison. [S.B.E. XXXII p. 276]
+
+> *In our verse, we take vāk in the sense of thunder, but as a feminine, of the lightning and thunder as the two companions of the Maruts, represents the first, rodasī or lightning, as the recognised wife, hiding herself in the house, while the other, the loud thunder, is represented as a more public companion of the Maurts [sic]. This contrast, if it is really what the poet intended, throws a curious light on the social character of the Vedic times, as it presupposes two classes of wives, not necessarily simultaneous, however — a house wife, who stays at home and is not much seen, and a wife who appears in public and takes part in the society…… The loud voice of the thunder as well as the usual hiding of the lightning might well suggest this comparison. [S.B.E. XXXII p. 276]*
+
+Pointing out thus the difference between the singular and the dual uses, the Bṛhaddevatā likewise says:
+
+> रोदसी देवपत्नीनाम् अथर्वाङ्गिरसे यथा ।
+
+> *rodasī devapatnīnām atharvāṅgirase yathā |*
+
+(Bṛ. De. 2-143 [?]) — according to the school of the Atharvāṅgirasas (Atharvaveda), *rodasī* is one among the wives of the gods: this is an example of the singular use. And
+
+> द्वे द्वे पदे संस्तुते रोदसी च देवाश्चार्धर्चेन विभक्तमन्यत् ।
+
+> *dve dve pade saṃstute rodasī ca devāś cārdharcena vibhaktam anyat |* [as read: [?]]
+
+(Bṛ. De. 4-6 [?]) — in all such places where the dual is used, the meaning is "heaven and earth".
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***mahinā*** — root *mahī pūjāyām*; by "*in sarvadhātubhyaḥ*" the suffix *in*; third (instrumental) singular; by *vyatyaya* the case ending is *udātta*.
+
+### Printed p. 278  (PDF 298)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+- ***asti*** — because of the relative (*yadyoga*) no *nighāta* accent; *tip* being *pit*, the root accent remains.
+- ***aram*** — "*vālamūlalaghu*…" (Pā. Sū. 8-2-18 [?]) gives *repha* substitution for *la*.
+- ***vivye*** — root *vī gatyādiṣu*; by "*chandasi luṅlaṅliṭaḥ*" *liṭ* in the present sense; third person singular; *nighāta* for a *tiṅ*.
+- ***vṛjanam*** — root *vṛjī varjane*; used here in the agent sense; the suffix *kyu* by "*kyaspyāvṛji*…" (Uṇ. Sū. 2-… [?]); by "*yuvor anākau*" (Pā. Sū. 7-1-1 [?]) *yu* becomes *ana*; being *kit*, the guṇa of the light vowel does not occur; the suffix accent is first-syllable *udātta*.
+- ***bharti*** — root *bhṛñ bharaṇe*; *laṭ*, third person singular, *tip*; "*bahulaṃ chandasi*" gives *luk* for *śap*; by "*sārvadhātukārdhadhātukayoḥ*" guṇa for *ik*; *ra* follows; since in *pādādi* position no *nighāta*; *tip* being *pit* is *anudātta*, so the root accent remains.
+- ***svadhāvān*** — by "*mādhupadhāyāś ca*" (Pā. Sū. 8-2-9 [?]) *va* for the *m* of the suffix *mat*; "*dīrghād aṭi samānapāde*" (Pā. Sū. 8-3-9 [?]) *ru* for the *n*; "*āto 'ṭi nityam*" (Pā. Sū. 8-3-3 [?]) — by this rule the *ā* takes nasalization (*anunāsika*) always.
+- ***opaśam*** — root *śīṅ svapne*; when the two prefixes *āṅ* and *upa* are in construction, by "*bahulagrahaṇa*" the suffix *ḍa*; being *ḍit*, the *ṭi* is dropped; the *kṛdutta* final member keeps its natural accent. ‖ 6 ‖
+
+---
+
+**Sūkta 173, Ṛk 7**
+
+**Saṃhitā-pāṭha**
+
+> समत्सु त्वा शूर सतामुराणं प्रपथिन्तमं परितंसयध्यै ।
+> सजोषस इन्द्रं मदे क्षोणीः सूरिं चिद्ये अनुमदन्ति वाजैः ॥ ७ ॥
+
+> *samatsu tvā śūra satām urāṇaṃ prapathintamaṃ paritaṃsayadhyai |*
+> *sajoṣasa indraṃ made kṣoṇīḥ sūriṃ cid ye anumadanti vājaiḥ ‖ 7 ‖*
+
+**Pada-pāṭha**
+
+> समत्ऽसु । त्वा । शूर । सताम् । उराणम् । प्रऽपथिन्ऽतमम् । परिऽतंसयध्यै ।
+> सऽजोषसः । इन्द्रम् । मदे । क्षोणीः । सूरिम् । चित् । ये । अनुऽमदन्ति । वाजैः ॥ ७ ॥
+
+> *samat-su | tvā | śūra | satām | urāṇam | pra-pathin-tamam | pari-taṃsayadhyai |*
+> *sa-joṣasaḥ | indram | made | kṣoṇīḥ | sūrim | cit | ye | anu-madanti | vājaiḥ ‖ 7 ‖*
+
+---
+
+**Progress note:** printed p. 278 (PDF 298) done — Sūkta 173 Ṛk 6 complete; Ṛk 7 Saṃhitā and Pada written. Next: printed p. 279 (PDF 299), Ṛk 7 bhāṣya. Open flags: Ṛg/Bṛhaddevatā/sūtra numerals [?]; review/doubts_v13.json.
