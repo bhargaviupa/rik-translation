@@ -4330,5 +4330,29 @@
   ],
   "note": "refs Ni 6-12, Rg 7-39-4, 1-67-1, 1-69-9, 10-101-9, 10-106-4 small; last quote 'nrpativa turyai' garbled",
   "answer": ""
+ },
+ {
+  "pdf": 469,
+  "printed": 449,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs 1-?62-1, Ni 9-3, 8-15-3, 1-53-10 small; 'etihy asau visvam' Durga explanation garbled; Monier Williams passage",
+  "answer": ""
+ },
+ {
+  "pdf": 470,
+  "printed": 450,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs 8-53-2, 2-32-2, 1-104-4, 2-14-7, SB 3-4-1-20 small; SB quote garbled; 2-32-2 'asavistha' read",
+  "answer": ""
  }
 ]
