@@ -17354,4 +17354,68 @@ In this, what we must chiefly notice is that, for *catasraḥ nāvaḥ* in the �
 
 ---
 
-**Progress note:** printed p. 620 (PDF 640) done — Sūkta 182 Ṛk 7 ends (Special Topics, grammar); Ṛk 8 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (continues p. 621). Next: printed p. 621 (PDF 641). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 621  (PDF 641)
+
+*(Header: "A. 2 A. 4 Va. 28"; "Ṛgvedasaṃhitā"; page 621.)*
+
+**Bhāvārtha (continued)** — … (the praise) which is offered to you at the Soma-sacrifice and is the accomplisher of the Soma-sacrifice, be pleasing to you; and, so pleased, grant us food, strength and long life.
+
+**English Translation.** *(printed)*
+
+"May the praise which your devout adorers have uttered be acceptable to you, Nasatyas ; leaders (in pious rites), be propitiated to-day by the libations of our assembly, that we may obtain food, strength, and long life."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Mānāsaḥ** — "*pūjāvantaḥ asmadīyā hotrādayaḥ*", is the meaning given: "our hotṛs etc., who perform worship". The meanings of the words *mānāsaḥ*, *mānyasya* were told earlier in detail. In the ṛk at hand it is an epithet of the mantra-seers, Agastya and others. In telling the order of origin of Agastya, the Bṛhaddevatā says:
+
+> मानेन संमितो यस्मात्तस्मान्मान्य इहोच्यते ।
+> यद्वा कुम्भादृषिर्जातः कुम्भेनापि हि मीयते ॥
+
+> *mānena saṃmito yasmāttasmānmānya ihocyate |*
+> *yadvā kumbhādṛṣirjātaḥ kumbhenāpi hi mīyate ‖*
+
+(Bṛ. De. 5-153 [?]) — because he is worthy of worship; or, since he was born from a jar (*kumbha*, a vessel for measuring), as it points to the manner of origin, he is "measured" by the vessel; hence it may be said that the name *Mānya* is current for Agastya. And Max Müller explains the word *mānya* in the ṛk Ṛ. Saṃ. 1-165-? [?] as "the son of *māna*"; the propriety of that too has been told earlier in the Special Topics of Ṛk 1-1?0-? [?]. (p. 217) The English scholars hold that *māna* is the name of a person who is the original ancestor of a lineage. For example, Keith also has said thus:
+
+> "*Māna* is the name of the man occuring [sic] in several passages of the Rig-Veda. In one place, express mention is made of his son (*sūnu*) by whom *Agastya* must have been meant. In another passage, apparently the same meaning applies to *Māna*. i.e, *Agastya* as *Māna*."
+
+[Vedic names & Subjects. vol. II. p. 152] *(Keith's name printed "Kieth" [sic]; the words *māna*, *sūnu*, *agastya* are printed in Kannada letters.)* That is:
+
+> अवोचाम निवचनान्यस्मिन्मानस्य सूनुः सहसाने अग्नौ ।
+> वयं सहस्रमृषिभिः सनेम विद्यामेषं वृजनं जीरदानुम् ॥
+
+> *avocāma nivacanānyasminmānasya sūnuḥ sahasāne agnau |*
+> *vayaṃ sahasramṛṣibhiḥ sanema vidyāmeṣaṃ vṛjanaṃ jīradānum ‖*
+
+(Ṛ. Saṃ. 1-189-8)
+
+### Printed p. 622  (PDF 642)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 622.)*
+
+— in this ṛk, "*mānasya sūnuḥ*" is, in the opinion of the English scholars, "Agastya, the son of the seer-son Māna". But Sāyaṇa, in explaining this word in this same ṛk quoted as an example, has given this exposition:
+
+> मानस्य सूनुः — मीयते इति मानः मन्त्रः तस्य सूनुः अग्निः मन्त्रेण उत्पाद्यमानत्वात् । मानस्य सूनौ अग्नौ ।
+
+> *mānasya sūnuḥ — mīyate iti mānaḥ mantraḥ tasya sūnuḥ agniḥ mantreṇa utpādyamānatvāt | mānasya sūnau agnau |*
+
+(Ṛ. Bhā. 1-189-8) — "*māna*" means *mantra*; his son is Agni, because he is produced by the *mantra*; *mānasya sūnau agnau* — "in Agni, the son of the *mantra*". Likewise:
+
+> सत्रे ह जाताविषिता नमोभिः कुम्भे रेतः सिषिचतुः समानम् ।
+> ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठम् ॥
+
+> *satre ha jātāviṣitā namobhiḥ kumbhe retaḥ siṣicatuḥ samānam |*
+> *tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭham ‖*
+
+(Ṛ. Saṃ. 7-33-13) — here also, though the sense "Agastya" is possible, Sāyaṇa has not told that *māna* is a proper name. Hence there is a difference between the meanings given by the English scholars of all the words *mānāsaḥ*, *mānyasya* and what Sāyaṇa explains. In the ṛk at hand also, the sense is "those who belong to Agastya", or "hotṛs who are honoured and worthy of worship".
+
+**Sadasaḥ** — "of the sacrificial house (*yajñagṛha*)". The word *sadasī* is read among the names of heaven and earth (Ni. 3-30 [?]); in some contexts the meaning "sacrificial house", of wide extent like heaven and earth, is also possible. The Aitareya-Brāhmaṇa says thus about the origin of *sadas* and its greatness:
+
+> देवासुरा वा एषु लोकेषु समयतन्त ते वा असुरा इमानेव लोकान्पुरोऽकुर्वत यथौजीयांसो बलीयांस एवं ते वा अयस्मयीमेवेमामकुर्वत रजतामन्तरिक्षं हरिणीं दिवं ते तथेमाँल्लोकान्पुरोऽकुर्वत ते देवा अब्रुवन्पुरो वा इमेऽसुरा इमाँल्लोकानकृत पुर इमाँल्लोकान्प्रतिकरवामहा इति तथेति ते सद एवास्याः प्रत्यकुर्वताग्नीध्रमन्तरिक्षाद्विधर्मणि दिवस्ते तथेमाँल्लोकान्पुरः प्रत्यकुर्वत ॥
+
+> *devāsurā vā eṣu lokeṣu samayatanta te vā asurā imāneva lokānpuro 'kurvata yathaujīyāṃso balīyāṃsa evaṃ te vā ayasmayīmevemāmakurvata rajatāmantarikṣaṃ hariṇīṃ divaṃ te tathemā~llokānpuro 'kurvata te devā abruvanpuro vā ime 'surā imā~llokānakṛta pura imā~llokānpratikaravāmahā iti tatheti te sada evāsyāḥ pratyakurvatāgnīdhramantarikṣādvidharmaṇi divaste tathemā~llokānpuraḥ pratyakurvata ‖*
+
+(Ai. Brā. 4-6 [?]; Sanskrit as read, doubtful in places [?]) — when a contest arose between the devas and the asuras over the possession of these three worlds, the asuras made these very worlds their fortresses; and, exceeding their strength, they barred entry to the devas. The earth they made an iron fortress, the sky … [text continues: "the sky a silver one, heaven a golden one"].
+
+---
+
+**Progress note:** printed p. 622 (PDF 642) done — Sūkta 182 Ṛk 8 printed English, Special Topics begun (mānāsaḥ / Agastya-māna; Keith; sadasaḥ / Aitareya-Brāhmaṇa; continues p. 623). Next: printed p. 623 (PDF 643). Open flags: refs [?]; review/doubts_v13.json.
