@@ -457,3 +457,6 @@ p. 423: "śakemu(?)" -> "śakema"; "liṅy ādiṣyañ [?]" (लिज्या�
   p. 425: Uṇ. [3-116?] -> 3-365 [as printed; p. 423 prints 3-116]
 pp. 408, 411, 414, 416 (except bhāṣya fix): skipped, no flagged lines.
 Doubts: vol6/review/html/Vol6_doubts_p396-425.html (8).
+User corrections (doubts page pp. 352–395, via coordinator, Oct 30):
+  p. 385: "śaṃjātā [?]" -> "śaṃbātā" (user's reading ಶಂಬಾತಾ; only IAST/English layer present in the file)
+  p. 391: Uṇ. 3-49 [?] -> 3-499 (as printed)
