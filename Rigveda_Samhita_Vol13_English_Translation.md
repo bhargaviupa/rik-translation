@@ -17010,4 +17010,59 @@ Thus, since they are harmful to the sacrificers, the sacrificer there prays to t
 
 ---
 
-**Progress note:** printed p. 606 (PDF 626) done — Sūkta 182 Ṛk 3 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (dasrā, paṇi, juratam, jyotiḥ), grammar begun (continues p. 607). Next: printed p. 607 (PDF 627). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 607  (PDF 627)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 607.)*
+
+*(Grammar page of Ṛk 3, continued, noted briefly):* *mahīyate* — root *maha pūjāyām*; *yak* in the passive; *laṭ* third-person form; "*niṣāt-tairyadyadi*" (Pā. Sū. 8-1-30 [?]) — because *ci(t)* is connected, no *nighāta* accent comes; the accent of *yak* remains. *kramiṣṭam* — root *kramu pādavikṣepe*; "*chandasi luṅ-laṅ-liṭaḥ*": *luṅ* in the sense of the imperative; *tam*-substitution for the second person dual; *iṭ* augment for *siṭ*; "*hmyantakṣaṇaśvasa…*" (Pā. Sū. 7-2-5 [?]) prohibits *vṛddhi*; "*bahulaṃ chandasy-māṅyoge 'pi*" (Pā. Sū. 6-4-75 [?]) — no *āḍāgama*; *tiṅ*, *nighāta* accent. *juratam* — root *jṝ vayohānau*; *loṭ* second person dual, *tam*-substitution; by *vyatyaya*, *śa* as *vikaraṇa*; "*bahulaṃ chandasi*" (Pā. Sū. 2-4-73 [?]) gives *u* … *r* follows; *nighāta* is not applied, since a *tiṅ* is not following; the *vikaraṇa* accent makes the middle syllable acute. *vacasyave* — "*vacaḥ ātmanaḥ icchati vacasyati*"; "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) gives *kyac*; "*kyāc chandasi*" (Pā. Sū. 3-2-170 [?]) gives suffix *u* after the *kyac*-ending; "*ato lopaḥ*" elides *a*; the suffix accent comes; fourth case singular form.  ‖ 3 ‖
+
+### Sūkta 182, Ṛk 4  (printed p. 607; PDF 627)
+
+**Saṃhitā-pāṭha**
+
+> जम्भयतमभितो रायतः शुनो हतं मृधो विदथुस्तान्यश्विना ।
+> वाचंवाचं जरितू रत्निनीं कृतमुभा शंसं नासत्यावतं मम ॥ ४ ॥
+
+> *jambhayatamabhito rāyataḥ śuno hataṃ mṛdho vidathustānyaśvinā |*
+> *vācaṃvācaṃ jaritū ratninīṃ kṛtamubhā śaṃsaṃ nāsatyāvataṃ mama ‖ 4 ‖*
+
+*(The last word is printed "ममु" in the Saṃhitā and Pada — as printed, evidently "मम" [sic].)*
+
+**Pada-pāṭha**
+
+> जम्भयतं । अभितः । रायतः । शुनः । हतं । मृधः । विदथुः । तानि । अश्विना ।
+> वाचंऽवाचं । जरितुः । रत्निनीं । कृतं । उभा । शंसं । नासत्या । अवतं । मम ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ रायतो निन्दितं शब्दयतोऽस्मान्हन्तुमागच्छतो वा शुनः श्वसदृशानभितो जम्भयतं । नाशयतं । तथा मृधस्तेषां संग्रामान् संग्रामं कुर्वतो वा हतं । मारयतं । तानि हननोपायान्विदथुः । जानीथः । किंच
+
+> *he aśvinau rāyato ninditaṃ śabdayato 'smānhantumāgacchato vā śunaḥ śvasadṛśānabhito jambhayataṃ | nāśayataṃ | tathā mṛdhasteṣāṃ saṃgrāmān saṃgrāmaṃ kurvato vā hataṃ | mārayataṃ | tāni hananopāyānvidathuḥ | jānīthaḥ | kiṃca*
+
+### Printed p. 608  (PDF 628)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 608.)*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> जरितुः स्तोतुर्मह्यं वाचंवाचं तां तां स्तुतिलक्षणां वाचं रत्निनीं कृतं । सर्वामसि स्तुतिं रमणीयफलवतीं कुरुतं । हे नासत्या सत्यभूतौ युवामुभौ मम मदीयां शंसं स्तुतिमवतं । रक्षतं ॥
+
+*(Sanskrit as read; doubtful in "sarvāmasi" [?]. Gist: destroy the barking dogs and the foes who fight us; you know the means; make every word of praise of mine fruitful and accept my praise.)*
+
+**Pratipadārtha** — (*he*) **aśvinā** — O Aśvin deities; **rāyataḥ** — those who make abusive sounds (barking) or who come to kill us; **śunaḥ** — men like dogs; **abhitaḥ jambhayataṃ** — destroy them utterly; **mṛdhaḥ** — those who fight against us; **hataṃ** — kill; **tāni** — the means of killing them, or the means of harm they use; **vidathuḥ** — you know; **kiṃca** — and; **jarituḥ** — of the one who praises you; **vācaṃ-vācaṃ** — every word of praise; **ratninīṃ** — endowed with delightful fruit; **kṛtaṃ** — make; **he nāsatyā** — O Aśvin deities, who are truth-formed; **ubhā** — you two; **mama** — my; **śaṃsaṃ** — praise; **avataṃ** — protect (accept).
+
+**Bhāvārtha** — O Aśvin deities, destroy those who revile you, or who come to kill us; destroy those who come to fight us; you know the means of killing them; and, pleased with the praise of me who praise you, make every word of praise bear excellent fruit.
+
+**English Translation.** *(printed)*
+
+"Annihilate, Ashwins, the dogs who bark at us : slay them warring (against us) : you know their (means of harm) : render every word of him who praises you affluent in precious (rewards) : accept, Nasatyas, both of you, my praise."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Rāyataḥ** — "*ninditaṃ śabdayataḥ asmān hantum āgacchato vā*" — those who revile us, or who come to harm us, that is, enemies.
+
+**Mṛdhaḥ** — "*teṣāṃ saṃgrāmān saṃgrāmaṃ kurvato vā*": for this word the meaning is either "war" or "enemies who make war". The Nirukta-author has read this word among the names of *saṃgrāma* (Ni. 3-9 [?]): it means war. In some places it means the enemy who is the cause of war.
+
+---
+
+**Progress note:** printed p. 608 (PDF 628) done — Sūkta 182 Ṛk 3 ends (grammar); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (rāyataḥ, mṛdhaḥ; continues p. 609). Next: printed p. 609 (PDF 629). Open flags: refs [?]; review/doubts_v13.json.
