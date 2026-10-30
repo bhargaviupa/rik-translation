@@ -2123,4 +2123,48 @@ The sun's course is swift; so the wife of the Marut-gods mounts the swiftly movi
 
 ---
 
-**Progress note:** printed p. 92 (PDF 112) done — Sūkta 167 Ṛk 5 Special Topics and grammar nearly complete (grammar continues on p. 93). Next: printed p. 93 (PDF 113). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 93  (PDF 113)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Vyākaraṇa-prakriyā (continued, noted briefly; sūtra numbers [?]).** *vidhataḥ* (root *vidha vidhāne*; *śatṛ*; genitive singular; for a *śatṛ* without *num*, the case-ending following, *śatur anumo nadyajādī* Pā. 6-1-173 gives the acute to the case-ending). *gāt* (root *iṇ gatau*; Vedic *luṅ* in the present sense; *iṇo gā luṅi* Pā. 2-4-45 gives *gā* for the root; *cli* → *sic*; *gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu* Pā. 2-4-77 gives *luk* of *sic*; in the Veda no *aṭ*; *nighāta* after a *tiṅanta*). *itvā* (root *iṇ gatau*; *kyap* by *eti stuśā…* Pā. 3-1-109; *hrasvasya piti kṛti tuk* Pā. 6-1-71 gives *tuk*; *ṭāp* in the feminine). ‖ 5 ‖
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> आस्थापयन्त युवतिं युवानः शुभे निमिश्लां विदथेषु पज्राम् ।
+> अर्को यद्वो मरुतो हविष्मान्गायद्गाथं सुतसोमो दुवस्यन् ॥ ६ ॥
+
+> *āsthāpayanta yuvatiṃ yuvānaḥ śubhe nimiślāṃ vidatheṣu pajrām |*
+> *arko yadvo maruto haviṣmāngāyadgāthaṃ sutasomo duvasyan ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । अस्थापयन्त । युवतिम् । युवानः । शुभे । निऽमिश्लाम् । विदथेषु । पज्राम् ।
+> अर्कः । यत् । वः । मरुतः । हविष्मान् । गायत् । गाथम् । सुतऽसोमः । दुवस्यन् ॥ ६ ॥
+
+> *ā | asthāpayanta | yuvatim | yuvānaḥ | śubhe | ni 'miślām | vidatheṣu | pajrām |*
+> *arkaḥ | yat | vaḥ | marutaḥ | haviṣmān | gāyat | gātham | suta 'somaḥ | duvasyan ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> युवानो मिश्रयन्तो नित्यतरुणा वा मरुतो युवतिं मिश्रयन्तीं नित्यतरुणीं वा विद्युद्रूपां रोदस्यां स्त्रियमास्थापयन्त । आस्थापयन्ति । देवतात्वेन रथे धारयन्ति ।
+
+> *yuvāno miśrayanto nityataruṇā vā maruto yuvatiṃ miśrayantīṃ nityataruṇīṃ vā vidyudrūpāṃ rodasyāṃ striyamāsthāpayanta | āsthāpayanti | devatātvena rathe dhārayanti |*
+
+### Printed p. 94  (PDF 114)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Bhāṣya (continued from p. 93):**
+
+> कीदृशीं तां । निमिश्लां नियमेन मिश्रयन्तीं पज्रां पज्रो बलं तद्वतीम् । शुभे । शोभते दीप्यत इति शुभुदकं वृष्ट्युदकार्थम् । शुभे रथे इति वा योज्यम् । किं निमित्तम् । विदथेषु योगेषु निमित्तभूतेषु । कदा । यद्यदा हे मरुतः वो युष्माकमर्कः । मत्वर्थीयो लुप्तः [?] । अर्चनसाधनमन्त्रोपेतः स्तोता वा हविष्मान् प्रदेयाज्यादिहविर्युक्तः सुतसोमो होमायाभिषुतसोमोऽयं यजमानो दुवस्यन् । परिचरन् गाथं गातव्यं स्तोत्रं गायत् गायति । तदेत्यर्थः ॥
+
+*Gist:* The ever-young Maruts seat in their chariot the young, mixing, lightning-woman, strong, for the sake of rain at the sacrifices, whenever the sacrificer, with oblations and pressed Soma, serves them and sings the hymn.
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; *yat* — when; *haviṣmān* — one with oblations such as *ājya* to be offered; *sutasomaḥ* — one who has pressed Soma for the *homa*; *arkaḥ* — the worshipper, the sacrificer, possessed of hymns as means of worship; *vaḥ* — you; *duvasyan* — serving; *gātham* — the hymn to be sung; *gāyat* — sings; (*tadā* — then); *yuvānaḥ* — you who are ever young; *nimiślām* — who is closely mingled with [you]; *pajrām* — strong; *yuvatim* — the ever-young woman in the form of lightning (of mixing nature); *śubhe* — for the sake of rain (in your auspicious chariot); *vidatheṣu* — for the sacrifices (setting out with a view to them); *ā asthāpayanta* — you seat together (with you).
+
+**Bhāvārtha.** O Marut-gods, when your worshipper (the sacrificer) offers *ājya* and other oblations and prepares the Soma juice and praises you with hymns, then, ever-young, you set out in your chariot for the sacrifices, with the ever-young woman in the form of lightning, well mingled with you and endowed with great vigour (calling her again [and again]).
+
+**English Translation (as printed):** The youthful (Maruts) have placed the young (lightning) in (their) brilliant (car), commingling (with them), and vigorous (in yielding rain) on sacrifices (being solemnized); when, Maruts, your worshipper, presenting oblations, pouring out the Soma juice, and offering adoration, chants the sacred song.
+
+---
+
+**Progress note:** printed p. 94 (PDF 114) done — Sūkta 167 Ṛk 6: Saṃhitā to English done (Special Topics next, p. 95). Next: printed p. 95 (PDF 115). Open flags: small-type numerals [?]; review/doubts_v13.json.
