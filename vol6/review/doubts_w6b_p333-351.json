@@ -1,0 +1,90 @@
+[
+ {
+  "page": 335,
+  "y0": 0.751,
+  "y1": 0.7854,
+  "x0": 0.1522,
+  "x1": 0.5221,
+  "kind": "numeral",
+  "file": "(Ni. [3-19?])",
+  "ctx": "*vipraḥ*, *vigraḥ*, *gṛtsaḥ* and so on (Ni. [3-19?])",
+  "note": "names of the wise: is the last digit 9 or 5 (ನಿ. ೩-೧?)"
+ },
+ {
+  "page": 338,
+  "y0": 0.2758,
+  "y1": 0.3185,
+  "x0": 0.1975,
+  "x1": 0.5411,
+  "kind": "accent",
+  "file": "अ॒मृता अमू॑राः",
+  "ctx": "विश्वे॑ अ॒मृता अमू॑राः ।",
+  "note": "Saṃhitā 72.2: stroke over 'mū' of amūrāḥ? any mark on 'tā' or under 'mū'?"
+ },
+ {
+  "page": 338,
+  "y0": 0.3204,
+  "y1": 0.3898,
+  "x0": 0.1975,
+  "x1": 0.8812,
+  "kind": "accent",
+  "file": "प॑रमे चार्वग्नेः",
+  "ctx": "प॒दे प॑रमे चार्वग्नेः ॥ २ ॥",
+  "note": "Saṃhitā 72.2: anudātta under 'ra' of parame? any mark on cārv agneḥ?"
+ },
+ {
+  "page": 343,
+  "y0": 0.7076,
+  "y1": 0.813,
+  "x0": 0.3253,
+  "x1": 0.8268,
+  "kind": "accent",
+  "file": "य॒ज्ञिया॒न्यसू॑दयन्त",
+  "ctx": "चिद्दधिरे य॒ज्ञिया॒न्यसू॑दयन्त त॒न्व१॒॑ः",
+  "note": "Saṃhitā 72.3: anudātta under 'yā' and svarita over 'sū' as read?"
+ },
+ {
+  "page": 344,
+  "y0": 0.6748,
+  "y1": 0.704,
+  "x0": 0.5344,
+  "x1": 0.804,
+  "kind": "numeral",
+  "file": "उ. [१-१२९?]",
+  "ctx": "शृदृभसोऽदिः । उ. [१-१२९?] इत्यदिप्रत्ययः",
+  "note": "Uṇādi number: 1-129 or 1-139?"
+ },
+ {
+  "page": 349,
+  "y0": 0.5286,
+  "y1": 0.5584,
+  "x0": 0.2919,
+  "x1": 0.6745,
+  "kind": "word",
+  "file": "\"tad agnir nyarkāmayata\" [?]",
+  "ctx": "tad agnir nārkāmayata tenāpākrāmat",
+  "note": "Taittirīya quotation: how is 'tad agnir n…kāmayata' printed?"
+ },
+ {
+  "page": 350,
+  "y0": 0.6681,
+  "y1": 0.6972,
+  "x0": 0.5558,
+  "x1": 0.8266,
+  "kind": "numeral",
+  "file": "(Ni. [3-22?])",
+  "ctx": "*svadhe*, *purandhī* and so on (Ni. [3-22?])",
+  "note": "names of heaven and earth: 3-22 (two ೨-like digits)?"
+ },
+ {
+  "page": 351,
+  "y0": 0.5224,
+  "y1": 0.5567,
+  "x0": 0.4101,
+  "x1": 0.6989,
+  "kind": "numeral",
+  "file": "(Ni. [3-2?])",
+  "ctx": "twenty-five names of mankind (Ni. [3-2?])",
+  "note": "names of mankind: 3-2 or 2-3?"
+ }
+]
