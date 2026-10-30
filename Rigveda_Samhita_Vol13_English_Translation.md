@@ -4204,4 +4204,62 @@ In the view that it is Agastya's speech to Indra, the meaning given for the word
 
 ---
 
-**Progress note:** printed p. 188 (PDF 208) done — Sūkta 170 Ṛk 4 through grammar (its '‖ 4 ‖' and Ṛk 5 follow on p. 189). Next: printed p. 189 (PDF 209). Open flags: small-type numerals [?]; Nirukta/Ṛg refs on p. 187–188; review/doubts_v13.json.
+### Printed p. 189  (PDF 209)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; grammar of Ṛk 4 concluded.)*
+
+*(Grammar, noted briefly)*: *tanavāvahai* (root *tanu vistāre*; *loṭ* 1st dual, affix *vahi*; when the *ṭi* part takes *e*, *ai* replaces it by "*eta ai*", Pā. Sū. 3-4-93 [?]; the augment *āṭ* by "*āḍuttamasya pic ca*", Pā. Sū. 3-4-92 [?]; the affix *u* by "*tanādikṛñbhya uḥ*", Pā. Sū. 3-1-79 [?]; since a *pit* affix follows, *guṇa* and *av* substitution; *nighāta* of the verb). ‖ 4 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> त्वमीशिषे वसुपते वसूनां त्वं मित्राणां मित्रपते धेष्ठः ।
+> इन्द्र त्वं मरुद्भिः सं वदस्वाध प्राशान ऋतुथा हवींषि ॥ ५ ॥
+
+> *tvamīśiṣe vasupate vasūnāṃ tvaṃ mitrāṇāṃ mitrapate dheṣṭhaḥ |*
+> *indra tvaṃ marudbhiḥ saṃ vadasvādha prāśāna ṛtuthā havīṃṣi ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । ईशिषे । वसुऽपते । वसूनाम् । त्वम् । मित्राणाम् । मित्रऽपते । धेष्ठः ।
+> इन्द्र । त्वम् । मरुत्ऽभिः । सम् । वदस्व । अध । प्र । अशान । ऋतुऽथा । हवींषि ॥ ५ ॥
+
+> *tvam | īśiṣe | vasu 'pate | vasūnām | tvam | mitrāṇām | mitra 'pate | dheṣṭhaḥ |*
+> *indra | tvam | marut 'bhiḥ | sam | vadasva | adha | pra | aśāna | ṛtu 'thā | havīṃṣi ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इदमगस्त्यवाक्यम् । हे वसूनां वसुपतेऽतिप्रभूतानां पुरोडाशाज्यादिधनानां स्वामिन् हे इन्द्र त्वमीशिषे । ईश्वरो भवसि । सर्वस्य वृत्त्यै वृत्तिभ्यां बहुत्वं नित्यं संबन्धश्च प्रतिपद्यते [?] । यद्वा । हे वसुपते वसूनामीशिष इति योजना । द्वितीयो वसुशब्दोऽनुवादो वा । तथा हे मित्राणां मित्रपतेऽस्मदादिमित्रस्य नित्यं पालकेन्द्र त्वं धेष्ठः । सर्वस्यातिशयेन धारकोऽसि । हे इन्द्र त्वमुक्तमहिमस्त्वं मरुद्भिः सं वदस्व । तैः सार्धं सम्यक्कृतमिति वदस्व । अधापि च त्वमृतुथा ऋतावृतौ । उपलक्षणमेतत्कालस्य । तत्तद्यागकाले हवींष्याज्यचर्वादीनि प्राशान प्रकर्षेण भुङ्क्ष्व ॥
+
+*Gist:* Agastya's reply: Indra, lord of the wealth of oblations and best supporter of friends, speak well with the Maruts and eat the oblations in each season of sacrifice.
+
+### Printed p. 190  (PDF 210)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+**Pratipadārtha.** *(he)* *vasūnāṃ vasupate* — lord of all wealth, such as *puroḍāśa*, *ājya* and the like, O Indra; *tvam* — you; *īśiṣe* — are the lord; *(he)* *vasupate* — O master of wealth; *tvam* — you; *vasūnām* — of wealth in the form of *puroḍāśa*, *ājya* and the like; *īśiṣe* — are lord; *(tathā* — likewise*)* *mitrapate* — O protector of all friends, Indra; *mitrāṇām* — of your friends (to us); *dheṣṭhaḥ* — (you are) the mighty supporter; *(he)* *indra* — O Indra; *marudbhiḥ* — with the Marut-gods; *tvam* — you; *saṃ vadasva* — speak (saying that the act was well done); *adha* — and; *ṛtuthā* — according to the season (in the season of the sacrifice); *havīṃṣi* — oblations such as *ājya* and *caru*; *pra aśāna* — eat abundantly.
+
+**Bhāvārtha.** O Indra, you alone are lord of all wealth such as *puroḍāśa* and the like; and to friends such as us you are a mighty supporter; such as you are, in company with the Marut-gods, praise our act as well done, and, in their seasons, eat abundantly the oblations (offered by us) such as *ājya*.
+
+**English Translation (as printed):** (Agastya),—You, Vasupati, are the lord of riches; you, Mitrapati, are the firm stay (of us), your friends: Declare, Indra, along with the Maruts, (your approval of our acts), and partake of the oblation offered in due season.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+This mantra is explained as spoken by the sage Agastya in reply to Indra's words.
+
+***vasūnāṃ vasupate — tvam īśiṣe*** — *atiprabhūtānāṃ puroḍāśājyādidhanānāṃ svāmin tvam īśvaro bhavasi sarvasya | yadvā vasūnām īśiṣe | dvitīyo vasuśabdo anuvādo vā*: two kinds of meaning are explained for this sentence. In the first, Indra, by his abundant prosperity, is lord of wealth such as *puroḍāśa* and *ājya*, and of everything else, and is the master of all; here the first word *vasu* denotes excess (*atiśaya*). In the second meaning, it is explained that Indra is lord over the Vasus; the second word *vasu* is said to be an *anuvāda* (a restatement). Yāska says that the word *vasu* is a restatement, and has shown it by examples. Among the names of the guards (*rakṣin*), the word *vasavaḥ* is read.
+
+> सुगा वो देवाः सुपथा अकर्म य आजग्मेदं सवनं जुषाणाः ।
+> जक्षिवांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसूनि ॥
+
+> *sugā vo devāḥ supathā akarma ya ājagmedaṃ savanaṃ juṣāṇāḥ |*
+> *jakṣivāṃsaḥ papivāṃsaś ca viśve'sme dhatta vasavo vasūni ‖*
+
+(Ni. 12-[?]). Here the gods are addressed by the word *vasavaḥ*; for the second word *vasu* the meaning "wealth" is stated.
+
+---
+
+**Progress note:** printed p. 190 (PDF 210) done — Sūkta 170 Ṛk 5 (last ṛk of Sūkta 170): Saṃhitā to Special Topics in progress (continues p. 191). Next: printed p. 191 (PDF 211). Open flags: small-type numerals [?]; review/doubts_v13.json.
