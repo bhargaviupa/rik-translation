@@ -2914,4 +2914,50 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 130 (PDF 150) done — Sūkta 168 Ṛk 5 complete; Ṛk 6 Saṃhitā, Pada, bhāṣya written (Pratipadārtha on p. 131). Next: printed p. 131 (PDF 151). Open flags: Ṛk 6 bhāṣya [?] words (satyāyudhe, avarāṃ…); small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 131  (PDF 151)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)*
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods (you); *yasmin* — for what water-purpose; *āyayu* [as printed] — you come; *asya* — of this; *mahaḥ* — immense (boundless); *rajasaḥ* — of the water (of the world); *param* — the end; *kva svit* — where is it?; *(tathā* — likewise*)* *avaram* — (its) beginning; *kva* — where?; *yat* — when (you); *saṃhitam* — the water gathered together into one; *vithurā iva* — like loose (scattering) grass (as one disperses it); *cyāvayatha* — you shake; *(tat* — then*)* *adriṇā* — with the thunderbolt-weapon; *tveṣam* — brilliant; *arṇavam* — the water-possessing cloud; *vi patatha* — you cause to fall down.
+
+**Bhāvārtha.** O Marut-gods, for the sake of what water do you come? What are its beginning and end? You make the water collected in one place, and the water-bearing clouds, burst with the thunderbolt-weapon and cause them to fall down.
+
+**English Translation (as printed):** Where, Maruts, is the limit of the vast region (whence you come [the scan reads "whenee … eome"]): where is the beginning of that to which you proceed: when you scatter the dense vapour like light grass, and hurl down the brilliant rain-cloud by the thunderbolt.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***asya rajasaḥ mahaḥ paraṃ kva svit*** — *vṛṣṭyudakasya lokasya vā mahataḥ pāraṃ antaṃ kutrāsti*: the word *rajas* is read among the names of night (Ni. 1-[?]). Yāska, explaining that the word *rajas* is formed from the root *raj* (*rañj*) with the sense of colouring, explains it as "*rajo rajateḥ jyotiḥ rajaḥ ucyate*" [as read]: since light pervades all things with its own radiance, light is called *rajas*; and "*udakaṃ rajaḥ ucyate; lokāḥ rajāṃsi ucyante*": water and the worlds are also called *rajas*, since the word is meaningful for them (Ni. 4-[?]); he cites usages that convey this sense, as in
+
+> अब्जामुक्थैरहिं गृणीषे बुध्ने नदीनां रजस्सु सीदन् ॥
+
+> *abjām ukthair ahiṃ gṛṇīṣe budhne nadīnāṃ rajassu sīdan ‖*
+
+(Ṛ. Saṃ. 6-[?]-[?]). Here the word *rajassu* is explained as meaning *udake* ("in the waters").
+
+### Printed p. 132  (PDF 152)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ॥
+
+> *etā u tyā uṣasaḥ ketum akrata pūrve ardhe rajaso bhānum añjate ‖*
+
+(Ṛ. Saṃ. 1-92-1 [?]). Here *rajasaḥ* is said to mean *antarikṣalokasya* ("of the world of the atmosphere"). Sāyaṇa, addressing the Marut-gods, explains that they come to bestow the waters on the world. Having asked where is the end of the greatness (the limit) of the waters and the worlds, he explains that, since that is not directly perceived, it is boundless [reading of the Kannada partly doubtful]. In the same way, asking by means of a question, "where is *avaram avāg bhāgaḥ ādiśca kva svit*, the beginning, the lower part?" of the waters, he explains "*na ko'pi jānāti*": no one knows the beginning and end of the waters.
+
+***vithureva saṃhitaṃ cyāvayatha*** — *śithilāni tṛṇānīva ekībhūtam udakaṃ svasthānāt cālayatha*: as one makes loose grass move, the Marut-gods make the condensed waters move from their place; *arṇavaṃ vi patetha udakavantaṃ meghaṃ viśīrṇaṃ pātayatha*: splitting the cloud that holds the water with the thunderbolt-weapon, you make the rain fall. Thus the extraordinary power of the Marut-gods is described here.
+
+***adriṇā*** — the word *adri* is read among the names of *vajra* (Ni. 2-[?]); the meaning "thunderbolt-weapon" is explained.
+
+***tveṣam — dīptam*** — this word is explained as used by Yāska in the sense of "radiant":
+
+> त्वेषमित्था समरणं शिमीवतोरिन्द्राविष्णू सुतपा वामुरुष्यति ।
+
+> *tveṣam itthā samaraṇaṃ śimīvator indrāviṣṇū sutapā vām uruṣyati |*
+
+(Ṛ. Saṃ. 1-155-2 [?]). Here the word *tveṣam* is explained as meaning "possessing brilliance".
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly; sūtra numerals small, not read)*: *āyayu* (root *yā prāpaṇe*; Vedic *liṭ*; the substitute *a* for the 2nd-person plural ending [as printed]; reduplication; the affix is *kit* by "*asaṃyogāl liṭ kit*"; the root-final *ā* dropped by "*ātolopa iṭi ca*"; because of *yat* (*yadyoga*) there is no *nighāta* accent; the affix accent makes it final-acuted; the preverb *ā* loses its accent by "*tiṅ codāttavati*" [as read]); *cyāvayatha* (root *cyu(j?) gatau* [as printed]; *ṇic* by "*hetumati ca*"; *vṛddhi* by "*aco ñṇiti*"; *āv* substitution; *laṭ* 2nd plural; because of *yat* no *nighāta*; the accent of *ṇic* remains).
+
+---
+
+**Progress note:** printed p. 132 (PDF 152) done — Sūkta 168 Ṛk 6 complete (through grammar; '‖ 6 ‖' marker on p. 133). Next: printed p. 133 (PDF 153). Open flags: small-type numerals [?]; review/doubts_v13.json.
