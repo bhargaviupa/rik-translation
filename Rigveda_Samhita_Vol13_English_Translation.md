@@ -2440,4 +2440,48 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 ---
 
-**Progress note:** printed p. 108 (PDF 128) done — Sūkta 167 Ṛk 10 Special Topics in progress (continues on p. 109). Next: printed p. 109 (PDF 129). Open flags: small-type numerals [?]; Ṛk 10 Saṃhitā last pāda reading [?] and bhāṣya words; review/doubts_v13.json.
+### Printed p. 109  (PDF 129)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Special Topics (continued).**
+
+***purā mahi naḥ*** — *pūrvasmin atīte 'pi kāle mahadbalam asmadartham vocemahi*: "even in the past too we shall declare his great strength for our sake". In the preceding days of the sacrifice too we have been praising the greatness of the mighty Indra who favours us; and ***naḥ ṛbhukṣāḥ anu syāt*** — the wish is made that Indra, as to us who live among ordinary men, as sacrificers, may fulfil our desires. The word *ṛbhukṣāḥ* is stated among the names of "great" (Ni. 3-13 [?]). And —
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् । यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि ॥
+
+> *mā no mitro varuṇo aryamāyurindra ṛbhukṣā marutaḥ pari khyan | yadvājino devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi ‖*
+
+(Ṛ. Saṃ. 1-162-1) — for the word *ṛbhukṣāḥ* in this ṛk the explanation is given: *urāv antarikṣe kṣiyati nivasati* ("who dwells in the great middle region") [as read], or *athavā kṣayatir aiśvaryakarmā ṛbhūṇāṃ devānāṃ rājā* ("[the root] *kṣi* has the sense of lordship: who is king of the Ṛbhu deities"): thus the abundant greatness of Indra is established.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *preṣṭhāḥ* (*atiśayena priyāḥ preṣṭhāḥ*; *atiśāyane tamabiṣṭhanau* Pā. 5-3-55 gives *iṣṭhan*; following it, *priyasthirasphirorubahulagurvavṛddhatvadīrghavṛndārakāṇāṃ prasthasphavabahaguravarddhatrapadīrghavṛndāḥ* Pā. 6-4-157 gives *pra* for *priya*; *prakṛtyaikāc* Pā. 6-4-163 prevents the loss; guṇa; as the suffix is *nit*, initial acute). *vocemahi* (root *vaca paribhāṣaṇe*; *liṅ* 1st plural; by *vyatyaya* *mahiṅ* [ātmanepada]; *vyatyayo bahulam* gives *aj*; *sīyuṭ* comes to the *liṅ* and, with *s*-loss, guṇa; *vaco 'ruṃ* [Pā. 7-4-20 [?]] gives *uṃ* to the root; at the start of the pāda no *nighāta*). *samarye* (*saha maryāḥ yasmin tasmin samarye*; *samāsasya* Pā. 6-1-223 gives final acute). *ṛbhukṣāḥ* (with *uru* or *ṛtu* as *upapada*; root *bhā dīptau* or *bhū sattāyām*; suffix *ku* by *mṛgayopadeyaś ca* Uṇ. 1-38; the *ṛ* of the prior member is established by *nipātana*; with *ṛbhu* as *upapada*, the root *kṣi nivāsagatyoḥ*; the suffix *ini* by *pathe iṣṭa* … by *bahula*; the *i* of the root dropped; a following *su* … *pathimathyṛbhukṣām āt* Pā. 7-1-85 gives *ā*; the *ā* gets the acute by the suffix's accent).
+
+### Printed p. 110  (PDF 130)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Vyākaraṇa-prakriyā (continued).** *syāt* (root *asa bhuvi*; *vidhiliṅ* 3rd singular, *tip*; the *i* dropped; *luk* for *śap*; *sīyuṭ* is added to *liṅ*; *śnasor allopaḥ* Pā. 6-4-111 drops the *a* of the root; *upasargāt su…* gives *ṣatva* in the Saṃhitā). *narām* (root *nṛ nayane*; *viṭ* suffix; genitive plural; *sānekācaś ca tṛtīyādiḥ* Pā. 6-1-168 gives the acute to the case-ending). ‖ 10 ‖
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> एष वः स्तोमो मरुत इयं गीर्मान्दार्यस्य मान्यस्य कारोः ।
+> एषा यासीष्ट तन्वे वयां विद्यामेषं वृजनं जीरदानुम् ॥ ११ ॥
+
+> *eṣa vaḥ stomo maruta iyaṃ gīrmāndāryasya mānyasya kāroḥ |*
+> *eṣā yāsīṣṭa tanve vayāṃ vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> एषः । वः । स्तोमः । मरुतः । इयम् । गीः । मान्दार्यस्य । मान्यस्य । कारोः ।
+> आ । इषा । यासीष्ट । तन्वे । वयाम् । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ११ ॥
+
+> *eṣaḥ | vaḥ | stomaḥ | marutaḥ | iyam | gīḥ | māndāryasya | mānyasya | kāroḥ |*
+> *ā | iṣā | yāsīṣṭa | tanve | vayām | vidyāma | iṣam | vṛjanam | jīra 'dānum ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> एष इत्येकादशे [?] व्याख्याता ॥ *(printed note: "See p. 69")*
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; *māndāryasya* — who gladdens you with praises; *mānyasya* — worshipful; *kāroḥ* — of the praiser; *eṣaḥ stomaḥ* — this praise (made so far); (*thā* — likewise); *iyaṃ gīḥ* — this (praise-form) speech; (*vaḥ* — for you); *vaḥ* — may it be pleasing to you; [*māndāryasya* — of him who gladdens you by praises; *mānyasya* — and therefore of the man who is honourable; *kāroḥ* — of this praiser]; *iṣā* — with desire; *tanve* — for the body (for its growth); *ā yāsīṣṭa* — (the praise) may it reach you; *vayam* — we; *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain.
+
+---
+
+**Progress note:** printed p. 110 (PDF 130) done — Sūkta 167 Ṛk 10 complete; Ṛk 11 (last of Sūkta 167): Saṃhitā, Pada, bhāṣya note and Pratipadārtha done. Next: printed p. 111 (PDF 131): Bhāvārtha, English of Ṛk 11 and the end of Sūkta 167. Open flags: small-type numerals [?]; review/doubts_v13.json.
