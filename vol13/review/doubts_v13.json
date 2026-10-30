@@ -4642,5 +4642,29 @@
   ],
   "note": "refs Ni 3-9, Ni 4-19 small; Eggeling quote source ref not printed",
   "answer": ""
+ },
+ {
+  "pdf": 495,
+  "printed": 475,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Bloomfield/Keith quotes: printed typos marked sic; script of Sanskrit words in English quote (Indic)",
+  "answer": ""
+ },
+ {
+  "pdf": 496,
+  "printed": 476,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 3-2-8, 4-2-7 small; 'karmah' with visarga in print",
+  "answer": ""
  }
 ]
