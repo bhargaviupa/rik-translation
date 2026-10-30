@@ -3819,7 +3819,7 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 > त्वं मानेभ्य इन्द्र विश्वजन्या रदा मरुद्भिः शुरुधो गोअग्राः ।
 > स्तवानेभिः स्तवसे देव देवैर्विद्यामेषं वृजनं जीरदानुम् ॥ ८ ॥
 
-> *tvaṃ mānebhya [?] indra viśvajanyā radā marudbhiḥ śurudho goagrāḥ |*
+> *tvaṃ mānebhya indra viśvajanyā radā marudbhiḥ śurudho goagrāḥ |*
 > *stavānebhiḥ stavase deva devairvidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 8 ‖*
 
 ---
@@ -3886,4 +3886,52 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 
 ---
 
-**Progress note:** printed p. 174 (PDF 194) done — Sūkta 169 Ṛk 8 through Special Topics (grammar and the closing note on p. 175). Next: printed p. 175 (PDF 195). Open flags: Ṛk 8 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json (PDF numbers fixed for entries 91–102).
+### Printed p. 175  (PDF 195)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; grammar of Ṛk 8, the last ṛk of Sūkta 169.)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *mānebhyaḥ* (the dative in the sense of "for the sake of" by the vārttika "*tādarthye caturthī vācyā*"); *viśvajanyā* (*viśve janyāḥ yasya saḥ*, a *bahuvrīhi*, the first member keeping its accent by "*bahuvrīhau prakṛtyā pūrvapadam*", Pā. Sū. 6-2-1 [?]; *ā* substituted for the case-ending by "*supāṃ sulak…*", Pā. Sū. 7-1-39 [?]); *śurudhaḥ* (root *rudhir āvaraṇe*; affix *kvip* by "*kviṣ ca*" [as read]; *śucaḥ rodhayitryaḥ*; the final of the first member is dropped by "*pṛṣodarādīni yathopadiṣṭam*"; the latter member keeps its accent by "*gatikārakopapadāt kṛt*", Pā. Sū. 6-2-139 [?]; accusative plural form); *go agrāḥ* (*prakṛtibhāva* by "*sarvatra vibhāṣā goḥ*", Pā. Sū. 6-1-122 [?]); *stavānebhiḥ* (root *ṣṭuñ stutau*; by *vyatyaya*, *śānac* (the agent-affix) in the passive; by "*bahulaṃ chandasi*" the *luk* of *śap* does not occur; *guṇa* of the root's *i*-vowel and *av*; because *lasārvadhātuka* is unaccented by "*tāsyanudāttet…*" the accent of the root remains; before *bhis*, *iṭ* being optional by "*bahulaṃ chandasi*", there is none; *e* by "*bahuvacane jhalyet*", Pā. Sū. 7-3-103 [?]); *stavase* (as before, the agent-affix in the passive by *vyatyaya*; *laṭ* 2nd singular; *nighāta*). ‖ 8 ‖
+
+*Here ends the hundred and sixty-ninth Sūkta.* (ಇಲ್ಲಿಗೆ ನೂರ ಅರವತ್ತೊಂಭತ್ತನೇ ಸೂಕ್ತ ಮುಗಿಯಿತು.)
+
+## Sūkta 170 — *na nūnam asti* (Anuvāka 23, sixth Sūkta; 5 ṛks)
+
+*(Heading, p. 175: "The hundred and seventieth Sūkta" — ನೂರ ಎಪ್ಪತ್ತನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> न नूनमस्तीति पञ्चर्चं षष्ठं सूक्तमागस्त्यमैन्द्रम् । अत्रानुक्रमणिका । न नूनं पञ्चागस्त्येन्द्रे हविषि मरुतामुद्यत इन्द्रागस्त्ययोः संवादे ऐन्द्रस्तत्राद्या तृतीया चेन्द्रवाक्यं चतुर्थी चादौ बृहती तिस्रोऽनुष्टुभ इति । सूक्तस्येन्द्रागस्त्यसंवादरूपत्वादाद्या तृतीया चतुर्थी चेन्द्रवाक्यम् । अतस्तासां यस्य वाक्यं तेन स ऋषिः । शिष्टे अगस्त्यवाक्ये । अतस्तयोः स एवर्षिः । आद्या च बृहती केतसिस्रोऽनुष्टुभः [?] । अन्त्याविशेषात् त्रिष्टुप् ॥ विशेषविनियोगो लैङ्गिकः ॥ अत्र यास्कः । अगस्त्य इन्द्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सां चकार स इन्द्र एत्य परिदेवयां चक्रे । नि. १-३ [?] । इति ॥
+
+*Gist:* The sixth sūkta (*na nūnam asti*), of five ṛks, by Agastya, to Indra; a dialogue between Indra and Agastya about an oblation meant for the Maruts; the first ṛk is a bṛhatī, the next three anuṣṭubh, the last triṣṭubh (as read).
+
+### Printed p. 176  (PDF 196)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+**Anuvāda (Kannada).** This Sūkta beginning *na nūnam asti* is the sixth Sūkta in the twenty-third anuvāka. It has five ṛks. Agastya and Indra are the ṛṣis of this Sūkta. In the Anukramaṇikā it is said: "*na nūnaṃ pañcāgastyendre haviṣi marutām udyata indrāgastyayoḥ saṃvāde aindras tatrādyā tṛtīyā cendravākyaṃ caturthī cādau bṛhatī tisro'nuṣṭubha*" [as read]. Since this Sūkta is a dialogue between Indra and Agastya, the first, third and fourth ṛks are Indra's words; hence the ṛṣi of those ṛks is Indra. The remaining ṛks — that is, the second and fifth — being Agastya's words, Agastya himself is the ṛṣi of them. The first ṛk is of the Bṛhatī metre; the three that follow are of the Anuṣṭubh metre; the last ṛk is of the Triṣṭubh metre. The special application (*viniyoga*) is indicated by the indicatory sign (*laiṅgika*). In this matter Yāska says in his Nirukta: "*agastya indrāya haviḥ nirupya marudbhyaḥ saṃpraditsāṃ cakāra sa indra etya paridevayāṃ cakre*" (Ni. 1-[?]) — that is, Agastya, having prepared an oblation for Indra, wished to give it to the Marut-gods; whereupon Indra came and, in anger, reproached Agastya for this action, in a manner of non-acceptance (*agrahapūrvaka* [as read]).
+
+**॥ ॐ ॥** Sūkta—170
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 170 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 10 ‖
+Number of ṛks in the Sūkta: 5 · Ṛṣi: ṛks 1, 3, 4 Indra; ṛks 2, 5 Agastya · Devatā: Indra · Chandas: ṛk 1 *bṛhatī*; ṛks 2–4 *anuṣṭubh*; ṛk 5 *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतम् ।
+> अन्यस्य चित्तमभि संचरेण्यमुताधीतं वि नश्यति ॥ १ ॥
+
+> *na nūnamasti no śvaḥ kastadveda yadadbhutam |*
+> *anyasya cittamabhi saṃcareṇyamutādhītaṃ vi naśyati ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> न । नूनम् । अस्ति । नो इति । श्वः । कः । तत् । वेद । यत् । अद्भुतम् ।
+> अन्यस्य । चित्तम् । अभि । सम्ऽचरेण्यम् । उत । आऽधीतम् । वि । नश्यति ॥ १ ॥
+
+> *na | nūnam | asti | no iti | śvaḥ | kaḥ | tat | veda | yat | adbhutam |*
+> *anyasya | cittam | abhi | sam 'careṇyam | uta | ā 'dhītam | vi | naśyati ‖ 1 ‖*
+
+---
+
+**Progress note:** printed p. 176 (PDF 196) done — Sūkta 169 complete (8 ṛks, pp. 146–175); Sūkta 170 (5 ṛks) heading block and Ṛk 1 Saṃhitā + Pada written. Next: printed p. 177 (PDF 197): bhāṣya of Sūkta 170 Ṛk 1. Open flags: small-type numerals [?]; Sūkta 170 heading Sanskrit [?]; review/doubts_v13.json.
