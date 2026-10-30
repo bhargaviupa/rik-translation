@@ -561,3 +561,27 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 522: Saṃhitā 79.1 accents added (as printed; vā-ta mark [accent ?])
   p. 528: Saṃhitā 79.2 accents added as printed (marks at syllable boundaries, [accent ?]); pp. 523–527 flagged lines not yet re-viewed
   p. 588: नाव्या अनु -> नाव्या ३ अनु (pluta ३ printed after nāvyā, Ṛk 80.8)
+  p. 523: Varga [?] -> 27
+  p. 525: Varga [?] -> 27
+  p. 527: Varga [?] -> 27
+  p. 529: Varga [?] -> 27
+  p. 531: Varga [?] -> 27
+  p. 533: Varga [?] -> 27
+  p. 535: Varga [?] -> 27
+  p. 537: Varga [?] -> 27
+  p. 539: Varga [?] -> 27
+  p. 541: Varga [?] -> 27
+  p. 543: Varga [?] -> 27
+  p. 545: Varga [?] -> 27
+  p. 547: Varga [?] -> 28
+  p. 549: Varga [?] -> 28
+  p. 551: Varga [?] -> 28
+  p. 553: Varga [?] -> 28
+  p. 555: Varga [?] -> 28
+  p. 557: Varga [?] -> 28
+  p. 559: Varga [?] -> 28
+  p. 561: Varga [?] -> 28
+  p. 563: Varga [?] -> 29
+  p. 565: Varga [?] -> 29
+  p. 567: Varga [?] -> 29
+  p. 569: Varga [?] -> 29
