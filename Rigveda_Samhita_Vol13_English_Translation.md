@@ -18045,4 +18045,59 @@ Among these, one named Purumīḷha is known in some places as an ancient seer (
 
 ---
 
-**Progress note:** printed p. 644 (PDF 664) done — Sūkta 183 Ṛk 5 Special Topics (Purumīḷha, Atri, Gotama; Śyāvāśva–Rathavīti story from Bṛhaddevatā, Sanskrit as read [?]; continues p. 645). Next: printed p. 645 (PDF 665). Open flags: refs [?]; Bṛ. De. verses doubtful; review/doubts_v13.json.
+### Printed p. 645  (PDF 665)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 645.)*
+
+— … asking forgiveness for the earlier refusal, and, since Śyāvāśva has now become a seer, and since he is worthy to receive his daughter, begging that she be accepted. Śyāvāśva and his father agreed to this, and then he gave away the girl with the rites beginning with *arghya-pādya*. Then Śyāvāśva, bowing to Purumīḷha and the others for the help they had done him, composed six ṛks suited to praise them. Among them:
+
+> उत मेऽरपद्युवतिर्वमुन्दुषी प्रति श्यावाय वर्तनिम् ।
+> वि रोहिता पुरुमीळ्हाय येमतुर्विप्राय दीर्घयशसे ॥
+
+> *uta me 'rapadyuvatirvamunduṣī prati śyāvāya vartanim |*
+> *vi rohitā purumīḷhāya yematurviprāya dīrghayaśase ‖*
+
+(Ṛ. Saṃ. 5-61-9) — this mantra is one that praises Purumīḷha. In the ṛk at hand (1-183-5), it is told that Purumīḷha praised the Aśvin deities and obtained their protection. This same story Sāyaṇa has told, slightly rearranged, in this way:
+
+> अत्राश्चर्यं पुराऽवृत्तं माहुरागमपारगाः । आर्चनानाः पुरात्रेयो दार्भ्येण रथवीतिना ॥
+> आर्त्विज्याय वृतो यज्ञे विततेऽहौत्र आस्थितः । रथवीतिसुतां कन्यां ददर्श पितुरन्तिके ॥
+> युयाचे स्वकुमाराय श्यावाश्वाय च तां सुताम् । स प्रदानमना भार्यामपृच्छत्किं प्रयच्छसि ॥
+> इति पृष्ट्वा पुनः प्राह कथमस्मै प्रदास्यसि । इतः पूर्वं सुता दत्ता नासीदन्यऋषये क्वचित् ॥
+> तत्त्वैथेति निश्चित्य प्रत्याचख्यावर्चनानसम् । श्यावाश्वः संस्थिते यज्ञे तेन राज्ञा निराकृतः ॥
+> तत्त्र्यासाशास्त्रितो विप्रस्तपस्तेपे सुदारुणम् । ब्रह्मचर्यरतः शान्तो भिक्षार्थं पर्यटन्द्विजः ॥
+> तरन्तमहिषीं साध्वीं बिभिक्षेदौ शशीयसीम् । सा संप्राप्याभ्यतिके पत्युः प्रोवाचागतवान्ऋषिः ॥
+> इत्युक्तो नृपतिर्भार्यां प्रत्याहैनं प्रपूजय । सानुज्ञाता गवां यूथं प्रादादाभरणानि च ॥
+> तरन्तोऽपि पुनस्तस्मै प्रादादुद्दनमप्रेक्षितम् । दत्वा च पुरुमीळ्हस्य स्नानुजस्यान्तिकं प्रति ॥
+> प्रेरयामास तमृषिं सोऽपि त्वां मानयिष्यति । तथेति राज्ञो वचनं निशम्य तद्भार्ययो दर्शितसर्वमार्गः ॥
+> गच्छन् खन्यैरर्धपथे मरुद्गणान् समानरूपान् स्वदिदृक्षयोगतान् । विलोक्य विप्रः सभयः प्रणम्य कृताञ्जलिः ॥
+> कण्टकितागसंघः तुष्टाव हृष्टान् मरुतो विशिष्टैरर्थैर्वचोभिः परितुष्टचित्तः ॥
+> संप्राप्य सर्वं स्वमनीषितं तदा मरुद्गणेभ्यो मुदितात्मवद्वन्द्वः । तदाभवदृषिः सूक्तद्रष्टा श्यावाश्वनामकः ॥
+> पश्चात्पुनर्गृहं गत्वा भूयो लब्ध्वा गवां शतम् । दार्भ्योऽयं मन्त्रदृशे राज्ञार्य चोदितः स्वसुतां ददौ ॥
+
+*(Sanskrit as read, in dense small type; many words doubtful [?] — "tattvaithā…", "tatryāsāśāstrito", "khanyaiḥ", "ardhapathe", "bhūyo labdhvā" and others; a zoom pass is needed. Substance: Rathavīti Dārbhya chose Atri as priest; Atri's grandson Śyāvāśva sought the king's daughter; the king's wife refused because Śyāvāśva was no seer; Śyāvāśva begged from Taranta/Śaśīyasī and Purumīḷha, praised the Maruts, became a seer, and was then given the girl.)*
+
+### Printed p. 646  (PDF 666)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 646.)*
+
+> स्वसुतां ददौ । पुरुमीळ्हस्तरन्तश्च तद्भार्यो च शशीयसी ॥
+> दार्भ्यो यो रथवीत्याख्यः सप्त ये मरुतां गणाः । ते तस्मै यद्ददुस्त्र ष्टास्स्क्षेष्मेत्यत्र वर्ण्यते ॥
+
+> *svasutāṃ dadau | purumīḷhastarantaśca tadbhāryo ca śaśīyasī ‖*
+> *dārbhyo yo rathavītyākhyaḥ sapta ye marutāṃ gaṇāḥ | te tasmai yaddadustra ṣṭāsskṣeṣmetyatra varṇyate ‖*
+
+(Introduction to the bhāṣya of the 61st Sūkta in the 5th Maṇḍala [Ṛ. Saṃ.]; Sanskrit as read, doubtful in places [?].)
+
+As told in the Bṛhaddevatā, here too, though the telling of the story differs in detail, it is a special point that Śyāvāśva went to the wife of Taranta for alms.
+
+The scholar Max Müller, in the 5th [?] volume of the Ṛgveda edited by him (Vol. V, p. XXXIII), has cited the story of Purumīḷha as told in the Tāṇḍya-Brāhmaṇa [?]. In this story, as cited (Ṛ. Saṃ. 5-61-? [?]), Dhvasra and Puruṣanti — the two sons of Vidadaśva, Taranta and Purumīḷha — wish to give a gift (*pāritoṣika*). Then these two brothers, thinking that they were not at present worthy to accept it and that they must acquire that worthiness for themselves, compose a sūkta praising Dhvasra and Puruṣanti. Afterwards, knowing themselves worthy of the honour gifted by them, they accept it. In the story told in the Bṛhaddevatā cited above, Purumīḷha is a giver of great honour; hence Max Müller, indicating that the Purumīḷha of Sāyaṇa's explanation of Ṛk 5-61-? [?] is not the Vaidadaśvi, has said thus:
+
+> "*Purumīḷha* is here (V. 61. 9.) clearly the man from whom benifits [sic] are expected, and therefore could not be the same as *Purumīḷha Vaidadaśvi*, mentioned by the cnmmentator [sic], who accepted gifts from *Dhvasra* and *Puruṣanti*. Nor can *Taranta Vaidadaśvi* in the next verse be taken for a recipient, but only for a giver and therefore, most likely, a prince. The whole story, however, is by no means clear, and I doubt whether the commentator draw [sic] his information from any source except his own brain."
+
+[Sacred Books of the East Vol. 32. p. 361] *(the names are printed in Kannada letters.)*
+
+He says: "Purumīḷha and Taranta, the sons of Vidadaśva, are persons who are to receive gifts [as the Tāṇḍya story says]. But the Purumīḷha and Taranta indicated in the ṛks at hand (Ṛ. Saṃ. 5-61-6, 10 [?]) are persons who give gifts; so they must be different, and these must be other persons. At any rate, there is not sufficient evidence to know this matter with certainty. The story told by Sāyaṇa must be only a creation of his own fancy."
+
+---
+
+**Progress note:** printed p. 646 (PDF 666) done — Sūkta 183 Ṛk 5 Special Topics (Śyāvāśva story continued; Max Müller on Purumīḷha; continues p. 647). Next: printed p. 647 (PDF 667). Open flags: refs [?]; Sāyaṇa verse passage doubtful [?]; review/doubts_v13.json.
