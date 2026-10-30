@@ -3022,5 +3022,29 @@
   ],
   "note": "Rg refs 1-61-6, 5-31-4, 1-121-12, 8-100-9; Nirukta 2-11 small",
   "answer": ""
+ },
+ {
+  "pdf": 362,
+  "printed": 342,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhashya dense: 'mitreruna', 'ayoh', 'sacha surtah' sentences read approx - zoom needed; Pratipadartha rendering approximate",
+  "answer": ""
+ },
+ {
+  "pdf": 361,
+  "printed": 341,
+  "crop": [
+   0.15,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type (rjra, vrhatat, sprdhah, yasisat)",
+  "answer": ""
  }
 ]
