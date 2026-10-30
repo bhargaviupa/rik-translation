@@ -14380,4 +14380,46 @@ When the bow-string was cut, it sounded "*ghṛṇ*" and fell, so it got the nam
 
 ---
 
-**Progress note:** printed p. 518 (PDF 538) done — Sūkta 180 Ṛk 4 Special Topics complete (pravargya/gharma, paśvaiṣṭiḥ); grammar begun (continues p. 519). Next: printed p. 519 (PDF 539). Open flags: refs [?]; TA quote p.517 garbled [?]; review/doubts_v13.json.
+### Printed p. 519  (PDF 539)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 519.)*
+
+- … in the neuter plural, by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) elision of *śi*. In the following *cakrā* too, *śi* is elided in the same way.
+- ***yanti*** — root *iṇ gatau*; *laṭ*, third person plural; *tiṅ*-final *nighāta* accent.
+- ***madhvaḥ*** — nominative plural; by the statement "*jasādiṣu chandasi vā vacanam*" the *guṇa* and other changes do not occur. ‖ 4 ‖
+
+---
+
+**Sūkta 180, Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> आ वां दानाय ववृतीय दस्रा गोरोहेण तौग्र्यो न जिव्रिः ।
+> अपः क्षोणी सचते माहिना वां जूर्णो वामक्षुरंहसो यजत्रा ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> आ । वाम् । दानाय । ववृतीय । दस्रा । गोः । ओहेन । तौग्र्यः । न । जिव्रिः ।
+> अपः । क्षोणी इति । सचते । माहिना । वाम् । जूर्णः । वाम् । अक्षुः । अंहसः । यजत्रा ॥ ५ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे दस्रा शत्रूणामुपक्षपयितारावश्विनौ वां युवयोर्दानायास्मदभिमतायं [?] युवाभ्यां वाहयितुमा ववृतीय । आवर्तयामि यागदेशं ॥ वृतेरन्तर्भावितण्यर्थस्येदम् ॥ केन साधनेनेति तदुच्यते । गोः स्तुतिरूपाया वाचः ओहेन वहनेन साधनेन । यद्वा । आवर्तनकाल उच्यते । गोर्गन्त्र्या उषसो वहनेन । जिव्रिर्जीर्णो जयशीलो वा तौग्र्यो न तुग्र्याख्यस्य राज्ञः पुत्रो भुज्युरिव । स यथा शत्रुभिः सन्ताड्य समुद्रे पातितो युवां परितोऽस्य स्वोद्धाराय स्वसमीपमानयत तद्वदित्यर्थः [?] । इयमाख्यायिका तुग्रो ह । ऋ. १-११६-३ [?] । भुज्युमंहसः पिपृथः । ऋ. १०-६५-१३ [?] । नासत्या भुज्युम् । ऋ. १-११६-४ [?] । इत्यादिषु प्रसिद्धा च । किमाश्चर्यमहमावर्तयामीति [?] । किंच अपः क्षोणी । अप इत्यन्तरिक्षनाम । क्षोणीति पृथिवीनाम । द्यावापृथिव्यावपि वां युवयोर्माहिना माहात्म्येन युवयोः प्रसादेन सर्वोपकारिण्यावित ख्यातिं सर्वप्रदेशव्याप्तित्वं वा सचते । सेवते प्रत्येकम् । यद्वा । वां माहिना यजमानो द्यावापृथिव्यौ सचते । किंच हे यजत्रा यष्टव्यौ प्रसादादयमृषिर्जूर्णो जरया जीर्णाङ्गः सन्नंहसः पापाज्जरालक्षणात्प्रमुच्याक्षुः [?] चिरकालव्याप्तो दीर्घजीवी भूयात् । यद्वा । हे यजत्रा वां प्रसादाज्जूर्णो जीर्णो यजमानोंऽहसो दुरितस्य … [?] सोमरसरूपाणि उदकानि क्षोणी क्षोण्याम् ॥ सप्तम्यर्थे प्रगृह्यम् । भूम्यां चिरकालमक्षुः व्याप्तः सन् माहिना माहात्म्येन सचते । द्वितीयो वामित्ययुगादेराहार्थः [?] ॥ [as read; the whole is very dense, many words doubtful [?]]
+
+*Gist:* Indra's counterpart prayer: the poet calls the Aśvins to the sacrifice as Bhujyu, son of Tugra, called them to rescue him from the sea; heaven and earth too serve their greatness, and the aged sacrificer asks to be freed from sin and to live long.
+
+### Printed p. 520  (PDF 540)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 520.)*
+
+**Pratipadārtha**
+
+(*he*) **dasrā** — O Aśvin deities, destroyers of enemies; **vām** — you two; **dānāya** — for giving (us what we desire); **goḥ** — of the speech in the form of praise; **ohena** — by the means; [or **goḥ** — belonging to the cow (the dawn); **ohena** — by the means (in time)]; **jivriḥ** — aged (victorious); **taugryaḥ na** — like Bhujyu the son of Tugra (calling you two to his own rescue, to his side); **ā vavṛtīya** — I desire to call (you) to the sacrificial hall. (*he*) **yajatrā** — O worshipful (venerable) Aśvins; **vām** — by your (favour); **jūrṇiḥ** [as printed *jūrṇaḥ*?] — the aged sacrificer; **aṃhasaḥ** — from sin; **apaḥ** — the Soma juices in the form of waters (obtained); **kṣoṇī** — in the earth; **akṣuḥ** — (for a long time) pervades (obtains); **māhinā** — by greatness; **vām** — you two; **sacete** — serve. **apaḥ** — the intermediate region; **kṣoṇī** — the earth; **vām** — you two; **māhinā** — by great glory (by the merit of being renowned as benefactors of the worlds); **sacete** — serve (you two). [Or: **vām** — of you two; **māhinā** — by greatness; **apaḥ kṣoṇī** — the earth and the intermediate region; **sacete** — (the sacrificer) serves; (**kiṃ ca** — and) **yajatrā** — O worshipful Aśvins; **jūrṇiḥ** — the ṛṣi whose limbs are aged; **vām** — by your favour; **aṃhasaḥ** — (freed) from the sin that is old age; **akṣuḥ** — becomes pervaded for a long time (becomes long-lived).]
+
+**Bhāvārtha**
+
+O Dasras! As Bhujyu, the son of Tugra, whose limbs were old, called you of old to his rescue, so I too, at the time of dawn, praising you, for the fulfilment of my wish, wish to call you to my sacrificial hall; this sacrificer, by your greatness, serves heaven and earth …
+
+---
+
+**Progress note:** printed p. 520 (PDF 540) done — Sūkta 180 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun (continues p. 521). Next: printed p. 521 (PDF 541). Open flags: refs [?]; Ṛk 5 bhāṣya very dense/doubtful [?]; review/doubts_v13.json.
