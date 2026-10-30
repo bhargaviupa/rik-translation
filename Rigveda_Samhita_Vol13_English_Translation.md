@@ -14059,4 +14059,71 @@ In the ṛk at hand it is intimated that the Aśvin deities placed milk in the u
 
 ---
 
-**Progress note:** printed p. 508 (PDF 528) done — Sūkta 180 Ṛk 3 Special Topics (vana, hvāra, usriyā; Śayu story; continues p. 509). Next: printed p. 509 (PDF 529). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 509  (PDF 529)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 509.)*
+
+> युवं धेनुं शयवे नाधिताया अपिन्वतमश्विना पूर्व्याय ।
+
+> *yuvaṃ dhenuṃ śayave nādhitāyā apinvatamaśvinā pūrvyāya |*
+
+(Ṛ. Saṃ. 1-118-8 [?])
+
+> दशस्यन्ता शयवे पिप्यथुर्गामिति च्यवाना सुमतिं भुरण्यू ।
+
+> *daśasyantā śayave pipyathurgāmiti cyavānā sumatiṃ bhuraṇyū |*
+
+(Ṛ. Saṃ. 6-62-7 [?])
+
+> ता वर्तिर्यातं जयुषा वि पर्वतमपिन्वतं शयवे धेनुमश्विना ।
+
+> *tā vartiryātaṃ jayuṣā vi parvatamapinvataṃ śayave dhenumaśvinā |*
+
+(Ṛ. Saṃ. 10-39-13 [?]) — in these and many other ṛks the story is told of how the Aśvin deities changed Śayu's barren cow into a milch cow. In the ṛk at hand the same matter is shown; but the name Śayu is not given here. In some places it is said that they made the old cow able to bear again and filled her with milk; in others that they changed the barren cow into a milch cow and filled her with milk.
+
+***āmāyām*** — "*aparipakvāyām*" — "in the unripe": it means "not matured". Here it is an adjective of the cow's udder: in the udder not yet filled, or it is used of a barren cow. It is used according to the context. That the Aśvin deities fill such an unripe udder with milk is stated, and this skill is described also of other deities. For example:
+
+> इमौ देवौ जायमानौ जुषन्तेमौ तमांसि गूहतामजुष्टा ।
+> आभ्यामिन्द्रः पक्वमामास्वन्तः सोमापूषभ्यां जनदुस्रियासु ॥
+
+> *imau devau jāyamānau juṣantemau tamāṃsi gūhatāmajuṣṭā |*
+> *ābhyāmindraḥ pakvamāmāsvantaḥ somāpūṣabhyāṃ janadusriyāsu ‖*
+
+(Ṛ. Saṃ. 2-40-2 [?]) — it is said that the deities Soma and Pūṣan filled with milk the udder of a young cow and changed it into the form of a milch cow. For the word *āma* the general meaning is "unripe"; though this can be used as an epithet in any context, in the Ṛk-saṃhitā the word, when it describes a cow's udder, is used only as an epithet, namely "unripe, not ripened with milk", and so it suggests the sense "an udder with no milk". For example: (Ṛ. Saṃ. 3-30-14; 4-3-9; 2-35-6; 2-40-2; 6-77-4 [?]; 8-77-2 [?] and others).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***usriyāyām*** — root *vasa nivāse*; *vasanti iti usriyāḥ*. By the statement "*yannu padārthaviśeṣasamutthaṃ pratyayataḥ prakṛteś ca tadūhyam*" (as read [?]) it must be inferred, from the function, that the suffix *riyak* has come after the root *vas* in the agent. Since it has *k* as a marker, *saṃprasāraṇa* occurs in the root; by the suffix accent the *i* is *udātta*.
+
+### Printed p. 510  (PDF 530)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 510.)*
+
+- ***adhattam*** — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; it contains the sense of the causative; *laṅ*, second person dual; *tiṅ*-final *nighāta* accent.
+- ***pūrvyam*** — *pūrve bhavam*; by "*bhave chandasi*" (Pā. Sū. 4-4-110 [?]) the suffix *yat*; by "*yato 'nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the *ādyudātta* accent.
+- ***hvāraḥ*** — root *hvṛ kauṭilye*; after the causative stem the suffix *ac*; by "*aco ñṇiti*" (Pā. Sū. 7-2-115 [?]) *vṛddhi* for the *ṛ*; by "*ṇer aniṭi*" (Pā. Sū. 6-4-51 [?]) elision of *ṇic*; by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the final syllable is *udātta*.
+- ***yajate*** — by "*yad vṛttān nityam*" (Pā. Sū. 8-1-66 [?]) the *nighāta* accent is prohibited, so the root accent remains. ‖ 3 ‖
+
+---
+
+**Sūkta 180, Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> युवं ह घर्मं मधुमन्तमत्रयेऽपो न क्षोदोऽवृणीतमेषे ।
+> तद्वां नरावश्विना पश्वइष्टी रथ्येव चक्रा प्रति यन्ति मध्वः ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> युवम् । ह । घर्मम् । मधुऽमन्तम् । अत्रये । अपः । न । क्षोदः । अवृणीतम् । एषे ।
+> तत् । वाम् । नरौ । अश्विना । पश्वऽइष्टौ । रथ्याऽइव । चक्रा । प्रति । यन्ति । मध्वः ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अत्रेतिहासमाहुः । प्रवर्ग्येण प्रचरन्तमत्रिं राक्षसास्तप्ते घर्मेऽपातयन् । स च तप्यमानोऽश्विनौ तुष्टाव । तौ चः [?] स्तुत्या हृष्टमनसावरक्षतामिति । अपरेऽग्नौ क्षिप्तमसालयतामित्याहुरिति [?] । हे अश्विनौ युवं युवां मधुमन्तं पयोधृतरूपाभ्यां मधुभ्यां तद्वन्तं घर्मं दीप्तं प्रवर्ग्यमेषे सौख्यमिच्छतेऽत्रये … [the bhāṣya continues on the next page]
+
+> *atretihāsamāhuḥ | pravargyeṇa pracarantamatriṃ rākṣasāstapte gharme 'pātayan | sa ca tapyamāno 'śvinau tuṣṭāva | tau caḥ [?] stutyā hṛṣṭamanasāvarakṣatāmiti | apare 'gnau kṣiptamasālayatāmityāhuriti [?] | he aśvinau yuvaṃ yuvāṃ madhumantaṃ payodhṛtarūpābhyāṃ madhubhyāṃ tadvantaṃ gharmaṃ dīptaṃ pravargyameṣe saukhyamicchate 'traye … [the bhāṣya continues on the next page]*
+
+---
+
+**Progress note:** printed p. 510 (PDF 530) done — Sūkta 180 Ṛk 3 complete; Ṛk 4: Saṃhitā, Pada, bhāṣya begun (continues p. 511). Next: printed p. 511 (PDF 531). Open flags: refs [?]; review/doubts_v13.json.
