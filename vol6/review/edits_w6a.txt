@@ -349,3 +349,11 @@ Unit 9 (pp. 179–203, Sūkta 66, Ṛks 66.1–66.5): accents as printed set on 
   p. 202: Uṇ. Sū. 4-[200] -> 4-500 [?]; Pā. Sū. 6-1-6-2 ? -> 4-1-6-2; 6-2-[37] -> 6-2-53 [?]
   p. 203: Uṇ. Sū. 4-[148] -> 4-4[?] (doubts)
 Words: p. 200 "vahivasiśribhyaḥ ktic [?]" -> "vahivasyartibhyaś cit"; pp. 200/202 "syadhī ca" -> "nyadhī ca"; p. 202 sūtra printed "añcateś copasaṅkhyānam". Left unviewed: p. 183 sense-only "nourishes him [?]"; running-head "as read" notes. Pages skipped (no flagged lines): 179 lower, 186, 189, 190, 192, 195, 196.
+Unit 10 (pp. 203–221, Sūkta 67): accents set as printed on all 5 Saṃhitā blocks (67.1–67.5; label -> "accents as printed"; [accent ?] notes on 67.1, 67.2, 67.3, 67.5 -> doubts page Vol6_doubts_p203-221.html, 7 rows).
+  p. 205: Ni. 6-13 [?] -> 6-12 (as printed); Tai. Saṃ. 2-5-8-6 [?] -> 2-5-8-6 (5 = the ಜ-like digit)
+  p. 206: Ni. 6-13 (as read, ?) -> 6-13 (as printed; differs from p. 205); Tai. Saṃ. 2-5-8-6 confirmed
+  p. 211: Saṃhitā guhaṃ (ಗುಹಂ) confirmed as printed
+  p. 212: Taittirīya quotation re-read: सुवर्गाल्लोकस्य परा-चो... अदृंहन्स्पृत्या -> सुवर्गलोकस्य पराचो... अदृहन्धृत्या (translation adjusted)
+  p. 216: Pā. 6-1-17 [?] -> 6-1-17; Pā. 6-1-106 [?] -> 6-1-106 (the ೦ is broken, open arc)
+  p. 219: Pā. 7-3-53 [?] -> 7-3-53; dīrgho [?] -> dīrgho; Ni. 6-3 [?] -> 6-3; Pā. 7-1-37 [?] -> 7-1-37 (printed without "Pā."); Pā. 6-4-69 [?] -> 6-4-69
+Left unviewed (sense-only or grammar): p. 205 ajurya derivation note; p. 207 Uṇ. 1-1 "as read"; p. 214 grammar nighāta [?]; p. 216/219 "read at 150 dpi" labels; p. 217 compressed sense; p. 220 Ni. 6-3 (anuvāda) and "atmosphere" note. Pages skipped (no flagged lines): 207, 209, 210, 213, 214, 217, 220, 221.
