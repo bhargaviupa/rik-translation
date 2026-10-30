@@ -2206,5 +2206,29 @@
   ],
   "note": "grammar sutra numerals small; Rg ref 3-35-6",
   "answer": ""
+ },
+ {
+  "pdf": 292,
+  "printed": 272,
+  "crop": [
+   0.2,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta kakshya quote garbled (kakso gahateh kasa iti..); refs 2-?, 3-?; Rg 10-94-7, 5-32-2",
+  "answer": ""
+ },
+ {
+  "pdf": 291,
+  "printed": 271,
+  "crop": [
+   0.62,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "itttha: Nirukta refs 5-5, 3-16, 6-3 small; Rg 5-32-2 quote tyam cid ittha.. read approx",
+  "answer": ""
  }
 ]
