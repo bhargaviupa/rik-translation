@@ -1,0 +1,21 @@
+# User readings from the Vol 6 'all doubts' page (artifact A95iPVHEE5tiZcCyHB9ztv), Oct 30. Rows NOT listed = user accepted the file as it is.
+# Row ids are <page>_d<k>; context fields from vol6 doubts source (note: for some rows the 'file' column held the filename, use ctx).
+490_d2 | p.490 | kind=numeral | file: Uṇ. 1-132 [?] | ctx: *manin* by *ārtistu-su…*, Uṇ. 1-132 [?]; the stem *bhāman* | note: Uṇādi number after ārtistusu: middle digit 3 or 4, last digit 2 or 7 (p. 440 printed 1-142 for the same sūtra) | USER: 1-137
+499_d3 | p.499 | kind=accent | file: मन्म ॥ ४ ॥ | ctx: इ॒षय॑न्त॒ मन्म ॥ ४ ॥ | note: Saṃhitā 77.4 last word: the stroke above ಮನ್ಮ stands between the syllables — म॑न्म or मन्म॑? | USER: ma-nma accent on nma
+546_d14 | p.546 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Ṛk. Saṃ. 4-1[4/5?]-5 (Ṛk 79.6 special topics) | note: middle digit 4 or 5; first digit 4 not 6 | USER: 4-15-5
+546_d15 | p.546 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Ṛk. Saṃ. 8-44-2[6/7?] | note: last digit 6 or 7 | USER: 8-44-27
+553_d17 | p.553 | kind=word | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: jīvātumantau savyottarair yaḥ pasasthāḥ [?] | note: word after yaḥ kept [?] | USER: 2-19
+563_d18 | p.563 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Āś. 7-4 (standard would be 8-4) | note: first digit printed same glyph as 7 in Āś. 7-12 on the line above; recorded as printed | USER: 7-4
+563_d19 | p.563 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Ai. Ā. 5-2-[?] | note: last two digits unclear (2/3) | USER: 5-2-2
+575_d21 | p.575 | kind=word | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: जयाः [as read, [?]] | note: जयाः [?]: grammar-page headword not re-viewed | USER: जयाः
+581_d23 | p.581 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Nirukta 2-12-2 as read | note: Nirukta 2-12-2 as read [?]: "niru 2-12-2" read from print; 2/7 glyphs not separable | USER: 2-12-2
+581_d24 | p.581 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Uṇ. Sū. 1-14[2] | note: 1-14[2] [?]: last digit curled 2 vs 7 | USER: 1-137
+587_d25 | p.587 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Ṛk. Saṃ. 10-14[2]-[9] | note: 10-14[2]-[9] [?]: middle and last digit glyphs undecidable at 600 dpi (curled 2 / flat 7; 9) | USER: 1-147-2
+590_d26 | p.590 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Ṛk. Saṃ. 1-12[1]-13 | note: 1-12[1]-13 [?]: read 121; an earlier pass had 130 | USER: 1-121-13
+590_d27 | p.590 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Ṛk. Saṃ. 5-29-6 | note: 5-29-6 [?]: first glyph read as 5 (earlier [3]-[31]) | USER: 5-29-6
+592_d28 | p.592 | kind=word | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: ब्रह्म हसिर्लक्षणम् … दा[?]मूर्ध्वं धृतम् | note: : bhāṣya clause read letter by letter; words doubtful | USER: havirlakshanam
+601_d29 | p.601 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Pā. 6-1-56 | note: Pā. 6-1-56 [?]: tail line; digits 5/3 doubtful | USER: 6-1-56
+603_d30 | p.603 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Uṇ. Sū. 4-[188] | note: 4-[188] [?]: asun sūtra number not re-viewed | USER: 4-188
+603_d31 | p.603 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Uṇ. Sū. 3-442 | note: 3-442 [?]: printed 3-44? with last glyph 2/7 | USER: 3-442
+610_d32 | p.610 | kind=word | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: नहि [स्नधीमसि] | note: [snadhīmasi] [?]: second word: स्नधी/स्वधी; sandhi with अधीमसि expected | USER: svadheemasi
+618_d35 | p.618 | kind=numeral | file: Rigveda_Samhita_Vol6_English_Translation.md | ctx: Taittirīya Saṃhitā etc. refs (p.618 para 1) | note: TS 1-5-1-3; 2-5-1-3; 3-1-9-4 …: print reads roughly 1-5-1-3; 2-5-15-3; 2-5-6-1?; not matching file in all places; Kāṭhaka 8-15; ŚB 1-1-4-14; JUB 3-15-2 | USER: 2-6-7-1;3-3-2-1;5-4-10-2;6-6-6-1
