@@ -12944,4 +12944,50 @@ In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā an
 
 ---
 
-**Progress note:** printed p. 472 (PDF 492) done — Sūkta 179 Ṛk 1 complete; Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun. Next: printed p. 473 (PDF 493), Ṛk 2 Pratipadārtha continues. Open flags: refs [?]; bhāṣya Ṛk 2 doubtful [?]; review/doubts_v13.json.
+### Printed p. 473  (PDF 493)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 473.)*
+
+**Pratipadārtha (continued)** — **āsan** — they were; (**ye** — who) **devebhiḥ sākam** — together with the deities; **ṛtāni** — true utterances (the principles of truth); **avadan** — were speaking (discussing); **te cit** — those great seers also; **avāsuḥ** — emitted the seed; (*te* — they) **antam** — the end (of their *brahmacarya*); **na hi āpuḥ** — did not reach; (**tathā** — likewise) **patnīḥ** — the wives (ascetics too); **vṛṣabhiḥ** — with the husbands who rain enjoyment; **saṃ ū nu jagamyuḥ** — were united.
+
+**Bhāvārtha**
+
+O Agastya! The ancient great seers who performed sacrifices and the like, and who discussed the principles of truth with the deities, also had union for the sake of offspring; therefore their *brahmacarya* was not lost; and the wives, who were ascetics, united with their husbands. (Yet you alone do not favour me.)
+
+**Printed English**
+
+> The ancient sages, disseminators of truth, who, verily, conversed of truths with the gods, begot (progeny), nor thereby violated (their vow of continence), therefore should wives be approached by their husbands.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In the ṛk at hand, as in the ṛk before it, Lopāmudrā prays to Agastya that he fulfil her wish; she tells her husband her desire plainly. But, to make clear that neither her own *dharma* nor her husband's *dharma* suffers any breach, she cites the examples of the earlier ṛṣis: how even the great seers did not conquer desire, and, since it is natural to man, it has to be satisfied in some way. "*ye cit ṛtasāpaḥ āsan, ye devebhiḥ sākaṃ ṛtāni avadan, te cit avāsuḥ*" — those who were *ṛtasāpas* and conversed of truths (*ṛta*) with the gods even they united with their wives. Thus, in the ṛk at hand, Lopāmudrā tells her husband and begs for his company. By the words *ṛtasāpaḥ*, *ṛtāni*, the meaning suggested must here be noted above all. The word *ṛta* is one that shows both the physical (*bhautika*) principle and the ethical (*naitika*) rule. The gist of the Vedic view is that the deities, men and others all understand this path of *ṛta* and keep its rule. Lopāmudrā's argument is that even such seers, knowing the principle and keeping the rule, obtained fulfilment of desire.
+
+### Printed p. 474  (PDF 494)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 474.)*
+
+***ṛtasāpaḥ, ṛtāni*** — the Nirukta-writers have included the word *ṛta* among the names of "water" (Ni. 3-9 [?]). Moreover, in many places the word *ṛta* is explained as "*satyaṃ vā yajño vā*" ("truth or sacrifice") (Ni. 4-19 [?]), and so on. Sāyaṇa too, wherever the word *ṛtasāpaḥ* is used, has explained it as *yajñasprśaḥ* ("touching the sacrifice") or *satyajñāḥ* ("knowers of truth"). In many places the word *ṛta* is one that describes the universal rule. Eggeling has said:
+
+> "Standing, as it does inter alia, for impersonal Order or Law, pervading the physical and moral world and sustaining alike the worlds of the gods and nature, the concept of the Rita may be said to have created a land-mark in the history of Vedic thought and culture"
+
+— that the idea indicated by the word *ṛta* in Vedic culture has acquired a distinct character. The usages of this word in various contexts, and the ideas it points to, need to be briefly examined here.
+
+The word is used in the very first sūkta of the first Maṇḍala of the Ṛk-saṃhitā. There, describing Agni's great qualities:
+
+> राजन्तमध्वराणां गोपामृतस्य दीदिविम् ।
+> वर्धमानं स्वे दमे ॥
+
+> *rājantamadhvarāṇāṃ gopāmṛtasya dīdivim |*
+> *vardhamānaṃ sve dame ‖*
+
+(Ṛ. Saṃ. 1-1-8) — here, for "*ṛtasya gopām*", Sāyaṇa has explained "*ṛtasya satyasyāvaśyaṃbhāvinaḥ karmaphalasya*" ("of the truth, of the inevitable fruit of action"). Yāska too explains it as "*satya*" ("truth") and supports it.
+
+Examining the original meaning of the word *ṛta* and its development, Max Müller said: at first it was a word showing the regular course (*saṃcārakrama*) of the sun, moon and others; then, following the revolutions of the sun, moon and the rest, and in keeping with the fixed *ayana*, *ṛtu* and so on, it was used as a synonym of the sacrifices (*yajña*, *yāga*) that are performed accordingly; and since this rule is reflected in them, finally this very word came to be a synonym describing the natural law or *dharma*. On this subject Keith has spoken thus:
+
+> "In the physical world there rules a regular order ṛta [set in Kannada letters], which is clearly an inheritance from the physical; it is an easy step to the conception of the ṛta, ................ in the moral world".
+
+> "The term for Cosmic order, ṛta and and [sic] its opposite anṛta express also moral order as in the dialogue of Yama and Yami. ṛta forbids and … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 474 (PDF 494) done — Sūkta 179 Ṛk 2 Special Topics under way (ṛta; continues p. 475). Next: printed p. 475 (PDF 495). Open flags: refs [?]; review/doubts_v13.json.

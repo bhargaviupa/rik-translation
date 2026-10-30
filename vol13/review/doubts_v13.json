@@ -4618,5 +4618,29 @@
   ],
   "note": "bhashya Rk2 dense and partly garbled; pada 'asuh hi' reading",
   "answer": ""
+ },
+ {
+  "pdf": 493,
+  "printed": 473,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "none serious; bhavartha reading approx",
+  "answer": ""
+ },
+ {
+  "pdf": 494,
+  "printed": 474,
+  "crop": [
+   0.12,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-9, Ni 4-19 small; Eggeling quote source ref not printed",
+  "answer": ""
  }
 ]
