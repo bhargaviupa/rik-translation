@@ -10322,4 +10322,44 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ---
 
-**Progress note:** printed p. 390 (PDF 410) done — Sūkta 175 Ṛk 5 complete; Ṛk 6 (last of Sūkta 175): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (nivid; continues p. 391). Next: printed p. 391 (PDF 411). Open flags: Ṛk 6 Saṃhitā 'nividaṃ' print [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 391  (PDF 411)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+> कर्मैव तावत्सवित्र्यां निविदि स्तौति कर्मणा । यद्धेनुः सप्त्यै नड्वाहौ वोळ्हा दोग्ध्र्याशुरेव वा ॥
+
+> *karmaiva tāvat savitryāṃ nividi stauti karmaṇā | yad dhenuḥ saptyai naḍvāhau voḷhā dogdhry āśur eva vā ‖* [as read: [?]]
+
+(Bṛhaddevatā 3-30 [?]) — from *dogdhrī* ("milking") the cow is meant, from *āśu* ("swift") the horse, from *voḷhā* ("carrying the load") the ox: so their special qualities are to be known by these epithets; by the *nivid* mantras the individual qualities of the respective deities are to be understood, from the descriptions of their respective acts. For example,
+
+> अभि त्वा देव सवितरीशानं वार्याणाम् । सदावन्भागमीमहे ॥
+
+> *abhi tvā deva savitar īśānaṃ vāryāṇām | sadāvan bhāgam īmahe ‖*
+
+(Ṛ. Saṃ. 1-24-3 [?]) — in this ṛk, the *nivid* mantras, addressed to the deity Savitṛ, show the speciality of Savitṛ by describing his extraordinary acts. The relation of cause and effect between the greatness of the *nivid* mantras and the creation of the world, and between those great mantras, is stated in the Aitareya Brāhmaṇa as follows:
+
+> प्रजापतिर्वा इदमेक एवाग्र आस सोऽकामयत प्रजायेय भूयान्स्यामिति स तपोऽतप्यत स वाचमयच्छत्संवत्सरस्य परस्ताद्द्वाऽहरत्ताद्वादशकृत्वो द्वादशपदा वा एषा निविदेतां वाव तां निविदं व्याहरत्तां सर्वाणि भूतान्यसृज्यन्त ।
+
+> *prajāpatir vā idam eka evāgra āsa so 'kāmayata prajāyeya bhūyān syām iti sa tapo 'tapyata sa vācam ayacchat saṃvatsarasya parastād dvā 'harat tād dvādaśakṛtvo dvādaśapadā vā eṣā nivid etāṃ vāva tāṃ nividaṃ vyāharat tāṃ sarvāṇi bhūtāny asṛjyanta |* [as read; garbled: [?]]
+
+(Ai. Brā. 10-1 [?]). In the beginning Prajāpati was alone; he desired to create progeny and to become many; and, for a year, observing silence, he practised austerity. Afterwards, uttering the *nivid* mantras of twelve great sentences twelve times, he created all beings in the world: so the effect of these mantras is stated; and, further, the speciality of these mantras at the time of the rites and the order of their application is explained thus —
+
+> गर्भा वा एते उक्थानां यन्निविदस्तद्यत्प्रातःसवने धीयन्ते तस्मात्पराञ्चो गर्भाः पराञ्चः संभवन्ति । यन्मध्यतो मध्यंदिने धीयन्ते तस्मान्मध्ये गर्भा धृताः । यदन्ततस्तृतीयसवने धीयन्ते तस्मादमुतोऽर्वाञ्चो गर्भाः प्रजायन्ते प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद । पेशा वा एते उक्थानां यन्निविदस्तद्यत्पुरस्तादुक्थानां प्रातःसवने धीयन्ते यथैव प्रवणयते पेशः कुर्यात्तादृक्तद्यन्मध्यतो मध्यंदिने धीयन्ते यथैव मध्यतः पेशः कुर्यात्तादृक्तद्यदन्ततस्तृतीयसवने धीयन्ते यथैवावप्रजनतः पेशः कुर्यात्तादृक्तत् । सर्वतो यज्ञस्य पेशसा शोभते य एवं वेद ।
+
+> *garbhā vā ete ukthānāṃ yan nividas tad yat prātaḥsavane dhīyante tasmāt parāñco garbhāḥ parāñcaḥ saṃbhavanti | yan madhyato madhyaṃdine dhīyante tasmān madhye garbhā dhṛtāḥ | yad antatas tṛtīyasavane dhīyante tasmād amuto 'rvāñco garbhāḥ prajāyante prajātyai | prajāyate prajayā paśubhir ya evaṃ veda | peśā vā ete ukthānāṃ yan nividas tad yat purastād ukthānāṃ prātaḥsavane dhīyante yathaiva pravaṇayate peśaḥ kuryāt tādṛk tad yan madhyato madhyaṃdine dhīyante yathaiva madhyataḥ peśaḥ kuryāt tādṛk tad yad antatas tṛtīyasavane dhīyante yathaivāvaprajanataḥ peśaḥ kuryāt tādṛk tat | sarvato yajñasya peśasā śobhate ya evaṃ veda |* [as read; the print breaks off at the foot of the page and resumes on p. 392: [?]]
+
+### Printed p. 392  (PDF 412)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+(Ai. Brā. 11-10 [?]). The *nivid* mantras are in the form of an embryo for the *ukthas*: that is, those recited at the morning pressing stand first, in the front, to the *ukthas*; therefore the embryos too are born with the face turned away (*parāṅmukha*). At the midday pressing these mantras are recited in the midday; hence the embryos are held in the middle. At the time of the third pressing the *nivid* mantras are recited in the latter part; hence the embryo that is formed gives birth to the child with its face turned down (*avāṅmukha*). The one who knows this truth is united with progeny and also with riches in animals. The *nivid* mantras are in the form of ornaments for the *ukthas*, and increase their beauty and brilliance. The mantras recited at the morning pressing are like the ornament of the upper part of the body, the mantras recited at the midday are like the ornament of the middle region, and those of the third pressing are like the ornament of the lower part; all are producers of embellishment. One who knows this adorns the sacrifice, and himself shines. And again,
+
+> सौर्यो वा एता देवता यन्निविदस्तद्यत्प्रातःसवने धीयन्ते मध्यतो मध्यंदिने तेतस्तृतीयसवन आदित्यस्यैव तेषु तेतमनु पर्यायावर्तन्ते । पेश्भो वै देवा यज्ञं समभरंस्तस्मात्पेश्भो निविदः शस्यन्ते । यद्वै तद्देवा यज्ञं समभरंस्तस्माद्वदः समभवत्तस्मादाहुरश्वं निविदां शंस्त्रे दद्यादिति तमु खलु वरमेव ददति । न निविदः पदमतीयात् यद्यन्निविदः पदमतीयाद्यज्ञस्य तच्छिद्रं कुर्याद्यज्ञस्य वै छिद्रं स्रवद्यजमानोऽनु पापीयान् भवति तस्मान्न निविदः पदमतीयात् । न निविदः पदे विपरिहरेद्यन्निविदः पदे विपरिहरेन्मोहयेद्यज्ञं मुग्धो यजमानः स्यात्तस्मान्न निविदः पदे विपरिहरेत् । न निविदः पदे समस्येद्यन्निविदः पदे समस्येद्यज्ञस्य तदायुः संहरेत्प्रमायुको यजमानः स्यात्तस्मान्न निविदः पदे समस्येत् । प्रेदं ब्रह्म प्रेदं क्षत्रमित्येते एव समस्येद्ब्रह्मक्षत्रयोः संश्रित्यै तस्माद्ब्रह्म च क्षत्रं च संश्रिते । न तृचं न चतुर्ऋचमतिमन्येत निविद्धानमन्येकैकं वै निविदः पदमृचं सूक्तं प्रति तस्मान्न तृचं न चतुर्ऋचमतिमन्येत निविद्धानं निविदा ह्येव स्तोत्रमतिशस्तं भवति ।
+
+> *saurya vā etā devatā yan nividas tad yat prātaḥsavane dhīyante madhyato madhyaṃdine tetas tṛtīyasavana ādityasyaiva teṣu tetam anu paryāyāvartante | peśbho vai devā yajñaṃ samabharaṃs tasmāt peśbho nividaḥ śasyante | yad vai tad devā yajñaṃ samabharaṃs tasmād vadaḥ samabhavat tasmād āhur aśvaṃ nividāṃ śaṃstre dadyād iti tam u khalu varam eva dadati | na nividaḥ padam atīyāt yady annividaḥ padam atīyād yajñasya tac chidraṃ kuryād yajñasya vai chidraṃ sravad yajamāno 'nu pāpīyān bhavati tasmān na nividaḥ padam atīyāt | na nividaḥ pade viparihared yan nividaḥ pade viparihared mohayed yajñaṃ mugdho yajamānaḥ syāt tasmān na nividaḥ pade vipariha】ret | na nividaḥ pade samasyed yan nividaḥ pade samasyed yajñasya tad āyuḥ saṃharet pramāyuko yajamānaḥ syāt tasmān na nividaḥ pade samasyet | predaṃ brahma predaṃ kṣatram ity ete eva samasyed brahmakṣatrayoḥ saṃśrityai tasmād brahma ca kṣatraṃ ca saṃśrite | na tṛcaṃ na caturṛcam atimanyeta nividdhānam anyaikaikaṃ vai nividaḥ padam ṛcaṃ sūktaṃ prati tasmān na tṛcaṃ na caturṛcam atimanyeta nividdhānaṃ nividā hy eva stotram atiśastaṃ bhavati |* [as read; very garbled in the print: [?]]
+
+(Ai. Brā. 11-11 [?]). The *nivid* deities are all connected with the Sun: the mantras of the morning, midday and third pressings follow the course of the Sun from his rising till his setting. The gods collected the sacrifice by the metres of the foot (*pādātmaka*); therefore the *nivid* mantras are in the form of feet (*pāda*) …
+
+---
+
+**Progress note:** printed p. 392 (PDF 412) done — Sūkta 175 Ṛk 6 Special Topics (nivid; Brāhmaṇa passages continue p. 393). Next: printed p. 393 (PDF 413). Open flags: long Bṛhaddevatā/Aitareya Brāhmaṇa quotes, very garbled in print/reading [?]; refs [?]; review/doubts_v13.json.
