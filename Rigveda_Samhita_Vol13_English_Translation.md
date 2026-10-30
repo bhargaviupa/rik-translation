@@ -16519,4 +16519,56 @@ For the word *puraṃdhi* the senses *prabhūta*, *pauṣkalya* (plenty) and *sa
 
 ---
 
-**Progress note:** printed p. 590 (PDF 610) done — Sūkta 181 Ṛk 9 bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (puraṃdhi, pūṣā, agniṃ uṣāṃ na; Āśvina-śastra), grammar begun (continues p. 591). Next: printed p. 591 (PDF 611). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 591  (PDF 611)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 591.)*
+
+*(Grammar page, continued, noted briefly):* *puraṃdhiḥ* — "*pṛṣodarādīni yathopadiṣṭam*" (Pā. Sū. 6-3-109) — the intended form is accomplished; *jarate* — "*jarate hvayati*" (Ni. 3-14-? [?]); it occurs among the roots meaning "to praise (*arcanārthaka*)"; praise is also worship, so here it is taken in the sense of praise; *laṭ* third person singular form; *tiṅ* accent *nighāta*; *varivasyā* — "*namo-varivaś-citraṅaḥ kyac*" (Pā. Sū. 3-1-19 [?]), *kyac* comes; then "*āprtyayāt*" (Pā. Sū. 3-3-102 [?]) gives the *a* suffix after it; in the feminine *ṭāp* by the same rule; *kyac*'s accent remains; "*ekādeśa udāttenodāttaḥ*" (Pā. Sū. 8-2-5 [?]) gives *ṭāp* the acute; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) — the third case, followed by lengthening by *pūrvasavarṇa*.  ‖ 9 ‖
+
+Here ends the hundred and eighty-first Sūkta.
+
+### Sūkta 182  (printed p. 591; PDF 611)
+
+**The hundred and eighty-second Sūkta**
+
+*(Anukramaṇikā and use, three layers)*
+
+> अभूदिदमित्यृष्टर्चं तृतीयं सूक्तमाश्विनं जागतं । अवविद्धमिति षष्ठी तद्वां नरा नासत्यावित्यष्टमी चोभे त्रिष्टुभौ । अभूदिदमुष्वो षष्ट्यन्ते त्रिष्टुभावित्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छन्दस्यस्य विनियोगः । तथा च सूत्रितं । अभूदिदं यो वां परिज्मेति तिस्र इति । आ. ४-१५ । इति ॥
+
+*(Sanskrit as read; the "ṣaṣṭyante" phrase is as printed [?]; Āśvalāyana reference "4-15" [?].)*
+
+**Anuvāda** — The Sūkta beginning *abhūdidam* is the third Sūkta in the twenty-fourth Anuvāka. It has eight ṛks. The ṛṣi of this Sūkta is Agastya; the deity is the Aśvin deities themselves; the metre is *Jagatī*. But the sixth ṛk (*avaviddhaṃ*) and the eighth ṛk (*tadvāṃ narā nāsatyā*) are in the *Triṣṭubh* metre. The Anukramaṇikā says: "*abhūdidam uṣvo ṣaṣṭyante triṣṭubhau*". At the time of reciting the Prātaranuvāka-mantras, this Sūkta is used for the *Jagatī* ṛks of the Āśvina-śastra, as the Āśvalāyana Śrauta-sūtra explains with the sūtra "*abhūdidaṃ yo vāṃ parijmeti trīṇi*" (Ā. 4-15 [?]).
+
+### Printed p. 592  (PDF 612)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 592.)*
+
+**Sūkta — 182**
+Maṇḍala — 1 ‖ Anuvāka — 24 ‖ Sūkta — 182 ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 27, 28 ‖ (as read [?])
+Number of ṛks in the Sūkta — 8
+Ṛṣi — Agastya
+Devatā — the Aśvin deities
+Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
+
+### Sūkta 182, Ṛk 1  (printed p. 592; PDF 612)
+
+**Saṃhitā-pāṭha**
+
+> अभूदिदं वयुनमो षु भूषता रथो वृषण्वान्मदता मनीषिणः ।
+> धियंजिन्वा धिष्ण्या विश्पलावसू दिवो नपाता सुकृते शुचिव्रता ॥ १ ॥
+
+**Pada-pāṭha**
+
+> अभूत् । इदं । वयुनं । ओ इति । सु । भूषत । रथः । वृषण्ऽवान् । मदत । मनीषिणः ।
+> धियंऽजिन्वा । धिष्ण्या । विश्पलावसू इति । दिवः । नपाता । सुऽकृते । शुचिऽव्रता ॥ १ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे मनीषिणो मनस्विनो मेधाविन ऋत्विजः अस्माकमिदं वयुनं प्रज्ञानमभूत् । उत्पन्नं । कीदृशं तदिति उच्यते । वृषण्वानभिमतवर्षणवान्रथोऽश्विनोः संबन्धी गमनसाधनो रथ आगत इति शेषः । तत्पाद्वश्विनावो षु भूषत । ओ इति निपातद्वयसमुदायात्मक एको निपातः । सुष्ठु भूषत । अभिमुखा भवत स्तोतुं । तौ द्वौ शौ महानुभावावश्विनौ मदत । अन्तर्भावितण्यर्थोऽयं । मदयत । संभावयत । अश्विनौ विशेष्यते । सुकृते सुष्ठु कृतवते मह्यं धियंजिन्वा कर्मणो बुद्धेर्वा प्रीणयितारौ धिष्ण्या धिषणार्हौ स्तुत्यौ विश्पलावसू विशां प्रजानामस्माकं पालयित्र्यधनौ विश्पलाख्यायाश्विन्नजङ्घायो हिरण्मयजङ्घाप्रदानेन तथाभूतौ । सद्यो जङ्घामायसीं विश्पलायै । ऋ. १-११६-१५ । इत्यादिनिगमः । दिव आदित्यस्य नपाता नप्तारौ नपातयितारौ वा शुचिव्रता दीप्तकर्माणौ । ईदृशावश्विनौ मदत ॥
+
+*(Sanskrit as read; several words doubtful [?] — e.g. "tatpādvaśvināvo", "viśpalākhyā…", "…jaṅghā…". The quoted nigama is Ṛ. 1-116-15 as printed. Gist: O wise priests, our insight has arisen and the Aśvins' showering chariot has come; adorn yourselves for them and gladden the Aśvins, the radiant grandsons of Heaven, helpers of Viśpalā.)*
+
+---
+
+**Progress note:** printed p. 592 (PDF 612) done — Sūkta 181 complete (Ṛk 9 grammar, closing); Sūkta 182 (8 ṛks) heading, anukramaṇikā, anuvāda, Ṛk 1 Saṃhitā, Pada, bhāṣya. Next: printed p. 593 (PDF 613): Ṛk 1 Pratipadārtha onward. Open flags: refs [?]; review/doubts_v13.json.

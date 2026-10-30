@@ -6046,5 +6046,41 @@
   ],
   "note": "Sa.Br./Brh.De./Ai.Br. refs [?]; Ai.Br. quote garbled in print; nareveretas word doubtful",
   "answer": ""
+ },
+ {
+  "pdf": 611,
+  "printed": 591,
+  "crop": [
+   0.1,
+   0.4,
+   0.1,
+   0.9
+  ],
+  "note": "grammar numerals [?]; Ni. ref small type",
+  "answer": ""
+ },
+ {
+  "pdf": 611,
+  "printed": 591,
+  "crop": [
+   0.45,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Sukta 182 anukramanika as read; Asv.Srauta ref 4-15 [?]; Varga numerals (header 27 / 27-28)",
+  "answer": ""
+ },
+ {
+  "pdf": 612,
+  "printed": 592,
+  "crop": [
+   0.55,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk1 bhasya garbled words (tatpadvasvinavo, vispala...) as read [?]; Rg 1-116-15 ref",
+  "answer": ""
  }
 ]
