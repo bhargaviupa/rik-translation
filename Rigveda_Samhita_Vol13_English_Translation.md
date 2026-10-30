@@ -18290,4 +18290,78 @@ A further question is whether the matter stated in the Upaniṣads — that the 
 
 ---
 
-**Progress note:** printed p. 654 (PDF 674) done — Sūkta 183 Ṛk 6 Special Topics (devayāna / pitṛyāna; Ṛg citations 10-2-7, 7-76-2, 10-51-2, 10-51-5; continues p. 655). Next: printed p. 655 (PDF 675). Open flags: refs [?]; thirteen devayāna refs on p. 653 unread [?]; review/doubts_v13.json.
+### Printed p. 655  (PDF 675)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 655.)*
+
+> परं मृत्यो अनु परेहि पन्थां यस्ते स्व इतरो देवयानात् ।
+> चक्षुष्मते शृण्वते ते ब्रवीमि मा नः प्रजां रीरिषो मोत वीरान् ॥
+
+> *paraṃ mṛtyo anu parehi panthāṃ yaste sva itaro devayānāt |*
+> *cakṣuṣmate śṛṇvate te bravīmi mā naḥ prajāṃ rīriṣo mota vīrān ‖*
+
+(Ṛ. Saṃ. 10-18-1)
+
+> एतान्यग्ने नवतिं सहस्रा सं प्र यच्छ वृष्ण इन्द्राय भागम् ।
+> विद्वान्पथ ऋतुशो देवयानानप्यौलानं दिवि देवेषु धेहि ॥
+
+> *etānyagne navatiṃ sahasrā saṃ pra yaccha vṛṣṇa indrāya bhāgam |*
+> *vidvānpatha ṛtuśo devayānānapyaulānaṃ divi deveṣu dhehi ‖*
+
+(Ṛ. Saṃ. 10-98-11; second line as read, doubtful [?])
+
+> विद्वाँ अग्ने वयुनानि क्षितीनां व्यानुषक्छुरुधो जीवसे धाः ।
+> अन्तर्विद्वाँ अध्वनो देवयानानतन्द्रो दूतो अभवो हविर्वाट् ॥
+
+> *vidvā~ agne vayunāni kṣitīnāṃ vyānuṣakchurudho jīvase dhāḥ |*
+> *antarvidvā~ adhvano devayānānatandro dūto abhavo havirvāṭ ‖*
+
+(Ṛ. Saṃ. 1-72-7 [?])
+
+In the first of these mantras the prayer is directed to Death (*Mṛtyu*). Here it is explained that the path of death is quite different, and the path of *devayāna* quite different. By the sentence "*yas te sva itaro devayānāt*" ("the other path of yours, other than the *devayāna*") it is described that the path of death is different from the *devayāna*. Hence it is implied that all those who travel on the *devayāna*, being freed from death, reach the eternal *Brahmaloka*.
+
+In the second mantra, Agni, who has the nature of *devayāna*, is prayed to unite the one who dwells in the *aulāna* [?] with the gods. The sense described — that after death the soul, united with the flame of fire, goes to the world of the gods — is suggested here. In the third mantra, too, the same point is clearly suggested.
+
+On this basis it is understood that *devayāna* and *pitṛyāṇa* are separate paths, both carrying the soul after death. If one wishes to know these views more fully, one can do so in the places where the purport of the words *gātu*, *rajas* and *sṛti* is explained. For example:
+
+> द्वे सृती अश्रृणवं पितॄणामहं देवानामुत मर्त्यानाम् ।
+> ताभ्यामिदं विश्वमेजत्समेति यदन्तरा पितरं मातरं च ॥
+
+> *dve sṛtī aśrṛṇavaṃ pitṝṇāmahaṃ devānāmuta martyānām |*
+> *tābhyāmidaṃ viśvamejatsameti yadantarā pitaraṃ mātaraṃ ca ‖*
+
+(Ṛ. Saṃ. 10-88-15)
+
+> आ कृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च ।
+> हिरण्ययेन सविता रथेना देवो याति भुवनानि पश्यन् ॥
+
+> *ā kṛṣṇena rajasā vartamāno niveśayannamṛtaṃ martyaṃ ca |*
+> *hiraṇyayena savitā rathenā devo yāti bhuvanāni paśyan ‖*
+
+(Ṛ. Saṃ. 1-35-2)
+
+### Printed p. 656  (PDF 676)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 656.)*
+
+— in mantras such as these, the difference existing between the two paths is told. This matter will be described still more fully further on in those contexts. This very *devayāna* is called *arcirādi-mārga* in the Upaniṣads. As told above, the point that there is no return for the good deeds of those who, after death, have reached the *Brahmaloka* by this path, is shown in the other Upaniṣads also, just as in the Bṛhadāraṇyaka-Upaniṣad passage cited above.
+
+> तत्पुरुषोऽमानवः स एनान्ब्रह्म गमयत्येष देवपथो ब्रह्मपथ एतेन प्रतिपद्यमाना इमं मानवमावर्तं नावर्तन्ते नावर्तन्ते ।
+
+> *tatpuruṣo 'mānavaḥ sa enānbrahma gamayatyeṣa devapatho brahmapatha etena pratipadyamānā imaṃ mānavamāvartaṃ nāvartante nāvartante |*
+
+(Chā. U. 4-15-5 [?] — printed "Bhā. U."; as read [?])
+
+> सूर्यद्वारेण ते विरजाः प्रयान्ति यत्रामृतः स पुरुषो ह्यव्ययात्मा ।
+
+> *sūryadvāreṇa te virajāḥ prayānti yatrāmṛtaḥ sa puruṣo hyavyayātmā |*
+
+(Mu. U. 2-11 [?]; as read) — sentences such as these, describing the *sūryadvāra* ("the door of the Sun"), praise the greatness of the *devayāna*.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *atāriṣma* — root *tṝ plavanataraṇayoḥ*; *luṅ* first person plural, *mas* suffix; "*nityaṃ ṅitaḥ*" (Pā. Sū. 3-4-99 [?]) elides the *s*; *sic* in place of *cli*; "*ārdhadhātukasyeḍ valādeḥ*" gives it the *iṭ* augment; "*sici vṛddhiḥ parasmaipadeṣu*" (Pā. Sū. 7-2-1 [?]) gives vṛddhi of the root's *i*; *r* follows; *aṅga* takes *āṭ*; being at the beginning of a *pāda*, no *nighāta* accent; initial acute. *adhāyi* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *luṅ* in the passive; *ta* in the first person singular; "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66 [?]) gives *ciṇ* for *cli*; "*ātau yuk ciṇ kṛtoḥ*" (Pā. Sū. 7-3-33 [?]) gives *yuk* to the root's end, since *ciṇ* follows; as it has *k*, it comes finally; "*ciṇo luk*" (Pā. Sū. 6-4-104 [?]) elides the later suffix; *aṅga* takes *āṭ*; since it follows a *tiṅ*-final, *nighāta* accent. *devayānaiḥ* — "*devānāṃ yānāni (mārgāḥ)*"; root *yā prāpaṇe*; suffix *lyuṭ*; "*yuvor anākau*" (Pā. Sū. 7-1-1 [?]) gives *ana* substitution; "*liti*" (Pā. Sū. 6-1-193 [?]) gives acute on the syllable before the suffix; in the compound, "*gatikārakopapadāt kṛt*" gives the *prakṛti* accent of the *kṛdutta* latter member; third (case) plural form.  ‖ 6 ‖
+
+Here ends the hundred and eighty-third Sūkta.
+
+---
+
+**Progress note:** printed p. 656 (PDF 676) done — Sūkta 183 complete (Ṛk 6 Special Topics end, grammar, closing). Next: printed p. 657 (PDF 677): Sūkta 184 heading. Open flags: refs [?]; review/doubts_v13.json.
