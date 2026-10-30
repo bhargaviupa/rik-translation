@@ -8200,4 +8200,75 @@ It is also explained clearly in many places that, for the performance of acts of
 
 ---
 
-**Progress note:** printed p. 318 (PDF 338) done — Sūkta 174 Ṛk 1 Special Topics (satya; continues p. 319). Next: printed p. 319 (PDF 339). Open flags: many Ṛg/Nirukta/Śa. Brā. refs and quotations [?]; review/doubts_v13.json.
+### Printed p. 319  (PDF 339)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+In ṛks such as these, all the sages have shown that, through understanding the nature of the deities who are of the nature of truth and through performing the acts, they obtained wealth as the fruit; there are many sentences, referring to earlier occasions, that state this; and there is also a prayer that "through truth may there be welfare for us":
+
+> अधा यथा नः पितरः परासः प्रत्नासो अग्न ऋतमाशुषाणाः । शुचीदयन्दीधितिमुक्थशासः क्षामा भिन्दन्तो अरुणीरप व्रन् ॥
+
+> *adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtam āśuṣāṇāḥ | śucīd ayan dīdhitim ukthaśāsaḥ kṣāmā bhindanto aruṇīr apa vran ‖*
+
+(Ṛ. Saṃ. 4-2-16 [?]). In prayers such as "as our fathers, by performing the sacrifice of truth, obtained a good fruit; so now also may all our acts give us true fruits", the true nature of Agni and the other deities, who are lords of truth (*satyadharma*), is also described.
+
+> अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।
+
+> *ajo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
+
+(Ṛ. Saṃ. 1-67-5 [?]);
+
+> कविमग्निमुप स्तुहि सत्यधर्माणमध्वरे । देवममीवचातनम् ॥
+
+> *kavim agnim upa stuhi satyadharmāṇam adhvare | devam amīvacātanam ‖*
+
+(Ṛ. Saṃ. 1-12-7 [?]);
+
+> देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा । पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥
+
+> *devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā | purupraśasto amatir na satya ātmeva śevo didhiṣāyyo bhūt ‖*
+
+(Ṛ. Saṃ. 1-73-3 [?])
+
+and in many other places, it is said that by Agni and the other deities, along with *satya*, the worlds such as earth were upheld and the protection of the world was accomplished, and it is shown that men also should follow that same path of truth. In the ṛk at hand also, as if speaking of identity with truth from that same viewpoint, Indra is described.
+
+***svatejasā sarvaṃ chādayan vasūni vā kurvan stotṛbhyaḥ*** — Indra, covering everything with his own splendour, or bestowing wealth on his praisers: the meaning of the word *vasavāna* is explained thus; and for the word *sahodāḥ*, "the giver of strength to the sacrificer, and one who favours those who praise him": this meaning is described. The word *sahaḥ* is read among the names of strength (Ni. 2-9 [?]) and among the names of water (Ni. 1-12 [?]).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***rakṣa*** — root *rakṣa pālane*; *loṭ*, second person singular; by "*yad vṛttān nityam*" (Pā. Sū. 8-1-66 [?]) *nighāta* is prohibited; *śap* being *pit*, the root accent remains; by "*dyaś cotas tiṅaḥ*" (Pā. Sū. 6-3-135 [?]) the long vowel occurs.
+
+### Printed p. 320  (PDF 340)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+- ***pāhi*** — root *pā rakṣaṇe*; *loṭ*, second person singular; by "*ciḍādilope vibhāṣā*" (Pā. Sū. 8-1-63 [?]) *nighāta* is prohibited; thus *apit* is prescribed, being *udātta*, so the end syllable is *udātta*.
+- ***asura*** — root *asu kṣepaṇe*; by "*āsero uran*" (Uṇ. Sū. 1-42 [?]) the suffix *uran*; in the vocative, by "*āmantritasya ca*" (Pā. Sū. 8-1-19 [?]) *nighāta* is prohibited.
+- ***satpatiḥ*** — *satāṃ patiḥ satpatiḥ*; by "*patyāvaiśvaryeye*" (Pā. Sū. 6-2-18 [?]) the fore-member keeps its natural accent.
+- ***tarutraḥ*** — root *tṝ plavanataraṇayoḥ*; by "*aśitrādibhya itro*" (Uṇ. Sū. 4-… [?]) the latter suffix; by *vyatyaya* the first syllable is *udātta*. Or, from *grasitaskabhita*… (Pā. Sū. 7-2-34 [?]), by *nipātana*; by *vyatyaya* *jas* becomes *sup*; by "*saṃjñāpūrvako vidhir anityaḥ*" no guṇa; the substitution *yaṇ*; by *nit* accent the first syllable is *udātta*.
+- ***vasavānaḥ*** — root *vasa ācchādane*; the root has *ṇic* in its sense; to it *śānac* for *laṭ*; by "*bahulaṃ chandasi*" no *luk* for *śap*; by *vyatyaya* *va* for *m*; by "*tāsy anudāttet*" (Pā. Sū. 6-1-186 [?]) the *sārvadhātuka* *la* being *anudātta*, the root accent remains.
+- ***sahodāḥ*** — *sahaḥ balaṃ dadātīti sahodāḥ*; root *ḍudāñ dāne*; suffix *viṭ*; the *kṛdutta* final member keeps its natural accent. ‖ 1 ‖
+
+---
+
+**Sūkta 174, Ṛk 2**
+
+**Saṃhitā-pāṭha**
+
+> दनो विश इन्द्र मृध्रवाचः सप्त यत्पुरः शर्म शारदीर्दर्त् ।
+> ऋणोरपो अनवद्यार्णा यूने वृत्रं पुरुकुत्साय रन्धीः ॥ २ ॥
+
+> *dano viśa indra mṛdhravācaḥ sapta yat puraḥ śarma śāradīr dart |*
+> *ṛṇor apo anavadyārṇā yūne vṛtraṃ purukutsāya randhīḥ ‖ 2 ‖*
+
+**Pada-pāṭha**
+
+> दनः । विशः । इन्द्र । मृध्रऽवाचः । सप्त । यत् । पुरः । शर्म । शारदीः । दर्त् ।
+> ऋणोः । अपः । अनवद्य । अर्णाः । यूने । वृत्रम् । पुरुऽकुत्साय । रन्धीः ॥ २ ॥
+
+> *danaḥ | viśaḥ | indra | mṛdhra-vācaḥ | sapta | yat | puraḥ | śarma | śāradīḥ | dart |*
+> *ṛṇoḥ | apaḥ | anavadya | arṇāḥ | yūne | vṛtram | puru-kutsāya | randhīḥ ‖ 2 ‖*
+
+---
+
+**Progress note:** printed p. 320 (PDF 340) done — Sūkta 174 Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written. Next: printed p. 321 (PDF 341), Ṛk 2 bhāṣya. Open flags: Ṛg/Nirukta/sūtra numerals [?]; review/doubts_v13.json.
