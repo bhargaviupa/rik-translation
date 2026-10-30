@@ -12049,4 +12049,80 @@ O Indra! Being well praised by us, come facing us, with the mantras of the prais
 
 ---
 
-**Progress note:** printed p. 444 (PDF 464) done — Sūkta 177 Ṛk 4 complete; Ṛk 5: Saṃhitā…Bhāvārtha written. Next: printed p. 445 (PDF 465): Ṛk 5 printed English, Special Topics, grammar, Sūkta 177 closing; then Sūkta 178. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 445  (PDF 465)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; page 445.)*
+
+**Printed English**
+
+> Glorified by us, Indra, come to (our) presence to accept the prayers of the venerable offerer (of the oblation); so that we may ever enjoy prosperity through your protection, and thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***brahmāṇi*** — the word *brahma* has been explained earlier with many other senses. In the ṛk at hand, as in the preceding ṛk, the word is used in the sense "mantras"; i.e. mantras that have grown (*parivṛḍha*).
+
+***kāroḥ — stotur hotuḥ kartur yajamānasya*** — "of the praiser, the *hotṛ*, the doer, the sacrificer": it is explained as the one who both praises and performs the sacrifice. The Nirukta-writers have listed the word *kāru* among the names of the praiser (*stotṛ*) (Ni. 3-19 [?]). The author of the Bṛhaddevatā has used this word in the sense "poets, i.e. the ṛṣis who are seers of the sūktas":
+
+> अग्नेस्तु योनि [?] सूक्तानि पञ्च सामानि कारवः ।
+> षड्विंशतिस्तथेन्द्रस्य प्राहुः सूर्यस्य सप्त च ॥
+
+> *agnestu yoni [?] sūktāni pañca sāmāni kāravaḥ |*
+> *ṣaḍviṃśatistathendrasya prāhuḥ sūryasya sapta ca ‖*
+
+(Bṛ. De. 2-22 [?])
+
+> पृथक्त्वेन समासैस्तु यज्ञे यच्चैस्यते [?] नृभिः ।
+> स्तुवन्त्याप्रीषु तेनेमं नराशंसं तु कारवः ॥
+
+> *pṛthaktvena samāsaistu yajñe yaccaisyate [?] nṛbhiḥ |*
+> *stuvantyāprīṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*
+
+(Bṛ. De. 2-27 [?]) — in such sentences *kāravaḥ* is used as a synonym of the word "poets", *kavi*, meaning "those who praise". In the Ṛk-saṃhitā also:
+
+> प्रदक्षिणिदभि [?] गृणन्ति कारवो वयो वदन्त ऋतुथा शकुन्तयः ।
+> उभे वाचौ वदति सामगा इव गायत्रं च त्रैष्टुभं चानु राजति ॥
+
+> *pradakṣiṇidabhi [?] gṛṇanti kāravo vayo vadanta ṛtuthā śakuntayaḥ |*
+> *ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati ‖*
+
+(Ṛ. Saṃ. 2-43-1 [?])
+
+> वि चेदुच्छन्त्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरन्ते ।
+> ऊर्ध्वं भानुं सविता देवो अश्रेद्बृहदग्नयः [?] समिधा जरन्ते ॥
+
+> *vi ceducchantyaśvinā uṣāsaḥ pra vāṃ brahmāṇi kāravo bharante |*
+> *ūrdhvaṃ bhānuṃ savitā devo aśredbṛhadagnayaḥ [?] samidhā jarante ‖*
+
+(Ṛ. Saṃ. 7-72-4 [?]) — in these and other ṛks *stotāraḥ* ("praisers") is the sense in which the word is used. In the ṛk at hand also, the sacrificer who is the praiser…
+
+### Printed p. 446  (PDF 466)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 446.)*
+
+… is the meaning. [The sentence runs on from the previous page.]
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***suṣṭutaḥ*** — root *ṣṭuñ stutau*; suffix *kta* in the passive; by "*gatir anantaraḥ*" (Pā. Sū. 6-2-49 [?]) the *gati* (*su*) takes the *udātta* accent.
+- ***kāroḥ*** — root *ḍukṛñ karaṇe*; by "*kṛvāpā…*" (Uṇ. [?]) the suffix *uṇ*; the *nimitta* gets *vṛddhi*; *raparatva*; by the suffix accent the final syllable is *udātta*; genitive singular.
+- ***vastoḥ*** — root *vas nivāse*; in the sense of the infinitive, by "*īśvare tosunkasunau*" (Pā. Sū. 3-4-13 [?]) the suffix *tosun*; since the suffix has *ñ* as marker, by "*ñnityādir nityam*" (Pā. Sū. 6-1-197 [?]) the *ādyudātta* accent.
+- ***gṛṇantaḥ*** — root *gṝ śabde*; *laṭ* replaced by *śatṛ*; by "*pvādīnāṃ hrasvaḥ*" (Pā. Sū. 7-3-80 [?]) shortening of the root; by "*śnābhyastayor ātaḥ*" (Pā. Sū. 6-4-112 [?]) elision of the *ā* of the *vikaraṇa*; since *ṛ* precedes, *ṇatva*; the suffix takes the *ādyudātta* accent. ‖ 5 ‖
+
+*(Sūkta 177 ends here; no closing line is printed on this page.)*
+
+---
+
+## Sūkta 178 (the 178th Sūkta; "Nūra eppatteṃṭaneya sūktavu")
+
+***yaddha syā*** — *pañcarcaṃ caturdaśaṃ sūktam āgastyam aindraṃ traiṣṭubham | yaddha syety anukramaṇikā ‖ viśeṣaviniyogaḥ pūrvavat ‖*
+
+*Translation of the introduction:* This Sūkta beginning "*yaddha syā*" is the fourteenth sūkta in the twenty-third Anuvāka. It has five ṛks. Its ṛṣi is Agastya; Indra is the deity; the metre is Triṣṭubh. The Anukramaṇikā begins "*yaddha syā*". "As before" means: as in the preceding sūkta, this sūkta has a special application — for the augmenting of the *stoma*, in the recitation (*śaṃsana*) of *śastra* mantras.
+
+**Sūkta 178**
+
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 178 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 21 ‖
+Number of ṛks in the Sūkta — 5 ‖ Ṛṣi — Agastya ‖ Devatā — Indra ‖ Chandas — Triṣṭubh ‖
+
+---
+
+**Progress note:** printed p. 446 (PDF 466) done — Sūkta 177 complete (5 ṛks); Sūkta 178 heading written (Varga 21, 5 ṛks, Triṣṭubh). Next: printed p. 447 (PDF 467), Sūkta 178 Ṛk 1 Saṃhitā. Open flags: refs [?]; review/doubts_v13.json.

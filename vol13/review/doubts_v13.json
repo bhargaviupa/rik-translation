@@ -4282,5 +4282,29 @@
   ],
   "note": "bhashya: 'sannarvaj', 'agacchaiva', 'ma vilambayu' garbled",
   "answer": ""
+ },
+ {
+  "pdf": 465,
+  "printed": 445,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brhaddevata and Rg refs small; 'agner tu yoni' & 'yaccaisyate' & 'pradaksinidabhi' & 'brhadagnayah' readings doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 466,
+  "printed": 446,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small",
+  "answer": ""
  }
 ]
