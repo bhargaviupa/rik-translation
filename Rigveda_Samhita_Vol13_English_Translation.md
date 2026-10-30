@@ -1386,4 +1386,94 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 60 (PDF 80) done — Sūkta 166 Ṛk 12 Special Topics (vrata complete; dātram). Next: printed p. 61 (PDF 81). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 61  (PDF 81)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Special Topics (continued: *dātram*).**
+
+> असि भगो असि दात्रस्य दातासि मघवा मघवद्भ्य इन्दो । [?]
+
+> *asi bhago asi dātrasya dātāsi maghavā maghavadbhya indo | [?]*
+
+(Ṛ. Saṃ. 9-97-28 [?])
+
+> अनेहो दात्रमदितेरनर्वं हुवे स्वर्वदवधं नमस्वत् ।
+
+> *aneho dātramaditeranarvaṃ huve svarvadavadhaṃ namasvat |*
+
+(Ṛ. Saṃ. 1-153-3 [?])
+
+> युवं हि स्थो रयिदौ नो रयीणां दात्रं रक्षेथे अकवैरदब्धा ।
+
+> *yuvaṃ hi stho rayidau no rayīṇāṃ dātraṃ rakṣethe akavairadabdhā |*
+
+(Ṛ. Saṃ. 3-34-16 [?])
+
+> सुदामन्द्रेक्णो अप्रमृष्यमृजिश्वने दात्रं दाशुषे दाः ।
+
+> *sudāmandreknīo [?] apramṛṣyamṛjiśvane dātraṃ dāśuṣe dāḥ |*
+
+(Ṛ. Saṃ. 6-20-2) — in ṛks like these, and in the ṛks beginning Ṛ. Saṃ. 2-38-10 [?]; 8-43-33 [?]; 10-67-8 [?]; 8-44-10 [?] and others, the word *dātra* has simply the sense "giving, bestowing".
+
+***aditeriva*** — the word *aditi* is read among the names of the earth (Ni. 1-1 [?]), among the names of speech (Ni. 1-11 [?]), among the names of the cow (Ni. 4-9 [?]), and among the names of heaven and earth (in the dual) (Ni. 4-22 [?]). Besides this Yāska has said "*aditir adīnā devamātā*" (Ni. 4-22 [?]) ["Aditi, the not-poor, the mother of the gods"]. The derivation and the like and the explanation of the meaning of this word we have already given at length earlier.
+
+***cana*** — *caneti ayaṃ yadyapi nipātatve 'pi samudāyarūpa eko nipātaḥ tathāpy avayavavibhāgena caśabdaḥ samuccaye naśabdo niṣedhe 'dhigantavyaḥ*: although the word *cana* is regarded as one word made up of two particles, if its parts are divided the particle *ca* indicates conjunction and the particle *na* indicates negation. The use of this word to emphasize negation ("not even") is found in many ṛks:
+
+> यस्माद‍ृते न सिध्यति यज्ञो विपश्चितश्चन । स धीनां योगमिन्वति ॥
+
+> *yasmādṛte na sidhyati yajño vipaścitaścana | sa dhīnāṃ yogaminvati ‖*
+
+(Ṛ. Saṃ. 1-18-7)
+
+> न पञ्चभिर्दशभिर्वष्ट्यारभं नासुन्वता सचते पुष्यता चन ।
+
+> *na pañcabhirdaśabhirvaṣṭyārabhaṃ nāsunvatā sacate puṣyatā cana |*
+
+(Ṛ. Saṃ. 5-34-3)
+
+> नहि ते क्षत्रं न सहो न मन्युं वयश्चनामी पतयन्त आपुः ।
+
+> *nahi te kṣatraṃ na saho na manyuṃ vayaścanāmī patayanta āpuḥ |*
+
+(Ṛ. Saṃ. 1-54-6)
+
+> तृतीयमस्य नकिरा दधर्षति वयश्चन पतयन्तः पतत्रिणः ॥
+
+> *tṛtīyamasya nakirā dadharṣati vayaścana patayantaḥ patatriṇaḥ ‖*
+
+(Ṛ. Saṃ. 1-155-5)
+
+### Printed p. 62  (PDF 82)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)*
+
+> दिवश्चिदस्य वरिमा वि पप्रथ इन्द्रं न मह्ना पृथिवी चन प्रति ।
+
+> *divaścidasya varimā vi papratha indraṃ na mahnā pṛthivī cana prati |*
+
+(Ṛ. Saṃ. 1-55-1) — in ṛks like these the word *cana* is understood, in a special way, in the negative sense. In some other ṛks this word has no negative sense:
+
+> पूर्वीश्चन प्रसितयस्तरन्ति तं य इन्द्रे कर्मणा भुवत् ।
+
+> *pūrvīścana prasitayastaranti taṃ ya indre karmaṇā bhuvat |*
+
+(Ṛ. Saṃ. 2-32-13 [?])
+
+> उक्थं चन शस्यमानमगोररिरा चिकेत । न गायत्रं गीयमानम् ॥
+
+> *uktham cana śasyamānamagorarirā ciketa | na gāyatraṃ gīyamānam ‖*
+
+(Ṛ. Saṃ. 8-2-14)
+
+> अधा चन श्रद्दधति त्विषीमत इन्द्राय वज्रं निघनिघ्नते वधम् ।
+
+> *adhā cana śraddadhati tviṣīmata indrāya vajraṃ nighanighnate vadham |*
+
+(Ṛ. Saṃ. 1-55-5)
+
+— in ṛks like these, and in Ṛ. Saṃ. 8-28-10 [?]; 1-139-3 [?]; 4-18-8 [?]; 1-130-2 [?]; 5-40-1 [?]; 2-18-5 [?]; 8-60-3 [?]; 10-47-5 [?]; 6-32-2 [?] and others, the word *cana* has no negative sense.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *sujātāḥ* (*śobhanaṃ jātaṃ yeṣāṃ te*; *āmantritasya ca* Pā. 8-1-19 gives *nighāta*). *mahitvanam* (suffix *tva* in the sense of state by *tasya bhāvas tvatalau*; *avan* follows and by Vedic usage a *n* comes to the base). *dātram* (root *ḍudāñ dāne*; *tra* in the sense of the action by *dādibhyaś chandasi* Uṇ. 4-[?]; final acute by the suffix). *cana* (although regarded as one word in the *pada* text, here by dividing its parts it is to be understood that *ca* is used in the sense of conjunction and *na* in negation). *tyajasā* (root *tyaja hānau*; suffix *asun*, which attaches to all roots; initial acute by *ñit*-rule [?]; instrumental singular). *hruṇāti* (a *sautra* root, used in the sense of crookedness; by *vyatyaya* the *śnā* vikaraṇa; *laṭ* 3rd singular; *nighāta* after a *tiṅanta*).
+
+---
+
+**Progress note:** printed p. 62 (PDF 82) done — Sūkta 166 Ṛk 12 complete (grammar noted). Next: printed p. 63 (PDF 83): Ṛk 13. Open flags: small-type numerals [?]; review/doubts_v13.json.
