@@ -13942,4 +13942,57 @@ In this ṛk both the nature of the chariot of the deities Aśvins and the relat
 
 ---
 
-**Progress note:** printed p. 504 (PDF 524) done — Sūkta 180 Ṛk 2 Special Topics (atyasya, viśvagūrtī, svasā) and grammar begun (continues p. 505). Next: printed p. 505 (PDF 525). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 505  (PDF 525)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 505.)*
+
+… no *nighāta* accent occurs, because of *yad*-connection; *śap* and *tip* being *anudātta*, the root accent remains.
+
+- ***īṭṭe*** — root *īḍa stutau*; *laṭ*, third person singular; by *vyatyaya* the *ādyudātta* accent.
+- ***iṣe*** — by "*sāvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending takes the *udātta* accent. ‖ 2 ‖
+
+---
+
+**Sūkta 180, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> युवं पयो उस्रियायामधत्तं पक्वमामायामव पूर्व्यं गोः ।
+> अन्तर्यद्वनिनो वामृतस्पू [?] ह्वारो न शुचिर्यजते हविष्मान् ॥ ३ ॥
+
+**Pada-pāṭha**
+
+> युवम् । पयः । उस्रियायाम् । अधत्तम् । पक्वम् । आमायाम् । अव । पूर्व्यम् । गोः ।
+> अन्तः । यत् । वनिनः । वाम् । ऋतस्पू [?] इति ऋतस्पू [?] । ह्वारः । न । शुचिः । यजते । हविष्मान् ॥ ३ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ युवं युवामुस्रियायां गोनाम्नैतत् । भोगोत्राविण्यां [?] गवि पयोऽधत्तम् । आधारयतम् । स्थापितवन्तौ । तथामायामपक्वायां पक्वं परिपक्वं भोगयोग्यं गोसम्बन्धि दुग्धं पूर्व्यं पूर्वभवं तत्रैवोत्पन्नमुवावात्स्वादधारयतम् [?] । गवि क्षीरमुत्पाद्य पुनर्भोगाय पृथक्कृतवन्तावित्यर्थः । यद्यस्मात् हे ऋतस्पू [?] सत्यस्वरूपौ यज्ञीयहविर्भक्षयितारौ वा हे अश्विनौ वां वनिन उदकवत उदकोपलक्षितहविष्मतो यज्ञस्यान्तर्मध्ये हविष्मान् प्रदेययुक्तहविषा तद्वान् शुचिः शुद्धो यजमानो यजते पूजयति युवां तस्मादेवममुं [?] कुरुतम् । यद्वा । यद्यैवं यजमानः करोति तदेत्यर्थः । तत्र दृष्टान्तः । वनिनो वनसम्बन्धिवृक्षसमूहस्यान्तर्मध्ये ह्वारो न चोर इव । स यथा जागरूको वर्तते तथा यजमानोऽपीत्यर्थः ॥ [as read; several words doubtful [?]]
+
+*Gist:* The Aśvins put milk in the cow and ripe milk in her unripe udder; the pure sacrificer, alert like a thief in a thicket, worships them with oblations.
+
+### Printed p. 506  (PDF 526)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 506.)*
+
+**Pratipadārtha**
+
+(*he* **ṛtaspū** [?]) — O Aśvins of the nature of truth (who consume the oblations of the sacrifice); **yat** — because; **haviṣmān** — the one possessed of the oblation to be given; **śuciḥ** — pure; the sacrificer; **vām** — you two; **vaninaḥ** — of the sacrifice with oblations; **antaḥ** — in the middle; [or **vaninaḥ** — of the wood-related group of trees; **antaḥ** — in the midst of]; **hvāraḥ na** — like a thief how alert (watchful); **yajate** — he worships; (**tat** — therefore); (*he* **Aśvinau**) **yuvam** — you two; **usriyāyām** — in the cow; **payaḥ** — milk; **adhattam** — placed; (and) **goḥ** — of the cow; **āmāyām** — in the unripe (udder); **pūrvyam** — first-formed; **pakvam** — ripe milk; **ava (adhattam)** — established.
+
+**Bhāvārtha**
+
+O Aśvins, of truth-nature, devourers of the oblations of the sacrifice! The sacrificer, pure and with oblations, worships you in the sacrifice, alert like a thief in a forest; therefore you have placed in the cows abundant milk, and in their udders ripe milk.
+
+**Printed English**
+
+> You have restored milk to the cow: you have (brought) down the prior mature (secretion) into the unripe (or barren) udder of the cow: the devont [sic] offerer of the oblation worships you, whose froms [sic] are truth, (as vigilant in the midst of the ceremony), as a thief (in the midst) of a thicket,
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***ṛtaspū*** [?] — that the word *ṛta* is used in the senses "truth", "sacrifice" and so on, and how *ṛta* reflects the universal rule, has been explained earlier in this same portion, in the special topics of Ṛk 1-179-2. In the ṛk at hand the deities Aśvins are described by the word *ṛtaspū* [?] as being of the nature of truth. Since they pervade the whole universe in the forms of heaven and earth, of the sun, moon and stars, and of day and night, the gist is that these two are all the forms of the world, of the nature of truth.
+
+***vaninaḥ*** — two or three kinds of meaning are shown to be possible for this word. First: "*vaninaḥ udakavantaḥ udakopalakṣitahaviṣmato yajñasya*" ("of the sacrifice in which there is water — the sacrifice that has oblations, marked by water"); and second: "*vanasaṃbandhivṛkṣasamūhasya*" ("of the group of trees belonging to the forest").
+
+---
+
+**Progress note:** printed p. 506 (PDF 526) done — Sūkta 180 Ṛk 2 complete; Ṛk 3: Saṃhitā…printed English, Special Topics begun (ṛtaspū, vaninaḥ; continues p. 507). Next: printed p. 507 (PDF 527). Open flags: refs [?]; 'ṛtaspū' reading [?]; review/doubts_v13.json.

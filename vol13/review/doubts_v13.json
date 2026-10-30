@@ -5002,5 +5002,29 @@
   ],
   "note": "refs Rg 1-186-3, 1-132-10, 6-63-4, sutra numerals small",
   "answer": ""
+ },
+ {
+  "pdf": 525,
+  "printed": 505,
+  "crop": [
+   0.35,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rk3 Samhita word 'rtaspu' (printed glyphs) uncertain; bhashya garbled (bhogotravinyam, uvavatsvadadharayatam, amum)",
+  "answer": ""
+ },
+ {
+  "pdf": 526,
+  "printed": 506,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "printed English typos devont/froms marked sic; ref Rg 1-179-2",
+  "answer": ""
  }
 ]
