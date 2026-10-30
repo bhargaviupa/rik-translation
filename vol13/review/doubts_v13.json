@@ -4738,5 +4738,29 @@
   ],
   "note": "refs Ni 3-2, Brh.De 4-58 small; Durgacarya quote with elisions",
   "answer": ""
+ },
+ {
+  "pdf": 503,
+  "printed": 483,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Mahabharata verses (Vana 94-95) transcribed from small print; many words uncertain (tatsvairangair, anyasagastrye, trahyatmanam); a line elided in print with dots",
+  "answer": ""
+ },
+ {
+  "pdf": 504,
+  "printed": 484,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "MBh verses cont.; ref Vana 94-95 small",
+  "answer": ""
  }
 ]
