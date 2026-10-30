@@ -13364,13 +13364,13 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 > तत्को वृत्रः । मेघ इति नैरुक्ताः । त्वाष्ट्रोऽसुर इत्यैतिहासिकाः ।
 
-*tat ko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ity aitihāsikāḥ |* (Ni. [2-16] [?]) — *Gloss, mine and tentative:* "Who then is Vṛtra? The etymologists say 'a cloud'; the historians say 'the demon, son of Tvaṣṭṛ'."
+*tat ko vṛtraḥ | megha iti nairuktāḥ | tvāṣṭro 'sura ity aitihāsikāḥ |* (no Nirukta number printed) — *Gloss, mine and tentative:* "Who then is Vṛtra? The etymologists say 'a cloud'; the historians say 'the demon, son of Tvaṣṭṛ'."
 
 — having asked what the meaning of the word *vṛtra* is, those who give the derivation of the word (*vyutpatti*) say 'cloud'; those who know the legends say 'the demon, born of Tvaṣṭṛ'. And —
 
 > वृत्रो वृणोतेर्वा वर्ततेर्वा वर्धतेर्वा वृत्रः ।
 
-*vṛtro vṛṇoter vā vartater vā vardhater vā vṛtraḥ |* (Ni. [2-17] [?]) — *Gloss, mine and tentative:* "*Vṛtra* is from *vṛ*, to cover; or from *vṛt*, to turn, exist; or from *vṛdh*, to grow."
+*vṛtro vṛṇoter vā vartater vā vardhater vā vṛtraḥ |* (no Nirukta number printed) — *Gloss, mine and tentative:* "*Vṛtra* is from *vṛ*, to cover; or from *vṛt*, to turn, exist; or from *vṛdh*, to grow."
 
 — the word *vṛtra*, from the roots *vṛñ varaṇe*, *vṛtu vartane*, *vṛdhu vṛddhau*, conveys the senses 'covering', 'being established', or 'growing'. As the śruti-sentence says, '*yad avṛṇot tad vṛtrasya vṛtratvam*' ('because it covered, therefore is Vṛtra's Vṛtra-ness'), he covers the *antarikṣa* and the water; or, as a sense of growth: since Indra struck the cloud and made the water come properly to the earth, the waters arise in the form of rain. And in the legendary view Vṛtra grew very great in measure; *sa iṣumātram iṣumātram avardhata* ('he grew an arrow-length, an arrow-length') — as every moment he grew to the size of an arrow, so is the sense of growth stated."
 
@@ -13955,7 +13955,7 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 *Special Topics of Rik 80.11, continued:*
 
 - **भियसा** — "from the root *ñibhī bhaye*, with the affix *kasi*, which is Uṇādi: it means 'fear'."
-- **मन्यवे** — "the word *manyu* is stated among the eleven names of anger beginning *heḷaḥ, haraḥ* (Ni. [2-13] [?]). Here, because it is a word denoting the cause that brings about fear, the fifth case (ablative) sense is conveyed though the word stands in the fourth case: 'from anger'. It is explained that at the time of slaying Vṛtra even heaven and earth trembled from Indra's anger."
+- **मन्यवे** — "the word *manyu* is stated among the eleven names of anger beginning *heḷaḥ, haraḥ* (Ni. 3-9 [as printed]). Here, because it is a word denoting the cause that brings about fear, the fifth case (ablative) sense is conveyed though the word stands in the fourth case: 'from anger'. It is explained that at the time of slaying Vṛtra even heaven and earth trembled from Indra's anger."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.11)** *(grammar page, noted briefly)*
 
