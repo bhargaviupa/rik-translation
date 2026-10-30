@@ -17725,4 +17725,48 @@ Second: the description that the third step (or station) of all of them lies in 
 
 ---
 
-**Progress note:** printed p. 632 (PDF 652) done — Sūkta 183 Ṛk 1 ends (Special Topics, grammar); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 633). Next: printed p. 633 (PDF 653). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 633  (PDF 653)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 633.)*
+
+**Pratipadārtha (continued)** — (coming to our sacrificial hall;) **anantaraṃ** — afterwards; **vapuṣyā** — conducive to the growth of your bodies (promoting the welfare of your bodies); **iyaṃ gīḥ** — this praise of ours; **vapuḥ sacatāṃ** — may it join your bodies; (you two) **divaḥ** — of the heaven-world, or of the Āditya; **duhitrā** — in the position of the daughter; **uṣasā** — with Uṣas, the deity of dawn; **saceṭhe** — unite (come to the sacrifice, become associated).
+
+**Bhāvārtha** — O Aśvin deities, the chariot in which you two ride, resolved on the performance of the sacrifice, with its wheels turning well, invites you to the place of sacrifice; may this praise of ours promote the growth of your bodies; and, together with Uṣas, who stands in the position of the daughter of the Āditya, come to our sacrificial hall.
+
+**English Translation.** *(printed)*
+
+"Your easy-rolling car alights upon the earth where, favourable to the sacred rite, you stop for the sake of the (sacrificial) food : may this hymn, promotive of your personal (welfare), be associated with your forms, and do you unite with the dawn, the daughter of heaven."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Kratumantā** — this word is an epithet of the Aśvin deities. The senses of the word *kratu* — "sacrifice", "water", "truth" — and the uses in them, were told before. In the present context it is explained by Sāyaṇa that the epithet "rite" (*sacrifice*) shows their presidency over actions in the form of sacrifice. Or whatever meaning is given to this word, it fits. If *ṛta* is explained as "water", the relation of the Aśvin deities to rain is well known. If it is explained as "truth", it was told before that these Aśvin deities themselves are the ones who, pervading the whole universe, have the form of Āditya and all the rest. If it is explained as "sacrifice", it was told that all the rites such as the Prātaḥ-savana are accomplished only after their manifestation. Hence, whatever sense is told for the epithet *kratumantā*, it is suitable.
+
+**Divaḥ duhitrā uṣasā saceṭhe** — for *divaḥ duhitrā* it is understood that the meaning is "daughter of the heaven-world" or "daughter of the Āditya". The constant relation between Uṣas and the Aśvin deities was told before. But in some places they are described as having a conjugal relation, and in some others as having the relation of siblings. This subject will be told in detail further on.
+
+### Printed p. 634  (PDF 654)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 634.)*
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *suvṛt* — "*śobhanaṃ vṛt vartanaṃ yasya saḥ*"; "*nañ-subhyām*" (Pā. Sū. 6-2-172 [?]) gives acute on the last syllable of the latter member. *tiṣṭhathaḥ* — root *ṣṭhā gatinivṛttau*; *laṭ* second person dual form; since *yat* is connected, there is no *sarvānudātta*; "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) — the *sārvadhātuka l* being unaccented, the root's accent remains. *kratumantā* — "*kratuḥ anayoḥ asti*", suffix *matup*, being *pit* it is unaccented; "*supāṃ sulug*" gives ā-substitution for the dual. *vapuṣyā* — "*vapuṣo hitā*"; suffix *ya* in the sense of benefit; by the suffix accent, final acute; in the feminine, *ṭāp* since it ends in *a*. *sacatām* — root *saca samavāye*; *loṭ* third person singular form; since it is after a *tiṅ*-final, *nighāta* accent. *divaḥ* — "*ūḍidaṃ padādi…*" (Pā. Sū. 6-1-171 [?]) — the genitive case-ending is acute.  ‖ 2 ‖
+
+### Sūkta 183, Ṛk 3  (printed p. 634; PDF 654)
+
+**Saṃhitā-pāṭha**
+
+> आ तिष्ठतं सुवृतं यो रथो वामनु व्रतानि वर्तते हविष्मान् ।
+> येन नरा नासत्येषयध्यै वर्तिर्याथस्तनयाय त्मने च ॥ ३ ॥
+
+**Pada-pāṭha**
+
+> आ । तिष्ठतं । सुऽवृतं । यः । रथः । वां । अनु । व्रतानि । वर्तते । हविष्मान् ।
+> येन । नरा । नासत्या । इषयध्यै । वर्तिः । याथः । तनयाय । त्मने । च ॥ ३ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ वां युवां सुवृतं शोभनवर्तनं रथमा तिष्ठतं । आश्रयेतं । यो रथो हविष्मान् । षष्ठ्यर्थे प्रथमा । हविष्मतो यजमानस्य व्रतानि कर्मा
+
+> *he aśvinau vāṃ yuvāṃ suvṛtaṃ śobhanavartanaṃ rathamā tiṣṭhataṃ | āśrayetaṃ | yo ratho haviṣmān | ṣaṣṭhyarthe prathamā | haviṣmato yajamānasya vratāni karmā*
+
+---
+
+**Progress note:** printed p. 634 (PDF 654) done — Sūkta 183 Ṛk 2 ends (Pratipadārtha, Bhāvārtha, printed English, Special Topics, grammar); Ṛk 3 Saṃhitā, Pada, bhāṣya begun (continues p. 635). Next: printed p. 635 (PDF 655). Open flags: refs [?]; review/doubts_v13.json.
