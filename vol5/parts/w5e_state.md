@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 640 (check pages: p626-629, p630-631, p632-635, p636-639).
-Next page: p. 641 (PDF 657).
+Done through: p. 644 (file section p. 643 covers print 643-644) (check pages: p626-629, p630-631, p632-635, p636-639).
+Next page: p. 645 (PDF 661).
 Open items:
+- The file has no "Printed p. 644" heading: its p. 643 section also holds print p. 644 (PDF 660); refs 15-30 of that section were read from PDF 660 and logged as p. 643 (check-page crops for them may be missing).
 - p. 640: the print has "'ಅಸುರ'ನ (೧-೧೧೦-೩) ಆಹಾರವು ತುಂಬಿದ್ದ ಒಂದು ಹೊಸಬಟ್ಟಲನ್ನು (೧-೨೦-೬) ತಯಾರಿಸಿದನು" (made a new bowl full of food, 1-20-6); the translation lacks this clause and ref (not added: translation issue).
 - p. 634: 9-66-16 and 17 [?] (last number unsure); p. 635: print has "೯-೮೭-೯-೯;೯೬-೨" written 9-87-9; 9-96-2 [?]; p. 635 weapons printed "(೯; ೯೬-೧೬)" written 9-96-16.
 - Workflow: refs_w5d.py PAGE (list); parens_w5d.py PDF PREFIX 550 (montage); ltile_w5c.py PDF OUT A B 200 1 (strips for structure: the file often has a ref missing/extra vs the print); z_w5d.sh PDF "line:f0:f1" 500 (fractions); apply with refs_w5d.py PAGE apply MAP.json (+ "_text"); log lines prefixed with two spaces, added/merged refs written by hand.
