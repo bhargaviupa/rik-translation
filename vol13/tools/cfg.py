@@ -26,3 +26,16 @@ def part_of(g):
         if a<=g<=b: return p,g-a+1
     raise KeyError(f'PDF {g} is beyond the uploaded scan parts (last {PARTS[-1][2]}): upload the next part or stop')
 SCAN=OLD   # kept for old callers
+
+_ORI=None
+def flipped(g):
+    """True if PDF page g is stored upside down (from review/orient_v13.json, written by orient_v13.py, then spot-checked)."""
+    global _ORI
+    if _ORI is None:
+        import json
+        f=os.path.join(REVIEW,'orient_v13.json')
+        _ORI={int(k):v['rot']==180 for k,v in json.load(open(f)).items()} if os.path.exists(f) else {}
+        # manual overrides after visual checks: review/orient_fix_v13.json {page: 0|180}
+        f2=os.path.join(REVIEW,'orient_fix_v13.json')
+        if os.path.exists(f2): _ORI.update({int(k):v==180 for k,v in json.load(open(f2)).items()})
+    return _ORI.get(g,False)
