@@ -635,4 +635,46 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 ---
 
-**Progress note:** printed p. 30 (PDF 50) done — Sūkta 166 Ṛk 6 in progress (Special Topics: sucetunā; continues on p. 31). Next: printed p. 31 (PDF 51). Open flags: small-type reference numerals [?]; review/doubts_v13.json.
+### Printed p. 31  (PDF 51)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* **Special Topics (continued: *sucetunā*).** …(Ṛ. Saṃ. 5-64-3 [?], *tā bāhavā sucetunā pra yantamasmā arcate*) — in this ṛk, "O Mitra and Varuṇa, extend your arms (hands), which are favour-bestowing, to those who worship you (to us)": it is used with reference to Mitra and Varuṇa.
+
+> आ रयिमा सुचेतुनमा सुक्रतो तनूष्वा । पान्तमा पुरुस्पृहम् ॥ [?]
+
+> *ā rayimā sucetunamā sukrato tanūṣvā | pāntamā puruspṛham ‖ [?]*
+
+(Ṛ. Saṃ. 8-65-10 [?]) — only in this ṛk is *sucetunam* in the second case used instead of *sucetunā* in the third case; but the sense of the third case must be understood for it.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *sucetunā* (*śobhanaṃ cetuḥ tena*; root *citī saṃjñāne*; *oṇādika* suffix *u*; guṇa of the light penultimate by the *nimitta*; accent of the *kṛdutta* member remains; instrumental singular). *ariṣṭagrāmāḥ* (root *riṣa hiṃsāyām*; *kta* in the passive; *na riṣṭaḥ ariṣṭaḥ*; *ariṣṭo grāmo yeṣāṃ te*; the prior indeclinable member keeps its own accent). *sumatim* (root *mana jñāne*; *ktin*; *mantre vṛṣeṣa…* Pā. 3-3-96 [?] gives the acute to *ktin*; in the *prādisamāsa* the *kṛdutta* member keeps its own accent). *pipartana* (root *pṛ pūraṇe*; *juhotyādi*; *loṭ* 2nd plural; *tāḍeśa* [*tāt*-substitution, *tab*]; *taptanaptanathanāś ca* Pā. 7-1-45 gives *tana*; guṇa of the light penultimate by the *piṭ*-nimitta; *ṛtipibṛtyoś ca* [?] gives *i* to the reduplicate; no *nighāta* as it is after a *tiṅanta*). *yatra* (*nipātasya ca* Pā. 6-3-136 [?] lengthens in the Saṃhitā). *radati* (root *rada vilekhane*; *laṭ* 3rd singular; no *nighāta* by *yad*-connection; *śap*, *tip* being *anudātta*, the root-accent remains). *riṇāti* (root *rī gatireṣaṇayoḥ*; *kryādi*; *laṭ* 3rd singular; *prādīnāṃ hrasvaḥ* [?] shortens the root; pāda-initial so no *nighāta*; *tip* being *pit*, the vikaraṇa's accent remains). *paśvaḥ* (the word *paśu* + *śas*; *jasādiṣu chandasi vāvacanam*: *yaṇ* in place of the lengthened *u*).
+
+### Printed p. 32  (PDF 52)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* **Vyākaraṇa-prakriyā (continued).** *sudhitā* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *niṣṭhā* [*kta*]; *dadhāter hiḥ* gives *hi* for the root; *ṭāp* in the feminine; *gatir anantaraḥ* gives the *gati*'s own accent). ‖ 6 ‖
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> प्र स्कम्भदेष्णा अनवभ्रराधसोऽलातृणासो विदथेषु सुष्टुताः ।
+> अर्चन्त्यर्कं मदिरस्य पीतये विदुर्वीरस्य प्रथमानि पौंस्या ॥ ७ ॥
+
+> *pra skambhadeṣṇā anavabhrarādhaso 'lātṛṇāso vidatheṣu suṣṭutāḥ |*
+> *arcantyarkaṃ madirasya pītaye vidurvīrasya prathamāni pauṃsyā ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> प्र । स्कम्भऽदेष्णाः । अनवभ्रऽराधसः । अलातृणासः । विदथेषु । सुऽस्तुताः ।
+> अर्चन्ति । अर्कम् । मदिरस्य । पीतये । विदुः । वीरस्य । प्रथमानि । पौंस्या ॥ ७ ॥
+
+> *pra | skambha 'deṣṇāḥ | anavabhra 'rādhasaḥ | alātṛṇāsaḥ | vidatheṣu | su 'stutāḥ |*
+> *arcanti | arkam | madirasya | pītaye | viduḥ | vīrasya | prathamāni | pauṃsyā ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> प्र स्कम्भदेष्णाः प्रकर्षेण स्तम्भितदानाः । अविरतदाना इत्यर्थः । अनवभ्रराधसोऽभ्रष्टहविराधिधनाः [?] । राध इति धननाम । अलातृणासः । नकारस्य स्थाने लकारः । अनातृणास आतर्दनरहिताः । अथवा । अलं पर्याप्तमातर्दनाः शत्रूणाम् [?] । यद्वा । अलमत्यर्थं दातारः फलानाम् । एवंरूपा मरुतो विदथेषु योगेषु अर्कमर्चनीयमिन्द्रं स्वसखीभूतमर्चन्ति । पूजयन्ति । स्तुत्यादिना सम्भावयन्तीत्यर्थः । किमर्थं मदिरस्य मादनसाधनस्य सोमस्य पीतये पानाय । तस्येन्द्रस्य महत्त्वं कथं जानन्तीत्यत आह । ते मरुतो वीरस्य विविधं शत्रूणामीरकस्येन्द्रस्य प्रथमानि प्रतमानि [?] मुख्यानि पौंस्या पुंस्त्वानि वृत्रवधादिरूपाणि विदुः । जानन्ति ॥
+
+*Gist:* The Maruts, ceaseless givers, lavish with wealth, not neglectful of the oblation, well-praised in sacrifices, honour the worship-worthy Indra, their friend, for the drinking of the gladdening Soma, for they know the foremost manly deeds (such as the slaying of Vṛtra) of that hero.
+
+---
+
+**Progress note:** printed p. 32 (PDF 52) done — Sūkta 166 Ṛk 7: Saṃhitā, Pada, bhāṣya done. Next: printed p. 33 (PDF 53): Pratipadārtha of Ṛk 7. Open flags: small-type numerals [?]; review/doubts_v13.json.
