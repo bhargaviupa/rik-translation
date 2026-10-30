@@ -1932,4 +1932,52 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ---
 
-**Progress note:** printed p. 82 (PDF 102) done — Sūkta 167 Ṛk 3 Special Topics in progress (sabhāvatī; continues on p. 83). Next: printed p. 83 (PDF 103). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 83  (PDF 103)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* …is perceptible only in the rainy season: thus one kind of meaning is explained. In the second meaning, for the words *vidathyā vāk* the Bhāṣyakāra says "*vedanārhā vivadamānayor vāk*" — the speech of those who dispute, which is worth knowing, with a view to deciding the meaning by argument, with the *pūrvapakṣa* and the *siddhānta*; this speech is perceptible only at that time in the gathering of people in the midst of the assembly: so the line of clouds and lightning are perceptible only in the rainy season — thus it is described. By this the word *sabhāvatī* is explained here. The Maruts move with such lines of clouds and, bearing their weapons, may come to the sacrificial hall for the sacrifice: this is explained by the sentence "*evaṃrūpā yeṣu mimyakṣa te maruto devayajanam āgacchantv*". The word *vidatha* is stated among the names of sacrifice (Ni. 3-17 [?]); *vidathāni vedanāni* (Ni. 6-[?]) — it is also a word conveying the meaning "knowledge" (*vijñāna*).
+
+> होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥
+
+> *hotā devo amartyaḥ purastādeti māyayā | vidathāni pracodayan ‖*
+
+(Ṛ. Saṃ. 3-27-7 [?]) — in this example the word *vidathāni* is explained in the sense "knowledge".
+
+> मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् । यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि ॥
+
+> *mā no mitro varuṇo aryamāyurindra ṛbhukṣā marutaḥ pari khyan | yadvājino devajātasya sapteḥ pravakṣyāmo vidathe vīryāṇi ‖*
+
+(Ṛ. Saṃ. 1-162-1) — here the word *vidatha* is used in the sense "sacrifice". Sāyaṇa has explained both these kinds of meaning for the word *vidathyā* here. (See pp. 9–13.)
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *mimyakṣa* (root *myakṣa gatau*; *liṭ* 3rd singular; *parasmaipadānāṃ ṇalatusus…* Pā. 3-4-82 gives *ṇal*; the root is doubled; *bahulaṃ chandasi* gives *saṃprasāraṇa* to the reduplicate; *pūrvarūpa*; pāda-initial, so no *nighāta*; *liti* Pā. 6-1-193 [?] gives the acute to the syllable before the suffix). *sudhitā* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *kta* in the passive; by *vyatyaya* *dhi* in place of the root's *hi*; *gatir anantaraḥ* gives the *gati* accent; *ṭāp* in the feminine). *hiraṇyanirṇik* (*hiraṇyam iva nirṇik yasyāḥ sā*; *bahuvrīhau prakṛtyā pūrvapadam* gives the accent of the first member).
+
+### Printed p. 84  (PDF 104)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* **Vyākaraṇa-prakriyā (continued).** *guhā* (*supāṃ sulug…* Pā. 7-1-39 gives *luk* of the locative). *carantī* (root *cara gatibhakṣaṇayoḥ*; *śatṛ*; *ugitaś ca* Pā. 4-1-6 gives *ṅīp*; *śapśyanor nityam* Pā. 7-1-81 gives *num*; the root-accent remains). *sabhāvatī* (*sabhā asyāḥ asti iti*; *tadasyāstyasmin* … *matup*; *mādupadhāyāś ca* Pā. 8-2-9 gives *va* for *ma*; as it is *ugit*, *ṅīp* in the feminine; *matup* and *ṅīp* have *p*, so are *anudātta*). *vidathyā iva* (root *vida jñāne*; *athac* by *rudhividibhyāṃ jit* Uṇ. 3-[?]; as it is *jit*, no *laghūpadha-guṇa*; *vidathaṃ arhati iti vidathyā*; *yat* in the sense "worthy of"; *yasyeti ca* drops the preceding *a*; *tit svaritam* Pā. 6-1-185 gives *svarita*; *ṭāp* in the feminine). *vāk* (root *vaca paribhāṣaṇe*; *kvib vacipracchi…* Uṇ. 2-[?]; by the connection with it the penultimate of the root is lengthened; the *udātta* by the root's accent). ‖ 3 ‖
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> परा शुभ्रा अयासो यव्या साधारण्येव मरुतो मिमिक्षुः ।
+> न रोदसी अप नुदन्त घोरा जुषन्त वृधं सख्याय देवाः ॥ ४ ॥
+
+> *parā śubhrā ayāso yavyā sādhāraṇyeva maruto mimikṣuḥ |*
+> *na rodasī apa nudanta ghorā juṣanta vṛdhaṃ sakhyāya devāḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> परा । शुभ्राः । अयासः । यव्या । साधारण्याऽइव । मरुतः । मिमिक्षुः ।
+> न । रोदसी इति । अप । नुदन्त । घोराः । जुषन्त । वृधम् । सख्याय । देवाः ॥ ४ ॥
+
+> *parā | śubhrāḥ | ayāsaḥ | yavyā | sādhāraṇyā 'iva | marutaḥ | mimikṣuḥ |*
+> *na | rodasī iti | apa | nudanta | ghorāḥ | juṣanta | vṛdham | sakhyāya | devāḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(begins at the foot of p. 84)*
+
+> शुभ्राः शोभनालंकारा अयासोऽभिगन्तारो मरुतो यव्या मिश्रणशीलया विद्युता परा मिमिक्षुः । प्रकर्षेण सिञ्चन्त्युदकसंस्थाप्यम् [?] । साधारण्येव । यथा लोके साधारण्या स्त्रिया सङ्गता युवानो रेतो मुञ्चन्ति तद्वत् । एवं *[continues on the next page]*
+
+> *śubhrāḥ śobhanālaṃkārā ayāso 'bhigantāro maruto yavyā miśraṇaśīlayā vidyutā parā mimikṣuḥ | prakarṣeṇa siñcantyudakasaṃsthāpyam [?] | sādhāraṇyeva | yathā loke sādhāraṇyā striyā saṅgatā yuvāno reto muñcanti tadvat | evaṃ *[continues on the next page]**
+
+---
+
+**Progress note:** printed p. 84 (PDF 104) done — Sūkta 167 Ṛk 3 complete (grammar done); Ṛk 4: Saṃhitā, Pada and the start of the bhāṣya. Next: printed p. 85 (PDF 105). Open flags: small-type numerals [?]; review/doubts_v13.json.
