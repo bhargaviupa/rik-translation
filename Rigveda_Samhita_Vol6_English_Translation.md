@@ -12379,8 +12379,10 @@ In many Ṛks such as these the word *tmanā* is used in the sense of *ātmanā*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.7** *(first of the Gāyatrī Ṛks, 7–12)*
 
-> अवा नो अग्न ऊतिभिर्गायत्रस्य प्रभर्मणि ।
-> विश्वासु धीषु वन्द्य ॥ ७ ॥
+*(Accents as printed, 300 dpi; underline positions in line 1 doubtful: [accent ?].)*
+
+> अवा॑ नो अग्न ऊ॒तिभि॑र्गाय॒त्रस्य॒ प्रभ॑र्मणि ।
+> विश्वा॑सु धी॒षु वन्द्य॑ ॥ ७ ॥
 
 *avā no agna ūtibhir gāyatrasya prabharmaṇi |
 viśvāsu dhīṣu vandya ||7||*
