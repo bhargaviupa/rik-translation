@@ -8793,4 +8793,64 @@ Or it may be said that Indra is praised as the Āditya, stationed in heaven (*dy
 
 ---
 
-**Progress note:** printed p. 338 (PDF 358) done — Sūkta 174 Ṛk 5 Special Topics (Kutsa/Indra/Āditya; continues p. 339). Next: printed p. 339 (PDF 359). Open flags: Ṛg refs and some quotes [?]; Nirukta passage on Indra/Āditya garbled [?]; review/doubts_v13.json.
+### Printed p. 339  (PDF 359)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
+
+…in some places Indra is called the best. It is explained that Indra himself is the one who dwells in the form of the Ādityas. In this way, the identity of Indra and the Ādityas, and their identity of function, has been described in many places in the Ṛk-saṃhitā and in the Śatapatha and other Brāhmaṇas. (Śa. Brā. 4-4-3-… [?] and so on.)
+
+***syūmanyū*** — this word is used as an epithet of the word *aśvā*. The Nirukta-writers say that *syūmakam* is read among the names of happiness (Ni. 3-… [?]). Sāyaṇa, explaining "*tad icchantau satatagāminau vā*", gives the meaning "those who wish for comfort, or those who always move"; and then, the sage Kutsa says to Indra — "*ṛjrā*, moving by the straight path; *vātasya*, equal in speed to the wind — with such horses *kutsaṃ vaha*, bear (convey) the sage called Kutsa; *prasthāpaya*, set him forth": thus the wish of the sage (an instruction) is described. But this meaning does not fit properly, and the sense of the following sentences also is not clear.
+
+***yasmin cākan*** — "*haviṣi nimittabhūte sati kutsaṃ kāmayase tarpayase vā*": the meaning is explained that, Indra, desiring from him oblations, and the sage Kutsa offering them, he wishes for him; or that he satisfies the sage Kutsa with the oblations that are given to him. Yāska —
+
+> वने न वा यो न्यधायि चाकञ्छुचिर्वा स्तोमो भुरणावजीगः । यस्यैदिन्द्रः पुरुदिनेषु होता नृणां नर्यो नृतमः क्षपावान् ॥
+
+> *vane na vā yo nyadhāyi cākañ chucir vā stomo bhuraṇāvajīgaḥ | yasyed indraḥ purudineṣu hotā nṛṇāṃ naryo nṛtamaḥ kṣapāvān ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-29-1 [?]) — quoting this ṛk, he explains: "*cākan cāyann iti vā, kāmayamāna iti vā*" ("*cākan* means 'perceiving' or 'desiring'"). Durgācārya explains: "*cāyan paśyan, bhūyāt diśo nirīkṣamāṇaḥ, athavā tad utsukamanāḥ*" — "*cāyan* means 'looking', 'looking at the directions', or 'desirous in mind'".
+
+***sūraḥ abhīke cakraṃ bṛhatāt*** — although the word *abhīke* is not read in the Nirukta among the names of "near" (*āsanna*, *antika*), "*prapitve abhīke ity āsannasya abhīkte abhyakte*" (Ni. 3-20 [?]) shows it is used in the sense of "nearness". Sāyaṇa has given for *abhīke* the meaning *āsanne deśe*, "in a near place". For the word *sūra* he gives the meaning "the Sun, the impeller". For the sake of the coming of the sage Kutsa, the sun should make his own disc, or the wheel of his chariot, shine near the sacrificial hall (in its upper region): so the words of the sage addressed to Indra are described.
+
+### Printed p. 340  (PDF 360)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+***vajrabāhuḥ spṛdhaḥ abhi yāsiṣat*** — the word *spṛdhaḥ* is read among the names of battle (Ni. 2-… [?]). It is wished that Indra, who bears the thunderbolt, may go to battle against enemies.
+
+***vajraḥ kasmāt varjayatīti sataḥ*** — "why is it called *vajra*? Because it keeps off (*varjayati*) the living beings, separating their life-breaths": hence it is called *vajra* (Ni. 2-11 [?]). The greatness of such a thunderbolt, and how Indra obtained this weapon, are described in many places.
+
+> अस्मा इदु त्वष्टा तक्षद्वज्रं स्वपस्तमं स्वर्यं रणाय ।
+
+> *asmā idu tvaṣṭā takṣad vajraṃ svapastamaṃ svaryaṃ raṇāya |*
+
+(Ṛ. Saṃ. 1-61-6 [?]);
+
+> अनवस्ते रथमश्वाय तक्षन्त्वष्टा वज्रं पुरुहूत द्युमन्तम् ।
+
+> *anavas te ratham aśvāya takṣan tvaṣṭā vajraṃ puruhūta dyumantam |*
+
+(Ṛ. Saṃ. 5-31-4 [?]) —
+
+in many such ṛks it is described that Tvaṣṭṛ prepared for Indra the thunderbolt, full of light. And —
+
+> यं ते काव्य उशना मन्दिनं दाद्वृत्रहणं पार्यं ततक्ष वज्रम् ।
+
+> *yaṃ te kāvya uśanā mandinaṃ dād vṛtrahaṇaṃ pāryaṃ tatakṣa vajram |*
+
+(Ṛ. Saṃ. 1-121-12 [?]) — in such ṛks it is said that this was given to Indra by Uśanas Kāvya.
+
+> समुद्रे अन्तः शयत उद्ना वज्रो अभीवृतः । भरन्त्यस्मै संयतः पुरःप्रस्रवणा बलिम् ॥
+
+> *samudre antaḥ śayata udnā vajro abhīvṛtaḥ | bharanty asmai saṃyataḥ puraḥprasravaṇā balim ‖*
+
+(Ṛ. Saṃ. 8-100-9 [?]) — in these and other places the nature and the power of the thunderbolt are described. The power of the thunderbolt is declared thus: lying in the ocean, covered and hidden by water, as soon as it comes to the field of battle the enemies themselves offer their lives to it, as a tribute.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***vaha*** — root *vaha prāpaṇe*; the root includes *ṇic* in its sense; *loṭ*, second person singular; because it is in *pādādi* position, no *nighāta*; the root accent remains.
+- ***cākan*** — root *caka tṛptau*; after the *ṇijanta*, *laṅ*; the substitution *śatṛ*; by "*chandasy ubhayathā*" (Pā. Sū. 3-4-117 [?]) the *ārdhadhātuka* designation applies to it; by "*ṇer aniṭi*" (Pā. Sū. 6-4-51 [?]) the *ṇic* is dropped; no *śap* *vikaraṇa* either; by the suffix accent the final syllable is *udātta*.
+- ***syūmanyū*** — *syūmakam ātmanaḥ icchantau*; when *kyac* arises in the sense of desire, by "*kyāc chandasi*" (Pā. Sū. 3-2-170 [?]) the suffix *u*; by the suffix accent the end syllable is *udātta*.
+
+---
+
+**Progress note:** printed p. 340 (PDF 360) done — Sūkta 174 Ṛk 5 Special Topics complete; grammar in progress (continues p. 341). Next: printed p. 341 (PDF 361). Open flags: Ṛg/Nirukta/Śa. Brā. refs [?]; some quotes [?]; review/doubts_v13.json.
