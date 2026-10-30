@@ -11720,4 +11720,70 @@ Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and 
 
 ---
 
-**Progress note:** printed p. 434 (PDF 454) done — Sūkta 177 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada written. Next: printed p. 435 (PDF 455), Ṛk 3 bhāṣya. Open flags: Ṛg refs [?]; sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 435  (PDF 455)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; page 435.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे इन्द्र त्वं रथमा तिष्ठ । आश्रयस्व यज्ञगमनार्थम् । कीदृशं रथम् । वृषणं वर्षकं कामानाम् । किमर्थमिति चेत् उच्यते । ते त्वदर्थं वृषा वर्षकः सोमः सुतः । अभिषुतः । तथा मधूनि मधुराणि घृतक्षीरादीनि परिषिक्ता । परितः सिक्तानि संपादितानि । यद्वा । मधूनि मधुराः सोमरसाः चमसेषु पूरिताः । आगमनप्रकार उच्यते । हे वृषभ वर्षकेन्द्र वृषभ्यां वर्षकाभ्यां हरिभ्यां युक्त्वा रथं योजयित्वा क्षितीनां कर्मसु निवसतां यजमानानामस्माकमनुग्रहाय । क्षितीनां वृषभेति वा योज्यम् । प्रवता वेगवता रथेन मद्रिक् [?] अस्मदभिमुखमेव [?] उप याहि ॥
+
+*Gist:* Indra is asked to mount his showering chariot, since Soma is pressed and sweet offerings (ghee, milk) are ready; harnessing the two showering horses, he is to come swiftly towards us for our benefit.
+
+**Pratipadārtha**
+
+(*he*) **Indra** — O Indra! **te** — for you; **vṛṣā** — the one that showers desired objects, **somaḥ** — the Soma juice, **sutaḥ** — has been pressed (**tathā**, likewise), **madhūni** — sweet things such as ghee and milk, **pariṣiktā** — are sprinkled all around [or: **madhūni** — sweet Soma juices, **pariṣiktā** — are filled in the cups]. (Therefore) **vṛṣaṇam** — the giver of what is wanted, **ratham** — your chariot, **ā tiṣṭha** — mount; **kṣitīnām** — of the people (performing rites), the sacrificers; (*he*) **vṛṣabha** — O Indra who grants desires; **vṛṣabhyām** — with the showering, **haribhyām** — with the two (horses), **yuktvā** — having harnessed (the chariot), **kṣitīnām** — for the sacrificers who perform rites, our own favour; **pravatā** — with the swift chariot; **madrik** — towards us, facing us; **upa yāhi** — come near to us.
+
+**Bhāvārtha**
+
+O Indra, who showers desires! The Soma juice, which showers desires and is sweet, has been pressed and placed for you in the cups (and sweet things such as ghee are ready). Therefore mount your chariot that showers what is wanted: O Indra, giver of desired things to the sacrificers, harness to the chariot the two horses that give what is wanted, and, for the favour of us the sacrificers, sit in the swift chariot and come facing us.
+
+**Printed English**
+
+> Ascend your bounty-shedding car, for, for you the Soma, the showerer of benefiits [sic], is effused, the sweet libations are prepared. Bounty-shedding Indra, having harnessed them, came [sic] with your vigorous steeds for (the good of) mankind; come with your rapid (car) to my presence.
+
+### Printed p. 436  (PDF 456)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177"; page 436.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+*vṛṣaṇaṃ ratham; vṛṣā somaḥ; vṛṣabhyāṃ haribhyām; vṛṣabha* — and so on: words formed from the word *vṛṣan* are used as epithets of the chariot, of Soma, of Indra's horses and of Indra himself. Although the sense of the root is one and the same, these epithets have differences of meaning suited to the context.
+
+The words *vṛṣā* (from the root *vṛṣu secane* — "to sprinkle, to rain", giving what is wanted) and *vṛṣaṇa* are probably formed from that root; the words *vṛṣabhyām*, *vṛṣabha* are probably formed from the second root *vṛṣa śaktibandhane* ("to bind strength") that gives the sense "power and capacity". The word *vṛṣan* and the other epithets derived from this root have to be given the sense that suits the context.
+
+The word *vṛṣan* is used in many places in the sense of one possessed of the power to sprinkle, "male"; this word is used either as a synonym of *puruṣa* ("man"), the masculine-indicating word, or as a synonym of horses and other creatures.
+
+> ये त इन्द्र ददुषो वर्धयन्ति महि क्षत्रं स्थविरं वृष्ण्यं च ।
+
+> *ye ta indra daduṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca |*
+
+(Ṛ. Saṃ. 1-54-8 [?]) — in this the word *vṛṣṇyam* is *vṛṣatvam* and *puṃstvam* ("manliness");
+
+> स्तुतः श्रवस्यन्नवसोप मद्रिग्युक्त्वा हरी वृषणा योह्यर्वाङ् ।
+
+> *stutaḥ śravasyannavasopa madrigyuktvā harī vṛṣaṇā yohyarvāṅ |*
+
+(Ṛ. Saṃ. 1-82-3 [?]) — in the preceding ṛk *yuvānā* is said to mean "those who have attained", and in
+
+> भूषन्न योधि बभ्रूषु नम्नते वृषेव पत्नीरभ्येति रोरुवत्
+
+> *bhūṣanna yodhi babhrūṣu namnate vṛṣeva patnīrabhyeti roruvat*
+
+(Ṛ. Saṃ. 1-140-6 [?]) — *vṛṣā iva* is "like a bull that performs sprinkling (*secana*)"; and in
+
+> मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ॥
+
+> *mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ ‖*
+
+(Ṛ. Saṃ. 1-179-1 [?]) — *vṛṣaṇaḥ* is "*sektāraḥ puruṣāḥ*" (sprinklers, men). So also in many other places this word, indicating the masculine as it does, is used in meanings that show the power of male creatures. And in the same manner:
+
+> वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन्
+
+> *vṛṣā vāṃ megho vṛṣaṇā pīpāya gorna seke manuṣo daśasyan*
+
+(Ṛ. Saṃ. 1-181-8 [?]) — [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 436 (PDF 456) done — Sūkta 177 Ṛk 3: bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 437). Next: printed p. 437 (PDF 457). Open flags: Ṛg refs [?]; review/doubts_v13.json.
