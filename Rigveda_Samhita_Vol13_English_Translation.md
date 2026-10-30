@@ -10692,4 +10692,64 @@ Pervade with our praise him who is the sole sustainer of men, to whom the oblati
 
 ---
 
-**Progress note:** printed p. 402 (PDF 422) done — Sūkta 176 Ṛk 1 complete; Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (carṣaṇi; continues p. 403). Next: printed p. 403 (PDF 423). Open flags: Ṛk 2 bhāṣya partly doubtful [?]; Ṛg/Nirukta/Śa.Brā. refs [?]; review/doubts_v13.json.
+### Printed p. 403  (PDF 423)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+…in many such places the word *carṣaṇi* is explained as "people" (*prajā*). This epithet indicates an extraordinary quality in men. But there is a difference of opinion in stating the etymological meaning of the word. Monier Williams, in his Sanskrit-English Dictionary, gives for this word "cultivating, agile, active, shift" [as printed], and says that men are given the epithet *carṣaṇi* because they are full of activity in agriculture and the like; and he shows the root *kṛṣ* as its origin. The Nirukta-writers —
+
+> हविषा जारो अपां पिपर्ति पपुरिर्नरा । पिता कुटस्य चर्षणिः ॥
+
+> *haviṣā jāro apāṃ pipartti papurir narā | pitā kuṭasya carṣaṇiḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-96-4 [?]) — quoting this ṛk, for the word *carṣaṇi*, an epithet of Āditya, give the meaning "*cāyitā draṣṭā*", "the one who sees, the beholder". In the ṛk at hand, since Sāyaṇa explains "*jñānavatāṃ manuṣyāṇām*", the meaning "those who have sight in the form of knowledge" arises. This word is an epithet not only of men but of Indra and other deities too. As in the ṛk quoted by the Nirukta-writers, which describes the power of vision of the Āditya —
+
+> युवामिन्द्राग्नी वसुनो विभागे तवस्तमा शुश्रव वृत्रहत्ये । तावासद्या बर्हिषि यज्ञे अस्मिन्प्र चर्षणी मादयेथां सुतस्य ॥
+
+> *yuvām indrāgnī vasuno vibhāge tavastamā śuśrava vṛtrahatye | tāvāsadyā barhiṣi yajñe asmin pra carṣaṇī mādayethāṃ sutasya ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-109-3 [?]) — in such ṛks it describes, as an epithet of Indra and Agni, their power of vision. Sāyaṇa has explained "*sarvasya draṣṭārau indrāgnī*" — Indra and Agni, who have the capacity to see everything. In the ṛk at hand too it is said that men have sight in the form of knowledge. Thus Indra is the sole protector of such men: this is the meaning of the sentence *ekaḥ carṣaṇīnām*.
+
+***anu svadhā yam upyate*** — the statement that *svadhā*, the offering, ought to be given to Indra, the protector of all, points out the duty of man. *Svadhā* — *havirlakṣaṇam annam*: here, food in the form of oblation is meant. The Nirukta-writers have read this word among the names of water (Ni. 1-12 [?]) and among the names of food (Ni. 2-7 [?]). In many contexts the word *svadhā* means "own greatness, own splendour, self-support". For example —
+
+> शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी । अथो व्युच्छादुत्तराँ अनु द्यूनजरामृता चरति स्वधाभिः ॥
+
+> *śaśvat purā uṣā vyuvāsa devy atho adyedaṃ vy āvo maghonī | atho vyucchād uttarāṃ anu dyūn ajarāmṛtā carati svadhābhiḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-113-13 [?]).
+
+### Printed p. 404  (PDF 424)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+In this ṛk, where the word is used of Uṣas, it is explained as "*ātmīyais tejobhiḥ*" — "by her own splendours". Likewise —
+
+> यदन्तरिक्षे पतथः पुरुभुजा यद्वेमे रोदसी अनु । यद्वा स्वधाभिरधितिष्ठथो रथमत आ यातमश्विना ॥
+
+> *yad antarikṣe patathaḥ purubhujā yad ve me rodasī anu | yad vā svadhābhir adhitiṣṭhatho ratham ata ā yātam aśvinā ‖*
+
+(Ṛ. Saṃ. 8-10-6 [?]) — in this ṛk, describing the nature of the Aśvin deities, the meaning "*ātmīyais tejobhir balair vā sārdham*" — "with your own splendours, or together with your own powers" — is given. And —
+
+> न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ॥
+
+> *na mṛtyur āsīd amṛtaṃ na tarhi na rātryā ahna āsīt praketaḥ | ānīd avātaṃ svadhayā tad ekaṃ tasmād dhānyan na paraḥ kiṃ canāsa ‖*
+
+(Ṛ. Saṃ. 10-129-2) — in this ṛk Sāyaṇa has explained "*svasmin dhīyate dhriyate āśritya vartate iti svadhā*" — because it abides depending on its own support, the word *svadhā* is described as an epithet of Īśvara's (Parabrahman's) wonderful power, *māyā*. Thus this word is used in many senses. In the ṛk at hand it means food in the form of oblation.
+
+The use of this word is ancient, and, from the point of view of the science of language, it indicates many special meanings; explaining this word, the scholar Max Müller informs us as follows:
+
+> स्वधा, literally one's own place, afterwards, one's own nature. It was a great triumph for the science of comparative philology that, long before the existence of such a word as स्वधा in sanskrit was known, it should have been postulated by professor Benfey in 1839. स्वधा was known, it is true, in the ordinary Sanskrit but there it only occured as an exclamation used on presenting an oblation to the manes. It was also explained to mean food offered to deceased ancestors, or to be the name of a personification of माया or worldly illusion or of a nymph.
+
+> *svadhā, literally one 's own place, afterwards, one 's own nature. It was a great triumph for the science of comparative philology that, long before the existence of such a word as svadhā in sanskrit was known, it should have been postulated by professor Benfey in 1839. svadhā was known, it is true, in the ordinary Sanskrit but there it only occured as an exclamation used on presenting an oblation to the manes. It was also explained to mean food offered to deceased ancestors, or to be the name of a personification of māyā or worldly illusion or of a nymph.*
+>
+> The expressions अनु स्वधां and स्वधां अनु are of frequent occurance. They mean, according to the nature or character of the person spoken of and may be translated by as usual or accordig to a person's wont.
+
+> *The expressions anu svadhāṃ and svadhāṃ anu are of frequent occurance. They mean, according to the nature or character of the person spoken of and may be translated by as usual or accordig to a person 's wont.*
+
+[As printed: *स्वधा* and the other Sanskrit words inside this English quotation are set in Kannada letters in the print; "sanskrit", "occured", "occurance", "accordig" are the print's misprints: [sic].]
+
+The word *svadhā* is thus taken in the crude sense of "own place, own nature". It is also shown that it means the food offered to the forefathers (*pitṛs*). Besides these meanings, other meanings too can be learned from the usage of this word. For example —
+
+---
+
+**Progress note:** printed p. 404 (PDF 424) done — Sūkta 176 Ṛk 2 Special Topics (carṣaṇi, svadhā; Max Müller quotation; continues p. 405). Next: printed p. 405 (PDF 425). Open flags: Ṛg/Nirukta refs [?]; Max Müller quote reproduced as printed (Kannada-set Sanskrit words); review/doubts_v13.json.

@@ -3778,5 +3778,29 @@
   ],
   "note": "Rg ref 3-43-2; Satapatha ref 5-33-1; Nirukta 3-7 small; quotes approx",
   "answer": ""
+ },
+ {
+  "pdf": 423,
+  "printed": 403,
+  "crop": [
+   0.05,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-96-4?, 1-109-3, 1-113-13 small; Nirukta 1-12, 2-7; haviṣā jāro quote read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 424,
+  "printed": 404,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Max Muller quote: Kannada-set Sanskrit words inside English; reproduced as printed; 'maya' vs 'mayaya' glyph",
+  "answer": ""
  }
 ]
