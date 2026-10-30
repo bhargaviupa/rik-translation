@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 696 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694).
-Next page: p. 697 (PDF 713).
+Done through: p. 697 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694).
+Next page: p. 698 (PDF 714).
 Open items:
+- p. 697: last ref printed across a line break '(೧೦-೮೭-' / '೩-೬ ಇತ್ಯಾದಿ)', written 10-87-3-6 [?]; bold-looking first glyph in (೭-೧೦೪-೮) and Av. (೭-೭೬-೪) taken as ೭ (sūkta range); 10-86-16, 17 (೬ hook).
 - p. 696: 'Hā. Gṛ. Sū. ?' printed (ಮಾ. ಗೃ. ಸೂ. ೧-೧೦) = Mā. Gṛ. Sū. 1-10 (label corrected); last Av. paren (೮-೬; …) continues on p. 697.
 - p. 694: 'Vāj. Saṃ. 3-?' printed (ವಾಲ. ೩-೮) = Vāl. 3-8 (label corrected); (ಲ-ಲ೫-೧?) last read bold ೨ = 8-85-12.
 - p. 693: Paṃ. Brā. printed 19-7 (file 14-); Śuṣṇa paren (4-16-12, …) continues on print p. 694.
