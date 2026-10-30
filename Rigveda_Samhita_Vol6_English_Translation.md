@@ -11895,9 +11895,10 @@ as an example."
 *(Running head left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; right: "Ṛgvedasaṃhitā".)*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.3**
+*(Accents as printed, 300 dpi; exact syllable of several strokes/underlines is doubtful: [accent ?].)*
 
-> यदीमृतस्य पयसा पियानो नयन्नृतस्य पथिभी रजिष्ठैः ।
-> अर्यमा मित्रो वरुणः परिज्मा त्वचं पृञ्चन्त्युपरस्य योनौ ॥ ३ ॥
+> यदी॑मृ॒तस्य पय॑सा॒ पिया॑नो॒ नय॑न्न॒ ऋतस्य प॒थि॒भी रजि॑ष्ठैः ।
+> आ॒र्य॒मा मि॒त्रो वरु॑णः॒ परि॑ज्मा॒ त्वच॑म् पृ॒ञ्चन्त्यु॒प॑रस्य योनौ॑ ॥ ३ ॥
 
 *yad īm ṛtasya payasā piyāno nayann ṛtasya pathibhī rajiṣṭhaiḥ |
 aryamā mitro varuṇaḥ parijmā tvacaṃ pṛñcanty uparasya yonau ||3||*
