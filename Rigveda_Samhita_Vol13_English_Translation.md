@@ -7105,4 +7105,64 @@ in these and other ṛks this epithet is used for deities who are lords and guid
 
 ---
 
-**Progress note:** printed p. 282 (PDF 302) done — Sūkta 173 Ṛk 7 Special Topics (sajoṣasaḥ; continues p. 283). Next: printed p. 283 (PDF 303). Open flags: Ṛg/Nirukta/Bṛhaddevatā refs [?]; review/doubts_v13.json.
+### Printed p. 283  (PDF 303)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+By such sentences the *sajoṣatva* ("concord") of the Maruts and Indra is shown. For the word *kṣoṇīḥ* the meaning "*viśaḥ*" is given. The sentences of the Śatapatha and other Brāhmaṇas that show the relation of Indra as the lord and the Maruts as his subjects have been cited and shown earlier, in the Special Topics of Ṛk 1-… [?].
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***satām*** — genitive plural; by "*śatur anumo nadyajādī*" (Pā. Sū. 6-1-173 [?]) the case ending is *udātta*.
+- ***prapathintamam*** — "*atiśāyane tamabiṣṭhanau*" gives the suffix *tamap*; being *pit*, it is *anudātta*.
+- ***paritaṃsayadhyai*** — *pari* is a preposition; root *tasi alaṅkāre*, *curādi*; "*satyāpapāśa*…" (Pā. Sū. 3-1-25 [?]) gives *ṇic* in the sense of its own; "*idito num dhātoḥ*" (Pā. Sū. 7-1-58 [?]) gives *num*; to this, to show purpose, "*tumarthe sesenase*…" (Pā. Sū. 3-4-9 [?]) gives the suffix *adhyai*; the first syllable of the suffix is *udātta*; being ending in *ejanta* *kṛdanta*, it takes the name *avyaya*.
+- ***sajoṣasaḥ*** — *samānaṃ joṣaḥ yeṣāṃ te sajoṣasaḥ*; by "*samānasya chandasi*…" the word *samāna* becomes *sa*.
+- ***anumadanti*** — root *mada tṛptiyoge*; *laṭ*, third person plural; by "*yadvṛttānnityam*" (Pā. Sū. 8-1-66 [?]) *nighāta* is prohibited; by "*tiṅ ci codāttavati*" (Pā. Sū. 8-1-71 [?]) the preposition (*anu*) takes *nighāta* accent. ‖ 7 ‖
+
+---
+
+**Sūkta 173, Ṛk 8**
+
+**Saṃhitā-pāṭha**
+
+> एवा हि ते शं सवना समुद्रे आपो यत्त आसु मदन्ति देवीः ।
+> विश्वा ते अनु जोष्या भूद्गौः सूरींश्चिद्यदि धिषा वेषि जनान् ॥ ८ ॥
+
+> *evā hi te śaṃ savanā samudre āpo yat ta āsu madanti devīḥ |*
+> *viśvā te anu joṣyā bhūd gauḥ sūrīṃś cid yadi dhiṣā veṣi janān ‖ 8 ‖*
+
+**Pada-pāṭha**
+
+> एव । हि । ते । शम् । सवना । समुद्रे । आपः । यत् । ते । आसु । मदन्ति । देवीः ।
+> विश्वा । ते । अनु । जोष्या । भूत् । गौः । सूरीन् । चित् । यदि । धिषा । वेषि । जनान् ॥ ८ ॥
+
+> *eva | hi | te | śam | savanā | samudre | āpaḥ | yat | te | āsu | madanti | devīḥ |*
+> *viśvā | te | anu | joṣyā | bhūt | gauḥ | sūrīn | cit | yadi | dhiṣā | veṣi | janān ‖ 8 ‖*
+
+### Printed p. 284  (PDF 304)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> हे इन्द्र एवा ह्येवं हि सति ते तव संबन्धीनि सवनानि । सूयन्ते सोमोऽत्रेति सवनानि सोमयागाः । ते शं सुखकरा भवन्ति । कथं सति । यद्यदि देवीर्देव्यो द्योतमाना आपः समुद्रे उदकसमुद्रवणापादानभूतेऽन्तरिक्ष आसु प्रजासु निमित्तभूतासु ते त्वां मदन्ति मादयन्ति ॥ अन्तर्भावितण्यर्थोऽयम् ॥ यदा प्राण्युपकारार्थं वर्षणाय त्वां प्रेरयन्ति वृष्ट्युदकानि तदा खलु तव सोमयागाः सुखकरा भवन्ति यज्ञसाधनवृष्टिप्रदानेन यागान्निर्वर्तयेत्यर्थः । किंच हे इन्द्र विश्वा गौः सर्वापि स्तोत्रशस्त्ररूपा वाक्ते त्वामनुक्रमेण जोष्या जोषणार्हा प्रीणयित्री भूत् भवति । कदा । यदि सूरीञ्चित् स्तोत्रादिप्रेरयितॄन् स्तोतृजनानसि [?] धिषा धिषणया प्रज्ञया वृष्टिप्रदानरूपेण कर्मणा वा वेषि कामयसे तदा सर्वापि स्तुतिस्त्वदर्था भवति ॥
+
+> *he indra evā hy evaṃ hi sati te tava saṃbandhīni savanāni | sūyante somo 'treti savanāni somayāgāḥ | te śaṃ sukhakarā bhavanti | kathaṃ sati | yad yadi devīr devyo dyotamānā āpaḥ samudre udakasamudravaṇāpādānabhūte 'ntarikṣa āsu prajāsu nimittabhūtāsu te tvāṃ madanti mādayanti ‖ antarbhāvitaṇyartho 'yam ‖ yadā prāṇyupakārārthaṃ varṣaṇāya tvāṃ preyanti vṛṣṭyudakāni tadā khalu tava somayāgāḥ sukhakarā bhavanti yajñasādhanavṛṣṭipradānena yāgān nirvartayety arthaḥ | kiṃca he indra viśvā gauḥ sarvāpi stotraśastrarūpā vāk te tvām anukrameṇa joṣyā joṣaṇārhā prīṇayitrī bhūt bhavati | kadā | yadi sūrīñ cit stotrādipreyitṝn stotṛjanān asi [?] dhiṣā dhiṣaṇayā prajñayā vṛṣṭipradānarūpeṇa karmaṇā vā veṣi kāmayase tadā sarvāpi stutis tvadarthā bhavati ‖* [?]
+
+*Gist:* The Soma-offerings are pleasing to you when the divine waters in the sky rain on creatures; and all praise-speech is agreeable to you when you desire the praisers by rain-giving.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *devīḥ* — shining (divine); *āpaḥ* — the waters; *samudre* — in the atmosphere; *āsu* — for the sake of the creatures; *te* — to you; *yat madanti* — if they cause delight; *evā hi* — then, surely; *te* — your; *savanā* — Soma-sacrifices; *śam* — become (to you) happiness-giving, and; *yadi* — when; *sūrīn cit* — those who are the prompters of praise, etc.; *dhiṣā* — by knowledge (by the act of giving rain); *veṣi* — you desire; (*tadā* — then) *viśvā gauḥ* — the whole speech in the form of praise and recitation; *anu* — in succession; *te* — to you; *joṣyā* — pleasing; *bhūt* — becomes.
+
+**Bhāvārtha**
+
+O Indra, when the rain-waters, impelled by you for the benefit of creatures, stream down, the Soma-sacrifices become happiness-giving to you; and further, since the praisers have received their knowledge from you, all hymns and recitations become pleasing to you.
+
+**Printed English**
+
+The libations (offered) to you are, verily, the cause of happiness, since the divine waters (effused) in the firmament for the benefit of mankind
+
+---
+
+**Progress note:** printed p. 284 (PDF 304) done — Sūkta 173 Ṛk 7 complete; Ṛk 8: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English begun (continues p. 285). Next: printed p. 285 (PDF 305). Open flags: Ṛk 8 bhāṣya doubtful [?]; sūtra numerals [?]; review/doubts_v13.json.
