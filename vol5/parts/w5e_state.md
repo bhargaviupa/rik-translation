@@ -4,9 +4,10 @@ Branch: claude/pass2-vol5-pari2. Log: vol5/review/edits_w5e.txt. Tools as w5d (r
 Better-scan map (checked from headers): p. 626 = PDF 646, 627 = 647, 628 = 644, 629 = 645, 630 = 642, 631 = 643; from p. 632 on PDF = p. + 16 (checked at 633, 660, 690, 708).
 Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-like foot = ೭ (7) (consistent with p. 636 4-27-1, 9-51-2, 9-86-27); ಲ/ಅ-like = ೮; ε/ಕ-like with tail = ೯; ಜ-like = ೫; hook top-left = ೬.
 
-Done through: p. 689 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678).
-Next page: p. 690 (PDF 706).
+Done through: p. 690 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678).
+Next page: p. 691 (PDF 707).
 Open items:
+- p. 690: (1-174-2) added after 'Like the cities of Vṛtra'; Namuci/Śambara printed 5-30 (file 3-); several 7- refs printed with thin ೭ (file 2-).
 - p. 689: (೧-೧?೧-೯) middle digit faint, written 1-1[?]1-9; Tai. Saṃ. printed 3-5-4-1 (file 2-); 2-24-6; 9-111-2 printed (file 3-; 8-).
 - p. 688: Śat. Brā. printed 12-4-4-6 (file 13-); (೧೦-೧೫?-೪) third glyph read as thin ೭ = 10-157-4 (check). p. 687: Av. printed 4-20 (file 5-).
 - p. 686: Tai. Saṃ. (೨-?-೫-೩) second glyph odd, written 2-1-5-3 [?]; file's 2- refs printed 7-34-23 (thin ೭). p. 685: (೧-೧೭೨-೧) = 1-172-1; Kau. Sū. 116.
