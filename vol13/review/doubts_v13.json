@@ -4690,5 +4690,29 @@
   ],
   "note": "bhashya Rk3 dense; 'stramaha', 'praptim', 'prajayantau' read approx; grammar sutra number blank",
   "answer": ""
+ },
+ {
+  "pdf": 499,
+  "printed": 479,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "pratipadartha bracketed alt reading; spardh note",
+  "answer": ""
+ },
+ {
+  "pdf": 500,
+  "printed": 480,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 9-23, Rg 10-102-9, Un 2-?; sutra numerals small",
+  "answer": ""
  }
 ]

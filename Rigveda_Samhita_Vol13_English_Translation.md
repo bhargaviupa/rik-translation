@@ -13106,4 +13106,52 @@ In the ṛk at hand, Lopāmudrā, wishing for union with her husband Agastya, sh
 
 ---
 
-**Progress note:** printed p. 478 (PDF 498) done — Sūkta 179 Ṛk 2 complete; Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun. Next: printed p. 479 (PDF 499), Ṛk 3 Pratipadārtha continues. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 479  (PDF 499)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 479.)*
+
+**Pratipadārtha (continued)** — **mṛṣā** — in vain; **na śrāntam** — the labour borne by us (both) was not (in vain); **viśvāḥ** — all; **spṛdhaḥ it** — desires indeed; **abhi aśnavāva** — we two shall obtain; **atra** — in this world; **mithunau** — like husband and wife; **samyañcā** — well united with each other; **yat abhi ajāva** — if we strive well (or if one overcomes the other); **śatanītham** — which leads to immeasurable enjoyments; **ājim** — the mutual attainment; **jayāva** — we gain; [or: **ājim** — the battle in the form of love; **jayāva it** — may we two surely win].
+
+**Bhāvārtha**
+
+O wife Lopāmudrā! The deities, pleased with our austerities, protect us, and by their favour we obtain all our desires; so we must not call our hardship in vain. And in this world, if we two, as husband and wife, strive well, united with each other, we can attain boundless enjoyments. (May we two win enjoyment in the battle of love.)
+
+**Printed English**
+
+> (Agastya)—Penance has not been practised in vain: since the gods protect us, we may indulge all our desires: in this world we may triumph in many conflicts, if we exert ourselves mutually together.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Agastya gives his wife Lopāmudrā his answer and gives his consent to unite with her as she desired. But one more special point has to be noted here. In this conversation, desire is not shown as the primary objective. All the religious acts, such as sacrifices, have been performed; therefore, having produced the satisfaction of the deities and obtained their favour, Agastya afterwards expresses this wish. Particularly, in "*na mṛṣā śrāntam …*" — when he says that the toil they bore in austerity is not in vain — it is well known that the satisfaction of the deities is for the favouring of men. In the results that fit this effort, Agastya wishes to enjoy the worldly pleasure that is brought about by the favour of the deities.
+
+***spṛdhaḥ*** — the Nirukta-writers have listed the word *spṛdh* among the names of "battle" (*saṃgrāma*). But in the ṛk at hand Sāyaṇa has explained it as "desire" (*apekṣā*). If it is derived from the root *spardh*, then the sense "desire" also arises.
+
+### Printed p. 480  (PDF 500)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 480.)*
+
+The restraint of desire, being an extremely hard means, is here likened to battle.
+
+***ājim*** — "*ājayenasyājavanasyeti vā*" (Ni. 9-23 [?]) — "from the place for gaining victory, or from the place of swift movement": *āji* is the name of a battle. Explaining this word, the Nirukta-writers have cited the ṛk in the Ṛk-saṃhitā:
+
+> न्यक्रन्दयन्नुपयन्त एनममेहयन्वृषभं मध्य आजेः ।
+> तेन सूभर्वं शतवत्सहस्रं गवां मुद्गलः प्रधने जिगाय ॥
+
+> *nyakrandayannupayanta enamamehayanvṛṣabhaṃ madhya ājeḥ |*
+> *tena sūbharvaṃ śatavatsahasraṃ gavāṃ mudgalaḥ pradhane jigāya ‖*
+
+(Ṛ. Saṃ. 10-102-9 [?]) — and have given the above explanation for the word *ājeḥ* occurring in it. In the ṛk at hand also Sāyaṇa has given two meanings: first, *ājiṃ parasparaprāptim* ("mutual attainment"); and second, *surataruupasaṅgrāmaṃ vā* ("or the battle in the form of love-union") [as read].
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***śrāntam*** — root *śramu tapasi khede ca*; the suffix *kta*; by the suffix accent the final syllable is *udātta*.
+- ***avanti*** — root *ava rakṣaṇe*; *laṭ*, third person plural; because of *yad*-connection no *nighāta* occurs; by "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) the *lasārvadhātuka* is *anudātta*, so the root accent remains.
+- ***aśnavāva*** — root *aśū vyāptau*, *svādi* class; by "*vyatyayo bahulam*" (Pā. Sū. 3-1-85 [?]) *parasmaipada*; *loṭ*, first person dual; *tiṅ*-final *nighāta* accent.
+- ***jayāva*** — root *ji jaye*; *loṭ*, first person dual; being in *pādādi* position, no *nighāta*; the *lasārvadhātuka* is *anudātta*, so the root accent remains.
+- ***śatanītham*** — root *nīñ prāpaṇe*; by "*panikuṣinīramikāśibhyaḥ kthan*" (Uṇ. Sū. 2-[?]) the suffix *kthan*; in a *bahuvrīhi* compound, by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent; accusative singular.
+- ***samyañcā*** — by "*supāṃ sulukpūrvasavarṇa…*" (Pā. Sū. 7-1-39 [?]) *ā* in place of the dual *au*.
+- ***ājāva*** — root *aja gatikṣepaṇayoḥ*; *loṭ*, first person dual; because of *yad*-connection no *nighāta*; the root accent remains. ‖ 3 ‖
+
+---
+
+**Progress note:** printed p. 480 (PDF 500) done — Sūkta 179 Ṛk 3 complete. Next: printed p. 481 (PDF 501), Ṛk 4 Saṃhitā (Sūkta 179 has 6 ṛks). Open flags: refs [?]; review/doubts_v13.json.
