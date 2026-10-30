@@ -7275,4 +7275,71 @@ At the morning pressing the sacrificer addresses the Vasus: "Open for us the doo
 
 ---
 
-**Progress note:** printed p. 288 (PDF 308) done — Sūkta 173 Ṛk 8 Special Topics (savana; Chāndogya on the stages of life continues p. 289). Next: printed p. 289 (PDF 309). Open flags: Ai. Brā./Chā. Up. refs and quotations partly [?]; review/doubts_v13.json.
+### Printed p. 289  (PDF 309)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā"; signature mark "XIII 19" at foot.)*
+
+> तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा रुद्रा इदं मे माध्यंदिनं सवनं तृतीयसवनमनुसंतनुतेति माहं प्राणानां रुद्राणां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो ह भवति ।
+
+> *taṃ ced etasmin vayasi kiṃcid upatapet sa brūyāt prāṇā rudrā idaṃ me mādhyaṃdinaṃ savanaṃ tṛtīyasavanam anusaṃtanuteti māhaṃ prāṇānāṃ rudrāṇāṃ madhye yajño vilopsīyety uddhaiva tata ety agado ha bhavati |*
+
+(Chā. Up. 3-16-4 [?]). If, during this period of forty-four years, there be indisposition of the body, he should pray, addressing the Rudras, "O Rudras, the vital breaths, let this my midday pressing be continued into the third pressing; let not my life-sacrifice be broken off in the midst of you": thus the person is freed from the indisposition.
+
+> अथ यान्यष्टाचत्वारिंशद्वर्षाणि तत्तृतीयसवनमष्टाचत्वारिंशदक्षरा जगती जागतं तृतीयसवनं तदस्यादित्या अन्वायत्ताः प्राणा वावादित्या एते हीदं सर्वमाददते ।
+
+> *atha yāny aṣṭācatvāriṃśadvarṣāṇi tat tṛtīyasavanam aṣṭācatvāriṃśadakṣarā jagatī jāgataṃ tṛtīyasavanaṃ tad asyādityā anvāyattāḥ prāṇā vāvādityā ete hīdaṃ sarvam ādadate |*
+
+(Chā. Up. 3-16-5 [?]). The Jagatī, of forty-eight syllables, is the metre of the third pressing; hence the last forty-eight years of the man's life are the evening pressing (*sāyaṃsavana*). Since at the time of the departure of the breath the vital breaths take all (*ādadate*) with themselves, they are the Ādityas. And these breaths, in the form of Ādityas, are the presiding deities of this third pressing.
+
+> तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनुसंतनुतेति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति ।
+
+> *taṃ ced etasmin vayasi kiṃcid upatapet sa brūyāt prāṇā ādityā idaṃ me tṛtīyasavanam āyur anusaṃtanuteti māhaṃ prāṇānām ādityānāṃ madhye yajño vilopsīyety uddhaiva tata ety agado haiva bhavati |*
+
+(Chā. Up. 3-16-6 [?]). If indisposition arises in this period, he should pray, addressing the Ādityas, "Let my sacrifice not be broken in the midst; let my life be fulfilled whole": and then the life-sacrifice is carried through unbroken, complete in all its parts.
+
+> एतद्ध स्म वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद ।
+
+> *etad dha sma vai tad vidvān āha mahidāsa aitareyaḥ sa kiṃ ma etad upatapasi yo 'ham anena na preṣyāmīti sa ha ṣoḍaśaṃ varṣaśatam ajīvat pra ha ṣoḍaśaṃ varṣaśataṃ jīvati ya evaṃ veda |*
+
+(Chā. Up. 3-16-7 [?]). Since Mahidāsa Aitareya had this knowledge of the truth, it is described that, without fear of bodily illness and the like, he lived a hundred and sixteen years, fulfilling his life-sacrifice entirely and fully; thus the greatness of the three pressings, which are of the nature of a man's life, is described. In the ṛk at hand, the relation of Indra, the deity of all the sacrificial means such as showering (*vṛṣṇya*), with the *savana* — a relation beyond the ordinary — has been described. And to Indra
+
+### Printed p. 290  (PDF 310)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+— when the Soma sacrifices are performed in a manner that gives him satisfaction — "*viśvā gauḥ te joṣyā bhūt*" means that all speech, in the form of *stotra* and *śastra*, becomes pleasing to you; the arrangement of the *stotras* and *śastras* belonging to the Soma sacrifice is known as follows:
+
+**For the morning pressing (*prātaḥsavana*)**
+
+| *Stotras* | *Śastras* |
+|---|---|
+| *Bahiṣpavamāna* stotra | the *hotṛ*'s *ājya* śastra |
+| 4 *ājya* stotras | the *hotṛ*'s *praüga* śastra |
+| | 3 *ājya* śastras of the *hotṛka*s (Maitrāvaruṇa; Brāhmaṇācchaṃsin; Acchāvāka) |
+
+**For the midday pressing (*mādhyandinasavana*)**
+
+| *Stotras* | *Śastras* |
+|---|---|
+| *Mādhyandina-pavamāna* stotra | the *hotṛ*'s *marutvatīya* śastra |
+| 4 *pṛṣṭha* stotras | the *hotṛ*'s *niṣkevalya* śastra |
+| | 3 *niṣkevalya* śastras of the *hotṛka*s |
+
+**For the third pressing (*tṛtīyasavana*)**
+
+| *Stotras* | *Śastras* |
+|---|---|
+| *Ārbhava-pavamāna* stotra | the *hotṛ*'s *vaiśvadeva* śastra |
+| *Agniṣṭoma* sāman | the *hotṛ*'s *āgnimāruta* śastra |
+
+Thus, the word *gauḥ* is explained as "speech (*vāk*), of the nature of *stotra* and *śastra*", and indicates the close relation of Indra and the sacrifice, and of the sacrifice and speech. This relation is described as follows in the Śatapatha:
+
+> सोऽयं यज्ञो वाचमभिदध्यौ । मिथुन्येनया स्यामिति ताग्म् संबभूव ॥ इन्द्रो ह वा ईक्षांचक्रे । महद्वा इतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यन्मा तन्नाभिभवेदिति स इन्द्र एव गर्भो भूत्वैतन्मिथुनं प्रविवेश । स ह संवत्सरे जायमान ईक्षांचक्रे । महावीर्या वा इयं योनिर्यां मामदीधरते यद्वै म्यतो महदेवाभ्वं नानुप्रजायेत यन्मा तन्नाभिभवेदिति । … इन्द्रस्य योनिरसीतीन्द्रस्य ह्येषा योनिरक्रो वा ह्येनां प्रविशन्विशत्यतो वा जायमानो जायते तस्मादाहेन्द्रस्य योनिरसीति ॥ [as read; garbled in places; dots in the print: [?]]
+
+> *so 'yaṃ yajño vācam abhidadhyau | mithunyenayā syām iti tāgm saṃbabhūva ‖ indro ha vā īkṣāṃcakre | mahad vā ito 'bhvaṃ janiṣyate yajñasya ca mithunād vācaś ca yan mā tan nābhibhaved iti sa indra eva garbho bhūtvaitan mithunaṃ praviveśa | sa ha saṃvatsare jāyamāna īkṣāṃcakre | mahāvīryā vā iyaṃ yonir yāṃ mām adīdharata yad vai myato mahad evābhvaṃ nānuprajāyeta yan mā tan nābhibhaved iti | … indrasya yonir asīti indrasya hy eṣā yonir akro vā hy enāṃ praviśan viśaty ato vā jāyamāno jāyate tasmād āhendrasya yonir asīti ‖* [?]
+
+(Śa. Brā. 3-2-1-… [?]). The sacrifice desired speech and wished to take her as a consort; hence an alliance was made. Indra perceived that from this union of sacrifice and speech something great would be born, which would overcome him; therefore he himself entered that couple as the embryo; and being born in a year's time he again perceived that the womb in which he was borne was of great vigour, and so on. Therefore, for Indra, sacrifice and speech are well-known as sources of satisfaction.
+
+---
+
+**Progress note:** printed p. 290 (PDF 310) done — Sūkta 173 Ṛk 8 Special Topics (savana/vāk; continues p. 291). Next: printed p. 291 (PDF 311). Open flags: Chā. Up./Śa. Brā. refs and quotation details [?]; review/doubts_v13.json.
