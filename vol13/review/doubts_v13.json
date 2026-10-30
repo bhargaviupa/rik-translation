@@ -5194,5 +5194,29 @@
   ],
   "note": "Pratipadartha alt readings; 'jurnih' vs 'jurnah' in pada; bhavartha split across page",
   "answer": ""
+ },
+ {
+  "pdf": 541,
+  "printed": 521,
+  "crop": [
+   0.35,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-181-4?, Ni 2-5, small",
+  "answer": ""
+ },
+ {
+  "pdf": 542,
+  "printed": 522,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-164-28?, Ni 11-42, 3-21, 2-7, 2-9, 6-9; Rg 8-93-10, 10-95-12; 'ena satya' quote garbled",
+  "answer": ""
  }
 ]
