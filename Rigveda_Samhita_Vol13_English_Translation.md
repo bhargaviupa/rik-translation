@@ -6751,4 +6751,92 @@ Besides, the Nirukta-writers read the word *kakṣyā* among the names of "finge
 
 ---
 
-**Progress note:** printed p. 272 (PDF 292) done — Sūkta 173 Ṛk 6 Special Topics (aram; continues p. 273). Next: printed p. 273 (PDF 293). Open flags: Nirukta kakṣyā quotation garbled [?]; Ṛg/Nirukta ref numerals [?]; review/doubts_v13.json.
+### Printed p. 273  (PDF 293)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā"; signature mark "XIII 18" at foot.)*
+
+> वायवा याहि दर्शतेमे सोमा अरंकृताः ।
+
+> *vāyav ā yāhi darśate me somā araṃkṛtāḥ |*
+
+(Ṛ. Saṃ. 1-2-1);
+
+> अरं कृण्वन्तु वेदिं समग्निमिन्धतां पुरः ।
+
+> *araṃ kṛṇvantu vediṃ sam agnim indhatāṃ puraḥ |*
+
+(Ṛ. Saṃ. 1-170-4 [?]) —
+
+in such ṛks *araṃkṛta*, *araṃkṛṇvantu* mean "prepare, make ready"; and in
+
+> त्वमग्ने द्रविणोदा अरंकृते त्वं देवः सविता रत्नधा असि ।
+
+> *tvam agne draviṇodā araṃkṛte tvaṃ devaḥ savitā ratnadhā asi |*
+
+(Ṛ. Saṃ. 2-1-7 [?]) the meaning is "worship, serve". In the ṛk at hand, as in these,
+
+> सोमारुद्रा धारयेथामसुर्यं प्र वामिष्टयोऽरमश्नुवन्तु ।
+
+> *somārudrā dhārayethām asuryaṃ pra vām iṣṭayo 'ram aśnuvantu |*
+
+(Ṛ. Saṃ. 6-74-1 [?])
+
+and similar ṛks, the meaning is "sufficient to give satisfaction".
+
+***vṛjanaṃ na bhūma saṃvivye — bhūmiṃ bhūtāni vā vṛjanam iva | tad iva tad yathā āvṛṇoti tathā ayam api svatejasā samyag vāvṛṇoti lokatrayam*** — the word *vṛjana* is read among the names of strength (Ni. 2-9 [?]). It is compared to the way strength covers the earth and living beings. Here, by the word *bhūma*, the meaning "earth or living beings" is given. As that strength covers the earth and the living beings, so Indra has covered the three worlds with his splendour: so the meaning is described.
+
+***svadhāvān — annavān vṛṣṭilakṣaṇodakavān vā*** — the word *svadhā* is read among the names of water (Ni. 1-... [?]) and among the names of food (Ni. 2-... [?]). This name is used in yet another sense; here Indra, as one who has food and who has waters in the form of rain, is said to uphold the world of heaven: so the meaning is described.
+
+***svadhāvān*** — Sāyaṇa has given the meaning "possessing food, possessing waters in the form of rain". In some places Sāyaṇa himself has given two meanings for the word *svadhayā*: "*ātmīyena tejasā; havirlakṣaṇena annena vā*" ("by his own splendour; or by food in the form of oblation"); since, in the ṛk at hand, the power of Indra is said to exceed the greatness of heaven and earth, here *tejovān* ("splendid") seems the more suitable meaning. The Nirukta-writers have included this word both among the names of water (Ni. 1-... [?]) and among the names of food (Ni. 2-... [?]). In many contexts the meaning of the word *svadhā* is "one's own greatness, one's own splendour, or self-support". For example —
+
+### Printed p. 274  (PDF 294)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+> शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी । अथो व्युच्छादुत्तराँ अनु द्यूनजरामृता चरति स्वधाभिः ॥
+
+> *śaśvat purā uṣā vyuvāsa devy atho adyedaṃ vy āvo maghonī | atho vyucchād uttarāṁ anu dyūn ajarāmṛtā carati svadhābhiḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 1-113-13 [?]) — in this ṛk, used about Uṣas, the word means "by *ātmīyaistejobhiḥ*", "by her own splendours". Likewise —
+
+> यदन्तरिक्षे पतथः पुरुभुजा यद्वेमे रोदसी अनु । यद्वा स्वधाभिरधितिष्ठथो रथमत आ यातमश्विना ॥
+
+> *yad antarikṣe patathaḥ purubhujā yad ve me rodasī anu | yad vā svadhābhir adhitiṣṭhatho ratham ata ā yātam aśvinā ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 8-10-6 [?]) — here too the word means "with splendours (*tejobhiḥ*) or with strengths of one's own"; that is, "with your own splendours or your own powers". And
+
+> न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ॥
+
+> *na mṛtyur āsīd amṛtaṃ na tarhi na rātryā ahna āsīt praketaḥ | ānīd avātaṃ svadhayā tad ekaṃ tasmād dhānyan na paraḥ kiṃ canāsa ‖*
+
+(Ṛ. Saṃ. 10-129-2) — in this ṛk Sāyaṇa explains "*svasmin dhīyate dhriyate āśritya vartate iti svadhā*" — that which is held in itself, supported, and abides depending on itself, is *svadhā*; as it rests on its own support, the word is explained as an epithet of Īśvara (the Supreme Brahman), as that of the *māyā*, the wonderful power. In the same way the word may be understood in the present ṛk: Indra, by his extraordinary splendour, by his greatness, by the power that protects the worlds, has encompassed all the worlds. Besides —
+
+> स्वधामनु श्रियं नरो महि त्वेषा अमवन्तो वृषप्सवः । वहन्ते अह्रुतप्सवः ॥
+
+> *svadhām anu śriyaṃ naro mahi tveṣā amavanto vṛṣapsavaḥ | vahante ahrutapsavaḥ ‖*
+
+(Ṛ. Saṃ. 8-20-7 [?]);
+
+> वि विद्युतो न वृष्टिभी रुचाना अनु स्वधा मायुयुर्यैर्ऋभमाणाः । [?]
+
+> *vi vidyuto na vṛṣṭibhī rucānā anu svadhā māyuyuryair ṛbhamāṇāḥ |* [as read; garbled: [?]]
+
+(Ṛ. Saṃ. 5-… [?])
+
+— in such ṛks, since the usages "*svadhām anu*", "*anu svadhām*" occur, the meanings "naturally", "by nature", "as is proper to them" arise. And
+
+> अचिक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टम् ।
+
+> *acikrayā yat svadhayā suparṇo havyaṃ bharan manave devajuṣṭam |*
+
+(Ṛ. Saṃ. 4-26-4 [?]) — "by the chariot" is the meaning here; and
+
+> अपश्यं ग्रामं वहमानमाराद्अचक्रया स्वधया वर्तमानम् ।
+
+> *apaśyaṃ grāmaṃ vahamānam ārād acakrayā svadhayā vartamānam |* [as read: [?]]
+
+(Ṛ. Saṃ. 10-27-19 [?]).
+
+---
+
+**Progress note:** printed p. 274 (PDF 294) done — Sūkta 173 Ṛk 6 Special Topics (svadhā; continues p. 275). Next: printed p. 275 (PDF 295). Open flags: many Ṛg ref numerals [?]; quoted Ṛks partly doubtful; review/doubts_v13.json.

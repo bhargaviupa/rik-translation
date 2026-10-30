@@ -2230,5 +2230,29 @@
   ],
   "note": "itttha: Nirukta refs 5-5, 3-16, 6-3 small; Rg 5-32-2 quote tyam cid ittha.. read approx",
   "answer": ""
+ },
+ {
+  "pdf": 293,
+  "printed": 273,
+  "crop": [
+   0.1,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-2-1, 1-170-4, 2-1-7, 6-74-1 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 294,
+  "printed": 274,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-113-13, 8-10-6, 8-20-7, 5-.., 4-26-4, 10-27-19 small; vi vidyuto na vrstibhi quote garbled",
+  "answer": ""
  }
 ]
