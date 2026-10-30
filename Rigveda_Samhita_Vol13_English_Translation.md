@@ -3590,4 +3590,46 @@ Sāyaṇa, in explaining the second meaning: "*dakṣiṇāśabdo deyadravyasām
 
 ---
 
-**Progress note:** printed p. 160 (PDF 180) done — Sūkta 169 Ṛk 4 Pratipadārtha to Special Topics (continues p. 161). Next: printed p. 161 (PDF 181). Open flags: Ṛk 4 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 161  (PDF 181)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9"; a signature mark "XIII 11" is printed at the foot. The Special Topics of Ṛk 4 continue.)*
+
+(*vāyu* continued) — whether the word *vāyu* is formed from the root *vā* or from the root *iṅ*, Śākaṭāyana says that the word *vāyu* is formed from the root *iṅ*, "*anarthako vakāraḥ*" — in this word the letter *va* has no meaning: thus Yāska explains the word *vāyu*.
+
+Sāyaṇa explains, in "*vāyoḥ te stutaḥ*", the word *te* as a genitive in the sense of the object ("*karmaṇi ṣaṣṭhī*"): "*vāyuṃ tvā stutaḥ ye asmadīyāḥ stotāraḥ*" — the praisers of ours praise you, who are Vāyu (the one who moves), with praises: this is one kind of meaning.
+
+In the second, "*yāḥ stutayaḥ tvā neva akāmayanta*" — the praises recited by the priests are directed to you alone: this meaning is explained.
+
+***vājyaiḥ pīpayanta madhvaḥ stanaṃ na*** — here "*tvāṃ hotrādayaḥ havirlakṣaṇairannaiḥ āpyāyayanti*" and "*madhurasya stanyasya lābhāya sāravadbhir annaviśeṣaiḥ iva āpyāyayanti*" are given as the comparison: the sense is that the priests such as the *hotṛ* satisfy Indra, who bestows abundant favour, with praise and oblations, as in the world women are satisfied by substantial food in order to obtain sweet milk; it is likened thus.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *dāḥ* (root *ḍudāñ dāne*; *luṅ* in the sense of the imperative by "*chandasi luṅlaṅliṭaḥ*", Pā. Sū. 3-4-6 [?]; 2nd singular *sip*; loss of *i* by "*iteś ca*"; *cli* replaced by *sic*; *luk* of *sic* by "*gātisthāghupābhūbhyaḥ sicaḥ parasmaipadeṣu*", Pā. Sū. 2-4-77 [?]; no augment *aṭ* by "*bahulaṃ chandasyamāṅyoge'pi*", Pā. Sū. 6-4-75 [?]; *nighāta* accent); *ojiṣṭhayā* (the affix *vini* after *ojas* in the sense of possession; *iṣṭhan* in the sense of excess after it; loss of *vin* by "*vinmatorluk*", Pā. Sū. 5-3-65 [?]; loss of the (*as*) of the *ṭi* part by "*ṭeḥ*", Pā. Sū. 6-4-155 [?]; *ṭāp* in the feminine; the first syllable acute since the affix is *ñ*-marked); *rātim* (by the force of "*bahulagrahaṇa*", *ktin* in the agent sense; acute by "*mantre vṛṣeṣapacamanaviḍāvanarakṣaśā…*", Pā. Sū. 3-3-96 [?]); *stutaḥ* (root *ṣṭuñ stutau*; by "*kviṣ ca*" [as read], Pā. Sū. 3-2-76 [?], the affix *kvip*; the augment *tuk* by "*hrasvasya piti kṛti tuk*", Pā. Sū. 6-1-71 [?]; nominative plural form).
+
+### Printed p. 162  (PDF 182)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+*(Grammar of Ṛk 4, continued; noted briefly)*: *cakananta* (root *kana dīptikāntigatiṣu*; *luṅ* after the causal; Vedic 3rd plural, with *anta* as the substitute; *caṅ* in place of *cli* by "*ṇiśridrusrubhyaḥ kartari caṅ*", Pā. Sū. 3-1-48 [?]; reduplication of the root by "*caṅi*", Pā. Sū. 6-1-11 [?]; *c* replaces the velar of the reduplicative syllable by "*kuhoścuḥ*"; loss of *ṇic* by "*ṇer aniṭi*", Pā. Sū. 6-4-51 [?]; by the statement "*sañjñāpūrvako vidhir anityaḥ*" the rules of *i*-substitution and the like do not apply to the reduplicative syllable; no augment *aṭ* in the Veda; the loss of the *nighāta* by "*yadvṛttānnityam*", Pā. Sū. 8-1-66 [?]; the first member before *caṅ* is acute by "*caṅyanyatarasyām*", Pā. Sū. 6-1-218 [?]); *vāyoḥ* (root *vā gatigandhanayoḥ*; the affix *uṇ* by "*kṛvāpājimisvadisāhilaṅghyadhyanyaśū…*" (Uṇ. Sū. 1-1) [as read]; the augment *yuk* by "*āto yuk ciṇkṛtoḥ*", Pā. Sū. 7-3-33 [?]; accent on the last syllable by the affix; genitive in the sense of the object); *madhvaḥ* (by "*jasādiṣu chandasi vāvacanam*" no *guṇa* and the like before the genitive singular; *yaṇ* substitution); *pīpayanta* (root *pā pāne*; *ṇic* by "*hetumati ca*"; the augment *yuk* by "*śācchāsāhvāvyāvepāṃ yuk*", Pā. Sū. 7-3-37 [?]; Vedic *luṅ* after the causal; *caṅ* in place of *cli*, and the rest as before; *nighāta* because it stands after a word ending in a verb). ‖ 4 ‖
+
+*(ornamental rule — a printer's ornament)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> त्वे राय इन्द्र तोशतमाः प्रणेतारः कस्य चिदृतायोः ।
+> ते षु णो मरुतो मृळयन्तु ये स्मा पुरा गातूयन्तीव देवाः ॥ ५ ॥
+
+> *tve rāya indra tośatamāḥ praṇetāraḥ kasya cidṛtāyoḥ |*
+> *te ṣu ṇo maruto mṛḷayantu ye smā purā gātūyantīva devāḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वे इति । रायः । इन्द्र । तोशऽतमाः । प्रऽनेतारः । कस्य । चित् । ऋतऽयोः ।
+> ते । सु । नः । मरुतः । मृळयन्तु । ये । स्म । पुरा । गातुयन्तिऽइव [?] । देवाः ॥ ५ ॥
+
+> *tve iti | rāyaḥ | indra | tośa 'tamāḥ | pra 'netāraḥ | kasya | cit | ṛta 'yoḥ |*
+> *te | su | naḥ | marutaḥ | mṛḷayantu | ye | sma | purā | gātuyanti 'iva [?] | devāḥ ‖ 5 ‖*
+
+---
+
+**Progress note:** printed p. 162 (PDF 182) done — Sūkta 169 Ṛk 4 complete; Ṛk 5 Saṃhitā and Pada written. Next: printed p. 163 (PDF 183): bhāṣya of Ṛk 5. Open flags: small-type numerals [?]; Ṛk 5 Pada 'gātuyanti-iva' [?]; review/doubts_v13.json.
