@@ -4522,5 +4522,29 @@
   ],
   "note": "refs Rg 2-21-2, Ni 3-13, grammar sutra numerals small",
   "answer": ""
+ },
+ {
+  "pdf": 485,
+  "printed": 465,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'mr prana-tyage' root; sutra 3-1-123 name garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 486,
+  "printed": 466,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-9, Ni 1-7, Rg 2-11-21 small; 'opulent' first letter faint",
+  "answer": ""
  }
 ]
