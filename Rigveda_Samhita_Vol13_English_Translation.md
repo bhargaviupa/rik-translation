@@ -12396,4 +12396,62 @@ Uṣas (Dawn) is said to be the elder sister of Night. With the rising of Uṣas
 
 ---
 
-**Progress note:** printed p. 454 (PDF 474) done — Sūkta 178 Ṛk 2: bhāṣya…printed English, Special Topics begun (svasārā; continues p. 455). Next: printed p. 455 (PDF 475). Open flags: refs [?]; bhāṣya words [?]; review/doubts_v13.json.
+### Printed p. 455  (PDF 475)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 455.)*
+
+**Special Topics (continued)** — … so it is explained. Here the word *yoni* means "place of origin". Many other meanings of the word *yoni* have been given earlier; among them, "place of origin" is the one most commonly known in usage.
+
+> वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये ।
+
+> *vediṣade priyadhāmāya sudyute dhāsimiva pra bharā yonimagnaye |*
+
+(Ṛ. Saṃ. 1-140-1 [?]) — in such ṛks it is well known that *yoni* denotes the place called the altar (*vedi*). In Saṃhitā sentences such as "*ā sve yonau niṣīdatu*" (Ṛ. Saṃ. 6-16-40 [?]) and in Brāhmaṇa sentences such as "*eṣa ha vā asya svo yonir yadagnir agneḥ* [?]" (Ai. Brā. 1-18 [?]) this meaning is explained too. Besides this, for "*yonau*" in the ṛk at hand, Sāyaṇa has explained *yoni* as a synonym of *yajña* ("the sacrifice, the place that produces fruit"). This meaning is also natural. For, since the sacrifice is the cause of the origin and the maintenance of all worlds, and is the means of binding, in mutual relation, all beings from the gods downward, it has the epithets *bhuvanasya yoniḥ*, *bhuvanasya nābhiḥ* ("womb of the world", "navel of the world") and so on. Since the sacrifice is the place of origin for all worldly dealings, it is well known as *yoni*. Thus:
+
+> स एतेन यज्ञेन देवेभ्य आत्मानं निरक्रीणीत स यद्वै तेन [?] यथैव [?] यत्वे [?] प्रजापतिर्देवेभ्य आत्मानं प्रायच्छदेवमेवैष एतद्देवेभ्य आत्मानं प्रयच्छति तस्मादु संयत एवैतां रात्रिं चिचरिषेद्यथा हविषा चरेदेवं हविर्ह्येष देवानां भवति ।
+
+> *sa etena yajñena devebhya ātmānaṃ nirakrīṇīta sa yadvai tena [?] yathaiva [?] yatve [?] prajāpatirdevebhya ātmānaṃ prāyacchadevamevaiṣa etaddevebhya ātmānaṃ prayacchati tasmādu saṃyata evaitāṃ rātriṃ cicariṣedyathā haviṣā caredevaṃ havirhyeṣa devānāṃ bhavati |*
+
+(Śa. Brā. 11-1-8-3 [?]) — Prajāpati, pleased with the sacrifice of the gods, offered himself to them; afterwards he made again a counterpart of himself, a substitute for the sacrifice (*yajña-pratinidhi*). Thus, for the sake of the sacrifice, he created his own likeness; and those who understood this reflection call Prajāpati, the womb of the world, by the name *yajña*. This sacrifice is the thread that shows the single connection of everything in the world; it is also called "the wheel of the world" (*viśvacakra*). For example:
+
+> अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसंभवः ।
+> यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥
+> कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।
+> तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥
+
+> *annādbhavanti bhūtāni parjanyādannasaṃbhavaḥ |*
+> *yajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ ‖*
+> *karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavam |*
+> *tasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitam ‖*
+
+(Bha. Gī. 3-14 to 15, as printed [?]) — from the sacrifice, which is action, comes rain; from rain, food; from food, the beings. This sacrifice in the form of action arose from Brahman. Therefore, beginning with the creation of the world, for all kinds of worldly dealings and for the recurring cycle that is the wheel of the world, the supreme Brahman is constantly established in the sacrifice. [The passage continues on the next page.]
+
+### Printed p. 456  (PDF 476)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 456.)*
+
+… and so on: in the Gītā and elsewhere the sacrificer's role in the sacrifice is described as taught in Vedic statements. This truth of the sacrifice, described as "*bhuvanasya yoniḥ*" ("the womb of the world"), the Ṛk-saṃhitā praises in this way also in various other portions. For example:
+
+> यज्ञेन यज्ञमयजन्त देवास्तानि धर्माणि प्रथमान्यासन् ।
+> ते ह नाकं महिमानः सचन्त यत्र पूर्वे साध्याः सन्ति देवाः ॥
+
+> *yajñena yajñamayajanta devāstāni dharmāṇi prathamānyāsan |*
+> *te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ ‖*
+
+(Ṛ. Saṃ. 10-90-16 [?]) — the gods worshipped Prajāpati in the form of the sacrifice, by the sacrifice, which was their own resolve (*saṅkalpa*) in form and meditative in nature. All the cosmic laws (*dharma*) have this sacrifice as their root. These very laws of the sacrifice, established in the intermediate region, are in the places of the gods who dwell in heaven. It is by the sacrifice that all beings obtain the food and the strength that sustain them. This sacrifice itself places the three worlds in their stability. Thus:
+
+> कल्पन्तेऽस्मा इमे लोका ऊर्जं प्रजासु दधाति त्रिरात्रेणैवेमं लोकं कल्पयति त्रिरात्रेणान्तरिक्षं त्रिरात्रेणामुं लोकं यथा गुणे गुणमन्वस्यत्येवमेवैतल्लोके लोकमन्वस्यति धृत्या अशिथिलं भावाय ।
+
+> *kalpante 'smā ime lokā ūrjaṃ prajāsu dadhāti trirātreṇaivemaṃ lokaṃ kalpayati trirātreṇāntarikṣaṃ trirātreṇāmuṃ lokaṃ yathā guṇe guṇamanvasyatyevamevaitalloke lokamanvasyati dhṛtyā aśithilaṃ bhāvāya |*
+
+(Tai. Saṃ. 7-3-4-3 [?]) — through this sacrifice in the form of nine nights, the three worlds obtained coherence. By a three-night rite he set the earth in order, by a three-night rite the intermediate region, and by the remaining three-night rite the heavenly world: Prajāpati established them with the sacrifice's own power of maintenance. As the weaver joins thread with thread (warp and woof, *otaprota*) to make cloth, so, to prevent looseness and to produce for all a single bond-like power, he established for the three worlds, in their fixed positions, the relation of warp and woof. This sacrifice is the pulse (*nāḍi*) of the life of the world. The Śatapatha Brāhmaṇa describes this very thing:
+
+> सर्वेषां वा एष भूतानां सर्वेषां देवानामात्मा यद्यज्ञस्तस्य समृद्धिमनु यजमानः प्रजया पशुभिर्ऋध्यते ।
+
+> *sarveṣāṃ vā eṣa bhūtānāṃ sarveṣāṃ devānāmātmā yadyajñastasya samṛddhimanu yajamānaḥ prajayā paśubhirṛdhyate |*
+
+(Śa. Brā. 14-3-2-1 [?]) — the sacrifice is stated to be the soul of all men and of all deities. Thus, in the order of the world, for every individual to attain an existence full of its own power, the sacrifice is the thread that links the general with the particular. This sacrifice, in the form of a thread, grows along with the expansions and contractions of the world; at one time it expands, at another it contracts … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 456 (PDF 476) done — Sūkta 178 Ṛk 2 Special Topics (yoni = yajña; continues p. 457). Next: printed p. 457 (PDF 477). Open flags: refs [?]; garbled SB quote p. 455; review/doubts_v13.json.
