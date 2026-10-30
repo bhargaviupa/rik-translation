@@ -16571,4 +16571,72 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 ---
 
-**Progress note:** printed p. 592 (PDF 612) done — Sūkta 181 complete (Ṛk 9 grammar, closing); Sūkta 182 (8 ṛks) heading, anukramaṇikā, anuvāda, Ṛk 1 Saṃhitā, Pada, bhāṣya. Next: printed p. 593 (PDF 613): Ṛk 1 Pratipadārtha onward. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 593  (PDF 613)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 593.)*
+
+**Pratipadārtha** — (*he*) **manīṣiṇaḥ** — O wise (intelligent) priests; **vṛṣaṇvān** — showering desired things; **rathaḥ** — (of the Aśvin deities) the chariot; (**āgataḥ** — has come, is implied); **idaṃ** — this; **vayunaṃ** — knowledge; **abhūt** — (to us) has arisen; **o ṣu bhūṣata** — (the Aśvin deities in that chariot) adorn well (praise); **sukṛte** — to (me) who has well done the rites; **dhiyaṃjinvā** — impellers of rite (knowledge); **dhiṣṇyā** — worthy of knowledge (praise); **viśpalāvasū** — those whose wealth protects the people (or: those who gave a golden leg to Viśpalā, whose leg was cut); **divaḥ** — of the Āditya; **napātā** — the grandsons; **śucivratā** — those of radiant works (who do pure works) — **madata** — gladden (the Aśvin deities with worship etc.).
+
+**Bhāvārtha** — O priests, men of knowledge, it has come to us to know that the chariot of the Aśvin deities, who fulfil desires, has arrived; therefore, ready to worship them, gladden with worship etc. those who are the impellers of me, the performer of rites, who are worthy of praise, whose wealth protects the people, the grandsons of the Āditya, who ever do pure works.
+
+**English Translation.** *(printed)*
+
+"The information, sage (priests), has been received : be ready with your praises, for the (benefit) showering car (of the Ashwins has arrived) : propitiate (the divinities) for they show favour to the doer of good works : they are entitled to praise, rich in benevolence to mankind, the grandsons of heaven, and observers of holy rites."  XIII 38
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**Vayunaṃ** — the word *vayuna* is read among the names of knowledge (Ni. 3-13 [?]); "*vayunaṃ vetheḥ kāntir vā prajñā vā*" (Ni. 5-13 [?]): formed from the root *vī*, which gives the sense of "to go, to wish", it gives the sense of desire or knowledge. The Nirukta-author, citing the ṛk
+
+> स इत्तमोऽवयुनं ततन्वत्सूर्येण वयुनवच्चकार ।
+> कदा ते मर्ता अमृतस्य धामेयक्षन्तो न मिनन्ति स्वधावः ॥
+
+> *sa ittamo 'vayunaṃ tatanvatsūryeṇa vayunavaccakāra |*
+> *kadā te martā amṛtasya dhāmeyakṣanto na minanti svadhāvaḥ ‖*
+
+(Ṛ. Saṃ. 6-21-3 [?]; first line as read [?]), explains "*sa tenoऽprajñānaṃ tatanvat stotaṃ sūryeṇa prajñānavac cakāra*" (Ni. 5-13 [?]) — that it gives the sense that he spread the darkness-of-ignorance, and by the Sun made it knowledge-bearing, i.e. made what was in the form of darkness and beyond the reach of the senses an object of knowledge.
+
+### Printed p. 594  (PDF 614)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 594.)*
+
+> अग्ने नय सुपथा राये अस्मान्विश्वानि देव वयुनानि विद्वान् ।
+> युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नम उक्तिं विधेम ॥
+
+> *agne naya supathā rāye asmānviśvāni deva vayunāni vidvān |*
+> *yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te nama uktiṃ vidhema ‖*
+
+(Ṛ. Saṃ. 1-189-1) — in this ṛk, Śaṅkarācārya [as printed] has explained *vayunāni* as "*karmāṇi, prajñānāni vā*" — "works, or knowledges". Thus both senses are possible for this word. In the ṛk at hand it is understood that the chariot of the Aśvin deities, hidden till now, is now an object of our knowledge.
+
+**Dhiyaṃjinvā** — "*karmaṇo buddher vā prīṇayitārau*" — impellers of rite, or impellers of intellect, is the meaning given. The word *dhī* is used in both senses, "intellect" and "rite".
+
+> यज्ञं वष्टु धियावसुरिति वाग्वै धियावसुः ।
+
+> *yajñaṃ vaṣṭu dhiyāvasuriti vāgvai dhiyāvasuḥ |*
+
+(Ai. Ā. 1-1-4 [?]) — by this sentence, in the Aitareya-Āraṇyaka the word *dhī* is explained as "praise". The word *dhī* is read in the Nirukta among the names of rite (Ni. 3-1 [?]) and among the names of knowledge (Ni. 3-13 [?]); and
+
+> महो अर्णः सरस्वती प्रचेतयति केतुना । धियो विश्वा वि राजति ॥
+
+> *maho arṇaḥ sarasvatī pracetayati ketunā | dhiyo viśvā vi rājati ‖*
+
+(Ṛ. Saṃ. 1-3-12) — for the word in this ṛk it is explained as "*sarvāṇi prajñānāni*" (Ni. 11-26 [?]): "all our speech endowed with wisdom, that is, meditation". And:
+
+> पथस्पृथः परिपतिं वचस्या कामेन कृतो अभ्यानळर्कम् ।
+> स नो रासच्छुरुधश्चन्द्राग्रा धियंधियं सीषधाति प्र पूषा ॥
+
+> *pathaspṛthaḥ paripatiṃ vacasyā kāmena kṛto abhyānaḷarkam |*
+> *sa no rāsacchurudhaścandrāgrā dhiyaṃdhiyaṃ sīṣadhāti pra pūṣā ‖*
+
+(Ṛ. Saṃ. 6-49-8 [?]; as read, first words doubtful [?]) — in places such as these the word *dhī* means rites like sacrifice. Hence in the ṛk at hand it may be said that they are gladdeners of rite or of intellect.
+
+**Jinvati** — though the word *jinvati* is read among the names of motion (Ni. 2-6 [?]), in general this word shows delight in work. "*Jinvatiḥ prītikarmā*" (Ni. 6-22 [?]) — the Nirukta-author says, to show the delight suggested by this word, citing
+
+> भूमिं पर्जन्या जिन्वन्ति दिवं जिन्वन्त्यग्नयः ॥
+
+> *bhūmiṃ parjanyā jinvanti divaṃ jinvantyagnayaḥ ‖*
+
+(Ṛ. Saṃ. 1-164-51) — and explains its sense. In the ṛk at hand it may be "impellers of rites like sacrifice", or "those who attain satisfaction from rites like sacrifice". The word is an epithet of the Aśvin deities.
+
+---
+
+**Progress note:** printed p. 594 (PDF 614) done — Sūkta 182 Ṛk 1 Pratipadārtha, Bhāvārtha, printed English, Special Topics (vayuna, dhiyaṃjinvā, jinvati; continues p. 595). Next: printed p. 595 (PDF 615). Open flags: refs [?]; review/doubts_v13.json.
