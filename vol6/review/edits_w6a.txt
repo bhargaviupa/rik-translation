@@ -78,3 +78,72 @@ w6a unit 3 addendum: p. 29 (PDF 48) Special Topics viewed. p. 27 bhāṣya "śat
   p. 29: Ni. [2-6, ?] -> 2-6
   p. 29: Ni. [5-1, ?] -> 5-1
   p. 29: Ni. [4-19, ?] -> 4-19
+w6a unit 4: Sūkta 62, printed pp. 31–60 (Ṛks 62.6–62.13). Better scan PDF = printed + 19 checked on the pages viewed.
+  p. 31: Āś. [4-7 or 4-2, ?] -> 4-7
+  p. 31: Varga [?] -> 2
+  p. 32: Ma. 1-1-58 [?] -> 1-1-58
+  p. 33: Ā. [4-7 or 4-2, ?] -> 4-7
+  p. 33: Ni. [2-1, ?] -> 3-1
+  p. 33: Varga [?] -> 2
+  p. 34: Pā. Sū. 6-2-139 [?] -> (no number printed)
+  p. 34: Pā. Sū. 1-1-57 [as read, ?] -> (no number printed)
+  p. 34: 1-1-58 [numerals as read: 1-1-58-1, ?] -> 1-1-58-1
+  p. 35: Varga [?] -> 2
+  p. 36: Ni. 3-20 [?] -> 3-21
+  p. 36: Pā. 1-1-13 [as read] -> 1-1-13
+  p. 36: Pā. 6-4-120 [?] -> 6-4-120-5
+  p. 35: Chāṃ. U. 1-2-13 [?] -> 1-2-12
+  p. 35: Śat. Brā. 14-4-1-9 [?] -> 14-4-1-9
+  p. 37: Chāṃ. Up. 1-2-[13] [?] -> 1-2-12
+  p. 37: Śat. Brā. 14-4-1-9 [?] -> 14-4-1-9
+  p. 37: Varga [?] -> 2
+  p. 38: Ni. [2-1, ?] -> 3-1
+  p. 38: Phiṭ [35, ?] -> 82
+  p. 39: Varga [?] -> 2
+  p. 39: Pā. Sū. 6-2-119 [as read, ?] -> 6-2-119
+  p. 40: U. 1-153 [?] -> 1-152
+  p. 40: U. 2-114 [?] -> 2-118
+  p. 40: Ma. 8-1-12-11 [?] -> 8-1-12-11
+  p. 41: Varga [?] -> 2
+  p. 42: Uṇ. Sū. 1-[150, ?] -> 1-250 [?]
+  p. 42: Uṇ. Sū. 2-[24, ?] -> 2-274 [?]
+  p. 43: Varga [?] -> 2
+  p. 44: Pā. 8-2-52 [?] -> 8-2-52
+  p. 44: U. 3-94 [?] -> 3-94
+  p. 44: Pā. 4-1-39 [?] -> 4-1-39
+  p. 44: Ni. 3-[20] [?] -> 3-20
+  p. 45: Ni. [2-1, ?] -> 3-1 (apaḥ)
+  p. 45: Ni. [2-1, ?] -> 3-1 (daṃsaḥ)
+  p. 45: Varga [?] -> 2
+  p. 46: Uṇ. Sū. 3-94 [?] -> 3-374 [?]
+  p. 47: Ni. 3-9 [?] -> 3-9
+  p. 47: Varga [?] -> 2
+  p. 47: Ni. 5-15 [?] -> 5-15
+  p. 48: Ni. [3-13, ?] -> 3-13
+  p. 48: Ni. [3-9, ?] -> 3-9
+  p. 48: Ni. [2-1, ?] -> 3-1
+  p. 49: Ni. [2-9, ?] -> 3-9
+  p. 49: Ni. [10-21, as read, ?] -> 10-21
+  p. 49: Ni. [3-19, ?] -> 3-13
+  p. 49: Ni. [5-15, ?] -> 5-15
+  p. 49: Varga [?] -> 3
+  p. 51: Varga [?] -> 3
+  p. 52: Ni. [9-1, as read, ?] -> 9-1
+  p. 53: Ni. [2-25 or 3-25, ?] -> 2-25
+  p. 53: Varga [?] -> 3
+  p. 55: Pā. 6-1-109 [?] -> 6-1-195
+  p. 55: Varga [?] -> 3
+  p. 56: Ni. [3-9, ?] -> 3-9
+  p. 56: Ni. [2-1, ?] -> 3-1 (kratu)
+  p. 56: Ni. [2-1, ?] -> 3-1 (śacī)
+  p. 57: Varga [?] -> 3
+  p. 59: Ni. [?] -> (no number printed)
+  p. 59: Varga [?] -> 3
+Words: p. 36 bhāṣya "नीळमेकको(?)" -> "नीळमेको" (ನೀಳಮೇಕೋ). p. 35 and p. 31 accents set (doubts to the doubts page).
+Words: p. 43 bhāṣya "śobhanayogādikarmayuktaḥ [?]" confirmed; "pravayaḥ sanemi [?] iti pāṭhāt" -> "pravayāḥ sanemīti pāṭhāt" (ಪ್ರವಯಾಃ ಸನೇಮೀತಿ ಪಾಠಾತ್).
+Words: p. 47 bhāṣya "āsihasītyādinā [?]" -> "asihasītyādinā" (ಅಸಿಹಸೀತ್ಯಾದಿನಾ, short a as printed).
+Words: p. 47 "śloraḥbhāvaḥ [?]" -> "ślor abhāvaḥ" (ಶ್ಲೋರಭಾವಃ).
+Words: p. 51 bhāṣya "kyāc chandasīty u-pratyayaḥ [?]" confirmed (ಕ್ಯಾಚ್ಛಂದಸೀತ್ಯುಪ್ರತ್ಯಯಃ).
+Words: p. 55 bhāṣya "kartṛvadbhāvād ecaḥ [?] kartary api yaki" -> "kartṛvadbhāvād acaḥ kartṛyaki" (ಕರ್ತೃವದ್ಭಾವಾದಚಃ ಕರ್ತೃಯಕಿ).
+Words: p. 58 bhāṣya "gomato [?]" confirmed as printed (ಗೋಮತೋ); "auṇādikastakpratyayaḥ [?]" -> "auṇādikas thakpratyayaḥ" (ಔಣಾದಿಕಸ್ಥಕ್ಪ್ರತ್ಯಯಃ).
+Accents as printed set on the Saṃhitā of Ṛks 62.6–62.13 (doubts on 62.6, 62.7, 62.8, 62.9, 62.11, 62.12 -> doubts page). Header vargas: pp. 31–47 Varga 2; p. 49 prints Varga 3; pp. 51–59 Varga 3. Left open (doubts page p31-60): 6 accent rows, Uṇ. 1-250/2-274 (p. 42), Uṇ. 3-374 (p. 46), ātmann annabho (p. 31), kyaṅ/kyaj (p. 60).
