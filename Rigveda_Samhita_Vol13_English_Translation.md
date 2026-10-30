@@ -3500,4 +3500,56 @@ The Nirukta-writer, explaining the sense of the particle *cit*: "*cid ity eṣo 
 
 ---
 
-**Progress note:** printed p. 156 (PDF 176) done — Sūkta 169 Ṛk 3 Pratipadārtha to Special Topics (continues p. 157). Next: printed p. 157 (PDF 177). Open flags: Ṛk 3 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 157  (PDF 177)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9"; the Special Topics of Ṛk 3 continue.)*
+
+(*cit* continued) — … explaining them, he shows, by the sentence "*dadhi cid ity upamārthe*", that the particle *cit* is used here in the sense of comparison. Following this, Sāyaṇa, citing "*cicchabdaḥ upamārthe dadhi cid ity upamārthe* (Ni. 1-[?]) *iti yāskenoktatvāt*", says "*yadvā āyudham evocyate vajrākhyāyudhaviśeṣo ātase kāṣṭhasamūhe śuśukvān dīpayann agniścit*": the weapon named thunderbolt of Indra is here spoken of; and, explaining the sense that it shines as a fire shines in a heap of timber, he comments "*kāṣṭhe jvalann agnir iva tadvad dīpto vartate*". The abundance of Agni's brightness is stated by the word *sā*. He explains and confirms the comparison sentence "*āpo na dvīpam*" as "*āpaḥ dvīpam iva vṛṣṭyudakāni sasyādyannāni dhārayanti*": as waters hold an island by surrounding it, the rain-waters hold the crops and food.
+
+***ātase*** — *saṃtate karmaṇi*: the sense "continuously (as in continual) practised" is explained for the word *atas*. The Nirukta-writer cites
+
+> आपान्तमन्युस्तृपलप्रभर्मा धुनिः शिमीवाञ्छरुमाँ ऋजीषी ।
+> सोमो विश्वान्यतसा वनानि नार्वागिन्द्रं प्रतिमानानि देभुः ॥
+
+> *āpāntamanyus tṛpalaprabharmā dhuniḥ śimīvāñ charumāṃ ṛjīṣī |*
+> *somo viśvāny atasā vanāni nārvāg indraṃ pratimānāni debhuḥ ‖*
+
+(Ṛ. Saṃ. 10-99-[?]). Here, for the word *atasā*, Durgācārya explains "*anupakṣīṇāni*" — "growing, undiminished". Sāyaṇa gives the same sense by "*saṃtate*".
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *amyak* (Vedic *laṅ* in the present sense; because it stands at the beginning of a *pāda*, no *nighāta*, accent on the first syllable); *asme* (the dative replaced by *śe* by "*supāṃ sulak…*", Pā. Sū. 7-1-39 [?]); *junanti* (the root *ju*, of motion, a Sautra root; *laṭ* 3rd plural; *jhi* → *anta*; *śnā* by "*kryādibhyaḥ śnā*"; loss of its *ā* by "*śnābhyastayor ātaḥ*", Pā. Sū. 6-4-112 [?]; *nighāta* of the verb); *ātase* (root *ata sātatyagamane*; the affix *asac* by an Uṇādi sūtra (cited, garbled); accent on the last syllable by "*citaḥ*"; locative); *śuśukvān* (root *śuca dīptau*; for *liṭ* the substitute *kvasu* by "*kvasuśca*", Pā. Sū. 3-2-107 [?]
+
+### Printed p. 158  (PDF 178)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+— the affix being the occasion, reduplication and the like occur, and by *vyatyaya* the velar substitution (*kutva*) comes; the accent of *vasu* remains); *dvīpam* (*dvirgatā āpo yasmin iti dvīpam*; the substitute *ī* for the *a* of *apa* when *dvi* is the first member, by "*dvyantarupasargebhyo'pa īt*", Pā. Sū. 6-3-97 [?]); *dadhati* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ* 3rd plural; since "*hi ca*", Pā. Sū. 8-1-34 [?] prevents the *nighāta*, the first syllable of the reduplicated word is acute by "*abhyastānām ādiḥ*", Pā. Sū. 6-1-189 [?]). ‖ 3 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> त्वं तू न इन्द्र तं रयिं दा ओजिष्ठया दक्षिणयेव रातिम् ।
+> स्तुतश्च यास्ते चकनन्त वायोः स्तनं न मध्वः पीपयन्त वाज्यैः ॥ ४ ॥
+
+> *tvaṃ tū na indra taṃ rayiṃ dā ojiṣṭhayā dakṣiṇayeva rātim |*
+> *stutaśca yāste cakananta vāyoḥ stanaṃ na madhvaḥ pīpayanta vājyaiḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । तु । नः । इन्द्र । तम् । रयिम् । दाः । ओजिष्ठया । दक्षिणयाऽइव । रातिम् ।
+> स्तुतः । च । याः । ते । चकनन्त । वायोः । स्तनम् । न । मध्वः । पीपयन्त । वाज्यैः ॥ ४ ॥
+
+> *tvam | tu | naḥ | indra | tam | rayim | dāḥ | ojiṣṭhayā | dakṣiṇayā 'iva | rātim |*
+> *stutaḥ | ca | yāḥ | te | cakananta | vāyoḥ | stanam | na | madhvaḥ | pīpayanta | vājyaiḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं तु तुरवधारणे । त्वमेव नोऽस्मदर्थं तं रयिं त्वद्दानयोग्यं गवादिधनं दाः । देहि । यस्मादितरेभ्योऽपि त्वमेव बहुप्रदः । अतोऽतिमहद्धनं देहीत्यर्थः । वयं त्वोजिष्ठयौजस्वितमया परिक्रमणार्हया [?] दक्षिणया समृद्धिसाधनया गवादिलक्षणयेत्विजमिव रातिं दातारं त्वां प्रीणयाम इति शेषः । यद्वा । दक्षिणाशब्दो देयद्रव्यसामान्यवचनः । रातिशब्दो बन्धुवचनः । हिरण्यादिसारवद्द्रव्यप्रदानेन बन्धुं यथा वशीकुर्वन्ति तद्वत्त्वां वशीकुर्म इत्यर्थः । किंच वायोर्धौतेयुवक्षेपिष्ठस्य [?] शीघ्रवरप्रदस्य ते । कर्मणि षष्ठी । वायुं त्वां स्तुतो येऽस्मदीयाः स्तोतारश्च कनन्त कामयन्ते [?] अस्तुवन् । याः स्तुतयस्त्वानेवा— [the bhāṣya continues on the next page]
+
+> *he indra tvaṃ tu turavadhāraṇe | tvameva no 'smadarthaṃ taṃ rayiṃ tvaddānayogyaṃ gavādidhanaṃ dāḥ | dehi | yasmāditarebhyo 'pi tvameva bahupradaḥ | ato 'timahaddhanaṃ dehītyarthaḥ | vayaṃ tvojiṣṭhayaujasvitamayā parikramaṇārhayā [?] dakṣiṇayā samṛddhisādhanayā gavādilakṣaṇayetvijamiva rātiṃ dātāraṃ tvāṃ prīṇayāma iti śeṣaḥ | yadvā | dakṣiṇāśabdo deyadravyasāmānyavacanaḥ | rātiśabdo bandhuvacanaḥ | hiraṇyādisāravaddravyapradānena bandhuṃ yathā vaśīkurvanti tadvattvāṃ vaśīkurma ityarthaḥ | kiṃca vāyordhauteyuvakṣepiṣṭhasya [?] śīghravarapradasya te | karmaṇi ṣaṣṭhī | vāyuṃ tvāṃ stuto ye 'smadīyāḥ stotāraśca kananta kāmayante [?] astuvan | yāḥ stutayastvānevā— [the bhāṣya continues on the next page]*
+
+---
+
+**Progress note:** printed p. 158 (PDF 178) done — Sūkta 169 Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada and the first part of the bhāṣya written (breaks off at 'याः स्तुतयस्त्वानेवा—'). Next: printed p. 159 (PDF 179). Open flags: Ṛk 4 bhāṣya [?] words (dense); small-type numerals [?]; review/doubts_v13.json.
