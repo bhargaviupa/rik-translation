@@ -3202,5 +3202,29 @@
   ],
   "note": "Nirukta refs for dhuni (5-12?), dhunayah (1-24?), svasti quote read approx",
   "answer": ""
+ },
+ {
+  "pdf": 377,
+  "printed": 357,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 10-63-16, Nirukta svasti passage (11-44?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 378,
+  "printed": 358,
+  "crop": [
+   0.7,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 10 bhashya: 'vidva', 'nrpabhodde nuvadah', 'sahodastasamarthyah' read approx - zoom needed",
+  "answer": ""
  }
 ]
