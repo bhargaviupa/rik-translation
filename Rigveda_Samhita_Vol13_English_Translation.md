@@ -17065,4 +17065,54 @@ Thus, since they are harmful to the sacrificers, the sacrificer there prays to t
 
 ---
 
-**Progress note:** printed p. 608 (PDF 628) done — Sūkta 182 Ṛk 3 ends (grammar); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (rāyataḥ, mṛdhaḥ; continues p. 609). Next: printed p. 609 (PDF 629). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 609  (PDF 629)
+
+*(Header: "A. 2 A. 4 Va. 27"; "Ṛgvedasaṃhitā"; page 609.)*
+
+> वि न इन्द्र मृधो जहि नीचा यच्छ पृतन्यतः ।
+
+> *vi na indra mṛdho jahi nīcā yaccha pṛtanyataḥ |*
+
+(Ṛ. Saṃ. 10-152-4) — citing this ṛk, it is shown that there it has the meaning "*saṃgrāmakāriṇaḥ śatrūn*" ("the foes who make war") (Ni. 7-2 [?]). Both senses are taken in the ṛk at hand.
+
+**Jambhayataṃ** — "*nāśayataṃ*" (destroy the enemies): this is the meaning given for this word. The word *jambha* means "tooth"; it is current especially for the canine teeth. Though the word *jambha* is used, the purport is the same. For example:
+
+> न यो वराय मरुतामिव स्वनः सेनेव सृष्टा दिव्या यथाशनिः ।
+> अग्निर्जम्भैस्तिगितैरत्ति भर्वति योधो न शत्रून्स वना न्यृञ्जते ॥
+
+> *na yo varāya marutāmiva svanaḥ seneva sṛṣṭā divyā yathāśaniḥ |*
+> *agnirjambhaistigitairatti bharvati yodho na śatrūnsa vanā nyṛñjate ‖*
+
+(Ṛ. Saṃ. 1-143-5 [?]) — in ṛks such as these, the word *jambhaiḥ* is used as a synonym for the flames of Agni. "*jambhair dantair daṃṣṭrāsthānīyābhir jvālābhiḥ atti*" — he devours with the flames which stand for the teeth: the fierce fangs are compared to the flames of Agni. In like manner, in Ṛ. Saṃ. 1-144-4 [?] etc. such descriptions occur.
+
+> असौ य एषि वीरको गृहंगृहं विचाकशत् ।
+> इमं जम्भसुतं पिब धानावन्तं करम्भिणमपूपवन्तमुक्थिनम् ॥
+
+> *asau ya eṣi vīrako gṛhaṃgṛhaṃ vicākaśat |*
+> *imaṃ jambhasutaṃ piba dhānāvantaṃ karambhiṇamapūpavantamukthinam ‖*
+
+(Ṛ. Saṃ. 8-91-2) — here *jambhasutam* means "*dantair abhiṣutam*", "pressed with the teeth, i.e. held and crushed with the teeth": as in the ṛk at hand *jambhayatam* is the verbal word, and as lions and others destroy other creatures with their teeth, so you do the crushing of enemies — this is the meaning.
+
+**Śunaḥ** — by the comparison "*śvā sadṛśān*" it is understood that people like the Paṇis are seen by them with every contempt and with a spirit of enmity.
+
+**Ratninīṃ** — "*ramaṇīyaphalavatīṃ*" (our praises) — they pray: make them bear delightful fruit. The word *ratna* is told in many places to mean "delightful". The Nirukta-author also, in the sentence "*hotāraṃ ratnadhātamam*", gives this very meaning for the word *ratna* (Ni. 7-15 [?]). In describing a rare (*amūlya*) thing, this word is used in describing its excellence and beauty. For example:
+
+> यस्ते स्तनः शशयो यो मयोभूर्येन विश्वा पुष्यसि वार्याणि ।
+> यो रत्नधा वसुविद्यः सुदत्रः सरस्वति तमिह धातवे कः ॥
+
+> *yaste stanaḥ śaśayo yo mayobhūryena viśvā puṣyasi vāryāṇi |*
+> *yo ratnadhā vasuvidyaḥ sudatraḥ sarasvati tamiha dhātave kaḥ ‖*
+
+(Ṛ. Saṃ. 1-164-49)
+
+### Printed p. 610  (PDF 630)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 610.)*
+
+— here the "juice" (*rasa*) in the form of bliss is indicated. As it has the epithet *ratnadhā*, it has been explained as "the bearer of many kinds of delightful juices". Likewise in the ṛk at hand also the fruit, excellent and delightful, is indicated.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *jambhayatam* — root *jabhi nāśane*, *curādi*; "*satyāpapāśa…*" (Pā. Sū. 3-1-25 [?]) gives *ṇic* in the root's own sense; since it has *i*, *num* augment; *loṭ* second person dual form; in the beginning of a *pāda* there is no *nighāta* accent; the accent of *ṇic* remains. *rāyataḥ* — root *rai śabde*, *bhvādi*; *laṭ* with *śatṛ*-substitution; *śap* as *vikaraṇa*; *āy*-substitution; "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) — the *sārvadhātuka l* being unaccented, the root's accent remains; second (case) plural form. *hatam* — root *hana hiṃsāgatyoḥ*; *loṭ* second person dual; since *lakṣaṇa*-no-*dyāva* applies, *tam*-substitution; "*adiprabhṛtibhyaḥ śapaḥ*" (Pā. Sū. 2-4-72 [?]) gives *luk* of *śap*; "*anudāttopadeśa-vanati…*" (Pā. Sū. 6-4-37 [?]) elides the root's *n*; being at the beginning of a *pāda* no *nighāta* accent; by the suffix accent, final acute. *vidathuḥ* — root *vida jñāne*; *laṭ* second person dual; "*vido laṭo vā*" (Pā. Sū. 3-4-83 [?]) gives *athus*-substitution; since the suffix has *ñ* [as read] there is no guṇa; by *vyatyaya* the suffix's initial acute. *vācaṃ-vācam* — "*nityavīpsayoḥ*" gives doubling; "*anudāttaṃ ca*" (Pā. Sū. 8-1-3 [?]) — the later repeated word is wholly unaccented. *kṛtam* — root *ḍukṛñ karaṇe*; *loṭ* second person dual, *tam*-substitution; "*bahulaṃ chandasi*" gives *luk* of the *vikaraṇa*; since the suffix has *ñ*, no guṇa; following a *tiṅ*-final, *nighāta* accent. *ubhā* — "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives ā-substitution for the dual. *avatam* — root *ava rakṣaṇe*; *loṭ* second person dual form; *tiṅ*, *nighāta* accent.  ‖ 4 ‖
+
+---
+
+**Progress note:** printed p. 610 (PDF 630) done — Sūkta 182 Ṛk 4 ends (Special Topics, grammar). Next: printed p. 611 (PDF 631): Ṛk 5. Open flags: refs [?]; review/doubts_v13.json.

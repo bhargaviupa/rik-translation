@@ -6274,5 +6274,29 @@
   ],
   "note": "Rk4 bhasya second line as read ('sarvamasi' [?]); Ni. 3-9 ref [?]",
   "answer": ""
+ },
+ {
+  "pdf": 629,
+  "printed": 609,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 1-143-5, 1-144-4, 8-91-2, Ni. 7-2, 7-15 small type [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 630,
+  "printed": 610,
+  "crop": [
+   0.2,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?], wording as read",
+  "answer": ""
  }
 ]
