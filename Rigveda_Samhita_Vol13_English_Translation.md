@@ -15645,4 +15645,90 @@ The Nirukta-writers have read the word *dhiṣaṇā* among the names of "speech
 
 ---
 
-**Progress note:** printed p. 560 (PDF 580) done — Sūkta 181 Ṛk 3: bhāṣya…printed English, Special Topics begun (dhiṣṇyā; continues p. 561). Next: printed p. 561 (PDF 581). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 561  (PDF 581)
+
+*(Header: "A. 2 A. 4 Va. 25"; "Ṛgvedasaṃhitā"; page 561; signature mark "XIII 36".)*
+
+**Special Topics (continued)** — in these ṛks, for the word *dhiṣṇyā* the meaning "place" is cited, in the sense of places such as the Āgnīdhrīya hearth (Ṛ. Saṃ. 10-114-9 [?]). Although "worthy of worship" is the general meaning, in some places the Nirukta-writers have read this word among the names of "heaven and earth" (*dyāvāpṛthivī*) (Ni. 3-30 [?]):
+
+> महस्करथो वरिवो यथा नोऽस्मे क्षयाय धिषणे अनेहः ।
+
+> *mahaskaratho varivo yathā no 'sme kṣayāya dhiṣaṇe anehaḥ |*
+
+(Ṛ. Saṃ. 6-50-3 [?])
+
+> समिन्द्रेणे [?] धिषणे वि ष्कभायति वृष्णः पीत्वा मद उक्थानि शंसति ।
+
+> *samindreṇe [?] dhiṣaṇe vi ṣkabhāyati vṛṣṇaḥ pītvā mada ukthāni śaṃsati |*
+
+(Ṛ. Saṃ. 10-44-8 [?]) — in such ṛks it means *dyāvāpṛthivī*. In some contexts the word is understood also to mean "a bag (*cīla*) that is filled with Soma juice". In some places Sāyaṇa, where none of the above meanings is at all suitable, has shown a different derivation for the word and has given an unusual meaning. For example:
+
+> अग्ने दिवो अर्णमच्छा जिगास्यच्छा देवाँ ऊचिषे धिष्ण्या ये ।
+> या रोचने परस्तात्सूर्यस्य याश्चावस्तादुपतिष्ठन्त आपः ॥
+
+> *agne divo arṇamacchā jigāsyacchā devā~ ūciṣe dhiṣṇyā ye |*
+> *yā rocane parastātsūryasya yāścāvastādupatiṣṭhanta āpaḥ ‖*
+
+(Ṛ. Saṃ. 3-22-3 [?]) — in this, Sāyaṇa: "*dhiyaṃ buddhyupahitaṃ deham uṣṇantyuṣṇīkurvanti iti dhiṣṇyāḥ*" — "those who heat the body that is endowed with intellect are *dhiṣṇya*s" — since this shows pride in a body endowed with understanding, the name *dhiṣṇya* arises. In the ṛk cited it is an epithet of the deities. Thus, since the word is used in many meanings, in the ṛk at hand the meaning is: the Aśvin deities, who desire a place worthy of worship.
+
+***avaniḥ*** — here for *avani* the meaning "earth" has been given. The Nirukta-writers have read this word among the names of "fingers" (Ni. 2-5 [?]) and among the names of "rivers" (Ni. 2-24 [?]) and of "earth" (Ni. 2-5 [?]). Besides, since the word *avani* is formed from the root *ava*, "to protect", it is an epithet of Indra and others in the sense of "protector". Showing how the meaning "finger" arose for the word *avani*, the Nirukta-writers say:
+
+> अवनयोऽङ्गुलयो भवन्त्येवं हि कर्माणि ।
+
+> *avanayo 'ṅgulayo bhavantyevaṃ hi karmāṇi |*
+
+(Ni. 3-9 [?]) — they explain the meaning of this word: since the fingers protect (*ava*) the rites such as the sacrifice, the fingers have the name *avani*. And:
+
+> यः पुष्पिणीश्च प्रस्वश्च धर्मणाधि दाने व्यं [?] वनीरधारयः ।
+> यश्चासमा अजनो दिद्युतो दिव उरुरूर्वाँ अभितः सासह्युक्थ्यः ॥ [as read [?]]
+
+> *yaḥ puṣpiṇīśca prasvaśca dharmaṇādhi dāne vyaṃ [?] vanīradhārayaḥ |*
+> *yaścāsamā ajano didyuto diva ururūrvā~ abhitaḥ sāsahyukthyaḥ ‖ [as read [?]]*
+
+(Ṛ. Saṃ. 2-13-2 [?]) — here *avanīḥ* is *oṣadhīḥ*, "herbs": in the sense of herbs that protect life. And:
+
+> तुभ्येदमग्ने मधुमत्तमं वचस्तुभ्यं मनीषा इयमस्तु शं हृदे ।
+> त्वां गिरः सिन्धुमिवावनीर्महीरा पृणन्ति शवसा वर्धयन्ति च ॥
+
+> *tubhyedamagne madhumattamaṃ vacastubhyaṃ manīṣā iyamastu śaṃ hṛde |*
+> *tvāṃ giraḥ sindhumivāvanīrmahīrā pṛṇanti śavasā vardhayanti ca ‖*
+
+(Ṛ. Saṃ. 3-11-3 [?])
+
+### Printed p. 562  (PDF 582)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 562.)*
+
+— in this ṛk the word *avanīḥ* is used as a synonym of the rivers that go to the sea. Thus, both in the sense of "protecting" and in the sense of "extended", the word is an epithet of river, of earth (*pṛthvī*) and the like. In the ṛk at hand it means "the extended earth".
+
+***ahaṃpūrvaḥ*** — for this word, Sāyaṇa has explained "of a nature that has pride in itself" or "of generous mind". It is commonly used in the sense of *ahamahamikā* ("I first, I first"). Here this epithet is used to show the extreme degree of speed.
+
+***suvitāyai*** — the meaning has been given for this word according to the context. In some places it means "for easy going" (*sugamanāya*), "for a most excellent going"; in others "for the best fruit" and "for a rite that gives fruit".
+
+> आ रुद्रासः इन्द्रवन्तः सजोषसो हिरण्यरथाः सुविताय गन्तन ।
+> इयं वो अस्मत्प्रति हर्यते मतिस्तृष्णजे न दिव उत्सा उदन्यवे ॥
+
+> *ā rudrāsaḥ indravantaḥ sajoṣaso hiraṇyarathāḥ suvitāya gantana |*
+> *iyaṃ vo asmatprati haryate matistṛṣṇaje na diva utsā udanyave ‖*
+
+(Ṛ. Saṃ. 5-57-1 [?]) — in such places the word *suvitāya* is used in the sense "for a good-natured rite, for the best rite".
+
+> पुनरेहि वृषाकपे सुविता कल्पयावहै ।
+
+> *punarehi vṛṣākape suvitā kalpayāvahai |*
+
+(Ṛ. Saṃ. 10-86-21 [?]) — in this "*suprasūtāni*" or "*supravṛttāni*" is said. That this word is used in still other senses has been told earlier, in the special topics of Ṛk 1-180-10.
+
+***sṛpravandhuraḥ*** — the word *sṛpra* generally means "of a gliding (*sarpaṇa*) nature". For example:
+
+> नपाता शवसो महः सूनू दक्षस्य सुक्रतो ।
+> सृप्रदानू [?] इषो वास्त्वधि क्षितः ॥
+
+> *napātā śavaso mahaḥ sūnū dakṣasya sukrato |*
+> *sṛpradānū [?] iṣo vāstvadhi kṣitaḥ ‖*
+
+(Ṛ. Saṃ. 8-25-5 [?]) — in such places it means "always flowing", i.e. "a giver without break". But in the ṛk at hand *vandhura* is used in the sense of the seat at the front on which the charioteer sits; there is no room here for the meaning "flowing". It can be taken as "an extremely wide seat". Sāyaṇa too has explained it in this sense. The explanation of the words *trivandhurām* and *tricakraḥ* has been given in the 34th sūkta (Ṛ. Saṃ. 1-34 [?]), Part 4.
+
+---
+
+**Progress note:** printed p. 562 (PDF 582) done — Sūkta 181 Ṛk 3 Special Topics (dhiṣṇyā, avaniḥ, ahaṃpūrvaḥ, suvitāyai, sṛpravandhuraḥ; continues p. 563 with grammar). Next: printed p. 563 (PDF 583). Open flags: refs [?]; review/doubts_v13.json.
