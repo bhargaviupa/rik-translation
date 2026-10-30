@@ -7342,4 +7342,56 @@ Thus, the word *gauḥ* is explained as "speech (*vāk*), of the nature of *stot
 
 ---
 
-**Progress note:** printed p. 290 (PDF 310) done — Sūkta 173 Ṛk 8 Special Topics (savana/vāk; continues p. 291). Next: printed p. 291 (PDF 311). Open flags: Chā. Up./Śa. Brā. refs and quotation details [?]; review/doubts_v13.json.
+### Printed p. 291  (PDF 311)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+***devīḥ āpaḥ samudre te madanti āsu — dyotamānāḥ āpaḥ udakasamudravaṇāpādānabhūte 'ntarikṣe prajāsu nimittabhūtāsu tvāṃ mādayanti*** — "The shining waters, in the atmosphere, which is the source from which the waters flow, give you delight for the sake of creatures": addressing Indra, it is the general sense that the waters, endowed with splendour, give Indra delight in the atmosphere, the place of their flowing, for the sake of the creatures. But "*yadā prāṇyupakārārthaṃ varṣaṇāya tvāṃ preyanti vṛṣṭyudakāni tadā khalu tava somayāgāḥ sukhakarā bhavanti*" — when the rain-waters urge Indra to rain for the benefit of creatures, then the Soma sacrifices bring Indra happiness; and "*yajñasādhanavṛṣṭipradānena yāgān nirvartayety arthaḥ*" — since Indra, by giving the rain, which is the cause of the sacrifice, will bring the sacrifices to completion, the sacrificer's hope that he will complete the sacrifices is expressed here; so the meaning is given.
+
+***samudre — samudra*** — the word *samudra* is read among the names of the atmosphere (Ni. 2-10 [?]). Here Yāska, expressing doubt about the sense of the word — whether *samudra*, the word that denotes the mass of water on the earth, is meant — says "*samudra ity etat pārthivena samudreṇa saṃdihyate*" and explains:
+
+> समुद्रवन्त्यस्मादापः, समभिद्रवन्त्येनमापः, सम्मोदन्तेऽस्मिन्भूतानि, समुदको भवति, समुनत्तीति वा ।
+
+> *samudravanty asmād āpaḥ, samabhidravanty enam āpaḥ, sammodante 'smin bhūtāni, samudako bhavati, samunattīti vā |*
+
+(Ni. 2-10 [?]). Waves, ripples and rills, in these forms the waters change their form here; or waters flow together and unite here, in this region; or aquatic creatures live here in delight; or, the water being denoted by the word *udaka*, the mass of waters is denoted by *samudaka*; or because it wets everything — the word *samudra* is used for any of these reasons: so the meaning is given. And in this connection Yāska tells a story:
+
+> देवापिश्चार्ष्टिषेणः शंतनुश्च कौरव्यौ भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनोः राज्ये द्वादशवर्षाणि देवो न ववर्ष ॥
+
+> *devāpiś cārṣṭiṣeṇaḥ śaṃtanuś ca kauravyau bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyān abhiṣecayāṃcakre | devāpis tapaḥ pratipede | tataḥ śaṃtanoḥ rājye dvādaśavarṣāṇi devo na vavarṣa ‖*
+
+> तमूचुर्ब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमन्तरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्ते असानि याजयानि च त्वेति ।
+
+> *tam ūcur brāhmaṇā adharmas tvayā carito jyeṣṭhaṃ bhrātaram antarity ābhiṣecitaṃ tasmāt te devo na varṣatīti | sa śaṃtanur devāpiṃ śiśikṣa rājyena | tam uvāca devāpiḥ purohitas te asāni yājayāni ca tveti |*
+
+(Ni. 2-11 [?]). Devāpi and Śaṃtanu were two princes, brothers, of the Kuru family. Śaṃtanu, the younger, was consecrated king; Devāpi, the elder, went to practise austerities. Then, during the reign of Śaṃtanu, no rain fell for twelve years.
+
+### Printed p. 292  (PDF 312)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+Then the Brāhmaṇas said to King Śaṃtanu, "You have committed *adharma* by having yourself consecrated, passing over your elder brother; therefore there is no rain in your kingdom." Hearing this, Śaṃtanu begged his elder brother Devāpi to become king; Devāpi, who was unwilling to be king, said, "I shall be your *purohita* and shall perform sacrifices so that you may have rain in your kingdom"; and in accordance with that he performed the sacrifice with the *Parjanya*-sūkta (the hymn desiring rain). Quoting the ṛk of that hymn:
+
+> आर्ष्टिषेणो होत्रमृषिर्निषीदन्देवापिर्देवसुमतिं चिकित्वान् । स उत्तरस्मादधरं समुद्रमपो दिव्या असृजद्वर्ष्या अभि ॥
+
+> *ārṣṭiṣeṇo hotram ṛṣir niṣīdan devāpir devasumatiṃ cikitvān | sa uttarasmād adharaṃ samudram apo divyā asṛjad varṣyā abhi ‖*
+
+(Ṛ. Saṃ. 10-98-5 [?]). Here Yāska says, in the sentence "*sa uttarasmād adharam apo divyā asṛjat*" — "Devāpi created waters — the waters that make the grain-wealth grow, as is proper, from the atmospheric ocean, which is called *samudra*, down to the lower ocean on the earth." — Devāpi, through the favour of the deities pleased by his praise, caused to flow the excellent waters that increase the plenty of grain for the benefit of the atmospheric and the terrestrial *samudra*; so he explains the distinction between the atmospheric and the terrestrial oceans. Moreover the word *samudra* is used also in other senses:
+
+> सविता यन्त्रैः पृथिवीमरम्णादस्कम्भने सविता द्यामदृंहत् । अश्वमिवाधुक्षद्धुनिमन्तरिक्षमतूर्ते बद्धं सविता समुद्रम् ॥
+
+> *savitā yantraiḥ pṛthivīm aramṇād askambhane savitā dyām adṛṃhat | aśvam ivādhukṣad dhunim antarikṣam atūrte baddhaṃ savitā samudram ‖*
+
+(Ṛ. Saṃ. 10-149-1 [?]). Here, for *samudra*, "the cloud which holds back the water" is given as the meaning.
+
+> पवित्रवन्तः परि वाचमासते पितैषां प्रत्नो अभि रक्षति व्रतम् । महः समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभम् ॥
+
+> *pavitravantaḥ pari vācam āsate pitaiṣāṃ pratno abhi rakṣati vratam | mahaḥ samudraṃ varuṇas tiro dadhe dhīrā icchekur dharuṇeṣv ārabham ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 9-73-3 [?]). Here, for *samudram ādityam* the meaning "the sun" is given.
+
+***viśvā gauḥ joṣyā — sarvāpi stotraśastrarūpā vāk joṣaṇārhā prīṇayitrī*** — the Nirukta-writers, beginning "*gauḥ iti pṛthivyā nāmadheyam*" (Ni. 2-5 [?]), have explained the meanings of the word *go*: earth, phlegm, bow-string, sun, rays, *suṣumnā* artery, and so on. Sāyaṇa gives the meaning "speech" (*vāk*): that all *stotras* and *śastras* addressed to Indra are such as to give satisfaction to Indra.
+
+---
+
+**Progress note:** printed p. 292 (PDF 312) done — Sūkta 173 Ṛk 8 Special Topics (samudra, Devāpi story, viśvā gauḥ; continues p. 293). Next: printed p. 293 (PDF 313). Open flags: Ṛg/Nirukta refs [?]; Nirukta story quotes partly [?]; review/doubts_v13.json.

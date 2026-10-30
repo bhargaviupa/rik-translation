@@ -2446,5 +2446,29 @@
   ],
   "note": "Satapatha quote garbled in places; ref 3-2-1-53..59? small",
   "answer": ""
+ },
+ {
+  "pdf": 311,
+  "printed": 291,
+  "crop": [
+   0.45,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-10, 2-11 and story quotes (devapi, santanu) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 312,
+  "printed": 292,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-98-5, 10-149-1, 9-73-3 small; 'pavitravantah' quote read approx; Nirukta ref 2-5",
+  "answer": ""
  }
 ]
