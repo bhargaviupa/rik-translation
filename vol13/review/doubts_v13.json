@@ -3046,5 +3046,29 @@
   ],
   "note": "grammar sutra numerals small type (rjra, vrhatat, sprdhah, yasisat)",
   "answer": ""
+ },
+ {
+  "pdf": 363,
+  "printed": 343,
+  "crop": [
+   0.45,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-64-5 quote 'daksasya vadite..' read approx; Nirukta refs",
+  "answer": ""
+ },
+ {
+  "pdf": 364,
+  "printed": 344,
+  "crop": [
+   0.28,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha quote urvasyasityai.. garbled; ref 3-4-1-20; other Satapatha refs 7-2-1-15?, 13-5-1-18; Rg 1-162-1, 1-96-2 refs small",
+  "answer": ""
  }
 ]
