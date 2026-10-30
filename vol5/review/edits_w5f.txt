@@ -61,3 +61,16 @@
   p. 620: 4-7-13-3; Tai. Saṃ. 2-?-? -> 2-3-1-5; Tai. Saṃ. 4-7-13-3
   p. 620: 8-?-? -> 1-96-2
   # p. 620: first to create men printed (೧-೯೬-೨); the file's next ref (immortality, 1-96-2) not checked (no ?)
+  p. 621: 7-? -> 5-1
+  # p. 621: Nirukta printed (೫-೧)? written 5-1 [?] (first glyph reads ೫; the following explanation cites Nir. 7-)
+  p. 622: 6-?-? -> 7-97-5
+  p. 622: 6-?-? -> 7-97-7
+  # p. 622: NB (no ?, not changed) the file's neighbours differ from the print: radiant printed [೩-೬೨-೭?, ೭-೯೭-೭], pure [೭-೯೭-೭] (file 7-97-5), Tvaṣṭṛ [೧೦-೫೩-೯] (file 10-59-9)
+  # p. 623: "[2-23-6; ?]" -> "[2-23-6 and 7]" (printed ೨-೨೩-೬ ಮತ್ತು ೭)
+  p. 623: 2-?-? -> 2-23-1
+  # p. 625: "[8-61-18; compare 6-?-?]" set to the print "[2-24-11; compare 8-61-18]" (printed (೨-೨೪-೧೧ ; ೮-೬೧-೧೮ನ್ನು ಹೋಲಿಸಿ)); the file's preceding 'most divinity [2-24-11]' not checked
+  p. 625: 6-?-? -> 2-24-11
+  p. 625: 10-?-? -> 10-68-10
+  # p. 625: crops "[10-68-10 and ?]" set to the print "[10-97-15 and 19]" (printed ೧೦-೯೭-೧೫ ಮತ್ತು ೧೯; the 7 is the thin rounded glyph, as in 7-97-7 on p. 622)
+  p. 625: 10-68-10 and ? -> 10-97-15 and 19
+  p. 625: 4-?-? -> 4-4-10-1
