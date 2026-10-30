@@ -8731,4 +8731,66 @@ The *Phalgunī* are the lunar mansions of Indra; they are also associated with h
 
 ---
 
-**Progress note:** printed p. 336 (PDF 356) done — Sūkta 174 Ṛk 5 Special Topics (Kutsa Ārjuneya; continues p. 337). Next: printed p. 337 (PDF 357). Open flags: Ṛg/Nirukta/Śatapatha refs and some quotations [?]; review/doubts_v13.json.
+### Printed p. 337  (PDF 357)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā"; signature mark "XIII 22" at foot.)*
+
+> कुत्साय यत्र पुरुहूत वन्वञ्छुष्णमनन्तैः परियासि वध्नैः ।
+
+> *kutsāya yatra puruhūta vanvañ chuṣṇam anantaiḥ pariyāsi vadhnaiḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-101-9 [?]) — and likewise in Ṛ. Saṃ. 1-63-3 [?]; 1-174-… [?] and other ṛks it is said that Indra helped Kutsa and killed Śuṣṇa for him. And —
+
+> अहं पितेव वेतसून् [?] भिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ॥
+
+> *ahaṃ piteva vetasūn [?] bhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-49-4 [?]) — in such places Indra says of himself, "For Kutsa I subdued Vetasu, Tugra, Smadibha and many other enemies." And again —
+
+> त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
+
+> *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
+
+(Ṛ. Saṃ. 1-53-10 [?])
+
+> य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवे दिवे ॥
+
+> *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive dive ‖*
+
+(Ṛ. Saṃ. 8-53-2 [?]) — in such ṛks Indra is described as having subdued Kutsa and others. About him Keith has said as follows in his book *Religion and Philosophy of the Vedas*:
+
+> His chief rival is Kutsa, who appears as battling against him, and as victor by the aid of Indra, who, for his sake tore from the Sun a wheel, prolonging the daylight and thus enabling, it may be assumed, Kutsa to turn the issue of battle. The feat of Indra is several times mentioned and the fact that Kutsa is a real hero is suggested, though not proved, by the fact that elsewhere he appears in hostile relation to Indra, just as Athithigva, who is normally the protege of Indra, in one or two places appears in the reverse relation. It is true that it is not to be expected that a God, or a hero of divine dimensions, would be thus placed in opposition to the God, though, as the God is the uncertain Indra, the argument is by no means conclusive. Kutsa, in the case of his real personality must be a king, and this is not inconsistent with his being called a seer: royal seers are not unknown: (Harvard Oriental Series. Vol. 31. p. 130),
+
+[As printed; "Athithigva" is the print's spelling of Atithigva: [sic].]
+
+In these sentences it is shown that Indra behaved towards Kutsa both as an opponent and as a helper. Also, in order to help Kutsa, Indra took the wheel of the Sun in his hand and gave victory to Kutsa: this is indicated.
+
+### Printed p. 338  (PDF 358)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+It is also hinted at. There is a story about Indra's defeating his enemies with the Sun's wheel.
+
+> केचन असुराः इन्द्रस्य वज्रायुधेन अस्माकं वधो मा भूदिति ब्रह्मणा वरं लब्ध्वा इन्द्रं अगणय्य उद्वृत्ताः स्थिताः । तान् हन्तुमिन्द्रः सूर्यरथस्य चक्रं आदाय अवधीत् ॥ [as printed: [?]]
+
+> *kecana asurāḥ indrasya vajrāyudhena asmākaṃ vadho mā bhūd iti brahmaṇā varaṃ labdhvā indraṃ agaṇayya udvṛttāḥ sthitāḥ | tān hantum indraḥ sūryarathasya cakraṃ ādāya avadhīt ‖* [?]
+
+Some *asuras*, having obtained from Brahmā the boon that "we may not be killed by Indra's weapon, the thunderbolt", disregarded Indra and stood in a state of misconduct; then Indra, taking the wheel of the Sun's chariot as his weapon, killed all of them: so the story goes.
+
+Or it may be said that Indra is praised as the Āditya, stationed in heaven (*dyuḥsthāna*), in the form of Āditya, as *indra eva dyuḥsthānasya sann ādityātmanā stūyate*. In another place Sāyaṇa states this same point:
+
+> सूरः सूर्यः जातः उदितः सन् ओजसा स्वकीयेन तेजसा युक्तः तमोनिवारणार्थं असुरजयाय वा चक्रोपलक्षितं रथं प्रकर्षेण उद्यतं करोति । ततः पूर्वमरुणः तद्रथयन्ता मन्देहाद्यसुराणां समीपे वाचं तेषां जहि भिन्धि इत्यादि ध्वनिं मुषायति ।
+
+> *sūraḥ sūryaḥ jātaḥ uditaḥ san ojasā svakīyena tejasā yuktaḥ tamonivāraṇārthaṃ asurajayāya vā cakropalakṣitaṃ rathaṃ prakarṣeṇa udyataṃ karoti | tataḥ pūrvam aruṇaḥ tadrathayantā mandehādyasurāṇāṃ samīpe vācaṃ teṣāṃ jahi bhindhi ity ādi dhvaniṃ muṣāyati |* [as read: [?]]
+
+(Sā. Bhā.). As soon as the sun has risen, endowed with his own splendour, he makes the chariot, marked with its wheel, move strongly, for the removal of darkness or for the conquest of the *asuras*; and even earlier, Aruṇa, the charioteer of that chariot, brings the sun's chariot to the presence of the host of Rākṣasas known as the Mandehas, and steals from their mouths the cry "kill, split" and the like, which they utter in battle: so it is said. The Nirukta-writers:
+
+> यदुदञ्चो वृषाकपे गृहमिन्द्राजगन्तन । क्वैस्य पुल्वघो मृगः कमगञ्जनयोपनो विश्वस्मादिन्द्र उत्तरः ॥
+
+> *yad udañco vṛṣākape gṛham indrājagantana | kvasya pulvagho mṛgaḥ kam agañ janayopano viśvasmād indra uttaraḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-86-23 [?]) — quoting this ṛk, "*tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare … ādityam*" [garbled in the print: [?]] — Indra is "invisible": people, by a knowledge of the Āditya's rising and setting, are deluded into thinking Indra and Āditya are different; but this is not true knowledge. The deity…
+
+---
+
+**Progress note:** printed p. 338 (PDF 358) done — Sūkta 174 Ṛk 5 Special Topics (Kutsa/Indra/Āditya; continues p. 339). Next: printed p. 339 (PDF 359). Open flags: Ṛg refs and some quotes [?]; Nirukta passage on Indra/Āditya garbled [?]; review/doubts_v13.json.
