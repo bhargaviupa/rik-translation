@@ -1241,4 +1241,69 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ---
 
-**Progress note:** printed p. 56 (PDF 76) done — Sūkta 166 Ṛk 11 complete; Ṛk 12: Saṃhitā, Pada, bhāṣya begun (continues on p. 57). Next: printed p. 57 (PDF 77). Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 57  (PDF 77)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Bhāṣya (end of Ṛk 12; from the top of the page):**
+
+> न विह्वरति [?] । कौटिल्यं न करोति ॥ चनेत्येयं यद्यपि निपातत्वेऽपि समुदायरूप एको निपातः तथाप्यवयवनिष्ठाभागेन चेशब्दः समुच्चये नशब्दो निषेधेऽधिगन्तव्यः [?] ॥ युष्मद्दत्तनादित्यागमिन्द्रत्यागोऽपि [?] नातिक्रामतीत्यर्थः । यद्वा । यस्मै तद्धनमराध्वं तमिन्द्रोऽपि न कुटिलयति । न निषेधयति किन्त्वनुमोदयतीत्यर्थः ॥
+
+*Gist:* The Maruts' gift of wealth to the sacrificer is as long-lasting as Aditi's rite; even Indra, with his own gift, does not exceed it, nor does he thwart it — he rather approves it.
+
+**Pratipadārtha.** (*he*) *sujātāḥ marutaḥ* — O Marut-gods of fine birth; *vaḥ* — your; *mahitvanam* — greatness; *tat* — such (as described); *vaḥ* — your; *dātram* — gift (in the form of rain and the like); *aditeḥ* — of Aditi, the mother of the gods, or of Earth; *vratam iva* — like the act [of that]; *dīrgham* — very extended (unbroken); (*kiṃca* — and further) *yasmai* — to which; *sukṛte janāya* — to the sacrificer who does auspicious acts such as sacrifice; *arādhvam* — [the desired wealth] you give; *tat* — that giving; *indraḥ ca* — even Indra; *tyajasā* — by his own gift; *na vi hruṇāti* — does not make crooked (does not transgress); *tat* — that [giving]; *indraḥ ca* — even Indra; *na vi hruṇāti* — does not make crooked (does not forbid; he rather approves).
+
+**Bhāvārtha.** O Marut-gods, of excellent birth: your gift in the form of rain and the like is as unbroken as the act of Earth, the goddess [Aditi]; the wealth you give to the sacrificer who performs sacrifices and the like cannot be exceeded even by Indra; (it is approved even by Indra). O Marut-gods, such is your greatness.
+
+**English Translation (as printed):** Such, well-born Maruts, is your greatness, that your munificence is as long (continued) as the function of Aditi; and Indra does not exceed by his own liberality, (the value of) that which you have bestowed upon the devout man (who worships you).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***vrataṃ*** — the word *vrata* is stated among the names of action (*karmanāma*) (Ni. 2-1 [?]). Yāska, explaining the meaning of this word in detail, says:
+
+> व्रतमिति कर्मनाम वृणोतीति सतः । इदमपीतरद्व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः । अन्नमपि व्रतमुच्यते यदावृणोति शरीरम् ।
+
+> *vratamiti karmanāma vṛṇotīti sataḥ | idamapītaradvratametasmādeva nivṛttikarma vārayatīti sataḥ | annamapi vratamucyate yadāvṛṇoti śarīram |*
+
+(Ni. 2-13 [?]) *[continues on the next page]*
+
+### Printed p. 58  (PDF 78)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* Thus he states three kinds of meaning of the word *vrata*: that the action a man does, whether auspicious or inauspicious, pervades him, so action is called *vrata*; or this action may also be *nivṛtti*-action: since it prevents (turns aside) an action that is not desired or not enjoined by the śāstra, it is called *vrata*; and since food pervades the body, food too is called *vrata*.
+
+(1) The word *vrata* is used in the sense of "restrain, hinder, protect" —
+
+> याः पार्थिवासो या अपामसि व्रते ता नो देवीः सुहवाः शर्म यच्छत ।
+
+> *yāḥ pārthivāso yā apāmasi vrate tā no devīḥ suhavāḥ śarma yacchata |*
+
+(Ṛ. Saṃ. 5-46-7 [?]) — the word *vrate* in this ṛk gives the sense "hindrance", that is, "protection" which prevents evil: "may the goddesses who are on earth and those who are in water, giving us protection from distress, bestow happiness on us". Here *vrate* means protection that frees from distress.
+
+> तासां नि चिक्युः कवयो निवानं परेषु या गुह्येषु व्रतेषु ।
+
+> *tāsāṃ ni cikyuḥ kavayo nivānaṃ pareṣu yā guhyeṣu vrateṣu |*
+
+(Ṛ. Saṃ. 10-109-3 [?]) — the poets (*nirṛti*s?) [as read] discovered what had been enclosed in caves, where no one sees it: here *vrateṣu* with the sense "that which is enclosed" is used as an epithet of the word *guhyeṣu*.
+
+> दद्दृश्र एषामवमा सदांसि परेषु या गुह्येषु व्रतेषु ।
+
+> *daddṛśra eṣāmavamā sadāṃsi pareṣu yā guhyeṣu vrateṣu |*
+
+(Ṛ. Saṃ. 2-34-3 [?])
+
+> असि यमो अस्यादित्यो अर्वन्नसि त्रितो गुह्येन व्रतेन ।
+
+> *asi yamo asyādityo arvannasi trito guhyena vratena |*
+
+
+(Ṛ. Saṃ. 1-163-3) — here too the word *vratena* is used in the sense "enclosed, concealed".
+
+(2) *Vrata* means a prohibitory ordinance, "such work must not be done", or a rule that "such work only must be done" — *dharma-niyama* ("law or ordinance" — English):
+
+> यच्चिद्धि ते विशो यथा प्र देव वरुण व्रतम् । मिनीमसि द्यविद्यवि ॥
+
+> *yaccid dhi te viśo yathā pra deva varuṇa vratam | minīmasi dyavidyavi ‖*
+
+(Ṛ. Saṃ. 1-25-1) — "O Varuṇa, whatever rules of yours we, as men, transgress by negligence (not noticing, doing the act through want of attention) ... *[continues on the next page]*
+
+---
+
+**Progress note:** printed p. 58 (PDF 78) done — Sūkta 166 Ṛk 12 Special Topics (vrata; Varuṇa-ṛk 1-25-1 in progress; continues on p. 59). Next: printed p. 59 (PDF 79). Open flags: small-type numerals [?]; review/doubts_v13.json.
