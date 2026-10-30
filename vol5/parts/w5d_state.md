@@ -5,6 +5,6 @@ Edits log: vol5/review/edits_w5d.txt. Tools: vol5/tools/flags_w5d.py (flagged li
 parens_w5d.py (montage of all parenthesised groups at 500 dpi; locating only), z_w5d.sh (600 dpi zoom of line:x0:x1), tiles_w5d.sh.
 Digit glyphs in this scan: ೨ = "2" with a loop at the foot; ೭ = "2" with a flat foot (ಒ-like); ೬ has a hook; ೯ ಕ-like; ೮ ಲ-like; ೫ ಜ-like.
 
-Done through: p. 579.
-Next unit: p. 580 (PDF 596).
+Done through: p. 580.
+Next unit: p. 581 (PDF 597).
 Open items: none yet.

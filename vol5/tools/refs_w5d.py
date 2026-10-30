@@ -20,5 +20,5 @@ if len(sys.argv)>2 and sys.argv[2]=='apply':
     for i in sorted(M): print(f'p. {P}: {ms[i-1].group()} -> {M[i]}')
 else:
     for i,m in enumerate(ms,1):
-        c=re.sub(r'\s+',' ',seg[max(0,m.start()-22):m.start()]).replace('\n',' ')
-        print(f"{i}{'*' if '?' in m.group() else ''} {m.group()} | {c[-22:]}")
+        C=int(os.environ.get("CTX","22")); c=re.sub(r"\s+"," ",seg[max(0,m.start()-C):m.start()])
+        print(f"{i}{'*' if '?' in m.group() else ''} {m.group()} | {c[-C:]}")
