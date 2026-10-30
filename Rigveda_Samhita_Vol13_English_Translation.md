@@ -2578,4 +2578,40 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 114 (PDF 134) done — Sūkta 168 Ṛk 1 in progress (Special Topics begun; continues on p. 115). Next: printed p. 115 (PDF 135). Open flags: small-type numerals [?]; the chandas line of Sūkta 168 heading block (1–8 jagatī, 9–10 triṣṭubh vs. bhāṣya 'last three triṣṭubh'); review/doubts_v13.json.
+### Printed p. 115  (PDF 135)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)* …"removing the faults, they perform the sacrifice so that it is completed in the manner enjoined by the rule": thus their greatness, and the excess of haste of the Marut-gods in regard to the sacrifice, is described. By the word *samanā* the *samākṛti*, "equality of intent", which consists in the absence of deficiency or excess in regard to every sacrifice, is explained for the Marut-gods. For the word *tuturvaṇiḥ* used here, the text has explained "*turvaṇiḥ*". The word *turvaṇi* is [stated] by Yāska —
+
+> सतुर्वणिर्मह्ना अरेणु पौंस्ये गिरेर्भृष्टिर्न भ्राजते तुजा शवः । येन शुष्णं मायिनमायसो मदे दुध्र आभूषु रामयन्नि दामनि ॥ [?]
+
+> *saturvaṇirmahnā areṇu pauṃsye girerbhṛṣṭirna bhrājate tujā śavaḥ | yena śuṣṇaṃ māyinamāyaso made dudhra ābhūṣu rāmayanni dāmani ‖ [?]*
+
+(Ṛ. Saṃ. 1-54-3) — in the cited ṛk *turvaṇiḥ* (Ni. 6-14 [?]) is explained as "*stotāraṃ tūrṇaṃ bhajate*" — "he who comes quickly near the praiser": the meaning "one who has haste" is given.
+
+***dhiyaṃ dhiyam*** — for these words: *yuṣmatsambandhivṛṣṭipradānādikaṃ sarvaṃ karma* — "all the acts of yours, giving rain and the rest": the grace of giving rain by the Maruts is explained as the first of the later acts; and the meaning that these acts, too, are such as give satisfaction to the gods, "like those who serve the gods" (*devān prāpayitāra iva*, [as read]), is explained for the word *devayāḥ*: "*devārthaṃ havirādyutpādanāya vṛṣṭiṃ kurutha*" — the Marut-gods cause rain, for the very sake of the production, in the form of grain and the like, of the oblations offered to the gods.
+
+***rodasyoḥ mahe avase suvitāya*** — *dyāvāpṛthivyoḥ mahate rakṣaṇāya prīṇanāya vā suṣṭhu vyāptāya*: "for the great protection of heaven and earth, or for their satisfaction; for the sake of your pervading all places and times, which is [equable]": with *suvṛktibhiḥ* — "excellent praises" — we call you towards us who sacrifice: this prayer of the seer of the mantra is described here. The Nirukta-writer has quoted an example of the use of the word *suvṛktibhiḥ* in this same sense:
+
+> इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः । पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ॥
+
+> *iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ | pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivāsema dhītibhiḥ ‖*
+
+(Ṛ. Saṃ. 6-61-2) — here *suvṛktibhiḥ* means *supravṛttābhiḥ svaraṣoṣmādiyuktābhiḥ* [as read]: "praises endowed with such sounds as *udātta* and the rest, with soft words, and with words that convey the right meaning".
+
+### Printed p. 116  (PDF 136)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 168".)* **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *yajñāyajñā* (*nityavīpsayoḥ* Pā. 8-1-4 gives doubling; *anudāttaṃ ca* Pā. 8-1-3 [?] makes the latter reduplicated member wholly unaccented; *supāṃ sulug…* gives *ā* to the case-ending). *samanā* (*samyag ānayitrī samanā*; root *ana prāṇane*; *ac* since the root belongs to the *pacādi* class; final acute; *ṭāp* in the feminine; in the *prādisamāsa* the *kṛdutta* member keeps its own accent). *devayāḥ* (root *yā prāpaṇe*; *devān yāpayantīti devayāḥ*; after a *ṇijanta* *kvip*; *ṇeraniṭi* Pā. 6-4-51 drops *ṇi*; the *kṛdutta* member keeps its accent). *dadhidhve* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; Vedic *liṭ*; 2nd plural; *nighāta* after a *tiṅanta*). *suvitāya* (*suṣṭhu itāya*; root *iṇ gatau*; *kta*; *tanādīnāṃ chandasi bahulam upasaṃkhyānam* gives *uvaṅ*; final acute by the suffix; dative singular). *mahe* (root *maha pūjāyām*; *kvip*; dative; *sānekācaś ca* Pā. 6-1-168 gives the acute to the case-ending). *vavṛtyām* (root *vṛtu vartane*; *liṅ* 1st singular; by *vyatyaya* *mip* → *am*; *ślu* for *śap*; the root doubled; *yāsuṭ*; *nighāta* after a *tiṅanta*). *suvṛktibhiḥ* (*śobhanā vṛktiḥ yeṣāṃ taiḥ*; *nañsubhyām* gives final acute to the later member). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> वव्रासो न ये स्वजाः स्वतवस इषं स्वरभिजायन्त धूतयः ।
+> सहस्रियासो अपां नोर्मय आसा गावो वन्द्यासो नोक्षणः ॥ २ ॥
+
+> *vavrāso na ye svajāḥ svatavasa iṣaṃ svarabhijāyanta dhūtayaḥ |*
+> *sahasriyāso apāṃ normaya āsā gāvo vandyāso nokṣaṇaḥ ‖ 2 ‖*
+
+---
+
+**Progress note:** printed p. 116 (PDF 136) done — Sūkta 168 Ṛk 1 complete; Ṛk 2 Saṃhitā written. Next: printed p. 117 (PDF 137): Pada, bhāṣya of Ṛk 2. Open flags: small-type numerals [?]; review/doubts_v13.json.
