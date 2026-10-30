@@ -2298,4 +2298,38 @@ From the root *arc* (to worship, to honour) the word *arka* has been formed; by 
 
 ---
 
-**Progress note:** printed p. 100 (PDF 120) done — Sūkta 167 Ṛk 7 complete; Ṛk 8: Saṃhitā, Pada and start of bhāṣya (continues on p. 101). Next: printed p. 101 (PDF 121). Open flags: small-type numerals [?]; Ṛk 8 Saṃhitā 'cayata' [?] and bhāṣya words; review/doubts_v13.json.
+### Printed p. 101  (PDF 121)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Bhāṣya (continued from p. 100):**
+
+> हे मरुतः युष्मदीय ईमयं कालो दातिवारः प्रदेयजलः खण्डितमेघो वा यदा वावृधे वर्धते । तदा मित्रादयो देवा युष्मदनुकूलप्यासारेण [?] जगद्रक्षन्तीत्यर्थः । यद्वा । दातिवारो दत्त्वरणीयोपहविर्लक्षणधनो यजमानो हे मरुतः ईमेनास्यु ष्मान् [?] ववृधे वर्धयति यदा तदेत्यर्थः ॥
+
+*Gist:* The Maruts' time of water-giving rain strengthens [the world]; then Mitra and the others, in agreement with you, protect the world; or the sacrificer who offers oblations for the gods increases you; then they act.
+
+**Pratipadārtha.** (*he*) *marutaḥ* — O Marut-gods; (*yadā* — when); *īm* — this time; *dātivāraḥ* — [the time] with the rain divided, for the clouds that are broken up and ready to give water; *vavṛdhe* — grows (increases); [or: *dātivāraḥ* — (to you) the sacrificer who gives desirable wealth in the form of oblation; *īm* — he, you; *vavṛdhe* — causes to prosper]; (*tadā* — then); *mitrāvaruṇau* — Mitra and Varuṇa; *aryamaḥ* — and Aryaman; *īm* — this world or sacrifice; *avadyāt* — from the reprehensible [from every fault]; *pānti* — protect; (*tathā* — likewise); *apraśastān* — all things unworthy of praise; *cayate* — they destroy; *uta* — and; *acyutā* — the one that is never falling [water]; (*adaḥ* — therefore); *dhruvāṇi* — the stable, unmoving water in the clouds; *cyavante* — make fall; [or: *acyutā* — what is without decay; *dhruvāṇi* — firm riches; *cyavante* — they bestow].
+
+**Bhāvārtha.** O Marut-gods, when the sacrificer increases you by offering oblations and the like, Mitra, Varuṇa and Aryaman protect our sacrifice from all faults; destroy everything unworthy of praise; and cause the waters in the clouds that do not fall of themselves to fall, and bestow unfailing, stable wealth. (In this world: they destroy all things that are perishable, and make the water in the unmoving clouds fall, and bestow it.)
+
+**English Translation (as printed):** Mitra, and Varuna, and Aryaman, defend (this) sacrifice from (all that is) reprehensible, and destroy (all that are) unworthy. They cause the yet unfallen and showering (rains) to descend, when, Maruts, the water-yielding (season) gives increase to this (world).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***mitrāvaruṇau aryamaḥ īm avadyāt pānti*** — *ahorātrābhimānidevau aryamā api ete trayaḥ amuṃ lokaṃ yajñaṃ vā ayathānuṣṭhānāt jagatpakṣe* *[continues on the next page]*
+
+### Printed p. 102  (PDF 122)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* *vyavahāraprativandharūpāt rakṣanti*: "these three, the presiding deities of day and night and Aryaman too, protect this world, or the sacrifice, from wrong performance; and, on the side of the world, from obstruction in the form of [hindrance to] worldly dealings." Yāska says of Mitra and Varuṇa: "*sahaiva saṃstavaḥ*" — in the same sentence the praise of both is made. Here Mitra and Varuṇa are described as the deities connected with the Maruts. These Mitra and Varuṇa, and the god called Aryaman, three gods, protect this world and the sacrifice. Sāyaṇa has explained the meaning thus: they protect so that in the sacrifice there be no negligence of duty or error in performing it, and in the world's affairs no obstruction of any kind arises. And they, these two, are also said to be the presiding deities of day and night.
+
+***apraśastān cayate*** — *śreṇānapi padārthān cātayanti nāśayanti*: [Sāyaṇa as read] "they cause even the *śreṇa* things to perish". These Mitra and Varuṇa, presiding deities of day and night, in the course of time cause a change of form in those things (the changes of the same things), and bring about their destruction: this is the meaning given. By this the capacity of the acts of creation and dissolution is established for Mitra and Varuṇa, the presiding deities of day and night.
+
+***acyutā dhruvāṇi cyavante*** — by this sentence maintenance (*sthiti*) too is said to be done by them. ***acyutāni*** — *āsrāviṇi*: in the first kind of meaning, "the waters in the cloud, which are fixed (*dhruva*) because the cloud, being in a dense state, does not move, and are in a liquid form (*āsrāviṇi*), these [two] cause to fall (*cyāvayanti*) as rain to the earth"; in the other: *yadvā acyutāni dhruvāṇi dhanāni cyavante* — "they bestow imperishable wealth upon the earth and cause the affairs of the world to be fulfilled" — thus the agency of creation, maintenance and dissolution is said to belong to Mitra and Varuṇa, the presiding deities of day and night. Mitra and Varuṇa are by form the day and night. To show that rain arises from day and night, the Vedic sentence is cited:
+
+> अहोरात्रे वै मित्रावरुणावहोरात्राभ्यां खलु वै पर्जन्यो वर्षति ।
+
+> *ahorātre vai mitrāvaruṇāvahorātrābhyāṃ khalu vai parjanyo varṣati |*
+
+Addressing the Marut-gods, the time when the Mitra deities and the rest perform the acts of creation of the world is shown. By the sentence *īṃ dātivāraḥ vavṛdhe* the time of the favour of Mitra and the others is shown; the word *īm* is explained here as meaning "this time". *Dātivāraḥ* — "*khaṇḍitameghaḥ pradeyajalaḥ*": of the clouds broken up, with the water to give: the water is brought to increase in the form of rain; and ***dattvaraṇīyahavirlakṣaṇadhano yajamānaḥ*** — "the sacrificer, whose wealth, in the form of oblations, is to be accepted by the gods who accept [the oblations]" — the sacrificer, having offered oblations to the gods, pours out wealth in the form of the oblation desired by the deities; and in accordance with the time offered with the gods in view, Mitra and the other gods, the Marut-gods, perform the acts needed for the world's good and complete and protect the affairs of the world: thus it is described.
+
+---
+
+**Progress note:** printed p. 102 (PDF 122) done — Sūkta 167 Ṛk 8 Special Topics complete up to the end of p. 102 (grammar note follows on p. 103). Next: printed p. 103 (PDF 123). Open flags: small-type numerals [?]; Ṛk 8 Saṃhitā/bhāṣya doubtful words; the Kannada gloss of dātivāra is rendered tentatively; review/doubts_v13.json.
