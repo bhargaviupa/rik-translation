@@ -445,3 +445,15 @@ p. 403: "sumubrāhmaṇe [as printed, doubtful]" -> "samam brāhmaṇe dānam" (
 p. 415: Saṃhitā 73.8 accents set as printed; reading note "Saṃhitā prints रायो" corrected (print: यान्राये).
 p. 416: bhāṣya "manuṣyān syān [sic: svān?] rāye" -> "manuṣyān asmān rāye" (as printed).
   p. 417: Ni. [3-30?] -> 3-22; Ni. [4-?] -> 4-6; Ni. [6-1] -> 6-1
+p. 418: Saṃhitā 73.9 accents set as printed (pitṛvittasya, tvotāḥ [accent ?]).
+  p. 419: bhāṣya ni. [5-2?] -> 5-2; ST Ni. [5-2?] -> 5-2
+  p. 420: "twenty-four [as read, ?]" horse -> twenty-six; Ni. [1-14?] -> 2-27 [as printed]; Ni. [1-?] -> 1-7 (twice); Ṛk. Saṃ. [2-1-16] -> 2-6-6-6 [as printed, Aṣṭaka form]
+  p. 420: wealth "twenty-eight [as read, ?]" confirmed; Ni. [2-10?] -> 3-9 [as printed]; Ṛk. Saṃ. [1-91-?] -> 6-4-12-2 [as printed, Aṣṭaka form]; Ni. [4-?] -> 4-7; Tai. Saṃ. [1-?-?] -> 1-5-8-5
+  p. 421: Ni. [3-2?] -> 5-2; Tai. Saṃ. [1-?-?] -> 1-5-8-5
+p. 422: Saṃhitā 73.10 accents set as printed (śakema [accent ?]).
+  p. 423: Uṇ. [3-116?] -> 3-116; Pā. [6-1-207, 208?] -> 6-1-209, 210
+p. 423: "śakemu(?)" -> "śakema"; "liṅy ādiṣyañ [?]" (लिज्यादिष्यञ्) -> "liṅy āśiṣy aṅ" (लिङ्याशिष्यङ्).
+  p. 424: "twenty-four [as read, ?]" wise -> twenty; Ni. [3-19?] -> 3-19; Ni. [?] (Yāska medhāvī) -> no number printed
+  p. 425: Uṇ. [3-116?] -> 3-365 [as printed; p. 423 prints 3-116]
+pp. 408, 411, 414, 416 (except bhāṣya fix): skipped, no flagged lines.
+Doubts: vol6/review/html/Vol6_doubts_p396-425.html (8).

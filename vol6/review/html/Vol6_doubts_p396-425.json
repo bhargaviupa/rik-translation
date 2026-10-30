@@ -1,0 +1,66 @@
+[
+{
+"id": "396_d0",
+"printed": 396,
+"file": "नित्य॑मि॒द्धमग्ने॒ … रयी॒णाम्",
+"ctx": "Saṃhitā 73.4: तं त्वा॒ नरो॒ दम॒ आ नित्य॑मि॒द्धमग्ने॒ सचं॑त",
+"kind": "accent",
+"note": "no mark seen over म of इद्धमग्ने; in रयीणाम् only यी underlined — is ರ also underlined?"
+},
+{
+"id": "401_d1",
+"printed": 401,
+"file": "वि॒श्वमायुः॑",
+"ctx": "Saṃhitā 73.5: दद॑तो॒ वि॒श्वमायुः॑ ।",
+"kind": "accent",
+"note": "underline stands between ವಿ and ಶ್ವ: under वि or श्व?"
+},
+{
+"id": "405_d2",
+"printed": 405,
+"file": "वावशा॒नाः … सुम॒तिं … सस्रु॒रद्रि॑म्",
+"ctx": "Saṃhitā 73.6: ऋ॒तस्य॒ हि धे॒नवो॑ वावशा॒नाः",
+"kind": "accent",
+"note": "underline places: under ಶಾ (vāvaśānāḥ), ಮ (sumatiṃ), between ಸ and ಸ್ರು (sasruḥ)"
+},
+{
+"id": "410_d3",
+"printed": 410,
+"file": "यज्ञि॒या॑सः",
+"ctx": "Saṃhitā 73.7: दधिरे यज्ञि॒या॑सः ।",
+"kind": "accent",
+"note": "underline between ಜ್ಞಿ and ಯಾ: य॒ज्ञिया॑सः or यज्ञि॒या॑सः?"
+},
+{
+"id": "418_d4",
+"printed": 418,
+"file": "पितृवि॒त्तस्य॑ … त्वो॑ताः",
+"ctx": "Saṃhitā 73.9: ई॒शा॒नासः॑ पितृवि॒त्तस्य॑ रा॒यो",
+"kind": "accent",
+"note": "underline under ವಿ, stroke over ಸ್ಯ in pitṛvittasya; stroke over ತ್ವೋ in tvotāḥ after an anudātta"
+},
+{
+"id": "422_d5",
+"printed": 422,
+"file": "श॒के॑म",
+"ctx": "Saṃhitā 73.10: श॒के॑म रा॒यः सु॒धुरो॒ यमं॒",
+"kind": "accent",
+"note": "stroke over ಕೇ after underlined ಶ"
+},
+{
+"id": "420_d6",
+"printed": 420,
+"file": "Ni. 2-27 [as printed]",
+"ctx": "twenty-six names of the horse (Ni. 2-27",
+"kind": "numeral",
+"note": "second group read ೨೭ (loop at bottom = 7)"
+},
+{
+"id": "424_d7",
+"printed": 424,
+"file": "Ni. 3-19",
+"ctx": "twenty names of the wise … (Ni. 3-19)",
+"kind": "numeral",
+"note": "last digit ೯ small"
+}
+]
