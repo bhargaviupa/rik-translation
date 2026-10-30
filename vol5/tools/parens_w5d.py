@@ -22,6 +22,9 @@ M=[]
 for a,b in L:
     if M and a-M[-1][1]<int(3*dpi/120): M[-1][1]=b
     else: M.append([a,b])
+def sub_ok(lab,s,i):
+    sub=(lab[s]==i); h,w=sub.shape
+    return sub.sum()<=0.55*h*w   # thin curve, not a filled stroke
 groups=[]  # (line, xa, xb)
 opens=[]
 for li,(a,b) in enumerate(M):
@@ -29,7 +32,7 @@ for li,(a,b) in enumerate(M):
     lab,n=ndimage.label(A[a2:b2]); P=[]
     for i,s in enumerate(ndimage.find_objects(lab),1):
         h=s[0].stop-s[0].start; w=s[1].stop-s[1].start
-        if h>=0.85*(b-a) and w<=0.32*h and w>=2:
+        if h>=0.75*(b-a) and w<=0.35*h and w>=2 and sub_ok(lab,s,i):
             sub=(lab[s]==i); r=np.arange(sub.shape[0]); mid=sub[h//3:2*h//3].nonzero()[1].mean(); ends=np.r_[sub[:h//5].nonzero()[1],sub[-h//5:].nonzero()[1]].mean()
             P.append((s[1].start,s[1].stop,'(' if mid<ends else ')'))
     P.sort(); cur=None
@@ -42,8 +45,10 @@ for li,(a,b) in enumerate(M):
             groups.append((li,cur,xb)); cur=None
     if cur is not None: groups.append((li,cur,A.shape[1]))
     M[li]=(a2,b2)
+SEL=[int(v) for v in os.environ.get('SEL','').split(',') if v]
 crops=[]
 for n,(li,xa,xb) in enumerate(groups,1):
+    if SEL and n not in SEL: continue
     a,b=M[li]; c=im.crop((max(0,xa-6),a,min(im.size[0],xb+6),b))
     while c.size[0]>MW-60:   # wrap long groups
         crops.append((n,c.crop((0,0,MW-60,c.size[1])))); c=c.crop((MW-60-40,0,c.size[0],c.size[1])); n=f'{n}+'
