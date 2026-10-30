@@ -13339,11 +13339,11 @@ abhikramyāva jighnate 'paḥ sarmāya codayann arcann anu svarājyam ||5||*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.5)**
 
-- **हीळितः** — *kruddhaḥ* — "'angry', 'one who has anger'. The form *hīḷitaḥ* is derived from the root *heḍṛ anādare krodhe ca* ('to disrespect, to be angry'). This root is read among the ten words (*reḷati, heḷate* …) denoting the action of anger (Ni. [3-9] [?]) —
+- **हीळितः** — *kruddhaḥ* — "'angry', 'one who has anger'. The form *hīḷitaḥ* is derived from the root *heḍṛ anādare krodhe ca* ('to disrespect, to be angry'). This root is read among the ten words (*reḷati, heḷate* …) denoting the action of anger (Ni. 3-9 [as printed]) —
 
 > अस्या ऊ षु ण उप सातये भुवोऽहेळमानो ररिवा अजाश्व श्रवस्यताम् [?] ।
 
-*asyā ū ṣu ṇa upa sātaye bhuvo 'heḷamāno rarivā ajāśva śravasyatām [?] |* (Ṛk. Saṃ. 1-[138]-[4] [?]) — *the words as read; the verse is garbled at this resolution and I give it with doubt [?]. Gloss, mine and tentative:* "…for our gain become one who is not angered…"
+*asyā ū ṣu ṇa upa sātaye bhuvo 'heḷamāno rarivā ajāśva śravasyatām [?] |* (Ṛk. Saṃ. 1-138-4) — *the words as read; the verse is garbled at this resolution and I give it with doubt [?]. Gloss, mine and tentative:* "…for our gain become one who is not angered…"
 
 > अहेळमानो वरुणेह बोध्युरुशंस मा न आयुः प्र मोषीः ।
 
@@ -13670,7 +13670,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.8)**
 
-- **वज्रासः** — "*didyut*, *nemiḥ* …: among the eighteen names of the thunderbolt beginning *didyut, nemiḥ*, the word *vajra* occurs (Ni. [2-20] [?]). '*Varjayati prāṇaiḥ śatrūn*' — 'it makes the enemies depart from their lives' — that is, it takes the life of the enemies; or '*vināśayati śatrūn*', it destroys the enemies; hence Indra's weapon is called *vajra*. Because the plural is used here — *vajrāsaḥ* — the sense is that these are weapons that Indra uses for the destruction of the enemies. But '*nāvyāḥ navatiṃ anu vi asthiran*': since it is described that the ninety rivers, which were large (to be crossed by boats), too were held back by the demon Vṛtra, and that the thunderbolt, seeing that, became many (…), the point of the sūkta is to say that when destroying the demon Vṛtra one thunderbolt became like many weapons. From this it is understood that the greatness of the thunderbolt exceeds that of other weapons."
+- **वज्रासः** — "*didyut*, *nemiḥ* …: among the eighteen names of the thunderbolt beginning *didyut, nemiḥ*, the word *vajra* occurs (Ni. 3-10 [as printed]). '*Varjayati prāṇaiḥ śatrūn*' — 'it makes the enemies depart from their lives' — that is, it takes the life of the enemies; or '*vināśayati śatrūn*', it destroys the enemies; hence Indra's weapon is called *vajra*. Because the plural is used here — *vajrāsaḥ* — the sense is that these are weapons that Indra uses for the destruction of the enemies. But '*nāvyāḥ navatiṃ anu vi asthiran*': since it is described that the ninety rivers, which were large (to be crossed by boats), too were held back by the demon Vṛtra, and that the thunderbolt, seeing that, became many (…), the point of the sūkta is to say that when destroying the demon Vṛtra one thunderbolt became like many weapons. From this it is understood that the greatness of the thunderbolt exceeds that of other weapons."
 - **ते बाह्वोर्बलं हितम्** — "the sense is that in your arms is placed a strength greater than the strength of the arms of all (others). The roots *o hāk gatau* and *o hāk tyāge* have the senses of going and abandoning; from them with the affix *kta* the words *hita* in the senses 'gone', 'abandoned' arise; but here, from the root *ḍudhāñ*, by the sūtra "dadhāter hiḥ" (दधातेर्हिः, Pā. Sū. 7-4-42) the affix *kta* is replaced and the form *hita* arises: 'is placed, is held'."
 - **नवतिम्** — *navatisaṃkhyākā vṛtreṇa niruddhā nadīḥ* — "the bhāṣyakāra has explained the word *navatim* as 'ninety rivers held back by Vṛtra'. Here the doubt arises whether *navatim* means just the rivers of the definite number ninety, or whether like words denoting number such as *śatam*, *sahasram* it has a manifold sense. In places where a manifold sense is indicated, the use of the words *śate*, *sahasra* is ordinary. Hence there are grounds enough for saying that the word *navatim* indicates only a definite number, and that in this the use of the word has especially to do with rivers. For example —
 
@@ -13784,7 +13784,7 @@ mahat ta indra vīryaṃ bāhvos te balaṃ hitam arcann anu svarājyam ||8||*
 
 — in this Ṛk, for the word *sahasram* the sense 'those who praise the well-known Indra, the *vasurociṣaḥ*, a thousand in number: the ṛṣis' is given. By the word *viṃśati*, 'twenty', the twenty Aṅgirases may be understood. In the *itihāsa* the Aṅgirases are well known as ten persons; but if one counts Bṛhaspati and the other brothers, the Aṅgirasa-ṛṣis come to twenty. These also, together with the thousand *vasurociṣas*, praise Indra. According to the statement '*pavasnetraiyā …*' [as read: '*havasnetrai(?)yaiḥ sūktaṃ śataṃ vaikhānasā viduḥ*' — the quotation is read with doubt [?]] the Vaikhānasas too, a hundred persons, praise Indra. And he explains that those who perform the sacrifice also praise Indra."
 
-- **ब्रह्म** — "the word *brahma* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. [2-7] [?]), so it conveys the sense of 'food'. The sense is 'offer food in the form of oblation for Indra'."
+- **ब्रह्म** — "the word *brahma* is read among the twenty-eight names of food beginning *andhaḥ, vājaḥ* (Ni. 3-9 [as printed]), so it conveys the sense of 'food'. The sense is 'offer food in the form of oblation for Indra'."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.9)** *(grammar page, noted briefly; runs to p. 595)*
 
@@ -13866,7 +13866,7 @@ mahat tad asya pauṃsyaṃ vṛtraṃ jaghanvāṁ asṛjad arcann anu svarājy
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.10)**
 
-- **तविषीम्** — *balam* — "the word *taviṣī* is read among the twenty-eight names of strength (Ni. [2-9] [?]); hence *taviṣīm* means 'strength'. Likewise the words *pauṃsyam* and *sahaḥ* are read among the names of strength. But of these three words that convey the sense 'strength', the word *taviṣī* is used also of Vṛtra's capacity (*sāmarthya*); the word *pauṃsya* of Indra's power (*śakti*); the word *sahaḥ* is used of the weapon, the means that shows strength abundant. By this, Sāyaṇa has explained *sahaḥ* as '*abhibhavasādhanaṃ vṛtrāyudham*', 'Vṛtra's weapon, a means of repelling Indra', and *sahasā* as '*sahanena abhibhavasādhanena āyudhena*', 'Indra's weapon, suited to destroy Vṛtra, with a power of overcoming'. Skandasvāmin explains the word *taviṣī* as 'strength in the form of an army' and the word *sahaḥ* as indicating bodily strength."
+- **तविषीम्** — *balam* — "the word *taviṣī* is read among the twenty-eight names of strength (Ni. 3-9 [as printed]); hence *taviṣīm* means 'strength'. Likewise the words *pauṃsyam* and *sahaḥ* are read among the names of strength. But of these three words that convey the sense 'strength', the word *taviṣī* is used also of Vṛtra's capacity (*sāmarthya*); the word *pauṃsya* of Indra's power (*śakti*); the word *sahaḥ* is used of the weapon, the means that shows strength abundant. By this, Sāyaṇa has explained *sahaḥ* as '*abhibhavasādhanaṃ vṛtrāyudham*', 'Vṛtra's weapon, a means of repelling Indra', and *sahasā* as '*sahanena abhibhavasādhanena āyudhena*', 'Indra's weapon, suited to destroy Vṛtra, with a power of overcoming'. Skandasvāmin explains the word *taviṣī* as 'strength in the form of an army' and the word *sahaḥ* as indicating bodily strength."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 80.10)** *(grammar page, noted briefly; runs to p. 598)*
 
@@ -13945,8 +13945,8 @@ yad indra vajrinn ojasā vṛtraṃ marutvāṁ avadhīr arcann anu svarājyam |
 
 **॥ विशेषविषयगळु ॥ — Special Topics (Rik 80.11)**
 
-- **ओजसा** — "*ojaḥ, pājaḥ*: this word is stated among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* (Ni. [2-9] [?]); hence it means 'strength'."
-- **मही** — "*svadhe purandhrī* …: since it is stated among the twenty-four names of heaven and earth (*dyāvāpṛthivī*) beginning with *svadhe purandhrī* (Ni. [3-30] [?]), here it means the earth and the *antarikṣa*."
+- **ओजसा** — "*ojaḥ, pājaḥ*: this word is stated among the twenty-eight names of strength beginning *ojaḥ, pājaḥ* (Ni. 3-9 [as printed]); hence it means 'strength'."
+- **मही** — "*svadhe purandhrī* …: since it is stated among the twenty-four names of heaven and earth (*dyāvāpṛthivī*) beginning with *svadhe purandhrī* (Ni. 3-22 [as printed]), here it means the earth and the *antarikṣa*."
 
 ### Page 600 (PDF 618)
 

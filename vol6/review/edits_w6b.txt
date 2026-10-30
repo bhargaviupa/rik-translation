@@ -713,3 +713,10 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 605: (Ni. [1-12] [?]) -> (Ni. 2-24 [as printed])
   p. 605: (Ni. [1-10] [?]) -> (Ni. 2-21 [as printed])
   p. 614: (Ni. [11-33] [?]) -> (Ni. 12-34 [as printed])
+  p. 579: (Ni. [3-9] [?]) -> (Ni. 3-9 [as printed])
+  p. 579: 1-[138]-[4] [?] -> 1-138-4
+  p. 590: (Ni. [2-20] [?]) -> (Ni. 3-10 [as printed])
+  p. 594: (Ni. [2-7] [?]) -> (Ni. 3-9 [as printed])
+  p. 597: (Ni. [2-9] [?]) -> (Ni. 3-9 [as printed])
+  p. 599: (Ni. [2-9] [?]) -> (Ni. 3-9 [as printed])
+  p. 599: (Ni. [3-30] [?]) -> (Ni. 3-22 [as printed])
