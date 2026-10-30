@@ -14170,4 +14170,84 @@ To understand the ṛk at hand fully, one must know the relation among the deiti
 
 ---
 
-**Progress note:** printed p. 512 (PDF 532) done — Sūkta 180 Ṛk 4: bhāṣya…printed English, Special Topics begun (Atri, gharma; continues p. 513). Next: printed p. 513 (PDF 533). Open flags: refs [?]; bhāṣya Ṛk 4 garbled in places [?]; review/doubts_v13.json; GitHub push intermittently failing (retry).
+### Printed p. 513  (PDF 533)
+
+*(Header: "A. 2 A. 4 Va. 24"; "Ṛgvedasaṃhitā"; page 513; signature mark "XIII 33".)*
+
+**Special Topics (continued)** — "… *omyāvantam atraye* …" — so he explains. Therefore it appears that two meanings can be given for the word *atri*: one in the sense of the ṛṣi Atri, the other in the sense of Agni. Or, since the ṛṣi Atri is a part of Agni, identity (*tādātmya*) between the two can also be stated. In some places Atri is known as a son of Agni; in other places, as Agni in form. The story of the origin of the ṛṣi Atri is told thus in the Bṛhaddevatā:
+
+> त्रिसांवत्सरिकं सत्रं प्रजाकामः प्रजापतिः । आहरत्सहितः साध्यैर्विश्वैर्देवैः सहेति च ॥
+> तत्र वाग्दीप्तणीयोयां [?] आजगाम शरीरिणी । तां दृष्ट्वा युगपत्तत्र कस्याथ वरुणस्य च ॥
+> शुक्रं चस्कन्द तद्वायुरग्नौ प्रास्यद्यदभ्यया [?] । ततोऽर्चिर्भ्यो भृगुर्जज्ञे अङ्गारेभ्योऽङ्गिरा ऋषिः ॥
+> प्रजापतिं सुतौ दृष्ट्वा दृष्ट्वा वागभ्यभाषत । आभ्यामृषिस्तृतीयोऽपि भवेदत्रैव मे सुतः ॥
+> प्रजापतिस्तथेत्युक्तः प्रत्यभाषत भारतीम् । ऋषिरत्रिस्ततो जज्ञे सूर्यानलसमद्युतिः ॥
+
+> *trisāṃvatsarikaṃ satraṃ prajākāmaḥ prajāpatiḥ | āharatsahitaḥ sādhyairviśvairdevaiḥ saheti ca ‖*
+> *tatra vāgdīptaṇīyoyāṃ [?] ājagāma śarīriṇī | tāṃ dṛṣṭvā yugapattatra kasyātha varuṇasya ca ‖*
+> *śukraṃ caskanda tadvāyuragnau prāsyadyadabhyayā [?] | tato 'rcirbhyo bhṛgurjajñe aṅgārebhyo 'ṅgirā ṛṣiḥ ‖*
+> *prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgabhyabhāṣata | ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖*
+> *prajāpatistathetyuktaḥ pratyabhāṣata bhāratīm | ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*
+
+(Bṛ. De. 5-97 to 101 [?]; as read, several words doubtful [?]) — Prajāpati, wishing for progeny, performed, together with the Sādhyas and the Viśvedevas, a sacrificial session (*sattra*) lasting three years: so it is well known. At that time the goddess Vāc came in bodily form to the *sattra*. On seeing her, the seed of Prajāpati and of Varuṇa fell at once; Vāyu cast it into the fire. Then from the flames Bhṛgu and from the embers Aṅgiras were born. The goddess Vāc, seeing these two sons, asked for another son besides these two. When Prajāpati had consented, the ṛṣi Atri, equal in brilliance to the sun and fire, was born from that seed which had been cast into the fire.
+
+Moreover, when Yāska explains the word *atri* in the sense of Agni, he says *haviṣām attā* ("the eater of oblations"), i.e. he states that Agni has the name *atri* because he eats the oblations. That Agni eats not only oblations but everything is described in the Ṛk-saṃhitā itself. For example:
+
+> यत्ते कृष्णः शकुन आतुतोद पिपीलः सर्प उत वा श्वापदः ।
+> अग्निष्टद्विश्वादगदं कृणोतु सोमश्च यो ब्राह्मणाँ आविवेश ॥
+
+> *yatte kṛṣṇaḥ śakuna ātutoda pipīlaḥ sarpa uta vā śvāpadaḥ |*
+> *agniṣṭadviśvādagadaṃ kṛṇotu somaśca yo brāhmaṇā~ āviveśa ‖*
+
+(Ṛ. Saṃ. 10-16-6 [?]) — in this ṛk Agni is praised as *viśvāt*, "the eater of all". And:
+
+### Printed p. 514  (PDF 534)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 180"; page 514.)*
+
+> युवानं विश्वपतिं कविं विश्वादं पुरुवेपसम् ।
+> अग्निं शुम्भामि मन्मभिः ॥
+
+> *yuvānaṃ viśvapatiṃ kaviṃ viśvādaṃ puruvepasam |*
+> *agniṃ śumbhāmi manmabhiḥ ‖*
+
+(Ṛ. Saṃ. 8-44-26 [?]) — here too Agni is praised with this same epithet. On the strength of these, *atri* may be explained in many places as "Agni", fitting the context.
+
+Besides these epithets, there are many contexts which speak of the identity (*tādātmya*) of both Agni and Atri, and these are suggested in the Ṛk-saṃhitā. For example:
+
+> ऋषिं नरावंहसः पाञ्चजन्यमृबीसादत्रिं मुञ्चथो गणेन ।
+> मिनन्ता दस्योरशिवस्य माया अनुपूर्वं वृषणा चोदयन्ता ॥
+
+> *ṛṣiṃ narāvaṃhasaḥ pāñcajanyamṛbīsādatriṃ muñcatho gaṇena |*
+> *minantā dasyoraśivasya māyā anupūrvaṃ vṛṣaṇā codayantā ‖*
+
+(Ṛ. Saṃ. 1-117-3 [?]) — in this (a ṛk addressed to the deity Aśvins) Atri has the epithet *pāñcajanya*. Likewise:
+
+> अग्निर्ऋषिः पवमानः पाञ्चजन्यः पुरोहितः । तमीमहे महागयम् ॥
+
+> *agnirṛṣiḥ pavamānaḥ pāñcajanyaḥ purohitaḥ | tamīmahe mahāgayam ‖*
+
+(Ṛ. Saṃ. 9-66-20 [?]) — and in many ṛks that follow, the word *pāñcajanya* is an epithet of Agni. Whatever meaning is given to the word *pāñcajanya*, it is a special feature that it is an epithet of both Agni and Atri; it cannot be wrong to say that the epithet suggests the closeness of their mutual relation. And, as in the ṛk at hand, the Aśvins protected Atri who was in the *gharma*; likewise:
+
+> अग्निर्ह त्यं जरतः कर्णमावाग्निरद्भ्यो निरदहज्जरूथम् ।
+> अग्निरत्रिं घर्म उरुष्यदन्तरग्निर्नृमेधं प्रजयासृजत्सम् ॥ [as read [?]]
+
+> *agnirha tyaṃ jarataḥ karṇamāvāgniradbhyo niradahajjarūtham |*
+> *agniratriṃ gharma uruṣyadantaragnirnṛmedhaṃ prajayāsṛjatsam ‖ [as read [?]]*
+
+(Ṛ. Saṃ. 10-80-3 [?]) — here it is said that Agni protected Atri who was in the *gharma*. The extraordinary divine qualities of Atri are described at great length in the 40th sūkta of the 5th Maṇḍala of the Ṛk-saṃhitā. If only some mantras of that sūkta are examined, the deities who are prayed to here are Sūrya, Indra and Atri:
+
+> यत्त्वा सूर्य स्वर्भानुस्तमसाविध्यदासुरः ।
+> अक्षेत्रविद्यथा मुग्धो भुवनान्यदीधयुः ॥
+> स्वर्भानोरध यदिन्द्र माया अवो दिवो वर्तमाना अवाहन् ।
+> गूळ्हं सूर्यं तमसापव्रतेन तुरीयेण ब्रह्मणाविन्ददत्रिः ॥
+
+> *yattvā sūrya svarbhānustamasāvidhyadāsuraḥ |*
+> *akṣetravidyathā mugdho bhuvanānyadīdhayuḥ ‖*
+> *svarbhānoradha yadindra māyā avo divo vartamānā avāhan |*
+> *gūḷhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindadatriḥ ‖*
+
+(Ṛ. Saṃ. 5-40-5 to 6 [?]) — as soon as Svarbhānu released the Sun from darkness, all beings were bewildered. Then Indra made the Asura fall below. Atri, with his divine sight, knew the place where the Sun was held covered by darkness: so it is said. And again, …
+
+---
+
+**Progress note:** printed p. 514 (PDF 534) done — Sūkta 180 Ṛk 4 Special Topics (Atri origin, Atri–Agni identity; continues p. 515). Next: printed p. 515 (PDF 535). Open flags: refs [?]; Bṛhaddevatā verse 2 garbled [?]; review/doubts_v13.json.

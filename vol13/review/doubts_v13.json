@@ -5098,5 +5098,29 @@
   ],
   "note": "Yaska-view sentence garbled ('akte', 'omyavantam'); ref Rg 1-119-6",
   "answer": ""
+ },
+ {
+  "pdf": 533,
+  "printed": 513,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brh.De 5-97..101 verses: line 2 'vagdiptaniyoyam', 'yadabhyaya' garbled; refs Brh.De, Rg 10-16-6 small",
+  "answer": ""
+ },
+ {
+  "pdf": 534,
+  "printed": 514,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 8-44-26, 1-117-3, 9-66-20, 10-80-3, 5-40-5/6 small; 10-80-3 last word read approx",
+  "answer": ""
  }
 ]
