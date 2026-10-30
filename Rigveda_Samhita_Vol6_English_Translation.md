@@ -12550,8 +12550,10 @@ viśvāsu pṛtsu dustaram ||8||*
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 79.9**
 
-> आ नो अग्ने सुचेतुना रयिं विश्वायुपोषसम् ।
-> मार्डीकं धेहि जीवसे ॥ ९ ॥
+*(Accents as printed, 300 dpi; underline positions doubtful: [accent ?]. First word of line 2 kept as in the file, but the print looks like मू…/मृ… [?].)*
+
+> आ नो॑ अग्ने सुचे॒तुना॑ र॒यिं वि॒श्वायु॑पोषसम् ।
+> मा॒र्डी॒कं धे॑हि जी॒वसे॑ ॥ ९ ॥
 
 *ā no agne sucetunā rayiṃ viśvāyupoṣasam |
 mārḍīkaṃ dhehi jīvase ||9||*
