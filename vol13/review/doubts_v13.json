@@ -3598,5 +3598,29 @@
   ],
   "note": "Rg ref 7-25-3?; Nirukta dyumna passage read approx",
   "answer": ""
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "crop": [
+   0.5,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 Samhita/Pada 'nivida/nividam' reading: print shows nividam in Pada; Samhita 'nividam' - zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhashya: 'mayu iva' / 'stotrbhyah stotrbhyah' doubling; Panini 1-4-85 small",
+  "answer": ""
  }
 ]
