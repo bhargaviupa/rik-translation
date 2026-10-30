@@ -5977,4 +5977,78 @@ Sāyaṇa explains *dhenu* as "cows" and gives the meaning that the cows which y
 
 ---
 
-**Progress note:** printed p. 246 (PDF 266) done — Sūkta 173 Ṛk 1 Special Topics (svar discussion continues p. 247). Next: printed p. 247 (PDF 267). Open flags: Nirukta/Ṛk ref numerals [?]; review/doubts_v13.json.
+### Printed p. 247  (PDF 267)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+…the meaning differs from place to place, and must be fixed according to context. Here, having understood the meaning of the root form of the word *svar*, the import of *svarvat* is explained. Words such as *svardṛśaḥ*, *svarvid* are to be understood only in their own contexts.
+
+*Svaḥ*, *pṛśniḥ*, *nākaḥ* and the like — this word is read in the general lists of names. "*Sādhāraṇāny etāni ṣaḍ divaś cādityasya ca*" — "*svaḥ, pṛśniḥ, nākaḥ, gauḥ, viṣṭapam, nabhaḥ*": these six words are common terms both for the sky and for the sun, the Nirukta-writers say (Ni. 2-14 [?]). Then, as to the root of *svar* and how the word is derived, when it is used for the sun:
+
+> स्वरादित्यो भवति सु अरणः, सु ईरणः, स्वतो रसान्, स्वतो भासं ज्योतिषाम् । स्वतो भासेति वा ।
+
+> *svarāditya bhavati su araṇaḥ, su īraṇaḥ, svato rasān, svato bhāsaṃ jyotiṣām | svato bhāseti vā |*
+
+(Ni. 2-14 [?]). Because he goes far, or because he draws up (the waters) completely and destroys (darkness), or because he enters into the juices and is within them, or because he spreads his own light in the circle of fire so as to be one with it, or because he is all-pervading in the form of splendour — the sun has this name; and for this reason the sky also, by "*yaten dyauvyākhyātā*" [?], has this name, the Nirukta-writers say.
+
+> स्वरादित्यो भवति स एनानि सारयति ।
+
+> *svarāditya bhavati sa enāni sārayati |*
+
+(Ni. 5-4 [?]). By making the rays move, also, the sun has the name *svaḥ*. Where this word is used in the Ṛk-saṃhitā:
+
+> प्रत्यङ् देवानां विशः प्रत्यङ्ङुदेषि मानुषान् । प्रत्यङ् विश्वं स्वर्दृशे ॥
+
+> *pratyaṅ devānāṃ viśaḥ pratyaṅṅ udeṣi mānuṣān | pratyaṅ viśvaṃ svardṛśe ‖*
+
+(Ṛ. Saṃ. 1-50-5 [?]) — in such ṛks it means the world of heaven; and
+
+> त्मना वहन्तो दुरो व्यृण्वन्नन्ते विश्वे स्व ᳚ निर्दृशीके ।
+
+> *tmanā vahanto duro vy ṛṇvann ante viśve sva … nirdṛśīke |* [as read; garbled: [?]]
+
+(Ṛ. Saṃ. 1-68-10 [?]) — in such places *svaḥ* means "in the sky". And again
+
+> दा नो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि । प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि दिद्युतः ॥
+
+> *dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi | prācī dyāvāpṛthivī brahmaṇā kṛdhi svar ṇa śukram uṣaso vi didyutaḥ ‖*
+
+(Ṛ. Saṃ. 2-2-2 [?]) — in such ṛks it is explained as "the sun". Likewise, words such as *svarvat*, formed with the suffix *vat*, are to be explained according to context. For example —
+
+### Printed p. 248  (PDF 268)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+> यो इन्द्र भुज आभरः स्वर्वाँ असुरेभ्यः । स्तोतारमिन्मघवन्नस्य वर्धय ये च त्वे वृक्तबर्हिषः ॥
+
+> *yo indra bhuja ābharaḥ svarvāṃ asurebhyaḥ | stotāram in maghavann asya vardhaya ye ca tve vṛktabarhiṣaḥ ‖*
+
+(Ṛ. Saṃ. 8-92-1 [?]). Here *svarvān* means "possessing happiness" or "possessing heaven". Or the word *svaḥ* is a synonym for "all"; "*sarvaṃ bhūtajātaṃ ātmanā vivṛtaṃ vā*" [as read, doubtful: [?]]. The word *svaḥ* having the meanings happiness, heaven or "all", *svarvān* means one who has happiness, heaven, or everything: all these meanings fit Indra as an epithet. And again:
+
+> तं शिशीता स्वध्वरं सत्यं सत्यानमृत्विजम् । उतो नु चिद्य ओहत आण्डा शुष्णस्य भेदत्यज्जैः स्वर्वतीरपो नभन्तामन्यके समे ॥
+
+> *taṃ śiśītā svadhvaraṃ satyaṃ satyānam ṛtvijam | uto nu cid ya ohata āṇḍā śuṣṇasya bhedaty ajjaiḥ svarvatīr apo nabhantām anyake same ‖* [as read; partly doubtful: [?]]
+
+(Ṛ. Saṃ. 8-40-11 [?]). In such places *svarvatīḥ apaḥ*, as an epithet of waters, means "waters (found) in *divya*, the heavenly world (*svargaloka*)"; the epithet describes also the qualities of Agni and other deities. For example —
+
+> ज्योतिष्मतीमदितिं धारयत्क्षितिं स्वर्वतीमा सचेते दिवेदिवे जागृवांसा दिवेदिवे ।
+
+> *jyotiṣmatīm aditiṃ dhārayat kṣitiṃ svarvatīm ā sacete dive-dive jāgṛvāṃsā dive-dive |*
+
+(Ṛ. Saṃ. 1-136-3 [?]). Here *svarvatī* is an epithet of Aditi; in the ṛk, as explained there, it is "bringing about heaven through the accomplishment of the sacrifice". And
+
+> आ ते शुष्मो वृषभ एतु पश्चादोत्तरादधरादा पुरस्तात् । आ विश्वतो अभि समेत्वर्वाङिन्द्र द्युम्नं स्वर्वद्दोहस्व ॥ [?]
+
+> *ā te śuṣmo vṛṣabha etu paścād ottarād adharād ā purastāt | ā viśvato abhi sametv arvāṅ indra dyumnaṃ svarvad dohasva ‖* [as read; partly doubtful: [?]]
+
+(Ṛ. Saṃ. 6-19-9 [?]). In such ṛks *svarvat* indicates "wealth possessed of happiness" (*sukhayuktaṃ dhanam*). In the present ṛk, as an epithet of *sāman*, it may be taken to mean "that which brings about heaven" or "that which brings about the happiness of heaven".
+
+**Vyākaraṇa-prakriyā (grammar)**
+
+***gāyat*** — root *gai śabde*; by "*chandasi luṅ-laṅ-liṭaḥ*" the *laṅ* is in the present sense; third person singular. Vedically it has no augment *a*.
+
+***nabhanyam*** — *nabhasi bhavaḥ nabhanyaḥ*: in the sense "being in", the suffix *yat*; Vedically *sa* is replaced by *na*; by "*tit svaritam*" the *svarita* accent arises.
+
+---
+
+**Progress note:** printed p. 248 (PDF 268) done — Sūkta 173 Ṛk 1 grammar begun (gāyat, nabhanyam; continues p. 249). Next: printed p. 249 (PDF 269). Open flags: Ṛg/Nirukta ref numerals [?]; some quoted Ṛks partly doubtful; review/doubts_v13.json.
