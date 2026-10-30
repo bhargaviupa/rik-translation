@@ -369,3 +369,7 @@ Unit 11 (pp. 222–239, Sūkta 68): accents set as printed on all 5 Saṃhitā b
   p. 237: Ni. 2-11 [?] -> 2-11
   p. 238: Ni. 2-11 confirmed; quotation 'kṛdhi kṣumantaṃ jaritāraṃ… vājam' [?] (Ṛk. Saṃ. 3-[?]-[?]) -> 'kṛdhi kṣumantaṃ vājam' (Ṛ. Ve. 2-4-8, as printed)
 Not viewed (unflagged bracketed refs): p. 233 Ni. [2-2]; p. 234 Ni. [1-12]; p. 238 Ni. [3-9], Ni. 4-[4] (note keeps [?]). Left: p. 232 amūra etymologies note, p. 237 "read at 150 dpi" label. Pages skipped (no flagged lines): 224, 227, 230, 239.
+Unit 12 (pp. 240–261, Sūkta 69 and Ṛk 70.1): accents set on the 6 Saṃhitā blocks (69.1–69.5, 70.1) from crops (marks sit at glyph junctions: all six verses labelled [accent ?] -> doubts page Vol6_doubts_p240-261.html); 69.1 Saṃhitā word is ಶುಶುಕ್ವಾಂ -> śuśukvāṃ (file's Devanagari/IAST had śiśu; matches the file's own note).
+  p. 243: Ṛk. Saṃ. 1-92-10 (as read, ?) -> 1-92-10 (as printed)
+  p. 247: Ṛk. Saṃ. 5-54-6 [?] -> 5-54-6; 1-68-10 [?] -> 1-65-10 [?] (middle digit 5/8 doubtful); 1-60-2 [?] -> 1-60-2
+Not viewed: bracketed Nirukta refs p. 242 [1-12], p. 246 [3-15], p. 247 [2-7],[3-13], p. 248 [3-4], p. 251 [2-3], p. 257 [1-4], p. 258 [1-5],[1-15]; sense-only [?] notes pp. 241, 246, 253, 254, 256, 258, 261. Pages skipped (no flagged lines): 244, 245(except accents), 249, 250, 252, 255, 259 (not in file), 260 except accents.
