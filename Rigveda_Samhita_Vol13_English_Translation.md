@@ -17219,4 +17219,50 @@ The word **ātmanvantaṃ** is an epithet of the word *plava*; "*dāḍhyavanta�
 
 ---
 
-**Progress note:** printed p. 614 (PDF 634) done — Sūkta 182 Ṛk 5 ends (Special Topics, grammar). Next: printed p. 615 (PDF 635): Ṛk 6. Open flags: refs [?]; review/doubts_v13.json.
+### Sūkta 182, Ṛk 6  (printed p. 615; PDF 635)
+
+*(Header: "A. 2 A. 4 Va. 28"; "Ṛgvedasaṃhitā"; page 615.)*
+
+**Saṃhitā-pāṭha**
+
+> अवविद्धं तौग्र्यमप्स्वन्तरनारम्भणे तमसि प्रविद्धम् ।
+> चतस्रो नावो जठलस्य जुष्टा उदश्विभ्यामिषिताः पारयन्ति ॥ ६ ॥
+
+**Pada-pāṭha**
+
+> अवऽविद्धं । तौग्र्यं । अप्ऽसु । अन्तः । अनारम्भणे । तमसि । प्रऽविद्धं ।
+> चतस्रः । नावः । जठलस्य । जुष्टाः । उत् । अश्विऽभ्यां । इषिताः । पारयन्ति ॥ ६ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> अप्स्वन्तर्मध्येऽवविद्धमवस्ताच्छत्रुभिः पातितमनारम्भणेऽनालम्बन आलम्बनरहिते तमसि । तमोवत्तमः । दृष्टिश्वासादिप्रतिबन्धके जलमध्ये प्रविद्धं प्रकर्षेण पीडितं तौग्र्यं भुज्युं जठलस्य जठरवदुदकधारकस्य मध्ये जुष्टाः सेविताः । यद्वा । कर्मणि षष्ठी । जठरं प्राप्ताः अन्तर्जलं प्रविष्टाः । अश्विभ्यामिषिताश्चतस्रो नाव उत्पारयन्ति । उत्तारयन्ति । प्रापयन्ति ॥
+
+*(Sanskrit as read; a few words doubtful [?]. Gist: Bhujyu, flung down into the waters and sorely pressed in the darkness with no support, was carried across by four ships sent by the Aśvins.)*
+
+**Pratipadārtha** — **apsu antaḥ** — in the middle of the waters; **ava viddhaṃ** — thrown headlong (by the foes); **anārambhaṇe** — unsupported, without any hold; **tamasi** — in darkness (like darkness, hindering sight); **pra viddhaṃ** — in the midst of the water, greatly distressed; **tauġryaṃ** — Bhujyu, son of Tugra; **jaṭhalasya** — of the sea that holds water like a belly; **juṣṭāḥ** — served by them; [or **jaṭhalasya juṣṭāḥ** — entered the inside of the water]; **aśvibhyām iṣitāḥ** — sent by the Aśvin deities; **catasraḥ nāvaḥ** — four boats; **ut pārayanti** — bring (to the shore).
+
+**Bhāvārtha** — Bhujyu, thrown down by foes into the midst of the sea, gravely hurt by the lack of sight and breath and by the darkness, was brought up to the shore by four boats, sent by the Aśvin deities, which entered the inner part of the water.
+
+### Printed p. 616  (PDF 636)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 616.)*
+
+**English Translation.** *(printed)*
+
+"Four ships launched into the midst of the receptacle (of the waters), sent by the Ashwins, brought safe to shore the son of Tugra, who had been cast headlong into the waters (by his foes), and plunged in inextricable darkness."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+Mr. A. C. Das, in his book *Rigvedic India*, Vol. I, has explained the matter of Bhujyu in this way:
+
+> "This legend (of Bhujyu) also means that the Sun remained invisible in consequence of the fall of incessant rains for three days and nights, during which period, the Aswins also remained in the *parāvat* [printed in Kannada letters] or distant region, as they were not at all visible on account of the presence of dripping clouds in the sky. The Aswins rescued Bhujyu from his perilous position and brought him home in a hundred oared ship, the hundred ones probably representing hundred days or three months during which the rains lasted. The same sentiment is probably also more elaborately expressed in the verses which say that Aswins rescued Bhujya, 'with animated water-tight ships, which traversed the air (*antarikṣa* [printed in Kannada letters]); with four ships, with an animated winged boat; with three flying cars having a hundred feet and six horses.' Now these ships or flying cars either three or four in number approximately represented the three or four months, the hundred feet represented the hundred days, and the six horses probably the six fortnights during which the rainy season lasted. Across this [printed 'tihs', sic] season Bhujyu (the Sun) was safely piloted home by Aswins in their ships or flying cars."
+
+[Rig-Vedic India. p. 533-534]
+
+In this, what we must chiefly notice is that, for *catasraḥ nāvaḥ* in the ṛk at hand, he has explained "these are four months". The meaning given is that the Aśvin deities carried across, by their boats in the form of months, the Sun, who had become hidden by the clouds from the mass of rain in the rainy season.
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *avaviddham* — root *vyadha tāḍane*; suffix *kta* in the passive; since it is *kit*, in making it the *nimitta*, *saṃprasāraṇa* of the root; "*na saṃprasāraṇe saṃprasāraṇam*" (Pā. Sū. 6-1-37 [?]) — because the earlier one is prohibited, *saṃprasāraṇa* of *y* into *i*; "*ṛṣasta…*" (as read, [?]) gives the suffix …
+
+---
+
+**Progress note:** printed p. 616 (PDF 636) done — Sūkta 182 Ṛk 6 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (A. C. Das quote), grammar begun (continues p. 617). Next: printed p. 617 (PDF 637). Open flags: refs [?]; review/doubts_v13.json.
