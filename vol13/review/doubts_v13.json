@@ -2782,5 +2782,29 @@
   ],
   "note": "grammar sutra numerals small; tarutra explanation read approx",
   "answer": ""
+ },
+ {
+  "pdf": 341,
+  "printed": 321,
+  "crop": [
+   0.1,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhashya long/dense; many readings approx (pratnakagrah, etatsamvatsaralaksakah, kathera.., purukutsayaitannamne, netannamakam); Rg ref 1-63-2, Nirukta 6-30",
+  "answer": ""
+ },
+ {
+  "pdf": 341,
+  "printed": 321,
+  "crop": [
+   0.62,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 Pratipadartha: wording partly garbled in print; rendering approximate; continues p.322 top",
+  "answer": ""
  }
 ]

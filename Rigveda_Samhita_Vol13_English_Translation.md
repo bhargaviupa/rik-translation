@@ -8271,4 +8271,44 @@ and in many other places, it is said that by Agni and the other deities, along w
 
 ---
 
-**Progress note:** printed p. 320 (PDF 340) done — Sūkta 174 Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written. Next: printed p. 321 (PDF 341), Ṛk 2 bhāṣya. Open flags: Ṛg/Nirukta/sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 321  (PDF 341)
+
+*(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā"; signature mark "XIII 21" at foot.)*
+
+**Sāyaṇa-bhāṣya** (as read; this passage is long and dense, with many doubtful readings, marked [?])
+
+> हे इन्द्र त्वं वृत्रसंबन्ध्यसुराणां पुरभेदनसमये मृध्रवाचो मर्षणवचना विशस्तदीयाः प्रजाः शर्म सुखं यथा भवति तथा दनः । अदमयः । दमेरिदं रूपम् । यद्वा । वर्णव्यत्ययः । नदः । अनदः । अशब्दयः [?] असुरप्रजाः । अतिभयंकरशब्दमकरोः । कदेति आह । यद्यदा शारदीः प्रत्नकाग्राः [?] । यद्वा । एतत्संवत्सरलक्षकः [?] । संवत्सरपर्यन्तं दृढीकृता अपि । सप्त पुर एतत्संख्याकाः पुरीर्दर्त् । अदारयः । पुरुषव्यत्ययः । दृणातेर्लङि छान्दसो विकरणस्य लुक् । रात्लस्य । पा. ८-२-२४ [?] । इति नियमात् तलोपाभावः । तथा कृत्वा हे अनवद्य [?] … हे इन्द्र अर्णा अरणशीलाः अपः तदीयदुर्गस्थानान्युदकाश्रयाणि तटाकादीनि ऋणोः । अगमयः । प्रावर्तयः । भग्नान्यकरोः । एवमुपदृत्य पुरुकुत्सायैतन्नाम्ने राज्ञे यूने नित्यं तरुणाय तदर्थं वृत्रं नेतन्नामकमसुरं रन्धीः [?] । असाधयः । अहनः । अयमैतिहासिकपक्षः ॥ निरुक्तरूढ्या तु हे इन्द्र मृध्रवाचो विशो मर्षणध्वनियुक्ता वृष्टिरूपाः प्रजा दनः । अदमयः । अशब्दयो वा । अवर्षयः इत्यर्थः । कदा । यद्यदा सप्त पुरः शारदीर्दर्त् सर्पणस्वभावान्प्रत्यग्रान् वृष्ट्यै जगत्स्फूरकान्मेघानदारयः तदेत्यर्थः । तथा कृत्वा हे अनवद्य अर्णाः अरणस्वभावा अपः ऋणोः । अगमयः । प्रावर्तयः कुल्यादिरूपेण । अनन्तरं यूने पुरुकुत्सायु वृत्रं मुख्यं मेघं रन्धीः । असाधयः । अहनः । अयमर्थः त्वं ह त्यदिन्द्र सप्त युध्यन् । ऋ. १-६३-२ । इत्यादिमन्त्रान्तरेषु प्रसिद्धः । यास्कस्त्वेवं व्याख्यात् । दनो दानमनसो नो मनुष्यानिन्द्र मृदुवाचः कुरु । नि. ६-३० । इति ॥
+
+> *he indra tvaṃ vṛtrasaṃbandhy-asurāṇāṃ purabhedanasamaye mṛdhravāco marṣaṇavacanā viśas tadīyāḥ prajāḥ śarma sukhaṃ yathā bhavati tathā danaḥ | adamayaḥ | damer idaṃ rūpam | yadvā | varṇavyatyayaḥ | nadaḥ | anadaḥ | aśabdayaḥ [?] asuraprajāḥ | atibhayaṃkaraśabdam akaroḥ | kadeti āha | yad yadā śāradīḥ pratnakāgrāḥ [?] | yadvā | etatsaṃvatsaralakṣakaḥ [?] | saṃvatsaraparyantaṃ dṛḍhīkṛtā api | sapta pura etatsaṃkhyākāḥ purīr dart | adārayaḥ | puruṣavyatyayaḥ | dṛṇāter laṅi chāndaso vikaraṇasya luk | rātlasya | pā. 8-2-24 [?] | iti niyamāt talopābhāvaḥ | tathā kṛtvā he anavadya [?] … he indra arṇā araṇaśīlāḥ apaḥ tadīyadurgasthānāny udakāśrayāṇi taṭākādīni ṛṇoḥ | agamayaḥ | prāvartayaḥ | bhagnāny akaroḥ | evam upadṛtya purukutsāyaitannāmne rājñe yūne nityaṃ taruṇāya tadarthaṃ vṛtraṃ netannāmakam asuraṃ randhīḥ [?] | asādhayaḥ | ahanaḥ | ayam aitihāsikapakṣaḥ ‖ niruktarūḍhyā tu he indra mṛdhravāco viśo marṣaṇadhvaniyuktā vṛṣṭirūpāḥ prajā danaḥ | adamayaḥ | aśabdayo vā | avarṣayaḥ ity arthaḥ | kadā | yad yadā sapta puraḥ śāradīr dart sarpaṇasvabhāvān pratyagrān vṛṣṭyai jagatsphūrakān meghān adārayaḥ tadety arthaḥ | tathā kṛtvā he anavadya arṇāḥ araṇasvabhāvā apaḥ ṛṇoḥ | agamayaḥ | prāvartayaḥ kulyādirūpeṇa | anantaraṃ yūne purukutsāyu vṛtraṃ mukhyaṃ megham randhīḥ | asādhayaḥ | ahanaḥ | ayam arthaḥ tvaṃ ha tyad indra sapta yudhyan | ṛ. 1-63-2 | ity ādimantrāntareṣu prasiddhaḥ | yāskas tv evaṃ vyākhyāt | dano dānamanaso no manuṣyān indra mṛduvācaḥ kuru | ni. 6-30 | iti ‖* [?]
+
+*Gist (two senses):* (a) [historical] Indra, at the destruction of the seven new cities of the Vṛtra-allied *asuras*, made their people, suing for mercy, subject; freed the flowing waters; and slew Vṛtra for the young Purukutsa. (b) [Nirukta sense] Indra, when he broke the seven new moving clouds, released the rain-giving people (rain-waters), set the flowing waters in motion, and slew the chief cloud, Vṛtra.
+
+**Pratipadārtha (Kannada, translated)**
+
+*yat* — when; *śāradīḥ* — new (as if firmly made for one year); *sapta puraḥ* — the seven cities (of the *asuras*); *dart* — you broke; (*tadā* — then); (*he*) *indra* — O Indra; (*tvam* — you); *mṛdhravācaḥ* — of soft speech (praying for forgiveness); *viśaḥ* — (of that city) the people; *śarma* — as comfortable; *danaḥ* — you subdued (you made them utter a terribly fearful cry); (*anantaram* — afterwards) (*he*) *anavadya* — O blameless Indra; *arṇāḥ* — flowing by nature; *apaḥ* — those that are in the fortified places, the lakes and the like; *ṛṇoḥ* — you drove out (you broke the dams); (*kiñca* — and) *yūne* — to the youth; *purukutsāya* — for Purukutsa the king; *vṛtram* — the *asura* named Vṛtra; *randhīḥ* — you destroyed. [Or (*he*) *indra* — O Indra; *yat* — when; *sapta* — those that move (flowing); *śāradīḥ* — new; *puraḥ* — (by rain) the clouds that make the world stir; *dart* — you tore; (*tadā* — then) *mṛdhravācaḥ* — soft in sound;]
+
+### Printed p. 322  (PDF 342)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
+
+*mṛdhravācaḥ-sound*; *viśaḥ* — rain-form people (the waters); *śarma danaḥ* — as the world is comforted you have made them soft (you let the clouds loose); *he anavadya* — O blameless Indra; *arṇāḥ* — of flowing nature; *apaḥ* — the waters; *ṛṇoḥ* — you set to flow (you drove out, setting them going); (*anantaram* — afterwards); *yūne purukutsāya* — for the youthful Purukutsa; *vṛtram* — the chief cloud; *randhīḥ* — you destroyed.]
+
+**Bhāvārtha**
+
+O Indra, when you destroyed the seven cities of the *asuras*, you brought their people, who begged for pardon, into subjection (by breaking the clouds you made the rain fall). O blameless Indra, you set free the flowing waters; and for the youthful Purukutsa you destroyed the *asura* Vṛtra.
+
+**Printed English**
+
+You have humbled the people, suing for pardon when you had destroyed their seven new cities: you the irreproachable, have dispersed the flowing waters: you have destroyed Vṛtra for the sake of the youthful Purukutsa.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk Sāyaṇa has given one meaning of a historical (*aitihāsika*) kind, and another of the kind found in the Nirukta. The first meaning, the historical one, is described here.
+
+***mṛdhravācaḥ — marṣaṇavacanāḥ*** — it is explained that this word is used as an epithet of the word *viśaḥ*. Addressing Indra: "*vṛtrasaṃbandhy-asurāṇāṃ purabhedanasamaye marṣaṇavacanās tadīyāḥ prajāḥ sukhaṃ yathā bhavati tathā danaḥ — adamayaḥ*": at the time of the breaking of the cities of the *asuras* allied with Vṛtra, he made the people of those cities say soft words, so that they might live in comfort, and conducted himself accordingly. *Yadvā varṇavyatyayaḥ nadaḥ anadaḥ aśabdayo 'sura-prajāḥ atibhayaṃkaraśabdam akaroḥ*: of the word *danaḥ*, he first explains that it is a form of the root *dam* ("to subdue"); in the second explanation, by transposition of the letters of the word *danaḥ* the word *nadaḥ* arises; thus at the time when Indra destroyed the cities of the *asura* subjects of Vṛtra, those people uttered terrible cries of fear; as they did so, they uttered soft words and had comfort: so he explains the sense.
+
+***śāradīḥ sapta puraḥ dart*** — it is explained that the word *śāradīḥ* is used in the sense of *sūtana* (new, fresh) and in the sense *saṃvatsara* (year). Indra, newly built…
+
+---
+
+**Progress note:** printed p. 322 (PDF 342) done — Sūkta 174 Ṛk 2 (bhāṣya, Pratipadārtha, Bhāvārtha, printed English; Special Topics begun, continues p. 323). Next: printed p. 323 (PDF 343). Open flags: Ṛk 2 bhāṣya long/dense, many [?]; Pratipadārtha order garbled; review/doubts_v13.json.
