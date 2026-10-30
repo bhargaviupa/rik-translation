@@ -5026,5 +5026,29 @@
   ],
   "note": "printed English typos devont/froms marked sic; ref Rg 1-179-2",
   "answer": ""
+ },
+ {
+  "pdf": 527,
+  "printed": 507,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni vana (1-15?, 1-12?), Rg 1-168-3?, 6-2-8, 6-6-4, 1-140-7 small; 'sarpanam' phrase",
+  "answer": ""
+ },
+ {
+  "pdf": 528,
+  "printed": 508,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-8, Rg 1-153-4, Ni 4-19, Rg 1-112-20 small; 'harate-malla' gloss approx",
+  "answer": ""
  }
 ]
