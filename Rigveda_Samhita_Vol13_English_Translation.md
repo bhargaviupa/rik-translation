@@ -4110,4 +4110,52 @@ Sāyaṇa, explaining that Indra speaks these words, says that Indra addressed t
 
 ---
 
-**Progress note:** printed p. 184 (PDF 204) done — Sūkta 170 Ṛk 2 complete; Ṛk 3 Saṃhitā to Special Topics begun (continues p. 185). Next: printed p. 185 (PDF 205). Open flags: Ṛk 3 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 185  (PDF 205)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 10"; the Special Topics of Ṛk 3 continue.)*
+
+(*he bhrātaḥ agastya* continued) — …*nābhyāṃ parasparopakārakatvāt*: Indra grants boons, and the sage Agastya offers oblations to Indra; since this arises from mutually beneficial action, the brotherhood is thus supported.
+
+***sakhā san naḥ kim ati manyase*** — by this sentence the reproach spoken by Indra is expressed: "since the two of us are of a reciprocally helpful disposition, *asmaddhitakāryapi san* — you, intent on doing us good, though you are attached (Agastya) to us, forgetting the intention you hold regarding us, *kasmād aparādham atikramya manuṣe*, *apalapasi* — you know that I have committed no offence. As you said before, if you place your trust in me, the share of the oblation will be offered to the Marut-gods. For this reason you commit a transgression with respect to me and impute it to me as my fault (that Indra has caused the Marut-gods to be without oblations)": this meaning is understood from the word *apalapasi*.
+
+The intention stated in the preceding ṛk exposes Indra's own fault (the fault outside him), and, taking it as an offence of Agastya against Indra, "*nāyam apalāpaḥ kiṃtu tathyam eva*" ("this is not a denial but the very truth") is explained; its reply is stated by the next sentence.
+
+***gantavyaṃ, te manaḥ yathā vidma*** — by the word *gantavya* it is suggested that Indra, having understood the intention of Agastya, either approved of it, or rejected it with contempt. "Your mind's intention is entirely known to me": thus it is explained. The intention of your mind — "*asmabhyam in na dittsasi*" — is that you do not wish to offer the oblation prepared for us to us; and by the sentence "*asmadarthaṃ niruptam asmabhyaṃ dātuṃ necchasyeva*", Indra supports that this is your offence, that you do not wish to give us what has been prepared for us: thus it is explained.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *manyase* (root *mana jñāne*, *divādi*; *laṭ* 2nd singular; *nighāta*); *vidma* (root *vida jñāne*, *adādi*; *laṭ* 1st plural, affix *mas*; *ma* substituted by "*vido laṭo vā*", Pā. Sū. 3-4-83 [?]; *luk* of *śap* by "*adiprabhṛtibhyaḥ śapaḥ*"; since it stands at the beginning of a *pāda* there is no *nighāta*; accent on the last syllable by the affix; the long vowel in the Saṃhitā by "*dvyacotastiṅaḥ*", Pā. Sū. 6-3-135 [?]); *dittsasi* (root *ḍudāñ dāne*; *san* in the sense of wish by "*dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā*"; reduplication by "*sanyaṅoḥ*"; the substitute *ī* for the *ā* of the root by "*sani mīmāghurabhalabhaśakapatapadām…*", Pā. Sū. 7-4-54 [?]; loss of the reduplicative syllable by "*atro lopo'bhyāsasya*", Pā. Sū. 7-4-58 [?]; *t* for the first *s* by "*saḥ syārdhadhātuke*", Pā. Sū. 7-4-49 [?]; *nighāta* since it stands after a word ending in a verb). ‖ 3 ‖
+
+### Printed p. 186  (PDF 206)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 170".)*
+
+*(ornamental rule)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अरं कृण्वन्तु वेदिं समग्निमिन्धतां पुरः ।
+> तत्रामृतस्य चेतनं यज्ञं ते तनवावहै ॥ ४ ॥
+
+> *araṃ kṛṇvantu vediṃ samagnimindhatāṃ puraḥ |*
+> *tatrāmṛtasya cetanaṃ yajñaṃ te tanavāvahai ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अरम् । कृण्वन्तु । वेदिम् । सम् । अग्निम् । इन्धताम् । पुरः ।
+> तत्र । अमृतस्य । चेतनम् । यज्ञम् । ते । तनवावहै ॥ ४ ॥
+
+> *aram | kṛṇvantu | vedim | sam | agnim | indhatām | puraḥ |*
+> *tatra | amṛtasya | cetanam | yajñam | te | tanavāvahai ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> इदमिन्द्रवाक्यम् । अपरेऽगस्त्यवाक्यमाहुः । हे ऋत्विजो यूयम् अगस्त्योऽस्य [?] ज्ञीकेतवान् [?] तस्माद्वेदिमरं कृण्वन्तु । संमार्जनपर्युक्षणादिना परिचरन्तु । तथा पुरः पुरस्तादग्निमाहवनीयादिकं संमिन्धताम् । इध्मप्रक्षेपेण प्रज्वालयन्तु । तत्राग्नावमृतस्यामरणलक्षणस्य वेदत्वस्य [?] चेतनं प्रज्ञापकं यज्ञं हे अगस्त्य ते त्वदीयं त्वं चाहं च तनवावहै ॥ अगस्त्यवाक्यपक्षे शिष्टमवशिष्टम् । तत्र वेद्यामृतस्य तत्स्थापनस्य हविषो वा चेतनं प्रज्ञापनमासादनं कुरुत । आवां पत्नीयजमानौ अध्वर्युर्यजमानौ वा हे इन्द्र ते त्वदर्थं यज्ञं तनवावहै ॥ [reading doubtful in places]
+
+*Gist:* Indra's speech (others say Agastya's): let the priests prepare the altar and kindle the fire in front; there let us two perform the sacrifice, which gives knowledge of the immortal.
+
+**Pratipadārtha.** *(he ṛtvijaḥ* — O priests (you)*)* ; *vedim* — the altar-ground (the altar); *araṃ kṛṇvantu* — adorn (with sweeping and the like); *puraḥ* — in front; *agnim* — the *āhavanīya* fire and the like; *saṃ indhantu* — kindle with fuel; *(O Agastya)* ; *tatra* — in that kindled fire; *amṛtasya* — of the immortal (knowledge of); *cetanam* — that which makes known (and); *te* — your
+
+---
+
+**Progress note:** printed p. 186 (PDF 206) done — Sūkta 170 Ṛk 3 complete; Ṛk 4 Saṃhitā, Pada, bhāṣya and Pratipadārtha begun (breaks off at 'te — your'). Next: printed p. 187 (PDF 207). Open flags: Ṛk 4 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
