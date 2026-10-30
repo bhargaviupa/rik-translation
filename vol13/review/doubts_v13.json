@@ -2614,5 +2614,29 @@
   ],
   "note": "Rg ref 2-9-1? and Brh.Up 1-1-1? small; Nirukta refs 2-10, 2-17",
   "answer": ""
+ },
+ {
+  "pdf": 327,
+  "printed": 307,
+  "crop": [
+   0.2,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 13 Samhita 'stoma(h)' final glyph after stoma uncertain (visarga vs u)",
+  "answer": ""
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-4-4, 3-54-18 small; quotes read approx",
+  "answer": ""
  }
 ]

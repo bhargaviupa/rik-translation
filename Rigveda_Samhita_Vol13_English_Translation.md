@@ -7764,4 +7764,78 @@ The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprin
 
 ---
 
-**Progress note:** printed p. 306 (PDF 326) done — Sūkta 173 Ṛk 12 complete. Next: printed p. 307 (PDF 327), Sūkta 173 Ṛk 13 (last of the sūkta; colophon). Open flags: Ṛg/Nirukta/Bṛ.Up. refs and sūtra numerals [?]; review/doubts_v13.json.
+### Printed p. 307  (PDF 327)
+
+*(Header: "A. 2 A. 4 Va. 14"; "Ṛgvedasaṃhitā".)*
+
+---
+
+**Sūkta 173, Ṛk 13**
+
+**Saṃhitā-pāṭha**
+
+> एष स्तोम इन्द्र तुभ्यमस्मे एतेन गातुं हरिवो विदो नः ।
+> आ नो ववृत्याः सुविताय देव विद्यामेषं वृजनं जीरदानुम् ॥ १३ ॥
+
+> *eṣa stoma indra tubhyam asme etena gātuṃ harivo vido naḥ |*
+> *ā no vavṛtyāḥ suvitāya deva vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 13 ‖*
+
+(The print has a mark after *stoma* that I read as visarga/*u*: [?].)
+
+**Pada-pāṭha**
+
+> एषः । स्तोमः । इन्द्र । तुभ्यम् । अस्मे इति । एतेन । गातुम् । हरिऽवः । विदः । नः ।
+> आ । नः । ववृत्याः । सुविताय । देव । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ १३ ॥
+
+> *eṣaḥ | stomaḥ | indra | tubhyam | asme iti | etena | gātum | hari-vaḥ | vidaḥ | naḥ |*
+> *ā | naḥ | vavṛtyāḥ | suvitāya | deva | vidyāma | iṣam | vṛjanam | jīra-dānum ‖ 13 ‖*
+
+**Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
+
+> अथ त्रयोदश्या सूक्तादिमारभ्य कृतां स्तुतिं निगमय्य फलं प्रार्थयते ॥ हे इन्द्र एष स्तोमः इदानीं कारितप्रकारः स्तोत्रविशेषस्तुभ्यं त्वदर्थं । हे हरिवो हरिभ्यां तद्वन्निन्द्र [?] एतेन स्तोत्रेण गमनेन वा नोऽस्मदीयं गातुं देवयजनमार्गं विदः । विदस्व । विदित्वा च हे देव सुविताय सुहिताय शोभनगमनाय वा नोऽस्मान्ना ववृत्याः । आवर्तस्व । अस्मद्याग प्रत्यागच्छ । विद्यामेत्यादि व्याख्यातम् ॥
+
+> *atha trayodaśyā sūktādim ārabhya kṛtāṃ stutiṃ nigamayya phalaṃ prārthayate ‖ he indra eṣa stomaḥ idānīṃ kāritaprakāraḥ stotraviśeṣas tubhyaṃ tvadarthaṃ | he harivo haribhyāṃ tadvann indra [?] etena stotreṇa gamanena vā no 'smadīyaṃ gātuṃ devayajanamārgaṃ vidaḥ | vidasva | viditvā ca he deva suvitāya suhitāya śobhanagamanāya vā no 'smān nā vavṛtyāḥ | āvartasva | asmadyāga pratyāgaccha | vidyāmety ādi vyākhyātam ‖* [?]
+
+*Gist:* Having concluded the praise offered from the beginning of the sūkta, the sage asks for the fruit: O Indra, lord of bay horses, by this hymn learn the way to our sacrifice and come back to it for our welfare; may we obtain food, strength and long life.
+
+**Pratipadārtha (Kannada, translated)**
+
+(*he*) *indra* — O Indra; *asme* — our; *eṣaḥ stomaḥ* — this praise (that has been made so far); *tubhyam* — for you; (*he*) *harivaḥ* — O Indra, who have two bay horses; *etena* — by this praise; *naḥ* — our; *gātum* — the path to the sacrificial hall; *vidaḥ* — know (afterwards); (*he*) *deva* — O god; *suvitāya* — for our welfare (for the good coming); *naḥ* — us; *ā vavṛtyāḥ* — come, with regard to us; *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain (by your grace).
+
+**Bhāvārtha**
+
+O Indra, this praise that we have uttered up to now is for your satisfaction. Know by our praise the way to our sacrificial hall; come to the hall for our welfare; and may we, by your favour on your coming, obtain food, strength and long life.
+
+### Printed p. 308  (PDF 328)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+**Printed English**
+
+This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to our sacrifice, and come hither for our good, that we may thence obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***harivaḥ — haribhyāṃ tadvann indra*** — since *harī indrasya* ("the two bay horses of Indra") are employed for the horses of Indra, Sāyaṇa explains the word *harivaḥ* as "*tadvan*", "possessing them". Indra is addressed by this word.
+
+***eṣa stomaḥ — idānīṃ kāritaprakāraḥ stotraviśeṣaḥ*** — by the sage, the seer of the mantra, the wish is expressed that this special praise, uttered in the manner described, may reach Indra.
+
+***etena naḥ gātuṃ vidaḥ*** — since the word *etena* is read among the pronouns, it conveys what is present in the mind; Sāyaṇa, addressing Indra, explains it both in the sense "by this praise" and in the sense of the movement derived from the root *iṇ* (meaning "go"), "by movement (coming)": "***asmadīyaṃ devayajanamārgaṃ stotreṇa gamanena vā vidasva***" — that Indra may know, by our praise or by his own coming, the way to the sacrificial hall where we offer oblations to the deities.
+
+***gātum*** — in this manner two meanings, "the path of performance of the rite (*anuṣṭhāna*)" and "the path to the world of the gods (*devaloka*)", may be obtained, even where the sense of "going" is understood. As with the word *sugam*, this word has both a physical and an ethical meaning.
+
+> ऊर्ध्वो वां गातुरध्वरे अकारि ऊर्ध्वा शोचींषि प्रस्थिता रजांसि । दिवो वा नाभा न्यसादि होता स्तृणीमहि देवव्यचा वि बर्हिः ॥
+
+> *ūrdhvo vāṃ gātur adhvare akāry ūrdhvā śocīṃṣi prasthitā rajāṃsi | divo vā nābhā nyasādi hotā stṛṇīmahi devavyacā vi barhiḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-4-4 [?]) — in such ṛks it means "path"; and
+
+> अर्यमा णो अदितिर्यज्ञियासोऽदब्धानि वरुणस्य व्रतानि । युयोत नो अनपत्यानि गन्तोः प्रजावान्नः पशुमाँ अस्तु गातुः ॥
+
+> *aryamā ṇo aditir yajñiyāso 'dabdhāni varuṇasya vratāni | yuyota no anapatyāni gantoḥ prajāvān naḥ paśumāṃ astu gātuḥ ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 3-54-18 [?]) — and in other such places *gātu* is taken as "a house of praisers (*stuvantīndrādīn ity gātugṛham*)", the house of those who praise Indra and the other deities; and —
+
+---
+
+**Progress note:** printed p. 308 (PDF 328) done — Sūkta 173 Ṛk 13 (last): Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (gātu; continues p. 309). Next: printed p. 309 (PDF 329). Open flags: Ṛk 13 Samhitā 'stoma' final mark [?]; Ṛg refs [?]; review/doubts_v13.json.
