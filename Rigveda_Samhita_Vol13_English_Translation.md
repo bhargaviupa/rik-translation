@@ -11786,4 +11786,79 @@ The word *vṛṣan* is used in many places in the sense of one possessed of the
 
 ---
 
-**Progress note:** printed p. 436 (PDF 456) done — Sūkta 177 Ṛk 3: bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 437). Next: printed p. 437 (PDF 457). Open flags: Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 437  (PDF 457)
+
+*(Header: "A. 2 A. 4 Va. 20"; "Ṛgvedasaṃhitā"; page 437.)*
+
+**Special Topics (continued)**
+
+> दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीररुं [?] शूर मर्त्यं परिवृणक्षि मर्त्यम् ॥
+
+> *dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cidyāvīraruṃ [?] śūra martyaṃ parivṛṇakṣi martyam ‖*
+
+(Ṛ. Saṃ. 1-129-3 [?])
+
+> ता तो ते सत्या तुविनृम्ण विश्वा प्र धेनवः सिस्रते वृष्ण ऊध्नः ॥
+
+> *tā to te satyā tuvinṛmṇa viśvā pra dhenavaḥ sisrate vṛṣṇa ūdhnaḥ ‖*
+
+(Ṛ. Saṃ. 4-23-6 [?])
+
+— in such places *vṛṣṇaḥ* is used in the sense "the one who sprinkles water, the one who sprinkles desired objects" (*varṣakaḥ, varṣaṇaparamanasyaḥ* — as read [?]). Besides this, other meanings also occur here and there, in an unusual manner; yet the word *vṛṣṇya* has chiefly the sense of an extraordinary power and virility (*vīrya*), as seen in many places:
+
+> आ प्यायस्व समेतु ते विश्वतः सोम वृष्ण्यम्
+
+> *ā pyāyasva sametu te viśvataḥ soma vṛṣṇyam*
+
+(Ṛ. Saṃ. 1-91-16 [?])
+
+> महाँ असि महिष वृष्ण्येभिर्धनस्पृदुग्र सहमानो अन्यान्
+
+> *mahā~ asi mahiṣa vṛṣṇyebhirdhanaspṛdugra sahamāno anyān*
+
+(Ṛ. Saṃ. 3-46-2 [?])
+
+> वि चर्मणीव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ण्यम्
+
+> *vi carmaṇīva dhiṣaṇe avartayadvaiśvānaro viśvamadhatta vṛṣṇyam*
+
+(Ṛ. Saṃ. 6-8-3 [?])
+
+— in these and many other ṛks the sense of *vṛṣṇya* is common: virility (*vīrya*) and prowess. Besides, since in many contexts the word *vṛṣan* is used as a synonym of Indra and other deities, in such places it must be inferred, in keeping with the context, that this or that deity is meant.
+
+> अपोषा अनसः सरत्संपिष्टादह बिभ्युषी । नि यत्सीं शिश्नथद्वृषा
+
+> *apoṣā anasaḥ saratsaṃpiṣṭādaha bibhyuṣī | ni yatsīṃ śiśnathadvṛṣā*
+
+(Ṛ. Saṃ. 4-30-10 [?])
+
+— here it can be inferred that *vṛṣā* is a synonym of Indra. But in many places there is doubt about which deity is meant; and sometimes even Sāyaṇācārya, when giving the sense of this epithet, does not state a definite opinion. For example:
+
+> वृषा छन्दुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति
+
+> *vṛṣā chandurbhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yadinvati*
+
+(Ṛ. Saṃ. 1-55-4 [?]) — in this ṛk he gives room for doubt, saying first that *vṛṣā* is "*haviṣāṃ varṣayitā yajamānaḥ*" (the sacrificer who rains down oblations), and then "*yadvā vṛṣā indraḥ*" ("or *vṛṣā* is Indra"). Thus, because the word is used in many meanings, in each place the meaning suited to it has to be made out. In explaining this word, rich in suggestion, the English commentator Max Müller has shown the depth of the ideas it conveys, as follows:
+
+### Printed p. 438  (PDF 458)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 177"; page 438.)*
+
+> "In Vrishan we have one of those words which it is almost impossible to translate accurately. It accurs [sic] over and over again in the Vedic hymns and if we once know the various ideas which it either expresses or implies, we have little difficulty in understanding its import in a vague and general-way, though we look in vain for corresponding terms in any modern language.......................and we shall see how difficult it would be to translate such terms without losing either the key-note that was still sounding or the harmonies which were set vibrating by it in the minds of the poets and their listeners.
+> [F. Max Muller S. B. E. Vol. XXXII. P. 138–39]"
+
+In the ṛks under consideration it can be said that the word *vṛṣan* is used in all the senses stated above.
+
+***haribhyām — harī indrasya*** (Ni. 3-25 [?]) — the Nirukta-writers have stated that this name is well known for Indra's horses.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***pariṣiktā*** — root *ṣicir kṣaraṇe*; the suffix *kta* by *niṣṭhā*; by "*coḥ kuḥ*" the *c* of the root becomes *k*-class; by "*gatir anantaraḥ*" (Pā. Sū. 6-2-49 [?]), as an exception to the *kṛdutta* rule of the final member's natural accent, the fore-member (*pari*, a *gati*) keeps its natural accent. In the neuter plural, by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) there is elision of *śi*.
+- ***kṣitīnām*** — root *kṣi nivāsagatyoḥ*; by "*striyāṃ ktin*" the suffix *ktin*; genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-177 [?]) the *udātta* accent comes on *nām*.
+- ***pravatā*** — by "*upasargāc chandasi dhātvarthe*" (Pā. Sū. 5-1-118 [?]) the suffix *vati* after *pra*; the suffix takes the *ādyudātta* accent; instrumental singular. ‖ 3 ‖
+
+*(ornamental rule)*
+
+---
+
+**Progress note:** printed p. 438 (PDF 458) done — Sūkta 177 Ṛk 3 complete. Next: printed p. 439 (PDF 459), Ṛk 4 Saṃhitā. Open flags: Ṛg/Ni./Pā. refs [?]; review/doubts_v13.json.
