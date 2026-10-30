@@ -4882,5 +4882,29 @@
   ],
   "note": "refs SB 6-1-1-1, 8-6-3-23, 8-6-1-5 small; SB 8-6-3-23 quote start elided/garbled",
   "answer": ""
+ },
+ {
+  "pdf": 515,
+  "printed": 495,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-31-16, 9-96-18, Ni, Rgvidhana 1-147?, 1-180-7? small; MW English quote not reproduced exactly",
+  "answer": ""
+ },
+ {
+  "pdf": 516,
+  "printed": 496,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Anukramanika Suk180: 'yuvor dasasvinam' vs 'darsasvinam'; sutra list of sukta numbers 180/181/183/184 & 182nd; Asv. 4-13 ref small; Un sutra name",
+  "answer": ""
  }
 ]

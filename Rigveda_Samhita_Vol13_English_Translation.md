@@ -13614,4 +13614,62 @@ Since Agastya is the son of Mitra and Varuṇa, the individual powers of Mitra a
 
 ---
 
-**Progress note:** printed p. 494 (PDF 514) done — Sūkta 179 Ṛk 6 Special Topics (Mitra-Varuṇa, ṛṣi). Next: printed p. 495 (PDF 515): Ṛk 6 grammar, Sūkta 179 close; then Sūkta 180. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 495  (PDF 515)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 495.)*
+
+**Special Topics (continued)**
+
+***ṛṣī (ṛṣ) gatau*** — the word *ṛṣi*, formed from this root meaning "to go", has been explained by the derivation stated above. Besides, the scholar Monier Williams, in his Sanskrit–English Dictionary, has noted that the word *ṛṣi* may also be formed from the root *dṛś*, and, giving the meaning of the word *ṛṣikṛt*, has stated "Causing to see, enlightening". Of the examples, the first:
+
+> इमामग्ने शरणिं मीमृषो न इममध्वानं यमगाम दूरात् ।
+> आपिः पिता प्रमतिः सोम्यानां भृमिरस्यृषिकृन्मर्त्यानाम् ॥
+
+> *imāmagne śaraṇiṃ mīmṛṣo na imamadhvānaṃ yamagāma dūrāt |*
+> *āpiḥ pitā pramatiḥ somyānāṃ bhṛmirasyṛṣikṛnmartyānām ‖*
+
+(Ṛ. Saṃ. 1-31-16 [?]) — in this ṛk the word *ṛṣikṛt* is an epithet of Agni. Sāyaṇa explained this word as *darśanakārī* ("one who causes to see"). Likewise:
+
+> ऋषिमना य ऋषिकृत्स्वर्षाः सहस्रणीथः पदवीः कवीनाम् ।
+> तृतीयं धाम महिषः सिषासन्त्सोमो विराजमनु राजति ष्टुप् ॥
+
+> *ṛṣimanā ya ṛṣikṛtsvarṣāḥ sahasraṇīthaḥ padavīḥ kavīnām |*
+> *tṛtīyaṃ dhāma mahiṣaḥ siṣāsantsomo virājamanu rājati ṣṭup ‖*
+
+(Ṛ. Saṃ. 9-96-18 [?]) — in this ṛk also, for the word *ṛṣimanāḥ* the meaning "of a mind that sees all" and for *ṛṣikṛt* "the maker of the seeing of all" has been given. In ordinary usage, too, "seeing" (*darśana*) is a synonym of knowledge of the true principle; these are the implications. Since Agastya obtained a seeing in the form of knowledge of the true principle, he can be said to be praised as a *ṛṣi*.
+
+***satyāḥ*** — "*satyaphalātmakavāda* (*āśiṣaḥ*)", i.e. "blessings of true fruit". The derivation and special meaning of this word will be explained in Ṛk 1-180-7 [?].
+
+> इमं नु सोममित्येते द्वे ऋचौ प्रयतो जपन् ।
+> सर्वान् कामानवाप्नोति पापेभ्यश्च प्रमुच्यते ॥
+
+> *imaṃ nu somamityete dve ṛcau prayato japan |*
+> *sarvān kāmānavāpnoti pāpebhyaśca pramucyate ‖*
+
+(Ṛgvidhāna 1-147 [?]) — "if a man recites, with restraint, these two ṛks, '*imaṃ nu somam*' and '*agastyaḥ khanamānaḥ*', all desired objects become attainable to him and he is freed from sin": so the Ṛgvidhāna praises these mantras.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***khanamānaḥ*** — root *khanu avadāraṇe*; *śānac* in place of *laṭ*; by "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) the *lasārvadhātuka* is *anudātta*, so the root accent remains.
+
+### Printed p. 496  (PDF 516)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 180"; page 496.)*
+
+- ***khanitraiḥ*** — the root as above; by "*uṣikhanibhyāṃ kit?*" (Uṇ. Sū. 4-61 [?], as read) the suffix *ṭran* [as printed *tran*]; the *iṭ* augment; by *vyatyaya* the middle syllable is *udātta*.
+- ***icchamānaḥ*** — root *iṣu icchāyām*; by *vyatyaya* *śānac* in place of *laṭ*; by "*iṣugamiyamāṃ chaḥ*" (Pā. Sū. 7-3-77 [?]) *ccha* is substituted for the final of the root; by "*ānemuk*" the augment *muk*; by "*tāsyanudāttet…*" the *lasārvadhātuka* is *anudātta*, so the accent of the *śa* *vikaraṇa* remains.
+- ***pupoṣa*** — root *puṣa puṣṭau*; *liṭ*, third person singular; *tiṅ*-final *nighāta* accent. ‖ 6 ‖
+
+Here ends the 179th Sūkta. (*iḷḷige nūra eppattoṃbhattaneya sūkta mugidudu.*)
+
+---
+
+## Sūkta 180 (the 180th Sūkta; "Nūra eṃbhattaneyu sūktavu") — beginning of the 24th Anuvāka
+
+> अथ चतुर्विंशेऽनुवाके द्वादश सूक्तानि । तत्र युवो रजांसीति दशर्चं प्रथमं सूक्तमागस्त्यं त्रैष्टुभम् । तुह्यादिपरिभाषयेदमादिसूक्तपञ्चकमाश्विनम् । युवोर्दशाश्विनं [?] वा इत्यनुक्रमणिका ॥ एतदादीनि तृतीयवर्जितानि पञ्च सूक्तानि प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छन्दसि विनियुक्तानि । आथाश्विन इति खण्डे सूत्रितम् । युवो रजांसीति पञ्चानां तृतीयमुद्धरेत् । आ. ४-१३ [?] । इति ॥
+
+*Translation of the introduction:* With this sūkta the twenty-fourth Anuvāka of the first Maṇḍala begins. In this Anuvāka there are twelve sūktas; of them the sūkta "*yuvo rajāṃsi*" is the first. It has ten ṛks; its ṛṣi is Agastya; the metre is Triṣṭubh. By the technical rule (*paribhāṣā*) of the Anukramaṇikā beginning "*tu hi*", the five sūktas beginning with this one have the Aśvins as their deity (the Anukramaṇikā says "*yuvor daśāśvinam*" [?]). Of these five sūktas, leaving out the third (the 182nd sūkta [?]), the remaining four, i.e. the sūktas 180, 181, 183 and 184 [as read [?]], are applied, in the recital of the Prātaranuvāka and of the Aśvina-śastra, for the Triṣṭubh ṛks: so it is stated in the Āśvalāyana Śrauta-sūtra, in the section "*athāśvina*", "*yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet*" (Āś. 4-13 [?]).
+
+---
+
+**Progress note:** printed p. 496 (PDF 516) done — Sūkta 179 complete (6 ṛks); Sūkta 180 heading (24th Anuvāka, 10 ṛks) and introduction written. Next: printed p. 497 (PDF 517): Sūkta 180 heading block (Varga etc.) and Ṛk 1. Open flags: refs [?]; review/doubts_v13.json.
