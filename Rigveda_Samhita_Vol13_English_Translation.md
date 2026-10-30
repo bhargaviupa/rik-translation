@@ -3816,7 +3816,7 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 
 **॥ संहितापाठः ॥**
 
-> त्वं मानेभ्य [?] इन्द्र विश्वजन्या रदा मरुद्भिः शुरुधो गोअग्राः ।
+> त्वं मानेभ्य इन्द्र विश्वजन्या रदा मरुद्भिः शुरुधो गोअग्राः ।
 > स्तवानेभिः स्तवसे देव देवैर्विद्यामेषं वृजनं जीरदानुम् ॥ ८ ॥
 
 > *tvaṃ mānebhya [?] indra viśvajanyā radā marudbhiḥ śurudho goagrāḥ |*
@@ -3824,4 +3824,66 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 
 ---
 
-**Progress note:** printed p. 172 (PDF 192) done — Sūkta 169 Ṛk 7 complete; Ṛk 8 (last of Sūkta 169): Saṃhitā written ('mānebhya' [?]). Next: printed p. 173 (PDF 193): Pada, bhāṣya of Ṛk 8. Open flags: small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 173  (PDF 193)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 9". The Saṃhitā of Ṛk 8 was zoomed: the word is *mānebhyaḥ* (confirmed by the Pada and the Pratipadārtha).)*
+
+**॥ पदपाठः ॥**
+
+> त्वम् । मानेभ्यः । इन्द्र [?] । विश्वऽजन्या । रद । मरुत्ऽभिः । शुरुधः । गोऽअग्राः ।
+> स्तवानेभिः । स्तवसे । देव । देवैः । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ८ ॥
+
+> *tvam | mānebhyaḥ | indra [?] | viśva 'janyā | rada | marut 'bhiḥ | śurudhaḥ | go 'agrāḥ |*
+> *stavānebhiḥ | stavase | deva | devaiḥ | vidyāma | iṣam | vṛjanam | jīra 'dānum ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इन्द्र त्वं मानेभ्यो मानार्थम् । चित्रेनेत्यर्थः [?] ॥ तादर्थ्ये चतुर्थी ॥ विश्वजन्या विश्वजन्यः ॥ सो रेफाकारः [?] ॥ विश्वे प्राणिन उत्पादनीया यस्य तादृशस्त्वं सर्वजनहितशक्त्या वा मरुद्भिः सह शुरुधः शोकस्य रोधयित्रीः शोषिका गोअग्रा गर्जितमुदकं वाग्रे पुरुतो यासां ता मेघपङ्क्तीः रद । विलिख । विदारय । हे देव द्योतमान त्वं स्तवानेभिः स्तूयमानैर्देवैरन्यैर्मरुदादिभिर्ऋत्विग्भिर्वा स्तवसे । स्तूयसे ॥ उभयत्र कर्मणि कर्तृप्रत्ययः ॥ विद्यामेत्ययं व्याख्यातः ॥
+
+*Gist:* Indra, with the Maruts, for his own honour and the good of all, is to split the rows of water-bearing clouds that dry up sorrow; praised by the other gods and priests, may we obtain food, strength and long life through him.
+
+**Pratipadārtha.** *(he)* *indra* — O Indra; *viśvajanyā* — benevolent to all; *tvam* — you; *marudbhiḥ* — with the Marut-gods; *śurudhaḥ* — those that obstruct grief (the streams from the clouds, which remove sorrow with rain); *go-agrāḥ* — clouds that have water in front (thundering); *mānebhyaḥ* — for your own honour (and); *(viśvajanyā* — for the good of all*)*; *rada* — split; *(he)* *deva* — O shining Indra; *tvam* — you; *stavānebhiḥ* — by those who are praised; *devaiḥ* — by the Marut-gods and other gods; [*or* *stavānebhiḥ* — by those who are praising; *devaiḥ* — by the priests]; *stavase* — are praised; *(vayam* — we*)* *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — (by your favour) may we obtain.
+
+**Bhāvārtha.** O Indra, accompanied by the Marut-gods, for your own honour and for the good of all, split the rows of clouds that have water in front and that hold back sorrow, and thus make them rain; as the shining one, you are praised by the Marut-gods and other gods (or priests); may we too, by your favour, obtain food, strength and long life.
+
+### Printed p. 174  (PDF 194)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 169".)*
+
+**English Translation (as printed):** Associated with the Maruts, Indra, for your own honour and the good of all, pierce the exhilarating receptacles of the waters, for you, Indra, are glorified by the lauded divinities: may we obtain for you food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***mānebhyaḥ*** — *mānārthaṃ citreṇa*: the Nirukta-writer, explaining the word *māna*:
+
+> देवानां माने प्रथमा अतिष्ठन् कृन्तत्रादेषामुपरा उदायन् ।
+> त्रयस्तपन्ति पृथिवीमनूपा द्वा बबूकं वहतः पुरीषम् ॥
+
+> *devānāṃ māne prathamā atiṣṭhan kṛntatrād eṣām uparā udāyan |*
+> *trayas tapanti pṛthivīm anūpā dvā babūkaṃ vahataḥ purīṣam ‖*
+
+(Ṛ. Saṃ. 10-72-3). Here, for the words *devānāṃ māne*, the sense of *nirmāṇa* ("construction") is given for the word *māna*. Sāyaṇa gives the sense "for honour" for *māna*, and says "*citreṇa*" in explanation.
+
+***viśvajanyā*** — *viśvajanyaḥ*: Yāska explains the word *viśvajanya* in the ṛk
+
+> उदु ज्योतिरमृतं विश्वजन्यं विश्वानरः सविता देवो अश्रेत् ॥
+
+> *ud u jyotir amṛtaṃ viśvajanyaṃ viśvānaraḥ savitā devo aśret ‖*
+
+(Ṛ. Saṃ. 4-53-2 [?]), as the sense "*sarvalokahitam*" ("beneficial to all the world") has been explained by Durgācārya: "*viśve prāṇinaḥ utpādanīyāḥ yasya*" — he whose power is to create all beings is *viśvajanya*; or the power related to him is *viśvajanīya*; and, "*sarvajanahitaśaktyā*", Indra, who has a power beneficial to all people: "*go agrāḥ garjitamudakaṃ vā agre yāsāṃ tā meghapaṅktīḥ*" — the rows of clouds that have thunder or water before them; he explains that, together with the Marut-gods, Indra should *rada* — split — them.
+
+***śurudhaḥ*** — *śokasya rodhayitrīḥ śoṣikāḥ*: Yāska, citing the ṛk
+
+> ऋतस्य हि शुरुधः सन्ति पूर्वीः
+
+> *ṛtasya hi śurudhaḥ santi pūrvīḥ*
+
+(Ṛ. Saṃ. 4-23-8 [?]), gives for the word *śurudha* the sense "*śurudha āpo bhavanti śucaṃ saṃrundhanti*": the waters stop sorrow, destroy distresses. Here Sāyaṇa explains the same sense, "those that hold back or destroy griefs".
+
+***stavase*** — Indra is addressed by the word *deva*, because he shines; "*devaiḥ anyaiḥ marudādibhiḥ ṛtvigbhirvā stūyase*" — praised by the other gods beginning with the Maruts who praise, and by the priests: the great glory of Indra is described.
+
+***vidyāmeṣaṃ vṛjanaṃ jīradānum*** — by this sentence it is said that the sacrificers wish to obtain, through Indra's favour, food, strength, victory and a gift-giving power, and, as the sacrifice will be completed by the coming of the gods, that they may obtain them. The word *vṛjana* is read among the names of strength (Ni. 2-[?]).
+
+---
+
+**Progress note:** printed p. 174 (PDF 194) done — Sūkta 169 Ṛk 8 through Special Topics (grammar and the closing note on p. 175). Next: printed p. 175 (PDF 195). Open flags: Ṛk 8 bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json (PDF numbers fixed for entries 91–102).

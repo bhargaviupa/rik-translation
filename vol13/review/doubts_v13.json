@@ -1092,8 +1092,8 @@
   "answer": ""
  },
  {
-  "pdf": 152,
-  "printed": 132,
+  "pdf": 172,
+  "printed": 152,
   "crop": [
    0.55,
    0.65,
@@ -1116,8 +1116,8 @@
   "answer": ""
  },
  {
-  "pdf": 155,
-  "printed": 135,
+  "pdf": 175,
+  "printed": 155,
   "crop": [
    0.7,
    0.9,
@@ -1140,8 +1140,8 @@
   "answer": ""
  },
  {
-  "pdf": 159,
-  "printed": 139,
+  "pdf": 179,
+  "printed": 159,
   "crop": [
    0.05,
    0.2,
@@ -1152,8 +1152,8 @@
   "answer": ""
  },
  {
-  "pdf": 160,
-  "printed": 140,
+  "pdf": 180,
+  "printed": 160,
   "crop": [
    0.3,
    0.75,
@@ -1176,8 +1176,8 @@
   "answer": ""
  },
  {
-  "pdf": 164,
-  "printed": 144,
+  "pdf": 184,
+  "printed": 164,
   "crop": [
    0.35,
    0.55,
@@ -1188,8 +1188,8 @@
   "answer": ""
  },
  {
-  "pdf": 166,
-  "printed": 146,
+  "pdf": 186,
+  "printed": 166,
   "crop": [
    0.05,
    0.25,
@@ -1200,8 +1200,8 @@
   "answer": ""
  },
  {
-  "pdf": 167,
-  "printed": 147,
+  "pdf": 187,
+  "printed": 167,
   "crop": [
    0.1,
    0.8,
@@ -1212,8 +1212,8 @@
   "answer": ""
  },
  {
-  "pdf": 169,
-  "printed": 149,
+  "pdf": 189,
+  "printed": 169,
   "crop": [
    0.62,
    0.85,
@@ -1224,8 +1224,8 @@
   "answer": ""
  },
  {
-  "pdf": 172,
-  "printed": 152,
+  "pdf": 192,
+  "printed": 172,
   "crop": [
    0.78,
    0.9,
@@ -1233,6 +1233,30 @@
    0.95
   ],
   "note": "Rik 8 Samhita: maanebhya vs muunebhya glyph; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 193,
+  "printed": 173,
+  "crop": [
+   0.3,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 bhaashya: chitrenetyarthah, so raephakaarah, vishvajanyaa explanation; Pada 'indra[h]'",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 174,
+  "crop": [
+   0.35,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs 10-72-3, 4-53-2, 4-23-8; Ni. 2-? vRjana",
   "answer": ""
  }
 ]
