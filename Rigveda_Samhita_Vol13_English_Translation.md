@@ -765,7 +765,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > हे मरुतः यूयं शतभुजिभिः । शतमित्यपरिमितनाम । असंख्यातभोगवद्भिः पूर्भिः पालनैर्जेतव्यैः शत्रूणां नगरैर्वा तं रक्षथ । पालयत । तमित्युक्तं । कमित्याह । यं जनमभिह्रुतेरभिभवकारणात्कुटिलस्वभावादघात्पापादवत रक्षथ । किञ्च हे उग्रा उद्गूर्णतेजसो हे तवसो बलवन्तो वेगवन्तो वा हे विरप्शिनः । महन्नामैतत् । महान्तः । रपणेयोः शब्दा रप्साः । ते येषां ते रप्शिनः । विविधा रप्शिनः स्तोतारो येषां ते तथोक्ताः । हे तादृशाः यूयं यं च जनं पाथन पाथ रक्षथ । कस्मान्निमित्तादिति उच्यते । तनयस्य । उपलक्षणमेतत् । पुत्रादीनां पुष्टिषु निमित्तभूतेषु शंसादभिशंसनात् । येमेवं कुरुथ तं रक्षतेति शेषः । [पासक्षयोर्य… ?] निष्परिहारेण पुत्रादिपोषरूपे स्वप्राप्य च रक्षतेत्यर्थः [?] ॥
 
-*(The bhāṣya ends on the next page; the last clause is doubtful.)*
+*(The bhāṣya runs on to the top of printed p. 38 (from "*kamityāha*" on); the last clause is doubtful.)*
 
 ### Printed p. 38  (PDF 58)
 
@@ -785,4 +785,58 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ---
 
-**Progress note:** printed p. 38 (PDF 58) done — Sūkta 166 Ṛk 8 in progress (Special Topics: abhihruteḥ; continues on p. 39). Next: printed p. 39 (PDF 59). Open flags: small-type numerals [?]; Ṛk 8 bhāṣya last clause [?]; review/doubts_v13.json.
+### Printed p. 39  (PDF 59)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* **Special Topics (continued: *abhihruteḥ*).**
+
+> स नस्त्रासते दुरितादभिह्रुतः शंसादघादभिह्रुतः ।
+
+> *sa nastrāsate duritādabhihrutaḥ śaṃsādaghādabhihrutaḥ |*
+
+(Ṛ. Saṃ. 1-128-5 [?]) — for the word *abhihrutaḥ* in this ṛk the Bhāṣyakāra, "*abhimukhyena pāpaiḥ hriyamāṇān so 'smān duritāt pāpāt trāsate trāyate*" [as read, doubtful], explains the meaning: "he protects us from sin, from assault, from evil speech, from harm." (English in the source: "He protects us from evil, from assault, from evil-speaking, from assault".)
+
+> विश्वाद्रिरिक्षोरुत वा निनित्सोरभिह्रुतामसि हि देव विष्पट् ।
+
+> *viśvādriristhorutra vā ninitsorabhihrutāmasi hi deva viṣpaṭ* — [as printed: *viśvād riśiṣoruta vā ninitsorabhihrutām asi hi deva viṣpaṭ* — the first words are doubtful [?]]
+
+(Ṛ. Saṃ. 1-189-6 [?]) — for the word *abhihrutām* in this ṛk Sāyaṇa explains: "*abhihrutām abhimukhyena kuṭilaṃ kurvatāṃ dviṣām*" — of the enemies who make crooked [trouble] especially, causing us pain. Besides this, the word *vihruta*, with the prefix *vi* added to the root *hru*, occurs
+
+> संधाता संधिं मघवा पुरूवसुर्निष्कर्ता विह्रुतं पुनः ।
+
+> *saṃdhātā saṃdhiṃ maghavā purūvasurniṣkartā vihrutaṃ punaḥ |*
+
+(Ṛ. Saṃ. 8-1-12 [?])
+
+> क्षणा रपो मरुत आतुरस्य न इष्कर्ता विह्रुतं पुनः ।
+
+> *kṣaṇā rapo maruta āturasya na iṣkartā vihrutaṃ punaḥ |*
+
+(Ṛ. Saṃ. 8-20-26 [?]) — only in these two ṛks. The word *vihruta* suggests "injured (before)". And in
+
+> ता हि क्षत्रमविह्रुतं सम्यगसुर्यं माशाते । [?]
+
+> *tā hi kṣatramavihrutaṃ samyagasuryaṃ māśāte | [?]*
+
+(Ṛ. Saṃ. 5-66-2 [?])
+
+> विभ्राड् बृहत्पिबतु सोम्यं मध्वायुर्दधद्यज्ञपतावविह्रुतम् ।
+
+> *vibhrāḍ bṛhatpibatu somyaṃ madhvāyurdadhadyajñapatāvavihrutam |*
+
+(Ṛ. Saṃ. 10-170-1 [?]) — the word *avihrutam* shows a negative sense; that is, it gives the opposite meaning of the word *vihruta*: "free from any kind of injury or harm".
+
+***pūrbhiḥ*** — *pālanair jetavyaiḥ śatrūṇāṃ nagarair vā*: with acts of protection, or from the enemy cities that [you] conquer and give.
+
+***tavasaḥ*** — *balavanto vegavanto vā*: strong, or swift. The word *tavasaḥ* is read among the twenty-eight names of strength beginning with *mahat*, *bṛhat* (Ni. 3-3 [?]).
+
+***virapśinaḥ*** — *mahannāmaitat | mahāntaḥ | rapaṇeyoḥ śabdā rapsāḥ | te yeṣāṃ te rapśinaḥ | vividhā rapśinaḥ stotāro yeṣāṃ te*: since the word *virapśī* is read among the names of "great" (*mahat*, *bṛhat* and the like, in the list of twenty-eight), (Ni. 3-3 [?]) it *[continues on the next page]*
+
+### Printed p. 40  (PDF 60)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* …means "great ones, excellent ones". Besides, the Bhāṣyakāra, explaining the literal meaning of this word, says that sounds clearly uttered are called *rapsāḥ*, and those who have hymns having such sounds, or those who praise (the singers of hymns), are called *rapśinaḥ*; those who are praised with many kinds of hymns (the Maruts) are called *virapśinaḥ*.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *śatabhujibhiḥ* (*śataṃ bhujayaḥ yeṣāṃ te*, a *bahuvrīhi*; the prior member keeps its accent; instrumental plural). *abhihruteḥ* (*tādau ca niti kṛty atiḥ* Pā. 6-2-50 [?] gives the *gati* (*abhi*) its own accent; ablative singular). *pūrbhiḥ* (root *pṝ pālanapūraṇayoḥ*; *kvip* by *kvip ca*; *udoṣṭhyapūrvasya* Pā. 7-1-102 gives *u*; *ra*-after-vowel; *bhis*; *hali ca* gives lengthening of the penultimate). *rakṣata* (root *rakṣa pālane*; *loṭ* 2nd plural; *nighāta* after a *tiṅanta*). *avata* (root *ava rakṣaṇe*; *laṅ* 2nd plural; *yadvṛttān nityam* Pā. 8-1-66 prevents *nighāta*; by *tāsyanudāttet* the root-accent remains as the *sārvadhātuka* is unaccented). *tavasaḥ* (*matup* dropped in the Veda; *āmantritasya ca* Pā. 8-1-19 gives *nighāta*). *virapśinaḥ* (root *rapa vyaktāyāṃ vāci*; plural in the *uṇādi* class gives the sense of power when preceded by *vi*; suffix *śak*; *vividhaṃ śabdaṃ rapanti iti virapśāḥ* — the praisers; *ini* in the sense of possession; vocative *nighāta*). *pāthana* (root *pā rakṣaṇe*; *adādi*; *loṭ* 2nd plural; *taptanaptanathanāś ca* Pā. 7-1-45 gives *thana*; no *nighāta* as it is connected with *yad*; the middle acute by the suffix). *śaṃsāt* (root *śaṃsu stutau*; *ghañ* in the sense of action; *ñit* so initial acute). ‖ 8 ‖
+
+---
+
+**Progress note:** printed p. 40 (PDF 60) done — Sūkta 166 Ṛk 8 complete. Next: printed p. 41 (PDF 61): Ṛk 9. Open flags: small-type numerals [?]; the viśvād… citation on p. 39; review/doubts_v13.json.
