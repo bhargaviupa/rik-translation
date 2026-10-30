@@ -11101,4 +11101,70 @@ in these and similar contexts, this epithet is used of deities who are lords and
 
 ---
 
-**Progress note:** printed p. 414 (PDF 434) done — Sūkta 176 Ṛk 4 complete; Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun (continues p. 415). Next: printed p. 415 (PDF 435). Open flags: p. 413 start mid-ṛk (print gap?) [?]; Ṛk 5 bhāṣya partly doubtful [?]; Ṛg refs [?]; review/doubts_v13.json.
+### Printed p. 415  (PDF 435)
+
+*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+
+*(Pratipadārtha concluded)* …you protect (or satisfy)]; (*tasya eva* — that same) *indrasya* — of Indra; *ājau* — in battle; (*he soma* — O Soma juice;) *vājinam* — Indra, endowed with food; *vājeṣu* — for the sake of strengths or foods; *pra āvaḥ* — you have protected specially.
+
+**Bhāvārtha**
+
+O Soma juice, you protect the sacrificers who worship Indra with both praise and oblation (or: when the sacrificer recites the mantras praising Indra, the lord of heaven and earth, you protect that Indra in addition, or give him satisfaction); help that same mighty Indra in battles to obtain food and the rest.
+
+**Printed English**
+
+Soma, you protect him in whose prayers, doubly devout, there is the combination (of praise and oblation): protect, especially, Indra in war; protect the vigorous Indra in battles.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***pānasamaye tarpayitvā, saṃgrāmasamaye balavardhanena jayaprāptaśatrudhanatarpaṇena vā arakṣaḥ*** — "after the drinking of the Soma, by the satisfaction it gives to Indra, and at the time of battle by the growth of strength, and by the satisfaction of obtaining the enemy's wealth as the prize of victory, you protected": that the Soma juice is the protector of Indra in all circumstances is the chief purport of the mantra, Sāyaṇa has said.
+
+***dvibarhasaḥ — stotrahavīrūpadvividhaparivṛḍhakarmavataḥ yajamānasya*** — "of the sacrificer endowed with action which grows by itself, in the twofold form of praise and oblation": taken as an epithet of the sacrificer, this is one kind of meaning; or, ***yaṃ dvayoḥ sthānayoḥ parivṛḍhaṃ yam indram*** (the genitive in the place of the object), "Indra, who has grown in both places, earth and atmosphere" (here the genitive of the object is used): in another way Sāyaṇa has said the meaning may be taken. The second meaning accords with the explanation of the Nirukta-writers. The Nirukta-writers have explained the derivation of the word *dvibarhāḥ* thus —
+
+> द्विबर्हाः — द्विबर्हा द्वयोः स्थानयोः परिवृढो मध्यमे च स्थान उत्तमे च ।
+
+> *dvibarhāḥ — dvibarhā dvayoḥ sthānayoḥ parivṛḍho madhyame ca sthāna uttame ca |*
+
+(Ni. 6-17 [?]) — having shown that it means one who has grown in both the heavenly world and the atmosphere,
+
+### Printed p. 416  (PDF 436)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
+
+> महाँ इन्द्रो नृवदा चर्षणिप्रा उत द्विबर्हा अमिनः सहोभिः । अस्मद्र्यग्वावृधे वीर्यायोरुः पृथुः सुकृतः कर्तृभिर्भूत् ॥
+
+> *mahāṃ indro nṛvad ā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ | asmadryag vāvṛdhe vīryāyoruḥ pṛthuḥ sukṛtaḥ kartṛbhir bhūt ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 6-19-1 [?]) — quoting this ṛk, the use of this word is shown. Here the word *dvibarhāḥ* is an epithet of Indra. "*Dvayor lokayoḥ parivṛḍhaḥ*" — Sāyaṇa has said that this is the purport of the word. Likewise —
+
+> आ द्विबर्हा अमिनो याह्यर्वाङिन्द्रो वृषा हरिभ्यां परिषिक्तमन्धः । गव्या सुतस्य प्रभृतस्य मध्वः सत्रा खेदामरुशहा वृषस्व ॥
+
+> *ā dvibarhā amino yāhy arvāṅ indro vṛṣā haribhyāṃ pariṣiktam andhaḥ | gavyā sutasya prabhṛtasya madhvaḥ satrā khedām aruśahā vṛṣasva ‖* [as read: [?]]
+
+(Ṛ. Saṃ. 10-106-4 [?]) — here too it is an epithet of Indra. "*Dvābhyāṃ stutiśastrābhyāṃ vardhanīyaḥ*" — "one to be made to grow by the two, praise and recitation": and, "*vṛher vardhanārthasya karmaṇy asun*" — with the root *vṛh*, which means "to grow", the suffix *asun* in the passive sense; explaining that it gives the meaning "one who has gained growth", the formation of the word is shown.
+
+[Just as the usage *dvibarhāḥ* is found, so the usage *adribarhāḥ* is also found in ṛks such as 10-63-3 [?]; the meaning is "mountains that have grown".]
+
+***arkeṣu — mantreṣu*** — "in the mantras that are the means of worship" is the explanation given.
+
+> अर्को देवो भवति यदेनमर्चन्ति । अर्को मन्त्रो भवति यदेनेनार्चन्ति । अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ।
+
+> *arko devo bhavati yad enam arcanti | arko mantro bhavati yad enenārcanti | arkam annaṃ bhavaty arcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā |*
+
+(Ni. 3-4 [?]). Since it is worshipped, *arka* is a deity; since worship is done by it, *arka* is a mantra; since beings are satisfied (*arcati*), *arka* is food; *arka* is also a kind of tree, since it is covered with bitterness: thus the Nirukta-writers show different meanings; and quoting —
+
+> गायन्ति त्वा गायत्रिणोऽर्चन्त्यर्कमर्किणः । ब्रह्माणस्त्वा शतक्रत उद्वंशमिव येमिरे ॥
+
+> *gāyanti tvā gāyatriṇo 'rcanty arkam arkiṇaḥ | brahmāṇas tvā śatakrata ud vaṃśam iva yemire ‖*
+
+(Ṛ. Saṃ. 1-10-1 [?]) — they show the use of the word *arka* and its meaning. The influence of *arka* is praised in many places as extremely great. In the Aitareya Āraṇyaka —
+
+> अथातः शिरः । यद्गायत्रीषु भवत्यग्रं वै छन्दसां गायत्र्यग्रमङ्गानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । ता नव भवन्ति नव कपालं शिरः ॥
+
+> *athātaḥ śiraḥ | yad gāyatrīṣu bhavaty agraṃ vai chandasāṃ gāyatry agram aṅgānāṃ śiraḥ | tad arkavatīṣu bhavaty agnir vā arkaḥ | tā nava bhavanti nava kapālaṃ śiraḥ ‖* [as read: [?]]
+
+(Ai. Ā. 1-4-1 [?]).
+
+---
+
+**Progress note:** printed p. 416 (PDF 436) done — Sūkta 176 Ṛk 5 Pratipadārtha, Bhāvārtha, printed English, Special Topics (dvibarhas, arka; continues p. 417). Next: printed p. 417 (PDF 437). Open flags: Ṛg/Nirukta/Ai. Ā. refs [?]; review/doubts_v13.json.
