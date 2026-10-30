@@ -4832,4 +4832,60 @@ In the second meaning, "*viśvā ahāni sarvāṇi divasāni jigīṣā santu �
 
 ---
 
-**Progress note:** printed p. 208 (PDF 228) done — Sūkta 171 Ṛk 3 Special Topics and grammar (partly; grammar continues on p. 209). Next: printed p. 209 (PDF 229). Open flags: ref numerals for many Ṛg quotations on pp. 207–208 [?]; review/doubts_v13.json.
+### Printed p. 209  (PDF 229)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; a signature mark "XIII 14" is printed at the foot.)*
+
+*(Grammar of Ṛk 3, concluded; noted briefly)*: *jigīṣā* (root *gā stutau* is used here in the sense of motion; in the sense of wish, *san* by "*dhātoḥ karmaṇaḥ samānakartṛkād icchāyāṃ vā*", Pā. Sū. 3-1-7 [?]; *ī* by *vyatyaya*; or the root *ji jaye*; lengthening before *san* by "*ajjhanagamāṃ sani*", Pā. Sū. 6-4-16 [?]; after the *san*-ending root the affix *ac*; in the neuter *śi* replaces it as before, and when the form arises it is dropped). ‖ 3 ‖
+
+*(ornamental rule)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अस्मादहं तविषादीषमाण इन्द्राद्भिया मरुतो रेजमानः ।
+> युष्मभ्यं हव्या निशितान्यासन्तान्यारे चकृमा मृळता नः ॥ ४ ॥
+
+> *asmādahaṃ taviṣādīṣamāṇa indrādbhiyā maruto rejamānaḥ |*
+> *yuṣmabhyaṃ havyā niśitānyāsantānyāre cakṛmā mṛḷatā naḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्मात् । अहम् । तविषात् । ईषमाणः । इन्द्रात् । भिया । मरुतः । रेजमानः ।
+> युष्मभ्यम् । हव्या । निऽशितानि । आसन् । तानि । आरे । चकृम । मृळत । नः ॥ ४ ॥
+
+> *asmāt | aham | taviṣāt | īṣamāṇaḥ | indrāt | bhiyā | marutaḥ | rejamānaḥ |*
+> *yuṣmabhyam | havyā | ni 'śitāni | āsan | tāni | āre | cakṛma | mṛḷata | naḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः शृणुत । अहमस्मात्प्रसिद्धात्तविषाद्बलवत इन्द्रात्तत्प्रकाशाद्भियो भीत्येषमाणः पलायमानः पुरतः स्थातुमशक्तः तथा रेजमानो वेपमानश्चाभवम् । ततश्च किमायातमिति अत आह । यानि युष्मभ्यं हव्या हवींषि निशितानि संस्कृतान्यासन् तानि तान्येवारे चकृम । दूरे कृतवन्तो वयमिन्द्रभयात् । अतो नोऽस्मानपराधिनो मृळत । मृळयत । सुखयत ॥
+
+*Gist:* Agastya, trembling in fear of mighty Indra, tells the Maruts that the oblations prepared for them were put far away through fear of Indra; he begs them to give happiness to him, who is blameless.
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods; *aham* — I; *asmāt* — from this well-known (and); *taviṣāt* — powerful; *indrāt* — Indra (from near him); *bhiyā* — from fear; *īṣamāṇaḥ* — running away (unable to stand before him); *rejamānaḥ* — trembling (I am); *(yāni)* *havyā* — the oblations; *yuṣmabhyam* — for you; *niśitāni* — prepared; *āsan* — were; *tāni* — those; *āre* — far away; *cakṛma* — (through fear of Indra) we have put; *(therefore)* *naḥ* — us (who are blameless); *mṛḷata* — make happy.
+
+**Bhāvārtha.** O Marut-gods, from fear of this mighty Indra, unable to stand before him, I run, trembling; the oblations that had been prepared for you I have put far away out of fear of him. Therefore make me, who am blameless, happy.
+
+### Printed p. 210  (PDF 230)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 171".)*
+
+**English Translation (as printed):** Maruts, through fear of that violent Indra, I fly, trembling, (from his presence): the oblations that had been prepared for you have been put away: nevertheless, have patience with us.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this ṛk it is explained that the sage Agastya, frightened of Indra, makes an effort to avert his fear and begs the Marut-gods. This context is of the nature of a dialogue. The companionship of Indra and the Marut-gods is well known in the Śruti, and the friendship between them has been said. Even so, Indra, to show his prowess, says openly that he has no help at all from the Marut-gods and that he himself has not been benefited by them. In this context, since Indra was angry, the sage Agastya, who had offered oblations to the Marut-gods, walks in fear. Here that fear is expressed. What, then, is the nature of the friendship between Indra and the Marut-gods in the present context? Even so, what is the cause of this discord should be considered.
+
+The eternal companionship between Indra and the Marut-gods, the relation of king and subjects between them, the offering of oblations to Indra, the chief, along with the Marut-gods in the sacrificial rites, and Indra's receiving the help of the Marut-gods in battle with Vṛtra and other Asuras, are stated many times in the Saṃhitās and the Brāhmaṇas. Indra, having joined the Marut-gods, is said to have a separate story compared with the other gods; for example:
+
+> आतिथ्येन वै देवा इष्ट्वा । तान् स्वमुदविन्दत् [?] ते चतुर्धा व्यद्रवन्नन्योऽन्यस्य श्रिया तिष्ठमाना अग्निर्वसुभिः सोमो रुद्रैर्वरुण आदित्यैरिन्द्रो मरुद्भिर्बृहस्पतिर्विश्वेदेवैः ।
+
+> *ātithyena vai devā iṣṭvā | tān svamudavindat [?] te caturdhā vyadravannanyo 'nyasya śriyā tiṣṭhamānā agnirvasubhiḥ somo rudrairvaruṇa ādityairindro marudbhirbṛhaspatirviśvedevaiḥ |*
+
+(Śat. Brā. 3-4-3-1 [?]). Formerly, when the gods had performed the *Ātithya* rite, ill-will arose among them; each unable to bear the other's glory, they went apart in four groups: Agni with the Vasus, Soma with the Rudras, Varuṇa with the Ādityas, Indra with the Marut-gods, and Bṛhaspati (with …) *(continued)*
+
+---
+
+**Progress note:** printed p. 210 (PDF 230) done — Sūkta 171 Ṛk 3 complete; Ṛk 4 through Special Topics (continues p. 211). Next: printed p. 211 (PDF 231). Open flags: Śatapatha quotation on p. 210 garbled [?]; small-type numerals [?]; review/doubts_v13.json.
