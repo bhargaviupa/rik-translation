@@ -5330,4 +5330,54 @@ That is, he holds that when the word *vṛjana* is used in the masculine, it mea
 
 ---
 
-**Progress note:** printed p. 224 (PDF 244) done — Sūkta 171 Ṛk 6 Special Topics (grammar and colophon of Sūkta 171 on p. 225). Next: printed p. 225 (PDF 245). Open flags: ref numerals [?] on pp. 223–224; review/doubts_v13.json.
+### Printed p. 225  (PDF 245)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; a signature mark "XIII 15" is printed at the foot.)*
+
+***vidyāmeṣaṃ vṛjanaṃ jīradānum*** — this prayer is, in each of the sūktas composed by the sage Agastya, the concluding portion. This is a peculiarity of this sage's composition. Such repeated portions are well known by the name *udarka*. This kind of composition is seen in the sūktas of other sages as well — Kutsa, Vasiṣṭha, Gṛtsamada and the rest. In all, as stated in the Bṛhaddevatā, in the compositions of these eight sages — Bharadvāja, Gṛtsamada, Vasiṣṭha, Nodhā, Agastya, Vimada, Nabhāka and Kutsa — such repeated portions occur, and they may also be called *abhyāsa* ("repetition"). *Abhyāsa* means repeating a stated meaning again:
+
+> उक्तार्थानामपि वाक्यं आदरातिशयोद्योतनाय पुनः पठ्यते ।
+
+> *uktārthānām api vākyaṃ ādarātiśayodyotanāya punaḥ paṭhyate |*
+
+— even a sentence whose sense has already been stated is read again to show an excess of regard. In such repetition there is no fault whatever. In such contexts the intensity of feeling is seen, as the Nirukta-writers support:
+
+> अभ्यासे भूयांसमर्थं मन्यन्ते यथा होऽहोदर्शनीयोऽहो दर्शनीयेति ।
+
+> *abhyāse bhūyāṃsam artham manyante yathā ho 'hodarśanīyo 'ho darśanīyeti |*
+
+(Ni. 10-42 [?]). By the repetition, an intensification of feeling and a special force of effect appear. In the example "How beautiful she is!", in describing her beauty an excess of regard is seen. In the same way, to show the excess of regard in the highest feeling, repetitions of sentences occur very often. This matter has been explained in connection with the sūkta of the sage Parucchepa (Ṛ. Saṃ. 1-[?]). Or, *udarka* means the mantra recited at the time of the completion of the sacrifice.
+
+> या गोमतीरुषसः सर्ववीरा व्युच्छन्ति दाशुषे मर्त्याय ।
+> वायोरिव सूनृतानामुदर्के ता अश्वदा अश्नवत्सोमसुत्वा ॥
+
+> *yā gomatīr uṣasaḥ sarvavīrā vyucchanti dāśuṣe martyāya |*
+> *vāyor iva sūnṛtānām udarke tā aśvadā aśnavat somasutvā ‖*
+
+(Ṛ. Saṃ. 1-113-18). In ṛks of this kind *udarka* means "completion, conclusion of the recitation". In the same way, in the present ṛks too, it means the completion of the sūkta together with them.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *sahīyasaḥ* (*sahaḥ balam asya asti iti sahasvī*; the affix *vin* in the sense of possession by "*asmāyāmedhāsrajo viniḥ*"; after it, the affix *īyasun* in the sense of excess; loss of *vin* by "*vinmatorluk*"; loss of the *ṭi* part by "*ṭeḥ*", Pā. Sū. 6-4-155 [?]; first syllable acute by "*ñnityādirnityam*"; accusative plural form).
+
+### Printed p. 226  (PDF 246)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 172".)*
+
+*(Grammar of Ṛk 6, concluded; noted briefly)*: *bhava* (root *bhū sattāyām*; *loṭ* 2nd singular; since it stands at the beginning of a *pāda*, no *nighāta*; since *śap* is unaccented, the accent of the root remains; the long vowel in the Saṃhitā by "*dvyacotastiṅaḥ*", Pā. Sū. 6-3-135 [?]); *avayātaheḷāḥ* (*avayātaḥ heḷaḥ yasmāt saḥ*; in the *bahuvrīhi* the first member keeps its accent); *supraketebhiḥ* (root *kita jñāne*; affix *ac*; *śobhanaḥ praketaḥ yeṣāṃ te taiḥ*; by "*nañsubhyām*" the last syllable of the latter member is acute; since *iṭ* before *bhis* is optional, *e* occurs); *sāsahiḥ* (root *ṣaha abhibhave*; by the statement "*utsargaś chandasi*" the affix *ki* by "*ādṛgamahanajanaḥ kikinau liṭ ca*", Pā. Sū. 3-2-171 [?]; because there is no *liḍvadbhāva*, reduplication of the root; Vedic lengthening of the reduplicative syllable; accent on the last syllable by the affix); *dadhānaḥ* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *śānac* for *laṭ*; *ślu* as the vikaraṇa; reduplication and the rest on that occasion; first syllable acute by "*abhyastānām ādiḥ*"). ‖ 6 ‖
+
+*Here ends the hundred and seventy-first Sūkta.* (ಇಲ್ಲಿಗೆ ನೂರ ಎಪ್ಪತ್ತೊಂದನೇ ಸೂಕ್ತ ಮುಗಿದುದು.)
+
+## Sūkta 172 — *citro va* (Anuvāka 23, eighth Sūkta; 3 ṛks)
+
+*(Heading, p. 226: "The hundred and seventy-second Sūkta" — ನೂರ ಎಪ್ಪತ್ತೆರಡನೆಯ ಸೂಕ್ತವು.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> चित्रो व इति तृचात्मकमष्टमं सूक्तमागस्त्यं मारुतं गायत्रम् । चित्रस्तृचं गायत्रमित्यनुक्रमणिका ॥ लैङ्गिको विशेषविनियोगः ॥
+
+*Gist:* The eighth sūkta (*citro vaḥ*), of three ṛks, by Agastya, to the Maruts, in gāyatrī metre.
+
+**Anuvāda (Kannada).** This Sūkta beginning *citro vaḥ* is the eighth Sūkta in the twenty-third anuvāka. It has three ṛks. Agastya is the ṛṣi of this Sūkta; the Marut-gods are the deities; the metre is Gāyatrī. In the Anukramaṇikā it is said "*citrastṛcaṃ gāyatram*". The special application (*viniyoga*) is by the indicatory sign.
+
+---
+
+**Progress note:** printed p. 226 (PDF 246) done — Sūkta 171 complete (6 ṛks, pp. 192–226); Sūkta 172 (3 ṛks) heading and anuvāda written. Next: printed p. 227 (PDF 247): Sūkta 172 heading block and Ṛk 1. Open flags: ref numerals [?]; review/doubts_v13.json.
