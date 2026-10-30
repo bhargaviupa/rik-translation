@@ -1,0 +1,35 @@
+[
+ {
+  "page": 476,
+  "y0": 0.515,
+  "y1": 0.57,
+  "x0": 0.2,
+  "x1": 0.6,
+  "kind": "accent",
+  "file": "अथा व॑ह॒ सोम॑पतिं॒",
+  "ctx": "Saṃhitā 76.3 line 2: अथा वह सोमपतिं हरिभ्याम्",
+  "note": "Is the svarita stroke over व (as written) or over था (अथा॑ वह॒)? It stands over ವ in the print."
+ },
+ {
+  "page": 484,
+  "y0": 0.645,
+  "y1": 0.675,
+  "x0": 0.15,
+  "x1": 0.6,
+  "kind": "numeral",
+  "file": "आ. [३-२?] इति",
+  "ctx": "pra kāravo manana vacyamānāḥ [?] | ā. [3-2?] iti",
+  "note": "Āśvalāyana reference: is the second digit 2 (೨) or 7 (೭)? Also: is the word 'vacyamānāḥ' (or 'vacyaimānāḥ')?"
+ },
+ {
+  "page": 486,
+  "y0": 0.37,
+  "y1": 0.395,
+  "x0": 0.2,
+  "x1": 0.87,
+  "kind": "numeral",
+  "file": "Uṇ. 2-278 [?]",
+  "ctx": "manuṣaḥ (root mana jñāne; usin by bahulam anyatrāpi, Uṇ. 2-278 [?]",
+  "note": "Uṇādi number after 'ಉ. ಸೂ.': is the third digit 7 (೭) or 2 (೨)? i.e. 2-278 or 2-228"
+ }
+]

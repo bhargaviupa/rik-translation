@@ -10101,15 +10101,15 @@ Words treated: *yaja* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *loṭ*
 
 **Sāyaṇa's introduction** *(Sanskrit, printed in Kannada script; doubtful syllables [?])*
 
-> का त इति पंचर्चं तृतीयं सूक्तं । का त इत्यनुक्रांतं । राहूगणो गोतमो ऋषिः । त्रिष्टुप् छंदः । अग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छंदसीदमादीके द्वे सूक्ते । सूत्रितं च । उप प्र जिन्वन्नित्ति त्रीणि का त उपेतिरिति सूक्ते । आ. [४-१३?] इति ॥ आश्विनशस्त्रे ऽप्येते प्रातरनुवाकातिदेशात् ॥
+> का त इति पंचर्चं तृतीयं सूक्तं । का त इत्यनुक्रांतं । राहूगणो गोतमो ऋषिः । त्रिष्टुप् छंदः । अग्निर्देवता ॥ प्रातरनुवाकस्याग्नेये क्रतौ त्रैष्टुभे छंदसीदमादीके द्वे सूक्ते । सूत्रितं च । उप प्र जिन्वन्निति त्रीणि का त उपेतिरिति सूक्ते । आ. ४-१३ इति ॥ आश्विनशस्त्रे ऽप्येते प्रातरनुवाकातिदेशात् ॥
 
-*kā ta iti pañcarcaṃ tṛtīyaṃ sūktaṃ | kā ta ity anukrāntaṃ | rāhūgaṇo gotamo ṛṣiḥ | triṣṭup chandaḥ | agnir devatā || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādike dve sūkte | sūtritaṃ ca | upa pra jinvann iti [tisraḥ?] kā ta upetir iti sūkte | ā. [4-13?] iti || āśvinaśastre 'py ete prātaranuvākātideśāt ||*
+*kā ta iti pañcarcaṃ tṛtīyaṃ sūktaṃ | kā ta ity anukrāntaṃ | rāhūgaṇo gotamo ṛṣiḥ | triṣṭup chandaḥ | agnir devatā || prātaranuvākasyāgneye kratau traiṣṭubhe chandasīdamādike dve sūkte | sūtritaṃ ca | upa pra jinvann iti trīṇi kā ta upetir iti sūkte | ā. 4-13 iti || āśvinaśastre 'py ete prātaranuvākātideśāt ||*
 
-*(Reading note: "upa pra jinvann iti trīṇi" is as in the sūtra quoted at the introduction of Sūkta 71, where "tisraḥ" was read; "ittī" is printed here for *iti* [?].)*
+*(Reading note: the print reads "upa pra jinvann iti trīṇi" and Ā. 4-13, as in the sūtra quoted at the introduction of Sūkta 71.)*
 
-*Meaning:* "*Kā te*" is the third sūkta, of five Ṛks; the Anukramaṇī says "*kā te*". The ṛṣi is Gotama Rāhūgaṇa; the metre Triṣṭup; the deity Agni. At the Prātaranuvāka these two sūktas, beginning with this one, are in the Triṣṭup metre in the Agni-rite; the sūtra: "*upa pra jinvan* — three [Ṛks], and the sūktas *kā ta upetiḥ*" (Ā. [4-13?]); likewise at the Aśvina-śastra, by the extension of the Prātaranuvāka.
+*Meaning:* "*Kā te*" is the third sūkta, of five Ṛks; the Anukramaṇī says "*kā te*". The ṛṣi is Gotama Rāhūgaṇa; the metre Triṣṭup; the deity Agni. At the Prātaranuvāka these two sūktas, beginning with this one, are in the Triṣṭup metre in the Agni-rite; the sūtra: "*upa pra jinvan* — three [Ṛks], and the sūktas *kā ta upetiḥ*" (Ā. 4-13); likewise at the Aśvina-śastra, by the extension of the Prātaranuvāka.
 
-**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*kā te*", is the third sūkta in the thirteenth anuvāka. It has five Ṛks. The Anukramaṇikā says "*kā te*". The sage of this sūkta is Gotama, son of Rahūgaṇa; the deity is Agni; the metre is Triṣṭup. For the recitation of the Prātaranuvāka mantras, this sūkta is applied for the Triṣṭup-metre Ṛks connected with the Agni-rite, and likewise for the Aśvina-śastra mantras, as explained by the Āśvalāyana-śrauta-sūtra "*upa pra jinvann iti trīṇi kā ta upetir iti sūkte*" (Ā. [4-13?]).
+**अनुवादः — Anuvāda** *(Kannada)*: This sūkta, beginning "*kā te*", is the third sūkta in the thirteenth anuvāka. It has five Ṛks. The Anukramaṇikā says "*kā te*". The sage of this sūkta is Gotama, son of Rahūgaṇa; the deity is Agni; the metre is Triṣṭup. For the recitation of the Prātaranuvāka mantras, this sūkta is applied for the Triṣṭup-metre Ṛks connected with the Agni-rite, and likewise for the Aśvina-śastra mantras, as explained by the Āśvalāyana-śrauta-sūtra "*upa pra jinvann iti trīṇi kā ta upetir iti sūkte*" (Ā. 4-13).
 
 ---
 
@@ -10121,16 +10121,18 @@ Words treated: *yaja* (root *yaja devapūjāsaṃgatikaraṇadāneṣu*; *loṭ*
 
 ॥ ओं ॥ — *Oṃ.*
 ॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—७६ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 76.*
-॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—[२४?] ॥ — *Aṣṭaka 1; Adhyāya 5; Varga "24" as read, doubtful [?].*
+॥ अष्टक—१ ॥ अध्याय—५ ॥ वर्ग—२४ ॥ — *Aṣṭaka 1; Adhyāya 5; Varga 24.*
 *Number of Ṛks in the sūkta:* 5. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Agni. *Chandas:* Triṣṭup.
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.1**
 
-> का त उपेतिर्मनसो वराय भुवदग्ने शन्तमा का मनीषा ।
-> को वा यज्ञैः परि दक्षं त आप केन वा ते मनसा दाशेम ॥ १ ॥
+*(Accents as printed; "दाशेम" carries no mark in the print.)*
 
-*kā ta upetir manaso varāya bhuvad agne śantamā kā manīṣā |
-ko vā yajñaiḥ pari dakṣaṃ ta āpa kena vā te manasā dāśema ||1||*
+> का त॒ उपे॑ति॒र्मन॑सो॒ वरा॑य॒ भुव॑दग्ने॒ शन्त॑मा॒ का म॑नी॒षा ।
+> को वा॑ य॒ज्ञैः परि॒ दक्षं॑ त आप॒ केन॑ वा ते॒ मन॑सा दाशेम ॥ १ ॥
+
+*kā́ ta úpetir mánaso várāya bhúvad agne śántamā kā́ manīṣā́ |
+kó vā yajñaíḥ pári dákṣaṃ ta ā́pa kéna vā te mánasā dāśema ||1||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -10143,19 +10145,19 @@ ko vā yajñaiḥ pari dakṣaṃ ta āpa kena vā te manasā dāśema ||1||*
 
 ### Page 469 (PDF 487)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.1** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
 
-> हे अग्ने ते तव मनसो वरायं निवारणायास्मास्ववस्थापनाय कोपेतिर्भुवत् । कीदृशमुपगमनं भवेत् । न काप्यस्ति । तवोचितमुपगमनं वयं कर्तुं न शक्नुम इति भावः । मनीषा स्तुतिः शंतमा तवातिशयेन सुखकरी का कीदृशी भवेत् । तवोचिता स्तुतिरपि नास्तीत्यर्थः । को वा यजमानो यज्ञैस्तव संबंधिभिर्योगैर्दक्षं वृद्धिं बलं वा पर्याप । पर्याप्नोत् । नकोऽपीत्यर्थः । तवोचितान्यागानणुष्ठाय तैः फलं प्राप्यत इत्येतदपि दुर्घटमेवेति भावः । उपगमनादिकं तावदास्ताम् । तस्य सर्वस्य साधनभूतं मन एवास्माकं दुर्लभमित्याह । केनेति । हे अग्ने ते तुभ्यं केन मनसा कीदृश्या बुद्ध्या दाशेम हवींषि प्रयच्छामः । तवोपगमनाद्यनुरूपं मनो ऽस्माकं नोत्पद्यत इत्यर्थः ॥ उपेतिः । तादौ चेति गतेः प्रकृतिस्वरत्वं । वरायं । वृङ् वरणे । अस्माद्धेतुभावितण्यर्थाद्वृ हव्यदनिष्ठिगमश्च । पा. [३-३-३८?] । इत्यप् । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः । भुवत् । लेट्यडागमः । बहुलं छंदसीति शपो लुक् । भूसुवोस्तिङीति गुणप्रतिषेधः । दक्षं । दक्ष वृद्धौ । भावे करणे वा घञ् । ञित्त्वादाद्युदात्तत्वं ॥
+> हे अग्ने ते तव मनसो वराय निवारणायास्मास्ववस्थापनाय कोपेतिर्भुवत् । कीदृशमुपगमनं भवेत् । न काप्यस्ति । तवोचितमुपगमनं वयं कर्तुं न शक्नुम इति भावः । मनीषा स्तुतिः शंतमा तवातिशयेन सुखकरी का कीदृशी भवेत् । तवोचिता स्तुतिरपि नास्तीत्यर्थः । को वा यजमानो यज्ञैस्तव संबंधिभिर्योगैर्दक्षं वृद्धिं बलं वा पर्याप । पर्याप्नोत् । नकोऽपीत्यर्थः । तवोचितान्यागानणुष्ठाय तैः फलं प्राप्यत इत्येतदपि दुर्घटमेवेति भावः । उपगमनादिकं तावदास्ताम् । तस्य सर्वस्य साधनभूतं मन एवास्माकं दुर्लभमित्याह । केनेति । हे अग्ने ते तुभ्यं केन मनसा कीदृश्या बुद्ध्या दाशेम हवींषि प्रयच्छामः । तवोपगमनाद्यनुरूपं मनो ऽस्माकं नोत्पद्यत इत्यर्थः ॥ उपेतिः । तादौ चेति गतेः प्रकृतिस्वरत्वं । वराय । वृङ् वरणे । अस्मादंतर्भावितण्यर्थाद्ग्रहवृदृनिश्चिगमश्च । पा. ३-३-५८ । इत्यप् । तस्य पित्त्वादनुदात्तत्वे धातुस्वरः । भुवत् । लेट्यडागमः । बहुलं छंदसीति शपो लुक् । भूसुवोस्तिङीति गुणप्रतिषेधः । दक्षं । दक्ष वृद्धौ । भावे करणे वा घञ् । ञित्त्वादाद्युदात्तत्वं ॥
 
-*he agne te tava manaso varāyaṃ nivāraṇāyāsmāsv avasthāpanāya kopetir bhuvat | kīdṛśam upagamanaṃ bhavet | na kāpy asti | tavocitam upagamanaṃ vayaṃ kartuṃ na śaknuma iti bhāvaḥ | manīṣā stutiḥ śaṃtamā tavātiśayena sukhakarī kā kīdṛśī bhavet | tavocitā stutir api nāstīty arthaḥ | ko vā yajamāno yajñais tava saṃbandhibhir yogair dakṣaṃ vṛddhiṃ balaṃ vā paryāpa | paryāpnot | na ko 'pīty arthaḥ | tavocitān yāgān anuṣṭhāya taiḥ phalaṃ prāpyata ity etad api durghaṭam eveti bhāvaḥ | upagamanādikaṃ tāvad āstām | tasya sarvasya sādhanabhūtaṃ mana evāsmākaṃ durlabham ity āha | keneti | he agne te tubhyaṃ kena manasā kīdṛśyā buddhyā dāśema havīṃṣi prayacchāmaḥ | tavopagamanādyanurūpaṃ mano 'smākaṃ notpadyata ity arthaḥ || upetiḥ | tādau ceti gateḥ prakṛtisvaratvaṃ | varāyaṃ | vṛṅ varaṇe | asmād dhetubhāvitaṇyarthād vṛ-havyadaniṣṭhi-gamaś ca | pā. [3-3-38?] | ity ap | tasya pittvād anudāttatve dhātusvaraḥ | bhuvat | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapo luk | bhūsuvos tiṅīti guṇapratiṣedhaḥ | dakṣaṃ | dakṣa vṛddhau | bhāve karaṇe vā ghañ | ñittvād ādyudāttatvaṃ ||*
+*he agne te tava manaso varāya nivāraṇāyāsmāsv avasthāpanāya kopetir bhuvat | kīdṛśam upagamanaṃ bhavet | na kāpy asti | tavocitam upagamanaṃ vayaṃ kartuṃ na śaknuma iti bhāvaḥ | manīṣā stutiḥ śaṃtamā tavātiśayena sukhakarī kā kīdṛśī bhavet | tavocitā stutir api nāstīty arthaḥ | ko vā yajamāno yajñais tava saṃbandhibhir yogair dakṣaṃ vṛddhiṃ balaṃ vā paryāpa | paryāpnot | na ko 'pīty arthaḥ | tavocitān yāgān anuṣṭhāya taiḥ phalaṃ prāpyata ity etad api durghaṭam eveti bhāvaḥ | upagamanādikaṃ tāvad āstām | tasya sarvasya sādhanabhūtaṃ mana evāsmākaṃ durlabham ity āha | keneti | he agne te tubhyaṃ kena manasā kīdṛśyā buddhyā dāśema havīṃṣi prayacchāmaḥ | tavopagamanādyanurūpaṃ mano 'smākaṃ notpadyata ity arthaḥ || upetiḥ | tādau ceti gateḥ prakṛtisvaratvaṃ | varāya | vṛṅ varaṇe | asmād antarbhāvitaṇyarthād grahavṛdṛniścigamaś ca | pā. 3-3-58 | ity ap | tasya pittvād anudāttatve dhātusvaraḥ | bhuvat | leṭy aḍāgamaḥ | bahulaṃ chandasīti śapo luk | bhūsuvos tiṅīti guṇapratiṣedhaḥ | dakṣaṃ | dakṣa vṛddhau | bhāve karaṇe vā ghañ | ñittvād ādyudāttatvaṃ ||*
 
-*(Reading note: "kopetir", "tvaṃ" etc. as printed; "varāyaṃ" appears twice as *varāya* in the Saṃhitā and *varāyam* in the commentary as printed; the tail from "upetiḥ" is compressed and the Pāṇini numeral is doubtful [?].)*
+*(Reading note: "kopetir" (*ka upetiḥ*) as printed; the opening and the tail on *varāya* re-read from the print ("varāya", "antarbhāvitaṇyarthād grahavṛdṛniścigamaś ca", Pā. 3-3-58).)*
 
 *Meaning:* O Agni, what kind of approach (*upetiḥ*) would be there, to ward off (*varāya*) — to settle your mind in us? There is none: that is, we are not able to make an approach worthy of you. What (*kā*) hymn (*manīṣā*), exceedingly comfort-giving (*śantamā*) to you, could there be? There is not even a praise worthy of you. Or what sacrificer, by sacrifices (*yajñaiḥ*) belonging to you, has attained (*paryāpa*) your *dakṣa* — growth or strength? None; that one should, by performing the sacrifices worthy of you, obtain the fruit by them — even this is hard to accomplish. Let the approach and the rest be: the very mind, which is the means to all that, is hard for us to obtain. So he says, "*kena*": with what mind (*kena manasā*), with what understanding, shall we give (*dāśema*) you the oblations? A mind befitting an approach to you does not arise in us.
 
-**Grammatical tail** *(characterized)*: *upetiḥ* (the *gati* keeps its natural accent by *tādau ca*); *varāyam* (root *vṛṅ varaṇe*; the affix *ap* by Pā. [3-3-38?]; accent of the root since the affix is *pit*); *bhuvat* (*leṭ* with *aḍ*; loss of *śap*; prohibition of guṇa); *dakṣam* (root *dakṣa vṛddhau*; *ghañ*).
+**Grammatical tail** *(characterized)*: *upetiḥ* (the *gati* keeps its natural accent by *tādau ca*); *varāya* (root *vṛṅ varaṇe*, in a causative sense; the affix *ap* by *grahavṛdṛniścigamaś ca*, Pā. 3-3-58; accent of the root since the affix is *pit*); *bhuvat* (*leṭ* with *aḍ*; loss of *śap*; prohibition of guṇa); *dakṣam* (root *dakṣa vṛddhau*; *ghañ*).
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
 
@@ -10182,14 +10184,14 @@ O Agni! What effort should we make to win over your mind? What kind of praise of
 - **मनसो वराय का उपेतिः** — *nivāraṇāya avasthāpanāya kīdṛśam upagamanaṃ bhavet* — "'What kind of approach would there be, to ward off (*nivāraṇa*) or to establish?' From this question the exceeding greatness of Agni is known: that we sacrificers — by performing sacrifices and other rites — cannot find a way to win your mind so that it stays in us and does not go to others, and that we are not able to act accordingly. For the word *varāya* Sāyaṇa gives the sense: *manasaḥ viṣayāntarebhyo nivāraṇaṃ tvayy eva avasthāpanam* — 'the turning of the mind from other objects and establishing it in you alone': that is, the means of winning your mind so that it does not wander elsewhere but is established in you. Skandasvāmin: *varāya | vara-śabdaḥ śreṣṭhavacanaḥ* — 'the word *vara* means best'; so he explains *kā tava upetiḥ* as 'O Agni, what is the best means of approaching you?'"
 - **को वा यज्ञैः दक्षं ते परि आप** — *ko vā yajamānaḥ tava saṃbandhibhir yogaiḥ vṛddhiṃ balaṃ vā paryāpnot* — "'What sacrificer has obtained growth or strength by the sacrifices belonging to you?' The worship of Agni by praise or by performing sacrifice: these two kinds of acts will surely win you; yet for performing these acts our minds must be steady in you. Without a steady mind, neither action nor praise gives the right fruit; hence the worship, the *upāsanā*, is not fit to please the deity. Therefore, in *kena manasā havīṃṣi dāśema*, the sense is 'grant us a mind with which we may offer you oblations in order to win your love' — this is known from the question 'with what mind shall we offer you oblations?' Sāyaṇa explains the word *dakṣa* as strength, growth. Skandasvāmin, in the passage *ko vā yajñaiḥ dakṣaṃ te paryāpa*, says that the word *dakṣa* here is the word for *ātma* [self, the strength of oneself], and:
 
-  > उत स्वेन क्रतुना सं वदेते श्रेयांसं दक्षं मनसा जगृभ्यात् ।
-  > *uta svena kratunā saṃ vadete śreyāṃsaṃ dakṣaṃ manasā jagṛbhyāt* (Ṛk. Saṃ. [10-?-?])" *(continued on p. 471; the Ṛgveda citation is read from small print and its numerals are doubtful [?]; gloss mine and tentative: "and the two speak together with their own will — one would grasp the better strength by the mind".)*
+  > उत स्वेन क्रतुना सं वदेत श्रेयांसं दक्षं मनसा जगृभ्यात् ।
+  > *uta svena kratunā saṃ vadeta śreyāṃsaṃ dakṣaṃ manasā jagṛbhyāt* (Ṛk. Saṃ. 10-31-2)" *(continued on p. 471; gloss mine and tentative: "and one would speak together with their own will — one would grasp the better strength by the mind".)*
 
 ---
 
 ### Page 471 (PDF 489)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 21" [as printed; for 24].)*
 
 **Special Topics of Rik 76.1 (concluded)**
 
@@ -10198,7 +10200,7 @@ O Agni! What effort should we make to win over your mind? What kind of praise of
   > इन्द्र श्रेष्ठानि द्रविणानि धेहि चित्तिं दक्षस्य सुभगत्वमस्मे ।
   > *indra śreṣṭhāni draviṇāni dhehi cittiṃ dakṣasya subhagatvam asme* (Ṛk. Saṃ. [2-21-6])
 
-  in this Ṛk, he explains, the word *dakṣa* is a word for mind. By this he explains *tavātmānaṃ mano vā paryāpa sarvato vyāpnotīti* — 'what is the means of pervading, by every way, your self or your mind? Knowing it, may we, offering you oblations, perform the rites that win your love.' The word *dakṣa* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. [2-9?]). This word occurs both with final *a* and with final *s*. Skandasvāmin, saying *dakṣatiḥ utsāhārthaḥ* — and *dakṣa iti sakārāntaṃ balanāma* — 'the word *dakṣas*, ending in *s*, is a name of strength' — gives, in support of this matter, the Ṛks:
+  in this Ṛk, he explains, the word *dakṣa* is a word for mind. By this he explains *tavātmānaṃ mano vā paryāpa sarvato vyāpnotīti* — 'what is the means of pervading, by every way, your self or your mind? Knowing it, may we, offering you oblations, perform the rites that win your love.' The word *dakṣa* is read among the twenty-eight names of strength, *ojaḥ*, *pājaḥ* and so on (Ni. 3-9 [as printed]). This word occurs both with final *a* and with final *s*. Skandasvāmin, saying *dakṣatiḥ utsāhārthaḥ* — and *dakṣa iti sakārāntaṃ balanāma* — 'the word *dakṣas*, ending in *s*, is a name of strength' — gives, in support of this matter, the Ṛks:
 
   > मित्रं हुवे पूतदक्षं वरुणं च रिशादसम् ।
   > *mitraṃ huve pūtadakṣaṃ varuṇaṃ ca riśādasam* (Ṛk. Saṃ. [1-2-7])
@@ -10220,17 +10222,19 @@ Words treated: *upetiḥ* (prefix *upa*; root *iṇ gatau*; *ktin* in the abstra
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.2** *(printed Ṛk "2 ||")*
 
-> एह्यग्न इह होता नि षीदादब्धः सु पुरएता भवा नः ।
-> अवतां त्वा रोदसी विश्वमिन्वे यजा महे सौमनसाय देवान् ॥ २ ॥
+*(Accents as printed.)*
 
-*ehy agna iha hotā ni ṣīdādabdhaḥ su puraetā bhavā naḥ |
-avatāṃ tvā rodasī viśvaminve yajā mahe saumanasāya devān ||2||*
+> एह्य॑ग्न इ॒ह होता॒ नि षी॒दाद॑ब्धः॒ सु पु॑रए॒ता भ॑वा नः ।
+> अव॑तां त्वा॒ रोद॑सी विश्वमि॒न्वे यजा॑ म॒हे सौ॑मन॒साय॑ दे॒वान् ॥ २ ॥
+
+*éhy agna ihá hótā ní ṣīdā́dabdhaḥ sú puraetā́ bhavā naḥ |
+ávatāṃ tvā ródasī viśvaminvé yájā mahé saumanasā́ya devā́n ||2||*
 
 ---
 
 ### Page 473 (PDF 491)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **॥ पदपाठः ॥ — Pada-pāṭha of Rik 76.2**
 
@@ -10241,15 +10245,15 @@ avatāṃ tvā rodasī viśvaminve yajā mahe saumanasāya devān ||2||*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.2** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
 
-> हे अग्ने एहि । आगच्छ । इहास्मिन्यज्ञे होता देवानामाह्वाता सन्नि षीद । उपविश । नो ऽस्माकं पुरएता पुरतो गंता सु भव । सुष्ठु भव । यस्मात्त्वमदब्धो राक्षसादिभिरहिंस्यो ऽसि । तादृशं त्वां विश्वमिन्वे । सर्वं व्याप्नुवत्यौ रोदसी द्यावापृथिव्यौ त्वा त्वामवतां । रक्षतां । आगत्योपविश्य च द्यावापृथिवीभ्यां रक्षितश्च सन् महे महते सौमनसाय सौमनस्याय देवान्नाद्यादिगुणयुक्तानिंद्रादीन्यज । हविर्भिः पूजय ॥ नि षीद । सदेरप्रतेरिति षत्वं । सौमनसाय । सुमनसो भावः सौमनसं । तस्येदमिति संबंधसामान्य इत्यण्प्रत्ययः । स चात्र भावलक्षणे संबंधविशेषे पर्यवस्यति । यद्वा । हायनांतयुवादिभ्यो ऽण् । पा. [५-१-१३०?] । इति भावे ऽण् । युवादिष्वस्य पाठो द्रष्टव्यः ॥
+> हे अग्ने एहि । आगच्छ । इहास्मिन्यज्ञे होता देवानामाह्वाता सन्नि षीद । उपविश । नो ऽस्माकं पुरएता पुरतो गंता सु भव । सुष्ठु भव । यस्मात्त्वमदब्धो राक्षसादिभिरहिंस्यो ऽसि । तादृशं त्वां विश्वमिन्वे । सर्वं व्याप्नुवत्यौ रोदसी द्यावापृथिव्यौ त्वा त्वामवतां । रक्षतां । आगत्योपविश्य च द्यावापृथिवीभ्यां रक्षितश्च सन् महे महते सौमनसाय सौमनस्याय देवान्नाद्यादिगुणयुक्तानिंद्रादीन्यज । हविर्भिः पूजय ॥ नि षीद । सदेरप्रतेरिति षत्वं । सौमनसाय । सुमनसो भावः सौमनसं । तस्येदमिति संबंधसामान्य इत्यण्प्रत्ययः । स चात्र भावलक्षणे संबंधविशेषे पर्यवस्यति । यद्वा । हायनांतयुवादिभ्यो ऽण् । पा. ५-१-१३० । इति भावे ऽण् । युवादिष्वस्य पाठो द्रष्टव्यः ॥
 
-*he agne ehi | āgaccha | ihāsmin yajñe hotā devānām āhvātā san ni ṣīda | upaviśa | no 'smākaṃ puraetā purato gantā su bhava | suṣṭhu bhava | yasmāt tvam adabdho rākṣasādibhir ahiṃsyo 'si | tādṛśaṃ tvāṃ viśvaminve | sarvaṃ vyāpnuvatyau rodasī dyāvāpṛthivyau tvā tvām avatāṃ | rakṣatāṃ | āgatyopaviśya ca dyāvāpṛthivībhyāṃ rakṣitaś ca san mahe mahate saumanasāya saumanasyāya devān nādyādiguṇayuktān indrādīn yaja | havirbhiḥ pūjaya || ni ṣīda | sader aprater iti ṣatvaṃ | saumanasāya | sumanaso bhāvaḥ saumanasaṃ | tasyedam iti saṃbandhasāmānya ity aṇpratyayaḥ | sa cātra bhāvalakṣaṇe saṃbandhaviśeṣe paryavasyati | yadvā | hāyanāntayuvādibhyo 'ṇ | pā. [5-1-130?] | iti bhāve 'ṇ | yuvādiṣv asya pāṭho draṣṭavyaḥ ||*
+*he agne ehi | āgaccha | ihāsmin yajñe hotā devānām āhvātā san ni ṣīda | upaviśa | no 'smākaṃ puraetā purato gantā su bhava | suṣṭhu bhava | yasmāt tvam adabdho rākṣasādibhir ahiṃsyo 'si | tādṛśaṃ tvāṃ viśvaminve | sarvaṃ vyāpnuvatyau rodasī dyāvāpṛthivyau tvā tvām avatāṃ | rakṣatāṃ | āgatyopaviśya ca dyāvāpṛthivībhyāṃ rakṣitaś ca san mahe mahate saumanasāya saumanasyāya devān nādyādiguṇayuktān indrādīn yaja | havirbhiḥ pūjaya || ni ṣīda | sader aprater iti ṣatvaṃ | saumanasāya | sumanaso bhāvaḥ saumanasaṃ | tasyedam iti saṃbandhasāmānya ity aṇpratyayaḥ | sa cātra bhāvalakṣaṇe saṃbandhaviśeṣe paryavasyati | yadvā | hāyanāntayuvādibhyo 'ṇ | pā. 5-1-130 | iti bhāve 'ṇ | yuvādiṣv asya pāṭho draṣṭavyaḥ ||*
 
-*(Reading note: "nādyādiguṇayuktān" is read as printed (apparently "possessing qualities such as being eaters of food, *annāda*"); the Pāṇini numeral is doubtful [?].)*
+*(Reading note: "nādyādiguṇayuktān" is read as printed (apparently "possessing qualities such as being eaters of food, *annāda*"); Pā. 5-1-130 as printed.)*
 
 *Meaning:* O Agni, come (*ehi*); sit down (*ni ṣīda*) here (*iha*) in this sacrifice as the *hotṛ* — the invoker of the gods; be a good leader (*puraetā*) to us, going before us, since you are unassailable (*adabdhaḥ*), not to be injured by demons and the like. May heaven and earth (*rodasī*), which pervade all (*viśvaminve*), protect (*avatām*) you. Having come, seated, and protected by heaven and earth, worship (*yaja*) for the great (*mahe*) good-will (*saumanasāya*) the gods — Indra and the rest — with oblations.
 
-**Grammatical tail** *(characterized)*: *ni ṣīda* (*ṣatva* by *sader aprateḥ*); *saumanasāya* (from *sumanas*, "the state of being of good mind"; *aṇ* by *tasyedam* in the general sense of relation, which here ends in the specific relation of state; or *aṇ* in the abstract sense by *hāyanāntayuvādibhyo 'ṇ*, Pā. [5-1-130?], *sumanas* being read in the *yuvādi* class).
+**Grammatical tail** *(characterized)*: *ni ṣīda* (*ṣatva* by *sader aprateḥ*); *saumanasāya* (from *sumanas*, "the state of being of good mind"; *aṇ* by *tasyedam* in the general sense of relation, which here ends in the specific relation of state; or *aṇ* in the abstract sense by *hāyanāntayuvādibhyo 'ṇ*, Pā. 5-1-130, *sumanas* being read in the *yuvādi* class).
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha** *(Kannada)*
 
@@ -10271,21 +10275,21 @@ O Agni! Come here; sit here as the invoker (of the gods); you who cannot be inju
 
 **॥ विशेषविषयगळु ॥ — Special Topics** *(Kannada)*
 
-- **विश्वमिन्वे रोदसी त्वा अवताम्** — *sarvaṃ vyāpnuvatyau dyāvāpṛthivyau tvāṃ rakṣatām* — "'may heaven and earth, which pervade all, protect you': the prayer of those who perform the sacrifice, concerning Agni, that heaven and earth, pervading all, may protect you, who are free from every kind of injury from demons and the like. The word *viśva*, as one of the twelve names that give the sense 'many' — *uru*, *tuvi* and so on (Ni. [3-13?]) — is used here in the sense 'all'.
+- **विश्वमिन्वे रोदसी त्वा अवताम्** — *sarvaṃ vyāpnuvatyau dyāvāpṛthivyau tvāṃ rakṣatām* — "'may heaven and earth, which pervade all, protect you': the prayer of those who perform the sacrifice, concerning Agni, that heaven and earth, pervading all, may protect you, who are free from every kind of injury from demons and the like. The word *viśva*, as one of the twelve names that give the sense 'many' — *uru*, *tuvi* and so on (Ni. 3-13 [as printed]) — is used here in the sense 'all'.
 
   That the greatness of heaven and earth, which protect Agni, is such, Yāska has shown in the Nirukta by quoting the Ṛk:
 
   > कतरा पूर्वा कतरापरायोः कथा जाते कवयः को वि वेद ।
   > विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥
-  > *katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda | viśvaṃ tmanā bibhṛto yad dha nāma vi vartete ahanī cakriyeva* (Ṛk. Saṃ. [1-185-1])
+  > *katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda | viśvaṃ tmanā bibhṛto yad dha nāma vi vartete ahanī cakriyeva* (Ṛk. Saṃ. 1-185-1)
 
-  and saying *dyāvāpṛthivyor mahimānam ācaṣṭe* ('he describes the greatness of heaven and earth'). The first and last positions that these heaven-and-earth have cannot be clearly known: whether they arose together, or in what manner they arose, no one knows. According to the authority of the scriptures, however, *te aṇḍakapāle rajataṃ ca suvarṇaṃ cābhavatām*, *tayor yad rajataṃ seyaṃ pṛthivī yat suvarṇaṃ sā dyauḥ* [as read, doubtful]: 'there were two halves of an egg; one of them became silver, the other gold; the silver half became the earth, the gold half the sky'; from this it is understood that these heaven and earth arose together. And these heaven and earth support all, all beings. The day and the night too, like the wheels of a chariot, are connected with them: such is the sense of this mantra. By this the greatness of heaven and earth is told." *(Gloss mine and tentative: "which is the first and which the later of the two? how were they born, O seers? who knows? they bear the whole world by themselves, and day and night revolve like two wheels". The Ṛgveda numerals and the Śruti-like sentence are read from small print and are doubtful [?].)*
+  and saying *dyāvāpṛthivyor mahimānam ācaṣṭe* ('he describes the greatness of heaven and earth'). The first and last positions that these heaven-and-earth have cannot be clearly known: whether they arose together, or in what manner they arose, no one knows. According to the authority of the scriptures, however, *te aṇḍakapāle rajataṃ ca suvarṇaṃ cābhavatām*, *tad yat rajataṃ seyaṃ pṛthivī yat suvarṇaṃ sā dyaur iti*: 'there were two halves of an egg; one of them became silver, the other gold; the silver half became the earth, the gold half the sky'; from this it is understood that these heaven and earth arose together. And these heaven and earth support all, all beings. The day and the night too, like the wheels of a chariot, are connected with them: such is the sense of this mantra. By this the greatness of heaven and earth is told." *(Gloss mine and tentative: "which is the first and which the later of the two? how were they born, O seers? who knows? they bear the whole world by themselves, and day and night revolve like two wheels".)*
 
 ---
 
 ### Page 475 (PDF 493)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **Special Topics of Rik 76.2 (concluded)**
 
@@ -10307,11 +10311,13 @@ Words treated: *ehi* (*ā* + *ihi*; prefix *āṅ*; root *iṇ gatau*; since *hi
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.3** *(printed Ṛk "3 ||")*
 
-> प्र सु विश्वान्रक्षसो धक्ष्यग्ने भवा यज्ञानामभिशस्तिपावा ।
-> अथा वह सोमपतिं हरिभ्यामातिथ्यमस्मै चकृमा सुदाव्ने ॥ ३ ॥
+*(Accents as printed; "व॑ह॒" [accent ?]: the stroke stands over ವ, not over the preceding ಥಾ.)*
 
-*pra su viśvān rakṣaso dhakṣy agne bhavā yajñānām abhiśastipāvā |
-athā vaha somapatiṃ haribhyām ātithyam asmai cakṛmā sudāvne ||3||*
+> प्र सु विश्वा॑न्र॒क्षसो॒ धक्ष्य॑ग्ने॒ भवा॑ य॒ज्ञाना॑मभिशस्ति॒पावा॑ ।
+> अथा व॑ह॒ सोम॑पतिं॒ हरि॑भ्यामाति॒थ्यम॑स्मै चकृमा सु॒दाव्ने॑ ॥ ३ ॥
+
+*pra su víśvān rakṣáso dhákṣy agne bhávā yajñā́nām abhiśastipā́vā |
+athā́ vaha sómapatiṃ háribhyām ātithyám asmai cakṛmā sudā́vne ||3||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -10326,15 +10332,15 @@ athā vaha somapatiṃ haribhyām ātithyam asmai cakṛmā sudāvne ||3||*
 
 ### Page 477 (PDF 495)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.3** *(Sanskrit in Kannada script; compressed; doubtful places [?])*
 
-> हे अग्ने विश्वान्सर्वान्रक्षसो राक्षसान्प्र सु धक्षि । प्रकर्षेण दह । दग्ध्वा च यज्ञानामस्माभिरनुष्ठेयानां योगानामभिशस्तिपावाभिशस्तेर्हिंसायोः पाता रक्षिता भव । अथानंतरं सोमपतिं सर्वेषां सोमानां पालकमिंद्रं हरिभ्यां तदीयोश्वाभ्यामा वह । अस्मद्यज्ञं प्रापय । आगतायास्मै सुदाव्ने शोभनस्य फलस्य दात्रे इंद्रायातिथ्यमतिथ्यर्हं सत्कारं चकृमं । कुर्मः ॥ धक्षि । दह भस्मीकरणे । बहुलं छंदसीति शपो लुक् । धत्वभष्भावकत्वषत्वानि । अभिशस्तिपावा । शसु हिंसायां । अस्मादभिपूर्वाद्भावे क्तिन् । अभिशस्तेः पातेत्यभिशस्तिपावा । पा रक्षणे । अतो मनिन्क्विब् वनिप् । सोमपतिं । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वं । सुदाव्ने । पूर्ववद्दातेर्वनिप् । आल्लोपोऽन इत्याकारलोपः ॥
+> हे अग्ने विश्वान्सर्वान्रक्षसो राक्षसान्प्र सु धक्षि । प्रकर्षेण दह । दग्ध्वा च यज्ञानामस्माभिरनुष्ठेयानां योगानामभिशस्तिपावाभिशस्तेर्हिंसायोः पाता रक्षिता भव । अथानंतरं सोमपतिं सर्वेषां सोमानां पालकमिंद्रं हरिभ्यां तदीयाश्वाभ्यामा वह । अस्मद्यज्ञं प्रापय । आगतायास्मै सुदाव्ने शोभनस्य फलस्य दात्रे इंद्रायातिथ्यमतिथ्यर्हं सत्कारं चकृम । कुर्मः ॥ धक्षि । दह भस्मीकरणे । बहुलं छंदसीति शपो लुक् । धत्वभष्भावकत्वषत्वानि । अभिशस्तिपावा । शसु हिंसायां । अस्मादभिपूर्वाद्भावे क्तिन् । अभिशस्तेः पातेत्यभिशस्तिपावा । पा रक्षणे । अतो मनिन्क्विब् वनिप् । सोमपतिं । पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वं । सुदाव्ने । पूर्ववद्दातेर्वनिप् । आल्लोपोऽन इत्याकारलोपः ॥
 
-*he agne viśvān sarvān rakṣaso rākṣasān pra su dhakṣi | prakarṣeṇa daha | dagdhvā ca yajñānām asmābhir anuṣṭheyānāṃ yogānām abhiśastipāvābhiśaster hiṃsāyoḥ pātā rakṣitā bhava | athānantaraṃ somapatiṃ sarveṣāṃ somānāṃ pālakam indraṃ haribhyāṃ tadīyoś(?) aśvābhyām ā vaha | asmadyajñaṃ prāpaya | āgatāyāsmai sudāvne śobhanasya phalasya dātre indrāyātithyam atithyarhaṃ satkāraṃ cakṛmaṃ(?) | kurmaḥ || dhakṣi | daha bhasmīkaraṇe | bahulaṃ chandasīti śapo luk | dhatvabhaṣbhāvakatvaṣatvāni | abhiśastipāvā | śasu hiṃsāyāṃ | asmād abhipūrvād bhāve ktin | abhiśasteḥ pātety abhiśastipāvā | pā rakṣaṇe | ato manin kvib vanip | somapatiṃ | patyāvaiśvarya iti pūrvapadaprakṛtisvaratvaṃ | sudāvne | pūrvad dāter vanip | āllopo 'na ity ākāralopaḥ ||*
+*he agne viśvān sarvān rakṣaso rākṣasān pra su dhakṣi | prakarṣeṇa daha | dagdhvā ca yajñānām asmābhir anuṣṭheyānāṃ yogānām abhiśastipāvābhiśaster hiṃsāyoḥ pātā rakṣitā bhava | athānantaraṃ somapatiṃ sarveṣāṃ somānāṃ pālakam indraṃ haribhyāṃ tadīyāśvābhyām ā vaha | asmadyajñaṃ prāpaya | āgatāyāsmai sudāvne śobhanasya phalasya dātre indrāyātithyam atithyarhaṃ satkāraṃ cakṛma | kurmaḥ || dhakṣi | daha bhasmīkaraṇe | bahulaṃ chandasīti śapo luk | dhatvabhaṣbhāvakatvaṣatvāni | abhiśastipāvā | śasu hiṃsāyāṃ | asmād abhipūrvād bhāve ktin | abhiśasteḥ pātety abhiśastipāvā | pā rakṣaṇe | ato manin kvib vanip | somapatiṃ | patyāvaiśvarya iti pūrvapadaprakṛtisvaratvaṃ | sudāvne | pūrvad dāter vanip | āllopo 'na ity ākāralopaḥ ||*
 
-*(Reading note: "tadīyoś" for *tadīyābhyām*, and "cakṛmaṃ" for *cakṛma*, are as printed and doubtful [?].)*
+*(Reading note: "tadīyāśvābhyām ā vaha" and "cakṛma | kurmaḥ" re-read from the print.)*
 
 *Meaning:* O Agni, burn up (*pra su dhakṣi*) all (*viśvān*) the demons (*rakṣasaḥ*) utterly; and having burnt them, be (*bhava*) the protector (*pātā*) of the sacrifices to be performed by us, from injury (*abhiśasti*). Afterwards bring (*ā vaha*) with his two steeds (*haribhyām*) Indra, the guardian of all the Somas (*somapatim*); make him reach our sacrifice. To this Indra who has come, the giver (*sudāvne*) of good fruit, we have made (*cakṛma*) hospitality (*ātithyam*) — the honour due to a guest.
 
@@ -10362,7 +10368,7 @@ O Agni! Destroy all the demons and make our sacrifices free of obstruction. Afte
 
 - **अभिशस्तिपावा** — *śasu hiṃsāyām | pā rakṣaṇe | abhiśasteḥ hiṃsāyoḥ pātā rakṣitā bhava* — "'be the protector from injury': Sāyaṇa takes this as a prayer to Agni that he be the protector of the sacrificers who perform the sacrifices and of the sacrifices themselves, so that no kind of injury befalls; Skandasvāmin explains it as 'protect us, who perform the sacrifices, and the sacrifices, from injury by those who injure, and from any injury, so that it does not befall us'."
 - **सोमपतिम्** — *sarveṣāṃ somānāṃ pālakam* — "the word *pati*, formed from the root *pā rakṣaṇe*, means 'protector'. The substance in the form of oblation that gratifies the gods is meant by *soma*. Or: *soma* means the intermediate deities who receive the oblation-portions. Indra is the protector of all these."
-- **हरिभ्याम् आ वह** — *tadīyāśvābhyām indram asmadyajñaṃ prāpaya* — "*harī indrasya* (Ni. [2-?]): the horses of Indra's chariot are called *harī*. The sacrificers pray to Agni: 'cause Indra to come to our sacrifice by his chariot, to which his horses are yoked.'"
+- **हरिभ्याम् आ वह** — *tadīyāśvābhyām indram asmadyajñaṃ prāpaya* — "*harī indrasya* (Ni. 2-28): the horses of Indra's chariot are called *harī*. The sacrificers pray to Agni: 'cause Indra to come to our sacrifice by his chariot, to which his horses are yoked.'"
 - **सुदाव्ने** — *śobhanasya phalasya dātre* — "since he gives the most excellent, comfort-giving fruits to those who perform sacrifices and to others, the sense of this word is rightly applicable to Indra."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.3, noted briefly; not transcribed)*
@@ -10373,7 +10379,7 @@ Words treated: *dhakṣi* (root *daha bhasmīkaraṇe*; *loṭ*, second person s
 
 ### Page 479 (PDF 497)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **Grammar page of Rik 76.3 (concluded; noted briefly)**
 
@@ -10389,11 +10395,13 @@ Words treated: *dhakṣi* (root *daha bhasmīkaraṇe*; *loṭ*, second person s
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 76.4** *(printed Ṛk "4 ||")*
 
-> प्रजावता वचसा वह्निरासा च हुवे नि च सत्सीह देवैः ।
-> वेषि होत्रमुत पोत्रं यजत्र बोधि प्रयन्तर्जनितर्वसूनाम् ॥ ४ ॥
+*(Accents as printed.)*
 
-*prajāvatā vacasā vahnir āsā ca huve ni ca satsīha devaiḥ |
-veṣi hotram uta potraṃ yajatra bodhi prayantar janitar vasūnām ||4||*
+> प्र॒जाव॑ता॒ वच॑सा॒ वह्नि॑रा॒सा च॑ हु॒वे नि च॑ सत्सी॒ह दे॒वैः ।
+> वेषि॑ हो॒त्रमु॒त पो॒त्रं यज॑त्र बो॒धि प्र॑यन्तर्जनित॒र्वसू॑नाम् ॥ ४ ॥
+
+*prajā́vatā vácasā váhnir āsā́ ca huvé ní ca satsīhá devaíḥ |
+véṣi hotrám utá potráṃ yájatra bodhí prayantar janitar vásūnām ||4||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -10402,15 +10410,15 @@ veṣi hotram uta potraṃ yajatra bodhi prayantar janitar vasūnām ||4||*
 
 *prajā-vatā | vacasā | vahniḥ | āsā | ā | ca | huve | ni | ca | satsi | iha | devaiḥ | veṣi | hotram | uta | potram | yajatra | bodhi | pra-yantaḥ | janitaḥ | vasūnām ||4||*
 
-*(Reading note: the Pada prints "प्रयन्तः" and "जनितः" for the Saṃhitā's "प्रयन्तर्जनितर्" (visarga-sandhi); "सत्सि" for "सत्सि + इह" as printed; accents not reproduced.)*
+*(Reading note: the Pada prints "प्रयन्तः" and "जनितः" for the Saṃhitā's "प्रयन्तर्जनितर्" (visarga-sandhi); "सत्सि" for "सत्सि + इह" as printed.)*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 76.4** *(Sanskrit in Kannada script; doubtful places [?])*
 
-> प्रजावता यजमानेभ्यो दातव्यापत्यादिफलोपेतेन वचसा स्तोत्रेण स्तुतः सन् यो ऽग्निरांगिरसास्यस्थानीयो ज्वालयो वह्निर्वेनेभ्यो हविषां वोढा तमग्निमा च हुवे । आह्वयामि । आहूतः सन् श्वमिहास्मिन्कर्मणि देवैरन्यैः सह नि सत्सि च । निषीद च । निषद्य च हे यजत्र यजनीयाग्ने होत्रं होत्रा क्रियमाणं कर्म उतापि च पोत्रं पोत्रा कृतं कर्म च वेषि । कामयस्व । वसूनां धनानां प्रयंतः प्रकर्षेण नियंता वसूनस्मदायत्तानि कुर्वन् जनितराहुतिद्वारा सर्वस्य जनयितरग्ने बोधि । अस्मान्बोधय ॥ आसा । पद्दन्नित्यादिनास्यशब्दस्यासन्नादेशः । सुपां सुलुगिति तृतीयाया डादेशः । टिलोप उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । हुवे । ह्वेञ्ज्ञो लट् । बहुलं छंदसीति संप्रसारणं । बहुलं छंदसीति शपो लुक् । चवायोगे प्रथमेति निघातप्रतिषेधः । बोधि । बुध अवगमने । अस्माण्ण्यंताच्छंदस्युभयथेति हेरार्धधातुकत्वाण्णेरनिटीति णिलोपः । हुरुघ्न्योर्हेर्धिः । धातोरंत्यलोपश्छांदसः । हेरपित्त्वात्तस्यैव स्वरः शिष्यते ॥
+> प्रजावता यजमानेभ्यो दातव्यापत्यादिफलोपेतेन वचसा स्तोत्रेण स्तुतः सन् यो ऽग्निरासास्यस्थानीयया ज्वालया वह्निर्देवेभ्यो हविषां वोढा तमग्निमा च हुवे । आह्वयामि । आहूतः सन् त्वमिहास्मिन्कर्मणि देवैरन्यैः सह नि सत्सि च । निषीद च । निषद्य च हे यजत्र यजनीयाग्ने होत्रं होत्रा क्रियमाणं कर्म उतापि च पोत्रं पोत्रा कृतं कर्म च वेषि । कामयस्व । वसूनां धनानां प्रयंतः प्रकर्षेण नियंता वसून्यस्मदायत्तानि कुर्वन् जनितराहुतिद्वारा सर्वस्य जनयितरग्ने बोधि । अस्मान्बोधय ॥ आसा । पद्दन्नित्यादिनास्यशब्दस्यासन्नादेशः । सुपां सुलुगिति तृतीयाया डादेशः । टिलोप उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वं । हुवे । ह्वेञो लटि । बहुलं छंदसीति संप्रसारणं । बहुलं छंदसीति शपो लुक् । चवायोगे प्रथमेति निघातप्रतिषेधः । बोधि । बुध अवगमने । अस्माण्ण्यंताच्छंदस्युभयथेति हेरार्धधातुकत्वाण्णेरनिटीति णिलोपः । हुझल्भ्यो हेर्धिः । धातोरंत्यलोपश्छांदसः । हेरपित्त्वात्तस्यैव स्वरः शिष्यते ॥
 
-*prajāvatā yajamānebhyo dātavyāpatyādiphalopetena vacasā stotreṇa stutaḥ san yo 'gnir āṅgirasāsyasthānīyo jvālayo vahnir vanebhyo haviṣāṃ voḍhā tam agnim ā ca huve | āhvayāmi | āhūtaḥ san [tvam] ihāsmin karmaṇi devair anyaiḥ saha ni satsi ca | niṣīda ca | niṣadya ca he yajatra yajanīyāgne hotraṃ hotrā kriyamāṇaṃ karma utāpi ca potraṃ potrā kṛtaṃ karma ca veṣi | kāmayasva | vasūnāṃ dhanānāṃ prayantaḥ prakarṣeṇa niyantā vasūn asmadāyattāni kurvan janitar āhutidvārā sarvasya janayitar agne bodhi | asmān bodhaya || āsā | paddann ity ādinā āsyaśabdasyāsannādeśaḥ | supāṃ sulug iti tṛtīyāyā ḍādeśaḥ | ṭilopa udāttanivṛttisvareṇa vibhakter udāttatvaṃ | huve | hveñ jño laṭ(?) | bahulaṃ chandasīti saṃprasāraṇam | bahulaṃ chandasīti śapo luk | cavāyoge prathameti nighātapratiṣedhaḥ | bodhi | budha avagamane | asmāṇ ṇyantāc chandasy ubhayatheti herārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | huruhnyor her dhiḥ | dhātor antyalopaś chāndasaḥ | herapittvāt tasyaiva svaraḥ śiṣyate ||*
+*prajāvatā yajamānebhyo dātavyāpatyādiphalopetena vacasā stotreṇa stutaḥ san yo 'gnir āsāsyasthānīyayā jvālayā vahnir devebhyo haviṣāṃ voḍhā tam agnim ā ca huve | āhvayāmi | āhūtaḥ san tvam ihāsmin karmaṇi devair anyaiḥ saha ni satsi ca | niṣīda ca | niṣadya ca he yajatra yajanīyāgne hotraṃ hotrā kriyamāṇaṃ karma utāpi ca potraṃ potrā kṛtaṃ karma ca veṣi | kāmayasva | vasūnāṃ dhanānāṃ prayantaḥ prakarṣeṇa niyantā vasūny asmadāyattāni kurvan janitar āhutidvārā sarvasya janayitar agne bodhi | asmān bodhaya || āsā | paddann ity ādinā āsyaśabdasyāsannādeśaḥ | supāṃ sulug iti tṛtīyāyā ḍādeśaḥ | ṭilopa udāttanivṛttisvareṇa vibhakter udāttatvaṃ | huve | hveño laṭi | bahulaṃ chandasīti saṃprasāraṇam | bahulaṃ chandasīti śapo luk | cavāyoge prathameti nighātapratiṣedhaḥ | bodhi | budha avagamane | asmāṇ ṇyantāc chandasy ubhayatheti herārdhadhātukatvāṇ ṇer aniṭīti ṇilopaḥ | hujhalbhyo her dhiḥ | dhātor antyalopaś chāndasaḥ | herapittvāt tasyaiva svaraḥ śiṣyate ||*
 
-*(Reading note: the print is clear but small; "āṅgirasāsyasthānīyo", "śvam" [for *tvam*], "hveñ jño laṭ" and the tail's last two sentences ("huruhnyor her dhiḥ…") are compressed and doubtful [?].)*
+*(Reading note: "āsāsyasthānīyayā jvālayā vahnir devebhyo", "tvam", "vasūny" (p. 480) and the tail "hveño laṭi", "hujhalbhyo her dhiḥ" (p. 481) re-read from the print.)*
 
 *Meaning:* I call (*huve*) that Agni, the carrier (*vahniḥ*) of oblations from the woods, who, praised with a hymn (*vacasā*) possessing offspring (*prajāvatā*) — containing the fruits, such as offspring, which are to be given to the sacrificers — with the flames in the position of the mouth (*āsā*). Being called, sit (*satsi*) here in this rite with the other gods; and seated, O worshipful (*yajatra*) Agni, desire (*veṣi*) the office of *hotṛ* (*hotram*), the rite performed by the *hotṛ*, and the office of *potṛ* (*potram*), the rite done by the *potṛ*. As the controller (*prayantaḥ*) of riches (*vasūnām*) — making the treasures dependent upon us — and the generator (*janitaḥ*) of all through the offering, O Agni, awaken (*bodhi*) us.
 
@@ -10424,7 +10432,7 @@ veṣi hotram uta potraṃ yajatra bodhi prayantar janitar vasūnām ||4||*
 
 ### Page 481 (PDF 499)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]"; foot signature "VI 31".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24"; foot signature "VI 31".)*
 
 **॥ भावार्थः ॥ — Bhāvārtha of Rik 76.4** *(Kannada)*
 
@@ -10461,7 +10469,7 @@ Words treated: *prajāvatā* ("he has offspring"; *matup* by *tad asyāstyasmin*
 
 ### Page 483 (PDF 501)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **Grammar page of Rik 76.4 (concluded; noted briefly)**
 
@@ -10477,11 +10485,13 @@ Words treated: *prajāvatā* ("he has offspring"; *matup* by *tad asyāstyasmin*
 
 *(Running head: "Sāyaṇabhāṣyasahitā"; right: "Maṃ. 1 A. 13 Sū. 76".)*
 
-> यथा विप्रस्य मनुषो हविर्भिर्देवाँ अयजः कविभिः कविः सन् ।
-> एवा होतः सत्यतर त्वमद्याग्ने मन्द्रया जुह्वा यजस्व ॥ ५ ॥
+*(Saṃhitā of Rik 76.5; accents as printed.)*
 
-*yathā viprasya manuṣo havirbhir devāṃ ayajaḥ kavibhiḥ kaviḥ san |
-evā hotaḥ satyatara tvam adyāgne mandrayā juhvā yajasva ||5||*
+> यथा॒ विप्र॑स्य॒ मनु॑षो ह॒विर्भि॑र्दे॒वाँ अय॑जः क॒विभिः॑ क॒विः सन् ।
+> ए॒वा हो॑तः सत्यतर॒ त्वम॒द्याग्ने॑ म॒न्द्रया॑ जु॒ह्वा॑ यजस्व ॥ ५ ॥
+
+*yáthā víprasya mánuṣo havírbhir devā́ṃ áyajaḥ kavíbhiḥ kavíḥ san |
+evā́ hotaḥ satyatara tvám adyā́gne mandráyā juhvā̀ yajasva ||5||*
 
 **॥ पदपाठः ॥ — Pada-pāṭha**
 
@@ -10494,13 +10504,13 @@ evā hotaḥ satyatara tvam adyāgne mandrayā juhvā yajasva ||5||*
 
 > एकादशिनस्याग्नेयस्य पशोर्यथा विप्रस्येत्येषा पशुपुरोडाशस्य याज्या । सूत्रितं च प्रदानानामिति खंडे । यथा विप्रस्य मनुषो हविर्भिः प्र कारवो मनना वच्यैमानाः । आ. [३-२?] इति ॥
 
-> कविः क्रांतदर्शी सन्त्वमविभिर्मेधाविभिर्ऋत्विग्भिः सह विप्रस्य मेधाविनो मनुषो मनोर्यज्ञे हविर्भिश्चरुपुरोडाशादिभिर्हे अग्ने यथा देवानयजः । एवमेव होतर्होमनिष्पादक सत्यतरातिशयेन सत्सु साधो अग्ने त्वमद्यास्मिन्यज्ञे मन्द्रया हर्षयित्र्या जुह्वा होमसाधनभूतया स्रुचा यजस्व । देवांस्तद्विभिः पूजय ॥ मनुषः । मन ज्ञाने । बहुलमन्यत्रापीति मनेरुसिन्प्रत्ययः ॥
+> कविः क्रांतदर्शी सन्कविभिर्मेधाविभिर्ऋत्विग्भिः सह विप्रस्य मेधाविनो मनुषो मनोर्यज्ञे हविर्भिश्चरुपुरोडाशादिभिर्हे अग्ने यथा देवानयजः । एवमेव होतर्होमनिष्पादक सत्यतरातिशयेन सत्सु साधो अग्ने त्वमद्यास्मिन्यज्ञे मन्द्रया हर्षयित्र्या जुह्वा होमसाधनभूतया स्रुचा यजस्व । देवान्हविर्भिः पूजय ॥ मनुषः । मन ज्ञाने । बहुलमन्यत्रापीति मनेरुसिन्प्रत्ययः ॥
 
 *ekādaśinasyāgneyasya paśor yathā viprasyety eṣā paśupuroḍāśasya yājyā | sūtritaṃ ca pradānānām iti khaṇḍe | yathā viprasya manuṣo havirbhiḥ pra kāravo manana vacyamānāḥ [?] | ā. [3-2?] iti ||*
 
-*kaviḥ krāntadarśī san tvaṃ kavibhir [aviṃ?]medhāvibhir ṛtvigbhiḥ saha viprasya medhāvino manuṣo manor yajñe havirbhiś caru-puroḍāśādibhir he agne yathā devān ayajaḥ | evam eva hotar homaniṣpādaka satyatarātiśayena satsu sādho agne tvam adyāsmin yajñe mandrayā harṣayitryā juhvā homasādhanabhūtayā srucā yajasva | devāṃs tadvibhiḥ pūjaya || manuṣaḥ | mana jñāne | bahulam anyatrāpīti manner usin pratyayaḥ ||*
+*kaviḥ krāntadarśī san kavibhir medhāvibhir ṛtvigbhiḥ saha viprasya medhāvino manuṣo manor yajñe havirbhiś caru-puroḍāśādibhir he agne yathā devān ayajaḥ | evam eva hotar homaniṣpādaka satyatarātiśayena satsu sādho agne tvam adyāsmin yajñe mandrayā harṣayitryā juhvā homasādhanabhūtayā srucā yajasva | devān havirbhiḥ pūjaya || manuṣaḥ | mana jñāne | bahulam anyatrāpīti manner usin pratyayaḥ ||*
 
-*(Reading note: the opening liturgical sentence and its sūtra quotation are compressed ("manana vacyamānāḥ" is printed so); "kavibhir" and "tvamavibhir" are garbled in the print — the sense is *kavibhiḥ*, "with wise [priests]"; "tadvibhiḥ" at the end is printed so [?]; the Āśvalāyana numeral is doubtful [?].)*
+*(Reading note: the opening liturgical sentence and its sūtra quotation are compressed ("manana vacyamānāḥ" is printed so); "san kavibhir medhāvibhir" and "devān havirbhiḥ pūjaya" re-read from the print; the Āśvalāyana numeral is doubtful [?] (3-2 or 3-7; on the doubts page).)*
 
 *Meaning (liturgical note):* For the eleven-fold animal offering to Agni, this Ṛk, "*yathā viprasya*", is the *yājyā* for the animal's *puroḍāśa*; so the sūtra in the section *pradānānām*: "*yathā viprasya manuṣo havirbhiḥ pra kāravo*…" (Ā. [3-2?]).
 
@@ -10514,7 +10524,7 @@ evā hotaḥ satyatara tvam adyāgne mandrayā juhvā yajasva ||5||*
 
 ### Page 485 (PDF 503)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 24".)*
 
 **Pratipadārtha of Rik 76.5** *(Kannada)*
 
@@ -10547,7 +10557,7 @@ O Agni, knower of the three times! As, in the sacrifice of the wise Manu, togeth
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 76.5, noted briefly; not transcribed)*
 
-Words treated: *yathā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. [6-3-136]). *manuṣaḥ* (root *mana jñāne*; *usin* by *bahulam anyatrāpi*, Uṇ. [2-?]; *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ*; since the affix is *nit*, initial acute by *ñnityādir nityam*; genitive singular). *ayajaḥ* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; Vedic *laṅ*, second person singular; since *niṣātasyārya…* [as read: *nighātayugapad…*, Pā. [8-1-30]] — no nighāta by *yadvṛttānnityam* because *yathā* is connected; the *aḍ*-augment is udātta, so the word has the initial acute). *satyatara* (*satyam asyāstīti satyaḥ*; *ac* after *arśa-ādi* by *arśa āder ac*, Pā. [5-2-127]; in the sense of excess, *tarap* by *dvivacanavibhajyopapade tarabīyasunau*, Pā. [5-3-57]; vocative singular; by *āmantritasya ca*, Pā. [8-1-19], nighāta). *agne* (since at the head of a pāda, no *aṣṭamika* nighāta; by *āmantritasya ca*, Pā. [6-1-198], initial acute). *yajasva* (root *yaja…*; *loṭ*, second person singular, *thās* → *se* by *thāsaḥ se*, Pā. [3-4-80]; *śap*; *sa-vābhyāṃ vāmau*, Pā. [3-4-91]: *e* → *va*; nighāta because it follows an *atijanta*). Ends "॥ ५ ॥".
+Words treated: *yathā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. [6-3-136]). *manuṣaḥ* (root *mana jñāne*; *usin* by *bahulam anyatrāpi*, Uṇ. 2-278 [?]; *ṣatva* of the affix's *s* by *ādeśapratyayayoḥ*; since the affix is *nit*, initial acute by *ñnityādir nityam*; genitive singular). *ayajaḥ* (root *yaja devapūjāsaṅgatikaraṇadāneṣu*; Vedic *laṅ*, second person singular; since *niṣātasyārya…* [as read: *nighātayugapad…*, Pā. [8-1-30]] — no nighāta by *yadvṛttānnityam* because *yathā* is connected; the *aḍ*-augment is udātta, so the word has the initial acute). *satyatara* (*satyam asyāstīti satyaḥ*; *ac* after *arśa-ādi* by *arśa āder ac*, Pā. [5-2-127]; in the sense of excess, *tarap* by *dvivacanavibhajyopapade tarabīyasunau*, Pā. [5-3-57]; vocative singular; by *āmantritasya ca*, Pā. [8-1-19], nighāta). *agne* (since at the head of a pāda, no *aṣṭamika* nighāta; by *āmantritasya ca*, Pā. [6-1-198], initial acute). *yajasva* (root *yaja…*; *loṭ*, second person singular, *thās* → *se* by *thāsaḥ se*, Pā. [3-4-80]; *śap*; *sa-vābhyāṃ vāmau*, Pā. [3-4-91]: *e* → *va*; nighāta because it follows an *atijanta*). Ends "॥ ५ ॥".
 
 **Closing line of the sūkta** *(printed, Kannada)*:
 
@@ -10555,7 +10565,7 @@ Words treated: *yathā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. 
 
 *(eppattāraneya sūktavu samāptavu* — "The seventy-sixth sūkta is concluded.")*
 
-**— End of Sūkta 76.** *(Sūkta 76: five Ṛks, Agni; Gotama Rāhūgaṇa; Triṣṭup. The varga numerals of its pages — "24" at the head, "24/25" on later pages — are as read, [?], and have not been reconciled.)*
+**— End of Sūkta 76.** *(Sūkta 76: five Ṛks, Agni; Gotama Rāhūgaṇa; Triṣṭup. Varga 24 in the heading; running heads print Varga 24 on pp. 469–485 (p. 471 prints "21" [as printed; for 24]); p. 487, where Sūkta 77 begins, prints 25.)*
 
 ---
 
@@ -10563,7 +10573,7 @@ Words treated: *yathā* (lengthening in the saṃhitā by *nipātasya ca*, Pā. 
 
 ### Page 487 (PDF 505)
 
-*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga [?]".)*
+*(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 25".)*
 
 **Title of the sūkta** *(printed large, Kannada)*: ಎಪ್ಪತ್ತೇಳನೆಯ ಸೂಕ್ತವು — "The seventy-seventh sūkta".
 
