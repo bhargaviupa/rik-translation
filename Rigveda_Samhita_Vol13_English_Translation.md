@@ -1768,4 +1768,50 @@ Number of ṛks in the Sūkta: 11 · Ṛṣi: Agastya · Devatā: ṛk 1 Indra; 
 
 ---
 
-**Progress note:** printed p. 74 (PDF 94) done — Sūkta 167 Ṛk 1 (Saṃhitā–Special Topics) complete; grammar note of Ṛk 1 follows on p. 75. Next: printed p. 75 (PDF 95). Open flags: small-type numerals [?]; the chandas line of the 167 heading block (p. 73); review/doubts_v13.json.
+### Printed p. 75  (PDF 95)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* **Special Topics (continued).**
+
+***sahasriṇaḥ vājāḥ*** — *gamanavantaś catuṣpādādipaśavaḥ*: animals such as quadrupeds that move. The word *vāja* is read among the names of food (Ni. 2-7 [?]).
+
+> पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
+
+> *pāvakā naḥ sarasvatī vājebhirvājinīvatī | yajñaṃ vaṣṭu dhiyāvasuḥ ‖*
+
+(Ṛ. Saṃ. 1-3-10) — here, for the word *vājinīvatī* Sāyaṇa explains *annena haviṣā udakena vā tadvatī* ("possessed of food, the oblation, or of water"); since he has explained "possessed of food in the form of oblation, or of water", the word *vāja* indicates several meanings. But here the meaning "*vājāḥ gamanavantaḥ*" — creatures that move, that go about — is given. The prayer is made that cattle and other creatures with two feet and four feet, may, by Indra's grace, come to us without number.
+
+Yāska (Ni. 10-8 [?]) has explained the meaning of the word *indra* by derivations: [as read]
+
+> इरां दृणाति । इरां ददाति । इरां दधाति । इरां दारयति । इन्दवे द्रवतीति वा । इन्दौ रमत इति वा । इन्धे भूतानीति वा । इदं करणादित्याग्रायणः । इदं दर्शनादित्यौपमन्यवः । इन्देरैश्वर्यकर्मणः । इन्द्रो दृशत्रूणां [?] दारयिता वा द्रावयिता वा आदरयिता च यज्वनाम् ।
+
+> *irāṃ dṛṇāti | irāṃ dadāti | irāṃ dadhāti | irāṃ dārayati | indave dravatīti vā | indau ramata iti vā | indhe bhūtānīti vā | idaṃ karaṇādityāgrāyaṇaḥ | idaṃ darśanādityaupamanyavaḥ | inderaiśvaryakarmaṇaḥ | indro dṛśatrūṇāṃ [?] dārayitā vā drāvayitā vā ādarayitā ca yajvanām |*
+
+That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots spring up from seeds moistened by the rain-water"; "he who gives *irā* (food) — who, making food spring up by the rain, gives it to the world"; "he who holds *irā* — who bears food for the good of the world"; "he who impels (*dārayati*) *irā* — who impels the seeds to grow, in the form of sprouts"; or "he who runs to Indu (Soma)" — who comes to the sacrificial hall for drinking Soma; or "he who rejoices in Indu" — who is delighted in the drinking of Soma; or "he who kindles beings" — who favours beings with food and the like and makes them prosper. And, according to the Āgrāyaṇa school, "because he does *idam*" — Indra himself does all the acts in the world; according to the disciples of Aupamanyu, "because he sees *idam*" — Indra sees directly all the affairs of the world; "from the root *ind*, of the sense of lordship" — he who has excess of lordship; "Indra is one who splits (destroys) enemies, or makes them flee, or destroys the lordship of the enemies and himself becomes lord, and who shows respect for the sacrificers": in many ways has he explained.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *ūtayaḥ* (formed by *ūtiyūtijūtisātihetikīrtayaś ca* Pā. 3-3-97 [?] as a *kin*-ending word, which has the *udātta*, by *nipātana*; nominative plural). *harivaḥ* (*harī asya staḥ iti harivān*; *matup*; *chandasīraḥ* Pā. 8-2-15 turns the *m* of *matup* into *v*; in the vocative *ugidacāṃ sarvanāmasthāne 'dhātoḥ* Pā. 7-1-70 gives *num*; *saṃyogāntalopa* drops the final… *[continues on the next page]*
+
+### Printed p. 76  (PDF 96)
+
+*(Header: "Maṃ. 1 A. 23 Sū. 167".)* …*matuvasoḥ ru sambuddhau chandasi* Pā. 8-3-1 gives *ru* in the vocative; *āmantritasya ca* gives *nighāta*). *gūrtatamāḥ* (*atyantaṃ gūrtāḥ gūrtatamāḥ*; *atiśāyane tamabiṣṭhanau* Pā. 5-3-55 gives *tamap*; as it has *p*, the suffix is *anudātta*). *mādayadhyai* (root *mada tṛptiyoge*; *hetumati ca* Pā. 3-1-26 gives *ṇic*; after the *ṇijanta*, wishing for *tumun*, *tumarthe sesenasase…* Pā. 3-4-9 gives *adhyai*; since it ends in *ej* it is called an indeclinable by *kṛnmejantaḥ* Pā. 1-1-39; initial acute of the suffix). *sahasriṇaḥ* (*sahasram eṣām asti iti*; *ata iniṭhanau* Pā. 5-2-115 gives *ini* in the sense of possession; initial acute by the suffix's accent). *yantu* (root *iṇ gatau*; *loṭ* 3rd plural; *nighāta* after a non-*tiṅanta*). *vājāḥ* (belongs to the *vṛṣādi* class, so *vṛṣādīnāṃ ca* Pā. 6-1-203 gives the initial acute; nominative plural). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> आ नोऽवोभिर्मरुतो यान्त्वच्छा ज्येष्ठेभिर्वा बृहद्दिवैः सुमायाः ।
+> अध यदेषां नियुतः परमाः समुद्रस्य चिद्धनयन्त पारे ॥ २ ॥
+
+> *ā no 'vobhirmaruto yāntvacchā jyeṣṭhebhirvā bṛhaddivaiḥ sumāyāḥ |*
+> *adha yadeṣāṃ niyutaḥ paramāḥ samudrasya ciddhanayanta pāre ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । अवःऽभिः । मरुतः । यान्तु । अच्छ । ज्येष्ठेभिः । वा । बृहत्ऽदिवैः । सुऽमायाः ।
+> अध । यत् । एषाम् । निऽयुतः । परमाः । समुद्रस्य । चित् । धनयन्त । पारे ॥ २ ॥
+
+> *ā | naḥ | avaḥ 'bhiḥ | marutaḥ | yāntu | accha | jyeṣṭhebhiḥ | vā | bṛhat 'divaiḥ | su 'māyāḥ |*
+> *adha | yat | eṣām | ni 'yutaḥ | paramāḥ | samudrasya | cit | dhanayanta | pāre ‖ 2 ‖*
+
+---
+
+**Progress note:** printed p. 76 (PDF 96) done — Sūkta 167 Ṛk 1 complete; Ṛk 2 Saṃhitā and Pada written. Next: printed p. 77 (PDF 97): bhāṣya of Ṛk 2. Open flags: small-type numerals [?]; review/doubts_v13.json.
