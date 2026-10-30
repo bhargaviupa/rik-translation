@@ -4821,11 +4821,11 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 69.1 *(printed "1 || 2 ||")*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **शुक्रः शिशुक्वाँ उषो न जारः पप्रा समीची दिवो न ज्योतिः ।**
-> **परि प्रजातः क्रत्वा बभूथ भुवो देवानां पिता पुत्रः सन् ॥ १ ॥ २ ॥**
-> *śukraḥ śiśukvāṃ uṣo na jāraḥ paprā samīcī divo na jyotiḥ |*
+> **शु॒क्रः शु॑शु॒क्वाँ उ॒षो न जा॒रः प॒प्रा स॑मी॒ची दि॒वो न ज्योतिः॑ ।**
+> **परि॒ प्रजा॑तः॒ क्रत्वा॑ बभूथ॒ भुवो॑ दे॒वानां॑ पि॒ता पु॒त्रः सन् ॥ १ ॥ २ ॥**
+> *śukraḥ śuśukvāṃ uṣo na jāraḥ paprā samīcī divo na jyotiḥ |*
 > *pari prajātaḥ kratvā babhūtha bhuvo devānāṃ pitā putraḥ san || 1 || 2 ||*
 
 *(The print's first word after* śukraḥ *is "शुशुक्वान्" in the Pada and bhāṣya; the Saṃhitā spells it "शुशुक्वाँ"; I read the Saṃhitā as* śuśukvāṃ*, correcting my first transcription.)*
@@ -4878,7 +4878,7 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 *(Running head: "Ṛgvedasaṃhitā"; left: "Aṣṭaka 1, Adhyāya 5, Varga 13 [as read]".)*
 
-**Special Topics (continued and concluded; Kannada).** "…[the quotation, cut off at the foot of p. 242, is given in the print as '*punaḥ punaḥ … jarayanty āyuḥ*', a Ṛk (Ṛk. Saṃ. 1-92-10, as read, ?)]: as that Ṛk says, the dawn also reduces the lives of beings through each one's experience; so Agni and the sun both reduce them: thus the sense *uṣas iva* [and] *agniḥ, ādityaḥ jāraḥ* ('Agni and the sun are the ones who bring old age') appears here. By this another figure of speech is said, in poetic fashion, in this Vedic commentary.
+**Special Topics (continued and concluded; Kannada).** "…[the quotation, cut off at the foot of p. 242, is given in the print as '*punaḥ punaḥ … jarayanty āyuḥ*', a Ṛk (Ṛk. Saṃ. 1-92-10, as printed)]: as that Ṛk says, the dawn also reduces the lives of beings through each one's experience; so Agni and the sun both reduce them: thus the sense *uṣas iva* [and] *agniḥ, ādityaḥ jāraḥ* ('Agni and the sun are the ones who bring old age') appears here. By this another figure of speech is said, in poetic fashion, in this Vedic commentary.
 
 - **शुशुक्वान्** — *sūrya iva śocayitā sarvasya prakāśayitā bhavati* — "from the root *śuca dīptau* the word means abundant light, and 'one endowed with that light'; like the sun, Agni makes all things luminous with his own light. The use of the root *śuc* is the cause of this meaning."
 - **दिवो न ज्योतिः पप्रा** — *dyotamānasya sūryasya jyotir iva dyāvāpṛthivyoḥ svatejasā pūrayitā* — "as the sun fills the earth, atmosphere and heaven, which are joined together, with his rays, Agni too pervades and fills them with his own light."
@@ -4900,10 +4900,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 69.2 *(printed "3 || 4 ||")*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **वेधा अदृप्तो अग्निर्विजानन्नूधर्न गोनां स्वाद्मा पितूनाम् ।**
-> **जने न शेव आहूर्यः सन्मध्ये निषत्तो रण्वो दुरोणे ॥ ३ ॥ ४ ॥**
+> **वे॒धा अदृ॑प्तो अ॒ग्निर्वि॑जा॒नन्नूध॒र्न गोना॒म्स्वा॑द्मा पितूनाम् ।**
+> **जने॒ न शे॑व आ॒हूर्यः॒ सन्मध्ये॒ निषत्तो र॒ण्वो दु॑रोणे ॥ ३ ॥ ४ ॥**
 > *vedhā adṛpto agnir vijānann ūdhar na gonāṃ svādmā pitūnām |*
 > *jane na śeva āhūryaḥ san madhye niṣatto raṇvo duroṇe || 3 || 4 ||*
 
@@ -4950,10 +4950,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 **Special Topics (continued; Kannada).** The print gives three Vedic examples of *vedhāḥ*, in Sanskrit:
 
-> **अभ्राजि शर्धो मरुतो यदर्णसं मोषथा वृक्षं कपनेव वेधसः ।** *(ऋ. सं. ५-५४-६ [?])*
+> **अभ्राजि शर्धो मरुतो यदर्णसं मोषथा वृक्षं कपनेव वेधसः ।** *(ऋ. सं. ५-५४-६)*
 > *abhrāji śardho maruto yad arṇasaṃ moṣathā vṛkṣaṃ kapaneva vedhasaḥ* — "the host of the Maruts, wise ones, shone when you stripped the tree like monkeys [?]" *(my tentative sense)*
-> **सोमो न वेधा ऋतप्रजातः पशुर्न शिश्वा विभुर्दूरेभाः ।** *(ऋ. सं. १-६८-१० [?])* — *somo na vedhā ṛtaprajātaḥ paśur na śiśvā vibhur dūrebhāḥ* — "Like Soma the wise, born of the ṛta … " (cf. Rik 65.5 above)
-> **दिवश्चित्पूर्वो न्यसादि होता पृच्छ्यो विश्पतिर्विक्षु वेधाः ।** *(ऋ. सं. १-६०-२ [?])* — *divaś cit pūrvo nyasādi hotā pṛcchyo viśpatir vikṣu vedhāḥ* — "Hotṛ, older than heaven, has been seated, the one to be asked, lord of the clans, the wise among men." *(Glosses tentative; the Ṛgveda numerals read doubtfully [?].)*
+> **सोमो न वेधा ऋतप्रजातः पशुर्न शिश्वा विभुर्दूरेभाः ।** *(ऋ. सं. १-६५-१० [?] — middle digit read as 5, file had 8)* — *somo na vedhā ṛtaprajātaḥ paśur na śiśvā vibhur dūrebhāḥ* — "Like Soma the wise, born of the ṛta … " (cf. Rik 65.5 above)
+> **दिवश्चित्पूर्वो न्यसादि होता पृच्छ्यो विश्पतिर्विक्षु वेधाः ।** *(ऋ. सं. १-६०-२)* — *divaś cit pūrvo nyasādi hotā pṛcchyo viśpatir vikṣu vedhāḥ* — "Hotṛ, older than heaven, has been seated, the one to be asked, lord of the clans, the wise among men." *(Glosses tentative; the Ṛgveda numerals read doubtfully [?].)*
 
 "Agni is wise: that is the meaning. And Brahmā, denoted by the word *vidhātṛ*, is the cause of all: he grants to those who perform sacrifices and to all others their desired ends and creates all anew: this is the idea.
 - **गवां ऊधर्न पितूनां स्वाद्मा** — *gosaṃbandhipayasa āśrayabhūtaṃ sthānam iva annānāṃ svādayitā rasayitā* — "the word *na* is a word of comparison, used in the sense of *iva*. As the udder of cows gives tasty milk and makes food savoury, so Agni, cooking food well, makes it tasty and savoury. The word *pitu* is read among the twenty-eight names of food (Ni. [2-7]); the word *pitu*, whether from the root *opyāyī* or from *pā*, is used in the sense of food, as in '*pitum nu stoṣam*' (Ṛk. Saṃ. 1-187-1) and '*pramandine pitumad arcatā vacaḥ*' (Ṛk. Saṃ. 1-101-1)."
@@ -4981,10 +4981,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 69.3 *(printed "5 || 6 ||")*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **पुत्रो न जातो रण्वो दुरोणे वाजी न प्रीतो विशो वि तारीत् ।**
-> **विशो यदह्वे नृभिः सनीळा अग्निर्देवत्वा विश्वान्यश्याः ॥ ५ ॥ ६ ॥**
+> **पु॒त्रो न जा॒तो र॒ण्वो दु॑रो॒णे वा॒जी न प्री॒तो विशो वि ता॑रीत् ।**
+> **विशो॒ यदह्वे॒ नृ॑भिः॒ सनीळा अ॒ग्निर्दे॑व॒त्वा विश्वा॑न्यश्याः ॥ ५ ॥ ६ ॥**
 > *putro na jāto raṇvo duroṇe vājī na prīto viśo vi tārīt |*
 > *viśo yad ahve nṛbhiḥ sanīḷā agnir devatvā viśvāny aśyāḥ || 5 || 6 ||*
 
@@ -5043,10 +5043,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 69.4 *(printed "7 || 8 ||")*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **नकिष्ट एता व्रता मिनन्ति नृभ्यो यदेभ्यः श्रुष्टिं चकर्थ ।**
-> **तत्तु ते दंसो यदहन्त्समानैर्नृभिर्यद्युक्तो विवे रपांसि ॥ ७ ॥ ८ ॥**
+> **न॑किष्ट ए॒ता व्र॒ता मि॑नन्ति॒ नृ॒भ्यो॒ यदे॒भ्यः श्रुष्टिं चकर्थ ।**
+> **तत्तु ते॒ दंसो यदहन्त्समा॒नैर्नृभिर्यद्युक्तो विवे रपां॑सि ॥ ७ ॥ ८ ॥**
 > *nakiṣ ṭa etā vratā minanti nṛbhyo yad ebhyaḥ śruṣṭiṃ cakartha |*
 > *tat tu te daṃso yad ahan samānair nṛbhir yad yukto vive rapāṃsi || 7 || 8 ||*
 
@@ -5107,10 +5107,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 69.5 *(printed "9 || 10 ||" — the last Rik of Sūkta 69)*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **उषो न जारो विभावोस्रः संज्ञातरूपश्चिकेतदस्मै ।**
-> **त्मना वहन्तो दुरो व्यृण्वन्नवन्त विश्वे स्वर्दृशीके ॥ ९ ॥ १० ॥**
+> **उ॒षो न जा॒रो वि॒भावो॒स्रः सं॑ज्ञातरू॒पश्चि॑केतदस्मै ।**
+> **त्मना॒ वहन्तो॒ दु॒रो॒ व्य॑ृण्वन्नवन्त॒ विश्वे॒ स्व॑र्दृशीके ॥ ९ ॥ १० ॥**
 > *uṣo na jāro vibhāvosraḥ saṃjñātarūpaś ciketad asmai |*
 > *tmanā vahanto duro vy ṛṇvan navanta viśve svar dṛśīke || 9 || 10 ||*
 
@@ -5193,10 +5193,10 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 #### Rik 70.1 *(printed "1 || 2 ||")*
 
-**॥ संहितापाठः ॥ — Saṃhitā text** (accent marks printed; not reproduced)
+**॥ संहितापाठः ॥ — Saṃhitā text** (accents as printed; marks at glyph junctions read as best possible — [accent ?], see doubts page)
 
-> **वनेम पूर्वीरर्यो मनीषा अग्निः सुशोको विश्वान्यश्याः ।**
-> **आ दैव्यानि व्रता चिकित्वानामानुषस्य जनस्य जन्म ॥ १ ॥ २ ॥**
+> **व॒नेम पू॒र्वी॑रर्यो॒ म॑नी॒षा अ॒ग्निः सु॒शोको॒ विश्वा॑न्यश्याः॑ ।**
+> **आ दैव्या॑नि व्र॒ता चि॑कि॒त्वानामा॑नुषस्य जन॒स्य ज॑न्म ॥ १ ॥ २ ॥**
 > *vanema pūrvīr aryo manīṣā agniḥ suśoko viśvāny aśyāḥ |*
 > *ā daivyāni vratā cikitvān ā mānuṣasya janasya janma || 1 || 2 ||*
 
