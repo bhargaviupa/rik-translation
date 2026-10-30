@@ -10,6 +10,8 @@ E=open(sys.argv[1],encoding='utf8').read().splitlines(); J=json.load(open(sys.ar
 BASE=sys.argv[sys.argv.index('--base')+1] if '--base' in sys.argv else None   # commit whose text the row indices refer to (use when earlier edits changed the group count)
 import difflib,subprocess
 rows={r['id']:r for r in J['rows']}
+for u in J.get('unmatched',[]):
+    if 'j' in u: rows.setdefault(f"{u['printed']}_{u['j']}",dict(file=u['file']))   # references that had no crop (page bands)
 SEG=r'(?:\d{1,4}|\[\?\]|\?)'
 GRP=re.compile(r'(?<![\w.\-,])((?:\d{1,3}(?:,\d{3})+|\d{1,4}|\?)(?:\s*[-.–]\s*'+SEG+r'){1,4})(\s*\[\?\])?(?![\w])')
 T=open(EN,encoding='utf8').read()
