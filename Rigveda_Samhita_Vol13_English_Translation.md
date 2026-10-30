@@ -17947,4 +17947,44 @@ In the ṛk at hand, the word *vṛka* generally means the wild dog (*āraṇya�
 
 ---
 
-**Progress note:** printed p. 640 (PDF 660) done — Sūkta 183 Ṛk 4 Special Topics (vṛka: wolf / moon / Āditya / thief; continues), grammar begun (continues p. 641). Next: printed p. 641 (PDF 661). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 641  (PDF 661)
+
+*(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 641.)*
+
+*(Grammar page of Ṛk 4, continued, noted briefly):* … "*vṛkīḥ*" — in the feminine, by *ṅīṣ* [as read]; *jas* following, "*supāṃ sulug*" gives lengthening by *pūrvasavarṇa*. *dadharṣīt* — root *ñidhṛṣā prāgalbhye*; "*māṅi luṅ*" (Pā. Sū. 3-3-175 [?]) — because of the connection with *māṅ*, *luṅ*; third person singular form; *tiṅ*, *nighāta* accent; here *vṛkīḥ* is the agent, and the singular form comes from *vyatyaya*. *vark tam* — root *vṛjī varjane*; *laṅ*, second person dual, *tas-thas-thas-tha*… (Pā. Sū. 3-4-101 [?]) gives *tam*-substitution; "*bahulaṃ chandasi*" gives *luk* of the *vikaraṇa*; by *vyatyaya* guṇa of the penultimate short vowel; "*cojoḥ kuḥ*" (Pā. Sū. 8-2-30 [?]) gives *ku* for *j* — and when *khari ca* (Pā. Sū. 8-4-55 [?]) comes, *carva* (*k*); *tiṅ*, *nighāta* accent. *dhaktam* — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ* second person dual form; in Vedic usage a change of letters has occurred; *tiṅ*, *nighāta* accent. *nihitaḥ* — root as before; passive suffix *kta*; "*dadhātir hiḥ*" (Pā. Sū. 7-4-42 [?]) gives *hi* as substitute for the root; "*gatiranantaraḥ*" (Pā. Sū. 6-2-49 [?]) gives the *gati* (*ni*) acute. *nidhayaḥ* — *ni* as upasarga and upapada: "*upasarge ghoḥ kiḥ*" (Pā. Sū. 3-3-92 [?]) gives suffix *ki* to the root *dhāñ*; "*ato lopa iṭi ca*" (Pā. Sū. 6-4-64 [?]) elides the root's *ā*; the *kṛdutta* last member keeps its own accent; first (case) plural form.  ‖ 4 ‖
+
+### Sūkta 183, Ṛk 5  (printed p. 641; PDF 661)
+
+**Saṃhitā-pāṭha**
+
+> युवां गोतमः पुरुमीळ्हो अत्रिर्दस्रा हवतेऽवसे हविष्मान् ।
+> दिशं न दिष्टामृजूयेव यन्ता मे हवं नासत्योप यातम् ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> युवां । गोतमः । पुरुऽमीळ्हः । अत्रिः । दस्रा । हवते । अवसे । हविष्मान् ।
+> दिशं । न । दिष्टां । ऋजुऽयेव । यन्ता । आ । मे । हवं । नासत्या । उप । यातं ॥ ५ ॥
+
+*(Printed note: "XIII 41" — the printed page carries this signature mark.)*
+
+### Printed p. 642  (PDF 662)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 183"; page 642.)*
+
+**Sāyaṇa-bhāṣya**
+
+> हे दस्रा दस्रावश्विनौ युवां गोतमश्च पुरुमीळ्हश्चात्रिश्च महर्षयश्च एतेष्वेकैकः हविष्मान् सन् अवसे रक्षणाय युष्मत्पर्णाय वा हवते । आह्वयति । एवमहमप्याह्वयामि । फलसाधनाह्वाने दृष्टान्तः । यन्तोऽपगन्तोऽपगन्तुकामः ऋजूयेव । द्वितीयायो आकारः ॥ ऋजुगामिनं मार्गज्ञं दिष्टां दिशं न गन्तव्यामभिमतां दिशं प्रति यथा तथा वामुपासि । यथाध्वगामिनो स्वगन्तव्यस्य शीघ्रगमनाय मार्गज्ञं ऋजुगामिनमाह्वयति तद्वत् । यद्वा । ऋजूयेव । इवशब्द एवार्थे । गन्ता ऋजुनैव मार्गेणेष्यां दिशमिव तथा युष्मत्प्रीणनेन मार्गेण स्याभिमतं फलं प्राप्नोतीति । हे नासत्यावश्विनौ मे मम हवनमाह्वानमालक्ष्योप यातं । उपगच्छतं ॥
+
+*(Sanskrit as read; the middle of this passage is garbled in the print and doubtful in many words [?]. Gist: Gotama, Purumīḷha and Atri, each rich in oblations, invoke you for protection; as a traveller calls on a straight-going guide for his chosen quarter, so I call you; come to my call.)*
+
+**Pratipadārtha** — (*he*) **dasrā** — O Aśvin deities, beautiful to behold; **yuvāṃ** — you two; **gotamaḥ** — Gotama; **purumīḷhaḥ** — Purumīḷha; and **atriḥ** (ca) — Atri: these three great seers, each one; **haviṣmān** — endowed with oblations etc.; **avase** — for his protection (for your satisfaction); **havate** — invoked; (**tathā** — likewise); **yantā** — the traveller (one going on the road); **ṛjūyā** — [following] the straight (the known) path; **diṣṭāṃ diśaṃ na** — as one reaches the desired direction (by following the right path); **ṛjūyā iva** — by the straight way alone; **diśāṃ diśaṃ na** — [or] as one reaches the desired quarter; (I too, worshipping you, obtain what is desired); **he nāsatyā** — O Aśvin deities; **me** — my; **havaṃ** — invocation (hear); **upa yātaṃ** — come (to my sacrifice).
+
+**Bhāvārtha** — O Aśvin deities, as of old the three great seers, Gotama, Purumīḷha and Atri, each endowed with oblations and the like, invoked you for your satisfaction; and, as a traveller, following the right road, reaches the intended place, being told the way by those who know it; so I too praise you alone, as those great seers did: accept my invocation and come to our sacrificial hall.
+
+**English Translation.** *(printed)*
+
+"Gotama, Purumilha, Atri (each) offering oblations, invokes you for his protection ; like unto a way-farer, who (makes for his intended direction) by a straight (path), do you Dasras, come (direct) to my invocation."
+
+---
+
+**Progress note:** printed p. 642 (PDF 662) done — Sūkta 183 Ṛk 4 ends (grammar); Ṛk 5 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. Next: printed p. 643 (PDF 663): Ṛk 5 Special Topics. Open flags: refs [?]; review/doubts_v13.json.
