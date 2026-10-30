@@ -1,0 +1,2061 @@
+{
+"offset_body": 20,
+"offset_roman": 6,
+"checked": "every body page number read from header crops (numsheets.py); k=20 constant PDF 22-677; no gaps/duplicates/out-of-order; no upside-down pages seen in header strips or in views of PDF 1-26",
+"pages": {
+"1": {
+"printed": null,
+"note": "cover/title/ornament/plate/blank (front matter, unnumbered)"
+},
+"2": {
+"printed": null,
+"note": "title page (Part 13, 2nd Ashtaka, 4th Adhyaya, Mandala 1 Suktas 166-184 as read)"
+},
+"3": {
+"printed": null,
+"note": "cover/title/ornament/plate/blank (front matter, unnumbered)"
+},
+"4": {
+"printed": null,
+"note": "cover/title/ornament/plate/blank (front matter, unnumbered)"
+},
+"5": {
+"printed": null,
+"note": "cover/title/ornament/plate/blank (front matter, unnumbered)"
+},
+"6": {
+"printed": null,
+"note": "portrait plate"
+},
+"7": {
+"printed": "i",
+"note": "Pithike (i-vi)"
+},
+"8": {
+"printed": "ii",
+"note": "Pithike (i-vi)"
+},
+"9": {
+"printed": "iii",
+"note": "Pithike (i-vi)"
+},
+"10": {
+"printed": "iv",
+"note": "Pithike (i-vi)"
+},
+"11": {
+"printed": "v",
+"note": "Pithike (i-vi)"
+},
+"12": {
+"printed": "vi",
+"note": "Pithike (i-vi)"
+},
+"13": {
+"printed": "vii",
+"note": "contents title page: roman number not printed, counted as vii"
+},
+"14": {
+"printed": "viii",
+"note": "contents (vii-xiii)"
+},
+"15": {
+"printed": "ix",
+"note": "contents (vii-xiii)"
+},
+"16": {
+"printed": "x",
+"note": "contents (vii-xiii)"
+},
+"17": {
+"printed": "xi",
+"note": "contents (vii-xiii)"
+},
+"18": {
+"printed": "xii",
+"note": "contents (vii-xiii)"
+},
+"19": {
+"printed": "xiii",
+"note": "contents (vii-xiii)"
+},
+"20": {
+"printed": null,
+"note": "list of abbreviations (unnumbered)"
+},
+"21": {
+"printed": 1,
+"note": "main title page (counted as page 1)"
+},
+"22": {
+"printed": 2
+},
+"23": {
+"printed": 3
+},
+"24": {
+"printed": 4
+},
+"25": {
+"printed": 5
+},
+"26": {
+"printed": 6
+},
+"27": {
+"printed": 7
+},
+"28": {
+"printed": 8
+},
+"29": {
+"printed": 9
+},
+"30": {
+"printed": 10
+},
+"31": {
+"printed": 11
+},
+"32": {
+"printed": 12
+},
+"33": {
+"printed": 13
+},
+"34": {
+"printed": 14
+},
+"35": {
+"printed": 15
+},
+"36": {
+"printed": 16
+},
+"37": {
+"printed": 17
+},
+"38": {
+"printed": 18
+},
+"39": {
+"printed": 19
+},
+"40": {
+"printed": 20
+},
+"41": {
+"printed": 21
+},
+"42": {
+"printed": 22
+},
+"43": {
+"printed": 23
+},
+"44": {
+"printed": 24
+},
+"45": {
+"printed": 25
+},
+"46": {
+"printed": 26
+},
+"47": {
+"printed": 27
+},
+"48": {
+"printed": 28
+},
+"49": {
+"printed": 29
+},
+"50": {
+"printed": 30
+},
+"51": {
+"printed": 31
+},
+"52": {
+"printed": 32
+},
+"53": {
+"printed": 33
+},
+"54": {
+"printed": 34
+},
+"55": {
+"printed": 35
+},
+"56": {
+"printed": 36
+},
+"57": {
+"printed": 37
+},
+"58": {
+"printed": 38
+},
+"59": {
+"printed": 39
+},
+"60": {
+"printed": 40
+},
+"61": {
+"printed": 41
+},
+"62": {
+"printed": 42
+},
+"63": {
+"printed": 43
+},
+"64": {
+"printed": 44
+},
+"65": {
+"printed": 45
+},
+"66": {
+"printed": 46
+},
+"67": {
+"printed": 47
+},
+"68": {
+"printed": 48
+},
+"69": {
+"printed": 49
+},
+"70": {
+"printed": 50
+},
+"71": {
+"printed": 51
+},
+"72": {
+"printed": 52
+},
+"73": {
+"printed": 53
+},
+"74": {
+"printed": 54
+},
+"75": {
+"printed": 55
+},
+"76": {
+"printed": 56
+},
+"77": {
+"printed": 57
+},
+"78": {
+"printed": 58
+},
+"79": {
+"printed": 59
+},
+"80": {
+"printed": 60
+},
+"81": {
+"printed": 61
+},
+"82": {
+"printed": 62
+},
+"83": {
+"printed": 63
+},
+"84": {
+"printed": 64
+},
+"85": {
+"printed": 65
+},
+"86": {
+"printed": 66
+},
+"87": {
+"printed": 67
+},
+"88": {
+"printed": 68
+},
+"89": {
+"printed": 69
+},
+"90": {
+"printed": 70
+},
+"91": {
+"printed": 71
+},
+"92": {
+"printed": 72
+},
+"93": {
+"printed": 73
+},
+"94": {
+"printed": 74
+},
+"95": {
+"printed": 75
+},
+"96": {
+"printed": 76
+},
+"97": {
+"printed": 77
+},
+"98": {
+"printed": 78
+},
+"99": {
+"printed": 79
+},
+"100": {
+"printed": 80
+},
+"101": {
+"printed": 81
+},
+"102": {
+"printed": 82
+},
+"103": {
+"printed": 83
+},
+"104": {
+"printed": 84
+},
+"105": {
+"printed": 85
+},
+"106": {
+"printed": 86
+},
+"107": {
+"printed": 87
+},
+"108": {
+"printed": 88
+},
+"109": {
+"printed": 89
+},
+"110": {
+"printed": 90
+},
+"111": {
+"printed": 91
+},
+"112": {
+"printed": 92
+},
+"113": {
+"printed": 93
+},
+"114": {
+"printed": 94
+},
+"115": {
+"printed": 95
+},
+"116": {
+"printed": 96
+},
+"117": {
+"printed": 97
+},
+"118": {
+"printed": 98
+},
+"119": {
+"printed": 99
+},
+"120": {
+"printed": 100
+},
+"121": {
+"printed": 101
+},
+"122": {
+"printed": 102
+},
+"123": {
+"printed": 103
+},
+"124": {
+"printed": 104
+},
+"125": {
+"printed": 105
+},
+"126": {
+"printed": 106
+},
+"127": {
+"printed": 107
+},
+"128": {
+"printed": 108
+},
+"129": {
+"printed": 109
+},
+"130": {
+"printed": 110
+},
+"131": {
+"printed": 111
+},
+"132": {
+"printed": 112
+},
+"133": {
+"printed": 113
+},
+"134": {
+"printed": 114
+},
+"135": {
+"printed": 115
+},
+"136": {
+"printed": 116
+},
+"137": {
+"printed": 117
+},
+"138": {
+"printed": 118
+},
+"139": {
+"printed": 119
+},
+"140": {
+"printed": 120
+},
+"141": {
+"printed": 121
+},
+"142": {
+"printed": 122
+},
+"143": {
+"printed": 123
+},
+"144": {
+"printed": 124
+},
+"145": {
+"printed": 125
+},
+"146": {
+"printed": 126
+},
+"147": {
+"printed": 127
+},
+"148": {
+"printed": 128
+},
+"149": {
+"printed": 129
+},
+"150": {
+"printed": 130
+},
+"151": {
+"printed": 131
+},
+"152": {
+"printed": 132
+},
+"153": {
+"printed": 133
+},
+"154": {
+"printed": 134
+},
+"155": {
+"printed": 135
+},
+"156": {
+"printed": 136
+},
+"157": {
+"printed": 137
+},
+"158": {
+"printed": 138
+},
+"159": {
+"printed": 139
+},
+"160": {
+"printed": 140
+},
+"161": {
+"printed": 141
+},
+"162": {
+"printed": 142
+},
+"163": {
+"printed": 143
+},
+"164": {
+"printed": 144
+},
+"165": {
+"printed": 145
+},
+"166": {
+"printed": 146
+},
+"167": {
+"printed": 147
+},
+"168": {
+"printed": 148
+},
+"169": {
+"printed": 149
+},
+"170": {
+"printed": 150
+},
+"171": {
+"printed": 151
+},
+"172": {
+"printed": 152
+},
+"173": {
+"printed": 153
+},
+"174": {
+"printed": 154
+},
+"175": {
+"printed": 155
+},
+"176": {
+"printed": 156
+},
+"177": {
+"printed": 157
+},
+"178": {
+"printed": 158
+},
+"179": {
+"printed": 159
+},
+"180": {
+"printed": 160
+},
+"181": {
+"printed": 161
+},
+"182": {
+"printed": 162
+},
+"183": {
+"printed": 163
+},
+"184": {
+"printed": 164
+},
+"185": {
+"printed": 165
+},
+"186": {
+"printed": 166
+},
+"187": {
+"printed": 167
+},
+"188": {
+"printed": 168
+},
+"189": {
+"printed": 169
+},
+"190": {
+"printed": 170
+},
+"191": {
+"printed": 171
+},
+"192": {
+"printed": 172
+},
+"193": {
+"printed": 173
+},
+"194": {
+"printed": 174
+},
+"195": {
+"printed": 175
+},
+"196": {
+"printed": 176
+},
+"197": {
+"printed": 177
+},
+"198": {
+"printed": 178
+},
+"199": {
+"printed": 179
+},
+"200": {
+"printed": 180
+},
+"201": {
+"printed": 181
+},
+"202": {
+"printed": 182
+},
+"203": {
+"printed": 183
+},
+"204": {
+"printed": 184
+},
+"205": {
+"printed": 185
+},
+"206": {
+"printed": 186
+},
+"207": {
+"printed": 187
+},
+"208": {
+"printed": 188
+},
+"209": {
+"printed": 189
+},
+"210": {
+"printed": 190
+},
+"211": {
+"printed": 191
+},
+"212": {
+"printed": 192
+},
+"213": {
+"printed": 193
+},
+"214": {
+"printed": 194
+},
+"215": {
+"printed": 195
+},
+"216": {
+"printed": 196
+},
+"217": {
+"printed": 197
+},
+"218": {
+"printed": 198
+},
+"219": {
+"printed": 199
+},
+"220": {
+"printed": 200
+},
+"221": {
+"printed": 201
+},
+"222": {
+"printed": 202
+},
+"223": {
+"printed": 203
+},
+"224": {
+"printed": 204
+},
+"225": {
+"printed": 205
+},
+"226": {
+"printed": 206
+},
+"227": {
+"printed": 207
+},
+"228": {
+"printed": 208
+},
+"229": {
+"printed": 209
+},
+"230": {
+"printed": 210
+},
+"231": {
+"printed": 211
+},
+"232": {
+"printed": 212
+},
+"233": {
+"printed": 213
+},
+"234": {
+"printed": 214
+},
+"235": {
+"printed": 215
+},
+"236": {
+"printed": 216
+},
+"237": {
+"printed": 217
+},
+"238": {
+"printed": 218
+},
+"239": {
+"printed": 219
+},
+"240": {
+"printed": 220
+},
+"241": {
+"printed": 221
+},
+"242": {
+"printed": 222
+},
+"243": {
+"printed": 223
+},
+"244": {
+"printed": 224
+},
+"245": {
+"printed": 225
+},
+"246": {
+"printed": 226
+},
+"247": {
+"printed": 227
+},
+"248": {
+"printed": 228
+},
+"249": {
+"printed": 229
+},
+"250": {
+"printed": 230
+},
+"251": {
+"printed": 231
+},
+"252": {
+"printed": 232
+},
+"253": {
+"printed": 233
+},
+"254": {
+"printed": 234
+},
+"255": {
+"printed": 235
+},
+"256": {
+"printed": 236
+},
+"257": {
+"printed": 237
+},
+"258": {
+"printed": 238
+},
+"259": {
+"printed": 239
+},
+"260": {
+"printed": 240
+},
+"261": {
+"printed": 241
+},
+"262": {
+"printed": 242
+},
+"263": {
+"printed": 243
+},
+"264": {
+"printed": 244
+},
+"265": {
+"printed": 245
+},
+"266": {
+"printed": 246
+},
+"267": {
+"printed": 247
+},
+"268": {
+"printed": 248
+},
+"269": {
+"printed": 249
+},
+"270": {
+"printed": 250
+},
+"271": {
+"printed": 251
+},
+"272": {
+"printed": 252
+},
+"273": {
+"printed": 253
+},
+"274": {
+"printed": 254
+},
+"275": {
+"printed": 255
+},
+"276": {
+"printed": 256
+},
+"277": {
+"printed": 257
+},
+"278": {
+"printed": 258
+},
+"279": {
+"printed": 259
+},
+"280": {
+"printed": 260
+},
+"281": {
+"printed": 261
+},
+"282": {
+"printed": 262
+},
+"283": {
+"printed": 263
+},
+"284": {
+"printed": 264
+},
+"285": {
+"printed": 265
+},
+"286": {
+"printed": 266
+},
+"287": {
+"printed": 267
+},
+"288": {
+"printed": 268
+},
+"289": {
+"printed": 269
+},
+"290": {
+"printed": 270
+},
+"291": {
+"printed": 271
+},
+"292": {
+"printed": 272
+},
+"293": {
+"printed": 273
+},
+"294": {
+"printed": 274
+},
+"295": {
+"printed": 275
+},
+"296": {
+"printed": 276
+},
+"297": {
+"printed": 277
+},
+"298": {
+"printed": 278
+},
+"299": {
+"printed": 279
+},
+"300": {
+"printed": 280
+},
+"301": {
+"printed": 281
+},
+"302": {
+"printed": 282
+},
+"303": {
+"printed": 283
+},
+"304": {
+"printed": 284
+},
+"305": {
+"printed": 285
+},
+"306": {
+"printed": 286
+},
+"307": {
+"printed": 287
+},
+"308": {
+"printed": 288
+},
+"309": {
+"printed": 289
+},
+"310": {
+"printed": 290
+},
+"311": {
+"printed": 291
+},
+"312": {
+"printed": 292
+},
+"313": {
+"printed": 293
+},
+"314": {
+"printed": 294
+},
+"315": {
+"printed": 295
+},
+"316": {
+"printed": 296
+},
+"317": {
+"printed": 297
+},
+"318": {
+"printed": 298
+},
+"319": {
+"printed": 299
+},
+"320": {
+"printed": 300
+},
+"321": {
+"printed": 301
+},
+"322": {
+"printed": 302
+},
+"323": {
+"printed": 303
+},
+"324": {
+"printed": 304
+},
+"325": {
+"printed": 305
+},
+"326": {
+"printed": 306
+},
+"327": {
+"printed": 307
+},
+"328": {
+"printed": 308
+},
+"329": {
+"printed": 309
+},
+"330": {
+"printed": 310
+},
+"331": {
+"printed": 311
+},
+"332": {
+"printed": 312
+},
+"333": {
+"printed": 313
+},
+"334": {
+"printed": 314
+},
+"335": {
+"printed": 315
+},
+"336": {
+"printed": 316
+},
+"337": {
+"printed": 317
+},
+"338": {
+"printed": 318
+},
+"339": {
+"printed": 319
+},
+"340": {
+"printed": 320
+},
+"341": {
+"printed": 321
+},
+"342": {
+"printed": 322
+},
+"343": {
+"printed": 323
+},
+"344": {
+"printed": 324
+},
+"345": {
+"printed": 325
+},
+"346": {
+"printed": 326
+},
+"347": {
+"printed": 327
+},
+"348": {
+"printed": 328
+},
+"349": {
+"printed": 329
+},
+"350": {
+"printed": 330,
+"note": "library stamp near number; number 330 legible"
+},
+"351": {
+"printed": 331
+},
+"352": {
+"printed": 332
+},
+"353": {
+"printed": 333
+},
+"354": {
+"printed": 334
+},
+"355": {
+"printed": 335
+},
+"356": {
+"printed": 336
+},
+"357": {
+"printed": 337
+},
+"358": {
+"printed": 338
+},
+"359": {
+"printed": 339
+},
+"360": {
+"printed": 340
+},
+"361": {
+"printed": 341
+},
+"362": {
+"printed": 342
+},
+"363": {
+"printed": 343
+},
+"364": {
+"printed": 344
+},
+"365": {
+"printed": 345
+},
+"366": {
+"printed": 346
+},
+"367": {
+"printed": 347
+},
+"368": {
+"printed": 348
+},
+"369": {
+"printed": 349
+},
+"370": {
+"printed": 350
+},
+"371": {
+"printed": 351
+},
+"372": {
+"printed": 352
+},
+"373": {
+"printed": 353
+},
+"374": {
+"printed": 354
+},
+"375": {
+"printed": 355
+},
+"376": {
+"printed": 356
+},
+"377": {
+"printed": 357
+},
+"378": {
+"printed": 358
+},
+"379": {
+"printed": 359
+},
+"380": {
+"printed": 360
+},
+"381": {
+"printed": 361
+},
+"382": {
+"printed": 362
+},
+"383": {
+"printed": 363
+},
+"384": {
+"printed": 364
+},
+"385": {
+"printed": 365
+},
+"386": {
+"printed": 366
+},
+"387": {
+"printed": 367
+},
+"388": {
+"printed": 368
+},
+"389": {
+"printed": 369
+},
+"390": {
+"printed": 370
+},
+"391": {
+"printed": 371
+},
+"392": {
+"printed": 372
+},
+"393": {
+"printed": 373
+},
+"394": {
+"printed": 374
+},
+"395": {
+"printed": 375
+},
+"396": {
+"printed": 376
+},
+"397": {
+"printed": 377
+},
+"398": {
+"printed": 378
+},
+"399": {
+"printed": 379
+},
+"400": {
+"printed": 380
+},
+"401": {
+"printed": 381
+},
+"402": {
+"printed": 382
+},
+"403": {
+"printed": 383
+},
+"404": {
+"printed": 384
+},
+"405": {
+"printed": 385
+},
+"406": {
+"printed": 386
+},
+"407": {
+"printed": 387
+},
+"408": {
+"printed": 388
+},
+"409": {
+"printed": 389
+},
+"410": {
+"printed": 390
+},
+"411": {
+"printed": 391
+},
+"412": {
+"printed": 392
+},
+"413": {
+"printed": 393
+},
+"414": {
+"printed": 394
+},
+"415": {
+"printed": 395
+},
+"416": {
+"printed": 396
+},
+"417": {
+"printed": 397
+},
+"418": {
+"printed": 398
+},
+"419": {
+"printed": 399
+},
+"420": {
+"printed": 400
+},
+"421": {
+"printed": 401
+},
+"422": {
+"printed": 402
+},
+"423": {
+"printed": 403
+},
+"424": {
+"printed": 404
+},
+"425": {
+"printed": 405
+},
+"426": {
+"printed": 406
+},
+"427": {
+"printed": 407
+},
+"428": {
+"printed": 408
+},
+"429": {
+"printed": 409
+},
+"430": {
+"printed": 410
+},
+"431": {
+"printed": 411
+},
+"432": {
+"printed": 412
+},
+"433": {
+"printed": 413
+},
+"434": {
+"printed": 414
+},
+"435": {
+"printed": 415
+},
+"436": {
+"printed": 416
+},
+"437": {
+"printed": 417
+},
+"438": {
+"printed": 418
+},
+"439": {
+"printed": 419
+},
+"440": {
+"printed": 420
+},
+"441": {
+"printed": 421
+},
+"442": {
+"printed": 422
+},
+"443": {
+"printed": 423
+},
+"444": {
+"printed": 424
+},
+"445": {
+"printed": 425
+},
+"446": {
+"printed": 426
+},
+"447": {
+"printed": 427
+},
+"448": {
+"printed": 428
+},
+"449": {
+"printed": 429
+},
+"450": {
+"printed": 430
+},
+"451": {
+"printed": 431
+},
+"452": {
+"printed": 432
+},
+"453": {
+"printed": 433
+},
+"454": {
+"printed": 434
+},
+"455": {
+"printed": 435
+},
+"456": {
+"printed": 436
+},
+"457": {
+"printed": 437
+},
+"458": {
+"printed": 438
+},
+"459": {
+"printed": 439
+},
+"460": {
+"printed": 440
+},
+"461": {
+"printed": 441
+},
+"462": {
+"printed": 442
+},
+"463": {
+"printed": 443
+},
+"464": {
+"printed": 444
+},
+"465": {
+"printed": 445
+},
+"466": {
+"printed": 446
+},
+"467": {
+"printed": 447
+},
+"468": {
+"printed": 448
+},
+"469": {
+"printed": 449
+},
+"470": {
+"printed": 450
+},
+"471": {
+"printed": 451
+},
+"472": {
+"printed": 452
+},
+"473": {
+"printed": 453
+},
+"474": {
+"printed": 454
+},
+"475": {
+"printed": 455
+},
+"476": {
+"printed": 456
+},
+"477": {
+"printed": 457
+},
+"478": {
+"printed": 458
+},
+"479": {
+"printed": 459
+},
+"480": {
+"printed": 460
+},
+"481": {
+"printed": 461
+},
+"482": {
+"printed": 462
+},
+"483": {
+"printed": 463
+},
+"484": {
+"printed": 464
+},
+"485": {
+"printed": 465
+},
+"486": {
+"printed": 466
+},
+"487": {
+"printed": 467
+},
+"488": {
+"printed": 468
+},
+"489": {
+"printed": 469
+},
+"490": {
+"printed": 470
+},
+"491": {
+"printed": 471
+},
+"492": {
+"printed": 472
+},
+"493": {
+"printed": 473
+},
+"494": {
+"printed": 474
+},
+"495": {
+"printed": 475
+},
+"496": {
+"printed": 476
+},
+"497": {
+"printed": 477
+},
+"498": {
+"printed": 478
+},
+"499": {
+"printed": 479
+},
+"500": {
+"printed": 480
+},
+"501": {
+"printed": 481
+},
+"502": {
+"printed": 482
+},
+"503": {
+"printed": 483
+},
+"504": {
+"printed": 484
+},
+"505": {
+"printed": 485
+},
+"506": {
+"printed": 486
+},
+"507": {
+"printed": 487
+},
+"508": {
+"printed": 488
+},
+"509": {
+"printed": 489
+},
+"510": {
+"printed": 490
+},
+"511": {
+"printed": 491
+},
+"512": {
+"printed": 492
+},
+"513": {
+"printed": 493
+},
+"514": {
+"printed": 494
+},
+"515": {
+"printed": 495
+},
+"516": {
+"printed": 496
+},
+"517": {
+"printed": 497
+},
+"518": {
+"printed": 498
+},
+"519": {
+"printed": 499
+},
+"520": {
+"printed": 500
+},
+"521": {
+"printed": 501
+},
+"522": {
+"printed": 502
+},
+"523": {
+"printed": 503
+},
+"524": {
+"printed": 504
+},
+"525": {
+"printed": 505
+},
+"526": {
+"printed": 506
+},
+"527": {
+"printed": 507
+},
+"528": {
+"printed": 508
+},
+"529": {
+"printed": 509
+},
+"530": {
+"printed": 510
+},
+"531": {
+"printed": 511
+},
+"532": {
+"printed": 512
+},
+"533": {
+"printed": 513
+},
+"534": {
+"printed": 514
+},
+"535": {
+"printed": 515
+},
+"536": {
+"printed": 516
+},
+"537": {
+"printed": 517
+},
+"538": {
+"printed": 518
+},
+"539": {
+"printed": 519
+},
+"540": {
+"printed": 520
+},
+"541": {
+"printed": 521
+},
+"542": {
+"printed": 522
+},
+"543": {
+"printed": 523
+},
+"544": {
+"printed": 524
+},
+"545": {
+"printed": 525
+},
+"546": {
+"printed": 526
+},
+"547": {
+"printed": 527
+},
+"548": {
+"printed": 528
+},
+"549": {
+"printed": 529
+},
+"550": {
+"printed": 530
+},
+"551": {
+"printed": 531
+},
+"552": {
+"printed": 532
+},
+"553": {
+"printed": 533
+},
+"554": {
+"printed": 534
+},
+"555": {
+"printed": 535
+},
+"556": {
+"printed": 536
+},
+"557": {
+"printed": 537
+},
+"558": {
+"printed": 538
+},
+"559": {
+"printed": 539
+},
+"560": {
+"printed": 540
+},
+"561": {
+"printed": 541
+},
+"562": {
+"printed": 542
+},
+"563": {
+"printed": 543
+},
+"564": {
+"printed": 544
+},
+"565": {
+"printed": 545
+},
+"566": {
+"printed": 546
+},
+"567": {
+"printed": 547
+},
+"568": {
+"printed": 548
+},
+"569": {
+"printed": 549
+},
+"570": {
+"printed": 550
+},
+"571": {
+"printed": 551
+},
+"572": {
+"printed": 552
+},
+"573": {
+"printed": 553
+},
+"574": {
+"printed": 554
+},
+"575": {
+"printed": 555
+},
+"576": {
+"printed": 556
+},
+"577": {
+"printed": 557
+},
+"578": {
+"printed": 558
+},
+"579": {
+"printed": 559
+},
+"580": {
+"printed": 560
+},
+"581": {
+"printed": 561
+},
+"582": {
+"printed": 562
+},
+"583": {
+"printed": 563
+},
+"584": {
+"printed": 564
+},
+"585": {
+"printed": 565
+},
+"586": {
+"printed": 566
+},
+"587": {
+"printed": 567
+},
+"588": {
+"printed": 568
+},
+"589": {
+"printed": 569
+},
+"590": {
+"printed": 570
+},
+"591": {
+"printed": 571
+},
+"592": {
+"printed": 572
+},
+"593": {
+"printed": 573
+},
+"594": {
+"printed": 574
+},
+"595": {
+"printed": 575
+},
+"596": {
+"printed": 576
+},
+"597": {
+"printed": 577
+},
+"598": {
+"printed": 578
+},
+"599": {
+"printed": 579
+},
+"600": {
+"printed": 580
+},
+"601": {
+"printed": 581
+},
+"602": {
+"printed": 582
+},
+"603": {
+"printed": 583
+},
+"604": {
+"printed": 584
+},
+"605": {
+"printed": 585
+},
+"606": {
+"printed": 586
+},
+"607": {
+"printed": 587
+},
+"608": {
+"printed": 588
+},
+"609": {
+"printed": 589
+},
+"610": {
+"printed": 590
+},
+"611": {
+"printed": 591
+},
+"612": {
+"printed": 592
+},
+"613": {
+"printed": 593
+},
+"614": {
+"printed": 594
+},
+"615": {
+"printed": 595
+},
+"616": {
+"printed": 596
+},
+"617": {
+"printed": 597
+},
+"618": {
+"printed": 598
+},
+"619": {
+"printed": 599
+},
+"620": {
+"printed": 600
+},
+"621": {
+"printed": 601
+},
+"622": {
+"printed": 602
+},
+"623": {
+"printed": 603
+},
+"624": {
+"printed": 604
+},
+"625": {
+"printed": 605
+},
+"626": {
+"printed": 606
+},
+"627": {
+"printed": 607
+},
+"628": {
+"printed": 608
+},
+"629": {
+"printed": 609
+},
+"630": {
+"printed": 610
+},
+"631": {
+"printed": 611
+},
+"632": {
+"printed": 612
+},
+"633": {
+"printed": 613
+},
+"634": {
+"printed": 614
+},
+"635": {
+"printed": 615
+},
+"636": {
+"printed": 616
+},
+"637": {
+"printed": 617
+},
+"638": {
+"printed": 618
+},
+"639": {
+"printed": 619
+},
+"640": {
+"printed": 620
+},
+"641": {
+"printed": 621
+},
+"642": {
+"printed": 622
+},
+"643": {
+"printed": 623
+},
+"644": {
+"printed": 624
+},
+"645": {
+"printed": 625
+},
+"646": {
+"printed": 626
+},
+"647": {
+"printed": 627
+},
+"648": {
+"printed": 628
+},
+"649": {
+"printed": 629
+},
+"650": {
+"printed": 630
+},
+"651": {
+"printed": 631
+},
+"652": {
+"printed": 632
+},
+"653": {
+"printed": 633
+},
+"654": {
+"printed": 634,
+"note": "no page number printed (header present); sequence continuous"
+},
+"655": {
+"printed": 635
+},
+"656": {
+"printed": 636
+},
+"657": {
+"printed": 637
+},
+"658": {
+"printed": 638
+},
+"659": {
+"printed": 639
+},
+"660": {
+"printed": 640
+},
+"661": {
+"printed": 641
+},
+"662": {
+"printed": 642
+},
+"663": {
+"printed": 643
+},
+"664": {
+"printed": 644
+},
+"665": {
+"printed": 645
+},
+"666": {
+"printed": 646
+},
+"667": {
+"printed": 647
+},
+"668": {
+"printed": 648
+},
+"669": {
+"printed": 649
+},
+"670": {
+"printed": 650
+},
+"671": {
+"printed": 651
+},
+"672": {
+"printed": 652
+},
+"673": {
+"printed": 653
+},
+"674": {
+"printed": 654
+},
+"675": {
+"printed": 655
+},
+"676": {
+"printed": 656
+},
+"677": {
+"printed": 657
+}
+}
+}

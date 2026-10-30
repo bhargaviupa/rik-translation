@@ -46,3 +46,6 @@ Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~28
 - **Images:** view at ~120 dpi; zoom only a crop that cannot be read.
 - **Kannada prose drafts** (Pratipadārtha, Bhāvārtha, Special Topics): may be drafted by a smaller model if the user asks; I review `[?]` lines and the Sanskrit.
 - Put italic notes **before** a Devanagari block or after its IAST line (a note right after the block stops `add_iast.py` adding the IAST).
+
+## Lessons for new volumes' set-up (Oct 30, 2026; details in `vol13/vol13_runbook.md`, last section)
+Do not run whole-volume Tesseract scans (20+ min; used only to locate). Read printed page numbers from header-strip contact sheets (`vol13/tools/numsheets.py`, header row located by ink profile, not a fixed fraction). Crops are whole-page fractions. Check a prompt's claims (e.g. "pages upside down") by eye before building tools. Confirm range numerals against the contents' word forms. Front matter has its own roman numbering. If `git checkout` fails on an LFS "should have been a pointer" file, use the `GIT_LFS_SKIP_SMUDGE=1 … checkout -f` recipe. Kill background jobs by PID.

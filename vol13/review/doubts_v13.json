@@ -1,0 +1,6866 @@
+[
+ {
+  "pdf": 35,
+  "printed": 15,
+  "crop": [
+   0.335,
+   0.365,
+   0.12,
+   0.9
+  ],
+  "note": "syaṃvṛkṣāmu word, 1st word of 3rd Rk citation",
+  "answer": ""
+ },
+ {
+  "pdf": 35,
+  "printed": 15,
+  "crop": [
+   0.4,
+   0.44,
+   0.08,
+   0.93
+  ],
+  "note": "refs 3-2-11 / 7-88-6 / 1-71-1",
+  "answer": ""
+ },
+ {
+  "pdf": 38,
+  "printed": 18,
+  "crop": [
+   0.28,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "Ni. refs puru, rajas, mayas",
+  "answer": ""
+ },
+ {
+  "pdf": 42,
+  "printed": 22,
+  "crop": [
+   0.33,
+   0.52,
+   0.5,
+   0.95
+  ],
+  "note": "three Rg refs (harmya ṛks): 7-56-16 / 7-55-6 / 7-76-3 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 41,
+  "printed": 21,
+  "crop": [
+   0.53,
+   0.58,
+   0.08,
+   0.93
+  ],
+  "note": "Ni. 2-25 (pṛṣatyo marutām)",
+  "answer": ""
+ },
+ {
+  "pdf": 43,
+  "printed": 23,
+  "crop": [
+   0.1,
+   0.9,
+   0.2,
+   0.95
+  ],
+  "note": "refs on the harmya ṛks: 10-46-3, 10-63-10, 5-32-5, 8-5-23, 10-114-10, 7-55-6 and the ghṛma list 1-112-7;1-117-6;8-63-3;10-80-3",
+  "answer": ""
+ },
+ {
+  "pdf": 46,
+  "printed": 26,
+  "crop": [
+   0.7,
+   0.9,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. 1-20 / 1-10 for parvata",
+  "answer": ""
+ },
+ {
+  "pdf": 50,
+  "printed": 30,
+  "crop": [
+   0.3,
+   0.62,
+   0.4,
+   0.95
+  ],
+  "note": "refs after the 4 sucetunā citations: 1-142-11 / 1-159-3 / 5-51-11 / 5-64-3 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 47,
+  "printed": 27,
+  "crop": [
+   0.15,
+   0.35,
+   0.4,
+   0.95
+  ],
+  "note": "refs 8-20-5 and 1-37-7",
+  "answer": ""
+ },
+ {
+  "pdf": 51,
+  "printed": 31,
+  "crop": [
+   0.2,
+   0.3,
+   0.4,
+   0.95
+  ],
+  "note": "ref of ā rayimā sucetunam ṛk: 8-65-10 as read; and word tanūṣvā",
+  "answer": ""
+ },
+ {
+  "pdf": 54,
+  "printed": 34,
+  "crop": [
+   0.18,
+   0.32,
+   0.4,
+   0.95
+  ],
+  "note": "ref of alātṛṇo vala ṛk: 2-30-10 as read; Ni. 6-2; Roth root description",
+  "answer": ""
+ },
+ {
+  "pdf": 55,
+  "printed": 35,
+  "crop": [
+   0.3,
+   0.5,
+   0.4,
+   0.95
+  ],
+  "note": "Ni. refs for arka meanings (5-9, 2-11, 5-4) and the Ni. ref after Yāska quote",
+  "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 36,
+  "crop": [
+   0.28,
+   0.34,
+   0.4,
+   0.95
+  ],
+  "note": "Ni. ref for prathama (2-22)",
+  "answer": ""
+ },
+ {
+  "pdf": 58,
+  "printed": 38,
+  "crop": [
+   0.12,
+   0.3,
+   0.1,
+   0.95
+  ],
+  "note": "end of Rk 8 bhāṣya: clause 'pāsakṣayor…' unreadable at 125dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 39,
+  "crop": [
+   0.13,
+   0.5,
+   0.1,
+   0.95
+  ],
+  "note": "four refs of abhihruta/vihruta ṛks (1-128-5; 1-189-6; 8-1-12; 8-20-26; 5-66-2; 10-170-1) and word-readings of the 'viśvād riśiṣo' citation",
+  "answer": ""
+ },
+ {
+  "pdf": 61,
+  "printed": 41,
+  "crop": [
+   0.54,
+   0.7,
+   0.1,
+   0.95
+  ],
+  "note": "Rk 9 bhāṣya words: 'vo 'seṣvā tadusalakṣita…', 'rathyo 'kṣaḥ cakrā tekropanibaddhāni'",
+  "answer": ""
+ },
+ {
+  "pdf": 62,
+  "printed": 42,
+  "crop": [
+   0.5,
+   0.6,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. ref for ratha etymology (9-11?) and last etymology word",
+  "answer": ""
+ },
+ {
+  "pdf": 63,
+  "printed": 43,
+  "crop": [
+   0.55,
+   0.65,
+   0.1,
+   0.95
+  ],
+  "note": "ref Ṛ. Saṃ. 1-64-10 for vṛṣakhādayaḥ; Ni. 2-9 near taviṣāṇi",
+  "answer": ""
+ },
+ {
+  "pdf": 65,
+  "printed": 45,
+  "crop": [
+   0.15,
+   0.5,
+   0.55,
+   0.95
+  ],
+  "note": "refs of the khādi ṛks: 2-34-13, 1-168-3, 5-58-2, 5-54-11",
+  "answer": ""
+ },
+ {
+  "pdf": 66,
+  "printed": 46,
+  "crop": [
+   0.4,
+   0.75,
+   0.55,
+   0.95
+  ],
+  "note": "refs 10-17-4, 10-17-6, 10-63-15, 4-30-2",
+  "answer": ""
+ },
+ {
+  "pdf": 69,
+  "printed": 49,
+  "crop": [
+   0.5,
+   0.62,
+   0.1,
+   0.95
+  ],
+  "note": "refs 2-34-2; 5-55-1; 5-52-5; Ā.Śrau.Sū. 9-4; Tai.Saṃ. 1-8-13-1",
+  "answer": ""
+ },
+ {
+  "pdf": 70,
+  "printed": 50,
+  "crop": [
+   0.13,
+   0.62,
+   0.55,
+   0.95
+  ],
+  "note": "refs of rabhas citations: 5-52-16; 3-10-4; 3-31-13; 10-95-14; 9-96-1",
+  "answer": ""
+ },
+ {
+  "pdf": 71,
+  "printed": 51,
+  "crop": [
+   0.55,
+   0.7,
+   0.1,
+   0.95
+  ],
+  "note": "refs 10-142-4 and Tai.Saṃ. 6-1-1-2; word tvacam amedhyām",
+  "answer": ""
+ },
+ {
+  "pdf": 74,
+  "printed": 54,
+  "crop": [
+   0.2,
+   0.8,
+   0.55,
+   0.95
+  ],
+  "note": "refs of vibhūti ṛks: 1-8-9; 1-30-5; 6-18-4; 8-49-6; 8-50-6",
+  "answer": ""
+ },
+ {
+  "pdf": 73,
+  "printed": 53,
+  "crop": [
+   0.28,
+   0.45,
+   0.1,
+   0.95
+  ],
+  "note": "bhāṣya words 'svapuṣpakabhūtaiḥ', 'āsabhirāsyaiḥ' and Ni. ref 3-20",
+  "answer": ""
+ },
+ {
+  "pdf": 75,
+  "printed": 55,
+  "crop": [
+   0.28,
+   0.4,
+   0.4,
+   0.95
+  ],
+  "note": "ref of ayam indro marutsakhā: 8-76-2; Ni. 3-20",
+  "answer": ""
+ },
+ {
+  "pdf": 78,
+  "printed": 58,
+  "crop": [
+   0.15,
+   0.7,
+   0.5,
+   0.95
+  ],
+  "note": "refs: 5-46-7; 10-109-3; 2-34-3; 1-163-3; 1-25-1 and Ni. 2-13",
+  "answer": ""
+ },
+ {
+  "pdf": 77,
+  "printed": 57,
+  "crop": [
+   0.1,
+   0.2,
+   0.1,
+   0.95
+  ],
+  "note": "top-of-page bhāṣya words (na viṣvarati/vihvarati, ceśabdaḥ…, 'yuṣmaddattanāditya…')",
+  "answer": ""
+ },
+ {
+  "pdf": 79,
+  "printed": 59,
+  "crop": [
+   0.1,
+   0.9,
+   0.5,
+   0.95
+  ],
+  "note": "refs of vrata ṛks: 2-8-3; 3-32-8; 7-84-2; 2-38-2; 1-92-12; 1-124-2; 10-12-5; 8-23-16",
+  "answer": ""
+ },
+ {
+  "pdf": 80,
+  "printed": 60,
+  "crop": [
+   0.1,
+   0.62,
+   0.1,
+   0.95
+  ],
+  "note": "refs after 'ityādi' lines: many numerals (10-37-8; 2-5-4; 2-28-6; 3-38-6; 2-38-3; 3-38-6; 8-40-8; 1-136-5; 3-61-1; 4-13-2; 5-69-1; 3-3-9; 8-43-1; 6-14-3; 1-24-13; 6-34-5; 10-34-13)",
+  "answer": ""
+ },
+ {
+  "pdf": 81,
+  "printed": 61,
+  "crop": [
+   0.1,
+   0.55,
+   0.5,
+   0.95
+  ],
+  "note": "refs on p. 61: 9-97-28; 1-153-3; 3-34-16; 6-20-2; Ni. for aditi (1-1; 1-11; 4-9; 4-22); the line of 'sudāmandreknīo' ṛk word; 2-38-10 etc",
+  "answer": ""
+ },
+ {
+  "pdf": 82,
+  "printed": 62,
+  "crop": [
+   0.1,
+   0.45,
+   0.5,
+   0.95
+  ],
+  "note": "refs on p. 62: 2-32-13; 8-2-14; 1-55-5; and list 8-28-10; 1-139-3; 4-18-8; 1-130-2; 5-40-1; 2-18-5; 8-60-3; 10-47-5; 6-32-2",
+  "answer": ""
+ },
+ {
+  "pdf": 84,
+  "printed": 64,
+  "crop": [
+   0.5,
+   0.75,
+   0.4,
+   0.95
+  ],
+  "note": "Ni. refs for jāmi (1-12?; 3-6?)",
+  "answer": ""
+ },
+ {
+  "pdf": 85,
+  "printed": 65,
+  "crop": [
+   0.15,
+   0.5,
+   0.55,
+   0.95
+  ],
+  "note": "refs on p. 65: 1-42-13; 1-33-6; 1-122-5; 1-18-3",
+  "answer": ""
+ },
+ {
+  "pdf": 87,
+  "printed": 67,
+  "crop": [
+   0.3,
+   0.45,
+   0.1,
+   0.95
+  ],
+  "note": "word 'ā tatenan' in bhāṣya vs 'tatanan' in Saṃhitā/Pada (p.86 line 2); also p.88 grammar heading 'tatenan'",
+  "answer": ""
+ },
+ {
+  "pdf": 90,
+  "printed": 70,
+  "crop": [
+   0.55,
+   0.65,
+   0.1,
+   0.95
+  ],
+  "note": "ṛk-numbers of the earlier sūktas where this ṛk recurs (1-165; 1-166?; 1-167?; 1-168?)",
+  "answer": ""
+ },
+ {
+  "pdf": 89,
+  "printed": 69,
+  "crop": [
+   0.45,
+   0.55,
+   0.1,
+   0.95
+  ],
+  "note": "bhāṣya word 'stotrainānyetat' (p.69 last lines)",
+  "answer": ""
+ },
+ {
+  "pdf": 91,
+  "printed": 71,
+  "crop": [
+   0.55,
+   0.8,
+   0.5,
+   0.95
+  ],
+  "note": "refs of vardhantu ṛks: 1-5-8; 8-1-3; 3-10-6; 7-99-7; Ni. refs for kāru (3-16; 9-13)",
+  "answer": ""
+ },
+ {
+  "pdf": 93,
+  "printed": 73,
+  "crop": [
+   0.14,
+   0.27,
+   0.25,
+   0.8
+  ],
+  "note": "chandas line of Sūkta 167 heading block (numerals)",
+  "answer": ""
+ },
+ {
+  "pdf": 94,
+  "printed": 74,
+  "crop": [
+   0.35,
+   0.7,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. refs (harī indrasya; iṣam; rāyaḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 75,
+  "crop": [
+   0.4,
+   0.55,
+   0.1,
+   0.95
+  ],
+  "note": "Nirukta quote on indra (bold Sanskrit) - exact words and Ni. ref (10-8?)",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 77,
+  "crop": [
+   0.75,
+   0.95,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. refs for marut (3-19; 1-10) and the derivation line",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 78,
+  "crop": [
+   0.2,
+   0.8,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. refs: māyā (3-13?), samudra (2-10); Yāska quote words",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 80,
+  "crop": [
+   0.28,
+   0.62,
+   0.1,
+   0.95
+  ],
+  "note": "Ṛk 3 bhāṣya words marked [?] (taramaṇīya…, vidyutāvino…, viśeṣyete, mahiṣīva)",
+  "answer": ""
+ },
+ {
+  "pdf": 101,
+  "printed": 81,
+  "crop": [
+   0.55,
+   0.95,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. refs: nirṇik (2-13?), ghṛta (1-12?), upara (1-?)",
+  "answer": ""
+ },
+ {
+  "pdf": 102,
+  "printed": 82,
+  "crop": [
+   0.1,
+   0.6,
+   0.5,
+   0.95
+  ],
+  "note": "refs 1-88-1; 8-2-12; Ni. 1-4 and the Nirukta quote on na",
+  "answer": ""
+ },
+ {
+  "pdf": 103,
+  "printed": 83,
+  "crop": [
+   0.3,
+   0.52,
+   0.4,
+   0.95
+  ],
+  "note": "refs 3-27-7 (hotā devo amartyaḥ), 1-162-1; Ni. 3-17; Ni. 6-?",
+  "answer": ""
+ },
+ {
+  "pdf": 105,
+  "printed": 85,
+  "crop": [
+   0.1,
+   0.35,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 4 bhāṣya end: words 'rodasyām', 'joṣantāt stam stamyāḥ īkāro lugṇāḥ' unreadable at 125 dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 106,
+  "printed": 86,
+  "crop": [
+   0.55,
+   0.9,
+   0.1,
+   0.95
+  ],
+  "note": "refs 3-30-5, Ni. 6-1, Ni. 11-30, Ni. 3-30; reading of the ṛk words dṛḷhamavado",
+  "answer": ""
+ },
+ {
+  "pdf": 107,
+  "printed": 87,
+  "crop": [
+   0.13,
+   0.45,
+   0.55,
+   0.95
+  ],
+  "note": "refs 5-46-8; 5-56-8; Ni. 11-4?; Ni. 11-30; Ni. 7-15",
+  "answer": ""
+ },
+ {
+  "pdf": 110,
+  "printed": 90,
+  "crop": [
+   0.65,
+   0.8,
+   0.1,
+   0.95
+  ],
+  "note": "Yāska quote on particles (kam īm it u): exact Sanskrit words and Ni. ref; also 'saptagaṇā marutaḥ' names",
+  "answer": ""
+ },
+ {
+  "pdf": 109,
+  "printed": 89,
+  "crop": [
+   0.2,
+   0.5,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 5 bhāṣya: various words marked [?]; Nai. 1-4 ref",
+  "answer": ""
+ },
+ {
+  "pdf": 111,
+  "printed": 91,
+  "crop": [
+   0.58,
+   0.8,
+   0.1,
+   0.95
+  ],
+  "note": "refs 1-116-17; 1-118-5; Ni. for nabhas (2-?) and the quoted 'sādhāraṇāny atra ṣaṭ' line",
+  "answer": ""
+ },
+ {
+  "pdf": 114,
+  "printed": 94,
+  "crop": [
+   0.13,
+   0.42,
+   0.1,
+   0.95
+  ],
+  "note": "Ṛk 6 bhāṣya: 'matvarthīyo luptaḥ' etc. marked [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 115,
+  "printed": 95,
+  "crop": [
+   0.1,
+   0.35,
+   0.5,
+   0.95
+  ],
+  "note": "ref 10-39-4; Ni. 2-7, 2-11 for arka; 'yuvā prayoyati…' quote",
+  "answer": ""
+ },
+ {
+  "pdf": 116,
+  "printed": 96,
+  "crop": [
+   0.15,
+   0.35,
+   0.5,
+   0.95
+  ],
+  "note": "ref 10-14-1; Ni. 3-? duvasyati; Ni. 1-? gāthā",
+  "answer": ""
+ },
+ {
+  "pdf": 117,
+  "printed": 97,
+  "crop": [
+   0.78,
+   0.95,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 7 bhāṣya: several words uncertain at 125 dpi; Ṛk number 7 vs 8 in the print",
+  "answer": ""
+ },
+ {
+  "pdf": 120,
+  "printed": 100,
+  "crop": [
+   0.38,
+   0.62,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 8: Saṃhitā first line 'cayata' and Pada 'cayate'; bhāṣya several words",
+  "answer": ""
+ },
+ {
+  "pdf": 119,
+  "printed": 99,
+  "crop": [
+   0.3,
+   0.4,
+   0.08,
+   0.95
+  ],
+  "note": "Nirukta quote on cit (words and Ni. ref)",
+  "answer": ""
+ },
+ {
+  "pdf": 121,
+  "printed": 101,
+  "crop": [
+   0.13,
+   0.22,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 8 bhāṣya end: words 'īmayaṃ kālo', 'yuṣmadanukūla…āsāreṇa', 'īmenāsyu…'",
+  "answer": ""
+ },
+ {
+  "pdf": 124,
+  "printed": 104,
+  "crop": [
+   0.17,
+   0.4,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 9 bhāṣya: 'antyaikāntike', 'parokṣe' words uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 125,
+  "printed": 105,
+  "crop": [
+   0.42,
+   0.62,
+   0.08,
+   0.95
+  ],
+  "note": "the seven 'asme' examples: exact quoted padas and Ni. 6-? reference",
+  "answer": ""
+ },
+ {
+  "pdf": 127,
+  "printed": 107,
+  "crop": [
+   0.14,
+   0.34,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 10 Saṃhitā second pāda 'dyūn tanna ṛbhukṣā narām anu ṣyāt' reading; Ā.Gṛ.Sū. ref 3-6-14",
+  "answer": ""
+ },
+ {
+  "pdf": 127,
+  "printed": 107,
+  "crop": [
+   0.62,
+   0.8,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 10 bhāṣya: 'adyāsminnine', 'tatsmadbhyām ibhakṣāḥ' etc.",
+  "answer": ""
+ },
+ {
+  "pdf": 129,
+  "printed": 109,
+  "crop": [
+   0.42,
+   0.5,
+   0.08,
+   0.95
+  ],
+  "note": "'urāvantarikṣe kṣiyati nivasati' / 'athavā kṣayatiraiśvaryakarmā ṛbhūṇāṃ…' words; Ni. 3-13",
+  "answer": ""
+ },
+ {
+  "pdf": 130,
+  "printed": 110,
+  "crop": [
+   0.55,
+   0.62,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 11 bhāṣya 'eṣa ityekādaśe vyākhyātā' and cross-reference (page number 69)",
+  "answer": ""
+ },
+ {
+  "pdf": 132,
+  "printed": 112,
+  "crop": [
+   0.65,
+   0.82,
+   0.1,
+   0.95
+  ],
+  "note": "Anuvāda of Sūkta 168: 'last three ṛks jagatī' vs bhāṣya 'antyās tisras triṣṭubhaḥ'; bhāṣya word 'tisṛṣṭubanta…'",
+  "answer": ""
+ },
+ {
+  "pdf": 132,
+  "printed": 112,
+  "crop": [
+   0.3,
+   0.42,
+   0.5,
+   0.95
+  ],
+  "note": "ref 3-36-4 (mahāṃ amatro) and Ni. refs iṣa/vṛjana",
+  "answer": ""
+ },
+ {
+  "pdf": 133,
+  "printed": 113,
+  "crop": [
+   0.14,
+   0.28,
+   0.25,
+   0.8
+  ],
+  "note": "chandas line of Sūkta 168 heading block numerals (1-8 jagatī | 9-10 triṣṭubh?)",
+  "answer": ""
+ },
+ {
+  "pdf": 133,
+  "printed": 113,
+  "crop": [
+   0.75,
+   0.95,
+   0.08,
+   0.95
+  ],
+  "note": "Ṛk 1 bhāṣya words [?] (devayāḥ…, mahate); Ni. 6-14",
+  "answer": ""
+ },
+ {
+  "pdf": 135,
+  "printed": 115,
+  "crop": [
+   0.13,
+   0.4,
+   0.55,
+   0.95
+  ],
+  "note": "ref 1-54-3 and the first word of the ṛk (saturvaṇiḥ/turvaṇiḥ); Ni. 6-14; 6-61-2",
+  "answer": ""
+ },
+ {
+  "pdf": 138,
+  "printed": 118,
+  "crop": [
+   0.2,
+   0.55,
+   0.5,
+   0.95
+  ],
+  "note": "refs 1-164-29 and 1-2-1; Ni. 3-7 (vavri); quotation of the Vāyu śruti",
+  "answer": ""
+ },
+ {
+  "pdf": 140,
+  "printed": 120,
+  "crop": [
+   0.62,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 Samhita: word after 'sutaas' (tRpt..amshavo) and 'eshaam' initial vowel; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 139,
+  "printed": 119,
+  "crop": [
+   0.55,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals (5-2-127, 7-1-50, 3-2-101, 6-2-1) small type",
+  "answer": ""
+ },
+ {
+  "pdf": 141,
+  "printed": 121,
+  "crop": [
+   0.18,
+   0.28,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 3 Pada: tRptyaamshavah and rarabhe (printed ra-rabhe vs saMhitaa raarabhe)",
+  "answer": ""
+ },
+ {
+  "pdf": 141,
+  "printed": 121,
+  "crop": [
+   0.33,
+   0.56,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 3 bhaashya: paatRRNaam, vanaamsaalambinii, bhujalakshmiirvaa, hastatraaNakashca, khaDgalataaShTishca",
+  "answer": ""
+ },
+ {
+  "pdf": 144,
+  "printed": 124,
+  "crop": [
+   0.4,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhaashya: vRthaa anaayaasena vaa; kashayaa vaaN.. smaitat; arenavo'paamsavah; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 145,
+  "printed": 125,
+  "crop": [
+   0.7,
+   0.8,
+   0.5,
+   0.9
+  ],
+  "note": "Rik 4 special topics: ref 1-142-10 and Ni. numeral for kashaa; 'yaagashaale' word",
+  "answer": ""
+ },
+ {
+  "pdf": 147,
+  "printed": 127,
+  "crop": [
+   0.52,
+   0.74,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 5 bhaashya (smudged scan): dhanvachyuto na..., yathaakaankshante, many words; zoom at 200dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 150,
+  "printed": 130,
+  "crop": [
+   0.62,
+   0.84,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhaashya + Pada 'aayayu': satyaayudhe, avaraM avaan..., yasminnaayayu; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 149,
+  "printed": 129,
+  "crop": [
+   0.15,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "refs: Ni. 1-10 (dhanvan), 10-187-2, Ni. etasha",
+  "answer": ""
+ },
+ {
+  "pdf": 151,
+  "printed": 131,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 special topics: Ni. refs for rajas, quote abjaamukthair.. (6-?-?) numerals; 1-92-1; 1-155-2",
+  "answer": ""
+ },
+ {
+  "pdf": 153,
+  "printed": 133,
+  "crop": [
+   0.8,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 7 bhaashya first sentences (ra..mavat..., 4-4-1, traama) and Samhita prithujrayaa vs Pada prithujrayii",
+  "answer": ""
+ },
+ {
+  "pdf": 156,
+  "printed": 136,
+  "crop": [
+   0.4,
+   0.52,
+   0.05,
+   0.95
+  ],
+  "note": "quote 'tamuurmiram na pRNataa yavena' and ref 2-14-11; Ni. refs asura",
+  "answer": ""
+ },
+ {
+  "pdf": 157,
+  "printed": 137,
+  "crop": [
+   0.52,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 Samhita: ShToBhanti vs StoBhanti vs ShphoBhanti; pruShNvanti glyph; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 159,
+  "printed": 139,
+  "crop": [
+   0.15,
+   0.5,
+   0.1,
+   0.95
+  ],
+  "note": "Ni. refs (pavi, sindhu, prthivi, ghrta); 5-52-9, 8-41-2; 'adrim' vs 'udrim'",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 141,
+  "crop": [
+   0.35,
+   0.6,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 9 bhaashya refs: Tai.Sam. 2-2-11-4, R. 5-52-16; Ni. refs prishni, abhva (p.142)",
+  "answer": ""
+ },
+ {
+  "pdf": 164,
+  "printed": 144,
+  "crop": [
+   0.42,
+   0.52,
+   0.1,
+   0.95
+  ],
+  "note": "Rik 10 bhaashya opening: 'atha panchadashyaam [?]' (expected dashamyaam?); zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 166,
+  "printed": 146,
+  "crop": [
+   0.44,
+   0.56,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 169 heading numerals: Pin. 3-5; Aash. 8-6",
+  "answer": ""
+ },
+ {
+  "pdf": 167,
+  "printed": 147,
+  "crop": [
+   0.5,
+   0.72,
+   0.1,
+   0.95
+  ],
+  "note": "Suk 169 rik1 bhaashya: tyajasastyaagaat, etezh krodhanaama, udvaarayitaasi, jnetanaavaan, R. 8-63-2",
+  "answer": ""
+ },
+ {
+  "pdf": 170,
+  "printed": 150,
+  "crop": [
+   0.62,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 169 rik 2 Samhita: nishshidho/nishThidho; martyatraa; vishvakRshTiiH vs vishvakRshTayah; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 172,
+  "printed": 152,
+  "crop": [
+   0.55,
+   0.65,
+   0.1,
+   0.95
+  ],
+  "note": "quote nyakrandayann...mudgalah (10-102-5?) numerals; Samhita ref",
+  "answer": ""
+ },
+ {
+  "pdf": 174,
+  "printed": 154,
+  "crop": [
+   0.4,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 169 rik3 bhaashya dense: atase santake; vajraakhyaayudhavisheSho; Ni. 1-4; final sentences",
+  "answer": ""
+ },
+ {
+  "pdf": 175,
+  "printed": 155,
+  "crop": [
+   0.7,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Durgacarya quote on amyak (garbled), Ni. refs abhva/sanemi, 7-35-7",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 158,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 169 rik 4 bhaashya dense: parikramanaarhayaa, dhauteyuvakshepishThasya, kananta kaamayante; Ni. 1-4; 10-99-?",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 159,
+  "crop": [
+   0.05,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhaashya end: kanater nyantaal luNi, chaNi accent rule, bahukRtapradaanaaya",
+  "answer": ""
+ },
+ {
+  "pdf": 180,
+  "printed": 160,
+  "crop": [
+   0.3,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "numerals: Ni. rayi (1-?, 2-?, 4-?), raati 3-?, 6-58-1; dakshina Nirukta quotes",
+  "answer": ""
+ },
+ {
+  "pdf": 182,
+  "printed": 162,
+  "crop": [
+   0.82,
+   0.92,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 Pada: gaatuyanti-iva avagraha placement; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 184,
+  "printed": 164,
+  "crop": [
+   0.35,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Ni. 2-? tosha...; ref 7-34-17 (maa no'hirbudhnyo); rayi/ritaayoh quote",
+  "answer": ""
+ },
+ {
+  "pdf": 186,
+  "printed": 166,
+  "crop": [
+   0.05,
+   0.25,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhaashya mid-part: trainaahaayyakaariNaam, pRshadvarNaa gantaaro vaashvaa, aryo'raNiiyasya; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 187,
+  "printed": 167,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "p.167 Ni. numerals: mILha, nara, pRthivii, etasha, pRshatyah; p.168 aryah, pauMsya",
+  "answer": ""
+ },
+ {
+  "pdf": 189,
+  "printed": 169,
+  "crop": [
+   0.62,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 7 bhaashya: shabdaabhimaananaam, vaitaanaam etavarNaanaam, sRshTyaih, dhamarNa; Samhita 'ye/yo martyam'; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 192,
+  "printed": 172,
+  "crop": [
+   0.78,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 Samhita: maanebhya vs muunebhya glyph; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 193,
+  "printed": 173,
+  "crop": [
+   0.3,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 bhaashya: chitrenetyarthah, so raephakaarah, vishvajanyaa explanation; Pada 'indra[h]'",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 174,
+  "crop": [
+   0.35,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs 10-72-3, 4-53-2, 4-23-8; Ni. 2-? vRjana",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 175,
+  "crop": [
+   0.7,
+   0.88,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 170 heading Sanskrit block (anukramanika, atah.. kesha, nirukta ref 1-3?)",
+  "answer": ""
+ },
+ {
+  "pdf": 197,
+  "printed": 177,
+  "crop": [
+   0.18,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 170 rik1 bhaashya opening 'adyetenaM [?]' and 'aadhyaatam/ chintitam' words; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 178,
+  "crop": [
+   0.25,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta quote on nuunam (numeral 1-5?), Yaska quote on agastya/indra (1-3?)",
+  "answer": ""
+ },
+ {
+  "pdf": 199,
+  "printed": 179,
+  "crop": [
+   0.5,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Yaska quote on nuunam (Ni. 1-7?) garbled; zoom at 200dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 202,
+  "printed": 182,
+  "crop": [
+   0.4,
+   0.52,
+   0.05,
+   0.95
+  ],
+  "note": "Yaska quote bhraataa bharateh... (Ni. 4-?) numeral; Aditi vs Diti remark (prints Aditi at p.182)",
+  "answer": ""
+ },
+ {
+  "pdf": 204,
+  "printed": 184,
+  "crop": [
+   0.4,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhaashya: sannosmaannimati [?] manyase; idevaarthe; grammar sutra numerals on p.183",
+  "answer": ""
+ },
+ {
+  "pdf": 206,
+  "printed": 186,
+  "crop": [
+   0.5,
+   0.72,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhaashya: agastyo'sya jnikaetavaan, vedatvasya, aasaadanam; two views (Indra/Agastya) check",
+  "answer": ""
+ },
+ {
+  "pdf": 207,
+  "printed": 187,
+  "crop": [
+   0.55,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "refs on p.187: Ni. 1-14?, 1-10?; 1-113-2; quote vanaspate (Ni. 8-20?) p.188; amRta quotes",
+  "answer": ""
+ },
+ {
+  "pdf": 210,
+  "printed": 190,
+  "crop": [
+   0.58,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta ref for quote sugaa vo devaah (12-42?)",
+  "answer": ""
+ },
+ {
+  "pdf": 211,
+  "printed": 191,
+  "crop": [
+   0.1,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "quote jmayo atra vasavo rante... (7-39-3?) garbled vowels; Ni. 12-? refs",
+  "answer": ""
+ },
+ {
+  "pdf": 212,
+  "printed": 192,
+  "crop": [
+   0.62,
+   0.72,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 171 heading Sanskrit: 'prati vah shanmarutam tu chetaso.. antyaa marutvatiiyaa [?]'",
+  "answer": ""
+ },
+ {
+  "pdf": 213,
+  "printed": 193,
+  "crop": [
+   0.15,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Brihaddevata quotes (5-48..5-56) and sukta-number ranges in the note (38 sktas? 171-18?): zoom; quote lines garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 214,
+  "printed": 194,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Brihaddevata quotes cont.; refs 1-170-2, 1-170-4, 1-173-3..6",
+  "answer": ""
+ },
+ {
+  "pdf": 215,
+  "printed": 195,
+  "crop": [
+   0.54,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 171 rik1 bhaashya: indrasyaiva punararvipradaanaadidam yaachyate; vedyaabhir vedikavyaabhih; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 216,
+  "printed": 196,
+  "crop": [
+   0.3,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "refs 7-41-2, 6-18-4; Ni. namas (2-?) numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 217,
+  "printed": 197,
+  "crop": [
+   0.15,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "p.197: many ref numerals (6-44-5, 5-86-4, 1-61-13, Ath 7-17-2, 5-?-10, 7-?-10, 1-166-6) and Yaska quotes",
+  "answer": ""
+ },
+ {
+  "pdf": 218,
+  "printed": 198,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "p.198: refs 10-86-12, 1-91-?, Ni. 2-? heLas; Max Muller quote numerals SBE XXXII p.221",
+  "answer": ""
+ },
+ {
+  "pdf": 220,
+  "printed": 200,
+  "crop": [
+   0.5,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhaashya: yushmannivedanabuddhyai; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 222,
+  "printed": 202,
+  "crop": [
+   0.12,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta quote on iim (1-9?), 'evam uchchaavacheshvartheshu ...' garbled; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 222,
+  "printed": 202,
+  "crop": [
+   0.6,
+   0.72,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha ref (4-5-2-16?) and 'ahutaado vaa devaanaam marutah' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 224,
+  "printed": 204,
+  "crop": [
+   0.42,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhaashya second half garbled (jigiishitavyaani ... vostsvaanyaani komyaa...) ; zoom 200dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 225,
+  "printed": 205,
+  "crop": [
+   0.3,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.205: 4-57-3, Ni. magha (2-?, 1-?), Sat.Br. 14-1-1-13 + quote garbled, 5-46-2, 7-?-?",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 206,
+  "crop": [
+   0.05,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "ref 1-156-4 and Max Muller quote refs (VII.68.8, V.46.2)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 207,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "p.207 many Rg ref numerals & Ni. refs for vana; quotes ghRshum paavakam.., vanaani vibhyo.., paaraavatasya..; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 208,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "p.208 Rg refs: 3-3-10, 1-20-1, 1-122-7 [?]; header 'Mam. 1 A. Su. 171'",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 210,
+  "crop": [
+   0.68,
+   0.82,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha quote atithyena vai devaa ishtvaa.. (3-4-3-1?) garbled; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 231,
+  "printed": 211,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.211: Sat.Br. 4-3-1-6?, Rg 1-171-6?, Brhaddevata 5-56, 1-165-8",
+  "answer": ""
+ },
+ {
+  "pdf": 232,
+  "printed": 212,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.212: Ni. 1-5?; 8-96-7; 4-58-6",
+  "answer": ""
+ },
+ {
+  "pdf": 234,
+  "printed": 214,
+  "crop": [
+   0.6,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 Samhita first words: yena maasaasash chitayanta (nuunaasa?) ; zoom 200dpi [RESOLVED by zoom: Pada reads maanaasah; Samhita yena maanaasash chitayanta]",
+  "answer": ""
+ },
+ {
+  "pdf": 233,
+  "printed": 213,
+  "crop": [
+   0.2,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Kathopanishad ref 1-3-14; and Rik 1-170-[1,2,4] numerals in narrative",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 215,
+  "crop": [
+   0.2,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 bhaashya: 'paraa... bhavasaamarthyam balam sahah' garbled phrase; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 216,
+  "crop": [
+   0.4,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "refs: Ni. for shavas / usra; 1-182-8; 1-165-15; SBE XXXII p.289",
+  "answer": ""
+ },
+ {
+  "pdf": 237,
+  "printed": 217,
+  "crop": [
+   0.45,
+   0.78,
+   0.05,
+   0.95
+  ],
+  "note": "Brihaddevata refs 5-146,147; Sat.Br 1-6-4-18; Rg 1-6-1 numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 238,
+  "printed": 218,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs 3-61-1, 1-113-15, 1-48-3, 7-79-1 numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 239,
+  "printed": 219,
+  "crop": [
+   0.3,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta quote on vrishabha (garbled), refs 3-47-1, 1-59-6",
+  "answer": ""
+ },
+ {
+  "pdf": 241,
+  "printed": 221,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhaashya 'shishto vyaakhyaatah', sahasvitamaan.. [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 242,
+  "printed": 222,
+  "crop": [
+   0.25,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Sat.Br refs (2-5-1-13, 5-4-3-17, 2-5-2-37) + quote 'sa etaan maindriim marutvatiim..' garbled; 1-64-4, 1-64-10",
+  "answer": ""
+ },
+ {
+  "pdf": 243,
+  "printed": 223,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.223: 1-113-1, 1-80-30?, 1-100-11, 1-101-8",
+  "answer": ""
+ },
+ {
+  "pdf": 244,
+  "printed": 224,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.224: 6-11-6, 7-32-27?, 10-28-2?, 1-164-9, 1-165-11, Ni. 2-?; 1-173-13",
+  "answer": ""
+ },
+ {
+  "pdf": 245,
+  "printed": 225,
+  "crop": [
+   0.1,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "p.225: Ni. 10-42? quote on abhyaasa; Parucchepa sukta ref (1-?), Rg 1-113-18; quote 'uktaarthaanaamapi...' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 248,
+  "printed": 228,
+  "crop": [
+   0.55,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "quotes 6-66-10/11 garbled readings; epithet list 'vishvaih vishvaasah vishvayomarut'; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 249,
+  "printed": 229,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.229: 1-64-6, 1-47-9?, 4-4-8?, 10-?-2 dAnu, 1-32-9, 2-30-8, 8-68-1",
+  "answer": ""
+ },
+ {
+  "pdf": 250,
+  "printed": 230,
+  "crop": [
+   0.2,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "refs p.230: Ni. 2-17? ahigopaah; 2-34-13; SBE XXXII p.293",
+  "answer": ""
+ },
+ {
+  "pdf": 251,
+  "printed": 231,
+  "crop": [
+   0.5,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhaashya: 'upalopamah kashina' garbled phrase; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 252,
+  "printed": 232,
+  "crop": [
+   0.3,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Ni. 6-? rinjati; 4-8-1 quote 'yajishtham'",
+  "answer": ""
+ },
+ {
+  "pdf": 254,
+  "printed": 234,
+  "crop": [
+   0.1,
+   0.25,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhaashya 'mamaa vishah'; 'tRndyaat tRNam' fragment; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 256,
+  "printed": 236,
+  "crop": [
+   0.62,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Suk 173 heading Sanskrit: gaayat saama; gaayatstotriiyaa [?] ; Aash 8-7?",
+  "answer": ""
+ },
+ {
+  "pdf": 258,
+  "printed": 238,
+  "crop": [
+   0.65,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Aitareya Brahmana quote (3-20?) garbled; zoom 200dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 259,
+  "printed": 239,
+  "crop": [
+   0.4,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Aitareya Br. quotes (3-20, 3-16) readings garbled; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 260,
+  "printed": 240,
+  "crop": [
+   0.65,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-73-11? and Harward Oriental Series ref (vol 25 p 245)",
+  "answer": ""
+ },
+ {
+  "pdf": 262,
+  "printed": 242,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta sama derivation (7-12?) and Ait.Br quote ruk ca vaa idamagre.. garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 262,
+  "printed": 242,
+  "crop": [
+   0.75,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya/Satapatha quote tadyathaa pituh putram... garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 263,
+  "printed": 243,
+  "crop": [
+   0.05,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha quote pati.. garbled; ref numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 264,
+  "printed": 244,
+  "crop": [
+   0.5,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya quotes and ref numerals (1-7-6, 1-7-8/9, 2-1-4) small type",
+  "answer": ""
+ },
+ {
+  "pdf": 265,
+  "printed": 245,
+  "crop": [
+   0.15,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya words vavrdhanam svarvat and Nirukta refs; several ref numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 246,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-164-26 and 1-160-3 and Nirukta refs small type; dhenu/go quotes",
+  "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 247,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-14, 5-4 and Rg refs 1-50-5, 1-68-10, 2-2-2 small type; tmana vahanto quote garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 268,
+  "printed": 248,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 8-92-1, 8-40-11, 1-136-3, 6-19-9 small; quotes partly doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 269,
+  "printed": 249,
+  "crop": [
+   0.05,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar notes: sutra numerals small; veh derivation uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 270,
+  "printed": 250,
+  "crop": [
+   0.28,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya rik 2 dense: svedu-havyaih, dugdha-haviskaih, 'gurtodurnendra', 'itannamuka' uncertain; middle sentence after 'yadva' not read",
+  "answer": ""
+ },
+ {
+  "pdf": 272,
+  "printed": 252,
+  "crop": [
+   0.4,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-54-8, 1-177-1, 1-140-6, 1-179-1 small; quotes stuteh sravasyan.. / bhusann yodhi.. / minati sriyam.. read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 271,
+  "printed": 251,
+  "crop": [
+   0.75,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "svayamprapte-dhakam havyam phrase read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 273,
+  "printed": 253,
+  "crop": [
+   0.1,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs (1-181-8, 1-33-3, 4-22-6, 1-91-16, 3-46-2, 6-8-3, 4-30-10, 1-55-4) small; quoted verses read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 274,
+  "printed": 254,
+  "crop": [
+   0.4,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-.. and 1-20 small",
+  "answer": ""
+ },
+ {
+  "pdf": 275,
+  "printed": 255,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-140-13, 8-81-5, 9-103-1, 1-56-2 and Nirukta refs small; quotes abhi no agna / pra stosad read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 276,
+  "printed": 256,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "sutra numerals in grammar notes small type; Unadi refs unreadable",
+  "answer": ""
+ },
+ {
+  "pdf": 277,
+  "printed": 257,
+  "crop": [
+   0.45,
+   0.78,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhashya dense: bhumavyas ca, gantodvrtto, rodasyorantaravak, vakteh kvib sentence read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 279,
+  "printed": 259,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Aitareya Brahmana quotes: first quote garbled in places; refs 1-2, 6-5, 3-2 small",
+  "answer": ""
+ },
+ {
+  "pdf": 280,
+  "printed": 260,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs; Rg refs 8-96, 10-17-8; Satapatha ref 8-4-3-10; quote read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 282,
+  "printed": 262,
+  "crop": [
+   0.5,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 Samhita/Pada: karmaasatara / asatara word reading uncertain (zoom needed)",
+  "answer": ""
+ },
+ {
+  "pdf": 282,
+  "printed": 262,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar notes sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 283,
+  "printed": 263,
+  "crop": [
+   0.2,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya tail: krno chandasi... luk / jitvad guna sentence read approx; 'tavi sugmyah'",
+  "answer": ""
+ },
+ {
+  "pdf": 284,
+  "printed": 264,
+  "crop": [
+   0.45,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs for cyautna quotes (8-.., 6-18-8) small; Nirukta refs 2-9, 3-9",
+  "answer": ""
+ },
+ {
+  "pdf": 285,
+  "printed": 265,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 6-13-2, 6-58-4, 7-39-4 small; Nirukta nasatya ref 6-13; quote te hi yajnesu read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 286,
+  "printed": 266,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar notes: Panini/Unadi sutra numerals small type",
+  "answer": ""
+ },
+ {
+  "pdf": 287,
+  "printed": 267,
+  "crop": [
+   0.4,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 bhashya tail (pratipurvad ancateh kvinantat.. luptanakarat..) dense; read approx; Rg ref 2-16-6 small",
+  "answer": ""
+ },
+ {
+  "pdf": 290,
+  "printed": 270,
+  "crop": [
+   0.25,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 Pada word bhuma/bhuma uncertain; Samhita kakshye naasmai / bhuma",
+  "answer": ""
+ },
+ {
+  "pdf": 290,
+  "printed": 270,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhashya dense; 'iisve', 'nara nalam', 'bhrno loT chandasah' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 289,
+  "printed": 269,
+  "crop": [
+   0.35,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; Rg ref 3-35-6",
+  "answer": ""
+ },
+ {
+  "pdf": 292,
+  "printed": 272,
+  "crop": [
+   0.2,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta kakshya quote garbled (kakso gahateh kasa iti..); refs 2-?, 3-?; Rg 10-94-7, 5-32-2",
+  "answer": ""
+ },
+ {
+  "pdf": 291,
+  "printed": 271,
+  "crop": [
+   0.62,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "itttha: Nirukta refs 5-5, 3-16, 6-3 small; Rg 5-32-2 quote tyam cid ittha.. read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 293,
+  "printed": 273,
+  "crop": [
+   0.1,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-2-1, 1-170-4, 2-1-7, 6-74-1 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 294,
+  "printed": 274,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-113-13, 8-10-6, 8-20-7, 5-.., 4-26-4, 10-27-19 small; vi vidyuto na vrstibhi quote garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 295,
+  "printed": 275,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-30-5, 5-56-8; Nirukta 6-1, 11-49 small",
+  "answer": ""
+ },
+ {
+  "pdf": 296,
+  "printed": 276,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-167-4/5, 6-66-6 small; rodasa sabdena quote and joshad yad im.. read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 277,
+  "crop": [
+   0.05,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 6-50-5 small; quote mimayaksa yesu.. read approx; Brhaddevata refs 2-143, 4-6",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 278,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type",
+  "answer": ""
+ },
+ {
+  "pdf": 299,
+  "printed": 279,
+  "crop": [
+   0.12,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 7 bhashya dense: 'urunyatiprabhutani', 'prapathintamam prakrstamargetamam', 'samanaprtiyuktasta..' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 280,
+  "crop": [
+   0.45,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-17, 9-17(?), 10-8; Rg ref 6-75-14 small; quote aa janghanti.. read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 301,
+  "printed": 281,
+  "crop": [
+   0.1,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-7, 2-17, 11-12, 3-16 small",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 282,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs (1-22-20, 1-61-3, 1-122-8, 6-23-10, 10-83-6, 1-141-8) small; 'mamhistham acchoktibhir' quote and following 'viparyayam' read approx; Brhaddevata 4-36",
+  "answer": ""
+ },
+ {
+  "pdf": 304,
+  "printed": 284,
+  "crop": [
+   0.3,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 bhashya: 'udakasamudravanapadanabhute', 'stotradipreyitrn stotrjananasi' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 303,
+  "printed": 283,
+  "crop": [
+   0.2,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type",
+  "answer": ""
+ },
+ {
+  "pdf": 305,
+  "printed": 285,
+  "crop": [
+   0.65,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Taittiriya Samhita quote prajapatir vava jyesthah.. garbled/approx; ref small",
+  "answer": ""
+ },
+ {
+  "pdf": 306,
+  "printed": 286,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Tai.Sam 6-1-1-4,5; Atharva 9-1-2?; Ait.Br 13-6 refs small; Rbhu quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 307,
+  "printed": 287,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br quote tebhyas trtiyasavane.. garbled in middle; refs 6-13, 12-2 small",
+  "answer": ""
+ },
+ {
+  "pdf": 307,
+  "printed": 287,
+  "crop": [
+   0.75,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya lokadvaram quote with omission; ref small",
+  "answer": ""
+ },
+ {
+  "pdf": 309,
+  "printed": 289,
+  "crop": [
+   0.05,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Chandogya 3-16-4..7 refs small; quotes read from image",
+  "answer": ""
+ },
+ {
+  "pdf": 310,
+  "printed": 290,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha quote garbled in places; ref 3-2-1-53..59? small",
+  "answer": ""
+ },
+ {
+  "pdf": 311,
+  "printed": 291,
+  "crop": [
+   0.45,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-10, 2-11 and story quotes (devapi, santanu) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 312,
+  "printed": 292,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-98-5, 10-149-1, 9-73-3 small; 'pavitravantah' quote read approx; Nirukta ref 2-5",
+  "answer": ""
+ },
+ {
+  "pdf": 314,
+  "printed": 294,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 9 bhashya dense: 'sobhanatedrupasahaya', 'phalaprapayen' read approx; Samhita first word asama(asamu?)",
+  "answer": ""
+ },
+ {
+  "pdf": 313,
+  "printed": 293,
+  "crop": [
+   0.05,
+   0.25,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha ref 1-9-3-16? small",
+  "answer": ""
+ },
+ {
+  "pdf": 316,
+  "printed": 296,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type (Panini/Unadi)",
+  "answer": ""
+ },
+ {
+  "pdf": 317,
+  "printed": 297,
+  "crop": [
+   0.25,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 10 Samhita word 'sushishvo' / Pada 'sushishva' (sushipra?) uncertain - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 317,
+  "printed": 297,
+  "crop": [
+   0.5,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 10 bhashya: 'sasparddhan', 'asyam indram', 'sakhayoh' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 320,
+  "printed": 300,
+  "crop": [
+   0.28,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 11 bhashya dense; 'dhyayannarte', 'yatha nilambena', 'dirgho na vakrascenati' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 320,
+  "printed": 300,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 11 Pratipadartha: rendering of 'tirthe naccha tatrsano..' and 'sidhram a krnoti' approximate",
+  "answer": ""
+ },
+ {
+  "pdf": 321,
+  "printed": 301,
+  "crop": [
+   0.8,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref (4-?-?) and quote nahi grabhayaranah.. read approx; Nirukta ref 3-3",
+  "answer": ""
+ },
+ {
+  "pdf": 322,
+  "printed": 302,
+  "crop": [
+   0.7,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "juhuranah grammar (hvarcher.. / halo lopah) read approx; sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 324,
+  "printed": 304,
+  "crop": [
+   0.15,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 12 bhashya dense: 'mo su tyaiva', 'etatpradhnayam', 'yasya mama yavya phalenendrena..' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 324,
+  "printed": 304,
+  "crop": [
+   0.5,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 12 Pratipadartha garbled order (havismatah/mihluso etc.); rendering approximate",
+  "answer": ""
+ },
+ {
+  "pdf": 326,
+  "printed": 306,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 2-9-1? and Brh.Up 1-1-1? small; Nirukta refs 2-10, 2-17",
+  "answer": ""
+ },
+ {
+  "pdf": 327,
+  "printed": 307,
+  "crop": [
+   0.2,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 13 Samhita 'stoma(h)' final glyph after stoma uncertain (visarga vs u)",
+  "answer": ""
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-4-4, 3-54-18 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 329,
+  "printed": 309,
+  "crop": [
+   0.05,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 5-32-10, 4-4-6, 1-165-15, 1-44-11, 10-36-6 small; Nirukta refs; 'jori ca' Unadi ref 2-191?",
+  "answer": ""
+ },
+ {
+  "pdf": 330,
+  "printed": 310,
+  "crop": [
+   0.1,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 5-?-? (prkse ta visva..), 1-118-1, 10-120-6 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 331,
+  "printed": 311,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-34-4, 10-43-7, 5-57-1, 10-86-19 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 332,
+  "printed": 312,
+  "crop": [
+   0.15,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; vavrtyah grammar read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 333,
+  "printed": 313,
+  "crop": [
+   0.28,
+   0.38,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 174 heading: varga numerals (16,17?) uncertain; Anukramanika Asvalayana ref 7-12? small",
+  "answer": ""
+ },
+ {
+  "pdf": 334,
+  "printed": 314,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya: 'nnasman karmanetrnasya jamanan' and 'viseso 'sman asi raksa' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 335,
+  "printed": 315,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 2-22, 3-8; Rg refs 1-54-3, 1-24-14, 2-1-6, 1-35-7 small; quotes read from print",
+  "answer": ""
+ },
+ {
+  "pdf": 336,
+  "printed": 316,
+  "crop": [
+   0.05,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 5-42-1, 5-15-1, 2-30-3, 7-46-34?, 1-126-3, 3-56-8, 8-20-17, 8-96-9 small; several quotes (prukaprasaktro, atordhasamtha, durnasa) garbled/approx",
+  "answer": ""
+ },
+ {
+  "pdf": 337,
+  "printed": 317,
+  "crop": [
+   0.15,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-1-3, 1-173-7; M.Muller satpati passage reproduced as printed; Kannada print 'sat pati' glyph",
+  "answer": ""
+ },
+ {
+  "pdf": 338,
+  "printed": 318,
+  "crop": [
+   0.05,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta 3-13, Satapatha 9-5-1-13/18, 14-3-1-18 refs small; quotes read approx; Rg 3-39-5, 7-76-4 refs",
+  "answer": ""
+ },
+ {
+  "pdf": 339,
+  "printed": 319,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 4-2-16, 1-67-5, 1-12-7, 1-73-3 small; quotes read from print",
+  "answer": ""
+ },
+ {
+  "pdf": 340,
+  "printed": 320,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; tarutra explanation read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 341,
+  "printed": 321,
+  "crop": [
+   0.1,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhashya long/dense; many readings approx (pratnakagrah, etatsamvatsaralaksakah, kathera.., purukutsayaitannamne, netannamakam); Rg ref 1-63-2, Nirukta 6-30",
+  "answer": ""
+ },
+ {
+  "pdf": 341,
+  "printed": 321,
+  "crop": [
+   0.62,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 Pratipadartha: wording partly garbled in print; rendering approximate; continues p.322 top",
+  "answer": ""
+ },
+ {
+  "pdf": 343,
+  "printed": 323,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 1-63-7 (digit uncertain 2/7); Nirukta ref 6-31 small",
+  "answer": ""
+ },
+ {
+  "pdf": 344,
+  "printed": 324,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha 13-5-4-5?, Rg refs 4-42-8, 1-63-7, 6-20-10, 4-42-9 small; quotes read from print",
+  "answer": ""
+ },
+ {
+  "pdf": 345,
+  "printed": 325,
+  "crop": [
+   0.1,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type; danah/dart/rnoh/randhih notes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 346,
+  "printed": 326,
+  "crop": [
+   0.2,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhashya dense: 'vrto 'surapurih', 'vahutendra', 'raksoraksasasca' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs 3-4, 2-1 small",
+  "answer": ""
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "crop": [
+   0.5,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'yebhih' note read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 349,
+  "printed": 329,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya dense: 'vrtyaye na parasmaipadam', 'sibbahulam', 'tavaitat sutaye', 'trasminhimajajnapanaya' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 350,
+  "printed": 330,
+  "crop": [
+   0.8,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 1-113-1? small; quote idam sresttham jyotisam read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 351,
+  "printed": 331,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-164-32, 1-65-2, 5-21-4, 1-66-3, 1-144-4, 1-140-1 small; Nirukta 2-8, 1-12; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 352,
+  "printed": 332,
+  "crop": [
+   0.3,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 10-65-13 small; quote 'savirvi tanyatur ekapadajo' read approx; Nirukta pavi ref not read",
+  "answer": ""
+ },
+ {
+  "pdf": 353,
+  "printed": 333,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type; sesan note read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 354,
+  "printed": 334,
+  "crop": [
+   0.4,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 Samhita 'rjra' vs rjugra; bhashya dense; read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 355,
+  "printed": 335,
+  "crop": [
+   0.7,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta kutsa quote and ref 3-11 read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 356,
+  "printed": 336,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 4-26-1, 7-19-2?, 4-31-11?; Satapatha 2-1-2-11, 5-4-1-2 small; quotes garbled in places",
+  "answer": ""
+ },
+ {
+  "pdf": 357,
+  "printed": 337,
+  "crop": [
+   0.05,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-101-9?, 1-63-3?, 1-174-?, 10-49-4, 1-53-10, 8-53-2 small; quote 'ahaM piteva vetasun' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 358,
+  "printed": 338,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-86-23 ref; Nirukta follow-up passage 'tamagamuddesam...' garbled; story quote read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 359,
+  "printed": 339,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-29-1 quote 'vane na va yo nyadhayi cakan..' read approx; Nirukta cakan ref; abhike ref 3-20",
+  "answer": ""
+ },
+ {
+  "pdf": 360,
+  "printed": 340,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-61-6, 5-31-4, 1-121-12, 8-100-9; Nirukta 2-11 small",
+  "answer": ""
+ },
+ {
+  "pdf": 362,
+  "printed": 342,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhashya dense: 'mitreruna', 'ayoh', 'sacha surtah' sentences read approx - zoom needed; Pratipadartha rendering approximate",
+  "answer": ""
+ },
+ {
+  "pdf": 361,
+  "printed": 341,
+  "crop": [
+   0.15,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type (rjra, vrhatat, sprdhah, yasisat)",
+  "answer": ""
+ },
+ {
+  "pdf": 363,
+  "printed": 343,
+  "crop": [
+   0.45,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-64-5 quote 'daksasya vadite..' read approx; Nirukta refs",
+  "answer": ""
+ },
+ {
+  "pdf": 364,
+  "printed": 344,
+  "crop": [
+   0.28,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha quote urvasyasityai.. garbled; ref 3-4-1-20; other Satapatha refs 7-2-1-15?, 13-5-1-18; Rg 1-162-1, 1-96-2 refs small",
+  "answer": ""
+ },
+ {
+  "pdf": 365,
+  "printed": 345,
+  "crop": [
+   0.05,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-2-8, 2-4-2, 5-7-6 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 365,
+  "printed": 345,
+  "crop": [
+   0.45,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "apatya Nirukta quote/Durgacarya explanation read approx; Nirukta ref 3-2",
+  "answer": ""
+ },
+ {
+  "pdf": 367,
+  "printed": 347,
+  "crop": [
+   0.55,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 7 Pada: letters after upabarhanim ('kariti kah'?) unclear; zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 367,
+  "printed": 347,
+  "crop": [
+   0.68,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 7 bhashya dense: 'krantenocano va', 'cayaniyah', 'durpayonau' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 369,
+  "printed": 349,
+  "crop": [
+   0.05,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta arka quotes and refs small; Rg ref 1-10-1; dasa Nirukta ref 2-19",
+  "answer": ""
+ },
+ {
+  "pdf": 370,
+  "printed": 350,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra/Unadi numerals small type",
+  "answer": ""
+ },
+ {
+  "pdf": 372,
+  "printed": 352,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 bhashya dense: 'nabho hinsa', 'tadantasyaidam rupam', 'abhyaibhavah', 'bhetryo ghatika' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 372,
+  "printed": 352,
+  "crop": [
+   0.5,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 8 Pratipadartha wording garbled (ana/nabhah) rendering approximate",
+  "answer": ""
+ },
+ {
+  "pdf": 374,
+  "printed": 354,
+  "crop": [
+   0.12,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type (aguh, bhinat, nanamah, piyoh)",
+  "answer": ""
+ },
+ {
+  "pdf": 375,
+  "printed": 355,
+  "crop": [
+   0.4,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 9 bhashya: 'tadvat ksantetah' phrase and 'jalapratirodhakaryasurah' read approx; Rg ref 5-31-8",
+  "answer": ""
+ },
+ {
+  "pdf": 376,
+  "printed": 356,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta refs for dhuni (5-12?), dhunayah (1-24?), svasti quote read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 377,
+  "printed": 357,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 10-63-16, Nirukta svasti passage (11-44?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 378,
+  "printed": 358,
+  "crop": [
+   0.7,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 10 bhashya: 'vidva', 'nrpabhodde nuvadah', 'sahodastasamarthyah' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 379,
+  "printed": 359,
+  "crop": [
+   0.62,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 10-15-1 small; Nirukta avrka passage read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 380,
+  "printed": 360,
+  "crop": [
+   0.4,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type",
+  "answer": ""
+ },
+ {
+  "pdf": 381,
+  "printed": 361,
+  "crop": [
+   0.12,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 175 Anukramanika text garbled in places (caiyam kusariniyaro..., tritiviseshavacanena, abhijidvaihat..); Asvalayana ref 8-5?",
+  "answer": ""
+ },
+ {
+  "pdf": 381,
+  "printed": 361,
+  "crop": [
+   0.72,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 175 heading: varga numeral (18?) uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 382,
+  "printed": 362,
+  "crop": [
+   0.45,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya: 'annam va yad yatrptisadbhavat..' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 383,
+  "printed": 363,
+  "crop": [
+   0.5,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Asvalayana sutra quote + Narayana vrtti read approx; refs 8-5?, Ait.Br 4-18?",
+  "answer": ""
+ },
+ {
+  "pdf": 384,
+  "printed": 364,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br quote tasya vai deva adityasya.. garbled/approx; Haug text in Devanagari glyphs (svrn, sattra) uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 385,
+  "printed": 365,
+  "crop": [
+   0.12,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br quote teshAm vai deva saptadasanAm.. garbled; ref 4-19; Satapatha ref 8-1-1-8",
+  "answer": ""
+ },
+ {
+  "pdf": 386,
+  "printed": 366,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha refs 12-1-2-2?, 12-1-2-13?, 12-1-4-2? small; quotes approx",
+  "answer": ""
+ },
+ {
+  "pdf": 387,
+  "printed": 367,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Eggling quote with Devanagari glyphs inside English: reproduced as printed; verify words (padanusvarani, hayikarasvarani)",
+  "answer": ""
+ },
+ {
+  "pdf": 388,
+  "printed": 368,
+  "crop": [
+   0.2,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra/Unadi numerals small type (matsi, apayi, matsarah, madah, indu, sahasrasatamah)",
+  "answer": ""
+ },
+ {
+  "pdf": 389,
+  "printed": 369,
+  "crop": [
+   0.38,
+   0.46,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 Pada word sahasvan vs sahavan (print 'sahsvan'?) - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 390,
+  "printed": 370,
+  "crop": [
+   0.35,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-29-9, 3-49-2, 3-16-2 small; quotes read approx; Nirukta 2-17",
+  "answer": ""
+ },
+ {
+  "pdf": 391,
+  "printed": 371,
+  "crop": [
+   0.1,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta matsara quote and ref (2-25?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 392,
+  "printed": 372,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 bhashya last sentence 'yogadhikari san yoni na yajate' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 393,
+  "printed": 373,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta ratha derivation (9-12?) and Rg 6-47-26 read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 394,
+  "printed": 374,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-178-1; Nirukta refs 2-9, 7-23?, 7-15? small",
+  "answer": ""
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "crop": [
+   0.1,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 6-18-3, 6-45-24 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 396,
+  "printed": 376,
+  "crop": [
+   0.45,
+   0.88,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya dense: 'ekanemi', 'sayajasi', 'kartanasadhanam', 'tadupalaksitaih' read approx; Rg refs 5-29-10, 1-106-6, 4-16-12 small",
+  "answer": ""
+ },
+ {
+  "pdf": 397,
+  "printed": 377,
+  "crop": [
+   0.7,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Sruti quote yo va anucanaste kavayah and Nirukta ref (3-15?, 12-13?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 398,
+  "printed": 378,
+  "crop": [
+   0.15,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 5-81-2, 1-105-15, 10-5-2 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 399,
+  "printed": 379,
+  "crop": [
+   0.05,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-71-1, 10-71-3, 5-29-10; Satapatha quote ayur etejo.. garbled, ref 14-1-3-26?",
+  "answer": ""
+ },
+ {
+  "pdf": 400,
+  "printed": 380,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-51-6, 4-16-12, 1-54-5, 1-33-12 small; Nirukta 2-9; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 401,
+  "printed": 381,
+  "crop": [
+   0.05,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 4-26-1, 7-19-2, 4-1-11?, 1-63-3, 1-121-9 small; Satapatha refs 2-1-2-11, 5-4-1-2; quotes approx",
+  "answer": ""
+ },
+ {
+  "pdf": 402,
+  "printed": 382,
+  "crop": [
+   0.05,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-49-4, 1-53-10, 8-53-2, 1-129-6?, 2-20-2?, 6-20-4?, 7-56-17 small",
+  "answer": ""
+ },
+ {
+  "pdf": 403,
+  "printed": 383,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 bhashya: 'ubhayatrayasmayodini chandasiti bhasamjnayo badhitatvan na lopah' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 404,
+  "printed": 384,
+  "crop": [
+   0.65,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta kratu ref (2-28?, 10-10?); Rg 2-12-1 small",
+  "answer": ""
+ },
+ {
+  "pdf": 405,
+  "printed": 385,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-13-11?, 1-91-2, 7-90-5? small; quotes read approx; Chandogya ref 3-14-1",
+  "answer": ""
+ },
+ {
+  "pdf": 406,
+  "printed": 386,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Sankara bhashya quote read approx with dots; Satapatha ref 10-6-3-1 small",
+  "answer": ""
+ },
+ {
+  "pdf": 407,
+  "printed": 387,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-5-4, 1-80-15?, 1-100-14; Isa 17, Brh.Up 5-15-1?, Ait.Up 3-2 refs small; Ait Up quote with dots",
+  "answer": ""
+ },
+ {
+  "pdf": 408,
+  "printed": 388,
+  "crop": [
+   0.12,
+   0.28,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 7-25-3?; Nirukta dyumna passage read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "crop": [
+   0.5,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 Samhita/Pada 'nivida/nividam' reading: print shows nividam in Pada; Samhita 'nividam' - zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhashya: 'mayu iva' / 'stotrbhyah stotrbhyah' doubling; Panini 1-4-85 small",
+  "answer": ""
+ },
+ {
+  "pdf": 411,
+  "printed": 391,
+  "crop": [
+   0.05,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Brhaddevata 3-30? quote garbled; Rg ref 1-24-3 small",
+  "answer": ""
+ },
+ {
+  "pdf": 411,
+  "printed": 391,
+  "crop": [
+   0.4,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br passages (ref 10-1, 11-10) read approx; spans pages",
+  "answer": ""
+ },
+ {
+  "pdf": 412,
+  "printed": 392,
+  "crop": [
+   0.05,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br long nivid passage (ref 11-11?) very garbled; Devanagari transcription approximate, many [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 413,
+  "printed": 393,
+  "crop": [
+   0.55,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br nivid passage (ekam parisisya ... prayascittih) garbled; ref 11-11",
+  "answer": ""
+ },
+ {
+  "pdf": 414,
+  "printed": 394,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-57-1, 10-57-2, 1-89-3, 2-36-6, 4-18-6, 6-62-10 small; Ait.Br 10-2",
+  "answer": ""
+ },
+ {
+  "pdf": 415,
+  "printed": 395,
+  "crop": [
+   0.1,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "Ai.Br janistha ugrah quote second half read approx; refs 1-2-2?, Rg 10-73?, 6-19?, Sankhayana Aranyaka 1-3? small",
+  "answer": ""
+ },
+ {
+  "pdf": 416,
+  "printed": 396,
+  "crop": [
+   0.2,
+   0.32,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 176 Anukramanika text partly garbled (purvah kratusabdat.. tritya-ktvad); heading varga numeral (19?) uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 417,
+  "printed": 397,
+  "crop": [
+   0.07,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya second sentence: 'atyantantike', 'tvatsamarthyena palayitah' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 418,
+  "printed": 398,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 9-113-7/10/11 small (digits read); 3-32-10 quote read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 419,
+  "printed": 399,
+  "crop": [
+   0.05,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 2-15-2, 9-96-19, 1-129-6 small; quotes (avamse dyam.., govit pavasva..) read approx; Nirukta 10-42",
+  "answer": ""
+ },
+ {
+  "pdf": 420,
+  "printed": 400,
+  "crop": [
+   0.05,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-30-9, 1-100-8 small; 'rghnan hantiti rgha' Sayana gloss read approx; Nirukta 2-10",
+  "answer": ""
+ },
+ {
+  "pdf": 421,
+  "printed": 401,
+  "crop": [
+   0.62,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhashya dense; 'vrtyaye', 'tasminneva siddhe', 'anumanyate'?, 'cakrsat kramenadadate' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 422,
+  "printed": 402,
+  "crop": [
+   0.7,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 3-43-2; Satapatha ref 5-33-1; Nirukta 3-7 small; quotes approx",
+  "answer": ""
+ },
+ {
+  "pdf": 423,
+  "printed": 403,
+  "crop": [
+   0.05,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 1-96-4?, 1-109-3, 1-113-13 small; Nirukta 1-12, 2-7; haviṣā jāro quote read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 424,
+  "printed": 404,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Max Muller quote: Kannada-set Sanskrit words inside English; reproduced as printed; 'maya' vs 'mayaya' glyph",
+  "answer": ""
+ },
+ {
+  "pdf": 425,
+  "printed": 405,
+  "crop": [
+   0.6,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar: carsaninam sutra name 'namanyatarasyam' read approx; Unadi ref small; Rg refs 4-26-4, 10-27-19, 8-20-7, 7-35-13 small",
+  "answer": ""
+ },
+ {
+  "pdf": 426,
+  "printed": 406,
+  "crop": [
+   0.58,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 3 Pada word asmadhruk/asmadruk (dh vs d) uncertain; zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 407,
+  "printed": 387,
+  "crop": [
+   0.82,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta ref 3-7?; number of names of men (25?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 428,
+  "printed": 408,
+  "crop": [
+   0.05,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-20-4, 1-100-15, 10-53-4; Nirukta 3-8 small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "crop": [
+   0.05,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Brhaddevata refs (7-66..72? first digit 2/7) and verse texts read approx; Ait.Br 3-31-5?",
+  "answer": ""
+ },
+ {
+  "pdf": 430,
+  "printed": 410,
+  "crop": [
+   0.3,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 4-4-3, 7-61-3 small; quotes approx",
+  "answer": ""
+ },
+ {
+  "pdf": 431,
+  "printed": 411,
+  "crop": [
+   0.55,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 4 bhashya: 'ayam sarvanudattah sarvasabdaparyayah / ayasvan sarvan' phrase read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 431,
+  "printed": 411,
+  "crop": [
+   0.1,
+   0.3,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals (3-2-61, 8-2-32, 8-2-37, 5-1-66, 6-4-36, 6-4-22) small type",
+  "answer": ""
+ },
+ {
+  "pdf": 433,
+  "printed": 413,
+  "crop": [
+   0.1,
+   0.2,
+   0.05,
+   0.95
+  ],
+  "note": "p.413 begins mid-rik: first half of quote 'mamhistham acchoktibhih..' missing in print (page break) - verify pp.412/413 junction; Rg ref 1-61-3",
+  "answer": ""
+ },
+ {
+  "pdf": 434,
+  "printed": 414,
+  "crop": [
+   0.45,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 5 bhashya dense: 'sanusanga satatyam', 'tadavah arakshah', 'jayapraptasaktidhanatarpanena' read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 435,
+  "printed": 415,
+  "crop": [
+   0.75,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta dvibarhah ref (6-17?) small",
+  "answer": ""
+ },
+ {
+  "pdf": 436,
+  "printed": 416,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 6-19-1, 10-106-4?, 10-63-3?, 1-10-1; Nirukta 3-4; Ai.Ar 1-4-1 small",
+  "answer": ""
+ },
+ {
+  "pdf": 437,
+  "printed": 417,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 1-7-1; Brh.Up 1-2-1,2; Satapatha 10-3-4-1,2 refs small; Satapatha quotes read approx; 'kyani' doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 438,
+  "printed": 418,
+  "crop": [
+   0.08,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha arka passages (10-3-4-3, 10-3-4-5) long, repetitive, read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 439,
+  "printed": 419,
+  "crop": [
+   0.05,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha passages 10-4-1-9/10/21 (digits 9/10/30?) read approx; dots in print; Nirukta vaja refs (3-9 twice?)",
+  "answer": ""
+ },
+ {
+  "pdf": 440,
+  "printed": 420,
+  "crop": [
+   0.08,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra/Unadi numerals small; 'anidtam hala' sutra name as read",
+  "answer": ""
+ },
+ {
+  "pdf": 441,
+  "printed": 421,
+  "crop": [
+   0.05,
+   0.12,
+   0.05,
+   0.95
+  ],
+  "note": "Panini 1-4-85 digits read again (matches p.389 note); Rik 6 text repeats Sukta 175 rik 6",
+  "answer": ""
+ },
+ {
+  "pdf": 442,
+  "printed": 422,
+  "crop": [
+   0.15,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "Bṛ.De 3-30?, Rg 1-24-3, Ait.Br 10-1 refs small; quotes approx (same as pp.391-392)",
+  "answer": ""
+ },
+ {
+  "pdf": 443,
+  "printed": 423,
+  "crop": [
+   0.05,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br nivid passages repeat 391-394; text garbled in print; ref 11-10 / 11-11",
+  "answer": ""
+ },
+ {
+  "pdf": 444,
+  "printed": 424,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Ait.Br ekam parisisya passage repeats 393; garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 445,
+  "printed": 425,
+  "crop": [
+   0.4,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 10-57-1/2, 1-89-3, 2-36-6, Ait.Br 10-2 small (match pp.394-395)",
+  "answer": ""
+ },
+ {
+  "pdf": 446,
+  "printed": 426,
+  "crop": [
+   0.05,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Ai.Ar/Ai.Br janistha ugrah ref: print 'ai. a. 1-2-2' vs text says Aitareya Brahmana; Rg 4-18-6, 6-62-10",
+  "answer": ""
+ },
+ {
+  "pdf": 447,
+  "printed": 427,
+  "crop": [
+   0.18,
+   0.28,
+   0.05,
+   0.95
+  ],
+  "note": "Sukta 177 Anukramanika: hotrakasastresu... text and Asvalayana ref (8-7?) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 448,
+  "printed": 428,
+  "crop": [
+   0.1,
+   0.22,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 1 bhashya: 'ajanatvagacchatu va' phrase read approx - zoom needed",
+  "answer": ""
+ },
+ {
+  "pdf": 449,
+  "printed": 429,
+  "crop": [
+   0.3,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-100-1?, 5-39-4?, 4-38-10; Nirukta 10-18? small; Keith quote with Kannada-set Sanskrit",
+  "answer": ""
+ },
+ {
+  "pdf": 450,
+  "printed": 430,
+  "crop": [
+   0.05,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 6-18-2, 6-32-3?, 10-50-1; Nirukta 3-7, 10-3, 11-9; Ait.Br 1-5? small; quotes approx",
+  "answer": ""
+ },
+ {
+  "pdf": 451,
+  "printed": 431,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type (carsanipra, vrsabha, krstinam, sravasyan, madryak, yuktva)",
+  "answer": ""
+ },
+ {
+  "pdf": 452,
+  "printed": 432,
+  "crop": [
+   0.2,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 2 bhashya: 'taana tistha asraya' and 'arvajasmadabhimukham' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 453,
+  "printed": 433,
+  "crop": [
+   0.4,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs 3-35-4, 1-56-1, 1-190-4? small; quotes read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 454,
+  "printed": 434,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'ajjhanasyerasuk' sutra name garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 455,
+  "printed": 435,
+  "crop": [
+   0.15,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya tail 'madrik ... asmadabhimukham' garbled; printed English 'came' sic",
+  "answer": ""
+ },
+ {
+  "pdf": 456,
+  "printed": 436,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs of 5 quotes small type; 'tanunamapyu' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 457,
+  "printed": 437,
+  "crop": [
+   0.15,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg refs of 8 quotes small type; 'kam cidyavirarum' read; varsakah phrase",
+  "answer": ""
+ },
+ {
+  "pdf": 458,
+  "printed": 438,
+  "crop": [
+   0.45,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; Ni. ref",
+  "answer": ""
+ },
+ {
+  "pdf": 459,
+  "printed": 439,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya: 'devan gacchan bhavati' garbled; 'imani'; sutra ref A 6-10 small",
+  "answer": ""
+ },
+ {
+  "pdf": 460,
+  "printed": 440,
+  "crop": [
+   0.7,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 1-61-16? small",
+  "answer": ""
+ },
+ {
+  "pdf": 461,
+  "printed": 441,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs 1-82-5, 3-35-2, Tai.Sam 1-4-38, SB 4-4-3-2 small; hariyojana 'ety-samjnakam' phrase; svayajusah reading",
+  "answer": ""
+ },
+ {
+  "pdf": 462,
+  "printed": 442,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-19, Rg 10-20-3 (printed; std would differ), 3-19-1, SB 11-2-3-6 small",
+  "answer": ""
+ },
+ {
+  "pdf": 463,
+  "printed": 443,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small (7-1-100, 8-2-42, 6-3-135, 7-1-37, 8-3-65, 7-1-59)",
+  "answer": ""
+ },
+ {
+  "pdf": 464,
+  "printed": 444,
+  "crop": [
+   0.45,
+   0.7,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya: 'sannarvaj', 'agacchaiva', 'ma vilambayu' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 465,
+  "printed": 445,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brhaddevata and Rg refs small; 'agner tu yoni' & 'yaccaisyate' & 'pradaksinidabhi' & 'brhadagnayah' readings doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 466,
+  "printed": 446,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 467,
+  "printed": 447,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Sanskrit dense, several words garbled (syasau, tvasti, aptavyani, aptah srutayah)",
+  "answer": ""
+ },
+ {
+  "pdf": 468,
+  "printed": 448,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 6-12, Rg 7-39-4, 1-67-1, 1-69-9, 10-101-9, 10-106-4 small; last quote 'nrpativa turyai' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 469,
+  "printed": 449,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs 1-?62-1, Ni 9-3, 8-15-3, 1-53-10 small; 'etihy asau visvam' Durga explanation garbled; Monier Williams passage",
+  "answer": ""
+ },
+ {
+  "pdf": 470,
+  "printed": 450,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs 8-53-2, 2-32-2, 1-104-4, 2-14-7, SB 3-4-1-20 small; SB quote garbled; 2-32-2 'asavistha' read",
+  "answer": ""
+ },
+ {
+  "pdf": 471,
+  "printed": 451,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 2-2-1-15, Rg 2-2-8, 2-4-2, 5-2-6 small; quotes 'viksva ayoh', 'astatatim' read approx; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 472,
+  "printed": 452,
+  "crop": [
+   0.1,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'ma ni lun' sutra reading",
+  "answer": ""
+ },
+ {
+  "pdf": 473,
+  "printed": 453,
+  "crop": [
+   0.12,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya dense: 'nu puranah', 'dhinvikrnvyor a', 'kuruta', 'sutukah' glosses; read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 474,
+  "printed": 454,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 6-49-3, 1-96-5, 10-110-6, Brh.De 3-8 small",
+  "answer": ""
+ },
+ {
+  "pdf": 475,
+  "printed": 455,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-140-1, 6-16-40, AiBr 1-18, SB 11-1-8-3, BhG 3-14/15 small; SB quote garbled (yadvai tena, yathaiva, yatve); 'yadagnir agneh'",
+  "answer": ""
+ },
+ {
+  "pdf": 476,
+  "printed": 456,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 10-90-16, TS 7-3-4-3, SB 14-3-2-1 small",
+  "answer": ""
+ },
+ {
+  "pdf": 477,
+  "printed": 457,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "SB quotes 3-9-4-23 and 9-4-1-11 refs and text garbled/elided; Ni 3-9; Rg 10-3-7 text approx",
+  "answer": ""
+ },
+ {
+  "pdf": 478,
+  "printed": 458,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 4-19-2, 6-68-2; 'sutukenah' phrase; 'udravaruna' reading; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 479,
+  "printed": 459,
+  "crop": [
+   0.1,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'dvyaco atastinah' assigned to sutukah as printed (odd)",
+  "answer": ""
+ },
+ {
+  "pdf": 480,
+  "printed": 460,
+  "crop": [
+   0.12,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya 'stotvanodyanta' garbled; 'na lokavyaya' sutra tail",
+  "answer": ""
+ },
+ {
+  "pdf": 481,
+  "printed": 461,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 10-110-7, Brh.De 2-22/2-27, Rg 2-43-1 small; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 482,
+  "printed": 462,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 dense Sanskrit; middle part (vivaci ... samarye) read approx; 'satyakaryayam' etc",
+  "answer": ""
+ },
+ {
+  "pdf": 483,
+  "printed": 463,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ni ref 2-9 small; Rg 7-70-6? small; 'maryah manusyah' derivation text",
+  "answer": ""
+ },
+ {
+  "pdf": 484,
+  "printed": 464,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 2-21-2, Ni 3-13, grammar sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 485,
+  "printed": 465,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'mr prana-tyage' root; sutra 3-1-123 name garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 486,
+  "printed": 466,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-9, Ni 1-7, Rg 2-11-21 small; 'opulent' first letter faint",
+  "answer": ""
+ },
+ {
+  "pdf": 487,
+  "printed": 467,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 14-1-1-13, Rg 7-99-5; syama 'lan/lin' as printed; sutra 8-3-87 name; numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 488,
+  "printed": 468,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Anukramanika text of Suk 179 garbled in places (agastyasisyair drstatvat...); verify; Varga 22 numeral",
+  "answer": ""
+ },
+ {
+  "pdf": 489,
+  "printed": 469,
+  "crop": [
+   0.15,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Sanskrit dense; 'urvavadharane', 'upeksase' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 490,
+  "printed": 470,
+  "crop": [
+   0.35,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Brhaddevata verses (4-57..59) small & garbled at line 2-3; refs Ni 3-9, Rg 10-40-2",
+  "answer": ""
+ },
+ {
+  "pdf": 491,
+  "printed": 471,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 4-25, Rg 10-85-39, 1-177-3 (printed 1-77-3?), sutra numerals; sutra name 'atkupvang' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 492,
+  "printed": 472,
+  "crop": [
+   0.5,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk2 dense and partly garbled; pada 'asuh hi' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 493,
+  "printed": 473,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "none serious; bhavartha reading approx",
+  "answer": ""
+ },
+ {
+  "pdf": 494,
+  "printed": 474,
+  "crop": [
+   0.12,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-9, Ni 4-19 small; Eggeling quote source ref not printed",
+  "answer": ""
+ },
+ {
+  "pdf": 495,
+  "printed": 475,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Bloomfield/Keith quotes: printed typos marked sic; script of Sanskrit words in English quote (Indic)",
+  "answer": ""
+ },
+ {
+  "pdf": 496,
+  "printed": 476,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 3-2-8, 4-2-7 small; 'karmah' with visarga in print",
+  "answer": ""
+ },
+ {
+  "pdf": 497,
+  "printed": 477,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 5-68-4 quote 'rtenrtena sapantesiram' garbled; Rg 10-154-4 'rtavana' ref small",
+  "answer": ""
+ },
+ {
+  "pdf": 498,
+  "printed": 478,
+  "crop": [
+   0.35,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk3 dense; 'stramaha', 'praptim', 'prajayantau' read approx; grammar sutra number blank",
+  "answer": ""
+ },
+ {
+  "pdf": 499,
+  "printed": 479,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "pratipadartha bracketed alt reading; spardh note",
+  "answer": ""
+ },
+ {
+  "pdf": 500,
+  "printed": 480,
+  "crop": [
+   0.1,
+   0.5,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 9-23, Rg 10-102-9, Un 2-?; sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 501,
+  "printed": 481,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 dense; 'kamu' vs 'kamah'; Ni ref 5-2 small; pratipadartha bracket alt",
+  "answer": ""
+ },
+ {
+  "pdf": 502,
+  "printed": 482,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-2, Brh.De 4-58 small; Durgacarya quote with elisions",
+  "answer": ""
+ },
+ {
+  "pdf": 503,
+  "printed": 483,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Mahabharata verses (Vana 94-95) transcribed from small print; many words uncertain (tatsvairangair, anyasagastrye, trahyatmanam); a line elided in print with dots",
+  "answer": ""
+ },
+ {
+  "pdf": 504,
+  "printed": 484,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "MBh verses cont.; ref Vana 94-95 small",
+  "answer": ""
+ },
+ {
+  "pdf": 505,
+  "printed": 485,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 5-2, Rg 10-11-2, 2-34-3?, 1-148-4 small; 'rasadgandharvirasya' read approx; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 506,
+  "printed": 486,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small (mo no dhatoh 8-2-64?)",
+  "answer": ""
+ },
+ {
+  "pdf": 507,
+  "printed": 487,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk5 dense; Saunaka 'Rgvidhana 1-26' ref; several phrases garbled (mahatvapam, akalayati, ateyo, uktaiko'yuktah)",
+  "answer": ""
+ },
+ {
+  "pdf": 508,
+  "printed": 488,
+  "crop": [
+   0.25,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref Rg 10-85-2 small",
+  "answer": ""
+ },
+ {
+  "pdf": 509,
+  "printed": 489,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 1-6-4-5, 13-1-1-2?, 1-6-3-24, Rg 1-91-15, AV 11-6-7?, Ni 6-4, Ni 11-23 small",
+  "answer": ""
+ },
+ {
+  "pdf": 510,
+  "printed": 490,
+  "crop": [
+   0.1,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'madhyama' for mrlatu as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 511,
+  "printed": 491,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk6 first line garbled (dvitiyayo sukte sasthyante...; mudgaruh; apakena sadhanam)",
+  "answer": ""
+ },
+ {
+  "pdf": 512,
+  "printed": 492,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brh.De 5-149..154 & Ni 5-13 & Rg 7-36-2? refs small; 'matsya' in verse printed",
+  "answer": ""
+ },
+ {
+  "pdf": 513,
+  "printed": 493,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 3-2-2-13, ChU 3-13-1/3, SB 4-1-4-1, 12-9-2-12 small; 'kecchaksuh' garbled; 'ubhau varnau' para",
+  "answer": ""
+ },
+ {
+  "pdf": 514,
+  "printed": 494,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 6-1-1-1, 8-6-3-23, 8-6-1-5 small; SB 8-6-3-23 quote start elided/garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 515,
+  "printed": 495,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-31-16, 9-96-18, Ni, Rgvidhana 1-147?, 1-180-7? small; MW English quote not reproduced exactly",
+  "answer": ""
+ },
+ {
+  "pdf": 516,
+  "printed": 496,
+  "crop": [
+   0.45,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Anukramanika Suk180: 'yuvor dasasvinam' vs 'darsasvinam'; sutra list of sukta numbers 180/181/183/184 & 182nd; Asv. 4-13 ref small; Un sutra name",
+  "answer": ""
+ },
+ {
+  "pdf": 517,
+  "printed": 497,
+  "crop": [
+   0.1,
+   0.35,
+   0.05,
+   0.95
+  ],
+  "note": "heading Varga numeral '23-24' as read; bhashya phrases 'asancarina','taiksnarmasu' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 518,
+  "printed": 498,
+  "crop": [
+   0.6,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "Ni 9-11 ref small; 'ramamano' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 519,
+  "printed": 499,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "many Rg/Ni refs small (6-47-26, 1-164-2, 4-19, 5-63-3, 7-34-16, 1-92-1, 4-42-6, 6-9-1); Ni khanda numbers (10th/44th, 12th/6th) read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 520,
+  "printed": 500,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-23, 3-11, 5-5, 12-30; Rg 5-53-9, 10-65-13, 10-60-2 small; Ni 12-30 quote garbled; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 521,
+  "printed": 501,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'chandasi sayajapi' sutra; Rk2 Samhita 'bharati' sandhi reading",
+  "answer": ""
+ },
+ {
+  "pdf": 522,
+  "printed": 502,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk2 first sentence garbled (rathamavavasattudu...), 'vosa', 'vese'",
+  "answer": ""
+ },
+ {
+  "pdf": 523,
+  "printed": 503,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-56-1, 1-190-4, 1-162-6, 10-95-7 small; 'svagurta' quote text approx",
+  "answer": ""
+ },
+ {
+  "pdf": 524,
+  "printed": 504,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-186-3, 1-132-10, 6-63-4, sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 525,
+  "printed": 505,
+  "crop": [
+   0.35,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rk3 Samhita word 'rtaspu' (printed glyphs) uncertain; bhashya garbled (bhogotravinyam, uvavatsvadadharayatam, amum)",
+  "answer": ""
+ },
+ {
+  "pdf": 526,
+  "printed": 506,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "printed English typos devont/froms marked sic; ref Rg 1-179-2",
+  "answer": ""
+ },
+ {
+  "pdf": 527,
+  "printed": 507,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni vana (1-15?, 1-12?), Rg 1-168-3?, 6-2-8, 6-6-4, 1-140-7 small; 'sarpanam' phrase",
+  "answer": ""
+ },
+ {
+  "pdf": 528,
+  "printed": 508,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-8, Rg 1-153-4, Ni 4-19, Rg 1-112-20 small; 'harate-malla' gloss approx",
+  "answer": ""
+ },
+ {
+  "pdf": 529,
+  "printed": 509,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-118-8, 6-62-7, 10-39-13, 2-40-2, list of aama refs small; grammar quote 'yannu padarthavisesa' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 530,
+  "printed": 510,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 garbled in places (tau cah, asalayatam); grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 531,
+  "printed": 511,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 cont. very dense and garbled (etanno, bhraksitavan, kuruta); refs TS 5-2-1, 2-1-10, Rg 1-119-6 small",
+  "answer": ""
+ },
+ {
+  "pdf": 532,
+  "printed": 512,
+  "crop": [
+   0.45,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Yaska-view sentence garbled ('akte', 'omyavantam'); ref Rg 1-119-6",
+  "answer": ""
+ },
+ {
+  "pdf": 533,
+  "printed": 513,
+  "crop": [
+   0.2,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brh.De 5-97..101 verses: line 2 'vagdiptaniyoyam', 'yadabhyaya' garbled; refs Brh.De, Rg 10-16-6 small",
+  "answer": ""
+ },
+ {
+  "pdf": 534,
+  "printed": 514,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 8-44-26, 1-117-3, 9-66-20, 10-80-3, 5-40-5/6 small; 10-80-3 last word read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 535,
+  "printed": 515,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 5-40-8/9, 5-40-2, 5-2-1, BrhU 1-2-4 small; 'gravno brahma' misprint? ; 1-180-9 cross-ref",
+  "answer": ""
+ },
+ {
+  "pdf": 536,
+  "printed": 516,
+  "crop": [
+   0.25,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "TA quotes 5-1-2 and 5-1-? garbled ('tavetad', 'khananu', 'abhitryandadameti'); cross-ref 1-180-9",
+  "answer": ""
+ },
+ {
+  "pdf": 537,
+  "printed": 517,
+  "crop": [
+   0.1,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "TA 5-1-4..6 quote garbled (jyamapyadan, vipravamanam, yadghram la); refs TA 5-3-2, 4-4-1, 4-3-1 small; Vishnu-story paraphrase 'sat resting head' per Kannada",
+  "answer": ""
+ },
+ {
+  "pdf": 538,
+  "printed": 518,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs TS 5-2-26?, 2-1-10-1, Un 1-146 small; sutra numerals; 'paśupriyatvāt' sentence garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 539,
+  "printed": 519,
+  "crop": [
+   0.5,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rk5 bhashya very dense; many words doubtful; refs Rg 1-116-3, 10-65-13, 1-116-4 small",
+  "answer": ""
+ },
+ {
+  "pdf": 540,
+  "printed": 520,
+  "crop": [
+   0.1,
+   0.8,
+   0.05,
+   0.95
+  ],
+  "note": "Pratipadartha alt readings; 'jurnih' vs 'jurnah' in pada; bhavartha split across page",
+  "answer": ""
+ },
+ {
+  "pdf": 541,
+  "printed": 521,
+  "crop": [
+   0.35,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-181-4?, Ni 2-5, small",
+  "answer": ""
+ },
+ {
+  "pdf": 542,
+  "printed": 522,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-164-28?, Ni 11-42, 3-21, 2-7, 2-9, 6-9; Rg 8-93-10, 10-95-12; 'ena satya' quote garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 543,
+  "printed": 523,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref for 'hatemusanna' quote (1-19-5?) unclear; refs 1-116/117, 8-5, 10-39 small; Rg 1-182-5..7 verses as read",
+  "answer": ""
+ },
+ {
+  "pdf": 544,
+  "printed": 524,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 4-25, 2-8, 1-7, Rg 1-182-5..7; 'amhatir ahasam' garbled; sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 545,
+  "printed": 525,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; Un sutra names 'jiryater krin' and 'amina...yaji bandhi' read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 546,
+  "printed": 526,
+  "crop": [
+   0.1,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk6 dense; 'sutvrato natiprasa...' garbled; 'pa. 7-4-50' ref",
+  "answer": ""
+ },
+ {
+  "pdf": 547,
+  "printed": 527,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-25, 5-28, 5-11, 1-12, 6-9; Rg 7-39-2, 1-176-2?, 10-129-2 small",
+  "answer": ""
+ },
+ {
+  "pdf": 548,
+  "printed": 528,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 7-39-4, Ni 6-13, Rg 5-85-6, 4-26-6 small; 'prabhute' word read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 549,
+  "printed": 529,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "many Rg/Ni refs small (9-62-4, 10-65-13, 7-35-2, 5-42-5, 3-61-1, Ni 11-2, 12-30); 'vibhvan' gloss unclear; 'naidhuto' word",
+  "answer": ""
+ },
+ {
+  "pdf": 550,
+  "printed": 530,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 10-80-1, 1-116-13, 1-117-19, 1-124-6, 1-22-20, 1-61-3, 1-122-7, Ni 3-13 small",
+  "answer": ""
+ },
+ {
+  "pdf": 551,
+  "printed": 531,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 6-33-10, 10-81-6, 1-141-5 small; grammar 'yuvethe' derivation with sutra names partly garbled; sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 552,
+  "printed": 532,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk7 dense: 'sthapitasomo', 'upasargasruteh', second 'yadva' alt garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 553,
+  "printed": 533,
+  "crop": [
+   0.4,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 3-19, 1-7, Rg 2-11-21, 10-142-1 small; 'showerer' print typo? not marked",
+  "answer": ""
+ },
+ {
+  "pdf": 554,
+  "printed": 534,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 6-13? (read 3-13?), SB 9-5-1-13/18, 14-3-1-14 small; 'satyamunnalebhire' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 555,
+  "printed": 535,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 3-39-5, 7-76-4, 7-2-16(?), 1-67-3, 1-12-7, 1-73-2, cross-ref 1-185-11? small",
+  "answer": ""
+ },
+ {
+  "pdf": 556,
+  "printed": 536,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-23-20, 1-102-5, 2-20-1, 8-66-10, Ni 3-19, 6-26, 2-17 small; paṇi bhashya second-meaning phrase garbled; 'second part' of Rgveda reading",
+  "answer": ""
+ },
+ {
+  "pdf": 557,
+  "printed": 537,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 10-108 verses 1-6 as read; ref (10-108) small; verse readings (aticakado, cakadhvam)",
+  "answer": ""
+ },
+ {
+  "pdf": 558,
+  "printed": 538,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "verse 7 'rekupadam alakam'; grammar sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 559,
+  "printed": 539,
+  "crop": [
+   0.1,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rk8 Samhitata word 'karadhuniva' vs 'karadiva'; bhashya in lower part; 'ksitayat/citayat' read; Ni ref 2-31? 2-10?",
+  "answer": ""
+ },
+ {
+  "pdf": 560,
+  "printed": 540,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-10, Rg 1-112-1; Skandasvamin cross-ref; 'kara' = conch gloss",
+  "answer": ""
+ },
+ {
+  "pdf": 561,
+  "printed": 541,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 1-131-5?, 9-101-14?, Ni 2-31, 10-5 small; Rg quote 'pasyantyaso abhi karam' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 562,
+  "printed": 542,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 563,
+  "printed": 543,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk9 dense ('yadyasmatra vahethe'); grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 564,
+  "printed": 544,
+  "crop": [
+   0.55,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Nirukta-style sentence 'rathan ramhanam adityam ... asya navasthayi syat' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 565,
+  "printed": 545,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg 1-44-2, 1-44-8 refs small; SB 14-1-1 quote long, a few word doubts (nigacchati/mantyate, tatha u iveme)",
+  "answer": ""
+ },
+ {
+  "pdf": 566,
+  "printed": 546,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "SB 14-1-1-1..9 end and TA quote garbled/elided; 'abhikti', 'tasmoparaah' doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 567,
+  "printed": 547,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "TA 5-1 quote and SB 14-3-2-16, TS 6-4-9, Ni 3-9 refs small; several words doubtful in TA quote",
+  "answer": ""
+ },
+ {
+  "pdf": 568,
+  "printed": 548,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref Rg 10-39-12; grammar sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 569,
+  "printed": 549,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk10 'agastyadya' garbled; sutra numerals small",
+  "answer": ""
+ },
+ {
+  "pdf": 570,
+  "printed": 550,
+  "crop": [
+   0.3,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; print typo 'iife' marked sic",
+  "answer": ""
+ },
+ {
+  "pdf": 571,
+  "printed": 551,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "heading Varga '25, 26' as read; Anukramanika 'kadu navety anukrantam' / 'evoktah' read approx; bhashya dense (yuvanusam, vastravya)",
+  "answer": ""
+ },
+ {
+  "pdf": 572,
+  "printed": 552,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "ref Ni 1-8 small",
+  "answer": ""
+ },
+ {
+  "pdf": 573,
+  "printed": 553,
+  "crop": [
+   0.1,
+   0.65,
+   0.05,
+   0.95
+  ],
+  "note": "AiBr 4-1 quote garbled (vimethire, sahyabhyo, ne prababhuva); Rg 10-100-4 ref/text; 'vastravya' phrase",
+  "answer": ""
+ },
+ {
+  "pdf": 574,
+  "printed": 554,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'sudhitavasudhite..' sutra name garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 575,
+  "printed": 555,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "none serious",
+  "answer": ""
+ },
+ {
+  "pdf": 576,
+  "printed": 556,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 2-25, 6-1, Rg 1-149-3, 1-190-4 small; 'nistriktam' Nirukta wording garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 577,
+  "printed": 557,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "SB ref (6-1-1-11?) and quote garbled (asru, asvatra, asvatparna); TB 3-9-6-1; Eggeling quote 'races' print typo sic",
+  "answer": ""
+ },
+ {
+  "pdf": 578,
+  "printed": 558,
+  "crop": [
+   0.1,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "cross-ref Rg 1-181-4; Samhita Rk3 'suvitaya' vs suvitayai in pada; grammar sutra numerals",
+  "answer": ""
+ },
+ {
+  "pdf": 579,
+  "printed": 559,
+  "crop": [
+   0.1,
+   0.55,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk3: 'vakrtyadarah' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 580,
+  "printed": 560,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 1-11, 3-30; Rg 2-37-3, 1-96-1, 1-102-1, 1-89-4, 6-63-6, 8-5-14, 8-35-13, 4-3-6 small; Nirukta quote 'dhrsno dhisnyo dhisano' garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 581,
+  "printed": 561,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "many refs small (10-114-9, 6-50-3, 10-44-8, 3-22-3, Ni 2-5, 2-24, 3-9, 2-13-2, 3-11-3); 'bag (cila)' gloss for dhisana; Rg 10-44-8 text 'samindrene'",
+  "answer": ""
+ },
+ {
+  "pdf": 582,
+  "printed": 562,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Rg 5-57-1, 10-86-21, 8-25-5, 1-34 small; 'sprapradanu' quote garbled",
+  "answer": ""
+ },
+ {
+  "pdf": 583,
+  "printed": 563,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals; Un sutras partly garbled; Rk4 Samhita 'samavavasitam' reading",
+  "answer": ""
+ },
+ {
+  "pdf": 584,
+  "printed": 564,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya Rk4 very dense; 'arepasapau', 'tadrgjahattva' garbled; refs Ni 12-1, 12-3, Rg 1-116-12",
+  "answer": ""
+ },
+ {
+  "pdf": 585,
+  "printed": 565,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs Ni 12-3 small; printed English typo 'tee' sic",
+  "answer": ""
+ },
+ {
+  "pdf": 586,
+  "printed": 566,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Ni 12-1 quote readings; 'vasatisu sma' mantra garbled/unspecified; Macdonell quote typos (of of, to Puzzle to) marked sic",
+  "answer": ""
+ },
+ {
+  "pdf": 587,
+  "printed": 567,
+  "crop": [
+   0.1,
+   0.6,
+   0.05,
+   0.95
+  ],
+  "note": "table typos Seholars/Hopekins/Bergaine marked sic; Rg 10-17-1/2 text; Syamasastri journal ref",
+  "answer": ""
+ },
+ {
+  "pdf": 588,
+  "printed": 568,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Brh.De verses (Sarnyu legend) transcribed from print; ref number not printed in view; Rg 3-39-3 line1 garbled; Max Muller quote ok",
+  "answer": ""
+ },
+ {
+  "pdf": 589,
+  "printed": 569,
+  "crop": [
+   0.1,
+   0.3,
+   0.1,
+   0.9
+  ],
+  "note": "Brh.De ref numerals 6-162 to 7-2 as read; Sanskrit lines as read",
+  "answer": ""
+ },
+ {
+  "pdf": 590,
+  "printed": 570,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 1-182-1 and 9-66-11 refs doubtful; verse 1 line 3 chaturakshau as read",
+  "answer": ""
+ },
+ {
+  "pdf": 591,
+  "printed": 571,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "verse ref 9-90-3 and Sanskrit words doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 591,
+  "printed": 571,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals small type, all [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 592,
+  "printed": 572,
+  "crop": [
+   0.2,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Rk5 bhasya a few words (ksiradi/ramiksa, nirupyamano) as read; Sanhita svara marks omitted",
+  "answer": ""
+ },
+ {
+  "pdf": 593,
+  "printed": 573,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 3-58-8, 4-51-5 and Ni. 3-13 small type [?]; Sanskrit as read",
+  "answer": ""
+ },
+ {
+  "pdf": 594,
+  "printed": 574,
+  "crop": [
+   0.15,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 10-61-4, 10-39-12 doubtful; Max Muller quote sic marks; 1-157-1 ok",
+  "answer": ""
+ },
+ {
+  "pdf": 595,
+  "printed": 575,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "all Rg/Ai.A./Sa.Br./Bha.U./Ni. reference numerals small type [?]; ghosa citations as read",
+  "answer": ""
+ },
+ {
+  "pdf": 596,
+  "printed": 576,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; some grammar wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 597,
+  "printed": 577,
+  "crop": [
+   0.15,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "Rk6 bhasya dense, several words as read [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 598,
+  "printed": 578,
+  "crop": [
+   0.2,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "refs Ni. 4-25, Rg 10-85-39, 10-48-7 small type [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 599,
+  "printed": 579,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ni./Rg 5-7-3 refs small type [?]; grammar sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 600,
+  "printed": 580,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "grammar wording and sutra/Unadi numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 601,
+  "printed": 581,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "Rk7 bhasya as read [?]; Ni. 3-19 ref small type",
+  "answer": ""
+ },
+ {
+  "pdf": 602,
+  "printed": 582,
+  "crop": [
+   0.25,
+   0.55,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br. quote garbled/elided in print, ref numerals [?]; Rg 1-156-2 and 1-122-10 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 603,
+  "printed": 583,
+  "crop": [
+   0.15,
+   0.7,
+   0.1,
+   0.9
+  ],
+  "note": "Bha./Rg 1-116-13, 1-33-2 refs small type [?]; Skandasvamin quote as read",
+  "answer": ""
+ },
+ {
+  "pdf": 604,
+  "printed": 584,
+  "crop": [
+   0.75,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk8 Samhita line 1 word 'gih pri' doubtful; check vs Pada",
+  "answer": ""
+ },
+ {
+  "pdf": 605,
+  "printed": 585,
+  "crop": [
+   0.2,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "Rk8 bhasya middle part (goh seke...) as read [?]; Samhita line1 corrected via Pada",
+  "answer": ""
+ },
+ {
+  "pdf": 606,
+  "printed": 586,
+  "crop": [
+   0.25,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ni. 2-20 ref small type [?]; Special Topics last line paraphrase: print ends line cut 'ittarante' check",
+  "answer": ""
+ },
+ {
+  "pdf": 607,
+  "printed": 587,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 1-34-3, 1-47-4 refs and first line as read [?]; cross ref number 1-182-? doubtful; sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 608,
+  "printed": 588,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk9 bhasya dense, several words as read [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 609,
+  "printed": 589,
+  "crop": [
+   0.55,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ni. 12-16 ref small type [?]; Special Topics cross-ref 1-180-6 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 610,
+  "printed": 590,
+  "crop": [
+   0.1,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br./Brh.De./Ai.Br. refs [?]; Ai.Br. quote garbled in print; nareveretas word doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 611,
+  "printed": 591,
+  "crop": [
+   0.1,
+   0.4,
+   0.1,
+   0.9
+  ],
+  "note": "grammar numerals [?]; Ni. ref small type",
+  "answer": ""
+ },
+ {
+  "pdf": 611,
+  "printed": 591,
+  "crop": [
+   0.45,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Sukta 182 anukramanika as read; Asv.Srauta ref 4-15 [?]; Varga numerals (header 27 / 27-28)",
+  "answer": ""
+ },
+ {
+  "pdf": 612,
+  "printed": 592,
+  "crop": [
+   0.55,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk1 bhasya garbled words (tatpadvasvinavo, vispala...) as read [?]; Rg 1-116-15 ref",
+  "answer": ""
+ },
+ {
+  "pdf": 613,
+  "printed": 593,
+  "crop": [
+   0.55,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ni./Rg 6-21-3 refs small type [?]; Nirukta quote as read",
+  "answer": ""
+ },
+ {
+  "pdf": 614,
+  "printed": 594,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ai.A., Ni. numerals [?]; Rg 6-49-8 verse first words doubtful; 'Sankaracarya' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 615,
+  "printed": 595,
+  "crop": [
+   0.3,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Visphala story quote (Sa.Bha.) as read; Ni. 8-5 ref [?]; Rg refs 1-181-4, 1-184-1 small type",
+  "answer": ""
+ },
+ {
+  "pdf": 616,
+  "printed": 596,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra/Unadi numerals [?]; wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 617,
+  "printed": 597,
+  "crop": [
+   0.4,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk2 bhasya words as read [?]; Rg 8-10-2 ref [?]; Pratipadartha 'marutvatamaa' print has marut-tama",
+  "answer": ""
+ },
+ {
+  "pdf": 618,
+  "printed": 598,
+  "crop": [
+   0.35,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Nirukta quotes (indra irAM dRNAti...) as read [?]; Ni. 10-8 ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 619,
+  "printed": 599,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 8-35-8/9, 7-72-4 [?]; Nirukta quotes (indave dravati, idam karanat) as read [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 620,
+  "printed": 600,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 7-79-3, 8-11-2 refs [?]; 'Indratevaisvaryakarmanah' heading as printed odd",
+  "answer": ""
+ },
+ {
+  "pdf": 621,
+  "printed": 601,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Bṛ.U., Rg 1-34-2, 1-119-4 refs [?]; Sa.Br. quote as read",
+  "answer": ""
+ },
+ {
+  "pdf": 622,
+  "printed": 602,
+  "crop": [
+   0.05,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "long Sa.Br. quote, several words doubtful [?]; transcribed from print",
+  "answer": ""
+ },
+ {
+  "pdf": 623,
+  "printed": 603,
+  "crop": [
+   0.1,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Brh.De. verses 3-18..21 many words doubtful [?]; Sa.Br. ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 624,
+  "printed": 604,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 625,
+  "printed": 605,
+  "crop": [
+   0.15,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Rk3 bhasya as read, several words [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 626,
+  "printed": 606,
+  "crop": [
+   0.4,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 2-34-10 ref [?]; cross-ref 1-180-2 [?]; grammar wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 627,
+  "printed": 607,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; Rk4 last word 'mamu' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 628,
+  "printed": 608,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "Rk4 bhasya second line as read ('sarvamasi' [?]); Ni. 3-9 ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 629,
+  "printed": 609,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 1-143-5, 1-144-4, 8-91-2, Ni. 7-2, 7-15 small type [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 630,
+  "printed": 610,
+  "crop": [
+   0.2,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?], wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 631,
+  "printed": 611,
+  "crop": [
+   0.2,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Rk5 bhasya dense/garbled in print, many words [?]; Rg 1-116-3/4/5 refs [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 632,
+  "printed": 612,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ni. 1-24, 2-25 refs [?]; Bhujyu paragraph paraphrase 'birugali' reading [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 633,
+  "printed": 613,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 1-52-12, 4-22-8, 2-11-?, 9-74-4 and Ni. 1-9 small type [?]; verse words as read",
+  "answer": ""
+ },
+ {
+  "pdf": 634,
+  "printed": 614,
+  "crop": [
+   0.3,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?], wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 635,
+  "printed": 615,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Rk6 bhasya words as read [?]; header Varga numeral 28 as read",
+  "answer": ""
+ },
+ {
+  "pdf": 636,
+  "printed": 616,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "A.C. Das quote typos marked; grammar sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 637,
+  "printed": 617,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra/Unadi numerals [?]; Rk7 Samhita 'paryasasvajat' letter doubtful, Pada followed",
+  "answer": ""
+ },
+ {
+  "pdf": 638,
+  "printed": 618,
+  "crop": [
+   0.1,
+   0.4,
+   0.1,
+   0.9
+  ],
+  "note": "Rk7 bhasya as read [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 639,
+  "printed": 619,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 6-19-10 first line words doubtful; grammar sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 640,
+  "printed": 620,
+  "crop": [
+   0.2,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Rk8 bhasya 'aicchrthe' word doubtful [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 641,
+  "printed": 621,
+  "crop": [
+   0.4,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Brh.De ref, Rg 1-165-?/1-1?0-? cross-refs [?]; Keith quote Kieth sic; occuring sic",
+  "answer": ""
+ },
+ {
+  "pdf": 642,
+  "printed": 622,
+  "crop": [
+   0.4,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ai.Br. quote as read [?]; Ni. 3-30 ref [?]; Rg bha. ref",
+  "answer": ""
+ },
+ {
+  "pdf": 643,
+  "printed": 623,
+  "crop": [
+   0.3,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Ai.Br. ref 10-4 [?]; grammar sutra/Unadi numerals [?]; wording as read",
+  "answer": ""
+ },
+ {
+  "pdf": 644,
+  "printed": 624,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "Sukta 183 Varga numeral 29 as read [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 645,
+  "printed": 625,
+  "crop": [
+   0.1,
+   0.4,
+   0.1,
+   0.9
+  ],
+  "note": "Rk1 bhasya as read; Rg 4-43-1 ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 646,
+  "printed": 626,
+  "crop": [
+   0.2,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Hopkins quote sic marks (deitics, Althouge, somtimes, worldtraversing); JAOS ref",
+  "answer": ""
+ },
+ {
+  "pdf": 647,
+  "printed": 627,
+  "crop": [
+   0.1,
+   0.65,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 8-39-9, 8-8-23 small type [?]; verse words as read",
+  "answer": ""
+ },
+ {
+  "pdf": 648,
+  "printed": 628,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 5-76-4, 10-1-3, 1-95-4, cross refs [?]; first word of 1-95-4 line doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 649,
+  "printed": 629,
+  "crop": [
+   0.4,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Chandogya/Brhadaranyaka abbreviation and refs [?]; Rg 3-26-7, 8-47-10 refs; verse words as read",
+  "answer": ""
+ },
+ {
+  "pdf": 650,
+  "printed": 630,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 5-43-13, 6-5-4, Sa.Br. 5-5-5-6, Tai.Sam refs [?]; Sa.Br. and Tai.Sam.Bhasya quotes garbled in print, many words doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 651,
+  "printed": 631,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "cross-ref 34th Sukta part 4 [?]; Ni. ref; grammar sutra/Unadi numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 652,
+  "printed": 632,
+  "crop": [
+   0.4,
+   0.8,
+   0.1,
+   0.9
+  ],
+  "note": "Rk2 bhasya as read [?] (annaspardhi..., upodevata...)",
+  "answer": ""
+ },
+ {
+  "pdf": 653,
+  "printed": 633,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Special Topics paraphrase of kratumanta senses; no readings in doubt except forward ref",
+  "answer": ""
+ },
+ {
+  "pdf": 654,
+  "printed": 634,
+  "crop": [
+   0.1,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 655,
+  "printed": 635,
+  "crop": [
+   0.5,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 1-34-4 ref; 1-116-15 and p.636 refs 1-117-3, 1-189-4 cross-refs as read [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 656,
+  "printed": 636,
+  "crop": [
+   0.1,
+   0.65,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 10-122-6, 7-69-3, 1-63-8 [?]; grammar numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 657,
+  "printed": 637,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rk4 bhasya as read [?]; Unadi/Pan. numerals [?]; Pada 'dasra imi' split",
+  "answer": ""
+ },
+ {
+  "pdf": 658,
+  "printed": 638,
+  "crop": [
+   0.3,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "printed English typos protcction/obandon marked sic; Rg 1-118-8 cross-ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 659,
+  "printed": 639,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Yaska/Sayana quotes as read [?]; Ni. 5-20 ref [?]; Rg 1-105-18",
+  "answer": ""
+ },
+ {
+  "pdf": 660,
+  "printed": 640,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg 1-112-8, 8-66-8, Ni. 5-21/5-31 refs [?]; Bhasya quote as read; middle paragraph (sheep/she-ass) paraphrase uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 661,
+  "printed": 641,
+  "crop": [
+   0.1,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; Rk5 Samhita 'yanta me' vs Pada 'yanta a me'",
+  "answer": ""
+ },
+ {
+  "pdf": 662,
+  "printed": 642,
+  "crop": [
+   0.1,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "Rk5 bhasya garbled in print, many words [?]; Pratipadartha rendering of 'rjuyeva' phrase uncertain",
+  "answer": ""
+ },
+ {
+  "pdf": 663,
+  "printed": 643,
+  "crop": [
+   0.2,
+   0.98,
+   0.1,
+   0.9
+  ],
+  "note": "long Brh.De. verse passage 5-50..80 in small type: many words doubtful [?]; transcribed from print, needs zoom pass",
+  "answer": ""
+ },
+ {
+  "pdf": 664,
+  "printed": 644,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Brh.De. verses continued, many words doubtful [?]; Rg 5-61-1 ref",
+  "answer": ""
+ },
+ {
+  "pdf": 665,
+  "printed": 645,
+  "crop": [
+   0.5,
+   0.98,
+   0.1,
+   0.9
+  ],
+  "note": "Sayana's verse passage (Atreya/Syavasva story) in small type: many words doubtful [?]; needs zoom pass",
+  "answer": ""
+ },
+ {
+  "pdf": 666,
+  "printed": 646,
+  "crop": [
+   0.1,
+   0.98,
+   0.1,
+   0.9
+  ],
+  "note": "Muller quote typos benifits/cnmmentator/draw marked sic; SBE ref; Rg 5-61-6,10 refs [?]; Tandya Br. attribution [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 667,
+  "printed": 647,
+  "crop": [
+   0.15,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Sayana quotes as read [?]; Sa.Bha. 1-81-? ref and 74-93 range [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 668,
+  "printed": 648,
+  "crop": [
+   0.1,
+   0.5,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br. quote with print gap; Rg 5-26-3, 8-44-11, 5-26-2 refs [?]; Sa.Br. 1-4-1-10..15 ref [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 669,
+  "printed": 649,
+  "crop": [
+   0.45,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Sa.Br. 11-4-3-20 quote garbled in print, many words [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 670,
+  "printed": 650,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Bṛ.U. ref, Rg 1-180-4 ref [?]; grammar sutra numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 671,
+  "printed": 651,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "Rk6 bhasya 'tamanahetoh' [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 672,
+  "printed": 652,
+  "crop": [
+   0.4,
+   0.98,
+   0.1,
+   0.9
+  ],
+  "note": "Bṛ.U. 6-2-15/16 quotes as read, gaps in print; refs [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 673,
+  "printed": 653,
+  "crop": [
+   0.5,
+   0.75,
+   0.1,
+   0.9
+  ],
+  "note": "thirteen devayana reference numerals small type unread [?]; Rg 10-2-7 ok",
+  "answer": ""
+ },
+ {
+  "pdf": 674,
+  "printed": 654,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 7-76-2, 10-51-2, 10-51-5 [?]; 'amardhantah' epithet readings",
+  "answer": ""
+ },
+ {
+  "pdf": 675,
+  "printed": 655,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Rg refs 10-98-11, 1-72-7, 10-88-15, 1-35-2 [?]; 10-98-11 line 2 words as read",
+  "answer": ""
+ },
+ {
+  "pdf": 676,
+  "printed": 656,
+  "crop": [
+   0.1,
+   0.95,
+   0.1,
+   0.9
+  ],
+  "note": "Chandogya/Mundaka refs and abbreviations [?]; grammar numerals [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 677,
+  "printed": 657,
+  "crop": [
+   0.1,
+   0.6,
+   0.1,
+   0.9
+  ],
+  "note": "colophon Sanskrit as read; compound titles glossed tentative",
+  "answer": ""
+ }
+]
