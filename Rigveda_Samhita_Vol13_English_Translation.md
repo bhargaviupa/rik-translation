@@ -9561,4 +9561,42 @@ Thus the order of origin of the *svarasāma* days, which are the chief part and 
 
 ---
 
-**Progress note:** printed p. 366 (PDF 386) done — Sūkta 175 Ṛk 1 Special Topics (svarasāman days; Eggling quotation continues p. 367). Next: printed p. 367 (PDF 387). Open flags: Ai.Brā./Śa.Brā. refs and quotes partly garbled [?]; review/doubts_v13.json.
+### Printed p. 367  (PDF 387)
+
+*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+
+> 'स्वारसामन्' is called a chanted verse which has no special concluding निधन or finale, but in which the स्वरित (circumflex), or first rising then falling pitch of the final vowel, takes the plan of the finale; whence स्वार is often explained by स्वरनिधन i. e. having the स्वरित for its निधन. In पञ्चविंशब्राह्मण (IX. 3. 11) the स्वारसामन् is prescribed in case the Udgatris have previously committed an excess in their chanting…………In Latyayana Srauta Sutra (VI. 9. 6) Svara samans thus treated are called पदानुस्वाराणि whilst those with which the musical syllables "हा इ" are used with a similar effect, are called हायिकारस्वराणि………… …………… (Sacred Books of the East. Vol. XLIII. P. 6-7)
+
+> *'svārasāman ' is called a chanted verse which has no special concluding nidhana or finale, but in which the svarita (circumflex), or first rising then falling pitch of the final vowel, takes the plan of the finale; whence svāra is often explained by svaranidhana i. e. having the svarita for its nidhana. In pañcaviṃśabrāhmaṇa (IX. 3. 11) the svārasāman is prescribed in case the Udgatris have previously committed an excess in their chanting…………In Latyayana Srauta Sutra (VI. 9. 6) Svara samans thus treated are called padānusvārāṇi whilst those with which the musical syllables "hā i" are used with a similar effect, are called hāyikārasvarāṇi………… …………… (Sacred Books of the East. Vol. XLIII. P. 6-7)*
+
+[As printed; the ellipses are in the print.]
+
+The Āśvalāyana (Āśv. Śrau. 8-5 [?]) has shown in the sūtra "*matsyapāyi te maha enena pratyetena*" that the mantra *matsyapāyi* … of this sūkta is to be recited on the *svarasāma* days connected with the *viṣuvat* day (the second part).
+
+***harivaḥ*** — Indra is addressed by this word. "*harī indrasya*" (Ni. 1-… [?]) is the reading. Because the vehicles of Indra, his horses, are called *hari*, Sāyaṇa has explained the word *harivaḥ* as "*tadvan indra*", "Indra, who has the two".
+
+***pātrasyeva te apāyi — somapātreṇa yathā dhāryate somaḥ yadvā pātrasyeva te tava svabhūto mahān somaḥ iti vā yojanā*** — for the word *pātrasyeva* another meaning, in the sense of the third case (instrumental), "as the Soma juice is held in the Soma-cup and filled", is given; and since the word *mahaḥ* is used in the sense of "worshipful" and also in the sense of "abundant", for *mahaḥ* the meaning "abundant" is explained. The word *pātra* is said to mean "worthy". Since the abundant Soma juice, which belongs to Indra and is his own, is placed before Indra to be drunk, it is wished that Indra drink the Soma.
+
+***matsi — mādyasi mādayasva vā | pātre yathā somaḥ pūryate tathātyadhikaṃ piba pītvā ca mādayasva*** — the wish is described that, as the Soma juice fills the cup in which it is drunk, Indra may drink it in abundance and be gladdened.
+
+The qualities of the Soma juice are described: ***matsaraḥ*** — the means of producing joy; ***madaḥ*** — the producer of delight; ***vṛṣā*** — the increaser of strength; ***induḥ*** — the one that enhances gladness.
+
+### Printed p. 368  (PDF 388)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
+
+***vājī*** — because food is the cause of satisfaction, *annavān*; ***sahasrasātamaḥ*** — the power of giving without measure, or the great strength to hold off a thousand heroes: such is the power of the Soma juice that is described, and it is wished that Indra may drink the Soma juice that has such power.
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***matsi*** — root *mada tṛptiyoge*; *laṭ*, second person singular, *sip*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; by "*khari ca*" (Pā. Sū. 8-4-55 [?]) *carva* for the *d* (*da* becomes *t*); because it is in *pādādi* position, no *nighāta*; *sip* being *pit*, it is *anudātta*, so the root accent remains.
+- ***apāyi*** — root *pā pāne*; by "*āśaṃsāyāṃ bhūtavac ca*" (Pā. Sū. 3-3-132 [?]) the past-tense suffix *luṅ*; (in the passive) third person singular, the suffix *ta*; by "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66 [?]) *ciṇ* for *cli*; by "*āto yuk ciṇkṛtoḥ*" (Pā. Sū. 7-3-33 [?]) the root takes the augment *yuk*; by "*ciṇo luk*" (Pā. Sū. 6-4-104 [?]) the dropping of the *ta*; the augment *a* for the limb (*aṅga*); since it is in the first member, because of *tiṅanta* standing, no *nighāta*; since the augment is *udātta*, the first syllable is *udātta*.
+- ***pātrasya iva*** — by the statement "*supāṃ suluk*"… "*supo bhavanti*" the genitive is used in the sense of the instrumental.
+- ***matsaraḥ*** — root *madī harṣe*; by "*kṛdhūmadibhyaḥ kit*" (Uṇ. Sū. 3-… [?]) the suffix *sara*; by "*khari ca*" the *d* becomes *t*; by "*cit*" carried on from the previous sūtra, the end syllable is *udātta*.
+- ***madaḥ*** — for the same root, by "*bahulagrahaṇa*" (in the sense of the agent) *ap* by "*madoʼnupasarge*" (Pā. Sū. 3-3-67 [?]); being *pit*, it is *anudātta*.
+- ***induḥ*** — root *undī kledane*; by "*undeḥ ricchāde*" (Uṇ. Sū. 1-… [?]) the suffix *un*; the substitution *i* at the beginning of the root; being *nit*, the suffix accent is first-syllable *udātta*.
+- ***sahasrasātamaḥ*** — *sahasraṃ sanute dadāti iti sahasrasāḥ*; root *ṣaṇu dāne*; *viṭ* by "*janasanakhana kramagamo viṭ*" (Pā. Sū. 3-2-67 [?]); by "*vibhāṣā ḍvanoḥ*" … "*viḍvanor anunāsikasyāt*" (Pā. Sū. 6-4-41 [?]) the *n* of the root becomes *ā*; the *kṛdutta* final member keeps its natural accent; to it, in the sense of excess, the suffix *tamap*, being *pit*, is *anudātta*. ‖ 1 ‖
+
+---
+
+**Progress note:** printed p. 368 (PDF 388) done — Sūkta 175 Ṛk 1 complete. Next: printed p. 369 (PDF 389), Sūkta 175 Ṛk 2. Open flags: Eggling quotation reproduced as printed (Devanagari/Kannada-type glyphs inside English text); sūtra numerals [?]; review/doubts_v13.json.
