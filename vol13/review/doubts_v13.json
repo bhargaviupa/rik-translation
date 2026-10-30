@@ -6250,5 +6250,29 @@
   ],
   "note": "Rg 2-34-10 ref [?]; cross-ref 1-180-2 [?]; grammar wording as read",
   "answer": ""
+ },
+ {
+  "pdf": 627,
+  "printed": 607,
+  "crop": [
+   0.1,
+   0.45,
+   0.1,
+   0.9
+  ],
+  "note": "grammar sutra numerals [?]; Rk4 last word 'mamu' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 628,
+  "printed": 608,
+  "crop": [
+   0.1,
+   0.35,
+   0.1,
+   0.9
+  ],
+  "note": "Rk4 bhasya second line as read ('sarvamasi' [?]); Ni. 3-9 ref [?]",
+  "answer": ""
  }
 ]
