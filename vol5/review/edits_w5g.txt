@@ -1,0 +1,35 @@
+# w5g: refs settled from the better scan (stacked crops 330-900 dpi); printed = PDF - 16.
+# p. 593: 5-57-5: middle glyph flat-footed (= 7, as the 1-38-7 beside it); [?] removed. p. 621: print (5-1) read, first glyph 5-like; [?] removed (following Nir. 7-31 is another passage).
+# p. 622: golden axe 7-97-7 confirmed; 10-97-15 and 19 on p. 625 confirmed (flat-footed 7s). p. 595: 1-19-4 confirmed.
+# p. 595: print has a further paren after 'fierce nature' (5-56-? and ..) for 'terrible' not in the file (not added). p. 598: '(1-64-8 and 8)' looks like 'and 9' in the print (not changed).
+# p. 604: print '(1-3-10 and 11; 2-3-8; 6-..)' replaced the file's 2-41-16 duplicate. p. 615: print is (2-1-3 to 7), the extra 'to ?' dropped. p. 618: '(10-2-4 and 5)' print had 'and 5'; (4 and ?) was (4-8-2 and 4).
+# p. 598: '8-20-23 to 26' (OCR-located, glyphs viewed). p. 625 '2-24-3' agrees with p. 624's (2-24-3 and 4).
+# not settled: p. 598 8-26-21 and ?; p. 608 10-91-4 and ? (see doubts_w5g.json).
+  p. 593: (5-57-5 [?]; etc.) -> (5-57-5; etc.)
+  p. 595: of fierce nature (2-34-6) -> of fierce nature (7-56-8)
+  p. 597: 8-83-9 to ? -> 8-83-9 to 12
+  p. 598: 8-20-23 to ? -> 8-20-23 to 26
+  p. 599: (1-23-2 and ?) -> (1-23-2 and 3)
+  p. 599: (7-90-2 and ?) -> (7-90-2 and 6)
+  p. 603: [2 and ?] -> [2-47-1 and 2 [?]]
+  p. 604: [2-41-16 and ?; 2-3-8; -> [1-3-10 and 11; 2-3-8;
+  p. 604: [6-61-3 and ?] -> [6-61-3 and 7 [?]]
+  p. 604: [7 and ?; 7-95; 2-30-8] -> [7-95-4 and 5; 2-30-8]
+  p. 608: (1-94-10 and ?) -> (1-94-10 and 11)
+  p. 610: (10-4-1 and ?) -> (10-4-1 and 2 [?])
+  p. 611: (3-1-13 and ?) -> (3-1-13 and 13 [?])
+  p. 615: (2-1-3 to 7 to ?) -> (2-1-3 to 7)
+  p. 616: (4-6-4 and ?; -> (4-6-4 and 5;
+  p. 617: (4-2-2 and ?) -> (4-2-2 and 3)
+  p. 618: (10-2-4). All the hidden -> (10-2-4 and 5). All the hidden
+  p. 618: (4 and ?) -> (4-8-2 and 4)
+  p. 618: (1-70-1 and ?) -> (1-70-1 and 3)
+  p. 620: giver of immortality (1-96-2), a protector (7-4-6) -> giver of immortality (7-4-6), a protector (7-7-4 [?])
+  p. 621: Nirukta (5-1 [?]) -> Nirukta (5-1)
+  p. 622: pure [7-97-5] -> pure [7-97-7]
+  p. 622: [10-59-9] -> [10-53-9]
+  p. 623: [2-23-3 and ?] -> [2-23-3 and 8]
+  p. 624: [2-24-3 and ?] -> [2-24-3 and 4]
+  p. 624: [10-68-4 and ?] -> [10-68-4 and 9]
+  p. 625: [2-24-11]. In the form -> [2-24-3 [?]]. In the form
+  p. 625: [6-73-1 and ?] -> [6-73-1 and 2]
