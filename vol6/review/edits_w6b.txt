@@ -116,3 +116,21 @@ p. 307: Skandasvāmin quotation "tad evoktaṃ" -> "tad eva ca" (print); last se
 p. 308: grammar: "kyapy ca vṛ ji [as read]" -> "kṛ pṛ vṛ ji" (the ೃ sign matches ವೃ); p. 304 bhāṣya "क्याप्यावृजीति [?]" -> "कृपृवृजीति" accordingly (doubt withdrawn).
 Unit 2 ends at p. 308 (end of Rik 71.5).
   p. 303: running-head Varga [?] -> 15
+w6b unit 3 (Sūkta 71 from p. 309, Rik 71.6)
+  p. 309: running-head Varga [?] -> 16
+p. 309: Rik 71.6 Saṃhitā accents set as printed (420 dpi).
+  p. 310: Pā. [1-1-11] -> [1-1-12?]
+  p. 310: Ni. [2-7?] -> 3-9
+p. 310: tail: sūtra name "uñaḥ" added from the print; andhaḥ, vājaḥ, payaḥ confirmed.
+  p. 311: running-head Varga [?] -> 16
+  p. 311: running-head Aṣṭaka 1 -> 2 [as printed; for 1]
+  p. 311: Ni. [6-12?] -> 6-17
+  p. 311: Ṛk. Saṃ. [3-61-4?] -> 5-80-4
+  p. 311: Ṛk. Saṃ. [6-19-1?] -> 6-19-1
+  p. 311: [4-?-3; 4-?-6; 2-?-3; 8-?-2; 8-?-6; 10-?-4] -> [4-5-3; 7-8-6; 7-24-2; 9-4-7?; 9-40-6; 10-116-4]
+  p. 311: Ṛk [9-100-9?] -> 9-100-2
+  p. 311: Ni. [2-7?] -> 3-9
+  p. 312: Ṛk. Saṃ. [1-27-8?] -> 1-27-7
+  p. 313: running-head Varga [?] -> 16
+Unit 3 ends at p. 313 (end of Rik 71.6).
+p. 311: Skandasvāmin quotation re-read: "rāyā … yaṣṭāraṃ prati junāsi | gacchasi | … tatraivāropya gaccher ity arthaḥ" (print).
