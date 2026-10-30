@@ -2862,4 +2862,56 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 ---
 
-**Progress note:** printed p. 128 (PDF 148) done — Sūkta 168 Ṛk 4 complete; Ṛk 5: Saṃhitā to Special Topics in progress (continues p. 129). Next: printed p. 129 (PDF 149). Open flags: p. 127 scan smudged, bhāṣya [?] words; small-type numerals [?]; review/doubts_v13.json.
+### Printed p. 129  (PDF 149)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; the Special Topics of Ṛk 5 continue. A stray "XIII 9" is printed at the foot, a signature mark.)*
+
+***iṣāṃ yāmani dhanvacyuto na*** — *annānāṃ tatsādhanānāṃ sasyānāṃ prāptau samṛddhyarthaṃ udakasrāviṇo meghā iva*: the word *dhanvan* is read among the names of the atmosphere (Ni. 1-10 [?]), and in Yāska's text:
+
+> यः परस्याः परावतस्तिरो धन्वाति रोचते । स नः पर्षदति द्विषः ॥
+
+> *yaḥ parasyāḥ parāvatas tiro dhanvāti rocate | sa naḥ parṣad ati dviṣaḥ ‖*
+
+(Ṛ. Saṃ. 10-187-2 [?]). In this ṛk the word *dhanvan* is explained by Yāska as "*dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*" [as read]. Sāyaṇa says, "*dhanvan śabdo'ntarikṣavacanaḥ | tena tatsthamudakaṃ lakṣyate*": the word *dhanvan* denotes the atmosphere, but here, by the word, the sense "the water that is in the atmosphere" is stated. As people desire the necessity of clouds that pour water for the production of the crops that are the cause of food and the like, so the sacrificer, with abundant praise, desires the coming of the Marut-gods. This is described.
+
+***ahanyaḥ etaśo na*** — by this sentence, as a horse every day comes under the trainer's command and learns many kinds of gaits, so the comings of the Marut-gods too are of many kinds: this is the sense illustrated by the comparison.
+
+***etaśaḥ*** — this word is read among the names of the horse (Ni. 1-[?]).
+
+***puruprraiṣāḥ — bahuvidhaṃ phalamicchan*** — the sacrificer who desires many kinds of benefits: this sense is explained for the word. The analysis of the compound is given: *puruprraiṣaḥ stotraṃ yasya* (he whose praise is of many kinds). The sacrificer, praising with many kinds of hymns, desires food and the like through the various comings of the Marut-gods.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: *ṛṣṭividyutaḥ* (*ṛṣṭyā vidyotante*; vocative plural form; accent of a vocative-governed word by "*ānantritasya ca*" [as read]); *rejati* (root *reja kampane*, causal sense included; *laṭ* 3rd singular; not accentless at the start of a *pāda*; the root accent remains because *lasārvadhātuka* is unaccented); *hanvā* (stem *hanu*, dual; before *jas* the dual ending is replaced by *ā* by "*supāṃ sulukpūrvasavarṇa…*", Pā. Sū. 7-1-39 [?]; *yaṇ* substitution); *dhanvacyutaḥ* (root *cyutir kṣaraṇe*; *kvip*; *dhanvānaṃ cyotayanti*; the latter member keeps its accent as a *kṛdutara-pada*).
+
+### Printed p. 130  (PDF 150)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 168".)*
+
+*iṣām* (genitive plural; accent on the ending by "*sāvekācastṛtīyādiḥ*", Pā. Sū. 6-1-168 [?]); *ahanyaḥ* (*ahni bhavaḥ*; affix *yat* by "*bhave chandasi*", Pā. Sū. 4-4-110 [?]; *svarita* by "*tit svaritam*", Pā. Sū. 6-1-185 [?]); *etaśaḥ* (root *iṇ gatau*; affix *taśan* by an Uṇādi sūtra, "*iṇaḥ taśan*" [as read]; *guṇa* of the root on that occasion; accent on the first syllable by "*ñityādirnityam*", Pā. Sū. 6-1-197 [?]). ‖ 5 ‖
+
+*(ornamental rule)*
+
+**॥ संहितापाठः ॥**
+
+> क्व स्विदस्य रजसो महस्परं क्वावरं मरुतो यस्मिन्नाययु ।
+> यच्च्यावयथ विथुरेव संहितं व्यद्रिणा पतथ त्वेषमर्णवम् ॥ ६ ॥
+
+> *kva svidasya rajaso mahasparaṃ kvāvaraṃ maruto yasminnāyayu |*
+> *yaccyāvayatha vithureva saṃhitaṃ vyadriṇā patatha tveṣamarṇavam ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> क्व । स्वित् । अस्य । रजसः । महः । परम् । क्व । अवरम् । मरुतः । यस्मिन् । आऽययु [?] ।
+> यत् । च्यावयथ । विथुराऽइव । सम्ऽहितम् । वि । अद्रिणा । पतथ । त्वेषम् । अर्णवम् ॥ ६ ॥
+
+> *kva | svit | asya | rajasaḥ | mahaḥ | param | kva | avaram | marutaḥ | yasmin | ā 'yayu [?] |*
+> *yat | cyāvayatha | vithurā 'iva | sam 'hitam | vi | adriṇā | patatha | tveṣam | arṇavam ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः यूयं यस्मिन्नुदकनिमित्तभूते सत्यायुधे [?] आगच्छत अस्य रजसो वृष्ट्युदकस्य लोकस्य वा महो महतः परं पारमन्तं क्व स्वित् । कुत्रास्तीति । नास्तीत्यर्थः । तथावरमवाञ्चागादिश्च [?] क्व स्वित् । कुत्रास्ति । आद्यन्तं न कोऽपि जानातीत्यर्थः । यद्वा । यूयं विथुरेव विथुराणि शिथिलानि तृणानीव संहितमेकीभूतमुदकं च्यावयथ स्वस्थानाच्चालयथ तदा [?] अद्रिणा वज्रेण त्वेषं दीप्तमर्णवमुदकवन्तं मेघं वि पतथ । विशीर्णं पातयथ ॥
+
+*Gist:* Where is the farther end, where the nearer, of this great region (of waters) to which you come? When you shake loose the gathered water like scattered straws, you split the bright cloud with the thunderbolt.
+
+---
+
+**Progress note:** printed p. 130 (PDF 150) done — Sūkta 168 Ṛk 5 complete; Ṛk 6 Saṃhitā, Pada, bhāṣya written (Pratipadārtha on p. 131). Next: printed p. 131 (PDF 151). Open flags: Ṛk 6 bhāṣya [?] words (satyāyudhe, avarāṃ…); small-type numerals [?]; review/doubts_v13.json.

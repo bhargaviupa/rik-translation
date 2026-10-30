@@ -946,5 +946,29 @@
   ],
   "note": "Rik 5 bhaashya (smudged scan): dhanvachyuto na..., yathaakaankshante, many words; zoom at 200dpi",
   "answer": ""
+ },
+ {
+  "pdf": 150,
+  "printed": 130,
+  "crop": [
+   0.62,
+   0.84,
+   0.05,
+   0.95
+  ],
+  "note": "Rik 6 bhaashya + Pada 'aayayu': satyaayudhe, avaraM avaan..., yasminnaayayu; zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 149,
+  "printed": 129,
+  "crop": [
+   0.15,
+   0.45,
+   0.05,
+   0.95
+  ],
+  "note": "refs: Ni. 1-10 (dhanvan), 10-187-2, Ni. etasha",
+  "answer": ""
  }
 ]
