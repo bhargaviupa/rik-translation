@@ -723,3 +723,5 @@ Doubts: vol6/review/html/Vol6_doubts_p487-507.html (4).
   p. 580: (Ni. [2-16] [?]) -> (no Nirukta number printed)
   p. 580: (Ni. [2-17] [?]) -> (no Nirukta number printed)
   p. 600: (Ni. [2-13] [?]) -> (Ni. 3-9 [as printed])
+  p. 581: (Ni. [3-?]-[?] [?]) -> (Nirukta 2-12-2 as read [?])
+  p. 581: (Pā. Sū. 3-1-85 [?]) -> (Pā. Sū. 3-1-85)
