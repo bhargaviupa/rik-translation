@@ -4450,5 +4450,29 @@
   ],
   "note": "refs Rg 4-19-2, 6-68-2; 'sutukenah' phrase; 'udravaruna' reading; grammar sutra numerals",
   "answer": ""
+ },
+ {
+  "pdf": 479,
+  "printed": 459,
+  "crop": [
+   0.1,
+   0.62,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small; 'dvyaco atastinah' assigned to sutukah as printed (odd)",
+  "answer": ""
+ },
+ {
+  "pdf": 480,
+  "printed": 460,
+  "crop": [
+   0.12,
+   0.4,
+   0.05,
+   0.95
+  ],
+  "note": "bhashya 'stotvanodyanta' garbled; 'na lokavyaya' sutra tail",
+  "answer": ""
  }
 ]

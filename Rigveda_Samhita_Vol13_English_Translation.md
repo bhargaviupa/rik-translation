@@ -12519,4 +12519,61 @@ In this womb of the world, the *svasṛ*s ("sisters"), having performed their ac
 
 ---
 
-**Progress note:** printed p. 458 (PDF 478) done — Sūkta 178 Ṛk 2 Special Topics complete; grammar begun (ghā, dabhat, yā, svasārā; continues p. 459). Next: printed p. 459 (PDF 479). Open flags: refs [?]; garbled SB quotes p. 457; review/doubts_v13.json.
+### Printed p. 459  (PDF 479)
+
+*(Header: "A. 2 A. 4 Va. 21"; "Ṛgvedasaṃhitā"; page 459.)*
+
+**Vyākaraṇa-prakriyā (grammar, continued)** — noted briefly (sūtra numerals [?]):
+
+- ***kṛṇavanta*** — root *kṛvi hiṃsākaraṇayoś ca*; Vedic *laṭ* in the present sense; by "*vyatyayo bahulam*" the *ātmanepada* and, for the dual, the plural suffix; *jhi* has *anta* substituted; by "*dhinvikṛṇvyor a ca*" (Pā. Sū. 3-1-80 [?]) the suffix *u*, with *a* substituted for the final; by "*ato lopaḥ*" its elision; Vedic *śap*; taking that as the cause, *guṇa* for the suffix *u*, with *av* substitution; the Vedic *aṭ* augment occurs; because of *yad*-connection there is no *nighāta* accent; the *lasārvadhātuka* being *anudātta*, the *vikaraṇa* accent remains.
+- ***sutukāḥ*** — in a *bahuvrīhi*, the fore-member's accent being set aside, by "*dvyaco 'tastiṅaḥ*" (Pā. Sū. 6-3-135 [?], as printed) the hind-member takes *ādyudātta*.
+- ***āveṣan*** — root *viṣḷ vyāptau*; Vedic *laṅ* plural, Vedic *śap*; by "*pugantalaghūpadhasya ca*" (Pā. Sū. 7-3-86 [?]) *guṇa* for the short penultimate vowel; *aṭ* augment for the stem; *tiṅ*-final *nighāta* accent.
+- ***gamat*** — root *gamḷ gatau*; because the causative activity is intended, it is *antarbhāvitaṇyartha* (contains the sense of the causative); Vedic *luṅ* in the sense of *loṭ*; with *tip* following, by "*puṣādidyutādi…*" (Pā. Sū. 3-1-55 [?]) *aṅ* in place of *cli*; the Vedic *aṭ* does not occur; being in a *tiṅanta* word no *nighāta* accent appears; the suffix being *pit*, the root accent remains.
+- ***sakhyā*** — *sakhyur bhāvaḥ sakhyam*; by "*sakhyur yaḥ*" the suffix *ya*; by "*yasyeti ca*" elision of *i*; final *udātta* by the suffix accent; in the neuter plural, by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) elision of *śi*. ‖ 2 ‖
+
+---
+
+**Sūkta 178, Ṛk 3**
+
+**Saṃhitā-pāṭha**
+
+> जेता नृभिरिन्द्रः पृत्सु शूरः श्रोता हवं नाधमानस्य कारोः ।
+> प्रभर्ता रथं दाशुष उपाक उद्यन्ता गिरो यदि च त्मना भूत् ॥ ३ ॥
+
+**Pada-pāṭha**
+
+> जेता । नृऽभिः । इन्द्रः । पृत्ऽसु । शूरः । श्रोता । हवम् । नाधमानस्य । कारोः ।
+> प्रऽभर्ता । रथम् । दाशुषः । उपाके । उत्ऽयन्ता । गिरः । यदि । च । त्मना । भूत् ॥ ३ ॥
+
+> *jetā | nṛ 'bhiḥ | indraḥ | pṛt 'su | śūraḥ | śrotā | havam | nādhamānasya | kāroḥ |*
+> *pra 'bhartā | ratham | dāśuṣaḥ | upāke | ut 'yantā | giraḥ | yadi | ca | tmanā | bhūt ‖ 3 ‖*
+
+### Printed p. 460  (PDF 480)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 178"; page 460.)*
+
+**Sāyaṇa-bhāṣya**
+
+> अयमिन्द्रः शूरो विक्रान्तः सन्नृभिः संग्रामनेतृभिर्मरुद्भिः सहितः सन्पृत्सु संग्रामेषु जेता जयशीलः शत्रूणां तथा नाधमानस्य त्वदनुग्रहं याचमानस्य कारोः स्तोतुर्हवमाह्वानं श्रोता भवति । किंच यदि च यदा च त्मनात्मनानन्यप्रेरित एव गिरः स्तुतिरूपाणि वचांसि स्तोत्वानोद्यन्ता [?] भूत् भवेत् तदा दाशुषो हविर्दात्वतो यजमानस्योपाके समीपे रथं प्रभर्ता । सम्यक् प्रभरति ॥ जेतेत्यादिषु तृनन्तेषु न लोकाव्ययेत्यादिना कर्मणि षष्ठीप्रतिषेधः ॥ यदा स्तुतिं श्रोतुमिच्छति तदा स्वयमेव शीघ्रं रथं धावयित्वा योगं प्राप्नोतीत्यर्थः ॥ [as read; several words doubtful [?]]
+
+*Gist:* Indra, the brave victor with the Maruts, hears the call of the one who begs his favour; and when he wishes to hear praise, he himself quickly drives his chariot near the sacrificer.
+
+**Pratipadārtha**
+
+**śūraḥ** — the hero; **indraḥ** — Indra; **nṛbhiḥ** — together with the leaders in battle, the Maruts; **pṛtsu** — in battles; **jetā** — victorious; (**tathā** — likewise) **nādhamānasya** — of the one who begs his favour; **kāroḥ** — of the praiser; **havam** — the call; **śrotā** — becomes the hearer; **yadi ca** — and whenever; **tmanā** — of himself (impelled by none); **giraḥ** — the words of praise (the praisers); **udyantā bhūt** — becomes the one who takes up; (**tadā** — then) **dāśuṣaḥ** — of the sacrificer who gives oblations; **upāke** — near; **ratham** — the chariot; **prabhartā** — becomes the one who brings it quickly.
+
+**Bhāvārtha**
+
+Indra, who is a hero, who has the Maruts for companions, and who is victorious in battles, listens to the call of the sacrificer who longs for his favour; and when he wishes to hear the praises, he drives his chariot swiftly to the sacrificer's side.
+
+**Printed English**
+
+> Indra, the hero, the victor in battles, along with the leaders (of his hosts, the Maruts), will hear the invocation of his supplicating worshipper, and when disposed to accept his praises, will, of his own accord, drive his chariot close to the donor (of the oblation).
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+***kāroḥ*** — this word is explained as "the sacrificer who offers praise". The Nirukta-writers have counted the word *kāru* among the names of the *stotṛ* (praiser) (Ni. 3-8 [?]); explaining that words such as *rebhaḥ*, *jaritā* are known as synonyms, and in the Ṛk-saṃhitā … [the passage continues on the next page.]
+
+---
+
+**Progress note:** printed p. 460 (PDF 480) done — Sūkta 178 Ṛk 2 complete; Ṛk 3: Saṃhitā…printed English, Special Topics begun (kāroḥ; continues p. 461). Next: printed p. 461 (PDF 481). Open flags: refs [?]; bhāṣya words [?]; review/doubts_v13.json.
