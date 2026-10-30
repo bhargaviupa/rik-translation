@@ -6120,7 +6120,7 @@ When the wind that fills every opening makes Agni blaze, Agni appears, bright of
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā** *(grammar page of Rik 71.4, noted briefly; not transcribed)*
 
-Words treated: *mathīt* (root *mathe* "to churn"; *luṅ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *sic* for *cli* by *cleḥ sic*; *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; *iḍāgama* before the *tip* following *asti-sic-opṛkte*, Pā. [7-3-96], with the *aprkta* … the root being *edit*, no vṛddhi by *hmyantakṣaṇaśvasa…*, Pā. [7-2-5]; loss of *s* of *sic* by *iṭa īṭi*, Pā. [8-2-28]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; the root accent remains since the augment is anudātta; no nighāta since at the head of a pāda); *jenyaḥ* (root *janī* "to be born", with an Uṇādi *inya* affix and *ṭi*-loss, as Bhaṭṭabhāskaramiśra holds; or root *ji* "to conquer", *kṛtyalyuṭo bahulam*, Pā. [3-3-113], the *bahula* allowing agent-sense; *yat* by *ajo yat* [as read, ?], Pā. [3-1-?]; *nuḍāgama*; guṇa of the root's *i* for the affix; the form *jenya*; the svarita is set aside by *yato 'nāvaḥ*, Pā. [6-1-213], giving the initial acute); *sahīyase* (*sahaḥ* is a name of strength; "he has strength to excess", *īyasun*; *nit*, so initial acute; dative singular); *dūtyam* (*dūtasya karma dūtyam*; *yat* by *dūtasya bhāvakarmaṇī*; loss of the *a* of *dūta* by *yasyeti ca*; *yat* being *tit*, svarita by *tit svaritam*, Pā. [6-1-185]; though *yato 'nāvaḥ* would give the initial acute here as a blocking rule; …). *(Continued on p. 303.) Grammar page, noted briefly; sūtra numerals [?].*
+Words treated: *mathīt* (root *mathe* "to churn"; *luṅ*, third person singular, *tip*; loss of *i* by *iteś ca lopaḥ*; *sic* for *cli* by *cleḥ sic*; *iḍāgama* by *ārdhadhātukasyeḍ valādeḥ*; *iḍāgama* before the *tip* following *asti-sic-opṛkte*, Pā. [7-3-96], with the *aprkta* … the root being *edit*, no vṛddhi by *hmyantakṣaṇaśvasa…*, Pā. [7-2-5]; loss of *s* of *sic* by *iṭa īṭi*, Pā. [8-2-28]; no *aḍ* by *bahulaṃ chandasy amāṅyoge 'pi*; the root accent remains since the augment is anudātta; no nighāta since at the head of a pāda); *jenyaḥ* (root *janī* "to be born", with an Uṇādi *inya* affix and *ṭi*-loss, as Bhaṭṭabhāskaramiśra holds; or root *ji* "to conquer", *kṛtyalyuṭo bahulam*, Pā. [3-3-113], the *bahula* allowing agent-sense; *yat* by *aco yat*, Pā. [3-1-97]; *nuḍāgama*; guṇa of the root's *i* for the affix; the form *jenya*; the svarita is set aside by *yato 'nāvaḥ*, Pā. [6-1-213], giving the initial acute); *sahīyase* (*sahaḥ* is a name of strength; "he has strength to excess", *īyasun*; *nit*, so initial acute; dative singular); *dūtyam* (*dūtasya karma dūtyam*; *yat* by *dūtasya bhāvakarmaṇī*; loss of the *a* of *dūta* by *yasyeti ca*; *yat* being *tit*, svarita by *tit svaritam*, Pā. [6-1-185]; though *yato 'nāvaḥ* would give the initial acute here as a blocking rule; …). *(Continued on p. 303.) Grammar page, noted briefly; sūtra numerals [?].*
 
 ---
 
@@ -6132,13 +6132,15 @@ Words treated: *mathīt* (root *mathe* "to churn"; *luṅ*, third person singula
 
 **॥ संहिताखण्डः ॥ — Saṃhitā text of Rik 71.5** *(printed Ṛk "5 ||")*
 
-> महे यत्पित्र ईं रसं दिवे करव त्सरत्पृशन्यश्चिकित्वान् ।
-> सृजदस्ता धृषता दिद्युमस्मै स्वायां देवो दुहितरि त्विषिं धात् ॥ ५ ॥
+*(Accents as printed. In "tviṣiṃ" a svarita stroke stands over "tvi" right after the anudātta under "ri" [accent ?].)*
 
-*mahe yat pitra īṃ rasaṃ dive karava tsarat pṛśanyaś cikitvān |
-sṛjad astā dhṛṣatā didyum asmai svāyāṃ devo duhitari tviṣiṃ dhāt ||5||*
+> म॒हे यत्पि॒त्र ईं॒ रसं॑ दि॒वे करव॑ त्सरत्पृश॒न्यश्चि॑कि॒त्वान् ।
+> सृ॒जदस्ता॑ धृष॒ता दि॒द्युम॑स्मै॒ स्वायां॑ दे॒वो दु॑हि॒तरि॒ त्वि॑षिं धात् ॥ ५ ॥
 
-*(Reading note: the print joins "करव त्सरत्" as shown; the Pada below divides it *kaḥ | ava | tsarat*. Accents not reproduced.)*
+*mahé yát pitrá īṃ rásaṃ divé kár áva tsarat pṛśanyáś cikitvā́n |
+sṛjád ástā dhṛṣatā́ didyúm asmai svā́yāṃ devó duhitári tviṣiṃ dhāt ||5||*
+
+*(Reading note: the print joins "करव त्सरत्" as shown; the Pada below divides it *kaḥ | ava | tsarat*.)*
 
 ---
 
