@@ -6230,4 +6230,62 @@ In the ṛk at hand the word may be taken to denote either the priests of the ob
 
 ---
 
-**Progress note:** printed p. 254 (PDF 274) done — Sūkta 173 Ṛk 2 Special Topics (mṛga discussion continues p. 255). Next: printed p. 255 (PDF 275). Open flags: Ṛg ref numerals and quoted verses [?]; review/doubts_v13.json.
+### Printed p. 255  (PDF 275)
+
+*(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
+
+***yadvā ayam indraḥ aśno mṛga iva atijuguryāt bhakṣayet tathā arcatīti*** — "Or this Indra, like a deer hungry and fatigued by thirst, devours (the oblation) and so is worshipped": the meaning is that, as a deer with great hunger and thirst seeks to satisfy its hunger and gains satisfaction, so the sacrificer, after satisfying Indra's hunger, worships him as one who has reached satisfaction.
+
+***jugurvāt — jugurvāt, jugurviḥ, jugurvaṇiḥ*** and the like: all these words are to be known as formed from the root *jvar* (*jyā* [?]). The Nirukta-writers include the word *jarate* among the names of *arcati* ("praising") and *karman* (Ni. 3-... [?]). With the prefix *abhi* it is more commonly used. For example —
+
+> अभी नो अग्न उक्थमिज्जुगुर्या द्यावाक्षामा सिन्धवश्च स्वगूर्ताः ।
+
+> *abhī no agna ukthām ij jugurvā dyāvākṣāmā sindhavaś ca svagūrtāḥ |* [as read: [?]]
+
+(Ṛ. Saṃ. 1-140-13 [?]) — *abhimukhyena stuhi* means "praise specially", i.e. "give the assent of acceptance". And
+
+> प्र स्तोषदुप गासिषच्छ्रवत्साम गीयमानं । अभि राधसा जुगुर्त् ।
+
+> *pra stoṣad upa gāsiṣac chravat sāma gīyamānaṃ | abhi rādhasā jugurat |* [as read: [?]]
+
+(Ṛ. Saṃ. 8-81-5 [?]). In such ṛks *abhigṛṇāti* means "accepts"; thus, in the activity of worship and in the activity of accepting, this word is used to show a special kind of respect; in the present ṛk also it is used in the sense of respectful acceptance.
+
+***manāṃ mandayuḥ maryaḥ hotā yajatraḥ*** — O Indra, the mortal priest called *hotṛ*, who sings the praise of the gods who wish to hear praise, being the one who accomplishes the sacrifice, [this is one sense of the sentence]; and this *hotṛ* also brings together the *yājyā* and *puronuvākyā* mantras: so one meaning is stated. In the second meaning this *hotṛ* priest, acting in the manner of husband and wife (*patipatnī*-form) and performing the sacrifice again and again, worships Indra: thus the sacrificer worships Indra — this is the meaning given.
+
+***gūrte*** — the word *gūrta* here means "strongly active"; also "praised", "worthy of praise".
+
+> तं वः सखायो मदाय पुनानमभि गायत । शिशुं न यज्ञैः स्वदयन्त गूर्तिभिः ॥
+
+> *taṃ vaḥ sakhāyo madāya punānam abhi gāyata | śiśuṃ na yajñaiḥ svadayanta gūrtibhiḥ ‖*
+
+(Ṛ. Saṃ. 9-103-1 [?]) — here *gūrtibhiḥ* means "by praises, by hymns"; and
+
+> तं गूर्तयो नेमन्निषः परीणसः समुद्रं न संचरणे सनिष्यवः । पतिं दक्षस्य विदथस्य नू सहो गिरिं न वेना अधि रोह तेजसा ॥
+
+> *taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ | patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhi roha tejasā ‖*
+
+(Ṛ. Saṃ. 1-56-2 [?]).
+
+### Printed p. 256  (PDF 276)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
+
+In such places *gūrta* also means "praisers" (*stotāraḥ*). In the present ṛk it means "the praiseworthy prowess of Indra".
+
+***maryaḥ — martyo manuṣyo maraṇadharmā*** — because he is subject to death (*maraṇadharma*, i.e. mortal) the man is called *marya* (Ni. 3-... [?]).
+
+**Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
+
+- ***arcat*** — root *arca pūjāyām*; Vedic *laṅ*.
+- ***svedūhavyaiḥ*** — *svayam it prāptaṃ havyaṃ yeṣāṃ te*; *svedūhavyāḥ* — *taiḥ*; by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its own accent.
+- ***jugurvāt*** — root *gṝ śabde*; in *liṅ*, "*bahulaṃ chandasi*" gives *śluḥ* for the *vikaraṇa*; by the same rule the root takes *ut* and *r* becomes *ra*; reduplication of the root, owing to *śluḥ*; the *ku*-class changes to *cu* by "*kuhoś cuḥ*" (Pā. Sū. 7-4-62 [?]); because of the relative (*yadyoga*), no *nighāta* accent; since *yāsuṭ* is *udātta*, end-udātta results.
+- ***mandayuḥ*** — "he wishes himself (*ātmanaḥ*) to be *mandana*": *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8 [?]) gives *kyac*; "*kyāc chandasi*" (Pā. Sū. 3-2-170 [?]) gives the suffix *u*; "*ato lopaḥ*" (Pā. Sū. 6-4-48 [?]) drops the *a* of *kyac*; the suffix accent remains.
+- ***manām*** — root *mana jñāne*; suffix *kvip* in the agent sense; genitive plural form; by "*sānvekāc chṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending is *udātta*.
+- ***bharate*** — root *bhṛñ bharaṇe*; *laṭ*, third person singular; being in the *pādādi* position, no *nighāta*; the *sārvadhātuka* *la*, *śap* being *anudātta*, the root accent remains.
+- ***maryaḥ*** — root *mṛṅ prāṇatyāge*, used in the causal-implicit sense (*antarbhāvitaṇyartha*); "*chandasi niṣṭarkya-*" (Pā. Sū. 3-1-123 [?]) makes the suffix *yat* by *nipātana*; by "*bahulagrahaṇa*" it appears in the agent sense; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the first syllable is *udātta*.
+- ***mithunā*** — root *mitha* (*saurā*); suffix *unan* by "*kṣudhipiśi*—" (Uṇ. Sū. 3-... [?]), which is *kit*; therefore the light-vowel guṇa does not occur; in the neuter, "*śeś chandasi bahulam*" gives loss of *śi*.
+- ***yajatraḥ*** — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; suffix *atran* by "*amīnakṣi yajivadhi*—" (Uṇ. Sū. 3-... [?]); being *nit*, the first syllable is *udātta*. ‖ 2 ‖
+
+---
+
+**Progress note:** printed p. 256 (PDF 276) done — Sūkta 173 Ṛk 2 complete (Special Topics + grammar). Next: printed p. 257 (PDF 277), Sūkta 173 Ṛk 3. Open flags: Ṛg/Nirukta/sūtra numerals [?]; review/doubts_v13.json.
