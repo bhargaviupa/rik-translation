@@ -2806,5 +2806,29 @@
   ],
   "note": "Rik 2 Pratipadartha: wording partly garbled in print; rendering approximate; continues p.322 top",
   "answer": ""
+ },
+ {
+  "pdf": 343,
+  "printed": 323,
+  "crop": [
+   0.55,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 1-63-7 (digit uncertain 2/7); Nirukta ref 6-31 small",
+  "answer": ""
+ },
+ {
+  "pdf": 344,
+  "printed": 324,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Satapatha 13-5-4-5?, Rg refs 4-42-8, 1-63-7, 6-20-10, 4-42-9 small; quotes read from print",
+  "answer": ""
  }
 ]
