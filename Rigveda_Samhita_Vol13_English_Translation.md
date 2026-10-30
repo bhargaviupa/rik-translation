@@ -13544,4 +13544,74 @@ Since Agastya is the son of Mitra and Varuṇa, the individual powers of Mitra a
 
 ---
 
-**Progress note:** printed p. 492 (PDF 512) done — Sūkta 179 Ṛk 6: bhāṣya…printed English, Special Topics (ubhau varṇau; Agastya's birth from Mitra-Varuṇa; continues p. 493). Next: printed p. 493 (PDF 513). Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 493  (PDF 513)
+
+*(Header: "A. 2 A. 4 Va. 22"; "Ṛgvedasaṃhitā"; page 493.)*
+
+**Special Topics (continued)** — … in this ṛk the individual nature and function of Mitra and Varuṇa are described. In it Varuṇa is said to be the overseer of *dharma* and *adharma* and to lead creatures to worldly dealings. In the ṛk at hand also Agastya describes these two powers. And, as is described in the Śatapatha Brāhmaṇa, the individual qualities of Mitra and Varuṇa are the root of both these kinds of power. For example:
+
+> वागेवाग्निः प्राणोपानौ मित्रावरुणौ ।
+
+> *vāgevāgniḥ prāṇopānau mitrāvaruṇau |*
+
+(Śa. Brā. 3-2-2-13 [?]) — Mitra is of the nature of *prāṇa* and Varuṇa of the nature of *udāna* (*apāna* in the text as printed). As is described in the Chāndogya:
+
+> "…… स प्राणः केच्चक्षुः [?] स आदित्यस्तदेतत्तेजोऽन्नाद्यमित्युपासीत तेजस्व्यन्नादो भवति य एवं वेद"
+
+> *"…… sa prāṇaḥ keccakṣuḥ [?] sa ādityastadetattejo 'nnādyamityupāsīta tejasvyannādo bhavati ya evaṃ veda"*
+
+(Chā. U. 3-13-1 [?]) — *prāṇa* has the form of the Āditya. One should meditate on it as food and brilliance. The one who knows this principle becomes radiant and an eater of food: so *prāṇa* is praised. This is a quality of this-worldly (*aihika*) wealth. Agastya, increasing the *aihika* wealth, had obtained the quality of Mitra. And Varuṇa's quality, *udāna*, is praised thus:
+
+> "…… स उदानः स वायुः स आकाशस्तदेतदोजश्च महश्चेत्युपासीत ओजस्वी महस्वान्भवति य एवं वेद"
+
+> *"…… sa udānaḥ sa vāyuḥ sa ākāśastadetadojaśca mahaścetyupāsīta ojasvī mahasvānbhavati ya evaṃ veda"*
+
+(Chā. U. 3-13-3 [?]) — *udāna* is of the nature of wind and space. One should meditate on it as *ojas* ("vigour") and *mahas* ("greatness"); the one who knows this principle becomes vigorous and great: so the matter of spiritual (*adhyātmika*) wealth is praised. This is the quality of Varuṇa. Agastya obtained it and obtained the spiritual wealth in full, as is described in the ṛk at hand.
+
+> क्रतूदक्षौ ह वा अस्य मित्रावरुणौ । एतन्नध्यात्मं स यदेव मनसा कामयत इदं मे स्यादिदं कुर्वीयेति स एव क्रतुरथ यदस्मै तत्समृध्यते स दक्षो मित्र एव क्रतुर्वरुणो दक्षो ब्रह्मैव मित्रः क्षत्रं वरुणोऽभिगन्तैव ब्रह्म कर्ता क्षत्रियः ॥
+
+> *kratūdakṣau ha vā asya mitrāvaruṇau | etannadhyātmaṃ sa yadeva manasā kāmayata idaṃ me syādidaṃ kurvīyeti sa eva kraturatha yadasmai tatsamṛdhyate sa dakṣo mitra eva kraturvaruṇo dakṣo brahmaiva mitraḥ kṣatraṃ varuṇo 'bhigantaiva brahma kartā kṣatriyaḥ ‖*
+
+(Śa. Brā. 4-1-4-1 [?]) — of the pair Mitra and Varuṇa, Mitra is of the nature of resolve and Varuṇa of the nature of spiritual power. To resolve for success of a work is Mitra's function; to accomplish it is Varuṇa's. Also, Mitra is of the form of *brahma* and Varuṇa of *kṣatra*; *brahman* is *kratu*, and Varuṇa is *dakṣa* for all. And:
+
+> अयं वै लोको मित्रः असौ वरुणः ।
+
+> *ayaṃ vai loko mitraḥ asau varuṇaḥ |*
+
+(Śa. Brā. 12-9-2-12 [?])
+
+### Printed p. 494  (PDF 514)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 494.)*
+
+— in many places Mitra is praised as this world and Varuṇa as the heavenly world. Since these same qualities lay in their son Agastya, he was able to obtain this-worldly wealth in the form of sons and others, and, in the form of *dharma*, the ethical and spiritual wealth. So in the ṛk at hand the pupil praises the great qualities of his teacher.
+
+***ṛṣiḥ*** — since Agastya is the best among ascetics, he is praised as "ṛṣi". The Śatapatha Brāhmaṇa gives the derivation of the word *ṛṣi* thus, and at the same time tells the relation of the ṛṣis to creation:
+
+> "असद्वा इदमग्र आसीत् । तदाहुः किं तदसदासीदिति । ऋषयो वाव तेऽग्रेऽसदासीत्तदाहुः के ते ऋषय इति प्राणा वा ऋषयस्ते यत्पुरास्मात्सर्वस्मादिदमिच्छन्तः श्रमेण तपसारिषंस्तस्मादृषयः"
+
+> *"asadvā idamagra āsīt | tadāhuḥ kiṃ tadasadāsīditi | ṛṣayo vāva te 'gre 'sadāsīttadāhuḥ ke te ṛṣaya iti prāṇā vā ṛṣayaste yatpurāsmātsarvasmādidamicchantaḥ śrameṇa tapasāriṣaṃstasmādṛṣayaḥ"*
+
+(Śa. Brā. 6-1-1-1 [?]) — in the beginning there was only non-being (*asat*). These ṛṣis were in that form. Who are the ṛṣis? They are the *prāṇas*. Before this whole [creation], desiring it, they wearied themselves with toil and austerity (*ariṣan*); therefore they are called ṛṣis. And:
+
+> "………… त्वयु तन्तुमेतमिति योऽसावृषिभिस्तन्तुस्ततस्तमेतदाह" [as read [?]]
+
+> *"………… tvayu tantumetamiti yo 'sāvṛṣibhistantustatastametadāha" [as read [?]]*
+
+(Śa. Brā. 8-6-3-23 [?]) — [they] stretched out the thread of the sacrifice that is of the nature of the world; the power of the ṛṣis, as cause of the world's expansion, is praised; hence they are also spoken of as of the nature of the creator Brahmā.
+
+> "प्राणा वा ऋषयः प्रथमजास्तद्धि ब्रह्म प्रथमजम्"
+
+> *"prāṇā vā ṛṣayaḥ prathamajāstaddhi brahma prathamajam"*
+
+(Śa. Brā. 8-6-1-5 [?]) — thus the identity (*tādātmya*) of the ṛṣis and *brahman* is shown. If this is one derivation, another derivation can be set against it. As said in Vācaspatya:
+
+> "ऋषति ज्ञानेन संसारपारम्"
+
+> *"ṛṣati jñānena saṃsārapāram"*
+
+— "he crosses to the far shore of *saṃsāra* by knowledge": from the root *ṛṣ* the word *ṛṣi* is formed, and means "the knower". Thus, by one derivation, the ṛṣis are the root cause of the creation of the world; by another, the cause of the cessation of *saṃsāra*. In Agastya both these powers existed: so the description of the ṛk at hand. In "*ubhau varṇau pupoṣa*", by obtaining satisfaction of desire, the power of creation is described, and by obtaining spiritual knowledge, the power which is the means for the cessation of *saṃsāra*.
+
+---
+
+**Progress note:** printed p. 494 (PDF 514) done — Sūkta 179 Ṛk 6 Special Topics (Mitra-Varuṇa, ṛṣi). Next: printed p. 495 (PDF 515): Ṛk 6 grammar, Sūkta 179 close; then Sūkta 180. Open flags: refs [?]; review/doubts_v13.json.

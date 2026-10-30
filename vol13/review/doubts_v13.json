@@ -4858,5 +4858,29 @@
   ],
   "note": "Brh.De 5-149..154 & Ni 5-13 & Rg 7-36-2? refs small; 'matsya' in verse printed",
   "answer": ""
+ },
+ {
+  "pdf": 513,
+  "printed": 493,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 3-2-2-13, ChU 3-13-1/3, SB 4-1-4-1, 12-9-2-12 small; 'kecchaksuh' garbled; 'ubhau varnau' para",
+  "answer": ""
+ },
+ {
+  "pdf": 514,
+  "printed": 494,
+  "crop": [
+   0.1,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "refs SB 6-1-1-1, 8-6-3-23, 8-6-1-5 small; SB 8-6-3-23 quote start elided/garbled",
+  "answer": ""
  }
 ]
