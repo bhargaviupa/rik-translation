@@ -16368,4 +16368,55 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 ---
 
-**Progress note:** printed p. 584 (PDF 604) done — Sūkta 181 Ṛk 7 ends (Special Topics, grammar); Ṛk 8 Saṃhitā only (line 1 word-group doubtful [?]). Next: printed p. 585 (PDF 605): Ṛk 8 Pada onward. Open flags: refs [?]; review/doubts_v13.json.
+### Printed p. 585  (PDF 605)
+
+*(Header: "A. 2 A. 4 Va. 26"; "Ṛgvedasaṃhitā"; page 585.)*
+
+*(Correction of the Saṃhitā of Ṛk 8 given on the previous page, now that the Pada is seen: the printed word-group is* **गीस्त्रिबर्हिषि** *(gīs-tribarhiṣi), i.e. "gīḥ" + "tribarhiṣi" — not "गीः प्रि बर्हिषि". Earlier lines are not altered.)*
+
+**Pada-pāṭha**
+
+> उत । स्या । वां । रुशतः । वप्ससः । गीः । त्रिऽबर्हिषि । सदसि । पिन्वते । नॄन् ।
+> वृषा । वां । मेघः । वृषणा । पीपाय । गोः । न । सेके । मनुषः । दशस्यन् ॥ ८ ॥
+
+**Sāyaṇa-bhāṣya**
+
+> हे अश्विनौ वां युवयोः रुशतो दीप्तस्य वप्ससो रूपस्यैव वपुषो वा ख्यापयित्री गीः स्तुतिवाक् त्रिबर्हिषि त्रिधातास्तीर्णबर्हिष्के सदसि यागसदने नॄन् कर्मनेतॄनस्मान् पिन्वते । आप्याययतु वोचितहविःप्रदानादिना । केन प्रकारेण उच्यते । हे वृषणा वर्षितारौ कामानां वां युवयोः स्वभूतो मेघः सेक्ता जलदः प्रदानविशेषो वा वृषा वर्षकः सन् मनुषो मनुष्यान् प्रति दशस्यन् प्रयच्छन् पीपाय । आप्यायते । गोर्न सेके उदकसेक इव शान्तेनात्मैक उदकस्येव तद्यथाप्याययति तद्वदित्यर्थः । यद्वा । नेति संप्रत्यर्थे । गोरुदकस्य सेके निमित्तभूते सति पीपायेति संबन्धः ॥
+
+*(Sanskrit as read; the middle of the passage is doubtful [?]. Gist: this praise of your radiant form gladdens us, the leaders of the rite, in the sacred hall; and your rain-cloud rains on men, as a sprinkling of water refreshes.)*
+
+**Pratipadārtha** — **he aśvinau** — O Aśvin deities; **vāṃ** — of you two; **ruśataḥ** — brilliant; **vapsasaḥ** — of form (of the body, which gives its accomplishment); **gīḥ** — the word in the form of praise; **tribarhiṣi** — with three layers (of sacred grass) strewn; **sadasi** — in the sacrificial hall; **nṝn** — us, the leaders of rites; **pinvate** — gladdens with proper gifts etc., or may it gladden; **uta** — and; **he vṛṣaṇā** — O Aśvin deities, who rain down desires; **vāṃ** — your own; **vṛṣā** — rain-giving; **meghaḥ** — the cloud; **manuṣaḥ** — with reference to men; **daśasyan** — bestowing rain; **goḥ sekena** *(as printed "goḥ seke na")* — as is the joy produced by a sprinkling of water; [or **goḥ seke** — when the sprinkling of water is the occasion; **na** — now; **manuṣaḥ** — with reference to men; **daśasyan** — giving rain]; **pīpāya** — gladdens.
+
+**Bhāvārtha** — O Aśvin deities, this praise in the form of speech of ours, who praise your resplendent bodies, gladdens us, who perform the rite in this sacrificial hall strewn threefold with sacred grass. And, O Aśvin deities, who rain desires, your cloud, the cause of rain, raining for your own men when water is needed, satisfies them.
+
+### Printed p. 586  (PDF 606)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 586.)*
+
+**English Translation.** *(printed)*
+
+"May the praise of your resplendent forms, (uttered) in the hall of sacrifice, thrice strewn with sacred grass, bring prosperity to the conductors (of the sacrifice). Showerers (of benefits), may the raining-cloud, proceeding to man, nourish him like a sprinkling of water."
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the two words **ruśataḥ**, **vapsasaḥ** are epithets of **gīḥ**; and they suggest the special qualities of the speech in the form of praise.
+
+**Ruśataḥ** — "*ruśad iti varṇanāma ǀ rocater jvalatikarmaṇaḥ ǀ*" (Ni. 2-20 [?]) — the Nirukta-author explains that *ruśat* is formed from the root *ruc*, which gives the sense "to shine", and means "of bright colour" (white).
+
+**Vapsasaḥ** — the use of this word is very rare; though it is almost all in the Ṛk-saṃhitā, it cannot be missed that it occurs in only a few places. Sāyaṇa explains the word as "a body of beautiful form". That is, as in the ṛk at hand a beautiful body shows forth its beauty, so the praise too shows forth the skill of its beautiful composition.
+
+**Tribarhiṣi** — for this word Sāyaṇa has explained "*tridhā tv āstīrṇabarhiṣke*". Why does it mean "threefold"? The reason why that sense comes here will be told in the Special Topics of Ṛk 1-182-1.
+
+From the sentence **vāṃ vṛṣā meghaḥ daśasyan** the relation of cause and effect between rain and the favour of the Aśvin deities is shown. As the Maruts are prayed to, so the Aśvin deities too are in many places prayed to for rain. But in these prayers, and in the epithets used in these contexts, the other special senses must be noted. For example:
+
+> आ न ऊर्जं वहतमश्विना युवं मधुमत्या नः कशया मिमिक्षतम् ।
+> प्रायुस्तारिष्टं नी रपांसि मृक्षतं सेधतं द्वेषो भवतं सचाभुवा ॥
+
+> *ā na ūrjaṃ vahatamaśvinā yuvaṃ madhumatyā naḥ kaśayā mimikṣatam |*
+> *prāyustāriṣṭaṃ nī rapāṃsi mṛkṣataṃ sedhataṃ dveṣo bhavataṃ sacābhuvā ‖*
+
+(Ṛ. Saṃ. 1-157-4) — here the prayer is: "O Aśvin deities, since you two also pour out rain, sprinkle us with the whip (*kaśā*) that has a sweet sound, make us full of vigour" — and likewise …  [the passage continues on the next page].
+
+---
+
+**Progress note:** printed p. 586 (PDF 606) done — Sūkta 181 Ṛk 8 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (continues p. 587). Next: printed p. 587 (PDF 607). Open flags: refs [?]; Ṛk 8 Saṃhitā line-1 corrected in p. 585 note; review/doubts_v13.json.
