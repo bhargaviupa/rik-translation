@@ -2554,5 +2554,29 @@
   ],
   "note": "Rik 11 Pratipadartha: rendering of 'tirthe naccha tatrsano..' and 'sidhram a krnoti' approximate",
   "answer": ""
+ },
+ {
+  "pdf": 321,
+  "printed": 301,
+  "crop": [
+   0.8,
+   0.95,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref (4-?-?) and quote nahi grabhayaranah.. read approx; Nirukta ref 3-3",
+  "answer": ""
+ },
+ {
+  "pdf": 322,
+  "printed": 302,
+  "crop": [
+   0.7,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "juhuranah grammar (hvarcher.. / halo lopah) read approx; sutra numerals small",
+  "answer": ""
  }
 ]
