@@ -4952,7 +4952,7 @@ The meaning of this Rik is somewhat difficult. The ṛṣi's intention is not de
 
 > **अभ्राजि शर्धो मरुतो यदर्णसं मोषथा वृक्षं कपनेव वेधसः ।** *(ऋ. सं. ५-५४-६)*
 > *abhrāji śardho maruto yad arṇasaṃ moṣathā vṛkṣaṃ kapaneva vedhasaḥ* — "the host of the Maruts, wise ones, shone when you stripped the tree like monkeys [?]" *(my tentative sense)*
-> **सोमो न वेधा ऋतप्रजातः पशुर्न शिश्वा विभुर्दूरेभाः ।** *(ऋ. सं. १-६५-१० [?] — middle digit read as 5, file had 8)* — *somo na vedhā ṛtaprajātaḥ paśur na śiśvā vibhur dūrebhāḥ* — "Like Soma the wise, born of the ṛta … " (cf. Rik 65.5 above)
+> **सोमो न वेधा ऋतप्रजातः पशुर्न शिश्वा विभुर्दूरेभाः ।** *(ऋ. सं. १-६५-१० — middle digit 5 confirmed by the reader)* — *somo na vedhā ṛtaprajātaḥ paśur na śiśvā vibhur dūrebhāḥ* — "Like Soma the wise, born of the ṛta … " (cf. Rik 65.5 above)
 > **दिवश्चित्पूर्वो न्यसादि होता पृच्छ्यो विश्पतिर्विक्षु वेधाः ।** *(ऋ. सं. १-६०-२)* — *divaś cit pūrvo nyasādi hotā pṛcchyo viśpatir vikṣu vedhāḥ* — "Hotṛ, older than heaven, has been seated, the one to be asked, lord of the clans, the wise among men." *(Glosses tentative; the Ṛgveda numerals read doubtfully [?].)*
 
 "Agni is wise: that is the meaning. And Brahmā, denoted by the word *vidhātṛ*, is the cause of all: he grants to those who perform sacrifices and to all others their desired ends and creates all anew: this is the idea.
