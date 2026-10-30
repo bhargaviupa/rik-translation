@@ -10,7 +10,7 @@ EN=os.path.join(ROOT,'Rigveda_Samhita_Vol13_English_Translation.md')
 REVIEW=os.path.join(VOL,'review')
 WORK=os.environ.get('V13WORK','/tmp/v13num/')
 os.makedirs(WORK,exist_ok=True)
-OFFSET=0   # TO BE SET from the page inventory (printed = PDF - OFFSET)
+OFFSET=20   # printed = PDF - 20 for PDF 21..677 (PDF 21 = printed 1); front matter PDF 7-19 = roman i-xiii (PDF-6); verified by review/page_map_v13.json
 def _parts():
     fs=sorted(glob.glob(os.path.join(VOL,'scans','*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
     out=[];g=1
