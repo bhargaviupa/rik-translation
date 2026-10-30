@@ -3226,5 +3226,29 @@
   ],
   "note": "Rik 10 bhashya: 'vidva', 'nrpabhodde nuvadah', 'sahodastasamarthyah' read approx - zoom needed",
   "answer": ""
+ },
+ {
+  "pdf": 379,
+  "printed": 359,
+  "crop": [
+   0.62,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "Rg ref 10-15-1 small; Nirukta avrka passage read approx",
+  "answer": ""
+ },
+ {
+  "pdf": 380,
+  "printed": 360,
+  "crop": [
+   0.4,
+   0.75,
+   0.05,
+   0.95
+  ],
+  "note": "grammar sutra numerals small type",
+  "answer": ""
  }
 ]
