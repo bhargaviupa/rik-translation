@@ -5380,4 +5380,74 @@ That is, he holds that when the word *vṛjana* is used in the masculine, it mea
 
 ---
 
-**Progress note:** printed p. 226 (PDF 246) done — Sūkta 171 complete (6 ṛks, pp. 192–226); Sūkta 172 (3 ṛks) heading and anuvāda written. Next: printed p. 227 (PDF 247): Sūkta 172 heading block and Ṛk 1. Open flags: ref numerals [?]; review/doubts_v13.json.
+### Printed p. 227  (PDF 247)
+
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 12".)*
+
+**॥ ॐ ॥** Sūkta—172
+Maṇḍala 1 ‖ Anuvāka 23 ‖ Sūkta 172 ‖ Aṣṭaka 2 ‖ Adhyāya 4 ‖ Varga 12 ‖
+Number of ṛks in the Sūkta: 3 · Ṛṣi: Agastya · Devatā: the Maruts · Chandas: *gāyatrī*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> चित्रो वोऽस्तु यामश्चित्र ऊती सुदानवः ।
+> मरुतो अहिभानवः ॥ १ ॥
+
+> *citro vo 'stu yāmaścitra ūtī sudānavaḥ |*
+> *maruto ahibhānavaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> चित्रः । वः । अस्तु । यामः । चित्रः । ऊती । सुऽदानवः ।
+> मरुतः । अहिऽभानवः ॥ १ ॥
+
+> *citraḥ | vaḥ | astu | yāmaḥ | citraḥ | ūtī | su 'dānavaḥ |*
+> *marutaḥ | ahi 'bhānavaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतः वो युष्माकं यामोऽस्मद्यज्ञागमनमस्माभिश्चायनीयः [?] पूज्य आश्चर्यभूतो वास्तु । भवतु । न केवलमागमनमेव चित्रं किंतु हे सुदानवः शोभनदाना हे अहिभानवोऽहीयमानप्रकाशाः युष्माकं संबन्धी चित्रः स आगम ऊत्यै रक्षणायेष्टार्पणाय वा युक्तश्च भवतु । तदागमनं शीघ्रमस्तु अभिमतप्रदं चास्त्वित्यर्थः ॥
+
+*Gist:* May the coming of the Maruts, bountiful and of undiminished splendour, be wonderful and bring us protection and the fulfilment of our desires.
+
+**Pratipadārtha.** *(he)* *marutaḥ* — O Marut-gods; *vaḥ* — your; *yāmaḥ* — coming (to our sacrificial hall); *citraḥ* — wonderful, causing astonishment; *astu* — be; *(ca)* *sudānavaḥ* — givers of excellent gifts; *ahibhānavaḥ* — of unfailing splendour, O Marut-gods; *citraḥ* — wondrous; *ūtī* — for (our) protection or for (our) accomplishment of desired objects; *(bhavatu* — be*)*.
+
+**Bhāvārtha.** O Marut-gods, givers of excellent gifts and of unfailing splendour, may your coming (to our sacrificial hall) be wondrous, and may your coming bring us protection or the accomplishment of our desired objects.
+
+### Printed p. 228  (PDF 248)
+
+*(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 172".)*
+
+**English Translation (as printed):** Maruts, of inseparable splendour, may your coming be marvellous, liberal benefactors, for our protection.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+***vaḥ yāmaḥ citraḥ astu*** — *yuṣmākam asmadyajñāgamanaṃ cāyanīyaḥ pūjyaḥ āścaryabhūto vā bhavatu*: the Marut-gods are addressed. It is described that their coming to our sacrifice, and their making us worthy of honour, are such as to cause astonishment to all.
+
+It is well known that the vehicle of the Marut-gods and the manner of their movement are highly attractive. By the many epithets such as "*viśvaiḥ, viṣvāsaḥ, viśvayomarut*" [as read], the collective manner of movement of the Marut-gods is described. Here the prayer "*yāmaḥ citram astu*" is that your coming may be attractive and worthy of honour. The word *citra* is used both in the sense of beauty and in the sense of what is worthy of honour. In the manner of the Marut-gods' movement, these two qualities are complete. This description can be seen in the ṛks cited below:
+
+> त्विषीमन्तो अध्वरस्येव दिद्युत्त्रेषु [?] च्यवनसो जुह्वो नाग्नेः ।
+> अर्चत्रयो धुनयो न वीरा भ्राजज्जन्मानो मरुतो अधृष्टाः ॥
+
+> *tviṣīmanto adhvarasyeva didyut treṣu [?] cyavanaso juhvo nāgneḥ |*
+> *arcatrayo dhunayo na vīrā bhrājajjanmāno maruto adhṛṣṭāḥ ‖*
+
+(Ṛ. Saṃ. 6-66-10 [?])
+
+> त्वं वृधन्तं मारुतं भ्राजदृष्टिं रुद्रस्य सूनुं हवसा विवासे । [?]
+> दिवः शर्धायु शुचयो मनीषा गिरयो नापः उग्रा अस्पृध्रन् ॥ [as read]
+
+> *tvaṃ vṛdhantaṃ mārutaṃ bhrājadṛṣṭiṃ rudrasya sūnuṃ havasā vivāse | [?]*
+> *divaḥ śardhāyu śucayo manīṣā girayo nāpaḥ ugrā aspṛdhran ‖ [as read]*
+
+(Ṛ. Saṃ. 6-66-11 [?]). In ṛks of this kind the manner of movement of the Marut-gods is compared to the brightness of the attractive and pure flames of the sacrificial fire. In the same way, there are such examples in many other contexts.
+
+***sudānavaḥ ahibhānavaḥ*** — by these words, which indicate qualities, the Marut-gods are described as *śobhanadānāḥ* — "givers of excellent gifts, who confer beneficial favours" — and as *ahīyamānaprakāśāḥ* — "those whose splendour increases abundantly without failing"; and it is with these very words that they are addressed.
+
+***sudānavaḥ*** — *śobhanadānāḥ*: "those who give most generously, such as Indra and the rest" is the sense. The word *sudānavaḥ* also has the meaning "those full of sap" or "givers of sap". This word is (continued on the next page).
+
+---
+
+**Progress note:** printed p. 228 (PDF 248) done — Sūkta 172 Ṛk 1 through Special Topics (continues p. 229). Next: printed p. 229 (PDF 249). Open flags: Ṛg quotation on p. 228 partly garbled [?]; ref numerals [?]; review/doubts_v13.json.
