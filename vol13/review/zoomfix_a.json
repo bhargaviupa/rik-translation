@@ -798,5 +798,13 @@
   "old": "Ni. 3-3 [?] (tavasaḥ, names of strength)",
   "new": "Ni. 3-13",
   "note": "190dpi: print ನಿ.೩-೧೩. Found with the help of the user-supplied numeral list (which gave 3-9, 3-13, 3-13 for this page); the second ‘Ni. 3-3 [?]’ (virapśinaḥ) not yet viewed. The list also gave 1-128-25 where the file has 1-128-5 [?] — not decided on the page (digits unclear)."
+ },
+ {
+  "pdf": 400,
+  "printed": 380,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-51-6, 4-16-12, 1-54-5, 1-33-12 [?]; Ni. 2-9 [?] (śuṣṇa, strength names)",
+  "new": "refs without [?]; Ni. 3-9",
+  "note": "190dpi page view: refs legible (agree with the user's numeral list); the Nirukta ref begins with the hooked 3. Quotes agree with the file at this resolution."
  }
 ]
