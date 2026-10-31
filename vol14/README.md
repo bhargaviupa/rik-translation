@@ -1,14 +1,15 @@
 # Volume 14
 
-Vol 14 = the volume after Vol 13 in the series — **fill in what it covers (Maṇḍala, Aṣṭaka/Adhyāya, Sūkta range) from the scan's contents table.** First translation of this volume (not a correction pass). English file only (lean mode, as in Vol 13); a Kannada text file only if the user asks. Set up in parallel with Vol 13 (see `vol13/`, whose set-up findings — upside-down scan pages, page map, digit calibration — should be reused).
+First translation of this volume (not a correction pass); English file only (a Kannada text file only if asked). Maṇḍala / Aṣṭaka / Sūkta range: from the scan's title page (record in `vol14_state.md`).
 
 | Path | What it is |
 |---|---|
-| `vol14_state.md` | Where the work stands and the set-up checklist. Read first. |
-| `vol14_runbook.md` | How the volume is translated: LEAN MODE (from the Vol 13 experience). |
-| `scans/` | The scan parts (`14 rigveda samhita volume 14 N.pdf`). |
-| `parts/` | One state file per worker/session. |
-| `review/` | Doubts pages (`.html/.json`), edits logs. |
-| `tools/` | `numsheets.py` (header-strip contact sheets), `view.py`, `stack.py`, `findhead.py`, `append_en.py`, `doubt.py`, `doubts_v14.py`, `cfg.py` (from Vol 13). |
+| `vol14_state.md` | Facts and status. Read first. |
+| `vol14_runbook.md` | The method: page strips at ~360 dpi, one translator agent fed page ranges. |
+| `START_PROMPT.md`, `CONTINUE_PROMPT.md` | Prompts for an independent session. |
+| `scans/` | The 9 scan parts `14 Rigveda Samhitha Volume 14 N.pdf` (979 pages, ~660 ppi). `Rig_Vol14(1/2).pdf` are an old scan: ignore. |
+| `parts/` | `session_state.md`: where the work stands. |
+| `review/` | `doubts_v14.json` and the review pages. |
+| `tools/` | `page.py` (read a page), `numsheets.py` (header strips, for the offset), `append_en.py`, `doubt.py`, `doubts_v14.py`, `cfg.py`. |
 
-Output (repo root): `Rigveda_Samhita_Vol14_English_Translation.md` (and `Rigveda_Samhita_Vol14_Kannada_Text.md` only if asked).
+Output (repo root): `Rigveda_Samhita_Vol14_English_Translation.md`.
