@@ -126,5 +126,21 @@
   "old": "Śa.Brā. 1-9-3-16 [?]; Ni. 3-19 [?]",
   "new": "1-9-3-16; 3-19 (no [?])",
   "note": "650dpi: ೧-೯-೩-೧೬ and ೩-೧೯ legible; grammar-page sutra numerals not viewed."
+ },
+ {
+  "pdf": 314,
+  "printed": 294,
+  "status": "resolved",
+  "old": "शोभनतेद्रूप…भूयास्म [?]; शस्त्रैर्गीयमानः",
+  "new": "शोभनत्वद्रूप…भूयास्म; शस्त्रैर्नयमानः",
+  "note": "280–600dpi: print ಶೋಭನತ್ವದ್ರೂಪ and ಶಸ್ತ್ರೈರ್ನಯಮಾನಃ; (asāma kept: typeface's ma/ya glyph). 'karmokthaiḥ' glyph cluster ಕರ್ಮೋಕ್ಥೋ… not resolved, left."
+ },
+ {
+  "pdf": 317,
+  "printed": 297,
+  "status": "resolved",
+  "old": "सखायोः वयं / sakhāyoḥ vayaṃ (bhāṣya)",
+  "new": "सखायो वयं / sakhāyo vayaṃ",
+  "note": "250/500dpi: print ಸಖಾಯೋ ವಯಂ (no visarga). NOT resolved: 'tadvad asyam indraṃ' — print reads ತದ್ವದ್ಯಮಪೀಂದ್ರಂ-like (ma/ya hooks confuse); the word 'suśiṣvau/suśiṣṭau' in bhāṣya (ಸುಶಿಷ್…ೌ) also undecided; left as is."
  }
 ]
