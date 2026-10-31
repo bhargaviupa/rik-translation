@@ -350,5 +350,13 @@
   "old": "Śa.Brā. 13-5-4-5 [?]; Ṛ.Saṃ. 4-42-8 [?], 1-63-7 [?], 6-20-10 [?], 4-42-9 [?]",
   "new": "Śa.Brā. 13-5-405 as printed [?]; Ṛ.Saṃ. 4-42-8, 1-63-2, 6-20-10, 4-42-9",
   "note": "700dpi/190dpi: ೧೩-೫-೪೦೫ (the 0 is as printed); others legible; 1-63-2 agrees with p.321/323 for the same ṛk."
+ },
+ {
+  "pdf": 346,
+  "printed": 326,
+  "status": "resolved",
+  "old": "वृतोऽसुरपुरीः [?]; वस्तोर्वसतुं",
+  "new": "वृतोऽसुरपुरीः; वस्तोर्वस्तुं",
+  "note": "220dpi: Ṛk 3 Pada and bhāṣya compared. 'vahutendra' item: print ಬಹುಧಾ ವಾಹೂತೇಂದ್ರ — file's 'bahudhā vāhūtendra' agrees. Unresolved: ‘rakṣo rakṣasaś caiva [?]’ (print ರಕ್ಷೋ । ರಕ್ಷಸ್… ಚೈವ-like, middle cluster unclear) left [?]."
  }
 ]
