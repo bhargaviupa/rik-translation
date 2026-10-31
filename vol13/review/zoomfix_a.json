@@ -2550,5 +2550,29 @@
   "old": "6-4-9 [?]",
   "new": "6-4-9",
   "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 388,
+  "printed": 368,
+  "status": "resolved",
+  "old": "3-1-66 [?]; 7-3-33 [?]; 6-4-104 [?]",
+  "new": "3-1-66; 7-3-33; 6-4-104",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's pasted list for printed pp.381-400; changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 392,
+  "printed": 372,
+  "status": "resolved",
+  "old": "7-2-116 [?]; 8-3-56 [?]",
+  "new": "7-2-116; 8-3-56",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's pasted list for printed pp.381-400; changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 398,
+  "printed": 378,
+  "status": "resolved",
+  "old": "10-5-2 [?]",
+  "new": "10-5-2",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's pasted list for printed pp.381-400; changed: confirmed; not viewed by me."
  }
 ]
