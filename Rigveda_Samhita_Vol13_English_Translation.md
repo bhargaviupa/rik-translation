@@ -9750,13 +9750,13 @@ You are a hero, a benefactor, accelerate the vehicle of man (that bears him to h
 
 ***sanitā — dātā*** — explaining that this word is used in the sense of "of a generous nature", Sāyaṇa explains that Indra, being a giver, should, for the sacrificer who is a man, *rathaṃ — raṃhaṇaṃ spandanaṃ manoratham vā svargagamanasādhanaṃ yajñākhyaṃ ratham vā codayaḥ* — urge on the chariot, or the movement, or the desire, or the chariot of sacrifice that is the means of going to heaven, so that the wishes of the sacrificers may be fulfilled, or that the sacrifice, the chariot that enables the sacrificers to go to heaven, may be carried to completion.
 
-***rathaḥ*** — the word *ratha*: "*ratho raṃhater gatikarmaṇaḥ sthiratevā syād viparītasya*" [as read: [?]] — formed from the root *raṃh*, meaning "to go"; or from *sthira* (steady) with the change of letters, so that the word *ratha* comes from the opposite; and "*athavā ramaṇāmo 'smiṃs tiṣṭhatīti vā rapater vā rasater vā*" (Ni. 9-12 [?]) — "he who fights has a comfortable seat in it", and from the root *rap* or from the root *ras*: so it is explained. The Nirukta-writers —
+***rathaḥ*** — the word *ratha*: "*ratho raṃhater gatikarmaṇaḥ sthiratervā syād viparītasya*" — formed from the root *raṃh*, meaning "to go"; or from *sthira* (steady) with the change of letters, so that the word *ratha* comes from the opposite; and "*athavā ramaṇo 'smiṃs tiṣṭhatīti vā rapater vā rasater vā*" (Ni. 9-12) — "he who fights has a comfortable seat in it", and from the root *rap* or from the root *ras*: so it is explained. The Nirukta-writers —
 
 > वनस्पते वीड्वङ्गो हि भूया अस्मत्सखा प्रतरणः सुवीरः । गोभिः संनद्धो असि वीळयस्वास्था ता ते जयतु जेत्वानि ॥
 
 > *vanaspate vīḍvaṅgo hi bhūyā asmatsakhā prataraṇaḥ suvīraḥ | gobhiḥ saṃnaddho asi vīḷayasvāsthātā te jayatu jetvāni ‖*
 
-(Ṛ. Saṃ. 6-47-26 [?]) — quoting this ṛk, they have shown the form of the chariot. But since the word *ratha* is formed from the root *raṃh*, which has the sense of "going", the word is used in several places as an epithet of sons also. In the ṛk at hand, Sāyaṇa has explained the word *ratha* in two ways: as a "desire" (*manoratha*), which is of the nature of movement, and as the chariot in the form of the sacrifice, which is the means of going to heaven.
+(Ṛ. Saṃ. 6-47-26) — quoting this ṛk, they have shown the form of the chariot. But since the word *ratha* is formed from the root *raṃh*, which has the sense of "going", the word is used in several places as an epithet of sons also. In the ṛk at hand, Sāyaṇa has explained the word *ratha* in two ways: as a "desire" (*manoratha*), which is of the nature of movement, and as the chariot in the form of the sacrifice, which is the means of going to heaven.
 
 ### Printed p. 374  (PDF 394)
 
