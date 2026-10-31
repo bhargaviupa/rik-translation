@@ -1616,4 +1616,152 @@ The Abhiplava shines with light of both forms. These worlds themselves (heaven, 
 
 ---
 
-**Progress note:** Done through printed p. 51 (PDF 69). Sūkta 185 Ṛk 1 OPEN: Special Topics (Abhiplava) continue past p. 51 (after the Ai. Brā. 18-1 citation). Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185.
+
+### Printed p. 52  (PDF 70)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185".)*
+
+Of the Abhiplava, which consists of six days (*ṣaḍaha*): first, of the three days called **Jyotiṣṭoma, Goṣṭoma and Āyuṣṭoma**, the Jyotiṣṭoma is the earth, the Goṣṭoma the mid-region, and the Āyuṣṭoma the heavenly world. In the second part, the three-day group (*tryaha*), there is again the order **Goṣṭoma, Āyuṣṭoma and Jyotiṣṭoma**. The **Jyoti** (-*ṣṭoma*) that belongs to the first group is of the form of the earth; that same **Jyoti** (belonging to the second part) is of the form of the heavenly world. They perform this sacrifice in the form of the Abhiplava, with its six members, between the two worlds that are of the form of light at both ends. (Jyotiṣṭoma, Goṣṭoma and Āyuṣṭoma — these three belong to the first group; Goṣṭoma, Āyuṣṭoma and Jyotiṣṭoma — these three are the order belonging to the second group. Hence (the name *ṣaḍaha* for the Abhiplava).) Making the light shine at both ends and performing this Abhiplava in the form of a *ṣaḍaha*, they also give help to the maintenance of the two worlds. And,
+
+> परियद्वा एतद्देवचक्रं यदभिप्लवः षळहस्तस्य यावभितोऽग्निष्टोमौ तौ
+> प्रधी ये चत्वारो मध्य उक्थ्यास्तन्नभ्यं । गच्छति वै वर्तमानेन यत्र
+> कामयते तत्स्वस्ति संवत्सरस्य पारमश्नुते य एवं वेद । यो वै तद्वेद
+> यत्प्रथमः षळहः स वै स्वस्ति संवत्सरस्य पारमश्नुते यस्तद्वेद यद्द्वि-
+> तीयो यस्तद्वेद यत्तृतीयो यस्तद्वेद यच्चतुर्थो यस्तद्वेद
+> यत्पञ्चमः ॥
+
+> *pariyadvā etaddevacakraṃ yadabhiplavaḥ ṣaḷahastasya yāvabhito 'gniṣṭomau tau*
+> *pradhī ye catvāro madhya ukthyāstannabhyaṃ | gacchati vai vartamānena yatra*
+> *kāmayate tatsvasti saṃvatsarasya pāramaśnute ya evaṃ veda | yo vai tadveda*
+> *yatprathamaḥ ṣaḷahaḥ sa vai svasti saṃvatsarasya pāramaśnute yastadveda yaddvi-*
+> *tīyo yastadveda yattṛtīyo yastadveda yaccaturtho yastadveda*
+> *yatpañcamaḥ ‖*
+
+(Ai. Brā. 18-15) (Gloss, mine and tentative: "The six-day Abhiplava is a revolving wheel of the gods; the two Agniṣṭomas on either side are its felloes, the four Ukthyas in the middle its nave. With it, revolving, one goes where one wishes; he reaches safely the far shore of the year who knows thus. He who knows which is the first six-day period reaches safely the far shore of the year; he who knows which is the second, the third, the fourth, the fifth.")
+
+This Abhiplava consisting of six days is, for the gods, a wheel of circular form. The Agniṣṭomas at both ends are the two felloes of the wheel; the four Ukthyas in the middle are the nave. Whoever knows this principle crosses to the far shore of the year by the help of this wheel. In the same way, if one knows the full nature of the Abhiplava and performs it duly, all the desired objects for the completion of the year are accomplished for him: thus the greatness of the Abhiplava is praised. Besides,
+
+> सा यथा स्रुतिरञ्जसायन्येवमभिप्लवः षळहः स्वर्गस्य लोकस्याथ यथा
+> महापथः पर्याण एवं पृष्ठ्यः षळहः स्वर्गस्य लोकस्य तद्यदुभाभ्यां
+> यन्त्युभाभ्यां वै यन्न रिष्यत्युभयोः कामयोरुपाप्त्यै यश्चाभिप्लवे
+> षळहे यश्च पृष्ठ्ये ।
+
+> *sā yathā srutirañjasāyanyevamabhiplavaḥ ṣaḷahaḥ svargasya lokasyātha yathā*
+> *mahāpathaḥ paryāṇa evaṃ pṛṣṭhyaḥ ṣaḷahaḥ svargasya lokasya tadyadubhābhyāṃ*
+> *yantyubhābhyāṃ vai yanna riṣyatyubhayoḥ kāmayorupāptyai yaścābhiplave*
+> *ṣaḷahe yaśca pṛṣṭhye |*
+
+(Ai Brā. 18-3) (Gloss, mine and tentative: "As a path is a straight way, so the six-day Abhiplava is to the heavenly world; and as a highway is a roundabout way, so the six-day Pṛṣṭhya is to the heavenly world. In that they go by both — going by both one is not harmed — it is for obtaining both desires, that in the Abhiplava six-day rite and that in the Pṛṣṭhya.")
+
+This Abhiplava-*ṣaḍaha* is the straight road that leads to heaven; the Pṛṣṭhya is the winding road. By both these means, going forward, the sacrificer, his attainment of desired objects *(continues on the next page)*
+
+### Printed p. 53  (PDF 71)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* — (for his attainment of desired objects) can strive. What the place of the Jyotiṣṭoma, Goṣṭoma and Āyuṣṭoma is in these *ṣaḍaha*s will be made known later, when the occasion comes. Praising the greatness of this same *ṣaḍaha*, the Kauṣītaki Brāhmaṇa makes it known thus: "The year is, for the gods, of the form of an immortal wheel. Within it are contained six kinds of food, namely *sa[?]ādi* (the word is unclear). Standing on the support of this wheel they perform the sacrifice in the form of the Abhiplava. All gods and men who perform this sacrifice, standing on the support of this wheel in the form of the year, obtain the six kinds of food as well. By performing the Jyotiṣṭoma and the others twice each, he obtains these six kinds of food too doubled" — so it says.
+
+The **Mahāvrata** too is a member of the '**Gavām ayana**' *sattra*. Of the *sattra* in the form of the Gavāmayana, which is performed through one full year (360 days), the **Prāyaṇīya Atirātra** is the opening day and the **Udayanīya Atirātra** the final day. The rites before the very last, the **Udayanīya Atirātra**, are named **Mahāvrata** (it is of the nature of an Agniṣṭoma). Just as the **Caturviṃśa** is the opening rite of this great *sattra*, so the **Mahāvrata** is the rite in the form of its completion. The procedure of the **Mahāvrata** is explained in the Aitareya Brāhmaṇa thus:
+
+> यद्वै चतुर्विंशं तन्महाव्रतं बृहद्दिवेनात्र होता रेतः सिञ्चति तददो
+> महाव्रतीयेनाह्ना प्रजनयति संवत्सरे संवत्सरे वै रेतः सिक्तं जायते
+> तस्मात्समानं बृहद्दिवः . . . . . . . . . य एवं विद्वानेतदहरुपैति ।
+
+> *yadvai caturviṃśaṃ tanmahāvrataṃ bṛhaddivenātra hotā retaḥ siñcati tadado*
+> *mahāvratīyenāhnā prajanayati saṃvatsare saṃvatsare vai retaḥ siktaṃ jāyate*
+> *tasmātsamānaṃ bṛhaddivaḥ . . . . . . . . . ya evaṃ vidvānetadaharupaiti |*
+
+(Ai. Brā. 17-8) (Gloss, mine and tentative: "What the Caturviṃśa is, that is the Mahāvrata. Here with the Bṛhaddiva the Hotṛ pours seed; that he generates yonder with the Mahāvrata day; seed poured is born in a year; therefore the Bṛhaddiva is the same . . . he who, knowing thus, comes to this day.")
+
+The importance the **Caturviṃśa** has at the beginning of the "**Gavām ayana**", the **Mahāvrata** has at the end. With the **Bṛhaddiva** mantras the Hotṛ pours out the *retas* that is of the form of seed, and on the day of the Mahāvrata he becomes a helper in the act of generation. Whatever seed it be, within one year it develops into the form of fruit. One who knows this principle crosses the noose of the year and obtains wealth of food and wealth of offspring. One main point understood from this explanation is this: just as with the **Pravargya** rite, so with the rite in the form of the **Mahāvrata** too, the aim of this rite may be said to be to protect the seed of the sacrifice for a year and then to make it bear fruit. This rite also shows a continuous connection between the year that is passing and the year to come.
+
+At the time of this rite the recitation of the sāman in the form of the **Mahaduktha** is principal. This praises the **Mahāvrata**-*graha*. First the **Mahāvrata** sāman recitation, and then the **Mahaduktha** recitation *(continues on the next page)*
+
+---
+
+
+### Printed p. 54  (PDF 72)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185".)* — together make known the greatness of the **Mahāvrata**. In this recitation the secret principle of **Agni and Prajāpati** lies hidden. This Mahaduktha, consisting of five divisions, reflects the five divisions of the bodily principle, which is in the form of the **union of Agni and Prajāpati**. That is as follows:
+
+(1) The **Gāyatra-sāman**, which is also of the form of a bird, being of the nature of the Trivṛt stoma, reflects the head; (2) the **Rathantara-sāman**, being of the nature of the Pañcadaśa stoma, the right wing; (3) the **Bṛhat-sāman**, being of the nature of the Saptadaśa stoma, the left wing; (4) the **Bhadra-sāman**, being of the nature of the Ekaviṃśa stoma, the tail; and (5) the Rājanya-sāman, being of the nature of the Pañcaviṃśa stoma, the body (*ātman*). Explaining the greatness and the spiritual principle of the **Mahāvrata, the Mahāvrata-sāman and the Mahaduktha**, the Śatapatha Brāhmaṇa praises their glory thus:
+
+> प्रजापतिरिमान्लोकानैप्सत् । स एतं वयोविधमात्मानमपश्यदग्निं तं व्यधत्त
+> तेनेमं लोकमाप्नोत्स द्वितीयं वयोविधमात्मानमपश्यन्महाव्रतं
+> तद्व्यधत्त तेनाऽन्तरिक्षमाप्नोत्स तृतीयं वयोविधमात्मानमपश्यन्महदुक्थं
+> तद्व्यधत्त तेन दिवमाप्नोत् ।
+
+> *prajāpatirimānlokānaipsat | sa etaṃ vayovidhamātmānamapaśyadagniṃ taṃ vyadhatta*
+> *tenemaṃ lokamāpnotsa dvitīyaṃ vayovidhamātmānamapaśyanmahāvrataṃ*
+> *tadvyadhatta tenā 'ntarikṣamāpnotsa tṛtīyaṃ vayovidhamātmānamapaśyanmahadukthaṃ*
+> *tadvyadhatta tena divamāpnot |*
+
+(Gloss, mine and tentative: "Prajāpati wished to obtain these worlds. He saw this bird-shaped self, Agni; he arranged it, and with it obtained this world. He saw a second bird-shaped self, the Mahāvrata; he arranged it, and with it obtained the mid-region. He saw a third bird-shaped self, the Mahaduktha; he arranged it, and with it obtained the sky.")
+
+Prajāpati had the aim of obtaining all these worlds. Then he created Agni in the form of a bird (the Agni-*citi*). Then, constructing it, he obtained this world. Then, having had the vision of the Mahāvrata in the form of a second bird, he constructed it and obtained the mid-region. Finally, having had the vision of the Mahaduktha in the form of a third bird, after constructing it he obtained the heavenly world.
+
+> अयं नाव [?] लोक एषोऽग्निश्चितः । अन्तरिक्षं महाव्रतं द्यौर्महदुक्थं तस्मा-
+> देतानि सर्वाणि सहोपेयादग्निं महाव्रतं महदुक्थग्ं सह हीमे
+> लोका असृज्यन्त इत्यधिदेवतम् ।
+
+> *ayaṃ nāva [?] loka eṣo 'gniścitaḥ | antarikṣaṃ mahāvrataṃ dyaurmahadukthaṃ tasmā-*
+> *detāni sarvāṇi sahopeyādagniṃ mahāvrataṃ mahadukthagṃ saha hīme*
+> *lokā asṛjyanta ityadhidevatam |*
+
+(Gloss, mine and tentative: "This world is this built fire-altar; the mid-region the Mahāvrata; the sky the Mahaduktha. Therefore one should undertake all these together — the fire-altar, the Mahāvrata, the Mahaduktha — for these worlds were created together. So with regard to the deities.")
+
+This Agni-*citi* built by Prajāpati is the terrestrial world; the Mahāvrata is the mid-region; the Mahaduktha is the heavenly world. Since all these worlds were created together by Prajāpati, one should know the natures of the Agni-*citi*, the Mahāvrata and the Mahaduktha together. Among them too, since the earth was created first, the Agni-*citi*, the earth-deity, was built first. This was the description explaining the divine form (*devatā-svarūpa*). In the same way, explaining the bodily principle:
+
+> अथाध्यात्मम् । मन एवाग्निः प्राणो महाव्रतं वाङ्महदुक्थं . . . . . .
+> आत्मैवाग्निः । प्राणो महाव्रतं वाङ्महदुक्थं . . . . . . . .
+> शिर एवाग्निः । प्राणो महाव्रतमात्मा महदुक्थं . . . . . . .
+
+> *athādhyātmam | mana evāgniḥ prāṇo mahāvrataṃ vāṅmahadukthaṃ . . . . . .*
+> *ātmaivāgniḥ | prāṇo mahāvrataṃ vāṅmahadukthaṃ . . . . . . . .*
+> *śira evāgniḥ | prāṇo mahāvratamātmā mahadukthaṃ . . . . . . .*
+
+(Śa. Brā. 10-1-2-1 to 9) (Gloss, mine and tentative: "Now with regard to the self: mind is Agni, breath the Mahāvrata, speech the Mahaduktha . . . the body is Agni, breath the Mahāvrata, speech the Mahaduktha . . . the head is Agni, breath the Mahāvrata, the trunk the Mahaduktha . . .")
+
+### Printed p. 55  (PDF 73)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)*
+
+Explaining the spiritual principle, it describes the mind as the Agni-*citi*, breath as the Mahāvrata and speech as the Mahaduktha; and explaining the bodily principle — the body (*ātman*) as the Agni-*citi*, breath as the Mahāvrata and speech as the Mahaduktha. And, stating the derivation of the **Mahāvrata**,
+
+> " . . . . . . . यजुष्टः प्राण एव महांस्तस्यान्नमेव व्रतं
+> तन्महाव्रतग्ं सामतः प्राण उ एवोक् तस्यान्नमेव थं तदुक्थं . . .
+
+> *" . . . . . . . yajuṣṭaḥ prāṇa eva mahāṃstasyānnameva vrataṃ*
+> *tanmahāvratagṃ sāmataḥ prāṇa u evok tasyānnameva thaṃ tadukthaṃ . . .*
+
+(Śra. [sic] Brā. 10-4-1-23) (Gloss, mine and tentative: ". . . from the Yajus side, breath is the 'great' (*mahān*), its food the *vrata*: that is the Mahāvrata; from the Sāman side, breath is the *uk*, its food the *tha*: that is the *uktha* . . .")
+
+Agni, the presider over the sacrifice, is *mahān*; his food is the *vrata*; therefore it is known as **Mahāvrata**. **Breath is the *uk*** and its **food the *tha***; therefore it is known also as *uktha*: so the derivation from the spiritual side is given. And the glory of the Mahāvrata (-*graha*) too is praised thus:
+
+> अथातो महाव्रतीयस्यैव । प्रजापतेर्ह वै प्रजाः ससृजानस्य पर्वाणि वि
+> सस्रग्ंसुः स विस्रस्तैः पर्वभिर्न शशाक संहातुं ततो देवा अर्चन्तः
+> श्राम्यन्तश्चेरुस्त एतं महाव्रतीयं ददृशुस्तमस्मा अगृह्णंस्तेनास्य
+> पर्वाणि समदधुः ।
+
+> *athāto mahāvratīyasyaiva | prajāpaterha vai prajāḥ sasṛjānasya parvāṇi vi*
+> *sasragṃsuḥ sa visrastaiḥ parvabhirna śaśāka saṃhātuṃ tato devā arcantaḥ*
+> *śrāmyantaścerusta etaṃ mahāvratīyaṃ dadṛśustamasmā agṛhṇaṃstenāsya*
+> *parvāṇi samadadhuḥ |*
+
+(Gloss, mine and tentative: "Now of the Mahāvratīya [cup] itself. When Prajāpati had created the creatures, his joints became loosened; with loosened joints he could not hold himself together. Then the gods went on praising and toiling; they saw this Mahāvratīya, drew it for him, and with it put his joints together.")
+
+After Prajāpati had created all the creatures, from that toil all the joints of his body became loosened; so it became a toil for him even to rise up. All the gods, by prayer full of faith, obtained the vision of the Mahāvrata-*graha*, took it and offered it with him in view. Then all his joints were set right.
+
+> स सग्ंहितैः पर्वभिः । इदमन्नाद्यमभ्युत्तस्थौ यदिदं प्रजापतेरन्नाद्यं यद्वै
+> मनुष्याणामशनं तद्देवानां व्रतं महद्वा इदं व्रतमभूद्येनायग्ं
+> समहास्तेति तस्मान्महाव्रतीयो नाम ।
+
+> *sa sagṃhitaiḥ parvabhiḥ | idamannādyamabhyuttasthau yadidaṃ prajāpaterannādyaṃ yadvai*
+> *manuṣyāṇāmaśanaṃ taddevānāṃ vrataṃ mahadvā idaṃ vratamabhūdyenāyagṃ*
+> *samahāsteti tasmānmahāvratīyo nāma |*
+
+(Śa. Brā. 4-6-4-1 to 2) (Gloss, mine and tentative: "With his joints put together he rose up to this food — this which is Prajāpati's food; what is men's eating is the gods' *vrata*. 'Great indeed has this *vrata* become, by which this one has been restored' — therefore it is called the Mahāvratīya.")
+
+When his joints were set right, Prajāpati accepted this food in the form of the Mahāvratīya-*graha*. What is food for Prajāpati and for the creatures created by him, that same is food in the form of *vrata* for the gods too. Because it has the greatness of setting right Prajāpati's bodily distress too and making him endowed with vitality, it came to be known by the name **Mahāvrata**: this is its praise. What the characteristic of the **Mahāvrata**, of such greatness, is, is made known at great length in the Aitareya Āraṇyaka. In the present context, since it is not possible to give its explanation in full, it is given briefly. The special part will be made known later.
+
+---
+
+**Progress note:** Done through printed p. 55 (PDF 73). Sūkta 185 Ṛk 1 still OPEN: Special Topics (Abhiplava, Mahāvrata) apparently end at the foot of p. 55 ('The special part will be made known later'); Vyākaraṇa-prakriyā of Ṛk 1 not yet seen — continue on printed p. 56 / PDF 74. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]' (Śa. Brā. quotation).
