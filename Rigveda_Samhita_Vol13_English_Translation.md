@@ -8034,13 +8034,13 @@ In this ṛk Indra's greatness is described, together with an account of his qua
 
 *(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
 
-***asura nṝn asmān rakṣa*** — the word *asura* is read among the names of the cloud (Ni. 2-22 [?]); and in the explanation of the word *asura*:
+***asura nṝn asmān rakṣa*** — the word *asura* is read among the names of the cloud (Ni. 2-22); and in the explanation of the word *asura*:
 
 > असुरा असुरताः स्थानेष्वस्ताः स्थानेभ्यो इति वा अपि वासुरिति प्राणनामास्तः शरीरे भवति तेन तद्वन्तः ।
 
 > *asurā asuratāḥ sthāneṣv astāḥ sthānebhyo iti vā api vāsur iti prāṇanāmāstaḥ śarīre bhavati tena tadvantaḥ |* [as read: [?]]
 
-(Ni. 3-8 [?]) — *asura* is explained as "those thrown out from their places", or *asu* is a name of the vital breath, which dwells in the body; hence those possessed of it. Sāyaṇa explains that Indra is *asura* because he destroys enemies (*śatrūn nirasitā*), and the meaning is given that Indra may protect us, the sacrificers who perform the sacrificial rites.
+(Ni. 3-8) — *asura* is explained as "those thrown out from their places", or *asu* is a name of the vital breath, which dwells in the body; hence those possessed of it. Sāyaṇa explains that Indra is *asura* because he destroys enemies (*śatrūn nirasitā*), and the meaning is given that Indra may protect us, the sacrificers who perform the sacrificial rites.
 
 In the Purāṇas and other works the word *asura* is a synonym of *rākṣasa*; but in the Ṛk-saṃhitā the use of this word has various meanings: *asu* means "life-breath, wisdom" (*prāṇa*, *prajñā*) and "that which is cast" (*asyati*), and so on; hence the word *asura* is used in the senses that follow from these meanings. They are to be construed according to the context.
 
@@ -8048,25 +8048,25 @@ In the Purāṇas and other works the word *asura* is a synonym of *rākṣasa*;
 
 > *bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ |*
 
-(Ṛ. Saṃ. 1-54-3 [?]) — in this ṛk the word *asura* is, as in the ṛk in hand, an epithet of Indra. Here also, as stated in that ṛk, *asuraḥ śatrūṇāṃ nirasitā* — "the destroyer of enemies" — is one meaning; and *yadvā asuḥ prāṇo balaṃ vā tadvān* ("one who has *asu*, life or strength"), or "*asavaḥ prāṇāḥ tena ca āpo lakṣyante tān rāti dadātīti asuraḥ*" — *asavaḥ* means waters, and the giver of them is *asura*, so it may be Indra. Since Indra has various powers of this kind, in all these meanings the word may be an epithet of Indra. In the same way —
+(Ṛ. Saṃ. 1-54-3) — in this ṛk the word *asura* is, as in the ṛk in hand, an epithet of Indra. Here also, as stated in that ṛk, *asuraḥ śatrūṇāṃ nirasitā* — "the destroyer of enemies" — is one meaning; and *yadvā asuḥ prāṇo balaṃ vā tadvān* ("one who has *asu*, life or strength"), or "*asavaḥ prāṇāḥ tena ca āpo lakṣyante tān rāti dadātīti asuraḥ*" — *asavaḥ* means waters, and the giver of them is *asura*, so it may be Indra. Since Indra has various powers of this kind, in all these meanings the word may be an epithet of Indra. In the same way —
 
 > क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ।
 
 > *kṣayann asmabhyam asura pracetā rājann enāṃsi śiśrathaḥ kṛtāni |*
 
-(Ṛ. Saṃ. 1-24-14 [?]) — in this ṛk the special epithet *asura* is given to Varuṇa, because he destroys what is undesirable (*aniṣṭakṣepaṇaśīla*); and likewise in the same sense —
+(Ṛ. Saṃ. 1-24-14) — in this ṛk the special epithet *asura* is given to Varuṇa, because he destroys what is undesirable (*aniṣṭakṣepaṇaśīla*); and likewise in the same sense —
 
 > त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
 
 > *tvam agne rudro asuro maho divas tvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
 
-(Ṛ. Saṃ. 2-1-6 [?]) — the qualities of Agni are described. In the same way —
+(Ṛ. Saṃ. 2-1-6) — the qualities of Agni are described. In the same way —
 
 > वि सुपर्णो अन्तरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः ।
 
 > *vi suparṇo antarikṣāṇy akhyad gabhīravepā asuraḥ sunīthaḥ |*
 
-(Ṛ. Saṃ. 1-35-7 [?]) — in this ṛk *asuraḥ* means *prāṇadātā*, the giver of life breath, that is, the Sun.
+(Ṛ. Saṃ. 1-35-7) — in this ṛk *asuraḥ* means *prāṇadātā*, the giver of life breath, that is, the Sun.
 
 ### Printed p. 316  (PDF 336)
 
