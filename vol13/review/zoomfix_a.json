@@ -230,5 +230,13 @@
   "old": "Ṛ.Saṃ. 5-32-10 [?], 4-4-6 [?], 1-44-11 [?], 10-36-6 [?]; Ni. 1-… [?]; Ṛk 1-165-15 [?]",
   "new": "refs without [?]; Ni. 2-5",
   "note": "190–650dpi: ೫-೩೨-೧೦, ೪-೪-೬, ೧-೪೪-೧೧, ೧೦-೩೬-೬, ೧-೧೬೫-೧೫ legible; the Nirukta ref after the gātu/pṛthivī-names line is ೨-೫. Uṇ. Sū. 2-191 [?] left (digits tiny). The printed Ni ref after 'kṣipra names' reads ೨-೯ (not in file's text)."
+ },
+ {
+  "pdf": 330,
+  "printed": 310,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 5-… [?]; 1-118-1 [?]; 10-120-6 [?]",
+  "new": "2-34-4 [?] (first digit the same loop-glyph as in other '2' refs; [?] kept); 1-118-1; 10-120-6",
+  "note": "700dpi/190dpi: ೨?-೩೪-೪, ೧-೧೧೮-೧, ೧೦-೧೨೦-೬. Quotes not re-read."
  }
 ]
