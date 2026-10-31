@@ -686,5 +686,13 @@
   "old": "Aitareya quote: ‘avastād yat tabhnuvan’, ‘parastāt tabhnuvan’, ‘pañcadaśā bhavanti’",
   "new": "‘avastāt pratyuttabhnuvan’, ‘parastāt pratyuttabhnuvan’, ‘saptadaśā bhavanti’",
   "note": "190dpi: print ಅವಸ್ತಾತ್ಪ್ರತ್ಯುತ್ತಭ್ನುವನ್ … ಪರಸ್ತಾತ್ಪ್ರತ್ಯುತ್ತಭ್ನುವನ್ … ಸಪ್ತದಶಾ ಭವಂತಿ. Haug's English paragraph (with Devanagari glyphs ‘svṛṇā’, ‘satra’) not re-checked; the English gloss below the quote (‘15-fold’) should read 17-fold in the sūtra sense — left as is. Ref ‘4-18’ left [?] (print ೪-೧೮/೪-೮೧ unclear)."
+ },
+ {
+  "pdf": 385,
+  "printed": 365,
+  "status": "resolved",
+  "old": "Aitareya quote: pratnayonād; praviśyeran; avastād yaparṣan; parastāt tryabhijit; Ai.Brā. 4-19 [?]; Śa.Brā. 8-1-1-8 [?]; svāraṃsāma",
+  "new": "pralayād; pravilīyeran; avastāt paryārṣan; parastāt tad yad abhijit; refs without [?]; svāragṃsāma",
+  "note": "190dpi page view (ಪ್ರಲ್ಲಯೋದಬಿಭಯುಃ … ಪ್ರವಿಲ್ಲಯೇರನ್ … ಪರ್ಯಾರ್ಷನ್ … ; ಸ್ವಾರಗ್ಂಸಾಮ; refs ೪-೧೯, ೮-೧-೧-೮). Hooked ya/ma glyphs leave doubt in ‘pralayād’/‘pravilīyeran’; the Kannada gloss (‘ಅವಲಂಬನವಿಲ್ಲದೇ ಪತನವನ್ನು ಹೊಂದಬಹುದೆಂಬ ಭಯ’) supports a falling/dissolving sense."
  }
 ]
