@@ -2470,5 +2470,85 @@
   "old": "6-4-111 [?]",
   "new": "6-4-111",
   "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (181-266, 81-100, 150-173, 170+); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 132,
+  "printed": 112,
+  "status": "resolved",
+  "old": "1-166-15 [?]",
+  "new": "1-166-15",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 139,
+  "printed": 119,
+  "status": "resolved",
+  "old": "5-2-127 [?]; 7-1-50 [?]",
+  "new": "5-2-127; 7-1-50",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 143,
+  "printed": 123,
+  "status": "resolved",
+  "old": "6-1-63 [?]; 6-4-66 [?]; 8-1-66 [?]",
+  "new": "6-1-63; 6-4-66; 8-1-66",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 149,
+  "printed": 129,
+  "status": "resolved",
+  "old": "7-1-39 [?]",
+  "new": "7-1-39",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 150,
+  "printed": 130,
+  "status": "resolved",
+  "old": "6-1-168 [?]",
+  "new": "6-1-163",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: 6-1-168->6-1-163; not viewed by me."
+ },
+ {
+  "pdf": 157,
+  "printed": 137,
+  "status": "resolved",
+  "old": "6-1-173 [?]",
+  "new": "6-1-163",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: 6-1-173->6-1-163; not viewed by me."
+ },
+ {
+  "pdf": 163,
+  "printed": 143,
+  "status": "resolved",
+  "old": "3-4-6 [?]",
+  "new": "3-4-6",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 170,
+  "printed": 150,
+  "status": "resolved",
+  "old": "5-3-55 [?]",
+  "new": "5-3-55",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 519,
+  "printed": 499,
+  "status": "resolved",
+  "old": "1-164-2 [?]",
+  "new": "1-164-2",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 567,
+  "printed": 547,
+  "status": "resolved",
+  "old": "6-4-9 [?]",
+  "new": "6-4-9",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's numeral sheets (pp.81-154, 481-569); changed: confirmed; not viewed by me."
  }
 ]
