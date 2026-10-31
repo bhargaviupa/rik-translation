@@ -4162,5 +4162,185 @@
   ],
   "note": "ZOOMED, read: Bṛ. De. 1-101 : 1-102",
   "answer": ""
+ },
+ {
+  "pdf": 129,
+  "printed": 111,
+  "crop": [
+   0.667,
+   0.69,
+   0.22,
+   0.429
+  ],
+  "note": "ZOOMED, read: 'atha yānyetānyauttamikāni' (yā, not yo)",
+  "answer": ""
+ },
+ {
+  "pdf": 130,
+  "printed": 112,
+  "crop": [
+   0.294,
+   0.317,
+   0.417,
+   0.634
+  ],
+  "note": "ZOOMED, read: Ni. 7-22 to 7-31",
+  "answer": ""
+ },
+ {
+  "pdf": 130,
+  "printed": 112,
+  "crop": [
+   0.54,
+   0.563,
+   0.218,
+   0.317
+  ],
+  "note": "ZOOMED, read: Ni. 7-21",
+  "answer": ""
+ },
+ {
+  "pdf": 130,
+  "printed": 112,
+  "crop": [
+   0.495,
+   0.516,
+   0.324,
+   0.477
+  ],
+  "note": "ZOOMED, read: (Śa. Brā.) 10-6-1-1 to 11",
+  "answer": ""
+ },
+ {
+  "pdf": 131,
+  "printed": 113,
+  "crop": [
+   0.353,
+   0.384,
+   0.288,
+   0.504
+  ],
+  "note": "ZOOMED, read: 'saṃprati khalu nvā ahaṃ' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 131,
+  "printed": 113,
+  "crop": [
+   0.495,
+   0.52,
+   0.404,
+   0.816
+  ],
+  "note": "ZOOMED, read: 'hovācaiṣa vai pratiṣṭhā etaṃ rayiṃ vaiśvānara etaṃ' as printed (rayiṃ in ¶4)",
+  "answer": ""
+ },
+ {
+  "pdf": 131,
+  "printed": 113,
+  "crop": [
+   0.52,
+   0.543,
+   0.254,
+   0.816
+  ],
+  "note": "ZOOMED, read: 'pratiṣṭhā vaiśvānaraṃ vettha … pratiṣṭhitaḥ prajñayā paśubhirasi' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 131,
+  "printed": 113,
+  "crop": [
+   0.548,
+   0.574,
+   0.254,
+   0.554
+  ],
+  "note": "ZOOMED, read: 'pādau tvā etau'",
+  "answer": ""
+ },
+ {
+  "pdf": 131,
+  "printed": 113,
+  "crop": [
+   0.779,
+   0.816,
+   0.254,
+   0.816
+  ],
+  "note": "UNDECIDED: 'vastistvā[?]hāsyadyadi' — small subscript mark after tvā (avagraha?)",
+  "answer": ""
+ },
+ {
+  "pdf": 132,
+  "printed": 114,
+  "crop": [
+   0.602,
+   0.623,
+   0.241,
+   0.407
+  ],
+  "note": "UNDECIDED: 'atha hoc[?]' (¶7 opening; looks like hoce/hoca, not hovāca)",
+  "answer": ""
+ },
+ {
+  "pdf": 132,
+  "printed": 114,
+  "crop": [
+   0.639,
+   0.66,
+   0.523,
+   0.817
+  ],
+  "note": "ZOOMED, read: 'tasmāttvāṃ pṛthagrathaśreṇayo' (broken print)",
+  "answer": ""
+ },
+ {
+  "pdf": 132,
+  "printed": 114,
+  "crop": [
+   0.684,
+   0.709,
+   0.307,
+   0.689
+  ],
+  "note": "UNDECIDED: 'prāṇastvā[?]hāsyad' small subscript after tvā (as p. 113 vastistvā[?]hāsyad)",
+  "answer": ""
+ },
+ {
+  "pdf": 133,
+  "printed": 115,
+  "crop": [
+   0.763,
+   0.792,
+   0.641,
+   0.804
+  ],
+  "note": "ZOOMED, read: 'pṛthagannamaghastaṃ' as printed (anusvāra)",
+  "answer": ""
+ },
+ {
+  "pdf": 133,
+  "printed": 115,
+  "crop": [
+   0.538,
+   0.564,
+   0.44,
+   0.804
+  ],
+  "note": "ZOOMED, read: 'hovācaiṣa vā'atiṣṭhā' (avagraha-like mark then full a) and 'hi ve' (ve as printed, for vai)",
+  "answer": ""
+ },
+ {
+  "pdf": 133,
+  "printed": 115,
+  "crop": [
+   0.364,
+   0.39,
+   0.238,
+   0.473
+  ],
+  "note": "ZOOMED, read: 'cakṣustvāhāsyad' — the subscript after tvā is the va-ottu of tvā; same pattern resolves p. 113 vastistvāhāsyad and p. 114 prāṇastvāhāsyad (no extra sign)",
+  "answer": ""
  }
 ]
