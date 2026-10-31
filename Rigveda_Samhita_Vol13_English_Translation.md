@@ -9653,7 +9653,7 @@ May our Soma libation reach you, (for it is) exhilarating, invigorating, inebria
 
 In this ṛk it is explained that the words *matsaraḥ*, *vṛṣā*, *madaḥ*, *vareṇyaḥ*, *sahāvān*, *sānasiḥ*, *pṛtanāṣāṭ*, *amartyaḥ* are used as epithets of the Soma juice. The meaning of these words has already been explained in the preceding ṛks, so it will not be described again here.
 
-***pṛtanāṣāṭ*** — the word *pṛtanā* is read among the names of battle (Ni. 2-17 [?]). Since those who fight in battle are the soldiers of armies, here the meaning "enemy-army" (*śatrusenā*) is given: "*śatrusenāyāḥ abhibhavitā*" — the explanation is given that the Soma produces the power to conquer the enemy's army.
+***pṛtanāṣāṭ*** — the word *pṛtanā* is read among the names of battle (Ni. 3-9). Since those who fight in battle are the soldiers of armies, here the meaning "enemy-army" (*śatrusenā*) is given: "*śatrusenāyāḥ abhibhavitā*" — the explanation is given that the Soma produces the power to conquer the enemy's army.
 
 This word is well established as an epithet of Indra, describing Indra's distinction; but in the Ṛk-saṃhitā it is not only an epithet of Indra, but an epithet of Agni and other deities as well, indicating their prowess. For example —
 
@@ -9661,13 +9661,13 @@ This word is well established as an epithet of Indra, describing Indra's distinc
 
 > *kṛṇota dhūmaṃ vṛṣaṇaṃ sakhāyo 'sredhanta itana vājam accha | ayam agniḥ pṛtanāṣāṭ suvīro yena devāso asahanta dasyūn ‖*
 
-(Ṛ. Saṃ. 3-29-9 [?]) — here "*pṛtanopalakṣitaṃ yuddhaṃ sahamānaḥ*" ("the one who withstands battle, which is indicated by *pṛtanā*") is the sense of the prowess of Agni that is shown; and "*vyāpriyante atra yoddhāraḥ iti pṛtanāḥ saṃgrāmāḥ*" — since it is the place where warriors gather together in groups, the word *pṛtanā* is used for battle in one place (Ṛ. Saṃ. 3-49-2 [?]); and further,
+(Ṛ. Saṃ. 3-29-9) — here "*pṛtanopalakṣitaṃ yuddhaṃ sahamānaḥ*" ("the one who withstands battle, which is indicated by *pṛtanā*") is the sense of the prowess of Agni that is shown; and "*vyāpriyante atra yoddhāraḥ iti pṛtanāḥ saṃgrāmāḥ*" — since it is the place where warriors gather together in groups, the word *pṛtanā* is used for battle in one place (Ṛ. Saṃ. 3-49-2); and further,
 
 > इमं नरो मरुतः सश्चता वृधं यस्मिन्रायः शेवृधासः । अभि ये सन्ति पृतनासु दूढ्यो विश्वाहा शत्रुमादभुः ॥
 
 > *imaṃ naro marutaḥ saścatā vṛdhaṃ yasmin rāyaḥ śevṛdhāsaḥ | abhi ye santi pṛtanāsu dūḍhyo viśvāhā śatrum ādabhuḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-16-2 [?]) — here, in *pṛtanāsu*, Sāyaṇa in another place explains the word "*senāsu tadupalakṣiteṣu saṃgrāmeṣu*" — "in armies, in the battles that are indicated by them". The Nirukta-writers include this word among the names of battle (Ni. 2-17 [?]). Since in such battles, with enemy armies, he bears his own strength and the strength of his enemies, it is natural that this epithet should apply to Indra or to Agni; but in the ṛk at hand it is an epithet of Soma.
+(Ṛ. Saṃ. 3-16-2) — here, in *pṛtanāsu*, Sāyaṇa in another place explains the word "*senāsu tadupalakṣiteṣu saṃgrāmeṣu*" — "in armies, in the battles that are indicated by them". The Nirukta-writers include this word among the names of battle (Ni. 3-9). Since in such battles, with enemy armies, he bears his own strength and the strength of his enemies, it is natural that this epithet should apply to Indra or to Agni; but in the ṛk at hand it is an epithet of Soma.
 
 ---
 
