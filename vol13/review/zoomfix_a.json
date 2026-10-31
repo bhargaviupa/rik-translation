@@ -2134,5 +2134,117 @@
   "old": "(Ni. 1-10 [?]); (Ṛ. Saṃ. 10-187-2 [?])",
   "new": "(Ni. 2-10); (Ṛ. Saṃ. 10-187-2)",
   "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 1-10->2-10; not viewed by me."
+ },
+ {
+  "pdf": 227,
+  "printed": 207,
+  "status": "resolved",
+  "old": "(Ni. 5-2 [?]); (Ṛ. Saṃ. 1-132-1 [?])",
+  "new": "(Ni. 5-2); (Ṛ. Saṃ. 1-132-1)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 248,
+  "printed": 228,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 6-66-10 [?])",
+  "new": "(Ṛ. Saṃ. 6-66-10)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 249,
+  "printed": 229,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-47-9 [?])",
+  "new": "(Ṛ. Saṃ. 1-47-8)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 1-47-9->1-47-8; not viewed by me."
+ },
+ {
+  "pdf": 252,
+  "printed": 232,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 4-8-1 [?])",
+  "new": "(Ṛ. Saṃ. 4-8-5)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 4-8-1->4-8-5; not viewed by me."
+ },
+ {
+  "pdf": 265,
+  "printed": 245,
+  "status": "resolved",
+  "old": "(Ni. 11-43 [?])",
+  "new": "(Ni. 11-42)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 11-43->11-42; not viewed by me."
+ },
+ {
+  "pdf": 267,
+  "printed": 247,
+  "status": "resolved",
+  "old": "(Ni. 2-14 [?]); (Ni. 2-14 [?]); (Ṛ. Saṃ. 1-50-5 [?])",
+  "new": "(Ni. 2-13); (Ni. 2-13); (Ṛ. Saṃ. 1-50-5)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 2-14->2-13, 2-14->2-13; not viewed by me."
+ },
+ {
+  "pdf": 272,
+  "printed": 252,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-177-1 [?]); (Ṛ. Saṃ. 1-179-1 [?])",
+  "new": "(Ṛ. Saṃ. 1-177-1); (Ṛ. Saṃ. 1-179-1)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 273,
+  "printed": 253,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-181-8 [?]); (Ṛ. Saṃ. 4-30-10 [?]); (Ṛ. Saṃ. 1-55-4 [?])",
+  "new": "(Ṛ. Saṃ. 1-181-8); (Ṛ. Saṃ. 4-30-10); (Ṛ. Saṃ. 1-55-4)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 3 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 274,
+  "printed": 254,
+  "status": "resolved",
+  "old": "(Ni. 1-20 [?])",
+  "new": "(Ni. 1-20)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 275,
+  "printed": 255,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 8-81-5 [?]); (Ṛ. Saṃ. 1-56-2 [?])",
+  "new": "(Ṛ. Saṃ. 8-81-5); (Ṛ. Saṃ. 1-56-2)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 276,
+  "printed": 256,
+  "status": "resolved",
+  "old": "(Pā. Sū. 3-1-123 [?]); (Pā. Sū. 6-1-213 [?])",
+  "new": "(Pā. Sū. 3-1-123); (Pā. Sū. 6-1-213)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 282,
+  "printed": 262,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-4-81 [?])",
+  "new": "(Pā. Sū. 6-4-81)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 284,
+  "printed": 264,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 6-18-8 [?]); (Ni. 3-9 [?])",
+  "new": "(Ṛ. Saṃ. 6-18-8); (Ni. 3-9)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 286,
+  "printed": 266,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-1-70 [?]); (Pā. Sū. 2-4-80 [?]); (Pā. Sū. 7-3-87 [?])",
+  "new": "(Pā. Sū. 6-1-70); (Pā. Sū. 2-4-80); (Pā. Sū. 7-3-87)",
+  "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 3 confirmed ([?] dropped); not viewed by me."
  }
 ]
