@@ -1870,5 +1870,29 @@
   "old": "(Ni. 12-3 [?])",
   "new": "(Ni. 12-3)",
   "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 535,
+  "printed": 515,
+  "status": "resolved",
+  "old": "5-40-8",
+  "new": "5-40-7",
+  "note": "Changed to the user's spreadsheet value (user: sheet is correct); not viewed by me."
+ },
+ {
+  "pdf": 551,
+  "printed": 531,
+  "status": "resolved",
+  "old": "3-1-34",
+  "new": "6-1-34",
+  "note": "Changed to the user's spreadsheet value (user: sheet is correct); not viewed by me."
+ },
+ {
+  "pdf": 568,
+  "printed": 548,
+  "status": "resolved",
+  "old": "7-1-39",
+  "new": "6-1-39",
+  "note": "Changed to the user's spreadsheet value (user: sheet is correct); not viewed by me."
  }
 ]
