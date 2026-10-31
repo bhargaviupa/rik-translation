@@ -6013,7 +6013,7 @@ Sāyaṇa explains *dhenu* as "cows" and gives the meaning that the cows which y
 
 > *dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi | prācī dyāvāpṛthivī brahmaṇā kṛdhi svar ṇa śukram uṣaso vi didyutaḥ ‖*
 
-(Ṛ. Saṃ. 2-2-2 [?]) — in such ṛks it is explained as "the sun". Likewise, words such as *svarvat*, formed with the suffix *vat*, are to be explained according to context. For example —
+(Ṛ. Saṃ. 2-2-2) — in such ṛks it is explained as "the sun". Likewise, words such as *svarvat*, formed with the suffix *vat*, are to be explained according to context. For example —
 
 ### Printed p. 248  (PDF 268)
 
