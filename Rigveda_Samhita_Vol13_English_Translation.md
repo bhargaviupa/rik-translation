@@ -8972,23 +8972,23 @@ For "men who perform sacrifice", the words *āyuḥ*, *āyoḥ* have been used i
 
 > *hotrābhir agnir manuṣaḥ svadhvaro rājā viśām atithiś cārur āyave |*
 
-(Ṛ. Saṃ. 2-2-8 [?]);
+(Ṛ. Saṃ. 2-2-8);
 
 > इमं विधन्तो अपां सधस्थे द्वितादधुर्भृगवो विक्ष्वायोः ।
 
 > *imaṃ vidhanto apāṃ sadhasthe dvitādadhur bhṛgavo vikṣv āyoḥ |*
 
-(Ṛ. Saṃ. 2-4-2 [?]);
+(Ṛ. Saṃ. 2-4-2);
 
 > प्र स्वादनं पितूनामस्तं तातिं चिदायवे ।
 
 > *pra svādanaṃ pitūnām astaṃ tātiṃ cid āyave |* [as read: [?]]
 
-(Ṛ. Saṃ. 5-7-6 [?]) — in many such ṛks the Bhāṣya-writer has given the word *āyu* the meaning "sacrificer". In the ṛk at hand also, pointing to the same intention, he has explained it as meaning "men, the Adhvaryu and others".
+(Ṛ. Saṃ. 5-7-6) — in many such ṛks the Bhāṣya-writer has given the word *āyu* the meaning "sacrificer". In the ṛk at hand also, pointing to the same intention, he has explained it as meaning "men, the Adhvaryu and others".
 
-***śūrtāḥ — kṣiptāḥ*** — the word *śūrtāḥ* is read among the names of "swift" (*kṣipra*) (Ni. 2-… [?]). Here it is used in the sense "swiftly".
+***śūrtāḥ — kṣiptāḥ*** — the word *śūrtāḥ* is read among the names of "swift" (*kṣipra*) (no reference is printed here). Here it is used in the sense "swiftly".
 
-***apatyaṃ — kulasyāpātayitāraṃ putraṃ*** — the word *apatya* is read among the fifteen names of progeny, *tuk*, *tokam* and so on (Ni. 3-2 [?]). "*Apatyaṃ kasmāt*" — "*apatataṃ bhavati pitus sakāśāt pṛthag iva tataṃ bhavati*, *nānena pateti vā*" [as read: [?]] — Durgācārya has explained the meaning of the word thus: because it is spread separately, as it were, from the father; or because the father, through the son, is not made to fall into hell (*naraka*). Sāyaṇa explains that the child that arises is called *apatya* because he makes the family prosper and does not let it fall (*kulasyāpātayitāram*).
+***apatyaṃ — kulasyāpātayitāraṃ putraṃ*** — the word *apatya* is read among the fifteen names of progeny, *tuk*, *tokam* and so on (Ni. 3-2). "*Apatyaṃ kasmāt*" — "*apatataṃ bhavati pitus sakāśāt pṛthag iva tataṃ bhavati*, *nānena pateti vā*" [as read: [?]] — Durgācārya has explained the meaning of the word thus: because it is spread separately, as it were, from the father; or because the father, through the son, is not made to fall into hell (*naraka*). Sāyaṇa explains that the child that arises is called *apatya* because he makes the family prosper and does not let it fall (*kulasyāpātayitāram*).
 
 Sāyaṇa has explained three kinds of meaning for the second half of the ṛk. In the first sense: Indra, they learn, is of the nature of a generous giver; the men, the Adhvaryu and others, with the other priests, quickly make an offering of oblations in the form of food; and they are to see the generous Indra, having obtained, from the delighted Indra, a son who maintains the family (a progeny who increases the family): so the sense is described.
 
