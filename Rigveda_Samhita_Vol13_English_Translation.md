@@ -9196,14 +9196,14 @@ In the second meaning, for the word *pūrvīḥ* the sense *purātanyaḥ āpa�
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
-- ***tā*** — from the form *tāni*; "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) drops *śi*; or a change of gender.
-- ***āguḥ*** — root *iṇ gatau*; *luṅ*, third person plural, the suffix *jhi*; by "*luṅi ca*" (Pā. Sū. 2-4-43 [?]) the substitution *gā* for the root; by "*gātisthāghupā*…" (Pā. Sū. 2-4-77 [?]) *luk* for *sic*; by "*ātaḥ*" (Pā. Sū. 3-4-110 [?]) the substitution *jus* for *jhi*; "*ussyapadāntāt*" (Pā. Sū. 6-1-96 [?]) *parar-ūpa*; the augment *a* for it; being after *ati* (*tiṅ*), *nighāta* accent.
+- ***tā*** — from the form *tāni*; "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70) drops *śi*; or a change of gender.
+- ***āguḥ*** — root *iṇ gatau*; *luṅ*, third person plural, the suffix *jhi*; by "*luṅi ca*" (Pā. Sū. 2-4-43) the substitution *gā* for the root; by "*gātisthāghupā*…" (Pā. Sū. 2-4-77) *luk* for *sic*; by "*ātaḥ*" (Pā. Sū. 3-4-100) the substitution *jus* for *jhi*; "*ussyapadāntāt*" (Pā. Sū. 6-1-96) *parar-ūpa*; the augment *a* for it; being after *ati* (*tiṅ*), *nighāta* accent.
 - ***nabhaḥ*** — root *ṇabha hiṃsāyām*; by "*kvip ca*" the suffix *kvip*; accusative plural.
-- ***bhinat*** — root *bhidir vidāraṇe*; *laṅ*, second person singular (by *vyatyaya*); *tip* arises by "*vyatyayo bahulam*"; by "*itaś ca*" the *i* is dropped; by "*rudhādibhyaḥ śnam*" the *śnam* *vikaraṇa*; because it ends in *mit*, the *n* is placed after the last vowel; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75 [?]) no augment; because it is in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
+- ***bhinat*** — root *bhidir vidāraṇe*; *laṅ*, second person singular (by *vyatyaya*); *tip* arises by "*vyatyayo bahulam*"; by "*itaś ca*" the *i* is dropped; by "*rudhādibhyaḥ śnam*" the *śnam* *vikaraṇa*; because it ends in *mit*, the *n* is placed after the last vowel; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75) no augment; because it is in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
 - ***bhidaḥ*** — for the same root, the suffix *kvip*; accusative plural.
-- ***adevīḥ*** — *naña* *tatpuruṣa* compound; accusative plural; by "*tatpuruṣe tulyārtha*…" (Pā. Sū. 6-2-2 [?]) the *naña*-fore-member keeps its natural accent.
+- ***adevīḥ*** — *naña* *tatpuruṣa* compound; accusative plural; by "*tatpuruṣe tulyārtha*…" (Pā. Sū. 6-2-2) the *naña*-fore-member keeps its natural accent.
 - ***nanamaḥ*** — root *ṇamu prahvatve śabde ca*; the root includes *ṇic* in its sense; *laṅ*, second person singular, *sip*; the *i* dropped; *śap* *vikaraṇa*; by *vyatyaya* reduplication of the root; because it is in *pādādi* position, no *nighāta*; the root accent remains.
-- ***pīyoḥ*** — root *pā pāne*; by "*khyaru śaṃku pīyu*" (Uṇ. Sū. 1-… [?]) the suffix *yu*, ending in *ku*, is formed by *nipātana*; genitive singular. ‖ 8 ‖
+- ***pīyoḥ*** — root *pā pāne*; by "*khyaru śaṃku pīyu*" (Uṇ. Sū. 1-36 [?]) the suffix *yu*, ending in *ku*, is formed by *nipātana*; genitive singular. ‖ 8 ‖
 
 ---
 
