@@ -2647,4 +2647,242 @@ That is: formerly these worlds, that is, Heaven and Earth, were together in one 
 
 ---
 
-**Progress note:** Done through printed p. 79 (PDF 97). Sūkta 185 Ṛk 5 (saṃgacchamāne yuvatī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics in progress (yuvatī: examples for Agni, Indra, Aśvins, Mitra-Varuṇa, Uṣas; sentence runs over to p. 80); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 80 / PDF 98. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (the same Ai. Brā. 19-5 passage on p. 79 is printed 'samatapatte': recheck p. 73). New: p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3 (5 elsewhere), Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' (short i) as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed (Ṛ. 10-81-2); p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference printed below the following prose line.
+### Printed p. 80  (PDF 98)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 5, continued.)*
+
+> उत स्वसारा युवती भवन्ती आदु ब्रुवाते मिथुनानि नाम ।
+
+> *uta svasārā yuvatī bhavantī ādu bruvāte mithunāni nāma |*
+
+(Ṛ. Saṃ. 3-54-7) (Gloss, mine and tentative: "And, being sisters, young women, they then call each other by paired names.")
+
+— in such ṛks this word is used in reference to Heaven and Earth also.
+
+**समन्ते — समानान्तिके समानपर्यन्ते वा । (*samante — samānāntike samānaparyante vā |*)** The two worlds called Heaven and Earth have one and the same end, or have equal pervasion; that is, the other world is as wide as the extent of the one world. The purport is that the extent of both is the same. In the Taittirīya-saṃhitā (in the Yajurveda) —
+
+> अन्तर्हितो हि देवलोको मनुष्यलोकात् ।
+
+> *antarhito hi devaloko manuṣyalokāt |*
+
+(Tai. Saṃ. 6-1-1.1, as printed) (Gloss, mine and tentative: "For the world of the gods is hidden from (set within) the world of men.")
+
+— that is, it is said that the world of men (the earth) and the world of the gods (Svarga) are interwoven, the one within the other. That is, the purport is that the earth and Svarga (the Antarikṣa) are of equal extent.
+
+**स्वसारा — परस्परं स्वसृभूते । (*svasārā — parasparaṃ svasṛbhūte |*)** Here the use of the word *svasṛ* does not indicate the meaning "elder and younger sisters". But the purport is: "having mutual affection like elder and younger sisters, and having an equal place (rank)". The words **युवती, समन्ते, स्वसारा (*yuvatī, samante, svasārā*)** in the present ṛk are words that indicate the very meaning of the epithets of Heaven and Earth such as **दूरेअन्ते (*dūreante*)** in the 7th ṛk; they are seen also in such ṛks as —
+
+> समान्या वियुते दूरे अन्ते ध्रुवे पदे तस्थतुर्जागरूके ।
+> उत स्वसारा युवती भवन्ती आदु ब्रुवाते मिथुनानि नाम ॥
+
+> *samānyā viyute dūre ante dhruve pade tasthaturjāgarūke |*
+> *uta svasārā yuvatī bhavantī ādu bruvāte mithunāni nāma ‖*
+
+(Ṛ. Saṃ. 3-54-7) (Gloss, mine and tentative: "Sharing one end, yet apart, with far-off ends, the two watchful ones have stood in a firm place; and, being sisters, young women, they then call each other by paired names.")
+
+**जामी (*jāmī*)** — having mutual kinship. Since Prajāpati alone created Heaven and Earth at one and the same time, it is explained that they have kinship with each other. The word *jāmi* is read among the names of water (Ni. 2-24, as printed). But here the bhāṣyakāra has given the meaning "kinship". Yāska in his Nirukta —
+
+*(As printed: "जामयो (*jāmayo*)".)*
+
+> न जामयो भगिन्यै । जामिरन्येऽस्यां जनयन्ति जामपत्यम् । जमतेर्वा
+> स्याद्गतिकर्मणो निर्गमनप्राया भवति ॥
+
+> *na jāmayo bhaginyai | jāmiranye 'syāṃ janayanti jāmapatyam | jamatervā*
+> *syādgatikarmaṇo nirgamanaprāyā bhavati ‖*
+
+(Ni. 3-7) (Gloss, mine and tentative: "Not to the sister (*jāmi*): she is *jāmi* because others beget offspring (*jā*) in her; or it may be from *jam*, a verb of going: she is one who mostly goes out.")
+
+That is, the word *jāmi* has the meaning *bhaginī* (sister, *sahodarī*), because others, that is the husband, produce sons in this woman: hence the name *jāmi*. Or, since the word *jāmi* has the sense of going — that is, this woman after marriage leaves the house of the father where she was born and, of the husband (*gaṇḍa*) *(continues on the next page)*
+
+---
+
+### Printed p. 81  (PDF 99)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3" — Varga 3 from this page. Special Topics of Ṛk 5, continued.)* — goes to the house, therefore the sister has the name *jāmi*: so they have stated the derivation. In this ṛk the stating of the general meaning "kinship" is appropriate.
+
+*(As read: "पितृस्थानिययोः (*pitṛsthāniyayoḥ*)", with short i, where the bhāṣya has *pitṛsthānīyayoḥ*.)*
+
+**पित्रोः उपस्थे — पित्रोः सर्वस्य पितृस्थानिययोः पालकयोस्तयोरुपस्थ उत्सङ्गे स्थितम् । (*pitroḥ upasthe — pitroḥ sarvasya pitṛsthāniyayoḥ pālakayostayorupastha utsaṅge sthitam |*)** They have given the meaning "being in the lap of these Heaven and Earth, who are protectors, like father and mother, of all the living beings in the world". On the point that these Heaven and Earth are the father and mother of the world —
+
+> उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः ।
+
+> *uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |*
+
+(Ṛ. Saṃ. 1-160-2) (Gloss, mine and tentative: "The wide-extending, mighty, inexhaustible father and mother protect the worlds.")
+
+> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः ।
+
+> *tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tatpitā dyauḥ |*
+
+(Ṛ. Saṃ. 1-89-4) (Gloss, mine and tentative: "May the wind waft to us that healing remedy, may mother Earth, may father Heaven (grant) that.")
+
+> इदं द्यावापृथिवी सत्यमस्तु पितर्मातर्यदिहोपब्रुवे वाम् ।
+
+> *idaṃ dyāvāpṛthivī satyamastu pitarmātaryadihopabruve vām |*
+
+(Ṛ. Saṃ. 1-185-11) (Gloss, mine and tentative: "O Heaven and Earth, may this be true, O father, O mother, which I here address to you.")
+
+> आ सुष्टुती नमसा वर्तयध्यै द्यावा वाजाय पृथिवी अमृध्रे ।
+> पिता माता मधुवचाः सुहस्ता भरेभरे नो यशसावविष्टाम् ॥
+
+> *ā suṣṭutī namasā vartayadhyai dyāvā vājāya pṛthivī amṛdhre |*
+> *pitā mātā madhuvacāḥ suhastā bharebhare no yaśasāvaviṣṭām ‖*
+
+(Ṛ. Saṃ. 5-43-2) (Gloss, mine and tentative: "With fair praise and homage I would turn hither, for strength, Heaven and Earth, the unfailing; may the father and mother, sweet-spoken, fair-handed, glorious, help us in every contest.")
+
+— in these and many other ṛks it is explained that the Earth is mother to the whole world and Svarga (the Antarikṣa) is the father. Just as father and mother seat their sons on their lap, so Heaven and Earth, the father and mother of the world, hold on their lap, that is, in the Antarikṣa, for the nourishment of the world, the water of the clouds gathered for the rain, which stands in the place of a son: so the ṛṣi has described.
+
+**अभिजिघ्रन्ती — अभिघ्राणं कुर्वन्त्यौ, स्पृशन्त्यौ । (*abhijighrantī — abhighrāṇaṃ kurvantyau, spṛśantyau |*)** Sāyaṇa's explanation is "those who smell, that is, those who touch". But this meaning does not fit here; and why the ṛṣi has used this word, what his intention is, cannot be clearly known. Since this use of the word is found nowhere else in the Ṛgveda, it is not possible to know the opinion of other ṛṣis on the meaning of this word. Since generally in the world people are seen here and there smelling an object dear to them and keeping it safely with themselves, the ṛṣi's intention may be that these Heaven and Earth hold lovingly within themselves the water in the mass of clouds, for the use of the people.
+
+**भुवनस्य नाभिं (*bhuvanasya nābhiṃ*)** — the word *bhuvana* is read among the names of water (Ni. 2-24, as printed). And, *(continues on the next page)*
+
+---
+
+### Printed p. 82  (PDF 100)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 5, concluded; Vyākaraṇa-prakriyā begins.)*
+
+*(As printed: "वयं न (*vayaṃ na*)" in line 2.)*
+
+> नीचीनबारं वरुणः कवन्धं प्र ससर्ज रोदसी अन्तरिक्षं ।
+> तेन विश्वस्य भुवनस्य राजा वयं न वृष्टिर्व्युनत्ति भूम ॥
+
+> *nīcīnabāraṃ varuṇaḥ kavandhaṃ pra sasarja rodasī antarikṣaṃ |*
+> *tena viśvasya bhuvanasya rājā vayaṃ na vṛṣṭirvyunatti bhūma ‖*
+
+(Ṛ. Saṃ. 5-85-3) (Gloss, mine and tentative: "Varuṇa poured out the cask with its opening downward over the two worlds and the mid-space; with it the king of the whole world moistens the ground, as rain the barley.")
+
+— for the word **भुवनस्य (*bhuvanasya*)** in this ṛk Yāska has given the derivation **सर्वस्य भुवसन्य (*sarvasya bhuvasanya*)** [sic] (**भूतजातकस्योदकस्य वा (*bhūtajātakasyodakasya vā*)**) (as printed) (Ni. 10-4): *bhuvana* means the world or the living beings of the world. But here the bhāṣyakāra has taken the meaning "water". For the word *nābhi* Yāska has given the derivation —
+
+> संबन्धनान्नाभिः सन्नहनान्नाभ्या सन्नद्धा गर्भा जायन्त इत्याहुरेतस्मादेव
+> ज्ञातीन् सनाभय इत्याचक्षते ।
+
+> *saṃbandhanānnābhiḥ sannahanānnābhyā sannaddhā garbhā jāyanta ityāhuretasmādeva*
+> *jñātīn sanābhaya ityācakṣate |*
+
+(Ni. 4-20) (Gloss, mine and tentative: "*Nābhi* (navel) from binding together: they say that embryos are born bound by the navel; for this very reason kinsmen are called *sanābhi*.")
+
+That is, for the word *nābhi* the meaning "the middle region which joins together" may be given. Sāyaṇa, explaining the ṛk
+
+> पृच्छामि त्वा परमन्तं पृथिव्याः पृच्छामि यत्र भुवनस्य नाभिः ।
+
+> *pṛcchāmi tvā paramantaṃ pṛthivyāḥ pṛcchāmi yatra bhuvanasya nābhiḥ |*
+
+(Ṛ. Saṃ. 1-164-34) (Gloss, mine and tentative: "I ask you about the farthest end of the earth; I ask where is the navel of the world.")
+
+— has explained: **भुवनस्य भूतजातस्य नाभिः संनाहो बन्धनम् । यत्र सर्वं संनद्धं भवति तमित्यर्थः (*bhuvanasya bhūtajātasya nābhiḥ saṃnāho bandhanam | yatra sarvaṃ saṃnaddhaṃ bhavati tamityarthaḥ*)** — that is, the place where everything is joined and gathered together has the name *nābhi*. In the present ṛk the purport is: the water of the clouds gathered together in one place for the sake of rain, that is, the water which is joined together.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; continues on the next page).** *saṃgacchamāne* (root *gamḷ gatau*; with the upasarga *sam*, *ātmanepada* by *samo gamyṛcchibhyām* (Pā. Sū. 1-3-29); *śānac* for *laṭ*; by *tāsyanudāttet…* the *lasārvadhātuka* is unaccented, so the root accent remains; in the compound the original accent of the *kṛt* final member; *ṭāp* in the feminine). *yuvatī* (suffix *ti* to *yuvan* in the feminine by *yūnas tiḥ* (Pā. Sū. 4-1-77); by *an* (Pā. Sū. 6-4-167) *prakṛtibhāva*, so no *ṭi*-loss; loss of *n* by *nalopaḥ prātipadikāntasya* (Pā. Sū. 8-[?]-7); final acute by the suffix accent; in the dual *pūrvasavarṇa* lengthening by *supāṃ suluk*). *samante* (समानम् अन्तिकं ययोस्ते समन्ते (*samānam antikaṃ yayoste samante*); loss of the *k* of *antika*; *sa* for *samāna* by *samānasya chandasy…* (as printed; Pā. Sū. 6-3-84); first-member accent by *bahuvrīhau prakṛtyā…* (Pā. Sū. 6-2-1)).
+
+---
+
+### Printed p. 83  (PDF 101)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Vyākaraṇa-prakriyā of Ṛk 5, concluded; Ṛk 6 begins.)*
+
+*Grammar, continued:* *svasārā* (by *supāṃ suluk…* the dual ending *au*; *ā* substituted for the case ending). *abhijighrantī* (root *ghrā gandhopādāne*; *śatṛ* for *laṭ*; by *pāghrādhmā…* (Pā. Sū. 7-3-78) the substitute for the root — printed "*śatrādeśa*" here; *ṅīp* in the feminine by *ugitaś ca*; the *lasārvadhātuka* unaccented, so the root accent remains; in the *prādi* compound the original accent of the *kṛt* final member; *pūrvasavarṇa* lengthening before the dual by *supāṃ suluk*). ‖ 5 ‖
+
+*(Ornamental rule "— 0 —": end of Ṛk 5.)*
+
+## Sūkta 185, Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+*(As printed: "पथिवी (*pathivī*)" in line 2, without *ṛ*; the Pada has पृथिवी.)*
+
+> उर्वी सद्मनी बृहती ऋतेन हुवे देवानामवसा जनित्री ।
+> दधाते ये अमृतं सुप्रतीके द्यावा रक्षतं पथिवी नो अभ्वात् ॥ ६ ॥
+
+> *urvī sadmanī bṛhatī ṛtena huve devānāmavasā janitrī |*
+> *dadhāte ye amṛtaṃ supratīke dyāvā rakṣataṃ pathivī no abhvāt ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> उर्वी इति । सद्मनी इति । बृहती इति । ऋतेन । हुवे । देवानां । अवसा । जनित्री इति ।
+> दधाते इति । ये इति । अमृतं । सुप्रतीके इति सुऽप्रतीके । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ६ ॥
+
+> *urvī iti | sadmanī iti | bṛhatī iti | ṛtena | huve | devānāṃ | avasā | janitrī iti |*
+> *dadhāte iti | ye iti | amṛtaṃ | supratīke iti su 'pratīke | dyāvā | rakṣataṃ | pṛthivī iti | naḥ | abhvāt ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* By the sacrifice and for the gods' satisfaction I invoke the wide, great Heaven and Earth, the abode of all, the begetters of rain and crops, who hold the water (*amṛta*).
+
+> उर्वी विस्तीर्णे सद्मनी सदनाधारभूते बृहती महत्यौ महानुभावे देवानां । उपलक्षणमेतत् । देवमनुष्यादीनामवसा प्रीत्या निमित्तेन जनित्री वृष्टिसस्ययोर्जनित्र्यौ । वृष्ट्यादेर्देवानामवसा तर्पणेन निमित्तेन ऋतेन यज्ञेन च निमित्तभूतेन हुवे । आह्वयामि । देवानां हविरर्थमस्मद्यज्ञायेत्यर्थः । ये सुप्रतीके शोभनरूपे अमृतमुदकं दधाते धारयतः ते युवामाह्वयामि । शिष्टं स्पष्टम् ॥
+
+> *urvī vistīrṇe sadmanī sadanādhārabhūte bṛhatī mahatyau mahānubhāve devānāṃ | upalakṣaṇametat | devamanuṣyādīnāmavasā prītyā nimittena janitrī vṛṣṭisasyayorjanitryau | vṛṣṭyāderdevānāmavasā tarpaṇena nimittena ṛtena yajñena ca nimittabhūtena huve | āhvayāmi | devānāṃ havirarthamasmadyajñāyetyarthaḥ | ye supratīke śobhanarūpe amṛtamudakaṃ dadhāte dhārayataḥ te yuvāmāhvayāmi | śiṣṭaṃ spaṣṭam ‖*
+
+---
+
+### Printed p. 84  (PDF 102)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Ṛk 6, continued.)*
+
+**Pratipadārtha.** *urvī* — exceedingly wide; *sadmanī* — the support of all; *bṛhatī* — of great dignity; *janitrī* — mothers (of rain and crops and the like); (and) *ye* — who; *supratīke* — being of beautiful form; *amṛtam* — the rain-water, like nectar; *dadhāte* — hold — such Heaven and Earth; *devānām* — of the gods (and men); *avasā* — which causes satisfaction; *ṛtena* — for the sake of the sacrifice; *huve* — I call with praise; *dyāvāpṛthivī* — O Heaven and Earth; *abhvāt* — from great fear; *naḥ* — us; *rakṣatam* — protect.
+
+**Bhāvārtha.** Heaven and Earth, who are exceedingly wide, the support of all, of great dignity, mothers of rain and crops and the like, of beautiful form, and who hold the rain-water that is like nectar — them I call with prayer for the sake of the sacrifice which is the cause of the satisfaction of gods and men. O Heaven and Earth, save us from great calamity and protect us.
+
+**English Translation (as printed):** I Invoke [sic] to the sacrifice, for the preservation of gods (and men), the two vast, all supporting, and mighty parents (of the rain and corn) ; who, beautiful in form, sustain ambrosial (showers); defend us, Heaven and Earth, from great danger.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+As in the previous ṛk, in this ṛk too there is a description of the qualities of Heaven and Earth. It may be said that the pleasing word-arrangements found in the Vedas began with Heaven and Earth themselves. In nature there are no other things so firmly connected as Heaven and Earth. Therefore this gradually gave room to the idea that the two are a married couple. In the Ṛgveda there are only six sūktas addressed to Heaven and Earth (*dyāvāpṛthivī*). There is no sūkta praising the deity Dyu alone. Only one small sūkta of three ṛks (Ṛ. Saṃ. 5-84-3) praises the Earth; in that too there is a mention of the deity Dyu.
+
+**उर्वी (*urvī*)** — the word *urvī* is formed from the word *uru*. The word *uru* is stated among the names of "many" (*bahu*) (Ni. 2-13, as read). The meaning is "exceedingly wide".
+
+**सद्मनी (*sadmanī*)** — Yāska has read the word *sadma* among the names of a house (Ni. 3-13). Here *sadmanī* means the earth which has houses fit for dwelling.
+
+---
+
+### Printed p. 85  (PDF 103)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Special Topics of Ṛk 6, continued.)*
+
+**बृहती (*bṛhatī*)** — "large", or "having greater greatness".
+
+**देवनामवसा जनित्री (*devanāmavasā janitrī*)** (as printed, *devanām-* for *devānām-*) — Sāyaṇa's explanation is: "who, for the protection of the gods (and men), pour down rain and through it bring about the growth of crops". Since the word **जनित्री (*janitrī*)** means "producing", it may mean "who produce creatures, living beings, crops and the like".
+
+**ऋतेन (*ṛtena*)** — we have explained the extended meaning of the word *ṛta* many times before. Though the word *ṛta* has the meanings truth, water, sacrifice and the like, here Sāyaṇa has given the meaning "sacrifice" for this word.
+
+**दधाते ये अमृतम् (*dadhāte ye amṛtam*)** — the word *amṛta* is read among the names of water (Ni. 2-14, as read) and among the names of gold (Ni. 2-10). Besides this, Yāska —
+
+*(As read: the first word "रुश[?]वत्सा (*ruśa[?]vatsā*)" — the conjunct looks like *pv*/*dv*; "आरैगु (*āraigu*)" as printed.)*
+
+> रुश[?]वत्सा रुशती श्वेत्यागादारैगु कृष्णा सदनान्यस्याः ।
+> समानबन्धू अमृते अनूची द्यावा वर्णं चरत आमिनाने ॥
+
+> *ruśa[?]vatsā ruśatī śvetyāgādāraigu kṛṣṇā sadanānyasyāḥ |*
+> *samānabandhū amṛte anūcī dyāvā varṇaṃ carata āmināne ‖*
+
+(Ṛ. Saṃ. 1-113-2) (Gloss, mine and tentative: "The bright one with a bright calf, the white one, has come; the dark one has vacated her seats for her. Of common kin, immortal, following each other, the two, changing their colour, move across the sky.")
+
+— citing this ṛk, he has explained for the word **अमृते (*amṛte*)** **अमरधर्माणौ (*amaradharmāṇau*)** — "those who never die" (Ni. 2-20); and
+
+*(As printed: "भुपनस्य (*bhupanasya*)" in line 2.)*
+
+> यत्रा सुपर्णा अमृतस्य भागमनिमेषं विदथाभिस्वरन्ति ।
+> इनो विश्वस्य भुपनस्य गोपाः स मा धीरः पाकमत्रा विवेश ॥
+
+> *yatrā suparṇā amṛtasya bhāgamanimeṣaṃ vidathābhisvaranti |*
+> *ino viśvasya bhupanasya gopāḥ sa mā dhīraḥ pākamatrā viveśa ‖*
+
+(Ṛ. Saṃ. 1-164-21) (Gloss, mine and tentative: "Where the fair-winged ones unceasingly sing forth at the assemblies of their share of immortality, there the lord, the guardian of the whole world, the wise one, has entered me, the simple one.")
+
+— citing this ṛk, he has also explained the meaning **अमृतस्य उदकस्य (*amṛtasya udakasya*)** (Ni. 3-11). In the present ṛk *amṛta* means water itself. The purport is: "who hold (in the Antarikṣa, in the form of clouds) the rain-water that is the support of all living beings".
+
+**सुप्रतीके — प्रतीकं मुखं प्रकाशाख्यं दर्शनं वा । (*supratīke — pratīkaṃ mukhaṃ prakāśākhyaṃ darśanaṃ vā |*)** The word *pratīka* means either "face" or "radiant manifestation". The Nirukta's author —
+
+*(As printed: "सुवर्ण्यो३ (*suvarṇyo3*)" with the pluta numeral 3, *v* where *suparṇyo* would be expected.)*
+
+> यावन्मात्रमुषसो न प्रतीकं सुवर्ण्यो३ वसते मातरिश्वः ।
+> तावद्दधात्युप यज्ञमायन् ब्राह्मणो होतुरवरो निषीदन् ॥
+
+> *yāvanmātramuṣaso na pratīkaṃ suvarṇyo3 vasate mātariśvaḥ |*
+> *tāvaddadhātyupa yajñamāyan brāhmaṇo hoturavaro niṣīdan ‖*
+
+(Ṛ. Saṃ. 10-88-19) (Gloss, mine and tentative: "As long as the fair-winged ones (?) clothe themselves like the face of the dawn, O Mātariśvan, so long the Brāhmaṇa, coming to the sacrifice, sitting below the Hotṛ, sets (it) down.")
+
+— citing this ṛk, has given the meaning "radiant manifestation". Here the meaning is: "having a beautiful form, filled with water, crops and the like, delightful to the eye and the mind".
+
+---
+
+**Progress note:** Done through printed p. 85 (PDF 103). Sūkta 185 Ṛk 6 (urvī sadmanī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics in progress (urvī … supratīke done; may continue); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 86 / PDF 104. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19).
