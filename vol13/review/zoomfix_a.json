@@ -1342,5 +1342,21 @@
   "old": "Ni. 3-3 [?] (virapśinaḥ)",
   "new": "Ni. 3-13",
   "note": "From the user's list (it gives 3-9, 3-13, 3-13 on this page; tavasaḥ was viewed as 3-13); not separately viewed."
+ },
+ {
+  "pdf": 567,
+  "printed": 547,
+  "status": "resolved",
+  "old": "(Ni. 3-9 [?])",
+  "new": "(Ni. 3-9)",
+  "note": "User's spreadsheet Kannada_Numerals_Page_Extraction.xlsx (same data as the earlier list, 641 rows, pp.481–569): value matches the file, [?] dropped; not viewed by me."
+ },
+ {
+  "pdf": 582,
+  "printed": 562,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-34 [?])",
+  "new": "(Ṛ. Saṃ. 1-34)",
+  "note": "Same spreadsheet: value matches the file, [?] dropped; not viewed by me."
  }
 ]
