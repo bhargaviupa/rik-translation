@@ -7942,5 +7942,65 @@
   ],
   "note": "ZOOMED (two tries), read: 'Ṛgvi. 1-27' (hooked glyph = 2 as in header A. 24, flat-footed = 7; cf. p. 177 Ṛgvidhāna 1-27)",
   "answer": ""
+ },
+ {
+  "pdf": 204,
+  "printed": 186,
+  "crop": [
+   0.271,
+   0.308,
+   0.362,
+   0.655
+  ],
+  "note": "ZOOMED (two tries), read: sūkta block 'Aṣṭaka 2 ‖ Adhyāya 5 ‖ Varga 6-7' (last glyph same as the 7 of 187)",
+  "answer": ""
+ },
+ {
+  "pdf": 204,
+  "printed": 186,
+  "crop": [
+   0.354,
+   0.386,
+   0.352,
+   0.82
+  ],
+  "note": "ZOOMED, read: chandas '1. anuṣṭubgarbhoṣṇik | 2, 4, 8-10 gāyatrī | 3, 5, 6, 7, 11 anuṣṭup'",
+  "answer": ""
+ },
+ {
+  "pdf": 205,
+  "printed": 187,
+  "crop": [
+   0.485,
+   0.506,
+   0.646,
+   0.789
+  ],
+  "note": "ZOOMED, read: 'Ni. 2-9' (pitu among 28 food names; ka-like glyph = 9), as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 205,
+  "printed": 187,
+  "crop": [
+   0.539,
+   0.564,
+   0.596,
+   0.745
+  ],
+  "note": "ZOOMED, read: 'Ni. 9-24' (pitur ity annanāma)",
+  "answer": ""
+ },
+ {
+  "pdf": 205,
+  "printed": 187,
+  "crop": [
+   0.805,
+   0.824,
+   0.613,
+   0.761
+  ],
+  "note": "ZOOMED, read: 'Ni. 9-25' (taṃ pituṃ staumi …)",
+  "answer": ""
  }
 ]
