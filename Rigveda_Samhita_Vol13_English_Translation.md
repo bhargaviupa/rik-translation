@@ -8166,25 +8166,25 @@ In the Ṛk-saṃhitā the word *satya* is always set before us as a sign of exc
 
 > *satyaṃ kasmāt satsu tāyate sattvabhavaṃ bhavatīti vā |*
 
-(Ni. 3-13 [?]) — "why is it called *satya*? — because it is spread (*tāyate*) among the good (*sat*); or because it arises from the nature of the good (*sattva*)": by this explanation it is shown that the fruit of the nature of truth should come to the good alone, so it is fit for the true acts of the good; and the idea that it becomes manifest through a thing of the nature of truth (*sadātmaka*) — this too is understood from this passage. Here the word *satya* has been used both for the acts and for the fruit; in these two contexts the sense should be explained as reflecting which truth of the universe.
+(Ni. 3-13) — "why is it called *satya*? — because it is spread (*tāyate*) among the good (*sat*); or because it arises from the nature of the good (*sattva*)": by this explanation it is shown that the fruit of the nature of truth should come to the good alone, so it is fit for the true acts of the good; and the idea that it becomes manifest through a thing of the nature of truth (*sadātmaka*) — this too is understood from this passage. Here the word *satya* has been used both for the acts and for the fruit; in these two contexts the sense should be explained as reflecting which truth of the universe.
 
 > ते देवा उत्सृज्यानृतं । सत्यमन्वालेभिरे ।
 
 > *te devā utsṛjyānṛtaṃ | satyam anvālebhire |*
 
-(Śa. Brā. 9-5-1-13 [?])
+(Śa. Brā. 9-5-1-13-)
 
 > तद्यत्तत्सत्यम् । त्रयी सा विद्या ते देवा अब्रुवन् यज्ञं कृत्वेदं सत्यं तेनैवामाहा इति ।
 
 > *tad yat tat satyam | trayī sā vidyā te devā abruvan yajñaṃ kṛtvedaṃ satyaṃ tenaivāmāhā iti |* [as read: [?]]
 
-(Śa. Brā. 9-5-1-18 [?]) — the gods, giving up untruth, took firm hold of truth. *Trayī* means the triple Veda, whose acts are true in nature, since they are enjoined in the Veda: the gods, having performed the sacrifice, wished that "by it we may obtain this truth". And thereby, besides showing the relation of *satya* to common usage, it is hoped that one may obtain, through acts of such pure conduct, full-complete welfare accompanied with all riches.
+(Śa. Brā. 9-5-1-18) — the gods, giving up untruth, took firm hold of truth. *Trayī* means the triple Veda, whose acts are true in nature, since they are enjoined in the Veda: the gods, having performed the sacrifice, wished that "by it we may obtain this truth". And thereby, besides showing the relation of *satya* to common usage, it is hoped that one may obtain, through acts of such pure conduct, full-complete welfare accompanied with all riches.
 
 > नाभिर्ऋतस्य सप्रथा इति । सत्यं वा ऋतं वा ऋतं सत्यस्य नाभिः सप्रथा इत्येवैतदाह । स नो विश्वायुः सप्रथा इति स नः सर्वायुः इत्येवैतदाह ।
 
 > *nābhir ṛtasya saprathā iti | satyaṃ vā ṛtaṃ vā ṛtaṃ satyasya nābhiḥ saprathā ity evaitad āha | sa no viśvāyuḥ saprathā iti sa naḥ sarvāyuḥ ity evaitad āha |*
 
-(Śa. Brā. 14-3-1-18 [?]). By such explanations, showing the identity of the order of the world and of *satya*, and of following such truth, the cause-and-effect relation between *satya* and its fruit, and between true acts and fruits, is shown: namely, that following truth (*satyānusaraṇa*) and the performance of true acts give the full span of life as their fruit.
+(Śa. Brā. 14-3-1-18). By such explanations, showing the identity of the order of the world and of *satya*, and of following such truth, the cause-and-effect relation between *satya* and its fruit, and between true acts and fruits, is shown: namely, that following truth (*satyānusaraṇa*) and the performance of true acts give the full span of life as their fruit.
 
 It is also explained clearly in many places that, for the performance of acts of the nature of truth, a knowledge of the order of the world and of the nature of the deities that cause it is indispensable, and that this knowledge too is attained only through truth.
 
@@ -8192,13 +8192,13 @@ It is also explained clearly in many places that, for the performance of acts of
 
 > *sakhā ha yatra sakhibhir navagvair abhijñvā satvabhir gā anugman | satyaṃ tad indro daśabhir daśagvaiḥ sūryaṃ viveda tamasi kṣiyantam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-39-5 [?]);
+(Ṛ. Saṃ. 3-39-5);
 
 > ते इद्देवानां सधमाद आसन्नृतावानः कवयः पूर्व्यासः । गूळ्हं ज्योतिः पितरो अन्वविन्दन्त्सत्यमन्त्रा अजनयन्नुषासम् ॥
 
 > *te id devānāṃ sadhamāda āsann ṛtāvānaḥ kavayaḥ pūrvyāsaḥ | gūḷhaṃ jyotiḥ pitaro anv avindan satyamantrā ajanayann uṣāsam ‖*
 
-(Ṛ. Saṃ. 7-76-4 [?]).
+(Ṛ. Saṃ. 7-76-4).
 
 ---
 
