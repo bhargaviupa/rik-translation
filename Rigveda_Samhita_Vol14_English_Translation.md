@@ -1411,4 +1411,140 @@ In such sentences "the *kāru*s praise" is used as a word equivalent to "poets" 
 
 ---
 
-**Progress note:** Done through printed p. 43 (PDF 61). Sūkta 184 Ṛk 4 closed (p. 39). Ṛk 5 OPEN: grammar page begun on p. 43 (akāri, mānebhiḥ, maghavānā, suvṛkti done); continue on printed p. 44 (PDF 62) with the rest of Ṛk 5's grammar page, then Ṛk 6. Flags pp. 38-43: small-type refs (Ṛ. 1-157-4, Ni. 1-7, 1-116-18, 1-112-2, 10-122-6 words), Bṛ. De. verses 2-22/2-28 with [?] words.
+### Printed p. 44  (PDF 62)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* **Vyākaraṇa-prakriyā of Ṛk 5, continued (grammar page, noted briefly)** — *yātam* (root *yā prāpaṇe*, *loṭ* second-person dual form; as it stands at the beginning of the pāda there is no *nighāta* accent; the accent falls on the last syllable by the suffix-accent); *vartiḥ* (root *vṛtu vartane*; suffix *i* by the Uṇādi sūtra "*hṛpiṣiruhi…*" (Uṇ. Sū. 4-558; as read); *guṇa* of the light penultimate vowel, with *r*); *tmane* (by *mantreṣv āṅyādeḥ ātmanaḥ*, Pā. Sū. 6-4-141, the initial *ā* is elided); *madantā* (root *mada tṛptiyoge*; *śatṛ* substituted for *laṭ*; *śap* by *vyatyaya*, with *vikaraṇa* [the printed word is "viśaraṇa", as read]; the *sārvadhātuka* being unaccented the root accent remains; for the dual, *ā*-substitution by *supāṃ sulug*).
+
+*(Closing ornament ":O:" — end of Ṛk 5.)*
+
+## Sūkta 184, Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अतारिष्म तमसस्पारमस्य प्रति वां स्तोमो अश्विनावधायि ।
+> एह यातं पथिभिर्देवयान्यैर्विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+
+> *atāriṣma tamasaspāramasya prati vāṃ stomo aśvināvadhāyi |*
+> *eha yātaṃ pathibhirdevayānyairvidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> अतारिष्म । तमसः । पारम् । अस्य । प्रति । वाम् । स्तोमः । अश्विनौ । अधायि ।
+> आ । इह । यातम् । पथिऽभिः । देवयान्यैः । विद्याम । इषम् । वृजनम् । जीरऽदानुम् ॥ ६ ॥
+
+> *atāriṣma | tamasaḥ | pāram | asya | prati | vām | stomaḥ | aśvinau | adhāyi |*
+> *ā | iha | yātam | pathi 'bhiḥ | devayānyaiḥ | vidyāma | iṣam | vṛjanam | jīra 'dānum ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* The sixth ṛk, *atāriṣma*, "has been explained" (referring back to its earlier occurrence).
+
+> अतारिष्मेति षष्ठी व्याख्याता ॥
+
+**Pratipadārtha.** *aśvinau* — O Aśvin deities; *asya tamasaḥ* — of this misery (which obstructs prosperity); *pāram* — the end; *atāriṣma* — (by your grace) we have crossed; *vāṃ prati* — addressed to you; *stomaḥ* — the praise; *adhāyi* — has been made (indicated) *(the Pratipadārtha continues on the next page)*.
+
+### Printed p. 45  (PDF 63)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1").*
+
+(Pratipadārtha, concluded:) *devayānyaiḥ pathibhiḥ* — by paths trodden by the gods; *iha* — to this sacrifice; *ā yātam* — come; (*vayam* — we); *iṣam* — food; *vṛjanam* — strength; *jīradānum* — long life; *vidyāma* — may we obtain.
+
+**Bhāvārtha.** O Aśvin deities, by your grace we have crossed the end of this misery that is an obstacle to prosperity. This praise has been addressed to you. Come to this sacrifice by the paths the gods travel. May we obtain food, strength and long life.
+
+**English Translation (as printed):** (Through your aid), Ashwins, we cross over the limit of darkness : to you this (our hymn) has been addressed : come hither by the path traversed by the gods, that we may obtain food, strength, and long life.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**देवयान्यैः पथिभिः (*devayānyaiḥ pathibhiḥ*)** — Sāyaṇa: देवगन्तव्यैर्मार्गैः (*devagantavyairmārgaiḥ*): "by paths on which gods travel" — he has given the material sense. In the Upaniṣads the words *devayāna* and *pitṛyāna* have a technical meaning. But in many places in the Ṛgveda Saṃhitā the word *devayāna* means only "the path on which the gods travel". In a few places alone a spiritual import, as described in the Upaniṣads, is also suggested.
+
+In the Upaniṣads the words *devayāna* and *pitṛyāna* are well known as the two paths on which the soul, which is eternal, goes after a man's death, when his body has become ashes. Of the paths by which people go to experience the fruit of good works, one is *devayāna*, the other *pitṛyāna*: one is the path of the gods, the other the path of the fathers. Those who, having learned the *pañcāgni-vidyā*, hold faith in truth itself set out by the path of the gods and reach the Supreme Brahman. After their death the soul enters flame, and through it day, the bright fortnight, the northern course of the sun, the year, the sun, lightning; and through these, with the help of the non-human (*amānava*) person, they reach the Supreme Brahman — this is what the Upaniṣads describe.
+
+As for those who please the world by sacrifice alone and by gifts and the like — that is, those who, not knowing the *pañcāgni-vidyā*, are devoted merely to good works — they travel after death by another path. After the body is burnt the soul joins the smoke, and then reaches night, and through it *(continues on the next page)*
+
+### Printed p. 46  (PDF 64)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* — Joining the dark fortnight and, through it, the southern course, then the world of the fathers and finally the world of the moon. That is their final station. There they fully enjoy the fruits proper to their good works, being with the fathers; and as soon as the effect of their works is exhausted they return to the earth by the same smoke path. This is the nature of the *devayāna* and *pitṛyāna* described in the Upaniṣads.
+
+What we have to notice in the present context is whether all the ideas described in the Upaniṣads as above are suggested in full by the word *devayāna* used in the Ṛgveda Saṃhitā, or whether the meaning is merely the material one, "the path on which the gods travel". And likewise, for the word *pitṛyāna* as described in the Upaniṣads, the meaning is to be considered in the present context.
+
+The word *devayāna* is used in the Ṛgveda Saṃhitā in all thirteen times. [1-72-7 [?]; 1-162-4 [?]; 1-183-6 [?], 1-184-6; 4-37-1 [?]; 5-43-6 [?]; 7-38-8 [?]; 7-76-2 [?]; 10-18-1 [?]; 10-51-2 [?]; 10-51-5 [?]; 10-98-11 [?]; 10-185-3 [?]] (as read; thirteen references are listed). In all these places Sāyaṇa has chiefly given only two meanings. By his explanation, the first is the path on which the sacrificers, human beings, go with their oblations to approach the gods; the second is the path on which the gods come to the earth to accept their oblations.
+
+The word *pitṛyāna* is used in the Ṛgveda Saṃhitā only once. In what context is that use?
+
+> यं त्वा द्यावापृथिवी यं त्वापस्त्वष्टा यं त्वा सुजनिमा जजान ।
+> पन्थामनु प्रविद्वान् पितृयाणं द्युमदग्ने समिधानो वि भाहि ॥
+
+> *yaṃ tvā dyāvāpṛthivī yaṃ tvāpastvaṣṭā yaṃ tvā sujanimā jajāna |*
+> *panthāmanu pravidvān pitṛyāṇaṃ dyumadagne samidhāno vi bhāhi ‖*
+
+(Ṛ. Saṃ. 10-2-2 [?]) (Gloss, mine and tentative: "Whom heaven and earth, whom the waters, Tvaṣṭṛ, whom the good creator begot — knowing the path, the path of the fathers, shine forth brilliant, O Agni, kindled.") In this ṛk Agni, kindled — one who has been born of heaven-and-earth, the waters and the creator, and who knows fully the nature of the *pitṛyāṇa* — is prayed to shine forth. For this word in the third pāda Sāyaṇa explains "पितृयाणं पितरो येन मार्गेण गच्छन्ति तं" (*pitṛyāṇaṃ pitaro yena mārgeṇa gacchanti taṃ*): "the path by which the fathers travel".
+
+---
+
+## Sūkta 185 — *katarā pūrvā* (Anuvāka 24, sixth Sūkta; 11 ṛks)
+
+### Printed p. 47  (PDF 65)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1"; the Kannada half-title reads "ನೂರ ಎಂಭತ್ತೈದನೆಯ ಸೂಕ್ತವು", "the hundred-and-eighty-fifth sūkta".)*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; Anukramaṇikā wording and viniyoga)*
+
+*Gist:* *katarā pūrvā* is the sixth sūkta, of 11 ṛks, by Agastya, to Dyāvāpṛthivī, in *triṣṭubh*; used for the Dyāvāpṛthivī *nivid-dhāna* in the Vaiśvadeva śastra of the sixth day of the Abhiplava and in the Mahāvrata.
+
+> कतरा पूर्वेत्येकादशर्चं षष्ठं सूक्तमागस्त्यं त्रैष्टुभम् । कतर्यैकादश द्यावापृथिवीयमित्यनुक्रान्तम् ॥ अभिप्लविके षष्ठेऽहनि वैश्वदेवशस्त्रे द्यावापृथिव्यनिविद्धानमिदम् । तृतीयस्येति खण्डे सूत्रितम् । कतरा पूर्वेषासानक्तेति वैश्वदेवम् । आश्व. 2-2 [?] इति ॥ महाव्रतेऽपि वैश्वदेवशस्त्र इदमेव द्यावापृथिव्यनिविद्धानम् । उत्तमादाभिप्लविकात्तृतीयसवनम् । ऐ. आ. 5-3-2 । इत्येतिदेशात् ॥
+
+**Anuvāda (Kannada).** This sūkta, *katarā pūrvā*, is the sixth sūkta in the twenty-fourth anuvāka. There are eleven ṛks in it. Agastya is the ṛṣi; Dyāvāpṛthivī (Heaven-and-Earth) are the devatā; the metre is *triṣṭubh*. In the Anukramaṇikā it is stated "*katarā*, eleven, to Dyāvāpṛthivī". When the Vaiśvadeva-śastra mantras are recited on the sixth day of the Abhiplava sacrifice, the application of this sūkta is for the *nivid-dhāna* (praise of qualities) mantras of the Dyāvāpṛthivī deities, as explained by the Āśvalāyana Śrauta Sūtra in the sūtra "*katarā pūrveṣāsānaktā iti vaiśvadevam*" in the section beginning *tṛtīyasya* (Āś. 2-2 [?]). And in the Mahāvrata, when the Vaiśvadeva-śastra mantras are recited, the application of this sūkta for the Dyāvāpṛthivī *nivid-dhāna* mantras is stated by the sentence *uttamādābhiplavikāttṛtīyasavanam* of the Aitareya Āraṇyaka (5-3-2).
+
+*(Page break; the next block is the lower strip of p. 47.)*
+
+**॥ ॐ ॥** Sūkta—185
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 185 ‖ Aṣṭaka 2 ‖ Adhyāya 5 ‖ Varga 2-3 [?] ‖
+Number of ṛks in the Sūkta: 11 · Ṛṣi: Agastya · Devatā: Dyāvāpṛthivī · Chandas: *triṣṭubh*.
+
+### Printed p. 48  (PDF 66)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> कतरा पूर्वा कतरापरायोः कथा जाते कवयः को वि वेद ।
+> विश्वं त्मना बिभृतो यद्ध नाम वि वर्तेते अहनी चक्रियेव ॥ १ ॥
+
+> *katarā pūrvā katarāparāyoḥ kathā jāte kavayaḥ ko vi veda |*
+> *viśvaṃ tmanā bibhṛto yaddha nāma vi vartete ahanī cakriyeva ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> कतरा । पूर्वा । कतरा । अपरा । आयोः । कथा । जाते इति । कवयः । कः । वि । वेद ।
+> विश्वम् । त्मना । बिभृतः । यत् । ह । नाम । वि । वर्तेते इति । अहनी इति । चक्रिया इव ॥ १ ॥
+
+> *katarā | pūrvā | katarā | aparā | āyoḥ | kathā | jāte iti | kavayaḥ | kaḥ | vi | veda |*
+> *viśvam | tmanā | bibhṛtaḥ | yat | ha | nāma | vi | vartete iti | ahanī iti | cakriyā iva ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* Which of heaven and earth is prior and which later, and by what cause were they born? Who knows? They themselves, unaided, uphold the whole universe; the two revolve like day and night on wheels.
+
+> आयोरेनयोर्द्यावापृथिव्योर्मध्ये कतरा पूर्वा पूर्वमुत्पन्ना । कतरा वापरा पश्चाद्भाविनी । एवं पौर्वापर्यप्रश्नः । उभयोरविनाभावेन सहैव वर्तमानत्वादिति भावः । तथा कथा केन हेतुना जाते । किमनयोरुत्पादनमित्यर्थः । हे कवयः क्रान्तदर्शिनोऽतीन्द्रियज्ञाः यूयं वदत को वि वेद । पौर्वापर्यं कारणं च विशेषेण विविच्य वा जानाति । न केनापि ज्ञायत इत्यर्थः । अज्ञाने कारणमाह । यद्ध यस्मात्खलु हेतोर्नाम प्रसिद्धं विश्वं कृत्स्नमपि जगदविशेषेण त्मनात्मनैवान्यैरपेक्ष्यैव बिभृतः धारयतः । यद्वा । यद्ध नाम यत्किंचित्पदार्थजातमस्ति विश्वं तत्सर्वमात्मना बिभृतः । अनेन यत्कारणं ब्रूमस्तदप्याभ्यामेव भ्रियत इति कारणाभावः प्रतिपादितः । उत्तरेण पौर्वापर्यभाव उच्यते । अहनी एते द्यावापृथिव्यौ चक्रियेव चक्रयुक्ते इव वि वर्तेते । अत्र कतरा पूर्वा कतरापरैनयोरित्यादि निरुक्तं प्रष्टव्यम् । नि. 3-22 [?] ॥
+
+**Pratipadārtha.** *āyoḥ* — in these two, heaven and earth; *katarā* — which one; *pūrvā* — was born first; *katarā* — which one; *aparā* — was born afterwards; *kathā* — by what material cause; *jāte* — these two were born; *kavayaḥ* — O far-seeing ṛṣis; *kaḥ* — who (himself) (continues on the next page).
+
+### Printed p. 49  (PDF 67)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* — *vi veda* — has fully understood this truth; *yaddha* — the group of things that can be called their cause, whichever it is; (*tat*) *viśvam* — the whole world including all those things; *tmanā* — (without the aid of anything else, heaven and earth) by themselves; *bibhṛtaḥ* — they uphold; *ahanī* — (belonging to them) both day and night together; *cakriyā iva* — as if furnished with wheels; *vi vartete* — they go round in recurrence.
+
+**Bhāvārtha.** Which of this heaven and earth was born first? Which was born afterwards? By what material cause were these two born? O far-seeing ṛṣis, who himself has fully understood this truth? Heaven and earth uphold by themselves, without the help of anything else, the whole world, including that group of things that can be called their cause; and both day and night, belonging to them, go round in recurrence, as if furnished with wheels.
+
+**English Translation (as printed):** Which of these two, (Heaven and Earth), is prior, which posterior ? how were they engendered ? (declare), sages, who knows this ? Verily, you uphold the Universe of itself, and the days (and nights) revolve as if they had wheels.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+Stating the application of this sūkta (1-185), Sāyaṇa, in "*abhiplavike ṣaṣṭhe 'hani vaiśvadevaśastre dyāvāpṛthivyanividdhānam idam*" and "*mahāvrate 'pi vaiśvadevaśastre idam eva dyāvāpṛthivyanividdhānam*", has cited the Āśvalāyana sūtra (Āś. Śrau. 2-2 [?]) and shown that its recitation is prescribed both in the Vaiśvadeva-śastra of the Abhiplava and in that of the Mahāvrata. If the mantras praising Dyāvāpṛthivī are to be recited at the time of the rite called Abhiplava and at the time of the Mahāvrata, one must know what the nature of those two rites is, and what the importance of reciting these mantras at that time is.
+
+When the prefix *abhi* is joined to the root *plu*, which has the sense of going, the meaning is "to leap across"; and its use in this sense is also common. Likewise, although the word *abhiplava* has a technical use connected with ritual, it gives this same purport, as the Śruti *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 49 (PDF 67). Sūkta 184 closed (Ṛk 6, p. 44-46 Special Topics). Sūkta 185 (11 ṛks) Ṛk 1 OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; Special Topics begun on p. 49 (ends mid-sentence at 'as the Śruti'; continue on printed p. 50 / PDF 68). Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185.

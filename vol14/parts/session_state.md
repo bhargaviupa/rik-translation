@@ -1,2 +1,2 @@
 # Vol 14 pilot — session state
-Pilot on scan part 1. Offset 18. Done through printed p. 43 (PDF 61); Sūkta 184 Ṛk 4 closed; Ṛk 5 open (its grammar page started on p. 43: akāri, mānebhiḥ, maghavānā, suvṛkti done). Pilot batches 6+ run on Sonnet for a comparison. Next: PDF 62 = printed p. 44.
+Pilot on scan part 1. Offset 18. Done through printed p. 49 (PDF 67); Sūkta 184 closed; Sūkta 185 (11 ṛks) begun on p. 47, Ṛk 1 open (Special Topics ends mid-sentence at "as the Śruti"). Pilot batches 6+ run on Sonnet for a comparison. Next: PDF 68 = printed p. 50.
