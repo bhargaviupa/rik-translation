@@ -13822,5 +13822,341 @@
   ],
   "note": "ZOOMED, read: Ni. 7-15",
   "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.276,
+   0.294,
+   0.703,
+   0.77
+  ],
+  "note": "UNDECIDED: Ni. '[?]-13' (prajñā names); first digit broken (3-like), second number read 13 (two tries, 600/1000 dpi)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.316,
+   0.334,
+   0.493,
+   0.627
+  ],
+  "note": "ZOOMED, read: Ni. 5-15 (the '1' broken; ja-like glyphs = 5) (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.407,
+   0.426,
+   0.677,
+   0.831
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 6-75-14 (three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.628,
+   0.648,
+   0.323,
+   0.46
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 1-171 as printed (ūḍidaṃ padādi; two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.656,
+   0.677,
+   0.71,
+   0.831
+  ],
+  "note": "ZOOMED, read: U. Sū. 3-441 as printed (ajiyamiśīṅbhyaśca; three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.675,
+   0.694,
+   0.493,
+   0.65
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 2-4-56 (first glyph = header's 2; two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.804,
+   0.825,
+   0.19,
+   0.33
+  ],
+  "note": "ZOOMED, read: U. Sū. 2-284 as printed (hurccheḥ sano luk; middle ಲ-like glyph = 8; three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 297,
+  "printed": 278,
+  "crop": [
+   0.169,
+   0.185,
+   0.643,
+   0.831
+  ],
+  "note": "ZOOMED, read: header Maṃ. 1. A. 24. Sū. 189",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 279,
+  "crop": [
+   0.266,
+   0.284,
+   0.407,
+   0.672
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-2-50 (tādau ca niti; two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 279,
+  "crop": [
+   0.311,
+   0.328,
+   0.175,
+   0.473
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 8-1-28 (tiṅṅatiṅaḥ; two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 279,
+  "crop": [
+   0.617,
+   0.635,
+   0.274,
+   0.506
+  ],
+  "note": "ZOOMED, read: bhāṣya Ā. 2-10 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 279,
+  "crop": [
+   0.791,
+   0.808,
+   0.506,
+   0.738
+  ],
+  "note": "ZOOMED, read: bhāṣya 'yormiśrayitā'",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 279,
+  "crop": [
+   0.655,
+   0.674,
+   0.473,
+   0.798
+  ],
+  "note": "ZOOMED, read: bhāṣya 'tvamasmānyāgānuṣṭhātṝnati' (ṝ sign as it looks)",
+  "answer": ""
+ },
+ {
+  "pdf": 298,
+  "printed": 279,
+  "crop": [
+   0.188,
+   0.2,
+   0.175,
+   0.341
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 10",
+  "answer": ""
+ },
+ {
+  "pdf": 299,
+  "printed": 280,
+  "crop": [
+   0.748,
+   0.769,
+   0.703,
+   0.863
+  ],
+  "note": "ZOOMED, read: Ni. 6-9 (navya; ka-like glyph = 9)",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 281,
+  "crop": [
+   0.265,
+   0.281,
+   0.307,
+   0.506
+  ],
+  "note": "ZOOMED, read: Ni. 3-21 (svasti)",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 281,
+  "crop": [
+   0.518,
+   0.535,
+   0.44,
+   0.671
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-1-70",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 281,
+  "crop": [
+   0.591,
+   0.609,
+   0.638,
+   0.83
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-3-135",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 281,
+  "crop": [
+   0.636,
+   0.652,
+   0.72,
+   0.796
+  ],
+  "note": "ZOOMED, read: U. Sū. 4-539 as printed (valimalitanibhyaḥ kayan; 600 and 1000 dpi)",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 281,
+  "crop": [
+   0.808,
+   0.82,
+   0.737,
+   0.83
+  ],
+  "note": "ZOOMED, read: Ṛk numeral 3",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.308,
+   0.319,
+   0.515,
+   0.711
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-162-2",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.351,
+   0.362,
+   0.188,
+   0.319
+  ],
+  "note": "ZOOMED, read: Ni. 6-12",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.477,
+   0.494,
+   0.188,
+   0.384
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-2-2",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.586,
+   0.603,
+   0.613,
+   0.804
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-3-174",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.662,
+   0.679,
+   0.384,
+   0.613
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-4-77-1 (vārttika tanvādīnāṃ; footed loop glyph = 7, as in 6-1-70 on p. 281; two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.708,
+   0.723,
+   0.417,
+   0.629
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-2-116 (middle 1 partly broken)",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.771,
+   0.787,
+   0.58,
+   0.804
+  ],
+  "note": "ZOOMED, read: U. Sū. 3-384 as printed (amitakṣi..yaji; U without dot)",
+  "answer": ""
+ },
+ {
+  "pdf": 302,
+  "printed": 283,
+  "crop": [
+   0.19,
+   0.204,
+   0.188,
+   0.351
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 10",
+  "answer": ""
  }
 ]
