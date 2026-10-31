@@ -110,5 +110,21 @@
   "old": "Ni. 2-10 [?] (twice); Ni. 2-11 [?]; ततः शंतनोः राज्ये",
   "new": "Ni. 2-10 (at samudre); no ref printed after the samudravanti quote; Ni. 2-11 (printed after both story quotes); ततश्शंतनो राज्ये",
   "note": "190–600dpi: refs ೨-೧೦ and ೨-೧೧ legible; yājayāni confirmed (ya+ā)."
+ },
+ {
+  "pdf": 312,
+  "printed": 292,
+  "status": "resolved",
+  "old": "Rg 10-98-5 [?], 10-149-1 [?], 9-73-3 [?]; Ni. 2-5 [?]; महः समुद्रं",
+  "new": "refs without [?]; महस्समुद्रं",
+  "note": "190/600dpi: all four refs legible (9-73-3 middle digit flat 7-glyph). Quote pavitravantaḥ otherwise matches."
+ },
+ {
+  "pdf": 313,
+  "printed": 293,
+  "status": "resolved",
+  "old": "Śa.Brā. 1-9-3-16 [?]; Ni. 3-19 [?]",
+  "new": "1-9-3-16; 3-19 (no [?])",
+  "note": "650dpi: ೧-೯-೩-೧೬ and ೩-೧೯ legible; grammar-page sutra numerals not viewed."
  }
 ]
