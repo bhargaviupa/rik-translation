@@ -826,5 +826,173 @@
   ],
   "note": "ZOOMED, read: makha",
   "answer": ""
+ },
+ {
+  "pdf": 62,
+  "printed": 44,
+  "crop": [
+   0.257,
+   0.276,
+   0.525,
+   0.695
+  ],
+  "note": "ZOOMED, read: Uṇ. Sū. 4-558 (digits small; read ೪-೫೫೮)",
+  "answer": ""
+ },
+ {
+  "pdf": 62,
+  "printed": 44,
+  "crop": [
+   0.293,
+   0.317,
+   0.484,
+   0.644
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-4-141",
+  "answer": ""
+ },
+ {
+  "pdf": 64,
+  "printed": 46,
+  "crop": [
+   0.408,
+   0.426,
+   0.516,
+   0.808
+  ],
+  "note": "UNDECIDED: first ref 1-72-7 (flat vs curled 2/7) [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 64,
+  "printed": 46,
+  "crop": [
+   0.422,
+   0.44,
+   0.192,
+   0.484
+  ],
+  "note": "UNDECIDED: refs 1-162-4; 1-183-6; 1-184-6; 4-37-1 [?] (162/183 digits)",
+  "answer": ""
+ },
+ {
+  "pdf": 64,
+  "printed": 46,
+  "crop": [
+   0.42,
+   0.438,
+   0.403,
+   0.808
+  ],
+  "note": "UNDECIDED: refs 5-43-6; 7-38-8; 7-76-2; 10-18-1 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 64,
+  "printed": 46,
+  "crop": [
+   0.436,
+   0.454,
+   0.192,
+   0.808
+  ],
+  "note": "UNDECIDED: refs 10-51-2; 10-51-5; 10-98-11; 10-185-3 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 64,
+  "printed": 46,
+  "crop": [
+   0.448,
+   0.462,
+   0.192,
+   0.549
+  ],
+  "note": "UNDECIDED: same last line refs, 10-51 first digit 5 vs 9; 185 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 64,
+  "printed": 46,
+  "crop": [
+   0.6,
+   0.66,
+   0.7,
+   0.95
+  ],
+  "note": "UNDECIDED: Ṛ. Saṃ. 10-2-2 [?] (reference after Pitṛyāṇa verse; not zoomed, small)",
+  "answer": ""
+ },
+ {
+  "pdf": 65,
+  "printed": 47,
+  "crop": [
+   0.341,
+   0.36,
+   0.209,
+   0.379
+  ],
+  "note": "UNDECIDED: Āś. 2-2 [?] (only last digit curled 2 visible; first digit not captured)",
+  "answer": ""
+ },
+ {
+  "pdf": 65,
+  "printed": 47,
+  "crop": [
+   0.363,
+   0.382,
+   0.379,
+   0.532
+  ],
+  "note": "ZOOMED, read: Aitareya Āraṇyaka 5-3-2",
+  "answer": ""
+ },
+ {
+  "pdf": 65,
+  "printed": 47,
+  "crop": [
+   0.42,
+   0.437,
+   0.27,
+   0.396
+  ],
+  "note": "ZOOMED: missed target (Varga numeral on p.47 lower strip not zoomed) UNDECIDED: Varga 2-3 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 65,
+  "printed": 47,
+  "crop": [
+   0.5,
+   0.55,
+   0.2,
+   0.35
+  ],
+  "note": "UNDECIDED: (Āś. Śrau. 2-2) in Kannada anuvāda [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 66,
+  "printed": 48,
+  "crop": [
+   0.709,
+   0.73,
+   0.396,
+   0.547
+  ],
+  "note": "UNDECIDED: Ni. 3-22 [?] (last two digits)",
+  "answer": ""
+ },
+ {
+  "pdf": 67,
+  "printed": 49,
+  "crop": [
+   0.3,
+   0.34,
+   0.45,
+   0.6
+  ],
+  "note": "UNDECIDED: (Āś. Śrau. 2-2) in Special Topics [?]",
+  "answer": ""
  }
 ]
