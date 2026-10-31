@@ -9681,7 +9681,7 @@ This word is well established as an epithet of Indra, describing Indra's distinc
 
 > *matsaraḥ somo mandates tṛptikarmaṇaḥ |*
 
-(Ni. 2-25 [?]) — from the root *mad* (*mandate*), meaning "to cause satisfaction", the word is used as a synonym of the Soma juice; and "*matsara iti lobha nāma*" — "*matsara* is a name for greed": since it shows excessive desire and rivalry (*ahamahamikā*), the Nirukta-writers explain the name *matsara*. In the ṛk at hand it may mean "the cause of delight", or "excellent, in rivalry with the Soma juices of other sacrifices".
+(Ni. 2-25) — from the root *mad* (*mandate*), meaning "to cause satisfaction", the word is used as a synonym of the Soma juice; and "*matsara iti lobha nāma*" — "*matsara* is a name for greed": since it shows excessive desire and rivalry (*ahamahamikā*), the Nirukta-writers explain the name *matsara*. In the ṛk at hand it may mean "the cause of delight", or "excellent, in rivalry with the Soma juices of other sacrifices".
 
 Having given these meanings of the words in the Bhāṣya, Sāyaṇa explains: "*uttarārdhaḥ indraparatayā vyākhyeyaḥ*" — it is proper to explain the second half as addressed to Indra.
 
