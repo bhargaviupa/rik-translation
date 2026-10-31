@@ -2393,4 +2393,258 @@ In such Brāhmaṇa sentences too the epithet **देवपुत्रे (*de
 
 ---
 
-**Progress note:** Done through printed p. 73 (PDF 91). Sūkta 185 Ṛk 4 (atapyamāne avasāvantī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics in progress (devaputre; sentence runs over to p. 74); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 74 / PDF 92. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed.
+### Printed p. 74  (PDF 92)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 4, concluded; the word broken over the page ends "…ragaḷalli", "in the …s".)* — how it is described in the …s will be made known later in this same part, in the Special Topics of Ṛk 1-185-6.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *atapyamāne* (root *tapa aiśvarye*, *divādi*; *śānac* for *laṭ*; *śyan* by *divādibhyaḥ śyan*; *muk* augment by *āne muk* (Pā. Sū. 7-2-82); negative *tatpuruṣa*, so by *tatpuruṣe tulyārtha…* the original accent of the indeclinable first member; dual form). *avantī* (root *ava rakṣaṇe*; *śatṛ* for *laṭ*; *ṅīp* in the feminine by *ugitaś ca*; before the dual ending (*au*) *pūrvasavarṇa* lengthening by *supāṃ suluk*). *syāma* (root *asa bhuvi*; *liṅ*, 1st person plural; *tiṅanta nighāta*; *ṣ* for the root's *s* by *upasargaprādurbhyām* (Pā. Sū. 8-3-87)). *devaputre* (देवाः पुत्राः ययोस्ते देवपुत्रे (*devāḥ putrāḥ yayoste devaputre*); accent of the first member by *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1); dual form). *ubhayebhiḥ* (*ayac* suffix to *ubha* by *ubhayo'nyatra*; *ais* for *bhis* does not come, as *bahulaṃ chandasi* makes it optional; *e*-substitution; initial acute of the suffix).
+
+*(Ornamental rule "— :0: —": end of Ṛk 4.)*
+
+## Sūkta 185, Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> संगच्छमाने युवती समन्ते स्वसारा जामी पित्रोरुपस्थे ।
+> अभिजिघ्रन्ती भुवनस्य नाभिं द्यावा रक्षतं पृथिवी नो अभ्वात् ॥ ५ ॥
+
+> *saṃgacchamāne yuvatī samante svasārā jāmī pitrorupasthe |*
+> *abhijighrantī bhuvanasya nābhiṃ dyāvā rakṣataṃ pṛthivī no abhvāt ‖ 5 ‖*
+
+**॥ पदपाठः ॥** *(begins at the foot of p. 74; concluded on p. 75)*
+
+> संगच्छमाने इति सम्ऽगच्छमाने । युवती इति । समन्ते इति सम्ऽअन्ते । स्वसारा । जामी इति । पित्रोः । उपऽस्थे ।
+
+> *saṃgacchamāne iti sam 'gacchamāne | yuvatī iti | samante iti sam 'ante | svasārā | jāmī iti | pitroḥ | upa 'sthe |*
+
+---
+
+### Printed p. 75  (PDF 93)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2". Pada of Ṛk 5, concluded; "nābhiṃ", "rakṣataṃ" as printed.)*
+
+> अभिजिघ्रन्ती इत्यभिऽजिघ्रन्ती । भुवनस्य । नाभिं । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ५ ॥
+
+> *abhijighrantī ityabhi 'jighrantī | bhuvanasya | nābhiṃ | dyāvā | rakṣataṃ | pṛthivī iti | naḥ | abhvāt ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* Heaven and Earth, joined by mutual help (rain and oblation) or united after being parted, ever young, sisters born together of Prajāpati, sitting in the lap of the parents and touching the water, the bond of beings — protect us.
+
+> संगच्छमाने परस्परमुपकारित्वेन सह युज्यमाने । वृष्टिहविषोश्च परस्परमुपकार्योपकारकभावः । यद्वा । पूर्वं संसृष्टे एव सत्यौ पश्चाद्वियुज्य वृष्टिहविषी अकुर्वन्त्यौ पश्चान्मनुष्यैः प्रार्थितैर्देवैर्विवाहिते सत्यौ संगते अभूतामित्यर्थः । अयमर्थो द्यावापृथिवी सहास्ताम् । तै. ब्रा. १-१-३-२ । इत्यादि ब्राह्मणे समाम्नातः । युवती नित्यतरुण्यौ मिश्रयन्त्यौ वा सर्वेषु भावेषु समन्ते समानान्तिके समानपर्यन्ते वा स्वसारा परस्परं स्वसृभूते जामी बन्धुभूते । प्रजापतेः सकाशात्सहोत्पन्नत्वात्परस्परं जामित्वम् । तथा च निगमौ दिवं च पृथिवीं चान्तरिक्षमथो स्वः । ऋ. १०-१९०-३ । यतो द्यावापृथिवी निष्टतक्षुः । ऋ. १०-३१-७ । इति । पित्रोः सर्वस्य पितृस्थानीययोः पालकयोस्तयोरुपस्थ उत्सङ्गे स्थितं भुवनस्य भूतजातस्य नाभिं बन्धकमुदकमभिजिघ्रन्ती अभिघ्राणं कुर्वन्त्यौ स्पृशन्त्यौ । समानमेतदुदकम् । ऋ. १-१६४-५१ । इत्यादिमन्त्रवर्णादुभयोरुदकप्रदत्वं प्रसिद्धम् । ईदृश्यौ नो रक्षतम् ॥
+
+> *saṃgacchamāne parasparamupakāritvena saha yujyamāne | vṛṣṭihaviṣośca parasparamupakāryopakārakabhāvaḥ | yadvā | pūrvaṃ saṃsṛṣṭe eva satyau paścādviyujya vṛṣṭihaviṣī akurvantyau paścānmanuṣyaiḥ prārthitairdevairvivāhite satyau saṃgate abhūtāmityarthaḥ | ayamartho dyāvāpṛthivī sahāstām | tai. brā. 1-1-3-2 | ityādi brāhmaṇe samāmnātaḥ | yuvatī nityataruṇyau miśrayantyau vā sarveṣu bhāveṣu samante samānāntike samānaparyante vā svasārā parasparaṃ svasṛbhūte jāmī bandhubhūte | prajāpateḥ sakāśātsahotpannatvātparasparaṃ jāmitvam | tathā ca nigamau divaṃ ca pṛthivīṃ cāntarikṣamatho svaḥ | ṛ. 10-190-3 | yato dyāvāpṛthivī niṣṭatakṣuḥ | ṛ. 10-31-7 | iti | pitroḥ sarvasya pitṛsthānīyayoḥ pālakayostayorupastha utsaṅge sthitaṃ bhuvanasya bhūtajātasya nābhiṃ bandhakamudakamabhijighrantī abhighrāṇaṃ kurvantyau spṛśantyau | samānametadudakam | ṛ. 1-164-51 | ityādimantravarṇādubhayorudakapradatvaṃ prasiddham | īdṛśyau no rakṣatam ‖*
+
+**Pratipadārtha.** *saṃgacchamāne* — (from the wish to help each other) always being together; *yuvatī* — ever young; *samante* — of equal pervasion; *svasārā* — loving each other like elder and younger sisters; *jāmī* — (being children of Prajāpati) having kinship with each other; *pitroḥ* — of the father and mother, or of the protectors; *upasthe* — in the lap (on the thigh), being there; *bhuvanasya* — for all living beings in the world; *nābhim* — the water that is their support; *abhijighrantī* — touching (holding) — being such; *dyāvāpṛthivī* — O Heaven and Earth; *abhvāt* — from great fear; *naḥ* — us; *rakṣatam* — protect.
+
+**Bhāvārtha.** O Heaven and Earth, you two are always together and ever young. Being children of Prajāpati, you are both loving like sisters and kin to each other. You hold the water that is the support of all living beings. You, being such, protect us from great fear.
+
+---
+
+### Printed p. 76  (PDF 94)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Ṛk 5, continued.)*
+
+**English Translation (as printed):** Going always together, equally young, and of the like termination, sisters, and kindred, and scenting the navel of the world, placed on their lap as its parents : defend us, Heaven and Earth, from great danger.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+The ṛṣi Agastya has shown his skill of composition well in this sūkta. The extraordinary deeds of Heaven and Earth, the deities of this sūkta, and their protection of the world are described with a most excellent and natural group of words. That is, in describing or praising these deities the words **अतप्यमाने, अवन्ती, देवपुत्रे, संगच्छमाने, युवती, समन्ते, स्वसारा, जामी, अभिजिघ्रन्ती, उर्वी, सद्मनी, बृहती, जनित्री, सुप्रतीके, पृथ्वी, बहुले, दूरेअन्ते, सुभगे, सुप्रतूर्ती (*atapyamāne, avantī, devaputre, saṃgacchamāne, yuvatī, samante, svasārā, jāmī, abhijighrantī, urvī, sadmanī, bṛhatī, janitrī, supratīke, pṛthvī, bahule, dūreante, subhage, supratūrtī*)** have been used. Besides being natural, of deep meaning and suited to the context, the use of these words in praising the qualities of the deities gives depth and devotional feeling to the poetry. So there is no need to say separately that the composition of the ṛks of this sūkta is of a very high standard. Besides this, the profound truths set forth in the form of question and answer in the first ṛk of this sūkta, and the similes used here and there, are excellent examples of the ṛṣi's poetic skill of composition.
+
+**संगच्छमाने (*saṃgacchamāne*)** — this word means "going together" or "being together". Sāyaṇa in his bhāṣya has said: **परस्परमुपकारित्वेन सह युज्यमाने । वृष्टिहविषोश्च परस्परमुपकार्योपकारकभावः । यद्वा । पूर्वं संसृष्टे एव सत्यौ पश्चाद्वियुज्य वृष्टिहविषी अकुर्वन्त्यौ पश्चान्मनुष्यैः प्रार्थितैर्देवैर्विवाहिते सत्यौ संगते अभूतामित्याहुः । (*parasparamupakāritvena saha yujyamāne | vṛṣṭihaviṣośca parasparamupakāryopakārakabhāvaḥ | yadvā | pūrvaṃ saṃsṛṣṭe eva satyau paścādviyujya vṛṣṭihaviṣī akurvantyau paścānmanuṣyaiḥ prārthitairdevairvivāhite satyau saṃgate abhūtāmityāhuḥ |*)** That is, "they are together in order to help each other". Here the help means the rain of water and the oblation offered to the deities. Because of rain, crops and the like grow and the grain and other things needed for the oblation are obtained; so it is described here that rain and oblation are obtained through mutual help. As to what relation there is between Heaven and Earth and rain, the ṛṣi has explained that too in this very ṛk by the sentence **अभिजिघ्रन्ती भुवनस्य नाभिं (*abhijighrantī bhuvanasya nābhiṃ*)**. That is, because the clouds in the Antarikṣa (*dyāvā*) gather together and produce rain, crops and the like grow on the earth (*pṛthivī*). So the purport is that Heaven and Earth are of mutual help both for rain and for the growth of crops and the like.
+
+Or else: though Prajāpati created Heaven and Earth together, that is, at one time, they were apart, separated by other causes, and the rain, most necessary for the world, *(continues on the next page)*
+
+---
+
+### Printed p. 77  (PDF 95)
+
+*(Header as printed: "Aṣṭaka 2, Adhyāya 3, Varga 2" — the Adhyāya digit is printed 3 here, 5 on the neighbouring odd pages. Special Topics of Ṛk 5, continued.)* — when they did not produce it, the gods, at the prayer of men, accomplished the marriage of Heaven and Earth and made them become one: this other meaning too Sāyaṇa has stated. On the point that Heaven and Earth were together, Sāyaṇa has cited the Taittirīya-Brāhmaṇa sentence
+
+> द्यावापृथिवी सहास्ताम् । ते वियती अब्रूताम् ॥
+
+> *dyāvāpṛthivī sahāstām | te viyatī abrūtām ‖*
+
+(Tai. Brā. 1-1-3 2, as printed) (Gloss, mine and tentative: "Heaven and Earth were together; going apart, they said …")
+
+On the point that Prajāpati created Heaven and Earth there is the Aitareya-Brāhmaṇa sentence
+
+> प्रजापतिरकामयत प्रजायेय भूयान्त्स्यामिति स तपोऽतप्यत स तपस्तप्त्वेमाँल्लोकानसृजत पृथिवीमन्तरिक्षं दिवम् ।
+
+> *prajāpatirakāmayata prajāyeya bhūyāntsyāmiti sa tapo'tapyata sa tapastaptvemā~llokānasṛjata pṛthivīmantarikṣaṃ divam |*
+
+(Ai. Brā. 25-7) (Gloss, mine and tentative: "Prajāpati desired, 'May I be propagated, may I become many'; he performed austerity; having performed austerity he created these worlds — the earth, the mid-space, the sky.")
+
+The purport of this mantra is: Prajāpati (Brahmā), desiring to create, performed austerity; then by the greatness of that austerity he created these worlds, that is, the worlds called Earth, Antarikṣa and Svarga. This point is found in the Ṛgveda-saṃhitā itself, namely,
+
+> सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत् ।
+> दिवं च पृथिवीं चान्तरिक्षमथो स्वः ॥
+
+> *sūryācandramasau dhātā yathāpūrvamakalpayat |*
+> *divaṃ ca pṛthivīṃ cāntarikṣamatho svaḥ ‖*
+
+(Ṛ. Saṃ. 10-190-3) (Gloss, mine and tentative: "The Ordainer fashioned sun and moon as before, and heaven and earth and the mid-space, and the light.")
+
+— in this ṛk it is said that Brahmā, that is, the Creator, when creating, created the sun and moon and the worlds called Svarga, Earth and Antarikṣa. Besides this,
+
+> जनिता दिवो जनिता पृथिव्याः पिबा सोमं मदाय कं शतक्रतो ।
+
+> *janitā divo janitā pṛthivyāḥ pibā somaṃ madāya kaṃ śatakrato |*
+
+(Ṛ. Saṃ. 8-36-4) (Gloss, mine and tentative: "Begetter of heaven, begetter of earth — drink the Soma for exhilaration, O Śatakratu.")
+
+> यन्मातरं च पितरं च साकमजनयथास्तन्वः स्वायाः ।
+
+> *yanmātaraṃ ca pitaraṃ ca sākamajanayathāstanvaḥ svāyāḥ |*
+
+(Ṛ. Saṃ. 10-54-3) (Gloss, mine and tentative: "When you begot the mother and the father together from your own body.")
+
+— in such ṛks it is said that Indra himself created Heaven and Earth. But since in many contexts the identity of Indra and Prajāpati is stated, there is no contradiction in this. And —
+
+> सोमापूषणा जनना रयीणां जनना दिवो जनना पृथिव्याः ।
+> जातौ विश्वस्य भुवनस्य गोपौ देवा अकृण्वन्नमृतस्य नाभिम् ।
+
+> *somāpūṣaṇā jananā rayīṇāṃ jananā divo jananā pṛthivyāḥ |*
+> *jātau viśvasya bhuvanasya gopau devā akṛṇvannamṛtasya nābhim |*
+
+(Ṛ. Saṃ. 2-40-1) (Gloss, mine and tentative: "Soma and Pūṣan, begetters of riches, begetters of heaven, begetters of earth; born as guardians of the whole world, the gods made them the navel of immortality.")
+
+— in this ṛk it is said that the deities Soma and Pūṣan produced Heaven and Earth.
+
+---
+
+### Printed p. 78  (PDF 96)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 5, continued.)*
+
+> स वां यज्ञेषु मानवी इन्दुर्जनिष्ट रोदसी ।
+
+> *sa vāṃ yajñeṣu mānavī indurjaniṣṭa rodasī |*
+
+(Ṛ. Saṃ. 9-98-9) (Gloss, mine and tentative: "That Indu (Soma) begot for you two, at the sacrifices, the two worlds, friendly to man.")
+
+> प्र हिन्वानो जनिता रोदस्यो रथो न वाजं सनिष्यन्नयासीत् ।
+
+> *pra hinvāno janitā rodasyo ratho na vājaṃ saniṣyannayāsīt |*
+
+(Ṛ. Saṃ. 9-90-1) (Gloss, mine and tentative: "Being impelled, the begetter of the two worlds has gone forth like a chariot, about to win the prize.")
+
+> सोमः पवते जनिता मतीनां जनिता दिवो जनिता पृथिव्याः ।
+
+> *somaḥ pavate janitā matīnāṃ janitā divo janitā pṛthivyāḥ |*
+
+(Ṛ. Saṃ. 9-96-5) (Gloss, mine and tentative: "Soma purifies himself, begetter of thoughts, begetter of heaven, begetter of earth.")
+
+— in such ṛks it is said that the deity Soma himself created Heaven and Earth.
+
+*(Line 1 as printed: "शिर्ष्णो (*śirṣṇo*)", with short i.)*
+
+> नाभ्या आसीदन्तरिक्षं शिर्ष्णो द्यौः समवर्तत ।
+> पद्भ्यां भूमिर्दिशः श्रोत्रात्तथा लोकाँ अकल्पयन् ॥
+
+> *nābhyā āsīdantarikṣaṃ śirṣṇo dyauḥ samavartata |*
+> *padbhyāṃ bhūmirdiśaḥ śrotrāttathā lokā~ akalpayan ‖*
+
+(Ṛ. Saṃ. 10-90-14) (Gloss, mine and tentative: "From the navel was the mid-space, from the head the sky came forth; from the feet the earth, from the ear the quarters; thus they fashioned the worlds.")
+
+— in this ṛk it is said that the Antarikṣa-world arose from the navel region of the Supreme Person, the Svarga-world from the head, and the earth-world from the feet. Some ṛṣis, struck with wonder about Heaven and Earth, have expressed doubt: who made them, how they made them, and from what material they made them.
+
+> किं स्विद्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्टतक्षुः ।
+
+> *kiṃ svidvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣṭatakṣuḥ |*
+
+(Ṛ. Saṃ. 10-31-7) (Gloss, mine and tentative: "What was the wood, what the tree, from which they fashioned Heaven and Earth?")
+
+— in this ṛk the ṛṣi called Kavaṣa Ailūṣa, and
+
+> किं स्विद्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्टतक्षुः ।
+
+> *kiṃ svidvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣṭatakṣuḥ |*
+
+(Ṛ. Saṃ. 10-81-4) (Gloss as above.)
+
+— in this ṛk the ṛṣi called Viśvakarmā Bhauvana, express doubt and wonder: "From what wood, from what tree (timber) did they make Heaven and Earth?" In answer to this question, in the 2nd and 3rd ṛks of the same sūkta —
+
+*(Line 1 as printed: "कतमत्स्वित् किमासीत् (*katamatsvit kimāsīt*)".)*
+
+> किं स्विदासीदधिष्ठानमारम्भणं कतमत्स्वित् किमासीत् ।
+> यतो भूमिं जनयन् विश्वकर्मा विद्यामौर्णोन्महिना विश्वचक्षाः ।
+> विश्वतश्चक्षुरुत विश्वतो मुखो विश्वतो बाहुरुत विश्वतस्पात् ।
+> सं बाहुभ्यां धमति सं पतत्रैर्द्यावाभूमी जनयन् देव एकः ॥
+
+> *kiṃ svidāsīdadhiṣṭhānamārambhaṇaṃ katamatsvit kimāsīt |*
+> *yato bhūmiṃ janayan viśvakarmā vidyāmaurṇonmahinā viśvacakṣāḥ |*
+> *viśvataścakṣuruta viśvato mukho viśvato bāhuruta viśvataspāt |*
+> *saṃ bāhubhyāṃ dhamati saṃ patatrairdyāvābhūmī janayan deva ekaḥ ‖*
+
+(Ṛ. Saṃ. 10-81-2, 3) (Gloss, mine and tentative: "What was the standing-place, what the starting-point, what was it, from which Viśvakarmā, all-seeing, begetting the earth, unveiled the sky by his greatness? With eyes on all sides, faces on all sides, arms on all sides, feet on all sides, the one god, begetting heaven and earth, welds them together with his arms, with his wings.")
+
+— What substance was there before creation? What was the nature of the substance that existed at that beginning time? From what substance did the Supreme Brahman named Viśvakarmā create Heaven and Earth by his greatness? *(continues on the next page)*
+
+---
+
+### Printed p. 79  (PDF 97)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2". Special Topics of Ṛk 5, continued.)* — so asking himself, the ṛṣi himself has given the answer there: that god who is one, with eyes everywhere (that is, able to see everything, at all times and in all places), with face, arms and feet in all directions, that is, almighty (the Supreme Self named Viśvakarmā), created these Heaven and Earth.
+
+On the marriage of Heaven and Earth, the Aitareya-Brāhmaṇa says thus —
+
+*(Line 1 as printed here: "समतपत्ते (*samatapatte*)"; on p. 73 the same passage was read "समपतत्ते (*samapatatte*)".)*
+
+> इमौ वै लोकौ सहास्तां तौ व्यैतां नावर्षन्न समतपत्ते पञ्चजना न
+> समजानत तौ देवाः समनयंस्तौ संयन्तावेतं देवविवाहं व्यवहेताम् ॥
+
+> *imau vai lokau sahāstāṃ tau vyaitāṃ nāvarṣanna samatapatte pañcajanā na*
+> *samajānata tau devāḥ samanayaṃstau saṃyantāvetaṃ devavivāhaṃ vyavahetām ‖*
+
+(Ai. Brā. 19-5) (Gloss as on p. 73.)
+
+That is: formerly these worlds, that is, Heaven and Earth, were together in one place; by other causes they became separate. Then the coming of rain stopped; there was no sunshine either. Then the five peoples, that is, those of the Brāhmaṇa and other varṇas and all living beings, were distressed; they had no happiness. Then the gods, for the welfare of the world, performed the marriage of Heaven and Earth according to divine rule, united them and brought happiness to the world — so it is said. This same thing Sāyaṇa has stated in his bhāṣya.
+
+**युवती (*yuvatī*)** — "youthful, young". It is customary for the ṛṣis generally to describe all the deities as youthful, that is, as always endowed with strength and beauty without being subject to the changes of old age. Especially in regard to the deities Agni, Indra, Uṣas, the Aśvins, Heaven and Earth and the like, this epithet is used much.
+
+> अग्निनाग्निः समिध्यते कविर्गृहपतिर्युवा ।
+
+> *agnināgniḥ samidhyate kavirgṛhapatiryuvā |*
+
+(Ṛ. Saṃ. 1-12-6) (Gloss, mine and tentative: "Agni is kindled by Agni, the sage, the lord of the house, the youthful one.")
+
+— in this ṛk this word refers to Agni;
+
+> पुरां भिन्दुर्युवा कविरमितौजा अजायत ।
+
+> *purāṃ bhinduryuvā kaviramitaujā ajāyata |*
+
+(Ṛ. Saṃ. 1-11-4; the reference is printed below the next line of prose) (Gloss, mine and tentative: "The breaker of forts, youthful, the sage, of boundless might, was born.")
+
+— here to Indra;
+
+*(As read: "पूर्व्येभिरेन्वैः (*pūrvyebhirenvaiḥ*) [?]" (the ligature looks like n + v) and "यु (*yu*)[?]वाना (*vānā*)" (a mark like *śi* between *yu* and *vā*).)*
+
+> युवं तुग्राय पूर्व्येभिरेन्वैः [?] पुनर्मन्यावभवतं यु[?]वाना ।
+
+> *yuvaṃ tugrāya pūrvyebhirenvaiḥ [?] punarmanyāvabhavataṃ yu[?]vānā |*
+
+(Ṛ. Saṃ. 1-117-14) (Gloss, mine and tentative: "You two, for Tugra, with your ancient courses, became again worthy of honour, O youthful ones.")
+
+— here to the Aśvins;
+
+> आ नो जने श्रवयतं युवाना श्रुतं मे मित्रावरुणा हवेमा ।
+
+> *ā no jane śravayataṃ yuvānā śrutaṃ me mitrāvaruṇā havemā |*
+
+(Ṛ. Saṃ. 7-62-5) (Gloss, mine and tentative: "Make us famous among the people, O youthful ones; hear these calls of mine, O Mitra and Varuṇa.")
+
+— in such ṛks to Mitra and Varuṇa;
+
+> एषा दिवो दुहिता प्रत्यदर्शि व्युच्छन्ती युवतिः शुक्रवासाः ।
+
+> *eṣā divo duhitā pratyadarśi vyucchantī yuvatiḥ śukravāsāḥ |*
+
+(Ṛ. Saṃ. 1-113-7) (Gloss, mine and tentative: "This daughter of heaven has appeared, shining forth, a young woman in bright garments.")
+
+— in such ṛks to the deity Uṣas, *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 79 (PDF 97). Sūkta 185 Ṛk 5 (saṃgacchamāne yuvatī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics in progress (yuvatī: examples for Agni, Indra, Aśvins, Mitra-Varuṇa, Uṣas; sentence runs over to p. 80); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 80 / PDF 98. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (the same Ai. Brā. 19-5 passage on p. 79 is printed 'samatapatte': recheck p. 73). New: p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3 (5 elsewhere), Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' (short i) as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed (Ṛ. 10-81-2); p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference printed below the following prose line.
