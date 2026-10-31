@@ -18,3 +18,5 @@ Batch 7: done through printed p. 97 (PDF 115). Sūkta 185 Ṛks 9,10 closed; Ṛ
 Batch 8: done through printed p. 103 (PDF 121). Sūkta 185 CLOSED (p. 99). Sūkta 186 (ā na iḷābhiḥ, 11 ṛks, Agastya, Viśvedevas, triṣṭubh, Vargas 4–5) starts p. 99; Ṛk 1 OPEN: Special Topics (Viśvedeva note) break off at foot of p. 103 mid-list of maṇḍala-1 sūktas ("14, 89, 90, 105, 106, 107, 121, …"). Next: PDF 122 = printed p. 104. No new [?]. Flags in file's progress note.
 
 Batch 9: done through printed p. 109 (PDF 127). Sūkta 186 Ṛk 1 OPEN: Special Topics (Viśvedeva list, vidatha, iḷābhiḥ, viśvānaraḥ, Agni Vaiśvānara) end partway through Nirukta passage "vaiśvānaraḥ kasmād…". Next: PDF 128 = printed p. 110. [?]: p.104 'vedayitsu[?]'; p.105 '[?]vīrāḥ', 'vi[?]tha'. Note: quotations inside blockquotes break add_iast.py (duplicates lines) — use plain paragraphs.
+
+Batch 10: done through printed p. 115 (PDF 133). Sūkta 186 Ṛk 1 OPEN: Special Topics in Śa. Brā. 10-6-1 story (Aśvapati Kaikeya, six seekers); ¶10 "tān hovāca ete vai yūyaṃ…" printed at foot of p. 115, its Kannada explanation continues p. 116 (PDF 134). [?]: p.110 Ni. 6[?]-22; p.114 "atha hoc[?]".
