@@ -166,5 +166,13 @@
   "old": "Ni. 3-3 [?]; Ṛ. Saṃ. 4-… [?]; मन्तवा / mantavā",
   "new": "Ni. 3-3; Ṛ. Saṃ. 7-4-8 (first digit 7 [?]); मन्तेवा उ [?] (print ಮಂತೆವಾ ಉ)",
   "note": "700dpi: ೩-೩ legible; Ṛg ref glyphs ೭?-೪-೮ (first flat-footed = 7 by the p.282 header calibration); print shows ತೆ (short e) in the last word; bhāyāraṇaḥ confirmed."
+ },
+ {
+  "pdf": 322,
+  "printed": 302,
+  "status": "resolved",
+  "old": "\"hvārcher ghanoḥ sanaḥ\" — luk and halo lopa (Uṇ. Sū. 2-… [?])",
+  "new": "\"hurcchēḥ sano luk chalopaś ca\" (as printed [?]) (Uṇ. Sū. 2-248 [?])",
+  "note": "600dpi: sutra printed ಹುರ್ಛೇಃ ಸನೋ ಲುಕ್ ಛಲೋಪಶ್ಚ; ref ೨-೨೪೮ (digits small). Pā. 6-1-163 confirmed legible. Rest of the grammar page unchanged."
  }
 ]

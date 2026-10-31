@@ -7663,7 +7663,7 @@ As a house provided with drinking water on the well-known road (such as the wate
 
 - ***yajñaḥ*** — *yajñaḥ asya asti iti yajñaḥ*: by "*arśa-ādibhyo 'c*" (Pā. Sū. 5-2-127 [?]) the suffix *ac* in the possessive sense; by "*yasyeti ca*" (Pā. Sū. 6-4-148 [?]) the *a* of the fore-member is dropped; the suffix accent is end-*udātta*.
 - ***ṛndhan*** — root *ṛdhu vṛddhau*, *divādi*; *śatṛ* for *laṭ*; by *vyatyaya* *śnam* as the *vikaraṇa*; being *mit*, the nasal comes after the last vowel of the root; the suffix accent is first-syllable *udātta*.
-- ***juhurāṇaḥ*** — root *hvṛ kauṭilye*; by "*hvārcher ghanoḥ sanaḥ*" — *luk* and *halo lopa* (Uṇ. Sū. 2-… [?]) the suffix *ānaṭ* after a desiderative ending; loss of *san*; the root loses *tha*; although the suffix (*san*) is dropped, by the characteristic of the suffix the root is reduplicated; owing to *repha* the suffix *n* becomes *ṇ*; being *cit*, by "*cita*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
+- ***juhurāṇaḥ*** — root *hvṛ kauṭilye*; by "*hurcchēḥ sano luk chalopaś ca*" (as printed [?]) (Uṇ. Sū. 2-248 [?]) the suffix *ānaṭ* after a desiderative ending; loss of *san*; the root loses *tha*; although the suffix (*san*) is dropped, by the characteristic of the suffix the root is reduplicated; owing to *repha* the suffix *n* becomes *ṇ*; being *cit*, by "*cita*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
 
 ---
 
