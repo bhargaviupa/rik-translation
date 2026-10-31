@@ -1558,5 +1558,53 @@
   ],
   "note": "UNDECIDED: Ṛ. 5-49-5 line 1 'namo durye [?]' (da or dha); both zoom attempts landed on the line above",
   "answer": ""
+ },
+ {
+  "pdf": 84,
+  "printed": 66,
+  "crop": [
+   0.261,
+   0.279,
+   0.662,
+   0.901
+  ],
+  "note": "ZOOMED, read: divo dyāvā (Pā. Sū. 6-3-29)",
+  "answer": ""
+ },
+ {
+  "pdf": 84,
+  "printed": 66,
+  "crop": [
+   0.317,
+   0.336,
+   0.528,
+   0.901
+  ],
+  "note": "ZOOMED, read: āmantritasya ca (Pā. Sū. 6-1-198)",
+  "answer": ""
+ },
+ {
+  "pdf": 84,
+  "printed": 66,
+  "crop": [
+   0.381,
+   0.4,
+   0.293,
+   0.561
+  ],
+  "note": "ZOOMED, read: āmantritaṃ pūrvam avidyamānavat (Pā. Sū 8-1-72)",
+  "answer": ""
+ },
+ {
+  "pdf": 84,
+  "printed": 66,
+  "crop": [
+   0.41,
+   0.429,
+   0.193,
+   0.427
+  ],
+  "note": "UNDECIDED: tāsyanudātteṅ… (Pā. Sū. 6-1-18[?]), last digit looks like 7; zoom (two tries) missed the line",
+  "answer": ""
  }
 ]

@@ -2050,4 +2050,149 @@ In this ṛk, by अभ्वं मेघं जनयन्ति (*abhvaṃ m
 
 ---
 
-**Progress note:** Done through printed p. 63 (PDF 81). Sūkta 185 Ṛk 2 (bhūriṃ dve acarantī) OPEN: Special Topics continuing (abhva discussion, Ṛ. 2-4-5 cited at the foot of p. 63); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 64 / PDF 82. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5).
+### Printed p. 64  (PDF 82)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185".)* — in that place the word **अभ्व (*abhva*)** praises the greatness of Agni. Here *abhva* comes to mean **"greatness"**. Likewise,
+
+> अर्हन्बिभर्षि सायकानि धन्वार्हन्निष्कं यजतं विश्वरूपम् ।
+> अर्हन्निदं दयसे विश्वमभ्वं न वा ओजीयो रुद्र त्वदस्ति ॥
+
+> *arhanbibharṣi sāyakāni dhanvārhanniṣkaṃ yajataṃ viśvarūpam |*
+> *arhannidaṃ dayase viśvamabhvaṃ na vā ojīyo rudra tvadasti ‖*
+
+(Ṛ. Saṃ. 2-33-10) (Gloss, mine and tentative: "Worthy, you bear arrows and bow; worthy, the adorable many-formed necklace; worthy, you protect this whole vast world; there is nothing mightier than you, O Rudra.")
+
+In this ṛk, विश्वं अभ्वं । महन्नामैतत् । अतिविस्तृतं जगत् । (*viśvaṃ abhvaṃ | mahannāmaitat | ativistṛtaṃ jagat |*) — since it is read among the names of "great", Sāyaṇa has given the meaning "the exceedingly extended world". That is, in 2-4-5, cited above, it indicates the spiritual (*ādhyātmika*) greatness of Agni; here, in ṛk 2-33-10, it indicates the physical extent of the world.
+
+What the root meaning of the word *abhva* is, and how these traditional meanings can be derived on the basis of that root meaning: if one wishes to know this, the root meaning becomes known on attending to the word *abhva* used in a sentence of the Śatapatha Brāhmaṇa.
+
+> अथ ब्रह्मैव परार्धमगच्छत् । तत्परार्धं गत्वैक्षत कथं न्विमान्लोकान्प्र-
+> त्यवेयामिति तद्द्वाभ्यामेव प्रत्यवैद्रूपेण चैव नाम्ना च स यस्य कस्य
+> च नामास्ति तन्नाम यस्योऽपि नाम नास्ति यद्वेद रूपेणेदग्ं रूपमिति
+> तद्रूपमेतावद्वा इदं यावद्रूपं चैव नाम च । ते हैते ब्रह्मणो
+> महती अभ्वे । स यो हैते ब्रह्मणो महती अभ्वे वेद महद्धैवाभ्वं
+> भवति ॥
+
+> *atha brahmaiva parārdhamagacchat | tatparārdhaṃ gatvaikṣata kathaṃ nvimānlokānpra-*
+> *tyaveyāmiti taddvābhyāmeva pratyavaidrūpeṇa caiva nāmnā ca sa yasya kasya*
+> *ca nāmāsti tannāma yasyo 'pi nāma nāsti yadveda rūpeṇedagṃ rūpamiti*
+> *tadrūpametāvadvā idaṃ yāvadrūpaṃ caiva nāma ca | te haite brahmaṇo*
+> *mahatī abhve | sa yo haite brahmaṇo mahatī abhve veda mahaddhaivābhvaṃ*
+> *bhavati ‖*
+
+(Śa. Brā. 11-2-3-3) (Gloss, mine and tentative: "Then Brahman went up to the higher half. Having gone to the higher half, it considered: 'How now could I come down into these worlds?' It came down by two: by form and by name. Whatever has a name, that is name; and what has no name, what one knows by its form — 'this is its form' — that is form. So far indeed is all this, as far as form and name. These are the two great powers (*abhva*) of Brahman; he who knows these two great powers of Brahman becomes himself a great power.")
+
+In these sentences it is said that name and form are the great *abhvas* of Brahman. The *abhva* of Brahman is of two kinds, **mūrta** (Concrete) and **amūrta** (Abstract). Therefore the meaning is that both kinds of power that are Brahman's greatness, the **mūrta power** and the **amūrta power**, pervade the universe. From these root meanings the remaining purports follow. In this way the pervasive meaning "the principle of the universe in the form of the mūrta and the amūrta",
+
+> उदू अयाँ उपवक्तेव बाहू हिरण्यया सविता सुप्रतीका ।
+> दिवो रोहांस्यरुहत्पृथिव्या अरीरमत्पतयत्कच्चिदभ्वम् ॥
+
+> *udū ayā~ upavakteva bāhū hiraṇyayā savitā supratīkā |*
+> *divo rohāṃsyaruhatpṛthivyā arīramatpatayatkaccidabhvam ‖*
+
+(Ṛ Saṃ. 6-71-5) (Gloss, mine and tentative: "Savitṛ has raised up his golden, fair-faced arms like one who speaks forth; he has climbed the heights of heaven and earth; he has brought to rest whatever mighty thing was flying.")
+
+— is contained in the word *abhva* in this ṛk. Explaining the meaning of this word, Sāyaṇa has stated its pervasive purport: "अभ्वं महत् सर्वं वस्तुजातम् (*abhvaṃ mahat sarvaṃ vastujātam*)". In some *(continues on the next page)*
+
+### Printed p. 65  (PDF 83)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* places a pervasive **good power** (*sacchakti*) is indicated, and in some other places an **evil power** (*duṣṭaśakti*). In the Ṛksaṃhitā this word is used in both these senses.
+
+*(In line 1 the letter of "दुर्ये (*durye*)" is doubtful, da or dha [?].)*
+
+> प्र ये वसुभ्य ईवदा नमो दुर्ये मित्रे वरुणे सूक्तवाचः ।
+> अवैत्वभ्वं कृणुता वरीयो दिवस्पृथिव्योरवसा मदेम ॥
+
+> *pra ye vasubhya īvadā namo durye mitre varuṇe sūktavācaḥ |*
+> *avaitvabhvaṃ kṛṇutā varīyo divaspṛthivyoravasā madema ‖*
+
+(Ṛ. Saṃ. 5-49-5) (Gloss, mine and tentative: "Those who bring homage with well-spoken words to the Vasus, to Mitra and Varuṇa at the house — let the mighty one come; make wide space; may we rejoice in the help of Heaven and Earth.")
+
+— there, by अभ्वं महद्धनं तेजो वा (*abhvaṃ mahaddhanaṃ tejo vā*), it means the **great power of splendour**; and
+
+*(Line 2 ends "पूर्वाणि (*pūrvāṇi*)" as printed.)*
+
+> द्यावो न यस्य पनयन्त्यभ्वं भासांसि वस्ते सूर्यो न शुक्रः ।
+> वि य इनोत्यजरः पावकोऽश्नस्य चिच्छिश्नथत्पूर्वाणि ॥
+
+> *dyāvo na yasya panayantyabhvaṃ bhāsāṃsi vaste sūryo na śukraḥ |*
+> *vi ya inotyajaraḥ pāvako 'śnasya cicchiśnathatpūrvāṇi ‖*
+
+(Ṛ. Saṃ, 6-4-3) (Gloss, mine and tentative: "Whose might the heavens, as it were, praise; he clothes himself in lights, bright like the sun; the unaging purifier who drives away, who has pierced even the ancient strongholds of the devourer.")
+
+— there, by अभ्वं महत्कर्म (*abhvaṃ mahatkarma*), it means the **great power of action**. In these two contexts too this word is used in the sense of a good power.
+
+*(Line 1 as printed: "इन्न्वे ३ इव (*innve 3 iva*)", with the pluta numeral 3.)*
+
+> ता इन्न्वे३ इव समना समानीरमीतवर्णा उषसश्चरन्ति ।
+> गूहन्तीरभ्वमसितं रुशद्भिः शुक्रास्तनूभिः शुचयो रुचानाः ॥
+
+> *tā innve3 iva samanā samānīramītavarṇā uṣasaścaranti |*
+> *gūhantīrabhvamasitaṃ ruśadbhiḥ śukrāstanūbhiḥ śucayo rucānāḥ ‖*
+
+(Ṛ. Saṃ. 4-51-9) (Gloss, mine and tentative: "Those same Dawns move in the same way, alike, of unchanging colour, hiding the black monster with their gleaming bodies, bright, pure, shining.")
+
+— in this ṛk, by अतिमहत्कृष्णं रूपम् (*atimahatkṛṣṇaṃ rūpam*), it means the **great darkness**. Just as the word **अभ्व (*abhva*)** is used when indicating an elemental power that is distorted and violent, so in the present ṛk too it is used. Here, नः अस्मान् अभ्वात् महतो भयहेतोः पापात् रक्षतं पालयतम् (*naḥ asmān abhvāt mahato bhayahetoḥ pāpāt rakṣataṃ pālayatam*) — "protect us from sin, which is great and a cause of fear": so it is prayed.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *acarantī* (root *cara gatibhakṣaṇayoḥ*; *śatṛ* for *laṭ*; *ṅīp* in the feminine by *ugitaś ca* (Pā. Sū. 4-1-7 [?], as read); negative *tatpuruṣa*, so by *tatpuruṣe tulyārtha…* (Pā. Sū. 6-2[?]-2) the original accent of the indeclinable first member). *padvantam* (पात् पादः अस्य अस्ति इति पद्वान् (*pāt pādaḥ asya asti iti padvān*); *matup* by *tadasyāsti…*; *va* for *ma* by *jhayaḥ* (Pā. Sū. 8-2-10); udātta on *matup* by *vyatyaya*; *num* augment in the accusative singular as it is *ugit*). *apadī* (न विद्यते पादः ययोस्ते (*na vidyate pādaḥ yayoste*); final acute of the latter member by *nañsubhyām* (Pā. Sū. 6-2-172); *pad* for *pāda*; *ṅīp* by *pādo'nyatarasyām* (Pā. Sū. 4-1-8); before the dual ending, by the sūtra *supāṃ suluk*, *pūrvasavarṇa* lengthening).
+
+*(Foot of page: signature "[5]" and "Vol. 14".)*
+
+---
+
+### Printed p. 66  (PDF 84)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Grammar of Ṛk 2, concluded.)* *dadhāte* (root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *laṭ*, 3rd person dual; *tiṅanta nighāta* accent). *dyāvāpṛthivī* (द्यौश्च पृथिवी च द्यावापृथिव्यौ (*dyauśca pṛthivī ca dyāvāpṛthivyau*); *dyāvā*-substitute in the *dvandva* by *divo dyāvā* (Pā. Sū. 6-3-29); the verb *rakṣatam* is used in the middle of the *dvandva* as a Vedic licence; *pūrvasavarṇa* lengthening before the dual ending by the sūtra *supāṃ suluk*; no *nighāta* as it stands at the beginning of a pāda; initial acute by *āmantritasya ca* (Pā. Sū. 6-1-198)). *rakṣatam* (root *rakṣa pālane*; *loṭ*, 2nd person dual; since the preceding word is treated as non-existent by *āmantritaṃ pūrvam avidyamānavat* (Pā. Sū. 8-1-72), the verb does not follow a non-verb, so no *tiṅanta nighāta*; by *tāsyanudātteṅ…* (Pā. Sū. 6-1-18[?]) the *lasārvadhātuka* is unaccented, so the root accent remains). ‖ 2 ‖
+
+*(Ornamental rule "— :0: —": end of Ṛk 2.)*
+
+## Sūkta 185, Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अनेहो दात्रमदितेरनर्वं हुवे स्वर्वदवधं नमस्वत् ।
+> तद्रोदसी जनयतं जरित्रे द्यावा रक्षतं पृथिवी नो अभ्वात् ॥ ३ ॥
+
+> *aneho dātramaditeranarvaṃ huve svarvadavadhaṃ namasvat |*
+> *tadrodasī janayataṃ jaritre dyāvā rakṣataṃ pṛthivī no abhvāt ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> अनेहः । दात्रम् । अदितेः । अनर्वम् । हुवे । स्वःऽवत् । अवधम् । नमस्वत् ।
+> तत् । रोदसी इति । जनयतम् । जरित्रे । द्यावा । रक्षतम् । पृथिवी इति । नः । अभ्वात् ॥ ३ ॥
+
+> *anehaḥ | dātram | aditeḥ | anarvam | huve | svaḥ 'vat | avadham | namasvat |*
+> *tat | rodasī iti | janayatam | jaritre | dyāvā | rakṣatam | pṛthivī iti | naḥ | abhvāt ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; continues on the next page)*
+
+*Gist:* I call for the wealth belonging to Aditi (Earth, and by implication the sky) — free of sorrow, unfailing, full of fruit like heaven, unharmed, with food; O Heaven and Earth, produce it for the praiser; the refrain as before.
+
+> अदितेः । एतदन्तरिक्षस्याप्युपलक्षणम् । अखण्डनीयायाः पृथिव्यास्तादृशस्यान्तरिक्षस्य च संबन्धि दात्रं धनं हुवे । आह्वयामि । स्पृहयामीत्यर्थः । कीदृशं तद्धनम् । अनेहोऽपापं दुःखरहितं सुखात्मकम् अनर्वमनरणम् । अक्षीणमित्यर्थः ।
+
+> *aditeḥ | etadantarikṣasyāpyupalakṣaṇam | akhaṇḍanīyāyāḥ pṛthivyāstādṛśasyāntarikṣasya ca saṃbandhi dātraṃ dhanaṃ huve | āhvayāmi | spṛhayāmītyarthaḥ | kīdṛśaṃ taddhanam | aneho 'pāpaṃ duḥkharahitaṃ sukhātmakam anarvamanaraṇam | akṣīṇamityarthaḥ |*
+
+
+### Printed p. 67  (PDF 85)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2". Bhāṣya of Ṛk 3, concluded.)*
+
+> स्वर्वत् सर्वतः फलभूतेन स्वर्गेण तद्वत् अवधमहिंसितं नमस्वदन्नवत् । ईदृशं धनं हुवे । तदस्माभिः काङ्क्षितमुक्तलक्षणं धनं हे रोदसी द्यावापृथिव्यौ जरित्रे स्तोत्रे यजमानाय जनयतम् । उत्पादयतम् । द्यावेत्यादि व्याख्यातम् ॥
+
+> *svarvat sarvataḥ phalabhūtena svargeṇa tadvat avadhamahiṃsitaṃ namasvadannavat | īdṛśaṃ dhanaṃ huve | tadasmābhiḥ kāṅkṣitamuktalakṣaṇaṃ dhanaṃ he rodasī dyāvāpṛthivyau jaritre stotre yajamānāya janayatam | utpādayatam | dyāvetyādi vyākhyātam ‖*
+
+**Pratipadārtha.** *aditeḥ* — belonging to the Antarikṣa and the Earth, which are without division (complete); *anehaḥ* — free of sorrow (and therefore of the nature of happiness); *anarvam* — free of decay; *svarvat* — like heaven, full of fruit; *avadham* — unharmed; *namasvat* — furnished with food — such; *dātram* — wealth; *huve* — I desire; *rodasī* — O Heaven and Earth; *tat* — that wealth desired by us; *jaritre* — for the sacrificer who is the maker of praise; *janayatam* — bring into being; *dyāvāpṛthivī* — O Earth and Antarikṣa; *abhvāt* — from sin, the cause of fear; *naḥ* — us; *rakṣatam* — protect.
+
+**Bhāvārtha.** I desire wealth belonging to the Earth and the Antarikṣa, which are of complete nature — wealth that is of the nature of happiness through the absence of sorrow, free of decay, like heaven full of fruit, unharmed, and furnished with food. O Heaven and Earth, bring into being that wealth desired by us for the sacrificer who is the maker of praise. Protect us from sin, the cause of fear.
+
+**English Translation (as printed):** I solicit of Aditi wealth, without pain or decay, like heaven (in its fullness of enjoyment), exempt from injury, and abounding in food : grant, Heaven and Earth, such wealth to him who praises you : defend us, Heaven and Earth, from great (danger).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this ṛk there is the prayer **दात्रं हुवे (*dātraṃ huve*)** — "I desire wealth". And **अदितेः (*aditeḥ*), अनेहः (*anehaḥ*), अनर्वं (*anarvaṃ*), स्वर्वत् (*svarvat*), अवधं (*avadhaṃ*), नमस्वत् (*namasvat*)** — all these are epithets describing the nature of the wealth called **दात्रं (*dātraṃ*)**.
+
+**अदितेः (*aditeḥ*)** — for this word Sāyaṇa has stated the meaning thus: एतदन्तरिक्षस्याप्युपलक्षणम् । अखण्डनीयायाः पृथिव्याः तादृशस्यान्तरिक्षस्य च संबन्धि दात्रम् । (*etadantarikṣasyāpyupalakṣaṇam | akhaṇḍanīyāyāḥ pṛthivyāḥ tādṛśasyāntarikṣasya ca saṃbandhi dātram |*) The word *aditi* may be a synonym of the Antarikṣa, and it may also make known the nature of the Earth as undivided. *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 67 (PDF 85). Sūkta 185 Ṛk 2 closed on p. 66; Ṛk 3 (aneho dātram aditeḥ) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun on p. 67 (aditeḥ) and continue; Vyākaraṇa-prakriyā not yet seen — continue on printed p. 68 / PDF 86. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ).
