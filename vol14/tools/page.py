@@ -1,6 +1,7 @@
 """Render one scan page for reading: trimmed to the text block, cut into full-width strips, each strip at the highest dpi the viewer shows without shrinking it (the viewer reduces any image wider/taller than ~2000 px).
 python3 page.py PDFPAGE OUTPREFIX [--dpi 400] [--strips 2]      -> OUTPREFIX_0.png, OUTPREFIX_1.png ... (printed top to bottom)
 python3 page.py PDFPAGE OUTPREFIX --zoom Y0 Y1 [X0 X1] [--dpi 600]  -> OUTPREFIX_z.png, one band of the trimmed block (fractions 0-1); rarely needed.
+After a --zoom, log the place with doubt.py (see the runbook): every zoom goes to the user for review.
 Cuts fall in blank gaps between lines. PDFPAGE is the global PDF page (cfg.part_of maps it to a part)."""
 import sys,os,subprocess,tempfile
 sys.path.insert(0,os.path.dirname(__file__))
