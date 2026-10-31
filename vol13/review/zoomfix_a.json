@@ -806,5 +806,381 @@
   "old": "Ṛ.Saṃ. 1-51-6, 4-16-12, 1-54-5, 1-33-12 [?]; Ni. 2-9 [?] (śuṣṇa, strength names)",
   "new": "refs without [?]; Ni. 3-9",
   "note": "190dpi page view: refs legible (agree with the user's numeral list); the Nirukta ref begins with the hooked 3. Quotes agree with the file at this resolution."
+ },
+ {
+  "pdf": 506,
+  "printed": 486,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-1-173 [?]); (Pā. Sū. 6-2-49 [?]); (Pā. Sū. 7-3-80 [?]); (Pā. Sū. 6-2-2 [?])",
+  "new": "(Pā. Sū. 6-1-173); (Pā. Sū. 6-2-49); (Pā. Sū. 7-3-80); (Pā. Sū. 6-2-2)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 4 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 508,
+  "printed": 488,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-85-2 [?])",
+  "new": "(Ṛ. Saṃ. 10-85-2)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 509,
+  "printed": 489,
+  "status": "resolved",
+  "old": "(Ni. 6-4 [?]); (Ni. 11-23 [?])",
+  "new": "(Ni. 6-4); (Ni. 11-24)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 11-23 [?]→Ni. 11-24."
+ },
+ {
+  "pdf": 510,
+  "printed": 490,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-1-171 [?]); (Pā. Sū. 6-4-66 [?]); (Pā. Sū. 6-2-199 [?])",
+  "new": "(Pā. Sū. 6-1-171); (Pā. Sū. 6-4-66); (Pā. Sū. 6-2-199)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 515,
+  "printed": 495,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 9-96-18 [?]); (Pā. Sū. 6-1-186 [?])",
+  "new": "(Ṛ. Saṃ. 9-96-18); (Pā. Sū. 6-1-186)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 516,
+  "printed": 496,
+  "status": "resolved",
+  "old": "(Pā. Sū. 7-3-77 [?])",
+  "new": "(Pā. Sū. 7-3-77)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 519,
+  "printed": 499,
+  "status": "resolved",
+  "old": "(Ni. 4-19 [?]); (Ṛ. Saṃ. 5-63-3 [?]); (Ṛ. Saṃ. 7-34-16 [?]); (Ṛ. Saṃ. 4-42-6 [?])",
+  "new": "(Ni. 4-19); (Ṛ. Saṃ. 5-63-5); (Ṛ. Saṃ. 7-34-16); (Ṛ. Saṃ. 4-42-6)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 5-63-3 [?]→Ṛ. Saṃ. 5-63-5."
+ },
+ {
+  "pdf": 520,
+  "printed": 500,
+  "status": "resolved",
+  "old": "(Ni. 2-23 [?]); (Ni. 3-11 [?]); (Ni. 5-5 [?]); (Ṛ. Saṃ. 5-53-9 [?]); (Ni. 12-30 [?]); (Pā. Sū. 7-2-89 [?]); (Pā. Sū. 6-2-119 [?]); (Pā. Sū. 7-1-50 [?]); (Pā. Sū. 3-4-97 [?]); (Pā. Sū. 3-4-94 [?])",
+  "new": "(Ni. 2-23); (Ni. 3-11); (Ni. 5-5); (Ṛ. Saṃ. 5-52-9); (Ni. 12-30); (Pā. Sū. 7-2-89); (Pā. Sū. 6-2-119); (Pā. Sū. 7-1-50); (Pā. Sū. 3-4-97); (Pā. Sū. 3-4-94)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 9 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 5-53-9 [?]→Ṛ. Saṃ. 5-52-9."
+ },
+ {
+  "pdf": 521,
+  "printed": 501,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-4-175 [?]); (Pā. Sū. 3-4-97 [?]); (Pā. Sū. 7-3-78 [?])",
+  "new": "(Pā. Sū. 6-4-175); (Pā. Sū. 3-4-97); (Pā. Sū. 7-3-78)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 523,
+  "printed": 503,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-190-4 [?]); (Ṛ. Saṃ. 1-162-6 [?]); (Ṛ. Saṃ. 10-95-7 [?])",
+  "new": "(Ṛ. Saṃ. 1-190-4); (Ṛ. Saṃ. 1-162-6); (Ṛ. Saṃ. 10-95-7)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 524,
+  "printed": 504,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-186-3 [?]); (Ṛ. Saṃ. 1-132-10 [?]); (Pā. Sū. 6-1-213 [?]); (Pā. Sū. 8-1-19 [?]); (Pā. Sū. 3-4-94 [?])",
+  "new": "(Ṛ. Saṃ. 1-186-3); (Ṛ. Saṃ. 1-122-10); (Pā. Sū. 6-1-213); (Pā. Sū. 8-1-19); (Pā. Sū. 3-4-94)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 4 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 1-132-10 [?]→Ṛ. Saṃ. 1-122-10."
+ },
+ {
+  "pdf": 525,
+  "printed": 505,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-1-168 [?])",
+  "new": "(Pā. Sū. 6-1-168)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 527,
+  "printed": 507,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-140-7 [?])",
+  "new": "(Ṛ. Saṃ. 1-141-7)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 0 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 1-140-7 [?]→Ṛ. Saṃ. 1-141-7."
+ },
+ {
+  "pdf": 528,
+  "printed": 508,
+  "status": "resolved",
+  "old": "(Ni. 3-8 [?]); (Ṛ. Saṃ. 1-153-4 [?]); (Ni. 4-19 [?])",
+  "new": "(Ni. 3-8); (Ṛ. Saṃ. 1-153-4); (Ni. 4-19)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 529,
+  "printed": 509,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-118-8 [?]); (Ṛ. Saṃ. 2-40-2 [?])",
+  "new": "(Ṛ. Saṃ. 1-118-8); (Ṛ. Saṃ. 2-40-2)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 530,
+  "printed": 510,
+  "status": "resolved",
+  "old": "(Pā. Sū. 4-4-110 [?]); (Pā. Sū. 6-1-213 [?]); (Pā. Sū. 6-4-51 [?]); (Pā. Sū. 6-1-163 [?]); (Pā. Sū. 8-1-66 [?])",
+  "new": "(Pā. Sū. 4-4-110); (Pā. Sū. 6-1-213); (Pā. Sū. 6-4-51); (Pā. Sū. 6-1-163); (Pā. Sū. 8-1-66)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 5 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 534,
+  "printed": 514,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 8-44-26 [?]); (Ṛ. Saṃ. 1-117-3 [?]); (Ṛ. Saṃ. 10-80-3 [?])",
+  "new": "(Ṛ. Saṃ. 8-44-26); (Ṛ. Saṃ. 1-117-3); (Ṛ. Saṃ. 10-80-3)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 538,
+  "printed": 518,
+  "status": "resolved",
+  "old": "(Uṇ. Sū. 1-146 [?]); (Pā. Sū. 6-1-171 [?]); (Pā. Sū. 6-1-168 [?]); (Pā. Sū. 4-3-121 [?]); (Pā. Sū. 6-1-213 [?])",
+  "new": "(Uṇ. Sū. 1-146); (Pā. Sū. 6-1-171); (Pā. Sū. 6-1-168); (Pā. Sū. 4-3-121); (Pā. Sū. 6-1-213)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 5 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 539,
+  "printed": 519,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-1-70 [?])",
+  "new": "(Pā. Sū. 6-1-70)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 541,
+  "printed": 521,
+  "status": "resolved",
+  "old": "(Ni. 2-5 [?]); (Ni. 2-5 [?])",
+  "new": "(Ni. 2-5); (Ni. 2-5)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 542,
+  "printed": 522,
+  "status": "resolved",
+  "old": "(Ni. 3-21 [?]); (Ni. 2-9 [?]); (Ni. 6-9 [?])",
+  "new": "(Ni. 3-21); (Ni. 3-9); (Ni. 3-9)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-9 [?]→Ni. 3-9, Ni. 6-9 [?]→Ni. 3-9."
+ },
+ {
+  "pdf": 545,
+  "printed": 525,
+  "status": "resolved",
+  "old": "(Pā. Sū. 1-1-19 [?])",
+  "new": "(Pā. Sū. 1-1-19)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 547,
+  "printed": 527,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 7-39-2 [?]); (Ni. 5-28 [?]); (Ni. 5-11 [?]); (Ni. 6-9 [?]); (Ṛ. Saṃ. 10-129-2 [?])",
+  "new": "(Ṛ. Saṃ. 7-39-2); (Ni. 5-28); (Ni. 3-11); (Ni. 3-9); (Ṛ. Saṃ. 10-129-2)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 5-11 [?]→Ni. 3-11, Ni. 6-9 [?]→Ni. 3-9."
+ },
+ {
+  "pdf": 548,
+  "printed": 528,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 4-26-6 [?])",
+  "new": "(Ṛ. Saṃ. 4-26-7)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 0 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 4-26-6 [?]→Ṛ. Saṃ. 4-26-7."
+ },
+ {
+  "pdf": 549,
+  "printed": 529,
+  "status": "resolved",
+  "old": "(Ni. 11-2 [?]); (Ni. 12-30 [?]); (Ni. 12-30 [?]); (Ṛ. Saṃ. 5-42-5 [?])",
+  "new": "(Ni. 11-2); (Ni. 12-30); (Ni. 12-30); (Ṛ. Saṃ. 5-42-5)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 4 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 550,
+  "printed": 530,
+  "status": "resolved",
+  "old": "(Ni. 3-13 [?]); (Ṛ. Saṃ. 1-22-20 [?]); (Ṛ. Saṃ. 1-61-3 [?]); (Ṛ. Saṃ. 1-122-7 [?])",
+  "new": "(Ni. 3-13); (Ṛ. Saṃ. 1-22-20); (Ṛ. Saṃ. 1-61-3); (Ṛ. Saṃ. 1-122-8)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 1-122-7 [?]→Ṛ. Saṃ. 1-122-8."
+ },
+ {
+  "pdf": 551,
+  "printed": 531,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-81-6 [?]); (Pā. Sū. 3-1-85 [?]); (Pā. Sū. 3-4-79 [?]); (Pā. Sū. 6-4-77 [?]); (Pā. Sū. 3-4-94 [?]); (Pā. Sū. 3-1-34 [?]); (Pā. Sū. 1-3-20 [?])",
+  "new": "(Ṛ. Saṃ. 10-81-6); (Pā. Sū. 3-1-85); (Pā. Sū. 3-4-79); (Pā. Sū. 6-4-77); (Pā. Sū. 3-4-94); (Pā. Sū. 3-1-34); (Pā. Sū. 1-3-20)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 7 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 552,
+  "printed": 532,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-2-172 [?])",
+  "new": "(Pā. Sū. 6-2-172)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 553,
+  "printed": 533,
+  "status": "resolved",
+  "old": "(Ni. 3-19 [?])",
+  "new": "(Ni. 3-19)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 555,
+  "printed": 535,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 7-76-4 [?]); (Ṛ. Saṃ. 1-67-3 [?]); (Ni. 3-19 [?])",
+  "new": "(Ṛ. Saṃ. 7-76-4); (Ṛ. Saṃ. 1-67-3); (Ni. 3-19)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 556,
+  "printed": 536,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-23-20 [?]); (Ṛ. Saṃ. 1-102-5 [?]); (Ṛ. Saṃ. 2-20-1 [?]); (Ṛ. Saṃ. 8-66-10 [?]); (Ni. 6-26 [?]); (Ni. 2-17 [?])",
+  "new": "(Ṛ. Saṃ. 1-23-21); (Ṛ. Saṃ. 1-102-5); (Ṛ. Saṃ. 2-20-1); (Ṛ. Saṃ. 8-66-10); (Ni. 6-26); (Ni. 2-17)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 5 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 1-23-20 [?]→Ṛ. Saṃ. 1-23-21."
+ },
+ {
+  "pdf": 558,
+  "printed": 538,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-3-136 [?]); (Pā. Sū. 7-1-39 [?])",
+  "new": "(Pā. Sū. 6-3-136); (Pā. Sū. 7-1-39)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 560,
+  "printed": 540,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-112-1 [?])",
+  "new": "(Ṛ. Saṃ. 1-112-1)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 561,
+  "printed": 541,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-131-5 [?]); (Ni. 2-31 [?]); (Ni. 10-5 [?])",
+  "new": "(Ṛ. Saṃ. 1-131-5); (Ni. 7-31); (Ni. 10-4)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-31 [?]→Ni. 7-31, Ni. 10-5 [?]→Ni. 10-4."
+ },
+ {
+  "pdf": 562,
+  "printed": 542,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-2-1 [?]); (Pā. Sū. 6-1-193 [?]); (Pā. Sū. 3-3-97 [?]); (Pā. Sū. 6-1-168 [?])",
+  "new": "(Pā. Sū. 6-2-1); (Pā. Sū. 6-3-193); (Pā. Sū. 3-3-97); (Pā. Sū. 6-1-168)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Pā. Sū. 6-1-193 [?]→Pā. Sū. 6-3-193."
+ },
+ {
+  "pdf": 563,
+  "printed": 543,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-2-49 [?])",
+  "new": "(Pā. Sū. 6-2-46)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 0 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Pā. Sū. 6-2-49 [?]→Pā. Sū. 6-2-46."
+ },
+ {
+  "pdf": 565,
+  "printed": 545,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-44-2 [?]); (Ṛ. Saṃ. 1-44-8 [?])",
+  "new": "(Ṛ. Saṃ. 1-44-2); (Ṛ. Saṃ. 1-44-8)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 568,
+  "printed": 548,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-1-186 [?]); (Pā. Sū. 6-1-213 [?]); (Pā. Sū. 7-1-39 [?]); (Pā. Sū. 6-1-198 [?])",
+  "new": "(Pā. Sū. 6-1-186); (Pā. Sū. 6-1-213); (Pā. Sū. 7-1-39); (Pā. Sū. 7-1-198)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Pā. Sū. 6-1-198 [?]→Pā. Sū. 7-1-198."
+ },
+ {
+  "pdf": 570,
+  "printed": 550,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-3-136 [?]); (Pā. Sū. 6-2-144 [?]); (Pā. Sū. 6-2-1 [?]); (Pā. Sū. 3-2-105 [?]); (Pā. Sū. 3-2-106 [?]); (Pā. Sū. 6-4-77 [?]); (Pā. Sū. 6-1-163 [?])",
+  "new": "(Pā. Sū. 6-3-136); (Pā. Sū. 6-2-145); (Pā. Sū. 6-2-1); (Pā. Sū. 3-2-105); (Pā. Sū. 3-2-106); (Pā. Sū. 6-4-77); (Pā. Sū. 6-1-163)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 6 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Pā. Sū. 6-2-144 [?]→Pā. Sū. 6-2-145."
+ },
+ {
+  "pdf": 574,
+  "printed": 554,
+  "status": "resolved",
+  "old": "(Pā. Sū. 6-4-157 [?]); (Pā. Sū. 6-1-168 [?]); (Pā. Sū. 3-1-8 [?]); (Pā. Sū. 7-4-39 [?])",
+  "new": "(Pā. Sū. 6-4-157); (Pā. Sū. 6-1-167); (Pā. Sū. 3-1-8); (Pā. Sū. 7-4-39)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 3 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Pā. Sū. 6-1-168 [?]→Pā. Sū. 6-1-167."
+ },
+ {
+  "pdf": 576,
+  "printed": 556,
+  "status": "resolved",
+  "old": "(Ni. 2-25 [?]); (Ṛ. Saṃ. 1-190-4 [?])",
+  "new": "(Ni. 2-28); (Ṛ. Saṃ. 1-190-4)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-25 [?]→Ni. 2-28."
+ },
+ {
+  "pdf": 577,
+  "printed": 557,
+  "status": "resolved",
+  "old": "(Ni. 2-25 [?])",
+  "new": "(Ni. 2-28)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 0 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-25 [?]→Ni. 2-28."
+ },
+ {
+  "pdf": 578,
+  "printed": 558,
+  "status": "resolved",
+  "old": "(Pā. Sū. 7-1-50 [?]); (Pā. Sū. 3-2-74 [?]); (Pā. Sū. 8-3-53 [?])",
+  "new": "(Pā. Sū. 7-1-50); (Pā. Sū. 3-2-74); (Pā. Sū. 8-3-52)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Pā. Sū. 8-3-53 [?]→Pā. Sū. 8-3-52."
+ },
+ {
+  "pdf": 580,
+  "printed": 560,
+  "status": "resolved",
+  "old": "(Ni. 3-30 [?]); (Ṛ. Saṃ. 1-96-1 [?]); (Ṛ. Saṃ. 1-89-4 [?])",
+  "new": "(Ni. 3-31); (Ṛ. Saṃ. 1-96-1); (Ṛ. Saṃ. 1-89-4)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 2 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 3-30 [?]→Ni. 3-31."
+ },
+ {
+  "pdf": 581,
+  "printed": 561,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-114-9 [?]); (Ṛ. Saṃ. 6-50-3 [?]); (Ṛ. Saṃ. 10-44-8 [?]); (Ni. 2-5 [?]); (Ni. 2-24 [?]); (Ni. 2-5 [?])",
+  "new": "(Ṛ. Saṃ. 10-114-9); (Ṛ. Saṃ. 6-50-3); (Ṛ. Saṃ. 10-44-8); (Ni. 2-5); (Ni. 2-24); (Ni. 2-5)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 6 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 582,
+  "printed": 562,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 5-57-1 [?])",
+  "new": "(Ṛ. Saṃ. 5-57-1)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 1 reference(s) confirmed by an independent reading (list value = file value, [?] dropped)."
+ },
+ {
+  "pdf": 586,
+  "printed": 566,
+  "status": "resolved",
+  "old": "(Ni. 12-1 [?])",
+  "new": "(Ni. 12-3)",
+  "note": "Per the user-supplied numeral list (list page = printed page): 0 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 12-1 [?]→Ni. 12-3."
  }
 ]
