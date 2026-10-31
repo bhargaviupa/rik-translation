@@ -470,5 +470,13 @@
   "old": "Ni. 3-… [?]; Ṛ.Saṃ. 10-29-1 [?]; Ni. 3-20 [?]",
   "new": "Ni. 2-13 [?]; 10-29-1; Ni. 3-20",
   "note": "200dpi: quote ‘vane na vā yo nyadhāyi cākañ chucir vā …’ agrees with print; refs read (2/3 by the round-vs-hooked glyph rule; Ni. 2-13 kept [?]). Durgācārya explanation not re-read."
+ },
+ {
+  "pdf": 360,
+  "printed": 340,
+  "status": "resolved",
+  "old": "Ni. 2-… [?], 2-11 [?]; Ṛ.Saṃ. 1-61-6, 5-31-4, 1-121-12, 8-100-9 [?]",
+  "new": "Ni. 3-9; Ni. 3-11; refs without [?]",
+  "note": "190dpi: battle-names ref ೩-೯ and vajra ref ೩-೧೧ both begin with the hooked 3-glyph (the vajra ref also read 3-11 on p.332). IMPORTANT: this shows that the hooked glyph followed by ೯ in the Nirukta refs on pp.280/281/306/309 is 3-9, not 2-9 — see recheck note."
  }
 ]
