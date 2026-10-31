@@ -4126,4 +4126,264 @@ Because this deity with water makes everything cohere, that is, join together in
 
 ---
 
-**Progress note:** Done through printed p. 121 (PDF 139). Sūkta 186 Ṛk 2 OPEN: Saṃhitā (p. 117), Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (p. 118) written; Special Topics in progress (Mitra–Varuṇa–Aryaman, the Ādityas, Nirukta derivation of mitra; Ṛ. 3-59-1 explanation breaks off mid-sentence at the foot of p. 121 ('O men, …'), continues on p. 122 / PDF 140). Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed. New (pp. 110–115): p. 110 Ni. 6[?]-22 UNDECIDED (tatko vaiśvānaraḥ; first digit 6 or 7), Ni. 7-21, Ṛ. 1-59-6, Bṛ. De. 1-101 : 1-102 zoomed; p. 111 'athāsyāda' as printed, 'yānyetāny' zoomed; p. 112 'nirūpyate', 'aruṇe aupaveśau' as printed, Ni. 7-22 to 7-31, Ni. 7-21, Śa. Brā. 10-6-1-1 to 11 zoomed; p. 113 'khalu nvā', 'etaṃ rayiṃ vaiśvānara etaṃ', 'pratiṣṭhā', 'prajñayā', 'pādau tvā etau' as printed (zoomed), 'vastistvāhāsyad' (stroke = va-ottu, resolved on p. 115); p. 114 'vaiśānara' as printed, ¶ 7 opens 'atha hoc[?]' UNDECIDED, 'tasmāttvāṃ' (broken print) zoomed; p. 115 'vā'atiṣṭhā', 'hi ve', 'pṛthagannamaghastaṃ' as printed (zoomed), Kannada of ¶ 9 says antarikṣa where the Sanskrit has divam. New (pp. 116–117): p. 116 Śa. Brā. ¶ 11 closing numeral printed ‖ 10 ‖ (zoomed), 'vaiśānara', 'nāsike'upadiśan', 'chubakam' as printed, Ni. 3-15 (abhipitvam) zoomed; p. 117 Kau. 2-4-82 and Pā. 6-3-129 zoomed, Saṃhitā Ṛk 2 opens 'a no' as printed. p. 118 Pada 'susahā' as printed, bhāṣya Āś. 3-7 zoomed (flat-footed glyph; p. 95 had 3-8 — compare); p. 119 Āś. 3-7, Ṛ. 5-3-1, 5-3-2, Tai. Brā. 1-7-10-1 zoomed. p. 120 Ṛ. 2-27-1 (calibrated on header Aṣṭaka 2), 9-114-3, 10-72-8, 9 zoomed, Tai. Ā. 1-[?]3-3 UNDECIDED (broken digit), 'tanva1spari', 'devā̃', 'agṃśaśca', 'vivasvāgścetyete' as printed; p. 121 Tai. Brā. 1-1-9-1, 2, 3, Ṛ. 2-27 (sūkta), Ni. 10-21, Ṛ. 3-59-1 zoomed, 'retodhatta' (no avagraha) and 'antakṣadalli' [sic] as printed.
+### Printed p. 122  (PDF 140)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 2, continued from p. 121.)*
+
+offer oblations mixed with ghee to such a deity Mitra" — thus it describes very well Mitra's extraordinary qualities and his benefit to the world. In the Ṛgveda the sūkta devoted to Mitra is only this sūkta of 9 ṛks (Ṛ. Saṃ. 3-59); elsewhere Mitra is praised together with Varuṇa and the other deities.
+
+Because the association of Mitra and Varuṇa is very great, the sūkta having Mitra alone as its deity is, as said before, only one in the Ṛgveda (Ṛ. Saṃ. 3-59); there too the part praising that deity is not clear. But only in the first ṛk is Mitra's distinctiveness well stated. In the fifth ṛk of the same sūkta —
+
+> महाँ आदित्यो नमसोपसद्यो यातयज्जनो गृणते सुशेवः ।
+
+> *mahā~ ādityo namasopasadyo yātayajjano gṛṇate suśevaḥ |*
+
+(Ṛ. Saṃ. 3-59-5, zoomed) (Gloss, mine and tentative: "The great Āditya, to be approached with homage, who sets people in order, most kind to the praiser.")
+
+— this Mitra is called the great Āditya who brings all men together. The word यातयज्जन (*yātayajjana*), which gives this meaning, is used —
+
+> व्रतेन स्थो ध्रुवक्षेमा धर्मणा यातयज्जना ।
+
+> *vratena stho dhruvakṣemā dharmaṇā yātayajjanā |*
+
+(Ṛ. Saṃ. 5-72-2, zoomed) (Gloss, mine and tentative: "By your vow you two are of firm abode, by ordinance setting people in order.")
+
+— in this ṛk with reference to both Mitra and Varuṇa, and
+
+> मित्रस्तयोर्वरुणो यातयज्जनोऽर्यमा यातयज्जनः ।
+
+> *mitrastayorvaruṇo yātayajjano 'ryamā yātayajjanaḥ |*
+
+(Ṛ. Saṃ. 1-136-3, zoomed) (Gloss, mine and tentative: "Mitra, Varuṇa, Aryaman — each of them sets people in order.")
+
+— in this ṛk with reference to all three, Mitra, Varuṇa and Aryaman. According to the sūkta Ṛ. Saṃ. 3-59 mentioned above, Mitra is the support of heaven and earth; the five classes of men (पञ्चजनाः (*pañcajanāḥ*)) are subject to him; he is the support of life for all the other deities — such is the description of Mitra's qualities. That Savitṛ and Mitra are one, in Ṛ. Saṃ. 5-81-4; that Viṣṇu took his three steps following the ordinances of Mitra, in the Vājasaneyi Saṃhitā (Vā. Saṃ. 4-3, as printed); that Agni, established before dawn, himself produces Mitra for himself, in Ṛ. Saṃ. 10-8-4; that the kindled Agni is Mitra, in Ṛ. Saṃ. 3-5-4; that Agni when born is Varuṇa and when kindled is Mitra, in Ṛ. Saṃ. 5-3-1 (these references zoomed);
+
+> मित्रो अग्निर्भवति यत्समिद्धो मित्रो होता वरुणो जातवेदाः ।
+> मित्रो अध्वर्युरिषिरो दमूना मित्रः सिन्धूनामुत पर्वतानाम् ॥
+
+> *mitro agnirbhavati yatsamiddho mitro hotā varuṇo jātavedāḥ |*
+> *mitro adhvaryuriṣiro damūnā mitraḥ sindhūnāmuta parvatānām ‖*
+
+(Ṛ. Saṃ. 3-5-4; the closing double daṇḍa is printed broken) (Gloss, mine and tentative: "Agni becomes Mitra when he is kindled; Mitra is the Hotṛ, Varuṇa is Jātavedas; Mitra is the vigorous Adhvaryu, the house-friend; Mitra of the rivers and of the mountains.")
+
+— here there is the description of Mitra's qualities: that the well-blazing Agni is Mitra; that this Mitra himself is, in the sacrifice, the Hotṛ, the Adhvaryu, Varuṇa, and the Agni called Jātavedas; and that he is Mitra (friend, benefactor) to the rivers and to the mountains.
+
+---
+
+### Printed p. 123  (PDF 141)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 2, continued.)*
+
+वरुणः (*varuṇaḥ*) — वरुणो वृणोतीति सतः (*varuṇo vṛṇotīti sataḥ*) (Ni. 10-2, as printed, zoomed): Yāska's derivation is that this deity has the name Varuṇa because it is covered by the mass of clouds.
+
+Varuṇa is a most excellent deity, equal to Indra in power and the like. The number of mantras having Varuṇa as deity is very small. The sūktas having Varuṇa as deity are twelve in the Ṛgveda. But the sūktas praising Mitra and Varuṇa together are twenty-four.
+
+Varuṇa has a human body and human activities. But more than his physical body and activities, it is the description of his moral activities and deeds that is chiefly indicated. He has a face, eyes, arms, hands and feet; he drives a chariot, sits, eats, drinks — such is the account of his bodily activities. That the Sun is the eye of Agni, Mitra and Varuṇa is clearly stated in the ṛks
+
+> चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः ।
+
+> *citraṃ devānāmudagādanīkaṃ cakṣurmitrasya varuṇasyāgneḥ |*
+
+(Ṛ. Saṃ. 1-115-1) (Gloss, mine and tentative: "The bright face of the gods has risen, the eye of Mitra, Varuṇa, Agni.")
+
+> उदु त्यच्चक्षुर्महि मित्रयोराँ एति प्रियं वरुणयोरदब्धम् ।
+
+> *udu tyaccakṣurmahi mitrayorā~ eti priyaṃ varuṇayoradabdham |*
+
+(Ṛ. Saṃ. 6-51-1, zoomed) (Gloss, mine and tentative: "Up comes that great eye of Mitra and Varuṇa, dear, undeceivable.")
+
+> उद्वां चक्षुर्वरुण सुप्रतीकं देवयोरेति सूर्यस्ततन्वान् ।
+
+> *udvāṃ cakṣurvaruṇa supratīkaṃ devayoreti sūryastatanvān |*
+
+(Ṛ. Saṃ. 7-61-1, zoomed) (Gloss, mine and tentative: "Up rises, O Varuṇa, the fair-faced eye of you two gods, the Sun, spreading out.")
+
+> चक्षुर्मित्रस्य वरुणस्य देवश्चर्मेव यः समविव्यक् तमांसि ।
+
+> *cakṣurmitrasya varuṇasya devaścarmeva yaḥ samavivyak tamāṃsi |*
+
+(Ṛ. Saṃ. 7-63-1, zoomed) (Gloss, mine and tentative: "The god, eye of Mitra and Varuṇa, who has rolled up the darkness like a hide.")
+
+> नमो मित्रस्य वरुणस्य चक्षसे महो देवाय तदृतं सपर्यत ।
+
+> *namo mitrasya varuṇasya cakṣase maho devāya tadṛtaṃ saparyata |*
+
+(Ṛ. Saṃ. 10-37-1) (Gloss, mine and tentative: "Homage to the eye of Mitra and Varuṇa; to the great god offer this truth in worship.")
+
+Since this matter, that the Sun is like an eye to him, stands in the very first ṛk of the sūktas having Mitra and Varuṇa as deities, it appears that this is the aspect which first comes to mind whenever Mitra and Varuṇa are mentioned. Further, in the ṛk Ṛ. Saṃ. 7-66-10 Aryaman, Mitra and Varuṇa are said to be sun-eyed. That Varuṇa is far-sighted (उरुचक्षसम् (*urucakṣasam*)) is said in ṛks such as Ṛ. Saṃ. 1-25-5; 1-25-16 (zoomed).
+
+*(बर्ही (*barhī*) as printed.)*
+
+> आ नो बर्ही रिशादसो वरुणो मित्रो अर्यमा । सीदन्तु मनुषो यथा ॥
+
+> *ā no barhī riśādaso varuṇo mitro aryamā | sīdantu manuṣo yathā ‖*
+
+(Ṛ. Saṃ. 1-26-4, zoomed) (Gloss, mine and tentative: "On our sacred grass may Varuṇa, Mitra, Aryaman, destroyers of foes, sit, as at Manu's.")
+
+> व्रतेन स्थो ध्रुवक्षेमा धर्मणा यातयज्जना । नि बर्हिषि सदतं सोमपीतये ॥
+
+> *vratena stho dhruvakṣemā dharmaṇā yātayajjanā | ni barhiṣi sadataṃ somapītaye ‖*
+
+(Ṛ. Saṃ. 5-72-2, zoomed) (Gloss, mine and tentative: "By your vow you are of firm abode, by ordinance setting people in order; sit down on the sacred grass to drink the Soma.")
+
+---
+
+### Printed p. 124  (PDF 142)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 2, continued.)*
+
+— in such ṛks it is prayed that Mitra, Varuṇa and Aryaman come and sit, for the drinking of Soma, on the darbha grass spread on the sacrificial altar.
+
+*(सोमैः (*somaiḥ*) and मादयैते (*mādayaite*) as printed.)*
+
+> यदी सखाया सख्याय सोमैः सुतेभिः सुप्रयसा मादयैते ।
+
+> *yadī sakhāyā sakhyāya somaiḥ sutebhiḥ suprayasā mādayaite |*
+
+(Ṛ. Saṃ. 4-41-3) (Gloss, mine and tentative: "When the two friends gladden themselves, for friendship, with pressed Soma, with good offerings.")
+
+In such ṛks it is said that Varuṇa drinks Soma together with Indra and the other deities.
+
+> बिभ्रद्द्रापिं हिरण्ययं वरुणो वस्त निर्णिजम् । परि स्पशो नि षेदिरे ।
+
+> *bibhraddrāpiṃ hiraṇyayaṃ varuṇo vasta nirṇijam | pari spaśo ni ṣedire |*
+
+(Ṛ. Saṃ. 1-25-13, zoomed) (Gloss, mine and tentative: "Wearing a golden mantle Varuṇa has clothed himself in a shining robe; his spies have sat down around.")
+
+— in this ṛk there is the description that Varuṇa wears a golden upper covering or cloak and a shining garment. Varuṇa's chariot is golden and radiant like the Sun, and in it there are whips for urging on the horses. Mitra and Varuṇa mount their chariot in a very high region (Ṛ. Saṃ. 5-63-1, zoomed) — such descriptions exist.
+
+The dwelling of Mitra and Varuṇa is golden, and it is in the upper world. And Varuṇa, sitting in his palace —
+
+> नि षसाद धृतव्रतो वरुणः पस्त्यास्वा । साम्राज्याय सुक्रतुः ।
+> अतो विश्वान्यद्भुता चिकित्वाँ अभि पश्यति । कृतानि या च कर्त्वा ॥
+
+> *ni ṣasāda dhṛtavrato varuṇaḥ pastyāsvā | sāmrājyāya sukratuḥ |*
+> *ato viśvānyadbhutā cikitvā~ abhi paśyati | kṛtāni yā ca kartvā ‖*
+
+(Ṛ. Saṃ. 1-25-10, 11) (Gloss, mine and tentative: "Varuṇa, upholder of ordinances, has sat down in the dwellings, the wise one, for sovereignty. From there the knowing one looks upon all wonders, the things done and those to be done.")
+
+— sees all that happens in the world. The dwelling-place of Mitra and Varuṇa is very large and very high, made firm resting on a thousand pillars; and their house has a thousand doors (Ṛ. Saṃ. 7-88-5, zoomed). The all-seeing Sun, setting out from his dwelling-place, goes to the house of Mitra and Varuṇa to report the deeds of men, and enters their beloved house — such descriptions too exist.
+
+Varuṇa, alone or together with Mitra, is like the other deities called king in many places —
+
+> अबुध्ने राजा वरुणो वनस्योर्ध्वं स्तूपं ददते पूतदक्षः ।
+
+> *abudhne rājā varuṇo vanasyordhvaṃ stūpaṃ dadate pūtadakṣaḥ |*
+
+(Ṛ. Saṃ. 1-24-7, zoomed) (Gloss, mine and tentative: "In the bottomless region King Varuṇa of purified will holds up the crest of the tree.")
+
+> त्वं विश्वेषां वरुणासि राजा ये च देवा असुर ये च मर्ताः ।
+
+> *tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*
+
+(Ṛ. Saṃ. 2-27-10, zoomed) (Gloss, mine and tentative: "You, Varuṇa, are king of all, O Asura, those who are gods and those who are mortals.")
+
+> तेन विश्वस्य भुवनस्य राजा यवं न वृष्टिर्व्युनत्ति भूम ।
+
+> *tena viśvasya bhuvanasya rājā yavaṃ na vṛṣṭirvyunatti bhūma |*
+
+(Ṛ. Saṃ. 5-85-3) (Gloss, mine and tentative: "Thereby the king of the whole world moistens the earth as rain the barley.")
+
+---
+
+### Printed p. 125  (PDF 143)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 2, continued.)*
+
+In such ṛks it is said that Varuṇa is king not only of men but also of the deities and of all the worlds. Besides Varuṇa, the deities Indra, Yama, Soma and others also have the name "king", which indicates honour.
+
+The stories connected with Indra are many. But with regard to Varuṇa it is quite the opposite: there are no stories at all. Varuṇa is greatly praised as the controller of the physical and moral laws (वरुणस्य व्रतानि (*varuṇasya vratāni*)). The divine power of Mitra and Varuṇa is described by the word माया (*māyā*). When this applies to deities it means the hidden power they have to do good; in a context where it applies to Rākṣasas, the same word means the hidden power they have to do evil. In the good sense this word is fitting for Mitra and Varuṇa; in the bad sense it applies to the Rākṣasas. Like the meaning of the word *asura*, the word *māyā* too is used in both senses. By this māyā-power hidden in himself Varuṇa, standing in the atmosphere, measures the earth with the Sun as one measures with a measuring rod. He makes the Sun cross the mid-region and makes him hidden by rain-clouds. Then drops mixed with honey (sweet) fall (Ṛ. Saṃ. 5-63-4, zoomed). He makes the sky rain. Therefore this word माया (*māyā*)
+
+*(The first reference below is broken in print.)*
+
+is said, in ṛks such as Ṛ. Saṃ. 6-48-[?]4; 7-28-4; 10-99-10; 10-147-5 (zoomed), chiefly of Varuṇa among the deities.
+
+Varuṇa is the one who ordains the laws of nature. He himself established the earth and heaven. And
+
+*(संराड्विश्वेत्तानि (*saṃrāḍviśvettāni*) as printed.)*
+
+> आसीदद्विश्वा भुवनानि संराड्विश्वेत्तानि वरुणस्य व्रतानि ।
+
+> *āsīdadviśvā bhuvanāni saṃrāḍviśvettāni varuṇasya vratāni |*
+
+(Ṛ. Saṃ. 8-42-1, zoomed) (Gloss, mine and tentative: "The sovereign has sat down over all the worlds; all these are Varuṇa's ordinances.")
+
+— in this ṛk (it is said) that Varuṇa dwells in all the worlds and that his laws and the like are observed everywhere; and
+
+> तिस्रो द्यावो निहिता अंतरस्मिन् तिस्रो भूमीरुपराः षड्विधानाः ।
+
+> *tisro dyāvo nihitā aṃtarasmin tisro bhūmīruparāḥ ṣaḍvidhānāḥ |*
+
+(Ṛ. Saṃ. 7-87-5, zoomed) (Gloss, mine and tentative: "Three heavens are placed within him, three earths below, in sixfold order.")
+
+— here it is said that the three upper worlds and the three earth-worlds (the lower worlds) are under his control. Varuṇa and Mitra rule the whole world (Ṛ. Saṃ. 5-63-2, zoomed). They are the protectors of the whole world (Ṛ. Saṃ. 2-27-4, zoomed). Varuṇa is the support of heaven, earth and sky (Ṛ. Saṃ. 5-69-1, 4, as printed, zoomed). He has placed Agni in the waters, the Sun in the sky, and Soma upon the rock. He has made a broad path for the Sun. Varuṇa, Mitra and *(continues on the next page)*
+
+---
+
+### Printed p. 126  (PDF 144)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 2, continued.)*
+
+Aryaman clear the path for the Sun (Ṛ. Saṃ. 7-60-4, zoomed). In many such ṛks there is the description of Varuṇa's authority.
+
+In the Taittirīya Saṃhitā (Tai. Saṃ. 6-4-8-3, zoomed) मित्रोऽहरजनयद्वरुणो रात्रिं (*mitro 'harajanayadvaruṇo rātriṃ*) — that is, it is said that Mitra created the day and Varuṇa the night. Therefore मैत्रं वा अहः । वारुणी रात्रिः (*maitraṃ vā ahaḥ | vāruṇī rātriḥ*) — that is, it is said in many places that Mitra is the lord of the day and Varuṇa the lord of the night (Tai. Saṃ. 2-1-7-4). In one place it is said that Varuṇa divided the seasons:
+
+> वेद मासो धृतव्रतो द्वादश प्रजावतः । वेदा य उपजायते ।
+
+> *veda māso dhṛtavrato dvādaśa prajāvataḥ | vedā ya upajāyate |*
+
+(Ṛ. Saṃ. 1-25-8) (Gloss, mine and tentative: "He who upholds the ordinances knows the twelve months with their offspring; he knows the one that is born in addition.")
+
+— here (it is said) that Varuṇa knows the twelve months; and
+
+*(चादृचं (*cādṛcaṃ*) as printed.)*
+
+> वि ये दधुः शरदं मासमादहर्यज्ञमक्तुं चादृचं ।
+> अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत ॥
+
+> *vi ye dadhuḥ śaradaṃ māsamādaharyajñamaktuṃ cādṛcaṃ |*
+> *anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata ‖*
+
+(Ṛ. Saṃ. 7-66-11, zoomed) (Gloss, mine and tentative: "They who apportioned the autumn, the month, the day, the sacrifice, the night and the ṛk — Varuṇa, Mitra, Aryaman, the kings, have attained unattainable dominion.")
+
+— in this ṛk it is said that Mitra, Varuṇa and Aryaman divided the year, the months, the day and the nights.
+
+It is said in many places that he too is the one who regulates the waters. He it is who made the rivers flow; by his command they flow continually (Ṛ. Saṃ. 2-28-4, zoomed). Though the rivers swiftly bring water and pour it into the ocean, that it does not fill up is by his hidden power alone (Ṛ. Saṃ. 5-85-6, zoomed). Varuṇa and Mitra are the lords of the rivers. Although that Varuṇa is lord of the oceans is an established point, its occurrence in the Ṛgveda is very rare; probably the reason for this may be that it is not prominent. In the Purāṇas and the like Varuṇa is famous as the lord of waters. And that Varuṇa, as one of the eight guardians of the quarters, is the lord of the western quarter is a matter stated in the Purāṇas and the like; in the Ṛgveda there is no support at all for it. In general, all that is connected with Varuṇa is with the water in the atmosphere; among the deities prayed to for rain, Varuṇa and Mitra are the chief. That, when the mountains are all covered by clouds, Varuṇa pours water on heaven, earth and sky from an upturned vat (the cloud) and makes the whole earth wet, is said in the ṛks Ṛ. Saṃ. 5-85-3, 4. One whole sūkta (that is, the sūkta Ṛ. Saṃ. 5-63) indicates their power of making rain fall (zoomed). In the Yajurveda Saṃhitā (Tai. Saṃ. 5-5-4-1, zoomed) आपो वरुणस्य पत्नय आसन् (*āpo varuṇasya patnaya āsan*) — that the waters were the wives of Varuṇa — and (Tai. Saṃ. 6-4-3-2, zoomed) मित्रावरुणौ वा अपां नेतारौ (*mitrāvaruṇau vā apāṃ netārau*) — that Mitra and Varuṇa are the leaders of the waters — are also said.
+
+---
+
+### Printed p. 127  (PDF 145)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 2, continued.)*
+
+It is said again and again that Varuṇa's ordinances are firmly established. For this very reason he has the name धृतव्रत (*dhṛtavrata*) (upholder of ordinances). This epithet belongs to both Mitra and Varuṇa.
+
+> परि धामानि मर्मृशद्वरुणस्य पुरो गये विश्वे देवा अनु व्रतं नभंतामन्यके समे ॥
+
+> *pari dhāmāni marmṛśadvaruṇasya puro gaye viśve devā anu vrataṃ nabhaṃtāmanyake same ‖*
+
+(Ṛ. Saṃ. 8-41-2, zoomed) (Gloss, mine and tentative: "Touching all the abodes of Varuṇa before his house, all the gods follow his ordinance; let all the others perish.")
+
+> न वां देवा अमृता आ मिनंति व्रतानि मित्रावरुणा ध्रुवाणि ।
+
+> *na vāṃ devā amṛtā ā minaṃti vratāni mitrāvaruṇā dhruvāṇi |*
+
+(Ṛ. Saṃ. 5-69-4, zoomed) (Gloss, mine and tentative: "The immortal gods do not infringe your firm ordinances, O Mitra and Varuṇa.")
+
+In such ṛks it is said that the deities themselves keep the commands of Mitra, Varuṇa and Aryaman, and that even the beginningless deities cannot transgress their fixed ordinances. Mitra and Varuṇa are the controllers of law (ऋत (*ṛta*)) and of light. It is by the strength of these ordinances that they are able to give support to the laws. This quality is found especially in these two, sometimes in the Ādityas, or in other ordinary deities as well. The epithet that they are the ones who make truth (ऋत (*ṛta*)) and justice prosper (ऋतस्य गोपाः (*ṛtasya gopāḥ*)), that is, who keep the laws (or who cause them to be kept), is seen to be used many times of Mitra and Varuṇa.
+
+Varuṇa's power is unfathomable. Neither the flying birds nor the flowing rivers can reach the limit of the boundary of his kingdom. They cannot exceed his power; they cannot withstand his anger. Neither the sky nor the rivers have reached where the boundary of Mitra and Varuṇa ends. Everything is contained in Varuṇa alone. The dwellings of all beings, the three heavenly worlds and the three earthly worlds, are placed in him. Varuṇa is all-knowing. The flight of birds in the sky, the movement of ships on the ocean, the course of the far-going wind — all these are known to him. He sees all things, those gone by in the past and those to come in the future. He is the witness of the true and false deeds of men. The works, plans and devices that every man makes are all known to Varuṇa. He can grasp all that is in the heavenly and earthly worlds and beyond them. However far one runs away beyond the sky, no one can escape the path of Varuṇa's sight.
+
+Because he is the controller of moral law, Varuṇa becomes very angry at sin. Whether one transgresses his laws or (provokes his) anger, for both of these he ordains very cruel punishment. Varuṇa's noose (*pāśa*), which binds sinners, is mentioned in ṛks such as Ṛ. Saṃ. 1-24-15; 1-25-21; 6-74-4; 10-85-24 (zoomed). That noose binds the speaker of untruth; it lets go the speaker of truth.
+
+*(The fifth word of this line is printed with displaced vowel signs and repha; undecided, zoomed.)*
+
+> युवो राष्ट्रं बृहदिन्वति द्या[?]यौ[?] सेतृभिररज्जुभिः सिनीथः ।
+
+> *yuvo rāṣṭraṃ bṛhadinvati dyā[?]yau[?] setṛbhirarajjubhiḥ sinīthaḥ |*
+
+*(The reference is printed on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 127 (PDF 145). Sūkta 186 Ṛk 2 OPEN: Saṃhitā (p. 117) through printed English (p. 118) written; Special Topics continue (Varuṇa: waters, ordinances, omniscience, the noose); p. 127 ends with the first line of a quoted ṛk (yuvo rāṣṭraṃ …), its reference printed on p. 128 / PDF 146. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed. New (pp. 110–115): p. 110 Ni. 6[?]-22 UNDECIDED (tatko vaiśvānaraḥ; first digit 6 or 7), Ni. 7-21, Ṛ. 1-59-6, Bṛ. De. 1-101 : 1-102 zoomed; p. 111 'athāsyāda' as printed, 'yānyetāny' zoomed; p. 112 'nirūpyate', 'aruṇe aupaveśau' as printed, Ni. 7-22 to 7-31, Ni. 7-21, Śa. Brā. 10-6-1-1 to 11 zoomed; p. 113 'khalu nvā', 'etaṃ rayiṃ vaiśvānara etaṃ', 'pratiṣṭhā', 'prajñayā', 'pādau tvā etau' as printed (zoomed), 'vastistvāhāsyad' (stroke = va-ottu, resolved on p. 115); p. 114 'vaiśānara' as printed, ¶ 7 opens 'atha hoc[?]' UNDECIDED, 'tasmāttvāṃ' (broken print) zoomed; p. 115 'vā'atiṣṭhā', 'hi ve', 'pṛthagannamaghastaṃ' as printed (zoomed), Kannada of ¶ 9 says antarikṣa where the Sanskrit has divam. New (pp. 116–117): p. 116 Śa. Brā. ¶ 11 closing numeral printed ‖ 10 ‖ (zoomed), 'vaiśānara', 'nāsike'upadiśan', 'chubakam' as printed, Ni. 3-15 (abhipitvam) zoomed; p. 117 Kau. 2-4-82 and Pā. 6-3-129 zoomed, Saṃhitā Ṛk 2 opens 'a no' as printed. p. 118 Pada 'susahā' as printed, bhāṣya Āś. 3-7 zoomed (flat-footed glyph; p. 95 had 3-8 — compare); p. 119 Āś. 3-7, Ṛ. 5-3-1, 5-3-2, Tai. Brā. 1-7-10-1 zoomed. p. 120 Ṛ. 2-27-1 (calibrated on header Aṣṭaka 2), 9-114-3, 10-72-8, 9 zoomed, Tai. Ā. 1-[?]3-3 UNDECIDED (broken digit), 'tanva1spari', 'devā̃', 'agṃśaśca', 'vivasvāgścetyete' as printed; p. 121 Tai. Brā. 1-1-9-1, 2, 3, Ṛ. 2-27 (sūkta), Ni. 10-21, Ṛ. 3-59-1 zoomed, 'retodhatta' (no avagraha) and 'antakṣadalli' [sic] as printed. New (pp. 122–123): p. 122 Ṛ. 3-59-5, 5-72-2, 1-136-3 ('mitrastayor'), 5-81-4, Vā. Saṃ. 4-3 (as printed), 10-8-4, 3-5-4 zoomed; p. 123 Ni. 10-2 as printed (varuṇo vṛṇotīti sataḥ), Ṛ. 6-51-1, 7-61-1, 7-63-1, 1-25-5, 1-25-16, 1-26-4, 5-72-2 zoomed, 'barhī' as printed (Ṛ. 1-26-4). New (pp. 124–125): p. 124 Ṛ. 5-63-1, 7-88-5, 1-25-13, 1-24-7, 2-27-10 zoomed (4-41-3, 5-85-3 read unzoomed), 'somaiḥ', 'mādayaite' as printed; p. 125 Ṛ. 6-48-[?]4 UNDECIDED (broken digit), 5-63-4, 7-28-4, 10-99-10, 10-147-5, 8-42-1, 7-87-5, 5-63-2, 2-27-4, 5-69-1, 4 zoomed, 'saṃrāḍviśvettāni' as printed. New (pp. 126–127): p. 126 Ṛ. 7-60-4, Tai. Saṃ. 6-4-8-3, Ṛ. 7-66-11, 2-28-4, 5-85-6, 5-85-3, 4, sūkta 5-63, Tai. Saṃ. 5-5-4-1, 6-4-3-2 zoomed (Tai. Saṃ. 2-1-7-4 and Ṛ. 1-25-8 read unzoomed, zooms missed), 'cādṛcaṃ' as printed; p. 127 Ṛ. 8-41-2, 5-69-4, 1-24-15, 1-25-21, 6-74-4, 10-85-24 zoomed, the 'yuvo rāṣṭraṃ' line: 'dyā[?]yau[?]' UNDECIDED (displaced vowel signs).

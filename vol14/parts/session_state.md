@@ -22,3 +22,5 @@ Batch 9: done through printed p. 109 (PDF 127). Sūkta 186 Ṛk 1 OPEN: Special 
 Batch 10: done through printed p. 115 (PDF 133). Sūkta 186 Ṛk 1 OPEN: Special Topics in Śa. Brā. 10-6-1 story (Aśvapati Kaikeya, six seekers); ¶10 "tān hovāca ete vai yūyaṃ…" printed at foot of p. 115, its Kannada explanation continues p. 116 (PDF 134). [?]: p.110 Ni. 6[?]-22; p.114 "atha hoc[?]".
 
 Batch 11: done through printed p. 121 (PDF 139). Sūkta 186 Ṛk 1 closed; Ṛk 2 OPEN: Special Topics (Mitra/Varuṇa/Aryaman, Ādityas, Yāska's mitra) stop mid-sentence at foot of p. 121 ("O men, …"). Next: PDF 140 = printed p. 122. [?]: p.120 Tai.Ā. 1-[?]3-3. Compare Āś. 3-7 (pp.118–119) vs 3-8 (p.95).
+
+Batch 12: done through printed p. 127 (PDF 145). Sūkta 186 Ṛk 2 OPEN: Special Topics on Mitra/Varuṇa; p. 127 ends with first line of quoted ṛk "yuvo rāṣṭraṃ bṛhadinvati …" whose reference is printed on p. 128 (PDF 146). Next: PDF 146 = printed p. 128. [?]: p.125 Ṛ. 6-48-[?]4; p.127 "dyā[?]yau[?]". Unzoomed refs: Ṛ.10-37-1 (p.123), 4-41-3, 5-85-3 (p.124), Tai.Saṃ. 2-1-7-4, Ṛ.1-25-8 (p.126). doubts_v14.json entry for p.127 word wrongly names "Ṛ. 7-84-2" (not yet printed there).
