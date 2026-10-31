@@ -8809,7 +8809,7 @@
  },
  {
   "pdf": 224,
-  "printed": 206,
+  "printed": 205,
   "crop": [
    0.324,
    0.362,
@@ -8821,7 +8821,7 @@
  },
  {
   "pdf": 224,
-  "printed": 206,
+  "printed": 205,
   "crop": [
    0.405,
    0.443,
@@ -8833,7 +8833,7 @@
  },
  {
   "pdf": 224,
-  "printed": 206,
+  "printed": 205,
   "crop": [
    0.467,
    0.509,
@@ -8845,7 +8845,7 @@
  },
  {
   "pdf": 225,
-  "printed": 207,
+  "printed": 206,
   "crop": [
    0.273,
    0.306,
@@ -8857,7 +8857,7 @@
  },
  {
   "pdf": 225,
-  "printed": 207,
+  "printed": 206,
   "crop": [
    0.778,
    0.806,
@@ -8869,7 +8869,7 @@
  },
  {
   "pdf": 225,
-  "printed": 207,
+  "printed": 206,
   "crop": [
    0.785,
    0.816,
@@ -8877,6 +8877,690 @@
    0.49
   ],
   "note": "ZOOMED, read: 5-43-4 (first glyph 5 with a stray mark after it)",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.178,
+   0.195,
+   0.167,
+   0.316
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 7",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.218,
+   0.237,
+   0.167,
+   0.5
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-34-1; Vā. Saṃ. 3-61; Ni. 9-8 (second try; first boxes a line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.238,
+   0.258,
+   0.466,
+   0.794
+  ],
+  "note": "ZOOMED, read: Śaryaṇāvat refs Ṛ. Saṃ. 8-7-29, 8-64-11, 9-65-22",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.259,
+   0.279,
+   0.333,
+   0.794
+  ],
+  "note": "ZOOMED, read: Ārjīka refs Ṛ. Saṃ. 8-7-29, 8-64-11",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.281,
+   0.301,
+   0.167,
+   0.5
+  ],
+  "note": "ZOOMED, read: Paśtya (printed ಪಸ್ತ್ಯ) ref Ṛ. Saṃ. 9-65-23",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.302,
+   0.322,
+   0.167,
+   0.5
+  ],
+  "note": "ZOOMED, read: pañcajana refs Ṛ. Saṃ. 9-65-23, 9-92-3",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.323,
+   0.343,
+   0.167,
+   0.416
+  ],
+  "note": "ZOOMED, read: Suṣoma refs Ṛ. Saṃ. 8-7-29, 8-64-11",
+  "answer": ""
+ },
+ {
+  "pdf": 226,
+  "printed": 207,
+  "crop": [
+   0.408,
+   0.428,
+   0.45,
+   0.794
+  ],
+  "note": "ZOOMED, read: soaking refs Ṛ. Saṃ. 9-63-4, 9-74-9, 9-79-4",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.187,
+   0.207,
+   0.454,
+   0.824
+  ],
+  "note": "ZOOMED, read: aṃśa refs Ṛ. Saṃ. 1-168-3; 3-48-2",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.22,
+   0.239,
+   0.193,
+   0.689
+  ],
+  "note": "ZOOMED, read: vakṣaṇā ref Ṛ. Saṃ. 8-1-17",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.206,
+   0.224,
+   0.672,
+   0.824
+  ],
+  "note": "ZOOMED, read: vāṇī ref Ṛ. Saṃ. 4-28-9 (1000 dpi; round glyph = 2)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.237,
+   0.255,
+   0.375,
+   0.59
+  ],
+  "note": "ZOOMED, read: 9-50-1 and andhaḥ refs Ṛ. Saṃ. 1-28-7; 3-48-1; 4-16-1 (1000 dpi; flat-footed glyph = 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.251,
+   0.271,
+   0.193,
+   0.434
+  ],
+  "note": "ZOOMED, read: parvan ref Ṛ. Saṃ. 1-9-1",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.355,
+   0.374,
+   0.54,
+   0.771
+  ],
+  "note": "ZOOMED, read: grāvā refs Ṛ. Saṃ. 1-83-6; 1-135-7 (three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.38,
+   0.397,
+   0.292,
+   0.54
+  ],
+  "note": "ZOOMED, read: adri refs Ṛ. Saṃ. 1-130-2; 1-135-5; 1-137-1 (first 1 of 137 broken in print)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.516,
+   0.539,
+   0.523,
+   0.824
+  ],
+  "note": "ZOOMED, read: camū refs Ṛ. Saṃ. 1-28-9; 4-18-3 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.536,
+   0.557,
+   0.176,
+   0.309
+  ],
+  "note": "UNDECIDED: third camū ref printed '6-5 7' (gap, no hyphen; last glyph flat-footed, read 7) — kept with [?] (1000 dpi)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.593,
+   0.617,
+   0.193,
+   0.507
+  ],
+  "note": "ZOOMED, read: tvac refs Ṛ. Saṃ. 10-94-9; 10-116-4",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.593,
+   0.617,
+   0.49,
+   0.824
+  ],
+  "note": "ZOOMED, read: kośa ref Ṛ. Saṃ. 7-101-4",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.609,
+   0.632,
+   0.193,
+   0.507
+  ],
+  "note": "ZOOMED, read: kośa ref 8-20-8; sadhastha 3-62-15",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.609,
+   0.632,
+   0.49,
+   0.824
+  ],
+  "note": "ZOOMED, read: sadhastha 9-1-2; 9-17-8; dru 9-1-2; 9-65-6",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.637,
+   0.659,
+   0.176,
+   0.441
+  ],
+  "note": "ZOOMED, read: dru 9-98-2; vana 2-14-9",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.637,
+   0.659,
+   0.54,
+   0.824
+  ],
+  "note": "ZOOMED, read: vana 9-66-9; droṇa 9-15-7; 9-33-2",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.654,
+   0.676,
+   0.474,
+   0.705
+  ],
+  "note": "ZOOMED, read: sruva (ladle) ref Ṛ. Saṃ. 1-116-24 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.734,
+   0.755,
+   0.193,
+   0.507
+  ],
+  "note": "ZOOMED, read: śukra refs Ṛ. Saṃ. 1-137-1 : 3-32-2 ; 8-2-10 (colon as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 227,
+  "printed": 208,
+  "crop": [
+   0.734,
+   0.755,
+   0.49,
+   0.824
+  ],
+  "note": "ZOOMED, read: śuci refs Ṛ. Saṃ. 1-5-5; 1-30-2; 8-2-9",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.134,
+   0.149,
+   0.165,
+   0.314
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 7",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.172,
+   0.19,
+   0.165,
+   0.481
+  ],
+  "note": "ZOOMED, read: babhru ref Ṛ. Saṃ. 9-33-2",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.172,
+   0.19,
+   0.464,
+   0.793
+  ],
+  "note": "ZOOMED, read: 9-63-4 & 6; harita 9-3-9 : 9-7-6",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.187,
+   0.204,
+   0.165,
+   0.481
+  ],
+  "note": "ZOOMED, read: 9-65-8; aruṇa 9-40-2; 9-45-3",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.187,
+   0.204,
+   0.464,
+   0.793
+  ],
+  "note": "ZOOMED, read: aruṣa 9-61-21",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.201,
+   0.218,
+   0.165,
+   0.481
+  ],
+  "note": "ZOOMED, read: śoṇa 9-97-13",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.224,
+   0.242,
+   0.165,
+   0.481
+  ],
+  "note": "ZOOMED, read: fragrance refs 9-97-9, 9-107-2 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.618,
+   0.636,
+   0.598,
+   0.793
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-137-2",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.652,
+   0.669,
+   0.531,
+   0.793
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-51-7",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.683,
+   0.702,
+   0.514,
+   0.793
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-32-4 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.723,
+   0.741,
+   0.498,
+   0.793
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 9-22-3",
+  "answer": ""
+ },
+ {
+  "pdf": 228,
+  "printed": 209,
+  "crop": [
+   0.762,
+   0.78,
+   0.531,
+   0.793
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 9-63-15",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.23,
+   0.257,
+   0.62,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 9-101-12 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.328,
+   0.364,
+   0.571,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-23-1 (third try)",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.392,
+   0.428,
+   0.62,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-30-2 (third try)",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.563,
+   0.581,
+   0.636,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-137-1",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.647,
+   0.667,
+   0.265,
+   0.824
+  ],
+  "note": "ZOOMED, read: verse 'śucirasi purniḥṣṭhāḥ kṣīrairmadhyataḥ āśīrtaḥ | dadhnā maṃdiṣṭhaḥ śūrasya' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.666,
+   0.682,
+   0.668,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-2-9",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.759,
+   0.777,
+   0.265,
+   0.539
+  ],
+  "note": "ZOOMED, read: item label (5)",
+  "answer": ""
+ },
+ {
+  "pdf": 229,
+  "printed": 210,
+  "crop": [
+   0.773,
+   0.796,
+   0.636,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-52-10 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.19,
+   0.206,
+   0.192,
+   0.34
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 7",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.241,
+   0.269,
+   0.602,
+   0.809
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-101-10",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.306,
+   0.334,
+   0.471,
+   0.684
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-187-9 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.329,
+   0.357,
+   0.569,
+   0.809
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-42-7",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.394,
+   0.422,
+   0.422,
+   0.618
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-92-4 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.436,
+   0.468,
+   0.569,
+   0.809
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-22-1",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.478,
+   0.506,
+   0.503,
+   0.809
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-27-5",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.56,
+   0.583,
+   0.602,
+   0.809
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-48-1",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.664,
+   0.683,
+   0.29,
+   0.618
+  ],
+  "note": "ZOOMED, read: U. Sū. 1-52 (aśerṇit)",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.685,
+   0.706,
+   0.29,
+   0.618
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 7-2-116 (ata upadhāyāḥ; second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 211,
+  "crop": [
+   0.754,
+   0.773,
+   0.553,
+   0.809
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-1-186",
   "answer": ""
  }
 ]
