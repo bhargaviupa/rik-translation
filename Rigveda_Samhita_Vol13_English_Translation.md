@@ -9620,10 +9620,10 @@ The qualities of the Soma juice are described: ***matsaraḥ*** — the means of
 **Pada-pāṭha**
 
 > आ । नः । ते । गन्तु । मत्सरः । वृषा । मदः । वरेण्यः ।
-> सहस्वान् [?] । इन्द्र । सानसिः । पृतनाषाट् । अमर्त्यः ॥ २ ॥
+> सहऽवान् । इन्द्र । सानसिः । पृतनाषाट् । अमर्त्यः ॥ २ ॥
 
 > *ā | naḥ | te | gantu | matsaraḥ | vṛṣā | madaḥ | vareṇyaḥ |*
-> *sahasvān [?] | indra | sānasiḥ | pṛtanāṣāṭ | amartyaḥ ‖ 2 ‖*
+> *saha-vān | indra | sānasiḥ | pṛtanāṣāṭ | amartyaḥ ‖ 2 ‖*
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
 

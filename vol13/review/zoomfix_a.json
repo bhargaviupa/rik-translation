@@ -718,5 +718,13 @@
   "old": "grammar numerals: Pā. 8-4-55 [?] (khari ca), 3-3-132, 3-3-67, 3-2-67 [?]; Uṇ. 3-… [?], 1-… [?]",
   "new": "khari ca: no number printed; 3-3-132, 3-3-67, 3-2-67 without [?]; Uṇ. 3-353 [?], Uṇ. 1-2 [?]",
   "note": "190dpi full-column view: sutra numbers legible except the Uṇ. ones (kept [?]); the ‘āto yuk ciṇkṛtoḥ’ (7-3-33) and ‘ciṇo luk’ (6-4-104) lines are not in this file's entry for the page (‘apāyi’ line) and were left."
+ },
+ {
+  "pdf": 389,
+  "printed": 369,
+  "status": "resolved",
+  "old": "Pada: सहस्वान् [?] / sahasvān [?]",
+  "new": "सहऽवान् / saha-vān",
+  "note": "230dpi: Pada prints ಸಹ್ಯ್ವಾನ್ — the small subscript is this Pada's compound-division mark (cf. ಅರ್ಕ್ಯ್ಸಾತೌ = arka-sātau), so the word is saha-vān, matching Saṃhitā sahāvān; no ‘sahsvān’/‘sahasvān’."
  }
 ]
