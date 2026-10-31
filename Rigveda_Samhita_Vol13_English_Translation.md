@@ -9257,11 +9257,11 @@ You, Indra, are the terrifier (of your foes); you have made the trembling waters
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***dhuniḥ — kaṃpayitā*** — Indra is described as one who makes his enemies tremble. The word *dhuni*, formed from the root *dhūñ kaṃpane* ("to shake"), is explained as "*dhunoti iti dhuniḥ*" (Ni. 5-12 [?]). The word *dhunayaḥ* is read among the names of rivers (Ni. 1-24 [?]).
+***dhuniḥ — kaṃpayitā*** — Indra is described as one who makes his enemies tremble. The word *dhuni*, formed from the root *dhūñ kaṃpane* ("to shake"), is explained as "*dhunoti iti dhuniḥ*" (Ni. 5-12). The word *dhunayaḥ* is read among the names of rivers (Ni. 3-24).
 
 ***dhunimatīḥ apaḥ ṛṇoḥ — kaṃpanoper etaraṃgavatīḥ | athavā jalapratirodhakārī asuraḥ sa eva pratibandhakatayā yāsāṃ tādṛśīḥ apaḥ bhūmāvapātayaḥ*** — when waters flow, because of the agitation that arises in them, they are called *dhunimatyaḥ* (those with waves) — described as "possessed of waves, ripples". Or, the *asura* who obstructs the flowing of the waters is called *dhuni*; the waters that have as their obstacle the *asura* called *Dhuni*, who hinders the stream, are described as *dhunimatyaḥ*. The meaning is given that Indra, by destroying the obstructing state existing in such waters, caused the waters to flow on the earth.
 
-***sravantīḥ sīrā na — saraṇavatīr nadīr iva | tadvat*** — *sravantyaḥ* is read among the names of rivers (Ni. 1-… [?]). The word *na* is used here as a particle of comparison, said by way of simile: as the waters flow, uniting and running together like rivers, so they flow.
+***sravantīḥ sīrā na — saraṇavatīr nadīr iva | tadvat saṃgatāḥ*** — *sravantyaḥ* is read among the names of rivers (Ni. 3-24). The word *na* is used here as a particle of comparison, said by way of simile: as the waters flow, uniting and running together like rivers, so they flow.
 
 Addressing Indra with the word *śūra*, "*yat samudram atiparṣi turvaśaṃ yadum svasti pāraya*" — "*yadā samudram atikramya udakena pūrayasi tadānīṃ turvaśaṃ yadum ubhāv api rājarṣī saṃpūrṇajalavarṣaṇena avināśam apālayaḥ*": the meaning is explained that when Indra fills the ocean with water, as a river fills up and overflows, he makes the two royal sages Turvaśa and Yadu glad by abundant rain and protects them from harm. Sāyaṇa quotes in support the same sense from the mantra:
 
@@ -9269,7 +9269,7 @@ Addressing Indra with the word *śūra*, "*yat samudram atiparṣi turvaśaṃ y
 
 > *tvam apo yadave turvaśāyāramayaḥ sudughāḥ pāra indra |* [as read: [?]]
 
-(Ṛ. Saṃ. 5-31-8 [?]).
+(Ṛ. Saṃ. 5-31-8).
 
 Yāska has explained the meaning of the word *svasti*, with a mantra example:
 
