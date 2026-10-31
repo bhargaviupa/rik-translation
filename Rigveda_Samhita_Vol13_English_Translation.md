@@ -9722,9 +9722,9 @@ From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyav�
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
 
-> हे इन्द्र त्वं खलु शूरः शौर्योपेतः सनिता दातासि । अतो मनुषो मानुष्यस्य मे रथं रंहणं स्पन्दनं मनोरथं वा स्वर्गगमनसाधनं यज्ञाख्यं रथं वा चोदयः । प्रेरय । किंच त्वं सहावान् सोमसहायवान् बलवान्वा भूत्वा दस्युमुपक्षपयितारमव्रतमकर्माणमनुष्ठायिनमोषः । दह । किमिव । शोचिषा दीप्त्या ज्वालयाग्निः पात्रं न स्वाधारं पात्रविशेषमिव । योगाधिकारी सन् योनि न यजते तं दहेत्यर्थः ॥ [?]
+> हे इन्द्र त्वं खलु शूरः शौर्योपेतः सनिता दातासि । अतो मनुषो मानुष्यस्य मे रथं रंहणं स्पन्दनं मनोरथं वा स्वर्गगमनसाधनं यज्ञाख्यं रथं वा चोदयः । प्रेरय । किंच त्वं सहावान् सोमसहायवान् बलवान्वा भूत्वा दस्युमुपक्षपयितारमव्रतमकर्माणमननुष्ठायिनमोषः । दह । किमिव । शोचिषा दीप्त्या ज्वालयाग्निः पात्रं न स्वाधारं पात्रविशेषमिव । योगाधिकारी सन् यो न यजते तं दहेत्यर्थः ॥ [?]
 
-> *he indra tvaṃ khalu śūraḥ śauryopetaḥ sanitā dātāsi | ato manuṣo mānuṣyasya me rathaṃ raṃhaṇaṃ spandanaṃ manoratham vā svargagamanasādhanaṃ yajñākhyaṃ rathaṃ vā codayaḥ | preraya | kiṃca tvaṃ sahāvān somasahāyavān balavān vā bhūtvā dasyum upakṣapayitāram avratam akarmāṇam anuṣṭhāyinam oṣaḥ | daha | kim iva | śociṣā dīptyā jvālayāgniḥ pātraṃ na svādhāraṃ pātraviśeṣam iva | yogādhikārī san yoni na yajate taṃ dahety arthaḥ ‖* [?]
+> *he indra tvaṃ khalu śūraḥ śauryopetaḥ sanitā dātāsi | ato manuṣo mānuṣyasya me rathaṃ raṃhaṇaṃ spandanaṃ manoratham vā svargagamanasādhanaṃ yajñākhyaṃ rathaṃ vā codayaḥ | preraya | kiṃca tvaṃ sahāvān somasahāyavān balavān vā bhūtvā dasyum upakṣapayitāram avratam akarmāṇam ananuṣṭhāyinam oṣaḥ | daha | kim iva | śociṣā dīptyā jvālayāgniḥ pātraṃ na svādhāraṃ pātraviśeṣam iva | yogādhikārī san yo na yajate taṃ dahety arthaḥ ‖* [?]
 
 *Gist:* O Indra, you are a hero and a giver; urge on the chariot of the man who sacrifices (the sacrificial "chariot" that carries him to heaven); and, strong and companioned by Soma, burn up the *dasyu*, the rite-less one, by your blaze, as fire burns a vessel.
 
