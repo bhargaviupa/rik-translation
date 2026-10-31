@@ -27,3 +27,10 @@ An agent cannot drop old images from its own context, and the translation file a
 
 ## Hygiene
 One branch (`claude/vol14`); never force-push or reset; merge to main only when the user says; no PRs. Git/LFS: if `git checkout -b … origin/main` fails with "should have been a pointer": `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull`. Kill background jobs by PID, never `pkill -f`; no sleep-polling.
+
+## Change of direction (Oct 31 2026, user decision): Sonnet translators + supplied numeral files
+- Translators are now **Sonnet** (cost). The dispatcher starts each 6-page batch with `model: sonnet`.
+- **Numerals come from files supplied by the user** (one per page or page range, placed in `vol14/numerals/`; format to be recorded in `vol14/numerals/README.md` when the first files arrive). Translators take all reference/sūtra/header/Ṛk/Varga numbers from them, do **no zooming for numerals and no digit analysis**, and do not log numeral zooms in `doubts_v14.json`. A numeral the file marks unreadable → `[?]`. Missing file for a page → STOP and report (never read numerals by eye).
+- Zooming remains allowed for doubtful **letters/words** only (use ink-profile line location and tall generous boxes; the zoom tool misaims).
+- Pages already translated (through printed p. 313) keep their Opus-era numeral readings; the numeral files can later be used to check/correct them.
+- Quality watch: Sonnet drafts need a spot check after the first batches (IAST markers ⟦⟧ used, every Devanagari block has IAST, one progress note, no repeated text).
