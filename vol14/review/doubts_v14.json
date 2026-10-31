@@ -1966,5 +1966,53 @@
   ],
   "note": "ZOOMED, read: 'samapatatte' as printed (Ai. Brā. passage)",
   "answer": ""
+ },
+ {
+  "pdf": 92,
+  "printed": 74,
+  "crop": [
+   0.299,
+   0.318,
+   0.489,
+   0.821
+  ],
+  "note": "ZOOMED, read: āne muk (Pā. Sū. 7-2-82)",
+  "answer": ""
+ },
+ {
+  "pdf": 92,
+  "printed": 74,
+  "crop": [
+   0.413,
+   0.454,
+   0.288,
+   0.821
+  ],
+  "note": "ZOOMED, read: upasargaprādurbhyām (Pā. Sū. 8-3-87)",
+  "answer": ""
+ },
+ {
+  "pdf": 92,
+  "printed": 74,
+  "crop": [
+   0.466,
+   0.498,
+   0.187,
+   0.556
+  ],
+  "note": "ZOOMED, read: bahuvrīhau prakṛtyā pūrvapadam (Pā. Sū. 6-2-1)",
+  "answer": ""
+ },
+ {
+  "pdf": 92,
+  "printed": 74,
+  "crop": [
+   0.216,
+   0.24,
+   0.288,
+   0.821
+  ],
+  "note": "ZOOMED, read: 1-185-6 (Special Topics cross-reference)",
+  "answer": ""
  }
 ]
