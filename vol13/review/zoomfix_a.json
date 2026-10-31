@@ -398,5 +398,13 @@
   "old": "ज्योतिराचित्रः; सवायँ एवा; Ṛ.Saṃ. 1-113-1 [?]",
   "new": "ज्योतिरागाच्चित्रः; सवाय एवा; 1-113-1",
   "note": "190dpi: print ಜ್ಯೋತಿರಾಗಾಚ್ಚಿತ್ರಃ … ಸವಾಯ ಏವಾ; ref ೧-೧೧೩-೧. Not resolved: Ni. 3-4 [?] (print ನಿ.೩?-೧೩? / ೨-೧೨? — the first and last digit are the same looped glyph, can't tell 2 or 3); kept [?]."
+ },
+ {
+  "pdf": 351,
+  "printed": 331,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-164-32, 1-65-2, 5-21-4, 1-66-3, 1-144-4, 1-140-1 [?]; Ni. 2-8 [?]; Ni. 1-12 [?]",
+  "new": "refs without [?]; Ni. 2-24 (as printed) [?]",
+  "note": "190dpi whole page + 650dpi zoom on the Nirukta ref after the 'water names' (reads ೨-೨೪, not 1-12). Quotes agree with the file at 190dpi."
  }
 ]

@@ -8537,7 +8537,7 @@ In this ṛk the word *yoni* is explained as used in the sense of "place"; and �
 
 > *ya īṃ cakāra na so asya veda ya īṃ dadarśa hirug in nu tasmāt | sa mātur yonā parivīto antar bahuprajā nirṛtim ā viveśa ‖*
 
-(Ṛ. Saṃ. 1-164-32 [?]).
+(Ṛ. Saṃ. 1-164-32).
 
 Here Yāska has written:
 
@@ -8545,39 +8545,39 @@ Here Yāska has written:
 
 > *yonir antarikṣaṃ mahān avayavaḥ parivīto vāyunā | ayam apītaro yonir etasmād eva pariyuto bhavati |* [as read: [?]]
 
-(Ni. 2-8 [?]). As the embryo arises in the womb through the wind, so the atmosphere, pervaded by the wind and filled with water-laden clouds, is referred to here by the word *yoni*: so the meaning is given.
+(Ni. 2-8). As the embryo arises in the womb through the wind, so the atmosphere, pervaded by the wind and filled with water-laden clouds, is referred to here by the word *yoni*: so the meaning is given.
 
-The word *yoni* is used in the senses cause, place of origin, dwelling-place; and the Nirukta-writers have read this word also among the names of water: *aṇaḥ*, *kṣodaḥ*, and so on (Ni. 1-12 [?]).
+The word *yoni* is used in the senses cause, place of origin, dwelling-place; and the Nirukta-writers have read this word also among the names of water: *aṇaḥ*, *kṣodaḥ*, and so on (Ni. 2-24, as printed [?]).
 
 > ऋतस्य देवा अनु व्रता गुर्भुवत्परिष्टिर्द्यौर्न भूम । वर्धन्तीमापः पन्वा सुशिश्विमृतस्य योना गर्भे सुजातम् ॥
 
 > *ṛtasya devā anu vratā gur bhuvat pariṣṭir dyaur na bhūma | vardhantīm āpaḥ panvā suśiśvim ṛtasya yonā garbhe sujātam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-65-2 [?]) — in this ṛk, "in the water that is the cause of sacrifice or of food", i.e. in the water that is the cause of the sacrifice and of grain;
+(Ṛ. Saṃ. 1-65-2) — in this ṛk, "in the water that is the cause of sacrifice or of food", i.e. in the water that is the cause of the sacrifice and of grain;
 
 > देवं वो देवयज्ययाग्निमीळीत मर्त्यः । समिद्धः शुक्र दीदिह्यृतस्य योनिमासदः ससस्य योनिमासदः ॥
 
 > *devaṃ vo devayajyayāgnim īḷīta martyaḥ | samiddhaḥ śukra dīdihy ṛtasya yonim āsadaḥ sasasya yonim āsadaḥ ‖*
 
-(Ṛ. Saṃ. 5-21-4 [?]) — in this ṛk, *yoniṃ kāraṇaṃ svargasādhanaṃ*: "cause, the means of heaven", the means that cooperates in reaching heaven;
+(Ṛ. Saṃ. 5-21-4) — in this ṛk, *yoniṃ kāraṇaṃ svargasādhanaṃ*: "cause, the means of heaven", the means that cooperates in reaching heaven;
 
 > दुरोकशोचिः क्रतुर्न नित्यो जायेव योनावरं विश्वस्मै । चित्रो यदभ्राट् छ्वेतो न विष्टु रथो न रुक्मी त्वेषः समत्सु ॥
 
 > *durokaśociḥ kratur na nityo jāyeva yonāv araṃ viśvasmai | citro yad abhrāṭ chveto na viṣṭu ratho na rukmī tveṣaḥ samatsu ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-66-3 [?]) — "house"; and
+(Ṛ. Saṃ. 1-66-3) — "house"; and
 
 > युवाभिमां त्वा सवयसा सपर्यतः समाने योना मिथुना सनोकसा । दिवा न नक्तं पलितो युवाजनि पुरू चरन्नजरो मानुषा युगा ॥
 
 > *yuvābhimāṃ tvā savayasā saparyataḥ samāne yonā mithunā sanokasā | divā na naktaṃ palito yuvājani purū carann ajaro mānuṣā yugā ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-144-4 [?]) — "the place of origin of the fruit": and so,
+(Ṛ. Saṃ. 1-144-4) — "the place of origin of the fruit": and so,
 
 > वेदिषदे प्रियधामाय सुद्युते धासिमिव प्र भरा योनिमग्नये । वस्त्रेणेव वासया मन्मना शुचिं ज्योतीरथं शुक्रवर्णं तमोहनम् ॥
 
 > *vediṣade priyadhāmāya sudyute dhāsim iva pra bharā yonim agnaye | vastreṇeva vāsayā manmanā śuciṃ jyotīrathaṃ śukravarṇaṃ tamohanam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-140-1 [?]).
+(Ṛ. Saṃ. 1-140-1).
 
 ### Printed p. 332  (PDF 352)
 
