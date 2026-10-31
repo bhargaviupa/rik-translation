@@ -971,4 +971,91 @@ In such ṛks it is made known that the Aśvin deities are invoked both at the t
 
 ---
 
-**Progress note:** Done through printed p. 29 (PDF 47). Sūkta 184 Ṛk 3 OPEN: Special Topics continuing (Sūryā note: Maryla Falk quotation, Aśvin ṛks; paragraph ends 'At such times,'); continue on printed p. 30 (PDF 48). Flags p. 26: Bṛhadde. 2[?]. 8–10, अमुतोऽर्वाङ् [?]; p. 27 स्यैव as printed. Earlier flags: see vol14/review/doubts_v14.json.
+### Printed p. 30  (PDF 48)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)*
+
+> ईर्मान्यद्वपुषे वपुश्चक्रं रथस्य येमथुः ।
+> पर्यन्या नाहुषा युगा मह्ना रजांसि दीयथः ॥
+
+> *īrmānyadvapuṣe vapuścakraṃ rathasya yemathuḥ |*
+> *paryanyā nāhuṣā yugā mahnā rajāṃsi dīyathaḥ ‖*
+
+(Ṛ-Saṃ-5-73-3) (Gloss, mine and tentative: "One wondrous wheel of your chariot you held fast for beauty; around the other [spheres], the generations of men, you fly by your greatness through the regions.")
+
+By such mantras the third wheel of the chariot of the Aśvin deities, and its light, are described. That Sūryā joins the Aśvin deities who have such a chariot-wheel is praised in such places as
+
+> आ यद्वां सूर्या रथं तिष्ठद्रघुष्यदं सदा ।
+
+> *ā yadvāṃ sūryā rathaṃ tiṣṭhadraghuṣyadaṃ sadā |*
+
+(Ṛ-Saṃ-5-73-5) (Gloss, mine and tentative: "When Sūryā mounted your swift-running chariot, ever …"). And in this same mantra, with the sentence परि वामरुषा वयो घृणावरन्त आतपः (*pari vāmaruṣā vayo ghṛṇāvaranta ātapaḥ*), it is praised that as soon as Sūryā mounted the chariot of the Aśvin deities their chariot was filled with the golden radiance of the Sun. That is, the meaning is that the Sun's radiance made their chariot-wheel hidden.
+
+Among the opinions of the scholar called Maryla Falk quoted above, some are both critical and explanations in keeping with tradition. But some other explanations of that writer are merely imagined. In what way they are contrary to tradition will be made known clearly later, when the Sūryā-sūkta is explained. In the present place, after noticing one or two contradictory points regarding Sūryā's marriage that appear to a gross view, it must next be noticed who the other deities are that are described as identified with Sūryā, and what their nature is. And what kind of harmony there is among these contradictory points that appear to a gross view will be made known later.
+
+> अपागूहन्नमृतां मर्त्येभ्यः कृत्वी सवर्णामददुर्विवस्वते ।
+> उताश्विनावभरद्यत्तदासीदजहादु द्वा मिथुना सरण्यूः ॥
+
+> *apāgūhannamṛtāṃ martyebhyaḥ kṛtvī savarṇāmadadurvivasvate |*
+> *utāśvināvabharadyattadāsīdajahādu dvā mithunā saraṇyūḥ ‖*
+
+(Ṛ-Saṃ-10-17-2) (Gloss, mine and tentative: "They hid the immortal one from mortals; making one of like appearance they gave her to Vivasvat; and she bore the Aśvins when that happened; Saraṇyū left behind the two pairs.")
+
+— in this ṛk there is the description that the gods gave Saraṇyū to Vivasvān in marriage, and that she, in the form of a mare, bore the Aśvin deities. That is, from this it is understood that the Aśvin deities are sons of Vivasvān. But, quoted above,
+
+> सावित्री चैव सूर्या च स्यैवपत्नी विशेषतः ।
+
+> *sāvitrī caiva sūryā ca syaivapatnī viśeṣataḥ |*
+
+(Bṛ. De. 7-119; here printed स्यैवपत्नी विशेषतः, where p. 27 has स्यैव पत्नी विवस्वतः.) ("Sāvitrī and Sūryā [are] … wife, in particular.") — from this sentence of the Bṛhaddevatā it is understood that Sūryā is the wife of Vivasvān. What then is meant by saying that the Aśvin deities chose her herself? Likewise, *(continues on the next page)*
+### Printed p. 31  (PDF 49)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)*
+
+> सोमो वधूयुरभवदश्विनास्तामुभा वरा ।
+> सूर्यां यत्पत्ये शंसन्तीं मनसा सविताददात् ॥
+
+> *somo vadhūyurabhavadaśvināstāmubhā varā |*
+> *sūryāṃ yatpatye śaṃsantīṃ manasā savitādadāt ‖*
+
+(Ṛ Saṃ 10-85-9) (Gloss, mine and tentative: "Soma was the bride-seeker; the Aśvins were both the groomsmen, when Savitṛ gave Sūryā, longing in her mind for a husband.")
+
+— here [it is said that] Savitṛ gave his daughter Sūryā to Soma and performed the marriage; the Aśvin deities were then merely spectators; after the marriage Sūryā went to the house of Soma, her husband, and joined him. In what way the intent here is to be stated, and so on, will be made known clearly in the explanation of the Sūryā-sūkta, and the harmony of these contradictory points will be shown.
+
+In the description of Sūryā and her marriage set out in the Sūryā-sūkta of the Ṛksaṃhitā, a deep spiritual (*ādhyātmika*) truth lies hidden. Some mantras of the Sūryā-sūkta make this aspect known. The truth described in the sentences of the Upaniṣads is made known by these mantras. For example,
+
+> मनो अस्या अन आसीद्द्यौरासीदुत च्छदिः ।
+> शुक्रावनड्वाहावास्तां यदयात्सूर्या गृहम् ॥
+> ऋक्सामाभ्यामभिहितौ गावौ ते सामनावितः ।
+> श्रोत्रं ते चक्रे आस्तां दिवि पन्थाश्चराचरः ॥
+
+> *mano asyā ana āsīddyaurāsīduta cchadiḥ |*
+> *śukrāvanaḍvāhāvāstāṃ yadayātsūryā gṛham ‖*
+> *ṛksāmābhyāmabhihitau gāvau te sāmanāvitaḥ |*
+> *śrotraṃ te cakre āstāṃ divi panthāścarācaraḥ ‖*
+
+(Ṛ. Saṃ. 10. 85. 10, 11) (Gloss, mine and tentative: "Her mind was the cart, and heaven was the covering; the two bright ones were the draught-oxen when Sūryā went to her [husband's] home. Yoked by Ṛk and Sāman, your two oxen went in harmony; your ears were the two wheels; in heaven was the path, moving and unmoving.")
+
+In such ṛks there is not merely a description of Sūryā's physical body: there is a description that gives the sense that Sūryā is a power reflecting the principle of the universe. According to this description, mind itself is her chariot; the antarikṣa itself is its covering; the two orbs of radiance shining in the antarikṣa are her draught-animals; those draught-animals, yoked by Ṛk and by Sāman, drew Sūryā; the chariot-wheels themselves are her ears; the path on which she travels lay in the antarikṣa. When the Aśvin deities came to choose Sūryā, adorned with such wedding attire, all the gods approved, it says.
+
+From some further descriptions it is understood that identity is stated between Sūryā and Vāk in the form of Śabdabrahman. Making this very point known, the Bṛhaddevatā [says]:
+
+> यदा तु वाग्भवत्येषा सूर्यामुं लोकमाश्रिता ।
+> तथा सूक्तमुषा भूत्वा सूर्या च भजतेऽखिलम् ॥
+
+> *yadā tu vāgbhavatyeṣā sūryāmuṃ lokamāśritā |*
+> *tathā sūktamuṣā bhūtvā sūryā ca bhajate 'khilam ‖*
+
+(Bṛ. De. 2. 79; the first numeral is the curled glyph read as 2, as on p. 26.) (Gloss, mine and tentative: "And when this Vāk, resting on yonder world, becomes Sūryā, then, having become Uṣas and Sūryā, she shares in the whole hymn.")
+
+> सूर्यामेव सतीमेतां गौरीं वाचं सरस्वतीम् ।
+> पश्यामो वैश्वदेवेषु निपातेनैव केवलाः ॥
+
+> *sūryāmeva satīmetāṃ gaurīṃ vācaṃ sarasvatīm |*
+> *paśyāmo vaiśvadeveṣu nipātenaiva kevalāḥ ‖*
+
+(Bṛ. De. 2. 81) (Gloss, mine and tentative: "This same [Vāk], being Sūryā, we see as Gaurī, Vāk, Sarasvatī in the Vaiśvadeva hymns, only by incidental mention.") *(The Special Topics of Ṛk 3 continue on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 31 (PDF 49). Sūkta 184 Ṛk 3 OPEN: Special Topics continuing (Sūryā note: Sūryā-sūkta ṛks 10-85-9/10/11 and Bṛhaddevatā on Sūryā as Vāk quoted; page ends after Bṛ. De. 2. 81); continue on printed p. 32 (PDF 50), still Special Topics, then Ṛk 3's grammar page. Flags pp. 26–31: Bṛhadde. 2[?]. 8–10 (curled glyph, read 2 also at 2. 79, 2. 81), अमुतोऽर्वाङ् [?] (p. 26); p. 26 सूर्यः स्वरथे as printed; p. 27 स्यैव as printed; p. 30 स्यैवपत्नी विशेषतः as printed. Earlier flags: see vol14/review/doubts_v14.json.
