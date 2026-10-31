@@ -1222,4 +1222,193 @@ That is,
 
 ---
 
-**Progress note:** Done through printed p. 37 (PDF 55). Sūkta 184 Ṛk 4 OPEN: Special Topics continuing (mānyasya note; Ṛ. 1-189-8 quoted at page end); continue on printed p. 38 (PDF 56), still Special Topics of Ṛk 4, then its grammar page, then Ṛk 5. Ṛk 3 closed (pp. 32-34). Flags pp. 32-37: many small-type numerals [?] (Ṛ./Ni./Pā. refs); Aitareya quotation क्रीणेत्येव / वेच्छयो read with doubt.
+
+### Printed p. 38  (PDF 56)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* *(Special Topics of Ṛk 4 continued.)* In the ṛk 1-189-8 [as printed] the words *mānasya sūnuḥ* mean, in the opinion of the English scholars, Agastya, the son of the ṛṣi named Māna. But Sāyaṇa, in explaining this word in that very ṛk, has given the following commentary:
+
+> मानस्य सूनुः; मीयत इति मानः मन्त्रः । तस्य सूनुः अग्निः मन्त्रेणोत्पाद्यमानत्वात् । मानस्य सूनौ अग्नौ ॥
+
+> *mānasya sūnuḥ; mīyata iti mānaḥ mantraḥ | tasya sūnuḥ agniḥ mantreṇotpādyamānatvāt | mānasya sūnau agnau ‖*
+
+(Ṛ. Bhā. 1-189-8) — that is, *māna* means a mantra; its son is Agni; therefore *mānasya sūnuḥ* means "Agni", so he has explained. Similarly in
+
+> सत्रे ह जाताविषिता नमोभिः कुम्भे रेतः सिषिचतुः समानम् ।
+> ततो ह मान उदियाय मध्यात्ततो जातमृषिमाहुर्वसिष्ठम् ॥
+
+> *satre ha jātāviṣitā namobhiḥ kumbhe retaḥ siṣicatuḥ samānam |*
+> *tato ha māna udiyāya madhyāttato jātamṛṣimāhurvasiṣṭham ‖*
+
+(Ṛ. Saṃ. 7-33-13) (Gloss, mine and tentative: "In the sacrificial session, the two, urged on with homage, poured their seed together into the jar; then *Māna* arose from the middle; from there they say the ṛṣi Vasiṣṭha was born.") — although the sense there too is Agastya together with Vasiṣṭha, Sāyaṇa has not stated that *māna* is a proper name (*aṅkitanāma*). Hence, where the word *mānyasya* occurs, what the English scholars explain and what Sāyaṇa explains are bound to differ. In the present ṛk too, the sense is either Agastya the son of Māna, or Agastya the esteemed and honoured one.
+
+**कारोः (*kāroḥ*)** — Sāyaṇa: स्तोतुः अगस्त्यस्य (*stotuḥ agastyasya*) — "of Agastya, the praiser". The Nirukta-kāras have read the word *kāru* among the names of hymn (stotra) (Ni. 3-19). The author of the Bṛhaddevatā has used this word in the sense of poets, ṛṣis of subtle vision:
+
+> अग्नेः[?] सप्त योनि सूक्तानि पञ्च नामानि कारवः ।
+> षड्विंशतिस्तथेन्द्रस्य प्राहुः सूर्यस्य सप्त च ॥
+
+> *agneḥ[?] sapta yoni sūktāni pañca nāmāni kāravaḥ |*
+> *ṣaḍviṃśatistathendrasya prāhuḥ sūryasya sapta ca ‖*
+
+(Bṛ. De. 2-22) (Gloss, mine and tentative: "…for Agni seven … hymns; five names; the *kāru*s; and for Indra twenty-six, they say, and for Sūrya seven.")
+
+> पृथक्त्तेन [?] समास्तत्र [?] यज्ञे यज्ञस्यते [?] नृभिः ।
+> स्तवन्त्याप्रेषु तेनेमं नराशंसं तु कारवः ॥
+
+> *pṛthakttena [?] samāstatra [?] yajñe yajñasyate [?] nṛbhiḥ |*
+> *stavantyāpreṣu tenemaṃ narāśaṃsaṃ tu kāravaḥ ‖*
+
+(Bṛ. De. 2-28) *(Lines 1–2 of this verse are transcribed letter by letter from print and are doubtful; no gloss given.)*
+
+In such sentences "the *kāru*s praise" is used as a word equivalent to "poets" (*kavi*). In the Ṛksaṃhitā too:
+
+> प्रदक्षिणिदभि [sic?] गृणन्ति कारवो वयो वदन्त ऋतुथा शकुन्तयः ।
+
+> *pradakṣiṇidabhi [sic?] gṛṇanti kāravo vayo vadanta ṛtuthā śakuntayaḥ |*
+
+(Ṛ. Saṃ. 2-43-1) (Gloss, mine and tentative: "The poets praise [him] around to the right; birds speak, each in its season.") — in these and other ṛks the use of this word in the sense of "poet" has been explained at length earlier.
+
+---
+
+### Printed p. 39  (PDF 57)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)* **Vyākaraṇa-prakriyā** — grammar page of Ṛk 4, noted briefly. Words treated: *asme* (genitive plural → शे (*śe*) by the *sup-ām sulug* sūtra), *mādhvī* (*añ* after *madhu* in the sense of possession, *yaṇ* as an exception to guṇa, with the *āmantrita* accent), *rātiḥ* (*ktin*, udātta), *hinotam* (root *hi*, *gatau vṛddhau ca*, *loṭ* 2nd dual, *tam* for *tas*, *śnu* by *svādibhyaḥ śnuḥ*, guṇa, *nighāta*), *kāroḥ* (root *ḍukṛñ karaṇe*, *uṇ* suffix by *kṛvāpājimisvadi…*, vṛddhi), *śravasyā* (*kyac* after *śravas*, *akāra*, *ṭāp*, *suptiṅ*-lengthening), *suvīryāya* (*vīryavīryau ca*, accent), *carṣaṇayaḥ* (root *kṛṣ* with *ani*, *ca* for *ka*, guṇa), *madanti* (*mad*, *laṭ* 3rd plural, no *nighāta*). The Pāṇini sūtra numbers are given in small type and are not transcribed here.
+
+---
+
+### Printed p. 40  (PDF 58)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)*
+
+## Sūkta 184, Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> एष वां स्तोमो अश्विनावकारि मानेभिर्मघवाना सुवृक्ति ।
+> यातं वर्तिस्तनयाय त्मने चागस्त्ये नासत्या मदन्ता ॥ ५ ॥
+
+> *eṣa vāṃ stomo aśvināvakāri mānebhirmaghavānā suvṛkti |*
+> *yātaṃ vartistanayāya tmane cāgastye nāsatyā madantā ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> एषः । वाम् । स्तोमः । अश्विना । अकारि । मानेभिः । मघवाना । सुवृक्ति । यातम् । वर्तिः । तनयाय । त्मने । च । अगस्त्ये । नासत्या । मदन्ता ॥ ५ ॥
+
+> *eṣaḥ | vām | stomaḥ | aśvinā | akāri | mānebhiḥ | maghavānā | suvṛkti | yātam | vartiḥ | tanayāya | tmane | ca | agastye | nāsatyā | madantā ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* O Aśvins, with oblations, this sin-removing hymn has been made for you; come to Agastya's sacrificial house for offspring and for his own good.
+
+> हे अश्विनौ हे मघवाना हविर्लक्षणान्नवन्तौ वां युवाभ्यामेष स्तोमः स्तोत्रं सुवृक्ति सुष्ठु पापवर्जनं यथा भवति तथा यद्वा सुसमाप्त्यकारि । कृतः । कीदृशोऽयं । मानेभिर्मान्यैर्हविष्प्रदानरूपैः सहितः । हे नासत्यासत्यरहितौ युवामगस्त्य एतन्नाम्नि महर्षौ मयि मदन्तौ माद्यन्तौ सन्तौ वर्तिर्गृहं यज्ञसम्बन्धि यातं । प्राप्नुतं । किमर्थं । तनयाय पुत्रादिलाभाय त्मने आत्मने च हिताय ॥
+
+**Pratipadārtha.** *maghavānā* — endowed with food in the form of oblations; *aśvinau* — O Aśvin deities; *vām* — for you; *mānebhiḥ* — accompanied by the giving of oblations; *suvṛkti* — having the power to remove sin (or: complete); *eṣaḥ stomaḥ* — this hymn; *akāri* — has been made; *nāsatyā* — O Aśvin deities free from untruth (you both); *agastye* — in me, famed by the name Agastya (by my hymn); *madantā* — having obtained satisfaction; *tanayāya* — for the gain of sons and so on; *tmane ca* — and for one's own good; *vartiḥ* — to the sacrificial house; *yātam* — come.
+
+**Bhāvārtha.** O Aśvin deities, endowed with food in the form of oblations: this hymn, accompanied by the giving of oblations, with power to remove sin and complete, has been made for you. O Aśvin deities free from untruth, satisfied by my hymn, famed by the name Agastya, come also to my sacrificial house for the gain of sons and so on and for my own good.
+
+---
+
+### Printed p. 41  (PDF 59)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)*
+
+**English Translation (as printed; the heading is printed "Trnslation" [sic]):** Ashwins, possessors of wealth, this sin-removing hymn has been addressed to you, together with respectful (oblations): Nasatyas, be favourable to Agastya ; come to his dwelling for (conferring on him) progeny, and for his own (good).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**मघवाना (*maghavānā*)** — for this epithet Sāyaṇa has explained हविर्लक्षणान्नयुक्तौ (*havirlakṣaṇānnayuktau*) — "(the Aśvins) endowed with food in the form of oblations". Although the epithet *maghavān* is ordinarily of Indra, this epithet is used here and there in the Ṛksaṃhitā also when describing the qualities of other deities. Or, since the word *magha* is read among the names of wealth (Ni. 3-9), here it may be said to be wealth in the form of food. The Nirukta-kāra, having given the derivation of the word *magha* —
+
+> मघमिति धननामधेयं मंहतेर्दानकर्मणः ।
+
+> *maghamiti dhananāmadheyaṃ maṃhaterdānakarmaṇaḥ |*
+
+— explained the sense of the word *maghonī* (Ni. 1-7 [?]). In the same way, the explanation of the epithet *maghavānā* may be given in the present ṛk too. Or:
+
+*maghavānā* — even if one explains it as "the Aśvin deities accompanied by Viṣṇu", it is not wrong. For, in the Śatapatha-brāhmaṇa and others the identity of Viṣṇu and *makha* (sacrifice, मख (*makha*)) has been stated, as was shown earlier (Śa. Brā. 14-11-13 [as read]); and the companionship of the Aśvin deities with Viṣṇu, in the form of *makha*, is well known. This too was shown earlier, in
+
+> तमस्य राजा वरुणस्तमश्विना क्रतुं सचन्ते मारुतस्य वेधसः ।
+> धधार [sic?] दक्षमुत्तममहर्विदं व्रजं च विष्णुः सखिवा अपोर्णुते ॥
+
+> *tamasya rājā varuṇastamaśvinā kratuṃ sacante mārutasya vedhasaḥ |*
+> *dhadhāra [sic?] dakṣamuttamamaharvidaṃ vrajaṃ ca viṣṇuḥ sakhivā aporṇute ‖*
+
+(Ṛ. Saṃ. 1-15[7?]-4 [?]) (Gloss, mine and tentative: "Him [Agni?], King Varuṇa and the Aśvins attend, [his] will, of the wise Maruts; Viṣṇu, the friend, upheld the highest skill, day-knowing, and opens the stall.") — when explaining the special topics of that ṛk (Ṛgveda Saṃhitā Part 11, pp. 656–657, as printed). Besides, the Ṛksaṃhitā too describes the same companionship thus:
+
+> यदिन्द्रेण सरथं याथो अश्विना यद्वा वायुना भवथः समोकसा ।
+> यदादित्येभिरृभुभिः सजोषसा यद्वा विष्णोर्विक्रमणेषु तिष्ठथः ॥
+
+> *yadindreṇa sarathaṃ yātho aśvinā yadvā vāyunā bhavathaḥ samokasā |*
+> *yadādityebhirṛbhubhiḥ sajoṣasā yadvā viṣṇorvikramaṇeṣu tiṣṭhathaḥ ‖*
+
+(Ṛ. Saṃ. 8-9-12) (Gloss, mine and tentative: "Whether you, Aśvins, drive in one chariot with Indra, or are of one dwelling with Vāyu, or in unison with the Ādityas and Ṛbhus, or stand in Viṣṇu's strides.")
+
+---
+
+### Printed p. 42  (PDF 60)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* — in these and other ṛks too the companionship of the Aśvin deities with Viṣṇu is shown. For this reason *maghavānā* may also be explained as "the Aśvins accompanied by Viṣṇu"; but in the present context it appears more fitting to the passage to give the sense stated by Sāyaṇa, "endowed with the wealth of food in the form of oblations".
+
+**सुवृक्ति (*suvṛkti*)** — Sāyaṇa: सुष्ठु पापवर्जनं यथा भवति तथा । यद्वा । सुसमाप्ति (*suṣṭhu pāpavarjanaṃ yathā bhavati tathā | yadvā | susamāpti*) — "completely freed from sin, or having a pure completion". This word is an epithet of the word *stoma*, and the epithet is used here and there in one sense or another. The Nirukta-kāra, citing
+
+> इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः ।
+> पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा [वि?]वासेम धीतिभिः ॥
+
+> *iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ |*
+> *pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā [vi?]vāsema dhītibhiḥ ‖*
+
+(Ṛ. Saṃ. 6-61-2) (Gloss, mine and tentative: "She, with her powerful waves, broke the ridge of the mountains as one digging lotus-stalks; to Sarasvatī, destroyer of the distant, may we come with attentions, for help, with excellent praises.") explained the word *suvṛktibhiḥ* there as सुप्रवृत्ताभिः शोभनाभिः स्तुतिभिः (*supravṛttābhiḥ śobhanābhiḥ stutibhiḥ*), "excellent praises". The word *vṛkti* is also used elsewhere in the sense of "abandoning" (*varjana*). For example:
+
+> कुविदङ्ग यवमन्तो यवं चिद्यथा दान्त्यनुपूर्वं वियूय ।
+> इहेहैषां कृणुहि भोजनानि ये बर्हिषो नमोवृक्तिं न जग्मुः ॥
+
+> *kuvidaṅga yavamanto yavaṃ cidyathā dāntyanupūrvaṃ viyūya |*
+> *ihehaiṣāṃ kṛṇuhi bhojanāni ye barhiṣo namovṛktiṃ na jagmuḥ ‖*
+
+(Ṛ. Saṃ. 10-131-2) — here *namovṛktim* is explained: "of *namas*, of the food in the form of oblation, or of the hymn in the form of homage, the abandonment, the doing; they did not go" ("*namaso havirlakṣaṇasyānnasya namaskārātmakasya stotrasya vā varjanaṃ karaṇaṃ na jagmuḥ*"). It is prayed to Indra: "they have not abandoned the praise in the form of homage". Here the word *vṛkti* is used in the sense of abandonment; but the use of this word in the sense of praise is by far more frequent. For example:
+
+> अस्मा इदु त्यमुपमं स्वर्षां भराम्याङ्गूषमास्येन ।
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ॥
+
+> *asmā idu tyamupamaṃ svarṣāṃ bharāmyāṅgūṣamāsyena |*
+> *maṃhiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai ‖*
+
+(Ṛ. Saṃ. 1-61-3) — in these and all such places the sense is "excellent praise".
+
+**वर्तिः (*vartiḥ*)** — वर्तनहेतुभूतं गृहम् (*vartanahetubhūtaṃ gṛham*) — "a house, serving as the support for dwelling": Sāyaṇa explains this word so wherever it occurs. But Skandasvāmin has in general explained it everywhere as "the well-known path". For example,
+
+---
+
+### Printed p. 43  (PDF 61)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)*
+
+> त्रिर्वर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतम् ।
+> त्रिर्नान्द्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतम् ॥
+
+> *trirvartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣatam |*
+> *trirnāndyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvatam ‖*
+
+(Ṛ. Saṃ. 1-34-4) — in these and all such ṛks Sāyaṇa explains *vartiḥ* as "house", Skandasvāmin as "path". It is one special point that all the sūktas containing ṛks with the word *vartiḥ* as in *trirvartiḥ*, *aśvinā vartiḥ*, such as 1-116-18 [?]; 1-112-2 [?]; 1-119-4, are addressed to the Aśvin deities. But,
+
+> इषं दुहन्त्सुदुघां विश्वधायसं यज्ञप्रियो यजमानाय सुक्रतो ।
+> अग्ने घृतस्नुस्त्रिर्ऋतानि [?] दीद्यद्वर्तिर्यज्ञं परियन्सक्रतोयसे [?] ॥
+
+> *iṣaṃ duhantsudughāṃ viśvadhāyasaṃ yajñapriyo yajamānāya sukrato |*
+> *agne ghṛtasnustrirṛtāni [?] dīdyadvartiryajñaṃ pariyansakratoyase [?] ‖*
+
+(Ṛ. Saṃ. 10-122-6) — only in this ṛk, which is addressed to Agni, is the word used in a mantra of that kind; here the sense "sacrificial house" has been given. Sāyaṇa too has in some places explained this word as "path". For example,
+
+> यो ह स्य वां रथिरा वस्त उस्रा रथो युजानः परियाति वर्तिः ।
+> तेन नः शंयोरुषसो व्युष्टौ न्यश्विना वहतं यज्ञे अस्मिन् ॥
+
+> *yo ha sya vāṃ rathirā vasta usrā ratho yujānaḥ pariyāti vartiḥ |*
+> *tena naḥ śaṃyoruṣaso vyuṣṭau nyaśvinā vahataṃ yajñe asmin ‖*
+
+(Ṛ. Saṃ. 2-69-5) — here *vartiḥ* is explained as "path". This is a mantra of prayer addressed to the Aśvin deities themselves. In the present ṛk the sense is "house"; ordinarily it is a synonym of "sacrificial house".
+
+**Vyākaraṇa-prakriyā** (grammar page of Ṛk 5, begun; continues on the next page) — *akāri* (root *ḍukṛñ karaṇe*, *luṅ* passive 3rd singular; *ati-ṅanta* *nighāta* accent); *mānebhiḥ* (root *man jñāne*, *ghañ*; *upadhā*-vṛddhi; initial udātta; by *bahulaṃ chandasi* the *ais* for *bhis* is optional, hence not here); *maghavānā* (*vanip* by *chandasīvanipau*, in the sense of possession; vocative dual, *ā*-substitution by *supāṃ sulug*; *āmantrita* *nighāta*); *suvṛkti* (root *vṛjī varjane*, *ktin* in the sense of the action; *kutva* of the *j* by *coḥ kuḥ*; *car* by *khari ca*; accent on the last member of the compound by the *nañ-subhyām* sūtra).
+
+---
+
+---
+
+**Progress note:** Done through printed p. 43 (PDF 61). Sūkta 184 Ṛk 4 closed (p. 39). Ṛk 5 OPEN: grammar page begun on p. 43 (akāri, mānebhiḥ, maghavānā, suvṛkti done); continue on printed p. 44 (PDF 62) with the rest of Ṛk 5's grammar page, then Ṛk 6. Flags pp. 38-43: small-type refs (Ṛ. 1-157-4, Ni. 1-7, 1-116-18, 1-112-2, 10-122-6 words), Bṛ. De. verses 2-22/2-28 with [?] words.

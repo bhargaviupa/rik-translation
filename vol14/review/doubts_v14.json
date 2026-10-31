@@ -574,5 +574,257 @@
   ],
   "note": "UNDECIDED: part/page 4 ref, vol 12, 1-165-15, Bṛ.De. 5-153",
   "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 38,
+  "crop": [
+   0.308,
+   0.325,
+   0.668,
+   0.813
+  ],
+  "note": "ZOOMED, read: Ṛ. Bhā. 1-189-8",
+  "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 38,
+  "crop": [
+   0.418,
+   0.434,
+   0.612,
+   0.764
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-33-13",
+  "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 38,
+  "crop": [
+   0.541,
+   0.559,
+   0.487,
+   0.602
+  ],
+  "note": "ZOOMED, read: Ni. 3-19",
+  "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 38,
+  "crop": [
+   0.627,
+   0.646,
+   0.635,
+   0.764
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 2-22",
+  "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 38,
+  "crop": [
+   0.686,
+   0.702,
+   0.635,
+   0.764
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 2-28",
+  "answer": ""
+ },
+ {
+  "pdf": 56,
+  "printed": 38,
+  "crop": [
+   0.771,
+   0.788,
+   0.612,
+   0.764
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-43-1",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.393,
+   0.412,
+   0.593,
+   0.673
+  ],
+  "note": "ZOOMED, read: Ni. 3-9",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.432,
+   0.447,
+   0.72,
+   0.8
+  ],
+  "note": "UNDECIDED: Ni. 1-7 (1-2?) kept 1-7 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.538,
+   0.555,
+   0.299,
+   0.472
+  ],
+  "note": "ZOOMED, read: Śa. Brā. 14-11-13",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.633,
+   0.649,
+   0.606,
+   0.746
+  ],
+  "note": "UNDECIDED: Ṛ. Saṃ. 1-157-4 (middle digits) [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.751,
+   0.763,
+   0.633,
+   0.766
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-9-12",
+  "answer": ""
+ },
+ {
+  "pdf": 60,
+  "printed": 42,
+  "crop": [
+   0.437,
+   0.451,
+   0.624,
+   0.767
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 6-61-2",
+  "answer": ""
+ },
+ {
+  "pdf": 60,
+  "printed": 42,
+  "crop": [
+   0.565,
+   0.581,
+   0.607,
+   0.764
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-131-2",
+  "answer": ""
+ },
+ {
+  "pdf": 60,
+  "printed": 42,
+  "crop": [
+   0.716,
+   0.728,
+   0.633,
+   0.764
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-61-3",
+  "answer": ""
+ },
+ {
+  "pdf": 61,
+  "printed": 43,
+  "crop": [
+   0.259,
+   0.273,
+   0.607,
+   0.752
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-34-4",
+  "answer": ""
+ },
+ {
+  "pdf": 61,
+  "printed": 43,
+  "crop": [
+   0.4,
+   0.414,
+   0.59,
+   0.752
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-122-6",
+  "answer": ""
+ },
+ {
+  "pdf": 61,
+  "printed": 43,
+  "crop": [
+   0.513,
+   0.529,
+   0.61,
+   0.752
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-69-5",
+  "answer": ""
+ },
+ {
+  "pdf": 61,
+  "printed": 43,
+  "crop": [
+   0.301,
+   0.326,
+   0.495,
+   0.785
+  ],
+  "note": "ZOOMED, read: 1-116-18 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 61,
+  "printed": 43,
+  "crop": [
+   0.319,
+   0.343,
+   0.165,
+   0.785
+  ],
+  "note": "ZOOMED, read: 1-112-2; 1-119-4 (112 uncertain)",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.499,
+   0.517,
+   0.222,
+   0.406
+  ],
+  "note": "ZOOMED, read: maghavānā (ghā, not khā)",
+  "answer": ""
+ },
+ {
+  "pdf": 59,
+  "printed": 41,
+  "crop": [
+   0.534,
+   0.553,
+   0.506,
+   0.74
+  ],
+  "note": "ZOOMED, read: makha",
+  "answer": ""
  }
 ]
