@@ -4918,7 +4918,7 @@ The eternal companionship between Indra and the Marut-gods, the relation of king
 > *kva syā vo marutaḥ svadhāsīd yan māṃ ekaṃ samadhattāhihatye |*
 > *ahaṃ hy ugras taviṣas tuviṣmān viśvasya śatror anamaṃ vadhasnaiḥ ‖*
 
-(Ṛ. Saṃ. 1-165-8). "O Marut-gods, to say that you did the slaying of the serpent (Vṛtra) is false. Where was that power of yours? My own power, being unique, did not seek the help of any other power when Vṛtra was slain; I alone am of terrible and wonderful power and greatness": thus, in a spirit of contempt for the Marut-gods, he expresses his anger. Here that anger is indicated. It is well known that Indra received the help of the Marut-gods at the time of killing Vṛtra. Even so, when the Marut-gods, understanding the matter, asked Indra that they too should be given a share in the oblation intended for Indra, Indra said that he had had no help at all from them, and that he had himself killed all his enemies by his own power.
+(Ṛ. Saṃ. 1-165-6). "O Marut-gods, to say that you did the slaying of the serpent (Vṛtra) is false. Where was that power of yours? My own power, being unique, did not seek the help of any other power when Vṛtra was slain; I alone am of terrible and wonderful power and greatness": thus, in a spirit of contempt for the Marut-gods, he expresses his anger. Here that anger is indicated. It is well known that Indra received the help of the Marut-gods at the time of killing Vṛtra. Even so, when the Marut-gods, understanding the matter, asked Indra that they too should be given a share in the oblation intended for Indra, Indra said that he had had no help at all from them, and that he had himself killed all his enemies by his own power.
 
 ### Printed p. 212  (PDF 232)
 

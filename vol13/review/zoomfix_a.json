@@ -2246,5 +2246,21 @@
   "old": "(Pā. Sū. 6-1-70 [?]); (Pā. Sū. 2-4-80 [?]); (Pā. Sū. 7-3-87 [?])",
   "new": "(Pā. Sū. 6-1-70); (Pā. Sū. 2-4-80); (Pā. Sū. 7-3-87)",
   "note": "User's spreadsheet pasted Kannada-numeral list for printed pp.181-266 (page = printed page): 3 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 231,
+  "printed": 211,
+  "status": "resolved",
+  "old": "1-165-8",
+  "new": "1-165-6",
+  "note": "Changed to the value in the user's list for pp.181-266 (user: 1-165-6 is correct); not viewed by me."
+ },
+ {
+  "pdf": 232,
+  "printed": 212,
+  "status": "unresolved",
+  "old": "1-170-1",
+  "new": "1-170-1",
+  "note": "List has 1-170-0; user says that is also correct but the translation keeps 1-170-1; no change."
  }
 ]
