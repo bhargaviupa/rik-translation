@@ -8842,5 +8842,41 @@
   ],
   "note": "ZOOMED, read: Pā. Sū. 6-1-198 (āmantritasya ca)",
   "answer": ""
+ },
+ {
+  "pdf": 225,
+  "printed": 207,
+  "crop": [
+   0.273,
+   0.306,
+   0.474,
+   0.67
+  ],
+  "note": "ZOOMED, read: Pratipadārtha headword 'prīvaḥ it bhava' as printed (ra-subscript under pa; for pīvaḥ); first try landed left",
+  "answer": ""
+ },
+ {
+  "pdf": 225,
+  "printed": 207,
+  "crop": [
+   0.778,
+   0.806,
+   0.474,
+   0.809
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-93-6; 3-48-2 (second try)",
+  "answer": ""
+ },
+ {
+  "pdf": 225,
+  "printed": 207,
+  "crop": [
+   0.785,
+   0.816,
+   0.146,
+   0.49
+  ],
+  "note": "ZOOMED, read: 5-43-4 (first glyph 5 with a stray mark after it)",
+  "answer": ""
  }
 ]
