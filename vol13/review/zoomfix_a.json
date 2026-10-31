@@ -1662,5 +1662,69 @@
   "old": "Disagreements between my viewed readings and kannada_numerals.xlsx (kept as viewed)",
   "new": "(no change)",
   "note": "p.281 Ni 11-12 (sheet 11-17); p.296 Pā 3-4-94 (sheet 3-4-64); p.308 Ṛ 3-4-4 (sheet 2-4-4); p.316 Ṛ 8-20-12 (sheet 8-20-17, and the original file also had 17 — worth a 2nd look); p.338 Ni… Ṛ 10-86-23 (sheet 10-86-22); p.349 Ni 2-19 (sheet 2-18); p.354 Pā 3-4-100 (sheet 3-4-110); p.356 Ni 3-24 ×2 (sheet 2-24). In each I had viewed the page; the sheet is machine-read."
+ },
+ {
+  "pdf": 281,
+  "printed": 281,
+  "status": "resolved",
+  "old": "(Ni. 11-12)",
+  "new": "(Ni. 11-17)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Ni. 11-12."
+ },
+ {
+  "pdf": 296,
+  "printed": 296,
+  "status": "resolved",
+  "old": "(Pā. Sū. 3-4-94)",
+  "new": "(Pā. Sū. 3-4-64)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Pā. Sū. 3-4-94."
+ },
+ {
+  "pdf": 308,
+  "printed": 308,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 3-4-4)",
+  "new": "(Ṛ. Saṃ. 2-4-4)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Ṛ. Saṃ. 3-4-4."
+ },
+ {
+  "pdf": 338,
+  "printed": 338,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-86-23)",
+  "new": "(Ṛ. Saṃ. 10-86-22)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Ṛ. Saṃ. 10-86-23."
+ },
+ {
+  "pdf": 349,
+  "printed": 349,
+  "status": "resolved",
+  "old": "(Ni. 2-19)",
+  "new": "(Ni. 2-18)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Ni. 2-19."
+ },
+ {
+  "pdf": 354,
+  "printed": 354,
+  "status": "resolved",
+  "old": "(Pā. Sū. 3-4-100)",
+  "new": "(Pā. Sū. 3-4-110)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Pā. Sū. 3-4-100."
+ },
+ {
+  "pdf": 356,
+  "printed": 356,
+  "status": "resolved",
+  "old": "(Ni. 3-24)",
+  "new": "(Ni. 2-24)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (2 occurrence(s)). Earlier reading from the page was Ni. 3-24."
+ },
+ {
+  "pdf": 316,
+  "printed": 316,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 8-20-12)",
+  "new": "(Ṛ. Saṃ. 8-20-17)",
+  "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Ṛ. Saṃ. 8-20-12."
  }
 ]

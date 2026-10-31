@@ -7035,7 +7035,7 @@ In this ṛk it is described that the Maruts (the Marut deities), the companions
 
 ***sajoṣasaḥ kṣoṇīḥ — saha sevamānāḥ samānaprītayo vā kṣoṇyo viśaḥ parijanāḥ*** — having explained these two words as epithets of the Marut deities, he gives the meaning. Though the Marut deities are many (forty-nine in number, by the usual count — *ekonapañcāśat saṃkhyākāḥ*), they are affectionate toward one another through their oneness; or, as friends of Indra, all serve him with the same kind of love: so he explains the sense — that they are like Indra's subjects, though friends.
 
-***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 3-9), among the names of battle (Ni. 3-9), and as the name of a person (Ni. 11-12), and then quotes
+***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 3-9), among the names of battle (Ni. 3-9), and as the name of a person (Ni. 11-17), and then quotes
 
 > पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
 
@@ -7494,7 +7494,7 @@ By the two similes *narāṃ na* and *turo na* the comparison with kings and wit
 - ***svabhiṣṭayaḥ*** — *śobhanā abhiṣṭayo yeṣāṃ te*; as before, the final member is *udātta*.
 - ***narām*** — "*sānvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168); the genitive plural has the *udātta* accent.
 - ***śaṃsaiḥ*** — root *śaṃsu stutau*; suffix *ghañ*; being *ñit*, the first syllable is *udātta*; third plural.
-- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular, *tip*; "*iteś ca lopaḥ*" (Pā. Sū. 3-4-97); the augment by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94); in the *pādādi* position no *nighāta*; the root accent remains.
+- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular, *tip*; "*iteś ca lopaḥ*" (Pā. Sū. 3-4-97); the augment by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-64); in the *pādādi* position no *nighāta*; the root accent remains.
 - ***vandaneṣṭhāḥ*** — *vandane tiṣṭhatīti vandaneṣṭhāḥ*; root *ṣṭhā gatinivṛttau*; suffix *kvip*; by "*tatpuruṣe kṛti bahulam*" the locative is not dropped; the *kṛdutta* final member keeps its natural accent.
 - ***turaḥ*** — root *tura tvaraṇe*; by "*igupadhajñāprīkiraḥ kaḥ*" (Pā. Sū. 3-1-135) the suffix *ka*; being *kit*, no light-vowel guṇa; the suffix accent is end-*udātta*.
 - ***ukthā*** — root *vaca paribhāṣaṇe*; by "*pātṛtudivacī*…" (Uṇ. Sū. 2-164) the suffix *thak*; being *kit*, by "*vaciśvapiyajādīnāṃ kiti*" (Pā. Sū. 6-1-15) *saṃprasāraṇa* with the earlier form; "*coḥ kuḥ*" gives *ku*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39) the third (instrumental) before a following vowel takes the preceding *savarṇadīrgha*. ‖ 9 ‖
@@ -7830,7 +7830,7 @@ This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to ou
 
 > *ūrdhvo vāṃ gātur adhvare akāry ūrdhvā śocīṃṣi prasthitā rajāṃsi | divo vā nābhā nyasādi hotā stṛṇīmahi devavyacā vi barhiḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-4-4) — in such ṛks it means "path"; and
+(Ṛ. Saṃ. 2-4-4) — in such ṛks it means "path"; and
 
 > अर्यमा णो अदितिर्यज्ञियासोऽदब्धानि वरुणस्य व्रतानि । युयोत नो अनपत्यानि गन्तोः प्रजावान्नः पशुमाँ अस्तु गातुः ॥
 
@@ -8112,7 +8112,7 @@ In the Purāṇas and other works the word *asura* is a synonym of *rākṣasa*;
 
 > *yathā rudrasya sūnavo divo vaśanty asurasya vedhasaḥ |*
 
-(Ṛ. Saṃ. 8-20-12) — in such places in the sense "cloud"; and
+(Ṛ. Saṃ. 8-20-17) — in such places in the sense "cloud"; and
 
 > अनायुधासो असुरा अदेवाश्चक्रेण ताँ अप वपा ऋजीषिन् ।
 
@@ -8791,7 +8791,7 @@ Or it may be said that Indra is praised as the Āditya, stationed in heaven (*dy
 
 > *yad udañco vṛṣākape gṛham indrājagantana | kvasya pulvagho mṛgaḥ kam agañ janayopano viśvasmād indra uttaraḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-86-23) — quoting this ṛk, "*tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare … ādityam*" [garbled in the print: [?]] — Indra is "invisible": people, by a knowledge of the Āditya's rising and setting, are deluded into thinking Indra and Āditya are different; but this is not true knowledge. The deity…
+(Ṛ. Saṃ. 10-86-22) — quoting this ṛk, "*tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare … ādityam*" [garbled in the print: [?]] — Indra is "invisible": people, by a knowledge of the Āditya's rising and setting, are deluded into thinking Indra and Āditya are different; but this is not true knowledge. The deity…
 
 ---
 
@@ -9088,7 +9088,7 @@ In the sentence *kaviḥ arkasātau rapat* — "*yadvā etannāmarṣiḥ annār
 
 (Ṛ. Saṃ. 1-10-1) — quoting this ṛk he explains that the words *arka*, *arkin* mean "worthy of worship" and "those who worship". By this, two kinds of explanation by Sāyaṇa are given here.
 
-***dāsāya kṣāṃ upabarhaṇīṃ kaḥ*** — "*dāsa* is *dāso dasyater upadāsayanti karmāṇi*" (Ni. 2-19) — because the *asura*, by doing evil acts abundantly, is a doer of acts, he is called *dāsa*; Sāyaṇa has explained "*prāṇyupakṣayitre asurāya*" — "to the *asura* who destroys creatures greatly": Indra made the earth a pillow to him, "*hatvā bhūmāv apātayeḥ*" — he killed the *asura* and made him lie upon the earth: so the meaning is given. The word *kṣā* is read among the names of the earth (Ni. 1-… [?]) and "*kṣā kṣiyater nivāsakarmaṇaḥ*" (Ni. 2-5) — the word *kṣā*, formed from the root *kṣi*, meaning "to dwell", is used in the sense of earth, Yāska explains.
+***dāsāya kṣāṃ upabarhaṇīṃ kaḥ*** — "*dāsa* is *dāso dasyater upadāsayanti karmāṇi*" (Ni. 2-18) — because the *asura*, by doing evil acts abundantly, is a doer of acts, he is called *dāsa*; Sāyaṇa has explained "*prāṇyupakṣayitre asurāya*" — "to the *asura* who destroys creatures greatly": Indra made the earth a pillow to him, "*hatvā bhūmāv apātayeḥ*" — he killed the *asura* and made him lie upon the earth: so the meaning is given. The word *kṣā* is read among the names of the earth (Ni. 1-… [?]) and "*kṣā kṣiyater nivāsakarmaṇaḥ*" (Ni. 2-5) — the word *kṣā*, formed from the root *kṣi*, meaning "to dwell", is used in the sense of earth, Yāska explains.
 
 ***maghavā*** — the word *magha* is read among the names of wealth (Ni. 3-9). Because it is used in the sense of wealth, Indra, having wealth, is meant by the word *maghavā*.
 
@@ -9197,7 +9197,7 @@ In the second meaning, for the word *pūrvīḥ* the sense *purātanyaḥ āpa�
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
 - ***tā*** — from the form *tāni*; "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70) drops *śi*; or a change of gender.
-- ***āguḥ*** — root *iṇ gatau*; *luṅ*, third person plural, the suffix *jhi*; by "*luṅi ca*" (Pā. Sū. 2-4-43) the substitution *gā* for the root; by "*gātisthāghupā*…" (Pā. Sū. 2-4-77) *luk* for *sic*; by "*ātaḥ*" (Pā. Sū. 3-4-100) the substitution *jus* for *jhi*; "*ussyapadāntāt*" (Pā. Sū. 6-1-96) *parar-ūpa*; the augment *a* for it; being after *ati* (*tiṅ*), *nighāta* accent.
+- ***āguḥ*** — root *iṇ gatau*; *luṅ*, third person plural, the suffix *jhi*; by "*luṅi ca*" (Pā. Sū. 2-4-43) the substitution *gā* for the root; by "*gātisthāghupā*…" (Pā. Sū. 2-4-77) *luk* for *sic*; by "*ātaḥ*" (Pā. Sū. 3-4-110) the substitution *jus* for *jhi*; "*ussyapadāntāt*" (Pā. Sū. 6-1-96) *parar-ūpa*; the augment *a* for it; being after *ati* (*tiṅ*), *nighāta* accent.
 - ***nabhaḥ*** — root *ṇabha hiṃsāyām*; by "*kvip ca*" the suffix *kvip*; accusative plural.
 - ***bhinat*** — root *bhidir vidāraṇe*; *laṅ*, second person singular (by *vyatyaya*); *tip* arises by "*vyatyayo bahulam*"; by "*itaś ca*" the *i* is dropped; by "*rudhādibhyaḥ śnam*" the *śnam* *vikaraṇa*; because it ends in *mit*, the *n* is placed after the last vowel; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75) no augment; because it is in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
 - ***bhidaḥ*** — for the same root, the suffix *kvip*; accusative plural.
@@ -9257,11 +9257,11 @@ You, Indra, are the terrifier (of your foes); you have made the trembling waters
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***dhuniḥ — kaṃpayitā*** — Indra is described as one who makes his enemies tremble. The word *dhuni*, formed from the root *dhūñ kaṃpane* ("to shake"), is explained as "*dhunoti iti dhuniḥ*" (Ni. 5-12). The word *dhunayaḥ* is read among the names of rivers (Ni. 3-24).
+***dhuniḥ — kaṃpayitā*** — Indra is described as one who makes his enemies tremble. The word *dhuni*, formed from the root *dhūñ kaṃpane* ("to shake"), is explained as "*dhunoti iti dhuniḥ*" (Ni. 5-12). The word *dhunayaḥ* is read among the names of rivers (Ni. 2-24).
 
 ***dhunimatīḥ apaḥ ṛṇoḥ — kaṃpanoper etaraṃgavatīḥ | athavā jalapratirodhakārī asuraḥ sa eva pratibandhakatayā yāsāṃ tādṛśīḥ apaḥ bhūmāvapātayaḥ*** — when waters flow, because of the agitation that arises in them, they are called *dhunimatyaḥ* (those with waves) — described as "possessed of waves, ripples". Or, the *asura* who obstructs the flowing of the waters is called *dhuni*; the waters that have as their obstacle the *asura* called *Dhuni*, who hinders the stream, are described as *dhunimatyaḥ*. The meaning is given that Indra, by destroying the obstructing state existing in such waters, caused the waters to flow on the earth.
 
-***sravantīḥ sīrā na — saraṇavatīr nadīr iva | tadvat saṃgatāḥ*** — *sravantyaḥ* is read among the names of rivers (Ni. 3-24). The word *na* is used here as a particle of comparison, said by way of simile: as the waters flow, uniting and running together like rivers, so they flow.
+***sravantīḥ sīrā na — saraṇavatīr nadīr iva | tadvat saṃgatāḥ*** — *sravantyaḥ* is read among the names of rivers (Ni. 2-24). The word *na* is used here as a particle of comparison, said by way of simile: as the waters flow, uniting and running together like rivers, so they flow.
 
 Addressing Indra with the word *śūra*, "*yat samudram atiparṣi turvaśaṃ yadum svasti pāraya*" — "*yadā samudram atikramya udakena pūrayasi tadānīṃ turvaśaṃ yadum ubhāv api rājarṣī saṃpūrṇajalavarṣaṇena avināśam apālayaḥ*": the meaning is explained that when Indra fills the ocean with water, as a river fills up and overflows, he makes the two royal sages Turvaśa and Yadu glad by abundant rain and protects them from harm. Sāyaṇa quotes in support the same sense from the mantra:
 

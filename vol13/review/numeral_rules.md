@@ -35,3 +35,6 @@ Inside Pada lines a small subscript stroke ("್ಯ"-like) is the compound-divis
 - The user supplied lists of numerals "identified" from the PDF (machine-read). They are useful as hints: they agreed with the hooked-3 rule on pp. 20, 33, 35, 39, 43 (e.g. Ni 3-9, 3-11, 3-13 where the file had 2-9, 2-11, 3-3). They also omit references and make errors, so every value must still be confirmed on the page before it is written. A reading is never taken from the list alone.
 - Where a Nirukta ref reads "?-9", the first digit is the hooked 3 (3-9) for the lists of names of strength, battle, wealth, food, etc. (The pre-existing `(Ni. 2-9)` in the early part of the file is probably 3-9.)
 - When the print puts no number after a Sanskrit sūtra name or citation, write "(no reference is printed here)".
+
+## 6. Caution after the user's check (Oct 31 2026)
+The user confirmed that the spreadsheet readings are correct where they disagreed with my page readings: Ni 11-17 (p.281), Pā 3-4-64 (p.296), Ṛ 2-4-4 (p.308), 10-86-22 (p.338), Ni 2-18 (p.349), Pā 3-4-110 (p.354), Ni 2-24 (p.356), Ṛ 8-20-17 (p.316). So the 'hooked glyph = 3' rule above is NOT reliable on its own (it misled me in several of these, e.g. 3-24 vs 2-24). Where a numeral list exists, prefer it over a glyph guess; where none exists, keep [?].
