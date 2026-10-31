@@ -4725,4 +4725,195 @@ The commentator's (Sāyaṇa's) explanation is: नक्तशब्दः उ�
 
 ---
 
-**Progress note:** Done through printed p. 139 (PDF 157). Sūkta 186 Ṛk 4 OPEN: Saṃhitā, Pada, bhāṣya (pp. 135–136), Pratipadārtha, Bhāvārtha, printed English (p. 136) and Special Topics (pp. 136–139: uṣāsānaktā, nakta/uṣas, sudugheva dhenuḥ, īṣe, samāne payasi ūdhan viṣurūpe, arka — Yāska's four derivations, the third (food) breaking off) written; Special Topics continue, grammar of Ṛk 4 to follow, on p. 140 / PDF 158. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed. New (pp. 110–115): p. 110 Ni. 6[?]-22 UNDECIDED (tatko vaiśvānaraḥ; first digit 6 or 7), Ni. 7-21, Ṛ. 1-59-6, Bṛ. De. 1-101 : 1-102 zoomed; p. 111 'athāsyāda' as printed, 'yānyetāny' zoomed; p. 112 'nirūpyate', 'aruṇe aupaveśau' as printed, Ni. 7-22 to 7-31, Ni. 7-21, Śa. Brā. 10-6-1-1 to 11 zoomed; p. 113 'khalu nvā', 'etaṃ rayiṃ vaiśvānara etaṃ', 'pratiṣṭhā', 'prajñayā', 'pādau tvā etau' as printed (zoomed), 'vastistvāhāsyad' (stroke = va-ottu, resolved on p. 115); p. 114 'vaiśānara' as printed, ¶ 7 opens 'atha hoc[?]' UNDECIDED, 'tasmāttvāṃ' (broken print) zoomed; p. 115 'vā'atiṣṭhā', 'hi ve', 'pṛthagannamaghastaṃ' as printed (zoomed), Kannada of ¶ 9 says antarikṣa where the Sanskrit has divam. New (pp. 116–117): p. 116 Śa. Brā. ¶ 11 closing numeral printed ‖ 10 ‖ (zoomed), 'vaiśānara', 'nāsike'upadiśan', 'chubakam' as printed, Ni. 3-15 (abhipitvam) zoomed; p. 117 Kau. 2-4-82 and Pā. 6-3-129 zoomed, Saṃhitā Ṛk 2 opens 'a no' as printed. p. 118 Pada 'susahā' as printed, bhāṣya Āś. 3-7 zoomed (flat-footed glyph; p. 95 had 3-8 — compare); p. 119 Āś. 3-7, Ṛ. 5-3-1, 5-3-2, Tai. Brā. 1-7-10-1 zoomed. p. 120 Ṛ. 2-27-1 (calibrated on header Aṣṭaka 2), 9-114-3, 10-72-8, 9 zoomed, Tai. Ā. 1-[?]3-3 UNDECIDED (broken digit), 'tanva1spari', 'devā̃', 'agṃśaśca', 'vivasvāgścetyete' as printed; p. 121 Tai. Brā. 1-1-9-1, 2, 3, Ṛ. 2-27 (sūkta), Ni. 10-21, Ṛ. 3-59-1 zoomed, 'retodhatta' (no avagraha) and 'antakṣadalli' [sic] as printed. New (pp. 122–123): p. 122 Ṛ. 3-59-5, 5-72-2, 1-136-3 ('mitrastayor'), 5-81-4, Vā. Saṃ. 4-3 (as printed), 10-8-4, 3-5-4 zoomed; p. 123 Ni. 10-2 as printed (varuṇo vṛṇotīti sataḥ), Ṛ. 6-51-1, 7-61-1, 7-63-1, 1-25-5, 1-25-16, 1-26-4, 5-72-2 zoomed, 'barhī' as printed (Ṛ. 1-26-4). New (pp. 124–125): p. 124 Ṛ. 5-63-1, 7-88-5, 1-25-13, 1-24-7, 2-27-10 zoomed (4-41-3, 5-85-3 read unzoomed), 'somaiḥ', 'mādayaite' as printed; p. 125 Ṛ. 6-48-[?]4 UNDECIDED (broken digit), 5-63-4, 7-28-4, 10-99-10, 10-147-5, 8-42-1, 7-87-5, 5-63-2, 2-27-4, 5-69-1, 4 zoomed, 'saṃrāḍviśvettāni' as printed. New (pp. 126–127): p. 126 Ṛ. 7-60-4, Tai. Saṃ. 6-4-8-3, Ṛ. 7-66-11, 2-28-4, 5-85-6, 5-85-3, 4, sūkta 5-63, Tai. Saṃ. 5-5-4-1, 6-4-3-2 zoomed (Tai. Saṃ. 2-1-7-4 and Ṛ. 1-25-8 read unzoomed, zooms missed), 'cādṛcaṃ' as printed; p. 127 Ṛ. 8-41-2, 5-69-4, 1-24-15, 1-25-21, 6-74-4, 10-85-24 zoomed, the 'yuvo rāṣṭraṃ' line: 'dyā[?]yau[?]' UNDECIDED (displaced vowel signs). New (pp. 128–133): p. 128 Ṛ. 7-84-2, Tai. Saṃ. 4-4-9-2 (as printed), Ṛ. 2-27-1, 9-114-3, 10-72-8, A. Ve. 8-9-21, Tai. Brā. 1-1-9-1, Śa. Brā. 6-1-2-8; 11-6-3-8 zoomed; p. 129 Ṛ. 5-3-2, 10-85-36, 10-126-1, 10-126-7 (as printed: flat-footed glyph; the 'śunamasmabhyam' ṛk) and '7 ne ṛk' zoomed, grammar Pā. 3-1-86 and Pari. 93-2 read unzoomed; p. 130 grammar numerals (Pā. 7-1-50, 3-1-59, 7-4-16, 6-4-75, 6-1-163, Uṇ. 1-39) read unzoomed, headword 'susāhā' as printed; p. 131 bhāṣya Ṛ. 2-28-1 zoomed; p. 132 Ṛ. 7-11-1, 1-12-1, 1-12-2 (as printed, looped glyph; the 'agne devāṃ ihāvaha' ṛk), 1-14-1 zoomed; p. 133 Ni. 6-14 and Ṛ. 2-28-1 (digit partly broken) zoomed. New (pp. 134–135): p. 134 Ni. 3-19, Ṛ. 1-181-4, Ni. 12-3, Pā. 6-4-157 zoomed, Uṇ. Sū. 4-48[?]2 (ṛtanyañji) UNDECIDED, grammar headword printed like 'śreṣṭhaḥ' [?] for preṣṭhaḥ; p. 135 Pā. 3-1-34 (sibbahulaṃ leṭi; cf. p. 94) read unzoomed, bhāṣya Ṛk 4 'liṭyutta-ma[?]ikavacana' (line break) zoomed, 'varḍyaiva ne[?]tyarthaḥ' UNDECIDED, 'ṣaṣṭhe' confirmed by the Kannada of p. 136. New (pp. 136–139): p. 136 bhāṣya 'tvadarthaṃ' as printed, printed English 'milked)'' [sic]; p. 137 Ni. 8-11, Ni. 2-19, Ṛ. 1-113-1 zoomed, 'sūdarī' as printed (zoomed), 'satyā' as printed; p. 138 Sāyaṇa quote 'naktoṣonāmike', Special Topics cite 'supeśasā' (not in Ṛk 4) and 'naktoṣasā' as printed; p. 139 Ni. 5-4 zoomed (arka).
+### Printed p. 140  (PDF 158)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 4, continued: Yāska's third derivation concluded.)*
+
+… all respect and desire it. That is, because all desire it, honouring it with affection and regard, the word अर्क (*arka*) also has the meaning "food".
+
+(4) अर्को वृक्षो भवति य एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्ना कटुकभावेन भवति । (*arko vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimnā kaṭukabhāvena bhavati |*) Further, a name of the word अर्क (*arka*) for a kind of tree is indeed well known. The अर्क (*arka*) tree is called the *ekkada giḍa* in the Kannada language. Because its sacrificial sticks (samit) are used in homas, and because there is the custom of using it in medicines and the like, the अर्क (*arka*) tree is a thing known to all. Because it is bitter, they say कटुकिम्ना (*kaṭukimnā*) ("by its bitterness").
+
+As an example for the explanation of the word अर्क (*arka*), Yāska has cited the ṛk गायंति त्वा (*gāyaṃti tvā*) and has given its explanation (nirvacana); as that is not necessary here, it has not been explained. (See Ṛ. Saṃ. Bhāga 2, pages 385, zoomed.)
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly; numerals read unzoomed). ईषे (*īṣe*) — root इष गतौ (*iṣa gatau*); by छंदसि लुङ्लङ्लिटः (*chaṃdasi luṅlaṅliṭaḥ*) liṭ in the sense of the present, first-person singular; nighāta accent because it stands after a non-tiṅanta (a word that is not a finite verb). जिगीषा (*jigīṣā*) — desiderative of जि जये (*ji jaye*) by धातोः कर्मणः समान- (*dhātoḥ karmaṇaḥ samāna-*) (Pā. Sū. 3-1-7), reduplication, lengthening by अज्झनगमां सनि (*ajjhanagamāṃ sani*) (Pā. Sū. 6-4-16), ku-substitution by सन्लिटोर्जेः (*sanliṭorjeḥ*) (Pā. Sū. 7-3-57), the affix a by अप्रत्ययात् (*apratyayāt*) (Pā. Sū. 3-3-102), ṭāp, instrumental elided by सुपां सुलुक् (*supāṃ suluk*). उषासानक्ता (*uṣāsānaktā*) — उषासोषसः (*uṣāsoṣasaḥ*) (Pā. Sū. 6-3-31), देवताद्वंद्वे च (*devatādvaṃdve ca*) (Pā. Sū. 6-2-141). अहन् (*ahan*) — locative elided by सुपां सुलुक् (*supāṃ suluk*); न ङिसंबुद्ध्योः (*na ṅisaṃbuddhyoḥ*) blocks loss of n. विमिमानः (*vimimānaḥ*) — root माङ् माने (*māṅ māne*), śānac, reduplication, भृञामित् (*bhṛñāmit*) (Pā. Sū. 7-4-76), अभ्यस्तानामादिः (*abhyastānāmādiḥ*) … *(continues on the next page)*
+
+
+---
+
+### Printed p. 141  (PDF 159)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Vyākaraṇa-prakriyā of Ṛk 4 concluded; Ṛk 5 begins.)*
+
+… (Pā. Sū. 6-1-189, zoomed) gives the ādyudātta accent; in the prādi-compound the kṛt final member keeps its own accent. विषुरूपे (*viṣurūpe*) — विषु नाना रूपाणि यस्य तत् । तस्मिन् (*viṣu nānā rūpāṇi yasya tat | tasmin*); by बहुव्रीहौ प्र- (*bahuvrīhau pra-*) (no number printed) the first member keeps its accent.
+
+---
+
+## Sūkta 186, Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> उत नोऽहिर्बुध्न्यो३ मयस्कः शिशुं न पिप्युषीव वेति सिंधुः ।
+> येन नपातमपां जुनाम मनोजुवो वृषणो यं वहंति ॥ ५ ॥
+
+> *uta no 'hirbudhnyo3 mayaskaḥ śiśuṃ na pipyuṣīva veti siṃdhuḥ |*
+> *yena napātamapāṃ junāma manojuvo vṛṣaṇo yaṃ vahaṃti ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत । नः । अहिः । बुध्न्यः । मयः । करिति कः । शिशुं । न । पिप्युषीऽइव । वेति । सिंधुः ।
+> येन । नपातं । अपां । जुनाम । मनःऽजुवः । वृषणः । यं । वहंति ॥ ५ ॥
+
+> *uta | naḥ | ahiḥ | budhnyaḥ | mayaḥ | kariti kaḥ | śiśuṃ | na | pipyuṣī 'iva | veti | siṃdhuḥ |*
+> *yena | napātaṃ | apāṃ | junāma | manaḥ 'juvaḥ | vṛṣaṇaḥ | yaṃ | vahaṃti ‖ 5 ‖*
+
+*(Pada: कः (*kaḥ*) is given with its repetition करिति कः (*kariti kaḥ*), as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> उतापि च नोऽस्माकमहिरंतरिक्षगाम्यहंता वा हीनो वाहन्यमानो वैतन्नामको देवः स एव बुध्न्यः । बुध्नं बंधकमंतरिक्षं । तदर्हतीति बुध्न्योऽन्तरिक्षचार्येतन्नामको देवो मयः सुखं कः । करोतु ॥ करोतेर्लङि रूपं ॥ किंच पिप्युषी । इवशब्द एवार्थः पूरणो वा । अस्मान्रसेनाप्याययंती सिंधुर्नाम नदी वेतु । आगच्छतु । तत्र दृष्टांतः । शिशुं न यथा शिशुं प्याययंती गौर्गच्छति तद्वत् । अपां नपातमुदकानामपातयितारं वर्षकमेतन्नामकं यद्वोदकानां नप्तारं तृतीयं पुत्रं । अद्भ्य ओषधिवनस्पतयः तेभ्योऽग्निरिति नप्तृत्वं । तादृशमग्निं जुनाम । स्तुतिभिः संगच्छेम ॥ जु इति सौत्रो धातुर्गत्यर्थः ॥ यं देवं मनोजुवो मनोवेगा वृषणो वर्षका मेषा अश्वा वहंति स सुखं करोतु ॥
+
+> *utāpi ca no 'smākamahiraṃtarikṣagāmyahaṃtā vā hīno vāhanyamāno vaitannāmako devaḥ sa eva budhnyaḥ | budhnaṃ baṃdhakamaṃtarikṣaṃ | tadarhatīti budhnyo 'ntarikṣacāryetannāmako devo mayaḥ sukhaṃ kaḥ | karotu ‖ karoterlaṅi rūpaṃ ‖ kiṃca pipyuṣī | ivaśabda evārthaḥ pūraṇo vā | asmānrasenāpyāyayaṃtī siṃdhurnāma nadī vetu | āgacchatu | tatra dṛṣṭāṃtaḥ | śiśuṃ na yathā śiśuṃ pyāyayaṃtī gaurgacchati tadvat | apāṃ napātamudakānāmapātayitāraṃ varṣakametannāmakaṃ yadvodakānāṃ naptāraṃ tṛtīyaṃ putraṃ | adbhya oṣadhivanaspatayaḥ tebhyo 'gniriti naptṛtvaṃ | tādṛśamagniṃ junāma | stutibhiḥ saṃgacchema ‖ ju iti sautro dhāturgatyarthaḥ ‖ yaṃ devaṃ manojuvo manovegā vṛṣaṇo varṣakā meṣā aśvā vahaṃti sa sukhaṃ karotu ‖*
+
+
+*(करोतेर्लङि (*karoterlaṅi*) zoomed, as printed; मेषा (*meṣā*) zoomed, so printed (the sense expects मेघा (*meghā*), "clouds").)*
+
+*Gist:* May Ahi Budhnya, the god moving in the mid-air, give us happiness; may the river Sindhu come to us as a cow nourishing her calf; may we reach with praises Apāṃ Napāt (Agni, the grandson of the waters), whom swift, showering steeds carry; may he give happiness.
+
+
+---
+
+### Printed p. 142  (PDF 160)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Ṛk 5, continued.)*
+
+**Pratipadārtha.** उत (*uta*) — and; अहिर्बुध्न्यः (*ahirbudhnyaḥ*) — the deity Ahirbudhnya, who moves in the mid-air; नः (*naḥ*) — to us; मयः (*mayaḥ*) — happiness; कः (*kaḥ*) — may he make; यं (*yaṃ*) — which Agni; मनोजुवः (*manojuvaḥ*) — swift as the speed of the mind; वृषणः (*vṛṣaṇaḥ*) — clouds that are showerers, or horses; वहंति (*vahaṃti*) — carry and bring; तं अपां नपातं (*taṃ apāṃ napātaṃ*) — such Agni, who is also the grandson of the waters; येन (*yena*) — by the help of which deity; जुनाम (*junāma*) — we approach, endowed with praises: may such a deity too make happiness for us; पिप्युषी इव (*pipyuṣī iva*) — she who (always) nourishes us; सिंधुः (*siṃdhuḥ*) — the deity Sindhu too; शिशुं न (*śiśuṃ na*) — like a cow going to satisfy its young (calf); वेति (*veti*) — may she come near us. *(The Kannada here has "clouds" (meghagaḷu) for the bhāṣya's मेषा (*meṣā*) as printed on p. 141.)*
+
+**Bhāvārtha.** May the deity Ahirbudhnya, who moves in the mid-air, make happiness for us. May that deity too, with whose help we, endowed with praises, approach Agni, the grandson of the waters, whom the clouds (or horses), swift as the speed of the mind and showering, carry and bring, make happiness for us. May the deity Sindhu too, who always nourishes us, come to us like a cow going to satisfy its calf, and satisfy us.
+
+**English Translation (as printed):**
+
+May Ahirbudhnya grant us happiness: may Sindhu come, nourishing us as a (cow her) calf, whereby we may propitiate the grandson of the waters» [sic] (Agni), whom the clouds, swift as thought, convey· [sic]
+
+**Viśeṣaviṣayagaḷu (Special Topics).**
+
+अहिः बुध्न्यः (*ahiḥ budhnyaḥ*) — The word अहिः (*ahiḥ*) is read among the thirty names of the cloud (Ni. 2-21, zoomed) and among the hundred-and-one names of water (Ni. 2-24, zoomed). बुध्नमंतरिक्षं बद्धा अस्मिन्, धृता आप इति वा । बद्धा अस्मिन् धृताः प्राणा इति (*budhnamaṃtarikṣaṃ baddhā asmin, dhṛtā āpa iti vā | baddhā asmin dhṛtāḥ prāṇā iti*) (Ni. 10-44, zoomed) — that is, the word बुध्न (*budhna*) means the mid-air. For in this mid-air water is bound in the form of clouds, or is held; therefore the mid-air has the name बुध्न (*budhna*); or the body, in which the vital breaths are held, also has the name बुध्न (*budhna*): so Yāska has given the derivation. And,
+
+> अहिर्बुध्न्यः । योऽहिः स बुध्न्यो बुध्नमंतरिक्षं तन्निवासात् ॥
+
+> *ahirbudhnyaḥ | yo 'hiḥ sa budhnyo budhnamaṃtarikṣaṃ tannivāsāt ‖*
+
+(Ni. 10-44, zoomed)
+
+Giving the derivation of the word अहिर्बुध्न्यः (*ahirbudhnyaḥ*): the meaning "mid-air" which the word बुध्न (*budhna*) has belongs to the word अहि (*ahi*) too. Yāska has said that the deity dwelling in that mid-air has the name Ahirbudhnya, and in support of it *(continues on the next page)*
+
+---
+
+### Printed p. 143  (PDF 161)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 5, continued.)*
+
+> मा नोऽहिर्बुध्न्यो रिषे धान्मा यज्ञो अस्य स्रिधदृतायोः ।
+
+> *mā no 'hirbudhnyo riṣe dhānmā yajño asya sridhadṛtāyoḥ |*
+
+(Ṛ. Saṃ. 7-34-17, zoomed) (Gloss, mine and tentative: "May Ahirbudhnya not give us over to harm; may the sacrifice of this pious man not fail.")
+
+— citing this ṛk, he has explained the meaning. This word Ahirbudhnya occurs in the Ṛgveda in the ṛks 1-86-5 (so printed; this ṛk is 1-186-5); 2-31-6; 5-41-16; 6-49-14; 6-50-14; 7-35-13; 7-38-5; 10-64-4; 10-66-11; 10-92-12; 10-93-5 (all zoomed). In some places the name of the deity Aja Ekapāt is also mentioned together with this deity.
+
+Ahirbudhnya may be said to be the serpent of the ocean or of the nether world (Pātāla). This name occurs especially in the sūktas whose deity is the Viśvedevas. In all, the name of this deity is used in the Ṛgveda only twelve times: five times it is mentioned together with Aja Ekapād, three times with Apāṃ Napāt, three times with Samudra and twice with Savitṛ. Apart from other deities, this name has come in only three ṛks (Ṛ. Saṃ. 5-41-16; 7-34-16, 17, zoomed). Generally the deity that comes together with this deity is Aja Ekapāt or Apāṃ Napāt. Aja Ekapāt and Ahirbudhnya both generally appear as if joined side by side. In the Nirukta (Ni. 5-4, zoomed) Ahirbudhnya is counted as one among the deities of the mid-air. Since it is said in the ṛks Ṛ. Saṃ. 7-34-16; 10-93-5 (zoomed), "I praise with song the serpent born in the waters, sitting at the bottom of the stream of the mid-air", it is indicated that this deity dwells in the mass of waters of the sky. In Ṛ. Saṃ. 7-34-17 (zoomed) there is the prayer that he should not harm those who worship him either. In Ṛ. Saṃ. 5-41-16 (zoomed) too there is mention of this same matter. From these sentences it becomes clear that wickedness is contained in his nature. The word अहि (*ahi*) is generally used about Vṛtra. Vṛtra too had enclosed the water in this same way; the water flowed, overpowering him; or there is the description that he lay in the water or at the bottom of the atmosphere. Therefore there is room for the idea that Ahirbudhnya and Ahi Vṛtra were one and the same. Although the idea arose gradually that Ahirbudhnya is a deity, his wicked nature is subtly indicated. In the Taittirīya Saṃhitā (Tai. Saṃ. 4-4-10-3, zoomed), with प्रोष्ठपदानक्षत्रमज एकपाद्देवता प्रोष्ठपदानक्षत्रमहिर्बुध्नियो देवता (*proṣṭhapadānakṣatramaja ekapāddevatā proṣṭhapadānakṣatramahirbudhniyo devatā*), it is said that the deity Aja Ekapāt is the presiding lord of the Pūrvābhādra nakṣatra, and that Ahirbudhnya is the deity of the Uttarābhādra nakṣatra. In the Purāṇas and the like, Ahirbudhnya is well known as one among the names of Rudra.
+
+मयः (*mayaḥ*) — Since the word मयः (*mayaḥ*) is read among the twenty names of happiness beginning with शिंबाता (*śiṃbātā*), शतरा (*śatarā*), मयः (*mayaḥ*) means happiness (Ni. 3-9, as printed, zoomed).
+
+शिशुं न पिप्युषी (*śiśuṃ na pipyuṣī*) — For the river Sindhu a simile is given: "as a cow nourishes its calf by giving it milk". That is, just as a cow protects its calf by giving it milk, the river Sindhu *(continues on the next page)*
+
+
+---
+
+### Printed p. 144  (PDF 162)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 5, continued.)*
+
+… providing water abundant for agriculture and other works and for food, drink and the like, protects people: this illustration is indicated here. What is special here is that a cow nourishes only its one calf by giving it milk, but the river Sindhu brings about the nourishment of many people.
+
+सिंधुः (*siṃdhuḥ*) — The word सिंधु (*siṃdhu*) is read among the names of rivers (Ni. 2-24, zoomed). सिंधु (*siṃdhu*) means स्यंदनशीला (*syaṃdanaśīlā*), "a river that flows, that streams along". In the Ṛgveda, in this very sense,
+
+> सुदेवो असि वरुण यस्य ते सप्त सिंधवः ।
+> अनुक्षरंति काकुदं सूर्म्यं सुषिरामिव ॥
+
+> *sudevo asi varuṇa yasya te sapta siṃdhavaḥ |*
+> *anukṣaraṃti kākudaṃ sūrmyaṃ suṣirāmiva ‖*
+
+(Ṛ. Saṃ. 8-69-12, zoomed) (Gloss, mine and tentative: "You are a good god, Varuṇa, into whose palate the seven rivers flow, as into a hollow tube.")
+
+> तमू षु समना गिरा पितॄ[?]णां च मन्मभिः ।
+> नाभाकस्य प्रशस्तिभिर्यः सिंधूनामुपोदये सप्तस्वसा स मध्यमो नभंतामन्यके समे ॥
+
+> *tamū ṣu samanā girā pitṝ[?]ṇāṃ ca manmabhiḥ |*
+> *nābhākasya praśastibhiryaḥ siṃdhūnāmupodaye saptasvasā sa madhyamo nabhaṃtāmanyake same ‖*
+
+(Ṛ. Saṃ. 8-41-2, zoomed) (Gloss, mine and tentative: "Him (I praise) well with a common song, with the thoughts of the fathers, with the praises of Nābhāka — him who is at the rising of the rivers, having seven sisters, he the middle one; may all the other foes perish.") *(पितॄ[?]णां (*pitṝ[?]ṇāṃ*): the subscript after ta is unclear in the zoom.)*
+
+— in these and other ṛks the word सिंधु (*siṃdhu*) is explained as "flowing rivers"; in this ṛk under discussion, उत नो (*uta no*), and in
+
+> अमंदान्त्स्तोमान्प्र भरे मनीषा सिंधावधि क्षियतो भाव्यस्य ।
+
+> *amaṃdāntstomānpra bhare manīṣā siṃdhāvadhi kṣiyato bhāvyasya |*
+
+(Ṛ. Saṃ. 1-126-1, zoomed) (Gloss, mine and tentative: "With insight I bring forth unflagging praises for Bhāvya, who dwells on the Sindhu.")
+
+and other ṛks, as the river Sindhu; and in
+
+> श्रोतु नः श्रोतुरातिः सुश्रोतुः सुक्षेत्रा सिंधुरद्भिः ।
+
+> *śrotu naḥ śroturātiḥ suśrotuḥ sukṣetrā siṃdhuradbhiḥ |*
+
+(Ṛ. Saṃ. 1-122-6, zoomed) (Gloss, mine and tentative: "May she of the good fields, Sindhu, with her waters, hear us — she whose gift is for the one who listens, she who listens well.")
+
+> इंद्रो द्यावापृथिवी सिंधुरद्भिरादित्यैर्नो अदितिः शर्म यंसत् ।
+
+> *iṃdro dyāvāpṛthivī siṃdhuradbhirādityairno aditiḥ śarma yaṃsat |*
+
+(Ṛ. Saṃ. 8-54-6, zoomed) (Gloss, mine and tentative: "May Indra, Heaven and Earth, Sindhu with the waters, Aditi with the Ādityas, grant us shelter.")
+
+— in these ṛks the commentator (Sāyaṇa) has explained the meaning as the deity presiding over the waters.
+
+अपां नपातं (*apāṃ napātaṃ*) — अपां उदकानां नपातं नपातयितारं तासां नप्तारं वा अग्निं । अध्भ्यः ओषधिवनस्पतयः ताभ्यः अग्निः इत्यपां नप्तृत्वमग्नेः । (*apāṃ udakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vā agniṃ | adhbhyaḥ oṣadhivanaspatayaḥ tābhyaḥ agniḥ ityapāṃ naptṛtvamagneḥ |*) (अध्भ्यः (*adhbhyaḥ*) so printed, zoomed) — Sāyaṇa has explained that because the plants and trees are produced from the waters and Agni is born from them, the name अपां नपात् (*apāṃ napāt*) ("grandson of the waters") is well known for Agni.
+
+नपात् (*napāt*) — The word has the meanings "son" and "grandson"; the word is used in both meanings. But the Niruktakāra, with नपादित्यनंतरायाः प्रजाया नामधेयं । (*napādityanaṃtarāyāḥ prajāyā nāmadheyaṃ |*), has said that the meaning of the word is not the direct son but grandsons and the like (Ni. 8-5, zoomed). And when giving the derivation of the word तनूनपात् (*tanūnapāt*), आपः अत्र तन्व उच्यंते । तता अंतरिक्षे (*āpaḥ atra tanva ucyaṃte | tatā aṃtarikṣe*) *(continues on the next page)*
+
+---
+
+
+---
+
+### Printed p. 145  (PDF 163)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 5, continued. Foot of page: signature mark "[10]" and "Vol. 14".)*
+
+… ताभ्यः ओषधिवनस्पतयः जायंते ओषधिवनस्पतिभ्य एष जायते । (*tābhyaḥ oṣadhivanaspatayaḥ jāyaṃte oṣadhivanaspatibhya eṣa jāyate |*) — having explained thus, he has said that (तनूनपात् (*tanūnapāt*)) is the grandson of the waters, and, according to Śākapūṇi's view, a synonym of Agni.
+
+> अनंतरं प्रजामाहुर्नपादिति कृपण्यवः ।
+> नपादमुष्य चैवायमग्निस्तेन तनूनपात् ॥
+
+> *anaṃtaraṃ prajāmāhurnapāditi kṛpaṇyavaḥ |*
+> *napādamuṣya caivāyamagnistena tanūnapāt ‖*
+
+(Gloss, mine and tentative: "The poets call the next offspring *napāt*; and this Agni is the *napāt* of that one: hence Tanūnapāt.")
+
+— in the Bṛhaddevatā too this same view is followed. That there is a difference of opinion here, whether अपां नपात् (*apāṃ napāt*) is a synonym of Agni or the name of another deity, can be known from the Niruktakāra's statement अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*). Or, showing the derivation अपां न पातयिता वैद्युताग्निरूपेण प्रवर्षकत्वादिति भावः (*apāṃ na pātayitā vaidyutāgnirūpeṇa pravarṣakatvāditi bhāvaḥ*), Sāyaṇa has explained that this is the name of the lightning-fire. The Niruktakāra has said that the explanation of अपां नपात् (*apāṃ napāt*) is just like the explanation of तनूनपात् (*tanūnapāt*).
+
+> तनूनपादयं त्वेव नाम्ना यच्छत्यसौ तनुं ।
+> नपादिति प्रजामाहुरमुतोऽस्य च संभवात् ॥
+
+> *tanūnapādayaṃ tveva nāmnā yacchatyasau tanuṃ |*
+> *napāditi prajāmāhuramuto 'sya ca saṃbhavāt ‖*
+
+(Bṛ. De. 3-1, zoomed) (Gloss, mine and tentative: "This one is Tanūnapāt by name, for he gives (himself) a body; they call offspring *napāt*, and his origin is from that one.")
+
+As it is said in many places that, since he is born from himself, being his own son, the name तनूनपात् (*tanūnapāt*) is well known, the same is the explanation for अपां नपात् (*apāṃ napāt*) too. Or —
+
+अपां नपातं । जलस्य न पालकं । जलस्य शोषकं । (*apāṃ napātaṃ | jalasya na pālakaṃ | jalasya śoṣakaṃ |*) — because he is opposed to water and dries up water, the sun has the name अपां नपात् (*apāṃ napāt*): this meaning the commentator has stated in the bhāṣya of the ṛk Ṛ. Saṃ. 1-22-6 (zoomed). But Yāska, saying that the word अपां नपात् (*apāṃ napāt*) and the word तनूनपात् (*tanūnapāt*) are words of one and the same meaning, has given two kinds of meaning for the word तनूनपात् (*tanūnapāt*): ājya (melted ghee) and Agni (Ni. 10-8 and 8-5, zoomed). Now there is a difference of opinion whether the deity अपां नपात् (*apāṃ napāt*) is other than Agni or a portion of Agni. In Ṛ. Saṃ. sūkta 1-142 (read unzoomed; the zoom missed), examining the subject of the deity तनूनपात् (*tanūnapāt*), an Āprī deity, and citing the Bṛhaddevatā sentences and the like which say that this deity is a transformed form of Agni, it was shown that this is not a separate deity. From some other evidence present in the Ṛksaṃhitā itself there is also room to say that at the beginning it was counted as a separate deity and afterwards, becoming one with Agni, must have come to be counted as a portion of Agni. According to the Niruktakāra's view, since the deity अपां नपात् (*apāṃ napāt*) and the deity तनूनपात् (*tanūnapāt*) are one, one and the same explanation makes known the nature of both deities. In the present context, if one examines what place the deity अपां नपात् (*apāṃ napāt*) has in the Ṛksaṃhitā, the point emerges that in the sūktas addressed to the Viśvedevas the deity अपां नपात् (*apāṃ napāt*) is invoked many times.
+
+---
+
+**Progress note:** Done through printed p. 145 (PDF 163). Sūkta 186 Ṛk 4 closed (Special Topics and grammar, pp. 140–141). Ṛk 5 OPEN: Saṃhitā, Pada, bhāṣya (p. 141), Pratipadārtha, Bhāvārtha, printed English (p. 142) and Special Topics (pp. 142–145: ahirbudhnya, mayaḥ, śiśuṃ na pipyuṣī, sindhuḥ, apāṃ napāt, napāt/tanūnapāt — p. 145 ends at a paragraph end on Apāṃ Napāt in the Viśvedeva sūktas) written; Special Topics may continue, grammar of Ṛk 5 to follow, on p. 146 / PDF 164. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed. New (pp. 110–115): p. 110 Ni. 6[?]-22 UNDECIDED (tatko vaiśvānaraḥ; first digit 6 or 7), Ni. 7-21, Ṛ. 1-59-6, Bṛ. De. 1-101 : 1-102 zoomed; p. 111 'athāsyāda' as printed, 'yānyetāny' zoomed; p. 112 'nirūpyate', 'aruṇe aupaveśau' as printed, Ni. 7-22 to 7-31, Ni. 7-21, Śa. Brā. 10-6-1-1 to 11 zoomed; p. 113 'khalu nvā', 'etaṃ rayiṃ vaiśvānara etaṃ', 'pratiṣṭhā', 'prajñayā', 'pādau tvā etau' as printed (zoomed), 'vastistvāhāsyad' (stroke = va-ottu, resolved on p. 115); p. 114 'vaiśānara' as printed, ¶ 7 opens 'atha hoc[?]' UNDECIDED, 'tasmāttvāṃ' (broken print) zoomed; p. 115 'vā'atiṣṭhā', 'hi ve', 'pṛthagannamaghastaṃ' as printed (zoomed), Kannada of ¶ 9 says antarikṣa where the Sanskrit has divam. New (pp. 116–117): p. 116 Śa. Brā. ¶ 11 closing numeral printed ‖ 10 ‖ (zoomed), 'vaiśānara', 'nāsike'upadiśan', 'chubakam' as printed, Ni. 3-15 (abhipitvam) zoomed; p. 117 Kau. 2-4-82 and Pā. 6-3-129 zoomed, Saṃhitā Ṛk 2 opens 'a no' as printed. p. 118 Pada 'susahā' as printed, bhāṣya Āś. 3-7 zoomed (flat-footed glyph; p. 95 had 3-8 — compare); p. 119 Āś. 3-7, Ṛ. 5-3-1, 5-3-2, Tai. Brā. 1-7-10-1 zoomed. p. 120 Ṛ. 2-27-1 (calibrated on header Aṣṭaka 2), 9-114-3, 10-72-8, 9 zoomed, Tai. Ā. 1-[?]3-3 UNDECIDED (broken digit), 'tanva1spari', 'devā̃', 'agṃśaśca', 'vivasvāgścetyete' as printed; p. 121 Tai. Brā. 1-1-9-1, 2, 3, Ṛ. 2-27 (sūkta), Ni. 10-21, Ṛ. 3-59-1 zoomed, 'retodhatta' (no avagraha) and 'antakṣadalli' [sic] as printed. New (pp. 122–123): p. 122 Ṛ. 3-59-5, 5-72-2, 1-136-3 ('mitrastayor'), 5-81-4, Vā. Saṃ. 4-3 (as printed), 10-8-4, 3-5-4 zoomed; p. 123 Ni. 10-2 as printed (varuṇo vṛṇotīti sataḥ), Ṛ. 6-51-1, 7-61-1, 7-63-1, 1-25-5, 1-25-16, 1-26-4, 5-72-2 zoomed, 'barhī' as printed (Ṛ. 1-26-4). New (pp. 124–125): p. 124 Ṛ. 5-63-1, 7-88-5, 1-25-13, 1-24-7, 2-27-10 zoomed (4-41-3, 5-85-3 read unzoomed), 'somaiḥ', 'mādayaite' as printed; p. 125 Ṛ. 6-48-[?]4 UNDECIDED (broken digit), 5-63-4, 7-28-4, 10-99-10, 10-147-5, 8-42-1, 7-87-5, 5-63-2, 2-27-4, 5-69-1, 4 zoomed, 'saṃrāḍviśvettāni' as printed. New (pp. 126–127): p. 126 Ṛ. 7-60-4, Tai. Saṃ. 6-4-8-3, Ṛ. 7-66-11, 2-28-4, 5-85-6, 5-85-3, 4, sūkta 5-63, Tai. Saṃ. 5-5-4-1, 6-4-3-2 zoomed (Tai. Saṃ. 2-1-7-4 and Ṛ. 1-25-8 read unzoomed, zooms missed), 'cādṛcaṃ' as printed; p. 127 Ṛ. 8-41-2, 5-69-4, 1-24-15, 1-25-21, 6-74-4, 10-85-24 zoomed, the 'yuvo rāṣṭraṃ' line: 'dyā[?]yau[?]' UNDECIDED (displaced vowel signs). New (pp. 128–133): p. 128 Ṛ. 7-84-2, Tai. Saṃ. 4-4-9-2 (as printed), Ṛ. 2-27-1, 9-114-3, 10-72-8, A. Ve. 8-9-21, Tai. Brā. 1-1-9-1, Śa. Brā. 6-1-2-8; 11-6-3-8 zoomed; p. 129 Ṛ. 5-3-2, 10-85-36, 10-126-1, 10-126-7 (as printed: flat-footed glyph; the 'śunamasmabhyam' ṛk) and '7 ne ṛk' zoomed, grammar Pā. 3-1-86 and Pari. 93-2 read unzoomed; p. 130 grammar numerals (Pā. 7-1-50, 3-1-59, 7-4-16, 6-4-75, 6-1-163, Uṇ. 1-39) read unzoomed, headword 'susāhā' as printed; p. 131 bhāṣya Ṛ. 2-28-1 zoomed; p. 132 Ṛ. 7-11-1, 1-12-1, 1-12-2 (as printed, looped glyph; the 'agne devāṃ ihāvaha' ṛk), 1-14-1 zoomed; p. 133 Ni. 6-14 and Ṛ. 2-28-1 (digit partly broken) zoomed. New (pp. 134–135): p. 134 Ni. 3-19, Ṛ. 1-181-4, Ni. 12-3, Pā. 6-4-157 zoomed, Uṇ. Sū. 4-48[?]2 (ṛtanyañji) UNDECIDED, grammar headword printed like 'śreṣṭhaḥ' [?] for preṣṭhaḥ; p. 135 Pā. 3-1-34 (sibbahulaṃ leṭi; cf. p. 94) read unzoomed, bhāṣya Ṛk 4 'liṭyutta-ma[?]ikavacana' (line break) zoomed, 'varḍyaiva ne[?]tyarthaḥ' UNDECIDED, 'ṣaṣṭhe' confirmed by the Kannada of p. 136. New (pp. 136–139): p. 136 bhāṣya 'tvadarthaṃ' as printed, printed English 'milked)'' [sic]; p. 137 Ni. 8-11, Ni. 2-19, Ṛ. 1-113-1 zoomed, 'sūdarī' as printed (zoomed), 'satyā' as printed; p. 138 Sāyaṇa quote 'naktoṣonāmike', Special Topics cite 'supeśasā' (not in Ṛk 4) and 'naktoṣasā' as printed; p. 139 Ni. 5-4 zoomed (arka). New (pp. 140–145): p. 140 Ṛ. Saṃ. Bhāga 2 pages 385 zoomed (gāyanti tvā, Nirukta on arka), grammar numerals of Ṛk 4 read unzoomed; p. 141 Pā. 6-1-189 zoomed, Ṛk 5 Pada 'kariti kaḥ' as printed, bhāṣya 'karoterlaṅi' and 'meṣā' (for meghā) as printed (zoomed); p. 142 Ni. 2-21, 2-24, 10-44 (twice) zoomed, printed English 'waters»', 'convey·' [sic]; p. 143 Ṛ. 7-34-17, refs list (1-86-5 as printed for 1-186-5; 2-31-6 … 10-93-5), 5-41-16, 7-34-16, 17, 10-93-5, Ni. 5-4, Tai. Saṃ. 4-4-10-3 zoomed, Ni. 3-9 as printed (sukha names); p. 144 Ni. 2-24 (sindhu), Ṛ. 8-69-12, 8-41-2, 1-126-1, 1-122-6, 8-54-6, Ni. 8-5 zoomed, 'pitṝ[?]ṇāṃ' (Ṛ. 8-41-2) UNDECIDED, 'adhbhyaḥ' as printed. p. 145 Bṛ. De. 3-1, Ṛ. 1-22-6, Ni. 10-8 and 8-5 zoomed, Ṛ. sūkta 1-142 read unzoomed (zoom missed twice).
