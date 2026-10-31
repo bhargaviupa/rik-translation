@@ -1018,5 +1018,53 @@
   ],
   "note": "ZOOMED, read: (Śa. Brā. 12-2-4-8)",
   "answer": ""
+ },
+ {
+  "pdf": 69,
+  "printed": 51,
+  "crop": [
+   0.384,
+   0.421,
+   0.166,
+   0.788
+  ],
+  "note": "ZOOMED, read: (Śa. Brā 12-1-4-1)",
+  "answer": ""
+ },
+ {
+  "pdf": 69,
+  "printed": 51,
+  "crop": [
+   0.809,
+   0.828,
+   0.596,
+   0.761
+  ],
+  "note": "ZOOMED, read: (Ai. Brā. 18-1)",
+  "answer": ""
+ },
+ {
+  "pdf": 70,
+  "printed": 52,
+  "crop": [
+   0.55,
+   0.569,
+   0.652,
+   0.804
+  ],
+  "note": "ZOOMED, read: (Ai. Brā. 18-15); last glyph matches header 5",
+  "answer": ""
+ },
+ {
+  "pdf": 70,
+  "printed": 52,
+  "crop": [
+   0.765,
+   0.783,
+   0.645,
+   0.787
+  ],
+  "note": "ZOOMED, read: (Ai Brā. 18-3)",
+  "answer": ""
  }
 ]

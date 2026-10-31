@@ -1547,4 +1547,73 @@ When the prefix *abhi* is joined to the root *plu*, which has the sense of going
 
 ---
 
-**Progress note:** Done through printed p. 49 (PDF 67). Sūkta 184 closed (Ṛk 6, p. 44-46 Special Topics). Sūkta 185 (11 ṛks) Ṛk 1 OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; Special Topics begun on p. 49 (ends mid-sentence at 'as the Śruti'; continue on printed p. 50 / PDF 68). Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185.
+
+### Printed p. 50  (PDF 68)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185".)* — sentences themselves make known. Having learned in what way the derivation (*nirvacana*) of this word is given in the Brāhmaṇas and elsewhere, let us then examine what the form of this rite is.
+
+> ते देवा एतमभिप्लवं समभरन् । तेनाभ्यप्लवन्त । तदभिप्लवस्याभिप्लवत्वं ।
+
+> *te devā etamabhiplavaṃ samabharan | tenābhyaplavanta | tadabhiplavasyābhiplavatvaṃ |*
+
+(Jaiminīya Brāhmaṇa II. 440. 3, as printed) (Gloss, mine and tentative: "The gods brought together this Abhiplava; by it they leapt across; that is the Abhiplava-ness of the Abhiplava.")
+
+By these sentences the purport of the word *abhiplava* is made known in the Jaiminīya Brāhmaṇa. When the asuras belonging to the band called Paṇi carried off the cows, Indra sent the divine bitch called Saramā to search for those cows. That she found the asuras' place, held a conversation with them and afterwards reported the news to the gods — this matter is told elsewhere. In some places it is described that this same Saramā acted favourably to the gods, and in some other places that she acted out of a selfish view so as to be hostile to the gods: such is the opinion of some. In the present case, in the Jaiminīya Brāhmaṇa sentence cited above, it is said that by Saramā's help the gods crossed over their trouble, and since it was helpful to their crossing (*abhiplava*), they performed the Abhiplava sacrifice. Because it is said that by performing this sacrifice they crossed their calamity, it bears the name Abhiplava: thus its purport and its use are made known.
+
+Likewise,
+
+> त आदित्याः । चतुर्भिस्स्तोमैश्चतुर्भिः पृष्ठैर्लघुभिः सामभिः
+> स्वर्गं लोकमभ्यप्लवन्त यदभ्यप्लवन्त तस्मादभिप्लवाः ।
+
+> *ta ādityāḥ | caturbhisstomaiścaturbhiḥ pṛṣṭhairlaghubhiḥ sāmabhiḥ*
+> *svargaṃ lokamabhyaplavanta yadabhyaplavanta tasmādabhiplavāḥ |*
+
+(Śa. Brā. 12 2-2-10, as printed) (Gloss, mine and tentative: "Those Ādityas, by four stomas, four pṛṣṭhas, light sāmans, leapt across to the heaven-world; because they leapt across, therefore [they are] the Abhiplavas.")
+
+On the days of the Abhiplava sacrifice the gods, by reciting four *pṛṣṭha*-sāmans, crossed to the heaven-world; because they crossed thus (*yadabhyaplavanta*), this rite got the name Abhiplava — a purport indicating the context of a story is stated. Showing that, besides this kind of derivation, there is another reason too for this name, another kind of meaning is stated:
+
+> एतद्ध स्म वै तद्विद्वानाह पैङ्ग्यः । प्लवन्ते इव वाऽभिप्लवास्तिष्ठतीव पृष्ठ्यः
+> इति प्लवत इव ह्ययमङ्गैस्तिष्ठतीवात्मनेति ।
+
+> *etaddha sma vai tadvidvānāha paiṅgyaḥ | plavante iva vā 'bhiplavāstiṣṭhatīva pṛṣṭhyaḥ*
+> *iti plavata iva hyayamaṅgaistiṣṭhatīvātmaneti |*
+
+(Śa. Brā. 12-2-4-8) (Gloss, mine and tentative: "Knowing this, Paiṅgya said: 'The Abhiplavas, as it were, float; the Pṛṣṭhya, as it were, stands' — for this [body] floats, as it were, with its limbs, and stands, as it were, with its trunk.")
+
+Paiṅgya, the disciple of Yājñavalkya, knew the nature of the Abhiplava and of the Pṛṣṭhya. Knowing their secret he said: "Because it has a nature consisting of floating (*plavana*) it is Abhiplava, and because it has a stable nature it is Pṛṣṭhya — these are the names of these two rites (Abhiplava and Pṛṣṭhya)": this purport too is explained in the Śatapatha Brāhmaṇa. In sum, whether gods or men, this *(continues on the next page)*
+
+### Printed p. 51  (PDF 69)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* — rite: because by performing it they cross over calamity, the derivation has been stated so as to indicate its greatness. In the present sūkta too, in the prayer "द्यावा रक्षतं पृथिवी नो अभ्वात्" (*dyāvā rakṣataṃ pṛthivī no abhvāt*) there is the plea "protect us from great fear"; so if these mantras are recited at the time of the Abhiplava sacrifice one can cross out of calamity. This Abhiplava holds a principal place from the spiritual point of view too. It is a member (*aṅga*) of the sacrifice called "Gavāmayana". The "Gavāmayana" is of the nature of the year (*saṃvatsara*). Man (*puruṣa*) too is of the nature of the year. If the Abhiplava is a member of the Gavāmayana, which is of the nature of the year, it must also be a member of the principle of Puruṣa, which is of the nature of the year. Describing this very thing, the Śatapatha, in "पुरुषो वै संवत्सरः . . . . उरोऽभिप्लवः" (*puruṣo vai saṃvatsaraḥ . . . . uro'bhiplavaḥ*), gives its description thus: if the year itself reflects the principle of Puruṣa, then the Abhiplava is his chest, and so on (Śa. Brā 12-1-4-1). The principal means for crossing the ocean that is of the nature of the year (the ocean in the form of the *sattra*) is the Abhiplava: "प्रस्नेयोऽभिप्लवः" (*prasneyo'bhiplavaḥ*, as printed) (Śa. Brā. 12-2-1-1). Āruṇeya Śvetaketu, knowing this principle of the year, makes known the greatness of the Abhiplava:
+
+> तदाहुः । कस्मादुभयतो ज्योतिषोऽभिप्लवा भवन्त्यन्यतो ज्योतिः पृष्ठ्य
+> इतीमे वै लोका अभिप्लवा उभयतो ज्योतिषो वा इमे लोकाः ॥
+
+> *tadāhuḥ | kasmādubhayato jyotiṣo 'bhiplavā bhavantyanyato jyotiḥ pṛṣṭhya*
+> *itīme vai lokā abhiplavā ubhayato jyotiṣo vā ime lokāḥ ‖*
+
+(Śa. Brā. 12-2-2-1) (Gloss, mine and tentative: "So they ask: why are the Abhiplavas lighted on both sides, the Pṛṣṭhya lighted on one side? These worlds are the Abhiplavas; and these worlds are lighted on both sides.")
+
+The Abhiplava shines with light of both forms. These worlds themselves (heaven, earth and the mid-region) are the Abhiplavas. This Abhiplava shines both through the portion of the earth, by light in the form of the terrestrial Agni, and through the portion of the heavenly world, by light in the form of Āditya. "त आदित्याः स्वर्गं लोकमभ्यप्लवन्त" (*ta ādityāḥ svargaṃ lokamabhyaplavanta*) — by this very boat in the form of the Abhiplava the Ādityas (together with the Aṅgirases) reached the heavenly world: in this and many other ways the nature of the Abhiplava is described. Since heaven and earth themselves are of the form of the Abhiplava, the description and praise of heaven and earth at the time of this rite is natural. Moreover, stating the identity of the Jyotiṣṭoma and the others, which are members of the Abhiplava, with heaven and earth, the Aitareya Brāhmaṇa describes it thus:
+
+> ज्योतिर्गौरायुरिति स्तोमेभिर्यन्त्ययं वै लोको ज्योतिरन्तरिक्षं
+> गौरसौ लोक आयुः स एवैष उत्तरस्त्र्यहः ज्योतिर्गौरायुरिति त्रीण्यहानि
+> गौरायुर्ज्योतिरिति त्रीणि । अयं वै लोको ज्योतिरसौ लोको
+> ज्योतिस्ते एते ज्योतिषी उभयतः संलोकेते । तेनैतेनोभयतो
+> ज्योतिषा षळहेन यन्ति तद्यदेतेनोभयतो ज्योतिषा षळहेन यन्त्य-
+> नयोरेव तल्लोकयोरुभयतः प्रतितिष्ठन्तो यन्त्यस्मिंश्च लोकेऽ-
+> मुष्मिंश्चोभयोः ॥
+
+> *jyotirgaurāyuriti stomebhiryantyayaṃ vai loko jyotirantarikṣaṃ*
+> *gaurasau loka āyuḥ sa evaiṣa uttarastryahaḥ jyotirgaurāyuriti trīṇyahāni*
+> *gaurāyurjyotiriti trīṇi | ayaṃ vai loko jyotirasau loko*
+> *jyotiste ete jyotiṣī ubhayataḥ saṃlokete | tenaitenobhayato*
+> *jyotiṣā ṣaḷahena yanti tadyadetenobhayato jyotiṣā ṣaḷahena yantya-*
+> *nayoreva tallokayorubhayataḥ pratitiṣṭhanto yantyasmiṃśca loke '-*
+> *muṣmiṃścobhayoḥ ‖*
+
+(Ai. Brā. 18-1) (Gloss, mine and tentative: "They go with the stomas *jyotiḥ, gauḥ, āyuḥ*: this world is *jyotis*, the mid-region *gauḥ*, yonder world *āyuḥ*; that same is the later three-day rite — *jyotiḥ, gauḥ, āyuḥ* three days, *gauḥ, āyuḥ, jyotiḥ* three. This world is light, yonder world is light; these two lights look at each other from both sides. With this six-day rite lighted on both sides they go; in that they go with it, they go standing firm on both sides in these two worlds, in this world and in yonder, in both.")
+
+---
+
+**Progress note:** Done through printed p. 51 (PDF 69). Sūkta 185 Ṛk 1 OPEN: Special Topics (Abhiplava) continue past p. 51 (after the Ai. Brā. 18-1 citation). Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185.
