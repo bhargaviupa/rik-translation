@@ -54,5 +54,21 @@
   "old": "1-61-3 [?]; 1-122-8 [?]; 6-23-10 [?]",
   "new": "1-61-2 [?]; 1-122-8; 6-23-10",
   "note": "zoom 500dpi: ೧-೬೧-(curled 2); ೧-೧೨೨-೮; ೬-೨೩-೧೦ legible. 1-22-20 seen unflagged. 10-83-6, 1-141-8, Bṛhaddevatā 4-36 and the 'viparyayam' quote not viewed (left as is)."
+ },
+ {
+  "pdf": 304,
+  "printed": 284,
+  "status": "resolved",
+  "old": "स्तोतृजनानसि [?] (stotṛjanān asi [?]); IAST preyanti / stotrādipreyitṝn",
+  "new": "स्तोतृजनानपि (stotṛjanān api); prerayanti / stotrādiprerayitṝn",
+  "note": "220dpi: print ಸ್ತೋತೃಜನಾನಪಿ; IAST line had dropped -ra-. Also noted (not changed): print has ಸಮುದ್ದ್ರವಣಾಪಾದಾನ (doubled d) where file reads samudravaṇā-."
+ },
+ {
+  "pdf": 305,
+  "printed": 285,
+  "status": "resolved",
+  "old": "मुखत्स्त्रिवृतं; रथन्तरं साम",
+  "new": "मुखतस्त्रिवृतं; रथन्तरग्ंसाम (as printed ರಥಂತರಗ್ಂಸಾಮ)",
+  "note": "220dpi: rest of the Taittirīya quote through 'madhyatas-' (page end) agrees with file; remainder is on p.286 (not viewed). Reference number on this page not present (quote has none printed here)."
  }
 ]
