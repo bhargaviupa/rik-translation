@@ -478,5 +478,37 @@
   "old": "Ni. 2-… [?], 2-11 [?]; Ṛ.Saṃ. 1-61-6, 5-31-4, 1-121-12, 8-100-9 [?]",
   "new": "Ni. 3-9; Ni. 3-11; refs without [?]",
   "note": "190dpi: battle-names ref ೩-೯ and vajra ref ೩-೧೧ both begin with the hooked 3-glyph (the vajra ref also read 3-11 on p.332). IMPORTANT: this shows that the hooked glyph followed by ೯ in the Nirukta refs on pp.280/281/306/309 is 3-9, not 2-9 — see recheck note."
+ },
+ {
+  "pdf": 0,
+  "printed": 280,
+  "status": "resolved",
+  "old": "Ni. 2-9 [?] (p.280, battle names)",
+  "new": "Ni. 3-9 [?]",
+  "note": "Recheck after the p.332/p.340 calibration: the glyph before ‘-೯’ is the hooked 3 (as in the vajra ref ೩-೧೧ and battle ref ೩-೯ on p.340)."
+ },
+ {
+  "pdf": 0,
+  "printed": 281,
+  "status": "resolved",
+  "old": "Ni. 2-7 [?] (food names), first Ni. 2-17 [?] (battle names)",
+  "new": "Ni. 3-9 [?]; Ni. 3-9 [?]",
+  "note": "Same recheck as p.280; the second ‘2-17’ on p.281 and ‘3-16’ not re-viewed."
+ },
+ {
+  "pdf": 0,
+  "printed": 306,
+  "status": "resolved",
+  "old": "Ni. 2-10 [?] (dhana names), Ni. 2-17 [?] (mīḷhe, battle names)",
+  "new": "Ni. 3-9 [?]; Ni. 3-9 [?]",
+  "note": "Same recheck: both prints read hooked-3 ‘-೯’ at 650dpi earlier; earlier I wrote that the print did not match 2-10/2-17."
+ },
+ {
+  "pdf": 0,
+  "printed": 309,
+  "status": "resolved",
+  "old": "Ni. 2-9 [?] (jīra, kṣipra names)",
+  "new": "Ni. 3-9 [?]",
+  "note": "Same recheck (hooked 3 before ‘-೯’)."
  }
 ]

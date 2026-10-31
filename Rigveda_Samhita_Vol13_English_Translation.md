@@ -7009,7 +7009,7 @@ Those people, who, jointly worshipping Indra, diligently endeavour, O hero, to p
 
 In this ṛk it is described that the Maruts (the Marut deities), the companions of Indra, ever practise and cause to practise the giving of strength to Indra in the time of battles, and that the extraordinary help of the Maruts is thus available. In the same way, the sacrificers also, when they perform sacrifices, strive to worship Indra in the sacrifices; this too is described.
 
-***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 2-9 [?]). And the Nirukta-writers, showing the derivation of this word, say:
+***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 3-9 [?]). And the Nirukta-writers, showing the derivation of this word, say:
 
 > समदः संमदो वा मदतेः ; संमुदो वा मदतेः ।
 
@@ -7035,7 +7035,7 @@ In this ṛk it is described that the Maruts (the Marut deities), the companions
 
 ***sajoṣasaḥ kṣoṇīḥ — saha sevamānāḥ samānaprītayo vā kṣoṇyo viśaḥ parijanāḥ*** — having explained these two words as epithets of the Marut deities, he gives the meaning. Though the Marut deities are many (forty-nine in number, by the usual count — *ekonapañcāśat saṃkhyākāḥ*), they are affectionate toward one another through their oneness; or, as friends of Indra, all serve him with the same kind of love: so he explains the sense — that they are like Indra's subjects, though friends.
 
-***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 2-7 [?]), among the names of battle (Ni. 2-17 [?]), and as the name of a person (Ni. 11-12), and then quotes
+***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 3-9 [?]), among the names of battle (Ni. 3-9 [?]), and as the name of a person (Ni. 11-12), and then quotes
 
 > पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
 
@@ -7752,7 +7752,7 @@ The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprin
 
 > *vājayann iva nū rathān yogāṁ agner upa stuhi | yaśastamasya mīḷhuṣaḥ ‖*
 
-(Ṛ. Saṃ. 2-8-1). In all such ṛks it means *phalasya sektā*, "the sprinkler of the fruit", that is, "one who grants desired objects". In the ṛk at hand it is "one who sends down rain". The word *mīḷhuṣ*, derived from this root, is read by the Nirukta-writers among the names of wealth (Ni. 2-10 [?]) and the word *mīḷhe* among the names of battle (Ni. 2-17 [?]); their special meanings are explained in the respective contexts.
+(Ṛ. Saṃ. 2-8-1). In all such ṛks it means *phalasya sektā*, "the sprinkler of the fruit", that is, "one who grants desired objects". In the ṛk at hand it is "one who sends down rain". The word *mīḷhuṣ*, derived from this root, is read by the Nirukta-writers among the names of wealth (Ni. 3-9 [?]) and the word *mīḷhe* among the names of battle (Ni. 3-9 [?]); their special meanings are explained in the respective contexts.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
@@ -7862,7 +7862,7 @@ This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to ou
 
 > *manuṣvad deva dhīmahi pracetasaṃ jīraṃ dūtam amartyam |*
 
-(Ṛ. Saṃ. 1-44-11) — in this ṛk, showing the derivation of the word *jīra*, Sāyaṇa says that it is formed from the root *jū* (*jorī ca*, Uṇ. Sū. 2-191 [?]) and gives the meaning "*śatrūṇāṃ vayohānikaram*" ("that which causes loss of life to enemies"). Here *jīraṃ* is an epithet of Agni. The derivation is possible also from the root *jyā vayohānau* ("to age, to lose strength"), as is learnt from this meaning. The Nirukta-writers have read the word *jīra* among the names of the "swift" (Ni. 2-9 [?]).
+(Ṛ. Saṃ. 1-44-11) — in this ṛk, showing the derivation of the word *jīra*, Sāyaṇa says that it is formed from the root *jū* (*jorī ca*, Uṇ. Sū. 2-191 [?]) and gives the meaning "*śatrūṇāṃ vayohānikaram*" ("that which causes loss of life to enemies"). Here *jīraṃ* is an epithet of Agni. The derivation is possible also from the root *jyā vayohānau* ("to age, to lose strength"), as is learnt from this meaning. The Nirukta-writers have read the word *jīra* among the names of the "swift" (Ni. 3-9 [?]).
 
 > दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्नमिष्टये । प्राचीनरश्मिमाहुतं घृतेन तद्देवानामवो अद्या वृणीमहे ॥
 
