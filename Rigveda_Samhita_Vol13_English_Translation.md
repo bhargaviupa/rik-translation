@@ -1902,7 +1902,7 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ***sudhitā*** — *suṣṭhu nihitā suṣṭhu hitā vā*: "well placed" or "very beneficial". Two kinds of meaning are given: that which does good to the world, or that which is known as lovely to all in the world.
 
-***ghṛtācī hiraṇyanirṇik ṛṣṭiḥ*** — *ghṛtaṃ kṣaraṇaśīlam udakam añcati hitaramaṇīyarūpā vidyudākhyāyudhaviśeṣo vā*: [Sāyaṇa]. The word *nirṇik* is read among the names of form (Ni. 2-13 [?]); the word *ghṛta* is also read among the names of water (Ni. 1-12 [?]). The meaning given is: the Marut-gods produce a weapon, lightning (*vidyut*), which has a form beneficial to the people of the world, joined with water that flows in liquid form. By the special action of their motion the Marut-gods produce the weapon, lightning (*aśani*), in the waters.
+***ghṛtācī hiraṇyanirṇik ṛṣṭiḥ*** — *ghṛtaṃ kṣaraṇaśīlam udakam añcati hitaramaṇīyarūpā vidyudākhyāyudhaviśeṣo vā*: [Sāyaṇa]. The word *nirṇik* is read among the names of form (Ni. 3-13); the word *ghṛta* is also read among the names of water (Ni. 1-12 [?]). The meaning given is: the Marut-gods produce a weapon, lightning (*vidyut*), which has a form beneficial to the people of the world, joined with water that flows in liquid form. By the special action of their motion the Marut-gods produce the weapon, lightning (*aśani*), in the waters.
 
 ***upara na saṃ mimyakṣa*** — *meghapaṅktir vidyutā … ime api saṃgate ity arthaḥ*: the word *upara* is stated among the names of the cloud (Ni. 1-[?]). The Marut-gods, by making in the waters two kinds of change, the fluid nature and the dense (thickening) nature, in that, the line of clouds and the lightning join together; and in their body of this form is borne the weapon known as *ṛṣṭi*, the *aśani*, and they are seen in the world with lightning as with a garland of clouds — thus the form of the Maruts' special weapon is compared with the form together with cloud and lightning. Yāska — *(Printer's signature at the foot: "XIII 6".)* *[continues on the next page]*
 
@@ -2183,7 +2183,7 @@ The sun's course is swift; so the wife of the Marut-gods mounts the swiftly movi
 
 ***śubhe*** — *śobhate dīpyate iti śubhudakaṃ vṛṣṭyudakārthaṃ | śubhe rathe iti vā yojyam*: by the derivation "that which shines", water is named *śubh*, [meaning "for the sake of the water of rain", that is,] for giving water in the form of rain; or, as another meaning, "in your auspicious chariot".
 
-***arkaḥ*** — *arcanasādhanamantropetaḥ stotā vā*: "the praiser, endowed with a mantra as the means of worship". The word *arka* is stated among the names of food (Ni. 2-7 [?]) and among the names of the thunderbolt (Ni. 2-11 [?]).
+***arkaḥ*** — *arcanasādhanamantropetaḥ stotā vā*: "the praiser, endowed with a mantra as the means of worship". The word *arka* is stated among the names of food (Ni. 2-7 [?]) and among the names of the thunderbolt (Ni. 3-11).
 
 > अर्कः । अर्को देवो भवति यदेनमर्चन्ति । अर्को मन्त्रो भवति यदनेनार्चन्ति । अर्कमन्नं भवत्यर्चन्ति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥
 

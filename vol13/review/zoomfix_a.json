@@ -2270,5 +2270,21 @@
   "old": "(Ṛ. Saṃ. 2-2-2 [?])",
   "new": "(Ṛ. Saṃ. 2-2-2)",
   "note": "User's spreadsheet spreadsheet Kannada_Numerals_Page_Extraction_Vol13.xlsx (printed pp.181-266): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 101,
+  "printed": 81,
+  "status": "resolved",
+  "old": "(Ni. 2-13 [?])",
+  "new": "(Ni. 3-13)",
+  "note": "User's spreadsheet spreadsheet Kannada_Numerals_Pages_81_100.xlsx (printed pp.81-100): 0 confirmed ([?] dropped); changed to the sheet's value: 2-13->3-13; not viewed by me."
+ },
+ {
+  "pdf": 115,
+  "printed": 95,
+  "status": "resolved",
+  "old": "(Ni. 2-11 [?])",
+  "new": "(Ni. 3-11)",
+  "note": "User's spreadsheet spreadsheet Kannada_Numerals_Pages_81_100.xlsx (printed pp.81-100): 0 confirmed ([?] dropped); changed to the sheet's value: 2-11->3-11; not viewed by me."
  }
 ]
