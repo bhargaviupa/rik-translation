@@ -574,5 +574,13 @@
   "old": "Pada ‘iti kaḥ [?]’; bhāṣya ‘krāntenocāno vā [?]’, ‘prāṇyupakṣayitre’, ‘cāyanīyāḥ [?]’",
   "new": "Pada ‘kar iti kaḥ’ (print ಕರಿತಿ ಕಃ); ‘krāntadarśy anūcāno vā’; ‘prāṇyupakṣapayitre’; ‘cāyanīyāḥ’",
   "note": "230dpi: Pada and bhāṣya of Ṛk 7 compared line by line. Not resolved: ‘nimittabhūte sati/pati rapat’ (print letter ಪ/ಸ unclear), ‘karoter luñ/luṅ’; ‘durpayonau’ looks right (ದುಷ್ಪಯೋನೌ) and is unchanged."
+ },
+ {
+  "pdf": 369,
+  "printed": 349,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-10-1 [?]; Ni. 2-19 [?]; Ni. 2-10 [?] (magha = wealth names)",
+  "new": "1-10-1; Ni. 2-19; Ni. 3-9",
+  "note": "190dpi: ೧-೧೦-೧, ನಿ.೨-೧೯, and the wealth-names ref reads ನಿ.೩-೯ (hooked 3). The arka/arkin Nirukta quotes at the top not compared word by word."
  }
 ]
