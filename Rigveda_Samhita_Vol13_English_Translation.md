@@ -9762,15 +9762,15 @@ You are a hero, a benefactor, accelerate the vehicle of man (that bears him to h
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
 
-***sahāvān — somasahāyavān balavān vā*** — the word *sahaḥ* is read among the names of strength (Ni. 2-9 [?]). The Nirukta-writers, the word *sahāvān* —
+***sahāvān — somasahāyavān balavān vā*** — the word *sahaḥ* is read among the names of strength (Ni. 3-9). The Nirukta-writers, the word *sahāvān* —
 
 > त्यमू षु वाजिनं देवजूतं सहावानं तरुतारं रथानाम् । अरिष्टनेमिं पृतनाजमाशुं स्वस्तये तार्क्ष्यमिहा हुवेम ॥
 
 > *tyam ū ṣu vājinaṃ devajūtaṃ sahāvānaṃ tarutāraṃ rathānām | ariṣṭanemiṃ pṛtanājam āśuṃ svastaye tārkṣyam ihā huvema ‖*
 
-(Ṛ. Saṃ. 10-178-1 [?]) — has been explained as *sahasvantam* in the ṛk quoted. Durgācārya: "*sahāvānaṃ sahaḥ balaṃ tena tadvantam*" — he explained *sahas* as strength, and the word as "one who has it". Sāyaṇa here describes Indra as one who has Soma as a helper, or as one possessed of strength.
+(Ṛ. Saṃ. 10-178-1) — has been explained as *sahasvantam* in the ṛk quoted. Durgācārya: "*sahāvānaṃ sahaḥ balaṃ tena tadvantam*" — he explained *sahas* as strength, and the word as "one who has it". Sāyaṇa here describes Indra as one who has Soma as a helper, or as one possessed of strength.
 
-***dasyuṃ — upakṣapayitāram*** — Yāska: "*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasāḥ upadāsayati iti karmāṇi*" (Ni. 7-23 [?]) — the word *dasyu*, formed from the root *dasu* meaning "to injure, destroy", is explained in the sense: "that in which the waters are dried up, the rites destroyed". Sāyaṇa has given the meaning "destroyer".
+***dasyuṃ — upakṣapayitāram*** — Yāska: "*dasyur dasyateḥ kṣayārthād upadasyanty asmin rasāḥ upadāsayati iti karmāṇi*" (Ni. 7-23) — the word *dasyu*, formed from the root *dasu* meaning "to injure, destroy", is explained in the sense: "that in which the waters are dried up, the rites destroyed". Sāyaṇa has given the meaning "destroyer".
 
 This word *dasyuṃ* is used as an epithet of the word *avratam*. For the word *avratam*, "*akarmāṇam ananuṣṭhāyinaṃ*" is the meaning given — "the one who destroys all, without performing acts of sacrifice". The command "burn" (*daha* for *oṣaḥ*) is also given for Indra here. In this connection: "*śociṣā pātraṃ na jvālayāgniḥ svādhāraṃ pātraviśeṣam iva*" — as fire, by its flame, burns the fuel that is its support, a fuel-vessel; "*yogādhikārī yo na yajate taṃ daha*" — even the man who has the qualifications for performing sacrifice, but remains inactive, without performing the sacrifice, may be burned by Indra; this is said by way of a simile.
 
