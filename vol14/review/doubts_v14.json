@@ -34,5 +34,41 @@
   ],
   "note": "ZOOMED (band missed the reference line); ref read from strip as (Ṛ. Saṃ. 1. 179. 6)",
   "answer": ""
+ },
+ {
+  "pdf": 26,
+  "printed": 8,
+  "crop": [
+   0.3,
+   0.95,
+   0.3,
+   0.6
+  ],
+  "note": "ZOOMED, read: Prātaranuvāka tables: 1-74-1, 1-45-1, 5-1-1, 7-16-1, 1-79-4, 5-11-1, 5-6-1; 4-52-1, 1-49-1, 1-113-1, 7-8[?]-1, 1-92-13, 1-92-1, 5-79-1; 1-46-1, 5-73-1, 5-76-1, 7-74-1, 1-92-16",
+  "answer": ""
+ },
+ {
+  "pdf": 26,
+  "printed": 8,
+  "crop": [
+   0.7,
+   0.74,
+   0.4,
+   0.55
+  ],
+  "note": "UNDECIDED: pratyu adarśi reference 7-8[?]-1, second digit of middle group (1 or 2)",
+  "answer": ""
+ },
+ {
+  "pdf": 26,
+  "printed": 8,
+  "crop": [
+   0.52,
+   0.56,
+   0.0,
+   0.5
+  ],
+  "note": "UNDECIDED: सप्तच्छन्दांस्याग्नेये [?] (print looks like ಛಂದಾಸಾಗ್ನೇಯೇ)",
+  "answer": ""
  }
 ]
