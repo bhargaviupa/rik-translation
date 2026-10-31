@@ -7870,5 +7870,77 @@
   ],
   "note": "ZOOMED, read: 'vasatau' (au-sign)",
   "answer": ""
+ },
+ {
+  "pdf": 200,
+  "printed": 182,
+  "crop": [
+   0.271,
+   0.302,
+   0.625,
+   0.806
+  ],
+  "note": "ZOOMED, read: 'asmālokātpretya' (single la, no la-subscript) as printed (Tai. U. 3-10)",
+  "answer": ""
+ },
+ {
+  "pdf": 200,
+  "printed": 182,
+  "crop": [
+   0.34,
+   0.366,
+   0.648,
+   0.816
+  ],
+  "note": "ZOOMED (three tries), read: 'imān lokān' (both halant na)",
+  "answer": ""
+ },
+ {
+  "pdf": 200,
+  "printed": 182,
+  "crop": [
+   0.385,
+   0.413,
+   0.514,
+   0.816
+  ],
+  "note": "ZOOMED, read: 'ahamannādo'2 hamannādo'2-' — round 2-like glyph after the avagraha (pluta 3 expected; hā3vu uses the hooked 3), as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 201,
+  "printed": 183,
+  "crop": [
+   0.383,
+   0.407,
+   0.203,
+   0.404
+  ],
+  "note": "ZOOMED (two tries), read: 'dīyate ca paṃkliṣṭaṃ' as printed (parikliṣṭam expected; the Gītā rājasa verse)",
+  "answer": ""
+ },
+ {
+  "pdf": 202,
+  "printed": 184,
+  "crop": [
+   0.654,
+   0.682,
+   0.643,
+   0.806
+  ],
+  "note": "ZOOMED (two tries), read: 'Anu. 5-7' (first digit ಜ/ಣ-like = 5; second flat-footed = 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 202,
+  "printed": 184,
+  "crop": [
+   0.792,
+   0.816,
+   0.578,
+   0.741
+  ],
+  "note": "ZOOMED (two tries), read: 'Ṛgvi. 1-27' (hooked glyph = 2 as in header A. 24, flat-footed = 7; cf. p. 177 Ṛgvidhāna 1-27)",
+  "answer": ""
  }
 ]
