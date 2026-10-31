@@ -1058,4 +1058,168 @@ From some further descriptions it is understood that identity is stated between 
 
 ---
 
-**Progress note:** Done through printed p. 31 (PDF 49). Sūkta 184 Ṛk 3 OPEN: Special Topics continuing (Sūryā note: Sūryā-sūkta ṛks 10-85-9/10/11 and Bṛhaddevatā on Sūryā as Vāk quoted; page ends after Bṛ. De. 2. 81); continue on printed p. 32 (PDF 50), still Special Topics, then Ṛk 3's grammar page. Flags pp. 26–31: Bṛhadde. 2[?]. 8–10 (curled glyph, read 2 also at 2. 79, 2. 81), अमुतोऽर्वाङ् [?] (p. 26); p. 26 सूर्यः स्वरथे as printed; p. 27 स्यैव as printed; p. 30 स्यैवपत्नी विशेषतः as printed. Earlier flags: see vol14/review/doubts_v14.json.
+### Printed p. 32  (PDF 50)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* …by such verses (it is made known that) Vāk, of the nature of Śabdabrahman, is stationed in the antarikṣa in the form of Sūryā. She is described as Sūryā, as the goddess Uṣas, as Gaurī and as Sarasvatī. The greatness of this Vāk has been explained in detail earlier in the Special Topics of Ṛk 1. 164. 45 [?]. Since identity with Vāk is thus stated, a marital relation between Sūryā and the Gandharva is also implied. How Sūryā fell to the Gandharva who had received Soma is described in the last ṛks of the Sūryā-sūkta, as follows.
+
+> तुभ्यमग्रे पर्यवहन्त्सूर्यां वहतुना सह ।
+> पुनः पतिभ्यो जायां दा अग्ने प्रजया सह ॥
+> पुनः पत्नीमग्निरदादायुषा सह वर्चसा ।
+> दीर्घायुरस्या यः पतिर्जीवाति शरदः शतं ॥
+> सोमः प्रथमो विविदे गन्धर्वो विविद उत्तरः ।
+> तृतीयो अग्निष्टे पतिस्तुरीयस्ते मनुष्यजाः ॥
+> सोमो ददद्गन्धर्वाय गन्धर्वो दददग्नये ।
+> रयिं च पुत्रांश्चादादग्निर्मह्यमथो इमां ॥
+
+> *tubhyamagre paryavahantsūryāṃ vahatunā saha |*
+> *punaḥ patibhyo jāyāṃ dā agne prajayā saha ‖*
+> *punaḥ patnīmagniradādāyuṣā saha varcasā |*
+> *dīrghāyurasyā yaḥ patirjīvāti śaradaḥ śataṃ ‖*
+> *somaḥ prathamo vivide gandharvo vivida uttaraḥ |*
+> *tṛtīyo agniṣṭe patisturīyaste manuṣyajāḥ ‖*
+> *somo dadadgandharvāya gandharvo dadadagnaye |*
+> *rayiṃ ca putrāṃścādādagnirmahyamatho imāṃ ‖*
+
+(Ṛ. Saṃ. 10-85-38 to 41.) (Gloss, mine and tentative: "For you, Agni, they carried Sūryā round with her bridal train; give the wife back to the husbands, Agni, with offspring. Agni gave the wife back, with life and splendour; may her husband be long-lived and live a hundred autumns. Soma first found her, the Gandharva found her next; Agni was your third husband; the fourth is born of men. Soma gave her to the Gandharva, the Gandharva gave her to Agni; Agni gave me wealth and sons, and this woman as well.")
+
+— in these ṛks it is stated that Sūryā was given first to Agni, then from Agni to Soma, from Soma to the Gandharva, and from the Gandharva again to Agni. The relation between this Gandharva and Soma is made known elsewhere. The story of Soma giving the goddess Vāk to the Gandharva is told in the Aitareya Brāhmaṇa as follows.
+
+> सोमो वै राजा गन्धर्वेष्वासीत्तं देवाश्च ऋषयश्चाभ्यध्यायन्कथमयमस्मान्सोमो राजागच्छेदिति सा वागब्रवीत्स्त्रीकामा वै गन्धर्वा मय्येव स्त्रिया भूतया पणध्वमिति नेति देवा अब्रुवन्कथं वयं त्वदृते स्यामेति साब्रवीत्क्रीणेत्येव [?] यर्हि वाव वो मयार्थो भविता तर्ह्येव वोऽहं पुनरागन्तास्मीति तथेति तया महानग्न्या भूतया सोमं राजानमक्रीणन् ।
+
+> *somo vai rājā gandharveṣvāsīttaṃ devāśca ṛṣayaścābhyadhyāyankathamayamasmānsomo rājāgacchediti sā vāgabravītstrīkāmā vai gandharvā mayyeva striyā bhūtayā paṇadhvamiti neti devā abruvankathaṃ vayaṃ tvadṛte syāmeti sābravītkrīṇetyeva [?] yarhi vāva vo mayārtho bhavitā tarhyeva vo 'haṃ punarāgantāsmīti tatheti tayā mahānagnyā bhūtayā somaṃ rājānamakrīṇan |*
+
+(Ai. Brā. 3-2 [?].) *(Note: the line is broken after* कथमय- *as printed; the word क्रीणेत्येव is read with doubt, "यर्हि वाव" as printed.)*
+
+Soma the king was among the Gandharvas. The gods and the ṛṣis, too, were considering how they might get him. Then the goddess Vāk, knowing the Gandharvas' passion for women, declared that she herself would become a beautiful woman and could be offered to the Gandharvas and Soma obtained. The gods were unwilling to let her go. Then, when she was desired by them again, she told them she would join them again at their need; and when she gave this assurance, the gods changed her into a naked woman, handed her to the Gandharvas and got Soma — so the story goes.
+
+### Printed p. 33  (PDF 51)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)* Which is this world of the Gandharvas, and what is meant by saying that Sūryā reached this world in the form of Vāk — this too is explained in Sūkta 10-85. The relation of this Sūryā and the Gandharva is described by the scholar Eggeling thus:
+
+> *(English as printed)* The Rigvedic Gandharva was primarily wedded to the hypercosmic Sūryā [printed in Kannada script] — the original immortal abode of Soma — and the wedding of king Soma who was derived from the Gandharva to Sūryā — in other words, the return of the moon to the hypercosmic sphere of the nocturnal Sun — is the happy ending of the Gandharva's drama so tragically started. Soma's dying is not a death, for he is actually re-born through his union with Sūryā.
+
+Thus, as explained above, Sūryā is spoken of now as wife of Soma, now as wife of the Gandharva, and at times as wife of Sūrya. The Aśvin deities are also said to be Sūryā, the moon and so on [?]. In the present ṛk, in "sūryāṃ vahatuṃ" the Aśvin deities are described as seating Sūryā in their three-wheeled chariot.
+
+**अप्सु जातः (*apsu jātāḥ*)** — in the present ṛk, the word *ap* is explained as "sacrificial work". Sāyaṇa, on the authority of the Nirukta sentence "अपः इत्यन्तरिक्षनाम" (Ni. 2-10 [?]), explains *apsu* as "in the antarikṣa" in 1-95-2 [?] and similar places; in 1-104-6 [?] and similar ṛks he explains *abdevatā* the same way. In the ṛk 1-163-4 [?], where *apsu trite* occurs, he says, "because water gives life, the earth too is denoted by the word *ap*", giving the sense "earth". Moreover the word is read among the 26 [?] names of work (karman): *apaḥ*, *apnaḥ* and so on. In the present ṛk, the meaning is "sacrificial work".
+
+**ककुहाः (*kakuhāḥ*)** — the word *kakuha* is read among the names of "great" in the Nirukta (Ni. 3-13 [?]). In the present ṛk the meaning is "worthy-of-worship praises".
+
+**॥ Vyākaraṇa-prakriyā — grammar page, noted briefly (Pā. numerals in small type: `[?]` unless clear).** *śriye* (root *śriñ sevāyām*; *kvip* by "Uṇ. sū. 2-25 [?]", lengthening, dative singular in another form; udātta on the case-ending by *sāvekācas tṛtīyādiḥ*, Pā. 6-1-168 [?]). *iṣukṛtā iva* (root *ḍukṛñ karaṇe*, *kvip*; *tuk* by *hrasvasya piti kṛti tuk*, Pā. 6-1-71 [?]; *kṛdutarapadaprakṛtisvara*; dual *ā* by *supāṃ suluk*). *vahatum* (root *vaha prāpaṇe*; *tumun*, with *aḍāgama*; ending-accent).
+
+### Printed p. 34  (PDF 52)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* *(Grammar page of Ṛk 3, continued.)* **सूर्यायाः (*sūryāyāḥ*)** — *sūryasya iyaṃ sūryā*; by *sūryā-devatāyāṃ cāp vācyaḥ* [as read; Pā. 4-1-48-2 [?]] the *ṭāp* suffix, the sense being that of a deity; genitive in the object sense by *kartṛkarmaṇoḥ kṛti* (Pā. 2-3-65 [?]). **वच्यन्ते (*vacyante*)** — root *brūñ vyaktāyāṃ vāci*, *laṭ* in the passive; *yak* by *sārvadhātuke yak* (Pā. 3-1-67 [?]); *vacādeśa* for *brū* by *bruvo vaciḥ* (Pā. 2-4-53 [?]); *saṃprasāraṇa* of *va* to *u* by *vacisvapiyajādīnām kiti* (Pā. 6-1-15 [?]); no *pūrvarūpa* by *vā chandasi* (Pā. 6-1-106 [?]); *yaṇ* for *u* by *iko yaṇaci*; no *nighāta* accent as it begins a pāda; the *yak* accent remains. **जूर्णा इव (*jūrṇā iva*)** — root *jyuṣ vayohānau* [as read], used in the sense of praise; *kta*; no *iḍ* by *śryukaḥ kiti* (Pā. 7-2-11 [?]); *bahulaṃ chandasi* gives *utva*; accent on the ending; lengthening by *halica* (Pā. 8-2-77 [?]). **रदाभ्यां निष्ठातः (*radābhyāṃ niṣṭhātaḥ*)** (Pā. 8-2-42 [?]) — *natva* after *ra*; *ṇatva* after *ṣ* by the sūtra; neuter plural *śeḥ chandasi bahulam* (Pā. 6-1-70 [?]) with loss of *śi*.
+
+— : o : —
+
+## Sūkta 184, Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अस्मे सा वां माध्वी रातिरस्तु स्तोमं हिनोतं मान्यस्य कारोः ।
+> अनु यद्वां श्रवस्या सुदानू सुवीर्याय चर्षणयो मदन्ति ॥ ४ ॥
+
+> *asme sā vāṃ mādhvī rātirastu stomaṃ hinotaṃ mānyasya kāroḥ |*
+> *anu yadvāṃ śravasyā sudānū suvīryāya carṣaṇayo madanti ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्मे इति । सा । वाम् । माध्वी इति । रातिः । अस्तु । स्तोमम् । हिनोतम् । मान्यस्य । कारोः ।
+
+> *asme iti | sā | vām | mādhvī iti | rātiḥ | astu | stomam | hinotam | mānyasya | kāroḥ |*
+
+### Printed p. 35  (PDF 53)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)*
+
+> अनु । यत् । वाम् । श्रवस्या । सुदानू इति सुऽदानू । सुऽवीर्याय । चर्षणयः । मदन्ति ॥ ४ ॥
+
+> *anu | yat | vām | śravasyā | sudānū iti su 'dānū | su 'vīryāya | carṣaṇayaḥ | madanti ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* May the well-known gift of you two Aśvins, the honey-vessel bearers, be ours; gratify the praise of the revered poet Agastya; men, for glory and heroic strength, take delight after you.
+
+> हे माध्वी मधुपूर्णपात्रयुक्तावश्विनौ वां युवयोः सम्बन्धिनी सा प्रसिद्धा रातिर्दानमस्मे अस्माकमस्तु भवतु । तदर्थं मान्यस्य मननीयस्य कारोः स्तोतुरगस्त्यस्य स्तोमं स्तुतिं हिनोतम् । प्रीणयतम् । हे सुदानू शोभनफलदानौ वां युवां श्रवस्या कीर्तीरन्नस्य वेच्छयो [?] यस्मात्सुवीर्याय यजमानाय शोभनबलाय वा चर्षणयो मनुष्या ऋत्विग्रूपा अनु मदन्ति । अनुक्रमेण माद्यन्ति युवाभ्यां सह स्वयं वा ॥
+
+**Pratipadārtha.** *sudānū* — O Aśvin deities, who give good fruits; *yat* — for which reason; *carṣaṇayaḥ* — men in the form of ṛtvijs; *suvīryāya* — (for the sacrificer, or) for excellent fruit; *śravasyā* — also by desire for food; *vām* — both of you; *anu madanti* — they gratify in order; *mānyasya* — of the honoured one; *kāroḥ* — of the praiser; *agastya's*; *stomam* — the praise; *hinotam* — hear and be gratified; *mādhvī* — O Aśvin deities accompanied by a vessel full of honey; *vām* — coming from you; *sā* — the famed; *rātiḥ* — gift; *asme* — to us; *astu* — be.
+
+**Bhāvārtha.** O Aśvin deities, who give good fruits: because men in the form of ṛtvijs gratify you both in order, for the sake of excellent fruit and out of desire for food, hear the praise of Agastya — honoured, and a praiser — and be gratified. O Aśvins, accompanied by a vessel full of honey, may that famed gift given by you be ours.
+
+**English Translation (as printed):** Receivers of ihe [sic] oblation, may your liberality be displayed towards us : be pleased with the hymn of the venerable author, so that men may honour the institutor of the ceremony, as (they honour) you, liberal donors, for the sake of renown.
+
+### Printed p. 36  (PDF 54)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**सुदानू (*sudānū*)** — *śobhanaphaladānau*: the quality of the Aśvins as givers of auspicious fruits is praised. The word *dānu* is used in many places in the sense of "juice" (*rasa*). *sudānavaḥ* can mean "filled with juice" or "givers of juice"; when this word is used as an epithet of the Maruts, "givers of juice" means those who send down excellent rain-water. For example,
+
+> पिन्वन्त्यपो मरुतः सुदानवः पयो घृतवद्विदथेष्वाभुवः ।
+
+> *pinvantyapo marutaḥ sudānavaḥ payo ghṛtavadvidatheṣvābhuvaḥ |*
+
+(Ṛ. Saṃ. 1-64-6 [?]) (Gloss, mine and tentative: "The bountiful Maruts swell the waters, the milk like ghee, present at the rites.")
+
+— and many similar places it gives the above sense as an epithet of the Maruts. Generous giving may, besides, be a quality not only of gods but of sacrificers.
+
+> इषं पृञ्चन्ता सुकृते सुदानव आ बर्हिः सीदतं नरा ।
+
+> *iṣaṃ pṛñcantā sukṛte sudānava ā barhiḥ sīdataṃ narā |*
+
+(Ṛ. Saṃ. 1-47-8 [?]) (Gloss, mine and tentative: "Mingling nourishment for the pious, O bountiful ones, sit on the barhis, O heroes.")
+
+> सेदग्ने अस्तु सुभगः सुदानुर्यस्त्वा नित्येन हविषा य उक्थैः ।
+
+> *sedagne astu subhagaḥ sudānuryastvā nityena haviṣā ya ukthaiḥ |*
+
+(Ṛ. Saṃ. 4-4-7 [?]) (Gloss, mine and tentative: "He, Agni, would be fortunate and bountiful, who [serves] you with regular oblation and with praises.")
+
+— in such ṛks it is an epithet of sacrificers, as excellent givers. In 1-8?-43-2 [?] and similar ṛks the word *dānu* may also mean Soma-juice. Further,
+
+> उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः ।
+
+> *uttarā sūradharaḥ putra āsīddānuḥ śaye sahavatsā na dhenuḥ |*
+
+(Ṛ. Saṃ. 1-32-9 [?]) (Gloss, mine and tentative: "The mother was above, the son below; Dānu lay like a cow with her calf.")
+
+— in such ṛks the word *dānu* means the demoness (Asura-woman), mother of Vṛtra. The special sense of this word, the derivation of *jīradānu* and its special usages have been given earlier.
+
+**चर्षणयः (*carṣaṇayaḥ*)** — in explaining the word *carṣaṇī* in Ṛ. Saṃ. 1-109-5 [?], Sāyaṇa has given the sense सर्वस्य द्रष्टारौ इन्द्राग्नी (*sarvasya draṣṭārau indrāgnī*). Skandasvāmin too gave this sense first and then (cited) "मनुष्यनाम वा चर्षणीशब्दः (Ni. 3-2 [?]) मनुष्याकारौ वा [?] द्रष्टारौ [?] वा सर्वार्थानाम्"; since the word *carṣaṇi* is read among the names of men, the sense "those who look upon all, in human form" is given. Again, in 1-109-6 [?], Sāyaṇa has explained the word *carṣaṇi* simply as "men".
+
+### Printed p. 37  (PDF 55)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)* The scholar Monier Williams states that it is derived from the root *kṛṣ*; Griffith, from the root *car*. Their discussion has been given in detail in the Ṛgveda Saṃhitā Part 2 and in page 4 [?].
+
+**मान्यस्य (*mānyasya*)** — the special meaning of this word has been explained concisely in the 12th [?] volume of the Ṛgveda Saṃhitā (p. 725). There, on the word in ṛk 1-165-15 [?], Sāyaṇa explained "worthy of worship"; and it was used as an epithet of Agastya. In the Bṛhaddevatā, in telling the order of Agastya's origin, it is said:
+
+> मानेन सम्मितो यस्मात् तस्मान्मान्य इहोच्यते ।
+> यद्वा कुम्भादृषिर्जातः कुम्भेनापि हि मीयते ॥
+
+> *mānena sammito yasmāt tasmānmānya ihocyate |*
+> *yadvā kumbhādṛṣirjātaḥ kumbhenāpi hi mīyate ‖*
+
+(Bṛ. De. 5-153 [?]) (Gloss, mine and tentative: "Because he is measured [*sammita*] by the *māna* [measure], therefore he is here called *mānya*; or because the ṛṣi was born from a jar [*kumbha*], and is measured with a jar.")
+
+It is explained that, because he is worthy of worship, or because he was born in the jar (*kumbha*) which shows the type of *māna* (measure), that is, in the *māna* in the form of a jar, the name *mānya* has become famed for Agastya. The epithets *māndāryasya* and *mānyasya* of Agastya occur in many places. The scholar Max Müller, in explaining the ṛk 1-165-15 [?], says:
+
+*(English as printed, continuing on the next page)* — "I translate *mānya*, the son of *māna*, because the poet is so called in I-189-8 [as printed] is in all probability the same as our *māndārya*, *mānya*. But it may also be *mānya*, descendant of *māndāri*." (S. B. E. XXXII. P. 206) *(Kannada-script words in the English are given here in Devanagari; the printed sentence is incomplete as it stands: "…is so called in I-189-8 is in all probability…", sic.)*
+
+The word *māna*, as a proper name, is the name of an ancestor, say the English scholars. For example, Keith has said:
+
+> *(English as printed)* "*Māna* is the name of man occuring [sic] in several passages of the Rig-veda. In one place, express mention is made of his son (*sūnu*) by whom *Agastya* must have been meant. In another passage, apparently the same meaning applies to *Māna* — ie. *Agastya* as *Māna*." [Index to Vedic names and subjects by Madconell & Keith. Vol. II. p. 152.]
+
+That is,
+
+> अवोचाम निवचनान्यस्मिन्मानस्य सूनुः सहसाने अग्नौ ।
+> वयं सहस्रमृषिभिः सनेम विद्यामेषं वृजनं जीरदानुम् ॥
+
+> *avocāma nivacanānyasminmānasya sūnuḥ sahasāne agnau |*
+> *vayaṃ sahasramṛṣibhiḥ sanema vidyāmeṣaṃ vṛjanaṃ jīradānum ‖*
+
+(Ṛ. Saṃ. 1-189-8.) (Gloss, mine and tentative: "We have spoken our words in this [fire], the son of Māna, in the mighty Agni; may we win a thousand with the ṛṣis, may we find strength, a way, a long-lived giver.") *(The Special Topics of Ṛk 4 continue on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 37 (PDF 55). Sūkta 184 Ṛk 4 OPEN: Special Topics continuing (mānyasya note; Ṛ. 1-189-8 quoted at page end); continue on printed p. 38 (PDF 56), still Special Topics of Ṛk 4, then its grammar page, then Ṛk 5. Ṛk 3 closed (pp. 32-34). Flags pp. 32-37: many small-type numerals [?] (Ṛ./Ni./Pā. refs); Aitareya quotation क्रीणेत्येव / वेच्छयो read with doubt.
