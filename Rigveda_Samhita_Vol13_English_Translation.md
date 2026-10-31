@@ -827,7 +827,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ***pūrbhiḥ*** — *pālanair jetavyaiḥ śatrūṇāṃ nagarair vā*: with acts of protection, or from the enemy cities that [you] conquer and give.
 
-***tavasaḥ*** — *balavanto vegavanto vā*: strong, or swift. The word *tavasaḥ* is read among the twenty-eight names of strength beginning with *mahat*, *bṛhat* (Ni. 3-3 [?]).
+***tavasaḥ*** — *balavanto vegavanto vā*: strong, or swift. The word *tavasaḥ* is read among the twenty-eight names of strength beginning with *mahat*, *bṛhat* (Ni. 3-13).
 
 ***virapśinaḥ*** — *mahannāmaitat | mahāntaḥ | rapaṇeyoḥ śabdā rapsāḥ | te yeṣāṃ te rapśinaḥ | vividhā rapśinaḥ stotāro yeṣāṃ te*: since the word *virapśī* is read among the names of "great" (*mahat*, *bṛhat* and the like, in the list of twenty-eight), (Ni. 3-3 [?]) it *[continues on the next page]*
 
