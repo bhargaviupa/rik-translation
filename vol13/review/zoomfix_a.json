@@ -614,5 +614,13 @@
   "old": "grammar numerals Pā. 6-1-70, 2-4-43, 2-4-77, 3-4-110, 6-1-96, 6-4-75, 6-2-2 [?]; Uṇ. 1-… [?]",
   "new": "Pā. refs without [?] (3-4-110 → 3-4-100); Uṇ. 1-36 [?]",
   "note": "190dpi page view: numerals legible; ‘ātaḥ’ ref prints ೩-೪-೧೦೦ (not 110)."
+ },
+ {
+  "pdf": 375,
+  "printed": 355,
+  "status": "resolved",
+  "old": "तद्वत्क्षन्तेतः [?]; आपालयः; पूरयसि । उदकं; ऋ. ५-३१-८ [?]",
+  "new": "तद्वत्सन्तता; अपालयः; पूरयस्युदकं; ऋ. ५-३१-८",
+  "note": "190/650dpi: print ತದ್ವತ್ಸಂತತಾ ಇತ್ಯರ್ಥಃ, ಅಪಾಲಯಃ, ಪೂರಯಸ್ಯುದಕಂ; ref ೫-೩೧-೮. ‘jalapratirodhakāry asuraḥ’ agrees. The Rg ref of the second entry (Rik 9 …) in the upper part was not viewed."
  }
 ]
