@@ -8377,13 +8377,13 @@ Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brā
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
-- ***danaḥ*** — root *damu upaśame*; *laṅ*, second person singular, *sip*; "*itaś ca*" (Pā. Sū. 3-4-100 [?]) drops the *i*; the root includes *ṇic* in its sense; by "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75 [?]) the augment *a* does not occur. Or *ṇada avyakte śabde* — in the Veda a transposition of letters is found; because of *pādādi* position, no *nighāta*; *śap* being *pit*, the root accent remains.
+- ***danaḥ*** — root *damu upaśame*; *laṅ*, second person singular, *sip*; "*itaś ca*" (no sūtra number is printed here) drops the *i*; the root includes *ṇic* in its sense; by "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75) the augment *a* does not occur. Or *ṇada avyakte śabde* — in the Veda a transposition of letters is found; because of *pādādi* position, no *nighāta*; *śap* being *pit*, the root accent remains.
 - ***mṛdhravācaḥ*** — *mṛdhrā vāk yeṣāṃ te*; in the bahuvrīhi, the fore-member keeps its natural accent.
-- ***dart*** — root *dṝ vidāraṇe*; *laṅ*; by "*vyatyayo bahulam*" *sip* becomes *tip*; by "*bahulaṃ chandasi*" *luk* for the *vikaraṇa*; by "*sārvadhātukārdhadhātukayoḥ*" guṇa for the *ik* of the root; *ra* follows; by "*rāt sasya*" (Pā. Sū. 8-2-24 [?]) the dropping of the final conjunct (*saṃyogānta-lopa*) does not occur; by "*bahulaṃ chandasy amāṅyoge 'pi*" no augment; *nighāta* for a *tiṅ*.
+- ***dart*** — root *dṝ vidāraṇe*; *laṅ*; by "*vyatyayo bahulam*" *sip* becomes *tip*; by "*bahulaṃ chandasi*" *luk* for the *vikaraṇa*; by "*sārvadhātukārdhadhātukayoḥ*" guṇa for the *ik* of the root; *ra* follows; by "*rāt sasya*" (Pā. Sū. 8-2-24) the dropping of the final conjunct (*saṃyogānta-lopa*) does not occur; by "*bahulaṃ chandasy amāṅyoge 'pi*" no augment; *nighāta* for a *tiṅ*.
 - ***ṛṇoḥ*** — root *ṛṇu gatau*; *tanādi*; *laṅ*, second person singular, *sip*; the *i* is dropped; by "*tanādikṛñbhya uḥ*" (Pā. Sū. 3-1-79 [?]) the *u* vikaraṇa; since *sip* is the cause, guṇa on it; no augment Vedically; the vikaraṇa accent remains.
-- ***apaḥ*** — accusative plural; by "*ūḍidaṃ padādi*" (Pā. Sū. 6-1-171 [?]) the case ending is *udātta*.
-- ***yūne*** — the word *yuvan*; dative singular following, by "*śvayuvamaghonām ataddhite*" (Pā. Sū. 6-4-133 [?]) *saṃprasāraṇa*, with the earlier form.
-- ***randhīḥ*** — root *radha hiṃsāsaṃrāddhyoḥ*; *luṅ*, second person singular, *sip*; the *i* is dropped; the *cli* gets *sic*; by "*ārdhadhātuke*" (Pā. Sū. 2-4-35 [?]) the augment *iḍ*; by "*asti sico 'pṛkte*" (Pā. Sū. 7-3-96 [?]) the suffix takes the augment *īḍ*; by "*iṭa īṭi*" (Pā. Sū. 8-2-28 [?]) *sic* is dropped; by "*radhijabhor aci*" (Pā. Sū. 7-1-61 [?]) the root takes *num*; no augment Vedically; being after *ati* (*tiṅ*) *nighāta*. ‖ 2 ‖
+- ***apaḥ*** — accusative plural; by "*ūḍidaṃ padādi*" (Pā. Sū. 6-1-171) the case ending is *udātta*.
+- ***yūne*** — the word *yuvan*; dative singular following, by "*śvayuvamaghonām ataddhite*" (Pā. Sū. 6-4-133) *saṃprasāraṇa*, with the earlier form.
+- ***randhīḥ*** — root *radha hiṃsāsaṃrāddhyoḥ*; *luṅ*, second person singular, *sip*; the *i* is dropped; the *cli* gets *sic*; by "*ārdhadhātuke*" (Pā. Sū. 7-2-35) the augment *iḍ*; by "*asti sico 'pṛkte*" (Pā. Sū. 7-3-96 [?]) the suffix takes the augment *īḍ*; by "*iṭa īṭi*" (Pā. Sū. 8-2-28 [?]) *sic* is dropped; by "*radhijabhor aci*" (Pā. Sū. 7-1-61 [?]) the root takes *num*; no augment Vedically; being after *ati* (*tiṅ*) *nighāta*. ‖ 2 ‖
 
 ---
 
