@@ -542,5 +542,13 @@
   "old": "Ṛ.Saṃ. 10-64-5 [?]; Ni. 3-9 [?]",
   "new": "10-64-5; Ni. 3-9",
   "note": "190dpi: quote ‘dakṣasya vādite janmani vrate …’ agrees with print; refs ೧೦-೬೪-೫ and ನಿ.೩-೯ (hooked 3). Durgācārya passage not re-read."
+ },
+ {
+  "pdf": 364,
+  "printed": 344,
+  "status": "resolved",
+  "old": "Śatapatha quote ‘urvaśy asīty ai dhotror…’ (garbled); Śa.Brā. 3-4-1-20 [?], 7-2-1-15 [?]",
+  "new": "urvaśy asīty athottarāraṇy-ājyavilāpanīm upaspṛśaty āyur asīti … patir atha yat tasmān mithunād ajāyeta tad āyur evam evaiṣa …; refs without [?]",
+  "note": "190dpi re-read of the quote against the print (ಉರ್ವಶ್ಯಸೀತ್ಯಥೋತ್ತರಾರಣ್ಯಾಜ್ಯವಿಲಾಪನೀಮುಪಸ್ಪೃಶತ್ಯಾಯುರಸೀತಿ …); a few letters (yat tasmān) still doubtful. Other Satapatha refs (13-5-…) and the Ṛg refs lower on the page were not viewed."
  }
 ]

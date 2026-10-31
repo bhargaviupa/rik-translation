@@ -8936,17 +8936,17 @@ For the word *āyoḥ* the meaning is given as a synonym of *śatru* ("enemy") i
 
 …and also one that indicates a progeny. In these contexts it is said, in some places, that he is a friend of Indra and others, and, in other places, that he is an enemy. Therefore it is necessary to understand, to the extent possible, the variety in the use of this word. In the case in hand, it is learned that there are many persons with the name *Āyu*, citing the Śruti and other passages that show a relation to Indra and other deities; that the *Āyu* who was an enemy of the gods and of the sacrificers was a different one; that the *Āyu* who was a friend of Indra was another; that the *Āyu* who was a friend of Agni was another; and that there was a progeny known by the name *Āyu*.
 
-> उर्वश्यसीत्यै धोत्रोरारण्योज्यविलापसनीमुपास्प्यशक्त्यायुरसीति तामभिनिदधाति पुरूरवा आसीत्यैर्वशी वाप्सराः पुरूरवाः पशिरथ यत्त्र स्यान्मिथुनादेजायेत तदायुरेवान्मैष एतस्मिन्मिथुनाद्यज्ञं जनयति ॥ [as printed; garbled: [?]]
+> उर्वश्यसीत्यथोत्तरारण्याज्यविलापनीमुपस्पृशत्यायुरसीति तामभिनिदधाति पुरूरवा असीत्यैर्वशी वाप्सराः पुरूरवाः पतिरथ यत्तस्मान्मिथुनादजायेत तदायुरेवमेवैष एतस्मिन्मिथुनाद्यज्ञं जनयति ॥ [as printed; a few letters still unclear: [?]]
 
-> *urvaśy asīty ai dhotror āraṇyojyavilāpasanīm upāspy aśaktyāyur asīti tām abhinidadhāti pururavā āsīty airvaśī vāpsarāḥ pururavāḥ paśiratha yat tra syān mithunād ejāyeta tad āyur evānmaiṣa etasmin mithunād yajñaṃ janayati ‖* [?]
+> *urvaśy asīty athottarāraṇy-ājyavilāpanīm upaspṛśaty āyur asīti tām abhinidadhāti pururavā asīty airvaśī vāpsarāḥ pururavāḥ patir atha yat tasmān mithunād ajāyeta tad āyur evam evaiṣa etasmin mithunād yajñaṃ janayati ‖* [?]
 
-(Śa. Brā. 3-4-1-20 [?]) — in this passage it is said that *Āyu* was born of Urvaśī and Purūravas; and the identity of Agni and Āyu is stated. In the same way —
+(Śa. Brā. 3-4-1-20) — in this passage it is said that *Āyu* was born of Urvaśī and Purūravas; and the identity of Agni and Āyu is stated. In the same way —
 
 > आयुषो न मध्यादित्यग्निर्वा आयुः ।
 
 > *āyuṣo na madhyād ity agnir vā āyuḥ |*
 
-(Śa. Brā. 7-2-1-15 [?]) — in this sentence also the identity of Agni and *Āyu* is stated. But here the word *āyu* is, in one view, a "marked" name; in another, not. In the Śatapatha Brāhmaṇa the mantra of the Ṛk-saṃhitā —
+(Śa. Brā. 7-2-1-15) — in this sentence also the identity of Agni and *Āyu* is stated. But here the word *āyu* is, in one view, a "marked" name; in another, not. In the Śatapatha Brāhmaṇa the mantra of the Ṛk-saṃhitā —
 
 > मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् ।
 
