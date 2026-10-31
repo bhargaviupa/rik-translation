@@ -3087,4 +3087,216 @@ Since he produces offspring in the daughter, the son-in-law has the name *jāmā
 
 ---
 
-**Progress note:** Done through printed p. 91 (PDF 109). Sūkta 185 Ṛk 8 closed (grammar on p. 91). Ṛk 9 (ubhā śaṃsā naryā) OPEN: Saṃhitā done, Pada first half (… avasā sacetāṃ) done — continue with the rest of the Pada on printed p. 92 / PDF 110. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar.
+### Printed p. 92  (PDF 110)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Ṛk 9, continued: second half of the Pada.)*
+
+> भूरि । चित् । अर्यः । सुदाःऽतराय । इषा । मदंतः । इषयेम । देवाः ॥ ९ ॥
+
+> *bhūri | cit | aryaḥ | sudāḥ 'tarāya | iṣā | madaṃtaḥ | iṣayema | devāḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* The two praise-worthy ones (Heaven and Earth, or the two praises of this world and the next) are asked to protect the poet; the gods within Heaven and Earth, gladdened with Soma-food, are asked for wealth so that the praisers may give liberally.
+
+*(As printed: "हितावीदृश्यावुभयाश्रये"; the glyph(s) after "षष्ठ्य" at the line end are unclear, [?].)*
+
+> उभा शंसा द्यावापृथिव्योरुभयोर्विषयावुभावपि शंसौ नर्यौ नरेभ्यो हितावीदृश्यावुभयाश्रये स्तुती मामविष्टां । रक्षतां । यद्वा । द्यावापृथिव्यभिमानिदेवयोरेव शंसशब्देनाभिधानात्पुल्लिंगता । तथोभे ऊती रक्षिके द्यावापृथिव्यौ मामवसा रक्षणेन सचेतां । यद्वा । प्राणिभ्यो हितकरावुभावैहिकामुष्मिकविषयौ शंसौ मामविष्टां । प्राप्नुतां । तथोभे अप्यूती तयोः संबंधिन्योरभिमानिदेवतयोरवसास्मत्तर्पणेन निमित्तेन सचेतां । हे देवा द्यावापृथिव्योरंतर्भूताः सर्वेऽपि देवाः अर्यः स्तोतारो वयं सुदास्तरायातिशयेन शोभनदातृत्वायेषान्नेन सोमलक्षणेन मदंतो मादयंतः संतो भूरि चित् । चित् पूजायां । अभिपूजितं धनमिषयेम । इच्छेम । यद्वा । अर्य इति षष्ठ्य[?] रूपं । ईश्वराद्राजादेरपि सुदास्तरायेत्यर्थः । शिष्टं समानं ॥
+
+> *ubhā śaṃsā dyāvāpṛthivyorubhayorviṣayāvubhāvapi śaṃsau naryau narebhyo hitāvīdṛśyāvubhayāśraye stutī māmaviṣṭāṃ | rakṣatāṃ | yadvā | dyāvāpṛthivyabhimānidevayoreva śaṃsaśabdenābhidhānātpulliṃgatā | tathobhe ūtī rakṣike dyāvāpṛthivyau māmavasā rakṣaṇena sacetāṃ | yadvā | prāṇibhyo hitakarāvubhāvaihikāmuṣmikaviṣayau śaṃsau māmaviṣṭāṃ | prāpnutāṃ | tathobhe apyūtī tayoḥ saṃbaṃdhinyorabhimānidevatayoravasāsmattarpaṇena nimittena sacetāṃ | he devā dyāvāpṛthivyoraṃtarbhūtāḥ sarve 'pi devāḥ aryaḥ stotāro vayaṃ sudāstarāyātiśayena śobhanadātṛtvāyeṣānnena somalakṣaṇena madaṃto mādayaṃtaḥ saṃto bhūri cit | cit pūjāyāṃ | abhipūjitaṃ dhanamiṣayema | icchema | yadvā | arya iti ṣaṣṭhya[?] rūpaṃ | īśvarādrājāderapi sudāstarāyetyarthaḥ | śiṣṭaṃ samānaṃ ‖*
+
+**Pratipadārtha.** *naryā* — who bring about good to men; *ubhā śaṃsā* — (Heaven and Earth,) who are the objects of praises of both kinds, or: these praises sung addressing both Heaven and Earth; *mām* — me; *aviṣṭām* — may they protect; *ubhe ūtī* — these two, who are protectors; *mām* — me; *avasā* — with the act of protection; *sacetām* — may they join; *devāḥ* — O all the deities (included between Heaven and Earth); *aryaḥ* — we, the praisers; *iṣā* — with food in the form of oblation; *madantaḥ* — gladdening you; *sudāstarāya* — for the sake of making excellent gifts; *bhūri cit* — very abundant wealth; *iṣayema* — we desire.
+
+**Bhāvārtha.** May Heaven and Earth, who bring about good to men and who are worthy of praises of both kinds, protect me. May these two protectors join me with the act of protection. O all the deities included between Heaven and Earth, we, the praisers, gladdening you with food in the form of oblation, desire very abundant wealth, with the aim of becoming excellent givers.
+
+**English Translation (as printed):** May both these, accepting praise, and friendly to man, be favourable to me : may they both be associated as guardians for my protection : deities, *(continues on the next page)*
+
+---
+
+### Printed p. 93  (PDF 111)
+
+*(Header: "Aṣṭaka 2, Adhyāya 3 [as printed: the Adhyāya numeral has the same glyph as the Varga numeral], Varga 3". Ṛk 9, continued.)*
+
+we your adorers, propitiating you with (sacrificial) food, desire ample (wealth), for the sake of making liberal donations.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**चित् (*cit*)** — as Yāska has said, **चिदित्येषोऽनेककर्मा (*cidityeṣo 'nekakarmā*)**, this word is used in many senses. In **आचार्यश्चिदिदं ब्रूयादिति पूजायां (*ācāryaścididaṃ brūyāditi pūjāyāṃ*)** ("the teacher himself has said this"), the word indicates venerableness. In **दधिचिदित्युपमार्थे (*dadhicidityupamārthe*)** (Ni. 1-4) ("like curds") this word indicates comparison. In the present ṛk he has stated the sense of veneration.
+
+**अर्यः (*aryaḥ*)** — **ईरयिता स्तुतेरीश्वरो वा (*īrayitā stuterīśvaro vā*)**: it has been explained in the sense "the prompter of praise, or the lord (master) of the making of praise". In the present ṛk the sense is "we who are making praise". The Niruktakāra has read this word among the names of *īśvara* (Ni. 3-11), and, citing the ṛk that uses this word in the sense of *īśvara* —
+
+*(As printed: "क्षयेतमस्य" (*kṣayantam asya* by sense).)*
+
+> प्र तत्ते अद्य शिपिविष्ट नामार्यः शंसामि वयुनानि विद्वान् ।
+> तं त्वा गृणामि तवसमतव्यान् क्षयेतमस्य रजसः पराके ॥
+
+> *pra tatte adya śipiviṣṭa nāmāryaḥ śaṃsāmi vayunāni vidvān |*
+> *taṃ tvā gṛṇāmi tavasamatavyān kṣayetamasya rajasaḥ parāke ‖*
+
+(Ṛ. Saṃ. 7-100-5) (Gloss, mine and tentative: "Today, O Śipiviṣṭa, I, the *arya*, knowing the ways, proclaim that name of yours; you, the strong, I, the less strong, praise, who dwell far beyond this region.")
+
+— has explained: **अर्योऽहमस्मीश्वरः स्तोमानामर्यस्त्वमसीति वा (*aryo 'hamasmīśvaraḥ stomānāmaryastvamasīti vā*)** (Ni. 5-9) ("I am the *arya*, the master of praises; or: you are the *arya*"). Here the Vṛttikāra (Durga) has explained:
+
+> यस्मादर्योऽहमस्मि ईश्वरः स्तुतीनामुदीरणे युष्मद्गुणाभिज्ञः अथवा अर्यस्त्वमसि अर्य ईश्वरः मदनुग्रहाय समर्थः ।
+
+> *yasmādaryo 'hamasmi īśvaraḥ stutīnāmudīraṇe yuṣmadguṇābhijñaḥ athavā aryastvamasi arya īśvaraḥ madanugrahāya samarthaḥ |*
+
+(Gloss: "Because I am the *arya*, the one able in uttering praises, knowing your qualities; or you are the *arya*, the lord, able to show favour to me.") — that is, "I am able to know your qualities so as to praise you", or it may also be "you are able to show favour". Uses of this word in the sense "venerable" are also found in many places. For example —
+
+*(Pluta 3 printed after "अर्या".)*
+
+> पृथू रथो दक्षिणाया अयोज्यैनं देवासो अमृतासो अस्थुः ।
+> कृष्णादुदस्थादर्या३ विहायाश्चिकित्संती मानुषाय क्षयाय ।
+
+> *pṛthū ratho dakṣiṇāyā ayojyainaṃ devāso amṛtāso asthuḥ |*
+> *kṛṣṇādudasthādaryā3 vihāyāścikitsaṃtī mānuṣāya kṣayāya |*
+
+(Ṛ. Saṃ. 1-123-2) (Gloss, mine and tentative: "The broad chariot of Dakṣiṇā has been yoked; the immortal gods have mounted it; the noble one, vast, has risen from the darkness, taking thought for the human dwelling.")
+
+In this ṛk, describing the qualities of the Uṣas deity understood from the context, there is the epithet *aryā*. Sāyaṇa has taken this word to mean "venerable" (*pūjyā*). Its use, however, is more frequent in the sense of "the Lord of all".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *ubhā* (by *supāṃ suluk* (Pā. Sū. 7-1-39) the substitute *ā* for the dual ending; likewise *ā* in the following words). *(continues on the next page)*
+
+---
+
+### Printed p. 94  (PDF 112)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Ṛk 9, grammar concluded; Ṛk 10 begins.)*
+
+*(Vyākaraṇa-prakriyā of Ṛk 9, continued.)* *aviṣṭām* (root *ava rakṣaṇe*; for the *loṭ* third-person dual, *tām* substituted by *tasthasthamipāṃ…* (Pā. Sū. 3-4-101); by the force of the word *bahula* in *sibbahulaṃ leṭi* (Pā. Sū. 3-[?]-34) *sip* also in the *loṭ*; the augment *iṭ* by *ārdhadhātukasyeḍvalādeḥ* (Pā. Sū. 7-2-35); *nighāta* because it follows a non-verb). *sacetām* (root *ṣaca samavāye*; initial *s* by *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64); called a *loṭ* "madhyama-puruṣa" dual form, as printed; *tiṅanta-nighāta*). *aryaḥ* (root *ṛ gatau*; final acute by *aryaḥ svāmivaiśyayoḥ* / *aryasya svāmyākhyā cet* (Phi. Sū. 17)). *sudāstarāya* (शोभनं ददातीति सुदाः (*śobhanaṃ dadātīti sudāḥ*); root *ḍudāñ dāne*, suffix *asun*, the original accent of the *kṛt* final member; then *tarap* in the sense of excess, unaccented because it has the *p*-marker). *madantaḥ* (root *mada tṛptiyoge*; with an inherent causative sense; *śatṛ* for the *laṭ*; by *tāsyanudātteṅ…* the *lasārvadhātuka* is unaccented, so the root accent remains). *iṣayema* (root *iṣu icchāyām*; *liṅ* after the *ṇic*-stem, first-person plural; *tiṅanta-nighāta* because it follows a non-verb).
+
+*(Rule: end of Ṛk 9.)*
+
+## Sūkta 185, Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> ऋतं दिवे तदवोचं पृथिव्या अभिश्रावाय प्रथमं सुमेधाः ।
+> पातामवद्याद्दुरितादभीके पिता माता च रक्षतामवोभिः ॥ १० ॥
+
+> *ṛtaṃ dive tadavocaṃ pṛthivyā abhiśrāvāya prathamaṃ sumedhāḥ |*
+> *pātāmavadyādduritādabhīke pitā mātā ca rakṣatāmavobhiḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥** *(continues on the next page)*
+
+*(As printed: "पथिव्यै (*pathivyai*)" without the ṛ-sign.)*
+
+> ऋतं । दिवे । तत् । अवोचं । पथिव्यै । अभिऽश्रावाय । प्रथमं । सुऽमेधाः ।
+
+> *ṛtaṃ | dive | tat | avocaṃ | pathivyai | abhi 'śrāvāya | prathamaṃ | su 'medhāḥ |*
+
+---
+
+### Printed p. 95  (PDF 113)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Ṛk 10, continued.)*
+
+> पातां । अवद्यात् । दुःऽइतात् । अभीके । पिता । माता । च । रक्षतां । अवःऽभिः ॥ १० ॥
+
+> *pātāṃ | avadyāt | duḥ 'itāt | abhīke | pitā | mātā | ca | rakṣatāṃ | avaḥ 'bhiḥ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* Ṛks 10–11 are the anuvākyās for the puroḍāśa-oblation in the animal sacrifice to Heaven and Earth (Āś. 3-8). The wise poet has spoken this foremost praise to Heaven and Earth, to be heard all round; may father Heaven and mother Earth guard him from blameworthy sin, staying near with their protections.
+
+*(As printed: "द्यावापृथिवीये"; in "तत्तृप्ति[?]रीतिकरं" the consonant before the *r*-subscript is not printed (*prīti* by sense); "प्रतमं" as printed.)*
+
+> ऋतं दिव इति द्वे द्यावापृथिवीये पशौ पुरोडाशहविषोरनुवाक्ये । अग्नीषोमाविति खंडे सूत्रितं । ऋतं दिवे तदवोचं पृथिव्या इति द्वे । आ. ३-८ । इति ॥
+> सुमेधाः शोभनप्रज्ञोऽहं दिवे द्युदेवतायै पृथिव्यै पृथिवीदेवतायै तत्तृप्ति[?]रीतिकरमृतं स्तोत्रं प्रथमं । मुख्यनामैतत् । प्रतमं प्रकृष्टतममवोचं । ब्रवीमि । किमर्थं । अभिश्रावायाभितः सर्वतः श्रवणाय । किंच पिता पालको द्युलोको माता सस्यादेर्निर्मात्री पृथिवी चोभे अवद्यान्निंदिताद्दुःखप्रापकादंहसः सकाशात्पातां । रक्षतां । तथाभीके । अंतिकनामैतत् । समीप एवावोभिरभिमततर्पणैः रक्षतां । पालयतां ॥
+
+> *ṛtaṃ diva iti dve dyāvāpṛthivīye paśau puroḍāśahaviṣoranuvākye | agnīṣomāviti khaṃḍe sūtritaṃ | ṛtaṃ dive tadavocaṃ pṛthivyā iti dve | ā. 3-8 | iti ‖*
+> *sumedhāḥ śobhanaprajño 'haṃ dive dyudevatāyai pṛthivyai pṛthivīdevatāyai tattṛpti[?]rītikaramṛtaṃ stotraṃ prathamaṃ | mukhyanāmaitat | pratamaṃ prakṛṣṭatamamavocaṃ | bravīmi | kimarthaṃ | abhiśrāvāyābhitaḥ sarvataḥ śravaṇāya | kiṃca pitā pālako dyuloko mātā sasyādernirmātrī pṛthivī cobhe avadyānniṃditādduḥkhaprāpakādaṃhasaḥ sakāśātpātāṃ | rakṣatāṃ | tathābhīke | aṃtikanāmaitat | samīpa evāvobhirabhimatatarpaṇaiḥ rakṣatāṃ | pālayatāṃ ‖*
+
+**Pratipadārtha.** *sumedhāḥ* — I, who possess excellent understanding; *dive* — the Dyu deity; *pṛthivyai* — and Earth; (addressing them) *tat* — pleasing; *prathamam* — most principal; *ṛtam* — the praise; *abhiśrāvāya* — so that it may be heard everywhere; *avocam* — I am reciting; *pitā* — the Dyu deity, who is the protector; *mātā ca* — and Earth, who is the maker of the world; *avadyāt* — blameworthy; *duritāt* — from sin; *pātām* — may they protect (us); (likewise) *abhīke* — staying near us; *avobhiḥ* — with acts of protection; *rakṣatām* — may they protect.
+
+**Bhāvārtha.** I, who possess excellent understanding, recite, addressing the Dyu deity and Earth, a praise that is pleasing and most principal, so that it may be heard everywhere. May the Dyu deity, the protector, and Earth, the maker of the world, protect us from blameworthy sin. Likewise, staying near us, may they protect us with acts of protection —
+
+**English Translation (as printed):** Endowed with understanding, I repeat to Heaven and Earth this initial praise, to be heard around : may paternal (heaven) and maternal (earth) preserve us from reprehensible iniquity; and ever nigh defend us with their protection.
+
+*(The rest of p. 95 is blank.)*
+
+---
+
+### Printed p. 96  (PDF 114)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Ṛk 10, concluded.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+This ṛk, **ऋतं दिव (*ṛtaṃ diva*)**, and the next ṛk, **इदं द्यावापृथिवी (*idaṃ dyāvāpṛthivī*)**, are to be recited in the animal sacrifice, when the puroḍāśa oblations are offered into the fire, as the *puro'nuvākyā* mantras having Heaven and Earth as their deity: this is set out by the sūtra **ऋतं दिवे तदवोचं पृथिव्या इति द्वे (*ṛtaṃ dive tadavocaṃ pṛthivyā iti dve*)** (Āś. 3-8) in the khaṇḍa **अग्नीषोमौ (*agnīṣomau*)** of the Āśvalāyana Śrauta Sūtra.
+
+**ऋतं (*ṛtaṃ*)** — although the word *ṛta* has many meanings such as truth, sacrifice and dharma, here the bhāṣyakāra has taken it to mean praise (*stotra*).
+
+**प्रथमं (*prathamaṃ*)** — for this word Yāska has given the derivation **प्रथम इति मुख्यनाम प्रतमो भवति (*prathama iti mukhyanāma pratamo bhavati*)** (Ni. 2-22), that is, the word *prathama* means "principal".
+
+In this ṛk the ṛṣi, addressing Heaven and Earth as mother and father, has prayed that they protect him too from the sin that brings sorrow. Among Heaven and Earth it is the established custom to call the Dyu deity the father and Earth the mother —
+
+> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः ।
+
+> *tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tatpitā dyauḥ |*
+
+(Ṛ. Saṃ. 1-89-4) (Gloss, mine and tentative: "May the wind blow to us that healing remedy which is a joy; that may mother Earth, that may father Heaven (grant).")
+
+> उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः ।
+
+> *uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |*
+
+(Ṛ. Saṃ. 1-160-2) (Gloss, mine and tentative: "Wide-extending, great, never failing, the father and the mother protect the worlds.")
+
+> इदं द्यावापृथिवी सत्यमस्तु पितर्मातर्यदिहोपब्रुवे वां ।
+
+> *idaṃ dyāvāpṛthivī satyamastu pitarmātaryadihopabruve vāṃ |*
+
+(Ṛ. Saṃ. 1-185-11) (Gloss, mine and tentative: "O Heaven and Earth, O father, O mother, may this be true which I here address to you.")
+
+> आ सुष्टुती नमसा वर्तयध्यै द्यावा वाजाय पृथिवी अमृध्रे ।
+> पितामाता मधुवचाः सुहस्ता भरेभरे नो यशसावविष्टां ॥
+
+> *ā suṣṭutī namasā vartayadhyai dyāvā vājāya pṛthivī amṛdhre |*
+> *pitāmātā madhuvacāḥ suhastā bharebhare no yaśasāvaviṣṭāṃ ‖*
+
+(Ṛ. Saṃ. 5-43-2) (Gloss, mine and tentative: "To turn hither, with fair praise and homage, Heaven and Earth, the unfailing, for strength — may father and mother, sweet-spoken, skilful-handed, glorious, help us in every contest.")
+
+— in these ṛks, and in Ṛ. Saṃ. 5-43-15; 6-51-5; 6-70-6; 6-72-2; 8-92-2; 10-54-3; 10-88-15; Atha. Ve. 2-28-4; 3-[?]3-6; 6-4-3; 6-120-2; 8-7-2, 12-1-10 and other ṛks, Heaven and Earth are praised as father and mother.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *dive* (by *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171) the case ending (dative) is acute). *avocam* (root *brūñ vyaktāyāṃ vāci*; by *chandasi luṅlaṅliṭaḥ* the *luṅ* in the sense of the *laṭ*; first-person singular; *tiṅanta-nighāta*). *(continues on the next page)*
+
+---
+
+### Printed p. 97  (PDF 115)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Ṛk 10, grammar concluded; Ṛk 11 begins.)*
+
+*(Vyākaraṇa-prakriyā of Ṛk 10, continued.)* *abhiśrāvāya* (root *śru śravaṇe*; suffix *ac* as in the *pacādi* group; *guṇa* of *u* by *sārvadhātukārdhadhātukayoḥ*, then *av*; श्रव एव श्रावः (*śrava eva śrāvaḥ*): suffix *aṇ* in its own sense by *prajñādibhyaśca* (Pā. Sū. 5-4-38); when *a* is dropped by *yasyeti ca*, *vṛddhi* of the penultimate *a* by *ata upadhāyāḥ* (Pā. Sū. 7-2-116); final acute by the suffix accent; dative singular). *sumedhāḥ* (शोभनं मेधः यस्य (*śobhanaṃ medhaḥ yasya*), as printed; final acute of the latter member by *nañsubhyām* (Pā. Sū. 6-2-172)). *pātām* (root *pā rakṣaṇe*; called a *loṭ* "madhyama-puruṣa" dual, as printed; no *nighāta* because it stands at the beginning of a pāda; final acute by the suffix accent). *avadyāt* (root *vada vyaktāyāṃ vāci*; with *nañ* as *upapada*, formed irregularly (*nipātita*) with the suffix *yat* in the sense of "blameworthy" by *avadyapaṇyavaryā garhya…* (Pā. Sū. 3-1-101)).
+
+*(Rule ":O:" — end of Ṛk 10.)*
+
+## Sūkta 185, Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इदं द्यावापृथिवी सत्यमस्तु पितर्मातर्यदिहोपब्रुवे वां ।
+> भूतं देवानामवमे अवोभिर्विद्यामेषं वृजनं जीरदानुं ॥ ११ ॥
+
+> *idaṃ dyāvāpṛthivī satyamastu pitarmātaryadihopabruve vāṃ |*
+> *bhūtaṃ devānāmavame avobhirvidyāmeṣaṃ vṛjanaṃ jīradānuṃ ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> इदं । द्यावापृथिवी इति । सत्यं । अस्तु । पितः । मातः । यत् । इह । उपऽब्रुवे । वां ।
+> भूतं । देवानां । अवमे इति । अवःऽभिः । विद्याम । इषं । वृजनं । जीरऽदानुं ॥ ११ ॥
+
+> *idaṃ | dyāvāpṛthivī iti | satyaṃ | astu | pitaḥ | mātaḥ | yat | iha | upa 'bruve | vāṃ |*
+> *bhūtaṃ | devānāṃ | avame iti | avaḥ 'bhiḥ | vidyāma | iṣaṃ | vṛjanaṃ | jīra 'dānuṃ ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; continues on the next page)*
+
+> हे द्यावापृथिवी द्यावापृथिव्यौ इदमस्माभिः क्रियमाणं स्तोत्रं सत्यमस्तु । अवितथं भवतु । फलवद्भवत्वित्यर्थः । इदमित्युक्तं किं तदित्याह । हे पितर्द्यौः हे
+
+> *he dyāvāpṛthivī dyāvāpṛthivyau idamasmābhiḥ kriyamāṇaṃ stotraṃ satyamastu | avitathaṃ bhavatu | phalavadbhavatvityarthaḥ | idamityuktaṃ kiṃ tadityāha | he pitardyauḥ he*
+
+*(Footer: "[7]" and "Vol. 14".)*
+
+---
+
+**Progress note:** Done through printed p. 97 (PDF 115). Sūkta 185 Ṛks 9–10 closed. Ṛk 11 (idaṃ dyāvāpṛthivī satyamastu) OPEN: Saṃhitā and Pada done; bhāṣya begun (… 'he pitardyauḥ he') — continue the bhāṣya (single block, do not repeat) on printed p. 98 / PDF 116. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed.
