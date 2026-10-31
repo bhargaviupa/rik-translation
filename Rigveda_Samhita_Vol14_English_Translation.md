@@ -10739,4 +10739,201 @@ In former times, in the Kuru line, the king named Ṛṣṭiṣeṇa had two son
 
 ---
 
-**Progress note:** Done through printed p. 301 (PDF 320; printed = PDF − 19, pp. 296–301 checked, no duplicate or missing page). Sūkta 189 complete (ends p. 298 with the grammar note; no closing line or colophon printed). Sūkta 190 (deity Bṛhaspati): Pīṭhike pp. 299–301 written (Bṛhaspati's derivation; Bṛhaspati distinct from Brahmaṇaspati; the Devāpi–Śantanu story from Ni. 2-11) through the foot of p. 301 (ends '… ukta vāgide.'); continue on p. 302 / PDF 321 with any rest of the Pīṭhike, then the sūkta's half-title, bhāṣya introduction and heading block (no Sūkta 190 number, ṛṣi or ṛk count seen yet). Flag needing action: the scan of p. 288 (PDF 307) cuts off the right edge of the text block (header Sūkta numeral and 1–3 characters at most line ends lost, marked […]); a re-scan of that page is wanted. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md; flags for pp. 252–285: see vol14/review/flags_archive_pp252-285.md. Flags from p. 286: New (pp. 286–288): p. 286 header Sū. 189, Ṛ. Saṃ. 1-12-6 (three tries), U. Sū. 1-1, Pā. Sū. 5-3-55, 6-4-156, 3-3-175, 3-1-55, 6-4-74, 8-3-1 zoomed (two tries for several; boxes landed left), root 'jṝṣ' (as it looks), pāyubhiḥ 'end-acute' as printed; p. 287 header Varga 10, Saṃhitā 'agneva' without avagraha, bhāṣya 'Ā, Gṛ. 2-1-6' zoomed; p. 288 right edge of the page cut off in the scan (lost text marked […]), header Sū. numeral lost, Ni. 3-13 (as printed) zoomed, printed English 'disgrace·' [sic]. New (p. 289): header Varga 11; grammar root printed 'sraja' (for sṛja; as it looks), Pā. Sū. 6-4-48, 6-1-199 (two tries), 6-1-176 (flat-footed 7; two tries), 6-4-25 (two tries), 6-1-186 zoomed; Ṛk 6 Saṃhitā: a printed word before 'varūthaṃ' struck through and illegible [?], handwritten correction 'tanve' above it transcribed (UNDECIDED logged); signature marks '[19]', 'Vol. 14' at the foot. New (pp. 290–292): p. 290 header Sū. 189 (read from the strip); Ṛk 6 Pada prints 'tanve' in type (agrees with the handwritten Saṃhitā correction); printed English 'becomes such as you are exempts' (no comma) as printed; p. 291 header Varga 11, Ni. 3-13 (varūtha; as printed), Pā. Sū. 6-3-91, 8-3-3 (pratyayottarapadayośca; as printed), 3-4-97, 3-4-94, 3-1-34 (first zoom landed a line high), U. Sū. 2-163 (as printed), Pā. Sū. 3-1-7 zoomed; root 'vṛñ' called svādi as printed; p. 292 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Pā. Sū. 3-2-168, 6-4-48, 6-1-65 (ಜ-like glyph = 5), 6-1-71 zoomed; bhāṣya 'sannihita eva' zoomed (ta could carry an e-sign). New (pp. 293–295): p. 293 header Varga 11, Ni. 3-20, Ni. 3-9 and 3-19 (uśik; as printed), Ni. 6-12 zoomed; 'ippattu dviśanāmagaḷalli' (term unclear, as printed; zoomed); printed English stray mark before 'worship' and final '·' [sic]; p. 294 header Sū. 189, Ṛ. Saṃ. 3-1-12, Pā. Sū. 8-3-9, 8-3-3, 3-1-109, 6-1-16, 'U. Saṃ. 2-29' (abbreviation as printed) zoomed; suffix 'ṣeṇyaṇ' as printed; p. 295 header 'A. [2] A. 5 Va. 11' (Aṣṭaka numeral prints like 'ಅ.ವ', as on p. 285); printed English 'life·' [sic]. New (pp. 296–297): p. 296 header Sū. 189, Ṛ 1-165-15 (ಜ-like = 5), Ṛ. Saṃ. 1-44-11, 'jorī ca. U. Sū. 2-181' (three tries), Ni. 3-9 (kṣipra names; as printed), Ṛ. Saṃ. 10-36-6 zoomed; p. 297 header 'A. 2. A. 5 Va. 11', Ṛ. Saṃ. 2-34-4, 1-119-1, 'sapta dātṝn' zoomed; Ṛ. Saṃ. 10-120-6 verse prints 'ā parṣate' (zoomed, as printed), its number read from the strip; Max Muller quotation stray points/marks [sic]. Note: page.py zoom boxes landed ~40–50 px off in y (and off in x on p. 297, whose strips were not reduced): generous boxes needed. New (pp. 298–299): p. 298 header prints 'Sū. 188' (zoomed; the sūkta is 189), Ṛ. Saṃ. 2-34-4 (no closing parenthesis), 10-43-8, Pā. Sū. 2-4-53, 3-1-52, 6-1-64, 6-1-163 zoomed; U. Sū. for ṛñjivṛdhi… 2-2[?]4 UNDECIDED (middle digit broken); p. 299 header 'A. 2. A 5. Va. 11.', Ni. 10-11, Ṛ. Saṃ. 10-98-7, Tai. Saṃ. 6-4-10-1, 2-2-9-1 zoomed. New (pp. 300–301): p. 300 header still 'Sū. 189' over the Pīṭhike of 190; Ṛ. Saṃ. 4-50-8, 4-50-9, 10-141-3, '4-49 ; 7-97', 'about 120 times', Ṛ. Saṃ. 2-23 (19 ṛks; 1, 5, 9, 11, 17, 19 = 6 ṛks to Bṛhaspati), 10th maṇḍala 98th sūkta zoomed; p. 301 header 'A. 2. A. 5. Va. 11.', Ni. 2-11, '12 years', Viṣṇu Purāṇa 4-20-7, Bhāgavata 9-22-14 to 17 zoomed; Nirukta quotation 'kauravau' as printed. Tool note: page.py zoom boxes often land off target (strip cuts in zoom mode seem to differ from the displayed strips); tall boxes were used.
+
+---
+
+### Printed p. 302 (PDF 321)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 189" (zoomed; the Pīṭhike of Sūkta 190 still stands under the header of Sūkta 189). Pīṭhike continued.)*
+
+In the 108th sūkta of the 10th maṇḍala of the Ṛ. Saṃ. (zoomed) there is another episode (*upākhyāna*). The asuras called Paṇis carried off the cows of the gods (the clouds laden with water) and hid them in an impregnable fortress. Indra sent Saramā, the bitch of the gods, to search for them. That Saramā came to the Paṇis, carried on a dispute with them and asked them to give back the stolen cows. Those Paṇis urged her in many ways: "What is Indra's power? We are great heroes and our weapons are very keen (*harita*); therefore the gods cannot conquer us, and the gods cannot even find the place where the cows are kept; therefore, if Saramā leaves the side of the gods and joins our band, we will give her whatever wealth and the like she wants." But Saramā did not agree to it; she turned back from there and told the whole matter to the gods. Then Bṛhaspati by his power found out the place where those cows were hidden. Afterwards the gods subdued them and brought the cows back: such is the episode.
+
+In many such bold deeds Bṛhaspati's part is very important. Moreover, when men need rain, Bṛhaspati's help is most necessary *(printed "atyavaśakavāgide")*. This kind of prayer is found especially in the sūktas whose deity is Bṛhaspati.
+
+Let us examine closely what Bṛhaspati's qualities and achievements are, as described in the Ṛgveda. Bṛhaspati was born of Dyāvāpṛthivī, and he was nourished by [his own?] greatness *(the word before "mahattva" is faint; it looks like "svara" [?])* (Ṛ Saṃ 7-97-8, zoomed). But in one place it is said that Tvaṣṭṛ created him (2-23-17, zoomed). He has the name "father of the gods" (2-26-3, zoomed); it is also said that the gods were born from him as sparks fly from the blow of a smith's hammer (10-72-8, zoomed).
+
+He has the name Brahmā (the ṛtvij called Brahmā) (10-141-3, zoomed). He is connected with the ṛtvijs (7-10-4 ; 10-14-3, zoomed). He has also the name Āṅgirasa (4-40-1 ; 4-73-1 ; 10-47-6, zoomed; "4-73" as printed). He is the composer and the utterer of words of praise; their lord and impeller (2-23-1, 2 ; 1-40-5 ; 10-98-[?]; the last digit undecided); he accomplishes all his aims by mantra alone (2-24-3); mounting the shining chariot called sacrifice he sets out to conquer the enemies of the gods and of the praisers (2-23 3; hyphen missing, as printed); he is the nourisher and protector of the faithful. He is their guide; he rescues them from calamities (2-23-4, zoomed). He bestows wealth and the like on them (2-23-9, zoomed). He is reckoned the father of all the gods; he is endowed with all divine qualities (3-62-4 ; 4-50-6, zoomed); he is of all forms (*viśvarūpa*); all the things that everyone desires are in him (7-10-4, 7-97-4); he holds a golden spear (7-97-7, zoomed); joining with Indra, he too has become a leader of armies (10-103-8).
+
+---
+
+### Printed p. 303 (PDF 322)
+
+*(Header: "A. 2. A. 5. Va. 11." (zoomed). Pīṭhike continued.)*
+
+— he is the increaser of life (10-100-5, zoomed); the plants were produced by him (10-97-15 and 19, zoomed); it is said that tawny-coloured horses are his vehicle (Ni. 2-28, zoomed).
+
+It is said that, hearing the cry of distress of Trita, who had been thrown into a well by the rākṣasas and was calling on the gods for help, Bṛhaspati freed him from that perilous state (1-105-17), and that, joining with Indra, Bṛhaspati made the waters that had been covered by darkness flow again (2-23-18 ; 1-56-5 ;, zoomed).
+
+Bṛhaspati by his power broke the stone door of the well filled with honey. The gods drank that honey and poured down rain as they wished (2-24-3, 4); when Bṛhaspati with his fiery rays split the fortresses of Vala, the herds of cows became visible; he drove the cows out as one breaks an egg; seeing the honey (water) enclosed by the rock, he split it by his roar alone and made it come out (10-68-4 to 9). Bṛhaspati brought the cows out from the rocks; he seized Vala's cows and made them his own (10-68-5).
+
+Bṛhaspati is endowed with divinity (2-23-2); he is the kinsman of all the gods (3-62-4 ; 4-50-6): and he has more divinity than all the gods: in the form of a deity he takes all the gods and all things into himself (2-24-11 ; 8-61-18, zoomed); being powerful, he keeps the two ends of the earth apart (4-50-1); the rising of the sun and the moon one after the other is a deed of his worthy of imitation (10-68-10). In the Taittirīya Saṃhitā (in the Yajurveda) a connection of Bṛhaspati with certain nakṣatras is stated. Bṛhaspati is the deity of the Puṣya nakṣatra (Tai. Saṃ. 4-4 10-1, as printed); in the Purāṇas and other works Bṛhaspati is described as Vācaspati and as the presiding deity of the planet Bṛhaspati (Jupiter).
+
+Some scholars have held that the deities called Bṛhaspati and Brahmaṇaspati are transformed forms of Agni. The scholar M. Langlois, in his work, the translation of the Ṛgveda, Part I p. 249, 254, 578, has supported with many examples the view that these two deities are both forms of Agni. The scholar Wilson too has expressed the same opinion in the introduction to the first part of his translation of the Ṛgveda; the scholar Max Muller also —
+
+Brihaspati and Brahmanaspati are both varieties of Agni, the priest and the purohit of the Gods and men and as such he is invoked together with the Maruts &c.
+
+That is, Bṛhaspati and Brahmaṇaspati both are forms of Agni, and stand in the place of ṛtvij and purohita to gods and men; from this very point of view, together with the Marut deities —
+
+---
+
+
+---
+
+### Printed p. 304 (PDF 323)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 189" (the Pīṭhike of Sūkta 190 still under the header of Sūkta 189). Pīṭhike continued.)*
+
+— he has said that their being invoked [together] is found in many places. In this way we give one or two examples that state the identity (*tādātmya*) of Agni with Bṛhaspati and Brahmaṇaspati.
+
+> त्वमग्न इंद्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः ।
+> त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥
+
+> *tvamagna iṃdro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ |*
+> *tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*
+
+(Ṛ. Saṃ. 2-1-3, zoomed)
+
+*(The print breaks "rayividbrahmaṇaspate" between "rayividb" and "rahmaṇaspate".)* "O Agni, you are Indra, the most excellent among the good; you are Viṣṇu, worthy of worship and of very large body; O Brahmaṇaspati, you are the ṛtvij called Brahmā, rich in wealth": thus Agni is described as the very form of various deities.
+
+> तं शुभ्रमग्निमवसे हवामहे वैश्वानरं मातरिश्वानमुक्थ्यं ।
+> बृहस्पतिं मनुषो देवतातये विप्रं श्रोतारमतिथिं रघुष्यदं ॥
+
+> *taṃ śubhramagnimavase havāmahe vaiśvānaraṃ mātariśvānamukthyaṃ |*
+> *bṛhaspatiṃ manuṣo devatātaye vipraṃ śrotāramatithiṃ raghuṣyadaṃ ‖*
+
+(Ṛ. Saṃ. 3-26-2, zoomed)
+
+"We invoke for our protection Agni, who is bright and the friend of all mankind; we invoke, that they may come to the sacrifices and other rites of men, Mātariśvan, who is fit to be the object of the mantras, and Bṛhaspati, who is wise, who praises with reference to the gods, who is like a guest and goes swiftly."
+
+Sāyaṇācārya, when writing his commentary on the ṛk 5-43-12 (read from the strip), says of the word Bṛhaspati —
+
+> अथवा इयमाग्नेयी। बृहतः परिवृढस्य कर्मणः स्वामीति बृहस्पतिरग्निरुच्यते। तथा नीलवर्णधूमपृष्ठत्वसदनसादनहिरण्यवर्णत्वादिलिंगैरप्यग्निरेव बृहस्पतिः ॥
+
+> *athavā iyamāgneyī| bṛhataḥ parivṛḍhasya karmaṇaḥ svāmīti bṛhaspatiragnirucyate| tathā nīlavarṇadhūmapṛṣṭhatvasadanasādanahiraṇyavarṇatvādiliṃgairapyagnireva bṛhaspatiḥ ‖*
+
+That is — "Or, this mantra may be said to set forth Agni as its deity. Because he is the lord of the great work in the form of the present sacrifice, Agni has the name Bṛhaspati. Likewise, from marks such as the black smoke being his back, the sacrificial altar his seat, the golden colour and so on, Bṛhaspati is to be called Agni himself": so he has said.
+
+Now let us examine examples that state the difference of Agni from Bṛhaspati and Brahmaṇaspati.
+
+> सोषामविंदत्स स्वः १ सो अग्निं सो अर्केण वि बबाधे तमांसि ।
+> बृहस्पतिर्गो वपुषो वलस्य निर्मज्जानं न पर्वणो जभार ॥
+
+> *soṣāmaviṃdatsa svaḥ 1 so agniṃ so arkeṇa vi babādhe tamāṃsi |*
+> *bṛhaspatirgo vapuṣo valasya nirmajjānaṃ na parvaṇo jabhāra ‖*
+
+(Ṛ. Saṃ. 10-68-9, zoomed)
+
+*(Printed "soṣāmaviṃdat" without avagraha; the small "1" after "svaḥ" is the kampa sign; "bṛhaspatirgo vapuṣo" with a space, as printed.)* In this ṛk it is said that Bṛhaspati obtained the dawn, heaven and Agni, and dispelled the darkness by a mantra; so it is said that Bṛhaspati and Agni are different.
+
+---
+
+### Printed p. 305 (PDF 324)
+
+*(Header: "A. 2. A. 5. Va. 12." (zoomed). End of the Pīṭhike; Sūkta 190: half-title, Sāyaṇa-bhāṣya introduction and its Kannada rendering. Signature marks "[20]" and "Vol. 14" at the foot.)*
+
+> इंद्रं नो अग्ने वसुभिः सजोषा रुद्रं रुद्रेभिरा वहा बृहंतं ।
+> आदित्येभिरदितिं विश्वजन्यां बृहस्पतिमृक्वभिर्विश्ववारं ॥
+
+> *iṃdraṃ no agne vasubhiḥ sajoṣā rudraṃ rudrebhirā vahā bṛhaṃtaṃ |*
+> *ādityebhiraditiṃ viśvajanyāṃ bṛhaspatimṛkvabhirviśvavāraṃ ‖*
+
+(Ṛ. Saṃ. 7-10-4, zoomed)
+
+In this ṛk Agni is prayed to bring Indra accompanied by the Vasus, Rudra accompanied by the Marut deities, Aditi, the mother of all, accompanied by the Āditya (deities), and Bṛhaspati accompanied by the Aṅgiras ṛṣis who are singing praises. Besides this, mantras that indicate the sense that Bṛhaspati or Brahmaṇaspati is one and Agni another — the ṛks 3-20-5, 4-40-1. 5-51-12 (zoomed), 7-41-1, 7-44-1, 9-5-11, 10-35-11, 10-65-1, 10-130-4, 10-141-3 (read from the strip) and others — are many in the Ṛgveda. Therefore the conclusion that Agni is one and Bṛhaspati and Brahmaṇaspati another is the one supported in the Ṛgveda.
+
+*(A short rule ends the Pīṭhike.)*
+
+## Sūkta 190 — *anarvāṇam* (Anuvāka 24, eleventh Sūkta; 8 ṛks)
+
+**The Hundred and Ninetieth Sūkta.** *(Half-title, in Kannada: "Nūra tombhattaneya sūktavu"; a short double rule follows.)*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; introduction to the sūkta. The bhāṣya prints "so 'ślokyaṃ" where the Anuvāda's quotation below prints "suślokyaṃ".)*
+
+*Gist:* the eight-ṛk eleventh sūkta of Agastya, triṣṭubh, to Bṛhaspati; its śrauta use is by indicative marks; Śaunaka: one who bathes, salutes Bṛhaspati and recites it obtains heroes, wealth and fame.
+
+> अनर्वाणमित्यष्टर्चमेकादशं सूक्तमागस्त्यं बार्हस्पत्यं त्रैष्टुभं । अनर्वाणं बार्हस्पत्यमित्यनुक्रांतं ॥ श्रौतविनियोगो लैंगिकः ॥ अत्र शौनकः । स्नात्वा जपेदनर्वाणं नमस्कृत्य बृहस्पतिं । वीरान्धनं च प्राप्नोति सोऽश्लोक्यं च नियच्छति । ऋग्वि. १-२७ । इति ॥
+
+> *anarvāṇamityaṣṭarcamekādaśaṃ sūktamāgastyaṃ bārhaspatyaṃ traiṣṭubhaṃ | anarvāṇaṃ bārhaspatyamityanukrāṃtaṃ ‖ śrautaviniyogo laiṃgikaḥ ‖ atra śaunakaḥ | snātvā japedanarvāṇaṃ namaskṛtya bṛhaspatiṃ | vīrāndhanaṃ ca prāpnoti so 'ślokyaṃ ca niyacchati | ṛgvi. 1-27 | iti ‖*
+
+**Anuvāda (Kannada).** This sūkta, अनर्वाणं (*anarvāṇaṃ*), is the eleventh sūkta in the twenty-fourth anuvāka. There are eight ṛks in it. Of this sūkta Agastya is the ṛṣi; Bṛhaspati the deity; *triṣṭubh* the metre. In the Anukramaṇikā it is stated beginning with अनर्वाणं बार्हस्पत्यं (*anarvāṇaṃ bārhaspatyaṃ*). The śrauta application of this sūkta is by its indicative marks (*laiṅgika*), that is, according to the sense of the mantra. On the application of this sūkta the great sage Śaunaka, in his work called the Ṛgvidhāna —
+
+> स्नात्वा जपेदनर्वाणं नमस्कृत्य बृहस्पतिं ।
+> वीरान् धनं च प्राप्नोति सुश्लोक्यं च नियच्छति ॥
+
+> *snātvā japedanarvāṇaṃ namaskṛtya bṛhaspatiṃ |*
+> *vīrān dhanaṃ ca prāpnoti suślokyaṃ ca niyacchati ‖*
+
+(Ṛgvidhāna 1-27, zoomed)
+
+— has said that to the man who bathes, becomes pure, salutes the deity called Bṛhaspati and recites this sūkta of eight ṛks beginning अनर्वाणं (*anarvāṇaṃ*), Bṛhaspati gives heroic sons, wealth and fame.
+
+---
+
+
+---
+
+### Printed p. 306 (PDF 325)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 190". Sūkta 190: heading block; Ṛk 1: Saṃhitā, Pada, bhāṣya.)*
+
+**॥ ॐ ॥** Sūkta—190
+Maṇḍala 1 ‖ Anuvāka 24 ‖ Sūkta 190 ‖ Aṣṭaka 2 ‖ Adhyāya 5 ‖ Varga 12, 13 ‖ *(zoomed)*
+Number of ṛks in the Sūkta: 8 *(zoomed)* · Ṛṣi: Agastya · Devatā: Bṛhaspati · Chandas: *triṣṭubh*
+
+*(Rule "—:o:—".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> अनर्वाणं वृषभं मंद्रजिह्वं बृहस्पतिं वर्धया नव्यमर्कैः ।
+> गाथान्यः सुरुचो यस्य देवा आशृण्वंति नवमानस्य मर्ताः ॥ १ ॥
+
+> *anarvāṇaṃ vṛṣabhaṃ maṃdrajihvaṃ bṛhaspatiṃ vardhayā navyamarkaiḥ |*
+> *gāthānyaḥ suruco yasya devā āśṛṇvaṃti navamānasya martāḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥** *(The Pada prints "gāthānyaḥ" without the compound mark, as printed.)*
+
+> अनर्वाणं । वृषभं । मंद्रऽजिह्वं । बृहस्पतिं । वर्धय । नव्यं । अर्कैः ।
+> गाथान्यः । सुऽरुचः । यस्य । देवाः । आऽशृण्वंति । नवमानस्य । मर्ताः ॥ १ ॥
+
+> *anarvāṇaṃ | vṛṣabhaṃ | maṃdra 'jihvaṃ | bṛhaspatiṃ | vardhaya | navyaṃ | arkaiḥ |*
+> *gāthānyaḥ | su 'rucaḥ | yasya | devāḥ | ā 'śṛṇvaṃti | navamānasya | martāḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed. "draṣṭavyaṃ": the first akṣara is partly broken (zoomed); "Ni. 6-23" zoomed.)*
+
+> हे होतः नव्यं नवतरं स्तुत्यं वा तमनर्वाणमगंतारं । स्तोतुरधीनमित्यर्थः । वृषभमपां फलानां वर्षितारं मंद्रजिह्वं मादकवाचकं बृहस्पतिं मंत्रस्य पालयितारमेतन्नामकं देवमर्कैरर्चनसाधनैर्मंत्रैर्वर्धय । प्रवृद्धं कुरु । सुरुचः शोभनदीप्तेर्नवमानस्य स्तूयमानस्य । कर्मणि कर्तृप्रत्ययः ॥ यस्य बृहस्पतेः ॥ कर्मणि षष्ठ्यौ ॥ रोचमानं स्तूयमानं गाथान्यः । गाथेति वाङ्नाम । स्तुतिवचसो नेतारो देवा व्यवहर्तारो मर्ता मनुष्या होत्रादयः । यद्वा । नवमानस्य स्तुवानस्य यजमानस्य संबंधिनस्ते । आशृण्वंति आश्रावयंति पुरा तं बृहस्पतिं वर्धय । अत्रानर्वाणमप्रत्यृतमन्यस्मिन्नित्यादि निरुक्तं द्रष्टव्यं । नि. ६-२३ ॥
+
+> *he hotaḥ navyaṃ navataraṃ stutyaṃ vā tamanarvāṇamagaṃtāraṃ | stoturadhīnamityarthaḥ | vṛṣabhamapāṃ phalānāṃ varṣitāraṃ maṃdrajihvaṃ mādakavācakaṃ bṛhaspatiṃ maṃtrasya pālayitārametannāmakaṃ devamarkairarcanasādhanairmaṃtrairvardhaya | pravṛddhaṃ kuru | surucaḥ śobhanadīpternavamānasya stūyamānasya | karmaṇi kartṛpratyayaḥ ‖ yasya bṛhaspateḥ ‖ karmaṇi ṣaṣṭhyau ‖ rocamānaṃ stūyamānaṃ gāthānyaḥ | gātheti vāṅnāma | stutivacaso netāro devā vyavahartāro martā manuṣyā hotrādayaḥ | yadvā | navamānasya stuvānasya yajamānasya saṃbaṃdhinaste | āśṛṇvaṃti āśrāvayaṃti purā taṃ bṛhaspatiṃ vardhaya | atrānarvāṇamapratyṛtamanyasminnityādi niruktaṃ draṣṭavyaṃ | ni. 6-23 ‖*
+
+---
+
+### Printed p. 307 (PDF 326)
+
+*(Header: "A. 2. A. 5. Va. 12" (zoomed). Ṛk 1: Pratipadārtha, Bhāvārtha, printed English, Special Topics begun.)*
+
+**Pratipadārtha.** (O Hotṛ) सुरुचः (*surucaḥ*) — who has beautiful lustre; नवमानस्य (*navamānasya*) — and who is being praised; यस्य (*yasya*) — of which Bṛhaspati (the praise); गाथान्यः (*gāthānyaḥ*) — who are the makers and leaders of words of praise; देवाः (*devāḥ*) — the gods; मर्ताः (*martāḥ*) — and men; आशृण्वंति (*āśṛṇvaṃti*) — proclaim and make heard; such a one; नव्यं (*navyaṃ*) — who is praiseworthy; अनर्वाणं (*anarvāṇaṃ*) — who does not go to another place (leaving the praiser); वृषभं (*vṛṣabhaṃ*) — who showers desired objects; मंद्रजिह्वं (*maṃdrajihvaṃ*) — who has gladdening speech; बृहस्पतिं (*bṛhaspatiṃ*) — Bṛhaspati, the protector of the mantra; अर्कैः (*arkaiḥ*) — by mantras, the means of worship; वर्धय (*vardhaya*) — make him grow (praise him).
+
+**Bhāvārtha.** By mantras that are the means of worship make Bṛhaspati grow — him of beautiful lustre, worthy of praise, whose praise the gods and men, leaders of words of praise, proclaim and make heard; who is praiseworthy, who stays bound to the praiser, who showers desired objects, whose speech gladdens, and who is the protector of the mantra.
+
+**English Translation (as printed).**
+
+Priests, augment by your hymns Brihaspati, who deserts not (his worshipper) ; the showerer (of benefits), the pleasant-tongued, the adorable ; of whom resplendent, gods and men, (the ministers) of the institutor of the sacrifice, emulous in sacred songs, proclaim (the praise)
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**अनर्वाणं (*anarvāṇaṃ*)** — अगंतारं स्तोतुरधीनमित्यर्थः (*agaṃtāraṃ stoturadhīnamityarthaḥ*) । Sāyaṇa has explained it as "not going away from the vicinity of the sacrificer who praises, that is, being subject to the sacrificer who praises". According to the Niruktakāra this word means —
+
+> अप्रत्यृतः अप्रतिगतोऽन्यस्मिन् अन्यमनाश्रितः स्वतंत्र इत्यर्थः
+
+> *apratyṛtaḥ apratigato 'nyasmin anyamanāśritaḥ svataṃtra ityarthaḥ*
+
+(Ni-4-27, as printed; zoomed)
+
+— that is, one who does not look for the help of another, independent. There is room here for both kinds of meaning.
+
+**वृषभं (*vṛṣabhaṃ*)** — अपां फलानां वर्षितारं (*apāṃ phalānāṃ varṣitāraṃ*) । We have explained the derivation of the word *vṛṣabha* at length in the Ṛ. Saṃ., Part 5, page 682, Part 8, page 168, and other places. In the present ṛk it means "who showers fruits in the form of water" *(a stray mark is printed after "surisuvavanu" [sic])*. On Bṛhaspati being a helper in granting rain, see what is said in the Pīṭhike of this sūkta (page 301).
+
+---
+
+**Progress note:** Done through printed p. 307 (PDF 326; printed = PDF − 19, pp. 296–307 checked, no duplicate or missing page). Sūkta 189 complete. Sūkta 190 (anarvāṇam; Agastya, Bṛhaspati, triṣṭubh, 8 ṛks; Anuvāka 24, eleventh sūkta; Aṣṭaka 2, Adhyāya 5, Varga 12, 13): Pīṭhike, half-title, bhāṣya introduction, Anuvāda and heading block written; Ṛk 1 written through Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Special Topics on anarvāṇaṃ and vṛṣabhaṃ (p. 307 ends after '(pēju 301)'). Ṛk 1 is OPEN: continue on p. 308 / PDF 327 with any further Special Topics of Ṛk 1 and its Vyākaraṇa-prakriyā. Flag needing action: the scan of p. 288 (PDF 307) cuts off the right edge of the text block (header Sūkta numeral and 1–3 characters at most line ends lost, marked […]); a re-scan of that page is wanted. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md; flags for pp. 252–285: see vol14/review/flags_archive_pp252-285.md. Flags from p. 286: New (pp. 286–288): p. 286 header Sū. 189, Ṛ. Saṃ. 1-12-6 (three tries), U. Sū. 1-1, Pā. Sū. 5-3-55, 6-4-156, 3-3-175, 3-1-55, 6-4-74, 8-3-1 zoomed (two tries for several; boxes landed left), root 'jṝṣ' (as it looks), pāyubhiḥ 'end-acute' as printed; p. 287 header Varga 10, Saṃhitā 'agneva' without avagraha, bhāṣya 'Ā, Gṛ. 2-1-6' zoomed; p. 288 right edge of the page cut off in the scan (lost text marked […]), header Sū. numeral lost, Ni. 3-13 (as printed) zoomed, printed English 'disgrace·' [sic]. New (p. 289): header Varga 11; grammar root printed 'sraja' (for sṛja; as it looks), Pā. Sū. 6-4-48, 6-1-199 (two tries), 6-1-176 (flat-footed 7; two tries), 6-4-25 (two tries), 6-1-186 zoomed; Ṛk 6 Saṃhitā: a printed word before 'varūthaṃ' struck through and illegible [?], handwritten correction 'tanve' above it transcribed (UNDECIDED logged); signature marks '[19]', 'Vol. 14' at the foot. New (pp. 290–292): p. 290 header Sū. 189 (read from the strip); Ṛk 6 Pada prints 'tanve' in type (agrees with the handwritten Saṃhitā correction); printed English 'becomes such as you are exempts' (no comma) as printed; p. 291 header Varga 11, Ni. 3-13 (varūtha; as printed), Pā. Sū. 6-3-91, 8-3-3 (pratyayottarapadayośca; as printed), 3-4-97, 3-4-94, 3-1-34 (first zoom landed a line high), U. Sū. 2-163 (as printed), Pā. Sū. 3-1-7 zoomed; root 'vṛñ' called svādi as printed; p. 292 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Pā. Sū. 3-2-168, 6-4-48, 6-1-65 (ಜ-like glyph = 5), 6-1-71 zoomed; bhāṣya 'sannihita eva' zoomed (ta could carry an e-sign). New (pp. 293–295): p. 293 header Varga 11, Ni. 3-20, Ni. 3-9 and 3-19 (uśik; as printed), Ni. 6-12 zoomed; 'ippattu dviśanāmagaḷalli' (term unclear, as printed; zoomed); printed English stray mark before 'worship' and final '·' [sic]; p. 294 header Sū. 189, Ṛ. Saṃ. 3-1-12, Pā. Sū. 8-3-9, 8-3-3, 3-1-109, 6-1-16, 'U. Saṃ. 2-29' (abbreviation as printed) zoomed; suffix 'ṣeṇyaṇ' as printed; p. 295 header 'A. [2] A. 5 Va. 11' (Aṣṭaka numeral prints like 'ಅ.ವ', as on p. 285); printed English 'life·' [sic]. New (pp. 296–297): p. 296 header Sū. 189, Ṛ 1-165-15 (ಜ-like = 5), Ṛ. Saṃ. 1-44-11, 'jorī ca. U. Sū. 2-181' (three tries), Ni. 3-9 (kṣipra names; as printed), Ṛ. Saṃ. 10-36-6 zoomed; p. 297 header 'A. 2. A. 5 Va. 11', Ṛ. Saṃ. 2-34-4, 1-119-1, 'sapta dātṝn' zoomed; Ṛ. Saṃ. 10-120-6 verse prints 'ā parṣate' (zoomed, as printed), its number read from the strip; Max Muller quotation stray points/marks [sic]. Note: page.py zoom boxes landed ~40–50 px off in y (and off in x on p. 297, whose strips were not reduced): generous boxes needed. New (pp. 298–299): p. 298 header prints 'Sū. 188' (zoomed; the sūkta is 189), Ṛ. Saṃ. 2-34-4 (no closing parenthesis), 10-43-8, Pā. Sū. 2-4-53, 3-1-52, 6-1-64, 6-1-163 zoomed; U. Sū. for ṛñjivṛdhi… 2-2[?]4 UNDECIDED (middle digit broken); p. 299 header 'A. 2. A 5. Va. 11.', Ni. 10-11, Ṛ. Saṃ. 10-98-7, Tai. Saṃ. 6-4-10-1, 2-2-9-1 zoomed. New (pp. 300–301): p. 300 header still 'Sū. 189' over the Pīṭhike of 190; Ṛ. Saṃ. 4-50-8, 4-50-9, 10-141-3, '4-49 ; 7-97', 'about 120 times', Ṛ. Saṃ. 2-23 (19 ṛks; 1, 5, 9, 11, 17, 19 = 6 ṛks to Bṛhaspati), 10th maṇḍala 98th sūkta zoomed; p. 301 header 'A. 2. A. 5. Va. 11.', Ni. 2-11, '12 years', Viṣṇu Purāṇa 4-20-7, Bhāgavata 9-22-14 to 17 zoomed; Nirukta quotation 'kauravau' as printed. Tool note: page.py zoom boxes often land off target (strip cuts in zoom mode seem to differ from the displayed strips); tall boxes were used. New (pp. 302–303): p. 302 header Sū. 189, '108neya sūkta' (two tries), Ṛ Saṃ 7-97-8, 2-23-17, 2-26-3, 10-72-8, 10-141-3, 7-10-4 ; 10-14-3, 4-40-1 ; 4-73-1 (as printed) ; 10-47-6, 2-23-4, 2-23-9, 3-62-4 ; 4-50-6, 7-97-7 zoomed (flat-footed glyph = 7, curled ತ-like = 2, as the A. 24 header confirms); '10-98-[?]' last digit UNDECIDED; word before 'mahattva' faint ('svara'? [?]); '2-23 3' hyphen missing; printed 'atyavaśaka'; p. 303 header 'A. 2. A. 5. Va. 11.', 10-100-5, 10-97-15 and 19, Ni. 2-28, 2-23-18 ; 1-56-5, 2-24-11 ; 8-61-18 zoomed; 1-105-17, 2-24-3, 4, 10-68-4 to 9, 10-68-5, 10-68-10, 4-50-1 and 'Tai. Saṃ. 4-4 10-1' (hyphen missing) read from the strip (zooms landed off target). New (pp. 304–305): p. 304 header Sū. 189, Ṛ. Saṃ. 2-1-3, 3-26-2, 10-68-9 zoomed, Sāyaṇa on '5-43-12' read from the strip (zoom missed); Saṃhitā 'soṣāmaviṃdat' without avagraha as printed; p. 305 header 'A. 2. A. 5. Va. 12.', Ṛ Saṃ. 7-10-4, '3-20-5, 4-40-1. 5-51-12', Ṛgvi. 1-27 (bhāṣya and Anuvāda) zoomed; '7-41-1, 7-44-1, 9-5-11, 10-35-11, 10-65-1, 10-130-4, 10-141-3' read from the strip; bhāṣya prints 'so 'ślokyaṃ', the Anuvāda quotation 'suślokyaṃ'; signature marks '[20]', 'Vol. 14'. New (pp. 306–307): p. 306 heading 'Varga 12, 13', ṛk count 8 zoomed; bhāṣya 'draṣṭavyaṃ' (first akṣara partly broken) and 'Ni. 6-23' zoomed; Pada prints 'gāthānyaḥ' without the compound mark; p. 307 header 'A. 2. A. 5. Va. 12', Special Topics Nirukta reference 'Ni-4-27' as printed (zoomed; the bhāṣya cites Ni. 6-23); 'bhāga 5 pēju 682, bhāga 8 pēju 168' read from the strip; stray mark after 'surisuvavanu' [sic]. Tool note: page.py zoom boxes again landed one or more lines off (by up to ~300 px on p. 307); wide 600-dpi zooms cropped locally were used.
