@@ -9396,22 +9396,22 @@ Here ends the hundred and seventy-fourth (174th) Sūkta.
 
 ### Printed p. 361  (PDF 381)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 **Anukramaṇikā (Sanskrit, as read; doubtful passages marked [?])**
 
-> मत्स्यपायीति षडृचमेकादशं सूक्तमागस्त्यमैन्द्रं । आद्या स्कन्धोग्रीवी बृहती द्वितीयस्य पादस्य द्वादशाक्षरत्वादितरेषां त्रयोदशानामष्टाक्षरत्वाच्च । द्वितीयश्चैन्यं कुसारिण्यरोबृहती वा स्कन्धोग्रीवी वा [?] । अनु. २-३ । इत्युक्तलक्षणसद्भावात् । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषयो आनुष्टुभं त्रितीविशेषवचनेनाप्येदितत्वादनुष्टुभः । मत्सि षळानुष्टुभं तु त्रिष्टुबन्तं त्वाद्या स्कन्धोग्रीवीत्यनुक्रान्तं ॥ द्वितीये स्वरसाम्न्यादृ ऋचः स्तोत्रीयाः । अभिजिद्वैहत्स्पृष्ठ इति खण्डे सूत्रितं । मत्स्यपायि ते मह एनेन प्रत्येतेन । आ. ८ ५ [?] । इति ॥
+> मत्स्यपायीति षडृचमेकादशं सूक्तमागस्त्यमैन्द्रं । आद्या स्कन्धोग्रीवी बृहती द्वितीयस्य पादस्य द्वादशाक्षरत्वादितरेषां त्रयाणामष्टाक्षरत्वाच्च । द्वितीयश्चेन्न्यङ्कुसारिण्युरोबृहती वा स्कन्धोग्रीवी वा [?] । अनु. २-३ । इत्युक्तलक्षणसद्भावात् । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषयो आनुष्टुभं त्विति विशेषवचनेनापोदितत्वादनुष्टुभः [?] । मत्सि षळानुष्टुभं तु त्रिष्टुबन्तं त्वाद्या स्कन्धोग्रीवीत्यनुक्रान्तं ॥ द्वितीये स्वरसाम्न्याद्यस्त्र्यृचः स्तोत्रीयाः । अभिजिद्वैहत्स्पृष्ठ इति खण्डे सूत्रितं । मत्स्यपायि ते मह एनेन प्रत्येतेन । आ. ८ ५ [?] । इति ॥
 
-> *matsyapāyīti ṣaḍṛcam ekādaśaṃ sūktam āgastyam aindraṃ | ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayodaśānām aṣṭākṣaratvāc ca | dvitīyaś caiṇyaṃ kusāriṇyaro bṛhatī vā skandhogrīvī vā [?] | anu. 2-3 | ity uktalakṣaṇasadbhāvāt | antyā triṣṭup | śiṣṭās triṣṭubantaparibhāṣayo ānuṣṭubhaṃ tritīviśeṣavacanenāpy edita tvād anuṣṭubhaḥ | matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvīty anukrāntaṃ ‖ dvitīye svarasāmnyādṛ ṛcaḥ stotrīyāḥ | abhijidvaihatspṛṣṭha iti khaṇḍe sūtritaṃ | matsyapāyi te maha enena pratyetena | ā. 8 5 [?] | iti ‖* [?]
+> *matsyapāyīti ṣaḍṛcam ekādaśaṃ sūktam āgastyam aindraṃ | ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayāṇām aṣṭākṣaratvāc ca | dvitīyaś cen nyaṅkusāriṇy urobṛhatī vā skandhogrīvī vā [?] | anu. 2-3 | ity uktalakṣaṇasadbhāvāt | antyā triṣṭup | śiṣṭās triṣṭubantaparibhāṣayo ānuṣṭubhaṃ tv iti viśeṣavacanenāpoditatvād anuṣṭubhaḥ [?] | matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvīty anukrāntaṃ ‖ dvitīye svarasāmnyādyas tryṛcaḥ stotrīyāḥ | abhijidvaihatspṛṣṭha iti khaṇḍe sūtritaṃ | matsyapāyi te maha enena pratyetena | ā. 8-5 | iti ‖* [?]
 
 **Anuvāda (Kannada, translated)**
 
-This sūkta beginning *matsyapāyi te* is the eleventh sūkta in the twenty-third anuvāka. It has six ṛks. The ṛṣi of this sūkta is Agastya; the deity is Indra. In the Anukramaṇikā it is stated: "*ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayodaśānām aṣṭākṣaratvāc ca*; *dvitīyaś caiṇyaṃ kusāriṇyaro bṛhatī vā skandhogrīvī vā*" (Anukr. 2-3 [?]): that is, since in the first ṛk the first foot has twelve syllables and the remaining three feet have eight syllables each, such a ṛk is called, according to the Chandaḥśāstra, *skandhogrīvī bṛhatī* or *uro-bṛhatī*. Or, if the second foot has twelve syllables and the remaining feet eight each, it is called *nyaṅkusāriṇī bṛhatī*. The last ṛk of this sūkta is in *triṣṭubh* metre; the rest are in *anuṣṭubh*. In the Anukramaṇikā it is stated: "*matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvī*". In the *svarasāman* the first three ṛks of this sūkta are to be recited as *stotrīya* mantras; in the Āśvalāyana Śrauta-sūtra, in the section *abhijid-vaihat-spṛṣṭha*, the sūtra "*matsyapāyi te maha enena pratyetena*" explains it (Āś. Śrau. 8-5 [?]).
+This sūkta beginning *matsyapāyi te* is the eleventh sūkta in the twenty-third anuvāka. It has six ṛks. The ṛṣi of this sūkta is Agastya; the deity is Indra. In the Anukramaṇikā it is stated: "*ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayāṇām aṣṭākṣaratvāc ca*; *dvitīyaś caiṇyaṃ kusāriṇyaro bṛhatī vā skandhogrīvī vā*" (Anukr. 2-3 [?]): that is, since in the first ṛk the first foot has twelve syllables and the remaining three feet have eight syllables each, such a ṛk is called, according to the Chandaḥśāstra, *skandhogrīvī bṛhatī* or *uro-bṛhatī*. Or, if the second foot has twelve syllables and the remaining feet eight each, it is called *nyaṅkusāriṇī bṛhatī*. The last ṛk of this sūkta is in *triṣṭubh* metre; the rest are in *anuṣṭubh*. In the Anukramaṇikā it is stated: "*matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvī*". In the *svarasāman* the first three ṛks of this sūkta are to be recited as *stotrīya* mantras; in the Āśvalāyana Śrauta-sūtra, in the section *abhijid-vaihat-spṛṣṭha*, the sūtra "*matsyapāyi te maha enena pratyetena*" explains it (Āś. Śrau. 8-5 [?]).
 
 **Sūkta — 175**
 
 Maṇḍala — 1 ‖ Anuvāka — 23 ‖ Sūkta — 175 ‖
-Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 18 [?] ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 18 ‖
 Number of ṛks in the sūkta — 6 ‖
 Ṛṣi — Agastya ‖ Devatā — Indra ‖
 Chandas — 1. *skandhogrīvī bṛhatī*; 2–5. *anuṣṭubh*; 6. *triṣṭubh* ‖
