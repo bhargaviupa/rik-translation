@@ -774,5 +774,13 @@
   "old": "Ṛ.Saṃ. 6-18-3 [?], 6-45-24 [?]",
   "new": "6-18-3, 6-45-24",
   "note": "190dpi: ೬-೧೮-೩ and ೬-೪೫-೨೪ legible; both quotes agree with the file (quote readings not marked)."
+ },
+ {
+  "pdf": 396,
+  "printed": 376,
+  "status": "resolved",
+  "old": "bhāṣya Rik 4: ‘ekanemi [?]’; ṛ. 5-29-10 [?]; ṛ. 1-106-6 [?]; ṛ. 4-16-12 [?]",
+  "new": "ekanemi; ṛ. 5-29-10; ṛ. 1 51. 6 [?] (as printed ‘ಋ. ೧ ೫೧. ೬’); ṛ. 4-16-12",
+  "note": "220dpi: bhāṣya of Ṛk 4 compared line by line; the second citation prints ೧ ೫೧. ೬ (no hyphen after the 1), not 1-106-6."
  }
 ]
