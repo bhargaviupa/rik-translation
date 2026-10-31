@@ -4114,5 +4114,53 @@
   ],
   "note": "ZOOMED, read: Chā. U. 5-24-2",
   "answer": ""
+ },
+ {
+  "pdf": 128,
+  "printed": 110,
+  "crop": [
+   0.245,
+   0.265,
+   0.642,
+   0.786
+  ],
+  "note": "ZOOMED, read: Ni. 7-21 (ref after 'api vā viśvānara eva syāt…')",
+  "answer": ""
+ },
+ {
+  "pdf": 128,
+  "printed": 110,
+  "crop": [
+   0.424,
+   0.451,
+   0.482,
+   0.674
+  ],
+  "note": "UNDECIDED: ref after 'tatko vaiśvānaraḥ' read Ni. 6[?]-22 (first digit hooked, 6 or 7?)",
+  "answer": ""
+ },
+ {
+  "pdf": 128,
+  "printed": 110,
+  "crop": [
+   0.515,
+   0.535,
+   0.242,
+   0.418
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-59-6 (pra nū mahitvaṃ vṛṣabhasya vocaṃ)",
+  "answer": ""
+ },
+ {
+  "pdf": 128,
+  "printed": 110,
+  "crop": [
+   0.71,
+   0.73,
+   0.546,
+   0.764
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 1-101 : 1-102",
+  "answer": ""
  }
 ]
