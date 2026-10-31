@@ -1914,7 +1914,7 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 > *ā vidyunmadbhirmarutaḥ svarkai rathebhiryāta ṛṣṭimadbhiraśvaparṇaiḥ | ā varṣiṣṭhayā na iṣā vayo na paptatā sumāyāḥ ‖*
 
-(Ṛ. Saṃ. 1-88-1) — in the ṛk that teaches this same idea, the Maruts' coming, with their weapons, riding in chariots, is described. About the moving of the line of clouds together with lightning, the sentence *guhā carantī manuṣo na yoṣā* has been said in the form of an illustration. In the cloud the lightning (*vidyut*) is hidden; and because it moves in the middle region, for the word *guhā* two meanings, "secret place" and "the middle region", are explained. The particle *na* is explained by Yāska: "*neti pratiṣedhārthīyo bhāṣāyām ubhayam anvadhyāyam*" (Ni. 1-4) [as read]; the particle *na*, as a word of ordinary usage, conveys the sense of negation. In the Veda it is used in two kinds of sense, negation and comparison (*upamā*). For example:
+(Ṛ. Saṃ. 1-88-1) — in the ṛk that teaches this same idea, the Maruts' coming, with their weapons, riding in chariots, is described. About the moving of the line of clouds together with lightning, the sentence *guhā carantī manuṣo na yoṣā* has been said in the form of an illustration. In the cloud the lightning (*vidyut*) is hidden; and because it moves in the middle region, for the word *guhā* two meanings, "secret place" and "the middle region", are explained. The particle *na* is explained by Yāska: "*neti pratiṣedhārthīyo bhāṣāyām ubhayam anvadhyāyam*" (Ni. 1-4 [?]) [as read]; the particle *na*, as a word of ordinary usage, conveys the sense of negation. In the Veda it is used in two kinds of sense, negation and comparison (*upamā*). For example:
 
 > नेन्द्रं देवममंसत ।
 
@@ -1934,7 +1934,7 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 ### Printed p. 83  (PDF 103)
 
-*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* …is perceptible only in the rainy season: thus one kind of meaning is explained. In the second meaning, for the words *vidathyā vāk* the Bhāṣyakāra says "*vedanārhā vivadamānayor vāk*" — the speech of those who dispute, which is worth knowing, with a view to deciding the meaning by argument, with the *pūrvapakṣa* and the *siddhānta*; this speech is perceptible only at that time in the gathering of people in the midst of the assembly: so the line of clouds and lightning are perceptible only in the rainy season — thus it is described. By this the word *sabhāvatī* is explained here. The Maruts move with such lines of clouds and, bearing their weapons, may come to the sacrificial hall for the sacrifice: this is explained by the sentence "*evaṃrūpā yeṣu mimyakṣa te maruto devayajanam āgacchantv*". The word *vidatha* is stated among the names of sacrifice (Ni. 3-13); *vidathāni vedanāni* (Ni. 6-[?]) — it is also a word conveying the meaning "knowledge" (*vijñāna*).
+*(Header: "Aṣṭaka 2, Adhyāya 4, Varga 4".)* …is perceptible only in the rainy season: thus one kind of meaning is explained. In the second meaning, for the words *vidathyā vāk* the Bhāṣyakāra says "*vedanārhā vivadamānayor vāk*" — the speech of those who dispute, which is worth knowing, with a view to deciding the meaning by argument, with the *pūrvapakṣa* and the *siddhānta*; this speech is perceptible only at that time in the gathering of people in the midst of the assembly: so the line of clouds and lightning are perceptible only in the rainy season — thus it is described. By this the word *sabhāvatī* is explained here. The Maruts move with such lines of clouds and, bearing their weapons, may come to the sacrificial hall for the sacrifice: this is explained by the sentence "*evaṃrūpā yeṣu mimyakṣa te maruto devayajanam āgacchantv*". The word *vidatha* is stated among the names of sacrifice (Ni. 3-17 [?]); *vidathāni vedanāni* (Ni. 6-[?]) — it is also a word conveying the meaning "knowledge" (*vijñāna*).
 
 > होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥
 
@@ -2006,7 +2006,7 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 > *utābhaye puruhūta śravobhireko dṛḷhamavado vṛtrahā san | ime cidindra rodasī apāre yatsaṃgṛbhṇā maghavankāśirit te ‖ [?]*
 
-(Ṛ. Saṃ. 3-30-5) — here *rodasī*: "*rodhasī dyāvāpṛthivyau | vividhāni hi bhūtāni ete rundhaḥ virodhanāt*" — since these two obstruct and shut in many kinds of beings, heaven and earth are intended by the word *rodasī*: this meaning is explained (Ni. 6-1). The meaning is given in one way: the Marut-gods, by their fierce form and abundant rain, do not at all offer to heaven and earth the insult of non-rain (*anāvṛṣṭi*). In the second meaning the word *rodasī* is used in the sense "the wife of Rudra, the manifestation of Rudra" (Ni. 11-50); having said so, *[continues on the next page]*
+(Ṛ. Saṃ. 3-30-5 [?]) — here *rodasī*: "*rodhasī dyāvāpṛthivyau | vividhāni hi bhūtāni ete rundhaḥ virodhanāt*" — since these two obstruct and shut in many kinds of beings, heaven and earth are intended by the word *rodasī*: this meaning is explained (Ni. 6-1 [?]). The meaning is given in one way: the Marut-gods, by their fierce form and abundant rain, do not at all offer to heaven and earth the insult of non-rain (*anāvṛṣṭi*). In the second meaning the word *rodasī* is used in the sense "the wife of Rudra, the manifestation of Rudra" (Ni. 11-30 [?]); having said so, *[continues on the next page]*
 
 ---
 
@@ -2024,9 +2024,9 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 > *rathaṃ nu mārutaṃ vayaṃ śravasyumā havāmahe | ā yasmintasthau suraṇāni bibhratī sacā marutsu rodasī ‖*
 
-(Ṛ. Saṃ. 5-56-8) — quoting this ṛk, he explains: "we call here the chariot of the Maruts, desiring fame, in which Rodasī, bearing pleasing [riches], stands with the Maruts" (Ni. 11-50).
+(Ṛ. Saṃ. 5-56-8) — quoting this ṛk, he explains: "we call here the chariot of the Maruts, desiring fame, in which Rodasī, bearing pleasing [riches], stands with the Maruts" (Ni. 11-30 [?]).
 
-***devāḥ*** — *modayitāro mādayitāro vā marutaḥ*: Yāska says "*devo dānād vā dīpanād vā dyotanād vā dyusthāno bhavatīti vā*" (Ni. 7-15) — [the deity is so called] because he gives to the sacrificers abundantly with favour, or because he makes the sacrificers radiant, or because he himself shines with his own splendour, or because he dwells in the excellent heaven: thus he gives the meaning of the word *deva*. Here the Marut-gods are called *devāḥ*; the purport is that these Marut-gods keep the sacrificers happy, or make them intoxicated with joy.
+***devāḥ*** — *modayitāro mādayitāro vā marutaḥ*: Yāska says "*devo dānād vā dīpanād vā dyotanād vā dyusthāno bhavatīti vā*" (Ni. 7-15 [?]) — [the deity is so called] because he gives to the sacrificers abundantly with favour, or because he makes the sacrificers radiant, or because he himself shines with his own splendour, or because he dwells in the excellent heaven: thus he gives the meaning of the word *deva*. Here the Marut-gods are called *devāḥ*; the purport is that these Marut-gods keep the sacrificers happy, or make them intoxicated with joy.
 
 ***sakhyāya vṛdhaṃ juṣante*** — by this sentence it is described that the Maruts increase in order that their friendship may reach others; and that heaven and earth gain prosperity for the good of the world: that is, "for the friendship of heaven and earth" — in order to be always together with heaven and earth — thus the meaning "they increase" is explained: they promote the growth of heaven and earth by their friendship.
 
@@ -2376,7 +2376,7 @@ Addressing the Marut-gods, the time when the Mitra deities and the rest perform 
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Special Topics (Viśeṣaviṣayagaḷu).**
 
-***śavasaḥ antam asme nu nahi āpuḥ*** — *yuṣmākaṃ sambandhino balasya avasānam asmākaṃ madhye 'py eko 'pi kṣipraṃ naiva khalu prāpnuvanti | sannidhāvasannidhau ca na prāpnuvanti*. The word *śavas* is stated among the names of water (Ni. 1-12 [?]) and read among the names of strength (Ni. 3-9). The seers of the mantra, in order to praise the greatness of the Maruts, say that not even one of us, whether near you or far, has the capacity to know by knowledge the measure of your strength; thus, since it is boundless, the Maruts' greatness is praised.
+***śavasaḥ antam asme nu nahi āpuḥ*** — *yuṣmākaṃ sambandhino balasya avasānam asmākaṃ madhye 'py eko 'pi kṣipraṃ naiva khalu prāpnuvanti | sannidhāvasannidhau ca na prāpnuvanti*. The word *śavas* is stated among the names of water (Ni. 1-12 [?]) and read among the names of strength (Ni. 2-9 [?]). The seers of the mantra, in order to praise the greatness of the Maruts, say that not even one of us, whether near you or far, has the capacity to know by knowledge the measure of your strength; thus, since it is boundless, the Maruts' greatness is praised.
 
 The word *asme*, though having the same form in all the seven cases, conveys the sense of the respective case; thus the Nirukta-writers have given explanations and examples. *Asme te bandhuḥ* — in this sentence the word *asme* has the sense of the nominative case, "we". *Asme yātaṃ nāsatyā sajoṣāḥ* — here the sense of the accusative, *asmān* ("us"). *Asme samānebhir vṛṣabha pauṃsyebhiḥ* — here the sense of the instrumental, *asmābhiḥ* ("by us"). *Asme priyendhi maghavann ṛjīṣin* — the sense of the dative, *asmabhyam* ("to us"). *Asme ārāc cid dveṣaḥ sanutar yuyotu* — the sense of the ablative, *asmat* ("from us"). *Ūrvo iva paprathe kāmo asme* — the use of the genitive, *asmākam* ("our"). *Asme dhatta vasavo vasūni* — the sense of the locative, *asmāsu* ("in us") is given here (Ni. 6-[?]).
 
@@ -2444,7 +2444,7 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 5".)* **Special Topics (continued).**
 
-***purā mahi naḥ*** — *pūrvasmin atīte 'pi kāle mahadbalam asmadartham vocemahi*: "even in the past too we shall declare his great strength for our sake". In the preceding days of the sacrifice too we have been praising the greatness of the mighty Indra who favours us; and ***naḥ ṛbhukṣāḥ anu syāt*** — the wish is made that Indra, as to us who live among ordinary men, as sacrificers, may fulfil our desires. The word *ṛbhukṣāḥ* is stated among the names of "great" (Ni. 3-13). And —
+***purā mahi naḥ*** — *pūrvasmin atīte 'pi kāle mahadbalam asmadartham vocemahi*: "even in the past too we shall declare his great strength for our sake". In the preceding days of the sacrifice too we have been praising the greatness of the mighty Indra who favours us; and ***naḥ ṛbhukṣāḥ anu syāt*** — the wish is made that Indra, as to us who live among ordinary men, as sacrificers, may fulfil our desires. The word *ṛbhukṣāḥ* is stated among the names of "great" (Ni. 3-13 [?]). And —
 
 > मा नो मित्रो वरुणो अर्यमायुरिन्द्र ऋभुक्षा मरुतः परि ख्यन् । यद्वाजिनो देवजातस्य सप्तेः प्रवक्ष्यामो विदथे वीर्याणि ॥
 
@@ -2504,7 +2504,7 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 *(Header: "Maṃ. 1 A. 23 Sū. 167".)* …and, being favoured, for the growth of our body we pray the deities that we may have food and strength, and be victorious, and be of a nature to do abundant giving."
 
-The word *iṣa* is stated among the names of food (Ni. 1-7); the word *vṛjana* is also read among the names of strength (Ni. 2-9 [?]). Here the meaning "strength" is given. The Nirukta-writer has also illustrated the use of this word in another sense:
+The word *iṣa* is stated among the names of food (Ni. 2-7 [?]); the word *vṛjana* is also read among the names of strength (Ni. 2-9 [?]). Here the meaning "strength" is given. The Nirukta-writer has also illustrated the use of this word in another sense:
 
 > महां अमत्रो वृजने विरप्शी उग्रं शवः पत्यते धृष्ण्वोजः । नाह विव्याच पृथिवी चनैनं यत्सोमासो हर्यश्वममन्दन् ॥
 
@@ -2586,7 +2586,7 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 > *saturvaṇirmahnā areṇu pauṃsye girerbhṛṣṭirna bhrājate tujā śavaḥ | yena śuṣṇaṃ māyinamāyaso made dudhra ābhūṣu rāmayanni dāmani ‖ [?]*
 
-(Ṛ. Saṃ. 1-54-3) — in the cited ṛk *turvaṇiḥ* (Ni. 6-14) is explained as "*stotāraṃ tūrṇaṃ bhajate*" — "he who comes quickly near the praiser": the meaning "one who has haste" is given.
+(Ṛ. Saṃ. 1-54-3) — in the cited ṛk *turvaṇiḥ* (Ni. 6-14 [?]) is explained as "*stotāraṃ tūrṇaṃ bhajate*" — "he who comes quickly near the praiser": the meaning "one who has haste" is given.
 
 ***dhiyaṃ dhiyam*** — for these words: *yuṣmatsambandhivṛṣṭipradānādikaṃ sarvaṃ karma* — "all the acts of yours, giving rain and the rest": the grace of giving rain by the Maruts is explained as the first of the later acts; and the meaning that these acts, too, are such as give satisfaction to the gods, "like those who serve the gods" (*devān prāpayitāra iva*, [as read]), is explained for the word *devayāḥ*: "*devārthaṃ havirādyutpādanāya vṛṣṭiṃ kurutha*" — the Marut-gods cause rain, for the very sake of the production, in the form of grain and the like, of the oblations offered to the gods.
 
@@ -2866,13 +2866,13 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; the Special Topics of Ṛk 5 continue. A stray "XIII 9" is printed at the foot, a signature mark.)*
 
-***iṣāṃ yāmani dhanvacyuto na*** — *annānāṃ tatsādhanānāṃ sasyānāṃ prāptau samṛddhyarthaṃ udakasrāviṇo meghā iva*: the word *dhanvan* is read among the names of the atmosphere (Ni. 2-10), and in Yāska's text:
+***iṣāṃ yāmani dhanvacyuto na*** — *annānāṃ tatsādhanānāṃ sasyānāṃ prāptau samṛddhyarthaṃ udakasrāviṇo meghā iva*: the word *dhanvan* is read among the names of the atmosphere (Ni. 1-10 [?]), and in Yāska's text:
 
 > यः परस्याः परावतस्तिरो धन्वाति रोचते । स नः पर्षदति द्विषः ॥
 
 > *yaḥ parasyāḥ parāvatas tiro dhanvāti rocate | sa naḥ parṣad ati dviṣaḥ ‖*
 
-(Ṛ. Saṃ. 10-187-2). In this ṛk the word *dhanvan* is explained by Yāska as "*dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*" [as read]. Sāyaṇa says, "*dhanvan śabdo'ntarikṣavacanaḥ | tena tatsthamudakaṃ lakṣyate*": the word *dhanvan* denotes the atmosphere, but here, by the word, the sense "the water that is in the atmosphere" is stated. As people desire the necessity of clouds that pour water for the production of the crops that are the cause of food and the like, so the sacrificer, with abundant praise, desires the coming of the Marut-gods. This is described.
+(Ṛ. Saṃ. 10-187-2 [?]). In this ṛk the word *dhanvan* is explained by Yāska as "*dhanvāntarikṣaṃ dhanvanty asmād āpaḥ*" [as read]. Sāyaṇa says, "*dhanvan śabdo'ntarikṣavacanaḥ | tena tatsthamudakaṃ lakṣyate*": the word *dhanvan* denotes the atmosphere, but here, by the word, the sense "the water that is in the atmosphere" is stated. As people desire the necessity of clouds that pour water for the production of the crops that are the cause of food and the like, so the sacrificer, with abundant praise, desires the coming of the Marut-gods. This is described.
 
 ***ahanyaḥ etaśo na*** — by this sentence, as a horse every day comes under the trainer's command and learns many kinds of gaits, so the comings of the Marut-gods too are of many kinds: this is the sense illustrated by the comparison.
 

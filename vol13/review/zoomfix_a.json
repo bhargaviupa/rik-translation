@@ -1990,5 +1990,77 @@
   "old": "(Ni. 1-10 [?]); (Ṛ. Saṃ. 10-187-2 [?])",
   "new": "(Ni. 2-10); (Ṛ. Saṃ. 10-187-2)",
   "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 1-10->2-10; not viewed by me."
+ },
+ {
+  "pdf": 102,
+  "printed": 82,
+  "status": "unresolved",
+  "old": "(Ni. 1-4)",
+  "new": "(Ni. 1-4 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 103,
+  "printed": 83,
+  "status": "unresolved",
+  "old": "(Ni. 3-13)",
+  "new": "(Ni. 3-17 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 106,
+  "printed": 86,
+  "status": "unresolved",
+  "old": "(Ṛ. Saṃ. 3-30-5); (Ni. 6-1); (Ni. 11-50)",
+  "new": "(Ṛ. Saṃ. 3-30-5 [?]); (Ni. 6-1 [?]); (Ni. 11-30 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 107,
+  "printed": 87,
+  "status": "unresolved",
+  "old": "(Ni. 11-50); (Ni. 7-15)",
+  "new": "(Ni. 11-30 [?]); (Ni. 7-15 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 125,
+  "printed": 105,
+  "status": "unresolved",
+  "old": "(Ni. 3-9)",
+  "new": "(Ni. 2-9 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 129,
+  "printed": 109,
+  "status": "unresolved",
+  "old": "(Ni. 3-13)",
+  "new": "(Ni. 3-13 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 132,
+  "printed": 112,
+  "status": "unresolved",
+  "old": "(Ni. 1-7)",
+  "new": "(Ni. 2-7 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 135,
+  "printed": 115,
+  "status": "unresolved",
+  "old": "(Ni. 6-14)",
+  "new": "(Ni. 6-14 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 149,
+  "printed": 129,
+  "status": "unresolved",
+  "old": "(Ni. 2-10); (Ṛ. Saṃ. 10-187-2)",
+  "new": "(Ni. 1-10 [?]); (Ṛ. Saṃ. 10-187-2 [?])",
+  "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
  }
 ]
