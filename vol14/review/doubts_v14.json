@@ -15382,5 +15382,29 @@
   ],
   "note": "ZOOMED, read: Nirukta reference '(Ni-4-27)' as printed (second digit the flat-footed 7-glyph; the bhāṣya cites Ni. 6-23) — two tries, the first two boxes landed off; 'bhāga 5 … bhāga 8' read from the strip",
   "answer": ""
+ },
+ {
+  "pdf": 327,
+  "printed": 308,
+  "crop": [
+   0.382,
+   0.428,
+   0.682,
+   0.822
+  ],
+  "note": "ZOOMED, read: Nirukta reference (Ni. 5-4) after the arka quotation (ja-like glyph = 5)",
+  "answer": ""
+ },
+ {
+  "pdf": 327,
+  "printed": 308,
+  "crop": [
+   0.778,
+   0.82,
+   0.633,
+   0.822
+  ],
+  "note": "ZOOMED, read: Ṛ saṃ 1-10-1 (gāyanti tvā)",
+  "answer": ""
  }
 ]
