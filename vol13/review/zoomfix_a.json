@@ -198,5 +198,29 @@
   "old": "Bṛ.Up. 1-1-1 [?]; Ṛ.Saṃ. 2-9-1 [?]",
   "new": "Bṛ. Up. 1-1-1; Ṛ. Saṃ. 2-8-1",
   "note": "650dpi: ೧-೧-೧ and ೨-೮-೧ (middle glyph ೮ ಲ/ಅ-like). UNRESOLVED: Nirukta refs for 'dhana names' and 'saṃgrāma names' both look like ೨-೯ in the print (single digit after the dash), not 2-10 / 2-17 as in the file — left [?] in the file."
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 3-4-4 [?]; 3-54-18 [?]",
+  "new": "3-4-4; 3-54-18 (no [?])",
+  "note": "650dpi: ೩-೪-೪ and ೩-೫೪-೧೮ legible; both quotes match the file. The logged 'Nirukta refs 3-4, 2-1' entry (crop y .1–.35) — no Nirukta reference appears in that part of the page; nothing to change."
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "status": "resolved",
+  "old": "Nirukta refs 3-4, 2-1 (crop .1-.35)",
+  "new": "(none present)",
+  "note": "No (Ni. …) reference is printed in that band (English translation, harivaḥ, eṣa stomaḥ, etena paragraphs); the file has none either."
+ },
+ {
+  "pdf": 328,
+  "printed": 308,
+  "status": "resolved",
+  "old": "grammar sutra numerals; 'yebhih' note (crop .5-.9)",
+  "new": "(none present)",
+  "note": "No grammar section on this page (the page ends after the ‘gātu’ quotations at about 60% of its height); the logged crop does not correspond to any text in the file for p.308."
  }
 ]
