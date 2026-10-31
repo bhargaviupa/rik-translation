@@ -9788,13 +9788,13 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 > *tvaṃ ha nu tyad adamāyo dasyūṃr ekaḥ kṛṣvīr avano rāryāya |* [as read: [?]]
 
-(Ṛ. Saṃ. 6-18-3 [?]). In such ṛks, for the word *dasyūn*, "men without rites" is the meaning given. Since Indra has destroyed *dasyus* of the form of Vṛtra and other *asuras*, and *dasyus* of the form of men who perform no rites, the epithet *dasyuhā* (slayer of *dasyus*) is natural for him.
+(Ṛ. Saṃ. 6-18-3). In such ṛks, for the word *dasyūn*, "men without rites" is the meaning given. Since Indra has destroyed *dasyus* of the form of Vṛtra and other *asuras*, and *dasyus* of the form of men who perform no rites, the epithet *dasyuhā* (slayer of *dasyus*) is natural for him.
 
 > कुवित्सस्य प्र हि व्रजं गोमन्तं दस्युहा गमत् ।
 
 > *kuvit sasya pra hi vrajaṃ gomantaṃ dasyuhā gamat |* [as read: [?]]
 
-(Ṛ. Saṃ. 6-45-24 [?]). In many such ṛks this epithet shows Indra's extraordinary power, and also the protection of the world that arises through the slaying of *dasyus*. And —
+(Ṛ. Saṃ. 6-45-24). In many such ṛks this epithet shows Indra's extraordinary power, and also the protection of the world that arises through the slaying of *dasyus*. And —
 
 ***ārya, dasyu*** — it is the opinion of some that these two words are conventional terms denoting two different groups of people. The historians have discussed the distinction between these two groups: that the *ārya* are Sanskrit-speaking (*saṃskṛta*) and the *dasyus* are not Sanskrit-speaking and of different colour. This matter will be explained, with examples, further on.
 
