@@ -86,5 +86,29 @@
   "old": "Ai.Brā. 6-13 [?]; माध्यंदिने (in 'prajāpatir vai yajñaṃ…'); Chā.Up. 2-24-… [?]",
   "new": "Ai.Brā. 6-13; मध्यंदिने; Chā.Up. 2-24",
   "note": "210/450dpi: refs legible; print has ಮಧ್ಯಂದಿನೇ in that quote. NOT resolved: middle of the 'tebhyas tṛtīyasavane' quote (print reads …antevāsās tvanme-/vaibhiḥ saṃpibasveti, no omission dots; left as is, [?]); Ai.Brā. 12-2 ref not viewed."
+ },
+ {
+  "pdf": 309,
+  "printed": 289,
+  "status": "resolved",
+  "old": "Chā.Up. 3-16-4..7 [?]; …मायुरनुसंतनुतेति",
+  "new": "3-16-4..7 (no [?]); …मायुरनुसंतनोतीति",
+  "note": "450dpi: refs ೩-೧೬-೪, ೫, ೬, ೭ legible; third quote prints ಸಂತನೋತೀತಿ (first quote prints ಸಂತನುತೇತಿ, kept)."
+ },
+ {
+  "pdf": 310,
+  "printed": 290,
+  "status": "resolved",
+  "old": "Śa.Brā. 3-2-1-… [?]; योनिरक्रो वा",
+  "new": "Śa.Brā. 3-2-1-25 to 29 (ರಿಂದ ‘from … to’); योनिरतो वा",
+  "note": "600dpi ref ೩-೨-೧-೨೫ ರಿಂದ ೨೯; print has ಯೋನಿರತೋ ವಾ. 'yad vai myato' not separately re-read; quote otherwise matches."
+ },
+ {
+  "pdf": 311,
+  "printed": 291,
+  "status": "resolved",
+  "old": "Ni. 2-10 [?] (twice); Ni. 2-11 [?]; ततः शंतनोः राज्ये",
+  "new": "Ni. 2-10 (at samudre); no ref printed after the samudravanti quote; Ni. 2-11 (printed after both story quotes); ततश्शंतनो राज्ये",
+  "note": "190–600dpi: refs ೨-೧೦ and ೨-೧೧ legible; yājayāni confirmed (ya+ā)."
  }
 ]

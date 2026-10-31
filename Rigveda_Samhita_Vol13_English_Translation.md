@@ -7283,25 +7283,25 @@ At the morning pressing the sacrificer addresses the Vasus: "Open for us the doo
 
 > *taṃ ced etasmin vayasi kiṃcid upatapet sa brūyāt prāṇā rudrā idaṃ me mādhyaṃdinaṃ savanaṃ tṛtīyasavanam anusaṃtanuteti māhaṃ prāṇānāṃ rudrāṇāṃ madhye yajño vilopsīyety uddhaiva tata ety agado ha bhavati |*
 
-(Chā. Up. 3-16-4 [?]). If, during this period of forty-four years, there be indisposition of the body, he should pray, addressing the Rudras, "O Rudras, the vital breaths, let this my midday pressing be continued into the third pressing; let not my life-sacrifice be broken off in the midst of you": thus the person is freed from the indisposition.
+(Chā. Up. 3-16-4). If, during this period of forty-four years, there be indisposition of the body, he should pray, addressing the Rudras, "O Rudras, the vital breaths, let this my midday pressing be continued into the third pressing; let not my life-sacrifice be broken off in the midst of you": thus the person is freed from the indisposition.
 
 > अथ यान्यष्टाचत्वारिंशद्वर्षाणि तत्तृतीयसवनमष्टाचत्वारिंशदक्षरा जगती जागतं तृतीयसवनं तदस्यादित्या अन्वायत्ताः प्राणा वावादित्या एते हीदं सर्वमाददते ।
 
 > *atha yāny aṣṭācatvāriṃśadvarṣāṇi tat tṛtīyasavanam aṣṭācatvāriṃśadakṣarā jagatī jāgataṃ tṛtīyasavanaṃ tad asyādityā anvāyattāḥ prāṇā vāvādityā ete hīdaṃ sarvam ādadate |*
 
-(Chā. Up. 3-16-5 [?]). The Jagatī, of forty-eight syllables, is the metre of the third pressing; hence the last forty-eight years of the man's life are the evening pressing (*sāyaṃsavana*). Since at the time of the departure of the breath the vital breaths take all (*ādadate*) with themselves, they are the Ādityas. And these breaths, in the form of Ādityas, are the presiding deities of this third pressing.
+(Chā. Up. 3-16-5). The Jagatī, of forty-eight syllables, is the metre of the third pressing; hence the last forty-eight years of the man's life are the evening pressing (*sāyaṃsavana*). Since at the time of the departure of the breath the vital breaths take all (*ādadate*) with themselves, they are the Ādityas. And these breaths, in the form of Ādityas, are the presiding deities of this third pressing.
 
-> तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनुसंतनुतेति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति ।
+> तं चेदेतस्मिन्वयसि किंचिदुपतपेत्स ब्रूयात्प्राणा आदित्या इदं मे तृतीयसवनमायुरनुसंतनोतीति माहं प्राणानामादित्यानां मध्ये यज्ञो विलोप्सीयेत्युद्धैव तत एत्यगदो हैव भवति ।
 
-> *taṃ ced etasmin vayasi kiṃcid upatapet sa brūyāt prāṇā ādityā idaṃ me tṛtīyasavanam āyur anusaṃtanuteti māhaṃ prāṇānām ādityānāṃ madhye yajño vilopsīyety uddhaiva tata ety agado haiva bhavati |*
+> *taṃ ced etasmin vayasi kiṃcid upatapet sa brūyāt prāṇā ādityā idaṃ me tṛtīyasavanam āyur anusaṃtanotīti māhaṃ prāṇānām ādityānāṃ madhye yajño vilopsīyety uddhaiva tata ety agado haiva bhavati |*
 
-(Chā. Up. 3-16-6 [?]). If indisposition arises in this period, he should pray, addressing the Ādityas, "Let my sacrifice not be broken in the midst; let my life be fulfilled whole": and then the life-sacrifice is carried through unbroken, complete in all its parts.
+(Chā. Up. 3-16-6). If indisposition arises in this period, he should pray, addressing the Ādityas, "Let my sacrifice not be broken in the midst; let my life be fulfilled whole": and then the life-sacrifice is carried through unbroken, complete in all its parts.
 
 > एतद्ध स्म वै तद्विद्वानाह महिदास ऐतरेयः स किं म एतदुपतपसि योऽहमनेन न प्रेष्यामीति स ह षोडशं वर्षशतमजीवत्प्र ह षोडशं वर्षशतं जीवति य एवं वेद ।
 
 > *etad dha sma vai tad vidvān āha mahidāsa aitareyaḥ sa kiṃ ma etad upatapasi yo 'ham anena na preṣyāmīti sa ha ṣoḍaśaṃ varṣaśatam ajīvat pra ha ṣoḍaśaṃ varṣaśataṃ jīvati ya evaṃ veda |*
 
-(Chā. Up. 3-16-7 [?]). Since Mahidāsa Aitareya had this knowledge of the truth, it is described that, without fear of bodily illness and the like, he lived a hundred and sixteen years, fulfilling his life-sacrifice entirely and fully; thus the greatness of the three pressings, which are of the nature of a man's life, is described. In the ṛk at hand, the relation of Indra, the deity of all the sacrificial means such as showering (*vṛṣṇya*), with the *savana* — a relation beyond the ordinary — has been described. And to Indra
+(Chā. Up. 3-16-7). Since Mahidāsa Aitareya had this knowledge of the truth, it is described that, without fear of bodily illness and the like, he lived a hundred and sixteen years, fulfilling his life-sacrifice entirely and fully; thus the greatness of the three pressings, which are of the nature of a man's life, is described. In the ṛk at hand, the relation of Indra, the deity of all the sacrificial means such as showering (*vṛṣṇya*), with the *savana* — a relation beyond the ordinary — has been described. And to Indra
 
 ### Printed p. 290  (PDF 310)
 
@@ -7334,11 +7334,11 @@ At the morning pressing the sacrificer addresses the Vasus: "Open for us the doo
 
 Thus, the word *gauḥ* is explained as "speech (*vāk*), of the nature of *stotra* and *śastra*", and indicates the close relation of Indra and the sacrifice, and of the sacrifice and speech. This relation is described as follows in the Śatapatha:
 
-> सोऽयं यज्ञो वाचमभिदध्यौ । मिथुन्येनया स्यामिति ताग्म् संबभूव ॥ इन्द्रो ह वा ईक्षांचक्रे । महद्वा इतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यन्मा तन्नाभिभवेदिति स इन्द्र एव गर्भो भूत्वैतन्मिथुनं प्रविवेश । स ह संवत्सरे जायमान ईक्षांचक्रे । महावीर्या वा इयं योनिर्यां मामदीधरते यद्वै म्यतो महदेवाभ्वं नानुप्रजायेत यन्मा तन्नाभिभवेदिति । … इन्द्रस्य योनिरसीतीन्द्रस्य ह्येषा योनिरक्रो वा ह्येनां प्रविशन्विशत्यतो वा जायमानो जायते तस्मादाहेन्द्रस्य योनिरसीति ॥ [as read; garbled in places; dots in the print: [?]]
+> सोऽयं यज्ञो वाचमभिदध्यौ । मिथुन्येनया स्यामिति ताग्म् संबभूव ॥ इन्द्रो ह वा ईक्षांचक्रे । महद्वा इतोऽभ्वं जनिष्यते यज्ञस्य च मिथुनाद्वाचश्च यन्मा तन्नाभिभवेदिति स इन्द्र एव गर्भो भूत्वैतन्मिथुनं प्रविवेश । स ह संवत्सरे जायमान ईक्षांचक्रे । महावीर्या वा इयं योनिर्यां मामदीधरते यद्वै म्यतो महदेवाभ्वं नानुप्रजायेत यन्मा तन्नाभिभवेदिति । … इन्द्रस्य योनिरसीतीन्द्रस्य ह्येषा योनिरतो वा ह्येनां प्रविशन्विशत्यतो वा जायमानो जायते तस्मादाहेन्द्रस्य योनिरसीति ॥ [as read; garbled in places; dots in the print: [?]]
 
-> *so 'yaṃ yajño vācam abhidadhyau | mithunyenayā syām iti tāgm saṃbabhūva ‖ indro ha vā īkṣāṃcakre | mahad vā ito 'bhvaṃ janiṣyate yajñasya ca mithunād vācaś ca yan mā tan nābhibhaved iti sa indra eva garbho bhūtvaitan mithunaṃ praviveśa | sa ha saṃvatsare jāyamāna īkṣāṃcakre | mahāvīryā vā iyaṃ yonir yāṃ mām adīdharata yad vai myato mahad evābhvaṃ nānuprajāyeta yan mā tan nābhibhaved iti | … indrasya yonir asīti indrasya hy eṣā yonir akro vā hy enāṃ praviśan viśaty ato vā jāyamāno jāyate tasmād āhendrasya yonir asīti ‖* [?]
+> *so 'yaṃ yajño vācam abhidadhyau | mithunyenayā syām iti tāgm saṃbabhūva ‖ indro ha vā īkṣāṃcakre | mahad vā ito 'bhvaṃ janiṣyate yajñasya ca mithunād vācaś ca yan mā tan nābhibhaved iti sa indra eva garbho bhūtvaitan mithunaṃ praviveśa | sa ha saṃvatsare jāyamāna īkṣāṃcakre | mahāvīryā vā iyaṃ yonir yāṃ mām adīdharata yad vai myato mahad evābhvaṃ nānuprajāyeta yan mā tan nābhibhaved iti | … indrasya yonir asīti indrasya hy eṣā yonir ato vā hy enāṃ praviśan viśaty ato vā jāyamāno jāyate tasmād āhendrasya yonir asīti ‖* [?]
 
-(Śa. Brā. 3-2-1-… [?]). The sacrifice desired speech and wished to take her as a consort; hence an alliance was made. Indra perceived that from this union of sacrifice and speech something great would be born, which would overcome him; therefore he himself entered that couple as the embryo; and being born in a year's time he again perceived that the womb in which he was borne was of great vigour, and so on. Therefore, for Indra, sacrifice and speech are well-known as sources of satisfaction.
+(Śa. Brā. 3-2-1-25 to 29). The sacrifice desired speech and wished to take her as a consort; hence an alliance was made. Indra perceived that from this union of sacrifice and speech something great would be born, which would overcome him; therefore he himself entered that couple as the embryo; and being born in a year's time he again perceived that the womb in which he was borne was of great vigour, and so on. Therefore, for Indra, sacrifice and speech are well-known as sources of satisfaction.
 
 ---
 
@@ -7348,23 +7348,25 @@ Thus, the word *gauḥ* is explained as "speech (*vāk*), of the nature of *stot
 
 ***devīḥ āpaḥ samudre te madanti āsu — dyotamānāḥ āpaḥ udakasamudravaṇāpādānabhūte 'ntarikṣe prajāsu nimittabhūtāsu tvāṃ mādayanti*** — "The shining waters, in the atmosphere, which is the source from which the waters flow, give you delight for the sake of creatures": addressing Indra, it is the general sense that the waters, endowed with splendour, give Indra delight in the atmosphere, the place of their flowing, for the sake of the creatures. But "*yadā prāṇyupakārārthaṃ varṣaṇāya tvāṃ preyanti vṛṣṭyudakāni tadā khalu tava somayāgāḥ sukhakarā bhavanti*" — when the rain-waters urge Indra to rain for the benefit of creatures, then the Soma sacrifices bring Indra happiness; and "*yajñasādhanavṛṣṭipradānena yāgān nirvartayety arthaḥ*" — since Indra, by giving the rain, which is the cause of the sacrifice, will bring the sacrifices to completion, the sacrificer's hope that he will complete the sacrifices is expressed here; so the meaning is given.
 
-***samudre — samudra*** — the word *samudra* is read among the names of the atmosphere (Ni. 2-10 [?]). Here Yāska, expressing doubt about the sense of the word — whether *samudra*, the word that denotes the mass of water on the earth, is meant — says "*samudra ity etat pārthivena samudreṇa saṃdihyate*" and explains:
+***samudre — samudra*** — the word *samudra* is read among the names of the atmosphere (Ni. 2-10). Here Yāska, expressing doubt about the sense of the word — whether *samudra*, the word that denotes the mass of water on the earth, is meant — says "*samudra ity etat pārthivena samudreṇa saṃdihyate*" and explains:
 
 > समुद्रवन्त्यस्मादापः, समभिद्रवन्त्येनमापः, सम्मोदन्तेऽस्मिन्भूतानि, समुदको भवति, समुनत्तीति वा ।
 
 > *samudravanty asmād āpaḥ, samabhidravanty enam āpaḥ, sammodante 'smin bhūtāni, samudako bhavati, samunattīti vā |*
 
-(Ni. 2-10 [?]). Waves, ripples and rills, in these forms the waters change their form here; or waters flow together and unite here, in this region; or aquatic creatures live here in delight; or, the water being denoted by the word *udaka*, the mass of waters is denoted by *samudaka*; or because it wets everything — the word *samudra* is used for any of these reasons: so the meaning is given. And in this connection Yāska tells a story:
+(No reference is printed after this quotation.) Waves, ripples and rills, in these forms the waters change their form here; or waters flow together and unite here, in this region; or aquatic creatures live here in delight; or, the water being denoted by the word *udaka*, the mass of waters is denoted by *samudaka*; or because it wets everything — the word *samudra* is used for any of these reasons: so the meaning is given. And in this connection Yāska tells a story:
 
-> देवापिश्चार्ष्टिषेणः शंतनुश्च कौरव्यौ भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनोः राज्ये द्वादशवर्षाणि देवो न ववर्ष ॥
+> देवापिश्चार्ष्टिषेणः शंतनुश्च कौरव्यौ भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततश्शंतनो राज्ये द्वादशवर्षाणि देवो न ववर्ष ॥
 
-> *devāpiś cārṣṭiṣeṇaḥ śaṃtanuś ca kauravyau bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyān abhiṣecayāṃcakre | devāpis tapaḥ pratipede | tataḥ śaṃtanoḥ rājye dvādaśavarṣāṇi devo na vavarṣa ‖*
+> *devāpiś cārṣṭiṣeṇaḥ śaṃtanuś ca kauravyau bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyān abhiṣecayāṃcakre | devāpis tapaḥ pratipede | tataś śaṃtano rājye dvādaśavarṣāṇi devo na vavarṣa ‖*
+
+(Ni. 2-11)
 
 > तमूचुर्ब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमन्तरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्ते असानि याजयानि च त्वेति ।
 
 > *tam ūcur brāhmaṇā adharmas tvayā carito jyeṣṭhaṃ bhrātaram antarity ābhiṣecitaṃ tasmāt te devo na varṣatīti | sa śaṃtanur devāpiṃ śiśikṣa rājyena | tam uvāca devāpiḥ purohitas te asāni yājayāni ca tveti |*
 
-(Ni. 2-11 [?]). Devāpi and Śaṃtanu were two princes, brothers, of the Kuru family. Śaṃtanu, the younger, was consecrated king; Devāpi, the elder, went to practise austerities. Then, during the reign of Śaṃtanu, no rain fell for twelve years.
+(Ni. 2-11). Devāpi and Śaṃtanu were two princes, brothers, of the Kuru family. Śaṃtanu, the younger, was consecrated king; Devāpi, the elder, went to practise austerities. Then, during the reign of Śaṃtanu, no rain fell for twelve years.
 
 ### Printed p. 292  (PDF 312)
 
