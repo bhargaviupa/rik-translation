@@ -1606,5 +1606,41 @@
   ],
   "note": "UNDECIDED: tāsyanudātteṅ… (Pā. Sū. 6-1-18[?]), last digit looks like 7; zoom (two tries) missed the line",
   "answer": ""
+ },
+ {
+  "pdf": 86,
+  "printed": 68,
+  "crop": [
+   0.264,
+   0.277,
+   0.505,
+   0.602
+  ],
+  "note": "ZOOMED, read: Ni. 4-23 (second digit hooked, read as 3; first round = 2)",
+  "answer": ""
+ },
+ {
+  "pdf": 86,
+  "printed": 68,
+  "crop": [
+   0.677,
+   0.692,
+   0.569,
+   0.821
+  ],
+  "note": "ZOOMED (two mis-aimed tries): Ṛ. Saṃ. 10-72 read unzoomed from strip (flat-footed = 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 86,
+  "printed": 68,
+  "crop": [
+   0.691,
+   0.706,
+   0.682,
+   0.821
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-72 (flat-footed 7, round 2); supersedes previous entry for this place",
+  "answer": ""
  }
 ]
