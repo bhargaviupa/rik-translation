@@ -8142,7 +8142,7 @@ For this word, he explains that it means not merely "protector of the people", b
 
 > *tvam agna indro vṛṣabhaḥ satām asi tvaṃ viṣṇur urugāyo namasyaḥ | tvaṃ brahmā rayivid brahmaṇas pate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*
 
-(Ṛ. Saṃ. 2-1-3 [?]) — in this ṛk, for *satāṃ vṛṣabhaḥ asi* he takes the meaning "the hero among heroes"; and, in the same way, the use of this word in
+(Ṛ. Saṃ. 2-1-3) — in this ṛk, for *satāṃ vṛṣabhaḥ asi* he takes the meaning "the hero among heroes"; and, in the same way, the use of this word in
 
 > समत्सु त्वा शूर सतामुराणं प्रपथिन्तमं परितंसयध्यै । सजोषस इन्द्रं मदे क्षोणीः सूरिं चिद्ये अनुमदन्ति वाजैः ॥
 
