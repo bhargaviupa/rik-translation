@@ -22,5 +22,29 @@
   "old": "Ni. 2-7 [?], 2-17 [?], 11-12 [?], 3-16 [?]",
   "new": "Ni. 11-12 (confirmed ೧೧-೧೨)",
   "note": "food-names and battle-names refs both look like a flat-footed '2/7'-glyph followed by ೯ (2-9 or 7-9?); cannot decide 2/7 or reconcile with file's 2-7/2-17; left [?]. 3-16 not viewed."
+ },
+ {
+  "pdf": 317,
+  "printed": 297,
+  "status": "unresolved",
+  "old": "Saṃhitā suśiṣvo / Pada suśiṣva",
+  "new": "(not changed)",
+  "note": "zoom 600dpi: Saṃhitā word printed ಸುತಿ/ಶಿಷ್ವೌ-like (ti or śi, then ṣ + subscript glyph ṣṭh/ṣṇ/ṣv undecided, ending looks like -au with a lower hook rather than -o); Pada ಸುಶಿಷ್…ೌ. Not safe to change; 'suśipra' not supported."
+ },
+ {
+  "pdf": 327,
+  "printed": 307,
+  "status": "resolved",
+  "old": "(The print has a mark after *stoma* that I read as visarga/*u*: [?].)",
+  "new": "(Zoomed: the print has the vowel sign *u* (ು) on the *ma* after *stoma*, i.e. printed *stomu* — not a visarga; the text above keeps *stoma* as the evident intended word.)",
+  "note": "600dpi crop: ಸ್ತೋಮು — u-sign, no visarga"
+ },
+ {
+  "pdf": 314,
+  "printed": 294,
+  "status": "resolved",
+  "old": "असाम / asāma (Saṃhitā and Pada)",
+  "new": "असामु / asāmu",
+  "note": "600/400dpi: both Saṃhitā and Pada print ಅಸಾಮು (ma+u sign); also confirms suṣakhāya. Bhāṣya wording not re-read."
  }
 ]

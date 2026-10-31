@@ -7429,18 +7429,18 @@ Under the word *gauḥ*, the explanation of the meanings "earth", "animal" and s
 
 **Saṃhitā-pāṭha**
 
-> असाम यथा सुषखाय एन स्वभिष्टयो नरां न शंसैः ।
+> असामु यथा सुषखाय एन स्वभिष्टयो नरां न शंसैः ।
 > असद्यथा नो इन्द्रो वन्दनेष्ठास्तुरो न कर्म नयमान उक्था ॥ ९ ॥
 
-> *asāma yathā suṣakhāya ena svabhiṣṭayo narāṃ na śaṃsaiḥ |*
+> *asāmu yathā suṣakhāya ena svabhiṣṭayo narāṃ na śaṃsaiḥ |*
 > *asad yathā no indro vandaneṣṭhās turo na karma nayamāna ukthā ‖ 9 ‖*
 
 **Pada-pāṭha**
 
-> असाम । यथा । सुऽसखायः । एन । सुऽअभिष्टयः । नराम् । न । शंसैः ।
+> असामु । यथा । सुऽसखायः । एन । सुऽअभिष्टयः । नराम् । न । शंसैः ।
 > असत् । यथा । नः । इन्द्रः । वन्दनेऽस्थाः । तुरः । न । कर्म । नयमानः । उक्था ॥ ९ ॥
 
-> *asāma | yathā | su-sakhāyaḥ | ena | su-abhiṣṭayaḥ | narām | na | śaṃsaiḥ |*
+> *asāmu | yathā | su-sakhāyaḥ | ena | su-abhiṣṭayaḥ | narām | na | śaṃsaiḥ |*
 > *asat | yathā | naḥ | indraḥ | vandane-sthāḥ | turaḥ | na | karma | nayamānaḥ | ukthā ‖ 9 ‖*
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
@@ -7780,7 +7780,7 @@ The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprin
 > *eṣa stoma indra tubhyam asme etena gātuṃ harivo vido naḥ |*
 > *ā no vavṛtyāḥ suvitāya deva vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 13 ‖*
 
-(The print has a mark after *stoma* that I read as visarga/*u*: [?].)
+(Zoomed: the print has the vowel sign *u* (ು) on the *ma* after *stoma*, i.e. printed *stomu* — not a visarga; the text above keeps *stoma* as the evident intended word.)
 
 **Pada-pāṭha**
 
