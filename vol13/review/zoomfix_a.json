@@ -662,5 +662,13 @@
   "old": "Header/Varga 18 [?]; त्रयोदशानाम्; द्वितीयश्चैन्यं कुसारिण्यरो…; त्रितीविशेषवचनेनाप्येदित…; स्वरसाम्न्यादृ ऋचः; ā. 8 5 [?]",
   "new": "Varga 18; त्रयाणाम्; द्वितीयश्चेन्न्यङ्कुसारिण्युरोबृहती [?]; त्विति विशेषवचनेनापोदित… [?]; स्वरसाम्न्याद्यस्त्र्यृचः; ā. 8-5",
   "note": "200dpi: whole Anukramaṇikā block compared with the page: header/heading read ವ.೧೮; the Kannada prose below confirms three other feet of eight syllables (trayāṇām) and ‘nyaṅkusāriṇī bṛhatī’. Some letters remain [?]. (Replacements applied to every occurrence in the page section, including the quotation in the Anuvāda.)"
+ },
+ {
+  "pdf": 382,
+  "printed": 362,
+  "status": "resolved",
+  "old": "यतेः पिबसि आतो मत्सि; …संभजनसमर्थोऽशक्त्यतिशयो",
+  "new": "यतः पिबसि अतो मत्सि; …संभजनपर्याप्तशक्त्यतिशयो",
+  "note": "220dpi: Ṛk 1 bhāṣya compared with the page. Not resolved: ‘annaṃ vā yady atṛptisadbhāvād annavān ity ucyate [?]’ (print ಅನ್ನವಾ…ಯರ್ಯತೃಪ್ತಿಸದ್ಭಾವಾದನ್ನವಾನಿತ್ಯುಚ್ಯತೇ — the middle letters are hooked ya/ma, can't decide)."
  }
 ]
