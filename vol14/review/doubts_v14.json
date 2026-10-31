@@ -4954,5 +4954,221 @@
   ],
   "note": "UNDECIDED: word after 'bṛhadinvati' printed with displaced vowel signs/repha (looks like dyā-yau-r-ā); written द्या[?]यौ[?] (Ṛ. 7-84-2 line, reference on next page)",
   "answer": ""
+ },
+ {
+  "pdf": 146,
+  "printed": 128,
+  "crop": [
+   0.22,
+   0.256,
+   0.632,
+   0.827
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-84-2 (reference of yuvo rāṣṭraṃ / pari no heḷo)",
+  "answer": ""
+ },
+ {
+  "pdf": 146,
+  "printed": 128,
+  "crop": [
+   0.566,
+   0.577,
+   0.498,
+   0.632
+  ],
+  "note": "ZOOMED, read: Tai. Saṃ. 4-4-9-2 as printed (third numeral read as 9)",
+  "answer": ""
+ },
+ {
+  "pdf": 146,
+  "printed": 128,
+  "crop": [
+   0.62,
+   0.658,
+   0.365,
+   0.827
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-27-1 and 9-114-3",
+  "answer": ""
+ },
+ {
+  "pdf": 146,
+  "printed": 128,
+  "crop": [
+   0.66,
+   0.7,
+   0.198,
+   0.827
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-72-8, A. Ve. 8-9-21",
+  "answer": ""
+ },
+ {
+  "pdf": 146,
+  "printed": 128,
+  "crop": [
+   0.695,
+   0.724,
+   0.198,
+   0.827
+  ],
+  "note": "ZOOMED, read: Tai. Brā. 1-1-9-1",
+  "answer": ""
+ },
+ {
+  "pdf": 146,
+  "printed": 128,
+  "crop": [
+   0.714,
+   0.743,
+   0.432,
+   0.827
+  ],
+  "note": "ZOOMED, read: Śa. Brā. 6-1-2-8; 11-6-3-8",
+  "answer": ""
+ },
+ {
+  "pdf": 147,
+  "printed": 129,
+  "crop": [
+   0.274,
+   0.42,
+   0.564,
+   0.794
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-3-2 and 10-85-36",
+  "answer": ""
+ },
+ {
+  "pdf": 147,
+  "printed": 129,
+  "crop": [
+   0.432,
+   0.51,
+   0.564,
+   0.794
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-126-1",
+  "answer": ""
+ },
+ {
+  "pdf": 147,
+  "printed": 129,
+  "crop": [
+   0.51,
+   0.532,
+   0.631,
+   0.794
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-126-7 as printed (last digit flat-footed glyph = 7, unlike the looped 2 in 126; ṛk śunamasmabhyam…)",
+  "answer": ""
+ },
+ {
+  "pdf": 147,
+  "printed": 129,
+  "crop": [
+   0.534,
+   0.572,
+   0.162,
+   0.497
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-126 (sūkta; last digit partly blotted, read 6) and '7 ne ṛk' (ādityāsaḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 147,
+  "printed": 129,
+  "crop": [
+   0.591,
+   0.619,
+   0.162,
+   0.464
+  ],
+  "note": "ZOOMED, read: '7 ne ṛkkinalli' (same flat-footed glyph as in 10-126-7)",
+  "answer": ""
+ },
+ {
+  "pdf": 149,
+  "printed": 131,
+  "crop": [
+   0.334,
+   0.376,
+   0.594,
+   0.786
+  ],
+  "note": "ZOOMED, read: Ṛ. 2-28-1 (bhāṣya, sukīrtiṃ bhikṣe)",
+  "answer": ""
+ },
+ {
+  "pdf": 150,
+  "printed": 132,
+  "crop": [
+   0.555,
+   0.592,
+   0.597,
+   0.822
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-11-1 (mahāṃ asyadhvarasya; first digit flat-footed glyph = 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 150,
+  "printed": 132,
+  "crop": [
+   0.623,
+   0.646,
+   0.597,
+   0.822
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-12-1",
+  "answer": ""
+ },
+ {
+  "pdf": 150,
+  "printed": 132,
+  "crop": [
+   0.704,
+   0.725,
+   0.597,
+   0.822
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-12-2 as printed (last digit looped glyph = 2; ṛk agne devāṃ ihāvaha)",
+  "answer": ""
+ },
+ {
+  "pdf": 150,
+  "printed": 132,
+  "crop": [
+   0.751,
+   0.788,
+   0.531,
+   0.822
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-14-1",
+  "answer": ""
+ },
+ {
+  "pdf": 151,
+  "printed": 133,
+  "crop": [
+   0.475,
+   0.495,
+   0.171,
+   0.403
+  ],
+  "note": "ZOOMED, read: Ni. 6-14 (turvaṇiḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 151,
+  "printed": 133,
+  "crop": [
+   0.753,
+   0.776,
+   0.569,
+   0.793
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-28-1 (first digit of 28 broken in print; read 2, as in the bhāṣya ref on p. 131)",
+  "answer": ""
  }
 ]
