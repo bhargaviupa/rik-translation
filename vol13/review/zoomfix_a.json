@@ -310,5 +310,13 @@
   "old": "Ṛ.Saṃ. 4-2-16 [?], 1-67-5 [?], 1-12-7 [?], 1-73-3 [?]",
   "new": "4-2-16, 1-67-5, 1-12-7 (no [?]); 1-73-2 [?]",
   "note": "600dpi strips of the three small refs plus 190dpi page: last digit of the third ref is the looped 2-glyph, not 3; [?] kept. Quotes not re-read word by word."
+ },
+ {
+  "pdf": 341,
+  "printed": 321,
+  "status": "resolved",
+  "old": "प्रत्नकाग्राः [?]; रात्लस्य, पा. ८-२-२४ [?]; हे अनवद्य [?] …; वृत्रं नेतन्नामकमसुरं [?]; अशब्दयः [?]; एतत्संवत्सरलक्षकः [?]",
+  "new": "प्रत्यग्राः; रात्सस्य, पा. ८-२-२४; हे अनवद्य कातरत्वानिन्दावन् हे इन्द्र; वृत्रमेतन्नामकमसुरं; अशब्दयोऽसुरप्रजाः; एतत्संवत्सरलक्षकः",
+  "note": "220dpi full bhāṣya read line by line (image legible at this size): print ಪ್ರತ್ಯಗ್ರಾಃ, ರಾತ್ಸಸ್ಯ, ಕಾತರತ್ವಾನಿಂದಾವನ್, ಏತನ್ನಾಮಕ…, ಅಶಬ್ದಯೋऽ…. Refs ಋ.೧-೬೩-೨ and ನಿ.೬-೩೦ agree with the file. Pratipadārtha (second entry) not yet compared."
  }
 ]
