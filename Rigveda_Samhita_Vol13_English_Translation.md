@@ -9034,19 +9034,19 @@ In the third: ***yadvā ye narā aryamaṇaṃ yaṃ kaṃcid dātāraṃ paśya
 
 **Pada-pāṭha**
 
-> रपत् । कविः । इन्द्र । अर्कऽसातौ । क्षाम् । दासाय । उपऽबर्हणीम् । कः । इति कः [?] ।
+> रपत् । कविः । इन्द्र । अर्कऽसातौ । क्षाम् । दासाय । उपऽबर्हणीम् । करिति कः ।
 > करत् । तिस्रः । मघऽवा । दानुऽचित्राः । नि । दुर्योणे । कुयवाचम् । मृधि । श्रेत् ॥ ७ ॥
 
-> *rapat | kaviḥ | indra | arka-sātau | kṣām | dāsāya | upa-barhaṇīm | kaḥ | iti kaḥ [?] |*
+> *rapat | kaviḥ | indra | arka-sātau | kṣām | dāsāya | upa-barhaṇīm | kar iti kaḥ |*
 > *karat | tisraḥ | magha-vā | dānu-citrāḥ | ni | duryoṇe | kuyavācam | mṛdhi | śret ‖ 7 ‖*
 
 (The Pada line as printed has "*kariti kaḥ*"-like letters after *upabarhaṇīm*; I could not read it clearly: [?].)
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
 
-> हे इन्द्र त्वां कविः क्रान्तदर्शी क्रान्तेनोचानो वा [?] होतार्कसातावर्चनीयस्यान्नस्य लाभे निमित्तभूते सति रपत् । स्तौति । यद्वा । एतन्नामर्षिः रपत् अस्तौत् अन्नार्थम् । तस्मात्प्रभूतमन्नं प्रादा इत्यर्थः । तथा च दासाय प्राण्युपक्षयित्रेऽसुराय क्षां भूमिमुपबर्हणीं शय्यां कः । अकरोः । हत्वा भूमावपातयेत्यर्थः । करोतेर्लुञ् मन्त्रे घसेति च्लेर्लुक् । अथ परोक्षकृतः । मघवा धनवानयमिन्द्रस्तिस्रो भूमीः दार्शिकपाशुकसौमिकरूपा भूमीः क्षित्यन्तरिक्षद्यूरूपा वा भूमीर्दानुचित्रा दानेन देयैर्धनैर्वा चायनीयाः [?] करत् । करोति । यद्वा । तिस्रोऽयोरजतहिरण्यमयीः पुरीर्दानुचित्राः खण्डनेन चित्रा अकरोत् । तथा दुर्योणे दुष्पयोनौ स्थाने एतन्नामकस्य राज्ञः प्रीत्यर्थं वा कुयवाचं कुत्सितं शब्दायन्तमेतन्नामानमसुरं मृधि संग्रामे नि श्रेत् । हिंसितवान् ॥
+> हे इन्द्र त्वां कविः क्रान्तदर्श्यनूचानो वा होतार्कसातावर्चनीयस्यान्नस्य लाभे निमित्तभूते सति रपत् । स्तौति । यद्वा । एतन्नामर्षिः रपत् अस्तौत् अन्नार्थम् । तस्मात्प्रभूतमन्नं प्रादा इत्यर्थः । तथा च दासाय प्राण्युपक्षपयित्रेऽसुराय क्षां भूमिमुपबर्हणीं शय्यां कः । अकरोः । हत्वा भूमावपातयेत्यर्थः । करोतेर्लुञ् मन्त्रे घसेति च्लेर्लुक् । अथ परोक्षकृतः । मघवा धनवानयमिन्द्रस्तिस्रो भूमीः दार्शिकपाशुकसौमिकरूपा भूमीः क्षित्यन्तरिक्षद्यूरूपा वा भूमीर्दानुचित्रा दानेन देयैर्धनैर्वा चायनीयाः करत् । करोति । यद्वा । तिस्रोऽयोरजतहिरण्यमयीः पुरीर्दानुचित्राः खण्डनेन चित्रा अकरोत् । तथा दुर्योणे दुष्पयोनौ स्थाने एतन्नामकस्य राज्ञः प्रीत्यर्थं वा कुयवाचं कुत्सितं शब्दायन्तमेतन्नामानमसुरं मृधि संग्रामे नि श्रेत् । हिंसितवान् ॥
 
-> *he indra tvāṃ kaviḥ krāntadarśī krāntenocāno vā [?] hotārkasātāv arcanīyasyānnasya lābhe nimittabhūte sati rapat | stauti | yadvā | etannāmarṣiḥ rapat astaut annārtham | tasmāt prabhūtam annaṃ prādā ity arthaḥ | tathā ca dāsāya prāṇyupakṣayitre 'surāya kṣāṃ bhūmim upabarhaṇīṃ śayyāṃ kaḥ | akaroḥ | hatvā bhūmāv apātayety arthaḥ | karoter luñ mantre ghaseti ceḥ luk | atha parokṣakṛtaḥ | maghavā dhanavān ayam indras tisro bhūmīḥ dārśikapāśukasaumikarūpā bhūmīḥ kṣity-antarikṣa-dyū-rūpā vā bhūmīr dānucitrā dānena deyair dhanair vā cāyanīyāḥ [?] karat | karoti | yadvā | tisro 'yorajatahiraṇyamayīḥ purīr dānucitrāḥ khaṇḍanena citrā akarot | tathā duryoṇe duṣpayonau sthāne etannāmakasya rājñaḥ prītyarthaṃ vā kuyavācaṃ kutsitaṃ śabdāyantam etannāmānam asuraṃ mṛdhi saṃgrāme ni śret | hiṃsitavān ‖* [?]
+> *he indra tvāṃ kaviḥ krāntadarśy anūcāno vā hotārkasātāv arcanīyasyānnasya lābhe nimittabhūte sati rapat | stauti | yadvā | etannāmarṣiḥ rapat astaut annārtham | tasmāt prabhūtam annaṃ prādā ity arthaḥ | tathā ca dāsāya prāṇyupakṣapayitre 'surāya kṣāṃ bhūmim upabarhaṇīṃ śayyāṃ kaḥ | akaroḥ | hatvā bhūmāv apātayety arthaḥ | karoter luñ mantre ghaseti ceḥ luk | atha parokṣakṛtaḥ | maghavā dhanavān ayam indras tisro bhūmīḥ dārśikapāśukasaumikarūpā bhūmīḥ kṣity-antarikṣa-dyū-rūpā vā bhūmīr dānucitrā dānena deyair dhanair vā cāyanīyāḥ karat | karoti | yadvā | tisro 'yorajatahiraṇyamayīḥ purīr dānucitrāḥ khaṇḍanena citrā akarot | tathā duryoṇe duṣpayonau sthāne etannāmakasya rājñaḥ prītyarthaṃ vā kuyavācaṃ kutsitaṃ śabdāyantam etannāmānam asuraṃ mṛdhi saṃgrāme ni śret | hiṃsitavān ‖* [?]
 
 *Gist:* The sage Kavi praises you, Indra, for the gain of food; you made the earth the bed of the *asura* Dāsa (the enemy); the wealthy Indra made the three worlds (or three cities of iron, silver and gold) wonderful by gifts (or by breaking them); and in battle he killed the asura Kuyavāc for the sake of King Duryoṇa.
 
