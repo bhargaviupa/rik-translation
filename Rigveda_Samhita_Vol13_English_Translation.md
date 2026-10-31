@@ -8329,7 +8329,7 @@ According to the sense of the Nirukta-writers: addressing Indra, for the word *v
 
 > *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ ‖*
 
-(Ṛ. Saṃ. 1-63-2). In this ṛk the same meaning is stated.
+(Ṛ. Saṃ. 1-63-7 [?]). In this ṛk the same meaning is stated.
 
 The Nirukta-writers, quoting this ṛk, explained for the word *mṛdhravācaḥ* the sense "*dānamanaso no manuṣyān indra mṛduvācaḥ kuru*" (Ni. 6-31): "O Indra, make us men soft-spoken and of a generous mind" — the sense that Indra makes the sacrificer a man of soft speech, and of a mind to give, is described by the Nirukta-writers.
 
@@ -8355,7 +8355,7 @@ Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brā
 
 > *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ ‖*
 
-(Ṛ. Saṃ. 1-63-2) — from the basis of this ṛk it is learned that he was a contemporary of the king Sudāsa.
+(Ṛ. Saṃ. 1-63-7 [?]) — from the basis of this ṛk it is learned that he was a contemporary of the king Sudāsa.
 
 > सनेम तेऽवसा नव्य इन्द्र प्र पूरवः स्तवन्त एना यज्ञैः । सप्त यत्पुरः शर्म शारदीर्दर्दन् दासीः पुरुकुत्साय शिक्षन् ॥
 
