@@ -8741,25 +8741,25 @@ The *Phalgunī* are the lunar mansions of Indra; they are also associated with h
 
 > *kutsāya yatra puruhūta vanvañ chuṣṇam anantaiḥ pariyāsi vadhnaiḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 1-101-9 [?]) — and likewise in Ṛ. Saṃ. 1-63-3 [?]; 1-174-… [?] and other ṛks it is said that Indra helped Kutsa and killed Śuṣṇa for him. And —
+(Ṛ. Saṃ. 1-101-9) — and likewise in Ṛ. Saṃ. 1-63-3; 1-174-4 and other ṛks it is said that Indra helped Kutsa and killed Śuṣṇa for him. And —
 
-> अहं पितेव वेतसून् [?] भिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ॥
+> अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ॥
 
-> *ahaṃ piteva vetasūn [?] bhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam ‖* [as read: [?]]
+> *ahaṃ piteva vetasūr abhiṣṭaye tugraṃ kutsāya smadibhaṃ ca randhayam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-49-4 [?]) — in such places Indra says of himself, "For Kutsa I subdued Vetasu, Tugra, Smadibha and many other enemies." And again —
+(Ṛ. Saṃ. 10-49-4) — in such places Indra says of himself, "For Kutsa I subdued Vetasu, Tugra, Smadibha and many other enemies." And again —
 
 > त्वमस्मै कुत्समतिथिग्वमायुं महे राज्ञे यूने अरन्धनायः ।
 
 > *tvam asmai kutsam atithigvam āyuṃ mahe rājñe yūne arandhanāyaḥ |*
 
-(Ṛ. Saṃ. 1-53-10 [?])
+(Ṛ. Saṃ. 1-53-10)
 
 > य आयुं कुत्समतिथिग्वमर्दयो वावृधानो दिवे दिवे ॥
 
 > *ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive dive ‖*
 
-(Ṛ. Saṃ. 8-53-2 [?]) — in such ṛks Indra is described as having subdued Kutsa and others. About him Keith has said as follows in his book *Religion and Philosophy of the Vedas*:
+(Ṛ. Saṃ. 8-53-2) — in such ṛks Indra is described as having subdued Kutsa and others. About him Keith has said as follows in his book *Religion and Philosophy of the Vedas*:
 
 > His chief rival is Kutsa, who appears as battling against him, and as victor by the aid of Indra, who, for his sake tore from the Sun a wheel, prolonging the daylight and thus enabling, it may be assumed, Kutsa to turn the issue of battle. The feat of Indra is several times mentioned and the fact that Kutsa is a real hero is suggested, though not proved, by the fact that elsewhere he appears in hostile relation to Indra, just as Athithigva, who is normally the protege of Indra, in one or two places appears in the reverse relation. It is true that it is not to be expected that a God, or a hero of divine dimensions, would be thus placed in opposition to the God, though, as the God is the uncertain Indra, the argument is by no means conclusive. Kutsa, in the case of his real personality must be a king, and this is not inconsistent with his being called a seer: royal seers are not unknown: (Harvard Oriental Series. Vol. 31. p. 130),
 

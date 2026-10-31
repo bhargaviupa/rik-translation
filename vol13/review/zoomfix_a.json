@@ -446,5 +446,13 @@
   "old": "Śa.Brā. 5-4-1-2 [?]; refs 4-26-1, 7-19-2, 4-31-11, 2-1-2-11 [?]; tā etekat parokṣam",
   "new": "Śa.Brā. 5-4-3-2; refs without [?]; tā etat parokṣam",
   "note": "190/650dpi: ೫-೪-೩-೨ (hooked 3), ೨-೧-೨-೧೧ (printed ‘೨ ೧-೨-೧೧’), ೪-೨೬-೧, ೭-೧೯-೨, ೪-೩೧-೧೧; quote ‘etat parokṣam’."
+ },
+ {
+  "pdf": 357,
+  "printed": 337,
+  "status": "resolved",
+  "old": "वेतसून् [?] भिष्टये; Ṛ.Saṃ. 1-101-9, 1-63-3, 1-174-…, 10-49-4, 1-53-10, 8-53-2 [?]",
+  "new": "वेतसूरभिष्टये; refs without [?]; 1-174-4",
+  "note": "190dpi: print ವೇತಸೂರಭಿಷ್ಟಯೇ; refs legible (1-174-4 read ೧-೧೭೪-೪)."
  }
 ]
