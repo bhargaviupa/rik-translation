@@ -462,5 +462,13 @@
   "old": "Ṛ.Saṃ. 10-86-23 [?]; जहि भिन्धि",
   "new": "10-86-23; जहि भिन्दि",
   "note": "190dpi: ೧೦-೮೬-೨೩; print ಜಹಿ, ಭಿಂದಿ. Not resolved: the Nirukta follow-up ‘tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare …’ (print …ಉತೇರತ್ರ… ತದ್ಭ್ರ…, garbled/unclear) left as is."
+ },
+ {
+  "pdf": 359,
+  "printed": 339,
+  "status": "resolved",
+  "old": "Ni. 3-… [?]; Ṛ.Saṃ. 10-29-1 [?]; Ni. 3-20 [?]",
+  "new": "Ni. 2-13 [?]; 10-29-1; Ni. 3-20",
+  "note": "200dpi: quote ‘vane na vā yo nyadhāyi cākañ chucir vā …’ agrees with print; refs read (2/3 by the round-vs-hooked glyph rule; Ni. 2-13 kept [?]). Durgācārya explanation not re-read."
  }
 ]
