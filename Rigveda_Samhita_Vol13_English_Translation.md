@@ -8004,9 +8004,9 @@ Number of ṛks in the sūkta — 10 ‖
 
 **Sāyaṇa-bhāṣya**
 
-> हे इन्द्र त्वं राजाधिपतिः सर्वस्य जगतः । किंच ये देवा मरुदादयः सन्ति तेषामपि विशेषेण । अतो हे असुर शत्रूणां निरसिता त्वं न्नस्मान् कर्मनेतॄन्नस्य जमानान्रक्ष । पालय । विशेषतोऽस्मानसि रक्ष [?] । त्वं च सत्पतिः सतां सतः कर्मफलस्य वा पाता मघवा धनवान्नोऽस्माकं तरुत्रस्तारयिता पापात् । किंच त्वं सत्यो बाधाभ्यः सत्यफलो वा वसवानः स्वतेजसा सर्वं छादयन् वसूनि वा कुर्वन् स्तोतृभ्यः सहोदाः सहसो बलस्य दाता भवेति शेषः ॥ [as read; partly doubtful: [?]]
+> हे इन्द्र त्वं राजाधिपतिः सर्वस्य जगतः । किंच ये देवा मरुदादयः सन्ति तेषामपि विशेषेण । अतो हे असुर शत्रूणां निरसिता त्वं नॄनस्मान् कर्मनेतॄन्यजमानान्रक्ष । पालय । विशेषतोऽस्मानसि रक्ष [?] । त्वं च सत्पतिः सतां सतः कर्मफलस्य वा पाता मघवा धनवान्नोऽस्माकं तरुत्रस्तारयिता पापात् । किंच त्वं सत्योऽबाध्यः सत्यफलो वा वसवानः स्वतेजसा सर्वं छादयन् वसूनि वा कुर्वन् स्तोतृभ्यः सहोदाः सहसो बलस्य दाता भवेति शेषः ॥ [as read; partly doubtful: [?]]
 
-> *he indra tvaṃ rājādhipatiḥ sarvasya jagataḥ | kiṃca ye devā marudādayaḥ santi teṣām api viśeṣeṇa | ato he asura śatrūṇāṃ nirasitā tvaṃ nnasmān karmanetṝn asya jamānān rakṣa | pālaya | viśeṣato 'smān asi rakṣa [?] | tvaṃ ca satpatiḥ satāṃ sataḥ karmaphalasya vā pātā maghavā dhanavān no 'smākaṃ tarutras tārayitā pāpāt | kiṃca tvaṃ satyo bādhābhyaḥ satyaphalo vā vasavānaḥ svatejasā sarvaṃ chādayan vasūni vā kurvan stotṛbhyaḥ sahodāḥ sahaso balasya dātā bhaveti śeṣaḥ ‖* [?]
+> *he indra tvaṃ rājādhipatiḥ sarvasya jagataḥ | kiṃca ye devā marudādayaḥ santi teṣām api viśeṣeṇa | ato he asura śatrūṇāṃ nirasitā tvaṃ nṝn asmān karmanetṝn yajamānān rakṣa | pālaya | viśeṣato 'smān asi rakṣa [?] | tvaṃ ca satpatiḥ satāṃ sataḥ karmaphalasya vā pātā maghavā dhanavān no 'smākaṃ tarutras tārayitā pāpāt | kiṃca tvaṃ satyo 'bādhyaḥ satyaphalo vā vasavānaḥ svatejasā sarvaṃ chādayan vasūni vā kurvan stotṛbhyaḥ sahodāḥ sahaso balasya dātā bhaveti śeṣaḥ ‖* [?]
 
 *Gist:* O Indra, you are lord of the whole world, and also of the gods such as the Maruts; protect us, the performers of the rites, you who are the best of the good, the bestower of wealth, the saviour from sin, true, and the giver of strength.
 
