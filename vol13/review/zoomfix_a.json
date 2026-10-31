@@ -2574,5 +2574,101 @@
   "old": "10-5-2 [?]",
   "new": "10-5-2",
   "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's pasted list for printed pp.381-400; changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 401,
+  "printed": 381,
+  "status": "resolved",
+  "old": "4-26-1 [?]; 1-63-3 [?]; 1-121-9 [?]",
+  "new": "4-26-1; 1-63-3; 1-121-9",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 402,
+  "printed": 382,
+  "status": "resolved",
+  "old": "8-53-2 [?]; 1-129-6 [?]; 7-56-17 [?]; 3-1-84 [?]; 6-1-163 [?]",
+  "new": "8-53-2; 1-129-6; 7-56-17; 3-1-84; 6-1-163",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed, confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 403,
+  "printed": 383,
+  "status": "resolved",
+  "old": "3-3-76 [?]; 6-4-48 [?]; 6-1-161 [?]",
+  "new": "3-3-76; 6-4-48; 6-1-161",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 404,
+  "printed": 384,
+  "status": "resolved",
+  "old": "2-28 [?]; 10-10 [?]",
+  "new": "2-28; 10-10",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 407,
+  "printed": 387,
+  "status": "resolved",
+  "old": "5-15-1 [?]",
+  "new": "5-15-1",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 408,
+  "printed": 388,
+  "status": "resolved",
+  "old": "1-4-20 [?]; 3-3-67 [?]; 7-1-39 [?]",
+  "new": "1-4-20; 3-3-67; 7-1-39",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "status": "resolved",
+  "old": "6-4-42 [?]",
+  "new": "6-4-42",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 410,
+  "printed": 390,
+  "status": "resolved",
+  "old": "1-96-2 [?]",
+  "new": "1-96-2",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 414,
+  "printed": 394,
+  "status": "resolved",
+  "old": "1-89-3 [?]; 2-36-6 [?]; 4-18-6 [?]; 6-62-10 [?]",
+  "new": "1-89-3; 2-36-6; 4-18-7; 6-67-10",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed, 4-18-6->4-18-7, 6-62-10->6-67-10; not viewed by me."
+ },
+ {
+  "pdf": 415,
+  "printed": 395,
+  "status": "resolved",
+  "old": "10-73 [?]; 6-19 [?]; 3-1-69 [?]; 6-1-186 [?]; 7-2-64 [?]; 8-1-30 [?]; 6-1-193 [?]; 7-3-94 [?]",
+  "new": "10-73; 6-19; 3-1-69; 6-1-186; 7-2-64; 8-1-30; 6-1-163; 7-3-94",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed, confirmed, confirmed, confirmed, confirmed, 6-1-193->6-1-163, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 419,
+  "printed": 399,
+  "status": "resolved",
+  "old": "10-42 [?]; 1-129-6 [?]",
+  "new": "10-42; 1-129-6",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 420,
+  "printed": 400,
+  "status": "resolved",
+  "old": "2-10 [?]; 5-3-65 [?]; 3-2-75 [?]",
+  "new": "3-10; 5-3-65; 3-2-75",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (pages 381-400 as printed pages); changed: 2-10->3-10, confirmed, confirmed; not viewed by me."
  }
 ]
