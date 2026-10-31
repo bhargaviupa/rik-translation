@@ -414,5 +414,21 @@
   "old": "Ni. 2-… [?]; Ni. 3-… [?]; Ṛ.Saṃ. 10-65-13 [?]; सावीर्वी",
   "new": "Ni. 3-11 (as printed); Ni. 2-13 (as printed); 10-65-13; पावीरवी",
   "note": "700dpi, compared side by side with the page header (Anuvāka 23 = round '2' + hooked '3'): the vajra-names ref begins with the hooked 3-glyph (3-11), the speech-names ref with the round 2 (2-13). CALIBRATION WARNING: the hooked 3-glyph (looks like ‘ಖ’) can be mistaken for 2; earlier entries in this file where I read ‘2’ from a hooked glyph need a re-check (see recheck list below)."
+ },
+ {
+  "pdf": 353,
+  "printed": 333,
+  "status": "unresolved",
+  "old": "grammar sutra numerals small type; śeṣan note",
+  "new": "(not changed)",
+  "note": "Skipped by the cost rule (small-type numerals; 2/3 glyph confusion found on p.332 makes un-zoomed reads unsafe). Left [?]."
+ },
+ {
+  "pdf": 354,
+  "printed": 334,
+  "status": "resolved",
+  "old": "तद्वन्तौ सततगामिनौ; Pā. 6-1-173 [?], 8-2-36 [?]",
+  "new": "तदिच्छन्तौ सततगामिनौ; refs without [?]",
+  "note": "230dpi: Saṃhitā/Pada print ऋज्रा (ṛjrā) — confirmed, 'ṛjugra' not supported; bhāṣya line compared; ತದಿಚ್ಛಂತೌ."
  }
 ]
