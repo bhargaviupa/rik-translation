@@ -8587,13 +8587,13 @@ In such ṛks the word is used, with the sense *vedyākhyaṃ sthānam* ("the pl
 
 Addressing Indra, the meaning is explained: "May the enemies of Indra lie down in their own places, each where he was before; or may they lie in the atmosphere, the resting-place of all beings."
 
-***pavīravasya mahā praśastaye*** — the word *pavi* is read among the names of the thunderbolt (Ni. 2-… [?]) and among the names of speech (Ni. 3-… [?]). And Yāska:
+***pavīravasya mahā praśastaye*** — the word *pavi* is read among the names of the thunderbolt (Ni. 3-11, as printed) and among the names of speech (Ni. 2-13, as printed). And Yāska:
 
-> सावीर्वी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापस्समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥
+> पावीरवी तन्यतुरेकपादजो दिवो धर्ता सिन्धुरापस्समुद्रियः । विश्वे देवासः शृणवन् वचांसि मे सरस्वती सह धीभिः पुरंध्या ॥
 
-> *sāvīrvī tanyatur ekapādajo divo dhartā sindhur āpas samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖* [as read: [?]]
+> *pāvīravī tanyatur ekapādajo divo dhartā sindhur āpas samudriyaḥ | viśve devāsaḥ śṛṇavan vacāṃsi me sarasvatī saha dhībhiḥ puraṃdhyā ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-65-13 [?]) — quoting this ṛk, he explains: "*paviḥ śalyo bhavati yad vipunāti kāyam, tadvat pavīram āyudhaṃ tadvān indraḥ pavīravān*" — *pavi* means a thorn (*śalya*), because it pierces and purifies the body: *pavi* may be taken to mean "thorn"; since the body is divided by the thorn, the weapon fitted with a point is called *pavīra*; and Indra, who possesses this weapon, is called *pavīravān*: this is the meaning given. Here Sāyaṇa —
+(Ṛ. Saṃ. 10-65-13) — quoting this ṛk, he explains: "*paviḥ śalyo bhavati yad vipunāti kāyam, tadvat pavīram āyudhaṃ tadvān indraḥ pavīravān*" — *pavi* means a thorn (*śalya*), because it pierces and purifies the body: *pavi* may be taken to mean "thorn"; since the body is divided by the thorn, the weapon fitted with a point is called *pavīra*; and Indra, who possesses this weapon, is called *pavīravān*: this is the meaning given. Here Sāyaṇa —
 
 for the word *pavīravasya* explains "*kuliśasya*", "of the thunderbolt", or "of the word *kuliśa*"; having explained the meaning of the word "weapon, thunderbolt", he states that, through the greatness of the thunderbolt and "*tvadvajraprahāreṇa hatā meghāḥ śatravo vā tatraiva śerate nipātena palāyante*" — the clouds or the enemies, struck by the blow of your thunderbolt, lie there, or flee by falling away; and that this (state, as it were) is for the sake of proclaiming Indra's greatness: "*praśaṃsanāya tvattrātaye tvanmahimajñāpanāya*" [as read: [?]].
 

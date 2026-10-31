@@ -406,5 +406,13 @@
   "old": "Ṛ.Saṃ. 1-164-32, 1-65-2, 5-21-4, 1-66-3, 1-144-4, 1-140-1 [?]; Ni. 2-8 [?]; Ni. 1-12 [?]",
   "new": "refs without [?]; Ni. 2-24 (as printed) [?]",
   "note": "190dpi whole page + 650dpi zoom on the Nirukta ref after the 'water names' (reads ೨-೨೪, not 1-12). Quotes agree with the file at 190dpi."
+ },
+ {
+  "pdf": 352,
+  "printed": 332,
+  "status": "resolved",
+  "old": "Ni. 2-… [?]; Ni. 3-… [?]; Ṛ.Saṃ. 10-65-13 [?]; सावीर्वी",
+  "new": "Ni. 3-11 (as printed); Ni. 2-13 (as printed); 10-65-13; पावीरवी",
+  "note": "700dpi, compared side by side with the page header (Anuvāka 23 = round '2' + hooked '3'): the vajra-names ref begins with the hooked 3-glyph (3-11), the speech-names ref with the round 2 (2-13). CALIBRATION WARNING: the hooked 3-glyph (looks like ‘ಖ’) can be mistaken for 2; earlier entries in this file where I read ‘2’ from a hooked glyph need a re-check (see recheck list below)."
  }
 ]
