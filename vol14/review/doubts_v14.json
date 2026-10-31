@@ -1,0 +1,38 @@
+[
+ {
+  "pdf": 20,
+  "printed": 2,
+  "crop": [
+   0.25,
+   0.31,
+   0.55,
+   1.0
+  ],
+  "note": "ZOOMED, read: (Ṛ. Saṃ. 7. 37 [?] 13 to 14) — digit after 3 has the same flat-footed shape as the first 7; kept [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 20,
+  "printed": 2,
+  "crop": [
+   0.33,
+   0.38,
+   0.55,
+   1.0
+  ],
+  "note": "ZOOMED, read: (Bṛ. De. 5 [?]-150 [?]) — first digit and middle digit of 150 unclear (ಶ-like glyph)",
+  "answer": ""
+ },
+ {
+  "pdf": 20,
+  "printed": 2,
+  "crop": [
+   0.86,
+   0.89,
+   0.6,
+   1.0
+  ],
+  "note": "ZOOMED (band missed the reference line); ref read from strip as (Ṛ. Saṃ. 1. 179. 6)",
+  "answer": ""
+ }
+]
