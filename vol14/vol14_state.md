@@ -1,8 +1,7 @@
 # Vol 14 — state
 
-Status: **not started.** Scan not yet in the repo (upload to `vol14/scans/`). LEAN MODE (see `vol14_runbook.md`).
+Status: **not started.** Scan in `scans/` (9 parts, 979 pages, ~660 ppi).
 
 ## Facts (fill in from the print)
-- Scan: parts / pages / ppi: ?
-- Page offset (printed = PDF − k): ?  Front matter offset: ?
+- Page offset (printed = PDF − k): ?   Front matter: ?
 - Content (Maṇḍala / Aṣṭaka / Adhyāya / Sūktas): ?

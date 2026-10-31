@@ -1,29 +1,22 @@
-# Vol 14 — translation runbook (LEAN MODE, Oct 30, 2026; from the Vol 13 experience)
+# Vol 14 — translation runbook (Oct 31, 2026)
 
-Priority: **tokens**. Only the translation work; no audits, no sample tests, no calibration passes, no whole-volume scans. Conventions of CLAUDE.md apply (three-layer Sanskrit, per-Ṛk structure, printed English reproduced with [sic], progress-note pattern, digit key).
+Priority: **correct readings the first time, few tokens.** Only the translation; no audits, tests, calibration passes or whole-volume scans. CLAUDE.md conventions apply (three-layer Sanskrit, per-Ṛk structure, printed English with [sic], progress-note pattern, digit key).
 
-## Set-up (cheap; once)
-1. **Page offset by sampling (about 6–8 pages, spread over the volume), not by reading every page.** View header-strip contact sheets of ~every 25th page: `python3 vol14/tools/numsheets.py FIRST LAST PREFIX` makes a sheet of header number strips (75 pages per sheet by default; build a sheet over a list/step by giving a small range, or a whole 75-page block when you need it). Offsets that agree at the sampled pages = no missing/duplicate pages in between; if the offset changes between two samples, bisect there. Front matter is numbered in roman (record its offset). Set OFFSET in vol14/tools/cfg.py; write the findings in vol14/vol14_state.md.
-2. **Range only:** view the title page once (~100 dpi) for the Sūkta range; if a digit is doubtful, confirm it against the ordinal word on the title page or the last contents heading. Do NOT build lists of sūkta start pages or Ṛk counts up front: each sūkta opens with a heading block (Sūkta number, Ṛk count, ṛṣi, devatā, chandas) which you read when you reach it (a short crop; `python3 vol14/tools/findhead.py PDFPAGE` can locate it, locating only). No per-sūkta page counting.
-3. (Nothing else is needed before translating: no orientation checks, no inventories, no audits.)
+## Scan
+`vol14/scans/14 Rigveda Samhitha Volume 14 N.pdf`, 9 parts, 979 PDF pages in part order, ~660 ppi 1-bit. `vol14/tools/cfg.py` maps a global PDF page to part + page (`git lfs pull` if pointers). Ignore `Rig_Vol14(1/2).pdf`.
 
-## Work (per sūkta)
-- View each page **once** at ~100–120 dpi (`python3 vol14/tools/view.py PDFPAGE OUT.png 110` — whole-page fractions; crops: `view.py PDFPAGE OUT.png DPI y0 y1 x0 x1`); **zoom only a crop that is in doubt** (small-type numerals, garbled letters); several doubtful lines can be stacked into one image: `python3 vol14/tools/stack.py OUT.png 300 PAGE:y0:y1 PAGE:y0:y1 …`.
-- Write the English file page-anchored: mark each printed page as you reach it; never carry numbers from another scan. Append chunks with `python3 vol14/tools/append_en.py "PROGRESS NOTE" < chunk.md` (keeps exactly one trailing progress note; asserts the file did not shrink).
-- Devanagari + English written by you; **IAST by script**: `python3 publish/tools/translit/add_iast.py FILE.md`. Sāyaṇa-bhāṣya stays in Sanskrit (Devanagari) with a one-line gist (≤ 25 words) where needed; grammar pages: 2–4 line note only (CLAUDE.md "Cost-saving rules").
-- Numerals: read at zoom the first time when small; `[?]` if still undecidable; never from memory. Log a doubtful reading with its crop: `python3 vol14/tools/doubt.py PDFPAGE y0 y1 x0 x1 "note"` (→ vol14/review/doubts_v14.json); the user later reviews them on one page (`vol14/tools/doubts_v14.py`).
-- No OCR for readings (Tesseract may at most help locate a line); if an image view returns no image: STOP and write nothing for that page.
+## Reading a page (tool: `vol14/tools/page.py`)
+`python3 vol14/tools/page.py PDFPAGE /tmp/pg` trims the margins, cuts the text block into full-width strips (top to bottom) and renders them at the highest dpi the viewer shows **without shrinking** (it reduces any image over ~2000 px; at ~360 dpi a strip is read at full detail). View every strip, read, write the page. **There is no separate zoom step**: a strip already shows small numerals and accents. If one place is still unclear: `page.py PDFPAGE /tmp/z --zoom Y0 Y1 [X0 X1] --dpi 600` (fractions of the trimmed block), once. **Every place you zoomed is logged for the user's review, resolved or not**: note starts `ZOOMED, read: <your reading>` (or `UNDECIDED:` with `[?]` kept in the file). Undecidable → `[?]`. Log with: `python3 vol14/tools/doubt.py PDFPAGE y0 y1 x0 x1 "note"` (→ `vol14/review/doubts_v14.json`; fractions of the whole page; one flat review list is built later with `doubts_v14.py`).
+
+## Set-up (once)
+1. Page offset by sampling ~6–8 header strips spread over the volume: `python3 vol14/tools/numsheets.py FIRST LAST PREFIX` (contact sheet of header strips). Agreeing offsets = no missing/duplicate pages between; if it changes, bisect. Front matter is roman-numbered. Set OFFSET in `vol14/tools/cfg.py`; note it in `vol14_state.md`.
+2. Title page once, for the Sūkta range (confirm doubtful digits from the ordinal word on the title page or the contents). Nothing else before translating.
+
+## Work: a fresh translator for each batch of 6 pages
+An agent cannot drop old images from its own context, and the translation file already holds everything needed to continue. So the main session only dispatches: for each batch of **6 consecutive pages** it starts a new `translator` agent (Agent tool) whose prompt is: the page numbers (PDF and printed), "Translator rules" below, the position from `vol14/parts/session_state.md` (done-through printed page / Ṛk), the last ~40 lines of the output file, and the path of one finished sūkta as a format model. The translator reads each page with `page.py`, writes it, appends it and replies in one line ("done through printed p. N, Ṛk R"); it is then discarded. The main session records that line in `session_state.md`, commits and pushes (every sūkta or ~15 pages), and starts the next translator. A Ṛk that runs over the end of the batch is finished by the translator that reads the page where it ends: the next batch starts on the page after the last one written, and the progress note says which Ṛk is open.
+- Translator rules: view each page once (all its strips); write immediately; page-anchored (mark each printed page); Devanagari + English written by you; **IAST by script** `python3 publish/tools/translit/add_iast.py FILE.md`; Sāyaṇa-bhāṣya in Sanskrit with a ≤ 25-word gist where needed; grammar pages a 2–4-line note; the source's printed English with [sic]; no OCR for readings; an image view that returns no image → STOP, write nothing for that page.
+- Append: `python3 vol14/tools/append_en.py "PROGRESS NOTE" < chunk.md` (one trailing progress note; asserts the file did not shrink).
+- Each sūkta opens with a heading block (Sūkta number, Ṛk count, ṛṣi, devatā, chandas): read it when you reach it. No page counting, no lists of start pages.
 
 ## Hygiene
-- Commit and push after every sūkta (or ~15 pages). One branch (`claude/vol14`); never force-push or reset; merge to main only when the user says; no PRs.
-- Update `vol14/parts/session_state.md` (done-through printed page / Ṛk, next step) at every push. A session sees ~45–60 images before its context fills: finish the current Ṛk, push, tell the user to start the next session with `vol14/CONTINUE_PROMPT.md`.
-
-## Lessons from the Vol 13 set-up (apply)
-1. No whole-volume Tesseract scans (20+ min, dropped twice); contact sheets of header strips instead.
-2. Never crop a header by a fixed fraction of the page; `numsheets.py` finds the header row from the ink profile. Crops everywhere are whole-page fractions.
-3. A prompt's premises are claims to check by eye before building tools for them.
-4. Confirm range numerals from the contents' word forms.
-5. Front matter is numbered separately (roman); the contents title page may be unnumbered but counted.
-6. Git/LFS: if `git checkout -b … origin/main` fails with "should have been a pointer", use `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull` for the scans needed.
-7. Background jobs: kill by PID, never `pkill -f PATTERN` (can kill your own shell); don't poll with sleep.
-8. Ask before long or costly steps; give the cheap alternative in the same message.
+One branch (`claude/vol14`); never force-push or reset; merge to main only when the user says; no PRs. Git/LFS: if `git checkout -b … origin/main` fails with "should have been a pointer": `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull`. Kill background jobs by PID, never `pkill -f`; no sleep-polling.
