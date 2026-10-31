@@ -7965,9 +7965,9 @@ Here ends the hundred and seventy-third (173rd) Sūkta.
 
 **Anukramaṇikā (Sanskrit, as read; doubtful passages marked [?])**
 
-> त्वं राजेति दशर्चं दशमं सूक्तमागस्त्यमैन्द्रं त्रैष्टुभम् । त्वं राजा दशेत्यनुक्रान्तं । पृष्ठ्ये षळहे स्तोमवृद्धौ स्तोमातिशंसनार्थं होत्रकैरेतच्छस्तव्यं [?] । ऐन्द्राणि त्रैष्टुभान्यमरुच्छा न्यान्यवापेरन् । आ. [?] । इति सूक्तम् ॥
+> त्वं राजेति दशर्चं दशमं सूक्तमागस्त्यमैन्द्रं त्रैष्टुभम् । त्वं राजा दशेत्यनुक्रान्तं । पृष्ठ्ये षळहे स्तोमवृद्धौ स्तोमातिशंसनार्थं होत्रकैरेतच्छस्तव्यं [?] । ऐन्द्राणि त्रैष्टुभान्यमरुच्छा न्यान्यवापेरन् । आ. ७-१२ । इति सूक्तम् ॥
 
-> *tvaṃ rājeti daśarcaṃ daśamaṃ sūktam āgastyam aindraṃ traiṣṭubham | tvaṃ rājā daśety anukrāntaṃ | pṛṣṭhye ṣaḷahe stomavṛddhau stomātiśaṃsanārthaṃ hotrakair etac chastavyaṃ [?] | aindrāṇi traiṣṭubhāny amaruc chā nyāny avāperan | ā. [?] | iti sūktam ‖*
+> *tvaṃ rājeti daśarcaṃ daśamaṃ sūktam āgastyam aindraṃ traiṣṭubham | tvaṃ rājā daśety anukrāntaṃ | pṛṣṭhye ṣaḷahe stomavṛddhau stomātiśaṃsanārthaṃ hotrakair etac chastavyaṃ [?] | aindrāṇi traiṣṭubhāny amaruc chā nyāny avāperan | ā. 7-12 | iti sūktam ‖*
 
 **Anuvāda (Kannada, translated)**
 
@@ -7976,7 +7976,7 @@ This sūkta beginning *tvaṃ rājendra* is the tenth sūkta in the twenty-third
 **Sūkta — 174**
 
 Maṇḍala — 1 ‖ Anuvāka — 23 ‖ Sūkta — 174 ‖
-Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 16, 17 [?] ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 16 (as in the page header of p. 313) ‖
 Number of ṛks in the sūkta — 10 ‖
 Ṛṣi — Agastya ‖ Devatā — Indra ‖ Chandas — Triṣṭubh ‖
 
