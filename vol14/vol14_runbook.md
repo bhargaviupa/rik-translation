@@ -18,5 +18,12 @@ An agent cannot drop old images from its own context, and the translation file a
 - Append: `python3 vol14/tools/append_en.py "PROGRESS NOTE" < chunk.md` (one trailing progress note; asserts the file did not shrink).
 - Each sūkta opens with a heading block (Sūkta number, Ṛk count, ṛṣi, devatā, chandas): read it when you reach it. No page counting, no lists of start pages.
 
+## Lessons from the pilot (printed pp. 2–55)
+- Opus as translator: ~150k tokens and ~6 min per 6-page batch, ~2–7 distinct `[?]` places per batch. Sonnet (batches 6–8): similar tokens, 5–20 `[?]` places per batch, more mis-aimed zooms: use Opus.
+- `pip install indic_transliteration` if `add_iast.py` fails on import. Run `add_iast.py` on your own chunk file only, never on the whole output file. No hand-typed IAST, not even for short inline words (`⟦देवा⟧` markers instead).
+- Zoom boxes: coordinates are those of the image **as displayed**; multiply by the viewer's stated factor. Make the box a generous full line. Check the zoom shows the intended word; redo once. Log one `doubt.py` entry per place with the fractions the zoom command prints.
+- `[?]` is for places a zoom cannot decide; every zoomed place is logged for the user's review either way.
+- Never switch branches or run branch-changing git commands while a translator is writing.
+
 ## Hygiene
 One branch (`claude/vol14`); never force-push or reset; merge to main only when the user says; no PRs. Git/LFS: if `git checkout -b … origin/main` fails with "should have been a pointer": `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull`. Kill background jobs by PID, never `pkill -f`; no sleep-polling.
