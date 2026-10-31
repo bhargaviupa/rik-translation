@@ -2195,4 +2195,202 @@ In this ṛk there is the prayer **दात्रं हुवे (*dātraṃ h
 
 ---
 
-**Progress note:** Done through printed p. 67 (PDF 85). Sūkta 185 Ṛk 2 closed on p. 66; Ṛk 3 (aneho dātram aditeḥ) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun on p. 67 (aditeḥ) and continue; Vyākaraṇa-prakriyā not yet seen — continue on printed p. 68 / PDF 86. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ).
+### Printed p. 68  (PDF 86)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 3, continued.)* In the present ṛk it is an epithet of both the Earth and the Antarikṣa, and it has been given the meaning "wealth belonging to both the Earth and the Antarikṣa, which are of undivided nature".
+
+The Nairuktas (the author of the Nirukta) have given for the word *aditi* the meaning **अदीना (*adīnā*)** (Ni. 4-23, as read) — "not poor (not wretched), being of undivided nature, not decaying". This is an epithet that makes known the infinite principle of Agni, of Aditi the mother of the gods, and so on. About the special character of the purport of this word, the scholar Max-Muller has stated thus:
+
+" Aditi, an ancient God or Goddess is in reality, the earliest name invented to express the infinite. That was called A-diti, the unbound, the un-bounded. It is derived from Diti, bond and the negative particle and meant there-fore, originally what is free from bonds of any kind whether of space or time, free from physical weakness, free from moral guilt."
+
+( S. B. E. Vol. XXXII. p. 241. )
+
+To make known the nature of whatever principle is infinite, not limited by place, time and the like, and immeasurable, this word is used in many places in the Ṛksaṃhitā. The ṛṣis who are the seers of the sūktas have expressed a profound idea by the use of this word. Making known the negative sense of the word *diti*, which has the meaning "being bound, being limited, being restrained", he (Max Müller) has said that this is a word which indicates the infinite principle in which there is neither physical limitation nor moral deficiency.
+
+> अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः ।
+> विश्वे देवा अदितिः पञ्च जना अदितिर्जातमदितिर्जनित्वम् ॥
+
+> *aditirdyauraditirantarikṣamaditirmātā sa pitā sa putraḥ |*
+> *viśve devā aditiḥ pañca janā aditirjātamaditirjanitvam ‖*
+
+(Ṛ. Saṃ 1-89-10) (Gloss, mine and tentative: "Aditi is heaven, Aditi the mid-space, Aditi the mother, she the father, she the son; Aditi is all the gods, Aditi the five peoples; Aditi is what is born, Aditi what is to be born.")
+
+As described in such ṛks, Aditi is the mother of the universe and of the nature of the universe. It may be said that such a deity, who is the mother of the world, presides over the whole physical world and over moral conduct. But it has to be examined whether the word *aditi* makes known the nature of one separate deity, or whether it is an epithet of Heaven and Earth and the like, whose nature is that of Aditi. There is also an opinion that, apart from the 72nd sūkta of Ṛ. Saṃ. 10 (as read: "10-72"), in all other places the word *aditi* makes known only the nature of the Ādityas and others who are the sons of Aditi. For example,
+
+" Aditi is not a prominent deity in the Veda, she is celebrated rather in her sons, Adityas, than in her own person . . . . . . . . "
+
+( S. B. E. XXXII. p. 243 )
+
+---
+
+### Printed p. 69  (PDF 87)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2". Special Topics of Ṛk 3, continued.)* — such is the opinion of the scholars Max Muller and others. Since that discussion is not so necessary in the present context, this subject will be discussed later at a suitable place. In the present ṛk too there is the prayer that unlimited wealth belonging to Heaven and Earth, whose nature is infinite and undivided, may be obtained.
+
+**अनेहः (*anehaḥ*)** — for this word Sāyaṇa has given the meaning **अपारं (*apāraṃ*)** [sic; the bhāṣya reads अपापं (*apāpaṃ*)], **दुःखरहितं (*duḥkharahitaṃ*), सुखात्मकं (*sukhātmakaṃ*)**. In some places it also means "free of enemies".
+
+**अनर्वं (*anarvaṃ*)** — the meaning is given as **अनरणं, अक्षीणं (*anaraṇaṃ, akṣīṇaṃ*)** | "free of decay". From " **अनर्वा प्रत्यृतोऽन्यस्मिन् (*anarvā pratyṛto 'nyasmin*)** " (Ni. 6-23) one meaning, "without dependence on or subjection to others", and another meaning, "eternal, without old age, death and the like", become possible. The meaning stated in the ṛk containing " **त्रिनाभि चक्रमजरमनर्वं (*trinābhi cakramajaramanarvaṃ*)** " (Ṛ. Saṃ. 1-164-2) belongs to the word *anarva* in the present mantra too. Its special meanings will be explained in the places where the forms **अनर्वन्, अनर्वाणं (*anarvan, anarvāṇaṃ*)** and so on are used.
+
+**स्वर्वत् (*svarvat*)** — it is an epithet of **दात्रं (*dātraṃ*)**, meaning "like heaven, which is full of fruit". What the root of the word **स्वर् (*svar*)** is, and how this word is derived, has been explained earlier together with the Nairukta's etymology **स्वः आदित्यो भवति ; सु अरणः (*svaḥ ādityo bhavati ; su araṇaḥ*)** etc. (Ni. 2-14), and it has been shown that the word *svaḥ* is used in various senses. Just as there is the word *svarvat*, there are also usages such as **स्वर्दृशः, स्वर्विद् (*svardṛśaḥ, svarvid*)** in many places, and they give special meanings suited to their contexts. Here, citing only a few contexts in which the form *svarvat* is used, its meaning is explained.
+
+> या इन्द्र भुज आभरः स्वर्वाँ असुरेभ्यः ।
+> स्तोतारमिन्मघवन्नस्य वर्धय ये च त्वे वृक्तबर्हिषः ॥
+
+> *yā indra bhuja ābharaḥ svarvā~ asurebhyaḥ |*
+> *stotāraminmaghavannasya vardhaya ye ca tve vṛktabarhiṣaḥ ‖*
+
+(Ṛ Saṃ 8-97-1) (Gloss, mine and tentative: "The enjoyments, O Indra, which you, possessed of heaven, brought from the Asuras — with them, O Maghavan, increase the praiser of this one, and those who have spread the sacred grass for you.")
+
+There, स्वर्वान् — सुखवान् ; स्वर्गवान् वा । अथवा स्वः शब्दः सर्वपर्यायः । सर्वं भूतजातं आत्मन एवोत्पन्नत्वात् तद्वान् ॥ (*svarvān — sukhavān ; svargavān vā | athavā svaḥ śabdaḥ sarvaparyāyaḥ | sarvaṃ bhūtajātaṃ ātmana evotpannatvāt tadvān ‖*) That is, since the word *svaḥ* has the meanings heaven, happiness, or all, **svarvān** means "one possessed of happiness, one possessed of heaven, or one who possesses everything".
+
+*(Line 2 as printed: "भेदत्यजैः (*bhedatyajaiḥ*)" and "सर्वतीरपो (*sarvatīrapo*)", without the *v* of *svar-*.)*
+
+> तं शिशीता स्वध्वरं सत्यं सत्वानमृत्वियं ।
+> उतो नु चिद्य ओहते आण्डा शुष्णस्य भेदत्यजैः सर्वतीरपो नभन्तामन्यके समे ॥
+
+> *taṃ śiśītā svadhvaraṃ satyaṃ satvānamṛtviyaṃ |*
+> *uto nu cidya ohate āṇḍā śuṣṇasya bhedatyajaiḥ sarvatīrapo nabhantāmanyake same ‖*
+
+(Ṛ. Saṃ. 8-40-11) (Gloss, mine and tentative: "Sharpen him, of good sacrifices, true, the warrior, the timely one; he who is now praised breaks the eggs of Śuṣṇa; he has won the waters full of light; let all the others perish.")
+
+---
+
+### Printed p. 70  (PDF 88)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 3, continued.)* — in such places, when it is an epithet of water as **स्वर्वतीः अपः (*svarvatīḥ apaḥ*)**, the meaning is **दिव्यानि (*divyāni*)**, that is, "water produced in the heavenly world (in Svarga)". This same epithet also describes the nature of the other deities, Agni and the rest. For example,
+
+> ज्योतिष्मतीमदितिं धारयत्क्षितिं स्वर्वतीमा सचेते दिवेदिवे जागृवांसा
+> दिवेदिवे ।
+> ज्योतिष्मत्क्षत्रमाशाते आदित्या दानुनस्पती ॥
+
+> *jyotiṣmatīmaditiṃ dhārayatkṣitiṃ svarvatīmā sacete divedive jāgṛvāṃsā*
+> *divedive |*
+> *jyotiṣmatkṣatramāśāte ādityā dānunaspatī ‖*
+
+(Ṛ. Saṃ. 1-136-3) (Gloss, mine and tentative: "They attend on luminous Aditi, who upholds the dwelling-places, possessed of heaven, day after day, the two wakeful ones, day after day; the two Ādityas, lords of gifts, obtain luminous dominion.")
+
+There the word *svarvatī* is an epithet of Aditi. Here the meaning given is **यज्ञनिष्पत्तिद्वारा स्वर्गवतीं (*yajñaniṣpattidvārā svargavatīṃ*)** — "possessed of heaven through the accomplishment of the sacrifice".
+
+*(Line 2 as printed: "समेत्वर्वाजिन्द्र (*sametvarvājindra*)", with ja.)*
+
+> आ ते शुष्मो वृषभ एतु पश्चादोत्तरादधरादा पुरस्तात् ।
+> आ विश्वतो अभि समेत्वर्वाजिन्द्र द्युम्नं स्वर्वद्धेह्यस्मे ॥
+
+> *ā te śuṣmo vṛṣabha etu paścādottarādadharādā purastāt |*
+> *ā viśvato abhi sametvarvājindra dyumnaṃ svarvaddhehyasme ‖*
+
+(Ṛ. Saṃ. 6-19-9) (Gloss, mine and tentative: "May your vigour, O bull, come from behind, from above, from below, from in front; may it come together towards us from all sides; O Indra, place in us splendour possessed of heaven.")
+
+In such contexts they have given the meaning **सुखयुक्तं धनं (*sukhayuktaṃ dhanaṃ*)** — "wealth joined with happiness". In the same way, in the present ṛk too, "like heaven" means *dātra* (wealth) that gives happiness like the happiness obtained in heaven.
+
+**रोदसी (*rodasī*)** — the etymology and purport of this word have been shown briefly before. Its special meanings will be set out at greater length later in the Special Topics.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *anehaḥ* (root *hana hiṃsāgatyoḥ*; *asi* suffix by *nañi hana eha ca* (Uṇ. Sū. 4-[?]); *eha* substitute for the root; loss of the *n* of *nañ* by *nalopo nañaḥ*; *nuṭ* augment by *tasmān nuḍ aci*; loss of the case-ending in the neuter by *svamor napuṃsakāt* (Pā. Sū. 7-1-23, a stray mark between 7 and 1); final acute by the *kṛd*-latter-member accent). *dātram* (root *ḍudāñ dāne*; *tran* suffix by *dādibhyaś chandasi* (Uṇ. Sū. 4-[?]); final acute by *vyatyaya*). *huve* (root *hveñ spardhāyāṃ śabde ca*; *laṭ*, 1st person singular; no *nighāta* at the start of a pāda; final acute by the suffix accent). *svarvat* (स्वर् स्वर्गः अस्य अस्ति इति स्वर्वत् (*svar svargaḥ asya asti iti svarvat*); *matup*, unaccented as *pit*; *svarita* on *svar* by *nañsvarau svaritau* (Phi. Sū. 74)).
+
+---
+
+### Printed p. 71  (PDF 89)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2". Grammar of Ṛk 3, concluded.)* *avadham* (root *hana hiṃsāgatyoḥ*; *vadha* substitute with the suffix *ap*; न विद्यते वधः यस्य तत् (*na vidyate vadhaḥ yasya tat*); final acute of the latter member by *nañsubhyām* (Pā. Sū. 6-2-172)). *janayatam* (root *janī prādurbhāve*; *ṇic* by *hetumati ca*; *mit* designation by *janījṝṣknasurañjo'mantāś ca*, hence shortening of the penultimate by *mitāṃ hrasvaḥ* (Pā. Sū. 6-4-92); *loṭ*, 2nd person dual of the causative; *nighāta* as it follows a non-verb).
+
+*(Ornamental rule "— :0: —": end of Ṛk 3.)*
+
+## Sūkta 185, Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*(As printed: "अन्हां (*anhāṃ*)" for *ahnāṃ*, here and in the Pada.)*
+
+> अतप्यमाने अवसावन्ती अनु ष्याम रोदसी देवपुत्रे ।
+> उभे देवानामुभयेभिरन्हां द्यावा रक्षतं पृथिवी नो अभ्वात् ॥ ४ ॥
+
+> *atapyamāne avasāvantī anu ṣyāma rodasī devaputre |*
+> *ubhe devānāmubhayebhiranhāṃ dyāvā rakṣataṃ pṛthivī no abhvāt ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अतप्यमाने इति । अवसा । अवन्ती इति । अनु । स्याम । रोदसी इति । देवपुत्रे इति देवऽपुत्रे ।
+> उभे इति । देवानाम् । उभयेभिः । अन्हाम् । द्यावा । रक्षतम् । पृथिवी इति । नः । अभ्वात् ॥ ४ ॥
+
+> *atapyamāne iti | avasā | avantī iti | anu | syāma | rodasī iti | devaputre iti deva 'putre |*
+> *ubhe iti | devānām | ubhayebhiḥ | anhām | dyāvā | rakṣatam | pṛthivī iti | naḥ | abhvāt ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; continues on the next page)*
+
+> अवसा स्वतोऽधिकेन केनचित्कृतेनावनेन समृद्ध्याऽतप्यमाने अनीश्वरे ॥ तप ऐश्वर्यकर्मणि इदं रूपम् ॥ अतप्यमाने अन्यैरपीड्यमाने । अवसान्नेनावन्ती तर्पयन्त्यौ देवपुत्रे देवा व्यवहर्तारो मनुष्याः पुत्रस्थानीया ययोस्तादृश्यौ । लोकद्वयस्था मनुष्याश्च देवाश्च तदुपजीव्यत्वात्तत्पुत्रा इत्युच्यन्ते ।
+
+> *avasā svato 'dhikena kenacitkṛtenāvanena samṛddhyā 'tapyamāne anīśvare ‖ tapa aiśvaryakarmaṇi idaṃ rūpam ‖ atapyamāne anyairapīḍyamāne | avasānnenāvantī tarpayantyau devaputre devā vyavahartāro manuṣyāḥ putrasthānīyā yayostādṛśyau | lokadvayasthā manuṣyāśca devāśca tadupajīvyatvāttatputrā ityucyante |*
+
+---
+
+### Printed p. 72  (PDF 90)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Bhāṣya of Ṛk 4, concluded.)*
+
+*Gist:* Heaven and Earth, unoppressed (or sovereign through abundance), sustaining all with food, having gods and men as their sons, marked by the twofold qualities of days and nights — may we serve them; the refrain as before.
+
+*(Line 1 as read: "ईदृशावुभे (*īdṛśāvubhe*)".)*
+
+> ईदृशावुभे रोदसी द्यावापृथिव्यौ देवानामह्नाम् । एतद्रात्रेरप्युपलक्षणम् । द्योतमानानामह्नां रात्रीणां च संबन्धिभिरुभयविधैः शीतोष्णादिरूपैर्विलक्षणैर्धर्मैर्निमित्तभूतैः । तेषां लाभायेत्यर्थः । तदर्थं युवामनु स्याम । अनुभवेम । शिष्टो व्याख्यातः ॥
+
+> *īdṛśāvubhe rodasī dyāvāpṛthivyau devānāmahnām | etadrātrerapyupalakṣaṇam | dyotamānānāmahnāṃ rātrīṇāṃ ca saṃbandhibhirubhayavidhaiḥ śītoṣṇādirūpairvilakṣaṇairdharmairnimittabhūtaiḥ | teṣāṃ lābhāyetyarthaḥ | tadarthaṃ yuvāmanu syāma | anubhavema | śiṣṭo vyākhyātaḥ ‖*
+
+**Pratipadārtha.** *avasā* — with abundant lordship (prosperity); *atapyamāne* — having no lords higher than themselves; [or: *atapyamāne* — not harmed by others; *avasā* — with food; *avantī* — satisfying (all);] *devaputre* — having the gods (and men) as sons; *devānām* — shining; *ahnām* — of days and nights; *ubhayebhiḥ* — endowed with both kinds of marks, cold, heat and the like; *ubhe rodasī* — both Heaven and Earth; *anu syāma* — may we serve with devotion; *dyāvāpṛthivī* — O Heaven and Earth; *abhvāt* — from fearful calamity; *naḥ* — us; *rakṣatam* — protect.
+
+**Bhāvārtha.** May we serve with devotion both Heaven and Earth, who are not harmed by others, who satisfy all with food, who have the gods and men as their sons, and who are endowed with both kinds of marks, cold, heat and the like, of the shining days and nights. O Heaven and Earth, protect us from fearful calamity.
+
+**English Translation (as printed):** May we ever be (devoted to) that Heaven and Earth, who are not subject to annoyance, who satisfy (all beings) with food, who have the gods (and men) for sons, and who are both endowed with the double (condition) of the divine days (and nights) : defend us, Heaven and Earth, from great (danger).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**अवसा (*avasā*)** — the word *avas* is read among the names of food (Ni. 3-8, as read). On that basis one may give the meaning "with lordship in the form of food" in the present ṛk. Or else, of the Ṛksaṃhitā (ṛk) which the Nirukta's author has cited in another place (Ni. 10-3),
+
+> हिरण्यस्तूपः सवितर्यथा त्वाङ्गिरसो जुह्वे वाजे अस्मिन् ।
+> एवा त्वार्चन्नवसे वन्दमानः सोमस्येवांशुं प्रति जागराहम् ॥
+
+> *hiraṇyastūpaḥ savitaryathā tvāṅgiraso juhve vāje asmin |*
+> *evā tvārcannavase vandamānaḥ somasyevāṃśuṃ prati jāgarāham ‖*
+
+(Ṛ. Saṃ. 10-149-5) (Gloss, mine and tentative: "As Hiraṇyastūpa, the Āṅgirasa, called on you, O Savitṛ, in this contest, so, praising you for help, worshipping, I keep watch over you as over the stalk of Soma.")
+
+---
+
+### Printed p. 73  (PDF 91)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2". Special Topics of Ṛk 4, continued.)* — just as there, for the word **अवसे (*avase*)**, the meaning **अवनाय (*avanāya*)**, that is **रक्षणाय (*rakṣaṇāya*)**, "for protection", has been given, so in the present ṛk too it may be said "with protection (in the form of food)". Sāyaṇa in this context has given the meaning in two ways. First, for the word **अतप्यमाने (*atapyamāne*)** he has given the meaning *anīśvare* ("having no lord"). Explaining how that is so, he has explained **तपेः ऐश्वर्यकर्मणः इदं रूपम् । (*tapeḥ aiśvaryakarmaṇaḥ idaṃ rūpam |*)** — "this is a form of the root *tap* in the sense of lordship". The meaning is: "not subject to any other lord, but themselves lords of the whole world". Then **अवसा अतप्यमाने (*avasā atapyamāne*)** has the purport "lords of the world through abundance of wealth". Secondly: **अतप्यमाने अन्यैरपीड्यमाने । (*atapyamāne anyairapīḍyamāne |*)** — "not harmed by others"; **अवसा अवन्ती (*avasā avantī*)** | — the meaning is "protecting the world with protections".
+
+**देवपुत्रे (*devaputre*)** — **देवाः, व्यवहर्तारो मनुष्याः पुत्रस्थानीयाः ययोस्तादृश्यौ । लोकद्वयस्थाः मनुष्याश्च देवाश्च तदुपजीव्यत्वात् पुत्रा इत्युच्यन्ते । (*devāḥ, vyavahartāro manuṣyāḥ putrasthānīyāḥ yayostādṛśyau | lokadvayasthāḥ manuṣyāśca devāśca tadupajīvyatvāt putrā ityucyante |*)** Since men, relying on the heaven-world, live by the favour of its rain and the like, and the gods, relying on the earth, live by the offering of sacrificial oblations, and so both are dependent on them, Heaven and Earth are addressed as having all these as their sons.
+
+*(Line 1 as printed: "समपतत्ते (*samapatatte*)".)*
+
+> इमौ वै लोकौ सहास्तां तौ व्यैतां नावर्षन्न समपतत्ते पञ्चजना न सम-
+> जानत तौ देवाः समनयंस्तौ संयन्तावेतं देवविवाहं व्यवहेताम् ।
+
+> *imau vai lokau sahāstāṃ tau vyaitāṃ nāvarṣanna samapatatte pañcajanā na sama-*
+> *jānata tau devāḥ samanayaṃstau saṃyantāvetaṃ devavivāhaṃ vyavahetām |*
+
+(Ai. Brā. 19-5, as read) (Gloss, mine and tentative: "These two worlds were together; they went apart. It did not rain, the sun did not burn; the five peoples did not agree. The gods brought the two together; coming together, they made this divine marriage.")
+
+The conjugal relation of Heaven and Earth explained in this passage, and the point that they themselves are the support of the conduct of all the worlds, have been shown earlier.
+
+> य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥
+
+> *ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhuvanāni viśvā |*
+> *tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*
+
+(Ṛ. Saṃ. 11-1[?]0-9, as printed) (Gloss, mine and tentative: "He who adorned with forms these two parents, Heaven and Earth, and all the worlds — that god Tvaṣṭṛ, O Hotṛ, impelled, best at sacrificing, knowing, worship here today.")
+
+There Heaven and Earth are described as the mother and father of the whole universe. The meaning is that they are the begetters of the whole world of gods, men and the rest. Likewise,
+
+> उपहूते द्यावापृथिवी पूर्वजे ऋतावरी देवी देवपुत्रे इति ।
+
+> *upahūte dyāvāpṛthivī pūrvaje ṛtāvarī devī devaputre iti |*
+
+(Śa. Brā. 1-8-1-29) (Gloss, mine and tentative: "Invoked are Heaven and Earth, the first-born, the righteous, the goddesses having gods as sons.")
+
+In such Brāhmaṇa sentences too the epithet **देवपुत्रे (*devaputre*)** applied to Heaven and Earth is established. The present ṛk also shows the same point. And the description of their greatness — "Heaven and Earth are the mother and father who are the support and the protectors of the whole universe" — is *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 73 (PDF 91). Sūkta 185 Ṛk 4 (atapyamāne avasāvantī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics in progress (devaputre; sentence runs over to p. 74); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 74 / PDF 92. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed.
