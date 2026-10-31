@@ -7830,13 +7830,13 @@ This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to ou
 
 > *ūrdhvo vāṃ gātur adhvare akāry ūrdhvā śocīṃṣi prasthitā rajāṃsi | divo vā nābhā nyasādi hotā stṛṇīmahi devavyacā vi barhiḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-4-4 [?]) — in such ṛks it means "path"; and
+(Ṛ. Saṃ. 3-4-4) — in such ṛks it means "path"; and
 
 > अर्यमा णो अदितिर्यज्ञियासोऽदब्धानि वरुणस्य व्रतानि । युयोत नो अनपत्यानि गन्तोः प्रजावान्नः पशुमाँ अस्तु गातुः ॥
 
 > *aryamā ṇo aditir yajñiyāso 'dabdhāni varuṇasya vratāni | yuyota no anapatyāni gantoḥ prajāvān naḥ paśumāṃ astu gātuḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-54-18 [?]) — and in other such places *gātu* is taken as "a house of praisers (*stuvantīndrādīn ity gātugṛham*)", the house of those who praise Indra and the other deities; and —
+(Ṛ. Saṃ. 3-54-18) — and in other such places *gātu* is taken as "a house of praisers (*stuvantīndrādīn ity gātugṛham*)", the house of those who praise Indra and the other deities; and —
 
 ---
 
