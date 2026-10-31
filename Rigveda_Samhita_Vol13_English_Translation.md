@@ -9592,7 +9592,7 @@ The qualities of the Soma juice are described: ***matsaraḥ*** — the means of
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
 - ***matsi*** — root *mada tṛptiyoge*; *laṭ*, second person singular, *sip*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; by "*khari ca*" (no sūtra number is printed here) *carva* for the *d* (*da* becomes *t*); because it is in *pādādi* position, no *nighāta*; *sip* being *pit*, it is *anudātta*, so the root accent remains.
-- ***apāyi*** — root *pā pāne*; by "*āśaṃsāyāṃ bhūtavac ca*" (Pā. Sū. 3-3-132) the past-tense suffix *luṅ*; (in the passive) third person singular, the suffix *ta*; by "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66 [?]) *ciṇ* for *cli*; by "*āto yuk ciṇkṛtoḥ*" (Pā. Sū. 7-3-33 [?]) the root takes the augment *yuk*; by "*ciṇo luk*" (Pā. Sū. 6-4-104 [?]) the dropping of the *ta*; the augment *a* for the limb (*aṅga*); since it is in the first member, because of *tiṅanta* standing, no *nighāta*; since the augment is *udātta*, the first syllable is *udātta*.
+- ***apāyi*** — root *pā pāne*; by "*āśaṃsāyāṃ bhūtavac ca*" (Pā. Sū. 3-3-132) the past-tense suffix *luṅ*; (in the passive) third person singular, the suffix *ta*; by "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66) *ciṇ* for *cli*; by "*āto yuk ciṇkṛtoḥ*" (Pā. Sū. 7-3-33) the root takes the augment *yuk*; by "*ciṇo luk*" (Pā. Sū. 6-4-104) the dropping of the *ta*; the augment *a* for the limb (*aṅga*); since it is in the first member, because of *tiṅanta* standing, no *nighāta*; since the augment is *udātta*, the first syllable is *udātta*.
 - ***pātrasya iva*** — by the statement "*supāṃ suluk*"… "*supo bhavanti*" the genitive is used in the sense of the instrumental.
 - ***matsaraḥ*** — root *madī harṣe*; by "*kṛdhūmadibhyaḥ kit*" (Uṇ. Sū. 3-353) the suffix *sara*; by "*khari ca*" the *d* becomes *t*; by "*cit*" carried on from the previous sūtra, the end syllable is *udātta*.
 - ***madaḥ*** — for the same root, by "*bahulagrahaṇa*" (in the sense of the agent) *ap* by "*madoʼnupasarge*" (Pā. Sū. 3-3-67); being *pit*, it is *anudātta*.
@@ -9698,7 +9698,7 @@ From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyav�
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 175".)*
 
-- ***pṛtanāṣāṭ*** — root *saha marṣaṇe*; by "*chandasi sahaḥ*" (Pā. Sū. 3-2-63 [?]) the suffix *ṇvi*; by "*ate upadhāyāḥ*" (Pā. Sū. 7-2-116 [?]) *vṛddhi* of the penultimate; by "*sahes sāḍaḥ saḥ*" (Pā. Sū. 8-3-56 [?]) at the end of the word the *s* of the root becomes *ṣ*; the *kṛdutta* final member keeps its natural accent. ‖ 2 ‖
+- ***pṛtanāṣāṭ*** — root *saha marṣaṇe*; by "*chandasi sahaḥ*" (Pā. Sū. 3-2-63 [?]) the suffix *ṇvi*; by "*ate upadhāyāḥ*" (Pā. Sū. 7-2-116) *vṛddhi* of the penultimate; by "*sahes sāḍaḥ saḥ*" (Pā. Sū. 8-3-56) at the end of the word the *s* of the root becomes *ṣ*; the *kṛdutta* final member keeps its natural accent. ‖ 2 ‖
 
 ---
 
@@ -9892,7 +9892,7 @@ The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used fo
 
 > *samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ | ṛtasya padaṃ kavayo ni pānti guhā nāmāni dadhire parāṇi ‖*
 
-(Ṛ. Saṃ. 10-5-2 [?]).
+(Ṛ. Saṃ. 10-5-2).
 
 ---
 
