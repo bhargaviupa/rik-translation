@@ -70,5 +70,13 @@
   "old": "मुखत्स्त्रिवृतं; रथन्तरं साम",
   "new": "मुखतस्त्रिवृतं; रथन्तरग्ंसाम (as printed ರಥಂತರಗ್ಂಸಾಮ)",
   "note": "220dpi: rest of the Taittirīya quote through 'madhyatas-' (page end) agrees with file; remainder is on p.286 (not viewed). Reference number on this page not present (quote has none printed here)."
+ },
+ {
+  "pdf": 306,
+  "printed": 286,
+  "status": "resolved",
+  "old": "एकविग्ं शं; Tai.Saṃ. 6-1-1-4,5 [?]; Ath.Ve. 9-1-… [?]; अभ्यजयन्त्सेभ्यः; प्रातःसवनादनुदत; Ai.Brā. 13-6 [?] (twice)",
+  "new": "एकविग्ंशं; 6-1-1-4, 5; Ath.Ve. 9-1-2; अभ्यजयंस्तेभ्यः; प्रातस्सवनादनुदत; Ai.Brā. 13-6",
+  "note": "210dpi page view: quotes and refs legible. Nirukta refs 2-10, 2-17 listed in the doubt note are not on this part of the page / not viewed. Atharva last digit read as 2."
  }
 ]

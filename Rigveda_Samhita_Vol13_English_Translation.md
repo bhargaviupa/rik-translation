@@ -7193,29 +7193,29 @@ The meaning of the word *savana* is very profound. It should reflect the truths 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
 
-> तस्माद्भूयांसोऽन्येभ्यो भूयिष्ठा हि देवता अन्वसृज्यन्त पत्त एकविग्ं शं निरमिमीत ॥
+> तस्माद्भूयांसोऽन्येभ्यो भूयिष्ठा हि देवता अन्वसृज्यन्त पत्त एकविग्ंशं निरमिमीत ॥
 
 > *tasmād bhūyāṃso 'nyebhyo bhūyiṣṭhā hi devatā anvasṛjyanta pat ta ekaviṃśaṃ niramimīta ‖* [as read: [?]]
 
-(Tai. Saṃ. 6-1-1-4, 5 [?]).
+(Tai. Saṃ. 6-1-1-4, 5).
 
 [Gist:] In the beginning Prajāpati, the eldest, performing sacrifice, desired creation; from his mouth he fashioned the *trivṛt* stoma, whence Agni among deities, the Gāyatrī among metres, the Rathantara among Sāmans, the Brāhmaṇa among men and the goat among animals were born. From his arms he fashioned the fifteen-fold (*pañcadaśa*) stoma, whence Indra, the Triṣṭubh, the Bṛhat Sāman, the Rājanya and the sheep. From the middle he fashioned the seventeen-fold stoma, whence the Viśve Devāḥ, the Jagatī, the Vairūpa Sāman, the Vaiśya and cows. From the "feet" the twenty-one-fold stoma.
 
 At the beginning, since Prajāpati performed the sacrifice first, he is the eldest. Wishing to carry out creation, he fashioned from his mouth the *trivṛt* stoma. By it were born, among the deities, Agni; among metres the Gāyatrī; among Sāmans the Rathantara; among men the Brāhmaṇa; and among animals the goat. When, from the arms, he fashioned the fifteen-fold stoma, were born among the deities Indra; among metres the Triṣṭubh; among Sāmans the Bṛhat; among men the Rājanya; and among animals the sheep. When, from the middle part, he fashioned the seventeen-fold stoma, were born among the deities the Viśve-devāḥ; among metres the Jagatī; among Sāmans the Vairūpa; among men the Vaiśya; and among animals the cow.
 
-Following this order, in the Soma sacrifice the offering of the morning pressing (*prātaḥsavana*) is addressed to Agni, that of the midday pressing to Indra, and that of the third pressing to the Viśve-devāḥ. As is said in the Atharvaveda, the morning pressing belongs to the Aśvin deities, the midday pressing to Indra and Agni, and the third pressing to the Ṛbhus (Ath. Ve. 9-1-… [?]). According to the Aitareya Brāhmaṇa, the third pressing belongs to the Ṛbhus; it is called "Ārbhava Pavamāna". But there is a story about what claim the Ṛbhus have to a share in the oblations along with the deities in the sacrifice. The Aitareya Brāhmaṇa narrates it thus:
+Following this order, in the Soma sacrifice the offering of the morning pressing (*prātaḥsavana*) is addressed to Agni, that of the midday pressing to Indra, and that of the third pressing to the Viśve-devāḥ. As is said in the Atharvaveda, the morning pressing belongs to the Aśvin deities, the midday pressing to Indra and Agni, and the third pressing to the Ṛbhus (Ath. Ve. 9-1-2). According to the Aitareya Brāhmaṇa, the third pressing belongs to the Ṛbhus; it is called "Ārbhava Pavamāna". But there is a story about what claim the Ṛbhus have to a share in the oblations along with the deities in the sacrifice. The Aitareya Brāhmaṇa narrates it thus:
 
-> ऋभवो वै देवेषु तपसा सोममपीथमभ्यजयन्त्सेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातःसवनादनुदत ।
+> ऋभवो वै देवेषु तपसा सोममपीथमभ्यजयंस्तेभ्यः प्रातःसवने वाचि कल्पयिषंस्तानग्निर्वसुभिः प्रातस्सवनादनुदत ।
 
-> *ṛbhavo vai deveṣu tapasā somam apītham abhyajayan tebhyaḥ prātaḥsavane vāci kalpayiṣaṃs tān agnir vasubhiḥ prātaḥsavanād anudata |* [as read: [?]]
+> *ṛbhavo vai deveṣu tapasā somam apītham abhyajayaṃs tebhyaḥ prātaḥsavane vāci kalpayiṣaṃs tān agnir vasubhiḥ prātassavanād anudata |* [as read: [?]]
 
-(Ai. Brā. 13-6 [?]). The Ṛbhus, by their own supernatural power of action, gained the position of the gods. Then, when the gods were ready to include them with themselves at the Soma-drinking, Agni, together with the Vasus, drove them out of (the morning pressing).
+(Ai. Brā. 13-6). The Ṛbhus, by their own supernatural power of action, gained the position of the gods. Then, when the gods were ready to include them with themselves at the Soma-drinking, Agni, together with the Vasus, drove them out of (the morning pressing).
 
 > तेभ्यो माध्यन्दिने सवने वाचि कल्पयिषंस्तानिन्द्रो रुद्रैर्माध्यन्दिनात्सवनादनुदत ।
 
 > *tebhyo mādhyandine savane vāci kalpayiṣaṃs tān indro rudrair mādhyandinātsavanād anudata |* [as read: [?]]
 
-(Ai. Brā. 13-6 [?]). Then, when the gods again prepared a place for them at the midday pressing, Indra, together with the Rudras, drove them out of the midday pressing.
+(Ai. Brā. 13-6). Then, when the gods again prepared a place for them at the midday pressing, Indra, together with the Rudras, drove them out of the midday pressing.
 
 ---
 
