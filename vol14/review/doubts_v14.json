@@ -310,5 +310,89 @@
   ],
   "note": "UNDECIDED: printed लुब्धकानयष्ट्वान् (ಯಷ್ಟ್ವಾನ್) vs bhāṣya अयष्टॄन्; kept as printed [?]",
   "answer": ""
+ },
+ {
+  "pdf": 39,
+  "printed": 21,
+  "crop": [
+   0.273,
+   0.287,
+   0.646,
+   0.759
+  ],
+  "note": "ZOOMED, read: box missed the target (showed line 'ಇತ್ಯರ್ಥಃ । ಇಲ್ಲಿ ದ್ವಿ'); re-zoomed below",
+  "answer": ""
+ },
+ {
+  "pdf": 39,
+  "printed": 21,
+  "crop": [
+   0.358,
+   0.387,
+   0.619,
+   0.77
+  ],
+  "note": "UNDECIDED: ref of भूरि चकर्थ… read 1-165-7[?]; last digit 7 or 2 (looped foot)",
+  "answer": ""
+ },
+ {
+  "pdf": 39,
+  "printed": 21,
+  "crop": [
+   0.52,
+   0.545,
+   0.4,
+   0.62
+  ],
+  "note": "UNDECIDED: 6-47-13 line 2 initial vowel of अराच्चिद्द्वेषः (ಅ read; ಆ?) [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 41,
+  "printed": 23,
+  "crop": [
+   0.8,
+   0.83,
+   0.05,
+   0.65
+  ],
+  "note": "UNDECIDED: bhāṣya आजिधावनायेषुवच्छीघ्रमृजुगामिनौ [?] (ಚ್ಛೀಘ್ರ/ಮೃಜು unclear)",
+  "answer": ""
+ },
+ {
+  "pdf": 41,
+  "printed": 23,
+  "crop": [
+   0.6,
+   0.63,
+   0.4,
+   0.75
+  ],
+  "note": "UNDECIDED: ref आ वां पतित्वं सख्याय read 1-119-5 (last glyph like header's ೫) [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 40,
+  "printed": 22,
+  "crop": [
+   0.24,
+   0.28,
+   0.3,
+   0.7
+  ],
+  "note": "UNDECIDED: grammar sūtra number for anudāttopadeśa… read 6-4-37[?] (small type)",
+  "answer": ""
+ },
+ {
+  "pdf": 40,
+  "printed": 22,
+  "crop": [
+   0.62,
+   0.66,
+   0.2,
+   0.75
+  ],
+  "note": "UNDECIDED: grammar sūtra number for nāmanyatarasyām read 6-1-177[?] (small type)",
+  "answer": ""
  }
 ]
