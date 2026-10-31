@@ -8677,11 +8677,11 @@ Bear, Indra, with your obedient horses as swift as the wind, (the sage) Kutsa, t
 
 Two points should be noted in this mantra. First: Indra goes mounted on his horses to help Kutsa; and in this context the sun-disc shines and helps Indra to be stronger. Among these, an examination of the matter of Kutsa shows that in some contexts Kutsa is a friend of Indra and is helped by Indra, while in some others he is at odds with Indra.
 
-> तत्र कुत्स इत्येतत् कृन्ततेः । ऋषिः कुत्सो भवति कर्ता स्तोमानाम् इत्यौपमन्यवः । तत्सखा इन्द्रः शुष्णं जघान इति ॥
+> तत्र कुत्स इत्येतत् कृन्ततेः । ऋषिः कुत्सो भवति कर्ता स्तोमानाम् इत्यौपमन्यवः । तत्सख इन्द्रः शुष्णं जघान इति ॥
 
-> *tatra kutsa ity etat kṛntateḥ | ṛṣiḥ kutso bhavati kartā stomānām ity aupamanyavaḥ | tatsakhā indraḥ śuṣṇaṃ jaghāna iti ‖* [as read: [?]]
+> *tatra kutsa ity etat kṛntateḥ | ṛṣiḥ kutso bhavati kartā stomānām ity aupamanyavaḥ | tatsakha indraḥ śuṣṇaṃ jaghāna iti ‖* [as read: [?]]
 
-(Ni. 3-11 [?]) — from this explanation the Nirukta-writers say that Kutsa is a friend of Indra.
+(Ni. 3-11) — from this explanation the Nirukta-writers say that Kutsa is a friend of Indra.
 
 In some contexts there is also room for the conjecture that Kutsa might be Indra's son. For example, the epithet *ārjuneya* ("son of Arjunī") for Kutsa occurs in many places; and in all places where it is said that Indra helped Kutsa Ārjuneya, the sun also is said to have helped Indra. In such contexts it is made quite clear that Kutsa was a friend of Indra; it must be understood what the epithet *ārjuneya* means in such contexts.
 
@@ -8695,19 +8695,19 @@ In some contexts there is also room for the conjecture that Kutsa might be Indra
 
 > *ahaṃ manur abhavaṃ sūryaś cāhaṃ kakṣīvāṃ ṛṣir asmi vipraḥ | ahaṃ kutsam ārjuneyaṃ nyṛṃje 'haṃ kavir uśanā paśyatā mā ‖*
 
-(Ṛ. Saṃ. 4-26-1 [?]);
+(Ṛ. Saṃ. 4-26-1);
 
 > त्वं ह त्यदिन्द्र कुत्समावः शुश्रूषमाणस्तन्वा समर्ये । दासं यच्छुष्णं कुयवं न्यस्मा अरन्धय आर्जुनेयाय शिक्षन् ॥
 
 > *tvaṃ ha tyad indra kutsam āvaḥ śuśrūṣamāṇas tanvā samarye | dāsaṃ yac chuṣṇaṃ kuyavaṃ ny asmā arandhaya ārjuneyāya śikṣan ‖*
 
-(Ṛ. Saṃ. 7-19-2 [?]);
+(Ṛ. Saṃ. 7-19-2);
 
 > यत्तुदत्सूर एतशं वङ्के वातस्य पर्णिना । वहत्कुत्समार्जुनेयं शतक्रतुः त्सरद्गन्धर्वमस्तृतम् ॥
 
 > *yat tudat sūra etaśaṃ vaṅke vātasya parṇinā | vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 4-31-11 [?]).
+(Ṛ. Saṃ. 4-31-11).
 
 For words like *ārjuneya* that occur in such ṛks, in some contexts Sāyaṇa has taken *ārjunyāḥ putraṃ kutsam* — "Kutsa, the son of the woman Arjunī" — and in some others, "*arjunaḥ* is the name of Indra; his son (*tasya putram*)": giving the meaning "Kutsa, the son of Arjuna, i.e. Indra". Explaining that the epithet *ārjuneya* is given to Kutsa because he was Indra's son (called Arjuna), the *Vājasaneyi-saṃhitā* mantra says, for those who speak of "Indra's son":
 
@@ -8717,17 +8717,17 @@ For words like *ārjuneya* that occur in such ṛks, in some contexts Sāyaṇa 
 
 — quoted, and it is shown that the name *Arjuna* for Indra is well known in the Śruti and elsewhere. It may also be noted that *arjuna* and *ārjunī* are said, by other Śrutis as well, to have a connection with Indra. For example —
 
-> फल्गुनीष्वग्नी आदधीत । एता वा इन्द्रनक्षत्रं यत्फल्गुन्यो ऽर्जुनस्य प्रतिनाम्न्यो ऽर्जुनो ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुन्यो वै नाम्नैतास्ता एतेकत्परोक्षमाचक्षते फल्गुन्य इति को हेतस्यार्हति गुह्यं नाम … ॥
+> फल्गुनीष्वग्नी आदधीत । एता वा इन्द्रनक्षत्रं यत्फल्गुन्यो ऽर्जुनस्य प्रतिनाम्न्यो ऽर्जुनो ह वै नामेन्द्रो यदस्य गुह्यं नामार्जुन्यो वै नाम्नैतास्ता एतत्परोक्षमाचक्षते फल्गुन्य इति को हेतस्यार्हति गुह्यं नाम … ॥
 
-> *phalgunīṣv agnī ādadhīta | etā vā indranakṣatraṃ yat phalgunyo 'rjunasya pratināmnyo 'rjuno ha vai nāmendro yad asya guhyaṃ nāmārjunyo vai nāmnaitās tā etekat parokṣam ācakṣate phalgunya iti ko hetasyārhati guhyaṃ nāma … ‖* [as read; garbled; dots in the print: [?]]
+> *phalgunīṣv agnī ādadhīta | etā vā indranakṣatraṃ yat phalgunyo 'rjunasya pratināmnyo 'rjuno ha vai nāmendro yad asya guhyaṃ nāmārjunyo vai nāmnaitās tā etat parokṣam ācakṣate phalgunya iti ko hetasyārhati guhyaṃ nāma … ‖* [as read; garbled; dots in the print: [?]]
 
-(Śa. Brā. 2-1-2-11 [?]);
+(Śa. Brā. 2-1-2-11);
 
 > इन्द्रो भवति यच्छ क्षत्रियो यदु च यजनूनस्तस्मादाहारिष्ठोऽर्जुन इति ।
 
 > *indro bhavati yac cha kṣatriyo yad u ca yajanūnas tasmād āhāriṣṭho 'rjuna iti |* [as read: [?]]
 
-(Śa. Brā. 5-4-1-2 [?]).
+(Śa. Brā. 5-4-3-2).
 
 The *Phalgunī* are the lunar mansions of Indra; they are also associated with his name. Indra is named *Arjuna*, and the *Phalgunīs* are also called *Arjunīs*; since this is said in the Śatapatha Brāhmaṇa and in other places, Kutsa may be called by two names, "son of Indra" and "son of Ārjunī".
 
