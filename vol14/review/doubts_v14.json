@@ -11266,5 +11266,197 @@
   ],
   "note": "ZOOMED, read: Ni. 2-24 (printed with trailing hyphen '2-24-')",
   "answer": ""
+ },
+ {
+  "pdf": 263,
+  "printed": 244,
+  "crop": [
+   0.175,
+   0.191,
+   0.701,
+   0.829
+  ],
+  "note": "ZOOMED, read: header Maṃ. 1 A. 24 Sū. 188",
+  "answer": ""
+ },
+ {
+  "pdf": 263,
+  "printed": 244,
+  "crop": [
+   0.236,
+   0.255,
+   0.386,
+   0.469
+  ],
+  "note": "UNDECIDED: Pā. Sū. 6-4-1[?]8 (bahor lopo bhū ca bahoḥ); middle digit 9-like or 5-like, 600 and 1000 dpi (first box a line high)",
+  "answer": ""
+ },
+ {
+  "pdf": 263,
+  "printed": 244,
+  "crop": [
+   0.25,
+   0.269,
+   0.767,
+   0.829
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 4-1-7 as printed for ugitaś ca (last digit same flat-footed glyph as the 7 of 7-1-39; no top hook as in 6); 1000 dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 263,
+  "printed": 244,
+  "crop": [
+   0.292,
+   0.309,
+   0.419,
+   0.502
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 7-1-39 (suptāṃ suluk), 1000 dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 263,
+  "printed": 244,
+  "crop": [
+   0.428,
+   0.461,
+   0.452,
+   0.535
+  ],
+  "note": "ZOOMED, read: Saṃhitā Ṛk number 6",
+  "answer": ""
+ },
+ {
+  "pdf": 264,
+  "printed": 245,
+  "crop": [
+   0.185,
+   0.201,
+   0.183,
+   0.332
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 9",
+  "answer": ""
+ },
+ {
+  "pdf": 264,
+  "printed": 245,
+  "crop": [
+   0.309,
+   0.353,
+   0.349,
+   0.614
+  ],
+  "note": "ZOOMED, read: '16' rūpa-names and Ni. 8-11 (first box a line high and left)",
+  "answer": ""
+ },
+ {
+  "pdf": 264,
+  "printed": 245,
+  "crop": [
+   0.767,
+   0.795,
+   0.183,
+   0.315
+  ],
+  "note": "ZOOMED, read: Ni. 8-11 (second citation)",
+  "answer": ""
+ },
+ {
+  "pdf": 265,
+  "printed": 246,
+  "crop": [
+   0.215,
+   0.243,
+   0.68,
+   0.824
+  ],
+  "note": "ZOOMED, read: Nighaṇṭu ref '2-19' as printed for the uṣo-names (last digit 9-like; 600 and 1000 dpi; first box landed on the rule)",
+  "answer": ""
+ },
+ {
+  "pdf": 265,
+  "printed": 246,
+  "crop": [
+   0.386,
+   0.417,
+   0.664,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-113-1 (three tries; boxes landed high)",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 247,
+  "crop": [
+   0.179,
+   0.195,
+   0.185,
+   0.333
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 9",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 247,
+  "crop": [
+   0.331,
+   0.366,
+   0.218,
+   0.449
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-142-7 (three tries; boxes landed low then high)",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 247,
+  "crop": [
+   0.433,
+   0.463,
+   0.63,
+   0.806
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-14-3 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 247,
+  "crop": [
+   0.597,
+   0.625,
+   0.63,
+   0.806
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-96-5 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 247,
+  "crop": [
+   0.726,
+   0.756,
+   0.564,
+   0.762
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-110-6 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 266,
+  "printed": 247,
+  "crop": [
+   0.705,
+   0.733,
+   0.482,
+   0.696
+  ],
+  "note": "ZOOMED, read: verse 10-110-6 'adhi śriyaṃ sakupiśaṃ dadhāne' as printed (for the expected śukrapiśaṃ)",
+  "answer": ""
  }
 ]

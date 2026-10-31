@@ -8428,4 +8428,225 @@ Not only this: another point to be noted here is that the doors are in the plura
 
 ---
 
-**Progress note:** Done through printed p. 241 (PDF 260; printed = PDF − 19, pp. 236–241 checked, no duplicate or missing page). Sūkta 188 (samiddho adya, Agastya's Āprī sūkta; 11 ṛks, gāyatrī, Varga 8-9): Ṛks 1–4 complete; Ṛk 5 OPEN — Saṃhitā, Pada (p. 238), bhāṣya, Pratipadārtha, Bhāvārtha, printed English (p. 239) written; Special Topics written through p. 241, ending with the Praiṣa quotation Tai. Brā. 3-6-2-2; they continue on p. 242 / PDF 261, then Ṛk 5's grammar note. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md. Flags from p. 206: New (pp. 206–207): p. 206 Pratipadārtha headword 'prīvaḥ' as printed, Ṛ. 1-93-6, 3-48-2, 5-43-4 zoomed; p. 207 header Varga 7, Ṛ. 10-34-1, Vā. Saṃ. 3-61, Ni. 9-8, Ṛ. 8-7-29, 8-64-11, 9-65-22, 23, 9-92-3, 9-63-4, 9-74-9, 9-79-4 zoomed (first boxes a line too high), 'Pastya' and 'somavikrayaṇa' as printed. New (pp. 208–209): p. 208 Ṛ. 1-168-3, 3-48-2, 8-1-17, 4-28-9, 9-50-1, 1-28-7, 3-48-1, 4-16-1, 1-9-1, 1-83-6, 1-135-7, 1-130-2, 1-135-5, 1-137-1, 1-28-9, 4-18-3, 10-94-9, 10-116-4, 7-101-4, 8-20-8, 3-62-15, 9-1-2, 9-17-8, 9-65-6, 9-98-2, 2-14-9, 9-66-9, 9-15-7, 9-33-2, 1-116-24, 1-137-1, 3-32-2, 8-2-10, 1-5-5, 1-30-2, 8-2-9 zoomed (2 vs 7 calibrated at 1000 dpi), camū ref '6-5 7' [?] UNDECIDED (gap, no hyphen), 'Mūjavata' here vs 'Maujavata' p. 206, 'ladle·' [sic]; p. 209 header Varga 7, colour refs 9-33-2, 9-63-4 & 6, 9-3-9, 9-7-6, 9-65-8, 9-40-2, 9-45-3, 9-61-21, 9-97-13, 9-97-9, 9-107-2, dadhyāśiraḥ refs 1-137-2, 5-51-7, 7-32-4, 9-22-3, 9-63-15 zoomed; Bhāga 1 p. 676 cross-reference. NOTE: doubt.py records 'printed' with the old offset (PDF − 18) for PDF ≥ 225; the pdf field is right. New (pp. 210–211): p. 210 Ṛ. 9-101-12, 1-23-1, 1-30-2 (three tries each on strip 0; boxes landed high), 1-137-1, 8-2-9, 8-52-10 zoomed, verse 8-2-9 'puruniḥṣṭhāḥ', 'madhyataḥ āśīrtaḥ' as printed; p. 211 header Varga 7, Ṛ. 8-101-10, 1-187-9, 3-42-7, 8-92-4, 2-22-1, 5-27-5, 3-48-1, U. Sū. 1-52, Pā. 7-2-116, 6-1-186 zoomed; no Varga-close line printed at the end of Ṛk 9. New (pp. 212–215): p. 212 bhāṣya 'udārathirūrdhvagama' (hooked ma) zoomed; p. 213 header Varga 7, Ṛ. 3-52-7, 6-56-1, '6-57 2' (gap, as printed), 10-97-1, Ni. 9-27 zoomed, Kannada gloss 'wheat flour' for yavasaktu as printed; p. 214 Pada 'susūdima' vs Saṃhitā 'suṣūdima' as printed; p. 215 header Varga 7, Pā. '6-1-7' (śeśchandasi bahulam), 3-4-6, '7-2-3-5' (ārdhadhātukasyeḍ valādeḥ), '3-134' (nandigrahapacādibhyaḥ) zoomed (as printed; three tries for the first three), grammar heading printed 'vyākara prakriyā'. New (pp. 216–217): p. 216 header 'Maṃ. . A. 24 Sū. 188' (Maṇḍala numeral not printed), Pā. '6-3-66' as printed (sadhamādasthayoś chandasi; three identical 6-glyphs), 6-2-199, '10' Āprī sūktas (four tries), Ṛ. 7-2, 5-5, 10-70, 2-3, 1-13, 1-142 zoomed, item 'imāṃ me āgne' (ā as printed); p. 217 header Varga 8, 1-142, Ṛ. 1-188, 3-4, 9-5, 10-110, Tai. Saṃ. 6-3-10-3, Ā. 3-2, Kau. Brā. 10-3, Tai. Brā. 2-2-8-6 zoomed, 'gādhino viśvāmitraḥ' and 'tadyadā prīṇāti' as printed. New (pp. 218–219): p. 218 Tā. Brā. 15-8-2, 'ātmānamevettair' (ta-subscript, as printed), Ai. Brā. (2-3), 2-4 (three places; two tries for the last), Ni. 8-4 zoomed; p. 219 Ni. 8-22 ('ṛtavo vai srayājā' and 'prāṇā vai prayājā' as printed), Ṛ. 10-51-9, Śa. Brā. 1-3-2-9, 1-3-2-8, Kau. Brā. 3-4, Ai. Brā. 1-11, Śa. Brā. 11-2-7-27, Tai. Saṃ. 6-1-5-4, 1-142 zoomed. New (pp. 220–221): p. 220 Bṛ. De. 2-146 to 151 zoomed, verses 'stritīyāyāṃ', 'devyāviti', 'navamyāvyṛci saṃstutāḥ', 'daśyaitānītarāṇi' as printed (zoomed; two tries), Ni. 8-22 zoomed, 'Tanūpāt' in the Kannada as printed; p. 221 Bṛ. De. 2-152 to 157 (last digit flat-footed, 1000 dpi), 'atraiva … syānnayajuṣvādriyeta' zoomed, table row 3 'nṛśastraṃ nyāḥ [?] praṇetraṃ' UNDECIDED. New (pp. 222–223): p. 222 table row 7 'kṛṇavānte [?]' (subscript unclear) UNDECIDED, '1-13' (faint) zoomed, Max Muller ASL p. 246-7 'families·' [sic]; p. 223 header Varga 8, refs 1-13-8, 1-188-6, 1-142-8, 3-4-8, 5-5-6, 9-5-8; 5-5-2, 3-4-5; 1-13-2, 6-2-6, 10-110-8 (two tries); 1-142-3, 3-4-2, 10-110-1; Ṛ. Saṃ. 3-4-1 zoomed. New (pp. 224–226): p. 224 Ṛ. Saṃ. 7-2-1 (verse 'dhūmamṛṇvan', 'stūpaiḥ'), 1-142-1, metre lists (gāyatrī 1-13, 1-188, 5-5, 9-5; anuṣṭubh 1-142; triṣṭubh 2-3, 3-4, 7-2, 10-70) zoomed, refs 7-2-1 and 3-4-1 in the prose read from the strip; p. 225 header Varga 8, sūkta block Varga 8-9, devatā list ('idhmaḥ' with broken visarga, 'sāhākṛtayaḥ' as printed), bhāṣya Ni. 8-22 and 'samiddha āpriya' (no visarga) zoomed; Kannada (Ni. 8-22) read from the strip (zoom missed); p. 226 Ṛk 1 bhāṣya 'devo 'ta dīpyamānaḥ' as printed, 'samiddhairvā' zoomed, printed English 'oblation·' [sic]. New (pp. 227–228): p. 227 header Varga 8, 'agni dūtaṃ' (no anusvara) as printed, Ṛ. 1-12-1, 1-12-2, 1-12-6, Ni. 12-13 zoomed (three tries for the last); p. 228 header 'Maṃ. . A. 24' (Maṇḍala numeral not printed), Bṛ. De. 2-188 (two tries), Tai. Brā. 3-6-2-1, 'nābhā prathivyāḥ' as printed, Ṛ. 3-4-1; 7-2-1; 10-70-1, 1-13-1, 1-142-1, 3-4-1, 10-110-1, Ni. 8-5, (8-5), 8-22 zoomed, Ni. 8-5 (first) read from the strip, 'yajñedhma' with stray mark and Sarvānukramaṇī 'susamiddha itīdhma' as printed. New (p. 229): header Varga 8, Ai. Brā. 2-4 (three tries), Pā. Sū. 3-2-76, 6-1-71, 6-2-139 zoomed, U. Sū. 3-370 as read for dutanibhyāṃ dīrghaśca (zoomed at 1000 dpi; third digit flat-footed), Ṛk 2 bhāṣya 'adbhya oṣadhayaḥ' (visarga) as printed. New (p. 230): header Sū. 188, Ṛ. Saṃ. 7-21-5, Ni. 4-19 (two tries) zoomed; Special Topics 'adbhyaḥ' (visarga) vs bhāṣya p. 229 'adbhya'; printed English 'food·' [sic]. New (pp. 231–232): p. 231 header Varga 8, Ni. 8-5, Bṛ. De. 3-1 zoomed, Bṛ. De. '2-26 [?] to 27' UNDECIDED-ish (first digit of '26' drawn like the flat-footed 7 elsewhere; zoomed at 600 and 1000 dpi), 'kṛpaṇyavaḥ', 'napādamuṣya', 'yacchatvasau tanuṃ' as printed; p. 232 Pā. Sū. 6-4-81, 6-1-173 (two tries), 3-1-67 (three tries, 1000 dpi), 6-1-189 (two tries) zoomed, 'pṛṣādi' and 'aniditāṃ hala upadhā—' as printed. New (pp. 233–234): p. 233 header Varga 8, Ṛ. 1-12-3, Ni. 8-8 (three tries), Ṛ. 10-110-3 (three tries) zoomed, 'īḷa īṭṭeḥ stutikarmaṇaḥ' as printed (three tries, read with the strip), bhāṣya 'iḷnāmakastvaṃ', 'devānā vakṣi' as printed, printed English 'for you are for the donor of thousands·' [sic]; p. 234 Ṛ. 3-4-3, Tai. Brā. 3-6-2-1, Ai. Brā. 2-4, Bṛ. De. 3-4 zoomed, 'agnimiḍa', 'iḷestvṛṣikṛtaṃ', 'vokto' as printed. New (p. 235): Ṛ. Saṃ. 4-2-5, Pā. Sū. 6-1-189 (two tries), 6-1-213, 5-1-71, 7-1-2, 6-4-42 zoomed; 'fourth place in the sūkta' for īḍ as printed; sūtras 'āyaneyīnī—', 'janasanakhanāṃ—' printed only begun. New (pp. 236–239): p. 236 printed English ends without full stop; p. 237 header Varga 8, Ṛ. Saṃ. 1-188-4, 9-5-4 (three tries), Tai. Brā. 3-6-2-1, Ai. Brā. 2-4, Ni. 8-8 (two tries) zoomed, praiṣa 'suṣṭarīnorṇaṃmradā' (na), 'vicapraca', 'prathatāgṃ', 'emonadadya' as printed (zoomed); p. 238 Bṛ. De. 3-5, Pā. Sū. 6-4-112, 4-1-85, 7-2-117, 6-4-148 zoomed (zoom boxes landed high and left; three tries for three), Pada 'saṃ'rāṭ' (anusvara) as printed; p. 239 header Varga 8, printed English 'hall of sacrifice' (faint) zoomed, ends 'numerous-'; Ni. 8-10 read from the strip. New (pp. 240–241): p. 240 header printed 'A. 23' (not 24; zoomed), Ṛ. Saṃ. 3-4-5, 1-13-6 zoomed, verse 'abhīimaṃ' as printed (zoomed), English 'Agni·' [sic]; p. 241 header Varga 8, refs 5-5-5, 3-4-5, Ṛ. Saṃ. 10-110-1, 7-2-5, 1-188-5, Tai. Brā. 3-6-2-2 zoomed (boxes landed high on strip 0 and low on strip 1; up to three tries), verses 'samiddho asya' (for adya), 'svādhyo3', 'virāṭsaṃmrāḍvibhrīḥ' (ra-subscript) as printed (zoomed), 'pra pra yajñaṃ praṇīta na' as printed (read from the strip), 'Grassman' and 'Literature· p· 245)·' as printed.
+### Printed p. 242 (PDF 261)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188". Ṛk 5, Special Topics continued.)*
+
+— what is said in these sentences the Bhāṣyakāra has explained as दुरो द्वारसंज्ञकाः पंचमप्रयाजदेवतास्तद्रूपमग्निं दैव्यो होता यजतु (*duro dvārasaṃjñakāḥ paṃcamaprayājadevatāstadrūpamagniṃ daivyo hotā yajatu*) ("the Durs, called the doors, deities of the fifth prayāja: may the divine Hotṛ worship Agni in their form"). In these sentences the words आताभिः उज्जिहतां (*ātābhiḥ ujjihatāṃ*) are the important ones. This somewhat opposes the view above. From this it is one view that the doors being the doors of the sacrificial house may be called figurative. In the Aitareya Brāhmaṇa,
+
+> दुरो यजति वृष्टिर्वै दुरो वृष्टिमेव तत्प्रीणाति वृष्टिमन्नाद्यं यजमाने दधाति ।
+
+> *duro yajati vṛṣṭirvai duro vṛṣṭimeva tatprīṇāti vṛṣṭimannādyaṃ yajamāne dadhāti |*
+
+(Ai. Brā. 2-4) *(zoomed)*
+
+— so, instead of the meaning "door", the meaning "rain" has been given ("he worships the Durs; the Durs are rain; so he pleases rain, and places rain and food in the sacrificer"). How this meaning comes about has not been made clear. The Niruktakāra,
+
+द्वारो जवतेर्वा द्रवतेर्वा वारयतेर्वा । (*dvāro javatervā dravatervā vārayatervā |*) — has said that it is formed either from the root जु (*ju*), meaning "to push forward", or from the root द्रु (*dru*), meaning "to run forward", or from the root वृ (*vṛ*), meaning "to keep apart"; and,
+
+> व्यचस्वतीरुर्विया वि श्रयंतां पतिभ्यो न जनयः शुंभमानाः ।
+> देवीर्द्वारो बृहतीर्विश्वमिन्वा देवेभ्यो भवत सुप्रायणाः ।
+
+> *vyacasvatīrurviyā vi śrayaṃtāṃ patibhyo na janayaḥ śuṃbhamānāḥ |*
+> *devīrdvāro bṛhatīrviśvaminvā devebhyo bhavata suprāyaṇāḥ |*
+
+(Ṛ. Saṃ. 10-110-5) *(zoomed)*
+
+— citing this ṛk and explaining the meaning of the word द्वार (*dvāra*), गृहद्वार इति कात्थक्यः । (*gṛhadvāra iti kātthakyaḥ |*) — according to the view of Kātthakya, house-doors; अग्निरिति शाकपूणिः । (*agniriti śākapūṇiḥ |*) — according to the view of Śākapūṇi, Agni: so they have set out the difference of opinion too (Ni. 8-10) *(zoomed)*. In the Bṛhaddevatā,
+
+> द्वारस्तु देव्यो याः प्रोक्ता विश्वेषां तास्तु पत्नयः ।
+> अग्नायीमनुवर्तंते तथाग्नाय्यग्निमेव च ॥
+> अग्नौ ध्रुवं स्थितास्तास्तु संस्तूयंतेऽग्निना सह ।
+> प्राधान्यं तासु चैवाग्नेः स्तुतिष्वेव हविष्षु च ॥
+
+> *dvārastu devyo yāḥ proktā viśveṣāṃ tāstu patnayaḥ |*
+> *agnāyīmanuvartaṃte tathāgnāyyagnimeva ca ‖*
+> *agnau dhruvaṃ sthitāstāstu saṃstūyaṃte 'gninā saha |*
+> *prādhānyaṃ tāsu caivāgneḥ stutiṣveva haviṣṣu ca ‖*
+
+(Bṛ. De. 3-6 to 7) *(zoomed)*
+
+— it is said that these doors are the wives of the gods; that they follow Agnāyī, who follows Agni; and that, being firmly settled in Agni himself, they are praised together with Agni. This explanation is reasonable.
+
+On consecrating the four doors of the sacrificial house, the Taittirīya Saṃhitā describes it thus —
+
+---
+
+### Printed p. 243 (PDF 262)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 8" (zoomed). Ṛk 5, Special Topics concluded; Vyākaraṇa-prakriyā begins.)*
+
+> प्राचीनवग्ंशं करोति देवमनुष्या दिशो व्यभजंत प्राचीं देवा दक्षिणा पितरः प्रतीचीं मनुष्या उदीचीग्ं रुद्राः ॥
+
+> *prācīnavagṃśaṃ karoti devamanuṣyā diśo vyabhajaṃta prācīṃ devā dakṣiṇā pitaraḥ pratīcīṃ manuṣyā udīcīgṃ rudrāḥ ‖*
+
+(Tai. Saṃ. 6-1-1-1) *(zoomed; two tries)*
+
+— that is, it says that the gods took the eastern door of the sacrificial house, the Pitṛ-deities the southern door, men the western door and the (eleven) Rudras the northern door, dividing them among themselves.
+
+The names of the doors of this sacrificial house, as stated in this ṛk, are as follows. विराट् (*virāṭ*) may be said to be the eastern door, सम्राट् (*samrāṭ*) the southern door, विभ्वीः (*vibhvīḥ*) the western door and प्रभ्वीः (*prabhvīḥ*) the northern door. Sāyaṇa has explained the etymological meanings of these words.
+
+**विराट् (*virāṭ*)** — विशेषेण राजंत इति । व्यत्ययेनैकवचनं । (*viśeṣeṇa rājaṃta iti | vyatyayenaikavacanaṃ |*) Because it shines in a special manner, this door (the eastern door) has the name विराट् (*virāṭ*). The singular is used as a Vedic usage.
+
+**सम्राट् (*samrāṭ*)** — सम्यगिति पूज्यतरं राजमानाः । अत्रापि व्यत्ययेनैकवचनं । (*samyagiti pūjyataraṃ rājamānāḥ | atrāpi vyatyayenaikavacanaṃ |*) Because it is well made, this door is worthy of honour and shining. Here too the singular is used for the reason stated above.
+
+**विभ्वीः (*vibhvīḥ*)** — विभ्व्यः विविधं भवित्र्यः । (*vibhvyaḥ vividhaṃ bhavitryaḥ |*) Being in various ways, that is, the meaning is doors that are decorated.
+
+**प्रभ्वीः (*prabhvīḥ*)** — प्रकर्षेण भवित्र्यः । (*prakarṣeṇa bhavitryaḥ |*) The meaning is doors that are very well decorated.
+
+**बह्वीश्च भूयसीश्च (*bahvīśca bhūyasīśca*)** — लोकप्रसिद्धसंख्याभिश्च भूयस्यश्च । (*lokaprasiddhasaṃkhyābhiśca bhūyasyaśca |*) That is, the four doors in the four directions, as is well known in the world. From the word भूयसीश्च (*bhūyasīśca*) it becomes clear that, because these doors are large, they are well known as great doors.
+
+**घृतानि (*ghṛtāni*)** — since the word घृत (*ghṛta*) is read among the hundred-and-one names of water beginning with अर्णः क्षोदः (*arṇaḥ kṣodaḥ*) (Ni. 2-24-) *(zoomed; so printed, with a trailing hyphen)*, here घृतानि (*ghṛtāni*) means waters.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** विराट् (*virāṭ*) — विशेषेण राजंते इति विराजः (*viśeṣeṇa rājaṃte iti virājaḥ*); root राजृ दीप्तौ (*rājṛ dīptau*), suffix *kvip*; by व्यत्ययो बहुलम् (*vyatyayo bahulam*) a singular ending for the plural; at the end of the word *ṣa* for the root's *ja* by व्रश्चभृस्ज— (*vraścabhṛsja—*) *(as printed, the sūtra only begun)*; by the sūtra गतिकारकोपपदात्कृत् (*gatikārakopapadātkṛt*) the final member, a kṛt-formation, keeps its own accent. In सम्राट् (*samrāṭ*) likewise the singular comes by vyatyaya. *(No sūtra numbers printed on this page.)*
+
+---
+
+### Printed p. 244 (PDF 263)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188" (zoomed). Ṛk 5: Vyākaraṇa-prakriyā concluded; end of Ṛk 5; Ṛk 6 begins.)*
+
+*(Vyākaraṇa-prakriyā of Ṛk 5, continued.)* भूयसीः (*bhūyasīḥ*) — the suffix ईयसुन् (*īyasun*) after the word बहु (*bahu*) in the sense of excess; by बहोर्लोपो भू च बहोः (*bahorlopo bhū ca bahoḥ*) (Pā. Sū. 6-4-1[?]8) *(zoomed at 600 and 1000 dpi; the middle digit is undecided)* elision of the *ī* of ईयसु (*īyasu*) after बहु (*bahu*), and भू (*bhū*) substituted for बहु (*bahu*); when the feminine is intended, ङीप् (*ṅīp*) by उगितश्च (*ugitaśca*) (Pā. Sū. 4-1-7) *(so printed; zoomed at 1000 dpi — the last digit is the same flat-footed glyph as the 7 of 7-1-39 below)*; since ईयसुन् (*īyasun*) is *nit*, initial udātta. With the nominative plural जस् (*jas*) following, by सुपांसुलुक्— (*supāṃsuluk—*) (Pā. Sū. 7-1-39) *(zoomed)* lengthening into the preceding homogeneous vowel. अक्षरन् (*akṣaran*) — root क्षर संचलने (*kṣara saṃcalane*); by छंदसि लुङ्— (*chaṃdasi luṅ—*) *laṅ* in the sense of the present; the form ending in the *uttama-puruṣa* plural *(so printed)*; the accent is the nighāta of a finite verb.
+
+*(Rule — end of Ṛk 5.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥** *(Ṛk numeral zoomed.)*
+
+> सुरुक्मे हि सुपेशसाधि श्रिया विराजतः ।
+> उषासावेह सीदतां ॥ ६ ॥
+
+> *surukme hi supeśasādhi śriyā virājataḥ |*
+> *uṣāsāveha sīdatāṃ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> सुरुक्मे इति सुऽरुक्मे । हि । सुऽपेशसा । अधि । श्रिया । विऽराजतः ।
+> उषसौ । आ । इह । सीदतां ॥ ६ ॥
+
+> *surukme iti su 'rukme | hi | su 'peśasā | adhi | śriyā | vi 'rājataḥ |*
+> *uṣasau | ā | iha | sīdatāṃ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* the deities of Day and Night, of fair ornament and form, shine greatly with beauty; "uṣas" stands for night as well as day (by implication); may both come and sit here today.
+
+> सुरुक्मे शोभनदीप्त्याभरणे प्रसिद्धे सुपेशसा शोभनरूपे ईदृश्यावहोरात्रदेवते अध्यधिकं श्रिया सौंदर्येण विराजतः । विशेषेण दीप्येते ॥ हियोगादनिघातः ॥ तादृश्यावुषसौ । एतद्रात्रेरप्युपलक्षणं । उषःशब्दो दिवसस्योपलक्षकः । रात्रिरुषाश्चोभे इहास्मिन्दिन आ सीदतां । आगत्य तिष्ठतां । आगच्छतां वा ॥
+
+> *surukme śobhanadīptyābharaṇe prasiddhe supeśasā śobhanarūpe īdṛśyāvahorātradevate adhyadhikaṃ śriyā sauṃdaryeṇa virājataḥ | viśeṣeṇa dīpyete ‖ hiyogādanighātaḥ ‖ tādṛśyāvuṣasau | etadrātrerapyupalakṣaṇaṃ | uṣaḥśabdo divasasyopalakṣakaḥ | rātriruṣāścobhe ihāsmindina ā sīdatāṃ | āgatya tiṣṭhatāṃ | āgacchatāṃ vā ‖*
+
+
+**Pratipadārtha.** सुरुक्मे (*surukme*) — who have radiance itself as their ornament; सुपेशसा (*supeśasā*) — and who have an attractive form, the deities of Day and Night; अधि (*adhi*) — exceeding; श्रिया (*śriyā*) — with beauty; विराजतः (*virājataḥ*) — shine; उषसौ (*uṣasau*) — the Day-and-Night deities of such beauty; इह (*iha*) — today (on the darbha seat); आ सीदतां (*ā sīdatāṃ*) — may they come and sit.
+
+**Bhāvārtha.** The deities of Day and Night, who have radiance itself as their ornament and who have an attractive form, shine with exceeding beauty. May the Day-and-Night deities of such beauty come and sit on the darbha seat.
+
+---
+
+### Printed p. 245 (PDF 264)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9" (zoomed) — the Varga changes to 9 with Ṛk 6; no Varga-closing line is printed at the end of Ṛk 5. Ṛk 6, continued.)*
+
+**English Translation (as printed).**
+
+Let the brilliant and beautiful Day and Night, who shine with surpassing lustre, sit down here (upon the sacred grass)· [sic]
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**सुपेशसा (*supeśasā*)** — since the word पेशः (*peśaḥ*) is read among the 16 words meaning "form", beginning with निर्णिक् (*nirṇik*), वव्रिः (*vavriḥ*) *(zoomed)*, (Ni. 8-11) *(zoomed)*, पेशः (*peśaḥ*) means form. Therefore सुपेशसा (*supeśasā*) — शोभनरूपयुक्ते (*śobhanarūpayukte*) — means endowed with a fair form, beautiful.
+
+**उषसौ (*uṣasau*)** — since in this ṛk the dual उषसौ (*uṣasau*) is used, it should be understood that the two deities called उषासानक्ता (*uṣāsānaktā*) or नक्तोषासा (*naktoṣāsā*) are meant. Who is this deity called नक्तोषासा (*naktoṣāsā*)? What is their nature? Such matters must be examined closely.
+
+In this ṛk the presiding deities of night and of early morning, called नक्तोषासा (*naktoṣāsā*), are invoked. Yāska's explanation of the word नक्तोषसा (*naktoṣasā*) *(so printed here)* is as follows —
+
+> उषासानक्ता । उषासानक्तोषाश्च नक्ता चोषा व्याख्याता । नक्तेति रात्रिनामानक्ति भूतान्यवश्यायेनापि वा नक्ताऽव्यक्तवर्णा ॥
+
+> *uṣāsānaktā | uṣāsānaktoṣāśca naktā coṣā vyākhyātā | nakteti rātrināmānakti bhūtānyavaśyāyenāpi vā naktā 'vyaktavarṇā ‖*
+
+— though it is read in two ways, नक्तोषासा (*naktoṣāsā*) and उषासानक्ता (*uṣāsānaktā*), the meaning is one and the same. The explanation of the word उषाः (*uṣāḥ*) has been given earlier, he says. नक्ता (*naktā*) is a name of night, because नक्ता (*naktā*) means अव्यक्तवर्णा (*avyaktavarṇā*): since it is darkness, things are unmanifest, that is, they are not seen well. Therefore night, joined with darkness, has the name नक्ता (*naktā*); and in this night-time living beings are unable to do their various activities. अनक्ति क्लेदयति भूतानि अवश्यायेन । अपि वानक्ता अव्यक्तवर्णा । यथा अहः सर्वमभिव्यक्तरूपं भवति न तथा रात्रिः ॥ (*anakti kledayati bhūtāni avaśyāyena | api vānaktā avyaktavarṇā | yathā ahaḥ sarvamabhivyaktarūpaṃ bhavati na tathā rātriḥ ‖*) Because darkness gives trouble to living beings, so that there is no room for their activities to go on properly, night joined with such darkness has the name नक्ता (*naktā*). Or, because nothing is seen well and everything is unmanifest, it has the name नक्ता (*naktā*). In the daytime the forms of all things are seen clearly; at night they are not seen so. Therefore night-time has the name नक्ता (*naktā*): so they have explained the meaning (Ni. 8-11) *(zoomed)*.
+
+He has merely said that the meaning of the word उषाः (*uṣāḥ*) has been explained earlier. That explanation is as follows —
+
+---
+
+### Printed p. 246 (PDF 265)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188". Ṛk 6, Special Topics continued.)*
+
+विभावरी (*vibhāvarī*), सूनरी (*sūnarī*) and the rest — sixteen words — are names of Uṣas (2-19) *(zoomed at 600 and 1000 dpi; so printed)*; and
+
+> उषाः कस्मादुच्छतीति सत्या रात्रेरपरः कालः ॥
+
+> *uṣāḥ kasmāducchatīti satyā rātreraparaḥ kālaḥ ‖*
+
+— because it removes the darkness (*tamas*) of the night-time, it has the name उषाः (*uṣāḥ*); that is, the later time of the night, its last part. To support this meaning they have given an example.
+
+*("jotir-" (without the ya-subscript) in the first line as printed.)*
+
+> इदं श्रेष्ठं ज्योतिषां जोतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा ।
+> यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*
+> *yathā prasūtā savituḥ savāya~ evā rātryuṣase yonimāraik ‖*
+
+(Ṛ. Saṃ. 1-113-1) *(zoomed; three tries)*
+
+The Nirukta of this ṛk —
+
+> इदं श्रेष्ठं ज्योतिषां ज्योतिरागमत् । चित्रं प्रकेतनं प्रज्ञाततममजनिष्ट विभूततमं यथा प्रसूता सवितुः प्रसवाय रात्रिरादित्यस्य । एवं रात्र्युषसे योनिमरिचत् स्थानं । स्त्रीयोनिरभियुत एनां गर्भः ॥
+
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgamat | citraṃ praketanaṃ prajñātatamamajaniṣṭa vibhūtatamaṃ yathā prasūtā savituḥ prasavāya rātrirādityasya | evaṃ rātryuṣase yonimaricat sthānaṃ | strīyonirabhiyuta enāṃ garbhaḥ ‖*
+
+— the excellent and exceedingly brilliant light of the sun is rising. The dawn-time, which precedes such light of the sun, appears before the daylight like the banner (*niketana*, like a flag) of that light. That is: just as the light of the sun, having shone all day, at the time of setting becomes the source (*yoni*), that is, the cause, of night, so night in its final period becomes the source, that is, the cause, of the dawn-time. *Yoni* means the place of birth. The main intent is that at the end of the day night, and at the end of night the dawn-time, come about in the form of a cycle of change. Therefore उषः (*uṣaḥ*) means the light, the brightness, that spreads over all the quarters and appears before sunrise, after the night has passed.
+
+The Bhāṣyakāra's (Sāyaṇa's) explanation of the meaning — नक्तशब्द उषश्शब्दश्च लोके कालविशेषवाचिनौ । इह तु तत्कालाभिमानिवह्निमूर्तिद्वये प्रयुज्येते । नक्तोषासा नक्तोषोनामिके वह्निमूर्ती (*naktaśabda uṣaśśabdaśca loke kālaviśeṣavācinau | iha tu tatkālābhimānivahnimūrtidvaye prayujyete | naktoṣāsā naktoṣonāmike vahnimūrtī*) — that is: these two words, नक्त (*nakta*) (night) and उषः (*uṣaḥ*) (morning), have in worldly usage the meaning of denoting the particular times night and morning. Here, that is in this ṛk or in the Ṛgveda, these words convey the meaning of the deities presiding over night and the morning-time. Therefore the words नक्तोषासा (*naktoṣāsā*) or उषासानक्ता (*uṣāsānaktā*), in the sense of the two forms (*mūrti*, shapes) of Agni that are the deities presiding over night and the dawn-time,
+
+---
+
+### Printed p. 247 (PDF 266)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9" (zoomed). Ṛk 6, Special Topics continued.)*
+
+— are used. The word सुपेशसा (*supeśasā*) (having a good form or shape) used in this ṛk supports this meaning. For night and morning, being divisions of time, have neither form nor shape. In the view that they are the deities presiding over those times, a form can be ascribed to those deities. Since there is such an ascription in this ṛk, it should be understood that here the deities presiding over those times are meant. The *ṣa* in the word नक्तोषासा (*naktoṣāsā*) is long for the convenience of the metre.
+
+In the ṛk Ṛ. Saṃ. 1-142-7 *(zoomed; three tries)* the epithet ऋतस्य मातरा (*ṛtasya mātarā*) is very important.
+
+> प्रवतां त उषसा वाजयंती अग्ने वातस्य पथ्याभिरच्छ ।
+> यत्सीमंजंति पूर्व्यं हविर्भिरा वंधुरेव तस्थतुर्दुरोणे ॥
+
+> *pravatāṃ ta uṣasā vājayaṃtī agne vātasya pathyābhiraccha |*
+> *yatsīmaṃjaṃti pūrvyaṃ havirbhirā vaṃdhureva tasthaturduroṇe ‖*
+
+(Ṛ. Saṃ. 3-14-3) *(zoomed)*
+
+— in this ṛk their eternal connection with the sacrifice is described. In all the ṛks that invoke them (there are about twenty such ṛks) they are prayed to come together with the other deities and sit on the darbha seat. Among them, they have a very close connection with Agni, which is kindled at the dawn-time and at evening. Hence also the figurative description that they hold Agni between them,
+
+> नक्तोषासा वर्णमामेम्याने धापयेते शिशुमेकं समीची ।
+> द्यावाक्षामा रुक्मो अंतर्वि भाति देवा अग्निं धारयन्द्रविणोदां ।
+
+> *naktoṣāsā varṇamāmemyāne dhāpayete śiśumekaṃ samīcī |*
+> *dyāvākṣāmā rukmo aṃtarvi bhāti devā agniṃ dhārayandraviṇodāṃ |*
+
+(Ṛ. Saṃ. 1-96-5) *(zoomed)*
+
+— in such ṛks it is made known that they help Agni, who is in the form of an infant, to drink the havis. Because of this connection they are said to be near to the performers of the sacrifice. Generally in the Āprī sūktas too the description of this aspect is repeated. For example —
+
+*("sakupiśaṃ" (for the expected śukrapiśaṃ) as printed; zoomed.)*
+
+> आ सुष्वयंती यजते उपाके उषासानक्ता सदतां नि योनौ ।
+> दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं सकुपिशं दधाने ॥
+
+> *ā suṣvayaṃtī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
+> *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ sakupiśaṃ dadhāne ‖*
+
+(Ṛ. Saṃ. 10-110-6) *(zoomed)*
+
+— in this ṛk of an Āprī sūkta too the same matter is stated.
+
+From this aspect it is known that the Uṣāsānaktā deities obtain in sacrificial work not a secondary place but a most important place. This chief place,
+
+*(Ṛk 6, Special Topics continue on p. 248.)*
+
+---
+
+**Progress note:** Done through printed p. 247 (PDF 266; printed = PDF − 19, pp. 242–247 checked, no duplicate or missing page). Sūkta 188 (samiddho adya, Agastya's Āprī sūkta; 11 ṛks, gāyatrī, Varga 8-9): Ṛks 1–5 complete; Ṛk 6 (Varga 9 from p. 245) OPEN — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 244), printed English (p. 245) and Special Topics through p. 247 written (naktoṣāsā/uṣāsānaktā; p. 247 ends mid-sentence "This chief place,"); Special Topics continue on p. 248 / PDF 267, then Ṛk 6's grammar note. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md. Flags from p. 206: New (pp. 206–207): p. 206 Pratipadārtha headword 'prīvaḥ' as printed, Ṛ. 1-93-6, 3-48-2, 5-43-4 zoomed; p. 207 header Varga 7, Ṛ. 10-34-1, Vā. Saṃ. 3-61, Ni. 9-8, Ṛ. 8-7-29, 8-64-11, 9-65-22, 23, 9-92-3, 9-63-4, 9-74-9, 9-79-4 zoomed (first boxes a line too high), 'Pastya' and 'somavikrayaṇa' as printed. New (pp. 208–209): p. 208 Ṛ. 1-168-3, 3-48-2, 8-1-17, 4-28-9, 9-50-1, 1-28-7, 3-48-1, 4-16-1, 1-9-1, 1-83-6, 1-135-7, 1-130-2, 1-135-5, 1-137-1, 1-28-9, 4-18-3, 10-94-9, 10-116-4, 7-101-4, 8-20-8, 3-62-15, 9-1-2, 9-17-8, 9-65-6, 9-98-2, 2-14-9, 9-66-9, 9-15-7, 9-33-2, 1-116-24, 1-137-1, 3-32-2, 8-2-10, 1-5-5, 1-30-2, 8-2-9 zoomed (2 vs 7 calibrated at 1000 dpi), camū ref '6-5 7' [?] UNDECIDED (gap, no hyphen), 'Mūjavata' here vs 'Maujavata' p. 206, 'ladle·' [sic]; p. 209 header Varga 7, colour refs 9-33-2, 9-63-4 & 6, 9-3-9, 9-7-6, 9-65-8, 9-40-2, 9-45-3, 9-61-21, 9-97-13, 9-97-9, 9-107-2, dadhyāśiraḥ refs 1-137-2, 5-51-7, 7-32-4, 9-22-3, 9-63-15 zoomed; Bhāga 1 p. 676 cross-reference. NOTE: doubt.py records 'printed' with the old offset (PDF − 18) for PDF ≥ 225; the pdf field is right. New (pp. 210–211): p. 210 Ṛ. 9-101-12, 1-23-1, 1-30-2 (three tries each on strip 0; boxes landed high), 1-137-1, 8-2-9, 8-52-10 zoomed, verse 8-2-9 'puruniḥṣṭhāḥ', 'madhyataḥ āśīrtaḥ' as printed; p. 211 header Varga 7, Ṛ. 8-101-10, 1-187-9, 3-42-7, 8-92-4, 2-22-1, 5-27-5, 3-48-1, U. Sū. 1-52, Pā. 7-2-116, 6-1-186 zoomed; no Varga-close line printed at the end of Ṛk 9. New (pp. 212–215): p. 212 bhāṣya 'udārathirūrdhvagama' (hooked ma) zoomed; p. 213 header Varga 7, Ṛ. 3-52-7, 6-56-1, '6-57 2' (gap, as printed), 10-97-1, Ni. 9-27 zoomed, Kannada gloss 'wheat flour' for yavasaktu as printed; p. 214 Pada 'susūdima' vs Saṃhitā 'suṣūdima' as printed; p. 215 header Varga 7, Pā. '6-1-7' (śeśchandasi bahulam), 3-4-6, '7-2-3-5' (ārdhadhātukasyeḍ valādeḥ), '3-134' (nandigrahapacādibhyaḥ) zoomed (as printed; three tries for the first three), grammar heading printed 'vyākara prakriyā'. New (pp. 216–217): p. 216 header 'Maṃ. . A. 24 Sū. 188' (Maṇḍala numeral not printed), Pā. '6-3-66' as printed (sadhamādasthayoś chandasi; three identical 6-glyphs), 6-2-199, '10' Āprī sūktas (four tries), Ṛ. 7-2, 5-5, 10-70, 2-3, 1-13, 1-142 zoomed, item 'imāṃ me āgne' (ā as printed); p. 217 header Varga 8, 1-142, Ṛ. 1-188, 3-4, 9-5, 10-110, Tai. Saṃ. 6-3-10-3, Ā. 3-2, Kau. Brā. 10-3, Tai. Brā. 2-2-8-6 zoomed, 'gādhino viśvāmitraḥ' and 'tadyadā prīṇāti' as printed. New (pp. 218–219): p. 218 Tā. Brā. 15-8-2, 'ātmānamevettair' (ta-subscript, as printed), Ai. Brā. (2-3), 2-4 (three places; two tries for the last), Ni. 8-4 zoomed; p. 219 Ni. 8-22 ('ṛtavo vai srayājā' and 'prāṇā vai prayājā' as printed), Ṛ. 10-51-9, Śa. Brā. 1-3-2-9, 1-3-2-8, Kau. Brā. 3-4, Ai. Brā. 1-11, Śa. Brā. 11-2-7-27, Tai. Saṃ. 6-1-5-4, 1-142 zoomed. New (pp. 220–221): p. 220 Bṛ. De. 2-146 to 151 zoomed, verses 'stritīyāyāṃ', 'devyāviti', 'navamyāvyṛci saṃstutāḥ', 'daśyaitānītarāṇi' as printed (zoomed; two tries), Ni. 8-22 zoomed, 'Tanūpāt' in the Kannada as printed; p. 221 Bṛ. De. 2-152 to 157 (last digit flat-footed, 1000 dpi), 'atraiva … syānnayajuṣvādriyeta' zoomed, table row 3 'nṛśastraṃ nyāḥ [?] praṇetraṃ' UNDECIDED. New (pp. 222–223): p. 222 table row 7 'kṛṇavānte [?]' (subscript unclear) UNDECIDED, '1-13' (faint) zoomed, Max Muller ASL p. 246-7 'families·' [sic]; p. 223 header Varga 8, refs 1-13-8, 1-188-6, 1-142-8, 3-4-8, 5-5-6, 9-5-8; 5-5-2, 3-4-5; 1-13-2, 6-2-6, 10-110-8 (two tries); 1-142-3, 3-4-2, 10-110-1; Ṛ. Saṃ. 3-4-1 zoomed. New (pp. 224–226): p. 224 Ṛ. Saṃ. 7-2-1 (verse 'dhūmamṛṇvan', 'stūpaiḥ'), 1-142-1, metre lists (gāyatrī 1-13, 1-188, 5-5, 9-5; anuṣṭubh 1-142; triṣṭubh 2-3, 3-4, 7-2, 10-70) zoomed, refs 7-2-1 and 3-4-1 in the prose read from the strip; p. 225 header Varga 8, sūkta block Varga 8-9, devatā list ('idhmaḥ' with broken visarga, 'sāhākṛtayaḥ' as printed), bhāṣya Ni. 8-22 and 'samiddha āpriya' (no visarga) zoomed; Kannada (Ni. 8-22) read from the strip (zoom missed); p. 226 Ṛk 1 bhāṣya 'devo 'ta dīpyamānaḥ' as printed, 'samiddhairvā' zoomed, printed English 'oblation·' [sic]. New (pp. 227–228): p. 227 header Varga 8, 'agni dūtaṃ' (no anusvara) as printed, Ṛ. 1-12-1, 1-12-2, 1-12-6, Ni. 12-13 zoomed (three tries for the last); p. 228 header 'Maṃ. . A. 24' (Maṇḍala numeral not printed), Bṛ. De. 2-188 (two tries), Tai. Brā. 3-6-2-1, 'nābhā prathivyāḥ' as printed, Ṛ. 3-4-1; 7-2-1; 10-70-1, 1-13-1, 1-142-1, 3-4-1, 10-110-1, Ni. 8-5, (8-5), 8-22 zoomed, Ni. 8-5 (first) read from the strip, 'yajñedhma' with stray mark and Sarvānukramaṇī 'susamiddha itīdhma' as printed. New (p. 229): header Varga 8, Ai. Brā. 2-4 (three tries), Pā. Sū. 3-2-76, 6-1-71, 6-2-139 zoomed, U. Sū. 3-370 as read for dutanibhyāṃ dīrghaśca (zoomed at 1000 dpi; third digit flat-footed), Ṛk 2 bhāṣya 'adbhya oṣadhayaḥ' (visarga) as printed. New (p. 230): header Sū. 188, Ṛ. Saṃ. 7-21-5, Ni. 4-19 (two tries) zoomed; Special Topics 'adbhyaḥ' (visarga) vs bhāṣya p. 229 'adbhya'; printed English 'food·' [sic]. New (pp. 231–232): p. 231 header Varga 8, Ni. 8-5, Bṛ. De. 3-1 zoomed, Bṛ. De. '2-26 [?] to 27' UNDECIDED-ish (first digit of '26' drawn like the flat-footed 7 elsewhere; zoomed at 600 and 1000 dpi), 'kṛpaṇyavaḥ', 'napādamuṣya', 'yacchatvasau tanuṃ' as printed; p. 232 Pā. Sū. 6-4-81, 6-1-173 (two tries), 3-1-67 (three tries, 1000 dpi), 6-1-189 (two tries) zoomed, 'pṛṣādi' and 'aniditāṃ hala upadhā—' as printed. New (pp. 233–234): p. 233 header Varga 8, Ṛ. 1-12-3, Ni. 8-8 (three tries), Ṛ. 10-110-3 (three tries) zoomed, 'īḷa īṭṭeḥ stutikarmaṇaḥ' as printed (three tries, read with the strip), bhāṣya 'iḷnāmakastvaṃ', 'devānā vakṣi' as printed, printed English 'for you are for the donor of thousands·' [sic]; p. 234 Ṛ. 3-4-3, Tai. Brā. 3-6-2-1, Ai. Brā. 2-4, Bṛ. De. 3-4 zoomed, 'agnimiḍa', 'iḷestvṛṣikṛtaṃ', 'vokto' as printed. New (p. 235): Ṛ. Saṃ. 4-2-5, Pā. Sū. 6-1-189 (two tries), 6-1-213, 5-1-71, 7-1-2, 6-4-42 zoomed; 'fourth place in the sūkta' for īḍ as printed; sūtras 'āyaneyīnī—', 'janasanakhanāṃ—' printed only begun. New (pp. 236–239): p. 236 printed English ends without full stop; p. 237 header Varga 8, Ṛ. Saṃ. 1-188-4, 9-5-4 (three tries), Tai. Brā. 3-6-2-1, Ai. Brā. 2-4, Ni. 8-8 (two tries) zoomed, praiṣa 'suṣṭarīnorṇaṃmradā' (na), 'vicapraca', 'prathatāgṃ', 'emonadadya' as printed (zoomed); p. 238 Bṛ. De. 3-5, Pā. Sū. 6-4-112, 4-1-85, 7-2-117, 6-4-148 zoomed (zoom boxes landed high and left; three tries for three), Pada 'saṃ'rāṭ' (anusvara) as printed; p. 239 header Varga 8, printed English 'hall of sacrifice' (faint) zoomed, ends 'numerous-'; Ni. 8-10 read from the strip. New (pp. 240–241): p. 240 header printed 'A. 23' (not 24; zoomed), Ṛ. Saṃ. 3-4-5, 1-13-6 zoomed, verse 'abhīimaṃ' as printed (zoomed), English 'Agni·' [sic]; p. 241 header Varga 8, refs 5-5-5, 3-4-5, Ṛ. Saṃ. 10-110-1, 7-2-5, 1-188-5, Tai. Brā. 3-6-2-2 zoomed (boxes landed high on strip 0 and low on strip 1; up to three tries), verses 'samiddho asya' (for adya), 'svādhyo3', 'virāṭsaṃmrāḍvibhrīḥ' (ra-subscript) as printed (zoomed), 'pra pra yajñaṃ praṇīta na' as printed (read from the strip), 'Grassman' and 'Literature· p· 245)·' as printed. New (pp. 242–243): p. 242 Ai. Brā. 2-4, Ṛ. Saṃ. 10-110-5, Ni. 8-10, Bṛ. De. 3-6 to 7 zoomed, 'ātābhiḥ ujjihatāṃ' as printed; p. 243 header Varga 8, Tai. Saṃ. 6-1-1-1 (two tries), Ni. '2-24-' (trailing hyphen, as printed) zoomed, 'prācīnavagṃśaṃ', 'vraścabhṛsja—' as printed. New (pp. 244–245): p. 244 header 'A. 24' zoomed, Pā. Sū. '6-4-1[?]8' (bahor lopo bhū ca bahoḥ) UNDECIDED (middle digit 9-like or 5-like; 600 and 1000 dpi; first box a line high), '4-1-7' for ugitaś ca as printed (zoomed at 1000 dpi; same flat-footed glyph as the 7 of 7-1-39), 7-1-39, Ṛk numeral 6 zoomed, 'uttama-puruṣa' for akṣaran as printed; p. 245 header Varga 9 (no Varga-8 close printed after Ṛk 5), '16' rūpa-names, Ni. 8-11 (twice) zoomed, printed English 'grass)·' [sic], 'naktoṣasā' beside 'naktoṣāsā' and 'api vānaktā' as printed. New (pp. 246–247): p. 246 Nighaṇṭu ref '2-19' for the uṣo-names as printed (600 and 1000 dpi; first box on the rule), Ṛ. Saṃ. 1-113-1 (three tries) zoomed, verse 1-113-1 'jotirāgāt' (no ya-subscript) and Ni. 'satyā rātreraparaḥ' as printed; p. 247 header Varga 9, Ṛ. Saṃ. 1-142-7 (three tries), 3-14-3, 1-96-5, 10-110-6 (two tries each; boxes landed a line or two low) zoomed, verse 10-110-6 'adhi śriyaṃ sakupiśaṃ' (for śukrapiśaṃ) as printed (zoomed), verse 1-96-5 ends with a single daṇḍa. Zoom-box drift on this batch: boxes landed up to ~150 px high on pp. 244–246 and low on p. 247.
