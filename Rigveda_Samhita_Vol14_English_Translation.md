@@ -9230,4 +9230,292 @@ We shall explain briefly, as far as is known, the question of where the river Sa
 
 ---
 
-**Progress note:** Done through printed p. 259 (PDF 278; printed = PDF − 19, pp. 254–259 checked, no duplicate or missing page). Sūkta 188 (samiddho adya, Agastya's Āprī sūkta; 11 ṛks, gāyatrī, Varga 8-9): Ṛks 1–7 complete; Ṛk 8 (Varga 9; Bhāratī, Iḷā, Sarasvatī) OPEN — Pratipadārtha, Bhāvārtha, printed English written; Special Topics running (the ten Sarasvatī examples given; p. 259 ends mid-sentence in the account of the river Sarasvatī's course, "… flowed in the region of the desert,"); continue on p. 260 / PDF 279 with the rest of Ṛk 8's Special Topics, then its grammar and Ṛks 9–11. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md. Flags from p. 206: New (pp. 206–207): p. 206 Pratipadārtha headword 'prīvaḥ' as printed, Ṛ. 1-93-6, 3-48-2, 5-43-4 zoomed; p. 207 header Varga 7, Ṛ. 10-34-1, Vā. Saṃ. 3-61, Ni. 9-8, Ṛ. 8-7-29, 8-64-11, 9-65-22, 23, 9-92-3, 9-63-4, 9-74-9, 9-79-4 zoomed (first boxes a line too high), 'Pastya' and 'somavikrayaṇa' as printed. New (pp. 208–209): p. 208 Ṛ. 1-168-3, 3-48-2, 8-1-17, 4-28-9, 9-50-1, 1-28-7, 3-48-1, 4-16-1, 1-9-1, 1-83-6, 1-135-7, 1-130-2, 1-135-5, 1-137-1, 1-28-9, 4-18-3, 10-94-9, 10-116-4, 7-101-4, 8-20-8, 3-62-15, 9-1-2, 9-17-8, 9-65-6, 9-98-2, 2-14-9, 9-66-9, 9-15-7, 9-33-2, 1-116-24, 1-137-1, 3-32-2, 8-2-10, 1-5-5, 1-30-2, 8-2-9 zoomed (2 vs 7 calibrated at 1000 dpi), camū ref '6-5 7' [?] UNDECIDED (gap, no hyphen), 'Mūjavata' here vs 'Maujavata' p. 206, 'ladle·' [sic]; p. 209 header Varga 7, colour refs 9-33-2, 9-63-4 & 6, 9-3-9, 9-7-6, 9-65-8, 9-40-2, 9-45-3, 9-61-21, 9-97-13, 9-97-9, 9-107-2, dadhyāśiraḥ refs 1-137-2, 5-51-7, 7-32-4, 9-22-3, 9-63-15 zoomed; Bhāga 1 p. 676 cross-reference. NOTE: doubt.py records 'printed' with the old offset (PDF − 18) for PDF ≥ 225; the pdf field is right. New (pp. 210–211): p. 210 Ṛ. 9-101-12, 1-23-1, 1-30-2 (three tries each on strip 0; boxes landed high), 1-137-1, 8-2-9, 8-52-10 zoomed, verse 8-2-9 'puruniḥṣṭhāḥ', 'madhyataḥ āśīrtaḥ' as printed; p. 211 header Varga 7, Ṛ. 8-101-10, 1-187-9, 3-42-7, 8-92-4, 2-22-1, 5-27-5, 3-48-1, U. Sū. 1-52, Pā. 7-2-116, 6-1-186 zoomed; no Varga-close line printed at the end of Ṛk 9. New (pp. 212–215): p. 212 bhāṣya 'udārathirūrdhvagama' (hooked ma) zoomed; p. 213 header Varga 7, Ṛ. 3-52-7, 6-56-1, '6-57 2' (gap, as printed), 10-97-1, Ni. 9-27 zoomed, Kannada gloss 'wheat flour' for yavasaktu as printed; p. 214 Pada 'susūdima' vs Saṃhitā 'suṣūdima' as printed; p. 215 header Varga 7, Pā. '6-1-7' (śeśchandasi bahulam), 3-4-6, '7-2-3-5' (ārdhadhātukasyeḍ valādeḥ), '3-134' (nandigrahapacādibhyaḥ) zoomed (as printed; three tries for the first three), grammar heading printed 'vyākara prakriyā'. New (pp. 216–217): p. 216 header 'Maṃ. . A. 24 Sū. 188' (Maṇḍala numeral not printed), Pā. '6-3-66' as printed (sadhamādasthayoś chandasi; three identical 6-glyphs), 6-2-199, '10' Āprī sūktas (four tries), Ṛ. 7-2, 5-5, 10-70, 2-3, 1-13, 1-142 zoomed, item 'imāṃ me āgne' (ā as printed); p. 217 header Varga 8, 1-142, Ṛ. 1-188, 3-4, 9-5, 10-110, Tai. Saṃ. 6-3-10-3, Ā. 3-2, Kau. Brā. 10-3, Tai. Brā. 2-2-8-6 zoomed, 'gādhino viśvāmitraḥ' and 'tadyadā prīṇāti' as printed. New (pp. 218–219): p. 218 Tā. Brā. 15-8-2, 'ātmānamevettair' (ta-subscript, as printed), Ai. Brā. (2-3), 2-4 (three places; two tries for the last), Ni. 8-4 zoomed; p. 219 Ni. 8-22 ('ṛtavo vai srayājā' and 'prāṇā vai prayājā' as printed), Ṛ. 10-51-9, Śa. Brā. 1-3-2-9, 1-3-2-8, Kau. Brā. 3-4, Ai. Brā. 1-11, Śa. Brā. 11-2-7-27, Tai. Saṃ. 6-1-5-4, 1-142 zoomed. New (pp. 220–221): p. 220 Bṛ. De. 2-146 to 151 zoomed, verses 'stritīyāyāṃ', 'devyāviti', 'navamyāvyṛci saṃstutāḥ', 'daśyaitānītarāṇi' as printed (zoomed; two tries), Ni. 8-22 zoomed, 'Tanūpāt' in the Kannada as printed; p. 221 Bṛ. De. 2-152 to 157 (last digit flat-footed, 1000 dpi), 'atraiva … syānnayajuṣvādriyeta' zoomed, table row 3 'nṛśastraṃ nyāḥ [?] praṇetraṃ' UNDECIDED. New (pp. 222–223): p. 222 table row 7 'kṛṇavānte [?]' (subscript unclear) UNDECIDED, '1-13' (faint) zoomed, Max Muller ASL p. 246-7 'families·' [sic]; p. 223 header Varga 8, refs 1-13-8, 1-188-6, 1-142-8, 3-4-8, 5-5-6, 9-5-8; 5-5-2, 3-4-5; 1-13-2, 6-2-6, 10-110-8 (two tries); 1-142-3, 3-4-2, 10-110-1; Ṛ. Saṃ. 3-4-1 zoomed. New (pp. 224–226): p. 224 Ṛ. Saṃ. 7-2-1 (verse 'dhūmamṛṇvan', 'stūpaiḥ'), 1-142-1, metre lists (gāyatrī 1-13, 1-188, 5-5, 9-5; anuṣṭubh 1-142; triṣṭubh 2-3, 3-4, 7-2, 10-70) zoomed, refs 7-2-1 and 3-4-1 in the prose read from the strip; p. 225 header Varga 8, sūkta block Varga 8-9, devatā list ('idhmaḥ' with broken visarga, 'sāhākṛtayaḥ' as printed), bhāṣya Ni. 8-22 and 'samiddha āpriya' (no visarga) zoomed; Kannada (Ni. 8-22) read from the strip (zoom missed); p. 226 Ṛk 1 bhāṣya 'devo 'ta dīpyamānaḥ' as printed, 'samiddhairvā' zoomed, printed English 'oblation·' [sic]. New (pp. 227–228): p. 227 header Varga 8, 'agni dūtaṃ' (no anusvara) as printed, Ṛ. 1-12-1, 1-12-2, 1-12-6, Ni. 12-13 zoomed (three tries for the last); p. 228 header 'Maṃ. . A. 24' (Maṇḍala numeral not printed), Bṛ. De. 2-188 (two tries), Tai. Brā. 3-6-2-1, 'nābhā prathivyāḥ' as printed, Ṛ. 3-4-1; 7-2-1; 10-70-1, 1-13-1, 1-142-1, 3-4-1, 10-110-1, Ni. 8-5, (8-5), 8-22 zoomed, Ni. 8-5 (first) read from the strip, 'yajñedhma' with stray mark and Sarvānukramaṇī 'susamiddha itīdhma' as printed. New (p. 229): header Varga 8, Ai. Brā. 2-4 (three tries), Pā. Sū. 3-2-76, 6-1-71, 6-2-139 zoomed, U. Sū. 3-370 as read for dutanibhyāṃ dīrghaśca (zoomed at 1000 dpi; third digit flat-footed), Ṛk 2 bhāṣya 'adbhya oṣadhayaḥ' (visarga) as printed. New (p. 230): header Sū. 188, Ṛ. Saṃ. 7-21-5, Ni. 4-19 (two tries) zoomed; Special Topics 'adbhyaḥ' (visarga) vs bhāṣya p. 229 'adbhya'; printed English 'food·' [sic]. New (pp. 231–232): p. 231 header Varga 8, Ni. 8-5, Bṛ. De. 3-1 zoomed, Bṛ. De. '2-26 [?] to 27' UNDECIDED-ish (first digit of '26' drawn like the flat-footed 7 elsewhere; zoomed at 600 and 1000 dpi), 'kṛpaṇyavaḥ', 'napādamuṣya', 'yacchatvasau tanuṃ' as printed; p. 232 Pā. Sū. 6-4-81, 6-1-173 (two tries), 3-1-67 (three tries, 1000 dpi), 6-1-189 (two tries) zoomed, 'pṛṣādi' and 'aniditāṃ hala upadhā—' as printed. New (pp. 233–234): p. 233 header Varga 8, Ṛ. 1-12-3, Ni. 8-8 (three tries), Ṛ. 10-110-3 (three tries) zoomed, 'īḷa īṭṭeḥ stutikarmaṇaḥ' as printed (three tries, read with the strip), bhāṣya 'iḷnāmakastvaṃ', 'devānā vakṣi' as printed, printed English 'for you are for the donor of thousands·' [sic]; p. 234 Ṛ. 3-4-3, Tai. Brā. 3-6-2-1, Ai. Brā. 2-4, Bṛ. De. 3-4 zoomed, 'agnimiḍa', 'iḷestvṛṣikṛtaṃ', 'vokto' as printed. New (p. 235): Ṛ. Saṃ. 4-2-5, Pā. Sū. 6-1-189 (two tries), 6-1-213, 5-1-71, 7-1-2, 6-4-42 zoomed; 'fourth place in the sūkta' for īḍ as printed; sūtras 'āyaneyīnī—', 'janasanakhanāṃ—' printed only begun. New (pp. 236–239): p. 236 printed English ends without full stop; p. 237 header Varga 8, Ṛ. Saṃ. 1-188-4, 9-5-4 (three tries), Tai. Brā. 3-6-2-1, Ai. Brā. 2-4, Ni. 8-8 (two tries) zoomed, praiṣa 'suṣṭarīnorṇaṃmradā' (na), 'vicapraca', 'prathatāgṃ', 'emonadadya' as printed (zoomed); p. 238 Bṛ. De. 3-5, Pā. Sū. 6-4-112, 4-1-85, 7-2-117, 6-4-148 zoomed (zoom boxes landed high and left; three tries for three), Pada 'saṃ'rāṭ' (anusvara) as printed; p. 239 header Varga 8, printed English 'hall of sacrifice' (faint) zoomed, ends 'numerous-'; Ni. 8-10 read from the strip. New (pp. 240–241): p. 240 header printed 'A. 23' (not 24; zoomed), Ṛ. Saṃ. 3-4-5, 1-13-6 zoomed, verse 'abhīimaṃ' as printed (zoomed), English 'Agni·' [sic]; p. 241 header Varga 8, refs 5-5-5, 3-4-5, Ṛ. Saṃ. 10-110-1, 7-2-5, 1-188-5, Tai. Brā. 3-6-2-2 zoomed (boxes landed high on strip 0 and low on strip 1; up to three tries), verses 'samiddho asya' (for adya), 'svādhyo3', 'virāṭsaṃmrāḍvibhrīḥ' (ra-subscript) as printed (zoomed), 'pra pra yajñaṃ praṇīta na' as printed (read from the strip), 'Grassman' and 'Literature· p· 245)·' as printed. New (pp. 242–243): p. 242 Ai. Brā. 2-4, Ṛ. Saṃ. 10-110-5, Ni. 8-10, Bṛ. De. 3-6 to 7 zoomed, 'ātābhiḥ ujjihatāṃ' as printed; p. 243 header Varga 8, Tai. Saṃ. 6-1-1-1 (two tries), Ni. '2-24-' (trailing hyphen, as printed) zoomed, 'prācīnavagṃśaṃ', 'vraścabhṛsja—' as printed. New (pp. 244–245): p. 244 header 'A. 24' zoomed, Pā. Sū. '6-4-1[?]8' (bahor lopo bhū ca bahoḥ) UNDECIDED (middle digit 9-like or 5-like; 600 and 1000 dpi; first box a line high), '4-1-7' for ugitaś ca as printed (zoomed at 1000 dpi; same flat-footed glyph as the 7 of 7-1-39), 7-1-39, Ṛk numeral 6 zoomed, 'uttama-puruṣa' for akṣaran as printed; p. 245 header Varga 9 (no Varga-8 close printed after Ṛk 5), '16' rūpa-names, Ni. 8-11 (twice) zoomed, printed English 'grass)·' [sic], 'naktoṣasā' beside 'naktoṣāsā' and 'api vānaktā' as printed. New (pp. 246–247): p. 246 Nighaṇṭu ref '2-19' for the uṣo-names as printed (600 and 1000 dpi; first box on the rule), Ṛ. Saṃ. 1-113-1 (three tries) zoomed, verse 1-113-1 'jotirāgāt' (no ya-subscript) and Ni. 'satyā rātreraparaḥ' as printed; p. 247 header Varga 9, Ṛ. Saṃ. 1-142-7 (three tries), 3-14-3, 1-96-5, 10-110-6 (two tries each; boxes landed a line or two low) zoomed, verse 10-110-6 'adhi śriyaṃ sakupiśaṃ' (for śukrapiśaṃ) as printed (zoomed), verse 1-96-5 ends with a single daṇḍa. Zoom-box drift on this batch: boxes landed up to ~150 px high on pp. 244–246 and low on p. 247. New (pp. 248–249): p. 248 Tai. Brā. 3-6-2-1, rātridevate ref '1-71-1' as printed (1000 dpi), Ni. 2-18, Nighaṇṭu 1-7, Ṛ. 2-3-6 (three tries) zoomed; praiṣa 'nrāgḥ' (न्राग्ः) and 'sagṃ' as printed; Bṛ. De. 3-8 to 3-10 verses, 'nañad pūrvāñjeridaṃ' and root 'añjn' as printed (zoomed); 'uṣaḥ kasmāt' (visarga) here vs 'uṣāḥ' p. 246; p. 249 header Varga 9, Pā. Sū. 6-2-172, 8-1-34, 8-1-71, 3-4-101, 7-3-78, Ṛk numeral 7 zoomed, Pā. Sū. '6-1-1[?]9' (ādyudāttaṃ dvyac chandasi) UNDECIDED (fourth glyph broken), bhāṣya 'pratamau' and 'hiḥ' as printed. Zoom boxes landed ~60–120 px high on these pages. New (pp. 250–251): p. 250 header 'Maṃ. . A. 24' (Maṇḍala numeral not printed), refs 1-13-8, 1-188-7, 2-3-7, Ṛ. Saṃ. 10-110-7 zoomed, 'English Translatin' and 'sacrifice·' [sic], Yāska's headword 'daivā hotārā' (no ya-subscript) as printed; p. 251 header Varga 9, Ṛ. Saṃ. 10-65-10, 10-66-13, 7-2-7, 10-70-7 zoomed, Tai. Saṃ. '6-1- ' printed with a blank (zoomed, two tries). New (pp. 252–253): p. 252 Ṛ. Saṃ. 3-4-7, 1-13-4, Tai. Brā. 3-6-2-2, Ai. Brā. 2-4, Ni. 8-12, Bṛ. De. 3-11 zoomed (two tries for two), praiṣa 'mandrā potārā' as printed, Pā. Sū. '7-[?]-39' (supāṃ suluk) UNDECIDED (middle digit broken); p. 253 header Varga 9, Pā. Sū. '6-1-119' (ādyudāttaṃ dvyac chandasi; same sūtra as the undecided '6-1-1[?]9' of p. 249), '4-1.85-2' (devādyañañau), 3-1-34, Ṛk numeral 8 zoomed (three tries for the first; boxes landed high), 7-2-117 and 8-3-59 read from the strip, 'antodātta' for suvācasā and 'madhyama-puruṣa' for yakṣatām as printed. New (pp. 254–255): p. 254 verse 10-110-8 'tūyametviḷā' zoomed; Nirukta quotation printed 'aitu' (for etu) and 'sakarmāṇa' (for sukarmāṇa) (zoomed; p. 255 prints both correctly, and 'manuṣyavadiha' there vs 'manuṣvadiha' p. 254); refs 1-142 and 10-110-8 read from the strip; p. 255 header Varga 9, Tai. Brā. 3-6-2-2 and praiṣa 'viyantvājasya' (ja without ya, as printed), Ni. 8-13 zoomed (first boxes landed ~100 px low), Ai. Brā. 2-4 read from the strip, bhāṣya 'iḍā' (ḍa) as printed. New (pp. 256–257): p. 256 Bṛ. De. 3-12 to 14 verses zoomed, 'amū sthitādhi' (no anusvara) as printed, 'vāgsyai [?]' UNDECIDED (ga with sa- and ya-subscripts as it looks), 'Bṛ. Pe. 2-72 to 82' (abbreviation as printed), Bṛ. Ḍe. 1-90 (as printed; two tries), 1-108, Ṛ. Saṃ. 1-13-9, 5-5-8 (three tries; boxes landed left), 9-5-8, Bṛ. De. (3-13) (two tries), Ṛ. Saṃ. 3-4-3 zoomed; p. 257 header Varga 9, '7-16-8' (ghṛtahastā; flat-footed first digit, two tries), Ṛ. Saṃ. 3-29-3, 4-25-4 zoomed, 10-70-8 and Bṛ. De. 1-108 (prose; zoom missed twice) read from the strip, Macdonell Vedic Mythology p. 87. New (pp. 258–259): p. 258 Ṛ. Saṃ. 1-89-3 (three tries), 2-30-8 (two tries), 3-54-13 (three tries; boxes landed high), 5-42-12, 5-43-11, 5-46-2, 10-65-1, Griffith's '2-3' zoomed, '1-2' read from the strip, verse (4) opening 'pamūnaso' as printed (zoomed); p. 259 header Varga 9, Ṛ. Saṃ. 10-65-13, 10-131-5, 10-184-2 (first digit broken, read as 1), 7-95-2 zoomed, 'Genleral', 'describd', 'Magastheneses', 'modren' [sic], '(Sismur)' and 'paṃcājātā' as printed.
+### Printed p. 260 (PDF 279)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188". Ṛk 8, Special Topics concluded; Vyākaraṇa-prakriyā; end of Ṛk 8; Ṛk 9 begins.)*
+
+*(Special Topics, continued.)* … the river may have sunk away (dried up) in the desert before joining the sea (See Muir's Sanskrit Texts Vol· II page 393) *(as printed)*. The account of the river sinking away in the desert in this manner is given in the Mahābhārata too (Vanaparva — the description of the tīrtha-yātrā) and in the Manusaṃhitā (1-21) *(so printed; zoomed)*. For all these reasons it may be said that the present river Sarasuti itself must have been the former river Sarasvatī.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly).* भारति (*bhārati*) — being included in the *śārṅgaravādi* group, the suffix ञीन् (*ñīn*) by शार्ङ्गरवादिभ्यो ञीन् (*śārṅgaravādibhyo ñīn*) *(so the sūtra name reads in the print)* (Pā. Sū. 4-1-73) *(zoomed, two tries)*; standing at the beginning of the pāda, it takes no vocative nighāta; initial udātta by आमंत्रितस्य (*āmaṃtritasya*) (Pā. Sū. 6-1-198) *(zoomed, two tries)*. इळे (*iḷe*) — by आमंत्रितं पूर्वमविद्यमानवत् (*āmaṃtritaṃ pūrvamavidyamānavat*) (Pā. Sū. 8-1-72) *(zoomed, two tries)* the preceding vocative counts as non-existent, so the word is not treated as following a pada and is not wholly anudātta; initial udātta as before; for the following सरस्वति (*sarasvati*) too both preceding words count as absent, so it too has initial udātta by the former sūtra. उपब्रुवे (*upabruve*) — root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*); *laṭ*, *uttama-puruṣa* singular; nighāta barred by यद्वृत्तान्नित्यम् (*yadvṛttānnityam*) (Pā. Sū. 8-1-66) *(zoomed)*, so antodātta by the suffix accent; the gati उप (*upa*) wholly anudātta by तिङ्ङ् चोदात्तवति (*tiṅṅ codāttavati*) (Pā. Sū. 8-1-71) *(zoomed)*. चोदयत (*codayata*) — root चुद प्रेरणे (*cuda preraṇe*); *loṭ*, *madhyama-puruṣa* plural; nighāta of a finite verb, standing after a non-finite word. श्रिये (*śriye*) — dative singular; udātta on the case-ending by सावेकाचस्तृतीयादिः (*sāvekācastṛtīyādiḥ*) (Pā. Sū. 6-1-168) *(zoomed, two tries)*.
+
+*(A short rule closes Ṛk 8.)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥** *(Ṛk numeral zoomed.)*
+
+> त्वष्टा रूपाणि हि प्रभुः पशून्विश्वान्त्समानजे ।
+> तेषां नः स्फातिमा यज ॥ ९ ॥
+
+> *tvaṣṭā rūpāṇi hi prabhuḥ paśūnviśvāntsamānaje |*
+> *teṣāṃ naḥ sphātimā yaja ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वष्टा । रूपाणि । हि । प्रऽभुः । पशून् । विश्वान् । संऽआनजे ।
+> तेषां । नः । स्फातिं । आ । यज ॥ ९ ॥
+
+> *tvaṣṭā | rūpāṇi | hi | pra 'bhuḥ | paśūn | viśvān | saṃ 'ānaje |*
+> *teṣāṃ | naḥ | sphātiṃ | ā | yaja ‖ 9 ‖*
+
+*(Pada "संऽआनजे" and "स्फातिं" with anusvara, as printed.)*
+
+---
+
+### Printed p. 261 (PDF 280)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9". Ṛk 9, continued.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Tvaṣṭṛ, deity of the sacrificial vessels, is able to give form to the seed laid in the womb (so Śruti); he has made all our cattle distinct; directly addressed: bring about their increase for us.
+
+> त्वष्टा यज्ञसाधनपात्राभिमानी देवो रूपाणि योनौ सृष्टानि रेतांसि रूपाणि कर्तुं प्रभुर्हि । हिशब्दः श्रुत्यंतरप्रसिद्धिद्योतनार्थः । यावच्छो वै रेतसः सिक्तस्य त्वष्टा रूपाणि विकरोति । तै. सं. १-५-९-१ । इति श्रुतेः । स देवो विश्वान् सर्वानपि पशूनस्मदीयान् गवादिकान् समानजे । सम्यगनक्ति । व्यक्तीकरोति ॥ संपूर्वादनक्तेर्लिटि तस्मान्नुडिति नुट् ॥ अथ प्रत्यक्षः । तेषामुक्तानां पशूनां स्फातिं वृद्धिं नोऽस्मदर्थमा यज । सर्वतः पूजय । कुर्वित्यर्थः ॥
+
+> *tvaṣṭā yajñasādhanapātrābhimānī devo rūpāṇi yonau sṛṣṭāni retāṃsi rūpāṇi kartuṃ prabhurhi | hiśabdaḥ śrutyaṃtaraprasiddhidyotanārthaḥ | yāvaccho vai retasaḥ siktasya tvaṣṭā rūpāṇi vikaroti | tai. saṃ. 1-5-9-1 | iti śruteḥ | sa devo viśvān sarvānapi paśūnasmadīyān gavādikān samānaje | samyaganakti | vyaktīkaroti ‖ saṃpūrvādanakterliṭi tasmānnuḍiti nuṭ ‖ atha pratyakṣaḥ | teṣāmuktānāṃ paśūnāṃ sphātiṃ vṛddhiṃ no 'smadarthamā yaja | sarvataḥ pūjaya | kurvityarthaḥ ‖*
+
+
+*(Tai. Saṃ. 1-5-9-1 and "यावच्छो वै" zoomed (1000 dpi, three tries). "पूजय" is printed with a stray mark under the प; "तस्मान्नुडिति नुट्" as printed.)*
+
+**Pratipadārtha.** त्वष्टा (*tvaṣṭā*) — Tvaṣṭṛ; रूपाणि (*rūpāṇi*) — to give forms to the created seeds and perfect them; प्रभुः हि (*prabhuḥ hi*) — is able; (he) विश्वान् पशून् (*viśvān paśūn*) — all the cattle and the like belonging to us; समानजे (*samānaje*) — perfected, giving them individual form; (O Tvaṣṭṛ!) तेषां (*teṣāṃ*) — of those cattle and the like; स्फातिं (*sphātiṃ*) — increase; नः (*naḥ*) — for us; आ यज (*ā yaja*) — make.
+
+**Bhāvārtha.** Tvaṣṭṛ is able to give forms to the created seeds and perfect them. He has perfected all the cattle and the like belonging to us, giving them individual form. O Tvaṣṭṛ, creating those cattle and the like for us, increase their number.
+
+**English Translation (as printed).**
+
+Twashtri, who is the master (in fashioning) the forms (of beings), has made all animals distinct; grant us, (Twashtri), their increase· [sic]
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**Tvaṣṭā** — Yāska's explanation:
+
+> त्वष्टा । त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकर्मणस्त्वक्षतेर्वा स्यात्करोतिकर्मणः ॥ माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः ॥
+
+> *tvaṣṭā | tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikarmaṇastvakṣatervā syātkarotikarmaṇaḥ ‖ mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇiḥ ‖*
+
+(Ni. 8-14) *(zoomed, two tries)*
+
+That is, the Nairuktas say the word *tvaṣṭā* means one who pervades quickly, or one who is shining, or one who does works (works of craft); some say he is the *mādhyamika*, that is, one who is in the middle between heaven and earth; Śākapūṇi says he is Agni.
+
+---
+
+### Printed p. 262 (PDF 281)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188" ("Sū" without its dot). Ṛk 9, Special Topics continued.)*
+
+Some also say that Tvaṣṭṛ, like Viśvakarman, is the craftsman of the gods. For in the ṛk Yāska has given as an example,
+
+> य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ॥
+
+> *ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhuvanāni viśvā |*
+> *tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān ‖*
+
+(Ṛ. Saṃ. 10-110-9) *(zoomed, three tries)*
+
+— it is said that Tvaṣṭṛ is the maker of heaven and earth and the causal agent of the form, beauty, growth, increase and the like suited to each of the creatures in all the worlds. Besides this, Śruti (Yajurveda) sentences such as त्वष्टा वै पशूनां मिथुनानां रूपकृत् (*tvaṣṭā vai paśūnāṃ mithunānāṃ rūpakṛt*) (Tai. Saṃ. 6-1-8-5) *(zoomed, 600 and 1000 dpi)*, त्वष्टा रूपाणामधिपतिः (*tvaṣṭā rūpāṇāmadhipatiḥ*) (Tai. Saṃ. 3-3) *(so printed; zoomed)*, त्वष्टा रूपाणि विकरोति (*tvaṣṭā rūpāṇi vikaroti*) set forth Tvaṣṭṛ's skill in fashioning things. And
+
+> मह्यं त्वष्टा वज्रमतक्षदायसं मयि देवासोऽवृजन्नपि क्रतुं ॥
+
+> *mahyaṃ tvaṣṭā vajramatakṣadāyasaṃ mayi devāso 'vṛjannapi kratuṃ ‖*
+
+(Ṛ. Saṃ. 10-48-3) *(zoomed)*
+
+— Indra has said that Tvaṣṭṛ fashioned for him the vajra weapon of steel. That he has made and given to the deities the materials of sacrifice they need and many other things is said in many mantras of the Ṛgveda.
+
+Tvaṣṭṛ is well known as one of the twelve Ādityas. For that very reason Yāska has explained the meaning as "one who is shining".
+
+Among the Śruti sentences that convey individual views about the deity Tvaṣṭṛ, the ones cited below indicate only the deity connected with the Āprī sūktas.
+
+*(Praiṣa read with a zoom: "अचिष्टुम्" and "सुपोषः पोषैः" as they look.)*
+
+> होता यक्षत्त्वष्टारमचिष्टुमपाकग्ं रेतोधां विश्रवसं यशोधां ।
+> पुरुरूपमकामकर्शनग्ं सुपोषः पोषैः स्यात्सुवीरो वीरैर्वेत्वाज्यस्य होतर्यज ।
+
+> *hotā yakṣattvaṣṭāramaciṣṭumapākagṃ retodhāṃ viśravasaṃ yaśodhāṃ |*
+> *pururūpamakāmakarśanagṃ supoṣaḥ poṣaiḥ syātsuvīro vīrairvetvājyasya hotaryaja |*
+
+(Tai. Brā. 3-6-2-2) *(zoomed, 600 and 1000 dpi)*
+
+In this mantra there are the epithets अचिष्टुं (*aciṣṭuṃ*), अपाकं (*apākaṃ*), रेतोधां (*retodhāṃ*), विश्रवसं (*viśravasaṃ*), यशोधां (*yaśodhāṃ*), पुरुरूपं (*pururūpaṃ*), अकामकर्शनं (*akāmakarśanaṃ*). Among these —
+
+**अचिष्टं (*aciṣṭaṃ*)** *(so printed in this heading, beside "अचिष्टुं" in the list; zoomed)* — that is, चेष्टनरहितं, चांचल्यरहितं, स्थिरं (*ceṣṭanarahitaṃ, cāṃcalyarahitaṃ, sthiraṃ*): one who is not restless but remains steady;
+
+**अपाकं (*apākaṃ*)** — that is, अबालं, प्राज्ञं (*abālaṃ, prājñaṃ*): one who is not a child but wise;
+
+---
+
+---
+
+### Printed p. 263 (PDF 282)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9". Ṛk 9, Special Topics continued.)*
+
+**रेतोधां (*retodhāṃ*)** — for this, पुत्रादिबीजस्य यजमाने धारयितारं (*putrādibījasya yajamāne dhārayitāraṃ*): one who sows in the sacrificer the seed of sons and the like;
+
+**विश्रवसं (*viśravasaṃ*)** — for this, विविधकीर्तियुक्तं (*vividhakīrtiyuktaṃ*): one endowed with fame of many kinds;
+
+**यशोधां (*yaśodhāṃ*)** — that is, यजमाने यशसः धारयितारं (*yajamāne yaśasaḥ dhārayitāraṃ*): one who makes the sacrificer a sharer of glory;
+
+**पुरुरूपं (*pururūpaṃ*)** — for this, बहुरूपं (*bahurūpaṃ*): one having forms of many kinds;
+
+**अकामकर्शनं (*akāmakarśanaṃ*)** — that is, कामानां अनाशयितारं (*kāmānāṃ anāśayitāraṃ*): one who fulfils the desired objects of the sacrificer — so it is explained.
+
+These epithets make known the individual nature of Tvaṣṭṛ. The author of the Nirukta, showing the derivation of the word *tvaṣṭṛ* (8-14) *(zoomed)* —
+
+*("दीप्तिकमणस्" without the repha, as printed.)*
+
+> त्वष्टा तूर्णमश्नुत इति नैरुक्ताः । त्विषेर्वा स्याद्दीप्तिकमणस्त्वक्षतेर्वा स्यात् करोतिकर्मणः ।
+
+> *tvaṣṭā tūrṇamaśnuta iti nairuktāḥ | tviṣervā syāddīptikamaṇastvakṣatervā syāt karotikarmaṇaḥ |*
+
+— has said that the word may be formed according to the Nairuktas' view that the name is from pervading quickly, or from the root त्विष् (*tviṣ*) meaning "to shine", or from the root त्वक्ष् (*tvakṣ*) with the sense of making. By these derivations Tvaṣṭṛ means one who pervades quickly, one who shines, and one who fashions. To show to which world this deity belongs —
+
+> माध्यमिकस्त्वष्टेत्याहुर्मध्यमे च स्थाने समाम्नातः । अग्निरिति शाकपूणिः ।
+
+> *mādhyamikastvaṣṭetyāhurmadhyame ca sthāne samāmnātaḥ | agniriti śākapūṇiḥ |*
+
+— he has made known the views that some say he belongs to the group of deities of the mid-region, and Śākapūṇi that he is Agni. In the Bṛhaddevatā, approving the first view,
+
+*(Verse zoomed: "सूक्तं स्य तेन" as printed.)*
+
+> त्वष्टा रूपविकर्ता च योऽसौ माध्यमिके गणे ।
+> स्तुतः स च निपातेन सूक्तं स्य तेन विद्यते ।
+
+> *tvaṣṭā rūpavikartā ca yo 'sau mādhyamike gaṇe |*
+> *stutaḥ sa ca nipātena sūktaṃ sya tena vidyate |*
+
+(Bṛ. De. 3-[?]) *(UNDECIDED: after "3-" a round 2-like loop fused with a 5-like glyph with a dot above; zoomed at 500 and 1000 dpi)*
+
+— in this śloka it is said that he belongs to the group of deities of the middle world. Before this,
+
+*(Verses zoomed: "वर्चः" as it looks, "यन्मथु" as printed.)*
+
+> त्वष्टा तु यस्त्वयमेव पार्थिवोऽग्निरिति स्तुतिः ।
+> पार्थिवस्यास्य वर्चः स्युः कस्याप्यृक् चार्तवेषु च ॥
+> त्विषितस्त्वक्षतेर्वा स्यात् तूर्णमश्नुत एव वा ।
+> कर्मसूत्पारणो वेति तेन नाम्नैतदश्नुते ॥
+> यः सहस्रतमो रश्मी रवेश्चंद्रमुपाश्रितः ।
+> सोऽपि त्वष्टारमेवाग्निं परं चेह च यन्मथु ॥
+
+> *tvaṣṭā tu yastvayameva pārthivo 'gniriti stutiḥ |*
+> *pārthivasyāsya varcaḥ syuḥ kasyāpyṛk cārtaveṣu ca ‖*
+> *tviṣitastvakṣatervā syāt tūrṇamaśnuta eva vā |*
+> *karmasūtpāraṇo veti tena nāmnaitadaśnute ‖*
+> *yaḥ sahasratamo raśmī raveścaṃdramupāśritaḥ |*
+> *so 'pi tvaṣṭāramevāgniṃ paraṃ ceha ca yanmathu ‖*
+
+(Bṛ. De. 3-15 to 16) *(zoomed)*
+
+— there are indications in some places that the praise belonging to the terrestrial Agni is itself addressed to Tvaṣṭṛ too, and that he is a deity connected with the earth. In the sūktas concerning the seasons too he is described as a portion of Agni.
+
+---
+
+### Printed p. 264 (PDF 283)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188". Ṛk 9, Special Topics continued.)*
+
+— in these verses the very derivation of the word *tvaṣṭṛ* found in the Nirukta is then given. It is also described that, just as the thousandth ray of the sun which pervades the moon pervades the *madhu*, the other world and the earth, so it is in Tvaṣṭṛ too *(the Kannada reads the printed "यन्मथु" as madhu)*. Chiefly, the author of the Bṛhaddevatā has approved in this matter the view of Śākapūṇi stated in the Nirukta. In the Nighaṇṭu Tvaṣṭṛ is placed first together with the Āprī deities (5-2), then with the deities of the mid-region (5-5), and first among the deities of the heavenly world (5-6) *(all three zoomed)*.
+
+The story of Tvaṣṭṛ and the ṛṣi Dadhīci has been told in the Special Topics of sūkta 1-139 *(so printed; zoomed, three tries)*. In the Aitareya Brāhmaṇa,
+
+*(Zoomed at 800 dpi: after "त्वाष्टि" the next word has lost its base letter; only a ra-subscript and the ī-sign with anusvara are printed.)*
+
+> त्वष्टारं यजति वाग्वै त्वष्टा वाग्घीदं सर्वं । त्वाष्टि [?] वाचमेव तत्प्रीणाति वाचं यजमाने दधाति ।
+
+> *tvaṣṭāraṃ yajati vāgvai tvaṣṭā vāgghīdaṃ sarvaṃ | tvāṣṭi [?] vācameva tatprīṇāti vācaṃ yajamāne dadhāti |*
+
+(Ai. Brā. 2-4) *(zoomed)*
+
+— by this sentence the identity of Tvaṣṭṛ with speech has been stated; this too is one view.
+
+> य इमे द्यावापृथिवी जनित्री रूपैरपिंशद्भुवनानि विश्वा ।
+> तमद्य होतरिषितो यजीयान् देवं त्वष्टारमिह यक्षि विद्वान् ।
+
+> *ya ime dyāvāpṛthivī janitrī rūpairapiṃśadbhuvanāni viśvā |*
+> *tamadya hotariṣito yajīyān devaṃ tvaṣṭāramiha yakṣi vidvān |*
+
+(Ṛ. Saṃ. 10-110-9) *(zoomed)*
+
+— in this ṛk he is praised as having a divine birth, and therefore as showing his primacy even at the times of creation. The view that Tvaṣṭṛ is most ancient —
+
+> इह त्वष्टारमग्रियं विश्वरूपमुपह्वये । अस्माकमस्तु केवलः ॥
+
+> *iha tvaṣṭāramagriyaṃ viśvarūpamupahvaye | asmākamastu kevalaḥ ‖*
+
+(Ṛ. Saṃ. 1-13-10) *(zoomed, two tries)*
+
+> त्वष्टारमग्रजां गोपां पुरोयावानमा हुवे ।
+> इंदुरिंद्रो वृषा हरिः पवमानः प्रजापतिः ॥
+
+> *tvaṣṭāramagrajāṃ gopāṃ puroyāvānamā huve |*
+> *iṃduriṃdro vṛṣā hariḥ pavamānaḥ prajāpatiḥ ‖*
+
+(Ṛ. Saṃ. 9-5-9) *(zoomed, two tries)*
+
+— is made known in ṛks such as these by the epithets अग्रिय (*agriya*) and अग्रज (*agraja*) *(so printed)*.
+
+> त्वष्टा रूपाणि हि प्रभुः पशून्विश्वान्त्समानजे । तेषां नः स्फातिमा यज ।
+
+> *tvaṣṭā rūpāṇi hi prabhuḥ paśūnviśvāntsamānaje | teṣāṃ naḥ sphātimā yaja |*
+
+(Ṛ. Saṃ. 1-188-9) *(zoomed, two tries)*
+
+> त्वष्टा रूपाणि विकरोति ।
+
+> *tvaṣṭā rūpāṇi vikaroti |*
+
+(Tai. Saṃ. 1-5-9-2) *(zoomed, two tries)*
+
+— sentences such as these praise Tvaṣṭṛ's work of fashioning. Moreover, he has the epithet *viśvarūpa* (Ṛ. Saṃ. 1-13-10) *(zoomed)*.
+
+---
+
+---
+
+### Printed p. 265 (PDF 284)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9". Ṛk 9: the Special Topics ended on p. 264; Vyākaraṇa-prakriyā; end of Ṛk 9; Ṛk 10 begins.)*
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly).* समानजे (*samānaje*) — prefix सम् (*sam*); root अंजू व्यक्तिम्रक्षणकांतिगतिषु (*aṃjū vyaktimrakṣaṇakāṃtigatiṣu*); *liṭ* in Vedic usage; ए (*e*) for त (*ta*) by लिटस्तझयोरेशिरेच् (*liṭastajhayoreśirec*) (Pā. Sū. 3-4-81) *(zoomed)*; loss of *n*, the suffix being treated as *kit*; on reduplication, the augment नुट् (*nuṭ*) by तस्मान्नुट् द्विहलः (*tasmānnuṭ dvihalaḥ*) (Pā. Sū. 7-4-71) *(zoomed)*; nighāta barred by हि च (*hi ca*) (Pā. Sū. 8-1-34) *(zoomed)*, so antodātta by the suffix accent; अनुदात्त for सम् (*sam*) by तिङ्ङ् चोदात्तवति (*tiṅṅ codāttavati*) (Pā. Sū. 8-1-71) *(zoomed)*. स्फातिम् (*sphātim*) — root स्फायी वृद्धौ (*sphāyī vṛddhau*); suffix क्तिच् (*ktic*) by क्तिच्क्तौ च— (*kticktau ca—*) (Pā. Sū. 3-3-174) *(zoomed, two tries)*; loss of *ya* by लोपो व्योः— (*lopo vyoḥ—*); antodātta, being *cit*. यज (*yaja*) — root यज देवपूजादिषु (*yaja devapūjādiṣu*); *loṭ*, *madhyama-puruṣa* singular; nighāta of a finite verb.
+
+*(Rule with ":o:" — end of Ṛk 9.)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥** *(Ṛk numeral zoomed.)*
+
+> उप त्मन्या वनस्पते पाथो देवेभ्यः सृज ।
+> अग्निर्हव्यानि सिष्वदत् ॥ १० ॥
+
+> *upa tmanyā vanaspate pātho devebhyaḥ sṛja |*
+> *agnirhavyāni siṣvadat ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> उप । त्मन्या । वनस्पते । पाथः । देवेभ्यः । सृज ।
+> अग्निः । हव्यानि । सिस्वदत् ॥ १० ॥
+
+> *upa | tmanyā | vanaspate | pāthaḥ | devebhyaḥ | sṛja |*
+> *agniḥ | havyāni | sisvadat ‖ 10 ‖*
+
+*(Pada "सिस्वदत्" (dental s) beside Saṃhitā "सिष्वदत्", as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* O Vanaspati, deity of the sacrificial post, of yourself send forth food in the form of the animal to the gods (without the post no animal is bound, so no oblation); then may Agni sweeten the oblations.
+
+*(Bhāṣya "त्मन्यात्मन्यैव" as printed; zoomed.)*
+
+> हे वनस्पते यूपाभिमानि देव त्मन्यात्मन्यैव देवेभ्योऽग्न्यादिभ्यः पाथः पशुरूपमन्नमुप सृज । उत्पादय । यूपाभावे पशुनियोजनाभावेन हविषोऽभावात् । त्वय्येवं कृतवति सत्यग्निर्हव्यानि हवींषि सिष्वदत् । स्वदयतु । स्वादूकरोतु ॥
+
+> *he vanaspate yūpābhimāni deva tmanyātmanyaiva devebhyo 'gnyādibhyaḥ pāthaḥ paśurūpamannamupa sṛja | utpādaya | yūpābhāve paśuniyojanābhāvena haviṣo 'bhāvāt | tvayyevaṃ kṛtavati satyagnirhavyāni havīṃṣi siṣvadat | svadayatu | svādūkarotu ‖*
+
+
+**Pratipadārtha.** वनस्पते (*vanaspate*) — O deity presiding over the sacrificial post; त्मन्या (*tmanyā*) — by your own nature; देवेभ्यः (*devebhyaḥ*) — for the deities Agni and the rest; पाथः (*pāthaḥ*) — food in the form of the animal; उप सृज (*upa sṛja*) — create; (then) अग्निः (*agniḥ*) — Agni; हव्यानि (*havyāni*) — the oblations; सिस्वदत् (*sisvadat*) — may he taste *(headword with dental s, as printed)*.
+
+*(Ṛk 10, Bhāvārtha follows on p. 266.)*
+
+---
+
+**Progress note:** Done through printed p. 265 (PDF 284; printed = PDF − 19, pp. 260–265 checked, no duplicate or missing page). Sūkta 188 (samiddho adya, Agastya's Āprī sūkta; 11 ṛks, gāyatrī, Varga 8-9): Ṛks 1–9 complete (Ṛk 9's Special Topics ended on p. 264, its grammar on p. 265); Ṛk 10 (Vanaspati) OPEN — Saṃhitā, Pada, bhāṣya and Pratipadārtha written; continue on p. 266 / PDF 285 with Ṛk 10's Bhāvārtha, printed English, Special Topics and grammar, then Ṛk 11 (end of the sūkta; check for colophon, then Sūkta 189 and any Pīṭhike). Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md. Flags from p. 252: New (pp. 252–253): p. 252 Ṛ. Saṃ. 3-4-7, 1-13-4, Tai. Brā. 3-6-2-2, Ai. Brā. 2-4, Ni. 8-12, Bṛ. De. 3-11 zoomed (two tries for two), praiṣa 'mandrā potārā' as printed, Pā. Sū. '7-[?]-39' (supāṃ suluk) UNDECIDED (middle digit broken); p. 253 header Varga 9, Pā. Sū. '6-1-119' (ādyudāttaṃ dvyac chandasi; same sūtra as the undecided '6-1-1[?]9' of p. 249), '4-1.85-2' (devādyañañau), 3-1-34, Ṛk numeral 8 zoomed (three tries for the first; boxes landed high), 7-2-117 and 8-3-59 read from the strip, 'antodātta' for suvācasā and 'madhyama-puruṣa' for yakṣatām as printed. New (pp. 254–255): p. 254 verse 10-110-8 'tūyametviḷā' zoomed; Nirukta quotation printed 'aitu' (for etu) and 'sakarmāṇa' (for sukarmāṇa) (zoomed; p. 255 prints both correctly, and 'manuṣyavadiha' there vs 'manuṣvadiha' p. 254); refs 1-142 and 10-110-8 read from the strip; p. 255 header Varga 9, Tai. Brā. 3-6-2-2 and praiṣa 'viyantvājasya' (ja without ya, as printed), Ni. 8-13 zoomed (first boxes landed ~100 px low), Ai. Brā. 2-4 read from the strip, bhāṣya 'iḍā' (ḍa) as printed. New (pp. 256–257): p. 256 Bṛ. De. 3-12 to 14 verses zoomed, 'amū sthitādhi' (no anusvara) as printed, 'vāgsyai [?]' UNDECIDED (ga with sa- and ya-subscripts as it looks), 'Bṛ. Pe. 2-72 to 82' (abbreviation as printed), Bṛ. Ḍe. 1-90 (as printed; two tries), 1-108, Ṛ. Saṃ. 1-13-9, 5-5-8 (three tries; boxes landed left), 9-5-8, Bṛ. De. (3-13) (two tries), Ṛ. Saṃ. 3-4-3 zoomed; p. 257 header Varga 9, '7-16-8' (ghṛtahastā; flat-footed first digit, two tries), Ṛ. Saṃ. 3-29-3, 4-25-4 zoomed, 10-70-8 and Bṛ. De. 1-108 (prose; zoom missed twice) read from the strip, Macdonell Vedic Mythology p. 87. New (pp. 258–259): p. 258 Ṛ. Saṃ. 1-89-3 (three tries), 2-30-8 (two tries), 3-54-13 (three tries; boxes landed high), 5-42-12, 5-43-11, 5-46-2, 10-65-1, Griffith's '2-3' zoomed, '1-2' read from the strip, verse (4) opening 'pamūnaso' as printed (zoomed); p. 259 header Varga 9, Ṛ. Saṃ. 10-65-13, 10-131-5, 10-184-2 (first digit broken, read as 1), 7-95-2 zoomed, 'Genleral', 'describd', 'Magastheneses', 'modren' [sic], '(Sismur)' and 'paṃcājātā' as printed. New (pp. 260–261): p. 260 header Sū. 188, Manusaṃhitā ref '1-21' as printed, Pā. Sū. 4-1-73 (two tries), 6-1-198 (two tries), 8-1-72 (two tries), 8-1-66, 8-1-71, 6-1-168 (two tries), Ṛk numeral 9 zoomed (boxes landed a line high or low), 'Muir's Sanskrit Texts Vol· II page 393' as printed, Pada 'saṃ'ānaje', 'sphātiṃ' (anusvara) as printed; p. 261 header Varga 9, Tai. Saṃ. 1-5-9-1, bhāṣya 'yāvaccho vai retasaḥ' (1000 dpi, three tries), Ni. 8-14 (two tries) zoomed, bhāṣya 'tasmānnuḍiti nuṭ' as printed, printed English 'increase·' [sic]. New (p. 262): Ṛ. Saṃ. 10-110-9 (three tries), Tai. Saṃ. 6-1-8-5 (600 and 1000 dpi), Tai. Saṃ. '3-3' (as printed, two numbers only), Ṛ. Saṃ. 10-48-3, Tai. Brā. 3-6-2-2 (1000 dpi; last two glyphs read as 2) zoomed; praiṣa 'aciṣṭum', 'supoṣaḥ poṣaiḥ' and heading 'aciṣṭaṃ' vs list 'aciṣṭuṃ' as printed (zoomed). Zoom boxes landed a line or more high until line positions were measured from the strip's ink profile (displayed strips appear ~0.8 of true size). New (pp. 263–264): p. 263 header Varga 9, Ni. 8-14, Bṛ. De. 3-15 to 16 zoomed, Bṛ. De. '3-[?]' for 'tvaṣṭā rūpavikartā ca' UNDECIDED (2-like loop fused with a 5-like glyph; 500 and 1000 dpi), verses 'sūktaṃ sya tena vidyate', 'varcaḥ' (as it looks), 'yanmathu', Ni. 'dīptikamaṇas' (no repha) as printed; p. 264 header Sū. 188, Nighaṇṭu 5-2, 5-5, 5-6, Dadhīci story 'sūkta 1-139' as printed, Ai. Brā. 2-4, Ṛ. Saṃ. 10-110-9, 1-13-10 (twice), 9-5-9, 1-188-9, Tai. Saṃ. 1-5-9-2 zoomed (two or three tries each), Ai. Brā. 'tvāṣṭi [?]' UNDECIDED (word with its base letter missing), epithets 'agriya', 'agraja' as printed. New (p. 265): header Varga 9, Pā. Sū. 3-4-81, 7-4-71, 8-1-34, 8-1-71, 3-3-174 (two tries, 800 dpi), Ṛk numeral 10 zoomed; bhāṣya 'tmanyātmanyaiva' as printed (zoomed); Pada and Pratipadārtha 'sisvadat' (dental s) vs Saṃhitā/bhāṣya 'siṣvadat', as printed.
