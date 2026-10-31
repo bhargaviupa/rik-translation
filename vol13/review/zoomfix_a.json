@@ -454,5 +454,13 @@
   "old": "वेतसून् [?] भिष्टये; Ṛ.Saṃ. 1-101-9, 1-63-3, 1-174-…, 10-49-4, 1-53-10, 8-53-2 [?]",
   "new": "वेतसूरभिष्टये; refs without [?]; 1-174-4",
   "note": "190dpi: print ವೇತಸೂರಭಿಷ್ಟಯೇ; refs legible (1-174-4 read ೧-೧೭೪-೪)."
+ },
+ {
+  "pdf": 358,
+  "printed": 338,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 10-86-23 [?]; जहि भिन्धि",
+  "new": "10-86-23; जहि भिन्दि",
+  "note": "190dpi: ೧೦-೮೬-೨೩; print ಜಹಿ, ಭಿಂದಿ. Not resolved: the Nirukta follow-up ‘tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare …’ (print …ಉತೇರತ್ರ… ತದ್ಭ್ರ…, garbled/unclear) left as is."
  }
 ]

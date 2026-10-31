@@ -8781,9 +8781,9 @@ Some *asuras*, having obtained from Brahmā the boon that "we may not be killed 
 
 Or it may be said that Indra is praised as the Āditya, stationed in heaven (*dyuḥsthāna*), in the form of Āditya, as *indra eva dyuḥsthānasya sann ādityātmanā stūyate*. In another place Sāyaṇa states this same point:
 
-> सूरः सूर्यः जातः उदितः सन् ओजसा स्वकीयेन तेजसा युक्तः तमोनिवारणार्थं असुरजयाय वा चक्रोपलक्षितं रथं प्रकर्षेण उद्यतं करोति । ततः पूर्वमरुणः तद्रथयन्ता मन्देहाद्यसुराणां समीपे वाचं तेषां जहि भिन्धि इत्यादि ध्वनिं मुषायति ।
+> सूरः सूर्यः जातः उदितः सन् ओजसा स्वकीयेन तेजसा युक्तः तमोनिवारणार्थं असुरजयाय वा चक्रोपलक्षितं रथं प्रकर्षेण उद्यतं करोति । ततः पूर्वमरुणः तद्रथयन्ता मन्देहाद्यसुराणां समीपे वाचं तेषां जहि भिन्दि इत्यादि ध्वनिं मुषायति ।
 
-> *sūraḥ sūryaḥ jātaḥ uditaḥ san ojasā svakīyena tejasā yuktaḥ tamonivāraṇārthaṃ asurajayāya vā cakropalakṣitaṃ rathaṃ prakarṣeṇa udyataṃ karoti | tataḥ pūrvam aruṇaḥ tadrathayantā mandehādyasurāṇāṃ samīpe vācaṃ teṣāṃ jahi bhindhi ity ādi dhvaniṃ muṣāyati |* [as read: [?]]
+> *sūraḥ sūryaḥ jātaḥ uditaḥ san ojasā svakīyena tejasā yuktaḥ tamonivāraṇārthaṃ asurajayāya vā cakropalakṣitaṃ rathaṃ prakarṣeṇa udyataṃ karoti | tataḥ pūrvam aruṇaḥ tadrathayantā mandehādyasurāṇāṃ samīpe vācaṃ teṣāṃ jahi bhindi ity ādi dhvaniṃ muṣāyati |* [as read: [?]]
 
 (Sā. Bhā.). As soon as the sun has risen, endowed with his own splendour, he makes the chariot, marked with its wheel, move strongly, for the removal of darkness or for the conquest of the *asuras*; and even earlier, Aruṇa, the charioteer of that chariot, brings the sun's chariot to the presence of the host of Rākṣasas known as the Mandehas, and steals from their mouths the cry "kill, split" and the like, which they utter in battle: so it is said. The Nirukta-writers:
 
@@ -8791,7 +8791,7 @@ Or it may be said that Indra is praised as the Āditya, stationed in heaven (*dy
 
 > *yad udañco vṛṣākape gṛham indrājagantana | kvasya pulvagho mṛgaḥ kam agañ janayopano viśvasmād indra uttaraḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-86-23 [?]) — quoting this ṛk, "*tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare … ādityam*" [garbled in the print: [?]] — Indra is "invisible": people, by a knowledge of the Āditya's rising and setting, are deluded into thinking Indra and Āditya are different; but this is not true knowledge. The deity…
+(Ṛ. Saṃ. 10-86-23) — quoting this ṛk, "*tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare … ādityam*" [garbled in the print: [?]] — Indra is "invisible": people, by a knowledge of the Āditya's rising and setting, are deluded into thinking Indra and Āditya are different; but this is not true knowledge. The deity…
 
 ---
 
