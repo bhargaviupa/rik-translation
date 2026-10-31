@@ -1646,5 +1646,21 @@
   "old": "(Uṇ. Sū. 3-353 [?]); (Uṇ. Sū. 1-2 [?])",
   "new": "(Uṇ. Sū. 3-353); (Uṇ. Sū. 1-2)",
   "note": "User's spreadsheet kannada_numerals.xlsx (sheet page n = printed 280+n; Arabic-numeral list without reference types): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 337,
+  "printed": 337,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-101-9 (my 190dpi reading)",
+  "new": "1-121-9 [?]",
+  "note": "The spreadsheet kannada_numerals.xlsx reads 1-121-9, and the original reading on p.381 (same quotation) was 1-121-9; my single reading of the middle glyph (101) is not firm, so the ref is changed to 1-121-9 with [?]."
+ },
+ {
+  "pdf": 0,
+  "printed": 0,
+  "status": "unresolved",
+  "old": "Disagreements between my viewed readings and kannada_numerals.xlsx (kept as viewed)",
+  "new": "(no change)",
+  "note": "p.281 Ni 11-12 (sheet 11-17); p.296 Pā 3-4-94 (sheet 3-4-64); p.308 Ṛ 3-4-4 (sheet 2-4-4); p.316 Ṛ 8-20-12 (sheet 8-20-17, and the original file also had 17 — worth a 2nd look); p.338 Ni… Ṛ 10-86-23 (sheet 10-86-22); p.349 Ni 2-19 (sheet 2-18); p.354 Pā 3-4-100 (sheet 3-4-110); p.356 Ni 3-24 ×2 (sheet 2-24). In each I had viewed the page; the sheet is machine-read."
  }
 ]
