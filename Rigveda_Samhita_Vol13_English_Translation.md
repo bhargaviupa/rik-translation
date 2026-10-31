@@ -7113,11 +7113,11 @@ By such sentences the *sajoṣatva* ("concord") of the Maruts and Indra is shown
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
-- ***satām*** — genitive plural; by "*śatur anumo nadyajādī*" (Pā. Sū. 6-1-173 [?]) the case ending is *udātta*.
+- ***satām*** — genitive plural; by "*śatur anumo nadyajādī*" (Pā. Sū. 6-1-173) the case ending is *udātta*.
 - ***prapathintamam*** — "*atiśāyane tamabiṣṭhanau*" gives the suffix *tamap*; being *pit*, it is *anudātta*.
-- ***paritaṃsayadhyai*** — *pari* is a preposition; root *tasi alaṅkāre*, *curādi*; "*satyāpapāśa*…" (Pā. Sū. 3-1-25 [?]) gives *ṇic* in the sense of its own; "*idito num dhātoḥ*" (Pā. Sū. 7-1-58 [?]) gives *num*; to this, to show purpose, "*tumarthe sesenase*…" (Pā. Sū. 3-4-9 [?]) gives the suffix *adhyai*; the first syllable of the suffix is *udātta*; being ending in *ejanta* *kṛdanta*, it takes the name *avyaya*.
+- ***paritaṃsayadhyai*** — *pari* is a preposition; root *tasi alaṅkāre*, *curādi*; "*satyāpapāśa*…" (Pā. Sū. 3-1-25) gives *ṇic* in the sense of its own; "*idito num dhātoḥ*" (Pā. Sū. 7-1-58) gives *num*; to this, to show purpose, "*tumarthe sesenase*…" (Pā. Sū. 3-4-9) gives the suffix *adhyai*; the first syllable of the suffix is *udātta*; being ending in *ejanta* *kṛdanta*, it takes the name *avyaya*.
 - ***sajoṣasaḥ*** — *samānaṃ joṣaḥ yeṣāṃ te sajoṣasaḥ*; by "*samānasya chandasi*…" the word *samāna* becomes *sa*.
-- ***anumadanti*** — root *mada tṛptiyoge*; *laṭ*, third person plural; by "*yadvṛttānnityam*" (Pā. Sū. 8-1-66 [?]) *nighāta* is prohibited; by "*tiṅ ci codāttavati*" (Pā. Sū. 8-1-71 [?]) the preposition (*anu*) takes *nighāta* accent. ‖ 7 ‖
+- ***anumadanti*** — root *mada tṛptiyoge*; *laṭ*, third person plural; by "*yadvṛttānnityam*" (Pā. Sū. 8-1-66) *nighāta* is prohibited; by "*tiṅ ci codāttavati*" (Pā. Sū. 8-1-71) the preposition (*anu*) takes *nighāta* accent. ‖ 7 ‖
 
 ---
 
