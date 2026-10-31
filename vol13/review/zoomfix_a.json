@@ -302,5 +302,13 @@
   "old": "Ni. 3-13 [?]; Śa.Brā. 9-5-1-13 [?], 9-5-1-18 [?], 14-3-1-18 [?]; Ṛ.Saṃ. 3-39-5 [?], 7-76-4 [?]",
   "new": "same, without [?] (the first Śa.Brā. ref is printed with a trailing hyphen: 9-5-1-13-)",
   "note": "190dpi page view of the whole column; refs legible and agree with the file; the 2/7 distinction in 7-76-4 relied on the flat-glyph reading (not zoomed at 450 dpi). Quotes (satyaṃ kasmāt…, te devā utsṛjya…, nābhir ṛtasya…) not compared word by word."
+ },
+ {
+  "pdf": 339,
+  "printed": 319,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 4-2-16 [?], 1-67-5 [?], 1-12-7 [?], 1-73-3 [?]",
+  "new": "4-2-16, 1-67-5, 1-12-7 (no [?]); 1-73-2 [?]",
+  "note": "600dpi strips of the three small refs plus 190dpi page: last digit of the third ref is the looped 2-glyph, not 3; [?] kept. Quotes not re-read word by word."
  }
 ]

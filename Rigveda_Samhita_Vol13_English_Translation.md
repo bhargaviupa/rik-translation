@@ -8212,25 +8212,25 @@ In ṛks such as these, all the sages have shown that, through understanding the
 
 > *adhā yathā naḥ pitaraḥ parāsaḥ pratnāso agna ṛtam āśuṣāṇāḥ | śucīd ayan dīdhitim ukthaśāsaḥ kṣāmā bhindanto aruṇīr apa vran ‖*
 
-(Ṛ. Saṃ. 4-2-16 [?]). In prayers such as "as our fathers, by performing the sacrifice of truth, obtained a good fruit; so now also may all our acts give us true fruits", the true nature of Agni and the other deities, who are lords of truth (*satyadharma*), is also described.
+(Ṛ. Saṃ. 4-2-16). In prayers such as "as our fathers, by performing the sacrifice of truth, obtained a good fruit; so now also may all our acts give us true fruits", the true nature of Agni and the other deities, who are lords of truth (*satyadharma*), is also described.
 
 > अजो न क्षां दाधार पृथिवीं तस्तम्भ द्यां मन्त्रेभिः सत्यैः ।
 
 > *ajo na kṣāṃ dādhāra pṛthivīṃ tastambha dyāṃ mantrebhiḥ satyaiḥ |*
 
-(Ṛ. Saṃ. 1-67-5 [?]);
+(Ṛ. Saṃ. 1-67-5);
 
 > कविमग्निमुप स्तुहि सत्यधर्माणमध्वरे । देवममीवचातनम् ॥
 
 > *kavim agnim upa stuhi satyadharmāṇam adhvare | devam amīvacātanam ‖*
 
-(Ṛ. Saṃ. 1-12-7 [?]);
+(Ṛ. Saṃ. 1-12-7);
 
 > देवो न यः सविता सत्यमन्मा क्रत्वा निपाति वृजनानि विश्वा । पुरुप्रशस्तो अमतिर्न सत्य आत्मेव शेवो दिधिषाय्यो भूत् ॥
 
 > *devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā | purupraśasto amatir na satya ātmeva śevo didhiṣāyyo bhūt ‖*
 
-(Ṛ. Saṃ. 1-73-3 [?])
+(Ṛ. Saṃ. 1-73-2 [?])
 
 and in many other places, it is said that by Agni and the other deities, along with *satya*, the worlds such as earth were upheld and the protection of the world was accomplished, and it is shown that men also should follow that same path of truth. In the ṛk at hand also, as if speaking of identity with truth from that same viewpoint, Indra is described.
 
