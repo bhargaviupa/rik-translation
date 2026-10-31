@@ -7637,15 +7637,15 @@ One man propitiates Indra, augmenting (his vigour) by sacrifice; another, who is
 
 ***juhurāṇaś cit manasā pariyan*** — "*kuṭilagatiś cit*" (the one who walks along a crooked way, deviating from the straight path) ***parito gacchan laukikaviṣayādikaṃ dhyāyan varte*** — one who thinks in his own mind only of the objects of enjoyment that are in the world. Or — ***yadvā varjayitvā gacchann edaṃ prāpnoti*** — he who gives up the way to obtain the favour of Indra and the other deities by sacrifices and the like; according to the use of the preposition *pari* in the sense of "excluding" (*varjanārtha*), the meaning is explained.
 
-***tīrthe accha okaḥ tātṛṣāṇam*** — the Nirukta-writers explain the meaning of the word *okas* as "dwelling-place" (Ni. 3-3 [?]).
+***tīrthe accha okaḥ tātṛṣāṇam*** — the Nirukta-writers explain the meaning of the word *okas* as "dwelling-place" (Ni. 3-3).
 
 To show that man has a full sense of pride in his own home, the Nirukta-writers have given a telling example:
 
-> नहि ग्रभायारणः सुशेवोऽन्योदर्यो मनसा मन्तवा उ । अधा चिदोकः पुनरित्स एत्या नो वाज्यभीषाळेतु नव्यः ॥
+> नहि ग्रभायारणः सुशेवोऽन्योदर्यो मनसा मन्तेवा उ [?] । अधा चिदोकः पुनरित्स एत्या नो वाज्यभीषाळेतु नव्यः ॥
 
-> *nahi grabhāyāraṇaḥ suśevo 'nyodaryo manasā mantavā u | adhā cid okaḥ punar it sa etyā no vājy abhīṣāḷ etu navyaḥ ‖* [as read: [?]]
+> *nahi grabhāyāraṇaḥ suśevo 'nyodaryo manasā mantevā u [?] | adhā cid okaḥ punar it sa etyā no vājy abhīṣāḷ etu navyaḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 4-… [?]).
+(Ṛ. Saṃ. 7-4-8, first digit read as 7 [?]).
 
 ### Printed p. 302  (PDF 322)
 
