@@ -193,7 +193,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 (Ṛ. Saṃ. 9-20-3 [?]) In ṛks like this, with reference to the Soma deity, this word is used. (Glosses: "O … [the Soma drops] sporting in vain, flowed as waves of the stream" — mine and tentative.)
 
-***vidatheṣu*** — *yajñeṣu*: in sacrifices, that is, at the sacrificial places. By "*vedayutsu stotreṣu nimittabhūteṣu*" [as read] he has shown the derivation of the word *vidatha*. Here one of the Nirukta-writers' derivations has been followed. *Yajñaḥ*, *veniḥ* and the like are read among the names of sacrifice (Ni. 3-19 [?]), and that *vidathāni vedanāni* — that the word *vidatha* means knowledge (Ni. 6-? [?]). To show this…
+***vidatheṣu*** — *yajñeṣu*: in sacrifices, that is, at the sacrificial places. By "*vedayutsu stotreṣu nimittabhūteṣu*" [as read] he has shown the derivation of the word *vidatha*. Here one of the Nirukta-writers' derivations has been followed. *Yajñaḥ*, *veniḥ* and the like are read among the names of sacrifice (Ni. 3-19), and that *vidathāni vedanāni* — that the word *vidatha* means knowledge (Ni. 6-? [?]). To show this…
 
 ### Printed p. 10  (PDF 30)
 
@@ -363,11 +363,11 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 ***hitā iva*** — *hitācaraṇāḥ sakhāya iva*: like friends who always do what is good; the Marut-gods seek only the good of the sacrificer.
 
-***puru*** — *prabhūtam*: among the twelve names of "much", beginning with *uru*, *tuvi*, the word *puru* is read; hence *puru* means "abundantly" (Ni. 3-13 [?]).
+***puru*** — *prabhūtam*: among the twelve names of "much", beginning with *uru*, *tuvi*, the word *puru* is read; hence *puru* means "abundantly" (Ni. 3-13).
 
-***rajāṃsi*** — the word *rajas* has several meanings: *rajas* is night (Ni. 1-7 [?]), also light, and water (Ni. 4-19 [?]) and world (Ni. 4-19 [?]); here the sense is worlds.
+***rajāṃsi*** — the word *rajas* has several meanings: *rajas* is night (Ni. 1-7 [?]), also light, and water (Ni. 4-19) and world (Ni. 4-19); here the sense is worlds.
 
-***mayobhuvaḥ*** — *mayas* means happiness (Ni. 3-13 [?]); the Maruts, being makers of happiness for the sacrificers, are indicated by the epithet *mayobhuvaḥ*; but this word is used in general of all deities.
+***mayobhuvaḥ*** — *mayas* means happiness (Ni. 3-13); the Maruts, being makers of happiness for the sacrificers, are indicated by the epithet *mayobhuvaḥ*; but this word is used in general of all deities.
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?] where small).** *ūmāsaḥ* (root *ava rakṣaṇe*; *man* suffix by *avisiviśuśibhyaḥ kit* Uṇ. 1-142 [?]; as *kit*, no guṇa; *ūṭh* substitution by *jvarasvara…* Pā. 6-4-20 [?]; initial acute by *jñityādir nityam*; *jas* with *asuk* by *ājjaser asuk* Pā. 7-1-50). *amṛtāḥ* (the negative *naṅ*; the accent displaced by *nañsubhyām* [Pā. 6-2-172], the later member's initial acute). *arāsata* (root *rāsṛ śabde*, here in the sense of giving; *luṅ*? by *vyatyaya* [?], *ruk*; *atādeśa*; *laṅ* 3rd plural; no *nighāta* as there is a connection with the sacrifice-word; as it has the *āṭ* augment, initial acute). *rāyaḥ* (*ūḍidam…* Pā. 6-1-171 gives the acute to the case-ending). *dadāśuṣe* (root *dāś dāne*; *kvasu* by *dāśvān sāhvān* … Pā. 3-2-107 [?]; reduplicated; dative singular).
 
@@ -425,7 +425,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 ***avyata*** — *lokān sarvata āvṛṇvanti*: they pervade the whole earth, they enclose it — this is the Bhāṣyakāra's explanation. The scholar Max Müller derives this word from the root *vī* in the sense "to stir up, excite" (English: to stir up, to excite), and says that here the Maruts stir up, impel, the clouds; and that *pravayaṇa* — "a goad" (English: a goad), *pravetṛ* — "driver" (English: driver) and similar words are formed from the same root.
 
-***evāsaḥ*** — this word, formed from the root *iṇ gatau*, indicates swift going: [horses] that go with great speed. Here the horses of the Maruts are to be understood. According to the Nirukta the horses of the Maruts are "*pṛṣatyo marutām*" (Ni. 2-25 [?]), i.e. spotted deer (does), though in many ṛks words denoting horses are used.
+***evāsaḥ*** — this word, formed from the root *iṇ gatau*, indicates swift going: [horses] that go with great speed. Here the horses of the Maruts are to be understood. According to the Nirukta the horses of the Maruts are "*pṛṣatyo marutām*" (Ni. 2-28), i.e. spotted deer (does), though in many ṛks words denoting horses are used.
 
 ***svayatāsaḥ*** — *svayam eva sārathinā vinaiva yuktāḥ*: [horses] that are yoked to the chariot on their own, is the purport: without the help of a charioteer. In ordinary practice the charioteer and the like harness the horses to the chariot; but the horses of the Maruts, in this way, have the capacity of yoking themselves, of their own accord, without the guidance or help of others. The same idea is described in connection with the horses called *hari* of Indra, and with the vehicle of the Aśvins.
 
@@ -449,7 +449,7 @@ Besides this:
 
 > *teṣāṃ sa hanmo akṣāṇi yathedaṃ harmyaṃ tathā |*
 
-(Ṛ. Saṃ. 7-55-6 [?]) — in this ṛk, saying "we shall close our eyes as we close this house", the word *harmya* here means house.
+(Ṛ. Saṃ. 7-55-6) — in this ṛk, saying "we shall close our eyes as we close this house", the word *harmya* here means house.
 
 > अभूदु केतुरुषसः पुरस्तात्प्रतीच्यागादधि हर्म्येभ्यः । [?]
 
@@ -619,7 +619,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 > *asmabhyaṃ dyāvāpṛthivī sucetunā rayiṃ dhattaṃ vasumantaṃ śatagvinam |*
 
-(Ṛ. Saṃ. 1-159-3 [?]) — "O Heaven and Earth, with a mind of kindness give us wealth in hundreds, jewels and the like, and cattle": it is used with reference to Heaven and Earth.
+(Ṛ. Saṃ. 1-159-5) — "O Heaven and Earth, with a mind of kindness give us wealth in hundreds, jewels and the like, and cattle": it is used with reference to Heaven and Earth.
 
 > स्वस्ति पूषा असुरो दधातु नः स्वस्ति द्यावापृथिवी सुचेतुना ।
 
@@ -691,7 +691,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 ***pra skambhadeṣṇāḥ*** — *prakarṣeṇa stambhitadānāḥ | aviratadānā ity arthaḥ*: the desired objects that the Maruts give are firm; that is, they are not things that last a short time and perish, but remain permanently — this is the purport.
 
-***anavabhrarādhasaḥ*** — *abhraṣṭahavirādhidhanāḥ*: since the word *rādhaḥ* is read among the twenty-eight names of wealth beginning with *magha*, *rekṇaḥ* (Ni. 2-9 [?]), *rādhaḥ* means wealth. *Anavabhra* means "not fallen", that is, "not in vain". The oblation and the like (wealth) offered to the Maruts is not wasted: since they accept it and bestow on the sacrificers the fitting fruits, the wealth in the form of the oblation offered to the Marut-gods does not become fruitless: this is the main purport. *(Printer's signature at the foot: "XIII 3".)*
+***anavabhrarādhasaḥ*** — *abhraṣṭahavirādhidhanāḥ*: since the word *rādhaḥ* is read among the twenty-eight names of wealth beginning with *magha*, *rekṇaḥ* (Ni. 3-9), *rādhaḥ* means wealth. *Anavabhra* means "not fallen", that is, "not in vain". The oblation and the like (wealth) offered to the Maruts is not wasted: since they accept it and bestow on the sacrificers the fitting fruits, the wealth in the form of the oblation offered to the Marut-gods does not become fruitless: this is the main purport. *(Printer's signature at the foot: "XIII 3".)*
 
 ### Printed p. 34  (PDF 54)
 
@@ -713,13 +713,13 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 ***vidatheṣu*** — in sacrifices and the like. For the meaning of this word see the detailed explanation we have given on pp. 9–13.
 
-***arkam*** — *arcanīyam indram*: Indra, who is fit to be worshipped. The word *arka* has several meanings: food (Ni. 5-9 [?]), thunderbolt (Ni. 2-11 [?]), deity, mantra (Ni. 5-4 [?]). On the word *arka* Yāska says:
+***arkam*** — *arcanīyam indram*: Indra, who is fit to be worshipped. The word *arka* has several meanings: food (Ni. 5-9 [?]), thunderbolt (Ni. 3-11), deity, mantra (Ni. 5-4). On the word *arka* Yāska says:
 
 > अर्कः । अर्को देवो भवति यदेनमर्चन्ति । अर्को मन्त्रो भवति यदनेनार्चन्ति । अर्कमन्नं भवत्यर्चन्ति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥
 
 > *arkaḥ | arko devo bhavati yadenamarcanti | arko mantro bhavati yadanenārcanti | arkamannaṃ bhavatyarcanti bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*
 
-(Ni. 5-4 [?]) — thus he has given four kinds of meaning. Their sense may be explained as follows:
+(Ni. 5-4) — thus he has given four kinds of meaning. Their sense may be explained as follows:
 
 ***devaḥ*** — *tāvat sarva evārka ity ucyate yasmād enaṃ devam arcanti stotāraḥ*: *arka* means deity; because by this the worshippers worship whomever [they worship] — such a person or deity, that is, the object (the deity) which the worshippers worship, is called *arka*.
 
@@ -799,19 +799,19 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > *viśvādririkṣoruta vā ninitsorabhihrutāmasi hi deva viṣpaṭ [?]*
 
-(Ṛ. Saṃ. 1-189-6 [?]) — for the word *abhihrutām* in this ṛk Sāyaṇa explains: "*abhihrutām abhimukhyena kuṭilaṃ kurvatāṃ dviṣām*" — of the enemies who make crooked [trouble] especially, causing us pain. Besides this, the word *vihruta*, with the prefix *vi* added to the root *hru*, occurs
+(Ṛ. Saṃ. 1-189-6) — for the word *abhihrutām* in this ṛk Sāyaṇa explains: "*abhihrutām abhimukhyena kuṭilaṃ kurvatāṃ dviṣām*" — of the enemies who make crooked [trouble] especially, causing us pain. Besides this, the word *vihruta*, with the prefix *vi* added to the root *hru*, occurs
 
 > संधाता संधिं मघवा पुरूवसुर्निष्कर्ता विह्रुतं पुनः ।
 
 > *saṃdhātā saṃdhiṃ maghavā purūvasurniṣkartā vihrutaṃ punaḥ |*
 
-(Ṛ. Saṃ. 8-1-12 [?])
+(Ṛ. Saṃ. 8-1-12)
 
 > क्षणा रपो मरुत आतुरस्य न इष्कर्ता विह्रुतं पुनः ।
 
 > *kṣaṇā rapo maruta āturasya na iṣkartā vihrutaṃ punaḥ |*
 
-(Ṛ. Saṃ. 8-20-26 [?]) — only in these two ṛks. The word *vihruta* suggests "injured (before)". And in
+(Ṛ. Saṃ. 8-20-26) — only in these two ṛks. The word *vihruta* suggests "injured (before)". And in
 
 > ता हि क्षत्रमविह्रुतं सम्यगसुर्यं माशाते । [?]
 
@@ -823,13 +823,13 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > *vibhrāḍ bṛhatpibatu somyaṃ madhvāyurdadhadyajñapatāvavihrutam |*
 
-(Ṛ. Saṃ. 10-170-1 [?]) — the word *avihrutam* shows a negative sense; that is, it gives the opposite meaning of the word *vihruta*: "free from any kind of injury or harm".
+(Ṛ. Saṃ. 10-170-1) — the word *avihrutam* shows a negative sense; that is, it gives the opposite meaning of the word *vihruta*: "free from any kind of injury or harm".
 
 ***pūrbhiḥ*** — *pālanair jetavyaiḥ śatrūṇāṃ nagarair vā*: with acts of protection, or from the enemy cities that [you] conquer and give.
 
 ***tavasaḥ*** — *balavanto vegavanto vā*: strong, or swift. The word *tavasaḥ* is read among the twenty-eight names of strength beginning with *mahat*, *bṛhat* (Ni. 3-13).
 
-***virapśinaḥ*** — *mahannāmaitat | mahāntaḥ | rapaṇeyoḥ śabdā rapsāḥ | te yeṣāṃ te rapśinaḥ | vividhā rapśinaḥ stotāro yeṣāṃ te*: since the word *virapśī* is read among the names of "great" (*mahat*, *bṛhat* and the like, in the list of twenty-eight), (Ni. 3-3 [?]) it *[continues on the next page]*
+***virapśinaḥ*** — *mahannāmaitat | mahāntaḥ | rapaṇeyoḥ śabdā rapsāḥ | te yeṣāṃ te rapśinaḥ | vividhā rapśinaḥ stotāro yeṣāṃ te*: since the word *virapśī* is read among the names of "great" (*mahat*, *bṛhat* and the like, in the list of twenty-eight), (Ni. 3-13) it *[continues on the next page]*
 
 ### Printed p. 40  (PDF 60)
 
@@ -897,7 +897,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 2".)* …made of iron and the like — many kinds of weapons are joined together and set in one place in the chariots; with the motion of the chariot those weapons rub against one another and make a noise: this is the purport.
 
-***taviṣāṇi*** — the word *taviṣa* is read among the names of strength (Ni. 2-9 [?]); but here this word is in the neuter plural, so the explanation of the word *taviṣāṇi* in the first ṛk of this Sūkta as *sāmarthyāni* — "capabilities, valorous deeds, deeds of daring" — does not fit well; for neither capabilities nor deeds of daring are things that are laid in chariots — they are only names of acts; and if *taviṣāṇi* is explained as "armies" (*sainya*), it is not possible to lay armies (however large) in chariots. Therefore the sense "weapons that give strength" for the word *taviṣāṇi* is the one that fits. Hence:
+***taviṣāṇi*** — the word *taviṣa* is read among the names of strength (Ni. 3-9); but here this word is in the neuter plural, so the explanation of the word *taviṣāṇi* in the first ṛk of this Sūkta as *sāmarthyāni* — "capabilities, valorous deeds, deeds of daring" — does not fit well; for neither capabilities nor deeds of daring are things that are laid in chariots — they are only names of acts; and if *taviṣāṇi* is explained as "armies" (*sainya*), it is not possible to lay armies (however large) in chariots. Therefore the sense "weapons that give strength" for the word *taviṣāṇi* is the one that fits. Hence:
 
 ***mithaspṛdhyeva taviṣāṇy āhitā*** — in this sentence the meaning is: "many excellent weapons, rubbing against each other through the movement of the chariots, are laid in your chariots".
 
@@ -943,7 +943,7 @@ Max Müller, a German scholar, takes the two phrases *aṃseṣv ā vaḥ prapat
 
 > *tveṣaṃ gaṇaṃ tavasaṃ khādihastaṃ dhunivrataṃ māyinaṃ dātivāram |*
 
-(Ṛ. Saṃ. 5-58-2 [?]) — in these ṛks the weapon called *khādi* is described as held in the hands. The places where the Maruts bear special weapons and ornaments —
+(Ṛ. Saṃ. 5-58-2) — in these ṛks the weapon called *khādi* is described as held in the hands. The places where the Maruts bear special weapons and ornaments —
 
 > अंसेषु व ऋष्टयः पत्सु खादयो वक्षःसु रुक्मा मरुतो रथे शुभः ।
 
@@ -1173,7 +1173,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *stotraṃ rādhānāṃ pate girvāho vīra yasya te | vibhūtirastu sūnṛtā ‖*
 
-(Ṛ. Saṃ. 1-30-5 [?]) — here, "O Indra, may the praise we make to you be of great power": *vibhūti* is an adjective of the word *sūnṛtā*.
+(Ṛ. Saṃ. 1-30-5) — here, "O Indra, may the praise we make to you be of great power": *vibhūti* is an adjective of the word *sūnṛtā*.
 
 > महामनूनं तवसं विभूतिं मत्सरासो जर्हृषन्त प्रसाहम् ।
 
@@ -1207,7 +1207,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *ayamindro marutsakhā vi vṛtrasyābhinacchiraḥ |*
 
-(Ṛ. Saṃ. 8-76-2 [?])
+(Ṛ. Saṃ. 8-76-2)
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *mahnā* (formed as *mahimnā*, with the loss of a letter by Vedic usage; or from the root *mahū pūjāyām* with the *oṇādika* suffix *kasi*; final acute by the suffix; in the instrumental singular the *a* is dropped by *allopo 'naḥ* Pā. 6-4-134; the case-ending gets the acute by *anudāttasya ca yatrodāttalopaḥ* Pā. 6-1-158). *vibhvaḥ* (*vibhu* + *jas*; by *jasādiṣu chandasi vā vacanam* there is no guṇa; *yaṇ*-substitution; *udāttasvaritayor yaṇaḥ svaritaḥ* Pā. 8-2-4 gives *svarita* to the case-ending). *vibhūtayaḥ* (root *bhū sattāyām*; *ktin*; *tādau ca niti kṛty atiḥ* Pā. 6-2-50 keeps the *gati* (*vi*) accent). *dūredṛśaḥ* (root *dṛśir prekṣaṇe*; *kvip*; in the *tatpuruṣa* with a *kṛt*, *taṭpuruṣe kṛti bahulam* Pā. 6-3-14 gives *aluk* of the locative; nominative plural). *divyāḥ* (*divi bhavāḥ*; *bhave chandasi* Pā. 4-4-110 [?] gives suffix *ya*; final acute by the suffix). *mandrāḥ* (root *madi stutau*; *rak* by *sphāyitañcivañci…* Uṇ. 2-[?]; *num* by *idito num dhātoḥ* Pā. 7-1-58; final acute by the suffix). *sujihvāḥ* (*śobhanā jihvā yeṣāṃ te*; *nañsubhyām* Pā. 6-2-172 gives the later member the final acute).
 
@@ -1356,7 +1356,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *ayameka itthā purūru caṣṭe vi viśpatiḥ | tasya vratānyanu vaścarāmasi ‖*
 
-(Ṛ. Saṃ. 8-23-16 [?])
+(Ṛ. Saṃ. 8-25-16)
 
 ### Printed p. 60  (PDF 80)
 
@@ -1456,7 +1456,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *pūrvīścana prasitayastaranti taṃ ya indre karmaṇā bhuvat |*
 
-(Ṛ. Saṃ. 2-32-13 [?])
+(Ṛ. Saṃ. 7-32-13)
 
 > उक्थं चन शस्यमानमगोररिरा चिकेत । न गायत्रं गीयमानम् ॥
 
@@ -1544,13 +1544,13 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *avādeho diva ā dasyumuccā pra sunvataḥ stuvataḥ śaṃsamāvaḥ ‖*
 
-(Ṛ. Saṃ. 1-33-6 [?])
+(Ṛ. Saṃ. 1-33-7)
 
 > आ वो रुवण्युमौशिजो हुवध्यै घोषेव शंसमर्जुनस्य नंशे ।
 
 > *ā vo ruvaṇyumauśijo huvadhyai ghoṣeva śaṃsamarjunasya naṃśe |*
 
-(Ṛ. Saṃ. 1-122-5 [?]) — in these ṛks the word *śaṃsa* has the senses praise, eulogy, extolling; and in
+(Ṛ. Saṃ. 1-122-5) — in these ṛks the word *śaṃsa* has the senses praise, eulogy, extolling; and in
 
 > मा नः शंसो अररुषो धूर्तिः प्रणङ्मर्त्यस्य ।
 
@@ -1608,7 +1608,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 *(Header: "Maṃ. 1 A. 23 Sū. 166".)* (that is, within a fixed number of days) and finished. The *sattra* sacrifice may be one that is to be done for a year or longer: a long period. Here *dīrgham* means: the Bhāṣyakāra's explanation is that the *sattra* sacrifice to be performed over a long time is intended.
 
-***pariṇasā*** — this word is read among the twelve names of "much", beginning with *uru*, *tuvi*, so it means "abundantly" (Ni. 3-13 [?]). Here the Bhāṣyakāra, in "*yadyapyetadbahunāmasu paṭhitaṃ tathāpi yadbahu tanmahadasi bhavatītyatra mahadityarthe gṛhyate | mahatā yuṣmadabhigamanenaiṣaṇena*", has said: although *pariṇasā* is read among the names of multiplicity, since what is much is great, here it is taken in the sense of "great". Therefore here this word must be rendered "mahatā", that is, "with your coming, full of greatness".
+***pariṇasā*** — this word is read among the twelve names of "much", beginning with *uru*, *tuvi*, so it means "abundantly" (Ni. 3-13). Here the Bhāṣyakāra, in "*yadyapyetadbahunāmasu paṭhitaṃ tathāpi yadbahu tanmahadasi bhavatītyatra mahadityarthe gṛhyate | mahatā yuṣmadabhigamanenaiṣaṇena*", has said: although *pariṇasā* is read among the names of multiplicity, since what is much is great, here it is taken in the sense of "great". Therefore here this word must be rendered "mahatā", that is, "with your coming, full of greatness".
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *śūśavāma* (root *ṭuośvi gativṛddhyoḥ*, with the sense of a causal included; 1st plural *mas*; by *nityaṃ ṅitaḥ* the *s* of *mas* drops; by *vyatyaya* *śap* → *ślu*; *bahulaṃ chandasi* gives *saṃprasāraṇa* to the root; or by *vibhāṣā śveḥ* [Pā. 6-1-30] *saṃprasāraṇa* after the manner of the *yajus*; doubling; *āḍutta* … [Pā. 6-4-9? [?]] gives the *ā* augment to the suffix; guṇa after the *ik* by the *nimitta*; *av*-substitution; as it is *yad*-connected no *nighāta*; the root accent remains). *yuṣmākena* (*yuṣmākam ayam*; suffix *aṇ* in the sense of relation; *tasminn aṇi ca yuṣmākāsmākau* Pā. 4-3-2 gives *yuṣmāka* to the stem; *saṃjñāpūrvako vidhir anityaḥ* [Pā.] so no *vṛddhi* because of the suffix; by *vyatyaya* the acute falls on the syllable before the suffix). *turāsaḥ* (*matup* dropped in the Veda; *jas* with *asuk*; *āmantrita-nighāta*). *tatenan* [?] (root *tanu vistāre*; *leṭ* 3rd plural, *jhi* suffix; *jho 'ntaḥ* gives *ant*; *itaś ca lopaḥ parasmaipadeṣu* Pā. 3-4-97 drops the *i*; *bahulaṃ chandasi* gives *ślu* in place of the vikaraṇa; the root is doubled because of it; no *nighāta* because of *yad*; the root accent remains). *vṛjane* (root *vṛjī varjane*; suffix *kyu* by *kvaipy avṛji…* [Uṇ. 2-[?]]; *yuvor anākau* Pā. 7-1-1 gives *ana* for *yu*; as it is *kit* no *laghūpadha-guṇa*; initial acute by the suffix; locative singular).
 
@@ -1780,7 +1780,7 @@ Number of ṛks in the Sūkta: 11 · Ṛṣi: Agastya · Devatā: ṛk 1 Indra; 
 
 (Ṛ. Saṃ. 1-3-10) — here, for the word *vājinīvatī* Sāyaṇa explains *annena haviṣā udakena vā tadvatī* ("possessed of food, the oblation, or of water"); since he has explained "possessed of food in the form of oblation, or of water", the word *vāja* indicates several meanings. But here the meaning "*vājāḥ gamanavantaḥ*" — creatures that move, that go about — is given. The prayer is made that cattle and other creatures with two feet and four feet, may, by Indra's grace, come to us without number.
 
-Yāska (Ni. 10-8 [?]) has explained the meaning of the word *indra* by derivations: [as read]
+Yāska (Ni. 10-8) has explained the meaning of the word *indra* by derivations: [as read]
 
 > इरां दृणाति । इरां ददाति । इरां दधाति । इरां दारयति । इन्दवे द्रवतीति वा । इन्दौ रमत इति वा । इन्धे भूतानीति वा । इदं करणादित्याग्रायणः । इदं दर्शनादित्यौपमन्यवः । इन्देरैश्वर्यकर्मणः । इन्द्रो दृशत्रूणां [?] दारयिता वा द्रावयिता वा आदरयिता च यज्वनाम् ।
 
@@ -1832,23 +1832,23 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 **Special Topics (Viśeṣaviṣayagaḷu).**
 
-***marutaḥ avobhiḥ naḥ ā yāntu*** — *rakṣaṇaiḥ sahitāḥ asmān āgacchantu*: "may they come to us together with protections". The word *marutaḥ* is read among the names of priests (Ni. 3-19 [?]) and also among the names of gold (Ni. 1-10 [?]). *Marutaḥ* — "*mitarāviṇo vā mitarociṇo vā mahad dravantīti vā*" [as read] is the derivation given by Yāska *[continues on the next page]*
+***marutaḥ avobhiḥ naḥ ā yāntu*** — *rakṣaṇaiḥ sahitāḥ asmān āgacchantu*: "may they come to us together with protections". The word *marutaḥ* is read among the names of priests (Ni. 3-19) and also among the names of gold (Ni. 2-10). *Marutaḥ* — "*mitarāviṇo vā mitarociṇo vā mahad dravantīti vā*" [as read] is the derivation given by Yāska *[continues on the next page]*
 
 ### Printed p. 78  (PDF 98)
 
 *(Header: "Maṃ. 1 A. 23 Sū. 167".)* …the explained word *marut* is read by Yāska among the groups of gods in the middle region. Explaining the word as "those who make a sound in proportion to their strength", as "those who shine with brilliance", and as "those who give rain", and thus giving the meaning in many ways, the prayer is made that these Maruts may come to our sacrifice together with the means of protecting us.
 
-***sumāyāḥ*** — *śobhanaprajñāḥ*: the word *māyā* is stated among the names of intelligence (Ni. 3-13 [?]). The Marut-gods are described as having extraordinary wisdom.
+***sumāyāḥ*** — *śobhanaprajñāḥ*: the word *māyā* is stated among the names of intelligence (Ni. 3-13). The Marut-gods are described as having extraordinary wisdom.
 
 ***jyeṣṭhebhiḥ bṛhaddivaiḥ ā yāntu*** — the word *jyeṣṭhebhiḥ* may mean "with abundant brilliance"; or *praśasyaiḥ maṇimuktādidhanaiś ca sahitāḥ*: giving two kinds of meaning, "jewels (*ratna*)", "pearls (*muktā*)" and such wealth, the prayer is made that the Maruts come with these.
 
-***niyutaḥ paramāḥ samudrasya cit pāre dhanayante*** — *etannāmakāḥ utkṛṣṭāḥ aśvāḥ samudrasyāpi pare 'smiṃstīre…* [as read]: "excellent horses named Niyut carry wealth even on the farther shore of the ocean"; so, describing that the Marut-gods have such horses, called Niyut, and bring wealth even from the farther shore of the sea, the prayer is made that they come to our sacrifice with such abundant wealth. The word *samudra* is read among the names of the middle region (Ni. 2-10 [?]); and since the word *samudra* indicates both the earthly ocean, filled with well-known water, and the middle region, in order to clear the doubt Yāska says:
+***niyutaḥ paramāḥ samudrasya cit pāre dhanayante*** — *etannāmakāḥ utkṛṣṭāḥ aśvāḥ samudrasyāpi pare 'smiṃstīre…* [as read]: "excellent horses named Niyut carry wealth even on the farther shore of the ocean"; so, describing that the Marut-gods have such horses, called Niyut, and bring wealth even from the farther shore of the sea, the prayer is made that they come to our sacrifice with such abundant wealth. The word *samudra* is read among the names of the middle region (Ni. 2-10); and since the word *samudra* indicates both the earthly ocean, filled with well-known water, and the middle region, in order to clear the doubt Yāska says:
 
 > तत्र समुद्र इत्येतत् पार्थिवेन समुद्रेण संदिह्यते । समुद्रः कस्मात् । समुद्द्रवन्त्यस्मादापः । समभिद्रवन्त्येनमापः । संमोदन्तेऽस्मिन्भूतानि । समुदको भवति । समुनत्तीति वा ।
 
 > *tatra samudra ityetat pārthivena samudreṇa saṃdihyate | samudraḥ kasmāt | samuddravantyasmādāpaḥ | samabhidravantyenamāpaḥ | saṃmodante 'smin bhūtāni | samudako bhavati | samunattīti vā |*
 
-(Ni. 2-10 [?]) — [meaning]: because the waters in it, in the form of waves and ripples, move in many ways; because very abundant waters collect in your region, the waters flow in with speed; because creatures living in water are made happy by the abundance of water; and because it makes everything wet with water — for these reasons the name *samudra* has come about: thus Yāska has explained; and he has also established that *samudra* means the *antarikṣa* (middle region). That the Maruts have horses is well known in the Yajurveda.
+(Ni. 2-10) — [meaning]: because the waters in it, in the form of waves and ripples, move in many ways; because very abundant waters collect in your region, the waters flow in with speed; because creatures living in water are made happy by the abundance of water; and because it makes everything wet with water — for these reasons the name *samudra* has come about: thus Yāska has explained; and he has also established that *samudra* means the *antarikṣa* (middle region). That the Maruts have horses is well known in the Yajurveda.
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers [?]).** *avobhiḥ* (root *ava rakṣaṇe*; *asun* by *sarvadhātubhya asun* Uṇ. 4-[?]; as it is *nit*, the initial acute; instrumental plural). *yāntu* (root *yā prāpaṇe*; *loṭ* 3rd plural; *nighāta* after a *tiṅanta*).
 
