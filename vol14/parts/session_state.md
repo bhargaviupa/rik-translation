@@ -8,3 +8,5 @@ Batch 2: done through printed p. 67 (PDF 85). Sūkta 185 Ṛk 2 closed; Ṛk 3 O
 Batch 3: done through printed p. 73 (PDF 91). Sūkta 185 Ṛk 3 closed; Ṛk 4 OPEN (Special Topics stop mid-sentence at foot of p. 73; grammar not seen). Next: PDF 92 = printed p. 74. [?]: p.70 two Uṇ. Sū. 4-[?]; p.73 Ṛ.Saṃ. 11-1[?]0-9. Doubt entry #136 wrong, use #137; #160 unzoomed.
 
 Batch 4: done through printed p. 79 (PDF 97). Sūkta 185 Ṛk 4 closed; Ṛk 5 OPEN (Special Topics break mid-sentence at foot of p. 79; grammar not seen). Next: PDF 98 = printed p. 80. [?]: p.79 Ṛ.1-117-14 "pūrvyebhire[n?]vaiḥ", "yu[?]vānā". RECHECK p.73 Ai.Brā. 19-5 "samapatatte" vs p.79 "samatapatte". p.77 header prints Adhyāya 3 (as printed).
+
+Batch 5: done through printed p. 85 (PDF 103). Sūkta 185 Ṛk 5 closed; Ṛk 6 (urvī sadmanī) OPEN (Special Topics reached supratīke; grammar not seen). Next: PDF 104 = printed p. 86. [?]: p.82 Pā. 8-[?]-7; p.85 Ṛ.1-113-2 "ruśa[?]vatsā". Full flag list in file's progress note.

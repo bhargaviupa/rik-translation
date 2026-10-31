@@ -2362,5 +2362,377 @@
   ],
   "note": "ZOOMED, read: Ṛ. Saṃ. 1-113-7",
   "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.201,
+   0.251,
+   0.561,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-54-7 (first citation)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.35,
+   0.41,
+   0.494,
+   0.729
+  ],
+  "note": "ZOOMED, read: Tai. Saṃ. 6-1-1.1",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.491,
+   0.519,
+   0.628,
+   0.824
+  ],
+  "note": "ZOOMED, read: 7 ne ṛk (dūreante)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.576,
+   0.595,
+   0.612,
+   0.796
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-54-7 (second citation)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.645,
+   0.68,
+   0.193,
+   0.494
+  ],
+  "note": "ZOOMED, read: Ni. 2-24 as printed (jāmi among water-names)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.685,
+   0.718,
+   0.243,
+   0.528
+  ],
+  "note": "ZOOMED, read: 'na jāmayo bhaginyai' (jāmayo as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 80,
+  "crop": [
+   0.716,
+   0.763,
+   0.628,
+   0.824
+  ],
+  "note": "ZOOMED, read: Ni. 3-7",
+  "answer": ""
+ },
+ {
+  "pdf": 99,
+  "printed": 81,
+  "crop": [
+   0.176,
+   0.195,
+   0.165,
+   0.363
+  ],
+  "note": "ZOOMED, read: header A. 2 A. 5 Va. 3 (Varga 3)",
+  "answer": ""
+ },
+ {
+  "pdf": 99,
+  "printed": 81,
+  "crop": [
+   0.362,
+   0.387,
+   0.579,
+   0.79
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-160-2",
+  "answer": ""
+ },
+ {
+  "pdf": 99,
+  "printed": 81,
+  "crop": [
+   0.411,
+   0.434,
+   0.579,
+   0.79
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-89-4",
+  "answer": ""
+ },
+ {
+  "pdf": 99,
+  "printed": 81,
+  "crop": [
+   0.453,
+   0.481,
+   0.629,
+   0.79
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-185-11",
+  "answer": ""
+ },
+ {
+  "pdf": 99,
+  "printed": 81,
+  "crop": [
+   0.525,
+   0.548,
+   0.579,
+   0.79
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-43-2",
+  "answer": ""
+ },
+ {
+  "pdf": 99,
+  "printed": 81,
+  "crop": [
+   0.803,
+   0.825,
+   0.397,
+   0.695
+  ],
+  "note": "ZOOMED, read: Ni. 2-24 as printed (bhuvana among water-names)",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.234,
+   0.281,
+   0.595,
+   0.826
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-85-3",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.21,
+   0.246,
+   0.244,
+   0.696
+  ],
+  "note": "ZOOMED, read: 'vayaṃ na' as printed (for yavaṃ na), Ṛ. 5-85-3",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.267,
+   0.3,
+   0.528,
+   0.826
+  ],
+  "note": "ZOOMED, read: 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Nirukta gloss)",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.277,
+   0.315,
+   0.294,
+   0.629
+  ],
+  "note": "ZOOMED, read: Ni. 10-4",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.357,
+   0.4,
+   0.629,
+   0.826
+  ],
+  "note": "ZOOMED, read: Ni. 4-20",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.447,
+   0.484,
+   0.629,
+   0.826
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-164-34",
+  "answer": ""
+ },
+ {
+  "pdf": 100,
+  "printed": 82,
+  "crop": [
+   0.697,
+   0.732,
+   0.193,
+   0.562
+  ],
+  "note": "UNDECIDED: Pā. Sū. 8-[?]-7 (nalopaḥ prātipadikāntasya), middle digit broken",
+  "answer": ""
+ },
+ {
+  "pdf": 101,
+  "printed": 83,
+  "crop": [
+   0.183,
+   0.2,
+   0.16,
+   0.359
+  ],
+  "note": "ZOOMED, read: header A. 2 A. 5 Va. 3",
+  "answer": ""
+ },
+ {
+  "pdf": 101,
+  "printed": 83,
+  "crop": [
+   0.249,
+   0.282,
+   0.16,
+   0.459
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 7-3-78 (pāghrādhmā…); 'dhātuvige śatrādeśa' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 101,
+  "printed": 83,
+  "crop": [
+   0.46,
+   0.493,
+   0.591,
+   0.786
+  ],
+  "note": "ZOOMED, read: Saṃhitā Ṛk 6 'pathivī' as printed (no ṛ)",
+  "answer": ""
+ },
+ {
+  "pdf": 102,
+  "printed": 84,
+  "crop": [
+   0.694,
+   0.722,
+   0.405,
+   0.638
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-84-3",
+  "answer": ""
+ },
+ {
+  "pdf": 102,
+  "printed": 84,
+  "crop": [
+   0.746,
+   0.774,
+   0.205,
+   0.705
+  ],
+  "note": "ZOOMED, read: Ni. 2-13 as read (uru among many-names); 1 slightly broken",
+  "answer": ""
+ },
+ {
+  "pdf": 102,
+  "printed": 84,
+  "crop": [
+   0.774,
+   0.802,
+   0.572,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ni. 3-13 (sadma among house-names)",
+  "answer": ""
+ },
+ {
+  "pdf": 103,
+  "printed": 85,
+  "crop": [
+   0.412,
+   0.494,
+   0.212,
+   0.784
+  ],
+  "note": "UNDECIDED: Ṛ. 1-113-2 first word 'ruśa[?]vatsā' (conjunct looks like pva/dva); also read Ni. 2-10, Ṛ. Saṃ. 1-113-2, 'āraigu' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 103,
+  "printed": 85,
+  "crop": [
+   0.494,
+   0.541,
+   0.162,
+   0.784
+  ],
+  "note": "ZOOMED, read: 'amaradharmāṇau', Ni. 2-20",
+  "answer": ""
+ },
+ {
+  "pdf": 103,
+  "printed": 85,
+  "crop": [
+   0.545,
+   0.61,
+   0.195,
+   0.784
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-164-21; 'bhupanasya' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 103,
+  "printed": 85,
+  "crop": [
+   0.61,
+   0.643,
+   0.162,
+   0.784
+  ],
+  "note": "ZOOMED, read: Ni. 3-11",
+  "answer": ""
+ },
+ {
+  "pdf": 103,
+  "printed": 85,
+  "crop": [
+   0.704,
+   0.774,
+   0.195,
+   0.784
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-88-19; 'suvarṇyo3' as printed (va), pluta 3",
+  "answer": ""
  }
 ]
