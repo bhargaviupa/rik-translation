@@ -326,5 +326,21 @@
   "old": "Ṛk 2 Pratipadārtha 'wording partly garbled; approximate'",
   "new": "(no change)",
   "note": "220dpi: the file's rendering matches the print entry by entry (yat…śāradīḥ…sapta puraḥ…dart…mṛdhravācaḥ…viśaḥ…śarma…danaḥ…anavadya…arṇāḥ…apaḥ…ṛṇoḥ…yūne…purukutsāya…vṛtram…randhīḥ, and the [athavā …] alternative). Only the Kannada word rendered 'subdued' for danaḥ (ಸವ್ರರನ್ನಾಗಿ-like, unclear) remains doubtful."
+ },
+ {
+  "pdf": 343,
+  "printed": 323,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-63-7 [?]; Ni. 6-31 [?]",
+  "new": "Ṛ.Saṃ. 1-63-2; Ni. 6-31",
+  "note": "700dpi: ಋ.ಸಂ.೧-೬೩-೨ (last glyph looped 2, same as the bhāṣya's 'ṛ. 1-63-2' on p.321 for the same ṛk) and ನಿ.೬-೩೧."
+ },
+ {
+  "pdf": 341,
+  "printed": 321,
+  "status": "resolved",
+  "old": "ni. 6-30 (bhāṣya, p.321)",
+  "new": "ni. 6-31",
+  "note": "600dpi: the Nirukta ref at the end of the bhāṣya reads ೬-೩೧, matching p.323."
  }
 ]
