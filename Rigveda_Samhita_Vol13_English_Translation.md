@@ -7378,21 +7378,21 @@ Then the Brāhmaṇas said to King Śaṃtanu, "You have committed *adharma* by 
 
 > *ārṣṭiṣeṇo hotram ṛṣir niṣīdan devāpir devasumatiṃ cikitvān | sa uttarasmād adharaṃ samudram apo divyā asṛjad varṣyā abhi ‖*
 
-(Ṛ. Saṃ. 10-98-5 [?]). Here Yāska says, in the sentence "*sa uttarasmād adharam apo divyā asṛjat*" — "Devāpi created waters — the waters that make the grain-wealth grow, as is proper, from the atmospheric ocean, which is called *samudra*, down to the lower ocean on the earth." — Devāpi, through the favour of the deities pleased by his praise, caused to flow the excellent waters that increase the plenty of grain for the benefit of the atmospheric and the terrestrial *samudra*; so he explains the distinction between the atmospheric and the terrestrial oceans. Moreover the word *samudra* is used also in other senses:
+(Ṛ. Saṃ. 10-98-5). Here Yāska says, in the sentence "*sa uttarasmād adharam apo divyā asṛjat*" — "Devāpi created waters — the waters that make the grain-wealth grow, as is proper, from the atmospheric ocean, which is called *samudra*, down to the lower ocean on the earth." — Devāpi, through the favour of the deities pleased by his praise, caused to flow the excellent waters that increase the plenty of grain for the benefit of the atmospheric and the terrestrial *samudra*; so he explains the distinction between the atmospheric and the terrestrial oceans. Moreover the word *samudra* is used also in other senses:
 
 > सविता यन्त्रैः पृथिवीमरम्णादस्कम्भने सविता द्यामदृंहत् । अश्वमिवाधुक्षद्धुनिमन्तरिक्षमतूर्ते बद्धं सविता समुद्रम् ॥
 
 > *savitā yantraiḥ pṛthivīm aramṇād askambhane savitā dyām adṛṃhat | aśvam ivādhukṣad dhunim antarikṣam atūrte baddhaṃ savitā samudram ‖*
 
-(Ṛ. Saṃ. 10-149-1 [?]). Here, for *samudra*, "the cloud which holds back the water" is given as the meaning.
+(Ṛ. Saṃ. 10-149-1). Here, for *samudra*, "the cloud which holds back the water" is given as the meaning.
 
-> पवित्रवन्तः परि वाचमासते पितैषां प्रत्नो अभि रक्षति व्रतम् । महः समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभम् ॥
+> पवित्रवन्तः परि वाचमासते पितैषां प्रत्नो अभि रक्षति व्रतम् । महस्समुद्रं वरुणस्तिरो दधे धीरा इच्छेकुर्धरुणेष्वारभम् ॥
 
-> *pavitravantaḥ pari vācam āsate pitaiṣāṃ pratno abhi rakṣati vratam | mahaḥ samudraṃ varuṇas tiro dadhe dhīrā icchekur dharuṇeṣv ārabham ‖* [as read: [?]]
+> *pavitravantaḥ pari vācam āsate pitaiṣāṃ pratno abhi rakṣati vratam | mahas samudraṃ varuṇas tiro dadhe dhīrā icchekur dharuṇeṣv ārabham ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 9-73-3 [?]). Here, for *samudram ādityam* the meaning "the sun" is given.
+(Ṛ. Saṃ. 9-73-3). Here, for *samudram ādityam* the meaning "the sun" is given.
 
-***viśvā gauḥ joṣyā — sarvāpi stotraśastrarūpā vāk joṣaṇārhā prīṇayitrī*** — the Nirukta-writers, beginning "*gauḥ iti pṛthivyā nāmadheyam*" (Ni. 2-5 [?]), have explained the meanings of the word *go*: earth, phlegm, bow-string, sun, rays, *suṣumnā* artery, and so on. Sāyaṇa gives the meaning "speech" (*vāk*): that all *stotras* and *śastras* addressed to Indra are such as to give satisfaction to Indra.
+***viśvā gauḥ joṣyā — sarvāpi stotraśastrarūpā vāk joṣaṇārhā prīṇayitrī*** — the Nirukta-writers, beginning "*gauḥ iti pṛthivyā nāmadheyam*" (Ni. 2-5), have explained the meanings of the word *go*: earth, phlegm, bow-string, sun, rays, *suṣumnā* artery, and so on. Sāyaṇa gives the meaning "speech" (*vāk*): that all *stotras* and *śastras* addressed to Indra are such as to give satisfaction to Indra.
 
 ---
 
@@ -7406,9 +7406,9 @@ Under the word *gauḥ*, the explanation of the meanings "earth", "animal" and s
 
 > *gā dāsyati godā gā me dehīty evaṃ yaṃ kāmaṃ kāmayate so 'smai kāmaḥ samṛdhyate* |
 
-(Śa. Brā. 1-9-3-16 [?]) — and in such sentences the refined meaning of the word *go* has been shown earlier; it will also be explained further on.
+(Śa. Brā. 1-9-3-16) — and in such sentences the refined meaning of the word *go* has been shown earlier; it will also be explained further on.
 
-***sūrīṃś cit dhiṣā veṣi*** — the word *sūri* is read among the names of praisers (Ni. 3-19 [?]). Sāyaṇa has explained that Indra, in order to be favourable to the praising people who impel him by *stotras* and other acts, by wisdom (*prajñayā*) or by an act such as the giving of rain (*vṛṣṭipradānarūpeṇa karmaṇā vā*), favours them with wisdom or with rain, and is therefore always the fit object of their praise.
+***sūrīṃś cit dhiṣā veṣi*** — the word *sūri* is read among the names of praisers (Ni. 3-19). Sāyaṇa has explained that Indra, in order to be favourable to the praising people who impel him by *stotras* and other acts, by wisdom (*prajñayā*) or by an act such as the giving of rain (*vṛṣṭipradānarūpeṇa karmaṇā vā*), favours them with wisdom or with rain, and is therefore always the fit object of their praise.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
