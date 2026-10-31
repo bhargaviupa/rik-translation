@@ -466,5 +466,41 @@
   ],
   "note": "RESOLVED on p. 27: the ಜ-like glyph is the same as the 5 in the odd-page header 'ಅ. ೫'; read 10-85",
   "answer": ""
+ },
+ {
+  "pdf": 50,
+  "printed": 32,
+  "crop": [
+   0.332,
+   0.351,
+   0.263,
+   0.583
+  ],
+  "note": "ZOOMED, read: पर्यवहन्त्सूर्यां (the ū-sign of सू is detached/broken in print)",
+  "answer": ""
+ },
+ {
+  "pdf": 50,
+  "printed": 32,
+  "crop": [
+   0.691,
+   0.714,
+   0.701,
+   0.819
+  ],
+  "note": "ZOOMED, read: (ऐ. ब्रा. ५-७) — first digit the ಜ-like glyph = 5 (as in 10-85 on this page), second flat-footed = 7",
+  "answer": ""
+ },
+ {
+  "pdf": 50,
+  "printed": 32,
+  "crop": [
+   0.595,
+   0.615,
+   0.27,
+   0.36
+  ],
+  "note": "UNDECIDED: मस्मान्सोमो[?] — conjunct before सोमो (Ait. Br. passage) not clear in the strip",
+  "answer": ""
  }
 ]
