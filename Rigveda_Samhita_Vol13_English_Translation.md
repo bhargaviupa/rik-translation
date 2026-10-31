@@ -9514,17 +9514,17 @@ The derivation that shows *svara* to come from the root *prī*, with the changed
 
 …they are in the form of the worlds. The set of three *stomas* that are the *pūrvabhāgī* (first-part) of the *viṣuvat* day and the set of three *stomas* that are *paścādbhāgī* (latter-part) together make the seventeen *stomas*. In the midst of these is the twenty-one-fold *stoma*, which has the *svarasāma* days as its support and is the reflection of the Āditya. Since the Āditya is held by the *svarasāmans*, there is no obstacle at all to his rounds in the three worlds.
 
-> तेषां वै देवाः सप्तदशानां प्रत्नयोनादबिभयुः समूहा इव वै स्तोमा अविगूह्या इवेमे ह न प्रविश्येरन्निति तान्सर्वैः स्तोमैरवस्ताद्यपर्षन्सर्वैः पृष्ठैः परस्तात्त्र्यभिजित्सर्वस्तोमोऽवस्ताद्भवति विश्वजित्सर्वपृष्ठः परस्तात्तत्सप्तदशानुभयतः पर्यृषन्ति धृत्या अप्रस्रंसाय ॥ [as read; garbled: [?]]
+> तेषां वै देवाः सप्तदशानां प्रलयादबिभयुः समूहा इव वै स्तोमा अविगूह्या इवेमे ह न प्रविलीयेरन्निति तान्सर्वैः स्तोमैरवस्तात्पर्यार्षन्सर्वैः पृष्ठैः परस्तात्तद्यदभिजित्सर्वस्तोमोऽवस्ताद्भवति विश्वजित्सर्वपृष्ठः परस्तात्तत्सप्तदशानुभयतः पर्यृषन्ति धृत्या अप्रस्रंसाय ॥ [as read; garbled: [?]]
 
-> *teṣāṃ vai devāḥ saptadaśānāṃ pratnayonād abibhayuḥ samūhā iva vai stomā avigūhyā ivema ha na praviśyeran iti tān sarvaiḥ stomair avastād yaparṣan sarvaiḥ pṛṣṭhaiḥ parastāt tryabhijit sarvastomo 'vastād bhavati viśvajit sarvapṛṣṭhaḥ parastāt tat saptadaśān ubhayataḥ paryṛṣanti dhṛtyā aprasraṃsāya ‖* [?]
+> *teṣāṃ vai devāḥ saptadaśānāṃ pralayād abibhayuḥ samūhā iva vai stomā avigūhyā ivema ha na pravilīyeran iti tān sarvaiḥ stomair avastāt paryārṣan sarvaiḥ pṛṣṭhaiḥ parastāt tad yad abhijit sarvastomo 'vastād bhavati viśvajit sarvapṛṣṭhaḥ parastāt tat saptadaśān ubhayataḥ paryṛṣanti dhṛtyā aprasraṃsāya ‖* [?]
 
-(Ai. Brā. 4-19 [?]). The seventeen *stomas*, in the form of the *svarasāman*, were liable to fall for want of a support; and from the fear of falling the deities freed them, below, by all the *stomas*, and above, by the *pṛṣṭhas*. Therefore, on the *abhijit* day, the day before the *svarasāma* days, all the *stomas* are employed, and on the following day, the *viśvajit*, the *pṛṣṭhas*, to hold the seventeen *stomas* from falling. Thus the peculiarity of the *svarasāmans*, and of the recitations connected with them, is praised. And, showing the origin of this form, the Śatapatha Brāhmaṇa says:
+(Ai. Brā. 4-19). The seventeen *stomas*, in the form of the *svarasāman*, were liable to fall for want of a support; and from the fear of falling the deities freed them, below, by all the *stomas*, and above, by the *pṛṣṭhas*. Therefore, on the *abhijit* day, the day before the *svarasāma* days, all the *stomas* are employed, and on the following day, the *viśvajit*, the *pṛṣṭhas*, to hold the seventeen *stomas* from falling. Thus the peculiarity of the *svarasāmans*, and of the recitations connected with them, is praised. And, showing the origin of this form, the Śatapatha Brāhmaṇa says:
 
-> त्रिष्टुभं छन्दो ग्रीष्माद्वृतोर्निरमिमीत त्रिष्टुभः स्वारमिति त्रिष्टुभश्छन्दसः स्वारंसाम निरमिमीत स्वारादन्तर्यामं इति ।
+> त्रिष्टुभं छन्दो ग्रीष्माद्वृतोर्निरमिमीत त्रिष्टुभः स्वारमिति त्रिष्टुभश्छन्दसः स्वारग्ंसाम निरमिमीत स्वारादन्तर्यामं इति ।
 
-> *triṣṭubhaṃ chando grīṣmād ṛtor niramimīta triṣṭubhaḥ svāram iti triṣṭubhaś chandasaḥ svāraṃsāma niramimīta svārād antaryāmam iti |* [as read: [?]]
+> *triṣṭubhaṃ chando grīṣmād ṛtor niramimīta triṣṭubhaḥ svāram iti triṣṭubhaś chandasaḥ svāragṃsāma niramimīta svārād antaryāmam iti |* [as read: [?]]
 
-(Śa. Brā. 8-1-1-8 [?]) — Viśvakarman fashioned the *triṣṭubh* metre from the summer season; from the *triṣṭubh* metre, the *svarasāman*; and from the *svarasāman*, the *antaryāma* graha. And in the course of a year — the "going of the cows" (*gavām ayana*) — the *svarasāma* days are very important in the performance of the sacrificial act. The division of time for this conduct is as follows:
+(Śa. Brā. 8-1-1-8) — Viśvakarman fashioned the *triṣṭubh* metre from the summer season; from the *triṣṭubh* metre, the *svarasāman*; and from the *svarasāman*, the *antaryāma* graha. And in the course of a year — the "going of the cows" (*gavām ayana*) — the *svarasāma* days are very important in the performance of the sacrificial act. The division of time for this conduct is as follows:
 
 1. The *prāyaṇīya* *atirātra*: the day of the beginning.
 2. *Caturviṃśa*-day … … consisting of the twenty-four-fold *stoma*.
