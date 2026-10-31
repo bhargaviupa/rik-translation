@@ -8859,10 +8859,10 @@ in many such ṛks it is described that Tvaṣṭṛ prepared for Indra the thun
 
 *(Header: "A. 2 A. 4 Va. 16"; "Ṛgvedasaṃhitā".)*
 
-- ***ṛjrā*** — root *ṛja gatisthānārjanādiṣu*; "*ṛjrendra*…" (Uṇ. Sū. 2-… [?]) the *ra*-ending is formed by *nipātana*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39 [?]) the dual (*au*) takes the substitution *ā*; likewise in *aśvā*.
+- ***ṛjrā*** — root *ṛja gatisthānārjanādiṣu*; "*ṛjrendra*…" (Uṇ. Sū. 2-186) the *ra*-ending is formed by *nipātana*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39) the dual (*au*) takes the substitution *ā*; likewise in *aśvā*.
 - ***vṛhatāt*** — root *vṛhū udyamane*; *tudādi*; *loṭ*, third person singular; since the *vikaraṇa* has the *jit*-term-ness, no light-vowel guṇa; *nighāta* for a *tiṅ*.
-- ***spṛdhaḥ*** — *spardha saṃgharṣe*; *spardhante iti spṛdhaḥ*; by "*kvip ca*" (Pā. Sū. 3-2-76 [?]) the suffix *kvip*; by "*bahulaṃ chandasi*" the *saṃprasāraṇa* of the *ra* of the root: *ṛ*; the *a* dropped; accusative plural.
-- ***yāsiṣat*** — root *yā prāpaṇe*; "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6 [?]) the *loṭ*-sense by *luṅ*; third person singular, *tip*; by "*iteś ca*" the *i* dropped; by "*cli luṅi*" *sic* is the substitution; "*yamaramanamātāṃ sak ca*" (Pā. Sū. 7-2-73 [?]) gives the root the augment *sak*, and the following *sic* the augment *iṭ*; by *vyatyaya* the augment *a* for the suffix; *nighāta* for a *tiṅ*. ‖ 5 ‖
+- ***spṛdhaḥ*** — *spardha saṃgharṣe*; *spardhante iti spṛdhaḥ*; by "*kvip ca*" (Pā. Sū. 3-2-76) the suffix *kvip*; by "*bahulaṃ chandasi*" the *saṃprasāraṇa* of the *ra* of the root: *ṛ*; the *a* dropped; accusative plural.
+- ***yāsiṣat*** — root *yā prāpaṇe*; "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6) the *loṭ*-sense by *luṅ*; third person singular, *tip*; by "*iteś ca*" the *i* dropped; by "*cli luṅi*" *sic* is the substitution; "*yamaramanamātāṃ sak ca*" (Pā. Sū. 7-2-73 [?]) gives the root the augment *sak*, and the following *sic* the augment *iṭ*; by *vyatyaya* the augment *a* for the suffix; *nighāta* for a *tiṅ*. ‖ 5 ‖
 
 ---
 
