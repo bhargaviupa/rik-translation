@@ -15254,7 +15254,7 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 
 (Śa. Brā. 14-3-2-16 [?]) — in such sentences of the *śruti*, and in Tai. Saṃ. 6-4-9 [?], the same matter is told, and the greatness of the Aśvin deities is praised.
 
-***syandrā*** — the word *syandra* is read among the names of motion (*gati*), of action (*karma*) and also of strength (*bala*) (Ni. 3-9 [?]). It describes the beauty of motion of the Aśvin deities. There are many mantras that describe their coming and its beauty. For example:
+***syandrā*** — the word *syandra* is read among the names of motion (*gati*), of action (*karma*) and also of strength (*bala*) (Ni. 3-9). It describes the beauty of motion of the Aśvin deities. There are many mantras that describe their coming and its beauty. For example:
 
 ### Printed p. 548  (PDF 568)
 
@@ -15729,7 +15729,7 @@ The Nirukta-writers have read the word *dhiṣaṇā* among the names of "speech
 > *napātā śavaso mahaḥ sūnū dakṣasya sukrato |*
 > *sṛpradānū [?] iṣo vāstvadhi kṣitaḥ ‖*
 
-(Ṛ. Saṃ. 8-25-5 [?]) — in such places it means "always flowing", i.e. "a giver without break". But in the ṛk at hand *vandhura* is used in the sense of the seat at the front on which the charioteer sits; there is no room here for the meaning "flowing". It can be taken as "an extremely wide seat". Sāyaṇa too has explained it in this sense. The explanation of the words *trivandhurām* and *tricakraḥ* has been given in the 34th sūkta (Ṛ. Saṃ. 1-34 [?]), Part 4.
+(Ṛ. Saṃ. 8-25-5 [?]) — in such places it means "always flowing", i.e. "a giver without break". But in the ṛk at hand *vandhura* is used in the sense of the seat at the front on which the charioteer sits; there is no room here for the meaning "flowing". It can be taken as "an extremely wide seat". Sāyaṇa too has explained it in this sense. The explanation of the words *trivandhurām* and *tricakraḥ* has been given in the 34th sūkta (Ṛ. Saṃ. 1-34), Part 4.
 
 ---
 
