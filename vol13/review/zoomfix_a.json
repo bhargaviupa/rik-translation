@@ -782,5 +782,13 @@
   "old": "bhāṣya Rik 4: ‘ekanemi [?]’; ṛ. 5-29-10 [?]; ṛ. 1-106-6 [?]; ṛ. 4-16-12 [?]",
   "new": "ekanemi; ṛ. 5-29-10; ṛ. 1 51. 6 [?] (as printed ‘ಋ. ೧ ೫೧. ೬’); ṛ. 4-16-12",
   "note": "220dpi: bhāṣya of Ṛk 4 compared line by line; the second citation prints ೧ ೫೧. ೬ (no hyphen after the 1), not 1-106-6."
+ },
+ {
+  "pdf": 397,
+  "printed": 377,
+  "status": "resolved",
+  "old": "Śruti quote ‘yo vā anūcānās te kavayaḥ’ [?]; Ni. 3-15 [?]; Ni. 12-13 [?]",
+  "new": "quote without [?]; Ni. 3-15; Ni. 12-13",
+  "note": "190dpi: ‘ಯೋ ವಾ ಅನೂಚಾನಾಸ್ತೇ ಕವಯಃ’; refs ನಿ.೩-೧೫ (hooked 3) and ನಿ.೧೨-೧೩ legible; Nirukta quote ‘medhāvī kaviḥ krāntadarśano bhavati kavater vā’ agrees."
  }
 ]

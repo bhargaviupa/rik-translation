@@ -9862,13 +9862,13 @@ Sage Indra, who are the lord, you have carried off by your strength one wheel of
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***kave — krāntadarśinn indra*** — Sāyaṇa has explained the meaning of this word in this way. In some other places Sāyaṇa has explained the meaning of this word in two ways. First, citing the Śruti sentence "*yo vā anūcānās te kavayaḥ*" [as read: [?]] he says that *kavi* means a learned one who has studied the Vedas along with the Vedāṅgas; second, following the Nirukta sentence which gives *manīṣī* (Ni. 3-15 [?]), he says that the meaning "intelligent" (*medhāvin*) may be taken.
+***kave — krāntadarśinn indra*** — Sāyaṇa has explained the meaning of this word in this way. In some other places Sāyaṇa has explained the meaning of this word in two ways. First, citing the Śruti sentence "*yo vā anūcānās te kavayaḥ*" he says that *kavi* means a learned one who has studied the Vedas along with the Vedāṅgas; second, following the Nirukta sentence which gives *manīṣī* (Ni. 3-15), he says that the meaning "intelligent" (*medhāvin*) may be taken.
 
 > मेधावी कविः क्रान्तदर्शनो भवति कवतेर्वा ।
 
 > *medhāvī kaviḥ krāntadarśano bhavati kavater vā |*
 
-(Ni. 12-13 [?]) — thus the Nirukta-writers have given the derivation of the word *kavi*. Derived from the root *kram*, it can mean "one whose vision is beyond"; or, from the root *kūṅ* (*kuṅ śabde*), "he who is worthy to be praised, a praiser": so the Nirukta derivation shows. What is the nature of a *kavi*? To know the nature and power of a *kavi*, one must know where the word *kavi* is used in the Ṛk-saṃhitā.
+(Ni. 12-13) — thus the Nirukta-writers have given the derivation of the word *kavi*. Derived from the root *kram*, it can mean "one whose vision is beyond"; or, from the root *kūṅ* (*kuṅ śabde*), "he who is worthy to be praised, a praiser": so the Nirukta derivation shows. What is the nature of a *kavi*? To know the nature and power of a *kavi*, one must know where the word *kavi* is used in the Ṛk-saṃhitā.
 
 ### Printed p. 378  (PDF 398)
 
