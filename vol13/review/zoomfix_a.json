@@ -2286,5 +2286,21 @@
   "old": "(Ni. 2-11 [?])",
   "new": "(Ni. 3-11)",
   "note": "User's spreadsheet spreadsheet Kannada_Numerals_Pages_81_100.xlsx (printed pp.81-100): 0 confirmed ([?] dropped); changed to the sheet's value: 2-11->3-11; not viewed by me."
+ },
+ {
+  "pdf": 172,
+  "printed": 152,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-102-5 [?])",
+  "new": "(Ṛ. Saṃ. 10-102-5)",
+  "note": "User's spreadsheet spreadsheet Kannada_Numerals_Pages_150_173.xlsx (printed pp.150-173): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 176,
+  "printed": 156,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 7-35-7 [?])",
+  "new": "(Ṛ. Saṃ. 7-38-7)",
+  "note": "User's spreadsheet spreadsheet Kannada_Numerals_Pages_150_173.xlsx (printed pp.150-173): 0 confirmed ([?] dropped); changed to the sheet's value: 7-35-7->7-38-7; not viewed by me."
  }
 ]
