@@ -1726,5 +1726,149 @@
   "old": "(Ṛ. Saṃ. 8-20-12)",
   "new": "(Ṛ. Saṃ. 8-20-17)",
   "note": "User confirmed that the spreadsheet kannada_numerals.xlsx is correct for this reference; value changed to the sheet's (1 occurrence(s)). Earlier reading from the page was Ṛ. Saṃ. 8-20-12."
+ },
+ {
+  "pdf": 505,
+  "printed": 485,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 2-34-3 [?]); (Ṛ. Saṃ. 1-148-4 [?])",
+  "new": "(Ṛ. Saṃ. 2-34-3); (Ṛ. Saṃ. 1-148-4)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 2 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 506,
+  "printed": 486,
+  "status": "resolved",
+  "old": "(Pā. Sū. 8-2-64 [?], as read)",
+  "new": "(Pā. Sū. 8-2-54, as read)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 8-2-64->8-2-54; not viewed by me."
+ },
+ {
+  "pdf": 509,
+  "printed": 489,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-91-15 [?])",
+  "new": "(Ṛ. Saṃ. 1-91-15)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 514,
+  "printed": 494,
+  "status": "resolved",
+  "old": "(Śa. Brā. 6-1-1-1 [?])",
+  "new": "(Śa. Brā. 6-1-1-1)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 527,
+  "printed": 507,
+  "status": "resolved",
+  "old": "(Ni. 1-15 [?])",
+  "new": "(Ni. 2-15)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 1-15->2-15; not viewed by me."
+ },
+ {
+  "pdf": 528,
+  "printed": 508,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-112-20 [?])",
+  "new": "(Ṛ. Saṃ. 1-117-20)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 1-112-20->1-117-20; not viewed by me."
+ },
+ {
+  "pdf": 529,
+  "printed": 509,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-39-13 [?])",
+  "new": "(Ṛ. Saṃ. 10-39-12)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 10-39-13->10-39-12; not viewed by me."
+ },
+ {
+  "pdf": 535,
+  "printed": 515,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 5-40-2 [?]); (Ṛ. Saṃ. 5-2-1 [?])",
+  "new": "(Ṛ. Saṃ. 5-40-7); (Ṛ. Saṃ. 5-2-1)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 5-40-2->5-40-7; not viewed by me."
+ },
+ {
+  "pdf": 542,
+  "printed": 522,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-164-3 [?]); (Ni. 2-7 [?])",
+  "new": "(Ṛ. Saṃ. 1-164-3); (Ni. 2-5)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 2-7->2-5; not viewed by me."
+ },
+ {
+  "pdf": 544,
+  "printed": 524,
+  "status": "resolved",
+  "old": "(Ni. 4-25 [?]); (Ni. 2-8 [?]); (Ni. 1-7 [?])",
+  "new": "(Ni. 4-25); (Ni. 3-8); (Ni. 1-7)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 2 confirmed ([?] dropped); changed to the sheet's value: 2-8->3-8; not viewed by me."
+ },
+ {
+  "pdf": 548,
+  "printed": 528,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 5-85-6 [?])",
+  "new": "(Ṛ. Saṃ. 5-85-6)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 549,
+  "printed": 529,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 7-35-2 [?])",
+  "new": "(Ṛ. Saṃ. 7-35-3)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 7-35-2->7-35-3; not viewed by me."
+ },
+ {
+  "pdf": 550,
+  "printed": 530,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-116-13 [?]; 1-117-19 [?])",
+  "new": "(Ṛ. Saṃ. 1-116-17; 1-117-19 [?])",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 1-116-13->1-116-17; not viewed by me."
+ },
+ {
+  "pdf": 553,
+  "printed": 533,
+  "status": "resolved",
+  "old": "(Ni. 1-7 [?])",
+  "new": "(Ni. 1-7)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 557,
+  "printed": 537,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 10-108 [?])",
+  "new": "(Ṛ. Saṃ. 10-108)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 558,
+  "printed": 538,
+  "status": "resolved",
+  "old": "(Pā. Sū. 8-1-34 [?])",
+  "new": "(Pā. Sū. 8-1-34)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 580,
+  "printed": 560,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-102-1 [?])",
+  "new": "(Ṛ. Saṃ. 1-107-1)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 1-102-1->1-107-1; not viewed by me."
+ },
+ {
+  "pdf": 585,
+  "printed": 565,
+  "status": "resolved",
+  "old": "(Ni. 12-3 [?])",
+  "new": "(Ni. 12-3)",
+  "note": "User's spreadsheet kannada_numerals_separated.xlsx (first token of each row = printed page): 1 confirmed ([?] dropped); not viewed by me."
  }
 ]
