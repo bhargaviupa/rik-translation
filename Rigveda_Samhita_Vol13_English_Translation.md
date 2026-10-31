@@ -7848,27 +7848,27 @@ This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to ou
 
 > *ny asmai devī svadhitir jihīte indrāya gātur uśatīva yeme | saṃ yad ojo yuvate viśvam ābhir anu svadhāvne kṣitayo namanta ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 5-32-10 [?]) — here *gātu* is taken to mean "the earth" (the word *gātu* is read among the names of the earth, Ni. 1-… [?]);
+(Ṛ. Saṃ. 5-32-10) — here *gātu* is taken to mean "the earth" (the word *gātu* is read among the names of the earth, Ni. 2-5);
 
 > स ते जानाति सुमतिं यविष्ठ य ईवते ब्रह्मणे गातुमैरत् । विश्वान्यस्मै सुदिनानि रायो द्युम्नान्यर्यो वि दुरो अभि द्यौत् ॥
 
 > *sa te jānāti sumatiṃ yaviṣṭha ya īvate brahmaṇe gātum airat | viśvāny asmai sudināni rāyo dyumnāny aryo vi duro abhi dyaut ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 4-4-6 [?]). In such ṛks the word is also used as a synonym of *stotra* (praise): "*gīyate uccāryate iti gātuḥ stotram*" ("that which is sung, uttered, is *gātu*, praise"). In the ṛk at hand it is given the meaning "going" (*gamanam*) or "the region of the sacrificial place of the gods" (*devayajanadeśa*).
+(Ṛ. Saṃ. 4-4-6). In such ṛks the word is also used as a synonym of *stotra* (praise): "*gīyate uccāryate iti gātuḥ stotram*" ("that which is sung, uttered, is *gātu*, praise"). In the ṛk at hand it is given the meaning "going" (*gamanam*) or "the region of the sacrificial place of the gods" (*devayajanadeśa*).
 
-***jīradānum*** — in Ṛk 1-165-15 [?] Sāyaṇa has given for this word the meaning "*jayaśīladānam*" ("giving that conquers"); there is also an alternative reading, "*jayaśīlaṃ dānaṃ jīvanaṃ vā*". Here how the word *jīra* comes to mean "victory" or "that which gives victory" is a matter for discussion. *Jīra* and *dānu* are two words which, taken separately, are used in many places in different senses; moreover, with the word *jīra*, such words as *aśva*, *adhvara* combine, giving *jīrāśva*, *jīrādhvara* and the like.
+***jīradānum*** — in Ṛk 1-165-15 Sāyaṇa has given for this word the meaning "*jayaśīladānam*" ("giving that conquers"); there is also an alternative reading, "*jayaśīlaṃ dānaṃ jīvanaṃ vā*". Here how the word *jīra* comes to mean "victory" or "that which gives victory" is a matter for discussion. *Jīra* and *dānu* are two words which, taken separately, are used in many places in different senses; moreover, with the word *jīra*, such words as *aśva*, *adhvara* combine, giving *jīrāśva*, *jīrādhvara* and the like.
 
 > मनुष्वद्देव धीमहि प्रचेतसं जीरं दूतममर्त्यम् ।
 
 > *manuṣvad deva dhīmahi pracetasaṃ jīraṃ dūtam amartyam |*
 
-(Ṛ. Saṃ. 1-44-11 [?]) — in this ṛk, showing the derivation of the word *jīra*, Sāyaṇa says that it is formed from the root *jū* (*jorī ca*, Uṇ. Sū. 2-191 [?]) and gives the meaning "*śatrūṇāṃ vayohānikaram*" ("that which causes loss of life to enemies"). Here *jīraṃ* is an epithet of Agni. The derivation is possible also from the root *jyā vayohānau* ("to age, to lose strength"), as is learnt from this meaning. The Nirukta-writers have read the word *jīra* among the names of the "swift" (Ni. 2-… [?]).
+(Ṛ. Saṃ. 1-44-11) — in this ṛk, showing the derivation of the word *jīra*, Sāyaṇa says that it is formed from the root *jū* (*jorī ca*, Uṇ. Sū. 2-191 [?]) and gives the meaning "*śatrūṇāṃ vayohānikaram*" ("that which causes loss of life to enemies"). Here *jīraṃ* is an epithet of Agni. The derivation is possible also from the root *jyā vayohānau* ("to age, to lose strength"), as is learnt from this meaning. The Nirukta-writers have read the word *jīra* among the names of the "swift" (Ni. 2-… [?]).
 
 > दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्नमिष्टये । प्राचीनरश्मिमाहुतं घृतेन तद्देवानामवो अद्या वृणीमहे ॥
 
 > *divispṛśaṃ yajñam asmākam aśvinā jīrādhvaraṃ kṛṇutaṃ sumnam iṣṭaye | prācīnaraśmim āhutaṃ ghṛtena tad devānām avo adyā vṛṇīmahe ‖*
 
-(Ṛ. Saṃ. 10-36-6 [?]) — in this ṛk the Aśvin deities are asked to "make our sacrifice *jīrādhvara*"; here *jīrādhvara* means a sacrifice that is without obstruction by the Rākṣasas, free of violence, and carried through swiftly.
+(Ṛ. Saṃ. 10-36-6) — in this ṛk the Aśvin deities are asked to "make our sacrifice *jīrādhvara*"; here *jīrādhvara* means a sacrifice that is without obstruction by the Rākṣasas, free of violence, and carried through swiftly.
 
 ### Printed p. 310  (PDF 330)
 
