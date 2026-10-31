@@ -12071,7 +12071,7 @@ O Indra! Being well praised by us, come facing us, with the mantras of the prais
 > *agnestu yoni [?] sūktāni pañca sāmāni kāravaḥ |*
 > *ṣaḍviṃśatistathendrasya prāhuḥ sūryasya sapta ca ‖*
 
-(Bṛ. De. 2-22 [?])
+(Bṛ. De. 2-22)
 
 > पृथक्त्वेन समासैस्तु यज्ञे यच्चैस्यते [?] नृभिः ।
 > स्तुवन्त्याप्रीषु तेनेमं नराशंसं तु कारवः ॥
@@ -12087,7 +12087,7 @@ O Indra! Being well praised by us, come facing us, with the mantras of the prais
 > *pradakṣiṇidabhi [?] gṛṇanti kāravo vayo vadanta ṛtuthā śakuntayaḥ |*
 > *ubhe vācau vadati sāmagā iva gāyatraṃ ca traiṣṭubhaṃ cānu rājati ‖*
 
-(Ṛ. Saṃ. 2-43-1 [?])
+(Ṛ. Saṃ. 2-43-1)
 
 > वि चेदुच्छन्त्यश्विना उषासः प्र वां ब्रह्माणि कारवो भरन्ते ।
 > ऊर्ध्वं भानुं सविता देवो अश्रेद्बृहदग्नयः [?] समिधा जरन्ते ॥
@@ -12167,7 +12167,7 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***śruṣṭiḥ*** — "*śruṣṭīti kṣipranāma āśu aṣṭīti*" — the word *śruṣṭi*, which gives the sense "to pervade quickly", the Nirukta-writers have said is to be counted among the names of "swift" (*kṣipra*) (Ni. 6-12 [?]); and to show the usage of the word, the Ṛk-saṃhitā ṛk
+***śruṣṭiḥ*** — "*śruṣṭīti kṣipranāma āśu aṣṭīti*" — the word *śruṣṭi*, which gives the sense "to pervade quickly", the Nirukta-writers have said is to be counted among the names of "swift" (*kṣipra*) (Ni. 6-12); and to show the usage of the word, the Ṛk-saṃhitā ṛk
 
 > ता अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरंधिम् ।
 
@@ -12179,7 +12179,7 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 > *vaneṣu jāyurmarteṣu mitro vṛṇīte śruṣṭiṃ rājevājuryam |*
 
-(Ṛ. Saṃ. 1-67-1 [?]) — in this ṛk the Nirukta-writers' own derivation is cited (Ni. 6-12 [?]): "one who performs rites quickly" — so it is explained that the word is used as a synonym of the sacrificer. Thus different meanings, too, become possible according to the context. For example:
+(Ṛ. Saṃ. 1-67-1) — in this ṛk the Nirukta-writers' own derivation is cited (Ni. 6-12): "one who performs rites quickly" — so it is explained that the word is used as a synonym of the sacrificer. Thus different meanings, too, become possible according to the context. For example:
 
 > नकिष्ट एता व्रता मिनन्ति नृभ्यो यदेभ्यः श्रुष्टिं चकर्थ ।
 
@@ -12231,7 +12231,7 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 > *tvamasmai kutsamatithigvamāyuṃ mahe rājñe yūne arandhanāyaḥ |*
 
-(Ṛ. Saṃ. 1-53-10 [?])
+(Ṛ. Saṃ. 1-53-10)
 
 ### Printed p. 450  (PDF 470)
 
@@ -12241,7 +12241,7 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 > *ya āyuṃ kutsamatithigvamardayo vāvṛdhāno divedive |*
 
-(Ṛ. Saṃ. 8-53-2 [?]) — citing these two ṛks, they infer that the person called *Āyu* must be an adversary of Indra. Since *arandhanāyuḥ* and *ardayaḥ* ("subdued", "harassed") occur — "he harassed him, he made him his own" — they say that he is understood to be Indra's enemy. But in this context, in the Sāyaṇa-bhāṣya, for "*ardayaḥ*" Sāyaṇa says: "*āyuṃ āyunāmānam ṛṣiṃ varapradānena pīḍayasi*" — "you oppress the ṛṣi named Āyu by giving him boons" — and explains that Indra burdens devotee-friends like Āyu with the load of granting boons and so "harasses" them. But this is an imported meaning; the explanation is not natural. Besides:
+(Ṛ. Saṃ. 8-53-2) — citing these two ṛks, they infer that the person called *Āyu* must be an adversary of Indra. Since *arandhanāyuḥ* and *ardayaḥ* ("subdued", "harassed") occur — "he harassed him, he made him his own" — they say that he is understood to be Indra's enemy. But in this context, in the Sāyaṇa-bhāṣya, for "*ardayaḥ*" Sāyaṇa says: "*āyuṃ āyunāmānam ṛṣiṃ varapradānena pīḍayasi*" — "you oppress the ṛṣi named Āyu by giving him boons" — and explains that Indra burdens devotee-friends like Āyu with the load of granting boons and so "harasses" them. But this is an imported meaning; the explanation is not natural. Besides:
 
 > मा नो गुह्या रिप आयोरहन्दभन्नशविष्ठा [?] मा आभ्यो रीरधो दुच्छुनाभ्यः ।
 
@@ -12253,13 +12253,13 @@ O Indra! You have well-known prosperity by which you are able to protect your pr
 
 > *yuyopa nābhiruparasyāyoḥ pra pūrvābhistirate rāṣṭi śūraḥ |*
 
-(Ṛ. Saṃ. 1-104-4 [?]) — here too: "*āyoḥ pareṣām upadravārtham itas tato gacchataḥ kuyavasya asurasya*" — "of the Asura Kuyava, who goes hither and thither to molest others", is the sense he gives. It is established that this is a person in the form of an enemy. But again:
+(Ṛ. Saṃ. 1-104-4) — here too: "*āyoḥ pareṣām upadravārtham itas tato gacchataḥ kuyavasya asurasya*" — "of the Asura Kuyava, who goes hither and thither to molest others", is the sense he gives. It is established that this is a person in the form of an enemy. But again:
 
 > कुत्सस्यायोरतिथिग्वस्य वीरान्न्यावृणग्भरता सोममस्मै ।
 
 > *kutsasyāyoratithigvasya vīrānnyāvṛṇagbharatā somamasmai |*
 
-(Ṛ. Saṃ. 2-14-7 [?]) — in such places Kutsa, Atithigva and Āyu are all evidently stated to be friends needed by Indra. Thus there are persons named Āyu who are enemies of the deities and of sacrificers; the Āyu who is Indra's friend is another; the Āyu who is Agni's friend is yet another; and the fact that there was a lineage known by the name Āyu is known from many *śruti* sentences. For example:
+(Ṛ. Saṃ. 2-14-7) — in such places Kutsa, Atithigva and Āyu are all evidently stated to be friends needed by Indra. Thus there are persons named Āyu who are enemies of the deities and of sacrificers; the Āyu who is Indra's friend is another; the Āyu who is Agni's friend is yet another; and the fact that there was a lineage known by the name Āyu is known from many *śruti* sentences. For example:
 
 > उर्वश्यसीत्यथोत्तरारणिमाज्यविलापनीमुपस्पृशत्यायुरसीति तामभिनिदधाति पुरूरवा असीत्यैर्वशी वाप्सराः पुरूरवाः पतिरथ यत्तस्मान्मिथुनादजायत तदायुरेवैनमेवैष एतस्मान्मिथुनाद्यज्ञं जनयति [?]
 
@@ -12394,7 +12394,7 @@ Uṣas (Dawn) is said to be the elder sister of Night. With the rising of Uṣas
 > *ā suṣvayantī yajate upāke uṣāsānaktā sadatāṃ ni yonau |*
 > *divye yoṣaṇe bṛhatī surukme adhi śriyaṃ śukrapiśaṃ dadhāne ‖*
 
-(Ṛ. Saṃ. 10-110-6 [?]) — in such ṛks day and night are said to be the sacrificer's neighbours. Because they are connected with the things of the sacrifice that bring about worldly affairs, they have the epithet *ṛtasya mātarā* ("the two mothers of the *ṛta*"). Such sister-like day and night, in their own place, carry out the acts such as rain … [the passage continues on the next page.]
+(Ṛ. Saṃ. 10-110-6) — in such ṛks day and night are said to be the sacrificer's neighbours. Because they are connected with the things of the sacrifice that bring about worldly affairs, they have the epithet *ṛtasya mātarā* ("the two mothers of the *ṛta*"). Such sister-like day and night, in their own place, carry out the acts such as rain … [the passage continues on the next page.]
 
 ---
 
@@ -12440,7 +12440,7 @@ Uṣas (Dawn) is said to be the elder sister of Night. With the rising of Uṣas
 > *yajñena yajñamayajanta devāstāni dharmāṇi prathamānyāsan |*
 > *te ha nākaṃ mahimānaḥ sacanta yatra pūrve sādhyāḥ santi devāḥ ‖*
 
-(Ṛ. Saṃ. 10-90-16 [?]) — the gods worshipped Prajāpati in the form of the sacrifice, by the sacrifice, which was their own resolve (*saṅkalpa*) in form and meditative in nature. All the cosmic laws (*dharma*) have this sacrifice as their root. These very laws of the sacrifice, established in the intermediate region, are in the places of the gods who dwell in heaven. It is by the sacrifice that all beings obtain the food and the strength that sustain them. This sacrifice itself places the three worlds in their stability. Thus:
+(Ṛ. Saṃ. 10-90-16) — the gods worshipped Prajāpati in the form of the sacrifice, by the sacrifice, which was their own resolve (*saṅkalpa*) in form and meditative in nature. All the cosmic laws (*dharma*) have this sacrifice as their root. These very laws of the sacrifice, established in the intermediate region, are in the places of the gods who dwell in heaven. It is by the sacrifice that all beings obtain the food and the strength that sustain them. This sacrifice itself places the three worlds in their stability. Thus:
 
 > कल्पन्तेऽस्मा इमे लोका ऊर्जं प्रजासु दधाति त्रिरात्रेणैवेमं लोकं कल्पयति त्रिरात्रेणान्तरिक्षं त्रिरात्रेणामुं लोकं यथा गुणे गुणमन्वस्यत्येवमेवैतल्लोके लोकमन्वस्यति धृत्या अशिथिलं भावाय ।
 
@@ -12502,7 +12502,7 @@ In this womb of the world, the *svasṛ*s ("sisters"), having performed their ac
 
 > *āvāsṛjanta jivrayo na devā bhuvaḥ samrāḷindra satyayoniḥ | [as read [?]]*
 
-(Ṛ. Saṃ. 4-19-2 [?]) — in this ṛk *samrāṭ* is described as the protector of all the worlds and the abode (*niyāsa*) of truth. And likewise:
+(Ṛ. Saṃ. 4-19-2) — in this ṛk *samrāṭ* is described as the protector of all the worlds and the abode (*niyāsa*) of truth. And likewise:
 
 > सम्राळन्यः स्वराळन्य उच्यते वां महान्तावुद्रावरुणा [?] महावसू ।
 > विश्वे देवासः परमे व्योमनि सं वामोजो वृषणा सं बलं दधुः ॥
