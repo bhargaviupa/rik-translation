@@ -7009,7 +7009,7 @@ Those people, who, jointly worshipping Indra, diligently endeavour, O hero, to p
 
 In this ṛk it is described that the Maruts (the Marut deities), the companions of Indra, ever practise and cause to practise the giving of strength to Indra in the time of battles, and that the extraordinary help of the Maruts is thus available. In the same way, the sacrificers also, when they perform sacrifices, strive to worship Indra in the sacrifices; this too is described.
 
-***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. [2 or 7]-9 [?]). And the Nirukta-writers, showing the derivation of this word, say:
+***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 2-9 [?]). And the Nirukta-writers, showing the derivation of this word, say:
 
 > समदः संमदो वा मदतेः ; संमुदो वा मदतेः ।
 
@@ -7021,7 +7021,7 @@ In this ṛk it is described that the Maruts (the Marut deities), the companions
 
 > *ā jaṅghanti sānv eṣāṃ jaghanāṁ upa jighnate | aśvājani pracetaso 'śvān samatsu codaya ‖*
 
-(Ṛ. Saṃ. 6-75-12) — quoting this ṛk, the special meaning of the word is shown there.
+(Ṛ. Saṃ. 6-75-13 [?]) — quoting this ṛk, the special meaning of the word is shown there.
 
 ***prapathintamam — sukṛtināṃ uttamamārgabhūtam*** — Indra, who shows the best path to the virtuous, is, by the non-difference of cause and effect, described as the best path itself.
 
@@ -7067,19 +7067,19 @@ In places like
 
 > *maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ nāvṛdhathyai |* [as read: [?]]
 
-(Ṛ. Saṃ. 1-61-3 [?]) — in such ṛks *viparyayaṃ* [as read: *vipaścitam*? [?]] "Indra" shows the wisdom of Indra and the other deities. Besides, when it bears the sense "lord, impeller, guide of the right path", the word *sūri* is used; and for example —
+(Ṛ. Saṃ. 1-61-2 [?]) — in such ṛks *viparyayaṃ* [as read: *vipaścitam*? [?]] "Indra" shows the wisdom of Indra and the other deities. Besides, when it bears the sense "lord, impeller, guide of the right path", the word *sūri* is used; and for example —
 
 > जनो यः पज्रेभ्यो वाजिनीवानश्वावतो रथिनो मह्यं सूरिः ।
 
 > *jano yaḥ pajrebhyo vājinīvān aśvāvato rathino mahyaṃ sūriḥ |*
 
-(Ṛ. Saṃ. 1-122-8 [?]);
+(Ṛ. Saṃ. 1-122-8);
 
 > असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ।
 
 > *asad yathā jaritra uta sūrir indro rāyo viśvavārasya dātā |*
 
-(Ṛ. Saṃ. 6-23-10 [?]);
+(Ṛ. Saṃ. 6-23-10);
 
 > मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ।
 
