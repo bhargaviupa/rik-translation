@@ -9938,27 +9938,27 @@ with the horses of Śuṣṇa — Indra, having the *kutsa* (cutting) thunderbol
 
 > *tvaṃ kutsaṃ śuṣṇahatyeṣv āvitha arandhayo 'tithigvāya śambaram | mahāntaṃ cid arbudaṃ ni kramīḥ padā sanād eva dasyuhatyāya jajñiṣe ‖*
 
-(Ṛ. Saṃ. 1-51-6 [?]);
+(Ṛ. Saṃ. 1-51-6);
 
 > कुत्सायु शुष्णमशुषं नि बर्हीः प्रपित्वे अह्नः कुयवं सहसा ।
 
 > *kutsāyu śuṣṇam aśuṣaṃ ni barhīḥ prapitve ahnaḥ kuyavaṃ sahasā |*
 
-(Ṛ. Saṃ. 4-16-12 [?]).
+(Ṛ. Saṃ. 4-16-12).
 
-In these ṛks Sāyaṇa has quoted them to show that this meaning is stated; and he explains that the same intention is expressed in other mantras. The word *śuṣṇa* is read by Yāska among the names of strength (Ni. 2-9 [?]). And —
+In these ṛks Sāyaṇa has quoted them to show that this meaning is stated; and he explains that the same intention is expressed in other mantras. The word *śuṣṇa* is read by Yāska among the names of strength (Ni. 3-9). And —
 
 > नियद्वृणक्षि श्वसनस्य मूर्धनि शुष्णस्य चित्व्रन्दिनो रोरुवद्वना । प्राचीनेन मनसा बर्हणावता यदद्या चित्कृणवः कस्त्वा परि ॥
 
 > *ni yad vṛṇakṣi śvasanasya mūrdhani śuṣṇasya cit vrandino roruvad vanā | prācīnena manasā barhaṇāvatā yad adyā cit kṛṇavaḥ kas tvā pari ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-54-5 [?]). In this ṛk the meaning "*śuṣṇasya śoṣayitur ādityasya*" — "of Śuṣṇa, of the dryer, i.e. of the Āditya" — is explained.
+(Ṛ. Saṃ. 1-54-5). In this ṛk the meaning "*śuṣṇasya śoṣayitur ādityasya*" — "of Śuṣṇa, of the dryer, i.e. of the Āditya" — is explained.
 
 > न्याविध्यदिलीबिशस्य दृळ्हा वि शृङ्गिणमभिनच्छुष्णमिन्द्रः । यावत्तरो मघवन् यावदोजो वज्रेण शत्रुमवधीः पृतन्युम् ॥
 
 > *ny āvidhyad ilībiśasya dṛḷhā vi śṛṅgiṇam abhinac chuṣṇam indraḥ | yāvat taro maghavan yāvad ojo vajreṇa śatrum avadhīḥ pṛtanyum ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-33-12 [?]). Here the word *śuṣṇa* is used in the sense of *śuṣṇaṃ balavantaṃ meghaṃ*, "the mighty cloud".
+(Ṛ. Saṃ. 1-33-12). Here the word *śuṣṇa* is used in the sense of *śuṣṇaṃ balavantaṃ meghaṃ*, "the mighty cloud".
 
 ***kutsaṃ*** — here the commentary of Sāyaṇa shows that two kinds of meaning may be given for the word *kutsa*. First, as an epithet of the thunderbolt, "*kutsa-kartana-sādhanam*" (the instrument of cutting, being the means of cutting); second, "*kutsaṃ kutsanāmānam ṛṣim*" — he explains it as "the sage called Kutsa". If it is explained as "sage", it is the praise of Indra that he killed the *asura* Śuṣṇa and helped Kutsa.
 
