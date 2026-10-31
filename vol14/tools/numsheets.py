@@ -3,7 +3,7 @@ python3 numsheets.py FIRST LAST OUTPREFIX [PER_SHEET=48]   -> OUTPREFIX_<first>.
 import sys,os,subprocess,tempfile
 from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0,os.path.dirname(__file__))
-from cfg import part_of,flipped
+from cfg import part_of
 from PIL import Image,ImageDraw
 DPI=100; XL=(0.03,0.27); XR=(0.73,0.97); TH=62
 import numpy as np
@@ -18,7 +18,6 @@ def strip(g):
     p,n=part_of(g); d=tempfile.mkdtemp()
     subprocess.run(['pdftoppm','-f',str(n),'-l',str(n),'-r',str(DPI),'-gray',p,d+'/p'],check=True)
     im=Image.open(d+'/'+os.listdir(d)[0]).convert('L'); subprocess.run(['rm','-rf',d])
-    if flipped(g): im=im.rotate(180)
     W,H=im.size; y=header_y(im); y0=max(0,y-8)
     box=lambda xs:im.crop((int(W*xs[0]),y0,int(W*xs[1]),y0+TH))
     a,b=box(XL),box(XR); t=Image.new('L',(a.width+b.width+4,a.height+12),255); t.paste(a,(0,12)); t.paste(b,(a.width+4,12))
