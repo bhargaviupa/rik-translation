@@ -3459,4 +3459,219 @@ In the Ṛgveda, besides ṛks relating to the Viśvedevas occurring here and th
 
 ---
 
-**Progress note:** Done through printed p. 103 (PDF 121). Sūkta 185 closed. Sūkta 186 (ā na iḷābhiḥ; 11 ṛks; Agastya; Viśvedevas; triṣṭubh): Ṛk 1 OPEN — Saṃhitā through printed English done; Special Topics in progress (sajoṣāḥ, śavaḥ, then a long note on the Viśvedevas); the list of first-maṇḍala Viśvedeva sūktas ('14, 89, 90, 105, 106, 107, 121, …') breaks off at the foot of p. 103 — continue on printed p. 104 / PDF 122. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed.
+
+---
+
+### Printed p. 104  (PDF 122)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 1, continued.)*
+
+… 122nd sūktas; in the second maṇḍala, the 29th and 31st sūktas; in the third maṇḍala, the 54th sūkta; in the fourth maṇḍala, the 55th sūkta; in the fifth maṇḍala, 41, 42, 43, 44, 45, 46, 48, 49, 50, 51; in the sixth maṇḍala, 49, 50, 51, 52; in the seventh maṇḍala, 35, 36, 37, 39, 40, 42, 43; in the eighth maṇḍala, 27, 28, 29, 30, 58, 83; in the tenth maṇḍala, 31, 32, 35, 36, 64, 65, 66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181 — these sūktas have the Viśvedevas as deity.
+
+**विदथे (*vidathe*)** — यज्ञे (*yajñe*): "in the sacrifice", that is, "in the place of sacrifice". By वेदयित्सु[?] स्तोत्रेषु निमित्तभूतेषु (*vedayitsu[?] stotreṣu nimittabhūteṣu*) the derivation (*nirvacana*) of the word *vidatha* has been shown; here only one of the derivations of the author of the Nirukta has been followed. It is read among the names of sacrifice, यज्ञः, वेनः (*yajñaḥ, venaḥ*) and the rest (Ni. 3-19); and, to show that the word *vidatha* means knowledge, with विदथानि वेदनानि (*vidathāni vedanāni*) (Ni. 6-7), citing the ṛk
+
+> होता देवो अमर्त्यः पुरस्तादेति मायया । विदथानि प्रचोदयन् ॥
+
+> *hotā devo amartyaḥ purastādeti māyayā | vidathāni pracodayan ‖*
+
+(Ṛ. Saṃ. 3-27-7) (Gloss, mine and tentative: "The Hotṛ, the immortal god, goes in front by his wondrous power, impelling the *vidathas*.")
+
+— he has made known that there it is derived from the root *vid* in the sense of knowing. Here Sāyaṇa has given the meaning विदथानि वेदितव्यानि कर्माणि (*vidathāni veditavyāni karmāṇi*): "rites that are to be known". Some scholars have tried to state a definite meaning for this word, and all have made known their individual opinions. Since each one has shown a different derivation of this word and given a different meaning, it becomes known that all those meanings fit according to context. The scholar Max Muller [as printed], in explaining the ṛk
+
+> अमादेषां भियसा भूमिरेजति नौर्न पूर्णा क्षरति व्यथिर्यती ।
+> दूरेदृशो ये चितयंत एमभिरंतर्महे विदथे येतिरे नरः ॥
+
+> *amādeṣāṃ bhiyasā bhūmirejati naurna pūrṇā kṣarati vyathiryatī |*
+> *dūredṛśo ye citayaṃta emabhiraṃtarmahe vidathe yetire naraḥ ‖*
+
+(Ṛ. Saṃ. 5-59-2) (Gloss, mine and tentative: "From their onset the earth trembles with fear; like a full ship she goes reeling; the far-seen heroes who shine with their courses have striven within the great *vidatha*.")
+
+— has given for the word *vidathe* the meaning "(sacrificial) assembly (the great sacrificial assembly)". And, while giving its explanation, he set out the meaning that other German scholars have given to this word and their opinions about its root, and finally:
+
+> Vidatha may have been the name of a sacred act. as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes.
+>
+> (Sacred Books of the East. Vol. 32 p. 349-50)
+
+Some have said that, just as "sacred knowledge" is the meaning of the word *veda*, "sacred act" is the meaning of the word *vidatha*. But he has concluded that there is no doubt that "sacrificial assembly" is the principal meaning of this word.
+
+---
+
+### Printed p. 105  (PDF 123)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 1, continued.)*
+
+The scholar Hermann Oldenberg, in the work named Vedic Hymns, while explaining the meaning of the word *vidathe* in the ṛk Ṛ. Saṃ. 1-31-6, has made known his opinion in this way. His sentences are quoted, and afterwards his opinions are made known.
+
+*(Quoted in English as printed; the Sanskrit words in it are printed in Kannada script and are given here in Devanagari.)*
+
+On the derivation and meaning of विदथ (*vidatha*) Various opinions have been pronounced in the last years which have been collected by prof. Max Muller in hi• [sic] note on R. V V-59-2 (S. B. E• Vol. 32 p. 349 sq.) without trying to discuss here all different theories, I proceed to state my own opinion-
+
+I propose to derive विदथ (*vidatha*) from वि+धा (*vi+dhā*); The Verb वि+धा (*vi+dhā*) means 'to distribute, to arrange, to ordain;' thus the original meaning of विदथ (*vidatha*) must be like the meaning of विधान (*vidhāna*), 'distribution, disposition, ordinance; In V. 3-6, we read विदथेषु अह्नां (*vidatheṣu ahnāṃ*): this phrase receives its explanation by VII. 66-11 we may call attention also to VI. 51-2 within the sphere of the Vedic poets' thoughts, the most prominent example of something most artificially विहित (*vihita*) was the secrifice [sic]. यज्ञ (*yajña*) and विदथ (*vidatha*), Sacrifice and ordinance became nearly synonymous. (III 3-3) …. …. …. …. …. finally विदथ (*vidatha*) seems to mean 'the act of disposing of any business' or the like; this meaning appears, I believe, in some passages like the well-known phrase, बृहद्वदेम विदथे (*bṛhadvadema vidathe*) [?]वीराः (*vīrāḥ*):—may we with Valiant men mightily raise our voice in the determining of ordinances. Thus the word वि (*vi*)[?]थ (*tha*) and सभा (*sabhā*) approach each other in their meaning; a person influential in council is called both विदथ्य (*vidathya*) and सभेय (*sabheya*)'.
+
+(Sacred Books of the East• Vol. 46• p. 27)
+
+*(In the phrase from the well-known verse the first syllable before "vīrāḥ" and, later, the middle letter of "vi-?-tha" are blurred in the print.)*
+
+The main gist of this writing is: the word *vidatha* is formed by joining the upasarga *vi* to the root *dhā*. *vidhā* means "to divide, to regulate"; it may also mean "the keeping of rules". That the meanings of the two words *vidatha* and *vidhā* are the same is known, by similarity of meaning, from the words विदथेष्वह्नां (*vidatheṣvahnāṃ*) in the ṛk
+
+> वयमग्ने वनुयाम त्वोता वसूयवो हविषा बुध्यमानाः ।
+> वयं समर्ये विदथेष्वह्नां वयं राया सहसस्पुत्र मर्तान् ॥
+
+> *vayamagne vanuyāma tvotā vasūyavo haviṣā budhyamānāḥ |*
+> *vayaṃ samarye vidatheṣvahnāṃ vayaṃ rāyā sahasasputra martān ‖*
+
+(Ṛ. Saṃ. 5-3-6, "Saṃ." printed with a broken letter) (Gloss, mine and tentative: "May we, O Agni, helped by you, seeking wealth, awake with the oblation, overcome mortals — we in battle, in the ordinances of the days, we by riches, O son of strength.")
+
+and from the words वि — दधुः (*vi — dadhuḥ*) in the ṛk
+
+> वि ये दधुः शरदं मासमादहर्यज्ञमक्तुं चादृचं ।
+> अनाप्यं वरुणो मित्रो अर्यमा क्षत्रं राजान आशत ॥
+
+> *vi ye dadhuḥ śaradaṃ māsamādaharyajñamaktuṃ cādṛcaṃ |*
+> *anāpyaṃ varuṇo mitro aryamā kṣatraṃ rājāna āśata ‖*
+
+(Ṛ. Saṃ. 7-66-11) (Gloss, mine and tentative: "Who ordained the autumn, the month, the day, the sacrifice, the night and the ṛk — Varuṇa, Mitra, Aryaman, the kings, have attained an unattainable dominion.")
+
+And, the meanings of the words *vihita* and *vidatha* being one, the sacrifice enjoined by the śāstras is itself (called) by the name *vidatha* *(continues on the next page)*
+
+---
+
+---
+
+### Printed p. 106  (PDF 124)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 1, continued.)*
+
+… was called. This scholar has explained that the meaning "sacrifice" or "sacrificial assembly" remained in the end.
+
+The scholar Bloomfield has shown the faults in the meaning stated by both Max Muller [as printed] and Oldenberg, saying that *vidatha* does not mean "assembly" at all, and that the meaning "a private house (*gṛha*)" alone is correct. His opinion is as follows:—
+
+*(Quoted in English as printed; the Sanskrit words in it are printed in Kannada script and are given here in Devanagari.)*
+
+The word विदथ (*vidatha*) contains the root विद् (*vid*) in its ordinary sense of 'get, acquire'. Instead of this, the radical idea underlying the word was generally felt to be 'come to-gether,' 'assemble'. Again, the false start from the notion of 'assemblage' resulted in an approximation of the word to other words for assemblage, especially to सभा (*sabhā*) with which विदथ (*vidatha*) was almost identified. We shall see that there are decided points of contact between the words विदथ (*vidatha*) and सभा (*sabhā*) but the contact is that of extreme opposites in a way. विदथ (*vidatha*) refers to home matters; सभा (*sabhā*) generally to public matters.
+
+In the interpretation of a term that figures prominently in the mystic—hieratic sphere of the Veda it is peculiarly necessary to search for its uses outside of that sphere, if there be such uses. In X—85-26, the bride after the wedding ceremoney [sic] proper, as the newly married couple are about to travel to their new home is addressed with the words "May Pushan taking thee by the hand lead thee home, may the Aswins lead thee forth on their car. Go to your house in order that thou mayst be mistress of the house".
+
+Now विदथ (*vidatha*) here, can but have one meaning, 'household' or something very like it. It certainly cannot refer to anything in the nature of a public gathering similar to the सभा (*sabhā*). In the phrase बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*) (R. V. 2-1-16), the word सुवीराः (*suvīrāḥ*) refers to family relations not to public life.
+
+Thus far, it may not be doubted, the word appears in the language of ordinary life. But it is found to a very much greater extent in the sacerdotal sphere: indeed, as all interpreters from Yaska on, have agreed, it often has a meaning very close to Yagna 'Sacrifice' itself. This is as it should be. In as much as the sacrifice is a private, home affair, it is very natural विदथ (*vidatha*) the house, the premises, the establishment, should figure prominently in connection with the sacrifice.
+
+*(No source reference is printed after this quotation.)*
+
+The gist of this writing is: that some have given the meaning *sabhā* (assembly) to the word *vidatha* is not right. This word means a private house. The use of this word in this very sense may be observed in many places. For example —
+
+*(Only the first half of the ṛk is printed on this page; the second half is on the next page.)*
+
+> पूषा त्वेतो नयतु हस्तगृह्याश्विना त्वा प्र वहतां रथेन ।
+
+> *pūṣā tveto nayatu hastagṛhyāśvinā tvā pra vahatāṃ rathena |*
+
+---
+
+### Printed p. 107  (PDF 125)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 1, continued.)*
+
+> गृहान् गच्छ गृहपत्नी यथासो वशिनी त्वं विदथमा वदासि ॥
+
+> *gṛhān gaccha gṛhapatnī yathāso vaśinī tvaṃ vidathamā vadāsi ‖*
+
+(Ṛ. Saṃ. 10-85-26) (Gloss, mine and tentative: "May Pūṣan, taking you by the hand, lead you hence; may the Aśvins carry you forth on their chariot. Go to the house, that you may be mistress of the house; as mistress you shall speak to the *vidatha*.")
+
+— in this ṛk it is clear that the meaning is: "May Pūṣan and the Aśvin deities lead you safely to your husband's house". Besides,
+
+> ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः ।
+> अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः ॥
+
+> *ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ |*
+> *asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ ‖*
+
+(Ṛ. Saṃ. 2-1-16) (Gloss, mine and tentative: "The patrons who, O Agni, bestow on the praisers a gift headed by cows and adorned with horses — lead both us and them forward to what is better; may we, rich in heroes, speak loudly in the *vidatha*.")
+
+— in this ṛk too, since *suvīrāḥ* has been explained as शोभनपुत्रादिसहिताः (*śobhanaputrādisahitāḥ*), "accompanied by good sons and others", the meaning is "house". But since the work of sacrifice is carried on in the house, in the present context it comes to mean "house of sacrifice". In Yāska and others' saying that it is a synonym of *yajña* this same meaning is present. In this way many Western scholars have given their individual opinions.
+
+Thus, since the different meanings "house", "sacrifice" and "assembly" all fit, none of them can be said to be wrong. In Sāyaṇa's bhāṣya itself all these meanings are found. For example, in ṛks such as 10-85-26 and 27, 7-84-3 he has given the meaning "house"; in many ṛks such as 10-100-6, 10-110-7 the meaning "sacrifice". It also comes to mean "house of sacrifice" and "sacrificial assembly".
+
+**इळाभिः (*iḷābhiḥ*)** — since the word *iḷā* is read among the names of the earth (Ni. 2-5, as printed), among the names of speech (Ni. 2-23, as printed), among the names of food (Ni. 3-9, as printed) and among the names of the cow (Ni. 3-9, as printed), the word *iḷā* has the different meanings earth, speech, food and cow. Here the commentator has accepted the meaning "earth" and explained इळाभिः भूमिस्थानाभिर्देवताभिः (*iḷābhiḥ bhūmisthānābhirdevatābhiḥ*): "by (with) the deities that have the earth as their abode".
+
+**विश्वानरः (*viśvānaraḥ*)** — सर्वप्राणिहितकार्यग्निः (*sarvaprāṇihitakāryagniḥ*): the commentator's explanation is "Agni, who brings about the good of all living beings". Yāska in his Nirukta —
+
+> वैश्वानरः । वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयंतीति वा ।
+> अपि वा विश्वानर एव स्यात् प्रत्यृतः सर्वाणि भूतानि तस्य वैश्वानरः ।
+
+> *vaiśvānaraḥ | vaiśvānaraḥ kasmādviśvānnarānnayati | viśva enaṃ narā nayaṃtīti vā |*
+> *api vā viśvānara eva syāt pratyṛtaḥ sarvāṇi bhūtāni tasya vaiśvānaraḥ |*
+
+(Ni. 7-21)
+
+— having raised the question "What is Vaiśvānara? Why did this deity get this name?", in answer: because this deity (Agni) leads all, that is, because he is the guide of all; or because in sacrificial and other rites the sacrificer and the ṛtviks lead this Agni from the eastern altar to the place of the Āhavanīya fire — hence the name Vaiśvānara. And this Agni … all living beings *(continues on the next page)*
+
+---
+
+---
+
+### Printed p. 108  (PDF 126)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 1, continued.)*
+
+… because he enters (all living beings), that is, because he has entered within all living beings in the form of the digestive fire (*jāṭharāgni*), this Agni has the name Vaiśvānara. They have stated the derivation that Viśvānara itself is Vaiśvānara.
+
+For the word *vaiśvānara* they have given derivations in three ways: विश्वे सर्वे नरा एनमग्निं यज्ञादौ प्रणयंतीति विश्वेनराः तत्संबंधाद्वैश्वानरः (*viśve sarve narā enamagniṃ yajñādau praṇayaṃtīti viśvenarāḥ tatsaṃbaṃdhādvaiśvānaraḥ*) — "all men lead this Agni forward at the beginning of the sacrifice and so on, hence *viśvenarāḥ*; from connection with them, *vaiśvānara*"; विश्वेषां नराणां लोकांतरं प्रति नेतृतया संबंधी वैश्वानरः (*viśveṣāṃ narāṇāṃ lokāṃtaraṃ prati netṛtayā saṃbaṃdhī vaiśvānaraḥ*) — "connected with all men as their leader to the other world"; and विश्वान् सर्वान् प्राणिनः प्रत्यृतो गच्छत इति वैश्वानरौ, मध्यमोत्तमौ, ताभ्यामुत्पन्नः वैश्वानरः (*viśvān sarvān prāṇinaḥ pratyṛto gacchata iti vaiśvānarau, madhyamottamau, tābhyāmutpannaḥ vaiśvānaraḥ*) — "the two that go to all living beings, the middle and the highest (fires), are the *vaiśvānaras*; he who is born of them is *vaiśvānara*". The sense (of the ṛk) describing the greatness of Vaiśvānara — who slew Vṛtra, the obstructer of the clouds, who is the giver of rain and the destroyer of the Rākṣasas — has been stated. The Nirukta that indicates this same purport is as follows:
+
+*(Nirukta passage; reference printed after it: Niru. 7-20.)*
+
+*(Gist of the Nirukta passage: "I proclaim the greatness of the bull, the raingiver of the waters, whom men, the slayer of Vṛtra (the cloud), serve when desiring rain; Agni Vaiśvānara, slaying the Dasyu, shook down the waters and split Śambara, the cloud.")*
+
+> प्रब्रवीमि तन्महित्वं महाभाग्यं वृषभस्य वर्षितुरपां यं पूरवः पूरयितव्या मनुष्या वृत्रहणं मेघहनं सचंते सेवंते वर्षकामा दस्युर्दस्यतेः क्षयार्थादुपदस्यंत्यस्मिन् रसा उपदासयति कर्माणि तमग्निर्वैश्वानरो घ्नन्नवाधूनोदपः काष्ठा अभिनच्छंबरं मेघं
+
+> *prabravīmi tanmahitvaṃ mahābhāgyaṃ vṛṣabhasya varṣiturapāṃ yaṃ pūravaḥ pūrayitavyā manuṣyā vṛtrahaṇaṃ meghahanaṃ sacaṃte sevaṃte varṣakāmā dasyurdasyateḥ kṣayārthādupadasyaṃtyasmin rasā upadāsayati karmāṇi tamagnirvaiśvānaro ghnannavādhūnodapaḥ kāṣṭhā abhinacchaṃbaraṃ meghaṃ*
+
+
+Upon this they have inquired who the Vaiśvānara spoken of here is. Then some have said that Vāyu or Indra, who are in the middle region, should be called Vaiśvānara, because those two have authority in the work of raining; in the matter of obtaining rain it is generally they who are to be praised; and since the earth alone is stated to be the place of Agni, that (rain-giving) is not possible for him — so they have argued. Again some say that the word *vaiśvānara* spoken of here indicates the sun. For, having set out the morning pressing (*prātassavana*), the midday pressing (*mādhyaṃdina savana*) and the evening pressing (*sāyaṃsavana*) as, in order, the worlds Bhūḥ, Bhuvaḥ and Svarga, they have decided that by the performance of each pressing the corresponding world is obtained. Then by the performance of the third pressing heaven is attained, and complete fall from the earth results. To ward off such a fall, they recite the *śastra* mantra so as to come back again to the earth by the final *śastra*, which has the nature of the Agni-Marut (*agnimāruta*). That *śastra* mantra begins with the Vaiśvānara sūkta. Afterwards they descend, by reciting the sūktas having those deities, to the deity Rudra and the Marut deities, who belong to the middle region; since Agni has the earth as his place, if the word *vaiśvānara* here did not denote the sun, how could the descent to the earth be connected with it? — so arguing they have given the meaning "sun" to the word *vaiśvānara*. But Sāyaṇācārya's opinion is that the word *vaiśvānara* means the Agni connected with the lightning that is in the middle region.
+
+**॥ The greatness of Agni Vaiśvānara ॥** *(Kannada heading)*
+
+> इंद्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् ।
+> एकं सद्विप्रा बहुधा वदंत्यग्निं यमं मातरिश्वानमाहुः ॥
+
+> *iṃdraṃ mitraṃ varuṇamagnimāhuratho divyaḥ sa suparṇo garutmān |*
+> *ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*
+
+(Ṛ. Saṃ. 1-164-46) (Gloss, mine and tentative: "They call him Indra, Mitra, Varuṇa, Agni, and he is the heavenly, well-winged Garutmān; what is One the sages speak of in many ways: they call it Agni, Yama, Mātariśvan.")
+
+---
+
+---
+
+### Printed p. 109  (PDF 127)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 1, continued.)*
+
+*(Nirukta passage, continuing the citation of Ṛ. 1-164-46; reference printed after it: Ni. 7-18.)*
+
+*(Gist: "This very Agni, the great Self, the one Self, the wise call by many names"; and a Brāhmaṇa also says "Agni is all the deities".)*
+
+> इममेवाग्निं महांतमात्मानमेकमात्मानं बहुधा मेधाविनो वदंति ॥ अग्निः सर्वा देवताः इति ब्राह्मणमपि भवति ।
+
+> *imamevāgniṃ mahāṃtamātmānamekamātmānaṃ bahudhā medhāvino vadaṃti ‖ agniḥ sarvā devatāḥ iti brāhmaṇamapi bhavati |*
+
+
+All worship this very Agni, who is the great Self and the Self of all, designating him by different names such as Indra. And there are also Śruti sayings that this Vaiśvānara Agni alone is the root of all the portions of Agni that appear in different forms in different settings, and that all the remaining forms are branches of this Vaiśvānara Agni.
+
+> वया इदग्ने अग्नयस्ते अन्ये त्वे विश्वे अमृता मादयंते ।
+> वैश्वानर नाभिरसि क्षितीनां स्थूणेव जनाँ उपमिद्ययंथ ॥
+
+> *vayā idagne agnayaste anye tve viśve amṛtā mādayaṃte |*
+> *vaiśvānara nābhirasi kṣitīnāṃ sthūṇeva janā~ upamidyayaṃtha ‖*
+
+(Ṛ. Saṃ. 1-59-1) (Gloss, mine and tentative: "The other fires are but your branches, O Agni; in you all the immortals rejoice. O Vaiśvānara, you are the navel of the peoples; like a pillar you have upheld men.")
+
+The Vaiśvānara Agni alone, being the cause of all the states of the whole world of gods and men, is the leader of all the affairs of the universe. Therefore all beings who desire their own good and the good of the world should know the nature of this Vaiśvānara Agni, the Self of all, and worship him: so both the Śrutis that teach the performance of rites and the Śrutis that teach spiritual knowledge make known alike the necessity of the worship of the Vaiśvānara Agni. The Saṃhitās such as the Ṛk say वैश्वानरस्य सुमतौ स्याम (*vaiśvānarasya sumatau syāma*) (Ṛ. Saṃ. 1-98-1) ("may we be in the favour of Vaiśvānara"); the Brāhmaṇas such as the Śatapatha say स यो हैतमेवमग्निं वैश्वानरं पुरुषविधं पुरुषेऽंतः प्रतिष्ठितं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति (*sa yo haitamevamagniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ṃtaḥ pratiṣṭhitaṃ vedāpa punarmṛtyuṃ jayati sarvamāyureti*) — all who know the nature of this Vaiśvānara Agni, who is hidden within man and has the form of man, conquer death and obtain the full span of life (Śa. Brā. 10-6-1-11); and the Upaniṣads such as the Chāndogya, saying अथ य एतदेवं विद्वानग्निहोत्रं जुहोति तस्य सर्वेषु लोकेषु सर्वेषु भूतेषु सर्वेष्वात्मसु हुतं भवति (*atha ya etadevaṃ vidvānagnihotraṃ juhoti tasya sarveṣu lokeṣu sarveṣu bhūteṣu sarveṣvātmasu hutaṃ bhavati*) — the man who, knowing the nature of the Vaiśvānara Agni thus, performs the Agnihotra, it is as though he has offered oblation in all beings, in all worlds and in all selves (Chā. U. 5-24-2) — have stated the greatness of the worship of the Vaiśvānara Agni. Therefore it is most necessary to know in this context what the nature of this deity is, and what connection this deity has with the performance of rites and with the attainment of spiritual knowledge. In the above ṛk, with राजा हि कं भुवनानामभिश्रीः (*rājā hi kaṃ bhuvanānāmabhiśrīḥ*), Vaiśvānara is described as the lord worthy of worship by all beings. But the question who that Vaiśvānara is arose along with it, and the author of the Nirukta, while explaining this very ṛk, taking many examples, has concluded that Vaiśvānara is the earthly Agni. His explanation is as follows. *(The Nirukta passage continues on the next page.)*
+
+> वैश्वानरः कस्माद्विश्वान्नरान्नयति । विश्व एनं नरा नयंतीति वा ।
+
+> *vaiśvānaraḥ kasmādviśvānnarānnayati | viśva enaṃ narā nayaṃtīti vā |*
+
+---
+
+**Progress note:** Done through printed p. 109 (PDF 127). Sūkta 185 closed. Sūkta 186 (ā na iḷābhiḥ; 11 ṛks; Agastya; Viśvedevas; triṣṭubh): Ṛk 1 OPEN — Special Topics in progress (Viśvedevas; vidatha; iḷābhiḥ; viśvānaraḥ and 'The greatness of Agni Vaiśvānara'); the Nirukta passage 'vaiśvānaraḥ kasmād viśvān narān nayati | viśva enaṃ narā nayaṃtīti vā |' (Yāska's explanation that Vaiśvānara is the earthly Agni) begins at the foot of p. 109 and continues — continue on printed p. 110 / PDF 128. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed.
