@@ -8343,31 +8343,31 @@ Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brā
 
 > *purukutso daurgaheṇeja aikṣvāko rājā |*
 
-(Śa. Brā. 13-5-4-5 [?]) — this sentence says that the king Purukutsa, of the Ikṣvāku line, performed the *aśvamedha* sacrifice, being the son of Durgaha (*daurgaha*). The same matter is indicated in the ṛk:
+(Śa. Brā. 13-5-405, as printed — probably 13-5-4-5 with a stray ‘○’ [?]) — this sentence says that the king Purukutsa, of the Ikṣvāku line, performed the *aśvamedha* sacrifice, being the son of Durgaha (*daurgaha*). The same matter is indicated in the ṛk:
 
 > अस्माकमत्र पितरस्त आसन्त्सप्त ऋषयो दौर्गहे बध्यमाने ।
 
 > *asmākam atra pitaras ta āsan sapta ṛṣayo daurgahe badhyamāne |*
 
-(Ṛ. Saṃ. 4-42-8 [?]). But in this quoted ṛk Sāyaṇa takes the word *daurgaha* as a "marked" name (*aṅkita*), and explains it as "*durgahasya putre purukutse*", "in Purukutsa, the son of Durgaha".
+(Ṛ. Saṃ. 4-42-8). But in this quoted ṛk Sāyaṇa takes the word *daurgaha* as a "marked" name (*aṅkita*), and explains it as "*durgahasya putre purukutse*", "in Purukutsa, the son of Durgaha".
 
 > त्वं ह त्यदिन्द्र सप्त युध्यन् पुरो वज्रिन् पुरुकुत्साय दर्दः । बर्हिर्न यत्सुदासे वृथा वर्गंहो राजन्वरिवः पूरवे कः ॥
 
 > *tvaṃ ha tyad indra sapta yudhyan puro vajrin purukutsāya dardaḥ | barhir na yat sudāse vṛthā vargaṃho rājan varivaḥ pūrave kaḥ ‖*
 
-(Ṛ. Saṃ. 1-63-7 [?]) — from the basis of this ṛk it is learned that he was a contemporary of the king Sudāsa.
+(Ṛ. Saṃ. 1-63-2) — from the basis of this ṛk it is learned that he was a contemporary of the king Sudāsa.
 
 > सनेम तेऽवसा नव्य इन्द्र प्र पूरवः स्तवन्त एना यज्ञैः । सप्त यत्पुरः शर्म शारदीर्दर्दन् दासीः पुरुकुत्साय शिक्षन् ॥
 
 > *sanema te 'vasā navya indra pra pūravaḥ stavanta enā yajñaiḥ | sapta yat puraḥ śarma śāradīr dardan dāsīḥ purukutsāya śikṣan ‖*
 
-(Ṛ. Saṃ. 6-20-10 [?]) — in this ṛk it is said that Purukutsa was a king of the people called Pūru, and that he conquered all the *dāsas*. It is learned that he had a son named Trasadasyu. But that son was apparently born after the death of Purukutsa:
+(Ṛ. Saṃ. 6-20-10) — in this ṛk it is said that Purukutsa was a king of the people called Pūru, and that he conquered all the *dāsas*. It is learned that he had a son named Trasadasyu. But that son was apparently born after the death of Purukutsa:
 
 > पुरुकुत्सानी हि वामदाशद्धव्यैरिन्द्रावरुणा नमोभिः । अथा राजानं त्रसदस्युमस्या वृत्रहणं ददथुरर्धदेवम् ॥
 
 > *purukutsānī hi vām adāśad dhavyair indrāvaruṇā namobhiḥ | athā rājānaṃ trasadasyum asyā vṛtrahaṇaṃ dadathur ardhadevam ‖*
 
-(Ṛ. Saṃ. 4-42-9 [?]) — this says that when Purukutsa's wife satisfied Indra and Varuṇa with oblations and with praises, they graciously gave her a son named Trasadasyu. On this basis, after Purukutsa had died in battle, his wife prayed to Indra and Varuṇa and obtained the son Trasadasyu: so the story goes.
+(Ṛ. Saṃ. 4-42-9) — this says that when Purukutsa's wife satisfied Indra and Varuṇa with oblations and with praises, they graciously gave her a son named Trasadasyu. On this basis, after Purukutsa had died in battle, his wife prayed to Indra and Varuṇa and obtained the son Trasadasyu: so the story goes.
 
 ---
 
