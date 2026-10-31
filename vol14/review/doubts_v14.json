@@ -1186,5 +1186,53 @@
   ],
   "note": "ZOOMED, read: Tai. Brā. 1-2-6-1",
   "answer": ""
+ },
+ {
+  "pdf": 76,
+  "printed": 58,
+  "crop": [
+   0.414,
+   0.43,
+   0.465,
+   0.666
+  ],
+  "note": "ZOOMED, read: Tai. Brā. 2-8-9-6-3 [?] (last digit undecided, 3 or 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 76,
+  "printed": 58,
+  "crop": [
+   0.505,
+   0.523,
+   0.197,
+   0.828
+  ],
+  "note": "ZOOMED, read: Ni. 12-13 (zoom cut line low; read from strip+zoom)",
+  "answer": ""
+ },
+ {
+  "pdf": 76,
+  "printed": 58,
+  "crop": [
+   0.727,
+   0.791,
+   0.498,
+   0.828
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-5-2",
+  "answer": ""
+ },
+ {
+  "pdf": 78,
+  "printed": 60,
+  "crop": [
+   0.07,
+   0.1,
+   0.55,
+   0.85
+  ],
+  "note": "UNDECIDED: Pā. Sū. 4-4-136 [?] (matau ca), small type, not zoomed per grammar-page rule",
+  "answer": ""
  }
 ]

@@ -1764,4 +1764,204 @@ When his joints were set right, Prajāpati accepted this food in the form of the
 
 ---
 
-**Progress note:** Done through printed p. 55 (PDF 73). Sūkta 185 Ṛk 1 still OPEN: Special Topics (Abhiplava, Mahāvrata) apparently end at the foot of p. 55 ('The special part will be made known later'); Vyākaraṇa-prakriyā of Ṛk 1 not yet seen — continue on printed p. 56 / PDF 74. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]' (Śa. Brā. quotation).
+### Printed p. 56  (PDF 74)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 1 continue.)*
+
+> अथ महाव्रतं । इन्द्रो वै वृत्रं हत्वा महानभवद्यन्महानभवत्तन्महाव्रत-
+> मभवत्तन्महाव्रतस्य महाव्रतत्वं ।
+
+> *atha mahāvrataṃ | indro vai vṛtraṃ hatvā mahānabhavadyanmahānabhavattanmahāvrata-*
+> *mabhavattanmahāvratasya mahāvratatvaṃ |*
+
+(Aitareya Āraṇyakam 1-1) (Gloss, mine and tentative: "Now the Mahāvrata. Indra, having slain Vṛtra, became great; because he became great, that became the Mahāvrata: that is the Mahāvrata-ness of the Mahāvrata.")
+
+Indra, having killed Vṛtra, displayed his greatness. Thereafter the Mahāvrata, which celebrates that greatness, was begun. Therefore this same name came to the rite called Mahāvrata. By this very rite, which consists in the slaying of the asura Vṛtra, the name **Mahendra** also became famous for Indra: this story-context is set out in the Aitareya Brāhmaṇa (12-10) by sentences such as "इन्द्रो वै वृत्रं हत्वा (*indro vai vṛtraṃ hatvā*) . . . . यन्महानिन्द्रोऽभवत्तन्महेन्द्रस्य महेन्द्रत्वं (*yanmahānindro 'bhavattanmahendrasya mahendratvaṃ*)", and in the Taittirīya Saṃhitā (6-5-5-3). Although in the Aitareya Āraṇyaka the context celebrating Indra's greatness is stated by the sentence "तन्महाव्रतस्य महाव्रतत्वं (*tanmahāvratasya mahāvratatvaṃ*)", Sāyaṇa, when giving his explanation in this context, has given the very derivation (*nirvacana*) stated in the Taittirīya Brāhmaṇa. Just as, in the sentences quoted above from the Śatapatha Brāhmaṇa, the context of the offering of the Mahāvrata for removing Prajāpati's fatigue is described, so the Taittirīya Brāhmaṇa too makes known the same matter. The order of that description is as follows, and it is somewhat different from the Śatapatha's description:
+
+> प्रजापतिः प्रजाः सृष्ट्वा वृत्तोऽशयत् । तं देवा भूतानाग्ं रसं तेजः
+> संभृत्य । तेनैनमभिषज्यन् । महानववर्तीति । तन्महाव्रतस्य महाव्रतत्वं ।
+> महद्व्रतमिति । तन्महाव्रतस्य महाव्रतत्वं । महतो व्रतमिति । तन्महाव्रतस्य
+> महाव्रतत्वं ॥
+
+> *prajāpatiḥ prajāḥ sṛṣṭvā vṛtto 'śayat | taṃ devā bhūtānāgṃ rasaṃ tejaḥ*
+> *saṃbhṛtya | tenainamabhiṣajyan | mahānavavartīti | tanmahāvratasya mahāvratatvaṃ |*
+> *mahadvratamiti | tanmahāvratasya mahāvratatvaṃ | mahato vratamiti | tanmahāvratasya*
+> *mahāvratatvaṃ ‖*
+
+(Tai. Brā. 1-2-6-1) (Gloss, mine and tentative: "Prajāpati, having created the creatures, lay exhausted. The gods, gathering the essence, the brilliance of beings, healed him with it. 'Great, he has turned back' — that is the Mahāvrata-ness of the Mahāvrata. 'A great vow' — that is the Mahāvrata-ness of the Mahāvrata. 'The vow of the great one' — that is the Mahāvrata-ness of the Mahāvrata.")
+
+In this description: when Prajāpati, exhausted by the work of creation, had fallen down weary from toil, the gods procured the brilliance (*tejas*) that is the essence of all creatures and with its help removed his fatigue. Therefore Prajāpati became **mahān** (great). Making known that this same essential brilliance is the oblation to be offered at the time of the Mahāvrata, they explain why this name became famous for the **Mahāvrata**:
+
+*Gist:* Three derivations: "by this rite he became great"; "a great vow", as the rite yields a great fruit; or "the vow (medicine) of the great one, Prajāpati".
+
+> महानवर्तिष्ट अनेन कर्मणा इति व्युत्पत्त्या तस्य कर्मणः महाव्रतमिति नाम
+> संपन्नं । यद्वा कर्मणोऽस्य महाफलहेतुत्वेन महत्त्वान् महच्च
+> तद्व्रतमिति तद्व्युत्पत्तिः । अथवा महतः प्रजापतेरौषधरूपत्वान्महतो
+> व्रतमिति व्युत्पत्तिः ॥
+
+> *mahānavartiṣṭa anena karmaṇā iti vyutpattyā tasya karmaṇaḥ mahāvratamiti nāma*
+> *saṃpannaṃ | yadvā karmaṇo 'sya mahāphalahetutvena mahattvān mahacca*
+> *tadvratamiti tadvyutpattiḥ | athavā mahataḥ prajāpaterauṣadharūpatvānmahato*
+> *vratamiti vyutpattiḥ ‖*
+
+### Printed p. 57  (PDF 75)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* Sāyaṇa has made known that this rite has the name Mahāvrata either because its purport is that Prajāpati became *mahān* (great) through the rite consisting in the offering of the oblation; or because it is a rite having the power to give a great fruit and the fitness of its own nature; or because it is of the form of medicine for Prajāpati, who is *mahān*. At the time of such a Mahāvrata the recitation of the present sūkta is prescribed. This very thing is made known in the sentences
+
+> कतरा पूर्वा कतरापरायोरिति द्यावापृथिवीयं समानोदर्कं समानो-
+> दर्कं वा एतदहरेतस्याह्नो रूपं ॥
+
+> *katarā pūrvā katarāparāyoriti dyāvāpṛthivīyaṃ samānodarkaṃ samāno-*
+> *darkaṃ vā etadaharetasyāhno rūpaṃ ‖*
+
+(Ai. Ā. 1-5-3) (Gloss, mine and tentative: "'*katarā pūrvā katarāparāyoḥ*' — the Dyāvāpṛthivī hymn, having a like ending; for this day has a like ending: it is the form of this day.")
+
+The Niruktakāra's derivation (*nirvacana*) for the present ṛk is as follows:
+
+> कतरा पूर्वा कतरापरा । एनयोः कथं जाते कवयः क एने
+> विजानाति । सर्वमात्मना बिभृतो यद्धैनयोः कर्म विवर्तेते
+> चैनयोरहनी अहोरात्रे चक्रियेव चक्रयुक्ते इवेति द्यावा-
+> पृथिव्योर्महिमानमाचष्ट आचष्टे
+
+> *katarā pūrvā katarāparā | enayoḥ kathaṃ jāte kavayaḥ ka ene*
+> *vijānāti | sarvamātmanā bibhṛto yaddhainayoḥ karma vivartete*
+> *cainayorahanī ahorātre cakriyeva cakrayukte iveti dyāvā-*
+> *pṛthivyormahimānamācaṣṭa ācaṣṭe*
+
+(Ni. 3-22) (Gloss, mine and tentative: "Which is prior, which later, of these two? How were they born, O sages? Who knows them? They bear everything by themselves, whatever is their work; and their two days, day and night, revolve as if wheeled — so he declared the greatness of Heaven and Earth.")
+
+Which of these two deities is the one born first? What is the order of their origin? O ṛṣis, which of you knows this secret? These two themselves are the support of all the beings of the universe. Like the two wheels of a chariot, both day and night revolve continuously around them — so it is explained. Explaining "कतरा पूर्वा कतरा अपरा (*katarā pūrvā katarā aparā*)", Durgācārya has made known that the question is "किं पौर्वापर्येण, उत युगपत् भवेतां (*kiṃ paurvāparyeṇa, uta yugapat bhavetāṃ*)" — whether one was born after the other, or whether both were born together. In the matter of the origin of these deities, sometimes wonder and sometimes uncertain conjecture are natural:
+
+> किं स्विद्वनं क उ स वृक्ष आस यतो द्यावापृथिवी निष्टतक्षुः ।
+> संतस्थाने अजरे इत ऊती अहानि पूर्वीरुषसो जरन्त ॥
+
+> *kiṃ svidvanaṃ ka u sa vṛkṣa āsa yato dyāvāpṛthivī niṣṭatakṣuḥ |*
+> *saṃtasthāne ajare ita ūtī ahāni pūrvīruṣaso jaranta ‖*
+
+(Ṛ. Saṃ. 10-31-7) (Gloss, mine and tentative: "What was the wood, what the tree, from which they fashioned Heaven and Earth, which stand firm, unaging, with help from here, while the many days and dawns have grown old?")
+
+While countless days and dawns too roll away, the ṛṣi has expressed his admiring wonder: from which trees of which forest were these Heaven and Earth fashioned, which stand imperishable, unbroken and firm?
+
+The curiosity expressed in the ṛk "किं स्विद्वनं (*kiṃ svidvanaṃ*)" (Ṛ. Saṃ. 10-31-7; the first letter printed like *kṣi*) is indicated in many other places too. In some places a fitting answer too is given. For example,
+
+---
+
+### Printed p. 58  (PDF 76)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185".)*
+
+> किंस्विदासीदधिष्ठानमारम्भणं कथमत्स्वित्कथासीत् ।
+> यतो भूमिं जनयन्विश्वकर्मा वि द्यामौर्णोन्महिना विश्वचक्षाः ॥
+
+> *kiṃsvidāsīdadhiṣṭhānamārambhaṇaṃ kathamatsvitkathāsīt |*
+> *yato bhūmiṃ janayanviśvakarmā vi dyāmaurṇonmahinā viśvacakṣāḥ ‖*
+
+(Ṛ. Saṃ. 10-81-2; *kathamat* as read) (Gloss, mine and tentative: "What was the standing-place, what the beginning, how was it, from which Viśvakarman, all-seeing, generating the earth, spread out the sky by his greatness?")
+
+It is asked: what was the support for their construction available to the all-seeing Viśvakarman, who created the earth and made the mid-region spread out widely? As an answer to this,
+
+> किग्ं स्विद्वनं क उ स वृक्ष आसीत् । यतो दाव्यापृथिवी निष्टतक्षुः । मनीषिणो
+> मनसा पृच्छतेदु तत् । यदध्यतिष्ठद्भुवनानि धारयन् । ब्रह्म वनं ब्रह्म
+> स वृक्ष आसीत् । यतो द्यावापृथिवी निष्टतक्षुः । मनीषिणो मनसा वि ब्र-
+> वीमि वः । ब्रह्माध्यतिष्ठद्भुवनानि धारयन् ॥
+
+> *kigṃ svidvanaṃ ka u sa vṛkṣa āsīt | yato dāvyāpṛthivī niṣṭatakṣuḥ | manīṣiṇo*
+> *manasā pṛcchatedu tat | yadadhyatiṣṭhadbhuvanāni dhārayan | brahma vanaṃ brahma*
+> *sa vṛkṣa āsīt | yato dyāvāpṛthivī niṣṭatakṣuḥ | manīṣiṇo manasā vi bra-*
+> *vīmi vaḥ | brahmādhyatiṣṭhadbhuvanāni dhārayan ‖*
+
+*(The first "दाव्यापृथिवी (*dāvyāpṛthivī*)" is so printed [sic].)*
+
+(Tai. Brā. 2-8-9-6-3 [?]) (Gloss, mine and tentative: "What was the wood, what the tree, from which they fashioned Heaven and Earth? O thinkers, ask with your mind that on which he stood supporting the worlds. Brahman was the wood, Brahman the tree, from which they fashioned Heaven and Earth; O thinkers, I tell you with my mind: Brahman stood supporting the worlds.")
+
+For the creation of these Heaven and Earth, Brahman itself (the imperishable reality called Brahman) is the forest, and Brahman itself the tree; from that alone is their construction — so it is made known in the Taittirīya Brāhmaṇa.
+
+"*Kavayaḥ* — क्रान्तदर्शनः (*krāntadarśanaḥ*) — अतीन्द्रियज्ञाः (*atīndriyajñāḥ*)": so (Sāyaṇa) has stated the meaning of the word *kavi*. The derivation of the word *kavi* was made known earlier, citing the Niruktakāra's sentence "मेधावी कविः क्रान्तदर्शनो भवति कवतेर्वा (*medhāvī kaviḥ krāntadarśano bhavati kavatervā*)" (Ni. 12-13). What the nature of a *kavi* is and what his power is, and that the word *kavi* is used in the Ṛksaṃhitā to make known such a nature and powers, was also made known briefly earlier. In the present ṛk, asking "who knows the secret of Heaven and Earth, which reflect the principle of the universe?", it asks, "कवयः, को विवेद (*kavayaḥ, ko viveda*)" — O ṛṣis who know what is beyond the senses, which one of you has fully known this principle? That is, this secret is not to be known by a merely ordinary and physical view. To break open this secret and understand it, there must be an extraordinary power having the fitness for it. Only one who has such extraordinary power of vision is called a *kavi*.
+
+> समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः ।
+> ऋतस्य पदं कवयो नि पान्ति गुहा नामानि दधिरे पराणि ।
+
+> *samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā arvatībhiḥ |*
+> *ṛtasya padaṃ kavayo ni pānti guhā nāmāni dadhire parāṇi |*
+
+(Ṛ. Saṃ. 10-5-2) (Gloss, mine and tentative: "Wearing a common nest, the bulls, the buffaloes, have come together with the mares; the poets guard the place of Ṛta; they have placed the highest names in secret.")
+
+In ṛks such as this the true nature of the *kavi* is described. It is described that the *kavis*, having entered the path of **Ṛta**, hold in the most hidden heart the supreme names of the secret, and make them manifest so that the world comes to know them. That is, hidden secretly, the world's *(continues on the next page)*
+
+### Printed p. 59  (PDF 77)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* — the portions not within the range of sight, and are able to make them known somewhat to the world's view too: in this sense this word is used. In the present ṛk too, addressing the ṛṣis who have obtained such knowledge beyond the senses, it asks: what is the secret principle of Heaven and Earth?
+
+**विश्वं त्मना बिभृतः (*viśvaṃ tmanā bibhṛtaḥ*)** — it praises that the deity presiding over the heavenly world and the Earth-goddess, protectors of the universe, hold all the worlds in themselves and themselves bear them all.
+
+> नमो द्यावापृथिवीभ्यामिति तदाभ्यां द्यावापृथिवीभ्यां निह्नुवते ययोरिदं
+> सर्वमधि ।
+
+> *namo dyāvāpṛthivībhyāmiti tadābhyāṃ dyāvāpṛthivībhyāṃ nihnuvate yayoridaṃ*
+> *sarvamadhi |*
+
+(Śa. Brā. 3-4-3-21) (Gloss, mine and tentative: "'Homage to Heaven and Earth' — thereby they make amends to these two, Heaven and Earth, upon whom all this rests.")
+
+In this and many other places is made known the matter stated, that the existence and the support of all the worlds, and the whole work of protection, rest on Heaven and Earth alone. This very idea was explained earlier, when giving the Special Topics of the ṛk
+
+> उरुव्यचसा महिनी असश्चता पिता माता च भुवनानि रक्षतः ।
+> सुधृष्टमे वपुष्ये३ न रोदसी पिता यत्सीमभि रूपैरवासयत् ॥
+
+> *uruvyacasā mahinī asaścatā pitā mātā ca bhuvanāni rakṣataḥ |*
+> *sudhṛṣṭame vapuṣye3 na rodasī pitā yatsīmabhi rūpairavāsayat ‖*
+
+(Ṛ. Saṃ 1-160-2) (Gloss, mine and tentative: "Wide-extending, great, inexhaustible, father and mother protect the worlds; the two world-halves, most bold, as if beautiful, when the father clothed them with forms.")
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers in small type not transcribed).** *katarā* (*kim*; *ḍatarac* in the sense of selecting one of two by किंयत्तदोर्निर्धारणे द्वयोः (*kiṃyattadornirdhāraṇe dvayoḥ*); loss of the *ṭi* (*im*) as it is *ḍit*; final acute by *citaḥ*; *ṭāp* in the feminine). *āyoḥ* (for *anayoḥ*, loss of the *n* as a Vedic form). *kathā* (*thā* after *kim* by थाहेतौ च छन्दसि (*thāhetau ca chandasi*); *ka*-substitution by *kimaḥ kaḥ*, as it is called a *vibhakti*; final acute by the suffix accent). *kavayaḥ* (root *ku śabde*; suffix *i* by *acaḥ iḥ* [as read]; *av* for *u* by *sārvadhātukārdhadhātukayoḥ*; vocative plural, *āmantrita nighāta*). *tmanā* (loss of the initial *ā* by *mantreṣv āṅyāder ātmanaḥ*, Pā. Sū. 6-4-141). *vartete* (root *vṛtu vartane*; *laṭ* 3rd dual; *tiṅanta nighāta*).
+
+---
+
+### Printed p. 60  (PDF 78)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Grammar of Ṛk 1, concluded.)* *cakriyā iva* (by *vyatyaya* in the sense of *matup*; suffix *gha* by मतौ च (*matau ca*) (Pā. Sū. 4-4-136 [?], small type); *iya*-substitution for it by the sūtra *āyaneyī…*; *ā*-substitution for the dual ending by *supāṃ suluk*; initial acute of the suffix). ‖ 1 ‖
+
+*(Ornamental rule "— 0 —": end of Ṛk 1.)*
+
+## Sūkta 185, Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> भूरिं द्वे अचरन्ती चरन्तं पद्वन्तं गर्भमपदी दधाते ।
+> नित्यं न सूनुं पित्रोरुपस्थे द्यावा रक्षतं पृथिवी नो अभ्वात् ॥ २ ॥
+
+> *bhūriṃ dve acarantī carantaṃ padvantaṃ garbhamapadī dadhāte |*
+> *nityaṃ na sūnuṃ pitrorupasthe dyāvā rakṣataṃ pṛthivī no abhvāt ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> भूरिम् । द्वे इति । अचरन्ती इति । चरन्तम् । पत्ऽवन्तम् । गर्भम् । अपदी इति । दधाते इति ।
+> नित्यम् । न । सूनुम् । पित्रोः । उपऽस्थे । द्यावा । रक्षतम् । पृथिवी इति । नः । अभ्वात् ॥ २ ॥
+
+> *bhūrim | dve iti | acarantī iti | carantam | pat 'vantam | garbham | apadī iti | dadhāte iti |*
+> *nityam | na | sūnum | pitroḥ | upa 'sthe | dyāvā | rakṣatam | pṛthivī iti | naḥ | abhvāt ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* The two motionless ones, heaven and earth, footless themselves, bear the great moving, footed brood of all creatures, as parents hold a dear son in their lap; may they guard us from great fear (*abhva* = great).
+
+> अचरन्ती अविचले द्वे एते द्यावापृथिव्यौ भूरिं बहुतरं चरन्तं पद्वन्तं पादयुक्तं गर्भं गर्भवदाश्रितं कृत्स्नं प्राणिजातमपदी स्वयं पादरहिते दधाते धारयतः । अनयोर्मध्ये खलु सर्वं जगत्क्षेमेण वर्तते । धारणे दृष्टान्तः । पित्रोर्मातापित्रोरुपस्थ उत्सङ्गे वर्तमानं नित्यं ध्रुवमात्मजं सूनुं न पुत्रमिव यथा स्नेहेन वर्धयन्तौ धारयन्तौ मातापितरौ तद्वत् । अथ प्रत्यक्षेणाह । हे द्यावा पृथिवी द्यावापृथिव्यौ । इतरेतरापेक्षया द्वित्वमुभयोः । नोऽस्मानभ्वान्महतो भयहेतोः पापाद्रक्षतं पालयतम् । यद्वा । अभ्वादभ्वं महत् । अत्यर्थमित्यर्थः । अभ्वेति महन्नाम ॥ द्वन्द्वे कृतद्यावादेशस्य द्यावापृथिवीशब्दस्य मध्ये रक्षतमिति पदप्रयोगश्छान्दसः । आमन्त्रितस्याविद्यमानत्वेन निघाताभावः ॥
+
+> *acarantī avicale dve ete dyāvāpṛthivyau bhūriṃ bahutaraṃ carantaṃ padvantaṃ pādayuktaṃ garbhaṃ garbhavadāśritaṃ kṛtsnaṃ prāṇijātamapadī svayaṃ pādarahite dadhāte dhārayataḥ | anayormadhye khalu sarvaṃ jagatkṣemeṇa vartate | dhāraṇe dṛṣṭāntaḥ | pitrormātāpitrorupastha utsaṅge vartamānaṃ nityaṃ dhruvamātmajaṃ sūnuṃ na putramiva yathā snehena vardhayantau dhārayantau mātāpitarau tadvat | atha pratyakṣeṇāha | he dyāvā pṛthivī dyāvāpṛthivyau | itaretarāpekṣayā dvitvamubhayoḥ | no 'smānabhvānmahato bhayahetoḥ pāpādrakṣataṃ pālayatam | yadvā | abhvādabhvaṃ mahat | atyarthamityarthaḥ | abhveti mahannāma ‖ dvandve kṛtadyāvādeśasya dyāvāpṛthivīśabdasya madhye rakṣatamiti padaprayogaśchāndasaḥ | āmantritasyāvidyamānatvena nighātābhāvaḥ ‖*
+
+### Printed p. 61  (PDF 79)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)*
+
+**Pratipadārtha.** *pitroḥ* — of the parents; *upasthe* — growing up on the lap; *nityaṃ sūnuṃ na* — as (parents) hold with love and protect their own-born son; *acarantī* — themselves free of motion; *apadī* — and footless; *dve* — the two, heaven and earth, together; *bhūrim* — manifold; *padvantam* — footed; *carantam* — and moving; *garbham* — the brood of living beings that rests on these two, as an embryo rests on the mother; *dadhāte* — they uphold; *dyāvāpṛthivī* — O Heaven and Earth; *naḥ* — us; *abhvāt* — from sin, which is great and a cause of fear; *rakṣatam* — protect.
+
+**Bhāvārtha.** As parents with love hold and protect their own-born son growing up on their lap, so heaven and earth, both together, themselves free of motion and footless, uphold the whole brood of living beings — manifold, footed, moving — which rests on them as an embryo rests on the mother. O Heaven and Earth, protect us from sin, which is great and a cause of fear.
+
+**English Translation (as printed; heading printed "English Trnslation" [sic]):** Footless and motionless, they sustain numerous moving and footed races, as a son is even (nursed) on the lap of his parents : defend us, Heaven and Earth, from great (danger).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this ṛk the relation between heaven and earth and the rest of the brood of living beings, and the difference between the two, are made known. By the two epithets **अचरन्ती (*acarantī*) अपदी (*apadī*)** the stability of heaven and earth is made known, and by the epithets **पद्वन्तं (*padvantaṃ*) चरन्तं (*carantaṃ*)** the activity of going etc. of all living beings, or likewise their unsteadiness. Although by the words **पित्रोः (*pitroḥ*) उपस्थे (*upasthe*) नित्यं (*nityaṃ*) सूनुं (*sūnuṃ*)** a common worldly comparison is shown, yet since further on by the word **गर्भं (*garbhaṃ*)** all the broods of living beings, in the form of the embryo, are meant, the word **पित्रोः (*pitroḥ*)** may also be taken to mean heaven and earth in the form of mother and father. The sense is: as in the world parents hold their own-born son on their lap and protect him, so heaven and earth, the mother and father of the whole universe, hold and protect the broods of living beings, which are their own embryos.
+
+---
+
+**Progress note:** Done through printed p. 61 (PDF 79). Sūkta 185 Ṛk 1 closed on p. 60; Ṛk 2 (bhūriṃ dve acarantī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun on p. 61 (may continue) and Vyākaraṇa-prakriyā not yet seen — continue on printed p. 62 / PDF 80. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca).
