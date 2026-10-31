@@ -142,5 +142,21 @@
   "old": "सखायोः वयं / sakhāyoḥ vayaṃ (bhāṣya)",
   "new": "सखायो वयं / sakhāyo vayaṃ",
   "note": "250/500dpi: print ಸಖಾಯೋ ವಯಂ (no visarga). NOT resolved: 'tadvad asyam indraṃ' — print reads ತದ್ವದ್ಯಮಪೀಂದ್ರಂ-like (ma/ya hooks confuse); the word 'suśiṣvau/suśiṣṭau' in bhāṣya (ಸುಶಿಷ್…ೌ) also undecided; left as is."
+ },
+ {
+  "pdf": 320,
+  "printed": 300,
+  "status": "resolved",
+  "old": "Saṃhitā tātṛṣāṇoko / Pada tātṛṣāṇaḥ|okaḥ; bhāṣya: dhyāyann arte [?], yathā nilambena [?], tatpadanam, vakraś cenāti [?], kuṭilagatiś cit, tatra tṛṣāṇaṃ",
+  "new": "tātṛṣāṇamoko / tatṛṣāṇam|okaḥ; dhyāyan vartate; yathāvilambena; tatsadanam; vakratvenāti; kuṭilagatis tu; tatṛṣāṇaṃ",
+  "note": "250/600dpi: Saṃhitā ತಾತೃಷಾಣಮೋಕೋ, Pada ತತೃಷಾಣಂ । ಓಕಃ (ā of the Pada's first syllable absent in print); bhāṣya lines compared line by line. Note: 'dhyāyan vartate' is my best reading of ಧ್ಯಾಯನ್ವರ್ತತೇ; first two lines of the bhāṣya (…ṛndhan vardhayan…) not re-read."
+ },
+ {
+  "pdf": 320,
+  "printed": 300,
+  "status": "resolved",
+  "old": "*kaḥ cit yajñaḥ* — a sacrificer, the performer of the sacrifice; *tīrthe* — (as by) a bathing-place; *accha* — by one who is near; *okaḥ* — the abode of water and the like; *tātṛṣāṇaṃ na* — as one is satisfied who is thirsty, by (affection that is not troubled): *ṛndhan sma* — (so) as he (increases Indra) prospers (him); (but) *juhurāṇaḥ cit* — a man of crooked ways; *dīrghaḥ* — the long; *adhvā* — path; *sidhram* — to the desired fruit; *ā kṛṇoti na* — makes (it) crooked; *sidhram* — the man who seeks the fruit; *ā kṛṇoti na* — as one is kept away (from the fruit he wishes); *manasā* — in the mind alone; *pari yan* — (thinking of worldly objects) wandering about (that is, never worships Indra).",
+  "new": "*kaḥ cit yajñaḥ* — a certain man who is a performer of the sacrifice; *tīrthe* — (of some) bathing-place; *accha* — near; *okaḥ* — the abode of water and the like; *tatṛṣāṇaṃ na* — as (one satisfies) a man afflicted by thirst; *ṛndhan sma* — (he) keeps increasing (Indra); (but) *juhurāṇaḥ cit* — a crooked man; *dīrghaḥ* — distant; *adhvā* — path; *sidhram* — the desired fruit; *ā kṛṇoti na* — as one makes it bad; *sidhram* — the man who desires the fruit; *ā kṛṇoti na* — as one keeps (him) away (from the fruit he desires); *manasā* — in the mind alone; *pari yan* — (thinking of worldly objects and the like) goes around (that is, never worships Indra).",
+  "note": "250dpi: Pratipadārtha lines re-read from the print (ತೀರ್ಥೇ—(ಯಾವುದಾದರೊಂದು) ತೀರ್ಥದ; ತತೃಷಾಣಂ ನ—ಬಾಯಾರಿಕೆಯಿಂದ ಪೀಡಿತನಾದವನನ್ನು (ತೃಪ್ತಿಪಡಿಸುವಂತೆ); ದೀರ್ಘಃ—ದೂರವಾದ; …)."
  }
 ]
