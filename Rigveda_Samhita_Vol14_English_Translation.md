@@ -2885,4 +2885,206 @@ As in the previous ṛk, in this ṛk too there is a description of the qualitie
 
 ---
 
-**Progress note:** Done through printed p. 85 (PDF 103). Sūkta 185 Ṛk 6 (urvī sadmanī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics in progress (urvī … supratīke done; may continue); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 86 / PDF 104. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19).
+### Printed p. 86  (PDF 104)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Vyākaraṇa-prakriyā of Ṛk 6; Ṛk 7 begins.)*
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *sadmanī* (root *ṣadḷ viśaraṇagatyavasādaneṣu*; suffix *manin* by *anyebhyo 'pi dṛśyante* (Pā. Sū. 3-2-75); initial acute because of the *n*-marker). *bṛhatī* (by *bṛhanmahator upasaṃkhyānam* the *ṅīp* is acute; by *supāṃ suluk* *pūrvasavarṇa* lengthening before the dual). *janitrī* (root *janī prādurbhāve*; *tṛn* in the agent sense; *iṭ* augment; *ṅīp* in the feminine by *ṛnnebhyo ṅīp* (Pā. Sū. 4-1-4, as printed); *yaṇ* substitution; initial acute because the suffix has the *n*-marker). *dadhāte* (being at the beginning of the pāda, no *nighāta*; the initial acute of the suffix). *supratīke* (शोभनं प्रतीकं ययोस्ते सुप्रतीके (*śobhanaṃ pratīkaṃ yayoste supratīke*); by *parādiś chandasi bahulam* (Pā. Sū. 6-2-199) the initial acute of the final member).
+
+*(Rule "— —": end of Ṛk 6.)*
+
+## Sūkta 185, Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> उर्वी पृथ्वी बहुले दूरेअन्ते उप ब्रुवे नमसा यज्ञे अस्मिन् ।
+> दधाते ये सुभगे सुप्रतूर्ती द्यावा रक्षतं पृथिवी नो अभ्वात् ॥ ७ ॥
+
+> *urvī pṛthvī bahule dūreante upa bruve namasā yajñe asmin |*
+> *dadhāte ye subhage supratūrtī dyāvā rakṣataṃ pṛthivī no abhvāt ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> उर्वी इति । पृथ्वी इति । बहुले इति । दूरेअन्ते इति दूरेऽअन्ते । उप । ब्रुवे । नमसा । यज्ञे । अस्मिन् ।
+> दधाते इति । ये इति । सुभगे इति सुऽभगे । सुप्रतूर्ती इति सुऽप्रतूर्ती । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ७ ॥
+
+> *urvī iti | pṛthvī iti | bahule iti | dūreante iti dūre 'ante | upa | bruve | namasā | yajñe | asmin |*
+> *dadhāte iti | ye iti | subhage iti su 'bhage | supratūrtī iti su 'pratūrtī | dyāvā | rakṣataṃ | pṛthivī iti | naḥ | abhvāt ‖ 7 ‖*
+
+---
+
+### Printed p. 87  (PDF 105)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Ṛk 7, continued.)*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* I praise with homage at this sacrifice the vast, wide, multiform, far-ending (boundless) Heaven and Earth, of good fortune and good bounty, who hold the whole world.
+
+> उर्वी उर्व्यौ महत्यौ पृथ्वी पृथिव्यौ बहुले अनेकप्रकारेण प्रथमाने बह्वाकारे दूरेअन्ते विप्रकृष्टान्तदेशे । अपारे इत्यर्थः । ईदृश्यौ युवामस्मिन्यज्ञे नमसा नमस्साधनेन स्तोत्रेणोप ब्रुवे । उपेत्य ब्रवीमि । स्तौमीत्यर्थः । पुनः कीदृश्यौ । ये सुभगे शोभनभाग्ये सुप्रतूर्ती सुप्रतरणे शोभनदाने दधाते विश्वं जगत् ते युवामुप ब्रुवे स्तौमि ॥
+
+> *urvī urvyau mahatyau pṛthvī pṛthivyau bahule anekaprakāreṇa prathamāne bahvākāre dūreante viprakṛṣṭāntadeśe | apāre ityarthaḥ | īdṛśyau yuvāmasminyajñe namasā namassādhanena stotreṇopa bruve | upetya bravīmi | staumītyarthaḥ | punaḥ kīdṛśyau | ye subhage śobhanabhāgye supratūrtī suprataraṇe śobhanadāne dadhāte viśvaṃ jagat te yuvāmupa bruve staumi ‖*
+
+**Pratipadārtha.** *urvī* — having a great form; *pṛthvī* — exceedingly extensive; *bahule* — having forms of many kinds; *dūreante* — endless; (and) *ye* — who; *subhage* — being of auspicious nature; *supratūrtī* — being givers of good things; *dadhāte* — (the whole world) holding — such Heaven and Earth; *asmin yajñe* — in this sacrifice; *namasā* — with praise accompanied by obeisance; *upabruve* — approaching, I pray; *dyāvāpṛthivī* — O Heaven and Earth; *naḥ* — us; *abhvāt* — from great fear; *rakṣatam* — protect.
+
+**Bhāvārtha.** Heaven and Earth, who have a great form, are exceedingly extensive, have forms of many kinds, are endless, of auspicious nature, givers of good things, and who hold the whole world — them I approach and pray to in this sacrifice with praise accompanied by obeisance. O Heaven and Earth, save us from fearful sin and protect us.
+
+**English Translation (as printed; heading printed "English Trnslation" [sic]):** I glorify with reverence, at this sacrifice, (the two), who are vast, expansive, multiform, infinite, auspicious; who support (all beings) by their bounty : defend us, Heaven and Earth, from great danger.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**बहुले (*bahule*)** — the meaning is: having many kinds of form through the many kinds of visible things, mountains, rivers, forests, trees, houses and the like.
+
+**दूरे अन्ते (*dūre ante*)** — *anta* means the end. Its end is very far away, that is, it extends to a very great distance and is boundless: this is the intention. This use of the word (is found) in the Ṛgveda: in this ṛk also — *(continues on the next page)*
+
+---
+
+### Printed p. 88  (PDF 106)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 7, concluded; Vyākaraṇa-prakriyā; Ṛk 8 begins.)*
+
+> समान्या वियुते दूरे अन्ते ध्रुवे पदे तस्थतुर्जागरूके ।
+> उत स्वसारा युवती भवन्ती आदु ब्रुवाते मिथुनानि नाम ॥
+
+> *samānyā viyute dūre ante dhruve pade tasthaturjāgarūke |*
+> *uta svasārā yuvatī bhavantī ādu bruvāte mithunāni nāma ‖*
+
+(Ṛ. Saṃ. 3-54-7) (Gloss, mine and tentative: "Common to both, parted, with far-off ends, the two wakeful ones have stood in a firm place; and being young sisters, they speak twin names.")
+
+— it occurs only in this ṛk; it is found nowhere else. There too it praises the qualities of Heaven and Earth.
+
+**दधाते (*dadhāte*)** — though this word has only the meaning "holding", here the intention is "who hold the whole world through nourishment and the like".
+
+**सुप्रतूर्ती (*supratūrtī*)** — "having good bounty", that is, the intention is "who provide rain (*maḷe*), crops and the like, food, and all the means and wealth most necessary to the living beings of the world".
+
+**नमसा (*namasā*)** — the word *namas* has many meanings: obeisance, food, praise. Here the bhāṣyakāra has adopted the meaning "praise".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *urvī* (the word *uru* is a quality-word, printed "*adanta*"; *ṅīp* (as printed) in the feminine by *voto guṇavacanāt* (Pā. Sū. 4-1-44); *yaṇ* substitution; by *udāttayaṇo halpūrvāt* (Pā. Sū. 6-1-174) the *ī* becomes acute; before the dual *pūrvasavarṇa* lengthening by *supāṃ suluk* — here in all the *ī*-final words this lengthening has come). *bruve* (root *brūñ vyaktāyāṃ vāci*; *laṭ*, first person singular; *nighāta* of a verb after a non-verb). *subhage* (by *ādyudāttaṃ dvyac chandasi* (Pā. Sū. 6-2-119) the initial acute of the final member). *supratūrtī* (शोभना प्रतूर्तिः दानं ययोस्ते (*śobhanā pratūrtiḥ dānaṃ yayoste*); by *parādiś chandasi bahulam* (Pā. Sū. 6-2-199) the initial acute of the final member; *pūrvasavarṇa* lengthening in the dual as before). ‖ 7 ‖
+
+*(Ornament: end of Ṛk 7.)*
+
+## Sūkta 185, Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+*(As printed: "सदमिजास्पतिं (*sadamijāspatiṃ*)" with single *j*; continues on the next page.)*
+
+> देवान्वा यच्चकृमा कच्चिदागः सखायं वा सदमिजास्पतिं वा ।
+
+> *devānvā yaccakṛmā kaccidāgaḥ sakhāyaṃ vā sadamijāspatiṃ vā |*
+
+---
+
+### Printed p. 89  (PDF 107)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Ṛk 8, continued: second line of the Saṃhitā.)*
+
+> इयं धीर्भूया अवयानमेषां द्यावा रक्षतं पृथिवी नो अभ्वात् ॥ ८ ॥
+
+> *iyaṃ dhīrbhūyā avayānameṣāṃ dyāvā rakṣataṃ pṛthivī no abhvāt ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+*(As printed: "सदं (*sadaṃ*)" and "जाःपतिं (*jāḥpatiṃ*)" without a compound mark.)*
+
+> देवान् । वा । यत् । चकृम । कत् । चित् । आगः । सखायं । वा । सदं । इत् । जाःपतिं । वा ।
+> इयं । धीः । भूयाः । अवऽयानं । एषां । द्यावा । रक्षतं । पृथिवी इति । नः । अभ्वात् ॥ ८ ॥
+
+> *devān | vā | yat | cakṛma | kat | cit | āgaḥ | sakhāyaṃ | vā | sadaṃ | it | jāḥpatiṃ | vā |*
+> *iyaṃ | dhīḥ | bhūyāḥ | ava 'yānaṃ | eṣāṃ | dyāvā | rakṣataṃ | pṛthivī iti | naḥ | abhvāt ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* Whatever offence we have ever done to gods, to a friend, or to a son-in-law (by quarrels and the like), may this praise-rite be its expiation; Heaven and Earth are asked to stay favourable in their own place.
+
+*(As printed: "पापानामुपगमं (*pāpānāmupagamaṃ*)", where the sense needs *apagamaṃ*.)*
+
+> हे द्यावापृथिव्यौ वयं देवान् देवान्प्रति यत्कच्चिदागोऽपराधं तत्तद्यागकाले तेषां तेषामयागलक्षणं सदमित्सर्वदैव चकृम कृतवन्तो वयं । सखायं वा प्रियं मित्रं वा प्रति यच्चकृम । जास्पतिं । जाः पुत्र्यः । तासां पतिं जामातरं वा जायापतिं प्रति दोषारोपणकलहोत्पादनादिरूपं यत्सर्वदैव चकृम । एषामुक्तरूपाणां पापानामुपगमं कर्तुमियं धीर्युष्मत्स्तुतिरूपमिदं कर्म भूयाः । भूयात् । भवतु । द्यावेत्यादि गतं । अत्र सर्वत्र प्रकारान्तरेण मन्त्रमन्तरेण रक्षतं रक्षतमिति प्रार्थनं तयोरश्विन्यादिबहुमननासंभवादुचितमेव । तस्मात्स्वस्थान एव स्थिते अनुकूले भवतमित्येवं प्रार्थ्यते ॥
+
+> *he dyāvāpṛthivyau vayaṃ devān devānprati yatkaccidāgo 'parādhaṃ tattadyāgakāle teṣāṃ teṣāmayāgalakṣaṇaṃ sadamitsarvadaiva cakṛma kṛtavanto vayaṃ | sakhāyaṃ vā priyaṃ mitraṃ vā prati yaccakṛma | jāspatiṃ | jāḥ putryaḥ | tāsāṃ patiṃ jāmātaraṃ vā jāyāpatiṃ prati doṣāropaṇakalahotpādanādirūpaṃ yatsarvadaiva cakṛma | eṣāmuktarūpāṇāṃ pāpānāmupagamaṃ kartumiyaṃ dhīryuṣmatstutirūpamidaṃ karma bhūyāḥ | bhūyāt | bhavatu | dyāvetyādi gataṃ | atra sarvatra prakārāntareṇa mantramantareṇa rakṣataṃ rakṣatamiti prārthanaṃ tayoraśvinyādibahumananāsaṃbhavāducitameva | tasmātsvasthāna eva sthite anukūle bhavatamityevaṃ prārthyate ‖*
+
+**Pratipadārtha.** (O Heaven and Earth,) *vayam* — we; *devān vā* — whether in regard to the gods; *yat kaccid āgaḥ* — whatever offence, in the form of omission or fault; *sadam it* — at any time; *cakṛma* — may have done (likewise); *sakhāyaṃ vā* — or in regard to friends; *jāspatiṃ vā* — or in regard to a son-in-law (whatever offence we may have done); *eṣām* — for such offences; *avayānam* — as the means of expiation; *iyaṃ dhīḥ* — this rite accompanied by praise; *bhūyāḥ* — may it be; *dyāvāpṛthivī* — O Heaven and Earth; *naḥ* — us; *abhvāt* — from great fear; *rakṣatam* — protect.
+
+---
+
+### Printed p. 90  (PDF 108)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Ṛk 8, continued.)*
+
+**Bhāvārtha.** O Heaven and Earth, whatever offences we have committed in regard to the gods at all the times of the sacrifices we perform, and likewise whatever offences we have committed in regard to friends and sons-in-law — for all such offences may this rite, consisting of praise, be the expiation. O Heaven and Earth, save us from fearful sin and protect us.
+
+**English Translation (as printed):** May this sacrifice be the means of expiating those offences which we may have committed against the gods, against a friend at any time, against a sun-in-law [sic] : defend us, Heaven and Earth, from great danger.
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this ṛk the ṛṣi humbly prays to the deities that they should pardon the many omissions and faults and the offences that may occur in the rite, in the form of a sacrifice, which he performs or is now performing.
+
+**आगः (*āgaḥ*)** — the meaning is sin, offence. Yāska, stating the derivation of this word —
+
+> यस्मै त्वं सुद्रविणो ददाशोऽनागास्त्वमदिते सर्वताता ।
+> यं भद्रेण शवसा चोदयासि प्रजावता राधसा ते स्याम ॥
+
+> *yasmai tvaṃ sudraviṇo dadāśo 'nāgāstvamadite sarvatātā |*
+> *yaṃ bhadreṇa śavasā codayāsi prajāvatā rādhasā te syāma ‖*
+
+(Ṛ. Saṃ. 1-94-15) (Gloss, mine and tentative: "To whom you, O possessor of good wealth, grant sinlessness, O Aditi, in all things; whom you urge on with auspicious strength and with bounty rich in offspring — may we be such.")
+
+— citing this ṛk, has stated the derivation:
+
+*(As printed: "आग" for *āgaḥ* at the start; the conjunct after *avaśyame-* is unclear, [?].)*
+
+> आग आङ्पूर्वाद्गमेः (अवश्यमे[?]तदागच्छति कर्तारमित्यागः) एन एतेः । किल्बिषं सुकृतकर्मणो भयं कीर्तिमस्य भिनत्तीति वा ।
+
+> *āga āṅpūrvādgameḥ (avaśyame[?]tadāgacchati kartāramityāgaḥ) ena eteḥ | kilbiṣaṃ sukṛtakarmaṇo bhayaṃ kīrtimasya bhinattīti vā |*
+
+(Gloss, mine and tentative: "*Āgas* from *gam* preceded by *ā* (it is *āgas* because it surely comes to the doer); *enas* from *i*; *kilbiṣa* is the fear of one who has done good deeds, or it breaks his fame.")
+
+That is: the sin that can arise from the omissions and faults the sacrificer may commit in the sacrifice and other rites comes following the sacrificer himself; hence such a sin or offence has the name *āgaḥ* — so he has explained, and in passing he has also stated that the word *kilbiṣa* has the same meaning.
+
+It is stated that the offence the ṛṣi has mentioned need not be thought of as relating to the deities alone; it also expresses repentance in regard to the people taking part in the sacrificial rites, such as the ṛtviks, and to friends, the son-in-law and other relatives. As for offences in regard to people — since mutual imputation of faults, quarrels and the like can occur, the ṛṣi has prayed that these should be pardoned.
+
+**जास्पतिम् (*jāspatim*)** — the word *jāḥ* is read among the names of offspring (*apatya*) (Ni. 3. 2.); the meaning is "daughter". The daughter's husband is well known by the name *jāspati* or *jāmātā*. The derivation of the word *jāmātā* *(continues on the next page)*
+
+---
+
+### Printed p. 91  (PDF 109)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 3". Ṛk 8, concluded; Ṛk 9 begins.)*
+
+— Yāska has stated: **जामाता जा अपत्यं तन्निर्माता (*jāmātā jā apatyaṃ tannirmātā*)** ("*jāmātā*: *jā* is offspring; its maker"). On this Durgācārya, in his commentary, has said:
+
+*(As printed: "हि न्मैथुनेन" and "निर्मिणोति".)*
+
+> जा अपत्यं स्त्रीत्वं हि न्मैथुनेन व्यवहारेणासौ निर्मिणोति तेनासौ दुहितुः पतिर्जामाता भवति ।
+
+> *jā apatyaṃ strītvaṃ hi nmaithunena vyavahāreṇāsau nirmiṇoti tenāsau duhituḥ patirjāmātā bhavati |*
+
+(Ni. 6-9) (Gloss, mine and tentative: "*Jā* is offspring; for he produces it in the woman by the conduct of union; therefore he, the daughter's husband, is *jāmātā*.")
+
+Since he produces offspring in the daughter, the son-in-law has the name *jāmātā*.
+
+**धीः (*dhīḥ*)** — **इयं धीर्युष्मत्स्तुतिरूपं कर्म (*iyaṃ dhīryuṣmatstutirūpaṃ karma*)**. The word *dhī* is read among the names of rite (*karma*) (Ni. 3-2, as printed). The ṛṣi has said: "the rite, in the form of praise, that I am performing in regard to you, Heaven and Earth".
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly).** *cakṛma* (because of the connection with *yad*, no *nighāta* of the verb; final acute by the suffix accent). *jāspatim* (जायन्ते इति जाः (*jāyante iti jāḥ*); by the force of the mention of *dṛśi*, suffix *ḍa* even without an *upapada*; *ṭi*-loss because of the *ḍ*-marker; plural by the nature of the word; जानां पतिः तम् (*jānāṃ patiḥ tam*); the original accent of the first member). *āgaḥ* (root *iṇ gatau*; suffix *asun* by *iṇa āgo 'parādhe ca* (Uṇ. Sū. 4-631, as printed); *āga* substituted for the root; initial acute because the suffix has the *n*-marker). *bhūyāḥ* (root *bhū sattāyām*; by *vyatyayo bahulam* (Pā. Sū. 3-1-85) in the *liṅ* the second-person singular ending in place of the third-person singular; *nighāta* because it follows a non-verb). *(No ‖ 8 ‖ printed at the end of the grammar.)*
+
+*(Rule: end of Ṛk 8.)*
+
+## Sūkta 185, Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> उभा शंसा नर्या मामविष्टामुभे मामूती अवसा सचेतां ।
+> भूरि चिदर्यः सुदास्तरायेषा मदन्त इषयेम देवाः ॥ ९ ॥
+
+> *ubhā śaṃsā naryā māmaviṣṭāmubhe māmūtī avasā sacetāṃ |*
+> *bhūri cidaryaḥ sudāstarāyeṣā madanta iṣayema devāḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥** *(continues on the next page)*
+
+> उभा । शंसा । नर्या । मां । अविष्टां । उभे इति । मां । ऊती इति । अवसा । सचेतां ।
+
+> *ubhā | śaṃsā | naryā | māṃ | aviṣṭāṃ | ubhe iti | māṃ | ūtī iti | avasā | sacetāṃ |*
+
+---
+
+**Progress note:** Done through printed p. 91 (PDF 109). Sūkta 185 Ṛk 8 closed (grammar on p. 91). Ṛk 9 (ubhā śaṃsā naryā) OPEN: Saṃhitā done, Pada first half (… avasā sacetāṃ) done — continue with the rest of the Pada on printed p. 92 / PDF 110. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar.
