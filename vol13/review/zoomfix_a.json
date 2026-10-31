@@ -36,16 +36,16 @@
   "printed": 307,
   "status": "resolved",
   "old": "(The print has a mark after *stoma* that I read as visarga/*u*: [?].)",
-  "new": "(Zoomed: the print has the vowel sign *u* (ು) on the *ma* after *stoma*, i.e. printed *stomu* — not a visarga; the text above keeps *stoma* as the evident intended word.)",
-  "note": "600dpi crop: ಸ್ತೋಮು — u-sign, no visarga"
+  "new": "(Zoomed: the mark after *stoma* is the printer's own glyph for *ma* (this typeface draws ma and ya with a hook that looks like the u-sign), followed by no visarga: the word is *stoma*.)",
+  "note": "600dpi: no visarga after stoma; the ು-like mark is the typeface's ma glyph (same as in ಮುರುತಃ). Earlier reading 'u-sign' withdrawn."
  },
  {
   "pdf": 314,
   "printed": 294,
-  "status": "resolved",
+  "status": "unresolved",
   "old": "असाम / asāma (Saṃhitā and Pada)",
-  "new": "असामु / asāmu",
-  "note": "600/400dpi: both Saṃhitā and Pada print ಅಸಾಮು (ma+u sign); also confirms suṣakhāya. Bhāṣya wording not re-read."
+  "new": "(unchanged: asāma)",
+  "note": "Print shows ಅಸಾಮು, but this typeface draws plain ma/ya with a u-like hook (cf. ಮುರುತಃ for marutaḥ, ಯಜಮಾನಾಯು), so it is asāma; an earlier edit to asāmu was reverted. suṣakhāya confirmed."
  },
  {
   "pdf": 302,
@@ -78,5 +78,13 @@
   "old": "एकविग्ं शं; Tai.Saṃ. 6-1-1-4,5 [?]; Ath.Ve. 9-1-… [?]; अभ्यजयन्त्सेभ्यः; प्रातःसवनादनुदत; Ai.Brā. 13-6 [?] (twice)",
   "new": "एकविग्ंशं; 6-1-1-4, 5; Ath.Ve. 9-1-2; अभ्यजयंस्तेभ्यः; प्रातस्सवनादनुदत; Ai.Brā. 13-6",
   "note": "210dpi page view: quotes and refs legible. Nirukta refs 2-10, 2-17 listed in the doubt note are not on this part of the page / not viewed. Atharva last digit read as 2."
+ },
+ {
+  "pdf": 307,
+  "printed": 287,
+  "status": "resolved",
+  "old": "Ai.Brā. 6-13 [?]; माध्यंदिने (in 'prajāpatir vai yajñaṃ…'); Chā.Up. 2-24-… [?]",
+  "new": "Ai.Brā. 6-13; मध्यंदिने; Chā.Up. 2-24",
+  "note": "210/450dpi: refs legible; print has ಮಧ್ಯಂದಿನೇ in that quote. NOT resolved: middle of the 'tebhyas tṛtīyasavane' quote (print reads …antevāsās tvanme-/vaibhiḥ saṃpibasveti, no omission dots; left as is, [?]); Ai.Brā. 12-2 ref not viewed."
  }
 ]
