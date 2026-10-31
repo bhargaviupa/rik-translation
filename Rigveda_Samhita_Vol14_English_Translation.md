@@ -400,4 +400,208 @@ The Niruktakāras have listed this word among the names of the Lord (*īśvara*)
 
 ---
 
-**Progress note:** Done through printed p. 13 (PDF 31). Sūkta 184 Ṛk 1 Special Topics still OPEN (word notes: uṣasi ucchantyām, divo napātā, nāsatyā, aryaḥ — the last breaks off at 'For example,'; continue on printed p. 14 (PDF 32)). Flags: p. 8 table ref 7-8[?]-1 and सप्तच्छन्दांस्याग्नेये [?]; p. 9 Ai. Brā. 7[?]-5 (pp. 10, 12 show the same citations as 7-6, 7-8, 7-5); p. 9 table ref printed 1-57-1 (p. 11 cites 1.157.1: likely misprint); p. 9–10 देवतामादि[?] … प्रतिपत्स्यामीतरा [?] मे केन [?]; p. 12 Ni. 12. 7[?].
+### Printed p. 14  (PDF 32)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* *(Ṛk 1 Special Topics continued: examples of* aryaḥ *in the sense "venerable".)*
+
+> पृथू रथो दक्षिणाया अयोज्यैनं देवासो अमृतासो अस्थुः ।
+> कृष्णादुदस्थादर्या३ विहायाश्चिकित्सन्ती मानुषाय क्षयाय ॥
+
+> *pṛthū ratho dakṣiṇāyā ayojyainaṃ devāso amṛtāso asthuḥ |*
+> *kṛṣṇādudasthādaryā3 vihāyāścikitsantī mānuṣāya kṣayāya ‖*
+
+(Ṛ. Saṃ. 1. 123. 1) (Gloss, mine and tentative: "The broad chariot of Dakṣiṇā has been yoked; the immortal gods have mounted it; the noble, vast one has risen from the darkness, taking heed for the human dwelling.")
+
+In this ṛk, describing the qualities of the Uṣas-deity, who is understood from the context, there is the epithet अर्या (*aryā*). For this word Sāyaṇa has given the meaning पूज्या (*pūjyā*) ("venerable"); and its use is most frequent in the sense of "the Lord of all" (*sarveśvara*).
+
+**मघवाना (*maghavānā*).** For this epithet Sāyaṇa has given the meaning हविर्लक्षणान्नयुक्तौ (*havirlakṣaṇānnayuktau*): "(the Aśvin deities) endowed with food in the form of oblation". Although ordinarily the epithet *maghavan* refers to Indra, this epithet is used here and there in the Ṛksaṃhitā when the qualities of other deities too are described.
+
+Or, since the word *magha* is read among the names of wealth (*dhana*) (Ni. 3. 9, as read), here it can be said to mean wealth in the form of food. The Niruktakāras, with मघमिति धननामधेयं मंहतेर्दानकर्मणः (*maghamiti dhananāmadheyaṃ maṃhaterdānakarmaṇaḥ*) ("*magha* is a name of wealth, from *maṃh*, which means giving"), have made known the derivation of the word *magha* and explained the meaning of the word *maghonī* (Ni. 1. 7[?]). In the same way, in the present ṛk too, a derivation can be given for the epithet *maghavānā*. Or,
+
+*maghavānā* may be taken to mean "the Aśvin deities joined with Viṣṇu", and that would not be wrong. For it has been made known earlier that in the Śatapatha Brāhmaṇa and other texts the identity of Viṣṇu and *makha* (sacrifice) is stated (Śa. Brā. 14. 1. 1. 13). The association between the Aśvin deities and Viṣṇu, who has the form of *makha*, is also well known. This point too was made known earlier, in explaining the Special Topics of the ṛk
+
+> तमस्य राजा वरुणस्तमश्विना क्रतुं संचत मारुतस्य वेधसः ।
+> दधार दक्षमुत्तममहर्विदं व्रजं च विष्णुः सखिवाँ अपोर्णुते ॥
+
+> *tamasya rājā varuṇastamaśvinā kratuṃ saṃcata mārutasya vedhasaḥ |*
+> *dadhāra dakṣamuttamamaharvidaṃ vrajaṃ ca viṣṇuḥ sakhivā~ aporṇute ‖*
+
+(Ṛ. Saṃ. 1. 156. 4) (संचत (*saṃcata*) and दधार (*dadhāra*) as printed.) (Gloss, mine and tentative: "King Varuṇa and the Aśvins attend on this resolve of the Marut-accompanied disposer; Viṣṇu holds the highest, day-finding skill, and, with his companion, opens the pen.") (Ṛgveda Saṃhitā, Part 11, pp. 656–657). Moreover, in the Ṛksaṃhitā too this same association is described thus:
+
+> यदिन्द्रेण सरथं याथो अश्विना यद्वा वायुना भवथः समोकसा ।
+> यदादित्येभिर्ऋभुभिः सजोषसा यद्वा विष्णोर्विक्रमणेषु तिष्ठथः ॥
+
+> *yadindreṇa sarathaṃ yātho aśvinā yadvā vāyunā bhavathaḥ samokasā |*
+> *yadādityebhirṛbhubhiḥ sajoṣasā yadvā viṣṇorvikramaṇeṣu tiṣṭhathaḥ ‖*
+
+(Ṛ. Saṃ. 8. 9. 12) (Gloss, mine and tentative: "Whether, O Aśvins, you go on one chariot with Indra, or dwell in one abode with Vāyu, or are in accord with the Ādityas and Ṛbhus, or stand in the strides of Viṣṇu.") *(continues on the next page)*
+
+### Printed p. 15  (PDF 33)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)* In ṛks such as these it is made known that the Aśvin deities have association with Viṣṇu. For this reason *maghavānā* may also be taken to mean "the Aśvin deities joined with Viṣṇu". But in the present context it appears more fitting to give the meaning, as Sāyaṇa has said, "those endowed with the wealth of food in the form of oblation".
+
+**सुवृक्ति (*suvṛkti*).** सुष्ठु पापवर्जनं यथा भवति तथा । यद्वा । सुसमाप्ति (*suṣṭhu pāpavarjanaṃ yathā bhavati tathā | yadvā | susamāpti*) — the meaning is "having full release from sin", or "having a pure completion". This word is an epithet of the word *stoma* (praise). This epithet is used in one sense in one place and in another sense in another. The Niruktakāras, quoting the ṛk
+
+> इयं शुष्मेभिर्बिसखा इवारुजत्सानु गिरीणां तविषेभिरूर्मिभिः ।
+> पारावतघ्नीमवसे सुवृक्तिभिः सरस्वतीमा विवासेम धीतिभिः ॥
+
+> *iyaṃ śuṣmebhirbisakhā ivārujatsānu girīṇāṃ taviṣebhirūrmibhiḥ |*
+> *pārāvataghnīmavase suvṛktibhiḥ sarasvatīmā vivāsema dhītibhiḥ ‖*
+
+(Ṛ. Saṃ. 6. 61. 2) (Gloss, mine and tentative: "This [Sarasvatī], like one digging for lotus-fibres, has broken the ridges of the mountains with her strong, mighty waves; let us, for help, serve Sarasvatī, destroyer of the far-dwelling [foes], with fair praises and devout thoughts.")
+
+— have given for the word *suvṛktibhiḥ* in it the meaning सुप्रवृत्ताभिः शोभनाभिः स्तुतिभिः (*supravṛttābhiḥ śobhanābhiḥ stutibhiḥ*), i.e. excellent praise. The word *vṛkti* is used in other places also in the sense of "avoiding". For example,
+
+> कुविदङ्ग यवमन्तो यवं चिद्यथा दान्त्यनुपूर्वं वियूय ।
+> इहेहैषां कृणुहि भोजनानि ये बर्हिषो नमोवृक्तिं न जग्मुः ॥
+
+> *kuvidaṅga yavamanto yavaṃ cidyathā dāntyanupūrvaṃ viyūya |*
+> *ihehaiṣāṃ kṛṇuhi bhojanāni ye barhiṣo namovṛktiṃ na jagmuḥ ‖*
+
+(Ṛ. Saṃ. 10. 131. 2) (Gloss, mine and tentative: "As men rich in barley reap the barley in due order, separating it, so here make provisions for those who have not given up the homage of the sacred grass.")
+
+Here, with नमोवृक्तिं नमसः हविर्लक्षणस्यान्नस्य नमस्कारात्मकस्य स्तोत्रस्य वा वर्जनमकरणं न जग्मुः (*namovṛktiṃ namasaḥ havirlakṣaṇasyānnasya namaskārātmakasya stotrasya vā varjanamakaraṇaṃ na jagmuḥ*) ("*namovṛkti*: they have not come to the avoidance, the non-doing, of *namas* — food in the form of oblation, or praise in the form of homage"), Indra is prayed to [for those] who have not given up praise in the form of homage. Here the word *vṛkti* is used in the sense of avoiding. But its use in the sense of praise is by far the more frequent. For example,
+
+> अस्मा इदु त्यमुपमं स्वर्षां भराम्याङ्गूषमास्येन ।
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ॥
+
+> *asmā idu tyamupamaṃ svarṣāṃ bharāmyāṅgūṣamāsyena |*
+> *maṃhiṣṭhamacchoktibhirmatīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai ‖*
+
+(Ṛ. Saṃ. 1. 61. 3) (Gloss, mine and tentative: "To him I bring with my mouth this highest, light-winning hymn, to strengthen the most bountiful patron with invocations and fair praises of thoughts.")
+
+In all such places the meaning is "excellent praise".
+
+**वर्तिः (*vartiḥ*).** वर्तनहेतुभूतं गृहम् (*vartanahetubhūtaṃ gṛham*): Sāyaṇa has given, in all places where this word comes, the meaning "the house that is the support for dwelling". But Skandasvāmin has generally, in all places, given the meaning "the well-known road (*mārga*)". For example, *(continues on the next page)*
+
+---
+
+### Printed p. 16  (PDF 34)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)*
+
+> त्रिर्वर्तिर्यातं त्रिरनुव्रते जने त्रिः सुप्राव्ये त्रेधेव शिक्षतम् ।
+> त्रिर्नान्द्यं वहतमश्विना युवं त्रिः पृक्षो अस्मे अक्षरेव पिन्वतम् ॥
+
+> *trirvartiryātaṃ triranuvrate jane triḥ suprāvye tredheva śikṣatam |*
+> *trirnāndyaṃ vahatamaśvinā yuvaṃ triḥ pṛkṣo asme akṣareva pinvatam ‖*
+
+(Ṛ. Saṃ. 1. 34. 4) (Gloss, mine and tentative: "Thrice come to the dwelling [or: along the course], thrice to the devoted man; thrice teach, as it were threefold, the one who is to be well protected; thrice, O Aśvins, bring us what gladdens; thrice swell for us nourishment, as [clouds] the waters.")
+
+In all such ṛks Sāyaṇa has given for *varti* the meaning "house" (*gṛha*) and Skandasvāmin the meaning "path" (*patha*). It is a special point that all the sūktas containing ṛks in which the word *varti* is used in this way — *trir vartiḥ*, *aśvinā vartiḥ* and so on — such as 1. 1[?]6. 18; 1. 1[?]7[?]. 2; 1. 119[?]. 4, refer to the Aśvin deities (numerals as read; some digits are broken in the print). But in the ṛk
+
+> इषं दुहन्त्सुदुघां विश्वधायसं यज्ञप्रिये यजमानाय सुक्रतो ।
+> अग्ने घृतस्नुस्त्रिर्ऋतानि दीद्यद्वर्तिर्यज्ञं परियन्त्सुक्रतूयसे ॥
+
+> *iṣaṃ duhantsudughāṃ viśvadhāyasaṃ yajñapriye yajamānāya sukrato |*
+> *agne ghṛtasnustrirṛtāni dīdyadvartiryajñaṃ pariyantsukratūyase ‖*
+
+(Ṛ. Saṃ. 10. 122. 6) (Gloss, mine and tentative: "Milking out, O wise Agni, for the sacrificer who loves sacrifice, nourishment that yields well and sustains all, you, dripping ghee, shining thrice upon the rites, going round the dwelling and the sacrifice, show yourself of good resolve.")
+
+alone is the word used in a mantra addressed to Agni. Here it has been explained as "the sacrificial house". Sāyaṇa too has in some places given this word the meaning "path" (*mārga*). For example,
+
+> यो ह स्य वां रथिरा वस्त उस्रा रथो युजानः परियाति वर्तिः ।
+
+*(continues on the next page)*
+
+### Printed p. 17  (PDF 35)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)*
+
+> तेन नः शंयोरुषसो व्युष्टौ न्यश्विना वहतं यज्ञे अस्मिन् ॥
+
+> *tena naḥ śaṃyoruṣaso vyuṣṭau nyaśvinā vahataṃ yajñe asmin ‖*
+
+(Ṛ. Saṃ. 7. 69. 5) (Gloss, mine and tentative: "That chariot of yours, O charioteers, which clothes itself in the dawns and, being yoked, goes round the course — with it, O Aśvins, at the dawning of Uṣas, bring weal and welfare to us in this sacrifice.")
+
+Here *vartiḥ* has been explained as मार्गम् (*mārgam*) ("the path"). This is a mantra prayed to with reference to the Aśvin deities themselves. In the present ṛk the meaning is "house". Generally it is a synonym for the sacrificial house.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar page, noted briefly; sūtra numbers as printed).** *tā* (*tad* with the dual ending *au*; *a*-substitution by *tyadādīnām aḥ*; *pararūpa* by *ato guṇe*; *ā* for the case-ending by *supāṃ suluk* … Pā. 7-1-39). *huvema* (root *hveñ spardhāyāṃ śabde ca*; *liṅ* 1st plural; *nighāta* accent as it follows a word that is not a verb [as printed "atiṅanta"]). *ucchantyām* (root *uchī vivāse*; *śatṛ* for *laṭ*; *śa*-vikaraṇa by *tudādibhyaḥ śaḥ*; feminine *ṅīp* by *ugitaś ca* Pā. 4-1-6; the vikaraṇa accent remains; locative singular). *vahniḥ* (root *vaha prāpaṇe*; suffix *ni* by *vahiśriśruyudru* … Uṇ. 4-51; initial acute as it is *nit*). *santau* (root *asa bhuvi*; *śatṛ*; *luk* of the vikaraṇa; elision of the root's *a* by *śnasor allopaḥ* Pā. 6-4-111; the suffix's initial acute; *num* augment as it is *ugit*, anusvāra and *parasavarṇa*). *aryaḥ* (root *ṛ gatau*; *yat* in the sense of "master" by *aryaḥ svāmivaiśyayoḥ* Pā. 3-1-103; guṇa with *r*). *sudāstarāya* (*śobhanaṃ dadātīti sudāḥ*; root *ḍudāñ dāne*; suffix *asun*; *kṛduttarapada-prakṛtisvara*; then *tarap* in the sense of excess, unaccented as it is *pit*; *rutva*, visarga, *satva* of the final *s*; dative singular). ‖ 1 ‖
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अस्मे ऊ षु वृषणा मादयेथामुत्पणीँर्हतमूर्म्या मदन्ता ।
+> श्रुतं मे अच्छोक्तिभिर्मतीनामेष्टा नरा निचेतारा च कर्णैः ॥ २ ॥
+
+> *asme ū ṣu vṛṣaṇā mādayethāmutpaṇī~rhatamūrmyā madantā |*
+> *śrutaṃ me acchoktibhirmatīnāmeṣṭā narā nicetārā ca karṇaiḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्मे इति । ऊं इति । सु । वृषणा । मादयेथाम् । उत् । पणीन् । हतम् । ऊर्म्या । मदन्ता ।
+> श्रुतम् । मे । अच्छोक्तिऽभिः । मतीनाम् । एष्टा । नरा । निऽचेतारा । च । कर्णैः ॥ २ ॥
+
+> *asme iti | ūṃ iti | su | vṛṣaṇā | mādayethām | ut | paṇīn | hatam | ūrmyā | madantā |*
+> *śrutam | me | acchokti 'bhiḥ | matīnām | eṣṭā | narā | ni 'cetārā | ca | karṇaiḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(begins)*
+
+> हे वृषणा कामानां वर्षकावश्विनौ युवामस्मे उ अस्मास्वेव सु मादयेथाम् । सुष्ठु तृप्यतम् । अस्मभ्यं तर्पयतमभिमतम् । तथा पणीन्वणिजो लुब्धकानयष्टॄनुदुत्कृष्य [?] हतम् । नाशयतम् । कीदृशौ युवाम् । ऊर्म्या रात्रिनामैतत् । रात्र्यां मदन्ता माद्यन्तौ । यद्वा । ऊर्मिरिति सोमनाम । ऊर्मिर्यस्ते पवित्र आ । ऋ. ९-६४-११ । इत्यादिषु तथा प्रयोगात् । अस्मदीयेन …
+
+> *he vṛṣaṇā kāmānāṃ varṣakāvaśvinau yuvāmasme u asmāsveva su mādayethām | suṣṭhu tṛpyatam | asmabhyaṃ tarpayatamabhimatam | tathā paṇīnvaṇijo lubdhakānayaṣṭṝnudutkṛṣya [?] hatam | nāśayatam | kīdṛśau yuvām | ūrmyā rātrināmaitat | rātryāṃ madantā mādyantau | yadvā | ūrmiriti somanāma | ūrmiryaste pavitra ā | ṛ. 9-64-11 | ityādiṣu tathā prayogāt | asmadīyena …*
+
+---
+
+### Printed p. 18  (PDF 36)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* **Sāyaṇa-bhāṣya (continued).**
+
+> … सोमेन मदन्तौ । तादृशौ युवां मे ममाच्छोक्तिभिराभिमुख्यकरैर्निर्मलवेदवाक्यै रचिता मतीनाम् । कर्मणि षष्ठी । मननसाधनाः स्तुतीः कर्णैराकर्णनसाधनैः श्रोत्रैः श्रुतम् । शृणुतम् । हे नरा नेतारौ युवा[?] ऋष्वेष्ट्वन्वेष्टारावस्मत्स्तुतीनाम् [?] तथा निचेतारा लब्धानां तासां संचयकर्तारौ । निरित्येष समित्येतस्य स्थाने । यस्मादेवंविधौ तस्माच्छृणुतमिति ॥
+
+> *… somena madantau | tādṛśau yuvāṃ me mamācchoktibhirābhimukhyakarairnirmalavedavākyai racitā matīnām | karmaṇi ṣaṣṭhī | mananasādhanāḥ stutīḥ karṇairākarṇanasādhanaiḥ śrotraiḥ śrutam | śṛṇutam | he narā netārau yuvā[?] ṛṣveṣṭvanveṣṭārāvasmatstutīnām [?] tathā nicetārā labdhānāṃ tāsāṃ saṃcayakartārau | nirityeṣa samityetasya sthāne | yasmādevaṃvidhau tasmācchṛṇutamiti ‖*
+
+*Gist:* O showerers of desires, take full delight among us; destroy the niggardly, non-sacrificing Paṇis; you who rejoice at night (*ūrmyā* = night) or with Soma, seekers and gatherers of our praises, hear with your ears the praises made by me with pure Vedic words. (*mati* in the genitive for the object; *ni-* stands for *sam-*.)
+
+**Pratipadārtha.** *ūrmyā* — at the time of night (or, in the Somas offered by us); *madantā* — you who obtain satisfaction; *vṛṣaṇā* — O Aśvin deities, showerers of desires; *asme u* — among us alone (or, for our satisfaction alone); *su mādayethām* — you too obtain full satisfaction; *tathā* — (likewise); *paṇīn* — the misers who do not perform sacrifice; *ut hatam* — uproot and destroy; *narā* — O Aśvin deities, who are leaders; *eṣṭā* — you who look out for (our praises); *nicetārā ca* — and who gather (the praises obtained), you; *acchoktibhiḥ* — (to obtain your grace) made of Vedic words; *me* — my (composed by me); *matīnām* — praises in the form of meditation; *karṇaiḥ* — with your ears; *śrutam* — hear.
+
+**Bhāvārtha.** O Aśvin deities, who obtain satisfaction in the Soma juices offered by us and who shower desires: so as to give us satisfaction, you too obtain full satisfaction. Likewise uproot and destroy the misers who do not perform sacrifice. O Aśvin deities, who are leaders, you who look out for our praises and gather the praises obtained: to obtain your grace, hear with love my words of praise, made of Vedic words and of the nature of meditation.
+
+**English Translation (as printed):** Showerers (of benefits), rejoicing in (our) libations, make us happy and destroy the niggard (withholder) of offerings; hear, leaders, with your ears, my praises addressed to you with pure words, for you are seekers (after praise), you are retentive (of laudation).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**ऊर्म्या (*ūrmyā*).** रात्रिनामैतत् । यद्वा । ऊर्मिरिति सोमनाम (*rātrināmaitat | yadvā | ūrmiriti somanāma*) ("this is a name of night; or, *ūrmi* is a name of Soma"). The Niruktakāras have read this word among the names of night (Ni. 2[?]-18, as read). Therefore here too the meaning "night" … *(continues on the next page)*
+
+### Printed p. 19  (PDF 37)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)* … may be given: this is one alternative. Making known how the form of the word *ūrmi* is derived if this meaning is given, Sāyaṇa, where this word is used elsewhere, has explained it thus, pointing to that example:
+
+> अस्मा उषास आतिरन्त याममिन्द्राय नक्तमूर्म्याः सुवाचः ।
+> अस्मा आपो मातरः सप्त तस्थुर्नृभ्यस्तराय सिन्धवः सुपाराः ॥
+
+> *asmā uṣāsa ātiranta yāmamindrāya naktamūrmyāḥ suvācaḥ |*
+> *asmā āpo mātaraḥ sapta tasthurnṛbhyastarāya sindhavaḥ supārāḥ ‖*
+
+(Ṛ. Saṃ. 8-96-1) (Gloss, mine and tentative: "For him the dawns have prolonged their course, for Indra the nights with fair voices; for him the seven mother waters, the rivers easy to cross, have stood still, for men to cross.")
+
+In giving the meaning of the word *ūrmi* in this ṛk [he says]: रात्रिनामैतत् । ऋ गतिप्रापणयोः । "अर्तेरूच" (उ. सू. ४-४४) इति 'मि' प्रत्ययः सर्वैरभिगन्तव्यः । रात्र्यां हि सर्वे स्वनिवासं गच्छन्ति । स्वनिलयप्राप्तिहेतुभूता रात्रयः [?] । (*rātrināmaitat | ṛ gatiprāpaṇayoḥ | "arterūca" (u. sū. 4-44) iti 'mi ' pratyayaḥ sarvairabhigantavyaḥ | rātryāṃ hi sarve svanivāsaṃ gacchanti | svanilayaprāptihetubhūtā rātrayaḥ [?] |*) ("This is a name of night. [Root] *ṛ*, 'to go, to reach'; by *arter ū ca* (Uṇ. 4-44) the suffix *mi*; [night is] that which is to be approached by all; for at night all go to their own dwellings; nights are the cause of reaching one's own abode.") — the word is formed from the root *ṛ*, which has the senses of going and reaching. At night all creatures go back each to its own dwelling and gather there. Because it brings all to their own places, night is well known by the name *ūrmi* — so he has explained. For this word in the present ṛk Sāyaṇa has given a second alternative, यद्वा ऊर्मिरिति सोमनाम (*yadvā ūrmiriti somanāma*): "or *ūrmi* may mean Soma". To support this explanation,
+
+> ऊर्मिर्यस्ते पवित्र आ देवावीः पर्यक्षरत् । सीदन्नृतस्य योनिमा ॥
+
+> *ūrmiryaste pavitra ā devāvīḥ paryakṣarat | sīdannṛtasya yonimā ‖*
+
+(Ṛ. Saṃ. 9-64-11) (Gloss, mine and tentative: "Your wave, which, gladdening the gods, has flowed round into the filter, settling in the seat of ṛta.")
+
+— quoting this ṛk, in which *ūrmi* means Soma, he has made known that in the present ṛk too it may have the same meaning. Here one more point must be noted. *ūrmi* does not mean Soma; *ūrmi* means a wave of water. Since in the quoted ṛk Soma is prayed to, the meaning "Soma juice in the form of a wave" is understood. The Niruktakāras, quoting the ṛk in which this word is used in this very sense, that is, "wave of water",
+
+> मा नः समस्य दूढ्य१ः [?] नि [?] परिद्वेषसो अंहतिः । ऊर्मिर्न नावमा वधीत् ॥
+
+> *mā naḥ samasya dūḍhya1ḥ [?] ni [?] paridveṣaso aṃhatiḥ | ūrmirna nāvamā vadhīt ‖*
+
+(Ṛ. Saṃ. 8-75-9) (the syllables after दूढ्य are unclear in the print; read roughly "ದೂಢ್ಯ೧ ಃ ನಿ"). (Gloss, mine and tentative: "Let not the distress of every ill-minded one, of the hater, strike us, as a wave a boat.")
+
+— have explained ऊर्मिरूर्णोतेः (*ūrmirūrṇoteḥ*): it is derived from the root *ūrṇu*, which gives the sense of covering, concealing, enveloping (Ni. 5-23, as read). The meaning is "wave" or "mass of water". This word is used also in the sense of a collection or mass of water:
+
+> धन्वन्स्रोतः कृणुते गातुमूर्मिं शुक्रैरूर्मिभिरभि नक्षति क्षाम् ।
+> विश्वा सनानि जठरेषु धत्तेऽन्तर्नवासु चरति प्रसूषु ॥
+
+> *dhanvansrotaḥ kṛṇute gātumūrmiṃ śukrairūrmibhirabhi nakṣati kṣām |*
+> *viśvā sanāni jaṭhareṣu dhatte 'ntarnavāsu carati prasūṣu ‖*
+
+(Ṛ. Saṃ. 1-95-10) (Gloss, mine and tentative: "In the desert he makes a stream, a path, a wave; with bright waves he reaches the earth; he holds all old things in his bellies; he moves within the new, fresh shoots.") *(Special Topics of Ṛk 2 continue on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 19 (PDF 37). Sūkta 184 Ṛk 2 Special Topics still OPEN (ūrmyā note: after Ṛ. Saṃ. 1-95-10 quoted as an example of ūrmi = mass of water; continue on printed p. 20 (PDF 38); Ṛk 2 grammar not yet reached). Flags pp. 14–19: p. 14 Ni. 3. 9 (zoomed) and Ni. 1. 7[?]; p. 16 varti refs 1. 1[?]6. 18 ; 1. 1[?]7[?]. 2 ; 1. 119[?]. 4 (digits broken); p. 17 bhāṣya लुब्धकानयष्टॄनुदुत्कृष्य [?]; p. 18 bhāṣya युवा[?] ऋष्वेष्ट्वन्वेष्टारा… [?], Ni. 2[?]-18; p. 19 रात्रयः [?], Ṛ 8-75-9 दूढ्य१ः [?] नि [?]. Earlier flags: p. 8 table ref 7-8[?]-1 and सप्तच्छन्दांस्याग्नेये [?]; p. 9 Ai. Brā. 7[?]-5; p. 9 table ref printed 1-57-1 (likely misprint for 1-157-1); p. 9–10 देवतामादि[?] … प्रतिपत्स्यामीतरा [?] मे केन [?]; p. 12 Ni. 12. 7[?].
