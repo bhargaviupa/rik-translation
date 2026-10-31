@@ -638,5 +638,13 @@
   "old": "‘rekṇasvatī svastīr dhanavaty’; ‘gopāyetti’; Ṛ.Saṃ. 10-63-16 [?]; Ni. 11-44 [?]",
   "new": "‘rekṇasvatī dhanavaty’; ‘gopāyatīti’; 10-63-16; Ni. 11-44",
   "note": "190dpi: Nirukta passage re-read (ರೇಕ್ಣಸ್ವತೀ ಧನವತ್ಯಭ್ಯೇತಿ …, ಗೋಪಾಯತ್ಯಿತಿ); refs ೧೦-೬೩--೧೬ (double hyphen in print) and ೧೧-೪೪."
+ },
+ {
+  "pdf": 378,
+  "printed": 358,
+  "status": "resolved",
+  "old": "विद्वा [?]; …स्पर्धानिमित्तानामुत्कृष्टानां; अपरो नृपभोद्देऽनुवादः [?]",
+  "new": "यद्वा; …स्पर्धानिमित्तानामस्मत्सेनानां; अपरो नृशब्दोद्द्यनुवादः [?] (print ನೃಶಬೋದ್ದ್ಯನುವಾದಃ, kept [?])",
+  "note": "230dpi: Ṛk 10 Pada and bhāṣya re-read; ‘sahodās tā-sāmarthyai’ (print ಸಹೋದಾಸ್ತಾ-ಸಾಮರ್ಥ್ಯ್ಯೈ) still unclear; ‘putratyādi’ (print) vs file ‘putratvādi’ not decided."
  }
 ]

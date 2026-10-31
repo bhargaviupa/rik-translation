@@ -9335,9 +9335,9 @@ Yāska has explained the meaning of the word *svasti*, with a mantra example:
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
 
-> हे इन्द्र त्वमस्माकं विश्वध विश्वस्मिन्नपि काले विश्वप्रकारैर्वावृकतमः । विद्वा [?] दातृतम इत्यर्थः । स्याः । भव । तथा नरां नृपातास्मदीयानां पुत्रत्वादिरूपाणां बहूनां मनुष्याणां रक्षको भव । अपरो नृपभोद्देऽनुवादः [?] । च स त्वं विश्वासां स्पृधां सर्वासां स्पर्धानिमित्तानामुत्कृष्टानां सहोदास्तासामर्थ्यः [?] बलस्य दाता भव । विद्यामेति गतम् ॥
+> हे इन्द्र त्वमस्माकं विश्वध विश्वस्मिन्नपि काले विश्वप्रकारैर्वावृकतमः । यद्वा दातृतम इत्यर्थः । स्याः । भव । तथा नरां नृपातास्मदीयानां पुत्रत्वादिरूपाणां बहूनां मनुष्याणां रक्षको भव । अपरो नृशब्दोद्द्यनुवादः [?] । च स त्वं विश्वासां स्पृधां सर्वासां स्पर्धानिमित्तानामस्मत्सेनानां सहोदास्तासामर्थ्यः [?] बलस्य दाता भव । विद्यामेति गतम् ॥
 
-> *he indra tvam asmākaṃ viśvadha viśvasminn api kāle viśvaprakārair vāvṛkatamaḥ | vidvā [?] dātṛtama ity arthaḥ | syāḥ | bhava | tathā narāṃ nṛpātāsmadīyānāṃ putratvādirūpāṇāṃ bahūnāṃ manuṣyāṇāṃ rakṣako bhava | aparo nṛpabhodde 'nuvādaḥ [?] | ca sa tvaṃ viśvāsāṃ spṛdhāṃ sarvāsāṃ spardhānimittānām utkṛṣṭānāṃ sahodāstāsāmarthyaḥ [?] balasya dātā bhava | vidyāmeti gatam ‖* [?]
+> *he indra tvam asmākaṃ viśvadha viśvasminn api kāle viśvaprakārair vāvṛkatamaḥ | yadvā dātṛtama ity arthaḥ | syāḥ | bhava | tathā narāṃ nṛpātāsmadīyānāṃ putratvādirūpāṇāṃ bahūnāṃ manuṣyāṇāṃ rakṣako bhava | aparo nṛśabdoddy anuvādaḥ [?] | ca sa tvaṃ viśvāsāṃ spṛdhāṃ sarvāsāṃ spardhānimittānām asmatsenānāṃ sahodāstāsāmarthyaḥ [?] balasya dātā bhava | vidyāmeti gatam ‖* [?]
 
 *Gist:* O Indra, at all times and in every way be the most generous to us and the protector of the many men, our sons and others; be the giver of strength in all contests; "*vidyāma*" etc. as explained before.
 
