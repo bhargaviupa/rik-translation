@@ -9518,4 +9518,243 @@ The story of Tvaṣṭṛ and the ṛṣi Dadhīci has been told in the Special 
 
 ---
 
-**Progress note:** Done through printed p. 265 (PDF 284; printed = PDF − 19, pp. 260–265 checked, no duplicate or missing page). Sūkta 188 (samiddho adya, Agastya's Āprī sūkta; 11 ṛks, gāyatrī, Varga 8-9): Ṛks 1–9 complete (Ṛk 9's Special Topics ended on p. 264, its grammar on p. 265); Ṛk 10 (Vanaspati) OPEN — Saṃhitā, Pada, bhāṣya and Pratipadārtha written; continue on p. 266 / PDF 285 with Ṛk 10's Bhāvārtha, printed English, Special Topics and grammar, then Ṛk 11 (end of the sūkta; check for colophon, then Sūkta 189 and any Pīṭhike). Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md. Flags from p. 252: New (pp. 252–253): p. 252 Ṛ. Saṃ. 3-4-7, 1-13-4, Tai. Brā. 3-6-2-2, Ai. Brā. 2-4, Ni. 8-12, Bṛ. De. 3-11 zoomed (two tries for two), praiṣa 'mandrā potārā' as printed, Pā. Sū. '7-[?]-39' (supāṃ suluk) UNDECIDED (middle digit broken); p. 253 header Varga 9, Pā. Sū. '6-1-119' (ādyudāttaṃ dvyac chandasi; same sūtra as the undecided '6-1-1[?]9' of p. 249), '4-1.85-2' (devādyañañau), 3-1-34, Ṛk numeral 8 zoomed (three tries for the first; boxes landed high), 7-2-117 and 8-3-59 read from the strip, 'antodātta' for suvācasā and 'madhyama-puruṣa' for yakṣatām as printed. New (pp. 254–255): p. 254 verse 10-110-8 'tūyametviḷā' zoomed; Nirukta quotation printed 'aitu' (for etu) and 'sakarmāṇa' (for sukarmāṇa) (zoomed; p. 255 prints both correctly, and 'manuṣyavadiha' there vs 'manuṣvadiha' p. 254); refs 1-142 and 10-110-8 read from the strip; p. 255 header Varga 9, Tai. Brā. 3-6-2-2 and praiṣa 'viyantvājasya' (ja without ya, as printed), Ni. 8-13 zoomed (first boxes landed ~100 px low), Ai. Brā. 2-4 read from the strip, bhāṣya 'iḍā' (ḍa) as printed. New (pp. 256–257): p. 256 Bṛ. De. 3-12 to 14 verses zoomed, 'amū sthitādhi' (no anusvara) as printed, 'vāgsyai [?]' UNDECIDED (ga with sa- and ya-subscripts as it looks), 'Bṛ. Pe. 2-72 to 82' (abbreviation as printed), Bṛ. Ḍe. 1-90 (as printed; two tries), 1-108, Ṛ. Saṃ. 1-13-9, 5-5-8 (three tries; boxes landed left), 9-5-8, Bṛ. De. (3-13) (two tries), Ṛ. Saṃ. 3-4-3 zoomed; p. 257 header Varga 9, '7-16-8' (ghṛtahastā; flat-footed first digit, two tries), Ṛ. Saṃ. 3-29-3, 4-25-4 zoomed, 10-70-8 and Bṛ. De. 1-108 (prose; zoom missed twice) read from the strip, Macdonell Vedic Mythology p. 87. New (pp. 258–259): p. 258 Ṛ. Saṃ. 1-89-3 (three tries), 2-30-8 (two tries), 3-54-13 (three tries; boxes landed high), 5-42-12, 5-43-11, 5-46-2, 10-65-1, Griffith's '2-3' zoomed, '1-2' read from the strip, verse (4) opening 'pamūnaso' as printed (zoomed); p. 259 header Varga 9, Ṛ. Saṃ. 10-65-13, 10-131-5, 10-184-2 (first digit broken, read as 1), 7-95-2 zoomed, 'Genleral', 'describd', 'Magastheneses', 'modren' [sic], '(Sismur)' and 'paṃcājātā' as printed. New (pp. 260–261): p. 260 header Sū. 188, Manusaṃhitā ref '1-21' as printed, Pā. Sū. 4-1-73 (two tries), 6-1-198 (two tries), 8-1-72 (two tries), 8-1-66, 8-1-71, 6-1-168 (two tries), Ṛk numeral 9 zoomed (boxes landed a line high or low), 'Muir's Sanskrit Texts Vol· II page 393' as printed, Pada 'saṃ'ānaje', 'sphātiṃ' (anusvara) as printed; p. 261 header Varga 9, Tai. Saṃ. 1-5-9-1, bhāṣya 'yāvaccho vai retasaḥ' (1000 dpi, three tries), Ni. 8-14 (two tries) zoomed, bhāṣya 'tasmānnuḍiti nuṭ' as printed, printed English 'increase·' [sic]. New (p. 262): Ṛ. Saṃ. 10-110-9 (three tries), Tai. Saṃ. 6-1-8-5 (600 and 1000 dpi), Tai. Saṃ. '3-3' (as printed, two numbers only), Ṛ. Saṃ. 10-48-3, Tai. Brā. 3-6-2-2 (1000 dpi; last two glyphs read as 2) zoomed; praiṣa 'aciṣṭum', 'supoṣaḥ poṣaiḥ' and heading 'aciṣṭaṃ' vs list 'aciṣṭuṃ' as printed (zoomed). Zoom boxes landed a line or more high until line positions were measured from the strip's ink profile (displayed strips appear ~0.8 of true size). New (pp. 263–264): p. 263 header Varga 9, Ni. 8-14, Bṛ. De. 3-15 to 16 zoomed, Bṛ. De. '3-[?]' for 'tvaṣṭā rūpavikartā ca' UNDECIDED (2-like loop fused with a 5-like glyph; 500 and 1000 dpi), verses 'sūktaṃ sya tena vidyate', 'varcaḥ' (as it looks), 'yanmathu', Ni. 'dīptikamaṇas' (no repha) as printed; p. 264 header Sū. 188, Nighaṇṭu 5-2, 5-5, 5-6, Dadhīci story 'sūkta 1-139' as printed, Ai. Brā. 2-4, Ṛ. Saṃ. 10-110-9, 1-13-10 (twice), 9-5-9, 1-188-9, Tai. Saṃ. 1-5-9-2 zoomed (two or three tries each), Ai. Brā. 'tvāṣṭi [?]' UNDECIDED (word with its base letter missing), epithets 'agriya', 'agraja' as printed. New (p. 265): header Varga 9, Pā. Sū. 3-4-81, 7-4-71, 8-1-34, 8-1-71, 3-3-174 (two tries, 800 dpi), Ṛk numeral 10 zoomed; bhāṣya 'tmanyātmanyaiva' as printed (zoomed); Pada and Pratipadārtha 'sisvadat' (dental s) vs Saṃhitā/bhāṣya 'siṣvadat', as printed.
+
+
+### Printed p. 266 (PDF 285)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188". Ṛk 10: Bhāvārtha, printed English, Special Topics begun.)*
+
+**Bhāvārtha.** O deity presiding over the sacrificial post, by your own nature create food in the form of the animal for the deities Agni and the rest. Then may Agni taste the oblations.
+
+**English Translation (as printed).**
+
+Vanaspati, deliver of yourself the victim to the gods, so that Agni may taste the oblation· [sic]
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**Vanaspate** — Yāska's explanation of the word *vanaspati*:
+
+*(Ni. 8-3 and 8-18 zoomed; "इत्येनमाह्यैष (*ityenamāhyaiṣa*)" (ha with ya-subscript) and "कात्थक्यः (*kātthakyaḥ*)" as printed.)*
+
+> वनस्पत इत्येनमाह्यैष हि वनानां पाता वा पालयिता वा । वनं वनोतेः ॥
+
+> *vanaspata ityenamāhyaiṣa hi vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ ‖*
+
+(Ni. 8-3)
+
+> तत्को वनस्पतिः । यूप इति कात्थक्यः । अग्निरिति शाकपूणिः ॥
+
+> *tatko vanaspatiḥ | yūpa iti kātthakyaḥ | agniriti śākapūṇiḥ ‖*
+
+(Ni. 8-18)
+
+That is, they call Agni himself Vanaspati. For Agni is the protector or the guardian of the forests. Though Agni is contained within the tree, since he does not burn it he is called its guardian. Or else, because (the wood) is useful for the means of sacrifice such as the wooden vessels, it has the name *vana*. *Vanaspati* means the king of trees, a great tree. Who is the deity called Vanaspati? The opinion of Kātthakya is that it is the wooden pillar set up in the sacrifice for tying the animal. The opinion of Śākapūṇi is that Vanaspati means Agni.
+
+To support Kātthakya's opinion Yāska has given a ṛk as an example —
+
+> अंजंति त्वामध्वरे देवयंतो वनस्पते मधुना दैव्येन ॥
+
+> *aṃjaṃti tvāmadhvare devayaṃto vanaspate madhunā daivyena ‖*
+
+(Ṛ. Saṃ. 3-8-1) *(zoomed)*
+
+That is, "O Vanaspati (O sacrificial pillar), in the sacrifice the ṛtviks and the sacrificer anoint you with ghee (*tuppa*) consecrated by mantras" — so the pillar to which the animal is tied is addressed. And in the 3rd, 6th and 11th *(zoomed)* ṛks of this same sūkta too, besides Vanaspati being addressed as the sacrificial pillar, it is well known that the pillar itself is the deity of this sūkta. In the eleventh ṛk of this sūkta — "वनस्पते शतवल्शो विरोह सहस्रवल्शा वि वयं रुहेम (*vanaspate śatavalśo viroha sahasravalśā vi vayaṃ ruhema*)" *(so printed)*, that is, "O Vanaspati, grow with shoots in hundreds and thousands (of places)" — what is said fits the tree that is Vanaspati. In the ṛk Ṛ. Saṃ. 10-70-10 *(zoomed)*, "वनस्पते रशनया नियूय (*vanaspate raśanayā niyūya*)" — "O Vanaspati, tie (the animal) with the rope that ties the animal" — what is said confirms the meaning 'sacrificial pillar' for the word *vanaspati*. Therefore the meaning of *vanaspati* is the sacrificial pillar itself; 'Agni' is the indirect (*parokṣa*) meaning.
+
+---
+
+### Printed p. 267 (PDF 286)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9" (zoomed). Ṛk 10, Special Topics continued.)*
+
+The nature of **Vanaspati** must be known by much enquiry. On the basis of this word some modern Western scholars have come to the conclusion that in the Vedic period the animal sacrifice involving killing was predominant, and that the Āprī sūktas are prayāja mantras connected with such a sacrifice.
+
+Looked at from a gross point of view, **Vanaspati** means the sacrificial pillar to which the sacrificial animal is tied. But on the question whether it is or is not the very pillar to which the sacrificial animal is tied, one may first note the Śruti statements and then, on their basis, determine the nature of **Vanaspati**.
+
+In the Praiṣa-sūkta:
+
+*(Tai. Brā. 3-6-2-2 zoomed; "जोष्टारग्ं" (ṭa) as printed; the line-end "स्वदात्स्व-" has a stray mark (zoomed).)*
+
+> होता यक्षद्वनस्पतिमुपावस्रक्षद्धियो जोष्टारग्ं शशमं नरः । स्वदात्स्वधितिर्ऋतुथाद्य देवो देवेभ्यो हव्यावाड्वेत्वाज्यस्य होतर्यज ।
+
+> *hotā yakṣadvanaspatimupāvasrakṣaddhiyo joṣṭāragṃ śaśamaṃ naraḥ | svadātsvadhitirṛtuthādya devo devebhyo havyāvāḍvetvājyasya hotaryaja |*
+
+(Tai. Brā. 3-6-2-2)
+
+The bhāṣya on this mantra is as follows. **वनस्पतिं यूपाधारभूतं दशमप्रयाजदेवतात्मकमग्निं दैव्यो होता यजतु (*vanaspatiṃ yūpādhārabhūtaṃ daśamaprayājadevatātmakamagniṃ daivyo hotā yajatu*)** — may the divine Hotṛ perform sacrifice for Vanaspati, which is the support of the sacrificial post, and for Agni, who has the nature of the deity of the tenth prayāja. For **Vanaspati** there are the epithets **धियो जोष्टा, स्वदात् स्वधितिः, देवेभ्यः ऋतुथा हव्यवाट्, यज्ञस्य आयुः कल्पमानः (*dhiyo joṣṭā, svadāt svadhitiḥ, devebhyaḥ ṛtuthā havyavāṭ, yajñasya āyuḥ kalpamānaḥ*)**. Among these epithets, for **धियो जोष्टा (*dhiyo joṣṭā*)** (the bhāṣya says) **बुद्धेः प्रीणयितारं (*buddheḥ prīṇayitāraṃ*)** — the one who gives joy to the intellect; **स्वदितिः (*svaditiḥ*)** *(so printed)* — consecrated by the *svaditi* (the thunderbolt-weapon, or) a divine weapon; **ऋतुथा (*ṛtuthā*)** — **ऋतौ विहिते कालविशेषे अद्य अस्मिन्कर्मणि स्वदादस्माभिर्दीयमानं हविः स्वदयतु । किंच देवो वनस्पतिर्देवेभ्यो देवार्थं हव्या हवींष्यवाड्वहतु (*ṛtau vihite kālaviśeṣe adya asminkarmaṇi svadādasmābhirdīyamānaṃ haviḥ svadayatu | kiṃca devo vanaspatirdevebhyo devārthaṃ havyā havīṃṣyavāḍvahatu*)** *(so printed)* — the meaning of the mantra is: may he offer to the deities the oblations offered by us at this time of sacrifice. And by the epithet **यज्ञस्य आयुः कल्पमानः (*yajñasya āyuḥ kalpamānaḥ*)** the meaning is: he who makes the life of the sacrifice grow. By epithets of this kind the Praiṣa-sūkta states the identity of Agni and Vanaspati. In the Aitareya Brāhmaṇa it is indicated by the statement **प्राणो वै वनस्पतिः (*prāṇo vai vanaspatiḥ*)** (2-4) *(zoomed, two tries)*. The Niruktakāra first gives the derivation of the word *vanaspati* and then makes known in the **Āprī sūkta** what the nature of Vanaspati is. While explaining the ṛk Ṛ. Saṃ. 2-37-3 *(so printed; zoomed)*, showing the derivation of the word *vanaspati* in it — (Ni. 8-3) *(zoomed)* **वनानां पाता वा पालयिता वा । वनं वनोतेः (*vanānāṃ pātā vā pālayitā vā | vanaṃ vanoteḥ*)** — (Agni) is well known as Vanaspati either because he is lord of the forests or because he is their guardian; and having said that (*vana*) is formed from the root **वन् (*van*)**, which gives the meaning **'to obtain'**, then, when discussing the nature of the deities of the Āprī sūkta (8-18) *(zoomed)*, he states two opinions — **तत् को वनस्पतिः, यूप इति कात्थक्यः अग्निरिति शाकपूणिः (*tat ko vanaspatiḥ, yūpa iti kātthakyaḥ agniriti śākapūṇiḥ*)** — and in order to support Kātthakya's view … *(continued on p. 268)*
+
+---
+
+### Printed p. 268 (PDF 287)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188". Ṛk 10, Special Topics continued.)*
+
+… (the Niruktakāra) has cited the ṛk
+
+> अंजंति त्वामध्वरे देवयंतो वनस्पते मधुना दैव्येन ।
+> यदूर्ध्वस्तिष्ठा द्रविणेह धत्ताद्यद्वा क्षयो मातुरस्या उपस्थे ॥
+
+> *aṃjaṃti tvāmadhvare devayaṃto vanaspate madhunā daivyena |*
+> *yadūrdhvastiṣṭhā draviṇeha dhattādyadvā kṣayo māturasyā upasthe ‖*
+
+(Ṛ. Saṃ. 3-8-1) *(zoomed)*
+
+In this ṛk Sāyaṇa has addressed the word *vanaspati* as the sacrificial post itself. Then the Niruktakāra, to support Śākapūṇi's view, has cited the ṛk —
+
+> वनस्पते रशनया नियूया देवानां पाथ उप वक्षि विद्वान् ।
+> स्वदाति देवः कृणवद्धवींष्यवतां द्यावापृथिवी हवं मे ॥
+
+> *vanaspate raśanayā niyūyā devānāṃ pātha upa vakṣi vidvān |*
+> *svadāti devaḥ kṛṇavaddhavīṃṣyavatāṃ dyāvāpṛthivī havaṃ me ‖*
+
+(10-70-10) *(zoomed)*
+
+Here too Sāyaṇa has taken the meaning as the sacrificial post itself. But the Niruktakāra's view is that it is Agni contained within the post. Durgācārya, explaining this ṛk in (his commentary on) the Nirukta, says:
+
+*("अग्निरेनासौ (*agnirenāsau*)" (na) as printed; zoomed.)*
+
+> एवमग्निर्वनस्पतिः । यत् पुनरेतदुक्तं यूपांजनीयायां ‘यूपे वनस्पतिशब्दः’ इति । अत्र ब्रूमः—अग्निरेनासौ यूपांतर्गतो यूपात्मना वर्तमानो यूपांजनीयायां वनस्पतिशब्देनोच्यते ।
+
+> *evamagnirvanaspatiḥ | yat punaretaduktaṃ yūpāṃjanīyāyāṃ ‘yūpe vanaspatiśabdaḥ’ iti | atra brūmaḥ—agnirenāsau yūpāṃtargato yūpātmanā vartamāno yūpāṃjanīyāyāṃ vanaspatiśabdenocyate |*
+
+Here he has settled that Vanaspati means none other than Agni contained within the sacrificial post. The author of the Bṛhaddevatā, by the statements
+
+*("वनस्पतिरितीळितः (*vanaspatiritīḷitaḥ*)" (ḷa) as printed; zoomed.)*
+
+> वनस्पतिं तु यं प्राहुरयं सोऽग्निर्वनस्पतिः ।
+> अयं वनानां हि पतिः पाता पालयितीति वा ॥
+> अग्निर्गृत्समदेनायं वनस्पतिरितीळितः ।
+> मंदस्वेत्यस्य सूक्तस्य षळृचस्य तृतीयया ॥
+> यूपवत्तरुवच्चैव स्तुतिर्यास्य प्रसंगजा ।
+> सर्वेणांजति सूक्तेन तृतीये सा तु मंडले ॥
+
+> *vanaspatiṃ tu yaṃ prāhurayaṃ so 'gnirvanaspatiḥ |*
+> *ayaṃ vanānāṃ hi patiḥ pātā pālayitīti vā ‖*
+> *agnirgṛtsamadenāyaṃ vanaspatiritīḷitaḥ |*
+> *maṃdasvetyasya sūktasya ṣaḷṛcasya tṛtīyayā ‖*
+> *yūpavattaruvaccaiva stutiryāsya prasaṃgajā |*
+> *sarveṇāṃjati sūktena tṛtīye sā tu maṃḍale ‖*
+
+(Bṛ. De. 3-26 to 28) *(zoomed)*
+
+discusses the nature of the Āprī deity referred to in the ṛk Ṛ. Saṃ. 1-13-11 *(zoomed)*, and makes known that here *vanaspati* means the terrestrial Agni (**pārthivāgni**); that in the ṛk Ṛ. Saṃ. 2-37-2 *(so printed; zoomed)* **Gṛtsamada** too refers to this same terrestrial Agni by the word *vanaspati*; that only in some ṛks of the third Maṇḍala the meaning is **sacrificial post** or **tree**; and that this too is **incidental (prasaṃgaja)**. Besides this,
+
+*("इह्यैष (*ihyaiṣa*)" (ha with ya-subscript) as printed; zoomed.)*
+
+> इह्यैष पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः ।
+> अमुष्मिन्नेव विप्रैस्तु लोकेऽग्निश्शुचिरुच्यते ॥
+
+> *ihyaiṣa pavamāno 'gnirmadhyamo 'gnirvanaspatiḥ |*
+> *amuṣminneva vipraistu loke 'gniśśucirucyate ‖*
+
+(Bṛ. De. 1-66) *(zoomed; first digit faint)*
+
+---
+
+### Printed p. 269 (PDF 288)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9" (zoomed). Ṛk 10, Special Topics concluded; Vyākaraṇa-prakriyā; end of Ṛk 10; Ṛk 11 begins.)*
+
+… (by these statements, Bṛ. De. 1-66) he shows that *vanaspati* here means the **Agni** of the middle world, and states as his conclusion that, leaving aside a few places in the Ṛksaṃhitā, there is no doubt that in the many other places this word refers to **Agni** himself.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly).* त्मन्या (*tmanyā*) — the word आत्मन् (*ātman*), with the instrumental singular following: *yā* substituted for it by सुपां सुलुक् (*supāṃ suluk*)— (Pā. Sū. 7-1-39; abbreviation printed "Pā. Sada.") *(zoomed)*; the initial *ā* elided by मंत्रेष्वाज्यादेरात्मनः (*maṃtreṣvājyāderātmanaḥ*) *(so printed; zoomed)*. सृज (*sṛja*) — root सृज विसर्गे (*sṛja visarge*); *loṭ*, *madhyama-puruṣa* singular; nighāta of a finite verb. सिष्वदत् (*siṣvadat*) — root ष्वद आस्वादने (*ṣvada āsvādane*) *(zoomed)*; *luṅ* in the sense of *loṭ* after the causative by छंदसि लुङ्लङ्लिटः (*chaṃdasi luṅlaṅliṭaḥ*) (Pā. Sū. 3.4-6, as printed) *(zoomed)*; *tip*, final *i* elided by इतश्च (*itaśca*); चङ् (*caṅ*) for च्लि (*cli*) by णिश्रिद्रुस्रुभ्यः (*ṇiśridrusrubhyaḥ*)— (Pā. Sū. 3-1-48) *(zoomed)*; reduplication and the rest; no *aṭ* augment by बहुलं छंदस्यमाङ् (*bahulaṃ chaṃdasyamāṅ*)— (Pā. Sū. 6-4-75) *(zoomed)*; standing after a word that is not a finite verb, it takes nighāta.
+
+*(Rule ":O:" — end of Ṛk 10.)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥** *(Ṛk numeral zoomed.)*
+
+> पुरोगा अग्निर्देवानां गायत्रेण समज्यते ।
+> स्वाहाकृतीषु रोचते ॥ ११ ॥
+
+> *purogā agnirdevānāṃ gāyatreṇa samajyate |*
+> *svāhākṛtīṣu rocate ‖ 11 ‖*
+
+**॥ पदपाठः ॥** *(Ṛk numeral zoomed.)*
+
+> पुरःऽगाः । अग्निः । देवानां । गायत्रेण । सं । अज्यते ।
+> स्वाहाऽकृतीषु । रोचते ॥ ११ ॥
+
+> *puraḥ 'gāḥ | agniḥ | devānāṃ | gāyatreṇa | saṃ | ajyate |*
+> *svāhā 'kṛtīṣu | rocate ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥** *(continued on p. 270; Nirukta 7-14 zoomed.)*
+
+> अयमग्निर्देवानां पुरोगा असुरयुद्धं प्रति पुरोगामी । यद्वा । देवानां मध्ये यज्ञं प्रत्यग्निरेव पुरोगामी । अत एवाग्रणीत्वादेवाग्निशब्दो निष्पन्नः । अग्निः कस्मादग्रणीर्भवतीति निरुक्तं । ७-१४ । तादृशोऽयं गायत्रेणैतदुपलक्षितेन मंत्रेण
+
+> *ayamagnirdevānāṃ purogā asurayuddhaṃ prati purogāmī | yadvā | devānāṃ madhye yajñaṃ pratyagnireva purogāmī | ata evāgraṇītvādevāgniśabdo niṣpannaḥ | agniḥ kasmādagraṇīrbhavatīti niruktaṃ | 7-14 | tādṛśo 'yaṃ gāyatreṇaitadupalakṣitena maṃtreṇa*
+
+
+---
+
+### Printed p. 270 (PDF 289)
+
+*(Header: "Maṃ. . A. 24. Sū. 188" (zoomed; the Maṇḍala numeral is not printed). Ṛk 11: bhāṣya concluded, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun.)*
+
+*Gist:* Agni goes before the gods in the battle with the Asuras, or in the sacrifice (hence his name, Ni. 7-14); he is honoured with the gāyatrī mantra and shines when oblations are offered with svāhā; these prayāja deities preside over parts of the sacrifice (so some), or are other names of Agni (so others).
+
+*("सम्यग्लक्ष्यते (*samyaglakṣyate*)" zoomed.)*
+
+> समज्यते सम्यग्लक्ष्यते । स्वाहाकृतीषु स्वाहाकारेषु सत्सु हविःषु दीयमानेषु रोचते । अत्यर्थं दीप्यते । एताः प्रयाजदेवता यज्ञावयवाभिमानिन्यः । तद्द्वारा यज्ञ एव स्तूयत इति केषांचिन्मतं । अग्निरेव नामांतरमित्यन्ये ॥
+
+> *samajyate samyaglakṣyate | svāhākṛtīṣu svāhākāreṣu satsu haviḥṣu dīyamāneṣu rocate | atyarthaṃ dīpyate | etāḥ prayājadevatā yajñāvayavābhimāninyaḥ | taddvārā yajña eva stūyata iti keṣāṃcinmataṃ | agnireva nāmāṃtaramityanye ‖*
+
+**Pratipadārtha.** अग्निः (*agniḥ*) — Agni; देवानां (*devānāṃ*) — of all the deities; पुरोगाः (*purogāḥ*) — (this Agni) is the leader, whether at the time of battle or at the time of sacrifice; गायत्रेण (*gāyatreṇa*) — by the mantra in the form of the gāyatrī; समज्यते (*samajyate*) — he is described; स्वाहाकृतीषु (*svāhākṛtīṣu*) — when the oblation is offered with the utterance *svāhā*; रोचते (*rocate*) — he shines.
+
+**Bhāvārtha.** Whether at the time of battle or at the time of sacrifice, Agni alone goes in front of all the deities. This Agni is described by the mantra in the form of the gāyatrī. When the oblation is offered with the utterance *svāhā*, he shines.
+
+**English Translation (as printed).**
+
+Agni, the preceder of the gods, is characterized by the Gayatri measure, (metre) ; he blazes when the oblations are offered· [sic]
+
+*(A stray mark stands beside the comma after "measure", as printed.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+**Purogāḥ** — "अयमग्निर्देवानां पुरोगा असुरयुद्धं प्रति पुरोगामी । यद्वा । देवानां मध्ये यज्ञं प्रत्यग्निरेव पुरोगामी (*ayamagnirdevānāṃ purogā asurayuddhaṃ prati purogāmī | yadvā | devānāṃ madhye yajñaṃ pratyagnireva purogāmī*)" — that is, when (the gods) fight with the Asuras, this Agni is in front of both the gods and men, he is the leader (Leader); or, in the sacrifice, when the various deities are invoked and praised, the first place among them all belongs to Agni, that is, Agni is praised first. The word **purohita** too has more or less this same meaning. In sacrifices (on the sacrificial altar) he is established in front of the sacrificer, and therefore Agni is called *purohita*. From whatever point of view one looks, it must be said that in sacrifices and the like the first place (the chief place) belongs to Agni. Yāska on this subject — **अग्निः कस्मात् अग्रणीर्भवतीति (*agniḥ kasmāt agraṇīrbhavatīti*)** (Ni. 7-14) *(zoomed, two tries)* — explaining the formation of the word *agni*, has said that he has the name Agni because he is the leader in front of all. Therefore here Agni is described by the word **purogāḥ**.
+
+**Gāyatreṇa saṃ ajyate** — the sense is: we offer this mantra called *svāhākṛti* to Agni with the gāyatrī metre, or with the Sāman mantra called *gāyatra*. The word **गायत्रवेपसे (*gāyatravepase*)** in the ṛk Ṛ. Saṃ. 1-142-12 *(zoomed)* also supports this same meaning.
+
+---
+
+### Printed p. 271 (PDF 290)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 9" (zoomed). Ṛk 11, Special Topics continued.)*
+
+**Svāhākṛtīṣu** — Yāska's explanation:
+
+*(Ni. 8-21 zoomed; the second word is printed "साहाकृतयः (*sāhākṛtayaḥ*)" (without va), as printed; zoomed.)*
+
+> स्वाहाकृतयः । साहाकृतयः स्वाहेत्येतत् सु आहेति वा । स्वा वागाहेति वा । स्वं प्राहेति वा । स्वाहुतं हविर्जुहोतीति वा ॥
+
+> *svāhākṛtayaḥ | sāhākṛtayaḥ svāhetyetat su āheti vā | svā vāgāheti vā | svaṃ prāheti vā | svāhutaṃ havirjuhotīti vā ‖*
+
+(Ni. 8-21)
+
+The word *svāhā* has four kinds of etymological meaning.
+
+(1) सु आहेति वा (*su āheti vā*) — *su* = well, *āha* = says. Because it is uttered well, or clearly, it has the name *svāhā*.
+
+(2) स्वा वागाहेति वा (*svā vāgāheti vā*) — *svā* = one's own, *vāk* = speech. There is the Śruti statement (Brāhmaṇa) **तं स्वा वागभ्यवदज्जुहुधीति तत्स्वाहाकारस्य जन्म (*taṃ svā vāgabhyavadajjuhudhīti tatsvāhākārasya janma*)** *(zoomed, two tries)*. That is, when performing the homa, because (the one performing the homa) himself adds and utters the word *svāhā* at the end of the ṛk, the Vedic mantra, it has the name *svāhā*.
+
+(3) स्वं प्राहेति वा (*svaṃ prāheti vā*) — here *svaṃ* = his own oblation; *āha* — he says, "I make the homa (of it)". Therefore it has the name *svāhā*.
+
+(4) स्वाहुतं हविर्जुहोतीति वा (*svāhutaṃ havirjuhotīti vā*) — because one makes the homa of the oblation by means of uttering the word *svāhā*, that is, because one gives the oblation into Agni, it has the name **svāhā**.
+
+For the meaning of *svāhākāra* Yāska has given this ṛk as an example —
+
+> सद्यो जातो व्यमिमीत यज्ञमग्निर्देवानामभवत्पुरोगाः ।
+> अस्य होतुः प्रदिश्यृतस्य वाचि स्वाहाकृतं हविरदंतु देवाः ॥
+
+> *sadyo jāto vyamimīta yajñamagnirdevānāmabhavatpurogāḥ |*
+> *asya hotuḥ pradiśyṛtasya vāci svāhākṛtaṃ haviradaṃtu devāḥ ‖*
+
+(Ṛ. Saṃ. 10-110-11) *(zoomed)*
+
+Its chief meaning is: Agni, just now born (that is, just now established in the sacrifice), sits in front of the deities and, performing the duty of the Hotṛ, that is, the work of invoking the deities, carries the sacrifice through. May the deities eat the oblation offered with the utterance of the word *svāhā*, which this Hotṛ, being in the eastern quarter, offers. Therefore the sense is that *svāhā* is the name of the word uttered at the end of the mantra when the oblation is offered, according to rule, into Agni established for the sacrifice, for the pleasure of the deities.
+
+In some Āprī sūktas the plural usage **svāhākṛtayaḥ** is found. The eleven prayāja mantras used when making the homa to the eleven deities in this sūkta … *(continued on p. 272)*
+
+---
+
+**Progress note:** Done through printed p. 271 (PDF 290; printed = PDF − 19, pp. 266–271 checked, no duplicate or missing page). Sūkta 188 (samiddho adya, Agastya's Āprī sūkta; 11 ṛks, gāyatrī, Varga 8-9): Ṛks 1–10 complete; Ṛk 11 (Svāhākṛtis) OPEN — Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written, Special Topics running (pp. 270–271; Ni. 8-21 and Ṛ. Saṃ. 10-110-11 done, sentence on the eleven prayāja mantras broken off at the foot of p. 271); continue on p. 272 / PDF 291 with Ṛk 11's Special Topics and grammar (end of the sūkta; check for colophon, then Sūkta 189 and any Pīṭhike). Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md. Flags from p. 252: New (pp. 252–253): p. 252 Ṛ. Saṃ. 3-4-7, 1-13-4, Tai. Brā. 3-6-2-2, Ai. Brā. 2-4, Ni. 8-12, Bṛ. De. 3-11 zoomed (two tries for two), praiṣa 'mandrā potārā' as printed, Pā. Sū. '7-[?]-39' (supāṃ suluk) UNDECIDED (middle digit broken); p. 253 header Varga 9, Pā. Sū. '6-1-119' (ādyudāttaṃ dvyac chandasi; same sūtra as the undecided '6-1-1[?]9' of p. 249), '4-1.85-2' (devādyañañau), 3-1-34, Ṛk numeral 8 zoomed (three tries for the first; boxes landed high), 7-2-117 and 8-3-59 read from the strip, 'antodātta' for suvācasā and 'madhyama-puruṣa' for yakṣatām as printed. New (pp. 254–255): p. 254 verse 10-110-8 'tūyametviḷā' zoomed; Nirukta quotation printed 'aitu' (for etu) and 'sakarmāṇa' (for sukarmāṇa) (zoomed; p. 255 prints both correctly, and 'manuṣyavadiha' there vs 'manuṣvadiha' p. 254); refs 1-142 and 10-110-8 read from the strip; p. 255 header Varga 9, Tai. Brā. 3-6-2-2 and praiṣa 'viyantvājasya' (ja without ya, as printed), Ni. 8-13 zoomed (first boxes landed ~100 px low), Ai. Brā. 2-4 read from the strip, bhāṣya 'iḍā' (ḍa) as printed. New (pp. 256–257): p. 256 Bṛ. De. 3-12 to 14 verses zoomed, 'amū sthitādhi' (no anusvara) as printed, 'vāgsyai [?]' UNDECIDED (ga with sa- and ya-subscripts as it looks), 'Bṛ. Pe. 2-72 to 82' (abbreviation as printed), Bṛ. Ḍe. 1-90 (as printed; two tries), 1-108, Ṛ. Saṃ. 1-13-9, 5-5-8 (three tries; boxes landed left), 9-5-8, Bṛ. De. (3-13) (two tries), Ṛ. Saṃ. 3-4-3 zoomed; p. 257 header Varga 9, '7-16-8' (ghṛtahastā; flat-footed first digit, two tries), Ṛ. Saṃ. 3-29-3, 4-25-4 zoomed, 10-70-8 and Bṛ. De. 1-108 (prose; zoom missed twice) read from the strip, Macdonell Vedic Mythology p. 87. New (pp. 258–259): p. 258 Ṛ. Saṃ. 1-89-3 (three tries), 2-30-8 (two tries), 3-54-13 (three tries; boxes landed high), 5-42-12, 5-43-11, 5-46-2, 10-65-1, Griffith's '2-3' zoomed, '1-2' read from the strip, verse (4) opening 'pamūnaso' as printed (zoomed); p. 259 header Varga 9, Ṛ. Saṃ. 10-65-13, 10-131-5, 10-184-2 (first digit broken, read as 1), 7-95-2 zoomed, 'Genleral', 'describd', 'Magastheneses', 'modren' [sic], '(Sismur)' and 'paṃcājātā' as printed. New (pp. 260–261): p. 260 header Sū. 188, Manusaṃhitā ref '1-21' as printed, Pā. Sū. 4-1-73 (two tries), 6-1-198 (two tries), 8-1-72 (two tries), 8-1-66, 8-1-71, 6-1-168 (two tries), Ṛk numeral 9 zoomed (boxes landed a line high or low), 'Muir's Sanskrit Texts Vol· II page 393' as printed, Pada 'saṃ'ānaje', 'sphātiṃ' (anusvara) as printed; p. 261 header Varga 9, Tai. Saṃ. 1-5-9-1, bhāṣya 'yāvaccho vai retasaḥ' (1000 dpi, three tries), Ni. 8-14 (two tries) zoomed, bhāṣya 'tasmānnuḍiti nuṭ' as printed, printed English 'increase·' [sic]. New (p. 262): Ṛ. Saṃ. 10-110-9 (three tries), Tai. Saṃ. 6-1-8-5 (600 and 1000 dpi), Tai. Saṃ. '3-3' (as printed, two numbers only), Ṛ. Saṃ. 10-48-3, Tai. Brā. 3-6-2-2 (1000 dpi; last two glyphs read as 2) zoomed; praiṣa 'aciṣṭum', 'supoṣaḥ poṣaiḥ' and heading 'aciṣṭaṃ' vs list 'aciṣṭuṃ' as printed (zoomed). Zoom boxes landed a line or more high until line positions were measured from the strip's ink profile (displayed strips appear ~0.8 of true size). New (pp. 263–264): p. 263 header Varga 9, Ni. 8-14, Bṛ. De. 3-15 to 16 zoomed, Bṛ. De. '3-[?]' for 'tvaṣṭā rūpavikartā ca' UNDECIDED (2-like loop fused with a 5-like glyph; 500 and 1000 dpi), verses 'sūktaṃ sya tena vidyate', 'varcaḥ' (as it looks), 'yanmathu', Ni. 'dīptikamaṇas' (no repha) as printed; p. 264 header Sū. 188, Nighaṇṭu 5-2, 5-5, 5-6, Dadhīci story 'sūkta 1-139' as printed, Ai. Brā. 2-4, Ṛ. Saṃ. 10-110-9, 1-13-10 (twice), 9-5-9, 1-188-9, Tai. Saṃ. 1-5-9-2 zoomed (two or three tries each), Ai. Brā. 'tvāṣṭi [?]' UNDECIDED (word with its base letter missing), epithets 'agriya', 'agraja' as printed. New (p. 265): header Varga 9, Pā. Sū. 3-4-81, 7-4-71, 8-1-34, 8-1-71, 3-3-174 (two tries, 800 dpi), Ṛk numeral 10 zoomed; bhāṣya 'tmanyātmanyaiva' as printed (zoomed); Pada and Pratipadārtha 'sisvadat' (dental s) vs Saṃhitā/bhāṣya 'siṣvadat', as printed. New (p. 266): header Sū. 188, Ni. 8-3 and 8-18 (two tries), Ṛ. Saṃ. 3-8-1, ṛks '3, 6, 11' of that sūkta (two tries), Ṛ. Saṃ. 10-70-10 zoomed; Nirukta 'ityenamāhyaiṣa' (ya-subscript) and 'kātthakyaḥ' as printed (zoomed); quotation 'śatavalśo viroha' as printed; printed English 'oblation·' [sic]. New (pp. 267–268): p. 267 header Varga 9, Tai. Brā. 3-6-2-2, Ai. Brā. 2-4 (two tries), Ṛ. Saṃ. 2-37-3 (as printed; two tries), Ni. 8-3, 8-18 (two tries) zoomed; praiṣa 'joṣṭāragṃ' (ṭa) and line-end 'svadātsva-' with a stray mark, bhāṣya quotations 'svaditiḥ' and 'havīṃṣyavāḍvahatu' as printed; p. 268 Ṛ. Saṃ. 3-8-1, 10-70-10, 1-13-11, 2-37-2 (as printed; p. 267 has 2-37-3), Bṛ. De. 3-26 to 28, 1-66 (first digit faint) zoomed; Durgācārya 'agnirenāsau' (na), Bṛ. De. 'vanaspatiritīḷitaḥ' (ḷa) and 'ihyaiṣa' (ya-subscript) as printed (zoomed). New (pp. 269–270): p. 269 header Varga 9, Pā. Sū. 7-1-39 (abbreviation printed 'Pā. Sada.'), 3.4-6 (dot as printed), 3-1-48, 6-4-75, Ṛk numeral 11 (Saṃhitā and Pada), bhāṣya Ni. 7-14 zoomed; sūtra 'mantreṣvājyāderātmanaḥ' (ja) as printed, grammar headword 'siṣvadat' and root 'ṣvada' (zoomed); p. 270 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Ni. 7-14 (two tries), Ṛ. Saṃ. 1-142-12, bhāṣya 'samyaglakṣyate' zoomed; printed English 'offered·' [sic] and stray mark after 'measure'. New (p. 271): header Varga 9, Ni. 8-21, Ṛ. Saṃ. 10-110-11 zoomed; Nirukta 'sāhākṛtayaḥ' (no va) and brāhmaṇa 'tatsvāhākārasya janma' (two tries) as printed (zoomed).
