@@ -9289,13 +9289,13 @@ Yāska has explained the meaning of the word *svasti*, with a mantra example:
 
 > *svastir id dhi prapathe śreṣṭhā rekṇasvaty abhi yā vāmam eti | sā no amā so araṇe ni pātu svāveśā bhavatu devagopā ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-63-16 [?]). A goddess well known by the name *Svasti* is said to be the presiding deity of the middle region, since she dwells in the atmosphere; and her greatness is described in this ṛk in this manner.
+(Ṛ. Saṃ. 10-63-16). A goddess well known by the name *Svasti* is said to be the presiding deity of the middle region, since she dwells in the atmosphere; and her greatness is described in this ṛk in this manner.
 
-> स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती स्वस्तीर्धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सा निरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप्त्री देवान् गोपायेत्ति देवा एनां गोपायन्तीति वा ।
+> स्वस्तिरेव हि प्रपथे श्रेष्ठा रेक्णस्वती धनवत्यभ्येति या वसूनि वननीयानि सा नोऽमा गृहे सा निरमणे सा निर्गमने पातु स्वावेशा भवतु देवी गोप्त्री देवान् गोपायतीति देवा एनां गोपायन्तीति वा ।
 
-> *svastir eva hi prapathe śreṣṭhā rekṇasvatī svastīr dhanavaty abhyeti yā vasūni vananīyāni sā no 'mā gṛhe sā niramaṇe sā nirgamane pātu svāveśā bhavatu devī goptrī devān gopāyetti devā enāṃ gopāyantīti vā |* [as read: [?]]
+> *svastir eva hi prapathe śreṣṭhā rekṇasvatī dhanavaty abhyeti yā vasūni vananīyāni sā no 'mā gṛhe sā niramaṇe sā nirgamane pātu svāveśā bhavatu devī goptrī devān gopāyatīti devā enāṃ gopāyantīti vā |* [as read: [?]]
 
-(Ni. 11-44 [?]). Of this, Durgācārya [says]: the goddess Svasti is the most praiseworthy among all the deities in the atmosphere; always travelling filled with water, like one who fills all with wealth, she is greatly necessary; may that goddess protect us who live in the forest and in the house; may we move in comfort; may she protect the oblations offered for the deities and the deities and us; and may the middle-region deities, those in the heavenly regions, or the rays also guard this goddess: so he explains.
+(Ni. 11-44). Of this, Durgācārya [says]: the goddess Svasti is the most praiseworthy among all the deities in the atmosphere; always travelling filled with water, like one who fills all with wealth, she is greatly necessary; may that goddess protect us who live in the forest and in the house; may we move in comfort; may she protect the oblations offered for the deities and the deities and us; and may the middle-region deities, those in the heavenly regions, or the rays also guard this goddess: so he explains.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
