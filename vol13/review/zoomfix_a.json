@@ -702,5 +702,13 @@
   "old": "Śa.Brā. 12-1-2-2 [?], 12-1-2-13 [?], 12-1-4-2 [?]; pādābhyāṃ hi prayanti",
   "new": "same refs without [?]; pādābhyāgṃ hi prayanti",
   "note": "190dpi: ೧೨-೧-೨-೨, ೧೨-೧-೨-೧೩, ೧೨-೧-೪-೨ legible; quotes agree otherwise. (The page's own printed folio reads 366 in the header.)"
+ },
+ {
+  "pdf": 387,
+  "printed": 367,
+  "status": "resolved",
+  "old": "Eggeling quote with Devanagari glyphs (reproduced as printed; verify words)",
+  "new": "(no change)",
+  "note": "190dpi: the English passage (‘स्वारसामन्’ … Sacred Books of the East. Vol. XLIII. P. 6-7) and its Devanagari glyphs (निधन, स्वरित, स्वार, स्वरनिधन, पंचविंशब्राह्मण, पदानुस्वाराणि, हायिकारस्वराणि) agree with the file; the file's wording ‘takes the plan of the finale’ is as printed."
  }
 ]
