@@ -6370,5 +6370,401 @@
   ],
   "note": "ZOOMED, read: 'vayā vyū3tayo ruruhurindra pūrvīḥ' (pluta 3)",
   "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.191,
+   0.209,
+   0.215,
+   0.32
+  ],
+  "note": "ZOOMED (box landed on the page number; redone below)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.219,
+   0.239,
+   0.215,
+   0.342
+  ],
+  "note": "ZOOMED, read: page opens 'hne 'hni durdinam' (continuing 'meghaccha-' of p. 159; first akṣara looks like the ha of 'hni'; 'meghacchanne' expected) as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.262,
+   0.279,
+   0.724,
+   0.813
+  ],
+  "note": "ZOOMED, read: Ni. 5-12 (śarumān = hiṃsāvān)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.481,
+   0.5,
+   0.686,
+   0.813
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-34-1 (prāvepā mā bṛhato)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.523,
+   0.538,
+   0.724,
+   0.813
+  ],
+  "note": "ZOOMED (box landed a line too high; redone below)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.537,
+   0.555,
+   0.708,
+   0.813
+  ],
+  "note": "ZOOMED, read: Ni. 9-8 (iriṇaṃ nirṛṇaṃ)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.708,
+   0.725,
+   0.686,
+   0.813
+  ],
+  "note": "ZOOMED, read: 'Ṛ. Suṃ.' 1-38-9 as printed (divā cit tamaḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.768,
+   0.787,
+   0.438,
+   0.686
+  ],
+  "note": "UNDECIDED: 'ghṛtavad vi?the?ṣvābhuvaḥ' — two dha/tha-like letters, read 'vithatheṣv' [?] (vidatheṣv expected)",
+  "answer": ""
+ },
+ {
+  "pdf": 178,
+  "printed": 160,
+  "crop": [
+   0.785,
+   0.801,
+   0.686,
+   0.813
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-64-6 (pinvaṃtyapo marutaḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.248,
+   0.262,
+   0.617,
+   0.771
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-7-16 (ye drapsā iva rodasī)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.462,
+   0.477,
+   0.218,
+   0.489
+  ],
+  "note": "ZOOMED (landed on the next line; showed Pā. Sū. 6-4-76 — read)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.472,
+   0.489,
+   0.17,
+   0.329
+  ],
+  "note": "ZOOMED (missed: next line)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.448,
+   0.468,
+   0.218,
+   0.489
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-4-81 (liṭastajhayoreśirec; last digit partly cut in zoom, clear in strip) and 6-4-76 (irayo re)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.552,
+   0.568,
+   0.393,
+   0.553
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.56,
+   0.583,
+   0.489,
+   0.633
+  ],
+  "note": "ZOOMED, read: Uṇ. Sū. 1-10 (śṝsvṛsnihitrapi…; second number cut at the edge of the zoom, clear in strip)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.615,
+   0.631,
+   0.409,
+   0.601
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.623,
+   0.646,
+   0.521,
+   0.665
+  ],
+  "note": "UNDECIDED: Uṇ. Sū. 2-209 [?] (arteḥ kidicca; the two identical round digits read as 2, could be 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.716,
+   0.732,
+   0.393,
+   0.585
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 179,
+  "printed": 161,
+  "crop": [
+   0.723,
+   0.745,
+   0.377,
+   0.585
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-1-84 (chandasi śāyajapi)",
+  "answer": ""
+ },
+ {
+  "pdf": 180,
+  "printed": 162,
+  "crop": [
+   0.228,
+   0.254,
+   0.366,
+   0.595
+  ],
+  "note": "ZOOMED (landed on the Saṃhitāpāṭhaḥ heading; redone)",
+  "answer": ""
+ },
+ {
+  "pdf": 180,
+  "printed": 162,
+  "crop": [
+   0.251,
+   0.275,
+   0.366,
+   0.595
+  ],
+  "note": "ZOOMED: Saṃhitā Ṛk 10 'kṛṇudhvaṃ ? pra' — extra syllable after kṛṇudhvaṃ",
+  "answer": ""
+ },
+ {
+  "pdf": 180,
+  "printed": 162,
+  "crop": [
+   0.251,
+   0.275,
+   0.448,
+   0.644
+  ],
+  "note": "UNDECIDED: Saṃhitā Ṛk 10 'kṛṇudhvaṃ sa[?] pra pūṣaṇaṃ' — a stray sa- or pa-like akṣara after kṛṇudhvaṃ, not in the Pada; written 'sa[?]'",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.503,
+   0.524,
+   0.175,
+   0.273
+  ],
+  "note": "ZOOMED, read: Ni. 9-3 (ṛbhukṣāḥ: urukṣayaṇa / ṛbhūṇāṃ rājā)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.519,
+   0.54,
+   0.175,
+   0.28
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.531,
+   0.551,
+   0.175,
+   0.28
+  ],
+  "note": "ZOOMED, read: Ni. 3-13 (mahannāmas)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.567,
+   0.588,
+   0.299,
+   0.469
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.586,
+   0.607,
+   0.371,
+   0.615
+  ],
+  "note": "ZOOMED, read: Ni. 10-34 (vāto vātīti sataḥ) at top of zoom; 10-168 line missed",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.597,
+   0.618,
+   0.371,
+   0.615
+  ],
+  "note": "ZOOMED (missed, still a line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.61,
+   0.632,
+   0.371,
+   0.615
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-168; the following 10-186 read from the strip (cut off in the zoom)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.692,
+   0.713,
+   0.632,
+   0.788
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.706,
+   0.726,
+   0.632,
+   0.788
+  ],
+  "note": "ZOOMED (missed, line too high)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.722,
+   0.745,
+   0.632,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 6-50-12 (te no rudraḥ sarasvatī)",
+  "answer": ""
+ },
+ {
+  "pdf": 181,
+  "printed": 163,
+  "crop": [
+   0.791,
+   0.809,
+   0.632,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-92-13 (pra naḥ pūṣā caratham)",
+  "answer": ""
  }
 ]
