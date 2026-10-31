@@ -14158,5 +14158,29 @@
   ],
   "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 10",
   "answer": ""
+ },
+ {
+  "pdf": 303,
+  "printed": 284,
+  "crop": [
+   0.511,
+   0.527,
+   0.413,
+   0.562
+  ],
+  "note": "ZOOMED, read: bhāṣya ref 'Ā. 3-7' (second digit loop with flat foot = 7; 600 and 1000 dpi)",
+  "answer": ""
+ },
+ {
+  "pdf": 303,
+  "printed": 284,
+  "crop": [
+   0.527,
+   0.543,
+   0.214,
+   0.546
+  ],
+  "note": "ZOOMED, read: bhāṣya 'anavarataiḥ' (ai-sign, not a ta/va subscript)",
+  "answer": ""
  }
 ]
