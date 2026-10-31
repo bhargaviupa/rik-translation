@@ -3876,4 +3876,254 @@ Then, addressing Jana Śārkarākṣya, he asked: "O Sāyavasa, whom do you know
 
 ---
 
-**Progress note:** Done through printed p. 115 (PDF 133). Sūkta 186 Ṛk 1 OPEN — Special Topics: the Śatapatha story of Aśvapati Kaikeya and the six seekers (Śa. Brā. 10-6-1-1 to 11); ¶ 10 (tān hovāca ete vai yūyaṃ pṛthagvaiśvānarān…) printed at the foot of p. 115, its Kannada explanation continues on printed p. 116 / PDF 134. Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed. New (pp. 110–115): p. 110 Ni. 6[?]-22 UNDECIDED (tatko vaiśvānaraḥ; first digit 6 or 7), Ni. 7-21, Ṛ. 1-59-6, Bṛ. De. 1-101 : 1-102 zoomed; p. 111 'athāsyāda' as printed, 'yānyetāny' zoomed; p. 112 'nirūpyate', 'aruṇe aupaveśau' as printed, Ni. 7-22 to 7-31, Ni. 7-21, Śa. Brā. 10-6-1-1 to 11 zoomed; p. 113 'khalu nvā', 'etaṃ rayiṃ vaiśvānara etaṃ', 'pratiṣṭhā', 'prajñayā', 'pādau tvā etau' as printed (zoomed), 'vastistvāhāsyad' (stroke = va-ottu, resolved on p. 115); p. 114 'vaiśānara' as printed, ¶ 7 opens 'atha hoc[?]' UNDECIDED, 'tasmāttvāṃ' (broken print) zoomed; p. 115 'vā'atiṣṭhā', 'hi ve', 'pṛthagannamaghastaṃ' as printed (zoomed), Kannada of ¶ 9 says antarikṣa where the Sanskrit has divam.
+### Printed p. 116  (PDF 134)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 1, continued: the Śatapatha story.)*
+
+Finally, addressing all of them together, (the king) said: "Each one of you has grasped only separate parts of Vaiśvānara. That is why you eat separate food. Since these well-known deities exist only as span-measured (*prādeśa-vartin*) (Measure of a span), I shall explain them to you so that those deities are (seen as) only span-measured." ‖ 10 ‖
+
+*("वैशानर (*vaiśānara*)" in the first clause, "नासिकेऽउपदिशन्नुवाचैष (*nāsike 'upadiśannuvācaiṣa*)", "छुबकम् (*chubakam*)" and the closing numeral ‖ १० ‖ (10, where 11 is expected; the Kannada explanation below closes ‖ 11 ‖) as printed.)*
+
+> स होवाच । मूर्धानमुपदिशन्नेष वा अतिष्ठा वैशानर इति, चक्षुषी उपदिशन्नुवाचैष वै सुततेजा वैश्वानर इति, नासिकेऽउपदिशन्नुवाचैष वै पृथग्वर्त्मा वैश्वानर इति, मुख्यमाकाशमुपदिशन्नुवाचैष वै बहुलो वैश्वानर इति मुख्या अप उपदिशन्नुवाचैष वै रयिर्वैश्वानर इति छुबकमुपदिशन्नुवाचैष वै प्रतिष्ठा वैश्वानर इति, स एषोऽग्निर्वैश्वानरो यत्पुरुषः स यो हैतमेवमग्निं वैश्वानरं पुरुषविधं पुरुषेऽन्तः प्रतिष्ठितं वेदाप पुनर्मृत्युं जयति सर्वमायुरेति न हास्य ब्रुवाणं च न वैश्वानरो हिनस्ति ॥ १० ॥
+
+> *sa hovāca | mūrdhānamupadiśanneṣa vā atiṣṭhā vaiśānara iti, cakṣuṣī upadiśannuvācaiṣa vai sutatejā vaiśvānara iti, nāsike 'upadiśannuvācaiṣa vai pṛthagvartmā vaiśvānara iti, mukhyamākāśamupadiśannuvācaiṣa vai bahulo vaiśvānara iti mukhyā apa upadiśannuvācaiṣa vai rayirvaiśvānara iti chubakamupadiśannuvācaiṣa vai pratiṣṭhā vaiśvānara iti, sa eṣo 'gnirvaiśvānaro yatpuruṣaḥ sa yo haitamevamagniṃ vaiśvānaraṃ puruṣavidhaṃ puruṣe 'ntaḥ pratiṣṭhitaṃ vedāpa punarmṛtyuṃ jayati sarvamāyureti na hāsya bruvāṇaṃ ca na vaiśvānaro hinasti ‖ 10 ‖*
+
+Finally, pointing to the head, (he explained) that this is the most excellent part of Vaiśvānara; pointing to the eyes, that this is the splendour of Soma, a part of Vaiśvānara; pointing towards the nose, that this is the manifoldness of the paths of Vaiśvānara; pointing to the space (*ākāśa*) (of the mouth), that this is the prosperous Vaiśvānara; pointing towards the water of the mouth, that this is the wealth of Vaiśvānara; pointing to the chin, that this is the support of Vaiśvānara. He explained that this Vaiśvānara Agni is none other than the best of persons (*puruṣa-śreṣṭha*); that he who knows this Vaiśvānara Agni, who has the form of a person and is established within the person, conquers death and obtains the full span of life; and that no harm can come to him who constantly praises him. ‖ 11 ‖
+
+(Śa. Brā. 10, 6-1-1 to 11)
+
+अभिपित्वे (*abhipitve*) — for this word Sāyaṇa has given the explanation अभिपतने (*abhipatane*), "now going on, or now attained". Yāska in the Nirukta (Ni. 3-15) also says अभिपित्वम् अभिप्राप्तिम् (*abhipitvam abhiprāptim*), giving the same sense, "now going on, or now being done".
+
+*(Ni. 3-15 read on a zoom.)*
+
+विश्वं जगत् (*viśvaṃ jagat*) — for these words Sāyaṇa has given two kinds of meaning:
+
+> एतत्स्थावरस्याप्युपलक्षणम् । कृत्स्नं प्रपंचम् ।
+
+> *etatsthāvarasyāpyupalakṣaṇam | kṛtsnaṃ prapaṃcam |*
+
+that is, one meaning, "the whole world, including the immobile"; and
+
+> यद्वा जगच्छब्दो यजमानरूपमनुष्यवाची । सर्वानपि यजमानान्
+
+> *yadvā jagacchabdo yajamānarūpamanuṣyavācī | sarvānapi yajamānān*
+
+or else, the word जगत् (*jagat*) denotes men in the form of sacrificers. Therefore he has given the second meaning, that here विश्वं जगत् (*viśvaṃ jagat*) means "all the sacrificers".
+---
+
+### Printed p. 117  (PDF 135)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 1, concluded; Vyākaraṇa-prakriyā; Ṛk 2 begins.)*
+
+मनीषा (*manīṣā*) —
+
+> मनीषया । मनस ईशितृत्वेन । स्वेच्छयेत्यर्थः ।
+
+> *manīṣayā | manasa īśitṛtvena | svecchayetyarthaḥ |*
+
+that is, "as one's own mind says, or as it approves" — the intention is "out of self-contentment".
+
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly). इळाभिः (*iḷābhiḥ*) from ईड स्तुतौ (*īḍa stutau*) (short vowel, छान्दस (*chāndasa*); क्विप् (*kvip*) by क्विप् च (*kvip ca*); टाप् (*ṭāp*) by आपं चापि हलन्तानां यथा वाचा दिशा निशा (*āpaṃ cāpi halantānāṃ yathā vācā diśā niśā*), Kau. 2-4-82 as printed, zoomed); सुशस्ति (*suśasti*) from शंसु स्तुतौ (*śaṃsu stutau*) (स्त्रियां क्तिन् (*striyāṃ ktin*); अनुदात्तोपदेशवनति… (*anudāttopadeśavanati…*) Pā. Sū. 6-4-37; नञ्सुभ्याम् (*nañsubhyām*) Pā. Sū. 6-2-172; सुपां सुलुक् (*supāṃ suluk*) Pā. Sū. 7-1-39); वैश्वानरः (*vaiśvānaraḥ*) by नरे संज्ञायाम् (*nare saṃjñāyām*) (Pā. Sū. 6-3-129, zoomed); एतु (*etu*) (इण् गतौ (*iṇ gatau*), लोट् (*loṭ*)); मत्सथ (*matsatha*) (मदी हर्षग्लेपनयोः (*madī harṣaglepanayoḥ*); सिब्बहुलं लेटि (*sibbahulaṃ leṭi*) Pā. Sū. 3-1-34; खरि च (*khari ca*); तास्यनुदात्तेत् (*tāsyanudāttet*) Pā. Sū. 6-1-186); मनीषा (*manīṣā*) (सुपां सुलुक् (*supāṃ suluk*), लुक् (*luk*) of the instrumental singular).
+
+---
+
+## Sūkta 186, Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+*(अ (*a*) printed at the opening, not आ (*ā*); see the Pada.)*
+
+> अ नो विश्व आस्क्रा गमन्तु देवा मित्रो अर्यमा वरुणः सजोषाः ।
+> भुवन्यथा नो विश्वे वृधासः करन्त्सुषाहा विथुरं न शवः ॥ २ ॥
+
+> *a no viśva āskrā gamantu devā mitro aryamā varuṇaḥ sajoṣāḥ |*
+> *bhuvanyathā no viśve vṛdhāsaḥ karantsuṣāhā vithuraṃ na śavaḥ ‖ 2 ‖*
+
+---
+
+### Printed p. 118  (PDF 136)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Ṛk 2, continued. The Pada has आ (*ā*), so the Saṃhitā's अ (*a*) on p. 117 is a misprint; Pada सुऽसहा (*su 'sahā*) as printed.)*
+
+**॥ पदपाठः ॥**
+
+> आ । नः । विश्वे । आस्क्राः । गमन्तु । देवाः । मित्रः । अर्यमा । वरुणः । सऽजोषाः ।
+> भुवन् । यथा । नः । विश्वे । वृधासः । करन् । सुऽसहा । विथुरम् । न । शवः ॥ २ ॥
+
+> *ā | naḥ | viśve | āskrāḥ | gamantu | devāḥ | mitraḥ | aryamā | varuṇaḥ | sa 'joṣāḥ |*
+> *bhuvan | yathā | naḥ | viśve | vṛdhāsaḥ | karan | su 'sahā | vithuram | na | śavaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed)*
+
+*Gist:* Use: the puronuvākyā of the oblation at the Vaiśvadeva animal-offering (Āś. 3-7, as read). May all the gods, assailants of foes, and Mitra, Aryaman, Varuṇa, of one accord, come, so that they increase us and, overcoming foes, do not make our food scant.
+
+> वैश्वदेवे पशावा नो विश्व इत्येषा हविषः पुरोऽनुवाक्या । आ नो देवानामुपवेतु शंस आ नो विश्व आस्क्रा गमन्तु देवाः । आ. ३-७ । इति ॥
+> नोऽस्माकं यज्ञं विश्वे सर्वे देवा आस्क्राः शत्रूणामास्कंदयितार आक्रमितारो वा आ गमन्तु । आगच्छन्तु । के ते । मित्रोऽर्यमा वरुणश्च त्रयोऽपि सजोषाः समानप्रीतयः सन्त आगच्छन्तु । किन्तु विश्वे देवा नोऽस्माकं वृधासो वर्धयितारो यथा भुवन् भवेयुः तथा सुषाहा सुष्ठु शत्रूणामभिभवेन नोऽस्मदीयं शवोऽन्नं विथुरं हीनं यथा न करन् न कुर्युः तथागच्छन्तु ॥
+
+> *vaiśvadeve paśāvā no viśva ityeṣā haviṣaḥ puro 'nuvākyā | ā no devānāmupavetu śaṃsa ā no viśva āskrā gamantu devāḥ | ā. 3-7 | iti ‖*
+> *no 'smākaṃ yajñaṃ viśve sarve devā āskrāḥ śatrūṇāmāskaṃdayitāra ākramitāro vā ā gamantu | āgacchantu | ke te | mitro 'ryamā varuṇaśca trayo 'pi sajoṣāḥ samānaprītayaḥ santa āgacchantu | kintu viśve devā no 'smākaṃ vṛdhāso vardhayitāro yathā bhuvan bhaveyuḥ tathā suṣāhā suṣṭhu śatrūṇāmabhibhavena no 'smadīyaṃ śavo 'nnaṃ vithuraṃ hīnaṃ yathā na karan na kuryuḥ tathāgacchantu ‖*
+
+**Pratipadārtha.** विश्वे (देवाः) (*viśve (devāḥ)*) — the Viśvedevas; नः (*naḥ*) — for us; वृधासः (*vṛdhāsaḥ*) — as causers of increase; यथा भुवन् (*yathā bhuvan*) — as they may become (and); सुषाहा (*suṣāhā*) — by defeating and destroying the enemies; नः (*naḥ*) — our; शवः (*śavaḥ*) — food; विथुरम् (*vithuram*) — as diminished; (यथा (*yathā*)) न करन् (*na karan*) — as they do not make (it), (so); मित्रः (*mitraḥ*) — Mitra; अर्यमा (*aryamā*) — Aryaman; वरुणः (*varuṇaḥ*) — Varuṇa; विश्वे देवाः (*viśve devāḥ*) — all these deities; सजोषाः (*sajoṣāḥ*) — joined together with equal love; आस्क्राः (*āskrāḥ*) — confronting (our enemies); नः (*naḥ*) — towards our sacrifice; आ गमन्तु (*ā gamantu*) — may they come.
+
+**Bhāvārtha.** So that the Viśvedevas may be causers of increase for us and, by defeating and destroying our enemies, may be such as increase our food without letting it fail, may Mitra, Aryaman, Varuṇa and all these deities, joined together with equal love and confronting our enemies, come towards our sacrifice.
+
+**English Translation (as printed; heading printed "English Trnslation" [sic]):**
+
+May all the triumphant gods, Mitra, Aryaman, Varuna equally well pleased, come (to our rite) : may they all be propitious to us : may they not leave us in want of food, after overcoming (our foes).
+---
+
+### Printed p. 119  (PDF 137)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Ṛk 2, continued.)*
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+It is laid down by the sūtra of the Āśvalāyana Śrauta-sūtra आ नो देवानामुपवेतु शंस आ नो विश्व आस्क्रा गमन्तु देवाः (*ā no devānāmupavetu śaṃsa ā no viśva āskrā gamantu devāḥ*) (Āś. 3-7, as read) that, when the oblation having the Viśvedevas as deity is offered in the animal sacrifice, this ṛk आ नो विश्वे (*ā no viśve*) is to be used as the puronuvākyā mantra.
+
+आस्क्राः (*āskrāḥ*) — those who defeat, or who assail, the enemies. It is prayed that the deities, defeating our enemies, come to our place of sacrifice and grant us food and other sustenance.
+
+विश्वे देवाः (*viśve devāḥ*) — it is prayed here that all the deities come together with the deities Mitra, Aryaman and Varuṇa. If it is asked whether, when "all the deities" is said, the deities Mitra, Aryaman and Varuṇa are not already included among them — even though they are included, the names of these three deities are indicated separately in order to stress that these three deities in particular must surely come.
+
+मित्रः अर्यमा, वरुणः (*mitraḥ aryamā, varuṇaḥ*) — although these three deities are conceived as separate deities,
+
+it appears that here they are described as partial deities (*aṃśa-devatā*) of these names among the many forms of the Sun, that is, among the twelve Ādityas. Besides this, in some places these three deities are said to be other forms of Agni.
+
+> त्वमग्ने वरुणो जायसे यत्त्वं मित्रो भवसि यत्समिद्धः ।
+
+> *tvamagne varuṇo jāyase yattvaṃ mitro bhavasi yatsamiddhaḥ |*
+
+(Ṛ. Saṃ. 5-3-1)
+
+> त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन् गुह्यं बिभर्षि ।
+
+> *tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvan guhyaṃ bibharṣi |*
+
+(Ṛ. Saṃ. 5-3-2) (Gloss, mine and tentative: "You, Agni, are born as Varuṇa; you become Mitra when you are kindled. … You become Aryaman when, O self-powered one, you bear the secret name of maidens.")
+
+In these ṛks it is said that Agni has these three names: when Agni is born he is Varuṇa; when, well kindled, he is blazing brightly, that Agni is Mitra; and in the homas and other rites connected with maidens Agni is Aryaman. Besides this, in the Taittirīya Brāhmaṇa —
+
+> मित्रोऽसि वरुणोऽसीत्याह । मैत्रं वा अहः । वारुणी रात्रिः । अहोरात्राभ्यामेवैनमुपावहरति ॥
+
+> *mitro 'si varuṇo 'sītyāha | maitraṃ vā ahaḥ | vāruṇī rātriḥ | ahorātrābhyāmevainamupāvaharati ‖*
+
+(Tai. Brā. 1-7-10-1)
+
+— it is said that Mitra is the lord of the day and Varuṇa the lord of the night. Therefore it should be noted that these three deities are in some places said to be partial deities of the Sun, and in some places different names of Agni.
+
+*(Ṛ. Saṃ. 5-3-1, 5-3-2 and Tai. Brā. 1-7-10-1 read on a zoom; the first reference is printed with a doubled opening parenthesis.)*
+
+---
+
+### Printed p. 120  (PDF 138)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 186". Special Topics of Ṛk 2, continued.)*
+
+In the Purāṇas and similar works Mitra is one of the twelve Ādityas. In the Ṛgveda, although Mitra is another name of the Sun, Mitra has a clear distinctiveness, that is, an individual prominence. In the Ṛgveda Mitra, Varuṇa and Aryaman are said to be the sons of Aditi; therefore they are called Ādityas in many places. That these Ādityas, that is, the sons of Aditi, are six in number —
+
+> इमा गिर आदित्येभ्यो घृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि ।
+> शृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥
+
+> *imā gira ādityebhyo ghṛtasnūḥ sanādrājabhyo juhvā juhomi |*
+> *śṛṇotu mitro aryamā bhago nastuvijāto varuṇo dakṣo aṃśaḥ ‖*
+
+(Ṛ. Saṃ. 2-27-1) (Gloss, mine and tentative: "These songs dripping with ghee I offer with the ladle to the Ādityas, kings from of old; may Mitra, Aryaman, Bhaga hear us, the mighty-born Varuṇa, Dakṣa, Aṃśa.")
+
+— that is, the names of only six are given: Mitra, Aryaman, Bhaga, Varuṇa, Dakṣa, Aṃśa.
+
+> देवा आदित्या ये सप्त तेभिः सोमाभि रक्ष न इन्द्रायेन्दो परि स्रव ।
+
+> *devā ādityā ye sapta tebhiḥ somābhi rakṣa na indrāyendo pari srava |*
+
+(Ṛ. Saṃ. 9-114-3) (Gloss, mine and tentative: "The gods, the Ādityas, who are seven — with them, O Soma, guard us; flow round for Indra, O drop.")
+
+— in this ṛk the sons of Aditi are said to be seven.
+
+*(तन्व१स्परि (*tanva1spari*) with the numeral and देवाँ (*devā~*) as printed.)*
+
+> अष्टौ पुत्रासो अदितेर्ये जातास्तन्व१स्परि ।
+> देवाँ उपप्रैत्सप्तभिः परा मार्तंडमास्यत् ।
+> सप्तभिः पुत्रैरदितिरुप प्रैत्पूर्व्यं युगं ।
+> प्रजायै मृत्यवे त्वत्पुनर्मार्तंडमाभरत् ॥
+
+> *aṣṭau putrāso aditerye jātāstanva1spari |*
+> *devā~ upapraitsaptabhiḥ parā mārtaṃḍamāsyat |*
+> *saptabhiḥ putrairaditirupa praitpūrvyaṃ yugaṃ |*
+> *prajāyai mṛtyave tvatpunarmārtaṃḍamābharat ‖*
+
+(Ṛ. Saṃ. 10-72-8, 9) (Gloss, mine and tentative: "Eight are the sons of Aditi who were born of her body; with seven she went to the gods, Mārtāṇḍa she cast away. With seven sons Aditi went to the former age; Mārtāṇḍa she brought back again for birth and death.")
+
+— in these ṛks it is said that Aditi had at first seven, and afterwards Mārtāṇḍa, eight sons in all. Besides this, in the Taittirīya Āraṇyaka —
+
+*(अग्ंशश्च (*agṃśaśca*) as printed; विवस्वाग्श्चेत्येते (*vivasvāgścetyete*) as printed, broken across the line after ग् (*g*).)*
+
+> अष्टौ पुत्रासो अदितेः । ये जातास्तन्वः परि । देवाँ उपप्रैत्सप्तभिः । परामार्तंडमास्यत् । सप्तभिः पुत्रैरदितिः । उपप्रैत्पूर्व्यं युगं । प्रजायै मृत्यवे तत् । परामार्तंडमाभरदिति । ताननुक्रमिष्यामः । मित्रश्च वरुणश्च । धाता चार्यमा च । अग्ंशश्च भगश्च । इन्द्रश्च विवस्वाग्श्चेत्येते ।
+
+> *aṣṭau putrāso aditeḥ | ye jātāstanvaḥ pari | devā~ upapraitsaptabhiḥ | parāmārtaṃḍamāsyat | saptabhiḥ putrairaditiḥ | upapraitpūrvyaṃ yugaṃ | prajāyai mṛtyave tat | parāmārtaṃḍamābharaditi | tānanukramiṣyāmaḥ | mitraśca varuṇaśca | dhātā cāryamā ca | agṃśaśca bhagaśca | indraśca vivasvāgścetyete |*
+
+(Tai. Ā. 1-[?]3-3)
+
+— the names of the eight sons Aditi had are also given: Mitra, Varuṇa, Dhātā, Aryaman, Aṃśa, Bhaga, Indra and Vivasvān are said to be those eight. This same matter, in the Taittirīya Brāhmaṇa —
+
+> अदितिः पुत्रकामा । साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै धाता चार्यमा चाजा-
+
+> *aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyai dhātā cāryamā cājā-*
+
+*(continues on the next page)*
+
+---
+
+### Printed p. 121  (PDF 139)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 4". Special Topics of Ṛk 2, continued: the Taittirīya Brāhmaṇa passage, continued from p. 120.)*
+
+*(रेतोधत्त (*retodhatta*) (without avagraha) in the first clause and विवस्वाग्ंश्चाजायेतां (*vivasvāgṃścājāyetāṃ*) as printed.)*
+
+> -येतां । सा द्वितीयमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोधत्त । तस्यै मित्रश्च वरुणश्चाजायेतां । सा तृतीयमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या अग्ंशश्च भगश्चाजायेतां । सा चतुर्थमपचत् । तस्या उच्छेषणमददुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या इंद्रश्च विवस्वाग्ंश्चाजायेतां
+
+> *-yetāṃ | sā dvitīyamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā retodhatta | tasyai mitraśca varuṇaścājāyetāṃ | sā tṛtīyamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyā agṃśaśca bhagaścājāyetāṃ | sā caturthamapacat | tasyā uccheṣaṇamadaduḥ | tatprāśnāt | sā reto 'dhatta | tasyā iṃdraśca vivasvāgṃścājāyetāṃ*
+
+(Tai. Brā. 1-1-9-1, 2, 3)
+
+— it is stated. The matter of Aditi obtaining eight sons is clearly explained here. Of these eight, only the three, Mitra, Varuṇa and Aryaman, are especially famous in the Ṛgveda. In the 27th sūkta of Ṛ. Saṃ. 2 (2-27) there is an extensive description of the world-benefiting heroic deeds of Mitra, Varuṇa and Aryaman.
+
+मित्रः (*mitraḥ*) — Yāska has given the derivation (निर्वचन (*nirvacana*)) of the word मित्र (*mitra*) in his Nirukta thus:
+
+> मित्रः प्रमीतेस्त्रायते । संमिन्वानो द्रवतीति वा । मेदयतेर्वा ।
+
+> *mitraḥ pramītestrāyate | saṃminvāno dravatīti vā | medayatervā |*
+
+(Ni. 10-21)
+
+What is the meaning of the word मित्र (*mitra*)? —
+
+> मित्रः कस्मात् । स हि प्रमीतेः त्रायते । प्रमीतिः मरणम् । ततः सर्वलोकं त्रायते वर्षद्वारेण ।
+
+> *mitraḥ kasmāt | sa hi pramīteḥ trāyate | pramītiḥ maraṇam | tataḥ sarvalokaṃ trāyate varṣadvāreṇa |*
+
+प्रमीति (*pramīti*) means death. Because, causing rain for the people in the world and thereby supplying food and other sustenance, he protects them by averting the fear of death that may arise from hunger, this deity has the name Mitra.
+
+> समन्ततो मिन्वानः उदकेन द्रवति अन्तरिक्षलोके ।
+
+> *samantato minvānaḥ udakena dravati antarikṣaloke |*
+
+Because this deity, being lord of the waters and staying in the mid-region (the Kannada word for "in the mid-region" is printed without the syllable ರಿ [sic]), makes the whole region all round drenched, that is, wet with water, by means of the clouds, this deity has the name Mitra.
+
+> अथवा — स्नेहनार्थस्य सर्वं ह्यसावुदकेन स्नेहयति ।
+
+> *athavā — snehanārthasya sarvaṃ hyasāvudakena snehayati |*
+
+Because this deity with water makes everything cohere, that is, join together into one, this deity has the name Mitra — thus he states a threefold derivation, and to support it —
+
+> मित्रो जनान् यातयति ब्रुवाणो मित्रो दाधार पृथिवीमुत द्याम् ।
+> मित्रः कृष्टीरनिमिषाभि चष्टे मित्राय हव्यं घृतवज्जुहोत ॥
+
+> *mitro janān yātayati bruvāṇo mitro dādhāra pṛthivīmuta dyām |*
+> *mitraḥ kṛṣṭīranimiṣābhi caṣṭe mitrāya havyaṃ ghṛtavajjuhota ‖*
+
+(Ṛ. Saṃ. 3-59-1) (Gloss, mine and tentative: "Mitra, speaking, stirs people to action; Mitra upholds the earth and the heaven; Mitra watches the peoples with unwinking eye; to Mitra offer the oblation rich in ghee.")
+
+— he has given this ṛk as an example. In this ṛk (it is said that) Mitra, as a helper in agriculture and other works, pouring down rain and the like and supplying food and other sustenance to the people, upholds, that is, nourishes, both the people of the earth and the dwellers in heaven. "O men, *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 121 (PDF 139). Sūkta 186 Ṛk 2 OPEN: Saṃhitā (p. 117), Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (p. 118) written; Special Topics in progress (Mitra–Varuṇa–Aryaman, the Ādityas, Nirukta derivation of mitra; Ṛ. 3-59-1 explanation breaks off mid-sentence at the foot of p. 121 ('O men, …'), continues on p. 122 / PDF 140). Flags (earlier): refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5); p. 65 'durye [?]' (Ṛ. 5-49-5), Pā. 4-1-7 [?] (ugitaś ca), Pā. 6-2[?]-2; p. 66 Pā. 6-1-18[?] (tāsyanudātteṅ); p. 68 Ni. 4-23 as read; p. 69 'apāraṃ' [sic], 'sarvatīrapo' as printed (Ṛ. 8-40-11); p. 70 'sametvarvājindra' as printed (Ṛ. 6-19-9), two Uṇ. Sū. 4-[?] numbers; p. 71 'anhāṃ' as printed (Ṛk 4); p. 72 Ni. 3-8 as read, 'īdṛśāvubhe' as read; p. 73 Ai. Brā. 19-5 as read, Ṛ. Saṃ. 11-1[?]0-9 as printed, 'samapatatte' as printed (p. 79 has 'samatapatte': recheck p. 73); p. 74 cross-ref Ṛk 1-185-6; p. 75 'nābhiṃ', 'rakṣataṃ' as printed in the Pada; p. 77 header Adhyāya printed 3, Tai. Brā. 1-1-3 2 as printed, Ai. Brā. 25-7; p. 78 'śirṣṇo' as printed (Ṛ. 10-90-14), 'katamatsvit kimāsīt' as printed; p. 79 'pūrvyebhirenvaiḥ [?]' and 'yu[?]vānā' (Ṛ. 1-117-14), Ṛ. 1-11-4 reference placement. New: p. 80 Ni. 2-24 as printed (jāmi), 'jāmayo' as printed (Ni. 3-7); p. 81 Varga 3 begins, 'pitṛsthāniyayoḥ' as read, Ni. 2-24 as printed (bhuvana); p. 82 'vayaṃ na' as printed (Ṛ. 5-85-3), 'bhuvasanya' [sic] and 'bhūtajātakasyodakasya' as printed (Ni. 10-4), Pā. 8-[?]-7 (nalopaḥ prātipadikāntasya); p. 83 'śatrādeśa' as printed under pāghrādhmā (Pā. 7-3-78), Saṃhitā Ṛk 6 'pathivī' as printed; p. 84 'I Invoke' [sic], Ni. 2-13 as read; p. 85 'devanāmavasā' as printed, 'ruśa[?]vatsā' and 'āraigu' (Ṛ. 1-113-2), Ni. 2-14 as read (not zoomed), 'bhupanasya' as printed (Ṛ. 1-164-21), 'suvarṇyo3' as printed (Ṛ. 10-88-19). New: p. 86 Pā. 4-1-4 as printed (ṛnnebhyo ṅīp), 3-2-75 and 6-2-199 zoomed; p. 87 'English Trnslation' [sic]. p. 88 Ṛ. 3-54-7, Pā. 4-1-44, 6-1-174, 6-2-119, 6-2-199 zoomed; 'ṅīp' as printed under voto guṇavacanāt; uru printed 'adanta'; Ṛk 8 Saṃhitā 'sadamijāspatiṃ' as printed; p. 89 Pada 'sadaṃ', 'jāḥpatiṃ' as printed, bhāṣya 'pāpānāmupagamaṃ' as printed (apagamaṃ by sense). p. 90 'sun-in-law' [sic], Ṛ. 1-94-15 zoomed, Nirukta 'āga āṅpūrvād…' with 'avaśyame[?]tad…' UNDECIDED; p. 91 Durga 'hi nmaithunena', 'nirmiṇoti' as printed (Ni. 6-9), Ni. 3-2 (dhī) as printed, Uṇ. Sū. 4-631 as printed, Pā. 3-1-85 zoomed, no ‖ 8 ‖ printed after grammar. New: p. 92 bhāṣya 'ṣaṣṭhy[?] rūpaṃ' UNDECIDED; p. 93 header Adhyāya numeral printed as 3 (same glyph as Varga 3; pp. 95, 97 have 5), 'kṣayetamasya' as printed (Ṛ. 7-100-5), Ni. 1-4, 3-11, 5-9, Ṛ. 1-123-2, Pā. 7-1-39 zoomed; p. 94 Pā. 3-[?]-34 (sibbahulaṃ leṭi) UNDECIDED, 3-4-101, 7-2-35, 6-1-64, Phi. Sū. 17 zoomed, sacetām called 'madhyama-puruṣa' as printed, Pada 'pathivyai' as printed; p. 95 Āś. 3-8 zoomed, 'tattṛpti[?]rītikaram' UNDECIDED, 'pratamaṃ' as printed; p. 96 Ni. 2-22, Ṛ. 1-89-4, 1-160-2, 1-185-11, 5-43-2 and the refs list zoomed, Atha. Ve. 3-[?]3-6 UNDECIDED, Pā. 6-1-171 zoomed; p. 97 Pā. 5-4-38, 7-2-116, 6-2-172, 3-1-101 zoomed, 'śobhanaṃ medhaḥ' and pātām 'madhyama-puruṣa' as printed. New: p. 98 'stotṝṇām' zoomed; p. 99 header Varga 4, Ni. 3-9 as printed ('asāt' as printed), Pā. 7-1-39, 8-1-19, 5-4-66, 8-1-66, 8-1-71, 7-3-88 zoomed; p. 100 Sūkta block Varga 4-5 zoomed, bhāṣya opens 'no vidathe' as printed, 'manasa īśitṛtvena' zoomed; p. 101 Special Topics treat sajoṣāḥ/śavaḥ (not in Ṛk 1) as printed, 'devanāmasi' as printed (Ṛ. 10-110-3), Ni. 2-24 and 3-9 as printed (zoomed), printed English misprints 'solemniy', 'togther', 'uur', 'lexhilarate'; p. 102 Ni. 12-40, 63 sūktas, 1-164 (41 ṛks), Ṛ. 10-155 as printed, 17 ṛks, 10-125-1, Vāj. 2-22, Vāj. 33-45 to 47 (47 vs 46 doubtful), Atha. 20-62-6 zoomed; p. 103 Kau. Brā. 4-14, Go. Brā. 1-20, Śa. Brā. 3-9-2-6, 14-2-2-37, 7-1-1-42, 2-4-4-13, Tai. Ā. 5-1-6, Ni. 12-39 zoomed, Bṛ. De. '2-148 to 134' as printed, '58' sūktas (p. 102 says 63), list '…107, 121' as printed. New: p. 104 Viśvedeva sūkta list (M1 122; M2 29, 31; M3 54; M4 55; M5 41–46, 48–51; M6 49–52; M7 35–37, 39, 40, 42, 43; M8 27–30, 58, 83; M10 31, 32, 35, 36, 64–66, 92, 93, 100, 101, 109, 114, 126, 128, 137, 141, 157, 181) zoomed, Ni. 3-19, Ni. 6-7, Ṛ. 3-27-7, 5-59-2 zoomed, 'vedayitsu[?]' UNDECIDED; p. 105 Ṛ. 1-31-6, 5-3-6, 7-66-11 zoomed, Oldenberg quote (SBE 46 p. 27) '[?]vīrāḥ' and 'vi[?]tha' UNDECIDED (broken print), 'hi•', 'secrifice' [sic]. p. 106 Bloomfield quote (no reference printed), 'ceremoney' [sic], 'Yagna' as printed; p. 107 Ṛ. 10-85-26, 2-1-16, 10-85-26 and 27, 7-84-3, 10-100-6, 10-110-7 zoomed, Ni. 2-5 and 2-23 as printed (iḷā: earth, speech), Ni. 3-9 printed for both food and cow, Ni. 7-21 zoomed. p. 108 Nirukta 7-20 zoomed (three tries), Ṛ. 1-164-46 zoomed. p. 109 Ni. 7-18 zoomed (three tries), Ṛ. 1-59-1, 1-98-1, Śa. Brā. 10-6-1-11, Chā. U. 5-24-2 zoomed, 'janā̃ upamidyayaṃtha' as printed. New (pp. 110–115): p. 110 Ni. 6[?]-22 UNDECIDED (tatko vaiśvānaraḥ; first digit 6 or 7), Ni. 7-21, Ṛ. 1-59-6, Bṛ. De. 1-101 : 1-102 zoomed; p. 111 'athāsyāda' as printed, 'yānyetāny' zoomed; p. 112 'nirūpyate', 'aruṇe aupaveśau' as printed, Ni. 7-22 to 7-31, Ni. 7-21, Śa. Brā. 10-6-1-1 to 11 zoomed; p. 113 'khalu nvā', 'etaṃ rayiṃ vaiśvānara etaṃ', 'pratiṣṭhā', 'prajñayā', 'pādau tvā etau' as printed (zoomed), 'vastistvāhāsyad' (stroke = va-ottu, resolved on p. 115); p. 114 'vaiśānara' as printed, ¶ 7 opens 'atha hoc[?]' UNDECIDED, 'tasmāttvāṃ' (broken print) zoomed; p. 115 'vā'atiṣṭhā', 'hi ve', 'pṛthagannamaghastaṃ' as printed (zoomed), Kannada of ¶ 9 says antarikṣa where the Sanskrit has divam. New (pp. 116–117): p. 116 Śa. Brā. ¶ 11 closing numeral printed ‖ 10 ‖ (zoomed), 'vaiśānara', 'nāsike'upadiśan', 'chubakam' as printed, Ni. 3-15 (abhipitvam) zoomed; p. 117 Kau. 2-4-82 and Pā. 6-3-129 zoomed, Saṃhitā Ṛk 2 opens 'a no' as printed. p. 118 Pada 'susahā' as printed, bhāṣya Āś. 3-7 zoomed (flat-footed glyph; p. 95 had 3-8 — compare); p. 119 Āś. 3-7, Ṛ. 5-3-1, 5-3-2, Tai. Brā. 1-7-10-1 zoomed. p. 120 Ṛ. 2-27-1 (calibrated on header Aṣṭaka 2), 9-114-3, 10-72-8, 9 zoomed, Tai. Ā. 1-[?]3-3 UNDECIDED (broken digit), 'tanva1spari', 'devā̃', 'agṃśaśca', 'vivasvāgścetyete' as printed; p. 121 Tai. Brā. 1-1-9-1, 2, 3, Ṛ. 2-27 (sūkta), Ni. 10-21, Ṛ. 3-59-1 zoomed, 'retodhatta' (no avagraha) and 'antakṣadalli' [sic] as printed.
