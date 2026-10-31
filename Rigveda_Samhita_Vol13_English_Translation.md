@@ -7009,23 +7009,23 @@ Those people, who, jointly worshipping Indra, diligently endeavour, O hero, to p
 
 In this ṛk it is described that the Maruts (the Marut deities), the companions of Indra, ever practise and cause to practise the giving of strength to Indra in the time of battles, and that the extraordinary help of the Maruts is thus available. In the same way, the sacrificers also, when they perform sacrifices, strive to worship Indra in the sacrifices; this too is described.
 
-***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 2-17 [?]). And the Nirukta-writers, showing the derivation of this word, say:
+***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. [2 or 7]-9 [?]). And the Nirukta-writers, showing the derivation of this word, say:
 
 > समदः संमदो वा मदतेः ; संमुदो वा मदतेः ।
 
 > *samadaḥ saṃmado vā madateḥ; saṃmudo vā madateḥ |* [as read: [?]]
 
-(Ni. 9-17 [?]) — thus giving alternatives: the preposition *sam* joined with the root *mad* gives *samad*; or from the root *mud* ("to rejoice") with *sam* gives *samud*; so the derivation is shown. And, where the word *samatsu* is used —
+(Ni. 9-12) — thus giving alternatives: the preposition *sam* joined with the root *mad* gives *samad*; or from the root *mud* ("to rejoice") with *sam* gives *samud*; so the derivation is shown. And, where the word *samatsu* is used —
 
 > आ जङ्घन्ति सान्वेषां जघनाँ उप जिघ्नते । अश्वाजनि प्रचेतसोऽश्वान्त्समत्सु चोदय ॥
 
 > *ā jaṅghanti sānv eṣāṃ jaghanāṁ upa jighnate | aśvājani pracetaso 'śvān samatsu codaya ‖*
 
-(Ṛ. Saṃ. 6-75-14 [?]) — quoting this ṛk, the special meaning of the word is shown there.
+(Ṛ. Saṃ. 6-75-12) — quoting this ṛk, the special meaning of the word is shown there.
 
 ***prapathintamam — sukṛtināṃ uttamamārgabhūtam*** — Indra, who shows the best path to the virtuous, is, by the non-difference of cause and effect, described as the best path itself.
 
-***indraṃ — śatrūṇāṃ dārakaṃ*** — the Nirukta-writers have explained the meaning of the word *indra* in many ways. Sāyaṇa follows "*indro 'rd 'śatrūṇāṃ dārayitā*" (Ni. 10-8 [?]) — Indra is the one who tears enemies apart — and so describes Indra here as the destroyer of enemies.
+***indraṃ — śatrūṇāṃ dārakaṃ*** — the Nirukta-writers have explained the meaning of the word *indra* in many ways. Sāyaṇa follows "*indro 'rd 'śatrūṇāṃ dārayitā*" (Ni. 10-8) — Indra is the one who tears enemies apart — and so describes Indra here as the destroyer of enemies.
 
 ---
 
@@ -7035,7 +7035,7 @@ In this ṛk it is described that the Maruts (the Marut deities), the companions
 
 ***sajoṣasaḥ kṣoṇīḥ — saha sevamānāḥ samānaprītayo vā kṣoṇyo viśaḥ parijanāḥ*** — having explained these two words as epithets of the Marut deities, he gives the meaning. Though the Marut deities are many (forty-nine in number, by the usual count — *ekonapañcāśat saṃkhyākāḥ*), they are affectionate toward one another through their oneness; or, as friends of Indra, all serve him with the same kind of love: so he explains the sense — that they are like Indra's subjects, though friends.
 
-***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 2-7 [?]), among the names of battle (Ni. 2-17 [?]), and as the name of a person (Ni. 11-12 [?]), and then quotes
+***ye vājaiḥ anu madanti*** — this sentence is explained in two ways, as concerning the Maruts and as concerning the sacrificers. First: "*marutas tvām eva svāminaṃ kṛtvā saṃgrāme balaiḥ harṣayanti*" — the Marut deities, regarding Indra as their lord, give him delight in battle by their own strength. In this meaning the word *vāja* is used in the sense of strength. Yāska reads the word *vāja* among the names of food (Ni. 2-7 [?]), among the names of battle (Ni. 2-17 [?]), and as the name of a person (Ni. 11-12), and then quotes
 
 > पावका नः सरस्वती वाजेभिर्वाजिनीवती । यज्ञं वष्टु धियावसुः ॥
 
