@@ -11329,7 +11329,7 @@ Inasmuch, Indra, as you have been the (giver of) happiness to your ancient encom
 
 Describing the delight that Indra gives to the praisers, and likening the satisfaction arising from that delight to the satisfaction obtained by the thirsty from drinking water, the sage-seer of this sūkta also resolves to praise, with *nivid* mantras, the Indra who gives such satisfaction, as the earlier praisers praised him.
 
-***nividaṃ johavīmi — nivid*** mantras: the resolve "I offer *nivid* mantras" is made. Earlier, in describing the special matters of Ṛ. Saṃ. 1-96-2 [?], by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras indicated there was explained (Ṛgvedasaṃhitā, Part 8 [?], pp. 74–76); but that mantra being addressed to Agni, and the *nivid* mantras specified there being Agni's,
+***nividaṃ johavīmi — nivid*** mantras: the resolve "I offer *nivid* mantras" is made. Earlier, in describing the special matters of Ṛ. Saṃ. 1-96-2, by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras indicated there was explained (Ṛgvedasaṃhitā, Part 8 [?], pp. 74–76); but that mantra being addressed to Agni, and the *nivid* mantras specified there being Agni's,
 
 ### Printed p. 422  (PDF 442)
 
@@ -11405,7 +11405,7 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 > *mā pra gāma patho vayaṃ mā yajñād indra sominaḥ | māntaḥ sthur no arātayaḥ ‖*
 
-(Ṛ. Saṃ. 10-57-1 [?]) — "May we not go astray from the path; may we not be cut off from the sacrifice; may evil-minded powers not come to dwell among us": having first prayed thus, one should recite the sūkta accompanied by the *nivid* mantras. Then the sacrificial work proceeds without any delusion, free of obstacle, and the destruction of evil powers also results. "May the thread of the fruit of the sacrifice that is spread among the deities extend to us, the sacrificers" (Ṛ. Saṃ. 10-57-2 [?]) — so the sacrificer prays; the thread of offspring, in the form of continuity of the family, is obtained by the sacrificer in unbroken succession.
+(Ṛ. Saṃ. 10-57-1) — "May we not go astray from the path; may we not be cut off from the sacrifice; may evil-minded powers not come to dwell among us": having first prayed thus, one should recite the sūkta accompanied by the *nivid* mantras. Then the sacrificial work proceeds without any delusion, free of obstacle, and the destruction of evil powers also results. "May the thread of the fruit of the sacrifice that is spread among the deities extend to us, the sacrificers" (Ṛ. Saṃ. 10-57-2 [?]) — so the sacrificer prays; the thread of offspring, in the form of continuity of the family, is obtained by the sacrificer in unbroken succession.
 
 > तद्यदेतां पुरस्तात्सूक्तस्य निविदं दधाति प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद ॥
 
@@ -11547,7 +11547,7 @@ the three words *carṣaṇi*, *jana* and *kṛṣṭi* are synonyms of "man"; b
 
 > *ā dadhikrāḥ śavasā pañca kṛṣṭīḥ sūrya iva jyotiṣāpas tatāna |*
 
-(Ṛ. Saṃ. 4-38-10 [?]) — in this ṛk, for the words *pañca kṛṣṭīḥ* they give the meaning *pañca janān* (Ni. 10-18 [?]), i.e. all classes of men. About this word Keith gives the following explanation:
+(Ṛ. Saṃ. 4-38-10) — in this ṛk, for the words *pañca kṛṣṭīḥ* they give the meaning *pañca janān* (Ni. 10-18 [?]), i.e. all classes of men. About this word Keith gives the following explanation:
 
 > कृष्टि denotes 'people' in general from the Rig-Veda onwards. Its common and regular use in this sense appears to show that the Aryans, when they invaded India, were already Agriculturists, though the employment of the words reffering to ploughing mentioned under कृषि indicates that not all of the people devoted themselves equally to that occupation. Indra and Agni are Par exellence the lords of men. the word (कृष्टि) Sometimes is further defined by the addition of an adjective meaning "belonging to mankind" (मानुषीः : मानवीः).
 
@@ -11567,7 +11567,7 @@ From the above explanation it is indicated that the word *kṛṣṭi* shows the
 
 > *sa yudhmaḥ satvā khajakṛt samadvā tuvimrakṣo nadanumāṃ ṛjīṣī | bṛhadreṇuś cyavano mānuṣīṇām ekaḥ kṛṣṭīnām abhavat sahāvā ‖*
 
-(Ṛ. Saṃ. 6-18-2 [?]) — in such ṛks the usage is found with the epithet *mānuṣīṇāṃ kṛṣṭīnām*.
+(Ṛ. Saṃ. 6-18-2) — in such ṛks the usage is found with the epithet *mānuṣīṇāṃ kṛṣṭīnām*.
 
 Like the words *carṣaṇi* and *kṛṣṭi*, which are synonyms for the human race, the word *kṣiti*, which gives the meaning "settled, dwelling", is also used in such contexts. *Manuṣyāḥ*, *naraḥ* and so on are read among the names of men (Ni. 3-7 [?]).
 
@@ -11606,7 +11606,7 @@ It is said that Indra is the protector of the people who perform sacrifices, the
 - ***carṣaṇiprāḥ*** — root *prā pūraṇe*; the suffix *kvip*; by "*gatikārakopapadāt kṛt*" (Pā. Sū. 6-2-139 [?]) the *kṛdutta* final member keeps its natural accent.
 - ***vṛṣabhaḥ*** — root *vṛṣu secane*; the suffix *abhac* of the *ṭoṇādika* (*uṇādi*) group; since it is *cit*, by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the end syllable is *udātta*.
 - ***kṛṣṭīnām*** — genitive plural; by "*nāmanyatarasyām*" (Pā. Sū. 6-1-177 [?]) the *nām* takes *udātta* accent.
-- ***śravasyan*** — *śravaḥ annam ātmana icchan śravasyan*; by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) the suffix *kyac*; after *kyac*, *laṭ* with the substitution *śatṛ*; nominative singular; by the *kyac* accent the end syllable is *udātta*.
+- ***śravasyan*** — *śravaḥ annam ātmana icchan śravasyan*; by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8) the suffix *kyac*; after *kyac*, *laṭ* with the substitution *śatṛ*; nominative singular; by the *kyac* accent the end syllable is *udātta*.
 - ***madryak*** — root *añcu gatipūjanayoḥ*; by "*pṛṣodarādīni yathopadiṣṭam*" (Pā. Sū. 6-3-109 [?]) the desired form is obtained.
 - ***yuktvā*** — root *yujir yoge*; since instigation is shown, the root contains *ṇic* in its sense; by "*samānakartṛkayoḥ pūrvakāle*" (Pā. Sū. 3-4-21 [?]) the suffix *ktvā*; by "*coḥ kuḥ*" the *j* of the root becomes *k*; *cartva*; by the suffix accent the end syllable is *udātta*.
 - ***yāhi*** — root *yā prāpaṇe*; *loṭ*, second person singular; *nighāta* for a *tiṅ*. ‖ 1 ‖
@@ -11671,7 +11671,7 @@ Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and 
 
 > *brahmaṇā te brahmayujā yunajmi harī sakhāyā sadhamāda ā śū | sthiraṃ rathaṃ sukham indrādhitiṣṭhan pra jānan vidvāṃ upa yāhi somam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-35-4 [?]) — in such ṛks the process by which Indra's horses are harnessed to his chariot by the power of the mantra is described; in the ṛk at hand the same point is shown.
+(Ṛ. Saṃ. 3-35-4) — in such ṛks the process by which Indra's horses are harnessed to his chariot by the power of the mantra is described; in the ṛk at hand the same point is shown.
 
 ***atyāḥ — aśvāḥ*** — Indra's horses. ***āpekṣitapradeśaṃ prati atanaśīlāḥ*** — "of the nature and power of going to the place desired": this is the sense, and it is not only for horses that this word is an epithet; it is also an epithet of Agni and of the Āditya (Sun).
 
@@ -11679,13 +11679,13 @@ Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and 
 
 > *eṣa pra pūrvīr ava tasya camriṣo 'tyo na yoṣām udayaṃsta bhurvaṇiḥ | dakṣaṃ mahe pāyayate hiraṇyayaṃ ratham āvṛtyā hariyogam ṛbhvasam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-56-1 [?]) — in this ṛk *atyaḥ* is used as a synonym of "horse"; and
+(Ṛ. Saṃ. 1-56-1) — in this ṛk *atyaḥ* is used as a synonym of "horse"; and
 
 > अस्य श्लोको दिवीयते पृथिव्यामत्यो न यंसद्यक्षभृद्विचेताः । मृगाणां न हेतयो यन्ति चेमा बृहस्पतेरहिमायाँ अभि द्यून् ॥
 
 > *asya śloko divīyate pṛthivyām atyo na yaṃsad yakṣabhṛd vicetāḥ | mṛgāṇāṃ na hetayo yanti cemā bṛhaspater ahimāyāṃ abhi dyūn ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-190-4 [?]) — in such ṛks *atanaśīlaḥ* ("the one who goes") means the Āditya also: the Sun, who moves about. In the ṛk at hand it is a word that is a synonym of horse.
+(Ṛ. Saṃ. 1-190-4) — in such ṛks *atanaśīlaḥ* ("the one who goes") means the Āditya also: the Sun, who moves about. In the ṛk at hand it is a word that is a synonym of horse.
 
 ### Printed p. 434  (PDF 454)
 
@@ -11760,7 +11760,7 @@ The word *vṛṣan* is used in many places in the sense of one possessed of the
 
 > *ye ta indra daduṣo vardhayanti mahi kṣatraṃ sthaviraṃ vṛṣṇyaṃ ca |*
 
-(Ṛ. Saṃ. 1-54-8 [?]) — in this the word *vṛṣṇyam* is *vṛṣatvam* and *puṃstvam* ("manliness");
+(Ṛ. Saṃ. 1-54-8) — in this the word *vṛṣṇyam* is *vṛṣatvam* and *puṃstvam* ("manliness");
 
 > स्तुतः श्रवस्यन्नवसोप मद्रिग्युक्त्वा हरी वृषणा योह्यर्वाङ् ।
 
@@ -11772,13 +11772,13 @@ The word *vṛṣan* is used in many places in the sense of one possessed of the
 
 > *bhūṣanna yodhi babhrūṣu namnate vṛṣeva patnīrabhyeti roruvat*
 
-(Ṛ. Saṃ. 1-140-6 [?]) — *vṛṣā iva* is "like a bull that performs sprinkling (*secana*)"; and in
+(Ṛ. Saṃ. 1-140-6) — *vṛṣā iva* is "like a bull that performs sprinkling (*secana*)"; and in
 
 > मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ॥
 
 > *mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ ‖*
 
-(Ṛ. Saṃ. 1-179-1 [?]) — *vṛṣaṇaḥ* is "*sektāraḥ puruṣāḥ*" (sprinklers, men). So also in many other places this word, indicating the masculine as it does, is used in meanings that show the power of male creatures. And in the same manner:
+(Ṛ. Saṃ. 1-179-1) — *vṛṣaṇaḥ* is "*sektāraḥ puruṣāḥ*" (sprinklers, men). So also in many other places this word, indicating the masculine as it does, is used in meanings that show the power of male creatures. And in the same manner:
 
 > वृषा वां मेघो वृषणा पीपाय गोर्न सेके मनुषो दशस्यन्
 
@@ -11812,13 +11812,13 @@ The word *vṛṣan* is used in many places in the sense of one possessed of the
 
 > *ā pyāyasva sametu te viśvataḥ soma vṛṣṇyam*
 
-(Ṛ. Saṃ. 1-91-16 [?])
+(Ṛ. Saṃ. 1-91-16)
 
 > महाँ असि महिष वृष्ण्येभिर्धनस्पृदुग्र सहमानो अन्यान्
 
 > *mahā~ asi mahiṣa vṛṣṇyebhirdhanaspṛdugra sahamāno anyān*
 
-(Ṛ. Saṃ. 3-46-2 [?])
+(Ṛ. Saṃ. 3-46-2)
 
 > वि चर्मणीव धिषणे अवर्तयद्वैश्वानरो विश्वमधत्त वृष्ण्यम्
 
@@ -11913,7 +11913,7 @@ O Indra! This sacrifice, which is for the deities; this victim fit for the sacri
 > *ivā te hāriyojanā suvṛktīndra brahmāṇi gotamāso akran |*
 > *aiṣu viśvapeśasaṃ dhiyaṃ dhāḥ prātarmakṣū dhiyāvasurjagamyāt ‖*
 
-(Ṛ. Saṃ. 1-61-16 [?]) — in this the word *hāriyojana* is an epithet of Indra. Sāyaṇa has explained: ***haryor aśvayor yojanaṃ yasmin rathe sa tathoktaḥ | tasya svāmitvena saṃbandhī hāriyojanaḥ indraḥ*** — "the chariot in which the yoking of the two bays is done is so called; Indra, who is related to it as its owner, is *hāriyojana*"; that is, the meaning is "the Indra on whose chariot the horses called *hari* are fastened". But, … [the passage continues on the next page.]
+(Ṛ. Saṃ. 1-61-16) — in this the word *hāriyojana* is an epithet of Indra. Sāyaṇa has explained: ***haryor aśvayor yojanaṃ yasmin rathe sa tathoktaḥ | tasya svāmitvena saṃbandhī hāriyojanaḥ indraḥ*** — "the chariot in which the yoking of the two bays is done is so called; Indra, who is related to it as its owner, is *hāriyojana*"; that is, the meaning is "the Indra on whose chariot the horses called *hari* are fastened". But, … [the passage continues on the next page.]
 
 ---
 
