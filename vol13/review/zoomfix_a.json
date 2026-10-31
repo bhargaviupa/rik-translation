@@ -1182,5 +1182,165 @@
   "old": "(Ni. 12-1 [?])",
   "new": "(Ni. 12-3)",
   "note": "Per the user-supplied numeral list (list page = printed page): 0 reference(s) confirmed by an independent reading (list value = file value, [?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 12-1 [?]→Ni. 12-3."
+ },
+ {
+  "pdf": 29,
+  "printed": 9,
+  "status": "resolved",
+  "old": "(Ni. 3-19 [?])",
+  "new": "(Ni. 3-19)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 38,
+  "printed": 18,
+  "status": "resolved",
+  "old": "(Ni. 3-13 [?]); (Ni. 4-19 [?]); (Ni. 4-19 [?]); (Ni. 3-13 [?])",
+  "new": "(Ni. 3-13); (Ni. 4-19); (Ni. 4-19); (Ni. 3-13)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 4 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 41,
+  "printed": 21,
+  "status": "resolved",
+  "old": "(Ni. 2-25 [?])",
+  "new": "(Ni. 2-28)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 0 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-25 [?]→Ni. 2-28."
+ },
+ {
+  "pdf": 42,
+  "printed": 22,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 7-55-6 [?])",
+  "new": "(Ṛ. Saṃ. 7-55-6)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 50,
+  "printed": 30,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-159-3 [?])",
+  "new": "(Ṛ. Saṃ. 1-159-5)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 0 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 1-159-3 [?]→Ṛ. Saṃ. 1-159-5."
+ },
+ {
+  "pdf": 53,
+  "printed": 33,
+  "status": "resolved",
+  "old": "(Ni. 2-9 [?])",
+  "new": "(Ni. 3-9)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 0 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-9 [?]→Ni. 3-9."
+ },
+ {
+  "pdf": 55,
+  "printed": 35,
+  "status": "resolved",
+  "old": "(Ni. 2-11 [?]); (Ni. 5-4 [?]); (Ni. 5-4 [?])",
+  "new": "(Ni. 3-11); (Ni. 5-4); (Ni. 5-4)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 2 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-11 [?]→Ni. 3-11."
+ },
+ {
+  "pdf": 59,
+  "printed": 39,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-189-6 [?]); (Ṛ. Saṃ. 8-1-12 [?]); (Ṛ. Saṃ. 8-20-26 [?]); (Ṛ. Saṃ. 10-170-1 [?])",
+  "new": "(Ṛ. Saṃ. 1-189-6); (Ṛ. Saṃ. 8-1-12); (Ṛ. Saṃ. 8-20-26); (Ṛ. Saṃ. 10-170-1)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 4 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 63,
+  "printed": 43,
+  "status": "resolved",
+  "old": "(Ni. 2-9 [?])",
+  "new": "(Ni. 3-9)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 0 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 2-9 [?]→Ni. 3-9."
+ },
+ {
+  "pdf": 65,
+  "printed": 45,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 5-58-2 [?])",
+  "new": "(Ṛ. Saṃ. 5-58-2)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 74,
+  "printed": 54,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-30-5 [?])",
+  "new": "(Ṛ. Saṃ. 1-30-5)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 75,
+  "printed": 55,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 8-76-2 [?])",
+  "new": "(Ṛ. Saṃ. 8-76-2)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 79,
+  "printed": 59,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 8-23-16 [?])",
+  "new": "(Ṛ. Saṃ. 8-25-16)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 0 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 8-23-16 [?]→Ṛ. Saṃ. 8-25-16."
+ },
+ {
+  "pdf": 82,
+  "printed": 62,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 2-32-13 [?])",
+  "new": "(Ṛ. Saṃ. 7-32-13)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 0 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 2-32-13 [?]→Ṛ. Saṃ. 7-32-13."
+ },
+ {
+  "pdf": 85,
+  "printed": 65,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 1-33-6 [?]); (Ṛ. Saṃ. 1-122-5 [?])",
+  "new": "(Ṛ. Saṃ. 1-33-7); (Ṛ. Saṃ. 1-122-5)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ṛ. Saṃ. 1-33-6 [?]→Ṛ. Saṃ. 1-33-7."
+ },
+ {
+  "pdf": 88,
+  "printed": 68,
+  "status": "resolved",
+  "old": "(Ni. 3-13 [?])",
+  "new": "(Ni. 3-13)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 95,
+  "printed": 75,
+  "status": "resolved",
+  "old": "(Ni. 10-8 [?])",
+  "new": "(Ni. 10-8)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 97,
+  "printed": 77,
+  "status": "resolved",
+  "old": "(Ni. 3-19 [?]); (Ni. 1-10 [?])",
+  "new": "(Ni. 3-19); (Ni. 2-10)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 1 reference(s) confirmed by an independent reading ([?] dropped); changed by one digit to the list's value (not yet viewed on the page by me): Ni. 1-10 [?]→Ni. 2-10."
+ },
+ {
+  "pdf": 98,
+  "printed": 78,
+  "status": "resolved",
+  "old": "(Ni. 3-13 [?]); (Ni. 2-10 [?]); (Ni. 2-10 [?])",
+  "new": "(Ni. 3-13); (Ni. 2-10); (Ni. 2-10)",
+  "note": "Per the user's first numeral list (list page = printed page + 20): 3 reference(s) confirmed by an independent reading ([?] dropped)."
+ },
+ {
+  "pdf": 59,
+  "printed": 39,
+  "status": "resolved",
+  "old": "Ni. 3-3 [?] (virapśinaḥ)",
+  "new": "Ni. 3-13",
+  "note": "From the user's list (it gives 3-9, 3-13, 3-13 on this page; tavasaḥ was viewed as 3-13); not separately viewed."
  }
 ]
