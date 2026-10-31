@@ -52,3 +52,5 @@ Do not run whole-volume Tesseract scans (20+ min; used only to locate). Read pri
 
 ## Volume 14 (in progress, Oct 31 2026)
 Translated through printed p. 313 (PDF 332) of ~961; Sūktas 185–189 complete, 190 open at Ṛk 3. Output `Rigveda_Samhita_Vol14_English_Translation.md`; method/lessons `vol14/vol14_runbook.md`; status, open items and resume instructions `vol14/vol14_state.md`, `vol14/parts/session_state.md`, `vol14/CONTINUE_PROMPT.md`. Offset printed = PDF − 18 to PDF 222, **− 19 from PDF 224** (PDF 223 duplicates 222). Printed p. 288 needs a re-scan (right edge cut off).
+
+**Volume 14 direction change (Oct 31 2026, user):** translators are **Sonnet** (cost reduction); numerals are taken from user-supplied files in `vol14/numerals/` (no numeral zooming or digit analysis; missing file → stop and report). Details: `vol14/vol14_runbook.md`, last section; the dispatcher prompt is `vol14/CONTINUE_PROMPT.md`.

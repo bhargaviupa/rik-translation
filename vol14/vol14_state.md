@@ -14,3 +14,6 @@ Status: **in progress.** Translated through **printed p. 313 (PDF 332)** of ~961
 - `add_iast.py` gaps: skips a bhāṣya block directly followed by a `**Pratipadārtha.**` line or a `*Gist:*` line; duplicates lines inside blockquotes (write quoted English as plain paragraphs). Other bhāṣya blocks earlier in Vol 14 may lack IAST: check before the DOCX build.
 - `append_en.py` refuses if the file shrinks by > 2,000 characters (archive flags in the same append as new text).
 - Undecided `[?]` places and readings kept "as printed" are listed in the progress note and `review/`; several sūtra/Nirukta numbers differ from the standard numbering (printed as is).
+
+## Direction change (Oct 31 2026)
+Translators now Sonnet; numerals from user-supplied files in `numerals/` (see `numerals/README.md`, `vol14_runbook.md` last section). Do not resume translating until numeral files for the next pages are present.
