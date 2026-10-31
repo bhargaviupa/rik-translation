@@ -12,7 +12,7 @@ WORK=os.environ.get('V13WORK','/tmp/v13num/')
 os.makedirs(WORK,exist_ok=True)
 OFFSET=20   # printed = PDF - 20 for PDF 21..677 (PDF 21 = printed 1); front matter PDF 7-19 = roman i-xiii (PDF-6); verified by review/page_map_v13.json
 def _parts():
-    fs=sorted(glob.glob(os.path.join(VOL,'scans','*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
+    fs=sorted(glob.glob(os.path.join(VOL,'scans','*[0-9].pdf'))  # numbered parts only: '4a' is a duplicate rescan of pp. 361-460,key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
     out=[];g=1
     for p in fs:
         n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',p],capture_output=True,text=True).stdout).group(1))
