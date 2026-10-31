@@ -8952,13 +8952,13 @@ For the word *āyoḥ* the meaning is given as a synonym of *śatru* ("enemy") i
 
 > *mā no mitro varuṇo aryamāyur indra ṛbhukṣā marutaḥ pari khyan |*
 
-(Ṛ. Saṃ. 1-162-1 [?]) — is quoted (Śa. Brā. 13-5-1-18 [?]), and also shows a prayer addressed to *Āyu* together with the other deities.
+(Ṛ. Saṃ. 1-162-1) — is quoted (Śa. Brā. 13-5-1-18), and also shows a prayer addressed to *Āyu* together with the other deities.
 
 > स पूर्वया निविदा कव्यतायोरिमाः प्रजा अजनयन्मनूनाम् ।
 
 > *sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām |*
 
-(Ṛ. Saṃ. 1-96-2 [?]) — in this verse of the Ṛk-saṃhitā, since the word *āyoḥ* is explained by the word *manu*, it may be understood that it is Manu, one of the Prajāpatis, makers of creation. Likewise, in Ṛ. Saṃ. 1-53-10 [?]; 8-15-5 [?]; 8-53-2 [?]; 2-3-2 [?] and other ṛks as well, it has been seen earlier which person is signified by the "marked" name *Āyu*. (Ṛgvedasaṃhitā, Part 8, p. 26 [?].)
+(Ṛ. Saṃ. 1-96-2) — in this verse of the Ṛk-saṃhitā, since the word *āyoḥ* is explained by the word *manu*, it may be understood that it is Manu, one of the Prajāpatis, makers of creation. Likewise, in Ṛ. Saṃ. 1-53-10; 8-15-5; 8-53-2; 2-3-2 and other ṛks as well, it has been seen earlier which person is signified by the "marked" name *Āyu*. (Ṛgvedasaṃhitā, Part 8, p. 26 [?].)
 
 For "men who perform sacrifice", the words *āyuḥ*, *āyoḥ* have been used in many places as synonyms.
 
