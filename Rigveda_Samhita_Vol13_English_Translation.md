@@ -8076,49 +8076,49 @@ In the Purāṇas and other works the word *asura* is a synonym of *rākṣasa*;
 
 > *pṛṣadyoniḥ pañcahotā śṛṇotv atordhasaṃthā asuro mayobhuḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 5-42-1 [?]) — the word means the life-giving Vāyu (wind);
+(Ṛ. Saṃ. 5-42-1) — the word means the life-giving Vāyu (wind);
 
 > प्रुकप्रसक्त्रो असुरः सुशेवो रायो धर्ता धरुणो वस्वो अग्निः ।
 
 > *prukaprasaktro asuraḥ suśevo rāyo dhartā dharuṇo vasvo agniḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 5-15-1 [?]);
+(Ṛ. Saṃ. 5-15-1);
 
 > न्यग्निः सीददसुरो न होता हुवानो अत्र सुभगाय देवान् ।
 
 > *ny agniḥ sīdad asuro na hotā huvāno atra subhagāya devān |*
 
-(Ṛ. Saṃ. 2-30-3 [?]) — in such places it is an epithet of Agni and the others, in the sense "strong, possessed of power";
+(Ṛ. Saṃ. 2-30-3) — in such places it is an epithet of Agni and the others, in the sense "strong, possessed of power";
 
 > अस्मे वीरो मरुतः शुष्म्यस्तु जनानां यो असुरो विधर्ता ।
 
 > *asme vīro marutaḥ śuṣmy astu janānāṃ yo asuro vidhartā |*
 
-(Ṛ. Saṃ. 7-46-34 [?]) — in such places, "possessed of wisdom"; and
+(Ṛ. Saṃ. 7-56-24, as printed) — in such places, "possessed of wisdom"; and
 
 > शतं कक्षीवाँ असुरस्य गोनां दिवि श्रवोऽजरमा ततान ।
 
 > *śataṃ kakṣīvāṃ asurasya gonāṃ divi śravo 'jaramā tatāna |*
 
-(Ṛ. Saṃ. 1-126-3 [?]) — here "of a generous nature"; and
+(Ṛ. Saṃ. 1-126-2 [?]) — here "of a generous nature"; and
 
 > त्रिरुत्तमा दूणशा रोचनानि त्रयो राजन्त्यसुरस्य वीराः ।
 
 > *trir uttamā dūṇaśā rocanāni trayo rājanty asurasya vīrāḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 3-56-8 [?]) — in this ṛk, "*āsyati kṣipati sarvam ity asuraḥ kālātmā saṃvatsaraḥ*": *asura* is time, a synonym for the year; and
+(Ṛ. Saṃ. 3-56-8) — in this ṛk, "*āsyati kṣipati sarvam ity asuraḥ kālātmā saṃvatsaraḥ*": *asura* is time, a synonym for the year; and
 
 > यथा रुद्रस्य सूनवो दिवो वशन्त्यसुरस्य वेधसः ।
 
 > *yathā rudrasya sūnavo divo vaśanty asurasya vedhasaḥ |*
 
-(Ṛ. Saṃ. 8-20-17 [?]) — in such places in the sense "cloud"; and
+(Ṛ. Saṃ. 8-20-12) — in such places in the sense "cloud"; and
 
 > अनायुधासो असुरा अदेवाश्चक्रेण ताँ अप वपा ऋजीषिन् ।
 
 > *anāyudhāso asurā adevāś cakreṇa tāṃ apa vapa ṛjīṣin |* [as read: [?]]
 
-(Ṛ. Saṃ. 8-96-9 [?]) — in such ṛks, "the *asuras*" are the demons, the host of *rākṣasas*; and in the ṛk at hand the meaning is that it is Indra who drives away such *rākṣasas*.
+(Ṛ. Saṃ. 8-96-9) — in such ṛks, "the *asuras*" are the demons, the host of *rākṣasas*; and in the ṛk at hand the meaning is that it is Indra who drives away such *rākṣasas*.
 
 ***satpatiḥ — satāṃ karmaphalasya vā pātā*** — Sāyaṇa has given two meanings: that Indra protects the good, or that he protects the fruit of the rites they have performed.
 
