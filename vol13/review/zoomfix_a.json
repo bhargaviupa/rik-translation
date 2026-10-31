@@ -646,5 +646,13 @@
   "old": "विद्वा [?]; …स्पर्धानिमित्तानामुत्कृष्टानां; अपरो नृपभोद्देऽनुवादः [?]",
   "new": "यद्वा; …स्पर्धानिमित्तानामस्मत्सेनानां; अपरो नृशब्दोद्द्यनुवादः [?] (print ನೃಶಬೋದ್ದ್ಯನುವಾದಃ, kept [?])",
   "note": "230dpi: Ṛk 10 Pada and bhāṣya re-read; ‘sahodās tā-sāmarthyai’ (print ಸಹೋದಾಸ್ತಾ-ಸಾಮರ್ಥ್ಯ್ಯೈ) still unclear; ‘putratyādi’ (print) vs file ‘putratvādi’ not decided."
+ },
+ {
+  "pdf": 379,
+  "printed": 359,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 10-15-1 [?]",
+  "new": "10-15-1",
+  "note": "190dpi: ೧೦-೧೫-೧ legible; the quote and the Nirukta/Durgācārya passage agree with the file. Printed English on this page ('Be Indra, at all times our especial defender, the “preserver” of our people…') seen; not compared word by word."
  }
 ]

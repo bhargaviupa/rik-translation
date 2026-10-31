@@ -9367,7 +9367,7 @@ Be Indra, at all times our especial defender, the preserver of our people, the b
 
 > *udīratām avara ut parāsa un madhyamāḥ pitaraḥ somyāsaḥ | asuṃ ya īyur avṛkā ṛtajñās te no 'vantu pitaro haveṣu ‖*
 
-(Ṛ. Saṃ. 10-15-1 [?]) — quoting this ṛk, they have explained *avṛkāḥ* as "*anamitrāḥ satyajñā vā, yajñajñā vā*" — "those free from enemies, knowers of truth, or knowers of sacrifice". Durgācārya has given the meaning of the word *avṛka* as: those who behave in one way towards those who take refuge in them, who know truth and sacrifice. It is wished that Indra may be *avṛkatama*.
+(Ṛ. Saṃ. 10-15-1) — quoting this ṛk, they have explained *avṛkāḥ* as "*anamitrāḥ satyajñā vā, yajñajñā vā*" — "those free from enemies, knowers of truth, or knowers of sacrifice". Durgācārya has given the meaning of the word *avṛka* as: those who behave in one way towards those who take refuge in them, who know truth and sacrifice. It is wished that Indra may be *avṛkatama*.
 
 ### Printed p. 360  (PDF 380)
 
