@@ -8519,11 +8519,11 @@ Let (your foes, Indra,) humbled by the might of your thunderbolt, rest in their 
 
 ***sasmin yonau te nu śeṣan*** — in this sentence Indra is addressed. The word *te* means "your enemies". The word *sasmin* is used as an epithet of the word *yonau*. The Nirukta-writers read the word *yoni* among the names of house (Ni. 3-4 [?]). And —
 
-> इदं श्रेष्ठं ज्योतिषां ज्योतिराचित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवायँ एवा रात्र्युषसे योनिमारैक् ॥
+> इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक् ॥
 
-> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir ācitraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātry uṣase yonim āraik ‖* [as read: [?]]
+> *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotir āgāc citraḥ praketo ajaniṣṭa vibhvā | yathā prasūtā savituḥ savāya evā rātry uṣase yonim āraik ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-113-1 [?]).
+(Ṛ. Saṃ. 1-113-1).
 
 ---
 

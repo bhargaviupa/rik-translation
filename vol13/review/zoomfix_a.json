@@ -390,5 +390,13 @@
   "old": "Pā. 8-1-63, 8-1-19, 6-2-18, 7-2-34, 6-1-186 [?]; Uṇ. 1-42 [?], 4-… [?]",
   "new": "same without [?]; Uṇ. 4-612 [?]",
   "note": "220dpi page view: numerals legible; the Uṇ. ref for tarutra reads ೪-೬೧೨ with doubt; the explanation text (aśitrādibhya…, grasitaskabhita…, saṃjñāpūrvako…) agrees with print."
+ },
+ {
+  "pdf": 350,
+  "printed": 330,
+  "status": "resolved",
+  "old": "ज्योतिराचित्रः; सवायँ एवा; Ṛ.Saṃ. 1-113-1 [?]",
+  "new": "ज्योतिरागाच्चित्रः; सवाय एवा; 1-113-1",
+  "note": "190dpi: print ಜ್ಯೋತಿರಾಗಾಚ್ಚಿತ್ರಃ … ಸವಾಯ ಏವಾ; ref ೧-೧೧೩-೧. Not resolved: Ni. 3-4 [?] (print ನಿ.೩?-೧೩? / ೨-೧೨? — the first and last digit are the same looped glyph, can't tell 2 or 3); kept [?]."
  }
 ]
