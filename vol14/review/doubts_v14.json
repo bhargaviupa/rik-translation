@@ -10546,5 +10546,41 @@
   ],
   "note": "ZOOMED, read: U. Sū. 3-370 as read (dutanibhyāṃ dīrghaśca; third digit flat-footed 7, also at 1000 dpi)",
   "answer": ""
+ },
+ {
+  "pdf": 249,
+  "printed": 230,
+  "crop": [
+   0.692,
+   0.707,
+   0.638,
+   0.783
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-21-5 (first digit flat-footed 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 249,
+  "printed": 230,
+  "crop": [
+   0.705,
+   0.724,
+   0.545,
+   0.661
+  ],
+  "note": "ZOOMED, read: Ni. 4-19 (two tries; first box cut the line)",
+  "answer": ""
+ },
+ {
+  "pdf": 249,
+  "printed": 230,
+  "crop": [
+   0.188,
+   0.2,
+   0.694,
+   0.836
+  ],
+  "note": "ZOOMED, read: header Maṃ. 1. A. 24. Sū. 188",
+  "answer": ""
  }
 ]
