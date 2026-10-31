@@ -394,5 +394,77 @@
   ],
   "note": "UNDECIDED: grammar sūtra number for nāmanyatarasyām read 6-1-177[?] (small type)",
   "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 26,
+  "crop": [
+   0.38,
+   0.395,
+   0.416,
+   0.52
+  ],
+  "note": "ZOOMED, read: सूर्यः (ಸೂರ್ಯಃ) स्वरथे as printed (bhāṣya has सूर्यां)",
+  "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 26,
+  "crop": [
+   0.685,
+   0.701,
+   0.316,
+   0.436
+  ],
+  "note": "UNDECIDED: Bṛ.De. verse अमुतोऽर्वाङ् [?] — final consonant ಙ್/ಜ್ unclear",
+  "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 26,
+  "crop": [
+   0.53,
+   0.549,
+   0.617,
+   0.801
+  ],
+  "note": "ZOOMED, read: 1-184-1 (ref 'ಹಿಂದೆ ಇದೇ ಭಾಗದಲ್ಲಿ'); first digit of middle group partly cut in zoom",
+  "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 26,
+  "crop": [
+   0.577,
+   0.593,
+   0.6,
+   0.7
+  ],
+  "note": "UNDECIDED: Ṛ.Saṃ. 10-85[?] — second digit ಜ-like glyph",
+  "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 26,
+  "crop": [
+   0.763,
+   0.777,
+   0.607,
+   0.777
+  ],
+  "note": "UNDECIDED: Bṛhadde. 2[?]. 8 to 10 — first numeral curled 2-like glyph (key: curled = 2)",
+  "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 26,
+  "crop": [
+   0.577,
+   0.593,
+   0.6,
+   0.7
+  ],
+  "note": "RESOLVED on p. 27: the ಜ-like glyph is the same as the 5 in the odd-page header 'ಅ. ೫'; read 10-85",
+  "answer": ""
  }
 ]

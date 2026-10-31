@@ -812,4 +812,163 @@ In such ṛks the identity of Pūṣan, Bhaga, Savitṛ and Āditya is stated. A
 
 ---
 
-**Progress note:** Done through printed p. 25 (PDF 43). Sūkta 184 Ṛk 3 OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; Special Topics begun (pūṣan note complete at the foot of p. 25); continue on printed p. 26 (PDF 44) with further Special Topics or the grammar page. Flags pp. 20–25: p. 20 लुब्धकानयष्ट्वान् [?] as printed; p. 21 ref 1-165-7[?], अराच्चिद् [?]; p. 22 sūtra numerals 6-4-37[?], 6-1-177[?]; p. 23 bhāṣya …वच्छीघ्रमृजुगामिनौ [?], ref 1-119-5[?]; p. 24 Pratipadārtha 'jūrṇā iva yugāḥ' as printed. Earlier flags: see vol14/review/doubts_v14.json and pp. 8–19 notes (p. 14 Ni. 1. 7[?]; p. 16 varti refs; p. 17–19 bhāṣya [?]s; p. 18 Ni. 2[?]-18; p. 19 रात्रयः [?], दूढ्य१ः [?] नि [?]).
+### Printed p. 26  (PDF 44)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)* *(Ṛk 3 Special Topics continued.)*
+
+**सूर्यायाः वहतुम् (*sūryāyāḥ vahatum*).** सूर्यायाः एतन्नामिकायाः सवितुः पुत्र्याः रथे धारयितुम् (*sūryāyāḥ etannāmikāyāḥ savituḥ putryāḥ rathe dhārayitum*) — explaining the meaning "in order to seat on the chariot the maiden called Sūryā, the daughter of Savitṛ", Sāyaṇa has told the story of this context in this way *(quoted with variants from the bhāṣya on p. 23, as printed: स एतां for स एषां; च चालभेताम्; उषाश्चालभेताम् for उषाश्चाजयताम्; सूर्यः for सूर्यां)*:
+
+> सविता सूर्यो दुहितरं सूर्याख्यां प्रदातुमनाः देवानाहूय सामर्थ्यसमीक्षणाय आजिं परिकल्प्य य इमं जेष्यति स एतां कन्यकामृक्सहस्रक्लृप्तं स्तोत्रं च लभते इत्यकल्पयत् । तमग्निः प्रथममजयत् । तमन्वश्विनावपि जित्वा अग्निं प्रधृष्य ऋक्सहस्रं कन्यकां च चालभेताम् । तत इन्द्र उषाश्चालभेताम् । तौ च तैरग्न्यादिभिः प्रार्थितौ स्वशस्त्रस्य कंचित्कंचिद्भागं तेभ्यः परिकल्प्य सूर्यः स्वरथे अधारयतां इति ।
+
+> *savitā sūryo duhitaraṃ sūryākhyāṃ pradātumanāḥ devānāhūya sāmarthyasamīkṣaṇāya ājiṃ parikalpya ya imaṃ jeṣyati sa etāṃ kanyakāmṛksahasraklṛptaṃ stotraṃ ca labhate ityakalpayat | tamagniḥ prathamamajayat | tamanvaśvināvapi jitvā agniṃ pradhṛṣya ṛksahasraṃ kanyakāṃ ca cālabhetām | tata indra uṣāścālabhetām | tau ca tairagnyādibhiḥ prārthitau svaśastrasya kaṃcitkaṃcidbhāgaṃ tebhyaḥ parikalpya sūryaḥ svarathe adhārayatāṃ iti |*
+
+Savitṛ, in order to give his daughter Sūryā in marriage, summoned the gods and, to learn their ability, arranged a contest. He announced that he would hand over his daughter, and the śastra measuring a thousand ṛks, to the one who won in it. Then, when Agni won it, the Aśvin deities challenged him and took both for themselves. Afterwards, when Indra and Uṣas too won that contest, being entreated by them and by Agni, they assigned to them too some portion in their śastra and seated Sūryā on their chariot — this is the story he has made known. This same matter was made known earlier in this same part, at Ṛk 1-184-1, when making known the greatness of the Āśvina śastra: quoting the Aitareya Brāhmaṇa's sentences "प्रजापतिर्वै सोमाय राज्ञे (*prajāpatirvai somāya rājñe*)" (Ai. 4-7), the story narrated there was made known. In the Ṛksaṃhitā there is a separate sūkta describing the marriage of Sūryā (Ṛ. Saṃ. 10-85; the second digit is the same glyph as the "5" of the headers' "Adhyāya 5"). Before understanding that description it is very necessary to know where and how the nature of the divine maiden, or deity, called Sūryā has been described. In the Bṛhaddevatā the nature of Sūryā is made known thus:
+
+> तस्य मुख्यतमौ देवावश्विनौ सूर्यमाश्रितौ ।
+> वृषाकपायी सूर्योषाः सूर्यस्यैव तु पत्नयः ॥
+> अमुतोऽर्वाङ् निवर्तन्ते प्रतिलोमास्तदाश्रयाः ।
+> पुरोदयात्तामुषसं सूर्यां मध्यंदिने स्थिते ॥
+> वृषाकपायीं सूर्यस्य तामेवाहुस्तु निम्रुचि ।
+> तस्याश्रये सरण्यूश्च भगः पूषा वृषाकपिः ॥
+
+> *tasya mukhyatamau devāvaśvinau sūryamāśritau |*
+> *vṛṣākapāyī sūryoṣāḥ sūryasyaiva tu patnayaḥ ‖*
+> *amuto 'rvāṅ nivartante pratilomāstadāśrayāḥ |*
+> *purodayāttāmuṣasaṃ sūryāṃ madhyaṃdine sthite ‖*
+> *vṛṣākapāyīṃ sūryasya tāmevāhustu nimruci |*
+> *tasyāśraye saraṇyūśca bhagaḥ pūṣā vṛṣākapiḥ ‖*
+
+(Bṛhadde. 2[?]. 8 to 10; in अमुतोऽर्वाङ् the final consonant is [?]) ("Of him [the Sun] the two foremost gods, the Aśvins, are dependent on the Sun; Vṛṣākapāyī, Sūryā and Uṣas are the Sun's wives. Turning back from yonder towards here, in reverse order, they depend on him: before his rising [they call] her Uṣas, Sūryā when he stands at midday, and Vṛṣākapāyī that same one at the Sun's setting. In his shelter are Saraṇyū, Bhaga, Pūṣan and Vṛṣākapi.")
+
+Both Aśvin deities are deities connected with the Sun. Vṛṣākapāyī, Sūryā and Uṣas — these three are the Sun's wives. Belonging to the antarikṣa-world, they, having obtained connection with the Sun, of this world *(continues on the next page)*
+
+---
+
+### Printed p. 27  (PDF 45)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)*
+
+… turn back facing [it]. One and the same deity, in three forms, bears the name Uṣas before sunrise, Sūryā at midday, and Vṛṣākapāyī at the time of sunset — having said this, [the Bṛhaddevatā], when again making known the matter of the Sūryā-sūkta, describes it in this way:
+
+> सावित्री चैव सूर्या च स्यैव पत्नी विवस्वतः ।
+> स्तुता वृषाकपायीति उषा इति च योच्यते ।
+> उषा एषा त्रिधात्मानं विभज्य प्रैति गोपतिम् ॥
+> उषाः पुरोदयाद्भूत्वा सूर्या मध्यंदिने स्थिते ।
+> भूत्वा वृषाकपायी च दिनान्तेष्ववगच्छति ॥
+
+> *sāvitrī caiva sūryā ca syaiva patnī vivasvataḥ |*
+> *stutā vṛṣākapāyīti uṣā iti ca yocyate |*
+> *uṣā eṣā tridhātmānaṃ vibhajya praiti gopatim ‖*
+> *uṣāḥ purodayādbhūtvā sūryā madhyaṃdine sthite |*
+> *bhūtvā vṛṣākapāyī ca dinānteṣvavagacchati ‖*
+
+(Bṛ. De. 7. 119 to 121; स्यैव as printed.) ("Sāvitrī and Sūryā [are] the wife of Vivasvat; she is praised as Vṛṣākapāyī, and she who is called Uṣas — this Uṣas, dividing herself threefold, goes to the lord of rays: having become Uṣas before his rising, Sūryā when he stands at midday, and Vṛṣākapāyī, she goes down at the ends of the days.")
+
+Sāvitrī and Sūryā — both of these are wives of Vivasvān. Making known once more what was said before, that this same Sūryā is also called Vṛṣākapāyī and Uṣas, it praises the matter describing the marriage of Sūryā and the distinction of the Sūryā-sūkta. Thus, where there is a description of the maiden called Sūryā, it is necessary to know what her connection with the Sun is and what is meant by "she chose the Aśvin deities". In the ṛks quoted below from the Sūryā-sūkta, Sūryā's joining the Aśvin deities for marriage is described.
+
+> यदश्विना पृच्छमानावयातं त्रिचक्रेण वहतुं सूर्यायाः ।
+> विश्वे देवा अनु तद्वामजानन् पुत्रः पितराववृणीत पूषा ॥
+
+> *yadaśvinā pṛcchamānāvayātaṃ tricakreṇa vahatuṃ sūryāyāḥ |*
+> *viśve devā anu tadvāmajānan putraḥ pitarāvavṛṇīta pūṣā ‖*
+
+(Ṛ. Saṃ. 10. 85. 14) — in this ṛk, "O Aśvin deities, when you came in your three-wheeled chariot to take Sūryā's hand, all the gods approved your marriage; and Pūṣan, your son, chose you as his parents" — the very words वहतुं सूर्यायाः (*vahatuṃ sūryāyāḥ*) used in the present ṛk are used. Besides,
+
+> स्तोमा आसन्प्रतिधयः कुरीरं छन्द ओपशः ।
+> सूर्याया अश्विना वराग्निरासीत्पुरोगवः ॥
+
+> *stomā āsanpratidhayaḥ kurīraṃ chanda opaśaḥ |*
+> *sūryāyā aśvinā varāgnirāsītpurogavaḥ ‖*
+
+(Ṛ. Saṃ. 10. 85. 8) (Gloss, mine and tentative: "The praises were the cross-pieces, the metre the head-ornament and plait; the Aśvins were Sūryā's wooers, Agni was the one who went before.")
+
+> यदयातं शुभस्पती वरेयं सूर्यामुप ।
+> क्वैकं चक्रं वामासीत्क्व देष्ट्राय तस्थथुः ॥
+
+> *yadayātaṃ śubhaspatī vareyaṃ sūryāmupa |*
+> *kvaikaṃ cakraṃ vāmāsītkva deṣṭrāya tasthathuḥ ‖*
+
+(Ṛ. Saṃ. 10. 85. 15) (Gloss, mine and tentative: "When you came, lords of beauty, to Sūryā for the wooing, where was the one wheel of yours? Where did you stand for the giving?") — in these ṛks too the same description is found. Besides, *(continues on the next page)*
+
+---
+
+### Printed p. 28  (PDF 46)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 184".)*
+
+> अधि श्रिये दुहिता सूर्यस्य रथं तस्थौ पुरुभुजा शतोतिम् ।
+> प्र मायाभिर्मायिना भूतमत्र नरा नृतू जनिमन्यज्ञियानाम् ॥
+
+> *adhi śriye duhitā sūryasya rathaṃ tasthau purubhujā śatotim |*
+> *pra māyābhirmāyinā bhūtamatra narā nṛtū janimanyajñiyānām ‖*
+
+(Ṛ. Saṃ. 6. 63. 5) (Gloss, mine and tentative: "For glory the daughter of the Sun mounted your chariot of a hundred aids, O you of many enjoyments; by your wondrous powers, wonder-working heroes, dancers, you surpassed here the race of those worthy of worship.")
+
+> ओ त्यमह्व आ रथमद्या दंसिष्ठमूतये ।
+> यमश्विना सुहवा रुद्रवर्तनी आ सूर्यायै तस्थथुः ॥
+
+> *o tyamahva ā rathamadyā daṃsiṣṭhamūtaye |*
+> *yamaśvinā suhavā rudravartanī ā sūryāyai tasthathuḥ ‖*
+
+(Ṛ. Saṃ. 8. 22. 1) (Gloss, mine and tentative: "I have called here today, for help, that most wondrous chariot which you, Aśvins, easy to invoke, of Rudra's path, mounted for Sūryā.")
+
+> को मृळाति कतम आगमिष्ठो देवानामु कतमः शंभविष्ठः ।
+> रथं कमाहुर्द्रवदश्वमाशुं यं सूर्यस्य दुहितावृणीत ॥
+
+> *ko mṛḷāti katama āgamiṣṭho devānāmu katamaḥ śaṃbhaviṣṭhaḥ |*
+> *rathaṃ kamāhurdravadaśvamāśuṃ yaṃ sūryasya duhitāvṛṇīta ‖*
+
+(Ṛ. Saṃ. 4. 43. 2) (Gloss, mine and tentative: "Who is gracious? Which of the gods comes most readily, which brings most weal? Which swift chariot with running horses do they mean, that the daughter of the Sun chose?")
+
+In such contexts it is well known that Sūryā chose the Aśvin deities for a *svayaṃvara*. In the ṛk 6. 63. 5 quoted above it is said that the Aśvin deities, seated in their three-wheeled chariot, won victory in the contest arranged for the gods. But in the ṛk 10. 85. 15 quoted above from the sūkta-mantras, it is described that when they set out to approach Sūryā one wheel of their chariot became invisible. Explaining what its intent is, the English scholar called Maryla Falk has made known her opinion in this way:
+
+"What were the three wheels of the Aswin's car? The twin gods are most frequently said to come at early dawn, but this is not the only time of their coming. The express statement repeatedly occurs that they are invoked both in the morning and in the evening. (VIII. 22-14; X. 39-1; X. 40-4). Once it is said that they come also at noon (V. 76-3.) It remains undecided what specific natural phenomenon they were supposed to represent, but their connection with the transition between light and darkness is certain. They may thus have been meant to represent the morning and evening star as they are said to have been born separately. (V. 73-4). Their path is red or golden — it is dawn and sunset. Their car runs also by day and by night since it is said to move round the whole of the sky (I. 180-10) to cover the whole expanse of heaven in its course (IV. 43-5) to compass Heaven and Earth in one day' (III. 58-8). But at those times, it is not seen. In its nightly course it separates the extreme points of heaven and at that time' सूर्या (*sūryā*) enfolds the Aswin's brightness. (VII. 69-3 & 4). The other, more obvious, moment of their marriage with सूर्या (*sūryā*) is when they cross the path of the Sun at the zenith: This was when the Sun mounted on their car and when the third, the middle or noontide wheel of that car disappeared, [according to the 15th stanza of the सूर्यासूक्त (*sūryāsūkta*)] or was promptly arrested, [according to the 3rd stanza of the hymn V 73.] One beautiful wheel you *(the quotation continues on the next page; the words given here in Devanagari are printed in Kannada script within the English; the stray marks after "day" and "time" are as printed)*
+### Printed p. 29  (PDF 47)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1".)* *(Maryla Falk's English, continued, as printed.)*
+
+promptly arrested for the sake of the beauty (of सूर्या (*sūryā*)) wherea s round [sic] the other spheres you fly powerfully". The 5th stanza of the same hymn explains that, when सूर्या (*sūryā*) mounted on their ever swift-running car, they were encompassed hy [sic] the flaming rays of the Sun's glow. The! [sic] wheel of the Sun, of the flaming सूर्या (*sūryā*), absorbed the wheel of the Aswins, made it disappear in its rays.
+
+[The Indian Historical Quarterly Vol. XVIII. No. 1. March 1942. p. 28.]
+
+The gist of this opinion is as follows.
+
+> यो वां परिज्मा सुवृदश्विना रथो दोषामुषासो हव्यो हविष्मता ।
+> शश्वत्तमासस्तमु वामिदं वयं पितुर्न नाम सुहवं हवामहे ॥
+
+> *yo vāṃ parijmā suvṛdaśvinā ratho doṣāmuṣāso havyo haviṣmatā |*
+> *śaśvattamāsastamu vāmidaṃ vayaṃ piturna nāma suhavaṃ havāmahe ‖*
+
+(Ṛ. Saṃ. 10-39-1) (Gloss, mine and tentative: "Your chariot, Aśvins, that goes around, well-rolling, to be invoked at evening and at dawn by him who has the oblation — that chariot of yours we, ever and again, call upon, easy to invoke, like the name of a father.")
+
+In such ṛks it is made known that the Aśvin deities are invoked both at the time of dawn and at the time of evening twilight. Not only that,
+
+> उता यातं संगवे प्रातरह्नो मध्यंदिन उदिता सूर्यस्य ।
+> दिवा नक्तमवसा शंतमेन नेदानीं पीतिरश्विना ततान ॥
+
+> *utā yātaṃ saṃgave prātarahno madhyaṃdina uditā sūryasya |*
+> *divā naktamavasā śaṃtamena nedānīṃ pītiraśvinā tatāna ‖*
+
+(Ṛ. Saṃ. 5. 76. 3.) (Gloss, mine and tentative: "And come at the cattle-gathering time, in the early part of the day, at midday, at the rising of the Sun, by day and by night, with most beneficent help; the drinking, Aśvins, has not now [ceased to] extend.")
+
+— by such mantras they are invoked to the midday pressing as well. In this way the Niruktakāras have made clear that it is not possible to state definitely what the nature is of the Aśvin deities, who have prominence in all three pressings, and that each states a different opinion (Ni. 12-1). And
+
+> नाना जातावरेपसा समस्मे बन्धुमेयथुः ।
+
+> *nānā jātāvarepasā samasme bandhumeyathuḥ |*
+
+(Ṛ-Saṃ-5-73-4) (Gloss, mine and tentative: "Born separately, spotless, you have come to kinship with this one.")
+
+— in such places, as नाना जातौ । पृथगेव समृद्धौ (*nānā jātau | pṛthageva samṛddhau*) ("born separately: grown up each on his own"), their individual origin and growth are shown. In some places it is made known that the two names Nāsatya and Dasra are separate individual forms of the Aśvin pair (Journal of Oriental Research, Madras Vol XV). It is understood that they are deities who shine at dawn and at evening. For that very reason, in हिरण्ययाः वां पवयः (*hiraṇyayāḥ vāṃ pavayaḥ*) (1-180-1) and similar places, the twilight-red colour of their chariot and chariot-wheel is described. The Aśvin deities of such a nature —
+
+> युवोः श्रियं परियोषावृणीत सूरो दुहिता परितक्म्यायाम् ।
+> यद्देवयन्तमवथः शचीभिः परि घ्रंसमोमना वां वयो गात् ॥
+
+> *yuvoḥ śriyaṃ pariyoṣāvṛṇīta sūro duhitā paritakmyāyām |*
+> *yaddevayantamavathaḥ śacībhiḥ pari ghraṃsamomanā vāṃ vayo gāt ‖*
+
+(Ṛ-Saṃ-7-69-4) — here it is praised thus: "O Aśvin deities, the daughter of Sūrya, ever attached to the service of your beauty, joins you at the times of the pressings and pervades [all] in you." Besides this description, it is also made known in some places that this same daughter of Sūrya, when they [the Aśvins] come to be in the middle of the Sun's path in the antarikṣa, overpowers the Aśvin deities and joins them. At such times, *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 29 (PDF 47). Sūkta 184 Ṛk 3 OPEN: Special Topics continuing (Sūryā note: Maryla Falk quotation, Aśvin ṛks; paragraph ends 'At such times,'); continue on printed p. 30 (PDF 48). Flags p. 26: Bṛhadde. 2[?]. 8–10, अमुतोऽर्वाङ् [?]; p. 27 स्यैव as printed. Earlier flags: see vol14/review/doubts_v14.json.
