@@ -278,5 +278,13 @@
   "old": "Ni. 2-22 [?], 3-8 [?]; Ṛ. Saṃ. 1-54-3 [?], 1-24-14 [?], 2-1-6 [?], 1-35-7 [?]",
   "new": "same references without [?]",
   "note": "190dpi whole-column read of the Special Topics: ೨-೨೨, ೩-೮, ೧-೫೪-೩, ೧-೨೪-೧೪, ೨-೧-೬, ೧-೩೫-೭ legible (not individually zoomed at 450 dpi; the 2/7 glyph distinction relied on the loop-2 calibration). Quotes not re-read word by word."
+ },
+ {
+  "pdf": 336,
+  "printed": 316,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 5-42-1, 5-15-1, 2-30-3, 7-46-34 [?], 1-126-3 [?], 3-56-8, 8-20-17 [?], 8-96-9 (all with [?])",
+  "new": "5-42-1, 5-15-1, 2-30-3, 3-56-8, 8-96-9 (no [?]); 7-56-24 (as printed); 1-126-2 [?]; 8-20-12",
+  "note": "550dpi strips: ೭-೫೬-೨೪, ೧-೧೨೬-೨(?), ೩-೫೬-೮, ೮-೨೦-೧೨, ೮-೯೬-೯. The quotes (prukaprasaktro, atordhasaṃthā, durnasa-type words) agree with the file at 190dpi; the 'durnasa' item from the doubt note was not located in this band."
  }
 ]
