@@ -8741,7 +8741,7 @@ The *Phalgunī* are the lunar mansions of Indra; they are also associated with h
 
 > *kutsāya yatra puruhūta vanvañ chuṣṇam anantaiḥ pariyāsi vadhnaiḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 1-101-9) — and likewise in Ṛ. Saṃ. 1-63-3; 1-174-4 and other ṛks it is said that Indra helped Kutsa and killed Śuṣṇa for him. And —
+(Ṛ. Saṃ. 1-121-9 [?]) — and likewise in Ṛ. Saṃ. 1-63-3; 1-174-4 and other ṛks it is said that Indra helped Kutsa and killed Śuṣṇa for him. And —
 
 > अहं पितेव वेतसूरभिष्टये तुग्रं कुत्साय स्मदिभं च रन्धयम् ॥
 
