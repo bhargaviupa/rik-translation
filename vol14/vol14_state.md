@@ -17,3 +17,6 @@ Status: **in progress.** Translated through **printed p. 313 (PDF 332)** of ~961
 
 ## Direction change (Oct 31 2026)
 Translators now Sonnet; numerals from user-supplied files in `numerals/` (see `numerals/README.md`, `vol14_runbook.md` last section). Do not resume translating until numeral files for the next pages are present.
+
+## Sonnet pilot (user, Oct 31 2026)
+Pilot: Sonnet translators + supplied numeral files for the **next 100 pages** (printed pp. 314–413 = PDF 333–432). After that, review quality (IAST completeness, repeated text, reading accuracy against the Opus-era pages, numeral-file fit) and decide whether to continue. Start only when the numeral files for these pages are in `numerals/`.
