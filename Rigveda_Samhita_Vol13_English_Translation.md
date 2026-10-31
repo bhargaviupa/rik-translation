@@ -7878,7 +7878,7 @@ This hymn, Indra, is addressed to you. Lord of steeds, learn by it the way to ou
 
 > *pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya vā sadam ā jīradānavaḥ | pṛṣadaśvāso anavabhrarādhasa ṛjipyāso na vayuneṣu dhūrṣadaḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 2-34-4 [?]) — in such places *jīradānavaḥ* is an epithet of the Maruts; it means those who very swiftly accomplish the desired ends of the sacrificer. Likewise the compound words *jīrāśvaḥ*, *jīrāśvam* are epithets of the deities Agni and the rest.
+(Ṛ. Saṃ. 2-34-4) — in such places *jīradānavaḥ* is an epithet of the Maruts; it means those who very swiftly accomplish the desired ends of the sacrificer. Likewise the compound words *jīrāśvaḥ*, *jīrāśvam* are epithets of the deities Agni and the rest.
 
 Or these (*jīra*) may be epithets of their chariot.
 
@@ -7910,7 +7910,7 @@ So if *jīra* means "swift" and *dānu* means "gift", then in the ṛk at hand *
 
 > *pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya vā sadam ā jīradānavaḥ ‖*
 
-(Ṛ. Saṃ. 2-34-4 [?]);
+(Ṛ. Saṃ. 2-34-4);
 
 in such ṛks *jīradānavaḥ* is well known as an epithet of the Maruts. And
 
@@ -7918,7 +7918,7 @@ in such ṛks *jīradānavaḥ* is well known as an epithet of the Maruts. And
 
 > *vṛṣā na kruddhaḥ patayad rajaḥsvā yo aryapatnīr akṛṇod imā āpaḥ | sa sunvate maghavā jīradānave 'vindaj jyotir manave haviṣmate ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-43-7 [?]);
+(Ṛ. Saṃ. 10-43-8);
 
 in such ṛks the word is an epithet of the sacrificer who offers oblations and the like.
 
@@ -7934,7 +7934,7 @@ in such ṛks the word is an epithet of the sacrificer who offers oblations and 
 
 > *punar ehi vṛṣākape suvitā kalpayāvahai | ya eṣa svapnanaṃśano 'stam eṣi pathā punar viśvasmād indra uttaraḥ ‖*
 
-(Ṛ. Saṃ. 10-86-19 [?]) — in this ṛk the meaning given for the word *suvitā* is "well-produced, well-conducted (*suprasūtāni*, *supravṛttāni*)".
+(Ṛ. Saṃ. 10-86-21, as printed) — in this ṛk the meaning given for the word *suvitā* is "well-produced, well-conducted (*suprasūtāni*, *supravṛttāni*)".
 
 ### Printed p. 312  (PDF 332)
 
