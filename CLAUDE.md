@@ -49,3 +49,6 @@ Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~28
 
 ## Lessons for new volumes' set-up (Oct 30, 2026; details in `vol13/vol13_runbook.md`, last section)
 Do not run whole-volume Tesseract scans (20+ min; used only to locate). Read printed page numbers from header-strip contact sheets (`vol13/tools/numsheets.py`, header row located by ink profile, not a fixed fraction). Crops are whole-page fractions. Check a prompt's claims (e.g. "pages upside down") by eye before building tools. Confirm range numerals against the contents' word forms. Front matter has its own roman numbering. If `git checkout` fails on an LFS "should have been a pointer" file, use the `GIT_LFS_SKIP_SMUDGE=1 … checkout -f` recipe. Kill background jobs by PID.
+
+## Volume 14 (in progress, Oct 31 2026)
+Translated through printed p. 313 (PDF 332) of ~961; Sūktas 185–189 complete, 190 open at Ṛk 3. Output `Rigveda_Samhita_Vol14_English_Translation.md`; method/lessons `vol14/vol14_runbook.md`; status, open items and resume instructions `vol14/vol14_state.md`, `vol14/parts/session_state.md`, `vol14/CONTINUE_PROMPT.md`. Offset printed = PDF − 18 to PDF 222, **− 19 from PDF 224** (PDF 223 duplicates 222). Printed p. 288 needs a re-scan (right edge cut off).
