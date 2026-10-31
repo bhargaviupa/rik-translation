@@ -8244,11 +8244,11 @@ and in many other places, it is said that by Agni and the other deities, along w
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
 
-- ***pāhi*** — root *pā rakṣaṇe*; *loṭ*, second person singular; by "*ciḍādilope vibhāṣā*" (Pā. Sū. 8-1-63 [?]) *nighāta* is prohibited; thus *apit* is prescribed, being *udātta*, so the end syllable is *udātta*.
-- ***asura*** — root *asu kṣepaṇe*; by "*āsero uran*" (Uṇ. Sū. 1-42 [?]) the suffix *uran*; in the vocative, by "*āmantritasya ca*" (Pā. Sū. 8-1-19 [?]) *nighāta* is prohibited.
-- ***satpatiḥ*** — *satāṃ patiḥ satpatiḥ*; by "*patyāvaiśvaryeye*" (Pā. Sū. 6-2-18 [?]) the fore-member keeps its natural accent.
-- ***tarutraḥ*** — root *tṝ plavanataraṇayoḥ*; by "*aśitrādibhya itro*" (Uṇ. Sū. 4-… [?]) the latter suffix; by *vyatyaya* the first syllable is *udātta*. Or, from *grasitaskabhita*… (Pā. Sū. 7-2-34 [?]), by *nipātana*; by *vyatyaya* *jas* becomes *sup*; by "*saṃjñāpūrvako vidhir anityaḥ*" no guṇa; the substitution *yaṇ*; by *nit* accent the first syllable is *udātta*.
-- ***vasavānaḥ*** — root *vasa ācchādane*; the root has *ṇic* in its sense; to it *śānac* for *laṭ*; by "*bahulaṃ chandasi*" no *luk* for *śap*; by *vyatyaya* *va* for *m*; by "*tāsy anudāttet*" (Pā. Sū. 6-1-186 [?]) the *sārvadhātuka* *la* being *anudātta*, the root accent remains.
+- ***pāhi*** — root *pā rakṣaṇe*; *loṭ*, second person singular; by "*ciḍādilope vibhāṣā*" (Pā. Sū. 8-1-63) *nighāta* is prohibited; thus *apit* is prescribed, being *udātta*, so the end syllable is *udātta*.
+- ***asura*** — root *asu kṣepaṇe*; by "*āsero uran*" (Uṇ. Sū. 1-42) the suffix *uran*; in the vocative, by "*āmantritasya ca*" (Pā. Sū. 8-1-19) *nighāta* is prohibited.
+- ***satpatiḥ*** — *satāṃ patiḥ satpatiḥ*; by "*patyāvaiśvaryeye*" (Pā. Sū. 6-2-18) the fore-member keeps its natural accent.
+- ***tarutraḥ*** — root *tṝ plavanataraṇayoḥ*; by "*aśitrādibhya itro*" (Uṇ. Sū. 4-612 [?]) the latter suffix; by *vyatyaya* the first syllable is *udātta*. Or, from *grasitaskabhita*… (Pā. Sū. 7-2-34), by *nipātana*; by *vyatyaya* *jas* becomes *sup*; by "*saṃjñāpūrvako vidhir anityaḥ*" no guṇa; the substitution *yaṇ*; by *nit* accent the first syllable is *udātta*.
+- ***vasavānaḥ*** — root *vasa ācchādane*; the root has *ṇic* in its sense; to it *śānac* for *laṭ*; by "*bahulaṃ chandasi*" no *luk* for *śap*; by *vyatyaya* *va* for *m*; by "*tāsy anudāttet*" (Pā. Sū. 6-1-186) the *sārvadhātuka* *la* being *anudātta*, the root accent remains.
 - ***sahodāḥ*** — *sahaḥ balaṃ dadātīti sahodāḥ*; root *ḍudāñ dāne*; suffix *viṭ*; the *kṛdutta* final member keeps its natural accent. ‖ 1 ‖
 
 ---
