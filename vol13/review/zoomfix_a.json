@@ -390,5 +390,405 @@
   "old": "Pā. 8-1-63, 8-1-19, 6-2-18, 7-2-34, 6-1-186 [?]; Uṇ. 1-42 [?], 4-… [?]",
   "new": "same without [?]; Uṇ. 4-612 [?]",
   "note": "220dpi page view: numerals legible; the Uṇ. ref for tarutra reads ೪-೬೧೨ with doubt; the explanation text (aśitrādibhya…, grasitaskabhita…, saṃjñāpūrvako…) agrees with print."
+ },
+ {
+  "pdf": 350,
+  "printed": 330,
+  "status": "resolved",
+  "old": "ज्योतिराचित्रः; सवायँ एवा; Ṛ.Saṃ. 1-113-1 [?]",
+  "new": "ज्योतिरागाच्चित्रः; सवाय एवा; 1-113-1",
+  "note": "190dpi: print ಜ್ಯೋತಿರಾಗಾಚ್ಚಿತ್ರಃ … ಸವಾಯ ಏವಾ; ref ೧-೧೧೩-೧. Not resolved: Ni. 3-4 [?] (print ನಿ.೩?-೧೩? / ೨-೧೨? — the first and last digit are the same looped glyph, can't tell 2 or 3); kept [?]."
+ },
+ {
+  "pdf": 351,
+  "printed": 331,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-164-32, 1-65-2, 5-21-4, 1-66-3, 1-144-4, 1-140-1 [?]; Ni. 2-8 [?]; Ni. 1-12 [?]",
+  "new": "refs without [?]; Ni. 2-24 (as printed) [?]",
+  "note": "190dpi whole page + 650dpi zoom on the Nirukta ref after the 'water names' (reads ೨-೨೪, not 1-12). Quotes agree with the file at 190dpi."
+ },
+ {
+  "pdf": 352,
+  "printed": 332,
+  "status": "resolved",
+  "old": "Ni. 2-… [?]; Ni. 3-… [?]; Ṛ.Saṃ. 10-65-13 [?]; सावीर्वी",
+  "new": "Ni. 3-11 (as printed); Ni. 2-13 (as printed); 10-65-13; पावीरवी",
+  "note": "700dpi, compared side by side with the page header (Anuvāka 23 = round '2' + hooked '3'): the vajra-names ref begins with the hooked 3-glyph (3-11), the speech-names ref with the round 2 (2-13). CALIBRATION WARNING: the hooked 3-glyph (looks like ‘ಖ’) can be mistaken for 2; earlier entries in this file where I read ‘2’ from a hooked glyph need a re-check (see recheck list below)."
+ },
+ {
+  "pdf": 353,
+  "printed": 333,
+  "status": "unresolved",
+  "old": "grammar sutra numerals small type; śeṣan note",
+  "new": "(not changed)",
+  "note": "Skipped by the cost rule (small-type numerals; 2/3 glyph confusion found on p.332 makes un-zoomed reads unsafe). Left [?]."
+ },
+ {
+  "pdf": 354,
+  "printed": 334,
+  "status": "resolved",
+  "old": "तद्वन्तौ सततगामिनौ; Pā. 6-1-173 [?], 8-2-36 [?]",
+  "new": "तदिच्छन्तौ सततगामिनौ; refs without [?]",
+  "note": "230dpi: Saṃhitā/Pada print ऋज्रा (ṛjrā) — confirmed, 'ṛjugra' not supported; bhāṣya line compared; ತದಿಚ್ಛಂತೌ."
+ },
+ {
+  "pdf": 355,
+  "printed": 335,
+  "status": "resolved",
+  "old": "तत्सखा इन्द्रः; Ni. 3-11 [?]",
+  "new": "तत्सख इन्द्रः (print ತತ್ಸಖ); Ni. 3-11",
+  "note": "200dpi: quote re-read (ತತ್ರ ಕುತ್ಸ ಇತ್ಯೇತತ್ ಕೃಂತತೇಃ …); ref ೩-೧೧ with the hooked 3-glyph."
+ },
+ {
+  "pdf": 356,
+  "printed": 336,
+  "status": "resolved",
+  "old": "Śa.Brā. 5-4-1-2 [?]; refs 4-26-1, 7-19-2, 4-31-11, 2-1-2-11 [?]; tā etekat parokṣam",
+  "new": "Śa.Brā. 5-4-3-2; refs without [?]; tā etat parokṣam",
+  "note": "190/650dpi: ೫-೪-೩-೨ (hooked 3), ೨-೧-೨-೧೧ (printed ‘೨ ೧-೨-೧೧’), ೪-೨೬-೧, ೭-೧೯-೨, ೪-೩೧-೧೧; quote ‘etat parokṣam’."
+ },
+ {
+  "pdf": 357,
+  "printed": 337,
+  "status": "resolved",
+  "old": "वेतसून् [?] भिष्टये; Ṛ.Saṃ. 1-101-9, 1-63-3, 1-174-…, 10-49-4, 1-53-10, 8-53-2 [?]",
+  "new": "वेतसूरभिष्टये; refs without [?]; 1-174-4",
+  "note": "190dpi: print ವೇತಸೂರಭಿಷ್ಟಯೇ; refs legible (1-174-4 read ೧-೧೭೪-೪)."
+ },
+ {
+  "pdf": 358,
+  "printed": 338,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 10-86-23 [?]; जहि भिन्धि",
+  "new": "10-86-23; जहि भिन्दि",
+  "note": "190dpi: ೧೦-೮೬-೨೩; print ಜಹಿ, ಭಿಂದಿ. Not resolved: the Nirukta follow-up ‘tam agamuddeśaṃ janayopanaḥ sarvasmād ya uttare …’ (print …ಉತೇರತ್ರ… ತದ್ಭ್ರ…, garbled/unclear) left as is."
+ },
+ {
+  "pdf": 359,
+  "printed": 339,
+  "status": "resolved",
+  "old": "Ni. 3-… [?]; Ṛ.Saṃ. 10-29-1 [?]; Ni. 3-20 [?]",
+  "new": "Ni. 2-13 [?]; 10-29-1; Ni. 3-20",
+  "note": "200dpi: quote ‘vane na vā yo nyadhāyi cākañ chucir vā …’ agrees with print; refs read (2/3 by the round-vs-hooked glyph rule; Ni. 2-13 kept [?]). Durgācārya explanation not re-read."
+ },
+ {
+  "pdf": 360,
+  "printed": 340,
+  "status": "resolved",
+  "old": "Ni. 2-… [?], 2-11 [?]; Ṛ.Saṃ. 1-61-6, 5-31-4, 1-121-12, 8-100-9 [?]",
+  "new": "Ni. 3-9; Ni. 3-11; refs without [?]",
+  "note": "190dpi: battle-names ref ೩-೯ and vajra ref ೩-೧೧ both begin with the hooked 3-glyph (the vajra ref also read 3-11 on p.332). IMPORTANT: this shows that the hooked glyph followed by ೯ in the Nirukta refs on pp.280/281/306/309 is 3-9, not 2-9 — see recheck note."
+ },
+ {
+  "pdf": 0,
+  "printed": 280,
+  "status": "resolved",
+  "old": "Ni. 2-9 [?] (p.280, battle names)",
+  "new": "Ni. 3-9 [?]",
+  "note": "Recheck after the p.332/p.340 calibration: the glyph before ‘-೯’ is the hooked 3 (as in the vajra ref ೩-೧೧ and battle ref ೩-೯ on p.340)."
+ },
+ {
+  "pdf": 0,
+  "printed": 281,
+  "status": "resolved",
+  "old": "Ni. 2-7 [?] (food names), first Ni. 2-17 [?] (battle names)",
+  "new": "Ni. 3-9 [?]; Ni. 3-9 [?]",
+  "note": "Same recheck as p.280; the second ‘2-17’ on p.281 and ‘3-16’ not re-viewed."
+ },
+ {
+  "pdf": 0,
+  "printed": 306,
+  "status": "resolved",
+  "old": "Ni. 2-10 [?] (dhana names), Ni. 2-17 [?] (mīḷhe, battle names)",
+  "new": "Ni. 3-9 [?]; Ni. 3-9 [?]",
+  "note": "Same recheck: both prints read hooked-3 ‘-೯’ at 650dpi earlier; earlier I wrote that the print did not match 2-10/2-17."
+ },
+ {
+  "pdf": 0,
+  "printed": 309,
+  "status": "resolved",
+  "old": "Ni. 2-9 [?] (jīra, kṣipra names)",
+  "new": "Ni. 3-9 [?]",
+  "note": "Same recheck (hooked 3 before ‘-೯’)."
+ },
+ {
+  "pdf": 0,
+  "printed": 323,
+  "status": "resolved",
+  "old": "(my earlier edit) Ṛ.Saṃ. 1-63-2",
+  "new": "Ṛ.Saṃ. 1-63-7 [?] (restored)",
+  "note": "Revised: three digit glyphs exist (round 2, hooked 3, flat 7); the last digit of this ref looked like the flat one, and my earlier ‘2’ rested only on the bhāṣya’s ref for the same ṛk, so the original reading is restored with [?]. Same on p.324."
+ },
+ {
+  "pdf": 362,
+  "printed": 342,
+  "status": "resolved",
+  "old": "मित्रेरून् मित्राणां द्रावयितॄन् [?] यजमानानामारयितॄन्पाधकान् [?]",
+  "new": "मित्रेरून् मित्राणां यजमानानामारयितॄन्पाधकान्",
+  "note": "230dpi: the print has no ‘drāvayitṝn’ between mitrāṇām and yajamānānām; ‘pādhakān’ legible. ‘tvayopetaṃ’ vs ‘tvayopatyaṃ’ unresolved (print ತ್ವಯೋಪ…ತ್ಯಂ)."
+ },
+ {
+  "pdf": 361,
+  "printed": 341,
+  "status": "resolved",
+  "old": "Uṇ. 2-… [?]; Pā. 7-1-39, 3-2-76, 3-4-6 [?]",
+  "new": "Uṇ. 2-186; refs without [?]",
+  "note": "190/700dpi: ೨-೧೮೬ (round 2), ೭-೧-೩೯, ೩-೨-೭೬, ೩-೪-೬ legible; ṛjrā/vṛhatāt/spṛdhaḥ/yāsiṣat headwords agree with the file."
+ },
+ {
+  "pdf": 363,
+  "printed": 343,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 10-64-5 [?]; Ni. 3-9 [?]",
+  "new": "10-64-5; Ni. 3-9",
+  "note": "190dpi: quote ‘dakṣasya vādite janmani vrate …’ agrees with print; refs ೧೦-೬೪-೫ and ನಿ.೩-೯ (hooked 3). Durgācārya passage not re-read."
+ },
+ {
+  "pdf": 364,
+  "printed": 344,
+  "status": "resolved",
+  "old": "Śatapatha quote ‘urvaśy asīty ai dhotror…’ (garbled); Śa.Brā. 3-4-1-20 [?], 7-2-1-15 [?]",
+  "new": "urvaśy asīty athottarāraṇy-ājyavilāpanīm upaspṛśaty āyur asīti … patir atha yat tasmān mithunād ajāyeta tad āyur evam evaiṣa …; refs without [?]",
+  "note": "190dpi re-read of the quote against the print (ಉರ್ವಶ್ಯಸೀತ್ಯಥೋತ್ತರಾರಣ್ಯಾಜ್ಯವಿಲಾಪನೀಮುಪಸ್ಪೃಶತ್ಯಾಯುರಸೀತಿ …); a few letters (yat tasmān) still doubtful. Other Satapatha refs (13-5-…) and the Ṛg refs lower on the page were not viewed."
+ },
+ {
+  "pdf": 364,
+  "printed": 344,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-162-1, 1-96-2; Śa.Brā. 13-5-1-18; list 1-53-10; 8-15-5; 8-53-2; 2-3-2 (all [?])",
+  "new": "same without [?]",
+  "note": "190dpi lower half of the page: refs legible (first digit of 2-3-2 is the round 2). The logged ‘7-2-1-15?’ was read as ೭-೨-೧-೧೫ in the upper half."
+ },
+ {
+  "pdf": 365,
+  "printed": 345,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 2-2-8, 2-4-2, 5-7-6 [?]; Ni. 2-… [?] (śūrtāḥ); Ni. 3-2 [?]",
+  "new": "refs without [?]; śūrtāḥ: no reference printed; Ni. 3-2",
+  "note": "190dpi: ೨-೨-೮, ೨-೪-೨, ೫-೭-೬, ನಿ.೩-೨ legible; no number printed after the ‘kṣipra names’ remark. ‘astaṃ’ in the third quote (print ಮಸ್ತ್ರ…) and the Durgācārya apatya text (second entry for this page, y .45–.55) not compared word by word."
+ },
+ {
+  "pdf": 367,
+  "printed": 347,
+  "status": "resolved",
+  "old": "Pada ‘iti kaḥ [?]’; bhāṣya ‘krāntenocāno vā [?]’, ‘prāṇyupakṣayitre’, ‘cāyanīyāḥ [?]’",
+  "new": "Pada ‘kar iti kaḥ’ (print ಕರಿತಿ ಕಃ); ‘krāntadarśy anūcāno vā’; ‘prāṇyupakṣapayitre’; ‘cāyanīyāḥ’",
+  "note": "230dpi: Pada and bhāṣya of Ṛk 7 compared line by line. Not resolved: ‘nimittabhūte sati/pati rapat’ (print letter ಪ/ಸ unclear), ‘karoter luñ/luṅ’; ‘durpayonau’ looks right (ದುಷ್ಪಯೋನೌ) and is unchanged."
+ },
+ {
+  "pdf": 369,
+  "printed": 349,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 1-10-1 [?]; Ni. 2-19 [?]; Ni. 2-10 [?] (magha = wealth names)",
+  "new": "1-10-1; Ni. 2-19; Ni. 3-9",
+  "note": "190dpi: ೧-೧೦-೧, ನಿ.೨-೧೯, and the wealth-names ref reads ನಿ.೩-೯ (hooked 3). The arka/arkin Nirukta quotes at the top not compared word by word."
+ },
+ {
+  "pdf": 370,
+  "printed": 350,
+  "status": "resolved",
+  "old": "grammar numerals Pā. 6-4-75, 1-3-7, 2-4-80 [?]; Uṇ. 5-… [?]",
+  "new": "Pā. refs without [?]; Uṇ. 5-… left [?]",
+  "note": "190dpi page view: ೬-೪-೭೫, ೧-೩-೭, ೨-೪-೮೦ legible; the Uṇ. number (೫-೬೮?) too small/unclear."
+ },
+ {
+  "pdf": 372,
+  "printed": 352,
+  "status": "resolved",
+  "old": "सनातनानि; ‘नभो हिंसा [?]’; अभ्यैभवः; तथादेवस्यासुरस्य…; हिंसकान्धकाराणान्; नूतना … सत्यै",
+  "new": "सदातनानि; नभो हिंसाः ॥ नभेर्हिंसार्थात्क्विस् । तदन्तस्येदं रूपम्; अभ्यभवः; तथादेवस्यास्तुत्यस्य पीयोर्हिंसकस्यासुरस्य; हिंसकान्धकारान्; नूत्नाः … सत्य",
+  "note": "230dpi: Ṛk 8 bhāṣya compared line by line with the print (ಸದಾತನಾನಿ, ನಭೇರ್ಹಿಂಸಾರ್ಥಾತ್ಕ್ವಿಸ್, ಅಭ್ಯಭವಃ, ಅಸ್ತುತ್ಯಸ್ಯ, …). The Pratipadārtha (second entry) is legible in the same view and agrees in substance (ana/nabhaḥ = ‘nabhaḥ — hiṃsegaḷannu’); not re-translated."
+ },
+ {
+  "pdf": 372,
+  "printed": 352,
+  "status": "resolved",
+  "old": "Ṛk 8 Pratipadārtha: ‘ā aguḥ — they approach’; ‘adevasya — of the hostile one’",
+  "new": "‘ā aguḥ — (the sages …) undergo (experience)’; ‘adevasya — of the unpraiseworthy one’",
+  "note": "230dpi: print ಆ ಅಗುಃ—(ಋಷಿಗಳು ಸ್ತುತಿವ್ಯಾಜದಿಂದ) ಅನುಭವಿಸುತ್ತಾರೆ; ಅದೇವಸ್ಯ—ಅಸ್ತುತ್ಯನೂ. Rest of the rendering matches the print."
+ },
+ {
+  "pdf": 374,
+  "printed": 354,
+  "status": "resolved",
+  "old": "grammar numerals Pā. 6-1-70, 2-4-43, 2-4-77, 3-4-110, 6-1-96, 6-4-75, 6-2-2 [?]; Uṇ. 1-… [?]",
+  "new": "Pā. refs without [?] (3-4-110 → 3-4-100); Uṇ. 1-36 [?]",
+  "note": "190dpi page view: numerals legible; ‘ātaḥ’ ref prints ೩-೪-೧೦೦ (not 110)."
+ },
+ {
+  "pdf": 375,
+  "printed": 355,
+  "status": "resolved",
+  "old": "तद्वत्क्षन्तेतः [?]; आपालयः; पूरयसि । उदकं; ऋ. ५-३१-८ [?]",
+  "new": "तद्वत्सन्तता; अपालयः; पूरयस्युदकं; ऋ. ५-३१-८",
+  "note": "190/650dpi: print ತದ್ವತ್ಸಂತತಾ ಇತ್ಯರ್ಥಃ, ಅಪಾಲಯಃ, ಪೂರಯಸ್ಯುದಕಂ; ref ೫-೩೧-೮. ‘jalapratirodhakāry asuraḥ’ agrees. The Rg ref of the second entry (Rik 9 …) in the upper part was not viewed."
+ },
+ {
+  "pdf": 376,
+  "printed": 356,
+  "status": "resolved",
+  "old": "Ni. 5-12 [?]; Ni. 1-24 [?] (dhunayaḥ); Ni. 1-… [?] (sravantyaḥ); heading ‘| tadvat’; Ṛ.Saṃ. 5-31-8 [?]",
+  "new": "Ni. 5-12; Ni. 3-24 (both river-name refs); ‘tadvat saṃgatāḥ’; 5-31-8",
+  "note": "190dpi: ನಿ.೫-೧೨, ನಿ.೩-೨೪ (twice; hooked 3 + round 2); the heading in print ends ತದ್ವತ್ಸಂಗತಾಃ. Svasti Nirukta passage (lower part of page) not re-read."
+ },
+ {
+  "pdf": 377,
+  "printed": 357,
+  "status": "resolved",
+  "old": "‘rekṇasvatī svastīr dhanavaty’; ‘gopāyetti’; Ṛ.Saṃ. 10-63-16 [?]; Ni. 11-44 [?]",
+  "new": "‘rekṇasvatī dhanavaty’; ‘gopāyatīti’; 10-63-16; Ni. 11-44",
+  "note": "190dpi: Nirukta passage re-read (ರೇಕ್ಣಸ್ವತೀ ಧನವತ್ಯಭ್ಯೇತಿ …, ಗೋಪಾಯತ್ಯಿತಿ); refs ೧೦-೬೩--೧೬ (double hyphen in print) and ೧೧-೪೪."
+ },
+ {
+  "pdf": 378,
+  "printed": 358,
+  "status": "resolved",
+  "old": "विद्वा [?]; …स्पर्धानिमित्तानामुत्कृष्टानां; अपरो नृपभोद्देऽनुवादः [?]",
+  "new": "यद्वा; …स्पर्धानिमित्तानामस्मत्सेनानां; अपरो नृशब्दोद्द्यनुवादः [?] (print ನೃಶಬೋದ್ದ್ಯನುವಾದಃ, kept [?])",
+  "note": "230dpi: Ṛk 10 Pada and bhāṣya re-read; ‘sahodās tā-sāmarthyai’ (print ಸಹೋದಾಸ್ತಾ-ಸಾಮರ್ಥ್ಯ್ಯೈ) still unclear; ‘putratyādi’ (print) vs file ‘putratvādi’ not decided."
+ },
+ {
+  "pdf": 379,
+  "printed": 359,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 10-15-1 [?]",
+  "new": "10-15-1",
+  "note": "190dpi: ೧೦-೧೫-೧ legible; the quote and the Nirukta/Durgācārya passage agree with the file. Printed English on this page ('Be Indra, at all times our especial defender, the “preserver” of our people…') seen; not compared word by word."
+ },
+ {
+  "pdf": 381,
+  "printed": 361,
+  "status": "resolved",
+  "old": "Header/Varga 18 [?]; त्रयोदशानाम्; द्वितीयश्चैन्यं कुसारिण्यरो…; त्रितीविशेषवचनेनाप्येदित…; स्वरसाम्न्यादृ ऋचः; ā. 8 5 [?]",
+  "new": "Varga 18; त्रयाणाम्; द्वितीयश्चेन्न्यङ्कुसारिण्युरोबृहती [?]; त्विति विशेषवचनेनापोदित… [?]; स्वरसाम्न्याद्यस्त्र्यृचः; ā. 8-5",
+  "note": "200dpi: whole Anukramaṇikā block compared with the page: header/heading read ವ.೧೮; the Kannada prose below confirms three other feet of eight syllables (trayāṇām) and ‘nyaṅkusāriṇī bṛhatī’. Some letters remain [?]. (Replacements applied to every occurrence in the page section, including the quotation in the Anuvāda.)"
+ },
+ {
+  "pdf": 382,
+  "printed": 362,
+  "status": "resolved",
+  "old": "यतेः पिबसि आतो मत्सि; …संभजनसमर्थोऽशक्त्यतिशयो",
+  "new": "यतः पिबसि अतो मत्सि; …संभजनपर्याप्तशक्त्यतिशयो",
+  "note": "220dpi: Ṛk 1 bhāṣya compared with the page. Not resolved: ‘annaṃ vā yady atṛptisadbhāvād annavān ity ucyate [?]’ (print ಅನ್ನವಾ…ಯರ್ಯತೃಪ್ತಿಸದ್ಭಾವಾದನ್ನವಾನಿತ್ಯುಚ್ಯತೇ — the middle letters are hooked ya/ma, can't decide)."
+ },
+ {
+  "pdf": 383,
+  "printed": 363,
+  "status": "resolved",
+  "old": "Āś.Śrau. 8-5 [?]; Aitareya quote ‘…svarasāmabhis tṛṇvanti svarasāmatvaṃ’",
+  "new": "Āś.Śrau. 8-5; ‘…svarasāmabhis tṛṇvaṃs tat svarasāmnāṃ svarasāmatvaṃ’",
+  "note": "190dpi page view: ref ಆ.ಶ್ರೌ.೮-೫; Aitareya quote re-read (ಸ್ವರಸಾಮಭಿಸ್ತೃಣ್ವಂಸ್ತತ್ಸ್ವರಸಾಮ್ನಾಂ ಸ್ವರಸಾಮತ್ವಂ). The Ai.Brā. number (೪-೧೮ or ೪-೧೯) could not be isolated in a zoom (crop missed) — left [?]."
+ },
+ {
+  "pdf": 384,
+  "printed": 364,
+  "status": "resolved",
+  "old": "Aitareya quote: ‘avastād yat tabhnuvan’, ‘parastāt tabhnuvan’, ‘pañcadaśā bhavanti’",
+  "new": "‘avastāt pratyuttabhnuvan’, ‘parastāt pratyuttabhnuvan’, ‘saptadaśā bhavanti’",
+  "note": "190dpi: print ಅವಸ್ತಾತ್ಪ್ರತ್ಯುತ್ತಭ್ನುವನ್ … ಪರಸ್ತಾತ್ಪ್ರತ್ಯುತ್ತಭ್ನುವನ್ … ಸಪ್ತದಶಾ ಭವಂತಿ. Haug's English paragraph (with Devanagari glyphs ‘svṛṇā’, ‘satra’) not re-checked; the English gloss below the quote (‘15-fold’) should read 17-fold in the sūtra sense — left as is. Ref ‘4-18’ left [?] (print ೪-೧೮/೪-೮೧ unclear)."
+ },
+ {
+  "pdf": 385,
+  "printed": 365,
+  "status": "resolved",
+  "old": "Aitareya quote: pratnayonād; praviśyeran; avastād yaparṣan; parastāt tryabhijit; Ai.Brā. 4-19 [?]; Śa.Brā. 8-1-1-8 [?]; svāraṃsāma",
+  "new": "pralayād; pravilīyeran; avastāt paryārṣan; parastāt tad yad abhijit; refs without [?]; svāragṃsāma",
+  "note": "190dpi page view (ಪ್ರಲ್ಲಯೋದಬಿಭಯುಃ … ಪ್ರವಿಲ್ಲಯೇರನ್ … ಪರ್ಯಾರ್ಷನ್ … ; ಸ್ವಾರಗ್ಂಸಾಮ; refs ೪-೧೯, ೮-೧-೧-೮). Hooked ya/ma glyphs leave doubt in ‘pralayād’/‘pravilīyeran’; the Kannada gloss (‘ಅವಲಂಬನವಿಲ್ಲದೇ ಪತನವನ್ನು ಹೊಂದಬಹುದೆಂಬ ಭಯ’) supports a falling/dissolving sense."
+ },
+ {
+  "pdf": 386,
+  "printed": 366,
+  "status": "resolved",
+  "old": "Śa.Brā. 12-1-2-2 [?], 12-1-2-13 [?], 12-1-4-2 [?]; pādābhyāṃ hi prayanti",
+  "new": "same refs without [?]; pādābhyāgṃ hi prayanti",
+  "note": "190dpi: ೧೨-೧-೨-೨, ೧೨-೧-೨-೧೩, ೧೨-೧-೪-೨ legible; quotes agree otherwise. (The page's own printed folio reads 366 in the header.)"
+ },
+ {
+  "pdf": 387,
+  "printed": 367,
+  "status": "resolved",
+  "old": "Eggeling quote with Devanagari glyphs (reproduced as printed; verify words)",
+  "new": "(no change)",
+  "note": "190dpi: the English passage (‘स्वारसामन्’ … Sacred Books of the East. Vol. XLIII. P. 6-7) and its Devanagari glyphs (निधन, स्वरित, स्वार, स्वरनिधन, पंचविंशब्राह्मण, पदानुस्वाराणि, हायिकारस्वराणि) agree with the file; the file's wording ‘takes the plan of the finale’ is as printed."
+ },
+ {
+  "pdf": 388,
+  "printed": 368,
+  "status": "resolved",
+  "old": "grammar numerals: Pā. 8-4-55 [?] (khari ca), 3-3-132, 3-3-67, 3-2-67 [?]; Uṇ. 3-… [?], 1-… [?]",
+  "new": "khari ca: no number printed; 3-3-132, 3-3-67, 3-2-67 without [?]; Uṇ. 3-353 [?], Uṇ. 1-2 [?]",
+  "note": "190dpi full-column view: sutra numbers legible except the Uṇ. ones (kept [?]); the ‘āto yuk ciṇkṛtoḥ’ (7-3-33) and ‘ciṇo luk’ (6-4-104) lines are not in this file's entry for the page (‘apāyi’ line) and were left."
+ },
+ {
+  "pdf": 389,
+  "printed": 369,
+  "status": "resolved",
+  "old": "Pada: सहस्वान् [?] / sahasvān [?]",
+  "new": "सहऽवान् / saha-vān",
+  "note": "230dpi: Pada prints ಸಹ್ಯ್ವಾನ್ — the small subscript is this Pada's compound-division mark (cf. ಅರ್ಕ್ಯ್ಸಾತೌ = arka-sātau), so the word is saha-vān, matching Saṃhitā sahāvān; no ‘sahsvān’/‘sahasvān’."
+ },
+ {
+  "pdf": 390,
+  "printed": 370,
+  "status": "resolved",
+  "old": "Ni. 2-17 [?] (twice); Ṛ.Saṃ. 3-29-9, 3-49-2, 3-16-2 [?]",
+  "new": "Ni. 3-9 (both: battle names); refs without [?]",
+  "note": "190dpi page view: battle-names refs read ನಿ.೩-೯ (hooked 3, as on p.340); ಋ.ಸಂ.೩-೨೯-೯, ೩-೪೯-೨, ೩-೧೬-೨. Quotes agree with the file."
+ },
+ {
+  "pdf": 391,
+  "printed": 371,
+  "status": "resolved",
+  "old": "Ni. 2-25 [?]",
+  "new": "Ni. 2-25",
+  "note": "190dpi: ನಿ.೨-೨೫ (round 2s); quote ‘matsaraḥ somo mandates tṛptikarmaṇaḥ’ agrees with the file."
+ },
+ {
+  "pdf": 392,
+  "printed": 372,
+  "status": "resolved",
+  "old": "…योगाधिकारी सन् योनि न यजते; …मकर्माणमनुष्ठायिनमोषः",
+  "new": "…योगाधिकारी सन् यो न यजते; …मकर्माणमननुष्ठायिनमोषः",
+  "note": "200dpi: print ಯೋಗಾಧಿಕಾರೀ ಸನ್ಯೋ ನ ಯಜತೇ ತಂ ದಹೇತ್ಯರ್ಥಃ; ಅಕರ್ಮಾಣಮನನುಷ್ಠಾಯಿನಂ."
+ },
+ {
+  "pdf": 393,
+  "printed": 373,
+  "status": "resolved",
+  "old": "‘sthiratevā’ [as read: [?]]; ‘ramaṇāmo’; Ni. 9-12 [?]; Ṛ.Saṃ. 6-47-26 [?]",
+  "new": "‘sthiratervā’; ‘ramaṇo ’smiṃs…’; Ni. 9-12; 6-47-26",
+  "note": "190dpi: Nirukta passage re-read (ರಥೋ ರಂಹತೇರ್ಗತಿಕರ್ಮಣಃ ಸ್ಥಿರತೇರ್ವಾ ಸ್ಯಾದ್ವಿಪರೀತಸ್ಯ … ರಮಣೋऽಸ್ಮಿಂಸ್ತಿಷ್ಠತೀತಿ ವಾ ರಪತೇರ್ವಾ ರಸತೇರ್ವಾ); refs ೯-೧೨ and ೬-೪೭-೨೬ legible (hooked ma glyph in ‘ramaṇo’)."
+ },
+ {
+  "pdf": 394,
+  "printed": 374,
+  "status": "resolved",
+  "old": "Ni. 2-9 [?] (sahaḥ = strength names); Ṛ.Saṃ. 10-178-1 [?]; Ni. 7-23 [?]",
+  "new": "Ni. 3-9; 10-178-1; Ni. 7-23",
+  "note": "190dpi: ನಿ.೩-೯ (hooked 3, as on p.340), ಋ.ಸಂ.೧೦-೧೭೮-೧, ನಿ.೭-೨೩. WARNING for the whole file: other ‘(Ni. 2-9)’ references for ‘names of strength/wealth/battle’ (e.g. at lines for taviṣī, rādhaḥ, śavas, vṛjana, cyautna) may likewise be printed ೩-೯ — they were not re-checked. Ni. 7-15 (lower on the page) not viewed."
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 6-18-3 [?], 6-45-24 [?]",
+  "new": "6-18-3, 6-45-24",
+  "note": "190dpi: ೬-೧೮-೩ and ೬-೪೫-೨೪ legible; both quotes agree with the file (quote readings not marked)."
+ },
+ {
+  "pdf": 396,
+  "printed": 376,
+  "status": "resolved",
+  "old": "bhāṣya Rik 4: ‘ekanemi [?]’; ṛ. 5-29-10 [?]; ṛ. 1-106-6 [?]; ṛ. 4-16-12 [?]",
+  "new": "ekanemi; ṛ. 5-29-10; ṛ. 1 51. 6 [?] (as printed ‘ಋ. ೧ ೫೧. ೬’); ṛ. 4-16-12",
+  "note": "220dpi: bhāṣya of Ṛk 4 compared line by line; the second citation prints ೧ ೫೧. ೬ (no hyphen after the 1), not 1-106-6."
+ },
+ {
+  "pdf": 397,
+  "printed": 377,
+  "status": "resolved",
+  "old": "Śruti quote ‘yo vā anūcānās te kavayaḥ’ [?]; Ni. 3-15 [?]; Ni. 12-13 [?]",
+  "new": "quote without [?]; Ni. 3-15; Ni. 12-13",
+  "note": "190dpi: ‘ಯೋ ವಾ ಅನೂಚಾನಾಸ್ತೇ ಕವಯಃ’; refs ನಿ.೩-೧೫ (hooked 3) and ನಿ.೧೨-೧೩ legible; Nirukta quote ‘medhāvī kaviḥ krāntadarśano bhavati kavater vā’ agrees."
  }
 ]
