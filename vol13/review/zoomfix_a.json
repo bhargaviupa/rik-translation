@@ -6,5 +6,21 @@
   "old": "प्रकृष्टमार्गेतमं [?]",
   "new": "प्रकृष्टमार्गतमं",
   "note": "zoom shows ಪ್ರಕೃಷ್ಟಮಾರ್ಗತಮಂ (prakṛṣṭamārgatamaṃ); prapathintamaṃ and urūṇy atiprabhūtāni confirmed"
+ },
+ {
+  "pdf": 300,
+  "printed": 280,
+  "status": "resolved",
+  "old": "Ni. 2-17 [?]; Ni. 9-17 [?]; Ṛ. Saṃ. 6-75-14 [?]; Ni. 10-8 [?]",
+  "new": "Ni. [2 or 7]-9 [?]; Ni. 9-12; Ṛ. Saṃ. 6-75-12; Ni. 10-8",
+  "note": "zoom 800dpi: printed ನಿ.೨-೯ (second digit curled-top, read 9, kept [?]); ೯-೧೨ (last digit = curled 2); ಋ.ಸಂ.೬-೭೫-೧೨; ೧೦-೮. Quote ā jaṅghanti confirmed. Revised after p.281 zoom: the first digit of the Nirukta 'battle names' ref is a flat-footed 2-like glyph (2 vs 7 undecided), second 9."
+ },
+ {
+  "pdf": 301,
+  "printed": 281,
+  "status": "unresolved",
+  "old": "Ni. 2-7 [?], 2-17 [?], 11-12 [?], 3-16 [?]",
+  "new": "Ni. 11-12 (confirmed ೧೧-೧೨)",
+  "note": "food-names and battle-names refs both look like a flat-footed '2/7'-glyph followed by ೯ (2-9 or 7-9?); cannot decide 2/7 or reconcile with file's 2-7/2-17; left [?]. 3-16 not viewed."
  }
 ]
