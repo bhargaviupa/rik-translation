@@ -238,5 +238,13 @@
   "old": "Ṛ.Saṃ. 5-… [?]; 1-118-1 [?]; 10-120-6 [?]",
   "new": "2-34-4 [?] (first digit the same loop-glyph as in other '2' refs; [?] kept); 1-118-1; 10-120-6",
   "note": "700dpi/190dpi: ೨?-೩೪-೪, ೧-೧೧೮-೧, ೧೦-೧೨೦-೬. Quotes not re-read."
+ },
+ {
+  "pdf": 331,
+  "printed": 311,
+  "status": "resolved",
+  "old": "Ṛ.Saṃ. 2-34-4 [?]; 10-43-7 [?]; 10-86-19 [?]; (5-57-1 [?] kept)",
+  "new": "2-34-4; 10-43-8; 10-86-21 (as printed); 5-57-1 [?] unchanged",
+  "note": "650dpi: ೨-೩೪-೪, ೧೦-೪೩-೮, ೧೦-೮೬-೨೧ read; ೫-೫(೭/೨?)-೧ middle digit 2 vs 7 undecided so [?] kept. p.310's 2-34-4 also confirmed here (same ref printed)."
  }
 ]
