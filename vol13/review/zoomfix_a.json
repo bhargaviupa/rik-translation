@@ -518,5 +518,13 @@
   "old": "(my earlier edit) Ṛ.Saṃ. 1-63-2",
   "new": "Ṛ.Saṃ. 1-63-7 [?] (restored)",
   "note": "Revised: three digit glyphs exist (round 2, hooked 3, flat 7); the last digit of this ref looked like the flat one, and my earlier ‘2’ rested only on the bhāṣya’s ref for the same ṛk, so the original reading is restored with [?]. Same on p.324."
+ },
+ {
+  "pdf": 362,
+  "printed": 342,
+  "status": "resolved",
+  "old": "मित्रेरून् मित्राणां द्रावयितॄन् [?] यजमानानामारयितॄन्पाधकान् [?]",
+  "new": "मित्रेरून् मित्राणां यजमानानामारयितॄन्पाधकान्",
+  "note": "230dpi: the print has no ‘drāvayitṝn’ between mitrāṇām and yajamānānām; ‘pādhakān’ legible. ‘tvayopetaṃ’ vs ‘tvayopatyaṃ’ unresolved (print ತ್ವಯೋಪ…ತ್ಯಂ)."
  }
 ]
