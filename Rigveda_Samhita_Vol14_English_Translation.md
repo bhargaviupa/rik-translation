@@ -10936,4 +10936,142 @@ Priests, augment by your hymns Brihaspati, who deserts not (his worshipper) ; th
 
 ---
 
-**Progress note:** Done through printed p. 307 (PDF 326; printed = PDF − 19, pp. 296–307 checked, no duplicate or missing page). Sūkta 189 complete. Sūkta 190 (anarvāṇam; Agastya, Bṛhaspati, triṣṭubh, 8 ṛks; Anuvāka 24, eleventh sūkta; Aṣṭaka 2, Adhyāya 5, Varga 12, 13): Pīṭhike, half-title, bhāṣya introduction, Anuvāda and heading block written; Ṛk 1 written through Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Special Topics on anarvāṇaṃ and vṛṣabhaṃ (p. 307 ends after '(pēju 301)'). Ṛk 1 is OPEN: continue on p. 308 / PDF 327 with any further Special Topics of Ṛk 1 and its Vyākaraṇa-prakriyā. Flag needing action: the scan of p. 288 (PDF 307) cuts off the right edge of the text block (header Sūkta numeral and 1–3 characters at most line ends lost, marked […]); a re-scan of that page is wanted. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md; flags for pp. 252–285: see vol14/review/flags_archive_pp252-285.md. Flags from p. 286: New (pp. 286–288): p. 286 header Sū. 189, Ṛ. Saṃ. 1-12-6 (three tries), U. Sū. 1-1, Pā. Sū. 5-3-55, 6-4-156, 3-3-175, 3-1-55, 6-4-74, 8-3-1 zoomed (two tries for several; boxes landed left), root 'jṝṣ' (as it looks), pāyubhiḥ 'end-acute' as printed; p. 287 header Varga 10, Saṃhitā 'agneva' without avagraha, bhāṣya 'Ā, Gṛ. 2-1-6' zoomed; p. 288 right edge of the page cut off in the scan (lost text marked […]), header Sū. numeral lost, Ni. 3-13 (as printed) zoomed, printed English 'disgrace·' [sic]. New (p. 289): header Varga 11; grammar root printed 'sraja' (for sṛja; as it looks), Pā. Sū. 6-4-48, 6-1-199 (two tries), 6-1-176 (flat-footed 7; two tries), 6-4-25 (two tries), 6-1-186 zoomed; Ṛk 6 Saṃhitā: a printed word before 'varūthaṃ' struck through and illegible [?], handwritten correction 'tanve' above it transcribed (UNDECIDED logged); signature marks '[19]', 'Vol. 14' at the foot. New (pp. 290–292): p. 290 header Sū. 189 (read from the strip); Ṛk 6 Pada prints 'tanve' in type (agrees with the handwritten Saṃhitā correction); printed English 'becomes such as you are exempts' (no comma) as printed; p. 291 header Varga 11, Ni. 3-13 (varūtha; as printed), Pā. Sū. 6-3-91, 8-3-3 (pratyayottarapadayośca; as printed), 3-4-97, 3-4-94, 3-1-34 (first zoom landed a line high), U. Sū. 2-163 (as printed), Pā. Sū. 3-1-7 zoomed; root 'vṛñ' called svādi as printed; p. 292 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Pā. Sū. 3-2-168, 6-4-48, 6-1-65 (ಜ-like glyph = 5), 6-1-71 zoomed; bhāṣya 'sannihita eva' zoomed (ta could carry an e-sign). New (pp. 293–295): p. 293 header Varga 11, Ni. 3-20, Ni. 3-9 and 3-19 (uśik; as printed), Ni. 6-12 zoomed; 'ippattu dviśanāmagaḷalli' (term unclear, as printed; zoomed); printed English stray mark before 'worship' and final '·' [sic]; p. 294 header Sū. 189, Ṛ. Saṃ. 3-1-12, Pā. Sū. 8-3-9, 8-3-3, 3-1-109, 6-1-16, 'U. Saṃ. 2-29' (abbreviation as printed) zoomed; suffix 'ṣeṇyaṇ' as printed; p. 295 header 'A. [2] A. 5 Va. 11' (Aṣṭaka numeral prints like 'ಅ.ವ', as on p. 285); printed English 'life·' [sic]. New (pp. 296–297): p. 296 header Sū. 189, Ṛ 1-165-15 (ಜ-like = 5), Ṛ. Saṃ. 1-44-11, 'jorī ca. U. Sū. 2-181' (three tries), Ni. 3-9 (kṣipra names; as printed), Ṛ. Saṃ. 10-36-6 zoomed; p. 297 header 'A. 2. A. 5 Va. 11', Ṛ. Saṃ. 2-34-4, 1-119-1, 'sapta dātṝn' zoomed; Ṛ. Saṃ. 10-120-6 verse prints 'ā parṣate' (zoomed, as printed), its number read from the strip; Max Muller quotation stray points/marks [sic]. Note: page.py zoom boxes landed ~40–50 px off in y (and off in x on p. 297, whose strips were not reduced): generous boxes needed. New (pp. 298–299): p. 298 header prints 'Sū. 188' (zoomed; the sūkta is 189), Ṛ. Saṃ. 2-34-4 (no closing parenthesis), 10-43-8, Pā. Sū. 2-4-53, 3-1-52, 6-1-64, 6-1-163 zoomed; U. Sū. for ṛñjivṛdhi… 2-2[?]4 UNDECIDED (middle digit broken); p. 299 header 'A. 2. A 5. Va. 11.', Ni. 10-11, Ṛ. Saṃ. 10-98-7, Tai. Saṃ. 6-4-10-1, 2-2-9-1 zoomed. New (pp. 300–301): p. 300 header still 'Sū. 189' over the Pīṭhike of 190; Ṛ. Saṃ. 4-50-8, 4-50-9, 10-141-3, '4-49 ; 7-97', 'about 120 times', Ṛ. Saṃ. 2-23 (19 ṛks; 1, 5, 9, 11, 17, 19 = 6 ṛks to Bṛhaspati), 10th maṇḍala 98th sūkta zoomed; p. 301 header 'A. 2. A. 5. Va. 11.', Ni. 2-11, '12 years', Viṣṇu Purāṇa 4-20-7, Bhāgavata 9-22-14 to 17 zoomed; Nirukta quotation 'kauravau' as printed. Tool note: page.py zoom boxes often land off target (strip cuts in zoom mode seem to differ from the displayed strips); tall boxes were used. New (pp. 302–303): p. 302 header Sū. 189, '108neya sūkta' (two tries), Ṛ Saṃ 7-97-8, 2-23-17, 2-26-3, 10-72-8, 10-141-3, 7-10-4 ; 10-14-3, 4-40-1 ; 4-73-1 (as printed) ; 10-47-6, 2-23-4, 2-23-9, 3-62-4 ; 4-50-6, 7-97-7 zoomed (flat-footed glyph = 7, curled ತ-like = 2, as the A. 24 header confirms); '10-98-[?]' last digit UNDECIDED; word before 'mahattva' faint ('svara'? [?]); '2-23 3' hyphen missing; printed 'atyavaśaka'; p. 303 header 'A. 2. A. 5. Va. 11.', 10-100-5, 10-97-15 and 19, Ni. 2-28, 2-23-18 ; 1-56-5, 2-24-11 ; 8-61-18 zoomed; 1-105-17, 2-24-3, 4, 10-68-4 to 9, 10-68-5, 10-68-10, 4-50-1 and 'Tai. Saṃ. 4-4 10-1' (hyphen missing) read from the strip (zooms landed off target). New (pp. 304–305): p. 304 header Sū. 189, Ṛ. Saṃ. 2-1-3, 3-26-2, 10-68-9 zoomed, Sāyaṇa on '5-43-12' read from the strip (zoom missed); Saṃhitā 'soṣāmaviṃdat' without avagraha as printed; p. 305 header 'A. 2. A. 5. Va. 12.', Ṛ Saṃ. 7-10-4, '3-20-5, 4-40-1. 5-51-12', Ṛgvi. 1-27 (bhāṣya and Anuvāda) zoomed; '7-41-1, 7-44-1, 9-5-11, 10-35-11, 10-65-1, 10-130-4, 10-141-3' read from the strip; bhāṣya prints 'so 'ślokyaṃ', the Anuvāda quotation 'suślokyaṃ'; signature marks '[20]', 'Vol. 14'. New (pp. 306–307): p. 306 heading 'Varga 12, 13', ṛk count 8 zoomed; bhāṣya 'draṣṭavyaṃ' (first akṣara partly broken) and 'Ni. 6-23' zoomed; Pada prints 'gāthānyaḥ' without the compound mark; p. 307 header 'A. 2. A. 5. Va. 12', Special Topics Nirukta reference 'Ni-4-27' as printed (zoomed; the bhāṣya cites Ni. 6-23); 'bhāga 5 pēju 682, bhāga 8 pēju 168' read from the strip; stray mark after 'surisuvavanu' [sic]. Tool note: page.py zoom boxes again landed one or more lines off (by up to ~300 px on p. 307); wide 600-dpi zooms cropped locally were used.
+
+### Printed p. 308 (PDF 327)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 190". Ṛk 1: Special Topics continued.)*
+
+**मंद्रजिह्वं (*maṃdrajihvaṃ*)** — मादकवाचं (*mādakavācaṃ*) *(so printed here; the bhāṣya on p. 306 has "mādakavācakaṃ")* । One who has a tongue (*nālage*) that speaks words producing joy in the mind; that is, one who speaks delightful words so that those who praise him are pleased.
+
+**अर्कैः (*arkaiḥ*)** — अर्चनसाधनैर्मंत्रैः (*arcanasādhanairmaṃtraiḥ*) । By mantras that are the means of praising. Because they are used for praising, mantras are named *arkas*. For the word *arka* Yāska —
+
+> अर्को देवो भवति यदेनमर्चंति । अर्को मंत्रो भवति यदनेनार्चंति
+> अर्कमन्नं भवत्यर्चति भूतानि । अर्को वृक्षो भवति संवृत्तः कटुकिम्ना ॥
+
+> *arko devo bhavati yadenamarcaṃti | arko maṃtro bhavati yadanenārcaṃti*
+> *arkamannaṃ bhavatyarcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā ‖*
+
+(Ni. 5-4, zoomed)
+
+— has stated a meaning of four kinds —
+
+(1)
+
+> अर्को देवो भवति यदेनमर्चंति । तावत्सर्व एवार्क इत्युच्यते यद्यस्मादेनं देवं अर्चंति स्तोतारः ॥
+
+> *arko devo bhavati yadenamarcaṃti | tāvatsarva evārka ityucyate yadyasmādenaṃ devaṃ arcaṃti stotāraḥ ‖*
+
+The word *arka* means the deity: because the person or god whom devotees use (it) to worship, that is, the object (the deity) which devotees worship, is named *arka*.
+
+(2)
+
+> अर्को मंत्रो भवति । यद्यस्मात् अनेन मंत्रेण अर्चंति स्तोतारः तस्मादर्कः ॥
+
+> *arko maṃtro bhavati | yadyasmāt anena maṃtreṇa arcaṃti stotāraḥ tasmādarkaḥ ‖*
+
+The word *arka* also means mantra: because those who praise worship the deity with it (with the *arka*, that is, with the mantra). Therefore the word *arka* also names the mantra.
+
+(3)
+
+> अर्कमन्नं भवति । तद्धि अर्चति भूतानि यो हि पूज्यः तस्यान्नमपि संस्कारविशेषेण संस्कृतं पूजायां क्रियते पूज्यं च सर्वस्यैवान्नं ।
+
+> *arkamannaṃ bhavati | taddhi arcati bhūtāni yo hi pūjyaḥ tasyānnamapi saṃskāraviśeṣeṇa saṃskṛtaṃ pūjāyāṃ kriyate pūjyaṃ ca sarvasyaivānnaṃ |*
+
+The word *arka* also means food. Because food (nourishment) is necessary to all living beings, everyone seeks it, honouring it with regard; that is, because everyone desires it, honouring it with love and regard, the word *arka* also means food.
+
+(4)
+
+> अर्को वृक्षो भवति य एष प्रसिद्धः । संवृत्तः हि संगतः संव्याप्तः कटुकिम्ना कटुकभावेन भवति ॥
+
+> *arko vṛkṣo bhavati ya eṣa prasiddhaḥ | saṃvṛttaḥ hi saṃgataḥ saṃvyāptaḥ kaṭukimnā kaṭukabhāvena bhavati ‖*
+
+Further, the name "tree" for the word *arka* is well known. The *arka* tree is called *ekkada giḍa* in the Kannada language. Because its sacrificial sticks are used in homas, and because it is customary to use it in medicines and the like, the *arka* tree is a thing known to all. Because it is bitter they call it कटुकिम्ना (*kaṭukimnā*). As an example for the explanation of the word *arka*, Yāska (cites) गायंति त्वा (*gāyaṃti tvā*) (Ṛ. Saṃ. 1-10-1, zoomed) …
+
+
+---
+
+### Printed p. 309 (PDF 328)
+
+*(Header: "A. 2. A 5. Va. 12." (zoomed). Ṛk 1: Special Topics concluded; Vyākaraṇa-prakriyā begun.)*
+
+— taking the ṛk (beginning गायंति त्वा, *gāyaṃti tvā*) he has given its derivation. That explanation is not relevant here. In the present ṛk the bhāṣyakāra has accepted the meaning "mantra" for the word *arka*.
+
+**गाथान्यः (*gāthānyaḥ*)** — Because the word *gāthā* is read among the fifty-seven names of speech, *śloka*, *dhārā* and the rest (Ni. [?]-[?]3 — the first two digits undecided after zooming), *gāthā* means words in the form of praise. गाथा नयंतीति गाथान्यः (*gāthā nayaṃtīti gāthānyaḥ*) । The sense is: the gods who are the leaders of such mantras in the form of praise, and the Hotṛ and other priests who recite the mantras.
+
+**अथवा नवमानस्य (संबंधिनस्ते) गाथान्यः आशृण्वंति आश्रावयंति (*athavā navamānasya (saṃbaṃdhinaste) gāthānyaḥ āśṛṇvaṃti āśrāvayaṃti*)** । For this sentence the bhāṣyakāra has also given another kind of meaning: the Hotṛ and the others, who are connected with the sacrificer who is praising, recite the mantras to Bṛhaspati and satisfy him.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar, noted briefly).** अनर्वाणम् (*anarvāṇam*) — end-acute of the final member by नञ्सुभ्याम् (*nañsubhyām*) (Pā. Sū. 6-2-172, read from the strip); accusative singular *(a stray mark is printed before "dvitīyā" [sic])*; because अर्वणस्त्रसावनञः (*arvaṇastrasāvanañaḥ*) (Pā. Sū. 6-4-172, as printed; zoomed and compared with the header digits) excludes it by "anañaḥ", *tṛ* does not come as the final substitute. मंद्रजिह्वम् (*maṃdrajihvam*) — मंद्रा जिह्वा यस्य सः । तम् (*maṃdrā jihvā yasya saḥ | tam*); the first member keeps its own accent by बहुव्रीहौ प्रकृत्या (*bahuvrīhau prakṛtyā*) (Pā. Sū. 6-2-1, zoomed). वर्धय (*vardhaya*) — root वृधु वर्धने (*vṛdhu vardhane*); causative activity, so *ṇic* by हेतुमति च (*hetumati ca*) (Pā. Sū. 3-1-26, zoomed); *loṭ* on the *ṇic*-stem, second person singular; nighāta, as it follows a word that is not a finite verb. गाथान्यः (*gāthānyaḥ*) — root णीञ् प्रापणे (*ṇīñ prāpaṇe*); *n* for the initial by णो नः (*ṇo naḥ*); गाथाः नयंति इति गाथान्यः (*gāthāḥ nayaṃti iti gāthānyaḥ*); suffix *kvip*; the *ī* udātta by the accent of a *kṛt*-final member; before *jas*, *yaṇ* substitution; the *yaṇ* standing in the udātta's place and an anudātta case-ending following, svarita by उदात्तस्वरितयोर्यणः (*udāttasvaritayoryaṇaḥ*) (Pā. Sū. 8-2-4, zoomed). आशृण्वंति (*āśṛṇvaṃti*) — root श्रु श्रवणे (*śru śravaṇe*); *laṭ*, third person plural *jha*; *anta* for it by झोऽन्तः (*jho 'ntaḥ*); *śṛ* for the root by श्रुवः शृ च (*śruvaḥ śṛ ca*) (Pā. Sū. 3-1-74, read from the strip); vikaraṇa *śnu*; *yaṇ*; at the head of the pāda, so no nighāta; initial-acute of the suffix; the *gati* (*āṅ*) anudātta by तिङि चोदात्तवति (*tiṅi codāttavati*) (Pā. Sū. 8-1-71, read from the strip). नवमानस्य (*navamānasya*) — root णु स्तुतौ (*ṇu stutau*); *n* for the initial by णो नः (*ṇo naḥ*); *śānac* for *laṭ*; by *vyatyaya* the active suffix in the passive sense; vikaraṇa *śap*; सार्वधातुकार्ध— (*sārvadhātukārdha—*) … *(continues on p. 310)*
+
+---
+
+
+### Printed p. 310 (PDF 329)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 190". Ṛk 1: Vyākaraṇa-prakriyā concluded; end of Ṛk 1. Ṛk 2: Saṃhitā, Pada, bhāṣya.)*
+
+(continuing सार्वधातुकार्ध— (*sārvadhātukārdha—*) …) by which guṇa of the root's *u*; *av* substitution; the augment *muk* by आने मुक् (*āne muk*) (Pā. Sū. 7-2-82, zoomed); since by तास्यनुदात्तेत्— (*tāsyanudāttet—*) (Pā. Sū. 6-1-186, zoomed) the *la*-sārvadhātuka is anudātta, the root accent remains; the genitive stands in the sense of the object or of relation.
+
+*(Rule ":o:".)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> तमृत्विया उप वाचः सचंते सर्गो न यो देवयतामसर्जि ।
+> बृहस्पतिः स ह्यंजो वरांसि विभ्वाभवत्समृते मातरिश्वा ॥ २ ॥
+
+> *tamṛtviyā upa vācaḥ sacaṃte sargo na yo devayatāmasarji |*
+> *bṛhaspatiḥ sa hyaṃjo varāṃsi vibhvābhavatsamṛte mātariśvā ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> तं । ऋत्वियाः । उप । वाचः । सचंते । सर्गः । न । यः । देवऽयतां । असर्जि ।
+> बृहस्पतिः । सः । हि । अंजः । वरांसि । विऽभ्वा । अभवत् । सं । ऋते । मातरिश्वा ॥ २ ॥
+
+> *taṃ | ṛtviyāḥ | upa | vācaḥ | sacaṃte | sargaḥ | na | yaḥ | deva 'yatāṃ | asarji |*
+> *bṛhaspatiḥ | saḥ | hi | aṃjaḥ | varāṃsi | vi 'bhvā | abhavat | saṃ | ṛte | mātariśvā ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; "Ā. 3-7" zoomed; "upa saṃcate" so printed in the gloss (the Saṃhitā has "sacaṃte"); "sṛṣṭavānvṛṣṭyudakaṃ" zoomed.)*
+
+*Gist:* The verse is the vapā-yājyā for Bṛhaspati's animal; the season's (rain-season) voices of the middle region attend on Bṛhaspati, who released water (or fruit) for the god-seekers; he, the manifester, became pervading, producing desirable fruits when water is at hand — or, alternatively, in the sacrifice, desiring oblations.
+
+> बार्हस्पत्ये पशौ तमृत्वियेत्येषा वपायाज्या । सूत्रितं च । बृहस्पते अति यदर्यो अर्हात्तमृत्विया उप वाचः सचंते । आ. ३-७ । इति ॥
+> तं बृहस्पतिमृत्विया वर्षर्तुसंबंधिन्यो वाचो माध्यमिका उप संचते । समीपे सेवंते । यः सर्गो नोदकस्य स्रष्टापि । नशब्दोऽप्यर्थे । देवयतां देवानिच्छतां यजमानानामसर्जि फलं । यद्वा । देवं तमिच्छतां मनुष्याणामसर्जि सृष्टवान्वृष्ट्युदकं । यद्वा । ऋत्वियाः प्राप्तकालीना वाचो होत्रादिप्रेरिता वाच उप सचंते तं यः सर्गो नोदकसृष्टिरिव सः स एव बृहस्पतिरंजो हि व्यंजकः खलु । तस्मिन्वर्षति सर्वे भवंति । अत एव विभ्वा विभुर्व्याप्तो मातरिश्वा वृष्टिनिर्मातर्यंतरिक्षे चेष्टमानो वायुसदृशो वा वरांसि वरणीयानि वृष्ट्यादिफलानि संपादयन्नृत उदके निमित्तभूते सति समभवत् । संभूतः । अथवा । अंजो यज्ञियानां व्यंजको मातरिश्वा फलस्य निर्मातरि यज्ञे श्वसिता वर्तमानः स बृहस्पतिर्ऋते यज्ञे निमित्तभूते सति वरांसि वरणीयानि हवींषीच्छन् विभ्वा विभुः समभवत् ॥
+
+> *bārhaspatye paśau tamṛtviyetyeṣā vapāyājyā | sūtritaṃ ca | bṛhaspate ati yadaryo arhāttamṛtviyā upa vācaḥ sacaṃte | ā. 3-7 | iti ‖*
+> *taṃ bṛhaspatimṛtviyā varṣartusaṃbaṃdhinyo vāco mādhyamikā upa saṃcate | samīpe sevaṃte | yaḥ sargo nodakasya sraṣṭāpi | naśabdo 'pyarthe | devayatāṃ devānicchatāṃ yajamānānāmasarji phalaṃ | yadvā | devaṃ tamicchatāṃ manuṣyāṇāmasarji sṛṣṭavānvṛṣṭyudakaṃ | yadvā | ṛtviyāḥ prāptakālīnā vāco hotrādipreritā vāca upa sacaṃte taṃ yaḥ sargo nodakasṛṣṭiriva saḥ sa eva bṛhaspatiraṃjo hi vyaṃjakaḥ khalu | tasminvarṣati sarve bhavaṃti | ata eva vibhvā vibhurvyāpto mātariśvā vṛṣṭinirmātaryaṃtarikṣe ceṣṭamāno vāyusadṛśo vā varāṃsi varaṇīyāni vṛṣṭyādiphalāni saṃpādayannṛta udake nimittabhūte sati samabhavat | saṃbhūtaḥ | athavā | aṃjo yajñiyānāṃ vyaṃjako mātariśvā phalasya nirmātari yajñe śvasitā vartamānaḥ sa bṛhaspatirṛte yajñe nimittabhūte sati varāṃsi varaṇīyāni havīṃṣīcchan vibhvā vibhuḥ samabhavat ‖*
+
+
+---
+
+### Printed p. 311 (PDF 330)
+
+*(Header: "A. 2. A. 5. Va. 12". Ṛk 2: Pratipadārtha, Bhāvārtha, printed English, Special Topics begun.)*
+
+**Pratipadārtha.** यः (*yaḥ*) — which Bṛhaspati; सर्गो न (*sargo na*) — was also the creator (of water) (and); देवयतां (*devayatāṃ*) — for the sacrificers who seek the gods for help; असर्जि (*asarji*) — creates and hands over the fruit; तं (*taṃ*) — that Bṛhaspati; ऋत्वियाः (*ṛtviyāḥ*) — belonging to the rainy season; वाचः (*vācaḥ*) — the words of the middle region; उप सचंते (*upa sacaṃte*) — approach and serve; सः बृहस्पतिः (*saḥ bṛhaspatiḥ*) — that same Bṛhaspati; अंजः हि (*aṃjaḥ hi*) — is he not the one who makes everything manifest?; विभ्वा (*vibhvā*) — who pervades; मातरिश्वा (*mātariśvā*) — he who moves in the mid-region, or who is like the wind; वरांसि (*varāṃsi*) — procuring the desired fruits such as rain; ऋते (*ṛte*) — for the sake of water; समभवत् (*samabhavat*) — was born.
+
+**Bhāvārtha.** The words of the middle region belonging to the rainy season approach and serve Bṛhaspati, who creates water and who creates and hands over the fruit in the form of rain to the sacrificer seeking the gods for help. That same Bṛhaspati makes everything manifest. And by his impulse alone the wind, which pervades everywhere and moves in the mid-region, was born for the sake of water, procuring the desired rain and the rest.
+
+**English Translation (as printed; heading printed "English Translatin" [sic]).**
+
+The hymns of the (rainy) season are addressed to him, who is verily the creator (of the rain), and has granted it (to the prayers) of the devout ; for that Brihaspati is the manifester (of all), the expansive wind that (dispensing) blessing has been produced for (the diffusion of water).
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In the animal sacrifice, when the vapā-homa is performed addressed to Bṛhaspati, this ṛk तमृत्विया (*tamṛtviyā*) is to be used as the yājyā mantra — this is set out by the sūtra of the Āśvalāyana Śrauta-sūtra, बृहस्पते अति यदर्यो अर्हात्तमृत्विया उप वाचः सचंते (*bṛhaspate ati yadaryo arhāttamṛtviyā upa vācaḥ sacaṃte*) (Ā. 3-7, as on p. 310).
+
+**ऋत्विया (*ṛtviyā*)** — वर्षर्तुसंबंधिन्यो वाचः (*varṣartusaṃbaṃdhinyo vācaḥ*) । Since Bṛhaspati is connected with rain, they are called here words connected with the rainy season.
+
+**न (*na*)** — The word *na* is used here in the sense of conjunction (in the sense of अपि, *api*). Besides —
+
+> नेति प्रतिषेधार्थीयो भाषायां । उभयमन्वध्यायं ।
+
+> *neti pratiṣedhārthīyo bhāṣāyāṃ | ubhayamanvadhyāyaṃ |*
+
+— that is, in ordinary usage … *(continues on p. 312)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 311 (PDF 330; printed = PDF − 19, pp. 296–311 checked, no duplicate or missing page). Sūkta 189 complete. Sūkta 190 (anarvāṇam; Agastya, Bṛhaspati, triṣṭubh, 8 ṛks; Anuvāka 24, eleventh sūkta; Aṣṭaka 2, Adhyāya 5, Varga 12, 13): Ṛk 1 complete; Ṛk 2 written through Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics up to the Nirukta quotation on 'na' (p. 311 ends at 'sādhāraṇa'). Ṛk 2 is OPEN: continue on p. 312 / PDF 331 with the rest of the Special Topics on 'na', then the Vyākaraṇa-prakriyā of Ṛk 2. Flag needing action: the scan of p. 288 (PDF 307) cuts off the right edge of the text block (header Sūkta numeral and 1–3 characters at most line ends lost, marked […]); a re-scan of that page is wanted. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md; flags for pp. 252–285: see vol14/review/flags_archive_pp252-285.md. Flags from p. 286: New (pp. 286–288): p. 286 header Sū. 189, Ṛ. Saṃ. 1-12-6 (three tries), U. Sū. 1-1, Pā. Sū. 5-3-55, 6-4-156, 3-3-175, 3-1-55, 6-4-74, 8-3-1 zoomed (two tries for several; boxes landed left), root 'jṝṣ' (as it looks), pāyubhiḥ 'end-acute' as printed; p. 287 header Varga 10, Saṃhitā 'agneva' without avagraha, bhāṣya 'Ā, Gṛ. 2-1-6' zoomed; p. 288 right edge of the page cut off in the scan (lost text marked […]), header Sū. numeral lost, Ni. 3-13 (as printed) zoomed, printed English 'disgrace·' [sic]. New (p. 289): header Varga 11; grammar root printed 'sraja' (for sṛja; as it looks), Pā. Sū. 6-4-48, 6-1-199 (two tries), 6-1-176 (flat-footed 7; two tries), 6-4-25 (two tries), 6-1-186 zoomed; Ṛk 6 Saṃhitā: a printed word before 'varūthaṃ' struck through and illegible [?], handwritten correction 'tanve' above it transcribed (UNDECIDED logged); signature marks '[19]', 'Vol. 14' at the foot. New (pp. 290–292): p. 290 header Sū. 189 (read from the strip); Ṛk 6 Pada prints 'tanve' in type (agrees with the handwritten Saṃhitā correction); printed English 'becomes such as you are exempts' (no comma) as printed; p. 291 header Varga 11, Ni. 3-13 (varūtha; as printed), Pā. Sū. 6-3-91, 8-3-3 (pratyayottarapadayośca; as printed), 3-4-97, 3-4-94, 3-1-34 (first zoom landed a line high), U. Sū. 2-163 (as printed), Pā. Sū. 3-1-7 zoomed; root 'vṛñ' called svādi as printed; p. 292 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Pā. Sū. 3-2-168, 6-4-48, 6-1-65 (ಜ-like glyph = 5), 6-1-71 zoomed; bhāṣya 'sannihita eva' zoomed (ta could carry an e-sign). New (pp. 293–295): p. 293 header Varga 11, Ni. 3-20, Ni. 3-9 and 3-19 (uśik; as printed), Ni. 6-12 zoomed; 'ippattu dviśanāmagaḷalli' (term unclear, as printed; zoomed); printed English stray mark before 'worship' and final '·' [sic]; p. 294 header Sū. 189, Ṛ. Saṃ. 3-1-12, Pā. Sū. 8-3-9, 8-3-3, 3-1-109, 6-1-16, 'U. Saṃ. 2-29' (abbreviation as printed) zoomed; suffix 'ṣeṇyaṇ' as printed; p. 295 header 'A. [2] A. 5 Va. 11' (Aṣṭaka numeral prints like 'ಅ.ವ', as on p. 285); printed English 'life·' [sic]. New (pp. 296–297): p. 296 header Sū. 189, Ṛ 1-165-15 (ಜ-like = 5), Ṛ. Saṃ. 1-44-11, 'jorī ca. U. Sū. 2-181' (three tries), Ni. 3-9 (kṣipra names; as printed), Ṛ. Saṃ. 10-36-6 zoomed; p. 297 header 'A. 2. A. 5 Va. 11', Ṛ. Saṃ. 2-34-4, 1-119-1, 'sapta dātṝn' zoomed; Ṛ. Saṃ. 10-120-6 verse prints 'ā parṣate' (zoomed, as printed), its number read from the strip; Max Muller quotation stray points/marks [sic]. Note: page.py zoom boxes landed ~40–50 px off in y (and off in x on p. 297, whose strips were not reduced): generous boxes needed. New (pp. 298–299): p. 298 header prints 'Sū. 188' (zoomed; the sūkta is 189), Ṛ. Saṃ. 2-34-4 (no closing parenthesis), 10-43-8, Pā. Sū. 2-4-53, 3-1-52, 6-1-64, 6-1-163 zoomed; U. Sū. for ṛñjivṛdhi… 2-2[?]4 UNDECIDED (middle digit broken); p. 299 header 'A. 2. A 5. Va. 11.', Ni. 10-11, Ṛ. Saṃ. 10-98-7, Tai. Saṃ. 6-4-10-1, 2-2-9-1 zoomed. New (pp. 300–301): p. 300 header still 'Sū. 189' over the Pīṭhike of 190; Ṛ. Saṃ. 4-50-8, 4-50-9, 10-141-3, '4-49 ; 7-97', 'about 120 times', Ṛ. Saṃ. 2-23 (19 ṛks; 1, 5, 9, 11, 17, 19 = 6 ṛks to Bṛhaspati), 10th maṇḍala 98th sūkta zoomed; p. 301 header 'A. 2. A. 5. Va. 11.', Ni. 2-11, '12 years', Viṣṇu Purāṇa 4-20-7, Bhāgavata 9-22-14 to 17 zoomed; Nirukta quotation 'kauravau' as printed. Tool note: page.py zoom boxes often land off target (strip cuts in zoom mode seem to differ from the displayed strips); tall boxes were used. New (pp. 302–303): p. 302 header Sū. 189, '108neya sūkta' (two tries), Ṛ Saṃ 7-97-8, 2-23-17, 2-26-3, 10-72-8, 10-141-3, 7-10-4 ; 10-14-3, 4-40-1 ; 4-73-1 (as printed) ; 10-47-6, 2-23-4, 2-23-9, 3-62-4 ; 4-50-6, 7-97-7 zoomed (flat-footed glyph = 7, curled ತ-like = 2, as the A. 24 header confirms); '10-98-[?]' last digit UNDECIDED; word before 'mahattva' faint ('svara'? [?]); '2-23 3' hyphen missing; printed 'atyavaśaka'; p. 303 header 'A. 2. A. 5. Va. 11.', 10-100-5, 10-97-15 and 19, Ni. 2-28, 2-23-18 ; 1-56-5, 2-24-11 ; 8-61-18 zoomed; 1-105-17, 2-24-3, 4, 10-68-4 to 9, 10-68-5, 10-68-10, 4-50-1 and 'Tai. Saṃ. 4-4 10-1' (hyphen missing) read from the strip (zooms landed off target). New (pp. 304–305): p. 304 header Sū. 189, Ṛ. Saṃ. 2-1-3, 3-26-2, 10-68-9 zoomed, Sāyaṇa on '5-43-12' read from the strip (zoom missed); Saṃhitā 'soṣāmaviṃdat' without avagraha as printed; p. 305 header 'A. 2. A. 5. Va. 12.', Ṛ Saṃ. 7-10-4, '3-20-5, 4-40-1. 5-51-12', Ṛgvi. 1-27 (bhāṣya and Anuvāda) zoomed; '7-41-1, 7-44-1, 9-5-11, 10-35-11, 10-65-1, 10-130-4, 10-141-3' read from the strip; bhāṣya prints 'so 'ślokyaṃ', the Anuvāda quotation 'suślokyaṃ'; signature marks '[20]', 'Vol. 14'. New (pp. 306–307): p. 306 heading 'Varga 12, 13', ṛk count 8 zoomed; bhāṣya 'draṣṭavyaṃ' (first akṣara partly broken) and 'Ni. 6-23' zoomed; Pada prints 'gāthānyaḥ' without the compound mark; p. 307 header 'A. 2. A. 5. Va. 12', Special Topics Nirukta reference 'Ni-4-27' as printed (zoomed; the bhāṣya cites Ni. 6-23); 'bhāga 5 pēju 682, bhāga 8 pēju 168' read from the strip; stray mark after 'surisuvavanu' [sic]. Tool note: page.py zoom boxes again landed one or more lines off (by up to ~300 px on p. 307); wide 600-dpi zooms cropped locally were used. New (pp. 308–309): p. 308 header Sū. 190, Ni. 5-4 (arka; ja-like = 5), Ṛ. Saṃ. 1-10-1 zoomed; Special Topics print 'mādakavācaṃ' (bhāṣya 'mādakavācakaṃ'); p. 309 header 'A. 2. A 5. Va. 12.', Pā. Sū. for arvaṇastrasāvanañaḥ printed '6-4-172' (small flat-bottomed glyph = 7, curled = 2, checked against the header 2 and p. 312's '7-1-2'), 6-2-1, 3-1-26, 8-2-4 zoomed; 6-2-172, 3-1-74, 8-1-71 read from the strip; Nighaṇṭu reference for gāthā 'Ni. [?]-[?]3' UNDECIDED (two loop glyphs with long flat base, unlike the header's curled 2); stray mark before 'dvitīyā' [sic]. New (pp. 310–311): p. 310 header Sū. 190, Pā. Sū. 7-2-82, 6-1-186, bhāṣya 'Ā. 3-7' (ಒ-like = 7), 'sṛṣṭavānvṛṣṭyudakaṃ' zoomed; bhāṣya gloss prints 'upa saṃcate' (as printed); p. 311 header 'A. 2. A. 5. Va. 12', 'Ā. 3-7' read from the strip; heading 'English Translatin' [sic].
