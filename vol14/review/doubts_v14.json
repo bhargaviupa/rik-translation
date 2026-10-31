@@ -9634,5 +9634,305 @@
   ],
   "note": "ZOOMED, read: Ni. 9-27",
   "answer": ""
+ },
+ {
+  "pdf": 231,
+  "printed": 212,
+  "crop": [
+   0.442,
+   0.463,
+   0.478,
+   0.676
+  ],
+  "note": "ZOOMED, read: bhāṣya 'udārathirūrdhvagama' (hooked ma, not u)",
+  "answer": ""
+ },
+ {
+  "pdf": 234,
+  "printed": 215,
+  "crop": [
+   0.194,
+   0.211,
+   0.185,
+   0.325
+  ],
+  "note": "ZOOMED, read: header A. 2. A. 5 Va. 7",
+  "answer": ""
+ },
+ {
+  "pdf": 234,
+  "printed": 215,
+  "crop": [
+   0.655,
+   0.681,
+   0.467,
+   0.6
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-1-7 as printed (śeśchandasi bahulam; three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 234,
+  "printed": 215,
+  "crop": [
+   0.721,
+   0.749,
+   0.285,
+   0.457
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-4-6 (three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 234,
+  "printed": 215,
+  "crop": [
+   0.739,
+   0.765,
+   0.517,
+   0.717
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 7-2-3-5 as printed (ārdhadhātukasyeḍvalādeḥ; three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 234,
+  "printed": 215,
+  "crop": [
+   0.81,
+   0.831,
+   0.258,
+   0.457
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-134 as printed (nandigrahapacādibhyaḥ; no hyphen after 1)",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.173,
+   0.19,
+   0.651,
+   0.817
+  ],
+  "note": "ZOOMED, read: header 'Maṃ. . A. 24 Sū. 188' (Maṇḍala numeral not printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.199,
+   0.224,
+   0.247,
+   0.345
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-3-66 as printed (sadhamādasthayoś chandasi; three tries, three identical 6-glyphs)",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.241,
+   0.262,
+   0.198,
+   0.355
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-2-199 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.392,
+   0.42,
+   0.345,
+   0.559
+  ],
+  "note": "ZOOMED, read: '10' Āprī sūktas (four tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.569,
+   0.588,
+   0.487,
+   0.612
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-2",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.585,
+   0.604,
+   0.48,
+   0.585
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-5",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.604,
+   0.623,
+   0.493,
+   0.644
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-70",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.62,
+   0.639,
+   0.467,
+   0.559
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-3",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.709,
+   0.727,
+   0.411,
+   0.559
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-13",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.732,
+   0.753,
+   0.411,
+   0.608
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-142 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 235,
+  "printed": 216,
+  "crop": [
+   0.604,
+   0.625,
+   0.247,
+   0.51
+  ],
+  "note": "ZOOMED, read: 'imāṃ me āgne samidhaṃ' (ā as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.186,
+   0.212,
+   0.185,
+   0.325
+  ],
+  "note": "ZOOMED, read: header A. 2. A. 5 Va. 8",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.217,
+   0.243,
+   0.185,
+   0.358
+  ],
+  "note": "ZOOMED, read: '1-142neya sūkta' (three tries; second 1 slightly broken)",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.229,
+   0.299,
+   0.445,
+   0.605
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-188 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.28,
+   0.346,
+   0.445,
+   0.605
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-4, 9-5, 10-110",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.476,
+   0.499,
+   0.185,
+   0.338
+  ],
+  "note": "ZOOMED, read: Tai. Saṃ. 6-3-10-3",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.515,
+   0.536,
+   0.678,
+   0.813
+  ],
+  "note": "ZOOMED, read: Ā. 3-2",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.72,
+   0.746,
+   0.445,
+   0.592
+  ],
+  "note": "ZOOMED, read: Kau. Brā. 10-3 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 236,
+  "printed": 217,
+  "crop": [
+   0.777,
+   0.805,
+   0.445,
+   0.605
+  ],
+  "note": "ZOOMED, read: Tai. Brā. 2-2-8-6 (two tries)",
+  "answer": ""
  }
 ]
