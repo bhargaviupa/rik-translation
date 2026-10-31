@@ -7534,5 +7534,341 @@
   ],
   "note": "ZOOMED, read: Ṛ. Saṃ. 3-36-10",
   "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.334,
+   0.357,
+   0.659,
+   0.82
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 6-47-13",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.458,
+   0.489,
+   0.626,
+   0.82
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-30-19 (three tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.611,
+   0.632,
+   0.626,
+   0.779
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ 1-79-4",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.691,
+   0.71,
+   0.394,
+   0.659
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 7-1-34 as printed (supāṃ suluk; last digit same glyph as the 4 of 1-79-4)",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.747,
+   0.768,
+   0.194,
+   0.327
+  ],
+  "note": "UNDECIDED: Uṇ. Sū. 3-38[?] (aminakṣiyaji…; last digit unclear glyph)",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.778,
+   0.808,
+   0.194,
+   0.427
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 6-1-193 (liti)",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.284,
+   0.315,
+   0.244,
+   0.693
+  ],
+  "note": "ZOOMED, read: 'sumatau' with a displaced subscript mark (broken print), Ṛ. 6-47-13",
+  "answer": ""
+ },
+ {
+  "pdf": 194,
+  "printed": 176,
+  "crop": [
+   0.428,
+   0.456,
+   0.244,
+   0.527
+  ],
+  "note": "ZOOMED, read: 'dyumaṃtaṃ' (Ṛ. 3-30-19)",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 177,
+  "crop": [
+   0.185,
+   0.207,
+   0.162,
+   0.312
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 5",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 177,
+  "crop": [
+   0.308,
+   0.329,
+   0.162,
+   0.428
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 8-1-66 (yadvṛttānnityam)",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 177,
+  "crop": [
+   0.369,
+   0.39,
+   0.162,
+   0.79
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-1-8 (supa ātmanaḥ kyac)",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 177,
+  "crop": [
+   0.371,
+   0.39,
+   0.495,
+   0.728
+  ],
+  "note": "ZOOMED, read: Pā. Sū. 3-2-170 (kyācchandasi; middle digit of 170 the flat-footed 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 177,
+  "crop": [
+   0.558,
+   0.581,
+   0.162,
+   0.278
+  ],
+  "note": "ZOOMED, read: Ṛgvidhāna 1-27 (first digit the round 2 as in 3-2-170, second the flat-footed 7; four tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 195,
+  "printed": 177,
+  "crop": [
+   0.711,
+   0.737,
+   0.595,
+   0.79
+  ],
+  "note": "ZOOMED, read: Tai. U. 2-1",
+  "answer": ""
+ },
+ {
+  "pdf": 196,
+  "printed": 178,
+  "crop": [
+   0.185,
+   0.202,
+   0.636,
+   0.831
+  ],
+  "note": "ZOOMED, read: header Maṃ. 1 A. 24 Sū. 187 (first digit of 24 broken)",
+  "answer": ""
+ },
+ {
+  "pdf": 196,
+  "printed": 178,
+  "crop": [
+   0.404,
+   0.423,
+   0.636,
+   0.831
+  ],
+  "note": "ZOOMED, read: Tai. U. 2-2",
+  "answer": ""
+ },
+ {
+  "pdf": 197,
+  "printed": 179,
+  "crop": [
+   0.184,
+   0.201,
+   0.165,
+   0.317
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 6",
+  "answer": ""
+ },
+ {
+  "pdf": 197,
+  "printed": 179,
+  "crop": [
+   0.789,
+   0.816,
+   0.232,
+   0.502
+  ],
+  "note": "ZOOMED, read: 'tadvratam' (ra-subscript displaced, broken print)",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 180,
+  "crop": [
+   0.188,
+   0.204,
+   0.647,
+   0.804
+  ],
+  "note": "ZOOMED, read: header Maṃ. 1 A. 24 Sū. 187",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 180,
+  "crop": [
+   0.22,
+   0.248,
+   0.235,
+   0.515
+  ],
+  "note": "ZOOMED, read: 'sa yaḥ etadanna…' (a visarga-like mark after ya, as printed; the repeat on p. 180 below has 'sa ya')",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 180,
+  "crop": [
+   0.258,
+   0.286,
+   0.647,
+   0.804
+  ],
+  "note": "ZOOMED, read: Tai. U. 3-7 (flat-footed 7)",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 180,
+  "crop": [
+   0.477,
+   0.498,
+   0.251,
+   0.68
+  ],
+  "note": "ZOOMED, read: 'jotiṣyāpaḥ' as printed (for jyotiṣyāpaḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 180,
+  "crop": [
+   0.533,
+   0.558,
+   0.614,
+   0.804
+  ],
+  "note": "ZOOMED, read: Tai. U. 3-8",
+  "answer": ""
+ },
+ {
+  "pdf": 198,
+  "printed": 180,
+  "crop": [
+   0.805,
+   0.823,
+   0.581,
+   0.804
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-117-6",
+  "answer": ""
+ },
+ {
+  "pdf": 199,
+  "printed": 181,
+  "crop": [
+   0.187,
+   0.203,
+   0.169,
+   0.317
+  ],
+  "note": "ZOOMED, read: header Aṣṭaka 2, Adhyāya 5, Varga 6",
+  "answer": ""
+ },
+ {
+  "pdf": 199,
+  "printed": 181,
+  "crop": [
+   0.373,
+   0.401,
+   0.564,
+   0.79
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ 10-117-4 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 199,
+  "printed": 181,
+  "crop": [
+   0.568,
+   0.596,
+   0.597,
+   0.79
+  ],
+  "note": "ZOOMED, read: Tai. U. 3-9",
+  "answer": ""
+ },
+ {
+  "pdf": 199,
+  "printed": 181,
+  "crop": [
+   0.769,
+   0.799,
+   0.218,
+   0.465
+  ],
+  "note": "ZOOMED, read: 'vasatau' (au-sign)",
+  "answer": ""
  }
 ]
