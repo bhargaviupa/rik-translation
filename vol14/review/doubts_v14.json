@@ -70,5 +70,101 @@
   ],
   "note": "UNDECIDED: सप्तच्छन्दांस्याग्नेये [?] (print looks like ಛಂದಾಸಾಗ್ನೇಯೇ)",
   "answer": ""
+ },
+ {
+  "pdf": 27,
+  "printed": 9,
+  "crop": [
+   0.1,
+   0.18,
+   0.3,
+   0.55
+  ],
+  "note": "ZOOMED, read: abodhy agnir jma ref 1-57-1 (as printed; first digit ∩ = 1); prati priyatamaṃ 5-75-1",
+  "answer": ""
+ },
+ {
+  "pdf": 27,
+  "printed": 9,
+  "crop": [
+   0.58,
+   0.62,
+   0.6,
+   0.9
+  ],
+  "note": "UNDECIDED: Ai. Brā. citation 7[?]-5",
+  "answer": ""
+ },
+ {
+  "pdf": 27,
+  "printed": 9,
+  "crop": [
+   0.95,
+   1.0,
+   0.5,
+   1.0
+  ],
+  "note": "UNDECIDED: last word of page देवतामादि[?] (ಮಾದಿಷ್ವಾ?), prajāpati printed like प्रजाप्रति",
+  "answer": ""
+ },
+ {
+  "pdf": 28,
+  "printed": 10,
+  "crop": [
+   0.2,
+   0.68,
+   0.75,
+   0.96
+  ],
+  "note": "ZOOMED, read: Ai. Brā. 7-6 (flat-footed glyph = 7, unlike curled 2 of Ṛ. Saṃ. 10.30.12); next citation Ai. Brā 7-8 (same glyph); supports 7-5 on p. 9",
+  "answer": ""
+ },
+ {
+  "pdf": 28,
+  "printed": 10,
+  "crop": [
+   0.1,
+   0.14,
+   0.25,
+   0.6
+  ],
+  "note": "UNDECIDED: प्रतिपत्स्यामीतरा [?] मे केन [?] (print looks like ಪತ್ಸ್ಯಾನಿತರಾ ಮೇಕೇನ)",
+  "answer": ""
+ },
+ {
+  "pdf": 29,
+  "printed": 11,
+  "crop": [
+   0.0,
+   0.05,
+   0.0,
+   1.0
+  ],
+  "note": "note: p. 11 quotes abodhy agnir jma as Ṛ. Saṃ. 1.157.1 — the p. 9 table's '1-57-1' (PDF 27) likely a misprint for 1-157-1; left as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 30,
+  "printed": 12,
+  "crop": [
+   0.6,
+   0.67,
+   0.25,
+   0.95
+  ],
+  "note": "ZOOMED, read: Nirukta 2. 18 (curled glyph = 2)",
+  "answer": ""
+ },
+ {
+  "pdf": 30,
+  "printed": 12,
+  "crop": [
+   0.66,
+   0.7,
+   0.3,
+   0.6
+  ],
+  "note": "UNDECIDED: Nirukta citation 12. 7[?] (last digit 2/7 not zoomed)",
+  "answer": ""
  }
 ]
