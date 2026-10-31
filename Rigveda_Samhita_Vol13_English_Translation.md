@@ -8817,21 +8817,21 @@ Or it may be said that Indra is praised as the Āditya, stationed in heaven (*dy
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
 
-***vajrabāhuḥ spṛdhaḥ abhi yāsiṣat*** — the word *spṛdhaḥ* is read among the names of battle (Ni. 2-… [?]). It is wished that Indra, who bears the thunderbolt, may go to battle against enemies.
+***vajrabāhuḥ spṛdhaḥ abhi yāsiṣat*** — the word *spṛdhaḥ* is read among the names of battle (Ni. 3-9). It is wished that Indra, who bears the thunderbolt, may go to battle against enemies.
 
-***vajraḥ kasmāt varjayatīti sataḥ*** — "why is it called *vajra*? Because it keeps off (*varjayati*) the living beings, separating their life-breaths": hence it is called *vajra* (Ni. 2-11 [?]). The greatness of such a thunderbolt, and how Indra obtained this weapon, are described in many places.
+***vajraḥ kasmāt varjayatīti sataḥ*** — "why is it called *vajra*? Because it keeps off (*varjayati*) the living beings, separating their life-breaths": hence it is called *vajra* (Ni. 3-11). The greatness of such a thunderbolt, and how Indra obtained this weapon, are described in many places.
 
 > अस्मा इदु त्वष्टा तक्षद्वज्रं स्वपस्तमं स्वर्यं रणाय ।
 
 > *asmā idu tvaṣṭā takṣad vajraṃ svapastamaṃ svaryaṃ raṇāya |*
 
-(Ṛ. Saṃ. 1-61-6 [?]);
+(Ṛ. Saṃ. 1-61-6);
 
 > अनवस्ते रथमश्वाय तक्षन्त्वष्टा वज्रं पुरुहूत द्युमन्तम् ।
 
 > *anavas te ratham aśvāya takṣan tvaṣṭā vajraṃ puruhūta dyumantam |*
 
-(Ṛ. Saṃ. 5-31-4 [?]) —
+(Ṛ. Saṃ. 5-31-4) —
 
 in many such ṛks it is described that Tvaṣṭṛ prepared for Indra the thunderbolt, full of light. And —
 
@@ -8839,13 +8839,13 @@ in many such ṛks it is described that Tvaṣṭṛ prepared for Indra the thun
 
 > *yaṃ te kāvya uśanā mandinaṃ dād vṛtrahaṇaṃ pāryaṃ tatakṣa vajram |*
 
-(Ṛ. Saṃ. 1-121-12 [?]) — in such ṛks it is said that this was given to Indra by Uśanas Kāvya.
+(Ṛ. Saṃ. 1-121-12) — in such ṛks it is said that this was given to Indra by Uśanas Kāvya.
 
 > समुद्रे अन्तः शयत उद्ना वज्रो अभीवृतः । भरन्त्यस्मै संयतः पुरःप्रस्रवणा बलिम् ॥
 
 > *samudre antaḥ śayata udnā vajro abhīvṛtaḥ | bharanty asmai saṃyataḥ puraḥprasravaṇā balim ‖*
 
-(Ṛ. Saṃ. 8-100-9 [?]) — in these and other places the nature and the power of the thunderbolt are described. The power of the thunderbolt is declared thus: lying in the ocean, covered and hidden by water, as soon as it comes to the field of battle the enemies themselves offer their lives to it, as a tribute.
+(Ṛ. Saṃ. 8-100-9) — in these and other places the nature and the power of the thunderbolt are described. The power of the thunderbolt is declared thus: lying in the ocean, covered and hidden by water, as soon as it comes to the field of battle the enemies themselves offer their lives to it, as a tribute.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
