@@ -9106,10 +9106,10 @@ In the second meaning — "*ayorajatahiraṇmayīḥ purīḥ dānucitrāḥ kha
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
-- ***rapat*** — root *rapa śabde*; *laṅ*, third person singular; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75 [?]) the augment *a* does not occur; because it is in *pādādi* position, no *nighāta*; the root accent remains.
+- ***rapat*** — root *rapa śabde*; *laṅ*, third person singular; "*bahulaṃ chandasy…*" (Pā. Sū. 6-4-75) the augment *a* does not occur; because it is in *pādādi* position, no *nighāta*; the root accent remains.
 - ***arkasātau*** — *arkasya sātiḥ yasmin*, locative; in the bahuvrīhi, the fore-member keeps its natural accent.
-- ***dāsāya*** — root *dasi sevane*; by "*daṃse ḥ ṣṭaṭanau nalopaś ca*" (Uṇ. Sū. 5-… [?]) the suffix *ṭa* or *ṭan*; the *n* of the root is dropped; *ā* substitution; by "*ciṭuṭū*" (Pā. Sū. 1-3-7 [?]) *ṭ* is dropped; the suffix accent is end-*udātta*.
-- ***kaḥ*** — root *ḍukṛñ karaṇe*; *luṅ*, second person singular, *sip*; the *i* is dropped; by "*mantre ghasa*…" (Pā. Sū. 2-4-80 [?]) *luk* for *cli*; for the suffix being the cause, guṇa of the *ik*…
+- ***dāsāya*** — root *dasi sevane*; by "*daṃse ḥ ṣṭaṭanau nalopaś ca*" (Uṇ. Sū. 5-… [?]) the suffix *ṭa* or *ṭan*; the *n* of the root is dropped; *ā* substitution; by "*ciṭuṭū*" (Pā. Sū. 1-3-7) *ṭ* is dropped; the suffix accent is end-*udātta*.
+- ***kaḥ*** — root *ḍukṛñ karaṇe*; *luṅ*, second person singular, *sip*; the *i* is dropped; by "*mantre ghasa*…" (Pā. Sū. 2-4-80) *luk* for *cli*; for the suffix being the cause, guṇa of the *ik*…
 
 ---
 
