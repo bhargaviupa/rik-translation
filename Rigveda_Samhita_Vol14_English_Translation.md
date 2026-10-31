@@ -1964,4 +1964,90 @@ In this ṛk the relation between heaven and earth and the rest of the brood of 
 
 ---
 
-**Progress note:** Done through printed p. 61 (PDF 79). Sūkta 185 Ṛk 1 closed on p. 60; Ṛk 2 (bhūriṃ dve acarantī) OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English done; Special Topics begun on p. 61 (may continue) and Vyākaraṇa-prakriyā not yet seen — continue on printed p. 62 / PDF 80. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca).
+### Printed p. 62  (PDF 80)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 185". Special Topics of Ṛk 2, continued.)*
+
+If for the word **पित्रोः (*pitroḥ*)** the meaning "Heaven and Earth in the form of mother and father" is made, then the question arises which of them is the father and which the mother.
+
+> पितुः — पितृस्थानीयायाः पृथिव्याः मातुः — माताऽन्तरिक्षं निर्मीयन्तेऽस्मिन् भूतानि
+
+> *pituḥ — pitṛsthānīyāyāḥ pṛthivyāḥ mātuḥ — mātā 'ntarikṣaṃ nirmīyante 'smin bhūtāni*
+
+(Ni. 2-8) — so the Niruktakāra has explained. From his explanation it is understood that the Earth, being derived from the root पा (*pā*), meaning protection, and protecting all beings, has the name *pitṛ* (father), and the Antarikṣa, since all beings are formed in it, has the name *mātṛ* (mother). This explanation is in one way sound from the standpoint of word-derivation, but it does not fit the traditional meaning. Generally the sentences that designate the Antarikṣa as father and the Earth as mother are the well-known ones.
+
+> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत् पिता द्यौः ।
+> तद्ग्रावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवम् ॥
+
+> *tanno vāto mayobhu vātu bheṣajaṃ tanmātā pṛthivī tat pitā dyauḥ |*
+> *tadgrāvāṇaḥ somasuto mayobhuvastadaśvinā śṛṇutaṃ dhiṣṇyā yuvam ‖*
+
+(Ṛ. Saṃ. 1-89-4) (Gloss, mine and tentative: "May the wind waft to us that healing remedy which is a source of joy; that, mother Earth; that, father Heaven; that, the soma-pressing stones, sources of joy; hear that, O Aśvins, you two worthy of the hearth.")
+
+That in these and many other contexts the Antarikṣa is designated father and the Earth mother was made known clearly earlier. In sentences such as "मधु द्यौरस्तु नः पिता (*madhu dyaurastu naḥ pitā*)" (Ṛ. Saṃ 1-90-7), the epithet *pitṛ* (father) is established for the deity presiding over the heavenly world as well. In the present ṛk we may take the meaning "mother and father" together. The sense is: on the lap (thigh) of such a mother and father the broods of living beings grow.
+
+**उपस्थे (*upasthe*)** — the word *upastha* is used in different senses. In many places Sāyaṇa has given meanings such as उपस्थः यज्ञः, आहवनीयो वा अन्तरिक्षं वा (*upasthaḥ yajñaḥ, āhavanīyo vā antarikṣaṃ vā*). In the present ṛk it comes to mean "on the lap of the parents".
+
+Generally the words **पित्रोः उपस्थे (*pitroḥ upasthe*)** are used to indicate the relation that Agni has with Heaven and Earth. For example,
+
+> त्रिमूर्धानं सप्तरश्मिं गृणीषेऽनूनमग्निं पित्रोरुपस्थे ।
+> निषत्तमस्य चरतो ध्रुवस्य विश्वा दिवो रोचनापप्रिवांसम् ॥
+
+> *trimūrdhānaṃ saptaraśmiṃ gṛṇīṣe 'nūnamagniṃ pitrorupasthe |*
+> *niṣattamasya carato dhruvasya viśvā divo rocanāpaprivāṃsam ‖*
+
+(Ṛ. Saṃ. 1-146-1) (Gloss, mine and tentative: "I praise the three-headed, seven-rayed Agni, complete, in the lap of his parents, seated, who has filled all the luminous spaces of heaven, of the moving and the fixed.")
+
+— there, **पित्रोः उपस्थे निषत्तं अग्निं (*pitroḥ upasthe niṣattaṃ agniṃ*)** means Agni seated on the lap of his parents, Heaven and Earth. But in the present ṛk only the relation that all the broods of beings have with Heaven and Earth is stated.
+
+**नित्यं सूनुं (*nityaṃ sūnuṃ*)** — here the word *nitya* has been given the meaning *dhruva* (fixed). In the present ṛk (the poet) has described the fixedness of Heaven and Earth and the unfixedness of the broods of living beings, and made known the difference between them. Therefore *(continues on the next page)*
+
+### Printed p. 63  (PDF 81)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 2".)* here, rather than the meaning *dhruva* for the word **नित्य (*nitya*)**, the meaning "one's own" is the fitting one. The word *nitya* is used in many places in the sense **सहज (*sahaja*)** (natural, inborn) too. In the present case it may be taken to mean the *aurasa* son (one's own born son).
+
+In the present ṛk, besides stating the relation of Heaven and Earth in the form of mother and father, it is prayed that they protect the world from great fear. The refrain "**द्यावा रक्षतं पृथिवी नो अभ्वात् (*dyāvā rakṣataṃ pṛthivī no abhvāt*)**" is in ṛks 2–8 of the sūkta.
+
+**अभ्वात् (*abhvāt*)** — the word *abhva* is read among the **names of water (*udaka*)** (Ni. Ni. 24) and among the **names of "great" (*mahat*)** (Ni. 3-23). But since this word is used in other senses as well, not only in these two, once it is known that Sāyaṇa too has stated its meaning according to the context, its correct meaning in the present ṛk can then be determined.
+
+> नहि ते क्षत्रं न सहो न मन्युं वयश्चनामी पतयन्त आपुः ।
+> नेमा आपो अनिमिषं चरन्तीर्न ये वातस्य प्रमिनन्त्यभ्वम् ॥
+
+> *nahi te kṣatraṃ na saho na manyuṃ vayaścanāmī patayanta āpuḥ |*
+> *nemā āpo animiṣaṃ carantīrna ye vātasya praminantyabhvam ‖*
+
+(Ṛ. Saṃ. 1-24-6) (Gloss, mine and tentative: "Not your dominion, nor your might, nor your wrath have even these flying birds attained, nor these waters moving unwinking, nor those who check the force of the wind.")
+
+In this ṛk there is the praise of **Varuṇa**. Here, explaining वातस्य ये गतिविशेषाः ते त्वदीयम् अभ्वं वेगं न हिंसन्ति (*vātasya ye gativiśeṣāḥ te tvadīyam abhvaṃ vegaṃ na hiṃsanti*) — "even the speed of the wind's motion cannot check the speed of Varuṇa" — (Sāyaṇa) has given the word *abhva* the meaning "speed". And,
+
+> युष्मेषितो मरुतो मर्त्येषित आ यो नो अभ्व ईषते ।
+> वि तं युयोत शवसा व्योजसा वि युष्माकाभिरूतिभिः ॥
+
+> *yuṣmeṣito maruto martyeṣita ā yo no abhva īṣate |*
+> *vi taṃ yuyota śavasā vyojasā vi yuṣmākābhirūtibhiḥ ‖*
+
+(Ṛ Saṃ. 1-39-8) (Gloss, mine and tentative: "O Maruts, whatever monster, sent by you or sent by a mortal, comes at us, drive him away by your strength, by your vigour, by your aids.")
+
+— there the Maruts are praised. Here, explaining यः कश्चिदभ्वः शत्रुः नः प्राप्नोति तं शवसा वियुयोत (*yaḥ kaścidabhvaḥ śatruḥ naḥ prāpnoti taṃ śavasā viyuyota*), the word *abhva* has been given the meaning "enemy".
+
+> असूत पृश्निर्महते रणाय त्वेषमयासां मरुतामनीकम् ।
+> ते सप्सरासोऽजनयन्ताभ्वमादित्स्वधामिषिरां पर्यपश्यन् ॥
+
+> *asūta pṛśnirmahate raṇāya tveṣamayāsāṃ marutāmanīkam |*
+> *te sapsarāso 'janayantābhvamāditsvadhāmiṣirāṃ paryapaśyan ‖*
+
+(Ṛ. Saṃ. 1-168-9) (Gloss, mine and tentative: "Pṛśni bore, for great battle, the brilliant host of the restless Maruts; they, of one form, generated the cloud, and then they beheld the vigorous refreshment.")
+
+In this ṛk, by अभ्वं मेघं जनयन्ति (*abhvaṃ meghaṃ janayanti*) the word *abhva* has been given the meaning "cloud", and *(in the second line the word is read "जजुर्वाँ" as printed)*,
+
+> आ यन्मे अभ्वं वनदः पनन्तोशिग्भ्यो नामिमीत वर्णम् ।
+> स चित्रेण चिकिते रंसु भासा जजुर्वाँ यो मुहुरा युवा भूत् ॥
+
+> *ā yanme abhvaṃ vanadaḥ panantośigbhyo nāmimīta varṇam |*
+> *sa citreṇa cikite raṃsu bhāsā jajurvā~ yo muhurā yuvā bhūt ‖*
+
+(Ṛ. Saṃ. 2-4-5) (Gloss, mine and tentative: "When the admirers of the woods praised my mighty one, he made his colour for the Uśijs; he has become known with bright light amid delights, he who, grown old, again and again became young.") *(continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 63 (PDF 81). Sūkta 185 Ṛk 2 (bhūriṃ dve acarantī) OPEN: Special Topics continuing (abhva discussion, Ṛ. 2-4-5 cited at the foot of p. 63); Vyākaraṇa-prakriyā not yet seen — continue on printed p. 64 / PDF 82. Flags: refs list p. 46 (13 refs), Āś. 2-2, Ni. 3-22, Varga of Sūkta 185; p. 53 food word [?]; p. 54 'nāva [?]'; p. 58 Tai. Brā. 2-8-9-6-3 [?] last digit, 'kathamat' (Ṛ. 10-81-2) as read; p. 60 Pā. 4-4-136 [?] (matau ca); p. 63 'jajurvā̃' as printed (Ṛ. 2-4-5).
