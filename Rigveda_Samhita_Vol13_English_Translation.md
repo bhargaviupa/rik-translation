@@ -9472,7 +9472,7 @@ Sāyaṇa has stated the application (*viniyoga*) of the mantras of this sūkta 
 
 > *abhiplavatryahaḥ pūrvaḥ svarasāmānaḥ | svarāṇi triha pṛṣṭhāni | teṣāṃ stotriyo yajñāyajñīyaṃ yathā apūrvam matsyapāyi te maha …………* [as read; dots in the print: [?]]
 
-(Āś. Śrau. 8-5 [?]). The explanation given in the commentary on the Āśvalāyana Śrauta-sūtra is clearer:
+(Āś. Śrau. 8-5). The explanation given in the commentary on the Āśvalāyana Śrauta-sūtra is clearer:
 
 > अभिप्लवस्य यः पूर्वस्त्र्यहस्तेनातिदिष्टानि वक्ष्यमाणगुणविशिष्टानि त्रीण्यहानि स्वरसामसंज्ञानि भवन्ति । स्वरसंज्ञकानि सामानि एतेष्वहस्सु पृष्ठानि भवन्ति । एतदेवैषु स्वरसामशब्दस्य प्रवृत्तिनिमित्तं । यथासंख्येन तेषामेते स्तोत्रियाः भवन्ति ।
 
@@ -9480,9 +9480,9 @@ Sāyaṇa has stated the application (*viniyoga*) of the mantras of this sūkta 
 
 (Nārāyaṇa's vṛtti). As in the *abhiplava* sacrifice, the first three days are named *svarasāman*; the Sāmans called *svara* serve in these days as *pṛṣṭha*; this is the reason for the application of the word *svarasāman*. Dwelling on this same point in the Aitareya Brāhmaṇa, the greatness of the *svarasāman* is described thus:
 
-> स्वरसाम्न उपयन्तीमे वै लोकाः स्वरसामान इमांस्तै लोकान् स्वरसामभिस्तृण्वन्ति स्वरसामत्वं तद्यत्स्वरसाम्न उपयन्त्येष्वेवैनं तल्लोकेष्वाभजन्ति ।
+> स्वरसाम्न उपयन्तीमे वै लोकाः स्वरसामान इमांस्तै लोकान् स्वरसामभिस्तृण्वंस्तत्स्वरसाम्नां स्वरसामत्वं तद्यत्स्वरसाम्न उपयन्त्येष्वेवैनं तल्लोकेष्वाभजन्ति ।
 
-> *svarasāmna upayantīme vai lokāḥ svarasāmāna imāṃs tai lokān svarasāmabhis tṛṇvanti svarasāmatvaṃ tad yat svarasāmna upayanty eṣv evainaṃ tal lokeṣv ābhajanti |* [as read; garbled: [?]]
+> *svarasāmna upayantīme vai lokāḥ svarasāmāna imāṃs tai lokān svarasāmabhis tṛṇvaṃs tat svarasāmnāṃ svarasāmatvaṃ tad yat svarasāmna upayanty eṣv evainaṃ tal lokeṣv ābhajanti |* [as read; garbled: [?]]
 
 (Ai. Brā. 4-18 [?]).
 
