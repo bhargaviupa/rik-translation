@@ -12,3 +12,5 @@ Batch 4: done through printed p. 79 (PDF 97). Sūkta 185 Ṛk 4 closed; Ṛk 5 O
 Batch 5: done through printed p. 85 (PDF 103). Sūkta 185 Ṛk 5 closed; Ṛk 6 (urvī sadmanī) OPEN (Special Topics reached supratīke; grammar not seen). Next: PDF 104 = printed p. 86. [?]: p.82 Pā. 8-[?]-7; p.85 Ṛ.1-113-2 "ruśa[?]vatsā". Full flag list in file's progress note.
 
 Batch 6: done through printed p. 91 (PDF 109). Sūkta 185 Ṛk 6,7,8 closed; Ṛk 9 (ubhā śaṃsā naryā) OPEN: Saṃhitā + first half of Pada (to "… avasā sacetāṃ") written; continue Pada on p. 92 (PDF 110). [?]: p.90 "avaśyame[?]tadāgacchati". TODO: add_iast.py skips a bhāṣya block followed directly by "**Pratipadārtha.**" line (fixed pp.87,89 by hand) — check other bhāṣya blocks in Vol 14 for missing IAST. page.py zoom boxes often shifted ~+50..120px.
+
+Batch 7: done through printed p. 97 (PDF 115). Sūkta 185 Ṛks 9,10 closed; Ṛk 11 (idaṃ dyāvāpṛthivī satyamastu) OPEN: Saṃhitā, Pada written; bhāṣya stops at "… he pitardyauḥ he" — continue on p. 98 (PDF 116). [?]: p.92 "ṣaṣṭhy[?] rūpaṃ"; p.94 Pā. 3-[?]-34; p.95 "tattṛpti[?]rītikaram"; p.96 Atha.Ve. 3-[?]3-6. p.93 header prints Adhyāya 3 (pp.95,97 print 5).
