@@ -14268,7 +14268,7 @@ Besides these epithets, there are many contexts which speak of the identity (*t�
 > *yaṃ vai sūryaṃ svarbhānustamasāvidhyadāsuraḥ |*
 > *atrayastamanvavindanna hyanye aśaknuvan ‖*
 
-(Ṛ. Saṃ. 5-40-8 to 9 [?]) — in this it is said that Atri, intent on the sacrificial rite, by his divine power and by godly power set the vision of the Āditya in the sky and destroyed the power of Svarbhānu. In this same sūkta the Sun shows gratitude to Atri:
+(Ṛ. Saṃ. 5-40-7 to 9 [?]) — in this it is said that Atri, intent on the sacrificial rite, by his divine power and by godly power set the vision of the Āditya in the sky and destroyed the power of Svarbhānu. In this same sūkta the Sun shows gratitude to Atri:
 
 > मा मामिमं तव सन्तमत्र इरस्या द्रुग्धो भियसा नि गारीत् ।
 > त्वं मित्रो असि सत्यराधास्तौ मोहावतं वरुणश्च राजा ॥
@@ -14774,7 +14774,7 @@ In the sense of control (*niyamana*), the name *niyutvān* is well known also fo
 
 - ***yuvethe*** — root *yu miśraṇāmiśraṇayoḥ*; by "*vyatyayo bahulam*" (Pā. Sū. 3-1-85) the ending *āthām* in the second person dual; by "*ṭita ātmanepadānāṃ ṭer e*" (Pā. Sū. 3-4-79) *e* for the *ṭi*; by *vyatyaya* the *śa* *vikaraṇa*; by "*ato yeyaḥ*" … (Pā. Sū. 6-2-[?], as read [?]) *iya* for the *ā*; by "*āto lopa iṭi ca*" (Pā. Sū. 6-4-64 [?]) elision of the *y*; *guṇa*; by "*aci śnudhātubhruvāṃ…*" (Pā. Sū. 6-4-77) *uvaṅ* substitution; because of *yad*-connection no *nighāta* accent; the *vikaraṇa* accent remains.
 - ***sṛjathaḥ*** — root *sṛja visarge*; second person dual; *tiṅ*-final *nighāta* accent.
-- ***preṣat*** — root *prīñ tarpaṇe kāntau ca*; *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ*" elision of the *i*; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94) the augment *aṭ*; by "*sibbahulaṃ leṭi*" (Pā. Sū. 3-1-34) *sip*; taking that as the cause, *guṇa* for the root; by "*ādeśapratyayayoḥ*" (Pā. Sū. 8-3-59 [?]) *ṣatva* for the *s*; being in *pādādi* position there is no *nighāta*; the suffixes being *pit*, they are *anudātta*, so the root accent remains.
+- ***preṣat*** — root *prīñ tarpaṇe kāntau ca*; *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ*" elision of the *i*; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94) the augment *aṭ*; by "*sibbahulaṃ leṭi*" (Pā. Sū. 6-1-34) *sip*; taking that as the cause, *guṇa* for the root; by "*ādeśapratyayayoḥ*" (Pā. Sū. 8-3-59 [?]) *ṣatva* for the *s*; being in *pādādi* position there is no *nighāta*; the suffixes being *pit*, they are *anudātta*, so the root accent remains.
 - ***veṣat*** — root *vī gatyādiṣu*; *leṭ*, third person singular; the operations as before; being in an *atiṅanta* word-position, no *nighāta*; the root accent remains.
 - ***dade*** — root *ḍudāñ dāne*; since it is connected with the prefix *ā*, by "*āṅo 'nāsyavivaraṇe*" (Pā. Sū. 1-3-20) it is *ātmanepada*; third person singular …
 
@@ -15279,7 +15279,7 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 - ***yāthaḥ*** — root *yā prāpaṇe*; *laṭ*, second person dual; *tiṅ*-final *nighāta* accent.
 - ***dhattam*** — root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *loṭ*, second person dual; being in *pādādi* position, no *nighāta*; by the suffix accent the final syllable is *udātta*.
 - ***svaśvyam*** — *śobhanānām aśvānāṃ samūhaḥ svaśvyam*; the suffix *yat* in the sense of "collection"; by "*yato 'nāvaḥ*" (Pā. Sū. 6-1-213) the *ādyudātta* accent.
-- ***nāsatyā*** — by "*supāṃ sulak…*" (Pā. Sū. 7-1-39) *ā* for the dual of the vocative; being in *pādādi* position, the vocative *nighāta* does not occur; by "*āmantritasya ca*" (Pā. Sū. 7-1-198) the *ādyudātta* accent.
+- ***nāsatyā*** — by "*supāṃ sulak…*" (Pā. Sū. 6-1-39) *ā* for the dual of the vocative; being in *pādādi* position, the vocative *nighāta* does not occur; by "*āmantritasya ca*" (Pā. Sū. 7-1-198) the *ādyudātta* accent.
 
 ---
 
