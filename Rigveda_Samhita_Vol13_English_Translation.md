@@ -7227,11 +7227,11 @@ Following this order, in the Soma sacrifice the offering of the morning pressing
 
 > *tebhyas tṛtīyasavane vāci kalpayiṣaṃs tān viśve devā ānonudyanta neha pāsyanti neheti sa prajāpatir abravīt savitāraṃ tava vā ime 'ntevāsā [?] … saṃpibasveti sa tathety abravīt savitā tān asmai tvam ubhayataḥ pariṣiñceti tān prajāpatir ubhayataḥ paryasibat [?] ‖*
 
-(Ai. Brā. 6-13 [?]). When, at the third pressing, the gods prepared a place for them, the Viśve-devāḥ drove them out, saying, "They shall not drink here." Prajāpati then said to Savitṛ, "These are your pupils; drink along with them"; Savitṛ agreed, and Prajāpati too drank along with the Ṛbhus: thus the position of the Ṛbhus at the third pressing is shown. And as stated in another passage of the Aitareya Brāhmaṇa:
+(Ai. Brā. 6-13). When, at the third pressing, the gods prepared a place for them, the Viśve-devāḥ drove them out, saying, "They shall not drink here." Prajāpati then said to Savitṛ, "These are your pupils; drink along with them"; Savitṛ agreed, and Prajāpati too drank along with the Ṛbhus: thus the position of the Ṛbhus at the third pressing is shown. And as stated in another passage of the Aitareya Brāhmaṇa:
 
-> प्रजापतिर्वै यज्ञं छन्दांसि देवेभ्यो भागधेयानि व्यभजत्स गायत्रीमेवाग्नये वसुभ्यः प्रातःसवनेऽभजत्त्रिष्टुभमिन्द्राय रुद्रेभ्यो माध्यंदिने जगतीं विश्वेभ्यो देवेभ्य आदित्येभ्यस्तृतीयसवने ॥
+> प्रजापतिर्वै यज्ञं छन्दांसि देवेभ्यो भागधेयानि व्यभजत्स गायत्रीमेवाग्नये वसुभ्यः प्रातःसवनेऽभजत्त्रिष्टुभमिन्द्राय रुद्रेभ्यो मध्यंदिने जगतीं विश्वेभ्यो देवेभ्य आदित्येभ्यस्तृतीयसवने ॥
 
-> *prajāpatir vai yajñaṃ chandāṃsi devebhyo bhāgadheyāni vyabhajat sa gāyatrīm evāgnaye vasubhyaḥ prātaḥsavane 'bhajat triṣṭubham indrāya rudrebhyo mādhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyas tṛtīyasavane ‖*
+> *prajāpatir vai yajñaṃ chandāṃsi devebhyo bhāgadheyāni vyabhajat sa gāyatrīm evāgnaye vasubhyaḥ prātaḥsavane 'bhajat triṣṭubham indrāya rudrebhyo madhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyas tṛtīyasavane ‖*
 
 (Ai. Brā. 12-2 [?]). Prajāpati distributed to the gods the portions of the sacrifice and of the metres: he allotted the Gāyatrī to Agni and the Vasus at the morning pressing; the Triṣṭubh to Indra and the Rudras (Maruts?) at the midday pressing; and the Jagatī to the Viśve-devāḥ and the Ādityas at the third pressing.
 
@@ -7247,7 +7247,7 @@ Since Agni represents the Brāhmaṇa's brilliance, Indra the Kṣatriya's power
 
 > *lokadvāram apāvārṇā paśyema tvā vayaṃ … atha juhoti namo 'gnaye pṛthivīkṣite lokakṣite lokaṃ me yajamānāya vindaiṣa vai yajamānasya loka etāsmi ‖* [as read; omission marked by dots in the print: [?]]
 
-(Chā. Up. 2-24-… [?]).
+(Chā. Up. 2-24).
 
 ### Printed p. 288  (PDF 308)
 
@@ -7429,18 +7429,18 @@ Under the word *gauḥ*, the explanation of the meanings "earth", "animal" and s
 
 **Saṃhitā-pāṭha**
 
-> असामु यथा सुषखाय एन स्वभिष्टयो नरां न शंसैः ।
+> असाम यथा सुषखाय एन स्वभिष्टयो नरां न शंसैः ।
 > असद्यथा नो इन्द्रो वन्दनेष्ठास्तुरो न कर्म नयमान उक्था ॥ ९ ॥
 
-> *asāmu yathā suṣakhāya ena svabhiṣṭayo narāṃ na śaṃsaiḥ |*
+> *asāma yathā suṣakhāya ena svabhiṣṭayo narāṃ na śaṃsaiḥ |*
 > *asad yathā no indro vandaneṣṭhās turo na karma nayamāna ukthā ‖ 9 ‖*
 
 **Pada-pāṭha**
 
-> असामु । यथा । सुऽसखायः । एन । सुऽअभिष्टयः । नराम् । न । शंसैः ।
+> असाम । यथा । सुऽसखायः । एन । सुऽअभिष्टयः । नराम् । न । शंसैः ।
 > असत् । यथा । नः । इन्द्रः । वन्दनेऽस्थाः । तुरः । न । कर्म । नयमानः । उक्था ॥ ९ ॥
 
-> *asāmu | yathā | su-sakhāyaḥ | ena | su-abhiṣṭayaḥ | narām | na | śaṃsaiḥ |*
+> *asāma | yathā | su-sakhāyaḥ | ena | su-abhiṣṭayaḥ | narām | na | śaṃsaiḥ |*
 > *asat | yathā | naḥ | indraḥ | vandane-sthāḥ | turaḥ | na | karma | nayamānaḥ | ukthā ‖ 9 ‖*
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
@@ -7780,7 +7780,7 @@ The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprin
 > *eṣa stoma indra tubhyam asme etena gātuṃ harivo vido naḥ |*
 > *ā no vavṛtyāḥ suvitāya deva vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 13 ‖*
 
-(Zoomed: the print has the vowel sign *u* (ು) on the *ma* after *stoma*, i.e. printed *stomu* — not a visarga; the text above keeps *stoma* as the evident intended word.)
+(Zoomed: the mark after *stoma* is the printer's own glyph for *ma* (this typeface draws ma and ya with a hook that looks like the u-sign), followed by no visarga: the word is *stoma*.)
 
 **Pada-pāṭha**
 
