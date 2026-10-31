@@ -887,7 +887,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > *ratho raṃhater gatikarmaṇaḥ | sthiratervā syādviparītasya | ramatervā syādviparītasya | ramamāṇo 'smiṃstiṣṭhatīti vā | rasatervā [?]*
 
-(Ni. 9-11 [?]) That is: the word may be formed from the root *raṃh*, which indicates motion, or from the root *sthira* in the opposite sense. Because this always goes about (travels), it is called *ratha*. Or the warrior (*yodha*) who sits in it becomes steady: when one sits on horses and other vehicles the body shakes about; when one sits in a chariot it does not shake about, one can sit steady; therefore it is called *ratha*. Or, since the one who sits in it enjoys himself while he sits there, it is called *ratha*: thus he has explained the literal sense.
+(Ni. 9-11) That is: the word may be formed from the root *raṃh*, which indicates motion, or from the root *sthira* in the opposite sense. Because this always goes about (travels), it is called *ratha*. Or the warrior (*yodha*) who sits in it becomes steady: when one sits on horses and other vehicles the body shakes about; when one sits in a chariot it does not shake about, one can sit steady; therefore it is called *ratha*. Or, since the one who sits in it enjoys himself while he sits there, it is called *ratha*: thus he has explained the literal sense.
 
 ***mithaspṛdhyeva*** — *balādhikyātparasparaspardhāviṣayāṇi*: "through the abundance of strength, things about which they compete with one another"; rubbing against each other (taking spar), "clashing against each other" (English in the source). Iron and the like *[continues on the next page]*
 
