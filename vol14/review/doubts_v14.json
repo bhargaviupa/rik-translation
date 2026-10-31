@@ -10006,5 +10006,221 @@
   ],
   "note": "ZOOMED, read: Ni. 8-4",
   "answer": ""
+ },
+ {
+  "pdf": 238,
+  "printed": 219,
+  "crop": [
+   0.328,
+   0.471,
+   0.47,
+   0.799
+  ],
+  "note": "ZOOMED, read: Ni. 8-22; 'ṛtavo vai srayājā' (sa for pa, as printed); 'prāṇā vai prayājā' without visarga",
+  "answer": ""
+ },
+ {
+  "pdf": 238,
+  "printed": 219,
+  "crop": [
+   0.518,
+   0.594,
+   0.169,
+   0.799
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-51-9",
+  "answer": ""
+ },
+ {
+  "pdf": 238,
+  "printed": 219,
+  "crop": [
+   0.603,
+   0.683,
+   0.169,
+   0.799
+  ],
+  "note": "ZOOMED, read: Śa. Brā. 1-3-2-9, 1-3-2-8, Kau. Brā. 3-4, Ai. Brā. 1-11, Śa. Brā. 11-2-7-27, Tai. Saṃ. 6-1-5-4",
+  "answer": ""
+ },
+ {
+  "pdf": 238,
+  "printed": 219,
+  "crop": [
+   0.731,
+   0.786,
+   0.169,
+   0.799
+  ],
+  "note": "ZOOMED, read: Āprī sūkta 1-142",
+  "answer": ""
+ },
+ {
+  "pdf": 239,
+  "printed": 220,
+  "crop": [
+   0.296,
+   0.324,
+   0.277,
+   0.686
+  ],
+  "note": "ZOOMED, read: Bṛ. De. verse 'stutaścedhmo' and 'narāśaṃsastritīyāyāṃ' (tri as printed; two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 239,
+  "printed": 220,
+  "crop": [
+   0.368,
+   0.396,
+   0.277,
+   0.686
+  ],
+  "note": "ZOOMED, read: 'daivyāviti' printed 'devyāviti', 'navamyāvyṛci saṃstutāḥ' as printed (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 239,
+  "printed": 220,
+  "crop": [
+   0.486,
+   0.511,
+   0.523,
+   0.81
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 2-146 to 151",
+  "answer": ""
+ },
+ {
+  "pdf": 239,
+  "printed": 220,
+  "crop": [
+   0.611,
+   0.655,
+   0.245,
+   0.81
+  ],
+  "note": "ZOOMED, read: Ni. 8-22; 'tanūnapātvaṃti' twice",
+  "answer": ""
+ },
+ {
+  "pdf": 239,
+  "printed": 220,
+  "crop": [
+   0.775,
+   0.8,
+   0.277,
+   0.653
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 'daśyaitānītarāṇi' as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 240,
+  "printed": 221,
+  "crop": [
+   0.42,
+   0.441,
+   0.655,
+   0.755
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 2-152 to 157 (last digit flat-footed = 7; two tries, 1000 dpi)",
+  "answer": ""
+ },
+ {
+  "pdf": 240,
+  "printed": 221,
+  "crop": [
+   0.245,
+   0.268,
+   0.254,
+   0.672
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 'atraiva praiṣasūktaṃ syānnayajuṣvādriyeta tat'",
+  "answer": ""
+ },
+ {
+  "pdf": 240,
+  "printed": 221,
+  "crop": [
+   0.755,
+   0.779,
+   0.204,
+   0.8
+  ],
+  "note": "UNDECIDED: table row 3 'nṛśastraṃ nyā[?]ḥ praṇetraṃ' — second word read as nyāḥ, subscript sign unclear (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 241,
+  "printed": 222,
+  "crop": [
+   0.195,
+   0.247,
+   0.513,
+   0.84
+  ],
+  "note": "UNDECIDED: table row 7 'kṛṇavān?e' — subscript under na unclear (ta-like?), written kṛṇavānte [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 241,
+  "printed": 222,
+  "crop": [
+   0.814,
+   0.835,
+   0.646,
+   0.84
+  ],
+  "note": "ZOOMED, read: 1-13 (faint print)",
+  "answer": ""
+ },
+ {
+  "pdf": 242,
+  "printed": 223,
+  "crop": [
+   0.565,
+   0.621,
+   0.172,
+   0.799
+  ],
+  "note": "ZOOMED, read: 1-13-8, 1-188-6, 1-142-8, 3-4-8, 5-5-6, 9-5-8; 5-5-2, 3-4-5",
+  "answer": ""
+ },
+ {
+  "pdf": 242,
+  "printed": 223,
+  "crop": [
+   0.621,
+   0.645,
+   0.172,
+   0.539
+  ],
+  "note": "ZOOMED, read: 1-13-2, 6-2-6, 10-110-8 (two tries)",
+  "answer": ""
+ },
+ {
+  "pdf": 242,
+  "printed": 223,
+  "crop": [
+   0.687,
+   0.744,
+   0.172,
+   0.799
+  ],
+  "note": "ZOOMED, read: 1-142-3, 3-4-2, 10-110-1",
+  "answer": ""
+ },
+ {
+  "pdf": 242,
+  "printed": 223,
+  "crop": [
+   0.812,
+   0.833,
+   0.605,
+   0.799
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 3-4-1",
+  "answer": ""
  }
 ]
