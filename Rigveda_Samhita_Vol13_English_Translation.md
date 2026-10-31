@@ -7490,14 +7490,14 @@ By the two similes *narāṃ na* and *turo na* the comparison with kings and wit
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
 - ***asāma*** — root *asa bhuvi*; *loṭ*, first person plural; being in *pādādi* position, no *nighāta*; the augment *a* (*āḍāgama*); *pit*, so the root accent remains.
-- ***susakhāyaḥ*** — *śobhanaḥ sakhā yeṣāṃ te*; by "*naño subhyām*" (Pā. Sū. 6-2-172 [?]) the final member is *udātta* in its accent.
+- ***susakhāyaḥ*** — *śobhanaḥ sakhā yeṣāṃ te*; by "*naño subhyām*" (Pā. Sū. 6-2-172) the final member is *udātta* in its accent.
 - ***svabhiṣṭayaḥ*** — *śobhanā abhiṣṭayo yeṣāṃ te*; as before, the final member is *udātta*.
-- ***narām*** — "*sānvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]); the genitive plural has the *udātta* accent.
+- ***narām*** — "*sānvekācas tṛtīyādiḥ*" (Pā. Sū. 6-1-168); the genitive plural has the *udātta* accent.
 - ***śaṃsaiḥ*** — root *śaṃsu stutau*; suffix *ghañ*; being *ñit*, the first syllable is *udātta*; third plural.
-- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular, *tip*; "*iteś ca lopaḥ*" (Pā. Sū. 3-4-97 [?]); the augment by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]); in the *pādādi* position no *nighāta*; the root accent remains.
+- ***asat*** — root *asa bhuvi*; *leṭ*, third person singular, *tip*; "*iteś ca lopaḥ*" (Pā. Sū. 3-4-97); the augment by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94); in the *pādādi* position no *nighāta*; the root accent remains.
 - ***vandaneṣṭhāḥ*** — *vandane tiṣṭhatīti vandaneṣṭhāḥ*; root *ṣṭhā gatinivṛttau*; suffix *kvip*; by "*tatpuruṣe kṛti bahulam*" the locative is not dropped; the *kṛdutta* final member keeps its natural accent.
-- ***turaḥ*** — root *tura tvaraṇe*; by "*igupadhajñāprīkiraḥ kaḥ*" (Pā. Sū. 3-1-135 [?]) the suffix *ka*; being *kit*, no light-vowel guṇa; the suffix accent is end-*udātta*.
-- ***ukthā*** — root *vaca paribhāṣaṇe*; by "*pātṛtudivacī*…" (Uṇ. Sū. 2-… [?]) the suffix *thak*; being *kit*, by "*vaciśvapiyajādīnāṃ kiti*" (Pā. Sū. 6-1-15 [?]) *saṃprasāraṇa* with the earlier form; "*coḥ kuḥ*" gives *ku*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39 [?]) the third (instrumental) before a following vowel takes the preceding *savarṇadīrgha*. ‖ 9 ‖
+- ***turaḥ*** — root *tura tvaraṇe*; by "*igupadhajñāprīkiraḥ kaḥ*" (Pā. Sū. 3-1-135) the suffix *ka*; being *kit*, no light-vowel guṇa; the suffix accent is end-*udātta*.
+- ***ukthā*** — root *vaca paribhāṣaṇe*; by "*pātṛtudivacī*…" (Uṇ. Sū. 2-164 [?]) the suffix *thak*; being *kit*, by "*vaciśvapiyajādīnāṃ kiti*" (Pā. Sū. 6-1-15) *saṃprasāraṇa* with the earlier form; "*coḥ kuḥ*" gives *ku*; by "*supāṃ suluk*" (Pā. Sū. 7-1-39) the third (instrumental) before a following vowel takes the preceding *savarṇadīrgha*. ‖ 9 ‖
 
 ---
 
