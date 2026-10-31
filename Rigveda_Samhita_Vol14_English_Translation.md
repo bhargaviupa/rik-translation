@@ -7193,4 +7193,256 @@ Since रसाशिर (*rasāśira*) is said here, the meaning is Soma with e
 
 ---
 
-**Progress note:** Done through printed p. 211 (PDF 230; PDF 223 is a duplicate of PDF 222 = p. 204, so printed = PDF − 19 from p. 205). Sūkta 187 (pituṃ nu; 11 ṛks) under way: Pīṭhike pp. 177–184, introduction pp. 184–185; Ṛk 1 pp. 186–189; Ṛk 2 pp. 190–191; Ṛk 3 pp. 191–194; Ṛk 4 pp. 194–196; Ṛk 5 pp. 196–198; Ṛk 6 pp. 199–201 (Varga 7 begins p. 199); Ṛk 7 pp. 201–203; Ṛk 8 pp. 203–205; Ṛk 9 pp. 205–211 (closed at the foot of p. 211). Ṛk 10 begins on p. 212 / PDF 231 (nothing of it written). Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md. Flags from p. 151: p. 151 header Varga 5, Ni. 3-19 as printed (stotṛ names), Ṛ. 1-63-3 (only the 'vāvṛdhadhyai' line quoted, while the Kannada names 'vipaścitam indram'), 1-122-8, 6-23-10, 10-81-6 ('muhyaṃtvanye', u-sign distinct), 'Ṛ. Suṃ.' 1-141-8 ('apasya' as read) zoomed, Ṛ. 1-22-20 read unzoomed (zoom missed twice). New (pp. 152–157): p. 152 Pā. 6-3-1-36 as printed (nipātasya ca), 3-2-87 (four zoom tries), 6-1-168 zoomed; p. 153 Pada and bhāṣya 'nasaṃta' zoomed; p. 154 Ṛ. 1-11-4, Ni. 1-9, Ni. 1-10 (stray dot), Uṇ. Sū. 4-34 zoomed, grammar headword printed like 'taru ma' (for taruṇam); p. 155 header printed 'Va. 1 A. 2. A. 5' (reversed, Varga 1 as printed), Pā. 3-4-6 zoomed, rihaṃti note 'l for the r of the root' as printed, 'bahulaṃ chaṃda' cut short, bhāṣya 'gacchatāṃ', 'yathaiva namanasvabhāvā' (stray dot) zoomed; p. 156 header 'A. 23' as printed (for 24), Ni. 2-28 as printed (vāhana list), 'harita ādityasya' as printed; p. 157 Ṛ. 1-37-2, 1-39-6, 1-85-5, 8-7-28, Pā. 6-1-64 (split over a line), 7-1-50 zoomed, Uṇ. Sū. 2-254 and 4-628 as read (zoomed; digits small). New (pp. 158–163): p. 158 bhāṣya 'adhātha', 'utpādayaṃti', 'sarvamūṣaraṃ karoti' as printed (zoomed), 'sasyādisamṛddhyā satyāṃ' (subscript under ta unclear; zoomed), Pratipadārtha 'prayujāṃ' as printed; p. 159 Ni. 1-4, Ṛ. 6-24-3, 'vyū3tayo' zoomed; p. 160 opens 'hne 'hni durdinam' as printed (meghacchanne expected; zoomed), Ni. 5-12, Ṛ. 10-34-1, Ni. 9-8, 'Ṛ. Suṃ.' 1-38-9, Ṛ. 1-64-6 zoomed, 'vithatheṣv' [?] (vidatheṣv expected) UNDECIDED; p. 161 Ṛ. 8-7-16, Pā. 3-4-81, 6-4-76, 3-1-84, Uṇ. 1-10 zoomed, Uṇ. Sū. 2-209 [?] UNDECIDED (2 or 7); p. 162 Saṃhitā Ṛk 10 'kṛṇudhvaṃ sa[?] pra' UNDECIDED (stray akṣara, not in the Pada); p. 163 Ni. 9-3, 3-13, 10-34, Ṛ. 10-168, 6-50-12, 10-92-13 zoomed, 10-186 read from the strip (zoom cut it off). New (pp. 164–167): p. 164 Ṛ. 1-2-4, 6-49-6 ('pṛthivyāḥ'), Śa. Brā. 14-4-2-25, Bṛ. De. 2-63, Pūṣan sūktas 6-53 to 56, 58, ~120 places, 2/5/1 sūktas, Ṛ. 6-57, 2-40 zoomed, Ni. 12-[?]6 UNDECIDED (broken digit, likely 16); p. 165 header Varga 5, Ṛ. 1-42-1 to 3, 6-53-4, 1-42-3, 8, 6-49-8, 6-53-1, Āśv. Gṛ. 3-6-8, Śāṅ. Śrau. 3-4-9, Ṛ. 1-23-14, 15, Tai. Saṃ. 3-3-9-1, Ā. Gṛ. 3-7-9, Ṛ. 6-54-7, 10, Mai. Saṃ. 4-3-7, Tai. Brā. 1-7-2-4, Śāṃ. Gṛ. 3-9 zoomed (Ṛ. 6-55-1 read from the strip); p. 166 Ni. 12-18, 12-19 (twice) read from the strip, Max Müller SBE XXXII p. 133 'emblamatic' [sic]; p. 167 Tai. Saṃ. 1-7-5-4, 2-4-12-3 ('mā no pra hārasti vā idaṃ' as printed), Śa. Brā. 1-9-3-9 ('etasmai viṣṇuryajñaṃ' as printed), 6-7-4-7, Ṛ. 1-156-5 zoomed. New (pp. 168–169): p. 168 Śa. Brā. 6-7-4-7, Ṛ. 1-154-2 zoomed, 'prādatraya' as printed (for pādatraya); p. 169 Ṛ. 4-44-4, 1-180-1, 8-5-29, 8-22-5, 10-85-15 ('tasthatuḥ' as printed), 1-117-2, 6-63-6, 4-45-4, 1-118-4, 8-5-7, Ni. 2-28, Ṛ. 1-34-9, 1-116-2, 7-69-4, 4-43-6, 5-73-5, 8-8-10, 1-34-5, 1-116-17, 1-118-5, 6-63-5, 7-68-3, 1-116-10 zoomed, 8-29-8 read from the strip. New (pp. 170–171): p. 170 Ṛ. 1-117-13, 1-118-6 (opening bracket not printed), 5-74-5, 7-68-6, 7-71-5, 1-112-15, 1-112-19 (three tries), 1-116-1, 1-116-20; 10-39-7 zoomed, 'Puramitra', 'Kamadhyu' (10-65-12) as printed, 10-39-4 and 10-39-8 read from the strip; p. 171 all reference lists zoomed (2 vs 7 calibrated at 1000 dpi: round glyph 2, flat-footed 7), Viśvaka 'Ṛ. Saṃ. 8-75-1 to 3' as read, Bhujyu list '10-47-7' as read (not 40). New (pp. 172–173): p. 172 Vandana refs 1-112-5; 1-116-11; 1-117-5; 1-118-6; 10-39-8' 1-119-6, 7 (apostrophe as separator, as printed), Kakṣīvat 1-116-7; 1-117-6, Atri 1-112-7; 1-116-8; 1-117-3; 1-118-7; 1-119-6; 5-78-4 to 6; 7-71-5; 8-62-3, 7 to 9; 10-39-9; Ṛ. 10-80-3, Vadhrimatī 1-116-13; 1-117-24; 6-62-7, Ghoṣā 1-117-7; 10-39-3, 6; '10-4-5' as printed, Śayu and Pedu lists zoomed, sūkta list '1 2' (gap as printed), 116, 117, 118 zoomed; p. 173 quail refs (10 39-13 as printed), Pā. 8-1-34, 6-2-172, Uṇ. 3-366, 'U. Sū.' 6-3-136 as printed, Pā. 3-4-106, 3-4-102, 7-2-79 zoomed. New (pp. 174–175): p. 174 Pada ends without ṛk number, Pratipadārtha 'havirbhāva' as printed (Bhāvārtha āvirbhāva; zoomed), printed English 'admiration' with a broken a, 'life·' [sic]; p. 175 Ṛ. 1-118-11, 1-165-7, 3-36-10 zoomed, unsourced Sanskrit passage on asme (sarvavibhaktyanta), 'asmabhyami:tyarthaḥ' stray colon as printed. New (pp. 176–177): p. 176 Ṛ. 6-47-13 ('sumatau' with displaced subscript mark, 'svavā' without nasal, as printed), 3-30-19 (three tries), 1-79-4 zoomed, Pā. Sū. 7-1-34 as printed for supāṃ suluk (zoomed; cf. p. 99 7-1-39), Uṇ. Sū. 3-38[?] (aminakṣiyaji…) UNDECIDED, Pā. 6-1-193 zoomed; p. 177 header Varga 5, Pā. 8-1-66, 3-1-8, 3-2-170, Ṛgvidhāna 1-27 (four tries), Tai. U. 2-1 zoomed; Sūkta 186 has no printed closing note/colophon. p. 178 header 'A. 24' (first digit broken) and Tai. U. 2-2 zoomed; p. 179 header Varga 6, 'tadvratam' (displaced ra-subscript) zoomed, 'tasmādannaṃ taducyate' as printed. p. 180 'sa yaḥ' (visarga-like mark, as printed), Tai. U. 3-7, 3-8, 'jotiṣyāpaḥ' as printed, Ṛ. 10-117-6 zoomed; p. 181 header Varga 6, Ṛ. 10-117-4, Tai. U. 3-9, 'vasatau' zoomed. New (pp. 182–183): p. 182 'asmālokāt' (single la), 'imān lokān' (three tries), 'ahamannādo'2' (round glyph after avagraha, as printed) zoomed, 'etadvā' and 'pari ye priyā' (no avagraha) as printed, Gītā verse 'dātavyam iti' without reference; p. 183 'paṃkliṣṭaṃ' as printed (two tries), tāmasa gift called 'adharma' as printed. New (pp. 184–185): p. 184 Anu. 5-7 and Ṛgvi. 1-27 zoomed (two tries each), confirmed in larger type p. 185; p. 185 'pituṃ na' as printed in the Kannada. New (pp. 186–187): p. 186 sūkta block Varga 6-7 (two tries) and chandas line (1 anuṣṭubgarbhā uṣṇik; 2, 4, 8–10 gāyatrī; 3, 5, 6, 7, 11 anuṣṭubh) zoomed; p. 187 Ni. 2-9 (as printed, pitu among 28 food names), Ni. 9-24, 9-25 zoomed, printed English 'Vritra·' [sic]. New (pp. 188–190): p. 188 pitu refs Ṛ. 1-61-7, 1-132-6, 1-187-1, 6-20-4, Atha. 4-6-3, Tai. Saṃ. 5-7-2-4, Vā. Saṃ. 2-20, 12-65, Ai. Brā. 1-13, Ni. 3-9 as printed (taviṣī), Ni. 4-6, Bhāga 5 pp. 230–231, Bhāga 8 pp. iii–viii, 443–447, Ṛ. 1-32-1 zoomed; p. 189 Ṛ. 1-165-8, 7-21-6, 10-138-6, 10-113-8, 10-80-5, 6-20-2, 10-48-3, 10-120-3, 2-20-8, 3-32-4, 10-73-1, 8-85-7 (as printed), 4-18-11, Ai. Brā. 3-20, Ṛ. 8-7-31, Pā. 3-2-75, 3-1-25 zoomed, U. Sū. 1-[?]0 (paḥ kicca) UNDECIDED, ardayat called luṅ as printed; p. 190 bhāṣya 'sarvatrana[?]nudāttānāṃ' UNDECIDED, 'pūrvasyā sāmānyavacanatvena…' as printed, printed English 'protector·' [sic]. p. 191 Pā. 6-1-198, 3-4-79, 8-1-72 zoomed, Pā. 8-1-79 as printed for nāmantrite samānādhikaraṇe (zoomed, two tries), Ṛk 3 bhāṣya headed Vyākaraṇaprakriyā (misprint); p. 192 Ni. 3-13 as printed (śiva among twenty sukha names), Ṛ. 7-55-1 zoomed, 'śiṣyaternakāro' as printed (zoomed at 1000 dpi), 'vibhāṣitaguṇa' without visarga as printed, printed English 'bnt' [sic]; p. 193 Ni. 10-17, U. Sū. 1-151, Pā. 6-2-172 zoomed, mayaḥ among sukha names without reference. New (pp. 194–195): p. 194 U. Sū. 1-150 (middle digit read as 5), Pā. 6-2-119, 6-2-2 zoomed, bhāṣya 'lokā~lloke-sthānārthānanvānukūlyena' zoomed; p. 195 Ṛ. 10-178-1, 1-19-1, Ni. 10-29, 37, Ni. 2-18, 4-19, Ṛ. 10-8-6, 6-30-3 zoomed, Ni. 4-19 'jyotī' as read, line 'rajāṃsi citrā vicaraṃti tānyavaḥ' without reference. p. 196 U. Sū. 6-56 as read (glyph as on p. 194), Pā. 7-4-40, Pā. 6-1-49 as printed (gatiranantaraḥ) zoomed, stray Latin '4' printed, Ṛk 5 Pada 'tuvigrīvāḥ' without division mark; p. 197 printed English 'yonr' [sic], Nirukta saying abhyāse hi… without reference. p. 198 Ni. 3-13 as printed (tuvi = bahu), Pā. 6-4-112, 6-1-189, 3-2-75 zoomed (3-2-75 confirms the ಜ-like glyph = 5, cf. pp. 194, 196), Wilson's note 'synonyme', 'becuuse' [sic]; p. 199 header Varga 7 zoomed, Chāṃ. 6 5-4 zoomed, bhāṣya 'anyṛtamapi' as printed (zoomed), printed English 'fixed.' [sic]. New (pp. 200–201): p. 200 Ni. 2-24 as printed (mahat, mahaḥ among udaka names; five tries), Ni. 3-13 as printed (ketu = prajñāna), Pā. 3-1-134 ('nandigrahipacādibhya' without visarga), 7-4-42, 3-1-66 zoomed; p. 201 header Varga 7, Pā. 6-4-104 zoomed, Ṛk 7 bhāṣya 'supo luk', double daṇḍas, 'vivo dhanam' as printed (zoomed). New (pp. 202–203): p. 202 Ni. 7-26 (first digit as the 7 of Pā. 7-4-42), Ni. 2-21 (parvata among thirty megha names), Ni. 1-20, Pā. 8-2-64 zoomed, Pā. 1-1-19 as printed for tasau matvarthe (zoomed), sūtra name printed 'hal ṅābhyo' (zoomed); p. 203 header Varga 7, Pā. 7-1-39, 6-3-136 zoomed, 'vālamūlalaṣva' as printed (zoomed), Ṛk 8 bhāṣya 'āsvādhayāmaḥ' (second occurrence) as printed (zoomed). New (p. 204): Ṛ. 7-91-3 (twice), 10-86-14, 10-100-10 zoomed, 'aṃgdhve' with displaced subscripts as read, Special Topics heading printed garbled, Pratipadārtha '[athavā' bracket not closed; PDF 223 = duplicate of PDF 222. p. 205 Pā. 6-1-171, 8-1-71, 6-1-198 zoomed; Ṛk 9 Pada 'it bhava' without daṇḍa as printed. New (pp. 206–207): p. 206 Pratipadārtha headword 'prīvaḥ' as printed, Ṛ. 1-93-6, 3-48-2, 5-43-4 zoomed; p. 207 header Varga 7, Ṛ. 10-34-1, Vā. Saṃ. 3-61, Ni. 9-8, Ṛ. 8-7-29, 8-64-11, 9-65-22, 23, 9-92-3, 9-63-4, 9-74-9, 9-79-4 zoomed (first boxes a line too high), 'Pastya' and 'somavikrayaṇa' as printed. New (pp. 208–209): p. 208 Ṛ. 1-168-3, 3-48-2, 8-1-17, 4-28-9, 9-50-1, 1-28-7, 3-48-1, 4-16-1, 1-9-1, 1-83-6, 1-135-7, 1-130-2, 1-135-5, 1-137-1, 1-28-9, 4-18-3, 10-94-9, 10-116-4, 7-101-4, 8-20-8, 3-62-15, 9-1-2, 9-17-8, 9-65-6, 9-98-2, 2-14-9, 9-66-9, 9-15-7, 9-33-2, 1-116-24, 1-137-1, 3-32-2, 8-2-10, 1-5-5, 1-30-2, 8-2-9 zoomed (2 vs 7 calibrated at 1000 dpi), camū ref '6-5 7' [?] UNDECIDED (gap, no hyphen), 'Mūjavata' here vs 'Maujavata' p. 206, 'ladle·' [sic]; p. 209 header Varga 7, colour refs 9-33-2, 9-63-4 & 6, 9-3-9, 9-7-6, 9-65-8, 9-40-2, 9-45-3, 9-61-21, 9-97-13, 9-97-9, 9-107-2, dadhyāśiraḥ refs 1-137-2, 5-51-7, 7-32-4, 9-22-3, 9-63-15 zoomed; Bhāga 1 p. 676 cross-reference. NOTE: doubt.py records 'printed' with the old offset (PDF − 18) for PDF ≥ 225; the pdf field is right. New (pp. 210–211): p. 210 Ṛ. 9-101-12, 1-23-1, 1-30-2 (three tries each on strip 0; boxes landed high), 1-137-1, 8-2-9, 8-52-10 zoomed, verse 8-2-9 'puruniḥṣṭhāḥ', 'madhyataḥ āśīrtaḥ' as printed; p. 211 header Varga 7, Ṛ. 8-101-10, 1-187-9, 3-42-7, 8-92-4, 2-22-1, 5-27-5, 3-48-1, U. Sū. 1-52, Pā. 7-2-116, 6-1-186 zoomed; no Varga-close line printed at the end of Ṛk 9.
+---
+
+### Printed p. 212 (PDF 231)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 187". Ṛk 10: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun.)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> करंभ ओषधे भव पीवो वृक्क उदारथिः ।
+> वातापे पीव इद्भव ॥ १० ॥
+
+> *karaṃbha oṣadhe bhava pīvo vṛkka udārathiḥ |*
+> *vātāpe pīva idbhava ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> करंभः । ओषधे । भव । पीवः । वृक्कः । उदारथिः ।
+> वातापे । पीवः । इत् । भव ॥ १० ॥
+
+> *karaṃbhaḥ | oṣadhe | bhava | pīvaḥ | vṛkkaḥ | udārathiḥ |*
+> *vātāpe | pīvaḥ | it | bhava ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed; "ūrdhvagama" zoomed: the hooked glyph is ma.)*
+
+*Gist:* O plant, you who are the lump of meal, be stout, a remover of disease and an enkindler of the senses.
+
+> करंभो यः करंभादिरूपः सक्तुपिंडोऽस्ति तदात्मक हे ओषधे त्वं पीवः स्थौल्यवान् वृक्को व्याधेर्वर्जयिता भव । उदारथिरूर्ध्वगम इंद्रियाणामुद्दीपयिता भव । शिष्टो गतः ॥
+
+> *karaṃbho yaḥ karaṃbhādirūpaḥ saktupiṃḍo 'sti tadātmaka he oṣadhe tvaṃ pīvaḥ sthaulyavān vṛkko vyādhervarjayitā bhava | udārathirūrdhvagama iṃdriyāṇāmuddīpayitā bhava | śiṣṭo gataḥ ‖*
+
+**Pratipadārtha.** करंभ (*karaṃbha*) — having the form of करंभ (*karaṃbha*); ओषधे (*oṣadhe*) — O plant (you); पीवः (*pīvaḥ*) — being one who gives nourishment; वृक्कः (*vṛkkaḥ*) — being one who promotes health free from disease; उदारथिः (*udārathiḥ*) — being one who gives consciousness (to the senses), be; वातापे (*vātāpe*) — O body; पीव इत् भव (*pīva it bhava*) — grow indeed stout.
+
+**Bhāvārtha.** O plant having the form of करंभ (*karaṃbha*), be you the giver of nourishment, the promoter of health free from disease, and the giver of consciousness to the senses. O body, do you grow indeed stout.
+
+**English Translation (as printed).**
+
+Vegetable cake of fried meal, be substantial, wholesome, and invigorating ; and, Body, do you grow fat· [sic]
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this ṛk the plant (the crop), which is the cause of food, is praised.
+
+**करंभ (*karaṃbha*)** — for this word the Bhāṣyakāra has said करंभो यः करंभादिरूपः सक्तुपिंडोऽस्ति तदात्मक (*karaṃbho yaḥ karaṃbhādirūpaḥ saktupiṃḍo 'sti tadātmaka*) |, that is, that what is made into balls by mixing (grain) flour is called करंभ (*karaṃbha*), and that the plant … *(continued on p. 213)*
+
+---
+
+### Printed p. 213 (PDF 232)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 7" (zoomed). Special Topics of Ṛk 10, continued.)*
+
+… present in that करंभ (*karaṃbha*) form is the plant: so the plant has been addressed. Yāska has said nothing about the word करंभ (*karaṃbha*). The Bhāṣyakāra —
+
+> पूषण्वते ते चकृमा करंभं हरिवते हर्यश्वाय धानाः ।
+
+> *pūṣaṇvate te cakṛmā karaṃbhaṃ harivate haryaśvāya dhānāḥ |*
+
+(Ṛ. Saṃ. 3-52-7, zoomed)
+
+— for the word करंभ (*karaṃbha*) in this ṛk, करंभं दधिमिश्रं सक्तुं (*karaṃbhaṃ dadhimiśraṃ saktuṃ*), a ball of flour mixed with curd; and
+
+> य एनमादिदेशति करंभादिति पूषणं । न तेन देव आदिशे ॥
+
+> *ya enamādideśati karaṃbhāditi pūṣaṇaṃ | na tena deva ādiśe ‖*
+
+(Ṛ. Saṃ. 6-56-1, zoomed)
+
+— in the bhāṣya of this ṛk, करंभात् करंभाणां घृतमिश्राणां यवसक्तूनां (*karaṃbhāt karaṃbhāṇāṃ ghṛtamiśrāṇāṃ yavasaktūnāṃ*), made by mixing wheat flour (as printed in the Kannada) and ghee and tying them into balls; and
+
+> सोममन्य उपासदत्पातवे चम्वोः सुतं । करंभमन्य इच्छति ॥
+
+> *somamanya upāsadatpātave camvoḥ sutaṃ | karaṃbhamanya icchati ‖*
+
+(Ṛ. Saṃ. 6-57 2, as printed: a gap, no hyphen; zoomed)
+
+— for the word करंभम् (*karaṃbham*) in this ṛk, करंभं घृतसिक्तं सक्त्वात्मकं हविः (*karaṃbhaṃ ghṛtasiktaṃ saktvātmakaṃ haviḥ*), an oblation (हविस् (*havis*)) in the form of flour mixed with ghee: so he has explained the meaning. Therefore करंभ (*karaṃbha*) may be taken to mean the oblation prepared in the form of a ball by combining ghee, curd and the like with flour, to be offered to the deities. The English scholar called Wilson has said of this word — करंभ ओषधे (*karaṃbha oṣadhe*) —
+
+The first is explained, a lump or cake of parched meal, सक्तुपिंड idendified [sic] with an herb or vegetable तदात्मक ओषधिः
+
+— and the scholar called Griffith —
+
+करंभ is some soft food, a sort of gruel, offered especially to पूषन्.
+
+*(The Sanskrit words in these notes are printed in Kannada script: सक्तुपिंड (*saktupiṃḍa*), तदात्मक ओषधिः (*tadātmaka oṣadhiḥ*), करंभ (*karaṃbha*), पूषन् (*pūṣan*).)*
+
+**ओषधे (*oṣadhe*)** — the meaning of the word ओषधि (*oṣadhi*) is a tree (वनस्पति (*vanaspati*)) or a plant (सस्य (*sasya*)). Yāska, stating the etymology of the word ओषधि (*oṣadhi*), cites the ṛk
+
+> या ओषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरा ।
+> मन्ये नु बभ्रूणामहं शतं धामानि सप्त च ॥
+
+> *yā oṣadhīḥ pūrvā jātā devebhyastriyugaṃ purā |*
+> *manye nu babhrūṇāmahaṃ śataṃ dhāmāni sapta ca ‖*
+
+(Ṛ. Saṃ. 10-97-1, zoomed)
+
+— and has said
+
+> ओषधयः । ओषधय ओषद्धयंतीति वा ।
+> ओषत्येना धयंतीति वा ॥
+> दोषं धयंतीति वा ॥
+
+> *oṣadhayaḥ | oṣadhaya oṣaddhayaṃtīti vā |*
+> *oṣatyenā dhayaṃtīti vā ‖*
+> *doṣaṃ dhayaṃtīti vā ‖*
+
+(Ni. 9-27, zoomed)
+
+That is, because it destroys (धयंति (*dhayaṃti*)) the diseases such as consumption (ओषत् (*oṣat*)) in the body, it has the name ओषधि (*oṣadhi*). Or, for the allaying of the burning that arises in the parts of the body such as the stomach … *(continued on p. 214)*
+---
+
+### Printed p. 214 (PDF 233)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 187". Ṛk 10: Special Topics and Vyākaraṇa-prakriyā concluded; Ṛk 11: Saṃhitā, Pada, bhāṣya, Pratipadārtha begun.)*
+
+… because they drink it (ओषति एना धयंति इति (*oṣati enā dhayaṃti iti*)) it has the name ओषधि (*oṣadhi*). Or, because it destroys the faults (दोष (*doṣa*)) such as वात (*vāta*) present in the body (दोषं धयंतीति वा (*doṣaṃ dhayaṃtīti vā*)), it has the name ओषधि (*oṣadhi*) — so he has stated three kinds of etymology. In the ṛk at hand the intended meaning is grain belonging to the class of crops, or flour prepared from grain.
+
+**वृक्कः—व्याधेर्वर्जयिता (*vṛkkaḥ—vyādhervarjayitā*)** | The intended meaning is: (food) that has the power to destroy disease.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar, noted briefly).** करंभः (*karaṃbhaḥ*) — root डुकृञ् करणे (*ḍukṛñ karaṇe*); auṇādika suffix अंभच् (*aṃbhac*); guṇa for the ik of the root; since the suffix is *cit*, end-acute accent. (No sūtra numbers printed.)
+
+*(A short rule closes Ṛk 10.)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> तं त्वा वयं पितो वचोभिर्गावो न हव्या सुषूदिम ।
+> देवेभ्यस्त्वा सधमादमस्मभ्यं त्वा सधमादं ॥ ११ ॥
+
+> *taṃ tvā vayaṃ pito vacobhirgāvo na havyā suṣūdima |*
+> *devebhyastvā sadhamādamasmabhyaṃ tvā sadhamādaṃ ‖ 11 ‖*
+
+**॥ पदपाठः ॥** *(The Pada prints सुसूदिम (*susūdima*), the Saṃhitā सुषूदिम (*suṣūdima*).)*
+
+> तं । त्वा । वयं । पितो इति । वचःऽभिः । गावः । न । हव्या । सुसूदिम ।
+> देवेभ्यः । त्वा । सधऽमादं । अस्मभ्यं । त्वा । सधऽमादं ॥ ११ ॥
+
+> *taṃ | tvā | vayaṃ | pito iti | vacaḥ 'bhiḥ | gāvaḥ | na | havyā | susūdima |*
+> *devebhyaḥ | tvā | sadha 'mādaṃ | asmabhyaṃ | tvā | sadha 'mādaṃ ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥** *(Sanskrit, transcribed.)*
+
+*Gist:* O food in Soma form, with words of praise we press out your juices, as cows yield milk for oblations, to gladden the gods and ourselves.
+
+> हे पितो अन्न सोमरूप तं तादृशं स्तुतं त्वा त्वां महानुभावं वचोभिः स्तुतिवाग्भिर्वयं सुषूदिम । क्षारयामो रसान् । तत्र दृष्टांतः । गावो न हव्या । गाव इव हवींष्युत्पादयंति तथा त्वत्सकाशात्सोमं सुषूदिम । किमर्थं कीदृशं चेति चेत् उच्यते । देवेभ्य इंद्रादिभ्यस्तदर्थं सधमादं तेषां सह मादयितारं । न केवलं देवेभ्य एव किंतु सधमादमस्माभिः सह मादयितारं हुतशेषरूपं त्वा त्वामस्मभ्यमस्मदर्थमपि ॥
+
+> *he pito anna somarūpa taṃ tādṛśaṃ stutaṃ tvā tvāṃ mahānubhāvaṃ vacobhiḥ stutivāgbhirvayaṃ suṣūdima | kṣārayāmo rasān | tatra dṛṣṭāṃtaḥ | gāvo na havyā | gāva iva havīṃṣyutpādayaṃti tathā tvatsakāśātsomaṃ suṣūdima | kimarthaṃ kīdṛśaṃ ceti cet ucyate | devebhya iṃdrādibhyastadarthaṃ sadhamādaṃ teṣāṃ saha mādayitāraṃ | na kevalaṃ devebhya eva kiṃtu sadhamādamasmābhiḥ saha mādayitāraṃ hutaśeṣarūpaṃ tvā tvāmasmabhyamasmadarthamapi ‖*
+
+**Pratipadārtha.** पितो (*pito*) — O food in the form of Soma; तं त्वा (*taṃ tvā*) — you, possessed of the qualities described before; देवेभ्यः (*devebhyaḥ*) — for the deities; सधमादं (*sadhamādaṃ*) — giving satisfaction; त्वा (*tvā*) — you also; अस्मभ्यं (*asmabhyaṃ*) — for us … *(continued on p. 215)*
+
+---
+
+### Printed p. 215 (PDF 234)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 7" (zoomed). Ṛk 11: Pratipadārtha concluded, Bhāvārtha, printed English, Special Topics, Vyākaraṇa-prakriyā begun.)*
+
+… too; सधमादं (*sadhamādaṃ*) — causing satisfaction; त्वा (*tvā*) — you; वयं (*vayaṃ*) — we; वचोभिः (*vacobhiḥ*) — with words in the form of praise; गावो न हव्या (*gāvo na havyā*) — as cows yield milk and the like needed for the oblation; सुषूदिम (*suṣūdima*) — we draw out your juice.
+
+**Bhāvārtha.** O food in the form of Soma, possessed of the qualities described before, giving satisfaction to the deities and to us: with our words in the form of praise we draw out your juice, so that you may give satisfaction to us as well, just as cows yield milk and the like needed for the oblation.
+
+**English Translation (as printed).**
+
+We extract from you, Pitu, by our praises, (the sacrificial food), as cows yield butter· [sic] for oblation ; from you, who are exhilarating to the gods ; exhilarating also to us· [sic]
+
+**Special Topics (Viśeṣaviṣayagaḷu).**
+
+In this ṛk food in the form of Soma is praised. Here an illustration, गावो न हव्या (*gāvo na havyā*), is given. The chief intended meaning is: as cows yield the milk needed for the oblation, so we, with words in the form of praise, obtain the six tastes such as sweetness that are in you (in the food); and by such food, that is, by food in the form of Soma, satisfaction (joy) arises for the deities and for us as well.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar, noted briefly; the heading is printed "Vyākara prakriyā").** वचोभिः (*vacobhiḥ*) — root वच परिभाषणे (*vaca paribhāṣaṇe*); suffix असुन् (*asun*), applicable to all roots; since it is *nit*, initial acute. हव्या (*havyā*) — by शेश्छंदसि बहुलम् (*śeśchaṃdasi bahulam*) (Pā. Sū. 6-1-7, as printed, zoomed) elision of *śi* in the neuter plural. सुषूदिम (*suṣūdima*) — root षूद क्षरणे (*ṣūda kṣaraṇe*); *s* for the initial by धात्वादेः षः सः (*dhātvādeḥ ṣaḥ saḥ*); by छंदसि लुङ्लङ्लिटः (*chaṃdasi luṅlaṅliṭaḥ*) (Pā. Sū. 3-4-6, zoomed) liṭ in the sense of the present; *ma* substituted for the first person plural; by आर्धधातुकस्येड्वलादेः (*ārdhadhātukasyeḍvalādeḥ*) (Pā. Sū. 7-2-3-5, as printed, zoomed) the augment *iṭ*; reduplication and the rest for the root; standing after a word that is not a finite verb, nighāta accent. सधमादम् (*sadhamādam*) — सह मादयति इति सधमादः (*saha mādayati iti sadhamādaḥ*); root मद तृप्तियोगे (*mada tṛptiyoge*), curādi; suffix अच् (*ac*) by नंदिग्रहपचादिभ्यः (*naṃdigrahapacādibhyaḥ*) (Pā. Sū. 3-134, as printed, zoomed); सधमादस्थयोश्छंदसि (*sadhamādasthayośchaṃdasi*) … *(continued on p. 216)*
+
+---
+
+---
+
+### Printed p. 216 (PDF 235)
+
+*(Header: "Maṃ. . A. 24 Sū. 188" (zoomed; the Maṇḍala numeral is not printed). Ṛk 11: Vyākaraṇa-prakriyā concluded; end of Sūkta 187; Sūkta 188: half-title and Pīṭhike begun.)*
+
+(Pā. Sū. 6-3-66, as printed; zoomed) — by this, when माद (*māda*) follows, सध (*sadha*) is substituted for सह (*saha*). By the थाथादि (*thāthādi*) accent the end-acute of the latter member would apply; as an exception to it, by परादिश्छंदसि बहुलम् (*parādiśchaṃdasi bahulam*) (Pā. Sū. 6-2-199, zoomed) the latter member has its initial syllable acute.
+
+*(An ornament closes Ṛk 11 and Sūkta 187. No "… vargavu mugidudu" line and no Sanskrit colophon are printed.)*
+
+## Sūkta 188 — introductory matter (Pīṭhike)
+
+**The Hundred and Eighty-eighth Sūkta.** *(Half-title, in Kannada: "Nūra embhattentaneya sūktavu".)*
+
+**Pīṭhike (Introduction).**
+
+We have given the explanation of the Āprī sūktas in Ṛgveda Saṃhitā Bhāga 2, pages 73–74 and 528. In the Ṛgveda there are in all 10 (zoomed) Āprī sūktas. In them there are mantras whose deities are इध्मः (*idhmaḥ*) (समिद्धोऽग्निर्वा (*samiddho 'gnirvā*)), नराशंसः (*narāśaṃsaḥ*), तनूनपात् (*tanūnapāt*), इळः (*iḷaḥ*), बर्हिः (*barhiḥ*), देवीर्द्वारः (*devīrdvāraḥ*), उषासानक्ता (*uṣāsānaktā*), दैव्यौ होतारौ प्रचेतसौ (*daivyau hotārau pracetasau*), तिस्रो देव्यः सरस्वतीळाभारत्यः (*tisro devyaḥ sarasvatīḷābhāratyaḥ*), त्वष्टा (*tvaṣṭā*), वनस्पतिः (*vanaspatiḥ*), स्वाहाकृतयः (*svāhākṛtayaḥ*). But concerning the deities called Narāśaṃsa and Tanūnapāt: in some sūktas the single deity called Narāśaṃsa, in some sūktas the single deity called Tanūnapāt, and in some sūktas both deities, Narāśaṃsa and Tanūnapāt, are praised. In accordance with this they have divided these Āprī sūktas in three ways. Namely, the Āprī sūktas composed by the ṛṣis Vasiṣṭha, Atri, Vādhryaśva and Gṛtsamada —
+
+*(Reference numerals zoomed. Item 3 is printed with आ (*ā*): आग्ने (*āgne*).)*
+
+1) जुषस्व नः समिधमग्ने (*juṣasva naḥ samidhamagne*) — Ṛ. Saṃ. 7-2 (मैत्रावरुणिर्वसिष्ठः (*maitrāvaruṇirvasiṣṭhaḥ*))
+
+2) सुसमिद्धाय शोचिषे (*susamiddhāya śociṣe*) — Ṛ. Saṃ. 5-5 (वसुश्रुत आत्रेयः (*vasuśruta ātreyaḥ*))
+
+3) इमां मे आग्ने समिधं (*imāṃ me āgne samidhaṃ*) — Ṛ. Saṃ. 10-70 (सुमित्रो वाध्र्यश्वः (*sumitro vādhryaśvaḥ*))
+
+4) समिद्धो अग्निर्निहितः (*samiddho agnirnihitaḥ*) — Ṛ. Saṃ. 2-3 (गृत्समदः (*gṛtsamadaḥ*))
+
+— these four sūktas belong to one group. In them there is one ṛk each whose deity is Narāśaṃsa. Therefore these four sūktas have the name नराशंसवंति सूक्तानि (*narāśaṃsavaṃti sūktāni*) — Āprī sūktas that praise only the deity Narāśaṃsa.
+
+1) सुसमिद्धो न आ वह (*susamiddho na ā vaha*) — Ṛ. Saṃ. 1-13 (मेधातिथिः काण्वः (*medhātithiḥ kāṇvaḥ*))
+
+2) समिद्धो अग्न आ वह (*samiddho agna ā vaha*) — Ṛ. Saṃ. 1-142 (दीर्घतमा औचथ्यः (*dīrghatamā aucathyaḥ*))
+
+— these two Āprī sūktas belong to the second group. In them there is one ṛk each relating to both deities, Narāśaṃsa and Tanūnapāt. Therefore these Āprī sūktas are well known as sūktas having both kinds of deity, Narāśaṃsa and Tanūnapāt. In these sūktas both deities … *(continued on p. 217)*
+---
+
+### Printed p. 217 (PDF 236)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 8" (zoomed). Pīṭhike of Sūkta 188, continued.)*
+
+… being present (in the 1-142nd sūkta (zoomed), leaving out Indra), instead of eleven प्रयाज (*prayāja*) homas it came to be that there are twelve homas.
+
+*(Reference numerals zoomed.)*
+
+1) समिद्धो अद्य राजसि (*samiddho adya rājasi*) — Ṛ. Saṃ. 1-188 (अगस्त्यो मैत्रावरुणिः (*agastyo maitrāvaruṇiḥ*))
+
+2) समित्समित्सुमना (*samitsamitsumanā*) — Ṛ. Saṃ. 3-4 (गाधिनो विश्वामित्रः (*gādhino viśvāmitraḥ*))
+
+3) समिद्धो विश्वतस्पतिः (*samiddho viśvataspatiḥ*) — Ṛ. Saṃ. 9-5 (काश्यपोऽसितो देवलो वा (*kāśyapo 'sito devalo vā*))
+
+4) समिद्धो अद्य मनुषो (*samiddho adya manuṣo*) — Ṛ. Saṃ. 10-110 (जमदग्निर्भार्गवः (*jamadagnirbhārgavaḥ*))
+
+— these sūktas belong to the third group. In them there are only ṛks whose deity is Tanūnapāt. (There are no ṛks whose deity is Narāśaṃsa.) Therefore they have the name तनूनपात्वंति सूक्तानि (*tanūnapātvaṃti sūktāni*), that is, Āprī sūktas containing the mantra whose deity is Tanūnapāt.
+
+These Āprī sūktas are recited, when the animal sacrifice (पशुहोम (*paśuhoma*)) is performed, for performing the eleven (एकादश (*ekādaśa*)) प्रयाज (*prayāja*) homas. There is the Taittirīya Saṃhitā statement एकादशावदानान्यवद्यति दश वै पशोः प्राणा आत्मैकादशः (*ekādaśāvadānānyavadyati daśa vai paśoḥ prāṇā ātmaikādaśaḥ*) (Tai. Saṃ. 6-3-10-3, zoomed; a stray mark is printed in आत्मैकादशः (*ātmaikādaśaḥ*)). When these Āprī sūktas are recited and the animal sacrifice is performed there is a special rule: sacrificers born in the respective gotras must, when performing the sacrifice, recite the Āprī sūktas composed by the respective ṛṣis — such is the rule (Ā. 3-2, zoomed). The present Āprī sūkta is to be recited by those born in the gotra of the ṛṣi Agastya.
+
+If one wishes to know the nature of the Āprī sūktas and the places they hold in ritual practice, the sources we have are of two kinds: first, the Śruti statements of the Brāhmaṇas and the like; second, the etymological statements of the Nirukta and the like. Of these two kinds of sources, the etymological statements of the Nirukta and the like are more reasoned and are furnished with scientific explanations.
+
+If one notes the derivation of the word आप्री (*āprī*) stated in the Brāhmaṇas such as the Aitareya, it may be said that they have all explained this word by understanding it from the standpoint of ritual practice such as sacrifice. For example —
+
+> तद्यदा प्रीणाति तस्मादाप्रियो नाम ।
+
+> *tadyadā prīṇāti tasmādāpriyo nāma |*
+
+(Kau. Brā. 10-3, zoomed)
+
+— in the Kauṣītaki Brāhmaṇa, that they have this name because they are the means of giving satisfaction; and
+
+> आप्रीभिराप्नुवन् । तदाप्रीणामाप्रित्वं ।
+
+> *āprībhirāpnuvan | tadāprīṇāmāpritvaṃ |*
+
+(Tai. Brā. 2-2-8-6, zoomed)
+
+— in the Taittirīya Brāhmaṇa, stating the same view; and … *(continues on p. 218)*
+
+---
+
+**Progress note:** Done through printed p. 217 (PDF 236; PDF 223 is a duplicate of PDF 222 = p. 204, so printed = PDF − 19 from p. 205). Sūkta 187 (pituṃ nu; 11 ṛks) complete: Pīṭhike pp. 177–184, introduction pp. 184–185; Ṛk 1 pp. 186–189; Ṛk 2 pp. 190–191; Ṛk 3 pp. 191–194; Ṛk 4 pp. 194–196; Ṛk 5 pp. 196–198; Ṛk 6 pp. 199–201 (Varga 7 begins p. 199); Ṛk 7 pp. 201–203; Ṛk 8 pp. 203–205; Ṛk 9 pp. 205–211; Ṛk 10 pp. 212–214; Ṛk 11 pp. 214–216 (no Varga-close line or colophon printed). Sūkta 188 (Agastya's Āprī sūkta): half-title and Pīṭhike begin p. 216; Pīṭhike continues on p. 218 / PDF 237 (mid-sentence, after the Tai. Brā. 2-2-8-6 quotation); the sūkta heading block not yet reached. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md. Flags from p. 151: p. 151 header Varga 5, Ni. 3-19 as printed (stotṛ names), Ṛ. 1-63-3 (only the 'vāvṛdhadhyai' line quoted, while the Kannada names 'vipaścitam indram'), 1-122-8, 6-23-10, 10-81-6 ('muhyaṃtvanye', u-sign distinct), 'Ṛ. Suṃ.' 1-141-8 ('apasya' as read) zoomed, Ṛ. 1-22-20 read unzoomed (zoom missed twice). New (pp. 152–157): p. 152 Pā. 6-3-1-36 as printed (nipātasya ca), 3-2-87 (four zoom tries), 6-1-168 zoomed; p. 153 Pada and bhāṣya 'nasaṃta' zoomed; p. 154 Ṛ. 1-11-4, Ni. 1-9, Ni. 1-10 (stray dot), Uṇ. Sū. 4-34 zoomed, grammar headword printed like 'taru ma' (for taruṇam); p. 155 header printed 'Va. 1 A. 2. A. 5' (reversed, Varga 1 as printed), Pā. 3-4-6 zoomed, rihaṃti note 'l for the r of the root' as printed, 'bahulaṃ chaṃda' cut short, bhāṣya 'gacchatāṃ', 'yathaiva namanasvabhāvā' (stray dot) zoomed; p. 156 header 'A. 23' as printed (for 24), Ni. 2-28 as printed (vāhana list), 'harita ādityasya' as printed; p. 157 Ṛ. 1-37-2, 1-39-6, 1-85-5, 8-7-28, Pā. 6-1-64 (split over a line), 7-1-50 zoomed, Uṇ. Sū. 2-254 and 4-628 as read (zoomed; digits small). New (pp. 158–163): p. 158 bhāṣya 'adhātha', 'utpādayaṃti', 'sarvamūṣaraṃ karoti' as printed (zoomed), 'sasyādisamṛddhyā satyāṃ' (subscript under ta unclear; zoomed), Pratipadārtha 'prayujāṃ' as printed; p. 159 Ni. 1-4, Ṛ. 6-24-3, 'vyū3tayo' zoomed; p. 160 opens 'hne 'hni durdinam' as printed (meghacchanne expected; zoomed), Ni. 5-12, Ṛ. 10-34-1, Ni. 9-8, 'Ṛ. Suṃ.' 1-38-9, Ṛ. 1-64-6 zoomed, 'vithatheṣv' [?] (vidatheṣv expected) UNDECIDED; p. 161 Ṛ. 8-7-16, Pā. 3-4-81, 6-4-76, 3-1-84, Uṇ. 1-10 zoomed, Uṇ. Sū. 2-209 [?] UNDECIDED (2 or 7); p. 162 Saṃhitā Ṛk 10 'kṛṇudhvaṃ sa[?] pra' UNDECIDED (stray akṣara, not in the Pada); p. 163 Ni. 9-3, 3-13, 10-34, Ṛ. 10-168, 6-50-12, 10-92-13 zoomed, 10-186 read from the strip (zoom cut it off). New (pp. 164–167): p. 164 Ṛ. 1-2-4, 6-49-6 ('pṛthivyāḥ'), Śa. Brā. 14-4-2-25, Bṛ. De. 2-63, Pūṣan sūktas 6-53 to 56, 58, ~120 places, 2/5/1 sūktas, Ṛ. 6-57, 2-40 zoomed, Ni. 12-[?]6 UNDECIDED (broken digit, likely 16); p. 165 header Varga 5, Ṛ. 1-42-1 to 3, 6-53-4, 1-42-3, 8, 6-49-8, 6-53-1, Āśv. Gṛ. 3-6-8, Śāṅ. Śrau. 3-4-9, Ṛ. 1-23-14, 15, Tai. Saṃ. 3-3-9-1, Ā. Gṛ. 3-7-9, Ṛ. 6-54-7, 10, Mai. Saṃ. 4-3-7, Tai. Brā. 1-7-2-4, Śāṃ. Gṛ. 3-9 zoomed (Ṛ. 6-55-1 read from the strip); p. 166 Ni. 12-18, 12-19 (twice) read from the strip, Max Müller SBE XXXII p. 133 'emblamatic' [sic]; p. 167 Tai. Saṃ. 1-7-5-4, 2-4-12-3 ('mā no pra hārasti vā idaṃ' as printed), Śa. Brā. 1-9-3-9 ('etasmai viṣṇuryajñaṃ' as printed), 6-7-4-7, Ṛ. 1-156-5 zoomed. New (pp. 168–169): p. 168 Śa. Brā. 6-7-4-7, Ṛ. 1-154-2 zoomed, 'prādatraya' as printed (for pādatraya); p. 169 Ṛ. 4-44-4, 1-180-1, 8-5-29, 8-22-5, 10-85-15 ('tasthatuḥ' as printed), 1-117-2, 6-63-6, 4-45-4, 1-118-4, 8-5-7, Ni. 2-28, Ṛ. 1-34-9, 1-116-2, 7-69-4, 4-43-6, 5-73-5, 8-8-10, 1-34-5, 1-116-17, 1-118-5, 6-63-5, 7-68-3, 1-116-10 zoomed, 8-29-8 read from the strip. New (pp. 170–171): p. 170 Ṛ. 1-117-13, 1-118-6 (opening bracket not printed), 5-74-5, 7-68-6, 7-71-5, 1-112-15, 1-112-19 (three tries), 1-116-1, 1-116-20; 10-39-7 zoomed, 'Puramitra', 'Kamadhyu' (10-65-12) as printed, 10-39-4 and 10-39-8 read from the strip; p. 171 all reference lists zoomed (2 vs 7 calibrated at 1000 dpi: round glyph 2, flat-footed 7), Viśvaka 'Ṛ. Saṃ. 8-75-1 to 3' as read, Bhujyu list '10-47-7' as read (not 40). New (pp. 172–173): p. 172 Vandana refs 1-112-5; 1-116-11; 1-117-5; 1-118-6; 10-39-8' 1-119-6, 7 (apostrophe as separator, as printed), Kakṣīvat 1-116-7; 1-117-6, Atri 1-112-7; 1-116-8; 1-117-3; 1-118-7; 1-119-6; 5-78-4 to 6; 7-71-5; 8-62-3, 7 to 9; 10-39-9; Ṛ. 10-80-3, Vadhrimatī 1-116-13; 1-117-24; 6-62-7, Ghoṣā 1-117-7; 10-39-3, 6; '10-4-5' as printed, Śayu and Pedu lists zoomed, sūkta list '1 2' (gap as printed), 116, 117, 118 zoomed; p. 173 quail refs (10 39-13 as printed), Pā. 8-1-34, 6-2-172, Uṇ. 3-366, 'U. Sū.' 6-3-136 as printed, Pā. 3-4-106, 3-4-102, 7-2-79 zoomed. New (pp. 174–175): p. 174 Pada ends without ṛk number, Pratipadārtha 'havirbhāva' as printed (Bhāvārtha āvirbhāva; zoomed), printed English 'admiration' with a broken a, 'life·' [sic]; p. 175 Ṛ. 1-118-11, 1-165-7, 3-36-10 zoomed, unsourced Sanskrit passage on asme (sarvavibhaktyanta), 'asmabhyami:tyarthaḥ' stray colon as printed. New (pp. 176–177): p. 176 Ṛ. 6-47-13 ('sumatau' with displaced subscript mark, 'svavā' without nasal, as printed), 3-30-19 (three tries), 1-79-4 zoomed, Pā. Sū. 7-1-34 as printed for supāṃ suluk (zoomed; cf. p. 99 7-1-39), Uṇ. Sū. 3-38[?] (aminakṣiyaji…) UNDECIDED, Pā. 6-1-193 zoomed; p. 177 header Varga 5, Pā. 8-1-66, 3-1-8, 3-2-170, Ṛgvidhāna 1-27 (four tries), Tai. U. 2-1 zoomed; Sūkta 186 has no printed closing note/colophon. p. 178 header 'A. 24' (first digit broken) and Tai. U. 2-2 zoomed; p. 179 header Varga 6, 'tadvratam' (displaced ra-subscript) zoomed, 'tasmādannaṃ taducyate' as printed. p. 180 'sa yaḥ' (visarga-like mark, as printed), Tai. U. 3-7, 3-8, 'jotiṣyāpaḥ' as printed, Ṛ. 10-117-6 zoomed; p. 181 header Varga 6, Ṛ. 10-117-4, Tai. U. 3-9, 'vasatau' zoomed. New (pp. 182–183): p. 182 'asmālokāt' (single la), 'imān lokān' (three tries), 'ahamannādo'2' (round glyph after avagraha, as printed) zoomed, 'etadvā' and 'pari ye priyā' (no avagraha) as printed, Gītā verse 'dātavyam iti' without reference; p. 183 'paṃkliṣṭaṃ' as printed (two tries), tāmasa gift called 'adharma' as printed. New (pp. 184–185): p. 184 Anu. 5-7 and Ṛgvi. 1-27 zoomed (two tries each), confirmed in larger type p. 185; p. 185 'pituṃ na' as printed in the Kannada. New (pp. 186–187): p. 186 sūkta block Varga 6-7 (two tries) and chandas line (1 anuṣṭubgarbhā uṣṇik; 2, 4, 8–10 gāyatrī; 3, 5, 6, 7, 11 anuṣṭubh) zoomed; p. 187 Ni. 2-9 (as printed, pitu among 28 food names), Ni. 9-24, 9-25 zoomed, printed English 'Vritra·' [sic]. New (pp. 188–190): p. 188 pitu refs Ṛ. 1-61-7, 1-132-6, 1-187-1, 6-20-4, Atha. 4-6-3, Tai. Saṃ. 5-7-2-4, Vā. Saṃ. 2-20, 12-65, Ai. Brā. 1-13, Ni. 3-9 as printed (taviṣī), Ni. 4-6, Bhāga 5 pp. 230–231, Bhāga 8 pp. iii–viii, 443–447, Ṛ. 1-32-1 zoomed; p. 189 Ṛ. 1-165-8, 7-21-6, 10-138-6, 10-113-8, 10-80-5, 6-20-2, 10-48-3, 10-120-3, 2-20-8, 3-32-4, 10-73-1, 8-85-7 (as printed), 4-18-11, Ai. Brā. 3-20, Ṛ. 8-7-31, Pā. 3-2-75, 3-1-25 zoomed, U. Sū. 1-[?]0 (paḥ kicca) UNDECIDED, ardayat called luṅ as printed; p. 190 bhāṣya 'sarvatrana[?]nudāttānāṃ' UNDECIDED, 'pūrvasyā sāmānyavacanatvena…' as printed, printed English 'protector·' [sic]. p. 191 Pā. 6-1-198, 3-4-79, 8-1-72 zoomed, Pā. 8-1-79 as printed for nāmantrite samānādhikaraṇe (zoomed, two tries), Ṛk 3 bhāṣya headed Vyākaraṇaprakriyā (misprint); p. 192 Ni. 3-13 as printed (śiva among twenty sukha names), Ṛ. 7-55-1 zoomed, 'śiṣyaternakāro' as printed (zoomed at 1000 dpi), 'vibhāṣitaguṇa' without visarga as printed, printed English 'bnt' [sic]; p. 193 Ni. 10-17, U. Sū. 1-151, Pā. 6-2-172 zoomed, mayaḥ among sukha names without reference. New (pp. 194–195): p. 194 U. Sū. 1-150 (middle digit read as 5), Pā. 6-2-119, 6-2-2 zoomed, bhāṣya 'lokā~lloke-sthānārthānanvānukūlyena' zoomed; p. 195 Ṛ. 10-178-1, 1-19-1, Ni. 10-29, 37, Ni. 2-18, 4-19, Ṛ. 10-8-6, 6-30-3 zoomed, Ni. 4-19 'jyotī' as read, line 'rajāṃsi citrā vicaraṃti tānyavaḥ' without reference. p. 196 U. Sū. 6-56 as read (glyph as on p. 194), Pā. 7-4-40, Pā. 6-1-49 as printed (gatiranantaraḥ) zoomed, stray Latin '4' printed, Ṛk 5 Pada 'tuvigrīvāḥ' without division mark; p. 197 printed English 'yonr' [sic], Nirukta saying abhyāse hi… without reference. p. 198 Ni. 3-13 as printed (tuvi = bahu), Pā. 6-4-112, 6-1-189, 3-2-75 zoomed (3-2-75 confirms the ಜ-like glyph = 5, cf. pp. 194, 196), Wilson's note 'synonyme', 'becuuse' [sic]; p. 199 header Varga 7 zoomed, Chāṃ. 6 5-4 zoomed, bhāṣya 'anyṛtamapi' as printed (zoomed), printed English 'fixed.' [sic]. New (pp. 200–201): p. 200 Ni. 2-24 as printed (mahat, mahaḥ among udaka names; five tries), Ni. 3-13 as printed (ketu = prajñāna), Pā. 3-1-134 ('nandigrahipacādibhya' without visarga), 7-4-42, 3-1-66 zoomed; p. 201 header Varga 7, Pā. 6-4-104 zoomed, Ṛk 7 bhāṣya 'supo luk', double daṇḍas, 'vivo dhanam' as printed (zoomed). New (pp. 202–203): p. 202 Ni. 7-26 (first digit as the 7 of Pā. 7-4-42), Ni. 2-21 (parvata among thirty megha names), Ni. 1-20, Pā. 8-2-64 zoomed, Pā. 1-1-19 as printed for tasau matvarthe (zoomed), sūtra name printed 'hal ṅābhyo' (zoomed); p. 203 header Varga 7, Pā. 7-1-39, 6-3-136 zoomed, 'vālamūlalaṣva' as printed (zoomed), Ṛk 8 bhāṣya 'āsvādhayāmaḥ' (second occurrence) as printed (zoomed). New (p. 204): Ṛ. 7-91-3 (twice), 10-86-14, 10-100-10 zoomed, 'aṃgdhve' with displaced subscripts as read, Special Topics heading printed garbled, Pratipadārtha '[athavā' bracket not closed; PDF 223 = duplicate of PDF 222. p. 205 Pā. 6-1-171, 8-1-71, 6-1-198 zoomed; Ṛk 9 Pada 'it bhava' without daṇḍa as printed. New (pp. 206–207): p. 206 Pratipadārtha headword 'prīvaḥ' as printed, Ṛ. 1-93-6, 3-48-2, 5-43-4 zoomed; p. 207 header Varga 7, Ṛ. 10-34-1, Vā. Saṃ. 3-61, Ni. 9-8, Ṛ. 8-7-29, 8-64-11, 9-65-22, 23, 9-92-3, 9-63-4, 9-74-9, 9-79-4 zoomed (first boxes a line too high), 'Pastya' and 'somavikrayaṇa' as printed. New (pp. 208–209): p. 208 Ṛ. 1-168-3, 3-48-2, 8-1-17, 4-28-9, 9-50-1, 1-28-7, 3-48-1, 4-16-1, 1-9-1, 1-83-6, 1-135-7, 1-130-2, 1-135-5, 1-137-1, 1-28-9, 4-18-3, 10-94-9, 10-116-4, 7-101-4, 8-20-8, 3-62-15, 9-1-2, 9-17-8, 9-65-6, 9-98-2, 2-14-9, 9-66-9, 9-15-7, 9-33-2, 1-116-24, 1-137-1, 3-32-2, 8-2-10, 1-5-5, 1-30-2, 8-2-9 zoomed (2 vs 7 calibrated at 1000 dpi), camū ref '6-5 7' [?] UNDECIDED (gap, no hyphen), 'Mūjavata' here vs 'Maujavata' p. 206, 'ladle·' [sic]; p. 209 header Varga 7, colour refs 9-33-2, 9-63-4 & 6, 9-3-9, 9-7-6, 9-65-8, 9-40-2, 9-45-3, 9-61-21, 9-97-13, 9-97-9, 9-107-2, dadhyāśiraḥ refs 1-137-2, 5-51-7, 7-32-4, 9-22-3, 9-63-15 zoomed; Bhāga 1 p. 676 cross-reference. NOTE: doubt.py records 'printed' with the old offset (PDF − 18) for PDF ≥ 225; the pdf field is right. New (pp. 210–211): p. 210 Ṛ. 9-101-12, 1-23-1, 1-30-2 (three tries each on strip 0; boxes landed high), 1-137-1, 8-2-9, 8-52-10 zoomed, verse 8-2-9 'puruniḥṣṭhāḥ', 'madhyataḥ āśīrtaḥ' as printed; p. 211 header Varga 7, Ṛ. 8-101-10, 1-187-9, 3-42-7, 8-92-4, 2-22-1, 5-27-5, 3-48-1, U. Sū. 1-52, Pā. 7-2-116, 6-1-186 zoomed; no Varga-close line printed at the end of Ṛk 9. New (pp. 212–215): p. 212 bhāṣya 'udārathirūrdhvagama' (hooked ma) zoomed; p. 213 header Varga 7, Ṛ. 3-52-7, 6-56-1, '6-57 2' (gap, as printed), 10-97-1, Ni. 9-27 zoomed, Kannada gloss 'wheat flour' for yavasaktu as printed; p. 214 Pada 'susūdima' vs Saṃhitā 'suṣūdima' as printed; p. 215 header Varga 7, Pā. '6-1-7' (śeśchandasi bahulam), 3-4-6, '7-2-3-5' (ārdhadhātukasyeḍ valādeḥ), '3-134' (nandigrahapacādibhyaḥ) zoomed (as printed; three tries for the first three), grammar heading printed 'vyākara prakriyā'. New (pp. 216–217): p. 216 header 'Maṃ. . A. 24 Sū. 188' (Maṇḍala numeral not printed), Pā. '6-3-66' as printed (sadhamādasthayoś chandasi; three identical 6-glyphs), 6-2-199, '10' Āprī sūktas (four tries), Ṛ. 7-2, 5-5, 10-70, 2-3, 1-13, 1-142 zoomed, item 'imāṃ me āgne' (ā as printed); p. 217 header Varga 8, 1-142, Ṛ. 1-188, 3-4, 9-5, 10-110, Tai. Saṃ. 6-3-10-3, Ā. 3-2, Kau. Brā. 10-3, Tai. Brā. 2-2-8-6 zoomed, 'gādhino viśvāmitraḥ' and 'tadyadā prīṇāti' as printed.
