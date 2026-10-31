@@ -28,3 +28,5 @@ Batch 12: done through printed p. 127 (PDF 145). Sūkta 186 Ṛk 2 OPEN: Special
 Batch 13: done through printed p. 133 (PDF 151). Sūkta 186 Ṛk 2 closed (p. 130); Ṛk 3 OPEN: written through p. 133 incl. Special Topics; may continue p. 134 (PDF 152), grammar to come. No [?]. Grammar numerals pp.129–130 unzoomed.
 
 Batch 14: done through printed p. 139 (PDF 157). Sūkta 186 Ṛk 3 closed (grammar pp.134–135); Ṛk 4 OPEN: Special Topics break mid Yāska's 3rd derivation of arka ("food") at p. 139; continue p. 140 (PDF 158), grammar to follow. [?]: p.134 Uṇ.Sū. 4-48[?]2, headword śreṣṭhaḥ/preṣṭhaḥ; p.135 "liṭyutta-maikavacana" ma, "varḍyaiva ne[?]tyarthaḥ". p.135 Pā. 3-1-34 read unzoomed (may settle p.94 digit).
+
+Batch 15: done through printed p. 145 (PDF 163). Sūkta 186 Ṛk 4 closed (grammar pp.140–141); Ṛk 5 OPEN: Saṃhitā…printed English pp.141–142; Special Topics pp.142–145 (ahirbudhnya, mayaḥ, śiśuṃ na pipyuṣī, sindhuḥ, apāṃ napāt/tanūnapāt), p.145 ends at paragraph end; may continue p. 146 (PDF 164); grammar to come. [?]: p.144 "pitṝ[?]ṇāṃ" (Ṛ. 8-41-2). Ṛ.1-142 (p.145) unzoomed.

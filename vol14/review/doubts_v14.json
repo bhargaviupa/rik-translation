@@ -5350,5 +5350,377 @@
   ],
   "note": "ZOOMED, read: Ṛ. Saṃ. bhāga 2 (same glyph as header A. 24), pages 385 (Arabic)",
   "answer": ""
+ },
+ {
+  "pdf": 159,
+  "printed": 141,
+  "crop": [
+   0.213,
+   0.236,
+   0.165,
+   0.397
+  ],
+  "note": "ZOOMED, read: Pā. 6-1-189 (abhyastānāmādiḥ, carried from p. 140)",
+  "answer": ""
+ },
+ {
+  "pdf": 159,
+  "printed": 141,
+  "crop": [
+   0.679,
+   0.7,
+   0.58,
+   0.789
+  ],
+  "note": "ZOOMED, read: bhāṣya 'karoterlaṅi rūpaṃ' (laṅ, as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 159,
+  "printed": 141,
+  "crop": [
+   0.796,
+   0.82,
+   0.331,
+   0.596
+  ],
+  "note": "ZOOMED, read: bhāṣya 'varṣakā meṣā aśvā' — glyph is ṣa (meghā expected by sense), as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 160,
+  "printed": 142,
+  "crop": [
+   0.612,
+   0.631,
+   0.588,
+   0.835
+  ],
+  "note": "ZOOMED, read: Ni. 2-21 (thirty cloud-names; 2-glyph as header A. 24)",
+  "answer": ""
+ },
+ {
+  "pdf": 160,
+  "printed": 142,
+  "crop": [
+   0.629,
+   0.645,
+   0.203,
+   0.471
+  ],
+  "note": "ZOOMED, read: Ni. 2-24 (hundred-and-one water-names)",
+  "answer": ""
+ },
+ {
+  "pdf": 160,
+  "printed": 142,
+  "crop": [
+   0.643,
+   0.662,
+   0.337,
+   0.571
+  ],
+  "note": "ZOOMED, read: Ni. 10-44 (budhnam antarikṣam …)",
+  "answer": ""
+ },
+ {
+  "pdf": 160,
+  "printed": 142,
+  "crop": [
+   0.747,
+   0.766,
+   0.638,
+   0.835
+  ],
+  "note": "ZOOMED, read: Ni. 10-44 (ahirbudhnyaḥ | yo 'hiḥ …)",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.246,
+   0.264,
+   0.615,
+   0.812
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-34-17 (mā no 'hirbudhnyo riṣe …)",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.27,
+   0.291,
+   0.177,
+   0.497
+  ],
+  "note": "ZOOMED, read: refs list 1-86-5 as printed (this ṛk is 1-186-5), 2-31-6, 5-41-16, 6-49-14",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.27,
+   0.291,
+   0.49,
+   0.812
+  ],
+  "note": "ZOOMED, read: refs list 6-50-14, 7-35-13, 7-38-5, 10-64-4",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.287,
+   0.308,
+   0.177,
+   0.497
+  ],
+  "note": "ZOOMED, read: refs list 10-66-11, 10-92-12, 10-93-5",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.413,
+   0.432,
+   0.48,
+   0.812
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-41-16; 7-34-16, 17",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.474,
+   0.494,
+   0.514,
+   0.812
+  ],
+  "note": "ZOOMED, read: Ni. 5-4 (Ahirbudhnya among mid-air deities)",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.514,
+   0.53,
+   0.177,
+   0.514
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-34-16; 10-93-5",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.534,
+   0.553,
+   0.48,
+   0.812
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-34-17",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.549,
+   0.57,
+   0.177,
+   0.497
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 5-41-16",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.661,
+   0.683,
+   0.177,
+   0.497
+  ],
+  "note": "ZOOMED, read: Tai. Saṃ. 4-4-10-3",
+  "answer": ""
+ },
+ {
+  "pdf": 161,
+  "printed": 143,
+  "crop": [
+   0.768,
+   0.788,
+   0.48,
+   0.812
+  ],
+  "note": "ZOOMED, read: Ni. 3-9 as printed (twenty sukha-names; śiṃbātā, śatarā)",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.286,
+   0.305,
+   0.467,
+   0.635
+  ],
+  "note": "ZOOMED, read: Ni. 2-24 (sindhu among river-names)",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.36,
+   0.376,
+   0.534,
+   0.702
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-69-12",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.381,
+   0.4,
+   0.249,
+   0.551
+  ],
+  "note": "UNDECIDED: 'pitṝ[?]ṇāṃ' in Ṛ. 8-41-2 quote (subscript after ta unclear)",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.433,
+   0.45,
+   0.635,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-41-2",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.525,
+   0.542,
+   0.618,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-126-1",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.58,
+   0.597,
+   0.618,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-122-6",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.623,
+   0.639,
+   0.618,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-54-6",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.677,
+   0.694,
+   0.182,
+   0.518
+  ],
+  "note": "ZOOMED, read: 'adhbhyaḥ' as printed (for adbhyaḥ)",
+  "answer": ""
+ },
+ {
+  "pdf": 162,
+  "printed": 144,
+  "crop": [
+   0.791,
+   0.808,
+   0.551,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ni. 8-5 (napāt)",
+  "answer": ""
+ },
+ {
+  "pdf": 163,
+  "printed": 145,
+  "crop": [
+   0.444,
+   0.462,
+   0.598,
+   0.794
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 3-1",
+  "answer": ""
+ },
+ {
+  "pdf": 163,
+  "printed": 145,
+  "crop": [
+   0.54,
+   0.559,
+   0.168,
+   0.466
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-22-6 (bhāṣya on apāṃ napāt)",
+  "answer": ""
+ },
+ {
+  "pdf": 163,
+  "printed": 145,
+  "crop": [
+   0.581,
+   0.6,
+   0.532,
+   0.794
+  ],
+  "note": "ZOOMED, read: Ni. 10-8 and 8-5",
+  "answer": ""
+ },
+ {
+  "pdf": 163,
+  "printed": 145,
+  "crop": [
+   0.62,
+   0.645,
+   0.267,
+   0.565
+  ],
+  "note": "ZOOM MISSED twice (landed a line above); read unzoomed: Ṛ. Saṃ. 1-142 (Āprī sūkta, tanūnapāt)",
+  "answer": ""
  }
 ]
