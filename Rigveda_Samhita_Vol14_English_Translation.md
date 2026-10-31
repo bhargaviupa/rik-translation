@@ -10528,4 +10528,215 @@ We address our pious prayers to you, Agni, the son of prayer, the subduer of foe
 
 ---
 
-**Progress note:** Done through printed p. 295 (PDF 314; printed = PDF − 19, pp. 290–295 checked, no duplicate or missing page). Sūkta 189 (agne naya; Agastya; 8 ṛks, triṣṭubh, Agni; Varga 10-11): Ṛks 1–7 complete; Ṛk 8 (the last) open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written, Special Topics begun (mānasya sūnuḥ) at the foot of p. 295; continue on p. 296 / PDF 315 with the rest of the Special Topics, then Vyākaraṇa-prakriyā, the sūkta's closing (and any adhyāya colophon), and the next sūkta. Flag needing action: the scan of p. 288 (PDF 307) cuts off the right edge of the text block (header Sūkta numeral and 1–3 characters at most line ends lost, marked […]); a re-scan of that page is wanted. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md; flags for pp. 252–285: see vol14/review/flags_archive_pp252-285.md. Flags from p. 286: New (pp. 286–288): p. 286 header Sū. 189, Ṛ. Saṃ. 1-12-6 (three tries), U. Sū. 1-1, Pā. Sū. 5-3-55, 6-4-156, 3-3-175, 3-1-55, 6-4-74, 8-3-1 zoomed (two tries for several; boxes landed left), root 'jṝṣ' (as it looks), pāyubhiḥ 'end-acute' as printed; p. 287 header Varga 10, Saṃhitā 'agneva' without avagraha, bhāṣya 'Ā, Gṛ. 2-1-6' zoomed; p. 288 right edge of the page cut off in the scan (lost text marked […]), header Sū. numeral lost, Ni. 3-13 (as printed) zoomed, printed English 'disgrace·' [sic]. New (p. 289): header Varga 11; grammar root printed 'sraja' (for sṛja; as it looks), Pā. Sū. 6-4-48, 6-1-199 (two tries), 6-1-176 (flat-footed 7; two tries), 6-4-25 (two tries), 6-1-186 zoomed; Ṛk 6 Saṃhitā: a printed word before 'varūthaṃ' struck through and illegible [?], handwritten correction 'tanve' above it transcribed (UNDECIDED logged); signature marks '[19]', 'Vol. 14' at the foot. New (pp. 290–292): p. 290 header Sū. 189 (read from the strip); Ṛk 6 Pada prints 'tanve' in type (agrees with the handwritten Saṃhitā correction); printed English 'becomes such as you are exempts' (no comma) as printed; p. 291 header Varga 11, Ni. 3-13 (varūtha; as printed), Pā. Sū. 6-3-91, 8-3-3 (pratyayottarapadayośca; as printed), 3-4-97, 3-4-94, 3-1-34 (first zoom landed a line high), U. Sū. 2-163 (as printed), Pā. Sū. 3-1-7 zoomed; root 'vṛñ' called svādi as printed; p. 292 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Pā. Sū. 3-2-168, 6-4-48, 6-1-65 (ಜ-like glyph = 5), 6-1-71 zoomed; bhāṣya 'sannihita eva' zoomed (ta could carry an e-sign). New (pp. 293–295): p. 293 header Varga 11, Ni. 3-20, Ni. 3-9 and 3-19 (uśik; as printed), Ni. 6-12 zoomed; 'ippattu dviśanāmagaḷalli' (term unclear, as printed; zoomed); printed English stray mark before 'worship' and final '·' [sic]; p. 294 header Sū. 189, Ṛ. Saṃ. 3-1-12, Pā. Sū. 8-3-9, 8-3-3, 3-1-109, 6-1-16, 'U. Saṃ. 2-29' (abbreviation as printed) zoomed; suffix 'ṣeṇyaṇ' as printed; p. 295 header 'A. [2] A. 5 Va. 11' (Aṣṭaka numeral prints like 'ಅ.ವ', as on p. 285); printed English 'life·' [sic].
+
+---
+
+### Printed p. 296 (PDF 315)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 189". Ṛk 8, Special Topics continued.)*
+
+From the root माङ् माने (*māṅ māne*), "to measure", comes the word *māna*: the meaning is a mantra having a fixed (*klṛpta*) number of syllables (a ṛk or a metre). Since Agni is produced in the araṇi preceded by mantras, Agni is described by the epithet मानस्य सूनुः (*mānasya sūnuḥ*), "born from the mantra (the son of the mantra)". Here the nominative case is used in the sense of the locative. The commentator has explained that मानस्य सूनुः (*mānasya sūnuḥ*) is to be taken in the sense "in Agni".
+
+**सहस्रं (*sahasraṃ*)** — unlimited, of great number.
+
+**ऋषिभिः (*ṛṣibhiḥ*)** — ऋषी गतौ (*ṛṣī gatau*) | Since roots meaning motion are also used in the sense of knowing, the word *ṛṣi* also has the senses knowledge, understanding and the like. Since the mantra brings about knowledge, here ऋषिभिः (*ṛṣibhiḥ*) means "by mantras whose nature is knowledge": that is the intention.
+
+**जीरदानुं (*jīradānuṃ*)** — In 1-165-15 (zoomed) Sāyaṇa has explained this word as जयशीलदानं (*jayaśīladānaṃ*). For this there is also the variant reading जयशीलं दानं जीवनं वा (*jayaśīlaṃ dānaṃ jīvanaṃ vā*). How the word *jīra* comes to mean "victory" or "causing victory" is a matter for enquiry. *Jīra* and *dānu*, these two words joined, have become *jīradānu*. These two words are used separately in many places and give different meanings. Besides, there are usages such as *jīrāśva*, *jīrādhvara*, where words like *aśva*, *adhvara* are joined with the word *jīra*.
+
+> मनुष्वद्देव धीमहि प्रचेतसं जीरं दूतममर्त्यं ।
+
+> *manuṣvaddeva dhīmahi pracetasaṃ jīraṃ dūtamamartyaṃ |*
+
+(Ṛ. Saṃ. 1-44-11, zoomed)
+
+In this ṛk, explaining the derivation of the word *jīra*, Sāyaṇa has stated that the word is derived from the root जु (*ju*) (जोरी च (*jorī ca*), U. Sū. 2-181, zoomed) and has given the meaning (शत्रूणां (*śatrūṇāṃ*)) वयोहानिकरं (*vayohānikaraṃ*), "causing the loss of life (of enemies)". Here जीरं (*jīraṃ*) is an epithet of Agni. From this meaning it appears that the derivation is possible also from the root ज्या वयोहानौ (*jyā vayohānau*). The Niruktakāra has read the word *jīra* among the names of "swift" (*kṣipra*) (Ni. 3-9, as printed; zoomed).
+
+> दिविस्पृशं यज्ञमस्माकमश्विना जीराध्वरं कृणुतं सुम्नमिष्टये ।
+> प्राचीनरश्मिमाहुतं घृतेन तद्देवानामवो अद्या वृणीमहे ॥
+
+> *divispṛśaṃ yajñamasmākamaśvinā jīrādhvaraṃ kṛṇutaṃ sumnamiṣṭaye |*
+> *prācīnaraśmimāhutaṃ ghṛtena taddevānāmavo adyā vṛṇīmahe ‖*
+
+(Ṛ. Saṃ. 10-36-6, zoomed)
+
+In this ṛk the Aśvin deities are prayed: "make our rite *jīrādhvara*". Here *jīrādhvara* means a sacrifice accomplished without hindrance from obstacles, free of violence, and quickly.
+
+---
+
+### Printed p. 297 (PDF 316)
+
+*(Header: "A. 2. A. 5 Va. 11". Ṛk 8, Special Topics continued.)*
+
+> पृक्षे ता विश्वा भुवना ववक्षिरे मित्राय वा सदमा जीरदानवः ।
+> पृषदश्वासो अनवभ्रराधस ऋजिप्यासो न वयुनेषु धूर्षदः ॥
+
+> *pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya vā sadamā jīradānavaḥ |*
+> *pṛṣadaśvāso anavabhrarādhasa ṛjipyāso na vayuneṣu dhūrṣadaḥ ‖*
+
+(Ṛ. Saṃ. 2-34-4, zoomed)
+
+In such places जीरदानवः (*jīradānavaḥ*) is an epithet of the Maruts; the meaning is "those who fulfil the sacrificer's desired objects very quickly". In the same way the compound words जीराश्वः (*jīrāśvaḥ*), जीराश्वं (*jīrāśvaṃ*) too are epithets of Agni and other deities; or they are also epithets of their chariot.
+
+> आ वां रथं पुरुमायं मनोजुवं जीराश्वं यज्ञियं जीवसे हुवे ।
+> सहस्रकेतुं वनिनं शतद्वसुं श्रुष्टीवानं वरिवोधामभि प्रयः ॥
+
+> *ā vāṃ rathaṃ purumāyaṃ manojuvaṃ jīrāśvaṃ yajñiyaṃ jīvase huve |*
+> *sahasraketuṃ vaninaṃ śatadvasuṃ śruṣṭīvānaṃ varivodhāmabhi prayaḥ ‖*
+
+(Ṛ. Saṃ. 1-119-1, zoomed)
+
+In such ṛks the chariot of the Aśvin deities is described as having horses that run swiftly. In the same way the word *dānu* too, used both separately and in compounds such as सुदानवः (*sudānavaḥ*), जीरदानवः (*jīradānavaḥ*), gives a meaning suited to the context. That the word *dānu* gives the meaning either "giver" (*dātṛ*) or "asura" is known from the context the Niruktakāra cites:
+
+*(So printed: "ā parṣate" (zoomed; the first letter of the verb looks like pa); a point stands after "stuṣeyyaṃ".)*
+
+> स्तुषेय्यं पुरुवर्पसमृभ्वमिनतममाप्त्यमाप्त्यानां ।
+> आ पर्षते शवसा सप्त दानून् प्र साक्षते प्रतिमानानि भूरि ॥
+
+> *stuṣeyyaṃ puruvarpasamṛbhvaminatamamāptyamāptyānāṃ |*
+> *ā parṣate śavasā sapta dānūn pra sākṣate pratimānāni bhūri ‖*
+
+(Ṛ. Saṃ. 10-120-6)
+
+In giving the meaning of this ṛk, the Niruktakāra has stated that the word सप्त दानून् (*sapta dānūn*) means सप्त दातॄन् इति वा सप्त दानवान् इति वा (*sapta dātṝn iti vā sapta dānavān iti vā*) (zoomed), "seven givers" or "seven Dānavas". But, indicating his difficulty as to how the meaning "asura" is possible for the word *dānu* in such contexts, the scholar Max Muller has said this —
+
+It must be confessed that even the meaning of Danu is by no means quite clear· It is clear enough where it means Demon, II. 11, 18 : II. 12. 11 ; IV. 30.7 : X. 120·6 ; The seven Demons, in I· 32.9; III. 30·8 ; Danu› Demon is applied to the mother of Vritra‘ the dark cloud ; From this Danu we have the derivative Danava, meaning again Demon, why the demons conquered by Indra, were called Danu is not clear, unless they were conceived originally as dark clouds, like Danu, the mother of Indra. Danu might mean wise or even powerful, for this meaning also is ascribed to Danu by the author of Unadi Sutras. [sic: "clear·", "I· 32.9", "Danu›", "Vritra‘" as printed]
+
+[ S. B. E. XXXII· P. 114-115 ]
+
+---
+
+
+---
+
+### Printed p. 298 (PDF 317)
+
+*(Header: "Maṃ. 1. A. 24. Sū. 188" — so printed (zoomed; the sūkta is 189). Ṛk 8: Special Topics concluded; Vyākaraṇa-prakriyā.)*
+
+*Dānu* is the name of an asura woman, that is, of Vṛtra's mother. This scholar asks: her sons ought to be *Dānava*; how did they become *Dānu*? And from the Uṇādi sūtra it is known that the meanings "power" and "wise" too are possible for this word. But the meaning "giver" (*dātṛ*) is the better known.
+
+If, in this way, the word *jīra* means "swift" (*kṣipra*) and the word *dānu* means "gift" (*dāna*), then in the present ṛk the meaning has to be "a swift gift". But Sāyaṇa has given the meaning "a victorious gift". Since the word *jīra* has been used in many places in the sense of "impelling", here the meaning "a gift that impels victory" may be given. Generally the word जीरदानवः (*jīradānavaḥ*) comes most often as an epithet of the Maruts.
+
+> पृक्षे ता विश्वा भुवना ववक्षिरे मित्राय वा सदमा जीरदानवः ॥
+
+> *pṛkṣe tā viśvā bhuvanā vavakṣire mitrāya vā sadamā jīradānavaḥ ‖*
+
+(Ṛ. Saṃ. 2-34-4, zoomed; no closing parenthesis printed)
+
+In such ṛks जीरदानवः मरुतः (*jīradānavaḥ marutaḥ*) is well known. And —
+
+> वृषा न क्रुद्धः पतयद्रजःस्वा यो अर्यपत्नीरकृणोदिमा अपः ।
+> स सुन्वते मघवा जीरदानवेऽविंदज्ज्योतिर्मनवे हविष्मते ॥
+
+> *vṛṣā na kruddhaḥ patayadrajaḥsvā yo aryapatnīrakṛṇodimā apaḥ |*
+> *sa sunvate maghavā jīradānave 'viṃdajjyotirmanave haviṣmate ‖*
+
+(Ṛ. Saṃ. 10-43-8, zoomed)
+
+In such ṛks this word is an epithet also of the performer of the sacrifice who offers oblations and the like.
+
+**॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (grammar, noted briefly).** अवोचाम (*avocāma*) — root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*); in Vedic, *luṅ* in the sense of the present; substitution of *vac* for the root by ब्रुवो वचिः (*bruvo vaciḥ*) (Pā. Sū. 2-4-53, zoomed); *aṅ* for *cli* by अस्यतिवक्तिख्याति— (*asyativaktikhyāti—*) (Pā. Sū. 3-1-52, zoomed); when it follows, the augment *um* by वच उम् (*vaca um*) and guṇa; at the head of the pāda, so no nighāta; initial-acute by the accent of the augment *aṭ*. मानस्य (*mānasya*) — root माङ् माने (*māṅ māne*); suffix *ghañ*, being *ñit*, gives the initial-acute; in मानस्य सूनुः (*mānasya sūnuḥ*) the nominative stands in the sense of the locative by the statement सुपां सुपो भवन्ति (*supāṃ supo bhavanti*). सहसाने (*sahasāne*) — root षह मर्षणे (*ṣaha marṣaṇe*); *s* for the initial by धात्वादेः षः सः (*dhātvādeḥ ṣaḥ saḥ*) (Pā. Sū. 6-1-64, zoomed); suffix *asānac* by ऋञ्जिवृधिमंदिसहिभ्यः कित् (*ṛñjivṛdhimaṃdisahibhyaḥ kit*) (U. Sū. 2-2[?]4 — the middle digit undecided after zooming; no opening parenthesis printed); being *cit*, end-acute by चितः (*citaḥ*) (Pā. Sū. 6-1-163, zoomed); locative singular. सनेम (*sanema*) — root षण संभक्तौ (*ṣaṇa saṃbhaktau*); *s* for the initial as before; *liṅ* first person plural; nighāta by तिङ्ङतिङः (*tiṅṅatiṅaḥ*).
+
+*(After the grammar note on सनेम (*sanema*) at the foot of p. 298 no closing rule, "… vargavu mugidudu" line or colophon is printed; p. 299 opens with the Pīṭhike of the next sūkta. End of Ṛk 8 and of Sūkta 189.)*
+
+---
+
+### Printed p. 299 (PDF 318)
+
+*(Header: "A. 2. A 5. Va. 11." (zoomed). Pīṭhike (introduction) of the next sūkta (Sūkta 190; its number is not printed on this page).)*
+
+## Pīṭhike to Sūkta 190
+
+**Pīṭhike.** *(Centred title, with a short rule below.)*
+
+The deity of this sūkta is Bṛhaspati. Yāska in his Nirukta, explaining the derivation of the word Bṛhaspati —
+
+> बृहस्पतिः बृहतः पाता वा पालयिता वा ।
+
+> *bṛhaspatiḥ bṛhataḥ pātā vā pālayitā vā |*
+
+(Ni. 10-11, zoomed)
+
+— has said so. On this the commentator Durgācārya says — बृहस्पतिः कस्मात् (*bṛhaspatiḥ kasmāt*)? "बृहतः पाता वा पालयिता वा (*bṛhataḥ pātā vā pālayitā vā*)" बृहतः महतोऽस्य जगतः उदकस्य वा पाता रक्षिता, पालयिता अपि रक्षितैव धात्वन्यत्वमर्थैकत्वं (*bṛhataḥ mahato 'sya jagataḥ udakasya vā pātā rakṣitā, pālayitā api rakṣitaiva dhātvanyatvamarthaikatvaṃ*) ‖ — that is, the protector, the guardian of the great world or of water. He has said that, though to express the meaning of the word *pati* there are the words पाता (*pātā*), पालयिता (*pālayitā*) derived from different roots, the meaning is one only. Sāyaṇa in many contexts, explaining बृहतः पाता (*bṛhataḥ pātā*), has given for the word बृहतः (*bṛhataḥ*) the meaning बृहतः यज्ञाख्यकर्मणः अथवा वृष्ट्याख्यकर्मणः (*bṛhataḥ yajñākhyakarmaṇaḥ athavā vṛṣṭyākhyakarmaṇaḥ*), that is, "of the rite in the form of the sacrifice, or of the rite in the form of granting rain". Since Bṛhaspati, as the purohita of the gods, accomplishes the sacrificial rite, and brings about the rain that men need, both kinds of epithets are natural to him. Describing Bṛhaspati's office of purohita and his granting of rain —
+
+> यद्देवापिः शंतनवे पुरोहितो होत्राय वृतः कृपयन्नदीधेत् ।
+> देवश्रुतं वृष्टिवनिं रराणो बृहस्पतिर्वाचमस्मा अयच्छत् ॥
+
+> *yaddevāpiḥ śaṃtanave purohito hotrāya vṛtaḥ kṛpayannadīdhet |*
+> *devaśrutaṃ vṛṣṭivaniṃ rarāṇo bṛhaspatirvācamasmā ayacchat ‖*
+
+(Ṛ. Saṃ. 10-98-7, zoomed)
+
+— this ṛk Yāska has given as an example. In the explanation of this ṛk — बृहस्पतिर्ब्रह्मासीत् सोऽस्मै वाचमयच्छत् (*bṛhaspatirbrahmāsīt so 'smai vācamayacchat*) — it is described that Bṛhaspati, in the sacrifice performed by the king named Śantanu, became the purohita called Brahmā and taught the mantra in the form of speech, and that when the sacrificer praised with that mantra, rain came. Besides this, in the Yajurveda and other texts —
+
+> बृहस्पतिर्देवानां पुरोहित आसीच्छंडामर्कावसुराणां ।
+
+> *bṛhaspatirdevānāṃ purohita āsīcchaṃḍāmarkāvasurāṇāṃ |*
+
+(Tai. Saṃ. 6-4-10-1, zoomed)
+
+— it is said that Bṛhaspati was the purohita of the gods, and those called Śaṇḍa and Marka were the purohitas of the asuras.
+
+> ब्रह्म वै देवानां बृहस्पतिर्ब्रह्मणैवैनमभिचरति ।
+
+> *brahma vai devānāṃ bṛhaspatirbrahmaṇaivainamabhicarati |*
+
+(Tai. Saṃ. 2-2-9-1, zoomed)
+
+---
+
+
+---
+
+### Printed p. 300 (PDF 319)
+
+*(Header: "Maṃ. 1. A. 24 Sū. 189" (the Pīṭhike of Sūkta 190 stands under the header of Sūkta 189). Pīṭhike continued.)*
+
+— it is also said that Bṛhaspati, in the sacrifice performed by the gods, accomplished the sacrifice as the ṛtvij called Brahmā.
+
+> तस्मै विशः स्वयमेवा नमंते यस्मिन् ब्रह्मा राजनि पूर्व एति ।
+
+> *tasmai viśaḥ svayamevā namaṃte yasmin brahmā rājani pūrva eti |*
+
+(Ṛ. Saṃ. 4-50-8, zoomed)
+
+> अवस्यवे यो वरिवः कृणोति ब्रह्मणे राजा तमवंति देवाः ॥
+
+> *avasyave yo varivaḥ kṛṇoti brahmaṇe rājā tamavaṃti devāḥ ‖*
+
+(Ṛ. Saṃ. 4-50-9, zoomed)
+
+> सोमं राजानमवसेऽग्निं गीर्भिर्हवामहे ।
+> आदित्यान्विष्णुं सूर्यं ब्रह्माणं च बृहस्पतिं ॥
+
+> *somaṃ rājānamavase 'gniṃ gīrbhirhavāmahe |*
+> *ādityānviṣṇuṃ sūryaṃ brahmāṇaṃ ca bṛhaspatiṃ ‖*
+
+(Ṛ. Saṃ. 10-141-3, zoomed)
+
+In such ṛks Bṛhaspati is described as the ṛtvij called Brahmā.
+
+In the Ṛgveda Bṛhaspati has a truly prominent place. Besides being praised in eleven sūktas, he is praised in two sūktas (Ṛ. Saṃ. 4-49 ; 7-97, zoomed) as a dual deity together with Indra. The word Bṛhaspati occurs in the Ṛgveda about 120 times. In many contexts the deities Bṛhaspati and Brahmaṇaspati are praised interchangeably in one and the same mantra. Even so, Bṛhaspati is one deity and Brahmaṇaspati another.
+
+Some Western scholars, and some among modern learned men as well, have expressed the opinion that, since in the sūkta Ṛ. Saṃ. 2-23 (zoomed) Bṛhaspati and Brahmaṇaspati are praised interchangeably, the two are one deity. But the ancient commentators on the Veda, Yāska, Śaunaka, Sāyaṇa and others, have said clearly that Bṛhaspati is one and Brahmaṇaspati another. Of the 19 ṛks in the sūkta Ṛ. Saṃ. 2-23 mentioned above, only the 6 ṛks 1, 5, 9, 11, 17, 19 (zoomed) praise Bṛhaspati; the remaining 13 ṛks concern Brahmaṇaspati. Yāska too has given separate derivations for the word Bṛhaspati and for the word Brahmaṇaspati. Therefore Bṛhaspati is one and Brahmaṇaspati another.
+
+Bṛhaspati has a distinctiveness quite different from the other deities. While the other deities are all particular forms of nature or of the power of nature, Bṛhaspati appears to belong to the sphere of man's moral and religious life. There are many examples in the Ṛgveda showing that this deity, the protector of praise, hymn or prayer, exerts his influence on the mind, resolve or power of the gods. In the 98th sūkta of the 10th maṇḍala of the Ṛgveda (zoomed) there is a historical narrative about the Kuru princes named Devāpi and Śantanu. That Bṛhaspati's part in it is of great importance the Niruktakāra has described thus —
+
+---
+
+### Printed p. 301 (PDF 320)
+
+*(Header: "A. 2. A. 5. Va. 11." Pīṭhike continued.)*
+
+*(The quotation prints "kauravau" (zoomed).)*
+
+> अत्रेतिहासमाचक्षते । देवापिश्चार्ष्टिषेणः शंतनुश्च कौरवौ भ्रातरौ बभूवतुः । स शंतनुः कनीयानभिषेचयांचक्रे । देवापिस्तपः प्रतिपेदे । ततः शंतनो राज्ये द्वादश वर्षाणि देवो न ववर्ष । तमूचुर्ब्राह्मणा अधर्मस्त्वया चरितो ज्येष्ठं भ्रातरमंतरित्याभिषेचितं तस्मात्ते देवो न वर्षतीति । स शंतनुर्देवापिं शिशिक्ष राज्येन । तमुवाच देवापिः पुरोहितस्तेऽसानि याजयानि च त्वेति ॥
+
+> *atretihāsamācakṣate | devāpiścārṣṭiṣeṇaḥ śaṃtanuśca kauravau bhrātarau babhūvatuḥ | sa śaṃtanuḥ kanīyānabhiṣecayāṃcakre | devāpistapaḥ pratipede | tataḥ śaṃtano rājye dvādaśa varṣāṇi devo na vavarṣa | tamūcurbrāhmaṇā adharmastvayā carito jyeṣṭhaṃ bhrātaramaṃtarityābhiṣecitaṃ tasmātte devo na varṣatīti | sa śaṃtanurdevāpiṃ śiśikṣa rājyena | tamuvāca devāpiḥ purohitaste 'sāni yājayāni ca tveti ‖*
+
+(Ni. 2-11, zoomed)
+
+In former times, in the Kuru line, the king named Ṛṣṭiṣeṇa had two sons, Devāpi and Śantanu. Of them Devāpi was the elder and Śantanu the younger. After their father Ṛṣṭiṣeṇa died, his elder son, Devāpi, wished to become king. But his younger brother Śantanu, giving him no opportunity for it and wishing to obtain the kingdom himself, drove away his elder brother Devāpi and began to rule himself. The elder brother Devāpi, distressed, went to the forest and passed his time in penance. Meanwhile, in his country there was no rain for 12 years (zoomed) and a great famine came. Then King Śantanu, considering what should be done about it, asked the advice of the brāhmaṇas. The brāhmaṇas then told the king: "According to the Dharmaśāstra the king's eldest son alone is entitled to the kingdom; therefore your elder brother Devāpi ought to have borne the burden of the kingdom. But you, giving him no opportunity, drove him away and have seized the kingdom. Since you are thus practising adharma, the god of rain does not pour rain in your kingdom." King Śantanu, repenting of the injustice he had done, called his elder brother Devāpi, who was doing penance in the forest, and handed the kingdom over to him. But Devāpi said that he did not want the kingdom and would keep to the path of withdrawal (*nivṛttimārga*), doing penance in the forest; and he said that Śantanu should perform a sacrifice to remove the drought that had come upon the kingdom, and that he himself would take the office of purohita in it and help to bring rain. The king agreeing, Devāpi took the part of the ṛtvij called Hotṛ in his sacrifice. Bṛhaspati was the ṛtvij called Brahmā. In that sacrifice, performed for rainfall, Devāpi, the Hotṛ, prayed to Bṛhaspati, the Brahmā: "O Bṛhaspati, you have great influence over the minds of the gods; therefore you must teach me mantras that win them over." Bṛhaspati said "So be it" and taught Devāpi, the Hotṛ, mantras containing the prayers to the gods needed for rainfall. When homa was made with those mantras, addressed to the gods, rain came as desired: so it is said. Therefore this sūkta is also named the "Vṛṣṭikāma sūkta" (the sūkta for those who desire rain). This matter, with some differences, is stated also in Purāṇa works such as the Viṣṇu Purāṇa 4-20-7, the Mahābhārata, Ādiparva, and the Bhāgavata Purāṇa 9-22-14 to 17 (zoomed).
+
+---
+
+**Progress note:** Done through printed p. 301 (PDF 320; printed = PDF − 19, pp. 296–301 checked, no duplicate or missing page). Sūkta 189 complete (ends p. 298 with the grammar note; no closing line or colophon printed). Sūkta 190 (deity Bṛhaspati): Pīṭhike pp. 299–301 written (Bṛhaspati's derivation; Bṛhaspati distinct from Brahmaṇaspati; the Devāpi–Śantanu story from Ni. 2-11) through the foot of p. 301 (ends '… ukta vāgide.'); continue on p. 302 / PDF 321 with any rest of the Pīṭhike, then the sūkta's half-title, bhāṣya introduction and heading block (no Sūkta 190 number, ṛṣi or ṛk count seen yet). Flag needing action: the scan of p. 288 (PDF 307) cuts off the right edge of the text block (header Sūkta numeral and 1–3 characters at most line ends lost, marked […]); a re-scan of that page is wanted. Flags for pp. 1–150: see vol14/review/flags_archive_pp1-150.md; flags for pp. 151–205: see vol14/review/flags_archive_pp151-205.md; flags for pp. 206–251: see vol14/review/flags_archive_pp206-250.md; flags for pp. 252–285: see vol14/review/flags_archive_pp252-285.md. Flags from p. 286: New (pp. 286–288): p. 286 header Sū. 189, Ṛ. Saṃ. 1-12-6 (three tries), U. Sū. 1-1, Pā. Sū. 5-3-55, 6-4-156, 3-3-175, 3-1-55, 6-4-74, 8-3-1 zoomed (two tries for several; boxes landed left), root 'jṝṣ' (as it looks), pāyubhiḥ 'end-acute' as printed; p. 287 header Varga 10, Saṃhitā 'agneva' without avagraha, bhāṣya 'Ā, Gṛ. 2-1-6' zoomed; p. 288 right edge of the page cut off in the scan (lost text marked […]), header Sū. numeral lost, Ni. 3-13 (as printed) zoomed, printed English 'disgrace·' [sic]. New (p. 289): header Varga 11; grammar root printed 'sraja' (for sṛja; as it looks), Pā. Sū. 6-4-48, 6-1-199 (two tries), 6-1-176 (flat-footed 7; two tries), 6-4-25 (two tries), 6-1-186 zoomed; Ṛk 6 Saṃhitā: a printed word before 'varūthaṃ' struck through and illegible [?], handwritten correction 'tanve' above it transcribed (UNDECIDED logged); signature marks '[19]', 'Vol. 14' at the foot. New (pp. 290–292): p. 290 header Sū. 189 (read from the strip); Ṛk 6 Pada prints 'tanve' in type (agrees with the handwritten Saṃhitā correction); printed English 'becomes such as you are exempts' (no comma) as printed; p. 291 header Varga 11, Ni. 3-13 (varūtha; as printed), Pā. Sū. 6-3-91, 8-3-3 (pratyayottarapadayośca; as printed), 3-4-97, 3-4-94, 3-1-34 (first zoom landed a line high), U. Sū. 2-163 (as printed), Pā. Sū. 3-1-7 zoomed; root 'vṛñ' called svādi as printed; p. 292 header 'Maṃ. . A. 24' (no Maṇḍala numeral), Pā. Sū. 3-2-168, 6-4-48, 6-1-65 (ಜ-like glyph = 5), 6-1-71 zoomed; bhāṣya 'sannihita eva' zoomed (ta could carry an e-sign). New (pp. 293–295): p. 293 header Varga 11, Ni. 3-20, Ni. 3-9 and 3-19 (uśik; as printed), Ni. 6-12 zoomed; 'ippattu dviśanāmagaḷalli' (term unclear, as printed; zoomed); printed English stray mark before 'worship' and final '·' [sic]; p. 294 header Sū. 189, Ṛ. Saṃ. 3-1-12, Pā. Sū. 8-3-9, 8-3-3, 3-1-109, 6-1-16, 'U. Saṃ. 2-29' (abbreviation as printed) zoomed; suffix 'ṣeṇyaṇ' as printed; p. 295 header 'A. [2] A. 5 Va. 11' (Aṣṭaka numeral prints like 'ಅ.ವ', as on p. 285); printed English 'life·' [sic]. New (pp. 296–297): p. 296 header Sū. 189, Ṛ 1-165-15 (ಜ-like = 5), Ṛ. Saṃ. 1-44-11, 'jorī ca. U. Sū. 2-181' (three tries), Ni. 3-9 (kṣipra names; as printed), Ṛ. Saṃ. 10-36-6 zoomed; p. 297 header 'A. 2. A. 5 Va. 11', Ṛ. Saṃ. 2-34-4, 1-119-1, 'sapta dātṝn' zoomed; Ṛ. Saṃ. 10-120-6 verse prints 'ā parṣate' (zoomed, as printed), its number read from the strip; Max Muller quotation stray points/marks [sic]. Note: page.py zoom boxes landed ~40–50 px off in y (and off in x on p. 297, whose strips were not reduced): generous boxes needed. New (pp. 298–299): p. 298 header prints 'Sū. 188' (zoomed; the sūkta is 189), Ṛ. Saṃ. 2-34-4 (no closing parenthesis), 10-43-8, Pā. Sū. 2-4-53, 3-1-52, 6-1-64, 6-1-163 zoomed; U. Sū. for ṛñjivṛdhi… 2-2[?]4 UNDECIDED (middle digit broken); p. 299 header 'A. 2. A 5. Va. 11.', Ni. 10-11, Ṛ. Saṃ. 10-98-7, Tai. Saṃ. 6-4-10-1, 2-2-9-1 zoomed. New (pp. 300–301): p. 300 header still 'Sū. 189' over the Pīṭhike of 190; Ṛ. Saṃ. 4-50-8, 4-50-9, 10-141-3, '4-49 ; 7-97', 'about 120 times', Ṛ. Saṃ. 2-23 (19 ṛks; 1, 5, 9, 11, 17, 19 = 6 ṛks to Bṛhaspati), 10th maṇḍala 98th sūkta zoomed; p. 301 header 'A. 2. A. 5. Va. 11.', Ni. 2-11, '12 years', Viṣṇu Purāṇa 4-20-7, Bhāgavata 9-22-14 to 17 zoomed; Nirukta quotation 'kauravau' as printed. Tool note: page.py zoom boxes often land off target (strip cuts in zoom mode seem to differ from the displayed strips); tall boxes were used.
