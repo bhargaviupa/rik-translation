@@ -2062,5 +2062,77 @@
   "old": "(Ni. 2-10); (Ṛ. Saṃ. 10-187-2)",
   "new": "(Ni. 1-10 [?]); (Ṛ. Saṃ. 10-187-2 [?])",
   "note": "Reverted: page map of sheet 2 of Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx unconfirmed (user: undo sheet 2)."
+ },
+ {
+  "pdf": 102,
+  "printed": 82,
+  "status": "resolved",
+  "old": "(Ni. 1-4 [?])",
+  "new": "(Ni. 1-4)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 103,
+  "printed": 83,
+  "status": "resolved",
+  "old": "(Ni. 3-17 [?])",
+  "new": "(Ni. 3-13)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 3-17->3-13; not viewed by me."
+ },
+ {
+  "pdf": 106,
+  "printed": 86,
+  "status": "resolved",
+  "old": "(Ṛ. Saṃ. 3-30-5 [?]); (Ni. 6-1 [?]); (Ni. 11-30 [?])",
+  "new": "(Ṛ. Saṃ. 3-30-5); (Ni. 6-1); (Ni. 11-50)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 2 confirmed ([?] dropped); changed to the sheet's value: 11-30->11-50; not viewed by me."
+ },
+ {
+  "pdf": 107,
+  "printed": 87,
+  "status": "resolved",
+  "old": "(Ni. 11-30 [?]); (Ni. 7-15 [?])",
+  "new": "(Ni. 11-50); (Ni. 7-15)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 11-30->11-50; not viewed by me."
+ },
+ {
+  "pdf": 125,
+  "printed": 105,
+  "status": "resolved",
+  "old": "(Ni. 2-9 [?])",
+  "new": "(Ni. 3-9)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 2-9->3-9; not viewed by me."
+ },
+ {
+  "pdf": 129,
+  "printed": 109,
+  "status": "resolved",
+  "old": "(Ni. 3-13 [?])",
+  "new": "(Ni. 3-13)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 132,
+  "printed": 112,
+  "status": "resolved",
+  "old": "(Ni. 2-7 [?])",
+  "new": "(Ni. 1-7)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 0 confirmed ([?] dropped); changed to the sheet's value: 2-7->1-7; not viewed by me."
+ },
+ {
+  "pdf": 135,
+  "printed": 115,
+  "status": "resolved",
+  "old": "(Ni. 6-14 [?])",
+  "new": "(Ni. 6-14)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); not viewed by me."
+ },
+ {
+  "pdf": 149,
+  "printed": 129,
+  "status": "resolved",
+  "old": "(Ni. 1-10 [?]); (Ṛ. Saṃ. 10-187-2 [?])",
+  "new": "(Ni. 2-10); (Ṛ. Saṃ. 10-187-2)",
+  "note": "User's spreadsheet Rigveda_Samhitha_Vol13_Complete_Numerals.xlsx (first token = printed page): 1 confirmed ([?] dropped); changed to the sheet's value: 1-10->2-10; not viewed by me."
  }
 ]
