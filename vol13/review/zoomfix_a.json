@@ -358,5 +358,13 @@
   "old": "वृतोऽसुरपुरीः [?]; वस्तोर्वसतुं",
   "new": "वृतोऽसुरपुरीः; वस्तोर्वस्तुं",
   "note": "220dpi: Ṛk 3 Pada and bhāṣya compared. 'vahutendra' item: print ಬಹುಧಾ ವಾಹೂತೇಂದ್ರ — file's 'bahudhā vāhūtendra' agrees. Unresolved: ‘rakṣo rakṣasaś caiva [?]’ (print ರಕ್ಷೋ । ರಕ್ಷಸ್… ಚೈವ-like, middle cluster unclear) left [?]."
+ },
+ {
+  "pdf": 345,
+  "printed": 325,
+  "status": "resolved",
+  "old": "Pā. 3-4-100 [?] (itaś ca); 6-4-75, 8-2-24, 6-1-171, 6-4-133 [?]; 2-4-35 [?]",
+  "new": "itaś ca: no number printed; 6-4-75, 8-2-24, 6-1-171, 6-4-133 (no [?]); 7-2-35",
+  "note": "220dpi page view: sutra numbers legible for these; the 'itaś ca' sūtra has no reference in print. Left [?]: 3-1-79(?), 7-3-96, 8-2-28, 7-1-61 (digits too small to separate 2/7, 6/9)."
  }
 ]
