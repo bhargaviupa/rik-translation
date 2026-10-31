@@ -2014,5 +2014,353 @@
   ],
   "note": "ZOOMED, read: 1-185-6 (Special Topics cross-reference)",
   "answer": ""
+ },
+ {
+  "pdf": 93,
+  "printed": 75,
+  "crop": [
+   0.366,
+   0.39,
+   0.173,
+   0.8
+  ],
+  "note": "ZOOMED, read: Tai. Brā. 1-1-3-2 (bhāṣya, Ṛk 5)",
+  "answer": ""
+ },
+ {
+  "pdf": 93,
+  "printed": 75,
+  "crop": [
+   0.432,
+   0.468,
+   0.173,
+   0.8
+  ],
+  "note": "ZOOMED, read: Ṛ. 10-190-3 (bhāṣya, Ṛk 5)",
+  "answer": ""
+ },
+ {
+  "pdf": 93,
+  "printed": 75,
+  "crop": [
+   0.463,
+   0.51,
+   0.173,
+   0.8
+  ],
+  "note": "ZOOMED, read: Ṛ. 10-31-7 (bhāṣya, Ṛk 5)",
+  "answer": ""
+ },
+ {
+  "pdf": 93,
+  "printed": 75,
+  "crop": [
+   0.51,
+   0.531,
+   0.173,
+   0.8
+  ],
+  "note": "ZOOMED, read: Ṛ. 1-164-51 (bhāṣya, Ṛk 5)",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.181,
+   0.202,
+   0.167,
+   0.464
+  ],
+  "note": "ZOOMED, read: header 'A. 2. A 3. V. 2.' (Adhyāya digit printed 3, as printed; other odd pages 5)",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.296,
+   0.321,
+   0.53,
+   0.788
+  ],
+  "note": "ZOOMED, read: Tai. Brā. 1-1-3 2 (as printed, no dash)",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.385,
+   0.415,
+   0.53,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ai. Brā. 25-7",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.547,
+   0.573,
+   0.497,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-190-3",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.618,
+   0.655,
+   0.497,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 8-36-4",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.66,
+   0.69,
+   0.497,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-54-3",
+  "answer": ""
+ },
+ {
+  "pdf": 95,
+  "printed": 77,
+  "crop": [
+   0.758,
+   0.795,
+   0.497,
+   0.788
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 2-40-1",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.24,
+   0.258,
+   0.566,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 9-98-9",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.272,
+   0.291,
+   0.566,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 9-90-1",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.316,
+   0.337,
+   0.269,
+   0.698
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 9-96-5",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.356,
+   0.384,
+   0.269,
+   0.73
+  ],
+  "note": "ZOOMED, read: 'śirṣṇo' (short i, as printed) in nābhyā āsīd…",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.379,
+   0.421,
+   0.533,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-90-14",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.533,
+   0.551,
+   0.566,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-31-7",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.563,
+   0.596,
+   0.533,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-81-4",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.656,
+   0.689,
+   0.269,
+   0.73
+  ],
+  "note": "ZOOMED, read: 'katamatsvit kimāsīt' as printed (Ṛ. 10-81-2)",
+  "answer": ""
+ },
+ {
+  "pdf": 96,
+  "printed": 78,
+  "crop": [
+   0.735,
+   0.768,
+   0.533,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 10-81-2, 3",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.183,
+   0.204,
+   0.167,
+   0.432
+  ],
+  "note": "ZOOMED, read: header 'A. 2 A. 5. V. 2'",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.314,
+   0.347,
+   0.465,
+   0.792
+  ],
+  "note": "ZOOMED, read: 'samatapatte' (Ai. Brā. passage; p. 73 was read 'samapatatte')",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.333,
+   0.38,
+   0.217,
+   0.792
+  ],
+  "note": "ZOOMED, read: Ai. Brā. 19-5",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.587,
+   0.62,
+   0.531,
+   0.792
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-12-6",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.699,
+   0.723,
+   0.266,
+   0.792
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-117-14",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.671,
+   0.695,
+   0.266,
+   0.598
+  ],
+  "note": "UNDECIDED: 'pūrvyebhire[n?]vaiḥ' — ligature looks like n+v; kept with [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.671,
+   0.695,
+   0.217,
+   0.792
+  ],
+  "note": "UNDECIDED: 'yu[?]vānā' — a mark like ಶಿ between yu and vā",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.72,
+   0.758,
+   0.531,
+   0.792
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 7-62-5",
+  "answer": ""
+ },
+ {
+  "pdf": 97,
+  "printed": 79,
+  "crop": [
+   0.8,
+   0.821,
+   0.531,
+   0.792
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 1-113-7",
+  "answer": ""
  }
 ]
