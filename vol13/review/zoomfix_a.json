@@ -742,5 +742,13 @@
   "old": "Ni. 2-25 [?]",
   "new": "Ni. 2-25",
   "note": "190dpi: ನಿ.೨-೨೫ (round 2s); quote ‘matsaraḥ somo mandates tṛptikarmaṇaḥ’ agrees with the file."
+ },
+ {
+  "pdf": 392,
+  "printed": 372,
+  "status": "resolved",
+  "old": "…योगाधिकारी सन् योनि न यजते; …मकर्माणमनुष्ठायिनमोषः",
+  "new": "…योगाधिकारी सन् यो न यजते; …मकर्माणमननुष्ठायिनमोषः",
+  "note": "200dpi: print ಯೋಗಾಧಿಕಾರೀ ಸನ್ಯೋ ನ ಯಜತೇ ತಂ ದಹೇತ್ಯರ್ಥಃ; ಅಕರ್ಮಾಣಮನನುಷ್ಠಾಯಿನಂ."
  }
 ]
