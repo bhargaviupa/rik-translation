@@ -182,5 +182,21 @@
   "old": "एतत्प्रदध्नयं [?]; मिश्रयन्ति [?]; वाङ्महतश्चित् …; योत्स्याम्यमीति; वर्जनायं गन्ता",
   "new": "एतत्पदद्वयं; मिश्रयन्ती; वाङ्महश्चिन्महतोऽपि; योत्स्यामीति; वर्जनाय गन्ता",
   "note": "250/600dpi: bhāṣya of Ṛk 12 re-read line by line from the print. NOT resolved: 'mo ṣu tyaiva [?]' (print ಮೋ ಷು …ೈವ, middle cluster ಮ್ಯೈ/ತ್ವೈ/ವ್ಯೈ unclear) — left [?]. Pratipadārtha order (second entry) not re-read."
+ },
+ {
+  "pdf": 324,
+  "printed": 304,
+  "status": "resolved",
+  "old": "Pratipadārtha order (garbled?)",
+  "new": "(no change)",
+  "note": "250dpi: print order and sense match the file's rendering (haviṣmataḥ…, [or…], marutaḥ, vandate, naḥ, indra, atra pṛtsu, devaiḥ, mo ṣu, śuṣmin, te, avayāḥ, asti hi sma); nothing to correct."
+ },
+ {
+  "pdf": 326,
+  "printed": 306,
+  "status": "resolved",
+  "old": "Bṛ.Up. 1-1-1 [?]; Ṛ.Saṃ. 2-9-1 [?]",
+  "new": "Bṛ. Up. 1-1-1; Ṛ. Saṃ. 2-8-1",
+  "note": "650dpi: ೧-೧-೧ and ೨-೮-೧ (middle glyph ೮ ಲ/ಅ-like). UNRESOLVED: Nirukta refs for 'dhana names' and 'saṃgrāma names' both look like ೨-೯ in the print (single digit after the dash), not 2-10 / 2-17 as in the file — left [?] in the file."
  }
 ]

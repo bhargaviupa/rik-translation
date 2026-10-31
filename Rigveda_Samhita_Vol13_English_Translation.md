@@ -7746,13 +7746,13 @@ In the second meaning — ***yadvā avayāḥ śatrūṇāṃ varjanāya gantā 
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
 
-The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprinkling. The meaning of its root form can be seen from the sentence "***yan mehati tad varṣati***" (Bṛ. Up. 1-1-1 [?]).
+The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprinkling. The meaning of its root form can be seen from the sentence "***yan mehati tad varṣati***" (Bṛ. Up. 1-1-1).
 
 > वाजयन्निव नू रथान्योगाँ अग्नेरुप स्तुहि । यशस्तमस्य मीळ्हुषः ॥
 
 > *vājayann iva nū rathān yogāṁ agner upa stuhi | yaśastamasya mīḷhuṣaḥ ‖*
 
-(Ṛ. Saṃ. 2-9-1 [?]). In all such ṛks it means *phalasya sektā*, "the sprinkler of the fruit", that is, "one who grants desired objects". In the ṛk at hand it is "one who sends down rain". The word *mīḷhuṣ*, derived from this root, is read by the Nirukta-writers among the names of wealth (Ni. 2-10 [?]) and the word *mīḷhe* among the names of battle (Ni. 2-17 [?]); their special meanings are explained in the respective contexts.
+(Ṛ. Saṃ. 2-8-1). In all such ṛks it means *phalasya sektā*, "the sprinkler of the fruit", that is, "one who grants desired objects". In the ṛk at hand it is "one who sends down rain". The word *mīḷhuṣ*, derived from this root, is read by the Nirukta-writers among the names of wealth (Ni. 2-10 [?]) and the word *mīḷhe* among the names of battle (Ni. 2-17 [?]); their special meanings are explained in the respective contexts.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
