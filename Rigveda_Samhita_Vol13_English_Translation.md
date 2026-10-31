@@ -10628,7 +10628,7 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 
 - ***invasi*** — root *ivi vyāptau*; since it is *idit*, the augment *num*; *laṭ*, second person singular; *nighāta* accent for a *tiṅ*.
 - ***anti*** — in *antike* the *ka* is dropped Vedically.
-- ***vindasi*** — root *vidḷ lābhe*, *tudādi*; *laṭ*, second person singular; by "*śe mucādīnām*" (Pā. Sū. 7-1-59 [?]) the augment *num*; *anusvāra*, *parasavarṇa*; *nighāta* for a *tiṅ*. ‖ 1 ‖
+- ***vindasi*** — root *vidḷ lābhe*, *tudādi*; *laṭ*, second person singular; by "*śe mucādīnām*" (Pā. Sū. 7-1-59) the augment *num*; *anusvāra*, *parasavarṇa*; *nighāta* for a *tiṅ*. ‖ 1 ‖
 
 ---
 
@@ -10712,7 +10712,7 @@ Pervade with our praise him who is the sole sustainer of men, to whom the oblati
 
 (Ṛ. Saṃ. 1-109-3 [?]) — in such ṛks it describes, as an epithet of Indra and Agni, their power of vision. Sāyaṇa has explained "*sarvasya draṣṭārau indrāgnī*" — Indra and Agni, who have the capacity to see everything. In the ṛk at hand too it is said that men have sight in the form of knowledge. Thus Indra is the sole protector of such men: this is the meaning of the sentence *ekaḥ carṣaṇīnām*.
 
-***anu svadhā yam upyate*** — the statement that *svadhā*, the offering, ought to be given to Indra, the protector of all, points out the duty of man. *Svadhā* — *havirlakṣaṇam annam*: here, food in the form of oblation is meant. The Nirukta-writers have read this word among the names of water (Ni. 1-12 [?]) and among the names of food (Ni. 2-7 [?]). In many contexts the word *svadhā* means "own greatness, own splendour, self-support". For example —
+***anu svadhā yam upyate*** — the statement that *svadhā*, the offering, ought to be given to Indra, the protector of all, points out the duty of man. *Svadhā* — *havirlakṣaṇam annam*: here, food in the form of oblation is meant. The Nirukta-writers have read this word among the names of water (Ni. 1-12 [?]) and among the names of food (Ni. 3-7). In many contexts the word *svadhā* means "own greatness, own splendour, self-support". For example —
 
 > शश्वत्पुरोषा व्युवास देव्यथो अद्येदं व्यावो मघोनी । अथो व्युच्छादुत्तराँ अनु द्यूनजरामृता चरति स्वधाभिः ॥
 
@@ -10730,7 +10730,7 @@ In this ṛk, where the word is used of Uṣas, it is explained as "*ātmīyais 
 
 > *yad antarikṣe patathaḥ purubhujā yad ve me rodasī anu | yad vā svadhābhir adhitiṣṭhatho ratham ata ā yātam aśvinā ‖*
 
-(Ṛ. Saṃ. 8-10-6 [?]) — in this ṛk, describing the nature of the Aśvin deities, the meaning "*ātmīyais tejobhir balair vā sārdham*" — "with your own splendours, or together with your own powers" — is given. And —
+(Ṛ. Saṃ. 5-10-6) — in this ṛk, describing the nature of the Aśvin deities, the meaning "*ātmīyais tejobhir balair vā sārdham*" — "with your own splendours, or together with your own powers" — is given. And —
 
 > न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किं चनास ॥
 
@@ -10762,13 +10762,13 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 > *pra su ṣa vibhyo maruto viras tu pra śyenaḥ śyenebhya āśupatvā | acakrayā yat svadhayā suparṇo havyaṃ bharan manave devajuṣṭam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 4-26-4 [?]) — in this ṛk, explaining this word, Sāyaṇa says "here the word *svadhā* means *rasa* (essence)", and, to support this meaning —
+(Ṛ. Saṃ. 4-26-4) — in this ṛk, explaining this word, Sāyaṇa says "here the word *svadhā* means *rasa* (essence)", and, to support this meaning —
 
 > अपश्यं ग्रामं वहमानमाराद चक्रया स्वधया वर्तमानम् । सिषक्त्यर्यः प्र युगा जनानां सद्यः शिश्ना प्रमिनानो नवीयान् ॥
 
 > *apaśyaṃ grāmaṃ vahamānam ārād acakrayā svadhayā vartamānam | siṣakty aryaḥ pra yugā janānāṃ sadyaḥ śiśnā praminān o navīyān ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-27-19 [?]) — quoting this ṛk, he says "*atra svadhāśabdo rathavācī*; 10-27-19 [?] *ity ādau darśanāt*" — "here the word *svadhā* means 'chariot', since it is so seen in 10-27-19 and elsewhere": as in the ṛk quoted, so in this ṛk (4-26-4 [?]) also he takes *svadhā* to mean "chariot". But again, in explaining the ṛk 10-27-19, he says "*acakrayā cakravarjitayā rathahīnayā, svadhayā — svayam ūtātmānaṃ dhārayantyā senayā*" and gives the meaning "army" for the word *svadhā*. Although the many meanings of the word *svadhā* are thus indicated in this context, the sentence of the bhāṣya mentioned earlier seems to have been forgotten here.
+(Ṛ. Saṃ. 10-27-19) — quoting this ṛk, he says "*atra svadhāśabdo rathavācī*; 10-27-19 [?] *ity ādau darśanāt*" — "here the word *svadhā* means 'chariot', since it is so seen in 10-27-19 and elsewhere": as in the ṛk quoted, so in this ṛk (4-26-4 [?]) also he takes *svadhā* to mean "chariot". But again, in explaining the ṛk 10-27-19, he says "*acakrayā cakravarjitayā rathahīnayā, svadhayā — svayam ūtātmānaṃ dhārayantyā senayā*" and gives the meaning "army" for the word *svadhā*. Although the many meanings of the word *svadhā* are thus indicated in this context, the sentence of the bhāṣya mentioned earlier seems to have been forgotten here.
 
 ***svadhām anu; anu svadhām*** — where these usages occur they naturally mean "by nature" (*svabhāvataḥ*) or "according to custom". For example —
 
@@ -10847,7 +10847,7 @@ Describing Indra as the lord of all the wealth that causes the growth of all bei
 
 Support for both meanings can be shown from Śruti passages. First, the derivation of the word *kṣiti* should be examined; afterwards, what meaning of *pañcakṣiti* should be taken in this context may be considered.
 
-***kṣitīnām — kṣiyanti nivasanti gacchanti vā kṣitayo manuṣyāḥ*** — "they dwell or they move; hence this epithet of men", Sāyaṇa has explained. The Nirukta-writers read the word *kṣiti* among the twenty-five [?] names of men beginning with *naraḥ* (Ni. 3-7 [?]).
+***kṣitīnām — kṣiyanti nivasanti gacchanti vā kṣitayo manuṣyāḥ*** — "they dwell or they move; hence this epithet of men", Sāyaṇa has explained. The Nirukta-writers read the word *kṣiti* among the twenty-five [?] names of men beginning with *naraḥ* (Ni. 3-7).
 
 ### Printed p. 408  (PDF 428)
 
@@ -10857,7 +10857,7 @@ Support for both meanings can be shown from Śruti passages. First, the derivati
 
 > *agnir netā bhaga iva kṣitīnāṃ daivīnāṃ deva ṛtupā ṛtāvā | sa vṛtrahā sanayo viśvavedāḥ parṣad viśvāti duritā gṛṇantam ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 3-20-4 [?]) — in such ṛks, showing the difference between the *kṣitis* belonging to men and those belonging to the deities, the word *kṣiti* indicates the people of the earth, that is, men. But in the ṛk at hand it cannot be said with certainty that only men of the earth are meant, because the lordship of Indra pervades all three: earth, atmosphere and heaven.
+(Ṛ. Saṃ. 3-10-4) — in such ṛks, showing the difference between the *kṣitis* belonging to men and those belonging to the deities, the word *kṣiti* indicates the people of the earth, that is, men. But in the ṛk at hand it cannot be said with certainty that only men of the earth are meant, because the lordship of Indra pervades all three: earth, atmosphere and heaven.
 
 > न यस्य देवा देवता न मर्ता आपश्चन शवसो अन्तमापुः । स प्ररिक्वा त्वक्षसा क्ष्मो दिवश्च मरुत्वान्नो भवत्विन्द्र ऊती ॥
 
@@ -10889,13 +10889,13 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 > *pratyūvācātha tān agnir viśvedevā yad ūca mām | tat kariṣye juṣantāṃ tu hotraṃ pañcajanā mama ‖* [as read: [?]]
 
-(Bṛ. De. 7-66 [?]) — in this verse, after giving the deities the answer that Agni had given, the word *pañcajana* is explained:
+(Bṛ. De. 7-66) — in this verse, after giving the deities the answer that Agni had given, the word *pañcajana* is explained:
 
 > शालामुख्यः प्रणीतश्च पुत्रो गृहपतेश्च यः । उत्तरो दक्षिणश्चाग्नीरेते पञ्चजनाः स्मृताः ॥
 
 > *śālāmukhyaḥ praṇītaś ca putro gṛhapateś ca yaḥ | uttaro dakṣiṇaś cāgnīr ete pañcajanāḥ smṛtāḥ ‖*
 
-(Bṛ. De. 7-67 [?]). That is: the fire at the entrance of the hall (the *āhavanīya*), the *praṇīta* fire, the *gārhapatya* fire that is the son of the sacrificer, and the northern and southern fires: these five kinds of fires are, by traditional usage, called the five groups. Besides this view —
+(Bṛ. De. 7-67). That is: the fire at the entrance of the hall (the *āhavanīya*), the *praṇīta* fire, the *gārhapatya* fire that is the son of the sacrificer, and the northern and southern fires: these five kinds of fires are, by traditional usage, called the five groups. Besides this view —
 
 > मनुष्याः पितरो देवा गन्धर्वोरगराक्षसाः । गन्धर्वाः पितरो देवा असुरा यक्षराक्षसाः ॥
 
@@ -10933,7 +10933,7 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 > *prati spaśo vi sṛja tūrṇitamo bhavā pāyur viśo asyā adabdhaḥ | yo no dūre aghaśaṃso yo antyagne mākiṣṭe vyathirā dadharṣīt ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 4-4-3 [?]) — in this ṛk, for the word *spaśaḥ* the meaning is "*parabādhakān raśmīn cārān vā*", "the rays that trouble others, or spies": either the rays of Agni that destroy enemies, or Agni's messengers that destroy enemies.
+(Ṛ. Saṃ. 4-4-2) — in this ṛk, for the word *spaśaḥ* the meaning is "*parabādhakān raśmīn cārān vā*", "the rays that trouble others, or spies": either the rays of Agni that destroy enemies, or Agni's messengers that destroy enemies.
 
 In the first meaning mentioned above, the word is used where the object that comes within the range of the sense organs, such as touch, is described. For example —
 
@@ -10954,9 +10954,9 @@ In the first meaning mentioned above, the word is used where the object that com
 
 *(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
 
-- ***asmadhruk*** — root *druha jighāṃsāyām*; by "*satsūdviṣa*…" (Pā. Sū. 3-2-61 [?]) the suffix *kvip*; by "*dādeḥ dhātor ghaḥ*" (Pā. Sū. 8-2-32 [?]), when *su* follows, the *h* becomes *gh*; by "*ekāco baśo bhaṣ*…" (Pā. Sū. 8-2-37 [?]) the initial *d* becomes *dh*; at the end of the word *jaśtva*, *cartva*; the *kṛdutta* final member keeps its natural accent.
-- ***divyā*** — *divi bhavā divyā*; by "*daṇḍādibhyo yaḥ*" (Pā. Sū. 5-1-66 [?]) the suffix *ya*; by the suffix accent the end syllable is *udātta*; in the feminine, since it ends in *a*, *ṭāp*.
-- ***jahi*** — root *hana hiṃsāgatyoḥ*; *loṭ*, second person singular; *hi* for *sip*; by "*hanter jaḥ*" (Pā. Sū. 6-4-36 [?]) *ja* for the root; by "*asiddhavat atrābhāt*" (Pā. Sū. 6-4-22 [?]) this is treated as not yet effected, so by "*ato heḥ*" the dropping of *hi* does not occur here; *nighāta* for a *tiṅ*. ‖ 3 ‖
+- ***asmadhruk*** — root *druha jighāṃsāyām*; by "*satsūdviṣa*…" (Pā. Sū. 3-2-61) the suffix *kvip*; by "*dādeḥ dhātor ghaḥ*" (Pā. Sū. 8-2-32), when *su* follows, the *h* becomes *gh*; by "*ekāco baśo bhaṣ*…" (Pā. Sū. 8-2-37) the initial *d* becomes *dh*; at the end of the word *jaśtva*, *cartva*; the *kṛdutta* final member keeps its natural accent.
+- ***divyā*** — *divi bhavā divyā*; by "*daṇḍādibhyo yaḥ*" (Pā. Sū. 5-1-66) the suffix *ya*; by the suffix accent the end syllable is *udātta*; in the feminine, since it ends in *a*, *ṭāp*.
+- ***jahi*** — root *hana hiṃsāgatyoḥ*; *loṭ*, second person singular; *hi* for *sip*; by "*hanter jaḥ*" (Pā. Sū. 6-4-36) *ja* for the root; by "*asiddhavat atrābhāt*" (Pā. Sū. 6-4-22) this is treated as not yet effected, so by "*ato heḥ*" the dropping of *hi* does not occur here; *nighāta* for a *tiṅ*. ‖ 3 ‖
 
 ---
 
@@ -11006,7 +11006,7 @@ Slay every one who offers not libations, however difficult to be destroyed: slay
 
 ***dūṇāśam — duḥkhena nāśanīyaṃ*** — "one who can be destroyed only with difficulty" is the sense. Since the prowess of some enemies is exceedingly great, effort is needed to destroy them; to show this point the word *dūṇāśa* is used.
 
-***sūriḥ — sūrir iva stotā*** — "praiser" is the sense. Since *rebhaḥ*, *jaritā*, *kāruḥ* and so on are read among the thirteen names of praisers (*stotṛ*) (Ni. 3-16 [?]), *sūrayaḥ* means praisers, devotees who recite *stotras*. In contexts that give the meaning "wise, discriminating, intelligent" too the word *sūri* is often used. When used of sages who possess the supernatural (*alaukika*) power of vision, visual and mental, by which they grasp the true nature of the deities and the secret truths of the universe, this epithet gives a special meaning.
+***sūriḥ — sūrir iva stotā*** — "praiser" is the sense. Since *rebhaḥ*, *jaritā*, *kāruḥ* and so on are read among the thirteen names of praisers (*stotṛ*) (Ni. 3-19), *sūrayaḥ* means praisers, devotees who recite *stotras*. In contexts that give the meaning "wise, discriminating, intelligent" too the word *sūri* is often used. When used of sages who possess the supernatural (*alaukika*) power of vision, visual and mental, by which they grasp the true nature of the deities and the secret truths of the universe, this epithet gives a special meaning.
 
 > तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः । दिवीव चक्षुराततम् ॥
 
@@ -11028,13 +11028,13 @@ In such contexts it suggests not merely that they are praisers but the extraordi
 
 > *… maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai ‖* [as printed: [?]]
 
-(Ṛ. Saṃ. 1-61-3 [?]) — in such ṛks, by the word *vipaścitam indram*, the wisdom of Indra and the other deities is shown. Besides this, the word *sūri* is also used where the meaning "lord" (*prabhu*), "impeller" (*preraka*), "one who sets on the right path" (*sanmārgapravartaka*) is suggested. For example —
+(Ṛ. Saṃ. 1-61-3) — in such ṛks, by the word *vipaścitam indram*, the wisdom of Indra and the other deities is shown. Besides this, the word *sūri* is also used where the meaning "lord" (*prabhu*), "impeller" (*preraka*), "one who sets on the right path" (*sanmārgapravartaka*) is suggested. For example —
 
 > जनो यः पज्रेभ्यो वाजिनीवाँ अश्वावतो रथिनो मह्यं सूरिः ।
 
 > *jano yaḥ pajrebhyo vājinīvāṃ aśvāvato rathino mahyaṃ sūriḥ |*
 
-(Ṛ. Saṃ. 1-122-8 [?]);
+(Ṛ. Saṃ. 1-122-8);
 
 > असद्यथा जरित्र उत सूरिरिन्द्रो रायो विश्ववारस्य दाता ।
 
@@ -11046,7 +11046,7 @@ In such contexts it suggests not merely that they are praisers but the extraordi
 
 > *muhyantv anye abhito janāsa ihāsmākaṃ maghavā sūrir astu |*
 
-(Ṛ. Saṃ. 10-83-6 [?]) —
+(Ṛ. Saṃ. 10-81-6) —
 
 in these and similar contexts, this epithet is used of deities who are lords and guides along the right path, and describes the qualities of Indra and the others.
 
@@ -11054,7 +11054,7 @@ in these and similar contexts, this epithet is used of deities who are lords and
 
 > *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathād īṣate vayaḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 1-141-8 [?]) — in some such places only does it have the meaning "path" (*mārga*).
+(Ṛ. Saṃ. 1-141-8) — in some such places only does it have the meaning "path" (*mārga*).
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
@@ -11137,13 +11137,13 @@ Soma, you protect him in whose prayers, doubly devout, there is the combination 
 
 > *mahāṃ indro nṛvad ā carṣaṇiprā uta dvibarhā aminaḥ sahobhiḥ | asmadryag vāvṛdhe vīryāyoruḥ pṛthuḥ sukṛtaḥ kartṛbhir bhūt ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 6-19-1 [?]) — quoting this ṛk, the use of this word is shown. Here the word *dvibarhāḥ* is an epithet of Indra. "*Dvayor lokayoḥ parivṛḍhaḥ*" — Sāyaṇa has said that this is the purport of the word. Likewise —
+(Ṛ. Saṃ. 6-19-1) — quoting this ṛk, the use of this word is shown. Here the word *dvibarhāḥ* is an epithet of Indra. "*Dvayor lokayoḥ parivṛḍhaḥ*" — Sāyaṇa has said that this is the purport of the word. Likewise —
 
 > आ द्विबर्हा अमिनो याह्यर्वाङिन्द्रो वृषा हरिभ्यां परिषिक्तमन्धः । गव्या सुतस्य प्रभृतस्य मध्वः सत्रा खेदामरुशहा वृषस्व ॥
 
 > *ā dvibarhā amino yāhy arvāṅ indro vṛṣā haribhyāṃ pariṣiktam andhaḥ | gavyā sutasya prabhṛtasya madhvaḥ satrā khedām aruśahā vṛṣasva ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-106-4 [?]) — here too it is an epithet of Indra. "*Dvābhyāṃ stutiśastrābhyāṃ vardhanīyaḥ*" — "one to be made to grow by the two, praise and recitation": and, "*vṛher vardhanārthasya karmaṇy asun*" — with the root *vṛh*, which means "to grow", the suffix *asun* in the passive sense; explaining that it gives the meaning "one who has gained growth", the formation of the word is shown.
+(Ṛ. Saṃ. 10-116-4) — here too it is an epithet of Indra. "*Dvābhyāṃ stutiśastrābhyāṃ vardhanīyaḥ*" — "one to be made to grow by the two, praise and recitation": and, "*vṛher vardhanārthasya karmaṇy asun*" — with the root *vṛh*, which means "to grow", the suffix *asun* in the passive sense; explaining that it gives the meaning "one who has gained growth", the formation of the word is shown.
 
 [Just as the usage *dvibarhāḥ* is found, so the usage *adribarhāḥ* is also found in ṛks such as 10-63-3 [?]; the meaning is "mountains that have grown".]
 
@@ -11153,7 +11153,7 @@ Soma, you protect him in whose prayers, doubly devout, there is the combination 
 
 > *arko devo bhavati yad enam arcanti | arko mantro bhavati yad enenārcanti | arkam annaṃ bhavaty arcati bhūtāni | arko vṛkṣo bhavati saṃvṛttaḥ kaṭukimnā |*
 
-(Ni. 3-4 [?]). Since it is worshipped, *arka* is a deity; since worship is done by it, *arka* is a mantra; since beings are satisfied (*arcati*), *arka* is food; *arka* is also a kind of tree, since it is covered with bitterness: thus the Nirukta-writers show different meanings; and quoting —
+(Ni. 4-4). Since it is worshipped, *arka* is a deity; since worship is done by it, *arka* is a mantra; since beings are satisfied (*arcati*), *arka* is food; *arka* is also a kind of tree, since it is covered with bitterness: thus the Nirukta-writers show different meanings; and quoting —
 
 > गायन्ति त्वा गायत्रिणोऽर्चन्त्यर्कमर्किणः । ब्रह्माणस्त्वा शतक्रत उद्वंशमिव येमिरे ॥
 
@@ -11179,7 +11179,7 @@ Quoting this sentence, together with the ṛk
 
 > *indram id gāthino bṛhad indram arkebhir arkiṇaḥ |*
 
-(Ṛ. Saṃ. 1-7-1 [?]) — the following nine [?] ṛks that begin from this ṛk are *arka* mantras; they are the mantras that constitute the head (*śiras*) and are of the nature of the Self (*ātmaka*); and since these mantras are in the form of Gāyatrī, which is the chief principle, all the *arka* mantras are said to occupy the chief place among the mantras: so it explains. In the Bṛhadāraṇyaka Upaniṣad, in explaining the derivation of the word *arka* —
+(Ṛ. Saṃ. 1-7-1) — the following nine [?] ṛks that begin from this ṛk are *arka* mantras; they are the mantras that constitute the head (*śiras*) and are of the nature of the Self (*ātmaka*); and since these mantras are in the form of Gāyatrī, which is the chief principle, all the *arka* mantras are said to occupy the chief place among the mantras: so it explains. In the Bṛhadāraṇyaka Upaniṣad, in explaining the derivation of the word *arka* —
 
 > सोऽर्चन्नचरत्तस्यार्चत आपोऽजायन्तार्चते वै मे कमभूदिति तदेवार्कस्यार्कत्वं कं ह वा अस्मै भवति य एवमेतदर्कस्यार्कत्वं वेद ।
 
