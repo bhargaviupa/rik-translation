@@ -262,5 +262,13 @@
   "old": "Varga — 16, 17 [?]; Āśvalāyana ref ā. [?]",
   "new": "Varga — 16 (as in the page header of p. 313); ā. ७-१२ / ā. 7-12",
   "note": "200/600dpi: header of p.313 reads ವ. ೧೬ (16); the ref after 'avāperan' reads ೭-೧೨- (first glyph flat = 7, ‘12’ with looped 2); 'tvaṃ rājeti daśarcaṃ…' text agrees with file apart from the unresolved ‘etacchastavyam’ [?] left."
+ },
+ {
+  "pdf": 334,
+  "printed": 314,
+  "status": "resolved",
+  "old": "त्वं न्नस्मान् कर्मनेतॄन्नस्य जमानान्; सत्यो बाधाभ्यः",
+  "new": "त्वं नॄनस्मान् कर्मनेतॄन्यजमानान्; सत्योऽबाध्यः",
+  "note": "230/450dpi: print ತ್ವಂ ನೃನಸ್ಮಾನ್ ಕರ್ಮನೇತೃನ್ಯಜಮಾನಾನ್ (nṝn asmān … yajamānān) and ಸತ್ಯೋऽಬಾಧ್ಯಃ. 'viśeṣato 'smān asi rakṣa' agrees with print, its [?] kept."
  }
 ]
