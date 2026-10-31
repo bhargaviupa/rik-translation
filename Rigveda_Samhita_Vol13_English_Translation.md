@@ -4788,13 +4788,13 @@ The word *vana* is read among the names of the ray (*raśmi*) (Ni. 1-[?]) and am
 
 > *pārāvatasya rātiṣu dravaccakreṣv āśuṣu | tiṣṭhaṃ vanasya madhya ā ‖*
 
-(Ṛ. Saṃ. 8-34-18 [?]) — here a part of the chariot is meant. Likewise, looking at the uses of verbal forms, in the example cited in the Nirukta (Ni. 5-2 [?]):
+(Ṛ. Saṃ. 8-34-18 [?]) — here a part of the chariot is meant. Likewise, looking at the uses of verbal forms, in the example cited in the Nirukta (Ni. 5-2):
 
 > त्वया वयं मघवन्पूर्व्ये धन इन्द्रत्वोताः सासह्याम पृतन्यतो वनुयाम वनुष्यतः ॥
 
 > *tvayā vayaṃ maghavan pūrvye dhana indratvotāḥ sāsahyāma pṛtanyato vanuyāma vanuṣyataḥ ‖*
 
-(Ṛ. Saṃ. 1-132-1 [?]) and
+(Ṛ. Saṃ. 1-132-1) and
 
 > अस्माकेभिर्नृभिर्वयं सासह्याम पृतन्यतो वनुयाम वनुष्यतो नभन्तामन्यके समे ॥
 
@@ -5434,7 +5434,7 @@ It is well known that the vehicle of the Marut-gods and the manner of their move
 > *tviṣīmanto adhvarasyeva didyut treṣu [?] cyavanaso juhvo nāgneḥ |*
 > *arcatrayo dhunayo na vīrā bhrājajjanmāno maruto adhṛṣṭāḥ ‖*
 
-(Ṛ. Saṃ. 6-66-10 [?])
+(Ṛ. Saṃ. 6-66-10)
 
 > त्वं वृधन्तं मारुतं भ्राजदृष्टिं रुद्रस्य सूनुं हवसा विवासे । [?]
 > दिवः शर्धायु शुचयो मनीषा गिरयो नापः उग्रा अस्पृध्रन् ॥ [as read]
@@ -5466,7 +5466,7 @@ It is well known that the vehicle of the Marut-gods and the manner of their move
 
 > *iṣaṃ pṛñcantā sukṛte sudānava ā barhiḥ sīdataṃ narā |*
 
-(Ṛ. Saṃ. 1-47-9 [?])
+(Ṛ. Saṃ. 1-47-8)
 
 > सेदग्ने अस्तु सुभगः सुदानुर्यस्त्वा नित्येन हविषा य उक्थैः ।
 
@@ -5580,7 +5580,7 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 > *dūtaṃ vo viśvavedasaṃ havyavāham amartyam |*
 > *yajiṣṭham ṛñjase girā ‖*
 
-(Ṛ. Saṃ. 4-8-1 [?]) he shows the use [as printed: *yajiṣṭham*]. Sāyaṇa addresses the Marut-gods as "*sudānavaḥ marutaḥ*", "givers of many excellent things". It is explained that their weapon *ṛṣṭi* shines with its own brilliance, or is well known for destroying enemies; and that, though that weapon is harmful toward enemies, it should be far from us, the sacrificers.
+(Ṛ. Saṃ. 4-8-5) he shows the use [as printed: *yajiṣṭham*]. Sāyaṇa addresses the Marut-gods as "*sudānavaḥ marutaḥ*", "givers of many excellent things". It is explained that their weapon *ṛṣṭi* shines with its own brilliance, or is well known for destroying enemies; and that, though that weapon is harmful toward enemies, it should be far from us, the sacrificers.
 
 ***āre aśmā yamasyatha*** — *vyāpakaḥ āyudhaviśeṣaḥ dūre bhavatu māṃ na prāpnotu*: "the pervading weapon that you hurl, sent to punish, let it be far from us (since we are not their enemies)": so it is said, taking the word *āre* in the sense "far". In the second meaning, "*āreśabdaḥ ārāccabdaparyāyaḥ | sa ca dūre samīpe ca vartate*" — the word *āre*, being a synonym of the word *ārāt*, conveys both "far" and "near"; here the meaning "near" is explained, and "*asmatto'nyaṃ yaṃ vairiṇam*" — "the enemy other than us" — (continued).
 
@@ -5941,7 +5941,7 @@ The words formed from the root *dabh* ("to injure, destroy") are numerous and ar
 
 (Ṛ. Saṃ. 6-8-2 [?]). In many ṛks this usage is found.
 
-***dhenavaḥ*** — "*dhenur dhayate vā, dhinoti vā; dhayater asau vatsena iti; tarpayati asau payasā*" (Ni. 11-43 [?]): because milk is drawn by the calf, or because it satisfies with its milk — the cows are called *dhenu* either because milk is drawn from them by pressing, or because they cause satisfaction by giving milk.
+***dhenavaḥ*** — "*dhenur dhayate vā, dhinoti vā; dhayater asau vatsena iti; tarpayati asau payasā*" (Ni. 11-42): because milk is drawn by the calf, or because it satisfies with its milk — the cows are called *dhenu* either because milk is drawn from them by pressing, or because they cause satisfaction by giving milk.
 
 ### Printed p. 246  (PDF 266)
 
@@ -5983,13 +5983,13 @@ Sāyaṇa explains *dhenu* as "cows" and gives the meaning that the cows which y
 
 …the meaning differs from place to place, and must be fixed according to context. Here, having understood the meaning of the root form of the word *svar*, the import of *svarvat* is explained. Words such as *svardṛśaḥ*, *svarvid* are to be understood only in their own contexts.
 
-*Svaḥ*, *pṛśniḥ*, *nākaḥ* and the like — this word is read in the general lists of names. "*Sādhāraṇāny etāni ṣaḍ divaś cādityasya ca*" — "*svaḥ, pṛśniḥ, nākaḥ, gauḥ, viṣṭapam, nabhaḥ*": these six words are common terms both for the sky and for the sun, the Nirukta-writers say (Ni. 2-14 [?]). Then, as to the root of *svar* and how the word is derived, when it is used for the sun:
+*Svaḥ*, *pṛśniḥ*, *nākaḥ* and the like — this word is read in the general lists of names. "*Sādhāraṇāny etāni ṣaḍ divaś cādityasya ca*" — "*svaḥ, pṛśniḥ, nākaḥ, gauḥ, viṣṭapam, nabhaḥ*": these six words are common terms both for the sky and for the sun, the Nirukta-writers say (Ni. 2-13). Then, as to the root of *svar* and how the word is derived, when it is used for the sun:
 
 > स्वरादित्यो भवति सु अरणः, सु ईरणः, स्वतो रसान्, स्वतो भासं ज्योतिषाम् । स्वतो भासेति वा ।
 
 > *svarāditya bhavati su araṇaḥ, su īraṇaḥ, svato rasān, svato bhāsaṃ jyotiṣām | svato bhāseti vā |*
 
-(Ni. 2-14 [?]). Because he goes far, or because he draws up (the waters) completely and destroys (darkness), or because he enters into the juices and is within them, or because he spreads his own light in the circle of fire so as to be one with it, or because he is all-pervading in the form of splendour — the sun has this name; and for this reason the sky also, by "*yaten dyauvyākhyātā*" [?], has this name, the Nirukta-writers say.
+(Ni. 2-13). Because he goes far, or because he draws up (the waters) completely and destroys (darkness), or because he enters into the juices and is within them, or because he spreads his own light in the circle of fire so as to be one with it, or because he is all-pervading in the form of splendour — the sun has this name; and for this reason the sky also, by "*yaten dyauvyākhyātā*" [?], has this name, the Nirukta-writers say.
 
 > स्वरादित्यो भवति स एनानि सारयति ।
 
@@ -6001,7 +6001,7 @@ Sāyaṇa explains *dhenu* as "cows" and gives the meaning that the cows which y
 
 > *pratyaṅ devānāṃ viśaḥ pratyaṅṅ udeṣi mānuṣān | pratyaṅ viśvaṃ svardṛśe ‖*
 
-(Ṛ. Saṃ. 1-50-5 [?]) — in such ṛks it means the world of heaven; and
+(Ṛ. Saṃ. 1-50-5) — in such ṛks it means the world of heaven; and
 
 > त्मना वहन्तो दुरो व्यृण्वन्नन्ते विश्वे स्व ᳚ निर्दृशीके ।
 
@@ -6140,7 +6140,7 @@ The word *vṛṣan* is used in many places in the sense *pumān* ("male"), "one
 
 > *stutaś ca śravasyan nava sopa mudrigyaktvā harī vṛṣaṇā yohy arvāṅ |* [as read; doubtful: [?]]
 
-(Ṛ. Saṃ. 1-177-1 [?]) — here *vṛṣaṇā* means "youthful"; and
+(Ṛ. Saṃ. 1-177-1) — here *vṛṣaṇā* means "youthful"; and
 
 > भूषन्न योधि बभ्रूषु नम्नते वृषेव पत्नीरभ्येति रोरुवत् ।
 
@@ -6152,7 +6152,7 @@ The word *vṛṣan* is used in many places in the sense *pumān* ("male"), "one
 
 > *mināti śriyaṃ jarimā tanūnām apū nu patnīr vṛṣaṇo jagamyuḥ |* [as read: [?]]
 
-(Ṛ. Saṃ. 1-179-1 [?]) — in such ṛks *vṛṣaṇaḥ* means *sektāraḥ puruṣāḥ*, "men who sprinkle (seed)"; and in many other places, similarly, the word is used in meanings that indicate masculine gender and show the power of the male creature. And further —
+(Ṛ. Saṃ. 1-179-1) — in such ṛks *vṛṣaṇaḥ* means *sektāraḥ puruṣāḥ*, "men who sprinkle (seed)"; and in many other places, similarly, the word is used in meanings that indicate masculine gender and show the power of the male creature. And further —
 
 ---
 
@@ -6164,7 +6164,7 @@ The word *vṛṣan* is used in many places in the sense *pumān* ("male"), "one
 
 > *vṛṣā vāṃ megho vṛṣaṇā pīpāya gor na seke manuṣo daśasyan |*
 
-(Ṛ. Saṃ. 1-181-8 [?]);
+(Ṛ. Saṃ. 1-181-8);
 
 > दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीररुं शूर मर्त्यं परिवृणक्षि मर्त्यम् ।
 
@@ -6204,13 +6204,13 @@ In many such ṛks the word *vṛṣṇya* generally means strength and prowess.
 
 > *apoṣā anasaḥ saratsampiṣṭād aha bibhyuṣī | ni yat sīṃ śiśnathad vṛṣā |*
 
-(Ṛ. Saṃ. 4-30-10 [?]) — here it can be conjectured that it is a synonym of Indra. But in many places it causes doubt as to which deity is meant. Sometimes even Sāyaṇācārya himself, as in the present ṛk, shows doubt, and his explanation of this adjective is not so conclusive.
+(Ṛ. Saṃ. 4-30-10) — here it can be conjectured that it is a synonym of Indra. But in many places it causes doubt as to which deity is meant. Sometimes even Sāyaṇācārya himself, as in the present ṛk, shows doubt, and his explanation of this adjective is not so conclusive.
 
 > वृषा छन्दुर्भवति हर्यतो वृषा क्षेमेण धेनां मघवा यदिन्वति ।
 
 > *vṛṣā chandur bhavati haryato vṛṣā kṣemeṇa dhenāṃ maghavā yad invati |* [as read: [?]]
 
-(Ṛ. Saṃ. 1-55-4 [?])
+(Ṛ. Saṃ. 1-55-4)
 
 ### Printed p. 254  (PDF 274)
 
@@ -6224,7 +6224,7 @@ In the ṛk at hand the word may be taken to denote either the priests of the ob
 
 ***aśnaḥ mṛgo na atijuguryāt — vyāpakaḥ pānādyarthaṃ dhāvan hariṇādir iva ayam indraḥ aśanaśīlaś ca atyarthaṃ udyuṅkte havirbhakṣaṇāya*** — "*aśnaḥ*" is the word among the names read in the Nirukta (Ni. 2-... [?]). Here *vyāpakaḥ* ("pervading") is said to refer to the deer, and *aśanaśīlaḥ* ("given to eating") to Indra; the word *na* is used with two kinds of connection; so *mṛga iva indraḥ*: Indra, like a deer hastening for drink and the like (to drink water), swiftly comes and is ready to accept our oblations — thus one kind of meaning is given, with the comparison to a deer.
 
-***mṛgaḥ*** — "*mṛgo mārṣṭer gatikarmaṇaḥ*" (Ni. 1-20 [?]): from the root *mṛj*, which means going, the word is formed; "*nityaṃ hy asau gacchati*": it gives the sense that it is always moving; or "*anveṣaṇaśīlo vā*" — one who is always seeking his food; this is the sense.
+***mṛgaḥ*** — "*mṛgo mārṣṭer gatikarmaṇaḥ*" (Ni. 1-20): from the root *mṛj*, which means going, the word is formed; "*nityaṃ hy asau gacchati*": it gives the sense that it is always moving; or "*anveṣaṇaśīlo vā*" — one who is always seeking his food; this is the sense.
 
 ***yathā kṣutpipāsāditaḥ mṛgaḥ śīghram udyuṅkte tathāyam indro 'pi*** — just as a deer, suffering the pains of hunger and thirst, runs swiftly for its food and drink, so Indra comes swiftly to accept the oblations: this is how the second meaning is explained.
 
@@ -6248,7 +6248,7 @@ In the ṛk at hand the word may be taken to denote either the priests of the ob
 
 > *pra stoṣad upa gāsiṣac chravat sāma gīyamānaṃ | abhi rādhasā jugurat |* [as read: [?]]
 
-(Ṛ. Saṃ. 8-81-5 [?]). In such ṛks *abhigṛṇāti* means "accepts"; thus, in the activity of worship and in the activity of accepting, this word is used to show a special kind of respect; in the present ṛk also it is used in the sense of respectful acceptance.
+(Ṛ. Saṃ. 8-81-5). In such ṛks *abhigṛṇāti* means "accepts"; thus, in the activity of worship and in the activity of accepting, this word is used to show a special kind of respect; in the present ṛk also it is used in the sense of respectful acceptance.
 
 ***manāṃ mandayuḥ maryaḥ hotā yajatraḥ*** — O Indra, the mortal priest called *hotṛ*, who sings the praise of the gods who wish to hear praise, being the one who accomplishes the sacrifice, [this is one sense of the sentence]; and this *hotṛ* also brings together the *yājyā* and *puronuvākyā* mantras: so one meaning is stated. In the second meaning this *hotṛ* priest, acting in the manner of husband and wife (*patipatnī*-form) and performing the sacrifice again and again, worships Indra: thus the sacrificer worships Indra — this is the meaning given.
 
@@ -6264,7 +6264,7 @@ In the ṛk at hand the word may be taken to denote either the priests of the ob
 
 > *taṃ gūrtayo nemanniṣaḥ parīṇasaḥ samudraṃ na saṃcaraṇe saniṣyavaḥ | patiṃ dakṣasya vidathasya nū saho giriṃ na venā adhi roha tejasā ‖*
 
-(Ṛ. Saṃ. 1-56-2 [?]).
+(Ṛ. Saṃ. 1-56-2).
 
 ### Printed p. 256  (PDF 276)
 
@@ -6282,7 +6282,7 @@ In such places *gūrta* also means "praisers" (*stotāraḥ*). In the present �
 - ***mandayuḥ*** — "he wishes himself (*ātmanaḥ*) to be *mandana*": *supa ātmanaḥ kyac* (Pā. Sū. 3-1-8 [?]) gives *kyac*; "*kyāc chandasi*" (Pā. Sū. 3-2-170 [?]) gives the suffix *u*; "*ato lopaḥ*" (Pā. Sū. 6-4-48 [?]) drops the *a* of *kyac*; the suffix accent remains.
 - ***manām*** — root *mana jñāne*; suffix *kvip* in the agent sense; genitive plural form; by "*sānvekāc chṛtīyādiḥ*" (Pā. Sū. 6-1-168 [?]) the case-ending is *udātta*.
 - ***bharate*** — root *bhṛñ bharaṇe*; *laṭ*, third person singular; being in the *pādādi* position, no *nighāta*; the *sārvadhātuka* *la*, *śap* being *anudātta*, the root accent remains.
-- ***maryaḥ*** — root *mṛṅ prāṇatyāge*, used in the causal-implicit sense (*antarbhāvitaṇyartha*); "*chandasi niṣṭarkya-*" (Pā. Sū. 3-1-123 [?]) makes the suffix *yat* by *nipātana*; by "*bahulagrahaṇa*" it appears in the agent sense; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the first syllable is *udātta*.
+- ***maryaḥ*** — root *mṛṅ prāṇatyāge*, used in the causal-implicit sense (*antarbhāvitaṇyartha*); "*chandasi niṣṭarkya-*" (Pā. Sū. 3-1-123) makes the suffix *yat* by *nipātana*; by "*bahulagrahaṇa*" it appears in the agent sense; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213) the first syllable is *udātta*.
 - ***mithunā*** — root *mitha* (*saurā*); suffix *unan* by "*kṣudhipiśi*—" (Uṇ. Sū. 3-... [?]), which is *kit*; therefore the light-vowel guṇa does not occur; in the neuter, "*śeś chandasi bahulam*" gives loss of *śi*.
 - ***yajatraḥ*** — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; suffix *atran* by "*amīnakṣi yajivadhi*—" (Uṇ. Sū. 3-... [?]); being *nit*, the first syllable is *udātta*. ‖ 2 ‖
 
@@ -6433,7 +6433,7 @@ In these sentences the identity of Agni and the year is first stated, and then t
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
 
-- ***yan*** — root *iṇ gatau*; *laṭ* with *śatṛ*; *iṇo yaṇ* (Pā. Sū. 6-4-81 [?]) gives *yaṇ*; the suffix accent is *udātta* on the first syllable.
+- ***yan*** — root *iṇ gatau*; *laṭ* with *śatṛ*; *iṇo yaṇ* (Pā. Sū. 6-4-81) gives *yaṇ*; the suffix accent is *udātta* on the first syllable.
 - ***bharat*** — root *hṛñ haraṇe* [as printed]; Vedic *laṅ* in the present sense; third person singular; no augment; by "*hṛgrahor bhaś chandasi*" the *ha* becomes *bha*; in *pādādi* position, no *nighāta*; *śap* being *pit*, the root accent remains.
 - ***krandat*** — root *kradi āhvāne rodane ca*; *laṭ* with *śatṛ*; by "*idito num dhātoḥ*" the root takes *num*; or, as before, Vedic *laṅ*; the root accent remains.
 - ***nayamānaḥ*** — root *ṇīñ prāpaṇe*; *laṭ* with *śānac*; *śap* as the *vikaraṇa*; guṇa of the root; *āna* replaced by *mu* [?]; by "*āne muk*" (Pā. Sū. 7-2-82 [?]) the augment *muk*; since the *sārvadhātuka* *la* is *anudātta*, by the rule "*tāsy anudāttet*" the root accent remains.
@@ -6517,9 +6517,9 @@ The Nirukta-writers read *cyautna* among the names of strength: *ojaḥ*, *pāja
 
 > *sa yo na muhe na ethū jano bhūtsnam antu nāmā cumuriṃ dhuniṃ ca | vṛṇak pipruṃ śambaraṃ śuṣṇam indraḥ purāṃ cyautnāya śayathāya nū cit ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 6-18-8 [?]) — in such ṛks it means "that which is the means of destruction, being endowed with strength"; the meaning is to be taken according to the respective contexts. This word is formed from the root *cyu* ("to fall, to shake": one who causes to fall or to tremble).
+(Ṛ. Saṃ. 6-18-8) — in such ṛks it means "that which is the means of destruction, being endowed with strength"; the meaning is to be taken according to the respective contexts. This word is formed from the root *cyu* ("to fall, to shake": one who causes to fall or to tremble).
 
-***dasmavarcāḥ — darśanīyatejāḥ śatrūpakṣayaṇabalo vā*** — the word *varcas* is read among the names of food (Ni. 3-9 [?]). Sāyaṇa explains that it is used in the sense of "radiance" or "strength"; the meaning given is that Indra is of lustre worthy of being seen from all sides and has strength that destroys enemies.
+***dasmavarcāḥ — darśanīyatejāḥ śatrūpakṣayaṇabalo vā*** — the word *varcas* is read among the names of food (Ni. 3-9). Sāyaṇa explains that it is used in the sense of "radiance" or "strength"; the meaning given is that Indra is of lustre worthy of being seen from all sides and has strength that destroys enemies.
 
 The word *dasma* has two kinds of meaning: one "destroyer of enemies", the other "of beautiful form". If it is formed from the root *dasi darśanadaṃśanayoḥ* ("to see, to bite"), then it means *darśanīyaḥ* "beautiful (to behold)"; if from the root *dasu upakṣaye* ("to waste, to destroy"), it means "destroyer of enemies" — [continues on p. 265].
 
@@ -6569,12 +6569,12 @@ from the form of heaven and earth, and so are able to go comfortably, and to mov
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
-- ***tā*** — from the form *tāni*; by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70 [?]) *śi* is dropped.
-- ***karma*** — root *ḍukṛñ karaṇe*; Vedic *luṅ* in the present sense (*chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 [?]); first person plural, *masa* suffix; *nityaṃ ṅitaḥ* gives loss of *s*; *mantre ghasa-hvara*… (Pā. Sū. 2-4-80 [?]) gives *luk* for *cli*; by "*chandasy ubhayathā*" (Pā. Sū. 3-4-117 [?]) the suffix is classed as *ārdhadhātuka*, and therefore the *ñit* guṇa; by "*sārvadhātukārdhadhātukayoḥ*" the root takes guṇa for the *ik*; *raparatva*; since it follows a *tiṅanta*, *nighāta* accent.
+- ***tā*** — from the form *tāni*; by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-70) *śi* is dropped.
+- ***karma*** — root *ḍukṛñ karaṇe*; Vedic *luṅ* in the present sense (*chandasi luṅlaṅliṭaḥ*, Pā. Sū. 3-4-6 [?]); first person plural, *masa* suffix; *nityaṃ ṅitaḥ* gives loss of *s*; *mantre ghasa-hvara*… (Pā. Sū. 2-4-80) gives *luk* for *cli*; by "*chandasy ubhayathā*" (Pā. Sū. 3-4-117 [?]) the suffix is classed as *ārdhadhātuka*, and therefore the *ñit* guṇa; by "*sārvadhātukārdhadhātukayoḥ*" the root takes guṇa for the *ik*; *raparatva*; since it follows a *tiṅanta*, *nighāta* accent.
 - ***cyautnāni*** — root *cyuṅ cyutau*; suffix *tnaṇ* by "*janidācyuvaḥ*…" (Uṇ. Sū. 4-… [?]); being *ṇit*, by "*aco ñṇiti*" the *u* is lengthened (vṛddhi); the final syllable is *udātta* by suffix accent.
 - ***devayantaḥ*** — "they wish for the gods for themselves": by "*supa ātmanaḥ kyac*" (Pā. Sū. 3-1-8 [?]) *kyac*; the *laṭ* comes after it and is replaced by *śatṛ*; third person plural.
 - ***bharante*** — root *bhṛñ bharaṇe*; *laṭ*, third person plural; *nighāta* for a *tiṅ*.
-- ***jujoṣat*** — root *juṣī prītisevanayoḥ*; in *loṭ* the *vyatyaya* gives *śap*; Vedically the root is reduplicated; or "*bahulaṃ chandasi*" replaces *śap* by *śluḥ*; thereafter by *vyatyaya* *śap*; by the statement "*bahulaṃ chandasīti vaktavyam*", "*nābhyastasyācīṇiti sārvadhātuke*" (Pā. Sū. 7-3-87 [?]) — the guṇa required by it does not occur here; being in *pādādi* position, no *nighāta*; "*abhyastānām ādiḥ*" (Pā. Sū. 6-1-189 [?]) makes the first syllable *udātta*.
+- ***jujoṣat*** — root *juṣī prītisevanayoḥ*; in *loṭ* the *vyatyaya* gives *śap*; Vedically the root is reduplicated; or "*bahulaṃ chandasi*" replaces *śap* by *śluḥ*; thereafter by *vyatyaya* *śap*; by the statement "*bahulaṃ chandasīti vaktavyam*", "*nābhyastasyācīṇiti sārvadhātuke*" (Pā. Sū. 7-3-87) — the guṇa required by it does not occur here; being in *pādādi* position, no *nighāta*; "*abhyastānām ādiḥ*" (Pā. Sū. 6-1-189 [?]) makes the first syllable *udātta*.
 - ***dasmavarcāḥ*** — *dasma varcaḥ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the fore-member keeps its accent.
 - ***sugmyaḥ*** — *sumu gantavyaḥ sugmyaḥ*; root *gamḷ gatau*; the suffix *ka* by the statement "*ghañarthe ka vidhānam*"; being *kit*, "*gamahanajana*…" (Pā. Sū. 6-4-98 [?]) drops the penultimate…
 
