@@ -8924,9 +8924,9 @@ Indra, lord of steeds, invigorated by our animating praise, you have slain those
 
 > *dakṣasya vādite janmani vrate rājānā mitrāvaruṇā vivāsasi | atūrtapanthāḥ pururatho aryamā saptahotā viṣurūpeṣu janmasu ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-64-5 [?]) — quoting this ṛk, he explains: "*aryamā ādityo arīn niyacchati*" — "Aryaman is the Āditya who restrains enemies" — that the Āditya is to be understood by the word *aryaman*. Durgācārya has given the meaning "he who destroys the darkness that lies like enemies, restraining the darkness" (*arīṇāṃ tamasāṃ niyantā*).
+(Ṛ. Saṃ. 10-64-5) — quoting this ṛk, he explains: "*aryamā ādityo arīn niyacchati*" — "Aryaman is the Āditya who restrains enemies" — that the Āditya is to be understood by the word *aryaman*. Durgācārya has given the meaning "he who destroys the darkness that lies like enemies, restraining the darkness" (*arīṇāṃ tamasāṃ niyantā*).
 
-***āyoḥ — manuṣyasyādhvaryvādeḥ haviḥlakṣaṇānnasya vā*** — the word *āyuḥ* is read among the names of food (Ni. 3-9 [?]). Sāyaṇa gives two meanings for this word: "the priests, the Adhvaryu and the others", or "food in the form of an oblation".
+***āyoḥ — manuṣyasyādhvaryvādeḥ haviḥlakṣaṇānnasya vā*** — the word *āyuḥ* is read among the names of food (Ni. 3-9). Sāyaṇa gives two meanings for this word: "the priests, the Adhvaryu and the others", or "food in the form of an oblation".
 
 For the word *āyoḥ* the meaning is given as a synonym of *śatru* ("enemy") in some places, and in other places as a synonym of *mitra* ("friend"). That this word is given as the explanation for the above is learned from Sāyaṇa's explanation. The Bhāṣya-writer shows his own doubt, saying whether *āyu* refers to the people of the race of Manu, the *adhvaryu* and others, or to food in the form of an oblation. The word *āyuḥ* is a "marked" name (*aṅkita*), and a name that suggests a progeny (*santati*).
 
