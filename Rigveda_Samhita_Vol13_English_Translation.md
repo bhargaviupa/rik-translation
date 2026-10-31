@@ -9543,23 +9543,23 @@ Thus the order of origin of the *svarasāma* days, which are the chief part and 
 
 > *saṃvatsarāc caturviṃśam ahaḥ | brahmaṇo 'bhiplavaṃ kṣatrāt pṛṣṭhyam agner abhijitam adbhyaḥ svarasāmna ādityād viṣuvantam uktāḥ svarasāmānaḥ ‖* [as read: [?]]
 
-(Śa. Brā. 12-1-2-2 [?]). From the year the *caturviṃśa* day; from Brahman the *abhiplava*; from the Kṣatra the *pṛṣṭhya*; from Agni the *abhijit*; from the waters the *svarasāman*; from the Āditya the *viṣuvat* arose: thus the *svarasāman* days are described. This tells the order of the *svarasāma* days. The matter that they are connected with the waters and the Āditya is stated above. The Śatapatha Brāhmaṇa also describes it thus:
+(Śa. Brā. 12-1-2-2). From the year the *caturviṃśa* day; from Brahman the *abhiplava*; from the Kṣatra the *pṛṣṭhya*; from Agni the *abhijit*; from the waters the *svarasāman*; from the Āditya the *viṣuvat* arose: thus the *svarasāman* days are described. This tells the order of the *svarasāma* days. The matter that they are connected with the waters and the Āditya is stated above. The Śatapatha Brāhmaṇa also describes it thus:
 
 > अथ यत्स्वरसाम्न उपयन्ति । आप एव देवतां यजन्त आपो देवता भवन्तेपाग्ं सायुज्यग्ं सलोकतां जयति । अथ यद्विषुवन्तमुपयन्ति । आदित्यमेव देवतां यजन्त आदित्यो देवता भवन्त्यादित्यस्य सायुज्यग्ं सलोकतां जयत्युक्ताः स्वरसामानः ॥
 
 > *atha yat svarasāmna upayanti | āpa eva devatāṃ yajante āpo devatā bhavanty apāṃ sāyujyaṃ salokatāṃ jayati | atha yad viṣuvantam upayanti | ādityam eva devatāṃ yajanta ādityo devatā bhavanty ādityasya sāyujyaṃ salokatāṃ jayaty uktāḥ svarasāmānaḥ ‖* [as read: [?]]
 
-(Śa. Brā. 12-1-2-13 [?]). Those who perform the acts on the *svarasāma* days worship the waters, the deity and cause of the *svarasāman*; as a result of that worship they obtain union with the waters. Likewise, those who perform worship on the *viṣuvat* day obtain union with the Āditya. This is the speciality of the *svarasāmans*. And, showing the identity of man and the year, the period of the *gavām ayana*:
+(Śa. Brā. 12-1-2-13). Those who perform the acts on the *svarasāma* days worship the waters, the deity and cause of the *svarasāman*; as a result of that worship they obtain union with the waters. Likewise, those who perform worship on the *viṣuvat* day obtain union with the Āditya. This is the speciality of the *svarasāmans*. And, showing the identity of man and the year, the period of the *gavām ayana*:
 
-> पुरुषो वै संवत्सरः । तस्य पादादेव प्रायणीयोऽतिरात्रः पादाभ्यां हि प्रयन्ति …………… ॥ १ ॥
+> पुरुषो वै संवत्सरः । तस्य पादादेव प्रायणीयोऽतिरात्रः पादाभ्याग्ं हि प्रयन्ति …………… ॥ १ ॥
 
-> *puruṣo vai saṃvatsaraḥ | tasya pādād eva prāyaṇīyo 'tirātraḥ pādābhyāṃ hi prayanti …………… ‖ 1 ‖* [dots in the print: [?]]
+> *puruṣo vai saṃvatsaraḥ | tasya pādād eva prāyaṇīyo 'tirātraḥ pādābhyāgṃ hi prayanti …………… ‖ 1 ‖* [dots in the print: [?]]
 
 > अयमेव दक्षिणो बाहुरभिजित् । इमे एव दक्षिणे त्रयः प्राणाः स्वरसामानो मूर्धा विषुवानिमे एवोत्तरे त्रयः प्राणाः स्वरसामानः ॥ २ ॥
 
 > *ayam eva dakṣiṇo bāhur abhijit | ime eva dakṣiṇe trayaḥ prāṇāḥ svarasāmāno mūrdhā viṣuvān ime evottare trayaḥ prāṇāḥ svarasāmānaḥ ‖ 2 ‖*
 
-(Śa. Brā. 12-1-4-2 [?]). The year is the man; the *prāyaṇīya* *atirātra*, the day of the beginning of the *gavām ayana*, is his foot; the foot serving for movement, so this *atirātra* serves for the movement of sacrificial action ……………; the *abhijit* day is his right arm; the three *svarasāmans* belonging to it are the three chief breaths on the right side; the *viṣuvat* day is the head; the *svarasāmans* belonging to it are the three chief breaths on the left, etc. Thus the author praises it; and, considering the peculiarity of the *svarasāmans* sung in the *svarasāma* days and the order of singing, the English scholar Eggling says as follows —
+(Śa. Brā. 12-1-4-2). The year is the man; the *prāyaṇīya* *atirātra*, the day of the beginning of the *gavām ayana*, is his foot; the foot serving for movement, so this *atirātra* serves for the movement of sacrificial action ……………; the *abhijit* day is his right arm; the three *svarasāmans* belonging to it are the three chief breaths on the right side; the *viṣuvat* day is the head; the *svarasāmans* belonging to it are the three chief breaths on the left, etc. Thus the author praises it; and, considering the peculiarity of the *svarasāmans* sung in the *svarasāma* days and the order of singing, the English scholar Eggling says as follows —
 
 ---
 
