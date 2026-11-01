@@ -267,7 +267,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 ***ghṛṣvayaḥ*** — *rakṣaḥprabhṛtīnāṃ gharṣakāḥ*: "crushers of the rākṣasas and others"; that is, those who remove the troubles those cause to the sacrifice; those who cause harm to rākṣasas and the like is the purport.
 
-***rudrāḥ*** — *rudraputrāḥ | maruto 'pi rudrā ucyante janyajanakayor abhedāt*: *rudrāḥ* here means the sons of Rudra. Since, by usage, sons are called by the father's name, and since in worldly practice no difference is seen between begotten and begetter, the Marut-gods, the sons of Rudra, are described here by the word *rudra* itself. How the Maruts are sons of Rudra: Sāyaṇa narrates an old story (*pūrvetihāsa*) in the bhāṣya of Ṛ. Saṃ. 1-114-6 [?].
+***rudrāḥ*** — *rudraputrāḥ | maruto 'pi rudrā ucyante janyajanakayor abhedāt*: *rudrāḥ* here means the sons of Rudra. Since, by usage, sons are called by the father's name, and since in worldly practice no difference is seen between begotten and begetter, the Marut-gods, the sons of Rudra, are described here by the word *rudra* itself. How the Maruts are sons of Rudra: Sāyaṇa narrates an old story (*pūrvetihāsa*) in the bhāṣya of Ṛ. Saṃ. 1-114-6.
 
 ### Printed p. 14  (PDF 34)
 
