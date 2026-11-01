@@ -977,7 +977,7 @@ In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has 
 
 > *svastiriddhi prapathe śreṣṭhā rekṇasvatyabhi yā vāmameti |*
 
-(Ṛ. Saṃ. 10-63-15 [?]) — in ṛks like these, the word *prapathe* is said to mean "*prakṛṣṭe mārge*", "in an excellent road". Therefore, for the words *prapatheṣu khādayaḥ* in this ṛk, the meaning "when the Maruts journey along excellent roads they wear the special weapons called *khādi*" fits well.
+(Ṛ. Saṃ. 10-63-16) — in ṛks like these, the word *prapathe* is said to mean "*prakṛṣṭe mārge*", "in an excellent road". Therefore, for the words *prapatheṣu khādayaḥ* in this ṛk, the meaning "when the Maruts journey along excellent roads they wear the special weapons called *khādi*" fits well.
 
 ***akṣo vaścakrā samayā vi vāvṛte*** — the Bhāṣyakāra: "*akṣo vo yuṣmatsaṃbandhī rathyo 'kṣaś cakrā tetropanibaddhāni cakrāṇi samayā samīpe teṣāṃ parisare vi vavṛte viśeṣeṇa vartate na kadācidapi cakreṣu saṃlagno bhavatīty arthaḥ*" [as read, doubtful]. O Maruts, the axle of your chariot makes the wheels at its two sides turn round simultaneously. They are firmly fastened; there is no falling off from the axle. The same sense is said in
 
@@ -1057,7 +1057,7 @@ In the matter of the meaning of the word *prapatha* too, the Bhāṣyakāra has 
 
 > *pṛthuṃ tiraścā vayasā bṛhantaṃ vyaciṣṭhamannai rabhasaṃ dṛśānam | [?]*
 
-(Ṛ. Saṃ. 3-10-4 [?]) — here the word *rabhasam* is used as an epithet of Agni.
+(Ṛ. Saṃ. 2-10-4) — here the word *rabhasam* is used as an epithet of Agni.
 
 > विष्कभ्नन्तः स्कम्भनेना जनित्री आसीना ऊर्ध्वं रभसं वि मिन्वन् ।
 
@@ -1179,7 +1179,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *mahāmanūnaṃ tavasaṃ vibhūtiṃ matsarāso jarhṛṣanta prasāham |*
 
-(Ṛ. Saṃ. 6-18-4 [?]) — here, "the sweet Soma juices gladdened Indra, who is great-souled, complete, strong, capable and unconquerable": the word *vibhūti* is used as an epithet of Indra.
+(Ṛ. Saṃ. 6-17-4) — here, "the sweet Soma juices gladdened Indra, who is great-souled, complete, strong, capable and unconquerable": the word *vibhūti* is used as an epithet of Indra.
 
 > उग्रं न वीरं नमसोप सेदिमा विभूतिमक्षितावसुम् ।
 
@@ -1199,7 +1199,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 3".)* **Special Topics (continued).**
 
-***stṛbhiḥ*** — *stṛ iti nakṣatranāma | ṛkṣāḥ stṛbhiriti nakṣatrāṇām* (Ni. 3-20 [?]): Yāska says that *stṛbhiḥ* means "stars". Therefore the sentence *dūredṛśo ye divyā iva stṛbhiḥ* means: like the stars shining in the sky, visible from regions very far away; though the stars in the sky are exceedingly far, they appear to us; in the same way the Maruts, though very far off, are visible to us: this is the purport.
+***stṛbhiḥ*** — *stṛ iti nakṣatranāma | ṛkṣāḥ stṛbhiriti nakṣatrāṇām* (Ni. 3-20): Yāska says that *stṛbhiḥ* means "stars". Therefore the sentence *dūredṛśo ye divyā iva stṛbhiḥ* means: like the stars shining in the sky, visible from regions very far away; though the stars in the sky are exceedingly far, they appear to us; in the same way the Maruts, though very far off, are visible to us: this is the purport.
 
 ***saṃmiślāḥ indre marutaḥ*** — "those who are mixed in Indra", that is, who are in Indra's company, helpers of Indra: this is the purport. That the Marut-gods are Indra's friends is described in ṛks such as:
 
@@ -1257,7 +1257,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 **Special Topics (Viśeṣaviṣayagaḷu).**
 
-***vrataṃ*** — the word *vrata* is stated among the names of action (*karmanāma*) (Ni. 2-1 [?]). Yāska, explaining the meaning of this word in detail, says:
+***vrataṃ*** — the word *vrata* is stated among the names of action (*karmanāma*) (Ni. 3-1). Yāska, explaining the meaning of this word in detail, says:
 
 > व्रतमिति कर्मनाम वृणोतीति सतः । इदमपीतरद्व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः । अन्नमपि व्रतमुच्यते यदावृणोति शरीरम् ।
 
@@ -1281,7 +1281,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *tāsāṃ ni cikyuḥ kavayo nivānaṃ pareṣu yā guhyeṣu vrateṣu |*
 
-(Ṛ. Saṃ. 10-109-3 [?]) — the poets (*nirṛti*s?) [as read] discovered what had been enclosed in caves, where no one sees it: here *vrateṣu* with the sense "that which is enclosed" is used as an epithet of the word *guhyeṣu*.
+(Ṛ. Saṃ. 10-100-3) — the poets (*nirṛti*s?) [as read] discovered what had been enclosed in caves, where no one sees it: here *vrateṣu* with the sense "that which is enclosed" is used as an epithet of the word *guhyeṣu*.
 
 > दद्दृश्र एषामवमा सदांसि परेषु या गुह्येषु व्रतेषु ।
 
@@ -1314,7 +1314,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *ya u śriyo dameṣvā doṣoṣasi praśasyate | yasya vrataṃ na mīyate ‖*
 
-(Ṛ. Saṃ. 2-8-3 [?]) — "he (Agni) whose rule is not transgressed…" [the print has an ellipsis here].
+(Ṛ. Saṃ. 2-2-5) — "he (Agni) whose rule is not transgressed…" [the print has an ellipsis here].
 
 > इन्द्रस्य कर्म सुकृता पुरूणि व्रतानि देवा न मिनन्ति विश्वे ।
 
@@ -1326,7 +1326,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *viśvaṃ satyaṃ maghavānā yuvoridāpaścana pra minanti vrataṃ vām |*
 
-(Ṛ. Saṃ. 7-84-2 [?]) — "O mighty gods, all that is yours is true; even the waters do not violate your rules."
+(Ṛ. Saṃ. 7-35-2) — "O mighty gods, all that is yours is true; even the waters do not violate your rules."
 
 > वनानि विभ्यो नकिरस्य तानि व्रता देवस्य सवितुर्मिनन्ति ।
 
@@ -1360,7 +1360,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 ### Printed p. 60  (PDF 80)
 
-*(Header: "Maṃ. 1 A. 23 Sū. 166".)* …"we shall follow his rules (observe them)". In ṛks like these, and in Ṛ. Saṃ. 10-37-8 [?]; 2-5-4 [?]; 2-28-6 [?]; 3-38-6 [?] and others, the word *vrata* suggests the meaning "rules, ordinances"; and the word *anuvrata*, found in the ṛks Ṛ. Saṃ. 2-28-8; 3-38-6 [?]; 8-40-8 [?]; 1-136-5 [?]; 3-61-1 [?]; 4-13-2 [?]; 5-69-1 [?] and others, suggests the meaning "in accordance with the rules".
+*(Header: "Maṃ. 1 A. 23 Sū. 166".)* …"we shall follow his rules (observe them)". In ṛks like these, and in Ṛ. Saṃ. 10-33-9; 2-5-4 [?]; 2-28-6 [?]; 3-38-6 [?] and others, the word *vrata* suggests the meaning "rules, ordinances"; and the word *anuvrata*, found in the ṛks Ṛ. Saṃ. 2-28-8; 3-38-6 [?]; 8-40-8 [?]; 1-136-5 [?]; 3-61-1 [?]; 4-13-2 [?]; 5-69-1 [?] and others, suggests the meaning "in accordance with the rules".
 
 (3) In some contexts the rules of the gods are explained as *yajña*, or as the acts of sacrifice, and the word *vrata* has been used for them; for by performing sacrifices and the like, the wish of the gods or their rules are, so to say, observed; thus it is said:
 
