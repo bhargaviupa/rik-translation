@@ -3182,5 +3182,53 @@
   "old": "Ni. 3-16 [?]; Ṛ. Saṃ. 5-32-2 [?]",
   "new": "Ni. 3-16; Ṛ. Saṃ. 5-32-6",
   "note": "User's list for pp.267-279: these two values appear under its page 272 (list page numbering one off here); Ni. 3-16 confirmed, 5-32-2 -> 5-32-6; not viewed by me."
+ },
+ {
+  "pdf": 490,
+  "printed": 470,
+  "status": "resolved",
+  "old": "3-9 [?]",
+  "new": "3-9",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 491,
+  "printed": 471,
+  "status": "resolved",
+  "old": "4-25 [?]; 4-25 [?]; 10-85-39 [?]; 2-3-5 [?]; 6-1-163 [?]; 6-4-92 [?]; 7-3-80 [?]",
+  "new": "4-25; 4-25; 10-85-39; 2-3-5; 6-1-163; 6-4-92; 7-3-80",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: confirmed, confirmed, confirmed, confirmed, confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 494,
+  "printed": 474,
+  "status": "resolved",
+  "old": "3-9 [?]; 4-19 [?]",
+  "new": "3-9; 4-19",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 496,
+  "printed": 476,
+  "status": "resolved",
+  "old": "4-2-7 [?]",
+  "new": "4-2-2",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: 4-2-7->4-2-2; not viewed by me."
+ },
+ {
+  "pdf": 497,
+  "printed": 477,
+  "status": "resolved",
+  "old": "5-68-4 [?]",
+  "new": "5-68-4",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 500,
+  "printed": 480,
+  "status": "resolved",
+  "old": "9-23 [?]; 6-1-186 [?]",
+  "new": "9-23; 6-1-186",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: confirmed, confirmed; not viewed by me."
  }
 ]

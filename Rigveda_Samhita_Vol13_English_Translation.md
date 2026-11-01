@@ -12877,7 +12877,7 @@ In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā an
 
 (Bṛ. De. 4-57 to 59 [?]) — after the ritual bath following her season (*ṛtusnāna*), Agastya, wishing union with his wife Lopāmudrā, began a conversation with her. She too, by the two ṛks "*pūrvīraham śaradaḥ*" (Ṛ. Saṃ. 1-179-1) and "*ye cid dhi pūrve*" (1-179-2), made known her purpose. Then Agastya, by the two ṛks "*na mṛṣā śrāntam*" (1-179-3) and "*nadasya mā rudhataḥ*" (1-179-4), made known his own wish to her and satisfied her. In this context Agastya's disciple, who by the power of his austerity (*tapas*) had understood all of what lay in the minds of the pair desiring union, and had heard this conversation — thinking that it was a sin — himself recited the two ṛks "*imaṃ nu somam*" (1-179-5) and "*agastyaḥ khanamānaḥ*" (1-179-6): so it is explained in the Bṛhaddevatā.
 
-***doṣāḥ; vastoḥ*** — of these two words, *doṣāḥ* is read among the names of night (Ni. 3-9 [?]) and *vastoḥ* among the names of day. And explaining the meanings of the two words, the Nirukta-writers, in the Ṛk-saṃhitā's
+***doṣāḥ; vastoḥ*** — of these two words, *doṣāḥ* is read among the names of night (Ni. 3-9) and *vastoḥ* among the names of day. And explaining the meanings of the two words, the Nirukta-writers, in the Ṛk-saṃhitā's
 
 > कुह स्विद्दोषा कुह वस्तोरश्विना कुहाभिपित्वं करतः कुहोषतुः ।
 > को वां शयुत्रा विधवेव देवरं मर्यं न योषा कृणुते सधस्थ आ ॥
@@ -12895,23 +12895,23 @@ In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā an
 
 **Special Topics (continued)** — … citing this ṛk, he has explained *doṣā* as "night" and *vastoḥ* as "day".
 
-***śaradaḥ*** — "*śarac chṛtā asyām oṣadhayo bhavanti | śīrṇā āpa iti vā*" (Ni. 4-25 [?]) — "in this season the plants become ripe (*śṛta*); or the waters shrink" — whence the name "autumn". This word is not merely the name of a single season; in many places it is also used as a synonym of "year". For example, in the ṛk cited by the Nirukta-writers (Ni. 4-25 [?]):
+***śaradaḥ*** — "*śarac chṛtā asyām oṣadhayo bhavanti | śīrṇā āpa iti vā*" (Ni. 4-25) — "in this season the plants become ripe (*śṛta*); or the waters shrink" — whence the name "autumn". This word is not merely the name of a single season; in many places it is also used as a synonym of "year". For example, in the ṛk cited by the Nirukta-writers (Ni. 4-25):
 
 > दीर्घायुरस्या यः पतिर्जीवाति शरदः शतम् ।
 
 > *dīrghāyurasyā yaḥ patirjīvāti śaradaḥ śatam |*
 
-(Ṛ. Saṃ. 10-85-39 [?]) — here *śaradaḥ śatam* means "a hundred years".
+(Ṛ. Saṃ. 10-85-39) — here *śaradaḥ śatam* means "a hundred years".
 
 ***vṛṣaṇaḥ*** — the meanings contained in the words formed from *vṛṣan*, and the contexts of their use in the Ṛk-saṃhitā, have been explained earlier (Ṛ. Saṃ. 1-177-3 [?], printed "1-77-3"). In the present context it gives the sense "*puṃs*" — a male possessed of the capacity to sprinkle.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
-- ***pūrvīḥ*** — in these first four words, by "*kālādhvanor atyantasaṃyoge*" (Pā. Sū. 2-3-5 [?]) the accusative has come, since each is connected with the sense of continuous duration.
-- ***śaśramāṇā*** — root *śramu tapasi khede ca*; by "*vyatyayo bahulam*" *śānac* for *laṭ*; by "*bahulaṃ chandasi*" *ślu* as the *vikaraṇa*; taking that as the cause, reduplication of the root; by "*aṭkupvāṅnumvyavāye 'pi*" (Pā. Sū. 8-4-2 [?], as read) *ṇatva* for the *n* of the suffix; by "*citaḥ*" (Pā. Sū. 6-1-163 [?]) the final syllable is *udātta*.
+- ***pūrvīḥ*** — in these first four words, by "*kālādhvanor atyantasaṃyoge*" (Pā. Sū. 2-3-5) the accusative has come, since each is connected with the sense of continuous duration.
+- ***śaśramāṇā*** — root *śramu tapasi khede ca*; by "*vyatyayo bahulam*" *śānac* for *laṭ*; by "*bahulaṃ chandasi*" *ślu* as the *vikaraṇa*; taking that as the cause, reduplication of the root; by "*aṭkupvāṅnumvyavāye 'pi*" (Pā. Sū. 8-4-2 [?], as read) *ṇatva* for the *n* of the suffix; by "*citaḥ*" (Pā. Sū. 6-1-163) the final syllable is *udātta*.
 - ***vastoḥ*** — root *vasa nivāse*; the suffix *tosun* in the sense of the infinitive.
-- ***jarayantīḥ*** — root *jṛṣ vayohānau*; after *ṇic*, *śatṛ*; in the feminine, since it has the marker *u*, *ṅīp*; by "*janījṛṣkñasurañjo 'mantāś ca*" the name *mit* arises; by "*mitāṃ hrasvaḥ*" (Pā. Sū. 6-4-92 [?]) shortening of the penultimate vowel of the root; the *lasārvadhātuka* being *anudātta*, the *ṇic* accent remains.
-- ***mināti*** — root *mīñ hiṃsāyām*, *kryādi* class; *laṭ*, third person singular; by "*pvādīnāṃ hrasvaḥ*" (Pā. Sū. 7-3-80 [?]) shortening of the root; being in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
+- ***jarayantīḥ*** — root *jṛṣ vayohānau*; after *ṇic*, *śatṛ*; in the feminine, since it has the marker *u*, *ṅīp*; by "*janījṛṣkñasurañjo 'mantāś ca*" the name *mit* arises; by "*mitāṃ hrasvaḥ*" (Pā. Sū. 6-4-92) shortening of the penultimate vowel of the root; the *lasārvadhātuka* being *anudātta*, the *ṇic* accent remains.
+- ***mināti*** — root *mīñ hiṃsāyām*, *kryādi* class; *laṭ*, third person singular; by "*pvādīnāṃ hrasvaḥ*" (Pā. Sū. 7-3-80) shortening of the root; being in *pādādi* position, no *nighāta*; the *vikaraṇa* accent remains.
 
 ### Printed p. 472  (PDF 492)
 
@@ -12968,7 +12968,7 @@ In the ṛk at hand, as in the ṛk before it, Lopāmudrā prays to Agastya that
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 179"; page 474.)*
 
-***ṛtasāpaḥ, ṛtāni*** — the Nirukta-writers have included the word *ṛta* among the names of "water" (Ni. 3-9 [?]). Moreover, in many places the word *ṛta* is explained as "*satyaṃ vā yajño vā*" ("truth or sacrifice") (Ni. 4-19 [?]), and so on. Sāyaṇa too, wherever the word *ṛtasāpaḥ* is used, has explained it as *yajñasprśaḥ* ("touching the sacrifice") or *satyajñāḥ* ("knowers of truth"). In many places the word *ṛta* is one that describes the universal rule. Eggeling has said:
+***ṛtasāpaḥ, ṛtāni*** — the Nirukta-writers have included the word *ṛta* among the names of "water" (Ni. 3-9). Moreover, in many places the word *ṛta* is explained as "*satyaṃ vā yajño vā*" ("truth or sacrifice") (Ni. 4-19), and so on. Sāyaṇa too, wherever the word *ṛtasāpaḥ* is used, has explained it as *yajñasprśaḥ* ("touching the sacrifice") or *satyajñāḥ* ("knowers of truth"). In many places the word *ṛta* is one that describes the universal rule. Eggeling has said:
 
 > "Standing, as it does inter alia, for impersonal Order or Law, pervading the physical and moral world and sustaining alike the worlds of the gods and nature, the concept of the Rita may be said to have created a land-mark in the history of Vedic thought and culture"
 
@@ -13042,7 +13042,7 @@ As this passage also shows, *ṛta* is a word that reflects the principle of the
 > *sasasya yadviyutā sasminnūdhannṛtasya dhāmanraṇayanta devāḥ |*
 > *mahā agnirnamasā rātahavyo veradhvarāya sadamidṛtāvā ‖*
 
-(Ṛ. Saṃ. 4-2-7 [?]) — in this ṛk the meaning can be given in two ways. First: there are two words, *ṛtasya dhāman* and *ṛtāvā*. Here, for the first, *ṛtasya*, Sāyaṇa has given "water" (*udaka*), and for the second, *ṛtāvā*, he has shown *ṛta* as "truth" — "*satyavān*" — as the first meaning; second: *ṛtasya dhāman* means "the womb (*yoni*) of truth", i.e. the sacrifice, and *ṛtāvā* "possessed of truth". Or between the deities and men mutual … [the passage continues on the next page.]
+(Ṛ. Saṃ. 4-2-2) — in this ṛk the meaning can be given in two ways. First: there are two words, *ṛtasya dhāman* and *ṛtāvā*. Here, for the first, *ṛtasya*, Sāyaṇa has given "water" (*udaka*), and for the second, *ṛtāvā*, he has shown *ṛta* as "truth" — "*satyavān*" — as the first meaning; second: *ṛtasya dhāman* means "the womb (*yoni*) of truth", i.e. the sacrifice, and *ṛtāvā* "possessed of truth". Or between the deities and men mutual … [the passage continues on the next page.]
 
 ---
 
@@ -13056,7 +13056,7 @@ As this passage also shows, *ṛta* is a word that reflects the principle of the
 
 > *ṛtennṛtena [?] sapanteṣiraṃ [?] dakṣamāśāte | adruhā devau vardhete ‖*
 
-(Ṛ. Saṃ. 5-68-4 [?]) — here Mitra and Varuṇa are praised as "those who make *ṛta* grow by *ṛta*". This sentence describes the sacrifice of the nature of truth, and truth of the nature of the sacrifice; the idea is the same as in the sentence "*yajñena yajñam ayajanta devāḥ*". Since the sacrifice, whose nature is truth, protects the universal rule, it may be said that *ṛta* is a word reflecting both these principles. (The relation of *ṛta* to deities such as Mitra and Varuṇa, and which deities are "*ṛtāvṛdhaḥ*", will be explained later.)
+(Ṛ. Saṃ. 5-68-4) — here Mitra and Varuṇa are praised as "those who make *ṛta* grow by *ṛta*". This sentence describes the sacrifice of the nature of truth, and truth of the nature of the sacrifice; the idea is the same as in the sentence "*yajñena yajñam ayajanta devāḥ*". Since the sacrifice, whose nature is truth, protects the universal rule, it may be said that *ṛta* is a word reflecting both these principles. (The relation of *ṛta* to deities such as Mitra and Varuṇa, and which deities are "*ṛtāvṛdhaḥ*", will be explained later.)
 
 In the ṛk at hand, Lopāmudrā, wishing for union with her husband Agastya, shows that all the ṛṣis of old — the protectors of truth and of the sacrifice, who obtained relation with the deities through the sacrifice — obtained fulfilment of desire. Since a man's desire is natural to man, and if it is not satisfied there comes an unnatural way of life, she asks for her husband's union. The same, in the later ṛk, in the conversation of Yama and Yamī, Yamī, addressing her brother Yama, says that all the ṛṣis who acted in keeping with the rule of the seasons obtained satisfaction of desire:
 
@@ -13134,7 +13134,7 @@ In this ṛk Agastya gives his wife Lopāmudrā his answer and gives his consent
 
 The restraint of desire, being an extremely hard means, is here likened to battle.
 
-***ājim*** — "*ājayenasyājavanasyeti vā*" (Ni. 9-23 [?]) — "from the place for gaining victory, or from the place of swift movement": *āji* is the name of a battle. Explaining this word, the Nirukta-writers have cited the ṛk in the Ṛk-saṃhitā:
+***ājim*** — "*ājayenasyājavanasyeti vā*" (Ni. 9-23) — "from the place for gaining victory, or from the place of swift movement": *āji* is the name of a battle. Explaining this word, the Nirukta-writers have cited the ṛk in the Ṛk-saṃhitā:
 
 > न्यक्रन्दयन्नुपयन्त एनममेहयन्वृषभं मध्य आजेः ।
 > तेन सूभर्वं शतवत्सहस्रं गवां मुद्गलः प्रधने जिगाय ॥
@@ -13147,7 +13147,7 @@ The restraint of desire, being an extremely hard means, is here likened to battl
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
 - ***śrāntam*** — root *śramu tapasi khede ca*; the suffix *kta*; by the suffix accent the final syllable is *udātta*.
-- ***avanti*** — root *ava rakṣaṇe*; *laṭ*, third person plural; because of *yad*-connection no *nighāta* occurs; by "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) the *lasārvadhātuka* is *anudātta*, so the root accent remains.
+- ***avanti*** — root *ava rakṣaṇe*; *laṭ*, third person plural; because of *yad*-connection no *nighāta* occurs; by "*tāsyanudāttet…*" (Pā. Sū. 6-1-186) the *lasārvadhātuka* is *anudātta*, so the root accent remains.
 - ***aśnavāva*** — root *aśū vyāptau*, *svādi* class; by "*vyatyayo bahulam*" (Pā. Sū. 3-1-85 [?]) *parasmaipada*; *loṭ*, first person dual; *tiṅ*-final *nighāta* accent.
 - ***jayāva*** — root *ji jaye*; *loṭ*, first person dual; being in *pādādi* position, no *nighāta*; the *lasārvadhātuka* is *anudātta*, so the root accent remains.
 - ***śatanītham*** — root *nīñ prāpaṇe*; by "*panikuṣinīramikāśibhyaḥ kthan*" (Uṇ. Sū. 2-[?]) the suffix *kthan*; in a *bahuvrīhi* compound, by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent; accusative singular.
