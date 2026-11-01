@@ -3318,5 +3318,21 @@
   "old": "Tai. Saṃ. 6-5-5-3 [?]",
   "new": "Tai. Saṃ. 7-5-5-2",
   "note": "Changed to the value in the user's front-matter list (user: 7-5-5-2 is correct); not viewed by me."
+ },
+ {
+  "pdf": 30,
+  "printed": 10,
+  "status": "resolved",
+  "old": "1-31-6 [?]",
+  "new": "1-31-6",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (list for printed pp.2-20); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 35,
+  "printed": 15,
+  "status": "resolved",
+  "old": "3-2-11 [?]; 7-88-6 [?]; 1-71-1 [?]",
+  "new": "2-2-11; 7-88-6; 1-71-1",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (list for printed pp.2-20); changed: 3-2-11->2-2-11, confirmed, confirmed; not viewed by me."
  }
 ]

@@ -211,7 +211,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 (Ṛ. Saṃ. 5-59-2 [?]) has translated the word *vidathe* as "assembly" (the great sacrificial assembly) [in English in the source]; and, while giving its explanation, other German scholars have in the same way given the meaning of this word and their views on its root; and at the end he [Max Müller] says: "Vidatha may have been the name of a sacred act, as Veda is of sacred knowledge. But the fact remains that it is best translated by assembly, particularly an assembly for sacrificial purposes." (Sacred Books of the East, Vol. 32, p. 349–50.) Some say that the meaning of the word *vidatha* is a holy rite (*kriyā*) that is sacred, as the meaning of the word *veda* is sacred knowledge; but he decides that there is no doubt that *yajña-sabhā* ("sacrificial assembly") is the main sense of this word.
 
-The scholar Hermann Oldenberg, in explaining the meaning of the word *vidathe* in the ṛk Ṛ. Saṃ. 1-31-6 [?] in his work *Vedic Hymns*, has given his opinion thus. His words are quoted and then his opinions are given: "On the derivation and meaning of *vidatha* various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R. V, V. 59·2 (S. B. E. Vol. 32 p. 349 sp.) without trying to discuss here all different theories, I proceed to state my own opinion;" *[continues on the next page]*
+The scholar Hermann Oldenberg, in explaining the meaning of the word *vidathe* in the ṛk Ṛ. Saṃ. 1-31-6 in his work *Vedic Hymns*, has given his opinion thus. His words are quoted and then his opinions are given: "On the derivation and meaning of *vidatha* various opinions have been pronounced in the last years which have been collected by prof. Max Muller in his note on R. V, V. 59·2 (S. B. E. Vol. 32 p. 349 sp.) without trying to discuss here all different theories, I proceed to state my own opinion;" *[continues on the next page]*
 
 ---
 
@@ -309,7 +309,7 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 > *syaṃvṛkṣāmu [?] yoṣaṇāṃ na marye nityaṃ na sūnuṃ tanayaṃ dadhānāḥ ‖*
 
-(Ṛ. Saṃ. 10-39-14) in ṛks like these, with the word *tanaya*; and with the word *toka* in Ṛ. Saṃ. 3-2-11 [?], with the word *āpi* in Ṛ. Saṃ. 7-88-6 [?], and with the word *pati* in Ṛ. Saṃ. 1-71-1 [?], this word [*nitya*] has been used. In all these places the word *nitya* has the sense "one's own, that which is of oneself" ("one's own", English in the source).
+(Ṛ. Saṃ. 10-39-14) in ṛks like these, with the word *tanaya*; and with the word *toka* in Ṛ. Saṃ. 2-2-11, with the word *āpi* in Ṛ. Saṃ. 7-88-6, and with the word *pati* in Ṛ. Saṃ. 1-71-1, this word [*nitya*] has been used. In all these places the word *nitya* has the sense "one's own, that which is of oneself" ("one's own", English in the source).
 
 ***haviṣkṛtam*** — *haviṣaḥ kartāraṃ, pradātāraṃ yajamānam*: the sacrificer who makes and gives the oblation; the sense is "the sacrificer who offers the oblation to the deities in sacrifices and the like".
 
