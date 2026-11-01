@@ -6584,9 +6584,9 @@ from the form of heaven and earth, and so are able to go comfortably, and to mov
 
 *(Header: "A. 2 A. 4 Va. 13"; "Ṛgvedasaṃhitā".)*
 
-*(Grammar of Ṛk 4 concluded)* — …the penultimate (*upadhā*) is dropped; *sugme bhavaṃ sugmyam*: "being in the pleasant (way)": *bhave chandasi* (Pā. Sū. 4-4-110 [?]) gives the suffix *yat*; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213 [?]) the first syllable is *udātta*.
+*(Grammar of Ṛk 4 concluded)* — …the penultimate (*upadhā*) is dropped; *sugme bhavaṃ sugmyam*: "being in the pleasant (way)": *bhave chandasi* (Pā. Sū. 4-4-110) gives the suffix *yat*; by "*yato nāvaḥ*" (Pā. Sū. 6-1-213) the first syllable is *udātta*.
 
-***ratheṣṭhāḥ*** — *rathe tiṣṭhatīti ratheṣṭhāḥ*; the *kṛdutta* (final) member keeps its natural accent (*prakṛtisvara*); by "*tatpuruṣe kṛti bahulam*" (Pā. Sū. 6-3-14 [?]) the *saptamī* is not dropped (*aluk*). ‖ 4 ‖
+***ratheṣṭhāḥ*** — *rathe tiṣṭhatīti ratheṣṭhāḥ*; the *kṛdutta* (final) member keeps its natural accent (*prakṛtisvara*); by "*tatpuruṣe kṛti bahulam*" (Pā. Sū. 6-3-14) the *saptamī* is not dropped (*aluk*). ‖ 4 ‖
 
 ---
 
@@ -6660,9 +6660,9 @@ Indra is *pratīcaś cit yodhīyān* — "the most excellent among the warriors 
 
 - ***stuhi*** — root *ṣṭuñ stutau*; *loṭ* second person singular; *nighāta* accent for a *tiṅ*.
 - ***satvā*** — root *ṣadḷ viśaraṇagatyavasādaneṣu*; the suffix *kvanip* ("*prasera sadyoḥ stuṭ ca*", Uṇ. Sū. 4-… [?]), prescribed by the rule, applies in the plural to this root also; the suffix, being *pit*, is *anudātta*, so the root accent remains.
-- ***pratīcaḥ*** — *prati* is a preposition; root *añcu gatipūjanayoḥ*; *kvin* suffix by "*ṛtvik dadhṛk…*" (Pā. Sū. 3-2-59 [?]); *anidātāṃ halaḥ upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24 [?]) drops the penultimate nasal; because of *bha* designation before a *śas* ending, *acaḥ* (Pā. Sū. 6-4-138 [?]) drops the *a* of the root; the root having *a* standing before the nasal-*a*-vowel, and following, "*cau*" (Pā. Sū. 6-3-138 [?]) lengthens the preceding vowel; by the statement "*añceś chandasy asarvanāmasthānam*" the case ending is *udātta*.
-- ***yodhīyān*** — the word *yodhin*, in the sense of excess, takes the suffix *īyasun*; by "*turiṣṭhemeyaḥsu*" (Pā. Sū. 6-4-154 [?]) the *ṭi* of *tṛc* (agent suffix) is dropped; by "*prakṛtyaikāc*" the natural form is retained, so the *ṭi*-loss does not occur; being *nit*, the suffix takes the first-syllable *udātta* by "*ñnityādir nityam*" (Pā. Sū. 6-1-197 [?]).
-- ***vavavruṣaḥ*** — root *vṛñ āvaraṇe*, *curādi*; *kvasu* for *liṭ*; reduplication on account of the suffix; Vedically an extra *va* syllable appears; in the genitive, by "*vasoḥ saṃprasāraṇam*" (Pā. Sū. 6-4-131 [?]), *saṃprasāraṇa*, with the earlier form; by "*śāsivasighasīnāṃ ca*" (Pā. Sū. 8-3-60 [?]) *ṣatva*; the *kvasu*-suffix accent remains.
+- ***pratīcaḥ*** — *prati* is a preposition; root *añcu gatipūjanayoḥ*; *kvin* suffix by "*ṛtvik dadhṛk…*" (Pā. Sū. 3-2-59); *anidātāṃ halaḥ upadhāyāḥ kṅiti* (Pā. Sū. 6-4-24) drops the penultimate nasal; because of *bha* designation before a *śas* ending, *acaḥ* (Pā. Sū. 6-4-178) drops the *a* of the root; the root having *a* standing before the nasal-*a*-vowel, and following, "*cau*" (Pā. Sū. 6-3-138) lengthens the preceding vowel; by the statement "*añceś chandasy asarvanāmasthānam*" the case ending is *udātta*.
+- ***yodhīyān*** — the word *yodhin*, in the sense of excess, takes the suffix *īyasun*; by "*turiṣṭhemeyaḥsu*" (Pā. Sū. 6-4-154) the *ṭi* of *tṛc* (agent suffix) is dropped; by "*prakṛtyaikāc*" the natural form is retained, so the *ṭi*-loss does not occur; being *nit*, the suffix takes the first-syllable *udātta* by "*ñnityādir nityam*" (Pā. Sū. 6-1-197 [?]).
+- ***vavavruṣaḥ*** — root *vṛñ āvaraṇe*, *curādi*; *kvasu* for *liṭ*; reduplication on account of the suffix; Vedically an extra *va* syllable appears; in the genitive, by "*vasoḥ saṃprasāraṇam*" (Pā. Sū. 6-4-131), *saṃprasāraṇa*, with the earlier form; by "*śāsivasighasīnāṃ ca*" (Pā. Sū. 8-3-60 [?]) *ṣatva*; the *kvasu*-suffix accent remains.
 - ***vihantā*** — root *hana hiṃsāgatyoḥ*; *tṛc* in the agent sense; the *kṛdutta* final member keeps its natural accent. ‖ 5 ‖
 
 ---
@@ -6733,7 +6733,7 @@ Heaven and earth are insufficient for the girth of that Indra, who, with his gre
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
 
-— quoting this ṛk, the Nirukta (Ni. 6-3 [?]) shows that the word *itthā* means "truly". Durgācārya explains it as "in this manner" (*amunā prakāreṇa*) and Sāyaṇa as "*amuṣminn antarikṣaloke*", "in that atmospheric world"; in the ṛk at hand it is used in the sense of "truly".
+— quoting this ṛk, the Nirukta (Ni. 3-3) shows that the word *itthā* means "truly". Durgācārya explains it as "in this manner" (*amunā prakāreṇa*) and Sāyaṇa as "*amuṣminn antarikṣaloke*", "in that atmospheric world"; in the ṛk at hand it is used in the sense of "truly".
 
 ***kakṣye — kakṣyā rajjuḥ raśmasya — kakṣaṃ sevate*** — "*kakṣyā* (girth) — the rope, of the horse's *raśmi*; it serves the *kakṣa*; *kakṣo gāhateḥ, kasa iti nāmakaraṇaḥ | khyāter vārthakyo 'bhyāsaḥ | kim asmin khyānam iti | kaṣater vā | tatsamānāny aṅgāni manuṣyasya kakṣo bāhumūlasāmānyāt*" [as read; garbled: [?]] (Ni. 2-… [?]). The band tied around the belly of the horse is called *kakṣyā*. The word *kakṣyā* may be formed with the suffix *ṣya* [?] added to the root *gāh* used in the sense of "entering within"; or from the reduplicated form of the root *khyā*; or its source may be the root *kaṣ* with the sense of *ujjh* (rubbing); hence the armpit (*kakṣa*) of a man is well known by the name; that is, it may be taken to mean "heaven and earth, which resemble the armpit in their interval".
 
@@ -6743,7 +6743,7 @@ Besides, the Nirukta-writers read the word *kakṣyā* among the names of "finge
 
 > *daśāvanibhyo daśakakṣyebhyo daśayoktrebhyo daśayojanebhyaḥ | daśābhīśubhyo arcatājarebhyo daśa dhuro daśa yuktā vahadbhyaḥ ‖*
 
-(Ṛ. Saṃ. 10-94-7 [?]) the meaning given here for the word *kakṣyā* is "fingers". In the ṛk at hand it means the interval between heaven and earth.
+(Ṛ. Saṃ. 10-94-7) the meaning given here for the word *kakṣyā* is "fingers". In the ṛk at hand it means the interval between heaven and earth.
 
 ***asmai rodasī kakṣye nālam*** — the word *rodasī* is read among the names of heaven and earth (Ni. 3-... [?]). The meaning is given that heaven and earth, though they are travelling in their own paths, are not enough for the movements of Indra, who protects the sacrificers performing the rites; and, "*jagato 'dhīśasya indrasya saṃcārāya alpatvāt dyāvāpṛthivyau na paryāpte | sṛṣṭyāder api sraṣṭur mahimno 'dhikatvāt*": since the greatness of the maker of creation is greater than the greatness of the thing created, Indra, who is lord of the world, finds the space in heaven and earth insufficient to move about in. By this it is indicated that the greatness of heaven and earth is less than that of Indra.
 
@@ -6871,7 +6871,7 @@ In such places Sāyaṇa explains it as "*senayā*" ("with the army"); it shows 
 
 > *rathaṃ nu mārutaṃ vayaṃ śravasyum ā huvāmahe | ā yasmin tasthau suraṇāni bibhratī sacā marutsu rodasī ‖*
 
-(Ṛ. Saṃ. 5-56-8 [?]).
+(Ṛ. Saṃ. 5-56-8).
 
 ### Printed p. 276  (PDF 296)
 
@@ -6948,9 +6948,9 @@ Pointing out thus the difference between the singular and the dual uses, the B�
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 173".)*
 
 - ***asti*** — because of the relative (*yadyoga*) no *nighāta* accent; *tip* being *pit*, the root accent remains.
-- ***aram*** — "*vālamūlalaghu*…" (Pā. Sū. 8-2-18 [?]) gives *repha* substitution for *la*.
+- ***aram*** — "*vālamūlalaghu*…" (Pā. Sū. 8-2-18) gives *repha* substitution for *la*.
 - ***vivye*** — root *vī gatyādiṣu*; by "*chandasi luṅlaṅliṭaḥ*" *liṭ* in the present sense; third person singular; *nighāta* for a *tiṅ*.
-- ***vṛjanam*** — root *vṛjī varjane*; used here in the agent sense; the suffix *kyu* by "*kyaspyāvṛji*…" (Uṇ. Sū. 2-… [?]); by "*yuvor anākau*" (Pā. Sū. 7-1-1 [?]) *yu* becomes *ana*; being *kit*, the guṇa of the light vowel does not occur; the suffix accent is first-syllable *udātta*.
+- ***vṛjanam*** — root *vṛjī varjane*; used here in the agent sense; the suffix *kyu* by "*kyaspyāvṛji*…" (Uṇ. Sū. 2-… [?]); by "*yuvor anākau*" (Pā. Sū. 7-1-1) *yu* becomes *ana*; being *kit*, the guṇa of the light vowel does not occur; the suffix accent is first-syllable *udātta*.
 - ***bharti*** — root *bhṛñ bharaṇe*; *laṭ*, third person singular, *tip*; "*bahulaṃ chandasi*" gives *luk* for *śap*; by "*sārvadhātukārdhadhātukayoḥ*" guṇa for *ik*; *ra* follows; since in *pādādi* position no *nighāta*; *tip* being *pit* is *anudātta*, so the root accent remains.
 - ***svadhāvān*** — by "*mādhupadhāyāś ca*" (Pā. Sū. 8-2-9 [?]) *va* for the *m* of the suffix *mat*; "*dīrghād aṭi samānapāde*" (Pā. Sū. 8-3-9 [?]) *ru* for the *n*; "*āto 'ṭi nityam*" (Pā. Sū. 8-3-3 [?]) — by this rule the *ā* takes nasalization (*anunāsika*) always.
 - ***opaśam*** — root *śīṅ svapne*; when the two prefixes *āṅ* and *upa* are in construction, by "*bahulagrahaṇa*" the suffix *ḍa*; being *ḍit*, the *ṭi* is dropped; the *kṛdutta* final member keeps its natural accent. ‖ 6 ‖
@@ -7009,7 +7009,7 @@ Those people, who, jointly worshipping Indra, diligently endeavour, O hero, to p
 
 In this ṛk it is described that the Maruts (the Marut deities), the companions of Indra, ever practise and cause to practise the giving of strength to Indra in the time of battles, and that the extraordinary help of the Maruts is thus available. In the same way, the sacrificers also, when they perform sacrifices, strive to worship Indra in the sacrifices; this too is described.
 
-***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 3-9 [?]). And the Nirukta-writers, showing the derivation of this word, say:
+***samatsu satāṃ urāṇam — urūṇi atiprabhūtāni balādīni kurvāṇaṃ*** — here, addressing Indra by the word *śūra*, "hero", it is explained that Indra graciously bestows greatly increased capacities, such as strength, on the creatures that take refuge in him in times of battle. The word *samatsu* is read among the names of battle (Ni. 3-9). And the Nirukta-writers, showing the derivation of this word, say:
 
 > समदः संमदो वा मदतेः ; संमुदो वा मदतेः ।
 
