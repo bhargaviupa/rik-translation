@@ -3246,5 +3246,53 @@
   "old": "Pā. Sū. 7-1-39 [?]",
   "new": "Pā. Sū. 3-1-39",
   "note": "Changed to the value in the user's list (user: 1-77-3 and 3-1-39 are right); not viewed by me."
+ },
+ {
+  "pdf": 287,
+  "printed": 267,
+  "status": "resolved",
+  "old": "4-4-110 [?]; 6-1-213 [?]; 6-3-14 [?]",
+  "new": "4-4-110; 6-1-213; 6-3-14",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (second list for printed pp.267-280); changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 289,
+  "printed": 269,
+  "status": "resolved",
+  "old": "3-2-59 [?]; 6-4-24 [?]; 6-4-138 [?]; 6-3-138 [?]; 6-4-154 [?]; 6-4-131 [?]",
+  "new": "3-2-59; 6-4-24; 6-4-178; 6-3-138; 6-4-154; 6-4-131",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (second list for printed pp.267-280); changed: confirmed, confirmed, 6-4-138->6-4-178, confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 292,
+  "printed": 272,
+  "status": "resolved",
+  "old": "6-3 [?]; 10-94-7 [?]",
+  "new": "3-3; 10-94-7",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (second list for printed pp.267-280); changed: 6-3->3-3, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 295,
+  "printed": 275,
+  "status": "resolved",
+  "old": "5-56-8 [?]",
+  "new": "5-56-8",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (second list for printed pp.267-280); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 298,
+  "printed": 278,
+  "status": "resolved",
+  "old": "8-2-18 [?]; 7-1-1 [?]",
+  "new": "8-2-18; 7-1-1",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (second list for printed pp.267-280); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 300,
+  "printed": 280,
+  "status": "resolved",
+  "old": "3-9 [?]",
+  "new": "3-9",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (second list for printed pp.267-280); changed: confirmed; not viewed by me."
  }
 ]
