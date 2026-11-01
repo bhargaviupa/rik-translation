@@ -10718,7 +10718,7 @@ Pervade with our praise him who is the sole sustainer of men, to whom the oblati
 
 > *śaśvat purā uṣā vyuvāsa devy atho adyedaṃ vy āvo maghonī | atho vyucchād uttarāṃ anu dyūn ajarāmṛtā carati svadhābhiḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-113-13 [?]).
+(Ṛ. Saṃ. 1-102-13).
 
 ### Printed p. 404  (PDF 424)
 
@@ -10776,7 +10776,7 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 > *svadhām anu śriyaṃ naro mahi tveṣā amavanto vṛṣapsavaḥ | vahante ahrutapsavaḥ ‖*
 
-(Ṛ. Saṃ. 8-20-7 [?]) — in such ṛks it means "naturally". In Ṛ. Saṃ. 7-35-13 [?] and other places it is learned to mean "water" (*udaka*).
+(Ṛ. Saṃ. 5-20-2) — in such ṛks it means "naturally". In Ṛ. Saṃ. 7-56-13 and other places it is learned to mean "water" (*udaka*).
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
@@ -10788,7 +10788,7 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 176".)*
 
 - ***upyate*** — root *ḍuvapḷ bījasaṃtāne*; *laṭ* in the passive; third person singular; because of the relative (*yadyoga*), no *nighāta*; the *la* *sārvadhātuka* being *anudātta* (by "*tāsyanudāttet*…"), the *yak* accent remains.
-- ***cakṛṣat*** — root *kṛṣa vilekhane*; after *yaṅ luk*, reduplication of the root; by "*ādihal-śeṣa*" the first consonant remains; *ca* for *ka*; and "*rugrikau ca luki*" (Pā. Sū. 7-4-91 [?]) the augment *ruk* for the reduplicative syllable; *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ parasmaipadeṣu*" (Pā. Sū. 3-4-97 [?]) the *i* is dropped; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94 [?]) the augment *a*; by "*adiprabhṛtibhyaḥ śapaḥ*" (Pā. Sū. 2-4-72 [?]) *luk* for *śap*; by "*nābhyastasyācīti piti*" (Pā. Sū. 7-3-87 [?]) the guṇa of the light penultimate vowel is prohibited; by "*abhyastānām ādiḥ*" (Pā. Sū. 6-1-117) the first syllable is *udātta*. ‖ 2 ‖
+- ***cakṛṣat*** — root *kṛṣa vilekhane*; after *yaṅ luk*, reduplication of the root; by "*ādihal-śeṣa*" the first consonant remains; *ca* for *ka*; and "*rugrikau ca luki*" (Pā. Sū. 7-4-91) the augment *ruk* for the reduplicative syllable; *leṭ*, third person singular, *tip*; by "*itaś ca lopaḥ parasmaipadeṣu*" (Pā. Sū. 3-4-97) the *i* is dropped; by "*leṭo 'ḍāṭau*" (Pā. Sū. 3-4-94) the augment *a*; by "*adiprabhṛtibhyaḥ śapaḥ*" (Pā. Sū. 2-4-72) *luk* for *śap*; by "*nābhyastasyācīti piti*" (Pā. Sū. 7-3-87) the guṇa of the light penultimate vowel is prohibited; by "*abhyastānām ādiḥ*" (Pā. Sū. 6-1-117) the first syllable is *udātta*. ‖ 2 ‖
 
 ---
 
@@ -10869,7 +10869,7 @@ Support for both meanings can be shown from Śruti passages. First, the derivati
 
 > *pañcajanāḥ "mama hotraṃ juṣadhvam" gandharvāḥ pitaro devā asurā rakṣāṃsīty eke | catvāro varṇā niṣādaḥ pañcama ity aupamanyavaḥ |* [as read: [?]]
 
-(Ni. 3-8 [?]). Some say that the five groups are the Gandharvas, fathers, gods, *asuras* and Rākṣasas; Aupamanyava and others say that they are the four *varṇas* with the Niṣāda as fifth: thus they state only the opinions of others.
+(Ni. 3-7). Some say that the five groups are the Gandharvas, fathers, gods, *asuras* and Rākṣasas; Aupamanyava and others say that they are the four *varṇas* with the Niṣāda as fifth: thus they state only the opinions of others.
 
 Formerly, when all the deities prayed to Agni to accept, for their sake, the oblations offered in the sacrifice and to distribute them to all, Agni agreed and said —
 
@@ -10877,7 +10877,7 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 > *tad adya vācaḥ prathamaṃ masīya yenāsurāṃ abhi devā asāma | ūrjādaḥ uta yajñiyāsaḥ pañca janā mama hotraṃ juṣadhvam ‖*
 
-(Ṛ. Saṃ. 10-53-4 [?]). The authors of the Bṛhaddevatā, quoting this sentence, in which the answer was given that "the *pañcajanāḥ* also may enjoy this oblation", have discussed the differences of opinion as to who the *pañcajanāḥ* are.
+(Ṛ. Saṃ. 10-53-4). The authors of the Bṛhaddevatā, quoting this sentence, in which the answer was given that "the *pañcajanāḥ* also may enjoy this oblation", have discussed the differences of opinion as to who the *pañcajanāḥ* are.
 
 ---
 
@@ -10919,7 +10919,7 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 > *cakṣuḥśrotraṃ mano vāk ca prāṇaś cety ātmavādinaḥ | gandharvāpsaraso devā manuṣyāḥ pitaras tathā ‖ sarpāś ca brāhmaṇe caiva śrūyante hy aitareyake ‖*
 
-(Bṛ. De. 7-71, 72 [?]). Eye, ear, mind, speech and breath: these five are the *pañcajanas* according to the *ātmavādins* (those who speak of the Self). Gandharvas and the rest are explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5 [?]). The Bṛhaddevatā too shows the differences of opinion, in the explanation, saying that Agni gave the deities the answer that such *pañcajanas* may also enjoy the oblations.
+(Bṛ. De. 7-71, 72 [?]). Eye, ear, mind, speech and breath: these five are the *pañcajanas* according to the *ātmavādins* (those who speak of the Self). Gandharvas and the rest are explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5). The Bṛhaddevatā too shows the differences of opinion, in the explanation, saying that Agni gave the deities the answer that such *pañcajanas* may also enjoy the oblations.
 
 ### Printed p. 410  (PDF 430)
 
@@ -11012,7 +11012,7 @@ Slay every one who offers not libations, however difficult to be destroyed: slay
 
 > *tad viṣṇoḥ paramaṃ padaṃ sadā paśyanti sūrayaḥ | divīva cakṣur ātatam ‖*
 
-(Ṛ. Saṃ. 1-22-20 [?]).
+(Ṛ. Saṃ. 1-22-20).
 
 In such contexts it suggests not merely that they are praisers but the extraordinary power of vision of the sages; and it is used not only of sages but also as an epithet of Indra and the other deities.
 
@@ -11040,7 +11040,7 @@ In such contexts it suggests not merely that they are praisers but the extraordi
 
 > *asad yathā jaritra uta sūrir indro rāyo viśvavārasya dātā |*
 
-(Ṛ. Saṃ. 6-23-10 [?]);
+(Ṛ. Saṃ. 6-23-10);
 
 > मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ।
 
@@ -11060,7 +11060,7 @@ in these and similar contexts, this epithet is used of deities who are lords and
 
 - ***asunvantam*** — root *ṣuñ abhiṣave*; *śatṛ* for *laṭ*; since it is a *naña tatpuruṣa* compound, by "*tatpuruṣe tulyārtha*…" (Pā. Sū. 6-2-2 [?]) the *naña* fore-member keeps its natural accent.
 - ***samum*** — this word *sama*, in the sense of "all" (*sarvārthaka*), is *sarvānudātta*.
-- ***vedanam*** — root *vidḷ lābhe*; the suffix *lyuṭ*; by "*yuvor anākau*" the substitution *ana* for *yu*; because of it, guṇa of the light penultimate; by "*liti*" (Pā. Sū. 6-1-193 [?]) the syllable before the suffix takes *udātta* accent.
+- ***vedanam*** — root *vidḷ lābhe*; the suffix *lyuṭ*; by "*yuvor anākau*" the substitution *ana* for *yu*; because of it, guṇa of the light penultimate; by "*liti*" (Pā. Sū. 6-1-163) the syllable before the suffix takes *udātta* accent.
 - ***daddhi*** — root *dada dāne*, *bhvādi*; by "*vyatyayo bahulam*" it takes the *parasmaipada*; *loṭ*, second person singular, *hi* for *sip*; by "*bahulaṃ chandasi*" *luk* for *śap*; since it ends in a *jhal* letter, by "*hurjhalbhyo herdhiḥ*" (Pā. Sū. 6-4-101) *dhi* for *hi*; because it is in *pādādi* position, no *nighāta*; since the suffix is prescribed as *apit*, the end syllable is *udātta*.
 
 ### Printed p. 414  (PDF 434)
@@ -11159,7 +11159,7 @@ Soma, you protect him in whose prayers, doubly devout, there is the combination 
 
 > *gāyanti tvā gāyatriṇo 'rcanty arkam arkiṇaḥ | brahmāṇas tvā śatakrata ud vaṃśam iva yemire ‖*
 
-(Ṛ. Saṃ. 1-10-1 [?]) — they show the use of the word *arka* and its meaning. The influence of *arka* is praised in many places as extremely great. In the Aitareya Āraṇyaka —
+(Ṛ. Saṃ. 1-20-2) — they show the use of the word *arka* and its meaning. The influence of *arka* is praised in many places as extremely great. In the Aitareya Āraṇyaka —
 
 > अथातः शिरः । यद्गायत्रीषु भवत्यग्रं वै छन्दसां गायत्र्यग्रमङ्गानां शिरः । तदर्कवतीषु भवत्यग्निर्वा अर्कः । ता नव भवन्ति नव कपालं शिरः ॥
 
@@ -11197,7 +11197,7 @@ Quoting this sentence, together with the ṛk
 
 > *śvetaketur hāruṇeyaḥ yakṣyamāṇā āsa taṃ ha pitā uvāca kān ṛtvijo 'vṛthā iti sa hovācāyaṃ nv eva me vaiśvānasavyo hoteti taṃ ha papraccha vettha brāhmaṇa vaiśvānasavya ‖* [as read: [?]]
 
-(Śa. Brā. 10-3-4-1 [?]). Śvetaketu Āruṇeya, the son of Uddālaka Āruṇi, was about to perform a sacrifice. His father asked him which priests he had chosen for the sacrificial rites; Śvetaketu said, "This Vaiśvānasavya is my *hotṛ*." Then the father asked Vaiśvānasavya —
+(Śa. Brā. 10-6-4-2). Śvetaketu Āruṇeya, the son of Uddālaka Āruṇi, was about to perform a sacrifice. His father asked him which priests he had chosen for the sacrificial rites; Śvetaketu said, "This Vaiśvānasavya is my *hotṛ*." Then the father asked Vaiśvānasavya —
 
 > चत्वारि महान्तीति । वेद भोः इति होवाच ……………… वेत्थ चत्वारि क्यानीति वेद भोः इति होवाच वेत्थ चत्वारि क्यानां क्यानीति वेद भोः इति होवाच वेत्थ चत्वारि अर्काणीति वेद भोः इति होवाच वेत्थ चतुरोऽर्काणामर्कानिति वेद भोः इति होवाच ॥
 
@@ -11215,13 +11215,13 @@ Quoting this sentence, together with the ṛk
 
 > *vettha arkam iti | atha vai no bhavān spṛkṣyatīti vettha arkaparṇe ity atha vai no bhavān spṛkṣyatīti vettha arkapuṣpe ity atha vai no bhavān spṛkṣyatīti vettha arkakośyāv ity atha vai no bhavān spṛkṣyatīti vettha arkasamudgāv ity atha vai no bhavān spṛkṣyatīti vettha arkadhānā ity atha vai no bhavān spṛkṣyatīti vettha arkāṣṭhīlām ity atha vai no bhavān spṛkṣyatīti vettha arkamūlam ity atha vai no bhavān spṛkṣyatīti ‖* [as read; repetitive formula, doubtful in places: [?]]
 
-(Śa. Brā. 10-3-4-3 [?]). "Do you know the *arka*?" … "Do you know the *arka* leaves, the *arka* flowers, the two *arka* pods, the two *arka* caskets, the *arka* grains, the *arka* stem (?), the *arka* root?" Asked whether he knew the nature of the *arka*, of the *arka* leaves, and of the *arka* flowers; of the *arka* pods and of the *arka* grains; whether he knew the root of the *arka*, he replied that he did not know them all, and asked his father to explain them. Then the father, explaining the *arka*, told its secret meaning also:
+(Śa. Brā. 10-6-4-3). "Do you know the *arka*?" … "Do you know the *arka* leaves, the *arka* flowers, the two *arka* pods, the two *arka* caskets, the *arka* grains, the *arka* stem (?), the *arka* root?" Asked whether he knew the nature of the *arka*, of the *arka* leaves, and of the *arka* flowers; of the *arka* pods and of the *arka* grains; whether he knew the root of the *arka*, he replied that he did not know them all, and asked his father to explain them. Then the father, explaining the *arka*, told its secret meaning also:
 
 > अथ ह वै यत्तदुवाच । वेत्थार्कमिति पुरुषं हैव तदुवाच । वेत्थार्कपर्णे इति कर्णौ हैव तदुवाच वेत्थार्कपुष्पे इत्यक्षिणी हैव तदुवाच वेत्थार्ककोश्याविति नासिके हैव तदुवाच वेत्थार्कसमुद्गाविति ओष्ठौ हैव तदुवाच वेत्थार्कधाना इति दन्तान् हैव तदुवाच वेत्थार्काष्ठीलामिति जिह्वां हैव तदुवाच वेत्थार्कमूलमित्यन्नं हैव तदुवाच स एषोऽग्निरर्को यत्पुरुषः स यो हैतमेवमग्निमर्कं पुरुषमुपास्ते [अयमहमग्निरर्कोऽस्मीति] विद्ययैवास्यैष आत्मन्नग्निरर्कश्चितो भवति ॥
 
 > *atha ha vai yat tad uvāca | vettha arkam iti puruṣaṃ haiva tad uvāca | vettha arkaparṇe iti karṇau haiva tad uvāca vettha arkapuṣpe ity akṣiṇī haiva tad uvāca vettha arkakośyāv iti nāsike haiva tad uvāca vettha arkasamudgāv iti oṣṭhau haiva tad uvāca vettha arkadhānā iti dantān haiva tad uvāca vettha arkāṣṭhīlām iti jihvāṃ haiva tad uvāca vettha arkamūlam ity annaṃ haiva tad uvāca sa eṣo 'gnir arko yat puruṣaḥ sa yo haitam evam agnim arkaṃ puruṣam upāste [ayam aham agnir arko 'smīti] vidyayaivāsyaiṣa ātmann agnir arkaś cito bhavati ‖* [as read; bracketed words doubtful: [?]]
 
-(Śa. Brā. 10-3-4-5 [?]). *Arka* means man: the *arka* leaves are the ears of man; the *arka* flowers, the eyes; the *arka* pods, the nostrils; the *arka* caskets, the lips; the *arka* grains, the teeth; the *arka* … , the tongue; the *arka* root, food. This man who is taught by the *arka* is the sacrificial fire: so, for one who knows the identity of this *arka* and man, the sacrificial fire becomes visible directly in the sacrificial altar. Thus the secret meaning of the word *arka* is explained. And, explaining again that this *arka* is the Parabrahman in the form of the Imperishable (*akṣara*) —
+(Śa. Brā. 10-6-4-5). *Arka* means man: the *arka* leaves are the ears of man; the *arka* flowers, the eyes; the *arka* pods, the nostrils; the *arka* caskets, the lips; the *arka* grains, the teeth; the *arka* … , the tongue; the *arka* root, food. This man who is taught by the *arka* is the sacrificial fire: so, for one who knows the identity of this *arka* and man, the sacrificial fire becomes visible directly in the sacrificial altar. Thus the secret meaning of the word *arka* is explained. And, explaining again that this *arka* is the Parabrahman in the form of the Imperishable (*akṣara*) —
 
 > तद्धैतत्पश्यन्नृषिरभ्यनूवाद । भूतं भविष्यत्प्र स्तौमि । महद्ब्रह्मैकमक्षरं बहु ब्रह्मैकमक्षरमित्येतद्वा अक्षरं सर्वे देवाः सर्वाणि भूतान्यभि …
 
@@ -11261,7 +11261,7 @@ The breath is *arka*; the *ka*-principle is its food; the harmony of the two is 
 
 ***sānuṣak — sānuṣaṅgaḥ sātatyam*** — "continuously" is the sense: Indra and the mantras in the form of *arka* have an unbroken relation, this is the purport.
 
-***vājeṣu — baleṣu; anneṣu vā*** — whether as being the cause of strength or as being the cause of food: so two kinds of meaning are given. The word *vāja* is read among the names of food (Ni. 3-9 [?]) and among the names of battle (3-9 [?], as read). It is also used in the sense of praise, and in the sense of extremely excellent strength. Its special meanings and special usages have been explained earlier.
+***vājeṣu — baleṣu; anneṣu vā*** — whether as being the cause of strength or as being the cause of food: so two kinds of meaning are given. The word *vāja* is read among the names of food (Ni. 3-9) and among the names of battle (3-9 [?], as read). It is also used in the sense of praise, and in the sense of extremely excellent strength. Its special meanings and special usages have been explained earlier.
 
 ### Printed p. 420  (PDF 440)
 
