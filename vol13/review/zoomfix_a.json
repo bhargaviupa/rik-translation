@@ -4486,5 +4486,93 @@
   "old": "4-1-11 [?]",
   "new": "8-1-11",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 4-1-11->8-1-11; not viewed by me."
+ },
+ {
+  "pdf": 439,
+  "printed": 419,
+  "status": "resolved",
+  "old": "3-9 [?]",
+  "new": "3-9",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 438,
+  "printed": 418,
+  "status": "resolved",
+  "old": "10-3-4-3 [?]; 10-3-4-5 [?]",
+  "new": "10-6-4-3; 10-6-4-5",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 10-3-4-3->10-6-4-3, 10-3-4-5->10-6-4-5; not viewed by me."
+ },
+ {
+  "pdf": 437,
+  "printed": 417,
+  "status": "resolved",
+  "old": "10-3-4-1 [?]",
+  "new": "10-6-4-2",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 10-3-4-1->10-6-4-2; not viewed by me."
+ },
+ {
+  "pdf": 436,
+  "printed": 416,
+  "status": "resolved",
+  "old": "1-10-1 [?]",
+  "new": "1-20-2",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 1-10-1->1-20-2; not viewed by me."
+ },
+ {
+  "pdf": 433,
+  "printed": 413,
+  "status": "resolved",
+  "old": "6-23-10 [?]; 6-1-193 [?]",
+  "new": "6-23-10; 6-1-163",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, 6-1-193->6-1-163; not viewed by me."
+ },
+ {
+  "pdf": 432,
+  "printed": 412,
+  "status": "resolved",
+  "old": "1-22-20 [?]",
+  "new": "1-22-20",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed (neighbour page); not viewed by me."
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "status": "resolved",
+  "old": "3-31-5 [?]",
+  "new": "3-31-5",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed (neighbour page); not viewed by me."
+ },
+ {
+  "pdf": 428,
+  "printed": 408,
+  "status": "resolved",
+  "old": "3-8 [?]; 10-53-4 [?]",
+  "new": "3-7; 10-53-4",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 3-8->3-7, confirmed (neighbour page); not viewed by me."
+ },
+ {
+  "pdf": 426,
+  "printed": 406,
+  "status": "resolved",
+  "old": "7-4-91 [?]; 3-4-97 [?]; 3-4-94 [?]; 2-4-72 [?]; 7-3-87 [?]",
+  "new": "7-4-91; 3-4-97; 3-4-94; 2-4-72; 7-3-87",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed, confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 425,
+  "printed": 405,
+  "status": "resolved",
+  "old": "8-20-7 [?]; 7-35-13 [?]",
+  "new": "5-20-2; 7-56-13",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 8-20-7->5-20-2, 7-35-13->7-56-13; not viewed by me."
+ },
+ {
+  "pdf": 423,
+  "printed": 403,
+  "status": "resolved",
+  "old": "1-113-13 [?]",
+  "new": "1-102-13",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 1-113-13->1-102-13; not viewed by me."
  }
 ]
