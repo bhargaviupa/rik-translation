@@ -9994,7 +9994,7 @@ and, further —
 
 > *vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam |* [as read: [?]]
 
-(Ṛ. Saṃ. 4-1-11 [?]) —
+(Ṛ. Saṃ. 8-1-11) —
 
 in such ṛks, for the words *ārjuneya* and the like, Sāyaṇa too has explained "*arjunyāḥ putraṃ kutsaṃ*" — "Kutsa, the son of Arjunī": that is, Kutsa, the son of the woman Arjunī. Since it is said in other Śrutis that the words *Arjuna*, *Arjunī* are connected with Indra, the two kinds of explanation above may be said to give one and the same meaning. For example —
 
@@ -10075,7 +10075,7 @@ in such ṛks, as well as in many other places, the description is that Indra ki
 
 - ***īśānaḥ*** — root *īśa aiśvarye*; in the sense of *laṭ*, the substitution *śānac*; since the *ṅit*-less *śānac* takes the accent on the suffix, it is *anudātta*, so the root accent remains.
 - ***vaha*** — root *vaha prāpaṇe*; by *vyatyaya* *loṭ* for *laṅ*; second person singular; because it is in *pādādi* position, no *nighāta*; *śap* being *anudātta*, the root accent remains.
-- ***sūryam*** — root *ṣū gatau*; by "*rājasūyasūrya*…" (Pā. Sū. 3-1-114 [?]) the suffix *kyap* is formed by *nipātana*; by the statement "*supāṃ suluk*"… "*supo bhavanti*" the genitive singular receives the substitution of the accusative singular.
+- ***sūryam*** — root *ṣū gatau*; by "*rājasūyasūrya*…" (Pā. Sū. 6-1-164) the suffix *kyap* is formed by *nipātana*; by the statement "*supāṃ suluk*"… "*supo bhavanti*" the genitive singular receives the substitution of the accusative singular.
 - ***vadham*** — root *hana hiṃsāgatyoḥ*; by "*hanaś ca vadhaḥ*" (Pā. Sū. 3-3-76) the suffix *ap* in the sense of action; with it, the substitution *vadha*, with the accent *anta-udātta*; by "*ato lopaḥ*" (Pā. Sū. 6-4-48) the *a* is dropped; by "*anudāttasya ca yatrodāttalopaḥ*" (Pā. Sū. 6-1-161) the suffix *ap* takes the *udātta* accent. ‖ 4 ‖
 
 ---
@@ -10204,7 +10204,7 @@ In many parts of the Ṛk-saṃhitā, for this word, the meaning is "sacrifice" 
 
 > *sākaṃ hi śucinā śuciḥ praśāstā kratunājani | vidvāṃ asya vratā dhruvā vayā ivānu rohate ‖*
 
-(Ṛ. Saṃ. 2-5-4 [?]) —
+(Ṛ. Saṃ. 2-5-4) —
 
 in all such ṛks this idea becomes plain. Since the existence of man and his future states of becoming rest upon this action that is of the form of *kratu*, a warning is given to men on this matter, step by step, in the Upaniṣads and elsewhere.
 
@@ -10234,7 +10234,7 @@ in such ṛks the word *kratu* means "heroic action"; and
 
 > *yasyājasraṃ śavasā mānam uktham paribhuj rodasī viśvataḥ sīm | sa sāriśat kratubhir mandasāno marutvān no bhavatv indra ūtī ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-100-14 [?]) — in this and other ṛks it also means "sacrificial act". So also in the senses of power, wealth, greatness and the like this word is used.
+(Ṛ. Saṃ. 1-100-16) — in this and other ṛks it also means "sacrificial act". So also in the senses of power, wealth, greatness and the like this word is used.
 
 ### Printed p. 388  (PDF 408)
 
@@ -10390,7 +10390,7 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 > *tad yad etāṃ purastāt sūktasya nividaṃ dadhāti prajātyai | prajāyate prajayā paśubhir ya evaṃ veda ‖*
 
-(Ai. Brā. 10-2 [?]). For this reason the *hotṛ* gets offspring as the fruit of reciting the *nivid* mantras at the beginning of a sūkta. It is said elsewhere also that one who knows this obtains the continuity of progeny, and the other riches. It is learned from many places in the Ṛk-saṃhitā that the recitation of mantras, with faith that it gives the most excellent fruit, is traditional, when invoking the respective deities, in praising them: the nature of each deity, their power, the great acts they have accomplished, and so on. For example —
+(Ai. Brā. 10-3). For this reason the *hotṛ* gets offspring as the fruit of reciting the *nivid* mantras at the beginning of a sūkta. It is said elsewhere also that one who knows this obtains the continuity of progeny, and the other riches. It is learned from many places in the Ṛk-saṃhitā that the recitation of mantras, with faith that it gives the most excellent fruit, is traditional, when invoking the respective deities, in praising them: the nature of each deity, their power, the great acts they have accomplished, and so on. For example —
 
 > ताँ पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
 
@@ -10618,7 +10618,7 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 - ***matsi*** — root *madī stutimodamadasvapnakāntigatiṣu*; the root contains *ṇic* in its sense; *laṭ*, second person singular, *sip*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; by "*khari ca*" (Pā. Sū. 8-4-55 [?]) the *d* of the root becomes *t*; because it is in *pādādi* position no *nighāta*; since the suffix is *pit*, the root accent remains.
 - ***vasyaiṣṭaye*** — *vasīyasaḥ iṣṭiḥ prāptiḥ tasyai*; from the word *vasu* the suffix *matup*; when the suffix *īyasun* comes after it, by "*vinmator luk*" (Pā. Sū. 5-3-65) *luk* for *matup*; by "*ṭeḥ*" (Pā. Sū. 6-4-155 [?]) the loss of the *ṭi*; Vedically the *y* also drops; the fore-member keeps its natural accent.
 - ***viśa*** — root *viśa praveśane*; *loṭ*, second person singular; *nighāta* accent for a *tiṅ*.
-- ***ṛghāyamāṇaḥ*** — root *hana hiṃsāgatyoḥ*; by "*anyebhyo 'pi dṛśyante*" (Pā. Sū. 3-2-75) the suffix *viṭ*; by the force of the word *dṛś* the *n* is dropped; the *h* becomes *gh*; when the meaning "he who is not *ṛghā* becomes *ṛghā*" is intended, by "*lohitādi ḍājbhyaḥ kyaṣ*" (Pā. Sū. 3-1-69) the suffix *kyaṣ*; by "*vākyaṣaḥ*" (Pā. Sū. 1-3-90 [?]) the *ātmanepada* suffix comes; *śānac* for *laṭ*; since the *sārvadhātuka* *la* is *anudātta*, the *kyaṣ* accent remains.
+- ***ṛghāyamāṇaḥ*** — root *hana hiṃsāgatyoḥ*; by "*anyebhyo 'pi dṛśyante*" (Pā. Sū. 3-2-75) the suffix *viṭ*; by the force of the word *dṛś* the *n* is dropped; the *h* becomes *gh*; when the meaning "he who is not *ṛghā* becomes *ṛghā*" is intended, by "*lohitādi ḍājbhyaḥ kyaṣ*" (Pā. Sū. 3-1-69) the suffix *kyaṣ*; by "*vākyaṣaḥ*" (Pā. Sū. 1-3-90) the *ātmanepada* suffix comes; *śānac* for *laṭ*; since the *sārvadhātuka* *la* is *anudātta*, the *kyaṣ* accent remains.
 
 ---
 
