@@ -15944,7 +15944,7 @@ As described in the Ṛk at hand, these two, being two luminous forms, are descr
 
 > *dhiyaṃjinvā dhiṣṇyā viśpalāvasū divo napātā sukṛte śucivratā |*
 
-(Ṛ. Saṃ. 1-182-1 [?]) — here the Aśvin deities are addressed as *divo napātā*. In the Ṛk at hand, Sāyaṇa has explained them as Soma and Sūrya. The time of their manifestation will be told in the Special Topics of the next ṛk.
+(Ṛ. Saṃ. 1-182-1) — here the Aśvin deities are addressed as *divo napātā*. In the Ṛk at hand, Sāyaṇa has explained them as Soma and Sūrya. The time of their manifestation will be told in the Special Topics of the next ṛk.
 
 **Ārepasā** — for this word the Nirukta-author explains "*pāpena alipyamānayā tanvā*": with a body not smeared with fault; *repas* means fault or sin; hence "not smeared".
 
@@ -15954,7 +15954,7 @@ As described in the Ṛk at hand, these two, being two luminous forms, are descr
 
 > *acchā kośaṃ madhuścutamasṛgraṃ vāre avyaye | avāvaśanta dhītayaḥ ‖*
 
-(Ṛ. Saṃ. 9-66-11 [?]) — here: "the fingers desired again" — [the sentence continues on the next page].
+(Ṛ. Saṃ. 9-66-11) — here: "the fingers desired again" — [the sentence continues on the next page].
 
 ---
 
@@ -15972,7 +15972,7 @@ As described in the Ṛk at hand, these two, being two luminous forms, are descr
 
 **Subhagā** — this word is read among the names of wealth: "*maghaṃ, reknaḥ*" etc. (Ni. 2-10 [?]); wealth of the excellent kind. Since in the Ṛk at hand it occurs along with the word for the Sun, the meaning here is wealth in the form of rays, as it is said to be the wealth of the deity.
 
-**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *iheha* — doubling by "*nityavīpsayoḥ*" (Pā. Sū. 8-1-4 [?]), the latter part becoming wholly unaccented by "*anudāttaṃ ca*"; *jātā* — root *janī prādurbhāve*, with *kta*; "*janasana-khanāṃ san-jhal-oḥ*" (Pā. Sū. 6-4-42 [?]) gives ā; the dual takes the ā-substitute; *āvāvaśītām* — root *vaś kāntau*, *yaj* in the sense of repetition, by "*dhātor-ekācaḥ…*" (Pā. Sū. 3-1-22 [?]); "*vyatyayo bahulam*" gives *laṅ* madhyama-puruṣa dual with prathama-puruṣa dual endings, *āḍāgama*; *ārepasā* — "*na vidyate repaḥ yayoḥ*", "*nañ subhyām*" (Pā. Sū. 6-2-172 [?]) gives acute on the last member; *supāṃ sulug*… the dual gets ā; *tenā* — acute-to-svarita by "*udāttasvaritayor yaṇaḥ*" (Pā. Sū. 8-2-4 [?]); *jiṣṇuḥ* — root *ji jaye*, suffix *kṣnu* by "*glājisthaś ca kṣnuḥ*" (Pā. Sū. 3-2-139 [?]); *subhagā* — bahuvrīhi; "*ādyudāttaṃ dvyac chandasi*" (Pā. Sū. 6-1-119 [?]) gives acute on the first syllable of the latter member; *ūhe* — root *vah prāpaṇe*, *liṭ* by "*chandasi luṅ-laṅ-liṭaḥ*", *eś*-substitute of the first person singular; *vaci-svapi-yajādīnāṃ kiti* (Pā. Sū. 6-1-15 [?]) gives *saṃprasāraṇa*; doubling; *nighāta* accent. (All sūtra numerals as read: `[?]`.)  ‖ 4 ‖
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *iheha* — doubling by "*nityavīpsayoḥ*" (Pā. Sū. 8-1-3), the latter part becoming wholly unaccented by "*anudāttaṃ ca*"; *jātā* — root *janī prādurbhāve*, with *kta*; "*janasana-khanāṃ san-jhal-oḥ*" (Pā. Sū. 6-4-42) gives ā; the dual takes the ā-substitute; *āvāvaśītām* — root *vaś kāntau*, *yaj* in the sense of repetition, by "*dhātor-ekācaḥ…*" (Pā. Sū. 3-1-22); "*vyatyayo bahulam*" gives *laṅ* madhyama-puruṣa dual with prathama-puruṣa dual endings, *āḍāgama*; *ārepasā* — "*na vidyate repaḥ yayoḥ*", "*nañ subhyām*" (Pā. Sū. 6-2-172) gives acute on the last member; *supāṃ sulug*… the dual gets ā; *tenā* — acute-to-svarita by "*udāttasvaritayor yaṇaḥ*" (Pā. Sū. 8-2-4); *jiṣṇuḥ* — root *ji jaye*, suffix *kṣnu* by "*glājisthaś ca kṣnuḥ*" (Pā. Sū. 3-2-139); *subhagā* — bahuvrīhi; "*ādyudāttaṃ dvyac chandasi*" (Pā. Sū. 6-2-119) gives acute on the first syllable of the latter member; *ūhe* — root *vah prāpaṇe*, *liṭ* by "*chandasi luṅ-laṅ-liṭaḥ*", *eś*-substitute of the first person singular; *vaci-svapi-yajādīnāṃ kiti* (Pā. Sū. 6-1-15) gives *saṃprasāraṇa*; doubling; *nighāta* accent. (All sūtra numerals as read: `[?]`.)  ‖ 4 ‖
 
 ### Sūkta 181, Ṛk 5  (printed p. 572; PDF 592)
 
@@ -16020,7 +16020,7 @@ In the previous ṛk the Aśvin deities were described as the Sun, Moon and Eart
 > *aśvinā pari vāmiṣaḥ purocīrīyurgīrbhiryatamānā amṛdhrāḥ |*
 > *ratho ha vāmṛtejā adrijūtaḥ pari dyāvāpṛthivī yāti sadyaḥ ‖*
 
-(Ṛ. Saṃ. 3-58-8 [?])
+(Ṛ. Saṃ. 3-58-8)
 
 > यूयं हि देवीरृतयुग्भिरश्वैः परिप्रयाथ भुवनानि सद्यः ।
 > प्रबोधयन्तीरुषसः ससन्तं द्विपाच्चतुष्पाच्चरथाय जीवम् ॥
@@ -16028,9 +16028,9 @@ In the previous ṛk the Aśvin deities were described as the Sun, Moon and Eart
 > *yūyaṃ hi devīrṛtayugbhiraśvaiḥ pariprayātha bhuvanāni sadyaḥ |*
 > *prabodhayantīruṣasaḥ sasantaṃ dvipāccatuṣpāccarathāya jīvam ‖*
 
-(Ṛ. Saṃ. 4-51-5 [?]) — as described in these ṛks etc., their chariot is of unobstructed motion in all the quarters, and goes round heaven, earth and the intermediate region, both at will and independently. This sense is conveyed by the sentence "*pra vāṃ nicheruḥ kakuho vaśāṃ anu*".
+(Ṛ. Saṃ. 4-51-5) — as described in these ṛks etc., their chariot is of unobstructed motion in all the quarters, and goes round heaven, earth and the intermediate region, both at will and independently. This sense is conveyed by the sentence "*pra vāṃ nicheruḥ kakuho vaśāṃ anu*".
 
-The word **kakuhaḥ** is read among the names of the great (*mahat*) (Ni. 3-13 [?]); hence, as an epithet of the chariot, it may mean an exceedingly excellent chariot. Or, **kakuhaḥ anu** may be taken to mean "in the ten quarters (moving independently)". The Nirukta-author has shown that the two words *kakubh* and *kakuha* are formed from the same root. The epithet **piśaṅgarūpaḥ** has been added to show the attractive colour of that chariot as it moves.
+The word **kakuhaḥ** is read among the names of the great (*mahat*) (Ni. 3-13); hence, as an epithet of the chariot, it may mean an exceedingly excellent chariot. Or, **kakuhaḥ anu** may be taken to mean "in the ten quarters (moving independently)". The Nirukta-author has shown that the two words *kakubh* and *kakuha* are formed from the same root. The epithet **piśaṅgarūpaḥ** has been added to show the attractive colour of that chariot as it moves.
 
 ### Printed p. 574  (PDF 594)
 
@@ -16098,7 +16098,7 @@ For the word **piśaṅgarūpaḥ** Sāyaṇa has explained "*hiraṇyarūpaḥ,
 
 > *vi rodasī atapadghoṣa eṣām |*
 
-(Ṛ. Saṃ. 3-31-10 [?]);
+(Ṛ. Saṃ. 3-31-10);
 
 > अयामि घोष इन्द्र ।
 
@@ -16240,7 +16240,7 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 (Ṛ. Saṃ. 1-180-6) — here Sāyaṇa has explained that if it is formed from the root *viṣ* the meaning is "pervading", and if from the root *iṣ* it is "desiring". In the ṛk at hand it means only "pervading everywhere": that is, the fruits come in abundance to the sacrificers.
 
-**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *śaradvān* — "*śaradaḥ asya santi*"; suffix *matup*; "*māduṣ-padhāyāś ca*" gives *va* for *ma*; the suffix, having *p*, is unaccented; *niṣṣāṭ* — root *saha marṣaṇe*, suffix *ṇvi* by "*chandasi sahaḥ*" (Pā. Sū. 3-2-63 [?]); "*ata upadhāyāḥ*" (Pā. Sū. 7-2-116 [?]) gives vṛddhi of the penultimate; "*sahes sāḍaḥ saḥ*" (Pā. Sū. 8-3-56 [?]) gives *ṣa* for the root's *sa*; the accent of the base of a word ending in a *kṛt* suffix; *madhvaḥ* — "*jasādiṣu chandasi vā vacanam*": no guṇa etc.; genitive in the sense of the object (*karmārtha*).
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *śaradvān* — "*śaradaḥ asya santi*"; suffix *matup*; "*māduṣ-padhāyāś ca*" gives *va* for *ma*; the suffix, having *p*, is unaccented; *niṣṣāṭ* — root *saha marṣaṇe*, suffix *ṇvi* by "*chandasi sahaḥ*" (Pā. Sū. 3-2-63); "*ata upadhāyāḥ*" (Pā. Sū. 7-2-116) gives vṛddhi of the penultimate; "*sahes sāḍaḥ saḥ*" (Pā. Sū. 8-3-56) gives *ṣa* for the root's *sa*; the accent of the base of a word ending in a *kṛt* suffix; *madhvaḥ* — "*jasādiṣu chandasi vā vacanam*": no guṇa etc.; genitive in the sense of the object (*karmārtha*).
 
 ### Printed p. 580  (PDF 600)
 
@@ -16288,7 +16288,7 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-**Vedhasā** — "*vidhātārau aśvinau*": in this ṛk the Aśvin deities are called the doers of creation. The word *vedhas* is read in the Nirukta among the names of the wise (Ni. 3-19 [?]). In many places this word is an epithet of a wise sacrificer. Though in one place the meaning "producer" may be possible, still, in the sense "producer of the sacrificial fruit", the word is not seen used in the sense of the creator of the world. But:
+**Vedhasā** — "*vidhātārau aśvinau*": in this ṛk the Aśvin deities are called the doers of creation. The word *vedhas* is read in the Nirukta among the names of the wise (Ni. 3-19). In many places this word is an epithet of a wise sacrificer. Though in one place the meaning "producer" may be possible, still, in the sense "producer of the sacrificial fruit", the word is not seen used in the sense of the creator of the world. But:
 
 ### Printed p. 582  (PDF 602)
 
@@ -16340,7 +16340,7 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 > *ajohavīnnāsatyā karā vāṃ mahe yāmanpurubhujā puraṃdhiḥ |*
 
-(Ṛ. Saṃ. 1-116-13 [?]) — for the word *yāman* in this ṛk Sāyaṇa explains "*yāti gacchatīti yāmaḥ stotram*" (praise), while Skandasvāmin explains "*yāmanti yoddhāro yasmin sa yāmaḥ saṃgrāmaḥ*" — "where warriors go, that is *yāma*, battle", the sense of war here; and
+(Ṛ. Saṃ. 1-116-13) — for the word *yāman* in this ṛk Sāyaṇa explains "*yāti gacchatīti yāmaḥ stotram*" (praise), while Skandasvāmin explains "*yāmanti yoddhāro yasmin sa yāmaḥ saṃgrāmaḥ*" — "where warriors go, that is *yāma*, battle", the sense of war here; and
 
 > इन्द्रं नमस्यन्नुपमेभिरर्कैर्यः स्तोत्रे भ्यो हव्यो अस्ति यामन् ।
 
@@ -16348,13 +16348,13 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 (Ṛ. Saṃ. 1-33-2 [?]) — for the word *yāman* in this ṛk Sāyaṇa explains "battle", and Skandasvāmin "sacrifice". In the ṛk at hand also the words *yāman; ayāman* may mean "going" and "not going", or "at the time of the sacrifice" and "at a time without sacrifice", or "at the time of battle" and "at a time without battle". The meaning is: hear our praise and be satisfied at all these times.
 
-**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *asarji* — root *sṛj visarge*; in Vedic usage *luṅ* in the passive; "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66 [?]) gives *ciṇ*-substitution for *cli*; with that as occasion, guṇa of the root's short penultimate; "*ciṇo luk*" (Pā. Sū. 6-4-104 [?]) elision of the *ta* suffix following; *āḍāgama* to the base; being in a *pādādi* position there is no *nighāta* accent; the augment having the acute, the first syllable becomes acute.
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *asarji* — root *sṛj visarge*; in Vedic usage *luṅ* in the passive; "*ciṇ bhāvakarmaṇoḥ*" (Pā. Sū. 3-1-66) gives *ciṇ*-substitution for *cli*; with that as occasion, guṇa of the root's short penultimate; "*ciṇo luk*" (Pā. Sū. 6-4-104) elision of the *ta* suffix following; *āḍāgama* to the base; being in a *pādādi* position there is no *nighāta* accent; the augment having the acute, the first syllable becomes acute.
 
 ### Printed p. 584  (PDF 604)
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 181"; page 584.)*
 
-*(Grammar page, continued, noted briefly):* *sthavirā* — root *ṣṭhā gatinivṛttau*; "*ajiraśiśira…*" (Un. Sū. 1-53 [?]) gives suffix *kirac* as an irregular formation ending in the suffix; the suffix's accent makes the middle syllable acute; in the feminine, as it ends in *a*, *ṭāp*; *vedhasā* — "*supāṃ sulug*" gives ā-substitution for the dual; vocative: *nighāta* accent; *tredhā* — "*dhā ca*" (Pā. Sū. 5-3-45 [?]): suffix *edhācc* added to *tri* in the sense of manner; "*yasyeti ca*" elides the *i*; "*citaḥ*" (Pā. Sū. 6-1-163 [?]) gives acute on the last syllable; *kṣarantī* — root *kṣar sañcalane*; *laṭ* with *śatṛ*-substitution; "*ugitaś ca*" (Pā. Sū. 4-1-6 [?]) gives *ṅīp* in the feminine; the *sārvadhātuka l* being unaccented, the root's accent remains; *upastutau* — *upa* + *ṣṭuñ stutau*; "*striyāṃ ktin*" gives suffix *ktin*; "*tādau ca niti*" (Pā. Sū. 6-2-50 [?]) gives the *gati* (*upa*) its own accent; *nādhamānam* — root *nāthṛ yācñāyām*; *laṭ*, *śānac*-substitution; *śap*; "*āneṃuk*" gives *muk* augment; "*tāsyanudāttet…*" the *sārvadhātuka l* being unaccented, the root's accent remains; *yāman* — root *yā prāpaṇe*; suffix *manin*; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives *luk* for the locative; so also in *ayāman*, *luk* has come; the *nañ* has the special accent of its own nature (*prakṛti-svara*); *śruṇutaṃ* — root *śru śravaṇe*; *loṭ* second-person dual; *nighāta* accent.  ‖ 7 ‖
+*(Grammar page, continued, noted briefly):* *sthavirā* — root *ṣṭhā gatinivṛttau*; "*ajiraśiśira…*" (Un. Sū. 1-53 [?]) gives suffix *kirac* as an irregular formation ending in the suffix; the suffix's accent makes the middle syllable acute; in the feminine, as it ends in *a*, *ṭāp*; *vedhasā* — "*supāṃ sulug*" gives ā-substitution for the dual; vocative: *nighāta* accent; *tredhā* — "*dhā ca*" (Pā. Sū. 5-3-46): suffix *edhācc* added to *tri* in the sense of manner; "*yasyeti ca*" elides the *i*; "*citaḥ*" (Pā. Sū. 6-1-163) gives acute on the last syllable; *kṣarantī* — root *kṣar sañcalane*; *laṭ* with *śatṛ*-substitution; "*ugitaś ca*" (Pā. Sū. 4-1-6) gives *ṅīp* in the feminine; the *sārvadhātuka l* being unaccented, the root's accent remains; *upastutau* — *upa* + *ṣṭuñ stutau*; "*striyāṃ ktin*" gives suffix *ktin*; "*tādau ca niti*" (Pā. Sū. 6-2-50) gives the *gati* (*upa*) its own accent; *nādhamānam* — root *nāthṛ yācñāyām*; *laṭ*, *śānac*-substitution; *śap*; "*āneṃuk*" gives *muk* augment; "*tāsyanudāttet…*" the *sārvadhātuka l* being unaccented, the root's accent remains; *yāman* — root *yā prāpaṇe*; suffix *manin*; "*supāṃ sulug*" (Pā. Sū. 7-1-39) gives *luk* for the locative; so also in *ayāman*, *luk* has come; the *nañ* has the special accent of its own nature (*prakṛti-svara*); *śruṇutaṃ* — root *śru śravaṇe*; *loṭ* second-person dual; *nighāta* accent.  ‖ 7 ‖
 
 ### Sūkta 181, Ṛk 8  (printed p. 584; PDF 604)
 
@@ -16439,7 +16439,7 @@ From the sentence **vāṃ vṛṣā meghaḥ daśasyan** the relation of cause 
 
 (Ṛ. Saṃ. 1-47-4 [?]; Sanskrit as read, first line doubtful [?]) — in ṛks such as these also, the prayer is that they sprinkle the sacrificial ground with sweet juice at the three times, and satisfy it. The same intention is implied in the ṛk at hand also; and in each context the epithets **madhumatī**, **mādhvī** etc. have been used. Hence, regarding the rain-giving connected with them, a particular purport must be told. That subject will be told fully further on, in the Special Topics of Ṛk 1-182-? [numeral doubtful] of this same part.
 
-**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *ruśataḥ* — root *ruś hiṃsāyām*, *tudādi*; since roots have many senses, it is used here in the sense of "shining"; *laṭ* with *śatṛ*-substitution; "*tāsyanudāttet…*" — the *sārvadhātuka l* being unaccented, the root's accent remains; genitive singular form; *pinvate* — root *pivi secane*; "*vyatyayo bahulam*" gives *ātmanepada*; "*iditonum dhātoḥ*" (Pā. Sū. 7-1-58 [?]) gives *num* augment; *laṭ* third person singular form; being after a *tiṅ*-final, *nighāta* accent; *vṛṣaṇā* — root *vṛṣu secane*, suffix *kanin* by "*kanin yuvṛṣi…*"; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives ā for the dual; "*vā ṣapūrvasya nigame*" (Pā. Sū. 6-4-9 [?]) the lengthening of the penultimate does not occur; vocative: *nighāta* accent; *pīpāya* — root *ōpyāyī vṛddhau*; "*chandasi luṅ-laṅ-liṭaḥ*" (Pā. Sū. 3-4-6 [?]) gives *liṭ* in the present sense; "*liṭy-abhyāsasyobhayeṣām*" … *pī* for the root; doubling; *ṇal*, *vṛddhi* of the *ī*; *āy*-substitution; *nighāta*; *seke* — root *ṣicir kṣaraṇe*; suffix *ghañ*; "*pugantalaghūpadhasya ca*" gives guṇa of the penultimate short vowel; "*cajoḥ kuḥ ghiṇṇyatoḥ*" (Pā. Sū. 7-3-52 [?]) gives *ku* for *c*; suffix with *ñ*, initial acute accent; *daśasyan* — *daśas dāne*; *kaṇḍvādi*; "*kaṇḍvādibhyo yak*" (Pā. Sū. 3-1-27 [?]) gives *yak* in the root's own sense; *laṭ* with *śatṛ* after the *yak*-final; *yak*'s accent remains; first (case), another form.  ‖ 8 ‖
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *ruśataḥ* — root *ruś hiṃsāyām*, *tudādi*; since roots have many senses, it is used here in the sense of "shining"; *laṭ* with *śatṛ*-substitution; "*tāsyanudāttet…*" — the *sārvadhātuka l* being unaccented, the root's accent remains; genitive singular form; *pinvate* — root *pivi secane*; "*vyatyayo bahulam*" gives *ātmanepada*; "*iditonum dhātoḥ*" (Pā. Sū. 7-1-58) gives *num* augment; *laṭ* third person singular form; being after a *tiṅ*-final, *nighāta* accent; *vṛṣaṇā* — root *vṛṣu secane*, suffix *kanin* by "*kanin yuvṛṣi…*"; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives ā for the dual; "*vā ṣapūrvasya nigame*" (Pā. Sū. 6-4-9) the lengthening of the penultimate does not occur; vocative: *nighāta* accent; *pīpāya* — root *ōpyāyī vṛddhau*; "*chandasi luṅ-laṅ-liṭaḥ*" (Pā. Sū. 3-4-6) gives *liṭ* in the present sense; "*liṭy-abhyāsasyobhayeṣām*" … *pī* for the root; doubling; *ṇal*, *vṛddhi* of the *ī*; *āy*-substitution; *nighāta*; *seke* — root *ṣicir kṣaraṇe*; suffix *ghañ*; "*pugantalaghūpadhasya ca*" gives guṇa of the penultimate short vowel; "*cajoḥ kuḥ ghiṇṇyatoḥ*" (Pā. Sū. 7-3-52) gives *ku* for *c*; suffix with *ñ*, initial acute accent; *daśasyan* — *daśas dāne*; *kaṇḍvādi*; "*kaṇḍvādibhyo yak*" (Pā. Sū. 3-1-27) gives *yak* in the root's own sense; *laṭ* with *śatṛ* after the *yak*-final; *yak*'s accent remains; first (case), another form.  ‖ 8 ‖
 
 ### Printed p. 588  (PDF 608)
 
@@ -16507,7 +16507,7 @@ For the word *puraṃdhi* the senses *prabhūta*, *pauṣkalya* (plenty) and *sa
 > *puṣyankṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*
 > *tenainamastautpūṣeti bharadvājastu pañcabhiḥ ‖*
 
-(Bṛ. De. 2-63 [?]) — "destroying darkness, the Earth gains growth, and since he nourishes it he is named *Pūṣan*": the Bṛhaddevatā sentence also suggests the same purport. Thus, since the chief meaning is "nourisher of the world", and since in the ṛk at hand the intention is that the sacrificer, with oblations, increases the sacrifice and helps in the nourishing of the world, here it may mean the sacrificer. Or it may mean Earth.
+(Bṛ. De. 2-63) — "destroying darkness, the Earth gains growth, and since he nourishes it he is named *Pūṣan*": the Bṛhaddevatā sentence also suggests the same purport. Thus, since the chief meaning is "nourisher of the world", and since in the ṛk at hand the intention is that the sacrificer, with oblations, increases the sacrifice and helps in the nourishing of the world, here it may mean the sacrificer. Or it may mean Earth.
 
 **Agniṃ uṣāṃ na** — in the Āśvina-śastra, Agni and Uṣas have the chief place among these deities; the fact that the *nareveretas* [?] hymns of praise there refer to Agni and Uṣas will be told later when the subject of the Āśvina-śastra is explained.
 
@@ -16587,7 +16587,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-**Vayunaṃ** — the word *vayuna* is read among the names of knowledge (Ni. 3-13 [?]); "*vayunaṃ vetheḥ kāntir vā prajñā vā*" (Ni. 5-13 [?]): formed from the root *vī*, which gives the sense of "to go, to wish", it gives the sense of desire or knowledge. The Nirukta-author, citing the ṛk
+**Vayunaṃ** — the word *vayuna* is read among the names of knowledge (Ni. 3-13); "*vayunaṃ vetheḥ kāntir vā prajñā vā*" (Ni. 5-15): formed from the root *vī*, which gives the sense of "to go, to wish", it gives the sense of desire or knowledge. The Nirukta-author, citing the ṛk
 
 > स इत्तमोऽवयुनं ततन्वत्सूर्येण वयुनवच्चकार ।
 > कदा ते मर्ता अमृतस्य धामेयक्षन्तो न मिनन्ति स्वधावः ॥
@@ -16595,7 +16595,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 > *sa ittamo 'vayunaṃ tatanvatsūryeṇa vayunavaccakāra |*
 > *kadā te martā amṛtasya dhāmeyakṣanto na minanti svadhāvaḥ ‖*
 
-(Ṛ. Saṃ. 6-21-3 [?]; first line as read [?]), explains "*sa tenoऽprajñānaṃ tatanvat stotaṃ sūryeṇa prajñānavac cakāra*" (Ni. 5-13 [?]) — that it gives the sense that he spread the darkness-of-ignorance, and by the Sun made it knowledge-bearing, i.e. made what was in the form of darkness and beyond the reach of the senses an object of knowledge.
+(Ṛ. Saṃ. 6-21-3; first line as read [?]), explains "*sa tenoऽprajñānaṃ tatanvat stotaṃ sūryeṇa prajñānavac cakāra*" (Ni. 5-15) — that it gives the sense that he spread the darkness-of-ignorance, and by the Sun made it knowledge-bearing, i.e. made what was in the form of darkness and beyond the reach of the senses an object of knowledge.
 
 ### Printed p. 594  (PDF 614)
 
@@ -16615,13 +16615,13 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 > *yajñaṃ vaṣṭu dhiyāvasuriti vāgvai dhiyāvasuḥ |*
 
-(Ai. Ā. 1-1-4 [?]) — by this sentence, in the Aitareya-Āraṇyaka the word *dhī* is explained as "praise". The word *dhī* is read in the Nirukta among the names of rite (Ni. 3-1 [?]) and among the names of knowledge (Ni. 3-13 [?]); and
+(Ai. Ā. 1-1-4 [?]) — by this sentence, in the Aitareya-Āraṇyaka the word *dhī* is explained as "praise". The word *dhī* is read in the Nirukta among the names of rite (Ni. 3-9) and among the names of knowledge (Ni. 3-13 [?]); and
 
 > महो अर्णः सरस्वती प्रचेतयति केतुना । धियो विश्वा वि राजति ॥
 
 > *maho arṇaḥ sarasvatī pracetayati ketunā | dhiyo viśvā vi rājati ‖*
 
-(Ṛ. Saṃ. 1-3-12) — for the word in this ṛk it is explained as "*sarvāṇi prajñānāni*" (Ni. 11-26 [?]): "all our speech endowed with wisdom, that is, meditation". And:
+(Ṛ. Saṃ. 1-3-12) — for the word in this ṛk it is explained as "*sarvāṇi prajñānāni*" (Ni. 11-27): "all our speech endowed with wisdom, that is, meditation". And:
 
 > पथस्पृथः परिपतिं वचस्या कामेन कृतो अभ्यानळर्कम् ।
 > स नो रासच्छुरुधश्चन्द्राग्रा धियंधियं सीषधाति प्र पूषा ॥
@@ -16631,7 +16631,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 (Ṛ. Saṃ. 6-49-8 [?]; as read, first words doubtful [?]) — in places such as these the word *dhī* means rites like sacrifice. Hence in the ṛk at hand it may be said that they are gladdeners of rite or of intellect.
 
-**Jinvati** — though the word *jinvati* is read among the names of motion (Ni. 2-6 [?]), in general this word shows delight in work. "*Jinvatiḥ prītikarmā*" (Ni. 6-22 [?]) — the Nirukta-author says, to show the delight suggested by this word, citing
+**Jinvati** — though the word *jinvati* is read among the names of motion (Ni. 2-6 [?]), in general this word shows delight in work. "*Jinvatiḥ prītikarmā*" (Ni. 6-22) — the Nirukta-author says, to show the delight suggested by this word, citing
 
 > भूमिं पर्जन्या जिन्वन्ति दिवं जिन्वन्त्यग्नयः ॥
 
@@ -16663,7 +16663,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 (Ṛ. Saṃ. 1-116-15).
 
-**Divaḥ napātā** — the word *napāt* means "son" and also "grandson". The Nirukta-author says: "*napād ity antarāyoḥ prajāyāḥ nāmadheyam*" [as read; Ni. 8-5 [?]] — that it is not a direct son; the word means grandsons etc. In the ṛk at hand, for *divaḥ napātā* Sāyaṇa explains "*ādityasya napātayitārau*". On the origin of the Aśvin deities, it has been told fully before in the Special Topics of Ṛk 1-181-4. To these the epithet *divaḥ napātā* comes in many places. Sāyaṇa does not give one meaning everywhere. In Ṛk 1-184-1 he explains *dyulokasya naptṛsthānīyau* ("in the position of grandsons of the heavenly world"), and:
+**Divaḥ napātā** — the word *napāt* means "son" and also "grandson". The Nirukta-author says: "*napād ity antarāyoḥ prajāyāḥ nāmadheyam*" [as read; Ni. 8-5] — that it is not a direct son; the word means grandsons etc. In the ṛk at hand, for *divaḥ napātā* Sāyaṇa explains "*ādityasya napātayitārau*". On the origin of the Aśvin deities, it has been told fully before in the Special Topics of Ṛk 1-181-4. To these the epithet *divaḥ napātā* comes in many places. Sāyaṇa does not give one meaning everywhere. In Ṛk 1-184-1 he explains *dyulokasya naptṛsthānīyau* ("in the position of grandsons of the heavenly world"), and:
 
 ### Printed p. 596  (PDF 616)
 
@@ -16679,7 +16679,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 **Śucivratā** — the word *śuci* means "purity" and also "shining". Here it is "those whose *vrata* (rite or deed of strength) is exceedingly extensive and shining".
 
-**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *abhūt* — in the beginning of a *pāda* there is no *nighāta* accent; the *āḍāgama* being acute, the first syllable is acute; *vayunam* — root *aja gatikṣepaṇayoḥ*; "*ajiyamiśī…*" (Un. Sū. 3-143 [?]) gives suffix *unan*; "*ajer vy-aghañapoḥ*" (Pā. Sū. 2-4-56 [?]) gives *vī* for the root; guṇa, *ay* substitution; by *vyatyaya* the suffix's initial acute accent; *bhūṣata* — root *bhūṣa alaṅkāre*, *bhvādi*; *loṭ* second person plural form; *nighāta* accent (as following a *tiṅ*); in Vedic usage lengthening in the Saṃhitā; *vṛṣaṇvān* — suffix *matup* after the word *vṛṣan*; "*ano nuṭ*" (Pā. Sū. 8-2-16 [?]) gives *nuḍāgama*; "*hrasvanuḍbhyāṃ matup*" (Pā. Sū. 6-1-176 [?]) — *matup* acute; *madata* — root *mada tṛptiyoge*; as the causative action is shown, it is *antarbhāvita-ṇyartha*; *loṭ* second person plural; by *vyatyaya* initial acute; *manīṣiṇaḥ* — "*manīṣā eṣām asti*"; "*ata iniṭhanau*": suffix *ini*; vocative plural; *nighāta* accent; *dhiyaṃjinvā* — root *jivi prīṇane*; "*kṛtyaluṭo bahulam*": from the *bahula* rule the suffix *khac* (accent by the sound of the rule); "*idito num dhātoḥ*" gives *num*; "*ici ekāco 'm pratyayavac ca*" (Pā. Sū. 6-3-68 [?]) gives *am* augment to the former; the accent of the *kṛdutta* last member gives final acute; "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) — ā-substitution for the dual (*au*); so also in *dhiṣṇyā*; *napātā* — "*na pātayitārau*; *nabhrāṇ napāt…*" (Pā. Sū. 6-3-75 [?]): the non-elision of *na* is irregularly established in the compound; ā-substitution of the dual as before; *nañ* — the former member keeps its own accent.
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *abhūt* — in the beginning of a *pāda* there is no *nighāta* accent; the *āḍāgama* being acute, the first syllable is acute; *vayunam* — root *aja gatikṣepaṇayoḥ*; "*ajiyamiśī…*" (Un. Sū. 3-143 [?]) gives suffix *unan*; "*ajer vy-aghañapoḥ*" (Pā. Sū. 2-4-56) gives *vī* for the root; guṇa, *ay* substitution; by *vyatyaya* the suffix's initial acute accent; *bhūṣata* — root *bhūṣa alaṅkāre*, *bhvādi*; *loṭ* second person plural form; *nighāta* accent (as following a *tiṅ*); in Vedic usage lengthening in the Saṃhitā; *vṛṣaṇvān* — suffix *matup* after the word *vṛṣan*; "*ano nuṭ*" (Pā. Sū. 8-2-16 [?]) gives *nuḍāgama*; "*hrasvanuḍbhyāṃ matup*" (Pā. Sū. 6-1-176 [?]) — *matup* acute; *madata* — root *mada tṛptiyoge*; as the causative action is shown, it is *antarbhāvita-ṇyartha*; *loṭ* second person plural; by *vyatyaya* initial acute; *manīṣiṇaḥ* — "*manīṣā eṣām asti*"; "*ata iniṭhanau*": suffix *ini*; vocative plural; *nighāta* accent; *dhiyaṃjinvā* — root *jivi prīṇane*; "*kṛtyaluṭo bahulam*": from the *bahula* rule the suffix *khac* (accent by the sound of the rule); "*idito num dhātoḥ*" gives *num*; "*ici ekāco 'm pratyayavac ca*" (Pā. Sū. 6-3-68) gives *am* augment to the former; the accent of the *kṛdutta* last member gives final acute; "*supāṃ sulug*" (Pā. Sū. 7-1-39) — ā-substitution for the dual (*au*); so also in *dhiṣṇyā*; *napātā* — "*na pātayitārau*; *nabhrāṇ napāt…*" (Pā. Sū. 6-3-75 [?]): the non-elision of *na* is irregularly established in the compound; ā-substitution of the dual as before; *nañ* — the former member keeps its own accent.
 
 ---
 
@@ -16791,7 +16791,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 > *idaṃ karaṇādityāgrayaṇaḥ |*
 
-(Ni. 10-8 [?]; as read) — "Since in the creation of the world he did everything (*idam asau sarvam akarot*)": if the word Indra is [taken to be] so formed, it is in agreement with "*asarji vāṃ sthavirā vedhasā…*"
+(Ni. 10-8; as read) — "Since in the creation of the world he did everything (*idam asau sarvam akarot*)": if the word Indra is [taken to be] so formed, it is in agreement with "*asarji vāṃ sthavirā vedhasā…*"
 
 ### Printed p. 600  (PDF 620)
 
@@ -16849,7 +16849,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 > *adhi vāṃ sthāmu vandhure rathe dasrā hiraṇyaye |*
 > *patheva yantāvanuśāsatā rajo 'ñjasā śāsatā rajaḥ ‖*
 
-(Ṛ. Saṃ. 1-119-4 [?]) — in many ṛks, such as these, it is shown by the epithets "*madhuvāhane rathe*" and "*hiraṇyaye rathe*". "*Hiraṇyaye rathe*" too, as before, means "in the chariot filled with honey (*madhu*)". Therefore, for the epithet **madhvaḥ** here, a special meaning must be told. How this *madhuvidyā* came to the Aśvin deities:
+(Ṛ. Saṃ. 1-139-4) — in many ṛks, such as these, it is shown by the epithets "*madhuvāhane rathe*" and "*hiraṇyaye rathe*". "*Hiraṇyaye rathe*" too, as before, means "in the chariot filled with honey (*madhu*)". Therefore, for the epithet **madhvaḥ** here, a special meaning must be told. How this *madhuvidyā* came to the Aśvin deities:
 
 > दध्यङ् ह यन्मध्वाथर्वणो वामश्वस्य शीर्ष्णा प्र यदीमुवाच ॥
 
@@ -16945,7 +16945,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 24 Sū. 182"; page 604.)*
 
-*(Grammar page, continued, noted briefly):* *rathyā* — "*rathaṃ arhataḥ iti rathyā*": "*rathād yat*" (Pā. Sū. 4-4-121 [?]) gives suffix *yat* in the sense of "worthy"; "*yasyeti ca*" (Pā. Sū. 6-4-148 [?]) elides *a*; "*tit svaritam*" (Pā. Sū. 6-1-185 [?]) gives svarita accent; ā-substitution for the dual. *rathītamā* — as before the suffix *tamap* in the sense of excess; "*anyeṣām api dṛśyate*" (Pā. Sū. 6-3-137 [?]) gives lengthening of the former member in the Saṃhitā; ā-substitution for the case ending. *pūrṇam* — root *pyai pālanapūraṇayoḥ*; "*niṣṭhā*" gives suffix *kta*; "*udoṣṭhyapūrvasya*" (Pā. Sū. 7-1-102 [?]) gives *u*; "*uraṇ raparaḥ*" gives *r* following; "*halī ca*" lengthens; "*radābhyāṃ niṣṭhāto naḥ*" (Pā. Sū. 8-2-42 [?]) gives *na* when *kta* follows *r*; "*raṣābhyāṃ no ṇaḥ*" gives *ṇa*; by the suffix accent final acute. *vahethe* — root *vaha prāpaṇe*; *laṭ* second person dual form; *nighāta* accent. *ācitam* — root *ciñ cayane*; *niṣṭhā*, suffix *kta*; as it has *k*, no guṇa; "*gatiranantaraḥ*" (Pā. Sū. 6-2-49 [?]) the *gati* (*ā*) has *nighāta* accent. *dāśvāṃsam* — root *dāś dāne*; "*dāśvān sāhvān mīḍhvāṃś ca*" (Pā. Sū. 6-1-12 [?]) — the suffix *kvasu* comes as irregular; second case singular: *num* augment because it has *u*; the suffix's accent. *yāthaḥ* — root *yā prāpaṇe*; *laṭ* second person dual form; *nighāta* accent.  ‖ 2 ‖
+*(Grammar page, continued, noted briefly):* *rathyā* — "*rathaṃ arhataḥ iti rathyā*": "*rathād yat*" (Pā. Sū. 4-3-121) gives suffix *yat* in the sense of "worthy"; "*yasyeti ca*" (Pā. Sū. 6-4-148) elides *a*; "*tit svaritam*" (Pā. Sū. 6-1-185) gives svarita accent; ā-substitution for the dual. *rathītamā* — as before the suffix *tamap* in the sense of excess; "*anyeṣām api dṛśyate*" (Pā. Sū. 6-3-137 [?]) gives lengthening of the former member in the Saṃhitā; ā-substitution for the case ending. *pūrṇam* — root *pyai pālanapūraṇayoḥ*; "*niṣṭhā*" gives suffix *kta*; "*udoṣṭhyapūrvasya*" (Pā. Sū. 7-1-102) gives *u*; "*uraṇ raparaḥ*" gives *r* following; "*halī ca*" lengthens; "*radābhyāṃ niṣṭhāto naḥ*" (Pā. Sū. 8-2-42) gives *na* when *kta* follows *r*; "*raṣābhyāṃ no ṇaḥ*" gives *ṇa*; by the suffix accent final acute. *vahethe* — root *vaha prāpaṇe*; *laṭ* second person dual form; *nighāta* accent. *ācitam* — root *ciñ cayane*; *niṣṭhā*, suffix *kta*; as it has *k*, no guṇa; "*gatiranantaraḥ*" (Pā. Sū. 6-2-49 [?]) the *gati* (*ā*) has *nighāta* accent. *dāśvāṃsam* — root *dāś dāne*; "*dāśvān sāhvān mīḍhvāṃś ca*" (Pā. Sū. 6-1-12 [?]) — the suffix *kvasu* comes as irregular; second case singular: *num* augment because it has *u*; the suffix's accent. *yāthaḥ* — root *yā prāpaṇe*; *laṭ* second person dual form; *nighāta* accent.  ‖ 2 ‖
 
 ### Sūkta 182, Ṛk 3  (printed p. 604; PDF 624)
 
@@ -17085,7 +17085,7 @@ Thus, since they are harmful to the sacrificers, the sacrificer there prays to t
 > *na yo varāya marutāmiva svanaḥ seneva sṛṣṭā divyā yathāśaniḥ |*
 > *agnirjambhaistigitairatti bharvati yodho na śatrūnsa vanā nyṛñjate ‖*
 
-(Ṛ. Saṃ. 1-143-5 [?]) — in ṛks such as these, the word *jambhaiḥ* is used as a synonym for the flames of Agni. "*jambhair dantair daṃṣṭrāsthānīyābhir jvālābhiḥ atti*" — he devours with the flames which stand for the teeth: the fierce fangs are compared to the flames of Agni. In like manner, in Ṛ. Saṃ. 1-144-4 [?] etc. such descriptions occur.
+(Ṛ. Saṃ. 1-143-5 [?]) — in ṛks such as these, the word *jambhaiḥ* is used as a synonym for the flames of Agni. "*jambhair dantair daṃṣṭrāsthānīyābhir jvālābhiḥ atti*" — he devours with the flames which stand for the teeth: the fierce fangs are compared to the flames of Agni. In like manner, in Ṛ. Saṃ. 1-148-4 etc. such descriptions occur.
 
 > असौ य एषि वीरको गृहंगृहं विचाकशत् ।
 > इमं जम्भसुतं पिब धानावन्तं करम्भिणमपूपवन्तमुक्थिनम् ॥
@@ -17113,7 +17113,7 @@ Thus, since they are harmful to the sacrificers, the sacrificer there prays to t
 
 — here the "juice" (*rasa*) in the form of bliss is indicated. As it has the epithet *ratnadhā*, it has been explained as "the bearer of many kinds of delightful juices". Likewise in the ṛk at hand also the fruit, excellent and delightful, is indicated.
 
-**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *jambhayatam* — root *jabhi nāśane*, *curādi*; "*satyāpapāśa…*" (Pā. Sū. 3-1-25 [?]) gives *ṇic* in the root's own sense; since it has *i*, *num* augment; *loṭ* second person dual form; in the beginning of a *pāda* there is no *nighāta* accent; the accent of *ṇic* remains. *rāyataḥ* — root *rai śabde*, *bhvādi*; *laṭ* with *śatṛ*-substitution; *śap* as *vikaraṇa*; *āy*-substitution; "*tāsyanudāttet…*" (Pā. Sū. 6-1-186 [?]) — the *sārvadhātuka l* being unaccented, the root's accent remains; second (case) plural form. *hatam* — root *hana hiṃsāgatyoḥ*; *loṭ* second person dual; since *lakṣaṇa*-no-*dyāva* applies, *tam*-substitution; "*adiprabhṛtibhyaḥ śapaḥ*" (Pā. Sū. 2-4-72 [?]) gives *luk* of *śap*; "*anudāttopadeśa-vanati…*" (Pā. Sū. 6-4-37 [?]) elides the root's *n*; being at the beginning of a *pāda* no *nighāta* accent; by the suffix accent, final acute. *vidathuḥ* — root *vida jñāne*; *laṭ* second person dual; "*vido laṭo vā*" (Pā. Sū. 3-4-83 [?]) gives *athus*-substitution; since the suffix has *ñ* [as read] there is no guṇa; by *vyatyaya* the suffix's initial acute. *vācaṃ-vācam* — "*nityavīpsayoḥ*" gives doubling; "*anudāttaṃ ca*" (Pā. Sū. 8-1-3 [?]) — the later repeated word is wholly unaccented. *kṛtam* — root *ḍukṛñ karaṇe*; *loṭ* second person dual, *tam*-substitution; "*bahulaṃ chandasi*" gives *luk* of the *vikaraṇa*; since the suffix has *ñ*, no guṇa; following a *tiṅ*-final, *nighāta* accent. *ubhā* — "*supāṃ sulug*" (Pā. Sū. 7-1-39 [?]) gives ā-substitution for the dual. *avatam* — root *ava rakṣaṇe*; *loṭ* second person dual form; *tiṅ*, *nighāta* accent.  ‖ 4 ‖
+**Vyākaraṇa-prakriyā** (grammar page, noted briefly): *jambhayatam* — root *jabhi nāśane*, *curādi*; "*satyāpapāśa…*" (Pā. Sū. 3-1-25) gives *ṇic* in the root's own sense; since it has *i*, *num* augment; *loṭ* second person dual form; in the beginning of a *pāda* there is no *nighāta* accent; the accent of *ṇic* remains. *rāyataḥ* — root *rai śabde*, *bhvādi*; *laṭ* with *śatṛ*-substitution; *śap* as *vikaraṇa*; *āy*-substitution; "*tāsyanudāttet…*" (Pā. Sū. 6-1-186) — the *sārvadhātuka l* being unaccented, the root's accent remains; second (case) plural form. *hatam* — root *hana hiṃsāgatyoḥ*; *loṭ* second person dual; since *lakṣaṇa*-no-*dyāva* applies, *tam*-substitution; "*adiprabhṛtibhyaḥ śapaḥ*" (Pā. Sū. 2-4-72 [?]) gives *luk* of *śap*; "*anudāttopadeśa-vanati…*" (Pā. Sū. 6-4-37 [?]) elides the root's *n*; being at the beginning of a *pāda* no *nighāta* accent; by the suffix accent, final acute. *vidathuḥ* — root *vida jñāne*; *laṭ* second person dual; "*vido laṭo vā*" (Pā. Sū. 3-4-83) gives *athus*-substitution; since the suffix has *ñ* [as read] there is no guṇa; by *vyatyaya* the suffix's initial acute. *vācaṃ-vācam* — "*nityavīpsayoḥ*" gives doubling; "*anudāttaṃ ca*" (Pā. Sū. 8-1-3) — the later repeated word is wholly unaccented. *kṛtam* — root *ḍukṛñ karaṇe*; *loṭ* second person dual, *tam*-substitution; "*bahulaṃ chandasi*" gives *luk* of the *vikaraṇa*; since the suffix has *ñ*, no guṇa; following a *tiṅ*-final, *nighāta* accent. *ubhā* — "*supāṃ sulug*" (Pā. Sū. 7-1-39) gives ā-substitution for the dual. *avatam* — root *ava rakṣaṇe*; *loṭ* second person dual form; *tiṅ*, *nighāta* accent.  ‖ 4 ‖
 
 ---
 
