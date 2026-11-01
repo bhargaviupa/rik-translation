@@ -473,7 +473,7 @@ Besides this:
 
 > *manyoriyāya harmyeṣu tasthau yataḥ prajajña indro asya veda |*
 
-(Ṛ. Saṃ. 10-63-10 [?]) — here (Indra) came from [the effect of] anger and stood in the house; so here too the sense is house.
+(Ṛ. Saṃ. 10-22-10) — here (Indra) came from [the effect of] anger and stood in the house; so here too the sense is house.
 
 At some places the word *harmya* denotes "one who lives in a house", but since in Ṛ. Saṃ. 7-55-6 it is clearly said to be a house or a building (English "building"), it cannot be that this word has any other kind of meaning; yet the use of this word is found also in the sense "pit".
 
@@ -481,7 +481,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 > *yadīṃ sukṣatra prabhṛtā madasya yuyutsantaṃ tamasi harmya dhāḥ |*
 
-(Ṛ. Saṃ. 5-32-5 [?]) — in this ṛk ("O Indra, you have thrown the Asura Śuṣṇa, who desired to fight, into the pit [*harmya*] with darkness") the sense is pit;
+(Ṛ. Saṃ. 5-32-5) — in this ṛk ("O Indra, you have thrown the Asura Śuṣṇa, who desired to fight, into the pit [*harmya*] with darkness") the sense is pit;
 
 > युवं कण्वायापिरिप्ताय हर्म्ये शश्वदूतीर्दशस्यथः ।
 
@@ -551,7 +551,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 > *acyutā cidvo ajmannā nānadati parvatāso vanaspatiḥ | bhūmiryāmeṣu rejate ‖*
 
-(Ṛ. Saṃ. 8-20-5 [?]) — in this ṛk the very matter spoken of in the present ṛk is described; it is said here that the earth too trembles. In this matter:
+(Ṛ. Saṃ. 8-70-4) — in this ṛk the very matter spoken of in the present ṛk is described; it is said here that the earth too trembles. In this matter:
 
 > नि वो यामाय मानुषो दध्र उग्राय मन्यवे । जिहीत पर्वतो गिरिः ॥
 
@@ -701,7 +701,7 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 > *alātṛṇo vala indra vrajo goḥ purā hantorbhayamāno vyāra | sugānpatho akṛṇonniraje gāḥ prāvanvāṇīḥ puruhūtaṃ dhanantīḥ ‖ [?]*
 
-(Ṛ. Saṃ. 2-30-10 [?]) It does not occur elsewhere. Sāyaṇa explains this word here: "*anātṛṇāsa ātardanarahitāḥ | athavā alaṃ paryāptamātardanāḥ śatrūṇām | yadvā alam atyarthaṃ dātāraḥ phalānām*" [as read]; and in his commentary on the ṛk *alātṛṇo vala indra vrajaḥ*, given as the example in the explanation of the present ṛk, he explains it as *bahūdakatayālam atyarthaṃ mātṛdyate himsyate ityalātṛṇaḥ* [as read]. The Nirukta-writer, in explaining this ṛk, says "*alātṛṇo valamātardano meghaḥ*" (Ni. 6-2 [?]); that is, "the Maruts who, for the water that is in the cloud, force it and exert strength so that it may rain". It cannot be said that merely because they are within the clouds they pour rain. The main purport is that the Maruts, impelled by the blow of the strongly blowing wind, pour rain, and in this way "harm" the clouds; or, as Sāyaṇa explains, it can be understood as "harming the enemies" or "giving special fruits to those who praise them".
+(Ṛ. Saṃ. 3-30-10) It does not occur elsewhere. Sāyaṇa explains this word here: "*anātṛṇāsa ātardanarahitāḥ | athavā alaṃ paryāptamātardanāḥ śatrūṇām | yadvā alam atyarthaṃ dātāraḥ phalānām*" [as read]; and in his commentary on the ṛk *alātṛṇo vala indra vrajaḥ*, given as the example in the explanation of the present ṛk, he explains it as *bahūdakatayālam atyarthaṃ mātṛdyate himsyate ityalātṛṇaḥ* [as read]. The Nirukta-writer, in explaining this ṛk, says "*alātṛṇo valamātardano meghaḥ*" (Ni. 6-2); that is, "the Maruts who, for the water that is in the cloud, force it and exert strength so that it may rain". It cannot be said that merely because they are within the clouds they pour rain. The main purport is that the Maruts, impelled by the blow of the strongly blowing wind, pour rain, and in this way "harm" the clouds; or, as Sāyaṇa explains, it can be understood as "harming the enemies" or "giving special fruits to those who praise them".
 
 The scholar Max Müller has pointed out the opinions of some Western scholars on the meaning of this word and criticised them. The meaning given by the Nirukta-writer, *alamātardano meghaḥ* — "the cloud which opens easily" (English in the source) — he has made clear; in his view the word *atardana* is formed from the root *tṛd*. Sāyaṇa, against this, says that this word is formed from the root *tṛ̥* meaning "to kill, to harm" (*kolla, hiṃsisu*), and has explained it accordingly. Professor Roth has said that the word *tardana* is formed from the root *rā dānē* (to give) with a prefix *tṛ* [?], and, since the word *ātardana* shows a negative sense, he has expressed the opinion that *ātardana* ought to mean "one who gives nothing" ("one who does not give or yield anything", English in the source). If this meaning is accepted, would not what is said in the words *skambhadeṣṇāḥ* and the like, in this very ṛk, about the generosity of the Maruts, become meaningless? Wilson: "Devoid of melevolence [sic]" (English in the source) — the English rendering he has made for this word does not seem to fit very well either. Therefore, if the word is to be explained so as to fit both the Maruts here, as an epithet, and the Asura named Vala in Ṛ. Saṃ. 2-30-10, it must be said that the word *alātṛṇa* is formed from the word *lātṛn*. This word *lātṛn* or *lātra* *[continues on the next page]*
 
@@ -793,7 +793,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > *sa nastrāsate duritādabhihrutaḥ śaṃsādaghādabhihrutaḥ |*
 
-(Ṛ. Saṃ. 1-128-5 [?]) — for the word *abhihrutaḥ* in this ṛk the Bhāṣyakāra, "*abhimukhyena pāpaiḥ hriyamāṇān so 'smān duritāt pāpāt trāsate trāyate*" [as read, doubtful], explains the meaning: "he protects us from sin, from assault, from evil speech, from harm." (English in the source: "He protects us from evil, from assault, from evil-speaking, from assault".)
+(Ṛ. Saṃ. 1-128-5) — for the word *abhihrutaḥ* in this ṛk the Bhāṣyakāra, "*abhimukhyena pāpaiḥ hriyamāṇān so 'smān duritāt pāpāt trāsate trāyate*" [as read, doubtful], explains the meaning: "he protects us from sin, from assault, from evil speech, from harm." (English in the source: "He protects us from evil, from assault, from evil-speaking, from assault".)
 
 > विश्वाद्रिरिक्षोरुत वा निनित्सोरभिह्रुतामसि हि देव विष्पट् ।
 
@@ -817,7 +817,7 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 > *tā hi kṣatramavihrutaṃ samyagasuryaṃ māśāte | [?]*
 
-(Ṛ. Saṃ. 5-66-2 [?])
+(Ṛ. Saṃ. 5-50-2)
 
 > विभ्राड् बृहत्पिबतु सोम्यं मध्वायुर्दधद्यज्ञपतावविह्रुतम् ।
 
