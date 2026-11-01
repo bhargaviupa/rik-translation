@@ -3158,5 +3158,29 @@
   "old": "3-4-99 [?]; 7-2-1 [?]; 6-1-193 [?]",
   "new": "3-4-99; 7-2-1; 6-1-193",
   "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (list for printed pp.611-657); changed: confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 293,
+  "printed": 273,
+  "status": "resolved",
+  "old": "1-170-4 [?]; 6-74-1 [?]",
+  "new": "1-170-4; 6-74-1",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (list for printed pp.267-279); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 296,
+  "printed": 276,
+  "status": "resolved",
+  "old": "1-167-4 [?]; 1-167-5 [?]",
+  "new": "1-167-4; 1-167-5",
+  "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (list for printed pp.267-279); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 291,
+  "printed": 271,
+  "status": "resolved",
+  "old": "Ni. 3-16 [?]; Ṛ. Saṃ. 5-32-2 [?]",
+  "new": "Ni. 3-16; Ṛ. Saṃ. 5-32-6",
+  "note": "User's list for pp.267-279: these two values appear under its page 272 (list page numbering one off here); Ni. 3-16 confirmed, 5-32-2 -> 5-32-6; not viewed by me."
  }
 ]

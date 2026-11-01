@@ -6721,13 +6721,13 @@ Heaven and earth are insufficient for the girth of that Indra, who, with his gre
 
 ***mahinā nṛbhyaḥ pra asti — mahattvena svaiśvaryeṇa netṛbhyaḥ karmanirvāhakebhyaḥ yajamānebhyaḥ prabhavati*** — By the power of his greatness, filled with majesty, Indra is worshipped by the sacrificers who carry out the sacrificial rites: so the meaning is given. The word *nṛ* is read among the names of horses (Ni. 1-... [?]) and among the names of men (Ni. 3-... [?]); here it is used in the sense of the sacrificers who perform the rites.
 
-***itthā*** — the word is read among the *satya* names ("truth"): *bṭ, śrat* and so on (Ni. 3-10 [?]). Showing the explanation of the word *itthā*, the Nirukta says: "*itthā amutheti etena vyākhyātam*" (Ni. 5-5 [?]) — "*itthā* is explained by the word *amuthā*", as said; "*amuthā yathāsāv iti vyākhyātam*" (Ni. 3-16 [?]) — *amuthā* is used both in the sense of "truly" and in the sense of "in that manner". Likewise the use of the word *itthā* is to be understood; so —
+***itthā*** — the word is read among the *satya* names ("truth"): *bṭ, śrat* and so on (Ni. 3-10 [?]). Showing the explanation of the word *itthā*, the Nirukta says: "*itthā amutheti etena vyākhyātam*" (Ni. 5-5 [?]) — "*itthā* is explained by the word *amuthā*", as said; "*amuthā yathāsāv iti vyākhyātam*" (Ni. 3-16) — *amuthā* is used both in the sense of "truly" and in the sense of "in that manner". Likewise the use of the word *itthā* is to be understood; so —
 
 > त्यं चिदित्था कत्पयं शयानमसूर्ये तमसि वावृधानम् ।
 
 > *tyaṃ cid itthā katpayaṃ śayānam asūrye tamasi vāvṛdhānam |* [as read: [?]]
 
-(Ṛ. Saṃ. 5-32-2 [?])
+(Ṛ. Saṃ. 5-32-6)
 
 ### Printed p. 272  (PDF 292)
 
@@ -6765,7 +6765,7 @@ Besides, the Nirukta-writers read the word *kakṣyā* among the names of "finge
 
 > *araṃ kṛṇvantu vediṃ sam agnim indhatāṃ puraḥ |*
 
-(Ṛ. Saṃ. 1-170-4 [?]) —
+(Ṛ. Saṃ. 1-170-4) —
 
 in such ṛks *araṃkṛta*, *araṃkṛṇvantu* mean "prepare, make ready"; and in
 
@@ -6779,7 +6779,7 @@ in such ṛks *araṃkṛta*, *araṃkṛṇvantu* mean "prepare, make ready"; a
 
 > *somārudrā dhārayethām asuryaṃ pra vām iṣṭayo 'ram aśnuvantu |*
 
-(Ṛ. Saṃ. 6-74-1 [?])
+(Ṛ. Saṃ. 6-74-1)
 
 and similar ṛks, the meaning is "sufficient to give satisfaction".
 
@@ -6889,7 +6889,7 @@ In such places Sāyaṇa explains it as "*senayā*" ("with the army"); it shows 
 
 > *parā śubhrā ayāso yavyā sādhāraṇyeva maruto mimikṣuḥ | na rodasī apa nudante ghorā juṣanta vṛdhaṃ sakhyāya devāḥ ‖*
 
-(Ṛ. Saṃ. 1-167-4 [?]) — in explaining this ṛk, as shown before:
+(Ṛ. Saṃ. 1-167-4) — in explaining this ṛk, as shown before:
 
 > रोदसा शब्देन रोदनस्वभावो रुद्रः । तस्य स्त्री रोदसीति केचिदाहुः । अपरे तु मरुतां स्त्रियो रोदसीति नामधेयमित्याहुः । अयमेव पक्षो युक्त उत्तरत्रैवं व्यवहारात् ।
 
@@ -6901,7 +6901,7 @@ By the word *rodasa*, Rudra, of weeping nature; his wife is *rodasī*, some say;
 
 > *joṣad yad īm asuryā sacadhyai viṣitastukā rodasī nṛmaṇāḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-167-5 [?]) — in explaining this ṛk he states that *rodasī* here is *marutpatnī* "Maruts' wife", *vidyut* "lightning"; she is the wife of the Maruts, or is known by this name *vidyut* ("lightning"). He has also quoted the passage in which this *rodasī* is stated to be present in the sight of (i.e. as an attendant of) the Maruts. Further, examining other cases where *rodasī* is used —
+(Ṛ. Saṃ. 1-167-5) — in explaining this ṛk he states that *rodasī* here is *marutpatnī* "Maruts' wife", *vidyut* "lightning"; she is the wife of the Maruts, or is known by this name *vidyut* ("lightning"). He has also quoted the passage in which this *rodasī* is stated to be present in the sight of (i.e. as an attendant of) the Maruts. Further, examining other cases where *rodasī* is used —
 
 > ते इदुग्राः शवसा धृष्णुषेणा उभे युजन्त रोदसी सुमेके । अध स्मैषु रोदसी स्वशोचिरामवत्सु तस्थौ न रोकः ॥
 
