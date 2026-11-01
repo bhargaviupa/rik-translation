@@ -185,7 +185,7 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 > *jyeṣṭhebhiryastejiṣṭhaiḥ krīḷumadbhirvarṣiṣṭhebhirbhānubhirnakṣati dyām |*
 
-(Ṛ. Saṃ. 10-3-5 [?]) In ṛks like these, with reference to Agni;
+(Ṛ. Saṃ. 10-3-25) In ṛks like these, with reference to Agni;
 
 > वृथा क्रीळन्त इन्दवः सधस्थमभ्येकमित् [?] । सिन्धोरूर्मा व्यक्षरन् ॥
 

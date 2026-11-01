@@ -3342,5 +3342,13 @@
   "old": "1-114-6 [?]",
   "new": "1-114-6",
   "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (list for printed pp.2-20 (tokens pooled over neighbouring pages, labels one page off in places)); changed: confirmed; not viewed by me."
+ },
+ {
+  "pdf": 29,
+  "printed": 9,
+  "status": "resolved",
+  "old": "Ṛ. Saṃ. 10-3-5 [?]",
+  "new": "Ṛ. Saṃ. 10-3-25",
+  "note": "Changed to the value in the user's list for pp.2-20 (user: 10-3-25 is correct); not viewed by me."
  }
 ]
