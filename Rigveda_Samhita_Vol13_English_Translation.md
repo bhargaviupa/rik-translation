@@ -10901,19 +10901,19 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 > *manuṣyāḥ pitaro devā gandharvoragarākṣasāḥ | gandharvāḥ pitaro devā asurā yakṣarākṣasāḥ ‖*
 
-(Bṛ. De. 7-68 [?]) — according to the first view, the *uraga* and the *rākṣasas* form one group; according to the second, the *yakṣas* and *rākṣasas* form one group.
+(Bṛ. De. 7-68) — according to the first view, the *uraga* and the *rākṣasas* form one group; according to the second, the *yakṣas* and *rākṣasas* form one group.
 
 > योऽस्कोपमन्यवावेतानाहतुः पञ्च वै जनान् । निषादपञ्चमान्वर्णान्मन्यते शाकटायनः ॥
 
 > *yo 'skopamanyavāv etān āhatuḥ pañca vai janān | niṣādapañcamān varṇān manyate śākaṭāyanaḥ ‖* [as read; first pāda doubtful: [?]]
 
-(Bṛ. De. 7-69 [?]). The authors of the Bṛhaddevatā say in this sentence that Yāska's view is the first. But in the Nirukta, only the opinions of others are stated; Yāska has not stated his own opinion definitely. Perhaps he accepted that very first one.
+(Bṛ. De. 7-69). The authors of the Bṛhaddevatā say in this sentence that Yāska's view is the first. But in the Nirukta, only the opinions of others are stated; Yāska has not stated his own opinion definitely. Perhaps he accepted that very first one.
 
 > ऋत्विजो यजमानं च शाकपूणिस्तु मन्यते ।
 
 > *ṛtvijo yajamānaṃ ca śākapūṇis tu manyate |*
 
-(Bṛ. De. 7-70 [?]). The four priests beginning with the *hotṛ*, together with the sacrificer, make five groups: this is Śākapūṇi's view.
+(Bṛ. De. 7-70). The four priests beginning with the *hotṛ*, together with the sacrificer, make five groups: this is Śākapūṇi's view.
 
 > चक्षुःश्रोत्रं मनो वाक्च प्राणश्चेत्यात्मवादिनः । गन्धर्वाप्सरसो देवा मनुष्याः पितरस्तथा ॥ सर्पाश्च ब्राह्मणे चैव श्रूयन्ते ह्यैतरेयके ॥
 
@@ -10941,7 +10941,7 @@ In the first meaning mentioned above, the word is used where the object that com
 
 > *prorór mitrāvaruṇā pṛthivyāḥ pra diva ṛṣvād bṛhataḥ sudānū | spaśo dadhāthe oṣadhīṣu vikṣv ṛdhag yato animiṣaṃ rakṣamāṇā ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 7-61-3 [?]) — in such ṛks it means "form" (*rūpa*) that is visible to the eye. In the ṛk at hand the root is used in the sense of *bādhā* (obstruction): "oppress the enemies, destroy them" is the meaning.
+(Ṛ. Saṃ. 7-40-3) — in such ṛks it means "form" (*rūpa*) that is visible to the eye. In the ṛk at hand the root is used in the sense of *bādhā* (obstruction): "oppress the enemies, destroy them" is the meaning.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
@@ -11203,7 +11203,7 @@ Quoting this sentence, together with the ṛk
 
 > *catvāri mahāntīti | veda bhoḥ iti hovāca ……………… vettha catvāri kyānīti veda bhoḥ iti hovāca vettha catvāri kyānāṃ kyānīti veda bhoḥ iti hovāca vettha catvāri arkāṇīti veda bhoḥ iti hovāca vettha caturo 'rkāṇām arkān iti veda bhoḥ iti hovāca ‖* [as read; dots in the print; *kyāni* doubtful: [?]]
 
-(Śa. Brā. 10-3-4-2 [?]). "Do you know the four great (truths)?" — "I know, sir." … "Do you know the four *ka*-things?" [*ka* = Prajāpati: as the Kannada explains "the truth connected with *Ka* (Prajāpati)"; the reading *kyāni* is doubtful: [?]] — "I know, sir." "Do you know the four *arkas*?" … The father asked whether he knew the four most secret truths of that kind, the nature of the four universal lights, and whether he had reflected on the truth that is the light of lights —
+(Śa. Brā. 10-6-4-1). "Do you know the four great (truths)?" — "I know, sir." … "Do you know the four *ka*-things?" [*ka* = Prajāpati: as the Kannada explains "the truth connected with *Ka* (Prajāpati)"; the reading *kyāni* is doubtful: [?]] — "I know, sir." "Do you know the four *arkas*?" … The father asked whether he knew the four most secret truths of that kind, the nature of the four universal lights, and whether he had reflected on the truth that is the light of lights —
 
 ### Printed p. 418  (PDF 438)
 
