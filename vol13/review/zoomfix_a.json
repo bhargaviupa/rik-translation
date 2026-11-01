@@ -3230,5 +3230,21 @@
   "old": "9-23 [?]; 6-1-186 [?]",
   "new": "9-23; 6-1-186",
   "note": "Reference inside longer parentheses missed by the earlier matcher; from the user's second pasted list (unpaged list (tokens pooled over pp.470-480, where its references occur)); changed: confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 491,
+  "printed": 471,
+  "status": "resolved",
+  "old": "Ṛ. Saṃ. 1-177-3 [?]",
+  "new": "Ṛ. Saṃ. 1-77-3",
+  "note": "Changed to the value in the user's list (user: 1-77-3 and 3-1-39 are right); not viewed by me."
+ },
+ {
+  "pdf": 500,
+  "printed": 480,
+  "status": "resolved",
+  "old": "Pā. Sū. 7-1-39 [?]",
+  "new": "Pā. Sū. 3-1-39",
+  "note": "Changed to the value in the user's list (user: 1-77-3 and 3-1-39 are right); not viewed by me."
  }
 ]

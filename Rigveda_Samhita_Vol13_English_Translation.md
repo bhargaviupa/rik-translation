@@ -12903,7 +12903,7 @@ In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā an
 
 (Ṛ. Saṃ. 10-85-39) — here *śaradaḥ śatam* means "a hundred years".
 
-***vṛṣaṇaḥ*** — the meanings contained in the words formed from *vṛṣan*, and the contexts of their use in the Ṛk-saṃhitā, have been explained earlier (Ṛ. Saṃ. 1-177-3 [?], printed "1-77-3"). In the present context it gives the sense "*puṃs*" — a male possessed of the capacity to sprinkle.
+***vṛṣaṇaḥ*** — the meanings contained in the words formed from *vṛṣan*, and the contexts of their use in the Ṛk-saṃhitā, have been explained earlier (Ṛ. Saṃ. 1-77-3, printed "1-77-3"). In the present context it gives the sense "*puṃs*" — a male possessed of the capacity to sprinkle.
 
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
@@ -13151,7 +13151,7 @@ The restraint of desire, being an extremely hard means, is here likened to battl
 - ***aśnavāva*** — root *aśū vyāptau*, *svādi* class; by "*vyatyayo bahulam*" (Pā. Sū. 3-1-85 [?]) *parasmaipada*; *loṭ*, first person dual; *tiṅ*-final *nighāta* accent.
 - ***jayāva*** — root *ji jaye*; *loṭ*, first person dual; being in *pādādi* position, no *nighāta*; the *lasārvadhātuka* is *anudātta*, so the root accent remains.
 - ***śatanītham*** — root *nīñ prāpaṇe*; by "*panikuṣinīramikāśibhyaḥ kthan*" (Uṇ. Sū. 2-[?]) the suffix *kthan*; in a *bahuvrīhi* compound, by "*bahuvrīhau prakṛtyā pūrvapadam*" the fore-member keeps its natural accent; accusative singular.
-- ***samyañcā*** — by "*supāṃ sulukpūrvasavarṇa…*" (Pā. Sū. 7-1-39 [?]) *ā* in place of the dual *au*.
+- ***samyañcā*** — by "*supāṃ sulukpūrvasavarṇa…*" (Pā. Sū. 3-1-39) *ā* in place of the dual *au*.
 - ***ājāva*** — root *aja gatikṣepaṇayoḥ*; *loṭ*, first person dual; because of *yad*-connection no *nighāta*; the root accent remains. ‖ 3 ‖
 
 ---
