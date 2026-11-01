@@ -4254,5 +4254,13 @@
   "old": "10-63-15 [?]",
   "new": "10-63-16",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 10-63-15->10-63-16; not viewed by me."
+ },
+ {
+  "pdf": 81,
+  "printed": 61,
+  "status": "resolved",
+  "old": "1-153-3 [?]; 4-9 [?]",
+  "new": "1-185-3; 3-9",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 1-153-3->1-185-3, 4-9->3-9; not viewed by me."
  }
 ]

@@ -1400,7 +1400,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 > *aneho dātramaditeranarvaṃ huve svarvadavadhaṃ namasvat |*
 
-(Ṛ. Saṃ. 1-153-3 [?])
+(Ṛ. Saṃ. 1-185-3)
 
 > युवं हि स्थो रयिदौ नो रयीणां दात्रं रक्षेथे अकवैरदब्धा ।
 
@@ -1414,7 +1414,7 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 (Ṛ. Saṃ. 6-20-2) — in ṛks like these, and in the ṛks beginning Ṛ. Saṃ. 2-38-10 [?]; 8-43-33 [?]; 10-67-8 [?]; 8-44-10 [?] and others, the word *dātra* has simply the sense "giving, bestowing".
 
-***aditeriva*** — the word *aditi* is read among the names of the earth (Ni. 1-1 [?]), among the names of speech (Ni. 1-11 [?]), among the names of the cow (Ni. 4-9 [?]), and among the names of heaven and earth (in the dual) (Ni. 4-22 [?]). Besides this Yāska has said "*aditir adīnā devamātā*" (Ni. 4-22 [?]) ["Aditi, the not-poor, the mother of the gods"]. The derivation and the like and the explanation of the meaning of this word we have already given at length earlier.
+***aditeriva*** — the word *aditi* is read among the names of the earth (Ni. 1-1 [?]), among the names of speech (Ni. 1-11 [?]), among the names of the cow (Ni. 3-9), and among the names of heaven and earth (in the dual) (Ni. 4-22 [?]). Besides this Yāska has said "*aditir adīnā devamātā*" (Ni. 4-22 [?]) ["Aditi, the not-poor, the mother of the gods"]. The derivation and the like and the explanation of the meaning of this word we have already given at length earlier.
 
 ***cana*** — *caneti ayaṃ yadyapi nipātatve 'pi samudāyarūpa eko nipātaḥ tathāpy avayavavibhāgena caśabdaḥ samuccaye naśabdo niṣedhe 'dhigantavyaḥ*: although the word *cana* is regarded as one word made up of two particles, if its parts are divided the particle *ca* indicates conjunction and the particle *na* indicates negation. The use of this word to emphasize negation ("not even") is found in many ṛks:
 
