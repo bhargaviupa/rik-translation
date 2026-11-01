@@ -3310,5 +3310,13 @@
   "old": "Ṛ. Saṃ. 1-117 [?]-11; Tai. Brā. 2-7-11-1 [?]; 10-60-6 [?]; Atharvaveda 5-32-3 [?]",
   "new": "Ṛ. Saṃ. 1-117-11; Tai. Brā. 2-7-11-1; 10-60-6; Atharvaveda 2-32-3",
   "note": "From the user's front-matter/p.1 list (main-text tokens); 5-32-3 -> 2-32-3 is a one-digit change; not viewed by me."
+ },
+ {
+  "pdf": 22,
+  "printed": 2,
+  "status": "resolved",
+  "old": "Tai. Saṃ. 6-5-5-3 [?]",
+  "new": "Tai. Saṃ. 7-5-5-2",
+  "note": "Changed to the value in the user's front-matter list (user: 7-5-5-2 is correct); not viewed by me."
  }
 ]
