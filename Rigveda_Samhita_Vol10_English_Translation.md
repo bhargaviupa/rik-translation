@@ -53,15 +53,15 @@ That is, in the ṛks seen by this seer repetition (*abhyāsa*, twofold utteranc
 
 (printed *jādavedasaṃ* in the first place, *jātavedasaṃ* in the second [sic?]). In this ṛk the word *jātavedasam* is repeated twice; between the repetitions are the words *vipraṃ na*. This repeated word always stands at the end of the sentence.
 
-> निष्ठमानो यमुते नायते धन्वासहा नायते ।
+> निष्ण[?]हमाणो यमते नायते धन्वासहा नायते ।
 
-> *niṣṭhamāno yamute nāyate dhanvāsahā nāyate |*
+> *niṣṇa[?]hamāṇo yamate nāyate dhanvāsahā nāyate |*
 
-[printed in small type; the first words are read doubtfully, `[?]`]. In this ṛk the words *nāyate* are repeated twice, and between them stands the word *dhanvāsahā*. Yāska explains this matter of repetition by saying "*abhyāse bhūyāṃsam arthaṃ manyante yathāho darśanīyāho darśanīyeti*" and giving its meaning. The commentators on the Nirukta say of this sentence:
+[printed in small type; read letter by letter from a zoom: the subscript of the first conjunct (*ṣṇ*) is not certain, `[?]`; the second word was formerly read *yamute*, now *yamate* (the hook is the plain *ya*/*ma* hook)]. In this ṛk the words *nāyate* are repeated twice, and between them stands the word *dhanvāsahā*. Yāska explains this matter of repetition by saying "*abhyāse bhūyāṃsam arthaṃ manyante yathāho darśanīyāho darśanīyeti*" and giving its meaning. The commentators on the Nirukta say of this sentence:
 
-> अभ्यासे भूयांसमर्थं मन्यन्ते । शब्दाभ्यासे यत्रान्यो विशेषो नास्ति तत्रैवं विशेषमाचार्या मन्त्रार्थसतत्त्वविदो मन्यन्ते-यदुतार्थ-भूयस्त्वमिति । न हि कस्मात् स एव शब्दः पुनरभ्यस्यते । लोकेऽपि चैतद् दृष्टं शब्दाभ्यासेऽर्थभूयस्त्वमिति । यथा-अहो दर्शनीये! अहो दर्शनीये! इति । गुणातिशये हि स्त्रियाः शब्दाभ्यासः । तस्मान्मन्त्रेष्वपि तद्देवेति [?] न्याय्यम् ॥
+> अभ्यासे भूयांसमर्थं मन्यन्ते । शब्दाभ्यासे यत्रान्यो विशेषो नास्ति तत्रैवं विशेषमाचार्या मन्त्रार्थसतत्त्वविदो मन्यन्ते-यदुतार्थ-भूयस्त्वमिति । न हि कस्मात् स एव शब्दः पुनरभ्यस्यते । लोकेऽपि चैतद् दृष्टं शब्दाभ्यासेऽर्थभूयस्त्वमिति । यथा-अहो दर्शनीये! अहो दर्शनीये! इति । गुणातिशये हि स्त्रियाः शब्दाभ्यासः । तस्मान्मन्त्रेष्वपि तद्वदेवेति न्याय्यम् ॥
 
-> *abhyāse bhūyāṃsamarthaṃ manyante | śabdābhyāse yatrānyo viśeṣo nāsti tatraivaṃ viśeṣamācāryā mantrārthasatattvavido manyante-yadutārtha-bhūyastvamiti | na hi kasmāt sa eva śabdaḥ punarabhyasyate | loke 'pi caitad dṛṣṭaṃ śabdābhyāse 'rthabhūyastvamiti | yathā-aho darśanīye! aho darśanīye! iti | guṇātiśaye hi striyāḥ śabdābhyāsaḥ | tasmānmantreṣvapi taddeveti [?] nyāyyam ‖*
+> *abhyāse bhūyāṃsamarthaṃ manyante | śabdābhyāse yatrānyo viśeṣo nāsti tatraivaṃ viśeṣamācāryā mantrārthasatattvavido manyante-yadutārtha-bhūyastvamiti | na hi kasmāt sa eva śabdaḥ punarabhyasyate | loke 'pi caitad dṛṣṭaṃ śabdābhyāse 'rthabhūyastvamiti | yathā-aho darśanīye! aho darśanīye! iti | guṇātiśaye hi striyāḥ śabdābhyāsaḥ | tasmānmantreṣvapi tadvadeveti nyāyyam ‖*
 
 That is, when one word is uttered twice in a sentence, if the pair of utterances do not have two different meanings, the repetition of the word indicates an excess of meaning — that is, it is used to give prominence to the matter that was stated, or to make the matter settle well in the mind. For example, when describing a woman's beauty one says "aho darśanīye, aho darśanīye" ("oh how beautiful, oh how beautiful"). At that point the doubling of the word expresses "ah, what beauty — what beauty!" and so makes the excess of beauty plain; this is a usage in the language of the world. Likewise it should be understood here. But Sāyaṇa ordinarily explains the repeated words of these ṛks by giving them different meanings.
 

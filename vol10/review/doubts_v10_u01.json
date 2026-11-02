@@ -1,0 +1,38 @@
+[
+ {
+  "pdf": 7,
+  "printed": -14,
+  "crop": [
+   0.761,
+   0.814,
+   0.167,
+   0.804
+  ],
+  "note": "ZOOMED, UNDECIDED: eight middle references of the seer's-name list; glyphs too blurred/ambiguous at 450 dpi, kept [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 9,
+  "printed": -12,
+  "crop": [
+   0.393,
+   0.424,
+   0.226,
+   0.669
+  ],
+  "note": "ZOOMED, read: निष्ण[?]हमाणो यमते नायते धन्वासहा नायते (subscript of ṣṇa uncertain; ya-ma-te with hooked ya/ma)",
+  "answer": ""
+ },
+ {
+  "pdf": 9,
+  "printed": -12,
+  "crop": [
+   0.58,
+   0.614,
+   0.226,
+   0.508
+  ],
+  "note": "ZOOMED, read: तद्वदेवेति (second consonant read as d+va-subscript, fairly sure)",
+  "answer": ""
+ }
+]
