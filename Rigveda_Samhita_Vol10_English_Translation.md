@@ -4428,18 +4428,18 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 
 **॥ संहितापाठः ॥**
 
-> आसां पूर्वासामहसु [?] स्वसृणामपरा पूर्वामभ्येति पश्चात् ।
+> आसां पूर्वासामहसु स्वसृणामपरा पूर्वामभ्येति पश्चात् ।
 > ताः प्रत्नवन्नव्यसीर्नूनमस्मे रेवदुच्छन्तु सुदिना उषासः ॥ ९ ॥
 
-> *āsāṃ pūrvāsāmahasu [?] svasṛṇāmaparā pūrvāmabhyeti paścāt |*
+> *āsāṃ pūrvāsāmahasu svasṛṇāmaparā pūrvāmabhyeti paścāt |*
 > *tāḥ pratnavannavyasīrnūnamasme revaducchantu sudinā uṣāsaḥ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
-> आसाम् । पूर्वासाम् । अहऽसु [?] । स्वसृऽणाम् । अपरा । पूर्वाम् । अभि । एति । पश्चात् ।
+> आसाम् । पूर्वासाम् । अहऽसु । स्वसृऽणाम् । अपरा । पूर्वाम् । अभि । एति । पश्चात् ।
 > ताः । प्रत्नऽवत् । नव्यसीः । नूनम् । अस्मे इति । रेवत् । उच्छन्तु । सुऽदिनाः । उषसः ॥ ९ ॥
 
-> *āsām | pūrvāsām | aha 'su [?] | svasṛ 'ṇām | aparā | pūrvām | abhi | eti | paścāt |*
+> *āsām | pūrvāsām | aha 'su | svasṛ 'ṇām | aparā | pūrvām | abhi | eti | paścāt |*
 > *tāḥ | pratna 'vat | navyasīḥ | nūnam | asme iti | revat | ucchantu | su 'dināḥ | uṣasaḥ ‖ 9 ‖*
 
 *(The word "ahasu/ahaḥsu" is doubtful in the print; the bhāṣya below reads it as *ahan ahani* — I do not complete it from memory.)*
