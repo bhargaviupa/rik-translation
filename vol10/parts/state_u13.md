@@ -1,0 +1,9 @@
+# u13 state (PDF 170-183)
+- p.170 (printed 149): Ṛ. Saṃ. 1-61-16 [?] removed (sheet 1-61, raw context -16, image agrees). p.171: 8-9-? -> 8-9-17 (zoom + sheet 8-9-17).
+- p.176: "satyajāmiṃ [?]" -> [?] removed (zoom: letters sa-tya-jā-miṃ clear; sense not understood; note kept).
+- p.180 bhāṣya (zoomed): "pitryaṃ gehaṃ [?]" -> "pitr[?]neti" (tra + unclear vowel sign; kept [?]); "sa nivocita..." -> "sa evocita..."; "tadabhāvāptikarameva" -> "tadabhāvātpitarameva"; "sasaivayameva" -> "svayameva"; "pitraiva bhūtaṃ" -> "pitṛbhūtaṃ"; "atrāpīti [?] ... yadhyadhiṣṭhitaṃ [?]" -> "atraucityena ... nirṇetṛbhiścādhiṣṭhitaṃ"; "yoṣitsvānāṃ svakīyairikthānāṃ" -> "yoṣiddhanānāṃ svakīyarikthānāṃ"; "cedeṣvasmai saṃtāḍya [?]" -> "ced[?]ḥ saṃtāḍya" (word before visarga unclear); "ayamuṣaso dṛṣṭāntaḥ" -> "ayamaparo dṛṣṭāntaḥ" (hooked ma); "santāna" -> "saṃtāna". English: "father's home" -> "her father (printed word pitr?neti not quite certain)". NOT changed: "satī eti" (print has sandhi "satyeti"), "śmaśāna" s/ś.
+- p.181: "pitryaṃ netya.." -> "pitr[?]netya.." (as p.180); "dākṣiṇātyā [?]" -> "dākṣiṇājā" (as printed; Kannada gloss has dākṣiṇātya); "tatrābhrairabhraśnanti [?]" -> "tatrākṣyairāṣṇanti [?]" (conjuncts broken, [?] kept); "ṛtukāle 'ṣā [?] hasanena" -> "ṛtukāleṣūṣā hasaneva" (strip reading, fairly sure); "santāna"->"saṃtāna".
+- p.182: same Nirukta quote: pitr[?]neti, saṃtāna, "dākṣiṇājī" (as printed); note updated.
+- p.183: Ni quote "tatrākṣyairāṣṇanti [?]"; śruti quote "[?]oparasyāvi[?]ṣṇuryād" -> "noparasyāviṣkuryādyaduparasyāviṣkuryādgarteṣṭhāḥ" (zoom: hook under ṣka = u sign; fairly sure); "gurateraparṇo" -> "guruterapagūrṇo" (zoom).
+- DONE PDF 170-183. [?] places (qlist count) 30 -> 14, all remaining on p.180-183 are the three words above (pitr?neti, ced?ḥ, tatrākṣyairāṣṇanti).
+- Page-number check: printed numbers on images 149, 150, 155, 159, 160, 161, 162 agree with headings.
