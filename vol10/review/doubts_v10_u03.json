@@ -1,0 +1,38 @@
+[
+ {
+  "pdf": 43,
+  "printed": 22,
+  "crop": [
+   0.423,
+   0.458,
+   0.239,
+   0.857
+  ],
+  "note": "ZOOMED, read: शब्दनार्थस्य (print has ना; no gap-letter after ghañantasya, [?] removed)",
+  "answer": ""
+ },
+ {
+  "pdf": 44,
+  "printed": 23,
+  "crop": [
+   0.739,
+   0.762,
+   0.233,
+   0.778
+  ],
+  "note": "ZOOMED, read: मदच्युतः (hooked ma)",
+  "answer": ""
+ },
+ {
+  "pdf": 45,
+  "printed": 24,
+  "crop": [
+   0.468,
+   0.486,
+   0.264,
+   0.534
+  ],
+  "note": "ZOOMED, read: रथाञ्छ्यावान्स्नीड्वङ्गान्नै; print differs from earlier सैन्धवां; स्नी/नै UNDECIDED",
+  "answer": ""
+ }
+]
