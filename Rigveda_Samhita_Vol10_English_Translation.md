@@ -4188,9 +4188,9 @@ But in the present ṛk the meaning of this word comes out in a wider extent, as
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
 
-> पतिं भोगाय कांक्षन्ती तेन सह संक्रीडते तथेयमुषा अतिनैशेनान्धकारेणावृतत्वान्मलिनवसनापि प्रभाते स्वतेजसावृतत्वात्सुवसना सती पतिस्थानीयेन सूर्येण साकं संक्रीडमाना हस्रेव हसनेवाप्सो दन्तस्थानीयानि रूपाणि नीलपीतादीनि । यद्वा । निरूप्यमाणानि पदार्थजातानि नि रिणीते । नितरां रिणीते गमयति । प्रकाशयतीत्यर्थः । यथा लोके काचिद्रमणीया योषित्स्मितव्याजेन दन्तान्विवृणुते तथेयमुषा अपि सर्वाणि रूपाणि प्रकाशयतीत्यर्थः । अयं मन्त्रो निरुक्ते स्पष्टं व्याख्यातः । अभ्रातृकेव पुंसः पित्र्यं नेत्यभिमुखी सन्तानकर्मणे पिण्डदानाय न पतिं गर्तारोहिणीव धनलाभाय दाक्षिणात्या [?] । गर्तः सभास्थाणुर्गृणातेः । सत्यसंगरो भवति । तं तत्र या पुत्रा या पतिका सारोहति तां तत्राभ्रैरभ्रश्नन्ति [?] सा रिक्थं लभत इति । जायेव पत्ये कामयमाना सुवासा ऋतुकालेऽषा [?] हसनेन दन्तान्निवृणुते । नि. ३-५ । इति च ॥
+> पतिं भोगाय कांक्षन्ती तेन सह संक्रीडते तथेयमुषा अतिनैशेनान्धकारेणावृतत्वान्मलिनवसनापि प्रभाते स्वतेजसावृतत्वात्सुवसना सती पतिस्थानीयेन सूर्येण साकं संक्रीडमाना हस्रेव हसनेवाप्सो दन्तस्थानीयानि रूपाणि नीलपीतादीनि । यद्वा । निरूप्यमाणानि पदार्थजातानि नि रिणीते । नितरां रिणीते गमयति । प्रकाशयतीत्यर्थः । यथा लोके काचिद्रमणीया योषित्स्मितव्याजेन दन्तान्विवृणुते तथेयमुषा अपि सर्वाणि रूपाणि प्रकाशयतीत्यर्थः । अयं मन्त्रो निरुक्ते स्पष्टं व्याख्यातः । अभ्रातृकेव पुंसः पित्र[?]नेत्यभिमुखी संतानकर्मणे पिण्डदानाय न पतिं गर्तारोहिणीव धनलाभाय दाक्षिणाजा । गर्तः सभास्थाणुर्गृणातेः । सत्यसंगरो भवति । तं तत्र या पुत्रा या पतिका सारोहति तां तत्राक्ष्यैराष्णन्ति [?] सा रिक्थं लभत इति । जायेव पत्ये कामयमाना सुवासा ऋतुकालेषूषा हसनेव दन्तान्निवृणुते । नि. ३-५ । इति च ॥
 
-> *patiṃ bhogāya kāṃkṣantī tena saha saṃkrīḍate tatheyamuṣā atinaiśenāndhakāreṇāvṛtatvānmalinavasanāpi prabhāte svatejasāvṛtatvātsuvasanā satī patisthānīyena sūryeṇa sākaṃ saṃkrīḍamānā hasreva hasanevāpso dantasthānīyāni rūpāṇi nīlapītādīni | yadvā | nirūpyamāṇāni padārthajātāni ni riṇīte | nitarāṃ riṇīte gamayati | prakāśayatītyarthaḥ | yathā loke kācidramaṇīyā yoṣitsmitavyājena dantānvivṛṇute tatheyamuṣā api sarvāṇi rūpāṇi prakāśayatītyarthaḥ | ayaṃ mantro nirukte spaṣṭaṃ vyākhyātaḥ | abhrātṛkeva puṃsaḥ pitryaṃ netyabhimukhī santānakarmaṇe piṇḍadānāya na patiṃ gartārohiṇīva dhanalābhāya dākṣiṇātyā [?] | gartaḥ sabhāsthāṇurgṛṇāteḥ | satyasaṃgaro bhavati | taṃ tatra yā putrā yā patikā sārohati tāṃ tatrābhrairabhraśnanti [?] sā rikthaṃ labhata iti | jāyeva patye kāmayamānā suvāsā ṛtukāle 'ṣā [?] hasanena dantānnivṛṇute | ni. 3-5 | iti ca ‖*
+> *patiṃ bhogāya kāṃkṣantī tena saha saṃkrīḍate tatheyamuṣā atinaiśenāndhakāreṇāvṛtatvānmalinavasanāpi prabhāte svatejasāvṛtatvātsuvasanā satī patisthānīyena sūryeṇa sākaṃ saṃkrīḍamānā hasreva hasanevāpso dantasthānīyāni rūpāṇi nīlapītādīni | yadvā | nirūpyamāṇāni padārthajātāni ni riṇīte | nitarāṃ riṇīte gamayati | prakāśayatītyarthaḥ | yathā loke kācidramaṇīyā yoṣitsmitavyājena dantānvivṛṇute tatheyamuṣā api sarvāṇi rūpāṇi prakāśayatītyarthaḥ | ayaṃ mantro nirukte spaṣṭaṃ vyākhyātaḥ | abhrātṛkeva puṃsaḥ pitr[?]netyabhimukhī saṃtānakarmaṇe piṇḍadānāya na patiṃ gartārohiṇīva dhanalābhāya dākṣiṇājā | gartaḥ sabhāsthāṇurgṛṇāteḥ | satyasaṃgaro bhavati | taṃ tatra yā putrā yā patikā sārohati tāṃ tatrākṣyairāṣṇanti [?] sā rikthaṃ labhata iti | jāyeva patye kāmayamānā suvāsā ṛtukāleṣūṣā hasaneva dantānnivṛṇute | ni. 3-5 | iti ca ‖*
 
 *(Read from the image; the OCR is garbled here and the small type of the last lines is doubtful.)* "*Abhrāteva* — like one who has no brother: she goes (*eti*) toward the father and the rest (*pitrādīn prati*), *pratīcī* — facing back from her own place. As in the world a woman without a brother goes to her father (the printed word *pitr?neti* is not quite certain) for the getting of fitting garments, ornaments and the rest — if she had a brother, he would satisfy her duly with fitting gifts and the like — so she gets what such a one gets. Or else: when there is a brother, he performs for the father the *piṇḍa*-offering and other filial duties; in his absence she herself goes to do that for father and others. Likewise this Uṣas, for the getting of her own fitting radiance and so on, or for the giving of her own light, goes in front of the Sun, who has become her father. This is one simile. Another simile: *dhanānāṃ sanaye gartārugiva* — *garta* is a name for the house, since *kṛdaro garta* are read among its names (…); here it is said to be a place presided over by the king's men, the deciders of justice; one who mounts it is *gartārukh*. As in the world a woman whose husband has gone [or is dead] goes to the *garta* to win (*sanaye*) the property that is her own; the assessors there, having considered the matter, if she is entitled to the property, give her his wealth; so this Uṣas too goes up to the *garta*, the sky, the dwelling of the Sun, for winning (*sanaye*) the rays of wealth that bring joy, *dhanānām*. This simile is made with regard to the custom of a particular country. Moreover: *patye uśatī kāmayamānā suvāsā jāyeva* — this is the simile for Uṣas. As in the world a wife, beautifully dressed in silk and the like, adorned, who earlier at the time of her monthly period wore soiled clothes, after her bath, shining with fine clothes and ornaments, desiring her husband with special desire for enjoyment, plays with him; so Uṣas, though in dirty clothing because enveloped in the great darkness of night, at dawn, wrapped in her own light, being well-clothed, playing with the Sun, who is in the place of a husband, *hasreva* — laughing, as it were, *apsaḥ* — the forms in the place of teeth, blue, yellow and the rest, *ni riṇīte*. Or else the sense is: she makes all objects that are seen go forth, makes them manifest. As in the world a lovely woman reveals her teeth under pretence of a smile, so this Uṣas makes all forms manifest. This mantra is clearly explained in the Nirukta (3-5)."
 
@@ -4210,13 +4210,13 @@ But in the present ṛk the meaning of this word comes out in a wider extent, as
 
 For this ṛk the Nirukta is as follows —
 
-> अभ्रातृकेव पुंसः पित्र्यं नेत्यभिमुखी सन्तानकर्मणे पिण्डदानाय न पतिं
-> गर्तारोहिणीव धनलाभाय दाक्षिणात्या [?] ।
+> अभ्रातृकेव पुंसः पित्र[?]नेत्यभिमुखी संतानकर्मणे पिण्डदानाय न पतिं
+> गर्तारोहिणीव धनलाभाय दाक्षिणाजी ।
 
-> *abhrātṛkeva puṃsaḥ pitryaṃ netyabhimukhī santānakarmaṇe piṇḍadānāya na patiṃ*
-> *gartārohiṇīva dhanalābhāya dākṣiṇātyā [?] |*
+> *abhrātṛkeva puṃsaḥ pitr[?]netyabhimukhī saṃtānakarmaṇe piṇḍadānāya na patiṃ*
+> *gartārohiṇīva dhanalābhāya dākṣiṇājī |*
 
-(Ni. 3-5, as printed "೩-೫".) *(Read letter by letter; the last word "dākṣiṇātyā" / "dākṣiṇājā" is doubtful.)* "A woman without a brother goes, facing toward her father's house, for the rites of progeny, for the *piṇḍa*-offering, not [to her] husband; the woman of the south, [like] one mounting the *garta* for the gain of wealth." — These two explanations are compared to the appearance of Uṣas. In this ṛk there are four similes together, namely —
+(Ni. 3-5, as printed "೩-೫".) *(Read letter by letter; the last word is printed "dākṣiṇājī" (on p. 160 "dākṣiṇājā"), not "dākṣiṇātyā" as the Kannada gloss has it; the middle of "pitr[?]neti" is not clear.)* "A woman without a brother goes, facing toward her father's house, for the rites of progeny, for the *piṇḍa*-offering, not [to her] husband; the woman of the south, [like] one mounting the *garta* for the gain of wealth." — These two explanations are compared to the appearance of Uṣas. In this ṛk there are four similes together, namely —
 
 > अभ्रातेव पुंस इत्येका ;
 > गर्तारोहिणीवेति द्वितीया ;
@@ -4238,21 +4238,21 @@ Second, *gartārohiṇīva*: another comparison is that, like a woman who goes u
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
 
-> गर्तः सभास्थाणुर्गृणातेः । सत्यसंगरो भवति । तं तत्र या पुत्रा या पतिका सारोहति तां तत्राभ्रैरभ्रश्नन्ति [?] सा रिक्थं लभते । (नि. ३-५)
+> गर्तः सभास्थाणुर्गृणातेः । सत्यसंगरो भवति । तं तत्र या पुत्रा या पतिका सारोहति तां तत्राक्ष्यैराष्णन्ति [?] सा रिक्थं लभते । (नि. ३-५)
 
-> *gartaḥ sabhāsthāṇurgṛṇāteḥ | satyasaṃgaro bhavati | taṃ tatra yā putrā yā patikā sārohati tāṃ tatrābhrairabhraśnanti [?] sā rikthaṃ labhate | (ni. 3-5)*
+> *gartaḥ sabhāsthāṇurgṛṇāteḥ | satyasaṃgaro bhavati | taṃ tatra yā putrā yā patikā sārohati tāṃ tatrākṣyairāṣṇanti [?] sā rikthaṃ labhate | (ni. 3-5)*
 
 The word *garta* is derived from the root *gṝ*, which gives the meaning "to call for, to ask", and it indicates a "pillar of an assembly hall". All business done at that pillar is in the nature of truth (*satya-saṃgara*). A woman without a son and without a husband mounts that pillar-place; then those concerned there strike her with [...], and wealth falls to her — thus, having explained the purport of the words *gartārukh*, in accordance with this context, he then states other meanings of the word *garta*:
 
-> श्मशानसंचयोऽपि गर्त उच्यते गुरतेरपर्णो भवति ।
+> श्मशानसंचयोऽपि गर्त उच्यते गुरुतेरपगूर्णो भवति ।
 
-> *śmaśānasaṃcayo 'pi garta ucyate gurateraparṇo bhavati |*
+> *śmaśānasaṃcayo 'pi garta ucyate guruterapagūrṇo bhavati |*
 
 [The word *garta* is also well known in the sense of a heap of the cremation ground, derived from the root *gur*, which gives the meaning "to raise"; this is stated.] Citing the *śruti* text
 
-> [?]ोपरस्यावि[?]ष्णुर्याद्यदुपरस्यावि[?]ष्णुर्याद्गर्तेष्ठाः स्यात्प्रमायुक्तो यजमानः ।
+> नोपरस्याविष्कुर्याद्यदुपरस्याविष्कुर्याद्गर्तेष्ठाः स्यात्प्रमायुक्तो यजमानः ।
 
-> *[?]oparasyāvi[?]ṣṇuryādyaduparasyāvi[?]ṣṇuryādgarteṣṭhāḥ syātpramāyukto yajamānaḥ |*
+> *noparasyāviṣkuryādyaduparasyāviṣkuryādgarteṣṭhāḥ syātpramāyukto yajamānaḥ |*
 
 *(Read letter by letter; the text is small and doubtful.)* — as the Kannada paraphrases it, the lower part of the sacrificial post must not be shown or uncovered; if through carelessness one does so, such a sacrificer lies down in the cremation ground (the OCR reads the words differently, "noparasyāniṣṭhurādya…"; my transliteration of the Sanskrit is therefore uncertain) — this explains the meaning of the word *garta*. Next:
 
