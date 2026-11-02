@@ -5974,5 +5974,101 @@
   "old": "7-4-54 [?]; 7-4-58 [?]",
   "new": "7-4-58; 7-4-58",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 7-4-54->7-4-58 (neighbour page), confirmed (neighbour page); not viewed by me."
+ },
+ {
+  "pdf": 185,
+  "printed": 165,
+  "status": "resolved",
+  "old": "3-2-170 [?]",
+  "new": "3-2-170",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 166,
+  "printed": 146,
+  "status": "resolved",
+  "old": "3-1-85 [?]; 8-6 [?]",
+  "new": "3-1-85; 8-7",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, 8-6->8-7; not viewed by me."
+ },
+ {
+  "pdf": 165,
+  "printed": 145,
+  "status": "resolved",
+  "old": "5-153 [?]",
+  "new": "5-153",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 162,
+  "printed": 142,
+  "status": "resolved",
+  "old": "2-2-11-4 [?]",
+  "new": "2-2-11-4",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed (neighbour page); not viewed by me."
+ },
+ {
+  "pdf": 160,
+  "printed": 140,
+  "status": "resolved",
+  "old": "4-4-118 [?]",
+  "new": "4-4-118",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 159,
+  "printed": 139,
+  "status": "resolved",
+  "old": "5-52-9 [?]",
+  "new": "5-52-9",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 157,
+  "printed": 137,
+  "status": "resolved",
+  "old": "3-3-96 [?]",
+  "new": "3-3-96",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 156,
+  "printed": 136,
+  "status": "resolved",
+  "old": "3-3-97 [?]",
+  "new": "3-3-97",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 152,
+  "printed": 132,
+  "status": "resolved",
+  "old": "1-92-1 [?]",
+  "new": "1-92-1",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 132,
+  "printed": 112,
+  "status": "resolved",
+  "old": "2-9 [?]; 3-36-4 [?]",
+  "new": "3-9; 3-36-4",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 2-9->3-9, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 103,
+  "printed": 83,
+  "status": "resolved",
+  "old": "3-27-7 [?]",
+  "new": "3-27-7",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 102,
+  "printed": 82,
+  "status": "resolved",
+  "old": "8-2-12 [?]",
+  "new": "8-2-10",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 8-2-12->8-2-10; not viewed by me."
  }
 ]
