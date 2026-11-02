@@ -5746,7 +5746,7 @@ When it is used of ṛṣis who have the supernatural power of vision, visual an
 > *evedindraḥ sute astāvi some bharadvājeṣu kṣayadinmaghonaḥ |*
 > *asadyathā jaritra uta sūririndro rāyo viśvavārasya dātā ‖*
 
-(Ṛ. Saṃ. 6-33-? [?], as read.)
+(Ṛ. Saṃ. 6-23-10.)
 
 > विश्वकर्मन्हविषा वावृधानः स्वयं यजस्व पृथिवीमुत द्याम् ।
 > मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ॥
@@ -5762,7 +5762,7 @@ When it is used of ṛṣis who have the supernatural power of vision, visual an
 > *ratho na yātaḥ śikvabhiḥ kṛto dyāmaṅgebhiraruṣebhirīyate |*
 > *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathādīṣate vayaḥ ‖*
 
-(Ṛ. Saṃ. 1-141-? [?], as read.) — in some such places it gives more rarely the sense "path" [*mārga*].
+(Ṛ. Saṃ. 1-141-8.) — in some such places it gives more rarely the sense "path" [*mārga*].
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-122-8
 
