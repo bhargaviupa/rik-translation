@@ -153,12 +153,7 @@ def main():
         with open(os.path.join(REV, 'numerals_applied_v10.tsv'), 'a', encoding='utf-8') as f:
             for s, e, new, (g, kind, old, nw, r) in edits:
                 f.write('\t'.join([str(g), kind, old.replace('\t', ' '), nw, '%s row %d' % (r[2], r[3]), r[4]]) + '\n')
-        with open(os.path.join(REV, 'numerals_unmatched_v10.tsv'), 'a', encoding='utf-8') as f:
-            for g, why, ctx, rws in unmatched:
-                f.write('\t'.join(['site', str(g), why, ctx, 'page rows: ' + rws]) + '\n')
-            for r in unused:
-                kind = 'row: number not placed (already present or no site)'
-                f.write('\t'.join(['row', str(r[0]), kind, r[1], '%s row %d' % (r[2], r[3]), r[4]]) + '\n')
+        # per-row status of every sheet row: run vol10/tools/numerals_report.py
     return edits, unmatched, unused
 
 if __name__ == '__main__':
