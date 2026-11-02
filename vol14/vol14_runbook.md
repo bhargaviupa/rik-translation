@@ -28,9 +28,10 @@ An agent cannot drop old images from its own context, and the translation file a
 ## Hygiene
 One branch (`claude/vol14`); never force-push or reset; merge to main only when the user says; no PRs. Git/LFS: if `git checkout -b … origin/main` fails with "should have been a pointer": `GIT_LFS_SKIP_SMUDGE=1 git -c filter.lfs.clean=cat -c filter.lfs.process= -c filter.lfs.required=false checkout -f -b BRANCH origin/main`, then `git lfs pull`. Kill background jobs by PID, never `pkill -f`; no sleep-polling.
 
-## Change of direction (Oct 31 2026, user decision): Sonnet translators + supplied numeral files
-- Translators are now **Sonnet** (cost). The dispatcher starts each 6-page batch with `model: sonnet`.
-- **Numerals come from files supplied by the user** (one per page or page range, placed in `vol14/numerals/`; format to be recorded in `vol14/numerals/README.md` when the first files arrive). Translators take all reference/sūtra/header/Ṛk/Varga numbers from them, do **no zooming for numerals and no digit analysis**, and do not log numeral zooms in `doubts_v14.json`. A numeral the file marks unreadable → `[?]`. Missing file for a page → STOP and report (never read numerals by eye).
-- Zooming remains allowed for doubtful **letters/words** only (use ink-profile line location and tall generous boxes; the zoom tool misaims).
-- Pages already translated (through printed p. 313) keep their Opus-era numeral readings; the numeral files can later be used to check/correct them.
+## Change of direction (Oct 31 / Nov 2 2026, user decisions): Sonnet translators + supplied numeral files
+- Translators are **Sonnet** (cost). The dispatcher starts each 6-page batch with `model: sonnet`.
+- **Numerals come first from files supplied by the user** (numerals read by another, more accurate engine; placed in `vol14/numerals/`; format recorded in `vol14/numerals/README.md` when the first files arrive). The translator **verifies** them while reading the strip: agree → use, no zoom; differ → one zoom of that place; the zoom decides (file kept if the zoom supports it; otherwise the translator's reading is written, flagged "file said X" and logged `FILE DISAGREE`). Undecided → `[?]`. Missing file for a page → STOP and report. No separate digit-analysis passes.
+- Zooming also remains allowed for doubtful **letters/words** (use ink-profile line location and tall generous boxes; the zoom tool misaims).
+- No OCR for words (rule of Oct 28 stands). Token-reduction ideas involving OCR consensus were considered and discarded by the user (Nov 2).
+- Pages already translated (through printed p. 313) keep their Opus-era numeral readings; the numeral files can later be used to check/correct them (a disagreement list can be produced by script).
 - Quality watch: Sonnet drafts need a spot check after the first batches (IAST markers ⟦⟧ used, every Devanagari block has IAST, one progress note, no repeated text).
