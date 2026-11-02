@@ -5526,5 +5526,13 @@
   "old": "7-19-2 [?]; 2-1-2-11 [?]",
   "new": "7-19-2; 2-1-2-11",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 463,
+  "printed": 443,
+  "status": "unresolved",
+  "old": "7-1-590",
+  "new": "7-1-100 [?]",
+  "note": "Reverted: 7-1-590 is not a valid sūtra number (sheet noise); kept the reading with [?]; not viewed by me."
  }
 ]
