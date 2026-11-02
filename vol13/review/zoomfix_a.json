@@ -6486,5 +6486,13 @@
   "old": "8-2-12 [?]",
   "new": "8-2-10",
   "note": "User confirmed 8-2-10 is correct (a real final 0, not the bracket artifact); not viewed by me."
+ },
+ {
+  "pdf": 240,
+  "printed": 220,
+  "status": "resolved",
+  "old": "8-2-36 [?]",
+  "new": "8-2-4",
+  "note": "User: the list's 8-2-40 is 8-2-4 (spurious trailing 0 from a closing bracket); not viewed by me."
  }
 ]
