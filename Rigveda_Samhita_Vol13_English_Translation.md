@@ -7233,7 +7233,7 @@ Following this order, in the Soma sacrifice the offering of the morning pressing
 
 > *prajāpatir vai yajñaṃ chandāṃsi devebhyo bhāgadheyāni vyabhajat sa gāyatrīm evāgnaye vasubhyaḥ prātaḥsavane 'bhajat triṣṭubham indrāya rudrebhyo madhyaṃdine jagatīṃ viśvebhyo devebhya ādityebhyas tṛtīyasavane ‖*
 
-(Ai. Brā. 12-2 [?]). Prajāpati distributed to the gods the portions of the sacrifice and of the metres: he allotted the Gāyatrī to Agni and the Vasus at the morning pressing; the Triṣṭubh to Indra and the Rudras (Maruts?) at the midday pressing; and the Jagatī to the Viśve-devāḥ and the Ādityas at the third pressing.
+(Ai. Brā. 12-2). Prajāpati distributed to the gods the portions of the sacrifice and of the metres: he allotted the Gāyatrī to Agni and the Vasus at the morning pressing; the Triṣṭubh to Indra and the Rudras (Maruts?) at the midday pressing; and the Jagatī to the Viśve-devāḥ and the Ādityas at the third pressing.
 
 Since Agni represents the Brāhmaṇa's brilliance, Indra the Kṣatriya's power, and the Viśve-devāḥ the Vaiśya's activity, the distinctions of caste in creation also follow these divisions of the pressings, as we learn from the passage of the Taittirīya Saṃhitā quoted above. The Chāndogya Upaniṣad, too, describes this same division from the spiritual point of view, saying:
 
@@ -7241,7 +7241,7 @@ Since Agni represents the Brāhmaṇa's brilliance, Indra the Kṣatriya's power
 
 > *brahmavādino vadanti yad vasūnāṃ prātaḥsavanaṃ rudrāṇāṃ mādhyaṃdinaṃ savanam ādityānāṃ ca viśveṣāṃ ca devānāṃ tṛtīyasavanam ‖*
 
-(Chā. Up. 2-24-1 [?]). From this we learn that the morning pressing belongs to the Vasus, the midday to the Rudras, and the third pressing to the Ādityas and Viśve-devāḥ; and also these mantras show that the best stations in earth, atmosphere and heaven are obtained by the offerings made at these pressings.
+(Chā. Up. 2-24-1). From this we learn that the morning pressing belongs to the Vasus, the midday to the Rudras, and the third pressing to the Ādityas and Viśve-devāḥ; and also these mantras show that the best stations in earth, atmosphere and heaven are obtained by the offerings made at these pressings.
 
 > लोकद्वारमपावार्णा पश्येम त्वा वयं … अथ जुहोति नमोऽग्नये पृथिवीक्षिते लोकक्षिते लोकं मे यजमानाय विन्दैष वै यजमानस्य लोक एतास्मि ॥
 
@@ -8230,7 +8230,7 @@ In ṛks such as these, all the sages have shown that, through understanding the
 
 > *devo na yaḥ savitā satyamanmā kratvā nipāti vṛjanāni viśvā | purupraśasto amatir na satya ātmeva śevo didhiṣāyyo bhūt ‖*
 
-(Ṛ. Saṃ. 1-73-2 [?])
+(Ṛ. Saṃ. 1-73-2)
 
 and in many other places, it is said that by Agni and the other deities, along with *satya*, the worlds such as earth were upheld and the protection of the world was accomplished, and it is shown that men also should follow that same path of truth. In the ṛk at hand also, as if speaking of identity with truth from that same viewpoint, Indra is described.
 
@@ -8447,7 +8447,7 @@ Addressing Indra with the word ***puruhūte***, by the explanation "*puru-bhiḥ
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 23 Sū. 174".)*
 
-***dame apāṃsi vastoḥ — gṛhe karmāṇi kurvan vastuṃ | yadvā vāsayituṃ sthāpayituṃ kārayituṃ*** — the word *dame* is read among the names of house (Ni. 3-2). The word *apaḥ* is read among the names of acts (Ni. 2-1 [?]). The word *vastoḥ* means "dwelling": the explanation is "attaining a position". The wish is described that, while Agni is comfortable on the sacrificial altar, Indra's protection, which is the necessary duty, be available for the priests to perform for the sacrificer the acts of sacrifice and the rest; and, as *yajñadviṭsu hateṣu agnau susthire yāgādy-anuṣṭhānaparaḥ sthāsyāmi* ("when those who hate the sacrifice are slain, and Agni is firmly settled, I shall remain intent on performing sacrifice and so on"), the sacrificer's hope is stated.
+***dame apāṃsi vastoḥ — gṛhe karmāṇi kurvan vastuṃ | yadvā vāsayituṃ sthāpayituṃ kārayituṃ*** — the word *dame* is read among the names of house (Ni. 3-2). The word *apaḥ* is read among the names of acts (Ni. 6-1). The word *vastoḥ* means "dwelling": the explanation is "attaining a position". The wish is described that, while Agni is comfortable on the sacrificial altar, Indra's protection, which is the necessary duty, be available for the priests to perform for the sacrificer the acts of sacrifice and the rest; and, as *yajñadviṭsu hateṣu agnau susthire yāgādy-anuṣṭhānaparaḥ sthāsyāmi* ("when those who hate the sacrifice are slain, and Agni is firmly settled, I shall remain intent on performing sacrifice and so on"), the sacrificer's hope is stated.
 
 ***siṃhaḥ iva*** — this sentence is given as a comparison in the matter of the protection done by Indra. In the protection done by a lion, the forest, the dwelling of the lion, is the result of warding off the harm that comes from elephants and the like. In the same way, the protection of the performance of sacrifice by the sacrificers is of the nature of destroying the molestations of the *asuras*, who are the enemies of the sacrifice: so the sense is described by the way of a simile.
 
@@ -8517,7 +8517,7 @@ Let (your foes, Indra,) humbled by the might of your thunderbolt, rest in their 
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***sasmin yonau te nu śeṣan*** — in this sentence Indra is addressed. The word *te* means "your enemies". The word *sasmin* is used as an epithet of the word *yonau*. The Nirukta-writers read the word *yoni* among the names of house (Ni. 3-4 [?]). And —
+***sasmin yonau te nu śeṣan*** — in this sentence Indra is addressed. The word *te* means "your enemies". The word *sasmin* is used as an epithet of the word *yonau*. The Nirukta-writers read the word *yoni* among the names of house (Ni. 2-4). And —
 
 > इदं श्रेष्ठं ज्योतिषां ज्योतिरागाच्चित्रः प्रकेतो अजनिष्ट विभ्वा । यथा प्रसूता सवितुः सवाय एवा रात्र्युषसे योनिमारैक् ॥
 
@@ -9691,7 +9691,7 @@ From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyav�
 
 - ***gantu*** — root *gamḷ gatau*; *loṭ*, third person singular, *tip*; by "*eruḥ*" (Pā. Sū. 3-4-86 [?]) *u*; "*bahulaṃ chandasi*" gives *luk* for the *vikaraṇa*; the *m* of the root becomes *anusvāra*, *parasavarṇa*; *nighāta* for a *tiṅ*.
 - ***vareṇyaḥ*** — root *vṛñ varaṇe*; by "*vṛñaḥ eṇyaḥ*" (Uṇ. Sū. 3-… [?]) the suffix *eṇya*; the suffix being the cause, guṇa of the *ik* of the root; *ra* follows; the first syllable is *udātta*, as in *vṛṣādi*.
-- ***sahāvān*** — when *matup* comes, by "*mādhupadhāyāś ca*" (Pā. Sū. 8-2-9 [?]) the *m* becomes *v*; by "*anyeṣām api dṛśyate*" (Pā. Sū. 6-3-137 [?]) the preceding vowel is lengthened in the Saṃhitā; when *indra* follows, by "*dīrghād aṭi samānapāde*" (Pā. Sū. 8-3-9 [?]) *ru* for the *n*; by "*ato 'ṭi nityam*" (Pā. Sū. 8-3-3 [?]) the *ā* takes nasalization.
+- ***sahāvān*** — when *matup* comes, by "*mādhupadhāyāś ca*" (Pā. Sū. 8-3-9) the *m* becomes *v*; by "*anyeṣām api dṛśyate*" (Pā. Sū. 6-3-137 [?]) the preceding vowel is lengthened in the Saṃhitā; when *indra* follows, by "*dīrghād aṭi samānapāde*" (Pā. Sū. 8-3-9) *ru* for the *n*; by "*ato 'ṭi nityam*" (Pā. Sū. 8-3-3 [?]) the *ā* takes nasalization.
 - ***sānasiḥ*** — root *ṣaṇa saṃbhaktau*; by "*sānasivarṇasi*…" (Uṇ. Sū. 4-… [?]) the suffix *asi*, the lengthening, and the end-*udātta* accent are fixed by *nipātana*.
 
 ### Printed p. 372  (PDF 392)
@@ -9774,7 +9774,7 @@ You are a hero, a benefactor, accelerate the vehicle of man (that bears him to h
 
 This word *dasyuṃ* is used as an epithet of the word *avratam*. For the word *avratam*, "*akarmāṇam ananuṣṭhāyinaṃ*" is the meaning given — "the one who destroys all, without performing acts of sacrifice". The command "burn" (*daha* for *oṣaḥ*) is also given for Indra here. In this connection: "*śociṣā pātraṃ na jvālayāgniḥ svādhāraṃ pātraviśeṣam iva*" — as fire, by its flame, burns the fuel that is its support, a fuel-vessel; "*yogādhikārī yo na yajate taṃ daha*" — even the man who has the qualifications for performing sacrifice, but remains inactive, without performing the sacrifice, may be burned by Indra; this is said by way of a simile.
 
-The word *deva* is of the nature of illumination, brightness, giving (Ni. 7-15 [?]); and the meanings opposed to these are given by the word *dasyu*: destructive, full of darkness, and violent. Vṛtra and all the other *asuras* belong to the group of *dasyus*. As they restrained the water, withholding it from flowing, and hid the light, Indra, by destroying them, let the water flow and let the light come out; hence the epithet *dasyuhā* ("slayer of *dasyus*") has been used for Indra in many places.
+The word *deva* is of the nature of illumination, brightness, giving (Ni. 7-15); and the meanings opposed to these are given by the word *dasyu*: destructive, full of darkness, and violent. Vṛtra and all the other *asuras* belong to the group of *dasyus*. As they restrained the water, withholding it from flowing, and hid the light, Indra, by destroying them, let the water flow and let the light come out; hence the epithet *dasyuhā* ("slayer of *dasyus*") has been used for Indra in many places.
 
 Although the word *dasyu* is used in many places as a synonym of *rākṣasa* and the like, it is also used in some places for men who are without rites. For example —
 
@@ -9801,9 +9801,9 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 **Vyākaraṇa-prakriyā (grammar)** — noted briefly (sūtra numerals [?]):
 
 - ***sanitā*** — root *ṣaṇu dāne*; by "*dhātvādeḥ ṣaḥ saḥ*" (Pā. Sū. 6-1-64 [?]) *ṣa* becomes *sa* at the beginning; in the agent sense the suffix *tṛn*; by "*ārdhadhātukasyeḍ valādeḥ*" (Pā. Sū. 7-2-35 [?]) the augment *iṭ*; by "*jñ-ityādir nityam*" (Pā. Sū. 6-1-197 [?]) the first syllable is *udātta*.
-- ***codayaḥ*** — root *cuda preraṇe*; by "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6 [?]) *laṅ* in the sense of *loṭ*; by "*satyāpapāśa*…" (Pā. Sū. 3-1-25 [?]) *ṇic* in its own sense; *sip*, *śap*; because *śap* is the cause, guṇa for the *ṇic*, substitution *aya*; since *ṇic* is the cause, guṇa for the light penultimate vowel of the root; because it is in *pādādi* position, no *nighāta*; the *ṇic* accent remains.
-- ***dasyum*** — root *dasu upakṣaye*; by "*yujimuni śuṃdhi*…" (Uṇ. Sū. 3-100 [?]) the suffix *yuc*; since it belongs to the *vṛṣādi* group, the first syllable is *udātta*; since the substitution *anādeśa* (for *yu*) is prescribed for *ukāra* *ityādi*, no *anādeśa* occurs here.
-- ***avratam*** — *na vidyate vratam yasya saḥ tam*; by "*naño subhyām*" (Pā. Sū. 6-2-172 [?]) the final member takes *udātta* accent.
+- ***codayaḥ*** — root *cuda preraṇe*; by "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6) *laṅ* in the sense of *loṭ*; by "*satyāpapāśa*…" (Pā. Sū. 3-1-25 [?]) *ṇic* in its own sense; *sip*, *śap*; because *śap* is the cause, guṇa for the *ṇic*, substitution *aya*; since *ṇic* is the cause, guṇa for the light penultimate vowel of the root; because it is in *pādādi* position, no *nighāta*; the *ṇic* accent remains.
+- ***dasyum*** — root *dasu upakṣaye*; by "*yujimuni śuṃdhi*…" (Uṇ. Sū. 3-300) the suffix *yuc*; since it belongs to the *vṛṣādi* group, the first syllable is *udātta*; since the substitution *anādeśa* (for *yu*) is prescribed for *ukāra* *ityādi*, no *anādeśa* occurs here.
+- ***avratam*** — *na vidyate vratam yasya saḥ tam*; by "*naño subhyām*" (Pā. Sū. 6-2-172) the final member takes *udātta* accent.
 - ***oṣaḥ*** — root *uṣa dāhe*, *bhvādi*; to show the sense of *loṭ*, Vedic *laṅ*; second person singular; Vedically no augment; because it is in *pādādi* position, no *nighāta*;
 
 ### Printed p. 376  (PDF 396)
@@ -9880,13 +9880,13 @@ The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used fo
 
 > *viśvā rūpāṇi prati muñcate kaviḥ prāsāvīd bhadraṃ dvipade catuṣpade | vi nākam akhyat savitā vareṇyo 'nu prayāṇam uṣaso vi rājati ‖*
 
-(Ṛ. Saṃ. 5-81-2 [?]) — quoting this ṛk, explain what nature the word *kavi*, which is an epithet of Savitṛ, shows. Since Savitṛ illuminates all the forms of the universe, this epithet is given to Savitṛ, it is understood; that is, the power to hide, and make shine by his power, those parts that are hidden, covered, and not visible to the world's eye, and make them visible to the world. In this same sense the name *kavi* is also well known for the praiser who has the power of praise. This idea occurs in the Ṛk-saṃhitā:
+(Ṛ. Saṃ. 5-81-2) — quoting this ṛk, explain what nature the word *kavi*, which is an epithet of Savitṛ, shows. Since Savitṛ illuminates all the forms of the universe, this epithet is given to Savitṛ, it is understood; that is, the power to hide, and make shine by his power, those parts that are hidden, covered, and not visible to the world's eye, and make them visible to the world. In this same sense the name *kavi* is also well known for the praiser who has the power of praise. This idea occurs in the Ṛk-saṃhitā:
 
 > ब्रह्मा कृणोति वरुणो गातुविदं तमीमहे । व्यूर्णोति हृदा मतिं नव्यो जायतामृतं विप्तं नो अस्य रोदसी ॥
 
 > *brahmā kṛṇoti varuṇo gātuvidaṃ tam īmahe | vyūrṇoti hṛdā matiṃ navyo jāyatām ṛtaṃ viptaṃ no asya rodasī ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 1-105-15 [?]) — in this ṛk, too, as in other ṛks, it is indicated: for the word *vyūrṇoti*, Sāyaṇa gives the meaning "*uccārayati*, *prakāśayati*" — "utters, reveals". The root *ūrṇuñ* (*ūrṇuñ ācchādane*) means "to cover", "to veil"; with the prefix *vi* it becomes "to uncover" — that is, the sense of removing the covering. The purport: it has the power of creation in the form of revealing a feeling hidden in the mind, and the power of showing, by revealing, a thing that is hidden: these are the special qualities of the *kavi*, or of the praiser. From this it is known that the word *kavi*, being the common quality of Savitṛ and of the praiser, is a special epithet for both. The same characteristic and the poetic character are described in the Ṛk-saṃhitā:
+(Ṛ. Saṃ. 1-105-15) — in this ṛk, too, as in other ṛks, it is indicated: for the word *vyūrṇoti*, Sāyaṇa gives the meaning "*uccārayati*, *prakāśayati*" — "utters, reveals". The root *ūrṇuñ* (*ūrṇuñ ācchādane*) means "to cover", "to veil"; with the prefix *vi* it becomes "to uncover" — that is, the sense of removing the covering. The purport: it has the power of creation in the form of revealing a feeling hidden in the mind, and the power of showing, by revealing, a thing that is hidden: these are the special qualities of the *kavi*, or of the praiser. From this it is known that the word *kavi*, being the common quality of Savitṛ and of the praiser, is a special epithet for both. The same characteristic and the poetic character are described in the Ṛk-saṃhitā:
 
 > समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अर्वतीभिः । ऋतस्य पदं कवयो नि पान्ति गुहा नामानि दधिरे पराणि ॥
 
@@ -9904,13 +9904,13 @@ The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used fo
 
 > *bṛhaspate prathamaṃ vāco agraṃ yat praírata nāmadheyaṃ dadhānāḥ | yad eṣāṃ śreṣṭhaṃ yad ariprām āsīt preṇā tad eṣāṃ nihitaṃ guhāviḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 10-71-1 [?]) — in all such ṛks this idea is made evident: the *kavis*, having entered the path of *ṛta*, bear the highly secret and most excellent names in their very deep hearts; and, having revealed them, they make them known to the world: so it is described. This *kavi* is attainable by an instrument of vision and light itself.
+(Ṛ. Saṃ. 10-71-1) — in all such ṛks this idea is made evident: the *kavis*, having entered the path of *ṛta*, bear the highly secret and most excellent names in their very deep hearts; and, having revealed them, they make them known to the world: so it is described. This *kavi* is attainable by an instrument of vision and light itself.
 
 > यज्ञेन वाचः पदवीयमायन् तामन्वविन्दन्नृषिषु प्रविष्टाम् । तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवन्ते ॥
 
 > *yajñena vācaḥ padavīyam āyan tām anv avindann ṛṣiṣu praviṣṭām | tām ābhṛtyā vy adadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navante ‖*
 
-(Ṛ. Saṃ. 10-71-3 [?]). The sages, seers of things beyond the senses, obtained, by the means of sacrifice, the speech that had been hidden; afterwards, for the benefit of the people of the world, they gave them instruction. This speech that is of the nature of the universe is served by metres such as Gāyatrī; and so on: thus the identity of the creation in the form of revealing speech, and of the act in the form of sacrifice, is shown; and in some places the relation of cause and effect is also shown. The same idea is stated in the Śatapatha and other Brāhmaṇas:
+(Ṛ. Saṃ. 10-71-3). The sages, seers of things beyond the senses, obtained, by the means of sacrifice, the speech that had been hidden; afterwards, for the benefit of the people of the world, they gave them instruction. This speech that is of the nature of the universe is served by metres such as Gāyatrī; and so on: thus the identity of the creation in the form of revealing speech, and of the act in the form of sacrifice, is shown; and in some places the relation of cause and effect is also shown. The same idea is stated in the Śatapatha and other Brāhmaṇas:
 
 > आयुरेतेजो ज्योतिः प्रविशति य एतमनु वा ब्रूते भक्षयति वा तस्य व्रतेचर्या यो सृष्ट्यै ॥ [as read; garbled: [?]]
 
@@ -9924,7 +9924,7 @@ The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used fo
 
 > *prānyac cakram avṛhaḥ sūryasya kutsāyānyad varivo yātave 'kaḥ |*
 
-(Ṛ. Saṃ. 5-29-10 [?]).
+(Ṛ. Saṃ. 5-29-10).
 
 ***śuṣṇāya — etannāmakāya asurāya śuṣṇaṃ hantum*** — in order to destroy the *asura* known by the name Śuṣṇa, ***vātasya aśvaiḥ*** — joined with the horses having the speed of the wind, or
 
@@ -12012,7 +12012,7 @@ In the ṛk at hand, *medhaḥ paśuḥ*: the commentator states that the word *
 - ***devayāḥ*** — root *yā prāpaṇe*; suffix *kvip*; nominative singular; the *kṛdutta* final member keeps its natural accent.
 - ***miyedhaḥ*** — from *medhaḥ*, with a Vedic change of letters (*varṇavikāra*) in the form.
 - ***imā*** — by "*śeś chandasi bahulam*" (Pā. Sū. 6-1-20) the elision of *śi* in the neuter plural.
-- ***stīrṇam*** — root *stṛñ ācchādane*; suffix *kta* in the passive; by "*ṛta iddhātoḥ*" (Pā. Sū. 7-1-100 [?]) *i* for the root vowel, with *r* following; by "*hali ca*" lengthening; by "*radābhyāṃ niṣṭhāto naḥ*" (Pā. Sū. 8-2-42 [?]) *n* for the *t* of the *kta* suffix; by *raṣābhyāṃ no ṇaḥ* (sūtra named only) the *ṇ*; by the suffix accent the final syllable is *udātta*.
+- ***stīrṇam*** — root *stṛñ ācchādane*; suffix *kta* in the passive; by "*ṛta iddhātoḥ*" (Pā. Sū. 7-1-590) *i* for the root vowel, with *r* following; by "*hali ca*" lengthening; by "*radābhyāṃ niṣṭhāto naḥ*" (Pā. Sū. 8-2-42 [?]) *n* for the *t* of the *kta* suffix; by *raṣābhyāṃ no ṇaḥ* (sūtra named only) the *ṇ*; by the suffix accent the final syllable is *udātta*.
 - ***piba*** — root *pā pāne*; *loṭ*, second person singular; since it is in *pādādi* position no *nighāta*; *śap* being *pit*, the root accent remains; by "*dvyaco 'tastiṅaḥ*" (Pā. Sū. 6-3-135 [?]) lengthening in the Saṃhitā.
 - ***niṣadya*** — root *ṣad viśaraṇagatyavasādaneṣu*; suffix *ktvā*; by "*samāse 'nañpūrve ktvo lyap*" (Pā. Sū. 7-1-37) *lyap* replaces it; being *pit* it is *anudātta*; by "*upasargāt sunoti…*" (Pā. Sū. 8-3-65 [?]) *ṣatva*; the *kṛdutta* final member keeps its natural accent.
 - ***muca*** — root *muñc mokṣaṇe*; *loṭ*, second person singular; by "*śe muceādīnām*" (Pā. Sū. 7-1-37) the *num* augment that would be required does not occur, being Vedic; as before, lengthening in the Saṃhitā by "*dvyaco 'tastiṅaḥ*". ‖ 4 ‖
