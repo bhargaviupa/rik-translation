@@ -5802,7 +5802,7 @@ There are many legends showing that they help people in distress. These have bee
 
 — it is said that when the Kali mentioned above took a wife and married, they gave him their help and did him many favours.
 
-For the young women who were Vimada's wives they (granted) a chariot (1-112-19, zoomed, third try), or granted him a wife (1-116-1, zoomed). It appears that she had been the wife of Puramitra (as printed) (Ṛ. Saṃ. 1-116-20; 10-39-7, zoomed), and her name was Kamadhyu (as printed) (10-65-12, zoomed) …
+For the young women who were Vimada's wives they (granted) a chariot (1-112-19, zoomed, third try), or granted him a wife (1-117-1, zoomed). It appears that she had been the wife of Puramitra (as printed) (Ṛ. Saṃ. 1-117-20; 10-39-7, zoomed), and her name was Kamadhyu (as printed) (10-65-12, zoomed) …
 
 ---
 
