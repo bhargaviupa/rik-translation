@@ -16985,17 +16985,17 @@ In the same way, in the Ṛk before us, the *stotra* is of the nature of song, p
 > *kṣetrasya pate madhumantam ūrmiṃ dhenur iva payo asmāsu dhukṣva |*
 > *madhuścutaṃ ghṛtam iva supūtam ṛtasya naḥ patayo mṛḷayantu ‖*
 
-(Ṛ. Saṃ. 4-[?]-[?], as read "೪-೫೭-೩" [?].) he shows the objection of the opponent in this way, that "in *madhumantam* [and] *madhuścutam* there is the fault of repetition" (Ni. 10-16, as read "೧೦-೧೪" [?]):
+(Ṛ. Saṃ. 4-57-2.) he shows the objection of the opponent in this way, that "in *madhumantam* [and] *madhuścutam* there is the fault of repetition" (Ni. 10-16):
 
-> तदद्य क्षमान्याम्पि [?] समानाभिव्याहारं भवति तज्जामि भवतीत्येकं मधुमन्तं मधुश्चुतमिति ।
+> तद्यत्समान्यामृचि समानाभिव्याहारं भवति तज्जामि भवतीत्येकं मधुमन्तं मधुश्चुतमिति ।
 
-> *tad adya kṣamānyāmpi [?] samānābhivyāhāraṃ bhavati taj jāmi bhavatīty ekaṃ madhumantaṃ madhuścutam iti |*
+> *tad yat samānyām ṛci samānābhivyāhāraṃ bhavati taj jāmi bhavatīty ekaṃ madhumantaṃ madhuścutam iti |*
 
-*(Read from the image; the first words are doubtful [?]; the Kannada gives:)* "Those who object say: the words *madhuścutam* and *madhumantam* used in one Ṛk are a fault of repetition". The reply is:
+*(Read from the image; the Kannada gives:)* "Those who object say: the words *madhuścutam* and *madhumantam* used in one Ṛk are a fault of repetition". The reply is:
 
-> यदेव समाने पादे समानाभिव्याहारं भवति तज्जामि भवतीत्येकम् । परं हिरण्यरूपः स हिरण्यसंदृक् इति यथा ॥
+> यदेव समाने पादे समानाभिव्याहारं भवति तज्जामि भवतीत्यपरम् । हिरण्यरूपः स हिरण्यसंदृक् इति यथा ॥
 
-> *yad eva samāne pāde samānābhivyāhāraṃ bhavati taj jāmi bhavatīty ekam | paraṃ "hiraṇyarūpaḥ sa hiraṇyasaṃdṛk" iti yathā ‖*
+> *yad eva samāne pāde samānābhivyāhāraṃ bhavati taj jāmi bhavatīty aparam | "hiraṇyarūpaḥ sa hiraṇyasaṃdṛk" iti yathā ‖*
 
 But if different words are used in different *pāda*s of one Ṛk there is no fault; the fault of repetition is possible only if they are used in the same *pāda*. For example:
 
@@ -17011,7 +17011,7 @@ But if different words are used in different *pāda*s of one Ṛk there is no fa
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 26 [as read].)*
 
-*(The Nirukta's answer, continued:)* *yathā katham ca viśeṣo jāmi bhṛtyai [?] parām* — "even if [the repeated words are] in one *pāda*, there is no fault, since [they differ] in subtle sense": this is another opinion. For example:
+*(The Nirukta's answer, continued:)* *yathā kathā ca viśeṣo 'jāmi bhṛtītyaparam* (as printed; the word after *bhṛ* looks like *tī*, perhaps for *bhavatīty*; not corrected) — "even if [the repeated words are] in one *pāda*, there is no fault, since [they differ] in subtle sense": this is another opinion. For example:
 
 > योगक्षेममु त आदायाहं भूयासमुत्तम आ वो मूर्धानमक्रमीम् ।
 > अधस्पदान्म उद्वदत मण्डूका इवोदकान्मण्डूका उदकादिव ॥
@@ -17019,13 +17019,13 @@ But if different words are used in different *pāda*s of one Ṛk there is no fa
 > *yogakṣemam u ta ādāyāhaṃ bhūyāsam uttama ā vo mūrdhānam akramīm |*
 > *adhas padān ma ud vadata maṇḍūkā ivodakān maṇḍūkā udakād iva ‖*
 
-(Ṛ. Saṃ. 10-[?]-[?], as read "೧೦-೧೬೬-೫" [?]; the quotation is badly worn and doubtful in several letters [?].) In this, the meaning is that, because repetition shows exceeding beauty and because there is a subtle difference even in the meaning, there is no fault. The same solution can be applied to the style of Paruccheṣa. The author of the Nirukta, in quoting the very sentences of Paruccheṣa, shows that in such a repetition there is a special merit also.
+(Ṛ. Saṃ. 10-166-5.) In this, the meaning is that, because repetition shows exceeding beauty and because there is a subtle difference even in the meaning, there is no fault. The same solution can be applied to the style of Paruccheṣa. The author of the Nirukta, in quoting the very sentences of Paruccheṣa, shows that in such a repetition there is a special merit also.
 
 > अभ्यासे भूयांसमर्थं मन्यन्ते यथाहो दर्शनीयाहो दर्शनीया ।
 
 > *abhyāse bhūyāṃsam artham manyante yathāho darśanīyāho darśanīyā |*
 
-(Ni. 10-42, as read "೧೦-೪೩" [?].) The repetition, in the sense of habit, gives a special power to the meaning. They praise this style as "the speciality of the style of Paruccheṣa" (*tat paruccheṣasya śīlam*).
+(Ni. 10-42.) The repetition, in the sense of habit, gives a special power to the meaning. They praise this style as "the speciality of the style of Paruccheṣa" (*tat paruccheṣasya śīlam*).
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Ṛk 6; grammar pages, noted briefly; numbers as printed).** *dive* — *ūḍidaṃ padādi* (Pā. 6-1-171 [as read]) gives the udātta to the case-ending. *bṛhate* — dative singular; *bṛhan mahator upasaṃkhyānam* (Vārttika) gives the case-ending the udātta. *vocam* — root *vaca paribhāṣaṇe*; by Vedic usage *luṅ* in the present sense; first person singular; *ām*-substitution for the singular [*aṅ* for *cli* by *asti-vakti-khyātibhyo 'ṅ* (Pā. 3-1-52 [as read])]; as it is *para*, *vaca um* (Pā. 7-4-20 [as read]) gives the augment *u* to the root; *guṇa* with the following *a*; by Vedic usage the *āgama* does not occur; *nighāta* after a *tiṅanta*. *mīḍhuṣe* — root *miha secane*; *dāśvān sāhvān mīḍhvāṃś ca* (Pā. 6-1-12 [as read]) — the suffix *kvasu* is formed by *nipātana*; the dative; as it is *para* the term *bha* applies; *vasoḥ samprasāraṇam* (Pā. 6-4-131 [as read]) gives *saṃprasāraṇa*; *pūrvarūpa*. *sumṛḷīkāya* — *suṣṭhu mṛḷīkaṃ sukhaṃ yasyāsau sumṛḷīkaḥ*; *nañsubhyām* (Pā. 6-2-173 [as read]) gives the final udātta of the latter member; dative singular.
 
