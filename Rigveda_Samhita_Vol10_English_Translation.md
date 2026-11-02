@@ -6068,7 +6068,7 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 > *abhipitvaśabdaḥ āsannakālavācī prapitvaśabda itivat | sa ca prapitve 'bhīka ityāsannasya |*
 
-(Ni. 3-30 [?], as printed.) *abhipitva* and *prapitva* — both words give the meaning "near, arrived". Since the author of the Nirukta has given for the word *prapitve* the meaning *abhīke* ("near"), and the word *abhipitve* has the same meaning, here *abhipitve* means "near". *Ahnām abhipitve* means "in the middle of many days" — the sense: "when the day arrives on which Kakṣīvat presented to his father the generous gifts given by Svanaya"; but, by the words *ahnām abhipitve*, the explanation "the end of the day, that is, in the evening he gave to his father" must not be taken; so some [scholars] explain…
+(Ni. 3-20, as printed "೩-೨೦"; sheet and zoom agree.) *abhipitva* and *prapitva* — both words give the meaning "near, arrived". Since the author of the Nirukta has given for the word *prapitve* the meaning *abhīke* ("near"), and the word *abhipitve* has the same meaning, here *abhipitve* means "near". *Ahnām abhipitve* means "in the middle of many days" — the sense: "when the day arrives on which Kakṣīvat presented to his father the generous gifts given by Svanaya"; but, by the words *ahnām abhipitve*, the explanation "the end of the day, that is, in the evening he gave to his father" must not be taken; so some [scholars] explain…
 
 ---
 
