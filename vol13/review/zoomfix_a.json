@@ -6510,5 +6510,69 @@
   "old": "3-100 [?]",
   "new": "3-300",
   "note": "User confirmed 3-300 is correct; not viewed by me."
+ },
+ {
+  "pdf": 195,
+  "printed": 175,
+  "status": "resolved",
+  "old": "6-2-1 [?]; 6-1-122 [?]",
+  "new": "6-2-1; 6-1-122",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 166,
+  "printed": 146,
+  "status": "resolved",
+  "old": "6-1-168 [?]; 3-4-102 [?]; 3-4-107 [?]",
+  "new": "6-1-168; 3-4-102; 3-4-107",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 163,
+  "printed": 143,
+  "status": "resolved",
+  "old": "3-1-134 [?]",
+  "new": "3-1-134",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 160,
+  "printed": 140,
+  "status": "resolved",
+  "old": "8-1-30 [?]",
+  "new": "8-1-30",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 150,
+  "printed": 130,
+  "status": "resolved",
+  "old": "4-4-110 [?]; 6-1-185 [?]",
+  "new": "4-4-110; 6-1-185",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 145,
+  "printed": 125,
+  "status": "resolved",
+  "old": "1-142-10 [?]",
+  "new": "1-142-10",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 140,
+  "printed": 120,
+  "status": "resolved",
+  "old": "6-1-171 [?]",
+  "new": "6-1-171",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 131,
+  "printed": 111,
+  "status": "resolved",
+  "old": "3-19 [?]",
+  "new": "3-19",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
  }
 ]
