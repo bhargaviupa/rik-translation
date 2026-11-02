@@ -5476,9 +5476,9 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 **॥ सायणभाष्यम् ॥**
 
-> सोमयागप्रशंसाप्रसङ्गेन सामान्यतो दानमेतदादिभिस्तिसृभिः प्रशंसति । यद्वा । सोमस्यैव स्तुतत्वाद्दक्षिणाशब्दस्य योग एव प्रसिद्धत्वाच्च सूक्तपरिसमाप्तेः सोमयाग एव प्रस्तूयते । यः यो मर्त्यः पृणाति हविरादिदानेन देवादीन्प्रीणाति स नाकस्य । कमिति सुखनाम । तद्विरुद्धमकम् । न विद्यते कं दुःखं तत्साधनं पापं वेति नाको द्युलोकः । तथा श्रूयते । न वा अमुं लोकं जग्मुषे किं च नाकमिति [?] । नि. २-१४ । तस्य पृष्ठे उन्नते उपरिदेशे श्रितः सन्नध्यधिकमाकल्पान्तं तिष्ठति । यद्वा । अधि तिष्ठति । अधिष्ठाय प्रमुखो भूत्वा तिष्ठति । न केवलं स्वर्गाश्रयणं किंतु देवेषु मध्ये ह इति प्रसिद्धौ । तस्मै प्रीणयित्रे पुरुषाय सिन्धवः स्यन्दनशीला आपो घृतं तेजोवत्सारमर्षन्ति । गच्छन्ति । रसवत्यो भवन्तीत्यर्थः । किंचेयं भूमिरपि दक्षिणा सस्यादिफलसंपादनेन सती सदा सर्वकालं पिन्वते । सेचयति । तोषयतीत्यर्थः । दातुर्जीवनसाधकान्नोदकानि रुचिराणि समृद्धानि भवन्तीत्यर्थः ॥
+> सोमयागप्रशंसाप्रसङ्गेन सामान्यतो दानमेतदादिभिस्तिसृभिः प्रशंसति । यद्वा । सोमस्यैव स्तुतत्वाद्दक्षिणाशब्दस्य योग एव प्रसिद्धत्वाच्च सूक्तपरिसमाप्तेः सोमयाग एव प्रस्तूयते । यः यो मर्त्यः पृणाति हविरादिदानेन देवादीन्प्रीणाति स नाकस्य । कमिति सुखनाम । तद्विरुद्धमकम् । न विद्यते कं दुःखं तत्साधनं पापं वेति नाको द्युलोकः । तथा श्रूयते । न वा अमुं लोकं जग्मुषे किं च नाकमति [sic] । नि. २-१४ । तस्य पृष्ठे उन्नते उपरिदेशे श्रितः सन्नध्यधिकमाकल्पान्तं तिष्ठति । यद्वा । अधि तिष्ठति । अधिष्ठाय प्रमुखो भूत्वा तिष्ठति । न केवलं स्वर्गाश्रयणं किंतु देवेषु मध्ये ह इति प्रसिद्धौ । तस्मै प्रीणयित्रे पुरुषाय सिन्धवः स्यन्दनशीला आपो घृतं तेजोवत्सारमर्षन्ति । गच्छन्ति । रसवत्यो भवन्तीत्यर्थः । किंचेयं भूमिरपि दक्षिणा सस्यादिफलसंपादनेन सती सदा सर्वकालं पिन्वते । सेचयति । तोषयतीत्यर्थः । दातुर्जीवनसाधकान्नोदकानि रुचिराणि समृद्धानि भवन्तीत्यर्थः ॥
 
-> *somayāgapraśaṃsāprasaṅgena sāmānyato dānametadādibhistisṛbhiḥ praśaṃsati | yadvā | somasyaiva stutatvāddakṣiṇāśabdasya yoga eva prasiddhatvācca sūktaparisamāpteḥ somayāga eva prastūyate | yaḥ yo martyaḥ pṛṇāti havirādidānena devādīnprīṇāti sa nākasya | kamiti sukhanāma | tadviruddhamakam | na vidyate kaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyulokaḥ | tathā śrūyate | na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākamiti [?] | ni. 2-14 | tasya pṛṣṭhe unnate uparideśe śritaḥ sannadhyadhikamākalpāntaṃ tiṣṭhati | yadvā | adhi tiṣṭhati | adhiṣṭhāya pramukho bhūtvā tiṣṭhati | na kevalaṃ svargāśrayaṇaṃ kiṃtu deveṣu madhye ha iti prasiddhau | tasmai prīṇayitre puruṣāya sindhavaḥ syandanaśīlā āpo ghṛtaṃ tejovatsāramarṣanti | gacchanti | rasavatyo bhavantītyarthaḥ | kiṃceyaṃ bhūmirapi dakṣiṇā sasyādiphalasaṃpādanena satī sadā sarvakālaṃ pinvate | secayati | toṣayatītyarthaḥ | dāturjīvanasādhakānnodakāni rucirāṇi samṛddhāni bhavantītyarthaḥ ‖*
+> *somayāgapraśaṃsāprasaṅgena sāmānyato dānametadādibhistisṛbhiḥ praśaṃsati | yadvā | somasyaiva stutatvāddakṣiṇāśabdasya yoga eva prasiddhatvācca sūktaparisamāpteḥ somayāga eva prastūyate | yaḥ yo martyaḥ pṛṇāti havirādidānena devādīnprīṇāti sa nākasya | kamiti sukhanāma | tadviruddhamakam | na vidyate kaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyulokaḥ | tathā śrūyate | na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākamati [sic] | ni. 2-14 | tasya pṛṣṭhe unnate uparideśe śritaḥ sannadhyadhikamākalpāntaṃ tiṣṭhati | yadvā | adhi tiṣṭhati | adhiṣṭhāya pramukho bhūtvā tiṣṭhati | na kevalaṃ svargāśrayaṇaṃ kiṃtu deveṣu madhye ha iti prasiddhau | tasmai prīṇayitre puruṣāya sindhavaḥ syandanaśīlā āpo ghṛtaṃ tejovatsāramarṣanti | gacchanti | rasavatyo bhavantītyarthaḥ | kiṃceyaṃ bhūmirapi dakṣiṇā sasyādiphalasaṃpādanena satī sadā sarvakālaṃ pinvate | secayati | toṣayatītyarthaḥ | dāturjīvanasādhakānnodakāni rucirāṇi samṛddhāni bhavantītyarthaḥ ‖*
 
 *(Read from the image; the OCR is garbled in places. The Nirukta citation "2-14" and the Veda quotation "na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākam" are small and I give them as read.)* "By way of praise of the Soma sacrifice, in these three [ṛks] beginning with this, he praises giving in general. Or else, since only the Soma sacrifice has been praised, and since the word *dakṣiṇā* ('fee') is well known only in connection with it, and the sūkta is to be completed, it is the Soma sacrifice itself that is being described. *Yaḥ* — the mortal who *pṛṇāti* — satisfies the gods and others by gifts of oblations and the like, *nākasya* — *kam* is a name of happiness; the opposite is *akam*; *nāka* is the heaven in which there is no *kam* — no sorrow, or no sin that is its means: thus it is heard: 'to the one who has gone to yonder world there is nothing that is not *nāka*' (Ni. 2-14) — on its back (*pṛṣṭhe*), the high upper region, resting (*śritaḥ*), *adhi tiṣṭhati* — dwells till the end of the age; or *adhi tiṣṭhati* — presides, standing as the foremost. Not only does he gain heaven, but *ha* — it is well known — he goes (*gacchati*) among the gods, that is, himself becomes a god. For that satisfier of the gods, the *sindhavaḥ* — flowing waters — *ghṛtam* — with radiant essence — *arṣanti* — flow, they become full of juice. And, moreover, this earth too, being *dakṣiṇā* ('fee', 'fertile'), by yielding grain and the like, *sadā* — always — *pinvate* — drenches, satisfies: that is, for the giver, the food and waters that support life become lovely and abundant."
 
@@ -5512,10 +5512,10 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 Thus the meaning of the word *nāka* is stated. In the Ṛk Saṃhitā this word is used in some places as a synonym of Āditya, in some places as a synonym of heaven.
 
-> त्रिश्चिन्नो अद्य सिन्धुभिः सप्तमातृभिस्त्र आहावास्त्रेधा हविष्कृतम् [?] ।
+> त्रिश्चिन्नो अद्य सिन्धुभिः सप्तमातृभिस्त्र आहावास्त्रेधा हविष्कृतम् ।
 > तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितम् ॥
 
-> *triścinno adya sindhubhiḥ saptamātṛbhistra āhāvāstredhā haviṣkṛtam [?] |*
+> *triścinno adya sindhubhiḥ saptamātṛbhistra āhāvāstredhā haviṣkṛtam |*
 > *tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitam ‖*
 
 (Ṛ. Saṃ. 1-34-8, as read from the print; the first line is doubtful.)
@@ -5546,7 +5546,7 @@ Thus the meaning of the word *nāka* is stated. In the Ṛk Saṃhitā this word
 
 > *vṛṣaiva kapilo bhūtvā yannākamadhirohati |*
 
-(Bṛ. De. 3-86 [?], as read.) — in this Bṛhaddevatā sentence "atmosphere" (*antarikṣa*) is clear.
+(Bṛ. De. 2-66, as read.) — in this Bṛhaddevatā sentence "atmosphere" (*antarikṣa*) is clear.
 
 > इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकम् ॥
 
