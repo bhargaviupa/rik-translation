@@ -1,0 +1,1 @@
+- PDF 198: 3 [?] removed (danda after Ni 1-15; satyasatprāye; end ketuḥ; legible). PDF 202: 'padvadbhirvayo pata [?]' -> 'padvadīyata' (zoom 450, medium on ī). PDF 203: 'yatsnasantaṃ [?]' -> 'yat[?]ṃ santaṃ' (zoom 800: conjunct under ta unresolved). Done through 203.
