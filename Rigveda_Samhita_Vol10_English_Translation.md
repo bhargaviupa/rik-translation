@@ -2486,19 +2486,19 @@ The word *bhaga* is recorded (Ni. 1-7, as read by the reader's OCR) and, in the 
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
 
-> न जामये भगिन्यै जामिरन्यस्यां जनयन्ति जामिपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्रायो भवति ॥
+> न जामये भगिन्यै जामिरन्येऽस्यां जनयन्ति जामपत्यं जमतेर्वा स्याद्गतिकर्मणो निर्गमनप्राया भवति ॥
 
-> *na jāmaye bhaginyai jāmiranyasyāṃ janayanti jāmipatyaṃ jamatervā syādgatikarmaṇo nirgamanaprāyo bhavati ‖*
+> *na jāmaye bhaginyai jāmiranye 'syāṃ janayanti jāmapatyaṃ jamatervā syādgatikarmaṇo nirgamanaprāyā bhavati ‖*
 
-(Ni. 3-6, as printed "೩-೬"; the Sanskrit as read letter by letter from the large type; I read the first words as *na jāmaye bhaginyai* and the fourth as *jāmipatyam*.) Daughters are not entitled to the funeral oblations (? — *pāyasa-bhāga*) [`[?]` the first sentence of the Kannada gloss: "women are not fit for a share in the inheritance"]. They are not fit for a share in their brother's estate, since they, having nourished children, are given away to a husband. The word *jāmi* is well known in the sense "sister"; or the word *jāmi* formed from the root *jam* meaning 'to go' conveys the sense 'one who joins, from the family where she was born, another family' — such are the two meanings given by Sāyaṇa, in accord with the intention of the Nirukta writer.
+(Ni. 3-6, as printed "೩-೬"; the Sanskrit as read letter by letter from the large type.) Daughters are not fit for a share of the inheritance (*dāyabhāga*). They are not fit for a share in their father's estate, since they, having nourished children, are given away to a husband. The word *jāmi* is well known in the sense "sister"; or the word *jāmi* formed from the root *jam* meaning 'to go' conveys the sense 'one who joins, from the family where she was born, another family' — such are the two meanings given by Sāyaṇa, in accord with the intention of the Nirukta writer.
 
 ***prathamā jarasva*** — *itaradevebhyaḥ pūrvā utkṛṣṭā vā satī stutā bhava*: "Uṣas is praised first in the sacrifice; or, being chief above all other deities, is praised" — he gives these two meanings.
 
-Yāska explains *jarā stutiḥ jaratiḥ stutikarmaṇaḥ* (Ni. 10-8, as read by the OCR) — "*jarā* means praise: from the root *jṝ*, 'to praise'"; since the word *jarate* is recorded among the verbs of praising (Ni. 3-6), the verb *jarati* is explained by Sāyaṇa in the sense of praise.
+Yāska explains *jarā stutiḥ jaratiḥ stutikarmaṇaḥ* (Ni. 10-8, as printed) — "*jarā* means praise: from the root *jṝ*, 'to praise'"; since the word *jarate* is recorded among the verbs of worshipping (*arcati-karmāṇi*; Ni. 3-19, as printed), the verb *jarati* is explained by Sāyaṇa in the sense of praise.
 
 ***yaḥ aghasya dhātā saḥ dadhyāḥ*** — *yaḥ kaścid duḥkhasya tadutpādakapāpasya vā dhārayitā saḥ gacchatu*: "he who holds sorrow — he who has sin that causes sorrow — let him go from here (by your grace) and be conquered by us" — this is the prayer that is explained.
 
-***dadhyāḥ*** — Yāska classes *dadhyati, dabhnoti* (Ni. 3-9, as read by the OCR on p. 93) among the verbs meaning 'to go'; hence here he explains the word *dadhyāḥ* as *gacchatu*.
+***dadhyāḥ*** — Yāska classes *dadhyati, dabhnoti* (Ni. 3-9, as printed) among the verbs meaning 'to go'; hence here he explains the word *dadhyāḥ* as *gacchatu*.
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-19; 3-9
 
