@@ -1,0 +1,50 @@
+[
+ {
+  "pdf": 300,
+  "printed": 279,
+  "crop": [
+   0.666,
+   0.714,
+   0.189,
+   0.809
+  ],
+  "note": "ZOOMED, read: ...tejiṣṭhābhiraraṇibhiratyantatejoyuktairmārgairyajñādirūpairdāṣṭi",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 279,
+  "crop": [
+   0.647,
+   0.68,
+   0.189,
+   0.809
+  ],
+  "note": "ZOOMED, read: tathā duriti ‖ vindateśchāndasaḥ",
+  "answer": ""
+ },
+ {
+  "pdf": 301,
+  "printed": 280,
+  "crop": [
+   0.284,
+   0.312,
+   0.206,
+   0.83
+  ],
+  "note": "ZOOMED, read: kaṭhinānyannānnāni prīhyādīnyojasā (as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 304,
+  "printed": 283,
+  "crop": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "note": "numerals from sheet 4: Ni 2-24, Ni 3-9 (ojas), Ṛ 8-99.3",
+  "answer": ""
+ }
+]
