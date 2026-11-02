@@ -1,0 +1,74 @@
+[
+ {
+  "pdf": 28,
+  "printed": 7,
+  "crop": [
+   0.803,
+   0.819,
+   0.599,
+   0.78
+  ],
+  "note": "ZOOMED, read: 7-46-1 (first numeral flat-footed 7, moderate)",
+  "answer": ""
+ },
+ {
+  "pdf": 29,
+  "printed": 8,
+  "crop": [
+   0.239,
+   0.256,
+   0.562,
+   0.723
+  ],
+  "note": "ZOOMED, read: Śa. Brā. 9-1-1-6",
+  "answer": ""
+ },
+ {
+  "pdf": 30,
+  "printed": 9,
+  "crop": [
+   0.477,
+   0.495,
+   0.593,
+   0.775
+  ],
+  "note": "UNDECIDED: 2-2?-10, middle digits ambiguous",
+  "answer": ""
+ },
+ {
+  "pdf": 30,
+  "printed": 9,
+  "crop": [
+   0.271,
+   0.294,
+   0.21,
+   0.694
+  ],
+  "note": "UNDECIDED: rakṣā nyā..syasura middle letters unclear",
+  "answer": ""
+ },
+ {
+  "pdf": 30,
+  "printed": 9,
+  "crop": [
+   0.577,
+   0.598,
+   0.553,
+   0.755
+  ],
+  "note": "ZOOMED, UNDECIDED: 2-28-7 last digit",
+  "answer": ""
+ },
+ {
+  "pdf": 30,
+  "printed": 9,
+  "crop": [
+   0.772,
+   0.792,
+   0.613,
+   0.795
+  ],
+  "note": "ZOOMED, read: 3-3-4 (hooked 3 glyphs)",
+  "answer": ""
+ }
+]
