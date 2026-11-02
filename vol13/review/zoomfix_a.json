@@ -6078,5 +6078,405 @@
   "old": "8-1-30 [?]; 3-4-83 [?]; 6-2-49 [?]",
   "new": "8-1-30; 3-4-43; 6-2-49",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, 3-4-83->3-4-43, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 414,
+  "printed": 394,
+  "status": "unresolved",
+  "old": "6-67-10",
+  "new": "6-62-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 6-67-10; not viewed by me."
+ },
+ {
+  "pdf": 420,
+  "printed": 400,
+  "status": "unresolved",
+  "old": "3-10",
+  "new": "2-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 3-10; not viewed by me."
+ },
+ {
+  "pdf": 639,
+  "printed": 619,
+  "status": "unresolved",
+  "old": "6-4-40",
+  "new": "7-4-40 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 6-4-40; not viewed by me."
+ },
+ {
+  "pdf": 439,
+  "printed": 419,
+  "status": "unresolved",
+  "old": "10-4-4-30",
+  "new": "10-4-1-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 10-4-4-30; not viewed by me."
+ },
+ {
+  "pdf": 209,
+  "printed": 189,
+  "status": "unresolved",
+  "old": "3-1-80",
+  "new": "3-1-79 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 3-1-80; not viewed by me."
+ },
+ {
+  "pdf": 160,
+  "printed": 140,
+  "status": "unresolved",
+  "old": "7-1-70",
+  "new": "8-1-30 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 7-1-70; not viewed by me."
+ },
+ {
+  "pdf": 54,
+  "printed": 34,
+  "status": "unresolved",
+  "old": "3-30-10",
+  "new": "2-30-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 3-30-10; not viewed by me."
+ },
+ {
+  "pdf": 43,
+  "printed": 23,
+  "status": "unresolved",
+  "old": "10-22-10",
+  "new": "10-63-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 10-22-10; not viewed by me."
+ },
+ {
+  "pdf": 656,
+  "printed": 636,
+  "status": "unresolved",
+  "old": "7-1-30",
+  "new": "7-1-39 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 7-1-30; not viewed by me."
+ },
+ {
+  "pdf": 466,
+  "printed": 446,
+  "status": "unresolved",
+  "old": "6-3-80",
+  "new": "7-3-80 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 6-3-80; not viewed by me."
+ },
+ {
+  "pdf": 463,
+  "printed": 443,
+  "status": "unresolved",
+  "old": "6-1-20",
+  "new": "6-1-70 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 6-1-20; not viewed by me."
+ },
+ {
+  "pdf": 446,
+  "printed": 426,
+  "status": "unresolved",
+  "old": "6-67-10",
+  "new": "6-62-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 6-67-10; not viewed by me."
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "status": "unresolved",
+  "old": "3-300",
+  "new": "3-100 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 3-300; not viewed by me."
+ },
+ {
+  "pdf": 276,
+  "printed": 256,
+  "status": "unresolved",
+  "old": "6-1-160",
+  "new": "6-1-168 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 6-1-160; not viewed by me."
+ },
+ {
+  "pdf": 240,
+  "printed": 220,
+  "status": "unresolved",
+  "old": "8-2-40",
+  "new": "8-2-36 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 8-2-40; not viewed by me."
+ },
+ {
+  "pdf": 228,
+  "printed": 208,
+  "status": "unresolved",
+  "old": "5-3-10",
+  "new": "3-3-10 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 5-3-10; not viewed by me."
+ },
+ {
+  "pdf": 102,
+  "printed": 82,
+  "status": "unresolved",
+  "old": "8-2-10",
+  "new": "8-2-12 [?]",
+  "note": "Reverted: list values often carry a spurious trailing 0 (a closing bracket read as 0), so a target ending in 0 is unreliable (user note); original reading kept with [?]. Sheet value was 8-2-10; not viewed by me."
+ },
+ {
+  "pdf": 259,
+  "printed": 239,
+  "status": "unresolved",
+  "old": "Ai. Brā. 3-10; Ai. Brā. 3-10",
+  "new": "Ai. Brā. 3-20 [?]; Ai. Brā. 3-16 [?]",
+  "note": "Reverted: target ended in 0 (possible closing-bracket artifact); original readings restored in order; not viewed by me."
+ },
+ {
+  "pdf": 670,
+  "printed": 650,
+  "status": "resolved",
+  "old": "8-1-72 [?]",
+  "new": "8-1-72",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 661,
+  "printed": 641,
+  "status": "resolved",
+  "old": "7-4-42 [?]; 6-2-49 [?]",
+  "new": "7-4-42; 6-2-49",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 630,
+  "printed": 610,
+  "status": "resolved",
+  "old": "6-4-37 [?]",
+  "new": "6-4-37",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 629,
+  "printed": 609,
+  "status": "resolved",
+  "old": "7-15 [?]",
+  "new": "7-15",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 624,
+  "printed": 604,
+  "status": "resolved",
+  "old": "6-2-49 [?]",
+  "new": "6-2-49",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 611,
+  "printed": 591,
+  "status": "resolved",
+  "old": "8-2-5 [?]",
+  "new": "8-2-5",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 596,
+  "printed": 576,
+  "status": "resolved",
+  "old": "6-2-1 [?]",
+  "new": "6-2-1",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 544,
+  "printed": 524,
+  "status": "resolved",
+  "old": "7-2-79 [?]",
+  "new": "7-2-79",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 487,
+  "printed": 467,
+  "status": "resolved",
+  "old": "6-1-45 [?]",
+  "new": "6-1-45",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 484,
+  "printed": 464,
+  "status": "resolved",
+  "old": "3-1-8 [?]",
+  "new": "3-1-8",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 482,
+  "printed": 462,
+  "status": "resolved",
+  "old": "6-2-50 [?]",
+  "new": "6-2-50",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 481,
+  "printed": 461,
+  "status": "resolved",
+  "old": "2-3-69 [?]",
+  "new": "2-3-69",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 471,
+  "printed": 451,
+  "status": "resolved",
+  "old": "3-3-97 [?]; 7-1-39 [?]",
+  "new": "3-3-97; 7-1-39",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 463,
+  "printed": 443,
+  "status": "resolved",
+  "old": "8-2-42 [?]",
+  "new": "8-2-42",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 458,
+  "printed": 438,
+  "status": "resolved",
+  "old": "6-1-70 [?]",
+  "new": "6-1-70",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 454,
+  "printed": 434,
+  "status": "resolved",
+  "old": "7-1-50 [?]",
+  "new": "7-1-50",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 451,
+  "printed": 431,
+  "status": "resolved",
+  "old": "3-4-21 [?]",
+  "new": "3-4-21",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 446,
+  "printed": 426,
+  "status": "resolved",
+  "old": "7-3-94 [?]",
+  "new": "7-3-94",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 391,
+  "printed": 371,
+  "status": "resolved",
+  "old": "8-3-3 [?]",
+  "new": "8-3-3",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 345,
+  "printed": 325,
+  "status": "resolved",
+  "old": "3-1-79 [?]",
+  "new": "3-1-79",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 286,
+  "printed": 266,
+  "status": "resolved",
+  "old": "6-4-98 [?]",
+  "new": "6-4-98",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 276,
+  "printed": 256,
+  "status": "resolved",
+  "old": "3-1-8 [?]; 6-4-48 [?]",
+  "new": "3-1-8; 6-4-48",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 261,
+  "printed": 241,
+  "status": "resolved",
+  "old": "2-19 [?]",
+  "new": "2-19",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 259,
+  "printed": 239,
+  "status": "resolved",
+  "old": "3-20 [?]; 3-16 [?]",
+  "new": "3-20; 3-16",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 256,
+  "printed": 236,
+  "status": "resolved",
+  "old": "3-4-9 [?]",
+  "new": "3-4-9",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 250,
+  "printed": 230,
+  "status": "resolved",
+  "old": "3-3-97 [?]",
+  "new": "3-3-97",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 240,
+  "printed": 220,
+  "status": "resolved",
+  "old": "6-2-50 [?]; 8-2-4 [?]",
+  "new": "6-2-50; 8-2-4",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 212,
+  "printed": 192,
+  "status": "resolved",
+  "old": "3-1-83 [?]",
+  "new": "3-1-83",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 209,
+  "printed": 189,
+  "status": "resolved",
+  "old": "3-1-79 [?]",
+  "new": "3-1-79",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 194,
+  "printed": 174,
+  "status": "resolved",
+  "old": "4-53-2 [?]; 4-23-8 [?]",
+  "new": "4-23-8; 4-23-8",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 4-53-2->4-23-8, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 163,
+  "printed": 143,
+  "status": "resolved",
+  "old": "6-3-84 [?]",
+  "new": "6-3-84",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
+ },
+ {
+  "pdf": 156,
+  "printed": 136,
+  "status": "resolved",
+  "old": "2-14-11 [?]",
+  "new": "2-14-11",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed; not viewed by me."
  }
 ]
