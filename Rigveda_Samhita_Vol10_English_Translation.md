@@ -795,7 +795,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 > *rājñā ca prahitāṃ dāsīṃ bhaktāṃ matvā mahātapāḥ ‖*
 > *janayāmāsa cotthāya kakṣīvatpramukhān ṛṣīn ‖*
 
-(Bṛ. De. 4-24, 25 [?], as read.) The woman named Uśik, who was working in the house of the king of Aṅga, was sent, out of the queen's wish for a son, to the seer named Dīrghatamas; she served him with great devotion, and so he was pleased and begot in her the seers headed by Kakṣīvat — this is the story told.
+(Bṛ. De. 4-24, 25, as printed — read from a zoomed crop.) The woman named Uśik, who was working in the house of the king of Aṅga, was sent, out of the queen's wish for a son, to the seer named Dīrghatamas; she served him with great devotion, and so he was pleased and begot in her the seers headed by Kakṣīvat — this is the story told.
 
 > युवं नरा स्तुवते पज्रियाय कक्षीवते अरदतं पुरन्धिम् ।
 
@@ -809,11 +809,11 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 (Ṛ. Saṃ. 1-117-6, as printed.) From ṛks such as these it is known that he belonged to the line of Pajra.
 
-> नूदे [?] च्युतः कृकनावको [?] अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ।
+> [?]दच्युतः कृशनावतो अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ।
 
-> *nūde [?] cyutaḥ kṛkanāvako [?] atyānkakṣīvanta udamṛkṣanta pajrāḥ |*
+> *[?]dacyutaḥ kṛśanāvato atyānkakṣīvanta udamṛkṣanta pajrāḥ |*
 
-(Ṛ. Saṃ. 1-126-4, as printed; the words of this ṛk are read with doubt.) In this ṛk it is known that those born in his family are called *Pajra*. In this same Sūkta [126] the son of Bhāvayavya, Svanaya, who dwelt on the bank of the river Sindhu, a king, gave him very abundant gifts…
+(Ṛ. Saṃ. 1-126-4, as printed; zoomed: the words after the first syllable are clear — *dacyutaḥ kṛśanāvato*; the first syllable is doubtful, *ma* or *nu*, so left `[?]`.) In this ṛk it is known that those born in his family are called *Pajra*. In this same Sūkta [126] the son of Bhāvayavya, Svanaya, who dwelt on the bank of the river Sindhu, a king, gave him very abundant gifts…
 
 ---
 
@@ -834,7 +834,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 > अथास्मै स ददौ कन्या दशाभरणभूषिताः ॥
 > तावतश्च रथाञ्श्यावान् सैन्धवांश्चतुर्युजः [?] ।
 > वधूनां वाहनार्थाय धनकुप्यमजाविकम् ॥
-> निष्काणां वृषभाणां च शतं शतमदात्पुनः [?] ।
+> निष्काणां वृषभाणां च शतं शतमदात्पुनः ।
 > एतदुत्तरसूक्तेन शतमित्यादिनोदितम् ॥
 > शतमश्वाञ्छतं निष्कान् रथान् दश वधूमतः ।
 > चतुर्युजो गवां चैव सहस्रं षष्ट्यधिकम् ॥
@@ -853,14 +853,14 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 > *athāsmai sa dadau kanyā daśābharaṇabhūṣitāḥ ‖*
 > *tāvataśca rathāñśyāvān saindhavāṃścaturyujaḥ [?] |*
 > *vadhūnāṃ vāhanārthāya dhanakupyamajāvikam ‖*
-> *niṣkāṇāṃ vṛṣabhāṇāṃ ca śataṃ śatamadātpunaḥ [?] |*
+> *niṣkāṇāṃ vṛṣabhāṇāṃ ca śataṃ śatamadātpunaḥ |*
 > *etaduttarasūktena śatamityādinoditam ‖*
 > *śatamaśvāñchataṃ niṣkān rathān daśa vadhūmataḥ |*
 > *caturyujo gavāṃ caiva sahasraṃ ṣaṣṭyadhikam ‖*
 > *svanayādbhāvayavyādyaḥ kakṣīvān pratyapadyata |*
 > *pratigṛhya ca tuṣṭāva prātaḥ pitre śaśaṃsa ca ‖*
 
-(Bṛ. De. 4-2[?] to 4-[?], as printed in small type: the digits are not reliably read; the verses were read from the bold type.) After finishing his studies in the guru's house, when Kakṣīvān was returning to his own home he became tired on the road and lay down in a forest and fell asleep. Then the king named Svanaya, son of Bhāvayavya, came there for sport with his wife, servants and the rest of his retinue, and saw him. Seeing his beauty he was pleased, and thinking that if there were nothing against it from the point of view of *varṇa* and *gotra* he would give him a daughter in marriage and have the wedding performed, he woke him and asked about his family and so on. Then Kakṣīvān said that he was of the line of Aṅgiras, a son of Dīrghatamas who was the son of Ucathya; and at once Svanaya gave him ten adorned maidens, and with them horses, chariots, wealth, and goats, sheep and other possessions in abundance. About this matter —
+(Bṛ. De. 3-142 to 150, as printed "೩-೧೪೨ ರಿಂದ ೧೫೦" — read from a zoomed crop; the sheet supplied by the user also gives 3-142.) After finishing his studies in the guru's house, when Kakṣīvān was returning to his own home he became tired on the road and lay down in a forest and fell asleep. Then the king named Svanaya, son of Bhāvayavya, came there for sport with his wife, servants and the rest of his retinue, and saw him. Seeing his beauty he was pleased, and thinking that if there were nothing against it from the point of view of *varṇa* and *gotra* he would give him a daughter in marriage and have the wedding performed, he woke him and asked about his family and so on. Then Kakṣīvān said that he was of the line of Aṅgiras, a son of Dīrghatamas who was the son of Ucathya; and at once Svanaya gave him ten adorned maidens, and with them horses, chariots, wealth, and goats, sheep and other possessions in abundance. About this matter —
 
 ### Printed p. 25  (PDF 46)
 
@@ -890,9 +890,9 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 (Ṛ. Saṃ. 10-25-10, as printed.) And in ṛks such as these, and then:
 
-> एताभिर्ह श्विनोः कक्षीवान् प्रियं धामोपागच्छत्स्व [?] परमं लोकमजयत् ।
+> एताभिर्हाश्विनोः कक्षीवान्प्रियं धामोपागच्छत्स्व परमं लोकमजयत् ।
 
-> *etābhirha śvinoḥ kakṣīvān priyaṃ dhāmopāgacchatsva [?] paramaṃ lokamajayat |*
+> *etābhirhāśvinoḥ kakṣīvānpriyaṃ dhāmopāgacchatsva paramaṃ lokamajayat |*
 
 (Ai. Brā. 1-21, as printed in small type, doubtful.) "Reciting the ṛks Ṛ. Saṃ. 1-120-1 to 9 (as read by the reader's OCR: "೧-೧೨೦-೧ ರಿಂದ ೯"), Kakṣīvān went to the abode of the Aśvin deities, and, graced by them, reached an even better world" — in the Aitareya Brāhmaṇa; and in the Śatapatha Brāhmaṇa also:
 
@@ -902,11 +902,11 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 (Śa. Brā. 2-3-4-35, as printed; the OCR gives the same.) "Let Kakṣīvān, the son of Uśij, who is full of nourishment, a destroyer of enemies, a giver of wealth, an increaser of prosperity, be with us" — in the Śatapatha Brāhmaṇa sentences also Kakṣīvān is praised as an excellent person.
 
-> याभिः शन्तुरभवद्विचक्षणा [?] स्वरूषु ऊतिभिरश्विना गतम् ।
+> याभि[?]मन्तुरभवद्विचक्षणस्ताभिरूषु ऊतिभिरश्विना गतम् ।
 
-> *yābhiḥ śanturabhavadvicakṣaṇā [?] svarūṣu ūtibhiraśvinā gatam |*
+> *yābhi[?]manturabhavadvicakṣaṇastābhirūṣu ūtibhiraśvinā gatam |*
 
-(Ṛ. Saṃ. 1-112-1[?]-[?], as read, doubtful.) In this ṛk it is said that Kakṣīvān had obtained complete knowledge about the Pāka-yajña, the Havir-yajña and the Soma-yajña. Because he was extremely dull at first, he performed a sacrifice for the Aśvin deities with the great wish that he must somehow, by effort, acquire unsurpassed knowledge of all the affairs of the past, future and present; and after it they, being pleased, graciously gave him knowledge relating to the three times and to all matters — this is the story.
+(Ṛ. Saṃ. 1-112-4, as printed; zoomed crop and the user's numeral sheet agree. The verse above was re-read from zoomed crops: the printed letters are *…bhirūṣu ūtibhir aśvinā gataṃ* after *vicakṣaṇastā*; the syllables after *yābhi* (printed like *-śri-* / *-stri-*, before *mantur*) remain doubtful.) In this ṛk it is said that Kakṣīvān had obtained complete knowledge about the Pāka-yajña, the Havir-yajña and the Soma-yajña. Because he was extremely dull at first, he performed a sacrifice for the Aśvin deities with the great wish that he must somehow, by effort, acquire unsurpassed knowledge of all the affairs of the past, future and present; and after it they, being pleased, graciously gave him knowledge relating to the three times and to all matters — this is the story.
 
 ### Printed p. 26  (PDF 47)
 
