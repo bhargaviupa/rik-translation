@@ -1,0 +1,2 @@
+# u18 state (PDF 240-253), sheet 3 (page = PDF-200)
+- p.240 (printed 219): bhāṣya intro re-read from 450-dpi zooms: spurious [?] after yātenocyate removed; "ṣaṣṭhīsaptamyoḥ svabhāvyayo romaśayoḥ" -> "ṣaṣṭhīsaptamyostu bhāvayavyaromaśayoḥ" (clear); "tasya stutyā" -> "tasyaiva stutyā"; "pitraiva nāmnā" -> "pitṛnāmnā"; "vyavahartum [?] | prathamādyānuṣṭubvaityatra [?]" -> "vyavahartuṃ śakyatvāt prathamāyāmṛci"; "viruddham [?] uktaṃ [?]" -> "viruddhamityuktaṃ" (all sure). English gloss of the clause added (marked tentative).
