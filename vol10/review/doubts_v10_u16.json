@@ -1,0 +1,98 @@
+[
+ {
+  "pdf": 214,
+  "printed": 193,
+  "crop": [
+   0.442,
+   0.465,
+   0.299,
+   0.703
+  ],
+  "note": "ZOOMED, UNDECIDED: cluster after vīḍvaṅgān (print ವೀಡ್ವಂಗಾನ್ಸ್ತೈ-like), kept [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 214,
+  "printed": 193,
+  "crop": [
+   0.557,
+   0.576,
+   0.299,
+   0.662
+  ],
+  "note": "ZOOMED, read: kakṣīvān pratyapadyata (clear)",
+  "answer": ""
+ },
+ {
+  "pdf": 216,
+  "printed": 195,
+  "crop": [
+   0.668,
+   0.705,
+   0.184,
+   0.814
+  ],
+  "note": "ZOOMED, read: prātarāgāminnatithe putra āyantaṃ (clear)",
+  "answer": ""
+ },
+ {
+  "pdf": 216,
+  "printed": 195,
+  "crop": [
+   0.779,
+   0.799,
+   0.466,
+   0.814
+  ],
+  "note": "ZOOMED, read: sugurbhavati tatenāccheti | (medium); sheet gives ni. 5.19",
+  "answer": ""
+ },
+ {
+  "pdf": 220,
+  "printed": 199,
+  "crop": [
+   0.28,
+   0.309,
+   0.185,
+   0.809
+  ],
+  "note": "ZOOMED, read: madyāsmindina idānīmāyam (clear)",
+  "answer": ""
+ },
+ {
+  "pdf": 220,
+  "printed": 199,
+  "crop": [
+   0.411,
+   0.434,
+   0.185,
+   0.467
+  ],
+  "note": "ZOOMED, UNDECIDED: Nirukta ref 2-? (single small digit, 3/5?; sheet says 2-81, conflict)",
+  "answer": ""
+ },
+ {
+  "pdf": 222,
+  "printed": 201,
+  "crop": [
+   0.436,
+   0.456,
+   0.398,
+   0.816
+  ],
+  "note": "ZOOMED, UNDECIDED: Nirukta words 'aṃśuḥ śam?... tro bhavati' (print ಶಮುಷ್ನಿವ ಃತ್ರೋ), kept [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 225,
+  "printed": 204,
+  "crop": [
+   0.58,
+   0.61,
+   0.0,
+   1.0
+  ],
+  "note": "Read from strip (no zoom needed): pṛṇantaṃ pitṝnprīṇayantaṃ papuriṃ; the [?] removed",
+  "answer": ""
+ }
+]

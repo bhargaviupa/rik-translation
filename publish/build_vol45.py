@@ -26,6 +26,8 @@ CFG = {
          expected={122:15,123:13,124:13,125:7,126:7,127:11,128:8,129:11,130:10,131:7,132:6,133:7,134:6,135:9,136:7}),
  11: dict(title='Maṇḍala 1 · Sūktas 137–157 · Second Adhyāya of the Second Aṣṭaka', cover='cover_vol11.jpg',
          expected={137:3,138:4,139:11,140:13,141:13,142:13,143:8,144:7,145:5,146:5,147:5,148:5,149:5,150:3,151:9,152:7,153:4,154:6,155:6,156:5,157:6}),
+ 13: dict(title='Maṇḍala 1 · Sūktas 166–183 · Fourth Adhyāya of the Second Aṣṭaka', cover='cover_vol13.jpg',
+         expected={166:15,167:11,168:10,169:8,170:5,171:6,172:3,173:13,174:10,175:6,176:6,177:5,178:5,179:6,180:10,181:9,182:8,183:6}),
 }
 # from Vol 11 the Saṃhitā lines carry Vedic accents: Lohit Devanagari draws the svarita as a vertical stroke above the syllable
 ACCENT_CSS = ('<style>html { font-family: "Noto Serif", "Lohit Devanagari", "Noto Serif Kannada", serif; }'
