@@ -70,5 +70,41 @@
   ],
   "note": "ZOOMED, read: 10-166-5",
   "answer": ""
+ },
+ {
+  "pdf": 727,
+  "printed": 706,
+  "crop": [
+   0.349,
+   0.398,
+   0.2,
+   0.813
+  ],
+  "note": "ZOOMED, read: tathyaitan mitrasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti (Ni 2-13); first word medium",
+  "answer": ""
+ },
+ {
+  "pdf": 727,
+  "printed": 706,
+  "crop": [
+   0.564,
+   0.612,
+   0.24,
+   0.813
+  ],
+  "note": "ZOOMED, read: tasyai mitraśca (not tasmai)",
+  "answer": ""
+ },
+ {
+  "pdf": 727,
+  "printed": 706,
+  "crop": [
+   0.624,
+   0.647,
+   0.562,
+   0.813
+  ],
+  "note": "ZOOMED, read: Tai.Brā. 1-1-9-1-1, 2",
+  "answer": ""
  }
 ]
