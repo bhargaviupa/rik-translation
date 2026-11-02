@@ -1,6 +1,6 @@
 # Vol 10 — state
 
-Status: **translated (Oct 2026); correction pass not started.** Folder created Nov 2.
+Status: **translated (Oct 2026); correction not started.** Folder created Nov 2. **Method (user, Nov 2): Phase 1 = apply the user's xls numeral files (no scan viewing); then STOP and ask for an explicit yes before Phase 2 (page reading). Sonnet only.** See `vol10_runbook.md`.
 
 ## Facts
 - Output: `Rigveda_Samhita_Vol10_English_Translation.md` (2.07 MB, 878 headings, **2,869 `[?]`**, no `[accent ?]`). Its last progress note lists open flags: p. 534 introduction, stray Kannada transliteration (Sūkta 131 Ṛk 4, p. 486), Yajus quotations on pp. 330, 333, 336–338, 343, 348, 353, 357, 368, known slips (Sūkta 129 Ṛk 9 *pathā*, p. 404; Ṛk 11 Special Topics filed under p. 414, print runs on to p. 415; Ṛk 3 typo "aavindat"; Sūkta 128 p. 324 *mitramaha* note).
@@ -9,6 +9,7 @@ Status: **translated (Oct 2026); correction pass not started.** Folder created N
 - Numerals: read by eye with the digit key in CLAUDE.md (incl. the Oct 31 correction: round = 2, hooked = 3, flat-footed = 7); `publish/tools/numeral_pass/METHOD.md`.
 
 ## To decide with the user
-- [ ] Task of the new session: correction pass (default, as Vols 3–6) / re-translation from a better scan / Kannada text file.
+- [x] Task: correction in two phases (above). Re-translation and the Kannada text file are not planned.
 - [ ] Better scan to be uploaded? (then re-check the offset and the page count).
-- [ ] Who supplies numerals (user's numeral files, as for Vol 14) and which model works (Sonnet for correction passes).
+- [x] Numerals: user's xls files in `numerals/` (format to be described by the first worker). Model: Sonnet only.
+- [ ] Phase 1 done? (report to the user, then wait for the explicit yes for Phase 2)
