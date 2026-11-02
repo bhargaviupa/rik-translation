@@ -9802,7 +9802,7 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 - ***sanitā*** — root *ṣaṇu dāne*; by "*dhātvādeḥ ṣaḥ saḥ*" (Pā. Sū. 6-1-64 [?]) *ṣa* becomes *sa* at the beginning; in the agent sense the suffix *tṛn*; by "*ārdhadhātukasyeḍ valādeḥ*" (Pā. Sū. 7-2-35 [?]) the augment *iṭ*; by "*jñ-ityādir nityam*" (Pā. Sū. 6-1-197 [?]) the first syllable is *udātta*.
 - ***codayaḥ*** — root *cuda preraṇe*; by "*chandasi luṅlaṅliṭaḥ*" (Pā. Sū. 3-4-6) *laṅ* in the sense of *loṭ*; by "*satyāpapāśa*…" (Pā. Sū. 3-1-25 [?]) *ṇic* in its own sense; *sip*, *śap*; because *śap* is the cause, guṇa for the *ṇic*, substitution *aya*; since *ṇic* is the cause, guṇa for the light penultimate vowel of the root; because it is in *pādādi* position, no *nighāta*; the *ṇic* accent remains.
-- ***dasyum*** — root *dasu upakṣaye*; by "*yujimuni śuṃdhi*…" (Uṇ. Sū. 3-100 [?]) the suffix *yuc*; since it belongs to the *vṛṣādi* group, the first syllable is *udātta*; since the substitution *anādeśa* (for *yu*) is prescribed for *ukāra* *ityādi*, no *anādeśa* occurs here.
+- ***dasyum*** — root *dasu upakṣaye*; by "*yujimuni śuṃdhi*…" (Uṇ. Sū. 3-300) the suffix *yuc*; since it belongs to the *vṛṣādi* group, the first syllable is *udātta*; since the substitution *anādeśa* (for *yu*) is prescribed for *ukāra* *ityādi*, no *anādeśa* occurs here.
 - ***avratam*** — *na vidyate vratam yasya saḥ tam*; by "*naño subhyām*" (Pā. Sū. 6-2-172) the final member takes *udātta* accent.
 - ***oṣaḥ*** — root *uṣa dāhe*, *bhvādi*; to show the sense of *loṭ*, Vedic *laṅ*; second person singular; Vedically no augment; because it is in *pādādi* position, no *nighāta*;
 

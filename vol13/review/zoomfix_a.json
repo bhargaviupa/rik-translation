@@ -6502,5 +6502,13 @@
   "old": "8-2-4",
   "new": "8-2-36 [?]",
   "note": "Restored: the citation is attached to the rule 'vṛścabhrasja…' (printed reading 8-2-36); the list's 8-2-40 (=8-2-4) belongs to a different citation on this page, not yet identified; not viewed by me."
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "status": "resolved",
+  "old": "3-100 [?]",
+  "new": "3-300",
+  "note": "User confirmed 3-300 is correct; not viewed by me."
  }
 ]
