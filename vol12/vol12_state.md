@@ -1,12 +1,13 @@
 # Vol 12 — state
 
-Status: **not started.** Folder created Oct 30.
+Status: **not started.** Folder created Oct 30, restructured like `vol10/` on Nov 2.
 
-## Set-up checklist (do all before translating; test on 3 pages with known answers)
-- [ ] Scan uploaded to `vol12/scans/` (resolution? ~600 dpi preferred); `tools/cfg.py` maps global PDF page → part + page.
-- [ ] Page inventory script run: printed page + header on every scan page → map (printed = PDF − k), missing/duplicate/out-of-order pages listed here.
-- [ ] Contents table read: Sūkta ranges, Ṛk counts, anuvāka/aṣṭaka/adhyāya/varga headers (dvaipada sūktas noted).
-- [ ] Digit key calibrated on header/varga numerals and a few references (record glyph rules in the runbook).
-- [ ] Tools tested: crop (whole-page fractions only), apply (unique-match asserts), lint, doubts builder, Kannada→Devanagari→IAST script.
-- [ ] Model chosen by a test: same 5 pages (with known answers) by Sonnet and Opus, compared.
-- [ ] Runbook agreed with the user.
+## Facts (fill in from the scan)
+- Scan: only the old `Rig_Vol12.pdf` (743 pp, 300 ppi 1-bit, low quality) is in the repo; no better scan found yet.
+- Page offset (printed = PDF − k) and front-matter numbering: ?  Set OFFSET in `tools/cfg.py` after sampling header strips.
+- Content (Sūkta range, Aṣṭaka/Adhyāya): ? (title page and contents).
+
+## Open decisions (user)
+- [ ] **Scan:** upload a better scan to `scans/`, or approve translating from the old 300 ppi scan (CLAUDE.md earlier rule: do not translate from a low-resolution copy). The dispatcher must STOP and ask if no better scan is present and no approval is recorded here.
+- [ ] Numeral files for Vol 12 in `numerals/` (format to be described by the first worker).
+- [ ] Models: Sonnet only (user, Nov 2).
