@@ -6936,7 +6936,7 @@ and
 
 Yāska, in the Nirukta, *devo devāc'yā kṛpā* (Ni. 6-8) — *devo devān pratyakṣayā* [as printed "ಪ್ರತ್ಯಕ್ತಯಾ"] *kṛpā kṛpater vā kalpater vā* — explains thus. Durgācārya, citing the same ṛk *agniṃ hotāraṃ manye* (Tai. Saṃ. 2-1-12-1, as printed), says that because the word *kṛpā* is formed from the root *kṛp* (*kṛpū sāmarthye*) or from the root *kalp*, it means: by power Agni has a mind directed towards the gods.
 
-***śociṣā vaṣṭi*** — *jvālayā kāmayate svīkarotīty arthaḥ*: "with the flame he desires, accepts": it is described that Agni, following the spreading of the ghee that is offered all round and abundantly flows about him, himself shining, accepts with his flames the burning ghee. The words *śocati*, *śociḥ* are recorded among the names of burning, among the names of the burning (Ni. 1-[?]8, as printed "೨-೨೮" [?]); the sense is "flames".
+***śociṣā vaṣṭi*** — *jvālayā kāmayate svīkarotīty arthaḥ*: "with the flame he desires, accepts": it is described that Agni, following the spreading of the ghee that is offered all round and abundantly flows about him, himself shining, accepts with his flames the burning ghee. The words *śocati*, *śociḥ* are recorded among the names of burning, among the names of the burning (Ni. 2-28, as printed "೨-೨೮"); the sense is "flames".
 
 **Vyākaraṇa-prakriyā (Ṛk 1; noted briefly, numbers as read by the OCR).** *hotāram* — root *hu dānādanayoḥ*; *tṛn* in the agent sense; guṇa of the root vowel; since it has the marker *n*, first-syllable acute; accusative singular. *manye* — root *manu avabodhane*; laṭ first person singular; *tiṅ-nighāta*.
 
@@ -6946,7 +6946,7 @@ Yāska, in the Nirukta, *devo devāc'yā kṛpā* (Ni. 6-8) — *devo devān pra
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 19 Sū. 127".)*
 
-*dāsvantam* — root *ḍudāñ dāne*; *sarvadhātubhya asun* gives *asun*, the form *dāś*; *dāḥ dānaṃ yasya saḥ dāsvān*; *tad asyāsty* gives *matup*; *mādupadhāyāś ca…* gives *va* for *m*; *tasau matvarthe* (Pā. 1-4-19) gives *bha*-designation to the ending in *s*, so no *rutva*; since *matup* is unaccented, the first-syllable acute remains. *jātavedasam* — root *vida jñāne*; with *jāta* as upapada, *gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca* (Uṇ. 4-?, as printed "೪-೬೬೦" [?]) gives the suffix *asi*; the accent of the first member as an exception to the natural accent of the final member; guṇa of the short penultimate of the root; accusative singular. *svadhvaraḥ* — *śobhanaḥ adhvaraḥ yasya saḥ svadhvaraḥ*; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member. *devāc'yā kṛpā* — *supāṃ sulug…* (Pā. 7-1-39) gives *luk* to the instrumental ending. *vibhrāṣṭim* — root *bhrāja dīptau*; *striyāṃ ktin* (Pā. 3-3-94) gives *ktin*; *vraśca…* gives *ṣa* for the *j*; taking it as cause, *ṣṭutva*; *tādau ca niti kṛty ati* (Pā. 6-2-50) gives the natural accent of the *gati* (*vi*). *vaṣṭi* — root *vaś kāntau* (to desire); laṭ third person singular; *tiṅ-nighāta*. *śociṣā* — root *śuca śoke*; *arciśuciḥ* (Uṇ. 2-?, as printed "೨-೨೬೫") gives *isi*; guṇa of the short penultimate; first-syllable acute of the suffix. *ājuhvānasya* — root *hu dānādanayoḥ*; in the passive, *śānac* in the laṭ sense; in the Veda no *yak*; *śluḥ* [print: *śluvikaraṇa*]; doubling of the root; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the first-syllable acute; in the *prādi*-compound the accent of the final member; genitive singular. *sarpiṣaḥ* — root *sṛp gatau*; *arciśuciḥ* gives *isi*; guṇa of the short penultimate; genitive singular. ‖ 1 ‖
+*dāsvantam* — root *ḍudāñ dāne*; *sarvadhātubhya asun* gives *asun*, the form *dāś*; *dāḥ dānaṃ yasya saḥ dāsvān*; *tad asyāsty* gives *matup*; *mādupadhāyāś ca…* gives *va* for *m*; *tasau matvarthe* (Pā. 1-4-19) gives *bha*-designation to the ending in *s*, so no *rutva*; since *matup* is unaccented, the first-syllable acute remains. *jātavedasam* — root *vida jñāne*; with *jāta* as upapada, *gatikārakopapadayoḥ pūrvapadaprakṛtisvaratvaṃ ca* (Uṇ. 4-660, as printed "೪-೬೬೦") gives the suffix *asi*; the accent of the first member as an exception to the natural accent of the final member; guṇa of the short penultimate of the root; accusative singular. *svadhvaraḥ* — *śobhanaḥ adhvaraḥ yasya saḥ svadhvaraḥ*; *nañsubhyām* (Pā. 6-2-172) gives the final-acute of the latter member. *devāc'yā kṛpā* — *supāṃ sulug…* (Pā. 7-1-39) gives *luk* to the instrumental ending. *vibhrāṣṭim* — root *bhrāja dīptau*; *striyāṃ ktin* (Pā. 3-3-94) gives *ktin*; *vraśca…* gives *ṣa* for the *j*; taking it as cause, *ṣṭutva*; *tādau ca niti kṛty ati* (Pā. 6-2-50) gives the natural accent of the *gati* (*vi*). *vaṣṭi* — root *vaś kāntau* (to desire); laṭ third person singular; *tiṅ-nighāta*. *śociṣā* — root *śuca śoke*; *arciśuciḥ* (Uṇ. 2-?, as printed "೨-೨೬೫") gives *isi*; guṇa of the short penultimate; first-syllable acute of the suffix. *ājuhvānasya* — root *hu dānādanayoḥ*; in the passive, *śānac* in the laṭ sense; in the Veda no *yak*; *śluḥ* [print: *śluvikaraṇa*]; doubling of the root; *abhyastānām ādiḥ* (Pā. 6-1-189) gives the first-syllable acute; in the *prādi*-compound the accent of the final member; genitive singular. *sarpiṣaḥ* — root *sṛp gatau*; *arciśuciḥ* gives *isi*; guṇa of the short penultimate; genitive singular. ‖ 1 ‖
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-4-19; 4-660; 6-2-172; 7-1-39; 3-3-64; 6-2-50; 2-265; 6-1-186; 2-265
 
@@ -7008,7 +7008,7 @@ Yāska, in the Nirukta, *devo devāc'yā kṛpā* (Ni. 6-8) — *devo devān pra
 
 **Special topics (Viśeṣaviṣayagaḷu), Ṛk 2.**
 
-***śukra — dīptajvālāgne*** — the word *śukra* is recorded among the hundred and one names of water (Ni. 1-[?]4 [as printed "೨-೩೪"; doubtful]).
+***śukra — dīptajvālāgne*** — the word *śukra* is recorded among the hundred and one names of water (Ni. 2-24, as printed "೨-೨೪").
 
 > आ सुष्वयन्ती यजते उपाके उषासानक्ता सदतां नि योनौ ।
 > दिव्ये योषणे बृहती सुरुक्मे अधि श्रियं शुक्रपिशं दधाने ॥
@@ -7052,11 +7052,11 @@ In these ṛks it is described that Agni, first of all the Aṅgirases, was born
 
 (Ṛ. Saṃ. 1-45-3, as printed "೧-೪೫-೩".) Citing this ṛk, Yāska (Ni. 3-17), "*arciṣi bhṛguḥ saṃbabhūva bhṛgur bhrajyamāno na dehe | aṅgāreṣv aṅgirā aṅgārā añcanāḥ aṅkanāḥ*": has explained. Durgācārya, explaining its meaning —
 
-> भृगुर्भ्रज्यमानो न देहे प्रजापतिना किल शुक्रमाक्षीयमादाय अग्नौ हुतम् । ततः अर्चिषि ज्वालायां भृगुर्नाम महर्षिः संबभूव । व्यपगते अर्चिषि यः अङ्गारेषु संबभूव सः अङ्गिराः नाम अभवत् । अङ्गाराः अङ्कनाः । ते हि यत्र निधीयन्ते तदङ्कितं भवति ॥
+> भृगुर्भ्रज्यमानो न देहे प्रजापतिना किल शुक्रमात्मीयमादाय अग्नौ हुतम् । ततः अर्चिषि ज्वालायां भृगुर्नाम महर्षिः संबभूव । व्यपगते अर्चिषि यः अङ्गारेषु संबभूव सः अङ्गिराः नाम अभवत् । अङ्गाराः अङ्कनाः । ते हि यत्र निधीयन्ते तदङ्कितं भवति ॥
 
-> *bhṛgurbhrajyamāno na dehe prajāpatinā kila śukramākṣīyamādāya agnau hutam | tataḥ arciṣi jvālāyāṃ bhṛgurnāma maharṣiḥ saṃbabhūva | vyapagate arciṣi yaḥ aṅgāreṣu saṃbabhūva saḥ aṅgirāḥ nāma abhavat | aṅgārāḥ aṅkanāḥ | te hi yatra nidhīyante tadaṅkitaṃ bhavati ‖*
+> *bhṛgurbhrajyamāno na dehe prajāpatinā kila śukramātmīyamādāya agnau hutam | tataḥ arciṣi jvālāyāṃ bhṛgurnāma maharṣiḥ saṃbabhūva | vyapagate arciṣi yaḥ aṅgāreṣu saṃbabhūva saḥ aṅgirāḥ nāma abhavat | aṅgārāḥ aṅkanāḥ | te hi yatra nidhīyante tadaṅkitaṃ bhavati ‖*
 
-*(Read letter by letter; "śukram ākṣīyam ādāya" [?] is small and doubtful.)* "[It is said that] Bhṛgu, as if being fried in a body, [arose] when Prajāpati offered his seed in the fire; thence in the flame (*arciṣi*) the great seer called Bhṛgu came into being; when the flame had gone, he who came into being among the embers was called Aṅgirā. *Aṅgārāḥ* are *aṅkanāḥ* — marking: for where they are laid down, that place is marked." When Brahmā (Prajāpati) offered his seed in the fire, flames arose; from them the seer Bhṛgu was born; when all the flames had subsided, the embers remained; he who was born from these became the seer called Aṅgiras; since those that are touched are marked (*aṅkana*), these were named *aṅgāras*: so the meaning is explained. From this Sāyaṇa has described Agni, being endowed with flame, as the best among embers.
+*(Read letter by letter; zoomed: "śukram ātmīyam ādāya", fairly sure.)* "[It is said that] Bhṛgu, as if being fried in a body, [arose] when Prajāpati offered his seed in the fire; thence in the flame (*arciṣi*) the great seer called Bhṛgu came into being; when the flame had gone, he who came into being among the embers was called Aṅgirā. *Aṅgārāḥ* are *aṅkanāḥ* — marking: for where they are laid down, that place is marked." When Brahmā (Prajāpati) offered his seed in the fire, flames arose; from them the seer Bhṛgu was born; when all the flames had subsided, the embers remained; he who was born from these became the seer called Aṅgiras; since those that are touched are marked (*aṅkana*), these were named *aṅgāras*: so the meaning is explained. From this Sāyaṇa has described Agni, being endowed with flame, as the best among embers.
 
 ***manmabhir viprebhir manmabhiḥ*** — *mananasādhanaiḥ viśeṣeṇa prīṇayitṛbhiḥ mantraiḥ | yadvā viprair medhāvibhir ṛtvigbhiḥ manmabhir mantraiś ca sahitā vayam iti saṃbandhaḥ*. The word *manma* is repeated here twice; by this two kinds of meanings are described. The first meaning is "means of thought", as an epithet of the word *mantra*. In the second, the word *manma* [means mantra]. For the word *vipra* too two meanings are explained: first, *vi* = special, *pra* = pleasing (*prīṇayitā*, "the satisfier"); the second meaning of the word *vipra* is "wise priest" (*ṛtvij*).
 
@@ -7066,7 +7066,7 @@ In these ṛks it is described that Agni, first of all the Aṅgirases, was born
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
 
-The meaning is that, in sum, wise priests who are accompanied by mantras that please Agni, and we the sacrificers, invoke [Agni]. Sāyaṇa has explained this in two ways. Through the different meanings stated for *vipra*, a variation of sense is described here. The meaning of the word *manma* has been explained in the ṛk 1-[?] [as printed "೧-೧೪೪-೨"?; doubtful].
+The meaning is that, in sum, wise priests who are accompanied by mantras that please Agni, and we the sacrificers, invoke [Agni]. Sāyaṇa has explained this in two ways. Through the different meanings stated for *vipra*, a variation of sense is described here. The meaning of the word *manma* has been explained in the ṛk 1-148-2 (as printed "೧-೧೪೮-೨").
 
 ***hotāraṃ carṣaṇīnām*** — *yajamānānām arthe devānām āhvātāraṃ yadvā pūrvaṃ manuṣyāṇām eva satāṃ paścād yāgādisādhanena devatvam āpannānāṃ devānām āhvātāram*: In explaining the meaning of the word *hotṛ*, derived from the root *hve*, it was described before that Agni himself is the *hotṛ*, and that he calls the gods to receive the oblations offered in the sacrifice to the various gods, by reciting their mantras. By this two kinds of meaning are explained here too. In the first, it is said that Agni calls all the gods for the sacrifice. In the second, to explain the word *carṣaṇī* — Yāska in the Nirukta cites *manuṣyāḥ, naraḥ* [and so on], among the twenty-five names of men (Ni. 3-8, as printed "೩-೮"). And —
 
@@ -7074,7 +7074,7 @@ The meaning is that, in sum, wise priests who are accompanied by mantras that pl
 
 > *viśvānarasya vaspatimanānatasya śavasaḥ | evaiśca carṣaṇīnāmūtī huve rathānām ‖*
 
-(Ṛ. Saṃ. 8-6-? [?], as printed "೮-೬-೪"? — numerals small.) *(Read letter by letter; I do not complete the words from memory; "vaspatim" is doubtful.)* In this ṛk, *carṣaṇīnām* is explained as *manuṣyāṇām* (Ni. 12-22 as read by the OCR). Following this, Sāyaṇa explains the word *carṣaṇī*, since it is recorded among the names of men, as *yajamānānām arthe* — "for the sacrificers" — in the first explanation; and in the second, those who were first mere men and, by performing sacrifice, attained the state of gods, are called *carṣaṇī*; Agni calls them to the sacrifice, he said.
+(Ṛ. Saṃ. 8-68-4, as printed "೮-೬೮-೪".) *(Read letter by letter; I do not complete the words from memory; "vaspatim" is doubtful.)* In this ṛk, *carṣaṇīnām* is explained as *manuṣyāṇām* (Ni. 12-22, as printed "೧೨-೨೨"). Following this, Sāyaṇa explains the word *carṣaṇī*, since it is recorded among the names of men, as *yajamānānām arthe* — "for the sacrificers" — in the first explanation; and in the second, those who were first mere men and, by performing sacrifice, attained the state of gods, are called *carṣaṇī*; Agni calls them to the sacrifice, he said.
 
 ***parijmānam iva dyām*** — *sūryam iva parito gacchantam*: explaining *dyām* as "the sun", Sāyaṇa says that Agni, like the Sun, moves about everywhere (pervades). But Yāska —
 
@@ -7084,7 +7084,7 @@ The meaning is that, in sum, wise priests who are accompanied by mantras that pl
 > *na nūnamasti no śvaḥ kastadveda yadadbhutam |*
 > *anyasya cittamabhi saṃcareṇyamutādhītaṃ vi naśyati ‖*
 
-(Ṛ. Saṃ. 1-120-3 [?], as printed "೧-೧೨೦-೩".) citing this ṛk, [says] *na nūnam asty adyatanaṃ, adyāsmin daivi dyur ity ahno nāmadheyaṃ dyotata iti sataḥ* (Ni. 4-[?]; as read) — he explains the word *dyu* as *ahas*, "day". Durgācārya, since the ṛk says "not now … tomorrow does not exist", explains it by supplying the word *adyatanam* ("of today") to Yāska's statement.
+(Ṛ. Saṃ. 1-170-1, as printed "೧-೧೭೦-೧".) citing this ṛk, [says] *na nūnam asty adyatanaṃ, adyāsmin daivi dyur ity ahno nāmadheyaṃ dyotata iti sataḥ* (no reference is printed here) — he explains the word *dyu* as *ahas*, "day". Durgācārya, since the ṛk says "not now … tomorrow does not exist", explains it by supplying the word *adyatanam* ("of today") to Yāska's statement.
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-148-2; 3-8; 8-68-4; 12-22
 
@@ -7094,7 +7094,7 @@ The meaning is that, in sum, wise priests who are accompanied by mantras that pl
 
 Since the day (*ahas*) arises from a particular motion of the Sun, and is a particular time, [Sāyaṇa seems to] explain that "he who gives light to the day, who moves about like the Sun that is ever moving" — the general meaning "shining" belongs to both day and Sun.
 
-***śociṣkeśam*** — *keśavad atyantāyatatejojvālopetam*: the word *śocis* is recorded among the eleven names of burning beginning with *jvalat* (Ni. 1-[?]8 [as printed "೨-೨೮"; doubtful]); *jvalataḥ* means flames. As the hairs on the bodies of men are long, so are the flames of Agni long. One having such flames is Agni: that is the sense.
+***śociṣkeśam*** — *keśavad atyantāyatatejojvālopetam*: the word *śocis* is recorded among the eleven names of burning beginning with *jvalat* (Ni. 2-28, as printed "೨-೨೮"); *jvalataḥ* means flames. As the hairs on the bodies of men are long, so are the flames of Agni long. One having such flames is Agni: that is the sense.
 
 ***imāḥ viśaḥ viśaḥ jūtaye prāvantu*** — in this sentence the word *viśaḥ* is used twice. The author of the Nirukta says that the word *viśaḥ* is recorded among the twenty-five names of men, beginning with *manuṣyāḥ*, *naraḥ* (Ni. 3-8). And —
 
@@ -7102,7 +7102,7 @@ Since the day (*ahas*) arises from a particular motion of the Sun, and is a part
 
 > *jarābodha tadviviḍḍhi viśeviśe yajñiyāya | stomaṃ rudrāya dṛśīkam ‖*
 
-(Ṛ. Saṃ. 1-114-4, as printed "೧-೧೧೪-೪" [?].) *(Read letter by letter.)* In this ṛk, *viśe viśe* is explained as *manuṣyasya manuṣyasya*, "for each and every man". Sāyaṇa says of the two words *viśaḥ* … *viśaḥ*: for the one, "those who rest in you alone, taking Agni alone as their support"; for the second *viśaḥ*, "people in the form of sacrificers"; and since Agni, the god, is the fulfiller of what is desired, may the people who serve him, in the form of sacrificers, be satisfied by offering oblations for their respective desired ends, such as heaven: thus he prays. And — such an Agni we call and give oblations to: this is what is said.
+(Ṛ. Saṃ. 1-27-10, as printed "೧-೨೭-೧೦".) *(Read letter by letter.)* In this ṛk, *viśe viśe* is explained as *manuṣyasya manuṣyasya*, "for each and every man". Sāyaṇa says of the two words *viśaḥ* … *viśaḥ*: for the one, "those who rest in you alone, taking Agni alone as their support"; for the second *viśaḥ*, "people in the form of sacrificers"; and since Agni, the god, is the fulfiller of what is desired, may the people who serve him, in the form of sacrificers, be satisfied by offering oblations for their respective desired ends, such as heaven: thus he prays. And — such an Agni we call and give oblations to: this is what is said.
 
 **Vyākaraṇa-prakriyā (Ṛk 2; noted briefly, numbers as read by the OCR).** *yajiṣṭham* — root *yaja devapūjāsaṅgatikaraṇadāneṣu*; *tṛc* in the agent sense; when the sense "most worshipping" is intended, *tuśchandasi* (Pā. 5-3-59) gives *iṣṭhan*; with it following, *turiṣṭhemeyaḥsu* (Pā. 6-4-154) elides the *tṛc*; *ñnityādir nityam* (Pā. 6-1-197) gives the first-syllable acute; accusative singular.
 
@@ -7188,7 +7188,7 @@ In the first sentence the word *druhantaraḥ* is used twice. For this word the 
 
 In the second sentence it is explained that even the hard stones and the like, merely through contact with Agni, dissolve [or: waste away]; the mountain that is exceedingly strong and the like are made soft; as water is dried by contact with Agni: so he gives the example. By this illustration it is said that Agni is a wonder of capacity in destroying the enemies or the injurers of those who have performed the sacrifice, who cause difficulty to the firm mountain and (rock).
 
-***vīḷu*** — the meaning is "hard"; the word *vīḷu* is recorded in the twenty-eight names of strength: *vīḷu cautam* (Ni. 2-[?]).
+***vīḷu*** — the meaning is "hard"; the word *vīḷu* is recorded in the twenty-eight names of strength: *vīḷu cautam* (Ni. 3-9, as printed "೩-೯").
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-13; 1-4; 3-13; 5-5
 
@@ -7196,13 +7196,13 @@ In the second sentence it is explained that even the hard stones and the like, m
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 13.)*
 
-***vaneva*** — Sāyaṇa explains this as "like water". Yāska has recorded the word *vana* also among the names of rays (Ni. 1-[?]5 [as printed "೧-೧೫"? doubtful]) —
+***vaneva*** — Sāyaṇa explains this as "like water". Yāska has recorded the word *vana* also among the names of rays (Ni. 2-15, as printed "೨-೧೫") —
 
 > नियश्वश्नक्षि श्वसनस्य मूर्धनि कुष्ठस्य चिद्वनिनो रोरुवद्वना ॥
 
 > *niyaśvaśnakṣi śvasanasya mūrdhani kuṣṭhasya cidvanino roruvadvanā ‖*
 
-*(Read letter by letter; the first words are small and I cannot confirm them: I give the pāda as printed in the Kannada, "niyaśvaśnakṣi …", unverified.)* (Ṛ. Saṃ. 1-[?]-[?], as printed "೧-೫೪-೫"?) — in this ṛk the word *vanā* is explained as *vanāni udakāni*, "waters".
+*(Read letter by letter; the first words are small and I cannot confirm them: I give the pāda as printed in the Kannada, "niyaśvaśnakṣi …", unverified.)* (Ṛ. Saṃ. 1-54-5, as printed "೧-೫೪-೫".) — in this ṛk the word *vanā* is explained as *vanāni udakāni*, "waters".
 
 > मेद्यन्तु ते वह्नयो येभिरीयसेऽरिषण्यन्वनस्पते ।
 > आयूया धृष्णो अभिगूर्या त्वं नेष्ट्रात्सोमं द्रविणोदः पिब ऋतुभिः ॥
