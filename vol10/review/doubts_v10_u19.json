@@ -1,0 +1,50 @@
+[
+ {
+  "pdf": 255,
+  "printed": 234,
+  "crop": [
+   0.384,
+   0.427,
+   0.185,
+   0.87
+  ],
+  "note": "ZOOMED, read: pajrā ghāsādyannavantaḥ; tābhistadvantaḥ",
+  "answer": ""
+ },
+ {
+  "pdf": 255,
+  "printed": 234,
+  "crop": [
+   0.407,
+   0.444,
+   0.185,
+   0.87
+  ],
+  "note": "UNDECIDED: cyāvayitnnāḥ ligature kept [?]; santo madacyuto clear",
+  "answer": ""
+ },
+ {
+  "pdf": 256,
+  "printed": 235,
+  "crop": [
+   0.576,
+   0.616,
+   0.231,
+   0.594
+  ],
+  "note": "ZOOMED, read: tya cidatrimṛtajuramarthamaśvaṃ na yātave (first word without visible anusvāra)",
+  "answer": ""
+ },
+ {
+  "pdf": 256,
+  "printed": 235,
+  "crop": [
+   0.702,
+   0.733,
+   0.231,
+   0.802
+  ],
+  "note": "ZOOMED, read: Ni. 2-10 (sheet: 2-00)",
+  "answer": ""
+ }
+]
