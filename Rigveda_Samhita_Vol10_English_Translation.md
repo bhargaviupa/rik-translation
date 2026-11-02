@@ -920,7 +920,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 ***apāṃ napātam*** — *apāṃ udakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vāgnim | adbhya oṣadhivanaspatayaḥ tābhyo 'gnir ity apāṃ naptṛtvam agneḥ* — "the grandson (*napāt*) of the waters: [Agni] who causes the waters to fall, or who is their grandson — from the waters the plants and trees are born, and from them Agni; hence the waters' grandson." Sāyaṇa explains that the name *apāṃ napāt* is well known for Agni.
 
-The word *napāt* has the senses "son" and "grandson". In both senses it is used. But the Nirukta writer says: *napād ity anantarāyāḥ prajāyā nāmadheyam* ("*napāt* is the name of the next generation of offspring") — and that "it is not directly a son, but one of the grandson-type and the like, that is the sense of this word" (Ni. 8-5, as printed; the OCR reads the same), and in giving the derivation of the word *tanūnapāt*: *āpaḥ atra tanna ucyante | tathāntarikṣe tābhyaḥ oṣadhivanaspatayo jāyante oṣadhivanaspatibhyaḥ eṣa jāyate* ("the waters are called *tan*; likewise in the sky; from them are born the plants and trees; from the plants and trees he is born" — the reading of this passage is only partly sure `[?]`), and then he says that it is the "grandson of the waters" and, according to the view of Śākapūṇi, a synonym of Agni.
+The word *napāt* has the senses "son" and "grandson". In both senses it is used. But the Nirukta writer says: *napād ity anantarāyāḥ prajāyā nāmadheyam* ("*napāt* is the name of the next generation of offspring") — and that "it is not directly a son, but one of the grandson-type and the like, that is the sense of this word" (Ni. 8-5, as printed; the OCR reads the same), and in giving the derivation of the word *tanūnapāt*: *āpaḥ atra tanna ucyante | tathāntarikṣe tābhyaḥ oṣadhivanaspatayo jāyante oṣadhivanaspatibhyaḥ eṣa jāyate* ("the waters are called *tan*; likewise in the sky; from them are born the plants and trees; from the plants and trees he is born" — the passage is printed in bold and was re-read clearly from the page image), and then he says that it is the "grandson of the waters" and, according to the view of Śākapūṇi, a synonym of Agni.
 
 > आनन्तरां प्रजामाहुर्नपादिति कृपण्यवः ।
 > नपादमुष्य चैवायमग्निस्तेन तनूनपात् ॥
@@ -928,7 +928,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 > *ānantarāṃ prajāmāhurnapāditi kṛpaṇyavaḥ |*
 > *napādamuṣya caivāyamagnistena tanūnapāt ‖*
 
-(Bṛ. De., the number is left blank in the print.) Thus also in the Bṛhaddevatā the same view is followed. Here whether *apāṃ napāt* is a synonym of Agni or the name of some other deity is to be known from the words of the Nirukta writer, "*agnir iti śākapūṇiḥ*" ("Agni, [says] Śākapūṇi"). Whether it is the epithet of Agni himself or whether there is another deity with this name — on this matter, some modern scholars' opinions, based on the Ṛksaṃhitā sentences, are discussed in the special topics of the ṛk Ṛ. Saṃ. 1-1[?]-1[?] (the number is not legible to me `[?]`).
+(Bṛ. De., the number is left blank in the print.) Thus also in the Bṛhaddevatā the same view is followed. Here whether *apāṃ napāt* is a synonym of Agni or the name of some other deity is to be known from the words of the Nirukta writer, "*agnir iti śākapūṇiḥ*" ("Agni, [says] Śākapūṇi"). Whether it is the epithet of Agni himself or whether there is another deity with this name — on this matter, some modern scholars' opinions, based on the Ṛksaṃhitā sentences, are discussed in the special topics of the ṛk Ṛ. Saṃ. 1-143-1 (as printed "೧-೧೪೩-೧ ನೇ"; the user's numeral sheet gives 1-143).
 
 ***rāspinasya*** — *rāspino rāspī rapater vā rasater vā* (Ni. 6-21, as printed; the OCR agrees). By the derivation given by the Nirukta writer, this word is formed from the root *raṣ* or *ras* and means "one who praises, the sacrificer". At the time of praise he is with the sacrificer, who holds the *camasa* cup, because an auspicious (praise-)sound arises, as a result of which it [the sound] —
 
@@ -936,7 +936,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 
 > *mātuṣpade parame śukra āyorvipanyavo rāspirāso agman |*
 
-(Ṛ. Saṃ. 3-5[?]-1[?], as read.) In this ṛk *rāspirāsaḥ* is said.
+(Ṛ. Saṃ. 5-43-14, as printed — corrected from the earlier "3-5?-1?"; zoomed crop and the user's numeral sheet agree.) In this ṛk *rāspirāsaḥ* is said.
 
 ### Printed p. 27  (PDF 48)
 
@@ -1002,7 +1002,7 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 > स्तुतौ तावश्विनौ देवौ प्रीतौ तस्या भगान्तरम् ॥
 > प्रविश्य विजरारोगां सुभगां चक्रतुश्च तौ ।
 > भर्तारं ददतुस्तस्यै सुहस्त्यं च सुतं मुनिम् ॥
-> ददतुस्तत्सपर्णाभ्यां [?] यन्नासत्येति कीर्त्यते ।
+> ददतुस्तत्सपर्णाभ्यां यन्नासत्येति कीर्त्यते ।
 > काक्षीवत्यै च घोषायै न तस्यामाजुरोऽनया ॥
 
 > *āsītkākṣīvatī ghoṣā pāparogeṇa durbhagā |*
@@ -1017,10 +1017,10 @@ The word *napāt* has the senses "son" and "grandson". In both senses it is used
 > *stutau tāvaśvinau devau prītau tasyā bhagāntaram ‖*
 > *praviśya vijarārogāṃ subhagāṃ cakratuśca tau |*
 > *bhartāraṃ dadatustasyai suhastyaṃ ca sutaṃ munim ‖*
-> *dadatustatsaparṇābhyāṃ [?] yannāsatyeti kīrtyate |*
+> *dadatustatsaparṇābhyāṃ yannāsatyeti kīrtyate |*
 > *kākṣīvatyai ca ghoṣāyai na tasyāmājuro 'nayā ‖*
 
-(Bṛ. De. 7-42 to 48, as printed; the OCR gives the same.) *(The verses are read from the bold type at 300 dpi; the third, fourth, fifth and thirteenth lines contain letters I could not settle and are marked `[?]`; the translation below follows the Kannada account that comes after them.)*
+(Bṛ. De. 7-42 to 48, as printed; the OCR gives the same.) *(The verses are read from the bold type at 300 dpi; the third and fourth lines contain letters that stay unsettled after a zoomed re-view (marked `[?]`); the thirteenth line was re-read at 450 dpi and is clear; the translation below follows the Kannada account that comes after them.)*
 
 Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disease. For that reason she had to remain in her father's house even until her sixtieth year. Then, finding herself without husband and sons, and filled with despair about her life, she wished to know which deities her father worshipped to win his youth; she decided to worship those same Aśvin deities, who are *Śubhaspatī*, and to learn the rules to be followed in worship and the tantras. While she was in that meditation she was granted a vision of two Sūktas beginning with the sentence *yo vāṃ parijmā* (10-39, 40, as printed; the OCR reads the same). She recited them and praised the Aśvin deities; they made her free of disease, beautiful, and gave her a husband and a son named Suhastya — this story is indicated here. That her illness was "Arjuna" is known from the description in this ṛk. Ordinarily the word *ārjuna* has the sense of "whiteness (radiance)".
 
@@ -1028,7 +1028,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *vayaścitte patatriṇo dvipaccatuṣpadarjuni |*
 
-(Ṛ. Saṃ. [?], as read; the reader's OCR garbles it as "…0-97-A" [letter-shaped digits], so no number is given.)
+(Ṛ. Saṃ. 1-49-3, as printed "೧-೪೯-೩"; the user's numeral sheet gives the same.)
 
 > अहश्च कृष्णमहरर्जुनं च वि वर्तेते रजसी वेद्याभिः ।
 
