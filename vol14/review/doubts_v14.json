@@ -15850,5 +15850,41 @@
   ],
   "note": "UNDECIDED: bhāṣya 'asya[?]pornuvanta…' (line-break word, looks asya- but later printing apy-apornuvanto; not zoomed)",
   "answer": ""
+ },
+ {
+  "pdf": 346,
+  "printed": 326,
+  "crop": [
+   0.55,
+   0.65,
+   0.6,
+   1.0
+  ],
+  "note": "FILE DISAGREE: file 2-4-677 read 2-4-77",
+  "answer": ""
+ },
+ {
+  "pdf": 346,
+  "printed": 326,
+  "crop": [
+   0.62,
+   0.72,
+   0.1,
+   0.65
+  ],
+  "note": "ZOOMED read: 3-4-410 as printed",
+  "answer": ""
+ },
+ {
+  "pdf": 348,
+  "printed": 328,
+  "crop": [
+   0.05,
+   0.12,
+   0.0,
+   0.7
+  ],
+  "note": "ZOOMED read: Ni. 2-5 / 2-24 / 3-9",
+  "answer": ""
  }
 ]
