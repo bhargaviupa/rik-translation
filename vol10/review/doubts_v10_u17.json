@@ -1,0 +1,50 @@
+[
+ {
+  "pdf": 229,
+  "printed": 208,
+  "crop": [
+   0.669,
+   0.689,
+   0.21,
+   0.832
+  ],
+  "note": "ZOOMED, read: nākamati (printed ma+ti, not miti); [?] removed, [sic] added",
+  "answer": ""
+ },
+ {
+  "pdf": 230,
+  "printed": 209,
+  "crop": [
+   0.688,
+   0.723,
+   0.165,
+   0.568
+  ],
+  "note": "UNDECIDED: pratiṣi-ddh/dhy-eta conjunct stack; [?] kept",
+  "answer": ""
+ },
+ {
+  "pdf": 231,
+  "printed": 210,
+  "crop": [
+   0.583,
+   0.599,
+   0.533,
+   0.606
+  ],
+  "note": "ZOOMED, read: Bṛ. De. 2-66 (medium)",
+  "answer": ""
+ },
+ {
+  "pdf": 231,
+  "printed": 210,
+  "crop": [
+   0.271,
+   0.288,
+   0.231,
+   0.755
+  ],
+  "note": "ZOOMED: the [?] was the end mark of line 1; removed",
+  "answer": ""
+ }
+]

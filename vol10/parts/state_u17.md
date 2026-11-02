@@ -1,0 +1,1 @@
+- p.229: nākamiti [?] -> nākamati [sic] (zoom: ma+ti). p.230: pratiṣidhyeta [?] kept (undecided, conjunct). p.231: [?] after haviṣkṛtam removed (end mark); Bṛ. De. 3-86 [?] -> 2-66 (zoom, medium).
