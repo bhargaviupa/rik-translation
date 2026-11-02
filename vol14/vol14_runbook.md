@@ -45,3 +45,5 @@ One branch (`claude/vol14`); never force-push or reset; merge to main only when 
 - No OCR for words (rule of Oct 28 stands). Token-reduction ideas involving OCR consensus were considered and discarded by the user (Nov 2).
 - Pages already translated (through printed p. 313) keep their Opus-era numeral readings; the numeral files can later be used to check/correct them (a disagreement list can be produced by script).
 - Quality watch: Sonnet drafts need a spot check after the first batches (IAST markers ⟦⟧ used, every Devanagari block has IAST, one progress note, no repeated text).
+
+- **Numeral file now available** (Nov 2): `vol14/numerals/Rigveda_Clean_Numerals_14_1_350.xlsx`, file pages 1–350; **mapping: file page = printed + 18** (= our PDF page up to PDF 222; = our PDF page − 1 from PDF 224 on). Details and weaknesses: `vol14/numerals/README.md`. It reaches printed p. 332, so it covers only printed pp. 314–332 of the untranslated pages (about 19 pages); further files are needed from printed p. 333 on.
