@@ -6070,5 +6070,13 @@
   "old": "8-2-12 [?]",
   "new": "8-2-10",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 8-2-12->8-2-10; not viewed by me."
+ },
+ {
+  "pdf": 200,
+  "printed": 180,
+  "status": "resolved",
+  "old": "8-1-30 [?]; 3-4-83 [?]; 6-2-49 [?]",
+  "new": "8-1-30; 3-4-43; 6-2-49",
+  "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, 3-4-83->3-4-43, confirmed; not viewed by me."
  }
 ]
