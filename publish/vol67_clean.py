@@ -3,7 +3,7 @@
 import re, sys, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = pathlib.Path(__file__).resolve().parent / "work"; OUT.mkdir(exist_ok=True)
-ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka', 9: 'The Eighth Adhyāya of the First Aṣṭaka', 10: 'The First Adhyāya of the Second Aṣṭaka', 11: 'The Second Adhyāya of the Second Aṣṭaka'}
+ADH = {6: 'The Fifth Adhyāya of the First Aṣṭaka', 7: 'The Sixth Adhyāya of the First Aṣṭaka', 8: 'The Seventh Adhyāya of the First Aṣṭaka', 9: 'The Eighth Adhyāya of the First Aṣṭaka', 10: 'The First Adhyāya of the Second Aṣṭaka', 11: 'The Second Adhyāya of the Second Aṣṭaka', 13: 'The Fourth Adhyāya of the Second Aṣṭaka'}
 SAM = re.compile(r'^\*\*(?:॥ संहिता(?:पाठः|खण्डः) ॥ — )?Saṃhitā')
 
 
@@ -36,7 +36,63 @@ def clean9(vol=9, first=113):
     (OUT / f'vol{vol}_clean.md').write_text(md, encoding='utf-8')
     print(f'vol{vol} cleaned:', len(md))
 
+def clean13(vol=13, first=166):
+    """Vol 13's file was written with irregular markers (Ṛk headings as #### / bold / 'Sūkta N, Ṛk N', sūkta headings ## or ###, uppercase SŪKTA, no Ṛk markers at all in 174-180): normalise to the Vol 9-11 shapes."""
+    text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
+    i = text.rfind('**Progress note'); text = text[:i] if i > 0 else text
+    k = text.find('## Sūkta %d' % first); lines = text[k:].split('\n')
+    SH = re.compile(r'^#{2,3} S[ūŪ]KTA? (\d+)\b(?!,)', re.I)
+    RK = re.compile(r'^(?:#{3,4} |\*\*)(?:S[ūŪ]kta (\d+), )?Ṛk (\d+)\b')
+    def sno(ln):
+        m = SH.match(ln); return int(m.group(1)) if m and ', Ṛk' not in ln else None
+    decl, cur = {}, None
+    for ln in lines:
+        s_ = sno(ln)
+        if s_: cur = s_
+        mm = re.search(r'Number of ṛks in the [Ss]ūkta\s*[:—-]\s*(\d+)', ln)
+        if mm and cur and cur not in decl: decl[cur] = int(mm.group(1))
+    def incipit(i):
+        seen = False
+        for ln in lines[i+1:i+1500]:
+            if SAM.match(ln): seen = True; continue
+            mm = re.match(r'^> \*([^*|]+)', ln) if seen else None
+            if mm: return ' '.join(re.sub(r'[\u0300-\u036f]', '', mm.group(1)).split()[:2])
+        return ''
+    out, cur, rik, found, pending = ['# ' + ADH[vol]], None, 0, {}, False
+    for i, ln in enumerate(lines):
+        s_ = sno(ln)
+        if s_ and s_ == cur:                              # a second heading line for the same sūkta (Vol 13: 166)
+            continue
+        if s_:
+            cur, rik, pending = s_, 0, False
+            m = re.match(r'^## Sūkta \d+ — \*?([^*(]+?)\*? ?(?:\(.*)?$', ln)
+            out.append('## Sūkta %d — "%s"' % (cur, m.group(1).strip() if m else incipit(i)))
+            pm = re.search(r'printed p\. (\d+)', ln)
+            if pm: out.append('<div class="pgmark">original p. %s</div>' % pm.group(1))
+            continue
+        m = re.match(r'^### Printed p\. (\S+)', ln)
+        if m: out.append('<div class="pgmark">original p. %s</div>' % m.group(1).rstrip(',;')); continue
+        m = RK.match(ln)
+        if m and cur:
+            rik = int(m.group(2)); found.setdefault(cur, set()).add(rik); pending = True
+            out.append('### Rik %d' % rik)
+            pm = re.search(r'printed p\. (\d+)', ln)
+            if pm: out.append('<div class="pgmark">original p. %s</div>' % pm.group(1))
+            continue
+        if cur and (SAM.match(ln) or re.match(r'^\*\*॥ ?संहिता', ln)):
+            if pending: pending = False
+            elif rik < decl.get(cur, 0):                 # a Saṃhitā label with no Ṛk marker before it
+                rik += 1; found.setdefault(cur, set()).add(rik); out.append('### Rik %d' % rik)
+            out.append(ln); continue
+        if ln.strip() == '---': continue
+        out.append(ln)
+    md = re.sub(r'\n{3,}', '\n\n', '\n'.join(out)) + '\n'
+    (OUT / f'vol{vol}_clean.md').write_text(md, encoding='utf-8')
+    print(f'vol{vol} cleaned:', len(md), 'Ṛk counts:', {k: len(v) for k, v in sorted(found.items())})
+
+
 def clean(vol):
+    if vol == 13: return clean13()
     if vol == 9: return clean9()
     if vol == 10: return clean9(10, 122)
     if vol == 11: return clean9(11, 137)
