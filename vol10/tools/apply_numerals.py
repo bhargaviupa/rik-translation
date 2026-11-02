@@ -17,9 +17,10 @@ import re, sys, os, glob, argparse, collections
 import openpyxl
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
-EN = os.path.join(ROOT, 'Rigveda_Samhita_Vol10_English_Translation.md')
-NUMD = os.path.join(ROOT, 'vol10', 'numerals')
-REV = os.path.join(ROOT, 'vol10', 'review')
+VOLN = os.environ.get('NUM_VOL', '10')   # '10' (default) or '9' etc.
+EN = os.path.join(ROOT, 'Rigveda_Samhita_Vol%s_English_Translation.md' % VOLN)
+NUMD = os.path.join(ROOT, 'vol%s' % VOLN, 'numerals')
+REV = os.path.join(ROOT, 'vol%s' % VOLN, 'review')
 KN = '೦೧೨೩೪೫೬೭೮೯'; DV = '०१२३४५६७८९'
 D = '[0-9' + DV + ']'
 
