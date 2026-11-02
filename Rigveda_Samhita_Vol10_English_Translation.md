@@ -638,15 +638,15 @@ May Agni, the wearer of garments (? — *vasarhā*, the one worthy of dwelling, 
 
 ***vasarhā*** — *vasanārho gārhapatyādirūpeṇa | yadvā vāsakānām ācchādakānāṃ vṛṣṭādīnāṃ hantā agniḥ | athavā vasarhā vāsaro vāsarasya gamayitā parijmā parito gantā ādityaḥ.* "Agni, who takes on many forms such as the Gārhapatya, or the Agni who destroys the clouds [and so on] that cover, or the Āditya who makes the days pass (*vasarhā*, the one who destroys the darkness at the time of dawn?)" — this is what Sāyaṇa says. On this same ṛk, in the Taittirīya Saṃhitā (2-1-11), Bhaṭṭabhāskara explains:
 
-> वसर्हा-अग्निहोत्रकरणाभिमुखस्थानार्हो वसनार्हः (पृषोदरादित्वात् न [?] शब्दो लुप्यते) यद्वा छादयित्रीणां काष्ठादीनां हन्ता अग्निः । यद्वा वासरस्य गमयिता आदित्य उच्यते ॥
+> वसर्हा-अग्निहोत्रकरणाभिमुखस्थानार्हो वसनार्हः (पृषोदरादित्वात् ना शब्दो लुप्यते) यद्वा छादयित्रीणां काष्ठादीनां हन्ता अग्निः । यद्वा वासरस्य गमयिता आदित्य उच्यते ॥
 
-> *vasarhā-agnihotrakaraṇābhimukhasthānārho vasanārhaḥ (pṛṣodarāditvāt na [?] śabdo lupyate) yadvā chādayitrīṇāṃ kāṣṭhādīnāṃ hantā agniḥ | yadvā vāsarasya gamayitā āditya ucyate ‖*
+> *vasarhā-agnihotrakaraṇābhimukhasthānārho vasanārhaḥ (pṛṣodarāditvāt nā śabdo lupyate) yadvā chādayitrīṇāṃ kāṣṭhādīnāṃ hantā agniḥ | yadvā vāsarasya gamayitā āditya ucyate ‖*
 
 (Tai. Saṃ. 2-1-11, as printed; the OCR reads the same.) That is, either Agni of the sacrificial house or Āditya; either way the meaning is fitting here.
 
 ***vṛṣaṇvān*** — *varṣaṇavān vṛṣṭyutpādakaḥ*: "the one who produces rain" — "wind", says Sāyaṇa; *apāṃ vṛṣā varṣitā parjanyaḥ tadvān vātaḥ* — "the wind accompanied by Parjanya who showers rain"; so too Bhaṭṭabhāskara (Tai. Saṃ. 2-1-11).
 
-***indrāparvatā*** — *indraḥ prasiddhaḥ | parvataḥ parvavān vṛṣṭyādipūraṇavān parjanyaḥ* — Sāyaṇa explains *parvata* as the deity Parjanya. Bhaṭṭabhāskara has said that the word *parvataḥ* is also the word *saṃvatsara* (year) — "*parvatas saṃvatsara-ity ete*" [as read, `[?]`]. Whichever sense is taken, it is clear that here the word *parvata* is a synonym of a deity who is to be worshipped. Since this word is used in many places as a synonym of *śatru* (enemy), etc., and it is said "by splitting the *parvata* Indra sent the rain", etc., it is proper to discuss this usage here.
+***indrāparvatā*** — *indraḥ prasiddhaḥ | parvataḥ parvavān vṛṣṭyādipūraṇavān parjanyaḥ* — Sāyaṇa explains *parvata* as the deity Parjanya. Bhaṭṭabhāskara has said that the word *parvataḥ* is also the word *saṃvatsara* (year) — "*parvatas saṃvatsara-ity ete*" [as read, clear]. Whichever sense is taken, it is clear that here the word *parvata* is a synonym of a deity who is to be worshipped. Since this word is used in many places as a synonym of *śatru* (enemy), etc., and it is said "by splitting the *parvata* Indra sent the rain", etc., it is proper to discuss this usage here.
 
 ### Printed p. 18  (PDF 39)
 
@@ -678,7 +678,7 @@ Ordinarily the struggle of Indra with the Asuras and with the mountains may be c
 
 > *śiśuṃ nadīnāṃ harimadribudhnamiti girirvā adrirgiribudhnā ‖*
 
-(Śa. Brā. 7-3-2-15 [?], as read — a four-part reference in the small type, doubtful.) In this Brāhmaṇa sentence too, the words *parvata* and *megha* have a sense that is extraordinary and not of the world, as is shown …; this is a dark mass (*tamorāśi*) in the form of a mountain, and of the heavenly region …
+(Śa. Brā. 7-3-2-18 [?], as read at 800 dpi — a four-part reference in the small type; the last numeral is the loop-form 8, the second (3 or 5) is not settled.) In this Brāhmaṇa sentence too, the words *parvata* and *megha* have a sense that is extraordinary and not of the world, as is shown …; this is a dark mass (*tamorāśi*) in the form of a mountain, and of the heavenly region …
 
 ---
 
@@ -691,7 +691,7 @@ Ordinarily the struggle of Indra with the Asuras and with the mountains may be c
 
 > *ahannahiṃ parvate śiśriyāṇaṃ tvaṣṭāsmai vajraṃ svaryaṃ tatakṣa |*
 
-(Ṛ. Saṃ. 1-32-2, as read.) In ṛks such as this, Ahi, Śambara, Vṛtra and the like are Asuras that conceal themselves in this mass of darkness in the form of a mountain and block the flowing waters, and so Indra is praised as their destroyer. In the same way, in many places the word *parvata* is described as a synonym of *śatru* (enemy) or as a shelter for enemies. Therefore, in ṛks such as *araṃsta parvataś cit sariṣyan* (Ṛ. Saṃ. 3-1[?]-[?], as read) and *kuhmāc cid asya parvatā bhayante* (Ṛ. Saṃ. 2-1[?]-13 [?]) it is said that the mass of darknesses in the form of mountains fear Indra, who is of the nature of light, as soon as he is visible; and that he shut them up in the underworld.
+(Ṛ. Saṃ. 1-32-2, as read.) In ṛks such as this, Ahi, Śambara, Vṛtra and the like are Asuras that conceal themselves in this mass of darkness in the form of a mountain and block the flowing waters, and so Indra is praised as their destroyer. In the same way, in many places the word *parvata* is described as a synonym of *śatru* (enemy) or as a shelter for enemies. Therefore, in ṛks such as *araṃsta parvataś cit sariṣyan* (Ṛ. Saṃ. 2-11-7, as read; the first numeral matches the 2 of the running header, the last is the flat-footed 7) and *kuhmāc cid asya parvatā bhayante* (Ṛ. Saṃ. 2-12-13, as read) it is said that the mass of darknesses in the form of mountains fear Indra, who is of the nature of light, as soon as he is visible; and that he shut them up in the underworld.
 
 Contrary to these descriptions, it is said in many places that *parvata* is the thunderbolt of the nature of light, and the presiding deity of the rains and so on, Parjanya.
 
@@ -705,13 +705,13 @@ Contrary to these descriptions, it is said in many places that *parvata* is the 
 
 > *asme rudrā mehanā parvatāso vṛtrahatye bharahūtau sajoṣāḥ |*
 
-(Ṛ. Saṃ. 8-63-12 [?], as read.) In ṛks such as these the mountains are helpers to Indra in the work of destroying enemies.
+(Ṛ. Saṃ. 8-63-12, as read at 800 dpi.) In ṛks such as these the mountains are helpers to Indra in the work of destroying enemies.
 
 > प्र पूषणं विष्णुमग्निं पुरन्धिं सवितारमोषधीः पर्वताँश्च ।
 
 > *pra pūṣaṇaṃ viṣṇumagniṃ purandhiṃ savitāramoṣadhīḥ parvatā~śca |*
 
-(Ṛ. Saṃ. 6-5[?]-[?] [?], as read.)
+(Ṛ. Saṃ. 6-21-9, as read at 800 dpi; the last numeral is moderately sure.)
 
 > शं नः पर्वता ध्रुवयो भवन्तु शं नः सिन्धवः शमु सन्त्वापः ।
 
