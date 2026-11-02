@@ -5,7 +5,8 @@ Vol 10 = **Maṇḍala 1, Sūktas 122–136, First Adhyāya of the Second Aṣ�
 | Path | What it is |
 |---|---|
 | `vol10_state.md` | Where the work stands. Read first. |
-| `vol10_runbook.md` | Method for the correction pass (draft). |
+| `vol10_runbook.md` | Method: Phase 1 (numerals from the user's xls files, no images), explicit stop, Phase 2 (reading the scan). Sonnet only. |
+| `numerals/` | The user's xls/xlsx numeral files. |
 | `START_PROMPT.md` | Prompt to start a new session on Vol 10. |
 | `scans/` | Better scan parts, if uploaded (`10 Rigveda Samhitha Volume 10 N.pdf`); see its README. |
 | `parts/` | One state file per worker/session. |

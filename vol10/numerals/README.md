@@ -1,0 +1,3 @@
+# Supplied numeral files (Vol 10)
+
+The user puts here the .xls/.xlsx files that give the **correct Kannada numerals** for Vol 10 (references, sūtra numbers, header numerals, Ṛk/Varga/Anuvāka numbers). **Format and naming: not yet known — the first worker must open one file (e.g. `python3 -c "import pandas as pd; print(pd.read_excel(f, sheet_name=None))"`; `pip install openpyxl xlrd` if needed), describe its columns here (page key, position/context, Kannada numeral, any note), and only then build the matching.** Kannada digits ೦–೯ convert to 0–9; record what is printed. Nothing is assumed about the files; a row that cannot be matched to exactly one place in the English file is listed, never guessed.
