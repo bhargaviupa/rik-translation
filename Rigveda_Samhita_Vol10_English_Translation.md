@@ -769,9 +769,9 @@ Contrary to these descriptions, it is said in many places that *parvata* is the 
 
 *(The page is a poor scan; the Devanagari below is read letter by letter from the Kannada-script Sanskrit, and doubtful letters or words are marked `[?]`.)*
 
-> औशिज उशिजः पुत्रः कक्षीवानहं मे । तादर्थ्ये चतुर्थी । मदर्थं यशसा । यश इत्यन्नं बलं कीर्तिर्वोच्यते । तद्वन्तौ व्यन्ता भक्षयन्तौ चरुपुरोडाशादिकं पान्ता पिबन्तावाज्यसोमादिकं त्या । तच्छब्दसमानार्थस्त्यच्छब्दः । यौ स्तुत्यत्वेन प्रसिद्धौ तावश्विनौ । अत्र यद्यपि विशेषो न श्रुतः तथापि सूक्तस्य वैश्वदेवत्वादुषः-सम्बन्धाद्द्विवचनलिङ्गाच्चाश्विनाविति गम्यते । तादृशावश्विनौ श्वेतनायै । इति षष्ठ्यर्थे चतुर्थी । विश्वं जगच्छ्वेतयन्त्या उषसः तत्सम्बन्धिनि काले । उषःकालीनाह्वानाय यतेयमिति शेषः । हे ऋत्विजः वो यूयम् । प्रथमार्थे द्वितीया । अपामुदकानां नपातं नपातयितारं तासां नप्तारं वाग्निम् । अद्भ्य ओषधिवनस्पतयः ताभ्योऽग्निरित्यपां नप्तृत्वमग्नेः । तं देवं प्र कृणुध्वम् । करोतिरत्र क्रियासामान्यवाची क्रियाविशेषे स्तोत्रे पर्यवस्यति । प्रकर्षेण स्तुतमित्यर्थः । किञ्च रास्पिनस्य । रपते रसते र्वा शब्दार्थस्य घञन्तस्य [?] कृतसकारपकारोपजनस्य रास्प इति भवति । तदस्यास्तीति रास्पिनः स्तोता । तस्यायोस्तादृशस्य मनुष्यस्य मम मह्यं मातरा मातृवद्धितकारिण्यावहोरात्रे देवते अपि प्र कृणुध्वम् । अथवा रास्पिनस्य । एको मत्वर्थप्रत्ययश्छान्दसः । प्रवर्षणध्वनियुक्तस्य वृष्ट्युदकस्य गमनशीलस्य निर्मात्र्यावहोरात्रे प्र कृणुध्वम् ॥ व्यन्ता पान्ता । उभयत्र सुपां सुलुगित्याकारः ॥
+> औशिज उशिजः पुत्रः कक्षीवानहं मे । तादर्थ्ये चतुर्थी । मदर्थं यशसा । यश इत्यन्नं बलं कीर्तिर्वोच्यते । तद्वन्तौ व्यन्ता भक्षयन्तौ चरुपुरोडाशादिकं पान्ता पिबन्तावाज्यसोमादिकं त्या । तच्छब्दसमानार्थस्त्यच्छब्दः । यौ स्तुत्यत्वेन प्रसिद्धौ तावश्विनौ । अत्र यद्यपि विशेषो न श्रुतः तथापि सूक्तस्य वैश्वदेवत्वादुषः-सम्बन्धाद्द्विवचनलिङ्गाच्चाश्विनाविति गम्यते । तादृशावश्विनौ श्वेतनायै । इति षष्ठ्यर्थे चतुर्थी । विश्वं जगच्छ्वेतयन्त्या उषसः तत्सम्बन्धिनि काले । उषःकालीनाह्वानाय यतेयमिति शेषः । हे ऋत्विजः वो यूयम् । प्रथमार्थे द्वितीया । अपामुदकानां नपातं नपातयितारं तासां नप्तारं वाग्निम् । अद्भ्य ओषधिवनस्पतयः ताभ्योऽग्निरित्यपां नप्तृत्वमग्नेः । तं देवं प्र कृणुध्वम् । करोतिरत्र क्रियासामान्यवाची क्रियाविशेषे स्तोत्रे पर्यवस्यति । प्रकर्षेण स्तुतमित्यर्थः । किञ्च रास्पिनस्य । रपते रसते र्वा शब्दनार्थस्य घञन्तस्य कृतसकारपकारोपजनस्य रास्प इति भवति । तदस्यास्तीति रास्पिनः स्तोता । तस्यायोस्तादृशस्य मनुष्यस्य मम मह्यं मातरा मातृवद्धितकारिण्यावहोरात्रे देवते अपि प्र कृणुध्वम् । अथवा रास्पिनस्य । एको मत्वर्थप्रत्ययश्छान्दसः । प्रवर्षणध्वनियुक्तस्य वृष्ट्युदकस्य गमनशीलस्य निर्मात्र्यावहोरात्रे प्र कृणुध्वम् ॥ व्यन्ता पान्ता । उभयत्र सुपां सुलुगित्याकारः ॥
 
-> *auśija uśijaḥ putraḥ kakṣīvānahaṃ me | tādarthye caturthī | madarthaṃ yaśasā | yaśa ityannaṃ balaṃ kīrtirvocyate | tadvantau vyantā bhakṣayantau carupuroḍāśādikaṃ pāntā pibantāvājyasomādikaṃ tyā | tacchabdasamānārthastyacchabdaḥ | yau stutyatvena prasiddhau tāvaśvinau | atra yadyapi viśeṣo na śrutaḥ tathāpi sūktasya vaiśvadevatvāduṣaḥ-sambandhāddvivacanaliṅgāccāśvināviti gamyate | tādṛśāvaśvinau śvetanāyai | iti ṣaṣṭhyarthe caturthī | viśvaṃ jagacchvetayantyā uṣasaḥ tatsambandhini kāle | uṣaḥkālīnāhvānāya yateyamiti śeṣaḥ | he ṛtvijaḥ vo yūyam | prathamārthe dvitīyā | apāmudakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vāgnim | adbhya oṣadhivanaspatayaḥ tābhyo 'gnirityapāṃ naptṛtvamagneḥ | taṃ devaṃ pra kṛṇudhvam | karotiratra kriyāsāmānyavācī kriyāviśeṣe stotre paryavasyati | prakarṣeṇa stutamityarthaḥ | kiñca rāspinasya | rapate rasate rvā śabdārthasya ghañantasya [?] kṛtasakārapakāropajanasya rāspa iti bhavati | tadasyāstīti rāspinaḥ stotā | tasyāyostādṛśasya manuṣyasya mama mahyaṃ mātarā mātṛvaddhitakāriṇyāvahorātre devate api pra kṛṇudhvam | athavā rāspinasya | eko matvarthapratyayaśchāndasaḥ | pravarṣaṇadhvaniyuktasya vṛṣṭyudakasya gamanaśīlasya nirmātryāvahorātre pra kṛṇudhvam ‖ vyantā pāntā | ubhayatra supāṃ sulugityākāraḥ ‖*
+> *auśija uśijaḥ putraḥ kakṣīvānahaṃ me | tādarthye caturthī | madarthaṃ yaśasā | yaśa ityannaṃ balaṃ kīrtirvocyate | tadvantau vyantā bhakṣayantau carupuroḍāśādikaṃ pāntā pibantāvājyasomādikaṃ tyā | tacchabdasamānārthastyacchabdaḥ | yau stutyatvena prasiddhau tāvaśvinau | atra yadyapi viśeṣo na śrutaḥ tathāpi sūktasya vaiśvadevatvāduṣaḥ-sambandhāddvivacanaliṅgāccāśvināviti gamyate | tādṛśāvaśvinau śvetanāyai | iti ṣaṣṭhyarthe caturthī | viśvaṃ jagacchvetayantyā uṣasaḥ tatsambandhini kāle | uṣaḥkālīnāhvānāya yateyamiti śeṣaḥ | he ṛtvijaḥ vo yūyam | prathamārthe dvitīyā | apāmudakānāṃ napātaṃ napātayitāraṃ tāsāṃ naptāraṃ vāgnim | adbhya oṣadhivanaspatayaḥ tābhyo 'gnirityapāṃ naptṛtvamagneḥ | taṃ devaṃ pra kṛṇudhvam | karotiratra kriyāsāmānyavācī kriyāviśeṣe stotre paryavasyati | prakarṣeṇa stutamityarthaḥ | kiñca rāspinasya | rapate rasate rvā śabdanārthasya ghañantasya kṛtasakārapakāropajanasya rāspa iti bhavati | tadasyāstīti rāspinaḥ stotā | tasyāyostādṛśasya manuṣyasya mama mahyaṃ mātarā mātṛvaddhitakāriṇyāvahorātre devate api pra kṛṇudhvam | athavā rāspinasya | eko matvarthapratyayaśchāndasaḥ | pravarṣaṇadhvaniyuktasya vṛṣṭyudakasya gamanaśīlasya nirmātryāvahorātre pra kṛṇudhvam ‖ vyantā pāntā | ubhayatra supāṃ sulugityākāraḥ ‖*
 
 I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — for my sake. *Yaśasā*: *yaśas* is said to mean food, strength or fame; the two who are endowed with it, *vyantā*, eating the cooked offerings such as *caru* and *puroḍāśa*, and *pāntā*, drinking ghee, Soma and the like; *tyā* — "those" (the word *tya* has the same sense as *tad*): the two who are well known as worthy of praise, the Aśvins. Here, though nothing special is heard, it is understood to be the two Aśvins from the Sūkta's being addressed to the Viśvedevas, from the connection with Uṣas, and from the dual number. *Śvetanāyai* — dative in the sense of the genitive: at the time connected with Uṣas who whitens the whole world; "I strive (*yate*) for calling at the time of Dawn" is what remains to be supplied. O priests (*vaḥ* = *yūyam*, you; the accusative in the sense of the nominative): *apāṃ napātam*, the grandson of the waters, Agni — from waters the plants and trees, from them Agni; hence Agni's being the grandson of the waters; praise that god abundantly (*pra kṛṇudhvam*; here the verb *kṛ* is a general verb of action and settles on the special action of praise). And further *rāspinasya*: *rāspa* means praise (from *rap*, "to speak", or *ras*, "to sound"); he who has it is *rāspin*, a praiser; of such a man (*āyoḥ*, of a man), me, make Day and Night — the two goddesses who as mothers do him good — praised abundantly. Or else *rāspinasya* has a Vedic possessive suffix, and refers to the rain-water that goes with the sound of the downpour: of it Day and Night are the makers; praise them abundantly. *Vyantā*, *pāntā*: in both, the *ā*-ending is by *supāṃ sulug…*.
 
@@ -809,11 +809,11 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 
 (Ṛ. Saṃ. 1-117-6, as printed.) From ṛks such as these it is known that he belonged to the line of Pajra.
 
-> [?]दच्युतः कृशनावतो अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ।
+> मदच्युतः कृशनावतो अत्यान्कक्षीवन्त उदमृक्षन्त पज्राः ।
 
-> *[?]dacyutaḥ kṛśanāvato atyānkakṣīvanta udamṛkṣanta pajrāḥ |*
+> *madacyutaḥ kṛśanāvato atyānkakṣīvanta udamṛkṣanta pajrāḥ |*
 
-(Ṛ. Saṃ. 1-126-4, as printed; zoomed: the words after the first syllable are clear — *dacyutaḥ kṛśanāvato*; the first syllable is doubtful, *ma* or *nu*, so left `[?]`.) In this ṛk it is known that those born in his family are called *Pajra*. In this same Sūkta [126] the son of Bhāvayavya, Svanaya, who dwelt on the bank of the river Sindhu, a king, gave him very abundant gifts…
+(Ṛ. Saṃ. 1-126-4, as printed; zoomed: the words after the first syllable are clear — *dacyutaḥ kṛśanāvato*; the first glyph is the hooked plain *ma* (not *u*), so read *madacyutaḥ*.) In this ṛk it is known that those born in his family are called *Pajra*. In this same Sūkta [126] the son of Bhāvayavya, Svanaya, who dwelt on the bank of the river Sindhu, a king, gave him very abundant gifts…
 
 ---
 
@@ -832,7 +832,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 > राजन्नाङ्गिरसोऽस्मीति कुमारः प्रत्युवाच तम् ॥
 > पुत्रोऽहं दीर्घतमस औचथ्यस्य ऋषेर्नृप ।
 > अथास्मै स ददौ कन्या दशाभरणभूषिताः ॥
-> तावतश्च रथाञ्श्यावान् सैन्धवांश्चतुर्युजः [?] ।
+> तावतश्च रथाञ्छ्यावान्स्नीड्वङ्गान्नै [?] चतुर्युजः ।
 > वधूनां वाहनार्थाय धनकुप्यमजाविकम् ॥
 > निष्काणां वृषभाणां च शतं शतमदात्पुनः ।
 > एतदुत्तरसूक्तेन शतमित्यादिनोदितम् ॥
@@ -851,7 +851,7 @@ I, Kakṣīvān, Auśija — the son of Uśij. *Me*: the dative of purpose — f
 > *rājannāṅgiraso 'smīti kumāraḥ pratyuvāca tam ‖*
 > *putro 'haṃ dīrghatamasa aucathyasya ṛṣernṛpa |*
 > *athāsmai sa dadau kanyā daśābharaṇabhūṣitāḥ ‖*
-> *tāvataśca rathāñśyāvān saindhavāṃścaturyujaḥ [?] |*
+> *tāvataśca rathāñchyāvānsnīḍvaṅgānnai [?] caturyujaḥ |*
 > *vadhūnāṃ vāhanārthāya dhanakupyamajāvikam ‖*
 > *niṣkāṇāṃ vṛṣabhāṇāṃ ca śataṃ śatamadātpunaḥ |*
 > *etaduttarasūktena śatamityādinoditam ‖*
