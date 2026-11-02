@@ -2343,7 +2343,7 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 
 > *ahanā | uṣonāmaitat | ahanā dyotaneti tannāmamu pāṭhāt | sā devī dine dine pratyahaṃ dive diva ityaharnāmamu pāṭhāt | gṛhaṃ gṛhaṃ tattadyajña-gṛhamacchābhimukhyena yāti | gacchati | kīdṛśī | adhyadhikaṃ nāma namanaṃ prahvatvamudyogaṃ pratigṛhamudyogaṃ prakāśanarūpaṃ dadhānā dhārayantī | yadvā | adhi dadhānādhikaṃ dhārayantī | kiñca siṣāsantī sambhaktumicchantī dyotanā kṛtsnaṃ jagaddyotanaśīlā śaśvat pratidinamāgāt | āgacchati | pūrvaṃ yātītyuktatvātpunarāgāditi vacanamāvaśyakatvadyotanārtham | āgatya ca vasūnāṃ dhanānāṃ havirlakṣaṇānāmagramagramit tattacchreṣṭhabhāgaṃ bhajate sevate svīkarotītyarthaḥ ‖*
 
-*(Small type; the passage marked `[?]` is a doubtful stretch; the Kannada commentary below confirms the sense.)* "*Ahanā*: this is a name of Uṣas, by its reading among the names *ahanā, dyotanā*. She, the goddess, comes day by day (*dive dive* — read among the names of 'day'). She goes (*yāti*) to house after house — to each sacrificial house — facing it (*accha*). What is she like? *Adhi nāma dadhānā*: bearing an excess of *nāma*, 'bending', that is 'eagerness', 'effort' — bearing for every house an effort in the form of light; or *adhi dadhānā* — bearing more. And, desiring to confer (*siṣāsantī*), illuminating the whole world (*dyotanā*), she has come (*āgāt*), always, every day. Having come, she takes (*bhajate*, serves, accepts) the foremost, the choicest portion (*agram agram*), of the riches — of the wealth in the form of oblations."
+"*Ahanā*: this is a name of Uṣas, by its reading among the names *ahanā, dyotanā*. She, the goddess, comes day by day (*dive dive* — read among the names of 'day'). She goes (*yāti*) to house after house — to each sacrificial house — facing it (*accha*). What is she like? *Adhi nāma dadhānā*: bearing an excess of *nāma*, 'bending', that is 'eagerness', 'effort' — bearing for every house an effort in the form of light; or *adhi dadhānā* — bearing more. And, desiring to confer (*siṣāsantī*), illuminating the whole world (*dyotanā*), she has come (*āgāt*), always, every day. Having come, she takes (*bhajate*, serves, accepts) the foremost, the choicest portion (*agram agram*), of the riches — of the wealth in the form of oblations."
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Ahanā* — the deity Uṣas; *dive dive* — every day; *adhi* — in excess; *nāma* — the effort (the bending) of the form of light; *dadhānā* — bearing; *gṛhaṃ gṛham* — to every sacrificial house; *accha yāti* — she goes facing; *(kiñca* — and); *siṣāsantī* — wishing to bestow favour; *dyotanā* — illuminating the world; *śaśvat* — always (every day); *āgāt* — she comes (having come); *vasūnām* — of the oblations and the like; *agram agram it* — the choicest portions only; *bhajate* — she accepts.
 
@@ -2374,20 +2374,20 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)*
 
 > सुगुरसत्सुहिरण्यः स्वश्वो बृहदस्मै वय इन्द्रो दधाति ।
-> यस्त्वा यन्तं [?] वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति [?] ॥
+> यस्त्वा यन्तं वसुना प्रातरित्वो मुक्षीजयेव पदिमुत्सिनाति ॥
 
 > *sugurasatsuhiraṇyaḥ svaśvo bṛhadasmai vaya indro dadhāti |*
-> *yastvā yantaṃ [?] vasunā prātaritvo mukṣījayeva padimutsināti [?] ‖*
+> *yastvā yantaṃ vasunā prātaritvo mukṣījayeva padimutsināti ‖*
 
-(Ṛ. Saṃ. 1-125-2, as read by the reader's OCR from p. 98.) In this ṛk, *vasunā* means "with food" (*annena*): the word *vasu* means "food".
+(Ṛ. Saṃ. 1-125-2, as printed. In *mukṣī* and *padimutsināti* the hooked letter after *-ma-* could be read as *ma* or *mu*; left as first read, undecided.) In this ṛk, *vasunā* means "with food" (*annena*): the word *vasu* means "food".
 
-> देवी जोष्ट्री वसुधिती यस्यां [?] । ... ।
-> नार्याणि यजमानाय वसुवने वसुधेयस्य वीतां यज ॥
+> देवी जोष्ट्री वसुधिती ययोरन्या घ[?]द्वेषांसि यायोवदन्या वक्ष[?]द्वसु ।
+> वार्याणि यजमानाय वसुवने वसुधेयस्य वीतां यज ॥
 
-> *devī joṣṭrī vasudhitī yasyāṃ [?] | ... |*
-> *nāryāṇi yajamānāya vasuvane vasudheyasya vītāṃ yaja ‖*
+> *devī joṣṭrī vasudhitī yayoranyā gh[?]dveṣāṃsi yāyovadanyā vakṣa[?]dvasu |*
+> *vāryāṇi yajamānāya vasuvane vasudheyasya vītāṃ yaja ‖*
 
-(Vāja. Saṃ. 28-10, as read; the first line is in small type and not settled letter by letter, hence not transcribed beyond what is shown.) In the verse that is said here, the word *vasu* has both meanings, "wealth" and "food".
+(Vāja. Saṃ. 28-10. The first line was read letter by letter from a 450-dpi zoom; the syllable after *gh-* and the conjunct in *vakṣa[?]dvasu* are not settled, and *yāyovadanyā* is medium.) In the verse that is said here, the word *vasu* has both meanings, "wealth" and "food".
 
 > सुगावो जीवाः सुपथा अकर्म य आजग्मुः सवनमिदं जुषाणाः ।
 > जक्षिवांसः पपिवांसश्च विश्वेऽस्मे धत्त वसवो वसूनि ॥
@@ -2395,7 +2395,7 @@ It is Agni himself who apportions the oblation shares to the gods. But since, wh
 > *sugāvo jīvāḥ supathā akarma ya ājagmuḥ savanamidaṃ juṣāṇāḥ |*
 > *jakṣivāṃsaḥ papivāṃsaśca viśve 'sme dhatta vasavo vasūni ‖*
 
-(Yajus Saṃ. 8-18 [?], as read.) Here the word *vasu* gives the sense "wealth" and "food".
+(Yajus Saṃ. 8-18, as printed.) Here the word *vasu* gives the sense "wealth" and "food".
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 4; sūtra numbers as read by the reader's OCR for p. 89).** *Gṛhaṃgṛham* — *nityavīpsayoḥ* (Pā. Sū. 8-1-4) when the sense of repetition is intended, doubling of the word occurs; by *tasya parām āmreḍitam* the second member gets the name *āmreḍita*; by *anudāttaṃ ca* (Pā. Sū. 8-1-3) it gets the all-unaccented accent; so too below in *dive dive* and *agram agram*, doubling and accent. *Yāti* — the root *yā prāpaṇe*; *adādi*; *laṭ*, 3rd singular; the *nighāta*. *Accha* — *nipātasya ca* (Pā. Sū. 6-3-136) lengthening in the Saṃhitā. *Dadhānā* — the root *ḍudhāñ dhāraṇapoṣaṇayoḥ*; *juhotyādi*; in the sense of *laṭ* the suffix *śānac*; *ślu*-vikaraṇa; taking it as the cause, doubling of the root; the first consonant remains in the reduplicative syllable, *jhaś*…; in the feminine *ṭāp*; *abhyastānām ādiḥ* (Pā. Sū. 6-1-189) the first-syllable acute. *Siṣāsantī* — the root *vana ṣaṇa sambhaktau*; *dhātvādeḥ ṣaḥ saḥ* — the initial *s*; in the sense of desire the suffix *san*; *sanyaṅoḥ* — doubling of the root; *halādiḥ śeṣaḥ*; *sanvallaghuni…* (Pā. Sū. 7-4-79) *i* in the reduplicative syllable; *ādeśapratyayayoḥ* (Pā. Sū. 8-3-59) *ṣatva* of the root's *s*;
 
