@@ -5476,9 +5476,9 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 **॥ सायणभाष्यम् ॥**
 
-> सोमयागप्रशंसाप्रसङ्गेन सामान्यतो दानमेतदादिभिस्तिसृभिः प्रशंसति । यद्वा । सोमस्यैव स्तुतत्वाद्दक्षिणाशब्दस्य योग एव प्रसिद्धत्वाच्च सूक्तपरिसमाप्तेः सोमयाग एव प्रस्तूयते । यः यो मर्त्यः पृणाति हविरादिदानेन देवादीन्प्रीणाति स नाकस्य । कमिति सुखनाम । तद्विरुद्धमकम् । न विद्यते कं दुःखं तत्साधनं पापं वेति नाको द्युलोकः । तथा श्रूयते । न वा अमुं लोकं जग्मुषे किं च नाकमिति [?] । नि. २-१४ । तस्य पृष्ठे उन्नते उपरिदेशे श्रितः सन्नध्यधिकमाकल्पान्तं तिष्ठति । यद्वा । अधि तिष्ठति । अधिष्ठाय प्रमुखो भूत्वा तिष्ठति । न केवलं स्वर्गाश्रयणं किंतु देवेषु मध्ये ह इति प्रसिद्धौ । तस्मै प्रीणयित्रे पुरुषाय सिन्धवः स्यन्दनशीला आपो घृतं तेजोवत्सारमर्षन्ति । गच्छन्ति । रसवत्यो भवन्तीत्यर्थः । किंचेयं भूमिरपि दक्षिणा सस्यादिफलसंपादनेन सती सदा सर्वकालं पिन्वते । सेचयति । तोषयतीत्यर्थः । दातुर्जीवनसाधकान्नोदकानि रुचिराणि समृद्धानि भवन्तीत्यर्थः ॥
+> सोमयागप्रशंसाप्रसङ्गेन सामान्यतो दानमेतदादिभिस्तिसृभिः प्रशंसति । यद्वा । सोमस्यैव स्तुतत्वाद्दक्षिणाशब्दस्य योग एव प्रसिद्धत्वाच्च सूक्तपरिसमाप्तेः सोमयाग एव प्रस्तूयते । यः यो मर्त्यः पृणाति हविरादिदानेन देवादीन्प्रीणाति स नाकस्य । कमिति सुखनाम । तद्विरुद्धमकम् । न विद्यते कं दुःखं तत्साधनं पापं वेति नाको द्युलोकः । तथा श्रूयते । न वा अमुं लोकं जग्मुषे किं च नाकमति [sic] । नि. २-१४ । तस्य पृष्ठे उन्नते उपरिदेशे श्रितः सन्नध्यधिकमाकल्पान्तं तिष्ठति । यद्वा । अधि तिष्ठति । अधिष्ठाय प्रमुखो भूत्वा तिष्ठति । न केवलं स्वर्गाश्रयणं किंतु देवेषु मध्ये ह इति प्रसिद्धौ । तस्मै प्रीणयित्रे पुरुषाय सिन्धवः स्यन्दनशीला आपो घृतं तेजोवत्सारमर्षन्ति । गच्छन्ति । रसवत्यो भवन्तीत्यर्थः । किंचेयं भूमिरपि दक्षिणा सस्यादिफलसंपादनेन सती सदा सर्वकालं पिन्वते । सेचयति । तोषयतीत्यर्थः । दातुर्जीवनसाधकान्नोदकानि रुचिराणि समृद्धानि भवन्तीत्यर्थः ॥
 
-> *somayāgapraśaṃsāprasaṅgena sāmānyato dānametadādibhistisṛbhiḥ praśaṃsati | yadvā | somasyaiva stutatvāddakṣiṇāśabdasya yoga eva prasiddhatvācca sūktaparisamāpteḥ somayāga eva prastūyate | yaḥ yo martyaḥ pṛṇāti havirādidānena devādīnprīṇāti sa nākasya | kamiti sukhanāma | tadviruddhamakam | na vidyate kaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyulokaḥ | tathā śrūyate | na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākamiti [?] | ni. 2-14 | tasya pṛṣṭhe unnate uparideśe śritaḥ sannadhyadhikamākalpāntaṃ tiṣṭhati | yadvā | adhi tiṣṭhati | adhiṣṭhāya pramukho bhūtvā tiṣṭhati | na kevalaṃ svargāśrayaṇaṃ kiṃtu deveṣu madhye ha iti prasiddhau | tasmai prīṇayitre puruṣāya sindhavaḥ syandanaśīlā āpo ghṛtaṃ tejovatsāramarṣanti | gacchanti | rasavatyo bhavantītyarthaḥ | kiṃceyaṃ bhūmirapi dakṣiṇā sasyādiphalasaṃpādanena satī sadā sarvakālaṃ pinvate | secayati | toṣayatītyarthaḥ | dāturjīvanasādhakānnodakāni rucirāṇi samṛddhāni bhavantītyarthaḥ ‖*
+> *somayāgapraśaṃsāprasaṅgena sāmānyato dānametadādibhistisṛbhiḥ praśaṃsati | yadvā | somasyaiva stutatvāddakṣiṇāśabdasya yoga eva prasiddhatvācca sūktaparisamāpteḥ somayāga eva prastūyate | yaḥ yo martyaḥ pṛṇāti havirādidānena devādīnprīṇāti sa nākasya | kamiti sukhanāma | tadviruddhamakam | na vidyate kaṃ duḥkhaṃ tatsādhanaṃ pāpaṃ veti nāko dyulokaḥ | tathā śrūyate | na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākamati [sic] | ni. 2-14 | tasya pṛṣṭhe unnate uparideśe śritaḥ sannadhyadhikamākalpāntaṃ tiṣṭhati | yadvā | adhi tiṣṭhati | adhiṣṭhāya pramukho bhūtvā tiṣṭhati | na kevalaṃ svargāśrayaṇaṃ kiṃtu deveṣu madhye ha iti prasiddhau | tasmai prīṇayitre puruṣāya sindhavaḥ syandanaśīlā āpo ghṛtaṃ tejovatsāramarṣanti | gacchanti | rasavatyo bhavantītyarthaḥ | kiṃceyaṃ bhūmirapi dakṣiṇā sasyādiphalasaṃpādanena satī sadā sarvakālaṃ pinvate | secayati | toṣayatītyarthaḥ | dāturjīvanasādhakānnodakāni rucirāṇi samṛddhāni bhavantītyarthaḥ ‖*
 
 *(Read from the image; the OCR is garbled in places. The Nirukta citation "2-14" and the Veda quotation "na vā amuṃ lokaṃ jagmuṣe kiṃ ca nākam" are small and I give them as read.)* "By way of praise of the Soma sacrifice, in these three [ṛks] beginning with this, he praises giving in general. Or else, since only the Soma sacrifice has been praised, and since the word *dakṣiṇā* ('fee') is well known only in connection with it, and the sūkta is to be completed, it is the Soma sacrifice itself that is being described. *Yaḥ* — the mortal who *pṛṇāti* — satisfies the gods and others by gifts of oblations and the like, *nākasya* — *kam* is a name of happiness; the opposite is *akam*; *nāka* is the heaven in which there is no *kam* — no sorrow, or no sin that is its means: thus it is heard: 'to the one who has gone to yonder world there is nothing that is not *nāka*' (Ni. 2-14) — on its back (*pṛṣṭhe*), the high upper region, resting (*śritaḥ*), *adhi tiṣṭhati* — dwells till the end of the age; or *adhi tiṣṭhati* — presides, standing as the foremost. Not only does he gain heaven, but *ha* — it is well known — he goes (*gacchati*) among the gods, that is, himself becomes a god. For that satisfier of the gods, the *sindhavaḥ* — flowing waters — *ghṛtam* — with radiant essence — *arṣanti* — flow, they become full of juice. And, moreover, this earth too, being *dakṣiṇā* ('fee', 'fertile'), by yielding grain and the like, *sadā* — always — *pinvate* — drenches, satisfies: that is, for the giver, the food and waters that support life become lovely and abundant."
 
@@ -5512,10 +5512,10 @@ Yet *alpataro 'ṃśubhūtaḥ somaḥ varīyāṃsam indraṃ prīṇayati*: ev
 
 Thus the meaning of the word *nāka* is stated. In the Ṛk Saṃhitā this word is used in some places as a synonym of Āditya, in some places as a synonym of heaven.
 
-> त्रिश्चिन्नो अद्य सिन्धुभिः सप्तमातृभिस्त्र आहावास्त्रेधा हविष्कृतम् [?] ।
+> त्रिश्चिन्नो अद्य सिन्धुभिः सप्तमातृभिस्त्र आहावास्त्रेधा हविष्कृतम् ।
 > तिस्रः पृथिवीरुपरि प्रवा दिवो नाकं रक्षेथे द्युभिरक्तुभिर्हितम् ॥
 
-> *triścinno adya sindhubhiḥ saptamātṛbhistra āhāvāstredhā haviṣkṛtam [?] |*
+> *triścinno adya sindhubhiḥ saptamātṛbhistra āhāvāstredhā haviṣkṛtam |*
 > *tisraḥ pṛthivīrupari pravā divo nākaṃ rakṣethe dyubhiraktubhirhitam ‖*
 
 (Ṛ. Saṃ. 1-34-8, as read from the print; the first line is doubtful.)
@@ -5546,7 +5546,7 @@ Thus the meaning of the word *nāka* is stated. In the Ṛk Saṃhitā this word
 
 > *vṛṣaiva kapilo bhūtvā yannākamadhirohati |*
 
-(Bṛ. De. 3-86 [?], as read.) — in this Bṛhaddevatā sentence "atmosphere" (*antarikṣa*) is clear.
+(Bṛ. De. 2-66, as read.) — in this Bṛhaddevatā sentence "atmosphere" (*antarikṣa*) is clear.
 
 > इतोऽसावादित्यो द्वाविंशेन परमादित्याज्जयति तन्नाकं तद्विशोकम् ॥
 
@@ -5596,9 +5596,9 @@ In the present ṛk Sāyaṇa explains *na vidyate akaṃ duḥkhaṃ tatsādhan
 
 **॥ सायणभाष्यम् ॥**
 
-> दक्षिणावतां बहुविधगोहिरण्यादिरूपदक्षिणाप्रदात्‍ऋणाम् । इच्छब्द एवकारार्थः । तेषामेवार्थ इमानि भूमौ दृश्यमानानि चित्राणि चायनीयानि स्यन्दनमणिमुक्तादिरूपाणि [?] समृद्धानि भवन्तीति शेषः । किंच दक्षिणावतामेव दिवि द्युलोके सूर्यासः सूर्यसंबन्धिनो लोकास्तदनुगृहीता भोगा वा समृद्धा भवन्ति । किंच दक्षिणावन्त एवामृतं जरामरणरहितं स्थानं भजन्ते । सेवन्ते । यद्वा । दानेनापहतपाप्मान आत्मानं विदित्वामृतमनश्नानं मोक्षं भजन्ते । प्राप्नुवन्ति । यज्ञेनैव दानेनेति श्रुतेः । किंच दक्षिणावन्त एवायुः प्र तिरन्ते । अतिदीर्घमेवमायुष्यं लभन्ते । प्रपूर्वस्तिरतिर्वर्धनार्थः । इतीति सर्वत्र संबध्यते ॥
+> दक्षिणावतां बहुविधगोहिरण्यादिरूपदक्षिणाप्रदात्‍ऋणाम् । इच्छब्द एवकारार्थः । तेषामेवार्थ इमानि भूमौ दृश्यमानानि चित्राणि चायनीयानि स्यन्दनमणिमुक्तादिरूपाणि समृद्धानि भवन्तीति शेषः । किंच दक्षिणावतामेव दिवि द्युलोके सूर्यासः सूर्यसंबन्धिनो लोकास्तदनुगृहीता भोगा वा समृद्धा भवन्ति । किंच दक्षिणावन्त एवामृतं जरामरणरहितं स्थानं भजन्ते । सेवन्ते । यद्वा । दानेनापहतपाप्मान आत्मानं विदित्वामृतमनश्नानं मोक्षं भजन्ते । प्राप्नुवन्ति । यज्ञेनैव दानेनेति श्रुतेः । किंच दक्षिणावन्त एवायुः प्र तिरन्ते । अतिदीर्घमेवमायुष्यं लभन्ते । प्रपूर्वस्तिरतिर्वर्धनार्थः । इतीति सर्वत्र संबध्यते ॥
 
-> *dakṣiṇāvatāṃ bahuvidhagohiraṇyādirūpadakṣiṇāpradātṛṇām | icchabda evakārārthaḥ | teṣāmevārtha imāni bhūmau dṛśyamānāni citrāṇi cāyanīyāni syandanamaṇimuktādirūpāṇi [?] samṛddhāni bhavantīti śeṣaḥ | kiṃca dakṣiṇāvatāmeva divi dyuloke sūryāsaḥ sūryasaṃbandhino lokāstadanugṛhītā bhogā vā samṛddhā bhavanti | kiṃca dakṣiṇāvanta evāmṛtaṃ jarāmaraṇarahitaṃ sthānaṃ bhajante | sevante | yadvā | dānenāpahatapāpmāna ātmānaṃ viditvāmṛtamanaśnānaṃ mokṣaṃ bhajante | prāpnuvanti | yajñenaiva dāneneti śruteḥ | kiṃca dakṣiṇāvanta evāyuḥ pra tirante | atidīrghamevamāyuṣyaṃ labhante | prapūrvastiratirvardhanārthaḥ | itīti sarvatra saṃbadhyate ‖*
+> *dakṣiṇāvatāṃ bahuvidhagohiraṇyādirūpadakṣiṇāpradātṛṇām | icchabda evakārārthaḥ | teṣāmevārtha imāni bhūmau dṛśyamānāni citrāṇi cāyanīyāni syandanamaṇimuktādirūpāṇi samṛddhāni bhavantīti śeṣaḥ | kiṃca dakṣiṇāvatāmeva divi dyuloke sūryāsaḥ sūryasaṃbandhino lokāstadanugṛhītā bhogā vā samṛddhā bhavanti | kiṃca dakṣiṇāvanta evāmṛtaṃ jarāmaraṇarahitaṃ sthānaṃ bhajante | sevante | yadvā | dānenāpahatapāpmāna ātmānaṃ viditvāmṛtamanaśnānaṃ mokṣaṃ bhajante | prāpnuvanti | yajñenaiva dāneneti śruteḥ | kiṃca dakṣiṇāvanta evāyuḥ pra tirante | atidīrghamevamāyuṣyaṃ labhante | prapūrvastiratirvardhanārthaḥ | itīti sarvatra saṃbadhyate ‖*
 
 *(Read from the image and checked against the OCR; a few small words — "syandanamaṇimuktādi" and the quotation "yajñenaiva dānena" — are given as read.)* "*Dakṣiṇāvatām* — of those who give fees (*dakṣiṇā*) of many kinds, in the form of cows, gold and the like. The word *it* has the sense of *eva*: for them alone these *imāni* — the things seen on earth, wonderful and desirable, in the form of chariots, jewels, pearls and the like — become abundant; this is the remainder of the sentence. Moreover for the givers of fees alone, *divi* — in the heaven-world — *sūryāsaḥ* — the worlds belonging to the Sun, or the enjoyments favoured by him — become abundant. Moreover only the givers of fees attain (*bhajante*, resort to) *amṛtam* — a state free of old age and death; or else, with their sin removed by giving, knowing the Self, they attain *amṛta*, the state of release, the not-eating: [as in] the text 'by sacrifice, by giving'. Moreover only the givers of fees *prātirante* — greatly lengthen their life, *āyuḥ*; they obtain very long life; the verb *tir* with the prefix *pra* has the sense of increase. The word *iti* is connected throughout."
 
@@ -5636,11 +5636,11 @@ Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning
 
 ***pratirante*** — *pratiratiḥ vṛddhikarmā*: "they obtain increase": this is the purport. The glory of giving in the form of the fee is praised in many places in this way.
 
-> अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति हृष्यैष दक्षिणाभ्युक्तम् [?] ।
+> अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति ह्यस्यृषिणाभ्युक्तम् ।
 
-> *ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hṛṣyaiṣa dakṣiṇābhyuktam [?] |*
+> *ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hyasyṛṣiṇābhyuktam |*
 
-(Śa. Brā. 18-1-1-10, as read; the print is small.) — that giving the fee produces food; and
+(Śa. Brā. 18-1-1-10; the words after *ātmeti* are as printed letter by letter: *hyasyṛṣiṇābhyuktam*, with a ṛ-sign on *sya*; not corrected.) — that giving the fee produces food; and
 
 > य एष तपति तदेवैतद्दादित्यो यशो यज्ञो हैव तद्यशस्तद्यज्ञस्तद्दक्षिणा हैव तद्यशस्तस्माद्यामस्मै दक्षिणामानयेयुर्न तां इत्वा मोऽन्यस्मा अतिदिशेत् ॥
 
@@ -5694,11 +5694,11 @@ Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 125".)*
 
-> शोभनकृच्छ्रचान्द्रायणादिनियमवन्तोऽपि मा जारिषुः । तेषामन्यः कश्चन [?] । यः कश्चन तेषां दातॄणां स्तोतॄणां वा अन्यो ऽपि पुरुषः परिधिः पापस्य परितो धारकोऽस्तु । यद्वा । अन्यो यः कश्चित्पापदेवस्तेषां परिधिस्थानीयो व्यवधायकोऽस्तु । यथाग्नेः परिधिः स्वयं रक्षःप्रकृतिभिर्बाध्यमानः स्वान्तर्हितमग्निं रक्षति तद्वत् । अथवा । अन्यो धर्मविशेषस्तेषां परिधिः परिधानमस्तु । कवचस्थानीयोऽस्तु । तर्हि किं प्राप्नुयुरिति उच्यते । अपृणन्तं देवादीनप्रीणयन्तमदातारं शोकाः क्लेशाः पीडकास्तत्साधनाः पाप्मानोऽभ्यभिमुखं सं यन्तु । सम्यक् प्राप्नुवन्तु । वयं सुखिनो भवेमेत्यर्थः ॥
+> शोभनकृच्छ्रचान्द्रायणादिनियमवन्तोऽपि मा जारिषुः । तह्येऽषामन्यो [?] जनः क इति स उच्यते । तेषां दातॄणां स्तोतॄणां वास्यस्तेभ्योऽन्यो यः कोऽपि पुरुषः परिधिः पापस्य परितो धारकोऽस्तु । यद्वा । अन्यो यः कश्चन पापदेवस्तेषां परिधिस्थानीयो व्यवधायकोऽस्तु । यथाग्नेः परिधिः स्वयं रक्षःप्रकृतिभिर्बाध्यमानः स्वान्तर्हितमग्निं रक्षति तद्वत् । अथवा । अन्यो धर्मविशेषस्तेषां परिधिः परिधानमस्तु । कवचस्थानीयोऽस्तु । तर्हि किं प्राप्नुयुरिति उच्यते । अपृणन्तं देवादीनप्रीणयन्तमदातारं शोकाश्चित्तपीडास्तत्साधनाः पाप्मानोऽभ्यमभिमुखं सं यन्तु । सम्यक् प्राप्नुवन्तु । वयं सुखिनो भवेमेत्यर्थः ॥
 
-> *śobhanakṛcchracāndrāyaṇādiniyamavanto 'pi mā jāriṣuḥ | teṣāmanyaḥ kaścana [?] | yaḥ kaścana teṣāṃ dātṝṇāṃ stotṝṇāṃ vā anyo 'pi puruṣaḥ paridhiḥ pāpasya parito dhārako 'stu | yadvā | anyo yaḥ kaścitpāpadevasteṣāṃ paridhisthānīyo vyavadhāyako 'stu | yathāgneḥ paridhiḥ svayaṃ rakṣaḥprakṛtibhirbādhyamānaḥ svāntarhitamagniṃ rakṣati tadvat | athavā | anyo dharmaviśeṣasteṣāṃ paridhiḥ paridhānamastu | kavacasthānīyo 'stu | tarhi kiṃ prāpnuyuriti ucyate | apṛṇantaṃ devādīnaprīṇayantamadātāraṃ śokāḥ kleśāḥ pīḍakāstatsādhanāḥ pāpmāno 'bhyabhimukhaṃ saṃ yantu | samyak prāpnuvantu | vayaṃ sukhino bhavemetyarthaḥ ‖*
+> *śobhanakṛcchracāndrāyaṇādiniyamavanto 'pi mā jāriṣuḥ | tahye 'ṣāmanyo [?] janaḥ ka iti sa ucyate | teṣāṃ dātṝṇāṃ stotṝṇāṃ vāsyastebhyo 'nyo yaḥ ko 'pi puruṣaḥ paridhiḥ pāpasya parito dhārako 'stu | yadvā | anyo yaḥ kaścana pāpadevasteṣāṃ paridhisthānīyo vyavadhāyako 'stu | yathāgneḥ paridhiḥ svayaṃ rakṣaḥprakṛtibhirbādhyamānaḥ svāntarhitamagniṃ rakṣati tadvat | athavā | anyo dharmaviśeṣasteṣāṃ paridhiḥ paridhānamastu | kavacasthānīyo 'stu | tarhi kiṃ prāpnuyuriti ucyate | apṛṇantaṃ devādīnaprīṇayantamadātāraṃ śokāścittapīḍāstatsādhanāḥ pāpmāno 'bhyamabhimukhaṃ saṃ yantu | samyak prāpnuvantu | vayaṃ sukhino bhavemetyarthaḥ ‖*
 
-*(Read from the image; the words marked [?] near the beginning — "teṣām anyaḥ kaścana" — are small and doubtful.)* "To praise giving by the method of agreement and difference, he says: those who satisfy (*pṛṇantaḥ*) the gods and others with oblations and the like — let them not incur (*mā āran*) evil that has come about — *duritam* (sorrow, evil) and *enaḥ* (sin that is its cause). Not only the givers, but also *sūrayaḥ* — the wise praisers of the gods — let them not *mā jāriṣuḥ* — not be worn out by old age; and likewise *suvratāsaḥ* — those who keep the vows such as *kṛcchra* and *cāndrāyaṇa* — let them not be worn out. For them, some other person, *anyaḥ kaścid*, who is another person of the givers or praisers, let him be a *paridhi* — a surrounding protector against sin; or let some other deity of sin be as a *paridhi* — a barrier — for them: as the *paridhi* of the fire, itself beaten by the Rākṣasas and the like, protects the fire hidden within it, so; or let some special dharma be their *paridhāna*, as it were a coat of mail. If so, what will befall? That is said: *apṛṇantam* — him who does not satisfy the gods and others, the non-giver — *śokāḥ* — troubles, tormentors, the sins that are their cause — *abhi saṃ yantu* — let them come upon him; let them reach him thoroughly: that we may be happy."
+*(Read from the image on Phase 2: the opening of the bhāṣya as printed is "tahye 'ṣāmanyo janaḥ ka iti sa ucyate | teṣāṃ dātṝṇāṃ stotṝṇāṃ vāsyastebhyo 'nyo yaḥ ko 'pi puruṣaḥ…"; the word "tahye 'ṣām" is odd and kept with [?]; "vāsyastebhyaḥ" is as printed. Further on the print has "anyo yaḥ kaścana pāpadevaḥ", "śokāś cittapīḍāḥ" and "'bhyam abhimukham".)* "To praise giving by the method of agreement and difference, he says: those who satisfy (*pṛṇantaḥ*) the gods and others with oblations and the like — let them not incur (*mā āran*) evil that has come about — *duritam* (sorrow, evil) and *enaḥ* (sin that is its cause). Not only the givers, but also *sūrayaḥ* — the wise praisers of the gods — let them not *mā jāriṣuḥ* — not be worn out by old age; and likewise *suvratāsaḥ* — those who keep the vows such as *kṛcchra* and *cāndrāyaṇa* — let them not be worn out. For them, some other person, *anyaḥ kaścid*, who is another person of the givers or praisers, let him be a *paridhi* — a surrounding protector against sin; or let some other deity of sin be as a *paridhi* — a barrier — for them: as the *paridhi* of the fire, itself beaten by the Rākṣasas and the like, protects the fire hidden within it, so; or let some special dharma be their *paridhāna*, as it were a coat of mail. If so, what will befall? That is said: *apṛṇantam* — him who does not satisfy the gods and others, the non-giver — *śokāś cittapīḍās tatsādhanāḥ pāpmānaḥ* — sorrows, pains of the mind, and the sins that are their cause — *abhi saṃ yantu* — let them come upon him; let them reach him thoroughly: that we may be happy."
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Pṛṇantaḥ* — those who have satisfied (the gods with oblations and the like); *duritam* — sorrow; *enaḥ* — sin (the cause of sorrow); *mā ā aran* — let them not incur; *sūrayaḥ* — the praisers; (and) *suvratāsaḥ* — those who perform good vows; *mā jāriṣuḥ* — let them not be worn out by old age; *teṣām* — (for the givers and praisers); *anyaḥ kaścit* — some other person; *paridhiḥ* — the guard (the one who keeps off sin) or (the barrier that holds off sin); *astu* — let him be; *apṛṇantam* — him who does not satisfy the gods and others (the non-giver); *śokāḥ* — afflictions (sins, or the sinful); *abhi* — against; *saṃ yantu* — let them come.
 
@@ -5746,7 +5746,7 @@ When it is used of ṛṣis who have the supernatural power of vision, visual an
 > *evedindraḥ sute astāvi some bharadvājeṣu kṣayadinmaghonaḥ |*
 > *asadyathā jaritra uta sūririndro rāyo viśvavārasya dātā ‖*
 
-(Ṛ. Saṃ. 6-33-? [?], as read.)
+(Ṛ. Saṃ. 6-23-10.)
 
 > विश्वकर्मन्हविषा वावृधानः स्वयं यजस्व पृथिवीमुत द्याम् ।
 > मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु ॥
@@ -5762,7 +5762,7 @@ When it is used of ṛṣis who have the supernatural power of vision, visual an
 > *ratho na yātaḥ śikvabhiḥ kṛto dyāmaṅgebhiraruṣebhirīyate |*
 > *ādasya te kṛṣṇāso dakṣi sūrayaḥ śūrasyeva tveṣathādīṣate vayaḥ ‖*
 
-(Ṛ. Saṃ. 1-141-? [?], as read.) — in some such places it gives more rarely the sense "path" [*mārga*].
+(Ṛ. Saṃ. 1-141-8.) — in some such places it gives more rarely the sense "path" [*mārga*].
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-122-8
 
