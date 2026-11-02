@@ -1,6 +1,6 @@
 """Print the numeral-file rows for one of OUR PDF pages (Vol 14).
 python3 vol14/tools/numerals_for.py PDFPAGE [PDFPAGE ...]
-File page = printed + 18 = our PDF page (<=222) or our PDF page - 1 (>=224). PDF 223 is the duplicate of 222 (no rows).
+File page = printed + 18 = our PDF page (<=222), PDF-1 (224-334), PDF-2 (>=336); our PDF 223 and 335 are duplicates of 222 and 334 (no rows). Printed = PDF-18 (<=222), PDF-19 (224-334), PDF-20 (>=336). PDF 223 is the duplicate of 222 (no rows).
 Prints per row: file line | Kannada pattern | English digits | raw OCR line (noisy words, reliable numerals); then every Kannada numeral
 group found in the raw lines, converted to English digits, in line order."""
 import sys,os,re,glob,openpyxl
@@ -10,11 +10,11 @@ rows=[]
 for f in sorted(glob.glob(os.path.join(D,'Rigveda_Clean_Numerals_14_*.xlsx'))):
     ws=openpyxl.load_workbook(f).active
     rows+=[r for r in ws.iter_rows(min_row=2,values_only=True) if r[0] is not None]
-def filepage(q): return q if q<=222 else q-1
+def filepage(q): return q if q<=222 else (q-1 if q<=334 else q-2)
 for q in map(int,sys.argv[1:]):
-    if q==223: print(f'== PDF 223: duplicate of PDF 222, no rows'); continue
+    if q in (223,335): print(f'== PDF {q}: duplicate of the previous page, no rows'); continue
     fp=filepage(q); rs=[r for r in rows if r[0]==fp]
-    print(f'== PDF {q} (printed {q-18 if q<=222 else q-19}, file page {fp}): {len(rs)} rows')
+    print(f'== PDF {q} (printed {q-18 if q<=222 else (q-19 if q<=334 else q-20)}, file page {fp}): {len(rs)} rows')
     seen=set()
     for p,l,pat,eq,ctx in rs: print(f'  line {l} | {pat} | {eq} | {ctx}')
     print('  numeral groups by line:')
