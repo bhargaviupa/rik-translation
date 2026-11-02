@@ -1,0 +1,62 @@
+[
+ {
+  "pdf": 96,
+  "printed": 75,
+  "crop": [
+   0.2,
+   0.27,
+   0.6,
+   0.8
+  ],
+  "note": "ZOOMED? viewed in strip only: Ṛ 2-11-21 (sheet), Ni 1-7 x3 (sheet)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 77,
+  "crop": [
+   0.275,
+   0.29,
+   0.582,
+   0.783
+  ],
+  "note": "ZOOMED, read: 9-75-5 (sheet agrees)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 77,
+  "crop": [
+   0.452,
+   0.486,
+   0.582,
+   0.797
+  ],
+  "note": "ZOOMED, read: Ni. 8-18 (glyphs 8-1-8; clear)",
+  "answer": ""
+ },
+ {
+  "pdf": 98,
+  "printed": 77,
+  "crop": [
+   0.79,
+   0.804,
+   0.654,
+   0.767
+  ],
+  "note": "ZOOMED 900 dpi, read: Ṛ. Saṃ. 7-78-1 (flat-footed 7, loop-8 as in 5-80-2, last = 1); fairly sure",
+  "answer": ""
+ },
+ {
+  "pdf": 101,
+  "printed": 80,
+  "crop": [
+   0.23,
+   0.25,
+   0.385,
+   0.647
+  ],
+  "note": "ZOOMED, read: nirvartyāṃdhakāraṃ (bhāṣya line on PDF 101; file had it in the PDF 100 block)",
+  "answer": ""
+ }
+]
