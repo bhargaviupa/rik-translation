@@ -1,1 +1,2 @@
 - PDF 198: 3 [?] removed (danda after Ni 1-15; satyasatprāye; end ketuḥ; legible). PDF 202: 'padvadbhirvayo pata [?]' -> 'padvadīyata' (zoom 450, medium on ī). PDF 203: 'yatsnasantaṃ [?]' -> 'yat[?]ṃ santaṃ' (zoom 800: conjunct under ta unresolved). Done through 203.
+- PDF 207: 'Ni. 2-10 [?]' -> '3-9, as printed' (zoom 600 same glyphs as first; sheet 3 row says 3-9). PDF 208: 'yātenocyate [?]' -> 'yā tenocyate' (printed gap). PDF 209: 'prātariti [?]' [?] removed (clear). Done through 209.
