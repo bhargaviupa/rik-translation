@@ -1,0 +1,62 @@
+[
+ {
+  "pdf": 148,
+  "printed": 127,
+  "crop": [
+   0.218,
+   0.249,
+   0.214,
+   0.577
+  ],
+  "note": "ZOOMED, read: hyaraṇyasya (ಹ್ಯರಣ್ಯಸ್ಯ) in Ṛk quoted at top of p.127; this verse had been placed in the p.126 block",
+  "answer": ""
+ },
+ {
+  "pdf": 148,
+  "printed": 127,
+  "crop": [
+   0.261,
+   0.281,
+   0.537,
+   0.738
+  ],
+  "note": "ZOOMED, read: 7-4-7 (sheet value; glyphs same flat-footed 7 at both ends)",
+  "answer": ""
+ },
+ {
+  "pdf": 151,
+  "printed": 130,
+  "crop": [
+   0.286,
+   0.311,
+   0.226,
+   0.548
+  ],
+  "note": "ZOOMED, read: Ṛ. ೭-೬೩-೪ glyphs, but sheet says 3.634 -> kept [?] on first digit",
+  "answer": ""
+ },
+ {
+  "pdf": 151,
+  "printed": 130,
+  "crop": [
+   0.286,
+   0.311,
+   0.54,
+   0.846
+  ],
+  "note": "ZOOMED, read: araṇīyaṃ dvipat pādadvayopetaṃ",
+  "answer": ""
+ },
+ {
+  "pdf": 151,
+  "printed": 130,
+  "crop": [
+   0.271,
+   0.289,
+   0.226,
+   0.548
+  ],
+  "note": "ZOOMED, read: kṣipramarthaṃ | arthaśabdo 'tra viśeṣaṇavācī (no apekṣitam)",
+  "answer": ""
+ }
+]
