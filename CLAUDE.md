@@ -44,6 +44,7 @@ Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~28
 - **Grammar pages:** English note only (2–4 lines naming words); the Kannada file carries the headwords and legible sūtra names, not every numeral. Small-type numerals: `[?]`, no zooming.
 - **Printed English of each Ṛk:** start from `english_block.py` output and compare, not retype.
 - **Images:** view at ~120 dpi; zoom only a crop that cannot be read.
+- **Turn economy (Nov 2026):** every tool call re-reads the whole context, including all images viewed so far. Issue independent calls in parallel (view all strips of a page or batch in one message, zoom in one message), write a page with one call, work in batches of ~3 pages. See `vol14/vol14_runbook.md` "Turn economy".
 - **Kannada prose drafts** (Pratipadārtha, Bhāvārtha, Special Topics): may be drafted by a smaller model if the user asks; I review `[?]` lines and the Sanskrit.
 - Put italic notes **before** a Devanagari block or after its IAST line (a note right after the block stops `add_iast.py` adding the IAST).
 
@@ -52,3 +53,5 @@ Do not run whole-volume Tesseract scans (20+ min; used only to locate). Read pri
 
 ## Volume 14 (in progress, Oct 31 2026)
 Translated through printed p. 313 (PDF 332) of ~961; Sūktas 185–189 complete, 190 open at Ṛk 3. Output `Rigveda_Samhita_Vol14_English_Translation.md`; method/lessons `vol14/vol14_runbook.md`; status, open items and resume instructions `vol14/vol14_state.md`, `vol14/parts/session_state.md`, `vol14/CONTINUE_PROMPT.md`. Offset printed = PDF − 18 to PDF 222, **− 19 from PDF 224** (PDF 223 duplicates 222). Printed p. 288 needs a re-scan (right edge cut off).
+
+**Volume 14 direction change (Oct 31 2026, user):** translators are **Sonnet** (cost reduction); numerals come first from user-supplied files in `vol14/numerals/` (read by another engine); the translator verifies each against the strip, zooms only where they differ, and flags 'file said X' if it overrides (missing file → stop and report). Details: `vol14/vol14_runbook.md`, last section; the dispatcher prompt is `vol14/CONTINUE_PROMPT.md`.
