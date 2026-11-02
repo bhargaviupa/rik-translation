@@ -1358,7 +1358,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *asarji vāṃ sthavirā vedhasā gīrbāḷhe aśvinā tredhā kṣarantī |*
 
-(Ṛ. Saṃ. 1-139-2 [?], as read.) In this ṛk Sāyaṇa has given for the word *bāḷhe* the sense *dhṛḍhe, sthirakarme* ("firm, of steady action"). So also here: "going with firmness, free from fear, since the help of Mitra and Varuṇa is with him, [yet] against enemies of whatever kind, with a steadiness that carries [him]" — and therefore he explained it as *aśaṅkitagamanaḥ* ("one whose going is without fear").
+(Ṛ. Saṃ. 1-181-7, as printed; the user's numeral sheet agrees; the earlier "1-139-2 [?]" was wrong.) In this ṛk Sāyaṇa has given for the word *bāḷhe* the sense *dhṛḍhe, sthirakarme* ("firm, of steady action"). So also here: "going with firmness, free from fear, since the help of Mitra and Varuṇa is with him, [yet] against enemies of whatever kind, with a steadiness that carries [him]" — and therefore he explained it as *aśaṅkitagamanaḥ* ("one whose going is without fear").
 
 ***vrādhataḥ nahuṣaḥ*** — *mahannāmaitat | hiṃsakān mahato 'pi śatrūn* — "(this is a name of 'great'); against violent enemies, though they be great". Ordinarily the word *mahat* is current in the sense "worthy of honour"; but because the epithet *vrādhataḥ* is used here of enemies, it comes to mean "extremely strong, powerful". This epithet is also found for gods.
 
@@ -1366,13 +1366,13 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *ime ye te su vāyo bāhvojaso 'ntarnadī te patayantyukṣaṇo mahi vrādhanta ukṣaṇaḥ |*
 
-(Ṛ. Saṃ. 1-134-4 [?], as read.) In this ṛk the word *vrādhantaḥ* is an epithet of the horses of Vāyu: *mahi vrādhantaḥ — ati prabhūtaṃ vardhamānāḥ*, "growing very abundantly" — that is the sense. And:
+(Ṛ. Saṃ. 1-135-9, as printed; the user's numeral sheet agrees; the earlier "1-134-4 [?]" was wrong.) In this ṛk the word *vrādhantaḥ* is an epithet of the horses of Vāyu: *mahi vrādhantaḥ — ati prabhūtaṃ vardhamānāḥ*, "growing very abundantly" — that is the sense. And:
 
 > स चेन्द्रो विप्र मर्त्यो महो व्राधन्तमो दिवि ।
 
 > *sa cendro vipra martyo maho vrādhantamo divi |*
 
-(Ṛ. Saṃ. 1-130-2 [?], as read.)
+(Ṛ. Saṃ. 1-150-4, as printed; the user's numeral sheet agrees; the earlier "1-130-2 [?]" was wrong.)
 
 ### Printed p. 47  (PDF 68)
 
@@ -1382,7 +1382,7 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 > *śatrūyanto abhi ye nastatasre mahi vrādhanta ogaṇāsa indra |*
 
-(Ṛ. Saṃ. 10-9[?]-1[?], as read.) Here *vrādhantaḥ — asmān bādhamānāḥ*, "those who afflict us greatly" is the sense. In just the same way, in many other places the word means an enemy that is extremely strong, not to be checked, and one who inflicts violence; likewise in the ṛk in hand, however mighty an enemy may be, the [man described] may move about not mindful of him, and without fear — that is the purport.
+(Ṛ. Saṃ. 10-89-15, as printed; the user's numeral sheet agrees.) Here *vrādhantaḥ — asmān bādhamānāḥ*, "those who afflict us greatly" is the sense. In just the same way, in many other places the word means an enemy that is extremely strong, not to be checked, and one who inflicts violence; likewise in the ṛk in hand, however mighty an enemy may be, the [man described] may move about not mindful of him, and without fear — that is the purport.
 
 **Vyākaraṇa-prakriyā (grammar page, Ṛk 10, noted briefly).** *Vrādhataḥ* — the root *vṛdhu vṛddhau*, with the *uṇādi* suffix *ati*; the augment *a*… by that [combination]; *vṛṣādīnāṃ ca* — the initial acute. *Daṃsujūtaḥ* — the root *damu upaśame*; *anyebhyo 'pi dṛśyate* the suffix *vic*; in *vic*, total elision; *jū* is a *sautra* root of the sense of motion; the suffix *kta* in the passive by *niṣṭhā*; *tṛtīyā karmaṇi* — the first member keeps its natural accent. *Narām* — the word *nṛ*; the genitive plural; *jasādiṣu chandasi vāvacanam* — the *nuṭ* does not come; guṇa by *vyatyaya*; *sāvekācas tṛtīyādiḥ…* — the ending takes the acute. *Gūrtaśravāḥ* — the root *gurī udyamane*; the suffix *kta* by *niṣṭhā*; since it is *ra*-… the cerebral *ṇ* is not [substituted]; *gūrtaṃ śravaḥ yasya saḥ gūrtaśravāḥ*; *bahuvrīhau prakṛtyā pūrvapadam* — the accent of the first member. *Visṛṣṭarātiḥ* — the root *sṛja visarge*; with the prefix *vi*, the *niṣṭhā* suffix in the passive; *vraścabhrasja…* — *ṣatva* of the *j*; the suffix *kta* in the sense of *ṣṭu*; *gatir anantaraḥ* — the prefix keeps its own accent.
 
@@ -1481,23 +1481,23 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 **॥ संहितापाठः ॥**
 
-> वि [?] तं शर्धं धाम यस्य सूरेरित्यवोचन् दशतयस्य नंशे ।
+> एतं शर्धं धाम यस्य सूरेरित्यवोचन् दशतयस्य नंशे ।
 > द्युम्नानि येषु वसुताती रारन्विश्वे सन्वन्तु प्रभृथेषु वाजम् ॥ १२ ॥
 
-> *vi [?] taṃ śardhaṃ dhāma yasya sūrerityavocan daśatayasya naṃśe |*
+> *etaṃ śardhaṃ dhāma yasya sūrerityavocan daśatayasya naṃśe |*
 > *dyumnāni yeṣu vasutātī rāranviśve sanvantu prabhṛtheṣu vājam ‖ 12 ‖*
 
 **॥ पदपाठः ॥**
 
-> वि [?]तम् । शर्धम् । धाम । यस्य । सूरेः । इति । अवोचन् । दशतयस्य । नंशे ।
+> एतम् । शर्धम् । धाम । यस्य । सूरेः । इति । अवोचन् । दशतयस्य । नंशे ।
 > द्युम्नानि । येषु । वसुऽताती । रारन् । विश्वे । सन्वन्तु । प्रऽभृथेषु । वाजम् ॥ १२ ॥
 
-> *vi [?]tam | śardham | dhāma | yasya | sūreḥ | iti | avocan | daśatayasya | naṃśe |*
+> *etam | śardham | dhāma | yasya | sūreḥ | iti | avocan | daśatayasya | naṃśe |*
 > *dyumnāni | yeṣu | vasu 'tātī | rāran | viśve | sanvantu | pra 'bhṛtheṣu | vājam ‖ 12 ‖*
 
-*(The first word of the Ṛk is not settled letter by letter; the Saṃhitā and Pada print the same syllables.)*
+*(The first word of the Ṛk, earlier left doubtful, was re-read from the page image: printed ಏತಂ, *etaṃ*, in both Saṃhitā and Pada; the Saṃhitā glyph for *dhāma* is hooked, like *ma* elsewhere in this typeface.)*
 
-*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-116; 3-3-94; 6-2-50
+*(The reference numbers on this page — 6-2-116, 3-3-94, 6-2-50 — were checked against the user's numeral sheet, which has 6-2-116 and 3-3-94; the third is as read from the page.)*
 
 ### Printed p. 53  (PDF 74)
 
