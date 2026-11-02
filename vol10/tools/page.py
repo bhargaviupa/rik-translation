@@ -47,7 +47,7 @@ if __name__=='__main__':
     want=opt('--dpi',300)   # old scan Rig_Vol10.pdf is 300 ppi: rendering higher only upsamples; for a better scan use --dpi 400
     if '--strip' in a:
         k=int(a[a.index('--strip')+1]); b=[float(x) for x in a[a.index('--box')+1:a.index('--box')+5]]; zd=want if '--dpi' in a else 600
-        dpi=best_dpi(g,400); full=render(g,dpi); im=trim(full); off=trim_box(full)
+        dpi=best_dpi(g,opt('--vdpi',300)); full=render(g,dpi); im=trim(full); off=trim_box(full)   # same dpi as the viewing call, else the strips differ
         n=max(1,-(-im.height//LIM)); ys=strip_bounds(im,n)
         X0,Y0,X1,Y1=b; sy=ys[k]; q=zd/dpi
         bx=(X0+off[0],Y0+sy+off[1],X1+off[0],Y1+sy+off[1])            # box in page pixels at dpi
