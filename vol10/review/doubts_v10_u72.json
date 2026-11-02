@@ -1,0 +1,26 @@
+[
+ {
+  "pdf": 718,
+  "printed": 697,
+  "crop": [
+   0.438,
+   0.455,
+   0.361,
+   0.623
+  ],
+  "note": "ZOOMED, read: part number glyph ಅ-like = 8 (as in p.127 sheet row); 138ರಿಂದ 150 clear",
+  "answer": ""
+ },
+ {
+  "pdf": 720,
+  "printed": 699,
+  "crop": [
+   0.219,
+   0.236,
+   0.674,
+   0.814
+  ],
+  "note": "ZOOMED, read: Kaṭha ref 2-11 (curled 2), matches sheet",
+  "answer": ""
+ }
+]
