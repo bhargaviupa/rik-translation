@@ -15754,5 +15754,29 @@
   ],
   "note": "ZOOMED (local 2x crop of the 372-dpi strip), read: Pada Ṛk numeral 3",
   "answer": ""
+ },
+ {
+  "pdf": 334,
+  "printed": 315,
+  "crop": [
+   0.482,
+   0.513,
+   0.583,
+   0.808
+  ],
+  "note": "ZOOMED, read: Ṛ. Saṃ. 4-16-14; middle digit (hook) read 6 [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 336,
+  "printed": 316,
+  "crop": [
+   0.6,
+   0.9,
+   0.05,
+   0.95
+  ],
+  "note": "UNDECIDED: bhāṣya Ṛk 4 'garjitanā[?]gvā' and 'nātanaśīla' unclear",
+  "answer": ""
  }
 ]
