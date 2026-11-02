@@ -272,7 +272,7 @@ The abbreviations page (PDF 21, "ಸಂಕೇತಾಕ್ಷರಗಳ ವಿವ�
 > यस्य निःश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
 > निर्ममे तमहं वन्दे विद्यातीर्थमहेश्वरम् ॥
 > प्रक्रिया प्रथमे काण्डे साकल्येनोपवर्णिता ।
-> अत ऊर्ध्वं तु [?] ज्ञेया स्मर्यते च क्वचित्क्वचित् ॥
+> अत ऊर्ध्वं त[?]नी ज्ञेया स्मर्यते च क्वचित्क्वचित् ॥
 > वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
 > तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
 
@@ -281,11 +281,11 @@ The abbreviations page (PDF 21, "ಸಂಕೇತಾಕ್ಷರಗಳ ವಿವ�
 > *yasya niḥśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*
 > *nirmame tamahaṃ vande vidyātīrthamaheśvaram ‖*
 > *prakriyā prathame kāṇḍe sākalyenopavarṇitā |*
-> *ata ūrdhvaṃ tu [?] jñeyā smaryate ca kvacitkvacit ‖*
+> *ata ūrdhvaṃ ta[?]nī jñeyā smaryate ca kvacitkvacit ‖*
 > *vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*
 > *tasmātsarvaprayatnena vedameva sadā japet ‖*
 
-"I bow to Gajānana, bowing to whom, at the beginning of all undertakings, the gods headed by Vāgīśa (Brahmā) are fulfilled." / "I praise Vidyātīrtha-Maheśvara, whose breath is the Vedas and who made the whole world out of the Vedas." / "The grammatical process (*prakriyā*) was described completely in the first Kāṇḍa (the First Aṣṭaka); henceforth it is to be known [from the later passages? — the third pāda `[?]`] and is recalled here and there." / "The Veda is Śiva, Śiva is the Veda, one who studies the Veda is Sadāśiva; therefore with all effort one should always recite the Veda alone." *(Sense mine and tentative; the third verse is the author's own note that the grammar notes of the First Aṣṭaka, which came at the end of each Ṛk, will now be given where they arise — compare the Kannada on p. 4 below.)*
+"I bow to Gajānana, bowing to whom, at the beginning of all undertakings, the gods headed by Vāgīśa (Brahmā) are fulfilled." / "I praise Vidyātīrtha-Maheśvara, whose breath is the Vedas and who made the whole world out of the Vedas." / "The grammatical process (*prakriyā*) was described completely in the first Kāṇḍa (the First Aṣṭaka); henceforth it is to be known [the printed word after *ūrdhvaṃ* reads *ta?nī*, not *tu*; the sense of this pāda is therefore uncertain, `[?]`] and is recalled here and there." / "The Veda is Śiva, Śiva is the Veda, one who studies the Veda is Sadāśiva; therefore with all effort one should always recite the Veda alone." *(Sense mine and tentative; the third verse is the author's own note that the grammar notes of the First Aṣṭaka, which came at the end of each Ṛk, will now be given where they arise — compare the Kannada on p. 4 below.)*
 
 **सायणभाष्यसहिता ऋग्वेदसंहिता** — *Sāyaṇabhāṣyasahitā Ṛgvedasaṃhitā*. **भाग—१०** (Part 10).
 **॥ द्वितीयाष्टके प्रथमोऽध्यायः ॥** — *Dvitīyāṣṭake prathamo 'dhyāyaḥ*. Kannada: "The first Adhyāya in the Second Aṣṭaka. In the first Maṇḍala, the hundred-and-twenty-second Sūkta."
