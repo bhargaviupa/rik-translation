@@ -2460,7 +2460,7 @@ The word *bhaga* is recorded (Ni. 1-7, as read by the reader's OCR) and, in the 
 > *vāmaṃvāmaṃ ta ādure devo dadātvaryamā |*
 > *vāmaṃ pūṣā vāmaṃ bhago vāmaṃ devaḥ karūḷatī ‖*
 
-(Ṛ. Saṃ. 5-4[?]-[?], as read; the OCR is garbled.) In this ṛk the word *bhaga* refers to a god, one among the Ādityas;
+(Ṛ. Saṃ. 4-30-24, as printed; the sheet gives the same.) In this ṛk the word *bhaga* refers to a god, one among the Ādityas;
 
 > श्रद्धयाग्निः समिध्यते श्रद्धया हूयते हविः ।
 > श्रद्धां भगस्य मूर्धनि वचसा वेदयामसि ॥
@@ -2478,7 +2478,7 @@ The word *bhaga* is recorded (Ni. 1-7, as read by the reader's OCR) and, in the 
 
 (Ṛ. Saṃ. 7-41-2, as read.) — in ṛks such as this *bhaga* is used also as a name of the Sun.
 
-***varuṇasya jāmiḥ*** — *tamo vārakasya savitur devasya bhaginīsthānīyā asi* — "you stand in the place of a sister to the god Savitṛ, who restrains darkness": *janayanty apatyāny asyām apatkam anye iti jāmiḥ* … (the Kannada explains that Uṣas and Savitṛ, the Sun, have one origin; that is why Sāyaṇa says "they are born in one place"; since the root *jam* means 'to go', the word *jāmi* is formed from the root *jan*: in a woman, offspring are born; this woman is called *jāmi* because, since she is born here, the family goes to another house — the second sense.) Both these meanings are stated by Yāska.
+***varuṇasya jāmiḥ*** — *tamo vārakasya savitur devasya bhaginīsthānīyā asi* — "you stand in the place of a sister to the god Savitṛ, who restrains darkness": *janayanty utpādayanti asyām apatyaṃ anye iti jāmiḥ* … (the Kannada explains that Uṣas and Savitṛ, the Sun, have one origin; that is why Sāyaṇa says "they are born in one place"; since the root *jam* means 'to go', the word *jāmi* is formed from the root *jan*: in a woman, offspring are born; this woman is called *jāmi* because, since she is born here, the family goes to another house — the second sense.) Both these meanings are stated by Yāska.
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-7; 2-11-21
 
