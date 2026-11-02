@@ -118,5 +118,17 @@
   ],
   "note": "STRIP read (no zoom): first Kannada gloss sentence = hennumakkaḷu dāyabhāgakke arharāgiruvudilla; tandeya āstiyalli (father's)",
   "answer": ""
+ },
+ {
+  "pdf": 116,
+  "printed": 95,
+  "crop": [
+   0.541,
+   0.564,
+   0.527,
+   0.789
+  ],
+  "note": "ZOOMED, read: tā apyunmiṣantu (clear; earlier text had uttiṣṭhantu)",
+  "answer": ""
  }
 ]
