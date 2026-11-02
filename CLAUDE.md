@@ -44,6 +44,7 @@ Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~28
 - **Grammar pages:** English note only (2–4 lines naming words); the Kannada file carries the headwords and legible sūtra names, not every numeral. Small-type numerals: `[?]`, no zooming.
 - **Printed English of each Ṛk:** start from `english_block.py` output and compare, not retype.
 - **Images:** view at ~120 dpi; zoom only a crop that cannot be read.
+- **Turn economy (Nov 2026):** every tool call re-reads the whole context, including all images viewed so far. Issue independent calls in parallel (view all strips of a page or batch in one message, zoom in one message), write a page with one call, work in batches of ~3 pages. See `vol14/vol14_runbook.md` "Turn economy".
 - **Kannada prose drafts** (Pratipadārtha, Bhāvārtha, Special Topics): may be drafted by a smaller model if the user asks; I review `[?]` lines and the Sanskrit.
 - Put italic notes **before** a Devanagari block or after its IAST line (a note right after the block stops `add_iast.py` adding the IAST).
 
