@@ -1133,17 +1133,17 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 **॥ सायणभाष्यम् ॥**
 
-> हे मित्र हे वरुण देव वां युवामहं स्तुषे । स्तौमि [?] । व्यत्ययेन मध्यमः [?] ॥ युवयोः सम्बन्धिनी सा प्रसिद्धा रातिर्दानं शता शतानां शतसङ्ख्यानामपरिमितानां गवां सम्बन्ध्यसङ्ख्यातगोविषया रातिः पज्रे कक्षीवति मयि पृक्षयामेषु । पृक्ष इत्यन्ननामास्ति । पृक्षाणामन्नानां नियमनं येषु स्तोत्रेषु यज्ञेषु वा तेषु निमित्तभूतेषु भवत्विति शेषः । किञ्च मित्रादयो
+> हे मित्र हे वरुण देव वां युवामहं स्तुषे । स्तुवे ॥ व्यत्ययेन मध्यमः ॥ युवयोः सम्बन्धिनी सा प्रसिद्धा रातिर्दानं शता शतानां शतसङ्ख्यानामपरिमितानां गवां सम्बन्ध्यसङ्ख्यातगोविषया रातिः पज्रे कक्षीवति मयि पृक्षयामेषु । पृक्ष इत्यन्ननामास्ति । पृक्षाणामन्नानां नियमनं येषु स्तोत्रेषु यज्ञेषु वा तेषु निमित्तभूतेषु भवत्विति शेषः । किञ्च मित्रादयो
 
-> *he mitra he varuṇa deva vāṃ yuvāmahaṃ stuṣe | staumi [?] | vyatyayena madhyamaḥ [?] ‖ yuvayoḥ sambandhinī sā prasiddhā rātirdānaṃ śatā śatānāṃ śatasaṅkhyānāmaparimitānāṃ gavāṃ sambandhyasaṅkhyātagoviṣayā rātiḥ pajre kakṣīvati mayi pṛkṣayāmeṣu | pṛkṣa ityannanāmāsti | pṛkṣāṇāmannānāṃ niyamanaṃ yeṣu stotreṣu yajñeṣu vā teṣu nimittabhūteṣu bhavatviti śeṣaḥ | kiñca mitrādayo*
+> *he mitra he varuṇa deva vāṃ yuvāmahaṃ stuṣe | stuve ‖ vyatyayena madhyamaḥ ‖ yuvayoḥ sambandhinī sā prasiddhā rātirdānaṃ śatā śatānāṃ śatasaṅkhyānāmaparimitānāṃ gavāṃ sambandhyasaṅkhyātagoviṣayā rātiḥ pajre kakṣīvati mayi pṛkṣayāmeṣu | pṛkṣa ityannanāmāsti | pṛkṣāṇāmannānāṃ niyamanaṃ yeṣu stotreṣu yajñeṣu vā teṣu nimittabhūteṣu bhavatviti śeṣaḥ | kiñca mitrādayo*
 
 ### Printed p. 36  (PDF 57)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 122".)*
 
-> देवाः श्रुतरथे सर्वत्र प्रसिद्धरथोपेते प्रियरथे प्रीयमाणरथयुक्ते सर्वदा रथप्रिये पज्रे च मय्येव दधानाः प्रीतिं धारयन्तः सद्य आगमनानन्तरमेव पुष्टिं गवादिपोषं निरुन्धानासोऽरुन्धाना [?] अस्मास्वेव स्थापयन्तः । यद्वा । मयि पुष्टिं दधानाः कुर्वाणा निरुन्धानासः कृत्स्नामेव पुष्टिं मयि स्थिरां कुर्वन्तोऽग्मन्नागच्छन्तु ॥
+> देवाः श्रुतरथे सर्वत्र प्रसिद्धरथोपेते प्रियरथे प्रीयमाणरथयुक्ते सर्वदा रथप्रिये पज्रे च मय्येव दधानाः प्रीतिं धारयन्तः सद्य आगमनानन्तरमेव पुष्टिं गवादिपोषं निरुन्धानासोऽवरुन्धाना अस्मास्वेव स्थापयन्तः । यद्वा । मयि पुष्टिं दधानाः कुर्वाणा निरुन्धानासः कृत्स्नामेव पुष्टिं मयि स्थिरां कुर्वन्तोऽग्मन्नागच्छन्तु ॥
 
-> *devāḥ śrutarathe sarvatra prasiddharathopete priyarathe prīyamāṇarathayukte sarvadā rathapriye pajre ca mayyeva dadhānāḥ prītiṃ dhārayantaḥ sadya āgamanānantarameva puṣṭiṃ gavādipoṣaṃ nirundhānāso 'rundhānā [?] asmāsveva sthāpayantaḥ | yadvā | mayi puṣṭiṃ dadhānāḥ kurvāṇā nirundhānāsaḥ kṛtsnāmeva puṣṭiṃ mayi sthirāṃ kurvanto 'gmannāgacchantu ‖*
+> *devāḥ śrutarathe sarvatra prasiddharathopete priyarathe prīyamāṇarathayukte sarvadā rathapriye pajre ca mayyeva dadhānāḥ prītiṃ dhārayantaḥ sadya āgamanānantarameva puṣṭiṃ gavādipoṣaṃ nirundhānāso 'varundhānā asmāsveva sthāpayantaḥ | yadvā | mayi puṣṭiṃ dadhānāḥ kurvāṇā nirundhānāsaḥ kṛtsnāmeva puṣṭiṃ mayi sthirāṃ kurvanto 'gmannāgacchantu ‖*
 
 *(The rest of the bhāṣya is the grammatical tail — *rātiḥ*: the root *rā dāne*, the suffix *ktin* in the sense of action, the initial acute by *mantre vṛṣeṣa…*; *śatā*: the lengthening of the preceding vowel before the ending by *supāṃ sulug…*; *dadhānāḥ*: *juhotyādi*, the *śap* → *śluḥ*, *abhyastānām ādiḥ*; *agman*: the root *gam*, Vedic *luṅ*, the elision of *cli* by *mantre ghasa…*, the loss of the penultimate by *gamahana…* — only characterised, not transcribed.)*
 
