@@ -2562,7 +2562,7 @@ In the Kauṣītaki Upaniṣad it is said: *yo vai prāṇaḥ sā prajñā, yā
 
 *(Header: "Aṣṭaka 2, Adhyāya 1, Varga 5".)* In the bhāṣya, by saying *yadyapi prāṇavāyunā śarīraṃ dhāryate tathāpi prāṇaprajñayor ekatvāt prajñāyāḥ śarīradhāraṇam aviruddham*, Sāyaṇa has described the manner of removing the contradiction, and given for the word *purandhi* the meaning *prajñā* ("[the powers of] knowledge, the acts joined with knowledge").
 
-Yāska reads the two words *purandhi* and *purandhī*, and has shown the difference of their meanings. The word *purandhī* means "Earth and Heaven" [as read: *vyāvāpṛthivīvācaka*] (Ni. 3-22, as read by the OCR).
+Yāska reads the two words *purandhi* and *purandhī*, and has shown the difference of their meanings. The word *purandhī* means "Earth and Heaven" [as read: *vyāvāpṛthivīvācaka*] (Ni. 3-22, as printed).
 
 > ते हि यज्ञेषु यज्ञियास ऊमाः सधस्थं विश्वे अभि सन्ति देवाः ।
 > ताँ अध्वर उशतो यक्ष्यग्ने श्रुष्टी भगं नासत्या पुरन्धिम् ॥
@@ -2570,13 +2570,13 @@ Yāska reads the two words *purandhi* and *purandhī*, and has shown the differe
 > *te hi yajñeṣu yajñiyāsa ūmāḥ sadhasthaṃ viśve abhi santi devāḥ |*
 > *tā~ adhvara uśato yakṣyagne śruṣṭī bhagaṃ nāsatyā purandhim ‖*
 
-(Ṛ. Saṃ. 7-3[?]-[?], as read.)
+(Ṛ. Saṃ. 7-39-4, per the numeral sheet; the printed digits agree.)
 
-> पुरन्धिर्बहुधीस्तत्र कर्मा [?] । पुरन्धिर्भगः पुरस्तात्स्यान्यादेश इत्येकम् । इन्द्र इत्यपरं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरम् ॥
+> पुरन्धिर्बहुधीस्तत्[?]ः । पुरन्धिर्भगः पुरस्तात्स्या[?]देश इत्येकम् । इन्द्र इत्यपरं स बहुकर्मतमः पुरां च दारयितृतमः । वरुण इत्यपरम् ॥
 
-> *purandhirbahudhīstatra karmā [?] | purandhirbhagaḥ purastātsyānyādeśa ityekam | indra ityaparaṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparam ‖*
+> *purandhirbahudhīstat[?]ḥ | purandhirbhagaḥ purastātsyā[?]deśa ityekam | indra ityaparaṃ sa bahukarmatamaḥ purāṃ ca dārayitṛtamaḥ | varuṇa ityaparam ‖*
 
-(Ni. 6-13[?]-[?], as read.) Thus Yāska has said. According to one opinion [of the vṛttikāra Durgācārya], the word *purandhi* means the deity named Bhaga; according to another opinion, since *dhī* means "action", he who does many bold deeds is Indra — [this is] the meaning; and still others say that, since *purandhi* is he who destroys clouds and enemy cities, the word expresses the sense "Indra". Others [say] "Varuṇa":
+(Ni. 6-13, as printed. In the first sentence the cluster after *bahudhīs-* and the syllable after *purastātsyā-* are not settled at the zoom; the rest is clear.) Thus Yāska has said. According to one opinion [of the vṛttikāra Durgācārya], the word *purandhi* means the deity named Bhaga; according to another opinion, since *dhī* means "action", he who does many bold deeds is Indra — [this is] the meaning; and still others say that, since *purandhi* is he who destroys clouds and enemy cities, the word expresses the sense "Indra". Others [say] "Varuṇa":
 
 > इमामू नु कवितमस्य मायां महीं देवस्य नकिरा दधर्ष ।
 > एकं यदुद्ना न पृणन्त्येनीरासिञ्चन्तीरवनयः समुद्रम् ॥
@@ -2584,14 +2584,15 @@ Yāska reads the two words *purandhi* and *purandhī*, and has shown the differe
 > *imāmū nu kavitamasya māyāṃ mahīṃ devasya nakirā dadharṣa |*
 > *ekaṃ yadudnā na pṛṇantyenīrāsiñcantīravanayaḥ samudram ‖*
 
-(Ṛ. Saṃ. 8-4[?]-[?], as read.) In this ṛk the seer of the mantra praises Varuṇa. *Dhīr iti prajñānāma sā yasya pūrvī bahvī sa purandhiḥ | varuṇaś ca prajñayā stūyate kasmāt varuṇaḥ purandhiḥ* — the vṛttikāra explains thus: *dhī* is a word for *prajñā*; since Varuṇa is praised with much *prajñā*, the doer of many things, he says the word *purandhi* has the sense "Varuṇa". That is one opinion.
+(Ṛ. Saṃ. 5-85-6, per the numeral sheet; the printed digits agree.) In this ṛk the seer of the mantra praises Varuṇa. *Dhīr iti prajñānāma sā yasya pūrvī bahvī sa purandhiḥ | varuṇaś ca prajñayā stūyate kasmāt varuṇaḥ purandhiḥ* — the vṛttikāra explains thus: *dhī* is a word for *prajñā*; since Varuṇa is praised with much *prajñā*, the doer of many things, he says the word *purandhi* has the sense "Varuṇa". That is one opinion.
 
-> *[the first line of this ṛk is in small type and I could not settle it letter by letter; not transcribed]*
+> आदाय श्येनो अभरत्सोमं सहस्रं सवा अयुतं च साकम् ।
 > अत्रा पुरन्धिरजहादरातीर्मदे सोमस्य मूरा अमूरः ॥
 
+> *ādāya śyeno abharatsomaṃ sahasraṃ savā ayutaṃ ca sākam |*
 > *atrā purandhirajahādarātīrmade somasya mūrā amūraḥ ‖*
 
-(Ṛ. Saṃ. 4-2[?]-[?], as read; the first line has been read doubtfully and is not transcribed as Sanskrit.) In this ṛk they explain the word *purandhi* as *bahuno dhanasya dātā*, "the giver of much wealth".
+(Ṛ. Saṃ. 4-26-7, per the numeral sheet; the first line was read from a 450-dpi zoom, *abharatsomaṃ* medium.) In this ṛk they explain the word *purandhi* as *bahuno dhanasya dātā*, "the giver of much wealth".
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-22
 
