@@ -46,5 +46,17 @@
   ],
   "note": "ZOOMED: the [?] was the end mark of line 1; removed",
   "answer": ""
+ },
+ {
+  "pdf": 233,
+  "printed": 212,
+  "crop": [
+   0.542,
+   0.585,
+   0.202,
+   0.825
+  ],
+  "note": "ZOOMED: nothing printed between rūpāṇi and samṛddhāni (the [?] was the line break); removed",
+  "answer": ""
  }
 ]
