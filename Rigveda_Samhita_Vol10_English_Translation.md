@@ -3264,21 +3264,19 @@ Yāska records the word *kratu* among the names of *karma* (Ni. 3-2) and among t
 
 The word *rāyaḥ* and the word *magha* in *maghavatsu* also convey the meaning "wealth", being recorded among the twenty-eight names of wealth (Ni. 3-9, as read by the OCR): "*magham*, *reknaḥ*" and so on.
 
-> परिषद्यं हिरण्यस्य रेक्णो नित्यस्य रायः पतयः स्याम ।
-> न शेषो अग्ने अन्यजातमस्त्यचेतानस्य मा पथो वि दुक्षः ॥
-
-> *pariṣadyaṃ hiraṇyasya rekṇo nityasya rāyaḥ patayaḥ syāma |*
-> *na śeṣo agne anyajātamastyacetānasya mā patho vi dukṣaḥ ‖*
-
-(Ṛ. Saṃ. 7-4-2 [?], as I read the print "೭-೪-೨"; the OCR "2-4-2" is letter-shaped; *hiraṇyasya* as read — the print may be *hairaṇyasya* [?].) In this ṛk, having explained for the word *rāyaḥ* the sense "of wealth, [rāyaḥ = *dhanasya*]",
-
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 3-2; 3-13; 3-9
 
 ### Printed p. 127  (PDF 148)
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 6.)*
 
-…and in the ṛk
+> परिषद्यं ह्यरण्यस्य रेक्णो नित्यस्य रायः पतयः स्याम ।
+> न शेषो अग्ने अन्यजातमस्त्यचेतानस्य मा पथो वि दुक्षः ॥
+
+> *pariṣadyaṃ hyaraṇyasya rekṇo nityasya rāyaḥ patayaḥ syāma |*
+> *na śeṣo agne anyajātamastyacetānasya mā patho vi dukṣaḥ ‖*
+
+(Ṛ. Saṃ. 7-4-7, numerals from the user's sheet; the print shows the same flat-footed glyph "೭" at both ends. The third word is printed ಹ್ಯರಣ್ಯಸ್ಯ, *hyaraṇyasya* [sic] — read from the zoomed page; not corrected.) In this ṛk, having explained for the word *rāyaḥ* the sense "of wealth, [rāyaḥ = *dhanasya*]", and in the ṛk
 
 > इषिरेण ते मनसा सुतस्य भक्षीमहि पित्र्यस्येव रायः ।
 > सोम राजन्प्र ण आयूंषि तारीरहानीव सूर्यो वासराणि ॥
@@ -3368,9 +3366,9 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 
 **॥ सायणभाष्यम् ॥**
 
-> एषोषाः समिधानेऽग्नौ । अग्निषु सामान्यैकवचनम् । अग्निषु समिध्यमानेषु सत्सु । कर्मार्थे कर्तृप्रयोगः [?] । उषःकाले ह्याहवनीयादयः प्रज्वाल्यन्ते । उच्छन्ती तमो विवासयन्ती उर्विया उरु बहुलं ज्योतिः प्रकाशमश्रेत् । सेवते । प्रकाशते प्रकाशयति वा सर्वम् । किमिव उद्यन्सूर्यः । उपमाप्रधाननिर्देशः ॥
+> एषोषाः समिधानेऽग्नौ । अग्निषु सामान्यैकवचनम् । अग्निषु समिध्यमानेषु सत्सु । कर्मार्थे कर्तृप्रयोगः । उषःकाले ह्याहवनीयादयः प्रज्वाल्यन्ते । उच्छन्ती तमो विवासयन्ती उर्विया उरु बहुलं ज्योतिः प्रकाशमश्रेत् । सेवते । प्रकाशते प्रकाशयति वा सर्वम् । किमिव उद्यन्सूर्यः । उपमाप्रधाननिर्देशः ॥
 
-> *eṣoṣāḥ samidhāne 'gnau | agniṣu sāmānyaikavacanam | agniṣu samidhyamāneṣu satsu | karmārthe kartṛprayogaḥ [?] | uṣaḥkāle hyāhavanīyādayaḥ prajvālyante | ucchantī tamo vivāsayantī urviyā uru bahulaṃ jyotiḥ prakāśamaśret | sevate | prakāśate prakāśayati vā sarvam | kimiva udyansūryaḥ | upamāpradhānanirdeśaḥ ‖*
+> *eṣoṣāḥ samidhāne 'gnau | agniṣu sāmānyaikavacanam | agniṣu samidhyamāneṣu satsu | karmārthe kartṛprayogaḥ | uṣaḥkāle hyāhavanīyādayaḥ prajvālyante | ucchantī tamo vivāsayantī urviyā uru bahulaṃ jyotiḥ prakāśamaśret | sevate | prakāśate prakāśayati vā sarvam | kimiva udyansūryaḥ | upamāpradhānanirdeśaḥ ‖*
 
 *(The bhāṣya begins on this page and continues at the top of p. 130. Read from the image; the first sentence — "eṣoṣāḥ …" and the phrase "karmārthe kartṛprayogaḥ" — is doubtful in the print and given as read.)*
 
@@ -3378,11 +3376,11 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
 
-> उदितः सूर्य इव सूर्यो यथा प्रकाशयति तथेत्यर्थः । अत्र त्वदुदयानन्तरमस्मिन्कर्मणि वा सविता देवः सर्वस्य प्रेरकः सूर्यो नोऽस्मदर्थं नु क्षिप्रमर्थमपेक्षितम् । अर्थशब्दोऽत्र विशेषणवाची नपुंसकलिङ्गः । अयन्नर्थानि कृण्वन्नांसीत्यादौ (ऋ. ७-६३-४ [?]) तथादृष्टत्वात् ॥ अरणीयं [?] द्विपत् पादद्वयोपेतं मनुष्यादिरूपं धनं प्रासावीत् । अनुजानातु ददात्वित्यर्थः । तथा चतुष्पत् पादचतुष्टयोपेतं गवादिरूपं धनं प्रासावीत् । किमर्थम् । इत्यै । द्विपदां चतुष्पदां च गमनाय । यद्वा । न इत्यै इति संबन्धः । अस्मद्गमनागमनादिव्यापाराये[त्यर्थः] ॥
+> उदितः सूर्य इव सूर्यो यथा प्रकाशयति तथेत्यर्थः । अत्र त्वदुदयानन्तरमस्मिन्कर्मणि वा सविता देवः सर्वस्य प्रेरकः सूर्यो नोऽस्मदर्थं नु क्षिप्रमर्थम् । अर्थशब्दोऽत्र विशेषणवाची नपुंसकलिङ्गः । अयन्नर्थानि कृण्वन्नांसीत्यादौ (ऋ. ७-६३-४ [?]) तथादृष्टत्वात् ॥ अरणीयं द्विपत् पादद्वयोपेतं मनुष्यादिरूपं धनं प्रासावीत् । अनुजानातु ददात्वित्यर्थः । तथा चतुष्पत् पादचतुष्टयोपेतं गवादिरूपं धनं प्रासावीत् । किमर्थम् । इत्यै । द्विपदां चतुष्पदां च गमनाय । यद्वा । न इत्यै इति संबन्धः । अस्मद्गमनागमनादिव्यापारायेत्यर्थः ॥
 
-> *uditaḥ sūrya iva sūryo yathā prakāśayati tathetyarthaḥ | atra tvadudayānantaramasminkarmaṇi vā savitā devaḥ sarvasya prerakaḥ sūryo no 'smadarthaṃ nu kṣipramarthamapekṣitam | arthaśabdo 'tra viśeṣaṇavācī napuṃsakaliṅgaḥ | ayannarthāni kṛṇvannāṃsītyādau (ṛ. 7-63-4 [?]) tathādṛṣṭatvāt ‖ araṇīyaṃ [?] dvipat pādadvayopetaṃ manuṣyādirūpaṃ dhanaṃ prāsāvīt | anujānātu dadātvityarthaḥ | tathā catuṣpat pādacatuṣṭayopetaṃ gavādirūpaṃ dhanaṃ prāsāvīt | kimartham | ityai | dvipadāṃ catuṣpadāṃ ca gamanāya | yadvā | na ityai iti saṃbandhaḥ | asmadgamanāgamanādivyāpārāye[tyarthaḥ] ‖*
+> *uditaḥ sūrya iva sūryo yathā prakāśayati tathetyarthaḥ | atra tvadudayānantaramasminkarmaṇi vā savitā devaḥ sarvasya prerakaḥ sūryo no 'smadarthaṃ nu kṣipramartham | arthaśabdo 'tra viśeṣaṇavācī napuṃsakaliṅgaḥ | ayannarthāni kṛṇvannāṃsītyādau (ṛ. 7-63-4 [?]) tathādṛṣṭatvāt ‖ araṇīyaṃ dvipat pādadvayopetaṃ manuṣyādirūpaṃ dhanaṃ prāsāvīt | anujānātu dadātvityarthaḥ | tathā catuṣpat pādacatuṣṭayopetaṃ gavādirūpaṃ dhanaṃ prāsāvīt | kimartham | ityai | dvipadāṃ catuṣpadāṃ ca gamanāya | yadvā | na ityai iti saṃbandhaḥ | asmadgamanāgamanādivyāpārāyetyarthaḥ ‖*
 
-*(Read from the image; the first half of the passage is doubtful in the print — "atra tvad-udayānantaram asminkarmaṇi vā" and "araṇīyam [?]" are my readings; the OCR garbles them. The Ṛg reference "7-63-4" is read from the image "೭-೬೩-೪" (the OCR agrees on the shape).)* Sense: "This Uṣas, when the fires (the Āhavanīya and the others) are being kindled — for the Āhavanīya and the other fires are kindled at the time of Uṣas — *ucchantī*, driving away the darkness, *urviyā* — abundantly — has resorted to (*aśret*, 'serves', 'shines' or 'illumines') the light (*jyotiḥ*, brightness), like the rising Sun (*udyan sūryaḥ*), that is, as the Sun illuminates when risen. Here, after your rising, the god Savitṛ, the impeller of all, the Sun, for us — *nu*, quickly — *artham* (the desired): the word *artha* here, as an epithet, is a neuter noun, as seen in such places as *ayann arthāni kṛṇvann ajāsīt* … Let him bestow (*prāsāvīt*, let him permit, let him give) wealth in the form of men and the like, 'two-footed' (*dvipat*, possessed of two feet); and likewise wealth in the form of cattle and the like, 'four-footed' (*catuṣpat*). For what? *Ityai* — for the going of the two-footed and the four-footed. Or else, the connection is: *na ityai* — for our activity of going and coming and the like."
+*(Read from the image and zooms; "araṇīyaṃ" is clear in the print (ಅರಣೀಯಂ). The reference is printed "೭-೬೩-೪" as I read the glyphs (flat-footed 7), but the user's numeral sheet gives "3.634" for this place, so the first digit stays [?]. The sentence-end in the print is "…vyāpārāyetyarthaḥ", and no word *apekṣitam* follows *kṣipram artham* — the earlier text had added it.)* Sense: "This Uṣas, when the fires (the Āhavanīya and the others) are being kindled — for the Āhavanīya and the other fires are kindled at the time of Uṣas — *ucchantī*, driving away the darkness, *urviyā* — abundantly — has resorted to (*aśret*, 'serves', 'shines' or 'illumines') the light (*jyotiḥ*, brightness), like the rising Sun (*udyan sūryaḥ*), that is, as the Sun illuminates when risen. Here, after your rising, the god Savitṛ, the impeller of all, the Sun, for us — *nu*, quickly — *artham* (the desired): the word *artha* here, as an epithet, is a neuter noun, as seen in such places as *ayann arthāni kṛṇvannāṃsi* … Let him bestow (*prāsāvīt*, let him permit, let him give) wealth in the form of men and the like, 'two-footed' (*dvipat*, possessed of two feet); and likewise wealth in the form of cattle and the like, 'four-footed' (*catuṣpat*). For what? *Ityai* — for the going of the two-footed and the four-footed. Or else, the connection is: *na ityai* — for our activity of going and coming and the like."
 
 **॥ प्रतिपदार्थः ॥ — Pratipadārtha.** *Agnau* — when the fire (the fires); *samidhāne* — are kindled; *uṣāḥ* — the goddess Uṣas; *udyan sūryaḥ* — like the rising Sun; *ucchantī* — driving away (the darkness); *urviyā* — abundantly; *jyotiḥ* — light; *aśret* — attains (she illumines everything); *atra* — after this (in this rite); *savitā devaḥ* — the god Savitṛ (the impeller of all); *naḥ* — for us; *nu* — quickly; *artham* — the desired; *dvipat* — beings with two feet (wealth in the form of men and the like); *ityai* — for (our) going and coming; *(pra asāvīt)* — may he grant; *catuṣpat* — beings with four feet (wealth in the form of cattle and the like); *(pra asāvīt)* — may he grant.
 
