@@ -411,17 +411,17 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 > *imā rudrāya sthiradhanvane giraḥ kṣipreṣave devāya svadhāvne |*
 
-(Ṛ. Saṃ. 2-3[?]-[?], as printed; the numerals are small and I cannot read them reliably.)
+(Ṛ. Saṃ. 7-46-1, as read from a 450-dpi zoom; the first numeral (flat-footed 7) is read with moderate confidence.)
 
 ### Printed p. 8  (PDF 29)
 
 *(Header: "Maṃ. 1 A. 18 Sū. 122".)*
 
-> शतशीर्षा रुद्रः सहस्राक्षः शतेषुधिरधिज्यधन्वा [?] ।
+> शतशीर्षा रुद्रः सहस्राक्षः शतेषुधिरधिज्यधन्वा ।
 
-> *śataśīrṣā rudraḥ sahasrākṣaḥ śateṣudhiradhijyadhanvā [?] |*
+> *śataśīrṣā rudraḥ sahasrākṣaḥ śateṣudhiradhijyadhanvā |*
 
-(printed with a four-part reference in the small type, "Śa. Brā. 9-1-1-6 [?]" — the first word and the numbers are not reliably read.) In sentences such as this there is a description of Rudra holding quivers full of terrible arrows. Taking this into account Sāyaṇa has said much here, and the idea is made known that Rudra is a destroyer of enemies and terrible, and that this nature of his becomes still more powerful with the help of the Maruts.
+(printed with a four-part reference in the small type, "Śa. Brā. 9-1-1-6", as read from a 450-dpi zoom; the last numeral (hooked 6) is fairly sure.) In sentences such as this there is a description of Rudra holding quivers full of terrible arrows. Taking this into account Sāyaṇa has said much here, and the idea is made known that Rudra is a destroyer of enemies and terrible, and that this nature of his becomes still more powerful with the help of the Maruts.
 
 ***asurasya*** — Here the accusative is used [i.e. a usage in the sense of the object]. For the word *asura* the bhāṣyakāra here gives the meaning *nirasitāraṃ devam* — "the god who defeats (the enemies)". Ordinarily the meaning "Rākṣasas" is current for the word *asura*; but in many places the meaning of this word is in favour of the gods. In this Aṣṭaka this use of the word *asura* occurs in about ten ṛks; everywhere the meaning is in favour of the gods.
 
@@ -443,7 +443,7 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 > *indrāya hi dyaurasuro anamnatendrāya mahī pṛthivī varīmabhirdyumna-sātā varīmabhiḥ ‖*
 
-(Ṛ. Saṃ. 1-131-1.) [The first line's last words and the second line are in bold small type; "*dyumnasātā*" is read with doubt `[?]`.] Here the word *asura* is explained as *asuraḥ nirasanaśīlaḥ śatrūṇāṃ puṇyakṛtām eva tanniv āsāt (dyauḥ dyuloka)* [as printed, the reading being partly `[?]`]: "heaven is the dwelling-place of the meritorious who perform sacrifices and the like, and makes no room for their enemies" — thus the word *asura* is an epithet of the word *dyauḥ*, in the sense of heaven.
+(Ṛ. Saṃ. 1-131-1.) [The first line's last words and the second line are in bold small type; "*dyumnasātā*" is clearly legible.] Here the word *asura* is explained as *asuraḥ nirasanaśīlaḥ śatrūṇāṃ puṇyakṛtām eva tannivāsāt (dyauḥ dyulokaḥ)* [as printed, read clearly]: "heaven is the dwelling-place of the meritorious who perform sacrifices and the like, and makes no room for their enemies" — thus the word *asura* is an epithet of the word *dyauḥ*, in the sense of heaven.
 
 > प्र सा क्षितिरसुर या महि प्रिय ऋतावानावृतमा घोषतो बृहत् ।
 
@@ -489,7 +489,7 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 > *pitā yajñānāmasuro vipaścitāṃ vimānamagnirvayunaṃ ca vāghatām |*
 
-(Ṛ. Saṃ. 2-2-4 [?], as printed; the reader's OCR reads the same.) In this ṛk, *asuro balapradaḥ* — "Asura, giver of strength" — the word *asura* is used with reference to Agni.
+(Ṛ. Saṃ. 3-3-4, as printed; the first two numerals are the hooked 3-glyph, so the earlier "2-2-4" was a misreading.) In this ṛk, *asuro balapradaḥ* — "Asura, giver of strength" — the word *asura* is used with reference to Agni.
 
 ### Printed p. 10  (PDF 31)
 
