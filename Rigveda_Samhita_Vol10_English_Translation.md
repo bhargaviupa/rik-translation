@@ -3072,13 +3072,13 @@ Yāska explains the word *yoṣā*: it is derived from the root *yu miśraṇe*,
 
 (Ni. 1-9, as printed "೧-೯", the shape in the image; read letter by letter, the last words doubtful.) Particles (indeclinables) used in sentences serve to fill out words. Since verses are bound by metres of measured syllables, the indeclinables *kam, īm, it, u* in them convey no meaning — so they are without meaning (*anarthaka*).
 
-> निष्टक्राः [?] भूरितोका वृकादिव । बिभ्यस्यन्तो वनाशिरे । शिशिरं जीवनाय कम् ॥
+> निष्टक्रा सश्चिदिन्नरो [?] भूरितोका वृकादिव । बिभ्यस्यन्तो वनाशिरे । शिशिरं जीवनाय कम् ॥
 
-> *niṣṭakrāḥ [?] bhūritokā vṛkādiva | bibhyasyanto vanāśire | śiśiraṃ jīvanāya kam ‖*
+> *niṣṭakrā saścidinnaro [?] bhūritokā vṛkādiva | bibhyasyanto vanāśire | śiśiraṃ jīvanāya kam ‖*
 
-(Ni. 1-10; the numerals "೧-೧೮" or similar are not clear to me.) In this quotation the word *kam* is, though it is absent, used without any purpose as if for the completion of the sense — thus an example is given.
+(Ni. 1-10; the words "saścidinnaro" after *niṣṭakrā* are as read from 600-800 dpi zooms, doubtful.) In this quotation the word *kam* is, though it is absent, used without any purpose as if for the completion of the sense — thus an example is given.
 
-Moreover both words *kam* and *īm* are recorded among the names of water (Ni. 1-[?]4, numerals unclear), and *kam* is also recorded among the names of happiness (Ni. 3-[?]9, unclear). Following this explanation of Yāska, Sāyaṇa explains the word *kam* in the sense of happiness: Uṣas displays her own body to all in a manner that gives happiness — this is the second meaning.
+Moreover both words *kam* and *īm* are recorded among the names of water (Ni. 2-24), and *kam* is also recorded among the names of happiness (Ni. 3-13). Following this explanation of Yāska, Sāyaṇa explains the word *kam* in the sense of happiness: Uṣas displays her own body to all in a manner that gives happiness — this is the second meaning.
 
 ***bhadrā tvaṃ vyuccha*** — *kalyāṇaśīlā stutyā āvarakam andhakāraṃ viprakṛṣṭaṃ yathā bhavati tathā vivāsaya.* Since Uṣas is praised, she is prayed to destroy the dense darkness. Uṣas is described as the bringer of auspiciousness. Since Uṣas is always engaged in the act of bringing light, in the matter of the work of Uṣas there is no particular thing to be prayed for. Hence the addition (*upasaṃhāra*) is stated: of those past and future dawns pervading and destroying the covering darkness...
 
