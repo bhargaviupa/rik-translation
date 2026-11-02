@@ -1,0 +1,86 @@
+[
+ {
+  "pdf": 300,
+  "printed": 279,
+  "crop": [
+   0.666,
+   0.714,
+   0.189,
+   0.809
+  ],
+  "note": "ZOOMED, read: ...tejiṣṭhābhiraraṇibhiratyantatejoyuktairmārgairyajñādirūpairdāṣṭi",
+  "answer": ""
+ },
+ {
+  "pdf": 300,
+  "printed": 279,
+  "crop": [
+   0.647,
+   0.68,
+   0.189,
+   0.809
+  ],
+  "note": "ZOOMED, read: tathā duriti ‖ vindateśchāndasaḥ",
+  "answer": ""
+ },
+ {
+  "pdf": 301,
+  "printed": 280,
+  "crop": [
+   0.284,
+   0.312,
+   0.206,
+   0.83
+  ],
+  "note": "ZOOMED, read: kaṭhinānyannānnāni prīhyādīnyojasā (as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 304,
+  "printed": 283,
+  "crop": [
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "note": "numerals from sheet 4: Ni 2-24, Ni 3-9 (ojas), Ṛ 8-99.3",
+  "answer": ""
+ },
+ {
+  "pdf": 306,
+  "printed": 285,
+  "crop": [
+   0.9,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "note": "viewed strip: ends 'grahaṇayuktamabhūt |' with printed single danda",
+  "answer": ""
+ },
+ {
+  "pdf": 312,
+  "printed": 291,
+  "crop": [
+   0.489,
+   0.817,
+   0.181,
+   0.799
+  ],
+  "note": "ZOOMED, read: whole bhāṣya re-read; Pā 3-3-107 per sheet (glyph resembles ೨); aprīṇayan / gantavyamaihika as printed, doubtful",
+  "answer": ""
+ },
+ {
+  "pdf": 311,
+  "printed": 290,
+  "crop": [
+   0.55,
+   0.85,
+   0.05,
+   0.95
+  ],
+  "note": "viewed: Saṃhitā ṣṭaniḥ | clear, [?] removed",
+  "answer": ""
+ }
+]

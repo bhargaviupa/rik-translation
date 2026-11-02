@@ -81,14 +81,16 @@ def align(en, sh):
 
 def load_sheets():
     byp = collections.defaultdict(list)
-    for f in sorted(glob.glob(os.path.join(A.NUMD, 'Rigveda_Clean_Numerals_10_*.xlsx'))):
-        n = int(re.search(r'_(\d+)\.xlsx$', f).group(1))
+    for f in sorted(glob.glob(os.path.join(A.NUMD, 'Rigveda_Clean_Numerals_%s_*.xlsx' % A.VOLN))):
+        mm = re.search(r'_(\d+)_(\d+)_(\d+)\.xlsx$', f)      # Vol 9 style: ..._9_<firstPDFpage>_<lastPDFpage>.xlsx
+        if mm: base = int(mm.group(2)) - 1
+        else: base = 100 * (int(re.search(r'_(\d+)\.xlsx$', f).group(1)) - 1)
         ws = openpyxl.load_workbook(f, read_only=True).active
         for i, r in enumerate(list(ws.iter_rows(values_only=True))[1:], start=2):
             if r[0] is None or not r[3]: continue
             num = A.norm(str(r[3]))
             if not re.fullmatch(r'\d+(-\d+)+', num): continue
-            g = int(r[0]) + 100 * (n - 1)
+            g = int(r[0]) + base
             byp[g].append((int(r[1] or 0), num, os.path.basename(f), i, str(r[4])))
     for g in byp:
         byp[g].sort(key=lambda x: (x[0], x[3]))

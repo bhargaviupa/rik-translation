@@ -1,0 +1,50 @@
+[
+ {
+  "pdf": 56,
+  "printed": 35,
+  "crop": [
+   0.723,
+   0.752,
+   0.168,
+   0.802
+  ],
+  "note": "ZOOMED, read: stuṣe | stuve (bhāṣya), then ‖; second [?] was the double danda",
+  "answer": ""
+ },
+ {
+  "pdf": 57,
+  "printed": 36,
+  "crop": [
+   0.266,
+   0.291,
+   0.237,
+   0.839
+  ],
+  "note": "ZOOMED, read: nirundhanāso 'varundhānā (printed; va was missing before; na/nā of first word uncertain, kept as before)",
+  "answer": ""
+ },
+ {
+  "pdf": 63,
+  "printed": 42,
+  "crop": [
+   0.343,
+   0.36,
+   0.249,
+   0.531
+  ],
+  "note": "UNDECIDED: anuṣṭhā?ṇāṃ bhogān?ṣya?sthito stacked conjuncts not resolved at 800 dpi",
+  "answer": ""
+ },
+ {
+  "pdf": 63,
+  "printed": 42,
+  "crop": [
+   0.377,
+   0.395,
+   0.208,
+   0.45
+  ],
+  "note": "UNDECIDED: vājñā?yaitat letters before ai-sign not resolved",
+  "answer": ""
+ }
+]
