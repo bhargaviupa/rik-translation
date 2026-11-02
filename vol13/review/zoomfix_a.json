@@ -5614,5 +5614,13 @@
   "old": "12-2 [?]; 2-24-1 [?]",
   "new": "12-2; 2-24-1",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): confirmed, confirmed; not viewed by me."
+ },
+ {
+  "pdf": 463,
+  "printed": 443,
+  "status": "unresolved",
+  "old": "7-1-590",
+  "new": "7-1-100 [?]",
+  "note": "Reverted again: 7-1-590 is not a valid sūtra number; not viewed by me."
  }
 ]
