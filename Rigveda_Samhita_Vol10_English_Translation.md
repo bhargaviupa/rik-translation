@@ -16949,9 +16949,9 @@ In the same way, in the Ṛk before us, the *stotra* is of the nature of song, p
 
 **॥ सायणभाष्यम् ॥** *(Ṛk 6; read from the image; begins at the foot of p. 700.)*
 
-> दिवे द्योतमानाय सूर्याय नमो वोचम् । नमस्कारोपलक्षितं स्तोत्रं वोचं ब्रवीमि स्तौमीत्यर्थः । कीदृशाय तस्मै । बृहते महते [?]
+> दिवे द्योतमानाय सूर्याय नमो वोचम् । नमस्कारोपलक्षितं स्तोत्रं वोचं ब्रवीमि स्तौमीत्यर्थः । कीदृशाय तस्मै । बृहते महते ॥
 
-> *dive dyotamānāya sūryāya namo vocam | namaskāropalakṣitaṃ stotraṃ vocaṃ bravīmi staumītyarthaḥ | kīdṛśāya tasmai | bṛhate mahate [?]*
+> *dive dyotamānāya sūryāya namo vocam | namaskāropalakṣitaṃ stotraṃ vocaṃ bravīmi staumītyarthaḥ | kīdṛśāya tasmai | bṛhate mahate ‖*
 
 ### Printed p. 701  (PDF 722)
 
@@ -17089,17 +17089,17 @@ In this Ṛk, a kind of pride and also satisfaction are expressed: from the firm
 
 *(Special Topics of Ṛk 7, concluded; no heading is printed — this is a closing note on the deities of the Sūkta.)* Although in the Sūkta before us Mitra and Varuṇa are chiefly addressed, Aryaman and Bhaga — these deities too — are prayed to along with Mitra and Varuṇa. At the end, Agni, Mitra and Varuṇa are named together. Since these deities are praised together in one Sūkta, and since some of them are put together in a single Ṛk, it is to be understood that they have a connexion in the original [nature]. On the basis of the Ṛgveda Saṃhitā all these may be called Ādityas. Although the number of Ādityas is given as eight, or twelve, in the Taittirīya and other texts, in the Ṛgveda alone this number is considered more [limited]. [This matter is explained in the introduction to the first part of the Ṛgveda Saṃhitā and on pp. 536–537.] On the basis of the Ṛk-Saṃhitā, the author of the Nirukta too has included under the word Āditya these six deities — Mitra, Varuṇa, Aryaman, Dakṣa, Bhaga and Aṃśa:
 
-> तथ्यं तस्मै त्रयस्य वरुणस्यार्यम्णो दक्षस्य भगस्यांशस्येति ।
+> तथ्यैतन्मित्रस्य वरुणस्यार्यम्णो दक्षस्य भगस्यांशस्येति ।
 
-> *tathyaṃ tasmai trayasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti |*
+> *tathyaitan mitrasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti |*
 
-(Ni. 2-13, as read "೨-೧೩" [?]; the Sanskrit is badly printed in the Kannada type and I read it only in part [?].) In the Taittirīya and other texts, Mitra is connected with the Sun, and Varuṇa with the Moon, and their mutual relations are shown. Mitra, they say, created the day; Varuṇa, the night. Sometimes, according to this division, a white animal is offered to Mitra and a black animal to Varuṇa. The nature of Aryaman and Bhaga is told in subtle terms in the Ṛks preceding this Sūkta. How these deities were all born from Aditi is described in the Taittirīya Brāhmaṇa in this way:
+(Ni. 2-13; the first word is printed as *tathyaitan* [read from the zoom].) In the Taittirīya and other texts, Mitra is connected with the Sun, and Varuṇa with the Moon, and their mutual relations are shown. Mitra, they say, created the day; Varuṇa, the night. Sometimes, according to this division, a white animal is offered to Mitra and a black animal to Varuṇa. The nature of Aryaman and Bhaga is told in subtle terms in the Ṛks preceding this Sūkta. How these deities were all born from Aditi is described in the Taittirīya Brāhmaṇa in this way:
 
-> अदितिः पुत्रकामा साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै धाता चार्यमा चाजायेताम् । सा द्वितीयमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्मै मित्रश्च वरुणश्चाजायेताम् । सा तृतीयमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या अꣳशश्च भगश्चाजायेताम् ।
+> अदितिः पुत्रकामा साध्येभ्यो देवेभ्यो ब्रह्मौदनमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै धाता चार्यमा चाजायेताम् । सा द्वितीयमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्यै मित्रश्च वरुणश्चाजायेताम् । सा तृतीयमपचत् । तस्या उच्छेषणमदुः । तत्प्राश्नात् । सा रेतोऽधत्त । तस्या अꣳशश्च भगश्चाजायेताम् ।
 
-> *aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyai dhātā cāryamā cājāyetām | sā dvitīyam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasmai mitraś ca varuṇaś cājāyetām | sā tṛtīyam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyā aṃśaś ca bhagaś cājāyetām |*
+> *aditiḥ putrakāmā | sādhyebhyo devebhyo brahmaudanam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyai dhātā cāryamā cājāyetām | sā dvitīyam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyai mitraś ca varuṇaś cājāyetām | sā tṛtīyam apacat | tasyā ucchēṣaṇam aduḥ | tat prāśnāt | sā reto 'dhatta | tasyā aṃśaś ca bhagaś cājāyetām |*
 
-(Tai. Brā. 1-1-9-1, 2 [as read: "೧-೧-೯-೧, ೨"]; read from the image; the form *ucchēṣaṇam* is as printed, [?].) *Kannada sense:* Aditi, desiring sons, cooked a *brahmaudana* for the Sādhya gods. They ate it and gave her the remainder. She ate that and conceived: from her Dhātṛ and Aryaman were born. The second time she cooked [again] and ate what was left; Mitra and Varuṇa were born. The third time Aṃśa and Bhaga were born.
+(Tai. Brā. 1-1-9-1-1, 2; the form *ucchēṣaṇam* is as printed.) *Kannada sense:* Aditi, desiring sons, cooked a *brahmaudana* for the Sādhya gods. They ate it and gave her the remainder. She ate that and conceived: from her Dhātṛ and Aryaman were born. The second time she cooked [again] and ate what was left; Mitra and Varuṇa were born. The third time Aṃśa and Bhaga were born.
 
 Though they are described each in a different way in different places, since in all these deities some aspect of the Sun is seen in one way or another, the old scholars have concluded that they are all Ādityas, parts of the Sun.
 
