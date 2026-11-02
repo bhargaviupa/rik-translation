@@ -471,7 +471,7 @@ From this it is hard to say in what way the epithet "non-angry" shows the real n
 
 > *tvaṃ viśveṣāṃ varuṇāsi rājā ye ca devā asura ye ca martāḥ |*
 
-(Ṛ. Saṃ. [2]-2[7]-10 [?], as printed in small type; the reader's OCR reads "3-32-10", which I do not accept as it stands.) Here for *asura* the meaning is *he asura śatrūṇāṃ kṣepaka varuṇa* ("O Varuṇa, thrower down of the enemies"): "who defeats the enemies"; the word *asura* is in favour of Varuṇa.
+(Ṛ. Saṃ. 2-27-10, as printed in small type; the reader's OCR reads "3-32-10", which I do not accept as it stands.) Here for *asura* the meaning is *he asura śatrūṇāṃ kṣepaka varuṇa* ("O Varuṇa, thrower down of the enemies"): "who defeats the enemies"; the word *asura* is in favour of Varuṇa.
 
 > मा नो वधैर्वरुण ये त इष्टावेनः कृण्वन्तमसुर भ्रीणन्ति [?] ।
 
@@ -678,7 +678,7 @@ Ordinarily the struggle of Indra with the Asuras and with the mountains may be c
 
 > *śiśuṃ nadīnāṃ harimadribudhnamiti girirvā adrirgiribudhnā ‖*
 
-(Śa. Brā. 7-3-2-18 [?], as read at 800 dpi — a four-part reference in the small type; the last numeral is the loop-form 8, the second (3 or 5) is not settled.) In this Brāhmaṇa sentence too, the words *parvata* and *megha* have a sense that is extraordinary and not of the world, as is shown …; this is a dark mass (*tamorāśi*) in the form of a mountain, and of the heavenly region …
+(Śa. Brā. 7-5-2-18, as printed; the user's numeral sheet gives 7-5-2-18 read at 800 dpi; the second numeral, 3 or 5 in the print, is settled as 5 by the sheet.) In this Brāhmaṇa sentence too, the words *parvata* and *megha* have a sense that is extraordinary and not of the world, as is shown …; this is a dark mass (*tamorāśi*) in the form of a mountain, and of the heavenly region …
 
 ---
 
