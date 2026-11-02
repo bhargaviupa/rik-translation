@@ -6006,7 +6006,7 @@ In the same way in the present ṛk also, from the word *stomān* the sense is "
 
 ***nādhamānasya*** — for the word *nādhamānāḥ* the author of the Nirukta gives the meaning *yācamānāḥ*, "those who beg" (Ni. 4-3, as printed). In the present ṛk, *svīkartavyam ity uccair yācamānasya* — "of the one who urgently begs 'it must be accepted'" — is an epithet of the word *rājñaḥ*, "of the king".
 
-***asurasya*** — that many meanings are possible for the word *asura* has been shown in the special topics on Ṛ. Saṃ. 1-108-6 (Ṛk Saṃhitā, part 8, p. 59[?] — as printed "ಪೇ. ೫೯೭"? the numerals are unclear to me) and on ṛks 1-122-1 and 1-151-4. Among them there is the chief meaning "one who is given to giving". In the present ṛk, *dhanānāṃ nirasituḥ dānaśīlasya* — "one who casts off [gives] riches, given to giving" — it is an epithet of the word *rājñaḥ* (that is, of Svanaya).
+***asurasya*** — that many meanings are possible for the word *asura* has been shown in the special topics on Ṛ. Saṃ. 1-108-6 (Ṛk Saṃhitā, part 8, p. 597 — as printed "ಪೇ. ೫೯೭"; 800-dpi zoom, the last glyph the flat-footed 7) and on ṛks 1-122-1 and 1-151-4. Among them there is the chief meaning "one who is given to giving". In the present ṛk, *dhanānāṃ nirasituḥ dānaśīlasya* — "one who casts off [gives] riches, given to giving" — it is an epithet of the word *rājñaḥ* (that is, of Svanaya).
 
 ***gonām*** — *puṃgavānāṃ balīvardānām ity arthaḥ*: "of bulls, of oxen".
 
