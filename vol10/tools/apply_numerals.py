@@ -56,7 +56,7 @@ SITE_PREFIX = re.compile(r'(?<![\w-])(' + D + r'+(?:-' + D + r'+)*)-\[\?\](?![\w
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--from', dest='a', type=int, default=0)
-    ap.add_argument('--to', dest='b', type=int, default=10**6)
+    ap.add_argument('--to', dest='b', type=int, default=200)
     ap.add_argument('--write', action='store_true')
     ap.add_argument('--tag', default='')
     args = ap.parse_args()
