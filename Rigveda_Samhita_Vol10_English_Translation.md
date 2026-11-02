@@ -5636,11 +5636,11 @@ Last: *dāśater vā syād dānakarmaṇaḥ* — from the root *dāś*, meaning
 
 ***pratirante*** — *pratiratiḥ vṛddhikarmā*: "they obtain increase": this is the purport. The glory of giving in the form of the fee is praised in many places in this way.
 
-> अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति हृष्यैष दक्षिणाभ्युक्तम् [?] ।
+> अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति ह्यस्यृषिणाभ्युक्तम् ।
 
-> *ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hṛṣyaiṣa dakṣiṇābhyuktam [?] |*
+> *ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hyasyṛṣiṇābhyuktam |*
 
-(Śa. Brā. 18-1-1-10, as read; the print is small.) — that giving the fee produces food; and
+(Śa. Brā. 18-1-1-10; the words after *ātmeti* are as printed letter by letter: *hyasyṛṣiṇābhyuktam*, with a ṛ-sign on *sya*; not corrected.) — that giving the fee produces food; and
 
 > य एष तपति तदेवैतद्दादित्यो यशो यज्ञो हैव तद्यशस्तद्यज्ञस्तद्दक्षिणा हैव तद्यशस्तस्माद्यामस्मै दक्षिणामानयेयुर्न तां इत्वा मोऽन्यस्मा अतिदिशेत् ॥
 

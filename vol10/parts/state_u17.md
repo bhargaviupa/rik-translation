@@ -1,2 +1,3 @@
 - p.229: nākamiti [?] -> nākamati [sic] (zoom: ma+ti). p.230: pratiṣidhyeta [?] kept (undecided, conjunct). p.231: [?] after haviṣkṛtam removed (end mark); Bṛ. De. 3-86 [?] -> 2-66 (zoom, medium).
 - p.233: [?] after rūpāṇi removed (zoom: nothing printed there).
+- p.235: Śa.Brā. quotation tail: hṛṣyaiṣa dakṣiṇābhyuktam [?] -> hyasyṛṣiṇābhyuktam (zoom; letter by letter, medium; old reading did not match print).
