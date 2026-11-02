@@ -34,5 +34,65 @@
   ],
   "note": "ZOOMED, read: रथाञ्छ्यावान्स्नीड्वङ्गान्नै; print differs from earlier सैन्धवां; स्नी/नै UNDECIDED",
   "answer": ""
+ },
+ {
+  "pdf": 46,
+  "printed": 25,
+  "crop": [
+   0.686,
+   0.706,
+   0.228,
+   0.457
+  ],
+  "note": "ZOOMED 800dpi, read: yābhi-stri-mantur (moderate); [?] removed",
+  "answer": ""
+ },
+ {
+  "pdf": 45,
+  "printed": 24,
+  "crop": [
+   0.46,
+   0.483,
+   0.437,
+   0.526
+  ],
+  "note": "UNDECIDED: after snīḍvaṅgān the cluster (ನ್ಸ್?ೈ with hanging curl) not resolved; [?] kept",
+  "answer": ""
+ },
+ {
+  "pdf": 51,
+  "printed": 30,
+  "crop": [
+   0.272,
+   0.288,
+   0.264,
+   0.422
+  ],
+  "note": "UNDECIDED: atasthī (first vowel a/ā and final ī/e not settled); [?] kept",
+  "answer": ""
+ },
+ {
+  "pdf": 51,
+  "printed": 30,
+  "crop": [
+   0.286,
+   0.302,
+   0.264,
+   0.422
+  ],
+  "note": "UNDECIDED: prāpsyā clusters not resolvable; [?] kept",
+  "answer": ""
+ },
+ {
+  "pdf": 53,
+  "printed": 32,
+  "crop": [
+   0.548,
+   0.572,
+   0.405,
+   0.828
+  ],
+  "note": "ZOOMED 450dpi, read: tādṛśadāno vā clear; [?] removed",
+  "answer": ""
  }
 ]
