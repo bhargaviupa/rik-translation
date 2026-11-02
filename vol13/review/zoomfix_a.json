@@ -6494,5 +6494,13 @@
   "old": "8-2-36 [?]",
   "new": "8-2-4",
   "note": "User: the list's 8-2-40 is 8-2-4 (spurious trailing 0 from a closing bracket); not viewed by me."
+ },
+ {
+  "pdf": 240,
+  "printed": 220,
+  "status": "unresolved",
+  "old": "8-2-4",
+  "new": "8-2-36 [?]",
+  "note": "Restored: the citation is attached to the rule 'vṛścabhrasja…' (printed reading 8-2-36); the list's 8-2-40 (=8-2-4) belongs to a different citation on this page, not yet identified; not viewed by me."
  }
 ]
