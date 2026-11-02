@@ -1,2 +1,3 @@
 # u06 state (PDF 83-93)
 - p.83: two [?] removed (danda after putrādikamityarthaḥ; stray dot); विश्लेषां -> विश्वेषां (zoom: ವಿಶ್ವೇಷಾಂ, sure). p.85: refs 1-118-111 (as printed, zoom+sheet), 1-165-7, 3-36-10, 6-47-13 (sheet); वीरान् [?] शश्वत -> वीराञ्छश्वत (zoom 900 dpi: ಞ್ಛ+ಶ್ವತ, fairly sure); page note updated. p.86: 3-30-19, 1-79-4 (sheet); Phiṭ. Sū. 1[?] -> 17 (zoom, flat-footed 7 as in 1-79-4; moderate).
+- p.88: "dyudbhyo luṅi [?]" -> "dyudbhyo luṅ | pā. 1-3-91 |" (zoom: no vowel sign after ङ्; ref per sheet and image). p.89: refs 1-25-18, 5-62-8 (sheet). p.91 (zoom 900 dpi): Uṣas list now 20-22; 48th (16); 49th (14); 92nd (15 [?], 2nd digit 5 vs 8 undecided; earlier text said 18); 113th (20); 123rd (13); 124th (13). All as printed.
