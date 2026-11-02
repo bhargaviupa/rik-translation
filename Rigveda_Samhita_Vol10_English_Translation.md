@@ -1218,9 +1218,9 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 *(Header: "Maṃ. 1 A. 18 Sū. 122".)* **Special topics (Viśeṣaviṣayagaḷu), Ṛk 8.**
 
-***nahuṣaḥ*** — This word is recorded among the names of *manuṣya* ("man") (Ni. 3-7, as read by the reader's OCR). *Parasparasnehabandhopetā manuṣyā vayaṃ kakṣīvantaḥ* — "we, Kakṣīvān's people, bound by mutual affection and kinship": the sense indicated by the word *nahuṣa* has been explained [above]. [The matter of Nahuṣa has been told earlier.]
+***nahuṣaḥ*** — This word is recorded among the names of *manuṣya* ("man") (Ni. 3-7, as printed; the user's numeral sheet agrees). *Parasparasnehabandhopetā manuṣyā vayaṃ kakṣīvantaḥ* — "we, Kakṣīvān's people, bound by mutual affection and kinship": the sense indicated by the word *nahuṣa* has been explained [above]. [The matter of Nahuṣa has been told earlier.]
 
-***sūriḥ*** — The word *sūri* is recorded among the names of the praiser (*stotṛ*) (Ni. 3-19, as read by the reader's OCR); it has been used in the Saṃhitās in the senses *medhāvin*, *krāntadarśin*, *tattvajña* ("intelligent", "far-seeing", "knower of the truth"); here the Nirukta writers have given the meaning *preraka* ("impeller") for the word *sūri*.
+***sūriḥ*** — The word *sūri* is recorded among the names of the praiser (*stotṛ*) (Ni. 3-19, as printed; the user's numeral sheet agrees); it has been used in the Saṃhitās in the senses *medhāvin*, *krāntadarśin*, *tattvajña* ("intelligent", "far-seeing", "knower of the truth"); here the Nirukta writers have given the meaning *preraka* ("impeller") for the word *sūri*.
 
 > जिष्णुर्वामन्यः सुमुखस्य सूरिर्दिवो अन्यः सुभगः पुत्र ऊहे ।
 
@@ -1228,9 +1228,9 @@ Kakṣīvān's daughter, the woman named Ghoṣā, was disfigured by a bad disea
 
 (Ṛ. Saṃ. 1-181-4, as read.) In citing this ṛk they have shown, for the word *sūri* in it, that the sense is *erayitā*, *prerakaḥ* ("one who sets in motion, an impeller") (Ni. 12-3, as read by the reader's OCR; my own first reading "13-2" was wrong). In the same way here too: "the assembly of the gods, the people, is for me *sūri* — that is: 'the impeller to carry out the sacrificial duties and the like'."
 
-**Vyākaraṇa-prakriyā (grammar page, Ṛk 8, noted briefly).** *Asya* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. *Stuṣe* — the root *ñiṣṭuñ stutau*, *adādi*; *vyatyayo bahulam* — the *laṭ* 1st-person suffix is replaced by *thās*; by *se* ; *śap* has *luk*; after an *atiṅanta* the *nighāta*. *Mahimaghasya* — *mahi pūjyaṃ maghaṃ dhanaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *Rādhaḥ* — *rādhnuvanti anena iti rādhaḥ dhanam*; the root *rādha saṃsiddhau*; *sarvadhātubhya asun* (Uṇ. Sū. 4-628, as read by the reader's OCR) the suffix *asun*; since *nit*, the initial acute. *Sacā* — the root *ṣacaḥ samavāye*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *sa* for the initial; since it belongs to the *sampadādi* group, *sampadādibhyaḥ kvip* (Pā. Sū. 3-3-108 [?], as read) the suffix *kvip* in the sense of the action; instrumental singular; though a word of one syllable, by *vyatyaya* the root accent remains.
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 8, noted briefly).** *Asya* — *ūḍidaṃpadādi…* (Pā. Sū. 6-1-171), the ending takes the acute. *Stuṣe* — the root *ñiṣṭuñ stutau*, *adādi*; *vyatyayo bahulam* — the *laṭ* 1st-person suffix is replaced by *thās*; by *se* ; *śap* has *luk*; after an *atiṅanta* the *nighāta*. *Mahimaghasya* — *mahi pūjyaṃ maghaṃ dhanaṃ yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam* (Pā. Sū. 6-2-1) the accent of the first member. *Rādhaḥ* — *rādhnuvanti anena iti rādhaḥ dhanam*; the root *rādha saṃsiddhau*; *sarvadhātubhya asun* (Uṇ. Sū. 4-628, as printed; the user's numeral sheet agrees) the suffix *asun*; since *nit*, the initial acute. *Sacā* — the root *ṣacaḥ samavāye*; *dhātvādeḥ ṣaḥ saḥ* (Pā. Sū. 6-1-64) *sa* for the initial; since it belongs to the *sampadādi* group, *sampadādibhyaḥ kvip* (Pā. Sū. 3-3-108-6, as printed; the user's numeral sheet gives 3-3-108-6) the suffix *kvip* in the sense of the action; instrumental singular; though a word of one syllable, by *vyatyaya* the root accent remains.
 
-*Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 3-7; 3-19; 12-3; 6-1-171; 6-1-171; 6-2-1; 4-628; 6-1-68; 3-3-108-6
+*(The reference numbers on this page were checked against the user's numeral sheet; Ni. 12-3 is not in the sheet and stands as read from the page.)*
 
 ### Printed p. 41  (PDF 62)
 
