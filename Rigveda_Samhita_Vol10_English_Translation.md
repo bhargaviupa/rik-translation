@@ -7390,9 +7390,9 @@ For the other word *sthirāṇi*, [Sāyaṇa] explains *aparihāraṇīyāni pā
 
 **॥ सायणभाष्यम् ॥**
 
-> अस्यास्मै पृक्षं हविर्लक्षणमन्नमुपरासु । उपरमन्तेऽस्मिन्हवींष्युपरा वेदिसमीपभूमयः । तासु धीमहि । धारयामः । अस्येत्युक्तं कस्येत्यत आह । यो ऽग्निर्नक्तं रात्रौ दिवातरात् अहोऽपि सुदर्शतरः अत्यर्थं सर्वैर्दर्शनीयो भवति । यतोऽयं रात्रौ सर्वेषु भावेषु तमसावृतत्वाददृश्यमानेष्वपि स्वयमत्यर्थं प्रकाशते । अतोऽस्मै धीमहि । पुनः कीदृशायेति । दिवातरादह्नः सकाशादेवाप्रायुषे । प्रगतमायुर्यस्यासौ प्रायुः । न प्रायुरप्रायुः । तस्मै । असौ योऽस्तमेति स सर्वेषां भूतानां प्राणानादायास्तमेतीति श्रुतेः । रात्रौ सर्वे भावा निद्रयावृतत्वात्प्रायुष इव भवन्ति । अयमग्निस्तु सर्वप्राणिप्राणापहर्तुः सूर्यस्य रात्रौ स्वस्मिन्नेव प्रवेशात्प्रकृष्टायुर्भवति । अतोऽपि धीमहि । किंचात एव कारणाद्यतोऽयं सुदर्शतरो यतश्चाप्रायुः । अतः कारणादस्मै तदर्थमायुर्हविर्लक्षणमन्नं ग्रभणवत् ग्रहणयुक्तमभूत् [?]
+> अस्यास्मै पृक्षं हविर्लक्षणमन्नमुपरासु । उपरमन्तेऽस्मिन्हवींष्युपरा वेदिसमीपभूमयः । तासु धीमहि । धारयामः । अस्येत्युक्तं कस्येत्यत आह । यो ऽग्निर्नक्तं रात्रौ दिवातरात् अहोऽपि सुदर्शतरः अत्यर्थं सर्वैर्दर्शनीयो भवति । यतोऽयं रात्रौ सर्वेषु भावेषु तमसावृतत्वाददृश्यमानेष्वपि स्वयमत्यर्थं प्रकाशते । अतोऽस्मै धीमहि । पुनः कीदृशायेति । दिवातरादह्नः सकाशादेवाप्रायुषे । प्रगतमायुर्यस्यासौ प्रायुः । न प्रायुरप्रायुः । तस्मै । असौ योऽस्तमेति स सर्वेषां भूतानां प्राणानादायास्तमेतीति श्रुतेः । रात्रौ सर्वे भावा निद्रयावृतत्वात्प्रायुष इव भवन्ति । अयमग्निस्तु सर्वप्राणिप्राणापहर्तुः सूर्यस्य रात्रौ स्वस्मिन्नेव प्रवेशात्प्रकृष्टायुर्भवति । अतोऽपि धीमहि । किंचात एव कारणाद्यतोऽयं सुदर्शतरो यतश्चाप्रायुः । अतः कारणादस्मै तदर्थमायुर्हविर्लक्षणमन्नं ग्रभणवत् ग्रहणयुक्तमभूत् ।
 
-> *asyāsmai pṛkṣaṃ havirlakṣaṇamannamuparāsu | uparamante 'sminhavīṃṣyuparā vedisamīpabhūmayaḥ | tāsu dhīmahi | dhārayāmaḥ | asyetyuktaṃ kasyetyata āha | yo 'gnirnaktaṃ rātrau divātarāt aho 'pi sudarśataraḥ atyarthaṃ sarvairdarśanīyo bhavati | yato 'yaṃ rātrau sarveṣu bhāveṣu tamasāvṛtatvādadṛśyamāneṣvapi svayamatyarthaṃ prakāśate | ato 'smai dhīmahi | punaḥ kīdṛśāyeti | divātarādahnaḥ sakāśādevāprāyuṣe | pragatamāyuryasyāsau prāyuḥ | na prāyuraprāyuḥ | tasmai | asau yo 'stameti sa sarveṣāṃ bhūtānāṃ prāṇānādāyāstametīti śruteḥ | rātrau sarve bhāvā nidrayāvṛtatvātprāyuṣa iva bhavanti | ayamagnistu sarvaprāṇiprāṇāpahartuḥ sūryasya rātrau svasminneva praveśātprakṛṣṭāyurbhavati | ato 'pi dhīmahi | kiṃcāta eva kāraṇādyato 'yaṃ sudarśataro yataścāprāyuḥ | ataḥ kāraṇādasmai tadarthamāyurhavirlakṣaṇamannaṃ grabhaṇavat grahaṇayuktamabhūt [?]*
+> *asyāsmai pṛkṣaṃ havirlakṣaṇamannamuparāsu | uparamante 'sminhavīṃṣyuparā vedisamīpabhūmayaḥ | tāsu dhīmahi | dhārayāmaḥ | asyetyuktaṃ kasyetyata āha | yo 'gnirnaktaṃ rātrau divātarāt aho 'pi sudarśataraḥ atyarthaṃ sarvairdarśanīyo bhavati | yato 'yaṃ rātrau sarveṣu bhāveṣu tamasāvṛtatvādadṛśyamāneṣvapi svayamatyarthaṃ prakāśate | ato 'smai dhīmahi | punaḥ kīdṛśāyeti | divātarādahnaḥ sakāśādevāprāyuṣe | pragatamāyuryasyāsau prāyuḥ | na prāyuraprāyuḥ | tasmai | asau yo 'stameti sa sarveṣāṃ bhūtānāṃ prāṇānādāyāstametīti śruteḥ | rātrau sarve bhāvā nidrayāvṛtatvātprāyuṣa iva bhavanti | ayamagnistu sarvaprāṇiprāṇāpahartuḥ sūryasya rātrau svasminneva praveśātprakṛṣṭāyurbhavati | ato 'pi dhīmahi | kiṃcāta eva kāraṇādyato 'yaṃ sudarśataro yataścāprāyuḥ | ataḥ kāraṇādasmai tadarthamāyurhavirlakṣaṇamannaṃ grabhaṇavat grahaṇayuktamabhūt |*
 
 *(Read from the image; checked against the OCR, which is garbled in places. The sentence continues on p. 286.)*
 
@@ -7424,7 +7424,7 @@ For the other word *sthirāṇi*, [Sāyaṇa] explains *aparihāraṇīyāni pā
 
 ***uparāsu*** — *uparamante 'smin havīṃṣity uparāḥ vedisamīpabhūmayaḥ*: the places near the sacrificial altar, where the oblations to be offered are got ready and placed. The word *upara* is recorded among the eight names of the quarters, *āśāḥ* (Ni. 2-16, as printed "೨-೧೬"); hence Yāska explains it as "quarter". The word *upara* is also stated among the names of clouds. It is described that for Agni, in the regions near the sacrificial altar, food in the form of oblation is prepared.
 
-***naktam*** — *rātrau*: "in the night": the word *nakta* is recorded among the twenty-three names of night (Ni. 1-[?]8 [as printed "೨-೧೮"]).
+***naktam*** — *rātrau*: "in the night": the word *nakta* is recorded among the twenty-three names of night (Ni. 2.18 [as printed "೨.೧೮"]).
 
 ***divātarāt sudarśatarah*** — *ahno 'pi atyarthaṃ sarvaiḥ darśanīyo bhavati*: even when, in the night, all things are covered with darkness and are not properly visible, Agni, by his own light, shines more than he shines in the day (than the light of the day): this is the meaning.
 
@@ -7476,7 +7476,7 @@ For the other word *sthirāṇi*, [Sāyaṇa] explains *aparihāraṇīyāni pā
 
 ***sūnave vīḷu śarma na grabhaṇavat*** — *pitroḥ putrāya dṛḍhaṃ sukhasādhanaṃ gṛhaṃ yathā grahaṇavad bhavati tathā*: the comparison is that, as a house giving happiness, given by the father to the son, is fit to be accepted by the son, so the oblation that we prepare is fit to be accepted by Agni.
 
-***vīḷu*** — this word is recorded among the names of strength (Ni. 3-9). The word *śarma* is recorded among the twenty-two names of house, *gayaḥ, kṛdaraḥ* and the like (Ni. 3-4 [?], as printed "೩-೧೩").
+***vīḷu*** — this word is recorded among the names of strength (Ni. 3-9). The word *śarma* is recorded among the twenty-two names of house, *gayaḥ, kṛdaraḥ* and the like (Ni. 3-13, as printed "೩-೧೩").
 
 > स्योना पृथिवि भवानृक्षरा निवेशनी । यच्छा नः शर्म सप्रथः ॥
 

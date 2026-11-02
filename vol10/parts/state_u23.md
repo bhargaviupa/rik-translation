@@ -1,2 +1,3 @@
 # u23 state (PDF 300-313)
 - Sheet 4 (page = PDF-300). p.300: "tathā dadati | vindateḥ śyanaḥ [?]" -> "tathā duriti ‖ vindateś chāndasaḥ" (zoom, fairly sure); "...agner ṛjvagnir-yajñādirūpaiḥ [?] dāṣṭi" -> "...araṇibhir atyanta-tejoyuktair mārgair yajñādirūpair dāṣṭi" (zoom, fairly sure; araṇi vs araṇī short/long unsure). p.301: "annānnāni [?]" -> [?] removed (zoom: ಅನ್ನಾನ್ನಾನಿ as printed). p.304: Ni 2-24, Ni 3-9 (ojas), Ṛ 8-99.3 from sheet (image agrees).
+- p.306: bhāṣya end "abhūt [?]" -> "abhūt |" (printed danda visible in strip). p.308: Ni "1-[?]8" -> Ni. 2.18 (sheet 2.18; image dot). p.309: Ni "3-4 [?]" -> Ni. 3-13 (sheet + image).
