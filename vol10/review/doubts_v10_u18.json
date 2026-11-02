@@ -58,5 +58,41 @@
   ],
   "note": "ZOOMED, read: Tai. Saṃ. 2-1-3-2 (first/last glyph = header 2; medium-high)",
   "answer": ""
+ },
+ {
+  "pdf": 245,
+  "printed": 224,
+  "crop": [
+   0.28,
+   0.298,
+   0.66,
+   0.825
+  ],
+  "note": "ZOOMED, read: Tai. Saṃ. 7-1-3-8 to 10 (sheet agrees)",
+  "answer": ""
+ },
+ {
+  "pdf": 245,
+  "printed": 224,
+  "crop": [
+   0.642,
+   0.662,
+   0.64,
+   0.801
+  ],
+  "note": "ZOOMED, read: Tai. Saṃ. 7-2-1-2 (medium: glyph 2/4 curled loop vs 3)",
+  "answer": ""
+ },
+ {
+  "pdf": 245,
+  "printed": 224,
+  "crop": [
+   0.763,
+   0.78,
+   0.68,
+   0.825
+  ],
+  "note": "ZOOMED, read: Ka. U. 2-10 (sheet)",
+  "answer": ""
  }
 ]
