@@ -6662,13 +6662,13 @@ The *ājya-śastra* mantra to be recited on the sixth day must be the ṛks of t
 
 > *divyekādaśastheyamadadādrabhasamṛṇacyutamiti praugaṃ pārucchepamaticchandāḥ saptapadaṃ ṣaṣṭhe 'hani ṣaṣṭhasyāhno rūpam ‖*
 
-(Ai. Br. 22-? [?], as printed.) In the *praüga* [as printed, *prauga*] śastra mantras there are the following ṛks. They are ṛks seen by Paruccheṣa, in the *atichandas* metre of more syllables, with seven *pādas*. Their order is —
+(Ai. Br. 22-7, as printed; the last glyph is the flat-footed one, read as 7 from a zoom.) In the *praüga* [as printed, *prauga*] śastra mantras there are the following ṛks. They are ṛks seen by Paruccheṣa, in the *atichandas* metre of more syllables, with seven *pādas*. Their order is —
 
 * *stīrṇaṃ barhir upa no yāhi vītaye* (Ṛ. Saṃ. 1-135-1, three ṛks from there; as printed);
 * *ā vāṃ ratho niyutvān vakṣad avase* (Ṛ. Saṃ. 1-155-4, the ṛks from 4 to 6);
 * *suṣumā yātam adribhiḥ* (Ṛ. Saṃ. 1-137-1, three ṛks);
-* *yuvāṃ stomebhir devayanto aśvinā* (Ṛ. Saṃ. 1-139-3 to 6 [?]; "೧-೧೩೯-೩ ರಿಂದ ೬ರ ವರೆಗಿನ" as printed);
-* *āvarmaha indra dāddhi śrudhī naḥ* (Ṛ. Saṃ. 1-133-6 and 7 [?], as printed);
+* *yuvāṃ stomebhir devayanto aśvinā* (Ṛ. Saṃ. 1-139-3 to 6 per the numeral sheet; "೧-೧೩೯-೩ ರಿಂದ ೬ರ ವರೆಗಿನ" as printed);
+* *āvarmaha indra dāddhi śrudhī naḥ* (Ṛ. Saṃ. 1-133-6 and 7, as printed);
 * *astu śrauṣaṭ puro agniṃ dhiyā dadhe* (Ṛ. Saṃ. 1-139-1);
 * *o ṣū ṇo agne śṛṇuhi tvam īḷitaḥ* (Ṛ. Saṃ. 1-139-2);
 * *ye devāso divy ekādaśa stha* (Ṛ. Saṃ. 1-139-11);
