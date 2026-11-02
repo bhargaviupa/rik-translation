@@ -4356,7 +4356,7 @@ Then he explains the third simile, *jāyeva patye kāmayamānā suvāsā ṛtuk�
 > *idaṃ śreṣṭhaṃ jyotiṣāṃ jyotirāgāccitraḥ praketo ajaniṣṭa vibhvā |*
 > *yathā prasūtā savituḥ savāya~ evā rātryuṣase yonimāraik ‖*
 
-(Ṛ. Saṃ. 1-113-1, as printed "೧-೧೧೩-೧".) *(Read letter by letter; "āgāc citraḥ" is as printed and the ligature marks are doubtful.)* explains, *evaṃ rātry uṣase yonim aricat sthānam* [?] — "thus Night has given place to Uṣas" — and the *yoni* … (the print gives the rest as *yonir abhiyuta enāṃ garbhaḥ* [?], which I cannot make sure of). Durgācārya has commented on this thus (Ni. 2-19, as printed "೨-೧೯"):
+(Ṛ. Saṃ. 1-113-1, as printed "೧-೧೧೩-೧".) *(Read letter by letter; "āgāc citraḥ" is as printed and the ligature marks are doubtful.)* explains, *evaṃ rātry uṣase yonim aricat sthānaṃ |* — "thus Night has given place to Uṣas" — and the *yoni* … (the print gives the rest as *strīyonir abhiyata enāṃ garbhaḥ |* — zoomed; the *ya* is drawn with the hook, so read *abhiyata*, medium certainty; the sense, "the *yoni* of woman … the embryo of this", is left unexplained as in the print). Durgācārya has commented on this thus (Ni. 2-19, as printed "೨-೧೯"):
 
 > रात्रिः उषसः जन्मार्थं "योनिं" "स्थानं" अवकाशं आरिचत् आरेचयति ददातीत्यर्थः । यथोषा आदित्यस्य जन्मनो हेतुस्तदनन्तरजन्मत्वात् एवं रात्रिः उषसो जन्मनो हेतुः ॥
 
@@ -4370,7 +4370,7 @@ Then he explains the third simile, *jāyeva patye kāmayamānā suvāsā ṛtuk�
 > *aruṣasya duhitarā virūpe stṛbhiranyā pipiśe sūro anyā |*
 > *mithasturā vicarantī pāvake manma śrutaṃ nakṣata ṛcyamāne ‖*
 
-(Ṛ. Saṃ. 1-186-? [?] — the numerals of the print are not clear to me.) — in these and many other ṛks the sisterly relationship of Night and Uṣas is described, and how both of them, by their ceaseless and regular movement, are the cause of the course of the world.
+(Ṛ. Saṃ. 6-49-3, as printed "೬-೪೯-೩"; the last digit as read from the numeral sheet.) — in these and many other ṛks the sisterly relationship of Night and Uṣas is described, and how both of them, by their ceaseless and regular movement, are the cause of the course of the world.
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-19
 
@@ -4400,10 +4400,10 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 
 (Ṛ. Saṃ. 6-75-5, as read from the print.) *(Read letter by letter; "ciścā" is as printed and doubtful.)*
 
-> वह्निवेदा [?] गनीगन्ति कर्णं प्रियं सखायं परिषस्वजाना ।
+> वक्ष्यन्तीवेदा गनीगन्ति कर्णं प्रियं सखायं परिषस्वजाना ।
 > योषेव शिङ्क्ते वितताधि धन्वञ्ज्या इयं समने पारयन्ती ॥
 
-> *vahnivedā [?] ganīganti karṇaṃ priyaṃ sakhāyaṃ pariṣasvajānā |*
+> *vakṣyantīvedā ganīganti karṇaṃ priyaṃ sakhāyaṃ pariṣasvajānā |*
 > *yoṣeva śiṅkte vitatādhi dhanvañjyā iyaṃ samane pārayantī ‖*
 
 (Ṛ. Saṃ. 6-75-3, as I read the print.) — citing these two ṛks he explains the word *samana* as "battle".
