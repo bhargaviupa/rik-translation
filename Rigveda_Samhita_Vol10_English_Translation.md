@@ -5936,11 +5936,11 @@ Thus describing the glory of the *trivṛt* and other stomas —
 
 In the same way in the present ṛk also, from the word *stomān* the sense is "praise (*stotra*) that is of the nature of song, of the nature of eulogy, and of surpassing usefulness". The author of the Nirukta has explained this ṛk as follows:
 
-> अमन्दान्स्तोमान्प्र भरे मनीषा अमन्दानल्पान्वा । बालो बलवर्ती भर्तव्यो भवत्यम्बास्मा अलं भवतीति वाम्बा बलं भवतीति वा बलो वा प्रतिषेद्धव्यव्यवहितः [?] । प्रभरे मनीषया मनसा ईषया स्तुत्या प्रज्ञया वा । सिन्धावधि निवसतो भावयव्यस्य राज्ञः । यो मे सहस्रं निरमिमीत सवानतूर्तो राजातर्ण इति वात्वरमाण इति वा प्रशंसामिच्छमानः ॥
+> अमन्दान्स्तोमान्प्र भरे मनीषा अमन्दानल्पान्वा । बालो बलवर्ती भर्तव्यो भवत्यम्बास्मा अलं भवतीति वाम्बा बलं भवतीति वा बलो वा प्रतिषेदव्यवहितः । प्रभरे मनीषया मनसा ईषया स्तुत्या प्रज्ञया वा । सिन्धावधि निवसतो भावयव्यस्य राज्ञः । यो मे सहस्रं निरमिमीत सवानतूर्तो राजातर्ण इति वात्वरमाण इति वा प्रशंसामिच्छमानः ॥
 
-> *amandānstomānpra bhare manīṣā amandānalpānvā | bālo balavartī bhartavyo bhavatyambāsmā alaṃ bhavatīti vāmbā balaṃ bhavatīti vā balo vā pratiṣeddhavyavyavahitaḥ [?] | prabhare manīṣayā manasā īṣayā stutyā prajñayā vā | sindhāvadhi nivasato bhāvayavyasya rājñaḥ | yo me sahasraṃ niramimīta savānatūrto rājātarṇa iti vātvaramāṇa iti vā praśaṃsāmicchamānaḥ ‖*
+> *amandānstomānpra bhare manīṣā amandānalpānvā | bālo balavartī bhartavyo bhavatyambāsmā alaṃ bhavatīti vāmbā balaṃ bhavatīti vā balo vā pratiṣedavyavahitaḥ | prabhare manīṣayā manasā īṣayā stutyā prajñayā vā | sindhāvadhi nivasato bhāvayavyasya rājñaḥ | yo me sahasraṃ niramimīta savānatūrto rājātarṇa iti vātvaramāṇa iti vā praśaṃsāmicchamānaḥ ‖*
 
-(Ni. 9-10, as printed "೬-೧೦"; the OCR shows "८-१०" or similar — doubtful.) *(Read letter by letter; the words of the first, etymological, part — "amandān … alpān vā", "bālo balavartī", "ambāsmā alaṃ bhavatīti", "balo vā pratiṣeddhavya-vyavahitaḥ" — are small and doubtful and I do not complete them.)* Here for the word *atūrta* the meanings *ātūrṇaḥ* and *atvaramāṇaḥ* are given as synonyms: that is, one who is by no one … or "one whose conduct is without haste". The author of the Nirukta, citing
+(Ni. 9-10, as printed "೯-೧೦"; the numeral sheet agrees.) *(Read letter by letter; the words of the first, etymological, part — "amandān … alpān vā", "bālo balavartī", "ambāsmā alaṃ bhavatīti", "balo vā pratiṣe-davyavahitaḥ" — are small; the last word was re-read at 600 dpi as printed ("pratiṣedavyavahitaḥ", with plain *da*, not *ddha*), and I do not correct it.)* Here for the word *atūrta* the meanings *ātūrṇaḥ* and *atvaramāṇaḥ* are given as synonyms: that is, one who is by no one … or "one whose conduct is without haste". The author of the Nirukta, citing
 
 > सविता यन्त्रैः पृथिवीमरम्णादस्कम्भने सविता द्यामदृंहत् ।
 > अश्वमिवाधुक्षद्धुनिमन्तरिक्षमतूर्ते बद्धं सविता समुद्रम् ॥

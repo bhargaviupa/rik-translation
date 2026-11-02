@@ -94,5 +94,29 @@
   ],
   "note": "ZOOMED, read: Ka. U. 2-10 (sheet)",
   "answer": ""
+ },
+ {
+  "pdf": 246,
+  "printed": 225,
+  "crop": [
+   0.396,
+   0.436,
+   0.224,
+   0.586
+  ],
+  "note": "ZOOMED, read: pratiṣe-davyavahitaḥ (da-vya-va-hi-taḥ, as printed; medium)",
+  "answer": ""
+ },
+ {
+  "pdf": 246,
+  "printed": 225,
+  "crop": [
+   0.478,
+   0.5,
+   0.687,
+   0.832
+  ],
+  "note": "ZOOMED, read: Ni. 9-10 (sheet)",
+  "answer": ""
  }
 ]
