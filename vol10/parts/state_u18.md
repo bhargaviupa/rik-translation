@@ -3,3 +3,4 @@
 - p.242: nirmitavān [?] removed (clear in strip). p.243: "pp. 139 to 19[?]" -> 139 to 149 (zoom 800 dpi, fairly sure); Tai. Saṃ. "1-2-11-? [?]" -> 1-7-11-44 (sheet + zoom; flat-footed glyph = 7).
 - p.244: triṇava clause "kratuṃ [?] tasyāntaryanti … ṛtuṣu me 'saditi" -> "triṇavamantaryantyṛtūgśca tasya nakṣatriyāṃ ca virājamantaryantyṛtuṣu me 'pyasannakṣatriyāyāṃ ca virājeti" (450 dpi, clear); Tai. Saṃ. "2-1-3-2 [?]" -> 7-1-3-7 (flat glyph = 7, medium-high; passage continues at 7-1-3-8 to 10 on p.245).
 - p.245: Tai. Saṃ. 7-1-3-8 to 10 (sheet+zoom); Tai. Saṃ. 2-1-3-3 [?] -> 7-2-1-2 (zoom, medium); Ka. U. 2-10 (sheet+zoom). DONE PDF 240-245.
+- p.246: Nirukta word 'pratiṣeddhavyavyavahitaḥ [?]' -> 'pratiṣedavyavahitaḥ' as printed (600 dpi, medium); note 'Ni. 9-10 as printed ೬-೧೦' corrected to ೯-೧೦ (sheet 3 row 46 + zoom). DONE PDF 246.
