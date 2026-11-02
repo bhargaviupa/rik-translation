@@ -1,0 +1,38 @@
+[
+ {
+  "pdf": 184,
+  "printed": 163,
+  "crop": [
+   0.367,
+   0.393,
+   0.575,
+   0.801
+  ],
+  "note": "ZOOMED, read: ತೆದ್ರಾ(ತದ್ವಾ?) first word of Nirukta quote; kept tad[?]ā; trailing [?] removed (apsarā) ",
+  "answer": ""
+ },
+ {
+  "pdf": 185,
+  "printed": 164,
+  "crop": [
+   0.746,
+   0.813,
+   0.477,
+   0.606
+  ],
+  "note": "ZOOMED, read: ಸ್ಯಾಂಜ್ಯಂಕ್ತೇ = syāñjyaṅkte; line-end marks = dandas",
+  "answer": ""
+ },
+ {
+  "pdf": 186,
+  "printed": 165,
+  "crop": [
+   0.498,
+   0.515,
+   0.397,
+   0.675
+  ],
+  "note": "ZOOMED, read: samyagananahetava āpaḥ",
+  "answer": ""
+ }
+]
