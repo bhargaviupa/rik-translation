@@ -1,0 +1,2 @@
+# u06 state (PDF 83-93)
+- p.83: two [?] removed (danda after putrādikamityarthaḥ; stray dot); विश्लेषां -> विश्वेषां (zoom: ವಿಶ್ವೇಷಾಂ, sure). p.85: refs 1-118-111 (as printed, zoom+sheet), 1-165-7, 3-36-10, 6-47-13 (sheet); वीरान् [?] शश्वत -> वीराञ्छश्वत (zoom 900 dpi: ಞ್ಛ+ಶ್ವತ, fairly sure); page note updated. p.86: 3-30-19, 1-79-4 (sheet); Phiṭ. Sū. 1[?] -> 17 (zoom, flat-footed 7 as in 1-79-4; moderate).

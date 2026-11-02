@@ -1695,9 +1695,9 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 **॥ सायणभाष्यम् ॥**
 
-> हिरण्यकर्णं हिरण्यविकारकुण्डलाद्युपेतकर्णं मणिग्रीवं रत्नाद्युपेतकण्ठम् । एतद्द्वयं सर्वावयवस्याप्युपलक्षणम् । एवं सर्वाङ्गाभरणयुक्तमर्णः अरणीयं रूपं तत्प्रशंसनं पुत्रादिकमित्यर्थः [?] । उक्तलक्षणमस्मदीयं रूपं वा नोऽस्माकं विश्वे सर्वे देवा वरिवस्यन्तु । परिचरन्तु । प्रयच्छन्त्वित्यर्थः । अर्योऽरणीयो विश्लेषां [?] देवानां सङ्घो जग्मुषीः स्तोतुर्मुखान्निर्गच्छन्तीर्गिरः स्तुतीरुस्राः विकारे प्रकृतिशब्दः क्षीराज्यादीनि हवींषि च सद्योऽस्मद्यागमनानन्तरमेव चाकन्तु कामयन्ताम् । छान्दसः शपः श्लुः परस्मैपदं च । यद्वा । यजुर्लुकि नुगभावः । आ चाकन्तिति वा योज्यम् । पर्याप्तं कामयन्तामित्यर्थः । केष्विति तदुच्यते । अस्मे अस्माकं सम्बन्धिषूभयेषु स्तोत्रेषु यष्टृषु च । यद्वा । अस्माकमुभयेष्वैहिकामुष्मिकेषु फलेषु ॥
+> हिरण्यकर्णं हिरण्यविकारकुण्डलाद्युपेतकर्णं मणिग्रीवं रत्नाद्युपेतकण्ठम् । एतद्द्वयं सर्वावयवस्याप्युपलक्षणम् । एवं सर्वाङ्गाभरणयुक्तमर्णः अरणीयं रूपं तत्प्रशंसनं पुत्रादिकमित्यर्थः । उक्तलक्षणमस्मदीयं रूपं वा नोऽस्माकं विश्वे सर्वे देवा वरिवस्यन्तु । परिचरन्तु । प्रयच्छन्त्वित्यर्थः । अर्योऽरणीयो विश्वेषां देवानां सङ्घो जग्मुषीः स्तोतुर्मुखान्निर्गच्छन्तीर्गिरः स्तुतीरुस्राः विकारे प्रकृतिशब्दः क्षीराज्यादीनि हवींषि च सद्योऽस्मद्यागमनानन्तरमेव चाकन्तु कामयन्ताम् । छान्दसः शपः श्लुः परस्मैपदं च । यद्वा । यजुर्लुकि नुगभावः । आ चाकन्तिति वा योज्यम् । पर्याप्तं कामयन्तामित्यर्थः । केष्विति तदुच्यते । अस्मे अस्माकं सम्बन्धिषूभयेषु स्तोत्रेषु यष्टृषु च । यद्वा । अस्माकमुभयेष्वैहिकामुष्मिकेषु फलेषु ॥
 
-> *hiraṇyakarṇaṃ hiraṇyavikārakuṇḍalādyupetakarṇaṃ maṇigrīvaṃ ratnādyupetakaṇṭham | etaddvayaṃ sarvāvayavasyāpyupalakṣaṇam | evaṃ sarvāṅgābharaṇayuktamarṇaḥ araṇīyaṃ rūpaṃ tatpraśaṃsanaṃ putrādikamityarthaḥ [?] | uktalakṣaṇamasmadīyaṃ rūpaṃ vā no 'smākaṃ viśve sarve devā varivasyantu | paricarantu | prayacchantvityarthaḥ | aryo 'raṇīyo viśleṣāṃ [?] devānāṃ saṅgho jagmuṣīḥ stoturmukhānnirgacchantīrgiraḥ stutīrusrāḥ vikāre prakṛtiśabdaḥ kṣīrājyādīni havīṃṣi ca sadyo 'smadyāgamanānantarameva cākantu kāmayantām | chāndasaḥ śapaḥ śluḥ parasmaipadaṃ ca | yadvā | yajurluki nugabhāvaḥ | ā cākantiti vā yojyam | paryāptaṃ kāmayantāmityarthaḥ | keṣviti taducyate | asme asmākaṃ sambandhiṣūbhayeṣu stotreṣu yaṣṭṛṣu ca | yadvā | asmākamubhayeṣvaihikāmuṣmikeṣu phaleṣu ‖*
+> *hiraṇyakarṇaṃ hiraṇyavikārakuṇḍalādyupetakarṇaṃ maṇigrīvaṃ ratnādyupetakaṇṭham | etaddvayaṃ sarvāvayavasyāpyupalakṣaṇam | evaṃ sarvāṅgābharaṇayuktamarṇaḥ araṇīyaṃ rūpaṃ tatpraśaṃsanaṃ putrādikamityarthaḥ | uktalakṣaṇamasmadīyaṃ rūpaṃ vā no 'smākaṃ viśve sarve devā varivasyantu | paricarantu | prayacchantvityarthaḥ | aryo 'raṇīyo viśveṣāṃ devānāṃ saṅgho jagmuṣīḥ stoturmukhānnirgacchantīrgiraḥ stutīrusrāḥ vikāre prakṛtiśabdaḥ kṣīrājyādīni havīṃṣi ca sadyo 'smadyāgamanānantarameva cākantu kāmayantām | chāndasaḥ śapaḥ śluḥ parasmaipadaṃ ca | yadvā | yajurluki nugabhāvaḥ | ā cākantiti vā yojyam | paryāptaṃ kāmayantāmityarthaḥ | keṣviti taducyate | asme asmākaṃ sambandhiṣūbhayeṣu stotreṣu yaṣṭṛṣu ca | yadvā | asmākamubhayeṣvaihikāmuṣmikeṣu phaleṣu ‖*
 
 *(150 dpi; a few words doubtful.)* "*Hiraṇyakarṇam*: one whose ear has golden earrings and the like; *maṇigrīvam*: one whose neck has jewels and the like. These two stand for all the limbs; thus *arṇaḥ* — a form (*araṇīyam rūpam*) adorned with ornaments on all limbs, [that is] children and the like who are to be praised. Or [that] form of ours of the kind described: may all the gods (*viśve devāḥ*) *varivasyantu* — wait upon [us], bestow [it]. *Aryaḥ* — the company of all the deities, worthy to be approached; *jagmuṣīḥ* — the praises coming out of the praiser's mouth; *usrāḥ* — milk, ghee and other oblations (the word for the original [cow] is used for the product): may they at once — immediately after our sacrifice — desire (*cākantu*), 'wish': *śap* with *śluḥ* and *parasmaipada* in the Vedic way; or else the *num* is absent when the *luk* of *yaj*; or *ā cākantu* may be joined: 'let them wish sufficiently'. In what? *Asme*, in our — both the praises and the sacrificers; or, in both our results in this world and the next."
 
@@ -1731,7 +1731,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 
 ### Printed p. 64  (PDF 85)
 
-*(Header: "Maṃ. 1 A. 18 Sū. 122".)* *(The reference numerals on pp. 64–65 are in small type and were read at 150 dpi only; they are marked `[?]`, and no OCR exists for these pages.)*
+*(Header: "Maṃ. 1 A. 18 Sū. 122".)* *(The reference numerals on pp. 64–65 are in small type; they follow the numeral sheets, checked on the page image.)*
 
 (2) *asme yātaṃ nāsatyā sajoṣāḥ | asmān ity arthaḥ ‖* — **dvitīyāyās tāvat** — "for the second case: the word *asme* has the sense *asmān*, 'us'". As an example of this sense they have given the ṛk:
 
@@ -1741,7 +1741,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 > *ā śyenasya javasā nūtanenāsme yātaṃ nāsatyā sajoṣāḥ |*
 > *have hi vāmaśvinā rātahavyaḥ śaśvattamāyā uṣaso vyuṣṭau ‖*
 
-(Ṛ. Saṃ. 1-118-[?]-[?], as read.) The word *asme* in this ṛk means *asmān* — "us".
+(Ṛ. Saṃ. 1-118-111, as printed.) The word *asme* in this ṛk means *asmān* — "us".
 
 (3) *asme samānebhir vṛṣabha pauṃsyebhiḥ | asmābhir ity arthaḥ ‖* — **tṛtīyāyās tāvat** — "here *asme* means *asmābhiḥ*, 'by us' — the sense of the third case". In this matter:
 
@@ -1751,17 +1751,17 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 > *bhūri cakartha yujyebhirasme samānebhirvṛṣabha pauṃsyebhiḥ |*
 > *bhūrīṇi hi kṛṇavāmā śaviṣṭhendra kratvā maruto yadvaśāma ‖*
 
-(Ṛ. Saṃ. 1-1[?]-[?], as read.) They have given this ṛk as an example. Here *asme* means *asmābhiḥ*, "by us".
+(Ṛ. Saṃ. 1-165-7.) They have given this ṛk as an example. Here *asme* means *asmābhiḥ*, "by us".
 
 (4) *asme prayandhi maghavann ṛjīṣin | asmabhyam ity arthaḥ ‖* — **caturthyās tāvat** — "here *asme* means *asmabhyam*, 'for us' — the sense of the fourth case". An example:
 
 > अस्मे प्र यन्धि मघवन्नृजीषिन्निन्द्र रायो विश्ववारस्य भूरेः ।
-> अस्मे शतं शरदो जीवसे धा अस्मे वीरान् [?] शश्वत इन्द्र शिप्रिन् ॥
+> अस्मे शतं शरदो जीवसे धा अस्मे वीराञ्छश्वत इन्द्र शिप्रिन् ॥
 
 > *asme pra yandhi maghavannṛjīṣinnindra rāyo viśvavārasya bhūreḥ |*
-> *asme śataṃ śarado jīvase dhā asme vīrān [?] śaśvata indra śiprin ‖*
+> *asme śataṃ śarado jīvase dhā asme vīrāñchaśvata indra śiprin ‖*
 
-(Ṛ. Saṃ. 2-1[?]-[?], as read.) For the word *asme* in this ṛk the sense is the fourth case, *asmabhyam*, "for us".
+(Ṛ. Saṃ. 3-36-10.) For the word *asme* in this ṛk the sense is the fourth case, *asmabhyam*, "for us".
 
 (5) *asme arāc cid dveṣaḥ sanutar yuyotu | asmad ity arthaḥ ‖* — **pañcamyās tāvat** — "here *asme* means *asmat*, 'from us'". An example:
 
@@ -1771,7 +1771,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 > *tasya vayaṃ sumatau yajñiyasyāpi bhadre saumanase syāma |*
 > *sa sutrāmā svavā~ indro asme ārācciddveṣaḥ sanutaryuyotu ‖*
 
-(Ṛ. Saṃ. 6-4[?]-[?], as read.) For the word *asme* in this ṛk the sense is the fifth case, *asmat*, "from us".
+(Ṛ. Saṃ. 6-47-13.) For the word *asme* in this ṛk the sense is the fifth case, *asmat*, "from us".
 
 ### Printed p. 65  (PDF 86)
 
@@ -1785,7 +1785,7 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 > *ā no bhara bhagamindra dyumantaṃ ni te deṣṇasya dhīmahi prareke |*
 > *ūrva iva paprathe kāmo asme tamā pṛṇa vasupate vasūnām ‖*
 
-(Ṛ. Saṃ. 3-3[?]-[?], as read.) Citing this ṛk — for the word *asme* in it the sense is *asmākam*, "ours" — the sixth case.
+(Ṛ. Saṃ. 3-30-19.) Citing this ṛk — for the word *asme* in it the sense is *asmākam*, "ours" — the sixth case.
 
 (7) *asme dhatta vasavo vasūni | asmāsv ity arthaḥ ‖* — **saptamyās tāvat** — "here *asme* means 'in us'". An example:
 
@@ -1795,9 +1795,9 @@ The meaning of the second half of this ṛk is obscure; the seer's intention is 
 > *agne vājasya gomata īśānaḥ sahaso yaho |*
 > *asme dhehi jātavedo mahi śravaḥ ‖*
 
-(Ṛ. Saṃ. 1-7[?]-[?], as read.) For the word *asme* in this ṛk the sense is the seventh case, *asmāsu*, "in us".
+(Ṛ. Saṃ. 1-79-4.) For the word *asme* in this ṛk the sense is the seventh case, *asmāsu*, "in us".
 
-**Vyākaraṇa-prakriyā (grammar page, Ṛk 14, noted briefly; sūtra numbers not reproduced).** *Hiraṇyakarṇam* — *hiraṇyaṃ karṇau yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member; accusative singular. *Arṇaḥ* — the root *ṛ gatau*; *arti iti arṇaḥ*; *udake nuṭ ca* (Uṇ. Sū. 4-636, as read by the reader's OCR) the suffix *asun* and the augment *nuṭ*; guṇa of the root and *ra*; *ñnityādir nityam* — the initial acute. *Varivasyantu* — *varivas* is a nominal stem; when the sense "to do this" is intended, *namovarivaścitrāṅaḥ kyac* the suffix *kyac*; *sanādyantā dhātavaḥ* — it takes the name of a root; *loṭ*, 3rd plural, *jhi*, the substitute *ut*, *ant*; after an *atiṅanta* the *nighāta*. *Aryaḥ* — the root *ṛ gatau*; *āryaḥ svāmivaiśyayoḥ* — the suffix *yat* by irregular formation; *āryasya svāmyākhyā ceti* (Phiṭ. Sū. 1[?]) the final acute.
+**Vyākaraṇa-prakriyā (grammar page, Ṛk 14, noted briefly; sūtra numbers not reproduced).** *Hiraṇyakarṇam* — *hiraṇyaṃ karṇau yasya saḥ*; *bahuvrīhau prakṛtyā pūrvapadam*: the accent of the first member; accusative singular. *Arṇaḥ* — the root *ṛ gatau*; *arti iti arṇaḥ*; *udake nuṭ ca* (Uṇ. Sū. 4-636, as read by the reader's OCR) the suffix *asun* and the augment *nuṭ*; guṇa of the root and *ra*; *ñnityādir nityam* — the initial acute. *Varivasyantu* — *varivas* is a nominal stem; when the sense "to do this" is intended, *namovarivaścitrāṅaḥ kyac* the suffix *kyac*; *sanādyantā dhātavaḥ* — it takes the name of a root; *loṭ*, 3rd plural, *jhi*, the substitute *ut*, *ant*; after an *atiṅanta* the *nighāta*. *Aryaḥ* — the root *ṛ gatau*; *āryaḥ svāmivaiśyayoḥ* — the suffix *yat* by irregular formation; *āryasya svāmyākhyā ceti* (Phiṭ. Sū. 17) the final acute.
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; the hyphens, and sometimes a digit, may be lost — e.g. "4-628" is 4-6xx — so use only as a check on the readings above):* 6-2-1; 4-636; 6-1-197; 3-1-19; 3-1-103
 
