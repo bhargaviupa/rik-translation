@@ -130,5 +130,65 @@
   ],
   "note": "ZOOMED, read: Ni. 5-15 (glyph equals 5 of PDF 262 sheet row)",
   "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 246,
+  "crop": [
+   0.366,
+   0.408,
+   0.179,
+   0.833
+  ],
+  "note": "ZOOMED, bhāṣya re-read; see state_u19",
+  "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 246,
+  "crop": [
+   0.406,
+   0.448,
+   0.179,
+   0.833
+  ],
+  "note": "ZOOMED, bhāṣya re-read; see state_u19",
+  "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 246,
+  "crop": [
+   0.446,
+   0.497,
+   0.179,
+   0.833
+  ],
+  "note": "ZOOMED, bhāṣya re-read; see state_u19",
+  "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 246,
+  "crop": [
+   0.51,
+   0.553,
+   0.179,
+   0.833
+  ],
+  "note": "ZOOMED, bhāṣya re-read; see state_u19",
+  "answer": ""
+ },
+ {
+  "pdf": 267,
+  "printed": 246,
+  "crop": [
+   0.55,
+   0.601,
+   0.179,
+   0.833
+  ],
+  "note": "ZOOMED, bhāṣya re-read; see state_u19",
+  "answer": ""
  }
 ]
