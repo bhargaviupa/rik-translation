@@ -5286,13 +5286,13 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 > *te somādo harī indrasya niṃsateṃ 'śuṃ duhanto adhyāsate gavi |*
 > *tebhirdugdhaṃ papivānsomyaṃ madhvindro vardhate prathate vṛṣāyate ‖*
 
-(Ṛ. Saṃ. 10-94-? [?], as I read the print; the middle numeral is small and doubtful.) *(Read letter by letter; "somādo" and "niṃsate" are as printed and doubtful.)* But here *aṃśu* means Soma juice. Likewise in
+(Ṛ. Saṃ. 10-94-9.) *(Read letter by letter; "somādo" and "niṃsate" are as printed and doubtful.)* But here *aṃśu* means Soma juice. Likewise in
 
 > आसाव्यंशुर्मदायाप्सु दक्षो गिरिष्ठाः । श्येनो न योनिमासदत् ॥
 
 > *āsāvyaṃśurmadāyāpsu dakṣo giriṣṭhāḥ | śyeno na yonimāsadat ‖*
 
-(Ṛ. Saṃ. 9-?-? [?], as read — numerals unclear.) — in ṛks like this too the meaning is Soma juice. When the word *aṃśu* comes as an epithet of the word *soma*, it means a piece of the Soma vine.
+(Ṛ. Saṃ. 9-62-4.) — in ṛks like this too the meaning is Soma juice. When the word *aṃśu* comes as an epithet of the word *soma*, it means a piece of the Soma vine.
 
 > प्र यत्सिन्धवः प्रसवं यथायन्नापः समुद्रं रथ्येव जग्मुः ।
 > अतश्चिदिन्द्रः सदसो वरीयान्यदीं सोमः पृणति दुग्धो अंशुः ॥
@@ -5308,7 +5308,7 @@ Sāyaṇa has told this very story as his source, so its translation need not be
 > *samudreṇa sindhavo yādamānā indrāya somaṃ suṣutaṃ bharantaḥ |*
 > *aṃśuṃ duhanti hastino bharitrairmadhvaḥ punanti dhārayā pavitraiḥ ‖*
 
-(Ṛ. Saṃ. 9-?-2 [?], as read.) — since in such ṛks it is an epithet of the word *soma*, *latākhaṇḍarūpaḥ alpaḥ somaḥ*, the Soma in the form of a piece of the vine and small, is stated; the small quantity of the Soma is stated.
+(Ṛ. Saṃ. 3-36-7.) — since in such ṛks it is an epithet of the word *soma*, *latākhaṇḍarūpaḥ alpaḥ somaḥ*, the Soma in the form of a piece of the vine and small, is stated; the small quantity of the Soma is stated.
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 1-114-16; 1-114-3; 2-5
 
