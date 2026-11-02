@@ -9,7 +9,7 @@ WORK=os.environ.get('V10WORK','/tmp/v10num/')
 os.makedirs(WORK,exist_ok=True)
 OFFSET=21   # printed = PDF - 21 (Sūkta 122 on printed p. 2 = PDF 23); re-check, and re-check again for a better scan
 def _parts():
-    fs=sorted(glob.glob(os.path.join(VOL,'scans','*[0-9].pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))   # numbered parts only
+    fs=sorted(glob.glob(os.path.join(os.environ.get('V10SCANS',os.path.join(VOL,'scans')),'*[0-9].pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))   # numbered parts only
     out=[];g=1
     for p in fs:
         n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',p],capture_output=True,text=True).stdout).group(1))
