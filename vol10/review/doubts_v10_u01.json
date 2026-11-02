@@ -82,5 +82,77 @@
   ],
   "note": "ZOOMED, read: षष्ठेऽहञ्[?]-स्यन्त इति (letter at line end unresolved)",
   "answer": ""
+ },
+ {
+  "pdf": 13,
+  "printed": -8,
+  "crop": [
+   0.542,
+   0.564,
+   0.24,
+   0.8
+  ],
+  "note": "ZOOMED, read: यत्षष्ठं यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुनर्निवृत्तं; no extra mark printed ([?] removed); यद्रतवद् (printed without e-sign? left as is)",
+  "answer": ""
+ },
+ {
+  "pdf": 13,
+  "printed": -8,
+  "crop": [
+   0.561,
+   0.584,
+   0.24,
+   0.8
+  ],
+  "note": "ZOOMED, read: यदन्तरूपं यदुत्तमे पदे देवता निरुच्यते, clear",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.445,
+   0.466,
+   0.515,
+   0.816
+  ],
+  "note": "ZOOMED: नियुत्वान्वक्षदवसे - cluster after ना (न् + subscript) not unambiguous; [?] KEPT",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.465,
+   0.486,
+   0.595,
+   0.816
+  ],
+  "note": "ZOOMED, read: अश्विनावर्मह (hooked ma)",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.481,
+   0.503,
+   0.253,
+   0.515
+  ],
+  "note": "ZOOMED, read: वृषन्निन्द्रास्तु श्रौषळोषूणो, clear",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.742,
+   0.765,
+   0.253,
+   0.535
+  ],
+  "note": "ZOOMED, read: अवर्मह इन्द्र दादृहि श्रुधी नः (dādṛhi, was dādhi)",
+  "answer": ""
  }
 ]
