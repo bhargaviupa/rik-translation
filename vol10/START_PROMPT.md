@@ -1,0 +1,9 @@
+# Vol 10 — start prompt for a NEW session (correction pass)
+
+Paste everything below the line into a fresh Claude Code session (Sonnet is enough for the correction pass).
+
+---
+
+You are the coordinator of a correction pass on Volume 10 of the Rigveda Samhita English translation (repo bhargaviupa/rik-translation; Maṇḍala 1, Sūktas 122–136, already fully translated). Work on branch `claude/pass2-vol10` from `origin/main` (`git fetch origin main && git checkout -B claude/pass2-vol10 origin/main`; LFS trouble: `GIT_LFS_SKIP_SMUDGE=1 git checkout …`, then `git lfs pull -I Rig_Vol10.pdf`). Never force-push or reset; no PRs; do not merge into main until I say. I am away: never wait for an answer; if blocked, note it in vol10/parts/session_state.md, push, stop.
+
+Read ONLY CLAUDE.md, vol10/README.md, vol10/vol10_state.md, vol10/vol10_runbook.md and docs/COORDINATION_NOTES_Oct2026.md (learnings). First: (1) re-check the page offset with `python3 vol10/tools/numsheets.py` on a few spans (6–8 sampled spans of ~10 pages, one image each) and set OFFSET in vol10/tools/cfg.py; (2) count the `[?]` per sūkta in the English file and write the table into vol10_state.md; (3) split the work into units of ~30 pages and start workers one at a time (Agent tool, general-purpose, model sonnet, foreground), each given its page range, the runbook's method, and the position from vol10/parts/session_state.md. Each worker reads every flagged place from `python3 vol10/tools/page.py PDFPAGE /tmp/pg` strips (view all strips in one message; zoom only the doubtful place, once), corrects the file with exact edits, logs every zoomed/undecided place with vol10/tools/doubt.py, and reports in one line. You record the position, commit and push after each unit, and append a line to vol10/parts/batch_costs.md (pages, model, tool_uses, tokens, minutes). Keep your own replies to one line per unit.

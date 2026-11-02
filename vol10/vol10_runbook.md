@@ -1,0 +1,12 @@
+# Vol 10 — correction-pass runbook (DRAFT, Nov 2 2026; confirm the task with the user first)
+
+Goal: bring the existing English file to the accuracy of Vols 3–6: resolve `[?]` readings, numerals and accents from the scan, without re-translating. Closed rules of CLAUDE.md apply (no OCR for readings; if an image view returns no image STOP; never fill from memory; three-layer Sanskrit; one progress note).
+
+## Method (from the Vol 3–6 passes and Vol 13 zoom-fix; see `docs/COORDINATION_NOTES_Oct2026.md`)
+1. **Units:** one sūkta or ~30 pages per worker session; state in `parts/wXX_state.md` (done-through, next step, open items); a fresh session per unit; finished sessions archived. Branch per range (`claude/pass2-vol10-a`, …), merged to main by the coordinator with the no-work-lost check (added lines, headings, one progress note).
+2. **Reading:** `python3 vol10/tools/page.py PDFPAGE /tmp/pg` (trimmed strips; default 300 dpi = native resolution of the old scan; 400 for a better scan), view all strips of the page in one message, read the flagged places. For one doubtful place zoom once: `page.py PDFPAGE /tmp/z --strip K --box X0 Y0 X1 Y1 --dpi 450` (box in the coordinates of the image as displayed). It prints the whole-page fractions for `doubt.py`.
+3. **Which places:** every `[?]` in the file (find by `grep -n '\[?\]'`, the printed-page marker above it gives the page), plus running heads and Ṛk/Varga numbers of each page. Correct with exact unique-match edits (`tools/apply.py`); keep IAST in step (`publish/tools/translit/add_iast.py` on the changed block; inline `⟦…⟧`).
+4. **Digits:** CLAUDE.md digit key and the Oct 31 correction (round = 2, hooked = 3, flat-footed = 7; calibrate against the running header in the same crop). Where the user supplies numeral files, take numerals from them and do not zoom.
+5. **Doubts:** every place left `[?]` after a zoom, and every zoomed place, goes to `review/doubts_v10.json` via `tools/doubt.py`; the user reviews one flat list (crop + empty box, Artifact pages ≤ 16 MB, ~100 crops per page at 150 dpi JPEG).
+6. **Turn economy:** every tool call re-reads the whole context; view all strips of a page in one parallel message, zoom in one message, write with one call, work in units of ~3 pages per sub-agent (see `vol14/vol14_runbook.md`, "Turn economy").
+7. **Hygiene:** never force-push or reset; merge to main only when the user says; no PRs; Git/LFS: `git lfs pull -I Rig_Vol10.pdf`; use `git worktree` for side work and never switch branches while a worker writes in the same folder.
