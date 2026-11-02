@@ -178,5 +178,17 @@
   ],
   "note": "ZOOMED: contents row 130 ಏಂದ್ರ ಯಾಹ್ಯುಪ; first vowel e vs ē not decidable (glyph looks like ಏ, differs slightly from ಎ of ಎಂಬ); [?] KEPT",
   "answer": ""
+ },
+ {
+  "pdf": 22,
+  "printed": 1,
+  "crop": [
+   0.443,
+   0.457,
+   0.299,
+   0.61
+  ],
+  "note": "ZOOMED, read: अत ऊर्ध्वं त?नी ज्ञेया (printed ತನೀ-like: the glyph after ऊर्ध्वं is not तु; garbled/unclear) - [?] kept on one syllable",
+  "answer": ""
  }
 ]
