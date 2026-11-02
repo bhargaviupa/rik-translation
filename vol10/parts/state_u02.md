@@ -1,2 +1,3 @@
 # u02 state (PDF 27-40)
 - p.28: ref 2-3[?]-[?] -> 7-46-1 (moderate). p.29: removed [?] after dhanvā; Śa. Brā. 9-1-1-6 kept as read, [?] removed; dyumnasātā and tannivāsāt (dyauḥ dyulokaḥ) clear, [?] removed. p.30: ref 2-2-4 -> 3-3-4 (hooked 3). Unresolved on p.30: line rakṣā ... asura letters; 2-?7-10 middle digits; 2-28-7 last digit.
+- p.31: [?] after ñnityādir nityam removed (6-1-193 as printed, zoom). p.32: jñānatyau [?] kept (zoom: ಜ್ಞಾ ನತ್ಯೌ, not understood). p.33: atkamatkaṃ [?] -> atkamaktaṃ (zoom: ಮತ್ಕಮಕ್ತಂ, hooked ma, medium); grammar tail "avitṛstṛtantribhya īḥ" changed to "avitṛstṛ… [?]" (the zoom shows only small stacked signs after avitṛ-stṛ; the earlier longer reading is not supported by the image).

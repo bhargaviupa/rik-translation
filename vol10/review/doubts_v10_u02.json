@@ -70,5 +70,53 @@
   ],
   "note": "ZOOMED, read: 3-3-4 (hooked 3 glyphs)",
   "answer": ""
+ },
+ {
+  "pdf": 31,
+  "printed": 10,
+  "crop": [
+   0.785,
+   0.804,
+   0.374,
+   0.616
+  ],
+  "note": "ZOOMED, read: 6-1-193 (as printed)",
+  "answer": ""
+ },
+ {
+  "pdf": 32,
+  "printed": 11,
+  "crop": [
+   0.751,
+   0.774,
+   0.228,
+   0.752
+  ],
+  "note": "ZOOMED, UNDECIDED: jñānatyau (ಜ್ಞಾ ನತ್ಯೌ), not understood",
+  "answer": ""
+ },
+ {
+  "pdf": 33,
+  "printed": 12,
+  "crop": [
+   0.233,
+   0.259,
+   0.199,
+   0.562
+  ],
+  "note": "ZOOMED, read: matkamaktaṃ (ma hooked)",
+  "answer": ""
+ },
+ {
+  "pdf": 33,
+  "printed": 12,
+  "crop": [
+   0.313,
+   0.333,
+   0.199,
+   0.723
+  ],
+  "note": "ZOOMED, partly: avitṛstṛ… tail unresolved",
+  "answer": ""
  }
 ]
