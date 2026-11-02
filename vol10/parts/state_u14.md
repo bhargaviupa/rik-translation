@@ -1,0 +1,11 @@
+# u14 state (PDF 184-197)
+- p.163 (184): Nirukta quote "tad dhā bhavati" -> "tad[?]ā bhavati rūpavatī apsarā" (print ತೆದ್ರಾ; letter after d unclear); trailing [?] removed (print ends apsarā).
+- p.164 (185): Saṃhitā Ṛk 8: both [?] removed (line-end marks are dandas, vrāḥ clear); "sūryasyāṅkte" -> "sūryasyāñjyaṅkte" (zoom: ಸ್ಯಾಂಜ್ಯಂಕ್ತೇ; Pada gives añji aṅkte). Kept "āraik" reading (Pada confirms).
+- p.165 (186): "samyagananahetavo [?] āpaḥ" -> "samyagananahetava āpaḥ" (zoom).
+- p.166 (187): "sthānam [?]" -> "sthānaṃ |"; "yonir abhiyuta enāṃ garbhaḥ [?]" -> "strīyonir abhiyata enāṃ garbhaḥ" (hooked ya read as plain ya, medium); Ṛ. Saṃ. 6-49-3 (sheet 6.49-3; last digit glyph curled 2/3 ambiguous, sheet value used).
+- p.167 (188): "vahnivedā [?]" -> "vakṣyantīvedā" (zoom, sure).
+- p.169 (190): both [?] after ahasu removed (clear; Pada ahaऽsu).
+- p.171 (192): Ṛ refs from sheet: 1-165-7 (was 1-63-2 [?]), 3-36-10 (was 2-22-? [?]).
+- p.173 (194): "lubdhakāḥ [?]" -> "lubdhakā [sic]" (no visarga printed). OPEN: Nirukta ref "2-17 [?]" (my reading ೨-೧೭, sheet says 2-02: conflict, [?] kept; also "Ni. [?]" in English gloss).
+- p.175 (196): Ni. 3-19 -> 2-19, Ṛ 1-92-14 -> 1-113-4, Ṛ 7-77-6 -> 7-76-7 (all from sheet). OPEN: "prārpyā [?]" first word of 2nd line of the 1-113-4 quote: zoom at 1200 dpi shows pra-pya + repha, unresolved, [?] kept.
+- Pages 189, 191, 193, 195, 197: no [?] listed, not viewed.

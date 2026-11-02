@@ -4618,7 +4618,7 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 
 (Ṛ. Saṃ. 8-66-10, as read from the print.) he explains the meaning of the word *paṇi* in (Ni. 6-26, as read) as *paṇīṃś ca vaṇijaḥ* [as printed]. In the present ṛk, Sāyaṇa explains: *paṇaya iti lubdhakā abudhyamānā yāgādīn akurvāṇā adānaśīlā asmacchatravaḥ* — "the *paṇis* are the niggardly, who are unaware, who do not perform sacrifices and the like, who do not give, our enemies". (The matter of the group of Asuras called the Paṇis was explained earlier.)
 
-***sūnṛte*** — *suṣṭhu manuṣyāṇāṃ netrī*: Uṣas is addressed as "the best leader of mankind". *Sūnṛtā*, *sūnṛtāvatī*, *sūnṛtāvarī* and the like are all epithets of Uṣas or synonyms (Ni. 3-19 [?]; as read by the OCR "३-१९"): *sūnṛteti vāṅnāma | netrī ud-vādayitrī | uṣasaḥ svābhāvānantaraṃ hi paśupakṣimṛgādayaḥ sarve śabdaṃ kurvanti | ata eva tāsāṃ vācāṃ pravartayiteti ucyate.* That is, the word *sūnṛtā* applies to all the usage of speech; because after the rising of Uṣas the speech-activities of all animals, birds and the rest begin, Uṣas is the originator of all of them. The Ṛṣis Kutsa and Vasiṣṭha use this epithet specially in their works. For example —
+***sūnṛte*** — *suṣṭhu manuṣyāṇāṃ netrī*: Uṣas is addressed as "the best leader of mankind". *Sūnṛtā*, *sūnṛtāvatī*, *sūnṛtāvarī* and the like are all epithets of Uṣas or synonyms (Ni. 2-19, from the numeral sheet; the print shows the curled 2, earlier misread as 3): *sūnṛteti vāṅnāma | netrī ud-vādayitrī | uṣasaḥ svābhāvānantaraṃ hi paśupakṣimṛgādayaḥ sarve śabdaṃ kurvanti | ata eva tāsāṃ vācāṃ pravartayiteti ucyate.* That is, the word *sūnṛtā* applies to all the usage of speech; because after the rising of Uṣas the speech-activities of all animals, birds and the rest begin, Uṣas is the originator of all of them. The Ṛṣis Kutsa and Vasiṣṭha use this epithet specially in their works. For example —
 
 > भास्वती नेत्री सूनृतानामचेति चित्रा वि दुरो न आवः ।
 > प्रार्प्या [?] जगद्व्यु नो रायो अख्यदुषा अजीगर्भुवनानि विश्वा ॥
@@ -4626,7 +4626,7 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 > *bhāsvatī netrī sūnṛtānāmaceti citrā vi duro na āvaḥ |*
 > *prārpyā [?] jagadvyu no rāyo akhyaduṣā ajīgarbhuvanāni viśvā ‖*
 
-(Ṛ. Saṃ. 1-92-14 [?], as read from the print.)
+(Ṛ. Saṃ. 1-113-4, from the numeral sheet.)
 
 > एषा नेत्री राधसः सूनृतानामुषा उच्छन्ती रिभ्यते वसिष्ठैः ।
 > दीर्घश्रुतं रयिमस्मे दधाना यूयं पात स्वस्तिभिः सदा नः ॥
@@ -4634,7 +4634,7 @@ The author of the Nirukta has included the word *samanā* among the names of bat
 > *eṣā netrī rādhasaḥ sūnṛtānāmuṣā ucchantī ribhyate vasiṣṭhaiḥ |*
 > *dīrghaśrutaṃ rayimasme dadhānā yūyaṃ pāta svastibhiḥ sadā naḥ ‖*
 
-(Ṛ. Saṃ. 7-77-6 [?], as read from the print.) — in these and other ṛks Sāyaṇa has explained the word *sūnṛtānām* as *stutīnāṃ netrī*, "the leader of praises".
+(Ṛ. Saṃ. 7-76-7, from the numeral sheet.) — in these and other ṛks Sāyaṇa has explained the word *sūnṛtānām* as *stutīnāṃ netrī*, "the leader of praises".
 
 ***jārayantī*** — *sarvaprāṇinaḥ kṣapayantī*: "making all beings pass away (grow old)"; it is an epithet of Uṣas, in the sense of making all beings sleep.
 
