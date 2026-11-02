@@ -129,9 +129,9 @@ The details of the *trayastriṃśa Stoma* we have already told. Nevertheless in
 
 That is: the *tṛca* to be recited (the group of three ṛks) in the first *paryāya*, the first ṛk to be recited three times, the second ṛk seven times, the third ṛk once (so that eleven ṛks are recited). In the second *paryāya* the first ṛk of the *tṛca* is recited once, the second ṛk three times, the third ṛk seven times (altogether 11 ṛks). In the third *paryāya* the first ṛk is recited seven times, the second once, the third three times (altogether 11 ṛks). In this way, since the number of ṛks recited in the three *paryāyas* is three times eleven, that is thirty-three, this Stoma has the name *trayastriṃśa-stoma*. The Sāman produced from the ṛk "*revatīr naḥ sadhamāde*" (Ṛ. Saṃ. 1-30-13, as printed and as read by the OCR) has the name *Raivata*. A metre with more syllables than Gāyatrī is called *Aticchandas*. On this sixth day the deities are Vāk, Gau and Dyau. The Stoma is to be praised with the *trayastriṃśa*; with the Raivata Sāman it is to be sung. The ṛks of the Aticchandas metre are to be recited (for the Śastra mantras). These are the special programmes of this sixth day.
 
-> यद्वै समानोदर्कं तत्षष्ठस्याह्नो रूपं यद्वैव तृतीय-महस्तदेतत्पुनर्यत्षष्ठं [?] यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुनर्निवृत्तं यद्रेतवद्यत्पर्यस्तवद्यत्रिवद्यदन्तरूपं [?] यदुत्तमे पदे देवता निरुच्यते यदसौ लोकोऽभ्युदितः ॥
+> यद्वै समानोदर्कं तत्षष्ठस्याह्नो रूपं यद्वैव तृतीय-महस्तदेतत्पुनर्यत्षष्ठं यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुनर्निवृत्तं यद्रेतवद्यत्पर्यस्तवद्यत्रिवद्यदन्तरूपं यदुत्तमे पदे देवता निरुच्यते यदसौ लोकोऽभ्युदितः ॥
 
-> *yadvai samānodarkaṃ tatṣaṣṭhasyāhno rūpaṃ yadvaiva tṛtīya-mahastadetatpunaryatṣaṣṭhaṃ [?] yadaśvavadyadantavadyatpunarāvṛttaṃ yatpunarnivṛttaṃ yadretavadyatparyastavadyatrivadyadantarūpaṃ [?] yaduttame pade devatā nirucyate yadasau loko 'bhyuditaḥ ‖*
+> *yadvai samānodarkaṃ tatṣaṣṭhasyāhno rūpaṃ yadvaiva tṛtīya-mahastadetatpunaryatṣaṣṭhaṃ yadaśvavadyadantavadyatpunarāvṛttaṃ yatpunarnivṛttaṃ yadretavadyatparyastavadyatrivadyadantarūpaṃ yaduttame pade devatā nirucyate yadasau loko 'bhyuditaḥ ‖*
 
 (Ai. Brā. 22-7, as printed "೨೨-೭"; the second line is in bold small type and a few letters are doubtful.) The programme that is carried out on the third day of this sacrifice is also to be observed on the sixth day. In reciting the mantras on the third day, the *aśvavat*, *antavat* and so on that were said are also to be recited on the sixth day again. But on the sixth day there is one special order.
 
@@ -151,9 +151,9 @@ On that day the ṛks seen by Parucchepa with seven pādas, the ṛks seen by N�
 
 The *ājya-śastra* mantra recited on the sixth day must be ṛks of the Sūkta seen by Parucchepa, "*ayaṃ jāyata manuṣo dharīmaṇi*". Their metre is Aticchandas; that is, they have more syllables than ordinary metres; and in these ṛks there are seven pādas (3 pādas in the first half, 2 in the middle half, 2 in the last half, altogether 7 pādas). All these are the special features of the sixth day.
 
-> स्तीर्णं बर्हिरुप नो याहि वीतये आ वां रथो नियुत्वान्वक्षदवसे सुषुमा यातमद्रिभिर्युवां स्तोमेभिर्देवयन्तो अश्विनावर्मुह [?] इन्द्र वृषन्निन्द्रास्तु [?] श्रौषळोषूणो अग्ने शृणुहि त्वमीळितो ये देवासो दिव्येकादशस्थेयमददादभसमृणच्युतमिति प्रलुगं पारुच्छेपमतिच्छन्दाः सप्तपदं षष्ठेऽहनि षष्ठस्याह्नो रूपं ॥
+> स्तीर्णं बर्हिरुप नो याहि वीतये आ वां रथो नियुत्वान्वक्षदवसे सुषुमा यातमद्रिभिर्युवां स्तोमेभिर्देवयन्तो अश्विनावर्मह इन्द्र वृषन्निन्द्रास्तु श्रौषळोषूणो अग्ने शृणुहि त्वमीळितो ये देवासो दिव्येकादशस्थेयमददादभसमृणच्युतमिति प्रलुगं पारुच्छेपमतिच्छन्दाः सप्तपदं षष्ठेऽहनि षष्ठस्याह्नो रूपं ॥
 
-> *stīrṇaṃ barhirupa no yāhi vītaye ā vāṃ ratho niyutvānvakṣadavase suṣumā yātamadribhiryuvāṃ stomebhirdevayanto aśvināvarmuha [?] indra vṛṣannindrāstu [?] śrauṣaḷoṣūṇo agne śṛṇuhi tvamīḷito ye devāso divyekādaśastheyamadadādabhasamṛṇacyutamiti pralugaṃ pārucchepamaticchandāḥ saptapadaṃ ṣaṣṭhe 'hani ṣaṣṭhasyāhno rūpaṃ ‖*
+> *stīrṇaṃ barhirupa no yāhi vītaye ā vāṃ ratho niyutvānvakṣadavase suṣumā yātamadribhiryuvāṃ stomebhirdevayanto aśvināvarmaha indra vṛṣannindrāstu śrauṣaḷoṣūṇo agne śṛṇuhi tvamīḷito ye devāso divyekādaśastheyamadadādabhasamṛṇacyutamiti pralugaṃ pārucchepamaticchandāḥ saptapadaṃ ṣaṣṭhe 'hani ṣaṣṭhasyāhno rūpaṃ ‖*
 
 (Ai. Brā. 22-77, as printed "೨೨-೭"; a few letters of this long passage are doubtful.) The Śastra mantras called *Praüga* contain the following ṛks. They are ṛks seen by Parucchepa; the metre is Aticchandas with more syllables; they have seven pādas. Their order is (the list below is as printed in the Kannada page; the numerals are read with the help of the reader's OCR, and doubtful ones are marked):
 
@@ -181,9 +181,9 @@ The *ājya-śastra* mantra recited on the sixth day must be ṛks of the Sūkta 
 
 (Ṛ. Saṃ. 1-139-3 to the 6th ṛk, as read by the reader's OCR)
 
-> अवर्मह इन्द्र दाद्हि श्रुधी नः
+> अवर्मह इन्द्र दादृहि श्रुधी नः
 
-> *avarmaha indra dādhi śrudhī naḥ*
+> *avarmaha indra dādṛhi śrudhī naḥ*
 
 (Ṛ. Saṃ. 1-133-6 and the 7th ṛk, as read by the reader's OCR: "೧-೧೩೩-೬ ಮತ್ತು ೭ ನೆಯ ಋಕ್ಕುಗಳು") — the first words are read doubtfully.
 
