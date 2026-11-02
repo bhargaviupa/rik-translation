@@ -1,0 +1,50 @@
+[
+ {
+  "pdf": 83,
+  "printed": 62,
+  "crop": [
+   0.307,
+   0.338,
+   0.181,
+   0.605
+  ],
+  "note": "ZOOMED, read: viśveṣāṃ (ವಿಶ್ವೇಷಾಂ) devānāṃ; stray dot after anusvara",
+  "answer": ""
+ },
+ {
+  "pdf": 85,
+  "printed": 64,
+  "crop": [
+   0.33,
+   0.352,
+   0.633,
+   0.835
+  ],
+  "note": "ZOOMED, read: 1-118-111 as printed (three ones; sheet agrees)",
+  "answer": ""
+ },
+ {
+  "pdf": 85,
+  "printed": 64,
+  "crop": [
+   0.616,
+   0.639,
+   0.311,
+   0.835
+  ],
+  "note": "ZOOMED, read: vīrāñchaśvata (ಞ್ಛ + ಶ್ವತ)",
+  "answer": ""
+ },
+ {
+  "pdf": 86,
+  "printed": 65,
+  "crop": [
+   0.797,
+   0.817,
+   0.734,
+   0.861
+  ],
+  "note": "ZOOMED, read: Phiṭ. Sū. 17 (flat-footed 7 like 7 in 1-79-4); moderate",
+  "answer": ""
+ }
+]
