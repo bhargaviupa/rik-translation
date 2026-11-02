@@ -6,3 +6,4 @@
 - p.246: Nirukta word 'pratiṣeddhavyavyavahitaḥ [?]' -> 'pratiṣedavyavahitaḥ' as printed (600 dpi, medium); note 'Ni. 9-10 as printed ೬-೧೦' corrected to ೯-೧೦ (sheet 3 row 46 + zoom). DONE PDF 246.
 - p.247: grammar note on savān: earlier 'janasanakhanāṃ saṃ… Pā. 3-2-67 [?]' was a misreading; print (450 dpi) is 'chandasi javasavau vaktavau' with Pā. 3-3-56-4 (sheet 3 row 47 agrees); text/English corrected.
 - p.249: 'part 8, p. 59[?]' -> p. 597 (zoom, OCR raw line agrees; medium-high).
+- p.251: Ni. 3-30 [?] -> 3-20 (sheet 3 row 51 + zoom). DONE PDF 251.
