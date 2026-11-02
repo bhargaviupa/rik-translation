@@ -154,5 +154,29 @@
   ],
   "note": "ZOOMED, read: अवर्मह इन्द्र दादृहि श्रुधी नः (dādṛhi, was dādhi)",
   "answer": ""
+ },
+ {
+  "pdf": 16,
+  "printed": -5,
+  "crop": [
+   0.78,
+   0.8,
+   0.23,
+   0.512
+  ],
+  "note": "ZOOMED, read: अमिनती दैव्यानि (aminatī daivyāni), clear; [?] removed",
+  "answer": ""
+ },
+ {
+  "pdf": 18,
+  "printed": -3,
+  "crop": [
+   0.682,
+   0.711,
+   0.154,
+   0.597
+  ],
+  "note": "ZOOMED: contents row 130 ಏಂದ್ರ ಯಾಹ್ಯುಪ; first vowel e vs ē not decidable (glyph looks like ಏ, differs slightly from ಎ of ಎಂಬ); [?] KEPT",
+  "answer": ""
  }
 ]
