@@ -1,1 +1,3 @@
-Vol 12 scans go in this folder, in page order, named `12 rigveda samhita volume 12 1.pdf`, `… 2.pdf`, … (the number before `.pdf` sets the order; Git LFS if large). Use the best (high-resolution, ~600 dpi) scan from the start; do not translate from a low-resolution copy.
+# Vol 12 scans
+
+Upload scan parts here in page order as `12 Rigveda Samhitha Volume 12 N.pdf` (N = 1, 2, …; Git LFS if large). Use the best (high-resolution, ~600 dpi) scan; while this folder has no numbered PDF the tools fall back to the old `Rig_Vol12.pdf` (repo root; 743 pp, 300 ppi 1-bit, low quality), which must not be used without the user's recorded approval (`vol12_state.md`). After uploading: re-check the page offset (`tools/numsheets.py`), set OFFSET in `tools/cfg.py`, check duplicated/missing pages (header number at the start and end of each part).
