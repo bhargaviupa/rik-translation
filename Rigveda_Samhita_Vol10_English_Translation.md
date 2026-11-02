@@ -4886,7 +4886,7 @@ As described in statements such as *divo duhitā bhānum aśret* (1-92-5), in th
 
 *(Header: "Sāyaṇabhāṣyasahitā"; "Maṃ. 1 A. 18 Sū. 124".)*
 
-The word *brahma* has many meanings. This word is recorded among the names of food (Ni. 3-9, as printed) and among the names of wealth (Ni. 2-10 [?], as printed "೨-೧೦"?); besides these it has also been used as a synonym of *stotra* (praise) and *karma* (rite).
+The word *brahma* has many meanings. This word is recorded among the names of food (Ni. 3-9, as printed) and among the names of wealth (3-9, as printed, without *Ni.*; the numeral sheet agrees); besides these it has also been used as a synonym of *stotra* (praise) and *karma* (rite).
 
 > ब्रह्मा कृणोति वरुणो गातुविदं तमीमहे ।
 > व्यूर्णोति हृदा मतिं नव्यो जायतामृतं विश्वं मे अस्य रोदसी ॥
@@ -4932,9 +4932,9 @@ Here ends the 124th Sūkta. *(Kannada closing line: "ಇಲ್ಲಿಗೆ ನ�
 
 **॥ भूमिका ॥ — Introduction (Sanskrit, from the Sāyaṇa text):**
 
-> प्रातारत्नमिति सप्तर्चं पञ्चमं सूक्तं काक्षीवतम् । दानस्य स्तूयमानत्वाद्दानदेवत्यं यातेनोच्यते [?] सा देवता । अनु. २-५ । इति परिभाषितत्वात् । त्रैष्टुभम् । उपेत्यादिके द्वे जगत्यौ । प्रातारत्नं सप्त सैनयस्य दानस्तुतिस्त्रिष्टुप्जगत्यावित्यनुक्रमणिका ॥
+> प्रातारत्नमिति सप्तर्चं पञ्चमं सूक्तं काक्षीवतम् । दानस्य स्तूयमानत्वाद्दानदेवत्यं या तेनोच्यते सा देवता । अनु. २-५ । इति परिभाषितत्वात् । त्रैष्टुभम् । उपेत्यादिके द्वे जगत्यौ । प्रातारत्नं सप्त सैनयस्य दानस्तुतिस्त्रिष्टुप्जगत्यावित्यनुक्रमणिका ॥
 
-> *prātāratnamiti saptarcaṃ pañcamaṃ sūktaṃ kākṣīvatam | dānasya stūyamānatvāddānadevatyaṃ yātenocyate [?] sā devatā | anu. 2-5 | iti paribhāṣitatvāt | traiṣṭubham | upetyādike dve jagatyau | prātāratnaṃ sapta sainayasya dānastutistriṣṭupjagatyāvityanukramaṇikā ‖*
+> *prātāratnamiti saptarcaṃ pañcamaṃ sūktaṃ kākṣīvatam | dānasya stūyamānatvāddānadevatyaṃ yā tenocyate sā devatā | anu. 2-5 | iti paribhāṣitatvāt | traiṣṭubham | upetyādike dve jagatyau | prātāratnaṃ sapta sainayasya dānastutistriṣṭupjagatyāvityanukramaṇikā ‖*
 
 *(Read from the image; "yā tenocyate sā devatā" is the Anukramaṇī's rule, with the reference "Anu. 2-5" as read by the OCR; the print's numerals are not clear to me.)* "*Prātā ratnam* — the fifth sūkta, of seven ṛks, of Kākṣīvata (Kakṣīvat). Since gift (*dāna*) is what is praised, the deity is *dāna* (the gift): 'that which is said by it, that is the deity' (Anukramaṇī rule). Triṣṭubh; the two beginning with *upa* are Jagatī. *Prātā ratnam* — seven; the praise of the gift of Sainya; Triṣṭubh and Jagatī — thus the Anukramaṇī."
 
@@ -4968,13 +4968,13 @@ Number of ṛks in this Sūkta — 7. Ṛṣi — Kakṣīvān Dairghatamasa Au�
 
 **॥ पदपाठः ॥**
 
-> प्रातरिति [?] । रत्नम् । प्रातःऽइत्वा । दधाति । तम् । चिकित्वान् । प्रतिऽगृह्य । नि । धत्ते ।
+> प्रातरिति । रत्नम् । प्रातःऽइत्वा । दधाति । तम् । चिकित्वान् । प्रतिऽगृह्य । नि । धत्ते ।
 > तेन । प्रजाम् । वर्धयमानः । आयुः । रायः । पोषेण । सचते । सुऽवीरः ॥ १ ॥
 
-> *prātariti [?] | ratnam | prātaḥ 'itvā | dadhāti | tam | cikitvān | prati 'gṛhya | ni | dhatte |*
+> *prātariti | ratnam | prātaḥ 'itvā | dadhāti | tam | cikitvān | prati 'gṛhya | ni | dhatte |*
 > *tena | prajām | vardhayamānaḥ | āyuḥ | rāyaḥ | poṣeṇa | sacate | su 'vīraḥ ‖ 1 ‖*
 
-*(The first Pada word is as printed, "prātar iti" [?]; the Saṃhitā has "āyū" for the Pada's "āyuḥ".)*
+*(The first Pada word is printed "prātariti" (one word); the Saṃhitā has "āyū" for the Pada's "āyuḥ".)*
 
 *Reference numbers printed on this page as read by the reader's Google-Docs OCR (digits only; hyphens and sometimes a digit may be lost — use only as a check):* 2-5; 4-5; 4-5
 
