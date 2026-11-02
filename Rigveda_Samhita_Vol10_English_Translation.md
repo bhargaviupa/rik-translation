@@ -3408,7 +3408,7 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 > *akṣo na cakryoḥ śūra bṛhante mahanā ririce rodasyoḥ |*
 > *vṛkṣasya nu te puruhūta vayā vyūtayo ruruhurindra pūrvīḥ ‖*
 
-(Ṛ. Saṃ. 6-24-? — numerals "೬-೨೪-೯" as I read the print; doubtful [?].) — citing this ṛk, the author of the Nirukta (1-4) gives *vṛkṣasyeva te puruhūta śākhāḥ* — "like a tree, or like the branches of a tree" — for the word *nu*, with the sense of comparison. Likewise it also has the sense "quickly", "in a hurry".
+(Ṛ. Saṃ. 6-24-3, numerals from the user's sheet; the print reads "೬-೨೪-೩".) — citing this ṛk, the author of the Nirukta (1-4) gives *vṛkṣasyeva te puruhūta śākhāḥ* — "like a tree, or like the branches of a tree" — for the word *nu*, with the sense of comparison. Likewise it also has the sense "quickly", "in a hurry".
 
 > नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् ।
 > प्र यः सत्राचा मनसा यजात एतावन्तं नर्यमाविवासात् ॥
@@ -3424,7 +3424,7 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 > *nū indra śūra stavamāna ūtī brahmajūtastanvā vāvṛdhasva |*
 > *upa no vājānmimīhyupa strīnyūyaṃ pāta svastibhiḥ sadā naḥ ‖*
 
-(Ṛ. Saṃ. 7-98-11 [?], as I read the print.) *(Read letter by letter; "upa stīn / strīn" — the print shows "ಉಪ ಸ್ತ್ರೀನ್ಯೂಯಂ", given as "upa strīn yūyam" without completing it from memory.)* In these and other places *adya*, that is, "now", "at once" is the meaning; likewise, as the author of the Nirukta says, *nu ity eṣo 'nekakarmā* (Ni. 1-4) — "this *nu* has many meanings" — in the present ṛk it means "quickly, soon".
+(Ṛ. Saṃ. 7-19-11, numerals from the user's sheet; the print reads "೭-೧೯-೧೧".) *(Read letter by letter; "upa stīn / strīn" — the print shows "ಉಪ ಸ್ತ್ರೀನ್ಯೂಯಂ", given as "upa strīn yūyam" without completing it from memory.)* In these and other places *adya*, that is, "now", "at once" is the meaning; likewise, as the author of the Nirukta says, *nu ity eṣo 'nekakarmā* (Ni. 1-4) — "this *nu* has many meanings" — in the present ṛk it means "quickly, soon".
 
 ***ityai*** — this word means "going": "for going and coming", that is, for moving about. Here one connection is *dvipadāṃ catuṣpadāṃ ca gamanāya* — "for the going of the two-footed and the four-footed"…
 
@@ -3442,7 +3442,7 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 > *tvaṃ kṣatrāya tvaṃ śravase tvaṃ mahīyā iṣṭaye tvamarthamiva tvamityai |*
 > *visadṛśā jīvitābhipracakṣa uṣā ajīgarbhuvanāni viśvā ‖*
 
-(Ṛ. Saṃ. 1-113-3, as read from the print "೧-೧೧೩-೬".) *(Read letter by letter; the Kannada reading of the second line is doubtful: "ajīr" / "ajīgar" given as "ajīgaḥ" [?] — taken exactly as printed.)* — in these ṛks too Uṣas is the one addressed. Here also, in the present ṛk, this word is used to show that she, and she alone, is the helper of the moving about of beings: "you for strength (*kṣatrāya*), you for fame (*śravase*), you ... for going (*ityai*)".
+(Ṛ. Saṃ. 1-113-3, numerals from the user's sheet.) *(Read letter by letter and zoomed: the second line is printed ಅಜೀಗರ್ಭುವನಾನಿ, *ajīgar bhuvanāni*.)* — in these ṛks too Uṣas is the one addressed. Here also, in the present ṛk, this word is used to show that she, and she alone, is the helper of the moving about of beings: "you for strength (*kṣatrāya*), you for fame (*śravase*), you ... for going (*ityai*)".
 
 ***urviyā*** — *uruśabdāt tṛtīyaikavacane urviyā iti rūpam | uruṇā iti | uruśabdāt tṛtīyā vibhaktyekavacane prayuktāyāṃ urviyā*: from the word *uru*, in the instrumental singular, the form is *urviyā*; its meaning is "widely": the sense "extending everywhere, spreading and pervading".
 
@@ -3454,11 +3454,11 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 
 (Ṛ. Saṃ. 10-110-5, as I read the print; the OCR shape agrees.) — as it is used in this ṛk and similar ones, so here also: "may Uṣas, pervading widely, spread out and shine".
 
-> इन्द्रं कक्षीवदेवं [?] च प्रौषसे पृथुरुत्तरे ।
+> ऐन्द्रं कद्वैश्वदेवं च प्रौषसे पृथुरुत्तरे ।
 
-> *indraṃ kakṣīvadevaṃ [?] ca prauṣase pṛthuruttare |*
+> *aindraṃ kadvaiśvadevaṃ ca prauṣase pṛthuruttare |*
 
-(Bṛ. De. 3-140, as read; the first words of the pāda are doubtful in the print.) — that the two Sūktas Ṛ. Saṃ. 1-123 and 1-124 are addressed to the deity Uṣas is the statement of the *Bṛhaddevatā*.
+(Bṛ. De. 3-140, numerals from the user's sheet; the pāda read from the zoomed print ಐಂದ್ರಂ ಕದ್ವೈಶ್ವದೇವಂ ಚ ಪ್ರೌಷಸೇ ಪೃಥುರುತ್ತರೇ.) — that the two Sūktas Ṛ. Saṃ. 1-123 and 1-124 are addressed to the deity Uṣas is the statement of the *Bṛhaddevatā*.
 
 > तथाश्विनशस्त्रे इदमादिसूक्तद्वयस्य विनियोगः ।
 
@@ -3472,11 +3472,11 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 
 *(Header: "Ṛgvedasaṃhitā"; odd page, Aṣṭaka 2, Adhyāya 1, Varga 7.)*
 
-> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्मै सर्वे देवा वरा आगच्छंस्तस्या एतत्सहस्रं वहतुमन्वकरोद्यदेतदाश्विनमित्याचक्षतेऽनश्चैव तद्यदर्वाक्कुहस्तं [?] तस्मात्सहस्रं वैव शंसेद्यो वा प्राश्य घृतं शंसेद्यथा ह वा इदमनो वा रथो वाक्तो [?] वर्तत एवं हैवाक्तो [?] वर्तते । शकुनिरिवोत्पतिष्यन्नाहैयात ।
+> प्रजापतिर्वै सोमाय राज्ञे दुहितरं प्रायच्छत्सूर्यां सावित्रीं तस्मै सर्वे देवा वरा आगच्छंस्तस्या एतत्सहस्रं वहतुमन्वकरोद्यदेतदाश्विनमित्याचक्षतेऽनाश्विनं हैव तद्यदर्वाक्सहस्रं तस्मात्तत्सहस्रं वैव शंसेद्यो वा प्राश्य घृतं शंसेद्यथा ह वा इदमनो वा रथो वाक्तो वर्तत एवं हैवाक्तो वर्तते । शकुनिरिवोत्पतिष्यन्नाहैयात ।
 
-> *prajāpatirvai somāya rājñe duhitaraṃ prāyacchatsūryāṃ sāvitrīṃ tasmai sarve devā varā āgacchaṃstasyā etatsahasraṃ vahatumanvakarodyadetadāśvinamityācakṣate 'naścaiva tadyadarvākkuhastaṃ [?] tasmātsahasraṃ vaiva śaṃsedyo vā prāśya ghṛtaṃ śaṃsedyathā ha vā idamano vā ratho vākto [?] vartata evaṃ haivākto [?] vartate | śakunirivotpatiṣyannāhaiyāta |*
+> *prajāpatirvai somāya rājñe duhitaraṃ prāyacchatsūryāṃ sāvitrīṃ tasmai sarve devā varā āgacchaṃstasyā etatsahasraṃ vahatumanvakarodyadetadāśvinamityācakṣate 'nāśvinaṃ haiva tadyadarvāksahasraṃ tasmāttatsahasraṃ vaiva śaṃsedyo vā prāśya ghṛtaṃ śaṃsedyathā ha vā idamano vā ratho vākto vartata evaṃ haivākto vartate | śakunirivotpatiṣyannāhaiyāta |*
 
-*(Read letter by letter from the image; the words "arvākkuhastam" and "vākto/ākto" are doubtful in the print, and I give them as read, not as I would complete them; the OCR of this page is garbled and does not help here.)* In the earlier part Prajāpati, resolving to give his daughter Sūryā to Soma for marriage, all the gods came wishing to choose her. Then Prajāpati laid down a condition that the thousand mantras known as the Āśvina-śastra be recited, and that it should not fall short of that. As a cart-wheel, once it is smeared with oil, turns smoothly, so after drinking ghee (*kṛtapāna*) the mantras can be recited smoothly; therefore one must first drink ghee and afterwards recite. And just as a bird, ready to fly, makes its body light, so the suitor of her must have that quality [of lightness].
+*(Read letter by letter from the image and zooms. Corrected from the earlier doubtful reading: the print has "…ācakṣate 'nāśvinaṃ haiva tad yad arvāksahasraṃ tasmāt tat sahasraṃ vaiva…", and "vākto vartata … haivākto vartate" (ವಾಕ್ತೋ). The final word of the passage, ನ್ನಾಹ್ಯಯಾತ in the print, is kept as before.)* In the earlier part Prajāpati, resolving to give his daughter Sūryā to Soma for marriage, all the gods came wishing to choose her. Then Prajāpati laid down a condition that the thousand mantras known as the Āśvina-śastra be recited, and that it should not fall short of that. As a cart-wheel, once it is smeared with oil, turns smoothly, so after drinking ghee (*kṛtapāna*) the mantras can be recited smoothly; therefore one must first drink ghee and afterwards recite. And just as a bird, ready to fly, makes its body light, so the suitor of her must have that quality [of lightness].
 
 > तस्मिन्देवा न समजानत ममेदं ममेदमस्त्विति ते संजानाना अब्रुवन्नाजिमस्यायामहे स यो न उज्जेष्यति तस्येदं भविष्यतीति तेऽग्नेरेवाधि गृहपतेरादित्यं काष्ठामकुर्वत तस्मादाग्नेयी प्रतिपद्भवत्याश्विनस्याग्निर्होता गृहपतिः स राजेति ।
 
@@ -3484,13 +3484,13 @@ Number of ṛks in this Sūkta — 13 (as printed "೧೩"). Ṛṣi — Kakṣ�
 
 Then the gods, not agreeing among themselves (each saying "let her be mine, let her be mine"), all came together for one agreement: "In the race, whoever wins — to him she belongs"; and they went to a single race-ground. Then, starting from Agni, the *gṛhapati*, they ran as far as the Sun. Therefore the first mantra is the one addressed to Agni:
 
-> स त्वं दक्षस्यावृको वृधो भूर्यः परस्यान्तरस्य तरुषः ।
+> स त्वं दक्षस्यावृको वृधो भूरर्यः परस्यान्तरस्य तरुषः ।
 > रायः सूनो सहसो मर्त्येष्वा छर्दिर्यच्छ वीतहव्याय सप्रथो भरद्वाजाय सप्रथः ॥
 
-> *sa tvaṃ dakṣasyāvṛko vṛdho bhūryaḥ parasyāntarasya taruṣaḥ |*
+> *sa tvaṃ dakṣasyāvṛko vṛdho bhūraryaḥ parasyāntarasya taruṣaḥ |*
 > *rāyaḥ sūno sahaso martyeṣvā chardiryaccha vītahavyāya sapratho bharadvājāya saprathaḥ ‖*
 
-(Ṛ. Saṃ. 6-15-3, as I read the print "೬-೧೫-೨"; the OCR gives no usable numerals [?].) *(Read letter by letter from the image; the pāda division and a few syllables are not completely clear in the print, I give them as read.)* — this is the ṛk addressed to Agni. This is one view. But others say that one should begin with:
+(Ṛ. Saṃ. 6-15-3, numerals from the user's sheet; the print reads "೬-೧೫-೩".) *(Read letter by letter from the image; the pāda division and a few syllables are not completely clear in the print, I give them as read.)* — this is the ṛk addressed to Agni. This is one view. But others say that one should begin with:
 
 > अग्निं मन्ये पितरमग्निमापिमग्निं भ्रातरं सदमित्सखायम् ।
 > अग्नेरनीकं बृहतः सपर्यं दिवि शुक्रं यजतं सूर्यस्य ॥
