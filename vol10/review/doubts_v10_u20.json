@@ -130,5 +130,29 @@
   ],
   "note": "ZOOMED, read: Ai.Br. 22-7 (flat-footed glyph, medium)",
   "answer": ""
+ },
+ {
+  "pdf": 276,
+  "printed": 255,
+  "crop": [
+   0.215,
+   0.265,
+   0.247,
+   0.858
+  ],
+  "note": "ZOOMED 450/700 dpi, read: Ai.Br. passage; several letters UNDECIDED (yadvaiva, punar-?ṣṭhaṃ, yatpunanivṛttaṃ)",
+  "answer": ""
+ },
+ {
+  "pdf": 276,
+  "printed": 255,
+  "crop": [
+   0.749,
+   0.816,
+   0.227,
+   0.858
+  ],
+  "note": "ZOOMED, read: vṛṣann indrāstu śrauṣaḷ oṣū ṇo agne śṛṇuhi tvam īḷito ye devāso",
+  "answer": ""
  }
 ]

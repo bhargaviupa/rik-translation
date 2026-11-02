@@ -129,9 +129,9 @@ The details of the *trayastriṃśa Stoma* we have already told. Nevertheless in
 
 That is: the *tṛca* to be recited (the group of three ṛks) in the first *paryāya*, the first ṛk to be recited three times, the second ṛk seven times, the third ṛk once (so that eleven ṛks are recited). In the second *paryāya* the first ṛk of the *tṛca* is recited once, the second ṛk three times, the third ṛk seven times (altogether 11 ṛks). In the third *paryāya* the first ṛk is recited seven times, the second once, the third three times (altogether 11 ṛks). In this way, since the number of ṛks recited in the three *paryāyas* is three times eleven, that is thirty-three, this Stoma has the name *trayastriṃśa-stoma*. The Sāman produced from the ṛk "*revatīr naḥ sadhamāde*" (Ṛ. Saṃ. 1-30-13, as printed and as read by the OCR) has the name *Raivata*. A metre with more syllables than Gāyatrī is called *Aticchandas*. On this sixth day the deities are Vāk, Gau and Dyau. The Stoma is to be praised with the *trayastriṃśa*; with the Raivata Sāman it is to be sung. The ṛks of the Aticchandas metre are to be recited (for the Śastra mantras). These are the special programmes of this sixth day.
 
-> यद्वै समानोदर्कं तत्षष्ठस्याह्नो रूपं यद्वैव तृतीय-महस्तदेतत्पुनर्यत्षष्ठं यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुनर्निवृत्तं यद्रेतवद्यत्पर्यस्तवद्यत्रिवद्यदन्तरूपं यदुत्तमे पदे देवता निरुच्यते यदसौ लोकोऽभ्युदितः ॥
+> यद्वै समानोदर्कं तत्षष्ठस्याह्नो रूपं यद्वैव [?] तृतीयमहस्तदेतत्पुनर्[?]ष्ठं यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुननिवृत्तं [?] यद्रतवद्यत्पर्यस्तवद्यत्रिवद्यदन्तरूपं यदुत्तमे पदे देवता निरुच्यते यदसौ लोकोऽभ्युदितः ॥
 
-> *yadvai samānodarkaṃ tatṣaṣṭhasyāhno rūpaṃ yadvaiva tṛtīya-mahastadetatpunaryatṣaṣṭhaṃ yadaśvavadyadantavadyatpunarāvṛttaṃ yatpunarnivṛttaṃ yadretavadyatparyastavadyatrivadyadantarūpaṃ yaduttame pade devatā nirucyate yadasau loko 'bhyuditaḥ ‖*
+> *yadvai samānodarkaṃ tatṣaṣṭhasyāhno rūpaṃ yadvaiva [?] tṛtīyamahastadetatpunar[?]ṣṭhaṃ yadaśvavadyadantavadyatpunarāvṛttaṃ yatpunanivṛttaṃ [?] yadratavadyatparyastavadyatrivadyadantarūpaṃ yaduttame pade devatā nirucyate yadasau loko 'bhyuditaḥ ‖*
 
 (Ai. Brā. 22-7, as printed "೨೨-೭"; the second line is in bold small type and a few letters are doubtful.) The programme that is carried out on the third day of this sacrifice is also to be observed on the sixth day. In reciting the mantras on the third day, the *aśvavat*, *antavat* and so on that were said are also to be recited on the sixth day again. But on the sixth day there is one special order.
 
@@ -6634,7 +6634,7 @@ We have explained the *trayastriṃśa* stoma before. Yet the description of thi
 
 > *yadvai samānodarkaṃ tatṣaṣṭhasyāhno rūpaṃ yadvai tṛtīyamahastadetatturyaṃ yadaśvavadṛtuvadāvṛttaṃ yatsanivṛttaṃ yadratavadyadantavadyatriryathāstavaṃ [?] yadantarūpaṃ yaduttame pade devatā nirucyate yadasau loko 'bhyuditaḥ ‖*
 
-(Ai. Br. 22-? [?], as printed "ಐ. ಬ್ರಾ. ೨೨-೭" — numerals small.) *(Read from the print and the OCR; a very small passage, flagged as unverified.)* The rites of the third day of this sacrifice are to be observed also on the sixth day. What was said at the recitation of mantras on the third day, such as "*aśvavat*", "*antavat*" (those containing the word *aśva* and so on), must be recited again on the sixth day. But on the sixth day there is a special order.
+(Ai. Br. 22-7, as printed "ಐ. ಬ್ರಾ. ೨೨-೭"; value as on the user's numeral sheet.) *(Read from the print by zoom; the places marked [?] in the Sanskrit are not settled.)* The rites of the third day of this sacrifice are to be observed also on the sixth day. What was said at the recitation of mantras on the third day, such as "*aśvavat*", "*antavat*" (those containing the word *aśva* and so on), must be recited again on the sixth day. But on the sixth day there is a special order.
 
 > यत्पारुच्छेपं यत्सप्तपदं यन्नाराशंसं यन्नाभानेदिष्ठं यद्वैरतवं यदतिच्छन्दा यत्कृतं यत्तृतीयस्याह्नो रूपमेतानि वै षष्ठस्याह्नो रूपाणि ॥
 
@@ -6648,9 +6648,9 @@ On that day one must recite ṛks seen by the ṛṣi Paruccheṣa, which have s
 
 The *ājya-śastra* mantra to be recited on the sixth day must be the ṛks of the sūkta *ayaṃ jāyata manuṣo dharīmaṇi* [Ṛ. Saṃ. 1-128], seen by Paruccheṣa. The metre of these is *ati*, that is, they have more syllables than the ordinary metres, and these ṛks have seven *pādas* (3 *pādas* in the first half, 2 in the middle half, 2 in the last half — in all 7). All these are special rites of the sixth day.
 
-> स्तीर्णं बर्हिरुप नो याहि वीतये । आ वां रथो नियुत्वान्वक्षदवसे । सुषुमा यातमद्रिभिः । युवां स्तोमेभिर्देवयन्तो अश्विनावर्मह इन्द्र । वृषन्निन्द्रास्तु शौषट् [?]… ज्ञातवे [?]… ये देवासो…
+> स्तीर्णं बर्हिरुप नो याहि वीतये । आ वां रथो नियुत्वान्वक्षदवसे । सुषुमा यातमद्रिभिः । युवां स्तोमेभिर्देवयन्तो अश्विनावर्मह इन्द्र । वृषन्निन्द्रास्तु श्रौषळोषूणो [?] अग्ने शृणुहि त्वमीळितो ये देवासो…
 
-> *stīrṇaṃ barhirupa no yāhi vītaye | ā vāṃ ratho niyutvānvakṣadavase | suṣumā yātamadribhiḥ | yuvāṃ stomebhirdevayanto aśvināvarmaha indra | vṛṣannindrāstu śauṣaṭ [?]… jñātave [?]… ye devāso…*
+> *stīrṇaṃ barhirupa no yāhi vītaye | ā vāṃ ratho niyutvānvakṣadavase | suṣumā yātamadribhiḥ | yuvāṃ stomebhirdevayanto aśvināvarmaha indra | vṛṣannindrāstu śrauṣaḷoṣūṇo [?] agne śṛṇuhi tvamīḷito ye devāso…*
 
 *(These are the opening words of the ṛks listed on the next page; I give them in the order in which the print lists them and do not complete them from memory.)*
 
