@@ -18165,4 +18165,136 @@ The sister fingers, which are the milch cows of the Neshtri, are those which acc
 
 ---
 
-**Progress note:** Done through printed p. 499 (PDF 520). Maṇḍala 2 Sūkta 5: Ṛk 4 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics with Nirukta quotation on vrata, rule). Ṛk 5 begun: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; **Ṛk 5 is open**: its Special Topics begin at the foot of p. 499 (word स्वसारः) and continue on p. 500. The cleaning noted earlier for Ṛk 2's duplicate Pada/Saṃhitā blocks (p. 493) is still pending. FILE DISAGREE: none (no file rows for pp. 497–499). Not zoomed: headers (Varga 26 on pp. 497 and 499), Ṛk numeral 5, Nirukta/Nighaṇṭu references (3-2, 3-28, 3-13, 2-13, and 3-8 for स्वसारः, all [?] except 2-13), the numeral 16 (ṛtvijs). [?] places: p. 498 वृतानि; p. 499 bhāṣya नेष्टुर्विर्वाचितुः.
+### Printed p. 500 (PDF 521)
+
+*(Header: "500", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page. The Special Topics of Ṛk 5 continue from p. 499; the first word is cut off at the left margin, so only its ending "…dāradū" is visible.)*
+
+(Kannada, translated, continued.) …whatever work is done, things are placed in their proper places by these fingers. That is, because the fingers are used when work is done, these fingers are called स्वसारः (*svasāraḥ*). Or the word स्वसारः (*svasāraḥ*) may also be formed from the root षद्ऌ [?]—विशरणे (*ṣadḷ [?]—viśaraṇe*) taken together with a word printed ಸ್ತೆ [?], which I take to be the prefix-word *sva*. In this connection the following is given:
+
+> स्वं स्वं व्यापारं गच्छंति प्राप्नुवंति स्वस्मिन् स्वस्मिन् हस्ते सीदंतीति वा—
+
+> *svaṃ svaṃ vyāpāraṃ gacchaṃti prāpnuvaṃti svasmin svasmin haste sīdaṃtīti vā—*
+
+Kannada: these fingers, staying in their own hands, that is, the left or the right hands, engage in their own works (actions); therefore स्वसारः (*svasāraḥ*) means fingers. And again:
+
+> अथवा परस्परं भगिनीव दृश्यंते, एकहस्तप्रभुत्वात् स्वसार उच्यंते—
+
+> *athavā parasparaṃ bhaginīva dṛśyaṃte, ekahastaprabhutvāt svasāra ucyaṃte—*
+
+That is: the fingers born in one hand are seen, one beside another, like elder and younger sisters; therefore the word स्वसारः (*svasāraḥ*) means fingers. In this way the etymological sense of the word can be given in three ways. In the Ṛgveda the word स्वसारः (*svasāraḥ*) is used in many places in the sense of fingers:
+
+*Cited (Ṛg. Saṃ. 1-62-10, numerals not zoomed):*
+
+> पुरू सहस्रा जनयो न पत्नीर्दुवस्यंति स्वसारो अह्रयाणं ।
+
+> *purū sahasrā janayo na patnīrduvasyaṃti svasāro ahrayāṇaṃ |*
+
+In this Ṛk, for the word स्वसारः (*svasāraḥ*) the bhāṣyakāra gives:
+
+> स्वयमेव सरंत्योंऽगुलयः—
+
+> *svayameva saraṃtyoṃ 'gulayaḥ—*
+
+That is, because their movement in the performance of works goes on of itself, the bhāṣyakāra explains this word as meaning fingers. And again:
+
+*Cited (Ṛg. Saṃ. 1-71-1, numerals not zoomed; the word after अजुष्र is doubtful):*
+
+> स्वसारः श्यावीमरुषीमजुष्र [?] चित्रमुच्छंतीमुषसं न गावः ।
+
+*Cited (Ṛg. Saṃ. 3-29-13):*
+
+> दश स्वसारो अग्रुवः समीचीः पुमांसं जातमभि सं रभंते ।
+
+*Cited (Ṛg. Saṃ. 4-6-8):*
+
+> द्विर्यं पंच जीजनन्त्संवसानाः स्वसारो अग्निं मानुषीषु विक्षु ।
+
+> *dviryaṃ paṃca jījanantsaṃvasānāḥ svasāro agniṃ mānuṣīṣu vikṣu |*
+
+In these Ṛks and others, the word स्वसारः (*svasāraḥ*) has been given the meaning "fingers" alone.
+
+**कुवित्** (*kuvit*) — Among the twelve names of "many" beginning with उरु (*uru*), तुवि (*tuvi*) and so on, the word कुवित् (*kuvit*) is read (Ni. 3-13 [?], printed "ಸಿ. ೩-೧೩", the abbreviation ಸಿ. [sic] for Ni.); therefore कुवित् (*kuvit*) means "abundantly, many times".
+
+**नेष्टुः** (*neṣṭuḥ*) — Sāyaṇa's words (the word is printed clearly here as हविर्याचितुः (*haviryācituḥ*) and भक्षयितुः (*bhakṣayituḥ*); this corrects the readings विर्वाचितुः (*virvācituḥ*) and भुक्षयितुः (*bhukṣayituḥ*) noted [?] on p. 499):
+
+> नेष्टुः—हविर्याचितुर्भक्षयितुः पोषयितुर्नेतुर्वास्याग्नेः । यद्वैतन्नामकऋत्विग्रूपस्य ।
+
+> *neṣṭuḥ—haviryāciturbhakṣayituḥ poṣayiturneturvāsyāgneḥ | yadvaitannāmakaṛtvigrūpasya |*
+
+Kannada: Sāyaṇa explains this word as Agni who asks for the havis, who eats, who nourishes (promotes), and who leads (carries) the havis to the gods; or as Agni who has the form of the ṛtvij called Neṣṭṛ. That is, Agni who desires the havis, who eats it, who increases it, who takes to the gods the havis that the sacrificers offer in the fire; or who himself performs (the page ends in the middle of the sentence: …) the work of the ṛtvij named Neṣṭṛ. [The sentence runs over onto p. 501.]
+
+### Printed p. 501 (PDF 522)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "501", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+(Kannada, translated, continued.) …and who himself completes the rite of the ṛtvij called Neṣṭṛ; this is the intention.
+
+**तिसृभ्य आ वरं** (*tisṛbhya ā varaṃ*) — This means the Agni who is in the three forms (fire-pits): Gārhapatya, Āhavanīya and Dakṣiṇāgni.
+
+Here the word धेनवः (*dhenavaḥ*) is used as a qualifier of the word स्वसारः (*svasāraḥ*), in the sense "giving pleasure like cows". The fingers in the hand of the ṛtvij Neṣṭṛ serve abundantly the three forms of Agni in the sacrificial rites. The chief intention is: as cows give milk and please, so the services and the like performed by the fingers of the Neṣṭṛ please Agni.
+
+*(A short rule is printed here, ending the Special Topics of Ṛk 5.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral ೬, the hooked glyph, not zoomed.)*
+
+> यदी मातुरुप स्वसा घृतं भरंत्यस्थित ।
+> तासामध्वर्युरागतौ युवो वृष्टीव मोदते ॥ ६ ॥
+
+> *yadī māturupa svasā ghṛtaṃ bharaṃtyasthita |*
+> *tāsāmadhvaryurāgatau yuvo vṛṣṭīva modate ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the avagraha mark is printed after वृष्टी and आ, as in वयाःऽइव (*vayāḥ 'iva*) of Ṛk 4; the first line has no visarga after वृष्टी in the print: written वृष्टीऽ इव, as printed.)*
+
+> यदि । मातुः । उप । स्वसा । घृतं । भरंती । अस्थित ।
+> तासां । अध्वर्युः । आऽगतौ । युवः । वृष्टीऽ इव । मोदते ॥ ६ ॥
+
+> *yadi | mātuḥ | upa | svasā | ghṛtaṃ | bharaṃtī | asthita |*
+> *tāsāṃ | adhvaryuḥ | ā 'gatau | yuvaḥ | vṛṣṭī ' iva | modate ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 6)**
+
+*Gist:* When the ladles, sisters of the altar, stand near Agni full of ghee, Agni as Adhvaryu rejoices at their arrival, like barley at rain.
+
+> यदि यदा मातुः सर्वस्य निर्मातुर्भूम्या वेदिलक्षणायाः स्वसा स्वसृस्थानीयो जुहूर्घृतं भरंती सत्युपास्थिते । उपतिष्ठेदग्निं । एकवचनमविवक्षितं । जुहूपभृद्ध्रुवा घृतं भरंत्यस्तिष्ठंतीत्यर्थः । तदा तासां जुहृादीनामागतौ यागाय प्राप्तौ सत्यामध्वर्युरेतन्नामक ऋत्विग्रूपोऽध्वरं कामयमानो वायुमग्निर्मोदते [?] । हृष्यति । युवो वृष्टीव वृष्ट्या यथा मोदते तद्वत् ॥
+
+> *yadi yadā mātuḥ sarvasya nirmāturbhūmyā vedilakṣaṇāyāḥ svasā svasṛsthānīyo juhūrghṛtaṃ bharaṃtī satyupāsthite | upatiṣṭhedagniṃ | ekavacanamavivakṣitaṃ | juhūpabhṛddhruvā ghṛtaṃ bharaṃtyastiṣṭhaṃtītyarthaḥ | tadā tāsāṃ juhṛādīnāmāgatau yāgāya prāptau satyāmadhvaryuretannāmaka ṛtvigrūpo 'dhvaraṃ kāmayamāno vāyumagnirmodate [?] | hṛṣyati | yuvo vṛṣṭīva vṛṣṭyā yathā modate tadvat ‖*
+
+*(Printed जुहृादीनाम् (*juhṛādīnām*) for जुह्वादीनाम् in one place is my reading of a doubtful conjunct; the word before अग्निर्मोदते (*agnirmodate*) is printed as वायुम् (*vāyum*) [?]. No grammatical tail beyond the sense is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6)**
+
+(Kannada, translated:) यदि (*yadi*) — when; मातुः (*mātuḥ*) — of the earth, the maker of the world and of the form of the altar; स्वसा (*svasā*) — the ladles that are of sister-nature; घृतं (*ghṛtaṃ*) — the ājya (clarified butter); भरंति (*bharaṃti*) — filling; उप अस्थिते (*upa asthite*) — when Agni is placed near, (then); तासां (*tāsāṃ*) — of those ladles, Juhū and the rest; आगतौ (*āgatau*) — at the time of their coming; अध्वर्युः (*adhvaryuḥ*) — Agni who desires the sacrifice, or who is named Adhvaryu; युवः (*yuvaḥ*) — the barley grain (printed ಯುವ, "yuva"); वृष्टीव (*vṛṣṭīva*) — as it shows joy at the coming of rain; मोदते (*modate*) — rejoices.
+
+**भावार्थ (Bhāvārtha — Ṛk 6)**
+
+(Kannada, translated:) When the ladles Juhū and the rest, being sisters to the earth in the form of the altar, filled with ājya, Agni comes near, then Agni, who desires the sacrifice, rejoices exceedingly, as the barley grain shows joy at the time of the coming of rain.
+
+### Printed p. 502 (PDF 523)
+
+*(Header: "502", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page. The Pratipadārtha and Bhāvārtha above run over from p. 501 to this page; the lines from "…ಅಗ್ನಿಯು ಸಮೀಪದಲ್ಲಿ" onward are on p. 502.)*
+
+**English Translation** *(as printed, Ṛk 6)*
+
+When the sister, (vessel), bearing the clarified butter, is placed near the maternal (altar), the Adhwaryu (Agni) rejoices at their approach, like barley (at the fall of) rain.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 6)**
+
+(Kannada, translated.)
+
+In this Ṛk the meaning of the words मातुः स्वसा (*mātuḥ svasā*) is not stated clearly, but the bhāṣyakāra has fitted the meanings "altar" and "Juhū" to them according to the context and explained them so. For the word मातृ (*mātṛ*) various meanings are given according to context: mother, maker, altar, world, earth. Here he gives the meaning "sacrificial altar", and for the word स्वसा (*svasā*) he explains "the Juhū, which is like a sister to the altar, the wooden ladle with which ājya is offered". Although the sense fits well with this explanation, there remains a doubt as to whether these words have really been used in these meanings.
+
+अध्वर्युः घृतं भरंती आगतौ युवः वृष्टीव मोदते (*adhvaryuḥ ghṛtaṃ bharaṃtī āgatau yuvaḥ vṛṣṭīva modate*) — The comparison stated in this illustration fits well. When the ṛtvij called Adhvaryu, having filled the ladles used for offering with ājya (ghee) for the oblation in the fire, comes near Agni, the joy that arises in Agni is described thus: as the plants of barley welcome with great joy the rain that they need, so Agni too is gladdened.
+
+*(A short rule is printed here, ending the Special Topics of Ṛk 6.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 502 (PDF 523). Maṇḍala 2 Sūkta 5: Ṛk 5 complete (Special Topics finished on pp. 500–501: svasāraḥ etymologies, citations 1-62-10, 1-71-1, 3-29-13, 4-6-8, kuvit, neṣṭuḥ, tisṛbhya ā varam, dhenavaḥ). Ṛk 6 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); no Ṛk is open. Next: Ṛk 7 begins on p. 503. The p. 499 reading ⟦विर्वाचितुः⟧ / ⟦भुक्षयितुः⟧ is corrected by the clearer p. 500 print ⟦हविर्याचितुः⟧ / ⟦भक्षयितुः⟧ (noted in the text; earlier text not edited). FILE DISAGREE: none (no file rows for pp. 500–502). Not zoomed: headers (Varga 26 on p. 501), Ṛk numeral 6, citation numerals (1-62-10, 1-71-1, 3-29-13, 4-6-8, Ni. 3-13). [?] places: p. 500 root ⟦षद्ऌ⟧ and the word printed ಸ್ತೆ, citation 1-71-1 word after अजुष्र; p. 501–502 bhāṣya ⟦वायुम्⟧, ⟦जुहृादीनाम्⟧; Pada ⟦वृष्टीऽ इव⟧ avagraha form. Cleaning of Ṛk 2's duplicate Pada/Saṃhitā blocks (p. 493) still pending.
