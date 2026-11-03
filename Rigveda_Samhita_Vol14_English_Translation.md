@@ -13646,4 +13646,92 @@ Now the Hotṛ, as the ninth ṛk —
 
 ---
 
-**Progress note:** Done through printed p. 389 (PDF 409). Mandala 2 Sukta 1 Rk 1 OPEN: Special Topics continuing (churning rks 6-16-40, 41, 42, 1-12-6 explained, Tai. Saṃ. 6-3-5-2, 3 quoted); Hotṛ's next ṛk to follow on p. 390. Flags: header varga numeral (17) read from strip, not in numeral file; p. 387 ref 1-24-3 not in file, zoomed, read 1-24-3; [?] on p. 388 (one word in the Tai. Saṃ. quotation, kriyamāṇe?) and p. 389 (santsateti? in the Brāhmaṇa quotation).
+### Printed p. 390 (PDF 410)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 1 Special Topics continuing.)*
+
+> त्वं ह्यग्ने अग्निना विप्रो विप्रेण सन्त्सता । सखा सख्या समिध्यसे ॥
+
+> *tvaṃ hyagne agninā vipro vipreṇa santsatā | sakhā sakhyā samidhyase ‖*
+
+*(Ṛ. Saṃ. 8-43-14, numeral agrees with the file. The word सन्त्सता here is printed clearly; it resolves the [?] at "santsateti" on p. 389.)* — the Hotṛ recites this ṛk (the eleventh). "O newly-born Agni, you, the wise one, joined with the wise Āhavanīya Agni, be happy as a friend joined with a friend is happy" — this is the purport.
+
+> तं मर्जयन्त सुक्रतुं पुरोयावानमाजिषु । स्वेषु क्षयेषु वाजिनमिति । एष ह वा अस्य स्वः क्षयो यदग्निरग्नेः । यज्ञेन यज्ञमयजन्त देवा इत्युत्तमया परिदधाति । यज्ञेन वै तद्देवा यज्ञमयजन्त यदग्निनाग्निमयजन्त ते स्वर्गं लोकमायन् तानि धर्माणि प्रथमान्यासन् । ते ह नाकं महिमानः सचन्ते यत्र पूर्वे साध्याः सन्ति देवा इति छन्दांसि वै साध्या देवास्तेऽग्रेऽग्निनाग्निमयजन्त ते स्वर्गं लोमायन् ॥
+
+> *taṃ marjayanta sukratuṃ puroyāvānamājiṣu | sveṣu kṣayeṣu vājinamiti | eṣa ha vā asya svaḥ kṣayo yadagniragneḥ | yajñena yajñamayajanta devā ityuttamayā paridadhāti | yajñena vai taddevā yajñamayajanta yadagnināgnimayajanta te svargaṃ lokamāyan tāni dharmāṇi prathamānyāsan | te ha nākaṃ mahimānaḥ sacante yatra pūrve sādhyāḥ santi devā iti chandāṃsi vai sādhyā devāste 'gre 'gnināgnimayajanta te svargaṃ lomāyan ‖*
+
+*(The last word is printed लोमायन्, without the क of लोकमायन्, as it looks on the zoom [sic]; the same phrase earlier in the passage and on the next page has लोकमायन्.)*
+
+Then the Hotṛ recites the ṛk तं मर्जयन्त सुक्रतुं (*taṃ marjayanta sukratuṃ*) (Ṛ. Saṃ. 8-85-8, as in the file). Having said this, he establishes Agni in the Āhavanīya fire, his own dwelling-place; then, as the last ṛk of the Agni-churning, that is the 13th (printed "13"), the ṛk यज्ञेन यज्ञमयजन्त देवाः (*yajñena yajñamayajanta devāḥ*) (Ṛ. Saṃ. 10-90-16) the Hotṛ recites and so concludes the churning. Here the placing of the churned Agni (the Agni being carried forward, *prahriyamāṇa*) together with the Āhavanīya Agni is what is meant by अग्निनाग्निमयजन्त (*agnināgnimayajanta*). Or: this very act is stated in the last ṛk यज्ञेन यज्ञमयजन्त देवाः (*yajñena yajñamayajanta devāḥ*). Here the word साध्याः (*sādhyāḥ*) means the presiding deities of the metres such as Gāyatrī. These deities of old worshipped the Āhavanīya Agni with the churned Agni, and therefore obtained the heaven-world.
+
+> आदित्याश्चैवेहासन्नङ्गिरसश्च तेऽग्रेऽग्निनाग्निमयजन्त ते स्वर्गं लोकमायन् सैषा स्वर्ग्याहुतिर्यदग्न्याहुतिर्यदि ह वा अप्यब्राह्मणोक्तो यदि दुरुक्तोक्तो यजतेऽथ हैषाहुतिर्गच्छत्येव देवान्न पाप्मना संसृज्यते गच्छत्यस्याहुतिर्देवान्नास्याहुतिः पाप्मना संसृज्यते य एवं वेद ॥
+
+> *ādityāścaivehāsannaṅgirasaśca te 'gre 'gnināgnimayajanta te svargaṃ lokamāyan saiṣā svargyāhutiryadagnyāhutiryadi ha vā apyabrāhmaṇokto yadi duruktokto yajate 'tha haiṣāhutirgacchatyeva devānna pāpmanā saṃsṛjyate gacchatyasyāhutirdevānnāsyāhutiḥ pāpmanā saṃsṛjyate ya evaṃ veda ‖*
+
+Likewise the Ādityas and the Aṅgirases, as said before, performed the sacrifice and went to heaven. This Agni-oblation is the direct way to heaven. Even if the chief priest, while this sacrificial act is going on, is not a Brāhmaṇa as the śāstra requires, or is a bad man, only the Agni-oblation offered in the sacrifice brings the yajamāna to heaven. The faults of the priest do not touch the yajamāna who performs the sacrifice; that is, he suffers no harm from them. He who knows this order of the Agni-oblation described above reaches the gods in heaven, and no contact with sin attaches to him.
+
+### Printed p. 391 (PDF 411)
+
+*(Header: "A. 2 A. 5 Va. 17", "Ṛgvedasaṃhitā"; the Varga numeral was zoomed and read 17, consistent with p. 389. Ṛk 1 Special Topics continuing.)*
+
+Here only "even though he is not a Brāhmaṇa as the śāstra requires" has been said in the sentence above; an explanation of that is necessary. Although some persons have obtained, by birth alone as Brāhmaṇas, the right of conducting sacrifices (the right to have sacrifices performed), they misuse their right and become sharers of guilt. Among these *abrāhmaṇas* the smṛtis speak of six kinds. Thus —
+
+> अब्राह्मणास्तु षट् प्रोक्ता इति शातातपोऽब्रवीत् ।
+> आद्यस्तु राजभृत्यः स्याद्द्वितीयः क्रयविक्रयी ।
+> तृतीयो बहुयाज्याख्यश्च तुर्थोऽश्रौतयाजकः ।
+> पंचमो ग्रामयाजी च षष्ठो ब्रह्मबन्धुः स्मृतः ॥
+
+> *abrāhmaṇāstu ṣaṭ proktā iti śātātapo 'bravīt |*
+> *ādyastu rājabhṛtyaḥ syāddvitīyaḥ krayavikrayī |*
+> *tṛtīyo bahuyājyākhyaśca turtho 'śrautayājakaḥ |*
+> *paṃcamo grāmayājī ca ṣaṣṭho brahmabandhuḥ smṛtaḥ ‖*
+
+*(Printed तुर्थो in the third line [sic] for चतुर्थो.)*
+
+Who the *abrāhmaṇas* are, Śātātapa has said in this way: (1) *Rājabhṛtya*: those who, for a livelihood, take refuge in the king and serve him. (2) Those who live by buying and selling and the like: who set up a shop or the like and live by selling goods. (3) Those who, though they have income enough for a livelihood, from the evil hope of gaining more wealth make it their profession to have sacrifices (or priestly rites) performed for anyone whatever: they are called *bahuyājins*. (4) *Aśrautayājakas*: although they are accomplished in the study of the Veda for performing Śrauta acts, that is, sacrifices and the like, they do not engage in Śrauta rites in that way nor have them performed for others, but engage only in Smārta rites, which are not of the highest kind. (5) *Grāmayājakas*: those who, in villages or towns, for anyone whatever, fit or unfit, have sacrifices performed out of desire for wealth; they are called village-and-town priests. (6) *Brahmabandhu*: those who do not perform the twilight rites and the like at the right time at sunrise and sunset. To the rites conducted by priests of these six kinds the above words *abrāhmaṇokta* ("spoken of by a non-Brāhmaṇa") or *duruktokta* have been applied.
+
+> ता एतास्त्रयोदशान्वाह रूपसमृद्धा एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति । तासां त्रिःप्रथमामन्वाह त्रिरुत्तमां ताः सप्तदश संपद्यन्ते सप्तदशो वै प्रजापतिर्द्वादश मासाः पंचर्तवस्त्रावान्संवत्सरः[?] संवत्सरः प्रजापतिः प्रजापत्यायतनाभिरेवाभीराध्नोति य एवं वेद त्रिः प्रथमां त्रिरुत्तमामन्वाह यज्ञस्स्यैव तद्ब्रसौ[?] नह्यति स्थेम्ने बलायोविस्रंसाय ॥
+
+> *tā etāstrayodaśānvāha rūpasamṛddhā etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati | tāsāṃ triḥprathamāmanvāha triruttamāṃ tāḥ saptadaśa saṃpadyante saptadaśo vai prajāpatirdvādaśa māsāḥ paṃcartavastrāvānsaṃvatsaraḥ[?] saṃvatsaraḥ prajāpatiḥ prajāpatyāyatanābhirevābhīrādhnoti ya evaṃ veda triḥ prathamāṃ triruttamāmanvāha yajñassyaiva tadbrasau[?] nahyati sthemne balāyovisraṃsāya ‖*
+
+*(Ai. Brā. 3-5, numeral as in the file. Doubtful: the word before संवत्सरः in the fourth line, and तद्ब्रसौ at the end of the line; both zoomed and left as printed.)*
+
+In this way the ṛks used in the Agni-churning are thirteen in all. The ṛks addressed to the Rakṣoghna deity [the first letters of this line are cut off at the left edge of the scan; the number before "ṛks" is lost: [?]] are not included in this. Because these thirteen ṛks are recited at the respective times,
+
+### Printed p. 392 (PDF 412)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Close of the Special Topics of Ṛk 1; Ṛk 2: Saṃhitā, Pada, the beginning of the bhāṣya. No grammar page for Ṛk 1 is printed between.)*
+
+the churning of Agni, the origin of Agni, the carrying of Agni and placing him in the Āhavanīya, and joining him there with the Āhavanīya fire — all these acts are completed with all their parts by the recitation of the ṛks suited to the moment; this is called *rūpasamṛddhi* ("perfection of form"). Of these thirteen ṛks the first ṛk (the ṛk अभि त्वा देव सवितः (*abhi tvā deva savitaḥ*)) and the last ṛk (the ṛk यज्ञेन यज्ञमयजन्त देवाः (*yajñena yajñamayajanta devāḥ*)) must be recited by the Hotṛ three times each. Hence in this Agni-churning seventeen ṛks are recited in all. Prajāpati has the nature of the number seventeen (*saptadaśa*): for twelve months and five seasons together make one year; that year is Prajāpati. Therefore he who knows the meaning of these ṛks, placed in Prajāpati, attains prosperity. By reciting the first and last ṛks thrice each, the bonds (knots) of the sacrifice become firm and tight, and have room to stand fast without slipping — thus it is set forth in the Aitareya Brāhmaṇa (Ai. Brā. 3-5) on the Agni-churning.
+
+**अग्निनिर्मंथनविधिः समाप्तः** — "The rule of the Agni-churning is concluded" (printed in Kannada, centred), then a short rule and the heading "Saṃhitā-pāṭha".
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> तवाग्ने होत्रं तव पोत्रमृत्वियं तव नेष्टं त्वमग्निदृतायतः ।
+> तव प्रशास्त्रं त्वमध्वरीयसि ब्रह्मा चासि गृहपतिश्च नो दमे ॥ २ ॥
+
+> *tavāgne hotraṃ tava potramṛtviyaṃ tava neṣṭaṃ tvamagnidṛtāyataḥ |*
+> *tava praśāstraṃ tvamadhvarīyasi brahmā cāsi gṛhapatiśca no dame ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> तव । अग्ने । होत्रं । तव । पोत्रं । ऋत्वियं । तव । नेष्टं । त्वं । अग्नित् । ऋतऽयतः ।
+> तव । प्रऽशास्त्रं । त्वं । अध्वरिऽयसि । ब्रह्मा । च । असि । गृहऽपतिः । च । नः । दमे ॥ २ ॥
+
+> *tava | agne | hotraṃ | tava | potraṃ | ṛtviyaṃ | tava | neṣṭaṃ | tvaṃ | agnit | ṛta 'yataḥ |*
+> *tava | pra 'śāstraṃ | tvaṃ | adhvari 'yasi | brahmā | ca | asi | gṛha 'patiḥ | ca | naḥ | dame ‖ 2 ‖*
+
+*(In the Pada the compound mark is read after प्र, ऋत, अध्वरि, गृह as it looks; the line break in the Pada printing falls after ऋतऽयतः. the first line of the Pada wraps after ऋतऽयतः; the mark in that word looks like "ऋत्स-" in the strip and is read as the compound mark, not zoomed.)*
+
+**॥ सायणभाष्यं ॥**
+
+> हे अग्ने होत्रं होतुः कर्म शस्त्रयाज्यादिलक्षणं यदस्ति तदपि तवैव । त्वदीयमित्यर्थः । तथा पोत्रं पोतुः कर्म यदस्ति तदपि तवैव । तथा ऋत्वियं
+
+> *he agne hotraṃ hotuḥ karma śastrayājyādilakṣaṇaṃ yadasti tadapi tavaiva | tvadīyamityarthaḥ | tathā potraṃ potuḥ karma yadasti tadapi tavaiva | tathā ṛtviyaṃ*
+
+---
+
+**Progress note:** Done through printed p. 392 (PDF 412). Mandala 2 Sukta 1: Rk 1 concluded (Special Topics, Agni-churning ends p. 392; no grammar page for Rk 1 printed); Rk 2 Samhita, Pada and the beginning of the bhasya (to 'tatha rtviyam') written; the bhasya continues on p. 393. Flags: p. 391 header varga 17 zoomed, read 17; p. 390 last word loma-yan printed without ka (as printed); p. 391 [?] on two words in the Ai. Brā. quotation (pañcartavas... samvatsarah, tadbrasau) and on the cut-off numeral at the left edge of the last lines (Rakshoghna ṛks); numerals 8-43-14, 8-85-8, 10-90-16, 3-5 agree with file; 13 (ṛk count) not in file, read from strip.

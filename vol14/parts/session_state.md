@@ -140,3 +140,5 @@ Batch 67 (Sonnet #24): done through printed p. 383 (PDF 403). Sūkta 1 Ṛk 1 OP
 Batch 68 (Sonnet #25): done through printed p. 386 (PDF 406). Sūkta 1 Ṛk 1 still OPEN in Special Topics (last item: Ṛg 10-118 rakṣoghna sūkta quoted in full at foot of p.386); grammar of Ṛk 1, then Ṛk 2, from p. 387 = PDF 407. [?] x1 (first letter of Sāyaṇa line top of p.384). FILE DISAGREE p.386: file 6-6-13, zoom 6-16-13 (written). 2 zooms. Note: no printed English for Ṛk 1 seen yet — check.
 
 Batch 69 (Sonnet #26): done through printed p. 389 (PDF 409). Sūkta 1 Ṛk 1 still OPEN in Special Topics (Hotṛ churning ṛks, Tai. Saṃ. 6-3-5); continues p. 390 = PDF 410. Printed English of Ṛk 1 exists (written earlier). [?] x2 (Tai. Saṃ. 'kriyamāṇe'?, Brāhmaṇa 'santsateti'?; approx fractions). 1 zoom (1-24-3 ok). Varga 17 from strip.
+
+Batch 70 (Sonnet #27): done through printed p. 392 (PDF 412). Sūkta 1 Ṛk 1 COMPLETE (no grammar printed); Ṛk 2 OPEN: Saṃhitā, Pada, start of bhāṣya ('tathā ṛtviyaṃ'); bhāṣya continues p. 393 = PDF 413. [?] x3 (Ai. Brā. words on p.391; cut-off numeral p.391). 8 zooms; Varga 17 zoomed p.391. [sic] 'turtho'. No FILE DISAGREE.
