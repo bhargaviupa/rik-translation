@@ -18297,4 +18297,130 @@ In this Ṛk the meaning of the words मातुः स्वसा (*mātuḥ
 
 ---
 
-**Progress note:** Done through printed p. 502 (PDF 523). Maṇḍala 2 Sūkta 5: Ṛk 5 complete (Special Topics finished on pp. 500–501: svasāraḥ etymologies, citations 1-62-10, 1-71-1, 3-29-13, 4-6-8, kuvit, neṣṭuḥ, tisṛbhya ā varam, dhenavaḥ). Ṛk 6 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); no Ṛk is open. Next: Ṛk 7 begins on p. 503. The p. 499 reading ⟦विर्वाचितुः⟧ / ⟦भुक्षयितुः⟧ is corrected by the clearer p. 500 print ⟦हविर्याचितुः⟧ / ⟦भक्षयितुः⟧ (noted in the text; earlier text not edited). FILE DISAGREE: none (no file rows for pp. 500–502). Not zoomed: headers (Varga 26 on p. 501), Ṛk numeral 6, citation numerals (1-62-10, 1-71-1, 3-29-13, 4-6-8, Ni. 3-13). [?] places: p. 500 root ⟦षद्ऌ⟧ and the word printed ಸ್ತೆ, citation 1-71-1 word after अजुष्र; p. 501–502 bhāṣya ⟦वायुम्⟧, ⟦जुहृादीनाम्⟧; Pada ⟦वृष्टीऽ इव⟧ avagraha form. Cleaning of Ṛk 2's duplicate Pada/Saṃhitā blocks (p. 493) still pending.
+### Printed p. 503 (PDF 524)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "503", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral ७ is the flat-footed glyph, not zoomed. In the first line the print shows what looks like a न् before ऋत्विग्, i.e. "कृणुतान्ऋत्विगृत्विजं"; the Pada has कृणुतां । ऋत्विक् । I give the Saṃhitā as printed [?].)*
+
+> स्वः स्वाय धायसे कृणुतान्ऋत्विगृत्विजं [?] ।
+> स्तोमं यज्ञं चादरं वनेमा ररिमा वयं ॥ ७ ॥
+
+> *svaḥ svāya dhāyase kṛṇutānṛtvigṛtvijaṃ [?] |*
+> *stomaṃ yajñaṃ cādaraṃ vanemā rarimā vayaṃ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> स्वः । स्वाय । धायसे । कृणुतां । ऋत्विक् । ऋत्विजं ।
+> स्तोमं । यज्ञं । च । आत् । अरं । वनेम । ररिम । वयं ॥ ७ ॥
+
+> *svaḥ | svāya | dhāyase | kṛṇutāṃ | ṛtvik | ṛtvijaṃ |*
+> *stomaṃ | yajñaṃ | ca | āt | araṃ | vanema | rarima | vayaṃ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 7)**
+
+*Gist:* Agni himself, as the divine ṛtvij, is asked to perform the priests' duties of this rite; we, by his favour, praise and offer oblations in full measure.
+
+> अयमग्निः स्वः स्वयमेव स्वाय स्वकीयाय धायसे कर्मणे हविषां धारणाय वा ऋत्विक् होताजनिष्वेत्यादिनोक्तलक्षणो होतृपोतृप्रशास्त्राद्यृत्विग्रूपः सन् ऋत्विजमार्त्विज्यं ॥ भावप्रधानोऽयं निर्देशः ॥ देवर्त्विग्रूपः सन् ऋत्विजं मानुषमार्त्विज्यं कृणुतां । करोतु । वयं च तदनुग्रहात् अदनंतरमेव स्तोमं स्तोत्रं यज्ञं च तदाश्रयं योगमुप्यैरमलमत्यर्थं [?] वनेम । संभजेमहि । ररिम ददेमहि च हविः । यद्वा स्तोमं वनेम यज्ञं यज्ञयोग्यं हवी ररिम ॥
+
+> *ayamagniḥ svaḥ svayameva svāya svakīyāya dhāyase karmaṇe haviṣāṃ dhāraṇāya vā ṛtvik hotājaniṣvetyādinoktalakṣaṇo hotṛpotṛpraśāstrādyṛtvigrūpaḥ san ṛtvijamārtvijyaṃ ‖ bhāvapradhāno 'yaṃ nirdeśaḥ ‖ devartvigrūpaḥ san ṛtvijaṃ mānuṣamārtvijyaṃ kṛṇutāṃ | karotu | vayaṃ ca tadanugrahāt adanaṃtarameva stomaṃ stotraṃ yajñaṃ ca tadāśrayaṃ yogamupyairamalamatyarthaṃ [?] vanema | saṃbhajemahi | rarima dademahi ca haviḥ | yadvā stomaṃ vanema yajñaṃ yajñayogyaṃ havī rarima ‖*
+
+*(The words योगमुप्यैरमलमत्यर्थं (*yogamupyairamalamatyarthaṃ*) are given as printed and are doubtful [?]; no grammatical tail beyond the sense is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 7)**
+
+(Kannada, translated:) (अयमग्निः (*ayamagniḥ*) — this Agni.) स्वः (*svaḥ*) — himself; स्वाय (*svāya*) — for his own; धायसे (*dhāyase*) — for the rite, or for the holding (bearing) of the oblations; ऋत्विक् (*ṛtvik*) — as the ṛtvij of the form of the Hotṛ and the others described before; ऋत्विजं (*ṛtvijaṃ*) — the work to be accomplished by the Hotṛ and the others; कृणुतां (*kṛṇutāṃ*) — may he accomplish; वयं (*vayaṃ*) — we also; आत् (*āt*) — immediately after that; स्तोमं (*stomaṃ*) — the stotra (praise); यज्ञं च (*yajñaṃ ca*) — and the sacrifice based on it; अरं (*araṃ*) — fully; वनेम (*vanema*) — we worship (resort to); ररिम (*rarima*) — we also offer the oblation.
+
+**भावार्थ (Bhāvārtha — Ṛk 7)**
+
+(Kannada, translated:) May this Agni, himself in the form of the ṛtvij, for his own rite, accomplish the work to be accomplished by the Hotṛ and the others. Immediately after that, we also fully resort to the stotra and to the sacrifice based on it, (accomplishing them), and we offer the oblation.
+
+### Printed p. 504 (PDF 525)
+
+*(Header: "504", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**English Translation** *(as printed, Ṛk 7)*
+
+May he, the ministering priest, discharge the office of priest at his own ceremony, and may we worthily repeat (his) praise, and offer (him) sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 7)**
+
+(Kannada, translated.)
+
+**सः ऋत्विक् ऋत्विजं कृणुतां (*saḥ ṛtvik ṛtvijaṃ kṛṇutāṃ*)** — In this sacrifice, which Agni himself accomplishes, the wish is stated here that, as said before, he himself should carry out the duties of the many ṛtvijs who take part in the sacrifice — Hotṛ, Potṛ, Praśāstṛ and the rest — and bring the sacrifice to completion. The use of the words ऋत्विक् ऋत्विजं (*ṛtvik ṛtvijaṃ*) here indicates all the ṛtvijs, Hotṛ and the others. That is, Agni himself (in the form of each respective ṛtvij) does the works that all of them do. The intention is that Agni, who is of the form of the divine ṛtvij, does the works that the human ṛtvijs do.
+
+**स्तोमं यज्ञं चादरं वनेमा ररिमा वयं (*stomaṃ yajñaṃ cādaraṃ vanemā rarimā vayaṃ*)** — If, as said above, Agni himself does the sacrificial works that all the ṛtvijs do, what is it that we have to do? The answer: we also, in the sacrifice, recite the stotras and the like and praise the gods, and offer the oblations and the like; thus the works done by us (the sacrificers and the others) are also described.
+
+*(A short divider line ":o:" is printed here, ending Ṛk 7.)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral ८ is the "ಲ"-like glyph, not zoomed.)*
+
+> यथा विद्वा अरं करद्विश्वेभ्यो यजतेभ्यः ।
+> अयमग्ने त्वे अपि यं यज्ञं चकृमा वयं ॥ ८ ॥
+
+> *yathā vidvā araṃ karadviśvebhyo yajatebhyaḥ |*
+> *ayamagne tve api yaṃ yajñaṃ cakṛmā vayaṃ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> यथा । विद्वान् । अरं । करत् । विश्वेभ्यः । यजतेभ्यः ।
+> अयं । अग्ने । त्वे इति । अपि । यं । यज्ञं । चकृम । वयं ॥ ८ ॥
+
+> *yathā | vidvān | araṃ | karat | viśvebhyaḥ | yajatebhyaḥ |*
+> *ayaṃ | agne | tve iti | api | yaṃ | yajñaṃ | cakṛma | vayaṃ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 8)**
+
+*Gist:* Agni, grant that the knowing sacrificer may offer full worship to all the gods worthy of sacrifice, and that our sacrifice may be perfected in you also.
+
+> हे अग्ने विद्वान् त्वन्माहात्म्याभिज्ञः प्रयोगज्ञो वा यजमानो यथा विश्वेभ्यो यजतेभ्यः सर्वेभ्यो यजनीयेभ्यो देवेभ्योऽरं पर्याप्तं करत्
+
+> *he agne vidvān tvanmāhātmyābhijñaḥ prayogajño vā yajamāno yathā viśvebhyo yajatebhyaḥ sarvebhyo yajanīyebhyo devebhyo 'raṃ paryāptaṃ karat*
+
+### Printed p. 505 (PDF 526)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "505", read from the strip, not zoomed. The numeral file has no rows for this page. The Sāyaṇa-bhāṣya of Ṛk 8 runs over from p. 504 (it ends there with करत् (*karat*)) and continues here.)*
+
+> कुर्यात् तथा त्वमनुगृहाणेत्यर्थः । वयमपि यं यज्ञं योगविशेषं चकृम कुर्महे स योगस्त्वे अपि ॥ अपिरेवार्थे ॥ तस्यैव [?] त्वत्प्रीत्यर्थः । त्वमेव तस्मात्तं सर्वदेवार्थयोगं तत्तदृत्विग्रूपः सन् निर्वहेत्यर्थः ॥
+
+> *kuryāt tathā tvamanugṛhāṇetyarthaḥ | vayamapi yaṃ yajñaṃ yogaviśeṣaṃ cakṛma kurmahe sa yogastve api ‖ apirevārthe ‖ tasyaiva [?] tvatprītyarthaḥ | tvameva tasmāttaṃ sarvadevārthayogaṃ tattadṛtvigrūpaḥ san nirvahetyarthaḥ ‖*
+
+*(The word तस्यैव (*tasyaiva*) is doubtful in the print [?]; no grammatical tail beyond the sense is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 8)**
+
+(Kannada, translated:) अग्ने (*agne*) — O Agni; विद्वान् (*vidvān*) — the sacrificer who knows your greatness (or who is expert in the performance); यथा (*yathā*) — in whatever manner; विश्वेभ्यः (*viśvebhyaḥ*) — to all; यजतेभ्यः (*yajatebhyaḥ*) — to the gods who are worthy of sacrifice; अरं (*araṃ*) — so as to be full (complete); करत् (*karat*) — offers worship, (so favour him); वयमपि (*vayamapi*) — we also; यं यज्ञं (*yaṃ yajñaṃ*) — whatever sacrifice; चकृम (*cakṛma*) — we accomplish, (that sacrifice); त्वे अपि (*tve api*) — in you also, (may it obtain) fulfilment.
+
+**भावार्थ (Bhāvārtha — Ṛk 8)**
+
+(Kannada, translated:) O Agni, may you so favour that the worship offered by the sacrificer, who knows your greatness and knows the nature of the performance, reaches all the gods worthy of sacrifice together and brings them satisfaction. May the sacrifice which we have accomplished be offered to you too, and obtain fulfilment in you also.
+
+**English Translation** *(as printed, Ṛk 8)*
+
+And do you, Agni, (grant), that this wise (worshipper) may worthily offer (worship) to all the adorable (divinities), and that the sacrifice which we offer may also be perfected in you.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 8)**
+
+(Kannada, translated.)
+
+This Ṛk is of the nature of a conclusion to this sūkta. The prayer is stated that the sacrifice we perform may bring satisfaction to the gods and also to you, Agni.
+
+**विद्वान्—त्वन्माहात्म्याभिज्ञः प्रयोगज्ञो वा यजमानः (*vidvān—tvanmāhātmyābhijñaḥ prayogajño vā yajamānaḥ*)** — The sacrificer who performs the sacrifice is one who knows your greatness, Agni, and your extraordinary personality; or who knows the various programmes to be carried out in the sacrifice and the rules for performing them.
+
+**विश्वेभ्यः यजतेभ्यः (*viśvebhyaḥ yajatebhyaḥ*)** — A prayer was made to Agni: "Favour that satisfaction may come to all those gods whom we invoke in this sacrifice and whom we intend to satisfy with stotras and the like and with the offering of oblations."
+
+**अयं अग्ने त्वे अपि यज्ञं चकृमा वयं (*ayaṃ agne tve api yajñaṃ cakṛmā vayaṃ*)** — Not only favour that the gods concerned are satisfied, but also (favour) that in this sacrifice which we perform, joy may arise in you too (in Agni)… *(The sentence is cut off at the end of the page and continues on p. 506.)*
+
+*(Ṛk 8 is left open in its Special Topics.)*
+
+---
+
+**Progress note:** Done through printed p. 505 (PDF 526). Maṇḍala 2 Sūkta 5: Ṛk 7 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; closed on p. 504 with a ":o:" divider). Ṛk 8 begun on p. 504 (Saṃhitā, Pada, bhāṣya start) and continued on p. 505 (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); **Ṛk 8 is open: its Special Topics break off mid-sentence at the foot of p. 505 ("…ನಿನಗೂ (ಅಗ್ನಿಗೂ) ಸಂತೋಷವುಂಟಾಗುವಂತೆ"), continuing on p. 506**; the sūkta's closing colophon/varga note has not yet appeared. FILE DISAGREE: none (the numeral file has no rows for pp. 503–505). Not zoomed: headers (Varga 26 on pp. 503 and 505), Ṛk numerals 7 and 8. [?] places: p. 503 Saṃhitā ⟦कृणुतान्ऋत्विगृत्विजं⟧ (a न् seems printed before ऋ); bhāṣya ⟦योगमुप्यैरमलमत्यर्थं⟧; p. 505 bhāṣya ⟦तस्यैव⟧ (doubtful).
