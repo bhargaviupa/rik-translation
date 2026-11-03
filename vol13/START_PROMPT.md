@@ -6,7 +6,7 @@
 
 You are starting Volume 13 of the Rigveda Samhita translation project (Kannada → English; repo bhargaviupa/rik-translation). Work on a new branch `claude/vol13` from origin/main (git push -u origin claude/vol13; no PRs; merge to main only when I say; never force-push). Read CLAUDE.md first, then vol13/README.md, vol13/vol13_state.md (set-up checklist) and vol13/vol13_runbook.md (draft runbook: the nine principles). For method, look at vol11's files (Rigveda_Samhita_Vol11_English_Translation.md and _Kannada_Text.md) and vol5/vol5_runbook.md (digit key).
 
-SCANS: vol13/scans/ — 6 parts, 677 PDF pages, ~660–720 ppi 1-bit. vol13/tools/cfg.py maps global PDF page → part+page (`part_of`; `git lfs pull` if pointers). The older 300-dpi scan is Rig_Vol13.pdf at the repo root (fallback only).
+SCANS: vol13/scans/ — 6 parts, 677 PDF pages, ~660–720 ppi 1-bit. vol13/tools/cfg.py maps global PDF page → part+page (`part_of`; `git lfs pull` if pointers). The older 300-dpi scan is vol13/scans/Rig_Vol13.pdf at the repo root (fallback only).
 
 KNOWN PROBLEM: several scan pages are upside down (180°), e.g. around PDF 6–7 and 10–11 (maybe more). vol13/tools/orient_v13.py (OCR in both orientations; keeps the one with more Kannada letters; writes vol13/review/orient_v13.json) is a locating aid: run it (python3 vol13/tools/orient_v13.py 1 677 4) unless the JSON is already on main, spot-check 6–8 pages visually, and make vol13/tools/view.py auto-rotate pages marked 180 so you never view an upside-down page.
 
