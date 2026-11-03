@@ -18055,4 +18055,114 @@ Besides this, Agni himself does all the actions that the wise ṛtvijs do in the
 
 ---
 
-**Progress note:** Done through printed p. 496 (PDF 517). Maṇḍala 2 Sūkta 5: Ṛk 2 complete (printed English, Special Topics with Yāska's Ṛ. Saṃ. 10-64-5 and Ni. 11-23, then a rule). Ṛk 3 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, rule). Ṛk 4 begun on p. 496: Saṃhitā and Pada written. **Ṛk 4 is open**: bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow from p. 497. The cleaning noted in the previous note for Ṛk 2's duplicate Pada/Saṃhitā blocks (p. 493) is still pending. FILE DISAGREE: none (no file rows for pp. 494–496). Not zoomed: headers (Varga 26 on p. 495), Ṛk numerals 3 and 4, references Ṛ. Saṃ. 10-64-5 and Ni. 11-23. [?] places: p. 494 आर्यमा/अर्यमा in the Yāska verse; p. 496 Saṃhitā विद्वाँ (small mark above first letter); bhāṣya word वहिर्वेष्टन printed with व (as printed).
+### Printed p. 497 (PDF 518)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "497", read from the strip, not zoomed. The numeral file has no rows for this page. Ṛk 4 continues from p. 496.)*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 4)**
+
+*Gist:* Agni, self-pure and the regulator, was born together with the purifying rites; the sacrificer who knows his fixed rites performs them in order, like spreading branches.
+
+> शुचिः स्वयं शोधकः प्रशास्ता देवानां एतन्नामक ऋत्विक् प्रशासिता वा यज्ञविघ्नानां शुचिना क्रतुना शोधकेनाग्निहोत्रादिकर्मणा साकं हि सहैवाजनि । उत्पन्नः । जातमात्र एव शुद्धः सर्वस्य प्रशास्ता च सन्नग्निहोत्रादिनिर्वोढाभवदित्यर्थः । अस्याग्नेर्ध्रुवा ध्रुवाणि फलपर्यवसायीनि व्रतानि कर्माणि विद्वान् जानन् यजमानो वयो इव विस्तृताः शाखा इवानुरोहते । क्रमेणानुतिष्ठति ॥
+
+> *śuciḥ svayaṃ śodhakaḥ praśāstā devānāṃ etannāmaka ṛtvik praśāsitā vā yajñavighnānāṃ śucinā kratunā śodhakenāgnihotrādikarmaṇā sākaṃ hi sahaivājani | utpannaḥ | jātamātra eva śuddhaḥ sarvasya praśāstā ca sannagnihotrādinirvoḍhābhavadityarthaḥ | asyāgnerdhruvā dhruvāṇi phalaparyavasāyīni vratāni karmāṇi vidvān jānan yajamāno vayo iva vistṛtāḥ śākhā ivānurohate | krameṇānutiṣṭhati ‖*
+
+*(No grammatical tail beyond the sense is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 4)**
+
+(Kannada, translated:) शुचिः (*śuciḥ*) — himself the purifier; प्रशास्ता (*praśāstā*) — the destroyer of the obstacles of the sacrifice; or, Agni who is the ṛtvij of that name (Praśāstṛ); शुचिना (*śucinā*) — the purifying; क्रतुना साकं हि (*kratunā sākaṃ hi*) — together with the rites such as the Agnihotra; अजनि (*ajani*) — was born; अस्य (*asya*) — of this Agni; ध्रुवा व्रता (*dhruvā vratā*) — the rites that end in their fruit; विद्वान् (*vidvān*) — the sacrificer who knows; वयो इव (*vayo iva*) — like spreading branches; अनु रोहते (*anu rohate*) — following Agni's pattern (the Kannada word is printed ಮಾದರಿ, "model, pattern"), he ascends (carries them out) in order.
+
+**भावार्थ (Bhāvārtha — Ṛk 4)**
+
+(Kannada, translated:) Agni, himself the purifier and the destroyer of the obstacles of the sacrifice, was born together with the purifying rites such as the Agnihotra. The sacrificers who resort to the fruit-ending rites of this Agni, who is the root, as the branches of a tree spread following the tree that is their root, carry them out in order, following the pattern of Agni alone.
+
+**English Translation** *(as printed, Ṛk 4)*
+
+The pure regulator (of the sacrifice) is born verily together with the holy act; the wise (worshipper) performs all his, (Agni's), prescribed rites in succession, as the branches spring (from a common stem).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 4)**
+
+(Kannada, translated.)
+
+In this Ṛk Agni is described as performing the work of the Praśāstṛ. The Praśāstṛ is one of the 16 ṛtvijs (the numeral printed, not zoomed). The duty of this ṛtvij is to prevent the obstacles that may arise in the sacrifice and to see that the sacrifice proceeds with all its parts complete. Therefore, "प्रशास्ता प्रशासिता वा यज्ञविघ्नानां शुचिना क्रतुना शोधकेनाग्निहोत्रादिकर्मणा (*praśāstā praśāsitā vā yajñavighnānāṃ śucinā kratunā śodhakenāgnihotrādikarmaṇā*)" — that is, he purifies the obstacles of the sacrifice by his command, or by rites of the nature of expiation such as the Agnihotra, and makes the sacrifice go forward. Therefore he is called Praśāstṛ — (the one who lays down that "the sacrifice must proceed in this way"; the text continues on p. 498).
+
+### Printed p. 498 (PDF 519)
+
+*(Header: "498", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+(Kannada, translated, continued.) …the one who regulates, who commands, who orders: such is the name. It is described here that Agni was born from such a ṛtvij-form.
+
+An illustration is given here for the rites carried out in the sacrifice. वयो इव अनु रोहते (*vayo iva anu rohate*) — as a tree grows, branches grow one above another all round its trunk; in the same way, in the sacrifice, as soon as one rite has been done according to an orderly rule, the rite that follows it is performed. The meaning is that the sacrificer, knowing these rites of Agni, which are of the nature of rules, performs them accordingly.
+
+The word क्रतु (*kratu*) is read among the names of action (Ni. 3-2, as it appears [?]; numerals not zoomed). And for the word kratu the meaning "wisdom" (prajñā) is also given there: क्रतुं कर्म वा प्रज्ञां वा (*kratuṃ karma vā prajñāṃ vā*) (Ni. 3-28 [?]). Or the word kratu is read among the 11 names of wisdom beginning with केतः (*ketaḥ*) (Ni. 3-13 [?]).
+
+व्रता (*vratā*) — वृतानि [?] (*vṛtāni [?]*): actions, rules. व्रतमिति कर्मनाम, वृणोतीति सतः (*vratamiti karmanāma, vṛṇotīti sataḥ*): "vrata" means karma. Because this karma (sin or meritorious action) always covers (surrounds) the doer who performs the action, karma is called vrata. Or,
+
+> इदमपीतरत् व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः । अन्नमपि व्रतमुच्यते यदा वृणोति शरीरं ॥
+
+> *idamapītarat vratametasmādeva nivṛttikarma vārayatīti sataḥ | annamapi vratamucyate yadā vṛṇoti śarīraṃ ‖*
+
+(Ni. 2-13, as printed.)
+
+Besides this, the abstention-rites (nivṛtti-karma) such as yama and niyama are also called vrata. This applies to Vedic rites done in the presence of Agni and to other rites as well. Therefore, वारयतीति सतः (*vārayatīti sataḥ*): because it keeps away from men the things, such as women, that cause obstacles to the rite of abstention, it is called vrata. And because food, as the support of the body, pervades the body and nourishes it, food too is called vrata: so the derivation of the word vrata has been given.
+
+*(A short rule is printed here, ending the Special Topics of Ṛk 4.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral ೫, not zoomed.)*
+
+> ता अस्य वर्णमायुवो नेष्टुः सचंत धेनवः ।
+> कुवित्तिसृभ्य आ वरं स्वसारो या इदं ययुः ॥ ५ ॥
+
+> *tā asya varṇamāyuvo neṣṭuḥ sacaṃta dhenavaḥ |*
+> *kuvittisṛbhya ā varaṃ svasāro yā idaṃ yayuḥ ‖ 5 ‖*
+
+### Printed p. 499 (PDF 520)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26.]", "Ṛgvedasaṃhitā", "499", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**॥ पदपाठः ॥**
+
+> ताः । अस्य । वर्णं । आयुवः । नेष्टुः । सचंत । धेनवः ।
+> कुवित् । तिसृभ्यः । आ । वरं । स्वसारः । याः । इदं । ययुः ॥ ५ ॥
+
+> *tāḥ | asya | varṇaṃ | āyuvaḥ | neṣṭuḥ | sacaṃta | dhenavaḥ |*
+> *kuvit | tisṛbhyaḥ | ā | varaṃ | svasāraḥ | yāḥ | idaṃ | yayuḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 5)**
+
+*Gist:* The fingers, which carry out this rite, are the milch cows and sisters of Agni as Neṣṭṛ; they serve his excellent form, belonging to the three fires, in many ways.
+
+> या वक्ष्यमाणलक्षणा या अंगुलय इदमनुष्ठीयमानं कर्म ययुः । अनुतिष्ठंति । ता आयुवो गंत्र्यो व्याप्ता धेनवः प्रीणयित्र्यः स्वसारः स्वयं सारिण्योऽंगुलयो नेष्टुर्विर्वाचितुर्भुक्षयितुः शोधयितुः पोषयितुर्नेतुर्वास्याग्नेः । यद्वैतन्नामकऋत्विग्रूपस्य । तिसृभ्य आ गार्हपत्यादिमूर्तीनामपि वरं वर्णं कुवित् बहुकृत्वः सचंते । सेवंते । परिचरंति ॥
+
+> *yā vakṣyamāṇalakṣaṇā yā aṃgulaya idamanuṣṭhīyamānaṃ karma yayuḥ | anutiṣṭhaṃti | tā āyuvo gaṃtryo vyāptā dhenavaḥ prīṇayitryaḥ svasāraḥ svayaṃ sāriṇyo 'ṃgulayo neṣṭurvirvāciturbhukṣayituḥ śodhayituḥ poṣayiturneturvāsyāgneḥ | yadvaitannāmakaṛtvigrūpasya | tisṛbhya ā gārhapatyādimūrtīnāmapi varaṃ varṇaṃ kuvit bahukṛtvaḥ sacaṃte | sevaṃte | paricaraṃti ‖*
+
+*(In the bhāṣya the word group after अंगुलयो (*aṃgulayo*) is printed as नेष्टुर्विर्वाचितुर्भुक्षयितुः (*neṣṭurvirvāciturbhukṣayituḥ*); the middle word is doubtful [?]. No grammatical tail is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 5)**
+
+(Kannada, translated:) याः (*yāḥ*) — which fingers; इदं (*idaṃ*) — this specified rite; ययुः (*yayuḥ*) — accomplish; ताः (*tāḥ*) — those same fingers; आयुवः (*āyuvaḥ*) — which spread out for the sake of the rite; धेनवः (*dhenavaḥ*) — which give pleasure; स्वसारः (*svasāraḥ*) — which are mutually of sister-nature; नेष्टुः (*neṣṭuḥ*) — of the one who is of Neṣṭṛ form; अस्य (*asya*) — of this Agni; तिसृभ्यः आ (*tisṛbhyaḥ ā*) — belonging to all three forms, Gārhapatya and the rest; वरं वर्णं (*varaṃ varṇaṃ*) — the excellent form; कुवित् (*kuvit*) — in many ways; सचंते (*sacaṃte*) — serve.
+
+**भावार्थ (Bhāvārtha — Ṛk 5)**
+
+(Kannada, translated:) The fingers which accomplish this specified rite, the same fingers, spreading out for the sake of the rite, giving pleasure, and being sisters to one another, serve in many ways the excellent form of this Agni, who is of Neṣṭṛ form, belonging to all three forms, Gārhapatya and the rest.
+
+**English Translation** *(as printed, Ṛk 5)*
+
+The sister fingers, which are the milch cows of the Neshtri, are those which accomplish his, (Agni's), worship; and in various ways are combined for this purpose through the three (sacred fires).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 5)**
+
+(Kannada, translated.)
+
+स्वसारः (*svasāraḥ*) — Because the word स्वसारः (*svasāraḥ*) is read among the names of fingers (Ni. 3-8 as it appears [?]; numerals not zoomed), it means "fingers". For this word, formed from the root असु—क्षेपणे (*asu—kṣepaṇe*) together with the prefix सु (*su*), he gives: सुष्ठु अस्यते क्षिप्यते पदार्थः आभिः कार्येषु क्षेप्तव्या वा (*suṣṭhu asyate kṣipyate padārthaḥ ābhiḥ kāryeṣu kṣeptavyā vā*) — that is, which… (the sentence is cut off at the end of the page and continues on p. 500).
+
+*(Ṛk 5 is left open in its Special Topics.)*
+
+---
+
+**Progress note:** Done through printed p. 499 (PDF 520). Maṇḍala 2 Sūkta 5: Ṛk 4 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics with Nirukta quotation on vrata, rule). Ṛk 5 begun: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; **Ṛk 5 is open**: its Special Topics begin at the foot of p. 499 (word स्वसारः) and continue on p. 500. The cleaning noted earlier for Ṛk 2's duplicate Pada/Saṃhitā blocks (p. 493) is still pending. FILE DISAGREE: none (no file rows for pp. 497–499). Not zoomed: headers (Varga 26 on pp. 497 and 499), Ṛk numeral 5, Nirukta/Nighaṇṭu references (3-2, 3-28, 3-13, 2-13, and 3-8 for स्वसारः, all [?] except 2-13), the numeral 16 (ṛtvijs). [?] places: p. 498 वृतानि; p. 499 bhāṣya नेष्टुर्विर्वाचितुः.
