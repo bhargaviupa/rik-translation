@@ -18687,4 +18687,152 @@ Lord of wealth, giver of wealth, possessor of riches, Agni, you are wise, unders
 
 ---
 
-**Progress note:** Done through printed p. 511 (PDF 532). Maṇḍala 2, Sūkta 6: Ṛk 2 completed on p. 509 (Pratipadārtha, Bhāvārtha, printed English with the source's "my [sic] we", Special Topics). Ṛk 3 complete on pp. 510–511 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; a short rule printed after it on p. 511). Ṛk 4 begun on p. 511 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); **Ṛk 4 is open: a Special Topics section, if any, would follow on p. 512.** FILE DISAGREE: none (the numeral file has no rows for pp. 509–511). Not zoomed: Varga 27 in the headers of pp. 509 and 511; Ṛk numerals ३ and ४ (read from the strips); Nirukta reference "6-14" on p. 510 [?]. [?] places: p. 509 क्रियमाणं (print reads क्रियोमणं); p. 511 bhāṣya ⟦द्वेष्टॄन्⟧ glyph. Pada avagraha signs rendered ऽ.
+### Printed p. 512 (PDF 533)
+
+*(Header: "512", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 6". The numeral file has no rows for this page. The Special Topics of Ṛk 4 continue from p. 511.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 4)**
+
+(Kannada, translated.)
+
+**मघवा (*maghavā*)** — The word मघ (*magha*) is listed among the names of wealth (Ni. 2-9 [?], numerals not zoomed). There is also the etymology **मघमिति धननामधेयं महंतेर्दानकर्मणः** (Ni. 1-7 [?], numerals not zoomed). *(The Nirukta words are as printed, with महंते° [?].)* The word मघ (*magha*) is formed from the root that indicates the act of giving (a gift) and is named "wealth". मघवान् (*maghavān*) means "one who has wealth". The word is also used of other deities such as Agni and Indra. Because the word is used most often of Indra, in modern Sanskrit the word मघवत् (*maghavat*) has no meaning other than "Indra".
+
+**सूरिः (*sūriḥ*)** — The word सूरि (*sūri*) is listed among the names of praisers (*stotṛ*) (Ni. 2-19 [?], numerals not zoomed). It has the meanings "intelligent", "learned", "wise", "impeller" and the like.
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स नो वृष्टिं दिवस्परि स नो वाजमनर्वाणं ।
+> स नः सहस्रिणीरिषः ॥ ५ ॥
+
+> *sa no vṛṣṭiṃ divaspari sa no vājamanarvāṇaṃ |*
+> *sa naḥ sahasriṇīriṣaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । नः । वृष्टिं । दिवः । परि । सः । नः । वाजं । अनर्वाणं ।
+> सः । नः । सहस्रिणीः । इषः ॥ ५ ॥
+
+> *saḥ | naḥ | vṛṣṭiṃ | divaḥ | pari | saḥ | naḥ | vājaṃ | anarvāṇaṃ |*
+> *saḥ | naḥ | sahasriṇīḥ | iṣaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 5)**
+
+*Gist:* The same Agni, for us, makes rain from the sky and gives abundant unfailing strength and thousandfold food.
+
+> सः स एवाग्निर्नोऽस्मदर्थं दिवस्परि द्युलोकादंतरिक्षात् ॥ परीति पंचम्यर्थानुवादी ॥ वृष्टिं करोति च शेषः । स एव नोऽस्मदर्थमनर्वाणमविचलमनल्पं वाजं बलं ददातु । तथा सहस्रिणीरपरिमितप्रकाराणीषोऽन्नानि स एवाग्निर्ददातु ॥
+
+> *saḥ sa evāgnirno 'smadarthaṃ divaspari dyulokādaṃtarikṣāt ‖ parīti paṃcamyarthānuvādī ‖ vṛṣṭiṃ karoti ca śeṣaḥ | sa eva no 'smadarthamanarvāṇamavicalamanalpaṃ vājaṃ balaṃ dadātu | tathā sahasriṇīraparimitaprakārāṇīṣo 'nnāni sa evāgnirdadātu ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 5)**
+
+(Kannada, translated:) सः (*saḥ*) — that same Agni described above; नः (*naḥ*) — to us; दिवस्परि (*divaspari*) — from the sky (*antarikṣa*); वृष्टिं (*vṛṣṭiṃ*) — rain (he pours down); सः (*saḥ*) — he himself; नः (*naḥ*) — to us; अनर्वाणं (*anarvāṇaṃ*) — (as if everlasting) abundant; वाजं (*vājaṃ*) — strength (let him give, likewise); नः (*naḥ*) — to us; सहस्रिणीः (*sahasriṇīḥ*) — unlimited; इषः (*iṣaḥ*) — foods; सः (*saḥ*) — that same Agni, let him give.
+
+---
+
+### Printed p. 513 (PDF 534)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 27 ]" [numeral not zoomed], "Ṛgvedasaṃhitā", "513". The numeral file has no rows for this page. The signature mark "[33] Vol. 14" is printed at the foot.)*
+
+**भावार्थ (Bhāvārtha — Ṛk 5)**
+
+(Kannada, translated:) That same Agni described above sends down rain to us from the sky (*antarikṣa*). May he himself give us abundant strength and unlimited food.
+
+**English Translation** *(as printed, Ṛk 5)*
+
+(For you are) he (who gives) us rain from heaven ; he (who gives) us undecaying strength, he (who gives) us infinite (abundance of) food·
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> ईळानायावस्यवे यविष्ठ दूत नो गिरा ।
+> यजिष्ठ होतरा गहि ॥ ६ ॥
+
+> *īḷānāyāvasyave yaviṣṭha dūta no girā |*
+> *yajiṣṭha hotarā gahi ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> ईळानाय । अवस्यवे । यविष्ठ । दूत । नः । गिरा ।
+> यजिष्ठ । होतः । आ । गहि ॥ ६ ॥
+
+> *īḷānāya | avasyave | yaviṣṭha | dūta | naḥ | girā |*
+> *yajiṣṭha | hotaḥ | ā | gahi ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 6)**
+
+*Gist:* O youngest, messenger, best of sacrificers, invoker Agni, come to me, who praise you and seek your protection, at our praise.
+
+> हे यविष्ठ युवतम दूत देवानां यज्ञादिसूचक यजिष्ठातिशयेन यष्टव्य होतर्देवानामाह्वातरग्ने नो गिरास्मदीयया स्तुत्यैळानाय पूजयित्रेऽवस्यवे स्वरक्षणमिच्छते मदर्थमागहि । आगच्छ ॥
+
+> *he yaviṣṭha yuvatama dūta devānāṃ yajñādisūcaka yajiṣṭhātiśayena yaṣṭavya hotardevānāmāhvātaragne no girāsmadīyayā stutyaiḷānāya pūjayitre 'vasyave svarakṣaṇamicchate madarthamāgahi | āgaccha ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6)**
+
+(Kannada, translated:) यविष्ठ (*yaviṣṭha*) — O very young one; दूत (*dūta*) — O messenger of the gods; यजिष्ठ (*yajiṣṭha*) — O one of surpassing worthiness of sacrifice; होतः (*hotaḥ*) — O Agni, who call the deities to the sacrifice; नः (*naḥ*) — our; गिरा (*girā*) — by the speech that takes the form of praise; ईळानाय (*īḷānāya*) — for me, who worship; अवस्यवे (*avasyave*) — who desire protection; आ गहि (*ā gahi*) — be gracious (come).
+
+**भावार्थ (Bhāvārtha — Ṛk 6)**
+
+(Kannada, translated:) O Agni, very young, messenger of the gods, of surpassing worthiness of sacrifice, who call the deities to the sacrifice: be gracious to me, who worship you with speech in the form of praise and desire protection from you.
+
+---
+
+### Printed p. 514 (PDF 535)
+
+*(Header: "514", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 6". The numeral file has no rows for this page.)*
+
+**English Translation** *(as printed, Ṛk 6)*
+
+Youngest (of the gods), their messenger, their invoker, most deserving of worship, come, upon our praise, to him who offers (you) adoration, and is desirous of (your) protection·
+
+---
+
+#### Ṛk 7
+
+*(The Ṛk numeral is read as 7 from the strip, consistent with the sequence; not zoomed. The Saṃhitā reads दूते (*dūte*) as printed [?], but the Pada has दूतः (*dūtaḥ*); the Pada's जन्याऽ इव (*janyā ' iva*) is given as printed, with a sign after या read as ऽ.)*
+
+**॥ संहितापाठः ॥**
+
+> अंतर्ह्यग्न ईयसे विद्वाञ्जन्मोभया कवे ।
+> दूते जन्येव मित्र्यः ॥ ७ ॥
+
+> *aṃtarhyagna īyase vidvāñjanmobhayā kave |*
+> *dūte janyeva mitryaḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> अंतः । हि । अग्ने । ईयसे । विद्वान् । जन्म । उभया । कवे ।
+> दूतः । जन्याऽ इव । मित्र्यः ॥ ७ ॥
+
+> *aṃtaḥ | hi | agne | īyase | vidvān | janma | ubhayā | kave |*
+> *dūtaḥ | janyā ' iva | mitryaḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 7)**
+
+*Gist:* Agni, knowing the births of both sacrificers and gods, enters people's hearts and knows them, as a king's messenger knows his people's minds.
+
+*(In the bhāṣya below: the Nirukta-like quotation is given as printed, with reference numerals read "4-8-4" [?], not zoomed; the word after हि (*hi*) seems to carry a visarga in the print; ज इभ्यो (*ja ibhyo*) in the print is probably जनेभ्यो (*janebhyo*) [?]; यष्टृणां (*yaṣṭṛṇāṃ*) [?].)*
+
+> हे कवे मेधाविन्नग्ने अंतर्जनानां हृदये ईयसे हि । गच्छसि जानासि वा । हिः स होता सेदु दूत्यं चिकित्वाँ अंतरीयते । ४-८-४ [?] । इत्यादिमंत्रांतरप्रसिद्धिद्योतनार्थः । कीदृशस्त्वं । उभया उभयविधानि जन्म जन्मानि यष्टृणां [?] यजमानानां यष्टव्यानां देवानां च संबंधीनि विद्वान् जानन् सन् । ईयस इति संबंधः । तत्र दृष्टांतः । जन्यो जनेभ्यो [?] हितो मित्र्यो विशेषेण मित्रेभ्यो हितो दूत इव । स यथा प्रजानां चित्तवृत्तिज्ञानाय राज्ञा प्रेरितस्तासां मनो जानाति तद्वत् त्वमप्यस्माकमंतरीयस इत्यर्थः ॥
+
+> *he kave medhāvinnagne aṃtarjanānāṃ hṛdaye īyase hi | gacchasi jānāsi vā | hiḥ sa hotā sedu dūtyaṃ cikitvā~ aṃtarīyate | 4-8-4 [?] | ityādimaṃtrāṃtaraprasiddhidyotanārthaḥ | kīdṛśastvaṃ | ubhayā ubhayavidhāni janma janmāni yaṣṭṛṇāṃ [?] yajamānānāṃ yaṣṭavyānāṃ devānāṃ ca saṃbaṃdhīni vidvān jānan san | īyasa iti saṃbaṃdhaḥ | tatra dṛṣṭāṃtaḥ | janyo janebhyo [?] hito mitryo viśeṣeṇa mitrebhyo hito dūta iva | sa yathā prajānāṃ cittavṛttijñānāya rājñā preritastāsāṃ mano jānāti tadvat tvamapyasmākamaṃtarīyasa ityarthaḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 7)**
+
+(Kannada, translated:) कवे (*kave*) — O wise one; अग्ने (*agne*) — O Agni; उभया जन्म (*ubhayā janma*) — the births of the two kinds, namely the sacrificers and the gods who are worthy of the sacrifice; विद्वान् (*vidvān*) — knowing well; जन्यः (*janyaḥ*) — one who does good to the people; मित्र्यः (*mitryaḥ*) — and above all one who does service to friends; दूत इव (*dūta iva*) — as a messenger, knowing his master's mind, does what is good for him (so you also); अंतः (*antaḥ*) — in the hearts of people; ईयसे हि (*īyase hi*) — you enter and understand it surely.
+
+**भावार्थ (Bhāvārtha — Ṛk 7)**
+
+(Kannada, translated, begun:) O Agni, wise one, knowing well the births of the sacrificers and of the gods worthy of the sacrifice, doing good to the people, and above all rendering service to friends… *(the sentence continues on p. 515; Ṛk 7 is left open)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 514 (PDF 535). Maṇḍala 2, Sūkta 6: Ṛk 4 completed on p. 512 (Special Topics on ⟦मघवा⟧ and ⟦सूरिः⟧). Ṛk 5 complete on pp. 512–513 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); no Special Topics printed for it. Ṛk 6 complete on pp. 513–514 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); no Special Topics printed. Ṛk 7 begun on p. 514 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun); **Ṛk 7 is open: its Bhāvārtha continues on p. 515, followed by printed English and any Special Topics.** FILE DISAGREE: none (the numeral file has no rows for pp. 512–514). Not zoomed: Varga 27 in the header of p. 513; Ṛk numerals 5, 6, 7 (read from the strips; 7 consistent with the sequence); Nirukta references on p. 512 (2-9, 1-7, 2-19 [?]); the bhāṣya reference "4-8-4" on p. 514 [?]. [?] places: p. 514 Saṃhitā ⟦दूते⟧ against Pada ⟦दूतः⟧; Pada ⟦जन्याऽ इव⟧ sign; bhāṣya ⟦हिः⟧ (visarga), ⟦यष्टृणां⟧, ⟦जनेभ्यो⟧ (print ज इभ्यो); p. 512 ⟦महंते°⟧. The signature mark "[33] Vol. 14" noted at the foot of p. 513.
