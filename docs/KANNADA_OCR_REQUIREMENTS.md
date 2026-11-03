@@ -17,7 +17,7 @@ Non-goals: writing a new OCR engine; recognising Vedic accent marks (underline =
 - `docs/PASS_LOG.md` — log of the page-by-page verification pass against better scans; lists pages and what was corrected.
 - `CLAUDE.md` — project conventions (read the digit key and the `[?]` rules).
 - `publish/tools/` — helper scripts (transliteration, numeral pass, English OCR). `publish/tools/numeral_pass/METHOD.md` describes numeral reading.
-- Scans: not in the repo working tree you will have. The user holds two high-quality 600 dpi scans: `11_Rigveda_Samhitha_Volume_11-1-70.pdf` (PDF pages 1–70 of Vol 11) and `11_Rigveda_Samhitha_Volume_11-71-140.pdf` (pages 71–140). **Ask the user to place them in a local `scans/` folder** (do not commit them — see §8). PDF page N ↔ printed page N−18. The repo also has `Rig_Vol11.pdf` (Git LFS, lower quality).
+- Scans: not in the repo working tree you will have. The user holds two high-quality 600 dpi scans: `11_Rigveda_Samhitha_Volume_11-1-70.pdf` (PDF pages 1–70 of Vol 11) and `11_Rigveda_Samhitha_Volume_11-71-140.pdf` (pages 71–140). **Ask the user to place them in a local `scans/` folder** (do not commit them — see §8). PDF page N ↔ printed page N−18. The repo also has `vol11/scans/Rig_Vol11.pdf` (Git LFS, lower quality).
 - **Verified ground truth pages**: Kannada text for PDF pages 25–73 of Vol 11 was re-checked against the better scan (bhāṣya, reference numerals, headers). Pages before PDF 24 were checked only partly. Use PDF 25–73 as the trusted set; consult `docs/PASS_LOG.md`. Lines still containing `[?]` must be excluded from training.
 - Before touching anything, run `git log --oneline | head -40` to see what has changed.
 

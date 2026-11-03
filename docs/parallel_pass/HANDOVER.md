@@ -59,6 +59,6 @@ Coordinator audit `trig_01GYaxKuuZXviNciKT6heymR` (posts into the old coordinato
 [?] counts: Vol 3 760, Vol 4 2,136, Vol 5 1,918.
 
 ## Facts found during the pass (fold into the state files at merge)
-- **Vol 5 better-scan page map** (v5b/v5c): PDF 17–247 printed = PDF − 16; **pp. 232–233 missing** (read from the old `Rig_Vol5.pdf`, PDF 248–249, `V5OLD=1`); PDF 248–467 printed = PDF − 14; **PDF 466–467 duplicate pp. 450–451**; PDF 468–724 printed = PDF − 16 (Pariśiṣṭa p. 531 = PDF 547; p. 644 = PDF 660 exists). `vol5/tools/view.py` can clip the right edge; `view_v5b.py` crops by whole-page fractions.
+- **Vol 5 better-scan page map** (v5b/v5c): PDF 17–247 printed = PDF − 16; **pp. 232–233 missing** (read from the old `vol5/scans/Rig_Vol5.pdf`, PDF 248–249, `V5OLD=1`); PDF 248–467 printed = PDF − 14; **PDF 466–467 duplicate pp. 450–451**; PDF 468–724 printed = PDF − 16 (Pariśiṣṭa p. 531 = PDF 547; p. 644 = PDF 660 exists). `vol5/tools/view.py` can clip the right edge; `view_v5b.py` crops by whole-page fractions.
 - **Vol 3:** two OCR commits (ffbb3a0, 870868a) by an earlier session were reverted (wrong substitutions, e.g. p. 467 Pā. 3-3-93 → "1-62"); Ṛk 24.15 OCR-assisted readings (7d0fb01) to be re-checked from crops.
 - **Vol 4 page map:** printed = PDF − 14 to PDF 101, PDF 102 duplicates 101, then − 15 (confirmed by v4c through p. 406; p. 368 is printed "268").

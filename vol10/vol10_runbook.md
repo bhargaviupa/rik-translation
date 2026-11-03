@@ -18,4 +18,4 @@ Method of the Vols 3–6 passes and the Vol 13 zoom-fix (`docs/COORDINATION_NOTE
 6. Turn economy: view all strips of a page in one parallel message, zoom in one message, write with one call, ~3 pages per sub-agent (`vol14/vol14_runbook.md`, "Turn economy").
 
 ## Hygiene
-Never force-push or reset; no PRs; Git/LFS: `git lfs pull -I Rig_Vol10.pdf` (Phase 2 only); use `git worktree` for side work; never switch branches while a worker writes in the same folder.
+Never force-push or reset; no PRs; Git/LFS: `git lfs pull -I vol10/scans/Rig_Vol10.pdf` (Phase 2 only); use `git worktree` for side work; never switch branches while a worker writes in the same folder.
