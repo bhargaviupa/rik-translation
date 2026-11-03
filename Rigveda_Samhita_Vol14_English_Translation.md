@@ -12235,4 +12235,74 @@ Up to now the ṛṣi Agastya, having spoken in blame of the harm that snakes an
 
 ---
 
-**Progress note:** Done through printed p. 348 (PDF 368). Sūkta 191: Ṛks 1-6 complete (Ṛk 6 Special Topics ended on p. 347; p. 348 begins with its grammar); Ṛk 7 OPEN (Pratipadārtha begun). Flags p. 348: header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value; not zoomed; standard number differs, kept as file/print unverified); Ṛk 7 numeral read 7 from the strip (flat-footed); 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtra 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. (Older flags: see the preceding note text preserved in git history; archived flags in vol14/review/flags_archive_pp286-322.md.)
+### Printed p. 349 (PDF 369)
+
+*(Header: "A. 2. A. 5 Va. 15", "Ṛgvedasaṃhitā". The Pratipadārtha of Ṛk 7 continues; Bhāvārtha; printed English; Special Topics begin.)*
+
+*(Pratipadārtha continued:)* … those not visible to the eye. **किंचन (*kiṃcana*)** — all other subtle venomous creatures, serpents and the rest. **इह (*iha*)** — here. **वः (*vaḥ*)** — whatever cruel creatures belong to your company. **सर्वे साकं (*sarve sākaṃ*)** — all of them gathering together. **जस्यत (*jasyata*)** — leave us and go.
+
+**भावार्थः (Bhāvārtha)** *(Kannada, rendered)*
+
+There are many venomous snakes that move by the arm, those that move by the body, scorpions and the like with tails and hair like a needle, creatures of strong venom, and other subtle poisonous creatures that cannot be seen by the eye. Let all those of them that have come near to us and may do us harm leave us and go far away.
+
+**Printed English** *(heading "English Translation")*
+
+Those (who move with their) shoulders, those (who move with their) bodies, those who sting with sharp fangs, those who are virulently venomous ; what do you here, you unseen, depart together far from us. *(A stray dot is printed before "their" in the first line.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Special Topics)*
+
+अंस्याः (*aṃsyāḥ*) — "अंसाहर्ा, अंसगा, अंसे भवा, अंसाभ्यां खादंतो वा (*aṃsāharā, aṃsagā, aṃse bhavā, aṃsābhyāṃ khādaṃto vā*)" [?] (the commentary). That is: snakes that have the arm (bhuja) as their chief part; snakes that make their movement, turning and so on, chiefly by the arms. For this reason snakes have the names bhujaṅga and bhujaga; the nature of four kinds of snake has been described: those born from the arm, those that bite with the arm, and so on. Here "biting with the arm" means that the poison spreads by mere touch; it is to be understood that snakes of such a kind are meant. That snakes move by the arms is a poetic fancy (utprekṣā). That snakes have no legs is known to all. Yet, since the structure of their backbone is made suitable for moving, they can move very fast. Therefore to say that snakes move by the arm is established usage (rūḍhi).
+
+अंग्याः (*aṃgyāḥ*) — "अंगगाः अंगेन शरीरेण हंतारो वा (*aṃgagāḥ aṃgena śarīreṇa haṃtāro vā*)". Two senses are given: moving by the aṅga, or killing by the aṅga. Moving by the aṅga means moving with a curved movement, as said before; killing by the aṅga means that, like snakes of the *koḷakumaṇḍala* class (as printed), they make the poison spread by mere touch and kill. The meaning is: snakes of such a class.
+
+सूचिकाः (*sūcikāḥ*) (as printed here) — "सूचीसदृशपुच्छरोमाणो वृश्चिकाद्याः (*sūcīsadṛśapuccharomāṇo vṛścikādyāḥ*)". That is: venomous creatures such as scorpions that have at the tail stings sharp like the point of a needle.
+
+---
+
+### Printed p. 350 (PDF 370)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191". The Special Topics of Ṛk 7 conclude; grammar; Ṛk 8 begins.)*
+
+प्रकंकताः (*prakaṃkatāḥ*) — "प्रकृष्टविषाः प्रकृष्टगामिनो वा (*prakṛṣṭaviṣāḥ prakṛṣṭagāmino vā*)". That is: snakes of very sharp venom, or snakes that move very fast.
+
+Such great snakes of great venom, and other venomous creatures, lie hidden in the grass and in the bushes so that none can see them. Addressing them, the ṛṣi has prayed: "O snakes of various kinds, what do you do here? What business have you? Come, all of you together, and leave our neighbourhood."
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+अंस्याः (*aṃsyāḥ*): अंसे भवाः (*aṃse bhavāḥ*); by भवे छन्दसि (*bhave chandasi*) (Pā. Sū. 4-4-110) the affix yat; by the sūtra यस्येति च (*yasyeti ca*) the preceding a is dropped; by यतोऽनावः (*yato 'nāvaḥ*) (Pā. Sū. 6-1-213) the first syllable is udātta. In अंग्याः (*aṃgyāḥ*) likewise the affix and the accents come.
+
+जस्यत (*jasyata*): root जसु मोक्षणे (*jasu mokṣaṇe*), divādi; loṭ, second person plural, replaced by त (*ta*) (tādeśa); by दिवादिभ्यः श्यन् (*divādibhyaḥ śyan*) the vikaraṇa śyan; because it stands after a tiṅanta (printed "atiṅanta", [sic]?) the tiṅanta-nighāta accent comes.
+
+---
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> उत्पुरस्तात्सूर्य एति विश्वदृष्टो अदृष्टहा ।
+> अदृष्टान्त्सर्वाञ्जंभयन्त्सर्वाश्च यातुधान्यः ॥ ८ ॥
+
+> *utpurastātsūrya eti viśvadṛṣṭo adṛṣṭahā |*
+> *adṛṣṭāntsarvāñjaṃbhayantsarvāśca yātudhānyaḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत् । पुरस्तात् । सूर्यः । एति । विश्वऽदृष्टः । अदृष्टऽहा ।
+> अदृष्टान् । सर्वान् । जंभयन् । सर्वाः । च । यातुऽधान्यः ॥ ८ ॥
+
+> *ut | purastāt | sūryaḥ | eti | viśva 'dṛṣṭaḥ | adṛṣṭa 'hā |*
+> *adṛṣṭān | sarvān | jaṃbhayan | sarvāḥ | ca | yātu 'dhānyaḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The sun rises in the east, seen by all, destroyer of the unseen; crushing all unseen things and all yātudhānīs.
+
+> असौ सूर्यः पुरस्तात्पूर्वस्यां दिश्युदेति । कीदृशः सः । विश्वदृष्टः । विश्वे द्रष्टव्या यस्य स तादृशः । अदृष्टहा । अदृष्टा विषविशेषा विषधरविशेषा वा । तेषां हंता । यद्वा । अदृष्टमुदर्शनमज्ञानमंधकारः । तस्य हंता । सूर्ये उदिते सति सर्वे विषधरा विषाणि वा पलायंते । किं कुर्वन्नुदेतीति चेत् उच्यते । सर्वानदृष्टानद्रष्टव्यान्विषराक्षसादीञ्जंभयन् हिंसयन् । तथा सर्वा यातुधान्यः ।
+
+> *asau sūryaḥ purastātpūrvasyāṃ diśyudeti | kīdṛśaḥ saḥ | viśvadṛṣṭaḥ | viśve draṣṭavyā yasya sa tādṛśaḥ | adṛṣṭahā | adṛṣṭā viṣaviśeṣā viṣadharaviśeṣā vā | teṣāṃ haṃtā | yadvā | adṛṣṭamudarśanamajñānamaṃdhakāraḥ | tasya haṃtā | sūrye udite sati sarve viṣadharā viṣāṇi vā palāyaṃte | kiṃ kurvannudetīti cet ucyate | sarvānadṛṣṭānadraṣṭavyānviṣarākṣasādīñjaṃbhayan hiṃsayan | tathā sarvā yātudhānyaḥ |*
+
+*(The words after सर्वान् are garbled in the print, read as it looks, [?]. The bhāṣya continues beyond p. 350; Ṛk 8 is left open.)*
+
+---
+
+**Progress note:** Done through printed p. 350 (PDF 370). Sūkta 191: Ṛks 1-7 complete; Ṛk 8 OPEN (Saṃhitā, Pada and the first part of the bhāṣya written, bhāṣya continues beyond p. 350). (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 348-350: p. 348 header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value, not zoomed; standard number differs); Ṛk 7 numeral 7 read from the strip (flat-footed); Ṛk 8 numeral 8 read from the strip; 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtras 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. p. 349 header 'A. 2. A. 5 Va. 15' (Varga 15 read on pp. 347 and 349, unzoomed); 'sūcīkāḥ'/'sūcikāḥ' as printed; 'koḷakumaṇḍala' as it looks; stray dot in printed English. p. 350 header Sū. 191; Pā. Sū. 4-4-110 and 6-1-213 agree with the file (not zoomed); 'atiṅanta' printed so [sic?]; Ṛk 8 bhāṣya 'sarvānadṛṣṭānadraṣṭavyān' garbled [?]; Ṛk 8 Pada compound signs in viśva-dṛṣṭaḥ, adṛṣṭa-hā, yātu-dhānyaḥ read as compound marks; Saṃhitā 'ñjaṃbhayan' (ञ्जं) as it looks. Counts for batch pp. 348-350: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 2 (4-4-110, 6-1-213) plus 6-1-136 (unzoomed), FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 7 and 8 numerals.
