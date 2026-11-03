@@ -17373,4 +17373,112 @@ The sentence from the previous page continues: ...becomes devoid of radiance, ye
 
 ---
 
-**Progress note:** Done through printed p. 481 (PDF 502). Maṇḍala 2 Sūkta 4: Ṛk 5 complete (Saṃhitā, Pada, bhāṣya and Pratipadārtha on p. 479; Bhāvārtha, printed English and Special Topics on pp. 480–481, then the divider "—:O:—"). Ṛk 6: Saṃhitā, Pada and bhāṣya written on p. 481; **Ṛk 6 is open**, next are its Pratipadārtha, Bhāvārtha, printed English and Special Topics on p. 482. FILE DISAGREE: none (p. 480 rows Ni. 3-13 and Ni. 3-9 agree; pp. 479 and 481 have no rows). Not zoomed: headers "Va. 24" (p. 479), "Va. 25" (p. 481), Ṛk numerals 5 and 6 (the Saṃhitā numeral of Ṛk 6 looks like ३). Ni. 6-[?] on p. 480 is not in the file and its second numeral is damaged. [?] places: p. 479 Pada small stroke in उशिक्भ्यः and रंसु, Pada आमिमीत last letter, bhāṣya ⟦ऋत्विग्भ्यो⟧, ⟦हिरण्यकेनकादि⟧, ⟦विश्रयिता⟧; p. 480 ⟦वष्टेः⟧ and ⟦जीर्णः सन्⟧; p. 481 ⟦सोड्र्यादेशः⟧ and ⟦नीलवर्णान्तरिक्षछायोरादित्यो⟧.
+### Printed p. 482 (PDF 503)
+
+*(Header: "482", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+*(Ṛk 6 continues from p. 481. This page has its Pratipadārtha, Bhāvārtha, printed English and the beginning of the Special Topics. In the Pratipadārtha the printed lemma is वार्ण with a sign that looks like ि, and it is written without it [?]. The second word of the Ṛk is printed ತತೃಷಾಣೋ and is written ततृषाणो as in the Pada.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6)**
+
+(Kannada, translated:) यः (*yaḥ*) — which Agni; वना (*vanā*) — the forests; ततृषाणो न (*tatṛṣāṇo na*) — like one who is thirsty; आ भाति (*ā bhāti*) — does he burn? [Or: वना (*vanā*) — in the forest; आ भाति (*ā bhāti*) — does he shine?] (and); वार्ण (*vārṇa*) — water, in what manner; पथा (*pathā*) — as it flows swiftly down a sloping region, so does he spread swiftly; रथ्या इव (*rathyā iva*) — like a war-horse that draws a chariot; स्वानीत् (*svānīt*) — he who makes a sound, as one who sounds (that Agni); कृष्णाध्वा (*kṛṣṇādhvā*) — having a path of black colour; तपुः (*tapuḥ*) — burning; रण्वः (*raṇvaḥ*) — (yet) delightful; नभोभिः (*nabhobhiḥ*) — by the stars; स्मयमानः (*smayamānaḥ*) — as though shining; द्यौरिव (*dyauriva*) — like the sky [or: नभोभिः (*nabhobhiḥ*) — in the regions of the atmosphere; स्मयमानः (*smayamānaḥ*) — as though shining; द्यौरिव (*dyauriva*) — like the sun]; चिकेत (*ciketa*) — is known.
+
+**भावार्थ (Bhāvārtha — Ṛk 6)**
+
+(Kannada, translated:) The Agni who, like one oppressed with thirst, burns the forests; who, as water flows swiftly down a sloping region, spreads swiftly in the forest; and who, like a war-horse that draws a chariot in battle, makes a harsh sound: that Agni, though he has a path of black colour and is a burner, is nevertheless delightful, and is known like the sky shining with stars in the atmosphere. [Or:] he is known like the sun shining in the sky.
+
+**English Translation** *(as printed, Ṛk 6)*
+
+Who shines amidst the forests, as if satisfying himself (with food) : who (rushes along), like water down a declivity, and thunders like a chariot (of war) ; dark-pathed, consuming, yet delightful, he is regarded like the sky smiling with constellations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 6)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+Here Agni is described as being in the form of a forest fire (kāḍugiccu).
+
+> वना ततृषाणो न आभाति—वृक्षसमूहान् तृषित इव त्वरमाणः आभासयति ।
+
+> *vanā tatṛṣāṇo na ābhāti—vṛkṣasamūhān tṛṣita iva tvaramāṇaḥ ābhāsayati |*
+
+The Kannada says: Agni is described as spreading over the groups of trees in the forest as swiftly as a man seized by hunger eats his food in haste; or, in the other explanation (वने आभाति (*vane ābhāti*)), as shining in the forest of his own accord. Because Agni's spreading is very swift, the comparison with a man seized by hunger has been made.
+
+> वार्ण पथा—उदकमिव प्रवणेन मार्गेण इतस्ततो गच्छति—
+
+> *vārṇa pathā—udakamiva pravaṇena mārgeṇa itastato gacchati—*
+
+*(The lemma is printed with वार्णि-like sign, as in the Pratipadārtha [?].)*
+
+The Kannada says: As water runs very swiftly down a low-lying region and spreads, so Agni too spreads swiftly here and there among the trees in the forest. Agni's spreading is compared to the spreading of water.
+
+### Printed p. 483 (PDF 504)
+
+*(Header: "A. 2 A. 5 Va. 25]", "Ṛgvedasaṃhitā", "483", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+> रथ्येव स्वानीत्—रथो यथा युद्धमार्गेण गच्छन् स्वनति—
+
+> *rathyeva svānīt—ratho yathā yuddhamārgeṇa gacchan svanati—*
+
+The Kannada says: As a horse that draws a chariot neighs in battle when it is pressed forward to attack the enemy, so Agni (himself), spreading in the forest and burning, makes terrible noises such as "chaṭachaṭa". Or: as a sound arises from a chariot moving swiftly when the charioteer (rathika) attacks the enemy, so Agni sounds like that sound; the example of the sound is thus explained.
+
+> कृष्णाध्वा तपुः रण्वः नभोभिः स्मयमानः द्यौरिव चिकेत—
+
+> *kṛṣṇādhvā tapuḥ raṇvaḥ nabhobhiḥ smayamānaḥ dyauriva ciketa—*
+
+The Kannada says: Here the ṛṣi has explained the meaning by giving a very excellent and natural simile. As the forest fire burns the forest and goes ahead, the region burnt by the fire becomes black like a forest. In whatever region fire has burnt well and the embers are dying out, that region looks black; this is well known in the world. This fact is clearly known to those who have seen tracts of land burnt by a forest fire. For that very reason it is natural that the region burnt by Agni is called "the black path" (kappāda mārga). Thus, although the forest has burnt and the earth has turned black, it is also natural that here and there, that is, in some places in between, embers remain and the flame is not yet extinguished. Such a region is compared to the sky with its stars: the black earth is compared to the blue-coloured sky, and the embers and flames here and there to the stars; or Agni's flame is compared to the stars. Or it is compared to the sun, shining with great radiance in the blue sky: in this context the Agni that still burns in the midst of the burnt, black earth is to be understood as compared to the sun. Here the poet has used the words द्यौरिव स्मयमानः नभोभिः (*dyauriva smayamānaḥ nabhobhiḥ*) in a very profound expression full of meaning. When it is said that the sky with its stars shines like a man laughing, then, as the mind is delighted on seeing a laughing man or woman, so the mind is delighted on seeing the blue sky twinkling with stars. In the same way the earth burnt by the fire, black as it is, is described; and the ṛṣi has thus explained it and shown his skill in composition.
+
+*(A short divider is printed at this place. Ṛk 6 is closed.)*
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+*(In the Saṃhitā शोचिष्मा is printed with a chandrabindu-like sign above the ā-stroke and is written शोचिष्माँ. The Ṛk numeral looks like the flat-footed glyph for 7, as in the Pada; not zoomed.)*
+
+> स यो व्यस्थादभि दक्षदुर्वीं पशुर्नैति स्वयुरगोपाः ।
+> अग्निः शोचिष्माँ अतसान्युष्णन्कृष्णव्यथिरस्वदयन्न भूम ॥ ७ ॥
+
+> *sa yo vyasthādabhi dakṣadurvīṃ paśurnaiti svayuragopāḥ |*
+> *agniḥ śociṣmā~ atasānyuṣṇankṛṣṇavyathirasvadayanna bhūma ‖ 7 ‖*
+
+### Printed p. 484 (PDF 505)
+
+*(Header: "484", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4.", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**॥ पदपाठः ॥**
+
+*(The Pada prints a letter that looks like ध in दक्षत्; it is written दक्षत् as in the Saṃhitā and the bhāṣya [?]. The Pada shows a small compound stroke in स्वयुः and कृष्णव्यथिः; it is written as ऽ. The word before न in the last line is printed with a sign that looks like ए (अस्वदयेत्); it is written अस्वदयत् as in the Saṃhitā [?].)*
+
+> सः । यः । वि । अस्थात् । अभि । दक्षत् । उर्वीं । पशुः । न । एति । स्वऽयुः । अगोपाः ।
+> अग्निः । शोचिष्मान् । अतसानि । उष्णन् । कृष्णऽव्यथिः । अस्वदयत् । न । भूम ॥ ७ ॥
+
+> *saḥ | yaḥ | vi | asthāt | abhi | dakṣat | urvīṃ | paśuḥ | na | eti | sva 'yuḥ | agopāḥ |*
+> *agniḥ | śociṣmān | atasāni | uṣṇan | kṛṣṇa 'vyathiḥ | asvadayat | na | bhūma ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni spreads over the whole earth, roaming unrestrained like a herdless animal, blazing, blackening thorns, as if tasting the trees' sap while drying shrubs.
+
+*(In the bhāṣya नियोमक is read as printed; the plain ma and the vowel mark are not clear [?]. No sūtra number is printed in the grammatical tail.)*
+
+> योऽग्निर्व्यस्थात् । विविधं तिष्ठति । व्याप्नोति विश्वं । तथा योऽग्निरुर्वीं विस्तृतां पृथिवीं सर्वां । यश्चाभिदक्षत् । अभिमुख्येन प्रवर्धमानो भवति ॥ उभे अपि यच्छब्दयोगान्न निहन्येते ॥ सोऽग्निः पशुर्न पशुरिव । यथा जातः पशुः स्वच्छन्देन चरति तथा स्वयुः स्वयमेव गच्छन् अगोपा गोपरहितः । नियोमक[?]वर्जित इत्यर्थः । एति । गच्छति । किं कुर्वन् । शोचिष्मान् प्रकृष्टदीप्तिः कृष्णव्यथिः कृष्णवर्णं प्राप्ता दग्धा व्यथकराः कंटकादयो येन तादृशः सन् भूमात्यधिकमस्वदयन्न । आस्वादयतीव वृक्षगतान् रसान् । अतसानि सततानि नीरसानि वा तरुगुल्मादीन्युष्णन् दहन्नेति ॥
+
+> *yo 'gnirvyasthāt | vividhaṃ tiṣṭhati | vyāpnoti viśvaṃ | tathā yo 'gnirurvīṃ vistṛtāṃ pṛthivīṃ sarvāṃ | yaścābhidakṣat | abhimukhyena pravardhamāno bhavati ‖ ubhe api yacchabdayogānna nihanyete ‖ so 'gniḥ paśurna paśuriva | yathā jātaḥ paśuḥ svacchandena carati tathā svayuḥ svayameva gacchan agopā goparahitaḥ | niyomaka[?]varjita ityarthaḥ | eti | gacchati | kiṃ kurvan | śociṣmān prakṛṣṭadīptiḥ kṛṣṇavyathiḥ kṛṣṇavarṇaṃ prāptā dagdhā vyathakarāḥ kaṃṭakādayo yena tādṛśaḥ san bhūmātyadhikamasvadayanna | āsvādayatīva vṛkṣagatān rasān | atasāni satatāni nīrasāni vā tarugulmādīnyuṣṇan dahanneti ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 7)**
+
+(Kannada, translated; the lemma is printed ಭೂಮು and is written भूम.) यः (*yaḥ*) — which Agni; व्यस्थात् (*vyasthāt*) — has pervaded the various regions (and); उर्वीं (*urvīṃ*) — the extensive earth; अभि दक्षत् (*abhi dakṣat*) — pervading, spreads all around; सः अग्निः (*saḥ agniḥ*) — that Agni; पशुर्न (*paśurna*) — as an animal wanders at its own will; स्वयुः (*svayuḥ*) — by himself, independently; roaming; अगोपाः (*agopāḥ*) — being without restraint; शोचिष्मान् (*śociṣmān*) — emitting radiance; कृष्णव्यथिः (*kṛṣṇavyathiḥ*) — producing in burnt thorns and the like an alteration of black form; भूम (*bhūma*) — excessively; अस्वदयन्न (*asvadayanna*) — as if tasting (the sap of trees); अतसानि (*atasāni*) — making shrubs and the like sapless; उष्णन् (*uṣṇan*) — burning; एति (*eti*) — moves about.
+
+**भावार्थ (Bhāvārtha — Ṛk 7)**
+
+(Kannada, translated:) The Agni who has pervaded the various regions and spreads in manifold ways; who, pervading the broad earth and spreading all around, moves about like an animal wandering at its own will, independently and without restraint, emitting radiance; causing to thorns and the like that he has burnt a black alteration and also pain; and who, as if tasting in great measure the sap of the trees, moves about burning, making shrubs and the like sapless.
+
+*(Ṛk 7 is left open: its printed English and Special Topics follow on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 484 (PDF 505). Maṇḍala 2 Sūkta 4: Ṛk 6 complete (Pratipadārtha, Bhāvārtha, printed English and Special Topics on pp. 482–483, then a short divider). Ṛk 7: Saṃhitā on p. 483, Pada, bhāṣya, Pratipadārtha and Bhāvārtha on p. 484; **Ṛk 7 is open**, next are its printed English and Special Topics on p. 485. FILE DISAGREE: none (the file has no rows for pp. 482–484). Not zoomed: headers "Va. 25" (p. 483, read from the strip), Ṛk numerals 6 and 7 (the 7 looks like the flat-footed glyph). [?] places: p. 482 वार्ण lemma printed with an extra sign like ि, ततृषाणो read ततृ- as printed; p. 484 Pada दक्षत् (looks like धक्षत्), Pada अस्वदयत् (printed with ए-like sign), bhāṣya नियोमक (ma with hook), Saṃhitā शोचिष्माँ (chandrabindu-like sign), Pratipadārtha भूम (printed ಭೂಮು).
