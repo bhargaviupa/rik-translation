@@ -7414,5 +7414,357 @@
   "old": "3-1 [?]",
   "new": "3-9",
   "note": "Relaxed matching against all of the user's numeral lists (user: all list numbers are correct; up to 2 digits off allowed; neighbour page for off-by-one labels): 3-1->3-9; not viewed by me."
+ },
+ {
+  "pdf": 583,
+  "printed": 563,
+  "status": "resolved",
+  "old": "Uṇ. Sū. 2-[?]; Uṇ. Sū. 4-[?]",
+  "new": "2-259; 4-547",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled, filled; not viewed by me."
+ },
+ {
+  "pdf": 574,
+  "printed": 554,
+  "status": "resolved",
+  "old": "Pā. Sū. 7-4-[?]",
+  "new": "7-4-15",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 551,
+  "printed": 531,
+  "status": "resolved",
+  "old": "1-141-5 [?]; Pā. Sū. 6-2-[?]",
+  "new": "1-141-8; 6-2-81",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): 1-141-5->1-141-8, filled; not viewed by me."
+ },
+ {
+  "pdf": 545,
+  "printed": 525,
+  "status": "resolved",
+  "old": "Uṇ. Sū. 3-[?]",
+  "new": "3-385",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 510,
+  "printed": 490,
+  "status": "resolved",
+  "old": "Uṇ. Sū. 4-[?]",
+  "new": "4-651",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 500,
+  "printed": 480,
+  "status": "resolved",
+  "old": "Uṇ. Sū. 2-[?]",
+  "new": "2-159",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "status": "resolved",
+  "old": "6-1-197 [?]",
+  "new": "6-1-169",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): 6-1-197->6-1-169; not viewed by me."
+ },
+ {
+  "pdf": 255,
+  "printed": 235,
+  "status": "resolved",
+  "old": "Ni. 1-[?]",
+  "new": "1-22",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 252,
+  "printed": 232,
+  "status": "resolved",
+  "old": "Ni. 6-[?]",
+  "new": "6-21",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 245,
+  "printed": 225,
+  "status": "resolved",
+  "old": "Ṛ. Saṃ. 1-[?]; 6-4-155 [?]",
+  "new": "1-97; 6-4-143",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled, 6-4-155->6-4-143; not viewed by me."
+ },
+ {
+  "pdf": 236,
+  "printed": 216,
+  "status": "resolved",
+  "old": "Ni. 3-[?]",
+  "new": "3-9",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 232,
+  "printed": 212,
+  "status": "resolved",
+  "old": "Ni. 1-[?]",
+  "new": "1-5",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 221,
+  "printed": 201,
+  "status": "resolved",
+  "old": "Ni. 4-[?]",
+  "new": "4-19",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 218,
+  "printed": 198,
+  "status": "resolved",
+  "old": "Ṛ. Saṃ. 1-91-[?]",
+  "new": "1-91-14",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 211,
+  "printed": 191,
+  "status": "resolved",
+  "old": "Ni. 12-[?]",
+  "new": "12-42",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 210,
+  "printed": 190,
+  "status": "resolved",
+  "old": "Ni. 12-[?]",
+  "new": "12-42",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 202,
+  "printed": 182,
+  "status": "resolved",
+  "old": "Ni. 4-[?]",
+  "new": "4-26",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 199,
+  "printed": 179,
+  "status": "resolved",
+  "old": "Ni. 1-[?]",
+  "new": "1-7",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 198,
+  "printed": 178,
+  "status": "resolved",
+  "old": "Ni. 1-[?]",
+  "new": "1-5",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 196,
+  "printed": 176,
+  "status": "resolved",
+  "old": "Ni. 1-[?]",
+  "new": "1-5",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 180,
+  "printed": 160,
+  "status": "resolved",
+  "old": "Ni. 2-[?]; Ni. 4-[?]; Ni. 3-[?]",
+  "new": "2-24; 4-17; 3-19",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled, filled, filled; not viewed by me."
+ },
+ {
+  "pdf": 177,
+  "printed": 157,
+  "status": "resolved",
+  "old": "Ni. 1-[?]",
+  "new": "1-4",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 176,
+  "printed": 156,
+  "status": "resolved",
+  "old": "Ni. 3-[?]",
+  "new": "3-13",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 169,
+  "printed": 149,
+  "status": "resolved",
+  "old": "Ni. 3-[?]",
+  "new": "3-9",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 162,
+  "printed": 142,
+  "status": "resolved",
+  "old": "Ni. 3-[?]",
+  "new": "3-13",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 156,
+  "printed": 136,
+  "status": "resolved",
+  "old": "Ni. 2-[?]; Ni. 3-[?]",
+  "new": "2-22; 3-8",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled, filled; not viewed by me."
+ },
+ {
+  "pdf": 151,
+  "printed": 131,
+  "status": "resolved",
+  "old": "Ni. 4-[?]",
+  "new": "4-19",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 140,
+  "printed": 120,
+  "status": "resolved",
+  "old": "Pā. Sū. 6-1-[?]",
+  "new": "6-1-214",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 128,
+  "printed": 108,
+  "status": "resolved",
+  "old": "Ni. 3-[?]",
+  "new": "3-8",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 116,
+  "printed": 96,
+  "status": "resolved",
+  "old": "Uṇ. 3-[?]",
+  "new": "3-395",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 112,
+  "printed": 92,
+  "status": "resolved",
+  "old": "Ni. 2-[?]",
+  "new": "2-15",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 111,
+  "printed": 91,
+  "status": "resolved",
+  "old": "Ni. 2-[?]",
+  "new": "2-13",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 104,
+  "printed": 84,
+  "status": "resolved",
+  "old": "Uṇ. 3-[?]",
+  "new": "3-395",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 103,
+  "printed": 83,
+  "status": "resolved",
+  "old": "Ni. 6-[?]",
+  "new": "6-8",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 94,
+  "printed": 74,
+  "status": "resolved",
+  "old": "Ni. 2-[?]",
+  "new": "2-28",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 88,
+  "printed": 68,
+  "status": "resolved",
+  "old": "Uṇ. 2-[?]",
+  "new": "2-239",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 85,
+  "printed": 65,
+  "status": "resolved",
+  "old": "1-42-13 [?]",
+  "new": "1-27-13",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): 1-42-13->1-27-13; not viewed by me."
+ },
+ {
+  "pdf": 82,
+  "printed": 62,
+  "status": "resolved",
+  "old": "Uṇ. 4-[?]",
+  "new": "4-609",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 81,
+  "printed": 61,
+  "status": "resolved",
+  "old": "9-97-28 [?]",
+  "new": "9-97-55",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): 9-97-28->9-97-55; not viewed by me."
+ },
+ {
+  "pdf": 72,
+  "printed": 52,
+  "status": "resolved",
+  "old": "Uṇ. 1-[?]; Uṇ. 2-[?]",
+  "new": "1-143; 2-186",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled, filled; not viewed by me."
+ },
+ {
+  "pdf": 56,
+  "printed": 36,
+  "status": "resolved",
+  "old": "Uṇ. 1-[?]",
+  "new": "1-5",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 50,
+  "printed": 30,
+  "status": "resolved",
+  "old": "1-142-11 [?]",
+  "new": "1-127-11",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): 1-142-11->1-127-11; not viewed by me."
+ },
+ {
+  "pdf": 44,
+  "printed": 24,
+  "status": "resolved",
+  "old": "Uṇ. 4-[?]",
+  "new": "4-603",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
+ },
+ {
+  "pdf": 27,
+  "printed": 7,
+  "status": "resolved",
+  "old": "Uṇ. 1-[?]",
+  "new": "1-48",
+  "note": "Rigveda_Clean_Numerals_7_677.xlsx with its Raw Line Context (work abbreviation used to pair numerals): filled; not viewed by me."
  }
 ]
