@@ -14288,4 +14288,125 @@ You, Agni, are Dravinodas, to him who honours you : you are the divine Savitri, 
 
 ---
 
-**Progress note:** Done through printed p. 407 (PDF 427). Maṇḍala 2 Sūkta 1: Ṛk 7 OPEN (Special Topics on draviṇodāḥ, Nir. 8-1, break off at foot of p. 407; continue p. 408). Flags: p. 407 Nirukta ref zoomed, read 8-1 (file said 8-0 = FILE DISAGREE); p. 405 refs 8-20-17, 8-96-9, 1-106-1, 3-9 agree with file; p. 406 Nir 1-4 agrees; header numerals read from strip (not in file), Varga 18 on pp. 405/407; p. 405 'forty-nine' Maruts numeral read from strip, not zoomed; p. 406/407 Ṛk 7 Pada and Saṃhitā read damo as printed.
+
+### Printed p. 408 (PDF 428)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 7, Special Topics on draviṇodāḥ continued.)*
+
+(Kannada, continued:) "…one who gives; this is the etymological sense of the word. Besides, Yāska has given an explanation for the ṛk beginning *draviṇodā draviṇasaḥ* (Ṛ. Saṃ. 1-15-7) as follows —"
+
+> द्रविणोदा यस्त्वं । द्रविणस इति द्रविणसादिन इति वा द्रविणसानिन इति वा द्रविणसस्तस्मात् पिबत्विति वा । यज्ञेषु देवमीळते । याचंति स्तुवंति वर्धयंति पूजयंतीति वा ॥
+
+> *draviṇodā yastvaṃ | draviṇasa iti draviṇasādina iti vā draviṇasānina iti vā draviṇasastasmāt pibatviti vā | yajñeṣu devamīḷate | yācaṃti stuvaṃti vardhayaṃti pūjayaṃtīti vā ‖*
+
+Kannada: "That is, the ṛtvijs, who desire wealth, oblations and the like, pray that you, called Draviṇodāḥ, may drink Soma in the sacrifices; this is the principal sense. Here *draviṇodāḥ* is nominative singular; how then is it an adjective of *devaṃ*, which is accusative singular? The words must be supplied (*adhyāhāra*) so that the sense is *draviṇodā yaḥ devaḥ taṃ devaṃ*, 'that god who is the giver of wealth'. *Draviṇasaḥ* means those who, wishing wealth or oblations for the worship of deities, pray to the god; therefore the word *draviṇasaḥ* means ṛtvijs. And *īḷate* may be said to have many meanings: they ask, praise, extol, worship."
+
+> तत्को द्रविणोदा इंद्र इति क्रौष्टुकिः । स बलधनयोर्दातृतमस्तस्य च सर्वा बलकृतिः ॥
+
+> *tatko draviṇodā iṃdra iti krauṣṭukiḥ | sa baladhanayordātṛtamastasya ca sarvā balakṛtiḥ ‖*
+
+Kannada: "Now, that has told the etymological sense of the word *draviṇodāḥ*. But who is the deity called *draviṇodāḥ*? Indra himself is called *draviṇodāḥ*; for he is the one who gives most abundantly what the word *draviṇa* denotes, strength and wealth. Therefore Indra alone is to be called *draviṇodāḥ*: such is the view of Krauṣṭuki."
+
+> अथाप्यग्निं द्रविणोदसमाह्यैष पुनरेतस्माज्जायते । यो अश्मनोरंतरग्निं जजान इत्यपि निगमो भवति ॥
+
+> *athāpyagniṃ draviṇodasamāhyaiṣa punaretasmājjāyate | yo aśmanoraṃtaragniṃ jajāna ityapi nigamo bhavati ‖*
+
+Kannada: "And they give another sense for this word. Indra created heaven and earth, and created Agni between them. Therefore Agni too may be called *draviṇodāḥ*; to support this sense the ṛk 'aśmanoraṃtaragniṃ jajāna' is given as an example."
+
+> अथास्यर्तुयाजेषु द्रविणोदसः प्रवादा भवंति । तेषां पुनः पात्रस्येंद्रपानमिति भवति ॥ अथाप्येनं सोमपानेन स्तौति अथाप्याह द्रविणोदाः पिबतु द्रविणोदस इति ॥
+
+*(Kannada continues on p. 409.)*
+
+---
+
+---
+
+
+### Printed p. 409 (PDF 429)
+
+*(Header: "A. 2 A. 5 Va. 18" [Aṣṭaka 2, Adhyāya 5, Varga 18, read from the strip], "Ṛgvedasaṃhitā". Ṛk 7, Special Topics continued.)*
+
+(Kannada, on the preceding passage:) "Because in the sacrifices performed for the seasons (*ṛtu*) it is said that Indra drinks Soma from the vessel in the hands of the ṛtvijs, and because Indra is praised with the mantras of Soma-drinking, there is the usage of calling the ṛtvijs *draviṇodasaḥ*. All this is the view of Krauṣṭuki."
+
+> अयमेवाग्निर्द्रविणोदा इति शाकपूणिः । आग्नेयेष्वेव हि सूक्तेषु द्रविणोदसः प्रवादा भवंति ॥
+
+> *ayamevāgnirdraviṇodā iti śākapūṇiḥ | āgneyeṣveva hi sūkteṣu draviṇodasaḥ pravādā bhavaṃti ‖*
+
+Kannada: "It is the view of Śākapūṇi that Agni himself is *draviṇodāḥ*; for in the hymns addressed to Agni, when the ṛtvijs praise Agni, they use the word *draviṇodāḥ* as an epithet of Agni."
+
+> यथो एतत्स बलधनयोर्दातृतमु इति सर्वासु देवतास्वैश्वर्यं विद्यते । यथो "एतदोजसो जातमुतमन्य एनं" इति चाहेत्ययमप्यग्निरोजसा बलेन मथ्यमानो जायते तस्मादेनमाह सहसस्पुत्रं सहसः सूनुं सहसो यहुम् ॥
+
+> *yatho etatsa baladhanayordātṛtamu iti sarvāsu devatāsvaiśvaryaṃ vidyate | yatho "etadojaso jātamutamanya enaṃ" iti cāhetyayamapyagnirojasā balena mathyamāno jāyate tasmādenamāha sahasasputraṃ sahasaḥ sūnuṃ sahaso yahum ‖*
+
+Kannada: "There is lordship in all deities. Therefore Agni too gives strength and wealth; since he gives strength and wealth, Agni too can be called *draviṇodāḥ*. Besides, the word *draviṇa* has only the meaning 'strength'. When Agni is produced, he is churned with strength, and so there is the saying that Agni is born of strength. For that very reason Agni is praised with the words *sahasaspuṭram* (*sahasaḥ*, of strength; *putram*, the son, that is Agni), *sahasaḥ sūnum*, *sahaso yahum*" — [the ṛks follow]:
+
+> द्युन्नः [?] सर्पिरासुतिः प्रत्नो होता वरेण्यः । सहसस्पुत्रो अद्भुतः ॥
+
+> *dyunnaḥ [?] sarpirāsutiḥ pratno hotā vareṇyaḥ | sahasasputro adbhutaḥ ‖*
+
+(Ṛ. Saṃ. 2-7-6, as printed, zoomed; the file said 9-2-2 = FILE DISAGREE.) *(The first word is read as printed, uncertain.)*
+
+> त्वं ह यद्यविष्ठ्य सहसः सूनवाहुत । ऋतावा यज्ञियो भुवः ॥
+
+> *tvaṃ ha yadyaviṣṭhya sahasaḥ sūnavāhuta | ṛtāvā yajñiyo bhuvaḥ ‖*
+
+(Ṛ. Saṃ. 8-75-3.)
+
+> अग्ने वाजस्य गोमत ईशानः सहसो यहो । अस्मे धेहि जातवेदो महिश्रवः ॥
+
+> *agne vājasya gomata īśānaḥ sahaso yaho | asme dhehi jātavedo mahiśravaḥ ‖*
+
+(Ṛ. Saṃ. 1-79-4, zoomed; the file said 1-769-4 = FILE DISAGREE.)
+
+Kannada: "In these ṛks the words *sahasasputra*, *sahasaḥ sūnu*, *sahaso yahu* are used respectively in praising Agni. Therefore, although other deities too give strength and wealth, Agni is especially denoted by the word *draviṇodāḥ*."
+
+---
+
+---
+
+
+### Printed p. 410 (PDF 430)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 7 concluded; Ṛk 8 begins: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun.)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> त्वामग्ने दम आ विश्पतिं विशस्त्वां राजानं सुविदत्रमृंजते ।
+
+> *tvāmagne dama ā viśpatiṃ viśastvāṃ rājānaṃ suvidatramṛṃjate |*
+
+> त्वं विश्वानि स्वनीक पत्यसे त्वं सहस्राणि शता दश प्रति ॥ ८ ॥
+
+> *tvaṃ viśvāni svanīka patyase tvaṃ sahasrāṇi śatā daśa prati ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वां । अग्ने । दमो । आ । विश्पतिं । विशः । त्वां । राजानं । सुऽविदत्रं । ऋंजते ।
+> त्वं । विश्वानि । सुऽअनीक । पत्यसे । त्वं । सहस्राणि । शता । दश । प्रति ॥ ८ ॥
+
+> *tvāṃ | agne | damo | ā | viśpatiṃ | viśaḥ | tvāṃ | rājānaṃ | su 'vidatraṃ | ṛṃjate |*
+> *tvaṃ | viśvāni | su 'anīka | patyase | tvaṃ | sahasrāṇi | śatā | daśa | prati ‖ 8 ‖*
+
+*(Saṃhitā "दम आ", Pada "दमो", as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The sacrificers serve and adorn Agni, protector of the people, radiant and wise; he is master of all oblations and, in return, provides what is sought, in thousands, hundreds and tens.
+
+> हे अग्ने विश्पतिं यजमानानां पालकं त्वां विशो यजमाना दमो स्वकीये यज्ञगृह आ । आसादयंति ॥ उपसर्गवशाद्योग्यक्रियाध्याहारः । तथा कृत्वा राजानं दीप्यमानं सुविदत्रं शोभनज्ञानमस्मदनुकूलचेतस्कं सुधनं वा त्वामृंजते । प्रसाधयंति ॥ ऋंजतिः प्रसाधनकर्मेति यास्कः ॥ यत एवं ततो हे स्वनीक शोभन-ज्वालारूपसेन त्वं विश्वानि सर्वाणि । हवींषीति शेषः ॥ षष्ठ्यर्थे द्वितीया । विश्वेषां हविषामाज्यसोमपुरोडाशादीनां पत्यसे । ईश्वरो भवसि ॥ ईश्वरनाम्नैतत् । इरज्यति पत्यत इति तन्नामसु पाठात् ॥ यद्वा पतिभावमाचरसि । त्वं तु सहस्राणि शता शतानि दश एतत्संख्यकानि प्रति । एतत्संख्यकानामभिमतसाधनानां प्रतिनिधिरित्यर्थः । प्रतिः प्रतिनिधिप्रतिदानयोरिति कर्मप्रवचनीयत्वं ॥ त्रैर्यत्फलं भवति तत्त्वया लभ्यत इत्यर्थः ॥
+
+*(Its tail: the accusative in the sense of a genitive, the synonym of "lord" from the Nighaṇṭu, and *prati* as a karmapravacanīya; characterized, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; विश्पतिं (*viśpatiṃ*) — protector of the sacrificers; त्वां (*tvāṃ*) — you; विशः (*viśaḥ*) — the sacrificers; दमो (*damo*) — in their own sacrificial house; आ (*ā*) — serve; राजानं (*rājānaṃ*) — radiant; सुविदत्रं (*suvidatraṃ*) — one who has excellent knowledge or wealth; त्वां (*tvāṃ*) — you; ऋंजते (*ṛṃjate*) — adorn and worship; स्वनीक (*svanīka*) — O Agni, who have an army of the form of flames; त्वं (*tvaṃ*) — you; विश्वानि (*viśvāni*) — to all oblations; पत्यसे (*patyase*) — you are lord; त्वं (*tvaṃ*) — you; सहस्राणि (*sahasrāṇi*) — thousands in number; शता (*śatā*) — hundreds in number; दश (*daśa*) — tens in number, that is, of desired objects; प्रति (*prati*) — as a substitute, you are the one who accomplishes them for him.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, the sacrificers serve you in their own sacrificial house. They adorn and worship you, who are radiant and possess excellent knowledge or wealth. You, who have flame-like… *(the Bhāvārtha breaks off at the foot of the page; Ṛk 8 is left open and continues on p. 411.)*
+
+---
+
+**Progress note:** Done through printed p. 410 (PDF 430). Maṇḍala 2 Sūkta 1: Ṛk 8 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha written; Bhāvārtha begun, breaks off at foot of p. 410 at 'You, who have flame-like'; continue p. 411 with the rest of Bhāvārtha, printed English, Special Topics). Flags: p. 409 refs 2-7-6 and 1-79-4 zoomed (file said 9-2-2 and 1-769-4 = FILE DISAGREE), 8-75-3 agrees; p. 408 ref 1-15-7 agrees; Varga 18 on p. 409 and header numerals read from strip; p. 409 first word of the Ṛk quoted at 2-7-6 uncertain [?]; p. 410 Saṃhitā 'दम आ' vs Pada 'दमो' as printed; Ṛk 8 number read from strip.
