@@ -20025,4 +20025,44 @@ May we, uninjured, be secure in the protection of Agni, Indra, Soma, and the god
 
 ---
 
-**Progress note:** Done through printed p. 536 (PDF 557) plus the half-title pages PDF 558–559. Maṇḍala 2, Sūkta 8 is complete (Ṛk 6 finished, p. 536) and the Fifth Adhyāya of the Second Aṣṭaka is closed with its colophon and Kannada line. The Sixth Adhyāya begins: PDF 558 (printed 537) is the half-title page with the invocation, and the bhāṣya introduction to Sūkta 9 (⟦नि होता⟧, 6 Ṛks, Gṛtsamada, Triṣṭubh, Agni) is written. PDF 559 duplicates PDF 558 (not repeated); the offset printed = PDF − 21 may therefore change by one from the next page, to be checked on the next page's header. Next batch starts at Sūkta 9, Ṛk 1, after the introduction (no Ṛk left open). FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: header numerals (Maṃ. 2 A. 1 Sū. 8 [?]), Ni. 3-9 [?], Sūkta range "9–23 [?]" on PDF 558, Āśvalāyana references आ. ४-१३ [?] and आ. २-१२ [?]. [?] places: the Kannada number-word ಸಲವತ्ತಾರು on PDF 557.
+---
+
+### Printed p. 538 (PDF 560)
+
+*(Header: "538", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The printed page number is 538 on PDF 560, so the offset printed = PDF − 22 holds from here on. PDF 558 was an unnumbered half-title page and PDF 559 duplicated it. The numeral file has no rows for this page.)*
+
+**अनुवाद (Anuvāda — Kannada, translated; Sūkta 9 introduction)**
+
+(Kannada, translated:) This sūkta, नि होता (*ni hotā*), is the ninth sūkta in the first anuvāka of the second Maṇḍala. It has six Ṛks. The seer of this sūkta is Gṛtsamada, the seer of the Maṇḍala; the deity is Agni; the metre is Triṣṭubh. At the time of reciting the Prātaranuvāka and Āśvina-śastra mantras, this sūkta is applied to the Triṣṭubh Ṛks belonging to the Āgneya sacrifice (*kratu*). This is set out in the Āśvalāyana Śrauta-sūtra, in the section beginning अथैतस्या (*athaitasyā*), by the sūtra नि होता होतृषदन इति सूक्ते (*ni hotā hotṛṣadana iti sūkte*) (Ā. 4-13 [?]). In the sacrificial-limb rite called Agnipraṇayana, the first two Ṛks of this sūkta are applied. This is set out in the Āśvalāyana Śrauta-sūtra, in the section पंचम्यां पौर्णमास्याम् (*paṃcamyāṃ paurṇamāsyām*), by the sūtra नि होता होतृषदन इति द्वे (*ni hotā hotṛṣadana iti dve*) (Ā. 2-12 [?]).
+
+(The printed Āśvalāyana references are read as "Ā. 4-13" and "Ā. 2-12"; the numerals are not zoomed [?].)
+
+---
+
+**॥ ओम् ॥**
+
+**सूक्त—९ (Sūkta 9)**
+
+(Kannada, translated:) Maṇḍala 2 ‖ Anuvāka 1 ‖ Sūkta 9 ‖ Aṣṭaka 2 ‖ Adhyāya 6 ‖ Varga 1 ‖ Number of Ṛks in the sūkta: 6 ‖ Ṛṣi: Gṛtsamada ‖ Devatā: Agni ‖ Chandas: Triṣṭubh.
+
+**॥ संहितापाठः ॥ (Ṛk 1)**
+
+> नि होता होतृषदने विदानस्त्वेषो दीदिवाँ असदत्सुदक्षः ।
+> अदब्धव्रतप्रमतिर्वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निः ॥ १ ॥
+
+> *ni hotā hotṛṣadane vidānastveṣo dīdivā~ asadatsudakṣaḥ |*
+> *adabdhavratapramatirvasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agniḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> नि । होता । होतृऽसदने । विदानः । त्वेषः । दीदिऽवान् । असदत् । सुऽदक्षः ।
+> अदब्धऽव्रतऽप्रमतिः । वसिष्ठः । सहस्रंऽभरः । शुचिऽजिह्वः । अग्निः ॥ १ ॥
+
+> *ni | hotā | hotṛ 'sadane | vidānaḥ | tveṣaḥ | dīdi 'vān | asadat | su 'dakṣaḥ |*
+> *adabdha 'vrata 'pramatiḥ | vasiṣṭhaḥ | sahasraṃ 'bharaḥ | śuci 'jihvaḥ | agniḥ ‖ 1 ‖*
+
+*(Pada as printed. The compound mark (ऽ) after दीदि (*dīdi*), व्रत (*vrata*) and शुचि (*śuci*) is read from the strip, not zoomed [?]. The Ṛk 1 Sāyaṇa-bhāṣya, Pratipadārtha and the rest begin on the next page; Ṛk 1 is left open.)*
+
+---
+
+**Progress note:** Done through printed p. 538 (PDF 560). The offset printed = PDF − 22 from PDF 560, because the half-title PDF 558 was unnumbered and PDF 559 duplicated it. The Kannada anuvāda of the Sūkta 9 introduction is written, followed by the Sūkta 9 heading block (Maṇḍala 2, Anuvāka 1, Aṣṭaka 2, Adhyāya 6, Varga 1, 6 Ṛks, Gṛtsamada, Agni, Triṣṭubh) and the Saṃhitā and Pada of Ṛk 1. PDF 558 and 559 were already written and are not repeated; the task asked for them again but they carry nothing new. Ṛk 1 is left open: the next batch starts at its Sāyaṇa-bhāṣya on printed p. 539 (PDF 561). FILE DISAGREE: none (the numeral file has no rows). Not zoomed: the Āśvalāyana references 4-13 and 2-12 [?], and the Pada compound marks (दीदिऽवान्, अदब्धऽव्रतऽप्रमतिः, शुचिऽजिह्वः) [?].
