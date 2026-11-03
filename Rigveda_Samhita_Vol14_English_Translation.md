@@ -12498,4 +12498,73 @@ As a skin that is to be filled with liquor is placed in the house of the liquor-
 
 ---
 
-**Progress note:** Done through printed p. 356 (PDF 376). Sūkta 191: Ṛks 1-9 complete; Ṛk 10 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha written; printed English and Special Topics on p. 357). Varga 15 in header of p. 355 (unzoomed); no Varga closing note yet. (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 348-350: p. 348 header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value, not zoomed; standard number differs); Ṛk 7 numeral 7 read from the strip (flat-footed); Ṛk 8 numeral 8 read from the strip; 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtras 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. p. 349 header 'A. 2. A. 5 Va. 15' (Varga 15 read on pp. 347 and 349, unzoomed); 'sūcīkāḥ'/'sūcikāḥ' as printed; 'koḷakumaṇḍala' as it looks; stray dot in printed English. p. 350 header Sū. 191; Pā. Sū. 4-4-110 and 6-1-213 agree with the file (not zoomed); 'atiṅanta' printed so [sic?]; Ṛk 8 bhāṣya 'sarvānadṛṣṭānadraṣṭavyān' garbled [?]; Ṛk 8 Pada compound signs in viśva-dṛṣṭaḥ, adṛṣṭa-hā, yātu-dhānyaḥ read as compound marks; Saṃhitā 'ñjaṃbhayan' (ञ्जं) as it looks. Counts for batch pp. 348-350: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 2 (4-4-110, 6-1-213) plus 6-1-136 (unzoomed), FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 7 and 8 numerals. Flags pp. 351-353: Ṛk 8 bhāṣya 'ato smat…' word garbled [?]; Special Topics Sūkta numbers 87[?] and 118[?] for Agni prayers read from small print; Atharva-veda 5-29-6 to 8 ZOOMED, read 5-29-6 (file said 5-29-26, probably a repeated digit); 2-6-6-3 for Taittirīya Saṃhitā (file said 2-6-63, separator lost); other numerals agree with file (10-87-16,17; 8-48-20; 8.6-3; 5-29-5,10; 6-111-3; 1-15-5; 135-9; 6-104-8; 5-3-27; 3-2-88; 8-2-4). 'adṛṣṭan' printed in grammar of Ṛk 8 (as printed [sic?]). Ṛk 9 numeral 9 read from strip. Pā. sūtras for gati-kāraka kṛt, ṇic and tāsyanudāttet printed without numbers. Counts for batch pp. 351-353: 3 distinct [?] places, 1 zoom, numerals settled by file without zoom 11, FILE DISAGREE 1, lacking in file: headers, Ṛk 9 numeral, Special Topics sūkta numbers. Flags pp. 354-356: p. 354 header Sū. 191; Ṛk 9 printed English 'benigs' [sic]; Special Topics refs 1-115-1 and 1-50-11 agree with file (not zoomed); 'śākhavu' as printed for the heat/brilliance; sage name 'Praskaṇva' as printed. p. 355 header Va. 15 (unzoomed); Pā. Sū. 7-4-19 (patateḥ pum) ZOOMED, read 7-4-19 (file said 6-4-19; crop shows flat-footed 7); 'ajādeśa' printed for the cli replacement [as printed]; 'puṣādidyutādi…' and 'upadhāyāṃ ca' printed without numbers; Ṛk 10 numeral 10 read from strip; Pada 'hari-sthāḥ' compound sign as it looks. p. 356 bhāṣya words [?]: 'pūjāyaṃ' (printed 'prūjāyaṃ'), 'tadanugrahāttraiva', 'eṣyaiva'; 'marāma' read for printed bhāṣya form. Counts for batch pp. 354-356: 3 distinct [?] places, 1 zoom, numerals settled by file without zoom 2 (1-115-1, 1-50-11), FILE DISAGREE 1 (6-4-19 vs 7-4-19), lacking in file: headers, Ṛk 10 numeral.
+
+### Printed p. 357 (PDF 377)
+
+*(Header: "A. 2 A. 5 Va. 15 ]" (Varga numeral read unzoomed), "Ṛgvedasaṃhitā". Ṛk 10 continued: printed English and Special Topics begun.)*
+
+**English Translatin [sic]** *(printed heading)*
+
+I deposit the poison in the solar orb, like a leather bottle in the house of a vender [sic] of spirits ; verily, that adorable (Sun) never dies, nor, (through his favour), shall we die (of the venom) ; for, through afar off, yet drawn by his coursers, he will overtake (the poison) ; the science of antidotes converted you, (Poison), to ambrosia.
+
+**विशेषविषयगळು (Viśeṣaviṣayagaḷu)**
+
+In the previous Ṛks the rising of the sun and the ascent of the sun were told; in this Ṛk the method by which the sun removes poison is described.
+
+The method of removing poison is what is told in the Viṣavidyā or Madhuvidyā; the commentator says: **आदित्यमंडले चतुर्थेनांगुलिना विषमादाय मधुकृत्य योजयित्वा निर्विषो भवेदिति यदेतद्विषविद्यायामुक्तं तदिदमत्रोच्यते (*ādityamaṃḍale caturthenāṃgulinā viṣamādāya madhukṛtya yojayitvā nirviṣo bhavediti yadetadviṣavidyāyāmuktaṃ tadidamatrocyate*)** — that is, taking the poison that is in the body with the fourth finger of the right hand, that is, the finger called *anāmikā*, and joining it to the sun's disc (in a picture drawn to resemble the sun's disc, in the sunshine), by performing the practices of the Madhuvidyā the poison is removed; this, which is stated in the book called Viṣavidyā, is said here — thus the commentator explains the chief matter of this Ṛk.
+
+**सूर्ये विषं आ सजामि (*sūrye viṣaṃ ā sajāmi*)** — **विषावृतोऽगस्त्योऽहं सूर्ये सर्वस्य प्रेरयितरि मधुविद्यारूपे सूर्यमंडले विषमावृत्य वर्तमानं सूर्य आ सजामि (*viṣāvṛto 'gastyo 'haṃ sūrye sarvasya prerayitari madhuvidyārūpe sūryamaṃḍale viṣamāvṛtya vartamānaṃ sūrya ā sajāmi*)** — "I, Agastya, whose body is pervaded by poison, gather all the poison [that is in my body] and place it in the sun's disc, which is of the form of the Madhuvidyā and impels the whole world" — so the sage has said. Here "the sun's disc" may mean a figure like the sun's disc, in the sunshine, in the practices carried out for removing poison (or, according to the Mantra-tantra-śāstra, a diagram of the sun's disc made of seed-syllables); chiefly it can be said to mean a place with sun's rays, or the sunshine.
+
+**दृतिं सुरावतो गृहे (*dṛtiṃ surāvato gṛhe*)** — the sage tells an example about gathering the poison and placing it in the sunshine:
+
+**सुरावतो गृहे सुरानिर्मातृसदने दृतिमिव चर्ममयं सुरापात्रमिव । यथा तत्कर्तुर्न दोषाय भवति तद्वद्विषमादित्यस्य न बाधकमित्यर्थः (*surāvato gṛhe surānirmātṛsadane dṛtimiva carmamayaṃ surāpātramiva | yathā tatkarturna doṣāya bhavati tadvadviṣamādityasya na bādhakamityarthaḥ*)** — as a man who makes liquor stores it in his house, gathering it in a cloth (bag) of leather, so I too gather all the poison
+
+---
+
+
+### Printed p. 358 (PDF 378)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 1. A. 24. Sū. 191". Ṛk 10 Special Topics continued.)*
+
+and place it in one place in the sunshine — so the sage states a simile. And just as, by gathering liquor and placing it in one place (without drinking it), no harm of any kind comes to the maker of liquor, so by the poison-gathering placed in the sunshine no harm of any kind comes to the sun — so it is explained.
+
+**चित् (*cit*)** — **चिदिति पूजायां । अत्यंतमविनश्वरा (*ciditi pūjāyāṃ | atyaṃtamavinaśvarā*)** [as printed]. Yāska says that the particle *cit* is of many kinds of use (*aneka-karma*) — that it is employed in many different senses — and, **आचार्यश्चिदिदं ब्रूयादिति पूजायां । दधिचिदित्युपमार्थे । कुल्माषांश्चिद्वाहरेत्यवकुत्सिते (*ācāryaścididaṃ brūyāditi pūjāyāṃ | dadhicidityupamārthe | kulmāṣāṃścidvāharetyavakutsite*)** (as printed; the last word-division as it looks); he explains the meaning by giving examples: in the sentence "ācāryaś cit" the particle *cit* is used in the sense of honour; in the sentence "dadhicit" in the sense of comparison; and in "kulmāṣāṃś cit" in the sense of reproach. Here Sāyaṇa has explained the meaning as used in the sense of honour.
+
+**सो चिन्नु न मराति नो वयं (*so cin nu na marāti no vayaṃ*)** — for this sentence Sāyaṇa says: **पूज्यः सः सूर्यः खलु न मराति । न म्रियते । नो वयं मराम । तदनुग्रहात्त्रैव [?] विषस्य योजितत्वाद्वयमपि न म्रियामहै (*pūjyaḥ saḥ sūryaḥ khalu na marāti | na mriyate | no vayaṃ marāma | tadanugrahāttraiva [?] viṣasya yojitatvādvayamapi na mriyāmahai*)** (the word *tadanugrahāttraiva* as it looks [?]). By placing the poison in the sunshine there is no harm to the sun. Therefore the sun does not die; we too do not die. The chief intention is: since the sun has the power of removing poison, no harm at all comes to the sun from the poison we place in the sunshine. By that sun's favour our poison is removed and no harm comes to us either, that is, we too do not die. The reason for this he tells in the next sentence.
+
+**अस्य योजनं हरिष्ठा चकार (*asya yojanaṃ hariṣṭhā cakāra*)** — the sun, even though he is very far off, with the help of his rays overcomes the poison and makes it powerless (*nirvīrya*). And the poison goes away and becomes nectar; this the sage has said here, addressing the poison itself.
+
+**मधु त्वा मधुला चकार (*madhu tvā madhulā cakāra*)** — **विषस्य विषभावं दूरेऽपनोद्यामृतीचकारेति । विष्यैव [?] मधुना मधुदात्री निर्विषीकत्री मधुविद्या । यदेतदादित्यस्य विषयोजनं तेन चामृतीकरणं यदस्ति एषा मधुविद्या (*viṣasya viṣabhāvaṃ dūre 'panodyāmṛtīcakāreti | viṣyaiva [?] madhunā madhudātrī nirviṣīkatrī madhuvidyā | yadetadādityasya viṣayojanaṃ tena cāmṛtīkaraṇaṃ yadasti eṣā madhuvidyā*)** (*viṣyaiva* as it looks [?]). The placing of poison in the sun's disc, and the sun's turning that poison into nectar, is called Madhuvidyā; therefore the sage, addressing the poison, says: "O poison, the sun not only makes your poison [the power of killing] powerless, but by the Madhuvidyā also changes the poison into nectar." On this matter the scholar Wilson —
+
+The notion that pervades this stanza and forms the burden of the three following, is derived, according to Sayana, from the Visha-Vidya, the science of poisonns [sic] or of antidotes,
+
+---
+
+
+### Printed p. 359 (PDF 379)
+
+*(Header: "A. 2 A. 5 Va. 15 ]" (Varga 15, unzoomed), "Ṛgvedasaṃhitā". Wilson's English concludes; Special Topics (Dadhīci legend) begun; Vyākaraṇa-prakriyā of Ṛk 10 begun.)*
+
+whence it is also termed Madhu-vidya, science of ambrosia ; one formula of which, as cited by him is — " having taken the poison in the solar arb [sic] with the fourth finger ; having made it ambrosia and caused them to blend together, may it become poisonless" By the Surya Mandala or orb of the Sun is probably to be understood a mystical diagram or figure wholely [sic] or partly typical of the solar orb ; the Sun being considered as especially instrumental in counteracting the operation of poison ; the science of antidotes is also named in the text Madhula, as synonymous with Madhuvidya. It was originally taught by Indra to Dadyanch who communicated it to the aswins, and thereby lost his head.
+
+— thus he has said. The science that destroys poison and turns it into nectar is called Madhuvidyā. In this Ṛk the word Madhuvidyā is denoted by the word *madhulā*. This Madhuvidyā was taught in former times by Indra to Dadhīci; and, having forbidden him to tell it to anyone, he said that if, against that, he taught it to anyone, the head of the one who taught would be cut off. Still, at the prayer of the Aśvin deities, the sage Dadhīci taught that Madhuvidyā to them; and when, because of that, his head was cut off, the Aśvin deities fixed on [him] the head of a horse in place of that head and made him live […] […] [the line ends at "bduki-si" and the next begins "-dareṃdū": a word may be lost at the strip join, [?]]. We have described the particulars of this legend in detail in Ṛ. Saṃ. Part 5 [?] page 615 ; Part 6 page 615 ; Part 9 page 245 and 401, and other places.
+
+*(Ṛk 10 Special Topics end; the Dadhīci passage is complete on this page.)*
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+सजामि (*sajāmi*): root षञ्ज सङ्गे (*ṣañja saṅge*); because of the interchange of vikaraṇa in the Chandas, śa instead of śap in laṭ; since there is the *jhaldvad* [?] state, the nasal is elided; by the rule printed as अतो दीर्घो यञि (*ato dīrgho yañi*) [as it looks] the aṅga is lengthened; the nighāta accent after an *atiṅanta*.
+
+दृतिम् (*dṛtim*): root दृ विदारणे (*dṛ vidāraṇe*); the affix ti by the Uṇādi rule beginning दृणातेर्ह्रस्वश्च (*dṛṇāterhrasvaśca*) (Uṇ. Sū. number unclear [?]); shortening of the root; since the affix is *nit* by the rule printed as पदिप्रथिभ्यां नित् (*padiprathibhyāṃ nit*) [as it looks], the accent on the first syllable by ञ्नित्यादिर्नित्यम् (*ñnityādirnityam*) (as it looks; no number).
+
+मराति (*marāti*): root मृङ् प्राणत्यागे (*mṛṅ prāṇatyāge*); parasmaipada affix by vyatyaya; by लेटोऽडाटौ (*leṭo 'ḍāṭau*) the aḍāgama to ti of leṭ; guṇa of the ṛ of the root; nighāta accent because of the *atiṅanta* that follows.
+
+मराम (*marāma*): the first person plural form of leṭ of the same root; the accent rules as before.
+
+हरिष्ठाः (*hariṣṭhāḥ*): "he who stands on the horses"; root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); by सुपिस्थः (*supisthaḥ*) (Pā. Sū. 3-2-4, file value; the numeral was not zoomed, it looks ३-२-४) the affix ka; by आतो लोप इटि च (*āto lopa iṭi ca*) [as it looks; no number] the ā of the root is elided. *(The note continues on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 359 (PDF 379). Sūkta 191: Ṛks 1-10 complete in text (Ṛk 10 Special Topics ended p. 359); Vyākaraṇa-prakriyā of Ṛk 10 OPEN (sajāmi, dṛtim, marāti, marāma done; hariṣṭhāḥ begun, madhulā/cakāra and rest follow p. 360); Ṛk 11 not yet begun. Varga 15 in headers of pp. 357 and 359 (unzoomed); no Varga closing note yet. (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 351-356 as before. Flags pp. 357-359: printed heading 'English Translatin' and 'vender', 'poisonns', 'arb', 'wholely' as printed [sic]; Special Topics 'purely' reading: 'tadanugrahāttraiva' and 'viṣyaiva' (as it looks) [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. Part number before 'page 615' (first) read 5 [?], unzoomed; possible lost word at strip join p. 359 (‘…bduki-si / -dareṃdū’) [?]; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees with file (not zoomed). Counts for batch pp. 357-359: 6 distinct [?] places, 0 zooms, numerals settled by file without zoom 1 (3-2-4), file lacked 4 (unzoomed).
