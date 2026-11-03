@@ -5,14 +5,15 @@ Set V6OLD=1 to use the old scan Rig_Vol6.pdf instead."""
 import os,re,glob,subprocess
 VOL=os.path.abspath(os.path.join(os.path.dirname(__file__),'..'))   # the vol6/ folder
 ROOT=os.path.dirname(VOL)
-OLD=os.path.join(ROOT,'Rig_Vol6.pdf')
-EN=os.path.join(ROOT,'Rigveda_Samhita_Vol6_English_Translation.md')
+OLD=os.path.join(VOL,'scans','Rig_Vol6.pdf')
+EN=os.path.join(VOL,'Rigveda_Samhita_Vol6_English_Translation.md')
 REVIEW=os.path.join(VOL,'review')
 WORK=os.environ.get('V6WORK','/tmp/v6num/')
 os.makedirs(WORK,exist_ok=True)
 OFFSET=19   # better scan: printed = PDF - 19 (PDF 20 = p. 1, PDF 21 = p. 2); old scan Rig_Vol6.pdf: PDF - 18
 def _parts():
     fs=sorted(glob.glob(os.path.join(VOL,'scans','*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
+    fs=[p for p in fs if not os.path.basename(p).startswith('Rig_Vol')]   # old scan lives in scans/ too
     out=[];g=1
     for p in fs:
         n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',p],capture_output=True,text=True).stdout).group(1))

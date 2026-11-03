@@ -14,7 +14,7 @@ PARTS=[  # (path, first global PDF page); better scan in 7 parts (101+6x100 = 70
     ('vol4/scans/04 RigvedaSamhithaVolume04 7.pdf',602),
 ]
 LAST=701
-EN=os.path.join(ROOT,'Rigveda_Samhita_Vol4_English_Translation.md')   # stays at the repository root (publish/build_vol45.py reads it there)
+EN=os.path.join(VOL,'Rigveda_Samhita_Vol4_English_Translation.md')   # moved to vol4/ (Nov 3 2026)
 REVIEW=os.path.join(VOL,'review')
 WORK=os.environ.get('V4WORK','/tmp/v4num/')
 os.makedirs(WORK,exist_ok=True)
