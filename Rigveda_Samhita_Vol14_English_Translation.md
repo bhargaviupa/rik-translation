@@ -14539,4 +14539,112 @@ Kannada: "One who shines in the bodies of living beings in the form of heat. The
 
 ---
 
-**Progress note:** Done through printed p. 413 (PDF 433). Maṇḍala 2 Sūkta 1: Ṛk 8 concluded (p. 411), Ṛk 9 complete (pp. 412–413), Ṛk 10 OPEN (only Saṃhitā written; continue p. 414 with Pada, bhāṣya, etc.). Header Varga 18 read from strip. Flags: no FILE DISAGREE (file refs 6-21, 3-11, 4-6-6, 6-15-16, 7-1-23, 7-3-6 agree with the strips; the file row for p. 412 header was garbled and was ignored); p. 412 bhāṣya "कर्मनामैतत्" slightly unclear, written as read; p. 413 Ṛk 10 Saṃhitā "नमस्य[?]स्त्वं" has an unclear glyph; Ṛk 9 Pratipadārtha "अधृषः — ಆಸಕ್ತನಾಗಿರುತ್ತಲೂ" as printed; Ṛk 9 number read from strip as 9; no zooms.
+### Printed p. 414 (PDF 434)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 10 continued: Pada, bhāṣya, Pratipadārtha, Bhāvārtha.)*
+
+*(Note on the Saṃhitā written on p. 413: the Pada below prints the last syllable of the word after "नमस्य" as a plain visarga, so the word is नमस्यः and the Saṃhitā reads "नमस्यस्त्वं". The unclear glyph flagged on p. 413 is therefore a visarga. The Pada also prints "धक्षि", not "दक्षि", for the word written "दक्षि" in the Saṃhitā on p. 413; the bhāṣya below also has "धक्षि". The p. 413 text is closed and is not altered here. The Saṃhitā reading should be धक्षि.)*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । ऋभुः । आके । नमस्यः । त्वं । वाजस्य । क्षुऽमतः । रायः । ईशिषे ।
+> त्वं । वि । भासि । अनु । धक्षि । दावने । त्वं । विऽशिक्षुः । असि । यज्ञं । आऽतनिः ॥ १० ॥
+
+> *tvaṃ | agne | ṛbhuḥ | āke | namasyaḥ | tvaṃ | vājasya | kṣu 'mataḥ | rāyaḥ | īśiṣe |*
+> *tvaṃ | vi | bhāsi | anu | dhakṣi | dāvane | tvaṃ | vi 'śikṣuḥ | asi | yajñaṃ | ā 'taniḥ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, near and visible, is to be saluted; he is lord of renowned food and wealth; he shines, burns the fuel, and as accomplisher of the sacrifice gives its fruit widely.
+
+> हे अग्ने त्वमृभुः । उरुभासमानो मेधावी वा । त्वमाकेऽन्तिके सन्निधावेव नमस्यो नमस्कार्यः । स्तुत्य इत्यर्थः । इतरदेवतावन्मंत्रप्रतिपाद्याकारेण स्तुत्यो न भवसि किंतु प्रत्यक्ष इत्यर्थः । तथा त्वं क्षुमतः शब्दवतः सर्वत्र श्रूयमाणस्य वाजस्यान्नस्य रायो धनस्य चेशिषे । स्वामी भवसि । अतस्तद्देहीत्यर्थः । हे अग्ने त्वं विभासि । विशेषेण दीप्यसे । तदर्थमनुक्रमेणैव धक्षि । दहसि काष्ठादीन् ॥ दहेर्लटि सिपि रूपं । संहितायां भष्भावाभावश्छांदसः ॥ किमर्थमेवं । दावने छेदनायांधकारस्य । यद्वा हविषो दानवते यजमानाय वा । किंच त्वं यज्ञं विशिक्षुर्विशेषेण शिक्षयिता साधयितासि ॥ न लोकाव्ययेति षष्ठ्याः निषेधः ॥ तथातनिः फलस्य सर्वतो विस्तारयिता ॥
+
+> *he agne tvamṛbhuḥ | urubhāsamāno medhāvī vā | tvamāke 'ntike sannidhāveva namasyo namaskāryaḥ | stutya ityarthaḥ | itaradevatāvanmaṃtrapratipādyākāreṇa stutyo na bhavasi kiṃtu pratyakṣa ityarthaḥ | tathā tvaṃ kṣumataḥ śabdavataḥ sarvatra śrūyamāṇasya vājasyānnasya rāyo dhanasya ceśiṣe | svāmī bhavasi | atastaddehītyarthaḥ | he agne tvaṃ vibhāsi | viśeṣeṇa dīpyase | tadarthamanukrameṇaiva dhakṣi | dahasi kāṣṭhādīn ‖ daherlaṭi sipi rūpaṃ | saṃhitāyāṃ bhaṣbhāvābhāvaśchāṃdasaḥ ‖ kimarthamevaṃ | dāvane chedanāyāṃdhakārasya | yadvā haviṣo dānavate yajamānāya vā | kiṃca tvaṃ yajñaṃ viśikṣurviśeṣeṇa śikṣayitā sādhayitāsi ‖ na lokāvyayeti ṣaṣṭhyāḥ niṣedhaḥ ‖ tathātaniḥ phalasya sarvato vistārayitā ‖*
+
+*(Its tail: the form of the root दह् (*dah*) in the present tense, second person singular; the Vedic absence of the change of the aspirate in the Saṃhitā; and the prohibition of the genitive by a sūtra beginning "na lokāvyaya…". Characterized, not explained. The sūtra number is not printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; ऋभुः (*ṛbhuḥ*) — you are one who shines exceedingly (or: you are intelligent); आके (*āke*) — even while you are near and visible; नमस्यः (*namasyaḥ*) — one worthy of being worshipped; त्वं (*tvaṃ*) — you; क्षुमतः (*kṣumataḥ*) — widely renowned; वाजस्य (*vājasya*) — of food; रायः (*rāyaḥ*) — of wealth; ईशिषे (*īśiṣe*) — you are lord (O lord); त्वं (*tvaṃ*) — you; वि भासि (*vi bhāsi*) — you blaze exceedingly; दावने (*dāvane*) — for the driving away of darkness, or for the sacrificer who offers oblation; त्वं (*tvaṃ*) — you; अनु धक्षि (*anu dhakṣi*) — you burn fuel and the like; यज्ञं (*yajñaṃ*) — the sacrifice; विशिक्षुः (*viśikṣuḥ*) — one who accomplishes it in a special manner; असि (*asi*) — you are (so); आतनिः (*ātaniḥ*) — you are also the giver of its fruit to that sacrifice.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, you shine exceedingly. You are worthy of being worshipped even while you are near and visible. You are lord over the renowned food and wealth. You, who blaze exceedingly, burn fuel and the like for the sacrificer who offers oblations. You accomplish the sacrifice in a special manner and are also the giver of its fruit."
+
+---
+
+### Printed p. 415 (PDF 435)
+
+*(Header: "A. 2 A. 5 Va. 18", "Ṛgvedasaṃhitā". The English translation of Ṛk 10, then Special Topics. The file's header row was garbled ("2.8"); the strip shows the usual A. 2 A. 5 Va. 18.)*
+
+**English Translation** *(as printed; heading printed "Englih Tranlation" [sic])*
+
+You, Agni, are (ever) resplendent, and are to be glorified when present ; you are lord over all renowned food and riches ; you shine brightly, and you consume (the oblation) for him who offers it ; you are the especial accomplisher of the sacrfice [sic, as it appears; the print is blurred], and bestower (of its rewards).
+
+**विशेषविषयगळु (Special Topics)**
+
+ऋभुः (*ṛbhuḥ*) — उरुभासमानो मेधावी वा (*urubhāsamāno medhāvī vā*). (Kannada:) "'Shining abundantly, or intelligent (possessing understanding)' is Sāyaṇa's explanation. One may also say, if one wishes, that it is the form of the deity named Ṛbhu, but the meaning Sāyaṇa has given is the apt one here."
+
+आके नमस्यः (*āke namasyaḥ*) — (Kannada:) "The word आके (*āke*) is read among the names of 'near' (Ni. 3-9) and also among the names of 'far' (Ni. 3-20). Here Sāyaṇa says:"
+
+*Gist:* "Worthy of salutation because he is near and present; unlike other deities he is not praised only by what the mantras set forth, but is visible."
+
+> अंतिके सन्निधावेव नमस्यो नमस्कार्यः स्तुत्य इत्यर्थः । इतरदेवतावन्मंत्रप्रतिपाद्याकारेण स्तुत्यो न भवसि किंतु प्रत्यक्ष इत्यर्थः ।
+
+> *aṃtike sannidhāveva namasyo namaskāryaḥ stutya ityarthaḥ | itaradevatāvanmaṃtrapratipādyākāreṇa stutyo na bhavasi kiṃtu pratyakṣa ityarthaḥ |*
+
+(Kannada:) "The other deities are not visible to our eyes; they are far away. Therefore, according to the śruti sentence परोक्षं वा अन्ये ते वा इज्यंते (*parokṣaṃ vā anye te vā ijyaṃte*) (as printed; Tai. Saṃ. 1-2-3-1 [?]) they have to be worshipped indirectly, by hymns and the like. But the case of Agni is not so. Since Agni is visible directly, right near us, we not only praise him with hymns and the like but also make salutation to him who is facing us. Therefore the use here of the words अंतिके (*aṃtike*) and नमस्यः (*namasyaḥ*) is appropriate in relation to Agni."
+
+त्वं वाजस्य क्षुमतः राय ईशिषे (*tvaṃ vājasya kṣumataḥ rāya īśiṣe*) — (Kannada:) "क्षुमतः (*kṣumataḥ*) means 'making sound', that is, 'that which everyone is asking for, wanting it'. O Agni, you are lord over the food that all ask for and over riches and other wealth; this is the meaning."
+
+त्वं वि भासि अनु धक्षि दावने (*tvaṃ vi bhāsi anu dhakṣi dāvane*) — (Kannada:) "I shine for the sacrificer who offers oblations; and burning the fuel and the like that are offered in the fire, and the oblation, ghee and so on [reading of the first word printed "पवि/हवि" doubtful], I blaze well for the sacrificer's attainment of satisfaction; this is the meaning."
+
+त्वं विशिक्षुः असि यज्ञं (*tvaṃ viśikṣuḥ asi yajñaṃ*) — (Kannada:) "One who tells the sacrificer and the priests, so that they understand it well, the rites to be performed one after another in the sacrifice. Since you know well the duties of the hotṛ, adhvaryu and the others, you teach them the sacrificial procedure; this is the meaning."
+
+आतनिः (*ātaniḥ*) — फलस्य सर्वतो विस्तारयिता (*phalasya sarvato vistārayitā*) — (Kannada:) "One who gives abundantly the fruits to be obtained from sacrificial acts; this is the meaning."
+
+---
+
+### Printed p. 416 (PDF 436)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1".)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने अदितिर्देव दाशुषे त्वं होत्रा भारती वर्धसे गिरा ।
+> त्वमिळा शतहिमासि दक्षसे त्वं वृत्रहा वसुपते सरस्वती ॥ ११ ॥
+
+> *tvamagne aditirdeva dāśuṣe tvaṃ hotrā bhāratī vardhase girā |*
+> *tvamiḷā śatahimāsi dakṣase tvaṃ vṛtrahā vasupate sarasvatī ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । अदितिः । देव । दाशुषे । त्वं । होत्रा । भारती । वर्धसे । गिरा ।
+> त्वं । इळा । शतऽहिमा । असि । दक्षसे । त्वं । वृत्रऽहा । वसुऽपते । सरस्वती ॥ ११ ॥
+
+> *tvaṃ | agne | aditiḥ | deva | dāśuṣe | tvaṃ | hotrā | bhāratī | vardhase | girā |*
+> *tvaṃ | iḷā | śata 'himā | asi | dakṣase | tvaṃ | vṛtra 'hā | vasu 'pate | sarasvatī ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* To the sacrificer Agni is Aditi, the protector; he is Hotrā and Bhāratī, grows by praise; as eternal Iḷā (earth) he is able to give; as Sarasvatī he slays sin; the three goddesses are he.
+
+> हे अग्ने देव त्वं दाशुषे हविर्दत्तवते यजमानायादितिरखंडयिता परिपालयितासि । यद्वा अदीना भूमिरसि । किंच त्वं होत्रा होमनिष्पादका भारती भरतस्यादित्यस्यादित्यसंबंधिनी रश्मिरूपा सती गिरा स्तुत्या वर्धसे । प्रवृद्धो भवसि । किंच त्वं शतहिमा । हिमशब्दः कालोपलक्षकः । अपरिमितकाला नित्येळा भूमिरसि । तादृशी सती दक्षसे दानाय समर्था भवसि ॥ तिज[?] उत्तरत्वादनिघातः ॥ तथा हे वसुपते धनपालक वृत्रहा पापादेर्हंता त्वं सरस्वती । सरणवान्वायुः । तत्संबंधिन्येतन्नियामुका माध्यमिकासि । आदित्याग्निवायूनां संबंधिन्यो भारतीळासरस्वत्याख्यायास्तिस्रो देव्यः संति ता अपि त्वमेवेत्यर्थः ॥
+
+> *he agne deva tvaṃ dāśuṣe havirdattavate yajamānāyāditirakhaṃḍayitā paripālayitāsi | yadvā adīnā bhūmirasi | kiṃca tvaṃ hotrā homaniṣpādakā bhāratī bharatasyādityasyādityasaṃbaṃdhinī raśmirūpā satī girā stutyā vardhase | pravṛddho bhavasi | kiṃca tvaṃ śatahimā | himaśabdaḥ kālopalakṣakaḥ | aparimitakālā nityeḷā bhūmirasi | tādṛśī satī dakṣase dānāya samarthā bhavasi ‖ tija[?] uttaratvādanighātaḥ ‖ tathā he vasupate dhanapālaka vṛtrahā pāpāderhaṃtā tvaṃ sarasvatī | saraṇavānvāyuḥ | tatsaṃbaṃdhinyetanniyāmukā mādhyamikāsi | ādityāgnivāyūnāṃ saṃbaṃdhinyo bhāratīḷāsarasvatyākhyāyāstisro devyaḥ saṃti tā api tvamevetyarthaḥ ‖*
+
+*(Its tail: a remark on the absence of the accent-lowering (*anighāta*) because of a following word, with a garbled opening word "तिज[?]"; characterized, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+देव (*deva*) — O one of divine nature; अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; दाशुषे (*dāśuṣe*) — to the sacrificer who offers oblation; अदितिः (*aditiḥ*) — you are Aditi, the complete protector; त्वं (*tvaṃ*) — you; होत्रा (*hotrā*) — as Hotrā, the accomplisher of the homa; भारती (*bhāratī*) — as Bhāratī, related to the Āditya; गिरा (*girā*) — by praise; वर्धसे (*vardhase*) — you grow great; त्वं (*tvaṃ*) — you; शतहिमा (*śatahimā*) — having a time of a hundred in number, that is, eternal; इळा (*iḷā*) — in the form of Iḷā; असि (*asi*) — you are (and further); दक्षसे (*dakṣase*) — you are capable of giving and the like; वसुपते (*vasupate*) — O Agni, protector of wealth; वृत्रहा (*vṛtrahā*) — slayer of sin and the like; त्वं (*tvaṃ*) — you; सरस्वती (*sarasvatī*) — (related to Vāyu); असि (*asi*) — you are also Sarasvatī.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni of divine nature, to the sacrificer who offers oblations you are the completely protecting Aditi. You, as Hotrā, the accomplisher of the homa, and as Bhāratī, related to the Āditya, …" *(the Bhāvārtha breaks off at the foot of the page; Ṛk 11 is left open and continues on p. 417)*
+
+---
+
+**Progress note:** Done through printed p. 416 (PDF 436). Maṇḍala 2 Sūkta 1: Ṛk 10 complete (pp. 414–415), Ṛk 11 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha written; Bhāvārtha broken off at the foot of p. 416 after "…Āditya-related Bhāratī"; continue p. 417 with the rest of the Bhāvārtha, printed English, Special Topics). Header Varga 18 read from the p. 415 strip. Flags: FILE DISAGREE on Tai. Saṃ. reference on p. 415 (file 17-3-1; strip read as 1-2-3-1, written with [?]); p. 413 Saṃhitā reading corrected in the text only by note (Pada prints नमस्यः and धक्षि; the p. 413 Saṃhitā has "दक्षि"); unclear: "तिज" in the Ṛk 11 bhāṣya tail, "पवि/हवि" in the p. 415 Special Topics, "sacrfice" blurred in the printed English; the file's other numerals (Ni. 3-9, 3-20) agree; no zooms.
