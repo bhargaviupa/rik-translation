@@ -17903,4 +17903,156 @@ In this Ṛk and in the following Ṛks, Agni is addressed and praised as the �
 
 ---
 
-**Progress note:** Done through printed p. 493 (PDF 514). Maṇḍala 2 Sūkta 5: Ṛk 1 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English with [sic] heen and "(sacrificial}", Special Topics through p. 492, then a rule). Ṛk 2 begun on p. 493: Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written. **Ṛk 2 is open**: its printed English and Special Topics follow from p. 494. FILE DISAGREE: none (no file rows for pp. 491–493). Not zoomed: headers (Varga 26 on pp. 491 and 493), Ṛk numeral 2, the references Ṛ. Saṃ. 1-164-33, 10-15-1 and Ni. 4-21, 11-18, 3-9. [?] places: p. 493 bhāṣya तत्संबंध्यष्टमर्त्विक्संबंधि and तद्वद्यज्ञं. Cleaning needed in the chunk for Ṛk 2: the Pada block was written twice (the first with a wrong word ततासः, then the corrected one with तताः) and the Saṃhitā was reprinted once in corrected form (the first has the printed form तता). Remove the first Pada block (with ततासः), the italic correction notes after it, and the second copy of the Saṃhitā (keep one Saṃhitā block).
+### Printed p. 494 (PDF 515)
+
+*(Header: "494", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**English Translation** *(as printed, Ṛk 2)*
+
+In whom, as conductor of the sacrifice, the seven rays are manifested and who, as a human Potri, officiates in the eighth place to perfect every divine (rite).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 2)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+*(The first word of the lemma is printed ಯೋಗಸ್ಯ, i.e. योगस्य (*yogasya*), as printed; the bhāṣya on p. 493 reads यज्ञस्य (*yajñasya*). Written as printed.)*
+
+> नेतरि—योगस्य निर्वाहके यस्मिन्नग्नौ ।
+
+> *netari—yogasya nirvāhake yasminnagnau |*
+
+"In which Agni, who conducts the sacrifice", is the commentator's meaning. In this Ṛk, the duties of the ṛtvijs called Netṛ and Potṛ are said to be performed by Agni.
+
+> सप्त रश्मयस्तता—सप्तसंख्याका रश्मिवद्व्याप्ता होत्रका आ तताः । स्वस्वकर्मभिः सर्वतो व्याप्ता भवंति ।
+
+> *sapta raśmayastatā—saptasaṃkhyākā raśmivadvyāptā hotrakā ā tatāḥ | svasvakarmabhiḥ sarvato vyāptā bhavaṃti |*
+
+The meaning is: the Hotṛs, seven in number, like seven rays or like the seven flames of Agni, gather round Agni on every side and are engaged in their respective sacrificial duties. Who the seven Hotṛs are here: as the commentator has said before, the four Hotṛs of the Hotṛ-group and the three ṛtvijs of the Brahmā-group, seven in all, engage in the homa-work; this is the sense. Yāska, for the word सप्तहोतृ (*saptahotṛ*) (seven Hotṛs), gives "the seven rays of Agni" in the explanation of this Ṛk:
+
+*(Reference numerals, 10-64-5, not zoomed. In the third pāda the printed word is आर्यमा, as it appears to be printed [?]; the first pāda is printed वादिते (*vādite*), as printed. The gloss is not given in the source.)*
+
+> दक्षस्य वादिते जन्मनि व्रते राजाना मित्रावरुणा विवाससि ।
+> अतूर्तपंथाः पुरुरथो आर्यमा सप्तहोता विषुरूपेषु जन्मसु ॥
+
+> *dakṣasya vādite janmani vrate rājānā mitrāvaruṇā vivāsasi |*
+> *atūrtapaṃthāḥ pururatho āryamā saptahotā viṣurūpeṣu janmasu ‖*
+
+(Ṛ. Saṃ. 10-64-5, as printed.)
+
+and in the explanation of this Ṛk he has said:
+
+> सप्तहोता सप्तास्मै रश्मयो रसानभिसन्नामयंति । सप्तैनमृषयः स्तुवंतीति वा ।
+
+> *saptahotā saptāsmai raśmayo rasānabhisannāmayaṃti | saptainamṛṣayaḥ stuvaṃtīti vā |*
+
+(Ni. 11-23, as printed; the numerals not zoomed.) That is: because Agni's rays (flames) are seven, or because seven ṛṣis praise this Agni, Agni gets the name सप्तहोतृ (*saptahotṛ*); so he has explained the sense. In the Ṛk before us the meaning is: seven Hotṛs, or seven ṛtvijs, who are like the seven rays.
+
+> मनुष्वत् दैव्यं अष्टमं पोता विश्वं तत् इन्वति—
+
+> *manuṣvat daivyaṃ aṣṭamaṃ potā viśvaṃ tat invati—*
+
+In this latter-half sentence, the meaning is explained that Agni, together with the seven ṛtvijs mentioned above, becomes himself the eighth ṛtvij, the Potṛ, in the sacrifice performed by men, and is a helper in carrying the sacrificial work to completion.
+
+*(A short rule ":o:" is printed here, ending Ṛk 2.)*
+
+### Printed p. 495 (PDF 516)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "495", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral, ೩ (the hooked glyph), not zoomed.)*
+
+> दधन्वे वा यदीमनु वोचद्ब्रह्माणि वेरु तत् ।
+> परि विश्वानि काव्या नेमिश्चक्रमिवाभवत् ॥ ३ ॥
+
+> *dadhanve vā yadīmanu vocadbrahmāṇi veru tat |*
+> *pari viśvāni kāvyā nemiścakramivābhavat ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> दधन्वे । वा । यत् । ईं । अनु । वोचत् । ब्रह्माणि । वेः । ऊं इति । तत् ।
+> परि । विश्वानि । काव्या । नेमिः । चक्रंऽइव । अभवत् ॥ ३ ॥
+
+> *dadhanve | vā | yat | īṃ | anu | vocat | brahmāṇi | veḥ | ūṃ iti | tat |*
+> *pari | viśvāni | kāvyā | nemiḥ | cakraṃ 'iva | abhavat ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, being in every priest, himself carries out all: the oblations offered, the mantras recited; he knows and embraces all priestly acts like a wheel's rim.
+
+> पूर्वे मंत्रे होत्रादिवत् स्वयमपि यज्ञं निर्वहतीत्युक्तं । अत्र तु सर्वं तत्तदात्मना स्थित्वा स्वयमेव निर्वहतीत्याह । वा अथवा ईमेनं यज्ञमनु लक्षीकृत्य यद्धविरादिकं दधन्वे धारयत्यध्वर्य्वादिरूपः । यानि ब्रह्माणि शस्त्रादीन्यनुवोचत् । अनुवक्ति होत्रादिरूपः । अत्र वान्वित्येतद्योज्यं । तत्सर्वं वेरु । वेरेव । कामयते जानाति वा स्वयमनुष्ठातुं । अयमग्निर्विश्वानि सर्वाणि काव्यानि । कवयो मेधाविन ऋत्विजः । तत्संबंधीनि कर्माणि पर्यभवत् । परिभवति । स्वायत्तानि करोति । व्याप्नोतीत्यर्थः । व्याप्तौ दृष्टांतः । नेमिः वहिर्वेष्टनवलयश्चक्रं रथांगं यथा कार्त्स्न्येन व्याप्नोति तद्वत् ॥
+
+> *pūrve maṃtre hotrādivat svayamapi yajñaṃ nirvahatītyuktaṃ | atra tu sarvaṃ tattadātmanā sthitvā svayameva nirvahatītyāha | vā athavā īmenaṃ yajñamanu lakṣīkṛtya yaddhavirādikaṃ dadhanve dhārayatyadhvaryvādirūpaḥ | yāni brahmāṇi śastrādīnyanuvocat | anuvakti hotrādirūpaḥ | atra vānvityetadyojyaṃ | tatsarvaṃ veru | vereva | kāmayate jānāti vā svayamanuṣṭhātuṃ | ayamagnirviśvāni sarvāṇi kāvyāni | kavayo medhāvina ṛtvijaḥ | tatsaṃbaṃdhīni karmāṇi paryabhavat | paribhavati | svāyattāni karoti | vyāpnotītyarthaḥ | vyāptau dṛṣṭāṃtaḥ | nemiḥ vahirveṣṭanavalayaścakraṃ rathāṃgaṃ yathā kārtsnyena vyāpnoti tadvat ‖*
+
+*(In the bhāṣya the word वहिर्वेष्टन (*vahirveṣṭana*) is printed with व, as printed; the printed sentence "वा अथवा ईमेनं…" is as it stands. No grammatical tail beyond the sense is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3)**
+
+(Kannada, translated:) वा (*vā*) — or. ईं अनु (*īṃ anu*) — with reference to this sacrifice. यत् (*yat*) — which oblations. दधन्वे (*dadhanve*) — (the Adhvaryu and others) offer. ब्रह्माणि (*brahmāṇi*) — which mantras such as the śastras. वोचत् (*vocat*) — (the Hotṛ and others) recite. तत् (*tat*) — all that as well. वेरु (*veru*) — Agni remains knowing it (desiring it, this Agni). विश्वानि (*viśvāni*) — all. काव्या (*kāvyā*) — the actions of the ṛtvijs. नेमिः (*nemiḥ*) — the outer rim of the wheel. चक्रं इव (*cakraṃ iva*) — as pervading the wheel completely. परि अभवत् (*pari abhavat*) — has pervaded completely.
+
+**भावार्थ (Bhāvārtha — Ṛk 3)**
+
+(Kannada, translated:) Whatever oblations and the like the Adhvaryu and others offer, with reference to this sacrifice, and whatever mantras the Hotṛ and others recite, Agni knows all of them. As the outer rim of a wheel pervades the wheel completely, so this Agni, desiring them, has pervaded all the actions of all the ṛtvijs.
+
+**English Translation** *(as printed, Ṛk 3)*
+
+Whatever (offerings the priest) presents, whatever prayers he recites, he, (Agni), knows them all : he comprehends all priestly acts, as the circumference (includes the spokes) of a wheel.
+
+### Printed p. 496 (PDF 517)
+
+*(Header: "496", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 3)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+In the preceding Ṛk it was only said that Agni, like the Hotṛ and other ṛtvijs, engages himself in the work of conducting the sacrifice. In this Ṛk it is described that Agni himself, being present in the several ṛtvijs, each in his own part, performs the work of all the ṛtvijs.
+
+> वा ईं अनु दधन्वे—
+
+> *vā īṃ anu dadhanve—*
+
+The ṛtvijs such as the Adhvaryu offer in the sacrifice whatever oblations; Agni himself, knowing all this, in the form of the Adhvaryu offers the oblation in the homa; in the same way,
+
+> ब्रह्माणि वोचत् तत् वेरु—
+
+> *brahmāṇi vocat tat veru—*
+
+whatever mantras, such as the śastras and stotras, the ṛtvijs of the Hotṛ-group recite, Agni knows them without fail, and he himself recites them.
+
+> परि विश्वानि काव्या नेमिः चक्रमिव अभवत्—
+
+> *pari viśvāni kāvyā nemiḥ cakramiva abhavat—*
+
+Besides this, Agni himself does all the actions that the wise ṛtvijs do in the sacrifice, or is capable of doing them. An illustration is given here in this connection. The nemi of a wheel, that is, the band that goes round the outside (the tyre, as printed in English "Tyre"), pervades the wheel on every side; in the way it pervades the whole wheel, in that way Agni pervades all the actions carried on in the sacrifice; that is, taking part himself in all the actions of the sacrifice, he brings the sacrifice to completion; this is the meaning.
+
+*(A short rule is printed here, ending the Special Topics of Ṛk 3.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral, ೪ (the glyph like ಳ), not zoomed. In the Saṃhitā the first word of the second line is printed with a small mark above the first letter, which looks like an anunāsika: written विद्वाँ [?].)*
+
+> साकं हि शुचिना शुचिः प्रशास्ता क्रतुनाजनि ।
+> विद्वाँ अस्य व्रता ध्रुवा वया इवानु रोहते ॥ ४ ॥
+
+> *sākaṃ hi śucinā śuciḥ praśāstā kratunājani |*
+> *vidvā~ asya vratā dhruvā vayā ivānu rohate ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> साकं । हि । शुचिना । शुचिः । प्रशास्ता । क्रतुना । अजनि ।
+> विद्वान् । अस्य । व्रता । ध्रुवा । वयाःऽइव । अनु । रोहते ॥ ४ ॥
+
+> *sākaṃ | hi | śucinā | śuciḥ | praśāstā | kratunā | ajani |*
+> *vidvān | asya | vratā | dhruvā | vayāḥ 'iva | anu | rohate ‖ 4 ‖*
+
+*(Ṛk 4 is left open: the bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow from the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 496 (PDF 517). Maṇḍala 2 Sūkta 5: Ṛk 2 complete (printed English, Special Topics with Yāska's Ṛ. Saṃ. 10-64-5 and Ni. 11-23, then a rule). Ṛk 3 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, rule). Ṛk 4 begun on p. 496: Saṃhitā and Pada written. **Ṛk 4 is open**: bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow from p. 497. The cleaning noted in the previous note for Ṛk 2's duplicate Pada/Saṃhitā blocks (p. 493) is still pending. FILE DISAGREE: none (no file rows for pp. 494–496). Not zoomed: headers (Varga 26 on p. 495), Ṛk numerals 3 and 4, references Ṛ. Saṃ. 10-64-5 and Ni. 11-23. [?] places: p. 494 आर्यमा/अर्यमा in the Yāska verse; p. 496 Saṃhitā विद्वाँ (small mark above first letter); bhāṣya word वहिर्वेष्टन printed with व (as printed).
