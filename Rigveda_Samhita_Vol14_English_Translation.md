@@ -12402,4 +12402,100 @@ These Yātudhānas eat the flesh of men and horses, and drink cow's milk (Ṛ. S
 
 ---
 
-**Progress note:** Done through printed p. 353 (PDF 373). Sūkta 191: Ṛks 1-8 complete; Ṛk 9 OPEN (Saṃhitā, Pada, bhāṣya written; Pratipadārtha cut off at the foot of p. 353 after अदृष्टहा and continues on p. 354). Header numeral Varga 15 on pp. 351 and 353 (unzoomed; no Varga closing note yet). (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 348-350: p. 348 header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value, not zoomed; standard number differs); Ṛk 7 numeral 7 read from the strip (flat-footed); Ṛk 8 numeral 8 read from the strip; 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtras 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. p. 349 header 'A. 2. A. 5 Va. 15' (Varga 15 read on pp. 347 and 349, unzoomed); 'sūcīkāḥ'/'sūcikāḥ' as printed; 'koḷakumaṇḍala' as it looks; stray dot in printed English. p. 350 header Sū. 191; Pā. Sū. 4-4-110 and 6-1-213 agree with the file (not zoomed); 'atiṅanta' printed so [sic?]; Ṛk 8 bhāṣya 'sarvānadṛṣṭānadraṣṭavyān' garbled [?]; Ṛk 8 Pada compound signs in viśva-dṛṣṭaḥ, adṛṣṭa-hā, yātu-dhānyaḥ read as compound marks; Saṃhitā 'ñjaṃbhayan' (ञ्जं) as it looks. Counts for batch pp. 348-350: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 2 (4-4-110, 6-1-213) plus 6-1-136 (unzoomed), FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 7 and 8 numerals. Flags pp. 351-353: Ṛk 8 bhāṣya 'ato smat…' word garbled [?]; Special Topics Sūkta numbers 87[?] and 118[?] for Agni prayers read from small print; Atharva-veda 5-29-6 to 8 ZOOMED, read 5-29-6 (file said 5-29-26, probably a repeated digit); 2-6-6-3 for Taittirīya Saṃhitā (file said 2-6-63, separator lost); other numerals agree with file (10-87-16,17; 8-48-20; 8.6-3; 5-29-5,10; 6-111-3; 1-15-5; 135-9; 6-104-8; 5-3-27; 3-2-88; 8-2-4). 'adṛṣṭan' printed in grammar of Ṛk 8 (as printed [sic?]). Ṛk 9 numeral 9 read from strip. Pā. sūtras for gati-kāraka kṛt, ṇic and tāsyanudāttet printed without numbers. Counts for batch pp. 351-353: 3 distinct [?] places, 1 zoom, numerals settled by file without zoom 11, FILE DISAGREE 1, lacking in file: headers, Ṛk 9 numeral, Special Topics sūkta numbers.
+### Printed p. 354 (PDF 374)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 1. A. 24. Sū. 191". Ṛk 9: Pratipadārtha concludes, Bhāvārtha, printed English, Special Topics begun.)*
+
+*(Pratipadārtha of Ṛk 9 continued, without repeating:)* … the destroyer of the subtle poison-moving creatures; **असौ सूर्यः (*asau sūryaḥ*)** — this sun; **विश्वानि (*viśvāni*)** — all poisons; **पुरु (*puru*)** — fully; **जूर्वन् (*jūrvan*)** — destroying; **उदपप्तत् (*udapaptat*)** — rises and comes upward.
+
+**भावार्थः (Bhāvārtha)** *(Kannada, rendered)*
+
+This sun, who in the Āditya form drinks up poisonous water and the like for the benefit of living beings, who is fit to look at all, and who destroys the subtle poison-moving creatures, rises and comes upward, fully destroying all poisons.
+
+**English Translation** *(as printed)*
+
+The Sun has risen on high, destroying all the many (poisons) ; Aditya, the all-seeing, the destroyer of the unseen, (rises) for (the good of) living benigs [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Kannada, rendered)*
+
+In the previous Ṛk the sunrise and the flight of the evil creatures were introduced; in this Ṛk the gradual rising of the sun and the destruction of poisons and the like by the sharpness of the rays so produced are described.
+
+**सूर्यः—सर्वस्य प्रेरक आदित्यः (*sūryaḥ—sarvasya preraka ādityaḥ*)** — "The sun is the impeller of all, the Āditya." The sun impels all the world, that is, all the living beings in the world. If we do not receive the warmth that comes through the rays from the sun, we cannot live. As is said in Ṛ. Saṃ. 1-115-1 in the words **सूर्य आत्मा जगतः (*sūrya ātmā jagataḥ*)** ("the sun is the soul of the world"; the printed Kannada has the visarga), the sun is the very self of the whole world. Without the sun's brilliance not even a blade of grass on the earth could stir. For the whole animal kingdom and for men the sun's brilliance (heat; the printed word is *śākhavu*) is absolutely necessary. Since the heat (fire) is one of the five elements, the sun's brilliance is as necessary as air, water and food. The brilliance produced by fire and the like differs from the sun's brilliance. The sun's brilliance has the power to remove poison and to produce health. It is for that reason that the sharp rays of the midday sun destroy poison; this is said here by the sentence **पुरु विश्वानि विषाणि जूर्वन्—हिंसन् (*puru viśvāni viṣāṇi jūrvan—hiṃsan*)** ("fully all poisons, destroying—harming"). Earlier the sage Praskaṇva (as printed) prayed:
+
+**हृद्रोगं मम सूर्य हरिमाणं च नाशय (*hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya*)**
+
+(Ṛ. Saṃ. 1-50-11)
+
+"O sun, destroy the disease that has spread in my heart and the yellow colour (*toṇṇu*, 'Leprosy' printed in English) produced by the leprosy spread over my skin": this prayer is an illustration of the sun's power to cure disease.
+
+---
+
+---
+
+### Printed p. 355 (PDF 375)
+
+*(Header: "A. 2 A. 5 Va. 15 ]" (Varga numeral 15 read unzoomed), "Ṛgvedasaṃhitā". Special Topics concludes; Vyākaraṇa-prakriyā of Ṛk 9; Ṛk 10 begun.)*
+
+**पर्वतेभ्यः—पर्ववद्भ्यः प्राणिभ्यस्तेषामुपकारायादित्यो विषोदकादीनामदनशीलः उदपप्तत् (*parvatebhyaḥ—parvavadbhyaḥ prāṇibhyasteṣāmupakārāyādityo viṣodakādīnāmadanaśīlaḥ udapaptat*)** — Sāyaṇa explains the word *parvata* as "living beings that have joints", that is, bodies like lumps; the body is made of different parts such as the foot, the knee, the thigh, the belly, the neck and the head, joined together as one great object. In the same way a mountain (hill) has many rocks one over another, and the name *parvata* is for all of them together; that example is here applied to the bodies of living beings. And the words "for doing good to such beings" he has supplied (*adhyāhāra*) to complete the sense of the sentence.
+
+**विश्वदृष्टो अदृष्टहा (*viśvadṛṣṭo adṛṣṭahā*)** — the explanation and meaning of these words have been given in the previous Ṛk itself.
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+अपप्तत् (*apaptat*): root पत्ऌ गतौ (*patḷ gatau*), bhvādi; luṅ, third person singular, affix tip; by इतश्च (*itaśca*) the i is elided; because the root is ḷ-marked, cli receives the replacement printed as "ajādeśa" [as printed; aṅ intended?] by the rule beginning पुषादिद्युताद् (*puṣādidyutād*) (printed so, no number); by पतेः पुम् (*pateḥ pum*) (Pā. Sū. 7-4-19) the root takes the augment pum, which, being m-marked, comes after the last vowel (file said 6-4-19, crop shows the flat-footed 7); the augment aṭ to the aṅga; because it stands after an "atiṅanta" [as printed] the nighāta accent comes.
+
+जूर्वन् (*jūrvan*): root जुर्वी हिंसायाम् (*jurvī hiṃsāyām*); laṭ is replaced by śatṛ; by उपधायां च (*upadhāyāṃ ca*) (printed so, no number) the u is lengthened; because the lasārvadhātuka is anudātta the root accent remains; nominative singular form.
+
+---
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> सूर्ये विषमा सजामि दृतिं सुरावतो गृहे ।
+> सो चिन्नु न मराति नो वयं मरामारे अस्य योजनं
+> हरिष्ठा मधु त्वा मधुला चकार ॥ १० ॥
+
+> *sūrye viṣamā sajāmi dṛtiṃ surāvato gṛhe |*
+> *so cinnu na marāti no vayaṃ marāmāre asya yojanaṃ*
+> *hariṣṭhā madhu tvā madhulā cakāra ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> सूर्ये । विषं । आ । सजामि । दृतिं । सुरावतः । गृहे ।
+> सः । चित् । नु । न । मराति । नो इति । वयं । मराम । आरे । अस्य । योजनं ।
+> हरिऽस्थाः । मधु । त्वा । मधुला । चकार ॥ १० ॥
+
+> *sūrye | viṣaṃ | ā | sajāmi | dṛtiṃ | surāvataḥ | gṛhe |*
+> *saḥ | cit | nu | na | marāti | no iti | vayaṃ | marāma | āre | asya | yojanaṃ |*
+> *hari 'sthāḥ | madhu | tvā | madhulā | cakāra ‖ 10 ‖*
+
+---
+
+### Printed p. 356 (PDF 376)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 1. A. 24. Sū. 191". Ṛk 10: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agastya says he fixes the poison, as a skin bag in a wine-maker's house, in the sun's disc; it does not harm the sun, and by the sun's grace neither he nor the poison's victims die; the sun's horses carry the poison far off; the honey-lore turns it into nectar.
+
+> आदित्यमंडले चतुर्थेनांगुलिना विषमादाय मधुकृत्य योजयित्वा निर्विषो भवेदिति यदेतद्विषविद्यायामुक्तं तदिदमत्रोच्यते । अहं विषावृतोऽगस्त्यः सूर्ये सर्वस्य प्रेरयितरि मधुविद्यारूपे सूर्यमंडले विषमावृत्य वर्तमानं सूर्य आ सजामि । आसक्तं करोमि । तत्र दृष्टांतः । सुरावतो गृहे सुरानिर्मातृसदने दृतिमिव चर्ममयं सुरापात्रमिव । यथा तत्कर्तुर्न दोषाय भवति तद्वद्विषमादित्यस्य न बाधकमित्यर्थः । सो चित् स । चित् पूजायं [?] । उः प्रसिद्धा । पूज्यः स सूर्यः खलु स मराति । न म्रियते । नो वयं मराम । तदनुग्रहात्त्रैव [?] विषस्य योजितत्वाद्वयमपि न म्रियामहै । उभयोरमरणे कारणमाह । हरिष्ठाः । हरयोऽश्वाः । तेषु स्थित आदित्य आरे दूरेऽस्य विषस्य योजनं प्रापणं चकार । तदेवोच्यते । हे विष त्वा त्वां मध्वमृतं चकार । विषस्य विषभावं दूरेऽपनोद्यामृतीचकारेति । एष्यैव [?] मधुला मधुदात्री निर्विषीकर्त्री मधुविद्या । यदेतदादित्यस्य विषयोजनं तेन चामृतीकरणं यदस्ति एषा मधुविद्या ॥
+
+> *ādityamaṃḍale caturthenāṃgulinā viṣamādāya madhukṛtya yojayitvā nirviṣo bhavediti yadetadviṣavidyāyāmuktaṃ tadidamatrocyate | ahaṃ viṣāvṛto 'gastyaḥ sūrye sarvasya prerayitari madhuvidyārūpe sūryamaṃḍale viṣamāvṛtya vartamānaṃ sūrya ā sajāmi | āsaktaṃ karomi | tatra dṛṣṭāṃtaḥ | surāvato gṛhe surānirmātṛsadane dṛtimiva carmamayaṃ surāpātramiva | yathā tatkarturna doṣāya bhavati tadvadviṣamādityasya na bādhakamityarthaḥ | so cit sa | cit pūjāyaṃ [?] | uḥ prasiddhā | pūjyaḥ sa sūryaḥ khalu sa marāti | na mriyate | no vayaṃ marāma | tadanugrahāttraiva [?] viṣasya yojitatvādvayamapi na mriyāmahai | ubhayoramaraṇe kāraṇamāha | hariṣṭhāḥ | harayo 'śvāḥ | teṣu sthita āditya āre dūre 'sya viṣasya yojanaṃ prāpaṇaṃ cakāra | tadevocyate | he viṣa tvā tvāṃ madhvamṛtaṃ cakāra | viṣasya viṣabhāvaṃ dūre 'panodyāmṛtīcakāreti | eṣyaiva [?] madhulā madhudātrī nirviṣīkartrī madhuvidyā | yadetadādityasya viṣayojanaṃ tena cāmṛtīkaraṇaṃ yadasti eṣā madhuvidyā ‖*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**सुरावतः (*surāvataḥ*)** — in the house of the maker of liquor (wine); **दृतिं इव (*dṛtiṃ iva*)** — like placing a skin that is to be filled with liquor; **विषं (*viṣaṃ*)** — the poison spread all around us; **सूर्ये (*sūrye*)** — in the sun's disc (in the sunshine); **आ सजामि (*ā sajāmi*)** — I join (place); **सो चित् (*so cit*)** — as for that revered sun; **नु (*nu*)** — in the least; **न मराति (*na marāti*)** — he does not meet death; **नो वयं मराम (*no vayaṃ marāma*)** — by his grace we too do not meet death; **आरे (*āre*)** — even though far off; **हरिष्ठाः (*hariṣṭhāḥ*)** — the sun mounted on the horses; **अस्य (*asya*)** — of this poison; **योजनं (*yojanaṃ*)** — contact he has brought about (made it so that the power of this poison does not spread to me) (O poison!); **मधुला (*madhulā*)** — the honey-lore; **त्वा (*tvā*)** — you; **मधु चकार (*madhu cakāra*)** — has turned into nectar.
+
+**भावार्थः (Bhāvārtha)** *(Kannada, rendered)*
+
+As a skin that is to be filled with liquor is placed in the house of the liquor-maker, so I join the poison spread all around us to the sun's disc. That revered sun does not in the least meet death; by his grace there is no death for us either, even though we are far off. The sun, mounted on his horses, has brought this poison into contact so that its power does not spread to us. O poison, the honey-lore has turned you into nectar.
+
+*(Ṛk 10 is left open: printed English, Special Topics and grammar follow on p. 357.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 356 (PDF 376). Sūkta 191: Ṛks 1-9 complete; Ṛk 10 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha written; printed English and Special Topics on p. 357). Varga 15 in header of p. 355 (unzoomed); no Varga closing note yet. (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 348-350: p. 348 header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value, not zoomed; standard number differs); Ṛk 7 numeral 7 read from the strip (flat-footed); Ṛk 8 numeral 8 read from the strip; 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtras 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. p. 349 header 'A. 2. A. 5 Va. 15' (Varga 15 read on pp. 347 and 349, unzoomed); 'sūcīkāḥ'/'sūcikāḥ' as printed; 'koḷakumaṇḍala' as it looks; stray dot in printed English. p. 350 header Sū. 191; Pā. Sū. 4-4-110 and 6-1-213 agree with the file (not zoomed); 'atiṅanta' printed so [sic?]; Ṛk 8 bhāṣya 'sarvānadṛṣṭānadraṣṭavyān' garbled [?]; Ṛk 8 Pada compound signs in viśva-dṛṣṭaḥ, adṛṣṭa-hā, yātu-dhānyaḥ read as compound marks; Saṃhitā 'ñjaṃbhayan' (ञ्जं) as it looks. Counts for batch pp. 348-350: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 2 (4-4-110, 6-1-213) plus 6-1-136 (unzoomed), FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 7 and 8 numerals. Flags pp. 351-353: Ṛk 8 bhāṣya 'ato smat…' word garbled [?]; Special Topics Sūkta numbers 87[?] and 118[?] for Agni prayers read from small print; Atharva-veda 5-29-6 to 8 ZOOMED, read 5-29-6 (file said 5-29-26, probably a repeated digit); 2-6-6-3 for Taittirīya Saṃhitā (file said 2-6-63, separator lost); other numerals agree with file (10-87-16,17; 8-48-20; 8.6-3; 5-29-5,10; 6-111-3; 1-15-5; 135-9; 6-104-8; 5-3-27; 3-2-88; 8-2-4). 'adṛṣṭan' printed in grammar of Ṛk 8 (as printed [sic?]). Ṛk 9 numeral 9 read from strip. Pā. sūtras for gati-kāraka kṛt, ṇic and tāsyanudāttet printed without numbers. Counts for batch pp. 351-353: 3 distinct [?] places, 1 zoom, numerals settled by file without zoom 11, FILE DISAGREE 1, lacking in file: headers, Ṛk 9 numeral, Special Topics sūkta numbers. Flags pp. 354-356: p. 354 header Sū. 191; Ṛk 9 printed English 'benigs' [sic]; Special Topics refs 1-115-1 and 1-50-11 agree with file (not zoomed); 'śākhavu' as printed for the heat/brilliance; sage name 'Praskaṇva' as printed. p. 355 header Va. 15 (unzoomed); Pā. Sū. 7-4-19 (patateḥ pum) ZOOMED, read 7-4-19 (file said 6-4-19; crop shows flat-footed 7); 'ajādeśa' printed for the cli replacement [as printed]; 'puṣādidyutādi…' and 'upadhāyāṃ ca' printed without numbers; Ṛk 10 numeral 10 read from strip; Pada 'hari-sthāḥ' compound sign as it looks. p. 356 bhāṣya words [?]: 'pūjāyaṃ' (printed 'prūjāyaṃ'), 'tadanugrahāttraiva', 'eṣyaiva'; 'marāma' read for printed bhāṣya form. Counts for batch pp. 354-356: 3 distinct [?] places, 1 zoom, numerals settled by file without zoom 2 (1-115-1, 1-50-11), FILE DISAGREE 1 (6-4-19 vs 7-4-19), lacking in file: headers, Ṛk 10 numeral.
