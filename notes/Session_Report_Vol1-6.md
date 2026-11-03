@@ -17,7 +17,7 @@ Repository: `bhargaviupa/rik-translation` · Working branch: `claude/modest-ptol
 | 3 | Sūktas 20–32 | Complete; PDF (799 pp.) and Word |
 | 4 | Sūktas 33–46 | Complete; PDF (872 pp.) and Word |
 | 5 | Sūktas 47–61 + Pariśiṣṭa | Complete; PDF (1,031 pp.) and Word |
-| 6 | Sūktas 62–80 (`Rig_Vol6.pdf`, 638 pp.) | In progress at the end of this session (Sūkta 62 through printed p. 28); **since completed (7 Oct), docx and PDF built** |
+| 6 | Sūktas 62–80 (`vol6/scans/Rig_Vol6.pdf`, 638 pp.) | In progress at the end of this session (Sūkta 62 through printed p. 28); **since completed (7 Oct), docx and PDF built** |
 | 7–11 | later volumes | Started after this session (see update note above) |
 
 Volume 6 position at the end of this session: Sūkta 62, Rik 62.5, Special Topics; next page was printed p. 29 (PDF 47). Printed page = PDF − 18. (Superseded: Volume 6 is now complete.)

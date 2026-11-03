@@ -1,6 +1,6 @@
 # Volume 10
 
-Vol 10 = **Maṇḍala 1, Sūktas 122–136, First Adhyāya of the Second Aṣṭaka** (printed pp. 2–707; printed = PDF − 21, to be re-checked). **Already fully translated** (`Rigveda_Samhita_Vol10_English_Translation.md`, repo root, ~2,870 `[?]`); the numeral/`[?]` pass, the docx/PDF check and the Kannada text file are not done. Scan: the old `Rig_Vol10.pdf` (repo root, 728 pp, 300 ppi 1-bit, Git LFS) unless a better scan is uploaded to `scans/`.
+Vol 10 = **Maṇḍala 1, Sūktas 122–136, First Adhyāya of the Second Aṣṭaka** (printed pp. 2–707; printed = PDF − 21, to be re-checked). **Already fully translated** (`Rigveda_Samhita_Vol10_English_Translation.md`, repo root, ~2,870 `[?]`); the numeral/`[?]` pass, the docx/PDF check and the Kannada text file are not done. Scan: the old `vol10/scans/Rig_Vol10.pdf` (repo root, 728 pp, 300 ppi 1-bit, Git LFS) unless a better scan is uploaded to `scans/`.
 
 | Path | What it is |
 |---|---|

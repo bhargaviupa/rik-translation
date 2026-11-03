@@ -50,4 +50,4 @@ What was done by the coordinator session ("Numeral pass coordination Vols 3–5"
 6. Vol 12 (poor scan): deferred.
 7. Check Vol 14 numerals read before the 2/3/7 correction (pp. 2–55) against the glyph rule.
 
-8. Scan files are ordinary git files (not LFS); after a volume's verification/translation pass uses the better scan and the user confirms, remove the parts with `git rm` (see CLAUDE.md, "Scan files in git"). Candidates later: Vol 13 parts (after the zoom-fix), Vol 10/12/14 parts, superseded `Rig_Vol10.pdf`, `Rig_Vol14(1/2).pdf`.
+8. Scan files are ordinary git files (not LFS); after a volume's verification/translation pass uses the better scan and the user confirms, remove the parts with `git rm` (see CLAUDE.md, "Scan files in git"). Candidates later: Vol 13 parts (after the zoom-fix), Vol 10/12/14 parts, superseded `vol10/scans/Rig_Vol10.pdf`, `Rig_Vol14(1/2).pdf`.

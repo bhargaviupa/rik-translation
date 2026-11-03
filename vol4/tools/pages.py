@@ -11,7 +11,7 @@ FRONT={}; PRINTED_AS={}
 # blank/duplicate pages or part of the next volume. Front matter: PDF 1-14 (old scan: Kannada title page 1, dedication 3, board 5, portrait 6,
 # preface 7-10 -- not translated by design). Printed page numbers are Latin digits.
 DUP={102:101}      # PDF 102 is a pixel-identical duplicate of PDF 101 (both header 87; checked by eye + image diff Oct 28)
-MISSING={}  # printed pages absent from the better scan (read them from ../Rig_Vol4.pdf, printed = PDF - 14 there)
+MISSING={}  # printed pages absent from the better scan (read them from scans/Rig_Vol4.pdf, printed = PDF - 14 there)
 def printed(g):
     if g in FRONT: return FRONT[g]
     if g in DUP: return printed(DUP[g])
