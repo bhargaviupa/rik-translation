@@ -11958,10 +11958,10 @@ Besides these grasses there are many other kinds of grass; only some are mention
 **॥ पदपाठः ॥**
 
 > नि । गावः । गोऽस्थे । असदन् । नि । मृगासः । अविक्षत ।
-> नि । केतवः । जनानां । नि । अदृष्टाः । अलिप्सते [?] ॥ ४ ॥
+> नि । केतवः । जनानां । नि । अदृष्टाः । अलिप्सत ॥ ४ ॥
 
 > *ni | gāvaḥ | go 'sthe | asadan | ni | mṛgāsaḥ | avikṣata |*
-> *ni | ketavaḥ | janānāṃ | ni | adṛṣṭāḥ | alipsate [?] ‖ 4 ‖*
+> *ni | ketavaḥ | janānāṃ | ni | adṛṣṭāḥ | alipsata ‖ 4 ‖*
 
 *(Ṛk 4 is left open: bhāṣya, Pratipadārtha etc. follow on p. 342.)*
 
@@ -12071,4 +12071,120 @@ Or they may be discovered (in the dark), as thieves in the (dusk of) evening; fo
 
 ---
 
-**Progress note:** (Earlier flags up to p. 322 moved verbatim to vol14/review/flags_archive_pp286-322.md.) Done through printed p. 344 (PDF 364). Sūkta 191: Ṛks 1-4 complete; Ṛk 5 OPEN (Saṃhitā to printed English written; Special Topics on p. 345). Batch pp. 342-344 flags: p. 342 header Maṃ. 1 A. 24 Sū. 191 (Maṇḍala numeral as it looks); bhāṣya/Pratipadārtha read न्यसदन्, न्यविक्षत, न्यलिप्सत, whereas the Saṃhitā/Pada of Ṛk 4 written from p. 341 have असदन्/अविक्षत/अलिप्सत[?]: p. 341 Saṃhitā/Pada to be rechecked against the image (not edited here); no file numerals on p. 342; Special Topics heading printed garbled, taken as the usual one. p. 343 (PDF 363): header 'A. 2. A. 5. Va. 14'; Ṛ. Saṃ. 1-114-7 and Pā. Sū. 3-2-4 agree with the file (not zoomed); Pā. Sū. 8-3-[?] after अंबांबगोभूमि not in the file, doubtful, unzoomed; the syllable after priya in the Ṛgvedic citation [?], unzoomed; sūtra 'puṣādi…' as it looks, no number. p. 344 (PDF 364): header Maṃ. 1 A. 24 Sū. 191; Ṛk 5 numeral read from the strip as 5; Saṃhitā 'pratyadṛśranpradoṣaṃ' with an extra small sign after n, [?], unzoomed; bhāṣya 'divyete' [?]. Counts for this batch: 4 distinct [?] places, 0 zooms, numerals settled by file without zoom 2, FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 5 numeral, 8-3-[?]. New (pp. 323–325): p. 323 header 'A. 2. A. 5 Va. 13' (Aṣṭaka numeral as on p. 295; Varga 13 read from the strip); grammar root 'pīj' (printed ಪೀಜ್) as it looks; Ṛk 6 numeral 6 read from the strip; Saṃhitā/Pada 'yo' printed in the Ṛk (taken as printed, in Pratipadārtha too); bhāṣya 'sakhivadanamārgānnivartya' [?] and 'asya[?]pornuvanta' (apy-?) UNDECIDED, 'upraapnuvantaḥ' and 'abhyābhimukhyena' as printed/as they look; p. 324 header Maṃ. 1 A. 24 Sū. 190; 'paṭhita' (Pratipadārtha) as it looks; stray point after 'covering' in the printed English; p. 325 header Varga 13, Ni. 6-23 agrees with the file (not zoomed); Nirukta quotation 'pratyṛto' as it looks. Counts for this batch: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 1, FILE DISAGREE 0, numerals lacking in file: all headers and the Ṛk numeral (read from strips). New (pp. 326–328): p. 326 header Maṃ. 1 A. 24 Sū. 190; Pā. Sū. 6-2-118, 6-2-172, 6-2-49, 6-3-139 (niṣātasya… printed so; file 6-3-139) agree with the file; Pā. Sū. 2-4-77 FILE DISAGREE (file 2-4-677; local crop zoomed, read 2-4-77); Pā. Sū. 3-4-410 kept as printed/file (zoomed: 3-4-410; the standard number differs), sūtra for vṛddhi (etyedhatyūṭhsu) as it looks, number not printed; sūtra 'gātisthāghupā…' abbreviated as it looks; p. 327 header 'A. 2. A. 5. Va. 13', Ṛk 7 numeral read from the strip (flat-footed = 7), Saṃhitā prints 'vidvā ubhayaṃ' and 'tara āpaśca' (taken as printed), Pada 'rodhaḥ-cakrāḥ' with compound mark as it looks, Ā. 3-7 read from the strip (not in file; flat-footed 7, as on p. 310); p. 328 header Sū. 190, Ni. 3-19 and 2-24 and 3-9 agree with the file, Ni. 2-5 (avanayaḥ as earth names; not in the file; zoomed, read 2-5 as it looks); printed English 'rolling' misprinted 'rolling' with an l-like letter as printed, 'ocean :' as printed. Counts for this batch: 0 distinct [?] places, 4 local crops (no page.py zoom), numerals settled by file without zoom 9 (6-2-118, 6-2-172, 6-3-139, 6-2-49, 3-19, 2-24 twice, 3-9; plus 3-4-410 zoomed), FILE DISAGREE 1 (2-4-77), numerals lacking in file: headers, Ṛk 7 numeral, Ā. 3-7, Ni. 2-5.
+### Printed p. 345 (PDF 365)
+
+*(Header: "A. 2. A. 5 Va. 14", "Ṛgvedasaṃhitā". Ṛk 5: Special Topics, Vyākaraṇa-prakriyā.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Special Topics)*
+
+त्ये (*tye*) — ते (*te*). In the Ṛgveda the word त्यद् (*tyad*) is commonly used in many places in place of तद् (*tad*) (printed "tacchabda"); it is a usage of the language of the hymns.
+
+> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमंजते ।
+
+> *etā u tyā uṣasaḥ ketumakrata pūrve ardhe rajaso bhānumaṃjate |*
+
+(Ṛ. Saṃ. 1-92-1.) In ṛks of this kind त्याः (*tyāḥ*) means ताः (*tāḥ*).
+
+प्रत्यदृश्रन् प्रदोषं (*pratyadṛśran pradoṣaṃ*) — "they are seen at night": in the night-time that is full of darkness the snakes are generally recognised by the sounds of their breathing; this is the sense.
+
+तस्करा इव (*taskarā iva*) — the thief is given as the example of moving about in darkness. It is well known in the world that thieves commit their thieving at night, when the darkness is thick, so that no one may see them while everyone sleeps. In the same way these wicked snakes move about in the night full of darkness and bring harm to people.
+
+अदृष्टाः विश्वदृष्टाः (*adṛṣṭāḥ viśvadṛṣṭāḥ*) — People cannot look at snakes that move about in the darkness or that creep about. (continued on p. 346)
+
+Therefore they are as if unseen to the eye. Yet they alone can see everyone. Because of this ability it is possible that greater harm comes to people from them. Therefore the ṛṣi says —
+
+प्रतिबुद्धा अभूतन (*pratibuddhā abhūtana*) — "O people, you must be very watchful about these snakes": thus he informs the people.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*
+
+त्ये (*tye*): the word त्यद् (*tyad*); in the nominative plural jas is replaced by ति (*ti*) (printed so); by the sūtra त्यदादीनामः (*tyadādīnāmaḥ*) (no number printed) the final is replaced by a (atva), with the following form as the single replacement (pararūpa); guṇa.
+
+अदृश्रन् (*adṛśran*): root दृशिर् प्रेक्षणे (*dṛśir prekṣaṇe*); luṅ in the sense of the present by Vedic usage; by इरितो वा (*irito vā*) (Pā. Sū. 3-1-57) cli gets aṅ; by बहुलं छन्दसि (*bahulaṃ chandasi*) (Pā. Sū. 7-1-8) jhi gets ruṭ; tiṅanta-nighāta accent.
+
+तस्कराः (*taskarāḥ*): तद्बृहतोः करपत्योः (*tadbṛhatoḥ karapatyoḥ*) [?] (Vā. [?]): when the word tat is followed by the word kara/pati in the sense "thief", the augment suṭ comes in the middle and the d of tad is dropped.
+
+विश्वदृष्टाः (*viśvadṛṣṭāḥ*): विश्वं दृष्टं यैस्ते विश्वदृष्टाः (*viśvaṃ dṛṣṭaṃ yaiste viśvadṛṣṭāḥ*), a bahuvrīhi; since it has the character of a name (saṃjñā), by बहुव्रीहौ विश्वं संज्ञायाम् (*bahuvrīhau viśvaṃ saṃjñāyām*) (as it looks; no number) the word viśva does not take the final-udātta accent; by बहुव्रीहौ प्रकृत्या पूर्वपदम् (*bahuvrīhau prakṛtyā pūrvapadam*) the first member keeps its natural accent, so the initial syllable is udātta.
+
+### Printed p. 346 (PDF 366)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191"; page number printed "346". Grammar of Ṛk 5 concluded; Ṛk 6: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun.)*
+
+अभूतन (*abhūtana*): root भू सत्तायाम् (*bhū sattāyām*); luṅ in the sense of the imperative (vidhi) by Vedic usage; second person plural, the affix thas; by the sūtra तस्थस्थमिपां तांतंतामः (*tasthasthamipāṃ tāṃtaṃtāmaḥ*) (no number) it is replaced by ta; by तप्तनप्तनथनाश्च (*taptanaptanathanāśca*) (Pā. Sū. 7-1-44, as printed and as in the file) again by tana; by भूसुवोस्तिङि (*bhūsuvostiṅi*) (no number) guṇa is prohibited; the aṅga gets the augment aṭ; tiṅanta-nighāta accent.
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> द्यौर्वः पिता पृथिवी माता सोमो भ्राताऽदितिः स्वसा ।
+> अदृष्टा विश्वदृष्टास्तिष्ठतेळयता सु कं ॥ ६ ॥
+
+> *dyaurvaḥ pitā pṛthivī mātā somo bhrātā 'ditiḥ svasā |*
+> *adṛṣṭā viśvadṛṣṭāstiṣṭhateḷayatā su kaṃ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> द्यौः । वः । पिता । पृथिवी । माता । सोमः । भ्राता । अदितिः । स्वसा ।
+> अदृष्टाः । विश्वऽदृष्टाः । तिष्ठत । इळयत । सु । कं ॥ ६ ॥
+
+> *dyauḥ | vaḥ | pitā | pṛthivī | mātā | somaḥ | bhrātā | aditiḥ | svasā |*
+> *adṛṣṭāḥ | viśva 'dṛṣṭāḥ | tiṣṭhata | iḷayata | su | kaṃ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* After the snake-poison remedies: O serpents, heaven is your father, earth your mother, Soma your brother, Aditi your sister; stay in your own places and do not come to me.
+
+> अतः परं विषविचिकित्सा । तत्र तावत् हे सर्पाः वो युष्माकं द्यौः पिता । पृथिवी माता । सोमो भ्राता । अदितिर्देवमाता स्वसा । एवंमहानुभावा महोरगाः अदृष्टा अन्यैरदृश्यमानरूपाः स्वयं तु विश्वदृष्टाः सर्वस्य द्रष्टारो यूयं तिष्ठत स्वस्वस्थाने । मां प्रति मा गच्छत । सु सुतरां कं सुखं यथा तथेळयत । ईरयत । गच्छत । सोमशब्देन सोमाधारो द्युलोक उच्यते । पृथिव्यंतरिक्षद्युस्थानस्थाः सर्पाः स्वस्वस्थानं प्राप्नुतास्मद्बाधं मा कुरतेत्यर्थः ॥
+
+> *ataḥ paraṃ viṣavicikitsā | tatra tāvat he sarpāḥ vo yuṣmākaṃ dyauḥ pitā | pṛthivī mātā | somo bhrātā | aditirdevamātā svasā | evaṃmahānubhāvā mahoragāḥ adṛṣṭā anyairadṛśyamānarūpāḥ svayaṃ tu viśvadṛṣṭāḥ sarvasya draṣṭāro yūyaṃ tiṣṭhata svasvasthāne | māṃ prati mā gacchata | su sutarāṃ kaṃ sukhaṃ yathā tatheḷayata | īrayata | gacchata | somaśabdena somādhāro dyuloka ucyate | pṛthivyaṃtarikṣadyusthānasthāḥ sarpāḥ svasvasthānaṃ prāpnutāsmadbādhaṃ mā kuratetyarthaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+(O serpents) **वः (*vaḥ*)** — to you. **द्यौः (*dyauḥ*)** — the heaven-world. **पिता (*pitā*)** — father. **पृथिवी (*pṛthivī*)** — the earth. **माता (*mātā*)** — mother. **सोमः (*somaḥ*)** — the atmosphere (antarikṣa), the support of Soma *(so printed; the bhāṣya says dyuloka)*. **भ्राता (*bhrātā*)** — one born together (brother). **अदितिः (*aditiḥ*)** — Aditi, mother of the gods. **स्वसा (*svasā*)** — sister. **अदृष्टाः (*adṛṣṭāḥ*)** — though you are not seen by others. **विश्वदृष्टाः (*viśvadṛṣṭāḥ*)** — you can see everything. **तिष्ठत (*tiṣṭhata*)** — be safe, each in your own place. **सु (*su*)** — exceedingly. **कं (*kaṃ*)** — so as to obtain happiness. **इलयत (*ilayata*)** [?] — conduct yourselves.
+
+**भावार्थः (Bhāvārtha)** *(Kannada, rendered)*
+
+O serpents, the heaven-world is your father, the earth is your mother. Soma (the atmosphere that supports Soma) is your brother. Aditi, the mother of the gods, is your sister. Though others cannot see you, you can see all the rest. Come not to us and give us no trouble; remain in your own places and enjoy happiness.
+
+### Printed p. 347 (PDF 367)
+
+*(Header: "A. 2. A. 5 Va. 15", "Ṛgvedasaṃhitā". The Bhāvārtha of Ṛk 6 ends; printed English; Special Topics begin.)*
+
+*(Bhāvārtha concluded:)* … (Though you cannot be seen by others) you can see all the rest. Do not come to us and give us trouble; remain in your own places and enjoy happiness.
+
+**Printed English** *(heading "English Translation")*
+
+Heaven, (serpents), is your father, Earth your mother, Soma your brother, Aditi your sister, unseen, all seeing, abide (in your own holes), enjoy (your own) good pleasure.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Special Topics)*
+
+Up to now the ṛṣi Agastya, having spoken in blame of the harm that snakes and the like do to people, said that people must be very watchful about them; now, both in this ṛk and in the next, he indicates the wish that they should give trouble to no one and that they themselves should be happy in their own places, and so prays.
+
+सोमः (*somaḥ*) — here the commentator's view is that the word सोम (*soma*) means the heaven-world where Soma is; that is, the idea is that there are various snakes in the earth, the atmosphere and heaven. This matter is stated plainly in the mantra of the Taittirīya Saṃhitā —
+
+> नमो अस्तु सर्पेभ्यो ये के च पृथिवीमनु ।
+> ये अंतरिक्षे ये दिवि तेभ्यः सर्पेभ्यो नमः ॥
+
+> *namo astu sarpebhyo ye ke ca pṛthivīmanu |*
+> *ye aṃtarikṣe ye divi tebhyaḥ sarpebhyo namaḥ ‖*
+
+(Tai. Saṃ. 4-2-8-3.) Snakes that are also in other places than the three main places, earth, atmosphere and heaven, are likewise mentioned there —
+
+> ये ऽदो रोचने दिवो ये वा सूर्यस्य रश्मिषु ।
+> येषामप्सुसदः कृतं तेभ्यः सर्पेभ्यो नमः ॥
+> या इषवो यातुधानानां ये वा वनस्पतीग्ं रनु ।
+> ये वावटेषु शेरते तेभ्यः सर्पेभ्यो नमः ॥
+
+> *ye 'do rocane divo ye vā sūryasya raśmiṣu |*
+> *yeṣāmapsusadaḥ kṛtaṃ tebhyaḥ sarpebhyo namaḥ ‖*
+> *yā iṣavo yātudhānānāṃ ye vā vanaspatīgṃ ranu |*
+> *ye vāvaṭeṣu śerate tebhyaḥ sarpebhyo namaḥ ‖*
+
+(Tai. Saṃ. 4-2-8-3.) *(In the first line a small numeral mark is printed after ये; kept out of the text as an accent sign. The reading वनस्पतीग्ं रनु (*vanaspatīgṃ ranu*) is as printed.)* In these mantras the names of many kinds of snakes are given: snakes in the shining heaven; snakes that wish to be in the sun's rays (in the heat); snakes in the water (Annaconda [sic]); snakes used as arrows of the rākṣasas; snakes that live on trees (green snakes); snakes that live in pits.
+
+*(Ṛk 6 is left open: the rest of the Special Topics and the grammar page follow on p. 348.)*
+
+---
+
+**Progress note:** (Earlier flags up to p. 322 moved verbatim to vol14/review/flags_archive_pp286-322.md.) Done through printed p. 347 (PDF 367). Sūkta 191: Ṛks 1-5 complete; Ṛk 6 OPEN (Saṃhitā to printed English and first part of Special Topics written, Tai. Saṃ. citations given; rest of Special Topics and grammar page on p. 348). Ṛk 4 recheck (PDF 361 viewed, Pada zoomed): Saṃhitā 'asadanni' = asadan+ni and Pada 'asadan | ni', 'avikṣata' agree with the print, no mismatch (the bhāṣya's nyasadan etc. are the joined forms); only the Pada ending was corrected in place from 'alipsate [?]' to 'alipsata' (print shows no ē). Batch pp. 345-347 flags: p. 345 header 'A. 2. A. 5 Va. 14'; Ṛ. Saṃ. 1-92-1, Pā. Sū. 3-1-57, 7-1-8 agree with the file (not zoomed); Vā. sūtra for tasyarāḥ ('tadbṛhatoḥ karapatyoḥ') as it looks [?], its number [?] unzoomed; baḥuvrīhau viśvaṃ saṃjñāyām as it looks, no number. p. 346 (PDF 366): header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 7-1-44 agrees with the file (not zoomed); Ṛk 6 numeral read from the strip as 6; Ṛk 6 Saṃhitā/Pada/bhāṣya read 'iḷayata' (zoomed; the hook sign is ya, not u); Pratipadārtha 'ilayata' [?] (printed with la); Pratipadārtha makes soma = antarikṣa but bhāṣya = dyuloka (as printed; bhāṣya 'dyuloka' printed with a garbled first letter). p. 347 (PDF 367): header 'A. 2. A. 5 Va. 15' (varga numeral read from the strip, unzoomed, doubtful); Tai. Saṃ. 4-2-8-3 (file gave 4-2-8.3 for the first citation; the print shows hyphens; written 4-2-8-3 for both); 'Annaconda' printed so [sic]; 'ye ʼdo' with a small numeral mark after ye. Counts for this batch: 1 distinct [?]+ 3 unclear spots ((tadbṛhatoḥ…), Vā. number, ilayata), 4 zooms (1 on PDF 361, 3 on PDF 366), numerals settled by file without zoom 6, FILE DISAGREE 0 (4-2-8.3 vs print 4-2-8-3: print followed), numerals lacking in file: headers, Ṛk 6 numeral, Vā. number. Batch pp. 342-344 flags: p. 342 header Maṃ. 1 A. 24 Sū. 191 (Maṇḍala numeral as it looks); bhāṣya/Pratipadārtha read न्यसदन्, न्यविक्षत, न्यलिप्सत, whereas the Saṃhitā/Pada of Ṛk 4 written from p. 341 have असदन्/अविक्षत/अलिप्सत[?]: p. 341 Saṃhitā/Pada to be rechecked against the image (not edited here); no file numerals on p. 342; Special Topics heading printed garbled, taken as the usual one. p. 343 (PDF 363): header 'A. 2. A. 5. Va. 14'; Ṛ. Saṃ. 1-114-7 and Pā. Sū. 3-2-4 agree with the file (not zoomed); Pā. Sū. 8-3-[?] after अंबांबगोभूमि not in the file, doubtful, unzoomed; the syllable after priya in the Ṛgvedic citation [?], unzoomed; sūtra 'puṣādi…' as it looks, no number. p. 344 (PDF 364): header Maṃ. 1 A. 24 Sū. 191; Ṛk 5 numeral read from the strip as 5; Saṃhitā 'pratyadṛśranpradoṣaṃ' with an extra small sign after n, [?], unzoomed; bhāṣya 'divyete' [?]. Counts for this batch: 4 distinct [?] places, 0 zooms, numerals settled by file without zoom 2, FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 5 numeral, 8-3-[?]. New (pp. 323–325): p. 323 header 'A. 2. A. 5 Va. 13' (Aṣṭaka numeral as on p. 295; Varga 13 read from the strip); grammar root 'pīj' (printed ಪೀಜ್) as it looks; Ṛk 6 numeral 6 read from the strip; Saṃhitā/Pada 'yo' printed in the Ṛk (taken as printed, in Pratipadārtha too); bhāṣya 'sakhivadanamārgānnivartya' [?] and 'asya[?]pornuvanta' (apy-?) UNDECIDED, 'upraapnuvantaḥ' and 'abhyābhimukhyena' as printed/as they look; p. 324 header Maṃ. 1 A. 24 Sū. 190; 'paṭhita' (Pratipadārtha) as it looks; stray point after 'covering' in the printed English; p. 325 header Varga 13, Ni. 6-23 agrees with the file (not zoomed); Nirukta quotation 'pratyṛto' as it looks. Counts for this batch: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 1, FILE DISAGREE 0, numerals lacking in file: all headers and the Ṛk numeral (read from strips). New (pp. 326–328): p. 326 header Maṃ. 1 A. 24 Sū. 190; Pā. Sū. 6-2-118, 6-2-172, 6-2-49, 6-3-139 (niṣātasya… printed so; file 6-3-139) agree with the file; Pā. Sū. 2-4-77 FILE DISAGREE (file 2-4-677; local crop zoomed, read 2-4-77); Pā. Sū. 3-4-410 kept as printed/file (zoomed: 3-4-410; the standard number differs), sūtra for vṛddhi (etyedhatyūṭhsu) as it looks, number not printed; sūtra 'gātisthāghupā…' abbreviated as it looks; p. 327 header 'A. 2. A. 5. Va. 13', Ṛk 7 numeral read from the strip (flat-footed = 7), Saṃhitā prints 'vidvā ubhayaṃ' and 'tara āpaśca' (taken as printed), Pada 'rodhaḥ-cakrāḥ' with compound mark as it looks, Ā. 3-7 read from the strip (not in file; flat-footed 7, as on p. 310); p. 328 header Sū. 190, Ni. 3-19 and 2-24 and 3-9 agree with the file, Ni. 2-5 (avanayaḥ as earth names; not in the file; zoomed, read 2-5 as it looks); printed English 'rolling' misprinted 'rolling' with an l-like letter as printed, 'ocean :' as printed. Counts for this batch: 0 distinct [?] places, 4 local crops (no page.py zoom), numerals settled by file without zoom 9 (6-2-118, 6-2-172, 6-3-139, 6-2-49, 3-19, 2-24 twice, 3-9; plus 3-4-410 zoomed), FILE DISAGREE 1 (2-4-77), numerals lacking in file: headers, Ṛk 7 numeral, Ā. 3-7, Ni. 2-5.
