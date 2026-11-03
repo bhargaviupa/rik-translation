@@ -15305,4 +15305,122 @@ The mornings and evenings, Agni, are desirous (of worshipping) you, as cows in t
 
 ---
 
-**Progress note:** Done through printed p. 433 (PDF 454). Maṇḍala 2 Sūkta 2: Ṛk 1's Special Topics are concluded (p. 431); Ṛk 2 is fully written (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, which end at the foot of p. 433 before the signature mark "[28]"). Ṛk 3 begins on p. 434; no Ṛk is left open. Numeral file agreed on Ni. 2-21, 5-4 and 3-13 (p. 433), with nothing to compare on pp. 431–432. Not zoomed: headers (p. 431 the varga numeral is unclear ("೧ಲ"-like); p. 432 the sūkta numeral reads like "1" though the sūkta is 2; p. 433 "Va. 20"). [?] places: ⟦युष्टं⟧ after ⟦यजमाना⟧ in the bhāṣya on p. 431; ⟦सायंप्रातेरग्निहोत्रं जुहुयोत्⟧ on p. 433 (as read, not zoomed). Printed misprints noted: ದ್ವೇಶಿಸಿ for ಉದ್ದೇಶಿಸಿ in the Pratipadārtha, ⟦वृजिनेषु⟧ for ⟦वृजनेषु⟧ on p. 431.
+---
+
+### Printed p. 434 (PDF 455)
+
+*(Header: "434", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2". Ṛk 3: Saṃhitā, Pada, bhāṣya, Pratipadārtha and the start of the Bhāvārtha. The numeral file has no rows for this page.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तं देवा बुध्ने रजसः सुदंससं दिवस्पृथिव्योररतिं न्येरिरे ।
+> रथमिव वेद्यं शुक्रशोचिषमग्निं मित्रं न क्षितिषु प्रशंस्यम् ॥ ३ ॥
+
+> *taṃ devā budhne rajasaḥ sudaṃsasaṃ divaspṛthivyoraratiṃ nyerire |*
+> *rathamiva vedyaṃ śukraśociṣamagniṃ mitraṃ na kṣitiṣu praśaṃsyam ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> तं । देवाः । बुध्ने । रजसः । सुऽदंससं । दिवःपृथिव्योः । अरतिं । नि । एरिरे ।
+> रथंऽइव । वेद्यं । शुक्रऽशोचिषं । अग्निं । मित्रं । न । क्षितिषु । प्रऽशंस्यं ॥ ३ ॥
+
+> *taṃ | devāḥ | budhne | rajasaḥ | su 'daṃsasaṃ | divaḥpṛthivyoḥ | aratiṃ | ni | erire |*
+> *rathaṃ 'iva | vedyaṃ | śukra 'śociṣaṃ | agniṃ | mitraṃ | na | kṣitiṣu | pra 'śaṃsyaṃ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The gods, or the priests, establish the well-known Agni at the root of the earth, that is, on the altar; the bhāṣya then explains his epithets.
+
+> तं प्रसिद्धमुक्तगुणविशिष्टमग्निं देवाः प्रसिद्धा व्यवहर्तार ऋत्विजो वा रजसो रंजनात्मकस्य लोकस्य बुध्ने मूले । पृथिव्यां वेद्यामित्यर्थः । तत्र न्येरिरे । नितरामीरयंति । व्यापारयंति स्वस्वहविर्लाभाय । ऋत्विक्पक्षे स्तोत्रादिना नितरां गच्छंति । भजंते । कीदृशमित्याह । सुदंससं शोभनदर्शनं दिवस्पृथिव्योर्द्यावापृथिव्योररतिं । ईश्वरं गंतारं व्याप्तं वा । वेद्यं । वेदो धनं । तस्मै हितं । रथमिव । रथं यथा स्वाभिमतलाभायाश्रयंते तद्वत् । यद्वा रथमिव प्राप्तिसाधनत्वेन वर्तमानं । वेद्यं वेदितव्यं । शुक्रशोचिषं दीप्तवर्णमग्निं मित्रं न सखिवत्कार्यसाधकं । यद्वा आदित्यमिव । क्षितिषु योगभूमिषु मनुष्येषु वा प्रशंस्यं । प्रकर्षेण स्तुत्यं । एवं महानुभावमग्निं न्येरिर इति ॥
+
+> *taṃ prasiddhamuktaguṇaviśiṣṭamagniṃ devāḥ prasiddhā vyavahartāra ṛtvijo vā rajaso raṃjanātmakasya lokasya budhne mūle | pṛthivyāṃ vedyāmityarthaḥ | tatra nyerire | nitarāmīrayaṃti | vyāpārayaṃti svasvahavirlābhāya | ṛtvikpakṣe stotrādinā nitarāṃ gacchaṃti | bhajaṃte | kīdṛśamityāha | sudaṃsasaṃ śobhanadarśanaṃ divaspṛthivyordyāvāpṛthivyoraratiṃ | īśvaraṃ gaṃtāraṃ vyāptaṃ vā | vedyaṃ | vedo dhanaṃ | tasmai hitaṃ | rathamiva | rathaṃ yathā svābhimatalābhāyāśrayaṃte tadvat | yadvā rathamiva prāptisādhanatvena vartamānaṃ | vedyaṃ veditavyaṃ | śukraśociṣaṃ dīptavarṇamagniṃ mitraṃ na sakhivatkāryasādhakaṃ | yadvā ādityamiva | kṣitiṣu yogabhūmiṣu manuṣyeṣu vā praśaṃsyaṃ | prakarṣeṇa stutyaṃ | evaṃ mahānubhāvamagniṃ nyerira iti ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सुदंससं (सुदंससं (*sudaṃsasaṃ*)) — one of beautiful appearance (lit. having a beautiful sight); दिवस्पृथिव्योः (दिवस्पृथिव्योः (*divaspṛthivyoḥ*)) — between heaven and earth, throughout (being the lord); अरतिं (अरतिं (*aratiṃ*)) — one who pervades and moves about; रथमिव (रथमिव (*rathamiva*)) — (because he bears the oblation) like a chariot bearing a load; वेद्यं (वेद्यं (*vedyaṃ*)) — one who is to be known; शुक्रशोचिषं (शुक्रशोचिषं (*śukraśociṣaṃ*)) — one of shining lustre; क्षितिषु (क्षितिषु (*kṣitiṣu*)) — among men; प्रशंस्यं (प्रशंस्यं (*praśaṃsyaṃ*)) — highly praiseworthy; मित्रं न (मित्रं न (*mitraṃ na*)) — like a friend; तं अग्निं (तं अग्निं (*taṃ agniṃ*)) — that well-known Agni; देवाः (देवाः (*devāḥ*)) — the gods; रजसः (रजसः (*rajasaḥ*)) — of the earth, which is of the nature of delighting (रंजनात्मक (*raṃjanātmaka*)); बुध्ने (बुध्ने (*budhne*)) — at the root (in the altar); न्येरिरे (न्येरिरे (*nyerire*)) — establish.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "The one of beautiful appearance, the lord of heaven and earth who pervades and moves about everywhere, the one who is known like a chariot that bears a load, because he bears the oblation, the one of shining radiance," *(the sentence runs over to p. 435)*
+
+---
+
+### Printed p. 435 (PDF 456)
+
+*(Header: "A. 2 A. 5 Va. 20" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "435". Ṛk 3: Bhāvārtha concluded, printed English, Special Topics. The numeral file has no rows for this page.)*
+
+(Kannada, continued:) "…the one who is like a most praiseworthy friend among men, and who is well known — that Agni the gods established on the altar, the root-part of the earth, which is of the nature of delighting."
+
+**English Translation** *(as printed)*
+
+The gods have stationed at the root of the world, that Agni who is of goodly appearance ; the pervader of heaven and earth ; who is to be known as a car (to convey men to their wishes), who shines with pure radiance, and who is to be honoured as a friend amongst mankind.
+
+**विशेषविषयगळु (Special Topics)**
+
+देवाः रजसः बुध्ने तं न्येरिरे (*devāḥ rajasaḥ budhne taṃ nyerire*) —
+
+(Kannada:) "In this sentence Sāyaṇa has explained, for the word deva, the words व्यवहर्तारः ऋत्विजो वा (*vyavahartāraḥ ṛtvijo vā*): that the well-known gods praise Agni abundantly, on the altar that is the earth, in order to obtain their respective shares of the oblations — one kind of meaning. When he gives another kind of meaning for the word deva, 'priests', he says स्तोत्रादिना नितरां गच्छंति भजंते (*stotrādinā nitarāṃ gacchaṃti bhajaṃte*): the priests serve Agni, who has great glory, with hymns. Thus he has explained the second meaning also."
+
+दिवस्पृथिव्योः अरतिं (*divaspṛthivyoḥ aratiṃ*) — द्यावापृथिव्योः ईश्वरं गंतारं व्याप्तं वा (*dyāvāpṛthivyoḥ īśvaraṃ gaṃtāraṃ vyāptaṃ vā*) —
+
+(Kannada:) "Agni is the lord of earth and antarikṣa (भूम्यंतरिक्ष); he moves in earth and antarikṣa; he pervades heaven and earth. Since three kinds of meaning have been explained, the greatness of Agni is described."
+
+रथमिव वेद्यं (*rathamiva vedyaṃ*) —
+
+(Kannada:) "In this sentence the word veda has been explained as 'wealth'. स्वाभिमतलाभाय रथं यथा आश्रयंते (*svābhimatalābhāya rathaṃ yathā āśrayaṃte*): as a chariot is a support for men for obtaining what they desire, Agni is the giver of wealth — the meaning is expanded by showing this comparison. यद्वा रथमिव प्राप्तिसाधनत्वेन वेद्यं (*yadvā rathamiva prāptisādhanatvena vedyaṃ*): as a chariot is a means of accomplishing benefit for men, so Agni too is known by men as the accomplisher of benefit. Thus two kinds of meaning are described."
+
+मित्रं न शुक्रशोचिषं (*mitraṃ na śukraśociṣaṃ*) —
+
+(Kannada:) "It is explained that Agni accomplishes the work for the sacrificers like a friend."
+
+मित्रं न क्षितिषु प्रशंस्यं (*mitraṃ na kṣitiṣu praśaṃsyaṃ*) —
+
+(Kannada:) "In this sentence the word mitra is used in the sense of Āditya; having explained the meaning thus, and having said that Agni, like Āditya, is worthy of unsurpassed praise in the sacrificial grounds (on earth) or among men, Sāyaṇa has established the comparison of Agni with a friend or with Āditya. The greatness of Agni is explained to be of this kind." *(This Special Topic runs over to p. 436.)*
+
+---
+
+### Printed p. 436 (PDF 457)
+
+*(Header: "436", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2". Ṛk 3 Special Topics concluded; Ṛk 4: Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha. Numeral file: "Ni. 10-22" agrees with the strip; its other row ("24.1") is a misreading of the header.)*
+
+(Kannada, continued:) "Yāska has explained the meaning of the word mitra thus: मित्रः प्रमीतेस्त्रायते सम्मिन्वानो द्रवतीति वा, मोदयतेर्वा (*mitraḥ pramītestrāyate samminvāno dravatīti vā, modayatervā*) (Ni. १०-२२ (*10-22*)) (not translated in the source; mine and tentative: 'Mitra protects from death; or, joining things together, he flows; or from the root meaning "to gladden"'). Sāyaṇa, however, has described here two kinds of meaning, 'friend' (सखा (*sakhā*)) and 'Āditya'."
+
+*(Rule line.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तमुक्षमाणं रजसि स्व आ दमे चंद्रमिव सुरुचं ह्वार आ दधुः ।
+> पृश्न्याः पतरं चितयंतमक्षभिः पाथो न पायुं जनसी उभे अनु ॥ ४ ॥
+
+> *tamukṣamāṇaṃ rajasi sva ā dame caṃdramiva surucaṃ hvāra ā dadhuḥ |*
+> *pṛśnyāḥ pataraṃ citayaṃtamakṣabhiḥ pātho na pāyuṃ janasī ubhe anu ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> तं । उक्षमाणं । रजसि । स्वे । आ । दमे । चंद्रंऽइव । सुऽरुचं । ह्वारे । आ । दधुः ।
+> पृश्न्याः । पतरं । चितयंतं । अक्षऽभिः । पाथः । न । पायुं । जनसी इति । उभे इति । अनु ॥
+
+> *taṃ | ukṣamāṇaṃ | rajasi | sve | ā | dame | caṃdraṃ 'iva | su 'rucaṃ | hvāre | ā | dadhuḥ |*
+> *pṛśnyāḥ | pataraṃ | citayaṃtaṃ | akṣa 'bhiḥ | pāthaḥ | na | pāyuṃ | janasī iti | ubhe iti | anu ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The priests place Agni, who is sprinkled with ghee and shines like gold, in the sacrificial house; he moves in the sky, protects like water, and pervades heaven and earth.
+
+> तं स्तुत्यतरं रजस्यंतरिक्ष आ उक्षमाणं सर्वतः सिंचंतं वृष्टिजलं रजसि पृथिव्यां वेद्यां घृतादिनासिच्यमानं वा । स्वे स्वकीये ह्वारे विजने दमे यागगृह आदधुः । आदधते । कीदृशं तं । चंद्रमिव सुरुचं । चंद्रमिति हिरण्यनाम । हिरण्यमिव शोभनदीप्तिं । सश्चात्स्पृद्धावस्थायां [?] पृश्न्याः पतरं । द्युलोकस्यांतरिक्षस्य गंतारं । अक्षभिः स्वकीयैर्ज्वालारूपैरवयवैश्चितयंतं चेतयमानं । पाथो न पायुं । उदकमिव रक्षकं । उभे जनसी सर्वस्य जनयित्र्यौ द्यावापृथिव्यावनु व्याप्तं । भूम्यां होमाधारत्वेन स्थित्वा हविष्प्रेषणाय द्युलोकगामिनमिति भावः । एवंरूपमग्निमादधते ॥
+
+> *taṃ stutyataraṃ rajasyaṃtarikṣa ā ukṣamāṇaṃ sarvataḥ siṃcaṃtaṃ vṛṣṭijalaṃ rajasi pṛthivyāṃ vedyāṃ ghṛtādināsicyamānaṃ vā | sve svakīye hvāre vijane dame yāgagṛha ādadhuḥ | ādadhate | kīdṛśaṃ taṃ | caṃdramiva surucaṃ | caṃdramiti hiraṇyanāma | hiraṇyamiva śobhanadīptiṃ | saścātspṛddhāvasthāyāṃ [?] pṛśnyāḥ pataraṃ | dyulokasyāṃtarikṣasya gaṃtāraṃ | akṣabhiḥ svakīyairjvālārūpairavayavaiścitayaṃtaṃ cetayamānaṃ | pātho na pāyuṃ | udakamiva rakṣakaṃ | ubhe janasī sarvasya janayitryau dyāvāpṛthivyāvanu vyāptaṃ | bhūmyāṃ homādhāratvena sthitvā haviṣpreṣaṇāya dyulokagāminamiti bhāvaḥ | evaṃrūpamagnimādadhate ‖*
+
+*(The word सश्चात्स्पृद्धावस्थायां (सश्चात्स्पृद्धावस्थायां (*saścātspṛddhāvasthāyāṃ*)) is given as read letter by letter, not zoomed; the first letter looks like स (*sa*) and the sense is unclear to me [?].)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+चंद्रमिव (चंद्रमिव (*caṃdramiva*)) — like gold; सुरुचं (सुरुचं (*surucaṃ*)) — one of excellent radiance; पृश्न्याः (पृश्न्याः (*pṛśnyāḥ*)) — in the antarikṣa; पतरं (पतरं (*pataraṃ*)) — one who moves about; अक्षभिः (अक्षभिः (*akṣabhiḥ*)) — with his limbs in the form of flames; चितयंतं (चितयंतं (*citayaṃtaṃ*)) — *(the entry breaks off at the foot of the page and continues on p. 437; Ṛk 4 is left open at its Pratipadārtha)*
+
+---
+
+**Progress note:** Done through printed p. 436 (PDF 457). Maṇḍala 2 Sūkta 2: Ṛk 3 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, ending on p. 436 with the Yāska reference Ni. 10-22). Ṛk 4 is OPEN: Saṃhitā, Pada and bhāṣya written; the Pratipadārtha is broken off at "चितयंतं—" at the foot of p. 436 and continues on p. 437. Numeral file: Ni. 10-22 agrees with the strip (p. 436); its row "24.1" is a header misread; the file has no rows for pp. 434–435. Not zoomed: the headers (p. 435 "A. 2 A. 5 Va. 20" as read). [?] places: ⟦सश्चात्स्पृद्धावस्थायां⟧ in the Ṛk 4 bhāṣya; Saṃhitā ⟦चितयंतमक्षभिः⟧ (ma/u glyph before ⟦क्षभिः⟧) and the Pada word ⟦आ⟧ after ⟦स्वे⟧ read without zoom.
