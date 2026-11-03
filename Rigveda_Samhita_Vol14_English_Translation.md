@@ -15197,4 +15197,112 @@ Exalt with sacrifice, Agni, who knows all that has been born ; worship him with 
 
 ---
 
-**Progress note:** Done through printed p. 430 (PDF 451). Maṇḍala 2 Sūkta 2: the Anuvāda is finished (p. 428); Ṛk 1 is OPEN in its Special Topics, breaking off in the passage on ⟦स्वर्णरं⟧ at the foot of p. 430 ("The sacrificers to heaven…"), to be continued on p. 431; Ṛk 1's bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. FILE DISAGREE: the Nirukta reference after the Agni passage on p. 430, file said 6-14, my reading 7-14 [?], not zoomed (no zoom available). Numeral file agreed on Ā. 7-4 (p. 428), Ni. 3-19 (p. 429), Ni. 3-9 (p. 430). Not zoomed: headers (p. 429 "Va. 20"; the Sūkta 2 heading: Adhyāya 5, Varga 20, 21, Ṛk count 13). [?] places: ⟦विस्तृतया⟧ in the bhāṣya; ⟦या इच्ञ्ये⟧ in the Nirukta quotation on p. 429; the Kannada word ⟦ಬಹಳನುಟ್ಟಿಗೆ⟧ on p. 430; the first word of the Taittirīya-Brāhmaṇa quotation (⟦यत्त्रज्ञातः⟧) on p. 430; the blurred letter in "well f[?]d" in the printed English.
+### Printed p. 431 (PDF 452)
+
+*(Header: "A. 2 A. 5 Va. [?]" (the varga numeral looks like "೧ಲ" and was not zoomed, so none is recorded), "Ṛgvedasaṃhitā", "431". Ṛk 1 Special Topics are concluded; Ṛk 2 begins, up to the start of its bhāṣya. The numeral file has no rows for this page.)*
+
+(Kannada, continued from p. 430, the opening of the sentence being on that page:) "…one who has a greatness that brings about [the fulfilment, as the sentence begins on the previous page], or one who is worthy of many kinds of praises: thus the power of Agni is described for this word with two kinds of meaning. And the meaning 'Agni is praised by many people' is also explained."
+
+द्युक्षं—दीप्तं द्युनिवासिनं वा (*dyukṣaṃ—dīptaṃ dyunivāsinaṃ vā*) —
+
+(Kannada:) "Having explained that Agni is one who has lustre, or one who dwells in the sky (antarikṣa) [as printed], and having explained for the words वृजिनेषु धूर्षदं (*vṛjineṣu dhūrṣadaṃ*) [sic: the Kannada here prints वृजिनेषु (*vṛjineṣu*) where the Ṛk has वृजनेषु (*vṛjaneṣu*)] the meaning that without the favour of this Agni living beings would have no strength of body, Sāyaṇa has also given the worldly experience in the words अग्निपाटवे सति शारीरं बलं भवतीति प्रसिद्धं (*agnipāṭave sati śārīraṃ balaṃ bhavatīti prasiddhaṃ*) ('it is well known that when the fire (digestive fire) is vigorous, bodily strength comes')."
+
+(Kannada:) "In this Ṛk the ṛṣi, the seer of the mantra, describes the many-sided greatness of Agni, addresses the sacrificers and the priests, and instructs them: worship Agni, who is full of such greatness, with oblations and with caru and puroḍāśa, and praise him with various kinds of praises."
+
+*(Rule line.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अभि त्वा नक्तीरुषसो ववाशिरेऽग्ने वत्सं न स्वसरेषु धेनवः ।
+> दिव इवेदरतिर्मानुषा युगा क्षपो भासि पुरुवार संयतः ॥ २ ॥
+
+> *abhi tvā naktīruṣaso vavāśire 'gne vatsaṃ na svasareṣu dhenavaḥ |*
+> *diva ivedaratirmānuṣā yugā kṣapo bhāsi puruvāra saṃyataḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अभि । त्वा । नक्तीः । उषसः । ववाशिरे । अग्ने । वत्सं । न । स्वसरेषु । धेनवः ।
+> दिवः इव । इत् । अरतिः । मानुषा । युगा । आ । क्षपः । भासि । पुरुवार । संयतः ॥ २ ॥
+
+> *abhi | tvā | naktīḥ | uṣasaḥ | vavāśire | agne | vatsaṃ | na | svasareṣu | dhenavaḥ |*
+> *divaḥ iva | it | aratiḥ | mānuṣā | yugā | ā | kṣapaḥ | bhāsi | puruvāra | saṃyataḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Day and night, or evening and morning, or the days and nights themselves, long for Agni as cows long for their calves; the bhāṣya goes on to explain "pervading like heaven".
+
+> हे अग्ने त्वा त्वामभि प्रति नक्तीः रात्रीरुषसोऽहानि । सर्वासु रात्रिषु सर्वेष्वप्यहस्सु । यद्वा नक्तशब्दः सायंकालं लक्षयति सायं प्रातरग्निहोत्रस्य सद्भावात् । सर्वेषु कालेषु सायंप्रातःकालेषु वा ववाशिरे । आकांक्षते यजमाना युष्टं [?] । यद्वा अहानि रात्रयश्च त्वामेव कामयंते होतुं । काले कर्मणश्चोदनात् कालानां कामनमुपचर्यते । तत्र दृष्टांतः । स्वसरेषु स्वयंसरणशीलेष्वहस्सु स्वसरणाधिकरणेषु गोष्ठेषु वा धेनवो वत्सं न । वत्समिव । किंच हे
+
+> *he agne tvā tvāmabhi prati naktīḥ rātrīruṣaso 'hāni | sarvāsu rātriṣu sarveṣvapyahassu | yadvā naktaśabdaḥ sāyaṃkālaṃ lakṣayati sāyaṃ prātaragnihotrasya sadbhāvāt | sarveṣu kāleṣu sāyaṃprātaḥkāleṣu vā vavāśire | ākāṃkṣate yajamānā yuṣṭaṃ [?] | yadvā ahāni rātrayaśca tvāmeva kāmayaṃte hotuṃ | kāle karmaṇaścodanāt kālānāṃ kāmanamupacaryate | tatra dṛṣṭāṃtaḥ | svasareṣu svayaṃsaraṇaśīleṣvahassu svasaraṇādhikaraṇeṣu goṣṭheṣu vā dhenavo vatsaṃ na | vatsamiva | kiṃca he*
+
+*(The bhāṣya breaks off at किंच हे (*kiṃca he*) at the foot of the page and continues on p. 432. The word युष्टं (*yuṣṭaṃ*) after यजमाना (*yajamānā*) is read letter by letter from the strip, not zoomed. In the strip the compound before गोष्ठेषु (*goṣṭheṣu*) reads स्वसरणाधिकरणेषु (*svasaraṇādhikaraṇeṣu*); on p. 433 the quotation reads सुखसरणाधिकरणेषु (*sukhasaraṇādhikaraṇeṣu*), as printed.)*
+
+---
+
+### Printed p. 432 (PDF 453)
+
+*(Header: "432", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. [?]" (the sūkta numeral looks like "೧" in the strip, although the sūkta is 2; not zoomed). Ṛk 2: bhāṣya concluded, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun. The numeral file has no rows for this page.)*
+
+**॥ सायणभाष्यम् ॥** *(continued)*
+
+*Gist:* Agni, desired by many and self-controlled, pervades like heaven, to give oblations to the gods there; he shines in all human rites and all nights.
+
+> पुरुवार बहुभिर्वरणीयाग्ने संयतो नियतस्त्वं दिव इव द्युलोकस्येवारतिः । व्याप्तो विस्तृतः । तत्रत्यानां देवानां हविःप्रदानायैव सर्वत्र व्याप्त इत्यर्थः । मानुषा मनुष्याणां यजमानानां संबंधीनि युगा युगानि । युगशब्दः कालोपलक्षकः । प्रातरादिसवनानि । सर्वेषु सवनेषु ॥ अत्यंतसंयोगे द्वितीया ॥ क्षपो रात्रीः । सर्वासु रात्रिष्वप्याभासि । समंताद्दीप्यसे ॥
+
+> *puruvāra bahubhirvaraṇīyāgne saṃyato niyatastvaṃ diva iva dyulokasyevāratiḥ | vyāpto vistṛtaḥ | tatratyānāṃ devānāṃ haviḥpradānāyaiva sarvatra vyāpta ityarthaḥ | mānuṣā manuṣyāṇāṃ yajamānānāṃ saṃbaṃdhīni yugā yugāni | yugaśabdaḥ kālopalakṣakaḥ | prātarādisavanāni | sarveṣu savaneṣu ‖ atyaṃtasaṃyoge dvitīyā ‖ kṣapo rātrīḥ | sarvāsu rātriṣvapyābhāsi | samaṃtāddīpyase ‖*
+
+*(Its tail, the remark अत्यंतसंयोगे द्वितीया (*atyaṃtasaṃyoge dvitīyā*) (the second case in the sense of continuous connection), is grammatical: characterized, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वा अभि (*tvā abhi*) — [aiming at you; the Kannada prints ದ್ವೇಶಿಸಿ "having hated" [sic], evidently a misprint for ಉದ್ದೇಶಿಸಿ "having aimed at", the word used in the Bhāvārtha]; नक्तीः (*naktīḥ*) — in the nights; उषसः (*uṣasaḥ*) — in the days too; स्वसरेषु (*svasareṣu*) — in the cow-stalls; धेनवः (*dhenavaḥ*) — cows; वत्सं न (*vatsaṃ na*) — as they love the calf and wish for its nearness; ववाशिरे (*vavāśire*) — (the sacrificers) seek your presence in order to perform the sacrifice; पुरुवार (*puruvāra*) — you who are desired by many people; संयतः (*saṃyataḥ*) — you who have a regulated conduct; दिव इव (*diva iva*) — like the heavenly world; अरतिः (*aratiḥ*) — you who are extensive; मानुषा (*mānuṣā*) — of men; युगा (*yugā*) — in the (sacrifice) times; क्षपः (*kṣapaḥ*) — in the nights; आ भासि (*ā bhāsi*) — you shine exceedingly.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, aiming at you, the sacrificers seek your presence in order to perform sacrifice, both in the nights and in the days, as cows in their stalls love the calf and wish for its nearness. You, who are desired by many people, who have a regulated conduct, and who are extensive like the heavenly world, shine exceedingly in the sacrifice-times of men and in the night-times."
+
+**English Translation** *(as printed)*
+
+The mornings and evenings, Agni, are desirous (of worshipping) you, as cows in their stalls long for their calves: adored of many, you self-controlled, are verily spread through the sky: you (are present at all) the sacred rites of men, and shine brightly by night.
+
+**विशेषविषयगळु (Special Topics)**
+
+नक्तीः—रात्रीः (*naktīḥ—rātrīḥ*) | उषसः—अहानि (*uṣasaḥ—ahāni*) | Agni — सर्वासु रात्रिषु सर्वेष्वप्यहस्सु (*sarvāsu rātriṣu sarveṣvapyahassu*) —
+
+(Kannada:) "The first meaning is that Agni is desired and wished to be worshipped by the sacrificers in all nights and in all days; this has been set out in the sentence अभित्वा रात्रीरुषसो ववाशिरे (*abhitvā rātrīruṣaso vavāśire*) (as printed)."
+
+(Kannada:) "In the second meaning: यद्वा नक्तशब्दः सायंकालं लक्षयति । सायं प्रातरग्निहोत्रस्य सद्भावात् (*yadvā naktaśabdaḥ sāyaṃkālaṃ lakṣayati | sāyaṃ prātaragnihotrasya sadbhāvāt*) — the meaning 'evening time' is given for the word नक्त (*nakta*). Those who perform the sacrifice, every" *(the sentence runs over to p. 433)*
+
+---
+
+### Printed p. 433 (PDF 454)
+
+*(Header: "A. 2 A. 5 Va. 20" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "433". Ṛk 2 Special Topics continued and concluded. Numeral file: three rows, "Ni. 2-21", "Ni. 5-4" and "Ni. 3-13", all agreeing with the strip. At the foot: the signature mark "[28]" and "Vol. 14".)*
+
+(Kannada, continued:) "…evening and morning, seek Agni in order to perform the homa: thus it is explained."
+
+यद्वा अहानि रात्रयश्च त्वामेव कामयंते होतुं काले कर्मणश्चोदनात् कालानां कामनमुपचर्यते (*yadvā ahāni rātrayaśca tvāmeva kāmayaṃte hotuṃ kāle karmaṇaścodanāt kālānāṃ kāmanamupacaryate*) —
+
+(Kannada:) "Even the insentient nights and days, following the injunction that agnihotra must be performed at the respective times, of their own accord seek Agni in order to worship him: thus the third meaning is explained. The injunction सायंप्रातेरग्निहोत्रं जुहुयोत् (*sāyaṃprāteragnihotraṃ juhuyot*) [?] (as read letter by letter from the strip, not zoomed; the last word may be the printing of जुहुयात् (*juhuyāt*)) teaches an indispensable duty in the matter of performing agnihotra; the seer of the mantra has expressed this very intention."
+
+स्वसरेषु धेनवः वत्सं न (*svasareṣu dhenavaḥ vatsaṃ na*) —
+
+(Kannada:) "In this sentence the word न (*na*) expresses comparison (upamāna). For the word स्वसर (*svasara*) the bhāṣya gives two kinds of meaning: स्वयं सरणशीलेषु अहस्सु (*svayaṃ saraṇaśīleṣu ahassu*), 'days that pass by of themselves'; or सुखसरणाधिकरणेषु गोष्ठेषु वा (*sukhasaraṇādhikaraṇeṣu goṣṭheṣu vā*) [as printed here], 'places for tying cows, fit for moving about comfortably'."
+
+(Kannada:) "Yāska reads the word स्वसर (*svasara*) among the names of days (Ni. २-२१ (*2-21*) (*2-21*)) and explains the meaning: स्वसराण्यहानि भवन्ति स्वयं सारीण्यपि वा (*svasarāṇyahāni bhavanti svayaṃ sārīṇyapi vā*), and gives as example उस्रा इव स्वसराणि (*usrā iva svasarāṇi*) (Ni. ५-४ (*5-4*) (*5-4*)). The word स्वसर (*svasara*) is also read among the names of houses (Ni. ३-१३ (*3-13*) (*3-13*)). Just as milk-giving cows, at day and at night, long for their calves in order to suckle them, the sacrificers long for Agni, for the offering of oblations, at the evening and morning times: this is said by way of comparison."
+
+(Kannada:) "Sāyaṇa explains the word अरतिः (*aratiḥ*) as 'pervading'. Agni, praised by many people and being regulated in manner, like the antarikṣa [as printed] pervades all regions: तत्रत्यानां देवानां हविः प्रदानायैव सर्वत्र व्याप्तिः (*tatratyānāṃ devānāṃ haviḥ pradānāyaiva sarvatra vyāptiḥ*) — to give oblations to the deities who are in the sky he pervades everywhere, and he shines abundantly at all times in the savanas beginning with the morning one, in the sacrifices performed by the sacrificers: this meaning is described by the sentence मानुषा युगा क्षपः आ भासि (*mānuṣā yugā kṣapaḥ ā bhāsi*)."
+
+युगा युगानि । युगशब्दः कालोपलक्षकः । प्रातरादि सवनानि सर्वेषु सवनेषु (*yugā yugāni | yugaśabdaḥ kālopalakṣakaḥ | prātarādi savanāni sarveṣu savaneṣu*) —
+
+(Kannada:) "That the word युग (*yuga*) denotes time, and that by it the morning, midday and third savanas are meant: this is the meaning explained."
+
+(Kannada:) "By the word पुरुवार (*puruvāra*) the meaning that Agni is praised in many ways by many people is explained."
+
+*(Rule line; the signature mark "[28]" and "Vol. 14" close the page. Ṛk 2 is complete; Ṛk 3 begins on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 433 (PDF 454). Maṇḍala 2 Sūkta 2: Ṛk 1's Special Topics are concluded (p. 431); Ṛk 2 is fully written (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, which end at the foot of p. 433 before the signature mark "[28]"). Ṛk 3 begins on p. 434; no Ṛk is left open. Numeral file agreed on Ni. 2-21, 5-4 and 3-13 (p. 433), with nothing to compare on pp. 431–432. Not zoomed: headers (p. 431 the varga numeral is unclear ("೧ಲ"-like); p. 432 the sūkta numeral reads like "1" though the sūkta is 2; p. 433 "Va. 20"). [?] places: ⟦युष्टं⟧ after ⟦यजमाना⟧ in the bhāṣya on p. 431; ⟦सायंप्रातेरग्निहोत्रं जुहुयोत्⟧ on p. 433 (as read, not zoomed). Printed misprints noted: ದ್ವೇಶಿಸಿ for ಉದ್ದೇಶಿಸಿ in the Pratipadārtha, ⟦वृजिनेषु⟧ for ⟦वृजनेषु⟧ on p. 431.
