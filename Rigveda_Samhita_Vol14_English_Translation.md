@@ -14175,4 +14175,117 @@ Part 10 page 379; Part 13 page 541, in these places.
 
 ---
 
-**Progress note:** Done through printed p. 404 (PDF 424). Mandala 2 Sukta 1: Rk 6 OPEN (Special Topics on Asura continue on p. 405; no Rk 7 yet). Flags: p. 402/403 Nirukta ref zoomed, read 10-2 (file said 10-76 on p. 403 = FILE DISAGREE); p. 404 Rk 1-24-14 and header numerals read from strip (not in file); p. 403 Varga header read 18 from strip, not zoomed; p. 404 quoted Rks zoomed: 5-41-3 'prandhamsiva' as printed, 1-126-2 'kakshrivam' [?].
+
+### Printed p. 405 (PDF 425)
+
+*(Header: "A. 2 A. 5 Va. 18" [as read from the strip, Aṣṭaka 2, Adhyāya 5, Varga 18], "Ṛgvedasaṃhitā". Ṛk 6, Special Topics, continued; the words Asura/Sura/Aditi/Diti.)*
+
+> यथा रुद्रस्य सूनवो दिवो वशंत्यसुरस्य वेधसः ।
+
+> *yathā rudrasya sūnavo divo vaśaṃtyasurasya vedhasaḥ |*
+
+(Ṛ. Saṃ. 8-20-17.) In this Ṛk the word *asurasya* is used in the sense of "cloud" (*megha*).
+
+> अनायुधासो असुरा अदेवाश्चक्रेण ता अप वप ऋजीषिन् ।
+
+> *anāyudhāso asurā adevāścakreṇa tā apa vapa ṛjīṣin |*
+
+(Ṛ. Saṃ. 8-96-9.) In such Ṛks Asuras means Daityas belonging to the company of Rākṣasas. In the Ṛk in hand it means the Agni, or Rudra, who casts out the enemies, the Rākṣasas. In the Purāṇas and so on, and in modern Sanskrit, the sense that *sura* means a deity and *asura* a Rākṣasa, a non-deity, is current. But the word *asura* was not formed as the negation of the word *sura*. The word *asura* itself was current in the Vedas (and among them in the Ṛgveda), and afterwards, by loss of the *a*, the word *sura*, which suggests the contrary sense, came into use. In the same way the word *aditi* was current, and afterwards, by loss of the *a*, the word *diti* came into use. *Aditi* means the mother of the gods, the mother of the deities; and *diti*, the opposite of that, came into use for the mother of the Rākṣasas.
+
+मारुतं शर्धः—मरुत्समूहरूपं बलमसि । वायुरूपश्च त्वमसीत्यर्थः । (mārutaṃ śardhaḥ (*mārutaṃ śardhaḥ*) — "you are strength in the form of the Maruts' multitude; you are also of the form of Vāyu".) Kannada: "Or you are the combined-strength form of the (forty-nine) Marut deities [the numeral printed as "೪೯"; read from the strip, not zoomed]; the combined strength of the Maruts is wonderful. In describing this strength the expression *mārutaṃ śardhaḥ* is the customary one."
+
+> इंद्रं मित्रं वरुणमग्निमूतये मारुतं शर्धो अदितिं हवामहे ।
+
+> *iṃdraṃ mitraṃ varuṇamagnimūtaye mārutaṃ śardho aditiṃ havāmahe |*
+
+(Ṛ. Saṃ. 1-106-1.) In such Ṛks, in speaking of the Marut deities or of their combined strength, the words *mārutaṃ śardhaḥ* are used.
+
+पृक्ष ईशिषे—अन्नस्य हविर्लक्षणस्य त्वमीश्वरो भवसि । (pṛkṣa īśiṣe (*pṛkṣa īśiṣe*) — "you are the lord of food, whose mark is the oblation".) The word *pṛkṣaḥ* is read among the names of food (Nir. 3-9). Agni is described as the lord of food, whether in the form of the oblation or of nourishment.
+
+त्वं वातैररुणैर्यासि शंगयः—त्वं वातैर्वायुसदृशैररुणैरश्वैः शंगयः सुखस्य गृहरूप आवासभूतः सन् यासि प्राप्नोषि योग्यगृहं । (tvaṃ vātairaruṇairyāsi śaṃgayaḥ (*tvaṃ vātairaruṇairyāsi śaṃgayaḥ*) — "you go, as the dwelling of happiness, with ruddy horses like the winds, to the house".) Kannada: "O Agni, you, with horses ruddy in colour and swift as the wind (that is, seated in a chariot yoked with horses), being one whose dwelling is happiness, come to our sacrificial house" — continued on p. 406. *(The Sanskrit is given as printed; the first words differ slightly from the Saṃhitā of the Ṛk, read as printed.)*
+
+---
+
+
+### Printed p. 406 (PDF 426)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 6, Special Topics, concluded; Ṛk 7 begins: Saṃhitā, Pada, bhāṣya begun.)*
+
+(Kannada, continued:) "…the sense is that you come." यद्वा अरुण्यैर्गमनशीलैर्वायुभिरुत्पन्नः सन् यासि वने । (yadvā aruṇyairgamanaśīlairvāyubhirutpannaḥ san yāsi vane (*yadvā aruṇyairgamanaśīlairvāyubhirutpannaḥ san yāsi vane*) — "or, born of the swift winds, you go in the forest".) Kannada: "Or: being born in the forest from constantly moving or blowing wind, you grow and flourish; this too may be the sense."
+
+पूषा—सर्वस्य पोषकः । (pūṣā (*pūṣā*) — "nourisher of all".) Agni, the nourisher of all, or the well-known deity called Pūṣan: you are of such a divine nature.
+
+नु—क्षिप्रं । (nu (*nu*) — "quickly".) "Swiftly. Yāska has said that the word *nu* has many kinds of meaning (Nir. 1-4), *nu ityeṣo 'nekakarmā*. The word is used also in giving a reason and in the sense of comparison. Here *kṣipraṃ*, quickly, is the sense."
+
+त्मना विधतः पासि—आत्मना, अनुग्रहरूपया स्वबुद्ध्यैव विधतः परिचरतो यजमानान् पासि । (tmanā vidhataḥ pāsi (*tmanā vidhataḥ pāsi*) — "by yourself, by your own gracious mind, you protect the sacrificers who serve you".) Kannada: "The long *ā* of *ātmanā* is dropped for the convenience of the metre, giving *tmanā*. Generally in the Ṛgveda, wherever the word *ātmanā* would be expected, the word *tmanā* is used. With your own gracious mind, protect the sacrificers who serve you: thus Agni is prayed."
+
+---
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने द्रविणोदा अरंकृते त्वं देवः सविता रत्नधा असि ।
+
+> *tvamagne draviṇodā araṃkṛte tvaṃ devaḥ savitā ratnadhā asi |*
+
+> त्वं भगो नृपते वस्व ईशिषे त्वं पायुर्दमो यस्तेऽविधत् ॥ ७ ॥
+
+> *tvaṃ bhago nṛpate vasva īśiṣe tvaṃ pāyurdamo yaste 'vidhat ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । द्रविणःऽदाः । अरम्ऽकृते । त्वं । देवः । सविता । रत्नऽधाः । असि ।
+> त्वं । भगः । नृऽपते । वस्वः । ईशिषे । त्वं । पायुः । दमः । यः । ते । अविधत् ॥ ७ ॥
+
+> *tvaṃ | agne | draviṇaḥ 'dāḥ | aram 'kṛte | tvaṃ | devaḥ | savitā | ratna 'dhāḥ | asi |*
+> *tvaṃ | bhagaḥ | nṛ 'pate | vasvaḥ | īśiṣe | tvaṃ | pāyuḥ | damaḥ | yaḥ | te | avidhat ‖ 7 ‖*
+
+*(The Pada is printed "दमो", as the Saṃhitā; read as printed. The Pada's avagraha strokes are printed as small "ऽ".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni gives wealth to the sacrificer who adorns him, is Savitṛ the impeller, lord of wealth as Bhaga, and protector of whoever serves him in the house.
+
+> हे अग्ने त्वमरंकृते त्वामलंकुर्वते यजमानाय द्रविणोदाः । हिरण्यस्य दाताऽसि । देवो द्योतमानः सविता सर्वस्य सत्कर्मसु प्रेरकस्त्वं रत्नधा रमणीयानां धनानां मणिमुक्तादीनां धारयितासि ।
+
+> *he agne tvamaraṃkṛte tvāmalaṃkurvate yajamānāya draviṇodāḥ | hiraṇyasya dātā 'si | devo dyotamānaḥ savitā sarvasya satkarmasu prerakastvaṃ ratnadhā ramaṇīyānāṃ dhanānāṃ maṇimuktādīnāṃ dhārayitāsi |*
+
+---
+
+
+### Printed p. 407 (PDF 427)
+
+*(Header: "A. 2 A. 5 Va. 18" [Aṣṭaka 2, Adhyāya 5, Varga 18], "Ṛgvedasaṃhitā". Ṛk 7: bhāṣya concluded, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun.)*
+
+> तथा हे नृपते नृणां पालकाग्ने त्वं भगो भजनीयः सन् वस्वो वसुनो धनस्यैशिषे । समर्थो भवसि दातुं । यो यजमानो दमो यज्ञगृहे ते त्वामविधत् परिचरति तस्य पायुः पालकस्त्वमसि ॥
+
+> *tathā he nṛpate nṛṇāṃ pālakāgne tvaṃ bhago bhajanīyaḥ san vasvo vasuno dhanasyaiśiṣe | samartho bhavasi dātuṃ | yo yajamāno damo yajñagṛhe te tvāmavidhat paricarati tasya pāyuḥ pālakastvamasi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; अरंकृते (*araṃkṛte*) — to the sacrificer who adorns you; द्रविणोदाः (*draviṇodāḥ*) — you are the giver of gold and the like; रत्नधाः त्वं (*ratnadhāḥ tvaṃ*) — you who hold beautiful jewels, pearls and the like; देवः सविता (*devaḥ savitā*) — you are Savitṛ, the impeller of all actions and of divine nature; असि (*asi*) — you are; नृपते (*nṛpate*) — O Agni, protector of all men; त्वं (*tvaṃ*) — you; भगः (*bhagaḥ*) — as the worshipful Bhaga; वस्वः (*vasvaḥ*) — over wealth; ईशिषे (*īśiṣe*) — you are lord; यः (*yaḥ*) — whichever sacrificer; दमो (*damo*) — in the sacrificial house; ते (*te*) — you; अविधत् (*avidhat*) — serves; his; पायुः (*pāyuḥ*) — as protector; त्वं (*tvaṃ*) — you (are).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you are the giver of gold and the like to the sacrificer who adorns you. You, who hold beautiful jewels, pearls and the like, are Savitṛ, the impeller of all actions and of divine nature. O Agni, protector of all men, you, as the worshipful Bhaga, are lord over wealth. You are the protector of the sacrificer who serves you in the sacrificial house.
+
+**English Translation** *(as printed)*
+
+You, Agni, are Dravinodas, to him who honours you : you are the divine Savitri, the possessor of precious things : protector of men, you are Bhaga and rule over wealth ; you are the cherisher of him who worships you in his dwelling.
+
+**विशेषविषयगळु (Special Topics)**
+
+द्रविणोदाः (draviṇodāḥ (*draviṇodāḥ*)) — Yāska has written an extended explanation of this word:
+
+> द्रविणोदाः । द्रविणोदाः कस्माद्धनं द्रविणमुच्यते । यदेनदभिद्रवंति । बलं वा द्रविणं यदेनेनाभिद्रवंति । तस्य दाता द्रविणोदाः ।
+
+> *draviṇodāḥ | draviṇodāḥ kasmāddhanaṃ draviṇamucyate | yadenadabhidravaṃti | balaṃ vā draviṇaṃ yadenenābhidravaṃti | tasya dātā draviṇodāḥ |*
+
+(Nir. 8-1.) Here the derivation of the word *draviṇodāḥ* is द्रविणं ददातीति द्रविणोदाः (draviṇaṃ dadātīti draviṇodāḥ (*draviṇaṃ dadātīti draviṇodāḥ*)). The word *draviṇa* has two meanings, wealth and strength. Therefore *draviṇodāḥ* means one who gives wealth, or strength… *(Special Topics break off at the foot of the page; Ṛk 7 is left open and continues on p. 408.)*
+
+---
+
+**Progress note:** Done through printed p. 407 (PDF 427). Maṇḍala 2 Sūkta 1: Ṛk 7 OPEN (Special Topics on draviṇodāḥ, Nir. 8-1, break off at foot of p. 407; continue p. 408). Flags: p. 407 Nirukta ref zoomed, read 8-1 (file said 8-0 = FILE DISAGREE); p. 405 refs 8-20-17, 8-96-9, 1-106-1, 3-9 agree with file; p. 406 Nir 1-4 agrees; header numerals read from strip (not in file), Varga 18 on pp. 405/407; p. 405 'forty-nine' Maruts numeral read from strip, not zoomed; p. 406/407 Ṛk 7 Pada and Saṃhitā read damo as printed.
