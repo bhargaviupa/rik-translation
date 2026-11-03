@@ -19429,4 +19429,150 @@ Feeder upon fuel, to whom butter is offered, (you are) the ancient, the invoker 
 
 ---
 
-**Progress note:** Done through printed p. 526 (PDF 547). Maṇḍala 2, Sūkta 7 complete: Ṛk 5 (printed English and Special Topics, p. 524) and Ṛk 6 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, pp. 524–526) written; no colophon after Sūkta 7. Sūkta 8 begun at the foot of p. 526: heading, bhāṣya, anuvāda and heading block (Varga 29, 6 Ṛks, Gṛtsamada, Agni, Gāyatrī / last Ṛk Anuṣṭubh); **Ṛk 1 of Sūkta 8 comes next on p. 527**. FILE DISAGREE: none (no file rows for pp. 524–526). Not zoomed: Ṛk 6 numeral, header Varga numerals (28 on p. 525, 29 in the Sūkta 8 block), Nighaṇṭu references (3-19, 2-24 [?], 3-20) and Ṛg-Saṃhitā references (5-21-2, 5-6-9 as read). [?] places: p. 525 bhāṣya ending ⟦मामनुजानात्वित्यर्थः⟧; p. 526 bhāṣya ⟦सोमाहुतेर्[?]शब्दानुवृत्तेस्याभावात्⟧; p. 526 ⟦हिंशब्दात्⟧, ⟦तृतीयसूक्तत्वेन⟧ as read; p. 524 ⟦बलिवर्दैः⟧ (as printed, short i; ⟦बलीवर्दैः⟧ expected).
+### Printed p. 527 (PDF 548)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 29 ]" [numerals as read from the strip], "Ṛgvedasaṃhitā", "527". The numeral file has no rows for this page.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> वाजयन्निव नू रथान्योगाँ अग्नेरुप स्तुहि ।
+> यशस्तमस्य मीळ्हुषः ॥ १ ॥
+
+> *vājayanniva nū rathānyogā~ agnerupa stuhi |*
+> *yaśastamasya mīḷhuṣaḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> वाजयन्ऽइव । नु । रथान् । योगान् । अग्नेः । उप । स्तुहि ।
+> यशःऽतमस्य । मीळ्हुषः ॥ १ ॥
+
+> *vājayan 'iva | nu | rathān | yogān | agneḥ | upa | stuhi |*
+> *yaśaḥ 'tamasya | mīḷhuṣaḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 1)**
+
+*Gist:* O inner self, quickly praise the horses (or chariots) of Agni, who is of widespread fame and a bestower of fruit, as one desiring food praises his horses.
+
+> हे अंतरात्मन् नु क्षिप्रमग्नेर्योगानश्वानुपस्तुहि । कीदृशस्याग्नेः । यशस्तमस्य प्रवृद्धयशसः ॥ मत्वर्थो लुप्यते ॥ मीळ्हुषः सेक्तुः फलस्य । ईदृशस्य योगान् स्तुहि । होतरिति वा संबोध्यं । स्तुतौ दृष्टांतः । वाजयन्निव । अन्नमिच्छन् पुरुष इव । स यथाश्वान् गमनाय स्तौति तद्वत् । यद्वोक्तलक्षणस्याग्नेर्गमनसाधनान्रथान् स्तुहि ॥
+
+> *he aṃtarātman nu kṣipramagneryogānaśvānupastuhi | kīdṛśasyāgneḥ | yaśastamasya pravṛddhayaśasaḥ ‖ matvartho lupyate ‖ mīḷhuṣaḥ sektuḥ phalasya | īdṛśasya yogān stuhi | hotariti vā saṃbodhyaṃ | stutau dṛṣṭāṃtaḥ | vājayanniva | annamicchan puruṣa iva | sa yathāśvān gamanāya stauti tadvat | yadvoktalakṣaṇasyāgnergamanasādhanānrathān stuhi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 1)**
+
+(Kannada, translated:) यशस्तमस्य (यशस्तमस्य (*yaśastamasya*)) — of him who has glory spread very widely; मीळ्हुषः (मीळ्हुषः (*mīḷhuṣaḥ*)) — of him who is able to give fruits generously; अग्नेः (अग्नेः (*agneḥ*)) — of Agni; योगान् (योगान् (*yogān*)) — the horses; रथान् (रथान् (*rathān*)) — the chariots; वाजयन्निव (वाजयन्निव (*vājayanniva*)) — like one who desires food urging on the horses of his chariot; नु (नु (*nu*)) — quickly; उप स्तुहि (उप स्तुहि (*upa stuhi*)) — praise.
+
+**भावार्थ (Bhāvārtha — Ṛk 1)**
+
+(Kannada, translated:) O inner self, as one who desires food urges on the horses of his chariot, so you quickly praise the horses and the chariots of Agni, who has glory spread very widely and is able to give fruits generously.
+
+**English Translation** *(as printed, Ṛk 1)*
+
+Praise quickly the yoked chariot of the glorious and munificent Agni, like one who is desirous of food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated.) In this Ṛk Sāyaṇa explains the meaning of the Ṛk by addressing the inner self (अंतरात्मन् (*aṃtarātman*)), saying that Agni's horses and chariots are to be praised. Here there is no need to address the inner self at all. In a sacrifice one may address any one of the ṛtvijas who take part, or the yajamāna.
+
+---
+
+### Printed p. 528 (PDF 549)
+
+*(Header: "528", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 8" [numerals as read]. The numeral file has no rows for this page. The Special Topics of Ṛk 1 continue.)*
+
+(Kannada, translated, continued.) **योगान् रथान् (योगान् रथान् (*yogān rathān*))** — the meaning may be made either "praise the horses and also the chariots", or "praise the chariots yoked with horses".
+
+**वाजयन्निव (वाजयन्निव (*vājayanniva*))** — The word वाजः (*vājaḥ*) is read both among the names of food (Ni. 3-9 [?]; numerals not zoomed) and among the names of battle (वाजे (*vāje*)) (Ni. 3-9 [?]; as read, not zoomed). Here the meaning "food" is taken, and the illustration is given of a man who desires food.
+
+**नु (नु (*nu*))** — नु इत्येषोऽनेककर्मा (*nu ityeṣo 'nekakarmā*). The Nirukta (Ni. 1-4) explains the word नु (*nu*) as having many meanings:
+
+> नु इत्येषोऽनेककर्मा । इदं करिष्यतीति हेत्वपदेशे । कथं नु करिष्यतीत्यनुपृष्टे ।
+
+> *nu ityeṣo 'nekakarmā | idaṃ kariṣyatīti hetvapadeśe | kathaṃ nu kariṣyatītyanupṛṣṭe |*
+
+(Kannada, translated, continued.) The particle नु (*nu*) has many meanings. When one says इदं नु करिष्यति (*idaṃ nu kariṣyati*), the word नु (*nu*) has the sense of "because of this", i.e. it indicates a reason (hetvartha). When one says कथं नु करिष्यति (*kathaṃ nu kariṣyati*), नु (*nu*) is interrogative. Likewise अथाप्युपमार्थे भवति (*athāpyupamārthe bhavati*): the word नु (*nu*) is used also to indicate comparison. For example:
+
+> अक्षो न चक्र्योः शूर बृहन्प्र ते मह्ना रिरिचे रोदस्योः ।
+> वृक्षस्य नु ते पुरुहूत वया व्यूतयो रुरुहुरिंद्र पूर्वीः ॥
+
+> *akṣo na cakryoḥ śūra bṛhanpra te mahnā ririce rodasyoḥ |*
+> *vṛkṣasya nu te puruhūta vayā vyūtayo ruruhuriṃdra pūrvīḥ ‖*
+
+(Ṛ. Saṃ. 6-24-3 [?], as read; the first numeral not certain)
+
+(Kannada, translated, continued.) The author of the Nirukta quotes this Ṛk and gives वृक्षस्येव ते पुरुहूत शाखाः (*vṛkṣasyeva te puruhūta śākhāḥ*) ("like a tree, O much-invoked one, the branches" or "like the branches of a tree") as the explanation of the word नु (*nu*) in the sense of comparison. Likewise:
+
+> नू मर्तो दयते सनिष्यन्यो विष्णव उरुगायाय दाशत् ।
+> प्र यः सत्राचा मनसा यजात एतावंतं नर्यमाविवासात् ॥
+
+> *nū marto dayate saniṣyanyo viṣṇava urugāyāya dāśat |*
+> *pra yaḥ satrācā manasā yajāta etāvaṃtaṃ naryamāvivāsāt ‖*
+
+(Ṛ. Saṃ. 7-100-1, as read)
+
+(Kannada, translated, continued.) In Ṛks like this, नु (*nu*) has the meaning क्षिप्रम् (*kṣipram*) — "promptly, with alertness" (the Kannada gloss is जाग्रते (*jāgrate*) as printed ಜಾಗ್ರತೆಯಾಗಿ). And:
+
+> नू इंद्र शूर स्तवमान ऊती ब्रह्मजूतस्तन्वा वावृधस्व ।
+> उप नो वाजान्मिमीह्युप स्तीन्योयं [?] पाते स्वस्तिभिः सदा नः ॥
+
+> *nū iṃdra śūra stavamāna ūtī brahmajūtastanvā vāvṛdhasva |*
+> *upa no vājānmimīhyupa stīnyoyaṃ [?] pāte svastibhiḥ sadā naḥ ‖*
+
+(Ṛ. Saṃ. 7-19-11, as read; the word स्तीन्योयं (*stīnyoyaṃ*) is as read from the strip, not zoomed)
+
+(Kannada, translated, continued.) In Ṛks beginning like these, the word अद्य (*adya*) has the meaning "now, at once"; and as the author of the Nirukta says, नु इत्येषोऽनेककर्मा (*nu ityeṣo 'nekakarmā*) (Ni. 1-4), the word नु (*nu*) is used in still other meanings. In the present Ṛk the meaning is "quickly, speedily".
+
+---
+
+#### Ṛk 2
+
+### Printed p. 529 (PDF 550)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 29 ]" [as read], "Ṛgvedasaṃhitā", "529". The numeral file has no rows for this page. At the foot: signature mark "Vol. 14. [34]".)*
+
+**॥ संहितापाठः ॥**
+
+> यः सुनीथो ददाशुषेऽजुर्यो जरयन्नरिं ।
+> चारुप्रतीक आहुतः ॥ २ ॥
+
+> *yaḥ sunītho dadāśuṣe 'juryo jarayannariṃ |*
+> *cārupratīka āhutaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । सुऽनीथः । ददाशुषे । अजुर्यः । जरयन् । अरिं ।
+> चारुऽप्रतीकः । आऽहुतः ॥ २ ॥
+
+> *yaḥ | su 'nīthaḥ | dadāśuṣe | ajuryaḥ | jarayan | ariṃ |*
+> *cāru 'pratīkaḥ | ā 'hutaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 2)**
+
+*Gist:* The good leader, unageing, fair of aspect Agni, when well worshipped, destroys the foe of the yajamāna who gives oblations.
+
+> सुनीथः शोभननयनोऽजुर्योऽजरणीयोऽनभिभाव्यः चारुप्रतीकः शोभनोपक्रमो योऽस्ति सोऽग्निर्ददाशुषे हविर्दत्त्रवते [?] यजमानाय तदर्थमरिं तस्य शत्रुं जरयन् नाशयन् आहुतः । समंतादाराधितो भवति ॥
+
+> *sunīthaḥ śobhananayano 'juryo 'jaraṇīyo 'nabhibhāvyaḥ cārupratīkaḥ śobhanopakramo yo 'sti so 'gnirdadāśuṣe havirdattravate [?] yajamānāya tadarthamariṃ tasya śatruṃ jarayan nāśayan āhutaḥ | samaṃtādārādhito bhavati ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 2)**
+
+(Kannada, translated:) सुनीथः (सुनीथः (*sunīthaḥ*)) — the excellent guide; अजुर्यः (अजुर्यः (*ajuryaḥ*)) — the unhindered; चारुप्रतीकः (चारुप्रतीकः (*cārupratīkaḥ*)) — one of a pleasing form; यः (यः (*yaḥ*)) — whichever Agni, when propitiated (he); ददाशुषे (ददाशुषे (*dadāśuṣe*)) — for the yajamāna who offers oblations; अरिं (अरिं (*ariṃ*)) — his enemy; जरयन् (जरयन् (*jarayan*)) — destroying; आहुतः (आहुतः (*āhutaḥ*)) — becomes worshipped.
+
+**भावार्थ (Bhāvārtha — Ṛk 2)**
+
+(Kannada, translated:) The Agni who is an excellent guide, unhindered and of pleasing form, when he is propitiated, destroys the enemy of the yajamāna who offers oblations.
+
+**English Translation** *(as printed, Ṛk 2)*
+
+Who, sagacious, invincible, and of graceful gait, destroys, when propitiated, his foe, for him who presents (offerings).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 2)**
+
+(Kannada, translated.) **सुनीथः (सुनीथः (*sunīthaḥ*))** — शोभननयनः (*śobhananayanaḥ*). Sāyaṇa has explained it as "a good guide". Yāska reads the word सुनीथ (*sunītha*) in the list of ten laudable names beginning अस्रेमाः (*asremāḥ*), अनेमाः (*anemāḥ*) (Ni. 3-13 [?], not zoomed); therefore सुनीथः (*sunīthaḥ*) may mean "laudable, worthy of praise". Besides this, *(the discussion is cut off at the foot of the page and continues on p. 530)*.
+
+*(Ṛk 2 is left open: Special Topics continue on p. 530.)*
+
+---
+
+**Progress note:** Done through printed p. 529 (PDF 550). Maṇḍala 2, Sūkta 8: Ṛk 1 complete (pp. 527–528, Special Topics ended on p. 528); Ṛk 2 written (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun); **Ṛk 2 left open mid-Special Topics at ⟦सुनीथः⟧, which continues on p. 530 ("इದಲ್ಲದೆ…")**. FILE DISAGREE: none (no file rows for pp. 527–529). Not zoomed: all Nighaṇṭu and Ṛg-Saṃhitā reference numerals (Ni. 3-9 ×2 [?], Ni. 1-4 ×2, Ni. 3-13 [?]; Ṛ. Saṃ. 6-24-3 [?], 7-100-1, 7-19-11) and header numerals (Varga 29 on pp. 527 and 529). [?] places: p. 528 ⟦स्तीन्योयं⟧; p. 529 bhāṣya ⟦हविर्दत्त्रवते⟧; reference numerals marked [?].
