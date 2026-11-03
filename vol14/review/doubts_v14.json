@@ -16330,5 +16330,41 @@
   ],
   "note": "FILE DISAGREE: file 6-6-13, read 6-16-13 (faint 1 before second 6); written 6-16-13",
   "answer": ""
+ },
+ {
+  "pdf": 407,
+  "printed": 387,
+  "crop": [
+   0.481,
+   0.602,
+   0.457,
+   0.755
+  ],
+  "note": "ZOOMED, read: (Ṛ. Saṃ. 1-24-3); not in numeral file",
+  "answer": ""
+ },
+ {
+  "pdf": 408,
+  "printed": 388,
+  "crop": [
+   0.85,
+   0.89,
+   0.2,
+   0.95
+  ],
+  "note": "UNDECIDED (not zoomed; approximate location): krIyamANe? in Tai. Saṃ. quote, [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "crop": [
+   0.14,
+   0.19,
+   0.1,
+   0.95
+  ],
+  "note": "UNDECIDED (not zoomed; approximate location): santsateti? in Brahmana quote, [?]",
+  "answer": ""
  }
 ]
