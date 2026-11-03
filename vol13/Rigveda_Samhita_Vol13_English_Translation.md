@@ -13670,7 +13670,7 @@ Here ends the 179th Sūkta. (*iḷḷige nūra eppattoṃbhattaneya sūkta mugid
 
 > अथ चतुर्विंशेऽनुवाके द्वादश सूक्तानि । तत्र युवो रजांसीति दशर्चं प्रथमं सूक्तमागस्त्यं त्रैष्टुभम् । तुह्यादिपरिभाषयेदमादिसूक्तपञ्चकमाश्विनम् । युवोर्दशाश्विनं [?] वा इत्यनुक्रमणिका ॥ एतदादीनि तृतीयवर्जितानि पञ्च सूक्तानि प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छन्दसि विनियुक्तानि । आथाश्विन इति खण्डे सूत्रितम् । युवो रजांसीति पञ्चानां तृतीयमुद्धरेत् । आ. ४-१३ [?] । इति ॥
 
-*Translation of the introduction:* With this sūkta the twenty-fourth Anuvāka of the first Maṇḍala begins. In this Anuvāka there are twelve sūktas; of them the sūkta "*yuvo rajāṃsi*" is the first. It has ten ṛks; its ṛṣi is Agastya; the metre is Triṣṭubh. By the technical rule (*paribhāṣā*) of the Anukramaṇikā beginning "*tu hi*", the five sūktas beginning with this one have the Aśvins as their deity (the Anukramaṇikā says "*yuvor daśāśvinam*" [?]). Of these five sūktas, leaving out the third (the 182nd sūkta [?]), the remaining four, i.e. the sūktas 180, 181, 183 and 184 [as read [?]], are applied, in the recital of the Prātaranuvāka and of the Aśvina-śastra, for the Triṣṭubh ṛks: so it is stated in the Āśvalāyana Śrauta-sūtra, in the section "*athāśvina*", "*yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet*" (Āś. 4-15).
+*Translation of the introduction:* With this sūkta the twenty-fourth Anuvāka of the first Maṇḍala begins. In this Anuvāka there are twelve sūktas; of them the sūkta "*yuvo rajāṃsi*" is the first. It has ten ṛks; its ṛṣi is Agastya; the metre is Triṣṭubh. By the technical rule (*paribhāṣā*) of the Anukramaṇikā beginning "*tu hi*", the five sūktas beginning with this one have the Aśvins as their deity (the Anukramaṇikā says "*yuvor daśāśvinam*" [?]). Of these five sūktas, leaving out the third (the 182nd sūkta), the remaining four, i.e. the sūktas 180, 181, 183 and 184 [as read [?]], are applied, in the recital of the Prātaranuvāka and of the Aśvina-śastra, for the Triṣṭubh ṛks: so it is stated in the Āśvalāyana Śrauta-sūtra, in the section "*athāśvina*", "*yuvo rajāṃsīti pañcānāṃ tṛtīyam uddharet*" (Āś. 4-15).
 
 ---
 
@@ -13756,7 +13756,7 @@ O Aśvins! When your chariot sets out for the place desired, your chariot-horses
 
 > *ābjā mukthyairahiṃ gṛṇīṣe budhne nadīnāṃ rajassu ṣīdan |*
 
-(Ṛ. Saṃ. 7-34-16) — in explaining this ṛk, it is said that *rajassu* means *udakeṣu* ("in the waters"); and in the 12th adhyāya, 6th section [?],
+(Ṛ. Saṃ. 7-34-16) — in explaining this ṛk, it is said that *rajassu* means *udakeṣu* ("in the waters"); and in the 12th adhyāya, 6th section,
 
 > एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
 
@@ -14510,7 +14510,7 @@ Sāyaṇa: *taugryaḥ na tugrākhyasya rājñaḥ putro bhujyur iva | sa yathā
 
 The son of Tugra, Taugrya, once, being defeated by enemies, was bound hand and foot and thrown into the middle of the sea. He prayed for help to the Aśvin deities. At once they harnessed their horses to their chariot and rescued him in a ship; so Sāyaṇa has told the story as quoted. This son of Tugra is well known by the name Bhujyu; and in many places his story is told.
 
-That the Aśvin deities rescued this same son of Tugra who was drowning in the sea is described by Kakṣīvān, the son of Dīrghatamas, in Ṛk-saṃhitā 1-116 and 1-117 [as read [?]]; by Agastya Maitrāvaruṇi in the 182nd sūkta; by Brahmātithi of the Kaṇva *gotra* in 8-5; and by Ghoṣā, the daughter of Kakṣīvān, in 10-39. In the 182nd sūkta [?] it is described, as seen below, how they sent boats, and how the son of Tugra, filled with hope, clung to them and was saved by their favour.
+That the Aśvin deities rescued this same son of Tugra who was drowning in the sea is described by Kakṣīvān, the son of Dīrghatamas, in Ṛk-saṃhitā 1-116 and 1-117 [as read [?]]; by Agastya Maitrāvaruṇi in the 182nd sūkta; by Brahmātithi of the Kaṇva *gotra* in 8-5; and by Ghoṣā, the daughter of Kakṣīvān, in 10-39. In the 182nd sūkta it is described, as seen below, how they sent boats, and how the son of Tugra, filled with hope, clung to them and was saved by their favour.
 
 > युवमेतं चक्रथुः सिन्धुषु प्लवमात्मन्वन्तं पक्षिणं तौग्र्याय कम् ।
 > येन देवत्रा मनसा निरूहथुः सुपप्तनी पेतथुः क्षोदसो महः ॥
