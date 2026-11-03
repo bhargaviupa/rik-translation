@@ -67,8 +67,8 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> तन्नु वोचाम रभसाय जन्मने पूर्वं महित्वं वृषभस्य केतवे ।
-> ऐधेव यामन्मरुतस्तुविष्वणो युधेव शक्रास्तविषाणि कर्तन ॥ १ ॥
+> तन्नु वो॑चाम रभ॒साय॒ जन्म॑ने॒ पूर्वं॑ महि॒त्वं वृ॑ष॒भस्य॑ के॒तवे॑ ।
+> ऐ॒धेव॒ याम॑न्मरुतस्तुविष्वणो यु॒धेव॑ शक्रास्तवि॒षाणि॑ कर्तन ॥ १ ॥
 
 > *tannu vocāma rabhasāya janmane pūrvaṃ mahitvaṃ vṛṣabhasya ketave |*
 > *aidheva yāmanmarutastuviṣvaṇo yudheva śakrāstaviṣāṇi kartana ‖ 1 ‖*
@@ -131,8 +131,8 @@ Number of ṛks in the Sūkta: 15 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> नित्यं न सूनुं मधु बिभ्रत उप क्रीळन्ति क्रीळा विदथेषु घृष्वयः ।
-> नक्षन्ति रुद्रा अवसा नमस्विनं न मर्धन्ति स्वतवसो हविष्कृतम् ॥ २ ॥
+> नित्यं॒ न सू॒नुं मधु॒ बिभ्र॑त॒ उप॒ क्रीळ॑न्ति क्री॒ळा वि॒दथे॑षु॒ घृष्व॑यः ।
+> नक्ष॑न्ति रु॒द्रा अव॑सा नम॒स्विनं॒ न म॑र्धन्ति॒ स्वत॑वसो हवि॒ष्कृत॑म् ॥ २ ॥
 
 > *nityaṃ na sūnuṃ madhu bibhrata upa krīḷanti krīḷā vidatheṣu ghṛṣvayaḥ |*
 > *nakṣanti rudrā avasā namasvinaṃ na mardhanti svatavaso haviṣkṛtam ‖ 2 ‖*
@@ -323,8 +323,8 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 **॥ संहितापाठः ॥**
 
-> यस्मा ऊमासो अमृता अरासत रायस्पोषं च हविषा ददाशुषे ।
-> उक्षन्त्यस्मै मरुतो हिता इव पुरू रजांसि पयसा मयोभुवः ॥ ३ ॥
+> यस्मा॒ ऊमा॑सो अ॒मृता॒ अरा॑सत रा॒यस्पोषं॑ च ह॒विषा॑ ददा॒शुषे॑ ।
+> उ॒क्षन्त्य॑स्मै म॒रुतो॑ हि॒ता इ॑व पु॒रू रजां॑सि॒ पय॑सा मयो॒भुवः॑ ॥ ३ ॥
 
 > *yasmā ūmāso amṛtā arāsata rāyaspoṣaṃ ca haviṣā dadāśuṣe |*
 > *ukṣantyasmai maruto hitā iva purū rajāṃsi payasā mayobhuvaḥ ‖ 3 ‖*
@@ -381,8 +381,8 @@ Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sab
 
 **॥ संहितापाठः ॥**
 
-> आ ये रजांसि तविषीभिरव्यत प्र व एवासः स्वयतासो अध्रजन् ।
-> भयन्ते विश्वा भुवनानि हर्म्या चित्रो वो यामः प्रयतास्वृष्टिषु ॥ ४ ॥
+> आ ये रजां॑सि॒ तवि॑षीभि॒रव्य॑त॒ प्र व॒ एवा॑सः॒ स्वय॑तासो अध्रजन् ।
+> भय॑न्ते॒ विश्वा॒ भुव॑नानि ह॒र्म्या चि॒त्रो वो॒ यामः॒ प्रय॑तास्वृ॒ष्टिषु॑ ॥ ४ ॥
 
 > *ā ye rajāṃsi taviṣībhiravyata pra va evāsaḥ svayatāso adhrajan |*
 > *bhayante viśvā bhuvanāni harmyā citro vo yāmaḥ prayatāsvṛṣṭiṣu ‖ 4 ‖*
@@ -507,8 +507,8 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 **॥ संहितापाठः ॥**
 
-> यत्त्वेषयामा नदयन्त पर्वतान् दिवो वा पृष्ठं नर्या अचुच्यवुः ।
-> विश्वो वो अज्मन् भयते वनस्पती रथीयन्तीव प्र जिहीत ओषधिः ॥ ५ ॥
+> यत्त्वे॒षया॑मा न॒दय॑न्त॒ पर्व॑तान् दि॒वो वा॑ पृ॒ष्ठं नर्या॒ अचु॑च्यवुः ।
+> विश्वो॑ वो॒ अज्म॑न् भयते॒ वन॒स्पती॑ रथी॒यन्ती॑व॒ प्र जि॑हीत॒ ओष॑धिः ॥ ५ ॥
 
 > *yattveṣayāmā nadayanta parvatān divo vā pṛṣṭhaṃ naryā acucyavuḥ |*
 > *viśvo vo ajman bhayate vanaspatī rathīyantīva pra jihīta oṣadhiḥ ‖ 5 ‖*
@@ -577,8 +577,8 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 **॥ संहितापाठः ॥**
 
-> यूयं न उग्रा मरुतः सुचेतुनारिष्टग्रामाः सुमतिं पिपर्तन ।
-> यत्रा वो दिद्युद्रदति क्रिविर्दती रिणाति पश्वः सुधितेव बर्हणा ॥ ६ ॥
+> यू॒यं न॑ उग्रा मरुतः सुचे॒तुनारि॑ष्टग्रामाः सुम॒तिं पि॑पर्तन ।
+> यत्रा॑ वो दि॒द्युद्रद॑ति॒ क्रिवि॑र्दती रि॒णाति॑ प॒श्वः सुधि॑तेव ब॒र्हणा॑ ॥ ६ ॥
 
 > *yūyaṃ na ugrā marutaḥ sucetunāriṣṭagrāmāḥ sumatiṃ pipartana |*
 > *yatrā vo didyudradati krivirdatī riṇāti paśvaḥ sudhiteva barhaṇā ‖ 6 ‖*
@@ -655,8 +655,8 @@ At some places the word *harmya* denotes "one who lives in a house", but since i
 
 **॥ संहितापाठः ॥**
 
-> प्र स्कम्भदेष्णा अनवभ्रराधसोऽलातृणासो विदथेषु सुष्टुताः ।
-> अर्चन्त्यर्कं मदिरस्य पीतये विदुर्वीरस्य प्रथमानि पौंस्या ॥ ७ ॥
+> प्र स्क॒म्भदे॑ष्णा अनव॒भ्ररा॑धसोऽलातृ॒णासो॑ वि॒दथे॑षु॒ सुष्टु॑ताः ।
+> अर्च॑न्त्य॒र्कं म॑दि॒रस्य॑ पी॒तये॑ वि॒दुर्वी॒रस्य॑ प्रथ॒मानि॒ पौंस्या॑ ॥ ७ ॥
 
 > *pra skambhadeṣṇā anavabhrarādhaso 'lātṛṇāso vidatheṣu suṣṭutāḥ |*
 > *arcantyarkaṃ madirasya pītaye vidurvīrasya prathamāni pauṃsyā ‖ 7 ‖*
@@ -747,8 +747,8 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 **॥ संहितापाठः ॥**
 
-> शतभुजिभिस्तमभिह्रुतेरघात्पूर्भी रक्षता मरुतो यमावत ।
-> जनं यमुग्रास्तवसो विरप्शिनः पाथना शंसात्तनयस्य पुष्टिषु ॥ ८ ॥
+> श॒तभु॑जिभि॒स्तम॒भिह्रु॑तेर॒घात्पू॒र्भी र॑क्षता मरुतो॒ यमाव॑त ।
+> जनं॒ यमु॑ग्रास्तवसो विरप्शिनः पा॒थना॒ शंसा॒त्तन॑यस्य पु॒ष्टिषु॑ ॥ ८ ॥
 
 > *śatabhujibhistamabhihruteraghātpūrbhī rakṣatā maruto yamāvata |*
 > *janaṃ yamugrāstavaso virapśinaḥ pāthanā śaṃsāttanayasya puṣṭiṣu ‖ 8 ‖*
@@ -847,8 +847,8 @@ The scholar Max Müller has pointed out the opinions of some Western scholars on
 
 **॥ संहितापाठः ॥**
 
-> विश्वानि भद्रा मरुतो रथेषु वो मिथस्पृध्येव तविषाण्याहिता ।
-> अंसेष्वा वः प्रपथेषु खादयोऽक्षो वश्चक्रा समया वि वावृते ॥ ९ ॥
+> विश्वा॑नि भ॒द्रा म॑रुतो॒ रथे॑षु वो मिथ॒स्पृध्ये॑व तवि॒षाण्याहि॑ता ।
+> अंसे॒ष्वा वः॒ प्रप॑थेषु खा॒दयोऽक्षो॑ वश्च॒क्रा स॒मया॒ वि वा॑वृते ॥ ९ ॥
 
 > *viśvāni bhadrā maruto ratheṣu vo mithaspṛdhyeva taviṣāṇyāhitā |*
 > *aṃseṣvā vaḥ prapatheṣu khādayo 'kṣo vaścakrā samayā vi vāvṛte ‖ 9 ‖*
@@ -1219,8 +1219,8 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 **॥ संहितापाठः ॥**
 
-> तद्वः सुजाता मरुतो महित्वनं दीर्घं वो दात्रमदितेरिव व्रतम् ।
-> इन्द्रश्चन त्यजसा वि ह्रुणाति तज्जनाय यस्मै सुकृते अराध्वम् ॥ १२ ॥
+> तद्वः॑ सुजाता मरुतो महित्व॒नं दी॒र्घं वो॑ दा॒त्रमदि॑तेरिव व्र॒तम् ।
+> इन्द्र॑श्च॒न त्यज॑सा॒ वि ह्रु॑णाति॒ तज्जना॑य॒ यस्मै॑ सु॒कृते॒ अरा॑ध्वम् ॥ १२ ॥
 
 > *tadvaḥ sujātā maruto mahitvanaṃ dīrghaṃ vo dātramaditeriva vratam |*
 > *indraścana tyajasā vi hruṇāti tajjanāya yasmai sukṛte arādhvam ‖ 12 ‖*
@@ -1484,8 +1484,8 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 **॥ संहितापाठः ॥**
 
-> तद्वो जामित्वं मरुतः परे युगे पुरू यच्छंसममृतास आवत ।
-> अया धिया मनवे श्रुष्टिमाव्या साकं नरो दंसनैरा चिकित्रिरे ॥ १३ ॥
+> तद्वो॑ जामि॒त्वं म॑रुतः॒ परे॑ यु॒गे पु॒रू यच्छंस॑ममृतास॒ आव॑त ।
+> अ॒या धि॒या मन॑वे श्रु॒ष्टिमाव्या॑ सा॒कं नरो॑ दं॒सनै॒रा चि॑कित्रिरे ॥ १३ ॥
 
 > *tadvo jāmitvaṃ marutaḥ pare yuge purū yacchaṃsamamṛtāsa āvata |*
 > *ayā dhiyā manave śruṣṭimāvyā sākaṃ naro daṃsanairā cikitrire ‖ 13 ‖*
@@ -1568,8 +1568,8 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 **॥ संहितापाठः ॥**
 
-> येन दीर्घं मरुतः शूशवाम युष्माकेन परीणसा तुरासः ।
-> आ यत्ततनन्वृजने जनास एभिर्यज्ञेभिस्तदभीष्टिमश्याम् ॥ १४ ॥
+> येन॑ दी॒र्घं म॑रुतः शू॒शवा॑म यु॒ष्माके॑न॒ परी॑णसा तुरासः ।
+> आ यत्त॒तन॑न्वृ॒जने॒ जना॑स ए॒भिर्य॒ज्ञेभि॒स्तद॒भीष्टि॑मश्याम् ॥ १४ ॥
 
 > *yena dīrghaṃ marutaḥ śūśavāma yuṣmākena parīṇasā turāsaḥ |*
 > *ā yattatananvṛjane janāsa ebhiryajñebhistadabhīṣṭimaśyām ‖ 14 ‖*
@@ -1622,8 +1622,8 @@ The ornaments and weapons of the Maruts are described in detail in the ṛks:
 
 **॥ संहितापाठः ॥**
 
-> एष वः स्तोमो मरुत इयं गीर्मान्दार्यस्य मान्यस्य कारोः ।
-> एषा यासीष्ट तन्वे वयां विद्यामेषं वृजनं जीरदानुम् ॥ १५ ॥
+> ए॒ष वः॒ स्तोमो॑ मरुत इ॒यं गीर्मा॑न्दा॒र्यस्य॑ मा॒न्यस्य॑ का॒रोः ।
+> एषा या॑सीष्ट त॒न्वे॑ व॒यां वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ १५ ॥
 
 > *eṣa vaḥ stomo maruta iyaṃ gīrmāndāryasya mānyasya kāroḥ |*
 > *eṣā yāsīṣṭa tanve vayāṃ vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 15 ‖*
@@ -1728,8 +1728,8 @@ Number of ṛks in the Sūkta: 11 · Ṛṣi: Agastya · Devatā: ṛk 1 Indra; 
 
 **॥ संहितापाठः ॥**
 
-> सहस्रं त इन्द्रोतयो नः सहस्रमिषो हरिवो गूर्ततमाः ।
-> सहस्रं रायो मादयध्यै सहस्रिण उप नो यन्तु वाजाः ॥ १ ॥
+> स॒हस्रं॑ त इन्द्रो॒तयो॑ नः स॒हस्र॒मिषो॑ हरिवो गू॒र्तत॑माः ।
+> स॒हस्रं॒ रायो॑ माद॒यध्यै॑ सह॒स्रिण॒ उप॑ नो यन्तु॒ वाजाः॑ ॥ १ ॥
 
 > *sahasraṃ ta indrotayo naḥ sahasramiṣo harivo gūrtatamāḥ |*
 > *sahasraṃ rāyo mādayadhyai sahasriṇa upa no yantu vājāḥ ‖ 1 ‖*
@@ -1798,8 +1798,8 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 **॥ संहितापाठः ॥**
 
-> आ नोऽवोभिर्मरुतो यान्त्वच्छा ज्येष्ठेभिर्वा बृहद्दिवैः सुमायाः ।
-> अध यदेषां नियुतः परमाः समुद्रस्य चिद्धनयन्त पारे ॥ २ ॥
+> आ नोऽवो॑भिर्म॒रुतो॑ या॒न्त्वच्छा॒ ज्येष्ठे॑भिर्वा बृ॒हद्दि॑वैः सुमा॒याः ।
+> अध॒ यदे॑षां नि॒युतः॑ पर॒माः स॑मु॒द्रस्य॑ चिद्ध॒नय॑न्त पा॒रे ॥ २ ॥
 
 > *ā no 'vobhirmaruto yāntvacchā jyeṣṭhebhirvā bṛhaddivaiḥ sumāyāḥ |*
 > *adha yadeṣāṃ niyutaḥ paramāḥ samudrasya ciddhanayanta pāre ‖ 2 ‖*
@@ -1862,8 +1862,8 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 **॥ संहितापाठः ॥**
 
-> मिम्यक्ष येषु सुधिता घृताची हिरण्यनिर्णिगुपरा न ऋष्टिः ।
-> गुहा चरन्ती मनुषो न योषा सभावती विदथ्येव सं वाक् ॥ ३ ॥
+> मि॒म्यक्ष॒ येषु॒ सुधि॑ता घृ॒ताची॒ हिर॑ण्यनिर्णि॒गुप॑रा॒ न ऋ॒ष्टिः ।
+> गुहा॒ चर॑न्ती॒ मनु॑षो॒ न योषा॑ स॒भाव॑ती विद॒थ्ये॑व॒ सं वाक् ॥ ३ ॥
 
 > *mimyakṣa yeṣu sudhitā ghṛtācī hiraṇyanirṇiguparā na ṛṣṭiḥ |*
 > *guhā carantī manuṣo na yoṣā sabhāvatī vidathyeva saṃ vāk ‖ 3 ‖*
@@ -1958,8 +1958,8 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 **॥ संहितापाठः ॥**
 
-> परा शुभ्रा अयासो यव्या साधारण्येव मरुतो मिमिक्षुः ।
-> न रोदसी अप नुदन्त घोरा जुषन्त वृधं सख्याय देवाः ॥ ४ ॥
+> परा॑ शु॒भ्रा अ॒यासो॑ य॒व्या सा॑धार॒ण्येव॑ म॒रुतो॑ मिमिक्षुः ।
+> न रो॑द॒सी अप॑ नुदन्त घो॒रा जु॒षन्त॒ वृधं॑ स॒ख्याय॑ दे॒वाः ॥ ४ ॥
 
 > *parā śubhrā ayāso yavyā sādhāraṇyeva maruto mimikṣuḥ |*
 > *na rodasī apa nudanta ghorā juṣanta vṛdhaṃ sakhyāya devāḥ ‖ 4 ‖*
@@ -2044,8 +2044,8 @@ That is: "he who splits (*dṛṇāti*) the *irā* — he who makes the shoots s
 
 **॥ संहितापाठः ॥**
 
-> जोषद्यदीमसुर्या सचध्यै विषितस्तुका रोदसी नृमणाः ।
-> आ सूर्येव विधतो रथं गात्त्वेषप्रतीका नभसो नेत्या ॥ ५ ॥
+> जोष॒द्यदी॑मसु॒र्या॑ स॒चध्यै॒ विषि॑तस्तुका रोद॒सी नृ॒मणाः॑ ।
+> आ सू॒र्येव॑ विध॒तो रथं॑ गात्त्वे॒षप्र॑तीका॒ नभ॑सो॒ नेत्या ॥ ५ ॥
 
 > *joṣadyadīmasuryā sacadhyai viṣitastukā rodasī nṛmaṇāḥ |*
 > *ā sūryeva vidhato rathaṃ gāttveṣapratīkā nabhaso netyā ‖ 5 ‖*
@@ -2131,8 +2131,8 @@ The sun's course is swift; so the wife of the Marut-gods mounts the swiftly movi
 
 **॥ संहितापाठः ॥**
 
-> आस्थापयन्त युवतिं युवानः शुभे निमिश्लां विदथेषु पज्राम् ।
-> अर्को यद्वो मरुतो हविष्मान्गायद्गाथं सुतसोमो दुवस्यन् ॥ ६ ॥
+> आस्था॑पयन्त युव॒तिं युवा॑नः शु॒भे निमि॑श्लां वि॒दथे॑षु प॒ज्राम् ।
+> अ॒र्को यद्वो॑ मरुतो ह॒विष्मा॒न्गाय॑द्गा॒थं सु॒तसो॑मो दुव॒स्यन् ॥ ६ ॥
 
 > *āsthāpayanta yuvatiṃ yuvānaḥ śubhe nimiślāṃ vidatheṣu pajrām |*
 > *arko yadvo maruto haviṣmāngāyadgāthaṃ sutasomo duvasyan ‖ 6 ‖*
@@ -2277,8 +2277,8 @@ From the root *arc* (to worship, to honour) the word *arka* has been formed; by 
 
 **॥ संहितापाठः ॥**
 
-> पान्ति मित्रावरुणाववद्याच्चयत ईमर्यमो अप्रशस्तान् ।
-> उत च्यवन्ते अच्युता ध्रुवाणि वावृध ईं मरुतो दातिवारः ॥ ८ ॥
+> पान्ति॑ मि॒त्रावरु॑णावव॒द्याच्चय॑त ईमर्य॒मो अप्र॑शस्तान् ।
+> उ॒त च्य॑वन्ते॒ अच्यु॑ता ध्रु॒वाणि॑ वावृ॒ध ईं॑ मरुतो॒ दाति॑वारः ॥ ८ ॥
 
 > *pānti mitrāvaruṇāvavadyāccayata īmaryamo apraśastān |*
 > *uta cyavante acyutā dhruvāṇi vāvṛdha īṃ maruto dātivāraḥ ‖ 8 ‖*
@@ -2340,8 +2340,8 @@ Addressing the Marut-gods, the time when the Mitra deities and the rest perform 
 
 **॥ संहितापाठः ॥**
 
-> नही नु वो मरुतो अन्त्यस्मे आरात्ताच्चिच्छवसो अन्तमापुः ।
-> ते धृष्णुना शवसा शूशुवांसोऽर्णो न द्वेषो धृषता परि ष्ठुः ॥ ९ ॥
+> न॒ही नु वो॑ मरुतो॒ अन्त्य॒स्मे आ॒रात्ता॑च्चि॒च्छव॑सो॒ अन्त॑मा॒पुः ।
+> ते धृ॒ष्णुना॒ शव॑सा शूशु॒वांसोऽर्णो॒ न द्वेषो॑ धृष॒ता परि॑ ष्ठुः ॥ ९ ॥
 
 > *nahī nu vo maruto antyasme ārāttāccicchavaso antamāpuḥ |*
 > *te dhṛṣṇunā śavasā śūśuvāṃso 'rṇo na dveṣo dhṛṣatā pari ṣṭhuḥ ‖ 9 ‖*
@@ -2462,8 +2462,8 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 **॥ संहितापाठः ॥**
 
-> एष वः स्तोमो मरुत इयं गीर्मान्दार्यस्य मान्यस्य कारोः ।
-> एषा यासीष्ट तन्वे वयां विद्यामेषं वृजनं जीरदानुम् ॥ ११ ॥
+> ए॒ष वः॒ स्तोमो॑ मरुत इ॒यं गीर्मा॑न्दा॒र्यस्य॑ मा॒न्यस्य॑ का॒रोः ।
+> एषा या॑सीष्ट त॒न्वे॑ व॒यां वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ ११ ॥
 
 > *eṣa vaḥ stomo maruta iyaṃ gīrmāndāryasya mānyasya kāroḥ |*
 > *eṣā yāsīṣṭa tanve vayāṃ vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 11 ‖*
@@ -2542,8 +2542,8 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> यज्ञायज्ञा वः समना तुतुर्वणिर्धियंधियं वो देवया उ दधिध्वे ।
-> आ वोऽर्वाचः सुविताय रोदस्योर्महे ववृत्यामवसे सुवृक्तिभिः ॥ १ ॥
+> य॒ज्ञाय॑ज्ञा वः सम॒ना तु॑तु॒र्वणि॒र्धियं॑धियं वो देव॒या उ॑ दधिध्वे ।
+> आ वो॒ऽर्वाचः॑ सुवि॒ताय॒ रोद॑स्योर्म॒हे व॑वृत्या॒मव॑से सुवृ॒क्तिभिः॑ ॥ १ ॥
 
 > *yajñāyajñā vaḥ samanā tuturvaṇirdhiyaṃdhiyaṃ vo devayā u dadhidhve |*
 > *ā vo 'rvācaḥ suvitāya rodasyormahe vavṛtyāmavase suvṛktibhiḥ ‖ 1 ‖*
@@ -2606,8 +2606,8 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> वव्रासो न ये स्वजाः स्वतवस इषं स्वरभिजायन्त धूतयः ।
-> सहस्रियासो अपां नोर्मय आसा गावो वन्द्यासो नोक्षणः ॥ २ ॥
+> व॒व्रासो॒ न ये स्व॒जाः स्वत॑वस॒ इषं॒ स्व॑रभि॒जाय॑न्त॒ धूत॑यः ।
+> स॒ह॒स्रिया॑सो अ॒पां नोर्मय॑ आ॒सा गावो॒ वन्द्या॑सो॒ नोक्षणः॑ ॥ २ ॥
 
 > *vavrāso na ye svajāḥ svatavasa iṣaṃ svarabhijāyanta dhūtayaḥ |*
 > *sahasriyāso apāṃ normaya āsā gāvo vandyāso nokṣaṇaḥ ‖ 2 ‖*
@@ -2754,8 +2754,8 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> अव स्वयुक्ता दिव आ वृथा ययुरमर्त्याः कशया चोदत त्मना ।
-> अरेणवस्तुविजाता अचुच्यवुर्दृळ्हानि चिन्मरुतो भ्राजदृष्टयः ॥ ४ ॥
+> अव॒ स्वयु॑क्ता दि॒व आ वृथा॑ ययु॒रम॑र्त्याः॒ कश॑या चोदत॒ त्मना॑ ।
+> अ॒रे॒णव॑स्तुविजा॒ता अ॑चुच्यवुर्दृ॒ळ्हानि॑ चिन्म॒रुतो॒ भ्राज॑दृष्टयः ॥ ४ ॥
 
 > *ava svayuktā diva ā vṛthā yayuramartyāḥ kaśayā codata tmanā |*
 > *areṇavastuvijātā acucyavurdṛḷhāni cinmaruto bhrājadṛṣṭayaḥ ‖ 4 ‖*
@@ -3148,8 +3148,8 @@ In this ṛk the word *ghṛtena* is given the sense "by water". "*ghṛtam ity 
 
 **॥ संहितापाठः ॥**
 
-> असूत पृश्निर्महते रणाय त्वेषमयासां मरुतामनीकम् ।
-> ते सप्सरासोऽजनयन्ताभ्वमादित्स्वधामिषिरां पर्यपश्यन् ॥ ९ ॥
+> असू॑त॒ पृश्नि॑र्मह॒ते रणा॑य त्वे॒षम॒यासां॑ म॒रुता॒मनी॑कम् ।
+> ते स॑प्स॒रासो॑ऽजनय॒न्ताभ्व॒मादित्स्व॒धामि॑षि॒रां पर्य॑पश्यन् ॥ ९ ॥
 
 > *asūta pṛśnirmahate raṇāya tveṣamayāsāṃ marutāmanīkam |*
 > *te sapsarāso 'janayantābhvamāditsvadhāmiṣirāṃ paryapaśyan ‖ 9 ‖*
@@ -3360,8 +3360,8 @@ In the third meaning, in "*maruto'pi tyāgāt vṛṣṭyādi viṣayāt vārayi
 
 **॥ संहितापाठः ॥**
 
-> अयुज्रन्त इन्द्र विश्वकृष्टीर्विदानासो निष्षिधो मर्त्यत्रा ।
-> मरुतां पृत्सुतिर्हासमाना स्वर्मीळ्हस्य प्रधनस्य सातौ ॥ २ ॥
+> अयु॑ज्रन्त इन्द्र वि॒श्वकृ॑ष्टीर्विदा॒नासो॑ नि॒ष्षिधो॑ मर्त्य॒त्रा ।
+> म॒रुतां॑ पृत्सु॒तिर्हास॑माना॒ स्व॑र्मीळ्हस्य प्र॒धन॑स्य सा॒तौ ॥ २ ॥
 
 > *ayujranta indra viśvakṛṣṭīrvidānāso niṣṣidho martyatrā |*
 > *marutāṃ pṛtsutirhāsamānā svarmīḷhasya pradhanasya sātau ‖ 2 ‖*
@@ -3434,8 +3434,8 @@ In the second meaning, since *svarmīḷhasya* is an adjective of *pradhanasya*:
 
 **॥ संहितापाठः ॥**
 
-> अम्यक् सा त इन्द्र ऋष्टिरस्मे सनेम्यभ्वं मरुतो जुनन्ति ।
-> अग्निश्चिद्धि ष्मातसे शुशुक्वानापो न द्वीपं दधति प्रयांसि ॥ ३ ॥
+> अम्य॒क् सा त॑ इन्द्र ऋ॒ष्टिर॒स्मे सने॒म्यभ्वं॑ म॒रुतो॑ जुनन्ति ।
+> अ॒ग्निश्चि॒द्धि ष्मा॑त॒से शु॑शु॒क्वानापो॒ न द्वी॒पं दध॑ति॒ प्रयां॑सि ॥ ३ ॥
 
 > *amyak sā ta indra ṛṣṭirasme sanemyabhvaṃ maruto junanti |*
 > *agniściddhi ṣmātase śuśukvānāpo na dvīpaṃ dadhati prayāṃsi ‖ 3 ‖*
@@ -3616,8 +3616,8 @@ In the second, "*yāḥ stutayaḥ tvā neva akāmayanta*" — the praises recit
 
 **॥ संहितापाठः ॥**
 
-> त्वे राय इन्द्र तोशतमाः प्रणेतारः कस्य चिदृतायोः ।
-> ते षु णो मरुतो मृळयन्तु ये स्मा पुरा गातूयन्तीव देवाः ॥ ५ ॥
+> त्वे राय॑ इन्द्र तो॒शत॑माः प्रणे॒तारः॒ कस्य॑ चिदृता॒योः ।
+> ते षु णो॑ म॒रुतो॑ मृळयन्तु॒ ये स्मा॑ पु॒रा गा॑तू॒यन्ती॑व दे॒वाः ॥ ५ ॥
 
 > *tve rāya indra tośatamāḥ praṇetāraḥ kasya cidṛtāyoḥ |*
 > *te ṣu ṇo maruto mṛḷayantu ye smā purā gātūyantīva devāḥ ‖ 5 ‖*
@@ -3684,8 +3684,8 @@ In the second meaning: "*tośatirvadhakarmā nitośayati nibarhayatīti*" (Ni. 2
 
 **॥ संहितापाठः ॥**
 
-> प्रति प्र याहीन्द्र मीळ्हुषो नॄन्महः पार्थिवे सदने यतस्व ।
-> अध यदेषां पृथुबुध्नास एतास्तीर्थे नार्यः पौंस्यानि तस्थुः ॥ ६ ॥
+> प्रति॒ प्र या॑हीन्द्र मी॒ळ्हुषो॒ नॄन्म॒हः पार्थि॑वे॒ सद॑ने यतस्व ।
+> अध॒ यदे॑षां पृथुबु॒ध्नास॒ एता॑स्ती॒र्थे नार्यः पौंस्या॑नि त॒स्थुः ॥ ६ ॥
 
 > *prati pra yāhīndra mīḷhuṣo nṝnmahaḥ pārthive sadane yatasva |*
 > *adha yadeṣāṃ pṛthubudhnāsa etāstīrthe nāryaḥ pauṃsyāni tasthuḥ ‖ 6 ‖*
@@ -3816,8 +3816,8 @@ The word *pauṃsyāni* is read among the names of strength, and *pauṃsye* amo
 
 **॥ संहितापाठः ॥**
 
-> त्वं मानेभ्य इन्द्र विश्वजन्या रदा मरुद्भिः शुरुधो गोअग्राः ।
-> स्तवानेभिः स्तवसे देव देवैर्विद्यामेषं वृजनं जीरदानुम् ॥ ८ ॥
+> त्वं माने॑भ्य इन्द्र वि॒श्वज॑न्या॒ रदा॑ म॒रुद्भिः॑ शु॒रुधो॒ गोअ॑ग्राः ।
+> स्तवा॑नेभिः स्तवसे देव दे॒वैर्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ ८ ॥
 
 > *tvaṃ mānebhya indra viśvajanyā radā marudbhiḥ śurudho goagrāḥ |*
 > *stavānebhiḥ stavase deva devairvidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 8 ‖*
@@ -3918,8 +3918,8 @@ Number of ṛks in the Sūkta: 5 · Ṛṣi: ṛks 1, 3, 4 Indra; ṛks 2, 5 Aga
 
 **॥ संहितापाठः ॥**
 
-> न नूनमस्ति नो श्वः कस्तद्वेद यदद्भुतम् ।
-> अन्यस्य चित्तमभि संचरेण्यमुताधीतं वि नश्यति ॥ १ ॥
+> न नू॒नमस्ति॒ नो श्वः कस्तद्वे॑द॒ यदद्भु॑तम् ।
+> अ॒न्यस्य॑ चि॒त्तम॒भि सं॑च॒रेण्य॑मु॒ताधी॑तं॒ वि न॑श्यति ॥ १ ॥
 
 > *na nūnamasti no śvaḥ kastadveda yadadbhutam |*
 > *anyasya cittamabhi saṃcareṇyamutādhītaṃ vi naśyati ‖ 1 ‖*
@@ -4008,8 +4008,8 @@ Yāska, citing this ṛk, explains it. In this explanation the sense that the wo
 
 **॥ संहितापाठः ॥**
 
-> किं न इन्द्र जिघांससि भ्रातरो मरुतस्तव ।
-> तेभिः कल्पस्व साधुया मा नः समरणे वधीः ॥ २ ॥
+> किं न॑ इन्द्र जिघांससि॒ भ्रात॑रो म॒रुत॒स्तव॑ ।
+> तेभिः॑ कल्पस्व साधु॒या मा नः॑ स॒मर॑णे वधीः ॥ २ ॥
 
 > *kiṃ na indra jighāṃsasi bhrātaro marutastava |*
 > *tebhiḥ kalpasva sādhuyā mā naḥ samaraṇe vadhīḥ ‖ 2 ‖*
@@ -4074,8 +4074,8 @@ Addressing Indra, ***naḥ kiṃ jighāṃsasi*** — *asmān anaparādhinaḥ h
 
 **॥ संहितापाठः ॥**
 
-> किं नो भ्रातरगस्त्य सखा सन्नति मन्यसे ।
-> विद्मा हि ते यथा मनोऽस्मभ्यमिन्न दित्ससि ॥ ३ ॥
+> किं नो॑ भ्रातरगस्त्य॒ सखा॒ सन्नति॑ मन्यसे ।
+> वि॒द्मा हि ते॒ यथा॒ मनो॒ऽस्मभ्य॒मिन्न दि॑त्ससि ॥ ३ ॥
 
 > *kiṃ no bhrātaragastya sakhā sannati manyase |*
 > *vidmā hi te yathā mano 'smabhyaminna ditsasi ‖ 3 ‖*
@@ -4134,8 +4134,8 @@ The intention stated in the preceding ṛk exposes Indra's own fault (the fault 
 
 **॥ संहितापाठः ॥**
 
-> अरं कृण्वन्तु वेदिं समग्निमिन्धतां पुरः ।
-> तत्रामृतस्य चेतनं यज्ञं ते तनवावहै ॥ ४ ॥
+> अरं॑ कृण्वन्तु॒ वेदिं॒ सम॒ग्निमि॑न्धतां पु॒रः ।
+> तत्रा॒मृत॑स्य॒ चेत॑नं य॒ज्ञं ते॑ तनवावहै ॥ ४ ॥
 
 > *araṃ kṛṇvantu vediṃ samagnimindhatāṃ puraḥ |*
 > *tatrāmṛtasya cetanaṃ yajñaṃ te tanavāvahai ‖ 4 ‖*
@@ -4216,8 +4216,8 @@ In the view that it is Agastya's speech to Indra, the meaning given for the word
 
 **॥ संहितापाठः ॥**
 
-> त्वमीशिषे वसुपते वसूनां त्वं मित्राणां मित्रपते धेष्ठः ।
-> इन्द्र त्वं मरुद्भिः सं वदस्वाध प्राशान ऋतुथा हवींषि ॥ ५ ॥
+> त्वमी॑शिषे वसुपते॒ वसू॑नां॒ त्वं मि॒त्राणां॑ मित्रपते॒ धेष्ठः॑ ।
+> इन्द्र॒ त्वं म॒रुद्भिः॒ सं व॑द॒स्वाध॒ प्राशा॑न ऋतु॒था ह॒वींषि॑ ॥ ५ ॥
 
 > *tvamīśiṣe vasupate vasūnāṃ tvaṃ mitrāṇāṃ mitrapate dheṣṭhaḥ |*
 > *indra tvaṃ marudbhiḥ saṃ vadasvādha prāśāna ṛtuthā havīṃṣi ‖ 5 ‖*
@@ -4412,8 +4412,8 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 
 **॥ संहितापाठः ॥**
 
-> प्रति व एना नमसाहमेमि सूक्तेन भिक्षे सुमतिं तुराणाम् ।
-> रराणता मरुतो वेद्याभिर्नि हेळो धत्त वि मुचध्वमश्वान् ॥ १ ॥
+> प्रति॑ व ए॒ना नम॑सा॒हमे॑मि सू॒क्तेन॑ भिक्षे सुम॒तिं तु॒राणा॑म् ।
+> र॒रा॒णता॑ मरुतो वे॒द्याभि॒र्नि हेळो॑ ध॒त्त वि मु॑चध्व॒मश्वा॑न् ॥ १ ॥
 
 > *prati va enā namasāhamemi sūktena bhikṣe sumatiṃ turāṇām |*
 > *rarāṇatā maruto vedyābhirni heḷo dhatta vi mucadhvamaśvān ‖ 1 ‖*
@@ -4572,8 +4572,8 @@ Addressing the Marut-gods by "*he marutaḥ*", ***vedyābhiḥ rarāṇatā*** �
 
 **॥ संहितापाठः ॥**
 
-> एष वः स्तोमो मरुतो नमस्वान्हृदा तष्टो मनसा धायि देवाः ।
-> उपेमा यात मनसा जुषाणा यूयं हि ष्ठा नमस इद्वृधासः ॥ २ ॥
+> ए॒ष वः॒ स्तोमो॑ मरुतो॒ नम॑स्वान्हृ॒दा त॒ष्टो मन॑सा धायि देवाः ।
+> उपे॒मा या॑त॒ मन॑सा जुषा॒णा यू॒यं हि ष्ठा नम॑स॒ इद्वृ॒धासः॑ ॥ २ ॥
 
 > *eṣa vaḥ stomo maruto namasvānhṛdā taṣṭo manasā dhāyi devāḥ |*
 > *upemā yāta manasā juṣāṇā yūyaṃ hi ṣṭhā namasa idvṛdhāsaḥ ‖ 2 ‖*
@@ -4844,8 +4844,8 @@ In the second meaning, "*viśvā ahāni sarvāṇi divasāni jigīṣā santu �
 
 **॥ संहितापाठः ॥**
 
-> अस्मादहं तविषादीषमाण इन्द्राद्भिया मरुतो रेजमानः ।
-> युष्मभ्यं हव्या निशितान्यासन्तान्यारे चकृमा मृळता नः ॥ ४ ॥
+> अ॒स्माद॒हं त॑वि॒षादीष॑माण॒ इन्द्रा॑द्भि॒या म॑रुतो॒ रेज॑मानः ।
+> यु॒ष्मभ्यं॑ ह॒व्या निशि॑तान्यास॒न्तान्या॒रे च॑कृमा मृ॒ळता॑ नः ॥ ४ ॥
 
 > *asmādahaṃ taviṣādīṣamāṇa indrādbhiyā maruto rejamānaḥ |*
 > *yuṣmabhyaṃ havyā niśitānyāsantānyāre cakṛmā mṛḷatā naḥ ‖ 4 ‖*
@@ -4994,8 +4994,8 @@ The Nirukta-writers, pointing out this very matter, speak thus:
 
 **॥ संहितापाठः ॥**
 
-> येन मानासश्चितयन्त उस्रा व्युष्टिषु शवसा शश्वतीनाम् ।
-> स नो मरुद्भिर्वृषभ श्रवो धा उग्र उग्रेभिः स्थविरः सहोदाः ॥ ५ ॥
+> येन॒ माना॑सश्चि॒तय॑न्त उ॒स्रा व्यु॑ष्टिषु॒ शव॑सा॒ शश्व॑तीनाम् ।
+> स नो॑ म॒रुद्भि॑र्वृषभ॒ श्रवो॑ धा उ॒ग्र उ॒ग्रेभिः॒ स्थवि॑रः सहो॒दाः ॥ ५ ॥
 
 > *yena mānāsaścitayanta usrā vyuṣṭiṣu śavasā śaśvatīnām |*
 > *sa no marudbhirvṛṣabha śravo dhā ugra ugrebhiḥ sthaviraḥ sahodāḥ ‖ 5 ‖*
@@ -5392,8 +5392,8 @@ Number of ṛks in the Sūkta: 3 · Ṛṣi: Agastya · Devatā: the Maruts · C
 
 **॥ संहितापाठः ॥**
 
-> चित्रो वोऽस्तु यामश्चित्र ऊती सुदानवः ।
-> मरुतो अहिभानवः ॥ १ ॥
+> चि॒त्रो वो॑ऽस्तु॒ याम॑श्चि॒त्र ऊ॒ती सु॑दानवः ।
+> मरु॑तो॒ अहि॑भानवः ॥ १ ॥
 
 > *citro vo 'stu yāmaścitra ūtī sudānavaḥ |*
 > *maruto ahibhānavaḥ ‖ 1 ‖*
@@ -5540,8 +5540,8 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 
 **॥ संहितापाठः ॥**
 
-> आरे सा वः सुदानवो मरुत ऋञ्जती शरुः ।
-> आरे अश्मा यमस्यथ ॥ २ ॥
+> आ॒रे सा वः॑ सुदानवो॒ मरु॑त ऋञ्ज॒ती शरुः॑ ।
+> आ॒रे अश्मा॒ यमस्य॑थ ॥ २ ॥
 
 > *āre sā vaḥ sudānavo maruta ṛñjatī śaruḥ |*
 > *āre aśmā yamasyatha ‖ 2 ‖*
@@ -5600,8 +5600,8 @@ Or, if *ahi* is taken to mean "cloud", then *ahibhānavaḥ* may be said to have
 
 **॥ संहितापाठः ॥**
 
-> तृणस्कन्दस्य नु विशः परि वृङ्क्त सुदानवः ।
-> ऊर्ध्वान्नः कर्त जीवसे ॥ ३ ॥
+> तृ॒ण॒स्क॒न्दस्य॒ नु विशः॒ परि॑ वृङ्क्त सुदानवः ।
+> ऊ॒र्ध्वान्नः॑ कर्त जी॒वसे॑ ॥ ३ ॥
 
 > *tṛṇaskandasya nu viśaḥ pari vṛṅkta sudānavaḥ |*
 > *ūrdhvānnaḥ karta jīvase ‖ 3 ‖*
@@ -6070,8 +6070,8 @@ Grammar page, noted briefly (Vyākaraṇa-prakriyā, continued; sūtra numerals 
 
 **Saṃhitā-pāṭha**
 
-> अर्चद्वृषा वृषभिः स्वेदुहव्यैर्मृगो नाश्नो अति यज्जुगुर्यात् ।
-> प्र मन्दयुर्मनां गूर्त होता भरते मर्यो मिथुना यजत्रः ॥ २ ॥
+> अर्च॒द्वृषा॒ वृष॑भिः॒ स्वेदु॑हव्यैर्मृ॒गो नाश्नो॒ अति॒ यज्जु॑गु॒र्यात् ।
+> प्र म॑न्द॒युर्म॒नां गू॑र्त॒ होता॒ भर॑ते॒ मर्यो॑ मिथु॒ना यज॑त्रः ॥ २ ॥
 
 > *arcad vṛṣā vṛṣabhiḥ svedūhavyair mṛgo nāśno ati yaj jugurvāt |*
 > *pra mandayur manāṃ gūrta hotā bharate maryo mithunā yajatraḥ ‖ 2 ‖*
@@ -6298,8 +6298,8 @@ In such places *gūrta* also means "praisers" (*stotāraḥ*). In the present �
 
 **Saṃhitā-pāṭha**
 
-> नक्षद्धोता परि सद्म मिता यन्भरद्गर्भमा शरदः पृथिव्याः ।
-> क्रन्ददश्वो नयमानो रुवद्गौरन्तर्दूतो न रोदसी चरद्वाक् ॥ ३ ॥
+> नक्ष॒द्धोता॒ परि॒ सद्म॑ मि॒ता यन्भर॒द्गर्भ॒मा श॒रदः॑ पृथि॒व्याः ।
+> क्रन्द॒दश्वो॒ नय॑मानो रु॒वद्गौर॒न्तर्दू॒तो न रोद॑सी चर॒द्वाक् ॥ ३ ॥
 
 > *nakṣad dhotā pari sadma mitā yan bharad garbham ā śaradaḥ pṛthivyāḥ |*
 > *krandad aśvo nayamāno ruvad gaur antar dūto na rodasī carad vāk ‖ 3 ‖*
@@ -6447,8 +6447,8 @@ In these sentences the identity of Agni and the year is first stated, and then t
 
 **Saṃhitā-pāṭha**
 
-> ता कर्माषतरास्मै प्र च्यौत्नानि देवयन्तो भरन्ते ।
-> जुजोषदिन्द्रो दस्मवर्चा नासत्येव सुग्म्यो रथेष्ठाः ॥ ४ ॥
+> ता क॒र्माष॑तरास्मै॒ प्र च्यौ॒त्नानि॑ देव॒यन्तो॑ भरन्ते ।
+> जुजो॑ष॒दिन्द्रो॑ द॒स्मव॑र्चा॒ नास॑त्येव॒ सुग्म्यो॑ रथे॒ष्ठाः ॥ ४ ॥
 
 > *tā karmāṣatarāsmai pra cyautnāni devayanto bharante |*
 > *jujoṣad indro dasmavarcā nāsatyeva sugmyo ratheṣṭhāḥ ‖ 4 ‖*
@@ -6594,8 +6594,8 @@ from the form of heaven and earth, and so are able to go comfortably, and to mov
 
 **Saṃhitā-pāṭha**
 
-> तमु ष्टुहीन्द्रं यो ह सत्वा यः शूरो मघवा यो रथेष्ठाः ।
-> प्रतीचश्चिद्योधीयान्वृषण्वान्ववव्रुषश्चित्तमसो विहन्ता ॥ ५ ॥
+> तमु॑ ष्टु॒हीन्द्रं॒ यो ह॒ सत्वा॒ यः शूरो॑ म॒घवा॒ यो र॑थे॒ष्ठाः ।
+> प्र॒ती॒चश्चि॒द्योधी॑या॒न्वृष॑ण्वान्वव॒व्रुष॑श्चि॒त्तम॑सो विह॒न्ता ॥ ५ ॥
 
 > *tam u ṣṭuhīndraṃ yo ha satvā yaḥ śūro maghavā yo ratheṣṭhāḥ |*
 > *pratīcaś cid yodhīyān vṛṣaṇvān vavavruṣaś cit tamaso vihantā ‖ 5 ‖*
@@ -6961,8 +6961,8 @@ Pointing out thus the difference between the singular and the dual uses, the B�
 
 **Saṃhitā-pāṭha**
 
-> समत्सु त्वा शूर सतामुराणं प्रपथिन्तमं परितंसयध्यै ।
-> सजोषस इन्द्रं मदे क्षोणीः सूरिं चिद्ये अनुमदन्ति वाजैः ॥ ७ ॥
+> स॒मत्सु॑ त्वा शूर स॒तामु॑रा॒णं प्र॑प॒थिन्त॑मं परितंस॒यध्यै॑ ।
+> स॒जोष॑स॒ इन्द्रं॒ मदे॑ क्षो॒णीः सू॒रिं चि॒द्ये अ॑नु॒मद॑न्ति॒ वाजैः॑ ॥ ७ ॥
 
 > *samatsu tvā śūra satām urāṇaṃ prapathintamaṃ paritaṃsayadhyai |*
 > *sajoṣasa indraṃ made kṣoṇīḥ sūriṃ cid ye anumadanti vājaiḥ ‖ 7 ‖*
@@ -7591,8 +7591,8 @@ Emulous in commendation, like (those contending for the favour) of men, may Indr
 
 **Saṃhitā-pāṭha**
 
-> यज्ञो हि ष्मेन्द्रं कश्चिदृन्धञ्जुहुराणश्चिन्मनसा परियन् ।
-> तीर्थे नाच्छा तातृषाणमोको दीर्घो न सिध्रमा कृणोत्यध्वा ॥ ११ ॥
+> य॒ज्ञो हि ष्मेन्द्रं॒ कश्चि॑दृ॒न्धञ्जु॑हुरा॒णश्चि॒न्मन॑सा परि॒यन् ।
+> ती॒र्थे नाच्छा॑ तातृषा॒णमोको॑ दी॒र्घो न सि॒ध्रमा कृ॑णो॒त्यध्वा॑ ॥ ११ ॥
 
 > *yajño hi ṣmendraṃ kaś cid ṛndhañ juhurāṇaś cin manasā pariyan |*
 > *tīrthe nācchā tātṛṣāṇamoko dīrgho na sidhram ā kṛṇoty adhvā ‖ 11 ‖*
@@ -7686,8 +7686,8 @@ As a house provided with drinking water on the well-known road (such as the wate
 
 **Saṃhitā-pāṭha**
 
-> मो षू ण इन्द्रात्र पृत्सु देवैरस्ति हि ष्मा ते शुष्मिन्नवयाः ।
-> महश्चिद्यस्य मीळ्हुषो यव्या हविष्मतो मरुतो वन्दते गीः ॥ १२ ॥
+> मो षू ण॑ इ॒न्द्रात्र॑ पृ॒त्सु दे॒वैरस्ति॒ हि ष्मा॑ ते शुष्मिन्नव॒याः ।
+> म॒हश्चि॒द्यस्य॑ मी॒ळ्हुषो॑ य॒व्या ह॒विष्म॑तो म॒रुतो॒ वन्द॑ते॒ गीः ॥ १२ ॥
 
 > *mo ṣū ṇa indrātra pṛtsu devair asti hi ṣmā te śuṣminn avayāḥ |*
 > *mahaś cid yasya mīḷhuṣo yavyā haviṣmato maruto vandate gīḥ ‖ 12 ‖*
@@ -7776,8 +7776,8 @@ The word ***mīḷhuṣaḥ*** is derived from the root *mih*, which means sprin
 
 **Saṃhitā-pāṭha**
 
-> एष स्तोम इन्द्र तुभ्यमस्मे एतेन गातुं हरिवो विदो नः ।
-> आ नो ववृत्याः सुविताय देव विद्यामेषं वृजनं जीरदानुम् ॥ १३ ॥
+> ए॒ष स्तोम॑ इन्द्र॒ तुभ्य॑म॒स्मे ए॒तेन॑ गा॒तुं ह॑रिवो विदो नः ।
+> आ नो॑ ववृत्याः सुवि॒ताय॑ देव वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ १३ ॥
 
 > *eṣa stoma indra tubhyam asme etena gātuṃ harivo vido naḥ |*
 > *ā no vavṛtyāḥ suvitāya deva vidyāmeṣaṃ vṛjanaṃ jīradānum ‖ 13 ‖*
@@ -7984,8 +7984,8 @@ Number of ṛks in the sūkta — 10 ‖
 
 **Saṃhitā-pāṭha**
 
-> त्वं राजेन्द्र ये च देवा रक्षा नॄन्पाह्यसुर त्वमस्मान् ।
-> त्वं सत्पतिर्मघवा नस्तरुत्रस्त्वं सत्यो वसवानः सहोदाः ॥ १ ॥
+> त्वं राजे॑न्द्र॒ ये च॑ दे॒वा रक्षा॒ नॄन्पा॒ह्य॑सुर॒ त्वम॒स्मान् ।
+> त्वं सत्प॑तिर्म॒घवा॑ न॒स्तरु॑त्र॒स्त्वं स॒त्यो वस॑वानः सहो॒दाः ॥ १ ॥
 
 > *tvaṃ rājendra ye ca devā rakṣā nṝn pāhy asura tvam asmān |*
 > *tvaṃ satpatir maghavā nas tarutras tvaṃ satyo vasavānaḥ sahodāḥ ‖ 1 ‖*
@@ -8257,8 +8257,8 @@ and in many other places, it is said that by Agni and the other deities, along w
 
 **Saṃhitā-pāṭha**
 
-> दनो विश इन्द्र मृध्रवाचः सप्त यत्पुरः शर्म शारदीर्दर्त् ।
-> ऋणोरपो अनवद्यार्णा यूने वृत्रं पुरुकुत्साय रन्धीः ॥ २ ॥
+> दनो॒ विश॑ इन्द्र मृ॒ध्रवा॑चः स॒प्त यत्पुरः॒ शर्म॒ शार॑दी॒र्दर्त् ।
+> ऋ॒णोर॒पो अ॑नव॒द्यार्णा॒ यूने॑ वृ॒त्रं पु॑रु॒कुत्सा॑य रन्धीः ॥ २ ॥
 
 > *dano viśa indra mṛdhravācaḥ sapta yat puraḥ śarma śāradīr dart |*
 > *ṛṇor apo anavadyārṇā yūne vṛtraṃ purukutsāya randhīḥ ‖ 2 ‖*
@@ -8391,8 +8391,8 @@ Purukutsa, as the king of Ikṣvāku's race, is learned from the Śatapatha Brā
 
 **Saṃhitā-pāṭha**
 
-> अजा वृत इन्द्र शूरपत्नीर्द्यां च येभिः पुरुहूत नूनम् ।
-> रक्षो अग्निमशुषं तूर्वयाणं सिंहो न दमे अपांसि वस्तोः ॥ ३ ॥
+> अजा॒ वृत॑ इन्द्र॒ शूर॑पत्नी॒र्द्यां च॒ येभिः॑ पुरुहूत नू॒नम् ।
+> रक्षो॑ अ॒ग्निम॒शुषं॒ तूर्व॑याणं सिं॒हो न दमे॒ अपां॑सि॒ वस्तोः॑ ॥ ३ ॥
 
 > *ajā vṛta indra śūrapatnīr dyāṃ ca yebhiḥ puruhūta nūnam |*
 > *rakṣo agnim aśuṣaṃ tūrvayāṇaṃ siṃho na dame apāṃsi vastoḥ ‖ 3 ‖*
@@ -8631,8 +8631,8 @@ Although the word *vāja* has many meanings, it is clear that here its use is on
 
 **Saṃhitā-pāṭha**
 
-> वह कुत्समिन्द्र यस्मिञ्चाकन्स्यूमन्यू ऋज्रा वातस्याश्वा ।
-> प्र सूरश्चक्रं वृहतादभीके ऽभि स्पृधो यासिषद्वज्रबाहुः ॥ ५ ॥
+> वह॒ कुत्स॑मिन्द्र॒ यस्मि॑ञ्चा॒कन्स्यू॑म॒न्यू ऋ॒ज्रा वात॒स्याश्वा॑ ।
+> प्र सूर॑श्च॒क्रं वृ॑हताद॒भीके॒ ऽभि स्पृधो॑ यासिष॒द्वज्र॑बाहुः ॥ ५ ॥
 
 > *vaha kutsam indra yasmiñ cākan syūmanyū ṛjrā vātasyāśvā |*
 > *pra sūraś cakraṃ vṛhatād abhīke 'bhi spṛdho yāsiṣad vajrabāhuḥ ‖ 5 ‖*
@@ -8870,8 +8870,8 @@ in many such ṛks it is described that Tvaṣṭṛ prepared for Indra the thun
 
 **Saṃhitā-pāṭha**
 
-> जघन्वाँ इन्द्र मित्रेरूञ्चोदप्रवृद्धो हरिवो अदाशून् ।
-> प्र ये पश्यन्नर्यमणं सचायोस्त्वया शूर्ता वहमाना अपत्यम् ॥ ६ ॥
+> ज॒घ॒न्वाँ इ॑न्द्र मि॒त्रेरू॑ञ्चो॒दप्र॑वृद्धो हरिवो॒ अदा॑शून् ।
+> प्र ये पश्य॑न्नर्य॒मणं॒ सचा॒योस्त्वया॑ शू॒र्ता वह॑माना॒ अप॑त्यम् ॥ ६ ॥
 
 > *jaghanvāṃ indra mitrerūñ codapravṛddho harivo adāśūn |*
 > *pra ye paśyann aryamaṇaṃ sacāyos tvayā śūrtā vahamānā apatyam ‖ 6 ‖*
@@ -9026,8 +9026,8 @@ In the third: ***yadvā ye narā aryamaṇaṃ yaṃ kaṃcid dātāraṃ paśya
 
 **Saṃhitā-pāṭha**
 
-> रपत्कविरिन्द्रार्कसातौ क्षां दासायोपबर्हणीं कः ।
-> करत्तिस्रो मघवा दानुचित्रा नि दुर्योणे कुयवाचं मृधि श्रेत् ॥ ७ ॥
+> रप॑त्क॒विरि॑न्द्रा॒र्कसा॑तौ॒ क्षां दा॒सायो॑प॒बर्ह॑णीं कः ।
+> कर॑त्ति॒स्रो म॒घवा॒ दानु॑चित्रा॒ नि दु॑र्यो॒णे कुय॑वाचं मृ॒धि श्रे॑त् ॥ ७ ॥
 
 > *rapat kavir indrārkasātau kṣāṃ dāsāyopabarhaṇīṃ kaḥ |*
 > *karat tisro maghavā dānucitrā ni duryoṇe kuyavācaṃ mṛdhi śret ‖ 7 ‖*
@@ -9130,8 +9130,8 @@ In the second meaning — "*ayorajatahiraṇmayīḥ purīḥ dānucitrāḥ kha
 
 **Saṃhitā-pāṭha**
 
-> सना ता त इन्द्र नव्या आगुः सहो नभोऽविरणाय पूर्वीः ।
-> भिनत्पुरो न भिदो अदेवीर्ननमो वधरदेवस्य पीयोः ॥ ८ ॥
+> सना॒ ता त॑ इन्द्र॒ नव्या॒ आगुः॒ सहो॒ नभोऽवि॑रणाय पू॒र्वीः ।
+> भि॒नत्पुरो॒ न भिदो॒ अदे॑वीर्न॒नमो॒ वध॒रदे॑वस्य पी॒योः ॥ ८ ॥
 
 > *sanā tā ta indra navyā āguḥ saho nabho 'viraṇāya pūrvīḥ |*
 > *bhinat puro na bhido adevīr nanamo vadhar adevasya pīyoḥ ‖ 8 ‖*
@@ -9319,8 +9319,8 @@ Yāska has explained the meaning of the word *svasti*, with a mantra example:
 
 **Saṃhitā-pāṭha**
 
-> त्वमस्माकमिन्द्र विश्वध स्या अवृकतमो नरां नृपाता ।
-> स नो विश्वासां स्पृधां सहोदा विद्यामेषं वृजनं जीरदानुम् ॥ १० ॥
+> त्वम॒स्माक॑मिन्द्र वि॒श्वध॑ स्या अवृ॒कत॑मो न॒रां नृ॑पा॒ता ।
+> स नो॒ विश्वा॑सां स्पृ॒धां स॑हो॒दा वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ १० ॥
 
 > *tvam asmākam indra viśvadha syā avṛkatamo narāṃ nṛpātā |*
 > *sa no viśvāsāṃ spṛdhāṃ sahodā vidyām eṣaṃ vṛjanaṃ jīradānum ‖ 10 ‖*
@@ -9424,8 +9424,8 @@ Chandas — 1. *skandhogrīvī bṛhatī*; 2–5. *anuṣṭubh*; 6. *triṣṭu
 
 **Saṃhitā-pāṭha**
 
-> मत्स्यपायि ते महः पात्रस्येव हरिवो मत्सरो मदः ।
-> वृषा ते वृष्ण इन्दुर्वाजी सहस्रसातमः ॥ १ ॥
+> मत्स्यपा॑यि ते॒ महः॒ पात्र॑स्येव हरिवो मत्स॒रो मदः॑ ।
+> वृषा॑ ते॒ वृष्ण॒ इन्दु॑र्वा॒जी स॑हस्र॒सात॑मः ॥ १ ॥
 
 > *matsy apāyi te mahaḥ pātrasyeva harivo matsaro madaḥ |*
 > *vṛṣā te vṛṣṇa indur vājī sahasrasātamaḥ ‖ 1 ‖*
@@ -9611,8 +9611,8 @@ The qualities of the Soma juice are described: ***matsaraḥ*** — the means of
 
 **Saṃhitā-pāṭha**
 
-> आ नस्ते गन्तु मत्सरो वृषा मदो वरेण्यः ।
-> सहावाँ इन्द्र सानसिः पृतनाषाळमर्त्यः ॥ २ ॥
+> आ न॑स्ते गन्तु मत्स॒रो वृषा॒ मदो॒ वरे॑ण्यः ।
+> स॒हावाँ॑ इन्द्र सान॒सिः पृ॑तना॒षाळम॑र्त्यः ॥ २ ॥
 
 > *ā nas te gantu matsaro vṛṣā mado vareṇyaḥ |*
 > *sahāvāṃ indra sānasiḥ pṛtanāṣāḷ amartyaḥ ‖ 2 ‖*
@@ -9706,8 +9706,8 @@ From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyav�
 
 **Saṃhitā-pāṭha**
 
-> त्वं हि शूरः सनिता चोदयो मनुषो रथम् ।
-> सहावान्दस्युमव्रतमोषः पात्रं न शोचिषा ॥ ३ ॥
+> त्वं हि शूरः॒ सनि॑ता चो॒दयो॒ मनु॑षो॒ रथ॑म् ।
+> स॒हावा॒न्दस्यु॑मव्र॒तमोषः॒ पात्रं॒ न शो॒चिषा॑ ॥ ३ ॥
 
 > *tvaṃ hi śūraḥ sanitā codayo manuṣo ratham |*
 > *sahāvān dasyum avratam oṣaḥ pātraṃ na śociṣā ‖ 3 ‖*
@@ -9820,8 +9820,8 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 **Saṃhitā-pāṭha**
 
-> मुषाय सूर्यं कवे चक्रमीशान ओजसा ।
-> वह शुष्णाय वधं कुत्सं वातस्याश्वैः ॥ ४ ॥
+> मु॒षा॒य सूर्यं॑ कवे च॒क्रमीशा॑न॒ ओज॑सा ।
+> वह॒ शुष्णा॑य व॒धं कुत्सं॒ वात॒स्याश्वैः॑ ॥ ४ ॥
 
 > *muṣāya sūryaṃ kave cakram īśāna ojasā |*
 > *vaha śuṣṇāya vadhaṃ kutsaṃ vātasyāśvaiḥ ‖ 4 ‖*
@@ -10084,8 +10084,8 @@ in such ṛks, as well as in many other places, the description is that Indra ki
 
 **Saṃhitā-pāṭha**
 
-> शुष्मिन्तमो हि ते मदो द्युम्निन्तम उत क्रतुः ।
-> वृत्रघ्ना वरिवोविदा मंसीष्ठा अश्वसातमः ॥ ५ ॥
+> शु॒ष्मिन्त॑मो॒ हि ते॒ मदो॑ द्यु॒म्निन्त॑म उ॒त क्रतुः॑ ।
+> वृ॒त्र॒घ्ना व॑रिवो॒विदा॑ मंसी॒ष्ठा अ॑श्व॒सात॑मः ॥ ५ ॥
 
 > *śuṣmintamo hi te mado dyumnintama uta kratuḥ |*
 > *vṛtraghnā varivovidā maṃsīṣṭhā aśvasātamaḥ ‖ 5 ‖*
@@ -10274,8 +10274,8 @@ Here the function of this word — ***asmadarthaḥ*** — is for us, the sacrif
 
 **Saṃhitā-pāṭha**
 
-> यथा पूर्वेभ्यो जरितृभ्य इन्द्र मय इवापो न तृष्यते बभूथ ।
-> तामनु त्वा निविदं जोहवीमि विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+> यथा॒ पूर्वे॑भ्यो जरि॒तृभ्य॑ इन्द्र॒ मय॑ इ॒वापो॒ न तृष्य॑ते ब॒भूथ॑ ।
+> तामनु॑ त्वा नि॒विदं॑ जोहवीमि वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ ६ ॥
 
 > *yathā pūrvebhyo jaritṛbhya indra maya ivāpo na tṛṣyate babhūtha |*
 > *tām anu tvā nivida johavīmi vidyām eṣaṃ vṛjanaṃ jīradānum ‖ 6 ‖*
@@ -10636,8 +10636,8 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 
 **Saṃhitā-pāṭha**
 
-> तस्मिन्ना वेशया गिरो य एकश्चर्षणीनाम् ।
-> अनु स्वधा यमुप्यते यवं न चर्कृषद्वृषा ॥ २ ॥
+> तस्मि॒न्ना वे॑शया॒ गिरो॒ य एक॑श्चर्षणी॒नाम् ।
+> अनु॑ स्व॒धा यमु॒प्यते॒ यवं॒ न चर्कृ॑ष॒द्वृषा॑ ॥ २ ॥
 
 > *tasminn ā veśayā giro ya ekaś carṣaṇīnām |*
 > *anu svadhā yam upyate yavaṃ na cakṛṣad vṛṣā ‖ 2 ‖*
@@ -10796,8 +10796,8 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 **Saṃhitā-pāṭha**
 
-> यस्य विश्वानि हस्तयोः पञ्च क्षितीनां वसु ।
-> स्पाशयस्व यो अस्मध्रुग्दिव्येवाशनिर्जहि ॥ ३ ॥
+> यस्य॒ विश्वा॑नि॒ हस्त॑योः॒ पञ्च॑ क्षिती॒नां वसु॑ ।
+> स्पा॒शय॑स्व॒ यो अ॑स्म॒ध्रुग्दि॒व्येवा॒शनि॑र्जहि ॥ ३ ॥
 
 > *yasya viśvāni hastayoḥ pañca kṣitīnāṃ vasu |*
 > *spāśayasva yo asmadhrug divyevāśanir jahi ‖ 3 ‖*
@@ -10964,8 +10964,8 @@ In the first meaning mentioned above, the word is used where the object that com
 
 **Saṃhitā-pāṭha**
 
-> असुन्वन्तं समं जहि दूणाशं यो न ते मयः ।
-> अस्मभ्यमस्य वेदनं दद्धि सूरिश्चिदोहते ॥ ४ ॥
+> असु॑न्वन्तं समं जहि दू॒णाशं॒ यो न ते॒ मयः॑ ।
+> अ॒स्मभ्य॑मस्य॒ वेद॑नं द॒द्धि सू॒रिश्चि॑दोहते ॥ ४ ॥
 
 > *asunvantaṃ samaṃ jahi dūṇāśaṃ yo na te mayaḥ |*
 > *asmabhyam asya vedanaṃ daddhi sūriś cid ohate ‖ 4 ‖*
@@ -11075,8 +11075,8 @@ in these and similar contexts, this epithet is used of deities who are lords and
 
 **Saṃhitā-pāṭha**
 
-> आवो यस्य द्विबर्हसोऽर्केषु सानुषगसत् ।
-> आजाविन्द्रस्येन्दो प्रावो वाजेषु वाजिनम् ॥ ५ ॥
+> आवो॒ यस्य॑ द्वि॒बर्ह॑सो॒ऽर्केषु॑ सानु॒षगस॑त् ।
+> आ॒जाविन्द्र॑स्येन्दो॒ प्रावो॒ वाजे॑षु वा॒जिन॑म् ॥ ५ ॥
 
 > *āvo yasya dvibarhaso 'rkeṣu sānuṣag asat |*
 > *ājāv indrasyendo prāvo vājeṣu vājinam ‖ 5 ‖*
@@ -11281,8 +11281,8 @@ The breath is *arka*; the *ka*-principle is its food; the harmony of the two is 
 
 **Saṃhitā-pāṭha**
 
-> यथा पूर्वेभ्यो जरितृभ्य इन्द्र मय इवापो न तृष्यते बभूथ ।
-> तामनु त्वा निविदं जोहवीमि विद्यामेषं वृजनं जीरदानुम् ॥ ६ ॥
+> यथा॒ पूर्वे॑भ्यो जरि॒तृभ्य॑ इन्द्र॒ मय॑ इ॒वापो॒ न तृष्य॑ते ब॒भूथ॑ ।
+> तामनु॑ त्वा नि॒विदं॑ जोहवीमि वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥ ६ ॥
 
 > *yathā pūrvebhyo jaritṛbhya indra maya ivāpo na tṛṣyate babhūtha |*
 > *tām anu tvā nividaṃ johavīmi vidyām eṣaṃ vṛjanaṃ jīradānum ‖ 6 ‖*
@@ -11491,8 +11491,8 @@ Number of ṛks in the sūkta — 5 ‖
 
 **Saṃhitā-pāṭha**
 
-> आ चर्षणिप्रा वृषभो जनानां राजा कृष्टीनां पुरुहूत इन्द्रः ।
-> स्तुतः श्रवस्यन्नवसोप मद्रिग्युक्त्वा हरी वृषणा याह्यर्वाङ् ॥ १ ॥
+> आ च॑र्षणि॒प्रा वृ॑ष॒भो जना॑नां॒ राजा॑ कृष्टी॒नां पु॑रुहू॒त इन्द्रः॑ ।
+> स्तु॒तः श्र॑व॒स्यन्नव॒सोप॑ म॒द्रिग्यु॒क्त्वा हरी॒ वृष॒णा या॑ह्य॒र्वाङ् ॥ १ ॥
 
 > *ā carṣaṇiprā vṛṣabho janānāṃ rājā kṛṣṭīnāṃ puruhūta indraḥ |*
 > *stutaḥ śravasyann avasopa madrig yuktvā harī vṛṣaṇā yāhy arvāṅ ‖ 1 ‖*
@@ -11617,8 +11617,8 @@ It is said that Indra is the protector of the people who perform sacrifices, the
 
 **Saṃhitā-pāṭha**
 
-> ये ते वृषणो वृषभास इन्द्र ब्रह्मयुजो वृषरथासो अत्याः ।
-> ताँ आ तिष्ठ तेभिरा याह्यर्वाङ् हवामहे त्वा सुत इन्द्र सोमे ॥ २ ॥
+> ये ते॒ वृष॑णो वृष॒भास॑ इन्द्र ब्रह्म॒युजो॒ वृष॑रथासो॒ अत्याः॑ ।
+> ताँ आ ति॑ष्ठ॒ तेभि॒रा या॑ह्य॒र्वाङ् हवा॑महे त्वा सु॒त इ॑न्द्र॒ सोमे॑ ॥ २ ॥
 
 > *ye te vṛṣaṇo vṛṣabhāsa indra brahmayujo vṛṣarathāso atyāḥ |*
 > *tāṃ ā tiṣṭha tebhir ā yāhy arvāṅ havāmahe tvā suta indra some ‖ 2 ‖*
@@ -11706,8 +11706,8 @@ Mount, Indra, your steeds, who are young and vigorous, tractable to prayer, and 
 
 **Saṃhitā-pāṭha**
 
-> आ तिष्ठ रथं वृषणं वृषा ते सुतः सोमः परिषिक्ता मधूनि ।
-> युक्त्वा वृषभ्यां वृषभ क्षितीनां हरिभ्यां याहि प्रवतोप मद्रिक् ॥ ३ ॥
+> आ ति॑ष्ठ॒ रथं॒ वृष॑णं॒ वृषा॑ ते सु॒तः सोमः॒ परि॑षिक्ता॒ मधू॑नि ।
+> यु॒क्त्वा वृष॑भ्यां वृषभ क्षिती॒नां हरि॑भ्यां याहि प्र॒वतोप॑ म॒द्रिक् ॥ ३ ॥
 
 > *ā tiṣṭha rathaṃ vṛṣaṇaṃ vṛṣā te sutaḥ somaḥ pariṣiktā madhūni |*
 > *yuktvā vṛṣabhyāṃ vṛṣabha kṣitīnāṃ haribhyāṃ yāhi pravatopa madrik ‖ 3 ‖*
@@ -12824,8 +12824,8 @@ Chandas — 1–4, 6 Triṣṭubh; 5 Bṛhatī ‖
 
 **Saṃhitā-pāṭha**
 
-> पूर्वीरहं शरदः शश्रमाणा दोषा वस्तोरुषसो जरयन्तीः ।
-> मिनाति श्रियं जरिमा तनूनामप्यू नु पत्नीर्वृषणो जगम्युः ॥ १ ॥
+> पू॒र्वीर॒हं श॒रदः॑ शश्रमा॒णा दो॒षा वस्तो॑रु॒षसो॑ ज॒रय॑न्तीः ।
+> मि॒नाति॒ श्रियं॑ जरि॒मा त॒नूना॒मप्यू॒ नु पत्नी॒र्वृष॑णो जगम्युः ॥ १ ॥
 
 > *pūrvīrahaṃ śaradaḥ śaśramāṇā doṣā vastoruṣaso jarayantīḥ |*
 > *mināti śriyaṃ jarimā tanūnāmapyū nu patnīrvṛṣaṇo jagamyuḥ ‖ 1 ‖*
@@ -17022,8 +17022,8 @@ Thus, since they are harmful to the sacrificers, the sacrificer there prays to t
 
 **Saṃhitā-pāṭha**
 
-> जम्भयतमभितो रायतः शुनो हतं मृधो विदथुस्तान्यश्विना ।
-> वाचंवाचं जरितू रत्निनीं कृतमुभा शंसं नासत्यावतं मम ॥ ४ ॥
+> ज॒म्भय॑तम॒भितो॒ राय॑तः॒ शुनो॑ ह॒तं मृधो॑ वि॒दथु॒स्तान्य॑श्विना ।
+> वाचं॑वाचं जरि॒तू र॒त्निनीं॑ कृतमु॒भा शंसं॑ नासत्यावतं॒ मम॑ ॥ ४ ॥
 
 > *jambhayatamabhito rāyataḥ śuno hataṃ mṛdho vidathustānyaśvinā |*
 > *vācaṃvācaṃ jaritū ratninīṃ kṛtamubhā śaṃsaṃ nāsatyāvataṃ mama ‖ 4 ‖*
