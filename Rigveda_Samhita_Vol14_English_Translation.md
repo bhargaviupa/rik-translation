@@ -13734,4 +13734,89 @@ the churning of Agni, the origin of Agni, the carrying of Agni and placing him i
 
 ---
 
-**Progress note:** Done through printed p. 392 (PDF 412). Mandala 2 Sukta 1: Rk 1 concluded (Special Topics, Agni-churning ends p. 392; no grammar page for Rk 1 printed); Rk 2 Samhita, Pada and the beginning of the bhasya (to 'tatha rtviyam') written; the bhasya continues on p. 393. Flags: p. 391 header varga 17 zoomed, read 17; p. 390 last word loma-yan printed without ka (as printed); p. 391 [?] on two words in the Ai. Brā. quotation (pañcartavas... samvatsarah, tadbrasau) and on the cut-off numeral at the left edge of the last lines (Rakshoghna ṛks); numerals 8-43-14, 8-85-8, 10-90-16, 3-5 agree with file; 13 (ṛk count) not in file, read from strip.
+### Printed p. 393 (PDF 413)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Varga 17 as read from the header; the adhyāya numeral between them was not checked. Continuation of the bhāṣya of Ṛk 2 from p. 392.)*
+
+> प्राप्तकालमार्त्विज्यं तवैव । नेष्ट्रं नेष्टुः कर्म प्रस्थितयाज्यादिरूपं[?] तव । हे अग्ने त्वमग्नित् अग्नीध्रश्च त्वमेवासि । तथा ऋतायतो यज्ञमिच्छतस्तवैव प्रशास्त्रं यत्प्रशास्तुर्मैत्रावरुणस्य कर्म तत् । हे अग्ने त्वमध्वरीयसि । अध्वरं यज्ञं कामयसे । अध्वर्युर्भवसीत्यर्थः । तथाध्वर्युशब्दव्युत्पत्तेः । अध्वर्युरध्वरं कामयते इति वेति हि निरुक्तं । १-८ । तथा ब्रह्मा ब्रह्मणाच्छंस्यस्यसि[?] । तथा नो दमोऽस्मद्यज्ञगृहे गृहपतिश्चासीति ॥
+
+> *prāptakālamārtvijyaṃ tavaiva | neṣṭraṃ neṣṭuḥ karma prasthitayājyādirūpaṃ[?] tava | he agne tvamagnit agnīdhraśca tvamevāsi | tathā ṛtāyato yajñamicchatastavaiva praśāstraṃ yatpraśāsturmaitrāvaruṇasya karma tat | he agne tvamadhvarīyasi | adhvaraṃ yajñaṃ kāmayase | adhvaryurbhavasītyarthaḥ | tathādhvaryuśabdavyutpatteḥ | adhvaryuradhvaraṃ kāmayate iti veti hi niruktaṃ | 1-8 | tathā brahmā brahmaṇācchaṃsyasyasi[?] | tathā no damo 'smadyajñagṛhe gṛhapatiścāsīti ‖*
+
+*Gist: "Yours alone are the offices of the Hotṛ, Potṛ, Ṛtvij, Neṣṭṛ, Agnīdh, Praśāstṛ; you are the Adhvaryu (Nirukta cited), the Brahmā, and the householder in our house."* *(Doubtful: the word after नेष्टुः कर्म (the Neṣṭṛ's rite) in the first line, and the word after ब्रह्मणाच्छं… at the end of the Brahmā clause; both left as printed. The Nirukta reference is as printed, read "1-8".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Printed in Kannada; the Sanskrit headwords are given in Devanagari.
+
+अग्ने (*agne*) — O Agni! होत्रं (*hotraṃ*) — the office of the Hotṛ, who recites the śastras, yājyās and the like. तव (*tava*) — belonging to you. पोत्रं (*potraṃ*) — the office of the Potṛ also. तव (*tava*) — yours; that is, it is for your sake. ऋत्वियं (*ṛtviyaṃ*) — the office of the Ṛtvijs. नेष्ट्रं (*neṣṭraṃ*) — the office of the Neṣṭṛ also. तव (*tava*) — is yours. त्वं (*tvaṃ*) — you. ऋतायतः (*ṛtāyataḥ*) — for the sacrificer who desires the sacrifice. अग्नित् (*agnit*) — you are the Agnīdhra. प्रशास्त्रं (*praśāstraṃ*) — the office of the Praśāstṛ also. तव (*tava*) — yours. त्वं (*tvaṃ*) — you. अध्वरीयसि (*adhvarīyasi*) — you are the Adhvaryu, that is, you do the work the Adhvaryu does. ब्रह्मा च असि (*brahmā ca asi*) — you are also the Brahmā. नः (*naḥ*) — our. दमे (*dame*) — in the sacrificial house. गृहपतिश्च (*gṛhapatiśca*) — and the householder (or the sacrificer who performs the sacrifice) you are.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni! The office belonging to the Hotṛ, and the office belonging to the Potṛ and the Neṣṭṛ, are yours. For the sacrificer who desires the sacrifice you are the Agnīdhra. The office of the Praśāstṛ also is yours. You are the Adhvaryu and the Brahmā, and in our sacrificial house the householder.
+
+**English Translation** *(as printed)*
+
+Yours, Agni, is the office of the Hotri, of the Potri, of the Ritwij ; of the Neshtri, you are the Agnidhra of the devout, yours is the function of the Prashastri, you are the Adhwaryu and the Brahman, and the householder in our dwelling.
+
+**विशेषविषयगळು (Special Topics)**
+
+In this Ṛk and in the Ṛks that follow, Agni is variously described as the form of the many deities and of the Ṛtvijs. When praising the great, it is the usage to call them Indra, Candra, Devendra. Likewise here too the ṛṣi Gṛtsamada praises Agni by comparing him with various deities. Such a description —
+
+---
+
+### Printed p. 394 (PDF 414)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1", numerals as the numeral file reads them (2.2 / 1 / 1; the file reads the first two groups together).)*
+
+> वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।
+> इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥
+
+> *vedānāṃ sāmavedo 'smi devānāmasmi vāsavaḥ |*
+> *indriyāṇāṃ manaścāsmi bhūtānāmasmi cetanā ‖*
+
+*(Bhagavadgītā 10-22, as printed "भ. गी. १०=२२". The third word of the second line looks like इन्द्रियोणां in the print; read इन्द्रियाणां.)*
+
+— and the like, is found in the sentences of the Bhagavadgītā and in many other modern works. In the present Ṛk, Agni is praised as the office or the very nature of the Hotṛ, Potṛ, the Ṛtvijs, the Neṣṭṛ, the Adhvaryu, the Brahmā, the householder and others, who bear the chief parts in the sacrifice.
+
+Among the Ṛtvijs who take part in a sacrifice, the Hotṛ, Adhvaryu, Udgātṛ and Brahmā are the chief. As their assistants there are twelve more Ṛtvijs; in all sixteen persons. Namely —
+
+(1) The Ṛtvijs of the Hotṛ group: Hotṛ, मैत्रावरुण (*maitrāvaruṇa*), अच्छावाक (*acchāvāka*) and ग्रावस्तुत् (*grāvastut*); these four are the Ṛtvijs of the Hotṛ group.
+(2) Those of the Adhvaryu group: Adhvaryu, प्रतिप्रस्थातृ (*pratiprasthātṛ*), Neṣṭṛ and उन्नेतृ (*unnetṛ*).
+(3) Those of the Udgātṛ group: Udgātṛ, प्रस्तोतृ (*prastotṛ*), प्रतिहर्तृ (*pratihartṛ*) and सुब्रह्मण्य (*subrahmaṇya*).
+(4) Those of the Brahmā group: Brahmā, ब्राह्मणाच्छंसि (*brāhmaṇācchaṃsi*), Agnīdhra, Potṛ.
+
+The chief duty of the Hotṛ group in these rites is this: when the Adhvaryu has spoken the Praiṣa mantra and uttered "such-and-such a mantra is to be recited", the Hotṛ recites, according to the occasion, the mantras of the Ṛgveda — the Prātaranuvāka mantras, the śastra mantras, the yājyā and puronuvākyā mantras, the mantras to be said in the Agni-churning and the like — and thus brings the sacrificial acts to completion. The Ṛgveda mantras are the chief ones for them.
+
+In the sacrifice the part of the Adhvaryu and his assistant group is by far the largest. For all the work the Adhvaryu goes first and by the Praiṣa mantras at the proper times indicates to the other Ṛtvijs what work is to be done. Therefore it is said अध्वर्युर्वा ऋत्विजां प्रथमो युज्यते (*adhvaryurvā ṛtvijāṃ prathamo yujyate*) ("the Adhvaryu is the first of the Ṛtvijs to be engaged"), that is, he is the chief of all Ṛtvijs. All his work is based on the Yajurveda.
+
+The Udgātṛ group sing the Sāman appropriate to the occasion, at the time of invoking the deities and at the Soma-pressing. The Sāmaveda mantras are the chief ones for them. अयज्ञो वा एष योऽसामा (*ayajño vā eṣa yo 'sāmā*) — that is, "a sacrifice without Sāman-singing is no sacrifice" — so their part too is very important.
+
+---
+
+### Printed p. 395 (PDF 415)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Varga 17 as read; the adhyāya numeral not checked.)*
+
+The Brahmā and his assisting group see to it that the work done in sacrifices and the like proceeds completely and as the Śāstra prescribes, and, if any defect or omission occurs in the middle, they have the proper expiation and the like performed so that the sacrifice may end in good order: this is their duty. They must also have knowledge of the four Vedas.
+
+All that has been said above is the common duty of the Ṛtvijs of each group. Besides these, each Ṛtvij also has his own special and specified duty. To state all these here would make the book long, and since it is not much needed, they are not given here. Only a brief account of the work of the Ṛtvijs indicated in this Ṛk is given here.
+
+The होतृ (*hotṛ*) in the sacrifice invokes the deities, reciting mantras suited to each time. The पोतृ (*potṛ*) belongs to the Brahmā group; he corrects and purifies the defects and omissions that may occur in the sacrifice. The नेष्टृ (*neṣṭṛ*) does the work of bringing the sacrificer's wife and the like; he belongs to the Adhvaryu group. The अग्नीत् (*agnīt*) (अग्नीध्र (*agnīdhra*)) kindles Agni and tends it; he belongs to the Brahmā group. The प्रस्थातृ (*prasthātṛ*) (Maitrāvaruṇa) is the Hotṛ's assistant and directs the other Ṛtvijs (there is a Taittirīya Saṃhitā sentence: मैत्रावरुणो हि पुरस्तादृत्विग्भ्यो वाचं विभजति (*maitrāvaruṇo hi purastādṛtvigbhyo vācaṃ vibhajati*)). The अध्वर्यु (*adhvaryu*) takes the lead in all the activities of the sacrifice; whatever work is to be done is done through him or by his order. The ब्रह्मा (*brahmā*) sees to it that the sacrifice goes on correctly and that no mantra or rite is omitted. The गृहपति (*gṛhapati*) here may be Agni, the lord of the sacrificial house, or the sacrificer himself, who performs the sacrifice. The ṛṣi describes all of these as the very form of Agni, saying that Agni is of great majesty.
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+*(The Ṛk number is not printed after the closing daṇḍa on this page; the Pada follows on p. 396.)*
+
+> त्वमग्न इन्द्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः ।
+> त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥
+
+> *tvamagna indro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ |*
+> *tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*
+
+---
+
+**Progress note:** Done through printed p. 395 (PDF 415). Mandala 2 Sukta 1: Rk 2 complete (Special Topics end p. 395; no grammar page printed); Rk 3 Samhita written, Rk number not printed on this page; Pada begins on p. 396. Flags: p. 393 two [?] in bhasya; header numerals p. 393 and p. 395 read Astaka 2, Varga 17, adhyaya numeral not checked; file has no rows for p. 393 and 395.
