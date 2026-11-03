@@ -17079,4 +17079,158 @@ The gods, intending to dwell (in heaven), left, as a dear friend amongst the hum
 
 ---
 
-**Progress note:** Done through printed p. 475 (PDF 496). Maṇḍala 2 Sūkta 4: Ṛk 1 closed (p. 473 starts with Ṛk 2). Ṛk 2 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on p. 474, then the rule). Ṛk 3 complete through printed English on p. 475; check the top of p. 476 for its Special Topics before starting Ṛk 4. FILE DISAGREE: none (the file gives only a garbled header line for p. 474 whose final "4" agrees; p. 473 and p. 475 have no rows). Not zoomed: headers "Va. 24" (pp. 473, 475), Ṛk numerals 2 and 3. [?] places: p. 473 Pada अस्तु (strip may show आस्तु) and भूम (as printed, versus Saṃhitā भूमा); bhāṣya tail ⟦दधातेर्लजः⟧; p. 474 name Gṛtsamada (printed ಗೃತ್ಸವದ-); p. 475 Pada दमे/दमो and bhāṣya आदीदयेत्.
+### Printed p. 476 (PDF 497)
+
+*(Header: "476", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip, not zoomed. The numeral file has no rows for this page. The page opens with the Special Topics of Ṛk 3, which was left open.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 3)**
+
+*(Kannada, translated. The lemmata are in Sanskrit, as printed.)*
+
+देवाः क्षेष्यन्तः मानुषीषु विक्षु प्रियं मित्रं न धुः (*devāḥ kṣeṣyantaḥ mānuṣīṣu vikṣu priyaṃ mitraṃ na dhuḥ*) — The Kannada says that this sentence has been explained in two ways.
+
+> देवाः स्वर्गं प्रतिगच्छन्तः मनुष्यसंबन्धिनीषु प्रजासु अग्निं प्रीणयितारं स्थापितवन्तः
+
+> *devāḥ svargaṃ pratigacchantaḥ manuṣyasaṃbandhinīṣu prajāsu agniṃ prīṇayitāraṃ sthāpitavantaḥ*
+
+The first meaning is this: when the gods go to heaven, they first establish among the human subjects the Agni who gives them delight. The second meaning is an illustration for this matter:
+
+> क्षेष्यन्तः मित्रं न—
+> रायं प्रतिगच्छन्तो नरः प्रियं सखायं स्वगृहरक्षार्थं स्थापयन्ति तद्वत्
+
+> *kṣeṣyantaḥ mitraṃ na—*
+> *rāyaṃ pratigacchanto naraḥ priyaṃ sakhāyaṃ svagṛharakṣārthaṃ sthāpayanti tadvat*
+
+As people who go out to gain wealth leave their dear friends to guard their houses, so the gods place Agni among men. The second meaning is also explained in this way.
+
+*(The strip reads रायं as ರಾಯುಂ, with the hooked ya, and the Kannada line break falls between न (*na*) and रायं (*rāyaṃ*). The dash after न (*na*) is the printer's dash between lemma and explanation.)*
+
+*(The strip reads the heading's first word as दास्यते (*dāsyate*) (ದಾಸ್ಯತೇ) and the last as दाक्षाय्यः (*dākṣāyyaḥ*), whereas the Saṃhitā has दास्वते (*dāsvate*) and दक्षाय्यः (*dakṣāyyaḥ*); the printed forms are written, [?]. The word before आहितः (*āhitaḥ*) is read योगगृहे (*yogagṛhe*) from the strip, whereas p. 475 has यागगृहे (*yāgagṛhe*); [?].)*
+
+> यः दास्यते [?] दमे आ दाक्षाय्यः [?]—
+> एवं देवैः स्थापितः अग्निः हविर्दत्तवते यजमानाय योगगृहे [?] आहितः समर्धयिता दाता वा
+
+> *yaḥ dāsyate [?] dame ā dākṣāyyaḥ [?]—*
+> *evaṃ devaiḥ sthāpitaḥ agniḥ havirdattavate yajamānāya yogagṛhe [?] āhitaḥ samardhayitā dātā vā*
+
+The Kannada explains: the Agni established by the gods is placed by the yajamāna in his dwelling-place, the sacrificial hall, and, offering the oblation, he fulfils the wishes of the yajamāna, or he increases the yajamāna's wealth. This is how the passage is described.
+
+*(The first line of the next paragraph, which is the same Special Topics passage, begins at the top of the second strip. The first word is printed ಉರ್ಮ್ಯಾಃ, with a short u-sign, and is read ऊर्म्याः (*ūrmyāḥ*); आदिपयति (*ādipayati*) is printed with a short i-sign, as printed, [?].)*
+
+> ऊर्म्याः आ दीदयत्—
+> सर्वासु रात्रिषु दीप्यते सर्वरात्रीरादिपयति [?] वा
+
+> *ūrmyāḥ ā dīdayat—*
+> *sarvāsu rātriṣu dīpyate sarvarātrīrādipayati [?] vā*
+
+The Kannada says that "he shines in the night-time" means that from evening to morning he shines fully through the whole night; or that he shines in the nights of all days. Two kinds of meaning are explained.
+
+---
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+*(In the Saṃhitā the strip seems to show धक्षोः with an extra small mark above the line (printed ಧಕ್ಷ್ರೋಃ); धक्षोः is written, as the Pada, the bhāṣya and the Pratipadārtha all give it. In जिह्वामत्यो (*jihvāmatyo*) the strip shows a doubled ya-sign; the reading follows the Pada, [?].)*
+
+> अस्य रण्वा स्वस्येव पुष्टिः सन्दृष्टिरस्य हियानस्य धक्षोः ।
+> वि यो भरिभ्रदोषधीषु जिह्वामत्यो न रथ्यो दोधवीति वारान् ॥ ४ ॥
+
+> *asya raṇvā svasyeva puṣṭiḥ sandṛṣṭirasya hiyānasya dhakṣoḥ |*
+> *vi yo bharibhradoṣadhīṣu jihvāmatyo na rathyo dodhavīti vārān ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्य । रण्वा । स्वस्यऽइव । पुष्टिः । संऽदृष्टिः । अस्य । हियानस्य । धक्षोः ।
+> वि । यः । भरिभ्रत् । ओषधीषु । जिह्वां । अत्यः । न । रथ्यः । दोधवीति । वारान् ॥ ४ ॥
+
+> *asya | raṇvā | svasya 'iva | puṣṭiḥ | saṃ 'dṛṣṭiḥ | asya | hiyānasya | dhakṣoḥ |*
+> *vi | yaḥ | bharibhrat | oṣadhīṣu | jihvāṃ | atyaḥ | na | rathyaḥ | dodhavīti | vārān ‖ 4 ‖*
+
+---
+
+### Printed p. 477 (PDF 498)
+
+*(Header: "A. 2 A. 5 Va. 24" and "Ṛgvedasaṃhitā", "477", read from the strip, not zoomed. The numeral file has one row, the sūtra number below; it agrees with my reading.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni's growth is delightful and resounding; when he spreads through the herbs and shakes his flames, he is like a chariot-horse flicking its tail to drive off biting flies.
+
+*(Doubtful letters in the bhāṣya, all [?]: ज्वाला (*jvālā*) is printed without a visarga; रथाहोऽत्यो (*rathāho 'tyo*) is printed so; in the grammatical tail the last word is printed युब्योगात् (*yubyogāt*). The sūtra number is printed ७-४-६५, the file reads 7-4.65. The first letter in धक्षोः (*dhakṣoḥ*) is read as dha.)*
+
+> अस्याग्नेः पुष्टिः शरीरवृद्धी रण्वा रमणीया शब्दयुक्ता वा । तत्र दृष्टान्तः । स्वस्य पुष्टिरिव । यथा लोके स्वकीया पुष्टिः स्वस्मै रमणीया भवति तद्वत् । यद्वास्याग्नेः संबन्धिनी पुष्टिर्यथा यजमानविषया रण्वा तद्वत् । किंच हियानस्य समृद्धिं गच्छतो व्याप्नुवतो धक्षोः काष्ठान् दिधक्षोर्दग्धुमिच्छोरस्याग्नेः संदृष्टिः संदर्शनाविर्भावोऽपि रण्वा । योऽग्निरोषधीषु काष्ठेषु जिह्वां ज्वालां । जात्येकवचनं । ज्वाला [?] विभरिभ्रत् । अत्यर्थं विहरति । कंपयतीत्यर्थः ॥ हरतेर्यज्लुगन्तत्वेन दाधर्त्यादिषु । पा. ७-४-६५ । निपातिताल्लेट्यैडागमः । युब्योगादनिघातः [?] ॥ तत्र दृष्टान्तः । रथ्यो रथाहोऽत्यो [?] न वाजी यथा वारान् दंशवारणसाधनान्वालान् दोधवीति । कंपयति तद्वत् । योऽग्निर्ज्वालाः कंपयति अस्याग्नेः पुष्टी रण्वेति ॥
+
+> *asyāgneḥ puṣṭiḥ śarīravṛddhī raṇvā ramaṇīyā śabdayuktā vā | tatra dṛṣṭāntaḥ | svasya puṣṭiriva | yathā loke svakīyā puṣṭiḥ svasmai ramaṇīyā bhavati tadvat | yadvāsyāgneḥ saṃbandhinī puṣṭiryathā yajamānaviṣayā raṇvā tadvat | kiṃca hiyānasya samṛddhiṃ gacchato vyāpnuvato dhakṣoḥ kāṣṭhān didhakṣordagdhumicchorasyāgneḥ saṃdṛṣṭiḥ saṃdarśanāvirbhāvo 'pi raṇvā | yo 'gniroṣadhīṣu kāṣṭheṣu jihvāṃ jvālāṃ | jātyekavacanaṃ | jvālā [?] vibharibhrat | atyarthaṃ viharati | kaṃpayatītyarthaḥ ‖ harateryajlugantatvena dādhartyādiṣu | pā. 7-4-65 | nipātitālleṭyaiḍāgamaḥ | yubyogādanighātaḥ [?] ‖ tatra dṛṣṭāntaḥ | rathyo rathāho 'tyo [?] na vājī yathā vārān daṃśavāraṇasādhanānvālān dodhavīti | kaṃpayati tadvat | yo 'gnirjvālāḥ kaṃpayati asyāgneḥ puṣṭī raṇveti ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 4)**
+
+(Kannada, translated:) रथ्यः (*rathyaḥ*) — fit to carry a chariot; अत्यः (*atyaḥ*) — the horse; वारान् (*vārān*) — the tuft of his tail which drives away the gnats (soḷḷe); दोधवीति न (*dodhavīti na*) — as it flicks it to and fro; यः (*yaḥ*) — which Agni; ओषधीषु (*oṣadhīṣu*) — in wood and the like; जिह्वां (*jihvāṃ*) — his flame, which has the form of a tongue; वि भरिभ्रत् (*vi bharibhrat*) — spreads out in various directions and goes about; अस्य (*asya*) — of that Agni, the nourished (grown) spread; स्वस्य (*svasya*) — of the beholder (the printed word is drashṭṛvina, "of the seer"); पुष्टिः इव (*puṣṭiḥ iva*) — like the growth of one's own body; रण्वा (*raṇvā*) — is delightful; हियानस्य (*hiyānasya*) — of him who grows and spreads; धक्षोः (*dhakṣoḥ*) — of him who burns wood and the like, that same Agni; संदृष्टिः (*saṃdṛṣṭiḥ*) — the sight, which is delightful, is also attractive.
+
+**भावार्थ (Bhāvārtha — Ṛk 4)**
+
+(Kannada, translated:) "Just as a horse fit to carry a chariot flicks the tuft of its tail, which drives away gnats, to and fro, so the Agni who spreads his tongue-like flame in all directions in wood and the like, goes about: the spread of that Agni, which is full of growth, is delightful like the growth of one's own body. And the sight of that same Agni, who burns and spreads through wood and the like, is attractive as well."
+
+**English Translation** *(as printed, Ṛk 4)*
+
+The cherishing of Agni is as agreeable as (the cherishing) of one's self; (pleasant) is his appearance, when spreading abroad, and consuming (the fuel); he brandishes his flame amongst the bushes, as a chariot-horse lashes with his tail.
+
+---
+
+### Printed p. 478 (PDF 499)
+
+*(Header: "478", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip, not zoomed. The numeral file has one row, a reference to the Nighaṇṭu, which agrees with my reading and is given below.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 4)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+> अस्य पुष्टिः रण्वा स्वस्य पुष्टिरिव—
+> अग्नेः शरीरवृद्धिः रमणीया शब्दयुक्ता वा ।
+
+> *asya puṣṭiḥ raṇvā svasya puṣṭiriva—*
+> *agneḥ śarīravṛddhiḥ ramaṇīyā śabdayuktā vā |*
+
+The growth of Agni's body is delightful, or it is accompanied by sound. The illustration for this matter has been given.
+
+> यथा लोके स्वकीया पुष्टिं स्वस्मै रमणीयो—
+
+> *yathā loke svakīyā puṣṭiṃ svasmai ramaṇīyo—*
+
+As in the world the bodily nourishment of living beings is beneficial to each, so this is the illustration for the growth of Agni's body.
+
+> यद्वा अस्याग्नेः संबन्धिनी पुष्टिः यजमानविषया रण्वा स्वस्याग्नेः पुष्टिः यथा रण्वा तद्वत्—
+
+> *yadvā asyāgneḥ saṃbandhinī puṣṭiḥ yajamānaviṣayā raṇvā svasyāgneḥ puṣṭiḥ yathā raṇvā tadvat—*
+
+As the growth of this Agni from the oblations offered by the yajamānas is delightful to the yajamānas, so this Agni's own bodily growth is also a source of happiness: another meaning is given.
+
+*(The strip prints रण्वा (*raṇvā*) in the first line with the virāma sign unclear (ರಣಾ); रण्वा is written, [?].)*
+
+> हियानस्य धक्षोः संदृष्टिः रण्वा—
+> समृद्धिं गच्छतो काष्ठान् दग्धुमिच्छोः अस्याग्नेः संदर्शनाविर्भावोऽपि रण्वा ।
+
+> *hiyānasya dhakṣoḥ saṃdṛṣṭiḥ raṇvā—*
+> *samṛddhiṃ gacchato kāṣṭhān dagdhumicchoḥ asyāgneḥ saṃdarśanāvirbhāvo 'pi raṇvā |*
+
+The Kannada explains: the forest herbs and the like grow; Agni, wishing to burn them, makes himself manifest, and shining brightly, he is delightful to all.
+
+*(In the next passage the final n-sign of वारान् (*vārān*) and वालान् (*vālān*) is printed as a small mark; both are read as in the bhāṣya on p. 477.)*
+
+> रथ्यः अत्योन वारान् दोधवीति—
+> रथार्हः वाजी यथा दंशवारणसाधनान् वालान् कंपयति तद्वत् अग्निः काष्ठेषु ज्वालाः कंपयति—
+
+> *rathyaḥ atyona vārān dodhavīti—*
+> *rathārhaḥ vājī yathā daṃśavāraṇasādhanān vālān kaṃpayati tadvat agniḥ kāṣṭheṣu jvālāḥ kaṃpayati—*
+
+As a horse that draws the chariot swings its tail to and fro, to drive off the flies and the like that torment its body, so Agni, when he pervades the wood, spreads his flames on every side and makes them tremble. The word अत्य (*atya*) is read by Yāska among the names of the horse (Ni. 2-27, as printed; the file agrees).
+
+The Kannada then adds: In this Ṛk Agni in the form of a forest fire (the "kāḍukiccu") is described. As each man's bodily nourishment is beneficial and pleasant to him, so Agni, when he has grown great and burns wood and the like with a roar, is delightful and gladdening to the people who watch him. An illustration is given here. When gnats settle on a horse's back and bite it, the horse does nothing but swing its tail around to drive them off. In the same way Agni spreads his flames on every side, surrounds trees and the like, and burns them: this is the meaning described here. And it is also said that, although such a sight is terrifying, in one way it is attractive, or even delightful, to look at.
+
+*(A divider "—:O:—" is printed at the bottom of the page. Ṛk 4 is closed; Ṛk 5 follows on p. 479.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 478 (PDF 499). Maṇḍala 2 Sūkta 4: Ṛk 3 closed (Special Topics on p. 476). Ṛk 4 complete (Saṃhitā and Pada on p. 476, bhāṣya, Pratipadārtha, Bhāvārtha and printed English on p. 477, Special Topics on p. 478, then the divider "—:O:—"). Next: Ṛk 5 on p. 479. FILE DISAGREE: none (p. 477 sūtra Pā. 7-4-65 and p. 478 Ni. 2-27 agree; p. 476 has no rows). Not zoomed: headers "Va. 24" (p. 477), Ṛk numeral 4. [?] places: p. 476 ⟦दास्यते/दास्वते⟧, ⟦दाक्षाय्यः⟧, ⟦योगगृहे⟧ (p. 475 has ⟦यागगृहे⟧), ⟦आदिपयति⟧, Saṃhitā ⟦धक्षोः⟧ extra mark, ⟦जिह्वामत्यो⟧; p. 477 bhāṣya ⟦ज्वाला⟧ (no visarga), ⟦रथाहोऽत्यो⟧, tail ⟦युब्योगात्⟧; p. 478 ⟦रण्वा⟧ (virāma unclear) and the ⟦वारान्/वालान्⟧ n-sign.
