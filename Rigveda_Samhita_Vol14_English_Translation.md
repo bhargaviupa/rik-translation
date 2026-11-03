@@ -15095,4 +15095,106 @@ The pious are they who present, as a gift, to the reciters of your praises, an e
 
 ---
 
-**Progress note:** Done through printed p. 427 (PDF 448). PDF 447 is a duplicate of PDF 446 (header "426" on both; noted, not written twice). Maṇḍala 2 Sūkta 1: Ṛk 16 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on pp. 426–427) and Sūkta 1 ends. Sūkta 2 (13 Ṛks, Gṛtsamada, Agni, Jagatī) begun: bhāṣya introduction and the Anuvāda written; the Anuvāda is OPEN, breaking off at "Āśvalāyana's" at the foot of p. 427, to be continued on p. 428 before Ṛk 1. Numeral file: sūtra "आ. ७-४" (Āśvalāyana 7-4) on p. 427 agrees with the strip; no rows for PDF 446–447. No FILE DISAGREE. Not zoomed: header of p. 427 read as "A. 2 A. 5 Va. 20". [?] places: first word of the Ṛk 16 bhāṣya (printed ⟦अनयो⟧, read ⟦अनया⟧ [?]); ⟦स्तुतिनिगम⟧; the Anukramaṇikā words ⟦यज्ञेन सप्ते[?]⟧; ⟦जातवेदस्यनिविद्धानीयमिदं⟧ and ⟦जातवेदस्यनिविद्धानमिदं⟧ as read.
+### Printed p. 428 (PDF 449)
+
+*(Header: "428", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2". The Anuvāda of Sūkta 2 continues from p. 427, then Sūkta 2 begins and Ṛk 1 is given up to the start of its bhāṣya. Numeral file: the one row for this page, the sūtra "Ā. 7-4", agrees with the strip.)*
+
+(Kannada, Anuvāda continued:) "...as Āśvalāyana's Śrauta-sūtra explains, by the sūtra यज्ञेन वर्धतेत्याग्निमारुतं (*yajñena vardhatetyāgnimārutaṃ*) (Ā. ७-४ (*7-4*)). And on the second day of the sacrifices called Pṛṣṭhya and Abhiplava ṣaḍaha, and for the nivid mantras of the deity Jātavedas, the application of this sūkta is indicated by the sentence चातुर्विंशिकं तृतीयसवनं (*cāturviṃśikaṃ tṛtīyasavanaṃ*)."
+
+*(Rule line; then the printed heading.)*
+
+**॥ ओम् ॥** *(printed ॥ ಓಂ ॥)*
+
+#### Sūkta 2
+
+*(Printed heading, in Kannada:)* Maṇḍala 2 · Anuvāka 1 · Sūkta 2 · Aṣṭaka 2 · Adhyāya 5 · Varga 20, 21 · number of Ṛks in the sūkta: 13 · Ṛṣi: गृत्समदः (*gṛtsamadaḥ*) · Devatā: अग्निः (*agniḥ*) · Chandas: जगती (*jagatī*).
+
+**॥ संहितापाठः ॥**
+
+> यज्ञेन वर्धत जातवेदसमग्निं यजध्वं हविषा तना गिरा ।
+> समिधानं सुप्रयसं स्वर्णरं द्युक्षं होतारं वृजनेषु धूर्षदं ॥ १ ॥
+
+> *yajñena vardhata jātavedasamagniṃ yajadhvaṃ haviṣā tanā girā |*
+> *samidhānaṃ suprayasaṃ svarṇaraṃ dyukṣaṃ hotāraṃ vṛjaneṣu dhūrṣadaṃ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> यज्ञेन । वर्धत । जातऽवेदसं । अग्निं । यजध्वं । हविषा । तना । गिरा ।
+> संऽइधानं । सुऽप्रयसं । स्वःऽनरं । द्युक्षं । होतारं । वृजनेषु । धूःऽसदम् ॥ १ ॥
+
+> *yajñena | vardhata | jāta 'vedasaṃ | agniṃ | yajadhvaṃ | haviṣā | tanā | girā |*
+> *saṃ 'idhānaṃ | su 'prayasaṃ | svaḥ 'naraṃ | dyukṣaṃ | hotāraṃ | vṛjaneṣu | dhūḥ 'sadam ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Priests or sacrificers are told to exalt Agni, who knows all that is born, by sacrifice, and to worship him with oblation and praise.
+
+> हे यजमाना ऋत्विजो वा यूयं जातवेदसं जातानां वेदितारं जातधनं जातप्रज्ञं वाग्निं यज्ञेन यागेन वर्धत । प्रवर्धत । सामान्येनोक्त्वा विशेषेणाह । हविषा चरुपुरोडाशादिना तना विस्तृतया [?] गिरा स्तुत्या च यजध्वं । पूजयध्वं ।
+
+> *he yajamānā ṛtvijo vā yūyaṃ jātavedasaṃ jātānāṃ veditāraṃ jātadhanaṃ jātaprajñaṃ vāgniṃ yajñena yāgena vardhata | pravardhata | sāmānyenoktvā viśeṣeṇāha | haviṣā carupuroḍāśādinā tanā vistṛtayā [?] girā stutyā ca yajadhvaṃ | pūjayadhvaṃ |*
+
+*(The bhāṣya continues on p. 429. The word विस्तृतया (*vistṛtayā*) is read from the strip, not zoomed.)*
+
+---
+
+### Printed p. 429 (PDF 450)
+
+*(Header: "A. 2 A. 5 Va. 20", "Ṛgvedasaṃhitā", "429". Ṛk 1: bhāṣya continued, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun. Numeral file: row for this page, "Ni. 3-19", agrees with the strip; the header was read from the strip and not zoomed.)*
+
+**॥ सायणभाष्यम् ॥** *(continued)*
+
+*Gist:* The epithets: kindled; having good food; one who leads sacrificers to heaven; resplendent; priest of the offering; the doer of strength. Strength of body is well known to come from the vigour of fire.
+
+> कीदृशं तं । समिधानं । समिध्यमानं । सुप्रयसं । शोभनान्नं । स्वर्णरं । स्वर्गे नेतव्या यजमाना यस्य तादृशं । यद्वा स्वरिति सर्वपर्यायः । स्तुतीनां नेतारः स्तोतारः । बहुस्तोतारमित्यर्थः । द्युक्षं । दीप्तं द्युनिवासिनं वा । होतारं । होमसंपादकं । वृजनेषु बलेषु धूर्षदं । बलस्य कर्तारमित्यर्थः । अग्निपाटवे सति शरीरबलं भवतीति प्रसिद्धं ॥
+
+> *kīdṛśaṃ taṃ | samidhānaṃ | samidhyamānaṃ | suprayasaṃ | śobhanānnaṃ | svarṇaraṃ | svarge netavyā yajamānā yasya tādṛśaṃ | yadvā svariti sarvaparyāyaḥ | stutīnāṃ netāraḥ stotāraḥ | bahustotāramityarthaḥ | dyukṣaṃ | dīptaṃ dyunivāsinaṃ vā | hotāraṃ | homasaṃpādakaṃ | vṛjaneṣu baleṣu dhūrṣadaṃ | balasya kartāramityarthaḥ | agnipāṭave sati śarīrabalaṃ bhavatīti prasiddhaṃ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+समिधानं (*samidhānaṃ*) — the one who is blazing; सुप्रयसं (*suprayasaṃ*) — the one who has excellent food; स्वर्णरं (*svarṇaraṃ*) — the one who leads (the sacrificers) to heaven; द्युक्षं (*dyukṣaṃ*) — the shining one, or the dweller in the world of heaven; होतारं (*hotāraṃ*) — the accomplisher of the offering; वृजनेषु धूर्षदं (*vṛjaneṣu dhūrṣadaṃ*) — the one who increases the strength of the body; जातवेदसं (*jātavedasaṃ*) — the one of born wisdom (knowing what is born); अग्निं (*agniṃ*) — Agni; यज्ञेन (*yajñena*) — by sacrifice; वर्धत (*vardhata*) — cause (him) to grow; हविषा (*haviṣā*) — with the oblation; तना (*tanā*) — extended; गिरा (*girā*) — also with praise; यजध्वं (*yajadhvaṃ*) — worship.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "Cause Agni, who is blazing, who has excellent food, who leads the sacrificers to heaven, who is shining, who accomplishes the offering, who increases the strength of the body, and who is of born wisdom, to grow by sacrifice. Worship him both with the oblation and with extended praise."
+
+**English Translation** *(as printed)*
+
+Exalt with sacrifice, Agni, who knows all that has been born ; worship him with oblations, and with ample praise ; him who is well kindled, well f[?]d [sic: the letter is blurred in the print], much lauded, resplendent, the conveyer of oblations, the giver gf [sic] strength (to the body).
+
+**विशेषविषयगळु (Special Topics)**
+
+यज्ञेन—यागेन (*yajñena—yāgena*) —
+
+(Kannada:) "Sāyaṇa explains the meaning thus: yajña is the act of offering the substance in the form of oblation into Agni with the deity in view; and the sacrificers who satisfy Agni by this performance make Agni grow."
+
+(Kannada:) "Yāska reads the word yajña among the fifteen names of yajña beginning यज्ञः वेनः (*yajñaḥ venaḥ*) (Ni. ३-१९ (*3-19*)) and says: यज्ञः कस्मात् प्रख्यातं यजति कर्मेति नैरुक्ताः (*yajñaḥ kasmāt prakhyātaṃ yajati karmeti nairuktāḥ*) | या इच्ञ्ये [?] भवतीति वा (*yā icñye [?] bhavatīti vā*), यजुरुन्नतो भवतीति वा (*yajurunnato bhavatīti vā*), बहुकृष्णाजिन इत्यापमन्यवः (*bahukṛṣṇājina ityāpamanyavaḥ*), यजूंष्येनं नयंतीति वा (*yajūṃṣyenaṃ nayaṃtīti vā*). In the world and in the Veda, he explains the sense as the rite that is well known as worshipping deities beginning with Agni through the" *(sentence runs over to p. 430)*
+
+---
+
+### Printed p. 430 (PDF 451)
+
+*(Header: "430", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2". Special Topics of Ṛk 1 continued; open at the foot. Numeral file: rows "Ni. 6-14" and "Ni. 3-9"; the first differs from my reading, see the note at the Agni passage.)*
+
+(Kannada, continued:) "...offering of the oblation. And: याचेनात् यज्ञः (*yācenāt yajñaḥ*), यजुरुन्नो यज्ञः (*yajurunno yajñaḥ*), बहुकृष्णाजिनो यज्ञः (*bahukṛṣṇājino yajñaḥ*) [as printed]. Upamanyu is said to have explained the meaning of the word yajña in three ways: 'yajña' from asking (याचन (*yācana*) [as printed]); from the Yajurveda, through which the rite is performed from the beginning to the end [the Kannada word ಬಹಳನುಟ್ಟಿಗೆ (*ಬಹಳನುಟ್ಟಿಗೆ*) before 'from the beginning' is unclear to me [?]]; and because the black-antelope skin is used much in the various rites, the name yajña has come."
+
+जातवेदसं—जातानां वेदितारं जातधनं जातप्रज्ञं वा (*jātavedasaṃ—jātānāṃ veditāraṃ jātadhanaṃ jātaprajñaṃ vā*) —
+
+(Kannada:) "Sāyaṇa explains this word in three ways: one who knows all that is produced; one who produces wealth (dhana); one who produces and increases knowledge and understanding."
+
+(Kannada:) "The Nirukta-writer says: जातवेदाः कस्मात्, जातानि वेद, जातानि वैनं विदुः, जाते जाते विद्यते इति वा, जातवित्तो जातधनः, जातविद्यो जातप्रज्ञानः (*jātavedāḥ kasmāt, jātāni veda, jātāni vainaṃ viduḥ, jāte jāte vidyate iti vā, jātavitto jātadhanaḥ, jātavidyo jātaprajñānaḥ*). That is, he is omniscient because all that is produced in this world is known to him; he is called Jātavedas because all produced beings know him; because he is not absent in what is produced, he is in all produced things; he produces wealth; and he has by nature unsurpassed knowledge: thus four ways of meaning are explained. Durgācārya explains the derivation, saying that the word जातवेदः (*jātavedaḥ*) is formed from the root जनी प्रादुर्भावे (*janī prādurbhāve*) and from the root विद (*vida*), and cites the Taittirīya-Brāhmaṇa sentence यत्त्रज्ञातः [?] पशूनविंदत तज्ज्ञातवेदसो जातवेदस्त्वं (*yattrajñātaḥ [?] paśūnaviṃdata tajjñātavedaso jātavedastvaṃ*) (not translated in the source)."
+
+अग्निं—अग्निः कस्मात्, अग्रणीर्भवति, अग्रं यज्ञेषु प्रणीयते, अंगं नयति सन्नममानः । अक्नोपनो भवतीति स्थौलाष्ठीविः । त्रिभ्य आख्यातेभ्यो जायत इति शाकपूणिः ॥ (*agniṃ—agniḥ kasmāt, agraṇīrbhavati, agraṃ yajñeṣu praṇīyate, aṃgaṃ nayati sannamamānaḥ | aknopano bhavatīti sthaulāṣṭhīviḥ | tribhya ākhyātebhyo jāyata iti śākapūṇiḥ ‖*) (Ni. ७-१४ (*7-14*) [?]; the numeral file gives 6-14, my reading of the strip is 7-14, not zoomed) —
+
+(Kannada:) "In explaining the meaning of the word agni, Yāska explains it as: the leader in the performance of śrauta and smārta rites; the commander of the gods; the one first produced in sacrifices; and the one who, in worldly and Vedic rites, makes the firewood and the like in which he has taken refuge subject to himself; and he then states the views of Sthaulāṣṭhīvi and Śākapūṇi."
+
+सुप्रयसम्—शोभनान्नं (*suprayasam—śobhanānnaṃ*) —
+
+(Kannada:) "Sāyaṇa explains it as 'one who has food in the form of excellent oblation'. Among the twenty-eight names of food (Ni. ३-९ (*3-9*), file agrees; not zoomed) Yāska has read the word प्रयस् (*prayas*)."
+
+स्वर्णरं—स्वर्गे नेतव्या यजमाना यस्य तादृशम् । यद्वा स्वरिति सर्वपर्यायः स्तुतीनां नेतारः स्तोतारः बहुस्तोतारं ॥ (*svarṇaraṃ—svarge netavyā yajamānā yasya tādṛśam | yadvā svariti sarvaparyāyaḥ stutīnāṃ netāraḥ stotāraḥ bahustotāraṃ ‖*) — (Kannada:) "The sacrificers to heaven" *(the passage runs over to p. 431; Ṛk 1 is left open in its Special Topics)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 430 (PDF 451). Maṇḍala 2 Sūkta 2: the Anuvāda is finished (p. 428); Ṛk 1 is OPEN in its Special Topics, breaking off in the passage on ⟦स्वर्णरं⟧ at the foot of p. 430 ("The sacrificers to heaven…"), to be continued on p. 431; Ṛk 1's bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. FILE DISAGREE: the Nirukta reference after the Agni passage on p. 430, file said 6-14, my reading 7-14 [?], not zoomed (no zoom available). Numeral file agreed on Ā. 7-4 (p. 428), Ni. 3-19 (p. 429), Ni. 3-9 (p. 430). Not zoomed: headers (p. 429 "Va. 20"; the Sūkta 2 heading: Adhyāya 5, Varga 20, 21, Ṛk count 13). [?] places: ⟦विस्तृतया⟧ in the bhāṣya; ⟦या इच्ञ्ये⟧ in the Nirukta quotation on p. 429; the Kannada word ⟦ಬಹಳನುಟ್ಟಿಗೆ⟧ on p. 430; the first word of the Taittirīya-Brāhmaṇa quotation (⟦यत्त्रज्ञातः⟧) on p. 430; the blurred letter in "well f[?]d" in the printed English.
