@@ -16446,4 +16446,130 @@ Divine grass, let the Vasus, the Vishwedevas, the adorable Adityas, sit upon thi
 
 ---
 
-**Progress note:** Done through printed p. 460 (PDF 481). Maṇḍala 2 Sūkta 3: Ṛk 2 finished (Bhāvārtha, printed English; no Special Topics). Ṛks 3 and 4 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics printed). Ṛk 5 is OPEN: only the Saṃhitā is written (p. 460); Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English follow on p. 461. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: header "Va. 22" on p. 459 (read as 22 [?], p. 457 was read as 23, so possibly misread), sūkta heading "Varga 22, 23" [?] still unchecked. [?] places: ಯುಗಾರ್ಹ in the Bhāvārtha of Ṛk 3 (probably misprint for yāgārha); बर्हिःऽसदं in the Pada of Ṛk 3.
+### Printed p. 461 (PDF 482)
+
+*(Header: "A. 2 A. 5 Va. 22" [?, read from the strip, not zoomed], "Ṛgvedasaṃhitā", "461". The numeral file has no rows for this page. The page continues Ṛk 5.)*
+
+**॥ पदपाठः ॥**
+
+> वि । श्रयंतां । उर्विया । हूयमानाः । द्वारः । देवीः । सुप्रऽअयनाः । नमःऽभिः ।
+> व्यचस्वतीः । वि । प्रथंतां । अजुर्याः । वर्णं । पुनानाः । यशसं । सुवीरं ॥ ५ ॥
+
+> *vi | śrayaṃtāṃ | urviyā | hūyamānāḥ | dvāraḥ | devīḥ | supra 'ayanāḥ | namaḥ 'bhiḥ |*
+> *vyacasvatīḥ | vi | prathaṃtāṃ | ajuryāḥ | varṇaṃ | punānāḥ | yaśasaṃ | suvīraṃ ‖ 5 ‖*
+
+*(The compound marks in सुप्रऽअयनाः and नमःऽभिः are printed as the small subscript stroke. The Pada has सुप्रऽअयनाः where the bhāṣya later has सुप्रायणाः.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The door-goddesses of the sacrifice are asked to open wide, being great, easy to approach and called with salutations; and the pervasive, uninjured goddesses, who purify and bestow glorious, heroic splendour on the sacrificer, are asked to be widely famed.
+
+> द्वारो देवीरग्नेर्द्वाराभिमानिन्यो देव्यो विश्रयंतां । विविच्य श्रयंतां । विवृतापिधाना भवंतु । कीदृश्यस्ताः । उर्विया । उर्व्यो महत्यः । नमोभिर्नमस्कारोपेतैः स्तोत्रैर्हूयमानाः । सुप्रायणाः । सुष्ठु प्रकर्षेण गंतव्याः । ईदृश्यो देव्यो विश्रयंतां । किंच व्यचस्वतीर्व्याप्तिमत्योऽजुर्या अहिंस्या अजनना वा सुवीरं शोभनपुत्राद्युपेतं यशसं यशोयुक्तं वर्णं वर्णनीयं रूपविशेषं पुनाना यजमानाय शोधयित्र्यः संपादयित्र्यो देव्यो विप्रथंतां । विशेषेण प्रख्याता भवंतु ॥
+
+> *dvāro devīragnerdvārābhimāninyo devyo viśrayaṃtāṃ | vivicya śrayaṃtāṃ | vivṛtāpidhānā bhavaṃtu | kīdṛśyastāḥ | urviyā | urvyo mahatyaḥ | namobhirnamaskāropetaiḥ stotrairhūyamānāḥ | suprāyaṇāḥ | suṣṭhu prakarṣeṇa gaṃtavyāḥ | īdṛśyo devyo viśrayaṃtāṃ | kiṃca vyacasvatīrvyāptimatyo 'juryā ahiṃsyā ajananā vā suvīraṃ śobhanaputrādyupetaṃ yaśasaṃ yaśoyuktaṃ varṇaṃ varṇanīyaṃ rūpaviśeṣaṃ punānā yajamānāya śodhayitryaḥ saṃpādayitryo devyo viprathaṃtāṃ | viśeṣeṇa prakhyātā bhavaṃtu ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 5)**
+
+(Kannada, translated:) उर्विया (*urviyā*) — endowed with greatness; नमोभिः (*namobhiḥ*) — with salutations; हूयमानाः (*hūyamānāḥ*) — those who are called; सुप्रायणाः (*suprāyaṇāḥ*) — those who are to be approached easily; देवीः द्वारः (*devīḥ dvāraḥ*) — the door-goddesses; विश्रयंतां (*viśrayaṃtāṃ*) — let them open fully; व्यचस्वतीः (*vyacasvatīḥ*) — those of pervasive form; अजुर्याः (*ajuryāḥ*) — non-injurers; सुवीरं (*suvīraṃ*) — that which is endowed with heroic sons and the like; यशसं (*yaśasaṃ*) — that which is endowed with fame; वर्णं (*varṇaṃ*) — that which is praiseworthy, the wealth; पुनानाः (*punānāḥ*) — goddesses who give (it) to the sacrificer; वि प्रथंतां (*vi prathaṃtāṃ*) — let them be praised.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "Let the door-goddesses, endowed with greatness, to be called with salutations, easy to approach, open fully. Let the goddesses of pervasive nature, non-injurers, who give to the sacrificer wealth endowed with heroic sons and the like and with fame, be praised."
+
+**English Translation** *(as printed)*
+
+Let the divine doors, spacious and easily accessible, and to be saluted with prostrations, be set open: let them be celebrated as expansive, uninjurable and conferring sanctity upon the illustrious class (of worshippers), possessed of virtuous progeny.
+
+*(No Special Topics are printed for Ṛk 5.)*
+
+---
+
+### Printed p. 462 (PDF 483)
+
+*(Header: "462", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> साध्वपांसि सनता न उक्षिते उषासानक्ता वय्येव रण्विते ।
+> तंतुं ततं संवयंती समीची यज्ञस्य पेशः सुदुघे पयस्वती ॥ ६ ॥
+
+> *sādhvapāṃsi sanatā na ukṣite uṣāsānaktā vayyeva raṇvite |*
+> *taṃtuṃ tataṃ saṃvayaṃtī samīcī yajñasya peśaḥ sudughe payasvatī ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> साधु । अपांसि । सनता । नः । उक्षिते इति । उषसानक्ता । वय्या इव । रण्विते इति ।
+> तंतुं । ततं । संवयंती इति सम्ऽवयंती । समीची इति सम्ऽईची । यज्ञस्य ।
+> पेशः । सुदुघे इति सुऽदुघे । पयस्वती इति ॥ ६ ॥
+
+> *sādhu | apāṃsi | sanatā | naḥ | ukṣite iti | uṣasānaktā | vayyā iva | raṇvite iti |*
+> *taṃtuṃ | tataṃ | saṃvayaṃtī iti sam 'vayaṃtī | samīcī iti sam 'īcī | yajñasya |*
+> *peśaḥ | sudughe iti su 'dughe | payasvatī iti ‖ 6 ‖*
+
+*(Read as printed: the Pada has उषसानक्ता where the Saṃhitā has उषासानक्ता; the Pada's वय्या is followed by a small stroke before इव, read here as the word-division वय्या इव.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The goddesses Day and Night, ever-worshipped, weave for us the stretched thread of the sacrifice like two weaving women, mutually favourable, yielding fruit and water.
+
+> साधु साधूनि नोऽस्मदीयान्यपांसि कर्माण्युद्दिश्य सनता सनातनेनाविच्छिन्नप्रवृत्तिकेन स्तोत्रादिनोक्षिते पूजिते । यद्वा पुराणवाची विभक्त्यंतः सनच्छब्दोऽस्ति । तस्य प्रथमाद्विवचनस्याकारः । सनातने नित्ये इत्यर्थः । अस्मिन्पक्ष उक्षिते फलस्य सेचयित्र्यौ ॥ कर्तरि निष्ठा ॥ उषासानक्ताहोरात्रदेवते वय्या इव वानकुशले इव रण्विते शब्दिते स्तुते परस्परं गच्छंत्यौ वा ततं विस्तृतं तंतुं तंतुस्थानीयं यज्ञावयवं संवयंती सम्यक् चित्रं सह वा वयंत्यावुत्पादयित्र्यौ समीची सम्यक्प्रवृत्तिके परस्परानुकूले । किमर्थं संवयंती । यज्ञस्यानुष्ठीयमानस्य पेशो रूपं निर्मातुमिति शेषः । यज्ञं निर्वर्तयितुं तदवयवानुक्रमेणानुष्ठापयित्र्यावित्यर्थः । अहोरात्राभ्यां हि यज्ञास्तन्यंते । सुदुघे सुष्ठु फलस्य दोग्ध्र्यौ [?] पयस्वती उदकवत्यौ । अहोरात्राभ्यां खलु वृष्टिर्जायते । एवं महासुभावे अहोरात्रदेवते अस्मद्यज्ञं निर्वहतामित्यर्थः ॥
+
+> *sādhu sādhūni no 'smadīyānyapāṃsi karmāṇyuddiśya sanatā sanātanenāvicchinnapravṛttikena stotrādinokṣite pūjite | yadvā purāṇavācī vibhaktyaṃtaḥ sanacchabdo 'sti | tasya prathamādvivacanasyākāraḥ | sanātane nitye ityarthaḥ | asminpakṣa ukṣite phalasya secayitryau ‖ kartari niṣṭhā ‖ uṣāsānaktāhorātradevate vayyā iva vānakuśale iva raṇvite śabdite stute parasparaṃ gacchaṃtyau vā tataṃ vistṛtaṃ taṃtuṃ taṃtusthānīyaṃ yajñāvayavaṃ saṃvayaṃtī samyak citraṃ saha vā vayaṃtyāvutpādayitryau samīcī samyakpravṛttike parasparānukūle | kimarthaṃ saṃvayaṃtī | yajñasyānuṣṭhīyamānasya peśo rūpaṃ nirmātumiti śeṣaḥ | yajñaṃ nirvartayituṃ tadavayavānukrameṇānuṣṭhāpayitryāvityarthaḥ | ahorātrābhyāṃ hi yajñāstanyaṃte | sudughe suṣṭhu phalasya dogdhryau [?] payasvatī udakavatyau | ahorātrābhyāṃ khalu vṛṣṭirjāyate | evaṃ mahāsubhāve ahorātradevate asmadyajñaṃ nirvahatāmityarthaḥ ‖*
+
+*(In the printing of दोग्ध्र्यौ the letters are blurred: [?]. The sentence कर्तरि निष्ठा is a grammatical remark that the participle उक्षिते has the active sense; no sūtra numbers printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6)**
+
+(Kannada, translated:) सनता (*sanatā*) — ancient women; उक्षिते (*ukṣite*) — those who shower fruit; [or सनता (*sanatā*) — with hymns; उक्षिते (*ukṣite*) — those who are worshipped;] सुदुघे (*sudughe*) — those who milk out desired objects; पयस्वती (*payasvatī*) — those who possess water, both; उषासानक्ता (*uṣāsānaktā*) — the deities Day and Night; यज्ञस्य (*yajñasya*) — of the sacrifice;
+
+*(The Pratipadārtha continues on p. 463.)*
+
+---
+
+### Printed p. 463 (PDF 484)
+
+*(Header: "A. 2 A. 5 Va. 23" [?, read from the strip, not zoomed; p. 461 was read as 22], "Ṛgvedasaṃhitā", "463". The numeral file has no rows for this page.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6, continued)**
+
+(Kannada, translated:) पेशः (*peśaḥ*) — the form (in order to build); साधु (*sādhu*) — excellent; नः (*naḥ*) — our; अपांसि (*apāṃsi*) — deeds, with reference to; ततं (*tataṃ*) — extended; तंतुं (*taṃtuṃ*) — the part of the sacrifice that stands in the place of the thread; रण्विते (*raṇvite*) — working together; वय्या इव (*vayyā iva*) — like weaving women; समीची (*samīcī*) — mutually favourable; संवयंती (*saṃvayaṃtī*) — they carry out the sacrifice.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "The deities Day and Night, ancient, bestowers of fruit, who sprinkle (what is desired) for the worshippers and possess water, in order to build the form of the sacrifice, with reference to our excellent deeds, work together like weaving women on the extended thread-like part of the sacrifice, and carry out the sacrifice, mutually favourable."
+
+**English Translation** *(as printed)*
+
+In regard of our good deeds, Day and Night, perpetually reverenced, are interweaving in concert, like two famous female weavers, the extended, thread (to complete) the web of the sacrifice, liberal yielders (of rewards) containers of water.
+
+*(The comma after "extended" is as printed. No Special Topics are printed for Ṛk 6.)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> दैव्या होतारा प्रथमा विदुष्टर ऋजु यक्षतः सम्ऋचा वपुष्टरा ।
+> देवान्यजंतावृतुथा समंजतो नाभा पृथिव्या अधि सानुषु त्रिषु ॥ ७ ॥
+
+> *daivyā hotārā prathamā viduṣṭara ṛju yakṣataḥ samṛcā vapuṣṭarā |*
+> *devānyajaṃtāvṛtuthā samaṃjato nābhā pṛthivyā adhi sānuṣu triṣu ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> दैव्या । होतारा । प्रथमा । विदुःऽतरा । ऋजु । यक्षतः । सं । ऋचा । वपुःऽतरा ।
+> देवान् । यजंता । ऋतुऽथा । सं । अंजतः । नाभा । पृथिव्याः । अधि । सानुषु ।
+> त्रिषु ॥ ७ ॥
+
+> *daivyā | hotārā | prathamā | viduḥ 'tarā | ṛju | yakṣataḥ | saṃ | ṛcā | vapuḥ 'tarā |*
+> *devān | yajaṃtā | ṛtu 'thā | saṃ | aṃjataḥ | nābhā | pṛthivyāḥ | adhi | sānuṣu |*
+> *triṣu ‖ 7 ‖*
+
+*(Numeral: the Saṃhitā has 7; in the Pada the printed numeral looks like ४ [?], not zoomed, read as 7 by the sequence. The compound marks in विदुःऽतरा, वपुःऽतरा, ऋतुऽथा are the printed small subscript stroke.)*
+
+*(The bhāṣya of Ṛk 7 follows on p. 464.)*
+
+---
+
+**Progress note:** Done through printed p. 463 (PDF 484). Maṇḍala 2 Sūkta 3: Ṛk 5 finished (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics). Ṛk 6 complete. Ṛk 7 is OPEN: Saṃhitā and Pada written (p. 463); bhāṣya, Pratipadārtha, Bhāvārtha, printed English follow on p. 464. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: headers "Va. 22" (p. 461) and "Va. 23" (p. 463) read from the strips; the Pada numeral of Ṛk 7 looks like ४ [?]. [?] places: दोग्ध्र्यौ in the bhāṣya of Ṛk 6 (blurred); Pada word उषसानक्ता (differs from the Saṃhitā उषासानक्ता, written as seen).
