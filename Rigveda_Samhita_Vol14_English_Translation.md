@@ -18423,4 +18423,130 @@ This Ṛk is of the nature of a conclusion to this sūkta. The prayer is stated 
 
 ---
 
-**Progress note:** Done through printed p. 505 (PDF 526). Maṇḍala 2 Sūkta 5: Ṛk 7 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; closed on p. 504 with a ":o:" divider). Ṛk 8 begun on p. 504 (Saṃhitā, Pada, bhāṣya start) and continued on p. 505 (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); **Ṛk 8 is open: its Special Topics break off mid-sentence at the foot of p. 505 ("…ನಿನಗೂ (ಅಗ್ನಿಗೂ) ಸಂತೋಷವುಂಟಾಗುವಂತೆ"), continuing on p. 506**; the sūkta's closing colophon/varga note has not yet appeared. FILE DISAGREE: none (the numeral file has no rows for pp. 503–505). Not zoomed: headers (Varga 26 on pp. 503 and 505), Ṛk numerals 7 and 8. [?] places: p. 503 Saṃhitā ⟦कृणुतान्ऋत्विगृत्विजं⟧ (a न् seems printed before ऋ); bhāṣya ⟦योगमुप्यैरमलमत्यर्थं⟧; p. 505 bhāṣya ⟦तस्यैव⟧ (doubtful).
+*(Printed p. 506 (PDF 527), Header: "506", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 6", read from the strip, not zoomed. The numeral file has no rows for this page. The first lines continue the Special Topics of Ṛk 8 from p. 505.)*
+
+### Printed p. 506 (PDF 527)
+
+…(that joy may arise in you, Agni), and that you may favour us so that we may perform the sacrifice: "this sacrifice we shall perform for Agni's pleasure; therefore you yourself, aiming at all the deities, in the form of the respective ṛtvijs, must carry out the sacrificial works completely" — thus Agni is prayed. *(Kannada, translated.)*
+
+*(Ṛk 8 and Sūkta 5 end here. A short rule is printed.)*
+
+---
+
+## Sūkta 6 (the sixth sūkta)
+
+**॥ सायणभाष्यम् ॥ (introduction to Sūkta 6)**
+
+*Gist:* Sūkta 6 has eight Ṛks, ṛṣi Somāhuti Bhārgava, deity Agni, metre Gāyatrī; it is used at the Prātaranuvāka and Āśvina-śastra, and at the Upasad rite in the afternoon (as the Sāmidhenī verses).
+
+> इमां म इत्यष्टर्चं षष्ठं सूक्तं सोमाहुत्यार्षमाग्नेयं गायत्रं । इमां मे गायत्रं हीत्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छंदस्यस्य विनियोगः । सूत्रितं च । इमां मे अग्ने समिधमिमामिति त्रयाणामुत्तमामुद्धरेत् । आ. ४-१३ [?] । इति ॥ अपराह्णिक्यामुपसदीमां मे अग्ने समिधमिति तिस्र ऋचस्त्रिरभ्यस्ता नव सामिधेन्यः कृत्वा विनियोक्तव्याः । अथोपसदिति खंडे सूत्रितं । इमां मे अग्ने समिधमिमामिति तु सामिधेन्यः । आ. ४-८ । इति ॥
+
+> *imāṃ ma ityaṣṭarcaṃ ṣaṣṭhaṃ sūktaṃ somāhutyārṣamāgneyaṃ gāyatraṃ | imāṃ me gāyatraṃ hītyanukrāṃtaṃ ‖ prātaranuvākāśvinaśastrayorgāyatre chaṃdasyasya viniyogaḥ | sūtritaṃ ca | imāṃ me agne samidhamimāmiti trayāṇāmuttamāmuddharet | ā. 4-13 [?] | iti ‖ aparāhṇikyāmupasadīmāṃ me agne samidhamiti tisra ṛcastrirabhyastā nava sāmidhenyaḥ kṛtvā viniyoktavyāḥ | athopasaditi khaṃḍe sūtritaṃ | imāṃ me agne samidhamimāmiti tu sāmidhenyaḥ | ā. 4-8 | iti ‖*
+
+*(The two Āśvalāyana-sūtra references are given as printed: "Ā. 4-13" [?] (the second numeral doubtful, not zoomed) and "Ā. 4-8".)*
+
+**Anuvāda (Kannada, translated):** This sūkta beginning इमां मे (*imāṃ me*) is the sixth sūkta in the first Anuvāka. It has eight Ṛks. The ṛṣi is the same Somāhuti Bhārgava who was the ṛṣi of the preceding sūkta; the deity is Agni; the metre Gāyatrī. In the Anukramaṇikā it is said: इमां मे गायत्रं हि (*imāṃ me gāyatraṃ hi*). The employment (viniyoga) of this sūkta, for the Gāyatrī-metre Ṛks at the time of the Prātaranuvāka and of reciting the Āśvina-śastra mantras, is explained by the sūtra of the Āśvalāyana Śrauta-sūtra: इमां मे समिधमिमामिति त्रयाणामुत्तमामुद्धरेत् (*imāṃ me samidhamimāmiti trayāṇāmuttamāmuddharet*) (Ā. 4-13 [?]). And at the Upasad rite performed at the afternoon time, the three Ṛks of this sūkta beginning इमां मे अग्ने समिधं (*imāṃ me agne samidhaṃ*), each recited three times, are to be used as nine Ṛks called Sāmidhenī; this is explained by the sūtra in the section of the Āśvalāyana Śrauta-sūtra called अथोपसत् (*athopasat*): इमां मे अग्ने समिधमिमामिति तु सामिधेन्यः (*imāṃ me agne samidhamimāmiti tu sāmidhenyaḥ*) (Ā. 4-8).
+
+**॥ ॐ ॥**
+
+**सूक्त—६ (Sūkta 6)**
+
+Maṇḍala 2 · Anuvāka 1 · Sūkta 6 · Aṣṭaka 2 · Adhyāya 5 · Varga 27 *(numeral read from the strip, not zoomed [?])* · Number of Ṛks in the sūkta: 8.
+
+ऋषिः—सोमाहुतिभार्गवः (*Ṛṣi: Somāhuti Bhārgava*). देवता—अग्निः (*Devatā: Agni*). छंदः—गायत्री (*Chandas: Gāyatrī*).
+
+### Printed p. 507 (PDF 528)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 27 ]" [numeral not zoomed [?]], "Ṛgvedasaṃhitā", "507". The numeral file has no rows for this page. Accent marks are not reproduced.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> इमां मे अग्ने समिधमिमामुपसदं वनेः ।
+> इमा उ षु श्रुधी गिरः ॥ १ ॥
+
+> *imāṃ me agne samidhamimāmupasadaṃ vaneḥ |*
+> *imā u ṣu śrudhī giraḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> इमां । मे । अग्ने । सम्ऽइधं । इमां । उपऽसदं । वनेः इति वनेः ।
+> इमाः । ऊं इति । सु । श्रुधि । गिरः ॥ १ ॥
+
+> *imāṃ | me | agne | sam 'idhaṃ | imāṃ | upa 'sadaṃ | vaneḥ iti vaneḥ |*
+> *imāḥ | ūṃ iti | su | śrudhi | giraḥ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 1)**
+
+*Gist:* Agni, accept my fuel-stick and the oblation of the Upasad rite, and hear these praises well.
+
+> हे अग्ने मे मदीयामिमामाधीयमानां समिधं इमामुपसदमुपसदनसाधनामाहुतिमुपसद्यागे क्रियमाणां वा वनेः । संभजेथाः । तथेमा उ इमा अपि गिरः स्तुतीः सु सुष्ठु श्रुधि । शृणु ॥
+
+> *he agne me madīyāmimāmādhīyamānāṃ samidhaṃ imāmupasadamupasadanasādhanāmāhutimupasadyāge kriyamāṇāṃ vā vaneḥ | saṃbhajethāḥ | tathemā u imā api giraḥ stutīḥ su suṣṭhu śrudhi | śṛṇu ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 1)**
+
+(Kannada, translated:) अग्ने (अग्ने (*agne*)) — O Agni; मे (मे (*me*)) — my (offered by me); इमां समिधं (इमां समिधं (*imāṃ samidhaṃ*)) — this fuel-stick too; इमां उपसदं (इमां उपसदं (*imāṃ upasadaṃ*)) — this oblation, which is an adjunct of the Upasad rite; वनेः (वनेः (*vaneḥ*)) — accept and enjoy; इमा उ गिरः (इमा उ गिरः (*imā u giraḥ*)) — these praises also; सु श्रुधि (सु श्रुधि (*su śrudhi*)) — listen with regard (abhimāna).
+
+**भावार्थ (Bhāvārtha — Ṛk 1)**
+
+(Kannada, translated:) O Agni, accept this fuel-stick offered by me and this oblation which is an adjunct of the Upasad rite. Listen also to these praises with regard.
+
+**English Translation** *(as printed, Ṛk 1)*
+
+Agni, accept this my fuel, this my oblation ; listen, well pleased, to my praises.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated.)
+
+**उपसदं (उपसदं (*upasadaṃ*))** — उपसत् (*upasat*) is said to be an important part of the Jyotiṣṭoma sacrifice.
+
+**समिधं (समिधं (*samidhaṃ*))** — इंध् दीप्तौ (*iṃdh dīptau*) (the root *indh*, to shine). The word, formed from the root meaning "shine well, burn", is the name of the tips of certain dry trees that burn well. When offering into the fire, they are the small dry twig-ends that have fallen beneath certain trees fit for sacrifice, such as the aśvattha (peepal). They are thinner than about a little finger and four to six inches long. The tip (end) part of this is called the "front part" (agrabhāga). Samits furnished with such a front part are used for offering into the fire. While offering the samit certain prescribed Ṛks are recited; these are called Sāmidhenī mantras. They are seventeen in number. *(The passage runs over to p. 508 with "Agni-yalli / hōma-māḍuvāga".)*
+
+### Printed p. 508 (PDF 529)
+
+*(Header: "508", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 6", read from the strip, not zoomed. The numeral file has no rows for this page. The Special Topics of Ṛk 1 continue from p. 507; the Nirukta references below are read from the strip, not zoomed, and are doubtful [?].)*
+
+**(Special Topics, Ṛk 1, continued)**
+
+…(on p. 507 the text reads "in the fire"; here it continues:) while offering into the fire…, as described above.
+
+**गिरः (गिरः (*giraḥ*))** — Hymns of praise in the form of sentences or in the form of Ṛks. Yāska has recorded the word गीः (*gīḥ*) among the names of speech (*vāṅnāmāni*) (Ni. 2-23 [?]). And गिरः—स्तुतयो गिरो गृणातेः (*giraḥ—stutayo giro gṛṇāteḥ*) (Ni. 1-10 [?], printed as "1 10"): the word गिरः (*giraḥ*) is formed from the root गृ शब्दे (*gṛ śabde*). गिरः (*giraḥ*) means praises. There is also the etymology गृणातिः स्तुतिकर्मा (*gṛṇātiḥ stutikarmā*) (Ni. 3-5 [?]). Besides, there is the etymology गिरा—गीत्या स्तुत्या (*girā—gītyā stutyā*) (Ni. 6-24 [?] and Ni. 10-5 [?]); hence गिरः (*giraḥ*) means hymns of praise. *(Kannada, translated.)*
+
+*(A short rule is printed here, ending the Special Topics of Ṛk 1.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अया ते अग्ने विधेमोर्जो नपादश्वमिष्टे ।
+> एना सूक्तेन सुजात ॥ २ ॥
+
+> *ayā te agne vidhemorjo napādaśvamiṣṭe |*
+> *enā sūktena sujāta ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> अया । ते । अग्ने । विधेम । ऊर्जः । नपात् । अश्वंऽइष्टे ।
+> एना । सुऽउक्तेन । सुऽजात ॥ २ ॥
+
+> *ayā | te | agne | vidhema | ūrjaḥ | napāt | aśvaṃ 'iṣṭe |*
+> *enā | su 'uktena | su 'jāta ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 2)**
+
+*Gist:* Agni, we serve you with this oblation; you are the son of strength and lord of the swift sacrifice, well-born; we please you with this hymn.
+
+> हे अग्ने ते त्वामयानयाहुत्या विधेम । परिचरेम । हे ऊर्जो नपात् बलस्य नस्तः [?] तस्य नपातयितर्वा हे अश्वमिष्टे व्यापकयज्ञ । यद्वा आशु क्रियमाणं कर्माश्वं । तदिच्छतीत्यश्वमिष्टिः । संत्वरमाणा ह्युपसदमाचरंति । ते कर्मभिः समुत्वरंत ते तिस्रः सामिधेनीरनूच्य तिस्रो देवता अयजन्निति ब्राह्मणं । ऐ. ब्रा. ३-४३ [?] । तादृशाग्ने ते त्वामयानयाहुत्या विधेम । परिचरेम । तथा हे सुजात शोभनजनन एना एतेन सूक्तेन स्तोत्रेण प्रीणयेमेति शेषः । यद्वा स्तुत्युपबृंहितेन विधेम ॥
+
+> *he agne te tvāmayānayāhutyā vidhema | paricarema | he ūrjo napāt balasya nastaḥ [?] tasya napātayitarvā he aśvamiṣṭe vyāpakayajña | yadvā āśu kriyamāṇaṃ karmāśvaṃ | tadicchatītyaśvamiṣṭiḥ | saṃtvaramāṇā hyupasadamācaraṃti | te karmabhiḥ samutvaraṃta te tisraḥ sāmidhenīranūcya tisro devatā ayajanniti brāhmaṇaṃ | ai. brā. 3-43 [?] | tādṛśāgne te tvāmayānayāhutyā vidhema | paricarema | tathā he sujāta śobhanajanana enā etena sūktena stotreṇa prīṇayemeti śeṣaḥ | yadvā stutyupabṛṃhitena vidhema ‖*
+
+*(The word नस्तः (नस्तः (*nastaḥ*)) is given as printed [?]; the sense requires "grandson/son" (नप्तः), but I do not alter the print. The Aitareya-Brāhmaṇa reference is read "3-43" [?], numerals not zoomed. Ṛk 2 is left open: its Pratipadārtha and the rest continue on p. 509.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 508 (PDF 529). Maṇḍala 2: Sūkta 5 closed on p. 506 (Ṛk 8 Special Topics completed). Sūkta 6 begun on p. 506 (introduction/anuvāda, heading block: 8 Ṛks, Somāhuti Bhārgava, Agni, Gāyatrī, Varga 27). Ṛk 1 complete on pp. 507–508 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics). Ṛk 2 begun on p. 508 (Saṃhitā, Pada, Sāyaṇa-bhāṣya through the final ⟦विधेम⟧); **Ṛk 2 is open: Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on p. 509.** FILE DISAGREE: none (the numeral file has no rows for pp. 506–508). Not zoomed: Varga 27 on p. 507 header and in the heading block; Ā. 4-13 (pp. 506), Ṛk numerals; Nirukta references on p. 508 (all [?]); Ai. Brā. 3-43 [?]. [?] places: p. 508 bhāṣya ⟦नस्तः⟧ (as printed; probably meant नप्तः).
