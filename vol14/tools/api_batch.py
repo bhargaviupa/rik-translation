@@ -61,6 +61,18 @@ def main():
         t0=open(cf,encoding='utf8').read(); t0=re.sub(r'(\n> [^\n]*[\u0900-\u097F][^\n]*)\n\n(\*\()',r'\1\n\nXXPHXX\2',t0); open(cf,'w',encoding='utf8').write(t0)
         sh(f'python3 publish/tools/translit/add_iast.py {cf}'); chunk=open(cf,encoding='utf8').read().replace('XXPHXX','')
         open(cf,'w',encoding='utf8').write(chunk)
+        try:
+            sys.path.insert(0,os.path.join(V,'tools')); import accents
+            st={'ptr':accents.ptr_from_file(open(EN,encoding='utf8').read())}
+            c2,arep=accents.apply_text(chunk,st); assert accents.strip_ac(c2)==chunk
+            chunk=c2; open(cf,'w',encoding='utf8').write(chunk)
+            bad=[r for r in arep if r[0] in ('NOMATCH','ABORT')]
+            print('accents: lines done',sum(1 for r in arep if r[0]=='OK'),'unmatched',len(bad),bad[:3])
+            rows=accents.diff_rows(arep,chunk)
+            if rows:
+                with open(os.path.join(V,'review','accent_ref_differences.tsv'),'a',encoding='utf8') as o:
+                    for rid,ours,ref,d in rows: o.write(f'{rid}\t{ours}\t{ref}\t{d}\n')
+        except Exception as e: print('accents skipped:',type(e).__name__,e)
         nd=len(re.findall(r'^> .*[ऀ-ॿ]',chunk,re.M)); ni=len(re.findall(r'^> \*',chunk,re.M))
         print('Devanagari blockquote lines',nd,'IAST lines',ni)
         miss=[p for p in pages if f'(PDF {p})' not in chunk and not re.search(rf'PDF {p}[^\n]{{0,80}}duplicate|duplicate[^\n]{{0,120}}PDF {p}',chunk)]
