@@ -15536,4 +15536,124 @@ May he, the presenter of oblations (to the gods), be around all sacrifices ; men
 
 ---
 
-**Progress note:** Done through printed p. 439 (PDF 460). Maṇḍala 2 Sūkta 2: Ṛk 4 is complete (Pratipadārtha concluded, Bhāvārtha, printed English, Special Topics, ending on p. 438 with the Nighaṇṭu reference 3-13). Ṛk 5 is OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English written; Special Topics begun (होता, हिरिशिप्रः with the Ṛ. Saṃ. 5-54-11 citation, वृधसानासु जर्भुरत्) and continue on p. 440 with the remaining words of the Ṛk. Numeral file: Ni. 2-10, 2-18, 3-22, 2-13 (p. 437), Ni. 3-13 and 5.54.11 (p. 438), Ṛ. Saṃ. 5-54-11 (p. 439) all agree with the strips; its row "2.4.1" on p. 438 is a header misread (strip reads "Maṃ. 2 A. 1 Sū. 2"). Not zoomed: the headers of all three pages. [?] places: bhāṣya ⟦शत्रंतं⟧ (p. 438), Pada ⟦स्तृभिः⟧ (subscript mark), the missing bar in Pada ⟦अध्वरं तं⟧, and the Special Topics word ⟦दर्ह⟧ (p. 439, kept as printed).
+### Printed p. 440 (PDF 461)
+
+*(Header: "440", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2" as read from the strip, not zoomed. The numeral file has no rows for this page. Ṛk 5: the Special Topics conclude. Ṛk 6: Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha.)*
+
+*(Special Topics of Ṛk 5, continued from p. 439. The remaining words of the Ṛk are taken up; the Sanskrit of the heading is as printed.)*
+
+द्यौ स्तृभिर्न रोदसी अनु चितयत् (*dyau stṛbhirna rodasī anu citayat*) — नक्षत्रैरिव ज्वालाभिः विस्फुलिंगैश्च भुवमंतरिक्षं च व्याप्नोति (*nakṣatrairiva jvālābhiḥ visphuliṃgaiśca bhuvamaṃtarikṣaṃ ca vyāpnoti*) —
+
+(Kannada:) "Agni, as the stars pervade the antarikṣa, is described as pervading the earth and the antarikṣa with his flames and with his sparks."
+
+*(Rule line.)*
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> स नो रेवत्समिधानः स्वस्तये संददस्वान्रयिमस्मासु दीदिहि ।
+> आ नः कृणुष्व सुविताय रोदसी अग्ने हव्या मनुषो देव वीतये ॥ ६ ॥
+
+> *sa no revatsamidhānaḥ svastaye saṃdadasvānrayimasmāsu dīdihi |*
+> *ā naḥ kṛṇuṣva suvitāya rodasī agne havyā manuṣo deva vītaye ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । नः । रेवत् । संऽइधानः । स्वस्तये । संऽददस्वान् । रयिं । अस्मासु । दीदिहि ।
+> आ । नः । कृणुष्व । सुविताय । रोदसी इति । अग्ने । हव्या । मनुषः । देव । वीतये ॥ ६ ॥
+
+> *saḥ | naḥ | revat | saṃ 'idhānaḥ | svastaye | saṃ 'dadasvān | rayiṃ | asmāsu | dīdihi |*
+> *ā | naḥ | kṛṇuṣva | suvitāya | rodasī iti | agne | havyā | manuṣaḥ | deva | vītaye ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, kindled by us, is asked to give wealth fit for giving and shine; to make heaven and earth bestowers of enjoyment, so that the sacrificer's oblations reach the gods.
+
+> हे अग्ने स तादृशस्त्वं नोऽस्माकं स्वस्तये । स्वस्तीत्यविनाशनाम । क्षेमाय रेवद्रयिमद्रयिं धनं उपर्युपरिवृद्धिमद्दानयोग्यं वा धनमस्मासु संददस्वान् सम्यक् प्रयच्छन् समिधानोऽस्माभिः सम्यगिध्यमानः सन् दीदिहि । दीप्यस्व । यद्वा रेवदिति क्रियाविशेषणं । रा धनं समृद्धिमद्यथा तथा दीप्यस्वेति । तथाभूतः सन् नोऽस्मभ्यं सुविताय सुहिताय शोभनफलाय रोदसी द्यावापृथिव्यावाकृणुष्व । सर्वतः कुरुष्व । उभौ लोकौ भोगप्रदौ कुर्वित्यर्थः । किमर्थमिति तदुच्यते । हे देवाग्ने मनुषो मनुष्यस्य यजमानस्य मम संबंधीनि हव्या हवींषि वीतये देवेभ्यो भक्षणाय । पुनःपुनर्यागाद्यनुष्ठानायेत्यर्थः ॥
+
+> *he agne sa tādṛśastvaṃ no 'smākaṃ svastaye | svastītyavināśanāma | kṣemāya revadrayimadrayiṃ dhanaṃ uparyuparivṛddhimaddānayogyaṃ vā dhanamasmāsu saṃdadasvān samyak prayacchan samidhāno 'smābhiḥ samyagidhyamānaḥ san dīdihi | dīpyasva | yadvā revaditi kriyāviśeṣaṇaṃ | rā dhanaṃ samṛddhimadyathā tathā dīpyasveti | tathābhūtaḥ san no 'smabhyaṃ suvitāya suhitāya śobhanaphalāya rodasī dyāvāpṛthivyāvākṛṇuṣva | sarvataḥ kuruṣva | ubhau lokau bhogapradau kurvityarthaḥ | kimarthamiti taducyate | he devāgne manuṣo manuṣyasya yajamānasya mama saṃbaṃdhīni havyā havīṃṣi vītaye devebhyo bhakṣaṇāya | punaḥpunaryāgādyanuṣṭhānāyetyarthaḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*) — (O Agni) one who has the qualities described above; नः (*naḥ*) — our; स्वस्तये (*svastaye*) — for welfare; रेवत् रयिं (*revat rayiṃ*) — wealth that has increased and is fit for giving; अस्मासु (*asmāsu*) — to us; संददस्वान् (*saṃdadasvān*) — while giving; समिधानः (*samidhānaḥ*) — (kindled by us) blazing; दीदिहि (*dīdihi*) — shine.
+
+---
+
+### Printed p. 441 (PDF 462)
+
+*(Header: "A. 2 A. 5 Va. 21" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "441". The numeral file has no rows. Ṛk 6: Pratipadārtha concluded, Bhāvārtha, printed English, Special Topics.)*
+
+*(Pratipadārtha continued from p. 440:)* नः (*naḥ*) — to us; सुविताय (*suvitāya*) — for giving an excellent fruit; रोदसी (*rodasī*) — heaven and earth; आ कृणुष्व (*ā kṛṇuṣva*) — make them bestowers of enjoyment; देव (*deva*) — O shining; अग्ने (*agne*) — O Agni; मनुषः (*manuṣaḥ*) — offered by the sacrificer; हव्या (*havyā*) — the oblations; वीतये (*vītaye*) — for the eating of the deities — make them fit for it.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, of the nature of a deity, for our welfare may you, attaining increase and giving us wealth fit for giving, shine, kindled by us. For giving us an excellent fruit, make heaven and earth bestowers of enjoyment, and make the oblations offered by the sacrificer fit for the eating of the deities."
+
+**English Translation** *(as printed)*
+
+You, Agni, are he who, for our good, is possessed of riches ; kindled by us, blaze as the liberal donor of wealth to us : render heaven earth [sic, no "and"] propitious to us, so that divine Agni, (the gods) may partake of the oblations of the institutor of the rite.
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "The wish of the ṛtvijs, 'May Agni, for their welfare, be one who favours (grants) wealth increasing from day to day, and one abundantly served by them, and may he prosper', is described. In this meaning the word रेवत् (*revat*) is an adjective of the word रयिं (*rayiṃ*). Taking the word रेवत् (*revat*) as an adverb in सः नः स्वस्तये रेवत् दीदिहि (*saḥ naḥ svastaye revat dīdihi*) and रा धनं समृद्धिमत् यथा तथा दीप्यस्व (*rā dhanaṃ samṛddhimat yathā tathā dīpyasva*), a second meaning is also described: 'for the welfare of us the ṛtvijs, may Agni, who brings his favour to light so that wealth is abundant, prosper well.'"
+
+नः सुविताय रोदसी कृणुष्व (*naḥ suvitāya rodasī kṛṇuṣva*) — अस्मभ्यं सुविताय शोभनफलाय द्यावापृथिव्यौ उभौ लोकौ भोगप्रदौ कुर्विन्त्यर्थः (*asmabhyaṃ suvitāya śobhanaphalāya dyāvāpṛthivyau ubhau lokau bhogapradau kurvintyarthaḥ*) —
+
+*(The last word of the quotation is as read from the strip: कुर्विन्त्यर्थः as printed in the Special Topics, against कुर्वित्यर्थः in the bhāṣya above; not zoomed.)*
+
+(Kannada:) "The wish of the ṛtvijs and the sacrificers, 'May Agni favour so that the two worlds, earth and antarikṣa, be agreeable for our welfare and for other excellent good', is described here. And Agni's subjugation (vaśīkāra) of heaven and earth, in the form of favour, —"
+
+मनुषः हव्या वीतये (*manuṣaḥ havyā vītaye*) — मनुष्यस्य मम यजमानस्य संबंधीनि हवींषि देवेभ्यो भक्षणाय (*manuṣyasya mama yajamānasya saṃbaṃdhīni havīṃṣi devebhyo bhakṣaṇāya*) —
+
+(Kannada:) "— the wish that the sacrificer, a man, may attain fulfilment (caritārtha) through oblations offered by him and directed to the deities, is explained."
+
+*(Rule line.)*
+
+---
+
+### Printed p. 442 (PDF 463)
+
+*(Header: "442", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2" as read from the strip, not zoomed. The numeral file has no rows. Ṛk 7: Saṃhitā, Pada, bhāṣya, Pratipadārtha. The Ṛk number is read as 7 from the sequence and the flat-footed glyph; not zoomed.)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> दा नो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि ।
+> प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि दिद्युतः ॥ ७ ॥
+
+> *dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi |*
+> *prācī dyāvāpṛthivī brahmaṇā kṛdhi svarṇa śukramuṣaso vi didyutaḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> दाः । नः । अग्ने । बृहतः । दाः । सहस्रिणः । दुरः । न । वाजं । श्रुत्यै । अप । वृधि ।
+> प्राची इति । द्यावापृथिवी इति । ब्रह्मणा । कृधि । स्वः । न । शुक्रं । उषसः । वि । दिद्युतः ॥ ७ ॥
+
+> *dāḥ | naḥ | agne | bṛhataḥ | dāḥ | sahasriṇaḥ | duraḥ | na | vājaṃ | śrutyai | apa | vṛdhi |*
+> *prācī iti | dyāvāpṛthivī iti | brahmaṇā | kṛdhi | svaḥ | na | śukraṃ | uṣasaḥ | vi | didyutaḥ ‖ 7 ‖*
+
+*(The Saṃhitā reads श्रुत्या अपा; the Pada reads श्रुत्यै । अप, as printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni is asked to give abundant wealth and thousands of sons and servants; to open the doors of food and fame; to make heaven and earth favourable by sacrifice; the dawns kindle him, shining like the sun.
+
+*(Two places in the bhāṣya are doubtful letter by letter, not zoomed: लुजि [?] (*luji [?]*) in the grammatical remark, and the word उषःकालाः [?] (*uṣaḥkālāḥ [?]*) near the end.)*
+
+> हे अग्ने नोऽस्मभ्यं बृहतो महतः प्रभूतान् गवाश्वादिधनविशेषान् दाः । देहि । तथा सहस्रिणः सहस्रसंख्योपेतान्पुत्रभृत्यादीन्दाः देहि ॥ ददातेश्छांदसे लुजि [?] रूपं । वाक्यभेदादनिघातः ॥ श्रुत्यै कीर्त्यै वाजमन्नं दुरो न तस्य द्वाराण्यपि ॥ नशब्दश्चार्थे ॥ अपावृधि आपवृणु । प्रेरयेत्यर्थः । यद्वा द्वाराणीव । तत्प्राप्त्युपायान्विशदयति । तदर्थं द्यावापृथिवी ब्रह्मणा परिवृद्धेन कर्मणा प्राची प्रकृष्टांचने । अस्मदनुकूले कृधि । कुरु । स्वर्ण आदित्य इव । स यथा जगत्प्रकाशयति तद्वत् । शुक्रं दीप्तं त्वामुषस उषःकालाः [?] विदिद्युतः । विद्योतयंति । उषःकाले ह्यग्नयः प्रज्वाल्यंते ॥
+
+> *he agne no 'smabhyaṃ bṛhato mahataḥ prabhūtān gavāśvādidhanaviśeṣān dāḥ | dehi | tathā sahasriṇaḥ sahasrasaṃkhyopetānputrabhṛtyādīndāḥ dehi ‖ dadāteśchāṃdase luji [?] rūpaṃ | vākyabhedādanighātaḥ ‖ śrutyai kīrtyai vājamannaṃ duro na tasya dvārāṇyapi ‖ naśabdaścārthe ‖ apāvṛdhi āpavṛṇu | prerayetyarthaḥ | yadvā dvārāṇīva | tatprāptyupāyānviśadayati | tadarthaṃ dyāvāpṛthivī brahmaṇā parivṛddhena karmaṇā prācī prakṛṣṭāṃcane | asmadanukūle kṛdhi | kuru | svarṇa āditya iva | sa yathā jagatprakāśayati tadvat | śukraṃ dīptaṃ tvāmuṣasa uṣaḥkālāḥ [?] vididyutaḥ | vidyotayaṃti | uṣaḥkāle hyagnayaḥ prajvālyaṃte ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; नः (*naḥ*) — to us; बृहतः (*bṛhataḥ*) — abundant cattle, horses and the like; दाः (*dāḥ*) — give; सहस्रिणः (*sahasriṇaḥ*) — of the number of a thousand; sons, servants and the like; दाः (*dāḥ*) — give; श्रुत्यै (*śrutyai*) — for bringing fame; अन्नं (*annaṃ*) — of food; दुरो न (*duro na*) — the doors as well; अपा वृधि (*apā vṛdhi*) — open (for that); द्यावापृथिवी (*dyāvāpṛthivī*) — heaven and earth; ब्रह्मणा (*brahmaṇā*) — by sacrificial and other rites; प्राची (*prācī*) — so that they may be favourable to us; कृधि (*kṛdhi*) — make; स्वर्ण (*svarṇa*) — as the Sun illumines the world; शुक्रं (*śukraṃ*) — you who are radiant; उषसः (*uṣasaḥ*) — the dawns; वि दिद्युतः (*vi didyutaḥ*) — cause to shine.
+
+*(Ṛk 7 is left open: Bhāvārtha, printed English and Special Topics follow on p. 443.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 442 (PDF 463). Maṇḍala 2 Sūkta 2: Ṛk 5 complete (Special Topics concluded on p. 440). Ṛk 6 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, p. 441). Ṛk 7 is OPEN: Saṃhitā, Pada, bhāṣya and Pratipadārtha written on p. 442; Bhāvārtha, printed English and Special Topics follow on p. 443. Numeral file has no rows for these pages. Not zoomed: the headers of all three pages (p. 441 "Va. 21" read from the strip), the Ṛk numbers 6 and 7 (7 taken from the glyph and the sequence). [?] places: bhāṣya ⟦लुजि⟧ and ⟦उषःकालाः⟧ (p. 442); the Special Topics word ⟦कुर्विन्त्यर्थः⟧ (p. 441, kept as printed); Saṃhitā ⟦श्रुत्या⟧ against Pada ⟦श्रुत्यै⟧.
