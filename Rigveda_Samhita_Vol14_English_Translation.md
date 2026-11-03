@@ -19757,4 +19757,154 @@ Who, many-tinted, shines with radiance, like the sun with (his) lustre, spreadin
 
 ---
 
-**Progress note:** Done through printed p. 532 (PDF 553). Maṇḍala 2, Sūkta 8: Ṛk 2 completed (its Special Topics ended on p. 530, after Durga on ⟦सुनीथासः⟧, ⟦अजुर्यः⟧, ⟦चारुप्रतीकः⟧; the page opens with the quotation ⟦त्वामिंद्र…⟧ and the lead-in sentence is not on it). Ṛk 3 written in full (pp. 530–531). Ṛk 4 written through printed English and the Special Topics on ⟦स्वः⟧ (p. 532); **Ṛk 4 left open in the Special Topics, after the quotation ⟦दानो अग्ने बृहतो दाः…⟧ (Ṛ. Saṃ. 2-2-2 [?]), where the page ends; the discussion continues on p. 533.** FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: all header numerals (Varga 29 on p. 531, Sū. 8) and all Nirukta and Ṛg-Saṃhitā reference numerals (Ni. 4-19 [?], 2-13 [?], 2-14 [?], 5-4 [?]; Ṛ. Saṃ. 1-50-5 [?], 1-69-10 [?], 2-2-2 [?]). [?] places: p. 530 ⟦क्राणा⟧ in the quoted Ṛk and ⟦ये⟧ in the Durga quotation; p. 532 ⟦स एनानि सारयति⟧.
+### Printed p. 533 (PDF 554)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 29 ]", "Ṛgvedasaṃhitā", "533". The numeral file has no rows for this page. Header and reference numerals not zoomed.)*
+
+(Kannada, translated, continued from the Special Topics of Ṛk 4.) In Ṛks like these the word स्वः (*svaḥ*) has been explained as "Āditya". In the same way, words that carry suffixes such as वत् (*vat*), e.g. स्वर्वत् (*svarvat*), are likewise to be explained according to the context. For example, (Ṛ. Saṃ. 8-97-1 [?], numerals as read, not zoomed; the accent-like mark over स्वर्वा (*svarvā*) is as printed):
+
+> या इंद्र भुज आभरः स्वर्वा असुरेभ्यः ।
+> स्तोतारमिन्मघवन्नस्य वर्धय यो च त्वे वृक्तबर्हिषः ॥
+
+> *yā iṃdra bhuja ābharaḥ svarvā asurebhyaḥ |*
+> *stotāraminmaghavannasya vardhaya yo ca tve vṛktabarhiṣaḥ ‖*
+
+(Kannada, translated, continued.) In this Ṛk — the commentator says "सुखवान्, स्वर्गवान् वा" ("possessed of happiness, or possessed of heaven"):
+
+*Gist:* The word स्वः (*svaḥ*) is a synonym of "all"; everything that is born is of one's own self, hence "possessed of all".
+
+> अथवा स्वशब्दः सर्वपर्यायः । सर्वं भूतजातं आत्मन एवोत्पन्नत्वात्स्वान् [?] ।
+
+> *athavā svaśabdaḥ sarvaparyāyaḥ | sarvaṃ bhūtajātaṃ ātmana evotpannatvātsvān [?] |*
+
+(Kannada, translated, continued.) Since the word स्वः (*svaḥ*) has the meanings happiness, heaven or "all", स्वर्वान् (*svarvān*) means "one who has happiness", "a dweller in heaven", or "one who has obtained everything". All these meanings fit when it is an epithet of Indra. And again (Ṛ. Saṃ. 8-40-11 [?], as read, not zoomed):
+
+> तं शिशीता स्वध्वरं सत्यं सत्वानमृत्वियं ।
+> उतो नु चिद्य ओहत आंडा शुष्णस्य भेदत्यज्मैः स्वर्वतीरपो नभंतामन्यके समे ॥
+
+> *taṃ śiśītā svadhvaraṃ satyaṃ satvānamṛtviyaṃ |*
+> *uto nu cidya ohata āṃḍā śuṣṇasya bhedatyajmaiḥ svarvatīrapo nabhaṃtāmanyake same ‖*
+
+(Kannada, translated, continued.) In passages like these, where स्वर्वतीः अपः (*svarvatīḥ apaḥ*) is an epithet of water, दिव्यानि (*divyāni*) means "water produced in the heaven-world". This epithet also describes the qualities of Agni and the other deities. (Ṛ. Saṃ. 1-136-3 [?], as read, not zoomed):
+
+> ज्योतिष्मतीमदितिं धारयत्क्षितिं स्वर्वतीमा सचेते दिवे दिवे जागृवांसा दिवेदिवे ॥
+
+> *jyotiṣmatīmaditiṃ dhārayatkṣitiṃ svarvatīmā sacete dive dive jāgṛvāṃsā divedive ‖*
+
+(Kannada, translated, continued.) Here स्वर्वती (*svarvatī*) is an epithet of Aditi. In this place it is explained as the commentator has explained it — "yajñaniṣpatti-dvārā स्वर्गवतीं (*svargavatīṃ*)" (through the accomplishment of sacrifice, "possessing heaven"). (Ṛ. Saṃ. 6-19-9 [?], as read, not zoomed; the words पश्चादोत्तरादधरादा [?] (*paścādottarādadharādā [?]*) and समोत्वर्वाजिंद्र [?] (*samotvarvājiṃdra [?]*) are as read from the strip, not zoomed):
+
+> आ ते शुष्मो वृषभ एतु पश्चादोत्तरादधरादा पुरस्तात् ।
+> आ विश्वतो अभि समोत्वर्वाजिंद्र द्युम्नं स्वर्वद्धेह्यस्मे ॥
+
+> *ā te śuṣmo vṛṣabha etu paścādottarādadharādā purastāt |*
+> *ā viśvato abhi samotvarvājiṃdra dyumnaṃ svarvaddhehyasme ‖*
+
+(Kannada, translated, continued.) In Ṛks like these the meaning सुखयुक्तं धनं (*sukhayuktaṃ dhanaṃ*) ("wealth endowed with happiness") is also given. In the Ṛk in hand the meaning is "Āditya".
+
+**भानुना (*bhānunā*)** — (Kannada, translated:) Since the word भानुः (*bhānuḥ*) is read in the twelve names of "day" (ahar-nāmāni) beginning with वस्तोः (*vastoḥ*), द्यौः (*dyauḥ*) and so on, it means the shining day. And भानुः भासते ह्येतत् ज्योतिषा (*bhānuḥ bhāsate hyetat jyotiṣā*) ("bhānu shines, for this shines by light") — since it shines by its own light, it is explained here as the rays of the sun.
+
+---
+
+### Printed p. 534 (PDF 555)
+
+*(Header: "534", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 8" [numerals as read, not zoomed]. The numeral file has no rows for this page.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अत्रिमनु स्वराज्यमग्निमुक्थानि वावृधुः ।
+> विश्वा अधि श्रियो दधे ॥ ५ ॥
+
+> *atrimanu svarājyamagnimukthāni vāvṛdhuḥ |*
+> *viśvā adhi śriyo dadhe ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अत्रिं । अनु । स्वराज्यं । अग्निं । उक्थानि । ववृधुः ।
+> विश्वाः । अधि । श्रियः । दधे ॥ ५ ॥
+
+> *atriṃ | anu | svarājyaṃ | agniṃ | ukthāni | vavṛdhuḥ |*
+> *viśvāḥ | adhi | śriyaḥ | dadhe ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 5)**
+
+*Gist:* Our hymns magnify Agni, devourer of enemies or of oblations, self-shining; he holds all glories.
+
+> अत्रिं शत्रूणामन्नानां वा भक्षकं स्वराज्यं स्वयमेव राजमानं स्वराज्यमनु अभिलक्ष्य वाग्निमुक्थानि शस्त्राणि ववृधुः । वर्धयंति । स चाग्निर्विश्वाः सर्वाः श्रियोऽधि दधे धारयति ॥
+
+> *atriṃ śatrūṇāmannānāṃ vā bhakṣakaṃ svarājyaṃ svayameva rājamānaṃ svarājyamanu abhilakṣya vāgnimukthāni śastrāṇi vavṛdhuḥ | vardhayaṃti | sa cāgnirviśvāḥ sarvāḥ śriyo 'dhi dadhe dhārayati ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 5)**
+
+(Kannada, translated:) अत्रिं (*atriṃ*) — the devourer of enemies, or one who eats food; स्वराज्यं (*svarājyaṃ*) — one who shines as a perfect lord by himself; अग्निं अनु (*agniṃ anu*) — chanted with Agni as the aim; उक्थानि (*ukthāni*) — our śastra-mantras; ववृधुः (*vavṛdhuḥ*) — make (him) grow strong (he); विश्वाः श्रियः (*viśvāḥ śriyaḥ*) — all riches; अधि दधे (*adhi dadhe*) — has obtained.
+
+**भावार्थ (Bhāvārtha — Ṛk 5)**
+
+(Kannada, translated:) Our śastra-mantras, chanted in praise of Agni, the devourer of enemies and the self-shining perfect lord, make him grow strong. He has obtained all riches.
+
+**English Translation** *(as printed, Ṛk 5)*
+
+Our praises have increased the self-irradiating devouring Agni: he is possessed of all glory.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 5)**
+
+**अत्रिं (*atriṃ*)** — (Kannada, translated:) For this word, derived from the root अद भक्षणे (*ada bhakṣaṇe*) ("ada, to eat"), the commentator explains two kinds of meaning. अत्रिं—शत्रून् अत्ति भक्षयति (दहति) ध्वंसयति इति अत्रिः (*atriṃ—śatrūn atti bhakṣayati (dahati) dhvaṃsayati iti atriḥ*) — he is called Atri because he devours enemies, or because he burns and destroys them; or
+
+---
+
+### Printed p. 535 (PDF 556)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 29.]", "Ṛgvedasaṃhitā", "535". The numeral file has no rows for this page. Header numerals not zoomed.)*
+
+(Kannada, translated, continued.) The śruti sentence
+
+> अद्यतेऽत्ति च भूतानि [?] । तस्मादन्नं तदुच्यते इति
+
+> *adyate 'tti ca bhūtāni [?] | tasmādannaṃ taducyate iti*
+
+(the form अद्यतेऽत्ति (*adyate 'tti*) is as read from the strip, not zoomed) says that a thing fit to be eaten is called अन्नं (*annaṃ*) ("food"). Since he eats (consumes by burning) such food, or food in the form of the oblation, he is called Atri: thus two kinds of meaning are given. The sense is, therefore, that Agni is the destroyer of enemies, or the eater of food in the form of the oblation.
+
+**स्वराज्यं (*svarājyaṃ*)** — स्वयमेव राजमानं स्वराज्यमनु अभिलक्ष्य वा (*svayameva rājamānaṃ svarājyamanu abhilakṣya vā*). (Kannada, translated:) Two meanings are explained: Agni shines by his own power, without the help of another shining thing; or Agni is the lord who gives wealth and the like to men and creatures.
+
+**उक्थानि (*ukthāni*)** — (Kannada, translated:) The word उक्थ्य (*ukthya*) is read among the names for praise (Ni. 3-13 [?], numerals as read, not zoomed). It means the hymns and the like that describe and recite the qualities of the deities.
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> अग्नेरिंद्रस्य सोमस्य देवानामूतिभिर्वयं ।
+> अरिष्यंतः सचेमह्यभि ष्याम पृतन्यतः ॥ ६ ॥
+
+> *agneriṃdrasya somasya devānāmūtibhirvayaṃ |*
+> *ariṣyaṃtaḥ sacemahyabhi ṣyāma pṛtanyataḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> अग्नेः । इंद्रस्य । सोमस्य । देवानां । ऊतिभिः । वयं ।
+> अरिष्यंतः । सचेमहि । अभि । स्याम । पृतन्यतः ॥ ६ ॥
+
+> *agneḥ | iṃdrasya | somasya | devānāṃ | ūtibhiḥ | vayaṃ |*
+> *ariṣyaṃtaḥ | sacemahi | abhi | syāma | pṛtanyataḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 6)**
+
+*Gist:* Unharmed by anyone, we are joined to the protections of Agni, Indra, Soma and the other gods, and may overcome enemies seeking battle.
+
+> अरिष्यंतः केनाप्यहिंस्यमानाः वयमग्नेरिंद्रस्य सोमस्य देवानामन्येषामप्यूतिभी रक्षणाभिः सचेमहि । युक्ता भवेम । तथा रक्षायुक्ता वयं पृतन्यतः पृतनामात्मन इच्छतः शत्रूनभिष्याम । अभिभवेम ॥ पृतनाशब्दात्क्यचि कव्यध्वरपृतनस्यर्चि लोप इत्यवर्णलोपः ॥
+
+> *ariṣyaṃtaḥ kenāpyahiṃsyamānāḥ vayamagneriṃdrasya somasya devānāmanyeṣāmapyūtibhī rakṣaṇābhiḥ sacemahi | yuktā bhavema | tathā rakṣāyuktā vayaṃ pṛtanyataḥ pṛtanāmātmana icchataḥ śatrūnabhiṣyāma | abhibhavema ‖ pṛtanāśabdātkyaci kavyadhvarapṛtanasyarci lopa ityavarṇalopaḥ ‖*
+
+(Grammatical tail: formation of पृतन्यतः (*pṛtanyataḥ*) from पृतना (*pṛtanā*) with the suffix क्यच् (*kyac*) and the elision of the final अ (*a*); not explained.)
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6)**
+
+(Kannada, translated; the entry breaks off at the end of the page:) अरिष्यंतः (*ariṣyaṃtaḥ*) — not injured by anyone; वयं (*vayaṃ*) — we; अग्नेः (*agneḥ*) — of Agni; इंद्रस्य (*iṃdrasya*) — of Indra; सोमस्य (*somasya*) — of Soma (and); देवानां (*devānāṃ*) — of all the other gods; ऊतिभिः (*ūtibhiḥ*) — protection
+
+*(Ṛk 6 is left open in the Pratipadārtha, mid-sentence, at the foot of the page; it continues on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 535 (PDF 556). Maṇḍala 2, Sūkta 8: Ṛk 4 completed (Special Topics ended on p. 533 with ⟦भानुना⟧). Ṛk 5 written in full (p. 534 to the top of p. 535; the Special Topics on ⟦अत्रिं⟧, ⟦स्वराज्यं⟧, ⟦उक्थानि⟧ complete). Ṛk 6: Saṃhitā, Pada, bhāṣya written; **Ṛk 6 left open in the Pratipadārtha, after ⟦ऊतिभिः—रक्षणे…⟧ (the entry breaks off at the foot of p. 535 and continues on p. 536).** FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: all header numerals and reference numerals (Ṛ. Saṃ. 8-97-1 [?], 8-40-11 [?], 1-136-3 [?], 6-19-9 [?]; Ni. 3-13 [?]). [?] places: p. 533 ⟦आत्मन एवोत्पन्नत्वात्स्वान्⟧, ⟦पश्चादोत्तरादधरादा⟧, ⟦समोत्वर्वाजिंद्र⟧; p. 535 ⟦अद्यतेऽत्ति⟧.
