@@ -2686,13 +2686,13 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> सोमासो न ये सुतास्तृप्त्यांशवो [?] हृत्सु पीतासो दुवसो नासते ।
-> ऐषामंसेषु रम्भिणीव रारभे हस्तेषु खादिश्च कृतिश्च सं दधे ॥ ३ ॥
+> सोमा॑सो॒ न ये सु॒तास्तृ॒प्तांश॑वो हृ॒त्सु पी॒तासो॑ दु॒वसो॒ नास॑ते ।
+> ऐषा॒मंसे॑षु र॒म्भिणी॑व रारभे हस्ते॑षु खा॒दिश्च॑ कृ॒तिश्च॒ सं द॑धे ॥ ३ ॥
 
-> *somāso na ye sutās tṛptyāṃśavo [?] hṛtsu pītāso duvaso nāsate |*
+> *somāso na ye sutās tṛptāṃśavo hṛtsu pītāso duvaso nāsate |*
 > *aiṣāmaṃseṣu rambhiṇīva rārabhe hasteṣu khādiśca kṛtiśca saṃ dadhe ‖ 3 ‖*
 
-*(Ṛk 3 begins. The conjunct after *tṛ-* in *tṛptyāṃśavo* is doubtful; see the doubts log.)*
+*(Ṛk 3 begins. Saṃhitā reading *tṛptāṃśavo* taken from the user's accented Devanagari text (user: correct). The Pada and the bhāṣya, as read from the print, give *tṛptyāṃśavaḥ*; not reconciled.)*
 
 ---
 
