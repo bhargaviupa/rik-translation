@@ -18977,4 +18977,176 @@ In this example it is said that first they kindle the fire; after that they spre
 
 ---
 
-**Progress note:** Done through printed p. 517 (PDF 538). Maṇḍala 2, Sūkta 6 complete: Ṛk 7 finished on p. 515 (Bhāvārtha end, printed English, Special Topics on ⟦अंतः हि अग्ने ईयसे⟧, ⟦जन्म उभया विद्वान्⟧, ⟦दूतो जन्येव मित्र्यः⟧, continuing to the top of p. 516); Ṛk 8 complete on p. 516 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); Special Topics of Ṛk 8 on ⟦आनुषक्⟧ on p. 517. Sūkta 7 opened on p. 517 (heading and bhāṣya introduction/Anuvāda only; six Ṛks, ṛṣi Somāhuti Bhārgava, devatā Agni, chandas Gāyatrī); **no Ṛk of Sūkta 7 has been written; Ṛk 1 begins on p. 518.** FILE DISAGREE: none (no file rows for pp. 515–517). The earlier [?] reading "4-8-4" in the Ṛk 7 bhāṣya (p. 514) is confirmed by the printed reference on p. 515 (ळ-ल-ळ). Not zoomed: Varga numerals in headers (27, 28); Ṛk numeral 8; Ṛg reference 8-45-1 [?] on p. 517. [?] places: p. 515 ⟦यष्टृणां⟧, ⟦त्वमप्यस्माकम्⟧ (print appears ⟦त्वमस्यस्माकम्⟧); p. 516 candrabindu on ⟦विद्वा⟧, top line cut at the right edge; p. 517 ⟦नामानुपूर्वस्य⟧ / ⟦आनुक्रमु⟧ and ⟦पूर्वसूक्ते विवोक्तः⟧.
+---
+
+### Printed p. 518 (PDF 539)
+
+*(Header: "518", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 7". The numeral file has no rows for this page. Sūkta 7 begins here with its title block, which repeats the particulars already given on p. 517.)*
+
+*(Title block as printed:)* "Oṃ" — Sūkta 7. Maṇḍala 2, Anuvāka 1, Sūkta 7. Aṣṭaka 2, Adhyāya 5, Varga 28 *(read from the strip, not zoomed)*. Number of Ṛks in the sūkta: 6. Ṛṣi — Somāhuti Bhārgava. Devatā — Agni. Chandas — Gāyatrī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> श्रेष्ठं यविष्ठ भारताग्ने द्युमंतमा भर ।
+> वसो पुरुस्पृहं रयिं ॥ १ ॥
+
+> *śreṣṭhaṃ yaviṣṭha bhāratāgne dyumaṃtamā bhara |*
+> *vaso puruspṛhaṃ rayiṃ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> श्रेष्ठं । यविष्ठ । भारत । अग्ने । द्युमंतं । आ । भर ।
+> वसो इति । पुरुस्पृहं । रयिं ॥ १ ॥
+
+> *śreṣṭhaṃ | yaviṣṭha | bhārata | agne | dyumaṃtaṃ | ā | bhara |*
+> *vaso iti | puruspṛhaṃ | rayiṃ ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 1)**
+
+*Gist:* Agni, youngest, kinsman of the priests and giver of dwellings, bring us the best, shining, much-desired wealth.
+
+> हे अग्ने यविष्ठ युवत्तम हे भारत । भरता ऋत्विजः । तेषां संबंधी भारतः । ते ऽध्वर्य्वादिभिर्मंथनहविःस्तोत्रादिना व्याप्रियमाणत्वात् । तादृश हे वसो वासक व्याप्त वा विवंरूपाग्ने [?] श्रेष्ठमतिप्रशस्यं द्युमंतं दीप्तिमंतं पुरुस्पृहं बहुभिरर्थिभिः स्पृहणीयं रयिमाभर । आहर ॥
+
+> *he agne yaviṣṭha yuvattama he bhārata | bharatā ṛtvijaḥ | teṣāṃ saṃbaṃdhī bhārataḥ | te 'dhvaryvādibhirmaṃthanahaviḥstotrādinā vyāpriyamāṇatvāt | tādṛśa he vaso vāsaka vyāpta vā vivaṃrūpāgne [?] śreṣṭhamatipraśasyaṃ dyumaṃtaṃ dīptimaṃtaṃ puruspṛhaṃ bahubhirarthibhiḥ spṛhaṇīyaṃ rayimābhara | āhara ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 1)**
+
+(Kannada, translated:) यविष्ठ (*yaviṣṭha*) — extremely youthful one; भारत (*bhārata*) — kinsman of the priests (ṛtvijas); वसो (*vaso*) — giver of a dwelling-place; अग्ने (*agne*) — O Agni; श्रेष्ठं (*śreṣṭhaṃ*) — most excellent; द्युमंतं (*dyumaṃtaṃ*) — shining; पुरुस्पृहं (*puruspṛhaṃ*) — desired by many; रयिं (*rayiṃ*) — wealth; आ भर (*ā bhara*) — bring.
+
+---
+
+### Printed p. 519 (PDF 540)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 28 ]" [read from the strip, not zoomed], "Ṛgvedasaṃhitā", "519". The numeral file has no rows for this page.)*
+
+**भावार्थ (Bhāvārtha — Ṛk 1)**
+
+(Kannada, translated:) O Agni, you who are extremely youthful, kinsman of the priests, and giver of a dwelling-place, bring for us wealth that is most excellent, shining, and desired by many.
+
+**English Translation** *(as printed, Ṛk 1)*
+
+Youngest (of the gods), Agni, descendant of Bharata, granter of dwellings, bring (to us) excellent, splendid, and enviable riches.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated.) **भारते (*bhārate*)** — The word भारत (*bhārata*) is read among the names of priests (ṛtvij) (Ni. 3-18 [?], as printed; the second numeral is doubtful, not zoomed). Bhārata means a priest. The word is formed from the root भृञ् भरणे (*bhṛñ bharaṇe*) and, according to the explanation of Skandasvāmin, the sense is:
+
+> यज्ञद्वारेण नॄन् संभरतीति [?]
+
+> *yajñadvāreṇa nṝn saṃbharatīti [?]*
+
+— "by means of the sacrifice he upholds men (the sacrificers)", that is, by performing the sacrifice he thereby lifts up (saves) the people (the patrons). Therefore this priest is called Bhārata. Durgācārya, the commentator on the Nirukta, says:
+
+> भ्रियंते दक्षिणाभिस्ते इति भारताः
+
+> *bhriyaṃte dakṣiṇābhiste iti bhāratāḥ*
+
+— "they are nourished (satisfied) by the dakṣiṇās and the like, so they are Bhāratas": having performed the sacrifice, they obtain satisfaction through sacrificial fees and so on, and so these priests are called Bhāratas. Thus the word भरत (*bharata*) has two kinds of etymological meaning. *(The first Skandasvāmin quotation: the print of नॄन् (*nṝn*) is not clear to me [?]; not zoomed.)*
+
+---
+
+#### Ṛk 2
+
+*(The Ṛk numeral is read as 2, not zoomed.)*
+
+**॥ संहितापाठः ॥**
+
+> मा नो अरातिरीशत देवस्य मर्त्यस्य च ।
+> पर्षि तस्या उत द्विषः ॥ २ ॥
+
+> *mā no arātirīśata devasya martyasya ca |*
+> *parṣi tasyā uta dviṣaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> मा । नः । अरातिः । ईशत । देवस्य । मर्त्यस्य । च ।
+> पर्षि । तस्याः । उत । द्विषः ॥ २ ॥
+
+> *mā | naḥ | arātiḥ | īśata | devasya | martyasya | ca |*
+> *parṣi | tasyāḥ | uta | dviṣaḥ ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 2)**
+
+*Gist:* Let no enemy, whether of gods or of men, overcome us; by your favour protect us from such enemies.
+
+> हे अग्ने त्वदनुग्रहान्नोऽस्मानरातिरदानं शत्रुत्वं । यद्वा छंदस्यरातिशब्दः शत्रुवाची स्त्रीलिंगो भवति । अदाता शत्रुर्मीशत [?] । पराभवितुं शक्तो मा भूत् ।
+
+> *he agne tvadanugrahānno 'smānarātiradānaṃ śatrutvaṃ | yadvā chaṃdasyarātiśabdaḥ śatruvācī strīliṃgo bhavati | adātā śatrurmīśata [?] | parābhavituṃ śakto mā bhūt |*
+
+*(The bhāṣya continues at the top of p. 520.)*
+
+---
+
+### Printed p. 520 (PDF 541)
+
+*(Header: "520", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 7". The numeral file has no rows for this page.)*
+
+*(Bhāṣya of Ṛk 2, continued from p. 519:)*
+
+> मा विषयीकुर्यात् । अरातिर्विशेष्यते । देवस्य च मर्त्यस्य च संबंधिनी त्रैः कारिता [?] । उत अपि च तस्या उभयविधाया द्विषोऽस्मदरातेः पर्षि । पूरय ॥
+
+> *mā viṣayīkuryāt | arātirviśeṣyate | devasya ca martyasya ca saṃbaṃdhinī traiḥ kāritā [?] | uta api ca tasyā ubhayavidhāyā dviṣo 'smadarāteḥ parṣi | pūraya ‖*
+
+*(The words त्रैः कारिता (*traiḥ kāritā*) are read as printed; I cannot make them out with certainty [?]; not zoomed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 2)**
+
+(Kannada, translated:) (O Agni) देवस्य (*devasya*) — whether belonging to the company of the gods; मर्त्यस्य च (*martyasya ca*) — or belonging to the company of men; अरातिः (*arātiḥ*) — an enemy; नः (*naḥ*) — us; मा ईशत (*mā īśata*) — let him not be able to withstand and defeat; उत (*uta*) — and; तस्याः (*tasyāḥ*) — of those two kinds; द्विषः (*dviṣaḥ*) — from enemies also; पर्षि (*parṣi*) — protect us.
+
+**भावार्थ (Bhāvārtha — Ṛk 2)**
+
+(Kannada, translated:) O Agni, whether he belongs to the company of the gods or to the company of men, let the enemy not be able to withstand and defeat us; and protect us also from enemies of both those kinds.
+
+**English Translation** *(as printed, Ṛk 2)*
+
+Let no enemy prevail against us, whether of god or man ; protect us from both such foes.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 2)**
+
+(Kannada, translated.) **अरातिः (*arātiḥ*)** — the bhāṣya says:
+
+> अरातिरदानं । यद्वा छंदस्यरातिशब्दः शत्रुवाची स्त्रीलिंगो भवति ।
+
+> *arātiradānaṃ | yadvā chaṃdasyarātiśabdaḥ śatruvācī strīliṃgo bhavati |*
+
+That is, a person who gives nothing to anyone, or who gives no oblations and the like to the deities, is called अराति (*arāti*). Or, in the Veda the word अराति (*arāti*) is used especially in the sense of "enemy"; in that case the bhāṣyakāra's explanation is that the word is feminine. Yāska in the Nirukta says:
+
+> अरातयोऽदानकर्माणः
+
+> *arātayo 'dānakarmāṇaḥ*
+
+— "arātis are those who do not give" (Ni. 3-11, as printed), that is, those who make no gift are called arātis; or:
+
+> अरातीः अमित्रानदानानिति वा
+
+> *arātīḥ amitrānadānāniti vā*
+
+— "arātis: enemies who are not friends, or those who do not give" (Ni. 11-1, as printed); thus he has given two kinds of meaning.
+
+**देवस्य (*devasya*)** — For the word देव (*deva*) Yāska says:
+
+> देवो दानाद्वा दीपनाद्वा द्योतनाद्वा द्युस्थानो भवतीति वा
+
+> *devo dānādvā dīpanādvā dyotanādvā dyusthāno bhavatīti vā*
+
+— he who gives, he who shines, he who illumines by radiance, or he who dwells in heaven; therefore he is called Deva. (Ni. 7-15, as printed; numerals not zoomed.)
+
+**मर्त्यस्य (*martyasya*)** — This word is formed from the root
+
+> मृज् [?] प्राणत्यागे
+
+> *mṛj [?] prāṇatyāge*
+
+(print: मृज् (*mṛj*) [?]; not zoomed), "to give up life", and from it:
+
+> म्रियंत इति मर्त्याः
+
+> *mriyaṃta iti martyāḥ*
+
+— they are subject to death, therefore men are called Martyas. The gods are called Amartyas. The use of the words मर्त्य (*martya*) (मर्त (*marta*)) and अमर्त्य (*amartya*) is special in the Ṛgveda. *(The Special Topics of Ṛk 2 may continue on p. 521.)*
+
+---
+
+**Progress note:** Done through printed p. 520 (PDF 541). Maṇḍala 2, Sūkta 7: title block on p. 518 (6 Ṛks, Somāhuti Bhārgava, Agni, Gāyatrī; Varga 28 as read); Ṛk 1 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 519, printed English, Special Topics on ⟦भारते⟧). Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on ⟦अरातिः⟧, ⟦देवस्य⟧, ⟦मर्त्यस्य⟧ written on p. 520; the last Special Topics paragraph ends at the foot of p. 520 and **may continue on p. 521 (Ṛk 2 left open)**. FILE DISAGREE: none (no file rows for pp. 518–520). Not zoomed: Varga numeral 28; Ṛk numerals; Nirukta references (3-18 [?], 3-11, 11-1, 7-15). [?] places: p. 518 bhāṣya ⟦विवंरूपाग्ने⟧; p. 519 ⟦नॄन्⟧; p. 519–520 bhāṣya ⟦अदाता शत्रुर्मीशत⟧ and ⟦त्रैः कारिता⟧; p. 520 ⟦मृज्⟧.
