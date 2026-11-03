@@ -53,7 +53,9 @@ def main():
         if not m: open('/tmp/api_raw.txt','w').write(txt); print('bad format; raw saved /tmp/api_raw.txt'); return 4
         chunk,nt,db=m.group(1).strip(),m.group(2).strip().replace('**Progress note:**','').strip(),m.group(3).strip()
         cf=f'/tmp/api_chunk_{pages[0]}.md'; open(cf,'w',encoding='utf8').write(chunk+'\n')
-        sh(f'python3 publish/tools/translit/add_iast.py {cf}'); chunk=open(cf,encoding='utf8').read()
+        t0=open(cf,encoding='utf8').read(); t0=re.sub(r'(\n> [^\n]*[\u0900-\u097F][^\n]*)\n\n(\*\()',r'\1\n\nXXPHXX\2',t0); open(cf,'w',encoding='utf8').write(t0)
+        sh(f'python3 publish/tools/translit/add_iast.py {cf}'); chunk=open(cf,encoding='utf8').read().replace('XXPHXX','')
+        open(cf,'w',encoding='utf8').write(chunk)
         nd=len(re.findall(r'^> .*[ऀ-ॿ]',chunk,re.M)); ni=len(re.findall(r'^> \*',chunk,re.M))
         print('Devanagari blockquote lines',nd,'IAST lines',ni)
         if not all(f'(PDF {p})' in chunk for p in pages): print('missing page marker; chunk kept at',cf); return 5
