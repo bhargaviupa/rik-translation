@@ -16522,5 +16522,77 @@
   ],
   "note": "ZOOMED, read: parivrdhasya (dha)",
   "answer": ""
+ },
+ {
+  "pdf": 419,
+  "printed": 399,
+  "crop": [
+   0.193,
+   0.212,
+   0.155,
+   0.321
+  ],
+  "note": "ZOOMED, read: header Varga 17",
+  "answer": ""
+ },
+ {
+  "pdf": 419,
+  "printed": 399,
+  "crop": [
+   0.312,
+   0.336,
+   0.321,
+   0.652
+  ],
+  "note": "FILE DISAGREE: file 9-18, read 9-13 (zoomed, supports 9-13)",
+  "answer": ""
+ },
+ {
+  "pdf": 420,
+  "printed": 400,
+  "crop": [
+   0.673,
+   0.694,
+   0.219,
+   0.649
+  ],
+  "note": "UNDECIDED: Nighantu ref looks like 2-23, written with [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 419,
+  "printed": 399,
+  "crop": [
+   0.702,
+   0.733,
+   0.52,
+   0.779
+  ],
+  "note": "ZOOMED, read: bhajasa (printed so)",
+  "answer": ""
+ },
+ {
+  "pdf": 421,
+  "printed": 401,
+  "crop": [
+   0.447,
+   0.478,
+   0.172,
+   0.798
+  ],
+  "note": "UNDECIDED: itaydisvagne [?] (sh-vagne vs sh-tagne)",
+  "answer": ""
+ },
+ {
+  "pdf": 421,
+  "printed": 401,
+  "crop": [
+   0.187,
+   0.206,
+   0.172,
+   0.338
+  ],
+  "note": "ZOOMED, read: header Varga 18",
+  "answer": ""
  }
 ]
