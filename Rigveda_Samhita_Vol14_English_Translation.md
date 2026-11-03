@@ -13559,4 +13559,91 @@ Reciting the five ṛks mentioned before, one must churn Agni in the araṇis. I
 
 ---
 
-**Progress note:** Done through printed p. 386 (PDF 406). Mandala 2 Sukta 1 Rk 1 OPEN: Special Topics continuing (Rg 10-118 rakshoghna sukta quoted in full, p. 386); grammar of Rk 1 and Rk 2 onward to follow. Flags: FILE DISAGREE on p. 386 reference: file said 6-6-13, zoom read 6-16-13 (faint 1), written 6-16-13 with note; [?] first letter of Sayana line at top of p. 384.
+
+### Printed p. 387 (PDF 407)
+
+*(Header: "A. 2 A. 5 Va. 17" (Varga numeral as read; header not in the numeral file), "Ṛgvedasaṃhitā". Ṛk 1 Special Topics continuing.)*
+
+In this sūkta there are nine ṛks. These drive away the rākṣasas and kill them. Therefore, by reciting these ṛks the rākṣasas are destroyed. At the time of churning Agni, Agni may fail to be produced, or may be produced only after delay; the reason is that these rākṣasas bind Agni and, without releasing him, keep him under their own control. Therefore, in order to set Agni free, the killing of the rākṣasas is necessary. For that reason it is said that the *rakṣohanana-sūkta* of these nine ṛks must be recited.
+
+> स यद्येकस्यामेवानूक्तायां जायेत यदि द्वयोरथोत ब्रुवन्तु जन्तव इति जाताय जातवतीमभिरूपामनुब्रूयात् ॥
+
+> *sa yadyekasyāmevānūktāyāṃ jāyeta yadi dvayorathota bruvantu jantava iti jātāya jātavatīmabhirūpāmanubrūyāt ‖*
+
+While reciting the rākṣoghna sūkta, if Agni is produced after one ṛk has been recited in the middle; or, if after two, three and so on, he is produced after the recitation of those ṛks, then at that very moment —
+
+*(Ṛ. Saṃ. 1-24-3, as printed.)*
+
+> उत ब्रुवन्तु जन्तव उदग्निर्वृत्रहाजनि । धनंजयो रणेरणे ॥
+
+> *uta bruvantu jantava udagnirvṛtrahājani | dhanaṃjayo raṇeraṇe ‖*
+
+— this ṛk must be recited at once. For the matter set forth in this ṛk is favourable to the production of Agni. It is to state this favourableness that the word जातवतीं (*jātavatīṃ*) is used. Then in the second pāda, उदग्निर्वृत्रहाजनि (*udagnirvṛtrahājani*), the word अजनि (*ajani*) ("was born"), which denotes birth, is read. Therefore this ṛk, which is fitting at the moment of Agni's production, is directed to be recited at that very moment.
+
+> यद्यज्ञोऽभिरूपं तत्समृद्धं । आ यं हस्तेन खादिनमिति हस्ताभ्यां ह्येनं मंथंति । शिशुं जातमिति शिशुरिव वा एष प्रथमजातो यदग्निः । न बिभ्रति विशामग्निं स्वध्वरमिति यद्वै देवानां नेति तदेषामो३मिति । प्र देवं देववीतये भरता वसुवित्तममिति प्रह्रियमाणायाभिरूपा । यद्यज्ञोऽभिरूपं तत्समृद्धं । आ स्वे योनौ निषीदत्विति एष ह वा अस्य स्वो योनिर्यदग्निरग्नेः ॥
+
+> *yadyajño 'bhirūpaṃ tatsamṛddhaṃ | ā yaṃ hastena khādinamiti hastābhyāṃ hyenaṃ maṃthaṃti | śiśuṃ jātamiti śiśuriva vā eṣa prathamajāto yadagniḥ | na bibhrati viśāmagniṃ svadhvaramiti yadvai devānāṃ neti tadeṣāmo3miti | pra devaṃ devavītaye bharatā vasuvittamamiti prahriyamāṇāyābhirūpā | yadyajño 'bhirūpaṃ tatsamṛddhaṃ | ā sve yonau niṣīdatviti eṣa ha vā asya svo yoniryadagniragneḥ ‖*
+
+Up to this point the six ṛks used for the churning of Agni have been recited (the text names *abhi tvā*, *mahī dyauḥ*, *tvām agne*, *tam u tvā*, *uta bruvantu*; five openings are named, as printed, though it says "six"); and now —
+
+*(Ṛ. Saṃ. 6-16-40, as in the file.)*
+
+> आ यं हस्ते न खादिनं शिशुं जातं न बिभ्रति । विशामग्निं स्वध्वरम् ॥
+
+> *ā yaṃ haste na khādinaṃ śiśuṃ jātaṃ na bibhrati | viśāmagniṃ svadhvaram ‖*
+
+— the Hotṛ recites this seventh ṛk. The meaning of this ṛk is as follows. Newly
+
+### Printed p. 388 (PDF 408)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1".)*
+
+— born, just as one lifts a newborn child in the hands, so the ṛtvijs lift in their hands the Agni born in the araṇi. The chief purport of this is that this Agni in child-form bears the principal part in the sacrifice performed by the people, and is the eater of the oblations and the like. The use of the word हस्त (*hasta*) in the first pāda: the ṛtvijs churn this Agni with their own hands; therefore it is said that they lift him in their hands. In the second pāda, for the Agni just born, the simile of the newborn child is given. The word न (*na*) used here denotes the sense of assent (*aṅgīkāra*, "Om"). In everyday language the word न (*na*) denotes only the sense of negation; but in the Vedas this word denotes negation, comparison and assent; here assent is the intended sense. Further, for the word देवानां (*devānāṃ*) the meaning may be either "by the mantras that set forth the deities", or, by a change of letters, वेदानां (*vedānāṃ*), "of the Vedas" (connected with the Vedas). Now the eighth ṛk of the churning of Agni, namely —
+
+*(Ṛ. Saṃ. 6-16-41, as in the file.)*
+
+> प्र देवं देववीतये भरता वसुवित्तमं । आ स्वे योनौ नि षीदतु ॥
+
+> *pra devaṃ devavītaye bharatā vasuvittamaṃ | ā sve yonau ni ṣīdatu ‖*
+
+— this ṛk the Hotṛ recites. "O ṛtvijs, place the Agni now produced in his own place, the *āhavanīya* pit. May Agni, there in his own place, sit." This ṛk, bearing such a sense, is fitting for the act of placing Agni in the *āhavanīya* pit. Here, in accordance with the *praiṣa* mantra that is recited in every act, the Hotṛ recites the mantra that is fitting for that act and has the proper meaning. Thus: as soon as Agni is produced, the Adhvaryu, addressing the Hotṛ, says the praiṣa mantra जाताया नुब्रू३हि (*jātāyā nubrū3hi*); in reply the Hotṛ recites the fitting ṛk उत ब्रुवन्तु जन्तवः (*uta bruvantu jantavaḥ*). In the same way, when the Agni produced is placed in the pit called *āhavanīya*, as soon as the Adhvaryu has said the praiṣa mantra प्रह्रियमाणायानुब्रू३हि (*prahriyamāṇāyānubrū3hi*), the Hotṛ recites the ṛk प्र देवं देववीतये (*pra devaṃ devavītaye*) that suits that occasion. It is to be understood that it goes thus in every act. In the Taittirīya Saṃhitā of the Yajurveda, on this matter —
+
+*(Tai. Saṃ. 6-3-5-2, 3.)*
+
+> अग्नये मथ्यमानायानुब्रूहीत्याह सावित्रीमृचमन्वाह सवितृप्रसूत एवैनं मंथति जाताया नुब्रूहि प्रह्रियमाणायानुब्रूहीत्याह कांडेकांड एवैनं क्रियमाणे[?] समर्थयति गायत्रीः सर्वा अन्वाह ॥
+
+> *agnaye mathyamānāyānubrūhītyāha sāvitrīmṛcamanvāha savitṛprasūta evainaṃ maṃthati jātāyā nubrūhi prahriyamāṇāyānubrūhītyāha kāṃḍekāṃḍa evainaṃ kriyamāṇe[?] samarthayati gāyatrīḥ sarvā anvāha ‖*
+
+etc. It is just this matter that is explained here by the sentence यद्यज्ञोऽभिरूपं तत्समृद्धं (*yadyajño 'bhirūpaṃ tatsamṛddhaṃ*). That is: in the several acts, by saying the mantras that are suitable and appropriate to each act, the sacrifice must be carried out in due order; this is the chief purport. At the end, as soon as आ स्वे योनौ निषीदतु (*ā sve yonau niṣīdatu*) is said,
+
+### Printed p. 389 (PDF 409)
+
+*(Header: "A. 2 A. 5 Va. 17", "Ṛgvedasaṃhitā" (Varga numeral as read). Ṛk 1 Special Topics continuing.)*
+
+they place Agni in the *āhavanīya* pit; for the place of the *āhavanīya* is said to be the place of the Agni just churned (that is, just produced).
+
+> आजातं जातवेदसीति जाते इतरो जातवेदा इतरः । प्रियं शिशीतातिथिमित्येष ह वा अस्य प्रियोऽतिथिर्यदग्निरग्नेः । स्योन आ गृहपतिमिति शांत्यामेवैनं तद्दधाति । अग्निनाग्निः समिध्यते कविर्गृहपतिर्युवा । हव्यवाड्जुह्वास्य इत्यभिरूपा यद्यज्ञोऽभिरूपं तत्समृद्धं । त्वं ह्यग्ने अग्निना विप्रो विप्रेण सन्त्सतेति[?] विप्र इतरो विप्र इतरः सन्नितरः सन्नितरः सखा सख्या समिध्यस इत्येष ह वा अस्य स्वः सखा यदग्निरग्नेः ॥
+
+> *ājātaṃ jātavedasīti jāte itaro jātavedā itaraḥ | priyaṃ śiśītātithimityeṣa ha vā asya priyo 'tithiryadagniragneḥ | syona ā gṛhapatimiti śāṃtyāmevainaṃ taddadhāti | agnināgniḥ samidhyate kavirgṛhapatiryuvā | havyavāḍjuhvāsya ityabhirūpā yadyajño 'bhirūpaṃ tatsamṛddhaṃ | tvaṃ hyagne agninā vipro vipreṇa santsateti[?] vipra itaro vipra itaraḥ sannitaraḥ sannitaraḥ sakhā sakhyā samidhyasa ityeṣa ha vā asya svaḥ sakhā yadagniragneḥ ‖*
+
+Now the Hotṛ, as the ninth ṛk —
+
+*(Ṛ. Saṃ. 6-16-42, as in the file.)*
+
+> आ जातं जातवेदसि प्रियं शिशीतातिथिं । स्योन आ गृहपतिं ॥
+
+> *ā jātaṃ jātavedasi priyaṃ śiśītātithiṃ | syona ā gṛhapatiṃ ‖*
+
+— recites this mantra. The chief purport of this ṛk is this: in this ṛk two kinds of Agni are indicated. जातं (*jātaṃ*) means the Agni just produced by churning; this is the first, and because it has just been produced it is indicated by the word जातं (*jātaṃ*). The second is the one already established in the *āhavanīya* pit; this they call जातवेदसं (*jātavedasaṃ*). Because it knows the form of the Agni produced by churning, the āhavanīya fire is explained as जातवेदसं (*jātavedasaṃ*). Here, to the Agni named *jātavedas* already established in the place of the āhavanīya fire, the freshly churned Agni is like a dear guest, an object of affection. Therefore this churned Agni, who is both dear and of the nature of a guest, is placed in the āhavanīya fire-pit for the sake of securing a comfortable dwelling; this is the chief purport. Then the Hotṛ —
+
+*(Ṛ. Saṃ. 1-12-6, as in the file.)*
+
+> अग्निनाग्निः समिध्यते कविर्गृहपतिर्युवा । हव्यवाड्जुह्वास्यः ॥
+
+> *agnināgniḥ samidhyate kavirgṛhapatiryuvā | havyavāḍjuhvāsyaḥ ‖*
+
+— recites this tenth ṛk. Its meaning: together with the Agni established earlier in the āhavanīya pit, the freshly churned Agni, joining him, blazes well and shines. This churned Agni is the all-knowing seer, the protector of the house or of the sacrificer, ever young, the bearer of oblations and the like to the deities, who has in his mouth the ladle called *juhū*, the instrument of the offering. (That is, because ājya and the like are offered into the flame of Agni with the ladle called *juhū*, Agni is called जुह्वास्यः (*juhvāsyaḥ*).) Thus a mantra fitting the occasion is recited here. After this, the Hotṛ —
+
+---
+
+**Progress note:** Done through printed p. 389 (PDF 409). Mandala 2 Sukta 1 Rk 1 OPEN: Special Topics continuing (churning rks 6-16-40, 41, 42, 1-12-6 explained, Tai. Saṃ. 6-3-5-2, 3 quoted); Hotṛ's next ṛk to follow on p. 390. Flags: header varga numeral (17) read from strip, not in numeral file; p. 387 ref 1-24-3 not in file, zoomed, read 1-24-3; [?] on p. 388 (one word in the Tai. Saṃ. quotation, kriyamāṇe?) and p. 389 (santsateti? in the Brāhmaṇa quotation).
