@@ -1,4 +1,4 @@
-"""Volume 12: paths. Scan = vol12/scans/ ("12 Rigveda Samhitha Volume 12 N.pdf", parts in page order; if none is uploaded the old scan Rig_Vol12.pdf in the repo root is used). Global PDF page = page in the full scan (parts in order). OFFSET: printed = PDF - OFFSET (TO BE SET from the header strips of the scan actually used)."""
+"""Volume 12: paths. Scan = vol12/scans/ ("12 Rigveda Samhitha Volume 12 N.pdf", parts in page order; if none is uploaded the old scan scans/Rig_Vol12.pdf is used). Global PDF page = page in the full scan (parts in order). OFFSET: printed = PDF - OFFSET (TO BE SET from the header strips of the scan actually used)."""
 import os,re,glob,subprocess
 VOL=os.path.abspath(os.path.join(os.path.dirname(__file__),'..'))   # the vol12/ folder
 ROOT=os.path.dirname(VOL)
