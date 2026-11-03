@@ -13293,8 +13293,8 @@ Number of ṛks in the sūkta: 16
 
 **॥ संहितापाठः ॥** *(Accents not reproduced.)*
 
-> त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
-> त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥ १ ॥
+> त्वम॑ग्ने॒ द्युभि॒स्त्वमा॑शुशु॒क्षणि॒स्त्वम॒द्भ्यस्त्वमश्म॑न॒स्परि॑ ।
+> त्वं वने॑भ्य॒स्त्वमोष॑धीभ्य॒स्त्वं नृ॒णां नृ॑पते जायसे॒ शुचिः॑ ॥ १ ॥
 
 > *tvamagne dyubhistvamāśuśukṣaṇistvamadbhyastvamaśmanaspari |*
 > *tvaṃ vanebhyastvamoṣadhībhyastvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ‖ 1 ‖*
@@ -13710,8 +13710,8 @@ the churning of Agni, the origin of Agni, the carrying of Agni and placing him i
 
 **॥ संहितापाठः ॥** *(Accents not reproduced.)*
 
-> तवाग्ने होत्रं तव पोत्रमृत्वियं तव नेष्टं त्वमग्निदृतायतः ।
-> तव प्रशास्त्रं त्वमध्वरीयसि ब्रह्मा चासि गृहपतिश्च नो दमे ॥ २ ॥
+> तवा॑ग्ने हो॒त्रं तव॑ पो॒त्रमृ॒त्वियं॒ तव॑ ने॒ष्टं त्वम॒ग्निदृ॑ताय॒तः ।
+> तव॑ प्रशा॒स्त्रं त्वम॑ध्वरीयसि ब्र॒ह्मा चासि॑ गृ॒हप॑तिश्च नो॒ दमे॑ ॥ २ ॥
 
 > *tavāgne hotraṃ tava potramṛtviyaṃ tava neṣṭaṃ tvamagnidṛtāyataḥ |*
 > *tava praśāstraṃ tvamadhvarīyasi brahmā cāsi gṛhapatiśca no dame ‖ 2 ‖*
@@ -13811,8 +13811,8 @@ The होतृ (*hotṛ*) in the sacrifice invokes the deities, reciting mantr
 
 *(The Ṛk number is not printed after the closing daṇḍa on this page; the Pada follows on p. 396.)*
 
-> त्वमग्न इन्द्रो वृषभः सतामसि त्वं विष्णुरुरुगायो नमस्यः ।
-> त्वं ब्रह्मा रयिविद्ब्रह्मणस्पते त्वं विधर्तः सचसे पुरंध्या ॥
+> त्वम॑ग्न॒ इन्द्रो॑ वृष॒भः स॒ताम॑सि॒ त्वं विष्णु॑रुरुगा॒यो न॑म॒स्यः॑ ।
+> त्वं ब्र॒ह्मा र॑यि॒विद्ब्र॑ह्मणस्पते॒ त्वं वि॑धर्तः सचसे॒ पुरं॑ध्या ॥
 
 > *tvamagna indro vṛṣabhaḥ satāmasi tvaṃ viṣṇururugāyo namasyaḥ |*
 > *tvaṃ brahmā rayividbrahmaṇaspate tvaṃ vidhartaḥ sacase puraṃdhyā ‖*
@@ -13877,8 +13877,8 @@ You, Agni, are Indra, the showerer (of bounties) on the good ; you are the adora
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः ।
-> त्वमर्यमा सत्पतिर्यस्य संभुजं त्वमंशो विदथे देव भाजयुः ॥ ४ ॥
+> त्वम॑ग्ने॒ राजा॒ वरु॑णो धृ॒तव्र॑त॒स्त्वं मि॒त्रो भ॑वसि द॒स्म ईड्यः॑ ।
+> त्वम॑र्य॒मा सत्प॑ति॒र्यस्य॑ सं॒भुजं॒ त्वमंशो॑ वि॒दथे॑ देव भाज॒युः ॥ ४ ॥
 
 > *tvamagne rājā varuṇo dhṛtavratastvaṃ mitro bhavasi dasma īḍyaḥ |*
 > *tvamaryamā satpatiryasya saṃbhujaṃ tvamaṃśo vidathe deva bhājayuḥ ‖ 4 ‖*
@@ -13962,8 +13962,8 @@ Passage cited (RV 2-27-1, printed "ṛ. saṃ. 2-27-1"; the sentence introducing
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्ने त्वष्टा विधते सुवीर्यं तव ग्नावो मित्रमहः सजात्यम् ।
-> त्वमाशुहेमा ररिषे स्वश्व्यं त्वं नरां शर्धो असि पुरूवसुः ॥ ५
+> त्वम॑ग्ने॒ त्वष्टा॑ विध॒ते सु॒वीर्यं॒ तव॒ ग्नावो॑ मित्रमहः सजा॒त्य॑म् ।
+> त्वमा॑शु॒हेमा॑ ररिषे॒ स्वश्व्यं॒ त्वं न॒रां शर्धो॑ असि पुरू॒वसुः॑ ॥ ५
 
 > *tvamagne tvaṣṭā vidhate suvīryaṃ tava gnāvo mitramahaḥ sajātyam |*
 > *tvamāśuhemā rariṣe svaśvyaṃ tvaṃ narāṃ śardho asi purūvasuḥ ‖ 5*
@@ -14019,7 +14019,7 @@ You, Agni, are Twashtri, (the giver) of great wealth to (your) worshipper : thes
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
+> त्वम॑ग्ने रु॒द्रो असु॑रो म॒हो दि॒वस्त्वं शर्धो॒ मारु॑तं पृ॒क्ष ई॑शिषे ।
 
 > *tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
 
@@ -14227,7 +14227,7 @@ Part 10 page 379; Part 13 page 541, in these places.
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्ने द्रविणोदा अरंकृते त्वं देवः सविता रत्नधा असि ।
+> त्वम॑ग्ने द्रविणो॒दा अ॑रं॒कृते॒ त्वं दे॒वः स॑वि॒ता र॑त्न॒धा अ॑सि ।
 
 > *tvamagne draviṇodā araṃkṛte tvaṃ devaḥ savitā ratnadhā asi |*
 
@@ -14373,7 +14373,7 @@ Kannada: "In these ṛks the words *sahasasputra*, *sahasaḥ sūnu*, *sahaso ya
 
 **॥ संहितापाठः ॥**
 
-> त्वामग्ने दम आ विश्पतिं विशस्त्वां राजानं सुविदत्रमृंजते ।
+> त्वाम॑ग्ने॒ दम॒ आ वि॒श्पतिं॒ विश॒स्त्वां राजा॑नं सुवि॒दत्र॑मृंजते ।
 
 > *tvāmagne dama ā viśpatiṃ viśastvāṃ rājānaṃ suvidatramṛṃjate |*
 
@@ -14457,8 +14457,8 @@ Kannada: "Here the word हवींषि (*havīṃṣi*) must be supplied (*a
 
 **॥ संहितापाठः ॥**
 
-> त्वामग्ने पितरमिष्टिभिर्नरस्त्वां भ्रात्राय शम्या तनूरुचं ।
-> त्वं पुत्रो भवसि यस्तेऽविधत्त्वं सखा सुशेवः पास्यधृषः ॥ ९ ॥
+> त्वाम॑ग्ने पि॒तर॑मि॒ष्टिभि॒र्नर॒स्त्वां भ्रा॒त्राय॒ शम्या॑ तनू॒रुचं॑ ।
+> त्वं पु॒त्रो भ॑वसि॒ यस्तेऽवि॑ध॒त्त्वं सखा॑ सु॒शेवः॑ पास्य॒धृषः॑ ॥ ९ ॥
 
 > *tvāmagne pitaramiṣṭibhirnarastvāṃ bhrātrāya śamyā tanūrucaṃ |*
 > *tvaṃ putro bhavasi yaste 'vidhattvaṃ sakhā suśevaḥ pāsyadhṛṣaḥ ‖ 9 ‖*
@@ -14527,8 +14527,8 @@ Kannada: "One who shines in the bodies of living beings in the form of heat. The
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्न ऋभुराके नमस्यस्त्वं वाजस्य क्षुमतो राय ईशिषे ।
-> त्वं वि भास्यनु दक्षि दावने त्वं विशिक्षुरसि यज्ञमातनिः ॥ १० ॥
+> त्वम॑ग्न ऋ॒भुरा॒के न॑म॒स्य१॒॑स्त्वं वाज॑स्य क्षु॒मतो॑ रा॒य ई॑शिषे ।
+> त्वं वि भा॒स्यनु॑ दक्षि दा॒वने॒ त्वं वि॒शिक्षु॑रसि य॒ज्ञमा॒तनिः॑ ॥ १० ॥
 
 > *tvamagna ṛbhurāke namasyastvaṃ vājasya kṣumato rāya īśiṣe |*
 > *tvaṃ vi bhāsyanu dakṣi dāvane tvaṃ viśikṣurasi yajñamātaniḥ ‖ 10 ‖*
@@ -14613,8 +14613,8 @@ You, Agni, are (ever) resplendent, and are to be glorified when present ; you ar
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्ने अदितिर्देव दाशुषे त्वं होत्रा भारती वर्धसे गिरा ।
-> त्वमिळा शतहिमासि दक्षसे त्वं वृत्रहा वसुपते सरस्वती ॥ ११ ॥
+> त्वम॑ग्ने॒ अदि॑तिर्देव दा॒शुषे॒ त्वं होत्रा॒ भार॑ती वर्धसे गि॒रा ।
+> त्वमिळा॑ श॒तहि॑मासि॒ दक्ष॑से॒ त्वं वृ॑त्र॒हा व॑सुपते॒ सर॑स्वती ॥ ११ ॥
 
 > *tvamagne aditirdeva dāśuṣe tvaṃ hotrā bhāratī vardhase girā |*
 > *tvamiḷā śatahimāsi dakṣase tvaṃ vṛtrahā vasupate sarasvatī ‖ 11 ‖*
@@ -14713,8 +14713,8 @@ You, divine Agni, are Aditi to the donor of the oblation; you are Hotra and Bhar
 
 **॥ संहितापाठः ॥**
 
-> त्वमग्ने सुभृत उत्तमं वयस्तव स्पार्हे वर्ण आ संदृशि श्रियः ।
-> त्वं वाजः प्रतरणो बृहन्नसि त्वं रयिर्बहुलो विश्वतस्पृथुः ॥ १२ ॥
+> त्वम॑ग्ने॒ सुभृ॑त उत्त॒मं वय॒स्तव॑ स्पा॒र्हे वर्ण॒ आ सं॒दृशि॒ श्रियः॑ ।
+> त्वं वाजः॑ प्र॒तर॑णो बृ॒हन्न॑सि॒ त्वं र॒यिर्ब॑हु॒लो वि॒श्वत॑स्पृ॒थुः ॥ १२ ॥
 
 > *tvamagne subhṛta uttamaṃ vayastava spārhe varṇa ā saṃdṛśi śriyaḥ |*
 > *tvaṃ vājaḥ prataraṇo bṛhannasi tvaṃ rayirbahulo viśvataspṛthuḥ ‖ 12 ‖*
@@ -14781,8 +14781,8 @@ When, well-cherished Agni, you are (the giver of) excellent food : in your desir
 
 **॥ संहितापाठः ॥**
 
-> त्वामग्न आदित्यास आस्यं त्वां जिह्वां शुचयश्चक्रिरे कवे ।
-> त्वां रातिषाचो अध्वरेषु सश्चिरे त्वे देवा हविरदंत्याहुतं ॥ १३ ॥
+> त्वाम॑ग्न आदि॒त्यास॑ आ॒स्यं१॒॑ त्वां जि॒ह्वां शुच॑यश्चक्रिरे कवे ।
+> त्वां रा॑ति॒षाचो॑ अध्व॒रेषु॑ सश्चिरे॒ त्वे दे॒वा ह॒विर॑दं॒त्याहु॑तं ॥ १३ ॥
 
 > *tvāmagna ādityāsa āsyaṃ tvāṃ jihvāṃ śucayaścakrire kave |*
 > *tvāṃ rātiṣāco adhvareṣu saścire tve devā haviradaṃtyāhutaṃ ‖ 13 ‖*
@@ -14855,8 +14855,8 @@ The Adityas have made, you Agni, their mouth; the pure (deities) have made you K
 
 **॥ संहितापाठः ॥**
 
-> त्वे अग्ने विश्वे अमृतासो अद्रुह आसा देवा हविरदंत्याहुतं ।
-> त्वया मर्तासः स्वदंत आसुतिं त्वं गर्भो वीरुधां जज्ञिषे शुचिः ॥ १४ ॥
+> त्वे अ॑ग्ने॒ विश्वे॑ अ॒मृता॑सो अ॒द्रुह॑ आ॒सा दे॒वा ह॒विर॑दं॒त्याहु॑तं ।
+> त्वया॒ मर्ता॑सः स्वदंत आसु॒तिं त्वं गर्भो॑ वी॒रुधां॑ जज्ञिषे॒ शुचिः॑ ॥ १४ ॥
 
 > *tve agne viśve amṛtāso adruha āsā devā haviradaṃtyāhutaṃ |*
 > *tvayā martāsaḥ svadaṃta āsutiṃ tvaṃ garbho vīrudhāṃ jajñiṣe śuciḥ ‖ 14 ‖*
@@ -14945,8 +14945,8 @@ All the benignant immortal gods eat the offered oblation through you, as their m
 
 **॥ संहितापाठः ॥**
 
-> त्वं तान्त्सं च प्रति चासि मज्मनाग्ने सुजात प्र च देव रिच्यसे ।
-> पृक्षो यदत्र महिना वि ते भुवदनु द्यावापृथिवी रोदसी उभे ॥ १५ ॥
+> त्वं तान्त्सं च॒ प्रति॑ चासि म॒ज्मनाग्ने॑ सुजात॒ प्र च॑ देव रिच्यसे ।
+> पृ॒क्षो यदत्र॑ महि॒ना वि ते॒ भुव॒दनु॒ द्यावा॑पृथि॒वी रोद॑सी उ॒भे ॥ १५ ॥
 
 > *tvaṃ tāntsaṃ ca prati cāsi majmanāgne sujāta pra ca deva ricyase |*
 > *pṛkṣo yadatra mahinā vi te bhuvadanu dyāvāpṛthivī rodasī ubhe ‖ 15 ‖*
@@ -15011,8 +15011,8 @@ You are associated, Agni, by your vigour, with those (goods) [sic]; divine, well
 
 **॥ संहितापाठः ॥**
 
-> ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः ।
-> अस्मांश्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः ॥ १६ ॥
+> ये स्तो॒तृभ्यो॒ गोअ॑ग्रा॒मश्व॑पेशस॒मग्ने॑ रा॒तिमु॑पसृ॒जंति॑ सू॒रयः॑ ।
+> अ॒स्मांश्च॒ तांश्च॒ प्र हि नेषि॒ वस्य॒ आ बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १६ ॥
 
 > *ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ |*
 > *asmāṃśca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ ‖ 16 ‖*
@@ -15111,8 +15111,8 @@ The pious are they who present, as a gift, to the reciters of your praises, an e
 
 **॥ संहितापाठः ॥**
 
-> यज्ञेन वर्धत जातवेदसमग्निं यजध्वं हविषा तना गिरा ।
-> समिधानं सुप्रयसं स्वर्णरं द्युक्षं होतारं वृजनेषु धूर्षदं ॥ १ ॥
+> य॒ज्ञेन॑ वर्धत जा॒तवे॑दसम॒ग्निं य॑जध्वं ह॒विषा॒ तना॑ गि॒रा ।
+> स॒मि॒धा॒नं सु॑प्र॒यसं॒ स्व॑र्णरं द्यु॒क्षं होता॑रं वृ॒जने॑षु धू॒र्षदं॑ ॥ १ ॥
 
 > *yajñena vardhata jātavedasamagniṃ yajadhvaṃ haviṣā tanā girā |*
 > *samidhānaṃ suprayasaṃ svarṇaraṃ dyukṣaṃ hotāraṃ vṛjaneṣu dhūrṣadaṃ ‖ 1 ‖*
@@ -15215,8 +15215,8 @@ Exalt with sacrifice, Agni, who knows all that has been born ; worship him with 
 
 **॥ संहितापाठः ॥**
 
-> अभि त्वा नक्तीरुषसो ववाशिरेऽग्ने वत्सं न स्वसरेषु धेनवः ।
-> दिव इवेदरतिर्मानुषा युगा क्षपो भासि पुरुवार संयतः ॥ २ ॥
+> अ॒भि त्वा॒ नक्ती॑रु॒षसो॑ ववाशि॒रेऽग्ने॑ व॒त्सं न स्वस॑रेषु धे॒नवः॑ ।
+> दि॒व इ॒वेद॑र॒तिर्मानु॑षा यु॒गा क्षपो॑ भासि पुरुवार सं॒यतः॑ ॥ २ ॥
 
 > *abhi tvā naktīruṣaso vavāśire 'gne vatsaṃ na svasareṣu dhenavaḥ |*
 > *diva ivedaratirmānuṣā yugā kṣapo bhāsi puruvāra saṃyataḥ ‖ 2 ‖*
@@ -15315,8 +15315,8 @@ The mornings and evenings, Agni, are desirous (of worshipping) you, as cows in t
 
 **॥ संहितापाठः ॥**
 
-> तं देवा बुध्ने रजसः सुदंससं दिवस्पृथिव्योररतिं न्येरिरे ।
-> रथमिव वेद्यं शुक्रशोचिषमग्निं मित्रं न क्षितिषु प्रशंस्यम् ॥ ३ ॥
+> तं दे॒वा बु॒ध्ने रज॑सः सु॒दंस॑सं दि॒वस्पृ॑थि॒व्योर॑र॒तिं न्ये॑रिरे ।
+> रथ॑मिव॒ वेद्यं॑ शु॒क्रशो॑चिषम॒ग्निं मि॒त्रं न क्षि॒तिषु॑ प्र॒शंस्य॑म् ॥ ३ ॥
 
 > *taṃ devā budhne rajasaḥ sudaṃsasaṃ divaspṛthivyoraratiṃ nyerire |*
 > *rathamiva vedyaṃ śukraśociṣamagniṃ mitraṃ na kṣitiṣu praśaṃsyam ‖ 3 ‖*
@@ -15393,8 +15393,8 @@ The gods have stationed at the root of the world, that Agni who is of goodly app
 
 **॥ संहितापाठः ॥**
 
-> तमुक्षमाणं रजसि स्व आ दमे चंद्रमिव सुरुचं ह्वार आ दधुः ।
-> पृश्न्याः पतरं चितयंतमक्षभिः पाथो न पायुं जनसी उभे अनु ॥ ४ ॥
+> तमु॒क्षमा॑णं॒ रज॑सि॒ स्व आ दमे॑ चं॒द्रमि॑व सु॒रुचं॑ ह्वा॒र आ द॑धुः ।
+> पृश्न्याः॑ पत॒रं चि॒तयं॑तम॒क्षभिः॑ पा॒थो न पा॒युं जन॑सी उ॒भे अनु॑ ॥ ४ ॥
 
 > *tamukṣamāṇaṃ rajasi sva ā dame caṃdramiva surucaṃ hvāra ā dadhuḥ |*
 > *pṛśnyāḥ pataraṃ citayaṃtamakṣabhiḥ pātho na pāyuṃ janasī ubhe anu ‖ 4 ‖*
@@ -15469,8 +15469,8 @@ They have placed him in his solitary dwelling, who is shedding moisture upon the
 
 **॥ संहितापाठः ॥**
 
-> स होता विश्वं परि भूत्वध्वरं तमु हव्यैर्मनुष ऋंजते गिरा ।
-> हिरिशिप्रो वृधसानासु जर्भुरद्द्यौर्न स्तृभिश्चितयद्रोदसी अनु ॥ ५ ॥
+> स होता॒ विश्वं॒ परि॑ भूत्वध्व॒रं तमु॑ ह॒व्यैर्मनु॑ष ऋंजते गि॒रा ।
+> हि॒रि॒शि॒प्रो वृ॑धसा॒नासु॒ जर्भु॑र॒द्द्यौर्न स्तृभि॑श्चितय॒द्रोद॑सी॒ अनु॑ ॥ ५ ॥
 
 > *sa hotā viśvaṃ pari bhūtvadhvaraṃ tamu havyairmanuṣa ṛṃjate girā |*
 > *hiriśipro vṛdhasānāsu jarbhuraddyaurna stṛbhiścitayadrodasī anu ‖ 5 ‖*
@@ -15552,8 +15552,8 @@ May he, the presenter of oblations (to the gods), be around all sacrifices ; men
 
 **॥ संहितापाठः ॥**
 
-> स नो रेवत्समिधानः स्वस्तये संददस्वान्रयिमस्मासु दीदिहि ।
-> आ नः कृणुष्व सुविताय रोदसी अग्ने हव्या मनुषो देव वीतये ॥ ६ ॥
+> स नो॑ रे॒वत्स॑मिधा॒नः स्व॒स्तये॑ संदद॒स्वान्र॒यिम॒स्मासु॑ दीदिहि ।
+> आ नः॑ कृणुष्व सुवि॒ताय॒ रोद॑सी॒ अग्ने॑ ह॒व्या मनु॑षो देव वी॒तये॑ ॥ ६ ॥
 
 > *sa no revatsamidhānaḥ svastaye saṃdadasvānrayimasmāsu dīdihi |*
 > *ā naḥ kṛṇuṣva suvitāya rodasī agne havyā manuṣo deva vītaye ‖ 6 ‖*
@@ -15620,8 +15620,8 @@ You, Agni, are he who, for our good, is possessed of riches ; kindled by us, bla
 
 **॥ संहितापाठः ॥**
 
-> दा नो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि ।
-> प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि दिद्युतः ॥ ७ ॥
+> दा नो॑ अग्ने बृह॒तो दाः स॑ह॒स्रिणो॑ दु॒रो न वाजं॒ श्रुत्या॒ अपा॑ वृधि ।
+> प्राची॒ द्यावा॑पृथि॒वी ब्रह्म॑णा कृधि॒ स्व१॒॑र्ण शु॒क्रमु॒षसो॒ वि दि॑द्युतः ॥ ७ ॥
 
 > *dā no agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi |*
 > *prācī dyāvāpṛthivī brahmaṇā kṛdhi svarṇa śukramuṣaso vi didyutaḥ ‖ 7 ‖*
@@ -15694,8 +15694,8 @@ Bestow upon us, Agni, infinite possessions : grant us thousands (of cattle and d
 
 **॥ संहितापाठः ॥**
 
-> स इधान उषसो राम्या अनु स्वर्ण दीदेदरुषेण भानुना ।
-> होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायवे ॥ ८ ॥
+> स इ॑धा॒न उ॒षसो॒ राम्या॒ अनु॒ स्व१॒॑र्ण दी॑देदरु॒षेण॑ भा॒नुना॑ ।
+> होत्रा॑भिर॒ग्निर्मनु॑षः स्वध्व॒रो राजा॑ वि॒शामति॑थि॒श्चारु॑रा॒यवे॑ ॥ ८ ॥
 
 > *sa idhāna uṣaso rāmyā anu svarṇa dīdedaruṣeṇa bhānunā |*
 > *hotrābhiragnirmanuṣaḥ svadhvaro rājā viśāmatithiścārurāyave ‖ 8 ‖*
@@ -15764,8 +15764,8 @@ Kindled at the beautiful dawn, (Agni) shines with brilliant lustre, like the sun
 
 **॥ संहितापाठः ॥**
 
-> एवा नो अग्ने अमृतेषु पूर्व्य धीष्पीपाय बृहद्दिवेषु मानुषा ।
-> दुहाना धेनुर्वृजनेषु कारवे त्मना शतिनं पुरुरूपमिषणि ॥ ९ ॥
+> ए॒वा नो॑ अग्ने अ॒मृते॑षु पूर्व्य॒ धीष्पी॑पाय बृ॒हद्दि॑वेषु॒ मानु॑षा ।
+> दुहा॑ना धे॒नुर्वृ॒जने॑षु का॒रवे॒ त्मना॑ श॒तिनं॑ पुरु॒रूप॑मि॒षणि॑ ॥ ९ ॥
 
 > *evā no agne amṛteṣu pūrvya dhīṣpīpāya bṛhaddiveṣu mānuṣā |*
 > *duhānā dhenurvṛjaneṣu kārave tmanā śatinaṃ pururūpamiṣaṇi ‖ 9 ‖*
@@ -15854,8 +15854,8 @@ Amongst men our praise, Agni, celebrtaes [sic] you, who are first amongst the gr
 
 *(Printed with a mark over the vowel in जना (*janā*), read as जनाँ, in agreement with जनान् (*janān*) of the Pada; in the Saṃhitā चितयेमा (*citayemā*) the final sign is unclear, read चितयेम as in the Pada and bhāṣya [?]; in स्वर्ण (*svarṇa*) a stray small stroke after स्व (*sva*) is ignored; दुष्टरं (*duṣṭaraṃ*) is printed with ष्ट in the Saṃhitā against दुस्तरं (*dustaraṃ*) in the Pada and bhāṣya, as printed.)*
 
-> वयमग्ने अर्वता वा सुवीर्यं ब्रह्मणा वा चितयेम [?] जनाँ अति ।
-> अस्माकं द्युम्नमधि पंच कृष्टिषूच्चा स्वर्ण शुशुचीत दुष्टरं ॥ १० ॥
+> व॒यम॑ग्ने॒ अर्व॑ता वा सु॒वीर्यं॒ ब्रह्म॑णा वा चितयेम [?]॒ जना॒ँ अति॑ ।
+> अ॒स्माकं॑ द्यु॒म्नमधि॒ पंच॑ कृ॒ष्टिषू॒च्चा स्व१॒॑र्ण शु॑शुचीत दु॒ष्टरं॑ ॥ १० ॥
 
 > *vayamagne arvatā vā suvīryaṃ brahmaṇā vā citayema [?] janā~ ati |*
 > *asmākaṃ dyumnamadhi paṃca kṛṣṭiṣūccā svarṇa śuśucīta duṣṭaraṃ ‖ 10 ‖*
@@ -15930,8 +15930,8 @@ May we manifest vigour among other men, Agni, through the steed and the food (wh
 
 *(The Saṃhitā reads यस्मिन्त्सुजाता (*yasmintsujātā*); the sign after स (*sa*) is not wholly clear, read सु (*su*) as in the Pada. Ṛk number printed ೧೧, read 11, not zoomed.)*
 
-> स नो बोधि सहस्य प्रशंस्यो यस्मिन्त्सुजाता इषयंत सूरयः ।
-> यमग्ने यज्ञमुपयंति वाजिनो नित्ये तोके दीदिवांसं स्वे दमे ॥ ११ ॥
+> स नो॑ बोधि सहस्य प्र॒शंस्यो॒ यस्मि॑न्त्सुजा॒ता इ॒षयं॑त सू॒रयः॑ ।
+> यम॑ग्ने य॒ज्ञमु॑प॒यंति॑ वा॒जिनो॒ नित्ये॑ तो॒के दी॑दि॒वांसं॒ स्वे दमे॑ ॥ ११ ॥
 
 > *sa no bodhi sahasya praśaṃsyo yasmintsujātā iṣayaṃta sūrayaḥ |*
 > *yamagne yajñamupayaṃti vājino nitye toke dīdivāṃsaṃ sve dame ‖ 11 ‖*
@@ -16002,8 +16002,8 @@ Vigorous Agni, hear (our prayers); for you are he who is to be lauded ; to whom 
 
 *(Ṛk number printed ೧೨, read 12, not zoomed.)*
 
-> उभयासो जातवेदः स्याम ते स्तोतारो अग्ने सूरयश्च शर्मणि ।
-> वस्वो रायः पुरुश्चंद्रस्य भूयसः प्रजावतः स्वपत्यस्य शग्धि नः ॥ १२ ॥
+> उ॒भया॑सो जातवेदः स्याम ते स्तो॒तारो॑ अग्ने सू॒रय॑श्च॒ शर्म॑णि ।
+> वस्वो॑ रा॒यः पु॑रुश्चं॒द्रस्य॒ भूय॑सः प्र॒जाव॑तः स्वप॒त्यस्य॑ शग्धि नः ॥ १२ ॥
 
 > *ubhayāso jātavedaḥ syāma te stotāro agne sūrayaśca śarmaṇi |*
 > *vasvo rāyaḥ puruścaṃdrasya bhūyasaḥ prajāvataḥ svapatyasya śagdhi naḥ ‖ 12 ‖*
@@ -16106,8 +16106,8 @@ Agni, knowing all that is born, may we, both adorers and priests, be yours for t
 
 **॥ संहितापाठः ॥**
 
-> ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः ।
-> अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः ॥ १३ ॥
+> ये स्तो॒तृभ्यो॒ गोअ॑ग्रा॒मश्व॑पेशस॒मग्ने॑ रा॒तिमु॑पसृ॒जंति॑ सू॒रयः॑ ।
+> अ॒स्माञ्च॒ तांश्च॒ प्र हि नेषि॒ वस्य॒ आ बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १३ ॥
 
 > *ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ |*
 > *asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ ‖ 13 ‖*
@@ -16218,8 +16218,8 @@ The pious are they who present, as a gift, to the reciters of your praises an ex
 
 **॥ संहितापाठः ॥**
 
-> समिद्धो अग्निर्निहितः पृथिव्यां प्रत्यज् विश्वानि भुवनान्यस्थात् ।
-> होता पावकः प्रदिवः सुमेधा देवो देवान्यजत्वग्निरर्हन् ॥ १ ॥
+> समि॑द्धो अ॒ग्निर्निहि॑तः पृथि॒व्यां प्र॒त्यज् विश्वा॑नि॒ भुव॑नान्यस्थात् ।
+> होता॑ पाव॒कः प्र॒दिवः॑ सुमे॒धा दे॒वो दे॒वान्य॑जत्व॒ग्निरर्ह॑न् ॥ १ ॥
 
 > *samiddho agnirnihitaḥ pṛthivyāṃ pratyaj viśvāni bhuvanānyasthāt |*
 > *hotā pāvakaḥ pradivaḥ sumedhā devo devānyajatvagnirarhan ‖ 1 ‖*
@@ -16272,8 +16272,8 @@ Agni, the well-kindled, placed upon (the altar of) the earth, stands in the pres
 
 **॥ संहितापाठः ॥**
 
-> नराशंसः प्रति धामान्यंजन् तिस्रो दिवः प्रति मह्ना स्वर्चिः ।
-> घृतप्रुषा मनसा हव्यमुंदन् मूर्धन्यज्ञस्य समनक्तु देवान् ॥ २ ॥
+> नरा॒शंसः॒ प्रति॒ धामा॑न्यं॒जन् ति॒स्रो दिवः॒ प्रति॑ म॒ह्ना स्व॒र्चिः ।
+> घृ॒त॒प्रुषा॒ मन॑सा ह॒व्यमुं॒दन् मू॒र्धन्य॒ज्ञस्य॒ सम॑नक्तु दे॒वान् ॥ २ ॥
 
 > *narāśaṃsaḥ prati dhāmānyaṃjan tisro divaḥ prati mahnā svarciḥ |*
 > *ghṛtapruṣā manasā havyamuṃdan mūrdhanyajñasya samanaktu devān ‖ 2 ‖*
@@ -16328,8 +16328,8 @@ May the bright Narashansa, illumining the receptacles (of the offering) making m
 
 **॥ संहितापाठः ॥**
 
-> ईळितो अग्ने मनसा नो अर्हन्देवान्यक्षि मानुषात्पूर्वो अद्य ।
-> स आ वह मरुतां शर्धो अच्युतमिंद्रं नरो बर्हिषदं यजध्वं ॥ ३ ॥
+> ई॒ळि॒तो अ॑ग्ने॒ मन॑सा नो॒ अर्ह॑न्दे॒वान्य॑क्षि॒ मानु॑षा॒त्पूर्वो॑ अ॒द्य ।
+> स आ व॑ह म॒रुतां॒ शर्धो॒ अच्यु॑त॒मिंद्रं॑ नरो बर्हि॒षदं॑ यजध्वं ॥ ३ ॥
 
 > *īḷito agne manasā no arhandevānyakṣi mānuṣātpūrvo adya |*
 > *sa ā vaha marutāṃ śardho acyutamiṃdraṃ naro barhiṣadaṃ yajadhvaṃ ‖ 3 ‖*
@@ -16382,8 +16382,8 @@ Agni, you are the venerable Ilita ; do you, with mind favourably disposed toward
 
 **॥ संहितापाठः ॥**
 
-> देव बर्हिर्वर्धमानं सुवीरं स्तीर्णं राये सुभरं वेद्यस्यां ।
-> घृतेनाक्तं वसवः सीदतेदं विश्वे देवा आदित्या यज्ञियासः ॥ ४ ॥
+> देव॑ बर्हि॒र्वर्ध॑मानं सु॒वीरं॑ स्ती॒र्णं रा॒ये सु॒भरं॒ वेद्य॒स्यां ।
+> घृ॒तेना॒क्तं व॑सवः सीदते॒दं विश्वे॑ देवा आदित्या य॒ज्ञिया॑सः ॥ ४ ॥
 
 > *deva barhirvardhamānaṃ suvīraṃ stīrṇaṃ rāye subharaṃ vedyasyāṃ |*
 > *ghṛtenāktaṃ vasavaḥ sīdatedaṃ viśve devā ādityā yajñiyāsaḥ ‖ 4 ‖*
@@ -16436,8 +16436,8 @@ Divine grass, let the Vasus, the Vishwedevas, the adorable Adityas, sit upon thi
 
 **॥ संहितापाठः ॥**
 
-> वि श्रयंतामुर्विया हूयमाना द्वारो देवीः सुप्रायणा नमोभिः ।
-> व्यचस्वतीर्वि प्रथंतामजुर्या वर्णं पुनाना यशसं सुवीरं ॥ ५ ॥
+> वि श्र॑यंतामुर्वि॒या हू॒यमा॑ना॒ द्वारो॑ दे॒वीः सु॑प्राय॒णा नमो॑भिः ।
+> व्यच॑स्वती॒र्वि प्र॑थंतामजु॒र्या वर्णं॑ पुना॒ना य॒शसं॑ सु॒वीरं॑ ॥ ५ ॥
 
 > *vi śrayaṃtāmurviyā hūyamānā dvāro devīḥ suprāyaṇā namobhiḥ |*
 > *vyacasvatīrvi prathaṃtāmajuryā varṇaṃ punānā yaśasaṃ suvīraṃ ‖ 5 ‖*
@@ -16492,8 +16492,8 @@ Let the divine doors, spacious and easily accessible, and to be saluted with pro
 
 **॥ संहितापाठः ॥**
 
-> साध्वपांसि सनता न उक्षिते उषासानक्ता वय्येव रण्विते ।
-> तंतुं ततं संवयंती समीची यज्ञस्य पेशः सुदुघे पयस्वती ॥ ६ ॥
+> सा॒ध्वपां॑सि स॒नता॑ न उक्षि॒ते उ॒षासा॒नक्ता॑ व॒य्ये॑व रण्वि॒ते ।
+> तंतुं॑ त॒तं सं॒वयं॑ती समी॒ची य॒ज्ञस्य॒ पेशः॑ सु॒दुघे॒ पय॑स्वती ॥ ६ ॥
 
 > *sādhvapāṃsi sanatā na ukṣite uṣāsānaktā vayyeva raṇvite |*
 > *taṃtuṃ tataṃ saṃvayaṃtī samīcī yajñasya peśaḥ sudughe payasvatī ‖ 6 ‖*
@@ -16550,8 +16550,8 @@ In regard of our good deeds, Day and Night, perpetually reverenced, are interwea
 
 **॥ संहितापाठः ॥**
 
-> दैव्या होतारा प्रथमा विदुष्टर ऋजु यक्षतः सम्ऋचा वपुष्टरा ।
-> देवान्यजंतावृतुथा समंजतो नाभा पृथिव्या अधि सानुषु त्रिषु ॥ ७ ॥
+> दैव्या॒ होता॑रा प्रथ॒मा वि॒दुष्ट॑र ऋ॒जु य॑क्षतः॒ सम्ऋ॒चा व॒पुष्ट॑रा ।
+> दे॒वान्यजं॑तावृतु॒था समं॑जतो॒ नाभा॑ पृथि॒व्या अधि॒ सानु॑षु त्रि॒षु ॥ ७ ॥
 
 > *daivyā hotārā prathamā viduṣṭara ṛju yakṣataḥ samṛcā vapuṣṭarā |*
 > *devānyajaṃtāvṛtuthā samaṃjato nābhā pṛthivyā adhi sānuṣu triṣu ‖ 7 ‖*
@@ -16610,8 +16610,8 @@ Let the two divine invokers of the gods, the first (to be reverenced), most wise
 
 **॥ संहितापाठः ॥**
 
-> सरस्वती साधयंती धियं न ईळा देवी भारती विश्वतूर्तिः ।
-> तिस्रो देवीः स्वधया बर्हिरेदमच्छिद्रं पांतु शरणं निषद्य ॥ ८ ॥
+> सर॑स्वती सा॒धयं॑ती॒ धियं॑ न॒ ईळा॑ दे॒वी भार॑ती वि॒श्वतू॑र्तिः ।
+> ति॒स्रो दे॒वीः स्व॒धया॑ ब॒र्हिरेदमच्छि॑द्रं पांतु शर॒णं नि॒षद्य॑ ॥ ८ ॥
 
 > *sarasvatī sādhayaṃtī dhiyaṃ na īḷā devī bhāratī viśvatūrtiḥ |*
 > *tisro devīḥ svadhayā barhiredamacchidraṃ pāṃtu śaraṇaṃ niṣadya ‖ 8 ‖*
@@ -16660,8 +16660,8 @@ May the three goddesses, Saraswati, perfecting our understanding, the divine Ila
 
 **॥ संहितापाठः ॥**
 
-> पिशंगरूपः सुभरो वयोधाः श्रुष्टी वीरो जायते देवकामः ।
-> प्रजां त्वष्टा वि ष्यतु नाभिमस्मे अथा देवानामप्येतु पाथः ॥ ९ ॥
+> पि॒शंग॑रूपः सु॒भरो॑ वयो॒धाः श्रु॒ष्टी वी॒रो जा॑यते दे॒वका॑मः ।
+> प्र॒जां त्वष्टा॒ वि ष्य॑तु॒ नाभि॑म॒स्मे अथा॑ दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥ ९ ॥
 
 > *piśaṃgarūpaḥ subharo vayodhāḥ śruṣṭī vīro jāyate devakāmaḥ |*
 > *prajāṃ tvaṣṭā vi ṣyatu nābhimasme athā devānāmapyetu pāthaḥ ‖ 9 ‖*
@@ -16722,8 +16722,8 @@ May a tawny-hued, well-grown (son), the bestower of food, active, manly, a worsh
 
 **॥ संहितापाठः ॥**
 
-> वनस्पतिरवसृजन्नुप स्थादग्निर्हविः सूदयाति प्र धीभिः ।
-> त्रिधा समक्तं नयतु प्रजानन्देवेभ्यो दैव्यः शमितोप हव्यं ॥ १० ॥
+> वन॒स्पति॑रवसृ॒जन्नुप॑ स्थाद॒ग्निर्ह॒विः सू॑दयाति॒ प्र धी॒भिः ।
+> त्रिधा॒ सम॑क्तं नयतु प्रजा॒नन्दे॒वेभ्यो॒ दैव्यः॑ शमि॒तोप॑ ह॒व्यं ॥ १० ॥
 
 > *vanaspatiravasṛjannupa sthādagnirhaviḥ sūdayāti pra dhībhiḥ |*
 > *tridhā samaktaṃ nayatu prajānandevebhyo daivyaḥ śamitopa havyaṃ ‖ 10 ‖*
@@ -16778,8 +16778,8 @@ May Agni, who is Vanaspati, approving (of our rite), approach: and by his especi
 
 **॥ संहितापाठः ॥**
 
-> घृतं मिमिक्षे घृतमस्य योनिर्घृते श्रितो घृतम्वस्य धाम ।
-> अनुष्वधमा वह मादयस्व स्वाहाकृतं वृषभ वक्षि हव्यं ॥ ११ ॥
+> घृ॒तं मि॑मिक्षे घृ॒तम॑स्य॒ योनि॑र्घृ॒ते श्रि॒तो घृ॒तम्व॑स्य॒ धाम॑ ।
+> अ॒नु॒ष्व॒धमा व॑ह मा॒दय॑स्व॒ स्वाहा॑कृतं वृषभ वक्षि ह॒व्यं ॥ ११ ॥
 
 > *ghṛtaṃ mimikṣe ghṛtamasya yonirghṛte śrito ghṛtamvasya dhāma |*
 > *anuṣvadhamā vaha mādayasva svāhākṛtaṃ vṛṣabha vakṣi havyaṃ ‖ 11 ‖*
@@ -16865,8 +16865,8 @@ I sprinkle the butter, for butter is his birth-place, he is nourished by butter;
 
 **॥ संहितापाठः ॥**
 
-> हुवे वः सुद्योत्मानं सुवृक्तिं विशामग्निमतिथिं सुप्रयसं ।
-> मित्र इव यो दिधिषाय्यो भूद्देव आदेवे जने जातवेदाः ॥ १ ॥
+> हु॒वे वः॑ सु॒द्योत्मा॑नं सुवृ॒क्तिं वि॒शाम॒ग्निमति॑थिं सुप्र॒यसं॑ ।
+> मि॒त्र इ॑व॒ यो दि॑धि॒षाय्यो॒ भूद्दे॒व आदे॑वे॒ जने॑ जा॒तवे॑दाः ॥ १ ॥
 
 > *huve vaḥ sudyotmānaṃ suvṛktiṃ viśāmagnimatithiṃ suprayasaṃ |*
 > *mitra iva yo didhiṣāyyo bhūddeva ādeve jane jātavedāḥ ‖ 1 ‖*
@@ -16971,8 +16971,8 @@ That is, he goes on the other tithis (days) to the sacrificial houses of persons
 
 **॥ संहितापाठः ॥**
 
-> इमं विधन्तो अपां सधस्थे द्विता दधुर्भृगवो विक्ष्वायोः ।
-> एष विश्वान्यभ्यस्तु भूमा देवानामग्निररतिर्जीराश्वः ॥ २ ॥
+> इ॒मं वि॒धन्तो॑ अ॒पां स॒धस्थे॑ द्वि॒ता द॑धु॒र्भृग॑वो वि॒क्ष्वा॒३॒॑योः ।
+> ए॒ष विश्वा॑न्य॒भ्य॑स्तु॒ भूमा॑ दे॒वाना॑म॒ग्निर॑र॒तिर्जी॒राश्वः॑ ॥ २ ॥
 
 > *imaṃ vidhanto apāṃ sadhasthe dvitā dadhurbhṛgavo vikṣvāyoḥ |*
 > *eṣa viśvānyabhyastu bhūmā devānāmagniraratirjīrāśvaḥ ‖ 2 ‖*
@@ -17031,8 +17031,8 @@ The Bhrigus, worshipping Agni, have twice made him manifest, (once) in the abode
 
 **॥ संहितापाठः ॥**
 
-> अग्निं देवासो मानुषीषु विक्षु प्रियं धुः क्षेष्यन्तो न मित्रं ।
-> स दीदयदुशतीरूर्म्या आ दक्षाय्यो यो दास्वते दम आ ॥ ३ ॥
+> अ॒ग्निं दे॒वासो॒ मानु॑षीषु वि॒क्षु प्रि॒यं धुः॑ क्षे॒ष्यन्तो॒ न मि॒त्रं ।
+> स दी॑दयदुश॒तीरूर्म्या॒ आ द॒क्षाय्यो॒ यो दास्व॑ते॒ दम॒ आ ॥ ३ ॥
 
 > *agniṃ devāso mānuṣīṣu vikṣu priyaṃ dhuḥ kṣeṣyanto na mitraṃ |*
 > *sa dīdayaduśatīrūrmyā ā dakṣāyyo yo dāsvate dama ā ‖ 3 ‖*
@@ -17133,8 +17133,8 @@ The Kannada says that "he shines in the night-time" means that from evening to m
 
 *(In the Saṃhitā the strip seems to show धक्षोः with an extra small mark above the line (printed ಧಕ್ಷ್ರೋಃ); धक्षोः is written, as the Pada, the bhāṣya and the Pratipadārtha all give it. In जिह्वामत्यो (*jihvāmatyo*) the strip shows a doubled ya-sign; the reading follows the Pada, [?].)*
 
-> अस्य रण्वा स्वस्येव पुष्टिः सन्दृष्टिरस्य हियानस्य धक्षोः ।
-> वि यो भरिभ्रदोषधीषु जिह्वामत्यो न रथ्यो दोधवीति वारान् ॥ ४ ॥
+> अ॒स्य र॒ण्वा स्वस्ये॑व पु॒ष्टिः सन्दृ॑ष्टिरस्य हिया॒नस्य॒ धक्षोः॑ ।
+> वि यो भरि॑भ्र॒दोष॑धीषु जि॒ह्वामत्यो॒ न रथ्यो॑ दोधवीति॒ वारा॑न् ॥ ४ ॥
 
 > *asya raṇvā svasyeva puṣṭiḥ sandṛṣṭirasya hiyānasya dhakṣoḥ |*
 > *vi yo bharibhradoṣadhīṣu jihvāmatyo na rathyo dodhavīti vārān ‖ 4 ‖*
@@ -17245,8 +17245,8 @@ The Kannada then adds: In this Ṛk Agni in the form of a forest fire (the "kā�
 
 *(The strip prints जुजुर्वाँ (*jujurvāṃ*) with a small sign above the ā-stroke; it is written as a chandrabindu.)*
 
-> आ यन्मे अभ्वं वनदः पनन्तोशिग्भ्यो नामिमीत वर्णम् ।
-> स चित्रेण चिकिते रंसु भासा जुजुर्वाँ यो मुहुरा युवा भूत् ॥ ५ ॥
+> आ यन्मे॒ अभ्वं॑ व॒नदः॒ पन॑न्तो॒शिग्भ्यो॒ नामि॑मीत॒ वर्ण॑म् ।
+> स चि॒त्रेण॑ चिकिते॒ रंसु॑ भा॒सा जु॑जु॒र्वाँ यो मुहु॒रा युवा॒ भूत् ॥ ५ ॥
 
 > *ā yanme abhvaṃ vanadaḥ panantośigbhyo nāmimīta varṇam |*
 > *sa citreṇa cikite raṃsu bhāsā jujurvā~ yo muhurā yuvā bhūt ‖ 5 ‖*
@@ -17345,8 +17345,8 @@ The sentence from the previous page continues: ...becomes devoid of radiance, ye
 
 *(In the Saṃhitā the strip prints वार्ण (*vārṇa*) as in the sandhi form of वाः न (*vāḥ na*). The numeral at the end looks like ३ in the Saṃhitā and ६ in the Pada; ६ is written, as the sequence requires, [?].)*
 
-> आ यो वना तातृषाणो न भाति वार्ण पथा रथ्येव स्वानीत् ।
-> कृष्णाध्वा तपू रण्वश्चिकेत द्यौरिव स्मयमानो नभोभिः ॥ ६ ॥
+> आ यो वना॑ तातृषा॒णो न भाति॒ वार्ण प॒था रथ्ये॑व स्वानीत् ।
+> कृ॒ष्णाध्वा॒ तपू॑ र॒ण्वश्चि॑केत॒ द्यौरि॑व॒ स्मय॑मानो॒ नभो॑भिः ॥ ६ ॥
 
 > *ā yo vanā tātṛṣāṇo na bhāti vārṇa pathā rathyeva svānīt |*
 > *kṛṣṇādhvā tapū raṇvaściketa dyauriva smayamāno nabhobhiḥ ‖ 6 ‖*
@@ -17437,8 +17437,8 @@ The Kannada says: Here the ṛṣi has explained the meaning by giving a very ex
 
 *(In the Saṃhitā शोचिष्मा is printed with a chandrabindu-like sign above the ā-stroke and is written शोचिष्माँ. The Ṛk numeral looks like the flat-footed glyph for 7, as in the Pada; not zoomed.)*
 
-> स यो व्यस्थादभि दक्षदुर्वीं पशुर्नैति स्वयुरगोपाः ।
-> अग्निः शोचिष्माँ अतसान्युष्णन्कृष्णव्यथिरस्वदयन्न भूम ॥ ७ ॥
+> स यो व्यस्था॑द॒भि दक्ष॑दु॒र्वीं प॒शुर्नैति॑ स्व॒युरगो॑पाः ।
+> अ॒ग्निः शो॒चिष्मा॑ँ अत॒सान्यु॒ष्णन्कृ॒ष्णव्य॑थिरस्वदय॒न्न भूम॑ ॥ ७ ॥
 
 > *sa yo vyasthādabhi dakṣadurvīṃ paśurnaiti svayuragopāḥ |*
 > *agniḥ śociṣmā~ atasānyuṣṇankṛṣṇavyathirasvadayanna bhūma ‖ 7 ‖*
@@ -17537,8 +17537,8 @@ The Kannada says: having burnt thorns and the like, he makes them black, causing
 
 *(The Ṛk numeral looks like the glyph for 8 in both the Saṃhitā and the Pada; not zoomed.)*
 
-> नू ते पूर्वस्यावसो अधीतौ तृतीये विदथे मन्म शंसि ।
-> अस्मे अग्ने संयद्वीरं बृहंतं क्षुमंतं वाजं स्वपत्यं रयिं दाः ॥ ८ ॥
+> नू ते॒ पूर्व॒स्याव॑सो॒ अधी॑तौ तृ॒तीये॑ वि॒दथे॒ मन्म॑ शंसि ।
+> अ॒स्मे अ॑ग्ने सं॒यद्वी॑रं बृ॒हंतं॑ क्षु॒मंतं॒ वाजं॑ स्वप॒त्यं र॒यिं दाः॑ ॥ ८ ॥
 
 > *nū te pūrvasyāvaso adhītau tṛtīye vidathe manma śaṃsi |*
 > *asme agne saṃyadvīraṃ bṛhaṃtaṃ kṣumaṃtaṃ vājaṃ svapatyaṃ rayiṃ dāḥ ‖ 8 ‖*
@@ -17605,8 +17605,8 @@ The Kannada says: here, addressing Agni, the yajamānas and ṛtvijs who have pe
 
 *(In the Saṃhitā the word उपरा (*uparā*) is printed with a chandrabindu-like sign above the ā-stroke and is written उपराँ (*uparā~*); the Pada has उपरान् (*uparān*). The Ṛk numeral looks like ९, as in the Pada; not zoomed.)*
 
-> त्वया यथा गृत्समदासो अग्ने गुहा वन्वंत उपराँ अभि ष्युः ।
-> सुवीरासो अभिमातिषाहः स्मत्सूरिभ्यो गृणते तद्वयो धाः ॥ ९ ॥
+> त्वया॒ यथा॑ गृत्सम॒दासो॑ अग्ने॒ गुहा॑ व॒न्वंत॒ उप॑राँ अ॒भि ष्युः ।
+> सु॒वीरा॑सो अभिमाति॒षाहः॒ स्मत्सू॒रिभ्यो॑ गृण॒ते तद्वयो॑ धाः ॥ ९ ॥
 
 > *tvayā yathā gṛtsamadāso agne guhā vanvaṃta uparā~ abhi ṣyuḥ |*
 > *suvīrāso abhimātiṣāhaḥ smatsūribhyo gṛṇate tadvayo dhāḥ ‖ 9 ‖*
@@ -17721,8 +17721,8 @@ The Kannada says: the word सूरि (*sūri*) is read by Yāska among the na
 
 *(The Ṛk numeral looks like the glyph for 1 (ಂ-like loop, "∩"), not zoomed.)*
 
-> होता जनिष्ट चेतनः पिता पितृभ्य ऊतये ।
-> प्रयक्षञ्जेन्यं वसु शकेम वाजिनो यमं ॥ १ ॥
+> होता॑ जनिष्ट॒ चेत॑नः पि॒ता पि॒तृभ्य॑ ऊ॒तये॑ ।
+> प्र॒यक्ष॒ञ्जेन्यं॒ वसु॑ श॒केम॑ वा॒जिनो॒ यमं॑ ॥ १ ॥
 
 > *hotā janiṣṭa cetanaḥ pitā pitṛbhya ūtaye |*
 > *prayakṣañjenyaṃ vasu śakema vājino yamaṃ ‖ 1 ‖*
@@ -17841,8 +17841,8 @@ In this Ṛk and in the following Ṛks, Agni is addressed and praised as the �
 
 *(The Ṛk numeral, ೨ (the curled glyph), not zoomed.)*
 
-> आ यस्मिन्त्सप्त रश्मयस्तता यज्ञस्य नेतरि ।
-> मनुष्वद्दैव्यमष्टमं पोता विश्वं तदिन्वति ॥ २ ॥
+> आ यस्मि॑न्त्स॒प्त र॒श्मय॑स्त॒ता य॒ज्ञस्य॑ ने॒तरि॑ ।
+> म॒नु॒ष्वद्दैव्य॑मष्ट॒मं पोता॒ विश्वं॒ तदि॑न्वति ॥ २ ॥
 
 > *ā yasmintsapta raśmayastatā yajñasya netari |*
 > *manuṣvaddaivyamaṣṭamaṃ potā viśvaṃ tadinvati ‖ 2 ‖*
@@ -17959,8 +17959,8 @@ In this latter-half sentence, the meaning is explained that Agni, together with 
 
 *(The Ṛk numeral, ೩ (the hooked glyph), not zoomed.)*
 
-> दधन्वे वा यदीमनु वोचद्ब्रह्माणि वेरु तत् ।
-> परि विश्वानि काव्या नेमिश्चक्रमिवाभवत् ॥ ३ ॥
+> द॒ध॒न्वे वा॒ यदी॒मनु॒ वोच॒द्ब्रह्मा॑णि॒ वेरु॒ तत् ।
+> परि॒ विश्वा॑नि॒ काव्या॑ ने॒मिश्च॒क्रमि॑वाभवत् ॥ ३ ॥
 
 > *dadhanve vā yadīmanu vocadbrahmāṇi veru tat |*
 > *pari viśvāni kāvyā nemiścakramivābhavat ‖ 3 ‖*
@@ -18031,8 +18031,8 @@ Besides this, Agni himself does all the actions that the wise ṛtvijs do in the
 
 *(The Ṛk numeral, ೪ (the glyph like ಳ), not zoomed. In the Saṃhitā the first word of the second line is printed with a small mark above the first letter, which looks like an anunāsika: written विद्वाँ [?].)*
 
-> साकं हि शुचिना शुचिः प्रशास्ता क्रतुनाजनि ।
-> विद्वाँ अस्य व्रता ध्रुवा वया इवानु रोहते ॥ ४ ॥
+> सा॒कं हि शुचि॑ना॒ शुचिः॑ प्रशा॒स्ता क्रतु॒नाज॑नि ।
+> वि॒द्वाँ अ॑स्य व्र॒ता ध्रु॒वा व॒या इ॒वानु॑ रोहते ॥ ४ ॥
 
 > *sākaṃ hi śucinā śuciḥ praśāstā kratunājani |*
 > *vidvā~ asya vratā dhruvā vayā ivānu rohate ‖ 4 ‖*
@@ -18109,8 +18109,8 @@ Besides this, the abstention-rites (nivṛtti-karma) such as yama and niyama are
 
 *(The Ṛk numeral ೫, not zoomed.)*
 
-> ता अस्य वर्णमायुवो नेष्टुः सचंत धेनवः ।
-> कुवित्तिसृभ्य आ वरं स्वसारो या इदं ययुः ॥ ५ ॥
+> ता अ॑स्य॒ वर्ण॑मा॒युवो॒ नेष्टुः॑ सचंत धे॒नवः॑ ।
+> कु॒वित्ति॒सृभ्य॒ आ वरं॒ स्वसा॑रो॒ या इ॒दं य॒युः ॥ ५ ॥
 
 > *tā asya varṇamāyuvo neṣṭuḥ sacaṃta dhenavaḥ |*
 > *kuvittisṛbhya ā varaṃ svasāro yā idaṃ yayuḥ ‖ 5 ‖*
@@ -18239,8 +18239,8 @@ Here the word धेनवः (*dhenavaḥ*) is used as a qualifier of the word 
 
 *(The Ṛk numeral ೬, the hooked glyph, not zoomed.)*
 
-> यदी मातुरुप स्वसा घृतं भरंत्यस्थित ।
-> तासामध्वर्युरागतौ युवो वृष्टीव मोदते ॥ ६ ॥
+> यदी॑ मा॒तुरुप॒ स्वसा॑ घृ॒तं भरं॒त्यस्थि॑त ।
+> तासा॑मध्व॒र्युराग॑तौ॒ युवो॑ वृ॒ष्टीव॑ मोदते ॥ ६ ॥
 
 > *yadī māturupa svasā ghṛtaṃ bharaṃtyasthita |*
 > *tāsāmadhvaryurāgatau yuvo vṛṣṭīva modate ‖ 6 ‖*
@@ -18305,8 +18305,8 @@ In this Ṛk the meaning of the words मातुः स्वसा (*mātuḥ
 
 *(The Ṛk numeral ७ is the flat-footed glyph, not zoomed. In the first line the print shows what looks like a न् before ऋत्विग्, i.e. "कृणुतान्ऋत्विगृत्विजं"; the Pada has कृणुतां । ऋत्विक् । I give the Saṃhitā as printed [?].)*
 
-> स्वः स्वाय धायसे कृणुतान्ऋत्विगृत्विजं [?] ।
-> स्तोमं यज्ञं चादरं वनेमा ररिमा वयं ॥ ७ ॥
+> स्वः स्वाय॒ धाय॑से कृणु॒तान्ऋ॒त्विगृ॒त्विजं॑ [?] ।
+> स्तोमं॑ य॒ज्ञं चादरं॑ व॒नेमा॑ ररि॒मा व॒यं ॥ ७ ॥
 
 > *svaḥ svāya dhāyase kṛṇutānṛtvigṛtvijaṃ [?] |*
 > *stomaṃ yajñaṃ cādaraṃ vanemā rarimā vayaṃ ‖ 7 ‖*
@@ -18361,8 +18361,8 @@ May he, the ministering priest, discharge the office of priest at his own ceremo
 
 *(The Ṛk numeral ८ is the "ಲ"-like glyph, not zoomed.)*
 
-> यथा विद्वा अरं करद्विश्वेभ्यो यजतेभ्यः ।
-> अयमग्ने त्वे अपि यं यज्ञं चकृमा वयं ॥ ८ ॥
+> यथा॑ वि॒द्वा अरं॒ कर॒द्विश्वे॑भ्यो यज॒तेभ्यः॑ ।
+> अ॒यम॑ग्ने॒ त्वे अपि॒ यं य॒ज्ञं च॑कृ॒मा व॒यं ॥ ८ ॥
 
 > *yathā vidvā araṃ karadviśvebhyo yajatebhyaḥ |*
 > *ayamagne tve api yaṃ yajñaṃ cakṛmā vayaṃ ‖ 8 ‖*
@@ -18461,8 +18461,8 @@ Maṇḍala 2 · Anuvāka 1 · Sūkta 6 · Aṣṭaka 2 · Adhyāya 5 · Varga 2
 
 **॥ संहितापाठः ॥**
 
-> इमां मे अग्ने समिधमिमामुपसदं वनेः ।
-> इमा उ षु श्रुधी गिरः ॥ १ ॥
+> इ॒मां मे॑ अग्ने स॒मिध॑मि॒मामु॑प॒सदं॑ वनेः ।
+> इ॒मा उ॒ षु श्रु॑धी॒ गिरः॑ ॥ १ ॥
 
 > *imāṃ me agne samidhamimāmupasadaṃ vaneḥ |*
 > *imā u ṣu śrudhī giraḥ ‖ 1 ‖*
@@ -18519,8 +18519,8 @@ Agni, accept this my fuel, this my oblation ; listen, well pleased, to my praise
 
 **॥ संहितापाठः ॥**
 
-> अया ते अग्ने विधेमोर्जो नपादश्वमिष्टे ।
-> एना सूक्तेन सुजात ॥ २ ॥
+> अ॒या ते॑ अग्ने विधे॒मोर्जो॑ नपा॒दश्व॑मिष्टे ।
+> ए॒ना सू॒क्तेन॑ सुजात ॥ २ ॥
 
 > *ayā te agne vidhemorjo napādaśvamiṣṭe |*
 > *enā sūktena sujāta ‖ 2 ‖*
@@ -18585,8 +18585,8 @@ May we propitiate you, Agni, by this (oblation) ; grandson of strength, you are 
 
 **॥ संहितापाठः ॥**
 
-> तं त्वा गीर्भिर्गिर्वणसं द्रविणस्युं द्रविणोदः ।
-> सपर्येम सपर्यवः ॥ ३ ॥
+> तं त्वा॑ गी॒र्भिर्गिर्व॑णसं द्रविण॒स्युं द्र॑विणोदः ।
+> स॒प॒र्येम॑ सप॒र्यवः॑ ॥ ३ ॥
 
 > *taṃ tvā gīrbhirgirvaṇasaṃ draviṇasyuṃ draviṇodaḥ |*
 > *saparyema saparyavaḥ ‖ 3 ‖*
@@ -18645,8 +18645,8 @@ Granter of riches, may we, your worshippers, propitiate you, who are desirous of
 
 **॥ संहितापाठः ॥**
 
-> स बोधि सूरिर्मघवा वसुपते वसुदावन् ।
-> युयोध्यस्मद्द्वेषांसि ॥ ४ ॥
+> स बो॑धि सू॒रिर्म॒घवा॒ वसु॑पते॒ वसु॑दावन् ।
+> यु॒यो॒ध्य१॒॑स्मद्द्वेषां॑सि ॥ ४ ॥
 
 > *sa bodhi sūrirmaghavā vasupate vasudāvan |*
 > *yuyodhyasmaddveṣāṃsi ‖ 4 ‖*
@@ -18703,8 +18703,8 @@ Lord of wealth, giver of wealth, possessor of riches, Agni, you are wise, unders
 
 **॥ संहितापाठः ॥**
 
-> स नो वृष्टिं दिवस्परि स नो वाजमनर्वाणं ।
-> स नः सहस्रिणीरिषः ॥ ५ ॥
+> स नो॑ वृ॒ष्टिं दि॒वस्परि॒ स नो॒ वाज॑मन॒र्वाणं॑ ।
+> स नः॑ सह॒स्रिणी॒रिषः॑ ॥ ५ ॥
 
 > *sa no vṛṣṭiṃ divaspari sa no vājamanarvāṇaṃ |*
 > *sa naḥ sahasriṇīriṣaḥ ‖ 5 ‖*
@@ -18749,8 +18749,8 @@ Lord of wealth, giver of wealth, possessor of riches, Agni, you are wise, unders
 
 **॥ संहितापाठः ॥**
 
-> ईळानायावस्यवे यविष्ठ दूत नो गिरा ।
-> यजिष्ठ होतरा गहि ॥ ६ ॥
+> ईळा॑नायाव॒स्यवे॒ यवि॑ष्ठ दूत नो गि॒रा ।
+> यजि॑ष्ठ होत॒रा ग॑हि ॥ ६ ॥
 
 > *īḷānāyāvasyave yaviṣṭha dūta no girā |*
 > *yajiṣṭha hotarā gahi ‖ 6 ‖*
@@ -18797,8 +18797,8 @@ Youngest (of the gods), their messenger, their invoker, most deserving of worshi
 
 **॥ संहितापाठः ॥**
 
-> अंतर्ह्यग्न ईयसे विद्वाञ्जन्मोभया कवे ।
-> दूते जन्येव मित्र्यः ॥ ७ ॥
+> अं॒तर्ह्य॑ग्न॒ ईय॑से वि॒द्वाञ्जन्मो॒भया॑ कवे ।
+> दू॒ते जन्ये॑व॒ मित्र्यः॑ ॥ ७ ॥
 
 > *aṃtarhyagna īyase vidvāñjanmobhayā kave |*
 > *dūte janyeva mitryaḥ ‖ 7 ‖*
@@ -18893,8 +18893,8 @@ that is, "he goes (moves about) in the middle of heaven and earth (the earth and
 
 **॥ संहितापाठः ॥**
 
-> स विद्वाँ आ च पिप्रयो यक्षि चिकित्व आनुषक् ।
-> आ चास्मिन्त्सत्सि बर्हिषि ॥ ८ ॥
+> स वि॒द्वाँ आ च॑ पिप्रयो॒ यक्षि॑ चिकित्व आनु॒षक् ।
+> आ चा॒स्मिन्त्स॑त्सि ब॒र्हिषि॑ ॥ ८ ॥
 
 > *sa vidvā~ ā ca piprayo yakṣi cikitva ānuṣak |*
 > *ā cāsmintsatsi barhiṣi ‖ 8 ‖*
@@ -18987,8 +18987,8 @@ In this example it is said that first they kindle the fire; after that they spre
 
 **॥ संहितापाठः ॥**
 
-> श्रेष्ठं यविष्ठ भारताग्ने द्युमंतमा भर ।
-> वसो पुरुस्पृहं रयिं ॥ १ ॥
+> श्रेष्ठं॑ यविष्ठ भार॒ताग्ने॑ द्यु॒मंत॒मा भ॑र ।
+> वसो॑ पुरु॒स्पृहं॑ र॒यिं ॥ १ ॥
 
 > *śreṣṭhaṃ yaviṣṭha bhāratāgne dyumaṃtamā bhara |*
 > *vaso puruspṛhaṃ rayiṃ ‖ 1 ‖*
@@ -19051,8 +19051,8 @@ Youngest (of the gods), Agni, descendant of Bharata, granter of dwellings, bring
 
 **॥ संहितापाठः ॥**
 
-> मा नो अरातिरीशत देवस्य मर्त्यस्य च ।
-> पर्षि तस्या उत द्विषः ॥ २ ॥
+> मा नो॒ अरा॑तिरीशत दे॒वस्य॒ मर्त्य॑स्य च ।
+> पर्षि॒ तस्या॑ उ॒त द्वि॒षः ॥ २ ॥
 
 > *mā no arātirīśata devasya martyasya ca |*
 > *parṣi tasyā uta dviṣaḥ ‖ 2 ‖*
@@ -19155,8 +19155,8 @@ That is, a person who gives nothing to anyone, or who gives no oblations and the
 
 **॥ संहितापाठः ॥**
 
-> विश्वा उत त्वया वयं धारा उदन्या इव ।
-> अति गाहेमहि द्विषः ॥ ३ ॥
+> विश्वा॑ उ॒त त्वया॑ व॒यं धारा॑ उद॒न्या॑ इव ।
+> अति॑ गाहेमहि॒ द्विषः॑ ॥ ३ ॥
 
 > *viśvā uta tvayā vayaṃ dhārā udanyā iva |*
 > *ati gāhemahi dviṣaḥ ‖ 3 ‖*
@@ -19205,8 +19205,8 @@ Let us, through your favour, overwhelm all our foes, like torrents of water.
 
 **॥ संहितापाठः ॥**
 
-> शुचिः पावक वंद्योऽग्ने बृहद्वि रोचसे ।
-> त्वं घृतेभिराहुतः ॥ ४ ॥
+> शुचिः॑ पावक॒ वंद्योऽग्ने॑ बृ॒हद्वि रो॑चसे ।
+> त्वं घृ॒तेभि॒राहु॑तः ॥ ४ ॥
 
 > *śuciḥ pāvaka vaṃdyo 'gne bṛhadvi rocase |*
 > *tvaṃ ghṛtebhirāhutaḥ ‖ 4 ‖*
@@ -19261,8 +19261,8 @@ Purifier, Agni, holy, adorable, you shine exceedingly when (you are) worshipped 
 
 **॥ संहितापाठः ॥**
 
-> त्वं नो असि भारताग्ने वशाभिरुक्षभिः ।
-> अष्टापदीभिराहुतः ॥ ५ ॥
+> त्वं नो॑ असि भार॒ताग्ने॑ व॒शाभि॑रु॒क्षभिः॑ ।
+> अ॒ष्टाप॑दीभि॒राहु॑तः ॥ ५ ॥
 
 > *tvaṃ no asi bhāratāgne vaśābhirukṣabhiḥ |*
 > *aṣṭāpadībhirāhutaḥ ‖ 5 ‖*
@@ -19323,8 +19323,8 @@ Agni, descendant of Bharata, you are entirely ours, when sacrificed to with preg
 
 **॥ संहितापाठः ॥**
 
-> द्र्वन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः ।
-> सहसस्पुत्रो अद्भुतः ॥ ६ ॥
+> द्र्व॑न्नः स॒र्पिरा॑सुतिः प्र॒त्नो होता॒ वरे॑ण्यः ।
+> सह॑सस्पु॒त्रो अद्भु॑तः ॥ ६ ॥
 
 > *drvannaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ |*
 > *sahasasputro adbhutaḥ ‖ 6 ‖*
@@ -19435,8 +19435,8 @@ Feeder upon fuel, to whom butter is offered, (you are) the ancient, the invoker 
 
 **॥ संहितापाठः ॥**
 
-> वाजयन्निव नू रथान्योगाँ अग्नेरुप स्तुहि ।
-> यशस्तमस्य मीळ्हुषः ॥ १ ॥
+> वा॒ज॒यन्नि॑व॒ नू रथा॒न्योगा॑ँ अ॒ग्नेरुप॑ स्तुहि ।
+> य॒शस्त॑मस्य मी॒ळ्हुषः॑ ॥ १ ॥
 
 > *vājayanniva nū rathānyogā~ agnerupa stuhi |*
 > *yaśastamasya mīḷhuṣaḥ ‖ 1 ‖*
@@ -19531,8 +19531,8 @@ Praise quickly the yoked chariot of the glorious and munificent Agni, like one w
 
 **॥ संहितापाठः ॥**
 
-> यः सुनीथो ददाशुषेऽजुर्यो जरयन्नरिं ।
-> चारुप्रतीक आहुतः ॥ २ ॥
+> यः सु॑नी॒थो द॑दा॒शुषे॑ऽजु॒र्यो ज॒रय॑न्न॒रिं ।
+> चारु॑प्रतीक॒ आहु॑तः ॥ २ ॥
 
 > *yaḥ sunītho dadāśuṣe 'juryo jarayannariṃ |*
 > *cārupratīka āhutaḥ ‖ 2 ‖*
@@ -19615,8 +19615,8 @@ Who, sagacious, invincible, and of graceful gait, destroys, when propitiated, hi
 
 **॥ संहितापाठः ॥**
 
-> य उ श्रिया दमेष्वा दोषोषसि प्रशस्यते ।
-> यस्य व्रतं न मीयते ॥ ३ ॥
+> य उ॑ श्रि॒या दमे॒ष्वा दो॒षोषसि॑ प्रश॒स्यते॑ ।
+> यस्य॑ व्र॒तं न मीय॑ते ॥ ३ ॥
 
 > *ya u śriyā dameṣvā doṣoṣasi praśasyate |*
 > *yasya vrataṃ na mīyate ‖ 3 ‖*
@@ -19659,8 +19659,8 @@ Who, invested with radiance, is glorified, morning and evening, in (our) dwellin
 
 **॥ संहितापाठः ॥**
 
-> आ यः स्वर्ण भानुना चित्रो विभात्यर्चिषा ।
-> अंजानो अजरैरभि ॥ ४ ॥
+> आ यः स्व१॒॑र्ण भा॒नुना॑ चि॒त्रो वि॒भात्य॒र्चिषा॑ ।
+> अं॒जा॒नो अ॒जरै॑र॒भि ॥ ४ ॥
 
 > *ā yaḥ svarṇa bhānunā citro vibhātyarciṣā |*
 > *aṃjāno ajarairabhi ‖ 4 ‖*
@@ -19811,8 +19811,8 @@ Who, many-tinted, shines with radiance, like the sun with (his) lustre, spreadin
 
 **॥ संहितापाठः ॥**
 
-> अत्रिमनु स्वराज्यमग्निमुक्थानि वावृधुः ।
-> विश्वा अधि श्रियो दधे ॥ ५ ॥
+> अत्रि॒मनु॑ स्व॒राज्य॑म॒ग्निमु॒क्थानि॑ वावृधुः ।
+> विश्वा॒ अधि॒ श्रियो॑ दधे ॥ ५ ॥
 
 > *atrimanu svarājyamagnimukthāni vāvṛdhuḥ |*
 > *viśvā adhi śriyo dadhe ‖ 5 ‖*
@@ -19873,8 +19873,8 @@ Our praises have increased the self-irradiating devouring Agni: he is possessed 
 
 **॥ संहितापाठः ॥**
 
-> अग्नेरिंद्रस्य सोमस्य देवानामूतिभिर्वयं ।
-> अरिष्यंतः सचेमह्यभि ष्याम पृतन्यतः ॥ ६ ॥
+> अ॒ग्नेरिंद्र॑स्य॒ सोम॑स्य दे॒वाना॑मू॒तिभि॑र्व॒यं ।
+> अरि॑ष्यंतः सचेमह्य॒भि ष्या॑म पृतन्य॒तः ॥ ६ ॥
 
 > *agneriṃdrasya somasya devānāmūtibhirvayaṃ |*
 > *ariṣyaṃtaḥ sacemahyabhi ṣyāma pṛtanyataḥ ‖ 6 ‖*
