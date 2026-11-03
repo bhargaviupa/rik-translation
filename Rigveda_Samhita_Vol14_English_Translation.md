@@ -16961,4 +16961,122 @@ That is, he goes on the other tithis (days) to the sacrificial houses of persons
 
 ---
 
-**Progress note:** Done through printed p. 472 (PDF 493). Maṇḍala 2 Sūkta 4 begun (9 Ṛks; Somāhuti Bhārgava, Agni, Triṣṭup; Varga 24, 25 as printed). Ṛk 1 complete through Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English; its Special Topics (atithi, Nirukta and Durgācārya) run to the end of p. 472 and may continue on p. 473, so Ṛk 1 is left open (check the top of p. 473 before starting Ṛk 2). No colophon of Sūkta 3 is printed on p. 470. FILE DISAGREE: p. 470 last line, file said "Ā. 4-93" while I read "೪-◌೩" with a blurred middle digit and gave it as 4-13 to match the sūtra-reference printed a few lines above (4-13, which the file also reads); p. 471 had no rows; p. 472 (Ṛ. Saṃ. 5-4-5, Ni. 4-4) agree. Not zoomed: header "Va. 24" (p. 471), Ṛk numeral 1, varga numbers 24, 25 on the sūkta heading block. [?] places: p. 471 bhāṣya ⟦पाप्मैः⟧ (as printed); p. 472 Nirukta tail ⟦अतिथेरेतस्मादेव⟧ versus ⟦अतिथिरेतस्मादेव⟧; ⟦शत्रूयतामा भरा योजनानि⟧.
+---
+
+### Printed p. 473 (PDF 494)
+
+*(Header: "A. 2 A. 5 Va. 24" and "Ṛgvedasaṃhitā", "473", read from the strip, not zoomed. The Special Topics of Ṛk 1 ended on p. 472, so Ṛk 1 is closed. This page begins directly with Ṛk 2.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> इमं विधन्तो अपां सधस्थे द्विता दधुर्भृगवो विक्ष्वायोः ।
+> एष विश्वान्यभ्यस्तु भूमा देवानामग्निररतिर्जीराश्वः ॥ २ ॥
+
+> *imaṃ vidhanto apāṃ sadhasthe dvitā dadhurbhṛgavo vikṣvāyoḥ |*
+> *eṣa viśvānyabhyastu bhūmā devānāmagniraratirjīrāśvaḥ ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> इमं । विधन्तः । अपां । सधऽस्थे । द्विता । अदधुः । भृगवः । विक्षु । आयोः ।
+> एष । विश्वानि । अभि । अस्तु [?] । भूम [?] । देवानां । अग्निः । अरतिः । जीरऽअश्वः ॥ २ ॥
+
+> *imaṃ | vidhantaḥ | apāṃ | sadha 'sthe | dvitā | adadhuḥ | bhṛgavaḥ | vikṣu | āyoḥ |*
+> *eṣa | viśvāni | abhi | astu [?] | bhūma [?] | devānāṃ | agniḥ | aratiḥ | jīra 'aśvaḥ ‖ 2 ‖*
+
+*(The Pada reads "एष" without visarga, as printed. For अभि । अस्तु the strip seems to show a long ā-sign (आस्तु); अस्तु is written, [?]. भूम is written as printed, a plain ma with no ā, while the Saṃhitā has भूमा; this is repeated in the bhāṣya and Pratipadārtha.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The Bhṛgus, our ancient sages, served Agni and made him present twice, in the atmosphere and among the yajamāna's ṛtviks; may he, lord of the gods and swift-mounted, overcome all our adversaries.
+
+> इममग्निं विधन्तः परिचरन्तो भृगवोऽस्मत्पूर्वे महर्षयोऽपां सधस्थे सहस्थानेऽन्तरिक्ष आयोर्मनुष्यस्य यजमानस्य स्वभूतासु विक्षु प्रजास्वृत्विक्षु तेषां मध्ये च द्विता द्वयोः स्थानादधुः । अधारयन् ॥ दधातेर्लजः [?] रूपं ॥ एषोऽग्निर्भूम भूम्नात्यर्थं विश्वानि भूतजातान्यस्मद्विरोधीन्यभ्यस्तु । अभिभवतु । स कीदृशः । देवानामरतिरीश्वरः । तेषां मध्ये शीघ्रमरणशीलो वाऽस्मद्यागं प्रति । तथा जीराश्वः क्षिप्राश्वः ॥
+
+> *imamagniṃ vidhantaḥ paricaranto bhṛgavo 'smatpūrve maharṣayo 'pāṃ sadhasthe sahasthāne 'ntarikṣa āyormanuṣyasya yajamānasya svabhūtāsu vikṣu prajāsvṛtvikṣu teṣāṃ madhye ca dvitā dvayoḥ sthānādadhuḥ | adhārayan ‖ dadhāterlajaḥ [?] rūpaṃ ‖ eṣo 'gnirbhūma bhūmnātyarthaṃ viśvāni bhūtajātānyasmadvirodhīnyabhyastu | abhibhavatu | sa kīdṛśaḥ | devānāmaratirīśvaraḥ | teṣāṃ madhye śīghramaraṇaśīlo vā 'smadyāgaṃ prati | tathā jīrāśvaḥ kṣiprāśvaḥ ‖*
+
+*(The grammatical tail, "of the root दधाति (*dadhāti*): this is the form" (अधारयन् । दधातेर्लजः [?] रूपं), is given as printed; the letters after दधातेर् (*dadhāter*) are doubtful. No sūtra number is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 2)**
+
+(Kannada, translated:) इमं (*imaṃ*) — this Agni; विधन्तः (*vidhantaḥ*) — serving; भृगवः (*bhṛgavaḥ*) — the Bhṛgu ṛṣis; अपां सधस्थे (*apāṃ sadhasthe*) — in the atmosphere; आयोः विक्षु (*āyoḥ vikṣu*) — in the company of the ṛtviks belonging to the yajamāna; द्विता (*dvitā*) — from two places, or twice; अदधुः (*adadhuḥ*) — made (him) manifest; देवानां (*devānāṃ*) — of the gods; अरतिः (*aratiḥ*) — the lord; जीराश्वः (*jīrāśvaḥ*) — he who is mounted on a swift horse; एषः अग्निः (*eṣaḥ agniḥ*) — this Agni; भूम (*bhūma*) — abundantly; विश्वानि (*viśvāni*) — all our enemies; अभ्यस्तु (*abhyastu*) — may he conquer and destroy.
+
+**भावार्थ (Bhāvārtha — Ṛk 2)**
+
+(Kannada, translated:) "The Bhṛgu ṛṣis who served this Agni made him manifest twice: once in the atmosphere, and once on earth among the ṛtviks; thus in two places, twice. May this Agni, who is lord of the gods and mounted on a swift horse, completely conquer and destroy all our enemies."
+
+---
+
+### Printed p. 474 (PDF 495)
+
+*(Header: "474", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip. The numeral file gives only a garbled line, with the final "4" agreeing. Not zoomed.)*
+
+**English Translation** *(as printed, Ṛk 2)*
+
+The Bhrigus, worshipping Agni, have twice made him manifest, (once) in the abode of the waters, and (once) amongst the sons of men; may that Agni, the sovereign of the gods mounted on a rapid courser, ever overcome all (our foes).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 2)**
+
+(Kannada, translated:) Here the word भृगवः (*bhṛgavaḥ*) is explained, in the bhāṣya, as अस्मत्पूर्वे महर्षयः (*asmatpūrve maharṣayaḥ*): great sages more ancient than Gṛtsamada, the seer of the mantra. And since Gṛtsamada belonged to the family of Bhṛgu, it is natural that he should call the earlier ṛṣis of the Bhṛgu family his forebears. *(In the strip the name is printed ಗೃತ್ಸವದ-; Gṛtsamada is read, as the ṛṣi of this Maṇḍala.)*
+
+आयोः विक्षु—मनुष्यस्य यजमानस्य स्वभूतासु प्रजासु ऋत्विक्षु (*āyoḥ vikṣu—manuṣyasya yajamānasya svabhūtāsu prajāsu ṛtvikṣu*) — Explaining the word आयु (*āyu*), which denotes man, as "yajamāna", the commentary says that because the ṛtviks, sons, grandsons and the rest are the yajamāna's own people, the great sages made Agni arise in two places: in the atmosphere, that is, in the form of lightning, and in the houses of the yajamāna's own ṛtviks and subjects. That is, it is explained that Agni exists in two ways: in the atmosphere in the form of lightning, and, for the sacrifice, among the ṛtviks.
+
+एषः भूम विश्वानि अभ्यस्तु—अग्निः (भूम्ना) अत्यर्थं अस्मद्विरोधीनि भूतजातानि अभिभवतु (*eṣaḥ bhūma viśvāni abhyastu—agniḥ (bhūmnā) atyarthaṃ asmadvirodhīni bhūtajātāni abhibhavatu*) — The yajamāna's wish is described: may Agni overcome all the creatures that belong to the class of our enemies, we who are the yajamānas.
+
+देवानां अरतिः—अरतिरीश्वरः । शीघ्रमरणशीलो वा (*devānāṃ aratiḥ—aratirīśvaraḥ | śīghramaraṇaśīlo vā*) — Two meanings are given for the word अरति (*arati*): that Agni is the ruler of the gods, or that among the gods he is the one who comes to the sacrifice most quickly of all.
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अग्निं देवासो मानुषीषु विक्षु प्रियं धुः क्षेष्यन्तो न मित्रं ।
+> स दीदयदुशतीरूर्म्या आ दक्षाय्यो यो दास्वते दम आ ॥ ३ ॥
+
+> *agniṃ devāso mānuṣīṣu vikṣu priyaṃ dhuḥ kṣeṣyanto na mitraṃ |*
+> *sa dīdayaduśatīrūrmyā ā dakṣāyyo yo dāsvate dama ā ‖ 3 ‖*
+
+---
+
+### Printed p. 475 (PDF 496)
+
+*(Header: "A. 2 A. 5 Va. 24" read from the strip, "Ṛgvedasaṃhitā", "475". Not zoomed.)*
+
+**॥ पदपाठः ॥**
+
+> अग्निं । देवासः । मानुषीषु । विक्षु । प्रियं । धुः । क्षेष्यन्तः । न । मित्रं ।
+> सः । दीदयत् । उशतीः । ऊर्म्याः । आ । दक्षाय्यः । यः । दास्वते । दमे [?] । आ ॥ ३ ॥
+
+> *agniṃ | devāsaḥ | mānuṣīṣu | vikṣu | priyaṃ | dhuḥ | kṣeṣyantaḥ | na | mitraṃ |*
+> *saḥ | dīdayat | uśatīḥ | ūrmyāḥ | ā | dakṣāyyaḥ | yaḥ | dāsvate | dame [?] | ā ‖ 3 ‖*
+
+*(The Pada word after दास्वते is printed दमे (or दमो, the vowel sign being unclear in the strip); दमे is written to agree with the Saṃhitā and the sense, [?].)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Before leaving for heaven the gods placed Agni among men as a friend to guard the house, as a man going abroad for wealth leaves a friend; he increases the offerer's wealth and shines through all nights.
+
+> देवासो देवाः क्षेष्यन्तः स्वर्गं प्रति गच्छन्तः सन्तः पूर्वं मानुषीषु मनुष्यसंबन्धिनीषु विक्षु प्रजासु प्रियं देवानां प्रीणयितारमग्निं धुः । अधुः स्थापितवन्तः । तत्र दृष्टान्तः । क्षेष्यन्तो मित्रं न । रायं प्रति गच्छन्तो नरा मित्रं प्रियं सखायं स्वगृहरक्षार्थं स्थापयन्ति । तद्वत् । स एवं देवैः स्थापितो योऽग्निर्दास्वते हविर्दत्तवते यजमानाय तदर्थं दमे तदीये यागगृह आ आहितः स्थापितो दक्षाय्यः समर्धयिता दाता वा सोऽग्निरुशतीः कामयमाना ऊर्म्या रात्रीः सर्वासु रात्रिषु आदीदयेत् [?] । दीप्यते सर्वतः । सर्वरात्रीरादीपयेति वा ॥
+
+> *devāso devāḥ kṣeṣyantaḥ svargaṃ prati gacchantaḥ santaḥ pūrvaṃ mānuṣīṣu manuṣyasaṃbandhinīṣu vikṣu prajāsu priyaṃ devānāṃ prīṇayitāramagniṃ dhuḥ | adhuḥ sthāpitavantaḥ | tatra dṛṣṭāntaḥ | kṣeṣyanto mitraṃ na | rāyaṃ prati gacchanto narā mitraṃ priyaṃ sakhāyaṃ svagṛharakṣārthaṃ sthāpayanti | tadvat | sa evaṃ devaiḥ sthāpito yo 'gnirdāsvate havirdattavate yajamānāya tadarthaṃ dame tadīye yāgagṛha ā āhitaḥ sthāpito dakṣāyyaḥ samardhayitā dātā vā so 'gniruśatīḥ kāmayamānā ūrmyā rātrīḥ sarvāsu rātriṣu ādīdayet [?] | dīpyate sarvataḥ | sarvarātrīrādīpayeti vā ‖*
+
+*(No sūtra number or separate grammatical tail is printed. The word at "आदीदयेत्" is doubtful in the strip. The line break falls between आ (*ā*) and आहितः (*āhitaḥ*).)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3)**
+
+(Kannada, translated:) क्षेष्यन्तः (*kṣeṣyantaḥ*) — men who go out for the sake of wealth; मित्रं न (*mitraṃ na*) — as they place their friends (to guard their house); देवासः (*devāsaḥ*) — the gods; क्षेष्यन्तः (*kṣeṣyantaḥ*) — when going as dwellers in heaven; मानुषीषु (*mānuṣīṣu*) — belonging to men; विक्षु (*vikṣu*) — among the people; प्रियं (*priyaṃ*) — Agni, who gives pleasure to the gods; धुः (*dhuḥ*) — they established; यः (*yaḥ*) — which Agni, established by the gods; दास्वते (*dāsvate*) — for the yajamāna who offers the oblation; दमे (*dame*) — in his house of sacrifice; आ (*ā*) — being established; दक्षाय्यः (*dakṣāyyaḥ*) — who increases (his wealth); सः (*saḥ*) — that Agni; उशतीः (*uśatīḥ*) — desired by him; ऊर्म्याः (*ūrmyāḥ*) — in all the nights; आ दीदयत् (*ā dīdayat*) — shines.
+
+**भावार्थ (Bhāvārtha — Ṛk 3)**
+
+(Kannada, translated:) "When the gods went to heaven to dwell, they established among men Agni, who gives pleasure to the gods, as a man who goes out for wealth places his friend to guard his house. The Agni who, established in the house of the yajamāna who offers oblations, increases his wealth, shines in all the nights that he desires."
+
+**English Translation** *(as printed, Ṛk 3)*
+
+The gods, intending to dwell (in heaven), left, as a dear friend amongst the human races, that Agni, who, present in the chamber of sacrifice, is bounteous to the donor of offerings; aud [sic] shines on the nights when he is wished for.
+
+*(The page ends here. No Special Topics for Ṛk 3 are printed on this page; they may follow on p. 476.)*
+
+---
+
+**Progress note:** Done through printed p. 475 (PDF 496). Maṇḍala 2 Sūkta 4: Ṛk 1 closed (p. 473 starts with Ṛk 2). Ṛk 2 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on p. 474, then the rule). Ṛk 3 complete through printed English on p. 475; check the top of p. 476 for its Special Topics before starting Ṛk 4. FILE DISAGREE: none (the file gives only a garbled header line for p. 474 whose final "4" agrees; p. 473 and p. 475 have no rows). Not zoomed: headers "Va. 24" (pp. 473, 475), Ṛk numerals 2 and 3. [?] places: p. 473 Pada अस्तु (strip may show आस्तु) and भूम (as printed, versus Saṃhitā भूमा); bhāṣya tail ⟦दधातेर्लजः⟧; p. 474 name Gṛtsamada (printed ಗೃತ್ಸವದ-); p. 475 Pada दमे/दमो and bhāṣya आदीदयेत्.
