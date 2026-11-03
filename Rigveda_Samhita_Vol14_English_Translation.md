@@ -19297,4 +19297,136 @@ Purifier, Agni, holy, adorable, you shine exceedingly when (you are) worshipped 
 
 ---
 
-**Progress note:** Done through printed p. 523 (PDF 544). Maṇḍala 2, Sūkta 7: Ṛk 2 ended at the foot of p. 520 (no continuation on p. 521). Ṛks 3 and 4 complete (printed English and Special Topics on p. 521 and pp. 522–523). Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written on p. 523; **Ṛk 5 left open** (printed English and Special Topics to come on p. 524). Header Varga numeral on pp. 521 and 523 read as 28 (not zoomed; p. 521's glyph is hard to read). FILE DISAGREE: none (no file rows for pp. 521–523). Not zoomed: Ṛk numerals 3, 4, 5; header numerals. [?] place: p. 521 bhāṣya ⟦द्वेष्ट्रॄन्⟧ (print looks like द्वेष्ट्यान् / द्वेष्ट्रान्).
+### Printed p. 524 (PDF 545)
+
+*(Header: "524", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 7". The numeral file has no rows for this page. Ṛk 5 continues from p. 523.)*
+
+**English Translation** *(as printed, Ṛk 5)*
+
+Agni, descendant of Bharata, you are entirely ours, when sacrificed to with pregnant cows, with barren cows, or bulls.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 5)**
+
+(Kannada, translated.) **भारत (*bhārata*)** — The word भारत (*bhārata*) is read among the names of priests [?] (Ni. 3-19, not zoomed). Here, for the word भारत (*bhārata*), the bhāṣyakāra gives the explanation ऋत्विजां पुत्रस्थानीयः (*ṛtvijāṃ putrasthānīyaḥ*), "O Agni, who are like a son to the priests". At the beginning of a sacrifice the priests churn in the aranis and produce Agni; therefore it is fitting to say that Agni stands in the place of a son to the priests.
+
+**वशाभिः उक्षभिः अष्टापदीभिः आहुतः (*vaśābhiḥ ukṣabhiḥ aṣṭāpadībhiḥ āhutaḥ*)** — the bhāṣyakāra explains:
+
+> वशाभिर्वंध्याभिर्गोभिः उक्षभिः सेक्तृभिर्बलिवर्दैः अष्टापदीभिर्गर्भिणीभिश्चाहुतः ।
+
+> *vaśābhirvaṃdhyābhirgobhiḥ ukṣabhiḥ sektṛbhirbalivardaiḥ aṣṭāpadībhirgarbhiṇībhiścāhutaḥ |*
+
+(Kannada, translated, continued.) That is: "O Agni, you are propitiated with barren cows that we offer to you, with bulls capable of impregnating (cows), and with cows in calf." Sāyaṇa gives this explanation. Although there are these three kinds among cattle, the offering of cows into the fire as an oblation is nowhere seen. Alternatively, the words वशाभिः (*vaśābhiḥ*) and the like need not be given the meaning "cows"; other animals fit for sacrifice, goats and so on (अजादि (*ajādi*)), must be what is indicated here. The word अष्टापदीभिः (*aṣṭāpadībhiḥ*) means an animal together with eight feet: the four feet natural to an animal with young, and the four feet of the young in the womb, together make eight feet. Therefore the word अष्टापदीभिः (*aṣṭāpadībhiḥ*) is used to indicate a pregnant female animal.
+
+---
+
+#### Ṛk 6
+
+*(The Ṛk numeral is read as 6, not zoomed.)*
+
+**॥ संहितापाठः ॥**
+
+> द्र्वन्नः सर्पिरासुतिः प्रत्नो होता वरेण्यः ।
+> सहसस्पुत्रो अद्भुतः ॥ ६ ॥
+
+> *drvannaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ |*
+> *sahasasputro adbhutaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> द्रुऽअन्नः । सर्पिःऽआसुतिः । प्रत्नः । होता । वरेण्यः ।
+> सहसः । पुत्रः । अद्भुतः ॥ ६ ॥
+
+> *dru 'annaḥ | sarpiḥ 'āsutiḥ | pratnaḥ | hotā | vareṇyaḥ |*
+> *sahasaḥ | putraḥ | adbhutaḥ ‖ 6 ‖*
+
+---
+
+### Printed p. 525 (PDF 546)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 28 ]" [Varga numeral read from the strip, not zoomed], "Ṛgvedasaṃhitā", "525". The numeral file has no rows for this page.)*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 6)**
+
+*Gist:* Agni, whose food is fuel, who is sprinkled with ghee, ancient, the priest, to be chosen, son of strength, wonderful: may such an Agni favour us.
+
+> द्र्वन्नः समिद्रूपान्नः । सर्पिरासुतिः सर्पिरासूयेत आसिच्यते यस्मिन् तादृशः प्रत्नः पुरातनो होता होमनिष्पादको वरेण्यो वरणीयः सहसस्पुत्रः सहसो बलस्य पुत्रस्थानीयः । बलेनोत्पन्नत्वात् । अद्भुत आश्चर्यभूतः । रमणीय इत्यर्थः । एवं महानुभावोऽग्निर्मामनुजानात्वित्यर्थः [?] ॥
+
+> *drvannaḥ samidrūpānnaḥ | sarpirāsutiḥ sarpirāsūyeta āsicyate yasmin tādṛśaḥ pratnaḥ purātano hotā homaniṣpādako vareṇyo varaṇīyaḥ sahasasputraḥ sahaso balasya putrasthānīyaḥ | balenotpannatvāt | adbhuta āścaryabhūtaḥ | ramaṇīya ityarthaḥ | evaṃ mahānubhāvo 'gnirmāmanujānātvityarthaḥ [?] ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6)**
+
+(Kannada, translated:) द्र्वन्नः (*drvannaḥ*) — one who has food in the form of fuel; सर्पिरासुतिः (*sarpirāsutiḥ*) — one who is sprinkled with ājya; प्रत्नः (*pratnaḥ*) — the ancient; होता (*hotā*) — the accomplisher of the homa; वरेण्यः (*vareṇyaḥ*) — the desired; सहसस्पुत्रः (*sahasasputraḥ*) — the son of strength; अद्भुतः (*adbhutaḥ*) — the wonderful (may such an Agni favour us).
+
+**भावार्थ (Bhāvārtha — Ṛk 6)**
+
+(Kannada, translated:) May Agni, who has food in the form of fuel, who is sprinkled with ājya, the ancient, the accomplisher of the homa, desired by all, the son of strength, the wonderful, favour us.
+
+**English Translation** *(as printed, Ṛk 6)*
+
+Feeder upon fuel, to whom butter is offered, (you are) the ancient, the invoker of the gods, the excellent; the son of strength, the wonderful.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 6)**
+
+(Kannada, translated.) **द्र्वन्नः (*drvannaḥ*)** — द्रु अन्नः (*dru annaḥ*), समिद्रूपान्नः (*samidrūpānnaḥ*). For Agni the samidhs themselves are the food (āhāra). Since samidhs are connected with द्रु (*dru*) — trees — द्र्वन्नः (*drvannaḥ*) means: Agni, who has as his food the samidhs that are connected with trees.
+
+**सर्पिरासुतिः (*sarpirāsutiḥ*)** — Although the word सर्पिः (*sarpiḥ*) is read among the names of water (Ni. 2-24 [?], not zoomed), the bhāṣyakāra explains the word सर्पिः (*sarpiḥ*) as meaning ghee. In the Ṛks
+
+> त्वं हि मानुषे जनेऽग्ने सुप्रीते इध्यसे ।
+> स्रुचस्त्वा यंत्यानुषक्सुजाते सर्पिरासुते ॥
+
+> *tvaṃ hi mānuṣe jane 'gne suprīte idhyase |*
+> *srucastvā yaṃtyānuṣaksujāte sarpirāsute ‖*
+
+(Ṛ. Saṃ. 5-21-2, as read; not zoomed)
+
+> आ यस्ते सर्पिरासुतेऽग्ने शमस्ति धायसे ।
+
+> *ā yaste sarpirāsute 'gne śamasti dhāyase |*
+
+(Ṛ. Saṃ. 5-6-9, as read; not zoomed)
+
+(Kannada, translated, continued.) he has explained the word सर्पिरासुते (*sarpirāsute*) in these Ṛks as "food mixed with ghee" (घृतयुक्तान्न (*ghṛtayuktānna*)). Since ghee is offered into Agni in sacrifices and the like, that ghee itself is said to be Agni's food. Therefore Agni is addressed in many places by the word सर्पिरासुति (*sarpirāsuti*).
+
+---
+
+### Printed p. 526 (PDF 547)
+
+*(Header: "526", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 8" [numeral read as 8, not zoomed]. The numeral file has no rows for this page. The Special Topics of Ṛk 6 continue.)*
+
+(Kannada, translated, continued.) **प्रत्नः (*pratnaḥ*)** — The word प्रत्न (*pratna*) is read among the names of the ancient (Ni. 3-20, not zoomed); it means one who is ancient, who has existed from very long ago. Besides this ṛṣi who praises Agni, others more ancient than he were also praising for a very long time. Therefore Agni is said to be of a very ancient time.
+
+**सहसः पुत्रः (*sahasaḥ putraḥ*)** — When producing fire by churning in the aranis, the ṛtvijas must use the strength of their arms greatly. Therefore it is very common in the Ṛgveda to say of Agni, who is produced by strength, that he is "born of strength", "the son of strength".
+
+---
+
+## ऎಂಟನೆಯ ಸೂಕ್ತವು — The Eighth Sūkta
+
+*(Printed heading: "ಎಂಟನೆಯ ಸೂಕ್ತವು" = "The eighth Sūkta".)*
+
+**॥ सायणभाष्यम् ॥ (Sūkta 8)**
+
+*Gist:* Sūkta 8 has six Ṛks; ṛṣi Gṛtsamada, devatā Agni, metre Gāyatrī, the last Ṛk Anuṣṭubh; its use in the morning recitation and the Āśvina śastra was stated earlier.
+
+> वाजयन्निवेति षडृचमष्टमं सूक्तम् । सोमाहुतेर्[?]शब्दानुवृत्तेस्याभावान्मंडलद्रष्टा गृत्समद ऋषिः । अग्निर्देवता । हिंशब्दाद्गायत्री छंदः । अंत्यानुष्टुप् । वाजयन्निवांत्यानुष्टुबित्यनुक्रांतम् ॥ प्रातरनुवाकाश्विनशस्त्रयोस्तृतीयसूक्तत्वेनास्योत्तमावर्जितस्य विनियोग उक्तः ॥
+
+> *vājayanniveti ṣaḍṛcamaṣṭamaṃ sūktam | somāhuter[?]śabdānuvṛttesyābhāvānmaṃḍaladraṣṭā gṛtsamada ṛṣiḥ | agnirdevatā | hiṃśabdādgāyatrī chaṃdaḥ | aṃtyānuṣṭup | vājayannivāṃtyānuṣṭubityanukrāṃtam ‖ prātaranuvākāśvinaśastrayostṛtīyasūktatvenāsyottamāvarjitasya viniyoga uktaḥ ‖*
+
+**अनुवाद (Anuvāda)**
+
+(Kannada, translated:) This sūkta beginning वाजयन्निव (*vājayanniva*) is the eighth sūkta in the first anuvāka. It has six Ṛks. The ṛṣi of this sūkta is Gṛtsamada, the seer of the maṇḍala; the devatā is Agni; the metre is Gāyatrī. Only the last Ṛk is in the Anuṣṭubh metre. In the Anukramaṇikā it is said: वाजयन्निवांत्यानुष्टुप् (*vājayannivāṃtyānuṣṭup*). It was already said earlier that, at the time of reciting the Prātaranuvāka and the Āśvina-śastra mantras, the Ṛks of this sūkta (except the last Ṛk) are applied (viniyoga) as Ṛks in the Gāyatrī metre.
+
+---
+
+**॥ ओं ॥**
+
+**सूक्त—८**
+
+*(Heading block as printed, in Kannada numerals:)* Maṇḍala 2 · Anuvāka 1 · Sūkta 8 · Aṣṭaka 2 · Adhyāya 5 · Varga 29 [numeral read from the strip, not zoomed] · number of Ṛks in the sūkta: 6.
+
+- **ऋषिः (Ṛṣi):** गृत्समदः
+- **देवता (Devatā):** अग्निः
+- **छंदः (Chandas):** Ṛks 1–5 गायत्री; Ṛk 6 अनुष्टुप् (as printed: "೧-೫ ಗಾಯತ್ರೀ, ೬: ಅನುಷ್ಟುಪ್")
+
+---
+
+**Progress note:** Done through printed p. 526 (PDF 547). Maṇḍala 2, Sūkta 7 complete: Ṛk 5 (printed English and Special Topics, p. 524) and Ṛk 6 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, pp. 524–526) written; no colophon after Sūkta 7. Sūkta 8 begun at the foot of p. 526: heading, bhāṣya, anuvāda and heading block (Varga 29, 6 Ṛks, Gṛtsamada, Agni, Gāyatrī / last Ṛk Anuṣṭubh); **Ṛk 1 of Sūkta 8 comes next on p. 527**. FILE DISAGREE: none (no file rows for pp. 524–526). Not zoomed: Ṛk 6 numeral, header Varga numerals (28 on p. 525, 29 in the Sūkta 8 block), Nighaṇṭu references (3-19, 2-24 [?], 3-20) and Ṛg-Saṃhitā references (5-21-2, 5-6-9 as read). [?] places: p. 525 bhāṣya ending ⟦मामनुजानात्वित्यर्थः⟧; p. 526 bhāṣya ⟦सोमाहुतेर्[?]शब्दानुवृत्तेस्याभावात्⟧; p. 526 ⟦हिंशब्दात्⟧, ⟦तृतीयसूक्तत्वेन⟧ as read; p. 524 ⟦बलिवर्दैः⟧ (as printed, short i; ⟦बलीवर्दैः⟧ expected).
