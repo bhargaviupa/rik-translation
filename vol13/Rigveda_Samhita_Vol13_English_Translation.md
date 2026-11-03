@@ -13969,7 +13969,7 @@ In this ṛk both the nature of the chariot of the deities Aśvins and the relat
 
 **Sāyaṇa-bhāṣya**
 
-> हे अश्विनौ युवं युवामुस्रियायां गोनाम्नैतत् । भोगोत्राविण्यां [?] गवि पयोऽधत्तम् । आधारयतम् । स्थापितवन्तौ । तथामायामपक्वायां पक्वं परिपक्वं भोगयोग्यं गोसम्बन्धि दुग्धं पूर्व्यं पूर्वभवं तत्रैवोत्पन्नमुवावात्स्वादधारयतम् [?] । गवि क्षीरमुत्पाद्य पुनर्भोगाय पृथक्कृतवन्तावित्यर्थः । यद्यस्मात् हे ऋतस्पू [?] सत्यस्वरूपौ यज्ञीयहविर्भक्षयितारौ वा हे अश्विनौ वां वनिन उदकवत उदकोपलक्षितहविष्मतो यज्ञस्यान्तर्मध्ये हविष्मान् प्रदेययुक्तहविषा तद्वान् शुचिः शुद्धो यजमानो यजते पूजयति युवां तस्मादेवममुं [?] कुरुतम् । यद्वा । यद्यैवं यजमानः करोति तदेत्यर्थः । तत्र दृष्टान्तः । वनिनो वनसम्बन्धिवृक्षसमूहस्यान्तर्मध्ये ह्वारो न चोर इव । स यथा जागरूको वर्तते तथा यजमानोऽपीत्यर्थः ॥ [as read; several words doubtful [?]]
+> हे अश्विनौ युवं युवामुस्रियायां गोनाम्नैतत् । भोगोत्राविण्यां [?] गवि पयोऽधत्तम् । आधारयतम् । स्थापितवन्तौ । तथामायामपक्वायां पक्वं परिपक्वं भोगयोग्यं गोसम्बन्धि दुग्धं पूर्व्यं पूर्वभवं तत्रैवोत्पन्नमुवावात्स्वादधारयतम् [?] । गवि क्षीरमुत्पाद्य पुनर्भोगाय पृथक्कृतवन्तावित्यर्थः । यद्यस्मात् हे ऋतप्सू सत्यस्वरूपौ यज्ञीयहविर्भक्षयितारौ वा हे अश्विनौ वां वनिन उदकवत उदकोपलक्षितहविष्मतो यज्ञस्यान्तर्मध्ये हविष्मान् प्रदेययुक्तहविषा तद्वान् शुचिः शुद्धो यजमानो यजते पूजयति युवां तस्मादेवममुं [?] कुरुतम् । यद्वा । यद्यैवं यजमानः करोति तदेत्यर्थः । तत्र दृष्टान्तः । वनिनो वनसम्बन्धिवृक्षसमूहस्यान्तर्मध्ये ह्वारो न चोर इव । स यथा जागरूको वर्तते तथा यजमानोऽपीत्यर्थः ॥ [as read; several words doubtful [?]]
 
 *Gist:* The Aśvins put milk in the cow and ripe milk in her unripe udder; the pure sacrificer, alert like a thief in a thicket, worships them with oblations.
 
@@ -13991,7 +13991,7 @@ O Aśvins, of truth-nature, devourers of the oblations of the sacrifice! The sac
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***ṛtapsū*** — that the word *ṛta* is used in the senses "truth", "sacrifice" and so on, and how *ṛta* reflects the universal rule, has been explained earlier in this same portion, in the special topics of Ṛk 1-179-2. In the ṛk at hand the deities Aśvins are described by the word *ṛtaspū* [?] as being of the nature of truth. Since they pervade the whole universe in the forms of heaven and earth, of the sun, moon and stars, and of day and night, the gist is that these two are all the forms of the world, of the nature of truth.
+***ṛtapsū*** — that the word *ṛta* is used in the senses "truth", "sacrifice" and so on, and how *ṛta* reflects the universal rule, has been explained earlier in this same portion, in the special topics of Ṛk 1-179-2. In the ṛk at hand the deities Aśvins are described by the word *ṛtapsū* as being of the nature of truth. Since they pervade the whole universe in the forms of heaven and earth, of the sun, moon and stars, and of day and night, the gist is that these two are all the forms of the world, of the nature of truth.
 
 ***vaninaḥ*** — two or three kinds of meaning are shown to be possible for this word. First: "*vaninaḥ udakavantaḥ udakopalakṣitahaviṣmato yajñasya*" ("of the sacrifice in which there is water — the sacrifice that has oblations, marked by water"); and second: "*vanasaṃbandhivṛkṣasamūhasya*" ("of the group of trees belonging to the forest").
 

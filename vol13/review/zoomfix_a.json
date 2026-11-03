@@ -8734,5 +8734,13 @@
   "old": "ऋतस्पू [?] इति ऋतस्पू [?]; ṛtaspū [?] (x2)",
   "new": "ऋतप्सू इति ऋतऽप्सू; ṛtapsū",
   "note": "Pada words derived from the Saṃhitā readings settled from the user's accented Devanagari file (applied on the user's instruction); not viewed by me."
+ },
+ {
+  "pdf": 525,
+  "printed": 505,
+  "status": "resolved",
+  "old": "ऋतस्पू [?]; ṛtaspū [?]",
+  "new": "ऋतप्सू; ṛtapsū",
+  "note": "Same word as the Saṃhitā 180.3 reading settled from the user's file (commentary line and English); not viewed by me."
  }
 ]
