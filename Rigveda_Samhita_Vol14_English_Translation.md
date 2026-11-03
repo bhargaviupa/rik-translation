@@ -13238,4 +13238,91 @@ The first sūkta of this maṇḍala, seen by the ṛṣi Gṛtsamada, has 16 [a
 
 ---
 
-**Progress note:** Done through printed p. 377 (PDF 397). Maṇḍala 2 title page and Pīṭhike (pp. 375-377) written; Pīṭhike ends at p. 377 with ornament; Sūkta 1 not yet begun (next printed p. 378, PDF 398). Flags: header numerals pp. 375/377 (Aṣṭaka/Adhyāya/Varga) [?] unverified (no numeral rows for 395, 397); p. 376 header 'Maṃ. 2 A. 1 Sū. 1' file reads '2.2.1'; Pīṭhike sūkta numbers on p. 377 (ninth-maṇḍala list, 14, 25, first-maṇḍala sūkta) [?] unverified, 16/15 Ṛks as read; Nirukta 9-5 from file. Counts: ~6 [?] places, 0 zooms.
+### Printed p. 378 (PDF 398)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2. A. 1. Sū. 1" as read; no numeral row for the header in the file.)*
+
+**The first sūkta in the second maṇḍala** *(half-title printed in Kannada)*
+
+*Sāyaṇa-bhāṣya (Sanskrit, in Kannada script):*
+
+> शतर्चिनां प्रथमं मंडलं व्याख्यातं । अथ गार्त्समदं द्वितीयं मंडलं व्याख्यायते । त्वमग्ने द्युभिरित्यादिकं द्वितीयं मंडलं । चत्वारोऽनुवाकाः । तेषु प्रथमोऽनुवाक एकादश सूक्तानि । तत्र त्वमग्ने द्युभिरिति षोडशर्चं प्रथमं सूक्तं । मंडलद्रष्टा गृत्समद ऋषिः । स च पूर्वमांगिरसकुले शुनहोत्रस्य पुत्रः सन् यज्ञकालेऽसुरैर्गृहीत इन्द्रेण मोचितः । पश्चात्तद्वचनेनैव भृगुकुले शुनकपुत्रो गृत्समदनामाभूत् । तथा चानुक्रमणिका । यः आंगिरसः शौनहोत्रो भूत्वा भार्गवः शौनकोऽभवत्स गृत्समदो द्वितीयं मंडलमपश्यदिति । तथा तस्यैव शौनकस्य वचनमृष्यनुक्रमणे । त्वमग्न इति गृत्समदः शौनको भृगुतां गतः । शौनहोत्रः प्रकृत्या तु य आंगिरस उच्यत इति । तस्मान्मंडलद्रष्टा शौनको गृत्समद ऋषिः । जगती छंदः । मंडलादिपरिभाषयाग्नेयं । अत्रानुक्रमणिका । त्वमग्ने जागतं त्विति ॥ प्रातरनुवाकाश्विनशस्त्रयोर्जागते छंदसीदमादिसूक्तद्वयस्य विनियोगः । त्वमग्ने द्युभिरिति सूक्ते । आ. ४-१३ । इति सूत्रितत्वात् ॥ उपाकरणोत्सर्जनयोरप्याद्या विनियुक्ता ॥
+
+*Gist:* The second maṇḍala (four anuvākas; the first has eleven sūktas) is Gārtsamada; Sūkta 1 has sixteen ṛks, ṛṣi Gṛtsamada (born Āṅgirasa, son of Śunahotra, seized by asuras and freed by Indra, later a Bhārgava Śaunaka), deity Agni, metre jagatī; used in the Prātaranuvāka and Āśvinaśastra, and in upākaraṇa/utsarjana (Āśvalāyana 4-13 as printed).
+
+**Anuvāda (Kannada).** The first maṇḍala, seen by the ṛṣis called Śatarcins, has been explained; now the second maṇḍala, seen by the ṛṣi Gṛtsamada, is explained. The second maṇḍala begins with the sūkta त्वमग्ने द्युभिः (*tvamagne dyubhiḥ*). In this maṇḍala there are four anuvākas. Of them, in the first anuvāka there are eleven sūktas; of these त्वमग्ने द्युभिः is the first sūkta, with sixteen ṛks. Gṛtsamada, the seer of the maṇḍala, is the ṛṣi of this sūkta; this ṛṣi Gṛtsamada was at first the son of one called Śunahotra in the Āṅgirasa family; once, while performing a sacrifice, he was carried off by asuras and afterwards freed by Indra. Then, as Indra said, he became the son of the ṛṣi Śunaka in the Bhṛgu family and famous under the name Gṛtsamada. In the Anukramaṇikā:
+
+> यः आंगिरसः शौनहोत्रो भूत्वा भार्गवः शौनकोऽभवत्स गृत्समदो द्वितीयं मंडलमपश्यदिति ।
+
+> *yaḥ āṃgirasaḥ śaunahotro bhūtvā bhārgavaḥ śaunako 'bhavatsa gṛtsamado dvitīyaṃ maṃḍalamapaśyaditi |*
+
+That is: the son of Śunahotra of the Āṅgirasa gotra became the son of the ṛṣi Śunaka, born in the Bhṛgu line, with the name Gṛtsamada. It is said that this Gṛtsamada is the seer of the second maṇḍala of the Ṛgveda. And in the Anukramaṇikā too, the words of its author Śaunaka are as follows —
+
+> त्वमग्न इति गृत्समदः शौनको भृगुतां गतः ।
+> शौनहोत्रः प्रकृत्या तु य आंगीरस उच्यत इति ॥
+
+> *tvamagna iti gṛtsamadaḥ śaunako bhṛgutāṃ gataḥ |*
+> *śaunahotraḥ prakṛtyā tu ya āṃgīrasa ucyata iti ‖*
+
+---
+
+### Printed p. 379 (PDF 399)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 17 [?]" as read, no numeral row in the file; "Ṛgvedasaṃhitā".)*
+
+**Anuvāda (Kannada), continued.** The ṛṣi called Gṛtsamada, who was first the son of one called Śunahotra of the Āṅgirasa gotra and afterwards the son of Śunaka of the Bhṛgu family, is the seer of this second maṇḍala that begins with त्वमग्ने (*tvamagne*). Therefore the ṛṣi called Gṛtsamada, the son of Śunaka, is the seer of this maṇḍala. The deity of the sūkta beginning त्वमग्ने is Agni alone; the metre is jagatī. In the Anukramaṇikā it is said: त्वमग्ने जागतं तु (*tvamagne jāgataṃ tu*). The application of this sūkta and the next, for the jagatī ṛks at the time of the recitation of the Prātaranuvāka and the Āśvina-śastra mantras, is explained by the Āśvalāyana Śrauta-sūtra aphorism त्वमग्ने द्युभिरिति सूक्ते (*tvamagne dyubhiriti sūkte*) (Āśv. 4-13, numeral agrees with the file). And that the first ṛk of this sūkta is applied in the upākaraṇa and utsarjana rites was told in the Anuvāda of the previous sūkta.
+
+---
+
+**॥ ॐ ॥** Sūkta—1 *(printed in Kannada numerals)*
+Maṇḍala—2 ‖ Anuvāka—1 ‖ Sūkta—1 ‖
+
+---
+
+Aṣṭaka—2 ‖ Adhyāya—5 ‖ Varga—17, 18, 19 ‖ *(Varga numerals as read from the strip; no file row; flag)*
+Number of ṛks in the sūkta: 16
+Ṛṣi: Gṛtsamada Āṅgirasaḥ Śaunahotraḥ, afterwards Bhārgavaḥ Śaunakaḥ ‖ Devatā: Agniḥ ‖ Chandas: Jagatī ‖
+
+---
+
+### Printed p. 380 (PDF 400)
+
+*(Header: "Maṃ. 2 A. 1 Sū. 1", "Sāyaṇabhāṣyasahitā".)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> त्वमग्ने द्युभिस्त्वमाशुशुक्षणिस्त्वमद्भ्यस्त्वमश्मनस्परि ।
+> त्वं वनेभ्यस्त्वमोषधीभ्यस्त्वं नृणां नृपते जायसे शुचिः ॥ १ ॥
+
+> *tvamagne dyubhistvamāśuśukṣaṇistvamadbhyastvamaśmanaspari |*
+> *tvaṃ vanebhyastvamoṣadhībhyastvaṃ nṛṇāṃ nṛpate jāyase śuciḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । द्युऽभिः । त्वं । आऽशुशुक्षणिः । त्वं । अत्ऽभ्यः । त्वं । अश्मनः । परि ।
+> त्वं । वनेभ्यः । त्वं । ओषधीभ्यः । त्वं । नृणां । नृऽपते । जायसे । शुचिः ॥ १ ॥
+
+> *tvaṃ | agne | dyu 'bhiḥ | tvaṃ | ā 'śuśukṣaṇiḥ | tvaṃ | at 'bhyaḥ | tvaṃ | aśmanaḥ | pari |*
+> *tvaṃ | vanebhyaḥ | tvaṃ | oṣadhībhyaḥ | tvaṃ | nṛṇāṃ | nṛ 'pate | jāyase | śuciḥ ‖ 1 ‖*
+
+*(The small mark after the first letter of आऽशुशुक्षणिः is read as the compound mark, as it looks.)*
+
+**॥ सायणभाष्यं ॥**
+
+> हे अग्ने अग्रणीत्यादिगुणविशिष्ट हे नृणां नृपते । नृणां मनुष्याणां मध्ये ये नरा यष्टारः संति तेषां विशेषेण पालयितः । यद्वोभाभ्यां पदाभ्यां बहुत्वं नित्यस्वानित्वं [?] च प्रतिपाद्यते । सर्वेषामपि नराणां नित्यपालकेत्यर्थः ॥ नृणामित्यस्य निघाताभावश्छांदसः ॥ तादृश हे देव त्वं द्युभिर्यागदिवसैर्निमित्तभूतैर्जायसे । यागार्थं मथनेनोत्पद्यस इत्यर्थः । यद्वा तादृशैर्दिवसैः सहितो जायसे । तत्तद्यागदिवसेषु प्रसिद्धो भवसीत्यर्थः । तथा त्वमाशुशुक्षणिर्जायसे । आ सर्वतो दीप्यमानो भवसि ॥ आज्युपपदे [?] शुच दीप्ताविन्त्येतस्य सनंतसु [?] छांदसमिदं रूपं । यद्वा आशु शीघ्रं शुच् दीप्तः सन् यतः स सेव्यते इति । आश्य शुचं शोकं सनोति ददाति शत्रुभ्यो दाहादिनेत्याशुशुक्षणिः ॥ तादृशो भवसि । एवं सर्वत्र प्रतिविशेषणं जायस इति योज्यं । हे अग्ने त्वमद्भ्यो वृष्ट्युदकेभ्यो जायसे वैद्युतरूपेण वा वाडवरूपेण वा समुद्रोदकेभ्यः । अश्मनो मेघात्पाषाणाद्वा परि जायसे । यो अश्मनोरंतरग्निं जजान । २-१२-३ । इति हि मंत्रांतरं । त्वं वनेभ्यो वृक्षादिसमूहेभ्यो दावरूपेण । त्वमोषधीभ्यो वैश्वानररूपेण । एवं महानुभावस्त्वं मथनेनोत्पन्नः सन् सर्वात्मको भवसीत्यर्थः । शुचिरेव जायसे । यद्वा शुचिरादित्यरूपो जायस इत्यर्थः । अत्र त्वमग्ने द्युभिरहोभिरित्यादि निरुक्तमनुसंधेयं । नि. ६-१ ॥
+
+*Gist:* Agni, lord of men, you are born (by friction) on sacrificial days, shining and burning enemies; you arise from waters, stone/cloud, forests and plants (as forest-fire, Vaiśvānara) and are pure, of the form of the Sun. (Mantrāntara 2-12-3 and Nirukta 6-1 as printed; the grammar of āśuśukṣaṇi is only touched on.)
+
+**॥ प्रतिपदार्थः ॥**
+
+Nṛṇāṃ nṛpate — lord and protector of men; Agne — O Agni; tvam — you; dyubhiḥ — on the sacrificial days, for the sake of the sacrifice; jāyase — you are born; tvam — you; āśuśukṣaṇiḥ — shining on all sides and burning enemies, you are; tvam — you; adbhyaḥ — from waters; aśmanaḥ pari — from stones too you are born; tvam — you; vanebhyaḥ — from trees and the like, in the form of forest-fire; tvam — you; oṣadhībhyaḥ — from plants, in the form of Vaiśvānara you are born; tvam — you; śuciḥ — pure and luminous, of the form of the Sun you are.
+
+**॥ भावार्थः ॥**
+
+O Agni, lord and protector of men, you are born on the sacrificial days for the sake of the sacrifice. You are shining everywhere and burn enemies. You are born from waters and from stones. You are born from trees and the like in the form of forest-fire, and from plants in the form of Vaiśvānara. You are pure and luminous, of the form of the Sun.
+
+---
+
+**Progress note:** Done through printed p. 380 (PDF 400). Mandala 2 Sukta 1 begun (half-title, bhasya, Anuvada, heading block; Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha written). Rk 1 OPEN: printed English, Special Topics and grammar to follow on p. 381. Flags: Varga numerals p. 379 header and heading block (17, 18, 19) read from strip, no file rows; [?] in Rk 1 bhasya (nityasvanitvam, ajyupapade, sanantasu). 3 [?] places, 2 zooms.

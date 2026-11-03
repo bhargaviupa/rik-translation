@@ -16282,5 +16282,29 @@
   ],
   "note": "UNDECIDED: header 'Maṃ. 2 A. 1 Sū. 1'; file reads 2.2.1",
   "answer": ""
+ },
+ {
+  "pdf": 400,
+  "printed": 380,
+  "crop": [
+   0.274,
+   0.302,
+   0.206,
+   0.824
+  ],
+  "note": "ZOOMED, read: nityasvanitvam [?] (bhasya line 3)",
+  "answer": ""
+ },
+ {
+  "pdf": 400,
+  "printed": 380,
+  "crop": [
+   0.344,
+   0.376,
+   0.206,
+   0.824
+  ],
+  "note": "ZOOMED, read: ajyupapade [?] / sanantasu [?] (bhasya)",
+  "answer": ""
  }
 ]
