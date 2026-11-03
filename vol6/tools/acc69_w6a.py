@@ -1,5 +1,5 @@
 import re
-F='Rigveda_Samhita_Vol6_English_Translation.md'
+F='vol6/Rigveda_Samhita_Vol6_English_Translation.md'
 t=open(F,encoding='utf-8').read(); n0=len(t)
 R=[
 ("शुक्रः शिशुक्वाँ उषो न जारः पप्रा समीची दिवो न ज्योतिः ।","शु॒क्रः शु॑शु॒क्वाँ उ॒षो न जा॒रः प॒प्रा स॑मी॒ची दि॒वो न ज्योतिः॑ ।"),

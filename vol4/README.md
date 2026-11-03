@@ -14,5 +14,5 @@ numeral/[?]/accent pass, laid out like `vol2/` and `vol3/`. **The pass has not s
 | `tools/` | Pass tools copied from `vol3/tools/` and pointed at Vol 4 (`cfg.py` = paths, `pages.py` = page map; run from this folder). |
 
 **Files that stay at the repository root** (the build pipeline reads them there; not moved): `Rigveda_Samhita_Vol4_English_Translation.md`
-(+ `.docx`; the file the pass edits), `Rig_Vol4.pdf` (scan), `publish/build_vol45.py`, `publish/vol45_clean.py`, `publish/assets/cover_vol4.jpg`,
+(+ `.docx`; the file the pass edits), `vol4/scans/Rig_Vol4.pdf` (scan), `publish/build_vol45.py`, `publish/vol45_clean.py`, `publish/assets/cover_vol4.jpg`,
 `publish/out/vol4_full.pdf`.

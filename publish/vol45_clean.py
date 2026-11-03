@@ -8,7 +8,7 @@ ADH = {4: ('तृतीयो', 'The Third Adhyāya of the First Aṣṭaka'), 
 def clean(vol):
     audit = []
     def log(kind, ln, text): audit.append(f"- **{kind}** (draft line {ln}): {text[:240].replace(chr(10), ' ')}{'…' if len(text) > 240 else ''}")
-    text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
+    text = (ROOT / f"vol{vol}" / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
     incipit = {int(n): re.sub(r'\s+', ' ', re.sub(r'[*\u00ad]', '', w)).strip() for n, w in re.findall(r'(?m)^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*[^|]*\|\s*$', text)}
     text = re.sub(r'(?<!\n)\n(?=#{1,6} )', '\n\n', text)
     text = re.sub(r'(?m)^(#{1,6} .*)\n(?!\n)', r'\1\n\n', text)

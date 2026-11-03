@@ -49,7 +49,7 @@ Tools: `tools/` (copied from `vol2/tools/` on Oct 27; `cfg.py` = the seven parts
 
 | Batch | Printed pp. | What was done |
 |---|---|---|
-| setup (Oct 27) | — | files moved into `vol3/`; paths fixed (`publish/build.py`, `publish/review_all.py`, `CLAUDE.md`); `.gitattributes` cut to the two files really in Git LFS (`Rig_Vol9.pdf`, `Rig_Vol11.pdf`; the other 17 rules named plain files and made git report them as modified); tools copied and set for the seven-part scan; page map checked; runbook written |
+| setup (Oct 27) | — | files moved into `vol3/`; paths fixed (`publish/build.py`, `publish/review_all.py`, `CLAUDE.md`); `.gitattributes` cut to the two files really in Git LFS (`vol9/scans/Rig_Vol9.pdf`, `vol11/scans/Rig_Vol11.pdf`; the other 17 rules named plain files and made git report them as modified); tools copied and set for the seven-part scan; page map checked; runbook written |
 
 ## To do
 

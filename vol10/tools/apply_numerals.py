@@ -18,7 +18,7 @@ import openpyxl
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 VOLN = os.environ.get('NUM_VOL', '10')   # '10' (default) or '9' etc.
-EN = os.path.join(ROOT, 'Rigveda_Samhita_Vol%s_English_Translation.md' % VOLN)
+EN = os.path.join(ROOT, 'vol%s' % VOLN, 'Rigveda_Samhita_Vol%s_English_Translation.md' % VOLN)
 NUMD = os.path.join(ROOT, 'vol%s' % VOLN, 'numerals')
 REV = os.path.join(ROOT, 'vol%s' % VOLN, 'review')
 KN = '೦೧೨೩೪೫೬೭೮೯'; DV = '०१२३४५६७८९'
