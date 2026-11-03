@@ -13941,4 +13941,121 @@ Passage cited (RV 2-27-1, printed "ṛ. saṃ. 2-27-1"; the sentence introducing
 
 ---
 
-**Progress note:** Done through printed p. 398 (PDF 418). Mandala 2 Sukta 1: Rk 4 written through printed English; its Special Topics are open at the citation RV 2-27-1 (continues p. 399). Flags: p. 398 bhasya has two [?] (grahitvanam; prapeyitasi), both zoomed; file had no usable rows for pp. 396-397; RV 2-27-1 numeral agrees with file.
+
+### Printed p. 399 (PDF 419)
+
+*(Header: "A. 2 A. 5 Va. 17", "Ṛgvedasaṃhitā"; the Varga numeral was zoomed and read 17, consistent with the preceding pages; the file has no header row for this page.)*
+
+*(Special Topics of Ṛk 4, continued from p. 398: the Ādityas.)*
+
+…and in the Ṛk so beginning, and in the Ṛks that follow in this sūkta, they are praised. These three deities, Mitra, Varuṇa and Aryamā, are praised together as a group in many places. For their subject see what we have written at length on pp. 119–129 of this same volume.
+
+विदथे (*vidathe*) — अस्मदीये यज्ञे (*asmadīye yajñe*) — in this sacrifice that we are performing; for fuller explanations of the word विदथ (*vidatha*) see Ṛ. Saṃ. Part 13 (numeral as it looks), pp. 9-13 (printed "9-13"; the numeral file read "9-18").
+
+भाजयुः (*bhājayuḥ*) — फलानां भाजयिता प्रापयितासि (*phalānāṃ bhājayitā prāpayitāsi*) — you are the one who provides the fruits; that is, in the sacrifice you are the one who supplies us with fruits in the form of the desired ends.
+
+---
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने त्वष्टा विधते सुवीर्यं तव ग्नावो मित्रमहः सजात्यम् ।
+> त्वमाशुहेमा ररिषे स्वश्व्यं त्वं नरां शर्धो असि पुरूवसुः ॥ ५
+
+> *tvamagne tvaṣṭā vidhate suvīryaṃ tava gnāvo mitramahaḥ sajātyam |*
+> *tvamāśuhemā rariṣe svaśvyaṃ tvaṃ narāṃ śardho asi purūvasuḥ ‖ 5*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । त्वष्टा । विधते । सुऽवीर्यं । तव । ग्नावः । मित्रऽमहः । सऽजात्यं ।
+> त्वं । आशुऽहेमा । ररिषे । सुऽअश्व्यं । त्वं । नरां । शर्धः । असि । पुरुऽवसुः ॥ ५ ॥
+
+> *tvaṃ | agne | tvaṣṭā | vidhate | su 'vīryaṃ | tava | gnāvaḥ | mitra 'mahaḥ | sa 'jātyaṃ |*
+> *tvaṃ | āśu 'hemā | rariṣe | su 'aśvyaṃ | tvaṃ | narāṃ | śardhaḥ | asi | puru 'vasuḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, as Tvaṣṭṛ, gives good wealth to the worshipper; praises are his; he is asked to cherish kinship, give fruit with good horses, and is the strength of men.
+
+> हे अग्ने त्वष्टा फलस्य साधु संपादयिता त्वं विधते परिचरते जनाय सुवीर्यं शोभनवीर्यं । वीर्यं धनं । तद्धेतुर्भवसि । ग्नावो याः स्तुतिवाचः संति तास्तव स्वभूताः । हे मित्रमहः हितकारितेजः सजात्यमस्माकं बांधवं भजस [sic] इत्यर्थः । हे अग्ने आशुहेमा आशु प्रेरयिता त्वं स्वश्व्यं शोभनाश्वसमूहोपेतं फलं ररिषे । ददासि । हे अग्ने पुरूवसुः प्रभूतधनस्त्वं नरां नराणां शर्धो बलस्थानीयोऽसि ॥
+
+> *he agne tvaṣṭā phalasya sādhu saṃpādayitā tvaṃ vidhate paricarate janāya suvīryaṃ śobhanavīryaṃ | vīryaṃ dhanaṃ | taddheturbhavasi | gnāvo yāḥ stutivācaḥ saṃti tāstava svabhūtāḥ | he mitramahaḥ hitakāritejaḥ sajātyamasmākaṃ bāṃdhavaṃ bhajasa [sic] ityarthaḥ | he agne āśuhemā āśu prerayitā tvaṃ svaśvyaṃ śobhanāśvasamūhopetaṃ phalaṃ rariṣe | dadāsi | he agne purūvasuḥ prabhūtadhanastvaṃ narāṃ narāṇāṃ śardho balasthānīyo 'si ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वष्टा (*tvaṣṭā*) — one who provides fruit; त्वं (*tvaṃ*) — you; विधते (*vidhate*) — to the people who serve (you); सुवीर्यं (*suvīryaṃ*) — wealth endowed with excellent valour (you give);
+
+---
+
+
+### Printed p. 400 (PDF 420)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 5 continues: Pratipadārtha from p. 399.)*
+
+ग्नावः (*gnāvaḥ*) — all the words in the form of praise; तव (*tava*) — are yours; मित्रमहः (*mitramahaḥ*) — O Agni of the radiance that does good to the world; सजात्यं (*sajātyaṃ*) — protect kinship with us; आशुहेमा (*āśuhemā*) — you who impel (us) swiftly (in our duties); स्वश्व्यं (*svaśvyaṃ*) — the fruit endowed with excellent horses; ररिषे (*rariṣe*) — you give; पुरूवसुः (*purūvasuḥ*) — possessed of abundant wealth; त्वं (*tvaṃ*) — you; नरां (*narāṃ*) — of men; शर्धः (*śardhaḥ*) — in the form of strength; असि (*asi*) — you are.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you who are Tvaṣṭṛ, give to the people who serve you wealth endowed with excellent valour. All words of praise are yours. O Agni of the radiance that does good to the world, protect kinship with us. You, who impel us swiftly in our duties, give the fruit endowed with excellent horses. You, possessed of abundant wealth, are the very form of the strength of men.
+
+**English Translation** *(as printed; the heading is printed "English Translatin" [sic])*
+
+You, Agni, are Twashtri, (the giver) of great wealth to (your) worshipper : these praises are yours : do you, of benevolent power, (admit) our affinity : you, who are prompt to encourage (us), give us good (store of) horses : you, who abound with opulence, are the strength of men.
+
+**विशेषविषयगळु (Special Topics)**
+
+त्वष्टा (*tvaṣṭā*) — फलस्य साधु संपादयिता (*phalasya sādhu saṃpādayitā*) (the printed heading looks like संपेदयिता (*saṃpedayitā*)). For this word the bhāṣyakāra gives the meaning "one who well provides the fruits of sacrifices and other rites to the sacrificers". Or the word त्वष्टा (*tvaṣṭā*) may also be taken as the divine craftsman named Tvaṣṭṛ. As Tvaṣṭṛ, the craftsman of the gods, makes for the deities the instruments they need, so you (Agni) give to the deities and also to men every kind of wealth and prosperity: this is the sense.
+
+ग्नावः (*gnāvaḥ*) — ग्नावो याः स्तुतिवाचः संति तास्तव स्वभूताः (*gnāvo yāḥ stutivācaḥ saṃti tāstava svabhūtāḥ*) — the word ग्नाः (*gnāḥ*) is read among the names of speech (the reference is printed "नि." with numerals that look like 2-23 [?]). Since all praise-words are directed to you, the sense is that you are yourself the form of praise-words.
+
+---
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
+
+> *tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
+
+---
+
+
+### Printed p. 401 (PDF 421)
+
+*(Header: "A. 2 A. 5 Va. 18", "Ṛgvedasaṃhitā"; Varga 18 begins; the numeral was zoomed. Ṛk 6, continued: Saṃhitā ends, Pada, bhāṣya, Pratipadārtha begun.)*
+
+> त्वं वात्यैररुण्यैर्यासि शंगयस्त्वं पूषा विधतः पासि नु त्मना ॥ ६
+
+> *tvaṃ vātyairaruṇyairyāsi śaṃgayastvaṃ pūṣā vidhataḥ pāsi nu tmanā ‖ 6*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । रुद्रः । असुरः । महः । दिवः । त्वं । शर्धः । मारुतं । पृक्षः । ईशिषे ।
+> त्वं । वात्यैः । अरुण्यैः । यासि । शंऽगयः । त्वं । पूषा । विधतः । पासि । नु । त्मना ॥ ६ ॥
+
+> *tvaṃ | agne | rudraḥ | asuraḥ | mahaḥ | divaḥ | tvaṃ | śardhaḥ | mārutaṃ | pṛkṣaḥ | īśiṣe |*
+> *tvaṃ | vātyaiḥ | aruṇyaiḥ | yāsi | śaṃ 'gayaḥ | tvaṃ | pūṣā | vidhataḥ | pāsi | nu | tmanā ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni is Rudra, Asura (Āditya), the Maruts' strength and Vāyu, lord of the oblation-food, comes in the winds' red horses to the sacrifice, and as Pūṣan protects his servants.
+
+> हे अग्ने त्वं महो दिवो महतो द्युलोकात् । उपलक्षणमेतत् । लोकत्रयात् । असुरः शत्रूणां निरसिता रुद्रोऽसि । रुद् दुःखं दुःखहेतुर्वा पापादिः । तस्य द्रावयिता एतन्नामको देवोऽसि । रुद्रो वा एष यदग्निः । त्रै. ५-४-३ । इत्यादिष्वग्ने [?] रुद्रशब्देन व्यवहारात् । यद्वा त्वं रुद्रः । रौति मामनिष्ट्वा नरा दुःखे पतिष्यंतीति रुद्रः । तादृशोऽसि । रुद्रो रौतीति सते इति हि निरुक्तं । तथा महो महतो द्युलोकस्य संबंध्यसुरोऽसि । असुर्बलं । तस्य दाताऽऽदित्यरूपश्च त्वमसि । अग्नेर्द्युलोकसंबंध्यसुरत्वमुत वा दिवो असुराय मन्म । ५-४१-३ । इत्यादिषु । तथा त्वं मारुतं शर्धो मरुत्समूहरूपं बलमसि । वायुरूपश्च त्वमसीत्यर्थः । एवमग्न्यादित्यवायुरूपस्त्वं । पृक्षोऽन्नस्य हविर्लक्षणस्य त्वमीशिषे । ईश्वरो भवसि । यस्मादेवं तस्मात्त्वं वात्यैर्वायुसदृश्यैररुण्यै-ररुणवर्णैरश्वैः शंगयः सुखस्य गृहरूप आवासभूतः सन् यासि । प्राप्नोषि यागगृहं । यद्वा अरुण्यैर्गमनशीलैर्वात्यैर्वायुभिरुत्पन्नः सन् यासि वने । तथा त्वं पूषा सर्वस्य पोषकः सन् नु क्षिप्रं त्मना आत्मनानुग्रहरूपया स्वबुद्ध्यैव विधतः परिचरतो यजमानान् पासि ॥
+
+> *he agne tvaṃ maho divo mahato dyulokāt | upalakṣaṇametat | lokatrayāt | asuraḥ śatrūṇāṃ nirasitā rudro 'si | rud duḥkhaṃ duḥkhaheturvā pāpādiḥ | tasya drāvayitā etannāmako devo 'si | rudro vā eṣa yadagniḥ | trai. 5-4-3 | ityādiṣvagne [?] rudraśabdena vyavahārāt | yadvā tvaṃ rudraḥ | rauti māmaniṣṭvā narā duḥkhe patiṣyaṃtīti rudraḥ | tādṛśo 'si | rudro rautīti sate iti hi niruktaṃ | tathā maho mahato dyulokasya saṃbaṃdhyasuro 'si | asurbalaṃ | tasya dātā ' 'dityarūpaśca tvamasi | agnerdyulokasaṃbaṃdhyasuratvamuta vā divo asurāya manma | 5-41-3 | ityādiṣu | tathā tvaṃ mārutaṃ śardho marutsamūharūpaṃ balamasi | vāyurūpaśca tvamasītyarthaḥ | evamagnyādityavāyurūpastvaṃ | pṛkṣo 'nnasya havirlakṣaṇasya tvamīśiṣe | īśvaro bhavasi | yasmādevaṃ tasmāttvaṃ vātyairvāyusadṛśyairaruṇyai-raruṇavarṇairaśvaiḥ śaṃgayaḥ sukhasya gṛharūpa āvāsabhūtaḥ san yāsi | prāpnoṣi yāgagṛhaṃ | yadvā aruṇyairgamanaśīlairvātyairvāyubhirutpannaḥ san yāsi vane | tathā tvaṃ pūṣā sarvasya poṣakaḥ san nu kṣipraṃ tmanā ātmanānugraharūpayā svabuddhyaiva vidhataḥ paricarato yajamānān pāsi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; महः (*mahaḥ*) — great; दिवः (*divaḥ*) — from the heaven (from the three worlds); असुरः (*asuraḥ*) — the driver away of enemies; रुद्रः (*rudraḥ*) — you are Rudra; [or रुद्रः त्वं (*rudraḥ tvaṃ*) — you who are of the form of Rudra; महः (*mahaḥ*) — great; दिवः (*divaḥ*) — to heaven; असुरः (*asuraḥ*) — the giver of strength, you are Āditya]; त्वं (*tvaṃ*) — you; मारुतं शर्धः (मारुतं शर्धः (*mārutaṃ śardhaḥ*)) — you are strength in the form of the Maruts' multitude; पृक्षः (*pṛkṣaḥ*) — of food in the form of the oblation; ईशिषे (*īśiṣe*) — you are the lord; त्वं (*tvaṃ*) — you; अरुण्यैः (*aruṇyaiḥ*) — swift; वात्यैः (*vātyaiḥ*) — by winds (impelled), or with horses of the form of wind, together with…
+
+*(Pratipadārtha breaks off at the foot of the page; the signature mark "[26]" and "Vol. 14" are printed there. Ṛk 6 is left open: it continues on p. 402.)*
+
+---
+
+**Progress note:** Done through printed p. 401 (PDF 421). Mandala 2 Sukta 1: Rk 5 complete (p. 400); Rk 6 OPEN: Samhita, Pada, bhasya, Pratipadartha written to the word arunyaih/vatyaih; Bhavartha onward continue on p. 402. Flags: p. 399 Varga numeral 17 zoomed (read 17); FILE DISAGREE p. 399 'Part 13 pp. 9-13' (file said 9-18, zoom supports 9-13); p. 400 Nighantu reference (2-23 as it looks) undecided [?]; p. 401 bhasya has one [?] (itaydisvagne), RV 5-4-3 and 5-41-3 agree with file; p. 399 bhasya 'bhajasa' printed so (zoomed); p. 401 Varga 18 zoomed.
