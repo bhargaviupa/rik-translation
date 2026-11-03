@@ -2398,11 +2398,11 @@ The word *asme*, though having the same form in all the seven cases, conveys the
 
 **॥ संहितापाठः ॥**
 
-> वयमद्येन्द्रस्य प्रेष्ठा वयं श्वो वोचेमहि समर्ये ।
-> वयं पुरा महि च नो अनु द्यून्तन्न ऋभुक्षा नरामनु ष्यात् ॥ १० ॥ [?]
+> व॒यम॒द्येन्द्र॑स्य॒ प्रेष्ठा॑ व॒यं श्वो वो॑चेमहि सम॒र्ये ।
+> व॒यं पु॒रा महि॑ च नो॒ अनु॒ द्यून्तन्न॑ ऋभु॒क्षा न॒रामनु॑ ष्यात् ॥ १० ॥
 
 > *vayamadyendrasya preṣṭhā vayaṃ śvo vocemahi samarye |*
-> *vayaṃ purā mahi ca no anu dyūntanna ṛbhukṣā narāmanu ṣyāt ‖ 10 ‖ [?]*
+> *vayaṃ purā mahi ca no anu dyūntanna ṛbhukṣā narāmanu ṣyāt ‖ 10 ‖*
 
 **॥ पदपाठः ॥**
 
