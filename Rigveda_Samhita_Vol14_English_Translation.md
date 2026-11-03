@@ -14647,4 +14647,153 @@ You, Agni, are (ever) resplendent, and are to be glorified when present ; you ar
 
 ---
 
-**Progress note:** Done through printed p. 416 (PDF 436). Maṇḍala 2 Sūkta 1: Ṛk 10 complete (pp. 414–415), Ṛk 11 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha written; Bhāvārtha broken off at the foot of p. 416 after "…Āditya-related Bhāratī"; continue p. 417 with the rest of the Bhāvārtha, printed English, Special Topics). Header Varga 18 read from the p. 415 strip. Flags: FILE DISAGREE on Tai. Saṃ. reference on p. 415 (file 17-3-1; strip read as 1-2-3-1, written with [?]); p. 413 Saṃhitā reading corrected in the text only by note (Pada prints नमस्यः and धक्षि; the p. 413 Saṃhitā has "दक्षि"); unclear: "तिज" in the Ṛk 11 bhāṣya tail, "पवि/हवि" in the p. 415 Special Topics, "sacrfice" blurred in the printed English; the file's other numerals (Ni. 3-9, 3-20) agree; no zooms.
+### Printed p. 417 (PDF 437)
+
+*(Header: "A. 2 A. 5 Va. 19" read from the strip, "Ṛgvedasaṃhitā". The Bhāvārtha of Ṛk 11 continues from p. 416; then the printed English, Special Topics and the closing line. The foot of the page carries the signature mark "[27]" and "Vol. 14.")*
+
+*(Bhāvārtha of Ṛk 11, continued.)* (Kannada:) "…[and as Bhāratī,] you grow great through praise. You are in the form of the eternal Iḷā (the earth). And you are capable of giving and the like. O Agni, protector of wealth, you, the slayer of sin and the like, are also Sarasvatī, who is related to Vāyu."
+
+**English Translation** *(as printed)*
+
+You, divine Agni, are Aditi to the donor of the oblation; you are Hotra and Bharati, and thrive by praise ; you are Ila of a hundred winters to him who makes you gifts ; you, lord of wealth, are the destroyer of Vritra, Saraswati.
+
+**विशेषविषयगळु (Special Topics)**
+
+अदितिः (*aditiḥ*) —
+
+*Gist:* Aditi is the undivided, uninterrupted protector, or the earth.
+
+> अदितिः — अखंडयिता परिपालयितासि । यद्वा अदीना भूमिरसि ।
+
+> *aditiḥ — akhaṃḍayitā paripālayitāsi | yadvā adīnā bhūmirasi |*
+
+(Kannada:) "You are an uninterrupted protector; that is, you are always protecting us. Or you are a nourisher like the earth. The word अदिति (*aditi*) is read among the names of the earth (Ni. 2-5), among the names of speech (Ni. 3-23), among the names of the cow (Ni. 3-9) and among the names of heaven and earth (here अदिती (*aditī*) as a dual ending) (Ni. 3-22). Here the bhāṣyakāra has accepted the meaning 'earth' and explained accordingly. We have described the detailed explanation and discussion of the word अदिति (*aditi*) in Ṛ. Saṃ. Part 8, page 559." *(Numerals as read; they agree with the numeral file. The volume and page, "8" and "559", are printed in Latin numerals.)*
+
+भारती (*bhāratī*) —
+
+> भारती — भरतस्यादित्यस्य संबंधिनी रश्मिरूपा सती ।
+
+> *bhāratī — bharatasyādityasya saṃbaṃdhinī raśmirūpā satī |*
+
+(Kannada:) "Bharata means one of the twelve Ādityas. The lustre of the Āditya is called भा (*bhā*). Therefore भारती (*bhāratī*) means the light of the Sun, or the Agni who exists in the form of light in the solar orb. Here a relation is stated between the rays of Agni and the rays of Āditya. Since it is said that Agni himself exists in the heavenly region in the form of Āditya, there is a relation between the rays of the Āditya and the rays of Agni."
+
+इळा (*iḷā*) —
+
+> इळा — भूमिरसि ।
+
+> *iḷā — bhūmirasi |*
+
+(Kannada:) "Since the word इळा (*iḷā*) is read among the names of the earth (Ni. 2-5), it is called भूमि (*bhūmi*)."
+
+सरस्वती (*sarasvatī*) —
+
+> सरस्वती — सरणवान्वायुः । तत्संबंधिन्येतन्नियामुका माध्यमिकासि ॥
+
+> *sarasvatī — saraṇavānvāyuḥ | tatsaṃbaṃdhinyetanniyāmukā mādhyamikāsi ‖*
+
+(Kannada:) "Here the bhāṣyakāra explains the word सरस्वती (*sarasvatī*) as 'Vāyu, who is of a moving nature', and therefore as the deity of the middle region (the atmosphere)." *(Then, printed in bold:)*
+
+> आदित्याग्निवायूनां संबंधिन्यो भारतीळासरस्वत्याख्या यास्तिस्रो देव्यः संति ता असि त्वमेवेत्यर्थः ।
+
+> *ādityāgnivāyūnāṃ saṃbaṃdhinyo bhāratīḷāsarasvatyākhyā yāstisro devyaḥ saṃti tā asi tvamevetyarthaḥ |*
+
+*(The strip prints ता असि (*tā asi*) here; the bhāṣya on p. 416 was written ता अपि (*tā api*). The two printings differ: see doubts.)*
+
+(Kannada:) "That is, Agni is praised thus: you are the very form of the three deities named Bhāratī, Iḷā and Sarasvatī, who are related to Āditya, Agni and Vāyu."
+
+*(Closing line ":o:" of the sūkta section; signature "[27]" and "Vol. 14." at the foot.)*
+
+---
+
+### Printed p. 418 (PDF 438)
+
+*(Header: "418", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 1…", the right end cut off in the scan.)*
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने सुभृत उत्तमं वयस्तव स्पार्हे वर्ण आ संदृशि श्रियः ।
+> त्वं वाजः प्रतरणो बृहन्नसि त्वं रयिर्बहुलो विश्वतस्पृथुः ॥ १२ ॥
+
+> *tvamagne subhṛta uttamaṃ vayastava spārhe varṇa ā saṃdṛśi śriyaḥ |*
+> *tvaṃ vājaḥ prataraṇo bṛhannasi tvaṃ rayirbahulo viśvataspṛthuḥ ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । सुऽभृतः । उत्ऽतमं । वयः । तव । स्पार्हे । वर्णे । आ । संऽदृशि । श्रियः ।
+> त्वं । वाजः । प्रऽतरणः । बृहन् । असि । त्वं । रयिः । बहुलः । विश्वतः । पृथुः ॥ १२ ॥
+
+> *tvaṃ | agne | su 'bhṛtaḥ | ut 'tamaṃ | vayaḥ | tava | spārhe | varṇe | ā | saṃ 'dṛśi | śriyaḥ |*
+> *tvaṃ | vājaḥ | pra 'taraṇaḥ | bṛhan | asi | tvaṃ | rayiḥ | bahulaḥ | viśvataḥ | pṛthuḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Well nourished, Agni gives supreme food or life; riches rest in his lovely, beautiful form; he is food, carries across sin, is great, wealth, manifold and widely spread.
+
+> हे अग्ने त्वं सुभृतः सुष्ठु पोषितः सन् उत्तमं निरतिशयं वयोऽन्नमायुष्यं वा त्वमसि । तत्संपादकोऽसित्यर्थः [sic] । तथा तव स्पार्हे स्पृहणीये वर्णे लोहितशुक्लादिलक्षणे संदृशि सम्यग्दर्शनीये श्रिय ऐश्वर्याणि कांतयो वाश्रित्य वर्तंते ॥ उपसर्गश्रुतेर्योग्यक्रियाध्याहारः ॥ किंच त्वं वाजोऽन्नं । तत्साधकत्वात्तच्छब्द्यं । अन्नसाधक इत्यर्थः । प्रतरणः प्रतारयिता पापात् । अत एव बृहन् महानसि । तथा त्वं रयिर्धनरूपोऽसि । बहुलः सर्वविषयबाहुल्योपेतो विश्वतः पृथुर्विस्तीर्णः प्रख्यात इत्यर्थः ॥
+
+> *he agne tvaṃ subhṛtaḥ suṣṭhu poṣitaḥ san uttamaṃ niratiśayaṃ vayo 'nnamāyuṣyaṃ vā tvamasi | tatsaṃpādako 'sityarthaḥ [sic] | tathā tava spārhe spṛhaṇīye varṇe lohitaśuklādilakṣaṇe saṃdṛśi samyagdarśanīye śriya aiśvaryāṇi kāṃtayo vāśritya vartaṃte ‖ upasargaśruteryogyakriyādhyāhāraḥ ‖ kiṃca tvaṃ vājo 'nnaṃ | tatsādhakatvāttacchabdyaṃ | annasādhaka ityarthaḥ | prataraṇaḥ pratārayitā pāpāt | ata eva bṛhan mahānasi | tathā tvaṃ rayirdhanarūpo 'si | bahulaḥ sarvaviṣayabāhulyopeto viśvataḥ pṛthurvistīrṇaḥ prakhyāta ityarthaḥ ‖*
+
+*(Its tail: the remark that a suitable verb has to be supplied because of the preposition आ (*ā*) in the text, "upasargaśruteryogyakriyādhyāhāraḥ"; characterized, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; सुभृतः (*subhṛtaḥ*) — when well nourished; उत्तमं (*uttamaṃ*) — excellent, unsurpassed; वयः (*vayaḥ*) — you become the provider of food (life); तव (*tava*) — your; स्पार्हे (*spārhe*) — attractive; वर्णे (*varṇe*) — having red and other colours; सुदृशि (*sudṛśi*) *(printed thus in the Pratipadārtha)* — in the form that is worth seeing; श्रियः (*śriyaḥ*) — riches or splendours; आ (*ā*) — are contained; त्वं (*tvaṃ*) — you; वाजः (*vājaḥ*) — food (the provider of food); प्रतरणः (*prataraṇaḥ*) — one who carries (across sin); बृहन् (*bṛhan*) — great in spirit; असि (*asi*) — you are; त्वं (*tvaṃ*) — you; रयिः (*rayiḥ*) — you are wealth in form; बहुलः (*bahulaḥ*) — of many forms; विश्वतः (*viśvataḥ*) — on all sides; पृथुः (*pṛthuḥ*) — you are also widespread.
+
+---
+
+### Printed p. 419 (PDF 439)
+
+*(Header: "A. 2 A. 5 Va. 19", "Ṛgvedasaṃhitā". The Bhāvārtha, printed English and Special Topics of Ṛk 12; then Ṛk 13.)*
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, when you are nourished you become the provider of unsurpassed food. In your attractive form, which has red and other colours and is worth seeing, riches are contained. You yourself are the provider of food. You, who carry us across from sin, are great in spirit and wealth in form, and have many kinds of forms, spread out on all sides."
+
+**English Translation** *(as printed)*
+
+When, well-cherished Agni, you are (the giver of) excellent food : in your desirable and delightful hues, beauties (abound) : you (are) food : (you are) the transporter (beyond sin) ; you are mighty ; you are wealth ; you are manifold, and everywhere diffused.
+
+**विशेषविषयगळु (Special Topics)**
+
+स्पार्हे वर्णे (*spārhe varṇe*) —
+
+> स्पार्हे वर्णे — स्पृहणीयो वर्णे लोहितशुक्लादि लक्षणे ।
+
+> *spārhe varṇe — spṛhaṇīyo varṇe lohitaśuklādi lakṣaṇe |*
+
+(Kannada:) "The flames of Agni are very excellent, and are endowed with the colours red, white and so on."
+
+प्रतरणः (*prataraṇaḥ*) —
+
+> प्रतरणः — प्रतारयिता पापात् ।
+
+> *prataraṇaḥ — pratārayitā pāpāt |*
+
+(Kannada:) "One who carries us across from the plight of sins; that is, one who protects us so that sins do not envelop us."
+
+विश्वतः पृथुः (*viśvataḥ pṛthuḥ*) — (Kannada:) "One who is famed in all directions. Or one who pervades widely, spread out in all directions; that is, one who pervades the three worlds, earth, atmosphere and heaven."
+
+*(Closing line ":o:".)*
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> त्वामग्न आदित्यास आस्यं त्वां जिह्वां शुचयश्चक्रिरे कवे ।
+> त्वां रातिषाचो अध्वरेषु सश्चिरे त्वे देवा हविरदंत्याहुतं ॥ १३ ॥
+
+> *tvāmagna ādityāsa āsyaṃ tvāṃ jihvāṃ śucayaścakrire kave |*
+> *tvāṃ rātiṣāco adhvareṣu saścire tve devā haviradaṃtyāhutaṃ ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वां । अग्ने । आदित्यासः । आस्यं । त्वां । जिह्वां । शुचयः । चक्रिरे । कवे ।
+> त्वां । रातिऽसाचः । अध्वरेषु । सश्चिरे । त्वे इति । देवाः । हविः । अदंति । आऽहुतं ॥ १३ ॥
+
+*(Ṛk 13 is left open: the Sāyaṇa-bhāṣya and what follows continue on p. 420.)*
+
+---
+
+**Progress note:** Done through printed p. 419 (PDF 439). Maṇḍala 2 Sūkta 1: Ṛk 11 complete (p. 417), Ṛk 12 complete (pp. 418–419), Ṛk 13 OPEN (Saṃhitā and Pada written at the foot of p. 419; continue p. 420 with the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics). Header Varga read as 19 on pp. 417 and 419 (not zoomed; p. 415 was 18). Flags: Ni. references on p. 417 (2-5, 3-23, 3-9, 3-22, 2-5) agree with the file, no FILE DISAGREE; Pada of Ṛk 12 word संऽदृशि read from the strip (the Pratipadārtha prints सुदृशि); Ṛk 11 bhāṣya as printed on p. 417 has ता असि whereas p. 416 was written ता अपि (the p. 416 text is closed and not altered); "तत्संपादकोऽसित्यर्थः" marked [sic]; no zooms.
