@@ -12686,4 +12686,132 @@ In the preceding Ṛk it was told that the sun, being in the solar disc, removes
 
 ---
 
-**Progress note:** Done through printed p. 362 (PDF 382). Sūkta 191: Ṛks 1-11 complete in text; Ṛk 12 OPEN (Saṃhitā and Pada written p. 362; Sāyaṇa-bhāṣya etc. follow p. 363). Varga 16 in the header of p. 361 (zoomed; pp. 357/359 read 15 unzoomed); no Varga closing note yet. Flags pp. 360-362: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; Pada 'hari-sthāḥ' with the compound mark as printed; sūtra name after 'tedoḥ sā-' garbled [?]; 'gatikārakopa' printed truncated, no number; Pā. Sū. 5-3-71, 2-4-40 and Ṛ. Saṃ. 2-42-3, 2-43-1 agree with file (unzoomed). Counts pp. 360-362: 3 distinct [?] places, 1 zoom (header Varga), file agreed without zoom 4, file lacked 0 other. (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 351-356 as before. Flags pp. 357-359: printed heading 'English Translatin' and 'vender', 'poisonns', 'arb', 'wholely' as printed [sic]; Special Topics 'purely' reading: 'tadanugrahāttraiva' and 'viṣyaiva' (as it looks) [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. Part number before 'page 615' (first) read 5 [?], unzoomed; possible lost word at strip join p. 359 (‘…bduki-si / -dareṃdū’) [?]; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees with file (not zoomed). Counts for batch pp. 357-359: 6 distinct [?] places, 0 zooms, numerals settled by file without zoom 1 (3-2-4), file lacked 4 (unzoomed).
+
+
+---
+
+### Printed p. 363 (PDF 383)
+
+*(Header: "A. 2 A. 5 Va. 16 ]" (Varga numeral unzoomed, read 16), "Ṛgvedasaṃhitā". Ṛk 12: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun.)*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya)**
+
+*Gist:* Three times seven, i.e. twenty-one, kinds of sparks (or small birds), antagonists of poison; may they devour the strength of the poison that envelops us.
+
+> त्रिः सप्त त्रिगुणिताः सप्तसंख्याका विष्पुलिंगका विविधाः विष्पुलिंगकाः । सप्तसु जिह्वासु लोहितशुक्लकृष्णभेदेन्यैकविंशतिर्यासां ताः । यद्वा । त्रिः सप्तैकविंशतिभेदा विष्पुलिंगकाः सूक्ष्मचटकिका विषप्रतिपक्षभूताः । विषस्यास्मदावरकस्य पुष्यं पोषमक्षन् । अदंतु नाशयंतु । ताश्च न मरंति न वयमपि । शिष्टमवशिष्टं ॥
+
+> *triḥ sapta triguṇitāḥ saptasaṃkhyākā viṣpuliṃgakā vividhāḥ viṣpuliṃgakāḥ | saptasu jihvāsu lohitaśuklakṛṣṇabhedenyaikaviṃśatiryāsāṃ tāḥ | yadvā | triḥ saptaikaviṃśatibhedā viṣpuliṃgakāḥ sūkṣmacaṭakikā viṣapratipakṣabhūtāḥ | viṣasyāsmadāvarakasya puṣyaṃ poṣamakṣan | adaṃtu nāśayaṃtu | tāśca na maraṃti na vayamapi | śiṣṭamavaśiṣṭaṃ ‖*
+
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**त्रिः सप्त (*triḥ sapta*)** — of the threefold seven, i.e. twenty-one (२१) in number. **विष्पुलिंगकाः (*viṣpuliṃgakāḥ*)** — various fire-sparks. **विषस्य (*viṣasya*)** — of the poison that has enveloped us. **पुष्यं (*puṣyaṃ*)** — the strong power. **अक्षन् (*akṣan*)** — let them swallow up (destroy). **ताश्चिन्नु (*tāścinnu*)** — as for them. **न मराति (*na marāti*)** — though broken up they do not meet death. **नो वयं मराम (*no vayaṃ marāma*)** — we too do not meet death. **आरे (*āre*)** — though far away. **हरिष्ठाः (*hariṣṭhāḥ*)** — the sun, mounted on horses. **अस्य (*asya*)** — of this poison. **योजनं (*yojanaṃ*)** — attains contact (he makes the power of this poison not spread to us). **मधुला (*madhulā*)** — the Madhuvidyā. **त्वा (*tvā*)** — you. **मधु चकार (*madhu cakāra*)** — has changed into nectar.
+
+**भावार्थ (Bhāvārtha)** *(Kannada, rendered)*
+
+The twenty-one kinds of fire-sparks, or birds, swallow up and destroy the strong power of the poison that has enveloped us. They themselves do not die; by their influence we too do not die. Even from afar, the sun, mounted on horses, makes contact with this poison and so acts that its power does not spread to us. O poison, the Madhuvidyā has changed you into nectar.
+
+**English Translation** *(printed heading)*
+
+May the thrice-seven sparks (of Agni) consume the influence of the venom ; they verily do not perish ; nor shall we die ; for although afar off, the Sun, drawn by his coursers, will overtake the poison ; the science of antidotes has converted you, (Poison), to ambrosia.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk it is prayed that the twenty-one kinds of sparks of Agni, or birds, remove our poison.
+
+**त्रिः सप्त (*triḥ sapta*)** — **त्रिगुणिताः सप्तसंख्याकाः (*triguṇitāḥ saptasaṃkhyākāḥ*)**. The meaning is: three times seven, or twenty-one.
+
+---
+
+---
+
+### Printed p. 364 (PDF 384)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 1 A. 24 Sū. 191". Ṛk 12 Special Topics end, Vyākaraṇa-prakriyā; Ṛk 13 Saṃhitā and Pada, Sāyaṇa-bhāṣya begun.)*
+
+**विष्पुलिंगकाः (*viṣpuliṃgakāḥ*)** — **विविधाः विष्पुलिंगकाः । सप्तसु जिह्वासु लोहितशुक्लकृष्णभेदेन्यैकविंशतिर्यासां ताः । यद्वा । त्रिः सप्तैकविंशतिभेदा विष्पुलिंगकाः सूक्ष्मचटकिका विषप्रतिपक्षभूताः (*vividhāḥ viṣpuliṃgakāḥ | saptasu jihvāsu lohitaśuklakṛṣṇabhedenyaikaviṃśatiryāsāṃ tāḥ | yadvā | triḥ saptaikaviṃśatibhedā viṣpuliṃgakāḥ sūkṣmacaṭakikā viṣapratipakṣabhūtāḥ*)**. The sparks of Agni are said to be of twenty-one kinds. It is well known that Agni has seven tongues (flames); in each flame there are twenty-one sparks, differing as red, white and black. Or *viṣpuliṅga* means sparrows, or small birds such as the *garuḍa* bird (*garuḍapakṣi*); among these there are twenty-one varieties or species. These have the nature of eating poison without taking notice of it. The other matters are as in the preceding Ṛk.
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+**पुष्यम् (*puṣyam*)**: root पुष पुष्टौ (*puṣa puṣṭau*); the chāndasa affix śa; since it is śit it takes precedence and the vikaraṇa śyan comes; since it is nit, the first-syllable udātta accent comes.
+
+**अक्षन् (*akṣan*)**: root अद भक्षणे (*ada bhakṣaṇe*); chāndasa luṅ in the sense of loṭ; by लुङ्सनोर्घस्ऌ (*luṅsanorghasḷ*) (Pā. Sū. 2-4-37, file agrees, not zoomed) the substitute ghasḷ for the root; by मंत्रेघस- (*maṃtreghasa-*) (as printed, truncated) cli gets luk; by गमहन- (*gamahana-*) (as printed, truncated) the penultimate is dropped; cartva; satva; the augment aḍ (as it looks); the tiṅanta nighāta accent.
+
+---
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> नवानां नवतीनां विषस्य रोपुषीणां ।
+> सर्वासामग्रभं नामारे अस्य योजनं हरिष्ठा मधु त्वा
+> मधुला चकार ॥ १३ ॥
+
+> *navānāṃ navatīnāṃ viṣasya ropuṣīṇāṃ |*
+> *sarvāsāmagrabhaṃ nāmāre asya yojanaṃ hariṣṭhā madhu tvā*
+> *madhulā cakāra ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> नवानां । नवतीनां । विषस्य । रोपुषीणां ।
+> सर्वासां । अग्रभं । नाम । आरे । अस्य । योजनं । हरिऽस्थाः । मधु । त्वा । मधुला ।
+> चकार ॥ १३ ॥
+
+> *navānāṃ | navatīnāṃ | viṣasya | ropuṣīṇāṃ |*
+> *sarvāsāṃ | agrabhaṃ | nāma | āre | asya | yojanaṃ | hari 'sthāḥ | madhu | tvā | madhulā |*
+> *cakāra ‖ 13 ‖*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya)** *(continues on p. 365)*
+
+*Gist:* Of ninety-nine rivers, destroyers of all poison that pervades us — their names I recite; the rest as before.
+
+> नवानां नवतीनां नवाधिकानां नवतिसंख्याकानां नदीनां । पुनः कीदृशीनां । विषस्यास्मद्व्यापकस्य सर्वस्य विषस्य रोपुषीणां लोपयित्रीणां छेत्रीणां । सर्वा-
+
+> *navānāṃ navatīnāṃ navādhikānāṃ navatisaṃkhyākānāṃ nadīnāṃ | punaḥ kīdṛśīnāṃ | viṣasyāsmadvyāpakasya sarvasya viṣasya ropuṣīṇāṃ lopayitrīṇāṃ chetrīṇāṃ | sarvā-*
+
+*(Ṛk 13 is left open: the Sāyaṇa-bhāṣya runs on to p. 365.)*
+
+---
+
+---
+
+### Printed p. 365 (PDF 385)
+
+*(Header: "A. 2 A. 5 Va. 16 ]" (Varga numeral unzoomed, read 16), "Ṛgvedasaṃhitā". Ṛk 13: bhāṣya ends, Pratipadārtha, Bhāvārtha, printed English, Special Topics, Vyākaraṇa-prakriyā begun.)*
+
+*(Sāyaṇa-bhāṣya of Ṛk 13 continued from p. 364:)*
+
+> सर्वासामुक्तानां गंगादिनदीनां नामाग्रभं । गृह्णामि । संकीर्तयामि ॥ गृहेश्छांदसे लुङि छांदसश्छ्लेर्लुक् । हृग्रहोर्भः ॥ अस्य योजनमित्यादि गतं ॥
+
+> *sarvāsāmuktānāṃ gaṃgādinadīnāṃ nāmāgrabhaṃ | gṛhṇāmi | saṃkīrtayāmi ‖ gṛheśchāṃdase luṅi chāṃdasaśchlerluk | hṛgrahorbhaḥ ‖ asya yojanamityādi gataṃ ‖*
+
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**नवानां नवतीनां (*navānāṃ navatīnāṃ*)** — of those that are ninety-nine in number. **विषस्य (*viṣasya*)** — of poison. **रोपुषीणां (*ropuṣīṇāṃ*)** — and that are destroyers. **सर्वासां (*sarvāsāṃ*)** — of all the rivers beginning with Gaṅgā. **नाम (*nāma*)** — the sacred name. **अग्रभं (*agrabhaṃ*)** — I praise. **आरे (*āre*)** — though far away. **हरिष्ठाः (*hariṣṭhāḥ*)** — the sun, mounted on horses. **अस्य (*asya*)** — of this poison. **योजनं (*yojanaṃ*)** — attains contact (O poison!). **मधुला (*madhulā*)** — the Madhuvidyā. **त्वा (*tvā*)** — you. **मधु चकार (*madhu cakāra*)** — has changed into nectar.
+
+**भावार्थ (Bhāvārtha)** *(Kannada, rendered)*
+
+I praise the sacred names of all the rivers beginning with Gaṅgā, ninety-nine in number, which are destroyers of poison. Even from afar, the sun, mounted on horses, makes contact with this poison. O poison, the Madhuvidyā has changed you into nectar.
+
+**English Translation** *(printed heading)*
+
+I recite the names of ninety and nine (rivers), the destroyers of poison ; although afar off, (the Sun), drawn by his coursers· will overtake the poison : the science of antidote has converted you, (Poison), to ambrosia.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Having told so far the means of removing poison, the sage now describes that he will make remembrance of the holy rivers such as the Gaṅgā, for the removal of the fault of poison.
+
+**नवानां नवतीनां (*navānāṃ navatīnāṃ*)** — here नवानां नवतीनां (*navānāṃ navatīnāṃ*) is said to mean नवाधिकानां नवतिसंख्याकानां नदीनां (*navādhikānāṃ navatisaṃkhyākānāṃ nadīnāṃ*), that is, of ninety-nine rivers. When one speaks of the sense of "many" or "numerous", words such as *navanavati*, *śata* and *sahasra* are used in many places in the Ṛgveda. In such places the number need not be taken as exactly so many. The sage says that he will remember the many (numerous) holy rivers such as the Gaṅgā.
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+**नवानाम् (*navānām*)**: by षट्त्रिचतुर्भ्योहलादिः (*ṣaṭtricaturbhyohalādiḥ*) (Pā. Sū. 6-1-179, file agrees, not zoomed) — since this word, ending in n, has the designation ṣaṭ, the following नाम् (*nām*) case-ending receives the udātta accent. *(Grammar of Ṛk 13 continues on p. 366; Ṛk 13 is left open.)*
+
+---
+
+---
+
+---
+
+**Progress note:** Done through printed p. 365 (PDF 385). Sūkta 191: Ṛks 1-12 complete; Ṛk 13 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics written; its Vyākaraṇa-prakriyā begun on p. 365 and continues on p. 366). Varga 16 in headers of pp. 363 and 365 (unzoomed); no Varga closing note yet. Flags pp. 363-365: Ṛk 12 bhāṣya 'bhedenyaikaviṃśatiḥ' as it looks [?]; 'aḍāgama' as it looks; sūtra names 'mantreghasa-', 'gamahana-' printed truncated; Pā. Sū. 2-4-37 and 6-1-179 agree with file (unzoomed); printed English 'coursers·' (dot as printed). Counts pp. 363-365: 1 distinct [?], 0 zooms, file settled without zoom 2, file lacked 0. (Earlier flags: see previous archives; flags pp. 360-362 and 357-359 as in prior note: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; sūtra name after 'tedoḥ sā-' garbled [?]; Pā. Sū. 5-3-71, 2-4-40, Ṛ. Saṃ. 2-42-3, 2-43-1 agree with file; pp. 357-359 as printed [sic] 'English Translatin', 'vender', 'poisonns', 'arb', 'wholely'; 'tadanugrahāttraiva', 'viṣyaiva' [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. part number before 'page 615' read 5 [?]; possible lost word at strip join p. 359; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees. Older flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.)
