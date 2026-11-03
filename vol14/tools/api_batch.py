@@ -10,7 +10,7 @@ EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
 COST=os.path.join(V,'parts','api_costs.jsonl'); DOUBTS=os.path.join(V,'review','api_doubts.tsv')
 PRICE=dict(inp=3.0,out=15.0)   # USD per million tokens; ASSUMED Sonnet-class list price, adjust with --price-in/--price-out
 def sh(c,**k): return subprocess.run(c,shell=True,capture_output=True,text=True,cwd=ROOT,**k)
-def printed(g): return g-18-(1 if g>=224 else 0)-(1 if g>=336 else 0)
+def printed(g): return g-18-(1 if g>=224 else 0)-(1 if g>=336 else 0)-(1 if g>=448 else 0)   # PDF 223, 335, 447 are duplicates of the previous page
 def position():
     s=open(EN,encoding='utf8').read(); i=s.rfind('**Progress note:**'); note=s[i:]
     m=re.search(r'through printed p\. (\d+) \(PDF (\d+)\)',note); assert m,'no position in note'
@@ -52,13 +52,15 @@ def main():
         m=re.search(r'=====CHUNK=====\n(.*?)\n=====NOTE=====\n(.*?)\n=====DOUBTS=====\n?(.*)\Z',txt,re.S)
         if not m: open('/tmp/api_raw.txt','w').write(txt); print('bad format; raw saved /tmp/api_raw.txt'); return 4
         chunk,nt,db=m.group(1).strip(),m.group(2).strip().replace('**Progress note:**','').strip(),m.group(3).strip()
+        open(f'/tmp/api_raw_{pages[0]}.txt','w',encoding='utf8').write(txt)
         cf=f'/tmp/api_chunk_{pages[0]}.md'; open(cf,'w',encoding='utf8').write(chunk+'\n')
         t0=open(cf,encoding='utf8').read(); t0=re.sub(r'(\n> [^\n]*[\u0900-\u097F][^\n]*)\n\n(\*\()',r'\1\n\nXXPHXX\2',t0); open(cf,'w',encoding='utf8').write(t0)
         sh(f'python3 publish/tools/translit/add_iast.py {cf}'); chunk=open(cf,encoding='utf8').read().replace('XXPHXX','')
         open(cf,'w',encoding='utf8').write(chunk)
         nd=len(re.findall(r'^> .*[ऀ-ॿ]',chunk,re.M)); ni=len(re.findall(r'^> \*',chunk,re.M))
         print('Devanagari blockquote lines',nd,'IAST lines',ni)
-        if not all(f'(PDF {p})' in chunk for p in pages): print('missing page marker; chunk kept at',cf); return 5
+        miss=[p for p in pages if f'(PDF {p})' not in chunk and not re.search(rf'PDF {p}[^\n]{{0,80}}duplicate|duplicate[^\n]{{0,120}}PDF {p}',chunk)]
+        if miss: print('missing page marker for',miss,'; chunk kept at',cf); return 5
         r=subprocess.run(['python3','vol14/tools/append_en.py',nt],input=chunk,capture_output=True,text=True,cwd=ROOT); print(r.stdout.strip(),r.stderr.strip()[-300:])
         if r.returncode: return 6
         if db:

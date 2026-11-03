@@ -10,11 +10,11 @@ rows=[]
 for f in sorted(glob.glob(os.path.join(D,'Rigveda_Clean_Numerals_14_*.xlsx'))):
     ws=openpyxl.load_workbook(f).active
     rows+=[r for r in ws.iter_rows(min_row=2,values_only=True) if r[0] is not None]
-def filepage(q): return q if q<=222 else (q-1 if q<=334 else q-2)
+def filepage(q): return q if q<=222 else (q-1 if q<=334 else (q-2 if q<=446 else q-3))
 for q in map(int,sys.argv[1:]):
-    if q in (223,335): print(f'== PDF {q}: duplicate of the previous page, no rows'); continue
+    if q in (223,335,447): print(f'== PDF {q}: duplicate of the previous page, no rows'); continue
     fp=filepage(q); rs=[r for r in rows if r[0]==fp]
-    print(f'== PDF {q} (printed {q-18 if q<=222 else (q-19 if q<=334 else q-20)}, file page {fp}): {len(rs)} rows')
+    print(f'== PDF {q} (printed {q-18 if q<=222 else (q-19 if q<=334 else (q-20 if q<=446 else q-21))}, file page {fp}): {len(rs)} rows')
     seen=set()
     for p,l,pat,eq,ctx in rs: print(f'  line {l} | {pat} | {eq} | {ctx}')
     print('  numeral groups by line:')
