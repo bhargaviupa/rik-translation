@@ -2582,9 +2582,9 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6".)* …"removing the faults, they perform the sacrifice so that it is completed in the manner enjoined by the rule": thus their greatness, and the excess of haste of the Marut-gods in regard to the sacrifice, is described. By the word *samanā* the *samākṛti*, "equality of intent", which consists in the absence of deficiency or excess in regard to every sacrifice, is explained for the Marut-gods. For the word *tuturvaṇiḥ* used here, the text has explained "*turvaṇiḥ*". The word *turvaṇi* is [stated] by Yāska —
 
-> सतुर्वणिर्मह्ना अरेणु पौंस्ये गिरेर्भृष्टिर्न भ्राजते तुजा शवः । येन शुष्णं मायिनमायसो मदे दुध्र आभूषु रामयन्नि दामनि ॥ [?]
+> स तुर्वणिर्महाँ अरेणु पौंस्ये गिरेर्भृष्टिर्न भ्राजते तुजा शवः । येन शुष्णं मायिनमायसो मदे दुध्र आभूषु रामयन्नि दामनि ॥
 
-> *saturvaṇirmahnā areṇu pauṃsye girerbhṛṣṭirna bhrājate tujā śavaḥ | yena śuṣṇaṃ māyinamāyaso made dudhra ābhūṣu rāmayanni dāmani ‖ [?]*
+> *sa turvaṇirmahām̐ areṇu pauṃsye girerbhṛṣṭirna bhrājate tujā śavaḥ | yena śuṣṇaṃ māyinamāyaso made dudhra ābhūṣu rāmayanni dāmani ‖*
 
 (Ṛ. Saṃ. 1-54-3) — in the cited ṛk *turvaṇiḥ* (Ni. 6-14) is explained as "*stotāraṃ tūrṇaṃ bhajate*" — "he who comes quickly near the praiser": the meaning "one who has haste" is given.
 
@@ -7063,9 +7063,9 @@ In places like
 
 (Ṛ. Saṃ. 1-22-20), it indicates the extraordinary power of sight of the sages, not merely "those who praise". And it is also used as an epithet of Indra and other deities, not merely of the sages:
 
-> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं नावृधथ्यै । [?]
+> मंहिष्ठमच्छोक्तिभिर्मतीनां सुवृक्तिभिः सूरिं वावृधध्यै ।
 
-> *maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ nāvṛdhathyai |* [as read: [?]]
+> *maṃhiṣṭham acchoktibhir matīnāṃ suvṛktibhiḥ sūriṃ vāvṛdhadhyai |*
 
 (Ṛ. Saṃ. 1-61-3) — in such ṛks *viparyayaṃ* [as read: *vipaścitam*? [?]] "Indra" shows the wisdom of Indra and the other deities. Besides, when it bears the sense "lord, impeller, guide of the right path", the word *sūri* is used; and for example —
 
@@ -11794,9 +11794,9 @@ The word *vṛṣan* is used in many places in the sense of one possessed of the
 
 **Special Topics (continued)**
 
-> दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीररुं [?] शूर मर्त्यं परिवृणक्षि मर्त्यम् ॥
+> दस्मो हि ष्मा वृषणं पिन्वसि त्वचं कं चिद्यावीरररुं शूर मर्त्यं परिवृणक्षि मर्त्यम् ॥
 
-> *dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cidyāvīraruṃ [?] śūra martyaṃ parivṛṇakṣi martyam ‖*
+> *dasmo hi ṣmā vṛṣaṇaṃ pinvasi tvacaṃ kaṃ cidyāvīrararuṃ śūra martyaṃ parivṛṇakṣi martyam ‖*
 
 (Ṛ. Saṃ. 1-129-3)
 
@@ -14498,9 +14498,9 @@ The Nirukta-writers count the word *go* among the names of the earth (Ni. 2-5), 
 
 **Special Topics (continued)** — the word *jūrṇi* is derived either from the root *jū*, which gives the sense of "speed", or from the root *drū*, which gives the sense "to run", or from the root *du*, which has the sense "to injure": so the commentator has shown the formation of the word. And, to show its use, citing the ṛk
 
-> हतेमुसन्न [?] वक्षति क्षिप्ता जूर्णिर्न वक्षति ।
+> हतेमसन्न वक्षति क्षिप्ता जूर्णिर्न वक्षति ।
 
-> *hatemusanna [?] vakṣati kṣiptā jūrṇirna vakṣati |*
+> *hatemasanna vakṣati kṣiptā jūrṇirna vakṣati |*
 
 (Ṛ. Saṃ. 1-19-5 [?]) — he has explained there that *jūrṇiḥ* is *śaktiḥ* ("spear-like missile"), since it is speedy, by reason of its connection with throwing (*kṣepaṇa*). But in the ṛk at hand there is no room for stating that meaning. For *jivriḥ* the meaning "victorious" must be given, and for *jūrṇiḥ* the meaning "grown old in years".
 
