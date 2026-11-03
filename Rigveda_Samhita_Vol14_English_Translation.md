@@ -14796,4 +14796,118 @@ When, well-cherished Agni, you are (the giver of) excellent food : in your desir
 
 ---
 
-**Progress note:** Done through printed p. 419 (PDF 439). Maṇḍala 2 Sūkta 1: Ṛk 11 complete (p. 417), Ṛk 12 complete (pp. 418–419), Ṛk 13 OPEN (Saṃhitā and Pada written at the foot of p. 419; continue p. 420 with the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics). Header Varga read as 19 on pp. 417 and 419 (not zoomed; p. 415 was 18). Flags: Ni. references on p. 417 (2-5, 3-23, 3-9, 3-22, 2-5) agree with the file, no FILE DISAGREE; Pada of Ṛk 12 word संऽदृशि read from the strip (the Pratipadārtha prints सुदृशि); Ṛk 11 bhāṣya as printed on p. 417 has ता असि whereas p. 416 was written ता अपि (the p. 416 text is closed and not altered); "तत्संपादकोऽसित्यर्थः" marked [sic]; no zooms.
+### Printed p. 420 (PDF 440)
+
+*(Header: "420", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 1". Ṛk 13 continues from p. 419: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English, and the start of the Special Topics.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Aditi's sons (the gods) have made Agni their mouth and tongue; wealth-giving gods serve him at sacrifices; all gods eat the offered oblation in him.
+
+> हे अग्ने त्वामादित्यासोऽदितेः पुत्रा इंद्रादय आस्यं स्वकीयं मुखं भक्षणपानादिसाधनं चक्रिर इति वक्ष्यमाणेन संबंधः । तथा हे कवे क्रांतप्रज्ञ त्वामेव शुचयः शुद्धा दीप्ता वा देवा जिह्वां स्वकीयजिह्वास्थानीयमास्वादनसाधनं चक्रिरे । त्वन्मुखेनैव भक्षयंति त्वज्जिह्वयैवास्वादयंतीत्यर्थः । तथा त्वामेव रातिषाचः । रातिर्दानं दत्तं हविरादि धनं वा । तेन समुवेता [?] देवा अध्वरेषु यज्ञेषु सश्चिरे । सेवंते । त्वामेव प्रतीक्षंते विना त्वया स्वेषां हविर्भक्षणायोगात् । एवं कृत्वा त्वे त्वयि देवाः सर्व आहुतं सर्वतो दत्तं हविरदंति । भक्षयंति । एवं सर्वदेवोपकारिणं महानुभावं स्तौमीत्यर्थः ॥
+
+> *he agne tvāmādityāso 'diteḥ putrā iṃdrādaya āsyaṃ svakīyaṃ mukhaṃ bhakṣaṇapānādisādhanaṃ cakrira iti vakṣyamāṇena saṃbaṃdhaḥ | tathā he kave krāṃtaprajña tvāmeva śucayaḥ śuddhā dīptā vā devā jihvāṃ svakīyajihvāsthānīyamāsvādanasādhanaṃ cakrire | tvanmukhenaiva bhakṣayaṃti tvajjihvayaivāsvādayaṃtītyarthaḥ | tathā tvāmeva rātiṣācaḥ | rātirdānaṃ dattaṃ havirādi dhanaṃ vā | tena samuvetā [?] devā adhvareṣu yajñeṣu saścire | sevaṃte | tvāmeva pratīkṣaṃte vinā tvayā sveṣāṃ havirbhakṣaṇāyogāt | evaṃ kṛtvā tve tvayi devāḥ sarva āhutaṃ sarvato dattaṃ haviradaṃti | bhakṣayaṃti | evaṃ sarvadevopakāriṇaṃ mahānubhāvaṃ staumītyarthaḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वां (*tvāṃ*) — you; आदित्यासः (*ādityāsaḥ*) — Indra and the other sons of Aditi; आस्यः (*āsyaḥ*) *(printed with visarga)* — (they made you) the mouth that eats the oblation; कवे (*kave*) — O Agni, of far-reaching wisdom; त्वां (*tvāṃ*) — you; शुचयः (*śucayaḥ*) — the shining gods; जिह्वां (*jihvāṃ*) — the tongue that tastes; चक्रिरे (*cakrire*) — they made; त्वां (*tvāṃ*) — you; रातिषाचः (*rātiṣācaḥ*) — the gods who possess wealth in the form of the oblation; अध्वरेषु (*adhvareṣu*) — in sacrifices; सश्चिरे (*saścire*) — serve; त्वे (*tve*) — in you (through you); देवाः (*devāḥ*) — all the gods; आहुतं (*āhutaṃ*) — offered; हविः (*haviḥ*) — the oblation; अदंति (*adaṃti*) — eat.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, the wise one, the gods such as Indra have made you their mouth that eats the oblation and their tongue that tastes it. The gods who possess wealth in the form of oblations serve you alone in the sacrifices. All the gods eat through you alone the oblation offered to them."
+
+**English Translation** *(as printed)*
+
+The Adityas have made, you Agni, their mouth; the pure (deities) have made you Kavi, their tongue : the (gods), the givers of wealth, depend upon you at sacrifices ; they eat the offered oblation through you.
+
+**विशेषविषयगळु (Special Topics)**
+
+त्वां अग्ने आदित्यासः आस्यं चक्रिरे (*tvāṃ agne ādityāsaḥ āsyaṃ cakrire*) —
+
+(Kannada:) "Aditi means the divine mother. The Ādityas, her sons (Mitra, Varuṇa, Aryaman), or the gods, have made you their mouth (bāyi). That is, the gods do not come visibly to the place of sacrifice and, in the shape of a body and so on, receive oblations in such a way that everyone can see." *(The passage runs over into p. 421.)*
+
+---
+
+### Printed p. 421 (PDF 441)
+
+*(Header: "A. 2 A. 5 Va. 19" read from the strip, not zoomed; "Ṛgvedasaṃhitā".)*
+
+(Kannada, continued from p. 420:) "…They do not receive the oblations in that way. But they receive the oblations offered in Agni with the respective mantras, addressed to the gods. The oblation offered in Agni goes and reaches the gods. Therefore Agni is like a mouth to the gods; through him the gods receive the oblation. This is the meaning."
+
+त्वां जिह्वां शुचयश्चक्रिरे कवे (*tvāṃ jihvāṃ śucayaścakrire kave*) —
+
+(Kannada:) "As said before, the shining gods made you, Agni, their tongue. That is, the gods eat the oblations through your mouth (through offering in you). They taste through your tongue (the flame). This is the meaning."
+
+त्वां रातिषाचः अध्वरेषु सश्चिरे (*tvāṃ rātiṣācaḥ adhvareṣu saścire*) —
+
+(Kannada:) "In the sacrifices all the gods assemble and, to obtain their oblations, look to you alone and trust in you. The gods partake of the oblations that the sacrificers offer in you."
+
+त्वे देवाः हविः अदंति आहुतं (*tve devāḥ haviḥ adaṃti āhutaṃ*) —
+
+(Kannada:) "The gods eat the oblation offered in you (in Agni). The matters stated in the four pādas of this Ṛk, though described in different words, all have one meaning: the gods eat the oblations offered in Agni only through Agni. This is the meaning."
+
+---
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> त्वे अग्ने विश्वे अमृतासो अद्रुह आसा देवा हविरदंत्याहुतं ।
+> त्वया मर्तासः स्वदंत आसुतिं त्वं गर्भो वीरुधां जज्ञिषे शुचिः ॥ १४ ॥
+
+> *tve agne viśve amṛtāso adruha āsā devā haviradaṃtyāhutaṃ |*
+> *tvayā martāsaḥ svadaṃta āsutiṃ tvaṃ garbho vīrudhāṃ jajñiṣe śuciḥ ‖ 14 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वे इति । अग्ने । विश्वे । अमृतासः । अद्रुहः । आसा । देवाः । हविः । अदंति । आऽहुतं ।
+> त्वया । मर्तासः । स्वदंते । आऽसुतिं । त्वं । गर्भः । वीरुधां । जज्ञिषे । शुचिः ॥ १४ ॥
+
+> *tve iti | agne | viśve | amṛtāsaḥ | adruhaḥ | āsā | devāḥ | haviḥ | adaṃti | ā 'hutaṃ |*
+> *tvayā | martāsaḥ | svadaṃte | ā 'sutiṃ | tvaṃ | garbhaḥ | vīrudhāṃ | jajñiṣe | śuciḥ ‖ 14 ‖*
+
+---
+
+### Printed p. 422 (PDF 442)
+
+*(Header: "422", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 1". Ṛk 14: bhāṣya, Pratipadārtha, Bhāvārtha, printed English, start of the Special Topics.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* All immortal, benevolent gods eat the oblation through Agni's mouth; mortals taste food through him; as the embryo of plants he produces grain.
+
+> हे अग्ने त्वे त्वयि विश्वे सर्वेऽमृतासोऽमरणधर्माणोऽद्रुहोऽद्रोग्यारो [?] देवा आसा त्वदीयेनास्येनाहुतं हविरदंति । भक्षयंति ॥ आस्यशब्दस्य तृतीयैकवचने पद्न्नोमासित्यादिनासन्नादेशः [?] । ऊडिदंपदादीति विभक्तेरुदात्तत्वं ॥ तथा मर्तासो मनुष्या अपि त्वया साधनभूतेनासुतिं रसरूपमन्नादिकं स्वदंते । आस्वादयंति । त्वमेव वीरुधां लतादीनां गर्भो गर्भस्थानीयः तेषां मध्यावस्थानात् । वसुः सर्वेषां निवासभूतः सन् जज्ञिषे । उत्पादयसि सस्याद्यन्नं ॥
+
+> *he agne tve tvayi viśve sarve 'mṛtāso 'maraṇadharmāṇo 'druho 'drogyāro [?] devā āsā tvadīyenāsyenāhutaṃ haviradaṃti | bhakṣayaṃti ‖ āsyaśabdasya tṛtīyaikavacane padnnomāsityādināsannādeśaḥ [?] | ūḍidaṃpadādīti vibhakterudāttatvaṃ ‖ tathā martāso manuṣyā api tvayā sādhanabhūtenāsutiṃ rasarūpamannādikaṃ svadaṃte | āsvādayaṃti | tvameva vīrudhāṃ latādīnāṃ garbho garbhasthānīyaḥ teṣāṃ madhyāvasthānāt | vasuḥ sarveṣāṃ nivāsabhūtaḥ san jajñiṣe | utpādayasi sasyādyannaṃ ‖*
+
+*(Its tail: the grammatical remark that the word आस्य (*āsya*) in the instrumental singular takes the substitute आसन् (*āsan*) by the sūtra beginning पद्… (*pad…*) (partly illegible to me, no sūtra number printed), and that by the rule ऊडिदंपदादि (*ūḍidaṃpadādi*) the case-ending takes the udātta; characterized, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वे (*tve*) — in you; विश्वे (*viśve*) — all; अमृतासः (*amṛtāsaḥ*) — those free from the nature of death; अद्रुहः (*adruhaḥ*) — those who do good to the world; देवाः (*devāḥ*) — the gods; आसा (*āsā*) — through your mouth; आहुतं (*āhutaṃ*) — offered in the sacrifice; हविः (*haviḥ*) — the oblation; अदंति (*adaṃti*) — eat; मर्तासः (*martāsaḥ*) — men; त्वया (*tvayā*) — by your help; आसुतिं (*āsutiṃ*) — food and the like in the form of essence; स्वदंते (*svadaṃte*) — eat; शुचिः (*śuciḥ*) — you who are radiant; त्वं (*tvaṃ*) — you; वीरुधां (*vīrudhāṃ*) — of creepers and the like; गर्भः (*garbhaḥ*) — in the form of the embryo, being in their midst; जज्ञिषे (*jajñiṣe*) — you produce grain and the like.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, all the gods, free from death and doing good to the world, eat through your mouth alone the oblation offered in the sacrifice. Men too eat food and the like, in the form of essence, only with your help. You, the radiant one, exist as the embryo of creepers and the like, and produce grain and the like."
+
+**English Translation** *(as printed)*
+
+All the benignant immortal gods eat the offered oblation through you, as their mouth ; mortals taste the flavour (of all viands) through you : you are born pure, the embryo of plants.
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "The matter stated in the previous Ṛk, that the gods eat the oblations only through your mouth, you who are Agni, is stated here also."
+
+अमृतासः (*amṛtāsaḥ*) —
+
+> अमरधर्माणः । *(thus printed in the Special Topics; the bhāṣya above has ⟦अमरणधर्माणः⟧)*
+
+> *amaradharmāṇaḥ | *(thus printed in the Special Topics; the bhāṣya above has ⟦amaraṇadharmāṇaḥ⟧)**
+
+(Kannada:) "Those who are free from death; it is believed that the gods have no death. In the Ṛgveda the gods are called by the word अमृत (*amṛta*), and men by the word मर्त (*marta*) or…" *(the sentence runs over into p. 423)*
+
+*(Ṛk 14 is left open in its Special Topics, in the middle of the sentence on मर्त (*marta*); continue on p. 423.)*
+
+---
+
+**Progress note:** Done through printed p. 422 (PDF 442). Maṇḍala 2 Sūkta 1: Ṛk 13 complete (pp. 420–421); Ṛk 14 OPEN (Saṃhitā and Pada written on p. 421; bhāṣya, Pratipadārtha, Bhāvārtha, printed English written on p. 422; the Special Topics are open at the word ⟦अमृतासः⟧ in mid-sentence "…मनुष्यरन्ನು मर्त्य अथवा…", continue at the top of p. 423). The numeral file had no rows for these pages, so all numerals come from the strips and were not zoomed: Varga on p. 421 read as 19, Ṛk numbers 14 (Saṃhitā and Pada). No FILE DISAGREE. [?] places: ⟦समुवेता⟧ in the bhāṣya of Ṛk 13; ⟦अद्रोग्यारो⟧ and the sūtra word ⟦पद्न्नोमासि…⟧ in the bhāṣya of Ṛk 14. The Pratipadārtha of Ṛk 13 prints ⟦आस्यः⟧ with visarga, kept as printed. The Special Topics head-word of Ṛk 14 prints ⟦अमरधर्माणः⟧ where the bhāṣya has ⟦अमरणधर्माणः⟧, kept as printed.
