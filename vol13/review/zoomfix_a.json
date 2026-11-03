@@ -8654,5 +8654,29 @@
   "old": "15 [?]",
   "new": "15",
   "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 543,
+  "printed": 523,
+  "status": "resolved",
+  "old": "182nd sūkta [?]",
+  "new": "182nd sūkta",
+  "note": "Ordinal/number label: [?] cleared (user: such numbers are correct); not viewed by me."
+ },
+ {
+  "pdf": 519,
+  "printed": 499,
+  "status": "resolved",
+  "old": "12th adhyāya, 6th section [?]",
+  "new": "12th adhyāya, 6th section",
+  "note": "Ordinal/number label: [?] cleared (user: such numbers are correct); not viewed by me."
+ },
+ {
+  "pdf": 516,
+  "printed": 496,
+  "status": "resolved",
+  "old": "182nd sūkta [?]",
+  "new": "182nd sūkta",
+  "note": "Ordinal/number label: [?] cleared (user: such numbers are correct); not viewed by me."
  }
 ]
