@@ -17661,12 +17661,6 @@ By you (Agni), may the Gritsamadas, repeating your praise, become masters of the
 
 (Kannada, translated; lemmata in Sanskrit as printed, in bold.)
 
-> वन्वंतः—छांदसं भजंतो गृत्सतमदा ऋषयः
-
-> *vanvaṃtaḥ—chāṃdasaṃ bhajaṃto gṛtsatamadā ṛṣayaḥ*
-
-*(Correction of my own line above: the lemma is printed as follows.)*
-
 > वन्वंतः—छांदसं भजंतो गृत्समदा ऋषयः
 
 > *vanvaṃtaḥ—chāṃdasaṃ bhajaṃto gṛtsamadā ṛṣayaḥ*
@@ -18201,9 +18195,13 @@ That is, because their movement in the performance of works goes on of itself, t
 
 > स्वसारः श्यावीमरुषीमजुष्र [?] चित्रमुच्छंतीमुषसं न गावः ।
 
+> *svasāraḥ śyāvīmaruṣīmajuṣra [?] citramucchaṃtīmuṣasaṃ na gāvaḥ |*
+
 *Cited (Ṛg. Saṃ. 3-29-13):*
 
 > दश स्वसारो अग्रुवः समीचीः पुमांसं जातमभि सं रभंते ।
+
+> *daśa svasāro agruvaḥ samīcīḥ pumāṃsaṃ jātamabhi saṃ rabhaṃte |*
 
 *Cited (Ṛg. Saṃ. 4-6-8):*
 
@@ -20025,4 +20023,4 @@ May we, uninjured, be secure in the protection of Agni, Indra, Soma, and the god
 
 ---
 
-**Progress note:** Done through printed p. 536 (PDF 557) plus the half-title pages PDF 558–559. Maṇḍala 2, Sūkta 8 is complete (Ṛk 6 finished, p. 536) and the Fifth Adhyāya of the Second Aṣṭaka is closed with its colophon and Kannada line. The Sixth Adhyāya begins: PDF 558 (printed 537) is the half-title page with the invocation, and the bhāṣya introduction to Sūkta 9 (⟦नि होता⟧, 6 Ṛks, Gṛtsamada, Triṣṭubh, Agni) is written. PDF 559 duplicates PDF 558 (not repeated); the offset printed = PDF − 21 may therefore change by one from the next page, to be checked on the next page's header. Next batch starts at Sūkta 9, Ṛk 1, after the introduction (no Ṛk left open). FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: header numerals (Maṃ. 2 A. 1 Sū. 8 [?]), Ni. 3-9 [?], Sūkta range "9–23 [?]" on PDF 558, Āśvalāyana references आ. ४-१३ [?] and आ. २-१२ [?]. [?] places: the Kannada number-word ಸಲವತ्ತಾರು on PDF 557.
+**Progress note:** Done through printed p. 537 (PDF 559) (= half-title and bhāṣya introduction of Sūkta 9 on PDF 558; PDF 559 is an exact duplicate of 558; before that, through printed p. 536 (PDF 557)). From PDF 560 (= printed 538) printed = PDF − 22. Maṇḍala 2, Sūkta 8 is complete (Ṛk 6 finished, p. 536) and the Fifth Adhyāya of the Second Aṣṭaka is closed with its colophon and Kannada line. The Sixth Adhyāya begins: PDF 558 (printed 537) is the half-title page with the invocation, and the bhāṣya introduction to Sūkta 9 (नि होता (*ni hotā*), 6 Ṛks, Gṛtsamada, Triṣṭubh, Agni) is written. PDF 559 duplicates PDF 558 (not repeated); the offset printed = PDF − 21 may therefore change by one from the next page, to be checked on the next page's header. Next batch starts at Sūkta 9, Ṛk 1, after the introduction (no Ṛk left open). FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: header numerals (Maṃ. 2 A. 1 Sū. 8 [?]), Ni. 3-9 [?], Sūkta range "9–23 [?]" on PDF 558, Āśvalāyana references आ. ४-१३ [?] and आ. २-१२ [?]. [?] places: the Kannada number-word ಸಲವತ्ತಾರು on PDF 557.

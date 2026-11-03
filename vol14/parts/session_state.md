@@ -158,3 +158,5 @@ Batch 76 (Sonnet #33): done through printed p. 410 (PDF 430). Sūkta 1 Ṛk 7 CO
 API runner built (vol14/tools/api_batch.py, vol14/API_PROMPT.md). Test batch printed pp. 411–413 (PDF 431–433) via API, $0.36 at assumed Sonnet prices (3/15 per M). Position: Ṛk 10 OPEN, only Saṃhitā written; Pada onward from p. 414 = PDF 434.
 
 Duplicate scan page: PDF 447 = exact duplicate of PDF 446 (printed 426). From PDF 448 printed = PDF − 21 (448 = printed 427). Numeral-file page = PDF − 3 from 448. Patched api_batch.py (printed(), duplicate-aware marker check, raw reply saved /tmp/api_raw_N.txt), numerals_for.py, doubt.py. API run of PDF 446–448 stopped before appending (cost $0.29, chunk not used); to be re-run.
+
+Duplicate PDF 559 (= 558); from PDF 560 printed = PDF − 22; numeral-file page = PDF − 4. Runner skips known duplicates (223, 335, 559) when choosing pages. API run of PDF 558–560 stopped (wasted $0.15) because the note position still said PDF 557. Fixed note: through printed p. 537 (PDF 559); next batch PDF 560–562 (printed 538–540), Sūkta 9 Ṛk 1.
