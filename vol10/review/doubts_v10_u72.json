@@ -1,0 +1,110 @@
+[
+ {
+  "pdf": 718,
+  "printed": 697,
+  "crop": [
+   0.438,
+   0.455,
+   0.361,
+   0.623
+  ],
+  "note": "ZOOMED, read: part number glyph ಅ-like = 8 (as in p.127 sheet row); 138ರಿಂದ 150 clear",
+  "answer": ""
+ },
+ {
+  "pdf": 720,
+  "printed": 699,
+  "crop": [
+   0.219,
+   0.236,
+   0.674,
+   0.814
+  ],
+  "note": "ZOOMED, read: Kaṭha ref 2-11 (curled 2), matches sheet",
+  "answer": ""
+ },
+ {
+  "pdf": 723,
+  "printed": 702,
+  "crop": [
+   0.558,
+   0.592,
+   0.256,
+   0.82
+  ],
+  "note": "ZOOMED, read: tad yat samānyām ṛci ... (ma hooked)",
+  "answer": ""
+ },
+ {
+  "pdf": 724,
+  "printed": 703,
+  "crop": [
+   0.208,
+   0.225,
+   0.19,
+   0.794
+  ],
+  "note": "ZOOMED, read: yathā kathā ca viśeṣo 'jāmi bhṛtītyaparam (as printed; bhṛ glyph unclear)",
+  "answer": ""
+ },
+ {
+  "pdf": 723,
+  "printed": 702,
+  "crop": [
+   0.489,
+   0.509,
+   0.578,
+   0.82
+  ],
+  "note": "ZOOMED, read: 4-57-2 (sheet agrees)",
+  "answer": ""
+ },
+ {
+  "pdf": 724,
+  "printed": 703,
+  "crop": [
+   0.29,
+   0.308,
+   0.513,
+   0.794
+  ],
+  "note": "ZOOMED, read: 10-166-5",
+  "answer": ""
+ },
+ {
+  "pdf": 727,
+  "printed": 706,
+  "crop": [
+   0.349,
+   0.398,
+   0.2,
+   0.813
+  ],
+  "note": "ZOOMED, read: tathyaitan mitrasya varuṇasyāryamṇo dakṣasya bhagasyāṃśasyeti (Ni 2-13); first word medium",
+  "answer": ""
+ },
+ {
+  "pdf": 727,
+  "printed": 706,
+  "crop": [
+   0.564,
+   0.612,
+   0.24,
+   0.813
+  ],
+  "note": "ZOOMED, read: tasyai mitraśca (not tasmai)",
+  "answer": ""
+ },
+ {
+  "pdf": 727,
+  "printed": 706,
+  "crop": [
+   0.624,
+   0.647,
+   0.562,
+   0.813
+  ],
+  "note": "ZOOMED, read: Tai.Brā. 1-1-9-1-1, 2",
+  "answer": ""
+ }
+]

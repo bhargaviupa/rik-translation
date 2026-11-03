@@ -1,0 +1,62 @@
+[
+ {
+  "pdf": 202,
+  "printed": 181,
+  "crop": [
+   0.565,
+   0.582,
+   0.183,
+   0.804
+  ],
+  "note": "ZOOMED, read: padvadīyata (ī sign medium)",
+  "answer": ""
+ },
+ {
+  "pdf": 203,
+  "printed": 182,
+  "crop": [
+   0.592,
+   0.612,
+   0.186,
+   0.814
+  ],
+  "note": "UNDECIDED: yat?ṃ santaṃ conjunct after yat unclear",
+  "answer": ""
+ },
+ {
+  "pdf": 207,
+  "printed": 186,
+  "crop": [
+   0.241,
+   0.258,
+   0.195,
+   0.34
+  ],
+  "note": "ZOOMED, read: second Nirukta ref (3-9), same glyphs as first; sheet agrees",
+  "answer": ""
+ },
+ {
+  "pdf": 210,
+  "printed": 189,
+  "crop": [
+   0.388,
+   0.433,
+   0.191,
+   0.812
+  ],
+  "note": "ZOOMED, read: sarathā daśa kanyāḥ ... gavāṃ ṣaṣṭyuttarasahasraṃ punarekādaśa rathāṃśca prādāt",
+  "answer": ""
+ },
+ {
+  "pdf": 211,
+  "printed": 190,
+  "crop": [
+   0.257,
+   0.277,
+   0.2,
+   0.522
+  ],
+  "note": "ZOOMED, read: cikitvāṃś cetanāvān aduṣṭam",
+  "answer": ""
+ }
+]
