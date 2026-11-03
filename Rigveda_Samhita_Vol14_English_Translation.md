@@ -14530,6 +14530,9 @@ Kannada: "One who shines in the bodies of living beings in the form of heat. The
 > त्वमग्न ऋभुराके नमस्यस्त्वं वाजस्य क्षुमतो राय ईशिषे ।
 > त्वं वि भास्यनु दक्षि दावने त्वं विशिक्षुरसि यज्ञमातनिः ॥ १० ॥
 
+> *tvamagna ṛbhurāke namasyastvaṃ vājasya kṣumato rāya īśiṣe |*
+> *tvaṃ vi bhāsyanu dakṣi dāvane tvaṃ viśikṣurasi yajñamātaniḥ ‖ 10 ‖*
+
 *(Ṛk 10 is left open: Pada and what follows continue on p. 414.)*
 
 ---
