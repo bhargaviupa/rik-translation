@@ -16234,5 +16234,53 @@
   ],
   "note": "UNDECIDED: header 'A. 24' [?] p. 372/374; 'जरत्कार्वां' p. 373 verse 8 [?]",
   "answer": ""
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "crop": [
+   0.0,
+   0.07,
+   0.0,
+   0.3
+  ],
+  "note": "UNDECIDED: header Aṣṭaka/Adhyāya/Varga numerals unverified",
+  "answer": ""
+ },
+ {
+  "pdf": 397,
+  "printed": 377,
+  "crop": [
+   0.05,
+   0.12,
+   0.0,
+   0.3
+  ],
+  "note": "UNDECIDED: header numerals unverified",
+  "answer": ""
+ },
+ {
+  "pdf": 397,
+  "printed": 377,
+  "crop": [
+   0.35,
+   0.75,
+   0.0,
+   1.0
+  ],
+  "note": "UNDECIDED: sūkta numbers in Pīṭhike list (9th maṇḍala list, 14, 25, 1st-maṇḍala) unverified [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 396,
+  "printed": 376,
+  "crop": [
+   0.0,
+   0.07,
+   0.6,
+   1.0
+  ],
+  "note": "UNDECIDED: header 'Maṃ. 2 A. 1 Sū. 1'; file reads 2.2.1",
+  "answer": ""
  }
 ]

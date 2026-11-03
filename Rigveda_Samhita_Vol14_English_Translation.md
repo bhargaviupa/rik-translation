@@ -13161,4 +13161,81 @@ After an ornament:
 
 ---
 
-**Progress note:** Done through printed p. 374 (PDF 394). Sūkta 191 complete (Ṛk 16 closed); Khila/Pariśiṣṭa verses 1-10 with Kannada explanation and the colophon 'iti prathamaṃ maṇḍalaṃ samāptaṃ' written: MAṆḌALA 1 COMPLETE. Next: Maṇḍala 2 (printed p. 375, PDF 395 to be checked). Flags pp. 372-374: header 'A. 24' [?] (unzoomed); Aṣṭaka 2 Adhyāya 5 Varga 16 as read on p. 373; no Varga closing printed; p. 373 grammar 'ante o vraścū chedane' [?], 'ञ्नित्या' truncated; 'जरत्कार्वां' as printed [?]; 'आसितिं' zoomed, as printed; Uṇ. Sū. 1-168 zoomed (file agrees), Pā. Sū. 7-3-93 file; Wilson text 'sukta', 'Sayana' [sic]; Pariśiṣṭa heading 'paṭhitavyāni' as it looks; sūtra 'bruva īṭ' as printed. Counts: 4 distinct [?] places, 3 zooms.
+
+### Printed p. 375 (PDF 395)
+
+*(Header: "Aṣṭaka 2 [?], Adhyāya 5 [?], Varga 1? [?]" — numerals not verified, no numeral file row; page number 375.)*
+
+> ॥ श्रीः ॥
+
+> *‖ śrīḥ ‖*
+
+> ॥ श्री गणेशाय नमः ॥
+
+> *‖ śrī gaṇeśāya namaḥ ‖*
+
+> अथ द्वितीयं मंडलं
+
+*(Title: "Atha dvitīyaṃ maṇḍalam" — "Now the second maṇḍala." Then a short rule.)*
+
+**Pīṭhike (Introduction).** The Ṛgveda Saṃhitā has ten divisions; these divisions are called maṇḍalas. In the main, the whole body of mantras composed or "seen" by each individual ṛṣi and his family (or group) has been put together and fixed as one maṇḍala. But in the 1st, 9th and 10th maṇḍalas there are many ṛṣis of different groups. Although the 9th maṇḍala has different ṛṣis, all its mantras have one and the same deity, called Pavamāna Soma; that is, unlike the other maṇḍalas, the mantras were not arranged according to the ṛṣis, but all the Soma-deity mantras seen by all the ṛṣis were put together and made into one maṇḍala. Therefore all the mantras in that maṇḍala have the one deity Pavamānaḥ Somaḥ, only the ṛṣis being different [continues p. 375, second strip].
+
+The first maṇḍala has put together the mantras of ṛṣis who saw a hundred, or a little more or less, Ṛks. Each ṛṣi's name has some 100 [as printed ೧೦೦] Ṛks; therefore the ṛṣis of this maṇḍala are called Śatarcinaḥ ("composers of a hundred Ṛks"), and this maṇḍala is called the Śatarcina-maṇḍala.
+
+Following this same order, the 2nd, 3rd, 4th, 5th, 6th, 7th and 8th maṇḍalas (numerals printed in Latin type) are said to have been "seen" respectively by the ṛṣis Gṛtsamada, Viśvāmitra, Vāmadeva, Atri, Bharadvāja, Vasiṣṭha and Kaṇva. The tenth maṇḍala includes many very long sūktas that cannot be divided in any way, and very small sūktas; they have been put together in this maṇḍala, which is called the maṇḍala of small sūktas and great sūktas (Kṣudrasūkta–Mahāsūkta). As in the first maṇḍala, in this tenth maṇḍala also there are in all 191 [as printed ೧೯೧] sūktas. The maṇḍala in hand, the second, being "seen" by the ṛṣi called Gṛtsamada, is customarily called the Gārtsamada-maṇḍala. In every maṇḍala, according to ṛṣi or subject-division, there are divisions called anuvākas, comprising several sūktas. In the first maṇḍala there are 24 [as printed ೨೪] such anuvākas and 191 sūktas. In this second maṇḍala there are 4 [as printed ೪] anuvākas and 43 [as printed ೪೩] sūktas. This maṇḍala is the smallest of all in size.
+
+---
+
+---
+
+
+### Printed p. 376 (PDF 396)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1" — the numeral file reads the header as "2.2 . 1 . Sū. 1"; the second item printed looks like the abbreviation for Anuvāka, taken as such; flag.)*
+
+Let us examine closely the matter of the ṛṣi Gṛtsamada, who "saw" this maṇḍala. Explaining the word *gṛtsamada*, the great sage Yāska in his Nirukta says:
+
+> गृत्समदो गृत्समदनः । गृत्स इति मेधाविनाम । गृणातेः स्तुतिकर्मणः ।
+
+*(Nirukta 9-5, numeral as given in the numeral file and the printed page.)*
+
+That is: Gṛtsamada means "Gṛtsamadana"; the word *gṛtsa* is derived from the root गृणाति (*gṛṇāti*), which gives the sense of praise. *Gṛtsa* is a name for the clever (intelligent) person. *Madana* means one who is joyful or has joy. The analysis is:
+
+> गृत्सश्चासौ मदनश्च गृत्समदनः
+
+> *gṛtsaścāsau madanaśca gṛtsamadanaḥ*
+
+Therefore the word Gṛtsamada means a man who is both intelligent and cheerful (with smiling face).
+
+This ṛṣi Gṛtsamada was at first the son of the ṛṣi Śunahotra, born in the Āṅgirasa-ṛṣi lineage. Once, while he was performing a sacrifice, asuras came and carried him off. At Gṛtsamada's prayer Indra freed him and brought him back. It was from Indra's command that the name Gṛtsamada became established for him. Afterwards he became known as the son of Śunaka, of the Bhṛgu family, or of a Śaunaka. Also in the Ṛgvedānukramaṇikā, composed by the great sage Kātyāyana, the pupil of the ṛṣi Śaunaka, in stating the names of the ṛṣis of the various sūktas it says:
+
+> त्वमग्न इति गृत्समदः शौनको भृगुतां गतः ।
+> शौनहोत्रः प्रकृत्या तु य आंगिरस उच्यते इति ॥
+
+> *tvamagna iti gṛtsamadaḥ śaunako bhṛgutāṃ gataḥ |*
+> *śaunahotraḥ prakṛtyā tu ya āṃgirasa ucyate iti ‖*
+
+That is: the ṛṣi of the sūkta त्वमग्ने द्युभिः (*tvamagne dyubhiḥ*) (as printed; "tvamagne dyubhiḥ"), Gṛtsamada, though born the son of Śunahotra of the Āṅgirasa lineage, afterwards (for some other reason) became known as the son of Śunaka, born in the Bhṛgu-ṛṣi family.
+
+In the Mahābhārata this ṛṣi has a different story. According to the story in the Anuśāsana-parva of the Mahābhārata, Vītahavya, king of the Haihaya country, had a son [this ṛṣi]. Because of harassment by his enemy, Pratardana, the king of Kāśī, Vītahavya abandoned his kingdom and wandered, exiled, and found shelter in the hermitage of the sage Bhṛgu. The angered Pratardana, king of Kāśī, then demanded forcibly that the kṣatriyas who were in Bhṛgu's hermitage be made subject to him. The sage Bhṛgu, unwilling to give up the king who had come for refuge, said that there was no kṣatriya at all in his hermitage. Because he said so, in order that the sage Bhṛgu's word not be untrue, Vītahavya became a brāhmaṇa. His son Gṛtsamada became the famous ṛṣi and the seer of the second maṇḍala of the Ṛgveda [continues p. 377].
+
+---
+
+---
+
+
+### Printed p. 377 (PDF 397)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 1? [?]" [numeral not verified]; "Ṛgvedasaṃhitā"; page number 377.)*
+
+In another place in the Mahābhārata it is said that when the gods were being defeated in the war of the gods and asuras, Indra was hidden in a secret place; the asuras searched to kill him, and Gṛtsamada took Indra's form, deceived the asuras and thus helped Indra escape. Besides, in the sacrificial ground called Naimiśāraṇya, the ṛṣis were performing a twelve-year sacrificial session (*sattra*), passing the time in listening to the Purāṇas and other tales told by the Sūta, the Paurāṇika Lomaharṣaṇa; in that assembly of ṛṣis the name Gṛtsamada is also mentioned. But it is not clear whether this is the same Gṛtsamada who saw this maṇḍala or a different ṛṣi of that name. It is also known that Gṛtsamada was one of the Śākhākāras (founders of recensions) among the branches of the Atharvaveda; Sāyaṇa, the bhāṣyakāra, has indicated this matter there.
+
+The first sūkta of this maṇḍala, seen by the ṛṣi Gṛtsamada, has 16 [as read; ೧೬] Ṛks. Leaving aside the last Ṛk, which is a conclusion praying for desired ends, the remaining 15 [as read; ೧೫] Ṛks all begin with words of the 2nd-person pronoun, त्वं (*tvaṃ*) त्वां (*tvāṃ*) etc. (words denoting "you"). Moreover, in many Ṛks the whole exposition begins with the word *yuṣmad* (you) [the printed sentence continues on the next strip]. Sūktas of this kind with such alliteration (*prāsa*) are many in the Ṛgveda. In the first maṇḍala's [number 9?] sūkta [as printed; numeral unclear [?]] also, as in the sūkta in hand, many Ṛks begin with the word त्वं (*tvaṃ*). In some sūktas all Ṛks begin with the word एतत् (*etat*): in the ninth maṇḍala's sūktas [numbers printed as ೩, ೧೫, ೨೨, ೨೭, ೨೮, … — read unverified [?]] and so on, every Ṛk begins with the word *etat*. In some sūktas — for instance the ninth maṇḍala's sūkta [number unclear [?]] — every Ṛk begins with the word तत् (*tat*), and in it with the word सः (*saḥ*). In this same maṇḍala, in sūkta 14 [as read; ೧೪ [?]] seen by Gṛtsamada, every Ṛk (except the last Ṛk) begins with the word अध्वर्यवः (*adhvaryavaḥ*). And in sūkta 25 [as read; numeral unclear [?]] of this same maṇḍala the last pāda of each Ṛk closes like a refrain: यंयं युजं कृणुते ब्रह्मणस्पतिः (*yaṃyaṃ yujaṃ kṛṇute brahmaṇaspatiḥ*). In this way, mantras and sūktas of various kinds of *prāsa* (alliteration) were composed with the aim of singing, and they show the ṛṣis' skill in composition and mastery of speech. In the maṇḍala in hand, the ṛṣi Gṛtsamada praises various deities by Ṛks and sūktas of many kinds, full of alliteration and rich in meaning. There is no need to say that all such mantras belong to the class of highly mature poetry.
+
+*(Closing ornament "— : o : —"; end of the Pīṭhike. Printed p. 375 had its own half-title; the Pīṭhike here ends at p. 377.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 377 (PDF 397). Maṇḍala 2 title page and Pīṭhike (pp. 375-377) written; Pīṭhike ends at p. 377 with ornament; Sūkta 1 not yet begun (next printed p. 378, PDF 398). Flags: header numerals pp. 375/377 (Aṣṭaka/Adhyāya/Varga) [?] unverified (no numeral rows for 395, 397); p. 376 header 'Maṃ. 2 A. 1 Sū. 1' file reads '2.2.1'; Pīṭhike sūkta numbers on p. 377 (ninth-maṇḍala list, 14, 25, first-maṇḍala sūkta) [?] unverified, 16/15 Ṛks as read; Nirukta 9-5 from file. Counts: ~6 [?] places, 0 zooms.
