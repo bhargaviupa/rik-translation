@@ -16310,4 +16310,140 @@ Agni, the well-kindled, placed upon (the altar of) the earth, stands in the pres
 
 ---
 
-**Progress note:** Done through printed p. 457 (PDF 478). Maṇḍala 2 Sūkta 3 (Āprī sūkta, 11 Ṛks): the bhāṣya intro and Anuvāda finished on p. 455; sūkta heading block (ṛṣi, devatās 1–11, chandas) written; Ṛk 1 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics on p. 456). Ṛk 2 is OPEN: Saṃhitā, Pada, bhāṣya and Pratipadārtha written on p. 457; Bhāvārtha, printed English and Special Topics follow on p. 458. FILE DISAGREE: none (3-2 twice, 4.53-5 agree; the "1-6" in the chandas line agrees, the file's "8" was read as 8-11). Not zoomed: headers (p. 455 "Va. 21", p. 457 "Va. 23"), sūkta heading "Varga 22, 23" [?]. [?] places: प्रत्यज् (ज् printed, expected ङ्); the sign after शा in एकादशाप्रं (p. 455); ṛṣi line small type (शौनहोत्र / भार्गव).
+### Printed p. 458 (PDF 479)
+
+*(Header: "458", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page. The page continues Ṛk 2 with its Bhāvārtha.)*
+
+**भावार्थ (Bhāvārtha — Ṛk 2)**
+
+(Kannada, translated:) "May Agni, Narāśaṃsa by name, joined with excellent flames, by his greatness make shine each of the oblations (receptacles of the oblation) and the three worlds beginning with the earth. May he make the oblation moist with a mind fit to sprinkle ghee, and at the time of the homa of the sacrifice satisfy the gods."
+
+**English Translation** *(as printed)*
+
+May the bright Narashansa, illumining the receptacles (of the offering) making manifest by his greatness the three radiant (regions), and diffusing the oblation at the season of sacrifice with butter-dispensing purpose, satisfy the gods
+
+*(No Special Topics are printed for Ṛk 2.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> ईळितो अग्ने मनसा नो अर्हन्देवान्यक्षि मानुषात्पूर्वो अद्य ।
+> स आ वह मरुतां शर्धो अच्युतमिंद्रं नरो बर्हिषदं यजध्वं ॥ ३ ॥
+
+> *īḷito agne manasā no arhandevānyakṣi mānuṣātpūrvo adya |*
+> *sa ā vaha marutāṃ śardho acyutamiṃdraṃ naro barhiṣadaṃ yajadhvaṃ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> ईळितः । अग्ने । मनसा । नः । अर्हन् । देवान् । यक्षि । मानुषात् । पूर्वः । अद्य ।
+> सः । आ । वह । मरुतां । शर्धः । अच्युतं । इंद्रं । नरः । बर्हिःऽसदं । यजध्वं ॥ ३ ॥
+
+> *īḷitaḥ | agne | manasā | naḥ | arhan | devān | yakṣi | mānuṣāt | pūrvaḥ | adya |*
+> *saḥ | ā | vaha | marutāṃ | śardhaḥ | acyutaṃ | iṃdraṃ | naraḥ | barhiḥ 'sadaṃ | yajadhvaṃ ‖ 3 ‖*
+
+*(In the Pada the compound बर्हिःऽसदं is printed with the usual small compound stroke.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, praised by us and worthy of the sacrifice, is asked to sacrifice today to the gods before the human Hotṛ, to bring the Maruts' host and the undecaying Indra; the priests are to worship Indra seated on the grass.
+
+> हे अग्ने ईळितोऽस्माभिः स्तुतः सन् मनसास्मदनुरक्तेन देवानां यागबुद्ध्या वार्हन् यागयोग्यः सन् मानुषाद्धोतुः पूर्वः पूर्वभावी नोऽस्मदर्थमद्यास्मिन्दिने देवान् यष्टव्यान् यक्षि । त्वमेव यजसि । स तादृशो यष्टा त्वमावह । आकारय । कान् । मरुतां शर्धो गणं । अच्युतमक्षीणमिंद्रं तदविनाभूतमिंद्रमपि । यद्वा मरुद्बलोपेतमिंद्रं । अनंतरं हे नरो नेतार ऋत्विजो बर्हिषदं बर्हिषि सीदंतं तमिंद्रं यजध्वं । पूजयध्वं ॥
+
+> *he agne īḷito 'smābhiḥ stutaḥ san manasāsmadanuraktena devānāṃ yāgabuddhyā vārhan yāgayogyaḥ san mānuṣāddhotuḥ pūrvaḥ pūrvabhāvī no 'smadarthamadyāsmindine devān yaṣṭavyān yakṣi | tvameva yajasi | sa tādṛśo yaṣṭā tvamāvaha | ākāraya | kān | marutāṃ śardho gaṇaṃ | acyutamakṣīṇamiṃdraṃ tadavinābhūtamiṃdramapi | yadvā marudbalopetamiṃdraṃ | anaṃtaraṃ he naro netāra ṛtvijo barhiṣadaṃ barhiṣi sīdaṃtaṃ tamiṃdraṃ yajadhvaṃ | pūjayadhvaṃ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3)**
+
+(Kannada, translated:) अग्ने (*agne*) — O Agni; ईळितः (*īḷitaḥ*) — praised by us; मनसा (*manasā*) — with a mind attached to us; अर्हन् (*arhan*) — being worthy of the sacrifice; मानुषात् (*mānuṣāt*) — than the human Hotṛ; पूर्वः (*pūrvaḥ*) — as the one who comes before; नः (*naḥ*) — for us; अद्य (*adya*) — today; देवान् (*devān*) — with reference to the gods worthy of sacrifice; यक्षि (*yakṣi*) — perform the sacrifice;
+
+*(The Pratipadārtha continues on p. 459.)*
+
+---
+
+### Printed p. 459 (PDF 480)
+
+*(Header: "A. 2 A. 5 Va. 22" [?, read from the strip, not zoomed; p. 457 was read as Va. 23], "Ṛgvedasaṃhitā", "459". The numeral file has no rows for this page.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3, continued)**
+
+(Kannada, translated:) सः (*saḥ*) — you, the revered one of that kind; मरुतां शर्धः (*marutāṃ śardhaḥ*) — the host in the form of an assembly of the Maruts; अच्युतं (*acyutaṃ*) — free from decay; इंद्रं (*iṃdraṃ*) — Indra; आ वह (*ā vaha*) — bring, having called (afterwards); नरः (*naraḥ*) — O priests, leaders of the sacrifice; बर्हिषदं (*barhiṣadaṃ*) — Indra, who sits on the seat of darbha grass; यजध्वं (*yajadhvaṃ*) — worship.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "O Agni, you who are praised by us, with a mind attached to us, worthy of the sacrifice, before the human Hotṛ, perform the sacrifice today for us, addressing the gods who are worthy of the sacrifice [the print has ಯುಗಾರ್ಹರಾದ *yugārhar-*, probably a misprint for *yāgārha-*, [sic?]]. You, the revered one, come bringing the host of the Maruts and the undecaying Indra. Then, O priests, leaders of the sacrifice, worship Indra, who sits on the seat of darbha grass."
+
+**English Translation** *(as printed)*
+
+Agni, you are the venerable Ilita ; do you, with mind favourably disposed towards us, offer to-day sacrifice to the gods, before the human (ministrant priest) ; as such, bring hither the company of the Maruts, the undecaying Indra, to whom, seated on the sacred grass, do you priests, offer worship.
+
+*(No Special Topics are printed for Ṛk 3.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> देव बर्हिर्वर्धमानं सुवीरं स्तीर्णं राये सुभरं वेद्यस्यां ।
+> घृतेनाक्तं वसवः सीदतेदं विश्वे देवा आदित्या यज्ञियासः ॥ ४ ॥
+
+> *deva barhirvardhamānaṃ suvīraṃ stīrṇaṃ rāye subharaṃ vedyasyāṃ |*
+> *ghṛtenāktaṃ vasavaḥ sīdatedaṃ viśve devā ādityā yajñiyāsaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> देव । बर्हिः । वर्धमानं । सुऽवीरं । स्तीर्णं । राये । सुऽभरं । वेदी इति । अस्यां ।
+> घृतेन । अक्तं । वसवः । सीदत । इदं । विश्वे । देवाः । आदित्याः । यज्ञियासः ॥ ४ ॥
+
+> *deva | barhiḥ | vardhamānaṃ | su 'vīraṃ | stīrṇaṃ | rāye | su 'bharaṃ | vedī iti | asyāṃ |*
+> *ghṛtena | aktaṃ | vasavaḥ | sīdata | idaṃ | viśve | devāḥ | ādityāḥ | yajñiyāsaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Divine Barhis is asked to be strewn by our priests on this altar for wealth, and the Vasus, Viśvedevas and Ādityas are asked to sit on this ghee-sprinkled grass.
+
+> हे बर्हिर्देव एतदभिमानिन्नग्ने वर्धमानं सुवीरं शोभनवीरसंपादकं सुभरं सुपूर्णं स्तीर्णमस्मदीयैर्ऋत्विग्भिरास्तृतं भव । किमर्थं । रा-
+
+> *he barhirdeva etadabhimāninnagne vardhamānaṃ suvīraṃ śobhanavīrasaṃpādakaṃ subharaṃ supūrṇaṃ stīrṇamasmadīyairṛtvigbhirāstṛtaṃ bhava | kimarthaṃ | rā-*
+
+*(The bhāṣya continues on p. 460, from the last word रा(ये).)*
+
+---
+
+### Printed p. 460 (PDF 481)
+
+*(Header: "460", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page.)*
+
+> रायेधनाय । अस्यां वेदी वेद्यां ॥ सप्तम्यर्थे प्रगृह्यसंज्ञा । संहितायां यथादेशश्छांदसः ॥ घृतेनाज्येनाक्तमिदं स्निग्धं बर्हिः सीदत । के । हे वसव एतन्नामकाः हे विश्वेसर्वे देवाः । हे आदित्याः । यज्ञियासो यज्ञार्हास्ते यूयमिदं बर्हिर्निषीदत । अस्मिन्बर्हिषि निषीदतेत्यर्थः ॥
+
+> *rāyedhanāya | asyāṃ vedī vedyāṃ ‖ saptamyarthe pragṛhyasaṃjñā | saṃhitāyāṃ yathādeśaśchāṃdasaḥ ‖ ghṛtenājyenāktamidaṃ snigdhaṃ barhiḥ sīdata | ke | he vasava etannāmakāḥ he viśvesarve devāḥ | he ādityāḥ | yajñiyāso yajñārhāste yūyamidaṃ barhirniṣīdata | asminbarhiṣi niṣīdatetyarthaḥ ‖*
+
+*(Joined with the end of p. 459, the first word reads रायेधनाय, i.e. राये (*rāye*) "for wealth" and धनाय (*dhanāya*) "for wealth, riches". The tail beginning सप्तम्यर्थे (*saptamyarthe*) is grammatical: the Pada word वेदी (*vedī*) is in the sense of the locative, with the designation pragṛhya, and the Chandas-usage of the Saṃhitā; no sūtra numbers printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 4)**
+
+(Kannada, translated:) बर्हिः देव (*barhiḥ deva*) — O Barhis, whose nature is divine; अस्यां वेदी (*asyāṃ vedī*) — on this altar; राये (*rāye*) — for wealth; वर्धमानं (*vardhamānaṃ*) — one who brings growth; सुवीरं (*suvīraṃ*) — one who brings excellent valour; सुभरं (*subharaṃ*) — one who is well-filled; स्तीर्णं (*stīrṇaṃ*) — be strewn (by us); यज्ञियासः (*yajñiyāsaḥ*) — O ye worthy of the sacrifice; वसवः (*vasavaḥ*) — O Vasus; विश्वे देवाः (*viśve devāḥ*) — O Viśvedevas; आदित्याः (*ādityāḥ*) — O Ādityas; घृतेन (*ghṛtena*) — with ghee; अक्तं (*aktaṃ*) — sprinkled; इदं (*idaṃ*) — on this barhis; सीदत (*sīdata*) — sit down.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "O Barhis, whose nature is divine, be the increaser of our wealth, the bringer of excellent valour, well filled; be strewn on our altar and adorn the altar. O Vasus, Viśvedevas, Ādityas, worthy of the sacrifice, sit down on this barhis sprinkled with ghee."
+
+**English Translation** *(as printed)*
+
+Divine grass, let the Vasus, the Vishwedevas, the adorable Adityas, sit upon this flourishing, invigorating, well-grown, sacred grass, strewn for the sake of wealth upon this altar, and sprinkled with butter.
+
+*(No Special Topics are printed for Ṛk 4.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> वि श्रयंतामुर्विया हूयमाना द्वारो देवीः सुप्रायणा नमोभिः ।
+> व्यचस्वतीर्वि प्रथंतामजुर्या वर्णं पुनाना यशसं सुवीरं ॥ ५ ॥
+
+> *vi śrayaṃtāmurviyā hūyamānā dvāro devīḥ suprāyaṇā namobhiḥ |*
+> *vyacasvatīrvi prathaṃtāmajuryā varṇaṃ punānā yaśasaṃ suvīraṃ ‖ 5 ‖*
+
+*(The Pada, bhāṣya and the rest of Ṛk 5 follow on p. 461.)*
+
+---
+
+**Progress note:** Done through printed p. 460 (PDF 481). Maṇḍala 2 Sūkta 3: Ṛk 2 finished (Bhāvārtha, printed English; no Special Topics). Ṛks 3 and 4 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics printed). Ṛk 5 is OPEN: only the Saṃhitā is written (p. 460); Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English follow on p. 461. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: header "Va. 22" on p. 459 (read as 22 [?], p. 457 was read as 23, so possibly misread), sūkta heading "Varga 22, 23" [?] still unchecked. [?] places: ಯುಗಾರ್ಹ in the Bhāvārtha of Ṛk 3 (probably misprint for yāgārha); बर्हिःऽसदं in the Pada of Ṛk 3.
