@@ -17625,4 +17625,128 @@ The Kannada says: here, addressing Agni, the yajamānas and ṛtvijs who have pe
 
 ---
 
-**Progress note:** Done through printed p. 487 (PDF 508). Maṇḍala 2 Sūkta 4: Ṛk 7 complete (printed English and Special Topics on p. 485); Ṛk 8 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 486; printed English and Special Topics on p. 487, then a short rule). Ṛk 9: Saṃhitā and Pada written at the foot of p. 487; **Ṛk 9 is open**, next are its bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on p. 488. FILE DISAGREE: none (the file has no rows for pp. 485–487). Not zoomed: headers (read from the strips, "Va. 25" on pp. 485 and 487), Ṛk numerals 8 and 9. The clearer printing ⟦नियामकवर्जितो⟧ on p. 485 corrects the doubtful ⟦नियोमक⟧ of p. 484. [?] places: p. 485 वृक्षगर्ताः (printed with र्त; bhāṣya has वृक्षगतान्) and प्राप्ताः (printed form unclear); p. 486 bhāṣya ⟦यागे⟧ (printed with ō-like sign) and ⟦मध्येऽन्यतमो⟧ (final vowel sign); p. 487 Saṃhitā ⟦उपराँ⟧ (chandrabindu-like sign).
+### Printed p. 488 (PDF 509)
+
+*(Header: "488", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+*(Ṛk 9 continues from p. 487. Its Saṃhitā and Pada were written there.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The Gṛtsamada ṛṣis, helped by Agni, ask to gain choice hidden wealth (or to overcome hidden sins). They ask to be rich in heroic sons and to defeat enemies. They also ask Agni to give the worshippers abundant, renowned food.
+
+*(The bhāṣya is printed as a Sanskrit text with a short grammatical tail. In the tail, व्यत्ययेनैकवचनं (*vyatyayenaikavacanaṃ*) is the only remark of that kind and no sūtra is quoted. The word after आत्मनि (*ātmani*) is printed with an ष्ट्य-like conjunct, ಪರೋಷ್ಟ್ಯೇಣ, and is written परोक्ष्येण as the sense requires [?]. The word before स्तोतृभ्यः (*stotṛbhyaḥ*) is printed ಶಬ್ದಯುಧ್ಭ್ಯಃ and is written शब्दयद्भ्यः [?].)*
+
+> हे अग्ने त्वया रक्षकेण वन्वंतश्छांदसं भजंतो गृत्समदा ऋषयः । आत्मनि परोक्ष्येण [?] वचनं । यथा गुहा गुहायां वर्तमानानुपरान् उपरमणसाधनान् उपरि उत्कृष्टे वर्तमानान्वा धनविशेषानभिस्युः । अभिभवेयुः । स्वाधीनान् कुर्युः । यद्वा गूढानुपरान् उपरेऽधिकत्वेन वर्तमानान्पापानभिस्युः । अभिभवेयुः । तथा कुर्वित्यर्थः । कीदृशाः । सुवीरासः । शोभनपुत्राद्युपेताः । अभिमातिसहः । वैरिणां पापादीनां सोढारः । किंच सूरिभ्यो मेधाविभ्यो यजमानेभ्यो गृणते ॥ व्यत्ययेनैकवचनं । शब्दयद्भ्यः [?] स्तोतृभ्यः । यद्वा सूरिभ्यो यजमानेभ्यो गृणते स्तोत्रे च स्मत् सुमत् अतिप्रभूतं तत् तादृशं प्रसिद्धं वयोऽन्नं धाः । धेहि ॥
+
+> *he agne tvayā rakṣakeṇa vanvaṃtaśchāṃdasaṃ bhajaṃto gṛtsamadā ṛṣayaḥ | ātmani parokṣyeṇa [?] vacanaṃ | yathā guhā guhāyāṃ vartamānānuparān uparamaṇasādhanān upari utkṛṣṭe vartamānānvā dhanaviśeṣānabhisyuḥ | abhibhaveyuḥ | svādhīnān kuryuḥ | yadvā gūḍhānuparān upare 'dhikatvena vartamānānpāpānabhisyuḥ | abhibhaveyuḥ | tathā kurvityarthaḥ | kīdṛśāḥ | suvīrāsaḥ | śobhanaputrādyupetāḥ | abhimātisahaḥ | vairiṇāṃ pāpādīnāṃ soḍhāraḥ | kiṃca sūribhyo medhāvibhyo yajamānebhyo gṛṇate ‖ vyatyayenaikavacanaṃ | śabdayadbhyaḥ [?] stotṛbhyaḥ | yadvā sūribhyo yajamānebhyo gṛṇate stotre ca smat sumat atiprabhūtaṃ tat tādṛśaṃ prasiddhaṃ vayo 'nnaṃ dhāḥ | dhehi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 9)**
+
+(Kannada, translated:) अग्ने (*agne*) — O Agni; वन्वंतः (*vanvaṃtaḥ*) — praising you and worshipping; गृत्समदासः (*gṛtsamadāsaḥ*) — the Gṛtsamada ṛṣis; त्वया (*tvayā*) — with the help of you, the protector; यथा (*yathā*) — in what manner; गुहा (*guhā*) — in a cave, hidden; उपरान् (*uparān*) — excellent wealths; अभि स्युः (*abhi syuḥ*) — as they obtain, in that manner also (and); सुवीरासः (*suvīrāsaḥ*) — as those who have excellent heroic sons; अभिमातिसहः (*abhimātisahaḥ*) — as those who have the power to crush enemies; (make them so); सूरिभ्यः (*sūribhyaḥ*) — for the performers of the sacrifice; गृणते (*gṛṇate*) — to the praisers who recite praise; स्मत् (*smat*) — abundant; तत् (*tat*) — renowned; वयः (*vayaḥ*) — food; धाः (*dhāḥ*) — give.
+
+**भावार्थ (Bhāvārtha — Ṛk 9)**
+
+(Kannada, translated:) O Agni, with the help of you, the protector, may the Gṛtsamada ṛṣis, who praise and worship you, obtain excellent wealth that lies hidden in a cave, and likewise may they be those who have excellent heroic sons and the power to crush enemies. Give abundant and renowned food to the praisers, who recite praise for the performers of the sacrifice.
+
+**English Translation** *(as printed, Ṛk 9)*
+
+By you (Agni), may the Gritsamadas, repeating your praise, become masters of the precious secret (treasures); so that they may be possessed of excellent dependants, and be able to resist (their) enemies, and do you give to (your) pious worshippers, and to him who glorifies (you), such (abundant) food.
+
+### Printed p. 489 (PDF 510)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "489", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 9)**
+
+(Kannada, translated; lemmata in Sanskrit as printed, in bold.)
+
+> वन्वंतः—छांदसं भजंतो गृत्सतमदा ऋषयः
+
+> *vanvaṃtaḥ—chāṃdasaṃ bhajaṃto gṛtsatamadā ṛṣayaḥ*
+
+*(Correction of my own line above: the lemma is printed as follows.)*
+
+> वन्वंतः—छांदसं भजंतो गृत्समदा ऋषयः
+
+> *vanvaṃtaḥ—chāṃdasaṃ bhajaṃto gṛtsamadā ṛṣayaḥ*
+
+Here the sense is given as the ṛṣis who are fit for Agni's favour, descendants or relatives of Gṛtsamada and others, who go on with Vedic study. Here the ṛṣi Gṛtsamada, the seer of the mantra, has spoken referring to himself, to those on his side and to his descendants.
+
+> यथा गुहा उपरान् [?] अभि स्युः—गुहायां वर्तमानान् उपरि वर्तमानान् वा धनविशेषान् स्वाधीनान् कुर्युः । यद्वा गूढान् अधिकत्वेन वर्तमानान् पापान् अभिभवेयुः तथा कुरु ।
+
+> *yathā guhā uparān [?] abhi syuḥ—guhāyāṃ vartamānān upari vartamānān vā dhanaviśeṣān svādhīnān kuryuḥ | yadvā gūḍhān adhikatvena vartamānān pāpān abhibhaveyuḥ tathā kuru |*
+
+*(In this passage the nasal ending of उपरान्, धनविशेषान्, स्वाधीनान्, गूढान् and वर्तमानान् is printed with a sign that looks like a chandrabindu with a stroke. It is written -ान् as the grammar and the bhāṣya on p. 488 require [?].)*
+
+Addressing Agni, the Kannada says: may the wealth that has been caused to lie hidden in caves (in a lonely or secret place), or that lies on the surface of the earth, come under the control of us, the ṛṣis who live by the study of the Veda alone. One kind of wish is thus explained. The second kind: may we have power so that the hidden and abundant sins that we have committed in secret, so that no one knows of them, are destroyed. The favour of Agni is prayed for in this way.
+
+> सूरिभ्यः गृणते—मेधाविभ्यः यजमानेभ्यः यद्वा सूरिभ्यः स्तोतृभ्यः
+
+> *sūribhyaḥ gṛṇate—medhāvibhyaḥ yajamānebhyaḥ yadvā sūribhyaḥ stotṛbhyaḥ*
+
+The Kannada says: the word सूरि (*sūri*) is read by Yāska among the names of stotṛ (praisers) (Ni. 3-19, as printed [?]). Here two different meanings of सूरि (*sūri*) are given: for the ṛtvijs who recite the stotra, or for the intelligent sacrificers. With these meanings explained, Agni is prayed to give abundant sons, wealth, food and the like.
+
+---
+
+### Sūkta 5
+
+*(A short rule is printed here, then the title "ಐದನೆಯು ಸೂಕ್ತವು" ("The fifth sūkta"), then another short rule.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The fifth sūkta, "hotājaniṣṭa", has eight Ṛks, ṛṣi Somāhuti, deity Agni, metre Anuṣṭubh. Its application is in the Prātaranuvāka and Āśvina-śastra, and in the ājya offerings of certain days.
+
+*(The sūtra "अग्नायो होताजनिष्ट (*agnāyo hotājaniṣṭa*)" is printed ಅಗ्नಾಯೋ in the bhāṣya and ಆಗ್ನಾಯೋ in the Kannada exposition. It is written as in the bhāṣya [?]. The references Ā. 4-13, Ā. 7-2 and Ā. 7-6 (Aśvalāyana Śrauta Sūtra, as printed) are read from the strip, not zoomed [?].)*
+
+> होताजनिष्टेत्यष्टर्चं पंचमं सूक्तं सोमाहुतेरार्षमाग्नेयमानुष्टुभं । होताष्टावानुष्टुभमित्यनुक्रांतं ॥ प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रतावस्य विनियोगः । सूत्रितं च । अग्नायो [?] होताजनिष्ट । आ. ४-१३ । इति ॥ चतुर्विंशेऽहन्यपीदमेवाज्यं । चतुर्विंशे होताजनिष्टेत्याज्यं । आ. ७-२ [?] । इति ॥ अभिप्लविके द्वितीयेऽहनीदमेवाज्यं । द्वितीयस्य चतुर्विंशेनाज्यं । आ. ७-६ [?] । इत्यतिदिष्टत्वात् ॥
+
+> *hotājaniṣṭetyaṣṭarcaṃ paṃcamaṃ sūktaṃ somāhuterārṣamāgneyamānuṣṭubhaṃ | hotāṣṭāvānuṣṭubhamityanukrāṃtaṃ ‖ prātaranuvākāśvinaśastrayorāgneye kratāvasya viniyogaḥ | sūtritaṃ ca | agnāyo [?] hotājaniṣṭa | ā. 4-13 | iti ‖ caturviṃśe 'hanyapīdamevājyaṃ | caturviṃśe hotājaniṣṭetyājyaṃ | ā. 7-2 [?] | iti ‖ abhiplavike dvitīye 'hanīdamevājyaṃ | dvitīyasya caturviṃśenājyaṃ | ā. 7-6 [?] | ityatidiṣṭatvāt ‖*
+
+**अनुवाद (Anuvāda)**
+
+(Kannada, translated:) This sūkta, "hotājaniṣṭa", is the fifth sūkta in the first anuvāka. It has eight Ṛks. The ṛṣi of this sūkta is Somāhuti; the deity is Agni; the metre is Anuṣṭup. The Anukramaṇikā says "होताष्टावानुष्टुभं (*hotāṣṭāvānuṣṭubhaṃ*)". The use of this sūkta for the Ṛks of the Āgneya-kratu, at the recital of the Prātaranuvāka and the Āśvina-śastra mantras, is told by the sūtra of the Āśvalāyana Śrauta Sūtra, "अग्नायो होताजनिष्ट (*agnāyo hotājaniṣṭa*)" (Ā. 4-13). In the special sacrifice lasting up to twenty-four days, its use for the ājya-homa on the twenty-fourth day is told by the sūtra "चतुर्विंशे होताजनिष्टेत्याज्यं (*caturviṃśe hotājaniṣṭetyājyaṃ*)" (Ā. 7-2). On the second day of the Abhiplava sacrifice this sūkta is also to be recited for the ājya-homa, as the sūtra "द्वितीयस्य चतुर्विंशेनाज्यं (*dvitīyasya caturviṃśenājyaṃ*)" (Ā. 7-6) tells.
+
+---
+
+**सूक्त—५ (Sūkta 5)**
+
+*(Printed heading: "॥ Maṇḍala 2 ॥ Anuvāka 1 ॥ Sūkta 5 ॥ ॥ Aṣṭaka 2 ॥ Adhyāya 5 ॥ Varga 26 ॥ Number of Ṛks in the sūkta: 8 ॥". The 26 is read from the strip, not zoomed.)*
+
+- **ऋषिः** (*ṛṣiḥ*) — सोमाहुतिर्भार्गवः (*somāhutirbhārgavaḥ*)
+- **देवता** (*devatā*) — अग्निः (*agniḥ*)
+- **छंदः** (*chandaḥ*) — अनुष्टुप् (*anuṣṭup*)
+
+### Printed p. 490 (PDF 511)
+
+*(Header: "490", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page. The anuvāda and heading above stand on this page; the Saṃhitā and Pada follow.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral looks like the glyph for 1 (ಂ-like loop, "∩"), not zoomed.)*
+
+> होता जनिष्ट चेतनः पिता पितृभ्य ऊतये ।
+> प्रयक्षञ्जेन्यं वसु शकेम वाजिनो यमं ॥ १ ॥
+
+> *hotā janiṣṭa cetanaḥ pitā pitṛbhya ūtaye |*
+> *prayakṣañjenyaṃ vasu śakema vājino yamaṃ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the subscript stroke in पितृऽभ्यः and प्रऽयक्षन् is the compound mark; it is written ऽ.)*
+
+> होता । अजनिष्ट । चेतनः । पिता । पितृऽभ्यः । ऊतये ।
+> प्रऽयक्षन् । जेन्यं । वसु । शकेम । वाजिनः । यमं ॥ १ ॥
+
+> *hotā | ajaniṣṭa | cetanaḥ | pitā | pitṛ 'bhyaḥ | ūtaye |*
+> *pra 'yakṣan | jenyaṃ | vasu | śakema | vājinaḥ | yamaṃ ‖ 1 ‖*
+
+*(Ṛk 1 is left open: its bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 490 (PDF 511). Maṇḍala 2 Sūkta 4: Ṛk 9 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English on p. 488; Special Topics on p. 489, then a rule). Sūkta 5 (ṛṣi Somāhuti Bhārgava, Agni, Anuṣṭubh, 8 Ṛks, Varga 26) begun: introductory bhāṣya, anuvāda and heading on pp. 489–490; Ṛk 1 Saṃhitā and Pada written on p. 490. **Ṛk 1 is open**; its bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow from p. 491. FILE DISAGREE: none (no file rows for pp. 488–490). Not zoomed: headers (Varga 26 on pp. 489 and 490), Ṛk numeral 1, the Aśvalāyana references 4-13, 7-2, 7-6 and Ni. 3-19. [?] places: p. 488 bhāṣya परोक्ष्येण and शब्दयद्भ्यः; p. 489 nasal sign of उपरान्/धनविशेषान्/गूढान् in the Special Topics lemma; p. 490 sūtra अग्नायो. A stray repeated lemma line with a misread गृत्सतमदा was written first and corrected beneath it on p. 489; remove the first, wrong line (वन्वंतः—छांदसं भजंतो गृत्सतमदा ऋषयः) if cleaning up.
