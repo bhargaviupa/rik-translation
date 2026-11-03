@@ -16306,5 +16306,29 @@
   ],
   "note": "ZOOMED, read: ajyupapade [?] / sanantasu [?] (bhasya)",
   "answer": ""
+ },
+ {
+  "pdf": 404,
+  "printed": 384,
+  "crop": [
+   0.214,
+   0.24,
+   0.208,
+   0.438
+  ],
+  "note": "ZOOMED, UNDECIDED: first letter of Sayana line, kept [?] (looks like gha/pha), then yoramtarmadhye",
+  "answer": ""
+ },
+ {
+  "pdf": 406,
+  "printed": 386,
+  "crop": [
+   0.278,
+   0.302,
+   0.531,
+   0.779
+  ],
+  "note": "FILE DISAGREE: file 6-6-13, read 6-16-13 (faint 1 before second 6); written 6-16-13",
+  "answer": ""
  }
 ]
