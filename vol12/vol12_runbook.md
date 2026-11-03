@@ -3,7 +3,7 @@
 Priority: correct readings, few tokens. **Sonnet only** (dispatcher session and every translator; never Opus). CLAUDE.md conventions apply (three-layer Sanskrit, per-Ṛk structure, printed English with [sic], progress-note pattern, digit key incl. the Oct 31 correction: round = 2, hooked = 3, flat-footed = 7). No OCR for readings; an image view that returns no image → STOP, write nothing for that page. No audits, tests or whole-volume scans.
 
 ## Scan and set-up (once)
-1. Use the scan named in `vol12_state.md` (better scan in `scans/` if uploaded; else the old `Rig_Vol12.pdf` only with the user's recorded approval — otherwise STOP and ask).
+1. Use the scan named in `vol12_state.md` (better scan in `scans/` if uploaded; else the old `vol12/scans/Rig_Vol12.pdf` only with the user's recorded approval — otherwise STOP and ask).
 2. Page offset by sampling ~6–8 spans of header strips (`python3 vol12/tools/numsheets.py FIRST LAST PREFIX`); set OFFSET in `tools/cfg.py`; read the title page once for the Sūkta range; record both in `vol12_state.md`. Create the output file with a short header (as in Vol 13/14).
 
 ## Reading and writing (the dispatcher starts a fresh translator per 3-page batch)

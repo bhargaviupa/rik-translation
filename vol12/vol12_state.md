@@ -3,7 +3,7 @@
 Status: **not started.** Folder created Oct 30, restructured like `vol10/` on Nov 2.
 
 ## Facts (fill in from the scan)
-- Scan: only the old `Rig_Vol12.pdf` (743 pp, 300 ppi 1-bit, low quality) is in the repo; no better scan found yet.
+- Scan: only the old `vol12/scans/Rig_Vol12.pdf` (743 pp, 300 ppi 1-bit, low quality) is in the repo; no better scan found yet.
 - Page offset (printed = PDF − k) and front-matter numbering: ?  Set OFFSET in `tools/cfg.py` after sampling header strips.
 - Content (Sūkta range, Aṣṭaka/Adhyāya): ? (title page and contents).
 

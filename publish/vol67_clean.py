@@ -8,7 +8,7 @@ SAM = re.compile(r'^\*\*(?:॥ संहिता(?:पाठः|खण्डः
 
 
 def clean9(vol=9, first=113):
-    text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
+    text = (ROOT / f"vol{vol}" / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
     i = text.rfind('**Progress note'); text = text[:i] if i > 0 else text
     k = text.find('## Sūkta %d' % first); front = text[:k]; body = text[k:]
     out = ['# ' + ADH[vol]]
@@ -38,7 +38,7 @@ def clean9(vol=9, first=113):
 
 def clean13(vol=13, first=166):
     """Vol 13's file was written with irregular markers (Ṛk headings as #### / bold / 'Sūkta N, Ṛk N', sūkta headings ## or ###, uppercase SŪKTA, no Ṛk markers at all in 174-180): normalise to the Vol 9-11 shapes."""
-    text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
+    text = (ROOT / f"vol{vol}" / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
     i = text.rfind('**Progress note'); text = text[:i] if i > 0 else text
     k = text.find('## Sūkta %d' % first); lines = text[k:].split('\n')
     SH = re.compile(r'^#{2,3} S[ūŪ]KTA? (\d+)\b(?!,)', re.I)
@@ -98,7 +98,7 @@ def clean(vol):
     if vol == 11: return clean9(11, 137)
     audit = []
     def log(kind, ln, text): audit.append(f"- **{kind}** (draft line {ln}): {text[:240].replace(chr(10), ' ')}{'…' if len(text) > 240 else ''}")
-    text = (ROOT / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
+    text = (ROOT / f"vol{vol}" / f"Rigveda_Samhita_Vol{vol}_English_Translation.md").read_text(encoding='utf-8')
     incipit = {int(n): re.sub(r'\s+', ' ', re.sub(r'[*­\[\]?]', '', w)).strip() for n, w in re.findall(r'(?m)^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*\d+\s*\|\s*$', text)}
     i = text.rfind('**Progress note')
     if i > 0: text = text[:i]; log('removed (trailing progress note)', 0, '')

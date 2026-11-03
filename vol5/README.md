@@ -13,5 +13,5 @@ plus the Kannada Pariśiṣṭa on the deities and persons of the Ṛgveda (prin
 | `tools/` | Pass tools and `cfg.py` (paths); copy from `vol2/tools/` and adapt when the pass starts. |
 
 Not yet moved here (they stay at the repository root until the Vol 5 back-fill pass is agreed):
-`Rig_Vol5.pdf` (the original scan) and `Rigveda_Samhita_Vol5_English_Translation.md/.docx`.
+`vol5/scans/Rig_Vol5.pdf` (the original scan) and `Rigveda_Samhita_Vol5_English_Translation.md/.docx`.
 Shared publishing pipeline for Vol 5 stays in `publish/` (`python3 publish/build_vol45.py 5 full`, cleaner `publish/vol45_clean.py`).

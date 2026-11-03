@@ -8,7 +8,7 @@ Glyphs: bold "2" with a straight base and loop at top = ೨ (2); rounded, ఒ-li
 Done through: p. 708 (check pages built: 626-629, 630-631, 632-635, 636-639, 640-644, 645-648, 649-653, 654-657, 658-660, 661-663, 664-667, 668-670, 671-674, 675-678, 679-682, 683-686, 687-690, 691-694, 695-699, 700-703, 704-708).
 Next page: none (range complete).
 Open items:
-- p. 708: the better scan clips the right margin of PDF 724; p. 708 was read from the old scan Rig_Vol5.pdf PDF 724 (clear). 10-123-6 [?], Av. 18-2-12 [?]; 'sentences of 7-?-? onward' corrected to 'sentences 7-55-2 to 5' as printed.
+- p. 708: the better scan clips the right margin of PDF 724; p. 708 was read from the old scan vol5/scans/Rig_Vol5.pdf PDF 724 (clear). 10-123-6 [?], Av. 18-2-12 [?]; 'sentences of 7-?-? onward' corrected to 'sentences 7-55-2 to 5' as printed.
 - p. 707: 2/7 doubts marked [?] (10-17-1, 18-2-32, 10-97-16, 5-30-12, 18-2-27, and p. 706's last 10-135-7).
 - p. 706: many 2/7 doubts marked [?] (glyph weight is not a reliable cue: on p. 706 the bold glyph in Av. 18-2-28 must be 2); Vāj. Saṃ. printed (೧೨-೬೩)? written 12-63 [?] (file 18-).
 - p. 705: compare 10-102-1 [?] and 10-2-7 [?] (2/7 glyphs); Tai. Brā. printed 2-3-8-2 (file 3-).
@@ -18,7 +18,7 @@ Open items:
 - p. 701 (2/7 doubts, glyph rule applied: bold flat-based = 2, thin rounded = 7; NB CLAUDE.md's key words it the other way, so these need the user's check): (೯-೧೧೩-?ರಿಂದ ೯) written 9-113-2 [?]; (೧೦-೧೦?-?) written 10-102-7; (?-೧?೫-೬) written 5-125-6 [?] (5-125 is out of range; first/second glyph unsure); 4-34-7; Tai. Ā. 1-11-1-7 [?]; first ref of the 'Sūrya' pair printed 1-109-7 (file had 10-).
 - p. 700: (… ಮತ್ತು ೧೯-೯?-೧೬ಗಳನ್ನು ಹೋಲಿಸಿ) written 19-92-16 [?]; 10-14-7, 9-113-7 last glyph read thin ೭.
 - p. 699 (old scan): Āś. Gṛ. Sū. 4-4-2 [?] (last digit unsure); Av. 14-1-45 added; last ref printed '(೧೮-೪-೩೧)' without 'ಅ. ವೇ.'.
-- SCAN GAP: the better scan lacks printed pp. 698-699 (its PDF 714-715 repeat pp. 694-695; PDF 716 = p. 700, offset +16 resumes). pp. 698-699 were read from the old scan Rig_Vol5.pdf PDF 714-715 (pdftoppm crops); build_verify check-page crops for 698-699 will show the wrong page.
+- SCAN GAP: the better scan lacks printed pp. 698-699 (its PDF 714-715 repeat pp. 694-695; PDF 716 = p. 700, offset +16 resumes). pp. 698-699 were read from the old scan vol5/scans/Rig_Vol5.pdf PDF 714-715 (pdftoppm crops); build_verify check-page crops for 698-699 will show the wrong page.
 - p. 697: last ref printed across a line break '(೧೦-೮೭-' / '೩-೬ ಇತ್ಯಾದಿ)', written 10-87-3-6 [?]; bold-looking first glyph in (೭-೧೦೪-೮) and Av. (೭-೭೬-೪) taken as ೭ (sūkta range); 10-86-16, 17 (೬ hook).
 - p. 696: 'Hā. Gṛ. Sū. ?' printed (ಮಾ. ಗೃ. ಸೂ. ೧-೧೦) = Mā. Gṛ. Sū. 1-10 (label corrected); last Av. paren (೮-೬; …) continues on p. 697.
 - p. 694: 'Vāj. Saṃ. 3-?' printed (ವಾಲ. ೩-೮) = Vāl. 3-8 (label corrected); (ಲ-ಲ೫-೧?) last read bold ೨ = 8-85-12.

@@ -2,7 +2,7 @@
 preceded the reference when the row was built (ctx of the review JSON). Prints rows where no group with that value has that left context.
 python3 audit_placements_v5.py EDITS.txt JSON [JSON...]   (JSON: review json with rows/unmatched carrying ctx)"""
 import sys,re,json
-f='/home/user/rik-translation/Rigveda_Samhita_Vol5_English_Translation.md'
+f='/home/user/rik-translation/vol5/Rigveda_Samhita_Vol5_English_Translation.md'
 t=open(f,encoding='utf8').read()
 def letters(s): return re.sub(r'[^A-Za-zĀ-ſḀ-ỿ]','',s)
 G=re.compile(r'(?<![\w.\-,])((?:\d{1,3}(?:,\d{3})+|\d{1,4}|\?)(?:\s*[-.–]\s*(?:\d{1,4}|\[\?\]|\?)){1,4})(\s*\[\?\])?(?![\w])')

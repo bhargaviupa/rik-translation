@@ -60,7 +60,7 @@ Scale in Vol 11 (rough, by pattern count): about **1,400 numeral-position `[?]` 
 
 - Repo: `bhargaviupa/rik-translation`, branch `main`.
 - Files to correct: `Rigveda_Samhita_Vol11_English_Translation.md` and `Rigveda_Samhita_Vol11_Kannada_Text.md` (sections `### Printed p. N  (PDF M)` and `<!-- PDF M · printed N -->`; printed = PDF − 18). Each numeral appears in both files, in the same page section.
-- Better scans: **not in the repo.** The user holds `11_Rigveda_Samhitha_Volume_11-1-70.pdf` and `…-71-140.pdf` (600 dpi). Merge with `sh publish/tools/verify11/merge_scans.sh a.pdf b.pdf` (needs poppler). Lower-quality full scan: `Rig_Vol11.pdf` (Git LFS; `git lfs pull`).
+- Better scans: **not in the repo.** The user holds `11_Rigveda_Samhitha_Volume_11-1-70.pdf` and `…-71-140.pdf` (600 dpi). Merge with `sh publish/tools/verify11/merge_scans.sh a.pdf b.pdf` (needs poppler). Lower-quality full scan: `vol11/scans/Rig_Vol11.pdf` (Git LFS; `git lfs pull`).
 - Tools: `publish/tools/verify11/` (`ctx.py` lists `[?]` with context; `strips.py`, `tiles.py` render and zoom; `fx.py` edits both files safely; `pass_log.py` in `publish/tools/` logs a batch), `publish/tools/translit/` (script conversions), `publish/tools/numeral_pass/METHOD.md`.
 - Older numeral-pass scripts (`pg.py`, `mont.py`, `apply_patches.py`, `BRIEF.md`) and the alternate Vol 8 scan (branch `alt-scan-vol8`) were used for Vol 8 and are **not on `main`**; look in `git log --all` and the remote branches if you need them. The Vol 8 review notes (`publish/review/Vol8_*numeral*`) are likewise only in history.
 - Related briefs: `docs/VERIFY_PASS_REQUIREMENTS.md` (the page-by-page `[?]` pass), `docs/KANNADA_OCR_REQUIREMENTS.md` (an OCR-training project).

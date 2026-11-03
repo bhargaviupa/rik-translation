@@ -6,6 +6,6 @@ import os
 REPO=os.path.abspath(os.path.join(os.path.dirname(__file__),'..','..','..'))+'/'
 WORK=os.path.expanduser(os.environ.get('VERIFY_WORK','~/verify_work'))+'/'
 SCAN=os.environ.get('SCAN',WORK+'new.pdf')
-EN=REPO+'Rigveda_Samhita_Vol11_English_Translation.md'
-KN=REPO+'Rigveda_Samhita_Vol11_Kannada_Text.md'
+EN=REPO+'vol11/Rigveda_Samhita_Vol11_English_Translation.md'
+KN=REPO+'vol11/Rigveda_Samhita_Vol11_Kannada_Text.md'
 os.makedirs(WORK,exist_ok=True)
