@@ -12567,4 +12567,123 @@ whence it is also termed Madhu-vidya, science of ambrosia ; one formula of which
 
 ---
 
-**Progress note:** Done through printed p. 359 (PDF 379). Sūkta 191: Ṛks 1-10 complete in text (Ṛk 10 Special Topics ended p. 359); Vyākaraṇa-prakriyā of Ṛk 10 OPEN (sajāmi, dṛtim, marāti, marāma done; hariṣṭhāḥ begun, madhulā/cakāra and rest follow p. 360); Ṛk 11 not yet begun. Varga 15 in headers of pp. 357 and 359 (unzoomed); no Varga closing note yet. (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 351-356 as before. Flags pp. 357-359: printed heading 'English Translatin' and 'vender', 'poisonns', 'arb', 'wholely' as printed [sic]; Special Topics 'purely' reading: 'tadanugrahāttraiva' and 'viṣyaiva' (as it looks) [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. Part number before 'page 615' (first) read 5 [?], unzoomed; possible lost word at strip join p. 359 (‘…bduki-si / -dareṃdū’) [?]; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees with file (not zoomed). Counts for batch pp. 357-359: 6 distinct [?] places, 0 zooms, numerals settled by file without zoom 1 (3-2-4), file lacked 4 (unzoomed).
+### Printed p. 360 (PDF 380)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 1. A. 24. Sū. 191". Ṛk 10 Vyākaraṇa-prakriyā concluded; Ṛk 11 begun. The first line continues hariṣṭhāḥ from p. 359.)*
+
+*(continuing hariṣṭhāḥ:)* by vyatyaya the plural affix has come; by the rule beginning गतिकारकोप (*gatikārakopa*) (as printed, truncated; no number) the word after it (*kṛduttarapada*) keeps its natural (*prakṛti*) accent.
+
+**मधुला (*madhulā*)**: root ला आदाने (*lā ādāne*). In सुपिस्थः (*supisthaḥ*) the word सुपि (*supi*) is taken as a separate rule (*yogavibhāga*); therefore, when a subanta stands as upapada, the affix ka comes also after other roots ending in ā; so here too the affix ka; as before the second member keeps its natural accent. *(No sūtra numbers printed.)* *(Ṛk 10 grammar ends; चकार not treated.)*
+
+---
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> इयत्तिका शकुंतिका सका जघास ते विषं ।
+> सो चिन्नु न मराति नो वयं मरामारे अस्य योजनं
+> हरिष्ठा मधु त्वा मधुला चकार ॥ ११ ॥
+
+> *iyattikā śakuṃtikā sakā jaghāsa te viṣaṃ |*
+> *so cinnu na marāti no vayaṃ marāmāre asya yojanaṃ*
+> *hariṣṭhā madhu tvā madhulā cakāra ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> इयत्तिका । शकुंतिका । सका । जघास । ते । विषं ।
+> सो इति । चित् । नु । न । मराति । नो इति । वयं । मराम । आरे । अस्य । योजनं ।
+> हरिऽस्थाः । मधु । त्वा । मधुला । चकार ॥ ११ ॥
+
+> *iyattikā | śakuṃtikā | sakā | jaghāsa | te | viṣaṃ |*
+> *so iti | cit | nu | na | marāti | no iti | vayaṃ | marāma | āre | asya | yojanaṃ |*
+> *hari 'sthāḥ | madhu | tvā | madhulā | cakāra ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The little bird has eaten your poison; being poison's natural enemy she does not die; the rest as before.
+
+> इयत्तिका । इयत्तां कुर्वाणेयत्तावती वा । बालेत्यर्थः । शकुंतिका । शकुंतेः शकुनः । तस्य स्त्री । तां कपिंजलीमाहुः । सका सा ते तव विषं जघास । भक्षितवती । सा विषहंत्रीति प्रसिद्धा । सो चित् ॥ सा उ इति निपातसमुदायः एकं पदं ॥ सापि शकुंतिका न म्रियते नित्यप्रतिपक्षत्वाद्विषस्य । शिष्टं व्याख्यातचरं । अनेन विद्यायां युद्धेहावृतं [?] विषं तस्य शकुनेभ्य आदित्याय च प्रदानमस्तीत्युक्तं भवति ॥
+
+> *iyattikā | iyattāṃ kurvāṇeyattāvatī vā | bāletyarthaḥ | śakuṃtikā | śakuṃteḥ śakunaḥ | tasya strī | tāṃ kapiṃjalīmāhuḥ | sakā sā te tava viṣaṃ jaghāsa | bhakṣitavatī | sā viṣahaṃtrīti prasiddhā | so cit ‖ sā u iti nipātasamudāyaḥ ekaṃ padaṃ ‖ sāpi śakuṃtikā na mriyate nityapratipakṣatvādviṣasya | śiṣṭaṃ vyākhyātacaraṃ | anena vidyāyāṃ yuddhehāvṛtaṃ [?] viṣaṃ tasya śakunebhya ādityāya ca pradānamastītyuktaṃ bhavati ‖*
+
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**इयत्तिका (*iyattikā*)** — of this small form. **सका शकुंतिका (*sakā śakuṃtikā*)** — that same bird. **ते (*te*)** — your. **विषं (*viṣaṃ*)** — poison. **जघास (*jaghāsa*)** — has eaten (even so). **सो चित् (*so cit*)** — that, being powerful. **नु (*nu*)** — certainly. **न मराति (*na marāti*)** — does not meet death. **नो वयं मराम (*no vayaṃ marāma*)** — we too shall not die.
+
+*(Pratipadārtha continues on p. 361.)*
+
+---
+
+---
+
+### Printed p. 361 (PDF 381)
+
+*(Header: "A. 2 A. 5 Va. 16 ]" (Varga numeral zoomed: ೧ then the hooked ೬, so 16; the previous pages read 15 unzoomed), "Ṛgvedasaṃhitā". Ṛk 11: Pratipadārtha ends, Bhāvārtha, printed English, Special Topics begun.)*
+
+*(Pratipadārtha of Ṛk 11 continued from p. 360:)*
+
+**आरे (*āre*)** — though far away. **हरिष्ठाः (*hariṣṭhāḥ*)** — the sun, mounted on horses. **अस्य (*asya*)** — of this poison. **योजनं (*yojanaṃ*)** — attains contact; (he makes the power of this poison not spread to us). *(O poison!)* **मधुला (*madhulā*)** — the Madhuvidyā. **त्वा (*tvā*)** — you. **मधु चकार (*madhu cakāra*)** — has changed into nectar.
+
+**भावार्थ (Bhāvārtha)** *(Kannada, rendered)*
+
+This small-formed bird has eaten your poison. Yet, because it is powerful, it does not die. Even from afar, the sun, mounted on horses, makes contact with this poison and so acts that the power of the poison does not spread to us. O poison, the Madhuvidyā has changed you into nectar.
+
+**English Translation** *(printed heading)*
+
+That little insignificant bird has swallowed your venom ; she does not die, nor shall we die; for, although afar off, yet drawn by his coursers, (the Sun) will overtake (the poison) ; the science of antidotes has converted you (Poison), to ambrosia.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the preceding Ṛk it was told that the sun, being in the solar disc, removes poison; now it is described that a bird called the *kapiñjala* eats the poison and removes it.
+
+**इयत्तिका शकुंतिका (*iyattikā śakuṃtikā*)** — **इयत्तां कुर्वाणेयत्तावती वा । बालेत्यर्थः (*iyattāṃ kurvāṇeyattāvatī vā | bāletyarthaḥ*)**. It is the nature of children to imitate what they see someone do. So इयत्तिका (*iyattikā*) means one who has the nature of imitating, a girl (बालिका (*bālikā*)). शकुंतेः (*śakuṃteḥ*) means of the शकुन (*śakuna*) bird, or the *kapiñjala* is also its name (Francoline partridge). शकुंतिका (*śakuṃtikā*) means the female bird. Therefore इयत्तिका-शकुंतिका (*iyattikā-śakuṃtikā*) means a small शकुन (*śakuna*) or the female young of the *kapiñjala* bird. The name of the शकुंत (*śakuṃta*) bird is mentioned in Ṛ. Saṃ. 2-42-3 and 2-43-1 (the file agrees; unzoomed).
+
+**सका जघास ते विषं (*sakā jaghāsa te viṣaṃ*)** — सका (*sakā*) means सा (*sā*). The female *kapiñjala* bird described before ate your (the poison's) poison. A small bird eats poison without taking notice of it. Since that is its natural food, it does not die. We too do not die. All such details are as before.
+
+---
+
+---
+
+### Printed p. 362 (PDF 382)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 1 A. 24 Sū. 191". Ṛk 11 Special Topics end; Vyākaraṇa-prakriyā of Ṛk 11; Ṛk 12 Saṃhitā and Pada.)*
+
+**सो चिन्नु (*so cinnu*)** — here the commentator has not divided the words as सः चित् नु (*saḥ cit nu*), as he did in the preceding Ṛk. Instead the division is सा (*sā*) + उ (*u*) = सो (*so*). Since the particle उ (*u*) is used as a filler, if one divides सा (*sā*), it becomes a qualifying word of शकुंतिका (*śakuṃtikā*); so he explains.
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+**सका (*sakā*)**: the word तद् (*tad*). By अव्ययसर्वनाम्नामकच् प्राक् टेः (*avyayasarvanāmnāmakac prāk ṭeḥ*) (Pā. Sū. 5-3-71, file agrees, not zoomed) akac comes in the middle; by a rule printed as तेदोः सावन् (*tedoḥ sāvan*) (as it looks: the Kannada prints a garbled word after तेदोः सा) [?] the initial ta becomes sa; since akac is *cit*, the final-udātta accent comes by चितः (*citaḥ*); since it ends in a (by *tyadādyatva*), ṭāp in the feminine; by the ekādeśa accent it too becomes udātta.
+
+**जघास (*jaghāsa*)**: root अद भक्षणे (*ada bhakṣaṇe*); when liṭ is intended, by लिट्यन्यतरस्याम् (*liṭyanyatarasyām*) (Pā. Sū. 2-4-40, file agrees, not zoomed) the substitute ghasḷ for the root; reduplication etc.; by अत उपधायाः (*ata upadhāyāḥ*) the penultimate vowel is lengthened; nighāta accent because of the atiṅanta that follows.
+
+**सो इति (*so iti*)**: here there are two words, सा (*sā*) and उ (*u*). By निपाताः (*nipātāḥ*) (as printed, no number): since these are read [in the list], both receive the name nipāta and make one pada.
+
+---
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> त्रिः सप्त विष्पुलिंगका विषस्य पुष्यमक्षन् ।
+> ताश्चिन्नु न मरंति नो वयं मरामारे अस्य योजनं
+> हरिष्ठा मधु त्वा मधुला चकार ॥ १२ ॥
+
+> *triḥ sapta viṣpuliṃgakā viṣasya puṣyamakṣan |*
+> *tāścinnu na maraṃti no vayaṃ marāmāre asya yojanaṃ*
+> *hariṣṭhā madhu tvā madhulā cakāra ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्रिः । सप्त । विष्पुलिंगकाः । विषस्य । पुष्यं । अक्षन् ।
+> ताः । चित् । नु । न । मरंति । नो इति । वयं । मराम । आरे । अस्य । योजनं ।
+> हरिऽस्थाः । मधु । त्वा । मधुला । चकार ॥ १२ ॥
+
+*(Ṛk 12 is left open: the Sāyaṇa-bhāṣya follows on p. 363.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 362 (PDF 382). Sūkta 191: Ṛks 1-11 complete in text; Ṛk 12 OPEN (Saṃhitā and Pada written p. 362; Sāyaṇa-bhāṣya etc. follow p. 363). Varga 16 in the header of p. 361 (zoomed; pp. 357/359 read 15 unzoomed); no Varga closing note yet. Flags pp. 360-362: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; Pada 'hari-sthāḥ' with the compound mark as printed; sūtra name after 'tedoḥ sā-' garbled [?]; 'gatikārakopa' printed truncated, no number; Pā. Sū. 5-3-71, 2-4-40 and Ṛ. Saṃ. 2-42-3, 2-43-1 agree with file (unzoomed). Counts pp. 360-362: 3 distinct [?] places, 1 zoom (header Varga), file agreed without zoom 4, file lacked 0 other. (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 351-356 as before. Flags pp. 357-359: printed heading 'English Translatin' and 'vender', 'poisonns', 'arb', 'wholely' as printed [sic]; Special Topics 'purely' reading: 'tadanugrahāttraiva' and 'viṣyaiva' (as it looks) [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. Part number before 'page 615' (first) read 5 [?], unzoomed; possible lost word at strip join p. 359 (‘…bduki-si / -dareṃdū’) [?]; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees with file (not zoomed). Counts for batch pp. 357-359: 6 distinct [?] places, 0 zooms, numerals settled by file without zoom 1 (3-2-4), file lacked 4 (unzoomed).
