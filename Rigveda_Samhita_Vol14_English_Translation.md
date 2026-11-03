@@ -15910,4 +15910,124 @@ May we manifest vigour among other men, Agni, through the steed and the food (wh
 
 ---
 
-**Progress note:** Done through printed p. 448 (PDF 469). Maṇḍala 2 Sūkta 2: Ṛk 9 complete (p. 446 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; p. 447 Special Topics). Ṛk 10 is OPEN: Saṃhitā (p. 447), Pada (p. 447–448), bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Special Topics stand at their first sentence, broken off at the end of p. 448 (the next page opens with the continuation of ⟦त्वद्दत्तेन…⟧). The numeral file has no rows for these pages. Not zoomed: the three headers (p. 447 read "A. 2 A. 5 Va. 21"); the Ṛk numbers 9 and 10. [?] places: Saṃhitā ⟦चितयेम⟧ (final sign) and ⟦जनाँ⟧; ⟦दोग्ध्री⟧ (p. 446); ⟦मनुष्यान्⟧ and ⟦इषिणि⟧ (p. 447); ⟦पंचे पंचेसु⟧ (p. 448); ⟦जनान्⟧ in the p. 448 Special Topics heading. As printed: Pada ⟦एव⟧ against Saṃhitā ⟦एवा⟧; Saṃhitā ⟦दुष्टरं⟧ against Pada ⟦दुस्तरं⟧; bhāṣya ⟦शुशुचीते⟧; Special Topics ⟦अरणकुशलेन⟧ against bhāṣya ⟦रणकुशलेन⟧; printed English "celebrtaes", "clases", heading "Trnslation".
+### Printed p. 449 (PDF 470)
+
+*(Header: "A. 2 A. 5 Va. 21", "Ṛgvedasaṃhitā", "449", read from the strip, not zoomed. The numeral file has no rows for this page. The Special Topics of Ṛk 10 continue from p. 448.)*
+
+*(The page opens in mid-word, continuing त्वद्- (*tvad-*) from p. 448. The first visible letters are printed "ತ್ತ್ರೇನ", read …त्तेन (*…ttena*) [?]. The next word is read अन्नेन (*annena*) [?] as printed, though the bhāṣya has अन्येन (*anyena*) in the corresponding place.)*
+
+(Kannada, continuing:) ……त्तेन [?] अन्नेन च अस्मत्समानान् अतिक्रम्य ज्ञायेमहि (*…ttena [?] annena ca asmatsamānān atikramya jñāyemahi*) — "We the sacrificers know ourselves to be surpassing those who are equal to us, through wealth such as a horse, favoured by Agni and moving swiftly, and also through food. This is the sense." In the second meaning, यद्वा त्वद्दत्तेनान्नेन च सुवीर्यं प्रकाशयेम (*yadvā tvaddattenānnena ca suvīryaṃ prakāśayema*) (as printed, without अश्वेन (*aśvena*)): "Agni's favour is also described: we the sacrificers, through horses favoured by Agni and through food, will also be strong."
+
+(Kannada:) पंचे कृष्टिषु (*paṃce kṛṣṭiṣu*) (printed पंचे (*paṃce*), as in the bhāṣya on p. 448) means the "five peoples": Gandharvas, Pitṛs, gods, Asuras and Rākṣasas, five kinds of people, some say. Others hold, as Upamanyu and others do, that the four varṇas beginning with the Brāhmaṇas, together with the people of the hunter caste called Niṣāda, make five kinds of people. (Sāyaṇa has approved this very view; the letters of Sāyaṇa (*Sāyaṇa*) are partly damaged in print.) Niṣādas are "killers of living beings", or, because sin is abundant in them, the Nairuktakāras have called them Niṣādas. Besides, at that time there may have been five main tribes (printed in English "tribes"). The poet may have said पंचे कृष्टिषु (*paṃce kṛṣṭiṣu*) with this idea. In any case it is clear that, on this question, a difference of view existed even in the time of Yāska, the author of the Nirukta.
+
+*(Rule line.)*
+
+---
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+*(The Saṃhitā reads यस्मिन्त्सुजाता (*yasmintsujātā*); the sign after स (*sa*) is not wholly clear, read सु (*su*) as in the Pada. Ṛk number printed ೧೧, read 11, not zoomed.)*
+
+> स नो बोधि सहस्य प्रशंस्यो यस्मिन्त्सुजाता इषयंत सूरयः ।
+> यमग्ने यज्ञमुपयंति वाजिनो नित्ये तोके दीदिवांसं स्वे दमे ॥ ११ ॥
+
+> *sa no bodhi sahasya praśaṃsyo yasmintsujātā iṣayaṃta sūrayaḥ |*
+> *yamagne yajñamupayaṃti vājino nitye toke dīdivāṃsaṃ sve dame ‖ 11 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । नः । बोधि । सहस्य । प्रऽशंस्यः । यस्मिन् । सुऽजाताः । इषयंत । सूरयः ।
+> यं । अग्ने । यज्ञं । उपऽयंति । वाजिनः । नित्ये । तोके । दीदिऽवांसं । स्वे । दमे ॥ ११ ॥
+
+> *saḥ | naḥ | bodhi | sahasya | pra 'śaṃsyaḥ | yasmin | su 'jātāḥ | iṣayaṃta | sūrayaḥ |*
+> *yaṃ | agne | yajñaṃ | upa 'yaṃti | vājinaḥ | nitye | toke | dīdi 'vāṃsaṃ | sve | dame ‖ 11 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Powerful, praiseworthy Agni, take note of our hymns; for in you the well-born priests offer praises, and sacrificers approach you in their own sacrificial houses for lasting offspring.
+
+> हे अग्ने सहस्य शत्रूणामभिभवितर्बलप्रभव वा प्रशंस्यः स्तुत्यः स त्वं नोऽस्मदीयं स्तोत्रादिकं बोधि । बुध्यस्व । स इत्युक्तं क इत्याह । यस्मिन्नग्नौ
+
+> *he agne sahasya śatrūṇāmabhibhavitarbalaprabhava vā praśaṃsyaḥ stutyaḥ sa tvaṃ no 'smadīyaṃ stotrādikaṃ bodhi | budhyasva | sa ityuktaṃ ka ityāha | yasminnagnau*
+
+*(The page ends here, in the middle of the bhāṣya; the foot of the page carries the signature "[29]" and "Vol. 14.")*
+
+---
+
+### Printed p. 450 (PDF 471)
+
+*(Header: "450", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2", read from the strip, not zoomed. The numeral file has no rows for this page. The bhāṣya of Ṛk 11 continues from p. 449.)*
+
+> सुजाताः शोभनजननाः सूरयः स्तोतार ऋत्विज इषयंत । गमयंति स्तोत्राणि । किंच हे अग्ने यज्ञं यजनीयं यं वाजिनो हविर्लक्षणान्नवंतो यजमाना नित्ये तोक औरसे पुत्रे निमित्तभूते सति । यद्वा तस्मिन् यथा दीप्यते । पुत्रगृहे यथा पित्रा दीप्यते तद्वत् स्वे दमे स्वकीये यागगृहे सवनीयादिस्थाने दीदिवांसं दीप्यमानमुपयंति हविःस्तोत्रादिना । स बोधीत्यन्वयः ॥
+
+> *sujātāḥ śobhanajananāḥ sūrayaḥ stotāra ṛtvija iṣayaṃta | gamayaṃti stotrāṇi | kiṃca he agne yajñaṃ yajanīyaṃ yaṃ vājino havirlakṣaṇānnavaṃto yajamānā nitye toka aurase putre nimittabhūte sati | yadvā tasmin yathā dīpyate | putragṛhe yathā pitrā dīpyate tadvat sve dame svakīye yāgagṛhe savanīyādisthāne dīdivāṃsaṃ dīpyamānamupayaṃti haviḥstotrādinā | sa bodhītyanvayaḥ ‖*
+
+*(No grammatical tail.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada:) अग्ने (agne (*agne*)) — O Agni; यज्ञं (yajñaṃ (*yajñaṃ*)) — worthy of worship; दीदिवांसं (dīdivāṃsaṃ (*dīdivāṃsaṃ*)) — shining; यं (yaṃ (*yaṃ*)) — whom, you; वाजिनः (vājinaḥ (*vājinaḥ*)) — sacrificers possessing food; नित्ये तोके (nitye toke (*nitye toke*)) — for the sake of eternal sons and other wealth; स्वे दमे (sve dame (*sve dame*)) — in their own sacrificial house; उपयंति (upayaṃti (*upayaṃti*)) — approach (with hymns and the like); and यस्मिन् (yasmin (*yasmin*)) — in whom, you; सुजाताः (sujātāḥ (*sujātāḥ*)) — of excellent birth; सूरयः (sūrayaḥ (*sūrayaḥ*)) — praisers; इषयंते (iṣayaṃte (*iṣayaṃte*)) — offer their praises; सहस्य (sahasya (*sahasya*)) — O Agni endowed with strength; प्रशंस्यः सः (praśaṃsyaḥ saḥ (*praśaṃsyaḥ saḥ*)) — you who are worthy of praise; नः (naḥ (*naḥ*)) — our hymns and the like; बोधि (bodhi (*bodhi*)) — know.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, endowed with strength, worthy of worship and shining, you whom the sacrificers, possessing food, approach with hymns and the like in their own sacrificial houses for the sake of eternal offspring and other wealth; and in whom the praisers, born of excellent birth, offer their praises: you, worthy of praise, know our hymns and the like."
+
+**English Translation** *(as printed)*
+
+Vigorous Agni, hear (our prayers); for you are he who is to be lauded ; to whom the well-born priests address (their hymns) ; and whom, entitled to worship, and radiant in your own abode, the offerers of the oblation approach, for the sake of never-failing posterity.
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "Agni is शत्रूणामभिभवितः बलप्रभव वा (*śatrūṇāmabhibhavitaḥ balaprabhava vā*): one who overcomes enemies, or one who, churned in the araṇi by the strength of the priests' arms, has come into being; thus the meaning of the word सहस्य (*sahasya*) has been given. And may this Agni-deva know the hymns and the like made by us, the priests and sacrificers. The prayer of the priests is also expressed: may the hymns and the like offered by the priests, who were born on earth and have attained the qualification to worship this Agni-deva endowed with abundant splendour, reach this very god."
+
+---
+
+### Printed p. 451 (PDF 472)
+
+*(Header: "A. 2 A. 5 Va. 21", "Ṛgvedasaṃhitā", "451", read from the strip, not zoomed. The numeral file has no rows for this page. The Special Topics of Ṛk 11 continue from p. 450.)*
+
+(Kannada:) वाजिनः यज्ञं नित्ये तोके स्वे दमे उपयंति (*vājinaḥ yajñaṃ nitye toke sve dame upayaṃti*) — "Two kinds of meaning have been explained for this sentence. Here, since the word तोके (*toke*) denoting a son is mentioned, the explanation हविर्लक्षणान्नवंतो यजमानाः औरसे पुत्रे निमित्तभूते सति यद्वा तस्मिन् यथा दीप्यते (*havirlakṣaṇānnavaṃto yajamānāḥ aurase putre nimittabhūte sati yadvā tasmin yathā dīpyate*) gives the meaning: the sacrificers, possessing food in the form of oblations, approach you (Agni) for the sake of obtaining a son; and, with पुत्रगृहे पिता यथा दीप्यते तद्वत् (*putragṛhe pitā yathā dīpyate tadvat*) ("as a father shines in his son's house"), they approach you who are thus shining. It is also explained that the priests approach Agni with offerings of oblations and with hymns in the sacrificial grounds and the pressing-places (savana), which are Agni's dwelling-places."
+
+(Kannada:) "The word वाज (*vāja*) is read by Yāska in many senses, such as food and strength." *(The word is printed वाजश्शब्द (*vājaśśabda*) with the conjunct partly garbled; read as वाजशब्द (*vājaśabda*).)*
+
+*(Closing mark ":O:" printed.)*
+
+---
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+*(Ṛk number printed ೧೨, read 12, not zoomed.)*
+
+> उभयासो जातवेदः स्याम ते स्तोतारो अग्ने सूरयश्च शर्मणि ।
+> वस्वो रायः पुरुश्चंद्रस्य भूयसः प्रजावतः स्वपत्यस्य शग्धि नः ॥ १२ ॥
+
+> *ubhayāso jātavedaḥ syāma te stotāro agne sūrayaśca śarmaṇi |*
+> *vasvo rāyaḥ puruścaṃdrasya bhūyasaḥ prajāvataḥ svapatyasya śagdhi naḥ ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+> उभयासः । जातऽवेदः । स्याम । ते । स्तोतारः । अग्ने । सूरयः । च । शर्मणि ।
+> वस्वः । रायः । पुरुऽचंद्रस्य । भूयसः । प्रजाऽवतः । सुऽअपत्यस्य । शग्धि । नः ॥ १२ ॥
+
+> *ubhayāsaḥ | jāta 'vedaḥ | syāma | te | stotāraḥ | agne | sūrayaḥ | ca | śarmaṇi |*
+> *vasvaḥ | rāyaḥ | puru 'caṃdrasya | bhūyasaḥ | prajā 'vataḥ | su 'apatyasya | śagdhi | naḥ ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, we, both priests and wise patrons, would be yours in your shelter; give us abundant, delightful wealth with servants, progeny and good sons.
+
+*(Doubtful: उभयासः (*ubhayāsaḥ*) near the beginning is printed with a sign that looks like उभयोसः (*ubhayosaḥ*); read उभयासः (*ubhayāsaḥ*) [?]. वसिष्ठस्य (*vasiṣṭhasya*) and बहुहिरण्योपेतस्य (*bahuhiraṇyopetasya*) are read as printed, not zoomed [?].)*
+
+> हे जातवेदो जातानां वेदितरग्ने स्तोतारस्त्वां स्तुवंत ऋत्विजः सूरयो मेधाविनो यजमानाश्चेत्युभयासः [?] । उभये वयं शर्मणि सुखे निमित्तभूते सति ते त्वत्संबंधिनः स्याम । भवेम । यद्वा ते शर्मणि स्याम । त्वं च नोऽस्माकं वस्वो निवासहेतोर्वसिष्ठस्य [?] रायो गवादिधनस्य पुरुश्चंद्रस्यातिशयेनाह्लादकस्य बहुहिरण्योपेतस्य [?] वा भूयसः प्रभूतस्य प्रजावतो भृत्याद्युपेतस्य पुत्रादिभोगपर्याप्तस्य वा स्वपत्यस्य शोभनपुत्रस्य । ईदृग्रूपं धनं नोऽस्मभ्यं शग्धि । देहि । दातुं शक्तो भवसि ॥
+
+> *he jātavedo jātānāṃ veditaragne stotārastvāṃ stuvaṃta ṛtvijaḥ sūrayo medhāvino yajamānāścetyubhayāsaḥ [?] | ubhaye vayaṃ śarmaṇi sukhe nimittabhūte sati te tvatsaṃbaṃdhinaḥ syāma | bhavema | yadvā te śarmaṇi syāma | tvaṃ ca no 'smākaṃ vasvo nivāsahetorvasiṣṭhasya [?] rāyo gavādidhanasya puruścaṃdrasyātiśayenāhlādakasya bahuhiraṇyopetasya [?] vā bhūyasaḥ prabhūtasya prajāvato bhṛtyādyupetasya putrādibhogaparyāptasya vā svapatyasya śobhanaputrasya | īdṛgrūpaṃ dhanaṃ no 'smabhyaṃ śagdhi | dehi | dātuṃ śakto bhavasi ‖*
+
+*(The rest of Ṛk 12, from the Pratipadārtha onward, follows on p. 452.)*
+
+---
+
+**Progress note:** Done through printed p. 451 (PDF 472). Maṇḍala 2 Sūkta 2: Ṛk 10 complete (Special Topics finished on p. 449). Ṛk 11 complete (Saṃhitā, Pada, bhāṣya across pp. 449–450, Pratipadārtha, Bhāvārtha, printed English, Special Topics through p. 451). Ṛk 12 is OPEN: Saṃhitā, Pada and bhāṣya are written; the Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on p. 452. The numeral file has no rows for these pages. Not zoomed: the three headers (read "A. 2 A. 5 Va. 21" on pp. 449 and 451, "Maṃ. 2 A. 1 Sū. 2" on p. 450) and the Ṛk numbers 11 and 12. [?] places: p. 449 Special Topics opening ⟦…त्तेन⟧ and ⟦अन्नेन⟧ (bhāṣya has ⟦अन्येन⟧); p. 451 bhāṣya ⟦उभयासः⟧ (printed like ⟦उभयोसः⟧), ⟦वसिष्ठस्य⟧, ⟦बहुहिरण्योपेतस्य⟧. As printed: Special Topics ⟦त्वद्दत्तेनान्नेन⟧ without ⟦अश्वेन⟧; Kannada ⟦पंचे⟧ for ⟦पंच⟧; ⟦वाजश्शब्द⟧ conjunct garbled.
