@@ -1,0 +1,12 @@
+# u08 state (PDF 108-118)
+- Pages with [?] per qlist: 108, 110, 111, 112, 113, 114, 115, 116, 118 (109, 117 none). Sheet 2 (page = PDF - 100) used.
+- p.108: only a note mentioned [?]; note removed (bhāṣya re-compared with image, consistent).
+- p.110: Yajus ref 8-18 (as printed, zoom); Ṛk 1-125-2 [?] after yantaṃ and at end removed (printed: yantaṃ clear, double danda); mukṣī/padimutsināti kept (same word cited elsewhere in the file with muc-derivation). Vāja 28-10 kept (sheet; the last glyph looked like 5 on the zoom, not changed). Vāja verse line 1 re-read from zoom: devī joṣṭrī vasudhitī yayoranyā gh[?]dveṣāṃsi yāyovadanyā vakṣa[?]dvasu (two syllables [?], yāyovadanyā medium); line 2 first word nāryāṇi -> vāryāṇi (medium-sure).
+- p.111: "kṛśa kṛśanor nityam [?]" -> "śyas śyanor nityam" (zoom; first letters medium; Pā. 7-1-81 per sheet).
+- p.112: bhāṣya lines re-read from 450-dpi zooms: janayantyutpādayantyasyāmapatyamanya iti jāmiḥ; na jāmaye bhaginyai jāmiranye 'syāṃ janayanti jāmapatyaṃ ...; jaratiḥ stutyarthaḥ | jarā stutirjarateḥ stutikarmaṇaḥ | ni. 10-8 (not 10-84); paścā paścāttvatprītyanantaraṃ yo 'ghasya dhātā yaḥ kaścidduḥkhasya tadutpādakapāpasya vā dhārayitāsti sa dadhyāḥ ...; dadhyatirgatyarthaḥ. All four [?] removed. Suspected but NOT changed (not zoomed): first lines of this bhāṣya ("prasūtatvādvetyarthaḥ" may be "tadvatprajyetyarthaḥ" or similar).
+- p.113: Ṛ. Saṃ. 5-4[?]-[?] -> 4-30-24 (sheet row 26; printed digits agree); jāmi quote in Special Topics -> "janayanty utpādayanti asyām apatyaṃ anye".
+- p.114: Nirukta quote corrected (jāmiranye 'syāṃ ... jāmapatyaṃ ... prāyā); [?] gloss sentence read from strip: "daughters are not fit for dāyabhāga"; "brother's estate" -> "father's estate" (ತಂದೆಯ); Ni refs as printed 10-8, 3-19, 3-9.
+- p.115: "Ni. 3-9 and OCR 14-61 [?]" -> "Niru. 2-14-61, as printed"; Uṇ. 2-1[?]-[?] -> 2-208 (sheet + image).
+- p.116: tā uttiṣṭhantu -> tā apyunmiṣantu (zoom clear); English adjusted; note removed.
+- p.118: refs 7-39-4, 6-13, 5-85-6, 4-26-7 (sheet; images agree); Ṛk line "ādāya śyeno abharatsomaṃ sahasraṃ savā ayutaṃ ca sākam" restored from zoom (abharatsomaṃ medium); Nirukta quote re-read: purandhirbahudhīstat[?]ḥ | purandhirbhagaḥ purastātsyā[?]deśa ityekam (2 [?] kept; old "tatra karmā" was wrong).
+- DONE PDF 108-118. [?] left in unit: 6 places (p110 2 syllables; p118 2).

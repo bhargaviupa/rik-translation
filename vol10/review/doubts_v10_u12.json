@@ -1,0 +1,86 @@
+[
+ {
+  "pdf": 156,
+  "printed": 135,
+  "crop": [
+   0.2,
+   0.3,
+   0.1,
+   0.9
+  ],
+  "note": "ZOOMED/sheet: Pa. 7-1-39-2, 7-3-96 per numeral sheet",
+  "answer": ""
+ },
+ {
+  "pdf": 160,
+  "printed": 139,
+  "crop": [
+   0.226,
+   0.289,
+   0.215,
+   0.699
+  ],
+  "note": "ZOOMED, read: marutsna? vo (subscript na/va unsure) ; ref 5-52-4 fairly sure",
+  "answer": ""
+ },
+ {
+  "pdf": 164,
+  "printed": 143,
+  "crop": [
+   0.666,
+   0.7,
+   0.277,
+   0.72
+  ],
+  "note": "ZOOMED, UNDECIDED: eṣā v?nī, vowel/cluster after va unresolved; no syā printed",
+  "answer": ""
+ },
+ {
+  "pdf": 166,
+  "printed": 145,
+  "crop": [
+   0.474,
+   0.495,
+   0.55,
+   0.72
+  ],
+  "note": "ZOOMED, read: Uṇ. 4-452 fairly sure",
+  "answer": ""
+ },
+ {
+  "pdf": 167,
+  "printed": 146,
+  "crop": [
+   0.66,
+   0.7,
+   0.228,
+   0.859
+  ],
+  "note": "ZOOMED, read: Ni 1-4; Ṛ 10-86-1; 8-2-12 fairly sure",
+  "answer": ""
+ },
+ {
+  "pdf": 168,
+  "printed": 147,
+  "crop": [
+   0.338,
+   0.366,
+   0.168,
+   0.803
+  ],
+  "note": "ZOOMED, read: kāye",
+  "answer": ""
+ },
+ {
+  "pdf": 169,
+  "printed": 148,
+  "crop": [
+   0.34,
+   0.363,
+   0.218,
+   0.836
+  ],
+  "note": "ZOOMED, read: kāye (adhyūḍham ok)",
+  "answer": ""
+ }
+]

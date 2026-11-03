@@ -1,0 +1,218 @@
+[
+ {
+  "pdf": 7,
+  "printed": -14,
+  "crop": [
+   0.761,
+   0.814,
+   0.167,
+   0.804
+  ],
+  "note": "ZOOMED, UNDECIDED: eight middle references of the seer's-name list; glyphs too blurred/ambiguous at 450 dpi, kept [?]",
+  "answer": ""
+ },
+ {
+  "pdf": 9,
+  "printed": -12,
+  "crop": [
+   0.393,
+   0.424,
+   0.226,
+   0.669
+  ],
+  "note": "ZOOMED, read: निष्ण[?]हमाणो यमते नायते धन्वासहा नायते (subscript of ṣṇa uncertain; ya-ma-te with hooked ya/ma)",
+  "answer": ""
+ },
+ {
+  "pdf": 9,
+  "printed": -12,
+  "crop": [
+   0.58,
+   0.614,
+   0.226,
+   0.508
+  ],
+  "note": "ZOOMED, read: तद्वदेवेति (second consonant read as d+va-subscript, fairly sure)",
+  "answer": ""
+ },
+ {
+  "pdf": 11,
+  "printed": -10,
+  "crop": [
+   0.34,
+   0.362,
+   0.359,
+   0.569
+  ],
+  "note": "ZOOMED, read: प्रास्यन्त त एतेनैव (second ta, fairly sure)",
+  "answer": ""
+ },
+ {
+  "pdf": 11,
+  "printed": -10,
+  "crop": [
+   0.357,
+   0.381,
+   0.266,
+   0.569
+  ],
+  "note": "ZOOMED, read: वसून्याददत (da-da-ta, sure)",
+  "answer": ""
+ },
+ {
+  "pdf": 11,
+  "printed": -10,
+  "crop": [
+   0.699,
+   0.722,
+   0.488,
+   0.821
+  ],
+  "note": "ZOOMED, read: सवनयोः with a stray extra mark after the visarga",
+  "answer": ""
+ },
+ {
+  "pdf": 11,
+  "printed": -10,
+  "crop": [
+   0.747,
+   0.792,
+   0.206,
+   0.821
+  ],
+  "note": "ZOOMED, read: षष्ठेऽहञ्[?]-स्यन्त इति (letter at line end unresolved)",
+  "answer": ""
+ },
+ {
+  "pdf": 13,
+  "printed": -8,
+  "crop": [
+   0.542,
+   0.564,
+   0.24,
+   0.8
+  ],
+  "note": "ZOOMED, read: यत्षष्ठं यदश्ववद्यदन्तवद्यत्पुनरावृत्तं यत्पुनर्निवृत्तं; no extra mark printed ([?] removed); यद्रतवद् (printed without e-sign? left as is)",
+  "answer": ""
+ },
+ {
+  "pdf": 13,
+  "printed": -8,
+  "crop": [
+   0.561,
+   0.584,
+   0.24,
+   0.8
+  ],
+  "note": "ZOOMED, read: यदन्तरूपं यदुत्तमे पदे देवता निरुच्यते, clear",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.445,
+   0.466,
+   0.515,
+   0.816
+  ],
+  "note": "ZOOMED: नियुत्वान्वक्षदवसे - cluster after ना (न् + subscript) not unambiguous; [?] KEPT",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.465,
+   0.486,
+   0.595,
+   0.816
+  ],
+  "note": "ZOOMED, read: अश्विनावर्मह (hooked ma)",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.481,
+   0.503,
+   0.253,
+   0.515
+  ],
+  "note": "ZOOMED, read: वृषन्निन्द्रास्तु श्रौषळोषूणो, clear",
+  "answer": ""
+ },
+ {
+  "pdf": 14,
+  "printed": -7,
+  "crop": [
+   0.742,
+   0.765,
+   0.253,
+   0.535
+  ],
+  "note": "ZOOMED, read: अवर्मह इन्द्र दादृहि श्रुधी नः (dādṛhi, was dādhi)",
+  "answer": ""
+ },
+ {
+  "pdf": 16,
+  "printed": -5,
+  "crop": [
+   0.78,
+   0.8,
+   0.23,
+   0.512
+  ],
+  "note": "ZOOMED, read: अमिनती दैव्यानि (aminatī daivyāni), clear; [?] removed",
+  "answer": ""
+ },
+ {
+  "pdf": 18,
+  "printed": -3,
+  "crop": [
+   0.682,
+   0.711,
+   0.154,
+   0.597
+  ],
+  "note": "ZOOMED: contents row 130 ಏಂದ್ರ ಯಾಹ್ಯುಪ; first vowel e vs ē not decidable (glyph looks like ಏ, differs slightly from ಎ of ಎಂಬ); [?] KEPT",
+  "answer": ""
+ },
+ {
+  "pdf": 22,
+  "printed": 1,
+  "crop": [
+   0.443,
+   0.457,
+   0.299,
+   0.61
+  ],
+  "note": "ZOOMED, read: अत ऊर्ध्वं त?नी ज्ञेया (printed ತನೀ-like: the glyph after ऊर्ध्वं is not तु; garbled/unclear) - [?] kept on one syllable",
+  "answer": ""
+ },
+ {
+  "pdf": 24,
+  "printed": 3,
+  "crop": [
+   0.578,
+   0.602,
+   0.218,
+   0.792
+  ],
+  "note": "ZOOMED, read: पञ्चोनेत्यनुवर्तमानात्पञ्चदशर्चम् । ऋषिश्चान्यस्मादृषेरिति परि-, clear; [?] removed",
+  "answer": ""
+ },
+ {
+  "pdf": 26,
+  "printed": 5,
+  "crop": [
+   0.216,
+   0.259,
+   0.158,
+   0.784
+  ],
+  "note": "ZOOMED, read: अहं चेषुध्येव इषुध्या शत्रून्यथा निरस्यति तथा वीरैरमित्राणां विविधमीरकैर्वीर्योपेतैर्वा तदनुचरैर्मरुदादिभिः सह दिवो द्युलोकसकाशात् - earlier शरध्या यथा / नियोपेतैः were wrong; मीरक clear but word not understood",
+  "answer": ""
+ }
+]

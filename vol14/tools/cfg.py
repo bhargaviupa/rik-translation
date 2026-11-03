@@ -6,7 +6,7 @@ EN=os.path.join(ROOT,'Rigveda_Samhita_Vol14_English_Translation.md')
 REVIEW=os.path.join(VOL,'review')
 WORK=os.environ.get('V14WORK','/tmp/v14num/')
 os.makedirs(WORK,exist_ok=True)
-OFFSET=0   # TO BE SET from the page map (printed = PDF - OFFSET)
+OFFSET=18   # printed = PDF - 18 (title page PDF 19 = printed 1; contents PDF 11-18 = roman; checked on all of part 1, PDF 20-121 = printed 2-103)
 def _parts():
     fs=sorted(glob.glob(os.path.join(VOL,'scans','14 [Rr]igveda*.pdf')),key=lambda p:int(re.findall(r'(\d+)\.pdf$',p)[0]))
     out=[];g=1

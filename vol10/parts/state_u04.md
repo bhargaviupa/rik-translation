@@ -1,0 +1,1 @@
+- p.56: 'staumi [?]' -> 'stuve' (zoom, clear: ಸ್ತುವೇ); trailing [?] after madhyamaḥ removed (it was the double danda). p.57: 'nirundhānāso 'rundhānā [?]' -> '...'varundhānā' (zoom). p.63: 3 [?] (anuṣṭhā?ṇāṃ, bhogān?ṣya?ito, vā?yaitat) zoomed at 800 dpi, stacked conjuncts not resolvable; kept. p.67: [?] only inside notes. Others no [?]. DONE PDF 55-68.

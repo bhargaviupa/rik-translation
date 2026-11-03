@@ -1,0 +1,11 @@
+# u01 state (PDF 7-26)
+- p.7 (PDF 7): list of 8 middle seer-name references: zoomed at 450 dpi, glyphs not unambiguous; [?] kept (undecided).
+- p.9: निष्ठमानो यमुते -> निष्ण[?]हमाणो यमते (letters read from zoom; ṣṇ subscript unsure, [?] on it; ya/ma hooks read as plain ya/ma) - medium; "taddeveti [?]" -> "tadvadeveti" - fairly sure.
+- p.11: "prāsyanta [?] ta" -> "prāsyanta ta" (fairly sure); "ādavata [?]" -> "ādadata" (sure: da-da-ta); "savanayoḥ [?]" -> "savanayoḥ" (a stray extra mark printed beside the visarga, noted in prose); "ahañkri [?]-yanta" -> "ahañ[?]-syanta" (the line-end letter after ञ् unresolved; next line begins स्यन्त).
+- p.13: two [?] removed (words legible: yatṣaṣṭhaṃ, yadantarūpaṃ). Note: printed "यद्रतवद्" may lack the e-sign (not changed).
+- p.14: avarmuha -> avarmaha (hooked ma, matches the list below); [?] after indra removed; "indrāstu [?]" removed; dādhi -> dādṛhi; "niyutvānvakṣadavase [?]" kept.
+- p.15/16/18 (contents): "aminatī daivyāni [?]" removed (clear); row 130 "ēndra/endra yāhy upa" first vowel unresolved, [?] kept.
+- p.22: "ūrdhvaṃ tu [?]" -> "ūrdhvaṃ ta[?]nī" (printed ತನೀ-like; not tu).
+- p.24: four [?] removed (bhāṣya read clearly).
+- p.26: bhāṣya corrected from zoom: "śaradhyā yathā" -> "śatrūnyathā"; "mīrakairniyopetairvā [?]" -> "mīrakairvīryopetairvā"; English middle phrase rewritten; one [?] kept on the word mīraka (not understood).
+- DONE through PDF 26. Left unresolved: PDF 7 list (1), PDF 9 ṣṇ subscript (1), PDF 11 ahañ[?] (1), PDF 14 avase (1), contents row 130 (1), PDF 22 (1), PDF 26 gloss (1).
