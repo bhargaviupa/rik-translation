@@ -17749,4 +17749,158 @@ The Kannada says: the word सूरि (*sūri*) is read by Yāska among the na
 
 ---
 
-**Progress note:** Done through printed p. 490 (PDF 511). Maṇḍala 2 Sūkta 4: Ṛk 9 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English on p. 488; Special Topics on p. 489, then a rule). Sūkta 5 (ṛṣi Somāhuti Bhārgava, Agni, Anuṣṭubh, 8 Ṛks, Varga 26) begun: introductory bhāṣya, anuvāda and heading on pp. 489–490; Ṛk 1 Saṃhitā and Pada written on p. 490. **Ṛk 1 is open**; its bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow from p. 491. FILE DISAGREE: none (no file rows for pp. 488–490). Not zoomed: headers (Varga 26 on pp. 489 and 490), Ṛk numeral 1, the Aśvalāyana references 4-13, 7-2, 7-6 and Ni. 3-19. [?] places: p. 488 bhāṣya परोक्ष्येण and शब्दयद्भ्यः; p. 489 nasal sign of उपरान्/धनविशेषान्/गूढान् in the Special Topics lemma; p. 490 sūtra अग्नायो. A stray repeated lemma line with a misread गृत्सतमदा was written first and corrected beneath it on p. 489; remove the first, wrong line (वन्वंतः—छांदसं भजंतो गृत्सतमदा ऋषयः) if cleaning up.
+### Printed p. 491 (PDF 512)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "491", read from the strip, not zoomed. The numeral file has no rows for this page. Ṛk 1 continues from p. 490, where its Saṃhitā and Pada were written.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, the Hotā who makes our rite effective and guards our sacrifice, has been born to protect the patrons. We, having oblation-food, ask to win worshipful, conquerable and controllable wealth.
+
+*(The grammatical tail is printed as "षष्ठ्यर्थे चतुर्थी" (dative in the sense of the genitive, for पितृभ्यः); no sūtra is quoted.)*
+
+> होता होमनिष्पादकश्चेतनश्चेतयिताऽस्मदनुष्ठितस्य । पिता पालकोऽस्मद्यज्ञस्य ईदृशोऽग्निरजनिष्ट । उत्पन्नः । किमर्थं । पितृभ्यः पालकेभ्यो यजमानेभ्यः ॥ षष्ठ्यर्थे चतुर्थी ॥ तेषामूतये रक्षणाय च । वयं च वाजिनो हविर्लक्षणान्नवंतः संतः प्रयक्षं प्रकर्षेण पूज्यं जेन्यं जेतव्यं यमं यमयितव्यं वसु धनं शकेम । शक्ता भूयास्म लब्धुमिति शेषः । यद्वा वाजिनोऽन्नस्य यमं यमनं कर्तुं शकेम । प्रयक्षं जेन्यं वसु धनमित्युपमानं । उक्तलक्षणं धनमिव । तद्यथावरोद्धुं शक्नुमस्तद्वत् ॥
+
+> *hotā homaniṣpādakaścetanaścetayitā 'smadanuṣṭhitasya | pitā pālako 'smadyajñasya īdṛśo 'gnirajaniṣṭa | utpannaḥ | kimarthaṃ | pitṛbhyaḥ pālakebhyo yajamānebhyaḥ ‖ ṣaṣṭhyarthe caturthī ‖ teṣāmūtaye rakṣaṇāya ca | vayaṃ ca vājino havirlakṣaṇānnavaṃtaḥ saṃtaḥ prayakṣaṃ prakarṣeṇa pūjyaṃ jenyaṃ jetavyaṃ yamaṃ yamayitavyaṃ vasu dhanaṃ śakema | śaktā bhūyāsma labdhumiti śeṣaḥ | yadvā vājino 'nnasya yamaṃ yamanaṃ kartuṃ śakema | prayakṣaṃ jenyaṃ vasu dhanamityupamānaṃ | uktalakṣaṇaṃ dhanamiva | tadyathāvaroddhuṃ śaknumastadvat ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 1)**
+
+(Kannada, translated:) होता (*hotā*) — the accomplisher of the homa; चेतनः (*cetanaḥ*) — the one who gives (our rites) consciousness (the inspirer); पिता (*pitā*) — Agni, the protector of our sacrifice; पितृभ्यः (*pitṛbhyaḥ*) — of the performers of the sacrifice; ऊतये (*ūtaye*) — for protection; अजनिष्ट (*ajaniṣṭa*) — has been born. (वयं (*vayaṃ*) — we too.) वाजिनः (*vājinaḥ*) — possessed of food in the form of the oblation; प्रयक्षं (*prayakṣaṃ*) — exceedingly worshipful; जेन्यं (*jenyaṃ*) — fit to be conquered; यमं (*yamaṃ*) — fit to be held in our own control; वसु (*vasu*) — wealth; शकेम (*śakema*) — may we be able to obtain.
+
+**भावार्थ (Bhāvārtha — Ṛk 1)**
+
+(Kannada, translated:) Agni, the accomplisher of the homa, the giver of consciousness to us, the protector of our sacrifice, has been born for the protection of the performers of the sacrifice. We too, as possessors of Agni in the form of the oblation, worshipping Agni, may obtain wealth that is exceedingly worshipful, fit to be conquered, and within our control.
+
+**English Translation** *(as printed, Ṛk 1)*
+
+An invoker (of the gods), our instructor and protector, has heen [sic] born for the preservation of our patrons ; may we, possessed of (sacrificial} [sic] food be able to acquire worshipful, conquerable, and manageable riches.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+> चेतनः—चेतयिता अस्मदनुष्ठितस्य ।
+
+> *cetanaḥ—cetayitā asmadanuṣṭhitasya |*
+
+He who prompts the sacrificial and other rites that we perform or are performing; that is, he who gives us the strength and capacity to carry them out, is the meaning.
+
+> पिता—
+
+> *pitā—*
+
+The word is formed from the root पा (*pā*) "to protect"; Sāyaṇa has explained it as "protector". Yāska — *(the Kannada continues on the next page)*
+
+### Printed p. 492 (PDF 513)
+
+*(Header: "492", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 5", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+*(The Special Topics of Ṛk 1 continue.)* Yāska has quoted the following Ṛk:
+
+*(In the Ṛk the printed text has a pluta sign ३ after चम्वो, written चम्वो३र्योनि. The gloss is mine and tentative: "Heaven is my father, the begetter; here is the navel; my kinsman; Earth, this great one, is my mother; between the two outstretched bowls is the womb; the father placed the embryo in the daughter".)*
+
+> द्यौर्मे पिता जनिता नाभिरत्र बंधुर्मे माता पृथिवी महीयं ।
+> उत्तानयोश्चम्वो३र्योनिरंतरत्रा पिता दुहितुर्गर्भमाधात् ॥
+
+> *dyaurme pitā janitā nābhiratra baṃdhurme mātā pṛthivī mahīyaṃ |*
+> *uttānayoścamvo3ryoniraṃtaratrā pitā duhiturgarbhamādhāt ‖*
+
+(Ṛ. Saṃ. 1-164-33, as printed.)
+
+Citing this Ṛk, he has explained the word पिता (*pitā*) in it as "protector or guardian, or preserver": पाता वा पालयिता वा (*pātā vā pālayitā vā*) (Ni. 4-21, as printed), and, with another Ṛk:
+
+*(The gloss is mine and tentative: "Let the lower, the higher and the middle Fathers, worthy of Soma, rise up; those harmless Fathers who went to life, knowers of the truth, may those Fathers help us in the invocations".)*
+
+> उदीरतामवर उत्परास उन्मध्यमाः पितरः सोम्यासः ।
+> असुं य ईयुरवृका ऋतज्ञास्ते नोऽवंतु पितरो हवेषु ॥
+
+> *udīratāmavara utparāsa unmadhyamāḥ pitaraḥ somyāsaḥ |*
+> *asuṃ ya īyuravṛkā ṛtajñāste no 'vaṃtu pitaro haveṣu ‖*
+
+(Ṛ. Saṃ. 10-15-1, as printed.)
+
+citing this Ṛk, he has said that the word पितरः (*pitaraḥ*) in it means "the deities of the fathers (pitṛ-devatās)" (Ni. 11-18, as printed). Sāyaṇa, in the Ṛk before us, gives the sense "protector" to both words पिता (*pitā*) and पितृभ्यः (*pitṛbhyaḥ*). He construes पिता (*pitā*) "protector" with Agni, and पितृभ्यः (*pitṛbhyaḥ*) "for the protecting sacrificers" with the yajamānas. The sense "protector" that Sāyaṇa gives to पिता (*pitā*) here does suit Agni. But for पितृभ्यः (*pitṛbhyaḥ*) there is no objection to giving the sense "(for the protection) of the deities of the fathers" in place of "for the sacrificers". The scholar Wilson has accepted the sense "deities of the fathers" only.
+
+> वाजिनः—हविर्लक्षणान्नवंतः ।
+
+> *vājinaḥ—havirlakṣaṇānnavaṃtaḥ |*
+
+The word वाजः (*vājaḥ*) is read among the twenty-eight names of food (Ni. 3-9, as printed). वाजिनः (*vājinaḥ*) means those who are accompanied by food, or those who have prepared food in the form of oblations in order to offer it to Agni.
+
+> जेन्यं वसु—
+
+> *jenyaṃ vasu—*
+
+वसु (*vasu*) means wealth. This wealth must be worthy of being won by us. That is, we must be able to subdue enemies, win the wealth and other things they hold, and bring them under our control. Agni is prayed to that we may be able to obtain such wealth.
+
+In this Ṛk and in the following Ṛks, Agni is addressed and praised as the ṛtvijs who take part in the sacrifice: Hotā, Netā, Praśāstā, Neṣṭā, Adhvaryu and the rest. In the Ṛk before us, Agni is praised as होता (*hotā*), the one who invokes the deities in the sacrifice, or as होमनिष्पादकः (*homaniṣpādakaḥ*), the one who accomplishes the homa; and it is described that Agni of such greatness has been born (in the araṇis, for the sake of our sacrifice).
+
+*(A short rule is printed here, ending the Special Topics of Ṛk 1.)*
+
+### Printed p. 493 (PDF 514)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 26 ]", "Ṛgvedasaṃhitā", "493", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral, ೨ (the curled glyph), not zoomed.)*
+
+> आ यस्मिन्त्सप्त रश्मयस्तता यज्ञस्य नेतरि ।
+> मनुष्वद्दैव्यमष्टमं पोता विश्वं तदिन्वति ॥ २ ॥
+
+> *ā yasmintsapta raśmayastatā yajñasya netari |*
+> *manuṣvaddaivyamaṣṭamaṃ potā viśvaṃ tadinvati ‖ 2 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । यस्मिन् । सप्त । रश्मयः । ततासः । यज्ञस्य । नेतरि ।
+> मनुष्वत् । दैव्यं । अष्टमं । पोता । विश्वं । तत् । इन्वति ॥ २ ॥
+
+> *ā | yasmin | sapta | raśmayaḥ | tatāsaḥ | yajñasya | netari |*
+> *manuṣvat | daivyaṃ | aṣṭamaṃ | potā | viśvaṃ | tat | invati ‖ 2 ‖*
+
+*(In the Pada the second word of the first line is printed ತತಾಃ, i.e. ततासः is not what is printed; it is written as printed: तताः. Correction of the line above:)*
+
+> आ । यस्मिन् । सप्त । रश्मयः । तताः । यज्ञस्य । नेतरि ।
+> मनुष्वत् । दैव्यं । अष्टमं । पोता । विश्वं । तत् । इन्वति ॥ २ ॥
+
+> *ā | yasmin | sapta | raśmayaḥ | tatāḥ | yajñasya | netari |*
+> *manuṣvat | daivyaṃ | aṣṭamaṃ | potā | viśvaṃ | tat | invati ‖ 2 ‖*
+
+*(The first of the two Pada lines above is wrong in its fifth word (ततासः); the second Pada block, with तताः, is the printed reading. The Saṃhitā likewise has ततता in my block; the printed Saṃhitā word is ततता? No: it is printed ततता — see the corrected Saṃhitā below.)*
+
+*(Corrected Saṃhitā, as printed: the fifth word is तता.)*
+
+> आ यस्मिन्त्सप्त रश्मयस्तता यज्ञस्य नेतरि ।
+> मनुष्वद्दैव्यमष्टमं पोता विश्वं तदिन्वति ॥ २ ॥
+
+> *ā yasmintsapta raśmayastatā yajñasya netari |*
+> *manuṣvaddaivyamaṣṭamaṃ potā viśvaṃ tadinvati ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* In Agni, the guide of the sacrifice, the seven Hotṛs are spread like rays. As eighth, the Potṛ, Agni, like a human Potṛ, carries through the whole divine sacrifice.
+
+*(The words after तत्संबंध्य (*tatsaṃbaṃdhya*) are printed ಷ್ಟಮುಷ್ಟೈತ್ರ್ವಿಕ್ಸಂಬಂಧಿ, written तत्संबंध्यष्टमर्त्विक्संबंधि (*tatsaṃbaṃdhyaṣṭamartviksaṃbaṃdhi*) [?]. The word before यज्ञं near the end is printed ತದ್ವದ್, written तद्वद् (*tadvad*) [?]. The tail तदित्यस्य लिंगव्यत्ययः (*tadityasya liṃgavyatyayaḥ*) is a remark on gender.)*
+
+> यज्ञस्य नेतरि यागस्य निर्वाहके यस्मिन्नग्नौ सप्त रश्मयः सप्तसंख्याका रश्मिवद्व्याप्ता होत्रका आतताः । स्वस्वकर्मभिः सर्वतो व्याप्ता भवंति । स पोता पावको देवानां पोत्राख्य ऋत्विग्रूपो वाग्निर्मनुष्वत् मनुष्यपोतृवत् दैव्यं । देवो यज्ञः । तत्संबंध्यष्टमर्त्विक्संबंधि [?] तद्विश्वं कर्तव्यजातं सप्त होत्रकैः सह स्वयमष्टमः सन् इन्वति । व्याप्नोति । यद्वा तदित्यस्य लिंगव्यत्ययः । स पोतेति संबंधः । सप्तहोत्रकैः सहाष्टमो भूत्वा तद्वद्यज्ञं [?] निर्वहतीत्यर्थः ॥
+
+> *yajñasya netari yāgasya nirvāhake yasminnagnau sapta raśmayaḥ saptasaṃkhyākā raśmivadvyāptā hotrakā ātatāḥ | svasvakarmabhiḥ sarvato vyāptā bhavaṃti | sa potā pāvako devānāṃ potrākhya ṛtvigrūpo vāgnirmanuṣvat manuṣyapotṛvat daivyaṃ | devo yajñaḥ | tatsaṃbaṃdhyaṣṭamartviksaṃbaṃdhi [?] tadviśvaṃ kartavyajātaṃ sapta hotrakaiḥ saha svayamaṣṭamaḥ san invati | vyāpnoti | yadvā tadityasya liṃgavyatyayaḥ | sa poteti saṃbaṃdhaḥ | saptahotrakaiḥ sahāṣṭamo bhūtvā tadvadyajñaṃ [?] nirvahatītyarthaḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 2)**
+
+(Kannada, translated:) यज्ञस्य नेतरि (*yajñasya netari*) — in the one who leads (conducts) the sacrifice; यस्मिन् (*yasmin*) — in which Agni; सप्त रश्मयः (*sapta raśmayaḥ*) — the seven Hotṛs (who are in the form of seven rays); आ तताः (*ā tatāḥ*) — as if they were spread everywhere with their respective duties; पोता (*potā*) — Agni, who is the ṛtvij called Potṛ for the gods; मनुष्वत् (*manuṣvat*) — like the Potṛ among human ṛtvijs; दैव्यं (*daivyaṃ*) — in the divine sacrifice; अष्टमं (*aṣṭamaṃ*) — joining (the other seven ṛtvijs) as the eighth ṛtvij; तत् विश्वं (*tat viśvaṃ*) — all that is to be done; इन्वति (*invati*) — pervades (carries through).
+
+**भावार्थ (Bhāvārtha — Ṛk 2)**
+
+(Kannada, translated:) In Agni, the conductor of the sacrifice, the seven Hotṛs, in the form of seven rays, are spread everywhere with their respective duties. That Agni, who is the Potṛ of the gods, like the Potṛ among men, carries through all the duties in the sacrifice.
+
+*(Ṛk 2 is left open: its printed English and Special Topics follow on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 493 (PDF 514). Maṇḍala 2 Sūkta 5: Ṛk 1 complete (bhāṣya, Pratipadārtha, Bhāvārtha, printed English with [sic] heen and "(sacrificial}", Special Topics through p. 492, then a rule). Ṛk 2 begun on p. 493: Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written. **Ṛk 2 is open**: its printed English and Special Topics follow from p. 494. FILE DISAGREE: none (no file rows for pp. 491–493). Not zoomed: headers (Varga 26 on pp. 491 and 493), Ṛk numeral 2, the references Ṛ. Saṃ. 1-164-33, 10-15-1 and Ni. 4-21, 11-18, 3-9. [?] places: p. 493 bhāṣya तत्संबंध्यष्टमर्त्विक्संबंधि and तद्वद्यज्ञं. Cleaning needed in the chunk for Ṛk 2: the Pada block was written twice (the first with a wrong word ततासः, then the corrected one with तताः) and the Saṃhitā was reprinted once in corrected form (the first has the printed form तता). Remove the first Pada block (with ततासः), the italic correction notes after it, and the second copy of the Saṃhitā (keep one Saṃhitā block).
