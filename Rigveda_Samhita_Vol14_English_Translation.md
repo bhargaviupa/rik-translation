@@ -16700,4 +16700,134 @@ May the three goddesses, Saraswati, perfecting our understanding, the divine Ila
 
 ---
 
-**Progress note:** Done through printed p. 466 (PDF 487). Maṇḍala 2 Sūkta 3: Ṛk 7 finished (bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics). Ṛk 8 complete (p. 465–466). Ṛk 9 is OPEN: Saṃhitā, Pada, bhāṣya written, Pratipadārtha begun (up to श्रुष्टी, ending mid-sentence at the foot of p. 466); the rest of the Pratipadārtha, Bhāvārtha and printed English follow on p. 467. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: the header "Va. 23" on p. 465 [?]; "आ ३-८" in the bhāṣya of Ṛk 9; Ṛk numerals 8 and 9. [?] places: bhāṣya of Ṛk 7: विद्यत्तमौ, देवान्यष्व्यान्, समांक्तां; bhāṣya of Ṛk 9: विविधनि[?]रयिता, जायुतामुत्सेद्यतां, एतरत्त्वित्यर्थः; Pada of Ṛk 9 पिशंगऽरूपः (position of the subscript stroke).
+### Printed p. 467 (PDF 488)
+
+*(Header: "A. 2 A. 5 Va. 23" [?, same reading as on p. 465, not zoomed], "Ṛgvedasaṃhitā", "467", read from the strip. The numeral file has no rows for this page. Ṛk 9 continues. The fragment "-vanū" at the top of the page ends a gloss begun on p. 466, evidently that of श्रुष्टी (*śruṣṭī*). The Bhāvārtha below gives it as "who has qualities devoted to actions".)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 9, continued from p. 466)**
+
+(Kannada, translated:) वीरः (*vīraḥ*) — one who has manly power; देवकामः (*devakāmaḥ*) — one desired by the deities; the son so described जायते (*jāyate*) — let him be born (by the grace of Tvaṣṭṛ); त्वष्टा (*tvaṣṭā*) — the god named Tvaṣṭṛ; अस्मे (*asme*) — to us; नाभिं (*nābhiṃ*) — that which binds the lineage; प्रजां (*prajāṃ*) — offspring in the form of sons and the rest; विष्यतु (*viṣyatu*) — let him graciously give; अथ (*atha*) — and; देवानां (*devānāṃ*) — belonging to the gods; पाथः अपि (*pāthaḥ api*) — food also; एतु (*etu*) — let it reach us.
+
+**भावार्थ (Bhāvārtha — Ṛk 9)**
+
+(Kannada, translated:) "May a son be born to us, by the grace of Tvaṣṭṛ, who has a form attractive like gold, who carries out the excellent sacrifice, who holds food, who has qualities devoted to actions, who has manly power, and who is desired by the deities. May the god named Tvaṣṭṛ graciously give us offspring in the form of sons and the rest, which bind our lineage. May the food belonging to the gods also reach us."
+
+**English Translation** *(as printed, Ṛk 9)*
+
+May a tawny-hued, well-grown (son), the bestower of food, active, manly, a worshipper of the gods, be born: may Twashtri prolong for us a continuous (line of) progeny, and may the food of the gods come also to us.
+
+*(No Special Topics are printed for Ṛk 9.)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> वनस्पतिरवसृजन्नुप स्थादग्निर्हविः सूदयाति प्र धीभिः ।
+> त्रिधा समक्तं नयतु प्रजानन्देवेभ्यो दैव्यः शमितोप हव्यं ॥ १० ॥
+
+> *vanaspatiravasṛjannupa sthādagnirhaviḥ sūdayāti pra dhībhiḥ |*
+> *tridhā samaktaṃ nayatu prajānandevebhyo daivyaḥ śamitopa havyaṃ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> वनस्पतिः । अवऽसृजन् । उप । स्थात् । अग्निः । हविः । सूदयाति । प्र । धीभिः ।
+> त्रिधा । संऽअक्तं । नयतु । प्रऽजानन् । देवेभ्यः । दैव्यः । शमिता । उप । हव्यं ॥ १० ॥
+
+> *vanaspatiḥ | ava 'sṛjan | upa | sthāt | agniḥ | haviḥ | sūdayāti | pra | dhībhiḥ |*
+> *tridhā | saṃ 'aktaṃ | nayatu | pra 'jānan | devebhyaḥ | daivyaḥ | śamitā | upa | havyaṃ ‖ 10 ‖*
+
+*(The compound marks in अवऽसृजन्, संऽअक्तं and प्रऽजानन् are the printed small stroke; in अवऽसृजन् its exact position is not certain [?]. The numerals 10 in both lines read from the strip, not zoomed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Vanaspati, the deity of the sacrificial post, approving our rite, is to stay near. Agni prepares the animal-offering by special acts of cooking. The divine Śamitṛ-Agni, knowing the thrice-sprinkled offering, brings it to the gods.
+
+> वनस्पतिर्यूपाभिमान्येतन्नामकोऽग्निरवसृजन् अस्मदीयं कर्मानुजानन् उपास्मत्समीपे स्थात् । तिष्ठतु । अग्निः पाकाधारोऽग्निश्च हविः पशुरूपं धीभिः कर्म-
+
+> *vanaspatiryūpābhimānyetannāmako 'gniravasṛjan asmadīyaṃ karmānujānan upāsmatsamīpe sthāt | tiṣṭhatu | agniḥ pākādhāro 'gniśca haviḥ paśurūpaṃ dhībhiḥ karma-*
+
+*(The bhāṣya continues on p. 468, split where the print splits.)*
+
+---
+
+### Printed p. 468 (PDF 489)
+
+*(Header: "468", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page.)*
+
+> भिर्विशेषैः पाकसाधनैः प्रकर्षेण सूदयाति । क्षारयति । असाकाधिकपाकादिराहित्येन [?] हविः पचतीत्यर्थः । किंच दैव्यो देवसंबंध्याहुत्यधिकरणभूतोऽग्निः शमिता हविषः संस्कर्ता । यद्वा दैव्यः शमित्येतन्नामकोऽग्निः [?] । अग्निर्वै देवानां शमितेति श्रूयते । त्रिधा त्रिप्रकारमुपस्तरणावदानाभिघारणैः समक्तं सम्यक् सिक्तं हव्यं हविः प्रजानन् विद्वान् नयनप्रकाराभिज्ञः सन् देवेभ्य उपनयेतु । समीपं प्रापयतु ॥
+
+> *bhirviśeṣaiḥ pākasādhanaiḥ prakarṣeṇa sūdayāti | kṣārayati | asākādhikapākādirāhityena [?] haviḥ pacatītyarthaḥ | kiṃca daivyo devasaṃbaṃdhyāhutyadhikaraṇabhūto 'gniḥ śamitā haviṣaḥ saṃskartā | yadvā daivyaḥ śamityetannāmako 'gniḥ [?] | agnirvai devānāṃ śamiteti śrūyate | tridhā triprakāramupastaraṇāvadānābhighāraṇaiḥ samaktaṃ samyak siktaṃ havyaṃ haviḥ prajānan vidvān nayanaprakārābhijñaḥ san devebhya upanayetu | samīpaṃ prāpayatu ‖*
+
+*(No sūtra reference or grammatical tail is printed in this bhāṣya. The doubtful words असाकाधिक… and शमित्येतन्नामकः are marked [?].)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 10)**
+
+(Kannada, translated:) वनस्पतिः (*vanaspatiḥ*) — the deity presiding over the sacrificial post (yūpa); अवसृजन् (*avasṛjan*) — approving our rite; उप (*upa*) — near us; स्थात् (*sthāt*) — let him be; अग्निः (*agniḥ*) — Agni, the support of cooking; हविः (*haviḥ*) — the offering in the form of the animal; धीभिः (*dhībhiḥ*) — by acts; सूदयाति (*sūdayāti*) — he prepares it; दैव्यः शमिता (*daivyaḥ śamitā*) — Agni, the Śamitṛ of the gods (who cuts the animal and prepares it); त्रिधा (*tridhā*) — in three ways; समक्तं (*samaktaṃ*) — sprinkled; हव्यं (*havyaṃ*) — the offering; प्रजानन् (*prajānan*) — knowing; देवेभ्यः (*devebhyaḥ*) — to the gods; उप नयतु (*upa nayatu*) — let him take and present it.
+
+**भावार्थ (Bhāvārtha — Ṛk 10)**
+
+(Kannada, translated:) "May the deity presiding over the sacrificial post, approving our rite, be near us. Agni, the support of cooking, prepares the offering in the form of the animal by acts. May Agni, the Śamitṛ of the gods, who cuts the animal and prepares it for the gods, knowing the offering sprinkled in three ways, take it to the gods and present it."
+
+**English Translation** *(as printed, Ṛk 10)*
+
+May Agni, who is Vanaspati, approving (of our rite), approach: and by his especial acts fully dress the victim; may the divine immolator convey the burnt-offering to the gods knowing it to have been thrice consecrated.
+
+*(No Special Topics are printed for Ṛk 10.)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> घृतं मिमिक्षे घृतमस्य योनिर्घृते श्रितो घृतम्वस्य धाम ।
+> अनुष्वधमा वह मादयस्व स्वाहाकृतं वृषभ वक्षि हव्यं ॥ ११ ॥
+
+> *ghṛtaṃ mimikṣe ghṛtamasya yonirghṛte śrito ghṛtamvasya dhāma |*
+> *anuṣvadhamā vaha mādayasva svāhākṛtaṃ vṛṣabha vakṣi havyaṃ ‖ 11 ‖*
+
+---
+
+### Printed p. 469 (PDF 490)
+
+*(Header: "A. 2 A. 5 Va. 23" [?], "Ṛgvedasaṃhitā", "469", read from the strip. The numeral file has no rows for this page. Ṛk 11 continues from the Saṃhitā on p. 468.)*
+
+**॥ पदपाठः ॥**
+
+> घृतं । मिमिक्षे । घृतं । अस्य । योनिः । घृते । श्रितः । घृतं । ऊं इति । अस्य ।
+> धाम ।
+> अनुऽस्वधं । आ । वह । मादयस्व । स्वाहाऽकृतं । वृषभ । वक्षि । हव्यं ॥ ११ ॥
+
+> *ghṛtaṃ | mimikṣe | ghṛtaṃ | asya | yoniḥ | ghṛte | śritaḥ | ghṛtaṃ | ūṃ iti | asya |*
+> *dhāma |*
+> *anu 'svadhaṃ | ā | vaha | mādayasva | svāhā 'kṛtaṃ | vṛṣabha | vakṣi | havyaṃ ‖ 11 ‖*
+
+*(The Ṛk numeral 11 in the Saṃhitā and Pada was read from the strip, not zoomed. The compound marks in अनुऽस्वधं and स्वाहाऽकृतं are the printed small stroke. In the Saṃhitā the connecting conjunct in घृतम्वस्य is read with some doubt [?], supported by the Pada's ऊं इति.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni's birthplace, nourishment and radiance are ghee, so the speaker sprinkles ghee. Agni, the showerer, is told to bring the gods for every offering, to gladden them, and to carry the offering made with svāhā.
+
+> अस्याग्नेर्घृतमाज्यं मिमिक्षे । सिंचामि । यतोऽस्य घृतं योनिः कारणं उत्पन्नोऽपि घृते श्रितः । आश्रितः । अस्याग्नेर्घृतमेव धाम तेजः । घृतेन ह्ययं दीप्यते । इदानीं संबोध्योऽच्यते [?] । हे अग्ने वृषभ फलस्य वर्षितस्त्वमनुष्वधं प्रतिहविः सर्वेष्वपि हविःषु दीयमानेष्वावह देवान् । आहूय तान्मादयस्व । प्रीणय । ततस्त्वं स्वाहाकृतं स्वाहाकारेण दत्तं हव्यं वक्षि । वह ॥
+
+> *asyāgnerghṛtamājyaṃ mimikṣe | siṃcāmi | yato 'sya ghṛtaṃ yoniḥ kāraṇaṃ utpanno 'pi ghṛte śritaḥ | āśritaḥ | asyāgnerghṛtameva dhāma tejaḥ | ghṛtena hyayaṃ dīpyate | idānīṃ saṃbodhyo 'cyate [?] | he agne vṛṣabha phalasya varṣitastvamanuṣvadhaṃ pratihaviḥ sarveṣvapi haviḥṣu dīyamāneṣvāvaha devān | āhūya tānmādayasva | prīṇaya | tatastvaṃ svāhākṛtaṃ svāhākāreṇa dattaṃ havyaṃ vakṣi | vaha ‖*
+
+*(The word संबोध्योऽच्यते is read so from the strip; it is perhaps for *saṃbodhya ucyate* [?]. No sūtra reference or grammatical tail is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 11)**
+
+(Kannada, translated:) अस्य (*asya*) — for this Agni; घृतं (*ghṛtaṃ*) — ghee; योनिः (*yoniḥ*) — the cause of origin (therefore); घृतं (*ghṛtaṃ*) — ghee; मिमिक्षे (*mimikṣe*) — I sprinkle; घृते (*ghṛte*) — in ghee; श्रितः (*śritaḥ*) — (Agni) has taken refuge; अस्य (*asya*) — for this Agni; घृतमु (*ghṛtamu*) [as printed] — ghee itself; धाम (*dhāma*) — the support of radiance; वृषभ (*vṛṣabha*) — O Agni, who showers fruits; अनुष्वधं (*anuṣvadhaṃ*) — for all the offerings made; आ वह (*ā vaha*) — bring the gods; मादयस्व (*mādayasva*) — gladden them; स्वाहाकृतं (*svāhākṛtaṃ*) — offered with the call svāhā; हव्यं (*havyaṃ*) — the offering; वक्षि (*vakṣi*) — carry.
+
+**भावार्थ (Bhāvārtha — Ṛk 11)**
+
+(Kannada, translated:) "Ghee is the cause of origin of this Agni. He has taken refuge in ghee alone. Therefore I sprinkle ghee. For this Agni ghee alone is the support of radiance. O Agni, giver of fruits, bring the gods for all the offerings made. Gladden them, and carry the offering made with the call svāhā."
+
+**English Translation** *(as printed, Ṛk 11)*
+
+I sprinkle the butter, for butter is his birth-place, he is nourished by butter; butter is his radiance; Agni, showerer (of benefits), bring the gods to the offered oblation; exhilarate them; convey to them the offering that has been reverently sanctified.
+
+*(No Special Topics are printed for Ṛk 11. A short rule closes the page below the English, ending Sūkta 3; no colophon is printed on this page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 469 (PDF 490). Maṇḍala 2 Sūkta 3: Ṛks 9, 10 and 11 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics). A short rule closes p. 469 after the Ṛk 11 English, so Sūkta 3 appears to end here with no colophon printed on this page; the next printed page (470) should be checked for the Sūkta-end matter or the start of Sūkta 4. No Ṛk is open. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: the header "Va. 23" on pp. 467 and 469 [?]; the Ṛk numerals 10 and 11. [?] places: Pada of Ṛk 10, position of the compound stroke in अवऽसृजन्; bhāṣya of Ṛk 10: असाकाधिक…, शमित्येतन्नामकः; Saṃhitā of Ṛk 11: घृतम्वस्य; bhāṣya of Ṛk 11: संबोध्योऽच्यते; Pratipadārtha of Ṛk 11: घृतमु (as printed).
