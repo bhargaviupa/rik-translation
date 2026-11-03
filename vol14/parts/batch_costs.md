@@ -4,3 +4,4 @@ pp. 378-380 | sonnet | tool_uses 14 | subagent_tokens 109470 | 1.8 min
 pp. 381-383 | sonnet | tool_uses 11 | subagent_tokens 100754 | 1.4 min
 pp. 384-386 | sonnet | tool_uses 14 | subagent_tokens 104096 | 1.6 min
 pp. 387-389 | sonnet | tool_uses 15 | subagent_tokens 109712 | 2.3 min
+pp. 390-392 | sonnet | 3 pages, subagent ~105k tokens est. | ~2 min
