@@ -1,6 +1,6 @@
 # Vol 14 — state
 
-Status: **in progress.** Translated through **printed p. 332 (PDF 352)** of ~961 printed pages (scan: 9 parts, 979 PDF pages, ~660 ppi, in `scans/`). Maṇḍala 1, Aṣṭaka 2, Adhyāya 5 (Anuvāka 24); Sūktas 185–190 complete; **Sūkta 191 begun** (half-title, Pīṭhike, Anuvāda cut off mid-sentence on p. 332).
+Status: **in progress.** Translated through **printed p. 371 (PDF 391)** of ~961 printed pages (scan: 9 parts, 979 PDF pages, ~660 ppi, in `scans/`). Maṇḍala 1, Aṣṭaka 2, Adhyāya 5 (Anuvāka 24); Sūktas 185–190 complete; **Sūkta 191 begun** (half-title, Pīṭhike, Anuvāda cut off mid-sentence on p. 332).
 
 ## Facts
 - Page offset: printed = PDF − 18 up to PDF 222; **PDF 223 is a pixel-identical duplicate of PDF 222 (skipped); printed = PDF − 19 for PDF 224–334; PDF 335 duplicates 334 (skipped, at the part 3/4 boundary); printed = PDF − 20 from PDF 336.** Numeral-file page = printed + 18 always (`tools/numerals_for.py` does the mapping). `doubt.py` applies this.
