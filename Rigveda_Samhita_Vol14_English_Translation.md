@@ -19575,4 +19575,186 @@ Who, sagacious, invincible, and of graceful gait, destroys, when propitiated, hi
 
 ---
 
-**Progress note:** Done through printed p. 529 (PDF 550). Maṇḍala 2, Sūkta 8: Ṛk 1 complete (pp. 527–528, Special Topics ended on p. 528); Ṛk 2 written (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun); **Ṛk 2 left open mid-Special Topics at ⟦सुनीथः⟧, which continues on p. 530 ("इದಲ್ಲದೆ…")**. FILE DISAGREE: none (no file rows for pp. 527–529). Not zoomed: all Nighaṇṭu and Ṛg-Saṃhitā reference numerals (Ni. 3-9 ×2 [?], Ni. 1-4 ×2, Ni. 3-13 [?]; Ṛ. Saṃ. 6-24-3 [?], 7-100-1, 7-19-11) and header numerals (Varga 29 on pp. 527 and 529). [?] places: p. 528 ⟦स्तीन्योयं⟧; p. 529 bhāṣya ⟦हविर्दत्त्रवते⟧; reference numerals marked [?].
+### Printed p. 530 (PDF 551)
+
+*(Header: "530", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 8" [numerals as read from the strip, not zoomed]. The numeral file has no rows for this page. This page continues the Special Topics of Ṛk 2; it opens directly with the quotation below, so the sentence that introduces it is not on this page.)*
+
+#### Ṛk 2 (Special Topics, continued)
+
+(Kannada, translated, continued.) The following Ṛk has the word सुनिथासः (*sunithāsaḥ*) (reference not printed here; the third pāda reads क्राणा (*krāṇā*) [?], as read):
+
+> त्वामिंद्र मतिभिः सुते सुनिथासो वसूयवः । गोभिः क्राणा अनूषत ।
+
+> *tvāmiṃdra matibhiḥ sute sunithāso vasūyavaḥ | gobhiḥ krāṇā anūṣata |*
+
+(Kannada, translated, continued.) In his commentary on this mantra Durgācārya explains it thus:
+
+> सुनीथासः सुष्ठु ये स्तोतुं शक्नुवंति ते सुनीथाः ।
+
+> *sunīthāsaḥ suṣṭhu ye stotuṃ śaknuvaṃti te sunīthāḥ |*
+
+(Kannada, translated, continued.) That is, "those who are able to praise well". (Ni. 4-19 [?]; numerals not zoomed.)
+
+**अजुर्यः (अजुर्यः (*ajuryaḥ*))** —
+
+> अजुर्यः — अजरणीयोऽनभिभाव्यः ।
+
+> *ajuryaḥ — ajaraṇīyo 'nabhibhāvyaḥ |*
+
+(Kannada, translated, continued.) This word is formed from the root ज्या वयोहानौ (*jyā vayohānau*) ("jyā, loss of vigour with age"). Because the prefix अ (*a*), which has a negative sense, is joined to it (the source prints उगसर्ग (*ugasarga*) [sic] for उपसर्ग (*upasarga*)), it means "one who is not aged"; that is, "one who is unobstructed, like a young man".
+
+**चारुप्रतीकः (चारुप्रतीकः (*cārupratīkaḥ*))** — For the word प्रतीक (*pratīka*) Yāska has given this etymology (Ni. 2-13 [?]; numerals not zoomed):
+
+> प्रतीकं प्रत्यक्तं भवति प्रत्यंचितं प्रतिगतं प्रकाशस्य ।
+
+> *pratīkaṃ pratyaktaṃ bhavati pratyaṃcitaṃ pratigataṃ prakāśasya |*
+
+(Kannada, translated, continued.) On the strength of this etymology, चारुप्रतीकः (*cārupratīkaḥ*) means "one who has a charming form or shape".
+
+---
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> य उ श्रिया दमेष्वा दोषोषसि प्रशस्यते ।
+> यस्य व्रतं न मीयते ॥ ३ ॥
+
+> *ya u śriyā dameṣvā doṣoṣasi praśasyate |*
+> *yasya vrataṃ na mīyate ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । ऊं इति । श्रिया । दमेषु । आ । दोषा । उषसि । प्रशस्यते ।
+> यस्य । व्रतं । न । मीयते ॥ ३ ॥
+
+> *yaḥ | ūṃ iti | śriyā | dameṣu | ā | doṣā | uṣasi | praśasyate |*
+> *yasya | vrataṃ | na | mīyate ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 3)**
+
+*Gist:* Agni, endowed with flame, comes to the sacrificial houses and is praised by night, at dawn and by day; his rite is never impaired.
+
+> योऽग्निः श्रिया ज्वालया युक्तः सन् दमेषु आ । आगत्य दोषा रात्रिषु उषस्यहःसु च प्रशस्यते । स्तूयते । यस्याग्नेर्व्रतं कर्म न मीयते । न हिंस्यते न क्षीयते वा ॥
+
+> *yo 'gniḥ śriyā jvālayā yuktaḥ san dameṣu ā | āgatya doṣā rātriṣu uṣasyahaḥsu ca praśasyate | stūyate | yasyāgnervrataṃ karma na mīyate | na hiṃsyate na kṣīyate vā ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3)**
+
+(Kannada, translated:) यः उ (*yaḥ u*) — that same Agni; श्रिया (*śriyā*) — endowed with a flame full of radiance; दमेषु (*dameṣu*) — in the sacrificial houses; आ (*ā*) — having come; दोषा (*doṣā*) — in the nights; उषसि (*uṣasi*) — in the dawns (and by day, "ahaḥ"; the Kannada gloss reads ಅಹಸ್ಸ್ಗಳಲ್ಲಿಯೂ); प्रशस्यते (*praśasyate*) — is praised; यस्य (*yasya*) — whose same Agni's; व्रतं (*vrataṃ*) — rite; न मीयते (*na mīyate*) — is not blunted (ಕುಂಠಿತವಾಗುವುದಿಲ್ಲ, "does not become impaired").
+
+---
+
+### Printed p. 531 (PDF 552)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 29 ]" [as read from the strip, not zoomed], "Ṛgvedasaṃhitā", "531". The numeral file has no rows for this page.)*
+
+**भावार्थ (Bhāvārtha — Ṛk 3)**
+
+(Kannada, translated:) The same Agni described above, endowed with a flame full of radiance, comes to the sacrificial houses and is praised in the nights, in the dawns and in the days. And the rite that worships that Agni is never impaired.
+
+**English Translation** *(as printed, Ṛk 3)*
+
+Who, invested with radiance, is glorified, morning and evening, in (our) dwelling: whose worship is never neglected.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> आ यः स्वर्ण भानुना चित्रो विभात्यर्चिषा ।
+> अंजानो अजरैरभि ॥ ४ ॥
+
+> *ā yaḥ svarṇa bhānunā citro vibhātyarciṣā |*
+> *aṃjāno ajarairabhi ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । यः । स्वः । न । भानुना । चित्रः । विभाति । अर्चिषा ।
+> अंजानः । अजरैः । अभि ॥ ४ ॥
+
+> *ā | yaḥ | svaḥ | na | bhānunā | citraḥ | vibhāti | arciṣā |*
+> *aṃjānaḥ | ajaraiḥ | abhi ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 4)**
+
+*Gist:* Agni of many hues shines all round with his mass of rays, like the sun with its ray, making all bright with his unageing flames.
+
+> योऽग्निश्चित्रश्चायनीयो नानावर्णो वार्चिषा ज्वालया रश्मिसमूहेनाविभाति । सर्वतो भासते । तत्र दृष्टांतः । स्वर्भानुना । किरणेन सूर्य इव । स यथा विभाति तद्वत् । किं कुर्वन् । अजरैर्नित्यैर्ज्वालासमूहैरभि सर्वतोऽंजानो व्यंजयन् प्रकाशयन् ॥
+
+> *yo 'gniścitraścāyanīyo nānāvarṇo vārciṣā jvālayā raśmisamūhenāvibhāti | sarvato bhāsate | tatra dṛṣṭāṃtaḥ | svarbhānunā | kiraṇena sūrya iva | sa yathā vibhāti tadvat | kiṃ kurvan | ajarairnityairjvālāsamūhairabhi sarvato 'ṃjāno vyaṃjayan prakāśayan ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 4)**
+
+(Kannada, translated:) स्वः (*svaḥ*) — the Āditya (sun); भानुना न (*bhānunā na*) — as he shines with his own rays; यः (*yaḥ*) — whichever same Agni; चित्रः (*citraḥ*) — being of many colours; अर्चिषा (*arciṣā*) — and being endowed with masses of rays; अजरैः (*ajaraiḥ*) — with eternal flames; अभि (*abhi*) — on all sides; अंजानः (*aṃjānaḥ*) — spreading radiance; आ विभाति (*ā vibhāti*) — shines fully.
+
+**भावार्थ (Bhāvārtha — Ṛk 4)**
+
+(Kannada, translated:) As the sun shines with his rays, Agni, of many colours and endowed with masses of rays, shines fully, spreading radiance on all sides with his eternal flames.
+
+---
+
+### Printed p. 532 (PDF 553)
+
+*(Header: "532", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 8" [numerals as read, not zoomed]. The numeral file has no rows for this page.)*
+
+**English Translation** *(as printed, Ṛk 4)*
+
+Who, many-tinted, shines with radiance, like the sun with (his) lustre, spreading light over (all) by his imperishable (flames),
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 4)**
+
+(Kannada, translated.) **स्वः न भानुना (*svaḥ na bhānunā*)** — the meaning is "as the Āditya shines with his rays". The word स्वः (*svaḥ*) is read in the common names स्वः पृश्निः नाकः (*svaḥ pṛśniḥ nākaḥ*) and so on. The Nirukta says (Ni. 2-13 [?], not zoomed):
+
+> साधारणान्युत्तराणि षट् दिवश्चादित्यस्य च ।
+
+> *sādhāraṇānyuttarāṇi ṣaṭ divaścādityasya ca |*
+
+(Kannada, translated, continued.) That is, the six words स्वः पृश्निः नाकः गौः विष्टपं नभः (*svaḥ pṛśniḥ nākaḥ gauḥ viṣṭapaṃ nabhaḥ*) are all common terms, both synonyms of the heaven-world and words for the Āditya, as the author of the Nirukta states. Then, explaining what the root of the word स्वः (*svaḥ*) is, in its sense of Āditya, and how the word is derived, he says:
+
+> स्वरादित्यो भवति सु अरणः सु ईरणः स्वृतो रसान् स्वृतो भासं ज्योतिषां । स्वृतो भासेति वा ॥
+
+> *svarādityo bhavati su araṇaḥ su īraṇaḥ svṛto rasān svṛto bhāsaṃ jyotiṣāṃ | svṛto bhāseti vā ‖*
+
+(Ni. 2-14 [?], not zoomed)
+
+(Kannada, translated, continued.) The Āditya has this name either because he is very far away (सु अरणः (*su araṇaḥ*), "going well"), or because he scatters and destroys the darkness completely, or because he enters the juices (rasa) and goes inside them, or because he spreads his own light in the sphere of radiance and becomes one with it, or because he becomes all-pervading in the form of light. And by the words एतेन द्यौर्व्याख्याता (*etena dyaurvyākhyātā*) ("by this the sky is explained") the Nirukta-author shows that for this very reason the heaven-world also has the name स्वः (*svaḥ*).
+
+> स्वरादित्यो भवति स एनानि सारयति [?] ।
+
+> *svarādityo bhavati sa enāni sārayati [?] |*
+
+(Ni. 5-4 [?], not zoomed; the word एनानि (*enāni*) is as read from the strip, not zoomed)
+
+(Kannada, translated, continued.) The Āditya also has the name स्वः (*svaḥ*) because he makes the days (ಅಹಸ್ಸ್ಗಳು) move along. Where the word is used in the Ṛgveda:
+
+> प्रत्यङ् देवानां विशः प्रत्यङ्ङुदेषि मानुषान् । प्रत्यङ् विश्वं स्वर्दृशे ॥
+
+> *pratyaṅ devānāṃ viśaḥ pratyaṅṅudeṣi mānuṣān | pratyaṅ viśvaṃ svardṛśe ‖*
+
+(Ṛ. Saṃ. 1-50-5 [?], as read, not zoomed)
+
+(Kannada, translated, continued.) In Ṛks like this the word स्वः (*svaḥ*) has the name of the heaven-world (svargaloka). And:
+
+> त्मना वहंतो दुरो व्यृण्वन्नवंत विश्वे स्वर्दृशीके ।
+
+> *tmanā vahaṃto duro vyṛṇvannavaṃta viśve svardṛśīke |*
+
+(Ṛ. Saṃ. 1-69-10 [?], as read, not zoomed)
+
+(Kannada, translated, continued.) In Ṛks like this, the word स्वः (*svaḥ*) means नभसि (*nabhasi*), "in the sky, in the atmosphere". And:
+
+> दानो अग्ने बृहतो दाः सहस्रिणो दुरो न वाजं श्रुत्या अपा वृधि ।
+> प्राची द्यावापृथिवी ब्रह्मणा कृधि स्वर्ण शुक्रमुषसो वि दिद्युतुः ॥
+
+> *dāno agne bṛhato dāḥ sahasriṇo duro na vājaṃ śrutyā apā vṛdhi |*
+> *prācī dyāvāpṛthivī brahmaṇā kṛdhi svarṇa śukramuṣaso vi didyutuḥ ‖*
+
+(Ṛ. Saṃ. 2-2-2 [?], as read, not zoomed)
+
+*(The Special Topics of Ṛk 4 are left open at the foot of the page, after this quotation; they continue on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 532 (PDF 553). Maṇḍala 2, Sūkta 8: Ṛk 2 completed (its Special Topics ended on p. 530, after Durga on ⟦सुनीथासः⟧, ⟦अजुर्यः⟧, ⟦चारुप्रतीकः⟧; the page opens with the quotation ⟦त्वामिंद्र…⟧ and the lead-in sentence is not on it). Ṛk 3 written in full (pp. 530–531). Ṛk 4 written through printed English and the Special Topics on ⟦स्वः⟧ (p. 532); **Ṛk 4 left open in the Special Topics, after the quotation ⟦दानो अग्ने बृहतो दाः…⟧ (Ṛ. Saṃ. 2-2-2 [?]), where the page ends; the discussion continues on p. 533.** FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: all header numerals (Varga 29 on p. 531, Sū. 8) and all Nirukta and Ṛg-Saṃhitā reference numerals (Ni. 4-19 [?], 2-13 [?], 2-14 [?], 5-4 [?]; Ṛ. Saṃ. 1-50-5 [?], 1-69-10 [?], 2-2-2 [?]). [?] places: p. 530 ⟦क्राणा⟧ in the quoted Ṛk and ⟦ये⟧ in the Durga quotation; p. 532 ⟦स एनानि सारयति⟧.
