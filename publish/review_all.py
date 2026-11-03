@@ -8,9 +8,9 @@ import review_list as R
 PUB = R.PUB; ROOT = PUB.parent
 SRC = {1: PUB/'work'/'vol1_clean.md', 2: PUB/'work'/'vol2_clean.md', 3: ROOT/'vol3'/'Rigveda_Samhita_Vol3_English_Translation.md',
        4: PUB/'work'/'vol4_clean.md', 5: PUB/'work'/'vol5_clean.md',
-       6: ROOT/'Rigveda_Samhita_Vol6_English_Translation.md',
-       7: ROOT/'Rigveda_Samhita_Vol7_English_Translation.md',
-       8: ROOT/'Rigveda_Samhita_Vol8_English_Translation.md'}
+       6: ROOT/'vol6'/'Rigveda_Samhita_Vol6_English_Translation.md',
+       7: ROOT/'vol7'/'Rigveda_Samhita_Vol7_English_Translation.md',
+       8: ROOT/'vol8'/'Rigveda_Samhita_Vol8_English_Translation.md'}
 allrows = []
 for v, p in SRC.items():
     rows = R.collect(p.read_text(encoding='utf-8'))

@@ -11,5 +11,5 @@ def cnt(path,kind):
         nx=re.search(r'PDF %d\b'%(p+1),t[m.end():]); seg=t[m.end():m.end()+nx.start()] if nx else t[m.end():]
         n+=seg.count('[?]')
     return n
-e=cnt('Rigveda_Samhita_Vol11_English_Translation.md','en'); k=cnt('Rigveda_Samhita_Vol11_Kannada_Text.md','kn')
+e=cnt('vol11/Rigveda_Samhita_Vol11_English_Translation.md','en'); k=cnt('vol11/Rigveda_Samhita_Vol11_Kannada_Text.md','kn')
 open(__import__('os').environ.get('PASS_LOG_FILE','docs/PASS_LOG.md'),'a',encoding='utf8').write(f"{datetime.datetime.now(datetime.timezone.utc):%Y-%m-%d %H:%M} PDF {a}-{b}: remaining [?] EN {e}, KN {k}. {note}\n")

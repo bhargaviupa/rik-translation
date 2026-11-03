@@ -15,7 +15,7 @@ update the state before stopping.
 - For accents, crop only the Saṃhitā lines, not the page.
 
 ## Inputs and differences from Vol 2
-- Scan: `Rig_Vol5.pdf` at the repository root (724 PDF pp., Git LFS; `git lfs pull` if a small pointer). No "better scan" exists
+- Scan: `vol5/scans/Rig_Vol5.pdf` at the repository root (724 PDF pp., Git LFS; `git lfs pull` if a small pointer). No "better scan" exists
   for Vol 5 (`vol5/scans/` is empty); the user may add one later — then point `V5SCAN`/`cfg.py` at it. **Printed page = PDF − 16**
   (Pariśiṣṭa: printed 531 = PDF 547). Even pages carry the header "Maṃ. 1 A. 9 Sū. N" (Anuvāka 9 = Sūktas 47–50, then 10, 11 …),
   odd pages "Aṣṭaka 1, Adhyāya 4, Varga N" (small Kannada numerals; the closing note "… vargavu mugidudu" is more reliable).
