@@ -14409,4 +14409,131 @@ O Agni, the sacrificers serve you in their own sacrificial house. They adorn and
 
 ---
 
-**Progress note:** Done through printed p. 410 (PDF 430). Maṇḍala 2 Sūkta 1: Ṛk 8 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha written; Bhāvārtha begun, breaks off at foot of p. 410 at 'You, who have flame-like'; continue p. 411 with the rest of Bhāvārtha, printed English, Special Topics). Flags: p. 409 refs 2-7-6 and 1-79-4 zoomed (file said 9-2-2 and 1-769-4 = FILE DISAGREE), 8-75-3 agrees; p. 408 ref 1-15-7 agrees; Varga 18 on p. 409 and header numerals read from strip; p. 409 first word of the Ṛk quoted at 2-7-6 uncertain [?]; p. 410 Saṃhitā 'दम आ' vs Pada 'दमो' as printed; Ṛk 8 number read from strip.
+### Printed p. 411 (PDF 431)
+
+*(Header: "A. 2 A. 5 Va. 18", "Ṛgvedasaṃhitā". Ṛk 8 continued: end of Bhāvārtha, printed English, Special Topics.)*
+
+**भावार्थ (Bhāvārtha)** *(continued from p. 410)*
+
+(Kannada, continued:) "…army, O Agni, you are lord over all oblations. You, as the substitute for the desired objects numbering tens, hundreds and thousands, accomplish them and give them."
+
+**English Translation** *(as printed)*
+
+The people adore you, Agni, the protector of the people in their dwellings ; they propitiate you as a benevolent sovereign ; leader of a radiant host, you are lord over all offerings ; you are the distributor of tens, and hundreds, and thousands (of good things).
+
+**विशेषविषयगळु (Special Topics)**
+
+सुविदत्रं (*suvidatraṃ*) — this word is formed from the root विद ज्ञाने (*vida jñāne*) preceded by the prefix सु (*su*); it means "one who has good knowledge".
+
+ऋंजते (*ṛṃjate*) — प्रसाधयंति (*prasādhayaṃti*): "they propitiate, they worship". Yāska has said in the Nirukta:
+
+> ऋंजतिः प्रसाधनकर्मा । आ व ऋंजसे ऊर्जां व्युष्टिषु इत्यपि निगमो भवति ।
+
+> *ṛṃjatiḥ prasādhanakarmā | ā va ṛṃjase ūrjāṃ vyuṣṭiṣu ityapi nigamo bhavati |*
+
+(Nir. 6-21; the file agrees.)
+
+विश्वानि पत्यसे (*viśvāni patyase*) — the bhāṣya says:
+
+*Gist:* "Supply the word 'oblations'; the accusative has the sense of a genitive; so 'you are lord of all oblations'."
+
+> विश्वानि पत्यसे — सर्वाणि हवींषीति शेषः । षष्ठ्यर्थे द्वितीया । विश्वेषां हविषामाज्यसोमपुरोडाशादीनां पत्यसे ईश्वरो भवसि ॥
+
+> *viśvāni patyase — sarvāṇi havīṃṣīti śeṣaḥ | ṣaṣṭhyarthe dvitīyā | viśveṣāṃ haviṣāmājyasomapuroḍāśādīnāṃ patyase īśvaro bhavasi ‖*
+
+Kannada: "Here the word हवींषि (*havīṃṣi*) must be supplied (*adhyāhāra*) along with the word विश्वानि (*viśvāni*), and the genitive must be understood for the accusative, say the bhāṣyakāra. Therefore विश्वानि (*viśvāni*) means oblations, ājya, soma, puroḍāśa and other sacrificial substances; पत्यसे (*patyase*) — 'you are the master'; thus Agni is praised. The word पत्यते (*patyate*) (पत्यसे (*patyase*) being the second person singular) is read among the four names of lordship beginning इरज्यति पत्यते (*irajyati patyate*) (Ni. 3-11; the file agrees); therefore पत्यसे (*patyase*) means 'you are lord'."
+
+सहस्राणि शता दश प्रति (*sahasrāṇi śatā daśa prati*) — "Agni is praised as one who gives desired objects to the extent of tens, hundreds and thousands. Here, although प्रति (*prati*) is only a prefix, the word प्रतिनिधि (*pratinidhi*) ('substitute') suitable to it must be supplied. Or else the sense may be: 'you alone provide the many desired objects that are obtained from a thousand people'."
+
+स्वनीक (*svanīka*) — शोभनज्वालारूपसेन (*śobhanajvālārūpasena*): "Fine flames are themselves Agni's army-form; that is, one who shines with luminous flames." This word is used with reference to Agni in the Ṛks Ṛ. Saṃ. 4-6-6, 6-15-16, 7-1-23, 7-3-6 (the file agrees).
+
+---
+
+### Printed p. 412 (PDF 432)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 9: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun.)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> त्वामग्ने पितरमिष्टिभिर्नरस्त्वां भ्रात्राय शम्या तनूरुचं ।
+> त्वं पुत्रो भवसि यस्तेऽविधत्त्वं सखा सुशेवः पास्यधृषः ॥ ९ ॥
+
+> *tvāmagne pitaramiṣṭibhirnarastvāṃ bhrātrāya śamyā tanūrucaṃ |*
+> *tvaṃ putro bhavasi yaste 'vidhattvaṃ sakhā suśevaḥ pāsyadhṛṣaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वां । अग्ने । पितरं । इष्टिऽभिः । नरः । त्वां । भ्रात्राय । शम्या । तनूऽरुचं ।
+> त्वं । पुत्रः । भवसि । यः । ते । अविधत् । त्वं । सखा । सुऽशेवः । पासि । अऽधृषः ॥ ९ ॥
+
+> *tvāṃ | agne | pitaraṃ | iṣṭi 'bhiḥ | naraḥ | tvāṃ | bhrātrāya | śamyā | tanū 'rucaṃ |*
+> *tvaṃ | putraḥ | bhavasi | yaḥ | te | avidhat | tvaṃ | sakhā | su 'śevaḥ | pāsi | a 'dhṛṣaḥ ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Leaders (sacrificers) worship Agni with offerings as father and with rites as brother; he is as a son to his servant, and as an unassailable kindly friend he protects.
+
+> हे अग्ने पितरं पालकं त्वां नरो नेतारो यजमाना इष्टिभिरेषणसाधनैर्यागैर्यजंते इति शेषः । पितृवत्पालनाय यजंते इत्यर्थः । तथा तनूरुचं शरीराणां दीपकं शरीरेषु दीप्यमानं वैश्वानरात्मना त्वां भ्रात्राय भ्रातृत्वाय सौभ्रात्राय शम्या ॥ कर्मनामैतत् ॥ कर्मणा यजंते इति शेषः । यद्वोभयत्र वक्ष्यमाणेनाविधदित्यनेन संबंधः । हे अग्ने यो नरस्ते त्वामविधत् परिचरति तस्य त्वं पुत्रो भवसि । पुत्रवत्पालयिता भवसि । तथा त्वं सखा समानख्यानः सखिवद्धितकारी सुशेवः ॥ शेवमिति सुखनाम ॥ सुष्ठु सुखकारी सन् अधृषः अधर्षकात्मा पासि । रक्षसि । पितृत्वकामाय पितृत्वेन भ्रातृत्वकामाय भ्रातृत्वेन पुत्रत्वकामाय पुत्रस्थानीयो भवसि । त्रिप्रकारेण रक्षसीत्यर्थः ॥
+
+> *he agne pitaraṃ pālakaṃ tvāṃ naro netāro yajamānā iṣṭibhireṣaṇasādhanairyāgairyajaṃte iti śeṣaḥ | pitṛvatpālanāya yajaṃte ityarthaḥ | tathā tanūrucaṃ śarīrāṇāṃ dīpakaṃ śarīreṣu dīpyamānaṃ vaiśvānarātmanā tvāṃ bhrātrāya bhrātṛtvāya saubhrātrāya śamyā ‖ karmanāmaitat ‖ karmaṇā yajaṃte iti śeṣaḥ | yadvobhayatra vakṣyamāṇenāvidhadityanena saṃbaṃdhaḥ | he agne yo naraste tvāmavidhat paricarati tasya tvaṃ putro bhavasi | putravatpālayitā bhavasi | tathā tvaṃ sakhā samānakhyānaḥ sakhivaddhitakārī suśevaḥ ‖ śevamiti sukhanāma ‖ suṣṭhu sukhakārī san adhṛṣaḥ adharṣakātmā pāsi | rakṣasi | pitṛtvakāmāya pitṛtvena bhrātṛtvakāmāya bhrātṛtvena putratvakāmāya putrasthānīyo bhavasi | triprakāreṇa rakṣasītyarthaḥ ‖*
+
+*(Its tail: the explanation of शेव (*śeva*) as a name for happiness, and the threefold protection; characterized, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; पितरं (*pitaraṃ*) — the protector; त्वां (*tvāṃ*) — you; नरः (*naraḥ*) — the sacrificers; इष्टिभिः (*iṣṭibhiḥ*) — with sacrifices and the like (they worship you as one worships a father); तनूरुचं (*tanūrucaṃ*) — you who give lustre to the body; त्वां (*tvāṃ*) — you; शम्या (*śamyā*) — with rites; भ्रात्राय (*bhrātrāya*) — they attend you as a brother; यः (*yaḥ*) — whichever sacrificer; ते (*te*) — you; अविधत् (*avidhat*) — attends (to him); त्वं (*tvaṃ*) — you; पुत्रः (*putraḥ*) — as a son; भवसि (*bhavasi*) — you become; त्वं (*tvaṃ*) — you; सखा (*sakhā*) — like a friend; सुशेवः (*suśevaḥ*) — being a giver of happiness; अधृषः (*adhṛṣaḥ*) — and being attached (to us) [as printed]; पासि (*pāsi*) — you protect.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, the sacrificers attend you, the protector, with sacrifices and similar rites as a father, and you, who give lustre to the body, as a brother. For the sacrificer who attends you, you are a benefactor in the form of a son. You protect, attached like a friend and being a giver of happiness…" *(continues on p. 413 with: "…you protect, being attached like a friend and being a giver of happiness.")*
+
+---
+
+### Printed p. 413 (PDF 433)
+
+*(Header: "A. 2 A. 5 Va. 18", "Ṛgvedasaṃhitā". Ṛk 9 concluded; Ṛk 10 Saṃhitā begins.)*
+
+(Bhāvārtha concluded, Kannada:) "…to the sacrificer who attends you, you are a benefactor in the form of a son; you protect, being attached like a friend and being a giver of happiness."
+
+**English Translation** *(as printed)*
+
+(Devout) men (worship) you, Agni, as a father, with secred [sic] rites; they (cherish) you, who are the illuminator of the body, with acts (of kindness), as a brother ; you are as a son to him who propitiates you, and you protect us, a faithful and firm friend.
+
+**विशेषविषयगळु (Special Topics)**
+
+Kannada: "In this Ṛk Agni is praised with the words father, brother, son and friend, which indicate affection and trust —"
+
+पितरं (*pitaraṃ*) — पालकं (*pālakaṃ*): "one who protects people like a father. The use of the word 'father' here indicates the affection and trust that Agni has toward the people who worship him."
+
+तनूरुचं (*tanūrucaṃ*) —
+
+> तनूरुचं — शरीराणां दीपकं, शरीरेषु दीप्यमानं वैश्वानरात्मना ।
+
+> *tanūrucaṃ — śarīrāṇāṃ dīpakaṃ, śarīreṣu dīpyamānaṃ vaiśvānarātmanā |*
+
+Kannada: "One who shines in the bodies of living beings in the form of heat. The heat that is in the body of living beings is itself the form of Agni. The digestion of food and other nourishment in the stomach is also Agni's work. Agni who exists in such a form is named Vaiśvānara Agni."
+
+त्वं पुत्रो भवसि यस्तेऽविधत् (*tvaṃ putro bhavasi yaste 'vidhat*) — "Whichever man attends you with sacrifices and the like, to that man you are dear and protecting like a son; this is the sense."
+
+त्वं सखा सुशेवः पासि अधृषः (*tvaṃ sakhā suśevaḥ pāsi adhṛṣaḥ*) — "Making happiness, that is, wishing welfare, you protect us like a friend. That is, you, Agni, protect us in manifold ways, like a father, like a brother, like a son and like a friend; this is the chief sense."
+
+---
+
+#### Ṛk 10
+
+*(Saṃhitā only on this page; the glyph in "नमस्य[?]स्त्वं" between "स्य" and "स्त्वं" is not clear in the image, and the word is written here without it.)*
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्न ऋभुराके नमस्यस्त्वं वाजस्य क्षुमतो राय ईशिषे ।
+> त्वं वि भास्यनु दक्षि दावने त्वं विशिक्षुरसि यज्ञमातनिः ॥ १० ॥
+
+*(Ṛk 10 is left open: Pada and what follows continue on p. 414.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 413 (PDF 433). Maṇḍala 2 Sūkta 1: Ṛk 8 concluded (p. 411), Ṛk 9 complete (pp. 412–413), Ṛk 10 OPEN (only Saṃhitā written; continue p. 414 with Pada, bhāṣya, etc.). Header Varga 18 read from strip. Flags: no FILE DISAGREE (file refs 6-21, 3-11, 4-6-6, 6-15-16, 7-1-23, 7-3-6 agree with the strips; the file row for p. 412 header was garbled and was ignored); p. 412 bhāṣya "कर्मनामैतत्" slightly unclear, written as read; p. 413 Ṛk 10 Saṃhitā "नमस्य[?]स्त्वं" has an unclear glyph; Ṛk 9 Pratipadārtha "अधृषः — ಆಸಕ್ತನಾಗಿರುತ್ತಲೂ" as printed; Ṛk 9 number read from strip as 9; no zooms.
