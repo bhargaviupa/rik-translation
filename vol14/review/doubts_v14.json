@@ -16054,5 +16054,29 @@
   ],
   "note": "UNZOOMED: Pā. Sū. 6-1-136 (file value)",
   "answer": ""
+ },
+ {
+  "pdf": 372,
+  "printed": 352,
+  "crop": [
+   0.573,
+   0.61,
+   0.389,
+   0.618
+  ],
+  "note": "ZOOMED, read: 5-29-6 (file said 5-29-26)",
+  "answer": ""
+ },
+ {
+  "pdf": 371,
+  "printed": 351,
+  "crop": [
+   0.0,
+   0.2,
+   0.0,
+   1.0
+  ],
+  "note": "UNDECIDED: bhashya Rk 8 word 'ato smat..' garbled, [?] kept",
+  "answer": ""
  }
 ]

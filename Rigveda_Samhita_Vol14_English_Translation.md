@@ -12305,4 +12305,101 @@ Such great snakes of great venom, and other venomous creatures, lie hidden in th
 
 ---
 
-**Progress note:** Done through printed p. 350 (PDF 370). Sūkta 191: Ṛks 1-7 complete; Ṛk 8 OPEN (Saṃhitā, Pada and the first part of the bhāṣya written, bhāṣya continues beyond p. 350). (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 348-350: p. 348 header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value, not zoomed; standard number differs); Ṛk 7 numeral 7 read from the strip (flat-footed); Ṛk 8 numeral 8 read from the strip; 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtras 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. p. 349 header 'A. 2. A. 5 Va. 15' (Varga 15 read on pp. 347 and 349, unzoomed); 'sūcīkāḥ'/'sūcikāḥ' as printed; 'koḷakumaṇḍala' as it looks; stray dot in printed English. p. 350 header Sū. 191; Pā. Sū. 4-4-110 and 6-1-213 agree with the file (not zoomed); 'atiṅanta' printed so [sic?]; Ṛk 8 bhāṣya 'sarvānadṛṣṭānadraṣṭavyān' garbled [?]; Ṛk 8 Pada compound signs in viśva-dṛṣṭaḥ, adṛṣṭa-hā, yātu-dhānyaḥ read as compound marks; Saṃhitā 'ñjaṃbhayan' (ञ्जं) as it looks. Counts for batch pp. 348-350: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 2 (4-4-110, 6-1-213) plus 6-1-136 (unzoomed), FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 7 and 8 numerals.
+### Printed p. 351 (PDF 371)
+
+*(Header: "A. 2. A. 5 Va. 15", "Ṛgvedasaṃhitā". The bhāṣya of Ṛk 8 continues from p. 350; Pratipadārtha; Bhāvārtha; printed English; Special Topics begin.)*
+
+*(Bhāṣya continued:)*
+
+> यातवो यातनास्तीव्रवेदनाः । तासां धात्रीरुत्पादयित्रीर्महोरगीराक्षसीर्वा जंभयन् पुरस्तादुदेति । अतोऽस्मत्[?] नि जस्यतेति संबंधः ॥
+
+> *yātavo yātanāstīvravedanāḥ | tāsāṃ dhātrīrutpādayitrīrmahoragīrākṣasīrvā jaṃbhayan purastādudeti | ato 'smat[?] ni jasyateti saṃbaṃdhaḥ ‖*
+
+
+*(The word after अतः is not clear in the print — it looks like "ऽस्मत्त्रो" — [?]. The sense: "therefore the connection is: leave us".)*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**विश्वदृष्टः (*viśvadṛṣṭaḥ*)** — one who is fit to be looked at by the whole world. **अदृष्टहा (*adṛṣṭahā*)** — the destroyer of venomous creatures and the like that cannot be seen by the eye, or the destroyer of darkness. **सूर्यः (*sūryaḥ*)** — the sun. **सर्वान् अदृष्टान् (*sarvān adṛṣṭān*)** — all venomous creatures that cannot be seen by the eye; and **सर्वाश्च यातुधान्यः (*sarvāśca yātudhānyaḥ*)** — all female creatures that are the cause of their birth (or the Asura women). **जंभयन् (*jaṃbhayan*)** — destroying by injuring. **पुरस्तात् (*purastāt*)** — in the eastern quarter. **उदेति (*udeti*)** — rises.
+
+**भावार्थः (Bhāvārtha)** *(Kannada, rendered)*
+
+The sun, who is fit to be looked at by the whole world and who destroys venomous creatures and the like that cannot be seen by the eye, rises in the eastern quarter, destroying by injury all venomous creatures that cannot be seen by the eye and all the female creatures that are the cause of their birth.
+
+**Printed English** *(heading "English Translation")*
+
+The all-seeing sun rises in the east, the destroyer of the unseen, driving away all the unseen (venomous creatures), and all evil spirits.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Special Topics)*
+
+In this Ṛk the ṛṣi, knowing that the sun rises at the end of the night as a remedy against the dark, and that the fear that may arise from venomous creatures is thereby removed, has expressed his joy.
+
+विश्वदृष्टः (*viśvadṛṣṭaḥ*) — the sun, who is looked at by all. When the sun has risen, all look at him. The sun is dear to everyone; he is the one who brings joy to all. Because in the night-time the harm done by wild beasts and venomous creatures is especially great, all creatures and people welcome with great joy the rising of the sun when the night has passed and the day has dawned. Therefore the word विश्वदृष्टः (*viśvadṛṣṭaḥ*) means the sun whom all look at with delight.
+
+अदृष्टहा (*adṛṣṭahā*) — Sāyaṇa: "अदृष्टा विषविशेषा विषधरविशेषा वा । तेषां हंता । यद्वा (*adṛṣṭā viṣaviśeṣā viṣadharaviśeṣā vā | teṣāṃ haṃtā | yadvā*) …" (the unseen are special kinds of poison or of poison-bearers; he is their destroyer; or else …). Here अदृष्ट (*adṛṣṭa*) means venomous serpents that cannot be seen, or that lie hidden so as not to be seen. Because he kills them, the sun is praised by the epithet अदृष्टहा (*adṛṣṭahā*). Or else अदृष्ट (*adṛṣṭa*) means: the unseen, ignorance, darkness, and the like.
+### Printed p. 352 (PDF 372)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191". The Special Topics of Ṛk 8 continue; grammar page.)*
+
+*(Special Topics continued:)* Because he destroys them, the sun is also named अदृष्टहा (*adṛṣṭahā*). For when the sun has risen, venomous serpents and the like run away at once. In the daytime, which has the light of the sun, they have no special movement. Moreover modern scientists accept that sun-rays (sunlight) have the power to remove poison. Therefore:
+
+अदृष्टान् सर्वान् जंभयन् (*adṛṣṭān sarvān jaṃbhayan*) — it is described that the sun rises, with his light destroying (driving away) all evil creatures that lie hidden so as not to be seen.
+
+यातुधान्यः (*yātudhānyaḥ*) — Sāyaṇa: "यातवो यातनास्तीव्रवेदनाः तासां धात्रीरुत्पादयित्रीर्महोरगी राक्षसीर्वा (*yātavo yātanāstīvravedanāḥ tāsāṃ dhātrīrutpādayitrīrmahoragī rākṣasīrvā*)." यातु (*yātu*) means very sharp pain, suffering. Sāyaṇa's explanation is: great snakes full of poison, or female rākṣasas, that cause such pain.
+
+The Yātudhānas are a special tribe within the class of rākṣasas. Because they cause people harm of many kinds, there are many mantras in the Ṛgveda praying to Agni (Rakṣohāgni, or Agni) to avert their harm. In Maṇḍala 1, in Sūkta 87[?] and in Sūkta 118[?] (numerals as they look in the small print), Agni has likewise been prayed to protect from their harm.
+
+These Yātudhānas eat the flesh of men and horses, and drink cow's milk (Ṛ. Saṃ. 10-87-16, 17). To satisfy their longing for blood and flesh these rākṣasas attack men. This attack is generally by means of entering them; Agni has been prayed to hold them back so that they do not enter the sacrificers (8-48-20). These bhūta-pretas generally enter through our mouth when we eat or drink (Atharva-veda 5-29-6 to 8); they enter also by other doors (Atharva-veda 8-6-3). Once inside, they eat the flesh of the man, cutting it up, and produce disease (Atharva-veda 5-29-5, 10), produce madness and destroy the power of speech (Atharva-veda 6-111-3; Hiraṇyakeśi Gṛhya-sūtra 1-15-5). They attack the dwellings of men (Kauśika-sūtra 135-9). Their time of moving about is night or evening (Ṛ. Saṃ. 6-104-8). In the eastern quarter their mischief does not go on at all; the sun that rises there drives them away (Taittirīya Saṃhitā 2-6-6-3). Many such descriptions of the Yātudhānas occur in the Ṛgveda and also elsewhere in the other Vedas.
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+पुरस्तात् (*purastāt*): from the word पूर्व (*pūrva*) (east); by दिक्छब्देभ्यः (*dikchabdebhyaḥ*) (Pā. Sū. 5-3-27) the affix, a form of the "plural" kind [as printed]; the tiṅanta-nighāta accent comes.
+
+अदृष्टहा (*adṛṣṭahā*): root हन (*hana*) (*hana*, "hiṃsāgatyoḥ"); by बहुलं छंदसि (*bahulaṃ chaṃdasi*) (Pā. Sū. 3-2-88) when अदृष्ट (*adṛṣṭa*) is the upapada, the affix kvip; all of it is elided; the form is अदृष्टन् (*adṛṣṭan*) [sic?].
+### Printed p. 353 (PDF 373)
+
+*(Header: "A. 2. A. 5 Va. 15", "Ṛgvedasaṃhitā". Grammar of Ṛk 8 concludes; a short rule; Ṛk 9: Saṃhitā, Pada, bhāṣya and the beginning of the Pratipadārtha.)*
+
+*(Grammar continued:)* The nominative singular su comes after; the penultimate vowel is lengthened and the n is dropped. By the rule on a kṛt after a gati or kāraka upapada (no number printed), the accent of the kṛt-final word comes in its natural (prakṛti) form.
+
+जंभयन् (*jaṃbhayan*): root जभि नाशने (*jabhi nāśane*) (*jabhi nāśane*), curādi. By the sūtra beginning सत्यापपाश… (*satyāpapāśa…*) (printed abbreviated, no number) the affix ṇic in its own sense; laṭ after the ṇijanta; because it has the marker i, the augment num; laṭ is replaced by śatṛ; because śap is marked p and the sārvadhātuka that follows it becomes anudātta by the sūtra तास्यनुदात्तेत्… (*tāsyanudāttet…*) (no number printed), and by the ṇic accent, the a after the bha becomes udātta.
+
+यातुधान्यः (*yātudhānyaḥ*): the word यातुधानी (*yātudhānī*); before jas the replacement yaṇ comes by Vedic usage. Because yaṇ stands in the place of an udātta, by उदात्तस्वरितयोर्यणः (*udāttasvaritayoryaṇaḥ*) (Pā. Sū. 8-2-4) the svarita accent comes after the yaṇ.
+
+---
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> उदपप्तदसौ सूर्यः पुरु विश्वानि जूर्वन् ।
+> आदित्यः पर्वतेभ्यो विश्वदृष्टो अदृष्टहा ॥ ९ ॥
+
+> *udapaptadasau sūryaḥ puru viśvāni jūrvan |*
+> *ādityaḥ parvatebhyo viśvadṛṣṭo adṛṣṭahā ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> उत् । अपप्तत् । असौ । सूर्यः । पुरु । विश्वानि । जूर्वन् ।
+> आदित्यः । पर्वतेभ्यः । विश्वऽदृष्टः । अदृष्टऽहा ॥ ९ ॥
+
+> *ut | apaptat | asau | sūryaḥ | puru | viśvāni | jūrvan |*
+> *ādityaḥ | parvatebhyaḥ | viśva 'dṛṣṭaḥ | adṛṣṭa 'hā ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The sun, visible in the east, rises, destroying many poisons; he benefits living beings, sees all and destroys the unseen; so there is no need to fear poison.
+
+> असौ पुरस्ताद्दृश्यमानः सूर्यः सर्वस्य प्रेरक आदित्य उदपप्तत् । ऊर्ध्वं गच्छति ॥ पततेर्लुङि पुमागमो रूपं ॥ किं कुर्वन् । विश्वानि बहूनि विषाणि पुरु प्रभूतं जूर्वन् हिंसन् । कीदृशोऽसौ । पर्वतेभ्यः पर्ववद्भ्यः प्राणिभ्यस्तेषामुपकारायादित्यो विषोदकादीनामदनशीलः । विश्वदृष्टो विश्वं दृष्टं येन तादृशः अदृष्टहादृष्टानां विषविशेषाणां हंता । एवंमहानुभावः सूर्यः ऊर्ध्वमारोहति । अतो विषशंका न कार्या ॥
+
+> *asau purastāddṛśyamānaḥ sūryaḥ sarvasya preraka āditya udapaptat | ūrdhvaṃ gacchati ‖ pataterluṅi pumāgamo rūpaṃ ‖ kiṃ kurvan | viśvāni bahūni viṣāṇi puru prabhūtaṃ jūrvan hiṃsan | kīdṛśo 'sau | parvatebhyaḥ parvavadbhyaḥ prāṇibhyasteṣāmupakārāyādityo viṣodakādīnāmadanaśīlaḥ | viśvadṛṣṭo viśvaṃ dṛṣṭaṃ yena tādṛśaḥ adṛṣṭahādṛṣṭānāṃ viṣaviśeṣāṇāṃ haṃtā | evaṃmahānubhāvaḥ sūryaḥ ūrdhvamārohati | ato viṣaśaṃkā na kāryā ‖*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**पर्वतेभ्यः (*parvatebhyaḥ*)** — for the benefit of living beings. **आदित्यः (*ādityaḥ*)** — the sun in the Āditya form, who consumes poisonous water and the like. **विश्वदृष्टः (*viśvadṛṣṭaḥ*)** — the one who is to be looked at by all. **अदृष्टहा (*adṛṣṭahā*)** — the destroyer of the subtle poison-moving creatures …
+
+*(Ṛk 9 is left open: the Pratipadārtha is cut off at the foot of this page and continues on p. 354. The page ends with the footer "[23]" and "Vol. 14.", which is the printer's signature mark.)*
+
+---
+
+**Progress note:** Done through printed p. 353 (PDF 373). Sūkta 191: Ṛks 1-8 complete; Ṛk 9 OPEN (Saṃhitā, Pada, bhāṣya written; Pratipadārtha cut off at the foot of p. 353 after अदृष्टहा and continues on p. 354). Header numeral Varga 15 on pp. 351 and 353 (unzoomed; no Varga closing note yet). (Earlier flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.) Flags pp. 348-350: p. 348 header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value, not zoomed; standard number differs); Ṛk 7 numeral 7 read from the strip (flat-footed); Ṛk 8 numeral 8 read from the strip; 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtras 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. p. 349 header 'A. 2. A. 5 Va. 15' (Varga 15 read on pp. 347 and 349, unzoomed); 'sūcīkāḥ'/'sūcikāḥ' as printed; 'koḷakumaṇḍala' as it looks; stray dot in printed English. p. 350 header Sū. 191; Pā. Sū. 4-4-110 and 6-1-213 agree with the file (not zoomed); 'atiṅanta' printed so [sic?]; Ṛk 8 bhāṣya 'sarvānadṛṣṭānadraṣṭavyān' garbled [?]; Ṛk 8 Pada compound signs in viśva-dṛṣṭaḥ, adṛṣṭa-hā, yātu-dhānyaḥ read as compound marks; Saṃhitā 'ñjaṃbhayan' (ञ्जं) as it looks. Counts for batch pp. 348-350: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 2 (4-4-110, 6-1-213) plus 6-1-136 (unzoomed), FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 7 and 8 numerals. Flags pp. 351-353: Ṛk 8 bhāṣya 'ato smat…' word garbled [?]; Special Topics Sūkta numbers 87[?] and 118[?] for Agni prayers read from small print; Atharva-veda 5-29-6 to 8 ZOOMED, read 5-29-6 (file said 5-29-26, probably a repeated digit); 2-6-6-3 for Taittirīya Saṃhitā (file said 2-6-63, separator lost); other numerals agree with file (10-87-16,17; 8-48-20; 8.6-3; 5-29-5,10; 6-111-3; 1-15-5; 135-9; 6-104-8; 5-3-27; 3-2-88; 8-2-4). 'adṛṣṭan' printed in grammar of Ṛk 8 (as printed [sic?]). Ṛk 9 numeral 9 read from strip. Pā. sūtras for gati-kāraka kṛt, ṇic and tāsyanudāttet printed without numbers. Counts for batch pp. 351-353: 3 distinct [?] places, 1 zoom, numerals settled by file without zoom 11, FILE DISAGREE 1, lacking in file: headers, Ṛk 9 numeral, Special Topics sūkta numbers.
