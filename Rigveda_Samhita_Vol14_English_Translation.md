@@ -12187,4 +12187,52 @@ Up to now the ṛṣi Agastya, having spoken in blame of the harm that snakes an
 
 ---
 
-**Progress note:** (Earlier flags up to p. 322 moved verbatim to vol14/review/flags_archive_pp286-322.md.) Done through printed p. 347 (PDF 367). Sūkta 191: Ṛks 1-5 complete; Ṛk 6 OPEN (Saṃhitā to printed English and first part of Special Topics written, Tai. Saṃ. citations given; rest of Special Topics and grammar page on p. 348). Ṛk 4 recheck (PDF 361 viewed, Pada zoomed): Saṃhitā 'asadanni' = asadan+ni and Pada 'asadan | ni', 'avikṣata' agree with the print, no mismatch (the bhāṣya's nyasadan etc. are the joined forms); only the Pada ending was corrected in place from 'alipsate [?]' to 'alipsata' (print shows no ē). Batch pp. 345-347 flags: p. 345 header 'A. 2. A. 5 Va. 14'; Ṛ. Saṃ. 1-92-1, Pā. Sū. 3-1-57, 7-1-8 agree with the file (not zoomed); Vā. sūtra for tasyarāḥ ('tadbṛhatoḥ karapatyoḥ') as it looks [?], its number [?] unzoomed; baḥuvrīhau viśvaṃ saṃjñāyām as it looks, no number. p. 346 (PDF 366): header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 7-1-44 agrees with the file (not zoomed); Ṛk 6 numeral read from the strip as 6; Ṛk 6 Saṃhitā/Pada/bhāṣya read 'iḷayata' (zoomed; the hook sign is ya, not u); Pratipadārtha 'ilayata' [?] (printed with la); Pratipadārtha makes soma = antarikṣa but bhāṣya = dyuloka (as printed; bhāṣya 'dyuloka' printed with a garbled first letter). p. 347 (PDF 367): header 'A. 2. A. 5 Va. 15' (varga numeral read from the strip, unzoomed, doubtful); Tai. Saṃ. 4-2-8-3 (file gave 4-2-8.3 for the first citation; the print shows hyphens; written 4-2-8-3 for both); 'Annaconda' printed so [sic]; 'ye ʼdo' with a small numeral mark after ye. Counts for this batch: 1 distinct [?]+ 3 unclear spots ((tadbṛhatoḥ…), Vā. number, ilayata), 4 zooms (1 on PDF 361, 3 on PDF 366), numerals settled by file without zoom 6, FILE DISAGREE 0 (4-2-8.3 vs print 4-2-8-3: print followed), numerals lacking in file: headers, Ṛk 6 numeral, Vā. number. Batch pp. 342-344 flags: p. 342 header Maṃ. 1 A. 24 Sū. 191 (Maṇḍala numeral as it looks); bhāṣya/Pratipadārtha read न्यसदन्, न्यविक्षत, न्यलिप्सत, whereas the Saṃhitā/Pada of Ṛk 4 written from p. 341 have असदन्/अविक्षत/अलिप्सत[?]: p. 341 Saṃhitā/Pada to be rechecked against the image (not edited here); no file numerals on p. 342; Special Topics heading printed garbled, taken as the usual one. p. 343 (PDF 363): header 'A. 2. A. 5. Va. 14'; Ṛ. Saṃ. 1-114-7 and Pā. Sū. 3-2-4 agree with the file (not zoomed); Pā. Sū. 8-3-[?] after अंबांबगोभूमि not in the file, doubtful, unzoomed; the syllable after priya in the Ṛgvedic citation [?], unzoomed; sūtra 'puṣādi…' as it looks, no number. p. 344 (PDF 364): header Maṃ. 1 A. 24 Sū. 191; Ṛk 5 numeral read from the strip as 5; Saṃhitā 'pratyadṛśranpradoṣaṃ' with an extra small sign after n, [?], unzoomed; bhāṣya 'divyete' [?]. Counts for this batch: 4 distinct [?] places, 0 zooms, numerals settled by file without zoom 2, FILE DISAGREE 0, numerals lacking in file: headers, Ṛk 5 numeral, 8-3-[?]. New (pp. 323–325): p. 323 header 'A. 2. A. 5 Va. 13' (Aṣṭaka numeral as on p. 295; Varga 13 read from the strip); grammar root 'pīj' (printed ಪೀಜ್) as it looks; Ṛk 6 numeral 6 read from the strip; Saṃhitā/Pada 'yo' printed in the Ṛk (taken as printed, in Pratipadārtha too); bhāṣya 'sakhivadanamārgānnivartya' [?] and 'asya[?]pornuvanta' (apy-?) UNDECIDED, 'upraapnuvantaḥ' and 'abhyābhimukhyena' as printed/as they look; p. 324 header Maṃ. 1 A. 24 Sū. 190; 'paṭhita' (Pratipadārtha) as it looks; stray point after 'covering' in the printed English; p. 325 header Varga 13, Ni. 6-23 agrees with the file (not zoomed); Nirukta quotation 'pratyṛto' as it looks. Counts for this batch: 2 distinct [?] places, 0 zooms, numerals settled by file without zoom 1, FILE DISAGREE 0, numerals lacking in file: all headers and the Ṛk numeral (read from strips). New (pp. 326–328): p. 326 header Maṃ. 1 A. 24 Sū. 190; Pā. Sū. 6-2-118, 6-2-172, 6-2-49, 6-3-139 (niṣātasya… printed so; file 6-3-139) agree with the file; Pā. Sū. 2-4-77 FILE DISAGREE (file 2-4-677; local crop zoomed, read 2-4-77); Pā. Sū. 3-4-410 kept as printed/file (zoomed: 3-4-410; the standard number differs), sūtra for vṛddhi (etyedhatyūṭhsu) as it looks, number not printed; sūtra 'gātisthāghupā…' abbreviated as it looks; p. 327 header 'A. 2. A. 5. Va. 13', Ṛk 7 numeral read from the strip (flat-footed = 7), Saṃhitā prints 'vidvā ubhayaṃ' and 'tara āpaśca' (taken as printed), Pada 'rodhaḥ-cakrāḥ' with compound mark as it looks, Ā. 3-7 read from the strip (not in file; flat-footed 7, as on p. 310); p. 328 header Sū. 190, Ni. 3-19 and 2-24 and 3-9 agree with the file, Ni. 2-5 (avanayaḥ as earth names; not in the file; zoomed, read 2-5 as it looks); printed English 'rolling' misprinted 'rolling' with an l-like letter as printed, 'ocean :' as printed. Counts for this batch: 0 distinct [?] places, 4 local crops (no page.py zoom), numerals settled by file without zoom 9 (6-2-118, 6-2-172, 6-3-139, 6-2-49, 3-19, 2-24 twice, 3-9; plus 3-4-410 zoomed), FILE DISAGREE 1 (2-4-77), numerals lacking in file: headers, Ṛk 7 numeral, Ā. 3-7, Ni. 2-5.
+### Printed p. 348 (PDF 368)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191". The page opens with the grammar of Ṛk 6; nothing more of the Special Topics of Ṛk 6 is printed here, so they ended on p. 347. Ṛk 7: Saṃhitā, Pada, bhāṣya and the beginning of the Pratipadārtha.)*
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+तिष्ठत (*tiṣṭhata*): root ष्ठा गतिनिवृत्तौ (*ṣṭhā gatinivṛttau*); loṭ, second person plural, replaced by त (*ta*); by the sūtra पाघ्राध्मा… (*pāghrādhmā…*) (abbreviated as printed; no number) the root is replaced by तिष्ठ (*tiṣṭha*); at the beginning of a pāda there is no nighāta accent; by the root accent the first syllable is udātta.
+
+इळयत (*iḷayata*): root इल प्रेरणे (*ila preraṇe*), curādi; by सत्यापपाश… (*satyāpapāśa…*) (as it looks; no number) the affix ṇic; by Vedic usage no guṇa of the penultimate short vowel; an alternative form of the loṭ second person plural; by अन्येषामपि दृश्यते (*anyeṣāmapi dṛśyate*) (Pā. Sū. 6-1-136, as in the file; not zoomed) lengthening in the saṃhitā; being after a tiṅanta no nighāta accent; by the ṇic accent the a after the l is udātta.
+
+---
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> ये अंस्या ये अंग्याः सूचीका ये प्रकंकताः ।
+> अदृष्टाः किं चनेह वः सर्वे साकं नि जस्यत ॥ ७ ॥
+
+> *ye aṃsyā ye aṃgyāḥ sūcīkā ye prakaṃkatāḥ |*
+> *adṛṣṭāḥ kiṃ caneha vaḥ sarve sākaṃ ni jasyata ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+*(A small compound sign is printed between प्र and कं in the Pada, as it looks.)*
+
+> ये । अंस्याः । ये । अंग्याः । सूचीकाः । ये । प्रकंकताः ।
+> अदृष्टाः । किं । चन । इह । वः । सर्वे । साकं । नि । जस्यत ॥ ७ ॥
+
+> *ye | aṃsyāḥ | ye | aṃgyāḥ | sūcīkāḥ | ye | prakaṃkatāḥ |*
+> *adṛṣṭāḥ | kiṃ | cana | iha | vaḥ | sarve | sākaṃ | ni | jasyata ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Whatever snakes and venomous creatures there are, moving by shoulder, body, needle-tailed or very venomous, unseen: all together leave us and go.
+
+> येऽंस्या अंसाहर्ा अंसगा अंसे भवा अंसाभ्यां खादंतो वा । तथा येऽंग्या अंगगा अंगेन शरीरेण हंतारो वा लूतिकादयः । सूचीकाः सूचीसदृशपुच्छरोमाणो वृश्चिकाद्याः । ये च प्रकंकताः प्रकृष्टविषाः प्रकृष्टगामिनो वा महोरगा अदृष्टा अदृश्यमानाः किं चन यत्किंचित्सर्पजातमस्ति । इहास्मिन् समीपे वो युष्माकं किमस्ति । अतो यूयं सर्वे साकं सह नितरां जस्यत । मुंचतास्मान् ॥ जसु मोक्षणे दैवादिकः ॥
+
+> *ye 'ṃsyā aṃsāharā aṃsagā aṃse bhavā aṃsābhyāṃ khādaṃto vā | tathā ye 'ṃgyā aṃgagā aṃgena śarīreṇa haṃtāro vā lūtikādayaḥ | sūcīkāḥ sūcīsadṛśapuccharomāṇo vṛścikādyāḥ | ye ca prakaṃkatāḥ prakṛṣṭaviṣāḥ prakṛṣṭagāmino vā mahoragā adṛṣṭā adṛśyamānāḥ kiṃ cana yatkiṃcitsarpajātamasti | ihāsmin samīpe vo yuṣmākaṃ kimasti | ato yūyaṃ sarve sākaṃ saha nitarāṃ jasyata | muṃcatāsmān ‖ jasu mokṣaṇe daivādikaḥ ‖*
+
+*(The word printed अंसाहर्ा after अंस्याः is garbled in the print, [?].)*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**ये (*ye*)** — which snakes. **अंस्याः (*aṃsyāḥ*)** — that move by the arm (bhuja). **ये (*ye*)** — which. **अंग्याः (*aṃgyāḥ*)** — that move by the body *(the Kannada adds "(pūrṇavāda)", "complete")*. **सूचीकाः (*sūcīkāḥ*)** — those that have tail and hair like a needle, scorpions and the like. **ये (*ye*)** — which. **प्रकंकताः (*prakaṃkatāḥ*)** — those of strong venom. **अदृष्टाः (*adṛṣṭāḥ*)** — [continues on p. 349]
+
+---
+
+**Progress note:** Done through printed p. 348 (PDF 368). Sūkta 191: Ṛks 1-6 complete (Ṛk 6 Special Topics ended on p. 347; p. 348 begins with its grammar); Ṛk 7 OPEN (Pratipadārtha begun). Flags p. 348: header Maṃ. 1 A. 24 Sū. 191; Pā. Sū. 6-1-136 (file value; not zoomed; standard number differs, kept as file/print unverified); Ṛk 7 numeral read 7 from the strip (flat-footed); 'aṃsāharā' garbled [?]; Saṃhitā prints 'ye aṃsyā' without visarga (as printed); Pada compound sign after pra as it looks; sūtra 'pāghrādhmā…' and 'satyāpapāśa…' abbreviated as it looks, no numbers. (Older flags: see the preceding note text preserved in git history; archived flags in vol14/review/flags_archive_pp286-322.md.)
