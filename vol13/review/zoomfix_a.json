@@ -8678,5 +8678,37 @@
   "old": "182nd sūkta [?]",
   "new": "182nd sūkta",
   "note": "Ordinal/number label: [?] cleared (user: such numbers are correct); not viewed by me."
+ },
+ {
+  "pdf": 135,
+  "printed": 115,
+  "status": "resolved",
+  "old": "सतुर्वणिर्मह्ना … ॥ [?]",
+  "new": "स तुर्वणिर्महाँ … ॥ (Ṛk 1.56.3 as in the user's file)",
+  "note": "Quoted Ṛg verse in the commentary: reading taken from the user's accented Maṇḍala 1 file (IAST line adjusted); not viewed by me."
+ },
+ {
+  "pdf": 302,
+  "printed": 282,
+  "status": "resolved",
+  "old": "सूरिं नावृधथ्यै । [?]",
+  "new": "सूरिं वावृधध्यै । (Ṛk 1.61.3 as in the user's file)",
+  "note": "Quoted Ṛg verse in the commentary: reading taken from the user's accented Maṇḍala 1 file (IAST line adjusted); not viewed by me."
+ },
+ {
+  "pdf": 457,
+  "printed": 437,
+  "status": "resolved",
+  "old": "चिद्यावीररुं [?]",
+  "new": "चिद्यावीरररुं (Ṛk 1.129.3 as in the user's file)",
+  "note": "Quoted Ṛg verse in the commentary: reading taken from the user's accented Maṇḍala 1 file (IAST line adjusted); not viewed by me."
+ },
+ {
+  "pdf": 543,
+  "printed": 523,
+  "status": "resolved",
+  "old": "हतेमुसन्न [?]",
+  "new": "हतेमसन्न (Ṛk 1.129.8 as in the user's file)",
+  "note": "Quoted Ṛg verse in the commentary: reading taken from the user's accented Maṇḍala 1 file (IAST line adjusted); not viewed by me."
  }
 ]
