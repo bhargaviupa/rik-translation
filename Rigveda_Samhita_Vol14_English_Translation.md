@@ -17233,4 +17233,144 @@ The Kannada then adds: In this Ṛk Agni in the form of a forest fire (the "kā�
 
 ---
 
-**Progress note:** Done through printed p. 478 (PDF 499). Maṇḍala 2 Sūkta 4: Ṛk 3 closed (Special Topics on p. 476). Ṛk 4 complete (Saṃhitā and Pada on p. 476, bhāṣya, Pratipadārtha, Bhāvārtha and printed English on p. 477, Special Topics on p. 478, then the divider "—:O:—"). Next: Ṛk 5 on p. 479. FILE DISAGREE: none (p. 477 sūtra Pā. 7-4-65 and p. 478 Ni. 2-27 agree; p. 476 has no rows). Not zoomed: headers "Va. 24" (p. 477), Ṛk numeral 4. [?] places: p. 476 ⟦दास्यते/दास्वते⟧, ⟦दाक्षाय्यः⟧, ⟦योगगृहे⟧ (p. 475 has ⟦यागगृहे⟧), ⟦आदिपयति⟧, Saṃhitā ⟦धक्षोः⟧ extra mark, ⟦जिह्वामत्यो⟧; p. 477 bhāṣya ⟦ज्वाला⟧ (no visarga), ⟦रथाहोऽत्यो⟧, tail ⟦युब्योगात्⟧; p. 478 ⟦रण्वा⟧ (virāma unclear) and the ⟦वारान्/वालान्⟧ n-sign.
+### Printed p. 479 (PDF 500)
+
+*(Header: "A. 2 A. 5 Va. 24", "Ṛgvedasaṃhitā", "479", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+---
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+*(The strip prints जुजुर्वाँ (*jujurvāṃ*) with a small sign above the ā-stroke; it is written as a chandrabindu.)*
+
+> आ यन्मे अभ्वं वनदः पनन्तोशिग्भ्यो नामिमीत वर्णम् ।
+> स चित्रेण चिकिते रंसु भासा जुजुर्वाँ यो मुहुरा युवा भूत् ॥ ५ ॥
+
+> *ā yanme abhvaṃ vanadaḥ panantośigbhyo nāmimīta varṇam |*
+> *sa citreṇa cikite raṃsu bhāsā jujurvā~ yo muhurā yuvā bhūt ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the strip seems to show a small extra stroke after the क् of उशिक्भ्यः and in रंसु; it is not written here [?]. The last letter of आमिमीत is not clear and is written as in the bhāṣya, [?].)*
+
+> आ । यत् । मे । अभ्वं । वनदः । पनन्त । उशिक्भ्यः । न । आमिमीत । वर्णं ।
+> सः । चित्रेण । चिकिते । रंसु । भासा । जुजुर्वान् । यः । मुहुः । आ । युवा । भूत् ॥ ५ ॥
+
+> *ā | yat | me | abhvaṃ | vanadaḥ | pananta | uśikbhyaḥ | na | āmimīta | varṇaṃ |*
+> *saḥ | citreṇa | cikite | raṃsu | bhāsā | jujurvān | yaḥ | muhuḥ | ā | yuvā | bhūt ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The Agni whose greatness my kinsmen extol creates for the priests a form like his own; he shines with variegated light at the oblations, and having grown old, he becomes young again and again.
+
+*(Doubtful letters in the bhāṣya, all [?]: ऋत्विग्भ्यो is printed with a vowel sign that looks like e (ऋत्विग्भ्ये); हिरण्यकेनकादि is read as printed; विश्रयिता, whose first letter might be mi or va. No sūtra number is printed after अवाप्योः.)*
+
+> यत् यस्याभ्वं महत्त्वं मे मम संबन्धिनो वनदो वनन्तः संभक्तारः । यद्वा वनदोऽवनदो भृशं शब्दयन्तः स्तोतारः ॥ अवशब्दो भृशार्थवाची । तत्पूर्वान्नदेः क्विप् । अवाप्योरित्यकारलोपः ॥ आपनन्त । समन्तात् स्तुवन्ति । सोऽग्निरुशिग्भ्योऽस्मदीयं रूपं कामयमानेभ्य ऋत्विग्भ्यो [?] वर्णं स्वसदृशं रूपं नामिमीत ॥ नशब्दश्चार्थे ॥ निर्मिमीते च । स च रंसु रमणीयेष्वाज्यादिहविःषु निमित्तेषु चित्रेण भासा हिरण्यकेनकादिनानावर्णया [?] दीप्त्या चिकिते । विज्ञायते । किंच योऽग्निर्जुजुर्वान् जीर्णः सन् ज्वालोपशमे स एव मुहुः पुनःपुनरा युवा सर्वतो विश्रयिता [?] तरुणो वाभूत् । आभवति पुनराज्याद्विसंयोगात् ॥
+
+> *yat yasyābhvaṃ mahattvaṃ me mama saṃbandhino vanado vanantaḥ saṃbhaktāraḥ | yadvā vanado 'vanado bhṛśaṃ śabdayantaḥ stotāraḥ ‖ avaśabdo bhṛśārthavācī | tatpūrvānnadeḥ kvip | avāpyorityakāralopaḥ ‖ āpananta | samantāt stuvanti | so 'gniruśigbhyo 'smadīyaṃ rūpaṃ kāmayamānebhya ṛtvigbhyo [?] varṇaṃ svasadṛśaṃ rūpaṃ nāmimīta ‖ naśabdaścārthe ‖ nirmimīte ca | sa ca raṃsu ramaṇīyeṣvājyādihaviḥṣu nimitteṣu citreṇa bhāsā hiraṇyakenakādinānāvarṇayā [?] dīptyā cikite | vijñāyate | kiṃca yo 'gnirjujurvān jīrṇaḥ san jvālopaśame sa eva muhuḥ punaḥpunarā yuvā sarvato viśrayitā [?] taruṇo vābhūt | ābhavati punarājyādvisaṃyogāt ‖*
+
+*(The last word of the bhāṣya is printed ಆಜ್ಯಾದಿಸಂಯೋಗಾತ್; it is written below as printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 5)**
+
+(Kannada, translated:) यत् (*yat*) — which Agni; अभ्वं (*abhvaṃ*) — greatness; मे (*me*) — my kinsmen; वनदः (*vanadaḥ*) — causing a loud sound; आ पनन्त (*ā pananta*) — praise on every side; सः (*saḥ*) — that Agni; उशिग्भ्यः (*uśigbhyaḥ*) — to the priests who wish to see his form; वर्णं (*varṇaṃ*) — his own delightful form; नामिमीत (*nāmimīta*) — creates and shows (and); रंसु (*raṃsu*) — when delightful oblations such as ājya are offered; चित्रेण (*citreṇa*) — of manifold form; भासा (*bhāsā*) — by radiance; चिकिते (*cikite*) — he becomes manifest; यः (*yaḥ*) — which Agni; जुजुर्वान् (*jujurvān*) — he who grows old (that very one); मुहुः (*muhuḥ*) — again and again (by the offering of ājya-oblations); आ युवा भूत् (*ā yuvā bhūt*) — becomes young.
+
+---
+
+### Printed p. 480 (PDF 501)
+
+*(Header: "480", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip, not zoomed. The numeral file has two rows, both Nighaṇṭu references; they agree with my reading.)*
+
+**भावार्थ (Bhāvārtha — Ṛk 5)**
+
+(Kannada, translated:) The Agni whose greatness my kinsmen praise on every side with a loud sound makes and shows his own delightful form to the priests who wish to see his form; and when delightful oblations such as ājya are offered, he shines with a radiance of many forms. In the time of growing old, by the offering of ājya-oblations he attains youth again.
+
+**English Translation** *(as printed, Ṛk 5)*
+
+Whose greatness my colleagues loudly extol, who has manifested his real form to the priests, who is recognized at oblations by his variegated radiance, and who though frequently growing old, again and again becomes young.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 5)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+> अभ्वं वनदः आ पनन्त—
+> यस्य महत्त्वं संभक्तारः यद्वा वनदोऽवनदो भृशं शब्दयन्तः स्तोतारः समन्तात् स्तुवन्ति—
+
+> *abhvaṃ vanadaḥ ā panan ta—*
+> *yasya mahattvaṃ saṃbhaktāraḥ yadvā vanado 'vanado bhṛśaṃ śabdayantaḥ stotāraḥ samantāt stuvanti—*
+
+The Kannada says that the word अभ्व (*abhva*) is read by Yāska among the names of "great" (Ni. 3-13, as printed; the file agrees). Here it is used in the sense of Agni's greatness. For the word वनद (*vanada*) the meaning has been given as "those who make the greatness manifest" or "those who sound loudly". When the yajamāna's priests praise Agni, they either make his abundant greatness manifest by hymns, or praise him with a loud sound, so that all may hear.
+
+> उशिग्भ्यः वर्णं नामिमीत—
+
+> *uśigbhyaḥ varṇaṃ nāmimīta—*
+
+The meaning is: Agni creates for the priests who wish to see his form a form suited to his greatness. The word उशिक् (*uśik*, with the sense "who desires") is said in the kānti-karmas (Ni. 3-9, as printed; the file agrees), and Yāska has also explained it as उशिग्वष्टेः कान्तिकर्मणः (*uśigvaṣṭeḥ kāntikarmaṇaḥ*) (Ni. 6-[?], as printed; the numeral after the 6 is damaged and not given).
+
+*(The printed word is ವಸ್ಟೇಃ; it is written as वष्टेः (*vaṣṭeḥ*), [?].)*
+
+> रंसु—चित्रेण चिकिते
+
+> *raṃsu—citreṇa cikite*
+
+The Kannada says that it is explained: this Agni shines, through the offering of oblations such as ājya, with the lustre of delightful things such as gold. That is to say, Agni's flames, with many kinds of colour (red, golden, white and the like), are delightful to look at.
+
+> जुजुर्वान् मुहुः आ युवा—
+> ज्वालोपशमे जीर्णः सन् [?] स एव पुनः पुनः विश्रयिता [?] तरुणो वा भवति ।
+
+> *jujurvān muhuḥ ā yuvā—*
+> *jvālopaśame jīrṇaḥ san [?] sa eva punaḥ punaḥ viśrayitā [?] taruṇo vā bhavati |*
+
+*(The first Sanskrit line is followed on the strip by a passage that runs over the page break; the words after जीर्णः (*jīrṇaḥ*) are printed ಸ್ರ್ಣ ಸ; they are written सन् (*san*) [?].)*
+
+The Kannada passage, which continues on the next page, begins: Agni, by withdrawing his flames, becomes devoid of radiance (kānti)...
+
+---
+
+### Printed p. 481 (PDF 502)
+
+*(Header: "A. 2 A. 5 Va. 25", "Ṛgvedasaṃhitā", "481", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+The sentence from the previous page continues: ...becomes devoid of radiance, yet again at the time of receiving the oblation he shines with youth. For an old man to become young is unknown in the world, but it is said as a contrast that Agni, though he grows old many times, shines with youth. Here the Kannada describes the following: when Agni is dying down he is in old age, but when sacrificial sticks, wood, ājya, oblations and the like are put into the few embers that remain and offered as homa, the Agni who had grown small becomes great again, shines with his flames, and is described here as having become young again, and so on.
+
+*(A divider "—:O:—" is printed after this paragraph. Ṛk 5 is closed.)*
+
+---
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+*(In the Saṃhitā the strip prints वार्ण (*vārṇa*) as in the sandhi form of वाः न (*vāḥ na*). The numeral at the end looks like ३ in the Saṃhitā and ६ in the Pada; ६ is written, as the sequence requires, [?].)*
+
+> आ यो वना तातृषाणो न भाति वार्ण पथा रथ्येव स्वानीत् ।
+> कृष्णाध्वा तपू रण्वश्चिकेत द्यौरिव स्मयमानो नभोभिः ॥ ६ ॥
+
+> *ā yo vanā tātṛṣāṇo na bhāti vārṇa pathā rathyeva svānīt |*
+> *kṛṣṇādhvā tapū raṇvaściketa dyauriva smayamāno nabhobhiḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> आ । यः । वना । ततृषाणः । न । भाति । वाः । न । पथा । रथ्याऽइव । स्वानीत् ।
+> कृष्णऽअध्वा । तपुः । रण्वः । चिकेत । द्यौःऽइव । स्मयमानः । नभःऽभिः ॥ ६ ॥
+
+> *ā | yaḥ | vanā | tatṛṣāṇaḥ | na | bhāti | vāḥ | na | pathā | rathyā 'iva | svānīt |*
+> *kṛṣṇa 'adhvā | tapuḥ | raṇvaḥ | ciketa | dyauḥ 'iva | smayamānaḥ | nabhaḥ 'bhiḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni rushes through the woods like one thirsty and sounds like a chariot-horse; black-pathed, hot and delightful, he is seen like the smiling sky with its stars.
+
+*(Doubtful letters in the bhāṣya, [?]: सोड्र्यादेशः is read as printed; नीलवर्णान्तरिक्षछायोरादित्यो is read as printed. The strip ends with the signature "[31]" and "Vol. 14.".)*
+
+> योऽग्निर्वना वनानि वृक्षसमूहान् ततृषाणो न तृषित इव । त्वरमाण इत्यर्थः । आभाति । आभासयति । दहतीत्यर्थः । यद्वा वना वने आभाति । किंच वार्ण उदकमिव पथा प्रवणेन मार्गेण गच्छति । तद्वत् इतस्ततो गच्छति । रथ्येव रथस्य वोढाश्व इव स्वानीत् । शब्दयति । यद्वा रथशब्दात् सोड्र्यादेशः [?] । यथा रथो युद्धमार्गेण गच्छन् स्वनति तद्वत् । किंच कृष्णाध्वा कृष्णवर्त्मा तपुस्तापको रण्वो रमणीय एवंभूतः सन् चिकेत । ज्ञायते । प्रकाशते इत्यर्थः । क इव । नभोभिर्नक्षत्रैः स्मयमानः प्रकाशमानो द्यौरिव द्युलोक इव । यद्वा नभोभिरन्तरिक्षप्रदेशविशेषैः स्मयमानः शोभमानो द्यौरादित्य इव । नीलवर्णान्तरिक्षछायोरादित्यो [?] यथा ज्ञायते तद्वत् स्वसंचारेण कृष्णीभूते मार्गे ज्ञायते । प्रकाशत इत्यर्थः ॥
+
+> *yo 'gnirvanā vanāni vṛkṣasamūhān tatṛṣāṇo na tṛṣita iva | tvaramāṇa ityarthaḥ | ābhāti | ābhāsayati | dahatītyarthaḥ | yadvā vanā vane ābhāti | kiṃca vārṇa udakamiva pathā pravaṇena mārgeṇa gacchati | tadvat itastato gacchati | rathyeva rathasya voḍhāśva iva svānīt | śabdayati | yadvā rathaśabdāt soḍryādeśaḥ [?] | yathā ratho yuddhamārgeṇa gacchan svanati tadvat | kiṃca kṛṣṇādhvā kṛṣṇavartmā tapustāpako raṇvo ramaṇīya evaṃbhūtaḥ san ciketa | jñāyate | prakāśate ityarthaḥ | ka iva | nabhobhirnakṣatraiḥ smayamānaḥ prakāśamāno dyauriva dyuloka iva | yadvā nabhobhirantarikṣapradeśaviśeṣaiḥ smayamānaḥ śobhamāno dyaurāditya iva | nīlavarṇāntarikṣachāyorādityo [?] yathā jñāyate tadvat svasaṃcāreṇa kṛṣṇībhūte mārge jñāyate | prakāśata ityarthaḥ ‖*
+
+*(Ṛk 6 is left open: its Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 481 (PDF 502). Maṇḍala 2 Sūkta 4: Ṛk 5 complete (Saṃhitā, Pada, bhāṣya and Pratipadārtha on p. 479; Bhāvārtha, printed English and Special Topics on pp. 480–481, then the divider "—:O:—"). Ṛk 6: Saṃhitā, Pada and bhāṣya written on p. 481; **Ṛk 6 is open**, next are its Pratipadārtha, Bhāvārtha, printed English and Special Topics on p. 482. FILE DISAGREE: none (p. 480 rows Ni. 3-13 and Ni. 3-9 agree; pp. 479 and 481 have no rows). Not zoomed: headers "Va. 24" (p. 479), "Va. 25" (p. 481), Ṛk numerals 5 and 6 (the Saṃhitā numeral of Ṛk 6 looks like ३). Ni. 6-[?] on p. 480 is not in the file and its second numeral is damaged. [?] places: p. 479 Pada small stroke in उशिक्भ्यः and रंसु, Pada आमिमीत last letter, bhāṣya ⟦ऋत्विग्भ्यो⟧, ⟦हिरण्यकेनकादि⟧, ⟦विश्रयिता⟧; p. 480 ⟦वष्टेः⟧ and ⟦जीर्णः सन्⟧; p. 481 ⟦सोड्र्यादेशः⟧ and ⟦नीलवर्णान्तरिक्षछायोरादित्यो⟧.
