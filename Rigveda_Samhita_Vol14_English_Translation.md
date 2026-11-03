@@ -20065,4 +20065,145 @@ May we, uninjured, be secure in the protection of Agni, Indra, Soma, and the god
 
 ---
 
-**Progress note:** Done through printed p. 538 (PDF 560). The offset printed = PDF − 22 from PDF 560, because the half-title PDF 558 was unnumbered and PDF 559 duplicated it. The Kannada anuvāda of the Sūkta 9 introduction is written, followed by the Sūkta 9 heading block (Maṇḍala 2, Anuvāka 1, Aṣṭaka 2, Adhyāya 6, Varga 1, 6 Ṛks, Gṛtsamada, Agni, Triṣṭubh) and the Saṃhitā and Pada of Ṛk 1. PDF 558 and 559 were already written and are not repeated; the task asked for them again but they carry nothing new. Ṛk 1 is left open: the next batch starts at its Sāyaṇa-bhāṣya on printed p. 539 (PDF 561). FILE DISAGREE: none (the numeral file has no rows). Not zoomed: the Āśvalāyana references 4-13 and 2-12 [?], and the Pada compound marks (दीदिऽवान्, अदब्धऽव्रतऽप्रमतिः, शुचिऽजिह्वः) [?].
+### Printed p. 539 (PDF 561)
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 1" on the left, "Ṛgvedasaṃhitā" in the middle, and the printed page number **539** on the right. The task named this page as printed 540, but the number printed on the page is 539, which agrees with the offset printed = PDF − 22. The numeral file has no rows for this page.)*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya, Ṛk 1)**
+
+*Gist:* Gṛtsamada praises Agni with these epithets: invoker of the gods, wise, bright, strong, of unharmed rites, best giver of dwelling, bearer of many forms. He is to sit in the hotṛ's seat, the Uttaravedi. The Aitareya Brāhmaṇa is cited.
+
+> गृत्समदः स्तौति । होता देवानामाह्वाता विदानो विद्वान् त्वेषः प्रवृद्धो दीदिवान् दीप्यमानः सुदक्षः शोभनबलोऽदब्धव्रतप्रमतिः । अदब्धान्यहिंसितानि व्रतानि कर्माणि यस्याः सादब्धव्रता प्रमतिः प्रकृष्टा बुद्धिर्यस्य स तथोक्तः । वसिष्ठः सर्वस्य वासयितृतमः ॥ वासयतेस्तृजंतस्येष्ठनि रूपं ॥
+
+> *gṛtsamadaḥ stauti | hotā devānāmāhvātā vidāno vidvān tveṣaḥ pravṛddho dīdivān dīpyamānaḥ sudakṣaḥ śobhanabalo 'dabdhavratapramatiḥ | adabdhānyahiṃsitāni vratāni karmāṇi yasyāḥ sādabdhavratā pramatiḥ prakṛṣṭā buddhiryasya sa tathoktaḥ | vasiṣṭhaḥ sarvasya vāsayitṛtamaḥ ‖ vāsayatestṛjaṃtasyeṣṭhani rūpaṃ ‖*
+
+> सहस्रंभरः सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः । यद्वा सहस्रस्य सर्वस्य भर्ता । तथा च वाजसनेयं । सर्वं वै सहस्रं सर्वंभर इत्येव तदाहेति । शुचिजिह्वः । शुचिर्दीप्ता जिह्वा ज्वाला यस्य स तथोक्तः । एवंभूतोऽग्निर्होतृषदने । होतात्र सीदतीति होतृषदनमुत्तरा वेदी ॥ अधिकरणे ल्युट् ॥ तत्र न्यसदत् । नितरां सीदतु ॥ उक्तार्थे ब्राह्मणं । नि
+
+> *sahasraṃbharaḥ sahasrasyānekavidhasya bhartā | viharaṇena nānāvidharūpasya dhāraka ityarthaḥ | yadvā sahasrasya sarvasya bhartā | tathā ca vājasaneyaṃ | sarvaṃ vai sahasraṃ sarvaṃbhara ityeva tadāheti | śucijihvaḥ | śucirdīptā jihvā jvālā yasya sa tathoktaḥ | evaṃbhūto 'gnirhotṛṣadane | hotātra sīdatīti hotṛṣadanamuttarā vedī ‖ adhikaraṇe lyuṭ ‖ tatra nyasadat | nitarāṃ sīdatu ‖ uktārthe brāhmaṇaṃ | ni*
+
+> होता होतृषदने विदाद इत्यग्निर्वै देवानां होता तस्यैतद्धोतृषदनं यदुत्तरवेदीनाभिस्त्वेषो दीदिवा असदत्सुदक्ष [?] इत्यासन्नो हि स तर्हि भवत्यदब्धव्रतप्रमतिर्वसिष्ठ इत्यग्निर्वै देवानां वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निरित्येषा वा अस्य सहस्रंभरता यदेनमेकं संतं बहुधा विहरंति । ऐ. ब्रा. १. २८ [?] । इति ॥
+
+> *hotā hotṛṣadane vidāda ityagnirvai devānāṃ hotā tasyaitaddhotṛṣadanaṃ yaduttaravedīnābhistveṣo dīdivā asadatsudakṣa [?] ityāsanno hi sa tarhi bhavatyadabdhavratapramatirvasiṣṭha ityagnirvai devānāṃ vasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agnirityeṣā vā asya sahasraṃbharatā yadenamekaṃ saṃtaṃ bahudhā viharaṃti | ai. brā. 1. 28 [?] | iti ‖*
+
+(The grammatical remarks "वासयतेस्तृजंतस्येष्ठनि रूपं" and "अधिकरणे ल्युट्" are transcribed without explanation. The bhāṣya reads "असपत्सदक्ष" or "असदत्सुदक्ष" in the Brāhmaṇa quotation, which is doubtful [?]. The Aitareya Brāhmaṇa reference "१. २८" is read, not zoomed [?].)
+
+**प्रतिपदार्थ (Pratipadārtha, Ṛk 1; Kannada, translated)**
+
+- होता (*hotā*) — one who is fit to call the deities to the sacrifice.
+- विदानः (*vidānaḥ*) — the wise one.
+- त्वेषः (*tveṣaḥ*) — the fully grown one (the Kannada word is *pravṛddha*).
+- दीदिवान् (*dīdivān*) — the shining one.
+- सुदक्षः (*sudakṣaḥ*) — one with excellent strength.
+- अदब्धव्रतप्रमतिः (*adabdhavratapramatiḥ*) — one with a distinguished knowledge, that his own rite cannot be harmed.
+- वसिष्ठः (*vasiṣṭhaḥ*) — one with an excellent dwelling-place.
+- सहस्रंभरः (*sahasraṃbharaḥ*) — one who bears (holds) thousands of forms.
+- शुचिजिह्वः (*śucijihvaḥ*) — one whose tongue is shining and of the form of flame.
+- अग्निः (*agniḥ*) — Agni.
+- होतृषदने (*hotṛṣadane*) — in the Uttaravedi, the place of the hotṛ.
+- नि असदत् (*ni asadat*) — let him sit down.
+
+**भावार्थ (Bhāvārtha, Ṛk 1; Kannada, translated)**
+
+May Agni sit down in the Uttaravedi, the place of the hotṛ. He is fit to call the deities to the sacrifice. He is wise, fully grown, shining and of excellent strength. His knowledge is distinguished, so that his rite cannot be harmed. He has an excellent dwelling-place and bears thousands of forms. He is shining, and his tongue is of the form of flame.
+
+**English Translation** *(as printed, Ṛk 1; it breaks at the foot of this page)*
+
+May Agni, the invoker (of the gods), the intelligent, the resplendent, the radiant, the very powerful; he who knows (how to maintain) his rites
+
+---
+
+### Printed p. 540 (PDF 562)
+
+*(Header: **540**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The numeral file has no rows for this page.)*
+
+undisturbed; who is steady in (his own) place, and is the cherisher of thousands, sit in the station of the invoking priest.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated:) In this Ṛk the seer Gṛtsamada praises Agni, describing him by various epithets.
+
+**होता (*hotā*)** — (Kannada, translated:) One who invokes the deities. That is, the Agni who brings to the sacrificial altar the deities who have been invoked in the sacrifice. The word होतृ (*hotṛ*) is used in three senses. It means the human *hotṛ* priests in the sacrifice. It means Agni as the accomplisher of the oblation, that is, the Agni who carries out the oblation. And it means Agni as the one who invokes the deities. Here it is said to be the Agni who invokes the deities.
+
+**त्वेषः (*tveṣaḥ*)** — (Kannada, translated:) *Pravṛddha*, that is, the Agni who blazes and crackles, flaming up with samit (kindling sticks), kāṣṭha (wood) and the like. When Agni is produced by churning in the two *araṇis* (fire-drills), he is very small, and so he is said to be in the form of an infant. The same Agni, established in the Āhavanīya and other fires and burning large with wood and with oblations of ghee (*ājya*) and the like, is called *pravṛddha*. The word त्वेषः (*tveṣaḥ*) is formed from the root त्विष् (*tviṣ*) ("to shine"), and indicates the sense "one who shines brilliantly".
+
+**सुदक्षः (*sudakṣaḥ*)** — (Kannada, translated:) The word दक्षः (*dakṣaḥ*) is read among the twenty-eight names of strength beginning with ओजः (*ojaḥ*) and पाजः (*pājaḥ*) (Ni. 2-9 [?], numerals as read, not zoomed). Therefore सुदक्षः (*sudakṣaḥ*) means "one with exceedingly great strength".
+
+**अदब्धव्रतप्रमतिः (*adabdhavratapramatiḥ*)**
+
+> अदब्धान्यहिंसितानि व्रतानि कर्माणि यस्याः सादब्धव्रता प्रमतिः प्रकृष्टा बुद्धिर्यस्य स तथोक्तः ।
+
+> *adabdhānyahiṃsitāni vratāni karmāṇi yasyāḥ sādabdhavratā pramatiḥ prakṛṣṭā buddhiryasya sa tathoktaḥ |*
+
+(Kannada, translated:) That is, Agni's acts (*karma*), the invocation of the deities, the carrying out of the oblation and the other subsidiary acts of the sacrifice, are unharmed. They are by nature such that they do harm to no one. The sense is that Agni has a distinguished knowledge that the acts he performs are of such a nature. In the Ṛgveda, compound words (compound words, in English as printed) of more than two members are very rare. In this word three words, अदब्ध (*adabdha*) + व्रत (*vrata*) + प्रमति (*pramati*), join to form one compound. Such usages are extremely scarce.
+
+**वसिष्ठः (*vasiṣṭhaḥ*)**
+
+> सर्वस्य वासयितृतमः ।
+
+> *sarvasya vāsayitṛtamaḥ |*
+
+(Kannada, translated:) The best among those who give a dwelling-place to everyone. Or, one who has an excellent dwelling-place.
+
+**सहस्रंभरः (*sahasraṃbharaḥ*)**
+
+> सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः । यद्वा सहस्रस्य सर्वस्य भर्ता ।
+
+> *sahasrasyānekavidhasya bhartā | viharaṇena nānāvidharūpasya dhāraka ityarthaḥ | yadvā sahasrasya sarvasya bhartā |*
+
+(Kannada, translated, continuing at the foot of the page:) Here the word सहस्र (*sahasra*) has the meaning "many"; Agni
+
+---
+
+### Printed p. 541 (PDF 563)
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 1", "Ṛgvedasaṃhitā", and the printed page number **541**. The task named this page as printed 542, but the page itself prints 541. The numeral file has no rows for this page.)*
+
+(Kannada, translated, continuing the entry on सहस्रंभरः (*sahasraṃbharaḥ*):) ... is able to assume many kinds of forms at his own will. Or the sense is that, as lord of many people, he bears (nourishes) them. On this matter the bhāṣyakāra gives as an example the Vājasaneya (Śukla-Yajurveda) śruti sentence सर्वं वै सहस्रं सर्वंभर इत्येव तदाह (*sarvaṃ vai sahasraṃ sarvaṃbhara ityeva tadāha*).
+
+**शुचिजिह्वः (*śucijihvaḥ*)**
+
+> शुचिर्दीप्ता जिह्वा ज्वाला यस्य ।
+
+> *śucirdīptā jihvā jvālā yasya |*
+
+(Kannada, translated:) *Śuci* means shining; *jihvā* means tongue. "One who has a shining tongue" means one who has flames that burn brightly. The flames of Agni are said to be Agni's tongues (*jihvā*).
+
+**होतृषदने (*hotṛṣadane*)**
+
+> होतात्र सीदतीति होतृषदनमुत्तरा वेदी ।
+
+> *hotātra sīdatīti hotṛṣadanamuttarā vedī |*
+
+(Kannada, translated:) The place where the ṛtvij called *hotṛ* sits down in the sacrificial altar is called होतृषदन (*hotṛṣadana*) (होतृ (*hotṛ*) + सदन (*sadana*)). The sense is the place called the Uttaravedi. On this matter the bhāṣyakāra has cited a sentence of the Aitareya Brāhmaṇa (Ai. Brā. 1-28 [?], not zoomed). The first two Ṛks of this sūkta are the last two (the 7th and 8th Ṛks [?]) of the eight Ṛks to be recited when, in the sacrifice, the rite called Agnipraṇayana is performed. Agnipraṇayana means setting Agni in the Uttaravedi. This rite is an important one performed in the animal sacrifice (*paśuyāga*) and in the Soma sacrifices. The rite of taking the fire from the Āhavanīya fire to the Uttaravedi (this sentence is carried over to the next page of the print)
+
+---
+
+### Printed p. 542 (PDF 564 begins)
+
+*(Not read in this batch. The batch ends with the two strips of PDF 563 printed above. The lines below belong to printed p. 541, whose second strip runs on as follows.)*
+
+(Kannada, translated, second strip of printed p. 541:) ... is called Agnipraṇayana. When the adhvaryu performs it, he directs the ṛtvij called *hotṛ*, by means of the Praiṣa mantra, to recite the mantras needed for that occasion. Therefore the details of the rite called Agnipraṇayana are given here as they are stated in the Aitareya Brāhmaṇa—
+
+**॥ अग्निप्रणयनवೆಂಬ कर्मवು ॥ (Agnipraṇayana, the rite)**
+
+> अग्नये प्रणीयमानायानुब्रूहीत्याहाध्वर्युः ।
+
+> *agnaye praṇīyamānāyānubrūhītyāhādhvaryuḥ |*
+
+(Kannada, translated:) In the sacrifice, after the rite called Somakraya (the purchase of the Soma plants) has been completed, the adhvaryu (the ṛtvij) performs the rite called Agnipraṇayana, which is done in order to take the fire in the Āhavanīya pit to the Uttaravedi. In order to do it, the adhvaryu addresses the *hotṛ* and directs him: "O hotṛ, recite the Ṛks that are laid down for the Agnipraṇayana work" (by the Praiṣa mantra above). The hotṛ then recites, of the eight Ṛks that have to be recited for this work,
+
+(1) the first Ṛk, namely:
+
+> प्र देवं देव्या धिया भरता जातवेदसम् ।
+> हव्या नो वक्षदानुषगिति गायत्रीं ब्राह्मणस्यानुब्रूयात् ॥
+
+> *pra devaṃ devyā dhiyā bharatā jātavedasam |*
+> *havyā no vakṣadānuṣagiti gāyatrīṃ brāhmaṇasyānubrūyāt ‖*
+
+(Printed reference: ऋ. सं. १०-१७६-२ [?]; the printed numerals are read, not zoomed.)
+
+(Kannada, translated, continuing:) [The main intention of this Ṛk is that the yajamāna addresses the ṛtviks: "O ṛtviks, bring this Agni, named Jātavedas, with stotras suitable for this god and with rites suitable for the occasion, and with the Uttaravedi, near ..., and take him there." The bracket is left open: it runs on to the next page (printed p. 542, PDF 564).]
+
+---
+
+**Progress note:** Done through printed p. 541 (PDF 563). The page headers show the numbers 539, 540 and 541 for PDF 561, 562 and 563. The task labelled these pages 540–542, but the offset printed = PDF − 22 holds, so the pages are labelled with the numbers actually printed. In the chunk, the "Printed p. 542" heading that sits before the second strip of PDF 563 is a mistake: that strip belongs to printed p. 541, and it was written under the wrong heading. Sūkta 9, Ṛk 1: the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Viśeṣaviṣayagaḷu are written. The Viśeṣaviṣaya has reached the Agnipraṇayana excerpt from the Aitareya Brāhmaṇa. It stops inside the bracketed explanation of the first of the eight Ṛks, "[ಈ ಋಕ್ಕಿನ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು …", which ends at "ಹೋಗಿ." at the foot of printed p. 541. The next batch begins at the top of printed p. 542 (PDF 564) and continues that explanation. Flags: FILE DISAGREE none (the numeral file has no rows). Unzoomed and doubtful: Ni. 2-9 [?]; Ai. Brā. 1-28 [?]; Ṛk. Saṃ. 10-176-2 [?]; "7th and 8th Ṛks" [?]; the Brāhmaṇa quotation reading असदत्सुदक्ष/असपत्सदक्ष [?]; the word ವೇದೀನಾಭಿಃ ("uttaravedīnābhis") in the Brāhmaṇa quotation [?]. The Kannada heading "ಅಗ್ನಿಪ್ರಣಯನವೆಂಬ ಕರ್ಮವು" was entered partly in Devanagari in error ("अग्निप्रणयनवೆಂಬ"); it needs correction in a later review.
