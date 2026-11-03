@@ -16830,4 +16830,135 @@ I sprinkle the butter, for butter is his birth-place, he is nourished by butter;
 
 ---
 
-**Progress note:** Done through printed p. 469 (PDF 490). Maṇḍala 2 Sūkta 3: Ṛks 9, 10 and 11 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics). A short rule closes p. 469 after the Ṛk 11 English, so Sūkta 3 appears to end here with no colophon printed on this page; the next printed page (470) should be checked for the Sūkta-end matter or the start of Sūkta 4. No Ṛk is open. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: the header "Va. 23" on pp. 467 and 469 [?]; the Ṛk numerals 10 and 11. [?] places: Pada of Ṛk 10, position of the compound stroke in अवऽसृजन्; bhāṣya of Ṛk 10: असाकाधिक…, शमित्येतन्नामकः; Saṃhitā of Ṛk 11: घृतम्वस्य; bhāṣya of Ṛk 11: संबोध्योऽच्यते; Pratipadārtha of Ṛk 11: घृतमु (as printed).
+---
+
+### Printed p. 470 (PDF 491)
+
+*(Header: "470", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip. The page opens directly with the heading of the fourth sūkta. No colophon of Sūkta 3 is printed on this page.)*
+
+## Maṇḍala 2, Anuvāka 1 — Sūkta 4
+
+**Fourth sūkta** (printed heading: "ನಾಲ್ಕನೆಯ ಸೂಕ್ತವು").
+
+**॥ सायणभाष्यम् ॥** *(introduction to the sūkta)*
+
+*Gist:* The sūkta हुवे वः (*huve vaḥ*) has nine Ṛks; the ṛṣi is Somāhuti Bhārgava, the deity Agni, the metre Triṣṭup. It is used in the Prātaranuvāka and the Āśvina-śastra, as Āśvalāyana's sūtra says.
+
+> हुवे व इति नवर्चं चतुर्थं सूक्तं । भार्गवः सोमाहुतिनामक ऋषिः । अग्निर्देवता । त्रिष्टुप् छंदः । हुवे नव सोमाहुतिर्भार्गवो हेत्यनुक्रमणिका ॥ प्रातरनुवाकाश्विनशस्त्रयोस्त्रैष्टुभे छंदसीदं । सूत्रितं च । हुवे वः सुद्योत्मानं नि होता होतृषदन इति सूक्ते ॥ आ. ४-१३ । इति ॥
+
+> *huve va iti navarcaṃ caturthaṃ sūktaṃ | bhārgavaḥ somāhutināmaka ṛṣiḥ | agnirdevatā | triṣṭup chaṃdaḥ | huve nava somāhutirbhārgavo hetyanukramaṇikā ‖ prātaranuvākāśvinaśastrayostraiṣṭubhe chaṃdasīdaṃ | sūtritaṃ ca | huve vaḥ sudyotmānaṃ ni hotā hotṛṣadana iti sūkte ‖ ā. 4-13 | iti ‖*
+
+**Anuvāda (Kannada, translated):** The sūkta beginning हुवे वः (*huve vaḥ*) is the fourth sūkta in the first Anuvāka. It has nine Ṛks. Somāhuti, born in the family of Bhṛgu, is the ṛṣi of this sūkta; Agni is the deity; the metre is Triṣṭup. In the Anukramaṇikā it is said: हुवे नव सोमाहुतिर्भार्गवो ह (*huve nava somāhutirbhārgavo ha*). The sūkta is applied (viniyoga) to the mantras in Triṣṭup metre at the time of the Prātaranuvāka and the recitation of the Āśvina-śastra mantras; this is explained by the sūtra of the Āśvalāyana Śrautasūtra हुवे वः सुद्योत्मानं नि होता होतृषदन इति सूक्ते (*huve vaḥ sudyotmānaṃ ni hotā hotṛṣadana iti sūkte*) (Ā. 4-13, as printed; the last numeral line of the page reads "೪-◌೩", the middle digit blurred in the print, and the first reference on the page is "೪-೧೩").
+
+---
+
+**Sūkta heading block** *(printed, in Kannada):*
+
+- Maṇḍala 2, Anuvāka 1, Sūkta 4.
+- Aṣṭaka 2, Adhyāya 5, Varga 24, 25.
+- Number of Ṛks in the sūkta: 9.
+- Ṛṣi: Somāhuti Bhārgava (सोमाहुतिर्भार्गवः (*somāhutirbhārgavaḥ*)).
+- Devatā: Agni (अग्निः (*agniḥ*)).
+- Chandas: Triṣṭup (त्रिष्टुप् (*triṣṭup*)).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> हुवे वः सुद्योत्मानं सुवृक्तिं विशामग्निमतिथिं सुप्रयसं ।
+> मित्र इव यो दिधिषाय्यो भूद्देव आदेवे जने जातवेदाः ॥ १ ॥
+
+> *huve vaḥ sudyotmānaṃ suvṛktiṃ viśāmagnimatithiṃ suprayasaṃ |*
+> *mitra iva yo didhiṣāyyo bhūddeva ādeve jane jātavedāḥ ‖ 1 ‖*
+
+---
+
+### Printed p. 471 (PDF 492)
+
+*(Header: "A. 2 A. 5 Va. 24" read from the strip, "Ṛgvedasaṃhitā", "471". Not zoomed. The numeral file has no rows for this page.)*
+
+**॥ पदपाठः ॥**
+
+> हुवे । वः । सुऽद्योत्मानं । सुऽवृक्तिं । विशां । अग्निं । अतिथिं । सुऽप्रयसं ।
+> मित्रःऽइव । यः । दिधिषाय्यः । भूत् । देवः । आऽदेवे । जने । जातऽवेदाः ॥ १ ॥
+
+> *huve | vaḥ | su 'dyotmānaṃ | su 'vṛktiṃ | viśāṃ | agniṃ | atithiṃ | su 'prayasaṃ |*
+> *mitraḥ 'iva | yaḥ | didhiṣāyyaḥ | bhūt | devaḥ | ā 'deve | jane | jāta 'vedāḥ ‖ 1 ‖*
+
+*(The compound stroke is printed in सुऽद्योत्मानं, सुऽवृक्तिं, सुऽप्रयसं, मित्रःऽइव, आऽदेवे and जातऽवेदाः. In the printed Pada the stroke after मित्रः appears directly before इव.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The yajamānas are told that the speaker invokes for them Agni, well-shining and sinless, always worthy of honour like a guest; knowing all that is born, he supports all beings from men to gods like a friend.
+
+> हे यजमाना वो युष्मदर्थमग्निं हुवे । आह्वयामि । कीदृशं तं । सुद्योत्मानं सुष्ठु द्योतमानं । सुवृक्तिं सुवर्जितं पाप्मैः शोभनस्तुतिं वा । विशां यजमानानामतिथिवत्सदा पूज्यं । सुप्रयसं शोभनहविर्लक्षणान्नं । किंच जातवेदा जातानां वेदिता यो देवोऽग्निर्मित्र इव सखेव आदित्य इव वा दीधिषाय्यो धारयिता भूत् । भवति । कुत्रेति उच्यते । आदेवे देवपर्यंते जने । मनुष्यप्रभृतिदेवपर्यंतेषु । तेषां धारकोऽभवदित्यर्थः ॥
+
+> *he yajamānā vo yuṣmadarthamagniṃ huve | āhvayāmi | kīdṛśaṃ taṃ | sudyotmānaṃ suṣṭhu dyotamānaṃ | suvṛktiṃ suvarjitaṃ pāpmaiḥ śobhanastutiṃ vā | viśāṃ yajamānānāmatithivatsadā pūjyaṃ | suprayasaṃ śobhanahavirlakṣaṇānnaṃ | kiṃca jātavedā jātānāṃ veditā yo devo 'gnirmitra iva sakheva āditya iva vā dīdhiṣāyyo dhārayitā bhūt | bhavati | kutreti ucyate | ādeve devaparyaṃte jane | manuṣyaprabhṛtidevaparyaṃteṣu | teṣāṃ dhārako 'bhavadityarthaḥ ‖*
+
+*(The word पाप्मैः (*pāpmaiḥ*) is printed so, here and again in the Special Topics; taken at face value. No sūtra reference or grammatical tail is printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 1)**
+
+(Kannada, translated:) (O yajamānas) वः (*vaḥ*) — for you; सुद्योत्मानं (*sudyotmānaṃ*) — one who has excellent radiance; सुवृक्तिं (*suvṛktiṃ*) — one free from sin, or one who has excellent praise; विशां (*viśāṃ*) — for the yajamānas; अतिथिं (*atithiṃ*) — one to be honoured like a guest; सुप्रयसं (*suprayasaṃ*) — one who has food in the form of the offering; — such अग्निं (*agniṃ*) — Agni — हुवे (*huve*) — I call, praying; जातवेदाः (*jātavedāḥ*) — he who has knowledge of all that is born; यः देवः (*yaḥ devaḥ*) — which god, of divine nature, that same Agni; मित्र इव (*mitra iva*) — like a friend, or like the god Mitra; आ देवे जने (*ā deve jane*) — the beings from men up to gods; दिधिषाय्यः (*didhiṣāyyaḥ*) — as the one who holds (them); भूत् (*bhūt*) — he is.
+
+**भावार्थ (Bhāvārtha — Ṛk 1)**
+
+(Kannada, translated:) "O yajamānas, on your behalf I invoke in prayer that Agni who has excellent radiance, who is free from sin and has excellent radiance, who is to be honoured by the yajamānas like a guest, and who has food in the form of the offering. That Agni, who knows all that is born and is of divine nature, has been the guardian, like a friend, of the beings from men up to the gods."
+
+**English Translation** *(as printed, Ṛk 1)*
+
+I invoke, on your behalf, the resplendent, the sinless Agni, the guest of mortals, the accepter of (sacrificial) food, who, knowing all that has been born, is like a friend, the supporter (of all beings), from men to gods.
+
+---
+
+### Printed p. 472 (PDF 493)
+
+*(Header: "472", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip. The Special Topics of Ṛk 1 begin at the top of the page.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated:) Addressing the yajamānas, the ṛṣi, the seer of the mantra, has said that on their behalf he invokes Agni, who is सुवृक्तिं—सुवर्जितं पाप्मैः (*suvṛktiṃ—suvarjitaṃ pāpmaiḥ*): "pāpa" means that he is freed from the actions that produce sorrow; or शोभनस्तुतिं वा (*śobhanastutiṃ vā*): he is praised with auspicious hymns. Agni is also described as being always worthy of worship by the yajamāna, like a guest.
+
+जातवेदाः यः देवः मित्र इव दिधिषाय्यः अग्निः सखेव आदित्य इव वा मनुष्यप्रभृति देवपर्यंतेषु जनेषु धारयिता भवति (*jātavedāḥ yaḥ devaḥ mitra iva didhiṣāyyaḥ agniḥ sakheva āditya iva vā manuṣyaprabhṛti devaparyaṃteṣu janeṣu dhārayitā bhavati*) — Agni, who is all-knowing, is the supporter, like a friend, of all beings from men up to the gods; that is, as a friend does good to all beings he is their well-wisher, or, like the Sun, he protects them. This is explained in two ways.
+
+अतिथिं—अतिथिवत्पूज्यं । दर्शादितिथिमुपेक्ष्य आगंतारं वा । (*atithiṃ—atithivatpūjyaṃ | darśāditithimupekṣya āgaṃtāraṃ vā |*) — Agni is worthy of honour by the yajamāna like a guest who has come to the house. Or, he is explained as one who comes according to the wish of the yajamānas who perform sacrifices (darśa-pūrṇamāsa and the others) following the tithis such as amāvāsyā.
+
+The Niruktakāra, citing the Ṛk (Ṛ. Saṃ. 5-4-5, as printed after the verse; the file and the strip agree) —
+
+> जुष्वो दमूना अतिथिर्दुरोण इमं नो यज्ञमुप याहि विद्वान् ।
+> विश्वा अग्ने अभियुजो विहत्या शत्रूयतामा भरा योजनानि ॥
+
+> *juṣvo damūnā atithirduroṇa imaṃ no yajñamupa yāhi vidvān |*
+> *viśvā agne abhiyujo vihatyā śatrūyatāmā bharā yojanāni ‖*
+
+*(शत्रूयतामा (*śatrūyatāmā*) and योजनानि (*yojanāni*) are copied as printed, not zoomed.)*
+
+— and then having said:
+
+> अतिथिरभ्यतितो गृहान् भवति । अभ्येति तिथिषु परकुलानीति वा परगृहाणीति वा ।
+> अयमपीतरोऽतिथेरेतस्मादेव ।
+
+> *atithirabhyatito gṛhān bhavati | abhyeti tithiṣu parakulānīti vā paragṛhāṇīti vā |*
+> *ayamapītaro 'titheretasmādeva |*
+
+*(Reference printed: Ni. 4-4; the file and the strip agree. The last words are read so from the strip, not zoomed; the same sentence is printed a little lower as अयमपीतरोऽतिथिरेतस्मादेव (*ayamapītaro 'tithiretasmādeva*).)*
+
+— gives this explanation of the word. Durgācārya, commenting on it, says:
+
+> गृहान् अभि आभिमुख्येन असौ अतितो भवति
+
+> *gṛhān abhi ābhimukhyena asau atito bhavati*
+
+— "seeking houses, he goes about; for that reason he is called atithi". Or, on days such as amāvāsyā he comes to the houses of those who perform sacrifice, and therefore Agni is called atithi. Or:
+
+> अभ्येति तिथिषु परकुलानि पौर्णमास्यादिषु यजमानकुलानि अभ्यागच्छति इति अतिथिः । अयमपीतरोऽतिथिरेतस्मादेव ।
+
+> *abhyeti tithiṣu parakulāni paurṇamāsyādiṣu yajamānakulāni abhyāgacchati iti atithiḥ | ayamapītaro 'tithiretasmādeva |*
+
+That is, he goes on the other tithis (days) to the sacrificial houses of persons of other families, and on sacrifice days such as Paurṇamāsī he comes to the houses of the yajamānas; for these two reasons the name atithi has come to Agni; this is the meaning explained.
+
+*(The Special Topics of Ṛk 1 end at the bottom of the page without a closing mark; they may continue on the next page. Ṛk 1 is therefore left open.)*
+
+---
+
+**Progress note:** Done through printed p. 472 (PDF 493). Maṇḍala 2 Sūkta 4 begun (9 Ṛks; Somāhuti Bhārgava, Agni, Triṣṭup; Varga 24, 25 as printed). Ṛk 1 complete through Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English; its Special Topics (atithi, Nirukta and Durgācārya) run to the end of p. 472 and may continue on p. 473, so Ṛk 1 is left open (check the top of p. 473 before starting Ṛk 2). No colophon of Sūkta 3 is printed on p. 470. FILE DISAGREE: p. 470 last line, file said "Ā. 4-93" while I read "೪-◌೩" with a blurred middle digit and gave it as 4-13 to match the sūtra-reference printed a few lines above (4-13, which the file also reads); p. 471 had no rows; p. 472 (Ṛ. Saṃ. 5-4-5, Ni. 4-4) agree. Not zoomed: header "Va. 24" (p. 471), Ṛk numeral 1, varga numbers 24, 25 on the sūkta heading block. [?] places: p. 471 bhāṣya ⟦पाप्मैः⟧ (as printed); p. 472 Nirukta tail ⟦अतिथेरेतस्मादेव⟧ versus ⟦अतिथिरेतस्मादेव⟧; ⟦शत्रूयतामा भरा योजनानि⟧.
