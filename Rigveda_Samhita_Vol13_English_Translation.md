@@ -2970,11 +2970,11 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ संहितापाठः ॥**
 
-> सातिर्न वोऽमवती स्वर्वती त्वेषा विपाका मरुतः पिपिष्वती ।
-> भद्रा वो रातिः पृणतो न दक्षिणा पृथुज्रया [?] असुर्येव जञ्जती ॥ ७ ॥
+> सा॒तिर्न वोऽम॑वती॒ स्व॑र्वती त्वे॒षा विपा॑का मरुतः॒ पिपि॑ष्वती ।
+> भ॒द्रा वो॑ रा॒तिः पृ॑ण॒तो न दक्षि॑णा पृथु॒ज्रया॑ असु॒र्ये॑व॒ जञ्ज॑ती ॥ ७ ॥
 
 > *sātirna vo 'mavatī svarvatī tveṣā vipākā marutaḥ pipiṣvatī |*
-> *bhadrā vo rātiḥ pṛṇato na dakṣiṇā pṛthujrayā [?] asuryeva jañjatī ‖ 7 ‖*
+> *bhadrā vo rātiḥ pṛṇato na dakṣiṇā pṛthujrayā asuryeva jañjatī ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
 
