@@ -15423,4 +15423,117 @@ The gods have stationed at the root of the world, that Agni who is of goodly app
 
 ---
 
-**Progress note:** Done through printed p. 436 (PDF 457). Maṇḍala 2 Sūkta 2: Ṛk 3 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, ending on p. 436 with the Yāska reference Ni. 10-22). Ṛk 4 is OPEN: Saṃhitā, Pada and bhāṣya written; the Pratipadārtha is broken off at "चितयंतं—" at the foot of p. 436 and continues on p. 437. Numeral file: Ni. 10-22 agrees with the strip (p. 436); its row "24.1" is a header misread; the file has no rows for pp. 434–435. Not zoomed: the headers (p. 435 "A. 2 A. 5 Va. 20" as read). [?] places: ⟦सश्चात्स्पृद्धावस्थायां⟧ in the Ṛk 4 bhāṣya; Saṃhitā ⟦चितयंतमक्षभिः⟧ (ma/u glyph before ⟦क्षभिः⟧) and the Pada word ⟦आ⟧ after ⟦स्वे⟧ read without zoom.
+### Printed p. 437 (PDF 458)
+
+*(Header: "A. 2 A. 5 Va. 20" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "437". Ṛk 4: Pratipadārtha concluded, Bhāvārtha, printed English, Special Topics. Numeral file: four rows, "Ni. 2-10", "Ni. 2-18", "Ni. 3-22" and "Ni. 2-13", all agreeing with the strip.)*
+
+*(Pratipadārtha continued from p. 436:)* चितयंतं (*citayaṃtaṃ*) — one who gives animation (चैतन्य); पाथो न (*pātho na*) — like water; पायुं (*pāyuṃ*) — a protector; उभे जनसी (*ubhe janasī*) — both heaven and earth, the mothers of all; अनु (*anu*) — one who pervades; रजसि (*rajasi*) — in the antarikṣa; आ उक्षमाणं (*ā ukṣamāṇaṃ*) — one who pours down rain everywhere; तं (*taṃ*) — that venerable Agni; स्वे ह्वारे (*sve hvāre*) — in his own solitary; दमे (*dame*) — in the sacrificial house; आ दधुः (*ā dadhuḥ*) — they establish.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "Of the one whose radiance is as excellent as gold, who moves in the antarikṣa, who gives animation with his limbs in the form of flames, who protects like water, who pervades heaven and earth, the mothers of all, who pours rain everywhere in the antarikṣa, the venerable one — that Agni they establish in the sacrificial house, which is his own and solitary."
+
+**English Translation** *(as printed)*
+
+They have placed him in his solitary dwelling, who is shedding moisture upon the earth ; resplendent as gold, traversing the firmament, animate with flames ; and pervading the two parents (of all things, heaven and earth) like refreshing water.
+
+*(The scan has small blemishes in the words "parents" and "things" on the last printed line; no misprint is intended by the source. The English sentence runs to the top of the next strip, "like refreshing water.")*
+
+**विशेषविषयगळु (Special Topics)**
+
+चंद्रमिव सुरुचं उक्षमाणं तं दमे आ दधुः (चंद्रमिव सुरुचं उक्षमाणं तं दमे आ दधुः (*caṃdramiva surucaṃ ukṣamāṇaṃ taṃ dame ā dadhuḥ*)) —
+
+(Kannada:) "In this sentence, since the word candra (चंद्र (*caṃdra*)) is read among the fifteen names of hiraṇya (Ni. २-१० (*2-10*)), Agni is very radiant, like hiraṇya (gold). And, being in the antarikṣa, he pours down rain-water everywhere; or, on the sacrificial altar, which is of the nature of the earth, he obtains satisfaction from the homa-substances beginning with ājya: thus two kinds of meaning are described. For the word रजसि (रजसि (*rajasi*)) Yāska has given the meaning 'night' (Ni. २-१८ (*2-18*)) and also 'heaven and earth' (Ni. ३-२२ (*3-22*)). Sāyaṇa here has given this word the meaning 'heaven and earth' [as printed; the bhāṣya above reads it as antarikṣa]."
+
+पाथो न पायुं (पाथो न पायुं (*pātho na pāyuṃ*)) —
+
+(Kannada:) "On the sacrificial altar Agni grows with his limbs in the form of flames, and, pervading the antarikṣa, protects everyone as water does. This is set out in the words भूम्यां होमाधारत्वेन स्थित्वा हविष्प्रेषणाय द्युलोकगामिनं (भूम्यां होमाधारत्वेन स्थित्वा हविष्प्रेषणाय द्युलोकगामिनं (*bhūmyāṃ homādhāratvena sthitvā haviṣpreṣaṇāya dyulokagāminaṃ*)): standing on the earth as the support of the homa, and moving in the antarikṣa in order to carry the oblations to the deities, he pervades both earth and antarikṣa and protects everyone."
+
+पृश्न्याः पतरं (पृश्न्याः पतरं (*pṛśnyāḥ pataraṃ*)) —
+
+(Kannada:) "The word pṛśni (पृश्नि (*pṛśni*)) is read among the six common names beginning with स्वः (स्वः (*svaḥ*)) (Ni. २-१३ (*2-13*)). Here Sāyaṇa explains पृश्न्याः पतरं द्युलोकस्यांतरिक्षस्य गंतारं (पृश्न्याः पतरं द्युलोकस्यांतरिक्षस्य गंतारं (*pṛśnyāḥ pataraṃ dyulokasyāṃtarikṣasya gaṃtāraṃ*)): Agni pervades the antarikṣa and moves about in it."
+
+*(The Special Topic on the word दमे continues on p. 438.)*
+
+---
+
+### Printed p. 438 (PDF 459)
+
+*(Header: "438", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2" as read from the strip, not zoomed. Numeral file: "Ni. 3-13" agrees with the strip; its row "2.4.1" is a misreading of the header; its row "5.54.11" agrees with the strip's bhāṣya reference. Ṛk 4 concluded; Ṛk 5: Saṃhitā, Pada, bhāṣya, and the start of the Pratipadārtha.)*
+
+(Kannada, continued from p. 437:) "The word दमे (दमे (*dame*)) is read among the names of houses (Ni. ३-१३ (*3-13*)). Here too it is used in the sense of 'dwelling-house'."
+
+*(Rule line.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> स होता विश्वं परि भूत्वध्वरं तमु हव्यैर्मनुष ऋंजते गिरा ।
+> हिरिशिप्रो वृधसानासु जर्भुरद्द्यौर्न स्तृभिश्चितयद्रोदसी अनु ॥ ५ ॥
+
+> *sa hotā viśvaṃ pari bhūtvadhvaraṃ tamu havyairmanuṣa ṛṃjate girā |*
+> *hiriśipro vṛdhasānāsu jarbhuraddyaurna stṛbhiścitayadrodasī anu ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the print the bar between अध्वरं and तं is absent: "अध्वरं तं"; in स्तृभिः a small subscript mark stands between the syllables, as in the compound हिरिऽशिप्रः; I give स्तृभिः without it.)*
+
+> सः । होता । विश्वं । परि । भूतु । अध्वरं तं । ऊं इति । हव्यैः । मनुषः । ऋंजते । गिरा ।
+> हिरिऽशिप्रः । वृधसानासु । जर्भुरत् । द्यौः । न । स्तृभिः । चितयत् । रोदसी इति । अनु ॥ ५ ॥
+
+> *saḥ | hotā | viśvaṃ | pari | bhūtu | adhvaraṃ taṃ | ūṃ iti | havyaiḥ | manuṣaḥ | ṛṃjate | girā |*
+> *hiri 'śipraḥ | vṛdhasānāsu | jarbhurat | dyauḥ | na | stṛbhiḥ | citayat | rodasī iti | anu ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* May Agni, accomplisher of the homa, encompass every sacrifice; men adorn him with oblations and praise; he consumes the growing plants and, like the sky with stars, enlivens heaven and earth with flames and sparks.
+
+> सोऽग्निर्होता होमनिष्पादकः सन् विश्वं सर्वमध्वरं यागं परिभूतु । परितो भवतु । तमु तमेवाग्निं हव्यैर्हविर्भिर्गिरा स्तुत्या च मनुषो मनुष्या ऋंजते । प्रसाधयंति ॥ ऋंजतिः प्रसाधनकर्मा ॥ हिरिशिप्रो हरणशीलहनुर्दीप्तोष्णीषो वा । शिप्राः शीर्षसु वितता हिरण्ययीः । ५.५४-११ । इत्यादिमंत्रांतरात् । वृधसानासु प्रवर्धमानास्वोषधीषु ज्वालासु वा जर्भुरत् । पूर्यमाणो यज्ञं गंता ॥ शत्रंतं [?] पदं । यद्वा द्वितीयार्थे सप्तमी ॥ वर्धमाना ओषधीर्जर्भुरत् । पुनः पुनर्दहन्नित्यर्थः । द्यौर्द्युलोकांतरिक्षं स्तृभिर्नक्षत्रैरिव रोदसी अनु द्यावापृथिव्यावनु चितयत् । चेतयति । ज्वालाभिर्विस्फुलिंगैश्च भुवमंतरिक्षं च व्याप्नोतीत्यर्थः ॥
+
+> *so 'gnirhotā homaniṣpādakaḥ san viśvaṃ sarvamadhvaraṃ yāgaṃ paribhūtu | parito bhavatu | tamu tamevāgniṃ havyairhavirbhirgirā stutyā ca manuṣo manuṣyā ṛṃjate | prasādhayaṃti ‖ ṛṃjatiḥ prasādhanakarmā ‖ hiriśipro haraṇaśīlahanurdīptoṣṇīṣo vā | śiprāḥ śīrṣasu vitatā hiraṇyayīḥ | 5.54-11 | ityādimaṃtrāṃtarāt | vṛdhasānāsu pravardhamānāsvoṣadhīṣu jvālāsu vā jarbhurat | pūryamāṇo yajñaṃ gaṃtā ‖ śatraṃtaṃ [?] padaṃ | yadvā dvitīyārthe saptamī ‖ vardhamānā oṣadhīrjarbhurat | punaḥ punardahannityarthaḥ | dyaurdyulokāṃtarikṣaṃ stṛbhirnakṣatrairiva rodasī anu dyāvāpṛthivyāvanu citayat | cetayati | jvālābhirvisphuliṃgaiśca bhuvamaṃtarikṣaṃ ca vyāpnotītyarthaḥ ‖*
+
+*(Read letter by letter from the strip, not zoomed: the grammatical remark शत्रंतं [?] पदं may be the printing of शतृंतं, "a word ending in the śatṛ suffix"; the sentence ends with "…चितयत् । चेतयति" as printed, and the Kannada Special Topics on p. 439 explain the passage. The bhāṣya reading हरणशीलहनुर्दीप्तोष्णीषो is as read here; the Special Topics on p. 439 quote it without हनुः.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*) — Agni; होता (*hotā*) — as the accomplisher of the homa; विश्वं अध्वरं (*viśvaṃ adhvaraṃ*) — all sacrifices; परि भूतु (*pari bhūtu*) — may he stand encompassing them; तमु (*tamu*) — that same Agni; हव्यैः (*havyaiḥ*) — with oblations; गिरा (*girā*) — and with praise as well; मनुषः (*manuṣaḥ*) — men; ऋंजते (*ṛṃjate*) — adorn; हिरिशिप्रः (*hiriśipraḥ*) — the Agni with a radiant flame *(the entry continues on p. 439)*
+
+---
+
+### Printed p. 439 (PDF 460)
+
+*(Header: "A. 2 A. 5 Va. 20" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "439". Ṛk 5: Pratipadārtha concluded, Bhāvārtha, printed English, Special Topics begun. Numeral file: "Ṛ. Saṃ. 5-54-11" agrees with the strip. The Ṛk is left open in its Special Topics.)*
+
+*(Pratipadārtha continued:)* वृधसानासु (*vṛdhasānāsu*) — in the thicket of densely grown plants; जर्भुरत् (*jarbhurat*) — burning; स्तृभिः (*stṛbhiḥ*) — with the stars; द्यौः न (*dyauḥ na*) — as one makes the antarikṣa radiant; रोदसी अनु (*rodasī anu*) — both heaven and earth; चितयत् (*citayat*) — he makes them endowed with animation.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "May Agni, the accomplisher of the homa, stand encompassing all the sacrifices. Men adorn that same Agni with oblations and with praise. Agni, with his radiant flame, burning the thicket of densely grown plants, makes heaven and earth endowed with animation, as one makes the antarikṣa radiant with stars."
+
+**English Translation** *(as printed)*
+
+May he, the presenter of oblations (to the gods), be around all sacrifices ; men propitiate him with oblations and with praises, when blazing with radiant tresses amongst the growing plants, and enlivening heaven and earth (with his sparks), like the sky with stars.
+
+*(The scan blurs the word "his" in "his sparks"; no misprint is certain.)*
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "Agni is one among the priests (ṛtvij), called the hotṛ; the meaning that he is the one denoted by the word hotṛ, which indicates this priest, has been given here for the word होता (होता (*hotā*)). The meaning 'accomplisher of homa' has also been explained. It is described that men worship this Agni with हव्यैः गिरा ऋंजते (हव्यैः गिरा ऋंजते (*havyaiḥ girā ṛṃjate*)), 'with oblations and with praise', so that he may be pleased."
+
+हिरिशिप्रः — हरणशीलदीप्तोष्णीषो वा (हिरिशिप्रः — हरणशीलदीप्तोष्णीषो वा (*hiriśipraḥ — haraṇaśīladīptoṣṇīṣo vā*)) —
+
+(Kannada:) "It is explained that Agni, pleasing to the mind, wears a very radiant uṣṇīṣa (turban). Here, for the word शिप्र (शिप्र (*śipra*)), the meaning uṣṇīṣa (a turban, 'rumāl') is given, and the use of this word in this meaning is shown by the following —"
+
+अंसेषु वा ऋष्टयः पत्सु खादयो वक्षस्सु रुक्मा मरुतो रथे शुभः ।
+अग्निभ्राजसो विद्युतो गभस्त्योः शिप्राः शीर्षसु वितता हिरण्ययीः ॥
+
+(Kannada:) "The Ṛk is cited." (Ṛ. Saṃ. ५-५४-११ (*5-54-11*)) *(not translated in the source; mine and tentative: 'on their shoulders spears, on their feet anklets, on their breasts golden ornaments, the Maruts are splendid in the chariot; bright as fire, lightning in their arms, golden turbans stretched over their heads'.)*
+
+वृधसानासु जर्भुरत् (वृधसानासु जर्भुरत् (*vṛdhasānāsu jarbhurat*)) — प्रवर्धमानास्वोषधीषु ज्वालासु वा पूर्यमाणो यज्ञं गंता । यद्वा द्वितीयार्थे सप्तमी । वर्धमाना ओषधीः पुनः पुनः दर्ह (दर्ह (*darha*) — as printed) —
+
+(Kannada:) "Agni, pervading the growing plants or his own flames, enters the sacrificial house; and, since the saptamī (locative) in the word वृधसानासु (वृधसानासु (*vṛdhasānāsu*)) has come in the sense of the dvitīyā (accusative), he will be one who consumes again and again the plants that are growing: thus two kinds of meaning are explained." *(The Special Topics of Ṛk 5 continue on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 439 (PDF 460). Maṇḍala 2 Sūkta 2: Ṛk 4 is complete (Pratipadārtha concluded, Bhāvārtha, printed English, Special Topics, ending on p. 438 with the Nighaṇṭu reference 3-13). Ṛk 5 is OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English written; Special Topics begun (होता, हिरिशिप्रः with the Ṛ. Saṃ. 5-54-11 citation, वृधसानासु जर्भुरत्) and continue on p. 440 with the remaining words of the Ṛk. Numeral file: Ni. 2-10, 2-18, 3-22, 2-13 (p. 437), Ni. 3-13 and 5.54.11 (p. 438), Ṛ. Saṃ. 5-54-11 (p. 439) all agree with the strips; its row "2.4.1" on p. 438 is a header misread (strip reads "Maṃ. 2 A. 1 Sū. 2"). Not zoomed: the headers of all three pages. [?] places: bhāṣya ⟦शत्रंतं⟧ (p. 438), Pada ⟦स्तृभिः⟧ (subscript mark), the missing bar in Pada ⟦अध्वरं तं⟧, and the Special Topics word ⟦दर्ह⟧ (p. 439, kept as printed).
