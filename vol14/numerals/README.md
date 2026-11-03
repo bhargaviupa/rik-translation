@@ -10,3 +10,6 @@
 
 ## Second file and helper (Nov 2)
 `Rigveda_Clean_Numerals_14_351_500.xlsx` covers file pages 351–500 (printed 333–482). Helper: `python3 vol14/tools/numerals_for.py PDFPAGE [...]` prints the rows for OUR PDF pages (mapping applied) plus the Kannada numeral groups of each raw line converted to English digits. The files list only lines where a reference-like numeral was found: header numerals (Sūkta/Varga/Anuvāka) and numerals the file did not detect are NOT in them — translators read those from the strip as before and flag them.
+
+## Third file (Nov 3): `Rigveda_Clean_Numerals_14_501_750.xlsx`
+Rows for file pages 507–750 (none for 499–506: those PDF pages have no rows). The 351–500 file the user re-sent is identical to the one already here. Mapping beyond 446: file page = PDF − 3 up to PDF 558 (checked: 63 of 77 file numerals on translated PDF 509–558 occur in the translation; shifts 2 and 4 match only 5 and 3), and = PDF − 4 from PDF 560 (after the duplicate PDF 559; not yet testable). `numerals_for.py` reads all `Rigveda_Clean_Numerals_14_*.xlsx` files.
