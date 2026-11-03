@@ -132,3 +132,5 @@ Batch 63 (Sonnet pilot #20): done through printed p. 371 (PDF 391). Sūkta 191 �
 Batch 64 (Sonnet #21): done through printed p. 374 (PDF 394). Sūkta 191 COMPLETE (no Varga closing printed). Khila/Pariśiṣṭa verses 1–10 + Kannada explanation + colophon 'iti prathamaṃ maṇḍalaṃ samāptaṃ' written: MAṆḌALA 1 COMPLETE. Next: Maṇḍala 2 at printed p. 375 (PDF 395, check). [?] x4: header 'A. 24' (unzoomed), grammar 'ante o vraścū chedane', truncated 'ञ्नित्या', 'जरत्कार्वां' v.8. 3 zooms; file Pā. Sū. 7-3-93 agrees.
 
 Batch 65 (Sonnet #22): done through printed p. 377 (PDF 397). Maṇḍala 2 title + Pīṭhike complete; Sūkta 1 starts p. 378 (PDF 398). Numeral file lacked PDF 395, 397 (header/Pīṭhike numerals [?], 4 UNDECIDED logged); p.396 header read from file 'Maṃ. 2 A. 1 Sū. 1'. 0 zooms.
+
+Batch 66 (Sonnet #23): done through printed p. 380 (PDF 400). Maṇḍala 2 Sūkta 1 begun; Ṛk 1 OPEN: Saṃhitā…Bhāvārtha written; printed English, Special Topics, grammar from p. 381 = PDF 401. [?] x3 in Ṛk 1 bhāṣya (नित्यस्वानित्वं, आज्युपपदे, सनंतसु). Varga 17/18/19 read from strip (no file rows). 2 zooms.
