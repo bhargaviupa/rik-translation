@@ -14058,4 +14058,121 @@ You, Agni, are Twashtri, (the giver) of great wealth to (your) worshipper : thes
 
 ---
 
-**Progress note:** Done through printed p. 401 (PDF 421). Mandala 2 Sukta 1: Rk 5 complete (p. 400); Rk 6 OPEN: Samhita, Pada, bhasya, Pratipadartha written to the word arunyaih/vatyaih; Bhavartha onward continue on p. 402. Flags: p. 399 Varga numeral 17 zoomed (read 17); FILE DISAGREE p. 399 'Part 13 pp. 9-13' (file said 9-18, zoom supports 9-13); p. 400 Nighantu reference (2-23 as it looks) undecided [?]; p. 401 bhasya has one [?] (itaydisvagne), RV 5-4-3 and 5-41-3 agree with file; p. 399 bhasya 'bhajasa' printed so (zoomed); p. 401 Varga 18 zoomed.
+
+### Printed p. 402 (PDF 422)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1". Ṛk 6 continues: the Pratipadārtha, begun on p. 401, resumes with the tail of the previous entry.)*
+
+(…impelled by the wind, and) शंगयः (*śaṃgayaḥ*) — as the dwelling-place of happiness; यासि (*yāsi*) — you come to the sacrificial house; त्वं (*tvaṃ*) — you; पूषा (*pūṣā*) — being the nourisher of all; नु (*nu*) — with vigilance; त्मना (*tmanā*) — by your own will; विधतः (*vidhataḥ*) — the sacrificers who serve you; पासि (*pāsi*) — you protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you who are of the form of Rudra, you are Āditya for the great heaven. You are indeed the strength in the form of the Maruts' multitude. You are the lord of all food in the form of the oblation. Impelled by Vāyu and being the dwelling-place of happiness, you come to the sacrificial house. Being the nourisher of all, you protect, with a mind attentive of its own accord, the sacrificer who serves you.
+
+**English Translation** *(as printed)*
+
+You, Agni, are Rudra, the expeller (of foes) from the expanse of heaven ; you are the strength of the Maruts, you are supreme over (sacrificial) food, you, who are pleasantly domiciled (in the hall of sacrifice), go with ruddy horses, (fleet as) the wind ; as Pushan, you cherish, of your own will, those, who offer worship.
+
+**विशेषविषयगळु (Special Topics)**
+
+रुद्रः (*rudraḥ*) — रुद्दुःखं दुःखहेतुर्वा पापादिः । तस्य द्रावयिता । (*rudduḥkhaṃ duḥkhaheturvā pāpādiḥ | tasya drāvayitā |*) *Rud* means sorrow; what is the cause of sorrow is sin. Because he makes that sin run away, this deity is called Rudra. In the Taittirīya Saṃhitā of the Yajurveda it is said:
+
+> रुद्रो वा एष यदग्निः ।
+
+> *rudro vā eṣa yadagniḥ |*
+
+(Tai. Saṃ. 5-4-3.) From this the sense is that Agni himself is of the form of Rudra. Or:
+
+> रौति मामनिष्ट्वा नरा दुःखे पतिष्यंतीति रुद्रः ।
+
+> *rauti māmaniṣṭvā narā duḥkhe patiṣyaṃtīti rudraḥ |*
+
+"He cries (*rauti*): 'Men, not worshipping me, will fall into sorrow'; therefore he is Rudra." Since men who do not worship Agni with sacrifices and the like become sharers in sorrow, such an Agni is called Rudra. In the Nirukta also:
+
+> रुद्रो रौतीति सतः । रोरूयमाणो द्रवतीति वा रोदयतेर्वा । यदरुदत्तद्रुद्रस्य रुद्रत्वमिति काठकं । यदरोदीत्तद्रुद्रस्य रुद्रत्वमिति हारिद्रविकं ॥
+
+> *rudro rautīti sataḥ | rorūyamāṇo dravatīti vā rodayatervā | yadarudattadrudrasya rudratvamiti kāṭhakaṃ | yadarodīttadrudrasya rudratvamiti hāridravikaṃ ‖*
+
+(Ni. 10-2, as zoomed.) Thus Yāska has given the etymology. Following it Sāyaṇa has explained the word Rudra in six ways. The word Rudra is formed from the root *rud* with the suffix *ṇijanta*. Yāska said above: रुद्रो रौतीति सतः । रोरूयमाणो द्रवतीति वा । रोदयतेर्वा । (*rudro rautīti sataḥ | rorūyamāṇo dravatīti vā | rodayatervā |*) ("Rudra is one who cries, being…; or he runs crying; or from *rodayati*, causes to weep.")
+
+---
+
+
+### Printed p. 403 (PDF 423)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 18"; "Ṛgvedasaṃhitā". Ṛk 6, Special Topics continue.)*
+
+Rudra means रौति — स्तनयित्नुशब्दं करोतीति रुद्रः । (*rauti — stanayitnuśabdaṃ karotīti rudraḥ |*) (he who makes the sound of thunder is Rudra): because he sounds like the rumble of a cloud, he is named Rudra. Or रोरूयमाणो द्रवति (*rorūyamāṇo dravati*): he who runs about in the midst of the cloud, making sound. Or रोदयतेर्वा (*rodayatervā*): he who so acts that enemies weep, and makes them weep: this is the meaning given. Again यदरुदत् तद्रुद्रस्य रुद्रत्वं (*yadarudat tadrudrasya rudratvaṃ*) ("because he wept, that is Rudra's Rudra-hood"): following the famous story in the Kāṭhaka Saṃhitā, that when he was pierced by arrows and fell, this one saw his father Prajāpati and wept in distress; or following the idea यदरोदीत् तद्रुद्रस्य रुद्रत्वं (*yadarodīt tadrudrasya rudratvaṃ*) belonging to the Maitrāyaṇīya branch, the etymology of the word Rudra is given thus: because he wept (*rodana*), this deity is named Rudra (Ni. 10-2). In explaining the word Rudra Sāyaṇa has spoken somewhat differently: because at the time of dissolution he makes everyone weep; or because he destroys the sorrow called *saṃsāra*; or because he is taught by the Upaniṣads in the form of sound; or because he teaches the knowledge of the Self to those who worship that knowledge; or because he destroys the ignorance that covers knowledge, as a cataract covers light: following these differences of meaning of the word *rud*, he has explained the word Rudra with the name suiting this deity. This etymology of the word Rudra and its various meanings have been explained, according to the contexts, in the Ṛg. Saṃ. Part 5 page 589, Part 6 page 350, Part 9 page 101,
+
+*(p. 403 ends here; the sentence continues on p. 404.)*
+
+---
+
+
+### Printed p. 404 (PDF 424)
+
+*(Header: "Maṃ. 2 A. 1 Sū. 1". Ṛk 6, Special Topics continue.)*
+
+Part 10 page 379; Part 13 page 541, in these places.
+
+असुरः — शत्रूणां निरसिता । (*asuraḥ — śatrūṇāṃ nirasitā |*) ("Asura: the expeller of enemies".) This is an epithet, both for Agni and for the word Rudra, in the sense "one who rebukes enemies". Or असुर्बलं तस्य दाता आदित्यरूपश्च त्वमसि (*asurbalaṃ tasya dātā ādityarūpaśca tvamasi*): *asu* means strength; "you are of the form of Āditya, the giver of that strength": so Agni is praised. The Asura-hood of Agni relating to the heavenly world is in
+
+> उत वा दिवो असुराय मन्म प्रान्धांसीव यज्यवे भरध्वं ।
+
+> *uta vā divo asurāya manma prāndhāṃsīva yajyave bharadhvaṃ |*
+
+"Or bring a hymn for the Asura of heaven, like food(-offerings), for the one to be worshipped" (mine and tentative; the third word read as printed, zoomed). (Ṛ. Saṃ. 5-41-3.) The word Asura is a synonym of Rākṣasa in the Purāṇas and elsewhere. But in the Ṛgveda Saṃhitā this word is used in various senses: *asu* means breath, intelligence, throwing, and so on; so the word Asura has been used according to those senses. These must be construed according to the context.
+
+> बृहच्छ्रवा असुरो बर्हणा कृतः पुरो हरिभ्यां वृषभो रथो हि षः ।
+
+> *bṛhacchravā asuro barhaṇā kṛtaḥ puro haribhyāṃ vṛṣabho ratho hi ṣaḥ |*
+
+(Ṛ. Saṃ. 1-54-3; gloss, mine and tentative: "the far-famed Asura, … made before him with the two bay horses; he is the bull, the chariot".) In this Ṛk the word Asura is an epithet of Indra. Here also, as said in this Ṛk, असुरः — शत्रूणां निरसिता (*asuraḥ — śatrūṇāṃ nirasitā*) is one sense, and यद्वा असुः प्राणो बलं वा तद्वान् । रो मत्वर्थीयः । अथवा असवः प्राणाः तेन च आपो लक्ष्यंते । तान् दाति ददातीति असुरः । (*yadvā asuḥ prāṇo balaṃ vā tadvān | ro matvarthīyaḥ | athavā asavaḥ prāṇāḥ tena ca āpo lakṣyaṃte | tān dāti dadātīti asuraḥ |*) is another: either one possessing breath or strength (*ra* being the possessive suffix), or *asavaḥ* means breaths, and by that waters are indicated; he who gives them is Asura, the rain-giving Indra. Because Indra has many such powers, the word can be an epithet of Indra in all these senses. Likewise:
+
+> क्षयन्नस्मभ्यमसुर प्रचेता राजन्नेनांसि शिश्रथः कृतानि ।
+
+> *kṣayannasmabhyamasura pracetā rājannenāṃsi śiśrathaḥ kṛtāni |*
+
+(Ṛ. Saṃ. 1-24-14.) In this Ṛk Varuṇa is given the epithet Asura, as the destroyer of what is undesirable (अनिष्टक्षेपणशीलः (*aniṣṭakṣepaṇaśīlaḥ*)). In the same sense:
+
+> त्वमग्ने रुद्रो असुरो महो दिवस्त्वं शर्धो मारुतं पृक्ष ईशिषे ।
+
+> *tvamagne rudro asuro maho divastvaṃ śardho mārutaṃ pṛkṣa īśiṣe |*
+
+(Ṛ. Saṃ. 2-1-6.) In this very Ṛk, the word Asura is used as an epithet of Agni or Rudra in the sense of "one who casts out enemies".
+
+> वि सुपर्णो अंतरिक्षाण्यख्यद्गभीरवेपा असुरः सुनीथः ।
+
+> *vi suparṇo aṃtarikṣāṇyakhyadgabhīravepā asuraḥ sunīthaḥ |*
+
+(Ṛ. Saṃ. 1-35-7.) In this Ṛk, असुरः — असुं प्राणं राति ददातीत्यसुरः आदित्यः । (*asuraḥ — asuṃ prāṇaṃ rāti dadātītyasuraḥ ādityaḥ |*) ("he gives breath: the Āditya") means Sūrya, the giver of life (of consciousness).
+
+> पृषद्योनिः पंचहोता शृणोत्वतूर्तपंथा असुरो मयोभुः ।
+
+> *pṛṣadyoniḥ paṃcahotā śṛṇotvatūrtapaṃthā asuro mayobhuḥ |*
+
+(Ṛ. Saṃ. 5-42-1.) In this Ṛk, as explained before, the giver of life, Vāyu, is meant.
+
+> अस्मे वीरो मरुतः शुष्म्यस्तु जनानां यो असुरो विधर्ता ॥
+
+> *asme vīro marutaḥ śuṣmyastu janānāṃ yo asuro vidhartā ‖*
+
+(Ṛ. Saṃ. 7-56-24.) In this Ṛk the word Asura has the meaning "possessed of wisdom".
+
+> शतं कक्ष्रीवाँ[?] असुरस्य गोनां दिवि श्रवोऽजरमा ततान ।
+
+> *śataṃ kakṣrīvā~[?] asurasya gonāṃ divi śravo 'jaramā tatāna |*
+
+(Ṛ. Saṃ. 1-126-2; the second word read as printed, zoomed, doubtful.) Here "of the Asura of cows" is explained as "of the generous one who gives cows".
+
+> त्रिरुत्तमा दूणशा रोचनानि त्रयो राजंत्यसुरस्य वीराः ।
+
+> *triruttamā dūṇaśā rocanāni trayo rājaṃtyasurasya vīrāḥ |*
+
+(Ṛ. Saṃ. 3-56-8.) Here the gloss अस्यति क्षिपति सर्वमित्यसुरः कालात्मा संवत्सरः (*asyati kṣipati sarvamityasuraḥ kālātmā saṃvatsaraḥ*) ("one who casts everything: the Asura is Time, the year") is used with the sense of time.
+
+*(Ṛk 6 is left open; the text continues on p. 405.)*
+
+---
+
+**Progress note:** Done through printed p. 404 (PDF 424). Mandala 2 Sukta 1: Rk 6 OPEN (Special Topics on Asura continue on p. 405; no Rk 7 yet). Flags: p. 402/403 Nirukta ref zoomed, read 10-2 (file said 10-76 on p. 403 = FILE DISAGREE); p. 404 Rk 1-24-14 and header numerals read from strip (not in file); p. 403 Varga header read 18 from strip, not zoomed; p. 404 quoted Rks zoomed: 5-41-3 'prandhamsiva' as printed, 1-126-2 'kakshrivam' [?].

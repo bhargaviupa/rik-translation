@@ -8,3 +8,4 @@ pp. 390-392 | sonnet | tool_uses 24 | subagent_tokens 135596 | 4.1 min
 pp. 393-395 | sonnet | tool_uses 12 | subagent_tokens 100241 | 1.3 min
 pp. 396-398 | sonnet | tool_uses 15 | subagent_tokens 105381 | 2.1 min
 pp. 399-401 | sonnet | tool_uses 28 | subagent_tokens 119694 | 4.2 min (rerun after container restart)
+pp. 402-404 | sonnet | tokens n/a | ~3 min

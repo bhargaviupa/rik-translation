@@ -16594,5 +16594,65 @@
   ],
   "note": "ZOOMED, read: header Varga 18",
   "answer": ""
+ },
+ {
+  "pdf": 422,
+  "printed": 402,
+  "crop": [
+   0.736,
+   0.757,
+   0.695,
+   0.797
+  ],
+  "note": "ZOOMED, read: Ni. 10-2",
+  "answer": ""
+ },
+ {
+  "pdf": 423,
+  "printed": 403,
+  "crop": [
+   0.363,
+   0.383,
+   0.336,
+   0.437
+  ],
+  "note": "ZOOMED, read: Ni. 10-2; FILE DISAGREE: file said 10-76",
+  "answer": ""
+ },
+ {
+  "pdf": 423,
+  "printed": 403,
+  "crop": [
+   0.614,
+   0.638,
+   0.222,
+   0.678
+  ],
+  "note": "ZOOMED, read: prandhamsiva (5-41-3)",
+  "answer": ""
+ },
+ {
+  "pdf": 424,
+  "printed": 404,
+  "crop": [
+   0.573,
+   0.597,
+   0.269,
+   0.769
+  ],
+  "note": "ZOOMED, read: shrnotvaturtapantha",
+  "answer": ""
+ },
+ {
+  "pdf": 424,
+  "printed": 404,
+  "crop": [
+   0.692,
+   0.718,
+   0.269,
+   0.684
+  ],
+  "note": "UNDECIDED: kakshri-va [?] (1-126-2)",
+  "answer": ""
  }
 ]
