@@ -20206,4 +20206,128 @@ undisturbed; who is steady in (his own) place, and is the cherisher of thousands
 
 ---
 
-**Progress note:** Done through printed p. 541 (PDF 563). The page headers show the numbers 539, 540 and 541 for PDF 561, 562 and 563. The task labelled these pages 540–542, but the offset printed = PDF − 22 holds, so the pages are labelled with the numbers actually printed. In the chunk, the "Printed p. 542" heading that sits before the second strip of PDF 563 is a mistake: that strip belongs to printed p. 541, and it was written under the wrong heading. Sūkta 9, Ṛk 1: the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Viśeṣaviṣayagaḷu are written. The Viśeṣaviṣaya has reached the Agnipraṇayana excerpt from the Aitareya Brāhmaṇa. It stops inside the bracketed explanation of the first of the eight Ṛks, "[ಈ ಋಕ್ಕಿನ ಮುಖ್ಯಾಭಿಪ್ರಾಯವು …", which ends at "ಹೋಗಿ." at the foot of printed p. 541. The next batch begins at the top of printed p. 542 (PDF 564) and continues that explanation. Flags: FILE DISAGREE none (the numeral file has no rows). Unzoomed and doubtful: Ni. 2-9 [?]; Ai. Brā. 1-28 [?]; Ṛk. Saṃ. 10-176-2 [?]; "7th and 8th Ṛks" [?]; the Brāhmaṇa quotation reading असदत्सुदक्ष/असपत्सदक्ष [?]; the word ವೇದೀನಾಭಿಃ ("uttaravedīnābhis") in the Brāhmaṇa quotation [?]. The Kannada heading "ಅಗ್ನಿಪ್ರಣಯನವೆಂಬ ಕರ್ಮವು" was entered partly in Devanagari in error ("अग्निप्रणयनवೆಂಬ"); it needs correction in a later review.
+### Printed p. 542 (PDF 564)
+
+*(Header: **542**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 543; the number printed on it is 542, which agrees with the offset printed = PDF − 22. The numeral file has no rows for this page. This page continues the bracketed explanation left open at the foot of printed p. 541. It is the continuation of the Agnipraṇayana excerpt in the Viśeṣaviṣayagaḷu of Ṛk 1. The earlier heading "Printed p. 542 (PDF 564 begins)" in the text above was written in error and should be disregarded.)*
+
+(Kannada, translated, continuing the bracket:) "… Afterwards this Agni says: 'May he carry to the deities the oblations and the like that we offer.']. The Ṛk spoken above is of the Gāyatrī metre. Why should a Ṛk of this metre be recited? —"
+
+*(Brāhmaṇa passage in bold in the print; the first word reads गायत्रो as printed.)*
+
+> गायत्रो वै ब्राह्मणस्तेजो वै ब्रह्मवर्चसं गायत्री तेजस्यैवैनं तद्ब्रह्मवर्चसेन समर्धयति ॥
+
+> *gāyatro vai brāhmaṇastejo vai brahmavarcasaṃ gāyatrī tejasyaivainaṃ tadbrahmavarcasena samardhayati ‖*
+
+(Kannada, translated:) If the yajamāna who performs the sacrifice is a Brāhmaṇa, a Ṛk of the Gāyatrī metre must be recited. The reason is that the Brāhmaṇa has the nature of the Gāyatrī. Because the Brāhmaṇa is born from the mouth of Prajāpati (Parabrahman) (ब्राह्मणोऽस्य मुखमासीत् (*brāhmaṇo 'sya mukhamāsīt*) Ṛ. Saṃ. 10-90-12 [?], numerals read, not zoomed), the *tejas* (radiance) of Prajāpati is in the Brāhmaṇa. In the Gāyatrī too there is such *brahmavarcas* (the radiance of sacred knowledge). Therefore the Brāhmaṇa must carry this rite through with a Ṛk of the Gāyatrī metre, which is endowed with *brahmavarcas*. On the question which metres' Ṛks the Brāhmaṇa, Kṣatriya and Vaiśya should recite in order to carry the sacrificial rites through, the Brāhmaṇa passage of the Taittirīya (Yajurveda) reads thus—
+
+*(In the Brāhmaṇa quotation: the printed त्रिष्टुग्भी is kept as printed. The word प्रत्ययनस्त्वाय, read from the strip and not zoomed, is doubtful [?].)*
+
+> गायत्रीभिर्ब्राह्मणस्याद्ध्यात् । गायत्रच्छन्दा वै ब्राह्मणः । स्वस्य छन्दसः प्रत्ययनस्त्वाय [?] । त्रिष्टुग्भी राजन्यस्य । त्रिष्टुप्छन्दा वै राजन्यः । स्वस्य छन्दसः प्रत्ययनस्त्वाय [?] । जगतीभिर्वैश्यस्य । जगतीछन्दा वै वैश्यः । स्वस्य छन्दसः प्रत्ययनस्त्वाय [?] ॥
+
+> *gāyatrībhirbrāhmaṇasyāddhyāt | gāyatracchandā vai brāhmaṇaḥ | svasya chandasaḥ pratyayanastvāya [?] | triṣṭugbhī rājanyasya | triṣṭupchandā vai rājanyaḥ | svasya chandasaḥ pratyayanastvāya [?] | jagatībhirvaiśyasya | jagatīchandā vai vaiśyaḥ | svasya chandasaḥ pratyayanastvāya [?] ‖*
+
+(Printed reference: Taittirīya Brāhmaṇa 1-1-9-6, 7 [?], numerals read, not zoomed.)
+
+(Kannada, translated:) That is, the Brāhmaṇa must carry through the *agnyādhāna* (the rite performed afresh) only with mantras of the Gāyatrī metre, because the Brāhmaṇa has the nature of the Gāyatrī metre. For that very reason, to obtain *brahmavarcas*, the sacrificial rites must be performed using Ṛks of the Gāyatrī metre. In the same way it is said that Kṣatriyas must carry the sacrificial rites through with Ṛks of the Triṣṭup metre, and Vaiśyas with Ṛks of the Jagatī metre. Because it is so said, if the yajamāna who performs the sacrifice is a Kṣatriya, then in the Agnipraṇayana rite—
+
+> इमं महे विदथ्याय शूषमिति त्रिष्टुभं राजन्यस्यानुब्रूयात् त्रैष्टुभो वै राजन्य ओजो वा इन्द्रियं वीर्यं त्रिष्टुबोजस्यैवैनं तदिन्द्रियेण वीर्येण समर्धयति ।
+
+> *imaṃ mahe vidathyāya śūṣamiti triṣṭubhaṃ rājanyasyānubrūyāt traiṣṭubho vai rājanya ojo vā indriyaṃ vīryaṃ triṣṭubojasyaivainaṃ tadindriyeṇa vīryeṇa samardhayati |*
+
+(Kannada, translated:) the Ṛk of the Triṣṭup metre beginning इमं महे विदथ्याय शूषं (*imaṃ mahe vidathyāya śūṣaṃ*) must be recited. The reason is that the Kṣatriya is born from the arm of Prajāpati (बाहू राजन्यः कृतः (*bāhū rājanyaḥ kṛtaḥ*) Ṛ. Saṃ. 10-90-12 [?]). The arm is the sign of *ojas* (strength), *indriya* and *vīrya* (strength, valour, power and capacity). Because *ojas* and the rest are obtained from the Triṣṭup metre, the one who is a Kṣatriya must carry the sacrificial rite through with Ṛks of the Triṣṭup metre. For that very reason the hotṛ—
+
+*(The words त्रिष्टुभं and त्रैष्टुभो in the Brāhmaṇa quotation are read from the strip and not zoomed [?].)*
+
+---
+
+### Printed p. 543 (PDF 565)
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 1", "Ṛgvedasaṃhitā", and the printed number **543**. The task labelled this page 544. The numeral file has no rows for this page.)*
+
+(1) The Ṛk (the Triṣṭup recited for the Kṣatriya):
+
+> इमं महे विदथ्याय शूषं शश्वत् कृत्व ईड्याय प्र जभ्रुः ।
+> शृणोतु नो दम्येभिरनीकैः शृणोत्वग्निर्दिव्यैरजस्रः ॥
+
+> *imaṃ mahe vidathyāya śūṣaṃ śaśvat kṛtva īḍyāya pra jabhruḥ |*
+> *śṛṇotu no damyebhiranīkaiḥ śṛṇotvagnirdivyairajasraḥ ‖*
+
+(Printed reference: Ṛ. Saṃ. 3-54-1 [?]; numerals read, not zoomed.)
+
+(Kannada, translated:) he recites this Ṛk of the Triṣṭup metre. The explanation of the meaning of this Ṛk is likewise given in the Brāhmaṇa passage itself—
+
+> शश्वत्कृत्व ईड्याय प्रजभ्रुरिति स्वानामेवैनं तच्छ्रैष्ठ्यं गमयति शृणोतु नो दम्येभिरनीकैः शृणोत्वग्निर्दिव्यैरजस्र इति अजरसं हास्मिन्नोजसो दीदाय य एवं वेद ॥
+
+> *śaśvatkṛtva īḍyāya prajabhruriti svānāmevainaṃ tacchraiṣṭhyaṃ gamayati śṛṇotu no damyebhiranīkaiḥ śṛṇotvagnirdivyairajasra iti ajarasaṃ hāsminnojaso dīdāya ya evaṃ veda ‖*
+
+(Kannada, translated:) The meaning of the Ṛk beginning इमं महे (*imaṃ mahe*) is as follows. The ṛtviks brought Agni, the cause of happiness, to the Uttaravedi (for the success of the kings' sacrifice). Agni is always to be praised. The hotṛ makes the yajamāna the chief (so that he stands in front of his kinsmen) and leads him, calling him. This is the meaning of the first half of the Ṛk. The meaning of the second half is: in order to keep the yajamāna's enemy armies under control, may Agni, helping the yajamāna with his troops in the form of flames, listen to our stotras and the like. May Agni know the sacrificial rites that the yajamānas perform well. And may this Agni, endowed with enjoyments fit for the world of the gods and staying in our houses, always, that is to say throughout their lifetime, go on protecting our yajamānas. This is the chief meaning. Now the mantras that Vaiśyas must recite are these—
+
+*(In the first word of the Brāhmaṇa quotation the initial vowel looks like आ, but the Ṛk below has अ. It is written अयमिह and flagged [?].)*
+
+> अयमिह [?] प्रथमो धायि धातृभिरिति जगतीं वैश्यस्यानुब्रूयात् । जागतो वै वैश्यो जागताः पशवः पशुभिरेवैनं तत्समर्धयति । वनेषु चित्रं विभ्वं विशेविश इत्यभिरूपा यद्यज्ञोऽभिरूपं तत्समृद्धम् ॥
+
+> *ayamiha [?] prathamo dhāyi dhātṛbhiriti jagatīṃ vaiśyasyānubrūyāt | jāgato vai vaiśyo jāgatāḥ paśavaḥ paśubhirevainaṃ tatsamardhayati | vaneṣu citraṃ vibhvaṃ viśeviśa ityabhirūpā yadyajño 'bhirūpaṃ tatsamṛddham ‖*
+
+(Kannada, translated:) The Vaiśya is born from the middle region or the thigh of Prajāpati (ऊरू तदस्य यद्वैश्यः (*ūrū tadasya yadvaiśyaḥ*) Ṛ. Saṃ. 10-90-12 [?]). This matter is stated in the Taittirīya Saṃhitā thus—
+
+> मध्यतः सप्तदशं निरमिमीत तं विश्वे देवा देवता अन्वसृज्यंत जगतीछंदो वैरूपं साम तस्माद्वैश्यो वै मनुष्याणां ।
+
+> *madhyataḥ saptadaśaṃ niramimīta taṃ viśve devā devatā anvasṛjyaṃta jagatīchaṃdo vairūpaṃ sāma tasmādvaiśyo vai manuṣyāṇāṃ |*
+
+(Kannada, translated:) The Vaiśya has the nature of the Jagatī metre. For the animals too (wealth of cattle) have the nature of the Jagatī metre. If the Vaiśya is to be made endowed with this wealth of cattle, he must recite Ṛks of the Jagatī metre and carry the sacrificial rite through. Therefore, if the yajamāna who performs the sacrifice is a Vaiśya, the hotṛ recites—
+
+*(In the Taittirīya Saṃhitā quotation the word निरमिमीत is split across a line break in the print. The reading निरमि-मीत is not zoomed [?]. The bhāṣya reference "तै. सं." is not given in the print for this passage.)*
+
+(1) The Ṛk (the Jagatī recited for the Vaiśya):
+
+> अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः ।
+> यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभ्वं विशेविशे ॥
+
+> *ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ |*
+> *yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhvaṃ viśeviśe ‖*
+
+(Printed reference: Ṛ. Saṃ. 4-7-1 [?]; numerals read, not zoomed.)
+
+---
+
+### Printed p. 544 (PDF 566)
+
+*(Header: **544**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 545. The numeral file has no rows for this page.)*
+
+(Kannada, translated:) he recites this Ṛk of the Jagatī metre. The reason is that, as said before, the Vaiśya belongs to the Jagatī metre. The animals (wealth of cattle) too belong to the same class. Therefore the Vaiśya recites the mantra of the Jagatī metre in order to grow endowed with wealth. In the last pāda of this Ṛk there is a word that points to the word *vaiśya*, namely विशेविशे (*viśeviśe*). In sacrifices, if one recites Ṛks that are joined with words suited to each context, the desired fruit is obtained in a special degree. Therefore the recitation here of this Ṛk of the Jagatī metre, which carries a word pointing to the Vaiśya, is in accordance with this context. In this way, according to the fruit that the Brāhmaṇa, the Kṣatriya and the Vaiśya each desire, the hotṛ recites one first mantra (Ṛk) in each of the three different metres, the Gāyatrī, the Triṣṭup and the Jagatī. Now he recites the second Ṛk (mantra), which people of all the varṇas must recite in common in this Agnipraṇayana rite—
+
+*(In the Brāhmaṇa quotation the words यो (before पुरा) and वाचैव are read from the strip and not zoomed [?].)*
+
+> अयमु ष्य प्र देवयुरिति अनुष्टुभि वाचं विसृजते । वाग्वा अनुष्टुब्वाचैव [?] तद्वाचं विसृजते । अयमु ष्य इति यदाहायमु स्यागमं यो [?] पुरा गंधर्वेष्ववाक्समित्येव तद्वाक्ब्रूते ॥
+
+> *ayamu ṣya pra devayuriti anuṣṭubhi vācaṃ visṛjate | vāgvā anuṣṭubvācaiva [?] tadvācaṃ visṛjate | ayamu ṣya iti yadāhāyamu syāgamaṃ yo [?] purā gaṃdharveṣvavāksamityeva tadvākbrūte ‖*
+
+(Kannada, translated:) At the time of Somakrayaṇa too, in the rites performed from then up to now, the mantras were recited in the *upāṃśu* manner, that is, in a low voice. According to the injunction that mantras are to be recited in a soft sound, they were recited in a low sound. Now, that is, from here onwards, that rule is released (*visarjana*). That is, the soft speaking is given up and the mantras are recited in a loud sound. This procedure is called *vāco-visarjana* (the release of speech). It is well known that this is begun with a Ṛk of the Anuṣṭup metre. The reason is that speech (*vāk*) itself has the nature of the Anuṣṭup metre. Therefore, with a mantra of that very metre the soft speaking is released. So the hotṛ—
+
+(2) The Ṛk:
+
+> अयमु ष्य प्र देवयुर्होता यज्ञाय नीयते ।
+> रथो न योरभीवृतो घृणीवाञ्चेतति त्मना ॥
+
+> *ayamu ṣya pra devayurhotā yajñāya nīyate |*
+> *ratho na yorabhīvṛto ghṛṇīvāñcetati tmanā ‖*
+
+(Printed reference: Ṛ. Saṃ. 10-176-3 [?]; numerals read, not zoomed. The word घृणीवाञ्चेतति is as read from the strip.)
+
+(Kannada, translated:) he recites this Ṛk loudly. This speech (the goddess of speech, Vāgdevatā) was formerly among the Gandharvas. Now it speaks thus (the Kannada word is printed ಬೇಳುವುದು, [sic], presumably for ಹೇಳುವುದು): "Formerly, at the time of Somakrayaṇa, I was among the Gandharvas. Now I have come back." Since it is so said, the hotṛ recites the mantra loudly accordingly.
+
+In the matter of the goddess of speech having been among the Gandharvas and now having come back, an *upākhyāna* (story) is told in the Taittirīya Saṃhitā. The print gives the passage with dots for omitted words—
+
+*(The dots in the Sanskrit passage are as printed; the reference "तै. सं. 6-1-6-5, 6" is read, not zoomed [?].)*
+
+> तेग्ं सोममाह्रियमाणं गन्धर्वो विश्वावसुः पर्यमुष्णात् स ………………… तेभ्य इव ददति ॥
+
+> *tegṃ somamāhriyamāṇaṃ gandharvo viśvāvasuḥ paryamuṣṇāt sa ………………… tebhya iva dadati ‖*
+
+(Kannada, translated:) While the Soma was being brought from the heavenly world, on the way (in the middle of the path) the Gandharva named Viśvāvasu stole it, and—
+
+*(The sentence runs on to the next page of the print; it is left open at the word ಕದ್ದು, "stole".)*
+
+---
+
+**Progress note:** Done through printed p. 544 (PDF 566). The page headers print 542, 543 and 544 for PDF 564, 565 and 566, although the task labelled them 543–545; the offset printed = PDF − 22 holds, so the actual printed numbers are used. Sūkta 9, Ṛk 1: the Viśeṣaviṣayagaḷu (the Agnipraṇayana excerpt from the Aitareya Brāhmaṇa) is in progress. The bracket left open on printed p. 541 is closed. The Brāhmaṇa passages for the Brāhmaṇa (Gāyatrī), the Kṣatriya (Triṣṭup) and the Vaiśya (Jagatī) are written, as is the beginning of the second Ṛk (Anuṣṭup, "अयमु ष्य"). The text stops mid-sentence at the foot of printed p. 544 inside the Taittirīya Saṃhitā upākhyāna of the Gandharva Viśvāvasu stealing the Soma, at "ಕದ್ದು". The next batch starts at the top of printed p. 545 (PDF 567) and continues that sentence. Flags: FILE DISAGREE none (the numeral file has no rows for these pages). Unzoomed numerals and doubtful readings: Ṛ. Saṃ. 10-90-12 (three times) [?]; Tai. Brā. 1-1-9-6, 7 [?]; Ṛ. Saṃ. 3-54-1 [?]; Ṛ. Saṃ. 4-7-1 [?]; Ṛ. Saṃ. 10-176-3 [?]; Tai. Saṃ. 6-1-6-5, 6 [?]; प्रत्ययनस्त्वाय [?]; त्रिष्टुभं/त्रैष्टुभो; the initial vowel of अयमिह in the Vaiśya Brāhmaṇa quotation [?]; निरमिमीत (split by a line break) [?]; यो पुरा [?]; वाचैव [?]. The wrong heading "Printed p. 542 (PDF 564 begins)" in the earlier chunk is superseded by the correct heading above.
