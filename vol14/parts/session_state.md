@@ -134,3 +134,5 @@ Batch 64 (Sonnet #21): done through printed p. 374 (PDF 394). Sūkta 191 COMPLET
 Batch 65 (Sonnet #22): done through printed p. 377 (PDF 397). Maṇḍala 2 title + Pīṭhike complete; Sūkta 1 starts p. 378 (PDF 398). Numeral file lacked PDF 395, 397 (header/Pīṭhike numerals [?], 4 UNDECIDED logged); p.396 header read from file 'Maṃ. 2 A. 1 Sū. 1'. 0 zooms.
 
 Batch 66 (Sonnet #23): done through printed p. 380 (PDF 400). Maṇḍala 2 Sūkta 1 begun; Ṛk 1 OPEN: Saṃhitā…Bhāvārtha written; printed English, Special Topics, grammar from p. 381 = PDF 401. [?] x3 in Ṛk 1 bhāṣya (नित्यस्वानित्वं, आज्युपपदे, सनंतसु). Varga 17/18/19 read from strip (no file rows). 2 zooms.
+
+Batch 67 (Sonnet #24): done through printed p. 383 (PDF 403). Sūkta 1 Ṛk 1 OPEN: printed English + Special Topics (breaks mid-passage at foot of p.383, Sāyaṇa on Ṛk 2-12-3 'यश्चाश्मनोः…'); grammar next p. 384 = PDF 404. [?] x3 (Aitareya Br. avamaḥ/upamaḥ; Nirukta 6-1 words). Nir 7-14 kept from file (ambiguous 2/7, unzoomed, not in doubt.py). Varga 17 in headers pp.381,383 from strip. TO RECHECK: Ṛk 1 bhāṣya [?] pp.380 vs 382 ('resolved' claim overstated). 0 zooms.

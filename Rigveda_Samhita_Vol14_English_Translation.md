@@ -13325,4 +13325,134 @@ O Agni, lord and protector of men, you are born on the sacrificial days for the 
 
 ---
 
-**Progress note:** Done through printed p. 380 (PDF 400). Mandala 2 Sukta 1 begun (half-title, bhasya, Anuvada, heading block; Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha written). Rk 1 OPEN: printed English, Special Topics and grammar to follow on p. 381. Flags: Varga numerals p. 379 header and heading block (17, 18, 19) read from strip, no file rows; [?] in Rk 1 bhasya (nityasvanitvam, ajyupapade, sanantasu). 3 [?] places, 2 zooms.
+### Printed p. 381 (PDF 401)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 17 [?]" as read from the strip, no numeral row in the file; "Ṛgvedasaṃhitā".)*
+
+**Printed English of Ṛk 1 (Latin type):**
+
+"Sovereign of men, Agni, you are born for the days (of sacrifice), pure and all-irradiating, from the waters, from the stones, from trees, and from plants."
+
+**॥ विशेषविषयाः ॥ (Viśeṣaviṣayagaḷu — Special Topics)**
+
+In the first Ṛk of this first sūkta, seen by the ṛṣi Gṛtsamada, the various orders of Agni's origin are described; the commentary says it will explain these origins briefly.
+
+त्वं अग्ने नृणां नृपते (*tvaṃ agne nṛṇāṃ nṛpate*) — the ṛṣi addresses Agni with these words. The derivation and various meanings of the word Agni were explained at length in Ṛk. Saṃ. Part 1, pp. 612-614 (printed as "612-614"); here only the bhāṣyakāra's phrase अग्रणीत्यादिगुणविशिष्ट (*agraṇītyādiguṇaviśiṣṭa*) is explained. Yāska says in his Nirukta —
+
+> अग्निः कस्मादग्रणीर्भवत्यग्रं यज्ञेषु प्रणीयतेऽज्ञं नयतीति ।
+
+> *agniḥ kasmādagraṇīrbhavatyagraṃ yajñeṣu praṇīyate 'jñaṃ nayatīti |*
+
+*(Nirukta 7-14, numeral from the file; the word before नयति is printed with the ज्ञ conjunct, as read.)*
+
+That is: Agni has the first place in sacrifices and the like; the word *agra* means chief, hence Agni has the chief place among the deities. When fire is produced in the sacrifice from the two kindling sticks (araṇi) it is at once placed in the Āhavanīya fire-pit, and from there is carried to the Gārhapatya fire-pit; therefore Agni is called अग्रणीः (*agraṇīḥ*). Or अग्रणीः (*agraṇīḥ*) means one who himself (*tāne*) leads the army of the gods, or one who is in front of it as its leader (*nāyaka*, printed also "or Leader"). This is the first reason for the name. Besides, in another Brāhmaṇa it is said:
+
+> अग्निर्देवानां सेनानीः
+
+> *agnirdevānāṃ senānīḥ*
+
+and following this the Ṛgvedic students read in their Mantra-brāhmaṇa:
+
+> अग्निर्मुखं प्रथमो देवतानां
+
+*(Ai. Brā. 1-4, numeral as in the file.)* In another part of the Aitareya Brāhmaṇa:
+
+> अग्निर्वै देवानामवमः [?]
+
+*(Ai. Brā. 1-1-1; the word before the visarga is not certain between ava- and upa- shapes, left as read with [?].)* And in the Taittirīya Brāhmaṇa also:
+
+> अग्निरग्रे प्रथमो देवतानां
+
+*(Tai. Brā. 2-4-3-3)* and also
+
+> अग्निरवमो देवतानां
+
+> *agniravamo devatānāṃ*
+
+From these examples Agni is the first among the deities, one in the foremost place, the leader. In the Śukla Yajurveda (Vā. Saṃ., no reference printed):
+
+> स वा विषोऽग्रे देवतानामजायत तस्मादग्निर्नामेति
+
+> *sa vā viṣo 'gre devatānāmajāyata tasmādagnirnāmeti*
+
+meaning: this Agni was born first among the deities, therefore he is called Agni.
+
+नृणां नृपते (*nṛṇāṃ nṛpate*) — the bhāṣya passage (already given above under Ṛk 1: मनुष्याणां मध्ये ये नराः यष्टारः सन्ति तेषां विशेषेण पालयितः । यद्वोभाभ्यां पदाभ्यां बहुत्वं नित्यस्वामित्वं च प्रतिपाद्यते । सर्वेषामपि नराणां नित्यपालकेत्यर्थः ॥ (*manuṣyāṇāṃ madhye ye narāḥ yaṣṭāraḥ santi teṣāṃ viśeṣeṇa pālayitaḥ | yadvobhābhyāṃ padābhyāṃ bahutvaṃ nityasvāmitvaṃ ca pratipādyate | sarveṣāmapi narāṇāṃ nityapālaketyarthaḥ ‖*)) is explained: among men, those men who perform sacrifices, the yajamānas — Agni is the protector of those; (continued on p. 382).
+
+---
+
+---
+
+### Printed p. 382 (PDF 402)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. [1]" — the sūkta numeral is the ∩-shaped numeral for 1.)*
+
+**Special Topics, continued.** ...that is, Agni protects all who sacrifice; or, since the two words नृणां नृपते (*nṛṇāṃ nṛpate*) indicate lordship over many people, the main sense is that this Agni is the protector of all people at all times.
+
+त्वमग्ने द्युभिः (*tvamagne dyubhiḥ*) — the bhāṣya reads:
+
+> त्वमग्ने द्युभिः — यागदिवसैर्निमित्तभूतैर्जायसे । यागार्थं मथनेनोत्पद्यस इत्यर्थः । यद्वा तादृशैर्दिवसैः सहितो जायसे । तत्तद्यागदिवसेषु प्रसिद्धो भवसीत्यर्थः ।
+
+> *tvamagne dyubhiḥ — yāgadivasairnimittabhūtairjāyase | yāgārthaṃ mathanenotpadyasa ityarthaḥ | yadvā tādṛśairdivasaiḥ sahito jāyase | tattadyāgadivaseṣu prasiddho bhavasītyarthaḥ |*
+
+(Printed in the source with the ending …भवसीत्यर्थः (*…bhavasītyarthaḥ*); the same text as in the bhāṣya above.) Kannada explanation: O Agni, you are born on the sacrificial days; that is, for the sake of the sacrifice (sacrifice is by Agni itself) you are produced by churning the araṇis; or, on those sacrificial days, that is on the days of sacrifice performed by the yajamānas, you are born accompanied by those days, that is, as famous; so also the meaning.
+
+त्वमाशुशुक्षणिः (*tvamāśuśukṣaṇiḥ*) — explaining this word the bhāṣyakāra says:
+
+> त्वमाशुशुक्षणिर्जायसे । आ सर्वतो दीप्यमानो भवसि । आज्युपपदे शुच दीप्ताविन्त्येतस्य छांदसमिदं रूपं । यद्वा आशु शीघ्रं शुच् दीप्तः सन् यतः स सेव्यते इति । आशु शुचं शोकं सनोति ददाति शत्रुभ्यो दाहादिनेत्याशुशुक्षणिः । तादृशो भवति ॥
+
+> *tvamāśuśukṣaṇirjāyase | ā sarvato dīpyamāno bhavasi | ājyupapade śuca dīptāvintyetasya chāṃdasamidaṃ rūpaṃ | yadvā āśu śīghraṃ śuc dīptaḥ san yataḥ sa sevyate iti | āśu śucaṃ śokaṃ sanoti dadāti śatrubhyo dāhādinetyāśuśukṣaṇiḥ | tādṛśo bhavati ‖*
+
+*(This is the version printed here; it differs a little from the bhāṣya as I read it earlier in Ṛk 1, where [?] stand: here the text reads आज्युपपदे and has no सनंतसु; the earlier [?] places are better resolved by this clearer printing — see flags.)* Kannada: O Agni, you shine all around; from the root शुच् (*śuc*) giving the sense "to shine", with the prefix ā, this is the Vedic form आशुशुक्षणिः (*āśuśukṣaṇiḥ*); or आशु (*āśu*) (alertly) शुच् (*śuc*) (shining), and क्षणिः (*kṣaṇiḥ*) — because he is served; or by his power of burning he confers शुचं (*śucaṃ*) (sorrow) quickly (सनोति (*sanoti*)) on enemies; hence आशुशुक्षणिः (*āśuśukṣaṇiḥ*). To explain this word Yāska, taking this very Ṛk as example, gives its derivation in his Nirukta —
+
+> त्वमग्ने द्युभिरहोभिस्त्वमाशुशुक्षणिः । आशु इति च शु इति च क्षिप्रनामनी भवतः । क्षणिरुत्तरः क्षणोतेः आशु शुचा क्षणोतीति वा सनोतीति वा ॥ शुक् शोचतेः । पंचम्यर्थे वा प्रथमा । तथा हि वाक्संयोग आ इत्याकार उपसर्गः पुरस्ताच्चिकीर्षितज [?] उत्तर आशु शोचयिषुरिति । शुचिः शोचतेर्ज्वलतिकर्मणः । आयुमुपीतरः [?] शुचिरेतस्मादेव । निष्षिक्तमस्मात् पापकमिति नैरुक्ताः ॥
+
+*(Nirukta 6-1, numerals "೬-೧" as in the file, 6.1.)*
+
+That is: आशु (*āśu*) and शु (*śu*) are both names meaning *kṣipra* (swift). The word क्षणिः (*kṣaṇiḥ*) is formed from the root क्षणोति (*kṣaṇoti*) giving the sense of injuring; or it may be formed from the root सनोति (*sanoti*) meaning "to obtain"/"to give". The syllable शु (*śu*) in the middle is a synonym of शुचि (*śuci*) giving the sense "to shine". Hence आशुशुक्षणिः (*āśuśukṣaṇiḥ*) means that Agni, by his own radiance, is alert and injures (burns) (enemies), or quickly provides what the sacrificer needs. *(continued on p. 383)*
+
+---
+
+---
+
+### Printed p. 383 (PDF 403)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 17 [?]" as read, no numeral row in the file; "Ṛgvedasaṃhitā".)*
+
+**Special Topics, continued.** (...that is, one who, with his radiance, is alert and burns the enemies, or provides quickly what the yajamāna needs.)
+
+Or the word शुक् (*śuk*) is formed from the root शुच् (*śuc*) "to shine"; the first case is used here in the sense of the fifth case. आ (*ā*) is the prefix. So if in आ + शुशुक्षणिः (*ā + śuśukṣaṇiḥ*) the word शुशुक्षणि (*śuśukṣaṇi*) is taken to express a desiderative sense (*cikīrṣita*), then आशुशुक्षणिः (*āśuśukṣaṇiḥ*) means "one who wishes to shine all around" (Agni).
+
+Or the word शुचिः (*śuciḥ*) may be formed from the root शोचति (*śocati*) meaning "to shine"; the above meanings fit in this context. There is also another meaning of शुचिः (*śuciḥ*): pure, clean, sinless. In this view अ + आशुशुक्षणिः (*a + āśuśukṣaṇiḥ*) = आशुशुक्षणिः (*āśuśukṣaṇiḥ*) means "one who is sinless" (Agni). *(Printed in English inside the Kannada: "(अ denotes negative. As there are two अ s, two negetives [sic] make an offirmative [sic]; Sinless)" — the source's words as read: "negetives", "offirmative" are my reading of the print, "negatives"/"affirmative" may be the true spelling; left as read.)* The Nairuktas accept such an explanation.
+
+द्युभिः अहोभिः (*dyubhiḥ ahobhiḥ*) — on the days fit for sacrifice, Pūrṇimā, Amāvāsyā and the like, you are produced by churning Agni for the sacrifice; on such days you are born — so he addressed Agni and said.
+
+त्वमद्भ्यः (*tvamadbhyaḥ*) — the bhāṣya:
+
+> त्वमद्भ्यः — त्वमद्भ्यो वृष्ट्युदकेभ्यो जायसे वैद्युतरूपेण वाडवरूपेण वा समुद्रोदकेभ्यः ।
+
+> *tvamadbhyaḥ — tvamadbhyo vṛṣṭyudakebhyo jāyase vaidyutarūpeṇa vāḍavarūpeṇa vā samudrodakebhyaḥ |*
+
+Kannada: you are born from water; that is, when rain is falling, in the form of lightning born in the clouds, or in the form of the Vāḍava (submarine) fire seen in the sea-water, you are born, so he praised.
+
+त्वमश्मनस्परि (*tvamaśmanaspari*) — the bhāṣya:
+
+> त्वमश्मनस्परि — अश्मनो मेघात्पाषाणाद्वा ।
+
+> *tvamaśmanaspari — aśmano meghātpāṣāṇādvā |*
+
+The word अश्मा (*aśmā*) is read among the cloud-names (Nirukta 2-21, numerals as in the file); so you are born from the clouds in the form of lightning. Or since अश्मन् (*aśman*) also means stone, rock, you are born from the friction of two stones. (In earlier times, when matchsticks were not in use, fire used to be made from flint stones.) On the point that Agni is born from the clouds in the form of lightning the bhāṣyakāra has given as example the Ṛk —
+
+> यो हत्वाहिमरिणात्सप्त सिन्धून्यो गा उदाजदपधा वलस्य । यो अश्मनोरंतरग्निं जजान संवृक्समत्सु स जनास इंद्रः ॥
+
+*(Ṛ. Saṃ. 2-12-3 — numerals as in the file.)* In explaining the sense of this Ṛk Sāyaṇa says —
+
+> यश्चाश्मनोः अश्नुते व्याप्नोत्यंतरिक्षमिति अश्मा मेघः । अत्यंतमृदुरूपयोः … *(the line runs on to p. 384)*
+
+> *yaścāśmanoḥ aśnute vyāpnotyaṃtarikṣamiti aśmā meghaḥ | atyaṃtamṛdurūpayoḥ … *(the line runs on to p. 384)**
+
+---
+
+---
+
+**Progress note:** Done through printed p. 383 (PDF 403). Mandala 2 Sukta 1 Rk 1 OPEN: printed English and Special Topics in progress (Rk 1 Special Topic quote of Sayana on Rg 2-12-3 breaks off mid-line at foot of p. 383); grammar to follow. Flags: Varga numeral in headers pp. 381 and 383 read as 17 from strip, no file rows; Nirukta 7-14 (file) read ambiguously 2/7-14; [?] in Ai. Br. quote (avamah/upamah), Nirukta 6-1 quote (purastacchikirsitaja, ayumupitarah); earlier Rk 1 bhasya [?] (nityasvamitvam, ajyupapade) clarified by the clearer printing on p. 382. 3 [?] places, 0 zooms.
