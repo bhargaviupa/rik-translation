@@ -18835,4 +18835,146 @@ Youngest (of the gods), their messenger, their invoker, most deserving of worshi
 
 ---
 
-**Progress note:** Done through printed p. 514 (PDF 535). Maṇḍala 2, Sūkta 6: Ṛk 4 completed on p. 512 (Special Topics on ⟦मघवा⟧ and ⟦सूरिः⟧). Ṛk 5 complete on pp. 512–513 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); no Special Topics printed for it. Ṛk 6 complete on pp. 513–514 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); no Special Topics printed. Ṛk 7 begun on p. 514 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha begun); **Ṛk 7 is open: its Bhāvārtha continues on p. 515, followed by printed English and any Special Topics.** FILE DISAGREE: none (the numeral file has no rows for pp. 512–514). Not zoomed: Varga 27 in the header of p. 513; Ṛk numerals 5, 6, 7 (read from the strips; 7 consistent with the sequence); Nirukta references on p. 512 (2-9, 1-7, 2-19 [?]); the bhāṣya reference "4-8-4" on p. 514 [?]. [?] places: p. 514 Saṃhitā ⟦दूते⟧ against Pada ⟦दूतः⟧; Pada ⟦जन्याऽ इव⟧ sign; bhāṣya ⟦हिः⟧ (visarga), ⟦यष्टृणां⟧, ⟦जनेभ्यो⟧ (print ज इभ्यो); p. 512 ⟦महंते°⟧. The signature mark "[33] Vol. 14" noted at the foot of p. 513.
+### Printed p. 515 (PDF 536)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 27 ]" [numeral not zoomed], "Ṛgvedasaṃhitā", "515". The numeral file has no rows for this page. The Bhāvārtha of Ṛk 7 continues from p. 514.)*
+
+**भावार्थ (Bhāvārtha — Ṛk 7, continued)**
+
+(Kannada, translated:) …as a messenger, knowing his master's mind, does what is good for him, so you also enter into the hearts of people, know their several intentions (*iṅgita*), and fulfil their desires.
+
+**English Translation** *(as printed, Ṛk 7)*
+
+Sage Agni, you penetrate the innermost (man) knowing the birth of both (the worshipper and the worshipped) ; like a messenger favourable to men, especially to his friends.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 7)**
+
+(Kannada, translated.) **अंतः हि अग्ने ईयसे (*aṃtaḥ hi agne īyase*)** — "O Agni, you enter the hearts of people", that is, you know all the matters that are in people's hearts or minds: this is the sense intended. The same sense is indicated (by the following). The bhāṣyakāra has given as an example the Ṛk
+
+> स होता सेदु दूत्यं चिकित्वाँ अंतरीयते ।
+
+> *sa hotā sedu dūtyaṃ cikitvā~ aṃtarīyate |*
+
+(Ṛ. Saṃ. 4-8-4: printed ळ-ल-ळ.) *(This confirms the reference read "4-8-4 [?]" in the bhāṣya of p. 514.)* But in the bhāṣya on that Ṛk the idea "entering the hearts of people he knows what is in their minds" is not given. Instead, for the words अंतः ईयते (*aṃtaḥ īyate*) it explains:
+
+> अंतर्द्यावापृथिव्योर्मध्य ईयते गच्छति
+
+> *aṃtardyāvāpṛthivyormadhya īyate gacchati*
+
+that is, "he goes (moves about) in the middle of heaven and earth (the earth and the atmosphere)". Therefore the Ṛk given here as an example does not establish the meaning of the Ṛk in hand.
+
+**जन्म उभया विद्वान् (*janma ubhayā vidvān*)** — The bhāṣya gives:
+
+> उभयविधानि जन्मानि यष्टृणां [?] यजमानानां यष्टव्यानां देवानां च संबंधीनि च जानन्
+
+> *ubhayavidhāni janmāni yaṣṭṛṇāṃ [?] yajamānānāṃ yaṣṭavyānāṃ devānāṃ ca saṃbaṃdhīni ca jānan*
+
+*(यष्टृणां (*yaṣṭṛṇāṃ*): the print is not clear to me [?]; not zoomed.)* Here Agni is described as knowing two kinds of births. The bhāṣyakāra explains this as knowing the birth, or order of origin, of the sacrificers who perform the sacrifice and of the gods who are worshipped in the sacrifice.
+
+**दूतो जन्येव मित्र्यः (*dūto janyeva mitryaḥ*)** — A simile is given here. The bhāṣya:
+
+> जनेभ्यो हितो विशेषेण मित्रेभ्यो हितो दूत इव । स यथा प्रजानां चित्तवृत्तिज्ञानाय राज्ञा प्रेरितस्तासां मनो जानाति तद्वत् त्वमप्यस्माकमंतरीयस इत्यर्थः ।
+
+> *janebhyo hito viśeṣeṇa mitrebhyo hito dūta iva | sa yathā prajānāṃ cittavṛttijñānāya rājñā preritastāsāṃ mano jānāti tadvat tvamapyasmākamaṃtarīyasa ityarthaḥ |*
+
+*(त्वमप्यस्माकम् (*tvamapyasmākam*): the print reads something like त्वमस्यस्माकम् (*tvamasyasmākam*) [?]; I give the sense-reading, not zoomed.)* Agni is praised: "you are like a messenger who is a well-wisher of people, and especially of those who are friends". For in the world a messenger sent by the king, to learn the minds of the subjects, moves among them, learns their intentions and reports them to the king; in the same way Agni too enters people's minds and, as a well-wisher, makes their wishes known to the deities for whom the sacrifice is intended.
+
+---
+
+### Printed p. 516 (PDF 537)
+
+*(Header: "516", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 6". The numeral file has no rows for this page. The top line of the page is cut at the right edge in the scan.)*
+
+(Kannada, translated, end of the Special Topics of Ṛk 7:) Although this Ṛk has been explained in a way that makes sense, it cannot be said that the correct meaning is just so. There is room for doubt about the main intention *(the line is cut off at the right edge of the scan; there may be a word or two more)*.
+
+---
+
+#### Ṛk 8
+
+*(The Ṛk numeral is read as 8 from the strip, not zoomed. In the Saṃhitā the print shows a sign above the द्वा (*dvā*) of विद्वा (*vidvā*), which I read as a candrabindu [?]; the same sign stands over चिकित्वा (*cikitvā*) in the Ṛk quoted on p. 515.)*
+
+**॥ संहितापाठः ॥**
+
+> स विद्वाँ आ च पिप्रयो यक्षि चिकित्व आनुषक् ।
+> आ चास्मिन्त्सत्सि बर्हिषि ॥ ८ ॥
+
+> *sa vidvā~ ā ca piprayo yakṣi cikitva ānuṣak |*
+> *ā cāsmintsatsi barhiṣi ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । विद्वान् । आ । च । पिप्रयः । यक्षि । चिकित्वः । आनुषक् ।
+> आ । च । अस्मिन् । सत्सि । बर्हिषि ॥ ८ ॥
+
+> *saḥ | vidvān | ā | ca | piprayaḥ | yakṣi | cikitvaḥ | ānuṣak |*
+> *ā | ca | asmin | satsi | barhiṣi ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 8)**
+
+*Gist:* Omniscient Agni, fill us on all sides with desired things; wise one, worship the gods in order and sit on this strewn grass.
+
+> हे अग्ने स त्वं विद्वान् विशेषाभिज्ञः सन् आ च पिप्रयुः । सर्वतोऽस्मान्पूरय च काम्यैः । हे चिकित्वश्चेतनावन् आनुषक् अनुक्रमेण यक्षि । यज देवान् । आसत्सि । आसीद चास्मिन् स्तीर्णे बर्हिषि ॥
+
+> *he agne sa tvaṃ vidvān viśeṣābhijñaḥ san ā ca piprayuḥ | sarvato 'smānpūraya ca kāmyaiḥ | he cikitvaścetanāvan ānuṣak anukrameṇa yakṣi | yaja devān | āsatsi | āsīda cāsmin stīrṇe barhiṣi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 8)**
+
+(Kannada, translated:) सः (*saḥ*) — (O Agni) you; विद्वान् (*vidvān*) — being one who knows everything; आ च (*ā ca*) — in every way; पिप्रयुः (*piprayuḥ*) — fulfil our desires; चिकित्वः (*cikitvaḥ*) — you who are wise; आनुषक् (*ānuṣak*) — in order; यक्षि (*yakṣi*) — worship (the deities); अस्मिन् (*asmin*) — here, spread; बर्हिषि च (*barhiṣi ca*) — on the darbha seat too; आ सत्सि (*ā satsi*) — sit down.
+
+**भावार्थ (Bhāvārtha — Ṛk 8)**
+
+(Kannada, translated:) O Agni, you who know everything, fulfil our desires in every way, and worship the deities in order. Sit also on the darbha seat spread here.
+
+**English Translation** *(as printed, Ṛk 8)*
+
+Agni, you are all-wise ; fulfil (our desires) : you, who are intelligent, worship ( the gods) in order ; and sit down on this sacred grass.
+
+---
+
+### Printed p. 517 (PDF 538)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 28 ]" [numeral not zoomed], "Ṛgvedasaṃhitā", "517". The numeral file has no rows for this page.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 8)**
+
+(Kannada, translated.) **आनुषक् (*ānuṣak*)** — the meaning is "in order". For this word Yāska gives *(as printed, the first words not zoomed [?])*:
+
+> आनुषगिति नामानुपूर्वस्यानुषक्तं भवति । स्तृणंति बर्हिरानुषक् इत्यपि निगमो भवति
+
+> *ānuṣagiti nāmānupūrvasyānuṣaktaṃ bhavati | stṛṇaṃti barhirānuṣak ityapi nigamo bhavati*
+
+That is: आनुषक् (*ānuṣak*) is a synonym of अनुपूर्व (*anupūrva*) and अनुक्रम (*anukrama*) *(print: आनुक्रमु (*ānukramu*) [?])*, words that give the sense "one after another"; and he has given the example स्तृणंति बर्हिरानुषक् (*stṛṇaṃti barhirānuṣak*):
+
+> आ घा ये अग्निमिंधते स्तृणंति बर्हिरानुषक् ।
+> येषामिंद्रो युवा सखा ॥
+
+> *ā ghā ye agnimiṃdhate stṛṇaṃti barhirānuṣak |*
+> *yeṣāmiṃdro yuvā sakhā ‖*
+
+(Ṛ. Saṃ. 8-45-1 [?], printed ल-ळ५-१; numerals not zoomed.)
+
+In this example it is said that first they kindle the fire; after that they spread the darbha grass called बर्हिः (*barhiḥ*) as a seat. Here kindling the fire is one act; spreading the darbha is another act. After the first act, kindling the fire, the second act, spreading the darbha, is carried out. Thus, when one act is done in order after another, the word आनुषक् (*ānuṣak*) is used to indicate that order. In the Ṛk in hand also there are three acts of Agni: fulfilling our desires, worshipping the deities, and sitting on the darbha. The word आनुषक् (*ānuṣak*) is used here so that they may be done in due order.
+
+---
+
+## Sūkta 7 (Seventh Sūkta)
+
+*(Printed heading: "ಏಳನೆಯ ಸೂಕ್ತವು" — "The seventh sūkta".)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Sūkta 7 (six Ṛks), seer Somāhuti Bhārgava, deity Agni, metre Gāyatrī; its use is as stated in the previous sūkta's introduction; the first Ṛk is used in the Śravaṇākarman.
+
+> श्रेष्ठं यविष्ठेति षडृचं सप्तमं सूक्तं सोमाहुत्यार्षमाग्नेयं गायत्रं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छंदस्यस्य विनियोगः पूर्वसूक्ते विवोक्तः [?] ॥ श्रवणाकर्मण्याद्या विनियुक्ता ॥
+
+> *śreṣṭhaṃ yaviṣṭheti ṣaḍṛcaṃ saptamaṃ sūktaṃ somāhutyārṣamāgneyaṃ gāyatraṃ ‖ prātaranuvākāśvinaśastrayorgāyatre chaṃdasyasya viniyogaḥ pūrvasūkte vivoktaḥ [?] ‖ śravaṇākarmaṇyādyā viniyuktā ‖*
+
+**अनुवाद (Anuvāda)**
+
+(Kannada, translated:) The sūkta श्रेष्ठं यविष्ठ (*śreṣṭhaṃ yaviṣṭha*) is the seventh sūkta in the first anuvāka. It has six Ṛks. The seer of this sūkta is Somāhuti Bhārgava; the deity is Agni; the metre is Gāyatrī. It was said earlier (in the introduction of the previous sūkta) that this sūkta is applied for the Gāyatrī-metre Ṛks at the time of reciting the Prātaranuvāka and the Āśvinaśastra mantras. In the Śravaṇākarman the first Ṛk of this sūkta has its application.
+
+*(The Ṛks of Sūkta 7 begin on p. 518.)*
+
+---
+
+**Progress note:** Done through printed p. 517 (PDF 538). Maṇḍala 2, Sūkta 6 complete: Ṛk 7 finished on p. 515 (Bhāvārtha end, printed English, Special Topics on ⟦अंतः हि अग्ने ईयसे⟧, ⟦जन्म उभया विद्वान्⟧, ⟦दूतो जन्येव मित्र्यः⟧, continuing to the top of p. 516); Ṛk 8 complete on p. 516 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); Special Topics of Ṛk 8 on ⟦आनुषक्⟧ on p. 517. Sūkta 7 opened on p. 517 (heading and bhāṣya introduction/Anuvāda only; six Ṛks, ṛṣi Somāhuti Bhārgava, devatā Agni, chandas Gāyatrī); **no Ṛk of Sūkta 7 has been written; Ṛk 1 begins on p. 518.** FILE DISAGREE: none (no file rows for pp. 515–517). The earlier [?] reading "4-8-4" in the Ṛk 7 bhāṣya (p. 514) is confirmed by the printed reference on p. 515 (ळ-ल-ळ). Not zoomed: Varga numerals in headers (27, 28); Ṛk numeral 8; Ṛg reference 8-45-1 [?] on p. 517. [?] places: p. 515 ⟦यष्टृणां⟧, ⟦त्वमप्यस्माकम्⟧ (print appears ⟦त्वमस्यस्माकम्⟧); p. 516 candrabindu on ⟦विद्वा⟧, top line cut at the right edge; p. 517 ⟦नामानुपूर्वस्य⟧ / ⟦आनुक्रमु⟧ and ⟦पूर्वसूक्ते विवोक्तः⟧.
