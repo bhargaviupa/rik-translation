@@ -19907,4 +19907,122 @@ Our praises have increased the self-irradiating devouring Agni: he is possessed 
 
 ---
 
-**Progress note:** Done through printed p. 535 (PDF 556). Maṇḍala 2, Sūkta 8: Ṛk 4 completed (Special Topics ended on p. 533 with ⟦भानुना⟧). Ṛk 5 written in full (p. 534 to the top of p. 535; the Special Topics on ⟦अत्रिं⟧, ⟦स्वराज्यं⟧, ⟦उक्थानि⟧ complete). Ṛk 6: Saṃhitā, Pada, bhāṣya written; **Ṛk 6 left open in the Pratipadārtha, after ⟦ऊतिभिः—रक्षणे…⟧ (the entry breaks off at the foot of p. 535 and continues on p. 536).** FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: all header numerals and reference numerals (Ṛ. Saṃ. 8-97-1 [?], 8-40-11 [?], 1-136-3 [?], 6-19-9 [?]; Ni. 3-13 [?]). [?] places: p. 533 ⟦आत्मन एवोत्पन्नत्वात्स्वान्⟧, ⟦पश्चादोत्तरादधरादा⟧, ⟦समोत्वर्वाजिंद्र⟧; p. 535 ⟦अद्यतेऽत्ति⟧.
+### Printed p. 536 (PDF 557)
+
+*(Header: "536", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 8", numerals as read, not zoomed. The numeral file has no rows for this page.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 6, continued from the foot of p. 535)**
+
+(Kannada, translated, continued: the word "protection" of the previous page continues as "…protections, with (them)".) सचेमहि (*sacemahi*) — let us be united (likewise); पृतन्यतः (*pṛtanyataḥ*) — also the enemies who have armies; अभिष्याम (*abhiṣyāma*) — let us obtain the power to defeat (them).
+
+**भावार्थ (Bhāvārtha — Ṛk 6)**
+
+(Kannada, translated:) Not falling under anyone's harm, let us be united with the protections of Agni, Indra and Soma, and likewise with the protections of all the other deities. Let us obtain the power to defeat the enemies who possess exceedingly great army strength.
+
+**English Translation** *(as printed, Ṛk 6)*
+
+May we, uninjured, be secure in the protection of Agni, Indra, Soma, and the gods, and, confident in battle, overcome (our enemies).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 6)**
+
+(Kannada, translated:) In this Ṛk, which forms the conclusion of the sūkta, prayer is made desiring the protection of Agni, Indra, Soma and all the other deities.
+
+**पृतन्यतः (*pṛtanyataḥ*)** — (Kannada, translated:) Since the word प्रतना (*pratanā*) [sic, as printed; the Ṛk has पृतना (*pṛtanā*)] is read among the names of battle beginning with रणः (*raṇaḥ*) (the number-word printed in the Kannada is ಸಲವತ್ತಾರು [?]; Ni. 3-9 [?], numerals as read, not zoomed), पृतना (*pṛtanā*) means battle. पृतन्यतः (*pṛtanyataḥ*) means: the enemies who intend to fight a battle with an army — this is the sense.
+
+---
+
+**Close of the Fifth Adhyāya**
+
+> वेदार्थस्य प्रकाशेन तमो हार्दं निवारयन् ।
+> पुमर्थांश्चतुरो देयाद्विद्यातीर्थमहेश्वरः ॥
+
+> *vedārthasya prakāśena tamo hārdaṃ nivārayan |*
+> *pumarthāṃścaturo deyādvidyātīrthamaheśvaraḥ ‖*
+
+> इति श्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तक श्रीवीरबुक्कभूपालसाम्राज्य-
+> धुरंधरेण सायणाचार्येण विरचिते माधवीये वेदार्थप्रकाशे
+> ऋक्संहिताभाष्ये द्वितीयाष्टके पंचमोऽध्यायः ॥ समाप्तः ॥
+
+> *iti śrīmadrājādhirājaparameśvaravaidikamārgapravartaka śrīvīrabukkabhūpālasāmrājya-*
+> *dhuraṃdhareṇa sāyaṇācāryeṇa viracite mādhavīye vedārthaprakāśe*
+> *ṛksaṃhitābhāṣye dvitīyāṣṭake paṃcamo 'dhyāyaḥ ‖ samāptaḥ ‖*
+
+(Gist of the verse: "May Maheśvara, the 'Vidyātīrtha', removing the inner darkness by the light of the Veda's meaning, grant the four human aims." The colophon says: thus, in the Mādhavīya "Vedārthaprakāśa", the Ṛksaṃhitā-bhāṣya composed by Sāyaṇācārya, the fifth adhyāya of the second Aṣṭaka is ended.)
+
+(Kannada closing line, translated:) Here the fifth adhyāya, in the second Aṣṭaka, of the Ṛgveda Saṃhitā, with the Śrī Sāyaṇa-bhāṣya and the Kannada translation, comes to completion. (The Kannada verb is printed ಸಮಾಪ್ತವಾಡುದು, as printed.)
+
+> ॥ ओं तत्सत् ॥
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+> ॥ शुभं भूयात् ॥
+> ॥ मंगळं ॥
+
+> *‖ oṃ tatsat ‖*
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*
+> *tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*
+> *‖ śubhaṃ bhūyāt ‖*
+> *‖ maṃgaḷaṃ ‖*
+
+(Gist: "Om, That is Real. Whatever is lacking in syllable or word, or short in measure — may all that be forgiven, O god, lord of speech; salutation to you. May there be auspiciousness. Blessing.")
+
+---
+
+### Printed p. 537 (PDF 558)
+
+*(Half-title page of the Sixth Adhyāya of the Second Aṣṭaka; no header and no printed page number visible. The numeral file has no rows for this page. It carries an Om emblem and the following invocation, then the title and the adhyāya heading.)*
+
+> ॥ श्री ॥
+> ॥ श्री महागणाधिपतये नमः ॥
+
+> *‖ śrī ‖*
+> *‖ śrī mahāgaṇādhipataye namaḥ ‖*
+
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥
+> यस्य निश्श्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥
+> द्वितीयाष्टकमध्यस्थः पंचमोऽध्याय आदरात् ।
+> व्याख्यातः सायणार्येण षष्ठश्च व्याकरिष्यते ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+> *vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*
+> *yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*
+> *yasya niśśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*
+> *nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*
+> *dvitīyāṣṭakamadhyasthaḥ paṃcamo 'dhyāya ādarāt |*
+> *vyākhyātaḥ sāyaṇāryeṇa ṣaṣṭhaśca vyākariṣyate ‖*
+> *vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*
+> *tasmātsarvaprayatnena vedameva sadā japet ‖*
+
+(Gist: salutation to Gaṇeśa; to Vidyātīrtha-Maheśvara, whose breath was the Vedas; the fifth adhyāya has been expounded and the sixth will now be expounded; "the Veda is Śiva… therefore let one always recite the Veda".)
+
+**सायणभाष्यसहिता — ऋग्वेदसंहिता** *(Sāyaṇabhāṣyasahitā — Ṛgvedasaṃhitā, title)*
+
+> ॥ द्वितीयाष्टके षष्ठोऽध्यायः ॥
+
+> *‖ dvitīyāṣṭake ṣaṣṭho 'dhyāyaḥ ‖*
+
+(Kannada, translated:) ॥ In the second Aṣṭaka, the sixth adhyāya ॥ — Sūktas of the second Maṇḍala 9–23 [?] (numerals as read, not zoomed; the second numeral is doubtful).
+
+#### Sūkta 9 (Maṇḍala 2) — Sāyaṇa's introduction (begins here)
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The ninth sūkta, of six Ṛks, is by Gṛtsamada; metre Triṣṭubh, deity Agni; it is used in the Prātaranuvāka, the Āśvina-śastra, the Agni-kratu and the Agnipraṇayana, with Āśvalāyana references.
+
+> नि होतेति षडृचं नवमं सूक्तं गृत्समदस्यार्षं नि होतेत्यनुक्रांतत्वात् । अनुक्तत्वात् त्रिष्टुप् । मंडलादिपरिभाषयाग्निर्देवता ॥ प्रातरनुवाकाश्विनशस्त्रयोराग्नेये क्रतौ त्रैष्टुभे छंदस्यस्य विनियोगः । अथैतस्या इति खंडे सूत्रितं । नि होता होतृषदन इति सूक्ते । आ. ४-१३ । इति ॥ अग्निप्रणयने आद्ये ऋचा विनियुक्ते । पंचम्यां पौर्णमास्यामिति खंडे सूत्रितं । नि होता होतृषदन इति द्वे । आ. २-१२ ॥
+
+> *ni hoteti ṣaḍṛcaṃ navamaṃ sūktaṃ gṛtsamadasyārṣaṃ ni hotetyanukrāṃtatvāt | anuktatvāt triṣṭup | maṃḍalādiparibhāṣayāgnirdevatā ‖ prātaranuvākāśvinaśastrayorāgneye kratau traiṣṭubhe chaṃdasyasya viniyogaḥ | athaitasyā iti khaṃḍe sūtritaṃ | ni hotā hotṛṣadana iti sūkte | ā. 4-13 | iti ‖ agnipraṇayane ādye ṛcā viniyukte | paṃcamyāṃ paurṇamāsyāmiti khaṃḍe sūtritaṃ | ni hotā hotṛṣadana iti dve | ā. 2-12 ‖*
+
+(The Āśvalāyana references "आ. ४-१३" and "आ. २-१२" are as read, not zoomed [?]. The strip text is given as printed, including छंदस्यस्य (*chaṃdasyasya*) in the Triṣṭubh phrase. The introduction ends at the foot of the page, after "आ. २-१२ ॥"; the Ṛk text of Sūkta 9 is not yet reached.)
+
+---
+
+### Printed p. 538 (PDF 559)
+
+*(PDF 559 is identical, as far as visible, to PDF 558: the same Om emblem, invocation verses, title, adhyāya heading and bhāṣya introduction to Sūkta 9. It is a duplicated scan page; no text is repeated here, and no new text appears on it. No header or printed page number is visible. The numeral file has no rows for this page. Whether a true printed p. 538 is missing from the scan cannot be told from this image; to be checked against the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 536 (PDF 557) plus the half-title pages PDF 558–559. Maṇḍala 2, Sūkta 8 is complete (Ṛk 6 finished, p. 536) and the Fifth Adhyāya of the Second Aṣṭaka is closed with its colophon and Kannada line. The Sixth Adhyāya begins: PDF 558 (printed 537) is the half-title page with the invocation, and the bhāṣya introduction to Sūkta 9 (⟦नि होता⟧, 6 Ṛks, Gṛtsamada, Triṣṭubh, Agni) is written. PDF 559 duplicates PDF 558 (not repeated); the offset printed = PDF − 21 may therefore change by one from the next page, to be checked on the next page's header. Next batch starts at Sūkta 9, Ṛk 1, after the introduction (no Ṛk left open). FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: header numerals (Maṃ. 2 A. 1 Sū. 8 [?]), Ni. 3-9 [?], Sūkta range "9–23 [?]" on PDF 558, Āśvalāyana references आ. ४-१३ [?] and आ. २-१२ [?]. [?] places: the Kannada number-word ಸಲವತ्ತಾರು on PDF 557.
