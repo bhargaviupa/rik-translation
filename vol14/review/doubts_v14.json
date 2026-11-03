@@ -16018,5 +16018,41 @@
   ],
   "note": "ZOOMED, read: bhāṣya iḷayata/īrayata; UNDECIDED: dyuloka first letter garbled",
   "answer": ""
+ },
+ {
+  "pdf": 368,
+  "printed": 348,
+  "crop": [
+   0.55,
+   0.75,
+   0.0,
+   1.0
+  ],
+  "note": "UNDECIDED: garbled word after अंस्याः in bhāṣya (read अंसाहर्ा [?])",
+  "answer": ""
+ },
+ {
+  "pdf": 370,
+  "printed": 350,
+  "crop": [
+   0.85,
+   1.0,
+   0.0,
+   1.0
+  ],
+  "note": "UNDECIDED: garbled sarvānadṛṣṭān… in Ṛk 8 bhāṣya",
+  "answer": ""
+ },
+ {
+  "pdf": 368,
+  "printed": 348,
+  "crop": [
+   0.1,
+   0.35,
+   0.0,
+   1.0
+  ],
+  "note": "UNZOOMED: Pā. Sū. 6-1-136 (file value)",
+  "answer": ""
  }
 ]
