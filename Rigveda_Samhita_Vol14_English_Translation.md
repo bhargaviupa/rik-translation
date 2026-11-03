@@ -16572,4 +16572,132 @@ In regard of our good deeds, Day and Night, perpetually reverenced, are interwea
 
 ---
 
-**Progress note:** Done through printed p. 463 (PDF 484). Maṇḍala 2 Sūkta 3: Ṛk 5 finished (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics). Ṛk 6 complete. Ṛk 7 is OPEN: Saṃhitā and Pada written (p. 463); bhāṣya, Pratipadārtha, Bhāvārtha, printed English follow on p. 464. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: headers "Va. 22" (p. 461) and "Va. 23" (p. 463) read from the strips; the Pada numeral of Ṛk 7 looks like ४ [?]. [?] places: दोग्ध्र्यौ in the bhāṣya of Ṛk 6 (blurred); Pada word उषसानक्ता (differs from the Saṃhitā उषासानक्ता, written as seen).
+### Printed p. 464 (PDF 485)
+
+*(Header: "464", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page. The page continues Ṛk 7.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The two divine Hotṛ forms of Agni, born of the heavenly Agni, are foremost, wisest and best-formed. They worship the gods in due season with the mantra, faultlessly, on the three high places of the uttaravedī.
+
+> दैव्या । दिवि भवो दिव्योऽग्निः । तस्माद्दिव्यादग्नेर्जातौ होतारावाह्वातारौ देवानां होमनिष्पादकौ वाग्नी पार्थिवांतरिक्ष्यौ प्रथमा प्रथमं यष्टव्यौ विदुष्टरा विद्यत्तमौ [?] वपुष्टरा प्रकृष्टवपुषौ देवा ऋचा मंत्रेण ऋजु अविकलं यथा तथा सम्यक् यक्षतः । पूजयतः । ऋतुथा तत्तदृतौ तत्र तत्र काले देवान्यष्व्यान् [?] यजंतौ देवौ पृथिव्या नाभा नाभावुत्तरवेद्यामधि उपरि त्रिषु सानुषु समुच्छ्रितेषु प्रदेशेषु गार्हपत्यादिषु समंजतः । समांक्तां [?] ॥ अंजेर्लेट्यडागमः ॥
+
+> *daivyā | divi bhavo divyo 'gniḥ | tasmāddivyādagnerjātau hotārāvāhvātārau devānāṃ homaniṣpādakau vāgnī pārthivāṃtarikṣyau prathamā prathamaṃ yaṣṭavyau viduṣṭarā vidyattamau [?] vapuṣṭarā prakṛṣṭavapuṣau devā ṛcā maṃtreṇa ṛju avikalaṃ yathā tathā samyak yakṣataḥ | pūjayataḥ | ṛtuthā tattadṛtau tatra tatra kāle devānyaṣvyān [?] yajaṃtau devau pṛthivyā nābhā nābhāvuttaravedyāmadhi upari triṣu sānuṣu samucchriteṣu pradeśeṣu gārhapatyādiṣu samaṃjataḥ | samāṃktāṃ [?] ‖ aṃjerleṭyaḍāgamaḥ ‖*
+
+*(The last sentence अंजेर्लेट्यडागमः is a grammatical tail: the augment *aṭ* of the Leṭ of the root *añj*; no sūtra number printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 7)**
+
+(Kannada, translated:) प्रथमा (*prathamā*) — (among the deities worthy of sacrifice) the chief; विदुष्टरा (*viduṣṭarā*) — the wisest among the learned; वपुष्टरा (*vapuṣṭarā*) — those with most excellent bodies; ऋचा (*ṛcā*) — with the mantra; ऋजु (*ṛju*) — without deficiency; सं यक्षतः (*saṃ yakṣataḥ*) — those who worship (the deities) fully; ऋतुथा (*ṛtuthā*) — at all the seasons of sacrifice; देवान् (*devān*) — with reference to the deities worthy of sacrifice; यजंतौ (*yajaṃtau*) — those who perform the sacrifice; दैव्या होतारा (*daivyā hotārā*) — the two forms of Agni who call the deities to the sacrifice, (together); पृथिव्याः (*pṛthivyāḥ*) — of the earth; नाभा अधि (*nābhā adhi*) — on the uttaravedī which is of the form of the navel; त्रिषु सानुषु (*triṣu sānuṣu*) — in the three high places, namely the Gārhapatya and the other fire-places; समंजतः (*samaṃjataḥ*) — let them be worshipped together.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "Chief among the deities worthy of sacrifice, the wisest of the learned, those of most excellent body, who worship the deities fully, without deficiency, with the mantra, who perform sacrifice for the deities at all the seasons of sacrifice, who call the deities to the sacrifice — the two forms of Agni called Daivya-hotārā — together on the uttaravedī, which is of the form of the navel of the earth, in the three high places such as the Gārhapatya, let them be worshipped together."
+
+**English Translation** *(as printed)*
+
+Let the two divine invokers of the gods, the first (to be reverenced), most wise, sincerely worshipping with sacred texts, most excellent in form, offering homage to the gods in due season, present oblations in the three high places upon the navel of the earth.
+
+*(No Special Topics are printed for Ṛk 7.)*
+
+---
+
+### Printed p. 465 (PDF 486)
+
+*(Header: "A. 2 A. 5 Va. 23" [?, read from the strip, not zoomed], "Ṛgvedasaṃhitā", "465". The numeral file has no rows for this page. At the foot: the printer's signature "[30]" and "Vol. 14".)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> सरस्वती साधयंती धियं न ईळा देवी भारती विश्वतूर्तिः ।
+> तिस्रो देवीः स्वधया बर्हिरेदमच्छिद्रं पांतु शरणं निषद्य ॥ ८ ॥
+
+> *sarasvatī sādhayaṃtī dhiyaṃ na īḷā devī bhāratī viśvatūrtiḥ |*
+> *tisro devīḥ svadhayā barhiredamacchidraṃ pāṃtu śaraṇaṃ niṣadya ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> सरस्वती । साधयंती । धियं । नः । इळा । देवी । भारती । विश्वऽतूर्तिः ।
+> तिस्रः । देवीः । स्वधया । बर्हिः । आ । इदं । अच्छिद्रं । पांतु । शरणं । निऽसद्य ॥ ८ ॥
+
+> *sarasvatī | sādhayaṃtī | dhiyaṃ | naḥ | iḷā | devī | bhāratī | viśva 'tūrtiḥ |*
+> *tisraḥ | devīḥ | svadhayā | barhiḥ | ā | idaṃ | acchidraṃ | pāṃtu | śaraṇaṃ | ni 'sadya ‖ 8 ‖*
+
+*(The compound marks in विश्वऽतूर्तिः and निऽसद्य are the printed small subscript stroke.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Sarasvatī, Iḷā and Bhāratī, the three goddesses, perfecting our understanding, are asked to come to the sacrificial house and protect this sacrifice from any flaw, because of the offering we have given.
+
+> नोऽस्मदीयां धियं बुद्धिं योगं वा साधयंती निर्वर्तयंती सरस्वती इत्येतन्नामिका देवी भारती च विश्वतूर्तिर्विश्वानि तूर्णानि यस्याः सा तादृशी सर्वविषयगता वाक् । एतदुभयविशेषणं । तिस्रो देवीरेताः तिस्रो देव्यः स्वधयास्मद्दत्तहविषा निमित्तेनेदं बर्हिर्यज्ञमच्छिद्रं यथा तथा पांतु । पालयंतु । किं कृत्वा । शरणं योगगृहमानिषद्य आश्रित्य । यद्वा स्वधयेदं बर्हिरिमं यज्ञमागत्यास्मदीयं शरणं गृहं निषद्याच्छिद्रं यथा तथा पांतु ॥
+
+> *no 'smadīyāṃ dhiyaṃ buddhiṃ yogaṃ vā sādhayaṃtī nirvartayaṃtī sarasvatī ityetannāmikā devī bhāratī ca viśvatūrtirviśvāni tūrṇāni yasyāḥ sā tādṛśī sarvaviṣayagatā vāk | etadubhayaviśeṣaṇaṃ | tisro devīretāḥ tisro devyaḥ svadhayāsmaddattahaviṣā nimittenedaṃ barhiryajñamacchidraṃ yathā tathā pāṃtu | pālayaṃtu | kiṃ kṛtvā | śaraṇaṃ yogagṛhamāniṣadya āśritya | yadvā svadhayedaṃ barhirimaṃ yajñamāgatyāsmadīyaṃ śaraṇaṃ gṛhaṃ niṣadyācchidraṃ yathā tathā pāṃtu ‖*
+
+*(In the bhāṣya the name Iḷā is given as इळैतन्नामिका देवी, "the goddess of this name".)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 8)**
+
+(Kannada, translated:) नः (*naḥ*) — our; धियं (*dhiyaṃ*) — the intellect, or the yoga; साधयंती (*sādhayaṃtī*) — the perfecting; सरस्वती (*sarasvatī*) — Sarasvatī; देवी (*devī*) — the divine-natured; इळा (*iḷā*) — the goddess Iḷā; विश्वतूर्तिः (*viśvatūrtiḥ*) — one who pervades everything, or the most excellent; भारती (*bhāratī*) — the goddess Bhāratī; तिस्रः देवीः (*tisraḥ devīḥ*) — these three deities pointed out above; स्वधया (*svadhayā*) — for the sake of the offering given (by us); शरणं (*śaraṇaṃ*) — the sacrificial house; आ निषद्य (*ā niṣadya*) — having resorted to; इदं बर्हिः (*idaṃ barhiḥ*) — this sacrifice; अच्छिद्रं (*acchidraṃ*) — so as not to be broken; पांतु (*pāṃtu*) — let them protect.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "Sarasvatī who perfects our intellect, the divine goddess Iḷā, and Bhāratī, the most excellent — these three deities, for the sake of the offering given by us, resorting to the sacrificial house, let them protect this sacrifice so that it is not broken."
+
+---
+
+### Printed p. 466 (PDF 487)
+
+*(Header: "466", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page.)*
+
+**English Translation** *(as printed, Ṛk 8)*
+
+May the three goddesses, Saraswati, perfecting our understanding, the divine Ila, and all-impressive Bharati, having come to our dwelling, protect this faultless rite, (offered) for our welfare.
+
+*(No Special Topics are printed for Ṛk 8.)*
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> पिशंगरूपः सुभरो वयोधाः श्रुष्टी वीरो जायते देवकामः ।
+> प्रजां त्वष्टा वि ष्यतु नाभिमस्मे अथा देवानामप्येतु पाथः ॥ ९ ॥
+
+> *piśaṃgarūpaḥ subharo vayodhāḥ śruṣṭī vīro jāyate devakāmaḥ |*
+> *prajāṃ tvaṣṭā vi ṣyatu nābhimasme athā devānāmapyetu pāthaḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+> पिशंगऽरूपः । सुऽभरः । वयःऽधाः । श्रुष्टी । वीरः । जायते । देवऽकामः ।
+> प्रऽजां । त्वष्टा । वि । स्यतु । नाभिं । अस्मे इति । अथ । देवानां । अपि । एतु । पाथः ॥ ९ ॥
+
+> *piśaṃga 'rūpaḥ | su 'bharaḥ | vayaḥ 'dhāḥ | śruṣṭī | vīraḥ | jāyate | deva 'kāmaḥ |*
+> *pra 'jāṃ | tvaṣṭā | vi | syatu | nābhiṃ | asme iti | atha | devānāṃ | api | etu | pāthaḥ ‖ 9 ‖*
+
+*(Read as printed: the Pada has स्यतु where the Saṃhitā has ष्यतु. The first word of the Pada, पिशंगऽरूपः, has the subscript stroke after the letter *ṅga*, read here as the compound mark. The numerals ९ in the Saṃhitā and Pada were read from the strip, not zoomed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* This Ṛk is the ninth, the yājyā for the Tvaṣṭṛ animal-offering's cake. Sāyaṇa explains the child as golden-formed, a good bearer, giver of food, swift and heroic, and Tvaṣṭṛ as releasing the family-binding offspring.
+
+> अथ पिशंगरूप इति नवमी त्वाष्ट्रे पशौ पुरोडाशस्य याज्या । पिशंगरूपः सुभरो वयोधाः प्रथमभाजं यशसं वयोधाम् । आ ३-८ । इति सूत्रितत्वात् । पाठस्तु ॥
+
+> *atha piśaṃgarūpa iti navamī tvāṣṭre paśau puroḍāśasya yājyā | piśaṃgarūpaḥ subharo vayodhāḥ prathamabhājaṃ yaśasaṃ vayodhām | ā 3-8 | iti sūtritatvāt | pāṭhastu ‖*
+>
+> पिशंगरूपः सुवर्णवर्णो नानारूपो वा सुभरः शोभनयज्ञः शोभनभरणो वा वयोधा वयसोऽन्नस्य धारयिता दाता वा श्रुष्टी क्षिप्रगुणो वीरो विविधनि[?]रयिता देवकामो देवाः काम्यंते येन तादृशः पुत्रो जायते । जायुतामुत्सेद्यतां [?] त्वष्टुरनुग्रहात् । स च त्वष्टैतन्नामको देवोऽस्मे अस्मभ्यं नाभिं कुलस्य बंधिकां प्रजां पुत्रादिरूपां विष्यतु । विमुंचतु । एतरत्त्वित्यर्थः [?] । अथ अपि च देवानां संबंधि पाथोऽन्नमप्यस्मानेतु । गच्छतु । अपिः क्रियया वा संबध्यते । गच्छत्वित्यर्थः ॥
+
+> *piśaṃgarūpaḥ suvarṇavarṇo nānārūpo vā subharaḥ śobhanayajñaḥ śobhanabharaṇo vā vayodhā vayaso 'nnasya dhārayitā dātā vā śruṣṭī kṣipraguṇo vīro vividhani[?]rayitā devakāmo devāḥ kāmyaṃte yena tādṛśaḥ putro jāyate | jāyutāmutsedyatāṃ [?] tvaṣṭuranugrahāt | sa ca tvaṣṭaitannāmako devo 'sme asmabhyaṃ nābhiṃ kulasya baṃdhikāṃ prajāṃ putrādirūpāṃ viṣyatu | vimuṃcatu | etarattvityarthaḥ [?] | atha api ca devānāṃ saṃbaṃdhi pātho 'nnamapyasmānetu | gacchatu | apiḥ kriyayā vā saṃbadhyate | gacchatvityarthaḥ ‖*
+
+*(The reference "आ ३-८" after the quotation of the yājyā is printed so, in Kannada numerals, not zoomed; the abbreviation is left unexplained. Several words in the second paragraph are doubtful, see the [?] marks.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 9)**
+
+(Kannada, translated, begun; it continues on p. 467:) पिशंगरूपः (*piśaṃgarūpaḥ*) — one who has a golden form; सुभरः (*subharaḥ*) — one who carries out the excellent sacrifice; वयोधाः (*vayodhāḥ*) — one who holds food; श्रुष्टी (*śruṣṭī*) — (in actions) one who has brisk qualities, …
+
+*(Ṛk 9 is open; the rest of the Pratipadārtha, the Bhāvārtha and the printed English follow on p. 467.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 466 (PDF 487). Maṇḍala 2 Sūkta 3: Ṛk 7 finished (bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics). Ṛk 8 complete (p. 465–466). Ṛk 9 is OPEN: Saṃhitā, Pada, bhāṣya written, Pratipadārtha begun (up to श्रुष्टी, ending mid-sentence at the foot of p. 466); the rest of the Pratipadārtha, Bhāvārtha and printed English follow on p. 467. FILE DISAGREE: none (the file had no numeral rows for these pages). Not zoomed: the header "Va. 23" on p. 465 [?]; "आ ३-८" in the bhāṣya of Ṛk 9; Ṛk numerals 8 and 9. [?] places: bhāṣya of Ṛk 7: विद्यत्तमौ, देवान्यष्व्यान्, समांक्तां; bhāṣya of Ṛk 9: विविधनि[?]रयिता, जायुतामुत्सेद्यतां, एतरत्त्वित्यर्थः; Pada of Ṛk 9 पिशंगऽरूपः (position of the subscript stroke).
