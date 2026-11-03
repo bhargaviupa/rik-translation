@@ -16666,5 +16666,41 @@
   ],
   "note": "ZOOMED, read: Nirukta ref 8-1; FILE DISAGREE: file 8-0, read 8-1",
   "answer": ""
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "crop": [
+   0.624,
+   0.648,
+   0.494,
+   0.659
+  ],
+  "note": "ZOOMED numeral, read 2-7-6 (file said 9-2-2: FILE DISAGREE)",
+  "answer": ""
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "crop": [
+   0.729,
+   0.75,
+   0.461,
+   0.642
+  ],
+  "note": "ZOOMED numeral, read 1-79-4 (file said 1-769-4: FILE DISAGREE)",
+  "answer": ""
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "crop": [
+   0.673,
+   0.692,
+   0.477,
+   0.642
+  ],
+  "note": "ZOOMED numeral, read 8-75-3 (agrees with file)",
+  "answer": ""
  }
 ]
