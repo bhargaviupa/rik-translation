@@ -19149,4 +19149,152 @@ That is, a person who gives nothing to anyone, or who gives no oblations and the
 
 ---
 
-**Progress note:** Done through printed p. 520 (PDF 541). Maṇḍala 2, Sūkta 7: title block on p. 518 (6 Ṛks, Somāhuti Bhārgava, Agni, Gāyatrī; Varga 28 as read); Ṛk 1 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 519, printed English, Special Topics on ⟦भारते⟧). Ṛk 2: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on ⟦अरातिः⟧, ⟦देवस्य⟧, ⟦मर्त्यस्य⟧ written on p. 520; the last Special Topics paragraph ends at the foot of p. 520 and **may continue on p. 521 (Ṛk 2 left open)**. FILE DISAGREE: none (no file rows for pp. 518–520). Not zoomed: Varga numeral 28; Ṛk numerals; Nirukta references (3-18 [?], 3-11, 11-1, 7-15). [?] places: p. 518 bhāṣya ⟦विवंरूपाग्ने⟧; p. 519 ⟦नॄन्⟧; p. 519–520 bhāṣya ⟦अदाता शत्रुर्मीशत⟧ and ⟦त्रैः कारिता⟧; p. 520 ⟦मृज्⟧.
+### Printed p. 521 (PDF 542)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 28 ]" [Varga numeral read from the strip, not zoomed], "Ṛgvedasaṃhitā", "521". The numeral file has no rows for this page. The Special Topics of Ṛk 2 did not continue on this page: the page opens directly with Ṛk 3.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> विश्वा उत त्वया वयं धारा उदन्या इव ।
+> अति गाहेमहि द्विषः ॥ ३ ॥
+
+> *viśvā uta tvayā vayaṃ dhārā udanyā iva |*
+> *ati gāhemahi dviṣaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वाः । उत । त्वया । वयं । धाराः । उदन्याः ऽ इव ।
+> अति । गाहेमहि । द्विषः ॥ ३ ॥
+
+> *viśvāḥ | uta | tvayā | vayaṃ | dhārāḥ | udanyāḥ ' iva |*
+> *ati | gāhemahi | dviṣaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 3)**
+
+*Gist:* Through your favour may we cross over all our enemies easily, as people wade across streams that carry little water.
+
+> उत अपि च हे अग्ने वयं त्वदनुग्रहाद्विश्वा द्विषः सर्वानपि द्वेष्ट्रॄन् [?] उदन्या धारा इव उदकसंबंधिनीर्धारा अल्पस्रुतीरिव त्मनात्मनैवान्यनिरपेक्षेणाति-गाहेमहि । अतिक्रम्य गच्छेम ॥
+
+> *uta api ca he agne vayaṃ tvadanugrahādviśvā dviṣaḥ sarvānapi dveṣṭrṝn [?] udanyā dhārā iva udakasaṃbaṃdhinīrdhārā alpasrutīriva tmanātmanaivānyanirapekṣeṇāti-gāhemahi | atikramya gacchema ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3)**
+
+(Kannada, translated:) उत (*uta*) — and; वयं (*vayaṃ*) — we; उदन्याः धाराः इव (*udanyāḥ dhārāḥ iva*) — like streams carrying only a little water, which people cross with ease; विश्वाः द्विषः (*viśvāḥ dviṣaḥ*) — all our enemies; त्वया (*tvayā*) — through your favour; अति गाहेमहि (*ati gāhemahi*) — may we be able to overcome and pass beyond.
+
+**भावार्थ (Bhāvārtha — Ṛk 3)**
+
+(Kannada, translated:) O Agni, just as people easily cross over small streams or brooks that flow with only a little water, so may we too, through your favour, gain the power to overcome all our enemies easily.
+
+**English Translation** *(as printed, Ṛk 3)*
+
+Let us, through your favour, overwhelm all our foes, like torrents of water.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 3)**
+
+(Kannada, translated.) **धारा उदन्या इव (*dhārā udanyā iva*)** — People cannot easily cross rivers that are deep with water and flowing with force. But people walk across a small stream, in which there is only a little water and which creeps along slowly, without any trouble. In the same way, the prayer is made here that we may make our enemies yield without trouble.
+
+---
+
+### Printed p. 522 (PDF 543)
+
+*(Header: "522", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 7". The numeral file has no rows for this page.)*
+
+#### Ṛk 4
+
+*(The Ṛk numeral is read as 4, not zoomed.)*
+
+**॥ संहितापाठः ॥**
+
+> शुचिः पावक वंद्योऽग्ने बृहद्वि रोचसे ।
+> त्वं घृतेभिराहुतः ॥ ४ ॥
+
+> *śuciḥ pāvaka vaṃdyo 'gne bṛhadvi rocase |*
+> *tvaṃ ghṛtebhirāhutaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> शुचिः । पावक । वंद्यः । अग्ने । बृहत् । वि । रोचसे ।
+> त्वं । घृतेभिः । आऽहुतः ॥ ४ ॥
+
+> *śuciḥ | pāvaka | vaṃdyaḥ | agne | bṛhat | vi | rocase |*
+> *tvaṃ | ghṛtebhiḥ | ā 'hutaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 4)**
+
+*Gist:* O purifying Agni, being pure and worthy of homage, you shine greatly and in many ways, since you are sprinkled all around with ghee.
+
+> हे पावक शोधकाग्ने शुचिः शुद्धो वंद्यो नमस्कार्य्यः सन् बृहत् महत् अत्यधिकं विरोचसे । विविधं दीप्यसे । यतस्त्वं घृतेभिर्घृतैराहुतः । समंतात्सिक्तः । अतो विरोचसे ॥
+
+> *he pāvaka śodhakāgne śuciḥ śuddho vaṃdyo namaskāryyaḥ san bṛhat mahat atyadhikaṃ virocase | vividhaṃ dīpyase | yatastvaṃ ghṛtebhirghṛtairāhutaḥ | samaṃtātsiktaḥ | ato virocase ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 4)**
+
+(Kannada, translated:) पावक (*pāvaka*) — O purifier; अग्ने (*agne*) — O Agni; शुचिः (*śuciḥ*) — being pure; वंद्यः (*vaṃdyaḥ*) — being worthy of homage; त्वं (*tvaṃ*) — you; घृतेभिः (*ghṛtebhiḥ*) — by oblations of ghee; आहुतः (*āhutaḥ*) — sprinkled upon; बृहत् (*bṛhat*) — exceedingly; वि रोचसे (*vi rocase*) — you shine in many ways.
+
+**भावार्थ (Bhāvārtha — Ṛk 4)**
+
+(Kannada, translated:) O Agni, the purifier, you who are pure and worthy of homage, being sprinkled with oblations of ghee you shine exceedingly and in many ways.
+
+**English Translation** *(as printed, Ṛk 4)*
+
+Purifier, Agni, holy, adorable, you shine exceedingly when (you are) worshipped with (oblations of) butter.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 4)**
+
+(Kannada, translated.) **पावक, शुचिः, वंद्यः (*pāvaka, śuciḥ, vaṃdyaḥ*)** — Many substances become pure by being burnt in fire. By boiling water, all the impurities in the water are destroyed and it becomes fit for drinking. In the same way, things or places infected with worms, insects and the like, or with disease-germs, can be purified by fire. Because many such purifying acts are accomplished by fire, Agni is praised with the epithets पावक (*pāvaka*) — *(the passage runs on to the next page)*
+
+---
+
+### Printed p. 523 (PDF 544)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 28" [read from the strip, not zoomed], "Ṛgvedasaṃhitā", "523". The numeral file has no rows for this page.)*
+
+*(Special Topics of Ṛk 4, continued from p. 522:)* "…the purifier (पावक (*pāvaka*)), शुचिः (*śuciḥ*) — one who is himself pure, वंद्यः (*vaṃdyaḥ*) — and therefore worthy of homage": thus he is praised by these epithets.
+
+**अग्ने बृहत् विरोचसे त्वं घृतेभिः आहुतः (*agne bṛhat virocase tvaṃ ghṛtebhiḥ āhutaḥ*)** — The meaning of this sentence is plain. Because ājya, samidhs, havis, firewood and the like are put into the fire as offerings, and especially because the flames of the fire, fed with the ājya-oblation (the pouring of ghee), grow and shine with great lustre; therefore Agni is praised thus: "O Agni, you shine greatly through the oblations of ghee."
+
+---
+
+#### Ṛk 5
+
+*(The Ṛk numeral is read as 5, not zoomed.)*
+
+**॥ संहितापाठः ॥**
+
+> त्वं नो असि भारताग्ने वशाभिरुक्षभिः ।
+> अष्टापदीभिराहुतः ॥ ५ ॥
+
+> *tvaṃ no asi bhāratāgne vaśābhirukṣabhiḥ |*
+> *aṣṭāpadībhirāhutaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । नः । असि । भारत । अग्ने । वशाभिः । उक्षऽभिः ।
+> अष्टाऽपदीभिः । आऽहुतः ॥ ५ ॥
+
+> *tvaṃ | naḥ | asi | bhārata | agne | vaśābhiḥ | ukṣa 'bhiḥ |*
+> *aṣṭā 'padībhiḥ | ā 'hutaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 5)**
+
+*Gist:* O Agni, who stand as a son to the priests, you are ours and are propitiated with offerings of barren cows, bulls and pregnant animals.
+
+> हे भारत ऋत्विजां पुत्रस्थानीयोऽग्ने नोऽस्मदीयस्त्वं वशाभिर्वंध्याभिर्गोभिः उक्षभिः सेक्तृभिर्बलीवर्दैः अष्टापदीभिर्गर्भिणीभिश्चाहुत आराधितोऽसि ॥
+
+> *he bhārata ṛtvijāṃ putrasthānīyo 'gne no 'smadīyastvaṃ vaśābhirvaṃdhyābhirgobhiḥ ukṣabhiḥ sektṛbhirbalīvardaiḥ aṣṭāpadībhirgarbhiṇībhiścāhuta ārādhito 'si ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 5)**
+
+(Kannada, translated:) भारत (*bhārata*) — one who stands in the place of a son to the priests; अग्ने (*agne*) — O Agni; नः (*naḥ*) — belonging to us; त्वं (*tvaṃ*) — you; वशाभिः (*vaśābhiḥ*) — with barren cows; उक्षभिः (*ukṣabhiḥ*) — with bulls; अष्टापदीभिः (*aṣṭāpadībhiḥ*) — with pregnant animals; आहुतः असि (*āhutaḥ asi*) — (by offering these) you are propitiated.
+
+**भावार्थ (Bhāvārtha — Ṛk 5)**
+
+(Kannada, translated:) O Agni, you who stand in the place of a son to the priests, you who are ours: by offering barren cows, bulls and pregnant animals, in the form of oblations, you have been propitiated.
+
+*(Ṛk 5 is left open: its printed English and Special Topics, if any, follow on p. 524.)*
+
+---
+
+**Progress note:** Done through printed p. 523 (PDF 544). Maṇḍala 2, Sūkta 7: Ṛk 2 ended at the foot of p. 520 (no continuation on p. 521). Ṛks 3 and 4 complete (printed English and Special Topics on p. 521 and pp. 522–523). Ṛk 5: Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha written on p. 523; **Ṛk 5 left open** (printed English and Special Topics to come on p. 524). Header Varga numeral on pp. 521 and 523 read as 28 (not zoomed; p. 521's glyph is hard to read). FILE DISAGREE: none (no file rows for pp. 521–523). Not zoomed: Ṛk numerals 3, 4, 5; header numerals. [?] place: p. 521 bhāṣya ⟦द्वेष्ट्रॄन्⟧ (print looks like द्वेष्ट्यान् / द्वेष्ट्रान्).
