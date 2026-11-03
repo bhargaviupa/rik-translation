@@ -263,7 +263,7 @@ Thus far, it may not be doubted, the word appears in the language of ordinary li
 
 (Ṛ. Saṃ. 2-1-16) — here too, since *suvīrāḥ* means "possessed of good sons and so on" (*śobhanaputrādisahitāḥ*), the meaning is "house"; but because the work of sacrifice is carried on in the house, in the present context it becomes "sacrificial house" (*yajñagṛha*); Yāska and others have said the same in the *yajña*-synonyms too. Thus the Western scholars have given many individual opinions.
 
-Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sabhā*) all fit, none of them can be called wrong. In the Sāyaṇa-bhāṣya itself all these meanings occur. For example, in ṛks 10-85-26 and 27 [?]; 2-?-? [?] and so on it is explained as "house", and in 10-100-6, 10-100-? [?] and many other ṛks as "sacrifice"; and "sacrificial house" and "sacrificial assembly" are also meant.
+Since the different meanings house, sacrifice and assembly (*gṛha, yajña, sabhā*) all fit, none of them can be called wrong. In the Sāyaṇa-bhāṣya itself all these meanings occur. For example, in ṛks 10-85-26 and 27; 2-?-? [?] and so on it is explained as "house", and in 10-100-6, 10-100-? [?] and many other ṛks as "sacrifice"; and "sacrificial house" and "sacrificial assembly" are also meant.
 
 ***ghṛṣvayaḥ*** — *rakṣaḥprabhṛtīnāṃ gharṣakāḥ*: "crushers of the rākṣasas and others"; that is, those who remove the troubles those cause to the sacrifice; those who cause harm to rākṣasas and the like is the purport.
 
@@ -3054,7 +3054,7 @@ Here, "*yuṣmākaṃ sambandhinī sātiḥ yathā prasastaguṇaṃ tadvat va�
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 6"; grammar of Ṛk 7 concluded.)*
 
-*(Grammar, noted briefly)*: *amavatī* (*amaḥ asyā asti*; affix *matup*; *m* → *v* by "*mādupadhāyāśca…*" [as read]; *ṅīp* in the feminine because of the *u* marker); *svarvatī* (as before, *matup*, *va*, *ṅīp*; the affix being *pit* it is unaccented; *svar* becomes *svarita* by the Phiṭ-sūtra "*nyaṅ svarau svaritau*", [number printed, read as 65 [?]]); *rātiḥ* (root *rā ādāne*; affix *ktin*; the affix takes the acute by "*mantre vṛṣeṣapacamanaviḍāvanarakṣaśāḥ…*" [as read; Pā. Sū. 3-3-96]); *pṛṇataḥ* (root *pṛṇa prīṇane*; *śatṛ* for *laṭ*; the genitive ending after *śatṛ* without *num* takes the acute by "*śatuḥ anumo nadyajādī*", Pā. Sū. 6-1-163); *asuryā* (*asurasya iyam*; affix *yat* in the sense of relation; loss of *a* by "*yasyeti ca*"; *svarita* by "*tit svaritam*"; *ṭāp* in the feminine). ‖ 7 ‖
+*(Grammar, noted briefly)*: *amavatī* (*amaḥ asyā asti*; affix *matup*; *m* → *v* by "*mādupadhāyāśca…*" [as read]; *ṅīp* in the feminine because of the *u* marker); *svarvatī* (as before, *matup*, *va*, *ṅīp*; the affix being *pit* it is unaccented; *svar* becomes *svarita* by the Phiṭ-sūtra "*nyaṅ svarau svaritau*", [number printed, read as 65]); *rātiḥ* (root *rā ādāne*; affix *ktin*; the affix takes the acute by "*mantre vṛṣeṣapacamanaviḍāvanarakṣaśāḥ…*" [as read; Pā. Sū. 3-3-96]); *pṛṇataḥ* (root *pṛṇa prīṇane*; *śatṛ* for *laṭ*; the genitive ending after *śatṛ* without *num* takes the acute by "*śatuḥ anumo nadyajādī*", Pā. Sū. 6-1-163); *asuryā* (*asurasya iyam*; affix *yat* in the sense of relation; loss of *a* by "*yasyeti ca*"; *svarita* by "*tit svaritam*"; *ṭāp* in the feminine). ‖ 7 ‖
 
 *(ornamental rule)*
 
@@ -4322,7 +4322,7 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 
 *(Header: "Aṣṭaka 2, Adhyāya 4, Varga 11"; a signature mark "XIII 13" is printed at the foot. The page opens with a note on the group of sūktas, quoting the Bṛhaddevatā.)*
 
-**Note (Kannada).** In the first maṇḍala, the last 38 [?] sūktas are divided in the Bṛhaddevatā into two groups. From the 165th sūkta to the 170th, it tells in the form of a story the conversation that took place between Indra and the Marut-gods, and how, between them, the sage Agastya entered, praised the Marut-gods and Indra and brought them peace. From the 171st to the 1[8–9]? [?] it speaks of the sūktas composed in the course of showing the relationship and love between Agastya and Lopāmudrā. The nature of the conversation between Indra and the Marut-gods, and its description in the Bṛhaddevatā, has been shown earlier (Ṛgveda Saṃhitā, Part 12, p. 679).
+**Note (Kannada).** In the first maṇḍala, the last 38 sūktas are divided in the Bṛhaddevatā into two groups. From the 165th sūkta to the 170th, it tells in the form of a story the conversation that took place between Indra and the Marut-gods, and how, between them, the sage Agastya entered, praised the Marut-gods and Indra and brought them peace. From the 171st to the 1[8–9]? [?] it speaks of the sūktas composed in the course of showing the relationship and love between Agastya and Lopāmudrā. The nature of the conversation between Indra and the Marut-gods, and its description in the Bṛhaddevatā, has been shown earlier (Ṛgveda Saṃhitā, Part 12, p. 679).
 
 > स तानभिजगामाशु निरूप्यैन्द्रं हविस्तदा ।
 > मरुतश्चाभितुष्टाव सूक्तैस्तन्निस्त्रिभिः [?] ॥
@@ -4374,7 +4374,7 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 > *agastyastvaramityesyāṃ kṣubdhamindraṃ praśāmayat |*
 > *prādātsavanaṃ kṛtvā tebhya eva ca taddhaviḥ ‖*
 
-(Bṛ. Dev. 5-51 to 53 [?]). By this refutation, it is shown that his not making known his purpose was of no use; by the mantra "*kiṃ naḥ*" (1-170-2) he makes known that the Marut-gods, too, are Indra's friends. Afterwards, by the mantra "*kiṃ no bhrātaḥ*", when Indra is entreated, he is slightly angered and reproaches. Yet, with the mantra "*araṃ*" (1-170-4) he appeased Indra and offered a share of the oblation to the Marut-gods.
+(Bṛ. Dev. 5-51 to 53). By this refutation, it is shown that his not making known his purpose was of no use; by the mantra "*kiṃ naḥ*" (1-170-2) he makes known that the Marut-gods, too, are Indra's friends. Afterwards, by the mantra "*kiṃ no bhrātaḥ*", when Indra is entreated, he is slightly angered and reproaches. Yet, with the mantra "*araṃ*" (1-170-4) he appeased Indra and offered a share of the oblation to the Marut-gods.
 
 > सुते चकार सोमेऽथ तानिन्द्रः सोमपीथिनः ।
 > तस्माद्विद्यान्निपातेन ऐन्द्रेषु मरुतः स्तुतान् ॥
@@ -4398,7 +4398,7 @@ Number of ṛks in the Sūkta: 6 · Ṛṣi: Agastya · Devatā: ṛks 1–2 the
 > *stutaśca tairbhiścendra stutāsa iti traiḥ saha |*
 > *marudbhiḥ saha marutvāṃstatra so 'bhavat ‖*
 
-(Bṛ. Dev. 5-56). Four mantras (1-173-3 to 6 [?]) praise Indra. But since Indra needs the Marut-gods at every place, the epithet *marutvān* is natural to him: thus it is stated in the Bṛhaddevatā, and afterwards the loving conversation that took place between the sage Agastya and Lopāmudrā is described.
+(Bṛ. Dev. 5-56). Four mantras (1-173-3 to 6) praise Indra. But since Indra needs the Marut-gods at every place, the epithet *marutvān* is natural to him: thus it is stated in the Bṛhaddevatā, and afterwards the loving conversation that took place between the sage Agastya and Lopāmudrā is described.
 
 *(ornamental rule)*
 
@@ -5080,7 +5080,7 @@ Here, if, as Sāyaṇa explains, the word *mānāsaḥ* is made an epithet of *u
 > *dhātā caiva vidhātā ca vivasvāṃś ca mahādyutiḥ ‖*
 > *tvaṣṭā pūṣā tathaivendro dvādaśo viṣṇur ucyate |*
 
-(Bṛ. Dev. 5-146, 147 [?]). Thus the Bṛhaddevatā counts Indra as one of the twelve Ādityas. And
+(Bṛ. Dev. 5-146, 147). Thus the Bṛhaddevatā counts Indra as one of the twelve Ādityas. And
 
 > तद्वा एष एवेन्द्रः । य एष तपति ।
 
@@ -5855,7 +5855,7 @@ Continuation of the Śatapatha Brāhmaṇa quotation (reading garbled, as printe
 
 (Śa. Brā. 8-1-3-5). Gist: when the relation of father and son is spoken of, the question arises what is fitting to compare it with in the case of the Sāman and the ṛk; the Sāman is the husband (*pati*) of the ṛk, and the husband's place is shown accordingly. The Sāman has three stages, father, son, grandson (*pitṛ, putra, pautra*), as the ṛk has three verses; thus the relation of the ṛk and its husband, the Sāman, is made known.
 
-In the same way the Chāndogya Upaniṣad also shows the relation of the ṛk and the Sāman, describing it in one way on the *adhidaivata* side and in another on the *adhyātma* side. As on the adhidaivata side (Chā. Up. 1-6-1 to 8 [?]):
+In the same way the Chāndogya Upaniṣad also shows the relation of the ṛk and the Sāman, describing it in one way on the *adhidaivata* side and in another on the *adhyātma* side. As on the adhidaivata side (Chā. Up. 1-6-1 to 8):
 
 > इयमेवर्गग्निः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयत इयमेव सा अग्निरमस्तत्साम ॥ १ ॥
 
@@ -5873,7 +5873,7 @@ In the same way the Chāndogya Upaniṣad also shows the relation of the ṛk an
 
 > *nakṣatrāṇy evark candramāḥ sāma tad etad etasyām ṛcy adhyūḍhaṃ sāma tasmād ṛcy adhyūḍhaṃ sāma gīyate nakṣatrāṇy eva sā candramā amas tat sāma ‖ 4 ‖*
 
-In this passage, earth, atmosphere, heaven and the stars are the ṛk; fire, air, the sun and the moon are the Sāman. The relation between the ṛk and the Sāman is thus the relation between the deities and their seats; the ṛk is *sā*, the deity is *ama*, and the two together are known as *sāma*. In the same manner on the *adhyātma* side (Chā. Up. 1-7-1 to 9 [?]):
+In this passage, earth, atmosphere, heaven and the stars are the ṛk; fire, air, the sun and the moon are the Sāman. The relation between the ṛk and the Sāman is thus the relation between the deities and their seats; the ṛk is *sā*, the deity is *ama*, and the two together are known as *sāma*. In the same manner on the *adhyātma* side (Chā. Up. 1-7-1 to 9):
 
 > अथाध्यात्मं वागेवर्क्प्राणः साम तदेतदेतस्यामृच्यध्यूढं साम तस्मादृच्यध्यूढं साम गीयते । वागेव सा प्राणोऽमस्तत्साम ॥ १ ॥
 
@@ -5905,7 +5905,7 @@ Thus, in speaking of the relation of the ṛk and the Sāman, the omnipresence o
 
 > *atha ya etad evaṃ vidvān sāma gāyaty abhyāṃ sa gāyati so 'munaiva sa eṣa yo 'muṣmāt parāñco lokās tāṃś cāpnoti devakāmāṃś ca | kaṃ te kāmam āgāyānīty eṣa hy eva kāmāgānasyeṣṭe ya evaṃ vidvān sāma gāyati sāma gāyati ‖*
 
-(Chā. Up. 1-7-8 and 9 [?]). Gist: from this singing all desires, common to the paths of the gods and men, are obtained; so the *udgātṛ* may ask, "By this singing, let such-and-such wish of yours be fulfilled", because the one who sings this holy Sāman is able to bring about every kind of desire, of this world and the next.
+(Chā. Up. 1-7-8 and 9). Gist: from this singing all desires, common to the paths of the gods and men, are obtained; so the *udgātṛ* may ask, "By this singing, let such-and-such wish of yours be fulfilled", because the one who sings this holy Sāman is able to bring about every kind of desire, of this world and the next.
 
 > स य एतदेवं विद्वान्सामेत्युपास्ते अभ्याशो ह यदेनं साधवो धर्मा आ च गच्छेयुरुप च नमेयुः ।
 
@@ -7645,7 +7645,7 @@ To show that man has a full sense of pride in his own home, the Nirukta-writers 
 
 > *nahi grabhāyāraṇaḥ suśevo 'nyodaryo manasā mantevā u [?] | adhā cid okaḥ punar it sa etyā no vājy abhīṣāḷ etu navyaḥ ‖* [as read: [?]]
 
-(Ṛ. Saṃ. 7-4-8, first digit read as 7 [?]).
+(Ṛ. Saṃ. 7-4-8, first digit read as 7).
 
 ### Printed p. 302  (PDF 322)
 
@@ -8958,7 +8958,7 @@ For the word *āyoḥ* the meaning is given as a synonym of *śatru* ("enemy") i
 
 > *sa pūrvayā nividā kavyatāyor imāḥ prajā ajanayan manūnām |*
 
-(Ṛ. Saṃ. 1-96-2) — in this verse of the Ṛk-saṃhitā, since the word *āyoḥ* is explained by the word *manu*, it may be understood that it is Manu, one of the Prajāpatis, makers of creation. Likewise, in Ṛ. Saṃ. 1-53-10; 8-15-5; 8-53-2; 2-3-2 and other ṛks as well, it has been seen earlier which person is signified by the "marked" name *Āyu*. (Ṛgvedasaṃhitā, Part 8, p. 26 [?].)
+(Ṛ. Saṃ. 1-96-2) — in this verse of the Ṛk-saṃhitā, since the word *āyoḥ* is explained by the word *manu*, it may be understood that it is Manu, one of the Prajāpatis, makers of creation. Likewise, in Ṛ. Saṃ. 1-53-10; 8-15-5; 8-53-2; 2-3-2 and other ṛks as well, it has been seen earlier which person is signified by the "marked" name *Āyu*. (Ṛgvedasaṃhitā, Part 8, p. 26.)
 
 For "men who perform sacrifice", the words *āyuḥ*, *āyoḥ* have been used in many places as synonyms.
 
@@ -9400,7 +9400,7 @@ Here ends the hundred and seventy-fourth (174th) Sūkta.
 
 **Anukramaṇikā (Sanskrit, as read; doubtful passages marked [?])**
 
-> मत्स्यपायीति षडृचमेकादशं सूक्तमागस्त्यमैन्द्रं । आद्या स्कन्धोग्रीवी बृहती द्वितीयस्य पादस्य द्वादशाक्षरत्वादितरेषां त्रयाणामष्टाक्षरत्वाच्च । द्वितीयश्चेन्न्यङ्कुसारिण्युरोबृहती वा स्कन्धोग्रीवी वा [?] । अनु. २-३ । इत्युक्तलक्षणसद्भावात् । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषयो आनुष्टुभं त्विति विशेषवचनेनापोदितत्वादनुष्टुभः [?] । मत्सि षळानुष्टुभं तु त्रिष्टुबन्तं त्वाद्या स्कन्धोग्रीवीत्यनुक्रान्तं ॥ द्वितीये स्वरसाम्न्याद्यस्त्र्यृचः स्तोत्रीयाः । अभिजिद्वैहत्स्पृष्ठ इति खण्डे सूत्रितं । मत्स्यपायि ते मह एनेन प्रत्येतेन । आ. ८ ५ [?] । इति ॥
+> मत्स्यपायीति षडृचमेकादशं सूक्तमागस्त्यमैन्द्रं । आद्या स्कन्धोग्रीवी बृहती द्वितीयस्य पादस्य द्वादशाक्षरत्वादितरेषां त्रयाणामष्टाक्षरत्वाच्च । द्वितीयश्चेन्न्यङ्कुसारिण्युरोबृहती वा स्कन्धोग्रीवी वा [?] । अनु. २-३ । इत्युक्तलक्षणसद्भावात् । अन्त्या त्रिष्टुप् । शिष्टास्त्रिष्टुबन्तपरिभाषयो आनुष्टुभं त्विति विशेषवचनेनापोदितत्वादनुष्टुभः [?] । मत्सि षळानुष्टुभं तु त्रिष्टुबन्तं त्वाद्या स्कन्धोग्रीवीत्यनुक्रान्तं ॥ द्वितीये स्वरसाम्न्याद्यस्त्र्यृचः स्तोत्रीयाः । अभिजिद्वैहत्स्पृष्ठ इति खण्डे सूत्रितं । मत्स्यपायि ते मह एनेन प्रत्येतेन । आ. ८ ५ । इति ॥
 
 > *matsyapāyīti ṣaḍṛcam ekādaśaṃ sūktam āgastyam aindraṃ | ādyā skandhogrīvī bṛhatī dvitīyasya pādasya dvādaśākṣaratvād itareṣāṃ trayāṇām aṣṭākṣaratvāc ca | dvitīyaś cen nyaṅkusāriṇy urobṛhatī vā skandhogrīvī vā [?] | anu. 2-3 | ity uktalakṣaṇasadbhāvāt | antyā triṣṭup | śiṣṭās triṣṭubantaparibhāṣayo ānuṣṭubhaṃ tv iti viśeṣavacanenāpoditatvād anuṣṭubhaḥ [?] | matsi ṣaḷ ānuṣṭubhaṃ tu triṣṭubantaṃ tvādyā skandhogrīvīty anukrāntaṃ ‖ dvitīye svarasāmnyādyas tryṛcaḥ stotrīyāḥ | abhijidvaihatspṛṣṭha iti khaṇḍe sūtritaṃ | matsyapāyi te maha enena pratyetena | ā. 8-5 | iti ‖* [?]
 
@@ -9454,7 +9454,7 @@ Chandas — 1. *skandhogrīvī bṛhatī*; 2–5. *anuṣṭubh*; 6. *triṣṭu
 
 ### Printed p. 363  (PDF 383)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 **Bhāvārtha**
 
@@ -9510,7 +9510,7 @@ The derivation that shows *svara* to come from the root *prī*, with the changed
 
 ### Printed p. 365  (PDF 385)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 …they are in the form of the worlds. The set of three *stomas* that are the *pūrvabhāgī* (first-part) of the *viṣuvat* day and the set of three *stomas* that are *paścādbhāgī* (latter-part) together make the seventeen *stomas*. In the midst of these is the twenty-one-fold *stoma*, which has the *svarasāma* days as its support and is the reflection of the Āditya. Since the Āditya is held by the *svarasāmans*, there is no obstacle at all to his rounds in the three worlds.
 
@@ -9565,7 +9565,7 @@ Thus the order of origin of the *svarasāma* days, which are the chief part and 
 
 ### Printed p. 367  (PDF 387)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 > 'स्वारसामन्' is called a chanted verse which has no special concluding निधन or finale, but in which the स्वरित (circumflex), or first rising then falling pitch of the final vowel, takes the plan of the finale; whence स्वार is often explained by स्वरनिधन i. e. having the स्वरित for its निधन. In पञ्चविंशब्राह्मण (IX. 3. 11) the स्वारसामन् is prescribed in case the Udgatris have previously committed an excess in their chanting…………In Latyayana Srauta Sutra (VI. 9. 6) Svara samans thus treated are called पदानुस्वाराणि whilst those with which the musical syllables "हा इ" are used with a similar effect, are called हायिकारस्वराणि………… …………… (Sacred Books of the East. Vol. XLIII. P. 6-7)
 
@@ -9603,7 +9603,7 @@ The qualities of the Soma juice are described: ***matsaraḥ*** — the means of
 
 ### Printed p. 369  (PDF 389)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 24" at foot.)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā"; signature mark "XIII 24" at foot.)*
 
 ---
 
@@ -9673,7 +9673,7 @@ This word is well established as an epithet of Indra, describing Indra's distinc
 
 ### Printed p. 371  (PDF 391)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 ***matsaraḥ*** — for this word two meanings are possible: "the cause of delight", and, as another, "envy" (*mātsarya*). The Nirukta-writers too have given two meanings for this word.
 
@@ -9736,7 +9736,7 @@ From this, addressing Indra with "*he indra*", Indra is *asmaddattasomasahāyav�
 
 ### Printed p. 373  (PDF 393)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 **Bhāvārtha**
 
@@ -9782,7 +9782,7 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 ### Printed p. 375  (PDF 395)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 > त्वं ह नु त्यददमायो दस्यूँ रेकः कृष्वीरवनो रार्याय ।
 
@@ -9836,9 +9836,9 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 **Sāyaṇa-bhāṣya** (as read; doubtful passages marked [?])
 
-> हे कवे क्रान्तदर्शिन्निन्द्र ईशानः समर्थः सन् सूर्यं सूर्यस्य ॥ सुपां सुलुगिति षष्ठ्यैकवचनस्य द्वितीयैकवचनादेशः ॥ तत्संबन्धि चक्रमेकनेमि ओजसा बलेन सामर्थ्यातिशयेन मुषाय । अमुष्णाः ॥ छन्दसि शायजसीति शायजादेशः ॥ पूर्वं सूर्यरथस्य चक्रद्वयमस्ति । एकमिन्द्रो मुमुष इतीतिहासः । तथा च मन्त्रान्तरं । प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यत् । ऋ. ५-२९-१० । इति । किंच शुष्णाय एतन्नामकायासुराय तद्वधार्थं । द्वितीयार्थे वा चतुर्थी । शुष्णं हन्तुमित्यर्थः । कुत्सं कर्तनसाधनं वधं वज्रं वातस्य वायोरश्वैरश्वैर्वायुवेगैर्वाश्वैर्युक्तः सन् वह । अवहः । शुष्णं हन्तुं वज्रमुदारयः । यद्वा । शुष्णवधाय वज्रमवहः । तं च हत्वा तदीयैः वायुवेगैरश्वैस्तदुपलक्षितैस्तदीयैर्धनैः कुत्सं महर्षिमगमः । शुष्णासुरधनं कुत्सायादा इत्यर्थः । तथा चान्यत्र त्वं कुत्सं शुष्णहत्येष्वावित । ऋ. १ ५१. ६ [?] । कुत्सायु शुष्णमशुषं । ऋ. ४-१६-१२ । इत्यादीति ॥
+> हे कवे क्रान्तदर्शिन्निन्द्र ईशानः समर्थः सन् सूर्यं सूर्यस्य ॥ सुपां सुलुगिति षष्ठ्यैकवचनस्य द्वितीयैकवचनादेशः ॥ तत्संबन्धि चक्रमेकनेमि ओजसा बलेन सामर्थ्यातिशयेन मुषाय । अमुष्णाः ॥ छन्दसि शायजसीति शायजादेशः ॥ पूर्वं सूर्यरथस्य चक्रद्वयमस्ति । एकमिन्द्रो मुमुष इतीतिहासः । तथा च मन्त्रान्तरं । प्रान्यच्चक्रमवृहः सूर्यस्य कुत्सायान्यत् । ऋ. ५-२९-१० । इति । किंच शुष्णाय एतन्नामकायासुराय तद्वधार्थं । द्वितीयार्थे वा चतुर्थी । शुष्णं हन्तुमित्यर्थः । कुत्सं कर्तनसाधनं वधं वज्रं वातस्य वायोरश्वैरश्वैर्वायुवेगैर्वाश्वैर्युक्तः सन् वह । अवहः । शुष्णं हन्तुं वज्रमुदारयः । यद्वा । शुष्णवधाय वज्रमवहः । तं च हत्वा तदीयैः वायुवेगैरश्वैस्तदुपलक्षितैस्तदीयैर्धनैः कुत्सं महर्षिमगमः । शुष्णासुरधनं कुत्सायादा इत्यर्थः । तथा चान्यत्र त्वं कुत्सं शुष्णहत्येष्वावित । ऋ. १ ५१. ६ । कुत्सायु शुष्णमशुषं । ऋ. ४-१६-१२ । इत्यादीति ॥
 
-> *he kave krāntadarśinn indra īśānaḥ samarthaḥ san sūryaṃ sūryasya ‖ supāṃ suluk iti ṣaṣṭhyaikavacanasya dvitīyaikavacanādeśaḥ ‖ tatsaṃbandhi cakram ekanemi ojasā balena sāmarthyātiśayena muṣāya | amuṣṇāḥ ‖ chandasi śāyajasīti śāyajādeśaḥ ‖ pūrvaṃ sūryarathasya cakradvayam asti | ekam indro mumuṣa itītihāsaḥ | tathā ca mantrāntaraṃ | prānyac cakram avṛhaḥ sūryasya kutsāyānyat | ṛ. 5-29-10 | iti | kiṃca śuṣṇāya etannāmakāyāsurāya tadvadhārthaṃ | dvitīyārthe vā caturthī | śuṣṇaṃ hantum ity arthaḥ | kutsaṃ kartanasādhanaṃ vadhaṃ vajraṃ vātasya vāyor aśvair aśvair vāyuvegair vāśvair yuktaḥ san vaha | avahaḥ | śuṣṇaṃ hantuṃ vajram udārayaḥ | yadvā | śuṣṇavadhāya vajram avahaḥ | taṃ ca hatvā tadīyaiḥ vāyuvegair aśvais tadupalakṣitais tadīyair dhanaiḥ kutsaṃ maharṣim agamaḥ | śuṣṇāsuradhanaṃ kutsāyādā ity arthaḥ | tathā cānyatra tvaṃ kutsaṃ śuṣṇahatyeṣv āvitha | ṛ. 1 51. 6 [?] | kutsāyu śuṣṇam aśuṣaṃ | ṛ. 4-16-12 | ity ādīti ‖* [?]
+> *he kave krāntadarśinn indra īśānaḥ samarthaḥ san sūryaṃ sūryasya ‖ supāṃ suluk iti ṣaṣṭhyaikavacanasya dvitīyaikavacanādeśaḥ ‖ tatsaṃbandhi cakram ekanemi ojasā balena sāmarthyātiśayena muṣāya | amuṣṇāḥ ‖ chandasi śāyajasīti śāyajādeśaḥ ‖ pūrvaṃ sūryarathasya cakradvayam asti | ekam indro mumuṣa itītihāsaḥ | tathā ca mantrāntaraṃ | prānyac cakram avṛhaḥ sūryasya kutsāyānyat | ṛ. 5-29-10 | iti | kiṃca śuṣṇāya etannāmakāyāsurāya tadvadhārthaṃ | dvitīyārthe vā caturthī | śuṣṇaṃ hantum ity arthaḥ | kutsaṃ kartanasādhanaṃ vadhaṃ vajraṃ vātasya vāyor aśvair aśvair vāyuvegair vāśvair yuktaḥ san vaha | avahaḥ | śuṣṇaṃ hantuṃ vajram udārayaḥ | yadvā | śuṣṇavadhāya vajram avahaḥ | taṃ ca hatvā tadīyaiḥ vāyuvegair aśvais tadupalakṣitais tadīyair dhanaiḥ kutsaṃ maharṣim agamaḥ | śuṣṇāsuradhanaṃ kutsāyādā ity arthaḥ | tathā cānyatra tvaṃ kutsaṃ śuṣṇahatyeṣv āvitha | ṛ. 1 51. 6 | kutsāyu śuṣṇam aśuṣaṃ | ṛ. 4-16-12 | ity ādīti ‖* [?]
 
 *Gist:* O Indra, you, the mighty, by your power took away the sun's one wheel (the Sun's chariot has two wheels); and, drawn by the wind-swift horses, you drove forth the cutting thunderbolt to slay Śuṣṇa and gave his wealth to the sage Kutsa.
 
@@ -9846,7 +9846,7 @@ Although the word *dasyu* is used in many places as a synonym of *rākṣasa* an
 
 ### Printed p. 377  (PDF 397)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 **Pratipadārtha (Kannada, translated)**
 
@@ -9898,7 +9898,7 @@ The words *ṛṣi*, *sumedhas*, *dhīra*, *rebha* may all be said to be used fo
 
 ### Printed p. 379  (PDF 399)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 > बृहस्पते प्रथमं वाचो अग्रं यत्प्रैरत नामधेयं दधानाः । यदेषां श्रेष्ठं यदरिप्रमासीत्प्रेणा तदेषां निहितं गुहाविः ॥
 
@@ -9968,7 +9968,7 @@ The close connection of Kutsa and of Indra is learned from the descriptions in t
 
 ### Printed p. 381  (PDF 401)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 …quotes the Vājasaneyi-saṃhitā mantra:
 
@@ -10071,7 +10071,7 @@ in such ṛks, as well as in many other places, the description is that Indra ki
 
 ### Printed p. 383  (PDF 403)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 - ***īśānaḥ*** — root *īśa aiśvarye*; in the sense of *laṭ*, the substitution *śānac*; since the *ṅit*-less *śānac* takes the accent on the suffix, it is *anudātta*, so the root accent remains.
 - ***vaha*** — root *vaha prāpaṇe*; by *vyatyaya* *loṭ* for *laṅ*; second person singular; because it is in *pādādi* position, no *nighāta*; *śap* being *anudātta*, the root accent remains.
@@ -10138,7 +10138,7 @@ Addressing Indra, it is said that the exhilaration that arises in Indra from dri
 
 ### Printed p. 385  (PDF 405)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 25" at foot.)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā"; signature mark "XIII 25" at foot.)*
 
 > सुप्रवाचनं तव वीर वीर्यं यदेकेन क्रतुना विन्दसे वसु । जातूष्ठिरस्य प्र वयः सहस्वतो या चकर्थ सेन्द्र विश्वास्युक्थ्यः ॥
 
@@ -10194,7 +10194,7 @@ The gist: both in the Śatapatha Brāhmaṇa (10-6-3-1) and in the Chāndogya Up
 
 ### Printed p. 387  (PDF 407)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 …and the meaning of the synonym *dhyeya* ("object of meditation") is also given. On the whole, he says, in this word the meaning is "a mental resolve (*manaḥsaṅkalpa*) that determines the abiding states of man".
 
@@ -10262,7 +10262,7 @@ Here the function of this word — ***asmadarthaḥ*** — is for us, the sacrif
 
 ### Printed p. 389  (PDF 409)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 - ***varivovidā*** — root *vida jñāne*; the suffix *kvip*; as before, the substitution *ā* for the case ending; the *kṛdutta* final member keeps its natural accent.
 - ***maṃsīṣṭhāḥ*** — root *mana jñāne*; *liṅ*, second person singular, *thās*; by "*liṅaḥ sīyuṭ*" (Pā. Sū. 3-4-102 [?]) the augment *sīyuṭ*; by "*suṭ tithoḥ*" (Pā. Sū. 3-4-107 [?]) the augment *suṭ* for *thās*; *anusvāra* for the *n* of the root; because it is in *pādādi* position, no *nighāta*; by the suffix accent the end syllable is *udātta*.
@@ -10318,7 +10318,7 @@ Inasmuch, Indra, as you have been the-(giver of) happiness to your ancient encom
 
 Describing the delight that Indra gives to praisers, and likening the satisfaction arising from that delight to the satisfaction obtained by the thirsty from drinking water, the sage-seer of this sūkta also resolves to praise, with *nivid* mantras, the Indra who gives such satisfaction, as the earlier praisers praised.
 
-***nividaṃ johavīmi — nivid*** mantras: it is resolved that "I offer *nivid* mantras". Earlier, in Ṛ. Saṃ. 1-96-2, in describing the special matters of that ṛk, by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras, which was indicated there, was explained. (Ṛgvedasaṃhitā, Part 8 [?], pp. 74–76.) But that mantra was addressed to Agni, and the *nivid* mantras expressly indicated there being Agni's, only the mantras whose deity is Agni were described in that context. In the ṛk in hand, as it is addressed to Indra, the influence and the applications of the *nivid* mantras are described in the manner suited to this context.
+***nividaṃ johavīmi — nivid*** mantras: it is resolved that "I offer *nivid* mantras". Earlier, in Ṛ. Saṃ. 1-96-2, in describing the special matters of that ṛk, by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras, which was indicated there, was explained. (Ṛgvedasaṃhitā, Part 8, pp. 74–76.) But that mantra was addressed to Agni, and the *nivid* mantras expressly indicated there being Agni's, only the mantras whose deity is Agni were described in that context. In the ṛk in hand, as it is addressed to Indra, the influence and the applications of the *nivid* mantras are described in the manner suited to this context.
 
 Mantras which describe the extraordinary qualities of a deity, or of a group of deities, and invoke them, are well known by the name *nivid* mantras. The Bṛhaddevatā, pointing out this very fact —
 
@@ -10326,7 +10326,7 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ### Printed p. 391  (PDF 411)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 > कर्मैव तावत्सवित्र्यां निविदि स्तौति कर्मणा । यद्धेनुः सप्त्यै नड्वाहौ वोळ्हा दोग्ध्र्याशुरेव वा ॥
 
@@ -10366,7 +10366,7 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ### Printed p. 393  (PDF 413)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 …in the form of sentences (*vākya*). All the portions of the sacrifice were put together by the deities into a single whole, and from that, the horse was born; therefore a rule is laid down that a gift of a horse must be made to the priest who recites these mantras. One must not go beyond any *pada* in the *nivid* mantras; if any *pada* is skipped, it makes a break in the sacrifice itself, and that brings harm to the sacrificer. The sentences in these mantras must not be joined together; nor may one put what precedes after, and what follows before. If this is done, a *saṃdhi*-fault arises in the sacrificial action; and the sacrificer too becomes bewildered. If two sentences are put together, the sacrificer's life too is shortened and he may come to death; hence, in mantra recitation, no confusion by mixing sentences should be made. Only the two mantras *predaṃ brahma*, *predaṃ kṣatram*, which are pure in nature and of the nature of divine speech, may be mixed: therefore the *brahma*-lustre and the *kṣatra*-lustre should be mixed. The *nivid* mantras are to be recited as three or four ṛks, and must not be neglected; the *nivid*, by its *brahma* function, makes the recitation of the praise more important.
 
@@ -10422,7 +10422,7 @@ in these and other places the greatness of the *nivid* mantras is praised.
 
 ### Printed p. 395  (PDF 415)
 
-*(Header: "A. 2 A. 4 Va. 18 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 18"; "Ṛgvedasaṃhitā".)*
 
 In the ṛk at hand (1-176-6) the *nivid* mantras addressed to Indra are indicated by the sentence *tām anu tvā nividaṃ johavīmi*. There is also a slight difference of opinion in determining which sūktas are accompanied by *nivid* mantras addressed to the deity Indra. For example —
 
@@ -10462,7 +10462,7 @@ This sūkta beginning *matsi na* is the twelfth sūkta in the twenty-third anuv�
 **Sūkta — 176**
 
 Maṇḍala — 1 ‖ Anuvāka — 23 ‖ Sūkta — 176 ‖
-Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 19 [?] ‖
+Aṣṭaka — 2 ‖ Adhyāya — 4 ‖ Varga — 19 ‖
 Number of ṛks in the sūkta — 6 ‖
 Ṛṣi — Agastya ‖ Devatā — Indra ‖
 Chandas — 1–5. *anuṣṭubh*; 6. *triṣṭubh* ‖
@@ -10495,7 +10495,7 @@ Chandas — 1–5. *anuṣṭubh*; 6. *triṣṭubh* ‖
 
 ### Printed p. 397  (PDF 417)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 *(Sāyaṇa-bhāṣya of Ṛk 1 concluded; as read, doubtful passages marked [?])*
 
@@ -10567,7 +10567,7 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 
 ### Printed p. 399  (PDF 419)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 > अवंशे द्यामस्तभायद्बृहन्तमा रोदसी अपृणदन्तरिक्षम् । स धारयत्पृथिवीं पप्रथच्च सोमस्य ता मद इन्द्रश्चकार ॥
 
@@ -10624,7 +10624,7 @@ In such ṛks the nature of the happiness described exceeds the heavenly happine
 
 ### Printed p. 401  (PDF 421)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 26" at foot.)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā"; signature mark "XIII 26" at foot.)*
 
 - ***invasi*** — root *ivi vyāptau*; since it is *idit*, the augment *num*; *laṭ*, second person singular; *nighāta* accent for a *tiṅ*.
 - ***anti*** — in *antike* the *ka* is dropped Vedically.
@@ -10696,7 +10696,7 @@ Pervade with our praise him who is the sole sustainer of men, to whom the oblati
 
 ### Printed p. 403  (PDF 423)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 …in many such places the word *carṣaṇi* is explained as "people" (*prajā*). This epithet indicates an extraordinary quality in men. But there is a difference of opinion in stating the etymological meaning of the word. Monier Williams, in his Sanskrit-English Dictionary, gives for this word "cultivating, agile, active, shift" [as printed], and says that men are given the epithet *carṣaṇi* because they are full of activity in agriculture and the like; and he shows the root *kṛṣ* as its origin. The Nirukta-writers —
 
@@ -10756,7 +10756,7 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 ### Printed p. 405  (PDF 425)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 > प्र सु ष विभ्यो मरुतो विरस्तु प्र श्येनः श्येनेभ्य आशुपत्वा । अचक्रया यत्स्वधया सुपर्णो हव्यं भरन्मनवे देवजुष्टम् ॥
 
@@ -10822,7 +10822,7 @@ The word *svadhā* is thus taken in the crude sense of "own place, own nature". 
 
 ### Printed p. 407  (PDF 427)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 **Pratipadārtha (Kannada, translated)**
 
@@ -10883,7 +10883,7 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 ### Printed p. 409  (PDF 429)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 > प्रत्यूवाचाथ तानग्निर्विश्वेदेवा यदूच माम् । तत्करिष्ये जुषन्तां तु होत्रं पञ्चजना मम ॥
 
@@ -10919,7 +10919,7 @@ Formerly, when all the deities prayed to Agni to accept, for their sake, the obl
 
 > *cakṣuḥśrotraṃ mano vāk ca prāṇaś cety ātmavādinaḥ | gandharvāpsaraso devā manuṣyāḥ pitaras tathā ‖ sarpāś ca brāhmaṇe caiva śrūyante hy aitareyake ‖*
 
-(Bṛ. De. 7-71, 72 [?]). Eye, ear, mind, speech and breath: these five are the *pañcajanas* according to the *ātmavādins* (those who speak of the Self). Gandharvas and the rest are explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5). The Bṛhaddevatā too shows the differences of opinion, in the explanation, saying that Agni gave the deities the answer that such *pañcajanas* may also enjoy the oblations.
+(Bṛ. De. 7-71, 72). Eye, ear, mind, speech and breath: these five are the *pañcajanas* according to the *ātmavādins* (those who speak of the Self). Gandharvas and the rest are explained in the Aitareya Brāhmaṇa (Ai. Brā. 3-31-5). The Bṛhaddevatā too shows the differences of opinion, in the explanation, saying that Agni gave the deities the answer that such *pañcajanas* may also enjoy the oblations.
 
 ### Printed p. 410  (PDF 430)
 
@@ -10952,7 +10952,7 @@ In the first meaning mentioned above, the word is used where the object that com
 
 ### Printed p. 411  (PDF 431)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 - ***asmadhruk*** — root *druha jighāṃsāyām*; by "*satsūdviṣa*…" (Pā. Sū. 3-2-61) the suffix *kvip*; by "*dādeḥ dhātor ghaḥ*" (Pā. Sū. 8-2-32), when *su* follows, the *h* becomes *gh*; by "*ekāco baśo bhaṣ*…" (Pā. Sū. 8-2-37) the initial *d* becomes *dh*; at the end of the word *jaśtva*, *cartva*; the *kṛdutta* final member keeps its natural accent.
 - ***divyā*** — *divi bhavā divyā*; by "*daṇḍādibhyo yaḥ*" (Pā. Sū. 5-1-66) the suffix *ya*; by the suffix accent the end syllable is *udātta*; in the feminine, since it ends in *a*, *ṭāp*.
@@ -11020,7 +11020,7 @@ In such contexts it suggests not merely that they are praisers but the extraordi
 
 ### Printed p. 413  (PDF 433)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 *(The print resumes in the middle of a quoted ṛk; the first half of the ṛk is not printed at the foot of p. 412 or here: [print gap?])*
 
@@ -11105,7 +11105,7 @@ in these and similar contexts, this epithet is used of deities who are lords and
 
 ### Printed p. 415  (PDF 435)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 *(Pratipadārtha concluded)* …you protect (or satisfy)]; (*tasya eva* — that same) *indrasya* — of Indra; *ājau* — in battle; (*he soma* — O Soma juice;) *vājinam* — Indra, endowed with food; *vājeṣu* — for the sake of strengths or foods; *pra āvaḥ* — you have protected specially.
 
@@ -11171,7 +11171,7 @@ Soma, you protect him in whose prayers, doubly devout, there is the combination 
 
 ### Printed p. 417  (PDF 437)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā"; signature mark "XIII 27" at foot.)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā"; signature mark "XIII 27" at foot.)*
 
 Quoting this sentence, together with the ṛk
 
@@ -11231,7 +11231,7 @@ Quoting this sentence, together with the ṛk
 
 ### Printed p. 419  (PDF 439)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā".)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā".)*
 
 *(Śatapatha quotation continued)*
 
@@ -11305,7 +11305,7 @@ The breath is *arka*; the *ka*-principle is its food; the harmony of the two is 
 
 ### Printed p. 421  (PDF 441)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā". This ṛk and its commentary repeat, word for word, Sūkta 175 Ṛk 6 (pp. 389–394 above).)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā". This ṛk and its commentary repeat, word for word, Sūkta 175 Ṛk 6 (pp. 389–394 above).)*
 
 *(Sāyaṇa-bhāṣya concluded)*
 
@@ -11329,7 +11329,7 @@ Inasmuch, Indra, as you have been the (giver of) happiness to your ancient encom
 
 Describing the delight that Indra gives to the praisers, and likening the satisfaction arising from that delight to the satisfaction obtained by the thirsty from drinking water, the sage-seer of this sūkta also resolves to praise, with *nivid* mantras, the Indra who gives such satisfaction, as the earlier praisers praised him.
 
-***nividaṃ johavīmi — nivid*** mantras: the resolve "I offer *nivid* mantras" is made. Earlier, in describing the special matters of Ṛ. Saṃ. 1-96-2, by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras indicated there was explained (Ṛgvedasaṃhitā, Part 8 [?], pp. 74–76); but that mantra being addressed to Agni, and the *nivid* mantras specified there being Agni's,
+***nividaṃ johavīmi — nivid*** mantras: the resolve "I offer *nivid* mantras" is made. Earlier, in describing the special matters of Ṛ. Saṃ. 1-96-2, by the mantra "*sa pūrvayā nividā*" the greatness of the *nivid* mantras indicated there was explained (Ṛgvedasaṃhitā, Part 8, pp. 74–76); but that mantra being addressed to Agni, and the *nivid* mantras specified there being Agni's,
 
 ### Printed p. 422  (PDF 442)
 
@@ -11365,7 +11365,7 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ### Printed p. 423  (PDF 443)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā". The page repeats the Aitareya Brāhmaṇa *nivid* passages already given on pp. 391–393 above.)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā". The page repeats the Aitareya Brāhmaṇa *nivid* passages already given on pp. 391–393 above.)*
 
 > … धीयन्ते तस्मान्मध्ये गर्भा धृताः । यदन्ततस्तृतीयसवने धीयन्ते तस्मादमुतोऽर्वाञ्चो गर्भाः प्रजायन्ते प्रजात्यै । प्रजायते प्रजया पशुभिर्य एवं वेद । पेशा वा एते उक्थानां यन्निविदस्तद्यत्पुरस्तादुक्थानां प्रातःसवने धीयन्ते यथैव प्रवणयतः पेशः कुर्यात्तादृक्तद्यन्मध्यतो मध्यंदिने धीयन्ते यथैव मध्यतः पेशः कुर्यात्तादृक्तद्यदन्ततस्तृतीयसवने धीयन्ते यथैवावप्रजनतः पेशः कुर्यात्तादृक्तत् । सर्वतो यज्ञस्य पेशसा शोभते य एवं वेद ॥
 
@@ -11397,7 +11397,7 @@ Mantras which describe the extraordinary qualities of a deity, or of a group of 
 
 ### Printed p. 425  (PDF 445)
 
-*(Header: "A. 2 A. 4 Va. 19 [?]"; "Ṛgvedasaṃhitā". The page repeats, with the same sense, the matter of pp. 393–394 above.)*
+*(Header: "A. 2 A. 4 Va. 19"; "Ṛgvedasaṃhitā". The page repeats, with the same sense, the matter of pp. 393–394 above.)*
 
 *(Special Topics continued)* …in the third pressing one ṛk is to be left over and the *nivid* mantras are to be put with it. But if both ṛks are left over and the *nivid* put with them, a loss of power arises; then the capacity of conceiving is lost; therefore only one is to be left over and put with it; then the sacrificial action is completed. It must not be done by leaving out two: if so, the power of generation is destroyed, and people lose the power to bear an embryo. In a sūkta that does not accept *nivid* mantras, one should not recite that sūkta without joining them; once it has been recited, it is not proper to add them again. If such an omission occurs, one should choose another sūkta of the same deity and the same metre, and add these *nivid* mantras to it. In such a case —
 
@@ -12875,7 +12875,7 @@ In Ṛk-saṃhitā 1-179 the conversation that took place between Lopāmudrā an
 > *dvābhyāṃ sā śvabravīdvaigbhyāṃ [?] pūrvīriti cikīrṣitam | riraṃsustāmathāgastya uttarābhyāmatoṣayat ‖*
 > *viditvā tapasā sarvaṃ tayorbhāvaṃ riraṃsatoḥ | śrutvainaḥ kṛtavānasmi brahmacāryuḥ [?] tano jagau ‖*
 
-(Bṛ. De. 4-57 to 59 [?]) — after the ritual bath following her season (*ṛtusnāna*), Agastya, wishing union with his wife Lopāmudrā, began a conversation with her. She too, by the two ṛks "*pūrvīraham śaradaḥ*" (Ṛ. Saṃ. 1-179-1) and "*ye cid dhi pūrve*" (1-179-2), made known her purpose. Then Agastya, by the two ṛks "*na mṛṣā śrāntam*" (1-179-3) and "*nadasya mā rudhataḥ*" (1-179-4), made known his own wish to her and satisfied her. In this context Agastya's disciple, who by the power of his austerity (*tapas*) had understood all of what lay in the minds of the pair desiring union, and had heard this conversation — thinking that it was a sin — himself recited the two ṛks "*imaṃ nu somam*" (1-179-5) and "*agastyaḥ khanamānaḥ*" (1-179-6): so it is explained in the Bṛhaddevatā.
+(Bṛ. De. 4-57 to 59) — after the ritual bath following her season (*ṛtusnāna*), Agastya, wishing union with his wife Lopāmudrā, began a conversation with her. She too, by the two ṛks "*pūrvīraham śaradaḥ*" (Ṛ. Saṃ. 1-179-1) and "*ye cid dhi pūrve*" (1-179-2), made known her purpose. Then Agastya, by the two ṛks "*na mṛṣā śrāntam*" (1-179-3) and "*nadasya mā rudhataḥ*" (1-179-4), made known his own wish to her and satisfied her. In this context Agastya's disciple, who by the power of his austerity (*tapas*) had understood all of what lay in the minds of the pair desiring union, and had heard this conversation — thinking that it was a sin — himself recited the two ṛks "*imaṃ nu somam*" (1-179-5) and "*agastyaḥ khanamānaḥ*" (1-179-6): so it is explained in the Bṛhaddevatā.
 
 ***doṣāḥ; vastoḥ*** — of these two words, *doṣāḥ* is read among the names of night (Ni. 3-9) and *vastoḥ* among the names of day. And explaining the meanings of the two words, the Nirukta-writers, in the Ṛk-saṃhitā's
 
@@ -13282,7 +13282,7 @@ In this ṛk Agastya, giving his wife Lopāmudrā once more assurance, says that
 > *tato bahutithe kāle lopāmudrāṃ viśāṃpate | tapasā dyotitāṃ snātāṃ dadarśa bhagavānṛṣiḥ ‖*
 > *sa tasyāḥ paricāreṇa śaucena ca damena ca | śriyā rūpeṇa ca prīto maithunāyājuhāva tām ‖*
 
-(Mahābhārata, Vana-parva, 94–95 [?]; as read, several words doubtful [?]; a line is given in print with dots)
+(Mahābhārata, Vana-parva, 94–95; as read, several words doubtful [?]; a line is given in print with dots)
 
 — Afterwards the ṛṣi Agastya wished to obtain the fruit of progeny; but no wife suitable to him was to be found. So he himself fashioned a girl suited to him, and left her in the house of the Vidarbha king, who desired a son. The Vidarbha king was delighted at obtaining her, and his friends all congratulated him on gaining such a beautiful daughter. They gave her the name Lopāmudrā. She grew up happily in the palace of the Vidarbha king and attained youth. Then Agastya came and asked the Vidarbha king to give her to him as wife. The king did not like it; but, afraid that the angry ṛṣi might curse him, he went to ask his wife's leave. Then Lopāmudrā herself came to her father's aid and said, "Give me to Agastya." Afterwards the Vidarbha king gave her in marriage to Agastya with due rites. Having obtained Lopāmudrā as his wife, Agastya wished her too to follow the rule of the ṛṣis; so he had her put off her ornaments and the like, and she too, at his word, put on bark garments, as her husband desired. Having got such a suitable wife, he practised severe austerity with her on the bank of the Gaṅgā. She too served him with respect and love for her husband, and was his helper. Once, when Lopāmudrā had bathed after her season, Agastya, pleased by her purity of body, by her beauty and by her love for her husband, desired her company — so the story is told in the Mahābhārata. But in the Ṛk-saṃhitā it is told that Lopāmudrā, worn by hard austerity, obtained rest and wished for her husband's company; in the Mahābhārata it is Agastya himself who wished. The rest of the story is the same. As in the Bṛhaddevatā — "*ṛtusnātāṃ ṛṣir bhāryāṃ lopāmudrāṃ yaśasvinīm | upajalpitum ārebhe rahaḥsaṃyogakāmyayā*" — so also in the Mahābhārata, "*tapasā dyotitāṃ snātāṃ dadarśa bhagavān ṛṣiḥ*". In the sequence of this story there is no great difference between the Vedic description and the description in the Itihāsa. That same matter the Nirukta-writers have stated as "*ṛṣiputryā vilapitam*" ("the lament of a ṛṣi's daughter").
 
@@ -13528,7 +13528,7 @@ Since Agastya is the son of Mitra and Varuṇa, the individual powers of Mitra a
 > *mānena sammito yasmāttasmānmānya ihocyate | yadvā kumbhādṛṣirjātaḥ kumbhenāpi hi mīyate ‖*
 > *kumbha ityabhidhānaṃ ca parimāṇasya lakṣyate ‖*
 
-(Bṛ. De. 5-149 to 154 [?]) — of these Ādityas, Mitra and Varuṇa both saw, in a sacrificial session (*sattra*), the heavenly courtesan Urvaśī and were infatuated; then their seed fell and dropped into the *vasatīvarī* pot (*kumbha*).
+(Bṛ. De. 5-149 to 154) — of these Ādityas, Mitra and Varuṇa both saw, in a sacrificial session (*sattra*), the heavenly courtesan Urvaśī and were infatuated; then their seed fell and dropped into the *vasatīvarī* pot (*kumbha*).
 
 > तस्या दर्शनान्मित्रावरुणयोः रेतश्चस्कन्द ।
 
@@ -14190,7 +14190,7 @@ To understand the ṛk at hand fully, one must know the relation among the deiti
 > *prajāpatiṃ sutau dṛṣṭvā dṛṣṭvā vāgabhyabhāṣata | ābhyāmṛṣistṛtīyo 'pi bhavedatraiva me sutaḥ ‖*
 > *prajāpatistathetyuktaḥ pratyabhāṣata bhāratīm | ṛṣiratristato jajñe sūryānalasamadyutiḥ ‖*
 
-(Bṛ. De. 5-97 to 101 [?]; as read, several words doubtful [?]) — Prajāpati, wishing for progeny, performed, together with the Sādhyas and the Viśvedevas, a sacrificial session (*sattra*) lasting three years: so it is well known. At that time the goddess Vāc came in bodily form to the *sattra*. On seeing her, the seed of Prajāpati and of Varuṇa fell at once; Vāyu cast it into the fire. Then from the flames Bhṛgu and from the embers Aṅgiras were born. The goddess Vāc, seeing these two sons, asked for another son besides these two. When Prajāpati had consented, the ṛṣi Atri, equal in brilliance to the sun and fire, was born from that seed which had been cast into the fire.
+(Bṛ. De. 5-97 to 101; as read, several words doubtful [?]) — Prajāpati, wishing for progeny, performed, together with the Sādhyas and the Viśvedevas, a sacrificial session (*sattra*) lasting three years: so it is well known. At that time the goddess Vāc came in bodily form to the *sattra*. On seeing her, the seed of Prajāpati and of Varuṇa fell at once; Vāyu cast it into the fire. Then from the flames Bhṛgu and from the embers Aṅgiras were born. The goddess Vāc, seeing these two sons, asked for another son besides these two. When Prajāpati had consented, the ṛṣi Atri, equal in brilliance to the sun and fire, was born from that seed which had been cast into the fire.
 
 Moreover, when Yāska explains the word *atri* in the sense of Agni, he says *haviṣām attā* ("the eater of oblations"), i.e. he states that Agni has the name *atri* because he eats the oblations. That Agni eats not only oblations but everything is described in the Ṛk-saṃhitā itself. For example:
 
@@ -14248,7 +14248,7 @@ Besides these epithets, there are many contexts which speak of the identity (*t�
 > *svarbhānoradha yadindra māyā avo divo vartamānā avāhan |*
 > *gūḷhaṃ sūryaṃ tamasāpavratena turīyeṇa brahmaṇāvindadatriḥ ‖*
 
-(Ṛ. Saṃ. 5-40-5 to 6 [?]) — as soon as Svarbhānu released the Sun from darkness, all beings were bewildered. Then Indra made the Asura fall below. Atri, with his divine sight, knew the place where the Sun was held covered by darkness: so it is said. And again, …
+(Ṛ. Saṃ. 5-40-5 to 6) — as soon as Svarbhānu released the Sun from darkness, all beings were bewildered. Then Indra made the Asura fall below. Atri, with his divine sight, knew the place where the Sun was held covered by darkness: so it is said. And again, …
 
 ---
 
@@ -14268,7 +14268,7 @@ Besides these epithets, there are many contexts which speak of the identity (*t�
 > *yaṃ vai sūryaṃ svarbhānustamasāvidhyadāsuraḥ |*
 > *atrayastamanvavindanna hyanye aśaknuvan ‖*
 
-(Ṛ. Saṃ. 5-40-8 to 9 [?]) — in this it is said that Atri, intent on the sacrificial rite, by his divine power and by godly power set the vision of the Āditya in the sky and destroyed the power of Svarbhānu. In this same sūkta the Sun shows gratitude to Atri:
+(Ṛ. Saṃ. 5-40-8 to 9) — in this it is said that Atri, intent on the sacrificial rite, by his divine power and by godly power set the vision of the Āditya in the sky and destroyed the power of Svarbhānu. In this same sūkta the Sun shows gratitude to Atri:
 
 > मा मामिमं तव सन्तमत्र इरस्या द्रुग्धो भियसा नि गारीत् ।
 > त्वं मित्रो असि सत्यराधास्तौ मोहावतं वरुणश्च राजा ॥
@@ -14330,7 +14330,7 @@ In the ṛk at hand, the first meaning is that the Aśvin deities saved the ṛ�
 
 > *… jyāmapyādan [?] | tasya dhanurvipravamāṇām̐ [?] śira udavartayat | taddyāvāpṛthivī anuprāvartetām | yatpravartete | tatpravargyasya pravargyatvam | yadghrāṃ [?] ḷa ityapatat | tadgharmasya gharmatvam |*
 
-(Tai. Ā. 5-1-4 to 6 [?]; as read, doubtful [?]) — in this explanation a story-context is hinted at, and afterwards it is shown that names such as *gharma* became well known. As is said in the Śatapatha Brāhmaṇa, the story context is as follows. Indra and the others performed a sacrificial session at the divine sacrificial place called Kurukṣetra. Then, when it had to be decided who among them was the best — he who first reached the end of the sacrifice by austerity, faith and performance of the sacrifice was to be counted best of all — Viṣṇu won that contest. Then Viṣṇu was held to be the best. Pride arose in him, born of such victory; Viṣṇu, full of self-esteem, took his bow, planted its end on the ground, held three arrows in his hand, and sat resting his head on the tip of the bow; among the deities no one dared face him, and all sat around him. Then, to ridicule his pride, the deities approached ants (*vamri*, *kṛmi*) and asked them to cut the bow-string; and the ants cut Viṣṇu's bow-string (in another reading, "Indra, in the form of an ant, cut the bow-string"; also a variant "*tasyendro vamrirūpeṇa dhanurjyām abhinat*" [?]). Then the tip of the bow sprang upward and the head of Viṣṇu was cut off.
+(Tai. Ā. 5-1-4 to 6; as read, doubtful [?]) — in this explanation a story-context is hinted at, and afterwards it is shown that names such as *gharma* became well known. As is said in the Śatapatha Brāhmaṇa, the story context is as follows. Indra and the others performed a sacrificial session at the divine sacrificial place called Kurukṣetra. Then, when it had to be decided who among them was the best — he who first reached the end of the sacrifice by austerity, faith and performance of the sacrifice was to be counted best of all — Viṣṇu won that contest. Then Viṣṇu was held to be the best. Pride arose in him, born of such victory; Viṣṇu, full of self-esteem, took his bow, planted its end on the ground, held three arrows in his hand, and sat resting his head on the tip of the bow; among the deities no one dared face him, and all sat around him. Then, to ridicule his pride, the deities approached ants (*vamri*, *kṛmi*) and asked them to cut the bow-string; and the ants cut Viṣṇu's bow-string (in another reading, "Indra, in the form of an ant, cut the bow-string"; also a variant "*tasyendro vamrirūpeṇa dhanurjyām abhinat*" [?]). Then the tip of the bow sprang upward and the head of Viṣṇu was cut off.
 
 When the bow-string was cut, it sounded "*ghṛṇ*" and fell, so it got the name *gharma*. The shrunk bow and the string, as soon as they were cut, spread widely, and so it became known as *pravargya*.
 
@@ -14532,7 +14532,7 @@ That the Aśvin deities rescued this same son of Tugra who was drowning in the s
 > *kaḥ svidvṛkṣo niṣṭhito madhye arṇaso yaṃ taugryo nādhitaḥ paryaṣasvajat |*
 > *parṇā mṛgasya patarorivārabha udaśvinā ūhathuḥ śromatāya kam ‖*
 
-(Ṛ. Saṃ. 1-182-5 to 7 [?]) — "O Aśvin deities! For Bhujyu, the son of Tugra, you fashioned this sentient boat, furnished with wings. For the son of Tugra, who had fallen and was sinking in the sea, bottomless and dark, you sent four boats. For the flying birds the wings are a support in the sky; for Bhujyu, who was sinking in the sea, you made the limbs of the boat a support and a protector; from what tree did you make them?" — so the story is praised. The same matter is intimated in the ṛk at hand also.
+(Ṛ. Saṃ. 1-182-5 to 7) — "O Aśvin deities! For Bhujyu, the son of Tugra, you fashioned this sentient boat, furnished with wings. For the son of Tugra, who had fallen and was sinking in the sea, bottomless and dark, you sent four boats. For the flying birds the wings are a support in the sky; for Bhujyu, who was sinking in the sea, you made the limbs of the boat a support and a protector; from what tree did you make them?" — so the story is praised. The same matter is intimated in the ṛk at hand also.
 
 ***aṃhasaḥ*** — "*aṃhatir āhaśāṃ* [?] *haṃś cāṃhaś ca haṃteḥ*" (Ni. 4-25) — although the word *aṃhas* is formed from the root *han* that gives the sense "to injure", this word is in general used more in the sense of "sin" than in the sense of "injury". In the ṛk at hand the meaning is "evil" (*duritam*).
 
@@ -15226,7 +15226,7 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 
 > *iti | sa yaḥ sa viṣṇuryajñaḥ sa sa yaḥ sa yajño 'sau sa ādityastaddhedaṃ yaśo viṣṇurna śaśāka saṃyantuṃ tadidamapyaitarhi naiva sarva iva yaśaḥ śaknoti saṃyantum | sa tridhanvamādāyopacakrāma | sa dhanurātnyāṃ śira upastabhya tasthau taṃ devā anabhidhṛṣṇuvantaḥ samantaṃ pariṇyaviśanta | tāhāhurvamrya ūcuḥ | imā vai vamryo yadupadīkā yo 'sya jyāmupyādabhikti [?] masmai prayacchetetyannādyamasmai prayacchemāpi dhanvanna po 'dhigacchetrethāsmai sarvamannādyaṃ prayacchemeti tatheti | tasmopararāḥ [?] satye | jyāmapijakṣustasyāḥ chinnāyāṃ dhanurātnyai visphurantyai viṣṇoḥ śiraḥ pracicchidatuḥ ‖*
 
-(Śa. Brā. 14-1-1-1 to 9 [?]; as read, several words doubtful [?])
+(Śa. Brā. 14-1-1-1 to 9; as read, several words doubtful [?])
 
 — Formerly, leaving out only the Aśvin deities, all the other deities — Indra, Viṣṇu, Soma and so on — together began a sacrificial session at Kurukṣetra, the divine sacrificial place, wishing to be glorious and to be eaters of food. Then they decided that whoever of them first completed the sacrifice with all its limbs, by toil, by faith and by oblations, was to be counted the best of all; and Viṣṇu was the first to obtain that best position. Having obtained such an excellent position, Viṣṇu himself became of the nature of the sacrifice (*yajñātman*). Then pride arose in him, and there was no one to restrain it. He took his wealth-bow with its three arrows and set out; all the deities, with no courage to oppose him, sat silent. Then there came the ants (*vamri*), insects of that kind, and asked the deities, "If we gnaw the bowstring and make him bend, what reward will you give us?" Such was their request. The deities gave them the promise: "We shall give you complete food, and you will find water wherever you seek it." Then the ants gnawed through the string, and, as the cut tip of the bow sprang upward, it cut off the head of Viṣṇu. The deities, knowing that, when the head of Viṣṇu, who is of the nature of the sacrifice, was cut off, the sacrifice had become void, thought; and the Aśvin deities joined together the severed head of Viṣṇu. Therefore it is shown that the carrying out of the sacrifice was not possible without the Aśvin deities. The same matter is told in this way in the Taittirīya Āraṇyaka:
 
@@ -15246,7 +15246,7 @@ O Nāsatyas, of gliding nature! By the greatness of your chariot you come to the
 
 > *… pravargyasya pravargyatvam | yadghrāṃ [?] ityapatat | tadgharmasya gharmatvam | mahato vīryamapasraditi | tanmahāvīrasya vīratvam | yadasyāḥ samabharanta samrājaḥ saṃsāmrāṭtvam [?] | targstutaṃ [?] devatāstredhā vyagṛhṇata | agniḥ prātaḥsavanam | indro mādhyandinam̐ savanam | viśvedevāstṛtīyasavanam | tenāpaśīrṣṇā yajñena yajamānāḥ | nāśiṣo 'vārundhata | na suvargaṃ lokamabhyajayan | te devā aśvināvabruvan | bhiṣajau vai sthaḥ | idaṃ yajñasyaiśiraḥ [?] pratidhattamiti | tāvabrūtāṃ varaṃ vṛṇāvahai | graha eva nāvatrāpi gṛhyatāmiti | tābhyāmetamāśvinamagṛhṇan | tāvetadyajñasya śiraḥ pratyadhattām | yatpravargyaḥ | tena saśīrṣṇā yajñena yajamānāḥ | āvāśiṣo 'rundhata | …. abhi suvargaṃ lokaṃ jayati | tasmādeṣa āśvinapravayo iva | yatpravargyaḥ ‖*
 
-(Tai. Ā. 5-1-1 to 6 [?]; as read, doubtful in places [?]) — after the head of Viṣṇu, who is of the nature of the sacrifice, had been cut off, as in the story quoted above from the Śatapatha Brāhmaṇa, the sacrificial body that remained was divided by the deities into three parts. Then Agni took the morning pressing (*prātaḥsavana*), Indra the midday pressing (*mādhyandina-savana*), and the Viśvedevas the third pressing. But by that sacrifice, which had no head, they could obtain neither prosperity nor the heavenly world. Then they said to the Aśvin deities, "You are the physicians of the deities; unite again this head of the sacrifice." They asked for a boon: "Let a cup (*graha*) be taken for us two here also." The deities agreed, and the Aśvins fixed the head of the sacrifice again; hence the *āśvina* cup is taken. Thus the Aśvins became the cause of the sacrifice and received a share of it.
+(Tai. Ā. 5-1-1 to 6; as read, doubtful in places [?]) — after the head of Viṣṇu, who is of the nature of the sacrifice, had been cut off, as in the story quoted above from the Śatapatha Brāhmaṇa, the sacrificial body that remained was divided by the deities into three parts. Then Agni took the morning pressing (*prātaḥsavana*), Indra the midday pressing (*mādhyandina-savana*), and the Viśvedevas the third pressing. But by that sacrifice, which had no head, they could obtain neither prosperity nor the heavenly world. Then they said to the Aśvin deities, "You are the physicians of the deities; unite again this head of the sacrifice." They asked for a boon: "Let a cup (*graha*) be taken for us two here also." The deities agreed, and the Aśvins fixed the head of the sacrifice again; hence the *āśvina* cup is taken. Thus the Aśvins became the cause of the sacrifice and received a share of it.
 
 > मधोः पिबतमश्विनेत्याश्विनावेवैतदाहाश्विनौ ह्येतद्यज्ञस्य शिरः प्रत्यधत्ताम् । तावेवैतत्प्रीणात्यवरꣳ स्वाहाकारं करोति ॥
 
@@ -16306,7 +16306,7 @@ One of the Aśvin deities has the epithet **śaradvān**. Sāyaṇa has given tw
 
 > *…… etadvai prajāpatiretasminnātmanaḥ pratihite 'kāmayata prajāḥ sṛjeyeti prajāyeyeti sa ṛtubhiradbhiḥ prāṇaiḥ saṃvatsareṇāśvibhyāṃ sayugbhūtvaitāḥ prajāḥ prājanayattathaivaitadyajamāna etābhirdevatābhiḥ sayugbhūtvaitāḥ prajāḥ prajanayati | …… agnirvai vaiśvānaraḥ saṃvatsareṇa vai sayugbhūtvā prājanayadaśvināvadhvaryū sādayatāmiha śvetsaśvibhyāṃ vai sayugbhūtvā prājanayat ‖*
 
-(Śa. Brā. 8-2-2-2 to 9 [?]; Sanskrit as read, doubtful in several words [?]) — Prajāpati, desiring "let me create offspring, let me be born in them", created offspring in union with the seasons, with the waters, with the vital airs, with the year, and with the Aśvin deities. Since it is thus said that the creation of the world has a direct connection with these, in the ṛk at hand the word **vedhasā** may be taken as "*vidhātārau*", that is, those who are creators.
+(Śa. Brā. 8-2-2-2 to 9; Sanskrit as read, doubtful in several words [?]) — Prajāpati, desiring "let me create offspring, let me be born in them", created offspring in union with the seasons, with the waters, with the vital airs, with the year, and with the Aśvin deities. Since it is thus said that the creation of the world has a direct connection with these, in the ṛk at hand the word **vedhasā** may be taken as "*vidhātārau*", that is, those who are creators.
 
 **Bāḷhe** — this word means firm, steady.
 
@@ -16765,7 +16765,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 > *śyenāviva patatho havyadātaye somaṃ sutaṃ mahiṣevāva gacchathaḥ |*
 > *sajoṣasā uṣasā sūryeṇa ca trirvartiryātamaśvinā ‖*
 
-(Ṛ. Saṃ. 8-35-8 to 9 [?]; as read) — in ṛks such as these, the Aśvin deities, like Indra, are described as coming in haste for drinking Soma; so the derivation above is suitable. Therefore, the epithet *indratamā* can be applied to them. And:
+(Ṛ. Saṃ. 8-35-8 to 9; as read) — in ṛks such as these, the Aśvin deities, like Indra, are described as coming in haste for drinking Soma; so the derivation above is suitable. Therefore, the epithet *indratamā* can be applied to them. And:
 
 > इन्दौ रमते इति वा ।
 
@@ -16855,7 +16855,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 > *dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvāca ‖*
 
-(Ṛ. Saṃ. 1-116-12) — Sāyaṇa, explaining this ṛk, has told it with the story context. Its substance was told earlier. The same story, repeated here, is told in the Śatapatha Brāhmaṇa, and the very form of this *madhuvidyā* is described in the Upaniṣads etc.; this is to be understood here. This context in the Śatapatha Brāhmaṇa (Śa. Brā. 14-1-1-18 to 25 [?]) runs thus:
+(Ṛ. Saṃ. 1-116-12) — Sāyaṇa, explaining this ṛk, has told it with the story context. Its substance was told earlier. The same story, repeated here, is told in the Śatapatha Brāhmaṇa, and the very form of this *madhuvidyā* is described in the Upaniṣads etc.; this is to be understood here. This context in the Śatapatha Brāhmaṇa (Śa. Brā. 14-1-1-18 to 25) runs thus:
 
 > दध्यङ् ह वा आथर्वणः । एकं शुक्रमेतं यज्ञं विदांचकार । यथा यथैतद्यज्ञस्य शिरः प्रतिधीयते यथैष कृत्स्नो यज्ञो भवति । सहेन्द्रेणोक्त आस । एतं चेदन्यस्मा अनुब्रूयास्ते एव ते शिरश्छिन्द्यामिति ।
 
@@ -16905,7 +16905,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 
 > *tasmādetadṛṣīṇāmabhyanūktaṃ | dadhyaṅ ha yanmadhvātharvaṇo vāmaśvasya śīrṣṇā pra yadīmuvācetyāyataṃ taduvāceti haitadevaitaduktam |*
 
-(Śa. Brā. 14-1-1-18 to 25 [?]; as read, doubtful in places [?]) — therefore the seers say in the ṛk: "when Dadhīci Ātharvaṇa spoke the *madhu* to you with a horse's head". Hence it is well known that it was through the horse's head that the Atharvan-born Dadhīci taught this *madhuvidyā*. The story is told also in the Bṛhaddevatā:
+(Śa. Brā. 14-1-1-18 to 25; as read, doubtful in places [?]) — therefore the seers say in the ṛk: "when Dadhīci Ātharvaṇa spoke the *madhu* to you with a horse's head". Hence it is well known that it was through the horse's head that the Atharvan-born Dadhīci taught this *madhuvidyā*. The story is told also in the Bṛhaddevatā:
 
 > प्रादाद्ब्रह्माऽपि सुप्रीतः सुताय तदथर्वणः ।
 > स चाभवदृषिस्तेन ब्रह्मणा दीप्तिमत्तरः ॥
@@ -16937,7 +16937,7 @@ Chandas — 1–5, 7: Jagatī; 6, 8: Triṣṭubh
 > *tadadbhyastu samutthāya bhūtebhyo vividhānvarān |*
 > *prādāyu yugaparyantaṃ tāsvevāpsu nimajjati ‖*
 
-(Bṛ. De. 3-18 to 21 [?]; Sanskrit as read, many words doubtful [?]) — the same story is told in these sentences. There is no difference in the telling of the story, except that at the end it is added that the horse's head, cut off by Indra's weapon, the *vajra*, fell in the lake on the mountain *Śaryaṇāvat*; rising from there, it gave in abundance to all beings suitable boons, and remains in those waters to the end of the *yuga*.
+(Bṛ. De. 3-18 to 21; Sanskrit as read, many words doubtful [?]) — the same story is told in these sentences. There is no difference in the telling of the story, except that at the end it is added that the horse's head, cut off by Indra's weapon, the *vajra*, fell in the lake on the mountain *Śaryaṇāvat*; rising from there, it gave in abundance to all beings suitable boons, and remains in those waters to the end of the *yuga*.
 
 **Vyākaraṇa-prakriyā** (grammar page, noted briefly): *indratamā* — "*atiśāyane tamabiṣṭhanau*" (Pā. Sū. 5-3-55) gives suffix *tamap*; having *p*, it is unaccented; "*supāṃ sulug*" gives ā-substitution for the first (case) dual; so too the changes in *marutvatamā*. *daṃsiṣṭhā* — by the above sūtra, suffix *iṣṭhan* in the sense of excess; "*ṭeḥ*" (Pā. Sū. 6-4-143) elides the final part (*as*) of the base; "*ñit-ādir-nityam*" gives initial acute; ā-substitution for the dual as before.
 
@@ -17693,7 +17693,7 @@ Second: the description that the third step (or station) of all of them lies in 
 
 *(Header: "A. 2 A. 4 Va. 29"; "Ṛgvedasaṃhitā"; page 631.)*
 
-*(Special Topics, continued.)* — "[the worlds'] being in the three worlds, and in the three forms (*trirūpa*), and the Prajāpati arranged food, in the form of the puroḍāśa, for the deity who is in the three times": thus for the word **tridhātu** he gives meanings such as **loka** (world), **anna** (food), **bhūtatraya** (the three beings). Thus the word *tridhātu* is used in different senses in various places. In the present context it may be said that, in the ṛks that praise the deities Agni, the Aśvin deities and Viṣṇu, this word is used as a synonym indicating the three worlds, Earth, Atmosphere and Heaven. The explanation of the words *tricakra*, *tridhātu* etc. is given in the Special Topics of the 34th Sūkta in Part 4 [?] of the Ṛg-saṃhitā.
+*(Special Topics, continued.)* — "[the worlds'] being in the three worlds, and in the three forms (*trirūpa*), and the Prajāpati arranged food, in the form of the puroḍāśa, for the deity who is in the three times": thus for the word **tridhātu** he gives meanings such as **loka** (world), **anna** (food), **bhūtatraya** (the three beings). Thus the word *tridhātu* is used in different senses in various places. In the present context it may be said that, in the ṛks that praise the deities Agni, the Aśvin deities and Viṣṇu, this word is used as a synonym indicating the three worlds, Earth, Atmosphere and Heaven. The explanation of the words *tricakra*, *tridhātu* etc. is given in the Special Topics of the 34th Sūkta in Part 4 of the Ṛg-saṃhitā.
 
 **Duroṇaṃ** — the word *duroṇa* is read among the names of house (Ni. 3-13); in general the meaning is "sacrificial house".
 
@@ -18019,7 +18019,7 @@ Among these, one named Purumīḷha is known in some places as an ancient seer (
 > ददर्श संस्थितानार्श्वे तुल्यरूपानिवात्मनः । समानवयसश्चैव मरुतो रूक्मवक्षसः ॥
 > तांस्तुल्यवयसो दृष्ट्वा देवान्पुरुषविग्रहान् । श्यावाश्वो
 
-*(The Bṛhaddevatā passage, as printed in the Sāyaṇa-bhāṣya volume's Special Topics (Bṛ. De. 5-50 to 80, per the closing reference on p. 644 [?]); the Sanskrit is transcribed as read, in a dense small Kannada type, and many words are doubtful [?], e.g. "abhigamya prasādyai ca", "yojyaṃ cet", "vaidadaśvi-ṛṣī", "ābhyāvadadyatām", "hante", "āṣyahaṃ", "ārśve" — to be re-checked in the doubts pass.)*
+*(The Bṛhaddevatā passage, as printed in the Sāyaṇa-bhāṣya volume's Special Topics (Bṛ. De. 5-50 to 80, per the closing reference on p. 644); the Sanskrit is transcribed as read, in a dense small Kannada type, and many words are doubtful [?], e.g. "abhigamya prasādyai ca", "yojyaṃ cet", "vaidadaśvi-ṛṣī", "ābhyāvadadyatām", "hante", "āṣyahaṃ", "ārśve" — to be re-checked in the doubts pass.)*
 
 ### Printed p. 644  (PDF 664)
 
@@ -18098,7 +18098,7 @@ The scholar Max Müller, in the 5th [?] volume of the Ṛgveda edited by him (Vo
 
 [Sacred Books of the East Vol. 32. p. 361] *(the names are printed in Kannada letters.)*
 
-He says: "Purumīḷha and Taranta, the sons of Vidadaśva, are persons who are to receive gifts [as the Tāṇḍya story says]. But the Purumīḷha and Taranta indicated in the ṛks at hand (Ṛ. Saṃ. 5-61-6, 10 [?]) are persons who give gifts; so they must be different, and these must be other persons. At any rate, there is not sufficient evidence to know this matter with certainty. The story told by Sāyaṇa must be only a creation of his own fancy."
+He says: "Purumīḷha and Taranta, the sons of Vidadaśva, are persons who are to receive gifts [as the Tāṇḍya story says]. But the Purumīḷha and Taranta indicated in the ṛks at hand (Ṛ. Saṃ. 5-61-6, 10) are persons who give gifts; so they must be different, and these must be other persons. At any rate, there is not sufficient evidence to know this matter with certainty. The story told by Sāyaṇa must be only a creation of his own fancy."
 
 ---
 
@@ -18138,7 +18138,7 @@ the Śatapatha Brāhmaṇa also tells of him, narrating a historical (*aitihāsi
 
 > *videgho ha māthavo 'gniṃ vaiśvānaraṃ mukhe babhāra tasya …… mukhe 'bhūtsanenme mukhānniṣpadyā iti tasmātte na pratyaśrauṣamiti ‖*
 
-(Śa. Brā. 1-4-1-10 to 15 [?]; Sanskrit as read, partly omitted by dots in the print [?]) — Videgha Māthava was a king, and the seer Gotama Rāhūgaṇa was his priest. Once Videgha Māthava bore the *Vaiśvānara* fire in his mouth. At that time the priest Gotama, addressing him, tried to speak to him; but Māthava, fearing that fire would fall from his mouth if he spoke, gave no answer. Then Gotama prayed with the ṛk beginning "**vītihotraṃ tvā kave dyumantaṃ**" (Ṛ. Saṃ. 5-26-3); the king gave no answer. Again Gotama prayed with the mantra "**udagne śucayas tava śukrā bhrājanta īrate**" (Ṛ. Saṃ. 8-44-17); the king gave no answer even to that. Then again Gotama prayed with the mantra "**taṃ tvā ghṛtasna vīmahe**" (Ṛ. Saṃ. 5-26-2); and as soon as the word *ghṛta* was uttered, Agni Vaiśvānara blazed up, shone with his lustre, and fell out of his mouth. At that time Māthava could not hold him back. Then Agni Vaiśvānara slipped and dropped downwards. At that moment Videgha Māthava was on the bank of the Sarasvatī. Then the fallen Agni came burning all the regions to the east of that place. In this way, as Agni advanced burning, Gotama and Māthava followed him, going behind. Agni dried up all the rivers on the way. Only the river named **Sadānīrā**, which flows from the northern region, the Himālaya, towards the south, did not dry; Agni Vaiśvānara had not burnt it. Hence the Brahmins did not cross that river. Even now, to the east of the Sadānīrā the community of Brahmins has settled. But at that time that region was uninhabited and without cultivation; it was not honoured by Agni Vaiśvānara, and so no one entered that region. Then Videgha Māthava asked Agni Vaiśvānara: "Where shall I dwell?" — "Dwell to the east of this river Sadānīrā," said he. Even now it is the boundary region between Kosala and Videha.
+(Śa. Brā. 1-4-1-10 to 15; Sanskrit as read, partly omitted by dots in the print [?]) — Videgha Māthava was a king, and the seer Gotama Rāhūgaṇa was his priest. Once Videgha Māthava bore the *Vaiśvānara* fire in his mouth. At that time the priest Gotama, addressing him, tried to speak to him; but Māthava, fearing that fire would fall from his mouth if he spoke, gave no answer. Then Gotama prayed with the ṛk beginning "**vītihotraṃ tvā kave dyumantaṃ**" (Ṛ. Saṃ. 5-26-3); the king gave no answer. Again Gotama prayed with the mantra "**udagne śucayas tava śukrā bhrājanta īrate**" (Ṛ. Saṃ. 8-44-17); the king gave no answer even to that. Then again Gotama prayed with the mantra "**taṃ tvā ghṛtasna vīmahe**" (Ṛ. Saṃ. 5-26-2); and as soon as the word *ghṛta* was uttered, Agni Vaiśvānara blazed up, shone with his lustre, and fell out of his mouth. At that time Māthava could not hold him back. Then Agni Vaiśvānara slipped and dropped downwards. At that moment Videgha Māthava was on the bank of the Sarasvatī. Then the fallen Agni came burning all the regions to the east of that place. In this way, as Agni advanced burning, Gotama and Māthava followed him, going behind. Agni dried up all the rivers on the way. Only the river named **Sadānīrā**, which flows from the northern region, the Himālaya, towards the south, did not dry; Agni Vaiśvānara had not burnt it. Hence the Brahmins did not cross that river. Even now, to the east of the Sadānīrā the community of Brahmins has settled. But at that time that region was uninhabited and without cultivation; it was not honoured by Agni Vaiśvānara, and so no one entered that region. Then Videgha Māthava asked Agni Vaiśvānara: "Where shall I dwell?" — "Dwell to the east of this river Sadānīrā," said he. Even now it is the boundary region between Kosala and Videha.
 
 Then Rāhūgaṇa Gotama asked Māthava: "When I addressed you, why did you not answer?" To which he gave the reply: "Agni Vaiśvānara was in my mouth, and I was afraid that, if I opened it, he would escape" — this is the account of that incident. This old tale of Rāhūgaṇa Gotama and Māthava …
 
