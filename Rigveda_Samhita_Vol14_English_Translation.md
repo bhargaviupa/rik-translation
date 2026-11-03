@@ -16030,4 +16030,146 @@ Vigorous Agni, hear (our prayers); for you are he who is to be lauded ; to whom 
 
 ---
 
-**Progress note:** Done through printed p. 451 (PDF 472). Maṇḍala 2 Sūkta 2: Ṛk 10 complete (Special Topics finished on p. 449). Ṛk 11 complete (Saṃhitā, Pada, bhāṣya across pp. 449–450, Pratipadārtha, Bhāvārtha, printed English, Special Topics through p. 451). Ṛk 12 is OPEN: Saṃhitā, Pada and bhāṣya are written; the Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on p. 452. The numeral file has no rows for these pages. Not zoomed: the three headers (read "A. 2 A. 5 Va. 21" on pp. 449 and 451, "Maṃ. 2 A. 1 Sū. 2" on p. 450) and the Ṛk numbers 11 and 12. [?] places: p. 449 Special Topics opening ⟦…त्तेन⟧ and ⟦अन्नेन⟧ (bhāṣya has ⟦अन्येन⟧); p. 451 bhāṣya ⟦उभयासः⟧ (printed like ⟦उभयोसः⟧), ⟦वसिष्ठस्य⟧, ⟦बहुहिरण्योपेतस्य⟧. As printed: Special Topics ⟦त्वद्दत्तेनान्नेन⟧ without ⟦अश्वेन⟧; Kannada ⟦पंचे⟧ for ⟦पंच⟧; ⟦वाजश्शब्द⟧ conjunct garbled.
+### Printed p. 452 (PDF 473)
+
+*(Header: "Maṃ. 2 A. 1 Sū. 2", "Sāyaṇabhāṣyasahitā", "452", read from the strip, not zoomed. The numeral file has no rows for this page. Ṛk 12 continues from p. 451.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada:) जातवेदः (*jātavedaḥ*) — O one of born knowledge (all-knowing); अग्ने (*agne*) — O Agni; स्तोतारः (*stotāraḥ*) — the priests, fit to praise; सूरयश्च (*sūrayaśca*) — and the wise sacrificers; उभयासः (*ubhayāsaḥ*) — both together; शर्मणि (*śarmaṇi*) — for the sake of obtaining happiness; ते (*te*) — in your service; स्याम (*syāma*) — may we be (for us); वस्वः (*vasvaḥ*) — suited for dwelling; रायः (*rāyaḥ*) — endowed with wealth of cattle and the like; पुरुश्चंद्रस्य (*puruścaṃdrasya*) — exceedingly delightful; भूयसः (*bhūyasaḥ*) — abundant; प्रजावतः (*prajāvataḥ*) — endowed with servants and the like; स्वपत्यस्य (*svapatyasya*) — excellent, endowed with sons; of such wealth, नः (*naḥ*) — to us; शग्धि (*śagdhi*) — give.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O all-knowing Agni, the praising priests and the wise sacrificers, together, shall be in your service for the sake of obtaining happiness. Give us wealth that is suited for dwelling, endowed with cattle and the like, exceedingly delightful, endowed with servants and the like, and excellent, with sons."
+
+**English Translation** *(as printed)*
+
+Agni, knowing all that is born, may we, both adorers and priests, be yours for the sake of felicity ; and do you bestow upon us wealth of dwellings of cattle, of much gold, of many dependants, and virtuous offspring.
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "Here Agni is addressed by the word जातवेदः (*jātavedaḥ*). The meaning of the word jātavedas has been explained in many places."
+
+> (हे) जातवेदः अग्ने स्तोतारः सूरयश्च उभयासः
+
+> *(he) jātavedaḥ agne stotāraḥ sūrayaśca ubhayāsaḥ*
+
+(Kannada:) "We have already explained the meaning of the word जातवेदः (*jātavedaḥ*). Two kinds of meaning are possible for this word. One meaning: Agni who knows all beings that are born or will be born (or the matter concerning those beings); another meaning: all beings that are born know Agni. For the word स्तोतारः (*stotāraḥ*) the bhāṣyakāra has explained the meaning as priests who recite praise, and for the word सूरयः (*sūrayaḥ*) as wise sacrificers. But there is no rule that those fit to praise Agni must be priests only. Likewise there is no rule that the wise people (men of intelligence) indicated by the word सूरयः (*sūrayaḥ*) must be sacrificers only. But there is no fault at all in the bhāṣyakāra's explanation, in which he says 'priests, sacrificers' and fits one kind of meaning to each."
+
+---
+
+### Printed p. 453 (PDF 474)
+
+*(Header: "A. 2 A. 5 Va. 21", "Ṛgvedasaṃhitā", "453", read from the strip, not zoomed. The numeral file has no rows for this page. The Special Topics of Ṛk 12 continue from p. 452.)*
+
+(Kannada:) "In the latter half of this Ṛk, Agni is prayed to for four kinds of favourable things beginning with a dwelling-place." The Kannada then lists them, each headed by the bhāṣya's own words:
+
+*(The bhāṣya's वसिष्ठस्य (*vasiṣṭhasya*) is read as printed, as on p. 451 [?]; the Kannada gloss shows the sense "a house suited for dwelling". In अतिशयेनाह्लादकस्य (*atiśayenāhlādakasya*) the ए-sign is printed like an ओ-sign; read as the ए form, as on p. 451.)*
+
+> वस्वः निवासहेतोर्वसिष्ठस्य [?]
+
+> *vasvaḥ nivāsahetorvasiṣṭhasya [?]*
+
+(Kannada:) "a house suited for dwelling;"
+
+> रायः गवादिधनस्य
+
+> *rāyaḥ gavādidhanasya*
+
+(Kannada:) "wealth of cattle beginning with cows;"
+
+> पुरुश्चंद्रस्य अतिशयेनाह्लादकस्य बहुहिरण्योपेतस्य वा
+
+> *puruścaṃdrasya atiśayenāhlādakasya bahuhiraṇyopetasya vā*
+
+(Kannada:) "delightful in a great degree, that is, wealth endowed with much gold;"
+
+> भूयसः प्रजावतः भृत्याद्युपेतस्य
+
+> *bhūyasaḥ prajāvataḥ bhṛtyādyupetasya*
+
+(Kannada:) "abundant dependants, servants and the like;"
+
+> स्वपत्यस्य शोभनपुत्रस्य
+
+> *svapatyasya śobhanaputrasya*
+
+(Kannada:) "good children, grandchildren and the like, offspring. Agni is prayed to give all these to us."
+
+*(Closing mark ":O:" printed.)*
+
+---
+
+#### Ṛk 13
+
+*(Ṛk number printed as ೧೩, read 13, not zoomed. At the beginning of the Saṃhitā the vowel sign of the first word is read ये (*ye*) (printed ए/ओ-sign ambiguous); the plural verb उपसृजंति (*upasṛjaṃti*) and the Pratipadārtha support ये (*ye*) [?].)*
+
+**॥ संहितापाठः ॥**
+
+> ये स्तोतृभ्यो गोअग्रामश्वपेशसमग्ने रातिमुपसृजंति सूरयः ।
+> अस्माञ्च तांश्च प्र हि नेषि वस्य आ बृहद्वदेम विदथे सुवीराः ॥ १३ ॥
+
+> *ye stotṛbhyo goagrāmaśvapeśasamagne rātimupasṛjaṃti sūrayaḥ |*
+> *asmāñca tāṃśca pra hi neṣi vasya ā bṛhadvadema vidathe suvīrāḥ ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+> ये । स्तोतृऽभ्यः । गोऽअग्रां । अश्वऽपेशसं । अग्ने । रातिं । उपऽसृजंति । सूरयः ।
+> अस्मान् । च । तान् । च । प्र । हि । नेषि । वस्यः । आ । बृहत् । वदेम । विदथे । सुऽवीराः ॥ १३ ॥
+
+> *ye | stotṛ 'bhyaḥ | go 'agrāṃ | aśva 'peśasaṃ | agne | rātiṃ | upa 'sṛjaṃti | sūrayaḥ |*
+> *asmān | ca | tān | ca | pra | hi | neṣi | vasyaḥ | ā | bṛhat | vadema | vidathe | su 'vīrāḥ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* With this Ṛk the Hotṛ asks, under cover of praise, for what he wants: gifts of cow and horse to praisers, and Agni's leading us to the best abode.
+
+> अनया होता स्तुतिनिगमव्याजेनाभिमतमाशास्ते । हे अग्ने सूरयो मेधाविनः प्रेरयितारो वा यजमानाः स्तोतृभ्यः स्तुतिकर्तृभ्यो गोअग्रां गावोऽग्रगामिन्यो यस्यास्तादृशीं गोप्रमुखामश्वपेशसं ॥ पेश इति रूपनाम ॥ अश्वेन निरूपणीयां । एतद्द्वयप्राधान्याभिप्रायं । गौश्चाश्वश्चाजश्चेति दक्षिणापरिगणनेषु गवाश्वयोः प्राथम्यात् । तादृशीं रातिमुपसृजंति । ददते । तान्यजमानानस्मांश्चर्त्विजो [?] वस्यो वसीयः श्रेष्ठं स्वर्गादिस्थानं आ सर्वतः प्र हि नेषि । प्रकर्षेण नयसि खलु । नयेत्यर्थः । हि प्रसिद्धा । वयं च सुवीराः शोभनपुत्रादिसहिताः विदथे यज्ञे बृहन्महन्मंत्रजातं वदेम । उच्चारयामः । स्तुमः इत्यर्थः ॥
+
+> *anayā hotā stutinigamavyājenābhimatamāśāste | he agne sūrayo medhāvinaḥ prerayitāro vā yajamānāḥ stotṛbhyaḥ stutikartṛbhyo goagrāṃ gāvo 'gragāminyo yasyāstādṛśīṃ gopramukhāmaśvapeśasaṃ ‖ peśa iti rūpanāma ‖ aśvena nirūpaṇīyāṃ | etaddvayaprādhānyābhiprāyaṃ | gauścāśvaścājaśceti dakṣiṇāparigaṇaneṣu gavāśvayoḥ prāthamyāt | tādṛśīṃ rātimupasṛjaṃti | dadate | tānyajamānānasmāṃścartvijo [?] vasyo vasīyaḥ śreṣṭhaṃ svargādisthānaṃ ā sarvataḥ pra hi neṣi | prakarṣeṇa nayasi khalu | nayetyarthaḥ | hi prasiddhā | vayaṃ ca suvīrāḥ śobhanaputrādisahitāḥ vidathe yajñe bṛhanmahanmaṃtrajātaṃ vadema | uccārayāmaḥ | stumaḥ ityarthaḥ ‖*
+
+*(The word चर्त्विजो (*cartvijo*) is printed with the ऋ combined with the preceding श्च (*śca*) in a contracted way; read as printed [?]. No grammatical tail.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada:) अग्ने (*agne*) — O Agni; ये (*ye*) — who; सूरयः (*sūrayaḥ*) — such sacrificers as are impelled by good intelligence; स्तोतृभ्यः (*stotṛbhyaḥ*) — to the praisers; गोअग्रां (*goagrāṃ*) — having cows as the chief; अश्वपेशसं (*aśvapeśasaṃ*) — to be defined by horses; रातिं (*rātiṃ*) — the gift; उपसृजंति (*upasṛjaṃti*) — give; तांश्च (*tāṃśca*) — those sacrificers also; अस्मांश्च (*asmāṃśca*) — and us, the priests; वस्यः (*vasyaḥ*) — to the superior place, heaven and the like; आ प्र हि नेषि (*ā pra hi neṣi*) — lead us in an excellent manner; सुवीराः (*suvīrāḥ*) — we, endowed with excellent sons and the like; विदथे (*vidathe*) — in the sacrifice; बृहत् (*bṛhat*) — a mantra filled with greatness; वदेम (*vadema*) — may we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, the sacrificers impelled by good intelligence give to the praisers a gift consisting of cows and horses. Lead those sacrificers and us, the priests, in an excellent manner to the best place, heaven and the like. We, endowed with excellent sons and the like, will recite a mantra filled with greatness at the sacrifice."
+
+---
+
+### Printed p. 454 (PDF 475)
+
+*(Header: "454", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2", read from the strip, not zoomed. The numeral file has one row for this page: "227-273", which agrees with the print. The Pratipadārtha and Bhāvārtha of Ṛk 13 begin the page, after p. 453 where the Saṃhitā, Pada and bhāṣya stand; they are written above, on the page where they belong in the sequence of the Ṛk.)*
+
+**English Translation** *(as printed)*
+
+The pious are they who present, as a gift, to the reciters of your praises an excellent cow and an elegant horse : do you, Agni, lead us and them to the best of abodes, (or heaven), that we and our worthy descendants may repeat the solemn prayer to you at the sacrifice.
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "Since this Ṛk is also recited at the end of the first sūkta (the 16th Ṛk [?]), the Special Topics have been explained there itself. (see p. 426)"
+
+---
+
+## Sūkta 3 (Third Sūkta, ೩) — "ಮೂರನೆಯ ಸೂಕ್ತವು"
+
+(Kannada:) "The third sūkta, beginning समिद्धो अग्निः (*samiddho agniḥ*), is the Āprī sūkta of this Maṇḍala. Concerning the deities of the Āprī sūktas we have written a detailed explanation in the Special Topics of the 188th sūkta of the first Maṇḍala (the 188th sūkta is itself an Āprī sūkta) (page 227–273). Since those same explanations apply to the deities in the 11 Ṛks of this sūkta, it is not explained again here. Therefore readers should read it as if what was explained in the 188th sūkta had been written here concerning the deities of this sūkta."
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Sūkta 3 has eleven Ṛks, by Gṛtsamada, in Triṣṭubh (the seventh Ṛk Jagatī); the deities are the eleven Prayāja deities.
+
+*(Doubtful: in नराशंसतनूनपादादय (*narāśaṃsatanūnapādādaya*) the letters after शंस (*śaṃsa*) are printed ತೇನೂನ…; read तनूनपाद (*tanūnapāda*) with the reading of the letter after नूनप (*nūnapa*) as पा (*pā*) not certain [?]. The page ends in mid-word, at समिद्ध् (*samiddh*).)*
+
+> समिद्धो अग्निरित्येकादशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभं । सप्तमी जगती । समिद्धोऽग्निरग्निना नराशंसतनूनपादादय [?] एकादश प्रयाजदेवताः । समिद्ध्-
+
+> *samiddho agnirityekādaśarcaṃ tṛtīyaṃ sūktaṃ gārtsamadaṃ traiṣṭubhaṃ | saptamī jagatī | samiddho 'gniragninā narāśaṃsatanūnapādādaya [?] ekādaśa prayājadevatāḥ | samiddh-*
+
+*(The bhāṣya continues on p. 455.)*
+
+---
+
+**Progress note:** Done through printed p. 454 (PDF 475). Maṇḍala 2 Sūkta 2: Ṛk 12 complete (p. 452 Pratipadārtha, Bhāvārtha, printed English, Special Topics; p. 453 continuation); Ṛk 13 (last of Sūkta 2) written: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (referring to the end of Sūkta 1, p. 426); Sūkta 2 complete. Sūkta 3 (11 Ṛks, Āprī sūkta) is begun: opening Kannada note and the start of the bhāṣya intro, which breaks off mid-word at "समिद्ध्-" at the foot of p. 454 and continues on p. 455. Note the order on p. 454 in the file: the Pratipadārtha and Bhāvārtha of Ṛk 13 are placed under p. 453/454 as printed (they stand on p. 454 strip 1; in the chunk they follow the Ṛk 13 bhāṣya). Numeral file: only "227-273" on p. 454, agrees. Not zoomed: headers (p. 453 read "A. 2 A. 5 Va. 21"), Ṛk numbers 13, and the "(16th Ṛk)" numeral on p. 454 [?]. [?] places: Ṛk 13 first word ये (ए/ओ-sign ambiguous); bhāṣya ⟦चर्त्विजो⟧; p. 453 ⟦वसिष्ठस्य⟧ as printed; Sūkta 3 intro ⟦नराशंसतनूनपादादय⟧.
