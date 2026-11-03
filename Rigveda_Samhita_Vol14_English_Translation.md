@@ -13455,4 +13455,108 @@ The word अश्मा (*aśmā*) is read among the cloud-names (Nirukta 2-21,
 
 ---
 
-**Progress note:** Done through printed p. 383 (PDF 403). Mandala 2 Sukta 1 Rk 1 OPEN: printed English and Special Topics in progress (Rk 1 Special Topic quote of Sayana on Rg 2-12-3 breaks off mid-line at foot of p. 383); grammar to follow. Flags: Varga numeral in headers pp. 381 and 383 read as 17 from strip, no file rows; Nirukta 7-14 (file) read ambiguously 2/7-14; [?] in Ai. Br. quote (avamah/upamah), Nirukta 6-1 quote (purastacchikirsitaja, ayumupitarah); earlier Rk 1 bhasya [?] (nityasvamitvam, ajyupapade) clarified by the clearer printing on p. 382. 3 [?] places, 0 zooms.
+### Printed p. 384 (PDF 404)
+
+*(Header: "Maṃ. 2 A. 1 Sū. 1"; "Sāyaṇabhāṣyasahitā".)*
+
+**Special Topics, continued.** The Sāyaṇa quote on Ṛg 2-12-3 runs on from p. 383:
+
+> [?]योरंतर्मध्ये वैद्युतमग्निं जजान उत्पादयामास ।
+
+> *[?]yoraṃtarmadhye vaidyutamagniṃ jajāna utpādayāmāsa |*
+
+That is: the word अश्मा (*aśmā*) is formed from the root अश् (*aś*) meaning "to pervade"; because it pervades the sky (*antarikṣa*), the cloud is called *aśmā*. In the midst of such soft clouds Indra produced the lightning-fire — so the meaning is explained. *(The first letter of the quoted line is not decidable; left as [?].)*
+
+त्वं वनेभ्यः (*tvaṃ vanebhyaḥ*) — the bhāṣya:
+
+> त्वं वनेभ्यः — वृक्षादिसमूहेभ्यो दावरूपेण ।
+
+> *tvaṃ vanebhyaḥ — vṛkṣādisamūhebhyo dāvarūpeṇa |*
+
+Kannada: in the forests you are born in the form of forest-fire. In the forest the bamboos rub one against another, a blaze arises from it and burns the whole forest; this is well known.
+
+त्वमोषधीभ्यः (*tvamoṣadhībhyaḥ*) — the bhāṣya:
+
+> त्वमोषधीभ्यः — वैश्वानररूपेण । मथनेनोत्पन्नः सन् सर्वात्मको भवसीत्यर्थः ।
+
+> *tvamoṣadhībhyaḥ — vaiśvānararūpeṇa | mathanenotpannaḥ san sarvātmako bhavasītyarthaḥ |*
+
+Kannada: Agni is present in all living beings (as the digestive fire, *jāṭharāgni*) and also in herbs and trees as Vaiśvānara. When Agni is produced in the sacrifice, they take two pieces of the aśvattha tree or of the śamī tree, put one upon the other and churn strongly; thereby Agni is produced. On this point —
+
+> शमीगर्भादग्निं मंथति । एषा वा अग्नेर्यज्ञिया तनूः । तामेवास्मै जनयति ॥
+
+*(Tai. Brā. 1-1-9-1, as in the file.)*
+
+Thus there is the Taittirīya Brāhmaṇa passage. The method of producing Agni by churning with mantra and with rites in sacrifices is told in the Aitareya Brāhmaṇa (Ai. Brā. 3-5, as in the file) in this way: since churning of Agni is mentioned in this Ṛk, it is proper to describe that procedure here. In the sacrifice, after the *somavikraya* (the purchase of the soma-creeper from those who brought it from mountains and forests) is completed, the work of churning Agni begins. Then the priest called Adhvaryu says to the priest called Hotṛ —
+
+> अग्नये मथ्यमानायानुब्रूहीत्याहाध्वर्युरभि त्वा देव सवितरिति सावित्रीमन्वाह तदाहुर्यदग्नये मथ्यमानायानुवाचाहाथ कस्मात्सावित्रीमन्वाहेति । सविता वै प्रसवानामीशे सवितृप्रसूत एवैनं तन्मथति तस्मात्सावित्रीमन्वाह ।
+
+> *agnaye mathyamānāyānubrūhītyāhādhvaryurabhi tvā deva savitariti sāvitrīmanvāha tadāhuryadagnaye mathyamānāyānuvācāhātha kasmātsāvitrīmanvāheti | savitā vai prasavānāmīśe savitṛprasūta evainaṃ tanmathati tasmātsāvitrīmanvāha |*
+
+The Adhvaryu says to the Hotṛ the *praiṣa* mantra "agnaye mathyamānāyānubrūhi" (a *praiṣa* mantra is the mantra by which, when various rites are done in the sacrifice, the Adhvaryu and others command persons concerned to do such and such a rite or oblation); hearing it, the Hotṛ —
+
+---
+
+### Printed p. 385 (PDF 405)
+
+*(Header: "A. 2 A. 5 Va. 17" as read, i.e. Aṣṭaka 2, Adhyāya 5, Varga 17; "Ṛgvedasaṃhitā".)*
+
+> अभि त्वा देव सवितरीशानं वार्याणाम् । सदावन् भागमीमहे ॥
+
+*(Ṛ. Saṃ. 1-24-3, as in the file.)*
+
+— recites this mantra addressed to Savitṛ (the Sāvitrī ṛk). A doubt arises here: though the Adhvaryu directed the Hotṛ to say the mantra needed for churning Agni, why does the Hotṛ, without doing so, recite a ṛk addressed to Savitṛ? Is this not wrong? No: according to the sentence "*savitā vai prasavānāmīśe*" Savitṛ is the lord of whatever is to be produced in all sacrifices and rites; therefore here, for beginning the work of producing Agni by churning, it is natural to ask the permission of the deity Savitṛ. For that reason the Hotṛ first recites the ṛk addressed to Savitṛ.
+
+> मही द्यौः पृथिवी च न इति द्यावापृथिवीयामन्वाह । तदाहुर्यदग्नये मथ्यमानायानुवाचाहाथ कस्माद्द्यावापृथिवीयामन्वाहेति द्यावापृथिवीभ्यां वा एतं जातं देवाः पर्यगृह्णंस्ताभ्यामेवाद्यापि परिगृहीतस्तस्माद्द्यावापृथिवीयामन्वाह ॥
+
+> *mahī dyauḥ pṛthivī ca na iti dyāvāpṛthivīyāmanvāha | tadāhuryadagnaye mathyamānāyānuvācāhātha kasmāddyāvāpṛthivīyāmanvāheti dyāvāpṛthivībhyāṃ vā etaṃ jātaṃ devāḥ paryagṛhṇaṃstābhyāmevādyāpi parigṛhītastasmāddyāvāpṛthivīyāmanvāha ‖*
+
+Next the Hotṛ proceeds —
+
+> मही द्यौः पृथिवी च न इमं यज्ञं मिमिक्षताम् । पिपृतां नो भरीमभिः ॥
+
+*(Ṛ. Saṃ. 1-22-13, as in the file.)*
+
+— and recites this ṛk addressed to Heaven and Earth. Some raise an objection to this: for the work of churning Agni one was to say a ṛk addressed to Agni; why does this Hotṛ recite a ṛk addressed to Heaven and Earth? The answer: formerly, when Agni was born, the gods held him between Heaven and Earth (earth and the heavens); therefore even now it must be so. Since the fire named Pāvaka is held by the earth and the fire in the form of the sun is held by heaven, it is right that for the holding of Agni a ṛk addressed to Heaven and Earth be recited.
+
+> त्वामग्ने पुष्करादधीति तृचमाग्नेयं गायत्रमन्वाहाग्नौ मथ्यमाने स्वयैवैनं तद्देवतया स्वेन छंदसा समर्थयति । अथर्वा निरमंथतेति रूपसमृद्धमेतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति ॥
+
+> *tvāmagne puṣkarādadhīti tṛcamāgneyaṃ gāyatramanvāhāgnau mathyamāne svayaivainaṃ taddevatayā svena chaṃdasā samarthayati | atharvā niramaṃthateti rūpasamṛddhametadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati ‖*
+
+Then the Hotṛ, for the churning of Agni, recites the following ṛks addressed to Agni —
+
+---
+
+### Printed p. 386 (PDF 406)
+
+*(Header: "Maṃ. 2 A. 1 Sū. 1"; "Sāyaṇabhāṣyasahitā".)*
+
+> त्वामग्ने पुष्करादध्यथर्वा निरमंथत । मूर्ध्नो विश्वस्य वाघतः ॥
+> तमु त्वा दध्यङ्ङृषिः पुत्र ईधे अथर्वणः । वृत्रहणं पुरंदरं ॥
+> तमु त्वा पाथ्यो वृषा समीधे दस्युहंतमम् । धनंजयं रणेरणे ॥
+
+*(Ṛ. Saṃ. 6-16-13, 14, 15, as I read it on a zoom (a faint ∩ before the second 6); the file said 6-6-13: see flags.)*
+
+— recites these three ṛks. These three ṛks praise the deity Agni, and are ṛks in the *gāyatrī* metre, dear to Agni; for Agni and the gāyatrī metre are both produced by Prajāpati, therefore the gāyatrī metre is called Agni's "own metre". Now, the words *atharvā niramanthata* said in the second pāda of the first ṛk only say that the ṛṣi Atharvā produced Agni by churning. This ṛṣi Atharvā was the first to churn Agni and produce him in the *araṇis*; therefore there is the prayer that Agni, born as son to the ṛṣi Atharvaṇa, may grow and prosper in the sacrifice. For this reason it is natural to recite these ṛks, which give the sense: "may Agni, taking form from the araṇis and born (that is, in complete fire-form), grow in the sacrificial rite (blazing up greatly) and shine."
+
+> स यदि न जायेत यदि चिरं जायेत रक्षोघ्न्यो गायत्र्योऽनूच्याः । अग्ने हंसि न्यत्रिणमित्येताः रक्षसामुपहत्यै रक्षांसि वा एनं तर्ह्यालभंते यर्हि न जायते यर्हि चिरं जायते ॥
+
+> *sa yadi na jāyeta yadi ciraṃ jāyeta rakṣoghnyo gāyatryo 'nūcyāḥ | agne haṃsi nyatriṇamityetāḥ rakṣasāmupahatyai rakṣāṃsi vā enaṃ tarhyālabhaṃte yarhi na jāyate yarhi ciraṃ jāyate ‖*
+
+Reciting the five ṛks mentioned before, one must churn Agni in the araṇis. If, even so, Agni is not produced, or until after a long time, and is produced only with smoke and the like, then the following sūkta of the *gāyatrī* metre, called *rākṣoghna* (destroyer of demons), must be recited —
+
+> अग्ने हंसि न्यत्रिणं दीद्यन्मर्तेष्वा । स्वे क्षयो शुचिव्रत ॥
+> उत्तिष्ठसि स्वाहुतो घृतानि प्रतिमोदसे । यत्त्वा स्रुचः समस्थिरन् ॥
+> स आहुतो वि रोचतेऽग्निरीळेन्यो गिरा । स्रुचा प्रतीकमज्यते ॥
+> घृतेनाग्निः समज्यते मधुप्रतीक आहुतः । रोचमानो विभावसुः ॥
+> जरमाणः समिध्यसे देवेभ्यो हव्यवाहन । तं त्वा हवंत मर्त्याः ॥
+> तं मर्ता अमर्त्यं घृतेनाग्निं सपर्यत । अदाभ्यं गृहपतिं ॥
+> अदाभ्येन शोचिषाग्ने रक्षस्त्वं दह । गोपा ऋतस्य दीदिहि ॥
+> स त्वमग्ने प्रतीकेन प्रत्योष यातुधान्यः । उरुक्षयेषु दीद्यत् ॥
+> तं त्वा गीर्भिरुरुक्षया हव्यवाहं समीधिरे । यजिष्ठं मानुषे जने ॥
+
+*(Ṛ. Saṃ. 10-118-1 to 9, as in the file.)*
+
+---
+
+**Progress note:** Done through printed p. 386 (PDF 406). Mandala 2 Sukta 1 Rk 1 OPEN: Special Topics continuing (Rg 10-118 rakshoghna sukta quoted in full, p. 386); grammar of Rk 1 and Rk 2 onward to follow. Flags: FILE DISAGREE on p. 386 reference: file said 6-6-13, zoom read 6-16-13 (faint 1), written 6-16-13 with note; [?] first letter of Sayana line at top of p. 384.
