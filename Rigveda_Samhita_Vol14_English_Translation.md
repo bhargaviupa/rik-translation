@@ -13819,4 +13819,126 @@ The होतृ (*hotṛ*) in the sacrifice invokes the deities, reciting mantr
 
 ---
 
-**Progress note:** Done through printed p. 395 (PDF 415). Mandala 2 Sukta 1: Rk 2 complete (Special Topics end p. 395; no grammar page printed); Rk 3 Samhita written, Rk number not printed on this page; Pada begins on p. 396. Flags: p. 393 two [?] in bhasya; header numerals p. 393 and p. 395 read Astaka 2, Varga 17, adhyaya numeral not checked; file has no rows for p. 393 and 395.
+### Printed p. 396 (PDF 416)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1".)*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । इन्द्रः । वृषभः । सतां । असि । त्वं । विष्णुः । उरुऽगायः । नमस्यः ॥
+> त्वं । ब्रह्मा । रयिऽवित् । ब्रह्मणः । पते । त्वं । विधर्तरिति । विऽधर्तः । सचसे । पुरंऽध्या ॥ ३ ॥
+
+> *tvaṃ | agne | indraḥ | vṛṣabhaḥ | satāṃ | asi | tvaṃ | viṣṇuḥ | uru 'gāyaḥ | namasyaḥ ‖*
+> *tvaṃ | brahmā | rayi 'vit | brahmaṇaḥ | pate | tvaṃ | vidhartariti | vi 'dhartaḥ | sacase | puraṃ 'dhyā ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni is Indra as the showerer of wishes, Viṣṇu as the much-praised, Brahmā as the knower of wealth, and is joined with manifold insight.
+
+> हे अग्ने त्वं यतः सतां वृषभो वर्षितासि अतो इन्द्रोऽसि । यद्वा सतां साधूनामिन्द्रोऽसि । कामानां वर्षितासि । त्वं विष्णुरसि । यत उरुगायो बहुभिर्गीयमानो नमस्यो नमस्कार्यश्च भवसि । हे ब्रह्मणस्पते परिवृढस्य कर्मणो मन्त्रस्य वा पालयितस्त्वं यतो रयिवित् गवादिधनस्य वेत्ता अतो ब्रह्मासि । हे विधर्तर्विविधकारक वैश्वानररूपाग्ने पुरंध्या बहुप्रकारया बुद्ध्या सचसे सह वर्तसे । सर्वदा बुद्ध्या स्तूयस इत्यर्थः ॥
+
+> *he agne tvaṃ yataḥ satāṃ vṛṣabho varṣitāsi ato indro 'si | yadvā satāṃ sādhūnāmindro 'si | kāmānāṃ varṣitāsi | tvaṃ viṣṇurasi | yata urugāyo bahubhirgīyamāno namasyo namaskāryaśca bhavasi | he brahmaṇaspate parivṛḍhasya karmaṇo mantrasya vā pālayitastvaṃ yato rayivit gavādidhanasya vettā ato brahmāsi | he vidhartarvividhakāraka vaiśvānararūpāgne puraṃdhyā bahuprakārayā buddhyā sacase saha vartase | sarvadā buddhyā stūyasa ityarthaḥ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; सतां (*satāṃ*) — to good men; वृषभः (*vṛṣabhaḥ*) — one who showers (grants) wished-for things; इन्द्रः (*indraḥ*) — as Indra; असि (*asi*) — you are; त्वं (*tvaṃ*) — you; उरुगायः (*urugāyaḥ*) — praised by many; नमस्यः (*namasyaḥ*) — worthy of salutation; विष्णुः (*viṣṇuḥ*) — you are Viṣṇu; ब्रह्मणस्पते (*brahmaṇaspate*) — O Agni, protector of the rites; त्वं (*tvaṃ*) — you; रयिवित् (*rayivit*) — wealthy; ब्रह्मा (*brahmā*) — you are Brahmā; विधर्तः (*vidhartaḥ*) — O Vaiśvānara-Agni, the doer of many works; पुरंध्या (*puraṃdhyā*) — by manifold knowledge; सचसे (*sacase*) — you are united (or: you are praised with manifold wisdom).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni! You are Indra, who grants wished-for things to good men; you are Viṣṇu, who is praised by many and worthy of salutation; and you are the wealthy Brahmā. You are endowed with every kind of knowledge.
+
+**English Translation** *(as printed)*
+
+You, Agni, are Indra, the showerer (of bounties) on the good ; you are the adorable Vishnu, the hymned of many ; you, Brahmasanapati [sic], are Brahma, the possessor of riches ; you, the author of various (conditions), are associated with wisdom.
+
+---
+
+---
+
+### Printed p. 397 (PDF 417)
+
+*(Header: "Ṛgvedasaṃhitā"; Aṣṭaka 2, Varga 17 as read from the small header numerals, adhyāya numeral not checked; the file has no header row for this page.)*
+
+**विशेषविषयगळु (Special Topics)**
+
+वृषभः (*vṛṣabhaḥ*) — कामानां वर्षिता (*kāmānāṃ varṣitā*): one who showers wished-for things; one who gives wished-for things.
+
+इन्द्रो वृषभः सतां असि (*indro vṛṣabhaḥ satāṃ asi*) — you are one who gives wished-for things to good men, like Indra. Or इन्द्रो सतां असि (*indro satāṃ asi*) [initial vowel of the last word looks long in print] — the meaning is: you are called the best among all good men.
+
+विष्णुरुरुगायः (*viṣṇururugāyaḥ*) — बहुभिर्गीयमानो विष्णुरसि (*bahubhirgīyamāno viṣṇurasi*): you are Viṣṇu. Like Viṣṇu, you are sung of by many in respect of your qualities.
+
+ब्रह्मणस्पते (*brahmaṇaspate*) — यज्ञकर्मणः पालयिता (*yajñakarmaṇaḥ pālayitā*): protector of the sacrificial rites. Or, like Bṛhaspati (Brahmaṇaspati), lord of the hymns.
+
+पुरंध्या (*puraṃdhyā*) — Yāska has the derivation पुरंधिर्बहुधी (*puraṃdhirbahudhī*) ("Purandhi = much thought") (Nirukta 6-13, as printed "ni. 6-13"). बहुप्रकारया बुद्ध्या सचसे (*bahuprakārayā buddhyā sacase*): you are one who possesses abundant or manifold understanding. Or: people praise you with their manifold understanding; this too is the meaning.
+
+---
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> त्वमग्ने राजा वरुणो धृतव्रतस्त्वं मित्रो भवसि दस्म ईड्यः ।
+> त्वमर्यमा सत्पतिर्यस्य संभुजं त्वमंशो विदथे देव भाजयुः ॥ ४ ॥
+
+> *tvamagne rājā varuṇo dhṛtavratastvaṃ mitro bhavasi dasma īḍyaḥ |*
+> *tvamaryamā satpatiryasya saṃbhujaṃ tvamaṃśo vidathe deva bhājayuḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । अग्ने । राजा । वरुणः । धृतऽव्रतः । त्वं । मित्रः । भवसि । दस्मः । ईड्यः ।
+> त्वं । अर्यमा । सत्ऽपतिः । यस्य । संऽभुजं । त्वं । अंशः । विदथे । देव । भाजयुः ॥ ४ ॥
+
+> *tvaṃ | agne | rājā | varuṇaḥ | dhṛta 'vrataḥ | tvaṃ | mitraḥ | bhavasi | dasmaḥ | īḍyaḥ |*
+> *tvaṃ | aryamā | sat 'patiḥ | yasya | saṃ 'bhujaṃ | tvaṃ | aṃśaḥ | vidathe | deva | bhājayuḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥** *(continues on p. 398)*
+
+*Gist:* Agni is Varuṇa as upholder of vows, Mitra as the praised destroyer of foes, Aryaman as protector of the good, and Aṃśa, distributing fruits at the sacrifice.
+
+> हे अग्ने त्वं यतो धृतव्रतो धारितकर्मासि अतो वरुणो राजासि । यतो दस्मः शत्रूणामुपक्षपयिता ईड्यः स्तुत्यश्च अतो मित्र एतन्नामको
+
+> *he agne tvaṃ yato dhṛtavrato dhāritakarmāsi ato varuṇo rājāsi | yato dasmaḥ śatrūṇāmupakṣapayitā īḍyaḥ stutyaśca ato mitra etannāmako*
+
+---
+
+---
+
+### Printed p. 398 (PDF 418)
+
+*(Header: "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 1 Sū. 1".)*
+
+*(Bhāṣya of Ṛk 4, continued from p. 397; the words marked [?] were zoomed and remain uncertain.)*
+
+> देवोऽसि । यतः सत्पतिः सतामभिमतप्रदानेन पालयिता अतोऽर्यमा भवसि । दातृत्वं चार्यम्णो लिंगं । अर्यमेति तमाहुर्यो ददातीति । यस्यार्यम्णो दानं संभुजं संततभुजं व्यापकं भवति । यद्वा यस्य धनं संभुजं सम्यक् भोगाय साधु ग्रहीत्वाणां [?] । तथा त्वमंशः सूर्यमूर्त्यंतरभूते एतन्नामको देवोऽसि । तादृश हे देव विदथेऽस्मदीये यज्ञे भाजयुः फलानां भाजयिता प्रपेयितासि [?] ॥
+
+> *devo 'si | yataḥ satpatiḥ satāmabhimatapradānena pālayitā ato 'ryamā bhavasi | dātṛtvaṃ cāryamṇo liṃgaṃ | aryameti tamāhuryo dadātīti | yasyāryamṇo dānaṃ saṃbhujaṃ saṃtatabhujaṃ vyāpakaṃ bhavati | yadvā yasya dhanaṃ saṃbhujaṃ samyak bhogāya sādhu grahītvāṇāṃ [?] | tathā tvamaṃśaḥ sūryamūrtyaṃtarabhūte etannāmako devo 'si | tādṛśa he deva vidathe 'smadīye yajñe bhājayuḥ phalānāṃ bhājayitā prapeyitāsi [?] ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अग्ने (*agne*) — O Agni; त्वं (*tvaṃ*) — you; धृतव्रतः (*dhṛtavrataḥ*) — controller of truth and other vows; राजा (*rājā*) — the lord; वरुणः (*varuṇaḥ*) — you are Varuṇa; त्वं (*tvaṃ*) — you; दस्मः (*dasmaḥ*) — destroyer of enemies; ईड्यः (*īḍyaḥ*) — worthy of praise; मित्रः (*mitraḥ*) — you are Mitra; त्वं (*tvaṃ*) — you; यस्य (*yasya*) — whose Aryaman's; gift (दानं (*dānaṃ*)); संभुजं (*saṃbhujaṃ*) — as that which is enjoyed everywhere; सत्पतिः (*satpatiḥ*) — protector of good men; अर्यमा (*aryamā*) — as Aryaman; भवसि (*bhavasi*) — you are; त्वं (*tvaṃ*) — you; अंशः (*aṃśaḥ*) — you are the god Aṃśa; देवः (*devaḥ*) — O god, being such, O Agni; विदथे (*vidathe*) — in our sacrifice; भाजयुः (*bhājayuḥ*) — be the distributor of good fruits.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni! You are Varuṇa, the controller of vows and the lord, and Mitra, the destroyer of enemies and worthy of praise. You are Aryaman, the cause of the gift enjoyed by all and the protector of good men, and you are Aṃśa. O Agni, who are the very self of the deities, be the distributor of good fruits in our sacrifice.
+
+**English Translation** *(as printed)*
+
+You, Agni, are the royal Varuna, observant of holy vows : you are the adorable Mitra, the destroyer (of foes) : you are Aryaman, the protector of the virtuous, whose (liberality) is enjoyed by all : you are a portion (of the sun) : be the distributor (of good things), divine (Agni), at our sacrifice.
+
+**विशेषविषयगळु (Special Topics)**
+
+In this Ṛk Agni is described as the very form of the deities named Mitra, Varuṇa, Aryaman and Aṃśa. That these deities Mitra and the rest are called Ādityas —
+
+Passage cited (RV 2-27-1, printed "ṛ. saṃ. 2-27-1"; the sentence introducing it is unfinished at the end of the page, so Special Topics remain open; no gloss given by the source):
+
+> इमा गिर आदित्येभ्यो घृतस्नूः सनाद्राजभ्यो जुह्वा जुहोमि ।
+> शृणोतु मित्रो अर्यमा भगो नस्तुविजातो वरुणो दक्षो अंशः ॥
+
+> *imā gira ādityebhyo ghṛtasnūḥ sanādrājabhyo juhvā juhomi |*
+> *śṛṇotu mitro aryamā bhago nastuvijāto varuṇo dakṣo aṃśaḥ ‖*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 398 (PDF 418). Mandala 2 Sukta 1: Rk 4 written through printed English; its Special Topics are open at the citation RV 2-27-1 (continues p. 399). Flags: p. 398 bhasya has two [?] (grahitvanam; prapeyitasi), both zoomed; file had no usable rows for pp. 396-397; RV 2-27-1 numeral agrees with file.
