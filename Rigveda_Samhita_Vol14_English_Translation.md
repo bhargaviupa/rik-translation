@@ -12814,4 +12814,120 @@ Having told so far the means of removing poison, the sage now describes that he 
 
 ---
 
-**Progress note:** Done through printed p. 365 (PDF 385). Sūkta 191: Ṛks 1-12 complete; Ṛk 13 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English, Special Topics written; its Vyākaraṇa-prakriyā begun on p. 365 and continues on p. 366). Varga 16 in headers of pp. 363 and 365 (unzoomed); no Varga closing note yet. Flags pp. 363-365: Ṛk 12 bhāṣya 'bhedenyaikaviṃśatiḥ' as it looks [?]; 'aḍāgama' as it looks; sūtra names 'mantreghasa-', 'gamahana-' printed truncated; Pā. Sū. 2-4-37 and 6-1-179 agree with file (unzoomed); printed English 'coursers·' (dot as printed). Counts pp. 363-365: 1 distinct [?], 0 zooms, file settled without zoom 2, file lacked 0. (Earlier flags: see previous archives; flags pp. 360-362 and 357-359 as in prior note: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; sūtra name after 'tedoḥ sā-' garbled [?]; Pā. Sū. 5-3-71, 2-4-40, Ṛ. Saṃ. 2-42-3, 2-43-1 agree with file; pp. 357-359 as printed [sic] 'English Translatin', 'vender', 'poisonns', 'arb', 'wholely'; 'tadanugrahāttraiva', 'viṣyaiva' [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. part number before 'page 615' read 5 [?]; possible lost word at strip join p. 359; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees. Older flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.)
+### Printed p. 366 (PDF 386)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191", "Sāyaṇabhāṣyasahitā". Ṛk 13: grammar continued from p. 365; Ṛk 14 begins.)*
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(Ṛk 13 continued; grammar page, noted briefly)*
+
+**नवतीनाम् (*navatīnām*)**: by पंक्ति विशंति- (*paṃkti viśaṃti-*) (Pā. Sū. 5-1-60, file agrees, not zoomed; the sūtra name is printed truncated) the affix ti comes after the word navan; the loss of na is irregular (nipātita). As before, in the genitive plural the case-ending nām gets the udātta accent.
+
+**अग्रभम् (*agrabham*)**: root ग्रह उपादाने (*graha upādāne*); chāndasa luṅ in the sense of the present; for the first-person singular mip the substitute am; chāndasa luk of cli; by हृग्रहोर्भश्छंदसि (*hṛgrahorbhaśchaṃdasi*) (no number printed) the h of the root becomes bh; the augment aḍ for the aṅga; since it stands after an atiṅanta [as printed], the nighāta accent comes.
+
+---
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> त्रिः सप्त मयूर्यः सप्त स्वसारो अग्रुवः ।
+> तास्ते विषं वि जभ्रिर उदकं कुंभिनीरिव ॥ १४ ॥
+
+> *triḥ sapta mayūryaḥ sapta svasāro agruvaḥ |*
+> *tāste viṣaṃ vi jabhrira udakaṃ kuṃbhinīriva ‖ 14 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्रिः । सप्त । मयूर्यः । सप्त । स्वसारः । अग्रुवः ।
+> ताः । ते । विषं । वि । जभ्रिरे । उदकं । कुंभिनीःऽइव ॥ १४ ॥
+
+> *triḥ | sapta | mayūryaḥ | sapta | svasāraḥ | agruvaḥ |*
+> *tāḥ | te | viṣaṃ | vi | jabhrire | udakaṃ | kuṃbhinīḥ 'iva ‖ 14 ‖*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya)**
+
+*Gist:* Twenty-one peahens, and the seven flowing sisters (rivers), are asked to carry off the body's poison as women with pitchers carry water.
+
+> त्रिः सप्तैकविंशतिसंख्याका मयूर्यो मयूरस्त्रियः ॥ ता विषकारिसर्पद्वेषिण्य इति प्रसिद्धा नागद्वेषिगरुडपक्षादुत्पन्नत्वात् । तथा सप्तैतत्संख्याकाः सर्पणस्वभावाः स्वसारः स्वयमेव सरणा अग्रुवः । नदीनामैतत् [?] । सुरगंगाद्याः प्रसिद्धाः सप्त नद्यः संति । तास्ते हे देह तव विषं वि जभ्रिरे । विशेषेण हरंतु । तत्र दृष्टांतः । उदकं कुंभिनीः कुंभिन्यः कुंभवत्यः कुंभेन जलहारिण्य इव । ता यथा तद्धरंति तद्वन्नद्यो मयूर्यश्चातिप्रभूतं हरंतु ॥
+
+> *triḥ saptaikaviṃśatisaṃkhyākā mayūryo mayūrastriyaḥ ‖ tā viṣakārisarpadveṣiṇya iti prasiddhā nāgadveṣigaruḍapakṣādutpannatvāt | tathā saptaitatsaṃkhyākāḥ sarpaṇasvabhāvāḥ svasāraḥ svayameva saraṇā agruvaḥ | nadīnāmaitat [?] | suragaṃgādyāḥ prasiddhāḥ sapta nadyaḥ saṃti | tāste he deha tava viṣaṃ vi jabhrire | viśeṣeṇa haraṃtu | tatra dṛṣṭāṃtaḥ | udakaṃ kuṃbhinīḥ kuṃbhinyaḥ kuṃbhavatyaḥ kuṃbhena jalahāriṇya iva | tā yathā taddharaṃti tadvannadyo mayūryaścātiprabhūtaṃ haraṃtu ‖*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+(O body — Elaide dehave) **त्रिः सप्त (*triḥ sapta*)** — the twenty-one in number; **मयूर्यः (*mayūryaḥ*)** — the peahens; **सप्त (*sapta*)** — the seven in number; **स्वसारः (*svasāraḥ*)** — flowing; **ताः अग्रुवः (*tāḥ agruvaḥ*)** — the rivers beginning with Gaṅgā likewise; **कुंभिनीः (*kuṃbhinīḥ*)** — women who carry water in pitchers; **उदकं इव (*udakaṃ iva*)** — as they go away filling water; **ते (*te*)** — your; **विषं (*viṣaṃ*)** — poison; **वि जभ्रिरे (*vi jabhrire*)** — may they carry off completely (may it be destroyed).
+
+---
+
+### Printed p. 367 (PDF 387)
+
+*(Header: "A. 2 A. 5 Va. 16" (Varga numeral unzoomed, read 16), "Ṛgvedasaṃhitā". Ṛk 14: Bhāvārtha, printed English, Special Topics, grammar.)*
+
+**भावार्थ (Bhāvārtha)** *(Kannada, rendered)*
+
+O body, may the twenty-one peahens, and the seven flowing rivers beginning with Gaṅgā, carry off your poison completely, as women who bear water in pitchers go away having filled them with water.
+
+**English Translation** *(printed heading)*
+
+May the thrice-seven peahens, the seven-sister rivers, carry off, (O Body), your poison as maidens, with pitchers, carry away water·
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**त्रिः सप्त मयूर्यः (*triḥ sapta mayūryaḥ*)** — *mayūra* means a peacock; *mayūrī* means a peahen. They are peahens of twenty-one kinds (made up of twenty-one differences of species); it is said that these peacocks are born from the garuḍa birds that hate snakes. Therefore it is well known in the world that these peacocks fearlessly kill and eat snakes.
+
+**सप्त स्वसारो अग्रुवः (*sapta svasāro agruvaḥ*)** — *svasāraḥ* means of a flowing nature, flowing. The word *agruvaḥ* is read both among the names of the finger (Ni. 3-9, file agrees, not zoomed) and among the names of rivers (Ni. 2-24, file agrees, not zoomed). Here rivers are meant; they say that flowing rivers have the power of removing poison. Therefore the bhāṣyakāra says here "the seven rivers beginning with Gaṅgā". Or it may be Gaṅgā and its tributaries. Although there are many holy rivers, since the word *sapta* (seven) is used here, the sage's intention rests on seven principal rivers.
+
+**ते विषं (*te viṣaṃ*)** — the bhāṣyakāra's explanation is that this word "your" addresses the body. It is a prayer that the peahens and the seven flowing rivers may remove the poison of your (body).
+
+**उदकं कुंभिनीरिव (*udakaṃ kuṃbhinīriva*)** — कुंभिनीः कुंभिन्यः कुंभवत्यः कुंभेन जलहारिण्य इव । ता यथा तद्धरंति तद्वन्नद्यो मयूर्यश्चातिप्रभूतं हरंतु । (*kuṃbhinīḥ kuṃbhinyaḥ kuṃbhavatyaḥ kuṃbhena jalahāriṇya iva | tā yathā taddharaṃti tadvannadyo mayūryaścātiprabhūtaṃ haraṃtu |*) *Kumbhinī* means women who bear a *kumbha* (earthen pot or brass pot) for bringing water. As such women take away water in pots from a river or other reservoir, may the rivers take away the poison spread in the body: thus the example is given.
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+**मयूर्यः (*mayūryaḥ*)**: the word *mayūra*; since it denotes a species in the feminine, the affix ṅīṣ; in jas, the yaṇ substitution; since yaṇ comes in the place of an udātta, the following syllable gets the svarita accent. *(No sūtra numbers printed.)*
+
+---
+
+### Printed p. 368 (PDF 388)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191", "Sāyaṇabhāṣyasahitā". Ṛk 14 grammar ends; Ṛk 15 begins; Pratipadārtha of Ṛk 15 begun and runs on to p. 369. The numeral file has no rows for this page; Ṛk numerals read from the strips, unzoomed.)*
+
+**जभ्रिरे (*jabhrire*)**: root हृञ् हरणे (*hṛñ haraṇe*); chāndasa liṭ in the sense of loṭ; for the prathama (third-person) plural the substitute इरेच् (*irec*); because it has the kit-like extension (kittvātideśa) there is no guṇa; yaṇ substitution; since it stands after an atiṅanta [as printed], the nighāta accent comes.
+
+**कुंभिनीः (*kuṃbhinīḥ*)**: कुंभः आसामस्ति (*kuṃbhaḥ āsāmasti*) [as printed] — *kumbhinī*; the affix ini in the sense of "possessing"; since in the feminine it ends in n, ṅīp; by the initial-udātta accent of the affix ini the word becomes madhyodātta; chāndasa: when jas follows, the preceding-similar long vowel (pūrvasavarṇadīrgha).
+
+---
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> इयत्तकः कुषुंभकस्तकं भिनद्म्यश्मना ।
+> ततो विषं प्र वावृते पराचीरनु संवतः ॥ १५ ॥
+
+> *iyattakaḥ kuṣuṃbhakastakaṃ bhinadmyaśmanā |*
+> *tato viṣaṃ pra vāvṛte parācīranu saṃvataḥ ‖ 15 ‖*
+
+**॥ पदपाठः ॥**
+
+> इयत्तकः । कुषुंभकः । तकं । भिनद्मि । अश्मना ।
+> ततः । विषं । प्र । ववृते । पराचीः । अनु । संऽवतः ॥ १५ ॥
+
+> *iyattakaḥ | kuṣuṃbhakaḥ | takaṃ | bhinadmi | aśmanā |*
+> *tataḥ | viṣaṃ | pra | vavṛte | parācīḥ | anu | saṃ 'vataḥ ‖ 15 ‖*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya)**
+
+*Gist:* The little mongoose (kuṣumbhaka) removes the poison; if not, I split it with a stone; then the poison turns away, going far in the directions, not to me.
+
+> इयत्तकः कुत्सितेयत्तः । अल्पप्रमाण इत्यर्थः । कुषुंभकः कुं पृथ्वीं सुंभति विलिखतीति सर्पाणां कुत्सितं सुंभयिता निग्रहीता कुषुंभको नकुलः । स ते विषं हरत्विति शेषः । यदि न तथा स करोति तकं कुत्सितं तं नकुलमश्मना भिनद्मि । विदारयामि । विषनिर्हरणप्रयोगे यावद्विषापगमं तं पाषाणानुघातमनुतिष्ठंति तद्विदः । तदिदमत्रोक्तं । ततः एवं प्रयोगे सति विषं प्र वावृते । विषावृताद्देहाद्विषं प्रवर्तते । निर्गच्छतु । काः प्रति । उच्यते । पराचीः पराग्चनवतीरतिदूरगाः संवतः संविभागवतो दिशोऽनु लक्षीकृत्य । दिगंतं प्रति गच्छतु न मां प्रति गच्छतीत्यर्थः ॥
+
+> *iyattakaḥ kutsiteyattaḥ | alpapramāṇa ityarthaḥ | kuṣuṃbhakaḥ kuṃ pṛthvīṃ suṃbhati vilikhatīti sarpāṇāṃ kutsitaṃ suṃbhayitā nigrahītā kuṣuṃbhako nakulaḥ | sa te viṣaṃ haratviti śeṣaḥ | yadi na tathā sa karoti takaṃ kutsitaṃ taṃ nakulamaśmanā bhinadmi | vidārayāmi | viṣanirharaṇaprayoge yāvadviṣāpagamaṃ taṃ pāṣāṇānughātamanutiṣṭhaṃti tadvidaḥ | tadidamatroktaṃ | tataḥ evaṃ prayoge sati viṣaṃ pra vāvṛte | viṣāvṛtāddehādviṣaṃ pravartate | nirgacchatu | kāḥ prati | ucyate | parācīḥ parāgcanavatīratidūragāḥ saṃvataḥ saṃvibhāgavato diśo 'nu lakṣīkṛtya | digaṃtaṃ prati gacchatu na māṃ prati gacchatītyarthaḥ ‖*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered; continues on p. 369)*
+
+**इयत्तकः (*iyattakaḥ*)** — of small measure; **कुषुंभकः (*kuṣuṃbhakaḥ*)** — the mongoose (if this (mongoose) does not remove this snake-bite poison of mine); **तकं (*takaṃ*)** — that wretched mongoose; **अश्मना (*aśmanā*)** — with a stone; **भिनद्मि (*bhinadmi*)** — […continues on p. 369]
+
+*(Ṛk 15 is left open: the Pratipadārtha runs on to p. 369.)*
+
+---
+
+**Progress note:** Done through printed p. 368 (PDF 388). Sūkta 191: Ṛks 1-14 complete; Ṛk 15 OPEN (Saṃhitā, Pada, bhāṣya written; Pratipadārtha begun on p. 368 ending at 'bhinadmi—', continues on p. 369). Varga 16 in header of p. 367 (unzoomed); no Varga closing note yet. Flags pp. 366-368: Ṛk 14 bhāṣya 'nadīnāmaitat' read as printed 'नदीनामैतत्' [?]; Ṛk 14 pada 'कुंभिनीःऽइव' compound mark as it looks; 'atiṅanta' as printed (ಅತಿಜಂತ); kumbhinī note 'आसामस्ति' as printed; Pā. Sū. 5-1-60, Ni. 3-9, Ni. 2-24 agree with file (unzoomed); sūtra name 'paṃkti viśaṃti-' printed truncated; printed English 'water·' (dot as printed). Counts pp. 366-368: 1 distinct [?], 0 zooms, file settled without zoom 3, file lacked 0. (Earlier flags: Ṛk 12 bhāṣya 'bhedenyaikaviṃśatiḥ' as it looks [?]; 'aḍāgama' as it looks; sūtra names 'mantreghasa-', 'gamahana-' truncated; Pā. Sū. 2-4-37, 6-1-179 agree; 'coursers·' as printed; pp. 360-362 and 357-359 flags as in prior notes: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; sūtra name after 'tedoḥ sā-' garbled [?]; Pā. Sū. 5-3-71, 2-4-40, Ṛ. Saṃ. 2-42-3, 2-43-1 agree; [sic] 'English Translatin', 'vender', 'poisonns', 'arb', 'wholely'; 'tadanugrahāttraiva', 'viṣyaiva' [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. part number before 'page 615' read 5 [?]; possible lost word at strip join p. 359; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees. Older flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.)
