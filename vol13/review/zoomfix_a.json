@@ -8150,5 +8150,509 @@
   "old": "2-11 [?]",
   "new": "resolved (value matched or corrected from the user's lists)",
   "note": "General matching of numbers with [?] (any preceding words) against the user's lists, and plain counts checked by the user (pp. 1-2); commit f634d5f; not viewed by me."
+ },
+ {
+  "pdf": 33,
+  "printed": 13,
+  "status": "resolved",
+  "old": "27 [?]",
+  "new": "27",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 157,
+  "printed": 137,
+  "status": "resolved",
+  "old": "65 [?]",
+  "new": "65",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 213,
+  "printed": 193,
+  "status": "resolved",
+  "old": "38 [?]",
+  "new": "38",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 214,
+  "printed": 194,
+  "status": "resolved",
+  "old": "53 [?]; 6 [?]",
+  "new": "53; 6",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 237,
+  "printed": 217,
+  "status": "resolved",
+  "old": "147 [?]",
+  "new": "147",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 263,
+  "printed": 243,
+  "status": "resolved",
+  "old": "8 [?]; 9 [?]",
+  "new": "8; 9",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 264,
+  "printed": 244,
+  "status": "resolved",
+  "old": "9 [?]",
+  "new": "9",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 321,
+  "printed": 301,
+  "status": "resolved",
+  "old": "7 [?]",
+  "new": "7",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 364,
+  "printed": 344,
+  "status": "resolved",
+  "old": "26 [?]",
+  "new": "26",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 381,
+  "printed": 361,
+  "status": "resolved",
+  "old": "५ [?]",
+  "new": "५",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 383,
+  "printed": 363,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 385,
+  "printed": 365,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 387,
+  "printed": 367,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 389,
+  "printed": 369,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 391,
+  "printed": 371,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 393,
+  "printed": 373,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 395,
+  "printed": 375,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 396,
+  "printed": 376,
+  "status": "resolved",
+  "old": "६ [?]; 6 [?]",
+  "new": "६; 6",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 397,
+  "printed": 377,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 399,
+  "printed": 379,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 401,
+  "printed": 381,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 403,
+  "printed": 383,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 405,
+  "printed": 385,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 407,
+  "printed": 387,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 409,
+  "printed": 389,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 410,
+  "printed": 390,
+  "status": "resolved",
+  "old": "8 [?]",
+  "new": "8",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 411,
+  "printed": 391,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 413,
+  "printed": 393,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 415,
+  "printed": 395,
+  "status": "resolved",
+  "old": "18 [?]",
+  "new": "18",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 416,
+  "printed": 396,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 417,
+  "printed": 397,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 419,
+  "printed": 399,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 421,
+  "printed": 401,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 423,
+  "printed": 403,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 425,
+  "printed": 405,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 427,
+  "printed": 407,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 429,
+  "printed": 409,
+  "status": "resolved",
+  "old": "19 [?]; 72 [?]",
+  "new": "19; 72",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 431,
+  "printed": 411,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 433,
+  "printed": 413,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 435,
+  "printed": 415,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 437,
+  "printed": 417,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 439,
+  "printed": 419,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 441,
+  "printed": 421,
+  "status": "resolved",
+  "old": "19 [?]; 8 [?]",
+  "new": "19; 8",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 443,
+  "printed": 423,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 445,
+  "printed": 425,
+  "status": "resolved",
+  "old": "19 [?]",
+  "new": "19",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 490,
+  "printed": 470,
+  "status": "resolved",
+  "old": "59 [?]",
+  "new": "59",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 504,
+  "printed": 484,
+  "status": "resolved",
+  "old": "95 [?]",
+  "new": "95",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 512,
+  "printed": 492,
+  "status": "resolved",
+  "old": "154 [?]",
+  "new": "154",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 533,
+  "printed": 513,
+  "status": "resolved",
+  "old": "101 [?]",
+  "new": "101",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 534,
+  "printed": 514,
+  "status": "resolved",
+  "old": "6 [?]",
+  "new": "6",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 535,
+  "printed": 515,
+  "status": "resolved",
+  "old": "9 [?]",
+  "new": "9",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 537,
+  "printed": 517,
+  "status": "resolved",
+  "old": "6 [?]",
+  "new": "6",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 544,
+  "printed": 524,
+  "status": "resolved",
+  "old": "7 [?]",
+  "new": "7",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 566,
+  "printed": 546,
+  "status": "resolved",
+  "old": "9 [?]",
+  "new": "9",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 567,
+  "printed": 547,
+  "status": "resolved",
+  "old": "6 [?]",
+  "new": "6",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 602,
+  "printed": 582,
+  "status": "resolved",
+  "old": "9 [?]",
+  "new": "9",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 619,
+  "printed": 599,
+  "status": "resolved",
+  "old": "9 [?]",
+  "new": "9",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 621,
+  "printed": 601,
+  "status": "resolved",
+  "old": "25 [?]",
+  "new": "25",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 623,
+  "printed": 603,
+  "status": "resolved",
+  "old": "25 [?]; 21 [?]",
+  "new": "25; 21",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 651,
+  "printed": 631,
+  "status": "resolved",
+  "old": "4 [?]",
+  "new": "4",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 663,
+  "printed": 643,
+  "status": "resolved",
+  "old": "644 [?]",
+  "new": "644",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 666,
+  "printed": 646,
+  "status": "resolved",
+  "old": "10 [?]",
+  "new": "10",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
+ },
+ {
+  "pdf": 668,
+  "printed": 648,
+  "status": "resolved",
+  "old": "15 [?]",
+  "new": "15",
+  "note": "Plain counts/numbers: [?] cleared on the user's instruction (user checked the first entries: plain numbers such as 165 are correct); not viewed by me."
  }
 ]
