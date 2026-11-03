@@ -14792,6 +14792,9 @@ When, well-cherished Agni, you are (the giver of) excellent food : in your desir
 > त्वां । अग्ने । आदित्यासः । आस्यं । त्वां । जिह्वां । शुचयः । चक्रिरे । कवे ।
 > त्वां । रातिऽसाचः । अध्वरेषु । सश्चिरे । त्वे इति । देवाः । हविः । अदंति । आऽहुतं ॥ १३ ॥
 
+> *tvāṃ | agne | ādityāsaḥ | āsyaṃ | tvāṃ | jihvāṃ | śucayaḥ | cakrire | kave |*
+> *tvāṃ | rāti 'sācaḥ | adhvareṣu | saścire | tve iti | devāḥ | haviḥ | adaṃti | ā 'hutaṃ ‖ 13 ‖*
+
 *(Ṛk 13 is left open: the Sāyaṇa-bhāṣya and what follows continue on p. 420.)*
 
 ---
@@ -14902,7 +14905,7 @@ All the benignant immortal gods eat the offered oblation through you, as their m
 
 > अमरधर्माणः । *(thus printed in the Special Topics; the bhāṣya above has ⟦अमरणधर्माणः⟧)*
 
-> *amaradharmāṇaḥ | *(thus printed in the Special Topics; the bhāṣya above has ⟦amaraṇadharmāṇaḥ⟧)**
+> *amaradharmāṇaḥ | *(thus printed in the Special Topics; the bhāṣya above has amaraṇadharmāṇaḥ (*amaraṇadharmāṇaḥ*))**
 
 (Kannada:) "Those who are free from death; it is believed that the gods have no death. In the Ṛgveda the gods are called by the word अमृत (*amṛta*), and men by the word मर्त (*marta*) or…" *(the sentence runs over into p. 423)*
 
@@ -15019,8 +15022,11 @@ You are associated, Agni, by your vigour, with those (goods) [sic]; divine, well
 > ये । स्तोतृऽभ्यः । गोऽअग्रां । अश्वऽपेशसं । अग्ने । रातिं । उपऽसृजंति । सूरयः ।
 > अस्मान् । च । तान् । च । प्र । हि । नेषि । वस्यः । आ । बृहत् । वदेम । विदथे । सुऽवीराः ॥ १६ ॥
 
+> *ye | stotṛ 'bhyaḥ | go 'agrāṃ | aśva 'peśasaṃ | agne | rātiṃ | upa 'sṛjaṃti | sūrayaḥ |*
+> *asmān | ca | tān | ca | pra | hi | neṣi | vasyaḥ | ā | bṛhat | vadema | vidathe | su 'vīrāḥ ‖ 16 ‖*
+
 *(Ṛk 16 is left open after its Pada; the bhāṣya begins on p. 426.)*
 
 ---
 
-**Progress note:** Done through printed p. 425 (PDF 445). Maṇḍala 2 Sūkta 1: Ṛk 14 complete (Special Topics finished on p. 423); Ṛk 15 complete (pp. 423–425); Ṛk 16 OPEN (Saṃhitā and Pada written at the foot of p. 425; bhāṣya starts on p. 426). Numeral file: only ⟦नि. ६-३⟧ on p. 423 (agrees with the strip, "6-3"); its line on PDF 444 was garbled noise with no usable numeral; no rows for PDF 445. No FILE DISAGREE. Not zoomed: Varga on pp. 423 and 425 read as 19; Ṛk numbers 15 and 16 (Saṃhitā and Pada). [?] places: ⟦सर्वसंप्यन्नं⟧ in the bhāṣya of Ṛk 15; Ṛk 16 first word of the second line, written ⟦अस्मांश्च⟧ (print looks like ञ्च; Pada has ⟦अस्मान् । च⟧); ⟦रातिमुपसृजंति⟧ (hooked ma, see doubts). The bhāṣya of Ṛk 15 prints ⟦तैः⟧ where the glyph looks like ⟦त्रैः⟧; written ⟦तैः⟧ by sense. The bhāṣya-word ⟦अद्रोग्धारः⟧ is printed clearly on p. 423 and corrects the p. 422 [?] reading. The printed English heading "English Translatin" and "(goods)" kept as printed [sic].
+**Progress note:** Done through printed p. 425 (PDF 445). Maṇḍala 2 Sūkta 1: Ṛk 14 complete (Special Topics finished on p. 423); Ṛk 15 complete (pp. 423–425); Ṛk 16 OPEN (Saṃhitā and Pada written at the foot of p. 425; bhāṣya starts on p. 426). Numeral file: only नि. ६-३ (*ni. 6-3*) on p. 423 (agrees with the strip, "6-3"); its line on PDF 444 was garbled noise with no usable numeral; no rows for PDF 445. No FILE DISAGREE. Not zoomed: Varga on pp. 423 and 425 read as 19; Ṛk numbers 15 and 16 (Saṃhitā and Pada). [?] places: सर्वसंप्यन्नं (*sarvasaṃpyannaṃ*) in the bhāṣya of Ṛk 15; Ṛk 16 first word of the second line, written अस्मांश्च (*asmāṃśca*) (print looks like ञ्च; Pada has अस्मान् । च (*asmān | ca*)); रातिमुपसृजंति (*rātimupasṛjaṃti*) (hooked ma, see doubts). The bhāṣya of Ṛk 15 prints तैः (*taiḥ*) where the glyph looks like त्रैः (*traiḥ*); written तैः (*taiḥ*) by sense. The bhāṣya-word अद्रोग्धारः (*adrogdhāraḥ*) is printed clearly on p. 423 and corrects the p. 422 [?] reading. The printed English heading "English Translatin" and "(goods)" kept as printed [sic].
