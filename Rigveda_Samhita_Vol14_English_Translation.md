@@ -12930,4 +12930,108 @@ May the thrice-seven peahens, the seven-sister rivers, carry off, (O Body), your
 
 ---
 
-**Progress note:** Done through printed p. 368 (PDF 388). Sūkta 191: Ṛks 1-14 complete; Ṛk 15 OPEN (Saṃhitā, Pada, bhāṣya written; Pratipadārtha begun on p. 368 ending at 'bhinadmi—', continues on p. 369). Varga 16 in header of p. 367 (unzoomed); no Varga closing note yet. Flags pp. 366-368: Ṛk 14 bhāṣya 'nadīnāmaitat' read as printed 'नदीनामैतत्' [?]; Ṛk 14 pada 'कुंभिनीःऽइव' compound mark as it looks; 'atiṅanta' as printed (ಅತಿಜಂತ); kumbhinī note 'आसामस्ति' as printed; Pā. Sū. 5-1-60, Ni. 3-9, Ni. 2-24 agree with file (unzoomed); sūtra name 'paṃkti viśaṃti-' printed truncated; printed English 'water·' (dot as printed). Counts pp. 366-368: 1 distinct [?], 0 zooms, file settled without zoom 3, file lacked 0. (Earlier flags: Ṛk 12 bhāṣya 'bhedenyaikaviṃśatiḥ' as it looks [?]; 'aḍāgama' as it looks; sūtra names 'mantreghasa-', 'gamahana-' truncated; Pā. Sū. 2-4-37, 6-1-179 agree; 'coursers·' as printed; pp. 360-362 and 357-359 flags as in prior notes: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; sūtra name after 'tedoḥ sā-' garbled [?]; Pā. Sū. 5-3-71, 2-4-40, Ṛ. Saṃ. 2-42-3, 2-43-1 agree; [sic] 'English Translatin', 'vender', 'poisonns', 'arb', 'wholely'; 'tadanugrahāttraiva', 'viṣyaiva' [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. part number before 'page 615' read 5 [?]; possible lost word at strip join p. 359; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees. Older flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.)
+### Printed p. 369 (PDF 389)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5 [?], Varga 16" in small Kannada numerals, read unzoomed; "Ṛgvedasaṃhitā". No numeral rows in the file for this page.)*
+
+**Pratipadārtha (continued from p. 368).** — **भिनद्मि (*bhinadmi*)** — (I) will crush (literally "throw down by crushing"); **ततः (*tataḥ*)** — afterwards; **विषं (*viṣaṃ*)** — the poison; **प्र वावृते (*pra vāvṛte*)** — let it come out; **पराचीः (*parācīḥ*)** — very far-off; **संवतः (*saṃvataḥ*)** — the directions; **अनु (*anu*)** — aiming at (them), let it go away.
+
+**Bhāvārtha.** *(Kannada, rendered)* May the mongoose of small size remove this poison of my snake-bite. If it does not, I will crush it with a stone. Afterwards may the poison come out and go away to a very distant region.
+
+**Printed English** (heading printed "English Translation"):
+
+May the insignificant mungoose (carry off) your venom, (Poison), if not, I will crush the vile (creature) with a stone; so may the poison depart (from my body), and go to distant regions.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sage has expressed the wish that the mongoose destroy the poison.
+
+**इयत्तकः (*iyattakaḥ*) — कुत्सितेयत्तः अल्पप्रमाण इत्यर्थः (*kutsiteyattaḥ alpapramāṇa ityarthaḥ*)** — "very small, of a tiny bodily form; slight or small" is the meaning.
+
+**कुषुंभकः (*kuṣuṃbhakaḥ*) — कुं पृथिवीं सुंभति विलिखतीति सर्पाणां कुत्सितं सुंभयिता निग्रहीता कुषुंभको नकुलः (*kuṃ pṛthivīṃ suṃbhati vilikhatīti sarpāṇāṃ kutsitaṃ suṃbhayitā nigrahītā kuṣuṃbhako nakulaḥ*)** — *ku* means the earth (the ground); because the mongoose is aware of the movement of snakes, which, when crawling on that ground, scratch the earth crookedly like a furrow, *kutsitaṃ* means "the snakes"; because it seizes and kills such snakes it is called *kuṣuṃbhaka*; the name is *nakula* or *muṅgasi* (the neul or or [sic] viverra Mungoose, as printed). It is world-famous that these mongooses kill the snakes that are their natural enemies. Such a mongoose is prayed to remove the poison of the body. Here the verb *haratu* ("let it remove") must be supplied.
+
+**तकं भिनद्मि अश्मना (*takaṃ bhinadmi aśmanā*)** — *takam* means "that small or low creature". "If perchance the mongoose does not remove the poison, I will crush that low creature with a stone": so he said. In practices of poison-removal, a stone is struck one against another even for the one who has become well [i.e. even after the poison has wholly gone]; the same is done here too: this is Sāyaṇa's explanation.
+
+**ततो विषं प्र वावृते पराचीरनु संवृताः (*tato viṣaṃ pra vāvṛte parācīranu saṃvṛtāḥ*)** *(as printed; the Saṃhitā has संवतः)* — by this sentence in the latter half: may the poison leave the body and not come back near me, but go far away into the various directions: so he prayed.
+
+---
+
+---
+
+### Printed p. 370 (PDF 390)
+
+*(Header: "Maṃ. 1 A. 24 Sū. 191", "Sāyaṇabhāṣyasahitā". Grammar notes of Ṛk 15, then Ṛk 16. Numeral file: Pā. Sū. 6-1-7 and Ā. Gṛ. 3-5-5 agree, not zoomed.)*
+
+**व्याकरणप्रक्रिया (Vyākaraṇa-prakriyā)** *(grammar page, noted briefly)*
+
+**भिनद्मि (*bhinadmi*)**: root भिदिर् विदारणे (*bhidir vidāraṇe*), rudhādi class; laṭ, first person singular, mip; the vikaraṇa śnam; since it is mit it comes after the na-kāra [as printed]; since it stands after an atiṅanta [as printed], the nighāta accent comes.
+
+**ववृते (*vavṛte*)**: root वृतु वर्तने (*vṛtu vartane*); by छंदसि लुङ् (*chaṃdasi luṅ*) (printed so, truncated) liṭ in the sense of loṭ; the ending form of the third person singular; since it belongs to the tudādi class, by तुजादीनां दीर्घोऽभ्यासस्य (*tujādīnāṃ dīrgho 'bhyāsasya*) (Pā. Sū. 6-1-7) the reduplicative syllable is lengthened in the Saṃhitā; the tiṅanta-nighāta accent comes.
+
+---
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥** *(Accents not reproduced.)*
+
+> कुषुंभकस्तदब्रवीद्गिरेः प्रवर्तमानकः ।
+> वृश्चिकस्यारसं विषमरसं वृश्चिक ते विषं ॥ १६ ॥
+
+> *kuṣuṃbhakastadabravīdgireḥ pravartamānakaḥ |*
+> *vṛścikasyārasaṃ viṣamarasaṃ vṛścika te viṣaṃ ‖ 16 ‖*
+
+**॥ पदपाठः ॥**
+
+> कुषुंभकः । तत् । अब्रवीत् । गिरेः । प्रऽवर्तमानकः ।
+> वृश्चिकस्य । अरसं । विषं । अरसं । वृश्चिक । ते । विषं ॥ १६ ॥
+
+> *kuṣuṃbhakaḥ | tat | abravīt | gireḥ | pra 'vartamānakaḥ |*
+> *vṛścikasya | arasaṃ | viṣaṃ | arasaṃ | vṛścika | te | viṣaṃ ‖ 16 ‖*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya)**
+
+*Gist:* This Ṛk is used in the Adhyāya-upākaraṇa and utsarjana; the mongoose, coming from the mountain at Agastya's word, tells the scorpion its poison is powerless; so the poison (of the one bitten) ceased.
+
+> अध्यायोपाकरणोत्सर्गयोः कुषुंभकस्तदित्यंत्या विनियुक्ता । दधिसक्तूञ्जुहोतीत्युपक्रम्य कुषुंभकस्तदब्रवीत् । आ. गृ. ३-५-५ । इति सूत्रितत्वात् ॥
+
+> *adhyāyopākaraṇotsargayoḥ kuṣuṃbhakastadityaṃtyā viniyuktā | dadhisaktūñjuhotītyupakramya kuṣuṃbhakastadabravīt | ā. gṛ. 3-5-5 | iti sūtritatvāt ‖*
+>
+> एवं महानुभावेनागस्त्यमहर्षिणोच्यमाने सति गिरेः सकाशात्प्रवर्तमानकः प्रवर्तमानोऽतिशीघ्रमभिगच्छन् कुषुंभको नकुलस्तदब्रवीत् । तद्वाक्यमाचख्यौ । किं तदिति उच्यते । वृश्चिकस्यैतद्विषमरसमसारं । बाधकं न भवतीत्यर्थः । तथा लोकेऽपि सर्पदष्टमपि क्रिम्यादिदंशनमेव अतो न बाध इति हि वदंति । एवमभिवचनेन सोऽपि निर्विषोऽभवत् । अथ तं वृश्चिकं प्रति नकुल आह । हे वृश्चिक ते विषमरसं । अतस्त्वृषिं किं करिष्यति । तस्मात्परिहरेति । यद्वैव वादीत् तदाप्रभृति वृश्चिकविषमसारमभवत् । एषा विषनिर्हरण्युपनिषत् ॥
+
+> *evaṃ mahānubhāvenāgastyamaharṣiṇocyamāne sati gireḥ sakāśātpravartamānakaḥ pravartamāno 'tiśīghramabhigacchan kuṣuṃbhako nakulastadabravīt | tadvākyamācakhyau | kiṃ taditi ucyate | vṛścikasyaitadviṣamarasamasāraṃ | bādhakaṃ na bhavatītyarthaḥ | tathā loke 'pi sarpadaṣṭamapi krimyādidaṃśanameva ato na bādha iti hi vadaṃti | evamabhivacanena so 'pi nirviṣo 'bhavat | atha taṃ vṛścikaṃ prati nakula āha | he vṛścika te viṣamarasaṃ | atastvṛṣiṃ kiṃ kariṣyati | tasmātparihareti | yadvaiva vādīt tadāprabhṛti vṛścikaviṣamasāramabhavat | eṣā viṣanirharaṇyupaniṣat ‖*
+
+*(Doubtful readings [?]: आचख्यौ (*ācakhyau*) [?], क्रिम्यादि (*krimyādi*) as printed [?], महर्षिणोच्यमाने (*maharṣiṇocyamāne*) as printed, यद्वैव वादीत् (*yadvaiva vādīt*) [?] — the line is worn with a stray mark.)*
+
+---
+
+---
+
+### Printed p. 371 (PDF 391)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5 [?], Varga 16", "Ṛgvedasaṃhitā". Numerals checked against the file: Ā. Gṛ. Sū. 3-5-5, Ṛ. Saṃ. 1-1-1, 1-191-16, 2-43-3 agree; Ṛ. Saṃ. 2-1-1 zoomed — file said 2-0-0, crop shows 2-1-1.)*
+
+**प्रतिपदार्थः (Pratipadārtha)** *(Kannada, rendered)*
+
+**गिरेः (*gireḥ*)** — (after Agastya the sage had prayed in this way) from the mountain; **प्रवर्तमानकः (*pravartamānakaḥ*)** — approaching the sage quickly; **कुषुंभकः (*kuṣuṃbhakaḥ*)** — the mongoose; **तदब्रवीत् (*tadabravīt*)** — spoke thus; **वृश्चिकस्य (*vṛścikasya*)** — of the poisonous scorpion; **विषं (*viṣaṃ*)** — the poison; **अरसं (*arasaṃ*)** — powerless (therefore not harmful); **वृश्चिक (*vṛścika*)** — O scorpion; **ते विषं (*te viṣaṃ*)** — your poison; **अरसं (*arasaṃ*)** — powerless.
+
+**Bhāvārtha.** After the sage Agastya had thus prayed, the mongoose, which had come out suddenly from the mountain, approached the sage and said: "The poison of the poisonous scorpion is powerless. O scorpion, your poison has no power. It cannot do harm to anyone."
+
+**Printed English** (heading printed "Englih Tranlation" [sic]):
+
+Hastening forth at the command (of Agastya), thus spoke the mungoose·—The venom of the scorpion is innocuous, scorpion, your venom is innocuous· *(dots as printed; "mun-goose" is hyphenated at the line end)*
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**कुषुंभकस्तत् (*kuṣuṃbhakastat*)** — this last Ṛk (of the sūkta, or of the maṇḍala) is used in the dadhisaktu-homa in the rite called Adhyāyopākarma or Utsarjana, as is explained by the sūtra of the Āśvalāyana Gṛhyasūtra: **दधिसक्तूञ्जुहोतीत्युपक्रम्य कुषुंभकस्तदब्रवीत् (*dadhisaktūñjuhotītyupakramya kuṣuṃbhakastadabravīt*)** (Ā. Gṛ. Sū. 3-5-5).
+
+In the Adhyāyopākarma and Utsarjana rites mentioned above, when the dadhisaktu-homa is performed, the students of the Ṛk-recension recite and offer the first Ṛk of each maṇḍala of the Ṛgveda — for the first maṇḍala **अग्निमीळे पुरोहितं (*agnimīḷe purohitaṃ*)** (Ṛ. Saṃ. 1-1-1) — and the last Ṛk of the maṇḍala, **कुषुंभकस्तदब्रवीत् (*kuṣuṃbhakastadabravīt*)** (Ṛ. Saṃ. 1-191-16). Afterwards, in the same way, for the second maṇḍala the first Ṛk **त्वमग्ने द्युभिस्त्वमाशुशुक्षणिः (*tvamagne dyubhistvamāśuśukṣaṇiḥ*)** (Ṛ. Saṃ. 2-1-1) and the last Ṛk of the same maṇḍala **आवदंस्त्वं शकुने भद्रमा वद (*āvadaṃstvaṃ śakune bhadramā vada*)** (Ṛ. Saṃ. 2-43-3) are recited and offered. So up to the later maṇḍalas, that is to the tenth maṇḍala, the first and the last Ṛks of every maṇḍala, that is twenty Ṛks in all, are recited and offered.
+
+**गिरेः प्रवर्तमानकः (*gireḥ pravartamānakaḥ*)** — means "coming out at once from the burrows etc. in the slope of the hill". In the preceding Ṛk the sage Agastya addressed the mongoose: "destroy the poison in the body; otherwise I will crush you with a stone." As soon as he had said this, the mongoose […continues on p. 372]
+
+*(Ṛk 16 is left open: its Special Topics run on to p. 372; no Vyākaraṇa-prakriyā, colophon or Varga closing yet.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 371 (PDF 391). Sūkta 191: Ṛks 1-15 complete; Ṛk 16 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; Special Topics begun on p. 371 ending '…the mongoose [continues p. 372]'; Vyākaraṇa-prakriyā, colophon, Varga closing and next sūkta not yet reached). Header numerals p. 369/371: Aṣṭaka 2, Adhyāya 5 [?], Varga 16 (unzoomed). Flags pp. 369-371: Ṛ. Saṃ. 2-1-1 zoomed — file said 2-0-0, crop shows 2-1-1; Ā. Gṛ. 3-5-5, Ṛ. Saṃ. 1-1-1, 1-191-16, 2-43-3, Pā. Sū. 6-1-7 agree (unzoomed); Ṛk 16 bhāṣya 'āchakhyau', 'krimyādi', 'yadvaiva vādīt' [?], 'maharṣiṇocyamāne' as printed; printed English 'neul or or' [sic], 'Englih Tranlation' [sic], 'mun-goose·', dots as printed; 'saṃvṛtāḥ' printed in Special Topics (Saṃhitā saṃvataḥ); Ṛk 15 grammar 'nakārottara' as printed, 'atiṅanta' as printed, sūtra 'chandasi luṅ' printed truncated. Counts pp. 369-371: 1 distinct [?] place (bhāṣya), 1 zoom, file settled without zoom 5, file disagreed 1, file lacked 0. (Earlier flags: Flags pp. 366-368: Ṛk 14 bhāṣya 'nadīnāmaitat' read as printed 'नदीनामैतत्' [?]; Ṛk 14 pada 'कुंभिनीःऽइव' compound mark as it looks; 'atiṅanta' as printed (ಅತಿಜಂತ); kumbhinī note 'आसामस्ति' as printed; Pā. Sū. 5-1-60, Ni. 3-9, Ni. 2-24 agree with file (unzoomed); sūtra name 'paṃkti viśaṃti-' printed truncated; printed English 'water·' (dot as printed). Counts pp. 366-368: 1 distinct [?], 0 zooms, file settled without zoom 3, file lacked 0. (Earlier flags: Ṛk 12 bhāṣya 'bhedenyaikaviṃśatiḥ' as it looks [?]; 'aḍāgama' as it looks; sūtra names 'mantreghasa-', 'gamahana-' truncated; Pā. Sū. 2-4-37, 6-1-179 agree; 'coursers·' as printed; pp. 360-362 and 357-359 flags as in prior notes: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; sūtra name after 'tedoḥ sā-' garbled [?]; Pā. Sū. 5-3-71, 2-4-40, Ṛ. Saṃ. 2-42-3, 2-43-1 agree; [sic] 'English Translatin', 'vender', 'poisonns', 'arb', 'wholely'; 'tadanugrahāttraiva', 'viṣyaiva' [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. part number before 'page 615' read 5 [?]; possible lost word at strip join p. 359; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees. Older flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.)
