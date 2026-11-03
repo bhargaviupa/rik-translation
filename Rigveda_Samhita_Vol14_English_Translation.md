@@ -15774,4 +15774,140 @@ Kindled at the beautiful dawn, (Agni) shines with brilliant lustre, like the sun
 
 ---
 
-**Progress note:** Done through printed p. 445 (PDF 466). Maṇḍala 2 Sūkta 2: Ṛk 7 complete (p. 443). Ṛk 8 complete (p. 444 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; p. 445 printed English, Special Topics, concluded). Ṛk 9 is OPEN: only the Saṃhitā is written (end of p. 445); the Pada, bhāṣya etc. follow on p. 446. Numeral file agrees with the strip for Ni. 2.22 and Ni. 3-8. Not zoomed: the three headers; Ṛk numbers 8 and 9 (9 uncertain from the glyph). [?] places: bhāṣya ⟦सोऽग्नी⟧ (p. 444); ⟦परिवृढेन⟧ (p. 443, printed in the Special Topics heading against ⟦परिवृद्धेन⟧ in the bhāṣya); the Nirukta number 2-22 is given with a mistaken "1-22" in my draft sentence of the p. 445 Special Topics, to be corrected in review.
+### Printed p. 446 (PDF 467)
+
+*(Header: "446", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2", read from the strip, not zoomed. The numeral file has no rows for this page. Ṛk 9 continues from p. 445, where its Saṃhitā was written. The Ṛk number is printed ೯, read as 9, not zoomed.)*
+
+**॥ पदपाठः ॥**
+
+*(The Pada reads एव where the Saṃhitā has एवा, as printed.)*
+
+> एव । नः । अग्ने । अमृतेषु । पूर्व्य । धीः । पीपाय । बृहत्ऽदिवेषु । मानुषा ।
+> दुहाना । धेनुः । वृजनेषु । कारवे । त्मना । शतिनं । पुरुऽरूपं । इषणि ॥ ९ ॥
+
+> *eva | naḥ | agne | amṛteṣu | pūrvya | dhīḥ | pīpāya | bṛhat 'diveṣu | mānuṣā |*
+> *duhānā | dhenuḥ | vṛjaneṣu | kārave | tmanā | śatinaṃ | puru 'rūpaṃ | iṣaṇi ‖ 9 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Among the splendid gods, first-born Agni, our praise or rite swells him. Like a milch cow, he yields countless wealth of many forms to the praiser.
+
+*(Doubtful: दोग्ध्री (*dogdhrī*) is printed with an unclear vowel sign, read दोग्ध्री [?]. The word पूर्वभाविनग्ने (*pūrvabhāvinagne*) is read as printed across the line break.)*
+
+> बृहद्दिवेषु प्रभूतद्युतिष्वमृतेषु देवेषु मध्ये हे पूर्व्य पूर्वभाविनग्ने त्वां मानुषा मनुष्याणां मध्ये नोऽस्मदीया धीर्बुद्धिः स्तुतिः कर्म वा एव एवं पीपाय । प्याययति । यद्वा मानुषा मनुष्यान् धीस्त्वदीया बुद्धिः कर्म वा प्याययतु । तथा त्वदीया धीर्वृजनेषु यज्ञेषु कारवे स्तोत्रे दुहाना धेनुः । दोग्ध्री [?] धेनुरिव । लुप्तोपममेतत् । त्मनात्मनैवेषण्येषणायां सत्यां शतिनमपरिमितसंख्याकं पुरुरूपं गवाश्वादिरूपेण नानारूपं धनसमूहं दुहाना भवति ॥
+
+> *bṛhaddiveṣu prabhūtadyutiṣvamṛteṣu deveṣu madhye he pūrvya pūrvabhāvinagne tvāṃ mānuṣā manuṣyāṇāṃ madhye no 'smadīyā dhīrbuddhiḥ stutiḥ karma vā eva evaṃ pīpāya | pyāyayati | yadvā mānuṣā manuṣyān dhīstvadīyā buddhiḥ karma vā pyāyayatu | tathā tvadīyā dhīrvṛjaneṣu yajñeṣu kārave stotre duhānā dhenuḥ | dogdhrī [?] dhenuriva | luptopamametat | tmanātmanaiveṣaṇyeṣaṇāyāṃ satyāṃ śatinamaparimitasaṃkhyākaṃ pururūpaṃ gavāśvādirūpeṇa nānārūpaṃ dhanasamūhaṃ duhānā bhavati ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada:) बृहद्दिवेषु (*bṛhaddiveṣu*) — among those who shine exceedingly; अमृतेषु (*amṛteṣu*) — among the gods; पूर्व्य (*pūrvya*) — O first one; अग्ने (*agne*) — O Agni; त्वां (*tvāṃ*) — you; मानुषा (*mānuṣā*) — of human beings; नः (*naḥ*) — our; धीः (*dhīḥ*) — rite or praise; एव (*eva*) — in this manner; पीपाय (*pīpāya*) — it exalts (in the same way your intelligence too); वृजनेषु (*vṛjaneṣu*) — at sacrifices; कारवे (*kārave*) — to the praiser; दुहाना धेनुः (*duhānā dhenuḥ*) — like a cow that yields when milked; त्मना (*tmanā*) — by his own impulse; इषणि (*iṣaṇi*) — at the time of desired objects; शतिनं (*śatinaṃ*) — without limit; पुरुरूपं (*pururūpaṃ*) — he gives many kinds of desired objects, in the form of cattle, horses and the like.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, first among the gods who shine exceedingly, our praise, as men, exalts you in many ways. As a cow that is milked yields abundant milk of her own will, so your intelligence too fulfils our desired objects at the times of our sacrifices."
+
+**English Translation** *(as printed)*
+
+Amongst men our praise, Agni, celebrtaes [sic] you, who are first amongst the greatly-splendid immortals ; (may it be to us) as a milch cow spontaneously yielding at sacrifices to the worshipper, infinite and multiform (blessings according to his) desire.
+
+---
+
+### Printed p. 447 (PDF 468)
+
+*(Header: "A. 2 A. 5 Va. 21", "Ṛgvedasaṃhitā", "447", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) Agni is addressed as
+
+> बृहद्दिवेषु अमृतेषु पूर्व्य
+
+> *bṛhaddiveṣu amṛteṣu pūrvya*
+
+— "the very ancient one among the gods who shine with abundant lustres".
+
+> नः धीः पीपाय—अस्मदीया बुद्धिः स्तुतिः कर्म वा एवं प्याययति । यद्वा (मानुषा) मनुष्यान् [?] धीः त्वदीयो बुद्धिः कर्म वा प्याययतु ।
+
+> *naḥ dhīḥ pīpāya—asmadīyā buddhiḥ stutiḥ karma vā evaṃ pyāyayati | yadvā (mānuṣā) manuṣyān [?] dhīḥ tvadīyo buddhiḥ karma vā pyāyayatu |*
+
+(Kannada:) "Two kinds of meaning are explained for this sentence. By taking the word धी (*dhī*) to mean praise or rite, one meaning is: among men, the praise or rite of us the sacrificers swells in the same way in regard to Agni. In the second meaning, the intelligence or rite of Agni, who accepts worship, is explained as making the sacrificers prosper."
+
+> त्वदीयो धीः वृजनेषु कारवे दुहाना धेनुः
+
+> *tvadīyo dhīḥ vṛjaneṣu kārave duhānā dhenuḥ*
+
+(Kannada:) "By this sentence it is described that Agni's intelligence, in regard to the sacrificers who praise at the sacrifices, nourishes or protects, like a cow giving milk. This same idea is expressed in the sentence
+
+> इषिणि [?] त्मना शतिनं पुरुरूपं—आत्मनैव एषणायां सत्यां अपरिमितसंख्याकं गवाश्वादिरूपेण नानारूपं धनसमूहं दुहाना भवति ।
+
+> *iṣiṇi [?] tmanā śatinaṃ pururūpaṃ—ātmanaiva eṣaṇāyāṃ satyāṃ aparimitasaṃkhyākaṃ gavāśvādirūpeṇa nānārūpaṃ dhanasamūhaṃ duhānā bhavati |*
+
+(printed इषिणि (*iṣiṇi*) here, with the इषणि (*iṣaṇi*) of the Ṛk; read as printed), and it is elaborated that Agni's benevolent wish is to give, by the thousand, wealth of many kinds, such as cow and horse. Here, though there is no word of comparison, the meaning 'like a cow' is explained for the word धेनु (*dhenu*)."
+
+*(Rule line.)*
+
+---
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+*(Printed with a mark over the vowel in जना (*janā*), read as जनाँ, in agreement with जनान् (*janān*) of the Pada; in the Saṃhitā चितयेमा (*citayemā*) the final sign is unclear, read चितयेम as in the Pada and bhāṣya [?]; in स्वर्ण (*svarṇa*) a stray small stroke after स्व (*sva*) is ignored; दुष्टरं (*duṣṭaraṃ*) is printed with ष्ट in the Saṃhitā against दुस्तरं (*dustaraṃ*) in the Pada and bhāṣya, as printed.)*
+
+> वयमग्ने अर्वता वा सुवीर्यं ब्रह्मणा वा चितयेम [?] जनाँ अति ।
+> अस्माकं द्युम्नमधि पंच कृष्टिषूच्चा स्वर्ण शुशुचीत दुष्टरं ॥ १० ॥
+
+> *vayamagne arvatā vā suvīryaṃ brahmaṇā vā citayema [?] janā~ ati |*
+> *asmākaṃ dyumnamadhi paṃca kṛṣṭiṣūccā svarṇa śuśucīta duṣṭaraṃ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> वयं । अग्ने । अर्वता । वा । सुऽवीर्यं । ब्रह्मणा । वा । चितयेम । जनान् । अति ।
+
+> *vayaṃ | agne | arvatā | vā | su 'vīryaṃ | brahmaṇā | vā | citayema | janān | ati |*
+
+---
+
+### Printed p. 448 (PDF 469)
+
+*(Header: "448", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2", read from the strip, not zoomed. The numeral file has no rows for this page. The Pada of Ṛk 10 concludes.)*
+
+> अस्माकं । द्युम्नं । अधि । पंच । कृष्टिषु । उच्चा । स्वः । न । शुशुचीत । दुस्तरं ॥ १० ॥
+
+> *asmākaṃ | dyumnaṃ | adhi | paṃca | kṛṣṭiṣu | uccā | svaḥ | na | śuśucīta | dustaraṃ ‖ 10 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* May we, with the horse or food you gave, outshine the people around us, and may our unsurpassed wealth shine like the sun among the five peoples.
+
+*(Doubtful: पंच पंचसु (*paṃca paṃcasu*) in the second line of the bhāṣya is printed पंचे पंचेसु (*paṃce paṃcesu*) [sic?], not zoomed. The bhāṣya has शुशुचीते (*śuśucīte*) where the Saṃhitā has शुशुचीत (*śuśucīta*), as printed.)*
+
+> हे अग्ने वयं यजमानाः सुवीर्यं शोभनसामर्थ्योपेतं यथा तथार्वता वा रणकुशलेनाश्वेन ॥ वाशब्दश्चार्थे । ब्रह्मणा वान्येन च त्वद्दत्तेन जनानस्मत्समानानति चितयेम । अतिक्रम्य ज्ञायेमहि ॥ कर्मणि कर्तृप्रत्ययः ॥ यद्वा त्वद्दत्तेनाश्वेनान्नेन च सुवीर्यं चितयेम । प्रकाशयेम । तदर्थमस्माकं पंचे [?] पंचेसु [?] कृष्टिषु जनेषु निषादपंचमेषु चतुर्षु वर्णेषूच्चैरतिप्रभूतं दुस्तरमन्येनाप्राप्तं द्युम्नं धनं स्वर्ण सूर्य इवाधिकं शुशुचीते । दीप्यताम् । अधीत्ययमनर्थको वा ॥
+
+> *he agne vayaṃ yajamānāḥ suvīryaṃ śobhanasāmarthyopetaṃ yathā tathārvatā vā raṇakuśalenāśvena ‖ vāśabdaścārthe | brahmaṇā vānyena ca tvaddattena janānasmatsamānānati citayema | atikramya jñāyemahi ‖ karmaṇi kartṛpratyayaḥ ‖ yadvā tvaddattenāśvenānnena ca suvīryaṃ citayema | prakāśayema | tadarthamasmākaṃ paṃce [?] paṃcesu [?] kṛṣṭiṣu janeṣu niṣādapaṃcameṣu caturṣu varṇeṣūccairatiprabhūtaṃ dustaramanyenāprāptaṃ dyumnaṃ dhanaṃ svarṇa sūrya ivādhikaṃ śuśucīte | dīpyatām | adhītyayamanarthako vā ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada:) अग्ने (*agne*) — O Agni; वयं (*vayaṃ*) — we, the sacrificers; सुवीर्यं (*suvīryaṃ*) — so as to be endowed with excellent strength; अर्वता वा (*arvatā vā*) — with a horse (given by you); ब्रह्मणा वा (*brahmaṇā vā*) — with food; जनान् (*janān*) — the people around us; अति चितयेम (*ati citayema*) — may we shine, surpassing them; अस्माकं (*asmākaṃ*) — our; उच्चा (*uccā*) — exceedingly abundant; दुस्तरं (*dustaraṃ*) — not possible to be obtained by others; द्युम्नं (*dyumnaṃ*) — wealth; पंच कृष्टिषु (*paṃca kṛṣṭiṣu*) — among the people of the five classes beginning with the Niṣādas; स्वर्ण (*svarṇa*) — like the Sun; शुशुचीते (*śuśucīte*) — may it shine.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, may we the sacrificers, with a horse and with food given by you, which make us endowed with excellent strength, shine surpassing the people around us. May our exceedingly abundant wealth, which others cannot obtain, shine like the Sun among the people of the five classes beginning with the Niṣādas."
+
+**English Translation** *(as printed; the heading is printed "English Trnslation" [sic])*
+
+May we manifest vigour among other men, Agni, through the steed and the food (which you have given) : and may our unsurpassed wealth shine like the sun over (that of) the five clases [sic] of beings.
+
+**विशेषविषयगळु (Special Topics)**
+
+> वयं अर्वता वा ब्रह्मणा वा जनान् [?] अति चितयेम
+
+> *vayaṃ arvatā vā brahmaṇā vā janān [?] ati citayema*
+
+(Kannada:) "Two kinds of meaning are given for this sentence. In the first meaning, वयं यजमानाः अरणकुशलेन अश्वेन त्वद्- (*vayaṃ yajamānāḥ araṇakuśalena aśvena tvad-*) [as printed अरणकुशलेन (*araṇakuśalena*) here, against रणकुशलेन (*raṇakuśalena*) in the bhāṣya]" (the passage continues on p. 449).
+
+*(The Special Topics of Ṛk 10 are left open at the end of p. 448.)*
+
+---
+
+**Progress note:** Done through printed p. 448 (PDF 469). Maṇḍala 2 Sūkta 2: Ṛk 9 complete (p. 446 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; p. 447 Special Topics). Ṛk 10 is OPEN: Saṃhitā (p. 447), Pada (p. 447–448), bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Special Topics stand at their first sentence, broken off at the end of p. 448 (the next page opens with the continuation of ⟦त्वद्दत्तेन…⟧). The numeral file has no rows for these pages. Not zoomed: the three headers (p. 447 read "A. 2 A. 5 Va. 21"); the Ṛk numbers 9 and 10. [?] places: Saṃhitā ⟦चितयेम⟧ (final sign) and ⟦जनाँ⟧; ⟦दोग्ध्री⟧ (p. 446); ⟦मनुष्यान्⟧ and ⟦इषिणि⟧ (p. 447); ⟦पंचे पंचेसु⟧ (p. 448); ⟦जनान्⟧ in the p. 448 Special Topics heading. As printed: Pada ⟦एव⟧ against Saṃhitā ⟦एवा⟧; Saṃhitā ⟦दुष्टरं⟧ against Pada ⟦दुस्तरं⟧; bhāṣya ⟦शुशुचीते⟧; Special Topics ⟦अरणकुशलेन⟧ against bhāṣya ⟦रणकुशलेन⟧; printed English "celebrtaes", "clases", heading "Trnslation".
