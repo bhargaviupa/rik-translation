@@ -15656,4 +15656,122 @@ You, Agni, are he who, for our good, is possessed of riches ; kindled by us, bla
 
 ---
 
-**Progress note:** Done through printed p. 442 (PDF 463). Maṇḍala 2 Sūkta 2: Ṛk 5 complete (Special Topics concluded on p. 440). Ṛk 6 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, p. 441). Ṛk 7 is OPEN: Saṃhitā, Pada, bhāṣya and Pratipadārtha written on p. 442; Bhāvārtha, printed English and Special Topics follow on p. 443. Numeral file has no rows for these pages. Not zoomed: the headers of all three pages (p. 441 "Va. 21" read from the strip), the Ṛk numbers 6 and 7 (7 taken from the glyph and the sequence). [?] places: bhāṣya ⟦लुजि⟧ and ⟦उषःकालाः⟧ (p. 442); the Special Topics word ⟦कुर्विन्त्यर्थः⟧ (p. 441, kept as printed); Saṃhitā ⟦श्रुत्या⟧ against Pada ⟦श्रुत्यै⟧.
+### Printed p. 443 (PDF 464)
+
+*(Header: "A. 2 A. 5 Va. 21" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "443". The numeral file has no rows for this page. Ṛk 7 concludes: Bhāvārtha, printed English, Special Topics.)*
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "O Agni, give us abundant cattle, horses and the like. Give us sons, servants and the like, thousands in number. Open the door of food for fame. By rites that bring abundant merit, make heaven and earth favourable to us. As the Sun makes the world shine, the dawns make you, radiant, shine."
+
+**English Translation** *(as printed)*
+
+Bestow upon us, Agni, infinite possessions : grant us thousands (of cattle and dopendants [sic]) : open to us, for your reputation, the doors of abundance : make heaven and earth, propitiated by sacred prayer, favourable to us, and may the mornings light you up like the sun.
+
+**विशेषविषयगळु (Special Topics)**
+
+(Kannada:) "In this Ṛk, the words बृहतः—महतः प्रभूतान् गवाश्वादिधनविशेषान् (*bṛhataḥ—mahataḥ prabhūtān gavāśvādidhanaviśeṣān*) are given. For the word बृहतः (*bṛhataḥ*) the meaning 'abundant cattle, horses and the like, wealth' is described, and the wish is expressed that Agni may bestow this kind of wealth in thousands (सहस्र (*sahasra*))."
+
+श्रुत्यै वाजं दुरो न अपावृधि (*śrutyai vājaṃ duro na apāvṛdhi*) — कीर्त्यै अन्नं तस्य द्वाराण्यपि अपवृणु । यद्वा द्वाराणीव तत्प्राप्त्युपायान् विशदय । (*kīrtyai annaṃ tasya dvārāṇyapi apavṛṇu | yadvā dvārāṇīva tatprāptyupāyān viśadaya |*)
+
+(Kannada:) "In this sentence, giving the word न (*na*) the senses of 'and' (samuccaya) and 'like' (upamā), one meaning is described: may Agni favour food for fame, or the means by which food is obtained. Then, 'the ways by which food is obtained, that is, the means by which it is obtained (show), may he favour so that they become clear to the understanding' is also described."
+
+द्यावापृथिवी ब्रह्मणा प्राची कृधि (*dyāvāpṛthivī brahmaṇā prācī kṛdhi*) — (Kannada:) "In this sentence, for the word ब्रह्मणा (*brahmaṇā*) the meaning is explained as परिवृढेन कर्मणा (*parivṛḍhena karmaṇā*) [as printed in the bold heading; the bhāṣya above has परिवृद्धेन (*parivṛddhena*)], an abundant rite that brings merit; and the wish is expressed that Agni may make earth and antarikṣa favourable to us by our performance of rites."
+
+स्वर्ण शुक्रमुषसो विदिद्युतः (*svarṇa śukramuṣaso vididyutaḥ*) — उषःकालाः दीप्तं त्वा आदित्य इव विद्योतयंति । उषःकाले ह्यग्नयः प्रज्वाल्यंते । (*uṣaḥkālāḥ dīptaṃ tvā āditya iva vidyotayaṃti | uṣaḥkāle hyagnayaḥ prajvālyaṃte |*)
+
+(Kannada:) "For the word स्वः (*svaḥ*) the meaning Āditya is explained. As the Sun shines at the dawns with his own rays, so the dawn makes Agni shine with his rays, it is described."
+
+*(Rule line.)*
+
+---
+
+### Printed p. 444 (PDF 465)
+
+*(Header: "444", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 2" as read from the strip, not zoomed. The numeral file has one row (a garbled "3.4.02" in the bhāṣya, line 27) that is not a usable numeral. Ṛk 8: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha. The Ṛk number is read as 8 from the glyph; not zoomed.)*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> स इधान उषसो राम्या अनु स्वर्ण दीदेदरुषेण भानुना ।
+> होत्राभिरग्निर्मनुषः स्वध्वरो राजा विशामतिथिश्चारुरायवे ॥ ८ ॥
+
+> *sa idhāna uṣaso rāmyā anu svarṇa dīdedaruṣeṇa bhānunā |*
+> *hotrābhiragnirmanuṣaḥ svadhvaro rājā viśāmatithiścārurāyave ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । इधानः । उषसः । राम्याः । अनु । स्वः । न । दीदेत् । अरुषेण । भानुना ।
+> होत्राभिः । अग्निः । मनुषः । सुऽअध्वरः । राजा । विशां । अतिथिः । चारुः । आयवे ॥ ८ ॥
+
+> *saḥ | idhānaḥ | uṣasaḥ | rāmyāḥ | anu | svaḥ | na | dīdet | aruṣeṇa | bhānunā |*
+> *hotrābhiḥ | agniḥ | manuṣaḥ | su 'adhvaraḥ | rājā | viśāṃ | atithiḥ | cāruḥ | āyave ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Agni, kindled at the dawns, shines like the sun; praised with hymns, he is lord of the people and a pleasing guest to the sacrificer.
+
+*(The first word of the bhāṣya is printed सोऽग्नी (*so 'gnī*) [?] as read; not zoomed.)*
+
+> सोऽग्नी [?] राम्या रमणहेतुभूता उषसोऽनु अनुलक्ष्येधान इध्यमानो दीपितः सन् अरुषेण रोचमानेन भानुना तेजसा स्वर्ण आदित्य इव दीदेत् । दीप्यते ।
+> सोऽग्निर्मनुषो मनुष्यस्य होतुर्होत्राभिः । होत्रेति वाङ्नाम । होमसाधनभूताभिः स्तुतिभिः स्तूयमानः स्वध्वरः शोभनयागो विशां प्रजानां राजा राजमानः स्वाम्यायुवे मनुष्याय यजमानाय तदर्थं चारुश्चरणशीलोऽतिथिरतिथिवत्पूज्यो भवति ॥
+
+> *so 'gnī [?] rāmyā ramaṇahetubhūtā uṣaso 'nu anulakṣyedhāna idhyamāno dīpitaḥ san aruṣeṇa rocamānena bhānunā tejasā svarṇa āditya iva dīdet | dīpyate |*
+> *so 'gnirmanuṣo manuṣyasya hoturhotrābhiḥ | hotreti vāṅnāma | homasādhanabhūtābhiḥ stutibhiḥ stūyamānaḥ svadhvaraḥ śobhanayāgo viśāṃ prajānāṃ rājā rājamānaḥ svāmyāyuve manuṣyāya yajamānāya tadarthaṃ cāruścaraṇaśīlo 'tithiratithivatpūjyo bhavati ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (सः (*saḥ*)) — Agni; राम्याः (राम्याः (*rāmyāḥ*)) — of the delightful; उषसः अनु (उषसः अनु (*uṣasaḥ anu*)) — upon the rising of the Dawn; इधानः (इधानः (*idhānaḥ*)) — kindled; अरुषेण (अरुषेण (*aruṣeṇa*)) — with radiant; भानुना (भानुना (*bhānunā*)) — brilliance; स्वर्ण (स्वर्ण (*svarṇa*)) — like the Sun; दीदेत् (दीदेत् (*dīdet*)) — he shines; (सः) अग्निः (अग्निः (*agniḥ*)) — that same Agni; मनुषः (मनुषः (*manuṣaḥ*)) — of the human hotṛ; होत्राभिः (होत्राभिः (*hotrābhiḥ*)) — praised by the hymns; स्वध्वरः (स्वध्वरः (*svadhvaraḥ*)) — having an excellent sacrifice; विशां (विशां (*viśāṃ*)) — for the people; राजा (राजा (*rājā*)) — as lord; आयवे (आयवे (*āyave*)) — for man; चारुः (चारुः (*cāruḥ*)) — come; अतिथिः (अतिथिः (*atithiḥ*)) — worshipful like a guest.
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada:) "Agni, kindled at the very rising of the delightful Dawn, shines like the Sun with a radiant brilliance. That same Agni, praised by the hymns of the human hotṛ, is one who has an excellent sacrifice, is lord of the people, and is worshipful like a guest who has arrived."
+
+---
+
+### Printed p. 445 (PDF 466)
+
+*(Header: "A. 2 A. 5 Va. 21" as read from the strip, not zoomed; "Ṛgvedasaṃhitā"; "445". The numeral file gives Ni. 2.22 (line 18) and Ni. 3-8 (line 25); both agree with the strip.)*
+
+**English Translation** *(as printed)*
+
+Kindled at the beautiful dawn, (Agni) shines with brilliant lustre, like the sun ; adored by the hymns of the worshipper, Agni, the king of men, (comes as) an agreeable guest to the institutor of the sacrifice.
+
+**विशेषविषयगळु (Special Topics)**
+
+सः अरुषेण भानुना स्वर्णः दीदेत् (*saḥ aruṣeṇa bhānunā svarṇaḥ dīdet*) — अग्निः उषसि दीपितः सन् रोचमानेन तेजसा आदित्य इव दीप्यते (*agniḥ uṣasi dīpitaḥ san rocamānena tejasā āditya iva dīpyate*) —
+
+(Kannada:) "Agni, at the dawns, having the oblations offered by the sacrificers, shines with radiance, and with his luminous brilliance he blazes like the Sun, it is described."
+
+सः मनुषः होत्राभिः स्वध्वरः (*saḥ manuṣaḥ hotrābhiḥ svadhvaraḥ*) —
+
+(Kannada:) "Agni is praised by the praises (the means of the homa) of the sacrificer who performs the homa, and he has a sacrifice that goes straight (to its end). Here, since Yāska recites the word होत्र (*hotra*) among the vāṅnāmas (Ni. 1-22 as the numeral file and the strip read: Ni. 2-22), the meaning 'speech of praise' is made clear for this word."
+
+*(The Nirukta reference is printed "Ni. 2-22", read from the strip and confirmed by the numeral file.)*
+
+विशां राजा आयवे अतिथिः (*viśāṃ rājā āyave atithiḥ*) —
+
+(Kannada:) "Agni is described as one who shines as lord in matters of the people, and who is worshipful, like a charming guest, in regard to the sacrificer who worships him."
+
+(Kannada:) "Yāska has recited the words विशः (*viśaḥ*) and आयवः (*āyavaḥ*) among the manuṣyanāmas (Ni. 3-8). Here Sāyaṇa has explained the word विशां (*viśāṃ*) as प्रजानां (*prajānāṃ*), 'of the subjects', and आयुवे—मनुष्याय यजमानाय (*āyuve—manuṣyāya yajamānāya*) as 'to the man, the sacrificer'."
+
+*(Rule line.)*
+
+---
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> एवा नो अग्ने अमृतेषु पूर्व्य धीष्पीपाय बृहद्दिवेषु मानुषा ।
+> दुहाना धेनुर्वृजनेषु कारवे त्मना शतिनं पुरुरूपमिषणि ॥ ९ ॥
+
+> *evā no agne amṛteṣu pūrvya dhīṣpīpāya bṛhaddiveṣu mānuṣā |*
+> *duhānā dhenurvṛjaneṣu kārave tmanā śatinaṃ pururūpamiṣaṇi ‖ 9 ‖*
+
+*(Ṛk 9 is left open: the Pada and the rest follow on p. 446. The Ṛk number is printed with a glyph that looks like 6 or 9; I read it as 9 from the sequence; not zoomed.)*
+
+---
+
+**Progress note:** Done through printed p. 445 (PDF 466). Maṇḍala 2 Sūkta 2: Ṛk 7 complete (p. 443). Ṛk 8 complete (p. 444 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; p. 445 printed English, Special Topics, concluded). Ṛk 9 is OPEN: only the Saṃhitā is written (end of p. 445); the Pada, bhāṣya etc. follow on p. 446. Numeral file agrees with the strip for Ni. 2.22 and Ni. 3-8. Not zoomed: the three headers; Ṛk numbers 8 and 9 (9 uncertain from the glyph). [?] places: bhāṣya ⟦सोऽग्नी⟧ (p. 444); ⟦परिवृढेन⟧ (p. 443, printed in the Special Topics heading against ⟦परिवृद्धेन⟧ in the bhāṣya); the Nirukta number 2-22 is given with a mistaken "1-22" in my draft sentence of the p. 445 Special Topics, to be corrected in review.
