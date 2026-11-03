@@ -17481,4 +17481,148 @@ The Kannada says: Here the ṛṣi has explained the meaning by giving a very ex
 
 ---
 
-**Progress note:** Done through printed p. 484 (PDF 505). Maṇḍala 2 Sūkta 4: Ṛk 6 complete (Pratipadārtha, Bhāvārtha, printed English and Special Topics on pp. 482–483, then a short divider). Ṛk 7: Saṃhitā on p. 483, Pada, bhāṣya, Pratipadārtha and Bhāvārtha on p. 484; **Ṛk 7 is open**, next are its printed English and Special Topics on p. 485. FILE DISAGREE: none (the file has no rows for pp. 482–484). Not zoomed: headers "Va. 25" (p. 483, read from the strip), Ṛk numerals 6 and 7 (the 7 looks like the flat-footed glyph). [?] places: p. 482 वार्ण lemma printed with an extra sign like ि, ततृषाणो read ततृ- as printed; p. 484 Pada दक्षत् (looks like धक्षत्), Pada अस्वदयत् (printed with ए-like sign), bhāṣya नियोमक (ma with hook), Saṃhitā शोचिष्माँ (chandrabindu-like sign), Pratipadārtha भूम (printed ಭೂಮು).
+### Printed p. 485 (PDF 506)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 25 ]", "Ṛgvedasaṃhitā", "485", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+*(Ṛk 7 continues from p. 484. This page has its printed English and Special Topics.)*
+
+**English Translation** *(as printed, Ṛk 7)*
+
+He who is in many places ; who spreads over the whole earth, like an animal without a herdsman, that goes according to its own will, Agni, the bright-shining, consuming the dry-bushes, by whom the pain of blackness (is inflicted on the trees), entirely drinks up (their moisture).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 7)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+When Agni spreads over the forest and burns it, he is described as व्यस्थात् विविधं विश्वं व्याप्नोति (*vyasthāt vividhaṃ viśvaṃ vyāpnoti*) — he spreads in many different ways, so that not even a little of the whole forest is left out. Further:
+
+> उर्वीं अभिदक्षत्—विस्तृतां पृथिवीं सर्वां अभिमुख्येन प्रवर्धमानो भवति ।
+
+> *urvīṃ abhidakṣat—vistṛtāṃ pṛthivīṃ sarvāṃ abhimukhyena pravardhamāno bhavati |*
+
+The Kannada says: it is described that he spreads over all the trees and herbs in the forest and also over the extensive land of the forest, so that no one else has room to enter that region. For this Agni's moving about of his own accord, spreading through the forests, the simile of an animal has been given:
+
+> पशुर्न स्वयुः अगोपाः एति—जातः पशुः यथा स्वच्छंदेन चरति तथा स्वयमेव गच्छन् नियामकवर्जितो गच्छति ।
+
+> *paśurna svayuḥ agopāḥ eti—jātaḥ paśuḥ yathā svacchaṃdena carati tathā svayameva gacchan niyāmakavarjito gacchati |*
+
+The Kannada says: just as an animal (an elephant and the like) that is born and grows in the forest goes about according to its own wish, in its wandering and conduct, without coming under the control of another, so Agni, born in the forest, grows by his own free conduct, not subject to those who keep him under rule. Here the simile of the animal fits Agni very well. Tigers, lions, wild boars and other creatures that are born and grow in the forest itself and are subject to no one, roam and sport wherever their mind pleases. In the same way a forest fire born in the forest itself (from the friction of trees) overruns and burns the whole extensive forest. The main intention is that no one can stop this.
+
+*(The word नियामकवर्जितो (*niyāmakavarjito*) is printed clearly here, ma with its own sign; this clearer printing corrects the doubtful नियोमक (*niyomaka*) of the bhāṣya on p. 484, which should be read नियामक (*niyāmaka*) — niyāmaka, "controller".)*
+
+> कृष्णव्यथिः भूम अस्वदयन्न अतसानि उष्णन्—कृष्णवर्णं प्राप्ताः [?] दग्धाः व्यथाकराः कंटकादयो येन—
+
+> *kṛṣṇavyathiḥ bhūma asvadayanna atasāni uṣṇan—kṛṣṇavarṇaṃ prāptāḥ [?] dagdhāḥ vyathākarāḥ kaṃṭakādayo yena—*
+
+> वृक्षगर्ताः [?] रसाः आस्वादयतीव—
+
+> *vṛkṣagartāḥ [?] rasāḥ āsvādayatīva—*
+
+> संतता(नि) नीरसानि वा तरुगुल्मादीनि दहन्नेति—
+
+> *saṃtatā(ni) nīrasāni vā tarugulmādīni dahanneti—*
+
+The Kannada says: having burnt thorns and the like, he makes them black, causing pain to those who see them; he spreads through the forest as one who surpasses (all) and, as if tasting, consumes all the sap that is in the trees, like one who tastes for relish; and, burning trees and shrubs that have grown thick and are sapless (or have become dry), the fire goes ahead through the forest, so it is described. Here, when Agni burns green trees, the sap in the trees dries up through the heat of Agni and the tree also is burnt away; the comparison of this with the tasting of sap is both natural and full of meaning.
+
+### Printed p. 486 (PDF 507)
+
+*(Header: "486", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 4", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+---
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+*(The Ṛk numeral looks like the glyph for 8 in both the Saṃhitā and the Pada; not zoomed.)*
+
+> नू ते पूर्वस्यावसो अधीतौ तृतीये विदथे मन्म शंसि ।
+> अस्मे अग्ने संयद्वीरं बृहंतं क्षुमंतं वाजं स्वपत्यं रयिं दाः ॥ ८ ॥
+
+> *nū te pūrvasyāvaso adhītau tṛtīye vidathe manma śaṃsi |*
+> *asme agne saṃyadvīraṃ bṛhaṃtaṃ kṣumaṃtaṃ vājaṃ svapatyaṃ rayiṃ dāḥ ‖ 8 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the small subscript stroke in अधिऽइतौ, संयत्ऽवीरं, क्षुऽमंतं and सुऽअपत्यं is the compound mark; it is written ऽ.)*
+
+> नु । ते । पूर्वस्य । अवसः । अधिऽइतौ । तृतीये । विदथे । मन्म । शंसि ।
+> अस्मे इति । अग्ने । संयत्ऽवीरं । बृहंतं । क्षुऽमंतं । वाजं । सुऽअपत्यं ।
+> रयिं । दाः ॥ ८ ॥
+
+> *nu | te | pūrvasya | avasaḥ | adhi 'itau | tṛtīye | vidathe | manma | śaṃsi |*
+> *asme iti | agne | saṃyat 'vīraṃ | bṛhaṃtaṃ | kṣu 'maṃtaṃ | vājaṃ | su 'apatyaṃ |*
+> *rayiṃ | dāḥ ‖ 8 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Remembering the earlier propitiation of Agni, praise is recited now too at the third pressing; Agni is asked to give food with heroes, great and renowned, good offspring and wealth.
+
+*(The bhāṣya prints मध्येऽन्यतमो (*madhye 'nyatamo*) (the last word ending in an ो-like sign) before तृतीये क्रतौ (*tṛtīye kratau*); read as printed [?]. The word before यागे (*yāge*) is विदथे (*vidathe*); the printed form of यागे (*yāge*) has an ō-like sign (ಯೋಗೇ), written यागे (*yāge*) as the sense requires [?]. In the grammatical tail शंसि | अशंसि | शस्यतेऽस्माभिः (*śaṃsi | aśaṃsi | śasyate 'smābhiḥ*) no sūtra is quoted.)*
+
+> हे अग्ने ते तव संबंधिनः पूर्वस्य पूर्वं योगसमये कृतस्यावसोऽभिमततर्पणस्याधीतौ स्मरणे सति तत्स्मृत्या नु अद्यापि तृतीये विदथे यागे [?] तृतीयसवने । यद्वा प्रातरनुवाकसंबंधिनामाग्नेयोषस्याश्विनानां मध्येऽन्यतमो [?] तृतीये क्रतौ मन्म मननीयं स्तोत्रं शंसि । अशंसि । शस्यतेऽस्माभिः । हे अग्ने त्वं चास्मे अस्मभ्यं संयद्वीरं संयतो वीरा यस्मिन् तादृशं बृहंतं महांतं क्षुमंतं शब्दवंतं कीर्तिमंतं वाजमुक्तलक्षणमन्नं स्वपत्यं रयिं च दाः । देहि ॥
+
+> *he agne te tava saṃbaṃdhinaḥ pūrvasya pūrvaṃ yogasamaye kṛtasyāvaso 'bhimatatarpaṇasyādhītau smaraṇe sati tatsmṛtyā nu adyāpi tṛtīye vidathe yāge [?] tṛtīyasavane | yadvā prātaranuvākasaṃbaṃdhināmāgneyoṣasyāśvinānāṃ madhye 'nyatamo [?] tṛtīye kratau manma mananīyaṃ stotraṃ śaṃsi | aśaṃsi | śasyate 'smābhiḥ | he agne tvaṃ cāsme asmabhyaṃ saṃyadvīraṃ saṃyato vīrā yasmin tādṛśaṃ bṛhaṃtaṃ mahāṃtaṃ kṣumaṃtaṃ śabdavaṃtaṃ kīrtimaṃtaṃ vājamuktalakṣaṇamannaṃ svapatyaṃ rayiṃ ca dāḥ | dehi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 8)**
+
+(Kannada, translated:) अग्ने (*agne*) — O Agni; ते (*te*) — belonging to you; पूर्वस्य (*pūrvasya*) — (the praise) recited at the time of the earlier savana, and अवसः (*avasaḥ*) — that which made you satisfied; अधीतौ (*adhītau*) — following that praise; नु (*nu*) — even now; तृतीये विदथे (*tṛtīye vidathe*) — at the time of the third savana; मन्म (*manma*) — the praise that is worthy of reflection; शंसि (*śaṃsi*) — is recited. अग्ने (*agne*) — O Agni; अस्मे (*asme*) — to us; संयद्वीरं (*saṃyadvīraṃ*) — accompanied by heroes; बृहंतं (*bṛhaṃtaṃ*) — great; क्षुमंतं (*kṣumaṃtaṃ*) — deserving of fame; वाजं (*vājaṃ*) — food; स्वपत्यं (*svapatyaṃ*) — excellent offspring; रयिं (*rayiṃ*) — wealth; दाः (*dāḥ*) — give.
+
+**भावार्थ (Bhāvārtha — Ṛk 8)**
+
+(Kannada, translated:) O Agni, the praise that belongs to you, that was recited in the earlier savana with you in view, and that made you satisfied: following that very praise, even now at the time of the third savana, a praise worthy of reflection is recited. O Agni, give us food that is accompanied by heroes, great, and deserving of fame, and excellent offspring, and wealth.
+
+### Printed p. 487 (PDF 508)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 25 ]", "Ṛgvedasaṃhitā", "487", read from the strip, not zoomed. The numeral file has no rows for this page.)*
+
+*(The Bhāvārtha of Ṛk 8 ends on this page with "…give us". The Kannada here, completing the sentence of p. 486, repeats the sense given above: …may you give us food accompanied by heroes, great and deserving of fame, excellent offspring and wealth.)*
+
+**English Translation** *(as printed, Ṛk 8)*
+
+Verily your praise has been recited (by us) at the third (daily) sacrifice, as it was in the repetition of your first propitiation : give us, Agni, ample and notorious food, posterity, riches, such as may be the support of numerous dependants.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 8)**
+
+(Kannada, translated; lemmata in Sanskrit as printed.)
+
+The Kannada says: here, addressing Agni, the yajamānas and ṛtvijs who have performed the sacrifice from the time it began until now remember the stotras and the like that please Agni, and at the third pressing, तृतीये विदथे (*tṛtīye vidathe*), or, in the other explanation,
+
+> यद्वा प्रातरनुवाकसंबंधिनां आग्नेयोषस्याश्विनानां मध्ये तृतीयक्रतौ
+
+> *yadvā prātaranuvākasaṃbaṃdhināṃ āgneyoṣasyāśvinānāṃ madhye tṛtīyakratau*
+
+— while the sacrifices are being performed, among the three kinds of mantras — the Āgneya-kratu, the Uṣasya-kratu and the Āśvina-kratu — which belong to the Prātaranuvāka mantras recited in the morning, the stotras and the like recited in the third kratu, the one distinct from the others, are recited by us. It is described as the hope that Agni may listen to these stotras. With this, what the yajamānas pray for is described: संयद्वीरं (*saṃyadvīraṃ*) — sons who subdue (restrain) heroes; बृहंतं क्षुमंतं वाजं (*bṛhaṃtaṃ kṣumaṃtaṃ vājaṃ*) — abundant food; fame; and wealth: may Agni grant them.
+
+*(A short rule is printed here. Ṛk 8 is closed.)*
+
+---
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+*(In the Saṃhitā the word उपरा (*uparā*) is printed with a chandrabindu-like sign above the ā-stroke and is written उपराँ (*uparā~*); the Pada has उपरान् (*uparān*). The Ṛk numeral looks like ९, as in the Pada; not zoomed.)*
+
+> त्वया यथा गृत्समदासो अग्ने गुहा वन्वंत उपराँ अभि ष्युः ।
+> सुवीरासो अभिमातिषाहः स्मत्सूरिभ्यो गृणते तद्वयो धाः ॥ ९ ॥
+
+> *tvayā yathā gṛtsamadāso agne guhā vanvaṃta uparā~ abhi ṣyuḥ |*
+> *suvīrāso abhimātiṣāhaḥ smatsūribhyo gṛṇate tadvayo dhāḥ ‖ 9 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the subscript stroke in गृत्सऽमदासः, सुऽवीरासः, अभिमातिऽसहः and सूरिऽभ्यः is the compound mark, written ऽ; the Pada has अभिमातिसहः (*abhimātisahaḥ*) with the ordinary स where the Saṃhitā has ष.)*
+
+> त्वया । यथा । गृत्सऽमदासः । अग्ने । गुहा । वन्वंतः । उपरान् । अभि । स्युरिति स्युः ।
+> सुऽवीरासः । अभिमातिऽसहः । स्मत् । सूरिऽभ्यः । गृणते । तत् । वयः । धाः ॥ ९ ॥
+
+> *tvayā | yathā | gṛtsa 'madāsaḥ | agne | guhā | vanvaṃtaḥ | uparān | abhi | syuriti syuḥ |*
+> *su 'vīrāsaḥ | abhimāti 'sahaḥ | smat | sūri 'bhyaḥ | gṛṇate | tat | vayaḥ | dhāḥ ‖ 9 ‖*
+
+*(Ṛk 9 is left open: its bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 487 (PDF 508). Maṇḍala 2 Sūkta 4: Ṛk 7 complete (printed English and Special Topics on p. 485); Ṛk 8 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 486; printed English and Special Topics on p. 487, then a short rule). Ṛk 9: Saṃhitā and Pada written at the foot of p. 487; **Ṛk 9 is open**, next are its bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics on p. 488. FILE DISAGREE: none (the file has no rows for pp. 485–487). Not zoomed: headers (read from the strips, "Va. 25" on pp. 485 and 487), Ṛk numerals 8 and 9. The clearer printing ⟦नियामकवर्जितो⟧ on p. 485 corrects the doubtful ⟦नियोमक⟧ of p. 484. [?] places: p. 485 वृक्षगर्ताः (printed with र्त; bhāṣya has वृक्षगतान्) and प्राप्ताः (printed form unclear); p. 486 bhāṣya ⟦यागे⟧ (printed with ō-like sign) and ⟦मध्येऽन्यतमो⟧ (final vowel sign); p. 487 Saṃhitā ⟦उपराँ⟧ (chandrabindu-like sign).
