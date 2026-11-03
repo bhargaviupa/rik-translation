@@ -6,7 +6,7 @@ Rows: every hyphenated reference numeral on PDF 7-72, classed
   doubtful  - still followed by [?]
 python3 build_testset.py [MAXPDF] > docs/numeral_testset.csv"""
 import re,subprocess,csv,sys,difflib
-F='Rigveda_Samhita_Vol11_English_Translation.md'
+F='vol11/Rigveda_Samhita_Vol11_English_Translation.md'
 def show(rev): return subprocess.run(['git','show',f'{rev}:{F}'],capture_output=True,text=True).stdout
 def pages(t):
     out={}
