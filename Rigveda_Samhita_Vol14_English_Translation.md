@@ -13034,4 +13034,131 @@ In the Adhyāyopākarma and Utsarjana rites mentioned above, when the dadhisaktu
 
 ---
 
-**Progress note:** Done through printed p. 371 (PDF 391). Sūkta 191: Ṛks 1-15 complete; Ṛk 16 OPEN (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; Special Topics begun on p. 371 ending '…the mongoose [continues p. 372]'; Vyākaraṇa-prakriyā, colophon, Varga closing and next sūkta not yet reached). Header numerals p. 369/371: Aṣṭaka 2, Adhyāya 5 [?], Varga 16 (unzoomed). Flags pp. 369-371: Ṛ. Saṃ. 2-1-1 zoomed — file said 2-0-0, crop shows 2-1-1; Ā. Gṛ. 3-5-5, Ṛ. Saṃ. 1-1-1, 1-191-16, 2-43-3, Pā. Sū. 6-1-7 agree (unzoomed); Ṛk 16 bhāṣya 'āchakhyau', 'krimyādi', 'yadvaiva vādīt' [?], 'maharṣiṇocyamāne' as printed; printed English 'neul or or' [sic], 'Englih Tranlation' [sic], 'mun-goose·', dots as printed; 'saṃvṛtāḥ' printed in Special Topics (Saṃhitā saṃvataḥ); Ṛk 15 grammar 'nakārottara' as printed, 'atiṅanta' as printed, sūtra 'chandasi luṅ' printed truncated. Counts pp. 369-371: 1 distinct [?] place (bhāṣya), 1 zoom, file settled without zoom 5, file disagreed 1, file lacked 0. (Earlier flags: Flags pp. 366-368: Ṛk 14 bhāṣya 'nadīnāmaitat' read as printed 'नदीनामैतत्' [?]; Ṛk 14 pada 'कुंभिनीःऽइव' compound mark as it looks; 'atiṅanta' as printed (ಅತಿಜಂತ); kumbhinī note 'आसामस्ति' as printed; Pā. Sū. 5-1-60, Ni. 3-9, Ni. 2-24 agree with file (unzoomed); sūtra name 'paṃkti viśaṃti-' printed truncated; printed English 'water·' (dot as printed). Counts pp. 366-368: 1 distinct [?], 0 zooms, file settled without zoom 3, file lacked 0. (Earlier flags: Ṛk 12 bhāṣya 'bhedenyaikaviṃśatiḥ' as it looks [?]; 'aḍāgama' as it looks; sūtra names 'mantreghasa-', 'gamahana-' truncated; Pā. Sū. 2-4-37, 6-1-179 agree; 'coursers·' as printed; pp. 360-362 and 357-359 flags as in prior notes: Ṛk 11 bhāṣya 'vidyāyāṃ yuddhehāvṛtaṃ' [?]; sūtra name after 'tedoḥ sā-' garbled [?]; Pā. Sū. 5-3-71, 2-4-40, Ṛ. Saṃ. 2-42-3, 2-43-1 agree; [sic] 'English Translatin', 'vender', 'poisonns', 'arb', 'wholely'; 'tadanugrahāttraiva', 'viṣyaiva' [?]; 'kulmāṣāṃścidvāhareti…' division as it looks; Ṛ. Saṃ. part number before 'page 615' read 5 [?]; possible lost word at strip join p. 359; Uṇ. Sū. number in dṛtim unclear [?]; sūtra names 'jhaldvad' [?], 'padiprathibhyāṃ nit' as it looks; Pā. Sū. 3-2-4 agrees. Older flags in vol14/review/flags_archive_pp286-322.md and flags_archive_pp323-347.md.)
+
+### Printed p. 372 (PDF 392)
+
+*(Header: "Maṃ. 1 A. 24 [?] Sū. 191", "Sāyaṇabhāṣyasahitā".)*
+
+**Special Topics (continued from p. 371)** — … became afraid, came out at once from the burrow-region of the mountain, his dwelling, and, in order to console the sage Agastya, spoke thus (that is, the following sentence): this is the meaning.
+
+On this sūkta the scholar Wilson writes thus:
+
+"M. Langlois has preferred a totally different interpretation of this sukta [sic], understan-ding it to allude to the state of the sky before the commencement of a sacrifice; he, therefore, interprets (Kannada-script word *viṣa*) by darkness· Which is dispersed by the morning light, or by the rays of the sun; On what authority this view of the intention of the hymn is founded has not been stated; nothing of the kind is intimated by Sayana [sic] whose interpretation is confirmed by the legendary application of the hymn as related by (Kannada-script word *Śaunaka*) by the corresponding text of the (Kannada-script word *Atharvaṇa*); there are no doubt, many expressions of doubtful import, and some which are used in other places, as in the (Kannada-script word *Yajurveda*), in a different acceptation; but the interpretation given by Sayana appears to be most consistent with the general purport of the text·" *(Wilson's English as printed; punctuation dots as printed.)*
+
+**वृश्चिकस्यारसं विषमरसं वृश्चिक ते विषं (*vṛścikasyārasaṃ viṣamarasaṃ vṛścika te viṣaṃ*)** — this sentence was spoken by the mongoose to remove the poison. In the world, when people are bitten by poisonous creatures such as a scorpion, or by a snake that has poison, they become helpless with fear that they will die. That fear, more than the poison, becomes the effective cause of death. Therefore the wise, speaking to people bitten by a snake, say: "Do not be afraid, it was not a poisonous snake, so it can do no harm, you will be well at once"; it is the custom to remove fear by saying what is untrue (even if a poisonous snake has bitten). If fear is removed, the poison pervading the body is not so dangerous, and there is a chance of surviving. Following exactly this principle the mongoose came out at once from the hole in the mountain and said to Agastya, who was distressed with fear of poison: "O scorpion, your poison is not sharp; it is powerless." The repetition (dvirukti) in the sentence "vṛścikasya arasaṃ viṣaṃ" is to be understood as made to emphasize the sense of the sentence. As to why the mongoose, addressing the scorpion, spoke so: "O sage Agastya, you have no snake-bite; some scorpion with little poison may have bitten. A scorpion's bite causes no great trouble. Why do you suffer for it?" — from this consoling point of view the scorpion's poison is powerless and not sharp like a snake's. The main meaning is that there is no need to fear, said according to worldly custom.
+
+**Vyākaraṇa-prakriyā** *(grammar page, noted briefly)*: **अब्रवीत् (*abravīt*)** — root ब्रूञ् व्यक्तायां वाचि (*brūñ vyaktāyāṃ vāci*), luṅ [as printed: uttama-puruṣa, ekavacana] ending tip; इतश्च (*itaśca*) drops the i; ब्रुव ईट् (*bruva īṭ*) (Pā. Sū. 7-3-93) gives the augment īṭ; guṇa/avādeśa of the root's u; aṭ-augment on the aṅga; tiṅanta-nighāta accent results.
+
+---
+
+
+### Printed p. 373 (PDF 393)
+
+*(Header: "A. 2 A. 5 Va. 16" [Aṣṭaka 2, Adhyāya 5, Varga 16], "Ṛgvedasaṃhitā".)*
+
+**Vyākaraṇa-prakriyā (continued, grammar page):** **प्रवर्तमानकः (*pravartamānakaḥ*)** — प्रवर्तमान (*pravartamāna*) itself is the प्रवर्तकः (*pravartakaḥ*); the suffix ka is in the sense of the word itself (svārtha); or, in the sense of "little", the suffix ka. By the suffix's accent … [?] (unclear after "pratyaya svaradinda": "ante o vraścū chedane"), the root is udātta.
+
+**वृश्चिकस्य (*vṛścikasya*)** — by वृश्चिकृषोः किकिन् (*vṛścikṛṣoḥ kikin*) (as printed; Uṇ. Sū. 1-168) the suffix kikan. Since it has an indicatory n/ñ [?], the initial-udātta accent results by "ञ्नित्या…" (as printed, truncated).
+
+*(The Ṛk and sūkta 191 end here. No Varga closing is printed on this page.)*
+
+---
+
+**प्रथममंडलस्यांते पठितव्यानि खिलसूक्तानि (परिशिष्टानि)** *(Khila-sūktas to be recited at the end of the first maṇḍala (appendices); Kannada-script heading, "paṭhitavyāni" as it looks)*
+
+*Gist:* Do not fear, you will not die; I protect you all around; I strike scorpion or snake that comes with a heavy stick.
+
+> मा बिभेर्न मरिष्यसि परि त्वा सामि सर्वतः ।
+> घनेन हन्मि वृश्चिकमहिं दण्डेनागतं ॥ १ ॥
+
+> *mā bibherna mariṣyasi pari tvā sāmi sarvataḥ |*
+> *ghanena hanmi vṛścikamahiṃ daṇḍenāgataṃ ‖ 1 ‖*
+
+> आदित्यरथवेगेन विष्णोर्बाहुबलेन च ।
+> गरुडपक्षनिपातेन भूमिं गच्छ महायशाः ॥ २ ॥
+
+> *ādityarathavegena viṣṇorbāhubalena ca |*
+> *garuḍapakṣanipātena bhūmiṃ gaccha mahāyaśāḥ ‖ 2 ‖*
+
+> गरुडस्य पातमात्रेण त्रयो लोकाः प्रकंपिताः ।
+> प्रकंपिता मही सर्वा सशैलवनकानना ॥ ३ ॥
+
+> *garuḍasya pātamātreṇa trayo lokāḥ prakaṃpitāḥ |*
+> *prakaṃpitā mahī sarvā saśailavanakānanā ‖ 3 ‖*
+
+> गगनं नष्टचंद्रार्कं ज्योतिषं न प्रकाशते ।
+> देवता भयभीताश्च मारुतो न प्लवायति ॥
+> मारुतो न प्लवायत्योंनमः ॥ ४ ॥
+
+> *gaganaṃ naṣṭacaṃdrārkaṃ jyotiṣaṃ na prakāśate |*
+> *devatā bhayabhītāśca māruto na plavāyati ‖*
+> *māruto na plavāyatyoṃnamaḥ ‖ 4 ‖*
+
+> भो सर्प भद्र भद्रं ते दूरं गच्छ महाविष ।
+> जन्मेजयस्य यज्ञांते आस्तीकवचनं स्मर ॥ ५ ॥
+
+> *bho sarpa bhadra bhadraṃ te dūraṃ gaccha mahāviṣa |*
+> *janmejayasya yajñāṃte āstīkavacanaṃ smara ‖ 5 ‖*
+
+> आस्तीकवचनं श्रुत्वा यः सर्पो न निवर्तते ।
+> शतधा भिद्यते मूर्ध्नि शिंशवृक्षफलं यथा ॥ ६ ॥
+
+> *āstīkavacanaṃ śrutvā yaḥ sarpo na nivartate |*
+> *śatadhā bhidyate mūrdhni śiṃśavṛkṣaphalaṃ yathā ‖ 6 ‖*
+
+> नर्मदायै नमः प्रातर्नर्मदायै नमो निशि ।
+> नमोऽस्तु नर्मदे तुभ्यं त्राहि मां विषसर्पतः ॥ ७ ॥
+
+> *narmadāyai namaḥ prātarnarmadāyai namo niśi |*
+> *namo 'stu narmade tubhyaṃ trāhi māṃ viṣasarpataḥ ‖ 7 ‖*
+
+> यो जरत्कारुणा जातो जरत्कार्वां महायशाः ।
+> तस्य स्मरामि भद्रं ते दूरं गच्छ महाविष ॥ ८ ॥
+
+> *yo jaratkāruṇā jāto jaratkārvāṃ mahāyaśāḥ |*
+> *tasya smarāmi bhadraṃ te dūraṃ gaccha mahāviṣa ‖ 8 ‖*
+
+> आसितिं चार्थसिद्धिं च सुनीतिं चापि यः स्मरेत् ।
+> दिवा वा यदि वा रात्रौ नास्ति सर्पभयं भवेत् ॥ ९ ॥
+
+> *āsitiṃ cārthasiddhiṃ ca sunītiṃ cāpi yaḥ smaret |*
+> *divā vā yadi vā rātrau nāsti sarpabhayaṃ bhavet ‖ 9 ‖*
+
+> अगस्तिर्माधवश्चैव मुचुकुंदो महामुनिः ।
+> कपिलो मुनिरास्तीकः पंचैते सुखशायिनः ॥ १० ॥
+
+> *agastirmādhavaścaiva mucukuṃdo mahāmuniḥ |*
+> *kapilo munirāstīkaḥ paṃcaite sukhaśāyinaḥ ‖ 10 ‖*
+
+*("जरत्कार्वां" as printed [?]; "आसितिं" zoomed, as printed (the commentary reads Asiti). Verse numbers 1–10 as printed.)*
+
+**Explanation of the Pariśiṣṭa verses** (Kannada, rendered; begins at the foot of p. 373): The main idea of the Pariśiṣṭa mantra: the Veda-Puruṣa speaks thus to the man who recites this sūkta — "Do not fear that a snake has bitten and poison is rising; you will not die; I myself will protect you everywhere. Whether scorpion or snake, I will strike and kill it with a strong stick …" [continues p. 374]
+
+---
+
+
+### Printed p. 374 (PDF 394)
+
+*(Header: "Maṃ. 1 A. 24 [?] Sū. 191", "Sāyaṇabhāṣyasahitā".)*
+
+**Explanation (continued from p. 373):** "… O snake, run off and take refuge in the hole in the earth. Otherwise I will strike you with my staff, which is swift like the sun's chariot, strong like Vishnu's arms, and which falls from above like Garuḍa. When Garuḍa merely comes, the three worlds move; the whole earth with mountains and forests trembles in fear. At the rush of Garuḍa's coming the sun and moon become lightless, the stars do not shine, the gods shiver with fear, the wind does not blow. Therefore, O snake full of great poison, go far away; may it be well with you. In this matter make Janamejaya's sacrificial conclusion, the word of the sage Āstīka, known to you. Whatever snake, not heeding the words Āstīka spoke as a warning, does not go away, its head splits into a hundred pieces like the fruit of the śiṃśapā tree. O river Narmadā, to you salutation in the morning and in the night; protect me from the poison-snake. I remember the sage Jaratkāru, of great glory, born of (the maiden) Jaratkāru; for those who remember that great sage's name there is no fear of poison-snakes. Therefore, O poison-filled snake, go far; may you prosper. For the man who remembers Asiti, Arthasiddhi and Sunīti there is no snake-fear, by night or by day. And the man who remembers the five great sages Agasti, Mādhava, Muchukunda, Kapila and Āstīka sleeps happily at night, free of snake-fear."
+
+After an ornament:
+
+> ॥ इति प्रथमं मंडलं समाप्तं ॥
+
+> *‖ iti prathamaṃ maṃḍalaṃ samāptaṃ ‖*
+
+> यदक्षरपदभ्रष्टं मात्राहीनं तु यद्भवेत् ।
+> तत्सर्वं क्षम्यतां देव वागीश्वर नमोऽस्तु ते ॥
+
+> *yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ tu yadbhavet |*
+> *tatsarvaṃ kṣamyatāṃ deva vāgīśvara namo 'stu te ‖*
+
+> ॥ ॐ तत्सत् ॥
+
+*(Colophon: "Thus the first maṇḍala is complete." "Whatever is fallen from letter or word, or lacking in measure, may all that be forgiven, O God, Lord of speech; salutation to you." "Om, that is the real.") Then an ornament; the page ends. Maṇḍala 1 is complete.*
+
+---
+
+**Progress note:** Done through printed p. 374 (PDF 394). Sūkta 191 complete (Ṛk 16 closed); Khila/Pariśiṣṭa verses 1-10 with Kannada explanation and the colophon 'iti prathamaṃ maṇḍalaṃ samāptaṃ' written: MAṆḌALA 1 COMPLETE. Next: Maṇḍala 2 (printed p. 375, PDF 395 to be checked). Flags pp. 372-374: header 'A. 24' [?] (unzoomed); Aṣṭaka 2 Adhyāya 5 Varga 16 as read on p. 373; no Varga closing printed; p. 373 grammar 'ante o vraścū chedane' [?], 'ञ्नित्या' truncated; 'जरत्कार्वां' as printed [?]; 'आसितिं' zoomed, as printed; Uṇ. Sū. 1-168 zoomed (file agrees), Pā. Sū. 7-3-93 file; Wilson text 'sukta', 'Sayana' [sic]; Pariśiṣṭa heading 'paṭhitavyāni' as it looks; sūtra 'bruva īṭ' as printed. Counts: 4 distinct [?] places, 3 zooms.
