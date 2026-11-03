@@ -16172,4 +16172,142 @@ The pious are they who present, as a gift, to the reciters of your praises an ex
 
 ---
 
-**Progress note:** Done through printed p. 454 (PDF 475). Maṇḍala 2 Sūkta 2: Ṛk 12 complete (p. 452 Pratipadārtha, Bhāvārtha, printed English, Special Topics; p. 453 continuation); Ṛk 13 (last of Sūkta 2) written: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics (referring to the end of Sūkta 1, p. 426); Sūkta 2 complete. Sūkta 3 (11 Ṛks, Āprī sūkta) is begun: opening Kannada note and the start of the bhāṣya intro, which breaks off mid-word at "समिद्ध्-" at the foot of p. 454 and continues on p. 455. Note the order on p. 454 in the file: the Pratipadārtha and Bhāvārtha of Ṛk 13 are placed under p. 453/454 as printed (they stand on p. 454 strip 1; in the chunk they follow the Ṛk 13 bhāṣya). Numeral file: only "227-273" on p. 454, agrees. Not zoomed: headers (p. 453 read "A. 2 A. 5 Va. 21"), Ṛk numbers 13, and the "(16th Ṛk)" numeral on p. 454 [?]. [?] places: Ṛk 13 first word ये (ए/ओ-sign ambiguous); bhāṣya ⟦चर्त्विजो⟧; p. 453 ⟦वसिष्ठस्य⟧ as printed; Sūkta 3 intro ⟦नराशंसतनूनपादादय⟧.
+### Printed p. 455 (PDF 476)
+
+*(Header: "A. 2 A. 5 Va. 21", "Ṛgvedasaṃhitā", "455", read from the strip. The numeral file has three rows for this page: "3-2" twice (both agree with the print, Āśvalāyana reference "आ. ३-२") and "1-6" in the metre line (agrees, see below). The bhāṣya of Sūkta 3 continues from p. 454, where it broke off at "समिद्ध्-".)*
+
+*Gist:* The Anukramaṇikā gives eleven Ṛks, the seventh in Jagatī. The sūkta is the Āprī sūkta of the Śunaka line in the animal sacrifice, because Gṛtsamada also belonged to that line.
+
+*(Joined with the end of p. 454, the Anukramaṇikā words read समिद्ध् + एकादशाप्रं. After the शा of the first word a small sign is printed that looks like an avagraha; the Kannada explanation prints the word without it. Read as printed [?].)*
+
+> एकादशाप्रं सप्तमी जगतीत्यनुक्रमणिका ॥ पशौ शुनकानामिदमाप्रीसूक्तं । गृत्समदस्यापि शुनकत्वात् । समिद्धो अग्निरिति शुनकानामिति हि सूत्रितं । आ. ३-२ ॥
+
+> *ekādaśāpraṃ saptamī jagatītyanukramaṇikā ‖ paśau śunakānāmidamāprīsūktaṃ | gṛtsamadasyāpi śunakatvāt | samiddho agniriti śunakānāmiti hi sūtritaṃ | ā. 3-2 ‖*
+
+**अनुवादः (Anuvāda — Kannada, translated)**
+
+"The sūkta beginning समिद्धो अग्निः (*samiddho agniḥ*) is the third sūkta in the first anuvāka. It has eleven Ṛks. Gṛtsamada is the ṛṣi; the metre is Triṣṭubh, and only the seventh Ṛk is in Jagatī metre. Since it is an Āprī sūkta, the eleven Prayāja deities beginning with समिद्धः अग्निः (*samiddhaḥ agniḥ*) are the deities of this sūkta. In the Anukramaṇikā it is said समिद्ध एकादशाप्रं सप्तमी जगती (*samiddha ekādaśāpraṃ saptamī jagatī*). In the animal sacrifice this is the Āprī sūkta for those of the Śunaka line of ṛṣis, because Gṛtsamada too belonged to that line, and because the Āśvalāyana Śrautasūtra has the sūtra समिद्धो अग्निरिति शुनकानामिति हि (*samiddho agniriti śunakānāmiti hi*) (Ā. 3-2). Those of Śunaka descent also use this Āprī sūkta."
+
+---
+
+*(End of Sūkta 2. The rule and "॥ ॐ ॥" are printed.)*
+
+**॥ ॐ ॥**
+
+### Sūkta 3
+
+*(Sūkta heading, as printed: Maṇḍala 2; Anuvāka 1; Sūkta 3; Aṣṭaka 2; Adhyāya 5; Varga 22, 23 [?, the varga numerals not zoomed]; number of Ṛks in the sūkta, 11.)*
+
+*(Ṛṣi, as printed:)* Gṛtsamada (Āṅgirasa Śaunahotra, afterwards) Bhārgava Śaunaka [?, the words in brackets and भार्गव (*bhārgava*) are in small type]. Āprī sūkta.
+
+*(Devatā, as printed, numbered:)*
+
+1. इध्मः समिधोऽग्निर्वा (*idhmaḥ samidho 'gnirvā*) (Idhma, or Samidh, or Agni)
+2. नराशंसः (*narāśaṃsaḥ*) (Narāśaṃsa)
+3. इळः (*iḷaḥ*) (Iḷā)
+4. बर्हिः (*barhiḥ*) (Barhis)
+5. देवीद्वारः (*devīdvāraḥ*) (the divine Doors)
+6. उषासानक्ता (*uṣāsānaktā*) (Dawn and Night)
+7. दैव्या होतारा प्रचेतसौ (*daivyā hotārā pracetasau*) (the two divine Hotṛs, the wise)
+8. तिस्रो देव्यः सरस्वतीळाभारत्यः (*tisro devyaḥ sarasvatīḷābhāratyaḥ*) (the three goddesses Sarasvatī, Iḷā, Bhāratī)
+9. त्वष्टा (*tvaṣṭā*) (Tvaṣṭṛ)
+10. वनस्पतिः (*vanaspatiḥ*) (Vanaspati)
+11. स्वाहाकृतयः (*svāhākṛtayaḥ*) (the Svāhākṛtis)
+
+*(Chandas, as printed: Ṛks 1–6, 8–11 Triṣṭubh; Ṛk 7 Jagatī.)*
+
+**॥ संहितापाठः ॥**
+
+> समिद्धो अग्निर्निहितः पृथिव्यां प्रत्यज् विश्वानि भुवनान्यस्थात् ।
+> होता पावकः प्रदिवः सुमेधा देवो देवान्यजत्वग्निरर्हन् ॥ १ ॥
+
+> *samiddho agnirnihitaḥ pṛthivyāṃ pratyaj viśvāni bhuvanānyasthāt |*
+> *hotā pāvakaḥ pradivaḥ sumedhā devo devānyajatvagnirarhan ‖ 1 ‖*
+
+*(In प्रत्यज् the last letter is printed ज्, not the ङ् one would expect; written as printed [?]. It is printed so in the Pada and bhāṣya also.)*
+
+**॥ पदपाठः ॥**
+
+> सम्ऽइद्धः । अग्निः । निऽहितः । पृथिव्यां । प्रत्यज् । विश्वानि । भुवनानि । अस्थात् ।
+> होता । पावकः । प्रदिवः । सुऽमेधाः । देवः । देवान् । यजतु । अग्निः । अर्हन् ॥ १ ॥
+
+> *sam 'iddhaḥ | agniḥ | ni 'hitaḥ | pṛthivyāṃ | pratyaj | viśvāni | bhuvanāni | asthāt |*
+> *hotā | pāvakaḥ | pradivaḥ | su 'medhāḥ | devaḥ | devān | yajatu | agniḥ | arhan ‖ 1 ‖*
+
+---
+
+### Printed p. 456 (PDF 477)
+
+*(Header: "456", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 3", read from the strip. The numeral file has no rows for this page. The Saṃhitā and Pada of Ṛk 1 stand on p. 455 and at the top of this page.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* The well-kindled Agni, placed on the altar of earth, stands in sight of all beings; he is Hotṛ, purifier, ancient, wise, divine, and being worthy of worship he is to offer to the gods.
+
+> पृथिव्यां वेदिलक्षणायां समिद्धः सम्यक् दीप्त एतन्नामकोऽग्निर्निहितः स्थापितः सन् विश्वानि सर्वाणि भुवनानि भूतजातानि प्रत्यज् अभिमुखः सन् अस्थात् । तिष्ठति । यथा सर्वे जनाः पश्यंति तथा प्रवृद्धोऽभवदित्यर्थः । किंच सोऽग्निर्होता होमनिष्पादको देवानामाह्वाता वा पावकः शोधकः प्रदिवः पुराणः सुमेधाः शोभनप्रज्ञो देवो द्योतमानः । एवं महानुभावोऽग्निरर्हन् यागयोग्यः सन् देवान्यजतु । अत्र यष्टव्यानिंद्रादीन्पूजयतु ॥
+
+> *pṛthivyāṃ vedilakṣaṇāyāṃ samiddhaḥ samyak dīpta etannāmako 'gnirnihitaḥ sthāpitaḥ san viśvāni sarvāṇi bhuvanāni bhūtajātāni pratyaj abhimukhaḥ san asthāt | tiṣṭhati | yathā sarve janāḥ paśyaṃti tathā pravṛddho 'bhavadityarthaḥ | kiṃca so 'gnirhotā homaniṣpādako devānāmāhvātā vā pāvakaḥ śodhakaḥ pradivaḥ purāṇaḥ sumedhāḥ śobhanaprajño devo dyotamānaḥ | evaṃ mahānubhāvo 'gnirarhan yāgayogyaḥ san devānyajatu | atra yaṣṭavyāniṃdrādīnpūjayatu ‖*
+
+*(No grammatical tail. In the last word the letters are printed पूजयतु, the ya with the usual hook.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada, translated:) होता (*hotā*) — the performer of the homa; पावकः (*pāvakaḥ*) — the purifier; प्रदिवः (*pradivaḥ*) — the ancient one; सुमेधाः (*sumedhāḥ*) — one of excellent wisdom; देवः (*devaḥ*) — the shining one; पृथिव्यां (*pṛthivyāṃ*) — on the earth in the form of the altar; समिद्धः (*samiddhaḥ*) — well kindled (samiddha); अग्निः (*agniḥ*) — Agni; निहितः (*nihitaḥ*) — being established; विश्वानि (*viśvāni*) — all; भुवनानि (*bhuvanāni*) — the beings; प्रत्यज् (*pratyaj*) — keeping in front of him; अस्थात् (*asthāt*) — stands; अग्निः (*agniḥ*) — Agni with such great qualities; अर्हन् (*arhan*) — worthy of the sacrifice (to be honoured); देवान् (*devān*) — the gods; यजतु (*yajatu*) — let him sacrifice (to).
+
+**भावार्थ (Bhāvārtha)**
+
+(Kannada, translated:) "Agni, the performer of the homa, the purifier, the ancient, one of excellent wisdom, kindled well on the earth in the form of the altar, is established and stands keeping all beings before him. May this Agni, with such great qualities, being worthy of the sacrifice, sacrifice to the gods."
+
+**English Translation** *(as printed)*
+
+Agni, the well-kindled, placed upon (the altar of) the earth, stands in the presence of all beings; the invoker (of the gods), the purifier, the ancient the intelligent [sic, no comma], the divine: Let the venerable Agni minister to the gods.
+
+---
+
+### Printed p. 457 (PDF 478)
+
+*(Header: "A. 2 A. 5 Va. 23", "Ṛgvedasaṃhitā", "457", read from the strip, varga numeral not zoomed [?]. The numeral file has one row, "4.53-5", which agrees with the reference "४-५३-५" in the bhāṣya.)*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> नराशंसः प्रति धामान्यंजन् तिस्रो दिवः प्रति मह्ना स्वर्चिः ।
+> घृतप्रुषा मनसा हव्यमुंदन् मूर्धन्यज्ञस्य समनक्तु देवान् ॥ २ ॥
+
+> *narāśaṃsaḥ prati dhāmānyaṃjan tisro divaḥ prati mahnā svarciḥ |*
+> *ghṛtapruṣā manasā havyamuṃdan mūrdhanyajñasya samanaktu devān ‖ 2 ‖*
+
+*(In मह्ना the conjunct ह्न is printed as in the Pratipadārtha.)*
+
+**॥ पदपाठः ॥**
+
+> नराशंसः । प्रति । धामानि । अंजन् । तिस्रः । दिवः । प्रति । मह्ना । सुऽअर्चिः ।
+> घृतऽप्रुषा । मनसा । हव्यं । उंदन् । मूर्धन् । यज्ञस्य । सं । अनक्तु । देवान् ॥ २ ॥
+
+> *narāśaṃsaḥ | prati | dhāmāni | aṃjan | tisraḥ | divaḥ | prati | mahnā | su 'arciḥ |*
+> *ghṛta 'pruṣā | manasā | havyaṃ | uṃdan | mūrdhan | yajñasya | saṃ | anaktu | devān ‖ 2 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist:* Narāśaṃsa, with bright flames, makes his greatness shine at each place of the oblation and in the three worlds; may he gratify the gods to be worshipped at the head of the sacrifice.
+
+> नराशंसो नरैर्नेतृभिर्ऋत्विग्भिः शंसनीय एतन्नामकोऽग्निः स्वर्चिः
+> शोभनज्वालः सन् धामानि स्थानान्याहुत्यधिकरणानि तेजांसि प्रति प्रत्येकं मह्ना स्वमहिम्नांजन् व्यक्तीकुर्वन् तिस्रो दिवो द्योतमानांस्त्रीन् भूम्यादिलोकांश्च प्रति प्रत्येकमंजन् । स्थित्या भूमिं प्रकाशेनांतरिक्षं हविष्प्रापणेन दिवमित्यभिप्रायः । यद्वा लोकानां प्रत्येकं त्रित्वोपेतत्वात् तिस्रो दिव इत्यविरुद्धं । तिस्रो दिवः पृथिवीस्तिस्रः । ४-५३-५ । इत्यादिमंत्रवर्णात् त्रयो वा इमे त्रिवृतो लोका इति ब्राह्मणाच्च । तथा घृतप्रुषा घृतं सिंचता मनसा हव्यमुंदन् क्लेदयन् स्निग्धीकुर्वन् यज्ञस्य मूर्धन् मूर्धनि मुखे होमसमये देवान्यष्टव्यान् समनक्तु । सम्यक् व्यक्तीकरोतु । तर्पयत्वित्यर्थः ॥
+
+> *narāśaṃso narairnetṛbhirṛtvigbhiḥ śaṃsanīya etannāmako 'gniḥ svarciḥ*
+> *śobhanajvālaḥ san dhāmāni sthānānyāhutyadhikaraṇāni tejāṃsi prati pratyekaṃ mahnā svamahimnāṃjan vyaktīkurvan tisro divo dyotamānāṃstrīn bhūmyādilokāṃśca prati pratyekamaṃjan | sthityā bhūmiṃ prakāśenāṃtarikṣaṃ haviṣprāpaṇena divamityabhiprāyaḥ | yadvā lokānāṃ pratyekaṃ tritvopetatvāt tisro diva ityaviruddhaṃ | tisro divaḥ pṛthivīstisraḥ | 4-53-5 | ityādimaṃtravarṇāt trayo vā ime trivṛto lokā iti brāhmaṇācca | tathā ghṛtapruṣā ghṛtaṃ siṃcatā manasā havyamuṃdan kledayan snigdhīkurvan yajñasya mūrdhan mūrdhani mukhe homasamaye devānyaṣṭavyān samanaktu | samyak vyaktīkarotu | tarpayatvityarthaḥ ‖*
+
+*(No grammatical tail. In मह्ना the Kannada print is ಮಹ್ನಾ, written as printed; the word नरैः is read from ನರೈರ್.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Kannada, translated:) नराशंसः (*narāśaṃsaḥ*) — Agni, praised by the priests, who is Narāśaṃsa by name; स्वर्चिः (*svarciḥ*) — together with excellent flames; धामानि (*dhāmāni*) — the vessels of oblation; प्रति (*prati*) — one by one; मह्ना (*mahnā*) — by his greatness; अंजन् (*aṃjan*) — making them shine; तिस्रः दिवः (*tisraḥ divaḥ*) — the three worlds beginning with earth; प्रति (*prati*) — each one, making it shine; घृतप्रुषा (*ghṛtapruṣā*) — that which sprinkles ghee (that which makes for well-being); मनसा (*manasā*) — with the mind; हव्यं (*havyaṃ*) — the oblation; उंदन् (*uṃdan*) — making it moist; यज्ञस्य (*yajñasya*) — of the sacrifice; मूर्धन् (*mūrdhan*) — at the time of the homa; देवान् (*devān*) — the gods; समनक्तु (*samanaktu*) — let him satisfy.
+
+*(The Bhāvārtha, printed English and Special Topics of Ṛk 2 follow on p. 458.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 457 (PDF 478). Maṇḍala 2 Sūkta 3 (Āprī sūkta, 11 Ṛks): the bhāṣya intro and Anuvāda finished on p. 455; sūkta heading block (ṛṣi, devatās 1–11, chandas) written; Ṛk 1 complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; no Special Topics on p. 456). Ṛk 2 is OPEN: Saṃhitā, Pada, bhāṣya and Pratipadārtha written on p. 457; Bhāvārtha, printed English and Special Topics follow on p. 458. FILE DISAGREE: none (3-2 twice, 4.53-5 agree; the "1-6" in the chandas line agrees, the file's "8" was read as 8-11). Not zoomed: headers (p. 455 "Va. 21", p. 457 "Va. 23"), sūkta heading "Varga 22, 23" [?]. [?] places: प्रत्यज् (ज् printed, expected ङ्); the sign after शा in एकादशाप्रं (p. 455); ṛṣi line small type (शौनहोत्र / भार्गव).
