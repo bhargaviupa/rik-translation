@@ -18549,4 +18549,142 @@ Agni, accept this my fuel, this my oblation ; listen, well pleased, to my praise
 
 ---
 
-**Progress note:** Done through printed p. 508 (PDF 529). Maṇḍala 2: Sūkta 5 closed on p. 506 (Ṛk 8 Special Topics completed). Sūkta 6 begun on p. 506 (introduction/anuvāda, heading block: 8 Ṛks, Somāhuti Bhārgava, Agni, Gāyatrī, Varga 27). Ṛk 1 complete on pp. 507–508 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics). Ṛk 2 begun on p. 508 (Saṃhitā, Pada, Sāyaṇa-bhāṣya through the final ⟦विधेम⟧); **Ṛk 2 is open: Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on p. 509.** FILE DISAGREE: none (the numeral file has no rows for pp. 506–508). Not zoomed: Varga 27 on p. 507 header and in the heading block; Ā. 4-13 (pp. 506), Ṛk numerals; Nirukta references on p. 508 (all [?]); Ai. Brā. 3-43 [?]. [?] places: p. 508 bhāṣya ⟦नस्तः⟧ (as printed; probably meant नप्तः).
+### Printed p. 509 (PDF 530)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 27 ]" [numeral not zoomed], "Ṛgvedasaṃhitā", "509". The numeral file has no rows for this page. Ṛk 2 continues from p. 508.)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 2)**
+
+(Kannada, translated:) ऊर्जो नपात् (*ūrjo napāt*) — one who is the son of strength (śakti); अश्वमिष्टे (*aśvamiṣṭe*) — one who is swift (*tvarita*) and who desires the Upasad sacrifice performed with faith (*śraddhe*); अग्ने (*agne*) — O Agni; ते (*te*) — you; अया (*ayā*) — by this oblation; विधेम (*vidhema*) — we serve; सुजाते (*sujāte*) — O Agni, of excellent birth (as printed, the vocative form सुजाते (*sujāte*)); एना सूक्तेन (*enā sūktena*) — by this mantra, which is in the nature of a stotra (we serve).
+
+**भावार्थ (Bhāvārtha — Ṛk 2)**
+
+(Kannada, translated:) O Agni, who are the son of strength, swift, and desirous of the Upasad sacrifice performed with faith, we serve you with this oblation. O Agni of excellent birth, we serve you also with this mantra, which is in the nature of a stotra.
+
+**English Translation** *(as printed, Ṛk 2)*
+
+May we propitiate you, Agni, by this (oblation) ; grandson of strength, you are gratified by prompt sacrifice ; (my [sic] we please you), well-born, by this hymn.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 2)**
+
+(Kannada, translated.)
+
+**सूक्तेन—सुष्ठु उक्तेन (*sūktena—suṣṭhu uktena*)** — "Well-spoken", that is, a stotra or Ṛk that praises the qualities of the deities well. In the Ṛgveda a collection of many such Ṛks is called a *sūkta*. In sum, "sūkta" means a stotra.
+
+**ऊर्जो नपात्—बलस्य नस्तः (*ūrjo napāt—balasya nastaḥ*)** *(as printed; the same reading as in the bhāṣya on p. 508)* — When fire is produced by churning in the two *araṇi* sticks, it arises only by churning with the use of much strength. Therefore Agni is addressed with the words सहसस्पुत्र (*sahasasputra*) ("son of might") and ऊर्जोनपात् (*ūrjonapāt*).
+
+**अश्वमिष्टे—व्यापकयज्ञ (*aśvamiṣṭe—vyāpakayajña*)** — One who pervades the sacrifice. If the word अश्व (*aśva*) is regarded as formed from the root अशू व्याप्तौ (*aśū vyāptau*) (*aśū vyāptau*), the meaning given above is obtained. Or: **आशु क्रियमाणं कर्म अश्वं (*āśu kriyamāṇaṃ karma aśvaṃ*)** *(the print reads क्रियोमणं [?]; given here as the evident sense)* — the word अश्वं (*aśvaṃ*), derived from आशु (*āśu*), which means "quickly", also means a sacrifice that is performed quickly. Here room exists for both kinds of meaning.
+
+**अया—अनया (*ayā—anayā*)** — For the convenience of the metre the letter न (*na*) of the word अनया (*anayā*) has been dropped, giving अया (*ayā*). Similarly the letter आ (*ā*) of the word आत्मना (*ātmanā*) has been dropped, and the word त्मना (*tmanā*) is used in many places. Such usages are numerous in the Ṛgveda.
+
+---
+
+### Printed p. 510 (PDF 531)
+
+*(Header: "510", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 6". The numeral file has no rows for this page.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तं त्वा गीर्भिर्गिर्वणसं द्रविणस्युं द्रविणोदः ।
+> सपर्येम सपर्यवः ॥ ३ ॥
+
+> *taṃ tvā gīrbhirgirvaṇasaṃ draviṇasyuṃ draviṇodaḥ |*
+> *saparyema saparyavaḥ ‖ 3 ‖*
+
+**॥ पदपाठः ॥**
+
+> तं । त्वा । गीःऽभिः । गिर्वणसं । द्रविणस्युं । द्रविणःऽदः ।
+> सपर्येम । सपर्यवः ॥ ३ ॥
+
+> *taṃ | tvā | gīḥ 'bhiḥ | girvaṇasaṃ | draviṇasyuṃ | draviṇaḥ 'daḥ |*
+> *saparyema | saparyavaḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 3)**
+
+*Gist:* O Agni, giver of wealth, we, your servers, serve you, who are worthy of praise and desirous of the oblation-wealth, with our praises.
+
+> हे द्रविणोदो धनस्य दातरग्ने तं तादृशं गिर्वणसं गीर्भिः स्तुतिभिर्वननीयं द्रविणस्युं हविर्लक्षणधनेच्छुं त्वा त्वां सपर्यवः परिचरणकर्तारो वयं गीर्भिः स्तुतिभिः सपर्येम । परिचरेम ॥
+
+> *he draviṇodo dhanasya dātaragne taṃ tādṛśaṃ girvaṇasaṃ gīrbhiḥ stutibhirvananīyaṃ draviṇasyuṃ havirlakṣaṇadhanecchuṃ tvā tvāṃ saparyavaḥ paricaraṇakartāro vayaṃ gīrbhiḥ stutibhiḥ saparyema | paricarema ‖*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 3)**
+
+(Kannada, translated:) द्रविणोदः (*draviṇodaḥ*) — O Agni, giver of wealth; गिर्वणसं (*girvaṇasaṃ*) — one who is served (*bhajisalpaḍuvavanu*) with praises; द्रविणस्युं (*draviṇasyuṃ*) — one who desires wealth in the form of the oblation; तं त्वा (*taṃ tvā*) — you, who are well known and such; सपर्यवः (*saparyavaḥ*) — we, your worshippers; गीर्भिः (*gīrbhiḥ*) — with praises; सपर्येम (*saparyema*) — we shall worship.
+
+**भावार्थ (Bhāvārtha — Ṛk 3)**
+
+(Kannada, translated:) O Agni, giver of wealth, we, your worshippers, worship you with praises: you who are served with praises, who desire wealth in the form of the oblation, and who are well known.
+
+**English Translation** *(as printed, Ṛk 3)*
+
+Granter of riches, may we, your worshippers, propitiate you, who are desirous of (sacrificial) wealth, and deserving of laudation, by our praises.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 3)**
+
+(Kannada, translated.)
+
+**द्रविणोदः (*draviṇodaḥ*)** — A detailed explanation of this word has been given in this same volume, pages 407–409 (printed in Arabic numerals).
+
+**गिर्वणसं—स्तुतिलक्षणैर्वचोभिः संभजनीयं (*girvaṇasaṃ—stutilakṣaṇairvacobhiḥ saṃbhajanīyaṃ*)** — "One who is attained (*hoṃdulpaḍuvavanu*) by praises", that is, one who is worthy of stotras, who is to be praised. Yāska has the etymology: **गिर्वणा देवो भवति गीर्भिरेनं वनयंति (*girvaṇā devo bhavati gīrbhirenaṃ vanayaṃti*)** (Ni. 6-14 [?], the numerals as printed "೬-೧೪" with a doubtful final glyph, not zoomed).
+
+**सपर्यवः—परिचरणकर्तारो वयं (*saparyavaḥ—paricaraṇakartāro vayaṃ*)** *(continued on p. 511)*
+
+---
+
+### Printed p. 511 (PDF 532)
+
+*(Header: "Aṣṭaka 2, Adhyāya 5, Varga 27 ]" [numeral not zoomed], "Ṛgvedasaṃhitā", "511". The numeral file has no rows for this page. The Special Topics of Ṛk 3 continue from p. 510.)*
+
+**(Special Topics, Ṛk 3, continued)**
+
+**सपर्यवः—परिचरणकर्तारो वयं (*saparyavaḥ—paricaraṇakartāro vayaṃ*)** — We, the sacrificers (*yajamāna*) and the priests (*ṛtvij*), who serve you. *(Kannada, translated.)*
+
+*(A short rule is printed here, ending Ṛk 3.)*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> स बोधि सूरिर्मघवा वसुपते वसुदावन् ।
+> युयोध्यस्मद्द्वेषांसि ॥ ४ ॥
+
+> *sa bodhi sūrirmaghavā vasupate vasudāvan |*
+> *yuyodhyasmaddveṣāṃsi ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> सः । बोधि । सूरिः । मघऽवा । वसुऽपते । वसुऽदावन् ।
+> युयोधि । अस्मत् । द्वेषांसि ॥ ४ ॥
+
+> *saḥ | bodhi | sūriḥ | magha 'vā | vasu 'pate | vasu 'dāvan |*
+> *yuyodhi | asmat | dveṣāṃsi ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥ (Ṛk 4)**
+
+*Gist:* You, who are wealthy, wise or the impeller, understand our stotra; and, Agni, separate our enemies from us.
+
+> मघवान्धनवान् सूरिर्विद्वान् प्रेरको वा स उक्तलक्षणकस्त्वं बोधि । बुध्यस्वास्मदीयं स्तोत्रं । किंच हे अग्ने द्वेषांसि द्वेष्टॄनस्मदस्मत्तो [?] युयोधि । पृथक्कुरु ॥
+
+> *maghavāndhanavān sūrirvidvān prerako vā sa uktalakṣaṇakastvaṃ bodhi | budhyasvāsmadīyaṃ stotraṃ | kiṃca he agne dveṣāṃsi dveṣṭṝnasmadasmatto [?] yuyodhi | pṛthakkuru ‖*
+
+*(The words द्वेष्टॄनस्मदस्मत्तो (*dveṣṭṝnasmadasmatto*) are read from the strip as printed, with the glyph of द्वेष्टॄन् (*dveṣṭṝn*) doubtful [?].)*
+
+**प्रतिपदार्थ (Pratipadārtha — Ṛk 4)**
+
+(Kannada, translated:) वसुपते (*vasupate*) — O lord of wealth; वसुदावन् (*vasudāvan*) — O Agni, giver of wealth; मघवा (*maghavā*) — possessor of riches; सूरिः (*sūriḥ*) — who are wise, or who are the impeller to the rite; सः (*saḥ*) — that you; बोधि (*bodhi*) — know (our rite and our praise); द्वेषांसि (*dveṣāṃsi*) — our enemies who hate us; अस्मत् (*asmat*) — from us; युयोधि (*yuyodhi*) — separate (drive far away).
+
+**भावार्थ (Bhāvārtha — Ṛk 4)**
+
+(Kannada, translated:) O Agni, lord of wealth and giver of wealth, you who are rich, wise or the impeller to the rite, know our rite and our praise. Separate from us the enemies who hate us.
+
+**English Translation** *(as printed, Ṛk 4)*
+
+Lord of wealth, giver of wealth, possessor of riches, Agni, you are wise, understand (our prayers), and scatter our enemies.
+
+*(Ṛk 4 is left open: the page ends with the printed English; any Special Topics (Viśeṣaviṣayagaḷu) would follow on p. 512.)*
+
+---
+
+**Progress note:** Done through printed p. 511 (PDF 532). Maṇḍala 2, Sūkta 6: Ṛk 2 completed on p. 509 (Pratipadārtha, Bhāvārtha, printed English with the source's "my [sic] we", Special Topics). Ṛk 3 complete on pp. 510–511 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; a short rule printed after it on p. 511). Ṛk 4 begun on p. 511 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); **Ṛk 4 is open: a Special Topics section, if any, would follow on p. 512.** FILE DISAGREE: none (the numeral file has no rows for pp. 509–511). Not zoomed: Varga 27 in the headers of pp. 509 and 511; Ṛk numerals ३ and ४ (read from the strips); Nirukta reference "6-14" on p. 510 [?]. [?] places: p. 509 क्रियमाणं (print reads क्रियोमणं); p. 511 bhāṣya ⟦द्वेष्टॄन्⟧ glyph. Pada avagraha signs rendered ऽ.
