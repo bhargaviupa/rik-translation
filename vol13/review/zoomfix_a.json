@@ -8710,5 +8710,29 @@
   "old": "हतेमुसन्न [?]",
   "new": "हतेमसन्न (Ṛk 1.129.8 as in the user's file)",
   "note": "Quoted Ṛg verse in the commentary: reading taken from the user's accented Maṇḍala 1 file (IAST line adjusted); not viewed by me."
+ },
+ {
+  "pdf": 141,
+  "printed": 121,
+  "status": "resolved",
+  "old": "तृप्त्यऽअंशवः [?]; ररभे [?]",
+  "new": "तृप्तऽअंशवः; रारभे",
+  "note": "Pada words derived from the Saṃhitā readings settled from the user's accented Devanagari file (applied on the user's instruction); not viewed by me."
+ },
+ {
+  "pdf": 153,
+  "printed": 133,
+  "status": "resolved",
+  "old": "पृथुऽज्रयी [?]",
+  "new": "पृथुऽज्रया",
+  "note": "Pada words derived from the Saṃhitā readings settled from the user's accented Devanagari file (applied on the user's instruction); not viewed by me."
+ },
+ {
+  "pdf": 525,
+  "printed": 505,
+  "status": "resolved",
+  "old": "ऋतस्पू [?] इति ऋतस्पू [?]; ṛtaspū [?] (x2)",
+  "new": "ऋतप्सू इति ऋतऽप्सू; ṛtapsū",
+  "note": "Pada words derived from the Saṃhitā readings settled from the user's accented Devanagari file (applied on the user's instruction); not viewed by me."
  }
 ]
