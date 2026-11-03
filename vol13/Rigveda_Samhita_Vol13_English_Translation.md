@@ -2702,11 +2702,11 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 
 **॥ पदपाठः ॥**
 
-> सोमासः । न । ये । सुताः । तृप्त्यऽअंशवः [?] । हृत्ऽसु । पीतासः । दुवसः । न । आसते ।
-> आ । एषाम् । अंसेषु । रम्भिणीऽइव । ररभे [?] । हस्तेषु । खादिः । च । कृतिः । च ।
+> सोमासः । न । ये । सुताः । तृप्तऽअंशवः । हृत्ऽसु । पीतासः । दुवसः । न । आसते ।
+> आ । एषाम् । अंसेषु । रम्भिणीऽइव । रारभे । हस्तेषु । खादिः । च । कृतिः । च ।
 > सम् । दधे ॥ ३ ॥
 
-*(Pada as printed; the word *rārabhe* of the Saṃhitā is read in the Pada as *ra-rabhe*, doubtful — see the doubts log.)*
+*(Pada: *tṛpta 'aṃśavaḥ* and *rārabhe* follow the Saṃhitā settled from the user's accented text; the printed Pada was doubtful here.)*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -2979,10 +2979,10 @@ Number of ṛks in the Sūkta: 10 · Ṛṣi: Agastya · Devatā: the Maruts · 
 **॥ पदपाठः ॥**
 
 > सातिः । न । वः । अमऽवती । स्वःऽवती । त्वेषा । विऽपाका । मरुतः । पिपिष्वती ।
-> भद्रा । वः । रातिः । पृणतः । न । दक्षिणा । पृथुऽज्रयी [?] । असुर्याऽइव । जंजती ॥ ७ ॥
+> भद्रा । वः । रातिः । पृणतः । न । दक्षिणा । पृथुऽज्रया । असुर्याऽइव । जंजती ॥ ७ ॥
 
 > *sātiḥ | na | vaḥ | ama 'vatī | svaḥ 'vatī | tveṣā | vi 'pākā | marutaḥ | pipiṣvatī |*
-> *bhadrā | vaḥ | rātiḥ | pṛṇataḥ | na | dakṣiṇā | pṛthu 'jrayī [?] | asuryā 'iva | jaṃjatī ‖ 7 ‖*
+> *bhadrā | vaḥ | rātiḥ | pṛṇataḥ | na | dakṣiṇā | pṛthu 'jrayā | asuryā 'iva | jaṃjatī ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -13965,7 +13965,7 @@ In this ṛk both the nature of the chariot of the deities Aśvins and the relat
 **Pada-pāṭha**
 
 > युवम् । पयः । उस्रियायाम् । अधत्तम् । पक्वम् । आमायाम् । अव । पूर्व्यम् । गोः ।
-> अन्तः । यत् । वनिनः । वाम् । ऋतस्पू [?] इति ऋतस्पू [?] । ह्वारः । न । शुचिः । यजते । हविष्मान् ॥ ३ ॥
+> अन्तः । यत् । वनिनः । वाम् । ऋतप्सू इति ऋतऽप्सू । ह्वारः । न । शुचिः । यजते । हविष्मान् ॥ ३ ॥
 
 **Sāyaṇa-bhāṣya**
 
@@ -13979,7 +13979,7 @@ In this ṛk both the nature of the chariot of the deities Aśvins and the relat
 
 **Pratipadārtha**
 
-(*he* **ṛtaspū** [?]) — O Aśvins of the nature of truth (who consume the oblations of the sacrifice); **yat** — because; **haviṣmān** — the one possessed of the oblation to be given; **śuciḥ** — pure; the sacrificer; **vām** — you two; **vaninaḥ** — of the sacrifice with oblations; **antaḥ** — in the middle; [or **vaninaḥ** — of the wood-related group of trees; **antaḥ** — in the midst of]; **hvāraḥ na** — like a thief how alert (watchful); **yajate** — he worships; (**tat** — therefore); (*he* **Aśvinau**) **yuvam** — you two; **usriyāyām** — in the cow; **payaḥ** — milk; **adhattam** — placed; (and) **goḥ** — of the cow; **āmāyām** — in the unripe (udder); **pūrvyam** — first-formed; **pakvam** — ripe milk; **ava (adhattam)** — established.
+(*he* **ṛtapsū**) — O Aśvins of the nature of truth (who consume the oblations of the sacrifice); **yat** — because; **haviṣmān** — the one possessed of the oblation to be given; **śuciḥ** — pure; the sacrificer; **vām** — you two; **vaninaḥ** — of the sacrifice with oblations; **antaḥ** — in the middle; [or **vaninaḥ** — of the wood-related group of trees; **antaḥ** — in the midst of]; **hvāraḥ na** — like a thief how alert (watchful); **yajate** — he worships; (**tat** — therefore); (*he* **Aśvinau**) **yuvam** — you two; **usriyāyām** — in the cow; **payaḥ** — milk; **adhattam** — placed; (and) **goḥ** — of the cow; **āmāyām** — in the unripe (udder); **pūrvyam** — first-formed; **pakvam** — ripe milk; **ava (adhattam)** — established.
 
 **Bhāvārtha**
 
@@ -13991,7 +13991,7 @@ O Aśvins, of truth-nature, devourers of the oblations of the sacrifice! The sac
 
 **Special Topics (Viśeṣaviṣayagaḷu)**
 
-***ṛtaspū*** [?] — that the word *ṛta* is used in the senses "truth", "sacrifice" and so on, and how *ṛta* reflects the universal rule, has been explained earlier in this same portion, in the special topics of Ṛk 1-179-2. In the ṛk at hand the deities Aśvins are described by the word *ṛtaspū* [?] as being of the nature of truth. Since they pervade the whole universe in the forms of heaven and earth, of the sun, moon and stars, and of day and night, the gist is that these two are all the forms of the world, of the nature of truth.
+***ṛtapsū*** — that the word *ṛta* is used in the senses "truth", "sacrifice" and so on, and how *ṛta* reflects the universal rule, has been explained earlier in this same portion, in the special topics of Ṛk 1-179-2. In the ṛk at hand the deities Aśvins are described by the word *ṛtaspū* [?] as being of the nature of truth. Since they pervade the whole universe in the forms of heaven and earth, of the sun, moon and stars, and of day and night, the gist is that these two are all the forms of the world, of the nature of truth.
 
 ***vaninaḥ*** — two or three kinds of meaning are shown to be possible for this word. First: "*vaninaḥ udakavantaḥ udakopalakṣitahaviṣmato yajñasya*" ("of the sacrifice in which there is water — the sacrifice that has oblations, marked by water"); and second: "*vanasaṃbandhivṛkṣasamūhasya*" ("of the group of trees belonging to the forest").
 
