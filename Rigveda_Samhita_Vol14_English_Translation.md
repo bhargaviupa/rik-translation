@@ -20023,4 +20023,523 @@ May we, uninjured, be secure in the protection of Agni, Indra, Soma, and the god
 
 ---
 
-**Progress note:** Done through printed p. 537 (PDF 559) (= half-title and bhāṣya introduction of Sūkta 9 on PDF 558; PDF 559 is an exact duplicate of 558; before that, through printed p. 536 (PDF 557)). From PDF 560 (= printed 538) printed = PDF − 22. Maṇḍala 2, Sūkta 8 is complete (Ṛk 6 finished, p. 536) and the Fifth Adhyāya of the Second Aṣṭaka is closed with its colophon and Kannada line. The Sixth Adhyāya begins: PDF 558 (printed 537) is the half-title page with the invocation, and the bhāṣya introduction to Sūkta 9 (नि होता (*ni hotā*), 6 Ṛks, Gṛtsamada, Triṣṭubh, Agni) is written. PDF 559 duplicates PDF 558 (not repeated); the offset printed = PDF − 21 may therefore change by one from the next page, to be checked on the next page's header. Next batch starts at Sūkta 9, Ṛk 1, after the introduction (no Ṛk left open). FILE DISAGREE: none (the numeral file has no rows for these pages). Not zoomed: header numerals (Maṃ. 2 A. 1 Sū. 8 [?]), Ni. 3-9 [?], Sūkta range "9–23 [?]" on PDF 558, Āśvalāyana references आ. ४-१३ [?] and आ. २-१२ [?]. [?] places: the Kannada number-word ಸಲವತ्ತಾರು on PDF 557.
+---
+
+### Printed p. 538 (PDF 560)
+
+*(Header: "538", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The printed page number is 538 on PDF 560, so the offset printed = PDF − 22 holds from here on. PDF 558 was an unnumbered half-title page and PDF 559 duplicated it. The numeral file has no rows for this page.)*
+
+**अनुवाद (Anuvāda — Kannada, translated; Sūkta 9 introduction)**
+
+(Kannada, translated:) This sūkta, नि होता (*ni hotā*), is the ninth sūkta in the first anuvāka of the second Maṇḍala. It has six Ṛks. The seer of this sūkta is Gṛtsamada, the seer of the Maṇḍala; the deity is Agni; the metre is Triṣṭubh. At the time of reciting the Prātaranuvāka and Āśvina-śastra mantras, this sūkta is applied to the Triṣṭubh Ṛks belonging to the Āgneya sacrifice (*kratu*). This is set out in the Āśvalāyana Śrauta-sūtra, in the section beginning अथैतस्या (*athaitasyā*), by the sūtra नि होता होतृषदन इति सूक्ते (*ni hotā hotṛṣadana iti sūkte*) (Ā. 4-13 [?]). In the sacrificial-limb rite called Agnipraṇayana, the first two Ṛks of this sūkta are applied. This is set out in the Āśvalāyana Śrauta-sūtra, in the section पंचम्यां पौर्णमास्याम् (*paṃcamyāṃ paurṇamāsyām*), by the sūtra नि होता होतृषदन इति द्वे (*ni hotā hotṛṣadana iti dve*) (Ā. 2-12 [?]).
+
+(The printed Āśvalāyana references are read as "Ā. 4-13" and "Ā. 2-12"; the numerals are not zoomed [?].)
+
+---
+
+**॥ ओम् ॥**
+
+**सूक्त—९ (Sūkta 9)**
+
+(Kannada, translated:) Maṇḍala 2 ‖ Anuvāka 1 ‖ Sūkta 9 ‖ Aṣṭaka 2 ‖ Adhyāya 6 ‖ Varga 1 ‖ Number of Ṛks in the sūkta: 6 ‖ Ṛṣi: Gṛtsamada ‖ Devatā: Agni ‖ Chandas: Triṣṭubh.
+
+**॥ संहितापाठः ॥ (Ṛk 1)**
+
+> नि होता॑ होतृ॒षद॑ने॒ विदा॑नस्त्वे॒षो दी॑दि॒वाँ अ॑सदत्सु॒दक्षः॑ ।
+> अद॑ब्धव्रतप्रमति॒र्वसि॑ष्ठः सहस्रंभ॒रः शुचि॑जिह्वो अ॒ग्निः ॥ १ ॥
+
+> *ni hotā hotṛṣadane vidānastveṣo dīdivā~ asadatsudakṣaḥ |*
+> *adabdhavratapramatirvasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agniḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> नि । होता । होतृऽसदने । विदानः । त्वेषः । दीदिऽवान् । असदत् । सुऽदक्षः ।
+> अदब्धऽव्रतऽप्रमतिः । वसिष्ठः । सहस्रंऽभरः । शुचिऽजिह्वः । अग्निः ॥ १ ॥
+
+> *ni | hotā | hotṛ 'sadane | vidānaḥ | tveṣaḥ | dīdi 'vān | asadat | su 'dakṣaḥ |*
+> *adabdha 'vrata 'pramatiḥ | vasiṣṭhaḥ | sahasraṃ 'bharaḥ | śuci 'jihvaḥ | agniḥ ‖ 1 ‖*
+
+*(Pada as printed. The compound mark (ऽ) after दीदि (*dīdi*), व्रत (*vrata*) and शुचि (*śuci*) is read from the strip, not zoomed [?]. The Ṛk 1 Sāyaṇa-bhāṣya, Pratipadārtha and the rest begin on the next page; Ṛk 1 is left open.)*
+
+---
+
+### Printed p. 539 (PDF 561)
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 1" on the left, "Ṛgvedasaṃhitā" in the middle, and the printed page number **539** on the right. The task named this page as printed 540, but the number printed on the page is 539, which agrees with the offset printed = PDF − 22. The numeral file has no rows for this page.)*
+
+**सायणभाष्यम् (Sāyaṇa-bhāṣya, Ṛk 1)**
+
+*Gist:* Gṛtsamada praises Agni with these epithets: invoker of the gods, wise, bright, strong, of unharmed rites, best giver of dwelling, bearer of many forms. He is to sit in the hotṛ's seat, the Uttaravedi. The Aitareya Brāhmaṇa is cited.
+
+> गृत्समदः स्तौति । होता देवानामाह्वाता विदानो विद्वान् त्वेषः प्रवृद्धो दीदिवान् दीप्यमानः सुदक्षः शोभनबलोऽदब्धव्रतप्रमतिः । अदब्धान्यहिंसितानि व्रतानि कर्माणि यस्याः सादब्धव्रता प्रमतिः प्रकृष्टा बुद्धिर्यस्य स तथोक्तः । वसिष्ठः सर्वस्य वासयितृतमः ॥ वासयतेस्तृजंतस्येष्ठनि रूपं ॥
+
+> *gṛtsamadaḥ stauti | hotā devānāmāhvātā vidāno vidvān tveṣaḥ pravṛddho dīdivān dīpyamānaḥ sudakṣaḥ śobhanabalo 'dabdhavratapramatiḥ | adabdhānyahiṃsitāni vratāni karmāṇi yasyāḥ sādabdhavratā pramatiḥ prakṛṣṭā buddhiryasya sa tathoktaḥ | vasiṣṭhaḥ sarvasya vāsayitṛtamaḥ ‖ vāsayatestṛjaṃtasyeṣṭhani rūpaṃ ‖*
+
+> सहस्रंभरः सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः । यद्वा सहस्रस्य सर्वस्य भर्ता । तथा च वाजसनेयं । सर्वं वै सहस्रं सर्वंभर इत्येव तदाहेति । शुचिजिह्वः । शुचिर्दीप्ता जिह्वा ज्वाला यस्य स तथोक्तः । एवंभूतोऽग्निर्होतृषदने । होतात्र सीदतीति होतृषदनमुत्तरा वेदी ॥ अधिकरणे ल्युट् ॥ तत्र न्यसदत् । नितरां सीदतु ॥ उक्तार्थे ब्राह्मणं । नि
+
+> *sahasraṃbharaḥ sahasrasyānekavidhasya bhartā | viharaṇena nānāvidharūpasya dhāraka ityarthaḥ | yadvā sahasrasya sarvasya bhartā | tathā ca vājasaneyaṃ | sarvaṃ vai sahasraṃ sarvaṃbhara ityeva tadāheti | śucijihvaḥ | śucirdīptā jihvā jvālā yasya sa tathoktaḥ | evaṃbhūto 'gnirhotṛṣadane | hotātra sīdatīti hotṛṣadanamuttarā vedī ‖ adhikaraṇe lyuṭ ‖ tatra nyasadat | nitarāṃ sīdatu ‖ uktārthe brāhmaṇaṃ | ni*
+
+> होता होतृषदने विदाद इत्यग्निर्वै देवानां होता तस्यैतद्धोतृषदनं यदुत्तरवेदीनाभिस्त्वेषो दीदिवा असदत्सुदक्ष [?] इत्यासन्नो हि स तर्हि भवत्यदब्धव्रतप्रमतिर्वसिष्ठ इत्यग्निर्वै देवानां वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निरित्येषा वा अस्य सहस्रंभरता यदेनमेकं संतं बहुधा विहरंति । ऐ. ब्रा. १. २८ [?] । इति ॥
+
+> *hotā hotṛṣadane vidāda ityagnirvai devānāṃ hotā tasyaitaddhotṛṣadanaṃ yaduttaravedīnābhistveṣo dīdivā asadatsudakṣa [?] ityāsanno hi sa tarhi bhavatyadabdhavratapramatirvasiṣṭha ityagnirvai devānāṃ vasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agnirityeṣā vā asya sahasraṃbharatā yadenamekaṃ saṃtaṃ bahudhā viharaṃti | ai. brā. 1. 28 [?] | iti ‖*
+
+(The grammatical remarks "वासयतेस्तृजंतस्येष्ठनि रूपं" and "अधिकरणे ल्युट्" are transcribed without explanation. The bhāṣya reads "असपत्सदक्ष" or "असदत्सुदक्ष" in the Brāhmaṇa quotation, which is doubtful [?]. The Aitareya Brāhmaṇa reference "१. २८" is read, not zoomed [?].)
+
+**प्रतिपदार्थ (Pratipadārtha, Ṛk 1; Kannada, translated)**
+
+- होता (*hotā*) — one who is fit to call the deities to the sacrifice.
+- विदानः (*vidānaḥ*) — the wise one.
+- त्वेषः (*tveṣaḥ*) — the fully grown one (the Kannada word is *pravṛddha*).
+- दीदिवान् (*dīdivān*) — the shining one.
+- सुदक्षः (*sudakṣaḥ*) — one with excellent strength.
+- अदब्धव्रतप्रमतिः (*adabdhavratapramatiḥ*) — one with a distinguished knowledge, that his own rite cannot be harmed.
+- वसिष्ठः (*vasiṣṭhaḥ*) — one with an excellent dwelling-place.
+- सहस्रंभरः (*sahasraṃbharaḥ*) — one who bears (holds) thousands of forms.
+- शुचिजिह्वः (*śucijihvaḥ*) — one whose tongue is shining and of the form of flame.
+- अग्निः (*agniḥ*) — Agni.
+- होतृषदने (*hotṛṣadane*) — in the Uttaravedi, the place of the hotṛ.
+- नि असदत् (*ni asadat*) — let him sit down.
+
+**भावार्थ (Bhāvārtha, Ṛk 1; Kannada, translated)**
+
+May Agni sit down in the Uttaravedi, the place of the hotṛ. He is fit to call the deities to the sacrifice. He is wise, fully grown, shining and of excellent strength. His knowledge is distinguished, so that his rite cannot be harmed. He has an excellent dwelling-place and bears thousands of forms. He is shining, and his tongue is of the form of flame.
+
+**English Translation** *(as printed, Ṛk 1; it breaks at the foot of this page)*
+
+May Agni, the invoker (of the gods), the intelligent, the resplendent, the radiant, the very powerful; he who knows (how to maintain) his rites
+
+---
+
+### Printed p. 540 (PDF 562)
+
+*(Header: **540**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The numeral file has no rows for this page.)*
+
+undisturbed; who is steady in (his own) place, and is the cherisher of thousands, sit in the station of the invoking priest.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu — Ṛk 1)**
+
+(Kannada, translated:) In this Ṛk the seer Gṛtsamada praises Agni, describing him by various epithets.
+
+**होता (*hotā*)** — (Kannada, translated:) One who invokes the deities. That is, the Agni who brings to the sacrificial altar the deities who have been invoked in the sacrifice. The word होतृ (*hotṛ*) is used in three senses. It means the human *hotṛ* priests in the sacrifice. It means Agni as the accomplisher of the oblation, that is, the Agni who carries out the oblation. And it means Agni as the one who invokes the deities. Here it is said to be the Agni who invokes the deities.
+
+**त्वेषः (*tveṣaḥ*)** — (Kannada, translated:) *Pravṛddha*, that is, the Agni who blazes and crackles, flaming up with samit (kindling sticks), kāṣṭha (wood) and the like. When Agni is produced by churning in the two *araṇis* (fire-drills), he is very small, and so he is said to be in the form of an infant. The same Agni, established in the Āhavanīya and other fires and burning large with wood and with oblations of ghee (*ājya*) and the like, is called *pravṛddha*. The word त्वेषः (*tveṣaḥ*) is formed from the root त्विष् (*tviṣ*) ("to shine"), and indicates the sense "one who shines brilliantly".
+
+**सुदक्षः (*sudakṣaḥ*)** — (Kannada, translated:) The word दक्षः (*dakṣaḥ*) is read among the twenty-eight names of strength beginning with ओजः (*ojaḥ*) and पाजः (*pājaḥ*) (Ni. 2-9 [?], numerals as read, not zoomed). Therefore सुदक्षः (*sudakṣaḥ*) means "one with exceedingly great strength".
+
+**अदब्धव्रतप्रमतिः (*adabdhavratapramatiḥ*)**
+
+> अदब्धान्यहिंसितानि व्रतानि कर्माणि यस्याः सादब्धव्रता प्रमतिः प्रकृष्टा बुद्धिर्यस्य स तथोक्तः ।
+
+> *adabdhānyahiṃsitāni vratāni karmāṇi yasyāḥ sādabdhavratā pramatiḥ prakṛṣṭā buddhiryasya sa tathoktaḥ |*
+
+(Kannada, translated:) That is, Agni's acts (*karma*), the invocation of the deities, the carrying out of the oblation and the other subsidiary acts of the sacrifice, are unharmed. They are by nature such that they do harm to no one. The sense is that Agni has a distinguished knowledge that the acts he performs are of such a nature. In the Ṛgveda, compound words (compound words, in English as printed) of more than two members are very rare. In this word three words, अदब्ध (*adabdha*) + व्रत (*vrata*) + प्रमति (*pramati*), join to form one compound. Such usages are extremely scarce.
+
+**वसिष्ठः (*vasiṣṭhaḥ*)**
+
+> सर्वस्य वासयितृतमः ।
+
+> *sarvasya vāsayitṛtamaḥ |*
+
+(Kannada, translated:) The best among those who give a dwelling-place to everyone. Or, one who has an excellent dwelling-place.
+
+**सहस्रंभरः (*sahasraṃbharaḥ*)**
+
+> सहस्रस्यानेकविधस्य भर्ता । विहरणेन नानाविधरूपस्य धारक इत्यर्थः । यद्वा सहस्रस्य सर्वस्य भर्ता ।
+
+> *sahasrasyānekavidhasya bhartā | viharaṇena nānāvidharūpasya dhāraka ityarthaḥ | yadvā sahasrasya sarvasya bhartā |*
+
+(Kannada, translated, continuing at the foot of the page:) Here the word सहस्र (*sahasra*) has the meaning "many"; Agni
+
+---
+
+### Printed p. 541 (PDF 563)
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 1", "Ṛgvedasaṃhitā", and the printed page number **541**. The task named this page as printed 542, but the page itself prints 541. The numeral file has no rows for this page.)*
+
+(Kannada, translated, continuing the entry on सहस्रंभरः (*sahasraṃbharaḥ*):) ... is able to assume many kinds of forms at his own will. Or the sense is that, as lord of many people, he bears (nourishes) them. On this matter the bhāṣyakāra gives as an example the Vājasaneya (Śukla-Yajurveda) śruti sentence सर्वं वै सहस्रं सर्वंभर इत्येव तदाह (*sarvaṃ vai sahasraṃ sarvaṃbhara ityeva tadāha*).
+
+**शुचिजिह्वः (*śucijihvaḥ*)**
+
+> शुचिर्दीप्ता जिह्वा ज्वाला यस्य ।
+
+> *śucirdīptā jihvā jvālā yasya |*
+
+(Kannada, translated:) *Śuci* means shining; *jihvā* means tongue. "One who has a shining tongue" means one who has flames that burn brightly. The flames of Agni are said to be Agni's tongues (*jihvā*).
+
+**होतृषदने (*hotṛṣadane*)**
+
+> होतात्र सीदतीति होतृषदनमुत्तरा वेदी ।
+
+> *hotātra sīdatīti hotṛṣadanamuttarā vedī |*
+
+(Kannada, translated:) The place where the ṛtvij called *hotṛ* sits down in the sacrificial altar is called होतृषदन (*hotṛṣadana*) (होतृ (*hotṛ*) + सदन (*sadana*)). The sense is the place called the Uttaravedi. On this matter the bhāṣyakāra has cited a sentence of the Aitareya Brāhmaṇa (Ai. Brā. 1-28 [?], not zoomed). The first two Ṛks of this sūkta are the last two (the 7th and 8th Ṛks [?]) of the eight Ṛks to be recited when, in the sacrifice, the rite called Agnipraṇayana is performed. Agnipraṇayana means setting Agni in the Uttaravedi. This rite is an important one performed in the animal sacrifice (*paśuyāga*) and in the Soma sacrifices. The rite of taking the fire from the Āhavanīya fire to the Uttaravedi (this sentence is carried over to the next page of the print)
+
+---
+
+### Printed p. 542 (PDF 564 begins)
+
+*(Not read in this batch. The batch ends with the two strips of PDF 563 printed above. The lines below belong to printed p. 541, whose second strip runs on as follows.)*
+
+(Kannada, translated, second strip of printed p. 541:) ... is called Agnipraṇayana. When the adhvaryu performs it, he directs the ṛtvij called *hotṛ*, by means of the Praiṣa mantra, to recite the mantras needed for that occasion. Therefore the details of the rite called Agnipraṇayana are given here as they are stated in the Aitareya Brāhmaṇa—
+
+**॥ अग्निप्रणयनवೆಂಬ कर्मवು ॥ (Agnipraṇayana, the rite)**
+
+> अग्नये प्रणीयमानायानुब्रूहीत्याहाध्वर्युः ।
+
+> *agnaye praṇīyamānāyānubrūhītyāhādhvaryuḥ |*
+
+(Kannada, translated:) In the sacrifice, after the rite called Somakraya (the purchase of the Soma plants) has been completed, the adhvaryu (the ṛtvij) performs the rite called Agnipraṇayana, which is done in order to take the fire in the Āhavanīya pit to the Uttaravedi. In order to do it, the adhvaryu addresses the *hotṛ* and directs him: "O hotṛ, recite the Ṛks that are laid down for the Agnipraṇayana work" (by the Praiṣa mantra above). The hotṛ then recites, of the eight Ṛks that have to be recited for this work,
+
+(1) the first Ṛk, namely:
+
+> प्र देवं देव्या धिया भरता जातवेदसम् ।
+> हव्या नो वक्षदानुषगिति गायत्रीं ब्राह्मणस्यानुब्रूयात् ॥
+
+> *pra devaṃ devyā dhiyā bharatā jātavedasam |*
+> *havyā no vakṣadānuṣagiti gāyatrīṃ brāhmaṇasyānubrūyāt ‖*
+
+(Printed reference: ऋ. सं. १०-१७६-२ [?]; the printed numerals are read, not zoomed.)
+
+(Kannada, translated, continuing:) [The main intention of this Ṛk is that the yajamāna addresses the ṛtviks: "O ṛtviks, bring this Agni, named Jātavedas, with stotras suitable for this god and with rites suitable for the occasion, and with the Uttaravedi, near ..., and take him there." The bracket is left open: it runs on to the next page (printed p. 542, PDF 564).]
+
+---
+
+### Printed p. 542 (PDF 564)
+
+*(Header: **542**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 543; the number printed on it is 542, which agrees with the offset printed = PDF − 22. The numeral file has no rows for this page. This page continues the bracketed explanation left open at the foot of printed p. 541. It is the continuation of the Agnipraṇayana excerpt in the Viśeṣaviṣayagaḷu of Ṛk 1. The earlier heading "Printed p. 542 (PDF 564 begins)" in the text above was written in error and should be disregarded.)*
+
+(Kannada, translated, continuing the bracket:) "… Afterwards this Agni says: 'May he carry to the deities the oblations and the like that we offer.']. The Ṛk spoken above is of the Gāyatrī metre. Why should a Ṛk of this metre be recited? —"
+
+*(Brāhmaṇa passage in bold in the print; the first word reads गायत्रो as printed.)*
+
+> गायत्रो वै ब्राह्मणस्तेजो वै ब्रह्मवर्चसं गायत्री तेजस्यैवैनं तद्ब्रह्मवर्चसेन समर्धयति ॥
+
+> *gāyatro vai brāhmaṇastejo vai brahmavarcasaṃ gāyatrī tejasyaivainaṃ tadbrahmavarcasena samardhayati ‖*
+
+(Kannada, translated:) If the yajamāna who performs the sacrifice is a Brāhmaṇa, a Ṛk of the Gāyatrī metre must be recited. The reason is that the Brāhmaṇa has the nature of the Gāyatrī. Because the Brāhmaṇa is born from the mouth of Prajāpati (Parabrahman) (ब्राह्मणोऽस्य मुखमासीत् (*brāhmaṇo 'sya mukhamāsīt*) Ṛ. Saṃ. 10-90-12 [?], numerals read, not zoomed), the *tejas* (radiance) of Prajāpati is in the Brāhmaṇa. In the Gāyatrī too there is such *brahmavarcas* (the radiance of sacred knowledge). Therefore the Brāhmaṇa must carry this rite through with a Ṛk of the Gāyatrī metre, which is endowed with *brahmavarcas*. On the question which metres' Ṛks the Brāhmaṇa, Kṣatriya and Vaiśya should recite in order to carry the sacrificial rites through, the Brāhmaṇa passage of the Taittirīya (Yajurveda) reads thus—
+
+*(In the Brāhmaṇa quotation: the printed त्रिष्टुग्भी is kept as printed. The word प्रत्ययनस्त्वाय, read from the strip and not zoomed, is doubtful [?].)*
+
+> गायत्रीभिर्ब्राह्मणस्याद्ध्यात् । गायत्रच्छन्दा वै ब्राह्मणः । स्वस्य छन्दसः प्रत्ययनस्त्वाय [?] । त्रिष्टुग्भी राजन्यस्य । त्रिष्टुप्छन्दा वै राजन्यः । स्वस्य छन्दसः प्रत्ययनस्त्वाय [?] । जगतीभिर्वैश्यस्य । जगतीछन्दा वै वैश्यः । स्वस्य छन्दसः प्रत्ययनस्त्वाय [?] ॥
+
+> *gāyatrībhirbrāhmaṇasyāddhyāt | gāyatracchandā vai brāhmaṇaḥ | svasya chandasaḥ pratyayanastvāya [?] | triṣṭugbhī rājanyasya | triṣṭupchandā vai rājanyaḥ | svasya chandasaḥ pratyayanastvāya [?] | jagatībhirvaiśyasya | jagatīchandā vai vaiśyaḥ | svasya chandasaḥ pratyayanastvāya [?] ‖*
+
+(Printed reference: Taittirīya Brāhmaṇa 1-1-9-6, 7 [?], numerals read, not zoomed.)
+
+(Kannada, translated:) That is, the Brāhmaṇa must carry through the *agnyādhāna* (the rite performed afresh) only with mantras of the Gāyatrī metre, because the Brāhmaṇa has the nature of the Gāyatrī metre. For that very reason, to obtain *brahmavarcas*, the sacrificial rites must be performed using Ṛks of the Gāyatrī metre. In the same way it is said that Kṣatriyas must carry the sacrificial rites through with Ṛks of the Triṣṭup metre, and Vaiśyas with Ṛks of the Jagatī metre. Because it is so said, if the yajamāna who performs the sacrifice is a Kṣatriya, then in the Agnipraṇayana rite—
+
+> इमं महे विदथ्याय शूषमिति त्रिष्टुभं राजन्यस्यानुब्रूयात् त्रैष्टुभो वै राजन्य ओजो वा इन्द्रियं वीर्यं त्रिष्टुबोजस्यैवैनं तदिन्द्रियेण वीर्येण समर्धयति ।
+
+> *imaṃ mahe vidathyāya śūṣamiti triṣṭubhaṃ rājanyasyānubrūyāt traiṣṭubho vai rājanya ojo vā indriyaṃ vīryaṃ triṣṭubojasyaivainaṃ tadindriyeṇa vīryeṇa samardhayati |*
+
+(Kannada, translated:) the Ṛk of the Triṣṭup metre beginning इमं महे विदथ्याय शूषं (*imaṃ mahe vidathyāya śūṣaṃ*) must be recited. The reason is that the Kṣatriya is born from the arm of Prajāpati (बाहू राजन्यः कृतः (*bāhū rājanyaḥ kṛtaḥ*) Ṛ. Saṃ. 10-90-12 [?]). The arm is the sign of *ojas* (strength), *indriya* and *vīrya* (strength, valour, power and capacity). Because *ojas* and the rest are obtained from the Triṣṭup metre, the one who is a Kṣatriya must carry the sacrificial rite through with Ṛks of the Triṣṭup metre. For that very reason the hotṛ—
+
+*(The words त्रिष्टुभं and त्रैष्टुभो in the Brāhmaṇa quotation are read from the strip and not zoomed [?].)*
+
+---
+
+### Printed p. 543 (PDF 565)
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 1", "Ṛgvedasaṃhitā", and the printed number **543**. The task labelled this page 544. The numeral file has no rows for this page.)*
+
+(1) The Ṛk (the Triṣṭup recited for the Kṣatriya):
+
+> इमं महे विदथ्याय शूषं शश्वत् कृत्व ईड्याय प्र जभ्रुः ।
+> शृणोतु नो दम्येभिरनीकैः शृणोत्वग्निर्दिव्यैरजस्रः ॥
+
+> *imaṃ mahe vidathyāya śūṣaṃ śaśvat kṛtva īḍyāya pra jabhruḥ |*
+> *śṛṇotu no damyebhiranīkaiḥ śṛṇotvagnirdivyairajasraḥ ‖*
+
+(Printed reference: Ṛ. Saṃ. 3-54-1 [?]; numerals read, not zoomed.)
+
+(Kannada, translated:) he recites this Ṛk of the Triṣṭup metre. The explanation of the meaning of this Ṛk is likewise given in the Brāhmaṇa passage itself—
+
+> शश्वत्कृत्व ईड्याय प्रजभ्रुरिति स्वानामेवैनं तच्छ्रैष्ठ्यं गमयति शृणोतु नो दम्येभिरनीकैः शृणोत्वग्निर्दिव्यैरजस्र इति अजरसं हास्मिन्नोजसो दीदाय य एवं वेद ॥
+
+> *śaśvatkṛtva īḍyāya prajabhruriti svānāmevainaṃ tacchraiṣṭhyaṃ gamayati śṛṇotu no damyebhiranīkaiḥ śṛṇotvagnirdivyairajasra iti ajarasaṃ hāsminnojaso dīdāya ya evaṃ veda ‖*
+
+(Kannada, translated:) The meaning of the Ṛk beginning इमं महे (*imaṃ mahe*) is as follows. The ṛtviks brought Agni, the cause of happiness, to the Uttaravedi (for the success of the kings' sacrifice). Agni is always to be praised. The hotṛ makes the yajamāna the chief (so that he stands in front of his kinsmen) and leads him, calling him. This is the meaning of the first half of the Ṛk. The meaning of the second half is: in order to keep the yajamāna's enemy armies under control, may Agni, helping the yajamāna with his troops in the form of flames, listen to our stotras and the like. May Agni know the sacrificial rites that the yajamānas perform well. And may this Agni, endowed with enjoyments fit for the world of the gods and staying in our houses, always, that is to say throughout their lifetime, go on protecting our yajamānas. This is the chief meaning. Now the mantras that Vaiśyas must recite are these—
+
+*(In the first word of the Brāhmaṇa quotation the initial vowel looks like आ, but the Ṛk below has अ. It is written अयमिह and flagged [?].)*
+
+> अयमिह [?] प्रथमो धायि धातृभिरिति जगतीं वैश्यस्यानुब्रूयात् । जागतो वै वैश्यो जागताः पशवः पशुभिरेवैनं तत्समर्धयति । वनेषु चित्रं विभ्वं विशेविश इत्यभिरूपा यद्यज्ञोऽभिरूपं तत्समृद्धम् ॥
+
+> *ayamiha [?] prathamo dhāyi dhātṛbhiriti jagatīṃ vaiśyasyānubrūyāt | jāgato vai vaiśyo jāgatāḥ paśavaḥ paśubhirevainaṃ tatsamardhayati | vaneṣu citraṃ vibhvaṃ viśeviśa ityabhirūpā yadyajño 'bhirūpaṃ tatsamṛddham ‖*
+
+(Kannada, translated:) The Vaiśya is born from the middle region or the thigh of Prajāpati (ऊरू तदस्य यद्वैश्यः (*ūrū tadasya yadvaiśyaḥ*) Ṛ. Saṃ. 10-90-12 [?]). This matter is stated in the Taittirīya Saṃhitā thus—
+
+> मध्यतः सप्तदशं निरमिमीत तं विश्वे देवा देवता अन्वसृज्यंत जगतीछंदो वैरूपं साम तस्माद्वैश्यो वै मनुष्याणां ।
+
+> *madhyataḥ saptadaśaṃ niramimīta taṃ viśve devā devatā anvasṛjyaṃta jagatīchaṃdo vairūpaṃ sāma tasmādvaiśyo vai manuṣyāṇāṃ |*
+
+(Kannada, translated:) The Vaiśya has the nature of the Jagatī metre. For the animals too (wealth of cattle) have the nature of the Jagatī metre. If the Vaiśya is to be made endowed with this wealth of cattle, he must recite Ṛks of the Jagatī metre and carry the sacrificial rite through. Therefore, if the yajamāna who performs the sacrifice is a Vaiśya, the hotṛ recites—
+
+*(In the Taittirīya Saṃhitā quotation the word निरमिमीत is split across a line break in the print. The reading निरमि-मीत is not zoomed [?]. The bhāṣya reference "तै. सं." is not given in the print for this passage.)*
+
+(1) The Ṛk (the Jagatī recited for the Vaiśya):
+
+> अयमिह प्रथमो धायि धातृभिर्होता यजिष्ठो अध्वरेष्वीड्यः ।
+> यमप्नवानो भृगवो विरुरुचुर्वनेषु चित्रं विभ्वं विशेविशे ॥
+
+> *ayamiha prathamo dhāyi dhātṛbhirhotā yajiṣṭho adhvareṣvīḍyaḥ |*
+> *yamapnavāno bhṛgavo virurucurvaneṣu citraṃ vibhvaṃ viśeviśe ‖*
+
+(Printed reference: Ṛ. Saṃ. 4-7-1 [?]; numerals read, not zoomed.)
+
+---
+
+### Printed p. 544 (PDF 566)
+
+*(Header: **544**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 545. The numeral file has no rows for this page.)*
+
+(Kannada, translated:) he recites this Ṛk of the Jagatī metre. The reason is that, as said before, the Vaiśya belongs to the Jagatī metre. The animals (wealth of cattle) too belong to the same class. Therefore the Vaiśya recites the mantra of the Jagatī metre in order to grow endowed with wealth. In the last pāda of this Ṛk there is a word that points to the word *vaiśya*, namely विशेविशे (*viśeviśe*). In sacrifices, if one recites Ṛks that are joined with words suited to each context, the desired fruit is obtained in a special degree. Therefore the recitation here of this Ṛk of the Jagatī metre, which carries a word pointing to the Vaiśya, is in accordance with this context. In this way, according to the fruit that the Brāhmaṇa, the Kṣatriya and the Vaiśya each desire, the hotṛ recites one first mantra (Ṛk) in each of the three different metres, the Gāyatrī, the Triṣṭup and the Jagatī. Now he recites the second Ṛk (mantra), which people of all the varṇas must recite in common in this Agnipraṇayana rite—
+
+*(In the Brāhmaṇa quotation the words यो (before पुरा) and वाचैव are read from the strip and not zoomed [?].)*
+
+> अयमु ष्य प्र देवयुरिति अनुष्टुभि वाचं विसृजते । वाग्वा अनुष्टुब्वाचैव [?] तद्वाचं विसृजते । अयमु ष्य इति यदाहायमु स्यागमं यो [?] पुरा गंधर्वेष्ववाक्समित्येव तद्वाक्ब्रूते ॥
+
+> *ayamu ṣya pra devayuriti anuṣṭubhi vācaṃ visṛjate | vāgvā anuṣṭubvācaiva [?] tadvācaṃ visṛjate | ayamu ṣya iti yadāhāyamu syāgamaṃ yo [?] purā gaṃdharveṣvavāksamityeva tadvākbrūte ‖*
+
+(Kannada, translated:) At the time of Somakrayaṇa too, in the rites performed from then up to now, the mantras were recited in the *upāṃśu* manner, that is, in a low voice. According to the injunction that mantras are to be recited in a soft sound, they were recited in a low sound. Now, that is, from here onwards, that rule is released (*visarjana*). That is, the soft speaking is given up and the mantras are recited in a loud sound. This procedure is called *vāco-visarjana* (the release of speech). It is well known that this is begun with a Ṛk of the Anuṣṭup metre. The reason is that speech (*vāk*) itself has the nature of the Anuṣṭup metre. Therefore, with a mantra of that very metre the soft speaking is released. So the hotṛ—
+
+(2) The Ṛk:
+
+> अयमु ष्य प्र देवयुर्होता यज्ञाय नीयते ।
+> रथो न योरभीवृतो घृणीवाञ्चेतति त्मना ॥
+
+> *ayamu ṣya pra devayurhotā yajñāya nīyate |*
+> *ratho na yorabhīvṛto ghṛṇīvāñcetati tmanā ‖*
+
+(Printed reference: Ṛ. Saṃ. 10-176-3 [?]; numerals read, not zoomed. The word घृणीवाञ्चेतति is as read from the strip.)
+
+(Kannada, translated:) he recites this Ṛk loudly. This speech (the goddess of speech, Vāgdevatā) was formerly among the Gandharvas. Now it speaks thus (the Kannada word is printed ಬೇಳುವುದು, [sic], presumably for ಹೇಳುವುದು): "Formerly, at the time of Somakrayaṇa, I was among the Gandharvas. Now I have come back." Since it is so said, the hotṛ recites the mantra loudly accordingly.
+
+In the matter of the goddess of speech having been among the Gandharvas and now having come back, an *upākhyāna* (story) is told in the Taittirīya Saṃhitā. The print gives the passage with dots for omitted words—
+
+*(The dots in the Sanskrit passage are as printed; the reference "तै. सं. 6-1-6-5, 6" is read, not zoomed [?].)*
+
+> तेग्ं सोममाह्रियमाणं गन्धर्वो विश्वावसुः पर्यमुष्णात् स ………………… तेभ्य इव ददति ॥
+
+> *tegṃ somamāhriyamāṇaṃ gandharvo viśvāvasuḥ paryamuṣṇāt sa ………………… tebhya iva dadati ‖*
+
+(Kannada, translated:) While the Soma was being brought from the heavenly world, on the way (in the middle of the path) the Gandharva named Viśvāvasu stole it, and—
+
+*(The sentence runs on to the next page of the print; it is left open at the word ಕದ್ದು, "stole".)*
+
+---
+
+### Printed p. 545 (PDF 567)
+
+*(Header: "A. 2 A. 6 V. 1" (Aṣṭaka 2, Adhyāya 6, Varga 1), "Ṛgvedasaṃhitā", and the printed number **545**. The task labelled this page 546; the number printed is 545, which agrees with printed = PDF − 22. The numeral file has no rows for this page. The signature mark "[35]" and "Vol. 14" at the foot of the page are printer's marks.)*
+
+(Kannada, translated, continuing the sentence left open at the foot of printed p. 544:) … stole it and hid it for three nights. Even now, after the Somakrayaṇa (the purchase of Soma), keeping it (the Soma) in the same way for three nights has come into custom. Then all the deities together deliberated how to get the Soma back from that Gandharva, and an idea suddenly flashed in their minds. Gandharvas are greatly infatuated when they see women. Therefore they decided to give the Gandharvas an exceedingly beautiful young woman and to take the Soma in exchange for her. Thereupon the deities called Vāgdevatā (the goddess of speech) and said: "O Vāgdevatā, take the form of an exceedingly beautiful young woman; we shall exchange you with the Gandharvas, bring the Soma, and carry the sacrifice through." Vāgdevatā agreed to this. Then they exchanged that beautiful young woman with the Gandharva king named Viśvāvasu and brought the Soma. After the deities' work was done, Vāgdevatā, who had been in the form of a beautiful young woman, took the form of a "reddish deer" (as printed ಕೆಂಪುಜಿಂಕೆ) and ran from the Gandharvas' side to the deities' presence. It is this matter that is stated here as "Vāgdevatā has come back". The Somakrayaṇa (purchase of Soma) that went on until Vāgdevatā, in the form of a beautiful young woman, stayed with the Gandharvas and came again to the deities, and the work done in the Agnipraṇayana up to now, all these they say in the *upāṃśu* manner (in a low voice), because Vāgdevatā was not near. After Vāgdevatā has come back, the hotṛ begins to recite the mantras fearlessly and firmly (loudly): this is the main intention.
+
+(Kannada, translated:) Now the hotṛ proceeds and recites the third Ṛk.
+
+*(Gist of the bhāṣya: the Ṛk says Agni is "as if from immortality", beyond all fear; by reciting it the immortality of the yajamāna is established, for Agni is a deity made for long life.)*
+
+> अयमग्निरुरुष्यतीति अयं वा अग्निरुरुष्यति अमृता दिव जन्मन इत्यमृतत्वमेवास्मिंस्तद्दधाति सहसश्चित्सहीयान्देवो जीवातवे कृत इति देवो ह्येष एतज्जीवातवे कृतो यदग्निः ॥
+
+> *ayamagniruruṣyatīti ayaṃ vā agniruruṣyati amṛtā diva janmana ityamṛtatvamevāsmiṃstaddadhāti sahasaścitsahīyāndevo jīvātave kṛta iti devo hyeṣa etajjīvātave kṛto yadagniḥ ‖*
+
+(Kannada, translated:) The text of the third Ṛk is as follows—
+
+(3)
+
+> अयमग्निरुरुष्यत्यमृतादिव जन्मनः ।
+> सहसश्चित्सहीयान् देवो जीवातवे कृतः ॥
+
+> *ayamagniruruṣyatyamṛtādiva janmanaḥ |*
+> *sahasaścitsahīyān devo jīvātave kṛtaḥ ‖*
+
+(Printed reference: Ṛ. Saṃ. 10-176-4 [?]; numerals read from the strip, not zoomed.)
+
+(Kannada, translated:) The main intention of this Ṛk is this: because this Agni gives the yajamānas a birth of divine form, he protects them by warding off the fear that comes from men and the fear that comes from the deities. This Agni is mightier even than strength itself. Here the hotṛ says that he has been fashioned for the sacrifice, or for granting long life. By reciting the first half of the Ṛk he makes the yajamāna free from death, that is, long-lived. By reciting the second half the power of this Agni becomes of great capacity. Therefore, by reciting this Ṛk, Agni becomes favourable to protect our life.
+
+---
+
+### Printed p. 546 (PDF 568)
+
+*(Header: **546**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 547; the number printed is 546. The numeral file has no rows for this page.)*
+
+*(Gist of the bhāṣya: "the navel of the Uttaravedi is the place of Iḷā"; "we are about to place him"; "he is about to carry the oblation".)*
+
+> इळायास्त्वा पदे वयं नाभा पृथिव्या अधीति एतद्वा इळायास्पदं यदुत्तरवेदीनाभिः । जातवेदो निधीमहीति निधास्यंतो ह्येनं भवंति । अग्ने हव्याय वोळ्हव इति हव्यं हि वक्ष्यन्भवति ॥
+
+> *iḷāyāstvā pade vayaṃ nābhā pṛthivyā adhīti etadvā iḷāyāspadaṃ yaduttaravedīnābhiḥ | jātavedo nidhīmahīti nidhāsyaṃto hyenaṃ bhavaṃti | agne havyāya voḷhava iti havyaṃ hi vakṣyanbhavati ‖*
+
+(Kannada, translated:) Then the hotṛ recites the fourth Ṛk—
+
+(4)
+
+> इळायास्त्वा पदे वयं नाभा पृथिव्या अधि ।
+> जातवेदो नि धीमह्यग्ने हव्याय वोळ्हवे ॥
+
+> *iḷāyāstvā pade vayaṃ nābhā pṛthivyā adhi |*
+> *jātavedo ni dhīmahyagne havyāya voḷhave ‖*
+
+*(In the Pada line the print seems to show a stray mark after the first letter of the word read नाभा; the bhāṣya just above has नाभा clearly, so that is written. Flagged [?].)*
+
+(Printed reference: Ṛ. Saṃ. 3-29-4 [?]; numerals read from the strip, not zoomed.)
+
+(Kannada, translated:) The main intention of this Ṛk is this: "O Agni, named Jātavedas, we place you at the Uttaravedi, which is called the navel-region of the earth." The word इळा (*iḷā*) denotes the cow. By इळायाः पदे (*iḷāyāḥ pade*) (the place of Iḷā) is meant the navel-region of the Uttaravedi where the feet of the cow, made excellent by ghee-pressing and other rites, have been set; this is what the word इळायास्पदं (*iḷāyāspadaṃ*) describes. By the sentence जातवेदो निधीमहि (*jātavedo nidhīmahi*) the meaning is indicated that we, the ṛtvijs, place Agni in the Uttaravedi. The sentence in the last pāda, अग्ने हव्याय वोळ्हवे (*agne havyāya voḷhave*), indicates that he has been established here in order to carry the oblations and the like to the deities.
+
+*(Gist of the bhāṣya: with all the gods he is seated together; the altar is like a nest, with wood, ghee and fragrant things; the sacrifice is established.)*
+
+> अग्ने विश्वेभिः स्वनीक देवैरूर्णावंतं प्रथमः सीद योनिमिति विश्वैरेवैनं तद्देवैः सहासादयति । कुलायिनं घृतवंतं सवित्र इति कुलायमिव ह्येतद्यज्ञे क्रियते यत्प्रैतुदारवाः [?] परिधयो गुग्गुलूर्णास्तुकाः सुगंधितेजनानीति यज्ञं नय यजमानाय साध्विति यज्ञमेव तद्यजुधा [?] प्रतिष्ठापयति ॥
+
+> *agne viśvebhiḥ svanīka devairūrṇāvaṃtaṃ prathamaḥ sīda yonimiti viśvairevainaṃ taddevaiḥ sahāsādayati | kulāyinaṃ ghṛtavaṃtaṃ savitra iti kulāyamiva hyetadyajñe kriyate yatpraitudāravāḥ [?] paridhayo guggulūrṇāstukāḥ sugaṃdhitejanānīti yajñaṃ naya yajamānāya sādhviti yajñameva tadyajudhā [?] pratiṣṭhāpayati ‖*
+
+(Kannada, translated:) Then the hotṛ recites the fifth Ṛk—
+
+(5)
+
+> अग्ने विश्वेभिः स्वनीक देवैरूर्णावंतं प्रथमः सीद योनिम् ।
+> कुलायिनं घृतवंतं सवित्रे यज्ञं नय यजमानाय साधु ॥
+
+> *agne viśvebhiḥ svanīka devairūrṇāvaṃtaṃ prathamaḥ sīda yonim |*
+> *kulāyinaṃ ghṛtavaṃtaṃ savitre yajñaṃ naya yajamānāya sādhu ‖*
+
+(Printed reference: Ṛ. Saṃ. 6-15-16 [?]; numerals read from the strip, not zoomed.)
+
+(Kannada, translated:) "O Agni, you who are endowed with armies in the form of flames, you who are the chief of all the deities, come and sit at this navel-place called the Uttaravedi": this is the main intention of the first half of the Ṛk. The use of the word विश्वेभिः (*viśvebhiḥ*) here indicates that all the deities have been established together with Agni. That is to say, Agni, together with all the deities, sits in the Uttaravedi, which is like the nest of a bird that has made a soft bed by spreading strands of wool. Remaining in the navel-place called the Uttaravedi, which is rich with sticks and the like and sprinkled with ghee, carry through the yajamāna's sacrificial acts … *(the sentence runs on to the next page of the print)*
+
+---
+
+### Printed p. 547 (PDF 569)
+
+*(Header: "A. 2 A. 6 V. 1", "Ṛgvedasaṃhitā", and the printed number **547**. The task labelled this page 548. The numeral file has no rows for this page.)*
+
+(Kannada, translated, continuing:) … "well": this is the intention of the second half. Here the words कुलायिनं घृतवंतं (*kulāyinaṃ ghṛtavaṃtaṃ*) in the third pāda indicate a bird's nest. That is, the bird builds its nest by collecting and weaving together small twigs of the khadira or the deodar tree, guggulu (that is, gum), strands of wool, and a kind of fragrant grass-blades. The navel-place of Agni is here compared to that nest. Why? When it builds its nest the bird uses only twigs. Here, people have set pieces of wood called परिधि (*paridhi*) round Agni. In the same way, in place of gum, the ghee and other fragrant substances set down for the homa; in place of strands of wool, sacrificial animals such as the goat; in place of grass-blades, the *samidh* sticks: all these are prepared and set round Agni. Therefore the Uttaravedi (the fire-pit) that has been established for Agni is described by comparison with the bird's nest. The prayer is stated here that Agni, established in such a place, like a bird's nest, the Uttaravedi, may carry the yajamāna's sacrificial acts through well.
+
+*(Gist of the bhāṣya: Agni is the Hotṛ of the deities, the navel of the Uttaravedi is his own place; the yajamāna is the sacrifice; "vayaḥ" is prāṇa, and prāṇa is placed in the yajamāna.)*
+
+> सीद होतः स्व उ लोके चिकित्वानित्यग्निर्वै देवानां होता तस्यैष स्वो लोको यदुत्तरवेदीनाभिः । सादयो [?] यज्ञं सुकृतस्य योनाविति यजमानो वै यज्ञो यजमानायैवैतामाशिषमाशास्ते । देवावीर्देवान् हविषा यजास्यग्ने बृहद्यजमाने वयो धा इति प्राणो वै वयः प्राणमेव तद्यजमाने दधाति ॥
+
+> *sīda hotaḥ sva u loke cikitvānityagnirvai devānāṃ hotā tasyaiṣa svo loko yaduttaravedīnābhiḥ | sādayo [?] yajñaṃ sukṛtasya yonāviti yajamāno vai yajño yajamānāyaivaitāmāśiṣamāśāste | devāvīrdevān haviṣā yajāsyagne bṛhadyajamāne vayo dhā iti prāṇo vai vayaḥ prāṇameva tadyajamāne dadhāti ‖*
+
+(Kannada, translated:) Then the hotṛ, proceeding, recites what has to be said in this part of the rite—
+
+(6)
+
+> सीद होतः स्व उ लोके चिकित्वान्त्सादया यज्ञं सुकृतस्य योनौ ।
+> देवावीर्देवान् हविषा यजास्यग्ने बृहद्यजमाने वयो धाः ॥
+
+> *sīda hotaḥ sva u loke cikitvāntsādayā yajñaṃ sukṛtasya yonau |*
+> *devāvīrdevān haviṣā yajāsyagne bṛhadyajamāne vayo dhāḥ ‖*
+
+*(The word read सादया in the first line is as read from the strip and not zoomed; the bhāṣya above has the printed form सादयो [?].)*
+
+(Printed reference: Ṛ. Saṃ. 3-29-8 [?]; numerals read from the strip, not zoomed.)
+
+(Kannada, translated:) He recites this sixth Ṛk. Agni is the ṛtvij called Hotṛ for the deities, and the navel of the Uttaravedi is Agni's own place. Therefore, "O Agni, you are the performer of the homa, the Hotṛ of the deities; sit, such as you are, in your own place, the Uttaravedi": this prayer is stated in the first pāda. The word यज्ञं (*yajñaṃ*) in the second pāda means the yajamāna who performs the sacrifice. "Establish such a yajamāna, O Agni, in the place of the virtuous who perform meritorious acts": this is the sense of the second half-pāda. The word वयः (*vayaḥ*) in the second half means prāṇa (the breath of life). Therefore, "O Agni, dear to the deities, worship the deities with the oblation and satisfy them, and place prāṇa in the yajamāna who performs the sacrifice, that is, āyus (length of life); that is, make it grow": according to the śruti sentence यावदस्मिन् शरीरे प्राणो वसति तावदायुः (*yāvadasmin śarīre prāṇo vasati tāvadāyuḥ*), as long as prāṇa dwells in the body … *(the sentence runs on to the next page of the print)*
+
+---
+
+---
+
+### Printed p. 548 (PDF 570)
+
+*(Header: **548**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 549; the number printed is 548, which agrees with printed = PDF − 22. The numeral file has no rows for this page.)*
+
+(Kannada, translated, continuing the sentence left open at the foot of printed p. 547:) … "up to (that time) the man has life (*āyus*)." Because this is said, the word *prāṇa* is used here in the sense of *āyus* (length of life). The purport is: "Grant long life to the yajamāna."
+
+*(Gist of the bhāṣya, the Brāhmaṇa passage on the seventh Ṛk: Agni is the Hotṛ of the gods and the navel of the Uttaravedi is his seat; he is "thousand-bearer" because he is divided into many; whoever knows this gains a thousandfold nourishment. Two readings are doubtful and marked [?]; see the doubts list.)*
+
+> नि होता होतृषदने विदान इत्यग्निर्वै देवानां होता तस्यैतद्धोतृषदसं [?] यदुत्तरवेदीनाभिः । त्वेषो दीदिवाँ असदत्सुदक्ष इत्यासन्नो हि स तर्हि भवति । अदब्धव्रतप्र[?]तिर्वसिष्ठ इत्यग्निर्वै देवानां वसिष्ठः । सहस्रंभरः शुचिजिह्वो अग्निरित्येषा ह वा अस्य सहस्रंभरता यदेनमोकं [?] सन्तं बहुधा विहरन्ति प्र ह वै साहस्रं पोषमाप्नोति य एवं वेद ॥
+
+> *ni hotā hotṛṣadane vidāna ityagnirvai devānāṃ hotā tasyaitaddhotṛṣadasaṃ [?] yaduttaravedīnābhiḥ | tveṣo dīdivā~ asadatsudakṣa ityāsanno hi sa tarhi bhavati | adabdhavratapra[?]tirvasiṣṭha ityagnirvai devānāṃ vasiṣṭhaḥ | sahasraṃbharaḥ śucijihvo agnirityeṣā ha vā asya sahasraṃbharatā yadenamokaṃ [?] santaṃ bahudhā viharanti pra ha vai sāhasraṃ poṣamāpnoti ya evaṃ veda ‖*
+
+(Kannada, translated:) Then the hotṛ recites the seventh Ṛk—
+
+(7)
+
+> नि होता होतृषदने विदानस्त्वेषो दीदिवाँ असदत्सुदक्षः ।
+> अदब्धव्रतप्रमतिर्वसिष्ठः सहस्रंभरः शुचिजिह्वो अग्निः ॥
+
+> *ni hotā hotṛṣadane vidānastveṣo dīdivā~ asadatsudakṣaḥ |*
+> *adabdhavratapramatirvasiṣṭhaḥ sahasraṃbharaḥ śucijihvo agniḥ ‖*
+
+(Printed reference: "ऋ. सं. 2-9-1", read from the strip, not zoomed.)
+
+(Kannada, translated:) He recites this mantra. Agni is the Hotṛ of the deities. The place called Hotṛṣadana is the navel-region of the Uttaravedi, where this Agni, the divine Hotṛ, sits: this is the meaning of the first pāda. This Agni, who is radiant and skilled in the sacrificial acts, is seated in the navel of the Uttaravedi, called the Hotṛṣadana: this is the meaning of the second pāda. Because Agni carries the oblation to the deities, Agni too has obtained the highest station in heaven, the deities' own place. This Agni, whose mind is set on sacrificial and other acts that are not harmed, has the most excellent dwelling-place: this is the meaning of the third pāda. Though Agni appears in one form, he is present in all, the ṛtvijs and the rest, and performs each one's duty; therefore he has taken many forms: this is the meaning of the word सहस्रंभरः (*sahasraṃbharaḥ*). Or, Agni, being in many sacrificial houses and accomplishing the sacrifices of many yajamānas, has taken many forms: this is the meaning of the word सहस्रंभर (*sahasraṃbhara*). Because he has a tongue (flame) made pure by receiving the oblations and so on, Agni is named शुचिजिह्वः (*śucijihvaḥ*). It is praised here that such an Agni will give the yajamāna thousands of nourishments such as cattle and gold.
+
+*(Gist of the bhāṣya on the eighth Ṛk, from the Brāhmaṇa: Agni is the guardian of the gods; with this Ṛk the hotṛ places Agni as guardian round himself and the yajamāna, and so makes a year's welfare.)*
+
+> त्वं दूतस्त्वमु नः परस्पा इत्युत्तमया परिदधाति त्वं वस्य आ वृषभ प्रणेता । अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन्दीद्यद्बोधि गोपा इति अग्निर्वै देवानां गोपा अग्निमेव तत्सर्वतो गोप्तारं परिदत्त आत्मने च यजमानाय च यत्रैवं विद्वानेतया परिदधात्यथो संवत्सरीणामेवैतां स्वस्तिं कुरुते ॥
+
+> *tvaṃ dūtastvamu naḥ paraspā ityuttamayā paridadhāti tvaṃ vasya ā vṛṣabha praṇetā | agne tokasya nastane tanūnāmaprayucchandīdyadbodhi gopā iti agnirvai devānāṃ gopā agnimeva tatsarvato goptāraṃ paridatta ātmane ca yajamānāya ca yatraivaṃ vidvānetayā paridadhātyatho saṃvatsarīṇāmevaitāṃ svastiṃ kurute ‖*
+
+(Kannada, translated:) Then the hotṛ recites the last, the eighth Ṛk, and brings the Agnipraṇayana rite to completion—
+
+---
+
+### Printed p. 549 (PDF 571)
+
+*(Header: "A. 2 A. 6 V. 1" (Aṣṭaka 2, Adhyāya 6, Varga 1), "Ṛgvedasaṃhitā", and the printed number **549**. The task labelled this page 550. The numeral file has no rows for this page.)*
+
+(8)
+
+> त्वं दूतस्त्वमु नः परस्पास्त्वं वस्य आ वृषभ प्रणेता ।
+> अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन् दीद्यद्बोधि गोपाः ॥
+
+> *tvaṃ dūtastvamu naḥ paraspāstvaṃ vasya ā vṛṣabha praṇetā |*
+> *agne tokasya nastane tanūnāmaprayucchan dīdyadbodhi gopāḥ ‖*
+
+(Printed reference: "ऋ. सं. 2-9-2", read from the strip, not zoomed.)
+
+(Kannada, translated:) This is the last Ṛk in the Agnipraṇayana rite. Ordinarily the last Ṛk of a rite is called the *paridhāna* (covering) of that rite. According to the śruti sentence अग्निर्देवानां दूत आसीत् (*agnirdevānāṃ dūta āsīt*) ("Agni was the messenger of the deities"): "O Agni, you are the messenger of the deities; you alone are our protector": this is the meaning of the first pāda. Reciting this, the hotṛ speaks the mantra that marks the completion of the Agnipraṇayana rite. "O Agni, you are the best among the deities, or among men; you have a dwelling-place in all places; you are the impeller in many rites; you protect us, watching so that no mishap befalls our sons, grandsons and the rest, or ourselves": this is the main intention of this Ṛk. Agni is the protector even of the deities. He is the one who brings protection to us (the printed word is ನನುಗೂ [sic], for ನಮಗೂ) and to the yajamāna. The man who knows this will be protected by Agni for a whole year and will live in well-being.
+
+*(Gist of the bhāṣya, from the Aitareya Brāhmaṇa: the eight Ṛks are "rich in form" and make the rite complete; the first and last are recited three times each, making twelve, the twelve months of the year, i.e. Prajāpati; this binds the sacrifice firm. Three readings are doubtful and marked [?].)*
+
+> ता एता अष्टावन्वाह रूपसमृद्धा एतद्वै यज्ञस्य समृद्धं यद्रूपसमृद्धं यत्कर्म क्रियमाणमृगभिवदति । तासां त्रिः प्रथमामन्वाह त्रिरुत्तमां ता द्वादश सम्पद्यन्ते द्वादश वै मासाः संवत्सरः संवत्सरः प्रजापतिः प्रजाप्रत्यायतनाभिरेवाभी राध्नोति य एवं वेद त्रिः प्रथमां त्रिरुत्तमामन्वाह यज्ञस्यैव तद्बर्सो [?] नह्यति स्थेम्ने बलायोविस्रंसाय [?] ॥
+
+> *tā etā aṣṭāvanvāha rūpasamṛddhā etadvai yajñasya samṛddhaṃ yadrūpasamṛddhaṃ yatkarma kriyamāṇamṛgabhivadati | tāsāṃ triḥ prathamāmanvāha triruttamāṃ tā dvādaśa sampadyante dvādaśa vai māsāḥ saṃvatsaraḥ saṃvatsaraḥ prajāpatiḥ prajāpratyāyatanābhirevābhī rādhnoti ya evaṃ veda triḥ prathamāṃ triruttamāmanvāha yajñasyaiva tadbarso [?] nahyati sthemne balāyovisraṃsāya [?] ‖*
+
+(Printed reference: "ऐ. ब्रा. 5-2 [?]", digits read from the strip, not zoomed, doubtful.)
+
+(Kannada, translated:) In this way the hotṛ recites the eight Ṛks stated before. All of them together make one rite that has obtained a complete form. "Suited to the respective rites" means that, because mantras describing the sense and the details of those rites are recited in their proper times, they are helpful for the sacrificial act to be carried through completely with all its parts. Of these eight mantras the hotṛ recites the first and the last Ṛks three times each. By this there come to be twelve Ṛks in all in this rite. Twelve months together make a year. Prajāpati has the nature of the year. Therefore the man who knows the nature and the order of these mantras, which are established in Prajāpati, will attain prosperity. Because the hotṛ recites the first and the last Ṛks three times each, the two ends of the sacrifice are, as it were, tied with a firm knot so that they cannot slip and fall.
+
+The Agnipraṇayana rite is concluded.
+
+---
+
+### Printed p. 550 (PDF 572)
+
+*(Header: **550**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 551. The numeral file has no rows for this page. This is the second Ṛk of Sūkta 9; it is the Ṛk the hotṛ has just recited as the eighth mantra of the rite, now given with its own Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha.)*
+
+**Ṛk 2**
+
+*Saṃhitā-pāṭha*
+
+> त्वं दूतस्त्वमु नः परस्पास्त्वं वस्य आ वृषभ प्रणेता ।
+> अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन् दीद्यद्बोधि गोपाः ॥ २ ॥
+
+*Pada-pāṭha*
+
+*(The small stroke between parts of compounds is written ऽ, as in the earlier volumes.)*
+
+> त्वं । दूतः । त्वं । ऊं इति । नः । परःऽपाः । त्वं । वस्यः । आ । वृषभ । प्रऽनेता ।
+> अग्ने । तोकस्य । नः । तने । तनूनां । अप्रऽयुच्छन् । दीद्यत् । बोधि । गोपाः ॥ २ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: O Agni, be our messenger to call the gods, our protector from calamities, the one who brings wealth; shine and guard our sons, grandsons and bodies; the Brāhmaṇa says Agni is the guardian of the gods.)*
+
+> हे वृषभ अभिमतफलवर्षक हे अग्ने त्वं दूतोऽस्मदीये यज्ञे देवाह्वानार्थं दूतो भव । त्वमु त्वमेव नोऽस्माकं परस्पा आपद्भ्यः पारयिता पाता च भव । किंच त्वं वस्यो वसुनो धनस्य आ प्रणेतास्मदाभिमुख्येन प्रापयिता भव । अप्रयुच्छन् अप्रमाद्यन् । दीद्यत् ॥ दीदयतिर्दीप्तिकर्मा ॥ शोभमानः । त्वं नोऽस्माकं तोकस्य पुत्रस्य तने । तनोति विस्तारयति कुलमिति तनः पौत्रः । तस्मिन् अस्मदीयानां तनूनां गोपा गोपायिता । तथा च ब्राह्मणं । अग्निर्वै देवानां गोपा अग्निमेव तत्सर्वतो गोप्तारं परिदत्त आत्मने च यजमानाय च । ऐ. ब्रा. 1. 28. । इति । तादृशस्त्वं च गोपायिता भवामीति बोधि । बुध्यस्व ॥
+
+> *he vṛṣabha abhimataphalavarṣaka he agne tvaṃ dūto 'smadīye yajñe devāhvānārthaṃ dūto bhava | tvamu tvameva no 'smākaṃ paraspā āpadbhyaḥ pārayitā pātā ca bhava | kiṃca tvaṃ vasyo vasuno dhanasya ā praṇetāsmadābhimukhyena prāpayitā bhava | aprayucchan apramādyan | dīdyat ‖ dīdayatirdīptikarmā ‖ śobhamānaḥ | tvaṃ no 'smākaṃ tokasya putrasya tane | tanoti vistārayati kulamiti tanaḥ pautraḥ | tasmin asmadīyānāṃ tanūnāṃ gopā gopāyitā | tathā ca brāhmaṇaṃ | agnirvai devānāṃ gopā agnimeva tatsarvato goptāraṃ paridatta ātmane ca yajamānāya ca | ai. brā. 1. 28. | iti | tādṛśastvaṃ ca gopāyitā bhavāmīti bodhi | budhyasva ‖*
+
+(Printed reference in the bhāṣya: "ऐ. ब्रा. 1. 28", read from the strip, not zoomed. The words भवामीति बोधि are as printed.)
+
+*Pratipadārtha*
+
+वृषभ (*vṛṣabha*) — one who showers the desired objects. अग्ने (*agne*) — O Agni. त्वं (*tvaṃ*) — you. दूतः (*dūtaḥ*) — be the messenger who calls the deities (to our sacrifice). त्वमु (*tvamu*) — you yourself. नः (*naḥ*) — to us. परस्पाः (*paraspāḥ*) — be the protector in calamity. त्वं (*tvaṃ*) — you. वस्यः (*vasyaḥ*) — of wealth (wealth). आ प्रणेता (*ā praṇetā*) — be the one who brings it to us, directed towards us. अप्रयुच्छन् (*aprayucchan*) — with steady vision. दीद्यत् (*dīdyat*) — shining. नः (*naḥ*) — our. तोकस्य (*tokasya*) — for our sons. तने (*tane*) — for our grandsons. तनूनां (*tanūnāṃ*) — for our own bodies. गोपाः (*gopāḥ*) — be the protector.
+
+*Bhāvārtha*
+
+(Kannada, translated:) O Agni, giver of the desired objects, be the messenger who calls the deities to our sacrifice, be the protector for us in calamity, be the one who provides us with wealth, and be one whose gaze is free from [printed ಪ್ರಮಾನರಹಿತ, presumably "negligence" [?]], … *(the sentence runs on to the next page of the print)*
+
+---
+
+**Progress note:** Done through printed p. 550 (PDF 572). The headers print 548, 549 and 550 for PDF 570–572 (the task labelled them 549–551); the offset printed = PDF − 22 holds, so the actual printed numbers are used. Sūkta 9: the Viśeṣaviṣayagaḷu excerpt from the Aitareya Brāhmaṇa is finished (Ṛks 7 and 8 of the Agnipraṇayana, printed refs 2-9-1 and 2-9-2, with the closing note "Agnipraṇayanakāryavu samāptavu"). Then Ṛk 2 of Sūkta 9 begins (Saṃhitā, Pada, bhāṣya, Pratipadārtha done). **Ṛk 2 is open in the Bhāvārtha**, mid-sentence at "…ಪ್ರಮಾನರಹಿತವಾದ ದೃಷ್ಟಿಯುಳ್ಳವ…" ("… whose gaze is free from …"); the next batch starts at the top of printed p. 551 (PDF 573) and continues that sentence. Flags: FILE DISAGREE none (the numeral file has no rows for these pages). Unzoomed numerals: Ṛ. Saṃ. 2-9-1, 2-9-2; ऐ. ब्रा. reference on p. 549 (5-2 [?]); ऐ. ब्रा. 1. 28 on p. 550; headers Sū. 9 and A. 2 A. 6 V. 1. [?] places: होतृषदसं; अदब्धव्रतप्र[?]तिः (the Ṛk has प्रमतिः); यदेनमोकं; तद्बर्सो; बलायोविस्रंसाय; the sign over दीदिवाँ; the word ಪ್ರಮಾನರಹಿತ.
