@@ -22195,4 +22195,107 @@ As is said in "उक्थैः परिभूषति (*ukthaiḥ paribhū�
 
 ---
 
-**Progress note:** Done through printed p. 589 (PDF 611). Sūkta 11, Ṛk 3: its Special Topics (Viśeṣaviṣayagaḷu) are still OPEN, in the passage on ⟦स्तोमेषु⟧ (stoma, viṣṭuti, stomavṛddhi, āvāpa). The Sanskrit quotation beginning "prātassavane vai gāyatreṇa chandasā trivṛte stomāya jyotirdadhadeti …" breaks off at "pañcadaśenaujasā vīryeṇa" at the foot of p. 589 and continues on p. 590. Flags: FILE DISAGREE on p. 589 line 14: file says "1-4" and "119", I read "1-4" and "1-9" (six sūktas, 4 to 9), unzoomed. Unzoomed numerals: running headers on pp. 587–589, all stoma and Ṛk numbers on pp. 587–588 (9, 15, 17, 21, 27, 33, 24, 44, 48; the 27 in the text; the 30 viṣṭutis), and the page numbers 138 and 150. [?] places: p. 588 ⟦निर्मध्या⟧ (name of a Catuścatvāriṃśa viṣṭuti), and the spellings ⟦प्रतिष्टुतिः⟧ and ⟦नेदीयस्संक्रमा⟧ (the latter's ಮ printed like ವ). The Kannada ⟦स्तोमैः आभूषति⟧ is given as printed. Pp. 587 and 589 have no numeral-file rows for the other lines; none of them was checked against the file.
+### Printed p. 590 (PDF 612)
+
+*(Header: "590", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The Special Topics of Ṛk 3, on स्तोमेषु (*stomeṣu*), continue. The Sanskrit quotation left open at the foot of p. 589 goes on:)*
+
+> सप्तदशाय ज्योतिर्दधदेति सप्तदशेन प्राजापत्येन प्रजननेनैकविग्ंशाय ज्योतिर्दधदेति स्तोम एव तत्स्तोमाय ज्योतिर्दधदेत्यथो स्तोम एव स्तोममभि प्रणयति यावन्तो वै स्तोमास्तावन्तः कामास्तावन्तो लोकास्तावन्ति ज्योतीग्ंष्येतावत एव स्तोमानेतावतः कामानेतावतो लोकानेतावन्ति ज्योतीग्ंष्यवरुन्धे ॥
+
+> *saptadaśāya jyotirdadhadeti saptadaśena prājāpatyena prajananenaikavigṃśāya jyotirdadhadeti stoma eva tatstomāya jyotirdadhadetyatho stoma eva stomamabhi praṇayati yāvanto vai stomāstāvantaḥ kāmāstāvanto lokāstāvanti jyotīgṃṣyetāvata eva stomānetāvataḥ kāmānetāvato lokānetāvanti jyotīgṃṣyavarundhe ‖*
+
+*(The source is given as "(तै. सं. ७-१-२-१)" (Taittirīya Saṃhitā 7-1-2-1); this agrees with the numeral file. The Kannada prints the *ma* of स्तोम (*stoma*) with the hook that looks like the *u* sign.)*
+
+In these Taittirīya Saṃhitā sentences the powers of the stomas are told. At the time of the Prātaḥsavana (morning pressing) the sacrificer, with the Gāyatrī metre, places the Trivṛt stoma in the position of greatness. In the same way, with the Trivṛt, which has the form of light, he brings about the Pañcadaśa stoma; with the Pañcadaśa, which is endowed with vigour, the Saptadaśa stoma; and, having entered into connection with Prajāpati, with the Saptadaśa stoma, which is the means of procreation, he brings about the Ekaviṃśa stoma, endowed with brilliance. In this way one kind of stoma gives power and brilliance to the next kind of stoma. As many kinds as there are in the stoma, so many worlds, so many kinds of brilliances and so many kinds of desired objects there are. And by reciting the stoma the sacrificer obtains that many kinds of worlds, brilliances and desired objects. Having told the power of the stoma in this way, the text then also tells the loss that comes from not reciting the stoma.
+
+*(The quotation below is written out in the Kannada as one block.)*
+
+> ब्रह्मवादिनो वदन्ति सत्त्रै यजेत योऽग्निष्टोमेन यजमानोऽथ सर्वस्तोमेन यजेतेति यस्य त्रिवृतमन्तर्यन्ति प्राणाग्ंस्तस्यान्तर्यन्ति प्राणेषु मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य पञ्चदशमन्तर्यन्ति वीर्यं तस्यान्तर्यन्ति वीर्ये मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य सप्तदशमन्तर्यन्ति प्रजां तस्यान्तर्यन्ति प्रजायां मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्यैकविग्ंशमन्तर्यन्ति प्रतिष्ठां तस्यान्तर्यन्ति प्रतिष्ठायां मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यस्य त्रिणवमन्तर्यन्त्यृतोग्ंश्च तस्य नक्षत्रियां च विराजमन्तर्यन्त्यृतुषु मेऽप्यसन्नक्षत्रियायां च विराजेति खलु वै यज्ञेन यजमानो यजते यस्य त्रयस्त्रिग्ंशमन्तर्यन्ति देवतास्तस्यान्तर्यन्ति देवतासु मेऽप्यसदिति खलु वै यज्ञेन यजमानो यजते यो वै स्तोमानामवमं परमतां गच्छन्तं वेद परमतामेव गच्छति त्रिवृद्वै स्तोमानामवमस्त्रिवृत्परमो य एवं वेद परमतामेव गच्छति ॥
+
+> *brahmavādino vadanti sattrai yajeta yo 'gniṣṭomena yajamāno 'tha sarvastomena yajeteti yasya trivṛtamantaryanti prāṇāgṃstasyāntaryanti prāṇeṣu me 'pyasaditi khalu vai yajñena yajamāno yajate yasya pañcadaśamantaryanti vīryaṃ tasyāntaryanti vīrye me 'pyasaditi khalu vai yajñena yajamāno yajate yasya saptadaśamantaryanti prajāṃ tasyāntaryanti prajāyāṃ me 'pyasaditi khalu vai yajñena yajamāno yajate yasyaikavigṃśamantaryanti pratiṣṭhāṃ tasyāntaryanti pratiṣṭhāyāṃ me 'pyasaditi khalu vai yajñena yajamāno yajate yasya triṇavamantaryantyṛtogṃśca tasya nakṣatriyāṃ ca virājamantaryantyṛtuṣu me 'pyasannakṣatriyāyāṃ ca virājeti khalu vai yajñena yajamāno yajate yasya trayastrigṃśamantaryanti devatāstasyāntaryanti devatāsu me 'pyasaditi khalu vai yajñena yajamāno yajate yo vai stomānāmavamaṃ paramatāṃ gacchantaṃ veda paramatāmeva gacchati trivṛdvai stomānāmavamastrivṛtparamo ya evaṃ veda paramatāmeva gacchati ‖*
+
+*(The source is given as "(तै. सं. ७-१-३-१, २, ३,)" (Taittirīya Saṃhitā 7-1-3-1, 2, 3); this agrees with the numeral file. The Kannada prints the *ma* of परमताम् (*paramatām*) and अवमम् (*avamam*) with the hook that looks like the *u* sign. In स्तोमानामवमं (*stomānāmavamaṃ*) the first occurrence is printed with a small dot between स्तोमान (*stomāna*) and मवमं (*mavamaṃ*); the second occurrence, स्तोमानामवमः (*stomānāmavamaḥ*), is clear and I have used it for the first.)*
+
+---
+
+### Printed p. 591 (PDF 613)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **591**.)*
+
+Those who are to sacrifice with the Agniṣṭoma (the first soma rite of the Jyotiṣṭoma type) should, the Śāstra-experts have ordained, sacrifice with the Sarvastoma (the rite that includes all the stomas) also. In this rule, if the Trivṛt stoma is left out, his chief breath (*mukhyaprāṇa*) is lost; so the sacrificer performs the sacrifice with the aim that this sacrifice may be included in his chief breath. In the same way, if the Pañcadaśa stoma is left out there is lack of strength; if the Ekaviṃśa stoma is left out, the very support of his life is lost; if the Triṇava stoma is left out, the seasons and the powers of the constellations will not be helpful to his own share, for his own purpose; and if the Trayastriṃśa stoma is left out, the presence of the chief deities is lacking altogether. Therefore the sacrificer, for obtaining strength, carries out the sacrifice by reciting the Pañcadaśa stoma; for obtaining progeny, the Saptadaśa stoma; for the support of life, the Ekaviṃśa stoma; for obtaining the benefit of the powers of the seasons and constellations, the Triṇava stoma; and for obtaining the presence of his chief deity, the Trayastriṃśa stoma. The sacrificer who knows the glory of the Trivṛt stoma, which has obtained the first place among the stomas, obtains the first place among sacrificers. Further, with the Agniṣṭoma joined with the Trivṛt stoma he obtains brilliance (*tejas*); with the Pañcadaśa stoma, vigour (*vīrya*); with the Saptadaśa, food (*anna*); with the Ekaviṃśa, a firm foundation (*pratiṣṭhā*); with the Triṇava, victory (*jaya*); and with the Trayastriṃśa, greatness (*mahattva*).
+
+> स्तोममहदुरुगायं प्रतिष्ठां दृष्ट्वा धीरो नचिकेतोऽत्यस्राक्षीः ॥
+
+> *stomamahadurugāyaṃ pratiṣṭhāṃ dṛṣṭvā dhīro naciketo 'tyasrākṣīḥ ‖*
+
+*(The source is given as "(क. उ. २-११)" (Kaṭha Upaniṣad 2-11); this agrees with the numeral file.)*
+
+Thus the Kaṭha Upaniṣad shows the greatness of the stoma and the spiritual peace that is to be obtained by it.
+
+> येन च्छन्दसा स्तोष्यन्स्यात्तच्छन्द उपधावेद्येन [?] स्तोमेन स्तोष्यमाणः स्यात्तं स्तोममुपधावेत् ॥
+
+> *yena cchandasā stoṣyansyāttacchanda upadhāvedyena [?] stomena stoṣyamāṇaḥ syāttaṃ stomamupadhāvet ‖*
+
+*(The source is given as "(छा. उ. १-३-१०)" (Chāndogya Upaniṣad 1-3-10); this agrees with the numeral file. The words उपधावेद्येन (*upadhāvedyena*) are doubtful; the Kannada looks like ಉಪಧಾವೇತ್ಯೇನ.)*
+
+In the Chāndogya also, describing the greatness of the udgītha, the text tells that one should meditate on, that is, resort to, that stoma by which the stotra becomes complete in accordance with the arrangement (*sanniveśa*) of the effort [*āyāsa*, so printed].
+
+In the same way, in the Ṛk under discussion also, the meaning of स्तोत्र (*stotra*) is: that which is of the nature of song, chanted by the Hotṛ priests and others at the time of the rite, giving exceedingly great benefit, and being an ornament to the rite. Sāyaṇa has explained it with the words स्तोत्रैर्गानयुक्तमन्त्रसाध्यैः (*stotrairgānayuktamantrasādhyaiḥ*).
+
+*(This ends the Special Topics of Ṛk 3. A short rule-line follows in the print.)*
+
+---
+
+### Printed p. 592 (PDF 614)
+
+*(Header: "592", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11".)*
+
+**Ṛk 4**
+
+**Saṃhitā-pāṭha**
+
+> शुभ्रं नु ते शुष्मं वर्धयन्तः शुभ्रं वज्रं बाह्वोर्दधानाः ।
+> शुभ्रस्त्वमिन्द्र वावृधानो अस्मे दासीर्विशः सूर्येण सह्याः ॥ ४ ॥
+
+**Pada-pāṭha**
+
+> शुभ्रं । नु । ते । शुष्मं । वर्धयन्तः । शुभ्रं । वज्रं । बाह्वोः । दधानाः ।
+> शुभ्रः । त्वं । इन्द्र । ववृधानः । अस्मे इति । दासीः । विशः । सूर्येण । सह्याः ॥ ४ ॥
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: O Indra, we, increasing your shining strength with praises, place the bright vajra quickly in your arms; you, grown by praise, overcome our hostile Asura peoples with it.*
+
+> हे इन्द्र ते तव शुभ्रं शोभनं शुष्मं बलं स्तोत्रैर्वर्धयन्तः शुभ्रं दीप्तं वज्रमायुधं नु क्षिप्रं तव बाह्वोर्दधाना निदधानाः । स्तूयमानो हीन्द्रोऽसुरवधाय वज्रमादत्त इतीत्थंरूपेणायुधं निदधाना भवामः । वावृधानः स्तोत्रैर्वर्धमानः शुभ्रस्तेजसा युक्तस्त्वमस्मे आस्माकं दासीरुपक्षपयित्रीर्विश आसुरीः प्रजाः सूर्येण सुष्ठु प्रेरकेण । आयुधं हि प्रेरयति त्वं युध्यस्वेति । एवंरूपेण बाह्वोर्निहितेन वज्रेण सह्याः । अभिभव । सहतेर्व्यत्ययेन लिङ् परस्मैपदं ॥
+
+> *he indra te tava śubhraṃ śobhanaṃ śuṣmaṃ balaṃ stotrairvardhayantaḥ śubhraṃ dīptaṃ vajramāyudhaṃ nu kṣipraṃ tava bāhvordadhānā nidadhānāḥ | stūyamāno hīndro 'suravadhāya vajramādatta itītthaṃrūpeṇāyudhaṃ nidadhānā bhavāmaḥ | vāvṛdhānaḥ stotrairvardhamānaḥ śubhrastejasā yuktastvamasme āsmākaṃ dāsīrupakṣapayitrīrviśa āsurīḥ prajāḥ sūryeṇa suṣṭhu prerakeṇa | āyudhaṃ hi prerayati tvaṃ yudhyasveti | evaṃrūpeṇa bāhvornihitena vajreṇa sahyāḥ | abhibhava | sahatervyatyayena liṅ parasmaipadaṃ ‖*
+
+*(The Kannada prints युध्यस्वेति (*yudhyasveti*) with a line break, like ಯೊಧ್ಯ-ಸ್ವೇತಿ; I read it as युध्यस्वेति (*yudhyasveti*). The grammatical tail, on सह्याः (*sahyāḥ*) as an irregular optative, parasmaipada, from the root सह (*saha*), is Sanskrit and is not explained here.)*
+
+**Pratipadārtha**
+
+- इन्द्र (*indra*)—O Indra.
+- ते (*te*)—your.
+- शुभ्रं (*śubhraṃ*)—beautiful (in nature).
+- शुष्मं (*śuṣmaṃ*)—strength.
+- वर्धयन्तः (*vardhayantaḥ*)—making it grow (by praises and so on).
+- शुभ्रं (*śubhraṃ*)—shining.
+- वज्रं (*vajraṃ*)—the vajra weapon.
+- नु (*nu*)—quickly indeed.
+- बाह्वोः (*bāhvoḥ*)—in your arms.
+- दधानाः (*dadhānāḥ*)—we place.
+- वावृधानः (*vāvṛdhānaḥ*)—(by praises and so on) one who has grown strong,
+- शुभ्रः (*śubhraḥ*)—and endowed with brilliance.
+- त्वं (*tvaṃ*)—you.
+- अस्मे (*asme*)—our.
+- दासीः (*dāsīḥ*)—harmful (destructive).
+- विशः (*viśaḥ*)—Asurī peoples (*āsurīprajegaḷannu*).
+- सूर्येण (*sūryeṇa*)—with a weapon quickly hurled (or swiftly used).
+- सह्याः (*sahyāḥ*)—defeat.
+
+**Bhāvārtha**
+
+O Indra, making your beautiful strength grow by praises and so on, we place the shining vajra weapon quickly in your arms; you who have grown strong [the Bhāvārtha is cut off here at the foot of the page and continues on p. 593: "…and who are strong…"]
+
+---
+
+**Progress note:** Done through printed p. 592 (PDF 614). Sūkta 11, Ṛk 3 ends (Special Topics closed on p. 591, with the Kaṭha and Chāndogya quotations); Ṛk 4 begun on p. 592: Saṃhitā, Pada, Sāyaṇa-bhāṣya and Pratipadārtha written. OPEN: the Bhāvārtha of Ṛk 4 breaks off mid-sentence at the foot of p. 592 ("…pravṛddhanādavanū", "and who has grown strong…") and continues on p. 593; the printed English, Special Topics and any grammar notes of Ṛk 4 are still to come. Flags: no FILE DISAGREE (the four reference numerals on pp. 590–591 agree with the file: 7-1-2-1; 7-1-3-1, 2, 3; 2-11; 1-3-10). Unzoomed numerals: running headers on pp. 590–592 (including "A. 2 A. 6 V. 3" on p. 591) and the Ṛk number ४ on p. 592 (no file row for p. 592). [?] places: ⟦उपधावेद्येन⟧ in the Chāndogya quotation (p. 591); ⟦मेऽप्यसदिति⟧ (ಪ್ಯ/ಸ್ಯ not clearly distinguished, throughout the quotation on p. 590); ⟦स्तोमानामवमं⟧ in the first occurrence, with a dot in the print; ⟦सत्त्रै⟧.
