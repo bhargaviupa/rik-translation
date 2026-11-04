@@ -6,7 +6,7 @@ comma lists ('119, 124, 125'), edit distance >= 4."""
 import re, sys, openpyxl
 D2A = str.maketrans("०१२३४५६७८९", "0123456789"); A2D = str.maketrans("0123456789", "०१२३४५६७८९")
 REF = re.compile(r"(\[?[०-९0-9]+\]?(?:[ ]?[-–.,][ ]?\[?[०-९0-9]+\]?)+)(\s*\[\?\])?")
-md, xl, log = sys.argv[1:4]
+md, xl, log = sys.argv[1:4]   # optional 4th arg --parts-ok: also apply rows whose part count differs (user confirmed Nov 4)
 L = open(md, encoding="utf8").read().split("\n")
 rows = [x for x in list(openpyxl.load_workbook(xl, read_only=True).active.iter_rows(values_only=True))[1:] if x[7] == "DIFFERENT"]
 def lev(a, b):
@@ -20,7 +20,7 @@ f = open(log, "w", encoding="utf8"); f.write("md_line\tPDF\told\tnew\tnote\n"); 
 for x in rows:
     P, ln, new, old = x[0], x[4], x[2], x[5]
     if re.search(r"\d\s*,\s*\d", x[6] or "") and "-" not in (x[6] or ""): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED plain list\n"); n_skip += 1; continue
-    if len(old.split("-")) != len(new.split("-")): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED part count differs (file likely lost/moved a separator)\n"); n_skip += 1; continue
+    if "--parts-ok" not in sys.argv and len(old.split("-")) != len(new.split("-")): f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED part count differs (file likely lost/moved a separator)\n"); n_skip += 1; continue
     if lev(old, new) >= 4: f.write(f"{ln}\t{P}\t{x[6]}\t{new}\tSKIPPED distance>=4\n"); n_skip += 1; continue
     for i in range(max(0, ln - 9), min(len(L), ln + 8)):
         if i in done: continue
