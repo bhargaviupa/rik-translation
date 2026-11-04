@@ -21295,4 +21295,141 @@ The word पेश (*peśa*) (*peśa*) is read among the names of gold (Ni. 2-10
 
 ---
 
-**Progress note:** Done through printed p. 568 (PDF 590); offset printed = PDF − 22 holds. Sūkta 10: Ṛk 2 is complete (its Viśeṣaviṣayagaḷu on चित्रभानुः with Ni. 2-20, the vehicles of the deities with Ni. 2-28, and चक्रे विभृत्रः, on p. 566; a rule line follows). Ṛk 3 is **open**: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Viśeṣaviṣayagaḷu on उत्तानायां/सुसूतं (Tai. Brā. 1-1-9-1) and पुरुपेशासु (Ni. 2-10, 3-13, 8-12) are written; p. 568 ends with the explanation of पुरुपेशासु, and the next page may continue the Special Topics of Ṛk 3 or begin Ṛk 4. Flags: FILE DISAGREE none; unzoomed numerals: varga numeral in the header of p. 567 (read 2); the Ṛk 3 numerals ॥ ३ ॥. [?] places: p. 566 bhāṣya ⟦विचित्रदीप्तिश्चायनीयदीप्तिर्वा⟧ (letters after दीप्तिः); the doubtful ⟦विहृतेः⟧ of p. 565 is clearly ⟦विहृतः⟧ on p. 566; p. 567 ⟦तस्यामप्यक्तुना⟧ and ⟦लिङ्⟧ (printed forms oddly shaped).
+### Printed p. 569 (PDF 591)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (not zoomed; the numeral file's digit groups 2, 6, 2 agree), "Ṛgvedasaṃhitā", printed number **569**. The numeral file has two rows for this page, both Ni. 2-18, and both agree with my reading. This page continues the Viśeṣaviṣayagaḷu of Ṛk 3 and then begins Ṛk 4.)*
+
+*Viśeṣaviṣayagaḷu (Special Topics of Ṛk 3, continued; translated)*
+
+शिरिणायां चित् अक्तुना अपरीवृतः (*śiriṇāyāṃ cit aktunā aparīvṛtaḥ*)—The word शिरिणा (*śiriṇā*) is read among the names of night (Ni. 2-18). This word is formed from the root शीज् स्वप्ने (*śīj svapne*) (as printed; the final letter looks like ज्, perhaps for ङ्), and the following is its explanation:
+
+> शीर्यन्तेऽस्यां भूतानीति शिरिणा रात्रिः । अथवा शाययति प्राणिनः इति ।
+
+> *śīryante 'syāṃ bhūtānīti śiriṇā rātriḥ | athavā śāyayati prāṇinaḥ iti |*
+
+Because living beings sleep in this period, शिरिणा (*śiriṇā*) means night. Besides, the word अक्तुः (*aktuḥ*) also is read among the names of night (Ni. 2-18). This word अक्तु (*aktu*) is formed from the root अञ्जू व्यक्तिम्रक्षणकान्तिगतिषु (*añjū vyaktimrakṣaṇakāntigatiṣu*) (as printed), and the explanation is:
+
+> अज्यते सिच्यतेऽस्यावुवश्यायेन जगत् [?]
+
+> *ajyate sicyate 'syāvuvaśyāyena jagat [?]*
+
+(A stray hooked sign is printed in the middle of अस्यावश्यायेन (*asyāvaśyāyena*): I read it as अस्यावश्यायेन (*asyāvaśyāyena*) but it is marked [?].) The whole world is covered by this (darkness), and so the word अक्तु (*aktu*) means night. Or, if the sense of "going" is to be given:
+
+> गच्छति वा प्रतिदिनं अक्तुः
+
+> *gacchati vā pratidinaṃ aktuḥ*
+
+Because it arrives every day, night is called अक्तु (*aktu*). In this Ṛk the two words शिरिणायां (*śiriṇāyāṃ*) and अक्तुना (*aktunā*) both denote night; therefore the bhāṣyakāra explains the word शिरिणायां (*śiriṇāyāṃ*) as "in the night", and the word अक्तुना (*aktunā*) as "by darkness (tamas), or by the dark" (*kattale*). The meaning is: Agni is "not enveloped" by such a night, that is, not in contact with the thick darkness. Since Agni is always shining, the darkness of the night that is in the night has no contact with him; that is the intention. Such an Agni, possessed of excellent knowledge, shines by his own light in the time of night; that is the main intention.
+
+---
+
+**Ṛk 4**
+
+*Saṃhitā-pāṭha*
+
+> जिघर्म्यग्निं हविषा घृतेन प्रतिक्षियन्तं भुवनानि विश्वा ।
+> पृथुं तिरश्चा वयसा बृहन्तं व्यचिष्ठमन्नै रभसं दृशानं ॥ ४ ॥
+
+*Pada-pāṭha*
+
+*(The small stroke in प्रतिऽक्षियन्तं is the mark ऽ.)*
+
+> जिघर्मि । अग्निं । हविषा । घृतेन । प्रतिऽक्षियन्तं । भुवनानि । विश्वा ।
+> पृथुं । तिरश्चा । वयसा । बृहन्तं । व्यचिष्ठं । अन्नैः । रभसं । दृशानं ॥ ४ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: I make Agni blaze with oblation and ghee—Agni who pervades all worlds as Vaiśvānara, vast, grown by food-oblations, powerful and visible; a Brāhmaṇa-type passage then glosses the words. The bhāṣya runs over to p. 570.)*
+
+> विश्वा सर्वाणि भुवनानि प्रतिक्षियन्तं वैश्वानरात्मनाधितिष्ठन्तं पृथुं महान्तं तिरश्चा सर्वतः प्रवर्तमानेन वयसा पेशसा बृहन्तं प्रवृद्धमन्नैर्हविर्लक्षणैर्व्यचिष्ठं व्याप्तं रभसं बलवन्तं दृशानमेवंगुणवत्तया दृश्यमानमग्निं पुरो-
+
+> *viśvā sarvāṇi bhuvanāni pratikṣiyantaṃ vaiśvānarātmanādhitiṣṭhantaṃ pṛthuṃ mahāntaṃ tiraścā sarvataḥ pravartamānena vayasā peśasā bṛhantaṃ pravṛddhamannairhavirlakṣaṇairvyaciṣṭhaṃ vyāptaṃ rabhasaṃ balavantaṃ dṛśānamevaṃguṇavattayā dṛśyamānamagniṃ puro-*
+
+---
+
+### Printed p. 570 (PDF 592)
+
+*(Header: "570", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". The numeral file has no rows for this page.)*
+
+*(The bhāṣya of Ṛk 4 continues; the first line completes the word पुरोडाश-:)*
+
+> डाशादिलक्षणेन हविषा घृतेन च जिघर्मि ॥ प्रति ह्येष सर्वाणि भूतानि क्षेति पृथुं तिरश्चा वयसा धूमेन बृहन्तं व्यचिष्ठमन्नै रभसं दृशानमित्यवकाशनवन्तेमन्नैरन्नादं [?] दीप्यमानमित्येतदा विश्वत इत्या सर्वतः प्रत्यञ्चं जुहोमीत्येतदरक्षसेत्यहेळमानेन मनसेदं जुषेतेत्येतन्मर्यश्रीरिति मर्यश्रीरित्येष [?] स्पृहयद्वर्णो अग्निर्नाभिमृश इति न ह्येष मृशेत दीप्यमानो भवतीति ॥
+
+> *ḍāśādilakṣaṇena haviṣā ghṛtena ca jigharmi ‖ prati hyeṣa sarvāṇi bhūtāni kṣeti pṛthuṃ tiraścā vayasā dhūmena bṛhantaṃ vyaciṣṭhamannai rabhasaṃ dṛśānamityavakāśanavantemannairannādaṃ [?] dīpyamānamityetadā viśvata ityā sarvataḥ pratyañcaṃ juhomītyetadarakṣasetyaheḷamānena manasedaṃ juṣetetyetanmaryaśrīriti maryaśrīrityeṣa [?] spṛhayadvarṇo agnirnābhimṛśa iti na hyeṣa mṛśeta dīpyamāno bhavatīti ‖*
+
+*(The Nirukta-type quotation at the end of the bhāṣya is transcribed only; no sūtra numbers are printed. Two places are marked [?]: the form printed as अवकाशनवन्तेमन्नैरन्नादं (*avakāśanavantemannairannādaṃ*) (the letters after अवकाशनवन्त look like ए/ई + म) and the pair of forms मर्यश्रीरिति मर्यश्रीरित्येष (*maryaśrīriti maryaśrīrityeṣa*), whose second member is printed a little differently from the first.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+विश्वा (*viśvā*)—all. भुवनानि (*bhuvanāni*)—the worlds. प्रतिक्षियन्तं (*pratikṣiyantaṃ*)—him who pervades them in the form of Vaiśvānara. पृथुं (*pṛthuṃ*)—him who has greatness. तिरश्चा (*tiraścā*)—that which moves everywhere. वयसा (*vayasā*)—in form. बृहन्तं (*bṛhantaṃ*)—him who has grown. अन्नैः (*annaiḥ*)—by the foods in the form of oblations. व्यचिष्ठं (*vyaciṣṭhaṃ*)—him who is pervaded (expanded). रभसं (*rabhasaṃ*)—the powerful one. दृशानं (*dṛśānaṃ*)—him who is seen by all such qualities. अग्निं (*agniṃ*)—Agni. हविषा (*haviṣā*)—with the oblation. घृतेन (*ghṛtena*)—with ghee. जिघर्मि (*jigharmi*)—I make (him) shine.
+
+*Bhāvārtha (Kannada, translated)*
+
+I offer oblation and ghee to Agni, who pervades all the worlds in the form of Vaiśvānara, who has greatness, who is present everywhere in his form, who has grown, who is pervaded by the food in the form of oblations, and who is powerful.
+
+*English Translation (as printed)*
+
+I offer oblations with butter to Agni, who spreads through all regions, vast, expanding, with all-comprehending form, nourished (with sacrificial) food, powerful, conspicuous.
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+प्रतिक्षियन्तं भुवनानि विश्वा (*pratikṣiyantaṃ bhuvanāni viśvā*)—प्रति ह्येष सर्वाणि भूतानि क्षेति (*prati hyeṣa sarvāṇi bhūtāni kṣeti*). This Agni dwells in all living beings in the form of Vaiśvānara. That is: as the Vaiśvānara fire he dwells in plants, herbs, forest trees, creepers and the like; as the jāṭhara fire (the fire of digestion) in the classes of living beings, human beings and the rest; as the terrestrial fire on the earth; as the fire of lightning (*miñcu*) in the atmosphere; and as the Āditya (the sun) in heaven. Therefore it is said that he dwells भुवनानि विश्वा (*bhuvanāni viśvā*)—in all the worlds and in all living beings.
+
+पृथुं तिरश्चा वयसा बृहन्तं (*pṛthuṃ tiraścā vayasā bṛhantaṃ*)—महान्तं सर्वतः प्रवर्तमानेन पेशसा प्रवृद्धं (*mahāntaṃ sarvataḥ pravartamānena peśasā pravṛddhaṃ*). Because Agni spreads, pervading all places (in forms such as the forest fire, *dāvānala*), he is described here as one of very wide extent and of great form.
+
+*(The Special Topics of Ṛk 4 continue on p. 571.)*
+
+---
+
+### Printed p. 571 (PDF 593)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (not zoomed; the numeral file's digit groups 2, 6, 2 agree), "Ṛgvedasaṃhitā", printed number **571**. The numeral file has one row for this page, the header line only.)*
+
+*(The Special Topics of Ṛk 4 continue:)*
+
+व्यचिष्ठं अन्नैः रभसं दृशानं (*vyaciṣṭhaṃ annaiḥ rabhasaṃ dṛśānaṃ*)—
+
+> हविर्लक्षणैरन्नैर्व्याप्तं बलवन्तमेवंगुणवत्तया दृश्यमानं ।
+
+> *havirlakṣaṇairannairvyāptaṃ balavantamevaṃguṇavattayā dṛśyamānaṃ |*
+
+Grown by oblations, firewood, samit-sticks, ājya and the like, powerful—that is, shining with flames and with lustre, appearing to our eyes and facing us: such is Agni, the meaning is. In such an Agni I make oblation of the havis and ghee, the ṛṣi has described.
+
+---
+
+**Ṛk 5**
+
+*Saṃhitā-pāṭha*
+
+> आ विश्वतः प्रत्यञ्चं जिघर्म्यरक्षसा मनसा तज्जुषेत ।
+> मर्यश्रीः स्पृहयद्वर्णो अग्निर्नाभिमृशे तन्वा [?] जर्भुराणः ॥ ५ ॥
+
+> *ā viśvataḥ pratyañcaṃ jigharmyarakṣasā manasā tajjuṣeta |*
+> *maryaśrīḥ spṛhayadvarṇo agnirnābhimṛśe tanvā [?] jarbhurāṇaḥ ‖ 5 ‖*
+
+*(Between तन्वा (*tanvā*) and जर्भुराणः (*jarbhurāṇaḥ*) a small extra sign is printed in the Saṃhitā; the first word is read तन्वा (*tanvā*) with [?]. ॥ ५ ॥ read, not zoomed.)*
+
+*Pada-pāṭha*
+
+*(The small strokes in मर्यऽश्रीः, स्पृहयत्ऽवर्णः and अभिऽमृशे are the mark ऽ.)*
+
+> आ । विश्वतः । प्रत्यञ्चं । जिघर्मि । अरक्षसा । मनसा । तत् । जुषेत ।
+> मर्यऽश्रीः । स्पृहयत्ऽवर्णः । अग्निः । न । अभिऽमृशे । तन्वा [?] । जर्भुराणः ॥ ५ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: I pour ghee on Agni, who pervades everywhere and comes to face the sacrifice; may he accept it, served by mortals, of the colour the sacrificer desires, filled with splendour and therefore not to be touched.)*
+
+> विश्वतः सर्वत्र व्याप्य वर्तमानं प्रत्यञ्चं यज्ञं प्रत्यागच्छन्तमग्निं येन घृतेनाजिघर्मि । आसिञ्चामि । अरक्षसा बाधकरहितेन मनसा स्तोत्रेण सह तदाज्यं जुषेत । भवान् सेवेत । मर्यश्रीः । मर्यैर्मर्त्यैः श्रयणीयो भजनीयः । स्पृहयद्वर्णः । यादृशं वर्णं यजमानः स्पृहयति तादृशवर्णोपेतः । तेना [?] तेजसा जर्भुराणः पूर्यमाणोऽग्निर्नाभिमृशे । अतितेजस्वितयोभिमर्शनीयो [?] न भवति ॥ अभिपूर्वान्मृशेः कृत्यार्थे केन्प्रत्ययः ।
+
+> *viśvataḥ sarvatra vyāpya vartamānaṃ pratyañcaṃ yajñaṃ pratyāgacchantamagniṃ yena ghṛtenājigharmi | āsiñcāmi | arakṣasā bādhakarahitena manasā stotreṇa saha tadājyaṃ juṣeta | bhavān seveta | maryaśrīḥ | maryairmartyaiḥ śrayaṇīyo bhajanīyaḥ | spṛhayadvarṇaḥ | yādṛśaṃ varṇaṃ yajamānaḥ spṛhayati tādṛśavarṇopetaḥ | tenā [?] tejasā jarbhurāṇaḥ pūryamāṇo 'gnirnābhimṛśe | atitejasvitayobhimarśanīyo [?] na bhavati ‖ abhipūrvānmṛśeḥ kṛtyārthe kenpratyayaḥ |*
+
+*(Two places are marked [?]: तेना (*tenā*) at the end of a line (the letters look like ते/त + ना, perhaps for तन्वा (*tanvā*) or तेन (*tena*)), and अतितेजस्वितयोभिमर्शनीयो (*atitejasvitayobhimarśanīyo*) (the vowel sign after त + य looks like ो; one would expect ा). The grammatical tail अभिपूर्वान्मृशेः कृत्यार्थे केन्प्रत्ययः (*abhipūrvān mṛśeḥ kṛtyārthe kenpratyayaḥ*) says that after the root मृश् with the prefix अभि the suffix केन् is used in the sense of a kṛtya; it is transcribed only, and the form केन्प्रत्ययः is as printed.)*
+
+*Pratipadārtha (Kannada, translated; it runs over to p. 572)*
+
+विश्वतः (*viśvataḥ*)—him who pervades everywhere. प्रत्यञ्चं (*pratyañcaṃ*)—him who comes facing the sacrifice. Having in view Agni, such as he is: आ जिघर्मि (*ā jigharmi*)—I offer ājya in the form of a sprinkling. अरक्षसा (*arakṣasā*)—free of obstructers. मनसा (*manasā*)—offered with the hymn of praise. तत् (*tat*)—that ājya. जुषेत (*juṣeta*)—may Agni enjoy (it). मर्यश्रीः (*maryaśrīḥ*)—him who is resorted to by human beings. स्पृहयद्वर्णः (*spṛhayadvarṇaḥ*)—the colour that attracts the sacrificer (continued on p. 572).
+
+---
+
+**Progress note:** Done through printed p. 571 (PDF 593); offset printed = PDF − 22 holds. Sūkta 10: Ṛk 3 is complete (its Viśeṣaviṣayagaḷu on शिरिणायां/अक्तुना, Ni. 2-18, ended on p. 569); Ṛk 4 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on p. 571). Ṛk 5 is **open**: Saṃhitā, Pada, bhāṣya (with its grammatical tail) and the Pratipadārtha are written up to ⟦स्पृहयद्वर्णः⟧ (p. 571 ends in mid-Pratipadārtha: next page continues it with ⟦स्पृहयद्वर्णः⟧'s gloss, then ⟦अग्निः⟧, ⟦न⟧, ⟦अभिमृशे⟧ and the rest, followed by Bhāvārtha, printed English and Special Topics). Flags: FILE DISAGREE none (numeral file rows Ni. 2-18 ×2 agree); unzoomed numerals: varga numeral "2" in the headers of pp. 569 and 571 (file groups agree), ॥ ४ ॥ and ॥ ५ ॥. [?] places: p. 569 ⟦अस्यावश्यायेन⟧ (stray hooked sign) and the printed ⟦शीज्⟧; p. 570 ⟦अवकाशनवन्तेमन्नैरन्नादं⟧ and ⟦मर्यश्रीरित्येष⟧; p. 571 Ṛk 5 ⟦तन्वा⟧ (Saṃhitā, Pada), bhāṣya ⟦तेना⟧ and ⟦अतितेजस्वितयोभिमर्शनीयो⟧.
