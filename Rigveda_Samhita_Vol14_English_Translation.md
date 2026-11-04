@@ -23507,4 +23507,162 @@ The poet has thus described the qualities a friend must have. That is: a man who
 
 ---
 
-**Progress note:** Done through printed p. 616 (PDF 638). Sūkta 11: Ṛk 14 complete (Pratipadārtha, Bhāvārtha, printed English, Special Topics: क्षयं, मित्रं with the Ṛ. Saṃ. 10-117-4 verse and the six-fold mark of a friend; मारुतं शर्धः; सजोषसः with Nirukta 8-8 and two Ṛk quotations; वायुवः; अग्रनीतिं). Ṛk 15 begun: Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha (through व्यन्तु इत्—"having come…") on p. 616; Ṛk 15 is left OPEN. Flags: references 10-117-4, 8-8 and 10-110-3 follow the numeral file and agree with the strips; the fourth reference (p. 615, Ṛ. Saṃ. 4-3-2-11) is read with hyphens, the file gave "43-2-11" (unzoomed); Ṛk number ॥१५॥ and the running headers unzoomed. [?] places, all unzoomed: p. 615 quoted Ṛk वन्द्यश्चायोह्यग्ने and एनन्यक्षेषितो; p. 616 द्रृह्यत् (दृह्यत्?) in Saṃhitā, Pada and bhāṣya; माद्यन्भवसि; सुष्ठु; अस्मत्पालनेन; also अग्रणीतिं (ण) in the p. 614 Pratipadārtha against अग्रनीतिं elsewhere. Pada compound marks in सऽजोषसः, अग्रऽनीतिं (p. 614) as before.
+### Printed p. 617 (PDF 639)
+
+*(Header: "A. 2 A. 6 V. 5 ]" as it looks, "Ṛgvedasaṃhitā", "617". The page opens in the middle of the Pratipadārtha of Ṛk 15, begun on p. 616.)*
+
+**प्रतिपदार्थ (Pratipadārtha)** *(continued from p. 616)*
+
+- (व्यन्तु इत् (continued) — having come …) the page begins "… let them partake of the Soma" (printed ಸೋಮುನ್ನು ಭಕ್ಷಿಸಲಿ, apparently for ಸೋಮವನ್ನು [sic]);
+- द्रृह्यत् (*drṛhyat*) [?]—you who have attained firmness (dārḍhya);
+- तृपत् (*tṛpat*)—producing satisfaction;
+- सोमं (*somaṃ*)—the Soma juice;
+- पाहि (*pāhi*)—drink;
+- तरुत्र (*tarutra*)—O Indra, destroyer of enemies;
+- बृहद्भिः (*bṛhadbhiḥ*)—endowed with strength;
+- अर्कैः (*arkaiḥ*)—and worthy of worship; you, together with such Maruts;
+- अस्मान् आ द्याम् (*asmān ā dyām*)—us and the people of the world of the gods;
+- सु (*su*)—in an excellent manner;
+- पृत्सु (*pṛtsu*)—(so that we are) furnished with cattle, sons and the like;
+- अवर्धयः (*avardhayaḥ*)—cause to prosper.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, let those Maruts, who are your helpers and in whom you are filled with joy, come quickly and partake of the Soma (drink it). You, who have attained firmness, drink the Soma juice that produces satisfaction. O Indra, destroyer of enemies, you who are accompanied by Maruts that are mighty and worthy of worship, cause us and the people of the world of the gods to prosper in an excellent manner, together with cattle, sons and the like.
+
+**English Translation** *(as printed)*
+
+Let those in whom you are delighted repair (to the libation), and do you, Indra, confiding, drink the satiating Soma: liberator (from evil), associated with the mighty and adorable (Maruts), augment our prosperity, and (that of) heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the matter of Indra's drinking Soma together with the Marut deities is indicated. On this matter—
+
+*(Ṛ. Saṃ. 3-47-2; the Ṛk is quoted as printed, with an accent sign above the ऋ-conjunct of शत्रूरप.)*
+
+> सजोषा इन्द्र सगणो मरुद्भिः सोमं पिब वृत्रहा शूर विद्वान् ।
+> जहि शत्रूरप मृधो नुदस्वाथाभयं कृणुहि विश्वतो नः ॥
+
+> *sajoṣā indra sagaṇo marudbhiḥ somaṃ piba vṛtrahā śūra vidvān |*
+> *jahi śatrūrapa mṛdho nudasvāthābhayaṃ kṛṇuhi viśvato naḥ ‖*
+
+*(Ṛ. Saṃ. 1-101-9)*
+
+> अधा नियुत्वः सगणो मरुद्भिरस्मिन् यज्ञे बर्हिषि मादयस्व
+
+> *adhā niyutvaḥ sagaṇo marudbhirasmin yajñe barhiṣi mādayasva*
+
+*(Ṛ. Saṃ. 3-47-4)*
+
+> ये त्वा नूनमनुमदन्ति विप्राः पिबेन्द्र सोमं सगणो मरुद्भिः ।
+
+> *ye tvā nūnamanumadanti viprāḥ pibendra somaṃ sagaṇo marudbhiḥ |*
+
+*(Ṛ. Saṃ. 3-52-7; the first word is printed as अप्रूपमद्धि [?], read letter by letter)*
+
+> अप्रूपमद्धि [?] सगणो मरुद्भिः सोमं पिब वृत्रहा शूर विद्वान् ।
+
+> *aprūpamaddhi [?] sagaṇo marudbhiḥ somaṃ piba vṛtrahā śūra vidvān |*
+
+*(Ṛ. Saṃ. 4-34-7)*
+
+> सजोषा इन्द्र वरुणेन सोमं सजोषाः पाहि गिर्वणो मरुद्भिः ।
+
+> *sajoṣā indra varuṇena somaṃ sajoṣāḥ pāhi girvaṇo marudbhiḥ |*
+
+*(The Special Topics continue on p. 618.)*
+
+---
+
+### Printed p. 618 (PDF 640)
+
+*(Header: "618", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11".)*
+
+In these and other Ṛks Indra is invoked and prayed to drink Soma together with the Marut deities.
+
+**तरुत्र (*tarutra*)—शत्रूणां हिंसक (*śatrūṇāṃ hiṃsaka*) ।** "Destroyer of enemies": Sāyaṇa explains the word तरुत्र (*tarutra*) as "one who does violence to enemies". Yāska, when giving the explanation of the Ṛk—
+
+> त्यमूषु वाजिनं देवजूतं सहूवानं [?] तरुतारं रथानाम् ।
+
+> *tyamūṣu vājinaṃ devajūtaṃ sahūvānaṃ [?] tarutāraṃ rathānām |*
+
+*(Ṛ. Saṃ. — the reference is left blank in the print; the word सहूवानं is read letter by letter and marked [?].)*
+
+—explains the word तरुतारं (*tarutāraṃ*) as तारयितारं (*tārayitāraṃ*), "one who carries (us) across (dangers)".
+
+**नु, इत् (*nu, it*)—** नु (*nu*) means क्षिप्रं (*kṣipraṃ*), "quickly"; इत् (*it*) is used in the sense of एवार्थे (*evārthe*), "indeed" (the print looks like ವಿವಾರ್ಥೇ; the Kannada gloss that follows says "ಏವಾರ್ಥ").
+
+**अर्कैः (*arkaiḥ*)—अर्चनीयैः (*arcanīyaiḥ*) ।** "Worthy of worship": it is used as an adjective of the Marut deities.
+
+**अस्मान् सु पृत्सु आ तरुत्र अवर्धयः द्यां बृहद्भिः अर्कैः (*asmān su pṛtsu ā tarutra avardhayaḥ dyāṃ bṛhadbhiḥ arkaiḥ*)—** The sense that the bhāṣyakāra has given to this sentence of the second half does not seem quite appropriate here. The sentence can be explained in another way. The word पृत्सु (*pṛtsu*) is read among the names of battle (Ni. 3-9). For the word द्यु (*dyu*) there is the explanation द्यौरित्यह्नो नामधेयं द्योतत इति सतः (*dyaurityahno nāmadheyaṃ dyotata iti sataḥ*) [?] ("dyau is a name of the day, because it shines"), meaning "day" (Ni. 1-7). The word अर्क (*arka*) also means food: अर्कमन्नं भवति (*arkamannaṃ bhavati*) (Ni. 3-9). Taking these meanings and explaining the sentence above—
+
+> तरुत्र शत्रुहिंसकेन्द्र । पृत्सु संग्रामेषु अस्मान् सु आ अवर्धयः शत्रुभिः रक्षित्वा यथा जयं लभेमहि तथा सुष्ठु वृद्धिं कुरुष्व । किंच द्यां अहस्सु दिवसेषु बृहद्भिरर्कैः प्रभूतान्नैर्नानाविधैरन्नैर्वा अस्मानवर्धयः त्वत्प्रसाद्वृद्धिं [?] लभेमहि ॥
+
+*Gist: O Indra, protect us from enemies in battles so that we win and grow well; and let us grow day by day through abundant, varied food.*
+
+That is: O Indra, destroyer of enemies, protect us from the enemies in battles and cause us to prosper well, so that we obtain victory; and further, make us prosper every day with abundant food. Another sense of this kind can also be stated.
+
+*(A short rule closes the page.)*
+
+---
+
+### Printed p. 619 (PDF 641)
+
+*(Header: "A. 2 A. 6 V. 6.]" as it looks, "Ṛgvedasaṃhitā", and the page number printed "119" [sic] for 619.)*
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> बृहन्त इन्नु ये ते तरुत्रोक्थेभिर्वा सुम्नमाविवासान् ।
+> स्तृणानासो बर्हिः पस्त्यावत्त्वोता इदिन्द्र वाजमुग्मन् ॥ १६ ॥
+
+> *bṛhanta innu ye te tarutrokthebhirvā sumnamāvivāsān |*
+> *stṛṇānāso barhiḥ pastyāvattvotā idindra vājamugman ‖ 16 ‖*
+
+**॥ पदपाठः ॥**
+
+> बृहन्तः । इत् । नु । ये । ते । तरुत्र । उक्थेभिः । वा । सुम्नं । आऽविवासान् ।
+> स्तृणानासः । बर्हिः । पस्त्यऽवत् । त्वाऽऊताः । इत् । इन्द्र । वाजं । अग्मन् ॥ १६ ॥
+
+> *bṛhantaḥ | it | nu | ye | te | tarutra | ukthebhiḥ | vā | sumnaṃ | ā 'vivāsān |*
+> *stṛṇānāsaḥ | barhiḥ | pastya 'vat | tvā 'ūtāḥ | it | indra | vājaṃ | agman ‖ 16 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O Indra, those who serve you with praises quickly become great; those who spread the barhis for you, guarded by you alone, obtain food together with a home.*
+
+*(The grammatical tail "विवासतेर्लेट्यडागमः" [?] — an remark on the augment अट् in the लेट् form of the root विवास — is printed; no sūtra number is given.)*
+
+> तरुत्र आपद्भ्यस्तारक हे इन्द्र ये पुमांसः सुम्नं सुखकरं त्वामुक्थैः शस्त्रैराविवासान् । परिचरेयुः ॥ विवासतेर्लेट्यडागमः [?] ॥ त एव पुमांसो नु क्षिप्रमविलम्बेन बृहन्तो महान्तो भवन्तीति पूरणः । किंच बर्हिः स्तृणानासो वेद्यां बर्हिराच्छादयन्तो ये त्वां परिचरन्ति ते त्वोता इत् त्वयैव रक्षिताः सन्त एव पस्त्यावत् गृहसहितं वाजमन्नमुग्मन् । गच्छन्ति ॥
+
+> *tarutra āpadbhyastāraka he indra ye pumāṃsaḥ sumnaṃ sukhakaraṃ tvāmukthaiḥ śastrairāvivāsān | paricareyuḥ ‖ vivāsaterleṭyaḍāgamaḥ [?] ‖ ta eva pumāṃso nu kṣipramavilambena bṛhanto mahānto bhavantīti pūraṇaḥ | kiṃca barhiḥ stṛṇānāso vedyāṃ barhirācchādayanto ye tvāṃ paricaranti te tvotā it tvayaiva rakṣitāḥ santa eva pastyāvat gṛhasahitaṃ vājamannamugman | gacchanti ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- तरुत्र (*tarutra*)—O protector from calamities;
+- इन्द्र (*indra*)—O Indra;
+- ये (*ye*)—which men;
+- सुम्नं (*sumnaṃ*)—(you) who are the giver of comfort (printed "ಸುಖಕರವಾದ ನಿನ್ನನ್ನು", "you, the comfort-giving", the adjective belonging to the object), with praises;
+- आविवासान् (*āvivāsān*)—worship;
+- ते (*te*)—those devotees of yours;
+- नु इत् (*nu it*)—quickly indeed;
+- बृहन्तः (*bṛhantaḥ*)—become possessed of great qualities and of a great position;
+- बर्हिः (*barhiḥ*)—the darbha seat;
+- स्तृणानासः (*stṛṇānāsaḥ*)—those who, spreading (on the altar) for you, worship you;
+- त्वोता इत् (*tvotā it*)—protected by you alone;
+- पस्त्यावत् (*pastyāvat*)—together with a house;
+- वाजं (*vājaṃ*)—food;
+- अग्मन् (*agman*)—obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, protector from calamities, those men who worship you with praises that bring comfort become, quickly, men of great qualities and of great standing, those devotees of yours. Those who spread the darbha seat on the altar for you and worship you are protected by you alone and obtain food together with a house.
+
+*(Ṛk 16 is left OPEN: the page ends with the Bhāvārtha; the printed English and the Special Topics follow on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 619 (PDF 641). Sūkta 11: Ṛk 15 complete (Pratipadārtha end, Bhāvārtha, printed English, Special Topics with five Soma-with-Maruts Ṛk quotations Ṛ. Saṃ. 3-47-2, 1-101-9, 3-47-4, 3-52-7, 4-34-7, and the p. 618 notes on तरुत्र, नु इत्, अर्कैः, the alternative sense via Nirukta 3-9, 1-7, 3-9). Ṛk 16 begun: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 619; Ṛk 16 is left OPEN (printed English and Special Topics to follow). Flags: all reference numerals agree with the numeral file (no FILE DISAGREE); the Yāska-quoted Ṛk reference on p. 618 is blank in the print; Ṛk number ॥१६॥, the running headers (p. 617 "A. 2 A. 6 V. 5", p. 619 "A. 2 A. 6 V. 6"), and the page number "119" [sic] for 619 unzoomed. [?] places, all unzoomed: p. 617 अप्रूपमद्धि; p. 618 सहूवानं, द्यौरित्यह्नो… (as read), इत् एवार्थे (print looks like ವಿವಾರ್ಥೇ), त्वत्प्रसाद्वृद्धिं; p. 619 विवासतेर्लेट्यडागमः; also द्रृह्यत् as before.
