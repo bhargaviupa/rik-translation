@@ -21959,4 +21959,146 @@ The asuras, driven away by the uktha of the ब्राह्मणाच्छ
 
 ---
 
-**Progress note:** Done through printed p. 583 (PDF 605). Sūkta 11, Ṛk 2: the Special Topics are still OPEN. They continue on p. 584 with the account from the Aitareya Brāhmaṇa of the asuras and the uktha, which breaks off at the foot of p. 583 at "ā kāladalli acchāvākanu," (the Acchāvāka recites at the third pressing; the Ṛk is not yet printed). No new Ṛk has begun. Flags: FILE DISAGREE none (all other numeral-file rows agree); unzoomed numerals: running headers (A. 2 A. 6 V. 3 on pp. 581 and 583; Maṃ. 2 A. 1 Sū. 11 on p. 582). Numerals read from the strip with doubt: p. 581 "6-25-2 [?]" (file read 6.252-2, garbled) and the group "1-3[?], 3-4, 5" (file also 1-3, 3-4, 5); the file's 10-22-6, 8 is used. [?] places: p. 581 Ṛ. 5-29-10 first word दस्योरमृणो; p. 582 ⟦तस्मादैन्द्रावरुणं⟧; p. 582 ⟦ते वा⟧ against ⟦ते वै⟧ later; p. 581 Ṛ. 2-20-8 ⟦धुर्हर्त्वी⟧ as printed; p. 583 ⟦उदुप्रुतो⟧ as printed.
+### Printed p. 584 (PDF 606)
+
+*(Header: "584", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The numeral file has four rows (6-69-1; 15-6; 4-2-3-10; 5-13-1). All agree with my reading of the strip, and I did not zoom any of them. The file's line 17 text is garbled, so I took the Sanskrit from the strip.)*
+
+The page begins with the Ṛk that the Acchāvāka recites. This completes the sentence left open at the foot of p. 583.
+
+> सं वां कर्मणा समिषा हिनोमीन्द्राविष्णू अपसस्पारे अस्य ।
+
+> *saṃ vāṃ karmaṇā samiṣā hinomīndrāviṣṇū apasaspāre asya |*
+
+(Ṛ. Saṃ. 6-69-1)
+
+He recited the sūkta that begins with this Ṛk and praised Indra and Viṣṇu. Then they drove the asuras away from there as well. This story is recorded in the Aitareya Brāhmaṇa (15-6). From it the power of the uktha and the greatness of Indra become known. For this very reason the Śatapatha Brāhmaṇa also says:
+
+> इन्द्रो वै यज्ञस्य देवता तस्मादाहेन्द्राय त्वेति बृहद्वते वयस्वत इति
+> वीर्यवत इत्येवैतदाह यदाह बृहद्वते वयस्वत इत्युक्थाख्यं गृह्णामी-
+> त्युक्थेभ्यो ह्येनं गृह्णाति ।
+
+> *indro vai yajñasya devatā tasmādāhendrāya tveti bṛhadvate vayasvata iti*
+> *vīryavata ityevaitadāha yadāha bṛhadvate vayasvata ityukthākhyaṃ gṛhṇāmī-*
+> *tyukthebhyo hyenaṃ gṛhṇāti |*
+
+(Śa. Brā. 4-2-3-10)
+
+Indra alone is the deity of the whole sacrifice. For this reason (the text) says "to Indra, endowed with the great (uktha) and endowed with vigour". By means of the uktha, which is the cause of Indra's vigour and of his satisfaction, it praises Indra himself.
+
+Just as the power of the uktha is described at the time of sacrifices and similar rites, so too the greatness of this uktha, which is of the nature of praise, is extolled at the time of teaching spiritual knowledge. In the Bṛhadāraṇyaka Upaniṣad:
+
+> उक्थं प्राणो वा उक्थं प्राणो हीदं सर्वमुत्थापयत्युद्धास्मादुक्थविद्वीरस्तिष्ठत्युक्थस्य
+> सायुज्यं सलोकतां जयति य एवं वेद ।
+
+> *ukthaṃ prāṇo vā ukthaṃ prāṇo hīdaṃ sarvamutthāpayatyuddhāsmādukthavidvīrastiṣṭhatyukthasya*
+> *sāyujyaṃ salokatāṃ jayati ya evaṃ veda |*
+
+(Bṛ. U. 5-13-1)
+
+*(The fourth word is printed like ಉದ್ಧಾಸ್ಮಾದ್ and I give it as printed.)*
+
+Gist of the Śāṅkarabhāṣya passage: the uktha is the main śastra of the Mahāvrata rite, and so it is *prāṇa*.
+
+> उक्थं तथोपासनान्तरम् । उक्थं शस्त्रम् । तद्धि प्रधानं महाव्रते क्रतौ ।
+
+> *ukthaṃ tathopāsanāntaram | ukthaṃ śastram | taddhi pradhānaṃ mahāvrate kratau |*
+
+(Śāṅkarabhāṣya)
+
+In the sacrifice called Mahāvrata the uktha, the principal śastra, is itself *prāṇa* (the vital breath). By it the rising up (*utthāna*) takes place. Therefore the son who knows the uktha is born, and obtains likeness to the father and an equal [?] respect. In this way the greatness of the uktha is stated.
+
+*(The word "equal" renders ಸವಾನವಾದ as printed; I take it as ಸಮಾನವಾದ [?].)*
+
+---
+
+#### Ṛk 3 (Sūkta 11)
+
+**Saṃhitā-pāṭha**
+
+> उक्थेष्विन्नु शूर येषु चाकन् स्तोमेष्विन्द्र रुद्रियेषु च ।
+> तुभ्येदेता यासु मन्दसानः प्र वायवे सिस्रते न शुभ्राः ॥
+
+**Pada-pāṭha**
+
+> उक्थेषु । इत् । नु । शूर । येषु । चाकन् । स्तोमेषु । इन्द्र । रुद्रियेषु । च ।
+> तुभ्य । इत् । एताः । यासु । मन्दसानः । प्र । वायवे । सिस्रते । न । शुभ्राः । ॥ ३ ॥
+
+> *uktheṣu | it | nu | śūra | yeṣu | cākan | stomeṣu | indra | rudriyeṣu | ca |*
+> *tubhya | it | etāḥ | yāsu | mandasānaḥ | pra | vāyave | sisrate | na | śubhrāḥ | ‖ 3 ‖*
+
+### Printed p. 585 (PDF 607)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **585**; unzoomed. The numeral file has no rows for this page.)*
+
+The Pada-pāṭha of the Ṛk, with its number ‖ 3 ‖, is printed at the head of the page. It is given above.
+
+**Sāyaṇa-bhāṣya** *(the heading is printed with a damaged first letter)*
+
+Gist: Indra, you love the uktha-śastras and the stomas. These bright praises approach you alone, on your way to our sacrifice, so accept them now.
+
+> हे शूरेन्द्र येषूक्थेषु होत्रादिभिः क्रियमाणेषु शस्त्रेषु रुद्रियेषु । रुद्रियं सुखम् । तत्साधनभूतेषु । यद्वा रुद्राः स्तोतारः । तत्कृतेषु उद्गातॄणां [?] स्तोमेषु च नु क्षिप्रं चाकन् । स्तुतीः कामयसे ॥ कमतेः कनतेर्वा यज्ल्कि [?] रूपम् ॥ यासु स्तोत्रशस्त्ररूपासु स्तुतिषु मन्दसानो हृष्यन् भवसि ता एताः शुभ्रा दीप्यमानाः स्तुतयो वायवेऽस्मदीयं यज्ञं प्रत्यागच्छते तुभ्यैत् तुभ्यमेव प्रसिस्रते । त्वदर्थमेव प्रसरन्ति । न सम्प्रत्यर्थे । ता अधुना सेवस्व ॥
+
+> *he śūrendra yeṣūktheṣu hotrādibhiḥ kriyamāṇeṣu śastreṣu rudriyeṣu | rudriyaṃ sukham | tatsādhanabhūteṣu | yadvā rudrāḥ stotāraḥ | tatkṛteṣu udgātṝṇāṃ [?] stomeṣu ca nu kṣipraṃ cākan | stutīḥ kāmayase ‖ kamateḥ kanatervā yajlki [?] rūpam ‖ yāsu stotraśastrarūpāsu stutiṣu mandasāno hṛṣyan bhavasi tā etāḥ śubhrā dīpyamānāḥ stutayo vāyave 'smadīyaṃ yajñaṃ pratyāgacchate tubhyait tubhyameva prasisrate | tvadarthameva prasaranti | na sampratyarthe | tā adhunā sevasva ‖*
+
+*(Grammatical tail: चाकन् (*cākan*) is derived from कमतेः (*kamateḥ*) or कनतेः (*kanateḥ*), as a form of the intensive with elided affix. The printed word for the affix reads like ಯಜ್ಲ್ಕಿ, and I give it as यज्ल्कि with [?]. The word उद्गातॄणां (*udgātṝṇāṃ*) is printed like ಉದ್ಗಾತ್ರ್ಯಾಣಾಂ and is also uncertain.)*
+
+**Pratipadārtha**
+
+- शूर (*śūra*)—valiant.
+- इन्द्र (*indra*)—O Indra.
+- येषु (*yeṣu*)—in which.
+- उक्थेषु (*uktheṣu*)—in praises that have the form of uktha, and
+- रुद्रियेषु (*rudriyeṣu*)—(in those) that give happiness, or that are recited by the Udgātṛ priests,
+- स्तोमेषु (*stomeṣu*)—in praises in the form of stoma.
+- च नु (*ca nu*)—as soon as they are recited.
+- चाकन् (*cākan*)—you show your delight (or not [?]).
+- यासु (*yāsu*)—in which hymn-like mantras
+- मन्दसानः (*mandasānaḥ*)—you take delight.
+- एताः (*etāḥ*)—such.
+- शुभ्राः (*śubhrāḥ*)—shining praises.
+- वायवे (*vāyave*)—to you, who are coming to the sacrifice.
+- तुभ्यैत् (*tubhyait*)—for you alone.
+- न (*na*)—now.
+- प्र सिस्रते (*pra sisrate*)—spreading out, they approach you.
+
+*(The Kannada has "ಅಲ್ಲದೇ" in brackets after चाकन् (*cākan*); I give it as printed.)*
+
+**Bhāvārtha**
+
+O valiant Indra, in the praises that have the form of uktha, and in the stomas that give happiness, you show your delight as soon as they are recited. You are delighted by the mantras that have the form of hymns. Such shining praises, now recited for you alone, who are coming to the sacrifice, are approaching you. Accept them.
+
+**English Translation (as printed)**
+
+Indra, hero, these brilliant (laudations), in (the form of) hymns, in which you delight, and in (that of) the praises uttered by the worshippers by which you are gratified, are addressed to you, to bring you, (to our sacrifice).
+
+### Printed p. 586 (PDF 608)
+
+*(Header: "586", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The numeral file has no rows for this page. The numbers in the stoma examples (1, 2, 3 and so on) are read from the strip, unzoomed, and the permutations are consistent.)*
+
+**Viśeṣaviṣayagaḷu (Special Topics)**
+
+**रुद्रियेषु (*rudriyeṣu*)**—The word रुद्रः (*rudraḥ*) is listed among the thirteen names of worshippers [?] beginning with रेभः (*rebhaḥ*) and जरिता (*jaritā*). So रुद्रियेषु (*rudriyeṣu*) means "in the stotras, or in the stomas, recited by the priests called Udgātṛ".
+
+*(The Kannada word is printed like ಸ್ತೋತೃಸಾಮುಗಳಲ್ಲಿ. I take it as "names" [?].)*
+
+**वायवे (*vāyave*)**—This word is derived from the root वा गतिगन्धनयोः (*vā gatigandhanayoḥ*). It means "coming". The sense is: for you, who are coming to the place of sacrifice, aiming at our sacrifice.
+
+**स्तोमेषु (*stomeṣu*)**—In the Abhiplava Ṣaḍaha sacrifice, take the odd days, the first, third and fifth. At the Mādhyandina savana of those days (the midday pressing, when the soma juice is squeezed out), the Udgātṛ and the other priests chant with the sāman called रथन्तर (*rathantara*). These days are therefore called रथन्तरपृष्ठ (*rathantarapṛṣṭha*) days. In the same way the even days, the second, fourth and sixth, are chanted with the sāman called बृहत्साम (*bṛhatsāma*) ("Bṛhat"), and are called बृहत्पृष्ठ (*bṛhatpṛṣṭha*) days. From the third day onward, when the पृष्ठ्यस्तोत्र (*pṛṣṭhyastotra*) are recited every day, special sāmans are sung in its place. These are called वैरूप (*vairūpa*), वैराज (*vairāja*) and शाक्वररैवत (*śākvararaivata*). At that time, according to the sāman-chanting, the priests of the hotṛ group recite certain Ṛks that are called स्तोम (*stoma*). The explanation of स्तोम (*stoma*) is as follows:
+
+> एकं साम तृचे क्रियते । तस्य च तृचस्य आवृत्त्या ऋचां संख्या वर्धनीया भवति या स्तोमशब्देनोच्यते इति ॥
+
+> *ekaṃ sāma tṛce kriyate | tasya ca tṛcasya āvṛttyā ṛcāṃ saṃkhyā vardhanīyā bhavati yā stomaśabdenocyate iti ‖*
+
+A तृच (*tṛca*) is a group of three Ṛks. All three must treat of one and the same deity. The तृच (*tṛca*) can be made to yield many Ṛks in two ways. One is by arranging such Ṛks in various ways by changes of position. The other is by reciting each Ṛk more than once. For example, suppose a तृच (*tṛca*) contains Ṛks 1, 2 and 3. They may be recited in the following orders by changes of position:
+
+1, 2, 3; 3, 2, 1; 1, 3, 2; 2, 1, 3; 2, 3, 1; 3, 1, 2, and so on.
+
+Or by greater repetition:
+
+1, 1, 1, 2, 3; 1, 2, 2, 2, 3; 1, 2, 3, 3, 3, and so on.
+
+When they are recited in this way, three Ṛks become many Ṛks. Reciting the three Ṛks of a तृच (*tṛca*) in some one order, that is 1, 2, 3, or 1, 2, 3, 3, 3 and so on, is called a पर्याय (*paryāya*). When there are three such पर्याय (*paryāya*) they make one विष्टुति (*viṣṭuti*). For each stoma such विष्टुति (*viṣṭuti*) have different names, and many [the sentence is cut off at the foot of the page and continues on p. 587]
+
+---
+
+**Progress note:** Done through printed p. 586 (PDF 608). Sūkta 11, Ṛk 3 (Saṃhitā, Pada, Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and printed English complete); its Special Topics (Viśeṣaviṣayagaḷu) are OPEN. The Special Topics so far cover ⟦रुद्रियेषु⟧, ⟦वायवे⟧ and ⟦स्तोमेषु⟧ (stoma, tṛca, paryāya, viṣṭuti). The sentence breaks off at the foot of p. 586 at "pratiyondu stōmakkū intaha viṣṭutigaḷu bērebēre hesarinda anēka" and continues on p. 587. The Special Topics of Ṛk 2 ended on p. 584 (Aitareya Brāhmaṇa account of the uktha, ŚB 4-2-3-10, BU 5-13-1, Śāṅkarabhāṣya). Flags: FILE DISAGREE none (rows for p. 584 agree; the file's garbled line 17 text was not used); unzoomed numerals: running headers (A. 2 A. 6 V. 3 on p. 585; Maṃ. 2 A. 1 Sū. 11 on pp. 584 and 586), Ṛk number ‖3‖ and the stoma numerals on p. 586. [?] places: p. 585 bhāṣya ⟦उद्गातॄणां⟧ and the affix word ⟦यज्ल्कि⟧; p. 584 ⟦उद्धास्मात्⟧ and "equal" (ಸವಾನ as printed); p. 586 "names of worshippers" (ಸ್ತೋತೃಸಾಮುಗಳಲ್ಲಿ as printed).
