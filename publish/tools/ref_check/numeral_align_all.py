@@ -49,8 +49,12 @@ for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
         pre = l[max(0, m.start() - 110): m.start()]; post = l[m.end(): m.end() + 40]
         try: lat = fold(deva_to_iast(pre + " " + post))
         except Exception: lat = fold(pre + post)
+        v = "-".join(ps)
+        dup = next((k for k in reversed(mrows[cur][-12:]) if k["val"] == v and n - k["last"] <= 8), None)
+        if dup:   # same reference repeated on the IAST twin / English rendering: count once
+            dup["last"] = n; dup["q"] = dup["q"] or bool(m.group(2)); dup["occ"] += 1; continue
         seq += 1
-        mrows[cur].append(dict(seq=seq, line=n, printed=printed, val="-".join(ps), q=bool(m.group(2)), tok=m.group(0).strip(), f=lat))
+        mrows[cur].append(dict(last=n, occ=1, seq=seq, line=n, printed=printed, val="-".join(ps), q=bool(m.group(2)), tok=m.group(0).strip(), f=lat))
 def score(f, m):
     d = digsim(f["val"], m["val"])
     c = fuzz.partial_ratio(f["f"][-60:], m["f"]) / 100 if f["f"] and m["f"] else 0
