@@ -73,7 +73,10 @@ def main():
     raw, rf, ridx = load_ref(a.ref)
     client = None
     if not a.dry_run:
-        import anthropic; client = anthropic.Anthropic()
+        import anthropic
+        key = os.environ.get("RIK_API_KEY") or os.environ.get("ANTHROPIC_API_KEY")
+        if not key: sys.exit("Set RIK_API_KEY (or ANTHROPIC_API_KEY) first.")
+        client = anthropic.Anthropic(api_key=key)
     rows = []
     for n, page, line in [t for t in targets(a.md, a.scan_all, a.page) if a.from_line <= t[0] <= a.to_line][: a.limit]:
         q = line.lstrip("> ").replace("[?]", " ")
