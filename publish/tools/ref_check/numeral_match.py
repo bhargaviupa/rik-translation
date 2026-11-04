@@ -29,7 +29,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--md", required=True); ap.add_argument("--num", required=True)
     ap.add_argument("--out", default="numeral_candidates.tsv")
-    ap.add_argument("--window", type=int, default=4, help="+- PDF pages around the md page")
+    ap.add_argument("--window", type=int, default=2, help="+- PDF pages around the md page")
     ap.add_argument("--min-score", type=float, default=70)
     ap.add_argument("--sukta", type=int); ap.add_argument("--from-line", type=int, default=0)
     ap.add_argument("--to-line", type=int, default=10**9)
@@ -60,7 +60,8 @@ def main():
             pre = l[max(0, m.start() - 70): m.start()]
             if not re.search(r"[०-९0-9\]]", pre[-9:]): continue          # numeral-type [?] only
             mdnum = "-".join(re.findall(r"\d+", pre[-14:].translate(D2A)))
-            q = fold(deva_to_iast(pre))[-45:]
+            dpre = "".join(re.findall(r"[\u0900-\u097f]+", l[max(0, m.start() - 120): m.start()]))   # Sanskrit words only
+            q = fold(deva_to_iast(dpre))[-40:]
             if len(q) < 12: continue
             best = (0, None)
             for pg in range(page - a.window, page + a.window + 1):
