@@ -23233,4 +23233,143 @@ May we, your pious (worshippers), abide in you : approaching you with devotion, 
 
 ---
 
-**Progress note:** Done through printed p. 610 (PDF 632). Sūkta 11: Ṛk 11 is now complete: its Special Topics ended on pp. 608–609 with the sūkta 10-119 quotation (13 pādas) and the Kannada rendering of its verses 1–13, followed by the closing remark that further descriptions are left to their own contexts. Ṛk 12 is begun: Saṃhitā, Pada, bhāṣya (the tail is cut at the p. 609/610 break), Pratipadārtha, Bhāvārtha and printed English are done. Its Special Topics have two items (अपि; विप्राः/वयं) and are left OPEN, since p. 611 has not been read. Flags: no FILE DISAGREE (file rows for 10-119-1 to 13 and Nirukta 1-4 agree). [?] places, all unzoomed: अक्षिपच्छनाच्छान्त्सः (verse 6) and भुवमभीमां (verse 8) in the 10-119 quotation; the Pada word ऋत्यया, which differs from the Saṃhitā ऋतया; the grammatical-tail letters आशीर्लिङ् … ष्यङ्प्रत्ययः in the bhāṣya. The verse numbers of 10-119 (1–12; the thirteenth has none printed), the running headers of pp. 609–610 and the Ṛk number ॥१२॥ are unzoomed. The page-609 "[39] Vol. 14." is only a printer's signature mark.
+### Printed p. 611 (PDF 633)
+
+*(Header: "A. 2 A. 6 V. 5 ]" as it looks (Aṣṭaka 2, Adhyāya 6, Varga 5), "Ṛgvedasaṃhitā", "611". The page opens in the middle of the Special Topics of Ṛk 12.)*
+
+**ऋतया (*ṛtayā*)—** The Kannada glyphs of the heading are printed in an odd way (they look like ऋतेयो), but the same word is quoted below in the running text as ऋतया; read here as ऋतया. The various meanings of the word ऋत (*ṛta*) have been explained at length by us in Ṛ. Saṃ. (Ṛgveda Saṃhitā) Part 10, pp. 143 and 673 (as printed; the numbers 143 and 673 are in Western digits). Here the bhāṣyakāra explains ऋत (*ṛta*) as कर्मफलं (*karmaphalaṃ*) ("fruit of action"), and so explains ऋतया (*ṛtayā*) as "from the desire for that fruit of action."
+
+**धियं वनेम ऋतया सपन्तः (*dhiyaṃ vanema ṛtayā sapantaḥ*)—** O Indra, from the desire for the fruit of the action we are performing, serving you, or performing action with you as its aim, we shall come near you (we shall attain you): this is the main intention of this sentence.
+
+**त्वे इन्द्राप्यभूम (*tve indrāpyabhūma*)—वयं त्वद्धृदयेऽभूम (*vayaṃ tvaddhṛdaye 'bhūma*).** It means: "may we be firmly set in you alone", or "may we be so as to be dear to you." The intention of the second half is clear.
+
+*(A short rule closes the Special Topics of Ṛk 12.)*
+
+---
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+*(Accent marks are not reproduced.)*
+
+> स्याम॒ ते त॑ इन्द्र॒ ये त॑ ऊ॒ती अ॑व॒स्यव॒ ऊर्जं॑ व॒र्धय॑न्तः ।
+> शु॒ष्मिन्त॑मं॒ यं चा॒कना॑म देवा॒स्मे र॒यिं रा॑सि वी॒रव॑न्तं ॥ १३ ॥
+
+> *syāma te ta indra ye ta ūtī avasyava ūrjaṃ vardhayantaḥ |*
+> *śuṣmintamaṃ yaṃ cākanāma devāsme rayiṃ rāsi vīravantaṃ ‖ 13 ‖*
+
+**॥ पदपाठः ॥**
+
+*(The small subscript stroke in the Pada, the compound mark, is rendered ऽ.)*
+
+> स्याम । ते । ते । इन्द्र । ये । ते । ऊती । अवस्यवः । ऊर्जं । वर्धयन्तः ।
+> शुष्मिन्ऽतमं । यं । चाकनाम । देव । अस्मे इति । रयिं । रासि । वीरऽवन्तं ॥ १३ ॥
+
+> *syāma | te | te | indra | ye | te | ūtī | avasyavaḥ | ūrjaṃ | vardhayantaḥ |*
+> *śuṣmin 'tamaṃ | yaṃ | cākanāma | deva | asme iti | rayiṃ | rāsi | vīra 'vantaṃ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Those who, wishing your protection, strengthen you with oblation-food, we would belong to them; give us the most powerful wealth with heroic sons.*
+
+*(Grammatical tail: कनतेः कान्त्यर्थस्य (*kanateḥ kāntyarthasya*) … लोटि रूपं (*loṭi rūpaṃ*) explains चाकनाम as a Loṭ form of the root कन in the sense of desire, ending in the yaṅ-luk; the term of the middle letters is not certain, marked [?]. No sūtra numbers are printed.)*
+
+> हे इन्द्र ते तवोती ऊत्या प्रणयनेन । अवतेः प्राप्त्यर्थस्य क्तिनि रूपं ॥ ये ते तवावस्यवो रक्षाकामा ऊर्जं हविर्लक्षणमन्नं वर्धयन्तो भवन्ति ते तव वयं ते स्याम । त्वदधीना भवेम । देव द्योतमान हे इन्द्र शुष्मिन्तमं दानभागायार्हतया बलवत्तमं यद्वा शत्रूणां शोषयितृतमं यं रयिं चाकनाम । कामयामहे ॥ कनतेः कान्त्यर्थस्य यङ्लुगन्तस्य [?] लोटि रूपं ॥ वीरवन्तं पुत्रपौत्रैः सहितं तादृशं रयिमस्मे अस्मभ्यं रासि । देहि ॥
+
+> *he indra te tavotī ūtyā praṇayanena | avateḥ prāptyarthasya ktini rūpaṃ ‖ ye te tavāvasyavo rakṣākāmā ūrjaṃ havirlakṣaṇamannaṃ vardhayanto bhavanti te tava vayaṃ te syāma | tvadadhīnā bhavema | deva dyotamāna he indra śuṣmintamaṃ dānabhāgāyārhatayā balavattamaṃ yadvā śatrūṇāṃ śoṣayitṛtamaṃ yaṃ rayiṃ cākanāma | kāmayāmahe ‖ kanateḥ kāntyarthasya yaṅlugantasya [?] loṭi rūpaṃ ‖ vīravantaṃ putrapautraiḥ sahitaṃ tādṛśaṃ rayimasme asmabhyaṃ rāsi | dehi ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- इन्द्र (*indra*)—O Indra;
+- ते (*te*)—your;
+- ऊती (*ūtī*)—by favour;
+- ये (*ye*)—which devotees;
+- ते (*te*)—your;
+- अवस्यवः (*avasyavaḥ*)—desiring protection;
+- ऊर्जं (*ūrjaṃ*)—food in the form of oblation;
+- वर्धयन्तः (*vardhayantaḥ*)—offering abundantly, increase your strength;
+- ते (*te*)—belonging to their company;
+- स्याम (*syāma*)—we too shall be;
+- देव (*deva*)—O Indra, divine one;
+- शुष्मिन्तमं (*śuṣmintamaṃ*)—having strength to dry up (destroy) enemies;
+- यं (*yaṃ*)—which wealth;
+- चाकनाम (*cākanāma*)—we desire;
+- वीरवन्तं (*vīravantaṃ*)—accompanied by heroic sons and others;
+- रयिं (*rayiṃ*)—such wealth;
+- अस्मे (*asme*)—to us;
+- रासि (*rāsi*)—give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, those devotees who, by your favour, desire your protection and, offering oblation-food abundantly to you, increase your strength: we too shall join their company. O divine Indra, the wealth that we desire, having strength to dry up enemies and accompanied by heroic sons and others: give us such wealth.
+
+**English Translation** *(as printed)*
+
+(Printed on p. 612.)
+
+---
+
+### Printed p. 612 (PDF 634)
+
+*(Header: "612", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The Pratipadārtha of Ṛk 13 runs over from p. 611.)*
+
+**English Translation** *(as printed, Ṛk 13)*
+
+May we, (through) your (favour), Indra, be such as those are, who; desirous of your protection, augmeut [sic] (by their praises) your vigour : divine (Indra), you grant the wealth which we desire, (the source of) great power and of (numerous) progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**ऊती (*ūtī*)—ऊती ऊत्या प्रणयनेन । अवतेः प्राप्त्यर्थस्य क्तिनि रूपं । (*ūtī ūtyā praṇayanena | avateḥ prāptyarthasya ktini rūpaṃ |*)** Generally the word ऊति (*ūti*) in the Ṛgveda is derived from the root अव (*ava*) (in the sense of रक्षणे (*rakṣaṇe*), "protecting") and is used in the sense of protection. Here, however, the bhāṣyakāra says that the word ऊति (*ūti*) is formed from the root अवति (*avati*) in the sense of प्राप्ति (*prāpti*) ("attaining"), and that the word ऊती (*ūtī*), being in the nominative, must be given the sense of the instrumental ऊत्या (*ūtyā*). Therefore he explains the word here as "by causing attainment" or "by guidance."
+
+**अवस्यवः (*avasyavaḥ*)—** This word too is formed from the root अव (*ava*) (रक्षणे (*rakṣaṇe*)), and with the sense रक्षाकामाः (*rakṣākāmāḥ*) ("desiring protection") is an adjective of the understood word वयं (*vayaṃ*) ("we").
+
+**शुष्मिन्तमं वीरवन्तं रयिं चाकनाम (*śuṣmintamaṃ vīravantaṃ rayiṃ cākanāma*)—** In this sentence the word शुष्मिन्तमं (*śuṣmintamaṃ*) is explained as दानभागायार्हतया बलवत्तमं (*dānabhāgāyārhatayā balavattamaṃ*) (exceedingly powerful, since it is fit for the share of giving) or शत्रूणां शोषयितृतमं (*śatrūṇāṃ śoṣayitṛtamaṃ*) (most able to dry up or destroy enemies): the wealth रयिं (*rayiṃ*) being of that kind. In the same way the word वीरवन्तं (*vīravantaṃ*) is explained as पुत्रपौत्रैः सहितं (*putrapautraiḥ sahitaṃ*): wealth accompanied by sons, grandsons, servants and others who are heroes. Here
+
+---
+
+### Printed p. 613 (PDF 635)
+
+*(Header: "A. 2 A. 6 V. 5 ]" as it looks, "Ṛgvedasaṃhitāḥ" as printed, "613".)*
+
+शुष्मिन्तमं (*śuṣmintamaṃ*) and वीरवन्तं (*vīravantaṃ*) are two adjectival words of the word रयिं (*rayiṃ*). Explained word by word, the meaning is: wealth that is exceedingly powerful and accompanied by heroic sons and others. In Sanskrit, and in the Ṛgveda especially, when several things are to be designated it is customary to name one chief thing and to describe the other things, by the use of adjectival words, as being with that chief thing. But the main intention is that we should be given exceeding strength, that is, powers and capacities, and sons, grandsons, soldiers and other attendants who are valiant (fighting in battle like heroic warriors), and wealth.
+
+**अस्मे (*asme*)—** The word अस्मे (*asme*) is used in the sense of all seven cases. In the present Ṛk, take अस्मे (*asme*) as अस्मभ्यं (*asmabhyaṃ*), "to us", in the sense of the dative case.
+
+*(A short rule closes the Special Topics of Ṛk 13.)*
+
+---
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> रासि॒ क्षयं॒ रासि॑ मि॒त्रम॒स्मे रासि॒ शर्ध॑ इन्द्र॒ मारु॑तं नः ।
+> स॒जोष॑सो॒ ये च॑ मन्दसा॒नाः प्र वा॒यवः॑ पा॒न्त्यग्र॑णीतिं ॥ १४ ॥
+
+> *rāsi kṣayaṃ rāsi mitramasme rāsi śardha indra mārutaṃ naḥ |*
+> *sajoṣaso ye ca mandasānāḥ pra vāyavaḥ pāntyagraṇītiṃ ‖ 14 ‖*
+
+**॥ पदपाठः ॥**
+
+> रासि । क्षयं । रासि । मित्रं । अस्मे इति । रासि । शर्धः । इन्द्र । मारुतं । नः ।
+> सऽजोषसः । ये । च । मन्दसानाः । प्र । वायवः । पान्ति । अग्रऽनीतिं ॥ १४ ॥
+
+> *rāsi | kṣayaṃ | rāsi | mitraṃ | asme iti | rāsi | śardhaḥ | indra | mārutaṃ | naḥ |*
+> *sa 'joṣasaḥ | ye | ca | mandasānāḥ | pra | vāyavaḥ | pānti | agra 'nītiṃ ‖ 14 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra is asked to give a house, a friend, and the strength of the Maruts, who gladly drink the Soma first led forward.*
+
+*(The tail "वाक्यभेदादनिघातः" is a short grammatical remark on the non-lowering of the accent because of the division of the sentence; no sūtra is printed. The bhāṣya ends at the foot of the page.)*
+
+> हे इन्द्र क्षयं । क्षियन्ति निवसन्त्यत्रेति क्षयो गृहं । तदस्मभ्यं रासि । देहि । तथा मित्रं सखायमस्मे अस्मभ्यं रासि ॥ वाक्यभेदादनिघातः ॥ मारुतं मरुतां देवविशां सम्बन्धि शर्धो बलं नोऽस्मभ्यं रासि । एतेन मरुतामस्यागमनं प्रार्थ्यते । ये मरुतः सजोषसः सह प्रीयमाणा मदन्तो मोदमाना वायवो यज्ञं प्रति गन्तारः सन्तोऽग्रणीतिमग्रे नीयमानं सोमं प्रपान्ति । प्रकर्षेण पिबन्ति तेषां शर्ध इति समन्वयः । यद्वा ये च वायवोऽग्रे नीयमानं सोमं पिबन्ति तेषां वायूनां बलं रासि ॥ वायुव इति पूजायां बहुवचनं । वायुर्हि सोमस्याग्रपातेति ॥
+
+> *he indra kṣayaṃ | kṣiyanti nivasantyatreti kṣayo gṛhaṃ | tadasmabhyaṃ rāsi | dehi | tathā mitraṃ sakhāyamasme asmabhyaṃ rāsi ‖ vākyabhedādanighātaḥ ‖ mārutaṃ marutāṃ devaviśāṃ sambandhi śardho balaṃ no 'smabhyaṃ rāsi | etena marutāmasyāgamanaṃ prārthyate | ye marutaḥ sajoṣasaḥ saha prīyamāṇā madanto modamānā vāyavo yajñaṃ prati gantāraḥ santo 'graṇītimagre nīyamānaṃ somaṃ prapānti | prakarṣeṇa pibanti teṣāṃ śardha iti samanvayaḥ | yadvā ye ca vāyavo 'gre nīyamānaṃ somaṃ pibanti teṣāṃ vāyūnāṃ balaṃ rāsi ‖ vāyuva iti pūjāyāṃ bahuvacanaṃ | vāyurhi somasyāgrapāteti ‖*
+
+*(Ṛk 14 is left open: the Pratipadārtha has not yet been read.)*
+
+---
+
+**Progress note:** Done through printed p. 613 (PDF 635). Sūkta 11: the Special Topics of Ṛk 12 are completed (ऋतया; धियं वनेम ऋतया सपन्तः; त्वे इन्द्राप्यभूम) on p. 611. Ṛk 13 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics: ऊती, अवस्यवः, शुष्मिन्तमं वीरवन्तं रयिं चाकनाम, अस्मे). Ṛk 14 is begun: Saṃhitā, Pada and bhāṣya are done; its Pratipadārtha, Bhāvārtha, printed English and Special Topics begin on p. 614 and Ṛk 14 is left OPEN. Flags: the numeral file had no rows for these pages, so no FILE DISAGREE; Ṛk numbers ॥१३॥ and ॥१४॥, the running headers of pp. 611–613 and the Western-digit reference "Ṛ. Saṃ. Part 10, pp. 143 and 673" are unzoomed. The Special Topics heading glyphs ऋतेयो are read as ऋतया, which also supports reading ऋतया (not ऋत्यया) in the Pada of Ṛk 12 (that earlier Pada [?] reading was left unchanged because earlier text is closed). [?] places, all unzoomed: यङ्लुगन्तस्य in the bhāṣya tail of Ṛk 13; the Pada compound marks (ऽ) in शुष्मिन्ऽतमं, वीरऽवन्तं, सऽजोषसः, अग्रऽनीतिं; दानभागायार्हतया (read the same in the bhāṣya and the Special Topics).
