@@ -20685,4 +20685,126 @@ We adore you, Agni, in your loftiest birth-(place), and with hymns in your infer
 
 ---
 
-**Progress note:** Done through printed p. 553 (PDF 575); the offset printed = PDF − 22 holds, and the printed numbers 551, 552 and 553 agree with the task's labels. Sūkta 9: Ṛk 2 is finished (Bhāvārtha, printed English, Special Topics on dūtaḥ, paraspāḥ, vṛṣabha, tokasya/tane with the Nirukta and Yāska passages, and ⟦नः तनूनां गोपाः⟧ with the Aitareya Brāhmaṇa quotation, ending "(p. 449)"). Ṛk 3 follows with Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English (printed "cffered" marked [sic]). **Ṛk 3 is open in the Viśeṣaviṣayagaḷu**: the Bṛhaddevatā passage (Bṛ. De. 1-61; 1-64) has been quoted, and the Kannada sentence stops at "…Prajāpati, the source of all beings, for all moving and unmoving beings of past, future and present … [creation]"; the next batch starts at the top of printed p. 554 (PDF 576) and continues that sentence. Flags: FILE DISAGREE none (the file's numerals 3-2, 7-46-3, 10.7, 1-28, 1-95-3 and 1-61/1-64 agree with my reading, but none was zoomed). Unzoomed numerals: Nirukta 3-2 and 10.7 (separator unclear), Ṛ. Saṃ. 7-46-3, Ai. Brā. 1-28, "p. 449", Ṛ. Saṃ. 1-95-3, Bṛ. De. 1-61/1-64, and the headers. [?] places: Pada ⟦संऽइद्धे⟧ (strip seems to print ಸಂ); bhāṣya ⟦सदस्थे⟧ (ದ or ಧ); ⟦ऋतून्प्रशासद्वि⟧ in the RV 1.95.3 quotation; initial of ಪ್ರಜಾಪತಿ in the last line; the word "negligence" carried over from p. 550.
+*(The Kannada sentence left open on printed p. 553 continues here.)*
+
+### Printed p. 554 (PDF 576)
+
+*(Header: **554**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The numeral file agrees with the numerals read from the strips.)*
+
+(Kannada, translated:) "… [being] the source of the dissolutions (pralaya (*pralaya*)), [Prajāpati] has obtained his existence in the form of Agni, in three ways, in three places. The manifestation of this threefold Agni, too, the ṛṣis state with three names, as seen below," and so, continuing the praise of that same Agni—
+
+> त्रिस्थानं चैनमर्चंति होत्रायां वृक्तबर्हिषः ॥
+> इहैव पवमानोऽग्निर्मध्यमोऽग्निर्वनस्पतिः ।
+> अमुष्मिन्नेव विप्रैस्तु लोकेऽग्निः शुचिरुच्यते ॥
+> इहाग्निभूतस्त्वृषिभिर्लोके स्तुतिभिरीळितः ।
+> जातवेदाः स्तुतो मध्ये स्तुतो वैश्वानरो दिवि ॥
+
+> *tristhānaṃ cainamarcaṃti hotrāyāṃ vṛktabarhiṣaḥ ‖*
+> *ihaiva pavamāno 'gnirmadhyamo 'gnirvanaspatiḥ |*
+> *amuṣminneva vipraistu loke 'gniḥ śucirucyate ‖*
+> *ihāgnibhūtastvṛṣibhirloke stutibhirīḷitaḥ |*
+> *jātavedāḥ stuto madhye stuto vaiśvānaro divi ‖*
+
+(Printed reference: Bṛ. De. 1-65 to 67 (the file reads 1-65 … 67).)
+
+(Kannada, translated:) Among these three kinds, the Agni who manifests on the earth is known as पवमानाग्नि (*pavamānāgni*) (Pavamāna-agni), the Agni belonging to the middle world as वनस्पति (*vanaspati*) (Vanaspati), and the Agni who dwells in heaven as शुचि (*śuci*) (Śuci). These three divisions are also recited in the Taittirīya Saṃhitā (2-2-4) under the classification पवमान, शुचि, पावक (*pavamāna, śuci, pāvaka*) (Pavamāna, Śuci, Pāvaka). Besides this, the names अग्नि (*agni*) (Agni), जातवेदस् (*jātavedas*) (Jātavedas) and वैश्वानर (*vaiśvānara*) (Vaiśvānara) too indicate the three places and the three kinds of forms. The Nirukta authors also, with the Ṛksaṃhitā—
+
+> स्तोमेन हि दिवि देवासो अग्निमजीजनञ्छक्त्रभी रोदसिप्राम् ।
+> तमू अकृण्वन् त्रेधा भुवे कं स ओषधीः पचति विश्वरूपः ॥
+
+> *stomena hi divi devāso agnimajījanañchaktrabhī rodasiprām |*
+> *tamū akṛṇvan tredhā bhuve kaṃ sa oṣadhīḥ pacati viśvarūpaḥ ‖*
+
+(Printed reference: Ṛ. Saṃ. 10-88-10.)
+
+(Kannada, translated:) — having quoted this Ṛk, [Yāska] gives:
+
+> तमकुर्वंस्त्रेधाभावाय पृथिव्यामंतरिक्षे दिवीति शाकपूणिः ।
+
+> *tamakurvaṃstredhābhāvāya pṛthivyāmaṃtarikṣe divīti śākapūṇiḥ |*
+
+(Kannada, translated:) Following the explanation of Śākapūṇi, "in these three places, with the divisions earth, atmosphere and heaven, Agni has manifested in three forms, called अग्निः (*agniḥ*) (Agni), जातवेदाः (*jātavedāḥ*) (Jātavedāḥ) and वैश्वानर (*vaiśvānara*) (Vaiśvānara)": thus they explain these three forms clearly by the example of Saṃhitā sentences. (Printed reference: Ni. 7-14 to 7-25.)
+
+Just as in this, in this Ṛk also the three places are described in order by the names समुद्रे (*samudre*) (*samudre*), दिवि (*divi*) (*divi*), अप्सु (*apsu*) (*apsu*), and it is explained that he is seen in the sea in the form of the submarine fire (बडबानल (*baḍabānala*)), in heaven in the form of the Āditya (sun), and in अप्सु (*apsu*), that is, in the atmosphere, in the form of lightning. Sometimes the names of these places differ, yet the meanings are all one. For example, here, in place of the earth, "the sea" is named, to suit the context and is so assigned. In sum, in this way the three divisions are stated in all four Vedas in various contexts.
+
+---
+
+### Printed p. 555 (PDF 577)
+
+*(Header: "A. 2 A. 6 V. 1", "Ṛgvedasaṃhitā", printed number **555**. The numeral file agrees with the numerals read from the strips.)*
+
+> दिवस्परि प्रथमं जज्ञे अग्निरस्मद् द्वितीयं परि जातवेदाः ।
+> तृतीयमप्सु नृमणा अजस्रमिन्धान एनं जरते स्वाधीः ॥
+
+> *divaspari prathamaṃ jajñe agnirasmad dvitīyaṃ pari jātavedāḥ |*
+> *tṛtīyamapsu nṛmaṇā ajasramindhāna enaṃ jarate svādhīḥ ‖*
+
+(Printed reference: Ṛ. Saṃ. 10-45-1; Vā. Saṃ. 12-18; Tai. Sa. 1-3-14-5.)
+
+> अग्निरस्मि जन्मना जातवेदा घृतं मे चक्षुरमृतं म आसन् ।
+> अर्कस्त्रिधातो रजसो विमानोऽजस्रो घर्मो हविरस्मि नाम ॥
+
+> *agnirasmi janmanā jātavedā ghṛtaṃ me cakṣuramṛtaṃ ma āsan |*
+> *arkastridhāto rajaso vimāno 'jasro gharmo havirasmi nāma ‖*
+
+(Printed reference: Ṛ. Saṃ. 3-26-7; Vā. Saṃ. 18-16; Ni. 14-2 (the file reads 14.2; the separator on the strip looks like a hyphen).)
+
+(Kannada, translated:) From such explanations the nature of the description त्रीणि जाना (*trīṇi jānā*) (*trīṇi jānā*) [printed ತ್ರೀಣಿ] becomes clearly known.
+
+*(Gist of the Sanskrit that follows: Agni, when born, does not grow unseen in the mother's womb like an ordinary child, nor hidden in the waters like animals; he grows upward, visible, self-luminous; heaven and earth, frightened at his birth, return and serve him as a lion-like child.)*
+
+> इदमुक्तं भवति । न साधारणवत्सवदयमग्निर्वर्त्सो [?] दृश्यमानो मातुरुदरे वर्धते तर्हि दृश्यमान एव वर्धते । पशुवत्तिरश्चीनानां अब्रूपमातॄणामुदरे [?] च तिरश्चीनो न वर्धते तर्हि ऊर्ध्वः सन् वर्धते । ता इव चायं न दीप्तिहीनस्तर्हि स्वयशाः स्वायत्तदीप्तिर्भवति । त्वष्टुस्त [?] यदायमग्निर्जातस्तदा द्यावापृथिव्यावपि तस्माद्भीत्वा परागते । पश्चात्पुनरागत्य तं सिंहसदृशमग्निं बालवत्सेवेते स्मेति भावः ॥
+
+> *idamuktaṃ bhavati | na sādhāraṇavatsavadayamagnirvartso [?] dṛśyamāno māturudare vardhate tarhi dṛśyamāna eva vardhate | paśuvattiraścīnānāṃ abrūpamātṝṇāmudare [?] ca tiraścīno na vardhate tarhi ūrdhvaḥ san vardhate | tā iva cāyaṃ na dīptihīnastarhi svayaśāḥ svāyattadīptirbhavati | tvaṣṭusta [?] yadāyamagnirjātastadā dyāvāpṛthivyāvapi tasmādbhītvā parāgate | paścātpunarāgatya taṃ siṃhasadṛśamagniṃ bālavatsevete smeti bhāvaḥ ‖*
+
+(Kannada, translated:) That is: like ordinary children, this Agni did not grow concealed within the mother's womb, unseen by anyone; but he grows visibly, as all can see (by the burning of wood and the like). Moreover, he did not grow hidden in the womb of the mothers who are of the nature of water, as animals do. Plainly, as all can see, he grows endowed with upward-facing flames, that is, flames rising upward. Nor is he devoid of light, like his mothers the waters; he shines by his own self-luminosity. Having seen the Agni thus born of self-luminosity, heaven and earth were frightened, but then came back to him, lion-like, and served him: this is the meaning.
+
+Here the nature of the lightning-fire is described. At one and the same time the power of the lightning, possessed of a delightfulness that draws the mind and of terrible qualities that cause fear, is praised, and its explanation given. Agni in the form of lightning, appearing shining among the rain-waters in wave-form and possessed of a charming radiance, becomes supremely delightful as soon as he is born. At the same moment that power of lightning, surpassing all other powers, is as fearsome as a lion when it overruns the world with irresistible speed and with burning. Therefore heaven and earth both serve this Agni with reverence. It need not be only the lightning-fire: the terrestrial fire too may be described as possessed of these qualities. These differences of meaning can be understood from the explanation.
+
+---
+
+### Printed p. 556 (PDF 578)
+
+*(Header: **556**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The numeral file agrees.)*
+
+*(Gist of the Sanskrit: when Agni, as lightning, joined with the rain-water, sends forth his most excellent splendour in the atmosphere, the whole atmosphere is touched by it; that manifestation is his coming together with the other deities.)*
+
+> अत्रेदमुक्तं भवति । यदा मेघोदकरूपाभिर्गोभिर्युक्तः सन्नग्निर्वैद्युतः स्वकीयमुत्कृष्टतरं तेजस्तेजःपुंजपूर्णेंतरिक्षे प्रादुर्भावयति तदा तत्सर्वमंतरिक्षं तेन तेजसा प्रमृष्टं भवति यच्च तत्स्वरूपप्रादुर्भवनं तदेव देवांतरैः सहाग्नेर्गमनं भवतीति ।
+
+> *atredamuktaṃ bhavati | yadā meghodakarūpābhirgobhiryuktaḥ sannagnirvaidyutaḥ svakīyamutkṛṣṭataraṃ tejastejaḥpuṃjapūrṇeṃtarikṣe prādurbhāvayati tadā tatsarvamaṃtarikṣaṃ tena tejasā pramṛṣṭaṃ bhavati yacca tatsvarūpaprādurbhavanaṃ tadeva devāṃtaraiḥ sahāgnergamanaṃ bhavatīti |*
+
+(Kannada, translated:) That is: when, in the midst of the clouds, Agni, shining in the form of lightning with his full splendour, manifests in the atmosphere, the whole atmosphere is filled with splendour by the light of Agni; that is, it shines exceedingly brightly. In this way Agni, having manifested, joins the other deities: this is the meaning.
+
+Two kinds of construction are possible for the two sentences, the first half and the second half of this Ṛk. For the first half: first, that Agni, joined with the rain-waters in the atmosphere, causes his splendour to arise in the form of lightning; and second, that, joined with the praises and the soma-juices in the sacrificial house, he produces his bright radiance: such could be the meanings.
+
+In this way, the meaning that Agni has birth in heaven, the atmosphere and the earth is set out in this Ṛk.
+
+---
+
+**Ṛk 4**
+
+*Saṃhitā-pāṭha*
+
+> अग्ने यजस्व हविषा यजीयाञ्छ्रुष्टी देष्णमभि गृणीहि राधः ।
+> त्वं ह्यसि रयिपती रयीणां त्वं शुक्रस्य वचसो मनोता ॥ ४ ॥
+
+*Pada-pāṭha*
+
+*(The small stroke between parts of compounds is written ऽ.)*
+
+> अग्ने । यजस्व । हविषा । यजीयान् । श्रुष्टी । देष्णं । अभि । गृणीहि । राधः ।
+> त्वं । हि । असि । रयिऽपतिः । रयीणां । त्वं । शुक्रस्य । वचसः । मनोता ॥ ४ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist so far: O Agni, best of sacrificers, worship the gods with the oblation we give; unite the gods (with it); deṣṇa is "what is to be given", rādhaḥ "food"; śruṣṭī means "quickly".)*
+
+> हे अग्ने यजीयान् यष्टृतमस्त्वं हविषास्मद्दत्तेन यजस्व । देवान् संयोजय । देष्णं देयं राधोऽन्नं श्रुष्टी ॥ श्रुष्टीति क्षिप्रनाम ॥ क्षिप्रमभिगृणीहि ।
+
+> *he agne yajīyān yaṣṭṛtamastvaṃ haviṣāsmaddattena yajasva | devān saṃyojaya | deṣṇaṃ deyaṃ rādho 'nnaṃ śruṣṭī ‖ śruṣṭīti kṣipranāma ‖ kṣipramabhigṛṇīhi |*
+
+*(The bhāṣya of this Ṛk is open: it breaks off at the bottom of printed p. 556 after क्षिप्रमभिगृणीहि । (*kṣipramabhigṛṇīhi |*) and continues on p. 557.)*
+
+---
+
+**Progress note:** Done through printed p. 556 (PDF 578); offset printed = PDF − 22 holds. Sūkta 9: Ṛk 3's Viśeṣaviṣayagaḷu is finished (Bṛ. De. 1-65 to 67 with the Taittirīya and Nirukta notes, RV 10-88-10, 10-45-1 and 3-26-7, and the explanation of the lightning-fire and of the three births). Ṛk 4 begins with Saṃhitā, Pada and the start of the bhāṣya. **Ṛk 4 is open in the bhāṣya**: it breaks off after "क्षिप्रमभिगृणीहि ।" at the foot of printed p. 556; the next batch starts at the top of printed p. 557 (PDF 579). The printed English of Ṛk 3 was already given on p. 553. Flags: FILE DISAGREE none (the file's numerals 1-65 … 67, 2-2-4, 10-88-10, 7-14/7-25, 10-45-1, 12-18, 1-3-14-5, 3-26-7, 18-16 and the headers agree with my reading; none was zoomed; the file reads Ni. 14.2 with a dot, I read a hyphen). [?] places: ⟦अजीजनञ्छक्त्रभी⟧ and ⟦रोदसिप्राम्⟧ in the RV 10-88-10 quotation; the bhāṣya words ⟦वर्त्सो⟧, ⟦अब्रूपमातॄणामुदरे⟧ (completed from the Kannada gloss on the same page) and ⟦त्वष्टुस्त⟧; the Kannada word rendered "explained" (printed ವ್ತಿಸರಿಸಿದೆ, presumably ವಿಸ್ತರಿಸಿದೆ).
