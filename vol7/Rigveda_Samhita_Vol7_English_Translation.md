@@ -3679,8 +3679,8 @@ Closing of Rik 84.16: "॥ १६ ॥" (16), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 84.17)** *(Triṣṭubh; Indra; Kannada script converted letter by letter; accents not reproduced)*
 
-> क ईषते तुज्यते को बिभाय को मंसते सन्तमिन्द्रं को अन्ति ।
-> कस्तोकाय क इभायोत रायेऽधि ब्रवत्तन्वे को जनाय ॥ १७ ॥
+> क ई॑षते तु॒ज्यते॒ को बि॑भाय॒ को मं॑सते॒ सन्त॒मिन्द्रं॒ को अन्ति॑ ।
+> कस्तो॒काय॒ क इभा॑यो॒त रा॒येऽधि॑ ब्रवत्त॒न्वे॒३॒॑ को जना॑य ॥ १७ ॥
 
 *ka īṣate tujyate ko bibhāya ko maṃsate santam indraṃ ko anti | kas tokāya ka ibhāyota rāye 'dhi bravat tanve ko janāya ‖ 17 ‖*
 
@@ -3776,8 +3776,8 @@ Closing of Rik 84.17: "॥ १७ ॥" (17), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 84.18)** *(Triṣṭubh; Indra; accents not reproduced)*
 
-> को अग्निमीट्टे हविषा घृतेन स्रुचा यजाता ऋतुभिर्ध्रुवेभिः ।
-> कस्मै देवा आ वहानाशु होम को मंसते वीतिहोत्रः सुदेवः ॥ १८ ॥
+> को अ॒ग्निमी॑ट्टे ह॒विषा॑ घृ॒तेन॑ स्रु॒चा य॑जाता ऋ॒तुभि॑र्ध्रु॒वेभिः॑ ।
+> कस्मै॑ दे॒वा आ व॑हाना॒शु होम॒ को मं॑सते वी॒तिहो॑त्रः सुदे॒वः ॥ १८ ॥
 
 *ko agnim īṭṭe haviṣā ghṛtena srucā yajātā ṛtubhir dhruvebhiḥ | kasmai devā ā vahān āśu homa ko maṃsate vītihotraḥ sudevaḥ ‖ 18 ‖*
 
@@ -3866,8 +3866,8 @@ Closing of Rik 84.18: "॥ १८ ॥" (18), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 84.19)** *(Bṛhatī; Indra; accents not reproduced)*
 
-> त्वमङ्ग प्र शंसिषो देवः शविष्ठ मर्त्यम् ।
-> न त्वदन्यो मघवन्नस्ति मर्डितेन्द्र ब्रवीमि ते वचः ॥ १९ ॥
+> त्वम॒ङ्ग प्र शं॑सिषो दे॒वः श॑विष्ठ॒ मर्त्य॑म् ।
+> न त्वद॒न्यो म॑घवन्नस्ति मर्डि॒तेन्द्र॒ ब्रवी॑मि ते॒ वचः॑ ॥ १९ ॥
 
 *tvam aṅga pra śaṃsiṣo devaḥ śaviṣṭha martyam | na tvad anyo maghavann asti marḍitendra bravīmi te vacaḥ ‖ 19 ‖*
 
@@ -3941,8 +3941,8 @@ Closing of Rik 84.19: "॥ १९ ॥" (19), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 84.20)** *(Satobṛhatī; Indra; accents not reproduced)*
 
-> मा ते राधांसि मा त ऊतयो वसोऽस्मान्कदा चना दभन् ।
-> विश्वा च न उपमिमीहि मानुष वसूनि चर्षणिभ्य आ ॥ २० ॥
+> मा ते॒ राधां॑सि॒ मा त॑ ऊ॒तयो॑ वसो॒ऽस्मान्कदा॑ च॒ना द॑भन् ।
+> विश्वा॑ च न उपमिमी॒हि मा॑नुष॒ वसू॑नि चर्ष॒णिभ्य॒ आ ॥ २० ॥
 
 *mā te rādhāṃsi mā ta ūtayo vaso 'smān kadā canā dabhan | viśvā ca na upamimīhi mānuṣa vasūni carṣaṇibhya ā ‖ 20 ‖*
 
@@ -4063,8 +4063,8 @@ Closing of Rik 84.20: "॥ २० ॥" (20), followed by a printer's ornament. *
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.1)** *(Jagatī; Maruts; accents not reproduced)*
 
-> प्र ये शुम्भन्ते जनयो न सप्तयो यामन्रुद्रस्य सूनवः सुदंससः ।
-> रोदसी हि मरुतश्चक्रिरे वृधे मदन्ति वीरा विदथेषु घृष्वयः ॥ १ ॥
+> प्र ये शुम्भ॑न्ते॒ जन॑यो॒ न सप्त॑यो॒ याम॑न्रु॒द्रस्य॑ सू॒नवः॑ सु॒दंस॑सः ।
+> रोद॑सी॒ हि म॒रुत॑श्चक्रि॒रे वृ॒धे मद॑न्ति वी॒रा वि॒दथे॑षु॒ घृष्व॑यः ॥ १ ॥
 
 *pra ye śumbhante janayo na saptayo yāmanrudrasya sūnavaḥ sudaṃsasaḥ | rodasī hi marutaś cakrire vṛdhe madanti vīrā vidatheṣu ghṛṣvayaḥ ‖ 1 ‖*
 
@@ -4210,8 +4210,8 @@ Closing of Rik 85.1: "॥ १ ॥" (1).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.2)** *(Jagatī; Maruts; accents not reproduced)*
 
-> त उक्षितासो महिमानमाशत दिवि रुद्रासो अधि चक्रिरे सदः ।
-> अर्चन्तो अर्कं जनयन्त इन्द्रियमधि श्रियो दधिरे पृश्निमातरः ॥ २ ॥
+> त उ॑क्षि॒तासो॑ महि॒मान॑माशत दि॒वि रु॒द्रासो॒ अधि॑ चक्रिरे॒ सदः॑ ।
+> अर्च॑न्तो अ॒र्कं ज॒नय॑न्त इन्द्रि॒यमधि॒ श्रियो॑ दधिरे॒ पृश्नि॑मातरः ॥ २ ॥
 
 *ta ukṣitāso mahimānam āśata divi rudrāso adhi cakrire sadaḥ | arcanto arkaṃ janayanta indriyam adhi śriyo dadhire pṛśnimātaraḥ ‖ 2 ‖*
 
@@ -4386,8 +4386,8 @@ Closing of Rik 85.2: "॥ २ ॥" (2), followed by a printer's ornament. *(So t
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.3)** *(Jagatī; Maruts; accents not reproduced)*
 
-> गोमातरो यच्छुभयन्ते अञ्जिभिस्तनूषु शुभ्रा दधिरे विरुक्मतः ।
-> बाधन्ते विश्वमभिमातिनमप वर्त्मान्येषामनु रीयते घृतम् ॥ ३ ॥
+> गोमा॑तरो॒ यच्छु॒भय॑न्ते अ॒ञ्जिभि॑स्त॒नूषु॑ शु॒भ्रा द॑धिरे वि॒रुक्म॑तः ।
+> बाध॑न्ते॒ विश्व॑मभिमा॒तिन॒मप॒ वर्त्मा॑न्येषा॒मनु॑ रीयते घृ॒तम् ॥ ३ ॥
 
 *gomātaro yac chubhayante añjibhis tanūṣu śubhrā dadhire virukmataḥ | bādhante viśvam abhimātinam apa vartmāny eṣām anu rīyate ghṛtam ‖ 3 ‖*
 
@@ -4474,8 +4474,8 @@ Closing of Rik 85.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.4)** *(Jagatī; Maruts; accents not reproduced)*
 
-> वि ये भ्राजन्ते सुमखास ऋष्टिभिः प्रच्यावयन्तो अच्युता चिदोजसा ।
-> मनोजुवो यन्मरुतो रथेष्वा वृषव्रातासः पृषतीरयुग्ध्वम् ॥ ४ ॥
+> वि ये भ्राज॑न्ते॒ सुम॑खास ऋ॒ष्टिभिः॑ प्रच्या॒वय॑न्तो॒ अच्यु॑ता चि॒दोज॑सा ।
+> म॒नो॒जुवो॒ यन्म॑रुतो॒ रथे॒ष्वा वृष॑व्रातासः॒ पृष॑ती॒रयु॑ग्ध्वम् ॥ ४ ॥
 
 *vi ye bhrājante sumakhāsa ṛṣṭibhiḥ pracyāvayanto acyutā cid ojasā | manojuvo yan maruto ratheṣv ā vṛṣavrātāsaḥ pṛṣatīr ayugdhvam ‖ 4 ‖*
 
@@ -4568,8 +4568,8 @@ Closing of Rik 85.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.5)** *(Triṣṭubh — the fifth Ṛk, per the Anukramaṇī; Maruts; accents not reproduced)*
 
-> प्र यद्रथेषु पृषतीरयुग्ध्वं वाजे अद्रिं मरुतो रंहयन्तः ।
-> उतारुषस्य वि ष्यन्ति धाराश्चर्मेवोदभिर्व्युन्दन्ति भूम ॥ ५ ॥
+> प्र यद्रथे॑षु॒ पृष॑ती॒रयु॑ग्ध्वं॒ वाजे॒ अद्रिं॑ मरुतो रं॒हय॑न्तः ।
+> उ॒तारु॒षस्य॒ वि ष्य॑न्ति॒ धारा॒श्चर्मे॑वो॒दभि॒र्व्यु॑न्दन्ति॒ भूम॑ ॥ ५ ॥
 
 *pra yad ratheṣu pṛṣatīr ayugdhvaṃ vāje adriṃ maruto raṃhayantaḥ | utāruṣasya vi ṣyanti dhārāś carmevodabhir vyundanti bhūma ‖ 5 ‖*
 
@@ -4670,8 +4670,8 @@ Closing of Rik 85.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.6)** *(Jagatī; Maruts; accents not reproduced)*
 
-> आ वो वहन्तु सप्तयो रघुष्यदो रघुपत्वानः प्र जिगात बाहुभिः ।
-> सीदता बर्हिरुरु वः सदस्कृतं मादयध्वं मरुतो मध्वो अन्धसः ॥ ६ ॥
+> आ वो॑ वहन्तु॒ सप्त॑यो रघु॒ष्यदो॑ रघु॒पत्वा॑नः॒ प्र जि॑गात बा॒हुभिः॑ ।
+> सीद॒ता ब॒र्हिरु॒रु वः॒ सद॑स्कृ॒तं मा॒दय॑ध्वं मरुतो॒ मध्वो॒ अन्ध॑सः ॥ ६ ॥
 
 *ā vo vahantu saptayo raghuṣyado raghupatvānaḥ pra jigāta bāhubhiḥ | sīdatā barhir uru vaḥ sadaskṛtaṃ mādayadhvaṃ maruto madhvo andhasaḥ ‖ 6 ‖*
 
@@ -4774,8 +4774,8 @@ Closing of Rik 85.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.7)** *(Jagatī; Maruts; accents not reproduced)*
 
-> ते ऽवर्धन्त स्वतवसो महित्वना नाकं तस्थुरुरु चक्रिरे सदः ।
-> विष्णुर्यद्धावद्वृषणं मदच्युतं वयो न सीदन्नधि बर्हिषि प्रिये ॥ ७ ॥
+> ते॑ ऽवर्धन्त॒ स्वत॑वसो महित्व॒ना नाकं॑ त॒स्थुरु॒रु च॑क्रिरे॒ सदः॑ ।
+> विष्णु॒र्यद्धाव॒द्वृष॑णं मद॒च्युतं॒ वयो॒ न सी॑द॒न्नधि॑ ब॒र्हिषि॑ प्रि॒ये ॥ ७ ॥
 
 *te 'vardhanta svatavaso mahitvanā nākaṃ tasthur uru cakrire sadaḥ | viṣṇur yad dhāvad vṛṣaṇaṃ madacyutaṃ vayo na sīdann adhi barhiṣi priye ‖ 7 ‖*
 
@@ -4890,8 +4890,8 @@ Closing of Rik 85.7: "॥ ७ ॥" (7), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.8)** *(Jagatī; Maruts; accents not reproduced)*
 
-> शूरा इवेद्युयुधयो न जग्मयः श्रवस्यवो न पृतनासु येतिरे ।
-> भयन्ते विश्वा भुवना मरुद्भ्यो राजान इव त्वेषसंदृशो नरः ॥ ८ ॥
+> शूरा॑ इ॒वेद्युयु॑धयो॒ न जग्म॑यः श्रव॒स्यवो॒ न पृत॑नासु येतिरे ।
+> भय॑न्ते॒ विश्वा॒ भुव॑ना म॒रुद्भ्यो॒ राजा॑न इव त्वे॒षसं॑दृशो॒ नरः॑ ॥ ८ ॥
 
 *śūrā ived yuyudhayo na jagmayaḥ śravasyavo na pṛtanāsu yetire | bhayante viśvā bhuvanā marudbhyo rājāna iva tveṣasaṃdṛśo naraḥ ‖ 8 ‖*
 
@@ -4983,8 +4983,8 @@ Closing of Rik 85.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.9)** *(Jagatī; Maruts; accents not reproduced)*
 
-> त्वष्टा यद्वज्रं सुकृतं हिरण्ययं सहस्रभृष्टिं स्वपा अवर्तयत् ।
-> धत्त इन्द्रो नर्यपांसि कर्तवेऽहन्वृत्रं निरपामौब्जदर्णवम् ॥ ९ ॥
+> त्वष्टा॒ यद्वज्रं॒ सुकृ॑तं हिर॒ण्ययं॑ स॒हस्र॑भृष्टिं॒ स्वपा॒ अव॑र्तयत् ।
+> ध॒त्त इन्द्रो॒ नर्यपां॑सि॒ कर्त॒वेऽह॑न्वृ॒त्रं निर॒पामौ॑ब्जदर्ण॒वम् ॥ ९ ॥
 
 *tvaṣṭā yad vajraṃ sukṛtaṃ hiraṇyayaṃ sahasrabhṛṣṭiṃ svapā avartayat | dhatta indro naryapāṃsi kartave 'han vṛtraṃ nir apām aubjad arṇavam ‖ 9 ‖*
 
@@ -5066,8 +5066,8 @@ Closing of Rik 85.9: "॥ ९ ॥" (9), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.10)** *(Jagatī; Maruts; accents not reproduced; the verse is continued on p. 182)*
 
-> ऊर्ध्वं नुनुद्रेऽवतं त ओजसा दादृहाणं चिद्बिभिदुर्वि पर्वतम् ।
-> धमन्तो वाणं मरुतः सुदानवो मदे सोमस्य रण्यानि चक्रिरे ॥ १० ॥
+> ऊ॒र्ध्वं नु॑नुद्रेऽव॒तं त ओज॑सा दादृहा॒णं चि॑द्बिभिदु॒र्वि पर्व॑तम् ।
+> धम॑न्तो वा॒णं म॒रुतः॑ सु॒दान॑वो॒ मदे॒ सोम॑स्य॒ रण्या॑नि चक्रिरे ॥ १० ॥
 
 *ūrdhvaṃ nunudre 'vataṃ ta ojasā dādṛhāṇaṃ cid bibhidur vi parvatam | dhamanto vāṇaṃ marutaḥ sudānavo made somasya raṇyāni cakrire ‖ 10 ‖*
 
@@ -5156,8 +5156,8 @@ Closing of Rik 85.10: "॥ १० ॥" (10), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.11)** *(Jagatī; Maruts; accents not reproduced)*
 
-> जिह्मं नुनुद्रेऽवतं तया दिशासिञ्चन्नुत्सं गोतमाय तृष्णजे ।
-> आ गच्छन्तीमवसा चित्रभानवः कामं विप्रस्य तर्पयन्त धामभिः ॥ ११ ॥
+> जि॒ह्मं नु॑नुद्रेऽव॒तं तया॑ दि॒शासि॑ञ्च॒न्नुत्सं॒ गोत॑माय तृ॒ष्णजे॑ ।
+> आ ग॑च्छन्ती॒मव॑सा चि॒त्रभा॑नवः॒ कामं॒ विप्र॑स्य तर्पयन्त॒ धाम॑भिः ॥ ११ ॥
 
 *jihmaṃ nunudre 'vataṃ tayā diśāsiñcann utsaṃ gotamāya tṛṣṇaje | ā gacchantīm avasā citrabhānavaḥ kāmaṃ viprasya tarpayanta dhāmabhiḥ ‖ 11 ‖*
 
@@ -5237,8 +5237,8 @@ Closing of Rik 85.11: "॥ ११ ॥" (11), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 85.12)** *(Triṣṭubh — the last Ṛk of the sūkta; Maruts; accents not reproduced)*
 
-> या वः शर्म शशमानाय सन्ति त्रिधातूनि दाशुषे यच्छताधि ।
-> अस्मभ्यं तानि मरुतो वि यन्त रयिं नो धत्त वृषणः सुवीरम् ॥ १२ ॥
+> या वः॒ शर्म॑ शशमा॒नाय॒ सन्ति॑ त्रि॒धातू॑नि दा॒शुषे॑ यच्छ॒ताधि॑ ।
+> अ॒स्मभ्यं॒ तानि॑ मरुतो॒ वि य॑न्त र॒यिं नो॑ धत्त वृषणः सु॒वीर॑म् ॥ १२ ॥
 
 *yā vaḥ śarma śaśamānāya santi tridhātūni dāśuṣe yacchatādhi | asmabhyaṃ tāni maruto vi yanta rayiṃ no dhatta vṛṣaṇaḥ suvīram ‖ 12 ‖*
 
@@ -5368,8 +5368,8 @@ Closing of Rik 85.12: "॥ १२ ॥" (12). *(The print has no separate closing
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.1)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> मरुतो यस्य हि क्षये पाथा दिवो विमहसः ।
-> स सुगोपातमो जनः ॥ १ ॥
+> मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः ।
+> स सु॑गो॒पात॑मो॒ जनः॑ ॥ १ ॥
 
 *maruto yasya hi kṣaye pāthā divo vimahasaḥ | sa sugopātamo janaḥ ‖ 1 ‖*
 
@@ -5437,8 +5437,8 @@ Closing of Rik 86.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.2)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> यज्ञैर्वा यज्ञवाहसो विप्रस्य वा मतीनाम् ।
-> मरुतः शृणुता हवम् ॥ २ ॥
+> य॒ज्ञैर्वा॑ यज्ञवाहसो॒ विप्र॑स्य वा मती॒नाम् ।
+> मरु॑तः शृणु॒ता हव॑म् ॥ २ ॥
 
 *yajñair vā yajñavāhaso viprasya vā matīnām | marutaḥ śṛṇutā havam ‖ 2 ‖*
 
@@ -5518,8 +5518,8 @@ Closing of Rik 86.2: "॥ २ ॥" (2), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.3)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> उत वा यस्य वाजिनोऽनु विप्रमतक्षत ।
-> स गन्ता गोमति व्रजे ॥ ३ ॥
+> उ॒त वा॒ यस्य॑ वा॒जिनोऽनु॒ विप्र॒मत॑क्षत ।
+> स गन्ता॒ गोम॑ति व्र॒जे ॥ ३ ॥
 
 *uta vā yasya vājino 'nu vipram atakṣata | sa gantā gomati vraje ‖ 3 ‖*
 
@@ -5580,8 +5580,8 @@ Closing of Rik 86.3: "॥ ३ ॥" (3), followed by a rule.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.4)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> अस्य वीरस्य बर्हिषि सुतः सोमो दिविष्टिषु ।
-> उक्थं मदश्च शस्यते ॥ ४ ॥
+> अ॒स्य वी॒रस्य॑ ब॒र्हिषि॑ सु॒तः सोमो॒ दिवि॑ष्टिषु ।
+> उ॒क्थं मद॑श्च शस्यते ॥ ४ ॥
 
 *asya vīrasya barhiṣi sutaḥ somo diviṣṭiṣu | uktham madaś ca śasyate ‖ 4 ‖*
 
@@ -5645,8 +5645,8 @@ Closing of Rik 86.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.5)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> अस्य श्रोषन्त्वा भुवो विश्वा यश्चर्षणीरभि ।
-> सूरं चित्सस्रुषीरिषः ॥ ५ ॥
+> अ॒स्य श्रो॑ष॒न्त्वा भुवो॒ विश्वा॒ यश्च॑र्ष॒णीर॒भि ।
+> सूरं॑ चित्स॒स्रुषी॒रिषः॑ ॥ ५ ॥
 
 *asya śroṣantv ā bhuvo viśvā yaś carṣaṇīr abhi | sūraṃ cit sasruṣīr iṣaḥ ‖ 5 ‖*
 
@@ -5717,8 +5717,8 @@ Closing of Rik 86.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.6)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> पूर्वीभिर्हि ददाशिम शरद्भिर्मरुतो वयम् ।
-> अवोभिश्चर्षणीनाम् ॥ ६ ॥
+> पू॒र्वीभि॒र्हि द॑दाशि॒म श॒रद्भि॑र्मरुतो व॒यम् ।
+> अवो॑भिश्चर्षणी॒नाम् ॥ ६ ॥
 
 *pūrvībhir hi dadāśima śaradbhir maruto vayam | avobhiś carṣaṇīnām ‖ 6 ‖*
 
@@ -5796,8 +5796,8 @@ Closing of Rik 86.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.7)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> सुभगः स प्रयज्यवो मरुतो अस्तु मर्त्यः ।
-> यस्य प्रयांसि पर्षथ ॥ ७ ॥
+> सु॒भगः॒ स प्र॑यज्यवो॒ मरु॑तो अस्तु॒ मर्त्यः॑ ।
+> यस्य॒ प्रयां॑सि॒ पर्ष॑थ ॥ ७ ॥
 
 *subhagaḥ sa prayajyavo maruto astu martyaḥ | yasya prayāṃsi parṣatha ‖ 7 ‖*
 
@@ -5865,8 +5865,8 @@ Closing of Rik 86.7: "॥ ७ ॥" (7), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.8)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> शशमानस्य वा नरः स्वेदस्य सत्यशवसः ।
-> विदा कामस्य वेनतः ॥ ८ ॥
+> श॒श॒मा॒नस्य॑ वा नरः॒ स्वेद॑स्य सत्यशवसः ।
+> वि॒दा काम॑स्य॒ वेन॑तः ॥ ८ ॥
 
 *śaśamānasya vā naraḥ svedasya satyaśavasaḥ | vidā kāmasya venataḥ ‖ 8 ‖*
 
@@ -5944,8 +5944,8 @@ Closing of Rik 86.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.9)** *(Gāyatrī; Maruts; accents not reproduced)*
 
-> यूयं तत्सत्यशवस आविष्कर्त महित्वना ।
-> विध्यता विद्युता रक्षः ॥ ९ ॥
+> यू॒यं तत्स॑त्यशवस आ॒विष्क॑र्त महित्व॒ना ।
+> विध्य॑ता वि॒द्युता॒ रक्षः॑ ॥ ९ ॥
 
 *yūyaṃ tat satyaśavasa āviṣkarta mahitvanā | vidhyatā vidyutā rakṣaḥ ‖ 9 ‖*
 
@@ -6018,8 +6018,8 @@ Closing of Rik 86.9: "॥ ९ ॥" (9), followed by a rule.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 86.10)** *(Gāyatrī — the last Ṛk; Maruts; accents not reproduced)*
 
-> गूहता गुह्यं तमो वि यात विश्वमत्रिणम् ।
-> ज्योतिष्कर्ता यदुश्मसि ॥ १० ॥
+> गूह॑ता॒ गुह्यं॒ तमो॒ वि या॑त॒ विश्व॑म॒त्रिण॑म् ।
+> ज्योति॑ष्कर्ता॒ यदु॒श्मसि॑ ॥ १० ॥
 
 *gūhatā guhyaṃ tamo vi yāta viśvam atriṇam | jyotiṣ kartā yad uśmasi ‖ 10 ‖*
 
@@ -6134,8 +6134,8 @@ Closing of Rik 86.10: "॥ १० ॥" (10). *(The print has no separate closing
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 87.1)** *(Jagatī; Maruts; accents not reproduced)*
 
-> प्रत्वक्षसः प्रतवसो विरप्शिनोऽनानता अविथुरा ऋजीषिणः ।
-> जुष्टतमासो नृतमासो अञ्जिभिर्व्यानज्रे के चिदुस्रा इव स्तृभिः ॥ १ ॥
+> प्रत्व॑क्षसः॒ प्रत॑वसो विर॒प्शिनोऽना॑नता॒ अवि॑थुरा ऋजी॒षिणः॑ ।
+> जुष्ट॑तमासो॒ नृत॑मासो अ॒ञ्जिभि॒र्व्या॑नज्रे॒ के चि॑दु॒स्रा इ॑व॒ स्तृभिः॑ ॥ १ ॥
 
 *pratvakṣasaḥ pratavaso virapśino 'nānatā avithurā ṛjīṣiṇaḥ | juṣṭatamāso nṛtamāso añjibhir vy ānajre ke cid usrā iva stṛbhiḥ ‖ 1 ‖*
 
@@ -6246,8 +6246,8 @@ Closing of Rik 87.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 87.2)** *(Jagatī; Maruts; accents not reproduced)*
 
-> उपह्वरेषु यदचिध्वं ययिं वय इव मरुतः केन चित्पथा ।
-> श्चोतन्ति कोशा उप वो रथेष्वा घृतमुक्षता मधुवर्णमर्चते ॥ २ ॥
+> उ॒प॒ह्व॒रेषु॒ यदचि॑ध्वं य॒यिं वय॑ इव मरुतः॒ केन॑ चित्प॒था ।
+> श्चोत॑न्ति॒ कोशा॒ उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ॥ २ ॥
 
 *upahvareṣu yad acidhvaṃ yayiṃ vaya iva marutaḥ kena cit pathā | ścotanti kośā upa vo ratheṣv ā ghṛtam ukṣatā madhuvarṇam arcate ‖ 2 ‖*
 
@@ -6342,8 +6342,8 @@ Closing of Rik 87.2: "॥ २ ॥" (2), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 87.3)** *(Jagatī; Maruts; accents not reproduced)*
 
-> प्रैषामज्मेषु विथुरेव रेजते भूमिर्यामेषु यद्ध युञ्जते शुभे ।
-> ते क्रीळयो धुनयो भ्राजदृष्टयः स्वयं महित्वं पनयन्त धूतयः ॥ ३ ॥
+> प्रैषा॒मज्मे॑षु विथु॒रेव॑ रेजते॒ भूमि॒र्यामे॑षु॒ यद्ध॑ यु॒ञ्जते॑ शु॒भे ।
+> ते क्री॒ळयो॒ धुन॑यो॒ भ्राज॑दृष्टयः स्व॒यं म॑हि॒त्वं प॑नयन्त॒ धूत॑यः ॥ ३ ॥
 
 *praiṣām ajmeṣu vithureva rejate bhūmir yāmeṣu yad dha yuñjate śubhe | te krīḷayo dhunayo bhrājadṛṣṭayaḥ svayaṃ mahitvaṃ panayanta dhūtayaḥ ‖ 3 ‖*
 
@@ -6436,8 +6436,8 @@ Closing of Rik 87.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 87.4)** *(Jagatī; Maruts; accents not reproduced)*
 
-> स हि स्वसृत्पृषदश्वो युवा गणोऽया ईशानस्तविषीभिरावृतः ।
-> असि सत्य ऋणयावानेद्योऽस्या धियः प्रावितथा वृषा गणः ॥ ४ ॥
+> स हि स्व॒सृत्पृष॑दश्वो॒ युवा॑ ग॒णो॒३॒॑ऽया ई॑शा॒नस्तवि॑षीभि॒रावृ॑तः ।
+> असि॑ स॒त्य ऋ॑ण॒यावाने॑द्यो॒ऽस्या धि॒यः प्रा॑वि॒तथा॒ वृषा॑ ग॒णः ॥ ४ ॥
 
 *sa hi svasṛt pṛṣadaśvo yuvā gaṇo 'yā īśānas taviṣībhir āvṛtaḥ | asi satya ṛṇayāvānedyo 'syā dhiyaḥ prāvitāthā vṛṣā gaṇaḥ ‖ 4 ‖*
 
@@ -6530,8 +6530,8 @@ Closing of Rik 87.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 87.5)** *(Jagatī; Maruts; accents not reproduced)*
 
-> पितुः प्रत्नस्य जन्मना वदामसि सोमस्य जिह्वा प्र जिगाति चक्षसा ।
-> यदीमिन्द्रं शम्यृक्वाण आशतादिन्नामानि यज्ञियानि दधिरे ॥ ५ ॥
+> पि॒तुः प्र॒त्नस्य॒ जन्म॑ना वदामसि॒ सोम॑स्य जि॒ह्वा प्र जि॑गाति॒ चक्ष॑सा ।
+> यदी॒मिन्द्रं॒ शम्यृक्वा॑ण॒ आश॒तादिन्नामा॑नि य॒ज्ञिया॑नि दधिरे ॥ ५ ॥
 
 *pituḥ pratnasya janmanā vadāmasi somasya jihvā pra jigāti cakṣasā | yad īm indraṃ śamy ṛkvāṇa āśatād in nāmāni yajñiyāni dadhire ‖ 5 ‖*
 
@@ -6620,8 +6620,8 @@ Closing of Rik 87.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 87.6)** *(Jagatī — the last Ṛk; Maruts; accents not reproduced)*
 
-> श्रियसे कं भानुभिः सं मिमिक्षिरे ते रश्मिभिस्त ऋक्वभिः सुखादयः ।
-> ते वाशीमन्त इष्मिणो अभीरवो विद्रे प्रियस्य मारुतस्य धाम्नः ॥ ६ ॥
+> श्रि॒यसे॒ कं भा॒नुभिः॒ सं मि॑मिक्षिरे॒ ते र॒श्मिभि॒स्त ऋक्व॑भिः सुखा॒दयः॑ ।
+> ते वाशी॑मन्त इ॒ष्मिणो॒ अभी॑रवो वि॒द्रे प्रि॒यस्य॒ मारु॑तस्य॒ धाम्नः॑ ॥ ६ ॥
 
 *śriyase kaṃ bhānubhiḥ saṃ mimikṣire te raśmibhis ta ṛkvabhiḥ sukhādayaḥ | te vāśīmanta iṣmiṇo abhīravo vidre priyasya mārutasya dhāmnaḥ ‖ 6 ‖*
 
@@ -6766,8 +6766,8 @@ Closing of Rik 87.6: "॥ ६ ॥" (6), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 88.1)** *(Prastārapaṅkti; Maruts; accents not reproduced)*
 
-> आ विद्युन्मद्भिर्मरुतः स्वर्कै रथेभिर्यात ऋष्टिमद्भिरश्वपर्णैः ।
-> आ वर्षिष्ठया न इषा वयो न पप्तता सुमायाः ॥ १ ॥
+> आ वि॒द्युन्म॑द्भिर्मरुतः स्व॒र्कै रथे॑भिर्यात ऋष्टि॒मद्भि॒रश्व॑पर्णैः ।
+> आ वर्षि॑ष्ठया न इ॒षा वयो॒ न प॑प्तता सुमायाः ॥ १ ॥
 
 *ā vidyunmadbhir marutaḥ svarkai rathebhir yāta ṛṣṭimadbhir aśvaparṇaiḥ | ā varṣiṣṭhayā na iṣā vayo na paptatā sumāyāḥ ‖ 1 ‖*
 
@@ -6891,8 +6891,8 @@ Closing of Rik 88.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 88.2)** *(Triṣṭubh; Maruts; accents not reproduced)*
 
-> ते ऽरुणेभिर्वरमा पिशङ्गैः शुभे कं यान्ति रथतूर्भिरश्वैः ।
-> रुक्मो न चित्रः स्वधितीवान्पव्या रथस्य जङ्घनन्त भूम ॥ २ ॥
+> ते॑ ऽरु॒णेभि॒र्वर॒मा पि॒शङ्गैः॑ शु॒भे कं या॑न्ति रथ॒तूर्भि॒रश्वैः॑ ।
+> रु॒क्मो न चि॒त्रः स्वधि॑तीवान्प॒व्या रथ॑स्य जङ्घनन्त॒ भूम॑ ॥ २ ॥
 
 *te 'ruṇebhir varam ā piśaṅgaiḥ śubhe kaṃ yānti rathatūrbhir aśvaiḥ | rukmo na citraḥ svadhitīvān pavyā rathasya jaṅghananta bhūma ‖ 2 ‖*
 
@@ -6980,8 +6980,8 @@ Closing of Rik 88.2: "॥ २ ॥" (2).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 88.3)** *(Triṣṭubh; Maruts; accents not reproduced)*
 
-> श्रिये कं वो अधि तनूषु वाशीर्मेधा वना न कृणवन्त ऊर्ध्वा ।
-> युष्मभ्यं कं मरुतः सुजातास्तुविद्युम्नासो धनयन्ते अद्रिम् ॥ ३ ॥
+> श्रि॒ये कं वो॒ अधि॑ त॒नूषु॒ वाशी॑र्मे॒धा वना॒ न कृ॑णवन्त ऊ॒र्ध्वा ।
+> यु॒ष्मभ्यं॒ कं म॑रुतः सुजातास्तुविद्यु॒म्नासो॑ धनयन्ते॒ अद्रि॑म् ॥ ३ ॥
 
 *śriye kaṃ vo adhi tanūṣu vāśīr medhā vanā na kṛṇavanta ūrdhvā | yuṣmabhyaṃ kaṃ marutaḥ sujātās tuvidyumnāso dhanayante adrim ‖ 3 ‖*
 
@@ -7068,8 +7068,8 @@ Closing of Rik 88.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 88.4)** *(Triṣṭubh; Maruts; accents not reproduced)*
 
-> अहानि गृध्राः पर्या व आगुरिमां धियं वार्कार्यां च देवीम् ।
-> ब्रह्म कृण्वन्तो गोतमासो अर्कैरूर्ध्वं नुनुद्र उत्सधिं पिबध्यै ॥ ४ ॥
+> अहा॑नि॒ गृध्राः॒ पर्या व॒ आगु॑रि॒मां धियं॑ वार्का॒र्यां च॑ दे॒वीम् ।
+> ब्रह्म॑ कृ॒ण्वन्तो॒ गोत॑मासो अ॒र्कैरू॒र्ध्वं नु॑नुद्र उत्स॒धिं पिब॑ध्यै ॥ ४ ॥
 
 *ahāni gṛdhrāḥ paryā va āgur imāṃ dhiyaṃ vārkāryāṃ ca devīm | brahma kṛṇvanto gotamāso arkair ūrdhvaṃ nunudra utsadhiṃ pibadhyai ‖ 4 ‖*
 
@@ -7169,8 +7169,8 @@ Closing of Rik 88.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 88.5)** *(Virāḍrūpā — eleven + eleven + eleven + eight; Maruts; accents not reproduced)*
 
-> एतत्त्यन्न योजनमचेति सस्वर्ह यन्मरुतो गोतमो वः ।
-> पश्यन्हिरण्यचक्रानयोदंष्ट्रान्विधावतो वराहून् ॥ ५ ॥
+> ए॒तत्त्यन्न योज॑नमचेति स॒स्वर्ह॒ यन्म॑रुतो॒ गोत॑मो वः ।
+> पश्य॒न्हिर॑ण्यचक्रा॒नयो॑दंष्ट्रान्वि॒धाव॑तो व॒राहू॑न् ॥ ५ ॥
 
 *etat tyan na yojanam aceti sasvar ha yan maruto gotamo vaḥ | paśyan hiraṇyacakrān ayodaṃṣṭrān vidhāvato varāhūn ‖ 5 ‖*
 
@@ -7260,8 +7260,8 @@ Closing of Rik 88.5: "॥ ५ ॥" (5).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 88.6)** *(Prastārapaṅkti — the last Ṛk; Maruts; accents not reproduced)*
 
-> एषा स्या वो मरुतोऽनुभर्त्री प्रति ष्टोभति वाघतो न वाणी ।
-> अस्तोभयद्वृथासामनु स्वधां गभस्त्योः ॥ ६ ॥
+> ए॒षा स्या वो॑ मरुतोऽनुभ॒र्त्री प्रति॑ ष्टोभति वा॒घतो॒ न वाणी॑ ।
+> अस्तो॑भय॒द्वृथा॑सा॒मनु॑ स्व॒धां गभ॑स्त्योः ॥ ६ ॥
 
 *eṣā syā vo maruto 'nubhartrī prati ṣṭobhati vāghato na vāṇī | astobhayad vṛthāsām anu svadhāṃ gabhastyoḥ ‖ 6 ‖*
 
@@ -7377,8 +7377,8 @@ Closing of Rik 88.6: "॥ ६ ॥" (6), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.1)** *(Jagatī; Viśvedevas; accents not reproduced)*
 
-> आ नो भद्राः क्रतवो यन्तु विश्वतोऽदब्धासो अपरीतास उद्भिदः ।
-> देवा नो यथा सदमिद्वृधे असन्नप्रायुवो रक्षितारो दिवेदिवे ॥ १ ॥
+> आ नो॑ भ॒द्राः क्रत॑वो यन्तु वि॒श्वतोऽद॑ब्धासो॒ अप॑रीतास उ॒द्भिदः॑ ।
+> दे॒वा नो॒ यथा॒ सद॒मिद्वृ॒धे अस॒न्नप्रा॑युवो रक्षि॒तारो॑ दि॒वेदि॑वे ॥ १ ॥
 
 *ā no bhadrāḥ kratavo yantu viśvato 'dabdhāso aparītāsa udbhidaḥ | devā no yathā sadam id vṛdhe asann aprāyuvo rakṣitāro dive-dive ‖ 1 ‖*
 
@@ -7467,8 +7467,8 @@ Closing of Rik 89.1: "॥ १ ॥" (1).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.2)** *(Jagatī; Viśvedevas; accents not reproduced)*
 
-> देवानां भद्रा सुमतिर्ऋजूयतां देवानां रातिरभि नो नि वर्तताम् ।
-> देवानां सख्यमुप सेदिमा वयं देवा न आयुः प्र तिरन्तु जीवसे ॥ २ ॥
+> दे॒वानां॑ भ॒द्रा सु॑म॒तिर्ऋ॑जूय॒तां दे॒वानां॑ रा॒तिर॒भि नो॒ नि व॑र्तताम् ।
+> दे॒वानां॑ स॒ख्यमुप॑ सेदिमा व॒यं दे॒वा न॒ आयुः॒ प्र ति॑रन्तु जी॒वसे॑ ॥ २ ॥
 
 *devānāṃ bhadrā sumatir ṛjūyatāṃ devānāṃ rātir abhi no ni vartatām | devānāṃ sakhyam upa sedimā vayaṃ devā na āyuḥ pra tirantu jīvase ‖ 2 ‖*
 
@@ -7557,8 +7557,8 @@ Closing of Rik 89.2: "॥ २ ॥" (2).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.3)** *(Jagatī; Viśvedevas; accents not reproduced)*
 
-> तान्पूर्वया निविदा हूमहे वयं भगं मित्रमदितिं दक्षमस्रिधम् ।
-> अर्यमणं वरुणं सोममश्विना सरस्वती नः सुभगा मयस्करत् ॥ ३ ॥
+> तान्पूर्व॑या नि॒विदा॑ हूमहे व॒यं भगं॑ मि॒त्रमदि॑तिं॒ दक्ष॑म॒स्रिध॑म् ।
+> अ॒र्य॒मणं॒ वरु॑णं॒ सोम॑म॒श्विना॒ सर॑स्वती नः सु॒भगा॒ मय॑स्करत् ॥ ३ ॥
 
 *tān pūrvayā nividā hūmahe vayaṃ bhagaṃ mitram aditiṃ dakṣam asridham | aryamaṇaṃ varuṇaṃ somam aśvinā sarasvatī naḥ subhagā mayas karat ‖ 3 ‖*
 
@@ -7696,8 +7696,8 @@ Closing of Rik 89.3: "॥ ३ ॥" (3), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.4)** *(Jagatī; Viśvedevas; accents not reproduced)*
 
-> तन्नो वातो मयोभु वातु भेषजं तन्माता पृथिवी तत्पिता द्यौः ।
-> तद्ग्रावाणः सोमसुतो मयोभुवस्तदश्विना शृणुतं धिष्ण्या युवम् ॥ ४ ॥
+> तन्नो॒ वातो॑ मयो॒भु वा॑तु भेष॒जं तन्मा॒ता पृ॑थि॒वी तत्पि॒ता द्यौः ।
+> तद्ग्रावा॑णः सोम॒सुतो॑ मयो॒भुव॒स्तद॑श्विना शृणुतं धिष्ण्या यु॒वम् ॥ ४ ॥
 
 *tan no vāto mayobhu vātu bheṣajaṃ tan mātā pṛthivī tat pitā dyauḥ | tad grāvāṇaḥ somasuto mayobhuvas tad aśvinā śṛṇutaṃ dhiṣṇyā yuvam ‖ 4 ‖*
 
@@ -7781,8 +7781,8 @@ Closing of Rik 89.4: "॥ ४ ॥" (4), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.5)** *(Jagatī; Viśvedevas — here addressed to Pūṣan; accents not reproduced)*
 
-> तमीशानं जगतस्तस्थुषस्पतिं धियंजिन्वमवसे हूमहे वयम् ।
-> पूषा नो यथा वेदसामसद्वृधे रक्षिता पायुरदब्धः स्वस्तये ॥ ५ ॥
+> तमीशा॑नं॒ जग॑तस्त॒स्थुष॒स्पतिं॑ धियंजि॒न्वमव॑से हूमहे व॒यम् ।
+> पू॒षा नो॒ यथा॒ वेद॑सा॒मस॑द्वृ॒धे र॑क्षि॒ता पा॒युरद॑ब्धः स्व॒स्तये॑ ॥ ५ ॥
 
 *tam īśānaṃ jagatas tasthuṣas patiṃ dhiyaṃjinvam avase hūmahe vayam | pūṣā no yathā vedasām asad vṛdhe rakṣitā pāyur adabdhaḥ svastaye ‖ 5 ‖*
 
@@ -7866,7 +7866,7 @@ Closing of Rik 89.5: "॥ ५ ॥" (5), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.6)** *(Virāṭsthānā; Viśvedevas; accents not reproduced; the verse begins at the foot of p. 284 and runs on p. 285)*
 
-> स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।
+> स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति नः॑ पू॒षा वि॒श्ववे॑दाः ।
 > …
 
 *svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ | …* *(the remaining lines of this Ṛk are on p. 285)*
@@ -7960,8 +7960,8 @@ Closing of Rik 89.6: "॥ ६ ॥" (6), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.7)** *(Jagatī; Viśvedevas; accents not reproduced)*
 
-> पृषदश्वा मरुतः पृश्निमातरः शुभंयावानो विदथेषु जग्मयः ।
-> अग्निजिह्वा मनवः सूरचक्षसो विश्वे नो देवा अवसा गमन्निह ॥ ७ ॥
+> पृष॑दश्वा म॒रुतः॒ पृश्नि॑मातरः शुभं॒यावा॑नो वि॒दथे॑षु॒ जग्म॑यः ।
+> अ॒ग्नि॒जि॒ह्वा मन॑वः॒ सूर॑चक्षसो॒ विश्वे॑ नो दे॒वा अव॒सा ग॑मन्नि॒ह ॥ ७ ॥
 
 *pṛṣadaśvā marutaḥ pṛśnimātaraḥ śubhaṃyāvāno vidatheṣu jagmayaḥ | agnijihvā manavaḥ sūracakṣaso viśve no devā avasā gamann iha ‖ 7 ‖*
 
@@ -8072,8 +8072,8 @@ Closing of Rik 89.7: "॥ ७ ॥" (7), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.8)** *(Triṣṭubh; Viśvedevas; accents not reproduced)*
 
-> भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
-> स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिर्व्यशेम देवहितं यदायुः ॥ ८ ॥
+> भ॒द्रं कर्णे॑भिः शृणुयाम देवा भ॒द्रं प॑श्येमा॒क्षभि॑र्यजत्राः ।
+> स्थि॒रैरङ्गै॑स्तुष्टु॒वांस॑स्त॒नूभि॒र्व्य॑शेम दे॒वहि॑तं॒ यदायुः॑ ॥ ८ ॥
 
 *bhadraṃ karṇebhiḥ śṛṇuyāma devā bhadraṃ paśyemākṣabhir yajatrāḥ | sthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yad āyuḥ ‖ 8 ‖*
 
@@ -8167,8 +8167,8 @@ Closing of Rik 89.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.9)** *(Triṣṭubh; Viśvedevas; accents not reproduced)*
 
-> शतमिन्नु शरदो अन्ति देवा यत्रा नश्चक्रा जरसं तनूनाम् ।
-> पुत्रासो यत्र पितरो भवन्ति मा नो मध्या रीरिषतायुर्गन्तोः ॥ ९ ॥
+> श॒तमिन्नु श॒रदो॒ अन्ति॑ देवा॒ यत्रा॑ नश्च॒क्रा ज॒रसं॑ त॒नूना॑म् ।
+> पु॒त्रासो॒ यत्र॑ पि॒तरो॒ भव॑न्ति॒ मा नो॑ म॒ध्या री॑रिष॒तायु॒र्गन्तोः॑ ॥ ९ ॥
 
 *śatam in nu śarado anti devā yatrā naś cakrā jarasaṃ tanūnām | putrāso yatra pitaro bhavanti mā no madhyā rīriṣatāyur gantoḥ ‖ 9 ‖*
 
@@ -8258,8 +8258,8 @@ Closing of Rik 89.9: "॥ ९ ॥" (9), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 89.10)** *(Triṣṭubh — the last Ṛk; Viśvedevas; accents not reproduced)*
 
-> अदितिर्द्यौरदितिरन्तरिक्षमदितिर्माता स पिता स पुत्रः ।
-> विश्वे देवा अदितिः पञ्च जना अदितिर्जातमदितिर्जनित्वम् ॥ १० ॥
+> अदि॑ति॒र्द्यौरदि॑तिर॒न्तरि॑क्ष॒मदि॑तिर्मा॒ता स पि॒ता स पु॒त्रः ।
+> विश्वे॑ दे॒वा अदि॑तिः॒ पञ्च॒ जना॒ अदि॑तिर्जा॒तमदि॑ति॒र्जनि॑त्वम् ॥ १० ॥
 
 *aditir dyaur aditir antarikṣam aditir mātā sa pitā sa putraḥ | viśve devā aditiḥ pañca janā aditir jātam aditir janitvam ‖ 10 ‖*
 
@@ -8406,8 +8406,8 @@ Closing of Rik 89.10: "॥ १० ॥" (10), followed by a printer's ornament. *
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.1)** *(Gāyatrī; accents not reproduced)*
 
-> ऋजुनीती नो वरुणो मित्रो नयतु विद्वान् ।
-> अर्यमा देवैः सजोषाः ॥ १ ॥
+> ऋ॒जु॒नी॒ती नो॒ वरु॑णो मि॒त्रो न॑यतु वि॒द्वान् ।
+> अ॒र्य॒मा दे॒वैः स॒जोषाः॑ ॥ १ ॥
 
 *ṛjunītī no varuṇo mitro nayatu vidvān | aryamā devaiḥ sajoṣāḥ ‖ 1 ‖*
 
@@ -8475,8 +8475,8 @@ Closing of Rik 90.1: "॥ १ ॥" (1), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.2)** *(Gāyatrī; accents not reproduced)*
 
-> ते हि वस्वो वसवानास्ते अप्रमूरा महोभिः ।
-> व्रता रक्षन्ते विश्वाहा ॥ २ ॥
+> ते हि वस्वो॒ वस॑वाना॒स्ते अप्र॑मूरा॒ महो॑भिः ।
+> व्र॒ता र॑क्षन्ते वि॒श्वाहा॑ ॥ २ ॥
 
 *te hi vasvo vasavānās te apramūrā mahobhiḥ | vratā rakṣante viśvāhā ‖ 2 ‖*
 
@@ -8548,8 +8548,8 @@ Closing of Rik 90.2: "॥ २ ॥" (2), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.3)** *(Gāyatrī; accents not reproduced)*
 
-> ते अस्मभ्यं शर्म यंसन्नमृता मर्त्येभ्यः ।
-> बाधमाना अप द्विषः ॥ ३ ॥
+> ते अ॒स्मभ्यं॒ शर्म॑ यंसन्न॒मृता॒ मर्त्ये॑भ्यः ।
+> बाध॑माना॒ अप॒ द्विषः॑ ॥ ३ ॥
 
 *te asmabhyaṃ śarma yaṃsann amṛtā martyebhyaḥ | bādhamānā apa dviṣaḥ ‖ 3 ‖*
 
@@ -8616,8 +8616,8 @@ Closing of Rik 90.3: "॥ ३ ॥" (3). *(A separator "— :o: —" follows in t
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.4)** *(Gāyatrī; accents not reproduced)*
 
-> वि नः पथः सुविताय चियन्त्विन्द्रो मरुतः ।
-> पूषा भगो वन्द्यासः ॥ ४ ॥
+> वि नः॑ प॒थः सु॑वि॒ताय॑ चि॒यन्त्विन्द्रो॑ म॒रुतः॑ ।
+> पू॒षा भगो॒ वन्द्या॑सः ॥ ४ ॥
 
 *vi naḥ pathaḥ suvitāya ciyantv indro marutaḥ | pūṣā bhago vandyāsaḥ ‖ 4 ‖*
 
@@ -8685,8 +8685,8 @@ Closing of Rik 90.4: "॥ ४ ॥" (4). *(A separator "— :o: —" follows in t
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.5)** *(Gāyatrī; accents not reproduced)*
 
-> उत नो धियो गोअग्राः पूषन्विष्णवेवयावः ।
-> कर्ता नः स्वस्तिमतः ॥ ५ ॥
+> उ॒त नो॒ धियो॒ गोअ॑ग्राः॒ पूष॒न्विष्ण॒वेव॑यावः ।
+> कर्ता॑ नः स्वस्ति॒मतः॑ ॥ ५ ॥
 
 *uta no dhiyo goagrāḥ pūṣan viṣṇav evayāvaḥ | kartā naḥ svastimataḥ ‖ 5 ‖*
 
@@ -8774,8 +8774,8 @@ Closing of Rik 90.5: "॥ ५ ॥" (5).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.6)** *(Gāyatrī; accents not reproduced)*
 
-> मधु वाता ऋतायते मधु क्षरन्ति सिन्धवः ।
-> माध्वीर्नः सन्त्वोषधीः ॥ ६ ॥
+> मधु॒ वाता॑ ऋताय॒ते मधु॑ क्षरन्ति॒ सिन्ध॑वः ।
+> माध्वी॑र्नः स॒न्त्वोष॑धीः ॥ ६ ॥
 
 *madhu vātā ṛtāyate madhu kṣaranti sindhavaḥ | mādhvīr naḥ santv oṣadhīḥ ‖ 6 ‖*
 
@@ -8867,8 +8867,8 @@ Closing of Rik 90.6: "॥ ६ ॥" (6).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.7)** *(Gāyatrī; accents not reproduced)*
 
-> मधु नक्तमुतोषसो मधुमत्पार्थिवं रजः ।
-> मधु द्यौरस्तु नः पिता ॥ ७ ॥
+> मधु॒ नक्त॑मु॒तोषसो॒ मधु॑म॒त्पार्थि॑वं॒ रजः॑ ।
+> मधु॒ द्यौर॑स्तु नः पि॒ता ॥ ७ ॥
 
 *madhu naktam utoṣaso madhumat pārthivaṃ rajaḥ | madhu dyaur astu naḥ pitā ‖ 7 ‖*
 
@@ -8934,8 +8934,8 @@ Closing of Rik 90.7: "॥ ७ ॥" (7).
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.8)** *(Gāyatrī; accents not reproduced)*
 
-> मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः ।
-> माध्वीर्गावो भवन्तु नः ॥ ८ ॥
+> मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।
+> माध्वी॒र्गावो॑ भवन्तु नः ॥ ८ ॥
 
 *madhumān no vanaspatir madhumāṃ astu sūryaḥ | mādhvīr gāvo bhavantu naḥ ‖ 8 ‖*
 
@@ -8998,8 +8998,8 @@ Closing of Rik 90.8: "॥ ८ ॥" (8), followed by a printer's ornament.
 
 **॥ संहितापाठः ॥ — Saṃhitā (Rik 90.9)** *(Anuṣṭubh — the last Ṛk; accents not reproduced)*
 
-> शं नो मित्रः शं वरुणः शं नो भवत्वर्यमा ।
-> शं न इन्द्रो बृहस्पतिः शं नो विष्णुरुरुक्रमः ॥ ९ ॥
+> शं नो॑ मि॒त्रः शं वरु॑णः॒ शं नो॑ भवत्वर्य॒मा ।
+> शं न॒ इन्द्रो॒ बृह॒स्पतिः॒ शं नो॒ विष्णु॑रुरुक्र॒मः ॥ ९ ॥
 
 *śaṃ no mitraḥ śaṃ varuṇaḥ śaṃ no bhavatv aryamā | śaṃ na indro bṛhaspatiḥ śaṃ no viṣṇur urukramaḥ ‖ 9 ‖*
 
@@ -9136,8 +9136,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.1)**
 
-> त्वं सोम प्र चिकितो मनीषा त्वं रजिष्ठमनु नेषि पंथाम् ।
-> तव प्रणीती पितरो न इन्दो देवेषु रत्नमभजन्त धीराः ॥ १ ॥
+> त्वं सो॑म॒ प्र चि॑कितो मनी॒षा त्वं रजि॑ष्ठ॒मनु॑ नेषि॒ पंथा॑म् ।
+> तव॒ प्रणी॑ती पि॒तरो॑ न इन्दो दे॒वेषु॒ रत्न॑मभजन्त॒ धीराः॑ ॥ १ ॥
 
 *tvaṃ soma pra cikito manīṣā tvaṃ rajiṣṭham anu neṣi paṃthām | tava praṇītī pitaro na indo deveṣu ratnam abhajanta dhīrāḥ ‖ 1 ‖*
 
@@ -9239,8 +9239,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.2)**
 
-> त्वं सोम क्रतुभिः सुक्रतुर्भूस्त्वं दक्षैः सुदक्षो विश्ववेदाः ।
-> त्वं वृषा वृषत्वेभिर्महित्वा द्युम्नेभिर्द्युम्न्यभवो नृचक्षाः ॥ २ ॥
+> त्वं सो॑म॒ क्रतु॑भिः सु॒क्रतु॑र्भू॒स्त्वं दक्षैः॑ सु॒दक्षो॑ वि॒श्ववे॑दाः ।
+> त्वं वृषा॑ वृष॒त्वेभि॑र्महि॒त्वा द्यु॒म्नेभि॑र्द्यु॒म्न्य॑भवो नृ॒चक्षाः॑ ॥ २ ॥
 
 *tvaṃ soma kratubhiḥ sukratur bhūs tvaṃ dakṣaiḥ sudakṣo viśvavedāḥ | tvaṃ vṛṣā vṛṣatvebhir mahitvā dyumnebhir dyumny abhavo nṛcakṣāḥ ‖ 2 ‖*
 
@@ -9371,8 +9371,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.3)**
 
-> राज्ञो नु ते वरुणस्य व्रतानि बृहद्गभीरं तव सोम धाम ।
-> शुचिष्ट्वमसि प्रियो न मित्रो दक्षाय्यो अर्यमेवासि सोम ॥ ३ ॥
+> राज्ञो॒ नु ते॒ वरु॑णस्य व्र॒तानि॑ बृ॒हद्ग॑भी॒रं तव॑ सोम॒ धाम॑ ।
+> शुचि॒ष्ट्वम॑सि प्रि॒यो न मि॒त्रो द॒क्षाय्यो॑ अर्य॒मेवा॑सि सोम ॥ ३ ॥
 
 *rājño nu te varuṇasya vratāni bṛhad gabhīraṃ tava soma dhāma | śuciṣ ṭvam asi priyo na mitro dakṣāyyo aryamevāsi soma ‖ 3 ‖*
 
@@ -9495,8 +9495,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.4)**
 
-> या ते धामानि दिवि या पृथिव्यां या पर्वतेष्वोषधीष्वप्सु ।
-> तेभिर्नो विश्वैः सुमना अहेळन्राजन्सोम प्रति हव्या गृभाय ॥ ४ ॥
+> या ते॒ धामा॑नि दि॒वि या पृ॑थि॒व्यां या पर्व॑ते॒ष्वोष॑धीष्व॒प्सु ।
+> तेभि॑र्नो॒ विश्वैः॑ सु॒मना॒ अहे॑ळ॒न्राज॑न्सोम॒ प्रति॑ ह॒व्या गृ॑भाय ॥ ४ ॥
 
 *yā te dhāmāni divi yā pṛthivyāṃ yā parvateṣv oṣadhīṣv apsu | tebhir no viśvaiḥ sumanā aheḷan rājan soma prati havyā gṛbhāya ‖ 4 ‖*
 
@@ -9658,8 +9658,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.5)**
 
-> त्वं सोमासि सत्पतिस्त्वं राजोत वृत्रहा ।
-> त्वं भद्रो असि क्रतुः ॥ ५ ॥
+> त्वं सो॑मासि॒ सत्प॑ति॒स्त्वं राजो॒त वृ॑त्र॒हा ।
+> त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥ ५ ॥
 
 *tvaṃ somāsi satpatis tvaṃ rājota vṛtrahā | tvaṃ bhadro asi kratuḥ ‖ 5 ‖*
 
@@ -9794,8 +9794,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.6)**
 
-> त्वं च सोम नो वशो जीवातुं न मरामहे ।
-> प्रियस्तोत्रो वनस्पतिः ॥ ६ ॥
+> त्वं च॑ सोम नो॒ वशो॑ जी॒वातुं॒ न म॑रामहे ।
+> प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ॥ ६ ॥
 
 *tvaṃ ca soma no vaśo jīvātuṃ na marāmahe | priyastotro vanaspatiḥ ‖ 6 ‖*
 
@@ -9905,8 +9905,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.7)**
 
-> त्वं सोम महे भगं त्वं यून ऋतायते ।
-> दक्षं दधासि जीवसे ॥ ७ ॥
+> त्वं सो॑म म॒हे भगं॒ त्वं यून॑ ऋताय॒ते ।
+> दक्षं॑ दधासि जी॒वसे॑ ॥ ७ ॥
 
 *tvaṃ soma mahe bhagaṃ tvaṃ yūna ṛtāyate | dakṣaṃ dadhāsi jīvase ‖ 7 ‖*
 
@@ -9981,8 +9981,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.8)**
 
-> त्वं नः सोम विश्वतो रक्षा राजन्नघायतः ।
-> न रिष्येत्त्वावतः सखा ॥ ८ ॥
+> त्वं नः॑ सोम वि॒श्वतो॒ रक्षा॑ राजन्नघाय॒तः ।
+> न रि॑ष्ये॒त्त्वाव॑तः॒ सखा॑ ॥ ८ ॥
 
 *tvaṃ naḥ soma viśvato rakṣā rājann aghāyataḥ | na riṣyet tvāvataḥ sakhā ‖ 8 ‖*
 
@@ -10061,8 +10061,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.9)**
 
-> सोम यास्ते मयोभुव ऊतयः सन्ति दाशुषे ।
-> ताभिर्नोऽविता भव ॥ ९ ॥
+> सोम॒ यास्ते॑ मयो॒भुव॑ ऊ॒तयः॒ सन्ति॑ दा॒शुषे॑ ।
+> ताभि॑र्नोऽवि॒ता भ॑व ॥ ९ ॥
 
 *soma yās te mayobhuva ūtayaḥ santi dāśuṣe | tābhir no 'vitā bhava ‖ 9 ‖*
 
@@ -10162,8 +10162,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.10)**
 
-> इमं यज्ञमिदं वचो जुजुषाण उपागहि ।
-> सोम त्वं नो वृधे भव ॥ १० ॥
+> इ॒मं य॒ज्ञमि॒दं वचो॑ जुजुषा॒ण उ॒पाग॑हि ।
+> सोम॒ त्वं नो॑ वृ॒धे भ॑व ॥ १० ॥
 
 *imaṃ yajñam idaṃ vaco jujuṣāṇa upāgahi | soma tvaṃ no vṛdhe bhava ‖ 10 ‖*
 
@@ -10231,8 +10231,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.11)**
 
-> सोम गीर्भिष्ट्वा वयं वर्धयामो वचोविदः ।
-> सुमृळीको न आ विश ॥ ११ ॥
+> सोम॑ गी॒र्भिष्ट्वा॑ व॒यं व॒र्धया॑मो वचो॒विदः॑ ।
+> सु॒मृ॒ळी॒को न॒ आ वि॑श ॥ ११ ॥
 
 *soma gīrbhiṣ ṭvā vayaṃ vardhayāmo vacovidaḥ | sumṛḷīko na ā viśa ‖ 11 ‖*
 
@@ -10311,8 +10311,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.12)**
 
-> गयस्फानो अमीवहा वसुवित्पुष्टिवर्धनः ।
-> सुमित्रः सोम नो भव ॥ १२ ॥
+> ग॒य॒स्फानो॑ अमीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।
+> सु॒मि॒त्रः सो॑म नो भव ॥ १२ ॥
 
 *gayasphāno amīvahā vasuvit puṣṭivardhanaḥ | sumitraḥ soma no bhava ‖ 12 ‖*
 
@@ -10423,8 +10423,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.13)**
 
-> सोम रारन्धि नो हृदि गावो न यवसेष्वा ।
-> मर्य इव स्व ओक्ये ॥ १३ ॥
+> सोम॑ रार॒न्धि नो॑ हृ॒दि गावो॒ न यव॑से॒ष्वा ।
+> मर्य॑ इव॒ स्व ओ॒क्ये॑ ॥ १३ ॥
 
 *soma rārandhi no hṛdi gāvo na yavaseṣv ā | marya iva sva okye ‖ 13 ‖*
 
@@ -10499,8 +10499,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.14)**
 
-> यः सोम सख्ये तव रारणद्देव मर्त्यः ।
-> तं दक्षः सचते कविः ॥ १४ ॥
+> यः सो॑म स॒ख्ये तव॑ रा॒रण॑द्देव॒ मर्त्यः॑ ।
+> तं दक्षः॑ सचते क॒विः ॥ १४ ॥
 
 *yaḥ soma sakhye tava rāraṇad deva martyaḥ | taṃ dakṣaḥ sacate kaviḥ ‖ 14 ‖*
 
@@ -10587,8 +10587,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.15)**
 
-> उरुष्या णो अभिशस्तेः सोम नि पाह्यंहसः ।
-> सखा सुशेव एधि नः ॥ १५ ॥
+> उ॒रु॒ष्या णो॑ अ॒भिश॑स्तेः॒ सोम॒ नि पा॒ह्यंह॑सः ।
+> सखा॑ सु॒शेव॑ एधि नः ॥ १५ ॥
 
 *uruṣyā ṇo abhiśasteḥ soma ni pāhy aṃhasaḥ | sakhā suśeva edhi naḥ ‖ 15 ‖*
 
@@ -10656,8 +10656,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.16)**
 
-> आ प्यायस्व समेतु ते विश्वतः सोम वृष्ण्यम् ।
-> भवा वाजस्य संगथे ॥ १६ ॥
+> आ प्या॑यस्व॒ समे॑तु ते वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।
+> भवा॒ वाज॑स्य संग॒थे ॥ १६ ॥
 
 *ā pyāyasva sam etu te viśvataḥ soma vṛṣṇyam | bhavā vājasya saṃgathe ‖ 16 ‖*
 
@@ -10725,8 +10725,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.17)** *(Uṣṇih)*
 
-> आ प्यायस्व मदिन्तम सोम विश्वेभिरंशुभिः ।
-> भवा नः सुश्रवस्तमः सखा वृधे ॥ १७ ॥
+> आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वे॑भिरं॒शुभिः॑ ।
+> भवा॑ नः सु॒श्रव॑स्तमः॒ सखा॑ वृ॒धे ॥ १७ ॥
 
 *ā pyāyasva madintama soma viśvebhir aṃśubhiḥ | bhavā naḥ suśravastamaḥ sakhā vṛdhe ‖ 17 ‖*
 
@@ -10802,8 +10802,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.18)**
 
-> सं ते पयांसि समु यन्तु वाजाः सं वृष्ण्यान्यभिमातिषाहः ।
-> आप्यायमानो अमृताय सोम दिवि श्रवांस्युत्तमानि धिष्व ॥ १८ ॥
+> सं ते॒ पयां॑सि॒ समु॑ यन्तु॒ वाजाः॒ सं वृष्ण्या॑न्यभिमाति॒षाहः॑ ।
+> आ॒प्याय॑मानो अ॒मृता॑य सोम दि॒वि श्रवां॑स्युत्त॒मानि॑ धिष्व ॥ १८ ॥
 
 *saṃ te payāṃsi sam u yantu vājāḥ saṃ vṛṣṇyāny abhimātiṣāhaḥ | āpyāyamāno amṛtāya soma divi śravāṃsy uttamāni dhiṣva ‖ 18 ‖*
 
@@ -10896,8 +10896,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.19)**
 
-> या ते धामानि हविषा यजन्ति ता ते विश्वा परिभूरस्तु यज्ञम् ।
-> गयस्फानः प्रतरणः सुवीरोऽवीरहा प्र चरा सोम दुर्यान् ॥ १९ ॥
+> या ते॒ धामा॑नि ह॒विषा॒ यज॑न्ति॒ ता ते॒ विश्वा॑ परि॒भूर॑स्तु य॒ज्ञम् ।
+> ग॒य॒स्फानः॑ प्र॒तर॑णः सु॒वीरोऽवी॑रहा॒ प्र च॑रा सोम॒ दुर्या॑न् ॥ १९ ॥
 
 *yā te dhāmāni haviṣā yajanti tā te viśvā paribhūr astu yajñam | gayasphānaḥ prataraṇaḥ suvīro 'vīrahā pra carā soma duryān ‖ 19 ‖*
 
@@ -11005,8 +11005,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.20)**
 
-> सोमो धेनुं सोमो अर्वन्तमाशुं सोमो वीरं कर्मण्यं ददाति ।
-> सादन्यं विदथ्यं सभेयं पितृश्रवणं यो ददाशदस्मै ॥ २० ॥
+> सोमो॑ धे॒नुं सोमो॒ अर्व॑न्तमा॒शुं सोमो॑ वी॒रं क॑र्म॒ण्यं॑ ददाति ।
+> सा॒द॒न्यं॑ विद॒थ्यं॑ स॒भेयं॑ पितृ॒श्रव॑णं॒ यो ददा॑शदस्मै ॥ २० ॥
 
 *somo dhenuṃ somo arvantam āśuṃ somo vīraṃ karmaṇyaṃ dadāti | sādanyaṃ vidathyaṃ sabheyaṃ pitṛśravaṇaṃ yo dadāśad asmai ‖ 20 ‖*
 
@@ -11094,8 +11094,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.21)**
 
-> अषाळ्हं युत्सु पृतनासु पप्रिं स्वर्षामप्सां वृजनस्य गोपाम् ।
-> भरेषुजां सुक्षितिं सुश्रवसं जयन्तं त्वामनु मदेम सोम ॥ २१ ॥
+> अषा॑ळ्हं यु॒त्सु पृत॑नासु॒ पप्रिं॑ स्व॒र्षाम॒प्सां वृ॒जन॑स्य गो॒पाम् ।
+> भ॒रे॒षु॒जां सु॑क्षि॒तिं सु॒श्रव॑सं॒ जय॑न्तं॒ त्वामनु॑ मदेम सोम ॥ २१ ॥
 
 *aṣāḷhaṃ yutsu pṛtanāsu papriṃ svarṣām apsāṃ vṛjanasya gopām | bhareṣujāṃ sukṣitiṃ suśravasaṃ jayantaṃ tvām anu madema soma ‖ 21 ‖*
 
@@ -11195,8 +11195,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.22)**
 
-> त्वमिमा ओषधीः सोम विश्वास्त्वमपो अजनयस्त्वं गाः ।
-> त्वमा ततन्थोर्वन्तरिक्षं त्वं ज्योतिषा वि तमो ववर्थ ॥ २२ ॥
+> त्वमि॒मा ओष॑धीः सोम॒ विश्वा॒स्त्वम॒पो अ॑जनय॒स्त्वं गाः ।
+> त्वमा त॑तन्थो॒र्व१॒॑न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥ २२ ॥
 
 *tvam imā oṣadhīḥ soma viśvās tvam apo ajanayas tvaṃ gāḥ | tvam ā tatanthorv antarikṣaṃ tvaṃ jyotiṣā vi tamo vavartha ‖ 22 ‖*
 
@@ -11315,7 +11315,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.23)**
 
-> देवेन नो मनसा देव सोम रायो भागं सहसावन्नभि युध्य ।
+> दे॒वेन॑ नो॒ मन॑सा देव सोम रा॒यो भा॒गं स॑हसावन्न॒भि यु॑ध्य ।
 
 *devena no manasā deva soma rāyo bhāgaṃ sahasāvann abhi yudhya |*
 
@@ -11329,8 +11329,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 91.23, completed)**
 
-> देवेन नो मनसा देव सोम रायो भागं सहसावन्नभि युध्य ।
-> मा त्वा तनदीशिषे वीर्यस्योभयेभ्यः प्र चिकित्सा गविष्टौ ॥ २३ ॥
+> दे॒वेन॑ नो॒ मन॑सा देव सोम रा॒यो भा॒गं स॑हसावन्न॒भि यु॑ध्य ।
+> मा त्वा त॑न॒दीशि॑षे वी॒र्य॑स्यो॒भये॑भ्यः॒ प्र चि॑कित्सा॒ गवि॑ष्टौ ॥ २३ ॥
 
 *devena no manasā deva soma rāyo bhāgaṃ sahasāvann abhi yudhya | mā tvā tanad īśiṣe vīryasyobhayebhyaḥ pra cikitsā gaviṣṭau ‖ 23 ‖*
 
@@ -11486,8 +11486,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.1)** *(Jagatī)*
 
-> एता उ त्या उषसः केतुमक्रत पूर्वे अर्धे रजसो भानुमञ्जते ।
-> निष्कृण्वाना आयुधानीव धृष्णवः प्रति गावोऽरुषीर्यन्ति मातरः ॥ १ ॥
+> ए॒ता उ॒ त्या उ॒षसः॑ के॒तुम॑क्रत॒ पूर्वे॒ अर्धे॒ रज॑सो भा॒नुम॑ञ्जते ।
+> नि॒ष्कृ॒ण्वा॒ना आयु॑धानीव धृ॒ष्णवः॒ प्रति॒ गावोऽरु॑षीर्यन्ति मा॒तरः॑ ॥ १ ॥
 
 *etā u tyā uṣasaḥ ketum akrata pūrve ardhe rajaso bhānum añjate | niṣkṛṇvānā āyudhānīva dhṛṣṇavaḥ prati gāvo 'ruṣīr yanti mātaraḥ ‖ 1 ‖*
 
@@ -11591,8 +11591,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.2)** *(Jagatī)*
 
-> उदपप्तन्नरुणा भानवो वृथा स्वायुजो अरुषीर्गा अयुक्षत ।
-> अक्रन्नुषासो वयुनानि पूर्वथा रुशन्तं भानुमरुषीरशिश्रयुः ॥ २ ॥
+> उद॑पप्तन्नरु॒णा भा॒नवो॒ वृथा॑ स्वा॒युजो॒ अरु॑षी॒र्गा अ॑युक्षत ।
+> अक्र॑न्नु॒षासो॑ व॒युना॑नि पू॒र्वथा॒ रुश॑न्तं भा॒नुमरु॑षीरशिश्रयुः ॥ २ ॥
 
 *udapaptann aruṇā bhānavo vṛthā svāyujo aruṣīr gā ayukṣata | akrann uṣāso vayunāni pūrvathā ruśantaṃ bhānum aruṣīr aśiśrayuḥ ‖ 2 ‖*
 
@@ -11675,7 +11675,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.3)** *(Jagatī; the second line is on p. 411)*
 
-> अर्चन्ति नारीरपसो न विष्टिभिः समानेन योजनेना परावतः ।
+> अर्च॑न्ति॒ नारी॑र॒पसो॒ न वि॒ष्टिभिः॑ समा॒नेन॒ योज॑ने॒ना प॑रा॒वतः॑ ।
 
 *arcanti nārīr apaso na viṣṭibhiḥ samānena yojanenā parāvataḥ |*
 
@@ -11750,8 +11750,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.4)** *(Jagatī)*
 
-> अधि पेशांसि वपते नृतूरिवापोर्णुते वक्ष उस्रेव बर्जहम् ।
-> ज्योतिर्विश्वस्मै भुवनाय कृण्वती गावो न व्रजं व्युषा आवर्तमः ॥ ४ ॥
+> अधि॒ पेशां॑सि वपते नृ॒तूरि॒वापो॑र्णुते॒ वक्ष॑ उ॒स्रेव॒ बर्ज॑हम् ।
+> ज्योति॒र्विश्व॑स्मै॒ भुव॑नाय कृण्व॒ती गावो॒ न व्र॒जं व्यु१॒॑षा आ॑व॒र्तमः॑ ॥ ४ ॥
 
 *adhi peśāṃsi vapate nṛtūr ivāpornute vakṣa usreva barjaham | jyotir viśvasmai bhuvanāya kṛṇvatī gāvo na vrajaṃ vy uṣā āvar tamaḥ ‖ 4 ‖*
 
@@ -11856,8 +11856,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.5)** *(Triṣṭubh)*
 
-> प्रत्यर्ची रुशदस्या अदर्शि वि तिष्ठते बाधते कृष्णमभ्वम् ।
-> स्वरुं न पेशो विदथेष्वञ्जञ्चित्रं दिवो दुहिता भानुमश्रेत् ॥ ५ ॥
+> प्रत्य॒र्ची रुश॑दस्या अदर्शि॒ वि ति॑ष्ठते॒ बाध॑ते कृ॒ष्णमभ्व॑म् ।
+> स्वरुं॒ न पेशो॑ वि॒दथे॑ष्व॒ञ्जञ्चि॒त्रं दि॒वो दु॑हि॒ता भा॒नुम॑श्रेत् ॥ ५ ॥
 
 *pratyarcī ruśadasyā adarśi vi tiṣṭhate bādhate kṛṣṇam abhvam | svaruṃ na peśo vidatheṣv añjañ citraṃ divo duhitā bhānum aśret ‖ 5 ‖*
 
@@ -12010,8 +12010,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.6)** *(Triṣṭubh)*
 
-> अतारिष्म तमसस्पारमस्योषा उच्छन्ती वयुना कृणोति ।
-> श्रिये छन्दो न स्मयते विभाती सुप्रतीका सौमनसायाजीगः ॥ ६ ॥
+> अता॑रिष्म॒ तम॑सस्पा॒रम॒स्योषा उ॒च्छन्ती॑ व॒युना॑ कृणोति ।
+> श्रि॒ये छन्दो॒ न स्म॑यते विभा॒ती सु॒प्रती॑का सौमन॒साया॑जीगः ॥ ६ ॥
 
 *atāriṣma tamasas pāram asyoṣā ucchantī vayunā kṛṇoti | śriye chando na smayate vibhātī supratīkā saumanasāyājīgaḥ ‖ 6 ‖*
 
@@ -12113,8 +12113,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.7)** *(Triṣṭubh)*
 
-> भास्वती नेत्री सूनृतानां दिवः स्तवे दुहिता गोतमेभिः ।
-> प्रजावतो नृवतो अश्वबुध्यानुषो गोअग्रानुप मासि वाजान् ॥ ७ ॥
+> भास्व॑ती ने॒त्री सू॒नृता॑नां दि॒वः स्त॑वे दुहि॒ता गोत॑मेभिः ।
+> प्र॒जाव॑तो नृ॒वतो॒ अश्व॑बुध्या॒नुषो॒ गोअ॑ग्रानु॒प॑ मासि॒ वाजा॑न् ॥ ७ ॥
 
 *bhāsvatī netrī sūnṛtānāṃ divaḥ stave duhitā gotamebhiḥ | prajāvato nṛvato aśvabudhyān uṣo goagrān upa māsi vājān ‖ 7 ‖*
 
@@ -12207,8 +12207,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.8)** *(Triṣṭubh)*
 
-> उषस्तमश्याम् यशसं सुवीरं दासप्रवर्गं रयिमश्वबुध्यम् ।
-> सुदंससा श्रवसा या विभासि वाजप्रसूता सुभगे बृहन्तम् ॥ ८ ॥
+> उष॒स्तम॑श्याम् य॒शसं॑ सु॒वीरं॑ दा॒सप्र॑वर्गं र॒यिमश्व॑बुध्यम् ।
+> सु॒दंस॑सा॒ श्रव॑सा॒ या वि॒भासि॒ वाज॑प्रसूता सुभगे बृ॒हन्त॑म् ॥ ८ ॥
 
 *uṣas tam aśyāṃ yaśasaṃ suvīraṃ dāsapravargaṃ rayim aśvabudhyam | sudaṃsasā śravasā yā vibhāsi vājaprasūtā subhage bṛhantam ‖ 8 ‖*
 
@@ -12312,8 +12312,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.9)** *(Triṣṭubh)*
 
-> विश्वानि देवी भुवनाभिचक्ष्या प्रतीची चक्षुरुर्विया वि भाति ।
-> विश्वं जीवं चरसे बोधयन्ती विश्वस्य वाचमविदन्मनायोः ॥ ९ ॥
+> विश्वा॑नि दे॒वी भुव॑नाभि॒चक्ष्या॑ प्रती॒ची चक्षु॑रुर्वि॒या वि भा॑ति ।
+> विश्वं॑ जी॒वं च॒रसे॑ बो॒धय॑न्ती॒ विश्व॑स्य॒ वाच॑मविदन्मना॒योः ॥ ९ ॥
 
 *viśvāni devī bhuvanābhicakṣyā pratīcī cakṣur urviyā vi bhāti | viśvaṃ jīvaṃ carase bodhayantī viśvasya vācam avidan manāyoḥ ‖ 9 ‖*
 
@@ -12468,8 +12468,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.10)** *(Triṣṭubh)*
 
-> पुनःपुनर्जायमाना पुराणी समानं वर्णमभि शुम्भमाना ।
-> श्वघ्नीव कृत्नुर्विज आमिनाना मर्तस्य देवी जरयन्त्यायुः ॥ १० ॥
+> पुनः॑पुन॒र्जाय॑माना पुरा॒णी स॑मा॒नं वर्ण॑म॒भि शुम्भ॑माना ।
+> श्व॒घ्नीव॑ कृ॒त्नुर्विज॑ आमिना॒ना मर्त॑स्य दे॒वी ज॒रय॒न्त्यायुः॑ ॥ १० ॥
 
 *punaḥpunar jāyamānā purāṇī samānaṃ varṇam abhi śumbhamānā | śvaghnīva kṛtnur vija āminānā martasya devī jarayanty āyuḥ ‖ 10 ‖*
 
@@ -12631,8 +12631,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.11)** *(Triṣṭubh)*
 
-> व्यूर्ण्वती दिवो अन्ताँ अबोध्यप स्वसारं सनुतर्युयोति ।
-> प्रमिनती मनुष्या युगानि योषा जारस्य चक्षसा वि भाति ॥ ११ ॥
+> व्यू॒र्ण्व॒ती दि॒वो अन्ताँ॑ अबो॒ध्यप॒ स्वसा॑रं सनु॒तर्यु॑योति ।
+> प्र॒मि॒न॒ती म॑नु॒ष्या॑ यु॒गानि॒ योषा॑ जा॒रस्य॒ चक्ष॑सा॒ वि भा॑ति ॥ ११ ॥
 
 *vy ūrṇvatī divo antāṃ abodhy apa svasāraṃ sanutar yuyoti | praminatī manuṣyā yugāni yoṣā jārasya cakṣasā vi bhāti ‖ 11 ‖*
 
@@ -12794,7 +12794,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.12)** *(Triṣṭubh; the second line is on p. 450)*
 
-> पशून्न चित्रा सुभगा पृथाना सिन्धुर्न क्षोद उर्विया व्यश्वैत् ।
+> प॒शून्न चि॒त्रा सु॒भगा॑ पृथा॒ना सिन्धु॒र्न क्षोद॑ उर्वि॒या व्य॑श्वैत् ।
 
 *paśūn na citrā subhagā pṛthānā sindhur na kṣoda urviyā vy aśvait |*
 
@@ -12914,8 +12914,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.13)** *(Uṣṇih)*
 
-> उषस्तच्चित्रमा भरास्मभ्यं वाजिनीवति ।
-> येन तोकं च तनयं च धामहे ॥ १३ ॥
+> उष॒स्तच्चि॒त्रमा भ॑रा॒स्मभ्यं॑ वाजिनीवति ।
+> येन॑ तो॒कं च॒ तन॑यं च॒ धाम॑हे ॥ १३ ॥
 
 *uṣas tac citram ā bharāsmabhyaṃ vājinīvati | yena tokaṃ ca tanayaṃ ca dhāmahe ‖ 13 ‖*
 
@@ -12985,8 +12985,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.14)** *(Uṣṇih)*
 
-> उषो अद्येह गोमत्यश्वावति विभावरि ।
-> रेवदस्मे व्युच्छ सूनृतावति ॥ १४ ॥
+> उषो॑ अ॒द्येह गो॑म॒त्यश्वा॑वति विभावरि ।
+> रे॒वद॒स्मे व्यु॑च्छ सूनृतावति ॥ १४ ॥
 
 *uṣo adyeha gomaty aśvāvati vibhāvari | revad asme vy uccha sūnṛtāvati ‖ 14 ‖*
 
@@ -13047,8 +13047,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.15)** *(Uṣṇih)*
 
-> युक्ष्वा हि वाजिनीवत्यश्वाँ अद्यारुणाँ उषः ।
-> अथा नो विश्वा सौभगान्या वह ॥ १५ ॥
+> यु॒क्ष्वा हि वा॑जिनीव॒त्यश्वाँ॑ अ॒द्यारु॒णाँ उ॑षः ।
+> अथा॑ नो॒ विश्वा॒ सौभ॑गा॒न्या व॑ह ॥ १५ ॥
 
 *yukṣvā hi vājinīvaty aśvāṃ adyāruṇāṃ uṣaḥ | athā no viśvā saubhagāny ā vaha ‖ 15 ‖*
 
@@ -13140,8 +13140,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.16)** *(Uṣṇih; the first of the three Ṛks addressed to the Aśvins)*
 
-> अश्विना वर्तिरस्मदा गोमद्दस्रा हिरण्यवत् ।
-> अर्वाग्रथं समनसा नि यच्छतम् ॥ १६ ॥
+> अश्वि॑ना व॒र्तिर॒स्मदा गोम॑द्दस्रा॒ हिर॑ण्यवत् ।
+> अ॒र्वाग्रथं॒ सम॑नसा॒ नि य॑च्छतम् ॥ १६ ॥
 
 *aśvinā vartir asmad ā gomad dasrā hiraṇyavat | arvāg rathaṃ samanasā ni yacchatam ‖ 16 ‖*
 
@@ -13235,8 +13235,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.17)** *(Uṣṇih)*
 
-> यावित्था श्लोकमा दिवो ज्योतिर्जनाय चक्रथुः ।
-> आ न ऊर्जं वहतमश्विना युवम् ॥ १७ ॥
+> यावि॒त्था श्लोक॒मा दि॒वो ज्योति॒र्जना॑य च॒क्रथुः॑ ।
+> आ न॒ ऊर्जं॑ वहतमश्विना यु॒वम् ॥ १७ ॥
 
 *yāv itthā ślokam ā divo jyotir janāya cakrathuḥ | ā na ūrjaṃ vahatam aśvinā yuvam ‖ 17 ‖*
 
@@ -13318,8 +13318,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 92.18)** *(Uṣṇih; the last Ṛk of the sūkta)*
 
-> एह देवा मयोभुवा दस्रा हिरण्यवर्तनी ।
-> उषर्बुधो वहन्तु सोमपीतये ॥ १८ ॥
+> एह दे॒वा म॑यो॒भुवा॑ द॒स्रा हिर॑ण्यवर्तनी ।
+> उ॒ष॒र्बुधो॑ वहन्तु॒ सोम॑पीतये ॥ १८ ॥
 
 *eha devā mayobhuvā dasrā hiraṇyavartanī | uṣarbudho vahantu somapītaye ‖ 18 ‖*
 
@@ -13455,8 +13455,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.1)** *(Anuṣṭubh)*
 
-> अग्नीषोमाविमं सु मे शृणुतं वृषणा हवम् ।
-> प्रति सूक्तानि हर्यतं भवतं दाशुषे मयः ॥ १ ॥
+> अग्नी॑षोमावि॒मं सु मे॑ शृणु॒तं वृ॑षणा॒ हव॑म् ।
+> प्रति॑ सू॒क्तानि॑ हर्यतं॒ भव॑तं दा॒शुषे॒ मयः॑ ॥ १ ॥
 
 *agnīṣomāv imaṃ su me śṛṇutaṃ vṛṣaṇā havam | prati sūktāni haryataṃ bhavataṃ dāśuṣe mayaḥ ‖ 1 ‖*
 
@@ -13552,8 +13552,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.2)** *(Anuṣṭubh)*
 
-> अग्नीषोमा यो अद्य वामिदं वचः सपर्यति ।
-> तस्मै धत्तं सुवीर्यं गवां पोषं स्वश्व्यम् ॥ २ ॥
+> अग्नी॑षोमा॒ यो अ॒द्य वा॑मि॒दं वचः॑ सप॒र्यति॑ ।
+> तस्मै॑ धत्तं सु॒वीर्यं॒ गवां॒ पोषं॒ स्वश्व्य॑म् ॥ २ ॥
 
 *agnīṣomā yo adya vām idaṃ vacaḥ saparyati | tasmai dhattaṃ suvīryaṃ gavāṃ poṣaṃ svaśvyam ‖ 2 ‖*
 
@@ -13647,8 +13647,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.3)** *(Anuṣṭubh)*
 
-> अग्नीषोमा य आहुतिं यो वां दाशाद्धविष्कृतिम् ।
-> स प्रजया सुवीर्यं विश्वमायुर्व्यश्नवत् ॥ ३ ॥
+> अग्नी॑षोमा॒ य आहु॑तिं॒ यो वां॒ दाशा॑द्ध॒विष्कृ॑तिम् ।
+> स प्र॒जया॑ सु॒वीर्यं॒ विश्व॒मायु॒र्व्य॑श्नवत् ॥ ३ ॥
 
 *agnīṣomā ya āhutiṃ yo vāṃ dāśād dhaviṣkṛtim | sa prajayā suvīryaṃ viśvam āyur vy aśnavat ‖ 3 ‖*
 
@@ -13753,8 +13753,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.4)** *(Triṣṭubh)*
 
-> अग्नीषोमा चेति तद्वीर्यं वां यदमुष्णीतमवसं पणिं गाः ।
-> अवातिरतं बृसयस्य शेषोऽविन्दतं ज्योतिरेकं बहुभ्यः ॥ ४ ॥
+> अग्नी॑षोमा॒ चेति॒ तद्वी॒र्यं॑ वां॒ यदमु॑ष्णीतमव॒सं प॒णिं गाः ।
+> अवा॑तिरतं॒ बृस॑यस्य॒ शेषोऽवि॑न्दतं॒ ज्योति॒रेकं॑ ब॒हुभ्यः॑ ॥ ४ ॥
 
 *agnīṣomā ceti tad vīryaṃ vāṃ yad amuṣṇītam avasaṃ paṇiṃ gāḥ | avātiratam bṛsayasya śeṣo 'vindataṃ jyotir ekaṃ bahubhyaḥ ‖ 4 ‖*
 
@@ -13926,8 +13926,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.5)** *(Triṣṭubh)*
 
-> युवमेतानि दिवि रोचनान्यग्निश्च सोम सक्रतू अधत्तम् ।
-> युवं सिन्धूँरभिशस्तेरवद्यादग्नीषोमावमुञ्चतं गृभीतान् ॥ ५ ॥
+> यु॒वमे॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।
+> यु॒वं सिन्धूँ॑र॒भिश॑स्तेरव॒द्यादग्नी॑षोमा॒वमु॑ञ्चतं गृभी॒तान् ॥ ५ ॥
 
 *yuvam etāni divi rocanāny agniś ca soma sakratū adhattam | yuvaṃ sindhūm̐r abhiśaster avadyād agnīṣomāv amuñcataṃ gṛbhītān ‖ 5 ‖*
 
@@ -14045,8 +14045,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.6)** *(Triṣṭubh)*
 
-> अन्यं दिवो मातरिश्वा जभारामथ्नादन्यं परि श्येनो अद्रेः ।
-> अग्नीषोमा ब्रह्मणा वावृधानोरुं यज्ञाय चक्रथुरु लोकम् ॥ ६ ॥
+> अन्यं दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यं परि॑ श्ये॒नो अद्रेः॑ ।
+> अग्नी॑षोमा॒ ब्रह्म॑णा वावृधा॒नोरुं य॒ज्ञाय॑ चक्रथुरु लो॒कम् ॥ ६ ॥
 
 *anyaṃ divo mātariśvā jabhārāmathnād anyaṃ pari śyeno adreḥ | agnīṣomā brahmaṇā vāvṛdhānoruṃ yajñāya cakrathur u lokam ‖ 6 ‖*
 
@@ -14192,8 +14192,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.7)** *(Triṣṭubh)*
 
-> अग्नीषोमा हविषः प्रस्थितस्य वीतं हर्यतं वृषणा जुषेथाम् ।
-> सुशर्माणा स्ववसा हि भूतमथा धत्तं यजमानाय शं योः ॥ ७ ॥
+> अग्नी॑षोमा ह॒विषः॒ प्रस्थि॑तस्य वी॒तं हर्य॑तं वृषणा जु॒षेथा॑म् ।
+> सु॒शर्मा॑णा॒ स्वव॑सा॒ हि भू॒तमथा॑ धत्तं॒ यज॑मानाय॒ शं योः ॥ ७ ॥
 
 *agnīṣomā haviṣaḥ prasthitasya vītaṃ haryataṃ vṛṣaṇā juṣethām | suśarmāṇā svavasā hi bhūtam athā dhattaṃ yajamānāya śaṃ yoḥ ‖ 7 ‖*
 
@@ -14271,7 +14271,7 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.8)** *(Jagatī or Triṣṭubh; the first line is on p. 496)*
 
-> यो अग्नीषोमा हविषा सपर्याद्देवद्रीचा मनसा यो घृतेन ।
+> यो अ॒ग्नीषोमा॑ ह॒विषा॑ सप॒र्याद्दे॑व॒द्रीचा॒ मन॑सा॒ यो घृ॒तेन॑ ।
 
 *yo agnīṣomā haviṣā saparyād devadrīcā manasā yo ghṛtena |*
 
@@ -14283,8 +14283,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.8, concluded)**
 
-> यो अग्नीषोमा हविषा सपर्याद्देवद्रीचा मनसा यो घृतेन ।
-> तस्य व्रतं रक्षतं पातमंहसो विशे जनाय महि शर्म यच्छतम् ॥ ८ ॥
+> यो अ॒ग्नीषोमा॑ ह॒विषा॑ सप॒र्याद्दे॑व॒द्रीचा॒ मन॑सा॒ यो घृ॒तेन॑ ।
+> तस्य॑ व्र॒तं र॑क्षतं पा॒तमंह॑सो वि॒शे जना॑य॒ महि॒ शर्म॑ यच्छतम् ॥ ८ ॥
 
 *yo agnīṣomā haviṣā saparyād devadrīcā manasā yo ghṛtena | tasya vrataṃ rakṣataṃ pātam aṃhaso viśe janāya mahi śarma yacchatam ‖ 8 ‖*
 
@@ -14376,8 +14376,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.9)** *(Gāyatrī)*
 
-> अग्नीषोमा सवेदसा सहूती वनतं गिरः ।
-> सं देवत्रा बभूवथुः ॥ ९ ॥
+> अग्नी॑षोमा॒ सवे॑दसा॒ सहू॑ती वनतं॒ गिरः॑ ।
+> सं दे॑व॒त्रा ब॑भूवथुः ॥ ९ ॥
 
 *agnīṣomā savedasā sahūtī vanataṃ giraḥ | saṃ devatrā babhūvathuḥ ‖ 9 ‖*
 
@@ -14448,8 +14448,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.10)** *(Gāyatrī)*
 
-> अग्नीषोमावनेन वां यो वां घृतेन दाशति ।
-> तस्मै दीदयतं बृहत् ॥ १० ॥
+> अग्नी॑षोमाव॒नेन॑ वां॒ यो वां॑ घृ॒तेन॒ दाश॑ति ।
+> तस्मै॑ दीदयतं बृ॒हत् ॥ १० ॥
 
 *agnīṣomāv anena vāṃ yo vāṃ ghṛtena dāśati | tasmai dīdayataṃ bṛhat ‖ 10 ‖*
 
@@ -14507,8 +14507,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.11)** *(Gāyatrī)*
 
-> अग्नीषोमाविमानि नो युवं हव्या जुजोषतम् ।
-> आ यातमुप नः सचा ॥ ११ ॥
+> अग्नी॑षोमावि॒मानि॑ नो यु॒वं ह॒व्या जु॑जोषतम् ।
+> आ या॑त॒मुप॑ नः॒ सचा॑ ॥ ११ ॥
 
 *agnīṣomāv imāni no yuvaṃ havyā jujoṣatam | ā yātam upa naḥ sacā ‖ 11 ‖*
 
@@ -14561,8 +14561,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 93.12)** *(Triṣṭubh; the last Ṛk)*
 
-> अग्नीषोमा पिपृतमर्वतो न आ प्यायन्तामुस्रिया हव्यसूदः ।
-> अस्मे बलानि मघवत्सु धत्तं कृणुतं नो अध्वरं श्रुष्टिमन्तम् ॥ १२ ॥
+> अग्नी॑षोमा पिपृ॒तमर्व॑तो न॒ आ प्या॑यन्तामु॒स्रिया॑ हव्य॒सूदः॑ ।
+> अ॒स्मे बला॑नि म॒घव॑त्सु धत्तं कृणु॒तं नो॑ अध्व॒रं श्रु॑ष्टि॒मन्त॑म् ॥ १२ ॥
 
 *agnīṣomā pipṛtam arvato na ā pyāyantām usriyā havyasūdaḥ | asme balāni maghavatsu dhattaṃ kṛṇutaṃ no adhvaraṃ śruṣṭimantam ‖ 12 ‖*
 
@@ -14682,8 +14682,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.1)** *(Jagatī)*
 
-> इमं स्तोममर्हते जातवेदसे रथमिव सं महेमा मनीषया ।
-> भद्रा हि नः प्रमतिरस्य संसद्यग्ने सख्ये मा रिषामा वयं तव ॥ १ ॥
+> इ॒मं स्तोम॒मर्ह॑ते जा॒तवे॑दसे॒ रथ॑मिव॒ सं म॑हेमा मनी॒षया॑ ।
+> भ॒द्रा हि नः॒ प्रम॑तिरस्य सं॒सद्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ १ ॥
 
 *imaṃ stomam arhate jātavedase ratham iva saṃ mahemā manīṣayā | bhadrā hi naḥ pramatir asya saṃsady agne sakhye mā riṣāmā vayaṃ tava ‖ 1 ‖*
 
@@ -14832,8 +14832,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.2)** *(Jagatī)*
 
-> यस्मै त्वमायजसे स साधत्यनर्वा क्षेति दधते सुवीर्यम् ।
-> स तूताव नैनमश्नोत्यंहतिरग्ने सख्ये मा रिषामा वयं तव ॥ २ ॥
+> यस्मै॒ त्वमा॒यज॑से॒ स सा॑धत्यन॒र्वा क्षे॑ति॒ दध॑ते सु॒वीर्य॑म् ।
+> स तू॑ताव॒ नैन॑मश्नोत्यंह॒तिरग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ २ ॥
 
 *yasmai tvam āyajase sa sādhaty anarvā kṣeti dadhate suvīryam | sa tūtāva nainam aśnoty aṃhatir agne sakhye mā riṣāmā vayaṃ tava ‖ 2 ‖*
 
@@ -14912,8 +14912,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.3)** *(Jagatī)*
 
-> शकेम त्वा समिधं साधया धियस्त्वे देवा हविरदन्त्याहुतम् ।
-> त्वमादित्याँ आ वह तान्ह्युश्मस्यग्ने सख्ये मा रिषामा वयं तव ॥ ३ ॥
+> श॒केम॑ त्वा स॒मिधं॑ सा॒धया॒ धिय॒स्त्वे दे॒वा ह॒विर॑द॒न्त्याहु॑तम् ।
+> त्वमा॑दि॒त्याँ आ व॑ह॒ तान्ह्यु१॒॑श्मस्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ३ ॥
 
 *śakema tvā samidhaṃ sādhayā dhiyas tve devā havir adanty āhutam | tvam ādityām̐ ā vaha tān hy uśmasy agne sakhye mā riṣāmā vayaṃ tava ‖ 3 ‖*
 
@@ -15015,8 +15015,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.4)** *(Jagatī)*
 
-> भरामेध्मं कृणवामा हवींषि ते चितयन्तः पर्वणापर्वणा वयम् ।
-> जीवातवे प्रतरं साधया धियोऽग्ने सख्ये मा रिषामा वयं तव ॥ ४ ॥
+> भरा॑मे॒ध्मं कृ॒णवा॑मा ह॒वींषि॑ ते चि॒तय॑न्तः॒ पर्व॑णापर्वणा व॒यम् ।
+> जी॒वात॑वे प्रत॒रं सा॑धया॒ धियोऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ४ ॥
 
 *bharāmedhmaṃ kṛṇavāmā havīṃṣi te citayantaḥ parvaṇā-parvaṇā vayam | jīvātave prataraṃ sādhayā dhiyo 'gne sakhye mā riṣāmā vayaṃ tava ‖ 4 ‖*
 
@@ -15091,8 +15091,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.5)** *(Jagatī)*
 
-> विशां गोपा अस्य चरन्ति जन्तवो द्विपच्च यदुत चतुष्पदक्तुभिः ।
-> चित्रः प्रकेत उषसो महाँ अस्यग्ने सख्ये मा रिषामा वयं तव ॥ ५ ॥
+> वि॒शां गो॒पा अ॑स्य चरन्ति ज॒न्तवो॑ द्वि॒पच्च॒ यदु॒त चतु॑ष्पद॒क्तुभिः॑ ।
+> चि॒त्रः प्र॑के॒त उ॒षसो॑ म॒हाँ अ॒स्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ५ ॥
 
 *viśāṃ gopā asya caranti jantavo dvipac ca yad uta catuṣpad aktubhiḥ | citraḥ praketa uṣaso mahām̐ asy agne sakhye mā riṣāmā vayaṃ tava ‖ 5 ‖*
 
@@ -15181,8 +15181,8 @@ Closing of Rik 90.9: "॥ ९ ॥" (9), followed by a printer's ornament. *(The 
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.6)** *(Jagatī)*
 
-> त्वमध्वर्युरुत होतासि पूर्व्यः प्रशास्ता पोता जनुषा पुरोहितः ।
-> विश्वा विद्वाँ आर्त्विज्या धीर पुष्यस्यग्ने सख्ये मा रिषामा वयं तव ॥ ६ ॥
+> त्वम॑ध्व॒र्युरु॒त होता॑सि पू॒र्व्यः प्र॑शा॒स्ता पोता॑ ज॒नुषा॑ पु॒रोहि॑तः ।
+> विश्वा॑ वि॒द्वाँ आर्त्वि॑ज्या धीर पुष्य॒स्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ६ ॥
 
 *tvam adhvaryur uta hotāsi pūrvyaḥ praśāstā potā januṣā purohitaḥ | viśvā vidvām̐ ārtvijyā dhīra puṣyasy agne sakhye mā riṣāmā vayaṃ tava ‖ 6 ‖*
 
@@ -15300,8 +15300,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.7)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> यो विश्वतः सुप्रतीकः सदृङ्ङसि दूरे चित्सन्तळिदिवाति रोचसे ।
-> रात्र्याश्चिदन्धोऽति देव पश्यस्यग्ने सख्ये मा रिषामा वयं तव ॥ ७ ॥
+> यो वि॒श्वतः॑ सु॒प्रती॑कः स॒दृङ्ङसि॑ दू॒रे चि॒त्सन्त॒ळिदि॒वाति॑ रोचसे ।
+> रात्र्या॑श्चि॒दन्धो॒ऽति॑ देव पश्य॒स्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ७ ॥
 
 *yo viśvataḥ supratīkaḥ sadṛṅṅasi dūre cit san taḷid ivāti rocase | rātryāś cid andho 'ti deva paśyasy agne sakhye mā riṣāmā vayaṃ tava ‖ 7 ‖*
 
@@ -15372,8 +15372,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.8)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> पूर्वो देवा भवतु सुन्वतो रथोऽस्माकं शंसो अभ्यस्तु दूढ्यः ।
-> तदा जानीतोत पुष्यता वचोऽग्ने सख्ये मा रिषामा वयं तव ॥ ८ ॥
+> पूर्वो॑ देवा भवतु सुन्व॒तो रथो॒ऽस्माकं॒ शंसो॑ अ॒भ्य॑स्तु दू॒ढ्यः॑ ।
+> तदा जा॑नीतो॒त पु॑ष्यता॒ वचोऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ८ ॥
 
 *pūrvo devā bhavatu sunvato ratho 'smākaṃ śaṃso abhy astu dūḍhyaḥ | tadā jānītota puṣyatā vaco 'gne sakhye mā riṣāmā vayaṃ tava ‖ 8 ‖*
 
@@ -15436,7 +15436,7 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.9)** *(Jagatī; first line only on this page; the second line is on p. 539)*
 
-> वधैर्दुःशंसाँ अप दूढ्यो जहि दूरे वा ये अन्ति वा के चिदत्रिणः ।
+> व॒धैर्दुः॒शंसाँ॒ अप॑ दू॒ढ्यो॑ जहि दू॒रे वा॒ ये अन्ति॑ वा॒ के चि॑द॒त्रिणः॑ ।
 
 *vadhair duḥśaṃsām̐ apa dūḍhyo jahi dūre vā ye anti vā ke cid atriṇaḥ |*
 
@@ -15569,8 +15569,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.10)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> यदयुक्था अरुषा रोहिता रथे वातजूता वृषभस्येव ते रवः ।
-> आदिन्वसि वनिनो धूमकेतुनाग्ने सख्ये मा रिषामा वयं तव ॥ १० ॥
+> यदयु॑क्था अरु॒षा रोहि॑ता॒ रथे॒ वात॑जूता वृष॒भस्ये॑व ते॒ रवः॑ ।
+> आदि॑न्वसि व॒निनो॑ धू॒मके॑तु॒नाग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ १० ॥
 
 *yad ayukthā aruṣā rohitā rathe vātajūtā vṛṣabhasyeva te ravaḥ | ād invasi vanino dhūmaketunāgne sakhye mā riṣāmā vayaṃ tava ‖ 10 ‖*
 
@@ -15655,8 +15655,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.11)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> अध स्वनादुत बिभ्युः पतत्रिणो द्रप्सा यत्ते यवसादो व्यस्थिरन् ।
-> सुगं तत्ते तावकेभ्यो रथेभ्योऽग्ने सख्ये मा रिषामा वयं तव ॥ ११ ॥
+> अध॑ स्व॒नादु॒त बि॑भ्युः पत॒त्रिणो॑ द्र॒प्सा यत्ते॑ यव॒सादो॒ व्यस्थि॑रन् ।
+> सु॒गं तत्ते॑ ताव॒केभ्यो॒ रथे॒भ्योऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ ११ ॥
 
 *adha svanād uta bibhyuḥ patatriṇo drapsā yat te yavasādo vy asthiran | sugaṃ tat te tāvakebhyo rathebhyo 'gne sakhye mā riṣāmā vayaṃ tava ‖ 11 ‖*
 
@@ -15725,8 +15725,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.12)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> अयं मित्रस्य वरुणस्य धायसेऽवयातां मरुतां हेळो अद्भुतः ।
-> मृळा सु नो भूत्वेषां मनः पुनरग्ने सख्ये मा रिषामा वयं तव ॥ १२ ॥
+> अ॒यं मि॒त्रस्य॒ वरु॑णस्य॒ धाय॑सेऽवया॒तां म॒रुतां॒ हेळो॒ अद्भु॑तः ।
+> मृ॒ळा सु नो॒ भूत्वे॑षां॒ मनः॒ पुन॒रग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ १२ ॥
 
 *ayaṃ mitrasya varuṇasya dhāyase 'vayātāṃ marutāṃ heḷo adbhutaḥ | mṛḷā su no bhūtv eṣāṃ manaḥ punar agne sakhye mā riṣāmā vayaṃ tava ‖ 12 ‖*
 
@@ -15808,8 +15808,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.13)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> देवो देवानामसि मित्रो अद्भुतो वसुर्वसूनामसि चारुरध्वरे ।
-> शर्मन्स्याम तव सप्रथस्तमेऽग्ने सख्ये मा रिषामा वयं तव ॥ १३ ॥
+> दे॒वो दे॒वाना॑मसि मि॒त्रो अद्भु॑तो॒ वसु॒र्वसू॑नामसि॒ चारु॑रध्व॒रे ।
+> शर्म॑न्स्याम॒ तव॑ स॒प्रथ॑स्त॒मेऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ १३ ॥
 
 *devo devānām asi mitro adbhuto vasur vasūnām asi cārur adhvare | śarman syāma tava saprathastame 'gne sakhye mā riṣāmā vayaṃ tava ‖ 13 ‖*
 
@@ -15906,8 +15906,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.14)** *(Jagatī; accent marks printed here, not reproduced)*
 
-> तत्ते भद्रं यत्समिद्धः स्वे दमे सोमाहुतो जरसे मृळयत्तमः ।
-> दधासि रत्नं द्रविणं च दाशुषेऽग्ने सख्ये मा रिषामा वयं तव ॥ १४ ॥
+> तत्ते॑ भ॒द्रं यत्समि॑द्धः॒ स्वे दमे॒ सोमा॑हुतो॒ जर॑से मृळ॒यत्त॑मः ।
+> दधा॑सि॒ रत्नं॒ द्रवि॑णं च दा॒शुषेऽग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥ १४ ॥
 
 *tat te bhadraṃ yat samiddhaḥ sve dame somāhuto jarase mṛḷayattamaḥ | dadhāsi ratnaṃ draviṇaṃ ca dāśuṣe 'gne sakhye mā riṣāmā vayaṃ tava ‖ 14 ‖*
 
@@ -16000,8 +16000,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.15)** *(Triṣṭubh; accent marks printed here, not reproduced)*
 
-> यस्मै त्वं सुद्रविणो ददाशोऽनागास्त्वमदिते सर्वताता ।
-> यं भद्रेण शवसा चोदयासि प्रजावता राधसा ते स्याम ॥ १५ ॥
+> यस्मै॒ त्वं सु॑द्रविणो॒ ददा॑शोऽनागा॒स्त्वम॑दिते स॒र्वता॑ता ।
+> यं भ॒द्रेण॒ शव॑सा चो॒दया॑सि प्र॒जाव॑ता॒ राध॑सा॒ ते स्या॑म ॥ १५ ॥
 
 *yasmai tvaṃ sudraviṇo dadāśo 'nāgāstvam adite sarvatātā | yaṃ bhadreṇa śavasā codayāsi prajāvatā rādhasā te syāma ‖ 15 ‖*
 
@@ -16122,8 +16122,8 @@ Citations of the Ṛgveda (Kannada script, read letter by letter; the small nume
 
 **॥ संहितापाठः ॥ — Saṃhitā-pāṭha (Rik 94.16)** *(Triṣṭubh; accent marks printed here, not reproduced)*
 
-> स त्वमग्ने सौभगत्वस्य विद्वानस्माकमायुः प्र तिरेह देव ।
-> तन्नो मित्रो वरुणो मामहन्तामदितिः सिन्धुः पृथिवी उत द्यौः ॥ १६ ॥
+> स त्वम॑ग्ने सौभग॒त्वस्य॑ वि॒द्वान॒स्माक॒मायुः॒ प्र ति॑रे॒ह दे॑व ।
+> तन्नो॑ मि॒त्रो वरु॑णो मामहन्ता॒मदि॑तिः॒ सिन्धुः॑ पृथि॒वी उ॒त द्यौः ॥ १६ ॥
 
 *sa tvam agne saubhagatvasya vidvān asmākam āyuḥ pra tireha deva | tan no mitro varuṇo māmahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ‖ 16 ‖*
 
