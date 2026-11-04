@@ -1,0 +1,8 @@
+(15214, 'Ṛk sequence', 'heading Ṛk 2 after Ṛk 16')
+(16271, 'Ṛk sequence', 'heading Ṛk 2 after Ṛk 13')
+(19580, 'Ṛk sequence', 'heading Ṛk 2 after Ṛk 2')
+(19580, 'Ṛk repeated', 'Ṛk 2')
+(13271, 'Varga jumps', 'p.379 Varga 17 after 1 (p.377)')
+(16269, 'Varga jumps', 'p.457 Varga 23 after 21 (p.455)')
+(16365, 'Varga decreases', 'p.459 Varga 22 after 23 (p.457)')
+7 findings in checks 1-2; Varga header readings found: 86
