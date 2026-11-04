@@ -11,7 +11,7 @@ Read this before any numeral pass on a new volume. Scripts are in this folder; p
 - **Direction = go through the file line by line** (each row has page and line number) and find the md numeral it corresponds to, instead of starting from the md.
 - **Every pairing must use three signals together, not digits alone:**
   1. **Context** — column E (Kannada, transliterated and folded) against the md text just before/after the numeral (Devanagari→IAST folded, English words). Also the reference-type hint (ನಿ. = Ni., ಪಾ. = Pā., ಋ./ಖು. = Ṛ., ಕಾ. = Kā.…). Context scores are noisy (0.3–1.0); use as a tie-breaker and as the sorting key for review (≥ 0.8 is almost always the right pairing).
-  2. **Approximate line position** — the file's line number is not the md line, but the **order** is preserved: on a page, file rows sorted by line and md numerals in reading order must align monotonically (rows may be skipped, never reordered). Use the line number's rank on the page as a position estimate (rank/total on the file side vs rank/total of md numerals), and let the alignment (dynamic programming) enforce the order.
+  2. **Approximate line position** — the file's line number is not the md line, but the **order** is preserved: on a page, file rows sorted by line and md numerals in reading order must align monotonically (rows may be skipped, never reordered). Use the line number's rank on the page as a position estimate (rank/total on the file side vs rank/total of md numerals), and let the alignment (dynamic programming) enforce the order. **Implemented in `numeral_align_all.py` (score = 0.55 digits + 0.30 context + 0.15 position, position = rank on the page, neighbour pages offset by ±1).**
   3. **Digits** — edit-distance similarity, with a penalty for a different part count; never let digits alone decide when two candidates remain.
 - Statuses to report for every file row: SAME / SAME-but-md-has-[?] / DIFFERENT / NOT FOUND, each with page, file line, md line, scores. Nothing is changed in this step.
 - The page-pool "nearest unused entry" method (`numeral_nearest.py`, `numeral_pageset.py`) ignores order and context; it is a fallback for doubtful numerals only, never the first pass.
@@ -33,3 +33,6 @@ Read this before any numeral pass on a new volume. Scripts are in this folder; p
 
 ## Numbers from Vol 7 (for planning)
 1,982 file rows; after the passes 1,035+ SAME, 495 DIFFERENT (all applied except 12 mis-pairings), 452 NOT FOUND (mostly Kannada-prose numerals not reproduced in the English md; not analysed). `rapidfuzz` and `indic_transliteration` are needed by `numeral_align_all.py` (`pip install rapidfuzz indic_transliteration`).
+
+## Re-run after all Vol 7 edits (rank score added)
+On the corrected md: SAME 1,412, SAME-but-[?] 7, DIFFERENT 173 (22 with context ≥ 0.8), NOT FOUND 390 (was 452). Report: `vol7/numerals/Vol7_file_vs_md_rank.xlsx`. Remaining DIFFERENT rows are mostly one-digit or truncation differences (5-2-51/5-2-5, 1-113-3/1-113-11) or alignment ties — review before applying.
