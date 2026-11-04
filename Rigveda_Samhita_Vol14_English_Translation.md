@@ -21575,4 +21575,93 @@ As is known from the Ṛgveda, Manu was the one who began the sacrifices. Having
 
 ---
 
-**Progress note:** Done through printed p. 574 (PDF 596); offset printed = PDF − 22 holds. Sūkta 10: Ṛk 5 is complete (Pratipadārtha end, Bhāvārtha, printed English and Viśeṣaviṣayagaḷu on p. 572). Ṛk 6 is written in full (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 573; printed English and Special Topics on p. 574). The Special Topics of Ṛk 6 end on p. 574 with the Manu passage and the citation (Ṛ. Saṃ. 10-63-7); more topics for Ṛk 6 may follow on p. 575, otherwise Ṛk 7 begins there. Flags: FILE DISAGREE none (Pā. 6-4-68 and 10-63-7 agree with the file); unzoomed numerals: page headers of pp. 572–574 and ॥ ६ ॥. Resolved: the [?] on अतितेजस्वितयोभिमर्शनीयो (p. 571) is cleared by the clear printing अतितेजस्वितया अभिमर्शनीयो on p. 572. [?] places: p. 572 ⟦तन्वा⟧ (printed like तेन्वा) and ⟦योप्पशं⟧; p. 573 आशीर्लिङि and संभक्त्राहं.
+### Printed p. 575 (PDF 597)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (not zoomed), "Ṛgvedasaṃhitā", printed number **575**. This page continues the Special Topics of Ṛk 6 (the Manu passage) and ends the sūkta's notes.)*
+
+*Viśeṣaviṣayagaḷu of Ṛk 6 (continued; translated)*
+
+The sacrifice performed by Manu is the very one that everyone now performs; the sacrifice of today is compared with the sacrifice that the Manus performed for the gods. (1-76-5) By the verbal qualifier मनुष्वत् (*manuṣvat*) ("like Manu") the sacrificial rites are compared at every step: they kindle Agni as Manu did (5-21-1); they praise Agni, kindled by Manu, just as Manu did (7-2-3); they offer the soma juice as Manu did (4-37-3). As the soma formerly flowed for Manu, so now they pray to Soma to flow for themselves (9-96-12). Such acts are compared with the acts of Manu. Manu established Agni so that he might be a light for all people. (1-36-19) Indra drank soma together with Manu, the son of Vivasvān (Vā. 4-1), or with Manusāvaraṇi (Vā. Saṃ. 3-1). Indra drank the soma juice belonging to Manu for the strength needed to fight the demon Vṛtra. (5-29-7) Such descriptions occur.
+
+Manu is conceived of as the son of Vivasvat; he bears the name Vaivasvata Manu. (Vā. Saṃ. 4-1; 3-1; A. Ve. 8-10-24; Śa. Brā. 13-4-3-3) In the Purāṇas and similar works the name Vaivasvata has become fixed for Manu. Among Vivasvat's children Yama is one, and he is the first among men. That is, Manu and Yama became the original ancestors of human beings. But Manu is the first among those who live; Yama, as the first among the dead, became the lord of the world of the dead. The Śatapatha Brāhmaṇa calls Vaivasvata Manu the king of men and Yama the king of the dead. (Śa. Brā. 13-4-3-3) In the Nirukta (Ni. 12-10) Manu is described as the son of Āditya, called Vivasvat, and of one named Savarṇā, and (10-17-2) he is indicated as one of the gods of the heavenly world.
+
+There is a story in the Śatapatha Brāhmaṇa that at the time of the deluge, though all other beings were drowned, Manu alone was saved in a boat by a fish (an incarnation of Viṣṇu). (Śa. Brā. 1-8-1-1 to 10) At once Manu became, through his daughter named Iḍā (Iḷā), born of oblations, the cause of the human race. This story of the deluge is told in the Atharvaveda as well. (A. Ve. 19-39-8)
+
+The matter of this Manu is told not only in the Ṛgveda but also in the Atharvaveda (14-2-41), the Taittirīya Saṃhitā (1-5-1-3; 7-5-15-3 [?]; 2-5-9-1; 2-6-7-1; 3-3-2-1; 5-4-10-5; 6-6-6-1), the Kāṭhaka Saṃhitā (8-15), the Śatapatha Brāhmaṇa (1-1-4-14), the Jaiminīya Upaniṣad Brāhmaṇa (3-15-2) and other places.
+
+*(The Taittirīya Saṃhitā references are printed in a line of small numerals; the numeral file gives them run together: "75-15-3", "2-67-1", "6-66-1", etc.; I separated them by the printed hyphens. The second reference is marked [?]: file "75-15-3", read here as 7-5-15-3. Not zoomed.)*
+
+---
+
+### Printed p. 576 (PDF 598)
+
+*(Header: "576", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10" as printed — the running head still reads 10 although the new sūkta begins on this page; the last numeral looks like ೧೦ [?]; not zoomed. Numeral file rows: Ā. 7-11 (agrees with the page-foot reference); the row for the bhāṣya reference was garbled ("2-00"), so it is read from the strip as 7-11, [?].)*
+
+**Sūkta 11** *(title printed: "Hannondaneya sūktavu", "The eleventh sūkta")*
+
+*Sāyaṇa-bhāṣya (introduction to the sūkta)*
+
+*(Gist: the sūkta श्रुधी हवम् (*śrudhī havam*) has 21 Ṛks, ṛṣi Gṛtsamada, Indra the deity; metre Virāṭsthānā Triṣṭubh, last Ṛk Triṣṭubh; it is the third sūkta of the Marutvatīya śastra on the fourth day of the Pṛṣṭhya rite. The bhāṣya cites the Anukramaṇikā and the Āśvalāyana sūtra.)*
+
+> श्रुधी हवमित्येकविंशत्यृचमेकादशं सूक्तं गार्त्समदम् । अत्रानुक्रमणिका । श्रुधि सैकैन्द्रं विराट्स्थानमृतेऽन्त्यामिति । विराट्स्थाना त्रिष्टुप् । तल्लक्षणमनुक्रमण्याम्युक्तं । नवकौ वैराजस्त्रैष्टुभश्च द्वौ वा वैराजौ नवकस्त्रैष्टुभश्च विराट्स्थानेति । अन्त्या त्रिष्टुप् विशेषस्यानुक्तत्वात् । इन्द्रो देवता ॥ पृष्ठ्यस्य चतुर्थेऽहनि मरुत्वतीयशस्त्रे द्वे सूक्ते निविद्धाने । तत्रेदं तृतीयं सूक्तम् । चतुर्थेऽहनीति खण्डे सूत्रितम् । श्रुधी हवमिन्द्र मरुत्वा इन्द्रेति मरुत्वतीयम् ॥ आ. ७-११ । इति ॥
+
+> *śrudhī havamityekaviṃśatyṛcamekādaśaṃ sūktaṃ gārtsamadam | atrānukramaṇikā | śrudhi saikaindraṃ virāṭsthānamṛte 'ntyāmiti | virāṭsthānā triṣṭup | tallakṣaṇamanukramaṇyāmyuktaṃ | navakau vairājastraiṣṭubhaśca dvau vā vairājau navakastraiṣṭubhaśca virāṭsthāneti | antyā triṣṭup viśeṣasyānuktatvāt | indro devatā ‖ pṛṣṭhyasya caturthe 'hani marutvatīyaśastre dve sūkte nividdhāne | tatredaṃ tṛtīyaṃ sūktam | caturthe 'hanīti khaṇḍe sūtritam | śrudhī havamindra marutvā indreti marutvatīyam ‖ ā. 7-11 | iti ‖*
+
+*(Printed as ತಲ್ಲಕ್ಷಣಮನುಕ್ರಮಣ್ಯಾಮುಕ್ತಂ, i.e. तल्लक्षणमनुक्रमण्यामुक्तं (*tallakṣaṇamanukramaṇyāmuktaṃ*); the sandhi as printed. The reference after इति (*iti*): Ā. 7-11 [?] as above.)*
+
+*Anuvāda (Kannada, translated)*
+
+The sūkta श्रुधी हवम् (*śrudhī havam*) is the eleventh sūkta in the first anuvāka. In it there are twenty-one Ṛks. Gṛtsamada is the ṛṣi of this sūkta; in the Anukramaṇikā it is said: श्रुधि सैकैन्द्रं विराट्स्थानमृतेऽन्त्याम् (*śrudhi saikaindraṃ virāṭsthānamṛte 'ntyām*) (as printed). The twenty-one Ṛks of this sūkta belong to the metre Virāṭsthānā Triṣṭubh. Its definition is given in the Anukramaṇikā: नवकौ वैराजस्त्रैष्टुभश्च द्वौ वा वैराजौ नवकस्त्रैष्टुभश्च विराट्स्थानेति (*navakau vairājastraiṣṭubhaśca dvau vā vairājau navakastraiṣṭubhaśca virāṭsthāneti*). That is: in the metre Vairāja-triṣṭubh there are nine syllables each in two pādas, ten syllables in another pāda as in the Virāṭ metre, and eleven syllables in another pāda as in the Triṣṭubh metre (altogether 39 syllables); in the metre called Virāṭsthānā Triṣṭubh, two pādas have ten syllables each, as in the Virāṭ metre, one pāda has nine syllables, and another pāda has eleven syllables as in the Triṣṭubh metre (altogether 40 syllables). Thus the definition of these metres is stated. The last Ṛk of this sūkta is in the Triṣṭubh metre. Indra is the deity. In the sacrifice called Pṛṣṭhya, on its fourth day, when the Marutvatīya śastra mantras are recited, after two sūktas have been recited as nivid-mantras, this sūkta is to be recited as the third, as explained in the Āśvalāyana Śrauta Sūtra, in the section beginning चतुर्थेऽहनि (*caturthe 'hani*), by the sūtra श्रुधी हवमिन्द्र मरुत्वा इन्द्रेति मरुत्वतीयम् (*śrudhī havamindra marutvā indreti marutvatīyam*). (Ā. 7-11)
+
+---
+
+### Printed p. 577 (PDF 599)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **577**. The numeral file has one row, the metre line "1-20 … 21", which agrees with my reading. The foot of the page carries the signature "[37] Vol. 14.")*
+
+**॥ Om ॥**
+**Sūkta 11**
+
+Maṇḍala 2 · Anuvāka 1 · Sūkta 11
+Aṣṭaka 2 · Adhyāya 6 · Vargas 3, 4, 5, 6
+Number of Ṛks in the sūkta: 21
+Ṛṣi: Gṛtsamada
+Devatā: Indra
+Chandas: Ṛks 1–20 Virāṭsthānā Triṣṭubh; Ṛk 21 Triṣṭubh
+
+*(Aṣṭaka numeral printed 2, Adhyāya 6, Vargas 3–6, Ṛk count 21, metre ranges 1-20 and 21, all as printed, not zoomed.)*
+
+**Ṛk 1**
+
+*Saṃhitā-pāṭha*
+
+> श्रुधी हवमिन्द्र मा रिषण्यः स्याम ते दावने वसूनाम् ।
+> इमा हि त्वामूर्जो वर्धयन्ति वसूयवः सिन्धवो न क्षरन्तः ॥ १ ॥
+
+*Pada-pāṭha*
+
+> श्रुधि । हवं । इन्द्र । मा । रिषण्यः । स्याम । ते । दावने । वसूनां ।
+> इमाः । हि । त्वां । ऊर्जः । वर्धयन्ति । वसुऽयवः [?] । सिन्धवः । न । क्षरन्तः ॥ १ ॥
+
+> *śrudhi | havaṃ | indra | mā | riṣaṇyaḥ | syāma | te | dāvane | vasūnāṃ |*
+> *imāḥ | hi | tvāṃ | ūrjaḥ | vardhayanti | vasu 'yavaḥ [?] | sindhavaḥ | na | kṣarantaḥ ‖ 1 ‖*
+
+*(In the Pada the word after वर्धयन्ति is printed like वस्युयवः; the Saṃhitā has वसूयवः, so it is taken as वसुऽयवः with the ऽ mark; marked [?].)*
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: Gṛtsamada praises Indra: hear my hymn, do not scorn it; may we be fit recipients of your wealth; the nourishing offerings, flowing like rivers, strengthen you.)*
+
+> गृत्समदः स्तौति । हे इन्द्र मे हवं मदीयमिदं स्तोत्रं श्रुधि । शृणु । मा रिषण्यः । मा हिंसीः । इदमुल्पं [?] न साधीय इति मा निराकार्षीः ॥ दुरस्युर्द्रविणस्युर्वृषण्यति रिषण्यतीति निपातितः ॥ वयं ते तव वसूनां दावने दानाय स्याम । पात्रभूता भवेम । इमा अस्माभिर्दत्तानि वसूयवो दातुर्यजमानस्य धनमिच्छन्ति ॥ छन्दसि परेच्छायां क्यच् ॥ तादृशानि क्षरन्तः स्रवन्तः सिन्धव इव घृतक्षरणोपेतान्यूर्जो हविर्लक्षणान्यन्नानि त्वां वर्धयन्ति हि ॥
+
+> *gṛtsamadaḥ stauti | he indra me havaṃ madīyamidaṃ stotraṃ śrudhi | śṛṇu | mā riṣaṇyaḥ | mā hiṃsīḥ | idamulpaṃ [?] na sādhīya iti mā nirākārṣīḥ ‖ durasyurdraviṇasyurvṛṣaṇyati riṣaṇyatīti nipātitaḥ ‖ vayaṃ te tava vasūnāṃ dāvane dānāya syāma | pātrabhūtā bhavema | imā asmābhirdattāni vasūyavo dāturyajamānasya dhanamicchanti ‖ chandasi parecchāyāṃ kyac ‖ tādṛśāni kṣarantaḥ sravantaḥ sindhava iva ghṛtakṣaraṇopetānyūrjo havirlakṣaṇānyannāni tvāṃ vardhayanti hi ‖*
+
+*(Printed ಇದಮುಲ್ಪಂ, i.e. इदमुल्पं (*idamulpaṃ*), probably for इदमल्पं (*idamalpaṃ*); marked [?]. The grammatical tail छन्दसि परेच्छायां क्यच् (*chandasi parecchāyāṃ kyac*) is given without a sūtra number; the form रिषण्यः (*riṣaṇyaḥ*) is said to be an irregular (निपातितः (*nipātitaḥ*)) formation, like दुरस्युः (*durasyuḥ*), द्रविणस्युः (*draviṇasyuḥ*), वृषण्यति (*vṛṣaṇyati*).)*
+
+*Pratipadārtha (Kannada, translated; it runs over to p. 578)*
+
+इन्द्र (*indra*)—O Indra. हवं (*havaṃ*)—this hymn of praise made by me. श्रुधि (*śrudhi*)—hear. मा रिषण्यः (*mā riṣaṇyaḥ*)—do not reject it. वयं (*vayaṃ*)—we. ते (*te*)—your. वसूनां (*vasūnāṃ*)—of riches. दावने (*dāvane*)— (the word is cut off at the foot of the page by the signature "[37] Vol. 14"; it continues on p. 578).
+
+---
+
+**Progress note:** Done through printed p. 577 (PDF 599); offset printed = PDF − 22 holds. Sūkta 10 ended on p. 575 with the end of the Manu passage (Special Topics of Ṛk 6); no Ṛk 7 on that page, so Sūkta 10 has closed (its Ṛk count was not rechecked here). Sūkta 11 begins on p. 576 (bhāṣya introduction and anuvāda) and p. 577 (heading block); Ṛk 1 is written through the Pratipadārtha word ⟦दावने⟧, which is OPEN: the Pratipadārtha continues on p. 578, followed by Bhāvārtha and printed English. Flags: FILE DISAGREE none; the numeral file merged the Taittirīya Saṃhitā references on p. 575 (split by the printed hyphens), the bhāṣya reference Ā. 7-11 on p. 576 is garbled in the file (read from the strip); unzoomed numerals: all page headers (p. 576 running head still reads Sū. 10), Aṣṭaka/Adhyāya/Varga numbers on p. 577. [?] places: p. 575 Taittirīya reference 7-5-15-3; p. 576 Ā. 7-11; p. 577 Pada ⟦वसुऽयवः⟧ and bhāṣya ⟦इदमुल्पं⟧.
