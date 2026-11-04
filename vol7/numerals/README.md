@@ -38,3 +38,6 @@ The scripts had changed the Devanagari lines, their IAST twins and the English n
 Regenerated from our scan: pages 8–582, 1,929 rows. **File page = our PDF page** (offset 0 on 117 of 138 clearly anchored pages; the isolated ±1…3 pages are the md's grouping of grammar-note numerals, not the file). Passes with it: exact match in PDF−1…PDF+1 (chance rate 1 of 239): **34 applied** (`numeral_exact3_newfile.applied.tsv`; 30 of them on the very same page); English-only sweep (`numeral_sweep_english.py`: 12 + 5 occurrences); **8 same-shape one-digit pairings** on the page pool (`numeral_pairs_lev1_newfile.applied.tsv`: 13-2→12-2, 6-1-172→6-1-102, 4-208→4-205, 3-33→8-33, 4-101→4-111, 4-137→4-139, 3-2-76→3-2-72, 3-2→3-7). The old file (`Rigveda_Clean_Numerals_17_582.xlsx`) is kept for comparison.
 
 User confirmed (Nov 4): the three pairings that change a part's length are correct and were applied: 3-33→3-313 (md line 2516), 3-3→3-13 (6193), 4-1-31→4-1-01 (15318).
+
+## User's answers in `Vol7_our_reading.xlsx` (Nov 4 2026; column "C" = our reading correct)
+C (reading confirmed, `[?]` dropped): md lines 151 (ऋषिश्चास्य), 174 (Varga 1, 2, 3), 199 (श्रूयेत, प्रतिषेधः). Digits given by the user: line 251 `Ni. [2-17] [?]` → 3-9; line 258 `Pā. Sū. 3-2-[?]` → 3-3-72; line 336 `Ni. [3-?] [?]` → 3-19. English-only lines swept afterwards.

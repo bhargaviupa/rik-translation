@@ -148,9 +148,9 @@ dhīmatā sāyaṇāryeṇa ṣaṣṭho 'dhyāyo 'tha varṇyate ||*
 
 **Sāyaṇa's introduction to Sūkta 81 (Sanskrit in Kannada script; the first lines on this page; doubtful places [?]):**
 
-> प्रथमे मण्डले त्रयोदशानुवाके सप्त सूक्तानि व्याकृतानि । इन्द्रो मदायेति नवर्चमष्टमं सूक्तम् । अत्रानुक्रम्यते । इन्द्रो नवेति । ऋषिश्चास्य [?] (अनु. १२-२) इति परिभाषया रहूगणपुत्रस्य गोतमस्यानुवृत्तेरस्य सूक्तस्य स ऋषिः । पूर्वसूक्ते पाङ्क्तं हीत्युक्तत्वात्तुह्यादिपरिभाषयेदमुत्तरं च सूक्तं
+> प्रथमे मण्डले त्रयोदशानुवाके सप्त सूक्तानि व्याकृतानि । इन्द्रो मदायेति नवर्चमष्टमं सूक्तम् । अत्रानुक्रम्यते । इन्द्रो नवेति । ऋषिश्चास्य (अनु. १२-२) इति परिभाषया रहूगणपुत्रस्य गोतमस्यानुवृत्तेरस्य सूक्तस्य स ऋषिः । पूर्वसूक्ते पाङ्क्तं हीत्युक्तत्वात्तुह्यादिपरिभाषयेदमुत्तरं च सूक्तं
 
-*prathame maṇḍale trayodaśānuvāke sapta sūktāni vyākṛtāni | indro madāyeti navarcam aṣṭamaṃ sūktam | atrānukramyate | indro naveti | ṛṣiś cāsya [?] (anu. 12-2) iti paribhāṣayā rahūgaṇaputrasya gotamasyānuvṛtter asya sūktasya sa ṛṣiḥ | pūrvasūkte pāṅktaṃ hīty uktatvāt tuhyādiparibhāṣayedam uttaraṃ ca sūktaṃ* *(the sentence continues on p. 2)*
+*prathame maṇḍale trayodaśānuvāke sapta sūktāni vyākṛtāni | indro madāyeti navarcam aṣṭamaṃ sūktam | atrānukramyate | indro naveti | ṛṣiś cāsya (anu. 12-2) iti paribhāṣayā rahūgaṇaputrasya gotamasyānuvṛtter asya sūktasya sa ṛṣiḥ | pūrvasūkte pāṅktaṃ hīty uktatvāt tuhyādiparibhāṣayedam uttaraṃ ca sūktaṃ* *(the sentence continues on p. 2)*
 
 ### Page 2 (PDF 17)
 
@@ -171,7 +171,7 @@ dhīmatā sāyaṇāryeṇa ṣaṣṭho 'dhyāyo 'tha varṇyate ||*
 **सूक्त — ८१ (Sūkta 81)**
 
 ॥ मण्डल—१ ॥ अनुवाक—१३ ॥ सूक्त—८१ ॥ — *Maṇḍala 1; Anuvāka 13; Sūkta 81.*
-॥ अष्टक—१ ॥ अध्याय—६ ॥ वर्ग—[१, २, ३?] ॥ — *Aṣṭaka 1; Adhyāya 6; Varga "1, 2, 3" as read, doubtful [?].*
+॥ अष्टक—१ ॥ अध्याय—६ ॥ वर्ग—१, २, ३ ॥ — *Aṣṭaka 1; Adhyāya 6; Varga 1, 2, 3 (reading confirmed by the user, Nov 4 2026).*
 *Number of Ṛks in the sūkta:* 9. *Ṛṣi:* Gotama Rāhūgaṇa. *Devatā:* Indra. *Chandas:* Paṅkti.
 
 ### Page 3 (PDF 18)
@@ -196,9 +196,9 @@ tam in mahatsv ājiṣūtemarbhe havāmahe sa vājeṣu pra no 'viṣat ||1||*
 
 **॥ सायणभाष्यम् ॥ — Sāyaṇa's bhāṣya of Rik 81.1** *(Sanskrit in Kannada script; doubtful places [?])*
 
-> वृत्रहा वृत्रस्यावरकस्य वृष्टिनिरोधकस्य मेघस्यासुरस्य वा हन्ता । यद्वा । आवरकाणां शत्रूणां हन्तेन्द्रो मदाय हर्षार्थं शवसे । बलनामैतत् । बलार्थं च नृभिर्यजस्य नेतृभिरृत्विग्भिर्ववृधे । स्तोत्रशस्त्ररूपाभिः स्तुतिभिः प्रवर्धितो बभूव । स्तुत्या हि देवताः प्राप्तबलाः सत्यः प्रवर्धन्ते । तमित्थमेवेन्द्रं महत्सु प्रभूतेष्वाजिषु सङ्ग्रामेषु हवामहे । अस्माकं रक्षणायाह्वयामहे । उतापि चेमेनमर्भेऽल्पे सङ्ग्रामे हवामहे । अस्माभिराहूतः स चेन्द्रो वाजेषु सङ्ग्रामेषु नोऽस्मान् प्राविषत् । प्रावतु । प्रकर्षेण रक्षतु ॥ वावृधे । वृधेः कर्मणि लिट् । संहितायामभ्यासस्यान्येषामपि दृश्यत इति दीर्घत्वम् । तुजादित्वे हि तुतुजान इतिवत्पदकाले दीर्घः श्रूयेत [?] । नृभिः । सावेकाच इति प्राप्तस्य विभक्त्युदात्तत्वस्य न चान्यतरस्यामिति प्रतिषेधः [?] । हवामहे । ह्वयतेर्लटि ह्व इत्यनुवृत्तौ बहुलं छन्दसीति संप्रसारणम् । शपि गुणावादेशौ । अविषत् । अव रक्षणे । लेटि अडागमः । इतश्च लोप इतीकारलोपः । सिब्बहुलं लेटीति सिप् । तस्यार्धधातुकत्वाद्वलादिलक्षण इट् ॥ १ ॥
+> वृत्रहा वृत्रस्यावरकस्य वृष्टिनिरोधकस्य मेघस्यासुरस्य वा हन्ता । यद्वा । आवरकाणां शत्रूणां हन्तेन्द्रो मदाय हर्षार्थं शवसे । बलनामैतत् । बलार्थं च नृभिर्यजस्य नेतृभिरृत्विग्भिर्ववृधे । स्तोत्रशस्त्ररूपाभिः स्तुतिभिः प्रवर्धितो बभूव । स्तुत्या हि देवताः प्राप्तबलाः सत्यः प्रवर्धन्ते । तमित्थमेवेन्द्रं महत्सु प्रभूतेष्वाजिषु सङ्ग्रामेषु हवामहे । अस्माकं रक्षणायाह्वयामहे । उतापि चेमेनमर्भेऽल्पे सङ्ग्रामे हवामहे । अस्माभिराहूतः स चेन्द्रो वाजेषु सङ्ग्रामेषु नोऽस्मान् प्राविषत् । प्रावतु । प्रकर्षेण रक्षतु ॥ वावृधे । वृधेः कर्मणि लिट् । संहितायामभ्यासस्यान्येषामपि दृश्यत इति दीर्घत्वम् । तुजादित्वे हि तुतुजान इतिवत्पदकाले दीर्घः श्रूयेत । नृभिः । सावेकाच इति प्राप्तस्य विभक्त्युदात्तत्वस्य न चान्यतरस्यामिति प्रतिषेधः । हवामहे । ह्वयतेर्लटि ह्व इत्यनुवृत्तौ बहुलं छन्दसीति संप्रसारणम् । शपि गुणावादेशौ । अविषत् । अव रक्षणे । लेटि अडागमः । इतश्च लोप इतीकारलोपः । सिब्बहुलं लेटीति सिप् । तस्यार्धधातुकत्वाद्वलादिलक्षण इट् ॥ १ ॥
 
-*vṛtrahā vṛtrasyāvarakasya vṛṣṭinirodhakasya meghasyāsurasya vā hantā | yadvā | āvarakāṇāṃ śatrūṇāṃ hantendro madāya harṣārthaṃ śavase | balanāmaitat | balārthaṃ ca nṛbhir yajasya netṛbhir ṛtvigbhir vavṛdhe | stotraśastrarūpābhiḥ stutibhiḥ pravardhito babhūva | stutyā hi devatāḥ prāptabalāḥ satyaḥ pravardhante | tam itthām evendraṃ mahatsu prabhūteṣv ājiṣu saṅgrāmeṣu havāmahe | asmākaṃ rakṣaṇāyāhvayāmahe | utāpi cemenam arbhe 'lpe saṅgrāme havāmahe | asmābhir āhūtaḥ sa cendro vājeṣu saṅgrāmeṣu no 'smān prāviṣat | prāvatu | prakarṣeṇa rakṣatu || vāvṛdhe | vṛdheḥ karmaṇi liṭ | saṃhitāyām abhyāsasyānyeṣām api dṛśyata iti dīrghatvam | tujāditve hi tutujāna itivat padakāle dīrghaḥ śrūyeta [?] | nṛbhiḥ | sāvekāca iti prāptasya vibhaktyudāttatvasya na cānyatarasyām iti pratiṣedhaḥ [?] | havāmahe | hvayater laṭi hva ity anuvṛttau bahulaṃ chandasīti saṃprasāraṇam | śapi guṇāvādeśau | aviṣat | ava rakṣaṇe | leṭi aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | sib bahulaṃ leṭīti sip | tasyārdhadhātukatvād valādilakṣaṇa iṭ ||1||*
+*vṛtrahā vṛtrasyāvarakasya vṛṣṭinirodhakasya meghasyāsurasya vā hantā | yadvā | āvarakāṇāṃ śatrūṇāṃ hantendro madāya harṣārthaṃ śavase | balanāmaitat | balārthaṃ ca nṛbhir yajasya netṛbhir ṛtvigbhir vavṛdhe | stotraśastrarūpābhiḥ stutibhiḥ pravardhito babhūva | stutyā hi devatāḥ prāptabalāḥ satyaḥ pravardhante | tam itthām evendraṃ mahatsu prabhūteṣv ājiṣu saṅgrāmeṣu havāmahe | asmākaṃ rakṣaṇāyāhvayāmahe | utāpi cemenam arbhe 'lpe saṅgrāme havāmahe | asmābhir āhūtaḥ sa cendro vājeṣu saṅgrāmeṣu no 'smān prāviṣat | prāvatu | prakarṣeṇa rakṣatu || vāvṛdhe | vṛdheḥ karmaṇi liṭ | saṃhitāyām abhyāsasyānyeṣām api dṛśyata iti dīrghatvam | tujāditve hi tutujāna itivat padakāle dīrghaḥ śrūyeta | nṛbhiḥ | sāvekāca iti prāptasya vibhaktyudāttatvasya na cānyatarasyām iti pratiṣedhaḥ | havāmahe | hvayater laṭi hva ity anuvṛttau bahulaṃ chandasīti saṃprasāraṇam | śapi guṇāvādeśau | aviṣat | ava rakṣaṇe | leṭi aḍāgamaḥ | itaś ca lopa itīkāralopaḥ | sib bahulaṃ leṭīti sip | tasyārdhadhātukatvād valādilakṣaṇa iṭ ||1||*
 
 *Sense:* "*Vṛtrahā* — the slayer of Vṛtra, the encloser, the cloud that holds back rain, or the asura; or, the slayer of enemies who enclose (us). Indra, for *madāya* (joy), and for *śavase* (strength — *śavas* is a name of strength), was strengthened (*vavṛdhe*) by the men (*nṛbhiḥ*), that is, the priests, leaders of the sacrifice: he became increased by praises in the form of *stotras* and *śastras*; for gods, once they have received strength through praise, grow further. That very Indra, so, in great (*mahatsu*) battles (*ājiṣu*) we call (*havāmahe*), to protect us; and also (*uta īm*) in a small (*arbhe*) battle we call him. Called by us, that Indra, in the contests (*vājeṣu*), may protect (*pra aviṣat* = *prāvatu*, *prakarṣeṇa rakṣatu*) us." *The grammatical tail:* *vāvṛdhe* — the passive *liṭ* of *vṛdh*; the lengthening of the reduplicative in the Saṃhitā by "anyeṣām api dṛśyate"; *nṛbhiḥ* — the case-ending's udātta that "sāvekācaḥ…" would bring is barred by "na cānyatarasyām" [as read, [?]]; *havāmahe* — the root *hvayati* in the *laṭ*, *saṃprasāraṇa* by "bahulaṃ chandasi", guṇa and *av* replacement before *śap*; *aviṣat* — the root *ava rakṣaṇe*, the augment *aṭ* in the *leṭ*; the *i* dropped; *sip* by "sib bahulaṃ leṭi"; *iṭ* as the *ārdhadhātuka*, *valādi*.
 
@@ -248,14 +248,14 @@ tam in mahatsv ājiṣūtemarbhe havāmahe sa vājeṣu pra no 'viṣat ||1||*
 
 *Special Topics of Rik 81.1, continued:*
 
-- **आजिषु, वाजेषु** — "these words are read among the thirty-odd names of battle beginning *raṇaḥ, vivākaḥ*, so here they mean 'in battles' (Ni. [2-17] [?])."
+- **आजिषु, वाजेषु** — "these words are read among the thirty-odd names of battle beginning *raṇaḥ, vivākaḥ*, so here they mean 'in battles' (Ni. 3-9)."
 - **अर्भे** — "*arbha* is a name of the small (*alpa*); it means 'small, minor'."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.1)** *(grammar page, noted briefly)*
 
 - **वावृधे** — the root *vṛdhu vṛddhau*, *bhvādi*; *liṭ* in the passive sense; the *ātmanepada* comes by "bhāvakarmaṇoḥ" (भावकर्मणोः, Pā. Sū. 1-3-13); by "liṭi dhātor anabhyāsasya" (लिटि धातोरनभ्यासस्य, Pā. Sū. 6-1-8) reduplication of the root; by "halādiḥ śeṣaḥ" (Pā. Sū. 7-4-60) only the *va* of the reduplicative remains; with *e* added: *vavṛdhe*. In the Saṃhitā the lengthening of the preceding reduplicative (*vāvṛdhe*) comes by "anyeṣām api dṛśyate" (Pā. Sū. 6-3-137), which is optional-Vedic; the print remarks that in forms like *tutujānaḥ* the reduplicative lengthening is prescribed by "tujādīnām dīrgho 'bhyāsasya" (तुजादीनां दीर्घोऽभ्यासस्य, Pā. Sū. 6-1-7), and that this word might be included in that group, but then the lengthening would also have to be heard at the Pada-stage, which is not so; hence the lengthening is only in the mantra (Saṃhitā).
 - **नृभिः** — the third-case plural of the stem *nṛ*; by "sāvekācas tṛtīyādir vibhaktiḥ" (Pā. Sū. 6-1-168) the case-ending would take the udātta, but "na ca anyatarasyām" (Pā. Sū. 6-1-102) makes that optional for *nṛ*-stems before *jhal*-initial endings, so the udātta does not arise.
-- **हवामहे** — the root *hvedh spardhāyāṃ śabde ca* (ह्वेञ्), *bhvādi*; *laṭ*, first person plural; with the preposition *ni, abhi, upa, vi* the *saṃprasāraṇa* of the root would come by "hvaḥ saṃprasāraṇaṃ ca nyabhyupavipu" (Pā. Sū. 3-2-[?]); here, "hva" being continued, by "bahulaṃ chandasi" the *saṃprasāraṇa* comes even without the preposition; the *v* → *u*, "saṃprasāraṇāc ca" (Pā. Sū. 6-1-108) gives the single prior form; *hu+mahe*; *śap* by "kartari śap"; guṇa by "sārvadhātukārdhadhātukayoḥ" (Pā. Sū. 7-3-84) *o*, then *av* for *o* before the *a* of *śap*: *hava+mahe*; by "ato dīrgho yañi" the lengthening (*havā-mahe*).
+- **हवामहे** — the root *hvedh spardhāyāṃ śabde ca* (ह्वेञ्), *bhvādi*; *laṭ*, first person plural; with the preposition *ni, abhi, upa, vi* the *saṃprasāraṇa* of the root would come by "hvaḥ saṃprasāraṇaṃ ca nyabhyupavipu" (Pā. Sū. 3-3-72); here, "hva" being continued, by "bahulaṃ chandasi" the *saṃprasāraṇa* comes even without the preposition; the *v* → *u*, "saṃprasāraṇāc ca" (Pā. Sū. 6-1-108) gives the single prior form; *hu+mahe*; *śap* by "kartari śap"; guṇa by "sārvadhātukārdhadhātukayoḥ" (Pā. Sū. 7-3-84) *o*, then *av* for *o* before the *a* of *śap*: *hava+mahe*; by "ato dīrgho yañi" the lengthening (*havā-mahe*).
 
 ### Page 6 (PDF 21)
 
@@ -333,7 +333,7 @@ asi dabhrasya cid vṛdho yajamānāya śikṣasi sunvate bhūri te vasu ||2||*
 - **भूरि** — "*bahala* — much, abundant."
 - **पराददिः** — *ḍudāñ dāne* — "*parasya ādātā*: one who gives the wealth that is with the enemies; that is, because Indra, pleased by our praises, brings us victory in battle, the wealth of those enemies comes to us."
 - **दभ्रस्य** — *alpasya* — "of a small one, of one who is not great, of one who is not famous. The word *dabhra* is read among the thirteen names of the small beginning *ṛhan, hrasvaḥ*." *(the first words of the list, "ṛhan, hrasvaḥ", as read.)*
-- **शिक्षसि** — "since the word *śikṣati* is read among the ten names of the act of giving beginning *dāti, dāśati*, *śikṣasi* means 'you give' (Ni. [3-?] [?])."
+- **शिक्षसि** — "since the word *śikṣati* is read among the ten names of the act of giving beginning *dāti, dāśati*, *śikṣasi* means 'you give' (Ni. 3-19)."
 
 **॥ व्याकरणप्रक्रिया ॥ — Vyākaraṇa-prakriyā (Rik 81.2)** *(grammar page, noted briefly; runs to p. 9)*
 
