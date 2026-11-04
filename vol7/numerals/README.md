@@ -24,3 +24,6 @@ The user's sample rows (file page 18: 7.12, 7.4, 5-2-2, …) belong to our PDF 1
 
 ## All one-digit pairings applied (user: file always correct; his sample showed 8-4→7-4)
 `numeral_pairs_lev1.applied.tsv`: every remaining page-set pairing at edit distance 1 applied (not only look-alike swaps). Distance-2 pairings (e.g. 5-3-3→5-2-2) not applied yet: unrelated leftovers are likelier there.
+
+## Local page offsets (user: "we already established a 1-page offset")
+Per-page offsets from exact matches (`numeral_pageset.py --local`): file = PDF+1 for PDF ~17–35 and 79–207 and 454–499; file = PDF−1 for ~42–75, 216–371 and 524–530 (jumps of two pages at ≈ PDF 40, 77, 210, 450, 500). The pool is the single file page given by the local offset. Test: 1-digit corruption recovered 96 %, 2-digit 93 % (wrong 4 %). Applied the **33 distance-2 pairings** (`numeral_pairs_lev2_localpage.applied.tsv`).

@@ -6,6 +6,7 @@ remaining pool values by closest digits (same number of parts), best pairs first
   --out TSV : candidates for the real [?] numerals."""
 import argparse, re, collections, random
 import openpyxl
+OFF = None
 D2A = str.maketrans("०१२३४५६७८९", "0123456789"); DEV = re.compile(r"[ऀ-ॿ]")
 REF = re.compile(r"(\[?\d+\]?(?:\s*[-–.,]\s*\[?\d+\]?)+)(\s*\[\?\])?")
 parts = lambda s: re.findall(r"\d+", s.translate(D2A))
@@ -30,6 +31,23 @@ def load(md, num):
             ps = parts(m.group(1))
             if len(ps) >= 2: mp[page].append(dict(line=n, val="-".join(ps), q=bool(m.group(2)), tok=m.group(0).strip()))
     return fp, mp
+def local_offsets(fp, mp, reach=8):
+    """clear per-page offsets from exact matches; other pages take the nearest anchored page (within reach)."""
+    anchor = {}
+    for P, M in mp.items():
+        sc = {k: sum(1 for x in M if x["val"] in set(fp.get(P + k, []))) for k in range(-3, 4)}
+        top = max(sc.values())
+        ks = [k for k, v in sc.items() if v == top]
+        if top >= 2 and len(ks) == 1: anchor[P] = ks[0]
+    off = {}
+    for P in mp:
+        near = sorted((abs(P - A), A) for A in anchor)
+        near = [(d, A) for d, A in near if d <= reach]
+        if not near: continue
+        d0 = near[0][0]
+        ks = {anchor[A] for d, A in near if d == d0}
+        off[P] = sorted(ks)
+    return off
 def pair(pool, doubt, maxlev):
     """greedy closest pairs; returns {index_in_doubt: pool_value}"""
     cand = sorted((lev(d, v), i, j) for i, d in enumerate(doubt) for j, v in enumerate(pool) if len(d.split("-")) == len(v.split("-")) and lev(d, v) <= maxlev)
@@ -38,10 +56,11 @@ def pair(pool, doubt, maxlev):
         if i in ui or j in uj: continue
         ui.add(i); uj.add(j); out[i] = (pool[j], l)
     return out
-def run(md, num, test, out, maxlev):
-    fp, mp = load(md, num); random.seed(2); tot = ok = wrong = 0; res = []
+def run(md, num, test, out, maxlev, local=False):
+    global OFF
+    fp, mp = load(md, num); OFF = local_offsets(fp, mp) if local else None; random.seed(2); tot = ok = wrong = 0; res = []
     for P, M in sorted(mp.items()):
-        pool = [v for p in range(P - 2, P + 2) for v in fp.get(p, [])]
+        pool = [v for p in range(P - 2, P + 2) for v in fp.get(p, [])] if OFF is None else [v for k in OFF.get(P, []) for v in fp.get(P + k, [])]
         if not pool: continue
         # exact matches consume pool values
         left = list(pool); doubt = []
@@ -87,5 +106,5 @@ def run(md, num, test, out, maxlev):
     return res
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(); ap.add_argument("--md", required=True); ap.add_argument("--num", required=True)
-    ap.add_argument("--test", action="store_true"); ap.add_argument("--out"); ap.add_argument("--maxlev", type=int, default=2)
-    a = ap.parse_args(); run(a.md, a.num, a.test, a.out, a.maxlev)
+    ap.add_argument("--test", action="store_true"); ap.add_argument("--out"); ap.add_argument("--maxlev", type=int, default=2); ap.add_argument("--local", action="store_true", help="pool = the single file page given by the local offset")
+    a = ap.parse_args(); run(a.md, a.num, a.test, a.out, a.maxlev, a.local)
