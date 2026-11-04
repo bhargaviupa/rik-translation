@@ -41,3 +41,6 @@ User confirmed (Nov 4): the three pairings that change a part's length are corre
 
 ## User's answers in `Vol7_our_reading.xlsx` (Nov 4 2026; column "C" = our reading correct)
 C (reading confirmed, `[?]` dropped): md lines 151 (ऋषिश्चास्य), 174 (Varga 1, 2, 3), 199 (श्रूयेत, प्रतिषेधः). Digits given by the user: line 251 `Ni. [2-17] [?]` → 3-9; line 258 `Pā. Sū. 3-2-[?]` → 3-3-72; line 336 `Ni. [3-?] [?]` → 3-19. English-only lines swept afterwards.
+
+## Unused-entries approach (user, Nov 4 2026)
+User: entries on a page that no md numeral has used may be the answer; the one-digit rule was too strict. Tried: `numeral_leftover.py` (digit cost) and `numeral_leftover2.py` (context): neither is reliable enough to apply (on the user's three answers: line 251 right, 336 right, 258 wrong with digits alone; context score ≈ 30–50 because the md notes are English renderings of the Kannada prose). Not applied. Instead `unused_entries_xlsx.py` writes `Vol7_unused_entries.xlsx`: every doubtful numeral with ALL unused numeral-file entries on its page (value | file line | Kannada context, closest digits first) + a sheet of all unused entries by page, for the user to mark (C = correct, or the digits).
