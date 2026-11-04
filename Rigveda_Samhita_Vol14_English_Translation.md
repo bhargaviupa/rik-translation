@@ -24601,4 +24601,102 @@ Still others say thus — The ṛṣi Gṛtsamada was once performing a sacrific
 
 ---
 
-**Progress note:** Done through printed p. 643 (PDF 665). Sūkta 11 ended on p. 640; p. 641 prints no grammar note or colophon for it and opens straight with the heading of Sūkta 12 (second anuvāka, 15 Ṛks, Gṛtsamada, Indra, Triṣṭubh). The bhāṣya introduction (Śrauta-sūtra uses, the itihāsa from the Bṛhaddevatā and the two further variants) and the Kannada anuvāda of it are written; Ṛk 1 is not yet begun. The Kannada narrative of the third variant is cut off at "ಇದೇನು ?" at the foot of p. 643 and continues on p. 644: the next batch resumes there (the asuras seeing Gṛtsamada), then probably Ṛk 1. Flags: FILE DISAGREE: p. 641 Ā. 8-7 (file "8.73", noise; p. 642 file agrees with my reading); p. 641 Ā. 7-7 (file "2-2", garbled; p. 642 file says 7-7); p. 641 Ā. 6-6 not in the file for that page, agrees with p. 642. Unzoomed numerals: running headers on pp. 641–643 (the varga numeral "7" on pp. 641/643 and "Sū. 12" on p. 642 read from the strip), all sūtra numbers. [?] places: "संसव" (Kannada "ಸಂಸವ…" as read), the first "ವೇನ…" of p. 643 (printed like "ವೇಸ"), "किन्त्वेवंगुणोपेत" and "अभिसेततुः" as read.
+### Printed p. 644 (PDF 666)
+
+*(Header: "644", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12"; header numerals not zoomed. The page opens with the continuation of the Kannada narrative of the third variant from p. 643.)*
+
+"…[the asuras said], 'Gṛtsamada had already gone away; how has Gṛtsamada come here again? Indra himself, afraid of us, is sitting here in this form of Gṛtsamada'; so saying they seized him (Gṛtsamada). Then Gṛtsamada, addressing those asuras, said 'I am not Indra', described the qualities of Indra with this sūkta, pacified the asuras and sent them away. This story is told in the Mahābhārata also."
+
+*(A short rule closes the anuvāda. The sūkta heading is then printed again, with the particulars of the sūkta, as follows.)*
+
+**॥ ओं (*oṃ*) ॥**
+
+**Sūkta 12** — Maṇḍala 2; Anuvāka 2; Sūkta 12; Aṣṭaka 2; Adhyāya 6; Varga 7, 8, 9 *(varga numerals as read, unzoomed; no numeral file rows for this page)*. Number of Ṛks in the sūkta: 15. Ṛṣi: गृत्समदः (*gṛtsamadaḥ*). Devatā: इन्द्रः (*indraḥ*). Chandas: त्रिष्टुप् (*triṣṭup*).
+
+*(A short rule follows; then the Saṃhitā-pāṭha begins.)*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> यो जा॒त ए॒व प्र॑थ॒मो मन॑स्वान्दे॒वो दे॒वान्क्रतु॑ना प॒र्यभू॑षत् ।
+> यस्य॒ शुष्मा॒द्रोद॑सी॒ अभ्य॑सेतां नृ॒म्णस्य॑ म॒ह्ना स ज॑नास॒ इन्द्रः॑ ॥ १ ॥
+
+> *yo jāta eva prathamo manasvāndevo devānkratunā paryabhūṣat |*
+> *yasya śuṣmādrodasī abhyasetāṃ nṛmṇasya mahnā sa janāsa indraḥ ‖ 1 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । जातः । एव । प्रथमः । मनस्वान् । देवः । देवान् । क्रतुना । परिऽअभूषत् । यस्य । शुष्मात् । रोदसी इति । अभ्यसेतां । नृम्णस्य । मह्ना । सः । जनासः । इन्द्रः ॥
+
+> *yaḥ | jātaḥ | eva | prathamaḥ | manasvān | devaḥ | devān | kratunā | pari 'abhūṣat | yasya | śuṣmāt | rodasī iti | abhyasetāṃ | nṛmṇasya | mahnā | saḥ | janāsaḥ | indraḥ ‖*
+
+*(In "परिऽअभूषत्" the print shows a small mark between "परि" and "अभूषत्", which I take as the compound mark ऽ; not zoomed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Gṛtsamada says: from birth chief of the gods, he honoured or surpassed them by deeds like slaying Vṛtra; heaven and earth feared his might. He is Indra, not I.*
+
+> गृत्समदो ब्रूते । जनासो जना हे असुराः यो जात एव जायमान एव सन् प्रथमो देवानां प्रधानभूतो मनस्वान् मनस्विनामग्रगण्यो देवो द्योतमानः सन् क्रतुना वृत्रवधादिलक्षणेन स्वकीयेन कर्मणा देवान् सर्वान्यागदेवान्पर्यभूषत् । रक्षकत्वेन पर्यग्रहीत् ॥ भूष अलंकारे भूपादिः [?] । लङि [?] रूपं ॥ यद्वा सर्वाननन्यान्देवान्पर्यभूषत् पर्यभवत् । अत्यक्रामत् ॥ अस्मिन्पक्षे भवतेर्व्यत्ययेन क्सः । श्र्युकः कितीतीट्प्रतिषेधः [?] ॥ यस्येन्द्रस्य शुष्मात् शरीराद् बलात् रोदसी द्यावापृथिव्यावभ्यसेतां । अबिभीतां ॥ भ्यस भये । अनुदात्तेत् । भ्यस भयवेपनयोरिति नैरुक्ताः । नि- ३-२१ ॥ अभ्यसेतां वेपेतां वा [?] । तथा च मन्त्रान्तरं । इमे चित्तव [?] मन्यवे वेपेते भियसा मही । १-८०-११ । इति । नृम्णस्य सेनालक्षणस्य बलस्य मह्ना महत्त्वेन युक्तः स इन्द्रो नाहमिति ॥ अत्र निरुक्तं । यो जायमान एव प्रथमो मनस्वी देवो देवान्क्रतुना कर्मणा पर्यभवत्पर्यग्रह्णात् [?] पर्यरक्षदत्यक्रामदिति वा यस्य बलाद्द्यावापृथिव्यावस्यबिभीतां [?] नृम्णस्य मह्ना बलस्य महत्त्वेन स जनास इन्द्र इत्यृषेर्दृष्टार्थस्य प्रीतिर्भवत्याख्यानसंयुक्ता । नि- १०-१० । इति ॥
+
+> *gṛtsamado brūte | janāso janā he asurāḥ yo jāta eva jāyamāna eva san prathamo devānāṃ pradhānabhūto manasvān manasvināmagragaṇyo devo dyotamānaḥ san kratunā vṛtravadhādilakṣaṇena svakīyena karmaṇā devān sarvānyāgadevānparyabhūṣat | rakṣakatvena paryagrahīt ‖ bhūṣa alaṃkāre bhūpādiḥ [?] | laṅi [?] rūpaṃ ‖ yadvā sarvānananyāndevānparyabhūṣat paryabhavat | atyakrāmat ‖ asminpakṣe bhavatervyatyayena ksaḥ | śryukaḥ kitītīṭpratiṣedhaḥ [?] ‖ yasyendrasya śuṣmāt śarīrād balāt rodasī dyāvāpṛthivyāvabhyasetāṃ | abibhītāṃ ‖ bhyasa bhaye | anudāttet | bhyasa bhayavepanayoriti nairuktāḥ | ni- 3-21 ‖ abhyasetāṃ vepetāṃ vā [?] | tathā ca mantrāntaraṃ | ime cittava [?] manyave vepete bhiyasā mahī | 1-80-11 | iti | nṛmṇasya senālakṣaṇasya balasya mahnā mahattvena yuktaḥ sa indro nāhamiti ‖ atra niruktaṃ | yo jāyamāna eva prathamo manasvī devo devānkratunā karmaṇā paryabhavatparyagrahṇāt [?] paryarakṣadatyakrāmaditi vā yasya balāddyāvāpṛthivyāvasyabibhītāṃ [?] nṛmṇasya mahnā balasya mahattvena sa janāsa indra ityṛṣerdṛṣṭārthasya prītirbhavatyākhyānasaṃyuktā | ni- 10-10 | iti ‖*
+
+*(References printed "नि- ३-२१" = Nir. 3-21, "१-८०-११" = 1-80-11 and "नि- १०-१०" = Nir. 10-10; the numeral file agrees with all three; unzoomed. Doubtful places, all unzoomed: "भूपादिः" is printed as in my transcription [probably भूवादिः meant]; "लङि" is printed "ಲಜಿ"; the tail "श्र्युकः कितीतीट्प्रतिषेधः" is as read, a grammatical note on the absence of the augment iṭ; "अभ्यसेतां वेपेतां वा" has a stray hooked sign after "अभ्यसेतां" in the print, probably the plain ma; "चित्तव" is as printed, I do not complete it from memory; "पर्यग्रह्णात्" and "द्यावापृथिव्यावस्यबिभीतां" are as I read them.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. जात एव (*jāta eva*)—as soon as born. प्रथमः (*prathamaḥ*)—chief among the gods. मनस्वान् (*manasvān*)—of steady mind. देवः (*devaḥ*)—shining; being so. क्रतुना (*kratunā*)—by action in the form of the slaying of Vṛtra and the like. देवान् (*devān*)—all the gods. पर्यभूषत् (*paryabhūṣat*)—honoured and protected (them), and. यस्य (*yasya*)—whose. शुष्मात् (*śuṣmāt*)—through the strength of the body. रोदसी (*rodasī*)—both heaven and earth. अभ्यसेतां (*abhyasetāṃ*)—were afraid. नृम्णस्य (*nṛmṇasya*)—of the strength in the form of an army. मह्ना (*mahnā*)—endowed with greatness. सः (*saḥ*)—he indeed. इन्द्रः (*indraḥ*)—is Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who, as soon as he was born, being the chief of the gods, steady of mind and shining, honoured and protected all the gods by his deed in the form of the slaying of Vṛtra and the like, and by the strength of whose body both heaven and earth were afraid, he who is endowed with the greatness of strength in the form of an army, he indeed is Indra.
+
+**English Translation** *(as printed)*
+
+He who as soon as born, is the first (of the deities); who has done honour to the gods by his exploits; he, at whose might heaven and earth are alarmed, and (who is known) by the greatness of his strength, he, man [?], is Indra.
+
+*(The strip reads "he, man, is Indra" with the vowel printed unclearly; not zoomed, hence [?].)*
+
+---
+
+### Printed p. 645 (PDF 667)
+
+*(Header: "A. 2 A. 6. V. 7 ]" as read, "Ṛgvedasaṃhitā", "645"; header numerals not zoomed. This page carries the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and printed English of Ṛk 1, which have been given above under Ṛk 1 on the pages' own text; the order of print on this page is Sāyaṇabhāṣya, Pratipadārtha, Bhāvārtha, English Translation.)*
+
+---
+
+### Printed p. 646 (PDF 668)
+
+*(Header: "646", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12."; header numerals not zoomed.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 1)*
+
+In every Ṛk of this sūkta one or two qualities of Indra, or his deeds of daring, are described, and the idea is: "he who did such a work of great daring is Indra"; that is, others than Indra are unable to do such a deed; only Indra has the wonderful power and capacity to do such a work; so it is described. Therefore, at the end of every one of the Ṛks of this sūkta there is, like a refrain, the description of qualities: स जनास इन्द्रः (*sa janāsa indraḥ*)—"O people, he (who has done such a wonderful deed) is Indra."
+
+Likewise in the sūkta of Ṛ. Saṃ. 1-112, which begins ईळे द्यावापृथिवी (*īḷe dyāvāpṛthivī*) and has 25 Ṛks *(numerals "१-११२" agree with the file; "25" as read from the strip, unzoomed, not in the file)*, the ṛṣi Kutsa आंगिरस (*āṃgirasa*) in each Ṛk describes the deeds of daring of the Aśvin deities with
+
+> याभिर्भरे कारमंशाय जिन्वथस्ताभिरूषु ऊतिभिरश्विना गतं
+
+> *yābhirbhare kāramaṃśāya jinvathastābhirūṣu ūtibhiraśvinā gataṃ*
+
+*(Printed in bold; the middle part is as printed.)* and, having described their deeds of daring with याभिः (*yābhiḥ*) … ताभिरूषु ऊतिभिरश्विनागतं (*tābhirūṣu ūtibhiraśvināgataṃ*) ("with those protections of yours which contain such deeds of daring, come, together with them, to our place of sacrifice"), he prays to the Aśvin deities. Sūktas of this kind are found in many places in the Ṛgveda.
+
+जनासः—जना हे असुराः (*janāsaḥ—janā he asurāḥ*) — Addressing the asuras, "O asura people," the ṛṣi has endeavoured to remove the doubt of the asuras by describing to them, one by one, the qualities of Indra, so that they may understand, and by saying "the one who has done such deeds is Indra, not I". Once upon a time Indra, who was in the sacrificial ground of Gṛtsamada, learned that the asuras were lying in wait to kill him, and escaped in the guise of the ṛṣi Gṛtsamada; afterwards the asuras waited a long time for Indra, but as he did not come out, they seized the real Gṛtsamada, thinking that Indra might be in this guise; and then, to remove the doubt of those asuras, he (describing the qualities of Indra, saying "I am not Indra; Indra has such qualities") recited this sūkta. This account we have given in detail in the introductory anuvāda of this sūkta. (Printed "(ಪುಟ 642)", the Arabic numerals as printed: p. 642.)
+
+यो जात एव प्रथमो मनस्वान् देवो देवान् क्रतुना पर्यभूषत् (*yo jāta eva prathamo manasvān devo devān kratunā paryabhūṣat*) — This sentence in the first half of the Ṛk has the meaning: as soon as Indra was born, he became the leader of all the gods, and by his valour became worthy of honour even to the other gods; or he increased the honour of the other gods; or he became like an ornament to the other gods.
+
+प्रथमः (*prathamaḥ*) — For the word prathama Yāska says
+
+> प्रथम इति मुख्यनाम प्रतेनो भवति
+
+> *prathama iti mukhyanāma prateno bhavati*
+
+*(Reference printed "(ನಿ. ೨-೨೨)" = Nir. 2-22; the file agrees; unzoomed. The Sanskrit is as printed, not completed from memory.)* that is, the word prathama is a name for "chief". Indra is the chief among the gods; the meaning is: leader, head, guide of the gods.
+
+जातः (*jātaḥ*) — Ordinarily, whether men or gods, they acquire greatness by the deeds of daring which they do after they have grown great, or by their qualities. But as for Indra … *(the Kannada sentence is cut off at the foot of p. 646, "ಆದರೆ ಇಂದ್ರನ ವಿಷಯ", and continues on p. 647)*.
+
+---
+
+---
+
+**Progress note:** Done through printed p. 646 (PDF 668). Sūkta 12, Ṛk 1 is written (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); its Viśeṣaviṣayagaḷu is OPEN: the entry on ⟦जातः⟧ breaks off at "ಆದರೆ ಇಂದ್ರನ ವಿಷಯ" at the foot of p. 646 and continues on p. 647; the next batch resumes there, then Ṛk 2. The anuvāda narrative of p. 643 ended on p. 644 as noted; p. 644 repeats the sūkta heading (Maṃ. 2, Anu. 2, Aṣṭaka 2, Adhyāya 6, Varga 7, 8, 9; 15 Ṛks, Gṛtsamada, Indra, Triṣṭubh). Flags: no FILE DISAGREE (file agrees on Nir. 3-21, 1-80-11, Nir. 10-10, 1-112, Nir. 2-22; its text lines for p. 646 are noisy). Unzoomed numerals: running headers, the varga numerals 7, 8, 9 and "15" on p. 644, "25" Ṛks of 1-112 on p. 646, all reference numerals. [?] places: "परिऽअभूषत्" (compound mark), "भूपादिः", "लङि", "श्र्युकः कितीतीट्प्रतिषेधः", "अभ्यसेतां वेपेतां वा", "चित्तव", "पर्यग्रह्णात्", "द्यावापृथिव्यावस्यबिभीतां" in the bhāṣya, and "man [?]" in the printed English.
