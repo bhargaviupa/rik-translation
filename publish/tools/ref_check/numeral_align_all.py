@@ -60,7 +60,7 @@ def score(f, m):
     c = fuzz.partial_ratio(f["f"][-60:], m["f"]) / 100 if f["f"] and m["f"] else 0
     pos = max(0.0, 1 - abs(f["rank"] - m["rank"]))   # approximate line position: rank on the page (0..1); neighbour pages sit outside 0..1
     return 0.55 * d + 0.30 * c + 0.15 * pos, d, c
-res = []
+res = []; mmap = {}; pageM = {}; pageF = {}
 for P in sorted(frows):
     F = sorted(frows[P], key=lambda r: r["line"]); M = []
     for k, f in enumerate(F): f["rank"] = (k + 0.5) / len(F)
@@ -82,8 +82,10 @@ for P in sorted(frows):
         if s >= TH and abs(dp[i][j] - (s + dp[i + 1][j + 1])) < 1e-9: al[i] = j; i += 1; j += 1
         elif abs(dp[i][j] - dp[i + 1][j]) < 1e-9: i += 1
         else: j += 1
+    pageM[P] = M; pageF[P] = [F[i] for i in range(n) if i not in al]
     for i, f in enumerate(F):
         if i in al:
+            mmap.setdefault(id(M[al[i]]), (f, S[i][al[i]]))
             m = M[al[i]]; s, d, c = S[i][al[i]]
             st = "SAME" if f["val"] == m["val"] and not m["q"] else ("SAME but md has [?]" if f["val"] == m["val"] else "DIFFERENT")
             res.append((P, f, m, st, round(s, 2), round(c, 2)))
@@ -96,4 +98,24 @@ for P, f, m, st, s, c in res:
 for c in ws[1]: c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="305496"); c.alignment = Alignment(wrap_text=True, vertical="top")
 for i, w in enumerate([8, 8, 16, 8, 8, 16, 18, 20, 7, 8, 60, 20]): ws.column_dimensions["ABCDEFGHIJKL"[i]].width = w
 ws.freeze_panes = "A2"; ws.auto_filter.ref = ws.dimensions
+ws2 = wb.create_sheet("md numerals vs file")
+ws2.append(["PDF page", "printed", "md line", "MD value", "md token", "status", "FILE value", "file line", "score", "context", "closest UNMATCHED file rows on this page (value | line)", "text in md", "YOUR ANSWER"])
+nst = collections.Counter()
+for P in sorted(mrows):
+    for m in mrows[P]:
+        hit = mmap.get(id(m)); near = ""
+        if hit:
+            f, (sc, d, c) = hit
+            st = "SAME" if f["val"] == m["val"] and not m["q"] else ("SAME but md has [?]" if f["val"] == m["val"] else "DIFFERENT")
+            row = [f["val"], f["line"], round(sc, 2), round(c, 2)]
+        else:
+            st = "NOT IN FILE (no row aligned)" + (" [?]" if m["q"] else ""); row = ["", "", "", ""]
+            cands = sorted(pageF.get(P, []) + pageF.get(P - 1, []) + pageF.get(P + 1, []), key=lambda f: lev(m["val"], f["val"]))[:3]
+            near = "\n".join(f'{f["val"]}  |  line {f["line"]}' for f in cands)
+        nst[st] += 1
+        ws2.append([P, m["printed"], m["line"], m["val"], m["tok"], st] + row + [near, "", ""])
+for c in ws2[1]: c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="305496"); c.alignment = Alignment(wrap_text=True, vertical="top")
+for i, w in enumerate([8, 8, 8, 16, 18, 24, 16, 8, 7, 8, 30, 10, 14]): ws2.column_dimensions["ABCDEFGHIJKLM"[i]].width = w
+ws2.freeze_panes = "A2"; ws2.auto_filter.ref = ws2.dimensions
+print("md-side:", dict(nst))
 wb.save(a.out)
