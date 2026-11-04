@@ -24867,4 +24867,140 @@ Four deeds of daring of Indra are stated in this Ṛk. Indra firmly established 
 
 ---
 
-**Progress note:** Done through printed p. 650 (PDF 673). PDF 671 was once more an exact duplicate of PDF 670 (header 648), so nothing was written for it; the real printed p. 649 is PDF 672 and p. 650 is PDF 673 (offset −23 from PDF 672; the dispatcher's labels "printed 650/651" are one too high, and the earlier chunk's "Printed p. 649 (PDF 671)" entry is superseded by a correction paragraph). Sūkta 12: Ṛk 1 is finished (Durga's purport completed on p. 649; no grammar note). Ṛk 2 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English are written, and the Viśeṣaviṣayagaḷu is broken off mid-sentence on the winged mountains ("… ಎಲ್ಲಿಯೂ ಪ್ರಸ್ತಾಪಿಸಲ್ಪಟ್ಟಂತೆ …"), to continue on printed p. 651 (PDF 674). Flags: no FILE DISAGREE; the numeral file has no rows for PDFs 671–672, and its single row for "PDF 673, printed 651, line 7: 2.21" belongs to a text (Nir. 2.21, clouds) that is not on this page, so the file is probably shifted by one page from here on (its "printed 651" is likely PDF 674, to be checked when that page is read). Unzoomed: running headers (the varga numeral on p. 649 read 7), Ṛk number 2. [?] places: "पक्षयुक्तान्पर्वतान्" in the bhāṣya, the nasal sign of "प्रकुपिता(ँ)" in the Saṃhitā, "शर्कराद्भिः" read as written.
+### Printed p. 651 (PDF 674)
+
+*(Header: "Ā. 2 A. 6. V. 7 ]", "Ṛgvedasaṃhitā", "651"; the varga numeral is not zoomed. The dispatcher's label "printed 652" is one too high: the header of this page reads 651. The offset stays printed = PDF − 23. The numeral file's rows labelled "PDF 674 / printed 652" belong to the next PDF page (PDF 675), so the file is shifted by one page from the dispatcher's labels.)*
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 2 continues from p. 650.)* …is not seen (found). Therefore there is a difference of opinion about accepting this kind of meaning that the bhāṣyakāra has given for this sentence. Since in this sentence it is said प्रकुपितान् पर्वतान् (*prakupitān parvatān*), "mountains filled with anger", some hold that fire-spitting mountains (volcanoes) may be what is spoken of here. Others hold that, since the word पर्वत (*parvata*) also has the sense of "cloud" (Nir. 2-21 [?]), the ṛṣi's view may be that Indra struck with his vajra weapon (the lightning) the clouds that were roaring (thundering) in anger, and pacified them.
+
+*(The Nirukta reference after "ಅರ್ಥವಿರುವುದರಿಂದ" is printed "(ನಿ. ೨-೨.೧)"; the last digit is blurred, so I give 2-21 [?]; the numeral file has no row for this line; unzoomed.)*
+
+यः अन्तरिक्षं विममे वरीयः (*yaḥ antarikṣaṃ vimame varīyaḥ*)—Indra built the extensive atmosphere; or, he made the atmosphere extremely extensive: this is the sense.
+
+यः द्यां अस्तभ्नात् (*yaḥ dyāṃ astabhnāt*)—Indra propped up (held back) heaven, so that it should not fall downward. It is well known that heaven lies very high up in the atmosphere. Therefore the Ṛk describes that such a heaven stands without any support (the support of pillars and the like), and that he held it back so that it should not fall down on the earth below. In ordinary life, when houses and the like are built, it is well known that pillars are set up so that the upper covering, the roof or the like, should stand firm and not fall, and the load stands upon them. But here, in the atmosphere, without any support (pillars), heaven does not fall down, that is, it stands firm: the ṛṣi describes that the greatness of Indra, who has made it so, is worthy of praise.
+
+In the first pāda of this Ṛk the use of the word यः (*yaḥ*) (the relative word यत् (*yat*)) and in the last pāda the use of the word सः (*saḥ*) (the word तत् (*tat*)) stress the idea that the person who has accomplished such extraordinary deeds is Indra.
+
+---
+
+#### Ṛk 3
+
+*(Small caption "Saṃhitāpāṭha"; a short rule precedes it.)*
+
+**॥ संहितापाठः ॥**
+
+> यो ह॒त्वाहि॒मरि॑णात्स॒प्त सिन्धू॒न्यो गा उ॒दाज॑दप॒धा व॒लस्य॑ ।
+> यो अश्म॑नोर॒न्तर॒ग्निं ज॒जान॑ सं॒वृक्स॒मत्सु॒ स ज॑नास॒ इन्द्रः॑ ॥ ३ ॥
+
+> *yo hatvāhimariṇātsapta sindhūnyo gā udājadapadhā valasya |*
+> *yo aśmanorantaragniṃ jajāna saṃvṛksamatsu sa janāsa indraḥ ‖ 3 ‖*
+
+*(Accent marks not reproduced. The print has "समत्सु" with the plain *ma* hooked as usual; read as *samatsu*, agreeing with the bhāṣya.)*
+
+**॥ पदपाठः ॥**
+
+> यः । हत्वा । अहिं । अरिणात् । सप्त । सिन्धून् । यः । गाः । उत्ऽआजत् । अपऽधा ।
+> वलस्य ।
+
+> *yaḥ | hatvā | ahiṃ | ariṇāt | sapta | sindhūn | yaḥ | gāḥ | ut 'ājat | apa 'dhā |*
+> *valasya |*
+
+*(The Pada continues on p. 652.)*
+
+---
+
+### Printed p. 652 (PDF 675)
+
+*(Header: "652", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12"; numerals not zoomed. The dispatcher's label "printed 653" is one too high.)*
+
+*(The Pada of Ṛk 3 continues from p. 651.)*
+
+> यः । अश्मनोः । अन्तः । अग्निं । जजान । संऽवृक् । समत्ऽसु । सः । जनासः ।
+> इन्द्रः ॥ ३ ॥
+
+> *yaḥ | aśmanoḥ | antaḥ | agniṃ | jajāna | saṃ 'vṛk | samat 'su | saḥ | janāsaḥ |*
+> *indraḥ ‖ 3 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, having slain the cloud, released the seven rivers; freed Vala's cows; produced lightning between two clouds; is unconquered in battles: he, not I.*
+
+> योऽहिं मेघं हत्वा मेघहननं कृत्वा सप्त सर्पणशीलाः सिन्धून् स्यन्दनशीला अपोऽरिणात् । प्रैरयत् । यद्वा सप्त गङ्गायमुनाद्या मुख्या नदीररिणात् ॥ रीङ् स्रवणे क्र्यादिः ॥ यश्च वलस्य वलनामकस्यासुरस्यापधा तत्कर्तृकान्निरोधान्निरुद्धा गा उदाजत् । निरगमयत् ॥ अपधा । अपपूर्वाद्दधातेरातश्चोपसर्गे । पा- ३-३-१०६ । इति भावेऽङ्प्रत्ययः । सुपां सुलुगिति पञ्चम्या आकारः ॥ यश्चाश्मनोः । अश्नुते व्याप्नोत्यन्तरिक्षमित्यश्मा मेघः ॥ अत्यन्तमृदुरूपयोर्मेघयोरन्तर्मध्ये वैद्युतमग्निं जजान । उत्पादयामास । यश्च समत्सु । संभक्षयन्ति योद्धॄणामायूंषीति समदः संग्रामाः । तेषु संवृक् भवति ॥ वृणक्तेर्हिंसार्थस्य क्विपि रूपं ॥ स इन्द्रो नाहमिति ॥
+
+> *yo 'hiṃ meghaṃ hatvā meghahananaṃ kṛtvā sapta sarpaṇaśīlāḥ sindhūn syandanaśīlā apo 'riṇāt | prairayat | yadvā sapta gaṅgāyamunādyā mukhyā nadīrariṇāt ‖ rīṅ sravaṇe kryādiḥ ‖ yaśca valasya valanāmakasyāsurasyāpadhā tatkartṛkānnirodhānniruddhā gā udājat | niragamayat ‖ apadhā | apapūrvāddadhāterātaścopasarge | pā- 3-3-106 | iti bhāve 'ṅpratyayaḥ | supāṃ sulugiti pañcamyā ākāraḥ ‖ yaścāśmanoḥ | aśnute vyāpnotyantarikṣamityaśmā meghaḥ ‖ atyantamṛdurūpayormeghayorantarmadhye vaidyutamagniṃ jajāna | utpādayāmāsa | yaśca samatsu | saṃbhakṣayanti yoddhṝṇāmāyūṃṣīti samadaḥ saṃgrāmāḥ | teṣu saṃvṛk bhavati ‖ vṛṇakterhiṃsārthasya kvipi rūpaṃ ‖ sa indro nāhamiti ‖*
+
+*(Grammatical tail, only characterized: "रीङ् स्रवणे" (a root of the Kryādi class) for अरिणात्; "आतश्चोपसर्गे" (Pā. 3-3-106 as printed; the numeral file agrees) giving the affix ङ in the abstract sense, with "सुपां सुलुक्" for the fifth-case ending ā, for अपधा; "वृणक्ति", a root of the sense of injury, with the affix क्विप् for संवृक्. Doubtful, unzoomed: the print has "योद्धॄणाम्" as a long-ṛ shape that looks like "योद्ध्राणाम्"; I give "योद्धॄणाम्" [?].)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. अहिं (*ahiṃ*)—the cloud. हत्वा (*hatvā*)—having slain. सप्त (*sapta*)—seven in number. सिन्धून् (*sindhūn*)—the waters apt to flow (the rivers Gaṅgā and the rest). अरिणात् (*ariṇāt*)—released, so that they flow. यः (*yaḥ*)—who. वलस्य (*valasya*)—of the asura named Vala. अपधा (*apadhā*)—caught in obstruction. गाः (*gāḥ*)—the cows. उदाजत् (*udājat*)—released. यः (*yaḥ*)—who. अश्मनोः (*aśmanoḥ*)—of the clouds. अन्तः (*antaḥ*)—in the middle region. अग्निं (*agniṃ*)—the fire in the form of lightning. जजान (*jajāna*)—created (and). समत्सु (*samatsu*)—in battles. संवृक् (*saṃvṛk*)—remains unopposed (unobstructed). सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who, having slain the cloud, made the seven rivers, Gaṅgā and the rest, apt to flow, flow; who released the cows caught in the obstruction of the asura named Vala; who created the fire in the form of lightning in the middle region of the clouds; and who remains unopposed in battles: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who having destroyed Ahi, set free the seven rivers ; who recovered the cows detained by Vala ; who generated fire in the clouds : who is invincible in battle : he, men, is Indra.
+
+---
+
+### Printed p. 653 (PDF 676)
+
+*(Header: "Ā. 2 A. 6. V. 7 ]", "Ṛgvedasaṃhitā", "653"; the varga numeral is not zoomed. The dispatcher's label "printed 654" is one too high. The numeral file's rows labelled "PDF 675 / printed 653" (Nir. 2-21, 2-24, 2-24) belong to this page.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 3)*
+
+In this Ṛk too there is a description of four deeds of daring of Indra: he struck the demon Vṛtra, or the cloud, brought down the rain and made the water flow; he released the cows which Vala had hidden away; he produced (created) the fire in the form of lightning in the middle of the clouds in the atmosphere; and in battle Indra is unconquerable by his enemies.
+
+यो हत्वा अहिं अरिणात् सप्त सिन्धून् (*yo hatvā ahiṃ ariṇāt sapta sindhūn*)—
+
+> योऽहिं मेघं हत्वा मेघहननं कृत्वा सप्त सर्पणशीलाः सिन्धून् स्यन्दनशीला अपोऽरिणात् । प्रैरयत् । यद्वा सप्त गङ्गायमुनाद्या मुख्या नदीररिणात् ।
+
+> *yo 'hiṃ meghaṃ hatvā meghahananaṃ kṛtvā sapta sarpaṇaśīlāḥ sindhūn syandanaśīlā apo 'riṇāt | prairayat | yadvā sapta gaṅgāyamunādyā mukhyā nadīrariṇāt |*
+
+That is: Indra struck the cloud (with the vajra weapon), and made the rain-water which had been held back fall, and made it flow in the form of streams, or in the form of the seven rivers Gaṅgā and the rest. This is the meaning.
+
+अहिं (*ahiṃ*)—The word अहि (*ahi*) is read among the names of cloud (Nir. 2-21) and also among the names of water (Nir. 2-24). Besides this, Yāska has given the explanation (nirvacana) of the word अहि (*ahi*) as अहिरयनात् (*ahirayanāt*), "the cloud is called अहि (*ahi*) because it moves (in the atmosphere)" (Nir. 2-24).
+
+*(The three Nirukta references 2-21, 2-24, 2-24 agree with the numeral file; unzoomed. In "अहिरयनात्" the print has the *ya* hooked like a vowel sign; I read *ayanāt*.)*
+
+(1) Besides, for the word अहि (*ahi*) formed from the root इण्-गतौ (*iṇ-gatau*) (Adādi, Parasmaipada):
+
+> एत्यन्तरिक्षे । अयतेरेव ।
+
+> *etyantarikṣe | ayatereva |*
+
+—because it moves in the atmosphere, अहि (*ahi*) means the cloud;
+
+(2) or, if the word अहि (*ahi*) is formed from the root अहि-गतौ (*ahi-gatau*) (Bhvādi, Ātmanepada), then too, because it moves about in the atmosphere, the word अहि (*ahi*) has the sense of cloud;
+
+(3) if it is formed from the root अह-व्याप्तौ (*aha-vyāptau*) (Svādi, Parasmaipada), meaning "to pervade":
+
+> अह्नोति व्याप्नोति आकाशं दिगन्तराणि वा ।
+
+> *ahnoti vyāpnoti ākāśaṃ digantarāṇi vā |*
+
+—that is, because it pervades the sky or the various quarters, अहि (*ahi*) means the cloud; *(the print has "अह्नोति"; kept as printed)*
+
+(4) or:
+
+> आङ्पूर्वाद्धन्तेः हिंसार्थात् गत्यर्थाद्वा आ समन्तात् हन्ति भिनत्ति उष्णमाभिमुख्येन । हन्ति गच्छत्यन्तरिक्षम् ।
+
+> *āṅpūrvāddhanteḥ hiṃsārthāt gatyarthādvā ā samantāt hanti bhinatti uṣṇamābhimukhyena | hanti gacchatyantarikṣam |*
+
+—that is, if it is formed from the root हन (*hana*) (हिंसागत्योः (*hiṃsāgatyoḥ*)) with the prefix आङ् (*āṅ*), in the sense of injury: because it destroys the heat existing all around through contact with cool water, the word अहि (*ahi*) means the cloud. Or, if the sense of motion is given to the root हन (*hana*), then, because it has the nature of moving in the atmosphere, अहि (*ahi*) means the cloud;
+
+(5) or another meaning is also possible for the root हन (*hana*) in the sense of injury. How? —
+
+> हिः हन्ता, न हन्ता अहन्ता । अहिः अहिंसकः इत्यर्थः । सर्वदा लोकस्य वर्षप्रदत्वात् ।
+
+> *hiḥ hantā, na hantā ahantā | ahiḥ ahiṃsakaḥ ityarthaḥ | sarvadā lokasya varṣapradatvāt |*
+
+हिः (*hiḥ*) means one who injures, अहिः (*ahiḥ*) means one who does not injure: the cloud; because the cloud, for doing good to the people of the world, the rain… *(the sentence is cut off at the foot of p. 653: "ಮಳೆಯನ್ನು"; it continues on the next page)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 653 (PDF 676). The dispatcher's labels "printed 652/653/654" for PDF 674/675/676 are one too high; the headers read 651, 652, 653 (offset −23 as in the previous note), and I headed the pages accordingly. The numeral file is shifted by one page against the dispatcher's labels: its rows "PDF 674 (3.3.106)" belong to PDF 675, its rows "PDF 675 (2-21, 2-24, 2-24)" to PDF 676, and its rows "PDF 676 (634-637; 2-21)" belong to the next page (PDF 677), not written yet. Sūkta 12: Ṛk 2 is finished (Viśeṣaviṣayagaḷu completed on p. 651; no grammar note). Ṛk 3 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and English are written; the Viśeṣaviṣayagaḷu is broken off in the middle of point (5) on the word ahi (hi = injure, a-hi = not injuring): "… ಲೋಕದ ಜನರಿಗೆ ಹಿತವನ್ನುಂಟುಮಾಡುವುದಕ್ಕಾಗಿ ಮಳೆಯನ್ನು" — to continue on printed p. 654 (PDF 677). Flags: no FILE DISAGREE; sūtra number Pā. 3-3-106 and Nir. 2-21, 2-24, 2-24 agree with the file; the Nirukta reference on p. 651 (for parvata = cloud) read 2-21 [?], no file row. Unzoomed: running headers/varga numerals (read 7), Ṛk number 3. [?] places: "योद्धॄणाम्" in the bhāṣya, the form "अहिरयनात्" and "अह्नोति" as printed.
