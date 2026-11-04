@@ -76,10 +76,10 @@ def main():
                  if (m := re.match(r"##\s+S[uū]kta\s+(\d+)", l))]
         pos = [i for i, n in heads if n == a.sukta]
         if not pos: sys.exit(f"No heading for Sukta {a.sukta} in {a.md}. Headings found: {[n for _, n in heads]}")
-        a.from_line = pos[0]
         later = [i for i, n in heads if i > pos[0]]
-        a.to_line = (later[0] - 1) if later else 10**9
-        print(f"Sukta {a.sukta}: md lines {a.from_line}-{a.to_line if later else 'end'}")
+        if not a.from_line: a.from_line = pos[0]          # explicit --from-line / --to-line win
+        if a.to_line == 10**9 and later: a.to_line = later[0] - 1
+        print(f"Sukta {a.sukta}: using md lines {a.from_line}-{a.to_line if a.to_line < 10**9 else 'end'}")
     raw, rf, ridx = load_ref(a.ref)
     client = None
     if not a.dry_run:
