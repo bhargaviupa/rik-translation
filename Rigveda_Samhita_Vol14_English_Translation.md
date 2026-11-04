@@ -25003,4 +25003,156 @@ That is: Indra struck the cloud (with the vajra weapon), and made the rain-water
 
 ---
 
-**Progress note:** Done through printed p. 653 (PDF 676). The dispatcher's labels "printed 652/653/654" for PDF 674/675/676 are one too high; the headers read 651, 652, 653 (offset −23 as in the previous note), and I headed the pages accordingly. The numeral file is shifted by one page against the dispatcher's labels: its rows "PDF 674 (3.3.106)" belong to PDF 675, its rows "PDF 675 (2-21, 2-24, 2-24)" to PDF 676, and its rows "PDF 676 (634-637; 2-21)" belong to the next page (PDF 677), not written yet. Sūkta 12: Ṛk 2 is finished (Viśeṣaviṣayagaḷu completed on p. 651; no grammar note). Ṛk 3 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and English are written; the Viśeṣaviṣayagaḷu is broken off in the middle of point (5) on the word ahi (hi = injure, a-hi = not injuring): "… ಲೋಕದ ಜನರಿಗೆ ಹಿತವನ್ನುಂಟುಮಾಡುವುದಕ್ಕಾಗಿ ಮಳೆಯನ್ನು" — to continue on printed p. 654 (PDF 677). Flags: no FILE DISAGREE; sūtra number Pā. 3-3-106 and Nir. 2-21, 2-24, 2-24 agree with the file; the Nirukta reference on p. 651 (for parvata = cloud) read 2-21 [?], no file row. Unzoomed: running headers/varga numerals (read 7), Ṛk number 3. [?] places: "योद्धॄणाम्" in the bhāṣya, the form "अहिरयनात्" and "अह्नोति" as printed.
+---
+
+### Printed p. 654 (PDF 677)
+
+*(Header: "654", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12". The dispatcher's label "printed 655" is one too high: the header reads 654. Offset stays printed = PDF − 23. The numeral file is again shifted by one page: its "PDF 676" rows (634-637; Nir. 2-21) belong to this page. Numerals not zoomed.)*
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 3 continues from p. 653, point (5), the word अहि (*ahi*).)* …pours (the rain), it is non-injuring. Therefore अहि (*ahi*) means the cloud. In support of this meaning there is this sentence of the Vājasaneyi Saṃhitā of the Śukla Yajurveda:
+
+*(Gloss mine and tentative: "He united with Agni and Soma; all knowledge, all fame, all food, all fortune; since he became all this, therefore (he is) ahi.")*
+
+> सोऽग्नीषोमावभि सं बभूव सर्वां विद्यां सर्वं यशः सर्वमन्नाद्यं सर्वां श्रियं स यत्सर्वमेतत्समभवत् तस्माद्अहिः ।
+
+> *so 'gnīṣomāvabhi saṃ babhūva sarvāṃ vidyāṃ sarvaṃ yaśaḥ sarvamannādyaṃ sarvāṃ śriyaṃ sa yatsarvametatsamabhavat tasmādahiḥ |*
+
+*(The print has "ಶ್ರಿಯುಂ", the hooked *ya* looking like the *u* sign; read *śriyaṃ*. The final word is read from the print "ತಸ್ಮಾದಹಿಃ".)*
+
+So runs the Vājasaneyi Saṃhitā sentence. In the present Ṛk, अहि (*ahi*) means just the cloud.
+
+सप्त सिन्धून् (*sapta sindhūn*)—Sāyaṇa has given two different meanings for these words:
+
+> सप्त सर्पणशीलाः सिन्धून् स्यन्दनशीलाः अपोऽरिणात् प्रैरयत् ।
+
+> *sapta sarpaṇaśīlāḥ sindhūn syandanaśīlāḥ apo 'riṇāt prairayat |*
+
+The word सप्त (*sapta*) is stressed as having a moving nature, and सिन्धून् (*sindhūn*) as having a flowing nature: he impelled those waters, the rain-waters. That is, he impelled them so that the cloud pours down: this is one meaning. Or:
+
+> सप्त गङ्गायमुनाद्या मुख्या नदीरारिणात् ।
+
+> *sapta gaṅgāyamunādyā mukhyā nadīrāriṇāt |*
+
+*(The print has "ನದೀರರಿಣಾತ್", i.e. नदीरारिणात्? No: it reads नदीररिणात्, as in the bhāṣya on p. 652; I give it as printed.)*
+
+> सप्त गङ्गायमुनाद्या मुख्या नदीररिणात् ।
+
+> *sapta gaṅgāyamunādyā mukhyā nadīrariṇāt |*
+
+Having impelled the cloud to pour down the rain, he made those waters flow in the seven principal rivers, Gaṅgā, Yamunā and the rest: this is another meaning.
+
+यो गा उदाजदपधा वलस्य (*yo gā udājadapadhā valasya*)—About the asura named Vala and about the cows kept hidden by him, we have explained at length on pp. 634–637 of this same volume *(Latin figures as printed; they agree with the numeral file)*. That the asura Vala shut up the cows of the gods in a cave and Indra released them is stated here too.
+
+यः अश्मनोः अन्तः अग्निं जजान (*yaḥ aśmanoḥ antaḥ agniṃ jajāna*)—For the word अश्मन् (*aśman*) formed from the root अशू-व्याप्तौ (*aśū-vyāptau*) (Svādi, Ātmanepada), Sāyaṇa gives:
+
+> अश्नुते व्याप्नोत्यन्तरिक्षमित्यश्मा मेघः ।
+
+> *aśnute vyāpnotyantarikṣamityaśmā meghaḥ |*
+
+Because it pervades the atmosphere, अश्मनोः (*aśmanoḥ*) means "of the clouds". The word अश्मा (*aśmā*) is read among the names of cloud (Nir. 2-21; agrees with the numeral file). Then:
+
+> अत्यन्तमृदुरूपयोर्मेघयोरन्तर्मध्ये वैद्युतमग्निं जजान उत्पादयामास ।
+
+> *atyantamṛdurūpayormeghayorantarmadhye vaidyutamagniṃ jajāna utpādayāmāsa |*
+
+*(The print seems to show "ಅತ್ಯಂತೇ ಮೃದು…"; I read अत्यन्त-, agreeing with p. 652 [?].)*
+
+Between the clouds, which are masses of water of extreme softness (tenderness), Indra produced the electric fire (lightning). To produce fire by the friction of two very hard things such as stones is very easy, and doing so is well known in the world. But to produce electric fire between two clouds that are extremely soft, like cotton, cannot be done by ordinary men or by the gods. The ṛṣi describes that it can be done only by the greatly glorious Indra, and so praises the excess of Indra's power. Here the use of the dual word अश्मनोः (*aśmanoḥ*), "between two clouds", is noteworthy. For it is the opinion of modern scientists that electricity arises from the friction of two clouds charged with different kinds of electric current. (Even the modern scientists agree that clouds charged defferenty [sic] by positive and negative electricity coming together cause lightning).
+
+---
+
+### Printed p. 655 (PDF 678)
+
+*(Header: "A. 2 A. 6. V. 7 ]", "Ṛgvedasaṃhitā", "655"; the varga numeral is not zoomed. The dispatcher's label "printed 656" is one too high.)*
+
+संवृक् समत्सु (*saṃvṛk samatsu*)—In this sentence the word यः (*yaḥ*) and the verb भवति (*bhavati*) must be supplied. If this is done: यः समत्सु संवृक् भवति (*yaḥ samatsu saṃvṛk bhavati*)—the Indra who injures, that is, destroys, the enemies in battles: that Indra; this is the meaning of the sentence. संवृक् (*saṃvṛk*):
+
+> वृणक्तेर्हिंसार्थस्य क्विपि रूपं
+
+> *vṛṇakterhiṃsārthasya kvipi rūpaṃ*
+
+—the word संवृक् (*saṃvṛk*) is formed from the root वृणक्ति (*vṛṇakti*), which conveys the sense of injury, with the prefix सं (*saṃ*), and means "one who injures (the enemies)". And समत्सु (*samatsu*):
+
+> संभक्षयन्ति योद्धॄणामायूंषीति समदः संग्रामाः तेषु
+
+> *saṃbhakṣayanti yoddhṝṇāmāyūṃṣīti samadaḥ saṃgrāmāḥ teṣu*
+
+*(The print has the long-ṛ shape "योद्धॄणाम्" looking like "योद्ध्राणाम्"; I give योद्धॄणाम् [?], as on p. 652.)*
+
+Because battles devour (destroy) the lives of the warriors who fight, battles are called समदः (*samadaḥ*). The chief sense of the sentence is: in such battles, in which warriors die, Indra injures and destroys the enemies.
+
+---
+
+#### Ṛk 4
+
+*(Small caption "Saṃhitāpāṭha".)*
+
+**॥ संहितापाठः ॥**
+
+> येने॒मा विश्वा॒ च्यव॑ना कृ॒तानि॒ यो दासं॒ वर्ण॒मध॑रं॒ गुहाकः॑ ।
+> श्व॒घ्नीव॒ यो जि॑गी॒वांल्ल॒क्षमाद॑द॒र्यः पु॒ष्टानि॒ स ज॑नास॒ इन्द्रः॑ ॥ ४ ॥
+
+> *yenemā viśvā cyavanā kṛtāni yo dāsaṃ varṇamadharaṃ guhākaḥ |*
+> *śvaghnīva yo jigīvāṃllakṣamādadaryaḥ puṣṭāni sa janāsa indraḥ ‖ 4 ‖*
+
+*(Accent marks not reproduced. The print has "ಜಿಗೀವಾಂ ಲಕ್ಷಮಾದದರ್ಯಃ": read *jigīvāṃ lakṣamādadaryaḥ*. The Ṛk number 4 not zoomed.)*
+
+**॥ पदपाठः ॥**
+
+> येन । इमा । विश्वा । च्यवना । कृतानि । यः । दासं । वर्णं । अधरं । गुहा ।
+> अकरित्यकः ।
+
+> *yena | imā | viśvā | cyavanā | kṛtāni | yaḥ | dāsaṃ | varṇaṃ | adharaṃ | guhā |*
+> *akarityakaḥ |*
+
+> श्वघ्नीऽइव । यः । जिगीवान् । लक्षं । आदत् । अर्यः । पुष्टानि । सः । जनासः । इन्द्रः ॥
+
+> *śvaghnī 'iva | yaḥ | jigīvān | lakṣaṃ | ādat | aryaḥ | puṣṭāni | saḥ | janāsaḥ | indraḥ ‖*
+
+*(As printed; the Pada has no Ṛk number. The word printed "अकरित्यकः" is as the print has it; unzoomed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: by Indra the perishable worlds were made firm; he put the base servile class in the cave; he conquered the enemy and took his wealth as a hunter takes his prey.*
+
+> येनेन्द्रेणेमानि विश्वा च्यवना नश्वराणि भुवनानि कृतानि । स्थिरीकृतानि । यश्च दासं वर्णं शूद्रादिकं । यद्वा दासमुपक्षपयितारमधरं निकृष्टमसुरं गुहा गुहायां गूढस्थाने नरके वाकः । अकार्षीत् ॥ करोतेर्लुङि मन्त्रे घसेत्यादिना च्लेर्लुकि रूपं ॥ लक्षं लक्ष्यं जिगीवान् ॥ जि जये । क्वसौ सन् लिटोर्जेरित्यभ्यासादुत्तरस्य कुत्वं । दीर्घश्छान्दसः ॥ जितवान् योऽर्योऽरेः ॥ षष्ठ्यैकवचने छान्दसो यणादेशः ॥ शत्रोः सम्बन्धीनि पुष्टानि समृद्धान्यादत् आदत्ते । तत्र दृष्टान्तः । श्वघ्नीव । श्वभिर्मृगान् हन्तीति श्वघ्नी व्याधः । यथा व्याधो जिघृक्षंस्तं मृगं परिगृह्णाति तद्वत् ॥
+
+> *yenendreṇemāni viśvā cyavanā naśvarāṇi bhuvanāni kṛtāni | sthirīkṛtāni | yaśca dāsaṃ varṇaṃ śūdrādikaṃ | yadvā dāsamupakṣapayitāramadharaṃ nikṛṣṭamasuraṃ guhā guhāyāṃ gūḍhasthāne narake vākaḥ | akārṣīt ‖ karoterluṅi mantre ghasetyādinā clerluki rūpaṃ ‖ lakṣaṃ lakṣyaṃ jigīvān ‖ ji jaye | kvasau san liṭorjerityabhyāsāduttarasya kutvaṃ | dīrghaśchāndasaḥ ‖ jitavān yo 'ryo 'reḥ ‖ ṣaṣṭhyaikavacane chāndaso yaṇādeśaḥ ‖ śatroḥ sambandhīni puṣṭāni samṛddhānyādat ādatte | tatra dṛṣṭāntaḥ | śvaghnīva | śvabhirmṛgān hantīti śvaghnī vyādhaḥ | yathā vyādho jighṛkṣaṃstaṃ mṛgaṃ parigṛhṇāti tadvat ‖*
+
+*(Doubtful, unzoomed: the group "योऽर्योऽरेः" is read from a crowded line [?]. "वाकः" is as printed (it looks like *vā* + *akaḥ* by sandhi, mine). Grammatical tail, only characterized: for अकः (*akaḥ*) the aorist of the root कृ in the Veda with the dropping of the affix च्लि by the rule beginning "घस"; for जिगीवान् (*jigīvān*) the root जि "to conquer" with the affix क्वसु, the rule on the roots after a sana or liṭ giving the guttural sound ग in the reduplication-based form, and a Vedic lengthening; for अर्यः (*aryaḥ*) a Vedic change of the genitive singular अरेः to a semivowel form. No sūtra numbers printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. येन (*yena*)—by which Indra. च्यवना (*cyavanā*)—perishable. इमा विश्वा (*imā viśvā*)—all these worlds. कृतानि (*kṛtāni*)—were made (or were made firm). यः (*yaḥ*)—who. दासं (*dāsaṃ*)—the destroyer. वर्णं (*varṇaṃ*)—the Śūdra class and the like. अधरं (*adharaṃ*)—and the base asura. गुहा (*guhā*)—in a cave in the form of hell. अकः (*akaḥ*)—made to stay (and). लक्षं (*lakṣaṃ*)—the enemies aimed at. जिगीवान् (*jigīvān*)—conquered. यः (*yaḥ*)—who. अर्यः (*aryaḥ*)—of the enemy. पुष्टानि (*puṣṭāni*)—abundant riches. श्वघ्नीव (*śvaghnīva*)—as a hunter makes his prey his own. आदत् (*ādat*)—took into his own possession. सः (*saḥ*)—he alone. इन्द्रः (*indraḥ*)—Indra.
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he by whom these perishable worlds were made firm (or created); who made the destroyer and base asura stay in a cave in the form of hell; who conquered the enemy he had aimed at; and who, as a hunter makes his prey his own, took into his own possession the abundant riches of the enemy: he is Indra.
+
+---
+
+### Printed p. 656 (PDF 679)
+
+*(Header: "656", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12". The dispatcher's label "printed 657" is one too high. The numeral file's row for "PDF 679" (Nir. 5-22, line 33) does not occur on this page: it belongs to the next page.)*
+
+**English Translation** *(as printed)*
+
+He, by whom all these perishable (regions) have been made ; who consigned the base servile tribe to the cavern ; who seizes triumphant the cherished (treasures) of the enemy, as a hunter (strikes) his prey ; he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 4)*
+
+In this Ṛk too there is a description of four kinds of deeds of daring of Indra.
+
+येन इमा विश्वा च्यवना कृतानि (*yena imā viśvā cyavanā kṛtāni*)—These perishable worlds were made by Indra to be firm, that is, to be eternal. That is, since these worlds are perishable they did not exist before. Indra created them, or made them so that they should always be firm, that is, eternal: this is the chief sense.
+
+यः दासं वर्णं अधरं गुहा अकः (*yaḥ dāsaṃ varṇaṃ adharaṃ guhā akaḥ*)—
+
+> यश्च दासं वर्णं शूद्रादिकं यद्वा दासमुपक्षपयितारमधरं निकृष्टमसुरं गुहा गुहायां गूढस्थाने नरके वाकः अकार्षीत् ।
+
+> *yaśca dāsaṃ varṇaṃ śūdrādikaṃ yadvā dāsamupakṣapayitāramadharaṃ nikṛṣṭamasuraṃ guhā guhāyāṃ gūḍhasthāne narake vākaḥ akārṣīt |*
+
+Indra, the people of the Śūdra and other classes who serve the classes beginning with the Brāhmaṇa like slaves, or the extremely base Dasyu people who cause injury to the Āryas, in a cave, that is… *(the sentence is cut off at the foot of p. 656: "ಗುಹೆಯಲ್ಲಿ ಎಂದರೆ"; it continues on the next page)*
+
+---
+
+**Progress note:** Done through printed p. 656 (PDF 679). The dispatcher's labels "printed 655/656/657" for PDF 677/678/679 are one too high; the headers read 654, 655, 656 (offset −23), and I headed the pages accordingly. The numeral file is shifted by one page against the dispatcher's labels: its rows "PDF 676 (634-637; 2-21)" belonged to PDF 677 and agree with my readings (Latin "634–637"; Nir. 2-21 for aśmā); its "PDF 679" row (Nir. 5-22, line 33) belongs to the next page (PDF 680), not written yet. Sūkta 12: Ṛk 3 is finished (Viśeṣaviṣayagaḷu completed on p. 654 with the Vājasaneyi quotation, Vala reference and the aśman/lightning discussion; p. 655 note on saṃvṛk samatsu; no grammar page). Ṛk 4 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off in point 2 (yaḥ dāsaṃ varṇaṃ adharaṃ guhā akaḥ) at "… ಅತಿನಿಕೃಷ್ಟರಾದ ದಸ್ಯುಜನರನ್ನು ಗುಹೆಯಲ್ಲಿ ಎಂದರೆ" — to continue on printed p. 657 (PDF 680). Flags: no FILE DISAGREE. Unzoomed: varga numeral 7 and sūkta numeral 12 in headers, Ṛk number 4. [?] places: "अत्यन्त-/अत्यन्ते" in the aśman passage (p. 654), "योद्धॄणाम्" (p. 655), "योऽर्योऽरेः" (p. 656 bhāṣya), the Pada word "अकरित्यकः" as printed, "वाकः" as printed.
