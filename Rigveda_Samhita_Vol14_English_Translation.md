@@ -20807,4 +20807,120 @@ In this way, the meaning that Agni has birth in heaven, the atmosphere and the e
 
 ---
 
-**Progress note:** Done through printed p. 556 (PDF 578); offset printed = PDF − 22 holds. Sūkta 9: Ṛk 3's Viśeṣaviṣayagaḷu is finished (Bṛ. De. 1-65 to 67 with the Taittirīya and Nirukta notes, RV 10-88-10, 10-45-1 and 3-26-7, and the explanation of the lightning-fire and of the three births). Ṛk 4 begins with Saṃhitā, Pada and the start of the bhāṣya. **Ṛk 4 is open in the bhāṣya**: it breaks off after "क्षिप्रमभिगृणीहि ।" at the foot of printed p. 556; the next batch starts at the top of printed p. 557 (PDF 579). The printed English of Ṛk 3 was already given on p. 553. Flags: FILE DISAGREE none (the file's numerals 1-65 … 67, 2-2-4, 10-88-10, 7-14/7-25, 10-45-1, 12-18, 1-3-14-5, 3-26-7, 18-16 and the headers agree with my reading; none was zoomed; the file reads Ni. 14.2 with a dot, I read a hyphen). [?] places: ⟦अजीजनञ्छक्त्रभी⟧ and ⟦रोदसिप्राम्⟧ in the RV 10-88-10 quotation; the bhāṣya words ⟦वर्त्सो⟧, ⟦अब्रूपमातॄणामुदरे⟧ (completed from the Kannada gloss on the same page) and ⟦त्वष्टुस्त⟧; the Kannada word rendered "explained" (printed ವ್ತಿಸರಿಸಿದೆ, presumably ವಿಸ್ತರಿಸಿದೆ).
+### Printed p. 557 (PDF 579)
+
+*(Header: "A. 2 A. 6 V. 1", "Ṛgvedasaṃhitā", printed number **557**. The numeral file agrees with the numerals read from the strips.)*
+
+*(Continuation of the bhāṣya of Ṛk 4. Gist: tell the gods "this is sweeter, this is sweeter"; or, being swift, proclaim the food or wealth to be given; you are lord of the best wealth and the knower of our bright hymn.)*
+
+> देवानां पुरत इदं स्वादुतरमिदं स्वादुतरमिति ब्रूहि । यद्वा श्रुष्टी क्षिप्रकारी त्वं देष्णं देयं राधो धनमभिगृणीहि । अस्मदाभिमुख्येन ब्रूहि । प्रयच्छेत्यर्थः । दानसामर्थ्यं दर्शयेति । त्वं रयीणां धनानां मध्ये रयिपतिरुत्तमस्य धनस्य पतिरसि हि । यद्वा रयीणां रयिपतिरित्यत्रैको [?] रयिशब्दोऽनुवादः । त्वं शुक्रस्य दीप्तस्य वचसोऽस्मदीयस्य स्तोत्रस्य मनोता प्रज्ञाता भवसि । यद्वा मानयिता ॥
+
+*Pratipadārtha (Kannada, translated)*
+
+अग्ने (*agne*)—O Agni. यजीयान् (*yajīyān*)—you, the best performer of sacrifice. हविषा (*haviṣā*)—with the oblation (given by us). यजस्व (*yajasva*)—perform the sacrifice with the deities in view. देष्णं (*deṣṇaṃ*)—(to be offered to the deities). राधः (*rādhaḥ*)—food. श्रुष्टी (*śruṣṭī*)—quickly. अभि गृणीहि (*abhi gṛṇīhi*)—proclaim (before them). [Or: देष्णं (*deṣṇaṃ*)—to be given to us. राधः (*rādhaḥ*)—wealth. श्रुष्टी (*śruṣṭī*)—quickly. अभि गृणीहि (*abhi gṛṇīhi*)—make known to us.] त्वं (*tvaṃ*)—you. रयीणां (*rayīṇāṃ*)—among riches. रयिपतिः (*rayipatiḥ*)—as the supreme lord of wealth. असि हि (*asi hi*)—are you not? त्वं (*tvaṃ*)—you. शुक्रस्य (*śukrasya*)—of the shining. वचसः (*vacasaḥ*)—the greatness of our hymn. मनोता (*manotā*)—you are one who knows.
+
+*Bhāvārtha (Kannada, translated)*
+
+O Agni, you, the best performer of sacrifice, perform the sacrifice for the deities with the oblation given by us. Quickly proclaim before them the food that is to be offered to the deities. And make known to us the wealth that is to be given to us. You, being the supreme lord of wealth, are also one who knows the greatness of our shining hymn.
+
+*English Translation (as printed)*
+
+Agni, you are the chief of sacrificers ; worship (the gods) with the oblation, and earnestly commend to them the (sacrificial) food that is to be given (them) ; for you, indeed, are the sovereign lord of riches ; you are the appreciator of our pious prayer.
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+राधः (*rādhaḥ*)—Because the word राधः (*rādhaḥ*) is read among the twenty-eight names of wealth beginning with मघं रेक्णः (*maghaṃ rekṇaḥ*) (Ni. 3-9), राधः (*rādhaḥ*) means wealth. In this Ṛk Sāyaṇa has given the word राधः (*rādhaḥ*) two kinds of meaning, food and wealth.
+
+श्रुष्टी (*śruṣṭī*)—quickly. Yāska has the explanation श्रुष्टीति क्षिप्रनाम (*śruṣṭīti kṣipranāma*) (Ni. 6-13).
+
+---
+
+### Printed p. 558 (PDF 580)
+
+*(Header: **558**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The numeral file has no rows for this page.)*
+
+*(Special Topics of Ṛk 4, continued, translated.)* रयीणां रयिपतिः (*rayīṇāṃ rayipatiḥ*)—the meaning is "lord of wealth". Here the word रयिपतिः (*rayipatiḥ*) itself has the meaning "lord of wealth", and the word रयीणां (*rayīṇāṃ*) is a mere repetition (dvirukti). Yet such repetitive usages are met with here and there in the Ṛgveda: गणानां त्वा गणपतिं (*gaṇānāṃ tvā gaṇapatiṃ*); वसोरिन्द्रं वसुपतिं (*vasorindraṃ vasupatiṃ*), and so on.
+
+---
+
+**Ṛk 5**
+
+*Saṃhitā-pāṭha*
+
+> उभयं ते न क्षीयते वसव्यं दिवेदिवे जायमानस्य दस्म ।
+> कृधि क्षुमन्तं जरितारमग्ने कृधि पतिं स्वपत्यस्य रायः ॥ ५ ॥
+
+> *ubhayaṃ te na kṣīyate vasavyaṃ divedive jāyamānasya dasma |*
+> *kṛdhi kṣumantaṃ jaritāramagne kṛdhi patiṃ svapatyasya rāyaḥ ‖ 5 ‖*
+
+*(The Ṛk number is read as 5, in sequence.)*
+
+*Pada-pāṭha*
+
+> उभयं । ते । न । क्षीयते । वसव्यं । दिवेऽदिवे । जायमानस्य । दस्म ।
+> कृधि । क्षुऽमन्तं । जरितारं । अग्ने । कृधि । पतिं । सुऽअपत्यस्य । रायः ॥ ५ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: O Agni, both the heavenly and the earthly wealth of you, born daily, never fail; therefore make the praiser rich in food and lord of wealth with good offspring.)*
+
+> दस्म दर्शनीय हे अग्ने दिवेदिवे प्रतिदिनमग्निहोत्रकाले जायमानस्य ते तवोभयं वसव्यं दिव्यं भौमं च वसु ॥ वस्वादित्वात्स्वार्थिको यत्प्रत्ययः । पा. ५. ४. ३०. ४ [?] ॥ ताद्दृशमुभयं वसु न क्षीयते । न हीयते । अस्योभयविधधनसद्भावे मंत्रवर्णः त्वं ह्यग्ने दिव्यस्य राजसि त्वं पार्थिवस्येत्यत्रोक्तः । अतस्त्वं जरितारं तव स्तोत्रं कुर्वाणमिमं यजमानं क्षुमन्तमन्नवन्तं कीर्तिमन्तं वा कृधि । कुरु । किंच स्वपत्यस्य शोभनापत्ययुक्तस्य रायो धनस्य पतिं स्वामिनं कुरु ॥
+
+> *dasma darśanīya he agne divedive pratidinamagnihotrakāle jāyamānasya te tavobhayaṃ vasavyaṃ divyaṃ bhaumaṃ ca vasu ‖ vasvāditvātsvārthiko yatpratyayaḥ | pā. 5. 4. 30. 4 [?] ‖ tāddṛśamubhayaṃ vasu na kṣīyate | na hīyate | asyobhayavidhadhanasadbhāve maṃtravarṇaḥ tvaṃ hyagne divyasya rājasi tvaṃ pārthivasyetyatroktaḥ | atastvaṃ jaritāraṃ tava stotraṃ kurvāṇamimaṃ yajamānaṃ kṣumantamannavantaṃ kīrtimantaṃ vā kṛdhi | kuru | kiṃca svapatyasya śobhanāpatyayuktasya rāyo dhanasya patiṃ svāminaṃ kuru ‖*
+
+*(Grammar reference in the bhāṣya: "Pā. 5. 4. 30. 4 [?]" as I read it; the numerals are small and were not zoomed.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+दस्म (*dasma*)—O one of beautiful form. अग्ने (*agne*)—O Agni. दिवेदिवे (*divedive*)—every day. जायमानस्य (*jāyamānasya*)—of one who is born. ते (*te*)—your. उभयं वसव्यं (*ubhayaṃ vasavyaṃ*)—the two dwelling-places in the form of heaven and earth, together. न क्षीयते (*na kṣīyate*)—are free from destruction. जरितारं (*jaritāraṃ*)—the sacrificer who praises you. क्षुमन्तं (*kṣumantaṃ*)—as one possessed of food. कृधि (*kṛdhi*)—make. स्वपत्यस्य (*svapatyasya*)—together with excellent offspring. रायः (*rāyaḥ*)—of wealth. पतिं कृधि (*patiṃ kṛdhi*)—make also the master.
+
+*Bhāvārtha (Kannada, translated)*
+
+O Agni of beautiful form, your two dwelling-places in the form of heaven and earth, you who are born every day, are together free from destruction. Make the sacrificer who praises you rich in food. Make him also the master of wealth together with excellent offspring.
+
+---
+
+### Printed p. 559 (PDF 581)
+
+*(Header: "A. 2 A. 6 V. 1", "Ṛgvedasaṃhitā", printed number **559**. The numeral file agrees with the numerals read from the strips.)*
+
+*English Translation (as printed)*
+
+Beautiful Agni, the two dwelling-places (heaven and earth) of you, who are born day by day, never perish ; confer upon him who praises you (abundant) food, and make him the master of riches, (supporting) virtuous offspring.
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+दिवेदिवे जायमानस्य (*divedive jāyamānasya*)—प्रतिदिनमग्निहोत्रकाले जायमानस्य (*pratidinamagnihotrakāle jāyamānasya*). People kindle and worship Agni every day, at the time of the agnihotra and at other times; therefore it is said that he is born every day. In the same way there are many descriptions saying that the goddess Uṣas and Sūrya are born every day.
+
+जरितारं (*jaritāraṃ*)—तव स्तोत्रं कुर्वाणमिमं यजमानं (*tava stotraṃ kurvāṇamimaṃ yajamānaṃ*): this sacrificer who is praising you; that is the meaning. The word जरितृ (*jaritṛ*) is read among the names of praisers (Ni. 3-19).
+
+उभयं वसव्यं (*ubhayaṃ vasavyaṃ*)—the dwelling-place in heaven and earth. Two kinds of dwelling-places are stated here: in heaven, among the gods; on earth, in the sacrificial house of the sacrificers who perform sacrifice.
+
+क्षुमन्तं (*kṣumantaṃ*)—as one possessed of food. The word क्षु (*kṣu*) is read among the names of food (Ni. 3-9). क्षुमन्तं (*kṣumantaṃ*) means "one who has food".
+
+---
+
+**Ṛk 6**
+
+*Saṃhitā-pāṭha*
+
+> सैनानीकेन सुविदत्रो अस्मे यष्टा देवाँ आयजिष्ठः स्वस्ति ।
+> अदब्धो गोपा उत नः परस्पा अग्ने द्युमदुत रेवद्दिदीहि ॥ ६ ॥
+
+*Pada-pāṭha*
+
+*(In the first Pada line the printed ऽ-mark joins the parts of compounds; in the second line the word after "परःऽपाः" is read अग्ने, though it looks like आग्ने in print: see doubts.)*
+
+> सः । एना । अनीकेन । सुऽविदत्रः । अस्मे इति । यष्टा । देवान् । आऽयजिष्ठः । स्वस्ति ।
+> अदब्धः । गोपाः । उत । नः । परःऽपाः । अग्ने । द्युऽमत् । उत । रेवत् । दिदीहि ॥ ६ ॥
+
+> *saḥ | enā | anīkena | su 'vidatraḥ | asme iti | yaṣṭā | devān | ā 'yajiṣṭhaḥ | svasti |*
+> *adabdhaḥ | gopāḥ | uta | naḥ | paraḥ 'pāḥ | agne | dyu 'mat | uta | revat | didīhi ‖ 6 ‖*
+
+*(Ṛk 6: Saṃhitā and Pada are written; the Sāyaṇa-bhāṣya begins on printed p. 560.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 559 (PDF 581); offset printed = PDF − 22 holds. Sūkta 9: Ṛk 4 is finished (bhāṣya end, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on rādhaḥ, śruṣṭī and the rayīṇāṃ rayipatiḥ repetition). Ṛk 5 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on dive-dive jāyamānasya, jaritāram, ubhayaṃ vasavyam and kṣumantam). Ṛk 6 has Saṃhitā and Pada only; **Ṛk 6 is open**: its bhāṣya starts on printed p. 560 (PDF 582). Flags: FILE DISAGREE none (Ni. 3-9, 6-13, 3-19 and 3-9 agree with my reading; none was zoomed; page 580 has no file rows, so the Pāṇini reference there is mine). [?] places: bhāṣya ⟦अत्रैको⟧ (p. 557) and the Pāṇini reference "5. 4. 30. 4 [?]" (p. 558); Ṛk 6 Pada ⟦अग्ने⟧ (printed like ⟦आग्ने⟧); ⟦देवाँ⟧ with a candrabindu-like mark in the Ṛk 6 Saṃhitā; the Ṛk number 5 on p. 558 read as in sequence.
