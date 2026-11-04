@@ -30,3 +30,6 @@ Per-page offsets from exact matches (`numeral_pageset.py --local`): file = PDF+1
 
 ## User-confirmed (Nov 4 2026)
 `5-3-3` → **`5-2-2`** (Aitareya Āraṇyaka ref., printed p. 2, md line 161): confirmed by the user; applied. Context check with the file's column E (Kannada context transliterated, score ≥ 80, distance ≤ 2, same digit shape): only 4 candidates pass (3-8→5-1, 8-2→7-7, 4-117→4-557, 4-137→9-139); they look doubtful and were NOT applied (the Kannada context OCR is too noisy to discriminate).
+
+## English renderings swept (user question, Nov 4 2026)
+The scripts had changed the Devanagari lines, their IAST twins and the English notes that contain Devanagari, but not English-only lines (translations of the bhāṣya, Kannada-prose notes), which repeat the same references. Swept: on each page, every English-only occurrence of an old numeral + `[?]` now takes the value the Devanagari got (174 occurrences: 125 only lost `[?]`, 49 changed value; list of the 49 in `english_sweep.applied.tsv`). Same-page, same-digits assumption; none was ambiguous.
