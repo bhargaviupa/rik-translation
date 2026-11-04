@@ -36,3 +36,6 @@ Read this before any numeral pass on a new volume. Scripts are in this folder; p
 
 ## Re-run after all Vol 7 edits (rank score added)
 On the corrected md: SAME 1,412, SAME-but-[?] 7, DIFFERENT 173 (22 with context ≥ 0.8), NOT FOUND 390 (was 452). Report: `vol7/numerals/Vol7_file_vs_md_rank.xlsx`. Remaining DIFFERENT rows are mostly one-digit or truncation differences (5-2-51/5-2-5, 1-113-3/1-113-11) or alignment ties — review before applying.
+
+## md-side pass (user, Nov 4 2026, Vol 8): "go line by line in the md and check every numeral irrespective of ?"
+`numeral_align_all.py` writes a second sheet **"md numerals vs file"**: every md numeral (deduped) in reading order with the file row aligned to it (SAME / SAME-but-[?] / DIFFERENT / NOT IN FILE), scores, and for unaligned ones the three closest unmatched file rows on that page. Comma lists of references ("3-54-20, 5-69-3, 6-51-5") are split into one numeral per segment (a single token would never match). Vol 8 result: 4,796 md numerals → 2,177 SAME, 920 DIFFERENT, 1,699 no aligned file row (105 of them still `[?]`); Vol 7: 1,377 SAME, 144 DIFFERENT, 1,510 no row. Numerals with no aligned row are mostly references the file does not list (plain numbers, Kannada-prose numerals) or have digits so far from the file that nothing aligned — the "closest unmatched" column is the lead for those.

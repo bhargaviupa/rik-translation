@@ -43,10 +43,19 @@ for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
     m = re.match(r"#+\s*Page\s+(\w+)\s*\(PDF\s*(\d+)", l)
     if m: printed, cur = m.group(1), int(m.group(2))
     if cur is None or l.startswith("|") or l.startswith("#"): continue
+    segs = []
     for m in REF.finditer(l):
-        ps = parts(m.group(1))
+        full = m.group(1)
+        if re.search(r",\s", full):   # comma list of references ('3-54-20, 5-69-3'): one token per segment with >= 2 parts
+            off = 0
+            for seg in re.split(r",\s+", full):
+                if len(parts(seg)) >= 2: segs.append((m.start() + full.index(seg, off), seg, m.group(2) if seg is full.split(",")[-1] else None, m))
+                off += len(seg)
+        else: segs.append((m.start(), full, m.group(2), m))
+    for st, tokt, qq, m in segs:
+        ps = parts(tokt)
         if len(ps) < 2: continue
-        pre = l[max(0, m.start() - 110): m.start()]; post = l[m.end(): m.end() + 40]
+        pre = l[max(0, st - 110): st]; post = l[st + len(tokt): st + len(tokt) + 40]
         try: lat = fold(deva_to_iast(pre + " " + post))
         except Exception: lat = fold(pre + post)
         v = "-".join(ps)
@@ -54,7 +63,7 @@ for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
         if dup:   # same reference repeated on the IAST twin / English rendering: count once
             dup["last"] = n; dup["q"] = dup["q"] or bool(m.group(2)); dup["occ"] += 1; continue
         seq += 1
-        mrows[cur].append(dict(last=n, occ=1, seq=seq, line=n, printed=printed, val="-".join(ps), q=bool(m.group(2)), tok=m.group(0).strip(), f=lat))
+        mrows[cur].append(dict(last=n, occ=1, seq=seq, line=n, printed=printed, val="-".join(ps), q=bool(qq), tok=tokt.strip() + (" [?]" if qq else ""), f=lat))
 def score(f, m):
     d = digsim(f["val"], m["val"])
     c = fuzz.partial_ratio(f["f"][-60:], m["f"]) / 100 if f["f"] and m["f"] else 0
