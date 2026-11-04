@@ -74,6 +74,13 @@ def apply_text(text,state=None,verbose=False):
                 for q in range(max(0,ptr-1),min(len(RIK),ptr+10)):
                     r=difflib.SequenceMatcher(None,sk,cr[q],autojunk=False).ratio()
                     if best is None or r>best[0]: best=(r,q)
+                if best is None or best[0]<0.85:       # window missed: search the whole reference (pointer had fallen behind)
+                    gb=None
+                    for q in range(len(RIK)):
+                        if abs(len(cr[q])-len(sk))>0.4*max(len(sk),1): continue
+                        r=difflib.SequenceMatcher(None,sk,cr[q],autojunk=False).ratio()
+                        if gb is None or r>gb[0]: gb=(r,q)
+                    if gb and gb[0]>=0.9: best=gb
                 if best is None or best[0]<0.85: rep.append(('NOMATCH',round(best[0],2) if best else 0,ours[:40])); continue
                 r,q=best; rid='%d.%d'%RIK[q][0]
                 new=transfer(ours,RIK[q][1])
