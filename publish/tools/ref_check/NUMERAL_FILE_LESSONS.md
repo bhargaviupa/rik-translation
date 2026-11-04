@@ -6,6 +6,16 @@ Read this before any numeral pass on a new volume. Scripts are in this folder; p
 - Columns: Page | Line | Kannada digits | English digits | Raw line context (noisy Kannada OCR, "column E"). It lists **only references with separators** (4-5-2, 4.5.6); plain numbers (124, 34) are never in it. **Ask which file version is current and what the page offset is (Vol 7 newest file: file page = PDF page).** Keep every version in `volN/numerals/`.
 - **The user treats the file as always correct** and said every row flagged DIFFERENT had the right value. It is still machine OCR: it sometimes loses/shifts separators (`7-4-79` → `7-479`, `79-4` for 7-9-4 — the user confirmed such values are right), reads digits as 0 (`2-00`, `0-08`) or merges rows. Never "fix" the file from memory; ask the user when a pairing looks like two different references.
 
+## Core rule (user, Nov 4 2026): match EVERY numeral, with context and approximate line position — never only the `[?]` ones
+- **Scope = all md numerals**, flagged or not. Unflagged numerals carry errors too (Vol 7: 495 DIFFERENT rows, most never marked `[?]`). Going only through `[?]` numerals misses them, and a `[?]` on a value that already equals the file stays forever.
+- **Direction = go through the file line by line** (each row has page and line number) and find the md numeral it corresponds to, instead of starting from the md.
+- **Every pairing must use three signals together, not digits alone:**
+  1. **Context** — column E (Kannada, transliterated and folded) against the md text just before/after the numeral (Devanagari→IAST folded, English words). Also the reference-type hint (ನಿ. = Ni., ಪಾ. = Pā., ಋ./ಖು. = Ṛ., ಕಾ. = Kā.…). Context scores are noisy (0.3–1.0); use as a tie-breaker and as the sorting key for review (≥ 0.8 is almost always the right pairing).
+  2. **Approximate line position** — the file's line number is not the md line, but the **order** is preserved: on a page, file rows sorted by line and md numerals in reading order must align monotonically (rows may be skipped, never reordered). Use the line number's rank on the page as a position estimate (rank/total on the file side vs rank/total of md numerals), and let the alignment (dynamic programming) enforce the order.
+  3. **Digits** — edit-distance similarity, with a penalty for a different part count; never let digits alone decide when two candidates remain.
+- Statuses to report for every file row: SAME / SAME-but-md-has-[?] / DIFFERENT / NOT FOUND, each with page, file line, md line, scores. Nothing is changed in this step.
+- The page-pool "nearest unused entry" method (`numeral_nearest.py`, `numeral_pageset.py`) ignores order and context; it is a fallback for doubtful numerals only, never the first pass.
+
 ## Mistakes to avoid (all happened in Vol 7)
 1. **Only scanning Devanagari lines.** The md carries one reference on several lines: the Devanagari line, its italic IAST twin, English renderings. A citation can live **only on an italic `*…*` line** (Vol 7 p. v: Ṛ. Saṃ. 10-130-4) or on a plain English line (p. ii: "pages 221–231"). Scan **every non-table, non-heading line**, then **dedupe**: the same value within ~8 lines counts once.
 2. **Page headings.** Front-matter headings are roman ("### Page ii (PDF 8)"); a regex `Page\s+(\d+)` silently skips them. Use `(\w+)`.
