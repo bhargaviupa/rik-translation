@@ -21664,4 +21664,123 @@ Chandas: Ṛks 1–20 Virāṭsthānā Triṣṭubh; Ṛk 21 Triṣṭubh
 
 ---
 
-**Progress note:** Done through printed p. 577 (PDF 599); offset printed = PDF − 22 holds. Sūkta 10 ended on p. 575 with the end of the Manu passage (Special Topics of Ṛk 6); no Ṛk 7 on that page, so Sūkta 10 has closed (its Ṛk count was not rechecked here). Sūkta 11 begins on p. 576 (bhāṣya introduction and anuvāda) and p. 577 (heading block); Ṛk 1 is written through the Pratipadārtha word ⟦दावने⟧, which is OPEN: the Pratipadārtha continues on p. 578, followed by Bhāvārtha and printed English. Flags: FILE DISAGREE none; the numeral file merged the Taittirīya Saṃhitā references on p. 575 (split by the printed hyphens), the bhāṣya reference Ā. 7-11 on p. 576 is garbled in the file (read from the strip); unzoomed numerals: all page headers (p. 576 running head still reads Sū. 10), Aṣṭaka/Adhyāya/Varga numbers on p. 577. [?] places: p. 575 Taittirīya reference 7-5-15-3; p. 576 Ā. 7-11; p. 577 Pada ⟦वसुऽयवः⟧ and bhāṣya ⟦इदमुल्पं⟧.
+*(Continuation of the Pratipadārtha of Ṛk 1 from p. 577.)*
+
+---
+
+### Printed p. 578 (PDF 600)
+
+*(Header: "578", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The numeral file has one row, Nirukta 3-9, which agrees with my reading; unzoomed.)*
+
+*Pratipadārtha of Ṛk 1 (continued; translated)*
+
+दावने (*dāvane*) (continued)—for the gift. स्याम (*syāma*)—may we become worthy recipients. इमाः (*imāḥ*)—these (foods) given by us, वसूयवः (*vasūyavaḥ*)—desiring wealth for the sacrificer, सिन्धवः न (*sindhavaḥ na*)—like rivers, क्षरन्तः (*kṣarantaḥ*)—flowing; ऊर्जः (*ūrjaḥ*)—foods in the form of ājya and the like; त्वां (*tvāṃ*)—you; वर्धयन्ति हि (*vardhayanti hi*)—do they not make you grow strong.
+
+*Bhāvārtha of Ṛk 1 (translated)*
+
+O Indra, hear this hymn of praise made by me. Do not reject it. May we become worthy recipients of the gift of your wealth. The foods in the form of ājya and the like, given by us, desiring wealth for the sacrificer, and flowing like rivers, make you grow strong.
+
+*English Translation (as printed)*
+
+Indra, hear (my) invocation ; disregard it not: may we be (thought worthy) of the gift of your treasures: these oblations, designed to obtain wealth, flowing (abundantly) like rivers, bring to you augmented vigour.
+
+*Viśeṣaviṣayagaḷu of Ṛk 1 (translated)*
+
+Gṛtsamada, the seer of the maṇḍala, has so far praised Agni; from here onward he praises Indra with twelve sūktas.
+
+श्रुधी हवमिन्द्र मारिषण्यः (*śrudhī havamindra māriṣaṇyaḥ*)—O Indra, hear our invocation and also the hymns we make. The prayer is stated: "do not harm us on the ground that the hymn we make is small."
+
+इमा ऊर्जः (*imā ūrjaḥ*)—The word ऊर्क् (*ūrk*) is read among the names of food (Ni. 3-9). Here it may be said to mean food in the form of an oblation, or food in the form of ājya. In general the word ऊर्क् (*ūrk*) is used especially when food (nourishment) in liquid form, such as ājya, milk and soma, is indicated.
+
+सिन्धवो न क्षरन्तः (*sindhavo na kṣarantaḥ*)—like flowing rivers. The word न (*na*) is used here in the sense of comparison. In giving food the simile of the flowing river there are two kinds of purpose. Here the food in liquid form, beginning with ājya, may be what is indicated; so it is said that, as water flows in a river, substances such as ājya may make Indra grow. Or: since the water in a flowing river is in great quantity, the sense also appears that the ājya and other substances we offer to Indra are very abundant.
+
+---
+
+**Ṛk 2**
+
+*Saṃhitā-pāṭha*
+
+### Printed p. 579 (PDF 601)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **579**; unzoomed. The numeral file has no row for this page.)*
+
+> सृजो महीरिन्द्र या अपिन्वः परिष्ठिता अहिना शूर पूर्वीः ।
+> अमर्त्यं चिद्दासं मन्यमानमवाभिनदुक्थैर्वावृधानः ॥ २ ॥
+
+*Pada-pāṭha*
+
+> सृजः । महीः । इन्द्र । याः । अपिन्वः । परिऽस्थिताः । अहिना । शूर । पूर्वीः ।
+> अमर्त्यं । चित् । दासं । मन्यमानं । अव । अभिनत् । उक्थैः । ववृधानः [?] ॥ २ ॥
+
+> *sṛjaḥ | mahīḥ | indra | yāḥ | apinvaḥ | pari 'sthitāḥ | ahinā | śūra | pūrvīḥ |*
+> *amartyaṃ | cit | dāsaṃ | manyamānaṃ | ava | abhinat | ukthaiḥ | vavṛdhānaḥ [?] ‖ 2 ‖*
+
+*(In the Pada the last word is printed with a short first syllable, like ववृधानः, whereas the Saṃhitā, the bhāṣya and the Pratipadārtha have वावृधानः; marked [?].)*
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: Indra released the abundant great waters seized by Ahi (cloud or Vṛtra), and, strengthened by hymns, hurled the self-styled immortal Dāsa down headlong. The tail glosses the root भिदिर् (*bhidir*) (to split) and the verb-form अभिनत् (*abhinat*); the sign after लङ् (*laṅ*) is uncertain.)*
+
+> शूर शत्रूणां हिंसक हे इन्द्र या अपोऽपिन्वः । अवर्धयः । पूर्वीः प्रभूतास्ता अहिना मेघेन वृत्रेण वा परिष्ठिताः । अधिष्ठिता आक्रान्ताः । ततस्त्वं तस्मादहेः सकाशात् महीर्महतीरपः सृजः । व्यसृजः । उक्थैः शस्त्रैर्वावृधानो वर्धमानस्त्वं दासं सर्वस्योपक्षपयितारममर्त्यं चित् मरणधर्मरहितमेवात्मानं मन्यमानं तमसुरमवाभिनत् । अवाङ्मुखं यथा भवति तथा ॥ भिदिर् विदारणे । लङ् [?] सिपि रूपं ॥
+
+> *śūra śatrūṇāṃ hiṃsaka he indra yā apo 'pinvaḥ | avardhayaḥ | pūrvīḥ prabhūtāstā ahinā meghena vṛtreṇa vā pariṣṭhitāḥ | adhiṣṭhitā ākrāntāḥ | tatastvaṃ tasmādaheḥ sakāśāt mahīrmahatīrapaḥ sṛjaḥ | vyasṛjaḥ | ukthaiḥ śastrairvāvṛdhāno vardhamānastvaṃ dāsaṃ sarvasyopakṣapayitāramamartyaṃ cit maraṇadharmarahitamevātmānaṃ manyamānaṃ tamasuramavābhinat | avāṅmukhaṃ yathā bhavati tathā ‖ bhidir vidāraṇe | laṅ [?] sipi rūpaṃ ‖*
+
+*(Printed लज् (*laj*) or लङ् (*laṅ*) — the letter after ल looks like ज; marked [?]. No sūtra numbers in the tail.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+शूर (*śūra*)—O Indra, the slayer of enemies. इन्द्र (*indra*)—O Indra. याः (*yāḥ*)—which waters. अपिन्वः (*apinvaḥ*)—such as you made to increase. पूर्वीः (*pūrvīḥ*)—abundant waters. अहिना (*ahinā*)—by the cloud, or by the asura Vṛtra. परिष्ठिताः (*pariṣṭhitāḥ*)—were seized (afterwards, as printed in brackets). महीः (*mahīḥ*)—of great magnitude, those waters. सृजः (*sṛjaḥ*)—you released so that they flow. उक्थैः (*ukthaiḥ*)—by the śastra-mantras. वावृधानः (*vāvṛdhānaḥ*)—you who have grown strong. दासं (*dāsaṃ*)—the one who harms everyone. अमर्त्यं चित् (*amartyaṃ cit*)—himself free of death, thus. मन्यमानं (*manyamānaṃ*)—the asura who so thought. अव अभिनत् (*ava abhinat*)—you split (him) so that he fell downward.
+
+*Bhāvārtha (translated)*
+
+O Indra, slayer of enemies, the abundant waters that you made to increase had first been seized by the asura Vṛtra. Afterwards you released those great waters so that they flowed. You, grown strong by the śastra-mantras, split down headlong the asura who harms everyone and who thought himself free of death.
+
+### Printed p. 580 (PDF 602)
+
+*(Header: "580", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The numeral file has six rows (Ni. 2-21, Ni. 2-24, Ṛ. 1-32-11, Ni. 2-17, Ṛ. 5-34-6, Ṛ. 6-22-10); all agree with my reading; unzoomed.)*
+
+*English Translation (as printed)*
+
+Indra, hero, you have set free the copious (waters) which were formerly arrested by Ahi, and which you have distributed : invigorated by hymns, you have cast down headlong the slave, conceiting himself immortal .
+
+*Viśeṣaviṣayagaḷu of Ṛk 2 (translated)*
+
+In this Ṛk the slaying of the asura Vṛtra is stated. The intention stated here is that Indra killed Vṛtra and caused the waters held back by him, in the form of cloud, to fall downward as rain. This matter is explained at length in Ṛ. Saṃ. 1-32 (Ṛ. Saṃ. part 3, page 588).
+
+अहिना—मेघेन (*ahinā—meghena*)—by the cloud. Among the thirty cloud-names beginning with अद्रिः (*adriḥ*) and ग्रावा (*grāvā*) the word अहिः (*ahiḥ*) is read (Ni. 2-21). अहि (*ahi*) also means water (Ni. 2-24). In modern Sanskrit अहि (*ahi*) means a serpent.
+
+दासं—सर्वस्योपक्षपयितारं (*dāsaṃ—sarvasyopakṣapayitāraṃ*)—one who torments everyone; that is, an enemy (printed ಸೃತ್ರನು, probably for ಶತ್ರುವನು [?]). Explaining the meaning of the word दास (*dāsa*), Yāska says—
+
+> दासपत्नीरहिगोपा अतिष्ठन्निरुद्धा आपः पणिनेव गावः ।
+> अपां [?] बिलमपिहितं यदासीद्वृत्रं जघन्वां अप तद्ववार ॥
+
+> *dāsapatnīrahigopā atiṣṭhanniruddhā āpaḥ paṇineva gāvaḥ |*
+> *apāṃ [?] bilamapihitaṃ yadāsīdvṛtraṃ jaghanvāṃ apa tadvavāra ‖*
+
+*(The first word of the second line is printed like ಅಸಾಂ; I give अपां (*apāṃ*) with [?]. A dot stands above the last letter of जघन्वां (*jaghanvāṃ*) as printed.)*
+
+(Ṛ. Saṃ. 1-32-11)
+
+While explaining the nirvacana of this Ṛk, he says—**दासपत्नीर्दासाधिपत्न्यः । दासो दस्यतेरुपदासयति कर्माणि (*dāsapatnīrdāsādhipatnyaḥ | dāso dasyaterupadāsayati karmāṇi*)** (Ni. 2-17). That is, दास (*dāsa*) means कर्मकरः (*karmakaraḥ*), one who does work. The derivation of the word is that one who does work such as agriculture should be called दास (*dāsa*).
+
+The words दास (*dāsa*) and दस्यु (*dasyu*) are used in many places in the Ṛgveda in the sense of the earlier inhabitants of this country, enemies of the Āryas.
+
+> इन्द्रो विश्वस्य दमिता विभीषणो यथावशं नयति दासमार्यः ।
+
+> *indro viśvasya damitā vibhīṣaṇo yathāvaśaṃ nayati dāsamāryaḥ |*
+
+(Ṛ. Saṃ. 5-34-6)
+
+> यथा दासान्यार्याणि वृत्रा करो वज्रिन् सुतुका नाहुषाणि ।
+
+> *yathā dāsānyāryāṇi vṛtrā karo vajrin sutukā nāhuṣāṇi |*
+
+(Ṛ. Saṃ. 6-22-10)
+
+*(The Special Topics of Ṛk 2 continue on p. 581.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 580 (PDF 602). Sūkta 11: Ṛk 1 complete (Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 2 written through the Special Topics as far as the quotation Ṛ. 6-22-10 at the foot of p. 580; the Special Topics of Ṛk 2 are OPEN and continue on p. 581. Flags: FILE DISAGREE none (all numeral-file rows agree); unzoomed numerals: running headers (A. 2 A. 6 V. 3 on p. 579; Sū. 11 on pp. 578 and 580), Ṛ. 1-32 and page 588 in the Special Topics, Ni. 2-17/2-21/2-24. [?] places: p. 579 Pada ⟦ववृधानः⟧ (short first syllable as printed, against वावृधानः elsewhere); p. 579 bhāṣya tail ⟦लङ्⟧ (printed like लज्); p. 580 ⟦अपां⟧ in Ṛ. 1-32-11 (printed like ಅಸಾಂ) and ⟦ಸೃತ್ರನು⟧ (enemy).
