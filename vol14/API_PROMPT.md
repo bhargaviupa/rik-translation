@@ -8,6 +8,8 @@ You cannot zoom or call tools. Any word or numeral you cannot read confidently: 
 
 Rules: Devanagari + English only for Sanskrit; mark ALL inline Sanskrit with ⟦…⟧ (the IAST layer is added by script; never type IAST). Bhāṣya in Devanagari with a ≤25-word gist (put the gist line before the Devanagari block or after it only if no IAST line is expected — safest: gist line BEFORE the block). Printed English reproduced as printed ([sic] for misprints). Write quoted English passages as plain paragraphs, not blockquotes. Mark each page `### Printed p. N (PDF M)`. Continue exactly where the previous note says (an open Ṛk continues; do not repeat text already written). If a Ṛk continues past your last page, leave it open.
 
+PER-Ṛk LAYOUT (use exactly these label lines, each on its own line, in this order): `#### Ṛk N`, `**॥ संहितापाठः ॥**` + blockquote, `**॥ पदपाठः ॥**` + blockquote, `**॥ सायणभाष्यम् ॥**` (gist line before its block), `**प्रतिपदार्थ (Pratipadārtha)**`, `**भावार्थ (Bhāvārtha)**`, `**English Translation** *(as printed)*`, `**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**`, then the grammar note if printed. Do not use other label styles.
+
 OUTPUT FORMAT (exactly these three delimiter lines, nothing before the first):
 =====CHUNK=====
 (the markdown to append)

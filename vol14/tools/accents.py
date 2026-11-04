@@ -46,7 +46,7 @@ def transfer(ours,ref):
             if a and i1>0: ins[i1-1]+=a
     res=''.join(c+ins[k] for k,c in enumerate(ob))
     # accents after visarga/anusvāra (project rule): move a mark that follows a vowel sign before ः / ं to after it
-    res=re.sub('(['+AC+'])([ःं])',r'\2\1',res)
+    res=re.sub('(?<![१३])(['+AC+'])([ःं])',r'\2\1',res)
     return res
 RIK=None
 def flat():
@@ -64,7 +64,7 @@ def apply_text(text,state=None,verbose=False):
     while i<len(L):
         if '॥ संहितापाठः ॥' in L[i]:
             j=i+1
-            while j<len(L) and (not L[j].strip() or (L[j].startswith('*') and not L[j].startswith('> '))): j+=1
+            while j<len(L) and (not L[j].strip() or L[j].startswith('#') or L[j].strip()=='---' or (L[j].startswith('*') and not L[j].startswith('> '))): j+=1
             k=j
             while k<len(L) and L[k].startswith('> ') and not L[k].startswith('> *'): k+=1
             for m in range(j,k):

@@ -22,6 +22,10 @@ def main():
     ap.add_argument('--budget',type=float,default=90); ap.add_argument('--dry',action='store_true'); ap.add_argument('--no-commit',action='store_true')
     ap.add_argument('--loops',type=int,default=1); ap.add_argument('--price-in',type=float,default=PRICE['inp']); ap.add_argument('--price-out',type=float,default=PRICE['out'])
     ap.add_argument('--max-tokens',type=int,default=30000); a=ap.parse_args()
+    want=open(os.path.join(V,'BRANCH_FOR_RUNS')).read().split()[0] if os.path.exists(os.path.join(V,'BRANCH_FOR_RUNS')) else None
+    cur=sh('git rev-parse --abbrev-ref HEAD').stdout.strip()
+    if want and cur!=want and not os.environ.get('ALLOW_OTHER_BRANCH'):
+        print(f'STOP: you are on branch {cur!r}, but Vol 14 runs belong on {want!r}. Run: git checkout {want}'); return 7
     import anthropic
     cl=anthropic.Anthropic(api_key=os.environ['RIK_API_KEY'])
     sysprompt=''.join(open(os.path.join(ROOT,f)).read()+'\n\n=========\n\n' for f in ['CLAUDE.md','vol14/vol14_runbook.md'])+open(os.path.join(V,'API_PROMPT.md')).read()
@@ -62,7 +66,8 @@ def main():
         sh(f'python3 publish/tools/translit/add_iast.py {cf}'); chunk=open(cf,encoding='utf8').read().replace('XXPHXX','')
         open(cf,'w',encoding='utf8').write(chunk)
         try:
-            sys.path.insert(0,os.path.join(V,'tools')); import accents
+            sys.path.insert(0,os.path.join(V,'tools')); import labels; chunk=labels.normalise(chunk); open(cf,'w',encoding='utf8').write(chunk)
+            import accents
             st={'ptr':accents.ptr_from_file(open(EN,encoding='utf8').read())}
             c2,arep=accents.apply_text(chunk,st); assert accents.strip_ac(c2)==chunk
             chunk=c2; open(cf,'w',encoding='utf8').write(chunk)
