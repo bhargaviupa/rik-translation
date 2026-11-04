@@ -48,6 +48,11 @@ Vol 8: numerals of Sūktas 98–112 were only partly re-read (see METHOD.md; ~28
 - **Kannada prose drafts** (Pratipadārtha, Bhāvārtha, Special Topics): may be drafted by a smaller model if the user asks; I review `[?]` lines and the Sanskrit.
 - Put italic notes **before** a Devanagari block or after its IAST line (a note right after the block stops `add_iast.py` adding the IAST).
 
+## Reference-text pilot (user decisions, Nov 4 2026)
+- **Vol 7 is reopened for changes** (the pilot below). **"No OCR for any reading" is relaxed for this pilot:** a reading may be taken from a clean reference text (Müller's edition, `muller-655-900.pdf`, text layer extracted with `pdftotext -layout`) when the script `publish/tools/ref_check/ref_check.py` finds the passage (match score ≥ 80) and proposes it; proposals are applied with the page crop checked on a sample. Report the fix in the file's note, say it came from the reference lead, and keep `[?]` where the reference is silent or garbled. Numerals: from the user's numeral file (to be supplied for Vol 7, `vol7/numerals/`), never from Müller's OCR digits.
+- Results so far (Sūkta 86, 2 proposals checked on 400-dpi crops): printed p. 196 `णिदित्यनुवृत्तेः` (volume had `चिदित्य…`), printed p. 204 `आगच्छतेत्यर्थः`; both correct. Sūkta 88/89 (Nov 4): print reads `ಆತ್ಮೀಯ್ಯೈ` = *ātmīyaiḥ* (doubled y); p. 243 `आत्रेय्यै [?]` → `आत्मीयै`, p. 292 `भाति [?]` → `आत्मीयैश्चक्षुर्भिः` (both from the Müller lead, checked on the PDF 307 crop at 400 dpi; the conjunct `त्म` had been read as `त्र`). Still to check: p. 198 `व्यत्ययेन मध्यमः [?]` (reference agrees).
+- Numerals (Nov 4): the user's Vol 7 numeral file is in `vol7/numerals/` (file page ≈ PDF − 1). Where the file's digits equal the md's the `[?]` was dropped (35 numerals); the 29 differing values were not applied (see `vol7/numerals/README.md`).
+
 ## Scan files in git (user decision, Nov 3 2026)
 Scans stay ordinary files in git (not LFS; no history rewrite). To keep sessions light, **once the better scan of a volume has been used for its verification/translation pass and the user confirms, `git rm` its scan parts** (history keeps them: `git checkout <commit> -- <path>` restores one). Never remove a volume's scans while a pass on it is still running or planned. Done: Vol 13 duplicate `4a` (a rescan of printed pp. 361–460, identical to parts 4/5).
 
