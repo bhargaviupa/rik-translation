@@ -27,3 +27,6 @@ The user's sample rows (file page 18: 7.12, 7.4, 5-2-2, …) belong to our PDF 1
 
 ## Local page offsets (user: "we already established a 1-page offset")
 Per-page offsets from exact matches (`numeral_pageset.py --local`): file = PDF+1 for PDF ~17–35 and 79–207 and 454–499; file = PDF−1 for ~42–75, 216–371 and 524–530 (jumps of two pages at ≈ PDF 40, 77, 210, 450, 500). The pool is the single file page given by the local offset. Test: 1-digit corruption recovered 96 %, 2-digit 93 % (wrong 4 %). The 33 distance-2 pairings were applied and then **reverted the same day**: many paired a doubtful numeral with an unrelated leftover (15-16 → 5-18, a Varga header; 1-12 → 8-11; 4-208 → 9-205; 8-3-1 → 83-1-1). The held-out test only covered numerals that ARE in the file, so it overstated accuracy. Distance-2 pairings are NOT applied.
+
+## User-confirmed (Nov 4 2026)
+`5-3-3` → **`5-2-2`** (Aitareya Āraṇyaka ref., printed p. 2, md line 161): confirmed by the user; applied. Context check with the file's column E (Kannada context transliterated, score ≥ 80, distance ≤ 2, same digit shape): only 4 candidates pass (3-8→5-1, 8-2→7-7, 4-117→4-557, 4-137→9-139); they look doubtful and were NOT applied (the Kannada context OCR is too noisy to discriminate).
