@@ -23822,4 +23822,133 @@ Indra, hero, exulting in the solemn Trikadruka rites, quaff the Soma juice, and 
 
 ---
 
-**Progress note:** Done through printed p. 622 (PDF 644). Sūkta 11: Ṛk 16 complete (printed English and Special Topics on barhis, Tai. Brā. 1-6-3.1, Ni. 8-9 twice, Ṛ. Saṃ. 10-110-4, पस्त्य Ni. 3-13, वाज Ni. 3-9). Ṛk 17 complete (Ṛk number ॥१७॥, trikadruka note). Ṛk 18 begun: Saṃhitā, Pada (॥१८॥) and the bhāṣya up to the word "और्णवाभ…" at the foot of p. 622; Ṛk 18 is left OPEN (bhāṣya continues, then Pratipadārtha etc.). Flags: references 1-6-3.1, 8-9 (first), 10-110-4, 3-13, 3-9 agree with the numeral file (no FILE DISAGREE); second Ni. 8-9 not in file, read as printed like the first; Ṛk numbers 17 and 18 and the running header p. 621 "A. 2 A. 6 V. 6" unzoomed. [?] places, all unzoomed: p. 620 Ṛk 10-110-4 "व्य" (vowel ु not seen); त्रय इमो (as printed); p. 621 आभिप्लविकेष्वहःसु; p. 622 पधातेर्लोटि (first word of the grammatical tail), the compound mark in अवऽअभिनत् and और्णऽवाभं.
+### Printed p. 623 (PDF 645)
+
+*(Header: "A. 2 A. 6 V. 6.]" as it looks, "Ṛgvedasaṃhitā", "623". Ṛk 18 continues from p. 622. The page begins with the words "इत्युच्यते", which follow "और्णवाभ…" at the foot of p. 622. The numeral file has no rows for this page.)*
+
+*Gist (rest of the bhāṣya of Ṛk 18): he split Vṛtra as one splits a spider; or aurṇavābha means "like a spider". By killing the darkness-like Vṛtra [?] you opened the sun for the Ārya, the rite-performing man, or for the royal sage Kutsa; the Dasyu Vṛtra lies on your left.*
+
+> इत्युच्यते । तमिवावाभिनत् । बिभेदिथ । यद्वा और्ण ऊर्णनाभिः । तदाभं तत्सदृशमित्यर्थः । ततस्तमोरूपस्य [?] हननादार्याय कर्मणामनुष्ठात्रे जनाय कुत्साय राजर्षये वा ज्योतिः प्रकाशकमादित्यमपावृणोः । उद्घाटितवानसि । दस्युः कर्मणामुपक्षपयिता स वृत्रः सव्यतस्तव सव्यपार्श्वे निषादि । त्वया नितरां सन्नो बाधितो वर्तते ॥
+
+> *ityucyate | tamivāvābhinat | bibheditha | yadvā aurṇa ūrṇanābhiḥ | tadābhaṃ tatsadṛśamityarthaḥ | tatastamorūpasya [?] hananādāryāya karmaṇāmanuṣṭhātre janāya kutsāya rājarṣaye vā jyotiḥ prakāśakamādityamapāvṛṇoḥ | udghāṭitavānasi | dasyuḥ karmaṇāmupakṣapayitā sa vṛtraḥ savyatastava savyapārśve niṣādi | tvayā nitarāṃ sanno bādhito vartate ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- शूर (*śūra*)—heroic one;
+- इन्द्र (*indra*)—O Indra;
+- येन (*yena*)—by which strength;
+- दानुं (*dānuṃ*)—the son of Dānu;
+- वृत्रं (*vṛtraṃ*)—Vṛtra the Asura;
+- और्णवाभं (*aurṇavābhaṃ*)—as one destroys the covering spider (printed "ಆವರಕವಾದ ಜೇಡರ ಹುಳುವನ್ನು ನಾಶ ಮಾಡುವಂತೆ");
+- अवाभिनत् (*avābhinat*)—you struck down, (and by which strength);
+- आर्यस्य (*āryasya*) (as printed; the mantra has आर्याय)—to the royal sage who performs the rites;
+- ज्योतिः (*jyotiḥ*)—the shining Āditya (the sun);
+- अपावृणोः (*apāvṛṇoḥ*)—you made to shine, releasing him from the covering;
+- शवः (*śavaḥ*)—strength;
+- धिष्व (*dhiṣva*)—hold, bear it (as printed "ಧರಿಸಿರು");
+- दस्युः (*dasyuḥ*)—Vṛtra, destroyer of rites;
+- सव्यतः (*savyataḥ*)—on your left side;
+- नि षादि (*ni ṣādi*)—(struck by you) has fallen.
+
+**भावार्थ (Bhāvārtha)**
+
+O heroic Indra, hold that strength of yours, natural to you, by which you struck down Vṛtra the Asura, son of Dānu, as one destroys a covering spider, and by which you freed the shining sun from its covering and made him shine for the royal sage who performs the rites. Vṛtra, destroyer of rites, lies fallen on your left, struck by you.
+
+**English Translation** *(as printed)*
+
+Indra, hero, keep up the strength wherewith you have crushed Vritra, the spider-like son of Danu, and let open the light to the Arya: the Dasyu has been aset side [sic] on your left hand.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**दानुं (*dānuṃ*)**—Dānu is the mother of Vṛtra. Here the word दानु (*dānu*) is used in the sense of Vṛtra, the son of Dānu.
+
+**और्णवाभं (*aurṇavābhaṃ*)**—ऊर्णवाभ (*ūrṇavābha*) or ऊर्णनाभि (*ūrṇanābhi*) means the spider that draws its thread from the region of the navel. Here "aurṇavābha" is meant in this way: the spider binds its web, takes possession of or covers a wide space, and obstructs the movement of other insects such as gnats and flies
+*(p. 624 continues)*
+
+---
+
+### Printed p. 624 (PDF 646)
+
+*(Header: "624", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11"; the sūkta number is unzoomed.)*
+
+in the same way Vṛtra the Asura pervades the atmosphere, blocks the clouds, and obstructs their movement and the rain; therefore Vṛtra is compared to a spider.
+
+Indra struck down such a Vṛtra; the sun (the light of the sun), which had been covered by the covering of clouds that Vṛtra had held back and so was not seen, was made visible to all the Āryas (all good men), and the Dasyu Vṛtra was made to fall on Indra's left side. This idea is stated in the latter half of this Ṛk.
+
+---
+
+#### Ṛk 19
+
+**॥ संहितापाठः ॥**
+
+*(Accent marks not reproduced.)*
+
+> सने॑म॒ ये त॑ ऊ॒तिभि॒स्तर॑न्तो॒ विश्वाः॒ स्पृध॒ आर्ये॑ण॒ दस्यू॑न् ।
+> अ॒स्मभ्यं॒ तत्त्वा॒ष्ट्रं वि॒श्वरू॑प॒मर॑न्धयः सा॒ख्यस्य॑ त्रि॒ताय॑ ॥ १९ ॥
+
+> *sanema ye ta ūtibhistaranto viśvāḥ spṛdha āryeṇa dasyūn |*
+> *asmabhyaṃ tattvāṣṭraṃ viśvarūpamarandhayaḥ sākhyasya tritāya ‖ 19 ‖*
+
+**॥ पदपाठः ॥**
+
+> सनेम । ये । ते । ऊतिऽभिः । तरन्तः । विश्वाः । स्पृधः । आर्येण । दस्यून् ।
+> अस्मभ्यं । तत् । त्वाष्ट्रं । विश्वऽरूपं । अरन्धयः । साख्यस्य । त्रिताय ॥ १९ ॥
+
+> *sanema | ye | te | ūti 'bhiḥ | tarantaḥ | viśvāḥ | spṛdhaḥ | āryeṇa | dasyūn |*
+> *asmabhyaṃ | tat | tvāṣṭraṃ | viśva 'rūpaṃ | arandhayaḥ | sākhyasya | tritāya ‖ 19 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: May we gain (join) those men who, with your protections, overcome all rival hostile peoples and the Dasyus; for us you killed Viśvarūpa, Tvaṣṭṛ's son, for Trita's friendship.*
+
+*(The grammatical tail is printed: the root रध् (*radh*) in the senses of "going into control" and "violence / accomplishing"; the augment नुम् (*num*) by the sūtra words "रधिजभोरचि" (no sūtra number printed); the accent of सनेम (*sanema*) discussed with Ṛ. 7-52-1 and 8-60-4; तरन्तः (*tarantaḥ*) with the root तॄ [?], the participle form in शतृ, and Ṛ. 5-61-10. The numerals are as in the numeral file; the Taittirīya reference is printed "Tai. 2-5-1" (the file gives 2.51).)*
+
+> सनेम तान्पुरुषान् सम्भजेम ये ते तवोतिभिः [?] पालनैर्विश्वाः स्पृधः स्पर्धमानाः सर्वा विशस्तरन्तो हिंसन्तः तथार्येणार्यभावेन दस्यूनुपक्षपयि-त्वान् [?] हिंसन्तो भवन्ति । तदस्मभ्यं वशमानयः । किं तत् । तदाह । त्वाष्ट्रं त्वष्टुः सुतं विश्वरूपमेतन्नामकमसुरमरन्धयः ॥ रध्यतिर्वशगमने ॥ वशमानयः । यद्वा तमसुरमवधीः ॥ रध हिंसासंराद्ध्योः । रधिजभोरचीति नुम् ॥ इन्द्रस्त्वाष्ट्रमवधीदित्ययमर्थस्तैत्तिरीयके विश्वरूपो वै त्वाष्ट्रः । तै- २-५-१ । इत्यत्र महता प्रबन्धेन प्रपञ्चितः । किञ्च साख्यस्य सखिभावस्यानुपालनाय त्रिताय महर्षये वशमानयः । यद्वा सनेम ते वयं प्रवृद्धा भवेम ये वयं तव रक्षाभिः स्पर्धमानाः प्रजा दस्यूंश्च तरन्तोऽतिक्रामन्तो भवेम ॥ सनेमेति वृद्ध्यर्थ आद्युदात्तः । यथा सनेम मित्रावरुणा सनन्तः । ७-५२-१ । इति । सकर्मकश्चेत् मध्योदात्तः । सनेम वाजं तव । ८-६०-४ । इति । तरन्तः । तॄ [?] प्लवनतरणयोः । शतरि रूपं । संज्ञावचनश्चेदन्तोदात्तः । यथा तरन्त इव मंहना । ५-६१-१० । इति ॥
+
+> *sanema tānpuruṣān sambhajema ye te tavotibhiḥ [?] pālanairviśvāḥ spṛdhaḥ spardhamānāḥ sarvā viśastaranto hiṃsantaḥ tathāryeṇāryabhāvena dasyūnupakṣapayi-tvān [?] hiṃsanto bhavanti | tadasmabhyaṃ vaśamānayaḥ | kiṃ tat | tadāha | tvāṣṭraṃ tvaṣṭuḥ sutaṃ viśvarūpametannāmakamasuramarandhayaḥ ‖ radhyatirvaśagamane ‖ vaśamānayaḥ | yadvā tamasuramavadhīḥ ‖ radha hiṃsāsaṃrāddhyoḥ | radhijabhoracīti num ‖ indrastvāṣṭramavadhīdityayamarthastaittirīyake viśvarūpo vai tvāṣṭraḥ | tai- 2-5-1 | ityatra mahatā prabandhena prapañcitaḥ | kiñca sākhyasya sakhibhāvasyānupālanāya tritāya maharṣaye vaśamānayaḥ | yadvā sanema te vayaṃ pravṛddhā bhavema ye vayaṃ tava rakṣābhiḥ spardhamānāḥ prajā dasyūṃśca taranto 'tikrāmanto bhavema ‖ sanemeti vṛddhyartha ādyudāttaḥ | yathā sanema mitrāvaruṇā sanantaḥ | 7-52-1 | iti | sakarmakaścet madhyodāttaḥ | sanema vājaṃ tava | 8-60-4 | iti | tarantaḥ | tṝ [?] plavanataraṇayoḥ | śatari rūpaṃ | saṃjñāvacanaścedantodāttaḥ | yathā taranta iva maṃhanā | 5-61-10 | iti ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)** *(continued on p. 625)*
+
+---
+
+### Printed p. 625 (PDF 647)
+
+*(Header: "A. 2 A. 6 V. 6]" as it looks, "Ṛgvedasaṃhitā", "625".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- ये (*ye*)—we who;
+- ते (*te*)—your;
+- ऊतिभिः (*ūtibhiḥ*)—together with protections;
+- विश्वाः स्पृधः (*viśvāḥ spṛdhaḥ*)—all the Asura peoples (Dasyu folk) that contend with us (oppose us);
+- तरन्तः (*tarantaḥ*)—as those who afflict (them);
+- आर्येण (*āryeṇa*)—with Ārya character;
+- दस्यून् (*dasyūn*)—and who afflict the violent Asuras, such of us as we are;
+- सनेम (*sanema*)—may we obtain increase (prosperity);
+- तत् (*tat*)—that work of destroying those Asuras;
+- अस्मभ्यं (*asmabhyaṃ*)—for us (you did it);
+- साख्यस्य (*sākhyasya*) (as printed)—of him who had attained friendship;
+- त्रिताय (*tritāya*)—for the great sage named Trita;
+- त्वाष्ट्रं (*tvāṣṭraṃ*)—the son of Tvaṣṭṛ;
+- विश्वरूपं (*viśvarūpaṃ*)—the Asura named Viśvarūpa;
+- अरन्धयः (*arandhayaḥ*)—you have killed.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, may we, who with your protections afflict all the Asura peoples that contend with us, and with Ārya character, doing right, drive away the violent Asuras, obtain increase. You did for us the work of destroying the Asuras. You killed the Asura named Viśvarūpa, the son of Tvaṣṭṛ, for the great sage Trita, who had attained friendship.
+
+**English Translation** *(as printed)*
+
+Let us honour those men, who, through your protection, surpass all their rivals, as the Dasyus (are surpassed) by the Arya: this (have you wrought) for us: you have slain Vishvarupa, the son of Twashtri, through friendship for Trita.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the ṛṣi praises Indra, saying that he has killed Viśvarūpa, the son of Tvaṣṭṛ, for the royal sage named Trita. Many matters concerning this Trita, such as who he is and what his story is, we have already described in detail in places such as Ṛ. Saṃ. Part 5 p. 230; Part 8 [read as printed "ಲ" = 8, unzoomed] pp. 443 and 473. Although the word त्रित (*trita*) is found in many Ṛks, nothing of any extent is learned about him. In the Atharvaveda also, though the word trita is used in five or six places, nothing is learned there either. Only the companionship between him and Indra is found in many places. As said in all places, it is known only that Trita is a deity who dwells very far away, and that sin or bad dreams are sent to him (Atharvaveda 1-131-1, 3; 19-56-4). In the Taittirīya Saṃhitā he is one who gives long life
+
+*(Ṛk 19 is left OPEN: the Special Topics passage breaks off at this point at the foot of p. 625, and continues on p. 626. The foot of the page carries the signature mark "[40]" and "Vol. 14".)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 625 (PDF 647). Sūkta 11: Ṛk 18 complete (rest of bhāṣya, Pratipadārtha, Bhāvārtha, printed English with [sic] "aset side", Special Topics on दानु and और्णवाभ; its Special Topics continue on p. 624). Ṛk 19 given in full (Saṃhitā, Pada ॥१९॥, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 19 is left OPEN: the Special Topics on Trita break off mid-sentence at the foot of p. 625 ("In the Taittirīya Saṃhitā he is one who gives long life…"), to be continued on p. 626. References agree with the numeral file (7-52-1, 8-60-4, 5-61-10, 1-131-1 and 19-56-4; Tai. printed 2-5-1, file 2.51), no FILE DISAGREE. Unzoomed: Ṛk number ॥१९॥, running headers (A. 2 A. 6 V. 6; Sū. 11), "Part 8" (printed ಲ), Part 5 p. 230, pp. 443 and 473. [?] places: p. 623 ततस्तमोरूपस्य; p. 624 तवोतिभिः, दस्यूनुपक्षपयि-त्वान्, तॄ (धातु); accent marks not reproduced in Ṛk 19.
