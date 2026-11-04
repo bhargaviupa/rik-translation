@@ -41,7 +41,7 @@ def pair(pool, doubt, maxlev):
 def run(md, num, test, out, maxlev):
     fp, mp = load(md, num); random.seed(2); tot = ok = wrong = 0; res = []
     for P, M in sorted(mp.items()):
-        pool = [v for p in range(P - 2, P + 1) for v in fp.get(p, [])]
+        pool = [v for p in range(P - 2, P + 2) for v in fp.get(p, [])]
         if not pool: continue
         # exact matches consume pool values
         left = list(pool); doubt = []
