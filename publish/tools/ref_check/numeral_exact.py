@@ -21,7 +21,7 @@ for n, l in enumerate(lines, 1):
     m = re.match(r"#+\s*Page\s+\d+\s*\(PDF\s*(\d+)", l)
     if m: page = int(m.group(1))
     if page is None or "[?]" not in l or not DEV.search(l): continue
-    win = set().union(*(fp.get(p, set()) for p in range(page - 2, page + 1)))
+    win = set().union(*(fp.get(p, set()) for p in range(page - 2, page + 2)))
     hits = [(i, mm) for i, mm in enumerate(NUMTOK.finditer(l)) if parts(mm.group(1)) and "-".join(parts(mm.group(1))) in win]
     if not hits: continue
     new = l

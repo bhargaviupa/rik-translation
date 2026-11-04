@@ -29,7 +29,7 @@ for n, l in enumerate(lines, 1):
     for m in NUMTOK.finditer(l):
         ps = parts(m.group(1))
         if not ps: continue
-        md = "-".join(ps); win = set().union(*(fp.get(p, set()) for p in range(page - 2, page + 1)))
+        md = "-".join(ps); win = set().union(*(fp.get(p, set()) for p in range(page - 2, page + 2)))
         near = sorted((lev(md, v), v) for v in win if len(v.split("-")) == len(ps))[:4]
         rows.append([n, printed, page, suk, "bhāṣya / Devanagari block" if l.lstrip().startswith(">") else "English note",
                      md, m.group(1), ", ".join(f"{v}" for d, v in near), re.sub(r"\s+", " ", l[max(0, m.start() - 70): m.end() + 25]), ""])
