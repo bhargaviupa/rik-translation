@@ -24699,4 +24699,86 @@ Likewise in the sūkta of Ṛ. Saṃ. 1-112, which begins ईळे द्या
 
 ---
 
-**Progress note:** Done through printed p. 646 (PDF 668). Sūkta 12, Ṛk 1 is written (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English); its Viśeṣaviṣayagaḷu is OPEN: the entry on ⟦जातः⟧ breaks off at "ಆದರೆ ಇಂದ್ರನ ವಿಷಯ" at the foot of p. 646 and continues on p. 647; the next batch resumes there, then Ṛk 2. The anuvāda narrative of p. 643 ended on p. 644 as noted; p. 644 repeats the sūkta heading (Maṃ. 2, Anu. 2, Aṣṭaka 2, Adhyāya 6, Varga 7, 8, 9; 15 Ṛks, Gṛtsamada, Indra, Triṣṭubh). Flags: no FILE DISAGREE (file agrees on Nir. 3-21, 1-80-11, Nir. 10-10, 1-112, Nir. 2-22; its text lines for p. 646 are noisy). Unzoomed numerals: running headers, the varga numerals 7, 8, 9 and "15" on p. 644, "25" Ṛks of 1-112 on p. 646, all reference numerals. [?] places: "परिऽअभूषत्" (compound mark), "भूपादिः", "लङि", "श्र्युकः कितीतीट्प्रतिषेधः", "अभ्यसेतां वेपेतां वा", "चित्तव", "पर्यग्रह्णात्", "द्यावापृथिव्यावस्यबिभीतां" in the bhāṣya, and "man [?]" in the printed English.
+### Printed p. 647 (PDF 669)
+
+*(Header: "A. 2 A. 6 V. 7 ]" as it looks, "Ṛgvedasaṃhitā", "647"; header numerals not zoomed. The page continues the Viśeṣaviṣayagaḷu on जातः (*jātaḥ*) from p. 646.)*
+
+…But in the case of Indra it is not so. The ṛṣi has described that as soon as he was born he became the chief and the foremost among all the gods. There is support for this in other places too. In the sūktas Ṛ. Saṃ. 3-48 and 4-18 the subject of Indra's birth is taken up. As soon as he was born he made the wheel of the sun move (Ṛ. Saṃ. 1-130-9). As soon as he was born he became a warrior (Ṛ. Saṃ. 3-51-8, 5-30-5, 8-45-4, 8-66-1, 10-113-4). From his birth he is unobstructed (Ṛ. Saṃ. 1-102-8, 10-133-2). Descriptions of this kind are found on the subject of Indra's birth
+
+*(All the reference numerals above agree with the numeral file; unzoomed. The sentence has no full stop in the print.)*
+
+यस्य शुष्माद्रोदसी अभ्यसेतां नृम्णस्य मह्ना (*yasya śuṣmādrodasī abhyasetāṃ nṛmṇasya mahnā*) — In this sentence it is said that heaven and earth trembled through the greatness of Indra's mighty strength. The word शुष्मम् (*śuṣmam*) is read among the names of strength (Nir. 3-9 [?]); the word रोदसी (*rodasī*) among the names of heaven and earth (Nir. 3-13); the word नृम्ण (*nṛmṇa*) among the names of strength (and wealth) (Nir. 3-9). *(The reference after "strength" for शुष्मम् (*śuṣmam*) is read from the strip as 3-9, unzoomed; the numeral file has it garbled as "39" and has 3-13 and 3-9 clearly for the other two.)* भ्यसते रेजत इति भयवेपनयोः (*bhyasate rejata iti bhayavepanayoḥ*) *(read as printed)*: "यस्य शुष्माद्रोदसि अभ्यसेतां (*yasya śuṣmādrodasi abhyasetāṃ*)", "रेजते अग्ने पृथिवी मखेभ्यः (*rejate agne pṛthivī makhebhyaḥ*)" — these two also are two passages that occur (Nir. 3-21) *(the word printed "ನಿಗವಾ" before "भवतः" is not clear to me: possibly निगमौ (*nigamau*) [?]; I do not complete it)*. Since the explanation is thus given, the word अभ्यसेताम् (*abhyasetām*) means अवेपेताम् (*avepetām*), अबिभीताम् (*abibhītām*): they trembled, shaking with fear. On the point that heaven and earth trembled before Indra's boundless power—
+
+In the Ṛk (Ṛ. Saṃ. 4-17-2) —
+
+> तव त्विषो जनिमन् रेजत द्यौ रेजद्भूमिर्भियसा स्वस्य मन्योः ।
+
+> *tava tviṣo janiman rejata dyau rejadbhūmirbhiyasā svasya manyoḥ |*
+
+In this Ṛk it is said that at the time of Indra's birth, through fear of his anger, heaven and earth trembled.
+
+In the Ṛk (Ṛ. Saṃ. 1-61-14) —
+
+> अस्येदु भिया गिरयश्च दृळ्हा द्यावा च भूमा जनुषस्तुजेते ।
+
+> *asyedu bhiyā girayaśca dṛḷhā dyāvā ca bhūmā januṣastujete |*
+
+In this Ṛk it is said that as soon as Indra was born, through fear of him the immovable mountains, heaven and earth shook.
+
+In the Ṛk (Ṛ. Saṃ. 1-80-11) —
+
+> इमे चित्तव मन्यवे वेपेते भियसा मही ।
+
+> *ime cittava manyave vepete bhiyasā mahī |*
+
+In this Ṛk it is said that the earth and the heavenly worlds trembled in fear of your (Indra's) anger. *(Printed run together as "चित्तव"; as in the bhāṣya, I leave it as printed.)*
+
+In the Ṛk (Ṛ. Saṃ. 5-30-5) —
+
+> अतश्चिदिन्द्रादभयन्त देवा विश्वा अपो अजयद्दासपत्नीः ।
+
+> *ataścidindrādabhayanta devā viśvā apo ajayaddāsapatnīḥ |*
+
+it is said that all the gods were afraid of Indra. Thus, as soon as Indra was born, his strength and valour were so excessive that they made the gods and heaven and earth tremble with fear
+
+*(The references 4-17-2, 1-61-14, 1-80-11 and 5-30-5 agree with the numeral file; unzoomed. The Sanskrit of the four Ṛks is as printed; the Kannada prose before each is rendered above by sense.)*
+
+---
+
+### Printed p. 648 (PDF 670)
+
+*(Header: "648", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12"; header numerals not zoomed.)*
+
+…is said in many places. "It is Indra alone who is of such immeasurable valour; I am not": thus the ṛṣi Gṛtsamada pacified the asuras who had come to kill him.
+
+Yāska has given the explanation (nirvacana) of this Ṛk thus—
+
+*Gist: Yāska's nirvacana of the Ṛk: Indra, from birth chief and wise, honoured, held, protected or surpassed the gods; heaven and earth feared his strength.*
+
+> योजायमान एव प्रथमो मनस्वी देवो देवान् क्रतुना कर्मणा पर्यभवत् पर्यगृह्णात् पर्यरक्षदत्यक्रामदिति वा । यस्य बलाद्द्यावापृथिव्यावप्यबिभीतां नृम्णस्य मह्ना बलस्य महत्त्वेन स जनास इन्द्र इति । ऋषेर्दृष्टार्थस्य प्रीतिर्भवत्याख्यानसंयुक्ता ॥
+
+> *yojāyamāna eva prathamo manasvī devo devān kratunā karmaṇā paryabhavat paryagṛhṇāt paryarakṣadatyakrāmaditi vā | yasya balāddyāvāpṛthivyāvapyabibhītāṃ nṛmṇasya mahnā balasya mahattvena sa janāsa indra iti | ṛṣerdṛṣṭārthasya prītirbhavatyākhyānasaṃyuktā ‖*
+
+*(Reference printed "(ನಿ. ೧೦-೧೦)" = Nir. 10-10; the file agrees; unzoomed. The print runs the first word and "जायमान" together as "योजायमान"; I keep it as printed. Here "पर्यगृह्णात्" is clear in the print, which settles the doubtful "पर्यग्रह्णात्" of Ṛk 1's bhāṣya in favour of पर्यगृह्णात्. The word before "अबिभीताम्" is clearly "द्यावापृथिव्यावप्य", i.e. अपि (*api*), not the "अस्य" I had read in the bhāṣya; the bhāṣya's own page is not changed, it stays as I read it there, flagged.)*
+
+Since the explanation written by Durgācārya on this nirvacana is very clear, we have given it here and explained Yāska's meaning.
+
+*Gist: Durga's commentary: from birth Indra became chief of all beings, and the gods, though equal in divinity, were ruled by him; heaven and earth feared his strength; Gṛtsamada, Indra's friend, says "I am not Indra".*
+
+> योजात एव जातमात्र एव प्रथमः मुख्यः सर्वभूतानां प्रतिमुख्यतां संपेदे । मनस्वी च मेधावी, अन्ये हि कालेन मुख्याः संपद्यन्ते मेधाविनश्च । देवो देवान् क्रतुना पर्यभूषत् । सत्यपि देवत्वाविशेषे इतरान् देवान् क्रतुना कर्मणा पर्यभूषत् पर्यगृह्णात्, परिगृहीतवान् स्वामित्वेन पर्यरक्षद्वा) मुख्यत्वात् अत्यक्रामद्वा प्रभावेण । यस्य च शुष्मात् शारीराद्बलात् रोदसी द्यावापृथिव्यावपि अभ्यसेतामबिभीताम् । नृम्णस्य मह्ना बलस्य सेनालक्षणस्य महत्त्वेन अतिमहदसह्यमस्य बलमवश्यमयमावां सादयिष्यतीत्येवमतिमहत्यावेते [?] द्यावापृथिव्यावबिभीतां यस्य शुष्मात् । जनासः हे असुरजनाः स इन्द्रः नाहमिन्द्रः ब्राह्मणोऽहं, तत्प्रसादादेवाप्ततद्रूप इति । ऋषेर्दृष्टार्थस्य अनुभूतेन्द्रमैत्रस्येन्द्रवयस्यस्य गृत्समदस्य इन्द्रं प्रति प्रीतिस्त्विर्भवत्याख्यानसंयुक्ता [?] आख्यानसंबन्धात् । अतश्च दर्शयति मन्त्राणामैतिहासिकोऽप्यर्थ उपेक्षितव्योऽसावपि तेषां विषय इति ॥
+
+> *yojāta eva jātamātra eva prathamaḥ mukhyaḥ sarvabhūtānāṃ pratimukhyatāṃ saṃpede | manasvī ca medhāvī, anye hi kālena mukhyāḥ saṃpadyante medhāvinaśca | devo devān kratunā paryabhūṣat | satyapi devatvāviśeṣe itarān devān kratunā karmaṇā paryabhūṣat paryagṛhṇāt, parigṛhītavān svāmitvena paryarakṣadvā) mukhyatvāt atyakrāmadvā prabhāveṇa | yasya ca śuṣmāt śārīrādbalāt rodasī dyāvāpṛthivyāvapi abhyasetāmabibhītām | nṛmṇasya mahnā balasya senālakṣaṇasya mahattvena atimahadasahyamasya balamavaśyamayamāvāṃ sādayiṣyatītyevamatimahatyāvete [?] dyāvāpṛthivyāvabibhītāṃ yasya śuṣmāt | janāsaḥ he asurajanāḥ sa indraḥ nāhamindraḥ brāhmaṇo 'haṃ, tatprasādādevāptatadrūpa iti | ṛṣerdṛṣṭārthasya anubhūtendramaitrasyendravayasyasya gṛtsamadasya indraṃ prati prītistvirbhavatyākhyānasaṃyuktā [?] ākhyānasaṃbandhāt | ataśca darśayati mantrāṇāmaitihāsiko 'pyartha upekṣitavyo 'sāvapi teṣāṃ viṣaya iti ‖*
+
+*(Reference printed "(ನಿ ೧೦-೧೦ ದು. ವ್ಯಾಖ್ಯಾ.)" = Nir. 10-10, Durga's vyākhyā; the file agrees; unzoomed. Doubtful places, unzoomed: "अतिमहत्यावेते" is as I read it; "प्रीतिस्त्विर्भवत्याख्यानसंयुक्ता" — the word after "प्रीतिः" is printed unclearly; I read "स्त्विर्" and do not correct it from memory. The closing round bracket after "पर्यरक्षद्वा" is as printed.)*
+
+The main purport of this is — as soon as Indra was born he obtained the chiefship of all beings (and gods); that is, he became the foremost leader of all. This Indra is very intelligent (wise); other wise men are born and after some time attain the foremost position; but Indra gained the foremost position as soon as he was born. Although this Indra was born as a god, he came to be accepted as the chief and master of the other gods by his deeds of daring and enterprise. Not only that, by his power he surpassed all the other gods in strength and daring.
+
+---
+
+### Printed p. 649 (PDF 671)
+
+*(PDF 671 is a duplicate scan of PDF 670: both strips show the header "648 / Sāyaṇabhāṣyasahitā / [Maṃ. 2 A. 2. Sū. 12" and the same text, line for line. Nothing is written again for it. The scan lacks a printed p. 649; it is noted here as a gap. The numeral file has no rows for this PDF page.)*
+
+---
+
+**Progress note:** Done through printed p. 648 (PDF 670); PDF 671 is an exact duplicate of PDF 670 (printed header "648" again), so printed p. 649 is missing from the scan and the next PDF page (672) should be printed p. 649 (check the offset: it was −21/−22 up to now, and must be −23 from PDF 672). Sūkta 12, Ṛk 1: the Viśeṣaviṣayagaḷu is still open (Yāska's nirvacana and Durga's commentary are written; p. 648 ends with a full stop after "ವಿಾರಿಸಿದನು", so the next page may continue the notes on Ṛk 1 or begin the grammar note / Ṛk 2). Flags: no FILE DISAGREE (the file agrees on all reference numerals of pp. 647–648; its text lines are noisy). Unzoomed numerals: running headers, all reference numerals (the first Nir. reference after "शुष्मम्" is read 3-9 [?], the file giving only a garbled "39"). [?] places: "निगमौ" (printed "ನಿಗವಾ"), "अतिमहत्यावेते", "प्रीतिस्त्विर्", and the carried-over earlier [?]s of Ṛk 1; "पर्यगृह्णात्" is now settled by the clear print on p. 648, and "द्यावापृथिव्यावप्य" is clear there (the bhāṣya's reading on p. 645 was not edited).
