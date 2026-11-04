@@ -57,3 +57,5 @@ User confirmed (Nov 4 2026): Ni. [2-1] → 3-2 and [2-10] → 3-9 are correct (t
 `numeral_apply_different.py`, log `numeral_apply_different.applied.tsv`: file value written over the md value (+ twins/English within ±8 lines), `[?]` and brackets removed — **403 tokens**. Not applied (**127 rows**, listed SKIPPED in the log): 117 where the file's value has a different number of parts than the md (the file loses or shifts separators: 7-4-79 → 7-479, 6-4-24 → 6-4-24-4, 7-9-4 → 79-4), 10 plain comma lists / distance ≥ 4. Those need the user's reading of the page.
 
 User checked `numeral_drop_q_same.applied.tsv` (the 291 numerals / 305 tokens whose `[?]` was dropped): all OK (Nov 4 2026).
+
+User confirmed (Nov 4 2026) that the part-count-changing file values are correct (7-4-79 → 7-479, 6-4-24 → 6-4-24-4, 3-4-91 → 3-491). Applied with `--parts-ok`: **229 more tokens**, log `numeral_apply_different_parts.applied.tsv`. 12 rows still skipped (clearly different references paired by the aligner: edit distance ≥ 4 or a plain list, e.g. md 1-[89]-[7] vs file 5-599-6, md 6-1-160 vs file 6-1); they need the user's reading.
