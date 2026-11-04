@@ -60,9 +60,11 @@ def main():
     ap.add_argument("--md", default="vol1/Rigveda_Samhita_Vol1_English_Translation.md")
     ap.add_argument("--ref", required=True)
     ap.add_argument("--out", default="ref_check_report")
-    ap.add_argument("--min-score", type=float, default=70, help="fuzzy match score (0-100) needed to call the API")
+    ap.add_argument("--min-score", type=float, default=80, help="fuzzy match score (0-100) needed to call the API")
     ap.add_argument("--limit", type=int, default=10)
     ap.add_argument("--page", type=int)
+    ap.add_argument("--from-line", type=int, default=0, help="only md lines >= this (e.g. start of a Sukta)")
+    ap.add_argument("--to-line", type=int, default=10**9)
     ap.add_argument("--scan-all", action="store_true", help="also lines without [?] (to test matching/disagreements)")
     ap.add_argument("--dry-run", action="store_true", help="matching only, no API calls")
     ap.add_argument("--model", default="claude-sonnet-5-5")
@@ -73,7 +75,7 @@ def main():
     if not a.dry_run:
         import anthropic; client = anthropic.Anthropic()
     rows = []
-    for n, page, line in list(targets(a.md, a.scan_all, a.page))[: a.limit]:
+    for n, page, line in [t for t in targets(a.md, a.scan_all, a.page) if a.from_line <= t[0] <= a.to_line][: a.limit]:
         q = line.lstrip("> ").replace("[?]", " ")
         qf, _ = fold(deva_to_iast(q))
         if len(qf) < 12: continue
