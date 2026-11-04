@@ -21183,4 +21183,116 @@ May Agni, who is immortal, of manifold wisdom, and wonderful splendour, hear my 
 
 ---
 
-**Progress note:** Done through printed p. 565 (PDF 587); offset printed = PDF − 22 holds. Sūkta 10 Ṛk 1 is complete (Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on जोहूत्रः, प्रथमः with Ni. 2-22, Ai. Brā. 1-1 and Tai. Brā. 2-4-3-3, इळस्पदे with Ni. 2-5, 2-23, 3-9, 11-48 and Ṛk Saṃ. 10-191-1, विचेताः, मर्मृजेन्यः). Ṛk 2 is **open**: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the next page (printed p. 566, PDF 588) begins after the printed English. Flags: FILE DISAGREE none; unzoomed numerals: Ni. 11-48 (file agrees), the anna-names Ni. reference read as 3-9 (file row garbled "39"; the go-names reference is also 3-9 per file), varga numeral in the headers of pp. 563 and 565 (read 2, not zoomed). [?] places: p. 564 ⟦यदेळे⟧ and ⟦इळायोः⟧ (as on p. 562); p. 565 bhāṣya ⟦श्यायुनीयदीप्तिः⟧ and ⟦विहृतेः⟧ (perhaps विधृतः). The doubtful ⟦अग्निर्वै⟧ of p. 562 is clearly printed on p. 564.
+### Printed p. 566 (PDF 588)
+
+*(Header: "566", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". This page continues the Viśeṣaviṣayagaḷu of Ṛk 2. The numeral file has two rows for this page, Ni. 2-20 and Ni. 2-28, and both agree with my reading of the strip.)*
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+चित्रभानुः (*citrabhānuḥ*)—
+
+*(The bhāṣya wording is printed as follows. The letters after विचित्रदीप्तिः (*vicitradīptiḥ*) are not settled, marked [?]: the first looks like श्चा/श्छा, then यनीय. This is probably the same word that was read doubtfully as श्यायुनीय on p. 565.)*
+
+> विचित्रदीप्तिश्चायनीयदीप्तिर्वा [?]
+
+> *vicitradīptiścāyanīyadīptirvā [?]*
+
+"Vicitra", or "of many kinds", means: one who shines with flames made up of many colours, such as white, red and yellow. The word भानु (*bhānu*) is formed from the root भा (*bhā*) with the meaning दीप्तौ (*dīptau*), "to shine", and is read among the names of the day (Ni. 2-20). The word भानु (*bhānu*) has many meanings, such as sun, ray, lustre and day. Here the meaning "shining" or "lustre" is the one intended.
+
+श्यावा रथं वहतः रोहिता वा उत अरुषा (*śyāvā rathaṃ vahataḥ rohitā vā uta aruṣā*)—Here it is said that the chariot of Agni is carried by श्यावा (*śyāvā*) (*śyāvā*), grey in colour (printed in Latin letters: "Tawny"), or रोहिता (*rohitā*) (*rohitā*), red in colour ("red"), or अरुषा (*aruṣā*) (*aruṣā*) ("purple"), dull red (मासलु ಕೆಂಪು: *dull red*) in colour. That the horse of Agni is red:
+
+*(Ni. 2-28, as printed; the file agrees. Yāska's list of the vehicles of the deities:)*
+
+> हरी इन्द्रस्य । रोहितोऽग्नेः । हरित आदित्यस्य । रासभावश्विनोः । अजाः पूष्णः । पृषत्यो मरुतां । अरुण्यो गाव उषसः । श्यावाः सवितुः । विश्वरूपा बृहस्पतेः । नियुतो वायोः ॥
+
+> *harī indrasya | rohito 'gneḥ | harita ādityasya | rāsabhāvaśvinoḥ | ajāḥ pūṣṇaḥ | pṛṣatyo marutāṃ | aruṇyo gāva uṣasaḥ | śyāvāḥ savituḥ | viśvarūpā bṛhaspateḥ | niyuto vāyoḥ ‖*
+
+Yāska has spoken of the various vehicles of the deities. That is: the horses called Hari belong to Indra; the red horse to Agni; the green horse to Āditya; the donkeys to the Aśvin deities; the goats to Pūṣan; the spotted deer to the Maruts; the red-coloured cows to the deity Uṣas; the grey horses to Savitṛ; the horses of many colours to Bṛhaspati; and the deer (जिंकॆ) called niyut to Vāyu. So in the present Ṛk it is natural that the horses of Agni are red. But that horses of the colours śyāvā and aruṣā also draw the chariot of Agni may be a poetic fancy (उत्प्रेक्षा, *utprekṣā*). Because the deity Uṣas and the deity Savitṛ rise in the early morning, the ṛṣi may have described the horses called श्यावा (*śyāvā*) (*śyāvā*) and अरुषा (*aruṣā*) (*aruṣā*), the vehicles of the deities Uṣas and Savitṛ, as drawing, in that early morning, the chariot of the blazing Agni.
+
+चक्रे विभृत्रः (*cakre vibhṛtraḥ*)—
+
+*(The bhāṣya wording as printed. Here it is clearly विहृतश्चक्रे; on p. 565 I had read विहृतेश्चक्रे [?], and that doubtful reading is corrected by this printing.)*
+
+> विभृत्रो नानास्थानेषु विहृतश्चक्रे । ऋत्विग्भिरकारि खलु ।
+
+> *vibhṛtro nānāsthāneṣu vihṛtaścakre | ṛtvigbhirakāri khalu |*
+
+In the sacrifice the ṛtvijs, the adhvaryu and others, establish Agni in various places, the āhavanīya and the rest *(a stray mark is printed after the word "āhavanīyādi")*; because he is thus established in various places, Agni becomes one who is established in many places: this is what is explained here.
+
+---
+
+### Printed p. 567 (PDF 589)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (the varga numeral not zoomed), "Ṛgvedasaṃhitā", printed number **567**. The numeral file has no rows for this page. Ṛk 3 begins here.)*
+
+**Ṛk 3**
+
+*Saṃhitā-pāṭha*
+
+> उत्तानायामजनयन्त सुषूतं भुवदग्निः पुरुपेशासु गर्भः ।
+> शिरिणायां चिदक्तुना महोभिरपरीवृतो वसति प्रचेताः ॥ ३ ॥
+
+*Pada-pāṭha*
+
+*(The small stroke in the compounds is the mark ऽ. The Pada prints सुऽसूतं (with स) and अजनयन् as given.)*
+
+> उत्तानायां । अजनयन् । सुऽसूतं । भुवत् । अग्निः । पुरुऽपेशासु । गर्भः ।
+> शिरिणायां । चित् । अक्तुना । महःऽभिः । अपरिऽवृतः । वसति । प्रऽचेताः ॥ ३ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: Agni, impelled in the upturned araṇi for the agnihotra, was produced by the adhvaryu priests; he is the embryo in the many-formed plants, and in the night, unenveloped by darkness, dwells shining and wise.)*
+
+> उत्तानायामुत्तानशयायामरण्यां सुषूतमग्निहोत्रार्थं सुष्ठु प्रेरितमग्निमजनयन् । अध्वर्य्वादय उदपादयन् । सोऽग्निः पुरुपेशासु । पेश इति रूपनाम । बहुरूपास्वोषधीषु गर्भो भुवत् । अन्तर्वर्तमानतया गर्भ इव भवेत् । भवतेर्लिङ् रूपं ॥ शिरिणायां । शीर्यन्तेऽस्यां भूतानीति शिरिणा रात्रिः । तस्यामप्यक्तुना । अञ्जनादक्तुस्तमः । तेन तमसापरीवृतोऽसंस्पृष्टः अत एव महोभिस्तेजोभिर्युक्तः प्रचेताः प्रकृष्टप्रज्ञः सन् वसति । दीप्यमानो वर्तते ॥
+
+> *uttānāyāmuttānaśayāyāmaraṇyāṃ suṣūtamagnihotrārthaṃ suṣṭhu preritamagnimajanayan | adhvaryvādaya udapādayan | so 'gniḥ purupeśāsu | peśa iti rūpanāma | bahurūpāsvoṣadhīṣu garbho bhuvat | antarvartamānatayā garbha iva bhavet | bhavaterliṅ rūpaṃ ‖ śiriṇāyāṃ | śīryante 'syāṃ bhūtānīti śiriṇā rātriḥ | tasyāmapyaktunā | añjanādaktustamaḥ | tena tamasāparīvṛto 'saṃspṛṣṭaḥ ata eva mahobhistejobhiryuktaḥ pracetāḥ prakṛṣṭaprajñaḥ san vasati | dīpyamāno vartate ‖*
+
+*(Grammatical tail, characterized only: भवतेर्लिङ् रूपं (*bhavater liṅ rūpaṃ*) says that the form is that of the root भू (*bhū*) in the liṅ. The final conjunct of लिङ् is printed so that it looks like जः; I read ङ्. In तस्यामप्यक्तुना (*tasyāmapyaktunā*) the letters after तस्यामप् are printed with an ai-like mark; read as प्य + अ.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+उत्तानायां (*uttānāyāṃ*)—in the araṇi that faces upward. सुषूतं (*suṣūtaṃ*)—Agni, who was impelled (for the sake of the agnihotra). अजनयन् (*ajanayan*)—(the adhvaryus) caused him to be produced. अग्निः (*agniḥ*)—that same Agni. पुरुपेशासु (*purupeśāsu*)—in the plants that have many forms. गर्भः (*garbhaḥ*)—in the form of an embryo. भुवत् (*bhuvat*)—he becomes (dwells) within. शिरिणायां चित् (*śiriṇāyāṃ cit*)—even in the night. अक्तुना (*aktunā*)—by darkness. अपरीवृतः (*aparīvṛtaḥ*)—not enveloped. महोभिः (*mahobhiḥ*)—as one endowed with his own great brilliance. प्रचेताः (*pracetāḥ*)—as one endowed with excellent knowledge. वसति (*vasati*)—he dwells shining.
+
+*Bhāvārtha (Kannada, translated; it runs over to p. 568)*
+
+The adhvaryus caused Agni, who was sleeping in the araṇi that faces upward and was impelled for the sake of the agnihotra, to be produced. That same Agni, in the plants that have many forms,
+
+---
+
+### Printed p. 568 (PDF 590)
+
+*(Header: "568", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". The numeral file has four rows for this page (Tai. Brā. 1-1-9-1; Ni. 2.10; Ni. 3-13; Ni. 8-12); all agree with my reading.)*
+
+is within as an embryo. In the time of night, not enveloped by darkness, endowed with his own great brilliance and endowed with excellent knowledge, he dwells shining.
+
+*English Translation (as printed)*
+
+They have generated (Agni) when soundly sleeping on his upturned (couch): that Agni who is an embryo in many (vegetable) forms, and who, (rendered manifest) by the oblation, abides conscious in the night, unenveloped by darkness.
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+उत्तानायां अजनयन् सुसूतं (*uttānāyāṃ ajanayan susūtaṃ*)—The word उत्तानायां (*uttānāyāṃ*) (*uttānāyāṃ*) means the lower part of the araṇis used for churning Agni. It is made of the śamī tree. It is broad like a plank, with a small hollow in the middle. The upper araṇi is made from the wood of the aśvattha tree and is shaped like a stick. Placing this on the lower araṇi of śamī wood, they churn it, with the help of a rope, as one churns curds. The mouth (or opening) of the lower araṇi is always turned upward. Therefore Sāyaṇa has here explained the word उत्तानायां (*uttānāyāṃ*) (*uttānāyāṃ*) as "in the lower araṇi of śamī wood, which faces upward, of the two araṇis". सुसूतं (*susūtaṃ*) (*susūtaṃ*) means सुष्ठु प्रेरितं (*suṣṭhu preritaṃ*) (*suṣṭhu preritaṃ*), "well impelled": Agni who is in the state of sleep (is sleeping) in the araṇis was stirred up (awakened) by the ṛtvijs, the adhvaryu and the others, and made to be produced; this is the chief intention. This meaning is supported by the Brāhmaṇa sentence:
+
+*(Tai. Brā. 1-1-9-1; the file agrees. The abbreviation is printed ತ್ರೈ. in the book.)*
+
+> शमीगर्भादग्निं मन्थति । एषा वा अग्नेर्यज्ञियां तनूः ।
+
+> *śamīgarbhādagniṃ manthati | eṣā vā agneryajñiyāṃ tanūḥ |*
+
+भुवत् अग्निः पुरुपेशासु गर्भः (*bhuvat agniḥ purupeśāsu garbhaḥ*)—
+
+*(The bhāṣya wording:)*
+
+> पेश इति रूपनाम । बहुरूपास्वोषधीषु गर्भो भुवत् । अन्तर्वर्तमानतया गर्भ इव भवेत् ।
+
+> *peśa iti rūpanāma | bahurūpāsvoṣadhīṣu garbho bhuvat | antarvartamānatayā garbha iva bhavet |*
+
+The word पेश (*peśa*) (*peśa*) is read among the names of gold (Ni. 2-10, as printed) and among the names of form (Ni. 3-13). Besides this, there is the nirvacana पेश इति रूपनाम पिंशतेर्विपिशितं भवति (*peśa iti rūpanāma piṃśatervipiśitaṃ bhavati*) (*peśa iti rūpanāma piṃśater vipiśitaṃ bhavati*) (Ni. 8-12). The word पेश (*peśa*) (*peśa*) is formed from the root पिंशति (*piṃśati*) (*piṃśati*), which gives the sense of "expanded, developed", and has the meaning "form". In the present Ṛk the word पुरुपेशासु (*purupeśāsu*) (*purupeśāsu*), according to the sense of its parts, means "in many forms"; but the bhāṣyakāra here gives the meaning "in plants having many forms". Because Agni burns plants, trees and the like, to say that Agni is hidden in their garbha, that is, in the inner part (inside), is conventional usage. Or again, because Agni is produced from the araṇis, which are modifications of the tree, one may, if one wishes, give the meaning that Agni abides in the garbha of trees and the like.
+
+*(This Viśeṣaviṣayagaḷu passage of Ṛk 3 ends at the bottom of p. 568 with this sentence. Whether further topics for Ṛk 3 follow is seen on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 568 (PDF 590); offset printed = PDF − 22 holds. Sūkta 10: Ṛk 2 is complete (its Viśeṣaviṣayagaḷu on चित्रभानुः with Ni. 2-20, the vehicles of the deities with Ni. 2-28, and चक्रे विभृत्रः, on p. 566; a rule line follows). Ṛk 3 is **open**: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Viśeṣaviṣayagaḷu on उत्तानायां/सुसूतं (Tai. Brā. 1-1-9-1) and पुरुपेशासु (Ni. 2-10, 3-13, 8-12) are written; p. 568 ends with the explanation of पुरुपेशासु, and the next page may continue the Special Topics of Ṛk 3 or begin Ṛk 4. Flags: FILE DISAGREE none; unzoomed numerals: varga numeral in the header of p. 567 (read 2); the Ṛk 3 numerals ॥ ३ ॥. [?] places: p. 566 bhāṣya ⟦विचित्रदीप्तिश्चायनीयदीप्तिर्वा⟧ (letters after दीप्तिः); the doubtful ⟦विहृतेः⟧ of p. 565 is clearly ⟦विहृतः⟧ on p. 566; p. 567 ⟦तस्यामप्यक्तुना⟧ and ⟦लिङ्⟧ (printed forms oddly shaped).
