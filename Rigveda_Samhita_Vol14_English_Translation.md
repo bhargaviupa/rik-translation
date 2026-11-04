@@ -23665,4 +23665,161 @@ O Indra, protector from calamities, those men who worship you with praises that 
 
 ---
 
-**Progress note:** Done through printed p. 619 (PDF 641). Sūkta 11: Ṛk 15 complete (Pratipadārtha end, Bhāvārtha, printed English, Special Topics with five Soma-with-Maruts Ṛk quotations Ṛ. Saṃ. 3-47-2, 1-101-9, 3-47-4, 3-52-7, 4-34-7, and the p. 618 notes on तरुत्र, नु इत्, अर्कैः, the alternative sense via Nirukta 3-9, 1-7, 3-9). Ṛk 16 begun: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 619; Ṛk 16 is left OPEN (printed English and Special Topics to follow). Flags: all reference numerals agree with the numeral file (no FILE DISAGREE); the Yāska-quoted Ṛk reference on p. 618 is blank in the print; Ṛk number ॥१६॥, the running headers (p. 617 "A. 2 A. 6 V. 5", p. 619 "A. 2 A. 6 V. 6"), and the page number "119" [sic] for 619 unzoomed. [?] places, all unzoomed: p. 617 अप्रूपमद्धि; p. 618 सहूवानं, द्यौरित्यह्नो… (as read), इत् एवार्थे (print looks like ವಿವಾರ್ಥೇ), त्वत्प्रसाद्वृद्धिं; p. 619 विवासतेर्लेट्यडागमः; also द्रृह्यत् as before.
+### Printed p. 620 (PDF 642)
+
+*(Header: "620", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11".)*
+
+**English Translation** *(as printed)*
+
+Liberator (from evil), they who worship you, the giver of happiness, with holy hymns, quickly become great: they who strew the sacred grass (in honour of you) are protected by you, and, together with their families, obtain (abundant) food.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**स्तृणानासो बर्हिः (*stṛṇānāso barhiḥ*)**—The darbha called बर्हिः (*barhiḥ*) is spread out to make ready a seat on which the deities come and sit; this spreading is called बर्हिस्तरणम् (*barhistaraṇam*). These darbhas are cut to one equal measure and are spread like a layer of three, so that they are soft. On this matter—
+
+*(Taittirīya Brāhmaṇa, as printed Tai. Brā. 1-6-3.1. The ellipsis is in the print. The words "त्रय इमो" are as printed.)*
+
+> त्रिवृद्बर्हिर्भवति । माता पिता पुत्रः । ........त्रेधा सन्नद्धं भवति । त्रय इमो लोकाः । एष्वेव लोकेषु प्रतितिष्ठति ॥
+
+> *trivṛdbarhirbhavati | mātā pitā putraḥ | ........tredhā sannaddhaṃ bhavati | traya imo lokāḥ | eṣveva lokeṣu pratitiṣṭhati ‖*
+
+—so it is said in the Taittirīya Brāhmaṇa. The darbha called barhis must be spread in three layers, because for these three layers there is a convention (saṅketa) of "mother, father, son", or of the three worlds: earth, atmosphere and heaven. Yāska, on this word—
+
+*(Nirukta, as printed Ni. 8-9)*
+
+> बर्हिः परिबर्हणात् परिच्छेदनात् ।
+
+> *barhiḥ paribarhaṇāt paricchedanāt |*
+
+—having explained that the darbha cut equal in one measure and used for a seat in the sacrifice is well known as बर्हिः (*barhiḥ*), quotes, for an illustration, the Ṛk—
+
+*(Ṛ. Saṃ. 10-110-4; in the print the word after व्य is shown without the vowel sign ु: व्य [?])*
+
+> प्राचीनं बर्हिः प्रदिशा पृथिव्या वस्तोरस्या वृज्यते अग्रे अह्नाम् ।
+> व्य [?] प्रथते वितरं वरीयो देवेभ्यो अदितये स्योनम् ॥
+
+> *prācīnaṃ barhiḥ pradiśā pṛthivyā vastorasyā vṛjyate agre ahnām |*
+> *vya [?] prathate vitaraṃ varīyo devebhyo aditaye syonam ‖*
+
+and then gives its explanation—
+
+*(Ni. 8-9, as printed; this second reference is not in the numeral file, read from the strip)*
+
+> प्राचीनं बर्हिः प्रदिशा पृथिव्या वसनायोऽस्याः प्रवृज्यते अग्रे अह्नां बर्हिः पूर्वाह्णे तद्विप्रथते वितरं विकीर्णतरमिति वा विस्तीर्णतरमिति वा वरीयो वरतरमुरुतरं वा देवेभ्यश्चादितये च स्योनम् । स्योनमिति सुखनाम स्यतेरवस्यन्त्येतत् सेवितव्यं भवतीति वा ॥
+
+> *prācīnaṃ barhiḥ pradiśā pṛthivyā vasanāyo 'syāḥ pravṛjyate agre ahnāṃ barhiḥ pūrvāhṇe tadviprathate vitaraṃ vikīrṇataramiti vā vistīrṇataramiti vā varīyo varataramurutaraṃ vā devebhyaścāditaye ca syonam | syonamiti sukhanāma syateravasyantyetat sevitavyaṃ bhavatīti vā ‖*
+
+That is: at the time of the sacrifice, in order to prepare a seat for the deities to come and sit upon the sacrificial altar, the darbhas are cut equal in one measure and spread, one layer on another, like a pile of three
+
+---
+
+### Printed p. 621 (PDF 643)
+
+*(Header: "A. 2 A. 6 V. 6.]" as it looks, "Ṛgvedasaṃhitā", "621".)*
+
+layers. The darbhas so spread are made abundant and broad, and are spread out soft and well. Darbhas spread in this manner are called बर्हिस् (*barhis*) or बर्हिरास्तरणम् (*barhirāstaraṇam*). This matter of the spreading of the barhis is indicated in many contexts in which the deities are invoked and called.
+
+**पस्त्यावत् वाजं (*pastyāvat vājaṃ*)**—The word पस्त्य (*pastya*) is read among the names of the house (Ni. 3-13); पस्त्य (*pastya*) means a house. The word वाज (*vāja*) is read among the names of food (Ni. 3-9). Here the sense intended is that they obtain food together with a house, that is, both a house and food.
+
+---
+
+#### Ṛk 17
+
+**॥ संहितापाठः ॥**
+
+> उग्रेष्विन्नु शूर मन्दसानस्त्रिकद्रुकेषु पाहि सोममिन्द्र ।
+> प्रदोधुवच्छ्मश्रुषु प्रीणानो याहि हरिभ्यां सुतस्य पीतिम् ॥ १७ ॥
+
+> *ugreṣvinnu śūra mandasānastrikadrukeṣu pāhi somamindra |*
+> *pradodhuvacchmaśruṣu prīṇāno yāhi haribhyāṃ sutasya pītim ‖ 17 ‖*
+
+**॥ पदपाठः ॥**
+
+> उग्रेषु । इत् । नु । शूर । मन्दसानः । त्रिऽकद्रुकेषु । पाहि । सोमं । इन्द्र ।
+> प्रऽदोधुवत् । श्मश्रुषु । प्रीणानः । याहि । हरिऽभ्यां । सुतस्य । पीतिं ॥ १७ ॥
+
+> *ugreṣu | it | nu | śūra | mandasānaḥ | tri 'kadrukeṣu | pāhi | somaṃ | indra |*
+> *pra 'dodhuvat | śmaśruṣu | prīṇānaḥ | yāhi | hari 'bhyāṃ | sutasya | pītiṃ ‖ 17 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O mighty Indra, rejoicing in the Trikadruka days, drink Soma; then, pleased, shaking it from your beard again and again, come with your two bay horses to drink the pressed Soma.*
+
+*(The grammatical tail is printed: the root धूञ् (*dhūñ*) in the sense of shaking, and the participle of a यङ्लुक् (*yaṅluk*) formation; no sūtra numbers.)*
+
+> हे शूर बलवन्निन्द्र उग्रेषूद्गूर्णेषु बहुस्तोत्रशस्त्रवत्सु त्रिकद्रुकेषु ज्योतिर्गौरायुरित्येतन्नामकेष्वाभिप्लविकेष्वहःसु [?] मन्दसानो हृष्यन् सोमं पाहि । पिब । ततः प्रीणानः सोमपानेन प्रीतो भवन् श्मश्रुषु लिप्तं सोमं प्रदोधुवत् ॥ धूञ् कम्पने । यङ्लुगन्तस्य शतरि रूपम् ॥ पुनःपुनर्धुन्वन् सुतस्याभिषुतस्य पीतिं पानमुद्दिश्य हरिभ्यामश्विभ्यां युक्तः सन् याहि । गच्छ ॥
+
+> *he śūra balavannindra ugreṣūdgūrṇeṣu bahustotraśastravatsu trikadrukeṣu jyotirgaurāyurityetannāmakeṣvābhiplavikeṣvahaḥsu [?] mandasāno hṛṣyan somaṃ pāhi | piba | tataḥ prīṇānaḥ somapānena prīto bhavan śmaśruṣu liptaṃ somaṃ pradodhuvat ‖ dhūñ kampane | yaṅlugantasya śatari rūpam ‖ punaḥpunardhunvan sutasyābhiṣutasya pītiṃ pānamuddiśya haribhyāmaśvibhyāṃ yuktaḥ san yāhi | gaccha ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- शूर (*śūra*)—O mighty one;
+- इन्द्र (*indra*)—O Indra;
+- उग्रेषु (*ugreṣu*)—performed (nerave­risalpaṭṭa) profoundly with the śastra-mantras;
+- त्रिकद्रुकेषु (*trikadrukeṣu*)—on the days of the Trikadruka;
+- मन्दसानः (*mandasānaḥ*)—being joyful;
+- सोमं (*somaṃ*)—the Soma juice;
+- पाहि (*pāhi*)—drink (afterwards);
+- प्रीणानः (*prīṇānaḥ*)—being pleased by it;
+- श्मश्रुषु (*śmaśruṣu*)—the hairs of the beard of the face;
+- प्रदोधुवत् (*pradodhuvat*)—shaking again and again;
+- सुतस्य (*sutasya*)—of the pressed juice;
+- पीतिं (*pītiṃ*)—for drinking;
+- हरिभ्यां (*haribhyāṃ*)—with your horses;
+- याहि (*yāhi*)—deign to come (printed "ದಯವಾಡು").
+
+---
+
+### Printed p. 622 (PDF 644)
+
+*(Header: "622", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11".)*
+
+**भावार्थ (Bhāvārtha)**
+
+O mighty Indra, on the days of the Trikadruka, profoundly performed with the śastra-mantras, drink the Soma juice, rejoicing; then, pleased by it, shaking the hairs of the beard again and again, come ("go") with your horses to the drinking of the pressed juice.
+
+**English Translation** *(as printed)*
+
+Indra, hero, exulting in the solemn Trikadruka rites, quaff the Soma juice, and repeatedly shaking it from your beard, repair, well pleased with your steeds, to the drinking of the effused libation.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**त्रिकद्रुकेषु (*trikadrukeṣu*)**—For this word Sāyaṇa has given the sense "in the first three days of the sacrifice called Abhiplava, named ज्योतिः (*jyotiḥ*), गौः (*gauḥ*), आयुः (*āyuḥ*)". Some also say that the word means the wooden vessel in which the Soma juice is placed. This word is always used in the plural. Because Soma-drinking goes on specially on these days, Indra is here prayed to come again and again at that time for the drinking of Soma.
+
+---
+
+#### Ṛk 18
+
+**॥ संहितापाठः ॥**
+
+> धिष्वा शवः शूर येन वृत्रमवाभिनद्दानुमौर्णवाभम् ।
+> अपावृणोज्ज्योतिरार्याय नि सव्यतः सादि दस्युरिन्द्र ॥ १८ ॥
+
+> *dhiṣvā śavaḥ śūra yena vṛtramavābhinaddānumaurṇavābham |*
+> *apāvṛṇojjyotirāryāya ni savyataḥ sādi dasyurindra ‖ 18 ‖*
+
+**॥ पदपाठः ॥**
+
+> धिष्व । शवः । शूर । येन । वृत्रं । अवऽअभिनत् । दानुं । और्णऽवाभं ।
+> अप । अवृणोः । ज्योतिः । आर्याय । नि । सव्यतः । सादि । दस्युः । इन्द्र ॥ १८ ॥
+
+> *dhiṣva | śavaḥ | śūra | yena | vṛtraṃ | ava 'abhinat | dānuṃ | aurṇa 'vābhaṃ |*
+> *apa | avṛṇoḥ | jyotiḥ | āryāya | ni | savyataḥ | sādi | dasyuḥ | indra ‖ 18 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O hero Indra, hold that strength by which you slew Vṛtra, son of Dānu, and opened the light for the Ārya.*
+
+*(The grammatical tail is printed: a remark on the lot-form of the root, the loss of the vikaraṇa by शपो लुक् (*śapo luk*) (the sūtra words "बहुलं छन्दसि" are given), and the alternative that the augment इट् (*iṭ*) comes because of the ārdhadhātuka character; no sūtra numbers; the first word of this remark is read पधातेर् [?].)*
+
+> शूर हे इन्द्र शवस्तादृशं बलं धिष्व । धारय ॥ पधातेर्लोटि [?] बहुलं छन्दसीति शपो लुक् । छन्दस्युभयथेति वा स आर्धधातुकत्वादिडागमः ॥ येन बलेन दानुं दानोः पुत्रं वृत्रमौर्णवाभम् । ऊर्णनाभिः कीटविशेषः और्णवाभ
+
+> *śūra he indra śavastādṛśaṃ balaṃ dhiṣva | dhāraya ‖ padhāterloṭi [?] bahulaṃ chandasīti śapo luk | chandasyubhayatheti vā sa ārdhadhātukatvādiḍāgamaḥ ‖ yena balena dānuṃ dānoḥ putraṃ vṛtramaurṇavābham | ūrṇanābhiḥ kīṭaviśeṣaḥ aurṇavābha*
+
+*(Ṛk 18 is left OPEN: the page ends in the middle of the bhāṣya, at the word "और्णवाभ…". The rest of the bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 622 (PDF 644). Sūkta 11: Ṛk 16 complete (printed English and Special Topics on barhis, Tai. Brā. 1-6-3.1, Ni. 8-9 twice, Ṛ. Saṃ. 10-110-4, पस्त्य Ni. 3-13, वाज Ni. 3-9). Ṛk 17 complete (Ṛk number ॥१७॥, trikadruka note). Ṛk 18 begun: Saṃhitā, Pada (॥१८॥) and the bhāṣya up to the word "और्णवाभ…" at the foot of p. 622; Ṛk 18 is left OPEN (bhāṣya continues, then Pratipadārtha etc.). Flags: references 1-6-3.1, 8-9 (first), 10-110-4, 3-13, 3-9 agree with the numeral file (no FILE DISAGREE); second Ni. 8-9 not in file, read as printed like the first; Ṛk numbers 17 and 18 and the running header p. 621 "A. 2 A. 6 V. 6" unzoomed. [?] places, all unzoomed: p. 620 Ṛk 10-110-4 "व्य" (vowel ु not seen); त्रय इमो (as printed); p. 621 आभिप्लविकेष्वहःसु; p. 622 पधातेर्लोटि (first word of the grammatical tail), the compound mark in अवऽअभिनत् and और्णऽवाभं.
