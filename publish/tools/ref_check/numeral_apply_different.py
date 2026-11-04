@@ -8,7 +8,8 @@ D2A = str.maketrans("०१२३४५६७८९", "0123456789"); A2D = str.m
 REF = re.compile(r"(\[?[०-९0-9]+\]?(?:[ ]?[-–.,][ ]?\[?[०-९0-9]+\]?)+)(\s*\[\?\])?")
 md, xl, log = sys.argv[1:4]   # optional 4th arg --parts-ok: also apply rows whose part count differs (user confirmed Nov 4)
 L = open(md, encoding="utf8").read().split("\n")
-rows = [x for x in list(openpyxl.load_workbook(xl, read_only=True).active.iter_rows(values_only=True))[1:] if x[7] == "DIFFERENT"]
+MINC = next((float(a.split("=")[1]) for a in sys.argv if a.startswith("--min-ctx=")), 0.0)   # only rows whose context score >= this
+rows = [x for x in list(openpyxl.load_workbook(xl, read_only=True).active.iter_rows(values_only=True))[1:] if x[7] == "DIFFERENT" and (x[9] or 0) >= MINC]
 def lev(a, b):
     p = list(range(len(b) + 1))
     for i, c in enumerate(a, 1):
