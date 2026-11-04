@@ -143,7 +143,11 @@ def main():
         hint=re.search(r'Rik (\d+)\.(\d+)',head)
         for m in idxs:
             ours=L[m][2:]
-            if any(ch in AC for ch in ours): continue
+            if any(ch in AC for ch in ours):      # already accented: only move the reference pointer along
+                skx=acc.canon(ours); bx=best_near(skx,ptr-1,ptr+10) if skx else None
+                if (bx is None or bx[0]<a.threshold) and skx and ptr==0: bx=best_near(skx,0,len(REF))
+                if bx and bx[0]>=a.threshold: ptr=bx[1]+1
+                continue
             sk=acc.canon(ours)
             if not sk: continue
             b=best_near(sk,ptr-1,ptr+10)
@@ -156,6 +160,55 @@ def main():
             if hint and REF[q][0][1:]!=(int(hint.group(1)),int(hint.group(2))): rep.append(('IDMISMATCH',m+1,rid,'header says Rik %s.%s'%hint.groups()))
             if acc.canon(ours)!=cr[q]: rep.append(('DIFF',m+1,rid,round(r,3)))
             L[m]='> '+new; ptr=q+1; rep.append(('OK',m+1,rid))
+    # second chance: our lines may be split differently from the reference (e.g. a 3-pada verse). Match runs of unmatched lines against whole verses.
+    if fail:
+        VER={}
+        for q,(rid,_) in enumerate(REF): VER.setdefault(rid,[]).append(q)
+        fail.sort(key=lambda x:x[0]); runs=[]
+        for it in fail:
+            if runs and it[0]==runs[-1][-1][0]+1: runs[-1].append(it)
+            else: runs.append([it])
+        left=[]
+        for run in runs:
+            ms=[x[0] for x in run]; ours=[L[m][2:] for m in ms]; sk=acc.canon(' '.join(ours)); done=False
+            q0=max(run,key=lambda x:x[2][0])[2][1] if run else 0   # position suggested by the best-matching line of the run
+            best=None
+            for q in range(max(0,q0-8),min(len(REF),q0+9)):
+                for k in (1,2,3):
+                    if q+k>len(REF): break
+                    r=difflib.SequenceMatcher(None,sk,''.join(cr[q:q+k]),autojunk=False).ratio()
+                    if best is None or r>best[0]: best=(r,q,k)
+            if best and best[0]>=a.threshold:
+                new='¶'.join(ours); new=acc.transfer(new,' '.join(REF[q][1] for q in range(best[1],best[1]+best[2]))); parts=new.split('¶')
+                if len(parts)==len(ours) and all(acc.strip_ac(pn)==o for pn,o in zip(parts,ours)):
+                    rid='.'.join(map(str,REF[best[1]][0]))
+                    for m,pn in zip(ms,parts): L[m]='> '+pn; rep.append(('OK_VERSE',m+1,rid,round(best[0],2)))
+                    if sk!=''.join(cr[best[1]:best[1]+best[2]]): rep.append(('DIFF',ms[0]+1,rid,round(best[0],3)))
+                    done=True
+            if not done: left+=run
+        # third chance: a short line (e.g. the last pada) that is only a part of a longer reference line: find the stretch of the reference it covers
+        left2=[]
+        for it in left:
+            m,ours,near=it; best=None
+            for q in range(max(0,near[1]-6),min(len(REF),near[1]+7)):
+                for k in (1,2):
+                    raw=' '.join(REF[q+i][1] for i in range(k) if q+i<len(REF)); st=acc.strip_ac(raw)
+                    mp=[i for i,ch in enumerate(raw) if ch not in AC and not (ch in '१३' and i+1<len(raw) and raw[i+1] in AC)]
+                    if len(mp)!=len(st): continue
+                    sm=difflib.SequenceMatcher(None,ours,st,autojunk=False); bl=[x for x in sm.get_matching_blocks() if x.size]
+                    if not bl: continue
+                    j0=bl[0].b; j1=bl[-1].b+bl[-1].size
+                    r=difflib.SequenceMatcher(None,ours,st[j0:j1],autojunk=False).ratio()
+                    if best is None or r>best[0]:
+                        e=mp[j1-1]+1
+                        while e<len(raw) and raw[e] in AC: e+=1
+                        best=(r,raw[mp[j0]:e],q)
+            if best and best[0]>=a.threshold:
+                new=acc.transfer(ours,best[1])
+                if acc.strip_ac(new)==ours: L[m]='> '+new; rep.append(('OK_PART',m+1,'.'.join(map(str,REF[best[2]][0])),round(best[0],2))); continue
+            left2.append(it)
+        left=left2
+        fail=left; rep=[r for r in rep if not (r[0] in('NOMATCH','ABORT') and r[1]-1 not in {x[0] for x in fail})]
     import collections; c=collections.Counter(x[0] for x in rep); print(f'Vol {a.vol}:',dict(c))
     api_ok=0
     if a.api and fail:
