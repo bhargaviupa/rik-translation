@@ -11,7 +11,7 @@ NUMTOK = re.compile(r"([०-९0-9\[\]]+(?:[-–.,][ ]?[०-९0-9\[\]]+)*)\s*\[
 DEV = re.compile(r"[ऀ-ॿ]")
 def parts(s): return re.findall(r"\d+", s.translate(D2A))
 ap = argparse.ArgumentParser(); ap.add_argument("--md", required=True); ap.add_argument("--num", required=True)
-ap.add_argument("--apply", action="store_true"); ap.add_argument("--log", default="numeral_exact.log.tsv")
+ap.add_argument("--apply", action="store_true"); ap.add_argument("--lo", type=int, default=-2); ap.add_argument("--hi", type=int, default=1); ap.add_argument("--log", default="numeral_exact.log.tsv")
 a = ap.parse_args()
 fp = collections.defaultdict(set)
 for r in list(openpyxl.load_workbook(a.num, read_only=True).active.iter_rows(values_only=True))[1:]:
@@ -21,7 +21,7 @@ for n, l in enumerate(lines, 1):
     m = re.match(r"#+\s*Page\s+\d+\s*\(PDF\s*(\d+)", l)
     if m: page = int(m.group(1))
     if page is None or "[?]" not in l or not DEV.search(l): continue
-    win = set().union(*(fp.get(p, set()) for p in range(page - 2, page + 2)))
+    win = set().union(*(fp.get(p, set()) for p in range(page + a.lo, page + a.hi + 1)))
     hits = [(i, mm) for i, mm in enumerate(NUMTOK.finditer(l)) if parts(mm.group(1)) and "-".join(parts(mm.group(1))) in win]
     if not hits: continue
     new = l
