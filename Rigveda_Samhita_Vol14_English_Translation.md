@@ -23372,4 +23372,139 @@ May we, (through) your (favour), Indra, be such as those are, who; desirous of y
 
 ---
 
-**Progress note:** Done through printed p. 613 (PDF 635). Sūkta 11: the Special Topics of Ṛk 12 are completed (ऋतया; धियं वनेम ऋतया सपन्तः; त्वे इन्द्राप्यभूम) on p. 611. Ṛk 13 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics: ऊती, अवस्यवः, शुष्मिन्तमं वीरवन्तं रयिं चाकनाम, अस्मे). Ṛk 14 is begun: Saṃhitā, Pada and bhāṣya are done; its Pratipadārtha, Bhāvārtha, printed English and Special Topics begin on p. 614 and Ṛk 14 is left OPEN. Flags: the numeral file had no rows for these pages, so no FILE DISAGREE; Ṛk numbers ॥१३॥ and ॥१४॥, the running headers of pp. 611–613 and the Western-digit reference "Ṛ. Saṃ. Part 10, pp. 143 and 673" are unzoomed. The Special Topics heading glyphs ऋतेयो are read as ऋतया, which also supports reading ऋतया (not ऋत्यया) in the Pada of Ṛk 12 (that earlier Pada [?] reading was left unchanged because earlier text is closed). [?] places, all unzoomed: यङ्लुगन्तस्य in the bhāṣya tail of Ṛk 13; the Pada compound marks (ऽ) in शुष्मिन्ऽतमं, वीरऽवन्तं, सऽजोषसः, अग्रऽनीतिं; दानभागायार्हतया (read the same in the bhāṣya and the Special Topics).
+### Printed p. 614 (PDF 636)
+
+*(Header: "614", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The page opens with the Pratipadārtha of Ṛk 14.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- इन्द्र (*indra*)—O Indra;
+- क्षयं (*kṣayaṃ*)—a house fit for dwelling;
+- रासि (*rāsi*)—give;
+- मित्रं (*mitraṃ*)—a friend;
+- अस्मे (*asme*)—to us;
+- रासि (*rāsi*)—give;
+- ये च (*ye ca*)—which Maruts;
+- सजोषसः (*sajoṣasaḥ*)—being together (united);
+- मन्दसानाः (*mandasānāḥ*)—being of joyful mind;
+- वायवः (*vāyavaḥ*)—going toward the sacrifice;
+- अग्रणीतिं (*agraṇītiṃ*)—the Soma brought forward in the front part (the Pratipadārtha prints the word with ण, अग्रणीतिं; the Saṃhitā, Pada and the bhāṣya on p. 616 print नी);
+- प्र पान्ति (*pra pānti*)—drink fully, such as these;
+- मारुतं (*mārutaṃ*)—belonging to the Marut deities;
+- शर्धः (*śardhaḥ*)—the strength in the form of a host (saṃghātātmaka);
+- नः (*naḥ*)—to us;
+- रासि (*rāsi*)—give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, give us a house fit for dwelling and friends fit to dwell together with us. And give us the strength, in the form of a host, of those Marut deities who, being united, of joyful mind, going toward the sacrifice, drink fully there the Soma juice brought forward in the front part.
+
+**English Translation** *(as printed)*
+
+Grant us a habitation ; grant us friends ; grant us, Indra, the strength of the Maruts : the winds, who, propitious and exulting, drink copiously of the first offering (of the Soma juice).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**क्षयं (*kṣayaṃ*)—क्षियन्ति निवसन्त्यत्रेति क्षयो गृहं (*kṣiyanti nivasantyatreti kṣayo gṛhaṃ*) ।** The word क्षय (*kṣaya*) is formed from the root क्षि (*kṣi*), "to dwell". A place to dwell in means a house, a home.
+
+**मित्रं (*mitraṃ*)—सखायं (*sakhāyaṃ*) ।** "A friend", or "a well-wisher". The word मित्र (*mitra*) is formed from the root ञिमिदा स्नेहने (*ñimidā snehane*) (bhvādi, ātmanepada). The chief mark that a mitra or friend must have is that each helps the other in time of need. On this point:
+
+> न स सखा यो न ददाति सख्ये सचाभुवे सचमानाय पित्वः ।
+
+> *na sa sakhā yo na dadāti sakhye sacābhuve sacamānāya pitvaḥ |*
+
+*(Ṛ. Saṃ. 10-117-4; the numerals are as in the numeral file.)* It is said thus in the Ṛgveda itself. It means: the man who gives nothing to his friend in time of need (who does not help him) is no friend; he is a deceit acting like a friend. Besides this:
+
+> ददाति प्रतिगृह्णाति गुह्यमाख्याति पृच्छति ।
+> भुङ्क्ते च भोजयत्येव षड्विधं मित्रलक्षणं ॥
+
+> *dadāti pratigṛhṇāti guhyamākhyāti pṛcchati |*
+> *bhuṅkte ca bhojayatyeva ṣaḍvidhaṃ mitralakṣaṇaṃ ‖*
+
+*(The Special Topics continue on p. 615.)*
+
+---
+
+### Printed p. 615 (PDF 637)
+
+*(Header: "A. 2 A. 6 V. 5 ]" as it looks, "Ṛgvedasaṃhitā", "615".)*
+
+The poet has thus described the qualities a friend must have. That is: a man who is a friend (a true friend) gives his friend the things he needs; he too accepts from him the things he needs; he tells him his secret; he too listens with faith to the secrets (secret matters) that he tells; he feeds his friend; he too takes food in his house. These six kinds are said to be the marks of friends. Indra is prayed to give such a well-wisher and friend.
+
+**मारुतं शर्धः (*mārutaṃ śardhaḥ*)—** It is a prayer that the collective strength of the Marut deities be given. Here the question is why, although all the deities have greater strength, only the strength of the Maruts is prayed for. The reason is this: the Marut deities are forty-nine in number. All of them are said to have the same form and the same strength. Therefore if the strength of these forty-nine Marut deities is added together, that collective strength becomes exceedingly great. Hence the prayer that such strength be given. In contexts where exceeding strength has to be spoken of, it is an established usage (rūḍhi) to compare it with the collective (combined) strength of the Marut deities, saying मारुतं शर्धः (*mārutaṃ śardhaḥ*). By the use of the expression मारुतं शर्धः (*mārutaṃ śardhaḥ*) the coming of the Marut deities is also indicated, say the bhāṣyakāra.
+
+**सजोषसः (*sajoṣasaḥ*)—सह प्रीयमाणाः । समानप्रीतियुक्ताः ऐकमत्यभाजः । (*saha prīyamāṇāḥ | samānaprītiyuktāḥ aikamatyabhājaḥ |*)** The deities, with a love for Indra equal to the love they bear among themselves, being united in agreement in order to conquer the Asuras, make Indra stand in front, that is, make him their leader, and win victory through Indra alone: this is the meaning. In the Nirukta the word सजोषसः (*sajoṣasaḥ*) is explained as "being united with". *(Ni. 8-8, as in the numeral file.)* Yāska:
+
+> आजुह्वान ईड्यो वन्द्यश्चायोह्यग्ने [?] वसुभिः सजोषाः ।
+> त्वं देवानामसि यह्व होता स एनन्यक्षेषितो [?] यजीयान् ॥
+
+> *ājuhvāna īḍyo vandyaścāyohyagne [?] vasubhiḥ sajoṣāḥ |*
+> *tvaṃ devānāmasi yahva hotā sa enanyakṣeṣito [?] yajīyān ‖*
+
+*(Ṛ. Saṃ. 10-110-3, as in the numeral file. Two words of the quoted Ṛk are doubtful in the print and marked [?].)* Having quoted this Ṛk, he explains the word सजोषाः (*sajoṣāḥ*) in it as सह जोषणः (*saha joṣaṇaḥ*), "having equal love".
+
+> आ रुद्रास इन्द्रवन्तस्सजोषसो हिरण्यरथाः सुवि॒ताय गन्तन ।
+> इयं वो अस्मत्प्रतिहर्यते मतिस्तृष्णजे न दिव उत्सा उदन्यवे ॥
+
+> *ā rudrāsa indravantassajoṣaso hiraṇyarathāḥ suvi̱tāya gantana |*
+> *iyaṃ vo asmatpratiharyate matistṛṣṇaje na diva utsā udanyave ‖*
+
+*(Ṛ. Saṃ. 4-3-2-11 as I read the print with hyphens; the numeral file gave "43-2-11". It is unzoomed.)* In this Ṛk the meaning is given as: इन्द्रेण सह जोषणाः सजोषसः परमैश्वर्येण नित्यमासेविताः (*indreṇa saha joṣaṇāḥ sajoṣasaḥ paramaiśvaryeṇa nityamāsevitāḥ*), "those who, together with Indra, are served constantly with supreme opulence".
+
+*(The Special Topics continue on p. 616.)*
+
+---
+
+### Printed p. 616 (PDF 638)
+
+*(Header: "616", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11".)*
+
+**वायुवः (*vāyuvaḥ*)—** This word is formed from the root वा गतिगन्धनयोः (*vā gatigandhanayoḥ*) (*vā gatigandhanayoḥ*), which has the sense of going; hence the meaning is "those who go". That is, the Marut deities who go toward the sacrificial ground are meant. Or, according to the saying वायुर्हि सोमस्याग्रपाता (*vāyurhi somasyāgrapātā*) ("Vāyu is the first drinker of the Soma"), since Vāyu drinks Soma first, the meaning may be taken, if one wishes, as "give him the greater strength obtained from that". Here, although वायवः (*vāyavaḥ*) is plural, it is used in the sense of honour (in a context that indicates reverence), and so a singular sense, "the strength of the god Vāyu", is what is intended.
+
+**अग्रनीतिं (*agranītiṃ*)—अग्रे नीयमानं सोमं (*agre nīyamānaṃ somaṃ*) ।** "The Soma juice that is brought to the front so that all can see, and placed before (the god)": this is the sense.
+
+---
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> व्यन्त्विन्नु येषु मन्दसानस्तृपत्सोमं पाहि द्रृह्यदिन्द्र [?] ।
+> अस्मान्त्सु पृत्स्वा तरुत्रावर्धयो द्यां बृहद्भिरर्कैः ॥ १५ ॥
+
+> *vyantvinnu yeṣu mandasānastṛpatsomaṃ pāhi drṛhyadindra [?] |*
+> *asmāntsu pṛtsvā tarutrāvardhayo dyāṃ bṛhadbhirarkaiḥ ‖ 15 ‖*
+
+**॥ पदपाठः ॥**
+
+> व्यन्तु । इत् । नु । येषु । मन्दसानः । तृपत् । सोमं । पाहि । द्रृह्यत् [?] । इन्द्र ।
+> अस्मान् । सु । पृत्ऽसु । आ । तरुत्र । अवर्धयः । द्यां । बृहत्ऽभिः । अर्कैः ॥ १५ ॥
+
+> *vyantu | it | nu | yeṣu | mandasānaḥ | tṛpat | somaṃ | pāhi | drṛhyat [?] | indra |*
+> *asmān | su | pṛt 'su | ā | tarutra | avardhayaḥ | dyāṃ | bṛhat 'bhiḥ | arkaiḥ ‖ 15 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, may the Maruts in whom you rejoice drink the Soma quickly; strengthening yourself, drink it, and with the Maruts exalt us and the sky.*
+
+*(The grammatical tail दृंहतेरिदं रूपं, "this is a form of the root दृंह", is given for द्रृह्यत् (*drṛhyat*); no sūtra numbers are printed.)*
+
+> हे इन्द्र येषु तव सहायभूतेषु मरुत्सु मन्दसानो माद्यन्भवसि [?] ते मरुतो नु क्षिप्रं व्यन्तु । सोमं भक्षयन्तु । इत् एवार्थे । द्रृह्यत् [?] ॥ दृंहतेरिदं रूपं ॥ आत्मानं दृढीकुर्वन् त्वं तृपत् तर्पयन्तमिमं सोमं पाहि । पिब । तरुत्र शत्रूणां हिंसक हे इन्द्र बृहद्भिर्बलवद्भिरर्कैरर्चनीयैर्मरुद्भिः सहितस्त्वं । आ इति चार्थे । तेनास्मान् द्यां च सु सुष्ठु [?] पृत्सु पशुपुत्रादिभिरस्मान् अस्मत्पालनेन [?] च दिवमवर्धयः । यद्वा येषु सोमेषु मन्दसानो मोदमानो भवसि ते सोमा व्यन्तु । त्वां गच्छन्तु । शेषं पूर्ववत् ॥
+
+> *he indra yeṣu tava sahāyabhūteṣu marutsu mandasāno mādyanbhavasi [?] te maruto nu kṣipraṃ vyantu | somaṃ bhakṣayantu | it evārthe | drṛhyat [?] ‖ dṛṃhateridaṃ rūpaṃ ‖ ātmānaṃ dṛḍhīkurvan tvaṃ tṛpat tarpayantamimaṃ somaṃ pāhi | piba | tarutra śatrūṇāṃ hiṃsaka he indra bṛhadbhirbalavadbhirarkairarcanīyairmarudbhiḥ sahitastvaṃ | ā iti cārthe | tenāsmān dyāṃ ca su suṣṭhu [?] pṛtsu paśuputrādibhirasmān asmatpālanena [?] ca divamavardhayaḥ | yadvā yeṣu someṣu mandasāno modamāno bhavasi te somā vyantu | tvāṃ gacchantu | śeṣaṃ pūrvavat ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*(Begun at the foot of p. 616; it runs on to p. 617.)*
+
+- इन्द्र (*indra*)—O Indra;
+- येषु (*yeṣu*)—(helpful to you) among which Maruts;
+- मन्दसानः (*mandasānaḥ*)—you are filled with joy;
+- नु (*nu*)—quickly;
+- व्यन्तु इत् (*vyantu it*)—having come, …
+
+*(Ṛk 15 is left OPEN: the Pratipadārtha breaks off at the end of p. 616; the Bhāvārtha, printed English and Special Topics follow.)*
+
+---
+
+**Progress note:** Done through printed p. 616 (PDF 638). Sūkta 11: Ṛk 14 complete (Pratipadārtha, Bhāvārtha, printed English, Special Topics: क्षयं, मित्रं with the Ṛ. Saṃ. 10-117-4 verse and the six-fold mark of a friend; मारुतं शर्धः; सजोषसः with Nirukta 8-8 and two Ṛk quotations; वायुवः; अग्रनीतिं). Ṛk 15 begun: Saṃhitā, Pada, bhāṣya and the start of the Pratipadārtha (through व्यन्तु इत्—"having come…") on p. 616; Ṛk 15 is left OPEN. Flags: references 10-117-4, 8-8 and 10-110-3 follow the numeral file and agree with the strips; the fourth reference (p. 615, Ṛ. Saṃ. 4-3-2-11) is read with hyphens, the file gave "43-2-11" (unzoomed); Ṛk number ॥१५॥ and the running headers unzoomed. [?] places, all unzoomed: p. 615 quoted Ṛk वन्द्यश्चायोह्यग्ने and एनन्यक्षेषितो; p. 616 द्रृह्यत् (दृह्यत्?) in Saṃhitā, Pada and bhāṣya; माद्यन्भवसि; सुष्ठु; अस्मत्पालनेन; also अग्रणीतिं (ण) in the p. 614 Pratipadārtha against अग्रनीतिं elsewhere. Pada compound marks in सऽजोषसः, अग्रऽनीतिं (p. 614) as before.
