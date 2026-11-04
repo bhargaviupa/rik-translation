@@ -22919,4 +22919,166 @@ Source printed after the verses: (ऋ. सं. (*ṛ. saṃ.*) 6-47-1, 2; agrees
 
 In such Ṛks the idea is described that the Soma drunk by Indra gave abundant help in the work of slaying Vṛtra.
 
----**Progress note:** Done through printed p. 604 (PDF 626). Sūkta 11: Ṛk 9 is complete (its Special Topics ended on p. 602 with the māyāvinam citations, RV 1-11-7, 3-34-6, 10-147-2 and 1-31-3). Ṛk 10 is complete through its Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English on p. 603. Its Special Topics on dānavasya, arorvīt…amānuṣaṃ and ni māyinaḥ…papivān (with RV 2-15-1, 2-19-2 and 6-47-1,2) end on p. 604 with the line "…varṇitavāgide". Ṛk 10 is left open for further Special Topics that may follow on p. 605. Flags: no FILE DISAGREE (1-11-7, 3-34-6, 10-147-2, 1-31-3, 1-32-9, 2-12-11, 4-30-7, 2-11-18, 10-120-6, 5-29-4, 5-32-1, 1-32, 2-15-1, 2-19-2 and 6-47-1,2 all agree with the file). Unzoomed: running headers on pp. 602–604; the Ṛk number ॥१०॥. [?] places: वृजिनान्त्सं and the vowel in दस्योर॰ (p. 602, RV 3-34-6); होतृवूर्ये॰/॰सघ्नोर्भार॰ (p. 602, RV 1-31-3); न्यपादयत् vs ನ್ಯಸಾದಯತ್ in the bhāṣya tail (p. 603); a smudged sign after ವೃತ್ರನ ಮೋಸ in the Bhāvārtha.
+---
+
+---
+
+### Printed p. 605 (PDF 627)
+
+*(Header: "A. 2 A. 6 V. 5" as it looks (unzoomed), "Ṛgvedasaṃhitā", "605". The Special Topics of Ṛk 10 had already ended on p. 604; p. 605 begins directly with Ṛk 11. Accent marks (the bars and underlines of the print) are not reproduced.)*
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> पिबा॑पि॒बेदि॑न्द्र शूर॒ सोमं॒ मन्द॑न्तु त्वा म॒न्दिनः॑ सु॒तासः॑ ।
+> पृ॒णन्त॑स्ते कु॒क्षी व॑र्धयन्त्वि॒त्था सु॒तः पौ॒र इन्द्र॑माव ॥११॥
+
+> *pibāpibedindra śūra somaṃ mandantu tvā mandinaḥ sutāsaḥ |*
+> *pṛṇantaste kukṣī vardhayantvitthā sutaḥ paura indramāva ‖11‖*
+
+**॥ पदपाठः ॥**
+
+> पिबऽपिब । इत् । इन्द्र । शूर । सोमं । मन्दन्तु । त्वा । मन्दिनः । सुतासः ।
+> पृणन्तः । ते । कुक्षी इति । वर्धयन्तु । इत्था । सुतः । पौरः । इन्द्रं । आव ॥ ११ ॥
+
+> *piba 'piba | it | indra | śūra | somaṃ | mandantu | tvā | mandinaḥ | sutāsaḥ |*
+> *pṛṇantaḥ | te | kukṣī iti | vardhayantu | itthā | sutaḥ | pauraḥ | indraṃ | āva ‖ 11 ‖*
+
+*(The small stroke after पिब in the Pada is read as the compound mark (ऽ).)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O hero Indra, drink; may the delighting pressed Soma juices please you and, filling your flanks, make you grow; may the belly-filling pressed Soma satisfy you.*
+
+> शूर बलवन् हे इन्द्र पिब पिबेत् । अभिषुतमिमं सोमं पिबैव । आदरार्थैषा वीप्सा । मन्दिनो मदकराः सुतास्तेऽभिषुताः सोमास्त्वा मन्दन्तु । त्वां मादयन्तु ॥ मदि स्तुत्यादिषु । व्यत्ययेन परस्मैपदं ॥ ते सोमास्ते तव कुक्षी उदरस्योभौ पार्श्वौ पृणन्तः पूरयन्तः सन्तस्त्वां वर्धयन्तु । इत्थानेन प्रकारेण पौर उदरपूरकः सुतोऽभिषुतः सोम इन्द्रं त्वामाव । तर्पयतु ॥ अवतेस्तर्पणार्थस्य लिट रूपं ॥
+
+> *śūra balavan he indra piba pibet | abhiṣutamimaṃ somaṃ pibaiva | ādarārthaiṣā vīpsā | mandino madakarāḥ sutāste 'bhiṣutāḥ somāstvā mandantu | tvāṃ mādayantu ‖ madi stutyādiṣu | vyatyayena parasmaipadaṃ ‖ te somāste tava kukṣī udarasyobhau pārśvau pṛṇantaḥ pūrayantaḥ santastvāṃ vardhayantu | itthānena prakāreṇa paura udarapūrakaḥ suto 'bhiṣutaḥ soma indraṃ tvāmāva | tarpayatu ‖ avatestarpaṇārthasya liṭa rūpaṃ ‖*
+
+*(Grammatical tail: it says that मन्दन्तु (from the root मदि, in the senses of praise etc.) has the parasmaipada by vyatyaya (interchange), and that आव is the Liṭ form of the root अव in the sense of satisfying. No sūtra numbers are printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- शूर (*śūra*)—powerful;
+- इन्द्र (*indra*)—O Indra;
+- सोमं (*somaṃ*)—the Soma juice;
+- पिबपिबेत् (*pibapibet*)—drink fully;
+- मन्दिनः (*mandinaḥ*)—the delight-giving;
+- सुतासः (*sutāsaḥ*)—the pressed (ones), the Soma juices;
+- त्वा (*tvā*)—you;
+- मन्दन्तु (*mandantu*)—may they satisfy (and) *(the word "ಮತ್ತು", "and", is printed in brackets here)*;
+- ते (*te*)—your;
+- कुक्षी (*kukṣī*)—the two flanks of the belly;
+- पृणन्तः (*pṛṇantaḥ*)—filling;
+- वर्धयन्तु (*vardhayantu*)—may they make (them) grow;
+- इत्था (*itthā*)—in this manner;
+- पौरः (*pauraḥ*)—the belly-filling;
+- सुतः (*sutaḥ*)—the pressed one, the Soma;
+- इन्द्रं (*indraṃ*)—you, who are the lord;
+- आव (*āva*)—may it satisfy.
+
+**भावार्थ (Bhāvārtha)**
+
+O valiant Indra, drink fully this offered Soma juice. May the delight-giving, pressed Soma juices satisfy you. And may they, filling the two flanks of your belly, make them grow. In this manner may the belly-filling, pressed Soma juice satisfy you, the lord *(no full stop is printed at the end)*
+
+---
+
+### Printed p. 606 (PDF 628)
+
+*(Header: "606", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed.)*
+
+**English Translation** *(as printed)*
+
+Drink, hero, Indra, drink the Soma : may the exhilarating juices delight you : may they, distending your flanks, augment (your prowess), and in this manner may the replenishing effused libation satisfy Indra· *(the stray dot after "Indra" is as printed)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the matter of Indra's Soma-drinking is stated. In the Ṛgveda, when the deities are invited to drink Soma, no other deity has been called as much as Indra. On the question of the deities' Soma-drinking—
+
+> माद्यन्तीव वै मध्यन्दिने [?] देवताः समेव [?] तृतीयसवने मादयन्ते ।
+
+> *mādyantīva vai madhyandine [?] devatāḥ sameva [?] tṛtīyasavane mādayante |*
+
+*(The reference printed after it is (ऐ. ब्रा. 28-3), "Ai. Brā."; agrees with the numeral file. Two words of the Sanskrit are read from the strip without zooming: मध्यन्दिने (printed as it looks, perhaps for a form of "midday") and समेव.)*
+
+That is, at the midday pressing (at noon) the deities drink Soma; and at the third pressing (in the evening) the deities, having drunk Soma abundantly, become intoxicated (become glad), it is said. That Indra should drink Soma, or that Indra is delighted by Soma-drinking (or was delighted), is described in the Ṛks ऋ. सं. (*ṛ. saṃ.*) 1-4-8; 1-32-23; 1-84-1; 2-15-1; 2-15-2 (these five agree with the numeral file); 2-19-1; 2-21-1; 3-36-3; 3-40-1 [?]; 3-42-1; 6-23-1, 5, 6; 6-[?]-1; [?]-29-4 (the digits of 3-40-1, of the number after "6-" in the next-to-last item, and the first digit of the last item are read from the strip; the file is garbled here and gives only "29-4" for the last); 7-22-1; 7-29-1; 8-3-1; 8-81-5, 6; 10-104-1 (these last five agree with the file), and so on.
+
+Source, printed here as a bold quotation (ऋ. सं. (*ṛ. saṃ.*) 1-104-9; agrees with the file):
+
+> अर्वाङेहि सोमकामं त्वाहुरयं सुतस्तस्य पिबा मदाय ।
+> उरुव्यचा जठर आ वृषस्व पितेव नः शृणुहि हूयमानः ॥
+
+> *arvāṅehi somakāmaṃ tvāhurayaṃ sutastasya pibā madāya |*
+> *uruvyacā jaṭhara ā vṛṣasva piteva naḥ śṛṇuhi hūyamānaḥ ‖*
+
+In this Ṛk it is said: O Indra, the wise say that the Soma juice is very dear to you. We have pressed this Soma juice and made it ready for you. Therefore come facing us and drink that Soma juice for your delight. Since you have limbs that extend widely, distend your belly and fill it with that juice. As a father listens to the words of his children, so you too listen to our call when we praise and invite you. Thus the extreme fondness of Indra for Soma-drinking is described. And—
+
+Next quotation:
+
+> इन्द्र इत्सोमपा एक इन्द्रः सुतपा विश्वायुः । अन्तर्देवान्मर्त्याꣳश्च ॥
+
+> *indra itsomapā eka indraḥ sutapā viśvāyuḥ | antardevānmartyām̐śca ‖*
+
+*(Reference printed: (ऋ. सं. 8-2-4); agrees with the file.)*
+
+In this Ṛk it is also said that among the deities and among men Indra alone is the one who drinks Soma to the utmost.
+
+---
+
+### Printed p. 607 (PDF 629)
+
+*(Header: "A. 2 A. 6 V. 5" as it looks (unzoomed), "Ṛgvedasaṃhitā", "607". The Special Topics of Ṛk 11 continue from p. 606.)*
+
+Two further quotations (references printed after them: ऋ. सं. (*ṛ. saṃ.*) 3-32-9 and 3-32-10; both agree with the file):
+
+> अद्रोघ [?] सत्यं तव तन्महित्वं सद्यो यज्जातो अपिबो ह सोमम् ।
+
+> *adrogha [?] satyaṃ tava tanmahitvaṃ sadyo yajjāto apibo ha somam |*
+
+> त्वं सद्यो अपिबो जात इन्द्र मदाय सोमं परमे व्योमन् ।
+
+> *tvaṃ sadyo apibo jāta indra madāya somaṃ parame vyoman |*
+
+In these Ṛks it is said: O Indra, you drank Soma as soon as you were born. Is not this your greatness?
+
+Next quotation (reference printed after it: ऋ. सं. (*ṛ. saṃ.*) 8-77-4; agrees with the file):
+
+> एकया प्रतिधापिबत्साकं सरांसि त्रिंशतम् । इन्द्रः सोमस्य काणुका ॥
+
+> *ekayā pratidhāpibatsākaṃ sarāṃsi triṃśatam | indraḥ somasya kāṇukā ‖*
+
+In this Ṛk it is said that Indra drank, at one draught, Soma juice filling thirty vessels. Stating the explanation (nirvacana) of this Ṛk, Yāska says—
+
+> तत्रैतद्याज्ञिका वेदयन्ते—त्रिंशदुक्थपात्राणि माध्यन्दिने सवन एकदेवतानि तान्येतस्मिन् काल एकेन प्रतिधानेन पिबन्ति तान्यत्र [?] सरांस्युच्यन्ते ॥
+
+> *tatraitadyājñikā vedayante—triṃśadukthapātrāṇi mādhyandine savana ekadevatāni tānyetasmin kāla ekena pratidhānena pibanti tānyatra [?] sarāṃsyucyante ‖*
+
+*(The first letter of the word read तान्यत्र is printed in a way that looks like ಶಾ, so it could be read शान्यत्र; read here as तान्यत्र with [?], unzoomed. Reference printed after it: (नि. 5-11), "Ni."; agrees with the file.)*
+
+Thus he has said. That is, the word सरांसि (सरांसि (*sarāṃsi*)) means the vessels of the uktha, and the meaning is that Indra drank Soma juice filling thirty vessels at the time of the midday pressing. In the Ṛks ऋ. सं. (*ṛ. saṃ.*) 6-17-11 (agrees with the file) and 8-7-10 [?] (second number read from the strip, not in the file) it is said that he drank Soma juice filling three vessels (त्रीणि सरांसि (त्रीणि सरांसि (*trīṇi sarāṃsi*)), "three vessels"). On many occasions the yajamānas, ṛtvijs and ṛṣis who perform sacrifices, when praying and inviting Indra to drink Soma, say—
+
+> धृषत्पिब कलशे सोममिन्द्र
+
+> *dhṛṣatpiba kalaśe somamindra*
+
+*(Reference printed: (ऋ. सं. 6-47-6); agrees with the file.)* "O Indra, drink fearlessly the Soma juice that is in this vessel";
+
+> ऋश्यो न तृष्यन्नवपानमा गहि पिबा सोमं वशा अनु
+
+> *ṛśyo na tṛṣyannavapānamā gahi pibā somaṃ vaśā anu*
+
+*(Reference printed: (ऋ. सं. 8-4-10); agrees with the file.)* "O Indra, as a thirsty antelope, tired from thirst, drinks water, so come quickly and drink Soma";
+
+> धन्वचरो न वंसगस्तृषाणश्चक्रमाणः [?] पिबतु दुग्धमंशुम्
+
+> *dhanvacaro na vaṃsagastṛṣāṇaścakramāṇaḥ [?] pibatu dugdhamaṃśum*
+
+*(No reference is printed here. The word read चक्रमाणः is doubtful (unzoomed).)* "O Indra, as a bull that has wandered in a waterless desert, worn out and exhausted by thirst, drinks water, so drink the Soma juice". With such similes they have invited Indra to drink Soma. Descriptions that the belly of Indra is as large as a lake (or as the ocean) and that Indra should fill it with Soma-drinking, and so on, are seen in the Ṛks ऋ. सं. (*ṛ. saṃ.*) 1-8-7; 1-104-9; 2-11-11; 2-14-10 [?]; 2-16-2 [?]; 3-35-6; 3-36-7, 8; 3-40-5; 3-42-1 [?]; 3-51-12; 8-12-23 [?]; 8-22-1; 8-17-5, 8 [?]; 8-67-7 [?]; 8-81-22, 23, 24; 10-28-2; 10-43-7; 10-104-2; and so on. (The numerals marked [?] are read from the strip without zooming where the numeral file is garbled; the others agree with the file.)
+
+The great delight that Indra himself felt from drinking Soma he has described in various ways in the sūkta ऋ. सं. (*ṛ. saṃ.*) 10-119 (read from the strip; not in the file)—
+
+*(The sentence ends with a dash at the end of p. 607; the quotation from that sūkta follows on p. 608.)*
+
+---
+
+**Progress note:** Done through printed p. 607 (PDF 629). Sūkta 11: Ṛk 10 was already complete (p. 605 begins directly with Ṛk 11). Ṛk 11 is complete through its Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha, Bhāvārtha and printed English (pp. 605–606). Its Special Topics (Soma-drinking of Indra: AB 28-3, RV 1-104-9, 8-2-4, 3-32-9/10, 8-77-4, Nirukta 5-11, 6-47-6, 8-4-10 and a bar-list) are left OPEN. They end on p. 607 with the sentence "…ṛ. saṃ. 10-119 sūktadalli nānāvidhavāgi tānē varṇisidānē—" and continue on p. 608. Flags: no FILE DISAGREE where the file had a clear value. The file was garbled or missing in several lists (pp. 606–607), where my own strip readings were used with [?]: 3-40-1, "6-?-1", "?-29-4", 8-7-10, 2-14-10, 2-16-2, 3-42-1, 8-12-23, 8-17-5,8, 8-67-7, and 10-119, all unzoomed. [?] Sanskrit places: मध्यन्दिने and समेव (AB quote, p. 606); अद्रोघ (p. 607); तान्यत्र vs शान्यत्र (Nirukta quote); चक्रमाणः (p. 607). The printed "(मत्तु)" in the Pratipadārtha is kept as printed. Unzoomed: running headers of pp. 605–607 (varga numeral read as 5), the Ṛk number ॥११॥. The file had no rows for p. 605.
