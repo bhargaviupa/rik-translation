@@ -25155,4 +25155,94 @@ Indra, the people of the Śūdra and other classes who serve the classes beginni
 
 ---
 
-**Progress note:** Done through printed p. 656 (PDF 679). The dispatcher's labels "printed 655/656/657" for PDF 677/678/679 are one too high; the headers read 654, 655, 656 (offset −23), and I headed the pages accordingly. The numeral file is shifted by one page against the dispatcher's labels: its rows "PDF 676 (634-637; 2-21)" belonged to PDF 677 and agree with my readings (Latin "634–637"; Nir. 2-21 for aśmā); its "PDF 679" row (Nir. 5-22, line 33) belongs to the next page (PDF 680), not written yet. Sūkta 12: Ṛk 3 is finished (Viśeṣaviṣayagaḷu completed on p. 654 with the Vājasaneyi quotation, Vala reference and the aśman/lightning discussion; p. 655 note on saṃvṛk samatsu; no grammar page). Ṛk 4 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off in point 2 (yaḥ dāsaṃ varṇaṃ adharaṃ guhā akaḥ) at "… ಅತಿನಿಕೃಷ್ಟರಾದ ದಸ್ಯುಜನರನ್ನು ಗುಹೆಯಲ್ಲಿ ಎಂದರೆ" — to continue on printed p. 657 (PDF 680). Flags: no FILE DISAGREE. Unzoomed: varga numeral 7 and sūkta numeral 12 in headers, Ṛk number 4. [?] places: "अत्यन्त-/अत्यन्ते" in the aśman passage (p. 654), "योद्धॄणाम्" (p. 655), "योऽर्योऽरेः" (p. 656 bhāṣya), the Pada word "अकरित्यकः" as printed, "वाकः" as printed.
+### Printed p. 657 (PDF 680)
+
+*(Header: "A. 2 A. 6. V. 7 ]", "Ṛgvedasaṃhitā", "657". The dispatcher's label "printed 658" is one too high: the header reads 657, so printed = PDF − 23 still holds. The varga numeral 7 is not zoomed. The numeral-file rows are again shifted by one page against the dispatcher's labels: the row labelled "PDF 680" (line 37, "4.100-3") belongs to PDF 681; the Nirukta reference 5-22 below was read from the strip and agrees with the row filed under "PDF 679". At the foot of the page the signature "[42]" and "Vol. 14." are printed.)*
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 4, point 2, continues from p. 656: "…the extremely base Dasyu people in a cave, that is…")* …in hidden places such as hell, he made them stay: this is the explanation of the bhāṣyakāra.
+
+Here a doubt arises. The bhāṣyakāra's explanation of the words दासं वर्णं (*dāsaṃ varṇaṃ*) as शूद्रादिकं (*śūdrādikaṃ*), "people of the Śūdra and other classes", does not seem quite fitting. For the Śūdras too are included among those of the fourfold order beginning with the Brāhmaṇa. That is, among the people of the fourfold order (Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra) the Śūdras have a place, even if it is the last one. They too, keeping to the rules of conduct of the fourfold order, can obtain welfare. That being so, merely because they belong to the lowest class, to put them into terrible places such as hell, though there is no fault in them, seems just neither to the gods nor to Indra. Therefore to explain the words दासं वर्णं (*dāsaṃ varṇaṃ*) here as शूद्रादिकं (*śūdrādikaṃ*) does not seem right. But if, as we have explained earlier for the words दास (*dāsa*) and दस्यु (*dasyu*), we say that they are the Dasyu people (wicked people), the former inhabitants of this country, or asuras, who are not Āryas, who do not perform sacrifices and the like, and who give trouble to the Āryas who praise the gods, the meaning fits well. And in this sentence the word गुहा (*guhā*) may be explained as inaccessible mountain caves, rather than as hell. Since war went on from time to time between the Āryas and the Dasyu people, it is reasonable to say that Indra defeated in battle these Dasyu people, the enemies of the Āryas, killed many of them, and drove off the survivors, so that they fled in confusion and hid in mountains and caves. Even now it is a matter known to all that the Bhillas, Gonds and other former inhabitants live uncivilized, like forest people, on the hills and in the mountain regions. In many places there are descriptions in plenty that Indra destroyed the towns and strongholds of the asuras or Dasyu people. In this connection Indra also has the significant name पुरंदर (*puraṃdara*) (Purandara), "destroyer of the towns of the enemies". Considering all these, it is reasonable to explain दासं वर्णं (*dāsaṃ varṇaṃ*) as the Dasyu people or asuras, and गुहा (*guhā*) as inaccessible mountains.
+
+*(Point 3.)* श्वघ्नीव यः जिगीवान् लक्षं आदत् अर्यः पुष्टानि (*śvaghnīva yaḥ jigīvān lakṣaṃ ādat aryaḥ puṣṭāni*)—For the word श्वघ्नीव (*śvaghnīva*) in this sentence Sāyaṇa says श्वघ्नीव श्वभिर्मृगान् हन्तीति श्वघ्नी व्याधः (*śvaghnīva śvabhirmṛgān hantīti śvaghnī vyādhaḥ*): he explains श्वघ्नी (*śvaghnī*) as a hunter who kills deer, and gives the sense that as such a hunter kills the deer that is his aim, so Indra conquered the enemies and took their abundant riches, wealth and the like. But Yāska has given for the word श्वघ्नी (*śvaghnī*) the explanation श्वघ्नी कितवो भवति स्वं हन्ति स्वं पुनराश्रितं भवति (*śvaghnī kitavo bhavati svaṃ hanti svaṃ punarāśritaṃ bhavati*) *(the first स्वं (*svaṃ*) is printed "ಸ್ಟಂ", read स्वं (*svaṃ*) [?])* (Nir. 5-22; read from the strip), that is, the meaning of the word श्वघ्नी (*śvaghnī*) is कितव (*kitava*). The word कितव (*kitava*) has the meanings cheat, deceiver, liar, gambler, and so on. Any of the meanings just mentioned can be used in the present sentence. That is, as a gambler defeats his opponent *(the sentence runs over to the next page: "ಸೋಲಿಸಿ")*
+
+---
+
+### Printed p. 658 (PDF 681)
+
+*(Header: "658", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12". The dispatcher's label "printed 659" is one too high. The sūkta numeral 12 and the Ṛk number 5 are not zoomed.)*
+
+*(The Viśeṣaviṣayagaḷu of Ṛk 4 continues from p. 657.)* …and robs him of the goods and the like that he has, so also it can be said that Indra conquered the enemies, overran their wealth and the like, and plundered them.
+
+*(A short rule is printed here, between Ṛk 4 and Ṛk 5.)*
+
+#### Ṛk 5
+
+*(Small caption "Saṃhitāpāṭha".)*
+
+**॥ संहितापाठः ॥**
+
+> यं स्मा॑ पृ॒च्छन्ति॒ कुह॒ सेति॑ घो॒रमु॒तेमा॑हु॒र्नैषो अ॒स्तीत्ये॑नम् ।
+> सो अ॒र्यः पु॒ष्टीर्विज॑ इ॒वा मि॑नाति॒ श्रद॑स्मै धत्त॒ स ज॑नास॒ इन्द्रः॑ ॥ ५ ॥
+
+> *yaṃ smā pṛcchanti kuha seti ghoramutemāhurnaiṣo astītyenam |*
+> *so aryaḥ puṣṭīrvija ivā mināti śradasmai dhatta sa janāsa indraḥ ‖ 5 ‖*
+
+*(Accent marks not reproduced. The print has "ಸ್ಮಾ" with a long sign in the Saṃhitā, while the Pada has "स्म". The Ṛk number 5 is not zoomed.)*
+
+**॥ पदपाठः ॥**
+
+> यं । स्म । पृच्छन्ति । कुह । सः । इति । घोरं । उत । ईं । आहुः । न । एषः । अस्ति ।
+> इति । एनं ।
+
+> *yaṃ | sma | pṛcchanti | kuha | saḥ | iti | ghoraṃ | uta | īṃ | āhuḥ | na | eṣaḥ | asti |*
+> *iti | enaṃ |*
+
+> सः । अर्यः । पुष्टीः । विजःऽइव । आ । मिनाति । श्रत् । अस्मै । धत्त । सः । जनासः ।
+> इन्द्रः ॥ ५ ॥
+
+> *saḥ | aryaḥ | puṣṭīḥ | vijaḥ 'iva | ā | mināti | śrat | asmai | dhatta | saḥ | janāsaḥ |*
+> *indraḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: people ask where the terrible Indra is, some say he is not; like a disturber he harms the enemy's cattle and horses; so have faith in him.*
+
+*(Grammatical tail only characterized, no sūtra numbers printed: on सेति (*seti*) the rule on the dropping of सः (*saḥ*) before a vowel when it fills the verse-foot, with guṇa after the loss; on मिनाति (*mināti*) the root मीञ् (*mīñ*) [?] "to injure", with the shortening of the vowel "in the Veda" by a rule on मीनाति (*mīnāti*).)*
+
+> अपश्यन्तो जना घोरं शत्रूणां घातकं यं पृच्छन्ति स्म कुह सेति । स इन्द्रः कुत्र वर्तत इति ॥ सेति । सोऽचि लोपे चेत्पादपूरणमिति सोर्लोपे गुणः ॥
+> न क्वचिदसौ तिष्ठतीति मन्यमाना जना एनमिन्द्रमाहुः एष इन्द्रो नास्तीति । तथा च मन्त्रैर्नेन्द्रो अस्तीति नेम उ त्व आह । ८-१००-३ । इति । ईमिति पूरणः । स इन्द्रो विज इव । इवशब्द एवार्थे । उद्वेजक एव सन् अर्योऽरेः सम्बन्धीनि पुष्टीः पोषकाणि गवाश्वादीनि धनान्यामिनाति । सर्वतो हिनस्ति ॥ मीञ् हिंसायां । मीनातेर्निगम इति ह्रस्वः ॥
+> तस्मात् श्रदस्मै इन्द्राय धत्त । स इन्द्रोऽस्तीति विश्वासमात्रं कुरुते । यद्यप्यसौ विशेषतोऽस्माभिर्न दृश्यते तथापि अस्तीति विश्वासं कुरुते । एवं निर्धारणमहिम्नोपेतः स इन्द्रो नाहमिति ॥
+
+> *apaśyanto janā ghoraṃ śatrūṇāṃ ghātakaṃ yaṃ pṛcchanti sma kuha seti | sa indraḥ kutra vartata iti ‖ seti | so 'ci lope cetpādapūraṇamiti sorlope guṇaḥ ‖*
+> *na kvacidasau tiṣṭhatīti manyamānā janā enamindramāhuḥ eṣa indro nāstīti | tathā ca mantrairnendro astīti nema u tva āha | 8-100-3 | iti | īmiti pūraṇaḥ | sa indro vija iva | ivaśabda evārthe | udvejaka eva san aryo 'reḥ sambandhīni puṣṭīḥ poṣakāṇi gavāśvādīni dhanānyāmināti | sarvato hinasti ‖ mīñ hiṃsāyāṃ | mīnāternigama iti hrasvaḥ ‖*
+> *tasmāt śradasmai indrāya dhatta | sa indro 'stīti viśvāsamātraṃ kurute | yadyapyasau viśeṣato 'smābhirna dṛśyate tathāpi astīti viśvāsaṃ kurute | evaṃ nirdhāraṇamahimnopetaḥ sa indro nāhamiti ‖*
+
+*(Doubtful places, unzoomed: "अपश्यन्तो" (the print seems to show an extra vowel sign after प) [?]; "श्रदस्मै" printed with a sign that may be ā or ai [?]; "मीञ्" [?] (print seems to show ज्); "विश्वासमात्रं" across the line break [?]; "निर्धारण-" [?]; the last words "स इन्द्रो नाहमिति" as printed [?]. In the reference "८-१००-३" the first digit looks like 8 to me, but the numeral file reads "4.100-3": FILE DISAGREE, my reading kept with [?]; the file's own row for the next page reads "8-100-4", which makes 8 likely. The Sanskrit of this reference is mine to give no gloss: "nema u tva āha" is quoted from the mantra. Note: in this print the plain letter *ma* often looks like *mu*; I read नेम (*nema*), मन्यमाना (*manyamānā*), निगम (*nigama*) accordingly.)*
+
+---
+
+### Printed p. 659 (PDF 682)
+
+*(Header: "A. 2 A. 6. V. 7 ]", "Ṛgvedasaṃhitā", "659". The dispatcher's label "printed 660" is one too high. The numeral-file rows labelled "PDF 682" (Tai. Br. 1-4-1, 2; 8-100-4) do not occur on this page: they belong to the next page, PDF 683.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—that Indra indeed. कुह स्म इति (*kuha sma iti*)—saying "where is he". घोरं (*ghoraṃ*)—terrible to the enemy. यं (*yaṃ*)—whom (in regard to whom). पृच्छन्ति (*pṛcchanti*)—they ask. एनं (*enaṃ*)—in regard to such an Indra. एषः (*eṣaḥ*)—he. न अस्ति इति (*na asti iti*)—"he is not in any one place". आहुः (*āhuḥ*)—(the wise) say. सः (*saḥ*)—that same Indra. विज इव (*vija iva*)—as a disturber. अर्यः (*aryaḥ*)—belonging to the enemy. पुष्टीः (*puṣṭīḥ*)—and nourishing, cows, horses and the like. आ मिनाति (*ā mināti*)—he injures all around. जनासः (*janāsaḥ*)—O people. सः (*saḥ*)—he who has such great qualities. इन्द्रः (*indraḥ*)—Indra. अस्मै (*asmai*)—in regard to this Indra. श्रद्धत्त (*śraddhatta*) (as printed)—have faith.
+
+**भावार्थ (Bhāvārtha)**
+
+About him, Indra, whom they ask "Where is he?", terrible to the enemy, the wise say of that Indra that he is not in any one place. That same Indra, as a disturber, harms all around the cows, horses and the like that belong to the enemy and nourish him. O people, have faith in Indra, who has such great qualities.
+
+**English Translation** *(as printed)*
+
+He, whom, terrible, they ask for, (saying), Where is he? or, verily, they say of him, he is not (in any one place); but who, inflicting (chastisement), destroys the cherished (treasures) of the enemy: in him have faith: for he, men, is Indra.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 5)*
+
+In this Ṛk a special meaning is indicated. Since Indra, unlike the deities such as Agni, is not visible to the eyes of men, the question is put: "Where is that terrible and mighty one called Indra?" Even if some say that there is no such being as Indra, since the wonderful deeds that Indra performs and the slaying of the enemies are before our eyes, the ṛṣi describes: have firm faith that the deity called Indra does exist.
+
+यं स्म पृच्छन्ति कुह सः इति घोरं (*yaṃ sma pṛcchanti kuha saḥ iti ghoraṃ*)—People ask where that Indra is who is the slayer of the enemies. The deities such as Agni and Sūrya appear to us directly; there is no reason for us to have doubt about their existence. But about Indra they say only that there is one deity endowed with great majesty. That Indra is not visible to our eyes; therefore many ask where he is. And, *(the sentence runs over to the next page: "ಮತ್ತು,")*
+
+---
+
+**Progress note:** Done through printed p. 659 (PDF 682); the dispatcher's labels "printed 658/659/660" for PDF 680/681/682 are one too high, the headers read 657, 658, 659 (offset −23 holds). The numeral-file rows are again shifted by one page: the row "PDF 680" (4.100-3) belongs to PDF 681, and the rows "PDF 682" (Tai. Br. 1-4-1, 2 and 8-100-4) belong to the next page (PDF 683), not yet written. Sūkta 12: Ṛk 4's Viśeṣaviṣayagaḷu is finished (point 2 completed on p. 657 with the Śūdra/Dasyu discussion, point 3 on śvaghnī with Yāska's kitava, Nir. 5-22 read from the strip, finished at the top of p. 658). Ṛk 5 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is broken off after the second paragraph (⟦यं स्म पृच्छन्ति कुह सः इति घोरं⟧) at "… ಅವನೆಲ್ಲಿರುವನು ಎಂದು ಅನೇಕರು ಪ್ರಶ್ನೆಮಾಡುವರು. ಮತ್ತು," — to continue on printed p. 660 (PDF 683). Flags: FILE DISAGREE on the bhāṣya reference "८-१००-३" (file: 4.100-3; my reading 8 kept, [?]). Unzoomed: varga numeral 7, sūkta numeral 12, Ṛk number 5. [?] places: "अपश्यन्तो", "श्रदस्मै" (ā or ai), "मीञ्", "विश्वासमात्रं", "निर्धारण-", "स इन्द्रो नाहमिति", the first "स्वं" in Yāska's sentence (printed "ಸ्ಟಂ").
