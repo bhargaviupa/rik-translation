@@ -65,11 +65,21 @@ def main():
     ap.add_argument("--page", type=int)
     ap.add_argument("--from-line", type=int, default=0, help="only md lines >= this (e.g. start of a Sukta)")
     ap.add_argument("--to-line", type=int, default=10**9)
+    ap.add_argument("--sukta", type=int, help="only this Sukta (found from the '## Sūkta N' headings); replaces --from-line/--to-line")
     ap.add_argument("--scan-all", action="store_true", help="also lines without [?] (to test matching/disagreements)")
     ap.add_argument("--dry-run", action="store_true", help="matching only, no API calls")
     ap.add_argument("--model", default="claude-sonnet-5-5")
     a = ap.parse_args()
 
+    if a.sukta:
+        heads = [(i, int(m.group(1))) for i, l in enumerate(Path(a.md).read_text(encoding="utf8").split("\n"), 1)
+                 if (m := re.match(r"##\s+S[uū]kta\s+(\d+)", l))]
+        pos = [i for i, n in heads if n == a.sukta]
+        if not pos: sys.exit(f"No heading for Sukta {a.sukta} in {a.md}. Headings found: {[n for _, n in heads]}")
+        a.from_line = pos[0]
+        later = [i for i, n in heads if i > pos[0]]
+        a.to_line = (later[0] - 1) if later else 10**9
+        print(f"Sukta {a.sukta}: md lines {a.from_line}-{a.to_line if later else 'end'}")
     raw, rf, ridx = load_ref(a.ref)
     client = None
     if not a.dry_run:
