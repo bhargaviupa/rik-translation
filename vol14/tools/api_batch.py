@@ -38,10 +38,14 @@ def main():
         if any(p in (223,335) for p in pages): print('duplicate page in range; handle by hand',pages); return 2
         if spent()>=a.budget: print('budget reached',spent()); return 3
         user=[]; 
-        out=sh(f'python3 vol14/tools/numerals_for.py {" ".join(map(str,pages))}').stdout
+        r0=sh(f'{sys.executable} vol14/tools/numerals_for.py {" ".join(map(str,pages))}')
+        if r0.returncode: print('STOP: numerals_for.py failed:\n',r0.stderr[-600:]); return 8
+        out=r0.stdout
         for p in pages:
-            r=sh(f'python3 vol14/tools/page.py {p} /tmp/api_pg_{p}').stdout.split('\n')
-            fs=[l.split()[0] for l in r if l.strip()]
+            rp=sh(f'{sys.executable} vol14/tools/page.py {p} /tmp/api_pg_{p}')
+            fs=[l.split()[0] for l in rp.stdout.split('\n') if l.strip()]
+            if rp.returncode or not fs or not all(os.path.exists(x) for x in fs):
+                print(f'STOP: could not render PDF page {p}. Error:\n',rp.stderr[-800:]); return 9
             for k,f in enumerate(fs):
                 user.append({'type':'text','text':f'PDF page {p} (printed {printed(p)}), strip {k+1} of {len(fs)}:'})
                 user.append({'type':'image','source':{'type':'base64','media_type':'image/png','data':base64.b64encode(open(f,'rb').read()).decode()}})
