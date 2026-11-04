@@ -36,10 +36,12 @@ def read_ref(path):
     raw=open(path,encoding='utf8').read()
     if path.lower().endswith(('.html','.htm')) or re.search(r'<(html|body|div|p)\b',raw[:2000],re.I):
         p=_T(); p.feed(raw); raw=''.join(p.out)
+    raw=raw.replace('\ue003','ः').replace('\ue009','॒').replace('\ue007','॑')   # private-use glyphs of the source font (visarga; anudatta + svarita after the digit 1/3 notation)
     lines=[re.sub(r'\s+',' ',l.replace(' ',' ')).strip() for l in raw.split('\n')]
     rik=[];cur=[]
     for l in lines:
-        if not l or l.startswith('#'): continue
+        l=l.lstrip('\ufeff')
+        if not l or l.startswith('#') or not re.search('[\u0900-\u097F]',l) or 'मण्डलं' in l: continue   # skip title/menu lines
         t=l.translate(DEVD); m=IDRE.search(t)
         if m and ('॥' in l or '||' in l or len(l)>len(m.group(0))+8):
             body=re.sub(r'[॥|\s]*$','',l[:m.start()]).strip()
