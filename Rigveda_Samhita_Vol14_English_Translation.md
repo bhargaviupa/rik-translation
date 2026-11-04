@@ -23951,4 +23951,108 @@ In this Ṛk the ṛṣi praises Indra, saying that he has killed Viśvarūpa, t
 
 ---
 
-**Progress note:** Done through printed p. 625 (PDF 647). Sūkta 11: Ṛk 18 complete (rest of bhāṣya, Pratipadārtha, Bhāvārtha, printed English with [sic] "aset side", Special Topics on दानु and और्णवाभ; its Special Topics continue on p. 624). Ṛk 19 given in full (Saṃhitā, Pada ॥१९॥, bhāṣya with grammatical tail, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 19 is left OPEN: the Special Topics on Trita break off mid-sentence at the foot of p. 625 ("In the Taittirīya Saṃhitā he is one who gives long life…"), to be continued on p. 626. References agree with the numeral file (7-52-1, 8-60-4, 5-61-10, 1-131-1 and 19-56-4; Tai. printed 2-5-1, file 2.51), no FILE DISAGREE. Unzoomed: Ṛk number ॥१९॥, running headers (A. 2 A. 6 V. 6; Sū. 11), "Part 8" (printed ಲ), Part 5 p. 230, pp. 443 and 473. [?] places: p. 623 ततस्तमोरूपस्य; p. 624 तवोतिभिः, दस्यूनुपक्षपयि-त्वान्, तॄ (धातु); accent marks not reproduced in Ṛk 19.
+---
+
+### Printed p. 626 (PDF 648)
+
+*(Header: "626", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11"; the Maṇḍala numeral, the Sūkta number and the other header numerals were not zoomed. Ṛk 19, Special Topics, continues from p. 625. The page begins with "ಎಂದಿದೆ (…)", which completes the sentence about Trita at the foot of p. 625. The numeral file agrees with my reading of the references on this page.)*
+
+…is said (Tai. Saṃ. 1-8-10-2). He is the preparer of the Soma juice that bestows immortality; that is, Trita is one of the three deities named Ekata, Dvita and Trita; all three are sons of Agni; and that Trita arose from water is stated in Brāhmaṇas such as Śa. Brā. 1-2-3-1, 2 and Tai. Brā. 3-2-8-10, 11. (Printed "ಶ. ಬ್ರಾ."; the numeral file reads "ಶೆ. ಬ್ರಾ." The abbreviation is read here as Śa. Brā. = Śatapatha Brāhmaṇa.)
+
+As stated in the Ṛgveda, Indra and Trita do one and the same deed (the slaughter of Rākṣasas) in 3–4 passages. In one place Indra is the impeller of Trita. In another place it is said that Indra himself is encouraged by Trita. In two places Indra works for Trita. As stated in this Ṛk and in the Ṛk that follows, Indra has destroyed, for Trita, the one called Viśvarūpa and also Arbuda. Trita seeks Agni; he kindles Agni in heaven; Agni dwells in human houses in exchange (ಬದಲು; sense not certain) [?]; his dwelling-place is hidden very far away; Soma is also there. Indra drinks Soma, but Trita prepares the Soma. This is the difference between Indra and Trita.
+
+From the points stated above, if Trita is a lightning deity, then it may be said that Agni is a form (of Trita) in the atmosphere; like the deities Agni, Vāyu, Indra and Sūrya he is a middle (atmospheric) deity. But since all the works of this deity have been done by Indra himself, he is a subordinate deity in the Ṛgveda. It may be that the connection between Trita and Soma has been stated because, in the form of lightning, he brought Soma from heaven to the earth. Since the grounds are not many, each scholar has formed some opinion of his own about him. To mention only a few: the scholar Roth says he is a deity of water and wind; Hillbrandt (Hillbrandt) says he is a deity of the blazing (kindled) sky; Perry (Perry) says he is a deity of the storm-wind. Another scholar, Pischel (Pischel), says that first he was a deity of the sea and water, afterwards a physician among men, and thereafter obtained godhood. Hardy (Hardy) says he is a moon deity.
+
+In the present Ṛk, because Trita has the friendly feeling of Indra, it is said that for that reason Indra killed Viśvarūpa, the son of Tvaṣṭṛ.
+
+**आर्येण दस्यून् (*āryeṇa dasyūn*)**—An explanation of the meaning of the word दस्यु (*dasyu*) and other matters bearing on the Dasyu question we have set out in pp. 580–582 of this volume (printed "580–582ನೇ ಪುಟಗಳಲ್ಲಿ").
+
+**विश्वरूपं (*viśvarūpaṃ*)**—The matter of Indra's killing Viśvarūpa is stated in the opening part of the fifth prapāṭhaka of the second kāṇḍa of the Taittirīya Saṃhitā. In the Ṛgveda also this matter is (stated)—
+
+*(The sentence ends at the foot of the page with a hyphen, "ಈ ವಿಷಯವಾಗಿ-", and continues on p. 627.)*
+
+---
+
+### Printed p. 627 (PDF 649)
+
+*(Header: "[A. 2 A. 6 V. 6" as it looks, "Ṛgvedasaṃhitā", "627"; header numerals not zoomed. The numeral file has rows for this page (10-8-9; 10-8-7, 8; 2-5-1-1), and they agree with my reading.)*
+
+*Gloss (mine, from the Kannada that follows the Ṛk): Indra cut off Viśvarūpa's three heads. The reference is printed "Ṛ. Saṃ. 10-8-9". In the first line the word after उदिनक्षन्त (*udinakṣanta*) is read मोजो (*mojo*) with some doubt [?].*
+
+> भूरीदिन्द्र उदिनक्षन्तमोजोऽवाभिनत्सत्पतिर्मन्यमानम् [?] ।
+> त्वाष्ट्रस्य चिद्विश्वरूपस्य गोनामाचक्राणस्त्रीणि शीर्षा परा वर्क् ॥
+
+> *bhūrīdindra udinakṣantamojo 'vābhinatsatpatirmanyamānam [?] |*
+> *tvāṣṭrasya cidviśvarūpasya gonāmācakrāṇastrīṇi śīrṣā parā vark ‖*
+
+(ऋ. सं. १०-८-९)
+
+*(Printed reference "ಋ. ಸಂ. ೧೦-ಲ-೯" = Ṛ. Saṃ. 10-8-9.)*
+
+In this Ṛk it is said that Indra cut off the three heads of the one called Viśvarūpa, the son of Tvaṣṭṛ. That Indra did this deed for Trita, and that Trita helped Indra in this matter, is said in the 7th Ṛk of the same sūkta (printed "ಒನೆಯ", read as 7th, not zoomed)—
+
+*Gloss (mine and tentative): Trita, seeking the (friendly) alliance, chose the plan; allied with Indra, he fought against the Tvaṣṭṛ-born three-headed one, and Trita released the cows (this is the sense of the Kannada that follows).*
+
+> अस्य त्रितः क्रतुना वव्रे अन्तरिच्छन् धीतिं पितुरेवैः परस्य ।
+> सचस्यमानः पित्रोरुपस्थे जामि ब्रुवाण आयुधानि वेति ।
+> स पित्र्याण्यायुधानि विद्वानिन्द्रेषित आप्त्यो अभ्ययुध्यत् ।
+> त्रिशीर्षाणं सप्तरश्मिं जघन्वान् त्वाष्ट्रस्य चिन्निः ससृजे त्रितो गाः ॥
+
+> *asya tritaḥ kratunā vavre antaricchan dhītiṃ piturevaiḥ parasya |*
+> *sacasyamānaḥ pitrorupasthe jāmi bruvāṇa āyudhāni veti |*
+> *sa pitryāṇyāyudhāni vidvānindreṣita āptyo abhyayudhyat |*
+> *triśīrṣāṇaṃ saptaraśmiṃ jaghanvān tvāṣṭrasya cinniḥ sasṛje trito gāḥ ‖*
+
+(ऋ. सं. १०-८-७, ८)
+
+*(Printed reference "ಋ. ಸಂ. ೧೦-ಲ-೭, ಲ" = Ṛ. Saṃ. 10-8-7, 8.)*
+
+In the commentary on these Ṛks Sāyaṇa has told a story: Indra asked for Trita's help to kill Viśvarūpa, the three-headed son of Tvaṣṭṛ. To that, Trita, in order to increase his own strength, asked as a boon that he should be given a share of the oblation (havirbhāga) in sacrifices. Indra agreed to it and gave him water for washing the hands and a share of the sacrifice. Afterwards Trita, equipped with the weapons that belonged to his father, and impelled by Indra, fought with Viśvarūpa the son of Tvaṣṭṛ, struck him hard with his weapons and made him swoon. Afterwards Indra cut off the three heads of that Viśvarūpa; this is stated in the Ṛks above.
+
+The same matter is stated at length in the Taittirīya Saṃhitā (Tai. Saṃ. 2-5-1-1). That also is set out here with its meaning—
+
+*(The passage is printed in bold type; the word-ends सोमपानꣳ (*somapānam̐*) and अन्नादनꣳ (*annādanam̐*) are printed with the Vedic ग्ं sign.)*
+
+> विश्वरूपो वै त्वाष्ट्रः पुरोहितो देवानामासीत् स्वस्रीयोऽसुराणां तस्य त्रीणि शीर्षाण्यासन्सोमपानꣳ सुरापानमन्नादनꣳ स प्रत्यक्षं देवेभ्यो भागमवदत् परोक्षमसुरेभ्यः ॥
+
+> *viśvarūpo vai tvāṣṭraḥ purohito devānāmāsīt svasrīyo 'surāṇāṃ tasya trīṇi śīrṣāṇyāsansomapānam̐ surāpānamannādanam̐ sa pratyakṣaṃ devebhyo bhāgamavadat parokṣamasurebhyaḥ ‖*
+
+In former times Viśvarūpa, the son of Tvaṣṭṛ, was the purohita (priest) of the gods. As he was the son of the Asuras' sister, he had regard (ಅಭಿಮಾನ) among the Asuras also. This Viśvarūpa had three heads (śirassu). With one of those three heads he used to drink Soma, with another he used to drink surā (liquor), and with the third he used to eat food. While this was so, this Viśvarūpa used to tell everyone, in the sacrifice, that he was procuring for the gods a share of the oblation; but secretly, so that no one knew, he used to help the Asuras.
+
+*(p. 628 continues)*
+
+---
+
+### Printed p. 628 (PDF 650)
+
+*(Header: "628", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11"; header numerals not zoomed. The numeral file has no rows for this page. The Taittirīya passage continues from p. 627; the sandhi and word-forms below are as printed, with the doubtful places marked.)*
+
+> सर्वस्मै वै प्रत्यक्षं भागं वदन्ति यस्मा एव परोक्षं वदन्ति तस्य भाग उदित [?] । तस्मादिन्द्रोऽबिभेदीदृज् [?] वै राष्ट्रं विपर्यावर्तयतीति तस्य वज्रमादाय [?] शीर्षाण्यच्छिनत् ॥
+
+> *sarvasmai vai pratyakṣaṃ bhāgaṃ vadanti yasmā eva parokṣaṃ vadanti tasya bhāga udita [?] | tasmādindro 'bibhedīdṛj [?] vai rāṣṭraṃ viparyāvartayatīti tasya vajramādāya [?] śīrṣāṇyacchinat ‖*
+
+*(Doubtful: उदित (*udita*) is printed "ಉದಿತ." with a full stop; ईदृज् (*īdṛj*) is printed "ಇದೃಜ್"-like; वज्रमादाय (*vajramādāya*) is printed "ವಜ್ರ-ಹೂದಾಯ" with a hyphen at the line-end, where the letter after वज्र (*vajra*) looks like ಹೂ/ಮೂ, probably मा (*mā*) with the printed hook; the word is given as read, with [?].)*
+
+People give their word openly, before everyone, that they will give a share. But those who carry out that given word are very few. When one gives his word secretly (in private) in a trustworthy manner that he will give a share, that promise they keep without fail. Therefore Indra, seeing Viśvarūpa's secret arrangement, was afraid. Fearing "he will become hostile to me and bring the kingdom (rāṣṭra) under the sway of others (the Asuras)", he took his vajra weapon and cut off the three heads of that Viśvarūpa.
+
+> यत्सोमपानमासीत्स कपिञ्जलोऽभवद्यत्सुरापानꣳ स कलविङ्को यदन्नादनꣳ स तित्तिरिस्तस्याञ्जलिना ब्रह्महत्यामुपागृह्णात्ताꣳ संवत्सरमबिभस्तं भूतान्यभ्यक्रोशन् ब्रह्महन्निति ॥
+
+> *yatsomapānamāsītsa kapiñjalo 'bhavadyatsurāpānam̐ sa kalaviṅko yadannādanam̐ sa tittiristasyāñjalinā brahmahatyāmupāgṛhṇāttām̐ saṃvatsaramabibhastaṃ bhūtānyabhyakrośan brahmahanniti ‖*
+
+Then, of the three heads cut off by Indra, the head that drank Soma became the bird called kapiñjala (hazecock); the second head, which drank surā, became the kalaviṅka, that is, the sparrow (printed "ಗುಬ್ಬಚ್ಚಿ", English "sparrow"); the third head, which ate food, became the bird called tittiri (partridge). Then, since Indra had killed Viśvarūpa, who was a Brāhmaṇa, the guilt of brahmahatyā (killing a Brāhmaṇa) fell upon him, and Indra had to take it with his own hand. Accordingly he bore the guilt of brahmahatyā for one year. All the creatures, looking at him (Indra), used to cry out, "O Indra, you are one who has killed a Brāhmaṇa."
+
+*(In the English words "hazecock", "sparrow" and "partridge" are printed in brackets in the Kannada.)*
+
+> स पृथिवीमुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृहाणेति साब्रवीद्वरं वृणै खातात्पराभविष्यन्ती मन्ये ततो मा पराभूवमिति पुरा ते संवत्सरादपिरोहादित्यब्रवीत्तस्मात्परा संवत्सरात्पृथिव्यै खातमपिरोहति वारेवृतꣳ ह्यस्यै तृतीयं ब्रह्महत्यायै प्रत्यगृह्णात्तत्स्वकृतमिरिणमभवत्तस्मादाहिताग्निः श्रद्धादेवः स्वकृत इरिणे नावस्येद्ब्रह्महत्यायै ह्येष वर्णः ॥
+
+> *sa pṛthivīmupāsīdadasyai brahmahatyāyai tṛtīyaṃ pratigṛhāṇeti sābravīdvaraṃ vṛṇai khātātparābhaviṣyantī manye tato mā parābhūvamiti purā te saṃvatsarādapirohādityabravīttasmātparā saṃvatsarātpṛthivyai khātamapirohati vārevṛtam̐ hyasyai tṛtīyaṃ brahmahatyāyai pratyagṛhṇāttatsvakṛtamiriṇamabhavattasmādāhitāgniḥ śraddhādevaḥ svakṛta iriṇe nāvasyedbrahmahatyāyai hyeṣa varṇaḥ ‖*
+
+Seeing this, Indra (feeling ashamed) went to Pṛthivī (the Earth) for the removal of the brahmahatyā and said: "O Earth, take one third part of this brahmahatyā that has come upon me." To that the Earth said: "In that case I shall ask for a boon: people will dig up the earth and make pits, and thereby I shall suffer disgrace. Let the boon be given in such a way that this does not happen." Indra said, "Let it be so." (Thus) the pit that has been dug (…without any effort for one year)
+
+*(Ṛk 19, Special Topics, is left OPEN: the sentence breaks off at the foot of p. 628 at "ಒಂದುವರ್ಷ", "…for one year", and continues on p. 629. The passage on Trita and Viśvarūpa continues.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 628 (PDF 650). Sūkta 11, Ṛk 19 is still OPEN: its Special Topics (the story of Trita, Indra and Viśvarūpa) break off in mid-sentence at the foot of p. 628 ("ಆರೀತಿ ಅಗೆದ ಹಳ್ಳವು ಯಾವ ಪ್ರಯತ್ನವೂ ಇಲ್ಲದೆ ಒಂದುವರ್ಷ…", the Earth's boon after Indra's brahmahatyā), to be continued on p. 629. This batch covered the end of the Trita discussion (Ekata/Dvita/Trita; opinions of Roth, Hillbrandt, Perry, Pischel, Hardy), the notes on ⟦आर्येण दस्यून्⟧ (pp. 580–582 of this volume) and ⟦विश्वरूपं⟧, two Ṛk quotations (printed 10-8-9 and 10-8-7, 8) and four Taittirīya Saṃhitā passages (printed ref. Tai. Saṃ. 2-5-1-1). References agree with the numeral file (1-8-10-2; 1-2-3-1, 2; 3-2-8-10, 11; 3-4; 10-8-9; 10-8-7, 8; 2-5-1-1); no FILE DISAGREE; "Śa. Brā." is printed ಶ. while the file reads ಶೆ. Unzoomed: running headers (including the Maṇḍala/Aṣṭaka numerals and Sū. 11), "7th Ṛk" (ಒನೆಯ). [?] places: p. 627 ⟦उदिनक्षन्त⟧/⟦मोजो⟧ in the Ṛk 10-8-9 text and the sense of ಬದಲು on p. 626; p. 628 ⟦उदित⟧, ⟦अबिभेदीदृज्⟧ and ⟦वज्रमादाय⟧ in the Taittirīya passage. The Ṛk and Brāhmaṇa quotations are as printed, with the Vedic ग्ं sign written ꣳ.
