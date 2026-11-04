@@ -22298,4 +22298,183 @@ O Indra, making your beautiful strength grow by praises and so on, we place the 
 
 ---
 
-**Progress note:** Done through printed p. 592 (PDF 614). Sūkta 11, Ṛk 3 ends (Special Topics closed on p. 591, with the Kaṭha and Chāndogya quotations); Ṛk 4 begun on p. 592: Saṃhitā, Pada, Sāyaṇa-bhāṣya and Pratipadārtha written. OPEN: the Bhāvārtha of Ṛk 4 breaks off mid-sentence at the foot of p. 592 ("…pravṛddhanādavanū", "and who has grown strong…") and continues on p. 593; the printed English, Special Topics and any grammar notes of Ṛk 4 are still to come. Flags: no FILE DISAGREE (the four reference numerals on pp. 590–591 agree with the file: 7-1-2-1; 7-1-3-1, 2, 3; 2-11; 1-3-10). Unzoomed numerals: running headers on pp. 590–592 (including "A. 2 A. 6 V. 3" on p. 591) and the Ṛk number ४ on p. 592 (no file row for p. 592). [?] places: ⟦उपधावेद्येन⟧ in the Chāndogya quotation (p. 591); ⟦मेऽप्यसदिति⟧ (ಪ್ಯ/ಸ್ಯ not clearly distinguished, throughout the quotation on p. 590); ⟦स्तोमानामवमं⟧ in the first occurrence, with a dot in the print; ⟦सत्त्रै⟧.
+### Printed p. 593 (PDF 615)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **593**, which is smudged. The Bhāvārtha of Ṛk 4, left open at the foot of p. 592, continues. No file row exists for the header numerals; they are unzoomed.)*
+
+**Bhāvārtha (Ṛk 4, continued from p. 592)**
+
+…and endowed with brilliance, you defeat our harmful Asurī peoples with the weapon that is to be quickly used.
+
+**English Translation (as printed)**
+
+We are invigorating your brilliant strength (by our praises) and placing the thunderbolt in your hands: do you, Indra, radiant, increasing in strength, and (encouraged) by the sun, overpower, for our (good), the servile people.
+
+*(In the scan the letters of "praises)" and of "(good)" are partly faded. They are read from the context, not letter by letter.)*
+
+**Special Topics**
+
+**अस्मे (*asme*)**—The word अस्मे (*asme*) is used in all seven case-senses. That is, this word is used in the senses "we", "us", "by us" and so on. In this Ṛk the sense "our", which is the meaning of the sixth (genitive) case, must be given. The various uses of the word अस्मे (*asme*), with examples, have been explained in Ṛgveda Saṃhitā Part 6, page 538; 9-82; 10-170 and other places.
+
+*(The numerals 9-82 and 10-170 agree with the numeral file. "Part 6, page 538" has no file row; it is read from the strip, unzoomed.)*
+
+**दासी विशः (*dāsī viśaḥ*)**—आसुरीः प्रजाः (*āsurīḥ prajāḥ*) ("Asurī peoples"). We have explained the words दास (*dāsa*) and दस्यु (*dasyu*) and other topics at length on pp. 580–582 of this volume.
+
+*(580-582 agrees with the numeral file.)*
+
+**सूर्येण (*sūryeṇa*)**—सुष्ठु प्रेरकेण (*suṣṭhu prerakeṇa*) ("by one who impels well"). Here the bhāṣyakāra explains the word सूर्येण (*sūryeṇa*) as "one who impels well" and gives it as an epithet of Indra.
+
+---
+
+**Ṛk 5**
+
+**Saṃhitā-pāṭha**
+
+> गुहा हितं गुह्यं गूळ्हमप्स्वपीवृतं मायिनं क्षियन्तम् ।
+> उतो अपो द्यां तस्तभ्वांसमहन्नहिं शूर वीर्येण ॥ ५ ॥
+
+**Pada-pāṭha**
+
+> गुहा । हितं । गुह्यं । गूळ्हं । अप्ऽसु । अपीऽवृतं । मायिनं । क्षियन्तं ।
+> उतो इति । अपः । द्यां । तस्तभ्वांसं । अहन् । अहिं । शूर । वीर्येण ॥ ५ ॥
+
+> *guhā | hitaṃ | guhyaṃ | gūḷhaṃ | ap 'su | apī 'vṛtaṃ | māyinaṃ | kṣiyantaṃ |*
+> *uto iti | apaḥ | dyāṃ | tastabhvāṃsaṃ | ahan | ahiṃ | śūra | vīryeṇa ‖ 5 ‖*
+
+*(The Ṛk number is ५ as printed, unzoomed. In the Pada the small stroke between अप् and सु, and between अपी and वृतं, is read as the compound mark (ऽ).)*
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: you slew with your vajra the concealed, deceitful Asura (or cloud) that lurks in the waters and holds back the waters and heaven; the repeated words stress his concealment.*
+
+*(The bhāṣya breaks off at the foot of the page at "तिरोधान-"; it continues on p. 594. In the print the letter before "स्तिरोधान-" has the hook that looks like the *u* sign. I read it as plain *ya*, that is पुनरुक्तयः (*punaruktayaḥ*).)*
+
+> हे शूरेन्द्र गुहा गुहायां हितं निहितं अत एव गुह्यमप्रकाश्यं गूळ्हं गूढमपीवृतं तिरोहितं । अत्रैकस्मिंस्तिरोधानरूपेऽर्थे पुनरुक्तयस्तिरोधान-
+
+> *he śūrendra guhā guhāyāṃ hitaṃ nihitaṃ ata eva guhyamaprakāśyaṃ gūḷhaṃ gūḍhamapīvṛtaṃ tirohitaṃ | atraikasmiṃstirodhānarūpe 'rthe punaruktayastirodhāna-*
+
+*(Foot of the page: the printer's signature mark "Vol. 14" and "[38]".)*
+
+---
+
+### Printed p. 594 (PDF 616)
+
+*(Header: "594", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The sūkta number ११ is read from the strip, unzoomed. The bhāṣya of Ṛk 5 continues from "तिरोधान-" on p. 593.)*
+
+> भूयस्त्वप्रतिपादनपराः । अभ्यासे हि भूयानर्थो भवति । यथाहो दर्शनीयाहो दर्शनीयेति । तादृशं मायिनं मायाविनमसुरं क्षियन्तं निवसन्तं उतो अपि चापो द्यां दिवं च तस्तभ्वांसं स्वसामर्थ्येन स्तम्भयन्तं इत्थम्भूतमहिमसुरं मेघं वा वीर्येण सामर्थ्यभूतेन वज्रेणाहन् । हतवानसि ॥ हनहिंसागत्योरित्यस्य लङ् रूपम् ॥
+
+> *bhūyastvapratipādanaparāḥ | abhyāse hi bhūyānartho bhavati | yathāho darśanīyāho darśanīyeti | tādṛśaṃ māyinaṃ māyāvinamasuraṃ kṣiyantaṃ nivasantaṃ uto api cāpo dyāṃ divaṃ ca tastabhvāṃsaṃ svasāmarthyena stambhayantaṃ itthambhūtamahimasuraṃ meghaṃ vā vīryeṇa sāmarthyabhūtena vajreṇāhan | hatavānasi ‖ hanahiṃsāgatyorityasya laṅ rūpam ‖*
+
+*(In the Kannada the *ma* of इत्थम्भूतमहिमसुरं (*itthambhūtamahimasuraṃ*) is printed with the hook that looks like the *u* sign, and the word is broken across the line after "महिम-". The grammatical tail says that हतवानसि (*hatavānasi*) is the लङ् form (*laṅ*, imperfect) of the root हन् (*han*) in the senses "to hurt" and "to go". It is Sanskrit and is not explained further here. No sūtra number is printed.)*
+
+**Pratipadārtha**
+
+- शूर (*śūra*)—O heroic Indra.
+- गुहा हितं (*guhā hitaṃ*)—one who lies hidden in a cave.
+- गुह्यं (*guhyaṃ*)—one who is without light (not shining forth).
+- गूळ्हं (*gūḷhaṃ*)—one who is hidden.
+- अपीवृतं (*apīvṛtaṃ*)—one who has been concealed.
+- मायिनं (*māyinaṃ*)—one who has a deceitful mind.
+- अप्सु (*apsu*)—in the waters.
+- क्षियन्तं (*kṣiyantaṃ*)—one who dwells in concealment.
+- उतो (*uto*)—moreover.
+- अपः (*apaḥ*)—the waters,
+- द्यां (*dyāṃ*)—and the heaven (dyuloka),
+- तस्तभ्वांसं (*tastabhvāṃsaṃ*)—who has arrested (by his own power);
+- अहिं (*ahiṃ*)—the Asura.
+- वीर्येण (*vīryeṇa*)—with the vajra, which is joined with your own power.
+- अहन् (*ahan*)—you have slain.
+
+**Bhāvārtha**
+
+O heroic Indra, you have slain with your vajra, which is joined with your own power, the Asura who lies hidden in a cave, who is without light, who is concealed, who has been covered over, who has a deceitful mind, who dwells in concealment in the waters, and who, moreover, has arrested the waters and the heaven by his own power.
+
+**English Translation (as printed)**
+
+Indra, hero, you have slain by your prowess the glorified Ahi, hidden privily in a cave, lurking in concealment, covered by the waters in which he was abiding, and arresting the rains in the sky.
+
+**Special Topics**
+
+**गुहा हितं (*guhā hitaṃ*)**—"Like a cave", that is, "hidden in an inaccessible secret place" is the meaning. Here गुहा (*guhā*) can be taken to mean either "cave" or "secret place". In the Ṛgveda and in the Upaniṣads it is the accepted usage to denote by the words गुहा हितं (*guhā hitaṃ*) a thing that is placed in a secret place which no one can know:—
+
+*Quotation with its source printed after it: ऋ. सं. (*ṛ. saṃ.*) 1-164-45 (agrees with the numeral file). Gloss, mine and tentative: "Three are placed in the secret place and do not stir; men speak the fourth of speech."*
+
+> गुहा त्रीणि निहिता नेङ्गयन्ति तुरीयं वाचो मनुष्या वदन्ति ।
+
+> *guhā trīṇi nihitā neṅgayanti turīyaṃ vāco manuṣyā vadanti |*
+
+*Quotation with its source printed after it: ऋ. सं. (*ṛ. saṃ.*) 1-130-3 (agrees with the numeral file). Gloss, mine and tentative: "He found what was placed in hiding, the treasure of heaven, like a … enclosed within the endless … (the reading of the second half is doubtful)." The words परिवीतम् (*parivītam*), अश्म्यनन्ते (*aśmyanante*) and अन्तरर्मनि (*antararmani*) are doubtful. In the print the first looks like ಪರಿಖೀತ, and the last is printed ಅಂತರರ್ಮನಿ (it may be meant for ಅಂತರಶ್ಮನಿ).*
+
+> अविन्दद्दिवो निहितं गुहा निधिं वेर्न गर्भं परिवीतमश्म्यनन्ते [?] अन्तरर्मनि [?] ।
+
+> *avindaddivo nihitaṃ guhā nidhiṃ verna garbhaṃ parivītamaśmyanante [?] antararmani [?] |*
+
+---
+
+### Printed p. 595 (PDF 617)
+
+*(Header: "A. 2 A. 6 V. 4" as printed, "Ṛgvedasaṃhitā", printed number **595**. The header numerals are unzoomed; the varga numeral here, ४, differs from the ३ of p. 593. No closing note "… vargavu mugidudu" is seen on pp. 593–595.)*
+
+*Quotation with its source printed after it: ऋ. सं. (*ṛ. saṃ.*) 3-56-2 (agrees with the numeral file). Gloss, mine and tentative: "…stood; two are placed in the secret place, one is made visible." The second word रुपेरा (*rupera*) is doubtful; in the print it looks like ರುಪೆರಾ.*
+
+> तिस्रो मही रुपेरास्तस्थुरत्यागुहा द्वे निहिते दर्श्येका [?] ।
+
+> *tisro mahī ruperāstasthuratyāguhā dve nihite darśyekā [?] |*
+
+In many Ṛks like these, this same meaning is made plain.
+
+---
+
+**Ṛk 6**
+
+**Saṃhitā-pāṭha**
+
+> स्तवा नु त इन्द्र पूर्व्या महान्युत स्तवाम नूतना कृतानि ।
+> स्तवा वज्रं बाह्वोरुशन्तं स्तवा हरी सूर्यस्य केतू ॥ ६ ॥
+
+**Pada-pāṭha**
+
+> स्तव । नु । ते । इन्द्र । पूर्व्या । महानि । उत । स्तवाम । नूतना । कृतानि ।
+> स्तव । वज्रं । बाह्वोः । उशन्तं । स्तव । हरी इति । सूर्यस्य । केतू इति ॥ ६ ॥
+
+> *stava | nu | te | indra | pūrvyā | mahāni | uta | stavāma | nūtanā | kṛtāni |*
+> *stava | vajraṃ | bāhvoḥ | uśantaṃ | stava | harī iti | sūryasya | ketū iti ‖ 6 ‖*
+
+*(The Ṛk number ६ is read from the strip, unzoomed. In the Kannada the *ma* of स्तवाम (*stavāma*) is printed with the hook that looks like the *u* sign; I read plain *ma*, as the bhāṣya confirms.)*
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: O Indra, we quickly praise your ancient great deeds and the new ones, your shining vajra in your arms, and your two horses, the Harī, the signs of Indra (as Sūrya).*
+
+> हे इन्द्र पूर्व्या पुरातनानि महानि महान्ति ते तव कर्माणि नु क्षिप्रं स्तव । स्तवाम । उत अपि च नूतनाधुनातनानि कृतानि कर्माणि स्तवाम । बाह्वोरुशन्तं दीप्यमानं वज्रं स्तव । स्तवाम । किञ्च सूर्यस्य सुष्ठु प्रेरकस्य सुवीर्यस्य वा सूर्यात्मनो वेन्द्रस्य केतू प्रज्ञापकौ हरी एतन्नामकावश्वौ स्तव । स्तवाम ॥ ष्टुञ् स्तुतौ । तिङां तिङो भवन्तीत्युत्तमबहुवचनस्य मध्यमैकवचनादेशः । बहुलं छन्दसीति शपो लुगभावः ॥
+
+> *he indra pūrvyā purātanāni mahāni mahānti te tava karmāṇi nu kṣipraṃ stava | stavāma | uta api ca nūtanādhunātanāni kṛtāni karmāṇi stavāma | bāhvoruśantaṃ dīpyamānaṃ vajraṃ stava | stavāma | kiñca sūryasya suṣṭhu prerakasya suvīryasya vā sūryātmano vendrasya ketū prajñāpakau harī etannāmakāvaśvau stava | stavāma ‖ ṣṭuñ stutau | tiṅāṃ tiṅo bhavantītyuttamabahuvacanasya madhyamaikavacanādeśaḥ | bahulaṃ chandasīti śapo lugabhāvaḥ ‖*
+
+*(The grammatical tail is on the root ष्टुञ् (*ṣṭuñ*, "to praise"): the substitution of the second-person singular ending for the first-person plural, and the non-elision of शप् (*śap*) as the Veda allows variation. It is Sanskrit and is not explained further here. No sūtra numbers are printed. Reading doubts, unzoomed: तिङां (ङ, which could be ञ) and the sound of उत्तम (*uttama*).)*
+
+**Pratipadārtha**
+
+- इन्द्र (*indra*)—O Indra.
+- पूर्व्यं (*pūrvyaṃ*)—ancient,
+- महान्ति (*mahānti*)—endowed with great qualities:
+- ते (*te*)—your deeds
+- नु (*nu*)—quickly
+- स्तव (*stava*)—we praise.
+- उत (*uta*)—and
+- नूतन (*nūtana*)—new
+- कृतानि (*kṛtāni*)—deeds also
+- स्तवाम (*stavāma*)—we praise.
+- बाह्वोः (*bāhvoḥ*)—between your arms,
+- उशन्तं (*uśantaṃ*)—shining,
+- वज्रं (*vajraṃ*)—the vajra also
+- स्तव (*stava*)—we praise.
+- सूर्यस्य (*sūryasya*)—of Indra (you), who is endowed with prowess or is an impeller;
+- केतू (*ketū*)—as indicators (*prajñāpaka*),
+- हरी (*harī*)—the horses named Harī also
+- स्तव (*stava*)—we praise.
+
+*(Doubtful: in the Kannada the word before गळಾದ looks like ಹೇ‌ನಾಮಕ or ಹರೀನಾಮಕ; I read "named Harī". The Bhāvārtha, the printed English and the Special Topics of Ṛk 6 are still to come on p. 596 onward.)*
+
+---
+
+**Progress note:** Done through printed p. 595 (PDF 617). Sūkta 11: the Bhāvārtha of Ṛk 4 is completed on p. 593, with its printed English and Special Topics (on asme, dāsīr viśaḥ, sūryeṇa). Ṛk 5 is complete on pp. 593–594 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics on guhā hitam with three Ṛgveda quotations). Ṛk 6 is begun on p. 595: Saṃhitā, Pada, bhāṣya and Pratipadārtha are written. OPEN: the Bhāvārtha, printed English and any Special Topics of Ṛk 6 are still to come on p. 596. Flags: no FILE DISAGREE (9-82, 10-170, 580-582, 1-164-45, 1-130-3 and 3-56-2 all agree with the file). Unzoomed numerals: the running headers on pp. 593–595 (including the varga numerals ३ on p. 593 and ४ on p. 595), the Ṛk numbers ५ and ६, and "Part 6, page 538" on p. 593, for which the file has no row. [?] places: the Ṛgveda quotation 1-130-3 (parivītam, aśmyanante, antararmani), the quotation 3-56-2 (rupera), ङ/ञ in तिङां, the word before "gaḷāda" in the Pratipadārtha of Ṛk 6 (Harī-nāmaka?), and the faded letters in "praises)" and "(good)" of the printed English on p. 593.
