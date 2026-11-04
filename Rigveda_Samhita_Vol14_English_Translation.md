@@ -24055,4 +24055,88 @@ Seeing this, Indra (feeling ashamed) went to Pṛthivī (the Earth) for the remo
 
 ---
 
-**Progress note:** Done through printed p. 628 (PDF 650). Sūkta 11, Ṛk 19 is still OPEN: its Special Topics (the story of Trita, Indra and Viśvarūpa) break off in mid-sentence at the foot of p. 628 ("ಆರೀತಿ ಅಗೆದ ಹಳ್ಳವು ಯಾವ ಪ್ರಯತ್ನವೂ ಇಲ್ಲದೆ ಒಂದುವರ್ಷ…", the Earth's boon after Indra's brahmahatyā), to be continued on p. 629. This batch covered the end of the Trita discussion (Ekata/Dvita/Trita; opinions of Roth, Hillbrandt, Perry, Pischel, Hardy), the notes on ⟦आर्येण दस्यून्⟧ (pp. 580–582 of this volume) and ⟦विश्वरूपं⟧, two Ṛk quotations (printed 10-8-9 and 10-8-7, 8) and four Taittirīya Saṃhitā passages (printed ref. Tai. Saṃ. 2-5-1-1). References agree with the numeral file (1-8-10-2; 1-2-3-1, 2; 3-2-8-10, 11; 3-4; 10-8-9; 10-8-7, 8; 2-5-1-1); no FILE DISAGREE; "Śa. Brā." is printed ಶ. while the file reads ಶೆ. Unzoomed: running headers (including the Maṇḍala/Aṣṭaka numerals and Sū. 11), "7th Ṛk" (ಒನೆಯ). [?] places: p. 627 ⟦उदिनक्षन्त⟧/⟦मोजो⟧ in the Ṛk 10-8-9 text and the sense of ಬದಲು on p. 626; p. 628 ⟦उदित⟧, ⟦अबिभेदीदृज्⟧ and ⟦वज्रमादाय⟧ in the Taittirīya passage. The Ṛk and Brāhmaṇa quotations are as printed, with the Vedic ग्ं sign written ꣳ.
+### Printed p. 629 (PDF 651)
+
+*(Header: "A. 2 A. 6 V. 6]" as it looks, "Ṛgvedasaṃhitā", "629"; header numerals not zoomed. The numeral file has no rows for this page. Ṛk 19, Special Topics, continues from p. 628. The page begins in mid-sentence with "ದೊಳಗಾಗಿ ತಾನಾಗಿಯೇ …", which completes the Earth's boon at the foot of p. 628.)*
+
+…within one year, closes of itself, and the Earth becomes level as before: so he gave the boon. Therefore a pit dug in the earth closes up of itself by the time one year has passed. This is the very boon that the Earth asked for. Having obtained such a boon, the Earth took one third part of Indra's brahmahatyā-doṣa (the guilt of killing a Brāhmaṇa). "ಆಲಾಗಾಯಿತು" (as printed; sense not certain, evidently "so it was") [?]; for the Earth that became natural. Therefore a man who has performed the agnihotra or sacrifices such as yajña and yāga, and who has faith and devotion towards the deities, must not choose, for performing a sacrifice, a sacrificial altar in a part of the earth that is dug up and pit-like. For such a dug-up pit-region is the mark (*varṇa*) of the brahmahatyā that the Earth took upon herself.
+
+*Gloss (mine, from the Kannada that follows): Indra went to the trees and asked them to take a third part of the guilt; they asked a boon, that when they are cut, more shoots should spring up; the sap that then flows became the sign of the brahmahatyā. In the last line the word before कामम् (*kāmam*) is read नाश्यं (*nāśyam*); the final word is printed in the run "ಕಾಮಮನ್ಯಸ್ಯ", read काममन्यस्य (*kāmam anyasya*). In the passage the Vedic ग्ं sign is written ꣳ; the form प्रत्यगृह्णन्त्स (*pratyagṛhṇantsa*) is as printed, with the word-end doubtful.*
+
+> स वनस्पतीनुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृह्णीतेति तेऽब्रुवन् वरं वृणामहै वृक्णात्पराभविष्यन्तो मन्यामहे ततो मा पराभूमेत्याव्रश्चनाद्वो भूयाꣳस उत्तिष्ठानित्यब्रवीत्तस्मादाव्रश्चनाद्वृक्षाणां भूयाꣳस उत्तिष्ठन्ति वारेवृतꣳ ह्येषां तृतीयं ब्रह्महत्यायै प्रत्यगृह्णन्त्स निर्यासोऽभवत्तस्मान्निर्यासस्य नाश्यं ब्रह्महत्यायै ह्येष वर्णोऽथो खलु य एव लोहितो यो वाव्रश्चनान्निर्येषति तस्य नाश्यं काममन्यस्य ॥
+
+> *sa vanaspatīnupāsīdadasyai brahmahatyāyai tṛtīyaṃ pratigṛhṇīteti te 'bruvan varaṃ vṛṇāmahai vṛkṇātparābhaviṣyanto manyāmahe tato mā parābhūmetyāvraścanādvo bhūyām̐sa uttiṣṭhānityabravīttasmādāvraścanādvṛkṣāṇāṃ bhūyām̐sa uttiṣṭhanti vārevṛtam̐ hyeṣāṃ tṛtīyaṃ brahmahatyāyai pratyagṛhṇantsa niryāso 'bhavattasmānniryāsasya nāśyaṃ brahmahatyāyai hyeṣa varṇo 'tho khalu ya eva lohito yo vāvraścanānniryeṣati tasya nāśyaṃ kāmamanyasya ‖*
+
+Then Indra went to the trees and, addressing them, said: "O trees, take one third part of my brahmahatyā-doṣa." To that the trees said: "In that case we ask for a boon: people will cut the branches and so on of the tree, and thereby we shall suffer disgrace (*abhibhava*)." When he was asked to give a boon so that this might not happen, Indra said "Very well", and gave the boon that when a branch is cut, more shoots (*koṇegaḷu*) should sprout all around the part that was cut. Therefore, as the trees had asked, when the shoots are cut, more shoots sprout in that part. Afterwards the trees, as they had promised, accepted one third part of Indra's brahmahatyā. The sap that comes out when a tree is cut is the mark of this brahmahatyā. Therefore no one should drink the sap that flows out from this tree when it is cut, because it is the colour (*varṇa*) of brahmahatyā. Or, if the sap flowing out from the cutting of the tree is red, it should not be drunk; if it is not so, one may drink it as one wishes.
+
+*Gloss (mine, from the Kannada that follows): then Indra went to the throng of women, asking them to take the third part; they asked as a boon that they should bear children after menstruation (*ṛtu*) and enjoy love as they wish until childbirth; Indra agreed, and the women took the third part, which became the stained garment (the menstrual flow).*
+
+> स स्त्रीषꣳसादमुपासीददस्यै ब्रह्महत्यायै तृतीयं प्रतिगृह्णीतेति ता अब्रुवन्वरं वृणामहा ऋत्वियात् प्रजां विन्दामहै काममाविजनितोः संभवामेति तस्मादृत्वियात् स्त्रियः प्रजां विन्दन्ते काममाविजनितोः संभवन्ति वारेवृतꣳ ह्यासां तृतीयं ब्रह्महत्यायै प्रत्यगृह्णन्त्स्ना [?] मलवद्वासा अभवत् ॥
+
+> *sa strīṣam̐sādamupāsīdadasyai brahmahatyāyai tṛtīyaṃ pratigṛhṇīteti tā abruvanvaraṃ vṛṇāmahā ṛtviyāt prajāṃ vindāmahai kāmamāvijanitoḥ saṃbhavāmeti tasmādṛtviyāt striyaḥ prajāṃ vindante kāmamāvijanitoḥ saṃbhavanti vārevṛtam̐ hyāsāṃ tṛtīyaṃ brahmahatyāyai pratyagṛhṇantsnā [?] malavadvāsā abhavat ‖*
+
+*(p. 630 continues)*
+
+---
+
+### Printed p. 630 (PDF 652)
+
+*(Header: "630", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11"; header numerals not zoomed. Ṛk 19, Special Topics, continues. The numeral file has one row for this page: Tai. Saṃ. 2-5-1-1.)*
+
+Afterwards Indra went to the throng of women and, addressing them, said: "O women, take the third part that remains of my brahmahatyā-doṣa." To that the women said: "In that case we ask a boon: after menstruation (*ṛtusnāna*) we should have children, and until delivery (until we are with child) we should obtain the satisfaction of desire through intercourse as we wish." Indra said "Let it be so." Therefore women obtain offspring after menstruation and, until they are with child, have intercourse as they wish. For this is the very boon that they asked for. Afterwards the women accepted one third part of Indra's brahmahatyā-doṣa. The *rajas* that flows from women when they are in menses is the sign of this brahmahatyā. In the time when the *rajas* flows (in menses) women are impure (unclean).
+
+> तस्मान्मलवद्वाससा न संवदेत न सहासीत नास्या अन्नमद्याद्ब्रह्महत्यायै ह्येषा वर्णं प्रतिमुच्यास्तेऽथो खल्वाहुरभ्यञ्जनं वाव स्त्रिया अन्नमभ्यञ्जनमेव न प्रतिगृह्यं काममन्यदिति ॥
+
+> *tasmānmalavadvāsasā na saṃvadeta na sahāsīta nāsyā annamadyādbrahmahatyāyai hyeṣā varṇaṃ pratimucyāste 'tho khalvāhurabhyañjanaṃ vāva striyā annamabhyañjanameva na pratigṛhyaṃ kāmamanyaditi ‖*
+
+Therefore one must not speak with a woman who is in menses, and must not eat food given or touched by her. For she bears the unclean flow of *rajas*, which is the sign of the brahmahatyā-doṣa. During the time when she is in menses she must not do oil-anointing and the like; nor, at that time, should anyone accept from her food and the like that she has touched.
+
+*Gloss (mine, from the Kannada that follows): the passage lists the faults of the sons born when the rules for a woman in menses are broken; the relative pronouns are printed in forms that I read as feminine (*yā*, *yāṃ*) in agreement with the sense, but the ya-sign with its hook makes the vowel doubtful in a few places (e.g. यामरण्ये, याभ्यंक्ते, याङ्क्ते) [?]; "ह्रीतमख्यपगल्भो" is read letter by letter, with the doubtful hooked ma [?].*
+
+> यां मलवद्वाससꣳ संभवन्ति यस्ततो जायते सोऽभिशस्तो यामरण्ये तस्यै स्तेनो यां पराचीं तस्यै ह्रीतमख्यपगल्भो [?] या स्नाति तस्या अप्सु मारुको याभ्यंक्ते तस्यै दुश्चर्मा या प्रलिखते तस्यै खलतिरपमारी यांक्ते तस्यै काणो या दतो धावते तस्यै श्यावदन् या नखानि निकृन्तते तस्यै कुनखी या कृणत्ति तस्यै क्लीबो या रज्जुꣳ सृजति तस्या उद्बन्धुको या पर्णेन पिबति तस्या उन्मादुको या खर्वेण पिबति तस्यै खर्वस्तिस्रो रात्रीर्व्रतं चरेदञ्जलिना वा पिबेदखर्वेण वा पात्रेण प्रजायै गोपीथाय ॥
+
+> *yāṃ malavadvāsasam̐ saṃbhavanti yastato jāyate so 'bhiśasto yāmaraṇye tasyai steno yāṃ parācīṃ tasyai hrītamakhyapagalbho [?] yā snāti tasyā apsu māruko yābhyaṃkte tasyai duścarmā yā pralikhate tasyai khalatirapamārī yāṃkte tasyai kāṇo yā dato dhāvate tasyai śyāvadan yā nakhāni nikṛntate tasyai kunakhī yā kṛṇatti tasyai klībo yā rajjum̐ sṛjati tasyā udbandhuko yā parṇena pibati tasyā unmāduko yā kharveṇa pibati tasyai kharvastisro rātrīrvrataṃ caredañjalinā vā pibedakharveṇa vā pātreṇa prajāyai gopīthāya ‖*
+
+(तै. सं. २-५-१-१ रिंद ७ [?])
+
+*(Printed "ತೈ. ಸಂ. ೨-೫-೧-೧ ರಿಂದ ೭": the last numeral is read here as 7, flat-footed glyph, not zoomed [?]; the numeral file gives 2 there.)*
+
+If a man has intercourse with a woman in the time of her menses (when she is *rajasvalā*), the son who is born from it becomes cursed (*śāpagrasta*). If a woman in menses has intercourse in a forest, the son born to her becomes a thief. If she covers her face or turns it away elsewhere and has intercourse, the son born becomes a shy fellow (*mukheḍi*) who out of bashfulness cannot speak properly with anyone. A woman who bathes at the time of menses will have a son who dies by drowning in water; *(continued on p. 631)* a woman who anoints herself…
+
+---
+
+### Printed p. 631 (PDF 653)
+
+*(Header: "A. 2 A. 6 V. 6]" as it looks, "Ṛgvedasaṃhitā", "631"; header numerals not zoomed. The numeral file has no rows for this page. Ṛk 19, Special Topics, continues. The sentence broken off at the foot of p. 630 ends in "ಅಭ್ಯಂಜನ ಮಾಡಿಕೊಳ್ಳುವ ಸ್ತ್ರೀಯು ಪುತ್ರನು …", where the printed text lacks "ಗೆ ಹುಟ್ಟುವ".)*
+
+…a woman who anoints herself (the printed text reads "the woman … the son"; the words "to whom is born" are evidently omitted [sic]): the son is afflicted by skin disease (leprosy, white patches). A woman who combs her hair: the son born to her becomes bald, without hair on the head, and weak. A woman who applies collyrium to her eyes: the son born to her becomes blind. A woman who, at that time, cleans her teeth ("ಜ್ಜಿಕೋಳ್ಳುವ", as printed, evidently "rubbing") [?]: the son born to her has dirty teeth. A woman who cuts her nails: the son born to her has unsightly, ugly nails. A woman who, at that time, plaits (mats and the like): the son born to her becomes impotent. A woman who twists a rope: the son born to her dies by suicide. A woman who drinks water from leaves (lotus leaves and so on): the son born to her becomes a drunkard. A woman who drinks water from a broken or cracked vessel: the son becomes limbless or has a deformed limb. Therefore women, when they are in menses, must keep the vow (the rule) very strictly until three nights have passed. For the sake of obtaining good offspring, women must drink water at that time only with the hollow of the hands or from a good vessel that is not broken.
+
+In the matters stated above, the account of Indra's killing Viśvarūpa, the brahmahatyā-doṣa that Indra incurred from that killing, and the deeds Indra performed to remove that fault, and the matter that, as a result of this, women must keep rules when they are in menses, are all stated. In the present context only the particulars of the story of Viśvarūpa's killing would be relevant; but other matters of the same anuvāka connected with it are also introduced here. For in the Purāṇas and similar works it is said that Indra incurred brahmahatyā-doṣa from the killing of Vṛtra, and that Indra strove, as stated above, for the removal of it; so this account became necessary in order to show the difference between the accounts of the Veda and those of the Purāṇas and the like.
+
+*(Ṛk 19 closes here, with a short rule printed across the page.)*
+
+---
+
+#### Ṛk 20
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्य सु॑वा॒नस्य॑ म॒न्दिन॑स्त्रि॒तस्य॒ न्यर्बु॑दं वावृधा॒नो अ॑स्तः ।
+> अव॑र्तय॒त्सूर्यो॒ न च॒क्रं भि॒नद्व॒लमिन्द्रो॒ अङ्गि॑रस्वान् ॥
+
+> *asya suvānasya mandinastritasya nyarbudaṃ vāvṛdhāno astaḥ |*
+> *avartayatsūryo na cakraṃ bhinadvalamindro aṅgirasvān ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्य । सुवानस्य । मन्दिनः । त्रितस्य । नि । अर्बुदं । ववृधानः । अस्तरित्यस्तः ।
+> अवर्तयत् । सूर्यः । न । चक्रं । भिनत् । वलं । इन्द्रः । अङ्गिरस्वान् ॥ २० ॥
+
+> *asya | suvānasya | mandinaḥ | tritasya | ni | arbudaṃ | vavṛdhānaḥ | astarityastaḥ |*
+> *avartayat | sūryaḥ | na | cakraṃ | bhinat | valaṃ | indraḥ | aṅgirasvān ‖ 20 ‖*
+
+*(Ṛk 20 is left OPEN: on p. 631 only the Saṃhitā and Pada are printed; the Sāyaṇa-bhāṣya, Pratipadārtha and the rest follow on p. 632.)*
+
+---
+
+**Progress note:** Done through printed p. 631 (PDF 653). Sūkta 11, Ṛk 19 is CLOSED (its Special Topics ended on p. 631 with the Earth/trees/women boons of the Taittirīya passage and the remark on the Veda–Purāṇa difference). Ṛk 20 is OPEN: only its Saṃhitā and Pada (numbered ॥ 20 ॥ as printed) are written; the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on p. 632. Flags: FILE DISAGREE / unsure: the printed reference after "ತೈ. ಸಂ. ೨-೫-೧-೧ ರಿಂದ" on p. 630 was read as 7 (flat-footed glyph) where the file reads 2 [?], unzoomed. Unzoomed: running headers (Maṃ. 2, A. 1, Sū. 11; A. 2 A. 6 V. 6), the Ṛk number 20. [?] places: p. 629 "ಆಲಾಗಾಯಿತು" (sense) and प्रत्यगृह्णन्त्स (word-end) and प्रत्यगृह्णन्त्स्ना; p. 630 the hooked ya/ma forms in the long Taittirīya quotation (यामरण्ये, याभ्यंक्ते, यांक्ते, ह्रीतमख्यपगल्भो) ; p. 631 "ಜ್ಜಿಕೋಳ್ಳುವ" and the omitted "ಗೆ ಹುಟ್ಟುವ" in the printed text. The Vedic ग्ं sign is written ꣳ; no English was printed on these pages.
