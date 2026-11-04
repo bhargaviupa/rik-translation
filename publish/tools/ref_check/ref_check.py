@@ -87,8 +87,12 @@ def main():
             row["result"] = "dry-run" if a.dry_run else "no match above threshold"
         else:
             msg = f"LINE (Devanagari):\n{row['line']}\n\nREFERENCE (noisy romanization):\n{row['ref_window']}\n"
-            r = client.messages.create(model=a.model, max_tokens=1500, system=SYS,
-                                       messages=[{"role": "user", "content": msg}])
+            try:
+                r = client.messages.create(model=a.model, max_tokens=1500, system=SYS,
+                                           messages=[{"role": "user", "content": msg}])
+            except Exception as ex:
+                print(f"\nAPI ERROR ({type(ex).__name__}): {ex}\n(model used: {a.model}; try --model to change it)")
+                sys.exit(1)
             txt = r.content[0].text
             try: row["result"] = json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
             except Exception: row["result"] = {"raw": txt}
