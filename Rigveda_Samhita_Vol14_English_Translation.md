@@ -20923,4 +20923,125 @@ Beautiful Agni, the two dwelling-places (heaven and earth) of you, who are born 
 
 ---
 
-**Progress note:** Done through printed p. 559 (PDF 581); offset printed = PDF − 22 holds. Sūkta 9: Ṛk 4 is finished (bhāṣya end, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on rādhaḥ, śruṣṭī and the rayīṇāṃ rayipatiḥ repetition). Ṛk 5 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on dive-dive jāyamānasya, jaritāram, ubhayaṃ vasavyam and kṣumantam). Ṛk 6 has Saṃhitā and Pada only; **Ṛk 6 is open**: its bhāṣya starts on printed p. 560 (PDF 582). Flags: FILE DISAGREE none (Ni. 3-9, 6-13, 3-19 and 3-9 agree with my reading; none was zoomed; page 580 has no file rows, so the Pāṇini reference there is mine). [?] places: bhāṣya ⟦अत्रैको⟧ (p. 557) and the Pāṇini reference "5. 4. 30. 4 [?]" (p. 558); Ṛk 6 Pada ⟦अग्ने⟧ (printed like ⟦आग्ने⟧); ⟦देवाँ⟧ with a candrabindu-like mark in the Ṛk 6 Saṃhitā; the Ṛk number 5 on p. 558 read as in sequence.
+### Printed p. 560 (PDF 582)
+
+*(Header: "560", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9", the last numeral cut off at the edge. The numeral file has only a garbled row for this page, so the Ā. reference below is read from the strip.)*
+
+*Sāyaṇa-bhāṣya of Ṛk 6 (continued).* *(Gist: in the Sākamedha rite, at the first of three iṣṭis on the day before the savana, this Ṛk is the yājyā to Agni anīkavān. The bhāṣya then glosses: Agni, with his retinue, be a giver of good promise or wealth to us, the best worshipper, unassailable guardian, our protector from sin, shining with brilliant and rich well-being.)*
+
+> साकमेधे पर्वणि पूर्वेद्युरनुसवनं तिस्र इष्टयः कर्तव्याः । प्रथमायामग्नेरनीकवतः सैनानीकेनेति याज्या । तथा ततः साकमेधा इति खंडे सूत्रितं । सैनानीकेन सुविदत्रो अस्मे । आ. २. १८. । इति ॥
+
+> *sākamedhe parvaṇi pūrvedyuranusavanaṃ tisra iṣṭayaḥ kartavyāḥ | prathamāyāmagneranīkavataḥ sainānīkeneti yājyā | tathā tataḥ sākamedhā iti khaṃḍe sūtritaṃ | sainānīkena suvidatro asme | ā. 2. 18. | iti ‖*
+
+> हे अग्ने स तादृशस्त्वमेनानेनानीकेन [?] युक्तस्त्वं सुविदत्रः सुप्रतिज्ञः सुधनो वास्मे अस्माकं भव । देवान्यष्टा देवानां हविष्प्रदानेन पूजक आयजिष्ठो यष्टृतमोऽदब्धः केनाप्यतिरस्कृतो गोपा देवानां गोपायिता । उत अपि च नोऽस्माकं परस्पा दुरितेभ्यः पारयिता पाता च त्वं द्युमत् कांतियुक्तं उत अपि च रेवत् धनयुक्तं यथा भवति तथा स्वस्ति दिदीहि । क्षेमेण सर्वतो दिदीहि । क्षेमेण सर्वतो दीप्यस्व ॥
+
+> *he agne sa tādṛśastvamenānenānīkena [?] yuktastvaṃ suvidatraḥ supratijñaḥ sudhano vāsme asmākaṃ bhava | devānyaṣṭā devānāṃ haviṣpradānena pūjaka āyajiṣṭho yaṣṭṛtamo 'dabdhaḥ kenāpyatiraskṛto gopā devānāṃ gopāyitā | uta api ca no 'smākaṃ paraspā duritebhyaḥ pārayitā pātā ca tvaṃ dyumat kāṃtiyuktaṃ uta api ca revat dhanayuktaṃ yathā bhavati tathā svasti didīhi | kṣemeṇa sarvato didīhi | kṣemeṇa sarvato dīpyasva ‖*
+
+*(The words एनानेनानीकेन (*enānenānīkena*) are printed in a way I could not settle; marked [?].)*
+
+*Pratipadārtha (Kannada, translated)*
+
+अग्ने (*agne*)—O Agni. सः (*saḥ*)—you, of the qualities described above. एना अनीकेन (*enā anīkena*)—together with all your retinue. अस्मे (*asme*)—to us. सुविदत्रः (*suvidatraḥ*)—be one who gives an excellent blessing (āśaṃsā). देवान् (*devān*)—the deities. यष्टा (*yaṣṭā*)—one worthy of worshipping (them). आयजिष्ठः (*āyajiṣṭhaḥ*)—the best among worshippers. अदब्धः (*adabdhaḥ*)—one who is slighted by no one. गोपाः (*gopāḥ*)—protector (of the deities). उत (*uta*)—and. नः (*naḥ*)—to us. परस्पाः (*paraspāḥ*)—you who are also the one who frees us from sin. द्युमत् (*dyumat*)—what is bright. उत (*uta*)—and. रेवत् (*revat*)—what is rich in wealth. स्वस्ति (*svasti*)—so that welfare is obtained. दिदीहि (*didīhi*)—shine.
+
+*Bhāvārtha (Kannada, translated)*
+
+O Agni, you, the most excellent, together with all your retinue, be one who gives us an excellent blessing. You who are worthy of worshipping the deities, best among worshippers, slighted by none, a protector, and one who frees us from sin: shine so that a welfare that is bright and rich in wealth is obtained.
+
+*English Translation (as printed; the left edge of the scan is cut off, so the opening words of two lines are partly lost)*
+
+Do you, with this (your) host (of attendants), be of good promise to us ; be, the especial worshipper of the gods, their unassailable protector, as well as our preserver ; light up (all) with shining and affluent well-being.
+
+---
+
+### Printed p. 561 (PDF 583)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (the varga numeral not zoomed), "Ṛgvedasaṃhitā", printed number **561**. The numeral file gives Ā. 2-18, Ni. 6-14 and Ṛk Saṃ. 10-17-3 on this page; these agree with my reading. It has no row for the Nirukta reference near the bottom of the page.)*
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+In the sacrifice called Sākamedha, three iṣṭis (sacrifices) must be performed on the day before the savana. In the first iṣṭi, in the yājyā-homa to the Agni-deity called अग्निरनीकनान् (*agniranīkanān*) (as printed; compare the bhāṣya अग्नेरनीकवतः (*agneranīkavataḥ*)), the use (viniyoga) of this Ṛk beginning सैनानीकेन (*sainānīkena*) is set out by the sūtra सैनानीकेन सुविदत्रो अस्मे (*sainānīkena suvidatro asme*) in the section ततः साकमेधा (*tataḥ sākamedhā*) of the Āśvalāyana Śrauta-sūtra. (Ā. 2-18)
+
+In this Ṛk, which concludes the sūkta, Agni is prayed to make us free of sin and to favour us with wealth and prosperity (śreyas).
+
+सुविदत्रः (*suvidatraḥ*)—सुप्रतिज्ञः सुधनो वा (*supratijñaḥ sudhano vā*): Sāyaṇa's explanation is "one of good promise, or one who has wealth". Yāska says:
+
+> सुविदत्रः कल्याणविद्यः । आग्ने [sic?] याहि सुविदत्रेभिरर्वाज् [?] इत्यपि निगमो भवति ॥
+
+> *suvidatraḥ kalyāṇavidyaḥ | āgne [sic?] yāhi suvidatrebhirarvāj [?] ityapi nigamo bhavati ‖*
+
+*(Ni. 6-14.)* *(Printed आग्ने (*āgne*) looks like ā-, as in the Ṛk 6 Pada; the last word of the quotation is printed with ज्, read अर्वाज् (*arvāj*) as printed; both uncertain.)* That is, Yāska gives the meaning "good knowledge", or "excellent knowledge", for the word सुविदत्र (*suvidatra*) and cites the example अग्ने याहि (*agne yāhi*) [?]. And:
+
+> पूषा त्वेतश्च्यावयतु प्र विद्वाननष्टपशुर्भुवनस्य गोपाः ।
+> स त्वैतेभ्यः परि ददत्पितृभ्योऽग्निर्देवेभ्यः सुविदत्रियेभ्यः ॥
+
+> *pūṣā tvetaścyāvayatu pra vidvānanaṣṭapaśurbhuvanasya gopāḥ |*
+> *sa tvaitebhyaḥ pari dadatpitṛbhyo 'gnirdevebhyaḥ suvidatriyebhyaḥ ‖*
+
+*(Ṛk Saṃ. 10-17-3.)* While giving the nirvacana of this Ṛk, Yāska says:
+
+> सुविदत्रं धनं भवति विन्दतेर्वैकोपसर्गाद्ददातेर्वा स्याद् द्व्युपसर्गात् ।
+
+> *suvidatraṃ dhanaṃ bhavati vindatervaikopasargāddadātervā syād dvyupasargāt |*
+
+*(Ni. 7-9 [?]; the numerals are small and were not zoomed; the file has no row for it.)* That is, सुविदत्र (*suvidatra*) means wealth. The word can be derived either from the root विन्दति (*vindati*) (meaning "to obtain") with the one upasarga सु (*su*), or from the root ददाति (*dadāti*) (meaning "to give") with the two upasargas सु (*su*) and वि (*vi*).
+
+---
+
+## Sūkta 10
+
+*(Heading of the next sūkta, translated from the Kannada: Sūkta 10 of the Tenth ... as printed: Maṇḍala 2, Anuvāka 1, Sūkta 10; Aṣṭaka 2, Adhyāya 6, Varga 2.)*
+
+*Heading on p. 562 and the introduction (below): "Maṇḍala 2, Anuvāka 1, Sūkta 10; Aṣṭaka 2, Adhyāya 6, Varga 2"; number of Ṛks in the sūkta: 6; ṛṣi: Gṛtsamada; devatā: Agni; chandas: Triṣṭup.*
+
+*Introduction by Sāyaṇa (Sanskrit, then the Kannada anuvāda).* *(Gist: the tenth sūkta, "jōhūtra", has six Ṛks; Gṛtsamada, Agni, Triṣṭup; its use was stated together with the previous one.)*
+
+> जोहूत्र इति षडृचं दशमं सूक्तं गार्त्समदं त्रैष्टुभमाग्नेयं जोहूत्र इत्यनुक्रांतत्वात् । सूक्तविनियोगः पूर्वेण सहोक्तः ॥
+
+> *johūtra iti ṣaḍṛcaṃ daśamaṃ sūktaṃ gārtsamadaṃ traiṣṭubhamāgneyaṃ johūtra ityanukrāṃtatvāt | sūktaviniyogaḥ pūrveṇa sahoktaḥ ‖*
+
+*Anuvāda (translated):* This sūkta beginning जोहूत्रः (*johūtraḥ*) is the tenth sūkta in the first anuvāka. It has six Ṛks. Gṛtsamada is the ṛṣi of this sūkta; Agni the deity; Triṣṭup the metre. The Anukramaṇikā states it with the opening word जोहूत्र (*johūtra*). The use (viniyoga) of this sūkta has been stated earlier.
+
+*(At the foot of p. 561, signature marks "[36]" and "Vol. 14".)*
+
+---
+
+### Printed p. 562 (PDF 584)
+
+*(Header: "562", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". After "|| ओं ||" and "Sūkta—10" the page gives the heading block as stated above: ṛṣi Gṛtsamada, devatā Agni, chandas Triṣṭup. The numeral file has no rows for this page.)*
+
+**Ṛk 1**
+
+*Saṃhitā-pāṭha*
+
+> जोहूत्रो अग्निः प्रथमः पितेवेळस्पदे मनुषा यत्समिद्धः ।
+> श्रियं वसानो अमृतो विचेता मर्मृजेन्यः श्रवस्यः स वाजी ॥ १ ॥
+
+> *johūtro agniḥ prathamaḥ piteveḷaspade manuṣā yatsamiddhaḥ |*
+> *śriyaṃ vasāno amṛto vicetā marmṛjenyaḥ śravasyaḥ sa vājī ‖ 1 ‖*
+
+*(In the Saṃhitā the word before सः (*saḥ*) is printed with a stray mark after श्रवस्य (*śravasya*); read श्रवस्यः (*śravasyaḥ*) as in the Pada.)*
+
+*Pada-pāṭha*
+
+*(The small stroke inside the compounds, and in पिता ऽइव (*pitā 'iva*), is written ऽ.)*
+
+> जोहूत्रः । अग्निः । प्रथमः । पिता ऽइव । इळः । पदे । मनुषा । यत् । संऽइद्धः ।
+> श्रियं । वसानः । अमृतः । विऽचेताः । मर्मृजेन्यः । श्रवस्यः । सः । वाजी ॥ १ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: Agni is to be called or offered to by all for the sacrifice; he, first and chief, when kindled by the sacrificer on the uttaravedi, protects the gods like a father, carrying the oblations; clad in splendour, immortal, wise, he is strong and to be served by all.)*
+
+> जोहूत्रः सर्वैर्यज्ञार्थं ह्वातव्यो होतव्यो वा ॥ हूयतेर्जुहोतेर्वा रूपं ॥ तादृशः प्रथमः । अग्निर्वै [?] देवानामवमः इत्याम्नानात् । मुख्यो यो अग्निः । यत् यदेळे [?] इळायोः [?] पद उत्तरवेद्यात्मके स्थाने मनुषा मनुष्येण यजमानेन समिद्धः सोऽग्निः पितेव देवानां हविष्प्रापणेन पालको भवति । श्रियं दीप्तिं वसान आच्छादयन् अमृतो मरणधर्मरहितो विचेता विविधप्रज्ञः श्रवस्यः । श्रव इत्यन्ननाम । तस्मै हितः । वाजी बलवान् । सोऽग्निर्मर्मृजेन्यः सर्वैः परिचरणीयो भवति ॥ यज्ल्लगंतात्केन्यप्रत्ययः [?] ॥
+
+> *johūtraḥ sarvairyajñārthaṃ hvātavyo hotavyo vā ‖ hūyaterjuhotervā rūpaṃ ‖ tādṛśaḥ prathamaḥ | agnirvai [?] devānāmavamaḥ ityāmnānāt | mukhyo yo agniḥ | yat yadeḷe [?] iḷāyoḥ [?] pada uttaravedyātmake sthāne manuṣā manuṣyeṇa yajamānena samiddhaḥ so 'gniḥ piteva devānāṃ haviṣprāpaṇena pālako bhavati | śriyaṃ dīptiṃ vasāna ācchādayan amṛto maraṇadharmarahito vicetā vividhaprajñaḥ śravasyaḥ | śrava ityannanāma | tasmai hitaḥ | vājī balavān | so 'gnirmarmṛjenyaḥ sarvaiḥ paricaraṇīyo bhavati ‖ yajllagaṃtātkenyapratyayaḥ [?] ‖*
+
+*(Grammatical tail, characterized only: it says that the suffix केन्य (*kenya*) (the -enya of मर्मृजेन्य (*marmṛjenya*)) is added to a stem; the first word of the remark is printed in a way I could not settle, marked [?]. In the bhāṣya the first word अग्निर्वै (*agnirvai*) is printed with an ā-like first letter, and the words after यत् (*yat*) are not clear; marked [?].)*
+
+*(The bhāṣya of Ṛk 1 ends here. The Pratipadārtha begins on p. 563.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 562 (PDF 584); offset printed = PDF − 22 holds. Sūkta 9 is complete (Ṛk 6: bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on sainānīkena/Āśvalāyana Ā. 2-18, suvidatra with Ni. 6-14, Ṛk Saṃ. 10-17-3 and the Nirukta nirvacana). Sūkta 10 has begun: heading block, introduction and anuvāda, Ṛk 1 Saṃhitā, Pada and bhāṣya are written; **Ṛk 1 is open**: its Pratipadārtha starts on printed p. 563 (PDF 585). Flags: FILE DISAGREE none (Ā. 2-18, Ni. 6-14 and Ṛk Saṃ. 10-17-3 agree; no zooms). Page 580's row set for p. 562 is empty, so the heading numerals are mine. [?] places: p. 560 bhāṣya ⟦एनानेनानीकेन⟧; p. 561 ⟦अग्निरनीकनान्⟧ (as printed), ⟦आग्ने⟧ and ⟦अर्वाज्⟧ in the Yāska quotation, Ni. reference "7-9" (not in file, not zoomed); p. 561 header varga numeral read as 2 (as printed); p. 562 bhāṣya ⟦अग्निर्वै⟧, ⟦यदेळे⟧, ⟦इळायोः⟧ and the tail ⟦यज्ल्लगंतात्केन्य…⟧; Saṃhitā ⟦श्रवस्यः⟧ with a stray mark.
