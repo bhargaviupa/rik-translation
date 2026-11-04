@@ -23081,4 +23081,156 @@ The great delight that Indra himself felt from drinking Soma he has described in
 
 ---
 
-**Progress note:** Done through printed p. 607 (PDF 629). Sūkta 11: Ṛk 10 was already complete (p. 605 begins directly with Ṛk 11). Ṛk 11 is complete through its Saṃhitā, Pada, bhāṣya (with grammatical tail), Pratipadārtha, Bhāvārtha and printed English (pp. 605–606). Its Special Topics (Soma-drinking of Indra: AB 28-3, RV 1-104-9, 8-2-4, 3-32-9/10, 8-77-4, Nirukta 5-11, 6-47-6, 8-4-10 and a bar-list) are left OPEN. They end on p. 607 with the sentence "…ṛ. saṃ. 10-119 sūktadalli nānāvidhavāgi tānē varṇisidānē—" and continue on p. 608. Flags: no FILE DISAGREE where the file had a clear value. The file was garbled or missing in several lists (pp. 606–607), where my own strip readings were used with [?]: 3-40-1, "6-?-1", "?-29-4", 8-7-10, 2-14-10, 2-16-2, 3-42-1, 8-12-23, 8-17-5,8, 8-67-7, and 10-119, all unzoomed. [?] Sanskrit places: मध्यन्दिने and समेव (AB quote, p. 606); अद्रोघ (p. 607); तान्यत्र vs शान्यत्र (Nirukta quote); चक्रमाणः (p. 607). The printed "(मत्तु)" in the Pratipadārtha is kept as printed. Unzoomed: running headers of pp. 605–607 (varga numeral read as 5), the Ṛk number ॥११॥. The file had no rows for p. 605.
+---
+
+### Printed p. 608 (PDF 630)
+
+*(Header: "608", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The Special Topics of Ṛk 11 continue. The page opens directly with the quotation from the sūkta ऋ. सं. (*ṛ. saṃ.*) 10-119, thirteen pādas, each ending with the refrain "कुवित्सोमस्यापामिति". The verse numbers 1–12 are printed after them; the thirteenth carries only the closing "॥", with no number printed.)*
+
+> इति वा इति मे मनो गामश्वं सनुयामिति । कुवित्सोमस्यापामिति ॥ १ ॥
+> प्र वाता इव दोधत उन्मा पीता अयंसत । कुवित्सोमस्यापामिति ॥ २ ॥
+> उन्मा पीता अयंसत रथमश्वा इवाशवः । कुवित्सोमस्यापामिति ॥ ३ ॥
+> अहं तष्टेव वन्धुरं पर्यचामि हृदा मतिम् । कुवित्सोमस्यापामिति ॥ ४ ॥
+> उप मा मतिरस्थित वाश्रा पुत्रमिव प्रियम् । कुवित्सोमस्यापामिति ॥ ५ ॥
+> नहि मे अक्षिपच्छनाच्छान्त्सः [?] पञ्च कृष्टयः । कुवित्सोमस्यापामिति ॥ ६ ॥
+> नहि मे रोदसी उभे अन्यं पक्षं चन प्रति । कुवित्सोमस्यापामिति ॥ ७ ॥
+> अभि द्यां महिना भुवमभीमां [?] पृथिवीं महीम् । कुवित्सोमस्यापामिति ॥ ८ ॥
+> हन्ताहं पृथिवीमिमां नि दधानीह वेह वा । कुवित्सोमस्यापामिति ॥ ९ ॥
+> ओषमित्पृथिवीमहं जङ्घनानीह वेह वा । कुवित्सोमस्यापामिति ॥ १० ॥
+> दिवि मे अन्यः पक्षोऽधो अन्यमचीकृषम् । कुवित्सोमस्यापामिति ॥ ११ ॥
+> अहमस्मि महामहोऽभिनभ्यमुदीषितः । कुवित्सोमस्यापामिति ॥ १२ ॥
+> गृहो याम्यरंकृतो देवेभ्यो हव्यवाहनः । कुवित्सोमस्यापामिति ॥
+
+> *iti vā iti me mano gāmaśvaṃ sanuyāmiti | kuvitsomasyāpāmiti ‖ 1 ‖*
+> *pra vātā iva dodhata unmā pītā ayaṃsata | kuvitsomasyāpāmiti ‖ 2 ‖*
+> *unmā pītā ayaṃsata rathamaśvā ivāśavaḥ | kuvitsomasyāpāmiti ‖ 3 ‖*
+> *ahaṃ taṣṭeva vandhuraṃ paryacāmi hṛdā matim | kuvitsomasyāpāmiti ‖ 4 ‖*
+> *upa mā matirasthita vāśrā putramiva priyam | kuvitsomasyāpāmiti ‖ 5 ‖*
+> *nahi me akṣipacchanācchāntsaḥ [?] pañca kṛṣṭayaḥ | kuvitsomasyāpāmiti ‖ 6 ‖*
+> *nahi me rodasī ubhe anyaṃ pakṣaṃ cana prati | kuvitsomasyāpāmiti ‖ 7 ‖*
+> *abhi dyāṃ mahinā bhuvamabhīmāṃ [?] pṛthivīṃ mahīm | kuvitsomasyāpāmiti ‖ 8 ‖*
+> *hantāhaṃ pṛthivīmimāṃ ni dadhānīha veha vā | kuvitsomasyāpāmiti ‖ 9 ‖*
+> *oṣamitpṛthivīmahaṃ jaṅghanānīha veha vā | kuvitsomasyāpāmiti ‖ 10 ‖*
+> *divi me anyaḥ pakṣo 'dho anyamacīkṛṣam | kuvitsomasyāpāmiti ‖ 11 ‖*
+> *ahamasmi mahāmaho 'bhinabhyamudīṣitaḥ | kuvitsomasyāpāmiti ‖ 12 ‖*
+> *gṛho yāmyaraṃkṛto devebhyo havyavāhanaḥ | kuvitsomasyāpāmiti ‖*
+
+*(Reference printed: (ऋ. सं. 10-119-1 to 13); agrees with the numeral file. The third word of verse 6 is printed in conjuncts that I cannot decide; the line is kept with [?]. In verse 8 the word after भुवम् shows an extra glyph between भी and मां; read as भुवमभीमां with [?]. Both unzoomed.)*
+
+The Kannada rendering of these Ṛks, as printed:
+
+1. I have drunk Soma. (From the joy arising from that Soma-drinking, to those who praise me) I have made up my mind to give cows and horses.
+
+2. The Soma that I have drunk, rushing forth, rouses me like a wind that blows. I have drunk Soma.
+
+3. The Soma that I have drunk makes my mind impetuous, as the horses of a chariot draw the chariot swiftly. I have drunk Soma.
+
+4. The stotra recited by those who worship me makes me hasten, as a cow comes in eagerness to the neighbourhood of her beloved calf. I have drunk Soma.
+
+5. As a carpenter who does woodwork turns a piece of wood, so I turn that stotra in my mind (I ponder it). I have drunk Soma.
+
+6. The pañcajanas (people of the five groups) appear to my eyes as less than a blade of grass (a very small thing). I have drunk Soma.
+
+7. The two worlds (the earth and the atmosphere), even together, cannot equal half of my (power). I have drunk Soma.
+
+8. In greatness (in power and might) I have surpassed heaven and this vast earth. I have drunk Soma.
+
+---
+
+### Printed p. 609 (PDF 631)
+
+*(Header: "A. 2 A. 6 V. 5" as it looks (unzoomed), "Ṛgvedasaṃhitā", "609". The rendering of the Ṛks of 10-119 continues.)*
+
+9. Ha! This earth, whether here or elsewhere, I shall set in place. I have drunk Soma.
+
+10. Ha! I shall quickly beat this earth hither and thither. I have drunk Soma.
+
+11. Half of my (body) is in the atmosphere. The remaining half I have brought down. I have drunk Soma.
+
+12. By my great greatness I have been raised up to heaven. I have drunk Soma.
+
+13. I (like Agni) am the ṛtvij in the sacrificial house and the bearer of oblations to the deities. I have drunk Soma.
+
+Thus in many Ṛks the Soma-drinking of Indra is described. As it would be too lengthy, it is not possible to explain all of them here. Those matters will be considered only in the respective contexts.
+
+*(A short rule closes the Special Topics of Ṛk 11. At the foot of the page is the signature mark "[39]" and "Vol. 14.")*
+
+---
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> त्वे इ॒न्द्राप्य॑भूम॒ विप्रा॒ धियं॑ वनेम ऋत॒या सप॑न्तः ।
+> अ॒व॒स्यवो॑ धीमहि॒ प्रश॑स्तिं स॒द्यस्ते॑ रा॒यो दा॒वने॑ स्याम ॥ १२ ॥
+
+> *tve indrāpyabhūma viprā dhiyaṃ vanema ṛtayā sapantaḥ |*
+> *avasyavo dhīmahi praśastiṃ sadyaste rāyo dāvane syāma ‖ 12 ‖*
+
+**॥ पदपाठः ॥**
+
+*(In the Pada the word after वनेम is printed as ऋत्ययाः, as it looks; the Saṃhitā has ऋतया and the Pratipadārtha has ऋतया. Read here as ऋत्यया with [?], unzoomed.)*
+
+> त्वे इति । इन्द्र । अपि । अभूम । विप्राः । धियं । वनेम । ऋत्यया [?] । सपन्तः ।
+> अवस्यवः । धीमहि । प्रशस्तिं । सद्यः । ते । रायः । दावने । स्याम ॥ १२ ॥
+
+> *tve iti | indra | api | abhūma | viprāḥ | dhiyaṃ | vanema | ṛtyayā [?] | sapantaḥ |*
+> *avasyavaḥ | dhīmahi | praśastiṃ | sadyaḥ | te | rāyaḥ | dāvane | syāma ‖ 12 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O Indra, we the wise abide in your heart, serving you with desire for the fruit of rites; seeking your protection we offer you praise, that we may at once be fit for the gift of your wealth.*
+
+*(Grammatical tail: it says that the root वन (षण, in the sense of sharing/resorting) takes the Āśīrliṅ ending in the Liṅ with the affix शिष्यङ्; the letters of the technical terms are printed in a way I cannot read with certainty, so they are given with [?]. No sūtra numbers are printed. The bhāṣya runs over onto p. 610.)*
+
+> हे इन्द्र विप्रा मेधाविनो वयं त्वे त्वयि त्वद्धृदयेऽभूम । अपि सानुनयेप्रश्ने वर्तते । ते तव हृदये किं वर्तामह इति । ऋतया । ऋतं कर्मफलं । तत्कामनया सपन्तस्त्वां परिचरणाख्येन कर्मणा स्पृशन्तो वयं धियं त्वदुद्देशेन क्रियमाणं कर्म वनेम । संभजेमहि ॥ वन षण संभक्तौ । आशीर्लिङ् [?] लिङ्याशि-
+
+> *he indra viprā medhāvino vayaṃ tve tvayi tvaddhṛdaye 'bhūma | api sānunayepraśne vartate | te tava hṛdaye kiṃ vartāmaha iti | ṛtayā | ṛtaṃ karmaphalaṃ | tatkāmanayā sapantastvāṃ paricaraṇākhyena karmaṇā spṛśanto vayaṃ dhiyaṃ tvaduddeśena kriyamāṇaṃ karma vanema | saṃbhajemahi ‖ vana ṣaṇa saṃbhaktau | āśīrliṅ [?] liṅyāśi-*
+
+---
+
+### Printed p. 610 (PDF 632)
+
+*(Header: "610", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed. The bhāṣya of Ṛk 12 continues from p. 609.)*
+
+> ष्यङ्प्रत्ययः [?] ॥ किंच अवस्यवस्त्वत्तो रक्षणमिच्छन्तः प्रशस्तिं । शस्तिः शंसनं । प्रकृष्टशंसनं स्तोत्रं धीमहि । त्वयि निदधीमहि । ततस्ते त्वदीयस्य रायो धनस्य दावने दानाय पात्रभूताः सद्यः स्याम । इदानीं भवेम ॥
+
+> *ṣyaṅpratyayaḥ [?] ‖ kiṃca avasyavastvatto rakṣaṇamicchantaḥ praśastiṃ | śastiḥ śaṃsanaṃ | prakṛṣṭaśaṃsanaṃ stotraṃ dhīmahi | tvayi nidadhīmahi | tataste tvadīyasya rāyo dhanasya dāvane dānāya pātrabhūtāḥ sadyaḥ syāma | idānīṃ bhavema ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+- इन्द्र (*indra*)—O Indra;
+- विप्राः (*viprāḥ*)—we, the wise;
+- त्वे (*tve*)—in your heart itself;
+- अभूम (*abhūma*)—let us be;
+- ऋतया (*ṛtayā*)—from the desire for the fruit of action;
+- सपन्तः (*sapantaḥ*)—serving you;
+- धियं (*dhiyaṃ*)—the action directed to you;
+- वनेम (*vanema*)—we resort to (we practise);
+- अवस्यवः (*avasyavaḥ*)—desiring your protection;
+- प्रशस्तिं (*praśastiṃ*)—your praise;
+- धीमहि (*dhīmahi*)—we offer;
+- ते (*te*)—your;
+- रायः (*rāyaḥ*)—of wealth;
+- दावने (*dāvane*)—for the gift;
+- सद्यः स्याम (*sadyaḥ syāma*)—let us become fit (recipients) at once.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, may we, the wise, abide in your heart itself. Serving you from the desire for the fruit of action, we resort to the action directed to you. Having desired your protection, we offer your praise. May we become fit to receive the gift of your wealth at once.
+
+**English Translation** *(as printed)*
+
+May we, your pious (worshippers), abide in you : approaching you with devotion, may we enjoy (the reward of) our adoration : desirous of protection, we meditate your glorification ; may we ever be (thought worthy) of the gift of your treasures·
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**अपि (*api*)—अपीति संसर्गं (*apīti saṃsargaṃ*) (नि. 1-4)** *(reference printed (नि. 1-4); agrees with the numeral file)*. The word अपि (*api*) generally indicates the connection or relation between two words. Connection (saṃsarga) means joining one thing with another. For example, अहस्सु रात्रिष्वपि (*ahassu rātriṣvapi*) means "in the days and also in the nights"; the word अपि (*api*) indicates the relation, or common property, of night and day, namely that whatever work goes on in the daytime goes on also at night. In the present Ṛk, as Sāyaṇa says, अपि सानुनयेप्रश्ने वर्तते (*api sānunayepraśne vartate*), it indicates a prayer made with humility.
+
+**विप्राः (*viprāḥ*)—मेधाविनो (*medhāvino*) वयं (*vayaṃ*)—we, the wise.** Though the word अस्मत् (*asmat*) is not used here, because the Ṛk has the first-person verb forms वनेम (*vanema*) and स्याम (*syāma*), the word वयं (*vayaṃ*) ("we") must be supplied by adhyāhāra.
+
+*(The Special Topics of Ṛk 12 end at the foot of p. 610 with this item; whether more follows is not known until p. 611, so Ṛk 12 is left open.)*
+
+---
+
+**Progress note:** Done through printed p. 610 (PDF 632). Sūkta 11: Ṛk 11 is now complete: its Special Topics ended on pp. 608–609 with the sūkta 10-119 quotation (13 pādas) and the Kannada rendering of its verses 1–13, followed by the closing remark that further descriptions are left to their own contexts. Ṛk 12 is begun: Saṃhitā, Pada, bhāṣya (the tail is cut at the p. 609/610 break), Pratipadārtha, Bhāvārtha and printed English are done. Its Special Topics have two items (अपि; विप्राः/वयं) and are left OPEN, since p. 611 has not been read. Flags: no FILE DISAGREE (file rows for 10-119-1 to 13 and Nirukta 1-4 agree). [?] places, all unzoomed: अक्षिपच्छनाच्छान्त्सः (verse 6) and भुवमभीमां (verse 8) in the 10-119 quotation; the Pada word ऋत्यया, which differs from the Saṃhitā ऋतया; the grammatical-tail letters आशीर्लिङ् … ष्यङ्प्रत्ययः in the bhāṣya. The verse numbers of 10-119 (1–12; the thirteenth has none printed), the running headers of pp. 609–610 and the Ṛk number ॥१२॥ are unzoomed. The page-609 "[39] Vol. 14." is only a printer's signature mark.
