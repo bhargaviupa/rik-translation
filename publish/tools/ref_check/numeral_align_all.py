@@ -38,6 +38,31 @@ for r in list(openpyxl.load_workbook(a.num, read_only=True).active.iter_rows(val
     try: lat = fold(transliterate(k, "kannada", "iast"))
     except Exception: lat = ""
     frows[pg].append(dict(page=pg, line=ln, val=v, raw=str(eng), ctx=str(ctx or ""), f=lat))
+# Adjacent plain numbers ("೧೧೯, ೧೨೪, ೧೨೫", "೫ ಮತ್ತು ೬") are not listed as rows in the user's file: extract them from the Kannada context (column E)
+ADJ = re.compile(r"(?<![\d\-.])\d+(?:\s*(?:,|ಮತ್ತು|ಹಾಗೂ|ಅಥವಾ)\s*\d+)+(?![\d\-.])")
+seen_ctx = {}
+for pg, rl in list(frows.items()):
+    for f in rl: seen_ctx.setdefault((pg, f["line"]), f)
+extra = 0
+for (pg, ln), f in seen_ctx.items():
+    have = {x["val"] for x in frows[pg] if x["line"] == ln}
+    for m in ADJ.finditer(f["ctx"].translate(K2A)):
+        v = "-".join(re.findall(r"\d+", m.group(0)))
+        if len(v.split("-")) >= 2 and v not in have:
+            have.add(v); extra += 1
+            frows[pg].append(dict(page=pg, line=ln, val=v, raw=m.group(0), ctx=f["ctx"], f=f["f"], adj=True))
+EXT = re.compile(r"(\d+(?:[-.]\d+)+)((?:\s*(?:,|ಮತ್ತು|ಹಾಗೂ)\s*\d+(?![\d\-.]))+)")
+ext = 0
+for (pg, ln), f in seen_ctx.items():
+    have = {x["val"] for x in frows[pg] if x["line"] == ln}
+    for m in EXT.finditer(f["ctx"].translate(K2A)):
+        base = re.findall(r"\d+", m.group(1))
+        for t in re.findall(r"\d+", m.group(2)):
+            v = "-".join(base[:-1] + [t])
+            if v not in have and len(base) >= 2:
+                have.add(v); ext += 1
+                frows[pg].append(dict(page=pg, line=ln, val=v, raw=m.group(0), ctx=f["ctx"], f=f["f"], adj=True))
+print("extra file rows from adjacent plain numbers in column E:", extra, "; from 'ref, N' / 'ref ಮತ್ತು N' extensions:", ext)
 mrows = collections.defaultdict(list); cur = None; printed = None; seq = 0
 for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
     m = re.match(r"#+\s*Page\s+(\w+)\s*\(PDF\s*(\d+)", l)
@@ -48,10 +73,21 @@ for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
         full = m.group(1)
         if re.search(r",\s", full):   # comma list of references ('3-54-20, 5-69-3'): one token per segment with >= 2 parts
             off = 0
-            for seg in re.split(r",\s+", full):
+            segl = re.split(r",\s+", full)
+            if all(len(parts(sg)) == 1 for sg in segl): segs.append((m.start(), full, m.group(2), m)); continue   # plain list "119, 124, 125": one token
+            for seg in segl:
                 if len(parts(seg)) >= 2: segs.append((m.start() + full.index(seg, off), seg, m.group(2) if seg is full.split(",")[-1] else None, m))
                 off += len(seg)
         else: segs.append((m.start(), full, m.group(2), m))
+    EXTM = re.compile(r"^((?:\s*(?:,|and|&)\s*\[?\d+\]?(?![\d\-.]))+)")
+    more = []
+    for st, tokt, qq, m in segs:
+        if len(parts(tokt)) >= 2 and "," not in tokt:
+            tail = EXTM.match(l[st + len(tokt):])
+            if tail:
+                base = parts(tokt)
+                for t in re.findall(r"\d+", tail.group(1)): more.append((st, "-".join(base[:-1] + [t]), None, m))
+    segs += more
     for st, tokt, qq, m in segs:
         ps = parts(tokt)
         if len(ps) < 2: continue
