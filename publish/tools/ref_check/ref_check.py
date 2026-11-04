@@ -91,12 +91,12 @@ def main():
         else:
             msg = f"LINE (Devanagari):\n{row['line']}\n\nREFERENCE (noisy romanization):\n{row['ref_window']}\n"
             try:
-                r = client.messages.create(model=a.model, max_tokens=1500, system=SYS,
+                r = client.messages.create(model=a.model, max_tokens=6000, system=SYS,
                                            messages=[{"role": "user", "content": msg}])
             except Exception as ex:
                 print(f"\nAPI ERROR ({type(ex).__name__}): {ex}\n(model used: {a.model}; try --model to change it)")
                 sys.exit(1)
-            txt = r.content[0].text
+            txt = "".join(b.text for b in r.content if getattr(b, "type", "") == "text")
             try: row["result"] = json.loads(txt[txt.find("{"): txt.rfind("}") + 1])
             except Exception: row["result"] = {"raw": txt}
             row["tokens"] = [r.usage.input_tokens, r.usage.output_tokens]
