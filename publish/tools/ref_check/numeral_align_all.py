@@ -40,9 +40,9 @@ for r in list(openpyxl.load_workbook(a.num, read_only=True).active.iter_rows(val
     frows[pg].append(dict(page=pg, line=ln, val=v, raw=str(eng), ctx=str(ctx or ""), f=lat))
 mrows = collections.defaultdict(list); cur = None; printed = None; seq = 0
 for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
-    m = re.match(r"#+\s*Page\s+(\d+)\s*\(PDF\s*(\d+)", l)
-    if m: printed, cur = int(m.group(1)), int(m.group(2))
-    if cur is None or l.lstrip().startswith("*") or not DEV.search(l): continue
+    m = re.match(r"#+\s*Page\s+(\w+)\s*\(PDF\s*(\d+)", l)
+    if m: printed, cur = m.group(1), int(m.group(2))
+    if cur is None or l.lstrip().startswith("*") or l.startswith("|") or l.startswith("#"): continue
     for m in REF.finditer(l):
         ps = parts(m.group(1))
         if len(ps) < 2: continue
