@@ -21,3 +21,6 @@ The volume read `Ni. 12-41` in five places (printed pp. 270–272: bhāṣya, IA
 
 ## Window widened to PDF+1 (user's table, Nov 4 2026)
 The user's sample rows (file page 18: 7.12, 7.4, 5-2-2, …) belong to our PDF 17 (md line 161): in the early pages the file page is PDF **+1**, outside the earlier window PDF−2…PDF. All three scripts now use file pages PDF−2…PDF+1. Chance-match baseline on a window shifted by 37 pages: 3 of 345 tokens. Applied: **66 more exact matches** (`numeral_exact2.applied.tsv`) and **11 more look-alike single-digit pairings** (md lines 1171, 2065, 3278, 3464, 4459, 4759, 5340, 6367, 11113, 11616, 15318).
+
+## All one-digit pairings applied (user: file always correct; his sample showed 8-4→7-4)
+`numeral_pairs_lev1.applied.tsv`: every remaining page-set pairing at edit distance 1 applied (not only look-alike swaps). Distance-2 pairings (e.g. 5-3-3→5-2-2) not applied yet: unrelated leftovers are likelier there.
