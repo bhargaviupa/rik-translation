@@ -21044,4 +21044,143 @@ In this Ṛk, which concludes the sūkta, Agni is prayed to make us free of sin 
 
 ---
 
-**Progress note:** Done through printed p. 562 (PDF 584); offset printed = PDF − 22 holds. Sūkta 9 is complete (Ṛk 6: bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on sainānīkena/Āśvalāyana Ā. 2-18, suvidatra with Ni. 6-14, Ṛk Saṃ. 10-17-3 and the Nirukta nirvacana). Sūkta 10 has begun: heading block, introduction and anuvāda, Ṛk 1 Saṃhitā, Pada and bhāṣya are written; **Ṛk 1 is open**: its Pratipadārtha starts on printed p. 563 (PDF 585). Flags: FILE DISAGREE none (Ā. 2-18, Ni. 6-14 and Ṛk Saṃ. 10-17-3 agree; no zooms). Page 580's row set for p. 562 is empty, so the heading numerals are mine. [?] places: p. 560 bhāṣya ⟦एनानेनानीकेन⟧; p. 561 ⟦अग्निरनीकनान्⟧ (as printed), ⟦आग्ने⟧ and ⟦अर्वाज्⟧ in the Yāska quotation, Ni. reference "7-9" (not in file, not zoomed); p. 561 header varga numeral read as 2 (as printed); p. 562 bhāṣya ⟦अग्निर्वै⟧, ⟦यदेळे⟧, ⟦इळायोः⟧ and the tail ⟦यज्ल्लगंतात्केन्य…⟧; Saṃhitā ⟦श्रवस्यः⟧ with a stray mark.
+### Printed p. 563 (PDF 585)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (the varga numeral not zoomed), "Ṛgvedasaṃhitā", printed number **563**. The numeral file has only one row for this page, Ni. 2-22, which agrees with my reading of the strip.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+जोहूत्रः (*johūtraḥ*)—one who is called by all, or who is worshipped. प्रथमः (*prathamaḥ*)—(among all the deities) the chief. अग्निः (*agniḥ*)—Agni. यत् (*yat*)—when. इळः (*iḷaḥ*)—of the earth. पदे (*pade*)—in the place that has the form of the uttaravedi. मनुषा (*manuṣā*)—by man. समिद्धः (*samiddhaḥ*)—he is kindled (then). पितेव (*piteva*)—(by carrying the oblation to the deities, he becomes) like a father who protects them. श्रियं (*śriyaṃ*)—splendour. वसानः (*vasānaḥ*)—clothed in. अमृतः (*amṛtaḥ*)—free of the nature of death. विचेताः (*vicetāḥ*)—possessed of manifold wisdom. श्रवस्यः (*śravasyaḥ*)—a giver of food. वाजी (*vājī*)—powerful. सः (*saḥ*)—Agni. मर्मृजेन्यः (*marmṛjenyaḥ*)—he is one who is to be worshipped by all.
+
+*Bhāvārtha (Kannada, translated)*
+
+Agni, who is called by all for help and is chief among all the deities: when he is kindled by man in the place on the earth that has the form of the uttaravedi, then, by carrying the oblation to the deities, he becomes like a father who protects them. Agni, who is clothed in splendour, free of the nature of death, possessed of manifold wisdom, a giver of food and powerful, is one to be worshipped by all.
+
+*English Translation (as printed)*
+
+The adorable Agni, the first (of the gods), and their nourisher when kindled by man upon the altar ; he who is clothed in radiance, is immortal, discriminating, food-bestowing, powerful ; he is to be worshipped.
+
+*Viśeṣaviṣayagaḷu (Special Topics, translated)*
+
+जोहूत्रः (*johūtraḥ*)—This word can be formed either from the root ह्वयेति (*hvayeti*) (as printed) with the meaning "call", or from the root जुहोति (*juhoti*) with the meaning "make homa". For this word the bhāṣya says:
+
+*(Gist: "to be called, or to be offered to, by all for the sake of the sacrifice".)*
+
+> सर्वैर्यज्ञार्थं ह्वातव्यो होतव्यो वा
+
+> *sarvairyajñārthaṃ hvātavyo hotavyo vā*
+
+That is: one who is called by all for the sake of the sacrifice (one who is invoked), or one who is offered to; that is, in the sacrifice all the yajamānas call Agni by invocation, and make homa in Agni, offering to Agni and to the other deities.
+
+प्रथमः (*prathamaḥ*)—For the word प्रथम (*prathama*) Yāska says:
+
+> प्रथमः इति मुख्यनाम प्रतनो भवति ।
+
+> *prathamaḥ iti mukhyanāma pratano bhavati |*
+
+That is, he has given the nirvacana that the word प्रथम (*prathama*) means "chief", or that प्रथमः (*prathamaḥ*) means प्रकृष्टतमः (*prakṛṣṭatamaḥ*), "the most excellent one" (the best). *(Ni. 2-22.)* In the present Ṛk, प्रथमः (*prathamaḥ*) means that Agni is among the deities
+
+*(The passage continues on p. 564.)*
+
+---
+
+### Printed p. 564 (PDF 586)
+
+*(Header: "564", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". In the numeral file the first row of this page is garbled; the references below agree with the file's rows except where noted.)*
+
+the chief, or the best. To support this point, the sentence of the Aitareya Brāhmaṇa (Ai. Brā. 1-1) is cited:
+
+> अग्निर्वै देवानामवमो विष्णुः परमः
+
+> *agnirvai devānāmavamo viṣṇuḥ paramaḥ*
+
+*(The first word, which was a doubtful reading in the Ṛk 1 bhāṣya on p. 562, is clearly printed here as अग्निर्वै.)* That is, in the list of the deities Agni is the first and Viṣṇu the last; this is the meaning. Besides this:
+
+> अग्निरग्रे प्रथमो देवतानां । संयोतानामुत्तमो विष्णुरासीत् ॥
+
+> *agniragre prathamo devatānāṃ | saṃyotānāmuttamo viṣṇurāsīt ‖*
+
+*(As printed; the third word of the second half, संयोतानाम् (*saṃyotānām*), is read as printed.)* The Taittirīya Brāhmaṇa sentence (Tai. Brā. 2-4-3-3) also says that among all the deities Agni has the first place and Viṣṇu the last place.
+
+इळस्पदे (*iḷaspade*)—
+
+> यत् यदेळे [?] इळायोः [?] पद उत्तरवेद्यात्मके स्थाने ।
+
+> *yat yadeḷe [?] iḷāyoḥ [?] pada uttaravedyātmake sthāne |*
+
+*(The words after यत् (*yat*) are printed as on p. 562 and are not settled; marked [?] again.)* The word इळा (*iḷā*) is read among the names of the earth (Ni. 2-5), among the names of speech (Ni. 2-23), among the names of food (Ni. 3-9 as I read it; the file's row for this is garbled) and among the names of cows (Ni. 3-9). Moreover Yāska has given the nirvacana that the word इळा (*iḷā*) is formed from the root ईट्टे (*īṭṭe*), which means "praise" (ईट्टेः स्तुतिकर्मणः (*īṭṭeḥ stutikarmaṇaḥ*)) (Ni. 11-48; read from the strip, not zoomed). In general, the word इळा (*iḷā*) in the word इळस्पदे (*iḷaspade*) denotes the earth. इळस्पदे (*iḷaspade*) means the uttaravedi, which is the place of the earth. In such an uttaravedi Agni is मनुषा समिद्धः (*manuṣā samiddhaḥ*), that is, kindled, offered to, by the human yajamāna.
+
+> इळस्पदे समिध्यसे स नो वसून्या भर ।
+
+> *iḷaspade samidhyase sa no vasūnyā bhara |*
+
+*(Ṛk Saṃ. 10-191-1; the file agrees.)* In the Ṛk beginning thus, too, this same meaning is explained.
+
+विचेताः (*vicetāḥ*)—
+
+> विविधप्रज्ञः ।
+
+> *vividhaprajñaḥ |*
+
+One who has manifold understanding; that is, one who knows everything, the all-knowing; this is the meaning.
+
+मर्मृजेन्यः (*marmṛjenyaḥ*)—
+
+> सर्वैः परिचरणीयः ।
+
+> *sarvaiḥ paricaraṇīyaḥ |*
+
+"By all": that is, by all, beginning with the yajamāna and the ṛtvigs; one who is served by all; this is the meaning.
+
+---
+
+**Ṛk 2**
+
+*Saṃhitā-pāṭha*
+
+> श्रूया अग्निश्चित्रभानुर्हवं मे विश्वाभिर्गीर्भिरमृतो विचेताः ।
+> श्यावा रथं वहतो रोहिता वोतारुषाह चक्रे विभृत्रः ॥ २ ॥
+
+> *śrūyā agniścitrabhānurhavaṃ me viśvābhirgīrbhiramṛto vicetāḥ |*
+> *śyāvā rathaṃ vahato rohitā votāruṣāha cakre vibhṛtraḥ ‖ 2 ‖*
+
+---
+
+### Printed p. 565 (PDF 587)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (not zoomed), "Ṛgvedasaṃhitā", printed number **565**. The numeral file has no rows for this page.)*
+
+*Pada-pāṭha*
+
+*(The small stroke inside the compounds is the mark ऽ.)*
+
+> श्रूयाः । अग्निः । चित्रऽभानुः । हवं । मे । विश्वाभिः । गीःऽभिः । अमृतः । विऽचेताः ।
+> श्यावा । रथं । वहतः । रोहिता । वा । उत । अरुषा । अह । चक्रे । विऽभृत्रः ॥ २ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: Agni, immortal and wise, of wondrous splendour, is asked to hear my invocation made with all hymns; tawny or red horses draw his chariot, the colour being by their own wish; priests bear him to various places.)*
+
+> अमृतो मरणधर्मरहितो विचेता विशिष्टप्रज्ञश्चित्रभानुर्विचित्रदीप्तिश्श्यायुनीयदीप्तिर्वा [?] सोऽग्निर्विश्वाभिर्गीर्भिः स्तुतिसाधनभूतैः सर्वैर्वाक्यैः क्रियमाणं मे मम हवं स्तोत्रं श्रूयाः । शृणोतु । तस्याग्ने रथं श्यावा श्याववर्णावश्वौ वहतः । वा अपि वा रोहिता रोहिद्वर्णावश्वौ रथं वहतः । रोहिद्वर्णयोरश्वयोः श्यावादिवर्णपरिग्रहः स्वेच्छया भवति । विभृत्रो नानास्थानेषु विहृतेश्चक्रे [?] । ऋत्विग्भिरकारि खलु ॥ करोतेः कर्मणि लिट् ॥
+
+> *amṛto maraṇadharmarahito vicetā viśiṣṭaprajñaścitrabhānurvicitradīptiśśyāyunīyadīptirvā [?] so 'gnirviśvābhirgīrbhiḥ stutisādhanabhūtaiḥ sarvairvākyaiḥ kriyamāṇaṃ me mama havaṃ stotraṃ śrūyāḥ | śṛṇotu | tasyāgne rathaṃ śyāvā śyāvavarṇāvaśvau vahataḥ | vā api vā rohitā rohidvarṇāvaśvau rathaṃ vahataḥ | rohidvarṇayoraśvayoḥ śyāvādivarṇaparigrahaḥ svecchayā bhavati | vibhṛtro nānāsthāneṣu vihṛteścakre [?] | ṛtvigbhirakāri khalu ‖ karoteḥ karmaṇi liṭ ‖*
+
+*(Two places are marked [?]: the word printed as श्यायुनीयदीप्तिः (the first letter looks like श्या/श्चा) and विहृतेः (as printed, perhaps विधृतः). The grammatical tail करोतेः कर्मणि लिट् (*karoteḥ karmaṇi liṭ*) is transcribed only.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+अमृतः (*amṛtaḥ*)—one free of the nature of death. विचेताः (*vicetāḥ*)—one possessed of distinguished wisdom. चित्रभानुः (*citrabhānuḥ*)—one possessed of wondrous splendour. अग्निः (*agniḥ*)—Agni. विश्वाभिर्गीर्भिः (*viśvābhirgīrbhiḥ*)—composed with all speeches (all words). मे (*me*)—my. हवं (*havaṃ*)—hymn. श्रूयाः (*śrūyāḥ*)—may he hear. श्यावा (*śyāvā*)—the horses of dark-brown colour. वा (*vā*)—or (and). रोहिता (*rohitā*)—those of red colour. उत (*uta*)—and. अरुषा (*aruṣā*)—the horses of saffron (kuṅkuma) colour. रथं (*rathaṃ*)—they carry the chariot of Agni (and). विभृतः (*vibhṛtaḥ*)—(by the priests) borne to various places. चक्रे अह (*cakre aha*)—is he not made (is it not done)?
+
+*Bhāvārtha (Kannada, translated)*
+
+May Agni, who is free of the nature of death, possessed of distinguished wisdom and of wondrous splendour, hear this hymn composed by me with all speeches. The horses of dark-brown colour and of saffron colour carry the chariot of Agni. The priests take such an Agni to various places and establish him there.
+
+*English Translation (as printed)*
+
+May Agni, who is immortal, of manifold wisdom, and wonderful splendour, hear my invocation, (preferred) with all laudations : tawny, or red, or purple horses draw his car ; he has been borne in various directions.
+
+*(Ṛk 2 is left open: the page ends with the printed English; whatever follows it (Viśeṣaviṣayagaḷu) comes on p. 566.)*
+
+---
+
+**Progress note:** Done through printed p. 565 (PDF 587); offset printed = PDF − 22 holds. Sūkta 10 Ṛk 1 is complete (Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on जोहूत्रः, प्रथमः with Ni. 2-22, Ai. Brā. 1-1 and Tai. Brā. 2-4-3-3, इळस्पदे with Ni. 2-5, 2-23, 3-9, 11-48 and Ṛk Saṃ. 10-191-1, विचेताः, मर्मृजेन्यः). Ṛk 2 is **open**: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; the next page (printed p. 566, PDF 588) begins after the printed English. Flags: FILE DISAGREE none; unzoomed numerals: Ni. 11-48 (file agrees), the anna-names Ni. reference read as 3-9 (file row garbled "39"; the go-names reference is also 3-9 per file), varga numeral in the headers of pp. 563 and 565 (read 2, not zoomed). [?] places: p. 564 ⟦यदेळे⟧ and ⟦इळायोः⟧ (as on p. 562); p. 565 bhāṣya ⟦श्यायुनीयदीप्तिः⟧ and ⟦विहृतेः⟧ (perhaps विधृतः). The doubtful ⟦अग्निर्वै⟧ of p. 562 is clearly printed on p. 564.
