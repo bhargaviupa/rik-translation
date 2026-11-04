@@ -166,3 +166,5 @@ Numeral checks (Nov 4): vol14/tools/numeral_checks.py. Ṛk sequence: only benig
 Mac API batches (printed pp. 551-604, PDF 573-626) taken from backup branch claude/mac-batches2 (the Mac had run the runner on branch claude/dreamy-pasteur-t2h11j by mistake). Merged onto the accented file, section labels normalised (labels.py), accents applied (40 Saṃhitā lines). Done through printed p. 604 (PDF 626); next PDF 627. Runner now refuses to run on any branch other than the one in vol14/BRANCH_FOR_RUNS.
 
 Accents re-run over all of Maṇḍala 2 (211 Saṃhitā lines, all accented) after the pointer-window bug; Mac batches PDF 627-644 pushed and merged. Done through printed p. 622 (PDF 644); Sūkta 11 Ṛk 18 open (bhāṣya continues p. 623 = PDF 645).
+
+Duplicate scan page PDF 671 (= 670; the print lacks p. 649 there). From PDF 672 printed = PDF − 23, numeral-file page = PDF − 5. Runner, numerals_for.py, doubt.py updated. Pages PDF 672-682 got numeral rows from the wrong file page (shifted by one; the translator noticed and read numerals from the strips). Done through printed p. 659 (PDF 682); next PDF 683 (printed 660).
