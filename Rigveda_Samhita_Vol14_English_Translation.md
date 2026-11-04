@@ -24781,4 +24781,90 @@ The main purport of this is — as soon as Indra was born he obtained the chiefs
 
 ---
 
-**Progress note:** Done through printed p. 648 (PDF 670); PDF 671 is an exact duplicate of PDF 670 (printed header "648" again), so printed p. 649 is missing from the scan and the next PDF page (672) should be printed p. 649 (check the offset: it was −21/−22 up to now, and must be −23 from PDF 672). Sūkta 12, Ṛk 1: the Viśeṣaviṣayagaḷu is still open (Yāska's nirvacana and Durga's commentary are written; p. 648 ends with a full stop after "ವಿಾರಿಸಿದನು", so the next page may continue the notes on Ṛk 1 or begin the grammar note / Ṛk 2). Flags: no FILE DISAGREE (the file agrees on all reference numerals of pp. 647–648; its text lines are noisy). Unzoomed numerals: running headers, all reference numerals (the first Nir. reference after "शुष्मम्" is read 3-9 [?], the file giving only a garbled "39"). [?] places: "निगमौ" (printed "ನಿಗವಾ"), "अतिमहत्यावेते", "प्रीतिस्त्विर्", and the carried-over earlier [?]s of Ṛk 1; "पर्यगृह्णात्" is now settled by the clear print on p. 648, and "द्यावापृथिव्यावप्य" is clear there (the bhāṣya's reading on p. 645 was not edited).
+---
+
+### Correction of the page labels (PDF 671–673)
+
+*(PDF 671 is again the same image as PDF 670, with the header "648" and the same Yāska–Durga text. Nothing is written for it. The pages after it carry printed headers 649 (PDF 672) and 650 (PDF 673). The offset is therefore printed = PDF − 23 from PDF 672 on, and the "Printed p. 649 (PDF 671)" entry above is superseded by the next heading. The dispatcher's labels "printed 650/651" for PDF 672/673 are one too high; the headers read 649 and 650. No printed page is actually missing, only a duplicated scan page.)*
+
+---
+
+### Printed p. 649 (PDF 672)
+
+*(Header: "Ā. 2 A. 6. V. 7 ]" as read, "Ṛgvedasaṃhitā", "649". The varga numeral is not zoomed.)*
+
+*(This page ends the Viśeṣaviṣayagaḷu and Durga's explanation on Ṛk 1, from p. 648.)* Continuing Durga's purport:
+
+Heaven and earth (the heavenly world and the earth) trembled in fear of this great bodily power of Indra. Why? Because they feared, "this Indra, by the greatness of his mighty prowess, together with his army, may destroy us somewhere". Therefore: "O asura people! only one who has such greatness is Indra. Not I; I am only a poor brahmin. By the favour of that Indra I have taken on a form like his." This narrative shows the very great affection for Indra of the ṛṣi Gṛtsamada, the seer of the mantra. Since this upākhyāna is historical, it is not possible to say that the mantras have only this kind of meaning; therefore some people disregard the matter contained in this upākhyāna. This is the main purport.
+
+*(Ṛk 1 ends here. No grammar note is printed after it.)*
+
+---
+
+#### Ṛk 2
+
+*(Small caption "Saṃhitāpāṭha". The rule line before it is as printed.)*
+
+**॥ संहितापाठः ॥**
+
+> यः पृ॑थि॒वीं व्यथ॑माना॒मदृं॑ह॒द्यः पर्व॑ता॒न्प्रकु॑पिता॒[?] अर॑म्णात् ।
+> यो अ॒न्तरि॑क्षं विम॒मे वरी॑यो॒ यो द्यामस्त॑भ्ना॒त्स ज॑नास॒ इन्द्रः॑ ॥ २ ॥
+
+> *yaḥ pṛthivīṃ vyathamānāmadṛṃhadyaḥ parvatānprakupitā[?] aramṇāt |*
+> *yo antarikṣaṃ vimame varīyo yo dyāmastabhnātsa janāsa indraḥ ‖ 2 ‖*
+
+*(In "प्रकुपिता" the print has an accent sign above the last syllable and a possible nasal sign, [?]; the Pada has "प्रऽकुपितान्".)*
+
+**॥ पदपाठः ॥**
+
+> यः । पृथिवीं । व्यथमानां । अदृंहत् । यः । पर्वतान् । प्रऽकुपितान् । अरम्णात् ।
+> यः । अन्तरिक्षं । विऽममे । वरीयः । यः । द्यां । अस्तभ्नात् । सः । जनासः । इन्द्रः ॥
+
+> *yaḥ | pṛthivīṃ | vyathamānāṃ | adṛṃhat | yaḥ | parvatān | pra 'kupitān | aramṇāt |*
+> *yaḥ | antarikṣaṃ | vi 'mame | varīyaḥ | yaḥ | dyāṃ | astabhnāt | saḥ | janāsaḥ | indraḥ ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra made the shaking earth firm, set the angry winged mountains in their places, built the wide atmosphere and propped heaven; he, not I, is Indra.*
+
+> हे जनाः य इन्द्रो व्यथमानां चलन्तीं पृथिवीमदृंहत् । शर्कराद्भिर्दृढामकरोत् ॥ दृह दृहि वृद्धौ ॥ यश्च प्रकुपितान् इतस्ततश्चलितान्पक्षयुक्तान्पर्वतान्[?]नरम्णात् । नियमितवान् । स्वे स्वे स्थाने स्थापितवान् ॥ अरम्णात् रमु क्रीडायां । अन्तर्भावितण्यर्थस्य व्यत्ययेन श्नाप्रत्ययः ॥ यश्च वरीय उरुतममन्तरिक्षं विममे । निर्ममे । विस्तीर्णं चकारेत्यर्थः । यश्च द्यां दिवमस्तभ्नात् । स्तंभनिरुद्धामकरोत् ॥ स्तंभु रोधन इति सौत्रो धातुः ॥ स एवेन्द्रो नाहमिति ॥
+
+> *he janāḥ ya indro vyathamānāṃ calantīṃ pṛthivīmadṛṃhat | śarkarādbhirdṛḍhāmakarot ‖ dṛha dṛhi vṛddhau ‖ yaśca prakupitān itastataścalitānpakṣayuktānparvatān[?]naramṇāt | niyamitavān | sve sve sthāne sthāpitavān ‖ aramṇāt ramu krīḍāyāṃ | antarbhāvitaṇyarthasya vyatyayena śnāpratyayaḥ ‖ yaśca varīya urutamamantarikṣaṃ vimame | nirmame | vistīrṇaṃ cakāretyarthaḥ | yaśca dyāṃ divamastabhnāt | staṃbhaniruddhāmakarot ‖ staṃbhu rodhana iti sautro dhātuḥ ‖ sa evendro nāhamiti ‖*
+
+*(Grammatical tail, only characterized: "दृह दृहि वृद्धौ" for अदृंहत्; "रमु क्रीडायाम्", the śnā affix by vyatyaya on a root with ṇic included, for अरम्णात्; "स्तंभु रोधने", a sautra root, for अस्तभ्नात्. Doubtful, unzoomed: in the print the words after "पक्षयुक्ता" read like "-त्स्पर्व-तानरम्णात्", I give "पक्षयुक्तान्पर्वतान्" with the following "अरम्णात्" run together; "शर्कराद्भिः" is read as "शर्करादिभिः"-like, as I wrote it, [?].)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+जनासः (*janāsaḥ*)—O people. यः (*yaḥ*)—who. व्यथमानां (*vyathamānāṃ*)—the trembling. पृथिवीं (*pṛthivīṃ*)—the earth. अदृंहत् (*adṛṃhat*)—made to stand firm. यः (*yaḥ*)—who. प्रकुपितान् (*prakupitān*)—moving everywhere with wings, angered. पर्वतान् (*parvatān*)—the mountains. अरम्णात् (*aramṇāt*)—made steady, bent to his own regulation. यः (*yaḥ*)—who. वरीयः (*varīyaḥ*)—extensive. अन्तरिक्षं (*antarikṣaṃ*)—the atmosphere. विममे (*vimame*)—built. यः (*yaḥ*)—who. द्यां (*dyāṃ*)—the heavenly world. अस्तभ्नात् (*astabhnāt*)—held back and made to stand. सः (*saḥ*)—he. इन्द्रः (*indraḥ*)—Indra.
+
+*(The first words of the Kannada gloss on प्रकुपितान् (*prakupitān*) stand at the foot of p. 649 and finish at the head of p. 650: "ರೆಕ್ಕೆಗಳೊಡನೆ ಸರ್ವತ್ರ ಸಂಚರಿಸುತ್ತಿದ್ದ", "moving everywhere with wings".)*
+
+---
+
+### Printed p. 650 (PDF 673)
+
+*(Header: "650", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2. Sū. 12"; numerals not zoomed.)*
+
+*(The Pratipadārtha continues from p. 649, see above.)*
+
+**भावार्थ (Bhāvārtha)**
+
+O people, he who made the trembling earth stand firm; who made the mountains, moving everywhere with wings, steady and bent to his own regulation; who built the extensive atmosphere *(printed "ಯಾಹನು" for "ಯಾವನು", a misprint [sic])*; who held back and made the heavenly world stand: he is Indra.
+
+**English Translation** *(as printed)*
+
+He, who fixed firm the moving earth ; who tranquillized the incensed mountains ; who spread the spacious firmament ; who consolidated the heaven ; he, men, is Indra.
+
+*(A stray dot after "Indra" in the print.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)** *(Ṛk 2)*
+
+Four deeds of daring of Indra are stated in this Ṛk. Indra firmly established the earth so that it should not shake; he quieted the misdeeds of the mountains filled with anger; he built the extensive atmosphere; and he established heaven as a firm thing (so that it should not fall down). This is the description of these four matters.
+
+यः पृथिवीं व्यथमानाम् अदृंहत् (*yaḥ pṛthivīṃ vyathamānām adṛṃhat*)—Indra did not let the shaking earth move: that is, without shaking, he made it stand firm in one place. Although the earth always stands firm in one place without shaking hither and thither, the ṛṣi describes that this is so only by the power of Indra.
+
+यः पर्वतान् प्रकुपितान् अरम्णात् (*yaḥ parvatān prakupitān aramṇāt*)—The bhāṣyakāra has explained the meaning thus: the mountains, enraged, do not stand steady in one place but move about hither and thither with the help of their wings; Indra stopped this, cut off their wings, and made those mountains stay firmly in one place, bound by his regulation. In the Purāṇas and the like it is said that in former times the mountains had wings, and flying, they settled on villages, cities and the like and destroyed them; therefore Indra cut off the wings of those mountains with his vajra weapon. The bhāṣyakāra has described just that here. But the matter of the mountains having wings is nowhere in the Ṛgveda mentioned as … *(the sentence is cut off at the foot of p. 650: "ಎಲ್ಲಿಯೂ ಪ್ರಸ್ತಾಪಿಸಲ್ಪಟ್ಟಂತೆ"; it continues on p. 651)*
+
+---
+
+**Progress note:** Done through printed p. 650 (PDF 673). PDF 671 was once more an exact duplicate of PDF 670 (header 648), so nothing was written for it; the real printed p. 649 is PDF 672 and p. 650 is PDF 673 (offset −23 from PDF 672; the dispatcher's labels "printed 650/651" are one too high, and the earlier chunk's "Printed p. 649 (PDF 671)" entry is superseded by a correction paragraph). Sūkta 12: Ṛk 1 is finished (Durga's purport completed on p. 649; no grammar note). Ṛk 2 is open: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, English are written, and the Viśeṣaviṣayagaḷu is broken off mid-sentence on the winged mountains ("… ಎಲ್ಲಿಯೂ ಪ್ರಸ್ತಾಪಿಸಲ್ಪಟ್ಟಂತೆ …"), to continue on printed p. 651 (PDF 674). Flags: no FILE DISAGREE; the numeral file has no rows for PDFs 671–672, and its single row for "PDF 673, printed 651, line 7: 2.21" belongs to a text (Nir. 2.21, clouds) that is not on this page, so the file is probably shifted by one page from here on (its "printed 651" is likely PDF 674, to be checked when that page is read). Unzoomed: running headers (the varga numeral on p. 649 read 7), Ṛk number 2. [?] places: "पक्षयुक्तान्पर्वतान्" in the bhāṣya, the nasal sign of "प्रकुपिता(ँ)" in the Saṃhitā, "शर्कराद्भिः" read as written.
