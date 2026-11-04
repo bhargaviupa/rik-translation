@@ -21783,4 +21783,180 @@ The words दास (*dāsa*) and दस्यु (*dasyu*) are used in many pla
 
 ---
 
-**Progress note:** Done through printed p. 580 (PDF 602). Sūkta 11: Ṛk 1 complete (Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 2 written through the Special Topics as far as the quotation Ṛ. 6-22-10 at the foot of p. 580; the Special Topics of Ṛk 2 are OPEN and continue on p. 581. Flags: FILE DISAGREE none (all numeral-file rows agree); unzoomed numerals: running headers (A. 2 A. 6 V. 3 on p. 579; Sū. 11 on pp. 578 and 580), Ṛ. 1-32 and page 588 in the Special Topics, Ni. 2-17/2-21/2-24. [?] places: p. 579 Pada ⟦ववृधानः⟧ (short first syllable as printed, against वावृधानः elsewhere); p. 579 bhāṣya tail ⟦लङ्⟧ (printed like लज्); p. 580 ⟦अपां⟧ in Ṛ. 1-32-11 (printed like ಅಸಾಂ) and ⟦ಸೃತ್ರನು⟧ (enemy).
+### Printed p. 581 (PDF 603)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **581**; unzoomed. The numeral file's rows for this page agree with my reading except the two places flagged below.)*
+
+*(The Special Topics of Ṛk 2 continue. The Ṛgveda citations below are mostly given by the source without any translation; the short glosses are mine and tentative.)*
+
+> त्वं ता इन्द्रोभया अमित्रान् दासा वृत्राण्यार्या च शूर ।
+
+> *tvaṃ tā indrobhayā amitrān dāsā vṛtrāṇyāryā ca śūra |*
+
+(Ṛ. Saṃ. 6-33-3)
+
+*(Gloss, mine and tentative: "you, O hero, [struck down] those enemies, both the Dāsa and the Ārya foes".)*
+
+> हतो वृत्राण्यार्या हतो दासानि सत्पती । हतो विश्वा अप द्विषः ।
+
+> *hato vṛtrāṇyāryā hato dāsāni satpatī | hato viśvā apa dviṣaḥ |*
+
+(Ṛ. Saṃ. 6-60-6)
+
+*(Gloss, mine and tentative: "slain are the Ārya foes, slain the Dāsa ones, O lords of the good; slain all haters".)*
+
+In these Ṛks, and in Ṛ. Saṃ. 7-83-1; 10-38-3; 10-69-6; 10-83-1; Atharva-Veda 5-11-3, and similar Ṛks, it is said that the people called दास (*dāsa*) were enemies of the Āryas. When Indra is prayed to destroy these dasyus, the Āryas' enemies, Indra fights against the dasyus (Ṛ. Saṃ. 6-18-3; 6-25-2 [?]). Therefore the name दस्युहा (*dasyuhā*) (slayer of dasyus) has become well known for Indra.
+
+*(The second reference is printed like ೬-೨೫-೨ in the numeral file's reading "6.252-2", which is garbled; the page itself I took as 6-25-2 but with [?]; the first, 6-18-3, agrees with the file.)*
+
+> प्रति यदस्य वज्रं बाह्वोर्धुर्हर्त्वी दस्यून् पुर आयसीर्नि तारीत् ।
+
+> *prati yadasya vajraṃ bāhvordhurhartvī dasyūn pura āyasīrni tārīt |*
+
+(Ṛ. Saṃ. 2-20-8)
+
+*(The word before दस्यून् (*dasyūn*) is printed ಧುರ್ಹರ್ತ್ವೀ; I give it as printed, not completed from memory. Gloss, mine and tentative: "when the thunderbolt [was placed] in his arms, he brought down the dasyus' iron forts".)*
+
+In this Ṛk it is said that these dasyu people possessed forts (or towns) built of iron. It is said that these people called दास (*dāsa*) lived together in groups, joined to a clan (printed in English: "clans") (Ṛ. Saṃ. 2-11-4; 4-28-4; 6-25-2). Since the colour of their body was black, unlike the Āryas, the description कृष्णं त्वचम् (*kṛṣṇaṃ tvacam*) (those with black skin) is found in the Ṛks—
+
+> मनवे शासदव्रतान् त्वचं कृष्णामरन्धयत् ।
+
+> *manave śāsadavratān tvacaṃ kṛṣṇāmarandhayat |*
+
+(1-130-8)
+
+*(As printed, the reference has no "Ṛ. Saṃ." before it. Gloss, mine and tentative: "for Manu he commanded the rites-less ones and subdued the black skin".)*
+
+> प्र ये गावो न भूर्णयस्त्वेषा अयासो अक्रमुः ।
+> घ्नन्तः कृष्णामप त्वचम् ॥
+
+> *pra ye gāvo na bhūrṇayastveṣā ayāso akramuḥ |*
+> *ghnantaḥ kṛṣṇāmapa tvacam ‖*
+
+(Ṛ. Saṃ. 9-41-1)
+
+*(Gloss, mine and tentative: "who have advanced like swift cattle, bright and moving, smiting off the black skin".)*
+
+and so on. In contrast to this, it is said in the Ṛk Ṛ. Saṃ. 3-39-9 that the complexion of the Āryas is fair.
+
+> अनासो दस्योरमृणो [?] वधेन नि दुर्योण आवृणज् वृध्रवाचः ।
+
+> *anāso dasyoramṛṇo [?] vadhena ni duryoṇa āvṛṇaj vṛdhravācaḥ |*
+
+(Ṛ. Saṃ. 5-29-10)
+
+*(The word after अनासो (*anāso*) is printed like ದಸ್ಯೋರಮ್ಯೃಣೋ; I give दस्योरमृणो with [?]. Gloss, mine and tentative: "with his weapon he cast down the noseless (?) dasyu, he held back the ill-speaking ones".)*
+
+In this Ṛk these dasyus are described as noseless, or as having flat noses, and as speaking a bad language. They are described as not performing sacrifices (अयज्वानः (*ayajvānaḥ*)), as having no gods (अब्रह्मा (*abrahmā*)), as enemies of the gods (ब्रह्मद्विषः (*brahmadviṣaḥ*)), as doing evil deeds (अपव्रतान्, अकर्मा, अन्यव्रतः (*apavratān, akarmā, anyavrataḥ*)), and as behaving contrary to human nature (अमानुषः (*amānuṣaḥ*)) in many Ṛks, Ṛ. Saṃ. 1-3[?], 3-4, 5 (the first group printed like ೧-೩, ೩-೪, ೫); 4-16-9; 5-7-10; 5-42-9; 8-70-10; 10-22-6, 8, and so on.
+
+### Printed p. 582 (PDF 604)
+
+*(Header: "582", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The numeral file has four rows (7-86-7, 8-56-3, 10-62-10, 8-40-6); all agree with my reading; unzoomed.)*
+
+> आरं दासो न मीळ्हुषे कराण्यहं देवाय भूर्णयेऽनागाः ।
+
+> *āraṃ dāso na mīḷhuṣe karāṇyahaṃ devāya bhūrṇaye 'nāgāḥ |*
+
+(Ṛ. Saṃ. 7-86-7)
+
+*(Gloss, mine and tentative: "like a servant I would do service for the bounteous swift god, sinless".)*
+
+> शतं नो गर्दभानां शतमूर्णावतीनां । शतं दासा अति स्रजः ।
+
+> *śataṃ no gardabhānāṃ śatamūrṇāvatīnāṃ | śataṃ dāsā ati srajaḥ |*
+
+(Ṛ. Saṃ. 8-56-3)
+
+*(Gloss, mine and tentative: "a hundred of our asses, a hundred of the woolly ones, a hundred Dāsas, [adorned] with garlands".)*
+
+> उत दासा परिविषे स्मद्दिष्टी गोपरीणसा । यदुस्तुर्वश्च मामहे ।
+
+> *uta dāsā pariviṣe smaddiṣṭī goparīṇasā | yadusturvaśca māmahe |*
+
+(Ṛ. Saṃ. 10-62-10)
+
+*(Gloss, mine and very tentative: "and the two Dāsas in the service, with …, rich in cattle; we praise Yadu and Turvaśa".)*
+
+In these Ṛks the intention is indicated that these दास (*dāsa*) are slaves. It appears that the Āryas probably made these people, defeated in war, work as slaves. It appears that these people had much wealth and other property. Because—
+
+> अपि वृश्च पुराणवद्व्रततेरिव गुष्पितमोजो दासस्य दम्भयै ।
+> वयं तदस्य सम्भृतं वस्विन्द्रेण वि भजेमहि नभन्तामन्यके समे ॥
+
+> *api vṛśca purāṇavadvratateriva guṣpitamojo dāsasya dambhayai |*
+> *vayaṃ tadasya sambhṛtaṃ vasvindreṇa vi bhajemahi nabhantāmanyake same ‖*
+
+(Ṛ. Saṃ. 8-40-6)
+
+*(No gloss is added; the source's explanation follows.)*
+
+In this Ṛk Indra is prayed to cut down this Dāsa as one cuts a branch of a tree; and it is said in this Ṛk that the wealth that Indra wins from him and brings to us we shall share. Among these people of the Dāsa race, Ilībiśa, Cumuri, Dhuni, Pipru, Varśi and Śambara are the chief ones. Their story will be explained in the respective Ṛks, according to the context.
+
+उक्थं स्तोत्रम् (*ukthaṃ stotram*) (*ukthaṃ stotram*)—*(The headword is printed in the singular, "ukthaṃ"; Ṛk 2 has उक्थैः (*ukthaiḥ*). No new Ṛk heading appears on the page, so I leave it here, as printed.)* In the commentary only the general meaning "hymn of praise" is given. But since it is said त्यत् ते उक्थम् (*tyat te uktham*) (the well-known uktha, meant for you), it is indicated that this is the uktha addressed to Indra, which has been recited from of old at the time of the sacrifice. This uktha addressed to Indra has a special peculiarity.
+
+The nature of the उक्थ (*uktha*), its greatness, its relation to शस्त्र (*śastra*), उक्थ (*uktha*) and साम (*sāma*) and the subtle differences, and the order in which the होतृ (*hotṛ*) and his assistant priests should recite it at the time of the pressing (सवन (*savana*)), have been explained in detail in the earlier volume. Here, since Indra's greatness is praised by means of the uktha, the power of the uktha and thereby the greatness of Indra are subtly made known, together with the related ancient story. There is a story in the Aitareya Brāhmaṇa that the power of the uktha is very great, that when the asuras took refuge in it their power also increased, and that then Indra, being praised, came and drove them away.
+
+> ते वा असुरा मैत्रावरुणस्योक्थमाश्रयन्त सोऽब्रवीदिन्द्रः कश्चाहं चेमानितोऽसुरान्नोत्स्यवहा इत्यहं चेत्यब्रवीद्वरुणस्तस्मादैन्द्रावरुणं [?]
+
+> *te vā asurā maitrāvaruṇasyokthamāśrayanta so 'bravīdindraḥ kaścāhaṃ cemānito 'surānnotsyavahā ityahaṃ cetyabravīdvaruṇastasmādaindrāvaruṇaṃ [?]*
+
+*(Printed ತೇ ವಾ (I give ते वा (*te vā*) as printed, though the later passages have ते वै (*te vai*)). The word तस्माद्…ैन्द्रावरुणं (*tasmād…aindrāvaruṇaṃ*) at the end of the line is printed like ತಸ್ಮಾದ್ಯೈಂದ್ರಾವರುಣಂ; I give it as तस्मादैन्द्रावरुणं (*tasmādaindrāvaruṇaṃ*) with [?]. The passage runs over to p. 583.)*
+
+### Printed p. 583 (PDF 605)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **583**; unzoomed. The numeral file has three rows (7-82-1, 10-68-1, 15-6); all agree with my reading.)*
+
+> मैत्रावरुणस्तृतीयसवने शंसतीन्द्रश्च हि तान्वरुणश्च ततो नुदेताम् ॥
+
+> *maitrāvaruṇastṛtīyasavane śaṃsatīndraśca hi tānvaruṇaśca tato nudetām ‖*
+
+The asuras entered the Maitrāvaruṇa uktha. Then Indra said: "Which of you will help me to drive these asuras away with this uktha?" Varuṇa said that he would help. At that time the मैत्रावरुण (*maitrāvaruṇa*), the assistant of the होतृ (*hotṛ*), at the third pressing (तृतीयसवन (*tṛtīyasavana*)),
+
+> इन्द्रावरुणा युवमध्वराय नो विशे जनाय महि शर्म यच्छतम् ।
+
+> *indrāvaruṇā yuvamadhvarāya no viśe janāya mahi śarma yacchatam |*
+
+(Ṛ. Saṃ. 7-82-1)
+
+recited the sūkta beginning with this Ṛk and praised Indra and Varuṇa. Then Indra and Varuṇa drove those asuras away by the Mitrāvaruṇa śastra.
+
+> ते वै ततोऽपहता असुरा ब्राह्मणाच्छंसिन उक्थमाश्रयन्त सोऽब्रवीदिन्द्रः
+> कश्चाहं चेमानितोऽसुरान्नोत्स्यवहा इत्यहं चेत्यब्रवीद्बृहस्पतिस्तस्मा-
+> दैन्द्राबार्हस्पत्यं ब्राह्मणाच्छंसी तृतीयसवने शंसतीन्द्रश्च हि तान्बृहस्पतिश्च ततो नुदेताम् ॥
+
+> *te vai tato 'pahatā asurā brāhmaṇācchaṃsina ukthamāśrayanta so 'bravīdindraḥ*
+> *kaścāhaṃ cemānito 'surānnotsyavahā ityahaṃ cetyabravīdbṛhaspatistasmā-*
+> *daindrābārhaspatyaṃ brāhmaṇācchaṃsī tṛtīyasavane śaṃsatīndraśca hi tānbṛhaspatiśca tato nudetām ‖*
+
+The asuras, driven away from there, entered the uktha of the ब्राह्मणाच्छंसी (*brāhmaṇācchaṃsī*). Then Indra rose and said: "Which of you will help me to drive these asuras away from here?" Bṛhaspati rose and said that he himself would help. Then the ब्राह्मणाच्छंसी (*brāhmaṇācchaṃsī*), at the time of the third pressing,
+
+> उदुप्रुतो न वयो रक्षमाणा वावदतो अभ्रियस्येव घोषाः ।
+
+> *udupruto na vayo rakṣamāṇā vāvadato abhriyasyeva ghoṣāḥ |*
+
+(Ṛ. Saṃ. 10-68-1)
+
+*(The first word is printed ಉದುಪ್ರುತೋ; I give it as printed.)*
+
+recited the sūkta beginning with this Ṛk and praised Indra and Bṛhaspati. Then Indra and Bṛhaspati together drove the asuras away from there.
+
+> ते वै ततोऽपहता असुरा अच्छावाकस्योक्थमाश्रयन्त सोऽब्रवीदिन्द्रः
+> कश्चाहं चेमानितोऽसुरान्नोत्स्यवहा इत्यहं चेत्यब्रवीद्विष्णुस्तस्मा-
+> दैन्द्रावैष्णवमच्छावाकस्तृतीयसवने शंसतीन्द्रश्च हि तान्विष्णुश्च ततो
+> नुदेताम् ॥
+
+> *te vai tato 'pahatā asurā acchāvākasyokthamāśrayanta so 'bravīdindraḥ*
+> *kaścāhaṃ cemānito 'surānnotsyavahā ityahaṃ cetyabravīdviṣṇustasmā-*
+> *daindrāvaiṣṇavamacchāvākastṛtīyasavane śaṃsatīndraśca hi tānviṣṇuśca tato*
+> *nudetām ‖*
+
+(Ai. Brā. 15-6)
+
+*(Printed "ಐ. ಬ್ರಾ. ೧೫-೬"; the reference stands only at this passage, after the third quotation.)*
+
+The asuras, driven away by the uktha of the ब्राह्मणाच्छंसी (*brāhmaṇācchaṃsī*), joined the uktha of the अच्छावाक (*acchāvāka*). Then Indra rose and asked which of them would help him to drive these away from here. Then Viṣṇu said that he would help. At that time the अच्छावाक (*acchāvāka*),
+
+*(The passage is left open at the foot of p. 583 and continues on p. 584.)*
+
+---
+
+**Progress note:** Done through printed p. 583 (PDF 605). Sūkta 11, Ṛk 2: the Special Topics are still OPEN. They continue on p. 584 with the account from the Aitareya Brāhmaṇa of the asuras and the uktha, which breaks off at the foot of p. 583 at "ā kāladalli acchāvākanu," (the Acchāvāka recites at the third pressing; the Ṛk is not yet printed). No new Ṛk has begun. Flags: FILE DISAGREE none (all other numeral-file rows agree); unzoomed numerals: running headers (A. 2 A. 6 V. 3 on pp. 581 and 583; Maṃ. 2 A. 1 Sū. 11 on p. 582). Numerals read from the strip with doubt: p. 581 "6-25-2 [?]" (file read 6.252-2, garbled) and the group "1-3[?], 3-4, 5" (file also 1-3, 3-4, 5); the file's 10-22-6, 8 is used. [?] places: p. 581 Ṛ. 5-29-10 first word दस्योरमृणो; p. 582 ⟦तस्मादैन्द्रावरुणं⟧; p. 582 ⟦ते वा⟧ against ⟦ते वै⟧ later; p. 581 Ṛ. 2-20-8 ⟦धुर्हर्त्वी⟧ as printed; p. 583 ⟦उदुप्रुतो⟧ as printed.
