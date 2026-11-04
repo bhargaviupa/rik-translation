@@ -1,0 +1,4 @@
+# Vol 7 numeral file (user, Nov 4 2026)
+`Rigveda_Clean_Numerals_17_582.xlsx`: one sheet, 1,845 rows, columns Page Number | Line Number | Extracted Pattern (Kannada digits) | Equivalent English Numbers | Raw Line Context (noisy OCR). Pages 17–581 (478 pages with rows).
+**Page mapping is NOT a fixed shift** (checked Nov 4 against the md's numerals, 25-page blocks): file page = PDF page +1 for PDF ~20–44, 70–219, 445–494; −1 for ~45–69, 220–444, 495–582. Do not look rows up by page number alone. Which scan/PDF the file was made from is still to be confirmed with the user.
+First-pass context matcher: `publish/tools/ref_check/numeral_match.py` (free, report only): of 627 numeral `[?]` in Vol 7's Devanagari lines, 64 agree with a file row, 191 differ (many are false matches), 372 have no candidate. Not yet reliable.
