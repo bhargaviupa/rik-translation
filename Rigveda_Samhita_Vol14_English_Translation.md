@@ -24307,4 +24307,98 @@ There is a somewhat obscure story. A wager was run between the horse called Etas
 
 ---
 
-**Progress note:** Done through printed p. 634 (PDF 656). Sūkta 11, Ṛk 20 is OPEN: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; its Special Topics (Viśeṣaviṣayagaḷu) are in progress and break off at the foot of p. 634 in the account of Vala, "ಆಗ ಇಂದ್ರನು ತನ್ನ ಸೈನ್ಯ…" ("Then Indra, with his army…"), to be continued on p. 635. Flags: FILE DISAGREE: the third Ṛk cited on p. 633 is printed "ಲ-೩೨-೨೬" (read 8-32-26 from the strip, not zoomed), where the file reads "8.3.22-26" (a mis-grouping, I think). Unzoomed numerals: running headers on all three pages; references 1-51-6, 2-14-4, 8-3-19, 8-32-3, 10-67-12, Nir. 3-10 and Ai. Brā. 26-1 (all agree with the file). [?] places: p. 632 bhāṣya तीर्णनमस्कस्य, ददाति (printed like पदाति), स्तृ (printed like "ಸ್ತ್ವಾ"); p. 633 अम्बुमद्भातीति, अम्बुमद्भवतीति, ऋचीषमम्, the first letter of न्यर्बुदस्य. On p. 634 the quoted bhāṣya omits the "सूर्य इति सुपां सुलुक्" remark that p. 632 has.
+### Printed p. 635 (PDF 657)
+
+*(Header: "A. 2 A. 6 V. 6 ]" as it looks, "Ṛgvedasaṃhitā", "635"; header numerals not zoomed. Ṛk 20, Special Topics, continues from p. 634, where the account of Vala broke off at "ತನ್ನ ಸೈನ್ಯ", "his army".)*
+
+…with the help (of his army) besieged that cave and released the cows that were in it. This matter is described in the Taittirīya Saṃhitā of the Yajurveda at 2-1-1-1, and here and there in other mantras of the Ṛgveda. In the Ṛgveda the matter of this Vala is dealt with in the Ṛks Ṛ. Saṃ. 1-62-4; 2-11-20; 2-14-3; 2-15-8; 2-12-3; 2-24-3; 3-30-10; 3-34-10; 40-50-5 [?]; 6-18-5; 6-39-2 [?]; 8-14-7 [?]; 8-24-30; 10-62-2; 10-67-6; 10-68-6, 9, 10; 10-138-1.
+
+*(Numerals of these two lines are unzoomed. FILE DISAGREE: the file gives "22-15-8" for the fourth Ṛk of the first line; I read 2-15-8 (the file's "22" looks like a mis-grouping). In the second line the file's groups are garbled ("18-5; 639.2; 8-214-27"); my readings of the 40-50-5, 6-39-2 and 8-14-7 items are doubtful, the first because the "40" seems to carry a zero-like circle.)*
+
+The soldiers of this Vala are commonly called Paṇis. The Paṇis are said in many places to steal cows and hide them in caves; on this matter we have written at length in Ṛ. Saṃ. Part 2, p. 228; 3-630; 5-698; 6-15; 10-175; 13-536 (Latin numerals as printed).
+
+*(FILE DISAGREE: the file has "8.698" for the third of these; the strip prints Latin "5–698", as I read it.)*
+
+These Paṇis are great misers. Even when they are asked for the sake of sacrifices and the like, they do not give, but hide the cows. Saramā, the divine bitch who is Indra's messenger, finds the place where the cows are and says that they should be given back. The Paṇis ridicule her. These matters and the like are told at length in Ṛ. Saṃ. sūkta 10-108. In another place it is said that, with the desire to obtain the cows, Indra pierced Vala's fortress, defeated the Paṇis and set the cows free (Ṛ. Saṃ. 6-39-2). In yet another place (Ṛ. Saṃ. 2-12-3; 3-30-10) it is said that Vala had held the cows shut in, and that Indra drove them out. Here there is no mention of the Paṇis at all. In many places—also in the present Ṛk—there are descriptions that the Aṅgirasas were helpers to Indra in this defeat of Vala and in the work of releasing the cows.
+
+**अङ्गिरस्वान्** (*aṅgirasvān*)—
+
+> अङ्गिरस्वान्
+
+> *aṅgirasvān*
+
+Who the Aṅgirā ṛṣis are, what the order of their origin is, and such matters, we have explained at length in Ṛ. Saṃ. Part 3, pp. 520–522. And the descriptions concerning them we have written at Ṛ. Saṃ. Part 6-365; 8-187; 9-215; 10.239; 10-522.
+
+These Aṅgirasas are sons of Agni (10-62-4); among them a single Aṅgiras is also conceived as the original ancestor. In many mantras (Ṛ. Saṃ. 10-14-5, 6 etc.) the Aṅgirasas are called Pitṛs (fathers, ancestors). In particular Yama and the Aṅgirasas are reckoned as Pitṛs. Soma is offered to the Aṅgirasas together with the Ādityas, Vasus and Maruts (6-44-4; 8-35-14), and they are praised like deities (3-53-7; 10 6-2 [?]). In the sacrifice they hold the place of the ṛtvij called Brahman (7-42-1); they found Agni hidden in the forests (5-11-6) and reflected on and fixed the first rule concerning sacrifice (10-67-2); through sacrifice they gained the asura-state and the friendship of Indra (10-62 1) [the Kannada word here is printed "ವೈತ್ರಿ"; I take it as "ಮೈತ್ರಿ", friendship [?]]—such are the descriptions. The matter of their sacrificing is told in Tai. Brā. 2-1-1.
+
+*(The two references "10 6-2" and "10-62 1" are printed with a missing hyphen, as I read them; unzoomed. The file reads 6-2 and 10-62 / 1.)*
+
+---
+
+### Printed p. 636 (PDF 658)
+
+*(Header: "636", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11"; header numerals not zoomed. Ṛk 20, Special Topics, continues.)*
+
+Indra has a very close relationship with them. For their sake Indra showed the cows (8-52-3); for their sake Indra opened the doors of the cowsheds (1-51-3); accompanied by them Indra struck down and killed Vala (2-11-20) and drove the cows out (6-17-6). With the idea that they are his leaders, Indra is called in two contexts (1-100-4; 1-130-3) "Aṅgirastama" (mine and tentative: "the most Aṅgiras-like"); in the same way Agni is called the leader of the Aṅgirasas (1-31-1, 2). The Soma, which gives Indra zest, is also said to have opened the doors of the cowsheds for the sake of the Aṅgirasas (9-86-23). In the matter of the release of the cows the song of the Aṅgirasas is extraordinary: praised by them Indra struck Vala (2-15-8) and split the doors of the cowshed (4-16-18); he killed Vala and opened the doors of his stronghold (6-18-5). The song of the Maruts, who sing in many ways, is compared with the song of the Aṅgirasas (10-78-5), and it is said that the gods are called to the sacrifice by the Sāman songs of the Aṅgirasas (1-107-2). Words of praise uttered by ordinary ṛtvijs are compared to the praise of the Aṅgirasas (1-62-1, 2, etc.). Keeping Indra with them, the Aṅgirasas "bandumāḍidaru" [as printed; the sense is not clear to me [?]; possibly "opened"] the cow-sheds and horse-sheds (10-62-7); by the power of the rite which they had performed they drove the cows out, struck and killed Vala (10-62-2); by the power of the sacrificial rite which they had performed they broke the rock and, together with the cows, themselves also raised a shout of joy (4-3-11); by their songs they broke the rock and saw the light (1-72-2). In the episode where Saramā searched for the cows that had been carried off by the asura called Paṇi for Indra's sake, the Aṅgirasas have also a part (10-108-8, 10), and it is said that the Aṅgirasas themselves (svataḥ, "of themselves") found the cows and horses which the Paṇis had hidden (1-83-4).
+
+*(FILE DISAGREE: the file reads "2-5-8" for the reference after "ವಲನನ್ನು ಇರಿದನು"; I read 2-15-8 from the strip, which agrees with the list on p. 635. The two references 10-62-7 and 10-62-2 (lines 18–19) look alike in the strip; I follow the file for the first (10-62-7). Unzoomed.)*
+
+Bṛhaspati also takes part in the release of the cows connected with the Paṇis (10-108-6, 10); when he splits the mountain and brings out the cows, the epithet Aṅgirasa applies to him too. In many places Agni is called by the word Aṅgiras. When, being in Indra's company, he made the cows run and the water flow, Bṛhaspati is called Aṅgirasa itself (2-23-18). Apart from this one context, all the singular uses of the word Aṅgiras refer to Agni. Agni is called the first among the Aṅgirā ṛṣis (1-31-1), the ancient Aṅgiras (10-92-15; 1-126-2), the one of greater inspiration (6-11-3), and the leader among the Aṅgirasas (1-75-2), and so on.
+
+The Aṅgirasas are also included in the group of Pitṛs (1-139-1); in the Anukramaṇikā it is said that the Aṅgirasas belong to the lineage of the purohitas. The mantra-seers of the ninth maṇḍala, and in "Atharva-Aṅgirasa" also, are those very (Aṅgirasas)
+
+*(The sentence continues on p. 637.)*
+
+---
+
+### Printed p. 637 (PDF 659)
+
+*(Header: "A. 2 A. 6 V. 6 ]" as it looks, "Ṛgvedasaṃhitā", "637"; header numerals not zoomed.)*
+
+…are meant. The Atharvaveda also has the name Atharvāṅgirasa (A. Ve. 10-7-20, as printed; presumably Atharvaveda). The same idea is found also in the Śatapatha Brāhmaṇa (Śa. Brā. 11-5-6-7 etc.).
+
+The name of the Virūpas, who are connected with the Aṅgirasas, is stated in the plural (विरूपासः (*virūpāsaḥ*)) in three places (3-53-7, 10-62-5, 6). It is said that the Aṅgirasas and the Virūpas are sons of the sky-deity (दिवस्पुत्रासः (*divasputrāsaḥ*)) (3-53-7); in the same place it is said that the Virūpas and the Aṅgirasas are sons of Agni. Sāyaṇa has explained the word विरूपासः (*virūpāsaḥ*) as "having various forms" and has applied it as an adjective to the Aṅgirasas. As to this word विरूपासः (*virūpāsaḥ*), it is not clear whether, as Sāyaṇa says, it means the Aṅgirasas themselves who have various forms, or other ṛṣis with the name Virūpa. Besides the descriptions told up to here, still many other matters concerning the Aṅgirasas are stated here and there. These will be discussed according to the context.
+
+---
+
+*(End of the Special Topics of Ṛk 20. The next Ṛk, the last of the sūkta, begins.)*
+
+#### Ṛk 21
+
+**॥ संहितापाठः ॥**
+
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदि॑न्द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ द॒ग्भगो॑ [?] नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ २१ ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadindra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dagbhago [?] no bṛhadvadema vidathe suvīrāḥ ‖ 21 ‖*
+
+*(The "२१" is read from the strip, unzoomed. In the Saṃhitā the word before "भगो" is printed with a letter that looks like द, whereas the Pada has ध (धक्); I write what I read and mark it [?].)*
+
+**॥ पदपाठः ॥**
+
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इन्द्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+> *nūnaṃ | sā | te | prati | varaṃ | jaritre | duhīyat | indra | dakṣiṇā | maghonī |*
+> *śikṣa | stotṛbhyaḥ | mā | ati | dhak | bhagaḥ | naḥ | bṛhat | vadema | vidathe | suvīrāḥ ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: introductory; the sūkta is the Acchāvāka's śastra at the midday pressings of the ahargaṇa rites; this Ṛk is recited at its end (Ā. 7-4 as printed).*
+
+> अहर्गणेषु माध्यन्दिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः शस्यसंज्ञके [?] मभितष्टैवेति [?] सूक्तं । नूनं सा त इत्येषा तस्यान्ते शंसनीया । सूत्रितं च । नूनं सा त इत्यन्तमुत्तमं । आ. ७-४ । इति ॥
+
+*Gist: "O Indra, the dakṣiṇā, which is to be given to the singers, belonging to you, the wealthy, (is) a choice, desired object for the praiser…" (sentence continues on p. 638).*
+
+> हे इन्द्र या दक्षिणा दक्षमुत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते त्वत्सम्बन्धिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनं
+
+> *he indra yā dakṣiṇā dakṣamutsāhanaṃ karotīti dakṣiṇā stotṛbhyo deyā te tvatsambandhinī maghonī dhanavatī jaritre stotre varaṃ śreṣṭhamabhimatamarthaṃ nūnaṃ*
+
+*(The bhāṣya of Ṛk 21 breaks off at the foot of p. 637 at "नूनं" and continues on p. 638. Ṛk 21 is left open; the Pratipadārtha, Bhāvārtha, printed English and Special Topics follow. The first sentence of the bhāṣya, "शस्यसंज्ञके…मभितष्टैवेति", is only partly legible to me and is marked [?]; the printed reference is "आ. ७-४", the file agrees; unzoomed.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 637 (PDF 659). Sūkta 11: the Special Topics of Ṛk 20 (Vala, Paṇis, Aṅgirasas, Virūpas) are finished; Ṛk 21 (the last of the sūkta, "nūnaṃ sā te…") is OPEN: Saṃhitā, Pada and the first sentence of the Sāyaṇa-bhāṣya are written, and the bhāṣya breaks off at "…वरं श्रेष्ठमभिमतमर्थं नूनं" at the foot of p. 637; next is the rest of the bhāṣya on p. 638, then Pratipadārtha etc. and the colophon. Flags: FILE DISAGREE: p. 635 "2-15-8" (file "22-15-8", mis-grouping), "5-698" (file "8.698"), p. 636 "2-15-8" (file "2-5-8"). Unzoomed/doubtful numerals: the list on p. 635 line 3 (40-50-5, 6-39-2, 8-14-7 [?]), "10 6-2" and "10-62 1" (hyphen missing as printed), 10-62-7 vs 10-62-2 on p. 636, Ṛk number ॥ २१ ॥, running headers on all three pages. [?] places: ವೈತ್ರಿ (read as ಮೈತ್ರಿ) on p. 635, "ಬಂದುಮಾಡಿದರು" on p. 636, the first bhāṣya sentence of Ṛk 21 (शस्य…, मभितष्टैवेति), and the द/ध of "दग्भगो" in the Saṃhitā.
