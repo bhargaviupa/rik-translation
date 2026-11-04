@@ -24401,4 +24401,116 @@ The name of the Virūpas, who are connected with the Aṅgirasas, is stated in t
 
 ---
 
-**Progress note:** Done through printed p. 637 (PDF 659). Sūkta 11: the Special Topics of Ṛk 20 (Vala, Paṇis, Aṅgirasas, Virūpas) are finished; Ṛk 21 (the last of the sūkta, "nūnaṃ sā te…") is OPEN: Saṃhitā, Pada and the first sentence of the Sāyaṇa-bhāṣya are written, and the bhāṣya breaks off at "…वरं श्रेष्ठमभिमतमर्थं नूनं" at the foot of p. 637; next is the rest of the bhāṣya on p. 638, then Pratipadārtha etc. and the colophon. Flags: FILE DISAGREE: p. 635 "2-15-8" (file "22-15-8", mis-grouping), "5-698" (file "8.698"), p. 636 "2-15-8" (file "2-5-8"). Unzoomed/doubtful numerals: the list on p. 635 line 3 (40-50-5, 6-39-2, 8-14-7 [?]), "10 6-2" and "10-62 1" (hyphen missing as printed), 10-62-7 vs 10-62-2 on p. 636, Ṛk number ॥ २१ ॥, running headers on all three pages. [?] places: ವೈತ್ರಿ (read as ಮೈತ್ರಿ) on p. 635, "ಬಂದುಮಾಡಿದರು" on p. 636, the first bhāṣya sentence of Ṛk 21 (शस्य…, मभितष्टैवेति), and the द/ध of "दग्भगो" in the Saṃhitā.
+### Printed p. 638 (PDF 660)
+
+*(Header: "638", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2. A. 1. Sū. 11"; header numerals not zoomed. Ṛk 21, the last Ṛk of the sūkta, continues. The bhāṣya resumes from "…नूनं" at the foot of p. 637.)*
+
+*Gist: She (the dakṣiṇā) now fulfils the wish; give such a dakṣiṇā to us the praisers, do not pass us over or burn up our wishes; with good sons we praise you at this sacrifice.*
+
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्धि । सम्पादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृभ्योऽस्मभ्यं शिक्ष । प्रयच्छ । किञ्च भगो भजनीयस्त्वं माति धक् ॥ दहेर्दानार्थस्य [?] लुजि [?] मन्त्रे घसेत्यादिना च्लेर्लुक् ॥ नोऽस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः । प्रथममस्मभ्यं दत्त्वा पश्चादन्येभ्यो दीयतामित्यर्थः । यद्वा नोऽस्माकं कामान् मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्रपौत्राः सन्तो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश्य ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतेर्वा स्याद्गतिकर्मणो वीरयतेर्वेत्यन्तं निरुक्तमनुसन्धेयम् । नि. १-७ ॥
+
+> *pratiduhīyat | idānīṃ pratidogdhi | sampādayatītyarthaḥ | tādṛśīṃ dakṣiṇāṃ stotṛbhyo 'smabhyaṃ śikṣa | prayaccha | kiñca bhago bhajanīyastvaṃ māti dhak ‖ daherdānārthasya [?] luji [?] mantre ghasetyādinā clerluk ‖ no 'smānatikramyānyebhyo dakṣiṇāṃ mā dāḥ | prathamamasmabhyaṃ dattvā paścādanyebhyo dīyatāmityarthaḥ | yadvā no 'smākaṃ kāmān mā dhak | mā dhākṣīḥ | apekṣitaphaladānena pūrayetyarthaḥ | suvīrāḥ śobhanaputrapautrāḥ santo vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ stotraṃ vadema | tvāmuddiśya bravāma ‖ atra sā te pratidugdhāmiti prakṛtya vīro vīrayatyamitrān vetervā syādgatikarmaṇo vīrayatervetyantaṃ niruktamanusandheyam | ni. 1-7 ‖*
+
+*(Grammatical tail: on the root dah, the aorist, and the elision of the vikaraṇa (cli) by the Pāṇinian rule beginning "mantre ghasa…". In the first part the strip seems to print "दहेर्दानार्थस्य" and "लुजि"; both are marked [?] and written as read, not as I would expect them. The Nirukta reference is printed "नि. १-७" = Ni. 1-7, and the file agrees. Here the clearer printing of the bhāṣya and the Pratipadārtha shows धक् (ध), so the doubtful द/ध in the Saṃhitā on p. 637 is probably ध.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इन्द्र (*indra*) — O Indra | ते (*te*) — that which is given by you | मघोनी (*maghonī*) — possessing abundant wealth | सा दक्षिणा (*sā dakṣiṇā*) — that dakṣiṇā | जरित्रे (*jaritre*) — to the sacrificer who is a praiser | नूनं (*nūnaṃ*) — certainly | वरं (*varaṃ*) — in the best manner | प्रति दुहीयत् (*prati duhīyat*) — it fulfils the desired object (such a dakṣiṇā) | स्तोतृभ्यः (*stotṛbhyaḥ*) — to us also, the praisers | शिक्ष (*śikṣa*) — give | भगः (*bhagaḥ*) — you, the worshipful | नः (*naḥ*) — us | माति धक् (*māti dhak*) — do not disregard | सुवीराः (*suvīrāḥ*) — we, accompanied by excellent sons | विदथे (*vidathe*) — in this sacrifice | बृहत् (*bṛhat*) — abundant praise | वदेम (*vadema*) — we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that dakṣiṇā which is given by you and possesses abundant wealth certainly fulfils the desired object in the best manner for the sacrificer who praises. Give such a dakṣiṇā to us also, the praisers. Do not disregard us, you, the worshipful. We, accompanied by excellent sons, recite abundant praise at this sacrifice.
+
+**English Translation** *(as printed)*
+
+That opulent donation, which proceeds, Indra, from you, assuredly bestows upon him who praises you the boon (which he desires): grant it to us, your praisers; do not you, who are the object of adoration, disregard (our prayer): so that, blessed with worthy descendants, we may glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**मा अति धक् भगः नः** (*mā ati dhak bhagaḥ naḥ*)—here:
+
+> अस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः । प्रथममस्मभ्यं दत्त्वा पश्चादन्येभ्यो दीयतामित्यर्थः । यद्वा नोऽस्माकं कामान् मा धक् मा धाक्षीः ।
+
+> *asmānatikramyānyebhyo dakṣiṇāṃ mā dāḥ | prathamamasmabhyaṃ dattvā paścādanyebhyo dīyatāmityarthaḥ | yadvā no 'smākaṃ kāmān mā dhak mā dhākṣīḥ |*
+
+*(The printed headword is "मा अति धक् भगः नः"; the quotation is the bhāṣya sentence seen above, which breaks at "मा धक् । मा धाक्षीः" at the foot of the page and is carried to the next page; the Kannada says:)*
+
+---
+
+### Printed p. 639 (PDF 661)
+
+*(Header: "A. 2 A. 6 V. 6 ]" as it looks, "Ṛgvedasaṃhitā", "639"; header numerals not zoomed. Ṛk 21, Special Topics, continues.)*
+
+…"dhak mā dhākṣīḥ". That is, the meaning has been explained thus: "When giving such a dakṣiṇā, do not leave us out and give to others"; or "give to us first and afterwards to others"; or "do not disregard us without giving our desired objects".
+
+**दक्षिणा** (*dakṣiṇā*)—The word dakṣiṇā has many meanings. In sacrifices and other pious rites, the thing, namely the wealth, which is given as a return for the work done, to the ṛtvijs who carry the burden for the sacrificer and perform the duties, and to the purohitas, is called dakṣiṇā. This dakṣiṇā may be in the form of wealth, or in the form of useful things such as cows, or in the form of jewels, a dwelling house, food and similar things. The word dakṣiṇā also denotes a deity who is the presiding spirit of dakṣiṇā; on this subject there is a whole sūkta in the Ṛgveda which praises dakṣiṇā, the sacrificer who gives the dakṣiṇā, the ṛtvijs who receive it, and the like (Ṛ. Saṃ. 10-107). Besides that, there are Ṛks on this subject here and there (Ṛ. Saṃ. 1-18-5, 1-125-6). Prajāpati's daughter also has the name Dakṣiṇā. Yāska has given the derivation of the word dakṣiṇā in his Nirukta in this manner—
+
+> दक्षिणा दक्षतेः समर्धयति कर्मणो व्यृर्धं समर्धयतीति । अपि वा प्रदक्षिणागमनात् । दिशमभिप्रेत्य दिग्स्तप्रकृतिः [?] दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः । दाशतेर्वा स्याद्दानकर्मणः ॥
+
+> *dakṣiṇā dakṣateḥ samardhayati karmaṇo vyṛrdhaṃ samardhayatīti | api vā pradakṣiṇāgamanāt | diśamabhipretya digstaprakṛtiḥ [?] dakṣiṇo hasto dakṣaterutsāhakarmaṇaḥ | dāśatervā syāddānakarmaṇaḥ ‖*
+
+*(Reference printed "(नि. १-७)" = Ni. 1-7; the file agrees. The word "दिग्स्तप्रकृतिः" is written as read; it looks irregular, so it is marked [?]. "व्यृर्धं" is as printed.)*
+
+and has stated four kinds of meanings—
+
+(1) **दक्षिणा दक्षतेः समर्धयति कर्मणो व्यृर्धं समर्धयतीति** (*dakṣiṇā dakṣateḥ samardhayati karmaṇo vyṛrdhaṃ samardhayatīti*)—The word dakṣiṇā is derived from the root dakṣati. The meaning of this root is "to increase (wealth)". In the sacrifice, the small wealth that was spent, that is, given as dakṣiṇā, is greatly increased (in the form of fruit); therefore this word is called dakṣiṇā.
+
+(2) **अपि वा प्रदक्षिणागमनात्** (*api vā pradakṣiṇāgamanāt*)—In the sacrificial altar one goes around, in the manner of a circumambulation (pradakṣiṇa), the places called Gārhapatya, Sadaḥ and Āgnīdhrīya, and then stands in the antarvedi; the circumambulatory going which is done in this manner is called dakṣiṇā.
+
+(3) **दिशमभिप्रेत्य दिग्स्तप्रकृतिः दक्षिणो हस्तो दक्षतेरुत्साहकर्मणः** (*diśamabhipretya digstaprakṛtiḥ dakṣiṇo hasto dakṣaterutsāhakarmaṇaḥ*)—Because among the hands of Prajāpati, who faces east, the right hand faces south (is toward the south), and because the right hand does whatever work has to be done with enthusiasm, it is conventional (rūḍhi) that the right hand is called "dakṣiṇo hastaḥ" by the word dakṣiṇa. *(The Kannada closes the bracket unevenly, "(…ಇರುವುದರಿಂದಲೂ)," as printed.)*
+
+---
+
+### Printed p. 640 (PDF 662)
+
+*(Header: "640", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2. A. 1. Sū 11"; header numerals not zoomed. Ṛk 21, Special Topics, continues.)*
+
+(4) **दाशतेर्वा स्याद्दानकर्मणः** (*dāśaterva syāddānakarmaṇaḥ*)—The root dāśati means "to give". Because, as a rule, the right hand is used when giving, the act of giving is called dakṣiṇā.
+
+Among these four kinds of meaning, the meaning stated last, "the act of giving", is what is stated in this Ṛk. The glory of the gift in the form of dakṣiṇā has been praised in many places in this manner—
+
+> अयमात्मा दक्षिणान्नं वनुते यो न आत्मेति ह्यस्यृषिणाभ्युक्तं ।
+
+> *ayamātmā dakṣiṇānnaṃ vanute yo na ātmeti hyasyṛṣiṇābhyuktaṃ |*
+
+*(Reference printed "(श. ब्रा. १०-१-१-१०)" = Śa. Brā. 10-1-1-10, as I read it. FILE DISAGREE: the file has "10-11-10", which looks like a mis-grouping; unzoomed.)*
+
+In this passage it is said that the giving of dakṣiṇā brings and gives food. And as quoted also by Sāyaṇa—
+
+> य एष तपति तद्यत्तदादित्यो यशो यज्ञो हैव तद्यशस्तद्यत्तदृत्विजो यशो दक्षिणा हैव तद्यशस्तस्माद्यामस्मै [?] दक्षिणामानयेयुर्न ता इत्सद्योऽन्यस्मा अतिदिशेत् ॥
+
+> *ya eṣa tapati tadyattadādityo yaśo yajño haiva tadyaśastadyattadṛtvijo yaśo dakṣiṇā haiva tadyaśastasmādyāmasmai [?] dakṣiṇāmānayeyurna tā itsadyo 'nyasmā atidiśet ‖*
+
+*(Reference printed "(श. ब्रा. ४-१.१-३२)" = Śa. Brā. 4-1.1-32; the file agrees. The word "सद्यो" is split across a line-end in the print, "इत्स-/द्यो…"; "यामस्मै" is not quite clear to me [?].)*
+
+"Because the dakṣiṇā itself is the glory-form of prosperity, it must not be disregarded"; and
+
+> ब्राह्मणा विविदिषन्ति यज्ञेन दानेन ।
+
+> *brāhmaṇā vividiṣanti yajñena dānena |*
+
+*(Printed "(बृ. उ. ४-४-२२)" = Bṛ. U. 4-4-22; the file agrees.)*
+
+—that the knowers of Brahman desire to become jñānis both through sacrifice and through gift; and
+
+> दानमिति सर्वाणि भूतानि प्रशग्ंसन्ति दानान्नातिदुश्चरं तस्माद्दाने रमन्ते ।
+
+> *dānamiti sarvāṇi bhūtāni praśagṃsanti dānānnātiduścaraṃ tasmāddāne ramante |*
+
+*(Printed "(तै. उ. ४-१००)" = Tai. U. 4-100; the file agrees.)*
+
+> दानं यज्ञानां वरूथं दक्षिणा लोके दातारग्ं सर्वभूतान्युपजीवन्ति दानेनारातीरपानुदन्त दानेन द्विषन्तो मित्रा भवन्ति दाने सर्वं [?] प्रतिष्ठितं तस्माद्दानं परमं वदन्ति ।
+
+> *dānaṃ yajñānāṃ varūthaṃ dakṣiṇā loke dātāragṃ sarvabhūtānyupajīvanti dānenārātīrapānudanta dānena dviṣanto mitrā bhavanti dāne sarvaṃ [?] pratiṣṭhitaṃ tasmāddānaṃ paramaṃ vadanti |*
+
+*(Printed "(तै. उ. ४-१०१)" = Tai. U. 4-101; the file agrees. In "दाने सर्वं" the strip shows a garbled form; "सर्वं" is my reading from the sense, so it is marked [?].)*
+
+That is: all praise the act of giving. By giving, all duties and works are accomplished; nothing is impossible through it. Giving is the means, like a chariot, for the sacrifice to proceed well. In the world all live by depending on the giver. Through giving even enemies become friends. In giving all the dharmas are established. Therefore they say that giving is the most excellent action; thus the praise of dakṣiṇā, that is, of giving, is told in many places. As was told before, the 11 Ṛks of the sūkta Ṛ. Saṃ. 10-107, beginning "आविरभून्महि [?] माघोनमेषां" (*āvirabhūnmahi māghonameṣāṃ*), are all of them nothing but the praise of dakṣiṇā and of those who give dakṣiṇā. Since writing all that out would be too long, it will be explained in another context.
+
+*(The "११" Ṛks and "१०-१०७" are unzoomed. The printed page ends here with a short rule; the Special Topics of Ṛk 21 appear to be finished. Whatever follows (grammar page, colophon) is on p. 641.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 640 (PDF 662). Sūkta 11, Ṛk 21 (the last Ṛk of the sūkta): bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Special Topics (dakṣiṇā, with four Nirukta etymologies and Brāhmaṇa/Upaniṣad quotations) are written; the print ends with a short rule at the foot of p. 640. Ṛk 21 is left OPEN for the grammar note, if any, and the sūkta/adhyāya colophon on p. 641. Flags: FILE DISAGREE: p. 640 Śa. Brā. "10-1-1-10" (file "10-11-10", mis-grouping). Unzoomed numerals: running headers on pp. 638–640, 10-107, 1-18-5, 1-125-6 (file agrees), Ni. 1-7, Śa. Brā. 4-1.1-32, Bṛ. U. 4-4-22, Tai. U. 4-100/101, "११" Ṛks of 10-107 (all agree with the file except the one noted). [?] places: "दहेर्दानार्थस्य", "लुजि" and "दिग्स्तप्रकृतिः" (as read), "यामस्मै", "दाने सर्वं", "आविरभून्महि". The द/ध doubt of the Saṃhitā in Ṛk 21 is resolved by the bhāṣya and Pratipadārtha, which print धक्.
