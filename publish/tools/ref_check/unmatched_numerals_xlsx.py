@@ -52,8 +52,8 @@ for n, l in enumerate(lines, 1):
         row += [re.sub(r"\s+", " ", l[max(0, m.start() - 70): m.end() + 25]), ""]
         out.append(row)
 wb = openpyxl.Workbook(); ws = wb.active; ws.title = "Unmatched numerals"
-hdr = ["md line", "printed page", "PDF page", "Sūkta (section)", "Where", "md digits (as read)", "md token (raw)"]
-for i in range(1, a.ncand + 1): hdr += [f"file value {i}", f"file value {i}: page/line (Δ digits) + Raw Line Context (col E)"]
+hdr = ["md line (line no. in the .md file, NOT the book)", "printed page (book)", "our PDF page", "Sūkta (section)", "Where", "md digits (as read)", "md token (raw)"]
+for i in range(1, a.ncand + 1): hdr += [f"numeral-file value {i}", f"numeral-file value {i}: file page / file line no. (Δ digits) + Raw Line Context (col E)"]
 hdr += ["text around it in the md", "YOUR CORRECT DIGITS"]
 ws.append(hdr)
 for r in out: ws.append(r)
