@@ -9,3 +9,6 @@ Context matcher (Sanskrit words before the numeral, ±2 pages): `publish/tools/r
 
 ## Context rule relaxed (user, Nov 4 2026)
 The Sanskrit-words-before-the-numeral requirement was dropped. `publish/tools/ref_check/numeral_exact.py`: a numeral's `[?]` is dropped when its digits are EXACTLY equal to a file row on pages PDF−2…PDF (chance rate measured at ≈0–1%; 128 of 506 numeral tokens match). Applied: **128 numerals** (Devanagari lines, IAST twins, English notes); log `numeral_exact.applied.tsv`. Digits never changed, only `[?]` and the "as read" brackets removed. Differing file values (the 29 REPLACE cases) still not applied.
+
+## Nirukta 12-41 → 12-39 (Nov 4 2026)
+The volume read `Ni. 12-41` in five places (printed pp. 270–272: bhāṣya, IAST twin, Translation line, two Kannada-prose notes). The numeral file reads `12-39` on file pp. 284 (bhāṣya small type), 285 and 286 (prose), and Müller's text reads `12, 39`; all five corrected to 12-39. Also `[?]` dropped (Müller's digits equal the md's): `Ni. 12-1` (p. 275) and `Ni. 5-4` (p. 259).
