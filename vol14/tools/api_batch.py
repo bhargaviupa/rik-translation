@@ -102,6 +102,16 @@ def main():
                 for l in db.split('\n'):
                     if l.strip(): f.write(l.strip()+'\n')
         if not a.no_commit:
-            sh(f'git add -A && git commit -qm "Vol 14 (API): printed pp. {printed(pages[0])}–{printed(pages[-1])}" -m "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" -m "Claude-Session: https://claude.ai/code/session_01CtcBQVMSeD9UwVaoeH9aHo" && git push -q origin HEAD')
+            rc=sh(f'git add -A && git commit -qm "Vol 14 (API): printed pp. {printed(pages[0])}–{printed(pages[-1])}" -m "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" -m "Claude-Session: https://claude.ai/code/session_01CtcBQVMSeD9UwVaoeH9aHo"')
+            if rc.returncode: print('commit failed:',rc.stderr[-400:]); return 11
+            rp=sh('git push origin HEAD')
+            if rp.returncode:
+                print('PUSH REJECTED:',rp.stderr.strip()[-300:],'\n-> trying git pull --rebase once')
+                rr=sh('git pull --rebase origin '+cur)
+                if rr.returncode:
+                    sh('git rebase --abort'); print('STOP: pull --rebase failed (conflict). Your batches are committed locally and safe. Paste this to Claude:',rr.stderr.strip()[-500:]); return 12
+                rp=sh('git push origin HEAD')
+                if rp.returncode: print('STOP: push still failing:',rp.stderr.strip()[-400:]); return 13
+            print('pushed')
     return 0
 sys.exit(main())
