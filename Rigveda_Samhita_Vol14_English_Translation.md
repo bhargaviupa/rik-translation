@@ -20508,21 +20508,21 @@ The Agnipraṇayana rite is concluded.
 
 *(Header: **550**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The task labelled this page 551. The numeral file has no rows for this page. This is the second Ṛk of Sūkta 9; it is the Ṛk the hotṛ has just recited as the eighth mantra of the rite, now given with its own Saṃhitā, Pada, bhāṣya, Pratipadārtha and Bhāvārtha.)*
 
-**Ṛk 2**
+#### Ṛk 2
 
-*Saṃhitā-pāṭha*
+**॥ संहितापाठः ॥**
 
-> त्वं दूतस्त्वमु नः परस्पास्त्वं वस्य आ वृषभ प्रणेता ।
-> अग्ने तोकस्य नस्तने तनूनामप्रयुच्छन् दीद्यद्बोधि गोपाः ॥ २ ॥
+> त्वं दू॒तस्त्वमु॑ नः पर॒स्पास्त्वं वस्य॒ आ वृ॑षभ प्रणे॒ता ।
+> अग्ने॑ तो॒कस्य॑ न॒स्तने॑ त॒नूना॒मप्र॑युच्छ॒न् दीद्य॑द्बोधि गो॒पाः ॥ २ ॥
 
-*Pada-pāṭha*
+**॥ पदपाठः ॥**
 
 *(The small stroke between parts of compounds is written ऽ, as in the earlier volumes.)*
 
 > त्वं । दूतः । त्वं । ऊं इति । नः । परःऽपाः । त्वं । वस्यः । आ । वृषभ । प्रऽनेता ।
 > अग्ने । तोकस्य । नः । तने । तनूनां । अप्रऽयुच्छन् । दीद्यत् । बोधि । गोपाः ॥ २ ॥
 
-*Sāyaṇa-bhāṣya*
+**॥ सायणभाष्यम् ॥**
 
 *(Gist: O Agni, be our messenger to call the gods, our protector from calamities, the one who brings wealth; shine and guard our sons, grandsons and bodies; the Brāhmaṇa says Agni is the guardian of the gods.)*
 
@@ -20532,11 +20532,11 @@ The Agnipraṇayana rite is concluded.
 
 (Printed reference in the bhāṣya: "ऐ. ब्रा. 1. 28", read from the strip, not zoomed. The words भवामीति बोधि are as printed.)
 
-*Pratipadārtha*
+**प्रतिपदार्थ (Pratipadārtha)**
 
 वृषभ (*vṛṣabha*) — one who showers the desired objects. अग्ने (*agne*) — O Agni. त्वं (*tvaṃ*) — you. दूतः (*dūtaḥ*) — be the messenger who calls the deities (to our sacrifice). त्वमु (*tvamu*) — you yourself. नः (*naḥ*) — to us. परस्पाः (*paraspāḥ*) — be the protector in calamity. त्वं (*tvaṃ*) — you. वस्यः (*vasyaḥ*) — of wealth (wealth). आ प्रणेता (*ā praṇetā*) — be the one who brings it to us, directed towards us. अप्रयुच्छन् (*aprayucchan*) — with steady vision. दीद्यत् (*dīdyat*) — shining. नः (*naḥ*) — our. तोकस्य (*tokasya*) — for our sons. तने (*tane*) — for our grandsons. तनूनां (*tanūnāṃ*) — for our own bodies. गोपाः (*gopāḥ*) — be the protector.
 
-*Bhāvārtha*
+**भावार्थ (Bhāvārtha)**
 
 (Kannada, translated:) O Agni, giver of the desired objects, be the messenger who calls the deities to our sacrifice, be the protector for us in calamity, be the one who provides us with wealth, and be one whose gaze is free from [printed ಪ್ರಮಾನರಹಿತ, presumably "negligence" [?]], … *(the sentence runs on to the next page of the print)*
 
@@ -23469,8 +23469,8 @@ The poet has thus described the qualities a friend must have. That is: a man who
 
 **॥ संहितापाठः ॥**
 
-> व्यन्त्विन्नु येषु मन्दसानस्तृपत्सोमं पाहि द्रृह्यदिन्द्र [?] ।
-> अस्मान्त्सु पृत्स्वा तरुत्रावर्धयो द्यां बृहद्भिरर्कैः ॥ १५ ॥
+> व्यन्त्विन्नु येषु॑ मन्दसा॒नस्तृ॒पत्सोमं॑ पाहि द्र॒ृह्यदि॑न्द्र [?] ।
+> अ॒स्मान्त्सु पृ॒त्स्वा त॑रु॒त्राव॑र्धयो॒ द्यां बृ॒हद्भि॑र॒र्कैः ॥ १५ ॥
 
 > *vyantvinnu yeṣu mandasānastṛpatsomaṃ pāhi drṛhyadindra [?] |*
 > *asmāntsu pṛtsvā tarutrāvardhayo dyāṃ bṛhadbhirarkaiḥ ‖ 15 ‖*
@@ -23614,8 +23614,8 @@ That is: O Indra, destroyer of enemies, protect us from the enemies in battles a
 
 **॥ संहितापाठः ॥**
 
-> बृहन्त इन्नु ये ते तरुत्रोक्थेभिर्वा सुम्नमाविवासान् ।
-> स्तृणानासो बर्हिः पस्त्यावत्त्वोता इदिन्द्र वाजमुग्मन् ॥ १६ ॥
+> बृ॒हन्त॒ इन्नु ये ते॑ तरुत्रो॒क्थेभि॑र्वा सु॒म्नमा॒विवा॑सान् ।
+> स्तृ॒णा॒नासो॑ ब॒र्हिः प॒स्त्या॑व॒त्त्वोता॒ इदि॑न्द्र॒ वाज॑मुग्मन् ॥ १६ ॥
 
 > *bṛhanta innu ye te tarutrokthebhirvā sumnamāvivāsān |*
 > *stṛṇānāso barhiḥ pastyāvattvotā idindra vājamugman ‖ 16 ‖*
@@ -23727,8 +23727,8 @@ layers. The darbhas so spread are made abundant and broad, and are spread out so
 
 **॥ संहितापाठः ॥**
 
-> उग्रेष्विन्नु शूर मन्दसानस्त्रिकद्रुकेषु पाहि सोममिन्द्र ।
-> प्रदोधुवच्छ्मश्रुषु प्रीणानो याहि हरिभ्यां सुतस्य पीतिम् ॥ १७ ॥
+> उ॒ग्रेष्विन्नु शू॑र मन्दसा॒नस्त्रिक॑द्रुकेषु पाहि॒ सोम॑मिन्द्र ।
+> प्र॒दोधु॑व॒च्छ्मश्रु॑षु प्रीणा॒नो या॒हि हरि॑भ्यां सु॒तस्य॑ पी॒तिम् ॥ १७ ॥
 
 > *ugreṣvinnu śūra mandasānastrikadrukeṣu pāhi somamindra |*
 > *pradodhuvacchmaśruṣu prīṇāno yāhi haribhyāṃ sutasya pītim ‖ 17 ‖*
@@ -23792,8 +23792,8 @@ Indra, hero, exulting in the solemn Trikadruka rites, quaff the Soma juice, and 
 
 **॥ संहितापाठः ॥**
 
-> धिष्वा शवः शूर येन वृत्रमवाभिनद्दानुमौर्णवाभम् ।
-> अपावृणोज्ज्योतिरार्याय नि सव्यतः सादि दस्युरिन्द्र ॥ १८ ॥
+> धि॒ष्वा शवः॑ शूर॒ येन॑ वृ॒त्रम॒वाभि॑न॒द्दानु॑मौर्णवा॒भम् ।
+> अपा॑वृणो॒ज्ज्योति॒रार्या॑य॒ नि स॑व्य॒तः सा॑दि॒ दस्यु॑रिन्द्र ॥ १८ ॥
 
 > *dhiṣvā śavaḥ śūra yena vṛtramavābhinaddānumaurṇavābham |*
 > *apāvṛṇojjyotirāryāya ni savyataḥ sādi dasyurindra ‖ 18 ‖*
