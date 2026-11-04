@@ -12,3 +12,6 @@ The Sanskrit-words-before-the-numeral requirement was dropped. `publish/tools/re
 
 ## Nirukta 12-41 → 12-39 (Nov 4 2026)
 The volume read `Ni. 12-41` in five places (printed pp. 270–272: bhāṣya, IAST twin, Translation line, two Kannada-prose notes). The numeral file reads `12-39` on file pp. 284 (bhāṣya small type), 285 and 286 (prose), and Müller's text reads `12, 39`; all five corrected to 12-39. Also `[?]` dropped (Müller's digits equal the md's): `Ni. 12-1` (p. 275) and `Ni. 5-4` (p. 259).
+
+## File values applied where the md differed (user: "my numerals always correct", Nov 4 2026)
+13 numerals replaced by the file's value where the context-matched row AND the nearest value on the page window (edit distance ≤ 2) agree (md lines before the note insert: 6153, 7279, 8275, 8283, 8884, 8929, 9682, 9810, 9998, 10722, 10921, 14653, 15316; log `numeral_replace_applied.tsv`). Left as `[?]` (the two methods disagree or no near value): 1790, 6219, 7341, 8097, 10082, 13484, and the same-quote note at 7311. Candidates with a zero part (2-0-0, 2-0, 0-00) were never applied. The earlier "REPLACE" examples 6-2-106 / 3-15-3 turned out to be a wrong row choice: the file DOES contain 6-2-106 on that page, so that `[?]` was dropped by the exact-match pass. One flag: Pā. 7-4-31 (file) vs standard 7-4-71 (note added in the md).
