@@ -58,11 +58,16 @@ for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
 def score(f, m):
     d = digsim(f["val"], m["val"])
     c = fuzz.partial_ratio(f["f"][-60:], m["f"]) / 100 if f["f"] and m["f"] else 0
-    return 0.65 * d + 0.35 * c, d, c
+    pos = max(0.0, 1 - abs(f["rank"] - m["rank"]))   # approximate line position: rank on the page (0..1); neighbour pages sit outside 0..1
+    return 0.55 * d + 0.30 * c + 0.15 * pos, d, c
 res = []
 for P in sorted(frows):
     F = sorted(frows[P], key=lambda r: r["line"]); M = []
-    for p in (P - 1, P, P + 1): M += mrows.get(p, [])
+    for k, f in enumerate(F): f["rank"] = (k + 0.5) / len(F)
+    for p in (P - 1, P, P + 1):
+        mp = mrows.get(p, [])
+        for k, m in enumerate(mp): m["rank"] = (k + 0.5) / len(mp) + (p - P)
+        M += mp
     M.sort(key=lambda m: m["seq"])
     n, mm = len(F), len(M); S = [[score(F[i], M[j]) for j in range(mm)] for i in range(n)]
     TH = 0.5
