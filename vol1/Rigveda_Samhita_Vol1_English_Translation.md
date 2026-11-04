@@ -3049,9 +3049,9 @@ Who is this Vritrasura? What water did he obstruct, and what water did Indra rel
 
 **First: the "Storm Theory"** (what Westerners call the *Chandamaruta-vada*). Here, Vritra is a malevolent deity withholding water within the clouds; Indra, lord of the clouds or rain-deity, pierces the clouds through the storm's power, releasing rain. Accepting this requires reading "parvata" (mountain) as meaning "cloud" — attested elsewhere in the text:
 
-> य एम्बयन्ति पर्वतान् तिरः समुद्रमर्णवम् (I-19-7)
+> य एम्॒बय॑न्ति॒ पर्व॑तान् ति॒रः स॑मु॒द्रम॑र्ण॒वम् (I-19-7)
 >
-> य एम्बयन्ति पर्वतान् तिरः समुद्रम् अर्णवम्
+> य एम्॒बय॑न्ति॒ पर्व॑तान् ति॒रः स॑मु॒द्रम्॑ अर्ण॒वम्
 > *ya embayanti parvatān tiraḥ samudram arṇavam*
 >
 > "[The waters] which flow past the mountains, through the vast, surging ocean..."
@@ -3237,9 +3237,9 @@ The philosophical tradition found in the Rigveda connects to India's much broade
 
 The subject of philosophy is nowhere stated with full clarity in the hymns, nor addressed directly by ordinary devotional suktas — yet, in a manner anticipating the Upanishads, philosophical inquiry does begin to surface within the Samhita, if less prominently than later. Generally, in the Rigveda, natural forces have each become distinct deities — but a single, deep divine power manifesting in many forms is also glimpsed:
 
-> एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ॥ (I-164-46)
+> एकं॒ सद्विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥ (I-164-46)
 >
-> एकं सद् विप्रा बहुधा वदन्त्य् अग्निं यमं मातरिश्वानम् आहुः ॥
+> एकं॒ सद् विप्रा॑ बहु॒धा व॑दन्त्य्॒ अग्निं य॒मं मा॑त॒रिश्वा॑नम् आहुः ॥
 > *ekaṃ sad viprā bahudhā vadanty agniṃ yamaṃ mātariśvānam āhuḥ ||*
 >
 > "That which is One, the wise call by many names: they call it Agni, Yama, Matarishvan."
@@ -5267,11 +5267,11 @@ Comparing Vedic Sanskrit with classical Sanskrit reveals considerable difference
 
 **Sandhi frequently doesn't occur where classical grammar would expect it**, though it is generally applied throughout the Veda. Classical rule holds that visarga does not occur before consonant-initial words at a word-boundary — but the Veda shows many exceptions, generally where meter demands preserving a required syllable-count; sandhi is even applied mid-word in some cases where meter requires it:
 
-> त्वं सुतस्य पीतये सद्यो वृद्धो अजायथाः (1-5-6)
+> त्वं सु॒तस्य॑ पी॒तये॑ स॒द्यो वृ॒द्धो अ॑जायथाः (1-5-6)
 >
 > "You, for the drinking of the pressed Soma, instantly became grown/strong."
 
-> अथा ते अन्तमानां विद्याम सुमतीनाम् (1-4-3)
+> अथा॑ ते॒ अन्त॑मानां वि॒द्याम॑ सुमती॒नाम् (1-4-3)
 >
 > "And may we know the innermost of your favors."
 
@@ -5296,8 +5296,8 @@ A word or two on case-forms. In the instrumental singular of nouns ending in *a*
 
 In the dual of the nominative and accusative, *ā* generally stands at the end of the word; *au* is rare:
 
-> अश्विना पुरुदंससा नरा शवीरया धिया (1-3-2)
-> कवीनो मित्रावरुणा तुविजाता उरुक्षया (1-2-9)
+> अश्वि॑ना॒ पुरु॑दंससा॒ नरा॒ शवी॑रया धि॒या (1-3-2)
+> क॒वीनो॑ मि॒त्रावरु॑णा तुविजा॒ता उ॑रु॒क्षया॑ (1-2-9)
 > यमश्विना ददथुः श्वेतमश्वम् (1-116-6)
 > ता विद्वांसा हवामहे (1-120-3)
 
@@ -5309,7 +5309,7 @@ In the **plural of Nominative and Vocative cases**, "āsa" often replaces plain 
 
 > विश्वे देवास आगत । (1-3-7)
 > ब्राह्मणासः पितरः सोम्यासः (6-75-10)
-> सोमासो दध्याशिरः (1-5-5)
+> सोमा॑सो॒ दध्या॑शिरः (1-5-5)
 
 "Devāsaḥ," "brāhmaṇāsaḥ," "somāsaḥ" and similar forms are ancient usages; alongside them, the more recent forms — "devāḥ," "brāhmaṇāḥ," "somāḥ" — also occur abundantly.
 
@@ -9593,7 +9593,7 @@ In the Chaturmasya-yashti yajna, the mantra "etad brāhmaṇāny eva pañca hav�
 
 > "It will not do to say that to define a brahmana we have only to say that it must be one or other of these things just enumerated. For all these classes are found in the mantras too."
 
-> इन्दवो वां उशन्ति हि ।
+> इन्द॑वो वां उ॒शन्ति॒ हि ।
 > *indavo vāṃ uśanti hi |*
 > "'Indavo vam usanti hi' is a hetu."
 
@@ -13553,8 +13553,8 @@ Here, since the first padas of the Riks "**sāhvān viśvā abhiyujaḥ**" (Ṛ.
 
 **॥ Pada-pāṭhaḥ (the word-separated text) ॥**
 
-> अग्निम् । ईळे । पुरः-हितम् । यज्ञस्य । देवम् । ऋत्विजम् ॥
-> होतारम् । रत्न-धातमम् ॥१॥
+> अ॒ग्निम् । ई॑ळे । पु॒रः-हि॑तम् । य॒ज्ञस्य॑ । दे॒वम् । ऋ॒त्विज॑म् ॥
+> होता॑रम् । रत्न॒-धात॑मम् ॥१॥
 >
 > *agnim | īḷe | puraḥ-hitam | yajñasya | devam | ṛtvijam ||*
 > *hotāram | ratna-dhātamam ||1||*
@@ -14050,8 +14050,8 @@ This Agni, whom I now praise, has been praised by many great sages in ancient ti
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> अग्निना । रयिम् । अश्नवत् । पोषम् । एव । दिवेऽदिवे ।
-> यशसम् । वीरवत्तमम् ॥३॥
+> अ॒ग्निना॑ । र॒यिम्॑ । अश्नव॒त् । पोष॑म् । ए॒व । दि॒वेऽदि॑वे ।
+> य॒शसम् ।॑ वी॒रव॑त्तमम् ॥३॥
 
 ---
 
@@ -14146,8 +14146,8 @@ When the Hotṛ praises Agni, may Agni, pleased by this praise, bestow upon the 
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> अग्ने । यम् । यज्ञम् । अध्वरम् । विश्वतः । परिभूः । असि ।
-> सः । इत् । देवेषु । गच्छति ॥४॥
+> अग्ने॒ । यम् । य॒ज्ञम्॑ । अध्व॒रम् । वि॒श्वतः॑ । परि॒भूः । असि॑ ।
+> सः । इत् । दे॒वेषु॑ । गच्छति ॥४॥
 
 ---
 
@@ -14243,7 +14243,7 @@ O Agni, you remain present in the four directions of this sacrificial altar in t
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> अग्निः । होता । कविऽक्रतुः । सत्यः । चित्रऽश्रवःतमः ।
+> अ॒ग्निः । होता॑ । क॒विऽक्र॑तुः । स॒त्यः । चि॒त्रऽश्र॑वःतमः ।
 > देवः । देवेभिः । आ । गमत् ॥५॥
 
 **॥ The Fifth Mantra of the Rigveda — its Sāyaṇa-bhāṣya and full apparatus follow on the next page.**
@@ -14322,8 +14322,8 @@ This Agni, whom we praise, alone is able to bring the other deities here, since 
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> यत् । अङ्ग । दाशुषे । त्वम् । अग्ने । भद्रम् । करिष्यसि ।
-> तव । इत् । तत् । सत्यम् । अङ्गिरः ॥६॥
+> यत् । अ॒ङ्ग । दा॒शुषे॒ । त्वम् । अग्ने॑ । भ॒द्रम् । क॑रि॒ष्यसि॑ ।
+> तव । इत् । तत् । स॒त्यम्॑ । अङ्गिरः ॥६॥
 
 ---
 
@@ -14404,13 +14404,13 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 **That this rishi Aṅgiras belongs to a very ancient period, and that many Rigvedic rishis in various places describe him as the founding ancestor of their own lineages, becomes clear from several further Riks:**
 
-> मनुष्वदग्ने अङ्गिरस्वदङ्गिरो ययातिवत्सदने पूर्ववच्छुचे ॥
+> म॒नु॒ष्वद॑ग्ने अङ्गिर॒स्वद॑ङ्गिरो ययाति॒वत्सद॑ने पूर्व॒वच्छु॑चे ॥
 > *manuṣvad agne aṅgirasvad aṅgiro yayātivat sadane pūrvavac chuce ||* (Rigveda Samhita 1-31-17)
 
-> अङ्गिरस्वन्महिव्रत प्रस्कण्वस्य श्रुधी हवम् ॥
+> अ॒ङ्गि॒र॒स्वन्म॑हिव्रत॒ प्रस्क॑ण्वस्य श्रुधी॒ हव॑म् ॥
 > *aṅgirasvan mahivrata praskaṇvasya śrudhī havam ||* (Rigveda Samhita 1-45-3)
 
-> दध्यङ् ह मे जनुषं पूर्वो अङ्गिराः प्रियमेधः कण्वो अत्रिर्मनुर्विदुस्ते मे पूर्वे मनुर्विदुः ॥
+> द॒ध्यङ् ह॑ मे ज॒नुषं॒ पूर्वो॒ अङ्गि॑राः प्रि॒यमे॑धः॒ कण्वो॒ अत्रि॒र्मनु॑र्विदु॒स्ते मे॒ पूर्वे॒ मनु॑र्विदुः ॥
 > *dadhyaṅ ha me januṣaṃ pūrvo aṅgirāḥ priyamedhaḥ kaṇvo atrir manur vidus te me pūrve manur viduḥ ||* (Rigveda Samhita 1-139-9) *(the three citations re-read from the better scan in the [?] pass)*
 
 **These Riks show that the rishi Aṅgiras is regarded as an ancestor by many other rishis** — Dadhyañc, Priyamedha, Kaṇva, Atri, and Manu among them, are said to have known his lineage.
@@ -14455,7 +14455,7 @@ O Agni, shining forth before me — for the sake of the sacrificer who offers in
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> उप । त्वा । अग्ने । दिवेऽदिवे । दोषावस्तः । धिया । वयम् ।
+> उप॑ । त्वा । अग्ने । दि॒वेऽदि॑वे॒ । दोषा॑वस्तः । धि॒या । व॒यम् ।
 > नमः । भरन्तः । आ । इमसि ॥७॥
 
 ---
@@ -14525,8 +14525,8 @@ O Agni, we who perform this yajna, every single day, night and day alike, at all
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> राजन्तम् । अध्वराणाम् । गोपाम् । ऋतस्य । दीदिविम् ।
-> वर्धमानम् । स्वे । दमे ॥८॥
+> राज॑न्तम् । अध्व॒राणाम् ।॑ गो॒पाम् । ऋ॒तस्य॒ । दीदि॑विम् ।
+> वर्ध॑मानम् ।॒ स्वे । दमे॑ ॥८॥
 
 **॥ The Eighth Mantra of the Rigveda — its Sāyaṇa-bhāṣya and full apparatus follow on the next page.**
 
@@ -14632,7 +14632,7 @@ O Agni, you shine with incomparable radiance. You protect the yajnas from harm a
 **॥ Pada-pāṭhaḥ ॥**
 
 > सः । नः । पिताऽइव । सूनवे । अग्ने । सुऽउपायनः । भव ।
-> सचस्व । नः । स्वस्तये ॥९॥
+> सच॑स्व । नः । स्व॒स्तये॑ ॥९॥
 
 **॥ Sāyaṇa's bhāṣya and the full apparatus for this closing verse follow on the next page.**
 
@@ -15165,7 +15165,7 @@ A father, out of paternal affection, is always readily accessible to his son. O 
 **॥ Pada-pāṭhaḥ ॥**
 
 > वायो इति । आ । याहि । दर्शत । इमे । सोमाः । अरंकृताः ॥
-> तेषाम् । पाहि । श्रुधि । हवम् ॥१॥
+> तेषाम् ।॑ पाहि । श्रु॒धि । हव॑म् ॥१॥
 
 ---
 
@@ -15292,7 +15292,7 @@ O Vāyu, your form is exceedingly beautiful. We have here, in this yajna, presse
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> वायो इति । उक्थेभिः । जरन्ते । त्वाम् । अच्छ । जरितारः ।
+> वाय॑ो इति । उ॒क्थेभिः॑ । जरन्ते॒ । त्वाम् । अच्छ ।॑ जरि॒तारः॑ ।
 > सुतऽसोमाः । अहःऽविदः ॥२॥
 
 **॥ Sāyaṇa-bhāṣyam ॥**
@@ -15338,8 +15338,8 @@ O Vāyu, the ritvijs, sacrificers and others know at what time and what work is 
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> वायो इति । तव । प्रऽपृञ्चती । धेना । जिगाति । दाशुषे ।
-> उरूची । सोमऽपीतये ॥३॥
+> वायो॒ इति । तव॑ । प्रऽपृञ्च॒ती । धेना॑ । जिगाति । दा॒शुषे॑ ।
+> उ॒रू॒ची । सोम॑ऽपीतये ॥३॥
 
 *(References printed in the grammar section of this page, in order (as read in the numeral review): 6-3-136, 6-2-1, 6-1-223, 6-2-2, 6-2-139, 3.)*
 
@@ -15561,7 +15561,7 @@ O Indra and Vāyu! In yajnas equipped with oblation-shares and the like, you are
 **॥ Pada-pāṭhaḥ ॥**
 
 > वायो इति । इन्द्रः । च । सुन्वतः । आ । यातम् । उप । निःऽकृतम् ।
-> मक्षु । इत्था । धिया । नरा ॥६॥
+> म॒क्षु । इ१॒॑त्था । धि॒या । न॑रा ॥६॥
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
@@ -15661,8 +15661,8 @@ O Indra and Vāyu! Come to the sacrificer who has pressed the Soma-juice and, ha
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> मित्रम् । हुवे । पूतऽदक्षम् । वरुणम् । च । रिशादसम् ।
-> धियम् । घृतऽअचीम् । साधन्ता ॥७॥
+> मि॒त्रम् । हु॑वे । पू॒तऽद॑क्षम् ।॒ वरु॑णम् । च । रि॒शाद॑सम् ।
+> धियम् ।॑ घृ॒तऽअचीम् ।॒ साध॑न्ता ॥७॥
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
@@ -15966,8 +15966,8 @@ O Mitra and Varuṇa! By your grace you cause rain to fall, so that water is abu
 
 **॥ Pada-pāṭhaḥ ॥**
 
-> कवी इति । नः । मित्रावरुणा । तुविऽजाता । उरुऽक्षया ।
-> दक्षं । दधाते इति । अपसम् ॥९॥
+> क॒वी इति । नः ।॑ मि॒त्रावरु॑णा । तुविऽजा॒ता । उ॑रु॒ऽक्षया॑ ।
+> दक्षं॑ । दधाते इति । अ॒पस॑म् ॥९॥
 
 **॥ Sāyaṇa-bhāṣyam ॥**
 
