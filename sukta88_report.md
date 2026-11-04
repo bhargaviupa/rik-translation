@@ -1,0 +1,192 @@
+## line 6736 (page 241) match 83.9
+
+आ विद्युन्मद्भिरिति षडृचं चतुर्थं सूक्तम् । अत्रानुक्रम्यते । आ विद्युन्मद्भिराद्यान्तेः प्रस्तारपङ्क्ती पञ्चमी विराडूपेति । पूर्वव‌दृषिदेवते । आद्या षष्ठी च द्वे प्रस्तारपङ्क्ती । आद्यौ पादौ जागतौ तृतीयेचतुर्थौ गायत्रौ यस्याः सा प्रस्तारपङ्क्तिः । सूत्रितं च । प्रस्तारपङ्क्तिः पुरतः । पिं. ३-४० [?] इति । अस्मिन्नयमर्थः । जागतौ गायत्रौ चेत्यनुवर्तते । यदि पुरतः पुरस्ताद्द्वौ जागतौ पादौ स्यातामन्त्यौ गायत्रौ सा प्रस्तारपङ्क्तिरिति । एतत्त्यदित्येषा पञ्चमी विराडूपा । आदितस्त्रयः पादा एकादशका अन्त्योऽष्टकः सा विराडूपेत्युच्यते ॥ विनियोगो लैङ्गिकः ॥
+
+REF: masya ṣaṣṭhe cayodaśṭo vagaiḥ ‖  ā vidyunmaddhiriti ṣaḍucaṃ catuthe sūktaṃ | acānukramyate| ā vidayunmaddhirādyāyye prastārapa̭ktī paṃcamī virādūpeti | pūvevahaṣidevate | ādyā ṣaṣṭī ca ca prastāra  paṃklī | ādyo pādau jāgato tutīyacaturtho gāyacau yasyāḥ sā prastārapaṃktiḥ | sūcitaṃ ca |prastārapaṃktiḥ purata iti | asyāyamatheḥ | jāgato gāyacau cetyanuvete | yadi purataḥ purastāhūau jāgato pādau syātāmaṃtyī gāyanau sā prastāra paktiriti | etacayadityeṣā paṃcamī virāḍpā | āditasrayaḥ pādā rakādaśakā atyo 'ṣṭakaḥ sā virārūpetyucyate ‖ viniyogo liṃgikaḥ ‖ taca prathamāmṛcamāha ‖ ā vidunmadimerūtaḥ sve rathaṃbh
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "प्रस्तारपङ्क्तिः पुरतः । पिं. ३-४० [?] इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "prastārapaṃktiḥ purata iti",
+   "confidence": "none",
+   "note": "Reference has no citation number; the sutra text is followed directly by 'iti'. Nothing to replace."
+  }
+ ],
+ "other_differences": [
+  "आद्यान्तेः vs ādyāyye (OCR garble)",
+  "reference lacks 'द्वे' after ṣaṣṭī ca",
+  "पूर्ववदृषिदेवते: reference 'pūvevahaṣidevate' (noise)",
+  "reference has a different ending continuing with the next verse text"
+ ],
+ "aligned": true
+}
+```
+
+## line 6759 (page 242) match 63.9
+
+- अष्टक १ · अध्याय ६ · वर्ग १४ [?] — *Aṣṭaka 1 · Adhyāya 6 · Varga 14 [?]*
+
+REF: apramīmṛcamāha ‖  ` subhagaḥ sa prayajyavo marato astu myaḥ | yasya prayāsi peya ‖ 9 ‖  su 'bhaga̭ḥ| saḥ| pr
+
+```json
+"no match above threshold"
+```
+
+## line 6763 (page 242) match 48.6
+
+- छन्दः — १, ६ प्रस्तारपङ्क्तिः; २–४ त्रिष्टुप्; ५ विराडूपा — *metre: Ṛks 1 and 6 Prastārapaṅkti; 2–4 Triṣṭubh; 5 Virāḍrūpā* *(as printed on the heading line; the digits "३-४" for the Triṣṭubh Ṛks are read as "2–4" with doubt [?])*
+
+REF: to pādau syātāmaṃtyī gāyanau sā prastāra paktiriti | etacayadityeṣā paṃcamī virāḍpā | āditasrayaḥ pādā rakādaśakā atyo 'ṣṭakaḥ sā virārūpetyucyate ‖ viniyogo liṃgikaḥ ‖ taca prathamāmṛcamāha ‖ ā vidunmadimerūtaḥ sve rathaṃbh
+
+```json
+"no match above threshold"
+```
+
+## line 6791 (page 243) match 88.5
+
+हे मरुतः । मितं निर्मितमन्तरिक्षं प्राप्य रुवन्ति शब्दं कुर्वन्तीति मरुतः । यद्वा । अमितं भृशं शब्दकारिणः । अथवा मितं स्वैर्निर्मितं मेघं प्राप्य विद्युदात्मना रोचमानाः । अथवा महत्यन्तरिक्षे द्रवन्तीति मरुतः । ये मध्यमस्थाने देवगणाः समाम्नातास्ते सर्वे मरुत आख्यायन्ते । तथा चाहुः । सर्वा स्त्री मध्यमस्थाना पुमान् वायुश्च सर्वगः । गणाश्च सर्वे मरुत इति वृद्धानुशासनमिति । पौराणिकास्त्वाचक्षते । मारीचात्कश्यपात्सप्तगणात्मका एकोनपञ्चाशत्संख्याका मरुतो जज्ञिर इति । एवंभूता हे मरुतो रथेभिरात्रेय्यै [?] रथैरा यात । अस्मदीयं यज्ञमागच्छत । कीदृशैः रथैः । विद्युन्मद्भिः । विद्योतनं विद्युत् । विशिष्टदीप्तियुक्तैः स्वर्कैः स्वर्चनैः शोभनगमनयुक्तैः । यद्वा । शोभनमर्को ऽर्चनं स्तुतिर्येषामस्ति ताद्दृशैः । अथवा शोभनदीप्तियुक्तैः । ऋष्टिमद्भिः । ऋष्टयः शक्तिरूपा ऽऽख्यायुधानि । स्फूजा इत्यन्ये । तद्वद्भिः । अश्वपर्णैः । अश्वानां पतनं गमनं येषामस्ति ताद्दृशैः । यद्वा । रंहणशीला मेघा रथाः । तैः सहान्तरिक्षे वर्षणार्थमागच्छथ । कीदृशैः । विद्युन्मद्भिः । विद्युता तडिता तद्वद्भिः । स्वर्कैः । शोभनगमनैः । ऋष्टिमद्भिः । अर्पणं गमनं । तैस्त्स्वभावनीरयुक्तैः । अश्वपर्णैः । अश्वं व्याप्तं पर्णं पतनं गमनं येषां । अन्तरिक्षं व्याप्य वर्तमानैरित्यर्थः । हे सुमायाः । माये ति कर्मणो ज्ञानस्य च नामधेयम् । शोभनकर्माणः शोभनप्रज्ञा वा मरुतो वर्षिष्ठया प्रवृद्धतरयेषास्मभ्यं दातव्येनान्नेन सह नो ऽस्मान् । प्रति वयो न पक्षिण इव शीघ्रमा पप्तत । आपतत । आगच्छतेत्यर्थः । अत्र निरुक्तम् । अथातो मध्यस्थाना देवगणास्तेषां मरुतः प्रथमागामिनो भवन्ति । मरुतो मितरविणो वा मितरोचिनो वा महद्द्रवन्तीति वेति । विद्युन्मद्भिर्मरुतः स्वर्कैः स्वञ्चनैरिति वा स्वर्चनैरिति वा स्वर्चिभिरिति वा रश्मिभिरायात ऋष्टिमद्भिरश्वपर्णैरश्वपतनैर्वर्षिष्ठया च नो ऽन्नेन वय इवापतत सुमायाः कल्याणकर्माणो वा कल्याणप्रज्ञा वा । नि. ११-१३, १४ [?] । इति ॥ विद्युन्मद्भिः । यवादेराकृतिगणत्वेन विद्युच्छब्दस्य यवाद्यन्तर्भावादयवादिभ्य इत्यत्रानुवृत्तेर्झयः । पा. ८-२-१० [?] इति मतुपो वत्वं न प्रवर्तते । ऋष्टिमद्भिः । हृस्वनुड्भ्यां मतुबिति मतुप उदात्तत्वम् । अश्वपर्णैः । अशू व्याप्तौ । अशिपुषीत्यादिना क्वन्प्रत्ययः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । वर्षिष्ठया । वृद्धशब्दादतिशायनिक इष्ठनि प्रियस्थिरेत्यादिना वर्षादेशः । पप्तत । पत्ऌ गतौ । लुञ् ऌदित्त्वात् च्लेरङादेशः । सतः पुम् । पा. ७-४-७१ [?] इति पुगागमः ॥
+
+REF: imit 'bhiḥ| ava 'parśeḥ| ā | vaṣiṭayā| naḥ| iṣā | vaya̭ḥ| na | patatata | su 'māyāḥ ‖1‖ he marutaḥ | mitaṃ nimitamaṃtarikṣaṃ prāya rūvaṃti śabṭaṃ kuvatīti marūtaḥ | yadvā | amitaṃ bhaśaṃ śabdakāriṇaḥ| athavā mitaṃ svainimitaṃ meghaṃ prāya vidu  ma0 1. a014. sū0 44.  ‖ prathamo 'ṭakaḥ ‖  909  dātmanā rocamānā: | athavā mahatya̭tarighe daravaṃtīti marūtaḥ | ye madhyamasthāne  devagaṇāḥ samānnātāste sarve marūta ākhyāyate | tathā cāhuḥ | savā sī madhyamasthānā pumān vāyuśca savegaḥ | gaṇāśca sarve marūta iti vṛddhānuṇasanamiti| paurāṇikāstvā cakṣate | mārī cātkaśyapātsapragaṇātmakā ekonapaṃcāṇatasaṃkhyākā marutau jalira iti | evaṃbhūtā he maruto rathebhirātmīya ratherāyāta | asmadīyaṃ  yajñamagācchata | kīhaśe ratheḥ| vidyunmaddhiḥ| vidyotanaṃ vidyut | viiṣṭadīpniyuktaiḥ|  svarkeḥ | svaceneḥ ṇobhanagamanayukteḥ | yadvā ṇobhanamarko 'rcanaṃ stutiryeṣāmasti tāhaśeḥ | athavā śobhanadīpniyukteḥ | ṛṣaṭimadviḥ | ṛṣṭayaḥ śaktirūpāṇyāyudhāni |sthūṇā ityanye | tadviḥ | aśvapeḥ | aśvānāṃ patanaṃ gamanaṃ yeṣāmalti  tāhaśeḥ | yadvā raṃhaṇaṇīttā medhā rathāḥ | taiḥ sahāṃtariṣe varṣaṇārthamāgacchata | kīhaśeḥ | vidayunmaddhiḥ | vidyut taḍit | tadaniḥ | svakaḥ | ṇobhanagamaneḥ | ṛṣṭimdhiḥ | aṣeṇaṃ gamanaṃ | tatasvabhāvanīrayukteḥ| aśvaparṇeḥ | aśvaṃ vyāpraṃ parī patanaṃ gamanaṃ yeṣāṃ | saṃtarighṃ vyā vatemānerityathaḥ | he sumāyāḥ | māyeti kameṇo jñānasya ca nāmadheyaṃ | śobhanakamāṇaḥ śobhanaprajñā vā marūtaḥ | varṣiṣṭhayā pravṛddhatarayeṣāsmabhyaṃ dātavyenānrena saha no 'smānprati vayo na pakṣiṇa iva śīghramāpaghnata | āpatata | āgacchatetyatheḥ | aca niruktaṃ | athāto madhyasthānā  devagaṇāsteṣāṃ marūtaḥ prathamā gāmino bhavaṃti | marto mittarāviṇo vā mita-  rocino vā mahadvaṃtīti veti | vidyunmadbhimairutaḥ svakaiḥ svaṃ caneriti vā svaca̭nairiti vā svacibhiriti vā ratherāyāta ṛṣṭimaddhiraśvaparṇeraśvapatanervarṣiṣṭhena ca no 'brena vaya ivāpatat sumāyāḥ kasyāṇakamāṇo vā kalyāṇagrajñā vā | ni° 11, 13.| iti ‖ vidyunmaddhiḥ | yavāderākṛtigaṇatvena vidyucchabṭasya yavādyatabhāvādayavādiya ityacānuvṛttebheyaḥ | pā0 4.2. 10.| iti matupo vatvaṃ na pravatete | ṛṣṭimaddhiḥ | hṛsvanuḍabhyāṃ matuviti matupa udāttaṃ | aśvapaṇeḥ| abh vyāpno | aśipruṣītyādinā kanūpratyayaḥ | bahavīhau pūvepadaprakṛtisvaratvaṃ | varṣiṣṭhayā | vṛdaśabṭādātiśāyanika iṣṭhani priyasthiretyādinā vaṣādeśaḥ | ptā | patu gatau | ldur̤a ṭaṭicvāt caraḍādeśaḥ | pataḥ pum | pā0 9. 4. 19. | iti pumāgamaḥ ‖ 901,. 1.  8 5  710  ‖ ṛgvedaḥ ‖  |kha01, a0 6, va014.  itīyāmṛcamāha ‖ te 'ruṇebhirvaramā piśgeḥ śubhe kaṃ yāṃti raya
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "रथेभिरात्रेय्यै [?] रथैरा यात",
+   "status": "replace",
+   "proposal": "आत्मीयै",
+   "reference_reading": "rathebhirātmīya ratherāyāta",
+   "confidence": "medium",
+   "note": "The reference reads ātmīya in place of the line's आत्रेय्यै, which fits the gloss 'with your own chariots'. Its ending is unclear, since the OCR drops the visarga or ai."
+  },
+  {
+   "n": 2,
+   "context": "नि. ११-१३, १४ [?] । इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "ni° 11, 13.|",
+   "confidence": "none",
+   "note": "The reference gives only 11, 13. Nothing supports the extra numeral, and the OCR numerals are unreliable."
+  },
+  {
+   "n": 3,
+   "context": "पा. ८-२-१० [?] इति मतुपो वत्वं",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "pā0 4.2. 10.|",
+   "confidence": "none",
+   "note": "The reference digits are garbled, so no numeral can be replaced."
+  },
+  {
+   "n": 4,
+   "context": "पा. ७-४-७१ [?] इति पुगागमः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "pā0 9. 4. 19.|",
+   "confidence": "none",
+   "note": "The reference digits do not match the line and are unreliable."
+  }
+ ],
+ "other_differences": [
+  "The line has स्फूजा इत्यन्ये where the reference has 'sthūṇā ityanye'; this is probably OCR noise.",
+  "The line has अश्वं व्याप्तं पर्णं where the reference has 'aśvaṃ vyāpraṃ parī'.",
+  "The line has वर्षिष्ठया च नो ऽन्नेन where the reference has 'varṣiṣṭhena ca no 'brena'; this is OCR noise.",
+  "The line has स्वञ्चनैः where the reference has 'svaṃ caneḥ'.",
+  "The reference has page headers and an additional following mantra, which the line does not."
+ ],
+ "aligned": true
+}
+```
+
+## line 6846 (page 245) match 49.4
+
+- **वर्षिष्ठया** — "*vṛṣṭipradāna*… 'giving rain' — the sense of 'the means to produce food'." *(as read, partly clotted [?])*
+
+REF: ūvepadaprakṛtisvaratvaṃ | varṣiṣṭhayā | vṛdaśabṭādātiśāyanika iṣṭhani priyasthiretyādinā vaṣādeśaḥ | ptā | patu gatau | ldur̤a ṭaṭicvāt caraḍādeśa
+
+```json
+"no match above threshold"
+```
+
+## line 6874 (page 246) match 52.3
+
+- **अश्वपर्णैः** — the root *aśū vyāptau*; by "अशिपुषिकुटिकणि…" (Uṇ. Sū. 1-[151] [?]) the affix *kvan*; the form *aśva*; *aśvaṃ vyāptaṃ parṇaṃ patanaṃ gamanaṃ yeṣāṃ te aśvaparṇāḥ*; instrumental plural; a *bahuvrīhi*, first member keeps its accent.
+
+REF: iryeṣāmasti tāhaśeḥ | athavā śobhanadīpniyukteḥ | ṛṣaṭimadviḥ | ṛṣṭayaḥ śaktirūpāṇyāyudhāni |sthūṇā ityanye | tadviḥ | aśvapeḥ | aśvānāṃ patanaṃ gamanaṃ yeṣāmalti  tāhaśeḥ | yadvā raṃhaṇaṇīttā medhā rathāḥ | taiḥ sahāṃtariṣe varṣaṇārthamāgacchata | kīhaśeḥ | vi
+
+```json
+"no match above threshold"
+```
+
+## line 6914 (page 248) match 85.5
+
+ते पूर्वोक्ता मरुतोऽरुणेभिररुणवर्णैः पिशङ्गैः पिङ्गलवर्णैरुभयवर्णोपेतै रथतूर्भी रथस्य प्रेरयितृभिरश्वैर्वरं देवानां वरीतारं कं शब्दयितारं स्तुवन्तं यजमानमा यान्ति । आगच्छन्ति । किमर्थम् । शुभे तस्य शोभां कर्तुम् । अथवा शुभ उदकाय । वृष्ट्यर्थमित्यर्थः । तेषां मरुतां गणो रुक्मो न रोचमानं सुवर्णमिव चित्रोऽतिशयेन दर्शनीयः स्वधितीवान् स्वधितिरिति वज्रनाम । शत्रूणां खण्डकेनायुधेनोपेतः । एवंविधगणरूपास्ते मरुतो रथस्य पव्या चक्रधारया भूमा भूमिं जङ्घनन्त । अत्यर्थं घ्नन्ति । स्तोतृरक्षणार्थमागतानां तेषां मरुतां भारमसहमाना भूमिरतिपीडिता बभूवेत्यर्थः ॥ वरम् । व्रियन्ते देवा अनेनेति वरः । ग्रहवृदृनिश्चिगमश्च (?) इति करणेऽप् । कम् । कै गै शब्दे । कायतीति कः । बहुलवचनात्कप्रत्ययः । रथतूर्भिः । तुर त्वरणे । रथं तुतुरीति त्वरां युक्तं कुर्वन्तीति रथतुरः । क्विब्वचीति क्विप् । भसि हलि चेति दीर्घत्वम् । पव्या । पवी रथनेमिर्भवतीति यास्कः । नि. ५-५ [?] । पूङ् पवने । अस्माद् च इतीप्रत्ययः । उदात्तयणो इति विभक्तेरुदात्तत्वम् । जङ्घनन्त । हन्तेर्यङन्ताद्वर्तमाने छान्दसो लङ् । भ्वसुम्भयधेत्यादिना ङ्घात्वमिति धातुकत्वादतो लोपयलोपौ । भूमा । भूमिशब्दादुत्तरस्याम उसुपां सुलुगिति डादेशः । छान्दसं ह्रस्वत्वम् ॥
+
+REF: i 'vān| pavyā | ratha̭sya | jaṃghanaṃta | bhūma̭ ‖ 2 ‖ te pūrvoktā marūto ' suṇebhiraruṇavarṇeḥ pigeḥ piṃgala varṇerubhayavaṇepite rathatūbhīṃ rathasya prerayitubhiraśeveraṃ devānāṃ varītāraṃ kaṃ śabṭyitāraṃ stuvaṃtaṃ yajamānamāyāṃti | āgacchaṃti | kimatha | bhubhe | tasya śobhāṃ katu | athavā śubha uṭkāya | vṛyathemityatheḥ | teṣāṃ marūtāṃ gaṇo rukmo na rocamānaṃ suvaṇemiva cico 'tiśyena ṭaṇaśenīyaḥ svadhitīvān | svadhitiriti vajanāma | śacarūṇāṃ saṃḍakenāyudhenopetaḥ | evaṃvidhagaṇarūpāste marato rathasya pavyā cakradhārayā bhūma bhūmiṃ jaṃghanaṃta | khatyathe ghraṃti | stoturakṣaṇāthamāgatānāṃ teṣāṃ maratāṃ bhāramasahamānā bhūmiratipīḍitā babhūvetyatheḥ ‖ varaṃ | viyate devā aneneti varaḥ | yaha-  vṛdaniścīti karaṇe 'p| kaṃ| ke ge śabṭe| kāyatīti kaḥ | bahutvacanātkamapratyayaḥ | rathatūbhiḥ | tura tvaraṇe | rathaṃ tuturati tvarāyuktaṃ kuvaitīti rathaturaḥ | kip ceti kkip | bhisi hati ceti ṭīdhelavaṃ | pavyā | pavī rathanemibhevatīti yāskaḥ | ni° 5.5.| pūṅaḥ pavane | asmāṭaca itīpratyayaḥ | udāttayaṇa iti vibhakterudāttatvaṃ |  jaṃghanaṃta | hateyeḍaṃtādatemāne chāṃdaso laṅ | chaṃdasyubhayayetyāṅkadhātukatvādatolalopayatopo | bhūma | bhūmiśbṭādurasyāmaḥ supāṃ sutugiti ḍadiśaḥ | chāṃdasaṃ hūsvatvaṃ ‖ tṛtīyāmucamāha ‖  dhiye kaṃ vo adhiṃ tanūṣu vāśīrmedhā vanā na kuṇavaṃta ūṅkhā | yuṣ
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "ग्रहवृदृनिश्चिगमश्च (?) इति करणेऽप्",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "yaha-  vṛdaniścīti karaṇe 'p",
+   "confidence": "none",
+   "note": "Reference is garbled and does not clearly give a different reading for the word."
+  },
+  {
+   "n": 2,
+   "context": "नि. ५-५ [?] । पूङ् पवने",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "ni° 5.5.",
+   "confidence": "medium",
+   "note": "Reference has the same reference 5.5 with nothing further, so the [?] seems unnecessary."
+  }
+ ],
+ "other_differences": [
+  "reference 'rathatūbhiḥ', 'tuturati', 'kip ceti' differ from the line (OCR noise)",
+  "reference 'chaṃdasyubhayayetyāṅkadhātukatvād' vs line 'भ्वसुम्भयधेत्यादिना ङ्घात्वमिति धातुकत्वात्' (garbled)"
+ ],
+ "aligned": true
+}
+```
+
+## line 6943 (page 249) match 48.5
+
+- **शुभे** — "for the sake of prosperity; or *śubha* means water (Ni. [1-12] [?]): to serve water, to give rain."
+
+REF: rubhayavaṇepite rathatūbhīṃ rathasya prerayitubhiraśeveraṃ devānāṃ varītāraṃ kaṃ śabṭyitāraṃ stuvaṃtaṃ yajamānamāyāṃti
+
+```json
+"no match above threshold"
+```
+
+## line 6948 (page 249) match 68.8
+
+- **पव्या** — *cakradhārayā* — "by the wheel-rim (Ni. [5-5] [?])."
+
+REF: gaṇarūpāste marato rathasya pavyā cakradhārayā bhūma bhūmiṃ jaṃghanaṃta | khatyathe
+
+```json
+"no match above threshold"
+```
+
+## line 6967 (page 250) match 44.3
+
+- **पव्या** — *pavī rathanemir bhavati* (Ni. [5-5] [?], Yāska — 'the rim of the chariot is called *pavi*'); the root *pūṅ pavane*; by "अचि इः" (Uṇ. Sū. 4-[142] [?]) the affix *i*; by the affix the *guṇa*; *av*-substitution; in the instrumental singular the case-ending *ṭā*; *yaṇ*-substitution; since a case-ending follows the *yaṇ* substituted for an acute, by "उदात्तयणो हल्पूर्वात्" (Pā. Sū. 6-1-[174]) the case-ending is acute.
+
+REF: vidhamasthiṣatta | saveca vyāya vatemānaṃ vṛṃ haṃtuṃ tava vaja eko 'ṇaneka ivāsīdityatheḥ | kiṃca | iṃṭara te tava vīye mahat prabhūtaṃ | anyerajeyamityatheḥ | tathā te bāhlostvadī yayohestayovetlaṃ hitaṃ nihitaṃ | vadīyau bāhū aṇatiśyena balināvityatheḥ| anyatpūvevat ‖ asthiran, tiṣaṭhatelaiṅiḥ samavapravibhyaḥsya ityātmanepadaṃ | maṃce ghaseti cudur | sthādhoricetītṃ | vyatyaye
+
+```json
+"no match above threshold"
+```
+

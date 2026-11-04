@@ -1,0 +1,183 @@
+## line 9093 (page 324) match 48.0
+
+- **अर्यमा** — the root *māṅ* preceded by *ari* [as printed: *ārya*-preceded] — *aryaman* is fixed by *nipātana* by "श्रन्न्क्वनिन्" (Uṇ. Sū. 1-[?]) [the sūtra wording as read: *śrannkvanin*].
+
+REF: dasya mahadipukkaṃ posyaṃ balṭaraṃ dyāvāpṛthivī dyāvāpṛthivyāvanuvataṃte | yasya cedasya vrate niyamanarūpe kamaṇi varūṇo vatete | varūṇo 'pīṭrasya niyamanaṃ nātikrāmatītyatheḥ | api ca | sūry
+
+```json
+"no match above threshold"
+```
+
+## line 9109 (page 325) match 86.2
+
+त्वं सोमेति त्रयोविंशत्यृचं सप्तमं सूक्तं गोतमस्यार्षं सोमदेवताकम् । पञ्चम्याद्याः षोडश्यन्ता द्वादशर्चो गायत्र्यः । सप्तदशी उष्णिक् । शिष्टा दश त्रिष्टुभः । तथा चानुक्रान्तम् । त्वं सोमु त्र्यधिका सौम्यं पञ्चमाद्यि गायत्रो द्वादशोष्णिक् चेति ॥ सूक्तविनियोगो लैङ्गिकः । एकादशिनस्य सौम्यस्य पशोर्वपापुरोडाशयोस्त्वं सोमेति द्वे ऋचावनुवाक्ये । सूत्रितं च । त्वं सोम प्र चिकितो मनीषेति द्वे । आ. ३-२ [?] । इति ॥ महापितृयज्ञे एकैकस्य हविषो द्वे द्वे अनुवाक्ये । तत्र सोमस्य पितृमतस्त्वं सोमेत्येषा प्रथमानुवाक्या । दक्षिणाग्नेरग्निमिति खण्डे सूत्रितं । त्वं सोम प्र चिकितो मनीषा सोमो धेनुं । आ. २-१९ [?] । इति ॥ एतस्यैव प्रायणीयेष्ट्यां सौम्यस्यानुवाक्या । तदहः प्रायणीयेष्टिरित्यत्र सूत्रितं । त्वं सोम प्र चिकितो मनीषा या ते धामानि दिवि या पृथिव्यां । आ. ४-३ [?] । इति ॥
+
+REF: ti  vṛddhipratiṣedhaḥ ‖  ‖ iti prathamasya ṣaṣṭhe 'ṣṭāṭaśo vaiḥ ‖  tvaṃ someti cayoviṃśatyucaṃ saghramaṃ sūktaṃ gottamasyāṣe somadevatākaṃ | paṃcamyādyāḥ ṣoḍaśyaṃtā āṭaśco gāyacyaḥ| sapṭśyuṣṇir| śiṣṭā ṭaśa ciṣṭubhaḥ| tathā cānu-  raṃtaṃ | tvaṃ soma dhikā somyaṃ paṃcamyādi gāyavyo iādaśoṣṇik ceti | sūktaviniyogo legikaḥ‖ ekādaśinasya somyasya paṇaśovepāpuroḍāśyostaṃ someti be cāvanuvākye| sūcitaṃ ca | tvaṃ soma pra cikito manīṣeti i | ā0 3.7.| iti ‖ mahāpituyajña ekekasya haviṣo i he anuvākye | taca somasya pitumatastava sometyeṣā prathamānuvākyā | dasiṇāgeramimiti khaṃḍe sūcitaṃ | tvaṃ soma pra cikito manīṣā somo dhenuṃ | ā0 2, 19.| iti ‖ eṣaiva prāyaṇīyeṣṭau somyasyānuvākyā | tadahaḥ prāyaṇīyeṣṭirityaca sūcitaṃ | tvaṃ soma pra cikito manīṣā yā te dhāmāni divi yā pṛthivyāṃ | āā0 4. 3.| iti ‖  taca prathamāmucamāha ‖ tvaṃ soma pra c
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "आ. ३-२ [?] । इति",
+   "status": "replace",
+   "proposal": "३-७",
+   "reference_reading": "ā0 3.7.",
+   "confidence": "low",
+   "note": "The reference gives 3.7, but its numerals are unreliable. The line has 3-2 followed by [?], so the [?] may stand for a missing numeral (7). The reading is unclear."
+  },
+  {
+   "n": 2,
+   "context": "आ. २-१९ [?] । इति",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "ā0 2, 19.",
+   "confidence": "medium",
+   "note": "The reference reads 2.19 with nothing further, so the [?] looks unnecessary."
+  },
+  {
+   "n": 3,
+   "context": "आ. ४-३ [?] । इति",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "āā0 4. 3.",
+   "confidence": "medium",
+   "note": "The reference reads 4.3 with nothing further, so the [?] looks unnecessary."
+  }
+ ],
+ "other_differences": [
+  "The reference has 'pitumatastava someti' where the line has 'पितृमतस्त्वं सोमेति'; this is an OCR variant.",
+  "The reference has 'sapṭśyuṣṇir' for 'सप्तदशी उष्णिक्'; this is OCR garble.",
+  "The line has 'सोमु' where the reference has 'soma'; the line's reading is likely a transcription slip or variant.",
+  "The reference has 'ekādaśinasya' etc.; these match the line."
+ ],
+ "aligned": true
+}
+```
+
+## line 9159 (page 327) match 86.2
+
+हे सोम त्वं मनीषा मनीषयास्मदीयया बुद्ध्या प्र चिकितः । प्रकर्षेण ज्ञातोऽसि । वयं त्वां स्तुतिभिरर्चाम इत्यर्थः । अतस्त्वं रजिष्ठमृजुतममकुटिलं पंथां पंथानं कर्मफलावाप्तिहेतुभूतं मार्गमनु नेषि । अस्मानुसृत्य क्रमेण प्रापयसि । किंच हे इन्दो उन्दनशील सर्वं जगदमृतेन क्लेदयिता सोम तव प्रणीती प्रणीत्या प्रवृत्त्यर्थकेण [?] प्रकृष्टनयनेन धीरा धीमन्तः कर्मवन्तः प्रज्ञावन्तो वा नोऽस्माकं पितरो देवेष्विन्द्रादिषु रत्नं रमणीयं धनमभजन्त । आसेवन्त । प्राप्नुवन् । अतोऽस्मानपि तादृशं धनं प्रापयेत्यर्थः ॥
+
+REF: ṭo itiṃ | deveṣu | ralnaṃ | abhajaṃta | dhīrāḥ ‖1‖  he soma tvaṃ manīṣā manīṣayāsmadīyayā buddhā pracikitaḥ | prakaṣaṇa jāto 'si | vayaṃ tvāṃ sṛtibhirajñāsiṣpetyatheḥ | atastvaṃ rajiṣṭhamujutamamakuṭitve pathāṃ paṃthānaṃ kamephalāvādhrihetubhūtaṃ mārmamanuneṣi | asmānanukrameṇa prāpayasi|  kica he iṭo | uṭanaśīla save jagaṭamṛtena keṭayitaḥ soma tava praṇītī praṇītyā ttkatṛkena prakṛṭanayanena dhīrā dhīmataḥ kamevaṃtaḥ pralāvaṃto no 'smākaṃ pittaro  deveṣviṃdrādaṣu ratnaṃ ramaṇīyaṃ dhanamabhajaṃta | asevata prāpruvan | ato 'smānapi  tāhaśaṃ dhanaṃ prāpayetyatheḥ ‖ pracikitaḥ | kita jñāne | asmātkamaṇi niṣṭ
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "प्रणीत्या प्रवृत्त्यर्थकेण [?] प्रकृष्टनयनेन",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "praṇītyā ttkatṛkena prakṛṭanayanena",
+   "confidence": "low",
+   "note": "Reference has no extra word between the garbled 'pravṛttyarthakena' and 'prakṛṣṭanayanena'; the [?] may be unnecessary, but the OCR is too garbled to confirm."
+  }
+ ],
+ "other_differences": [
+  "Reference: 'prakaṣaṇa jāto si' vs line 'प्रकर्षेण ज्ञातोऽसि' (OCR garble)",
+  "Reference: 'sṛtibhirajñāsiṣpetyatheḥ' vs line 'स्तुतिभिरर्चाम इत्यर्थः' (garbled)",
+  "Reference: 'kamevaṃtaḥ pralāvaṃto' vs line 'कर्मवन्तः प्रज्ञावन्तो' (OCR garble)",
+  "Reference: 'asevata prāpruvan' vs line 'आसेवन्त । प्राप्नुवन्' (minor)",
+  "Reference: 'buddhā' vs line 'बुद्ध्या' (OCR)"
+ ],
+ "aligned": true
+}
+```
+
+## line 9262 (page 331) match 92.7
+
+अग्निष्टोमे मरुत्वतीये त्वं सोम क्रतुभिरित्येषा धाय्या । सूत्रितं च । अग्नीर्नेता त्वं सोम क्रतुभिः पिन्वन्त्यप इति धाय्याः । आ. ५-१४ [?] । इति ॥
+
+REF: pūrvasavaṇaśīdīrdhatvaṃ ‖ agniṣṭome maratvatīye tvaṃ soma ṛtubhirityeṣā dhāyyā | sūcitaṃ ca | agnirnetā tvaṃ soma ṛtubhiḥ pinva̭tyapa iti dhāyyāḥ | ā0 5, 4.| iti ‖ tāmetāṃ sūkte citī yāmṛcamā
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "आ. ५-१४ [?] । इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "ā0 5, 4.| iti",
+   "confidence": "none",
+   "note": "The reference gives only 'ā0 5, 4.' with no clear extra numeral. The line's 14 versus the reference's 4 is a numeral difference, and numeral OCR is unreliable, so I make no replacement."
+  }
+ ],
+ "other_differences": [
+  "मरुत्वतीये vs 'maratvatīye' (OCR error)",
+  "क्रतुभिः vs 'ṛtubhiḥ' (OCR error)",
+  "सूत्रितं vs 'sūcitaṃ' (OCR variant)",
+  "पिन्वन्ति vs 'pinva̭ti' (OCR garble)",
+  "The reference has extra text before and after the line"
+ ],
+ "aligned": true
+}
+```
+
+## line 9396 (page 335) match 87.8
+
+हे सोम राज्ञो ब्राह्मणानां स्वामिनः । सोमोऽस्माकं ब्राह्मणानां राजा । तै. ब्रा. १-८-५-२ [?] इति श्रुतेः । यागार्थमाहृतः क्रीतो वस्त्रेणावृतः सोमो वरुणः । वरुणोऽसि धृतव्रत इति मन्त्रलिङ्गात् । क्रीतस्य ते नु तव संबन्धीनि हि व्रतानि सर्वाण्यग्निष्टोमादीनि कर्माणि । अतः सर्वेषु योगेषु त्वमेव करणभूतो भवसीत्यर्थः । अतस्तव धाम त्वदीयं तेजो बृहन्महद्विस्तीर्णं गभीरं गाम्भीर्योपेतं च । यद्वा । नु इत्येतदुपमार्थे । तदुक्तं यास्केन । अथाप्युपमार्थे भवति वृक्षस्य नु ते पुरुहूत वयाः । नि. १-४ [?] इति । राज्ञो राजमानस्य वरुणस्य नु वरुणस्येव हे सोम ते तव व्रतानि कर्माणि लोकहितकारीणि । शिष्टं समानं । हे सोम त्वं शुचिः सर्वेषां शोधकोऽसि । तत्र दृष्टान्तः । प्रियो न मित्रः । यथा सर्वेषामनुकूलोऽहरभिमानी मित्रो देवः शोधयिता भवति तद्वत् । तथा त्वमर्यमेवास्माभिर्दृश्यमानः सूर्य इव दक्षाय्योऽसि । सर्वेषां वर्धको भवसि । यथाहनि सूर्यः प्रकाशेन सर्वं वर्धयति एवं निश्मृतमय्यैः [?] सोमकिरणैराप्यायमानं सस्थावरजंगमात्मकं सर्वं जगद्वर्धते ॥ शुचिष्ट्वं । युष्मत्तत्तक्षुःष्वन्तःपादमिति [?] विसर्जनीयस्य सत्त्वं । दक्षाय्यः । दक्ष वृद्धौ । शृदक्षिस्पृहिग्रहिभ्य आय्यः । उ. ३-९६ [?] इत्याय्यप्रत्ययः ॥
+
+REF: asi| priyaḥ| na| micaḥ| ṭasāyyaḥ| ayamā 'iva |asi| soma ‖3‖ he soma rājño bāhmaṇānāṃ svāminaḥ | somo 'smākaṃ brāhyaṇānāṃ rājeti  śruteḥ | varūṇasya yāgāthemāhataḥ krīto vastreṇāvṛtaḥ somo varuṇaḥ | varūṇo 'si dhṛttavrata iti maṃciṃgāt | ṛtasya te nu tava saṃbaṃdhīni hi batāni savāṇyapriṭomādīni kamāṇi| ataḥ sarveṣu yāgeṣu tameva karaṇabhūto bhavasītyatheḥ | atastava dhāma tvadīyaṃ tejo vṛhanmahadistīre gabhīraṃ gābhīyepitaṃ ca | yadvā nu ityetadupamārthe | taduktaṃ yāskena | acāṇupamārthe bhavati vṛkṣasya nu te puruhūta vayāḥ | ni° 1,4.| iti | rājño rājamānasya varuṇasya nu varūṇasyeva he soma te tava varatāni kamāṇi tokahitakārīṇi | śiṣṭaṃ samānaṃ | he soma tava śuciḥ sarveṣāṃ śodhako 'si | taca dṛṣṭātaḥ | priyo na miḥ | yathā sarveṣāmanukūtmo 'harabhimānī mico devaḥ śodhayitā bhavati tadat | tathā tvamayemevāsābhiheśyamānaḥ sūye iva ṭaśāyyo 'si | sarveṣāṃ vadheko bhavasi | yathāhani sūyaḥ  prakāśena save vadheyati | evaṃ niśyamṛtamayeḥ somakiraṇerāṇayāyamānaṃ satsthāvarajaṃgamātmakaṃ save jagaḍte ‖ guciṣṭaṃ | yuṣmatttataśuḥṣvaṃtaḥpādamiti visaje- ¦ nīyasya ṣatvaṃ | ṭaghāyyaḥ| ṭak vṛddho | śuṭadhispṛhiyahibhya āyya ityāyyapratyayaḥ ‖  āyayaṇeṣṭau somyasya haviṣo yā te dhāmānīti yājyā | āmayaṇaṃ b
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "तै. ब्रा. १-८-५-२ [?] इति श्रुतेः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "somo 'smākaṃ brāhyaṇānāṃ rājeti  śruteḥ",
+   "confidence": "none",
+   "note": "The reference has no citation reference here, only a gap before śruteḥ. The [?] is probably doubt about the numeral or a quotation mark, and the reference does not resolve it."
+  },
+  {
+   "n": 2,
+   "context": "नि. १-४ [?] इति",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "ni° 1,4.| iti",
+   "confidence": "medium",
+   "note": "The reference reads 'ni° 1,4' followed by iti, with nothing extra, so the [?] looks unnecessary."
+  },
+  {
+   "n": 3,
+   "context": "निश्मृतमय्यैः [?] सोमकिरणैः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "niśyamṛtamayeḥ somakiraṇerāṇayāyamānaṃ",
+   "confidence": "low",
+   "note": "The reference is garbled and suggests niśyamṛtamayaiḥ, but it is too noisy to support a specific correction. It shows no extra word at the [?]."
+  },
+  {
+   "n": 4,
+   "context": "युष्मत्तत्तक्षुःष्वन्तःपादमिति [?] विसर्जनीयस्य",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "yuṣmatttataśuḥṣvaṃtaḥpādamiti visaje- ¦ nīyasya",
+   "confidence": "none",
+   "note": "The reference has the same words, and a line break falls where the [?] is. It gives no additional reading."
+  },
+  {
+   "n": 5,
+   "context": "उ. ३-९६ [?] इत्याय्यप्रत्ययः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "śuṭadhispṛhiyahibhya āyya ityāyyapratyayaḥ",
+   "confidence": "none",
+   "note": "The reference has no sutra number here."
+  }
+ ],
+ "other_differences": [
+  "The reference begins with the preceding mantra words (asi priyaḥ na micaḥ ...), which the line does not include.",
+  "The reference has 'varūṇasya' before yāgārtham, which the line lacks.",
+  "The line has 'क्रीतस्य ते' where the reference has 'ṛtasya te', which is probably OCR garble.",
+  "The line has 'योगेषु' where the reference has 'yāgeṣu'.",
+  "The reference continues after the line with 'āyayaṇeṣṭau ...'."
+ ],
+ "aligned": true
+}
+```
+

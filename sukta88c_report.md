@@ -1,0 +1,215 @@
+## line 7655 (page 276) match 60.8
+
+- **वरुणम्** — *vṛṇoti pāpakṛtaḥ svakīyaiḥ pāśair āvṛṇotīti rātryabhimānidevo varuṇaḥ | śrūyate ca | vāruṇī rātriḥ* (Tai. Brā. [1-2-10-1] [?]) — "one who encloses the evildoers with his nooses; and there is a Śruti sentence that this Varuṇa is the deity of the night."
+
+REF: ā ādityo ' yameti śteḥ | taṃ | varuṇaṃ | vṛṇoti pāpakṛtaḥ svakīyeḥ pāśrāvṛṇotīti rābhimānidevo varūṇaḥ| śrūyate ca | vāruṇī rāciriti | somaṃ | edhātmānaṃ vibhajya pṛthivyāṃ latārūpeṇa divi ca caṃdrātmanā devatārūpeṇa vatemānaṃ | aśvinā | aśvavaṃto | yadvā sarvai  vyāghuvaṃtau | tathā ca yāsk
+
+```json
+"no match above threshold"
+```
+
+## line 7665 (page 276) match 49.0
+
+- **मयः** — "among the twenty-seven names of happiness — *śaṃbhūḥ, śatarā* and the rest — the word *mayaḥ* is read; so *mayaḥ* means happiness (Ni. [3-6] [?])."
+
+REF: bhanapatanā ete sūyeraṣmaya ārodhane sarvesyā-  vare vyāpne divo ' tariṣasya madhya āsate | vartete | te sūyairaṇmayaḥ patho māgību-  kamaraṇyaśvānaṃ sedhati | niṣedhaṃti nivār
+
+```json
+"no match above threshold"
+```
+
+## line 7725 (page 279) match 86.9
+
+…युवां तद्भेषजं शृणुतं । आकर्णयतं । यद्भेषजमस्माभिर्व्याध्यादिषु प्रार्थ्यते । तद्भेषजं देवानां भिषजौ युवामस्माकमनुकूलं यथा भवति तथा जानीतमित्यर्थः ॥ मयोभु । ह्रस्वो नपुंसके प्रातिपदिकस्य । पा. १-२-४७ [?] इति ह्रस्वत्वम् । वातु । वा गतिगन्धनयोः । अन्तर्भावितण्यर्थात्प्रार्थनायां लोट् । सोमसुतः । सोमे सुञः । पा. ३-२-९० [?] इति भूते क्विप् । धिष्ण्या । धिषणाशब्दादर्हार्थे छन्दसि च इति यः । वर्णलोपश्छान्दसः । सुपां सुलुगित्याकारः ॥
+
+REF: dhiḥ| tadahāvaśinau yuvaṃ yuvāṃ taddheṣajaṃ bhpṛṇutaṃ | āākaṇeyataṃ | yajñaṣajamasmābhivāyudiṣu prāthyaite | tadbheṣajaṃ devānāṃ bhiṣajau yuvāmasmākamanuktke yathā bhavati tathā jānītamityatheḥ ‖ mayobhu | hṛsvo napuṃsake prātiṣadikasya | pā0 1,2,47.| iti hṛsvatṃ | vātu | vā gatigaṃdhanayoḥ | aṃtabhāvi-  ma0 1, 0 14. sū0 49. |  ‖ prathamo ' ṭakaḥ ‖  919  taryātrāthanāyāṃ loṭ | somasutaḥ | some sujaḥ | pā0 3.2. 90.| iti bhūti kip | dhiṣṇyā | dhiṣaṇāṇabdādarīrthe chaṃdasi ceti yaḥ | vaśalopaṇḍāṃdasaḥ | supāṃ sutdugityākāraḥ ‖ paṃcamīmṛcamāha ‖  tamīśān
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "पा. १-२-४७ [?] इति ह्रस्वत्वम्",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "pā0 1,2,47.| iti hṛsvatṃ",
+   "confidence": "medium",
+   "note": "Reference has the same sutra number followed by a danda-like mark, so the [?] looks like punctuation and nothing is missing."
+  },
+  {
+   "n": 2,
+   "context": "पा. ३-२-९० [?] इति भूते क्विप्",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "pā0 3.2. 90.| iti bhūti kip",
+   "confidence": "medium",
+   "note": "Same sutra number and the same danda-like mark, so the [?] is unnecessary."
+  }
+ ],
+ "other_differences": [
+  "The reference's first words (tadahāvaśinau yuvaṃ …) are garbled OCR or differ from the line's start.",
+  "Reference 'yajñaṣajam…' for the line's 'यद्भेषजम्' is OCR noise.",
+  "'anuktke' for 'अनुकूलं' is OCR noise.",
+  "'bhūti kip' for 'भूते क्विप्' is OCR noise.",
+  "A page-header intrusion ('prathamo 'ṭakaḥ 919') interrupts the passage in the reference."
+ ],
+ "aligned": true
+}
+```
+
+## line 7837 (page 283) match 47.6
+
+- **वेदसाम्** — "among the twenty-eight names of wealth — *maghaṃ, reknaḥ* and the rest — the word *vedas* is read; so *vedasām* means 'of riches' (Ni. [2-10] [?])."
+
+REF: ca | imaṃ stomamahate jātavedasa iti tātīyisavanikyaḥ | khā0 5.5.| iti ‖  tāmetāṃ sūkte prathamām camāha ‖  imaṃ stomamahete jātavedase ratha̭miva saṃ ma̭hemā manīṣaya| | bhadrā hi naḥ pra
+
+```json
+"no match above threshold"
+```
+
+## line 7896 (page 285) match 88.7
+
+वृद्धश्रवा वृद्धं प्रभूतं श्रवः श्रवणं स्तोत्रं हविर्लक्षणमन्नं वा यस्य ताद्दृश इन्द्रो नोऽस्माकं । स्वस्तीत्यविनाशनाम । नि. ३-२१ [?] । स्वस्त्यविनाशं दधातु । विदधातु । करोतु । विश्ववेदाः । विश्वानि वेत्तीति विश्ववेदाः । यद्वा । विश्वानि सर्वाणि वेदांसि ज्ञानानि धनानि वा यस्य ताद्दृशः पूषा पोषको देवो नोऽस्माकं स्वस्ति विदधातु । अरिष्टनेमिः । नेमिरित्यायुधनाम । अरिष्टो ऽहिंसितो नेमिर्यस्य । यद्वा । रथचक्रस्य धारा नेमिः । यत्सम्बन्धिनो रथस्य नेमिर्न हिंस्यते सो ऽरिष्टनेमिः । एवंभूतस्तार्क्ष्यस्तृक्षस्य पुत्रो गरुत्मान्नोऽस्माकं स्वस्त्यविनाशं विदधातु । तथा बृहस्पतिर्बृहतां देवानां पालयिता नोऽस्माकं स्वस्त्यविनाशं विदधातु ॥ वृद्धश्रवाः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । विश्ववेदाः । विद ज्ञाने । विद्ऌ लाभे । आभ्यामसुन्नुत्पत्त्ययान्तो वेदस्शब्दः । बहुव्रीहौ विश्वं संज्ञायामिति पूर्वपदान्तोदात्तत्वम् । तार्क्ष्यः । तृक्षस्यापत्यं । गर्गादिभ्यो यञ् । पा. ४-१-१०५ [?] । ञित्त्वादाद्युदात्तत्वं । अरिष्टनेमिः । न रिष्ट्वारिष्टा । अव्ययपूर्वपदप्रकृतिस्वरत्वं । अरिष्टा नेमिर्यस्य स तथोक्तः । बृहस्पतिः । तद्बृहतोः करपत्योश्चोरदेवतयोः । पा. ६-१-१५७ [?] इति सुट् तलोपौ । उभे वनस्पत्यादिषु इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वं ॥
+
+REF: riṣṭa 'nemiḥ| svasi| naḥ| vṛhasyatiṃḥ| dadhātu ‖6‖ $01,. 1,  8 pae  914  ‖ ṛgveṭḥ ‖  [kha01. kha06, va016.  vṛddhaśravāḥ | vṛddhaṃ prabhūtaṃ vaṇaṃ stotraṃ havilakṣaṇamannaṃ vā yasya tāṇa idaṭro no 'smākaṃ | svastītyavināśanāma | svastyavināśaṃ dadhātu | vidadhātu karotu | viśvavedāḥ | viśvāni vettīti viśvavedāḥ | yadā viśvāni savaśi vedāṃsi  jñānāni dhanāni vā yasya tāhaśaḥ pūṣā poṣako devo no 'smākaṃ svasti viṭ-  dhātu | ariṣṭanemiḥ | nemirityāyudhanāma | ariṣṭo 'hiṃsito nemiaisya | yadvā | rathacakrasya dhārā nemiḥ | yatsaṃvaṃdhino rathasya neminaṃ risyate so ' riṭanemiḥ | evaṃbhūtastāyaiḥ | tṛkṣasya puco garutmān no 'smākaṃ svastyavināśaṃ vidadhātu |  tathā vṛhasyativṛhatāṃ devānāṃ pātyitā no 'smākaṃ svastyavināśaṃ vidadhātu ‖ vṛdaścavāḥ | vahuvrīhau pūveṣadaprakṛtisvaratvaṃ | viśvavedāḥ | vid jñāne | vidu tkāme | ābhyāmasunpratyayāṃto vedasaṇaśabdaḥ | bahūvīhau viśvaṃ saṃjñāyāmiti pūvepaṭāṃtorāctalaṃ | tāṣyeḥ | tṛkṣasyāpatyaṃ | gagoādibhyo yañ |pā04.1.105.| jicdhādā-  dayuṭācatvaṃ | ariṣṭanemiḥ | na riṣṭo 'riṣṭaḥ | avyayapū vepa prakṛtisvaratvaṃ | ariṣṭā nemiyesya sa tathoktaḥ | bṛhasyatiḥ | tadbṛhatoḥ karapatyoriti suṭtatopau | ubhe vanaspatyādiṣviti pūrvottarapadayoyuṃga patprakṛtisvaratvaṃ ‖ sapramīmṛcamāha ‖  puṣa̭daśvā martaḥ pṛśriṃmātar
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "स्वस्तीत्यविनाशनाम । नि. ३-२१ [?] ।",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "svastītyavināśanāma | svastyavināśaṃ dadhātu",
+   "confidence": "none",
+   "note": "The reference has no Nighaṇṭu citation here, so it is silent on the [?]."
+  },
+  {
+   "n": 2,
+   "context": "गर्गादिभ्यो यञ् । पा. ४-१-१०५ [?] ।",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "gagoādibhyo yañ |pā04.1.105.|",
+   "confidence": "medium",
+   "note": "The reference gives 4.1.105 with nothing further, so the [?] looks unnecessary. The digits are OCR, but they match the line."
+  },
+  {
+   "n": 3,
+   "context": "पा. ६-१-१५७ [?] इति सुट् तलोपौ",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "tadbṛhatoḥ karapatyoriti suṭtatopau",
+   "confidence": "none",
+   "note": "The reference gives no sutra number here, so it is silent."
+  }
+ ],
+ "other_differences": [
+  "The reference 'ariṣṭo 'hiṃsito nemiaisya' is garbled, and the line has नेमिर्यस्य.",
+  "The reference 'tāyaiḥ' for तार्क्ष्यः is OCR garble.",
+  "The reference 'vid tkāme' differs from the line's 'विद्ऌ लाभे'. This is garbled OCR.",
+  "The reference 'na riṣṭo 'riṣṭaḥ' differs from the line's 'न रिष्ट्वारिष्टा'.",
+  "The reference 'neminaṃ risyate' differs from the line's 'नेमिर्न हिंस्यते'. This is OCR noise."
+ ],
+ "aligned": true
+}
+```
+
+## line 7929 (page 286) match 43.4
+
+- **तार्क्ष्यः** — "son of Tṛkṣa; the bhāṣyakāra gives the meaning *garutmān* — Garuḍa. This word too points to the Āditya. Some say *tṛkṣa* is Kaśyapa; since he is his son the Āditya is called Tārkṣya. Some think that this is a 'horse of the world of the gods' and that the sun himself is praised in this form. Some say he is the son of a Tṛkṣi, a descendant of Trasadasyu. In the *khila* mantras too (Ṛ. Saṃ. [?]; Āśvalāyana Śrauta-sūtra [?]) the word *tārkṣya* is meant to indicate a bird or a special kind of bird; the sense of the word is doubtful. Sūkta 10-[178] of the Ṛg. Saṃ. is addressed to Tārkṣya." *(numerals read with doubt [?])*
+
+REF: gaṇaḥ ‖4‖  saṃ hi sa khalu maratraṇo 'yā asya savasya jagata ḍena iśvaraśītto bhavati|  kīhaśaḥ | svasut | svayameva saran| na hyanyaḥ kaściṭsya marbraṇasya prerako 'sti | pṛṣadaśvaḥ | pṛṣatyaḥ śvetavidṃkitā mṛgyo 'śasthānīyā yasya sa tathoktaḥ | yuvā |  nityatarūṇaḥ | taviṣībhiranyeṣāmasādhāraśevelerāvṛtaḥ pariveṣṭitaḥ | satyaḥ | satkamoāheḥ | ṛṇayāvā | stotṛṇāmṛṇasyāpagamayittā | bahulasya dhanasya ṭātetyathaḥ | anedyaḥ | praśasyanāmetat | sarveraniṃditaḥ | vṛṣā | jalānāṃ vaṣiṃtatā | evaṃbhūto mardraṇo 'syā dhiyo ' sradīyasyāsya kameṇo 'yānaṃtaraṃ prāvitāsi |`  prakarṣeṇa rakṣittā bhavati ‖ ayā | supāṃ sutṭugiti ṣaṣṭ
+
+```json
+"no match above threshold"
+```
+
+## line 7930 (page 286) match 48.1
+
+- **अरिष्टनेमिः** — *rathacakrasya dhārā nemiḥ | ariṣṭo 'hiṃsito nemir yasya | yatsambandhino rathasya nemir na hiṃsyate so 'riṣṭanemiḥ* — "'*nemi*' is the wheel of a chariot: he whose wheel-rim is not injured, that is, one whose chariot wheels are free from obstruction, unimpeded in motion. Skandasvāmin gives the meaning 'thunderbolt-weapon' for the word *nemi*. *Ariṣṭanemi* may also be the name of a sage, a son of Tṛkṣa (Ṛ. Saṃ. 10-[178] [?])." *(the entry continues on p. 287)*
+
+REF: no 'smākaṃ svasti viṭ-  dhātu | ariṣṭanemiḥ | nemirityāyudhanāma | ariṣṭo 'hiṃsito nemiaisya | yadvā | rathacakrasya dhārā nemiḥ | yatsaṃvaṃdhino rathasya neminaṃ risyate so ' riṭanemiḥ | evaṃbhūtastāyaiḥ | tṛkṣasya puco garutmān no 'smākaṃ svastyavināśaṃ vidadhātu |  tathā vṛhasyativṛhatāṃ devānāṃ pātyitā no 'smākaṃ svastyavināśaṃ vidadhātu ‖ vṛdaścavāḥ | vahuvrīhau pūveṣadaprakṛtisvaratvaṃ | viśvavedāḥ | vid jñāne | vidu tkāme | ābhyāmasunpratyayāṃto vedasaṇaśabdaḥ | bah
+
+```json
+"no match above threshold"
+```
+
+## line 8003 (page 289) match 49.0
+
+- **पृषदश्वाः** — *pṛṣatyaḥ aśvā yeṣāṃ te pṛṣadaśvāḥ* — "those whose horses are does with white spots. The vehicles of the Marut deities are called *pṛṣatī*: '*pṛṣatyo marutām*' (Ni. [?-?] [?]) — so the Nirukta says."
+
+REF: a marbraṇasya prerako 'sti | pṛṣadaśvaḥ | pṛṣatyaḥ śvetavidṃkitā mṛgyo 'śasthānīyā yasya sa tathoktaḥ | yuvā |  nityatarūṇaḥ | taviṣībhiranyeṣāmasādhāraśevelerāvṛtaḥ pariveṣṭitaḥ | satyaḥ | satkamoāheḥ | ṛṇayāvā | stotṛṇāmṛṇasyāpaga
+
+```json
+"no match above threshold"
+```
+
+## line 8097 (page 292) match 86.6
+
+अस्ति सौम्यश्चरुस्तृतीयसवने । तेन चरुणा देवताया इष्ट्वेष्वशेषे तस्मिन्स्वहुतघृतमवनीय तस्मिन्स्वषट्कर्त्रा स्वकीयो च्छाया द्रष्टव्या । सा यदि न दृश्येत तदानीं भद्रमित्येका पठितव्या । त्वं सोमेति खण्डे तथैव सूत्र्यते । राज्ञा सोमेन तद्वयमस्मासु धारयामसि भद्रं कर्णेभिः शृणुयाम देवा इति च । आ. ५-१८ [?] । इति ॥ महानाम्न्यां व्रते ऽप्येषा भूमिस्पर्शने जप्या । सूत्रितं चैतद्विदमिति खण्डे । भद्रं कर्णेभिः शृणुयाम देवाः शं न इन्द्राग्नी भवतामवोभिः । आ. ८-१४ [?] । इति ॥
+
+REF: a lopa  itīkāralopaḥ | bahulaṃ khaṃdasīti śapo luk |  asti somyacarastṛtīyasavane | tena caruṇā ṭevatā iṣṭā geṣe tasminvahu dhṛtamavanīya tasminvaṣaṭkaco svakīyā chāyā draṭavyā | sā yadi na haṇyeta tadānī bhadaramityekā paṭhitavyā | tvaṃ someti khaṃḍe tathava sūcyate | rājñā somena tavyamasmāsu dhārayāmasi bhadaraṃ karṇebhiḥ śṛṇuyāma devā iti ca | ā0 5. 19. | iti ‖  mahānāmnīvrata ' yeṣā bhūmispaśene japyā | sūcitaṃ cetadiṭamiti khe | bhadraṃ karṇobhiḥ ṛṇayāma devāḥ śaṃ na iṭarāgrī bhavatāmavobhiḥ | ā0 4. 14.| iti ‖ tāmetāṃ sūkte 'ṭamī mṛcamāha ‖  bhadra
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "आ. ५-१८ [?] । इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "ā0 5. 19.",
+   "confidence": "low",
+   "note": "The reference gives 5. 19, but numerals are unreliable. The line already has 5-18, and the [?] seems to mark a missing third number, which the reference does not clearly supply."
+  },
+  {
+   "n": 2,
+   "context": "आ. ८-१४ [?] । इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "ā0 4. 14.",
+   "confidence": "none",
+   "note": "The reference numerals are garbled (4 vs 8), and it has no clear third number."
+  }
+ ],
+ "other_differences": [
+  "Reference has 'bhadaram' and 'tadānī'; the line reads भद्रम् and तदानीं, which is OCR noise.",
+  "Reference 'tasminvaṣaṭkaco' against the line's 'तस्मिन्स्वषट्कर्त्रा स्वकीयो च्छाया': the reference is garbled, with 'ṭevatā iṣṭā geṣe' for 'देवताया इष्ट्वेष्वशेषे'.",
+  "Reference 'karṇobhiḥ' in the second quote against the line's 'कर्णेभिः': OCR noise.",
+  "Reference has extra text before and after the passage."
+ ],
+ "aligned": true
+}
+```
+
+## line 8105 (page 292) match 87.1
+
+हे देवा दानादिगुणयुक्ताः सर्वे देवाः कर्णेभिरस्मदीयैः श्रोत्रैर्भद्रं भजनीयं कल्याणं वचनं शृणुयाम । युष्मत्सम्बन्धि श्रोतुं समर्थाः स्याम । अस्माकं बाधिर्यं कदाचिदपि मा भूत् । हे यजत्रा यागेषु चरुपुरोडाशादिभिर्यष्टव्या देवा अक्षभिरक्षिभिर्भाति [?] भद्रं शोभनं पश्येम । द्रष्टुं समर्थाः स्याम । अस्माकं दृष्टिप्रतिघातो ऽपि मा भूत् । स्थिरैर्दृढैरङ्गैर्हस्तपादादिभिरवयवैस्तनूभिः शरीरैश्च युक्ता वयं तुष्टुवांसो युष्मान् स्तुवन्तो यदायुः षोडशाधिकशतप्रमाणं विंशत्यधिकशतप्रमाणं वा देवहितं देवेन प्रजापतिना स्थापितं तद्व्यशेम । प्राप्नुयाम ॥ कर्णेभिः । बहुलं छन्दसीति भिस ऐसभावः । अक्षभिः । छन्दस्यपि दृश्यत इत्यनङ् स चोदात्तः । यजत्राः । अमिनक्षि… इत्यादिना यजेरत्रन्प्रत्ययः । तुष्टुवांसः । ष्टुञ् स्तुतौ । लिटः क्वसुः । शर्पूर्वाः खय इति तकारः शिष्यते । अशेम । अशू व्याप्तौ । लिङ्याशिष्यङ् । यदि तु तत्र परिगणनमन्यव्यावृत्त्यर्थं तदानीं लिङः व्यत्ययेन शप् । देवहितम् । तृतीया कर्मणेति पूर्वपदप्रकृतिस्वरत्वम् ॥
+
+REF: ma | a ' | yajāḥ |  sthireḥ| khagaḥ tustu 'vāsa̭ḥ| tanūbhiḥ| vi | aśema |ṭeva 'rahiṃtaṃ | yat|āyuḥ ‖ 4‖ hedevā dānaguṇayuktāḥ sarve devāḥ karṇebhirasmadīyeḥ śrocebhadraṃ bhajanīyaṃ kasyāṇaṃ vacanaṃ śṛṇuyāma | yuṣmatprasādācchotuṃ samathāḥ syāma | asmākaṃ vādhiye kadācidapi mā bhūt | he yajā yāgeṣu carūpuroḍāśāṭibhiyeṣṭavyā devā akṣami-  rakibhirātmīyeśvayubhibhadaraṃ śobhanaṃ paśyema | dṛṣṭaṃ samathāḥ syāma | asmākaṃ ipratighāto 'pi mā bhūt | sthireṣaḍheragehastapādādibhiravayavestanūbhiḥ śarīreśca yuktā vayaṃ tuṣaṭuvāṃso yuṣmān stuvato yadāyuḥ ṣoḍaśādhikaśtapramāṇaṃ viṃśtyadhikaśatamramāṇaṃ vā devahitaṃ devena prajāpatinā sthāpitaṃ tadyaśema | prāghruyāma ‖ karṇobhiḥ | bahutkaṃ ṃṭasīti bhisa resabhāvaḥ | akṣabhiḥ | idasyapi hyata ityanaṅ sa  codāttaḥ| yajacāḥ| aminakṣītyādinā yajeracanpratyayaḥ| tuṣṭuvāṃsaḥ | ṭaj stuto | liṭaḥ kasuḥ | śapūṃvāḥ khaya iti takāraḥ śiṣyate | aśema | abhū vyāpno | liḍyāśiṣyaṅ | yari tu taca parigaṇanamanyavyāvṛthaṃ tadānī liṅaḥ vyatyayena śap | devahitaṃ | tṛtīyā kameṇīti pūvapaṭaprakṛtisvaratvaṃ ‖  920  ‖ ṛgvedḥ ‖  [ṛa01, a06, va0 16,  navamīmṛca
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "अक्षभिरक्षिभिर्भाति [?] भद्रं शोभनं पश्येम",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "akṣami- rakibhirātmīyeśvayubhibhadaraṃ śobhanaṃ paśyema",
+   "confidence": "low",
+   "note": "Reference is garbled here. It has 'ātmīyeśvayubhi' between the akṣi word and bhadraṃ, which may hint at a different word than 'भाति', but it is not clear enough to propose a reading."
+  }
+ ],
+ "other_differences": [
+  "Reference has 'yuṣmatprasādācchotuṃ' where the line has 'युष्मत्सम्बन्धि श्रोतुं'",
+  "Reference 'dṛṣṭaṃ samathāḥ' vs line 'द्रष्टुं समर्थाः'",
+  "Reference 'asmākaṃ ipratighāto' vs line 'दृष्टिप्रतिघातो'",
+  "Reference 'prāghruyāma' vs line 'प्राप्नुयाम'",
+  "Reference 'tadyaśema' vs line 'तद्व्यशेम'"
+ ],
+ "aligned": true
+}
+```
+

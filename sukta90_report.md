@@ -1,0 +1,205 @@
+## line 8710 (page 313) match 86.3
+
+अप्तोर्यामे सन्ति चत्वार्यतिरिक्तोक्थानि । तत्र चतुर्थे ऽच्छावाकातिरिक्तोक्थ उत नो धिय इत्येषासुरूपत्र्चस्य वैकल्पिकी तृतीया । सूत्रितं च । उत नो धियो गोअग्रा इति वासुरूपस्तोत्रमा । आ. ९-११ [?] । इति ॥
+
+REF: yudāttatvaṃ | ājjaserasuk ‖ aproyāme saṃti catvāyetiriktokthāni | taca caturtha 'cchāvākātiriktokya  utata no dhiya ityeṣānurūpatu casya vekalpikī tṛtīyā | sūcitaṃ ca | uta no | bhiyo gokhamā iti vānurūpasyoctamā | ā 9. 11.| iti ‖ tāmetāṃ sūkte paṃcamīmuc
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "आ. ९-११ [?] । इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "ā 9. 11.| iti",
+   "confidence": "none",
+   "note": "Reference has nothing after 11, so it gives no extra number or character."
+  }
+ ],
+ "other_differences": [
+  "वासुरूपस्तोत्रमा vs reference 'vānurūpasyoctamā' (likely वानुरूपस्योत्तमा)",
+  "एषासुरूप vs reference 'eṣānurūpa' (likely अनुरूप)",
+  "अप्तोर्यामे vs 'aproyāme' (OCR noise)"
+ ],
+ "aligned": true
+}
+```
+
+## line 8718 (page 313) match 78.9
+
+हे पूषन्पोषक देव हे विष्णो व्यापनशील देव हे एवयावः । एवैर्गन्तृभिरश्वैर्याति गच्छतीत्येवयावा मरुद्गणः । हे मरुद्गण ते सर्वे यूयं नोऽस्माकं धियोऽप्तोर्यामलक्षणानि कर्माणि गोअग्राः पश्वग्राणि पशुप्रमुखान्यस्मत्सकाशाद्भ्रष्टैः पशुभिर्युक्तानि कर्त । कुरुत । अप्तोर्यामकर्मणश्च पशुप्राप्तिहेतुत्वमाम्नायते । यस्माच्छवः प्रस्रेव भ्रंशेरन् स एतेन यजेत । तै. ब्रा. ३-८-१४-३ [?] । इति । उताप्यपि च नोऽस्मान्स्वस्तिमतः अविनाशिनः कुरुत ॥ एवयावः । इण् गतौ । इणः कर्मवन्नादर्शनात् । पूर्वपदप्रकृतिस्वरत्वम् । इण्शीभ्यां वन् । उ. १-१५० [?] । वन्प्रत्ययः । सम्बुद्धौ वने उपसंख्यानं । पा. ८-३-१ [?] । इति नकारस्य रुत्वं ॥
+
+REF: yāvaḥ| kate | naḥ | svasti ' mataḥ ‖5‖ he pūṣan poṣaka deva he viṣṇo vyāpanaśīla deva he vayāvaḥ | evergatubhiraśveyāti gacchatītyevayāvā mardraṇaḥ | he masdraṇa te sarave yūyaṃ no 'smākaṃ dhiyo 'pnoyāmalaśaṇāni kamāṇi goñakhayāḥ paśvamāṇi pabhumukhānyasmatsakāśaṅkhaḥ paṇubhiyuktāni kate | kuruta | aproyāmakameṇaśca pabhuprādhnihetutmāsarāyate | yasmātyaśavaḥ paiva bhaṃśeran sa̱ etena yajata iti | uta api ca no ' smānsvastimato ' vināśinaḥ kuruta ‖ evayāvaḥ| iṇa gato | iṇaṇaśīṅbhyāṃ  ‖ ṛgveṭḥ ‖  924  [a0 1, a0 6. va0 14.  vanniti vanpratyayaḥ asmintupapade yā prāpaṇa ityasmādāto maninniti vanip |  saṃbudlau vana upasaṃkhyānaṃ | pā0 7. 3.1. 1.| iti vakārasya stvaṃ ‖ ‖ iti prathamasya ṣaṣṭhe sapraṭśṭo vaga
+
+```json
+"no match above threshold"
+```
+
+## line 8750 (page 314) match 46.5
+
+- **धियः** — "the word *dhī* here suggests the sense of 'work' (Ni. [2-1] [?]): *dhiyaḥ* means works, sacrificial works and the like."
+
+REF: atvā pucāṇamapayanutpyathe gabhiṇīstasya bhāyā aṣyavadhīṭityatheḥ | avasyavo raśṣaṇecchavo vayaṃ  vṛṣaṇaṃ kāmānāṃ vadhitāraṃ vajadiṇaṃ vajayuk
+
+```json
+"no match above threshold"
+```
+
+## line 8751 (page 314) match 46.3
+
+- **गोअग्राः** — *gāvo 'gre yāsāṃ tā goagrāḥ dhiyaḥ | golābhaphalā ity arthaḥ | aptoryāmakarmaṇaś ca paśuprāptihetutvam āmnāyate | yasmāc chavaḥ prasreva bhraṃśeran sa etena yajeta* (Tai. Brā. [3-8-14-3] [?]) — "those with cattle at their head — that is, with the acquisition of cattle as their main fruit; works such as the Aptoryāma. This sacrifice called Aptoryāma is to be performed, as the Tai. Brā. text indicates, by one who wishes for cattle. Therefore the sense is: may the sacrifices such as the Aptoryāma that we perform with a view to obtaining cattle, by the grace of Pūṣan and the other deities, be completed fully."
+
+REF: yāḥ paśvamāṇi pabhumukhānyasmatsakāśaṅkhaḥ paṇubhiyuktāni kate | kuruta | aproyāmakameṇaśca pabhuprādhnihetutmāsarāyate | yasmātyaśavaḥ paiva bhaṃśeran sa̱ etena yajata iti | uta api ca no ' smānsvastimato ' vināśinaḥ kuruta ‖ evayāvaḥ| iṇa gato | iṇaṇaśīṅbhyāṃ  ‖ ṛgveṭḥ ‖  924  [a0 1, a0 6. va0 14.  vanniti vanpratyayaḥ asmintupapade yā prāpaṇa ityasmādāto maninniti vanip |  saṃbudlau vana upasaṃkhyānaṃ | pā0 7. 3.1. 1.| iti vakārasya stvaṃ ‖ ‖ iti prathamasya ṣaṣṭhe sapraṭśṭo vagaiḥ ‖  ṛlatigādyathemāhūtaṃ madhupakaṃ madhu vātā iti tṛcena ṛtigādiḥ pratiyahītāvekṣeta | tathā ca sūcyate! madhu vātā iti tucenāveṣya | ā° gu° 1, 24.| iti ‖  tuce prathamāṃ sūkte ṣṭhīmṛcamāh
+
+```json
+"no match above threshold"
+```
+
+## line 8791 (page 315) match 85.3
+
+ऋत्विगाद्यर्थमाहुतं मधुपर्कं मधु वाता इति तृचेन ऋत्विगादिः प्रतिगृहीत्वाऽवेक्षेत । तथा च सूत्र्यते । मधु वाता ऋतायत इति तृचेनावेक्ष्य । आ. गृ. १-२४-१४ [?] । इति ॥
+
+REF: prathamasya ṣaṣṭhe sapraṭśṭo vagaiḥ ‖  ṛlatigādyathemāhūtaṃ madhupakaṃ madhu vātā iti tṛcena ṛtigādiḥ pratiyahītāvekṣeta | tathā ca sūcyate! madhu vātā iti tucenāveṣya | ā° gu° 1, 24.| iti ‖  tuce prathamāṃ sūkte ṣṭh
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "आ. गृ. १-२४-१४ [?] । इति",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "ā° gu° 1, 24.| iti",
+   "confidence": "none",
+   "note": "The reference gives only 1, 24 and has nothing after it, so it does not support any added reading. The [?] after the numerals is not resolved."
+  }
+ ],
+ "other_differences": [
+  "The reference has 'ṛtigādiḥ' where the line has 'ऋत्विगादिः', which is probably OCR noise.",
+  "The reference has 'pratiyahītāvekṣeta', where the line has 'प्रतिगृहीत्वाऽवेक्षेत'.",
+  "The reference has 'madhu vātā iti tucena', where the line has 'मधु वाता ऋतायत इति तृचेन'. It omits 'ṛtāyata'.",
+  "The reference has no '14' after 1-24.",
+  "The reference begins with extra heading text and ends with extra text."
+ ],
+ "aligned": true
+}
+```
+
+## line 8799 (page 315) match 87.2
+
+ऋतायते ऋतं यज्ञमात्मन इच्छते यजमानाय वाता वायवो मधु माधुर्योपेतं कर्म फलं क्षरन्ति । वर्षन्ति । प्रयच्छन्तीत्यर्थः । तथा सिन्धवः स्यन्दनशीला नद्यः समुद्रा वा मधु माधुर्योपेतं स्वकीयं रसं क्षरन्ति । एवं नोऽस्मभ्यमोषधीः फलपाकान्ता ओषधयस्सस्याश्च माध्वीर्माधुर्योपेताः सन्तु । भवन्तु ॥ मधु । अस्मादुत्तरस्य मत्वर्थीयस्य लुगकारेकारेरेफाश्च वक्तव्याः । पा. ४-४-१२१-३ [?] । इति लुक् । ऋतायते । ऋतमात्मन इच्छतीति । सुप आत्मनः क्यच् । न च्छन्दस्यपुत्रस्येत्वदीर्घयोर्निषेधः । अन्येषामपि संहितायां दीर्घत्वं । क्यजन्ताल्लटः शतृ । शतुरनुम इति विभक्तेरुदात्तत्वं । माध्वीः । मधोरञ् च । पा. ४-४-१२१ [?] । इति मत्वर्थीयो ऽञ्प्रत्ययः । ऋत्यकः । वा छन्दसीति पूर्वसवर्णदीर्घत्वं । ओषधीः । ओषः पाके असु धीयेत इत्योषधयः । कर्मण्यधिकरणे चेति किप्रत्ययः । कृदिकारादक्तिन इति ङीप् । जसि पूर्ववत्पूर्वसवर्णदीर्घः । दासीभारादिषु पठितत्वात्पूर्वपदप्रकृतिस्वरत्वं । तच्चेङ्घान्तमाद्युदात्तं ॥
+
+REF: hvīṃḥ| naḥ| saṃtu| oṣadhīḥ ‖6‖ ṛtāyate ṛtaṃ yajñamātmana icchate yajamānāya vātā vāyavo madhu mādhuryopitaṃ kame phalaṃ sarati | vaṣeti | prayaccha tītyatheḥ | tathā siṃdhavaḥ syaṃdanaṇaśīlā nadyaḥ  samudrā vā madhu mādhuyapitaṃ svakīyaṃ rasaṃ saraṃti| evaṃ no 'smabhyamoṣadhīḥ phalapākāṃtā āoṣadhayastāśca mādhvīmodhuyepitāḥ saṃtu | bhavaṃtu ‖ madhu | asmāṭuttarasya matvathīyisya tdugakārekārarephāśca vaktavyā iti tuk | ṛtāyate | ṛta-  mātmana icchati | supa ātmanaḥ kyac | na iṃṭasyapucasyetītvadīdheyoniṣedhaḥ | anyeṣāmapi saṃhitāyāṃ dīdhetvaṃ | kyajaṃtākhaṭaḥ śatu | śaturanuma iti vibhakteradāctvaṃ | mādhvīḥ | madhoraj ca | pā0 4.4. 129.| iti matvarthīyo ' jūpratyayaḥ | ṛtvayavārvyetyādāvaji yaṇādeśe nipātyate | vā iṃṭasīti pūvesavaṇedīdhetavaṃ |  oṣadhīḥ | oṣaḥ pāka āsu dhīyata ityoṣadhayaḥ | kameṇayadhikaraṇe ceti kpratyayaḥ| kudikārādaktini iti ḍīp| jasi pūvevatpūvesavaṇedīdheḥ| dāsībhārādiṣu paṭitatatvātpū vepadaprakṛtisvaratvaṃ | tacca ghajaṃtamādyudāttaṃ ‖ sapramīmṛcamāha ‖  madhu
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "पा. ४-४-१२१-३ [?] । इति लुक्",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "iti tuk",
+   "confidence": "none",
+   "note": "The reference gives no citation number at this point, only the garbled 'iti tuk'."
+  },
+  {
+   "n": 2,
+   "context": "पा. ४-४-१२१ [?] । इति मत्वर्थीयो ऽञ्प्रत्ययः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "pā0 4.4. 129.|",
+   "confidence": "low",
+   "note": "The reference digits '129' are unreliable. They do not clearly support any replacement, and the line's 121 may already be complete."
+  }
+ ],
+ "other_differences": [
+  "The reference has no counterpart for the line's 'ऋत्यकः' and instead reads 'ṛtvayavārvyetyādāvaji yaṇādeśe nipātyate'.",
+  "The reference reads 'ṛtāyate ṛtam ātmana icchati' where the line has 'इच्छतीति'.",
+  "The reference reads 'oṣadhayastāśca' where the line has 'ओषधयस्सस्याश्च'.",
+  "The reference reads 'ghajaṃtam' where the line has 'इङ्घान्तम्'.",
+  "The reference adds 'sapramīmṛcamāha' at the end.",
+  "The reference reads 'iti tuk' where the line has 'इति लुक्'."
+ ],
+ "aligned": true
+}
+```
+
+## line 8847 (page 317) match 49.0
+
+- **मधु** — in the *matup* affix that follows these, by the statement "लुगकारेकाररेफाश्च वक्तव्याः" (Pā. Sū. 4-4-[121]-3 [?]) the *luk*; the second case-ending *am* following, by "स्वमोर्नपुंसकात्" the *luk* of it.
+
+REF: asyānityatvādiḍabhāvaḥ | namasyata | namovarivaściḍaḥ iti kyac | sahaḥ | tduga kārekārarephāśca vaktavyāḥ | pā0 4.4. 124.2.| iti matvthīyisya tṭuk ‖ ‖ iti prathamasya ṣaṣṭhe paṃcamo vargaḥ ‖ ṣaṣṭhīmṛcamāha ‖  nṣṭudarathītaro harī yiṭ yacchase | n
+
+```json
+"no match above threshold"
+```
+
+## line 8884 (page 318) match 90.3
+
+नक्तं रात्रिर्नोऽस्माकं मधु मधुमती माधुर्योपेतफलप्रदा भवतु । उताप्यपि चोषस उषःकालोपलक्षितान्यहानि च मधुमन्ति भवन्ति । पार्थिवं रजः पृथिव्याः सम्बन्धिनी लोको ऽस्माकं मधुमत् माधुर्यविशिष्टफलयुक्तो भवतु । पिता वृष्टिप्रदानेन सर्वेषां पालयिता द्यौर्द्युलोको ऽपि मधु मधुयुक्तो भवतु ॥ पार्थिवं । पृथिव्या ञाञौ । पा. ४-१-[२] [?] इति प्राग्दीव्यतीयो ऽण्प्रत्ययः । रजः । रजःशब्दो लोकवाची । लोका रजांस्युच्यन्ते । नि. ४-१९ [?] इति यास्कः । रजन्त्यस्मिन्जना इति रजः । असुनि रजकरजनरजःसु पसंख्यानं । का. ६-४-[२४]-१ [?] । इति रंजेर्नलोपः ॥
+
+REF: dhuṃ | dyauḥ | astu | naḥ | pitā ‖7‖  naktaṃ rācirno 'smākaṃ madhumatī mādhuyepitaphal pradā bhavatu | uta api coṣasa uṣaḥkālopalaṣasitānyahāni ca madhumaṃti bhavaṃtu | pāthivaṃ rajaḥ pṛthivyāḥ saṃbaṃdhī  ma01. kha0 14. sū090,|  ‖ prathamo ' ṭakaḥ ‖  925  loko 'smākaṃ madhumat mādhuyaviṇiṣṭaphala yukto bhavatu | pitā vṛṣṭipradānena  sarveṣāṃ pālayitā codyuloko 'pi madhu madhuyukto bhavatu ‖ pārthivaṃ | pṛthivyā jājāviti pāgdīvyattīyo ' japratyayaḥ | rajaḥ | rajaḥṇabṭo lokavācī | lokā  rajāsyucyaṃte | ni° 4.19. | iti yāskaḥ | rajaṃtyasmijnanā iti rajaḥ | asuni rajñakarajanarajaḥsūpasaṃkhyānamiti raṃjenalopaḥ ‖ aṣṭamīmṛ camāha ‖  madhumā
+
+```json
+{
+ "items": [
+  {
+   "n": 1,
+   "context": "पा. ४-१-[२] [?] इति प्राग्दीव्यतीयो ऽण्प्रत्ययः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "pṛthivyā jājāviti pāgdīvyattīyo ' japratyayaḥ",
+   "confidence": "none",
+   "note": "The reference has no sutra number here, so the doubtful numeral cannot be checked."
+  },
+  {
+   "n": 2,
+   "context": "नि. ४-१९ [?] इति यास्कः",
+   "status": "confirmed",
+   "proposal": null,
+   "reference_reading": "ni° 4.19. | iti yāskaḥ",
+   "confidence": "medium",
+   "note": "The reference reads 4.19 followed directly by iti yāskaḥ, so the [?] looks unnecessary."
+  },
+  {
+   "n": 3,
+   "context": "का. ६-४-[२४]-१ [?] । इति रंजेर्नलोपः",
+   "status": "unsupported",
+   "proposal": null,
+   "reference_reading": "asuni rajñakarajanarajaḥsūpasaṃkhyānamiti raṃjenalopaḥ",
+   "confidence": "none",
+   "note": "The reference gives no Kāśikā reference number, so the [?] cannot be checked."
+  }
+ ],
+ "other_differences": [
+  "The reference has 'saṃbaṃdhī' where the line has सम्बन्धिनी.",
+  "The reference has 'codyuloko' where the line has द्यौर्द्युलोको; this is probably OCR noise.",
+  "The reference has 'jājāv' where the line has ञाञौ; this is OCR noise.",
+  "The reference has 'rajañakarajana…' and 'asuni' where the line has 'रजकरजन…' and 'असुनि', which is noisy but close."
+ ],
+ "aligned": true
+}
+```
+
+## line 8913 (page 319) match 54.3
+
+- **पार्थिवं रजः** — "*rajas* means a world: '*lokā rajāṃsy ucyante*' (Ni. [4-19] [?]); *pārthivaṃ rajaḥ* means the world of earth, or the earth."
+
+REF: jājāviti pāgdīvyattīyo ' japratyayaḥ | rajaḥ | rajaḥṇabṭo lokavācī | lokā  rajāsyucyaṃte | ni° 4.19. | iti yāskaḥ | rajaṃtyasmijnanā iti rajaḥ | asuni rajñakarajanarajaḥsūpas
+
+```json
+"no match above threshold"
+```
+
+## line 8928 (page 320) match 46.4
+
+- **पार्थिवम्** — *pṛthivyā idam pārthivam*; by "पृथिव्या ञाञौ" (Pā. Sū. 4-1-[?]) the affix *añ* in the sense of 'relating to' of the *prāgdīvyatīya* class; by "यस्येति च" the loss of the *ī*; by "तद्धितेष्वचामादेः" the *vṛddhi* of the initial; by "ञ्नित्यादिर्नित्यम्" the first syllable acute.
+
+REF: ā| yāhi| adhvaraṃ| naḥ| accha |tvā ' yā|haviḥ| cakṛma| satya ' rādhaḥ ‖4‖ he marutvaḥ | maruddhiyuktedra parama utkṛṣṭe sadhasthe sahasthāne gṛhe yadvā yadi vā mādayāse tṛpto vatese | yadvā yadi vāvame ' vācīne vṛjane | vṛjyate riktīkriyate 'smindhanamiti vṛjanaṃ gṛhaṃ | tasminmādayāse | ato 'smādubhayavidhātsthā
+
+```json
+"no match above threshold"
+```
+

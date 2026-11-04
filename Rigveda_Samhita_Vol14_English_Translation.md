@@ -20542,4 +20542,147 @@ The Agnipraṇayana rite is concluded.
 
 ---
 
-**Progress note:** Done through printed p. 550 (PDF 572). The headers print 548, 549 and 550 for PDF 570–572 (the task labelled them 549–551); the offset printed = PDF − 22 holds, so the actual printed numbers are used. Sūkta 9: the Viśeṣaviṣayagaḷu excerpt from the Aitareya Brāhmaṇa is finished (Ṛks 7 and 8 of the Agnipraṇayana, printed refs 2-9-1 and 2-9-2, with the closing note "Agnipraṇayanakāryavu samāptavu"). Then Ṛk 2 of Sūkta 9 begins (Saṃhitā, Pada, bhāṣya, Pratipadārtha done). **Ṛk 2 is open in the Bhāvārtha**, mid-sentence at "…ಪ್ರಮಾನರಹಿತವಾದ ದೃಷ್ಟಿಯುಳ್ಳವ…" ("… whose gaze is free from …"); the next batch starts at the top of printed p. 551 (PDF 573) and continues that sentence. Flags: FILE DISAGREE none (the numeral file has no rows for these pages). Unzoomed numerals: Ṛ. Saṃ. 2-9-1, 2-9-2; ऐ. ब्रा. reference on p. 549 (5-2 [?]); ऐ. ब्रा. 1. 28 on p. 550; headers Sū. 9 and A. 2 A. 6 V. 1. [?] places: होतृषदसं; अदब्धव्रतप्र[?]तिः (the Ṛk has प्रमतिः); यदेनमोकं; तद्बर्सो; बलायोविस्रंसाय; the sign over दीदिवाँ; the word ಪ್ರಮಾನರಹಿತ.
+### Printed p. 551 (PDF 573)
+
+*(Header: "A. 2 A. 6 V. 1", "Ṛgvedasaṃhitā", printed number **551**. The numeral file agrees with the numerals read from the strips.)*
+
+(Kannada, translated, continuing the Bhāvārtha sentence left open on printed p. 550:) "… [one whose gaze is free from negligence [?], that is, ever heedful], and shining; and be the protector of our sons and grandsons, and likewise of our own bodies."
+
+*English Translation (as printed)*
+
+Showerer (of benefits), Agni, be our messenger (to the gods); our preserver from evil; the conveyer to us of wealth; the protector of our sons and grandsons, and of our persons; understand (our prayer), ever heedful and resplendent.
+
+*Viśeṣaviṣayagaḷu (Special Topics)*
+
+**दूतः (*dūtaḥ*)** (Kannada, translated:) According to the śruti sentence अग्निर्देवानां दूत आसीत् (*agnirdevānāṃ dūta āsīt*) ("Agni was the messenger of the deities"), Agni invites the deities to the sacrificial acts performed by the human yajamānas. He brings to them the oblation offered in the fire. He offers to the deities the hymns and prayers made by the priests, and the like. Because he performs these tasks, he is said to be the messenger between gods and men.
+
+**परस्पाः (*paraspāḥ*)** (Kannada, translated:) The printed gloss is:
+
+> अस्माकं आपद्भ्यः पारयिता पाता च ।
+
+> *asmākaṃ āpadbhyaḥ pārayitā pātā ca |*
+
+(Kannada, translated:) He who carries us across and protects us from calamities of many kinds and from the fear of enemies.
+
+**वृषभ (*vṛṣabha*)** (Kannada, translated:) The printed gloss is:
+
+> अभिमतफलवर्षकः ।
+
+> *abhimataphalavarṣakaḥ |*
+
+(Kannada, translated:) One who pours out, like rain, the desired objects that we need; that is, the sense is "the giver".
+
+**तोकस्य, तने (*tokasya, tane*)** (Kannada, translated:) The word तोक (*toka*) is read among the fifteen names for offspring (Nirukta 3-2). Therefore the word तोक (*toka*) means "son". The word तनय (*tanaya*) is also read there and also has the meaning "son". Yet for the word तनय (*tanaya*) or तन (*tana*), and especially when these two words are read in one and the same Ṛk, it is customary to give the meaning पौत्र (*pautra*), grandson. On this matter Yāska [quotes]:
+
+> या ते दिद्युदवसृष्टा दिवस्परि क्ष्मया चरति परि सा वृणक्तु नः ।
+> सहस्रं ते स्वपिवात भेषजा मा नस्तोकेषु तनयेषु रीरिषः ॥
+
+> *yā te didyudavasṛṣṭā divaspari kṣmayā carati pari sā vṛṇaktu naḥ |*
+> *sahasraṃ te svapivāta bheṣajā mā nastokeṣu tanayeṣu rīriṣaḥ ‖*
+
+(Printed reference: Ṛ. Saṃ. 7-46-3.)
+
+(Kannada, translated:) Having quoted this Ṛk, he gives the explanation पुत्रेषु च पौत्रेषु च (*putreṣu ca pautreṣu ca*) for the words तोकेषु (*tokeṣu*) and तनयेषु (*tanayeṣu*) in it (Nirukta 10.7, as in the numeral file; the separator is not checked). Sāyaṇa explains the word तने (*tane*) thus:
+
+> तनोति विस्तारयति कुलमिति तनः पौत्रः ।
+
+> *tanoti vistārayati kulamiti tanaḥ pautraḥ |*
+
+(Kannada, translated:) That is, the word comes from the root तनु (*tanu*) in the sense of "extending". Because he extends the family (by increasing it), तन (*tana*) means pautra, a grandson. Therefore, following Yāska's view, the word तोक (*toka*) may be taken to mean "son", and the word तन (*tana*) or तनय (*tanaya*) to mean पौत्र (*pautra*), that is, "grandson".
+
+---
+
+### Printed p. 552 (PDF 574)
+
+*(Header: **552**, "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 9". The numeral file agrees.)*
+
+**नः तनूनां गोपाः (*naḥ tanūnāṃ gopāḥ*)** (Kannada, translated:) The printed gloss is:
+
+> अस्मदीयानां तनूनां गोपा गोपायिता ।
+
+> *asmadīyānāṃ tanūnāṃ gopā gopāyitā |*
+
+(Kannada, translated:) "Our bodies", that is, "the one who protects us". Having explained thus, the commentator quotes the Brāhmaṇa sentence:
+
+> अग्निर्वै देवानां गोपा अग्निमेव तत्सर्वतो गोप्तारं परिदत्त आत्मने च यजमानाय च ।
+
+> *agnirvai devānāṃ gopā agnimeva tatsarvato goptāraṃ paridatta ātmane ca yajamānāya ca |*
+
+(Printed reference: Ai. Brā. 1-28.)
+
+(Kannada, translated:) We have already explained the sense of this Brāhmaṇa sentence in the Agnipraṇayana rite. (printed: "p. 449")
+
+---
+
+**Ṛk 3**
+
+*Saṃhitā-pāṭha*
+
+> विधेम ते परमे जन्मन्नग्ने विधेम स्तोमैरवरे सधस्थे ।
+> यस्माद्योनेरुदारिथा यजे तं प्र त्वे हवींषि जुहुरे समिद्धे ॥ ३ ॥
+
+*Pada-pāṭha*
+
+*(The small stroke between parts of compounds is written ऽ. In the last word the strip appears to print ಸಂ; written as read, see the doubts list.)*
+
+> विधेम । ते । परमे । जन्मन् । अग्ने । विधेम । स्तोमैः । अवरे । सधऽस्थे ।
+> यस्मात् । योनेः । उत्ऽआरिथ । यजे । तं । प्र । त्वे इति । हवींषि । जुहुरे ।
+> संऽइद्धे ॥ ३ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: O Agni, we serve you with hymns in your highest birth-place, heaven, and in your lower seat, the atmosphere; I worship the earthly place from which you arose; there, when you are kindled, the priests offer oblations.)*
+
+> हे अग्ने परमे उत्कृष्टे जन्मन् । जायते प्रादुर्भवत्यस्मिन्निति जन्मस्थानं द्यौः । तस्मिन् द्युलोकेऽवस्थिताय ते तुभ्यं विधेम । स्तुतिभिः परिचरेम । अवरे द्युलोकादधस्तने सदस्थेऽन्तरिक्षे स्थिताय तुभ्यं स्तोमैः स्तोत्रैर्विधेम । परिचरेम । यस्माद्योनेः पृथिवीरूपात्स्थानात् त्वमुदारिथ उद्गतोऽसि प्रादुर्भूतोऽसि तं पृथिवीप्रदेशं यजे । पूजयामि । तत्र हि समिद्धे समिद्भिः समिध्यमाने त्वे त्वयि हवींषि पुरोडाशादीनि प्रजुहुरे । अध्वर्य्वादयः प्रजुह्वति । जुहोतेर्लिटि रूपं ॥
+
+*Pratipadārtha*
+
+अग्ने (*agne*) — O Agni. परमे (*parame*) — in the most excellent heaven. जन्मन् (*janman*) — (in the place) of origin. ते (*te*) — you (to you). विधेम (*vidhema*) — we serve with hymns. अवरे (*avare*) — situated lower than that.
+
+### Printed p. 553 (PDF 575)
+
+*(Header: "A. 2 A. 6 V. 1", "Ṛgvedasaṃhitā", printed number **553**. The numeral file agrees with the numerals read from the strips.)*
+
+सधस्थे (*sadhasthe*) — you who are in the atmosphere. स्तोमैः (*stomaiḥ*) — with hymns. विधेम (*vidhema*) — we serve. यस्माद्योनेः (*yasmādyoneḥ*) — the earth itself, which is your place of origin. उदारिथ (*udāritha*) — from there you have come forth. तं (*taṃ*) — you who are in the place of the earth. यजे (*yaje*) — I worship. समिद्धे (*samiddhe*) — when you are kindled. त्वे (*tve*) — in you. हवींषि (*havīṃṣi*) — oblations. प्र जुहुरे (*pra juhure*) — they offer.
+
+*Bhāvārtha*
+
+(Kannada, translated:) O Agni, you who were born in the most excellent heaven, who are in the atmosphere, and whose place of origin is the womb in the form of the earth: I worship you with hymns. And when you are kindled, the priests, the adhvaryu and the others, offer oblations to you.
+
+*English Translation (as printed)*
+
+We adore you, Agni, in your loftiest birth-(place), and with hymns in your inferior station; I worship that seat whence you have issued; the priests have cffered [sic] you, when kindled, oblations.
+
+*Viśeṣaviṣayagaḷu (Special Topics)*
+
+(Kannada, translated:) In this Ṛk Agni is described as having been born in heaven, the atmosphere and the earth. The same matter is described, with slight differences, in Ṛ. Saṃ. 1-95-3 also:
+
+> त्रीणि जाना परि भूषंत्यस्य समुद्र एकं दिव्येकमप्सु ।
+> पूर्वामनु प्र दिशं पार्थिवानामृतून्प्रशासद्वि दधावनुष्ठु ॥
+
+> *trīṇi jānā pari bhūṣaṃtyasya samudra ekaṃ divyekamapsu |*
+> *pūrvāmanu pra diśaṃ pārthivānāmṛtūnpraśāsadvi dadhāvanuṣṭhu ‖*
+
+(Printed reference: Ṛ. Saṃ. 1-95-3.)
+
+(Kannada, translated:) Here the words त्रीणि जाना (*trīṇi jānā*) (*trīṇi jānā*) are glossed त्रिसंख्याकानि (*trisaṃkhyākāni*) (*trisaṃkhyākāni*): "three kinds of births"; the birth-places of Agni are stated one by one. This description shows the original nature of Agni's manifestation. That Agni's threefold existence, and the threefold manifestation corresponding to it, reflect the fundamental principle of the world, is known from the account of the Bṛhaddevatā:
+
+> भवद्भूतस्य भव्यस्य जंगमस्थावरस्य च ।
+> अस्यैके सूर्यमेवैकं प्रभवं प्रलयं विदुः ॥
+> एतद्भूतेषु लोकेषु अग्निभूतं स्थितं त्रिधा ।
+> ऋषयो गीर्भिरर्चंति व्यंजितं नामभिस्त्रिभिः ॥
+
+> *bhavadbhūtasya bhavyasya jaṃgamasthāvarasya ca |*
+> *asyaike sūryamevaikaṃ prabhavaṃ pralayaṃ viduḥ ‖*
+> *etadbhūteṣu lokeṣu agnibhūtaṃ sthitaṃ tridhā |*
+> *ṛṣayo gīrbhirarcaṃti vyaṃjitaṃ nāmabhistribhiḥ ‖*
+
+(Printed reference: Bṛ. De. 1-61; 1-64.)
+
+(Kannada, translated:) In these verses, in describing the greatness of Agni, the author of the Bṛhaddevatā says that Prajāpati [printed ಜಾಪತಿ, presumably ಪ್ರಜಾಪತಿ [?]], the source of all beings, for all moving and unmoving beings existing in the past, future and present, … *(the sentence runs on to the next page of the print)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 553 (PDF 575); the offset printed = PDF − 22 holds, and the printed numbers 551, 552 and 553 agree with the task's labels. Sūkta 9: Ṛk 2 is finished (Bhāvārtha, printed English, Special Topics on dūtaḥ, paraspāḥ, vṛṣabha, tokasya/tane with the Nirukta and Yāska passages, and ⟦नः तनूनां गोपाः⟧ with the Aitareya Brāhmaṇa quotation, ending "(p. 449)"). Ṛk 3 follows with Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English (printed "cffered" marked [sic]). **Ṛk 3 is open in the Viśeṣaviṣayagaḷu**: the Bṛhaddevatā passage (Bṛ. De. 1-61; 1-64) has been quoted, and the Kannada sentence stops at "…Prajāpati, the source of all beings, for all moving and unmoving beings of past, future and present … [creation]"; the next batch starts at the top of printed p. 554 (PDF 576) and continues that sentence. Flags: FILE DISAGREE none (the file's numerals 3-2, 7-46-3, 10.7, 1-28, 1-95-3 and 1-61/1-64 agree with my reading, but none was zoomed). Unzoomed numerals: Nirukta 3-2 and 10.7 (separator unclear), Ṛ. Saṃ. 7-46-3, Ai. Brā. 1-28, "p. 449", Ṛ. Saṃ. 1-95-3, Bṛ. De. 1-61/1-64, and the headers. [?] places: Pada ⟦संऽइद्धे⟧ (strip seems to print ಸಂ); bhāṣya ⟦सदस्थे⟧ (ದ or ಧ); ⟦ऋतून्प्रशासद्वि⟧ in the RV 1.95.3 quotation; initial of ಪ್ರಜಾಪತಿ in the last line; the word "negligence" carried over from p. 550.
