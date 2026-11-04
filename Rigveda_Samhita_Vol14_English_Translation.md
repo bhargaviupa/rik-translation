@@ -22747,4 +22747,178 @@ The mighty Indra has shattered the guileful Vritra, reposing in the cloud: heave
 
 ---
 
-**Progress note:** Done through printed p. 601 (PDF 623). Sūkta 11: Ṛk 8 is complete on pp. 599–600 (Pratipadārtha end, Bhāvārtha, printed English, Special Topics on nī parvataḥ, saṃ mātṛbhiḥ with Nirukta 2-24, 11-27 and RV 8-100-10, and dūre pāre). Ṛk 9 is complete through its Special Topics on sindhuṃ, vṛtraṃ (Nirukta 2-21) and māyāvinam on p. 601: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. The print ends at the foot of p. 601 with the māyāvinam passage ending "varṇitavāgide"; any further Special Topics of Ṛk 9 (and Ṛk 10) would follow on p. 602, so Ṛk 9 is left open for that reason. Flags: no FILE DISAGREE (2-24, 11-27, 8-100-10, 2-21 all agree with the file). Unzoomed: running headers on pp. 599–601, the Ṛk number ९ (from the Pada line; none seen after the Saṃhitā). [?] places: निर्वचेयन्ती and यो in the Yāska-based passage on p. 599; कनिक्रदत्यब्दो in the grammatical tail of Ṛk 9; the Nirukta abbreviation before 11-27 (ಸಿ/ನಿ).
+### Printed p. 602 (PDF 624)
+
+*(Header: "602", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed. The Special Topics of Ṛk 9, on māyāvinam, continue from p. 601. The page opens with three Ṛgveda citations. The source reference is printed after each verse; here it is given in a line before the verse.)*
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 1-11-7; agrees with the numeral file):
+
+> माया॒भिरिन्द्र॒ मायि॑नं॒ त्वं शुष्ण॒मवा॑तिरः ।
+
+> *māyā̱bhirindra̱ māyi̭na̱ṃ tvaṃ śuṣṇa̱mavā̭tiraḥ |*
+
+*(Gloss, mine and tentative: "By tricks, O Indra, you overcame the trickster Śuṣṇa.")*
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 3-34-6; agrees with the numeral file):
+
+> वृजनेन वृजिनान्त्सं [?] पिपेष मायाभिर्दस्योरभिभूत्योजाः [?] ।
+
+> *vṛjanena vṛjināntsaṃ [?] pipeṣa māyābhirdasyorabhibhūtyojāḥ [?] |*
+
+*(Gloss, mine and tentative: "With strength he crushed the crooked ones, with tricks the enemies, the one of overpowering might." Two places are doubtful and unzoomed: the word वृजिनान्त्सं is printed as ವೃಜಿನಾನ್ತ್ಸಂ, with a conjunct that looks like ತ್ರ; and the vowel sign in दस्योर॰ (ದಸ್ಯೋರ), which could be दस्यूर॰.)*
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 10-147-2; agrees with the numeral file):
+
+> त्वं मायाभिरनवद्य मायिनं श्रवस्यता मनसा वृत्रमर्दयः ।
+
+> *tvaṃ māyābhiranavadya māyinaṃ śravasyatā manasā vṛtramardayaḥ |*
+
+*(Gloss, mine and tentative: "You, blameless one, with your tricks, with a mind seeking glory, tormented the trickster Vṛtra.")*
+
+In such places (इत्यादि (*ityādi*) passages) there are descriptions that Indra destroyed the asuras who were māyāvins (deceivers) by deceit (*māyā*) itself.
+
+In the first half of this Ṛk it is said that Indra killed Vṛtra, who lay obstructing the pouring of rain, having resorted to the cloud. In the second half it is said that when Indra hurled the vajra weapon to kill Vṛtra, heaven and earth (the earth and the sky) trembled with fear at the sound (the thunderclap) of it. In one place:
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 1-31-3; agrees with the numeral file):
+
+> अरेजेतां रोदसी होतृवूर्येऽसघ्नोर्भारमयजो महो वसो ।
+
+> *arejetāṃ rodasī hotṛvūrye 'saghnorbhāramayajo maho vaso |*
+
+*(Gloss, mine and tentative: "Heaven and earth trembled at the Hotṛ's ... you ... the burden ... great wealth." The middle words होतृवूर्ये॰ and ॰सघ्नोर्भार॰ are read as printed, unzoomed, and I do not translate them.)*
+
+In this Ṛk it is stated that heaven and earth trembled with fear on seeing the greatness of Agni.
+
+---
+
+**Ṛk 10**
+
+**Saṃhitā-pāṭha**
+
+> अरोरवीद्वृष्णो अस्य वज्रोऽमानुषं यन्मानुषो निजूर्वात् ।
+> नि मायिनो दानवस्य माया अपादयत्पपिवान्त्सुतस्य ॥१०॥
+
+**Pada-pāṭha**
+
+> अरोरवीत् । वृष्णः । अस्य । वज्रः । अमानुषं । यत् । मानुषः । निऽजूर्वात् ।
+> नि । मायिनः । दानवस्य । मायाः । अपादयत् । पपिऽवान् । सुतस्य ॥ १० ॥
+
+> *aroravīt | vṛṣṇaḥ | asya | vajraḥ | amānuṣaṃ | yat | mānuṣaḥ | ni 'jūrvāt |*
+> *ni | māyinaḥ | dānavasya | māyāḥ | apādayat | papi 'vān | sutasya ‖ 10 ‖*
+
+*(The small stroke after नि in निजूर्वात् and after पपि in the Pada is read as the compound mark (ऽ). The Ṛk number ॥१०॥ is printed at the end of the Saṃhitā, as in the Pada.)*
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: The vajra of the showerer Indra roared when Indra, kind to men, would kill the inhuman asura; having drunk the Soma, he laid low the deceiver's tricks.*
+
+> वृष्णः कामानां वर्षकस्यास्येन्द्रस्य वज्रोऽरोरवीत् । भृशं शब्दमकरोत् । कदेत्यपेक्षायामाह । यद्यदा अमानुषं मनुष्याणां रहितं । यद्वा मानुषोऽ-
+
+> *vṛṣṇaḥ kāmānāṃ varṣakasyāsyendrasya vajro 'roravīt | bhṛśaṃ śabdamakarot | kadetyapekṣāyāmāha | yadyadā amānuṣaṃ manuṣyāṇāṃ rahitaṃ | yadvā mānuṣo '-*
+
+*(The bhāṣya runs over the page break; its sentence ends with "मानुषोऽ-", the first part of the compound meaning "I am not a man". The rest is on p. 603.)*
+
+---
+
+### Printed p. 603 (PDF 625)
+
+*(Header: "A. 2 A. 6 V. 4" (as it looks; unzoomed), "Ṛgvedasaṃhitā", "603". The bhāṣya of Ṛk 10 continues from p. 602.)*
+
+*Grammatical tail: it says that जूर्वति (from the root meaning to injure) is the Leṭ form, and explains न्यपादयत् as न्यपातयत्. No sūtra numbers are printed. It is Sanskrit and is not explained further here. The reading न्यपादयत् is taken from the Saṃhitā; the bhāṣya form is printed in a way that could also be read ನ್ಯಸಾದಯತ್ [?].*
+
+> हं न भवामीत्येवं मन्यमानं तमसुरं मानुषो मनुष्याणां हितकारी यद्वा मतिमानिन्द्रो निजूर्वात् । नितरां हिंस्यात् । जिघांसतीत्यर्थः ॥ जूर्वतेर्हिंसाकर्मणो लेटि रूपम् ॥ सुतस्याभिषुतं सोमं पपिवान् पीतवान् मायिनो मायाविनो दानवस्य । दानुर्नाम वृत्रमाता दानुः शये इत्यादिषु दृष्टत्वात् । तस्याः पुत्रस्य वृत्रस्य माया वचनानि न्यपादयत् [?] । न्यपातयत् । बबाधेति यावत् ॥
+
+**Pratipadārtha**
+
+- यत् (*yat*)—when;
+- अमानुषं (*amānuṣaṃ*)—the cruel asura;
+- मानुषः (*mānuṣaḥ*)—Indra, who is kind to men;
+- निजूर्वात् (*nijūrvāt*)—killed, as he did (then);
+- वृष्णः (*vṛṣṇaḥ*)—of the one who showers the desired objects;
+- अस्य (*asya*)—of Indra;
+- वज्रः (*vajraḥ*)—the vajra weapon;
+- अरोरवीत् (*aroravīt*)—made sound loudly;
+- सुतस्य (*sutasya*)—of the pressed Soma;
+- पपिवान् (*papivān*)—Indra, who drank;
+- मायिनः (*māyinaḥ*)—of the deceiver;
+- दानवस्य (*dānavasya*)—of the asura's son (Vṛtra);
+- मायाः (*māyāḥ*)—the deceitful deeds;
+- न्यपादयत् (*nyapādayat*)—he destroyed.
+
+**Bhāvārtha**
+
+When Indra, who is kind to men, killed the cruel asura, the vajra weapon of Indra, who showers the desired objects, made a loud sound. Indra, who drank the pressed Soma juice, destroyed the deceitful deeds of the deceiver Vṛtra.
+
+*(In the printed Bhāvārtha the word after "ವೃತ್ರನ ಮೋಸ" has a smudged stroke; it is read as ಮೋಸದ, "of deceit", unzoomed.)*
+
+**English Translation (as printed)**
+
+The thunderbolt of the showerer roared aloud, when (Indra), the friend of man, sought to slay the enemy of mankind. Drinking the Soma juice, he, (Indra), baffled the devices of the guileful Danava.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**दानवस्य (*dānavasya*)**—Dānu means the daughter of Danu. The progeny belonging to the rākṣasa class, born to the sage Kaśyapa in his wife named Danu, are called Dānavas. The mother of Vṛtra belonged to that Dānava class. It is said in the Ṛk
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 1-32-9; agrees with the numeral file):
+
+> उत्तरा सूरधरः पुत्र आसीद्दानुः शये सहवत्सा न धेनुः ।
+
+> *uttarā sūradharaḥ putra āsīddānuḥ śaye sahavatsā na dhenuḥ |*
+
+*(Gloss, mine and tentative: "The mother was above, the son below; Dānu lay there like a cow with her calf.")*
+
+that Vṛtra, the son of Dānu (Danu), is here called by the name Dānava.
+
+The name of Vṛtra's mother is Dānu, and she is compared to a cow (ऋ. सं. (*ṛ. saṃ.*) 1-32-9; agrees with the numeral file). The same word (दानु (*dānu*)) in the neuter gender indicates a flow, and in the feminine gender heavenly water,
+
+*(The sentence runs over to p. 604.)*
+
+---
+
+### Printed p. 604 (PDF 626)
+
+*(Header: "604", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed.)*
+
+(the sentence continues from p. 603:) indicates. These two words may be the same. The same word is used in the masculine gender for the asura Vṛtra. Probably the name is due to his being the son of Dānu (ऋ. सं. (*ṛ. saṃ.*) 2-12-11; 4-30-7; both agree with the numeral file). In the same way, the same name is given to Vṛtra, who is like Aurṇavābha (a spider, "weaver of a web") (2-11-18, agrees with the numeral file), and to the seven rākṣasas killed by Indra (10-120-6, agrees with the numeral file). The word दानव (दानव (*dānava*)), formed from the word दानु (*dānu*) (giving the meaning "son of Dānu"), indicates a rākṣasa who fought with Indra (mostly the asura Vṛtra). That Indra removed all the deceitful māyās of the Dānava is told in the Ṛk in hand. And "he struck down and felled the Dānava, who was snorting" (5-29-4); after that "he made the waters flow" (5-32-1; both agree with the numeral file) is told. In the sūkta ऋ. सं. (*ṛ. saṃ.*) 1-32 (the sūkta beginning इन्द्रस्य नु वीर्याणि (*indrasya nu vīryāṇi*), as the source names it) the matters connected with the slaying of Vṛtra are told; the same matters are described in this sūkta with slight differences.
+
+**अरोरवीत् वृष्णो अस्य वज्रो अमानुषं (*aroravīt vṛṣṇo asya vajro amānuṣaṃ*)**—For the word अमानुषं (*amānuṣaṃ*) here, the bhāṣyakāra says:
+
+> यद्यदा अमानुषं मनुष्याणां रहितं । यद्वा मानुषोऽहं न भवामीत्येवं मन्यमानं तमसुरं ।
+
+> *yadyadā amānuṣaṃ manuṣyāṇāṃ rahitaṃ | yadvā mānuṣo 'haṃ na bhavāmītyevaṃ manyamānaṃ tamasuraṃ |*
+
+That is, he has given two kinds of meaning: either "devoid of men", or "that asura (Vṛtra) who, thinking 'I am not a mere insignificant man', is swaggering with arrogance". The main idea of this sentence is that, at the time of killing Vṛtra, Indra made with his vajra weapon a most terrible sound (the thunderclap). When rain is falling, the lightning that flashes suddenly and very brightly in the sky is the vajra weapon of Indra; and since the thunderclaps and rumbling with great sound are heard within a very short time after that lightning is seen, the point is stated here that the sound arose from the hurling of Indra's vajra.
+
+**नि मायिनः दानवस्य मायाः अपादयत् पपिवान् सुतस्य (*ni māyinaḥ dānavasya māyāḥ apādayat papivān sutasya*)**—In this sentence of the second half of the Ṛk it is stated that Indra, having drunk Soma, destroyed the deceits of his enemies. It is said here and there that in deeds such as the slaying of Vṛtra too, Indra drank Soma and increased his strength and powers:
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 2-15-1; agrees with the numeral file):
+
+> त्रिकद्रुकेष्वपिबत्सुतस्यास्य मदे अहिमिन्द्रो जघान ।
+
+> *trikadrukeṣvapibatsutasyāsya made ahimindro jaghāna |*
+
+*(Gloss, mine and tentative: "At the Trikadruka rites Indra drank the pressed Soma; in its exhilaration Indra slew the serpent.")*
+
+Source printed after the verse: (ऋ. सं. (*ṛ. saṃ.*) 2-19-2; agrees with the numeral file):
+
+> अस्य मन्दानो मध्वो वज्रहस्तोऽहिमिन्द्रो अर्णोवृतं वि वृश्चत् ।
+
+> *asya mandāno madhvo vajrahasto 'himindro arṇovṛtaṃ vi vṛścat |*
+
+*(Gloss, mine and tentative: "Gladdened by this sweet drink, with the vajra in his hand, Indra cut the serpent apart, the one who had covered the waters.")*
+
+Source printed after the verses: (ऋ. सं. (*ṛ. saṃ.*) 6-47-1, 2; agrees with the numeral file):
+
+> उतो न्वस्य पपिवांसमिन्द्रं न कश्चन सहत आहवेषु ।
+> अयं स्वादुरिह मदिष्ठ आस यस्येन्द्रो वृत्रहत्ये ममाद ॥
+
+> *uto nvasya papivāṃsamindraṃ na kaścana sahata āhaveṣu |*
+> *ayaṃ svāduriha madiṣṭha āsa yasyendro vṛtrahatye mamāda ‖*
+
+*(The small numeral-like stroke printed after न्व in the first line is a mark of the printed accent and is not reproduced. Gloss, mine and tentative: "And no one can withstand Indra in battles when he has drunk of it; this was the sweetest and most exhilarating one, by which Indra rejoiced in the slaying of Vṛtra.")*
+
+In such Ṛks the idea is described that the Soma drunk by Indra gave abundant help in the work of slaying Vṛtra.
+
+---
+
+**Progress note:** Done through printed p. 604 (PDF 626). Sūkta 11: Ṛk 9 is complete (its Special Topics ended on p. 602 with the māyāvinam citations, RV 1-11-7, 3-34-6, 10-147-2 and 1-31-3). Ṛk 10 is complete through its Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English on p. 603. Its Special Topics on dānavasya, arorvīt…amānuṣaṃ and ni māyinaḥ…papivān (with RV 2-15-1, 2-19-2 and 6-47-1,2) end on p. 604 with the line "…varṇitavāgide". Ṛk 10 is left open for further Special Topics that may follow on p. 605. Flags: no FILE DISAGREE (1-11-7, 3-34-6, 10-147-2, 1-31-3, 1-32-9, 2-12-11, 4-30-7, 2-11-18, 10-120-6, 5-29-4, 5-32-1, 1-32, 2-15-1, 2-19-2 and 6-47-1,2 all agree with the file). Unzoomed: running headers on pp. 602–604; the Ṛk number ॥१०॥. [?] places: वृजिनान्त्सं and the vowel in दस्योर॰ (p. 602, RV 3-34-6); होतृवूर्ये॰/॰सघ्नोर्भार॰ (p. 602, RV 1-31-3); न्यपादयत् vs ನ್ಯಸಾದಯತ್ in the bhāṣya tail (p. 603); a smudged sign after ವೃತ್ರನ ಮೋಸ in the Bhāvārtha.
