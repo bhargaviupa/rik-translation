@@ -22477,4 +22477,145 @@ In many Ṛks like these, this same meaning is made plain.
 
 ---
 
-**Progress note:** Done through printed p. 595 (PDF 617). Sūkta 11: the Bhāvārtha of Ṛk 4 is completed on p. 593, with its printed English and Special Topics (on asme, dāsīr viśaḥ, sūryeṇa). Ṛk 5 is complete on pp. 593–594 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics on guhā hitam with three Ṛgveda quotations). Ṛk 6 is begun on p. 595: Saṃhitā, Pada, bhāṣya and Pratipadārtha are written. OPEN: the Bhāvārtha, printed English and any Special Topics of Ṛk 6 are still to come on p. 596. Flags: no FILE DISAGREE (9-82, 10-170, 580-582, 1-164-45, 1-130-3 and 3-56-2 all agree with the file). Unzoomed numerals: the running headers on pp. 593–595 (including the varga numerals ३ on p. 593 and ४ on p. 595), the Ṛk numbers ५ and ६, and "Part 6, page 538" on p. 593, for which the file has no row. [?] places: the Ṛgveda quotation 1-130-3 (parivītam, aśmyanante, antararmani), the quotation 3-56-2 (rupera), ङ/ञ in तिङां, the word before "gaḷāda" in the Pratipadārtha of Ṛk 6 (Harī-nāmaka?), and the faded letters in "praises)" and "(good)" of the printed English on p. 593.
+### Printed p. 596 (PDF 618)
+
+*(Header: "596", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed. Ṛk 6 continues from p. 595.)*
+
+**Bhāvārtha**
+
+O Indra, we praise your deeds of old, which are great in their qualities, and your new deeds. We praise the vajra that shines between your arms. We also praise your horses, which are the indicators (*prajñāpaka*) of you, the one endowed with prowess, and which are named Harī.
+
+**English Translation (as printed)**
+
+We glorify, Indra, your mighty (deeds) of old : we glorify your (more) recent exploits : we praise the thunderbolt shining in your arms, and we celebrate the horses, the signs of (Indra as) the sun.
+
+**Special Topics**
+
+**सूर्यस्य (*sūryasya*)**—In this Ṛk too this word is explained, as an adjective of Indra, either as सुष्ठु प्रेरकस्य (*suṣṭhu prerakasya*), "of one who impels well", or as "of one who is of the nature of Sūrya".
+
+**केतू (*ketū*)**—The word केतु (*ketu*) (*ketu*) is read among the names for "knowledge" (*prajñāna*). (Nirukta 3-13, agrees with the numeral file.)
+
+**हरी (*harī*)**—हरी (*harī*) (*harī*) is the name of the two horses of Indra. The word हरि (*hari*) (*hari*) is used in the sense of "horse" for other deities as well. Yet the dual form हरी (*harī*) is always used for the horses of Indra's chariot. Yāska explains the vehicles of various deities, beginning हरी इन्द्रस्य । रोहितोऽग्नेः । (*harī indrasya | rohito 'gneḥ |*) (as printed) and so on. (Nirukta 2-28, agrees with the numeral file.)
+
+In this Ṛk the ṛṣi says that he describes the daring deeds that Indra did long ago and those that he does now, newly.
+
+---
+
+**Ṛk 7**
+
+**Saṃhitā-pāṭha**
+
+> हरी नु त इन्द्र वाजयन्ता घृतश्चुतं स्वारमस्वार्ष्टाम् ।
+> वि समना भूमिरप्रथिष्टारंस्त पर्वतश्चित्सरिष्यन् ॥ ७ ॥
+
+**Pada-pāṭha**
+
+> हरी इति । नु । ते । इन्द्र । वाजयन्ता । घृतऽश्चुतं । स्वारं । अस्वार्ष्टाम् ।
+> वि । समना । भूमिः । अप्रथिष्ट । अरंस्त । पर्वतः । चित् । सरिष्यन् ॥ ७ ॥
+
+> *harī iti | nu | te | indra | vājayantā | ghṛta 'ścutaṃ | svāraṃ | asvārṣṭām |*
+> *vi | samanā | bhūmiḥ | aprathiṣṭa | araṃsta | parvataḥ | cit | sariṣyan ‖ 7 ‖*
+
+*(The Ṛk number is read as ७, unzoomed. In the Pada the small stroke after घृत is read as the compound mark (ऽ). The *ma* of समना is printed with the hook that looks like the *u* sign; I read plain *ma*, as the bhāṣya confirms.)*
+
+### Printed p. 597 (PDF 619)
+
+*(Header: "A. 2 A. 6 V. 4" as printed, "Ṛgvedasaṃhitā", "597". The header numerals are unzoomed.)*
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: Your two Harī horses quickly sounded the cloud's roar that makes water flow; the earth spread out in expectation and the cloud itself moved about to rain.*
+
+> हे इन्द्र वाजयन्ता वेगं कुर्वन्तौ ॥ तत्करोतीति णिच् ॥ ते तव हरी एतन्नामकावश्वौ घृतश्चुतं घृतस्योदकस्य च्यावयितारं स्वारं मेघध्वनिं नु क्षिप्रमस्वार्ष्टाम् ॥ स्वरतिः शब्दकर्मा । पाकं पचतीतिवदेकधातोरनुवादः । लुङ्[?] रूपम् ॥ समना समस्थला यद्वा समना सर्वतो व्यप्रथिष्ट [?] । गर्जनं श्रुत्वा मेघोपरि वृष्टिर्भवतीति प्रथिताभूत् । तथा पर्वतश्चित् मेघोऽपि सरिष्यन् वर्षणार्थमितस्ततो गमिष्यन् अरंस्त । अरमत ॥ रमतेर्लुङ्[?] रूपम् ॥
+
+> *he indra vājayantā vegaṃ kurvantau ‖ tatkarotīti ṇic ‖ te tava harī etannāmakāvaśvau ghṛtaścutaṃ ghṛtasyodakasya cyāvayitāraṃ svāraṃ meghadhvaniṃ nu kṣipramasvārṣṭām ‖ svaratiḥ śabdakarmā | pākaṃ pacatītivadekadhātoranuvādaḥ | luṅ[?] rūpam ‖ samanā samasthalā yadvā samanā sarvato vyaprathiṣṭa [?] | garjanaṃ śrutvā meghopari vṛṣṭirbhavatīti prathitābhūt | tathā parvataścit megho 'pi sariṣyan varṣaṇārthamitastato gamiṣyan araṃsta | aramata ‖ ramaterluṅ[?] rūpam ‖*
+
+*(The grammatical tail says that स्वरति (*svarati*) is a verb of sound, that the repeated root is an anuvāda as in "he cooks a cooking", and that अस्वार्ष्टाम् and अरंस्त are forms of the aorist. The tense name is printed in a form that looks like ಲಜಃ and ಲುಜಃ, which I read as लुङ्, unzoomed [?]. Doubtful: the *tha/ta* in व्यप्रथिष्ट. In the print it looks like ವ್ಯಪ್ರತಿಷ್ಠ, and I read ಥ because the Saṃhitā has अप्रथिष्ट and the bhāṣya says प्रथिता. It is Sanskrit and is not explained further here. No sūtra numbers are printed.)*
+
+**Pratipadārtha**
+
+- इन्द्र (*indra*)—O Indra.
+- वाजयन्ता (*vājayantā*)—swift-going,
+- ते (*te*)—your
+- हरी (*harī*)—horses named Hari
+- घृतश्चुतं (*ghṛtaścutaṃ*)—that make water flow,
+- स्वारं (*svāraṃ*)—the sound of the cloud
+- नु (*nu*)—quickly
+- अस्वार्ष्टाम् (*asvārṣṭām*)—they sounded (rumbled).
+- समना (*samanā*)—the earth, with its level ground [or]
+- भूमिः (*bhūmiḥ*)—the earth
+- everywhere
+- वि अप्रथिष्ट (*vi aprathiṣṭa*)—looked out for the rain.
+- पर्वतश्चित् (*parvataścit*)—the cloud also,
+- सरिष्यन् (*sariṣyan*)—moving about for the sake of raining,
+- अरंस्त (*araṃsta*)—sported (moved about).
+
+**Bhāvārtha**
+
+O Indra, your horses, swift-going and named Harī, quickly sounded the thunder of the cloud that makes water flow. Then the earth looked out for the rain everywhere. The cloud too, moving about for the sake of raining, sported.
+
+**English Translation (as printed)**
+
+Your swift horses, Indra, have uttered a loud sound, announcing rain : the level earth anxiously expects its fall, as the gathering cloud has passed.
+
+**Special Topics**
+
+**घृतश्चुतं (*ghṛtaścutaṃ*)**—The word घृत (*ghṛta*) (*ghṛta*) has various meanings. Yāska's explanation is: अथापि नैगमोभ्यो भाषिका उष्णं घृतमिति (*athāpi naigamobhyo bhāṣikā uṣṇaṃ ghṛtamiti*) (Nirukta 2-2, agrees with the numeral file; as printed, with नैगमोभ्यो (*naigamobhyo*) where नैगमेभ्यो (*naigamebhyo*) would be expected, unzoomed). In general, in the Veda the word घृत (*ghṛta*) has the sense of "warm", that is, "of a burning nature". Since the word घृत (*ghṛta*) is also read among the hundred and one names of water beginning with अणः (*aṇaḥ*) (as printed, perhaps meant for अर्णः (*arṇaḥ*)) क्षोदः (*kṣodaḥ*), घृत (*ghṛta*) also has the sense "water" (Nirukta 2-24, agrees with the numeral file), and this use of the word घृत (*ghṛta*) is frequent in the Ṛgveda:
+
+*Source printed after the quotation: ऋ. सं. (*ṛ. saṃ.*) 1-164-47 (agrees with the numeral file). Gloss, mine and tentative: "The dark one (the cloud) descending, the Harayaḥ (rays?), the fair-winged, clothed in waters, fly up to heaven. They returned from the seat of Ṛta, and then the earth is drenched with ghṛta (water)."*
+
+> कृष्णं नियानं हरयः सुपर्णा अपो वसाना दिवमुत्पतन्ति ।
+> त आ ववृत्रन्त्सदनादृतस्यादिद्घृतेन पृथिवी व्युद्यते ॥
+
+> *kṛṣṇaṃ niyānaṃ harayaḥ suparṇā apo vasānā divamutpatanti |*
+> *ta ā vavṛtrantsadanādṛtasyādidghṛtena pṛthivī vyudyate ‖*
+
+### Printed p. 598 (PDF 620)
+
+*(Header: "598", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed.)*
+
+In Ṛks like these the word घृत (*ghṛta*) is explained as "water". In the present Ṛk, घृतश्चुतं (*ghṛtaścutaṃ*) means "(the cloud) that pours out water".
+
+**पर्वतः (*parvataḥ*)**—पर्वति पूरयितव्यप्रदेशयुक्ते स्वकीयनिवासस्थाने । पर्ववान् पर्वतः । पर्व पुनः पृणातेः प्रीणातेर्वा (*parvati pūrayitavyapradeśayukte svakīyanivāsasthāne | parvavān parvataḥ | parva punaḥ pṛṇāteḥ prīṇātervā*) (Nirukta 1-20, agrees with the numeral file). For the word पर्व (*parva*) Yāska has given the meaning "full of things such as stones and peaks". Having said प्रीणातेर्वा (*prīṇātervā*), it need not be said that the word means only "filling with stones". The explanation given is that a thing which pleases the gods charmingly with stones and so on may be called पर्वत (*parvata*). The word पर्वत (*parvata*) is read among the names of cloud. (Nirukta 2-21, agrees with the numeral file.) In the present Ṛk the word पर्वत (*parvata*) means only "cloud".
+
+---
+
+**Ṛk 8**
+
+**Saṃhitā-pāṭha**
+
+> नि पर्वतः साद्यप्रयुच्छन्त्सं मातृभिर्वावशानो अक्रान् ।
+> दूरे पारे वाणीं वर्धयन्त इन्द्रेषितां धमनिं पप्रथन्नि ॥
+
+**Pada-pāṭha**
+
+> नि । पर्वतः । सादि । अप्रऽयुच्छन् । सं । मातृऽभिः । वावशानः । अक्रान् ।
+> दूरे । पारे । वाणीं । वर्धयन्तः । इन्द्रऽइषितां । धमनिं । पपप्रथन् [?] । नि ॥ ८ ॥
+
+> *ni | parvataḥ | sādi | apra 'yucchan | saṃ | mātṛ 'bhiḥ | vāvaśānaḥ | akrān |*
+> *dūre | pāre | vāṇīṃ | vardhayantaḥ | indra 'iṣitāṃ | dhamaniṃ | papaprathan [?] | ni ‖ 8 ‖*
+
+*(The Ṛk number ८ is read from the Pada line, unzoomed. At the end of the Saṃhitā lines the number is not seen on this strip. In the Pada the small strokes after अप्र, मातृ and इन्द्र are read as the compound mark (ऽ). The Pada word is printed ಪಪ್ರಥನ್, which I read as पप्रथन्, as in the Saṃhitā; the "[?]" in the line above marks only that I did not zoom it.)*
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: The attentive cloud stood in the sky and roamed about thundering; the Maruts, or the singers, strengthening the middle-region voice sent by Indra, spread it far and wide.*
+
+> अप्रयुच्छन् अप्रमाद्यन् वर्षणे सावधानः पर्वतो मेघो निषादि । नभसि निषण्ण आसीत् । मातृभिरद्भिर्माध्यमिकाभिर्वाग्भिर्वा संवावशानः सह शब्दं कुर्वाणोऽक्रान् । अक्रमीत् । इतस्ततः संचारमकरोत् ॥ क्रमतेर्लुङ्[?] बहुलं छन्दसीति विकरणस्य लुक् ॥ दूरे पारे इति दूरेऽन्तरिक्षे स्थितां वाणीं माध्यमिकां वाचं वर्धयन्तः स्तोत्रैः सवृद्धां कुर्वन्तः स्तोतारो मरुतो वेन्द्रेषितामिन्द्रेण प्रेरितां धमनिं शब्दं कुर्वाणां तां वाचं नितरां पप्रथन् । अप्रथयन् ॥
+
+> *aprayucchan apramādyan varṣaṇe sāvadhānaḥ parvato megho niṣādi | nabhasi niṣaṇṇa āsīt | mātṛbhiradbhirmādhyamikābhirvāgbhirvā saṃvāvaśānaḥ saha śabdaṃ kurvāṇo 'krān | akramīt | itastataḥ saṃcāramakarot ‖ kramaterluṅ[?] bahulaṃ chandasīti vikaraṇasya luk ‖ dūre pāre iti dūre 'ntarikṣe sthitāṃ vāṇīṃ mādhyamikāṃ vācaṃ vardhayantaḥ stotraiḥ savṛddhāṃ kurvantaḥ stotāro maruto vendreṣitāmindreṇa preritāṃ dhamaniṃ śabdaṃ kurvāṇāṃ tāṃ vācaṃ nitarāṃ paprathan | aprathayan ‖*
+
+*(The grammatical tail says that क्रमते (*kramate*) takes the aorist, with the elision of the vikaraṇa as the Veda allows variation (बहुलं छन्दसि). The tense name is again printed in the form that looks like ಲುಜಃ, read as लुङ्, unzoomed [?]. It is Sanskrit and is not explained further here. No sūtra numbers are printed.)*
+
+**Pratipadārtha**
+
+*(Begun at the foot of the page; it continues on p. 599.)*
+
+- अप्रयुच्छन् (*aprayucchan*)—one with an attentive mind, free from negligence.
+- पर्वतः (*parvataḥ*)—the cloud.
+- नि षादि (*ni ṣādi*)—is stationed in the sky.
+- मातृभिः (*mātṛbhiḥ*)—with the middle-region speeches (*mādhyamikāvākyas*) or with the waters.
+
+---
+
+**Progress note:** Done through printed p. 598 (PDF 620). Sūkta 11: Ṛk 6 is complete on p. 596 (Bhāvārtha, printed English, Special Topics on sūryasya, ketū, harī). Ṛk 7 is complete on pp. 596–597 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics on ghṛtaścutam with Ṛgveda 1-164-47; the Special Topics on ghṛta-ścutam end on p. 598 and the one on parvataḥ follows). Ṛk 8 is begun on p. 598: Saṃhitā, Pada, bhāṣya, and the Pratipadārtha through मातृभिः. OPEN: the rest of the Pratipadārtha of Ṛk 8 (from "अद्भिः/with waters" onward), the Bhāvārtha, printed English and Special Topics follow on p. 599. Flags: no FILE DISAGREE (Nirukta 3-13, 2-28, 2-2, 2-24, 1-20, 2-21 and RV 1-164-47 all agree with the file). Unzoomed numerals: running headers on pp. 596–598 (including the varga numeral ४ on p. 597), the Ṛk numbers ७ and ८, and the Ṛk 8 Saṃhitā number, which is not seen on the strip. [?] places: रोहितोऽग्नेः as printed; व्यप्रथिष्ट (थ/त); the tense name ಲಜಃ/ಲುಜಃ read लुङ् (three places); अणः (अर्णः?); नैगमोभ्यो as printed; पर्वति; the Pada word पप्रथन्; and compound marks in the Pada.
