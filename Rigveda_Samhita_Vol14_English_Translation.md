@@ -22101,4 +22101,98 @@ When they are recited in this way, three Ṛks become many Ṛks. Reciting the t
 
 ---
 
-**Progress note:** Done through printed p. 586 (PDF 608). Sūkta 11, Ṛk 3 (Saṃhitā, Pada, Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and printed English complete); its Special Topics (Viśeṣaviṣayagaḷu) are OPEN. The Special Topics so far cover ⟦रुद्रियेषु⟧, ⟦वायवे⟧ and ⟦स्तोमेषु⟧ (stoma, tṛca, paryāya, viṣṭuti). The sentence breaks off at the foot of p. 586 at "pratiyondu stōmakkū intaha viṣṭutigaḷu bērebēre hesarinda anēka" and continues on p. 587. The Special Topics of Ṛk 2 ended on p. 584 (Aitareya Brāhmaṇa account of the uktha, ŚB 4-2-3-10, BU 5-13-1, Śāṅkarabhāṣya). Flags: FILE DISAGREE none (rows for p. 584 agree; the file's garbled line 17 text was not used); unzoomed numerals: running headers (A. 2 A. 6 V. 3 on p. 585; Maṃ. 2 A. 1 Sū. 11 on pp. 584 and 586), Ṛk number ‖3‖ and the stoma numerals on p. 586. [?] places: p. 585 bhāṣya ⟦उद्गातॄणां⟧ and the affix word ⟦यज्ल्कि⟧; p. 584 ⟦उद्धास्मात्⟧ and "equal" (ಸವಾನ as printed); p. 586 "names of worshippers" (ಸ್ತೋತೃಸಾಮುಗಳಲ್ಲಿ as printed).
+### Printed p. 587 (PDF 609)
+
+*(Header: "A. 2 A. 6 V. 3" (Aṣṭaka 2, Adhyāya 6, Varga 3), "Ṛgvedasaṃhitā", printed number **587**. The numeral file has no rows for this page. The stoma and ṛk numbers below are read from the strip and not zoomed.)*
+
+The sentence left open at the foot of p. 586 continues: "...and many kinds."
+
+...of many kinds (*vidha*). Therefore the recitation of a tṛca of three Ṛks, in three paryāyas, in various orders, is what is called a stoma. Among the stomas there are nine kinds: त्रिवृत् (*trivṛt*), पञ्चदशः (*pañcadaśaḥ*), सप्तदशः (*saptadaśaḥ*), एकविंशः (*ekaviṃśaḥ*), त्रिणवः (*triṇavaḥ*), त्रयस्त्रिंशः (*trayastriṃśaḥ*), चतुर्विंशः (*caturviṃśaḥ*), चतुश्चत्वारिंशः (*catuścatvāriṃśaḥ*) and अष्टाचत्वारिंशः (*aṣṭācatvāriṃśaḥ*). In the Trivṛt stoma the tṛca is recited three times over, in different orders, and so this stoma is named Trivṛt-stoma. Therefore the total number of Ṛks in the three paryāyas of the Trivṛt stoma is 9. In the stomas beginning with Pañcadaśa, the three paryāyas contain fifteen or more Ṛks, according to the name of the stoma. That is, in the Pañcadaśa stoma there are 15 Ṛks in all from the three paryāyas, and in the Saptadaśa stoma 17 Ṛks in all from the three paryāyas, and so on. Thus the stomas received their names according to their numbers of Ṛks. There is no rule that every paryāya must have the same number of Ṛks. The Ṛks of the three paryāyas must stand in the number fixed for the viṣṭutis of the stoma concerned. Their details are as follows:
+
+(1) त्रिवृत्स्तोम (*trivṛtstoma*) (Trivṛt-stoma)—9 Ṛks in all from the three paryāyas
+(2) पञ्चदशस्तोम (*pañcadaśastoma*) (Pañcadaśa-stoma)—15 Ṛks
+(3) सप्तदशस्तोम (*saptadaśastoma*) (Saptadaśa-stoma)—17 Ṛks
+(4) एकविंशस्तोम (*ekaviṃśastoma*) (Ekaviṃśa-stoma)—21 Ṛks
+(5) त्रिणवस्तोम (*triṇavastoma*) (Triṇava-stoma)—27 Ṛks
+(6) त्रयस्त्रिंशस्तोम (*trayastriṃśastoma*) (Trayastriṃśa-stoma)—33 Ṛks
+(7) चतुर्विंशस्तोम (*caturviṃśastoma*) (Caturviṃśa-stoma)—24 Ṛks
+(8) चतुश्चत्वारिंशस्तोम (*catuścatvāriṃśastoma*) (Catuścatvāriṃśa-stoma)—44 Ṛks
+(9) अष्टाचत्वारिंशस्तोम (*aṣṭācatvāriṃśastoma*) (Aṣṭācatvāriṃśa-stoma)—48 Ṛks
+
+*(The first line of the table reads "three paryāyas, 9 Ṛks in all"; the rest are given with ditto marks in the print. The first item is printed as "ತ್ರಿವೃತ್ಸ್ತೋಮು", as a misprint for "-ಸ್ತೋಮ".)*
+
+In this way the Ṛk-numbers of the nine stomas correspond to the names of the stomas. It must be understood that each number applies to each single viṣṭuti in the stoma. That is, since the Trivṛt stoma has three viṣṭutis, each viṣṭuti has 9 Ṛks for its three paryāyas. The three viṣṭutis together make not 9 Ṛks but 27 Ṛks. And so on.
+
+It was said earlier that every stoma has many viṣṭutis. Their details are given below:
+
+I त्रिवृत्स्तोम (*trivṛtstoma*) (Trivṛt-stoma): (1) उद्यती (*udyatī*) (2) परिवर्तिनी (*parivartinī*) (3) कुलायिनी (*kulāyinī*): these are three viṣṭutis.
+
+### Printed p. 588 (PDF 610)
+
+*(Header: "588", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The numeral file has no rows for this page. The item numbers are read from the strips, unzoomed.)*
+
+II पञ्चदशस्तोम (*pañcadaśastoma*) (Pañcadaśa-stoma): (1) पञ्चपञ्चिनी (*pañcapañcinī*) (2) उद्यती प्रथमा (*udyatī prathamā*) (3) उद्यती द्वितीया (*udyatī dvitīyā*): three viṣṭutis.
+
+III सप्तदशस्तोम (*saptadaśastoma*) (Saptadaśa-stoma): (1) दशसप्ता प्रथमा (*daśasaptā prathamā*) (2) दशसप्ता द्वितीया (*daśasaptā dvitīyā*) (3) सप्तस्थिता प्रथमा (*saptasthitā prathamā*) (4) सप्तस्थिता द्वितीया (*saptasthitā dvitīyā*) (5) अनामिका (*anāmikā*) (6) उद्यती (*udyatī*) (7) भस्त्रा (*bhastrā*): seven viṣṭutis.
+
+IV एकविंशस्तोम (*ekaviṃśastoma*) (Ekaviṃśa-stoma): (1) सप्तसप्तिनी (*saptasaptinī*) (2) उद्यती (*udyatī*) (3) प्रतिष्टुतिः (*pratiṣṭutiḥ*) (4) सूर्मा (*sūrmā*): four viṣṭutis. *(The third name is printed like ಪ್ರತಿಷ್ಟುತಿಃ and I give it as printed.)*
+
+V त्रिणवस्तोम (*triṇavastoma*) (Triṇava-stoma): (1) प्रतिष्ठिता (*pratiṣṭhitā*) (2) उद्यती (*udyatī*): two viṣṭutis.
+
+VI त्रयस्त्रिंशस्तोम (*trayastriṃśastoma*) (Trayastriṃśa-stoma): (1) समत्र्यंशा (*samatryaṃśā*) (2) नेदीयस्संक्रमा (*nedīyassaṃkramā*) (3) उद्यती (*udyatī*) (4) प्रत्यवरोहिणी (*pratyavarohiṇī*) (5) अन्तिमा (*antimā*): five viṣṭutis. *(The second name is printed like ನೇದೀಯಸ್ಸಂಕ್ರವಾ; the ಮ is written with the hook that looks like ವ. I read it as नेदीयस्संक्रमा (*nedīyassaṃkramā*).)*
+
+VII चतुर्विंशस्तोम (*caturviṃśastoma*) (Caturviṃśa-stoma): this has one viṣṭuti only.
+
+VIII चतुश्चत्वारिंशस्तोम (*catuścatvāriṃśastoma*) (Catuścatvāriṃśa-stoma): (1) प्रथमा (*prathamā*) (2) निर्मध्या (*nirmadhyā*) [?] (3) तृतीया (*tṛtīyā*): three viṣṭutis. *(The second name is printed like ನಿರ್ಮ್ಧ್ಯಾ and is uncertain.)*
+
+IX अष्टाचत्वारिंशस्तोम (*aṣṭācatvāriṃśastoma*) (Aṣṭācatvāriṃśa-stoma): (1) प्रथमा (*prathamā*) (2) नेदीयस्संक्रमा (*nedīyassaṃkramā*): two viṣṭutis.
+
+In all, the nine stomas have thirty viṣṭutis.
+
+The stomas, their viṣṭutis, the number of Ṛks in them, the order of reciting them and similar matters are described at length in the Tāṇḍya Brāhmaṇa of the Sāmaveda.
+
+Of these stomas, the Trivṛt stoma is recited at the time of the Prātaḥsavana (morning pressing), the Pañcadaśa stoma at the Mādhyandina savana (midday pressing), and the Saptadaśa stoma at the Tṛtīya savana (third pressing). In sacrifices such as the Abhiplava-ṣaḍaha, after the Trivṛt and other stomas, which are to be chanted in the Prātaḥsavana and other rites, have been chanted, it is the practice in some contexts to chant along with them some further stomas, which are called *uttara-stomas*. This chanting of additional stomas is called स्तोमवृद्धि (*stomavṛddhi*) (*stomavṛddhi*, "increase of the stoma"). After the Udgātṛ and the other priests have made these chants of the stomavṛddhi, then, in accordance with it, that is, so as to be equal to the stomavṛddhi, some additional number of Ṛks
+
+### Printed p. 589 (PDF 611)
+
+*(Header: "A. 2 A. 6 V. 3" as printed, "Ṛgvedasaṃhitā", printed number **589**. The numeral file has one row, for line 14: it reads "1-4" and "119". I read the strip as "1-4" and "1-9"; see the note below. All numerals on this page are unzoomed.)*
+
+must be recited by the Ṛtvijs of the Hotṛ group called Maitrāvaruṇa, Brāhmaṇācchaṃsi and Acchāvāka. That is, after the fixed number of mantras to be chanted in the Trivṛt and other stomas has been sung, when the Udgātṛ and the other Sāmaka priests chant some more mantras, the Maitrāvaruṇa and the others of the Hotṛ group must recite an equal number of Ṛks, so as to keep pace with them. Thus, to the Sāma mantras or stomas that are chanted beyond the fixed number the name **stomavṛddhi** is given, and to the Ṛks recited beyond the fixed number the name **āvāpa** is given. In this context, for the recitation of these āvāpa Ṛks, the six sūktas beginning with **सुरूपकृत्नुमूतये (*surūpakṛtnumūtaye*)** (*surūpakṛtnumūtaye*) (the sūktas from Ṛ. Saṃ. 1-4 to Ṛ. Saṃ. 1-9) are recited. This does not mean that all six sūktas must be recited in full for the āvāpa. The meaning is that the Udgātṛ and the other Sāmaka priests chant a certain number of Ṛks, and just that number of Ṛks must be recited (from the sūktas beginning सुरूपकृत्नुमूतये (*surūpakṛtnumūtaye*) and the others mentioned above). Even in this āvāpa order, that is, in reciting the additional Ṛks, there is an order of procedure. Āśvalāyana has stated it in his Śrautasūtra as follows:—
+
+*(Note on the numerals: the file reads the second reference as "119"; the strip, as I read it, shows "1-9" followed by "ರ ವರೆಗಿನ", and six sūktas, 4 to 9, agree with "six sūktas". This is not zoomed and is recorded as a FILE DISAGREE.)*
+
+> नित्याधिकं स्तोमकरणात्पञ्च सप्तदशे नवैकविंशे द्वादश चतु-
+> र्विंशे पञ्चदश त्रिणव एकविंशतिं त्रयस्त्रिंशे द्वात्रिंशतं चतु-
+> श्चत्वारिंशे षट्त्रिंशतमष्टाचत्वारिंशे ॥ इति ॥
+
+> *nityādhikaṃ stomakaraṇātpañca saptadaśe navaikaviṃśe dvādaśa catu-*
+> *rviṃśe pañcadaśa triṇava ekaviṃśatiṃ trayastriṃśe dvātriṃśataṃ catu-*
+> *ścatvāriṃśe ṣaṭtriṃśatamaṣṭācatvāriṃśe ‖ iti ‖*
+
+That is: when the Saptadaśa stoma is recited, the āvāpa, that is, the recitation of additional Ṛks, must be five Ṛks. For the Ekaviṃśa stoma the āvāpa is nine Ṛks; for the Caturviṃśa stoma twelve Ṛks; for the Triṇava stoma fifteen Ṛks; for the Trayastriṃśa stoma twenty-one Ṛks; for the Catuścatvāriṃśa stoma thirty-two Ṛks; and for the Aṣṭācatvāriṃśa stoma thirty-six Ṛks, "so (says the sūtra)". The author of the bhāṣya explains this very order when he gives the viniyoga of the sūkta सुरूपकृत्नुमूतये (*surūpakṛtnumūtaye*) (*surūpakṛtnumūtaye*), in the sentence:
+
+> अभिप्लवषडहे ब्राह्मणाच्छंसिनः प्रातस्सवने स्तोम-
+> वृद्धावावापार्थानि सुरूपकृत्नुमूतय इत्यादीनि षट् सूक्तानि ।
+
+> *abhiplavaṣaḍahe brāhmaṇācchaṃsinaḥ prātassavane stoma-*
+> *vṛddhāvāvāpārthāni surūpakṛtnumūtaya ityādīni ṣaṭ sūktāni |*
+
+Gist: in the Abhiplava-ṣaḍaha, the Brāhmaṇācchaṃsin's six sūktas beginning सुरूपकृत्नुमूतये (*surūpakṛtnumūtaye*) are for the āvāpa at a stomavṛddhi in the Prātaḥsavana.
+
+*(The Kannada says that the bhāṣyakāra explains it "by this sentence".)*
+
+As is said in "उक्थैः परिभूषति (*ukthaiḥ paribhūṣati*)" (*ukthaiḥ paribhūṣati*), the words स्तोमैः आभूषति (*stomaiḥ ābhūṣati*) (*stomaiḥ ābhūṣati*) *[as printed]* also tell the procedure for performing the vrata (rite) in full. Like the uktha, the stoma too is full of power. The nature and varieties of the stoma have been described fully on pp. 138 to 150 of Part 2 of the Ṛgveda Saṃhitā. Here only the benefits to be gained by reciting a stoma are told.
+
+> प्रातस्सवने वै गायत्रेण छन्दसा त्रिवृते स्तोमाय ज्योतिर्दधदेति त्रिवृता
+> ब्रह्मवर्चसेन पञ्चदशाय ज्योतिर्दधदेति पञ्चदशेनौजसा वीर्येण
+
+> *prātassavane vai gāyatreṇa chandasā trivṛte stomāya jyotirdadhadeti trivṛtā*
+> *brahmavarcasena pañcadaśāya jyotirdadhadeti pañcadaśenaujasā vīryeṇa*
+
+*(The quotation is cut off at the foot of p. 589 and continues on p. 590. No source is named in the lines on this page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 589 (PDF 611). Sūkta 11, Ṛk 3: its Special Topics (Viśeṣaviṣayagaḷu) are still OPEN, in the passage on ⟦स्तोमेषु⟧ (stoma, viṣṭuti, stomavṛddhi, āvāpa). The Sanskrit quotation beginning "prātassavane vai gāyatreṇa chandasā trivṛte stomāya jyotirdadhadeti …" breaks off at "pañcadaśenaujasā vīryeṇa" at the foot of p. 589 and continues on p. 590. Flags: FILE DISAGREE on p. 589 line 14: file says "1-4" and "119", I read "1-4" and "1-9" (six sūktas, 4 to 9), unzoomed. Unzoomed numerals: running headers on pp. 587–589, all stoma and Ṛk numbers on pp. 587–588 (9, 15, 17, 21, 27, 33, 24, 44, 48; the 27 in the text; the 30 viṣṭutis), and the page numbers 138 and 150. [?] places: p. 588 ⟦निर्मध्या⟧ (name of a Catuścatvāriṃśa viṣṭuti), and the spellings ⟦प्रतिष्टुतिः⟧ and ⟦नेदीयस्संक्रमा⟧ (the latter's ಮ printed like ವ). The Kannada ⟦स्तोमैः आभूषति⟧ is given as printed. Pp. 587 and 589 have no numeral-file rows for the other lines; none of them was checked against the file.
