@@ -24513,4 +24513,92 @@ That is: all praise the act of giving. By giving, all duties and works are accom
 
 ---
 
-**Progress note:** Done through printed p. 640 (PDF 662). Sūkta 11, Ṛk 21 (the last Ṛk of the sūkta): bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Special Topics (dakṣiṇā, with four Nirukta etymologies and Brāhmaṇa/Upaniṣad quotations) are written; the print ends with a short rule at the foot of p. 640. Ṛk 21 is left OPEN for the grammar note, if any, and the sūkta/adhyāya colophon on p. 641. Flags: FILE DISAGREE: p. 640 Śa. Brā. "10-1-1-10" (file "10-11-10", mis-grouping). Unzoomed numerals: running headers on pp. 638–640, 10-107, 1-18-5, 1-125-6 (file agrees), Ni. 1-7, Śa. Brā. 4-1.1-32, Bṛ. U. 4-4-22, Tai. U. 4-100/101, "११" Ṛks of 10-107 (all agree with the file except the one noted). [?] places: "दहेर्दानार्थस्य", "लुजि" and "दिग्स्तप्रकृतिः" (as read), "यामस्मै", "दाने सर्वं", "आविरभून्महि". The द/ध doubt of the Saṃhitā in Ṛk 21 is resolved by the bhāṣya and Pratipadārtha, which print धक्.
+---
+
+### Printed p. 641 (PDF 663)
+
+*(Header: "A. 2 A. 6 V. 7 ]" as it looks, "Ṛgvedasaṃhitā", "641"; header numerals not zoomed. Ṛk 21 of Sūkta 11 ended on p. 640. No grammar note or colophon for Sūkta 11 is printed here: the page opens directly with the heading of the next sūkta. The foot of the page carries the printer's signature marks "[41]" and "Vol. 14".)*
+
+## Sūkta 12 — "हन्नेरडनेयु सूक्तवु" (Twelfth Sūkta)
+
+*(Kannada heading: "ಹನ್ನೆರಡನೆಯ ಸೂಕ್ತವು". Second Maṇḍala, second anuvāka, first sūkta of the anuvāka. From the bhāṣya and the Kannada anuvāda on p. 642: 15 Ṛks; ṛṣi Gṛtsamada; devatā Indra; chandas Triṣṭubh. Sub-heading: "सायणभाष्यं" (Sāyaṇa-bhāṣyaṃ).)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: the second anuvāka has eleven sūktas; the first, "yo jāta eva", has fifteen Ṛks (Gṛtsamada, Indra, Triṣṭubh), and the Śrauta-sūtra uses in the niṣkevalya śastras are cited.*
+
+> द्वितीयेऽनुवाके एकादश सूक्तानि । तत्र यो जात इति पञ्चदशर्चं प्रथमं सूक्तं गार्त्समदं त्रैष्टुभमैन्द्रं ॥ संसवे निष्केवल्ये निविद्धानीयस्य पुरस्ताद्यो जात एवेति शंस्येत् । यदि पर्यायानिति खण्डे सूत्रितं । यो जात एवेति निष्केवल्ये । आ. ६-६ । इति ॥ अभिप्लविके तृतीयेऽहनि निष्केवल्ये यो जात एवेति निविद्धानीयं । सूत्रितं च । तृतीयस्य त्र्यर्यमा यो जात एवेति मध्यंदिनः । आ. ७-७ । इति ॥ विश्वजिति माध्यंदिनसवने मैत्रावरुणः स्वशस्त्रे प्राकृतात्सूक्तात्पूर्वं यो जात इति सामसूक्तं शंसेत् । विश्वजितोऽग्निं नर इति खण्डे सूत्रितं । सत्रा मदासो यो जात एवाभूरेक इति सामसूक्तानि । आ. ८-७ । इति ॥ अग्निष्टुन्निष्केवल्ये निविद्धानमिदं । शैनाजिराभ्यामिति खण्डे सूत्रितं । तिष्ठा हरी इति यो जात एवेति मध्यंदिनः । आ. ९-७ । इति ॥ महाव्रते निष्केवल्ये यो जात एवेति सूक्तं । ऊरू इति खण्डे सूत्रितं । वने न वा यो न्यधायि चाकन् यो जात एव प्रथमो मनस्वान् । ऐ. आ. ५-३-१ इति ॥
+
+> *dvitīye 'nuvāke ekādaśa sūktāni | tatra yo jāta iti pañcadaśarcaṃ prathamaṃ sūktaṃ gārtsamadaṃ traiṣṭubhamaindraṃ ‖ saṃsave niṣkevalye nividdhānīyasya purastādyo jāta eveti śaṃsyet | yadi paryāyāniti khaṇḍe sūtritaṃ | yo jāta eveti niṣkevalye | ā. 6-6 | iti ‖ abhiplavike tṛtīye 'hani niṣkevalye yo jāta eveti nividdhānīyaṃ | sūtritaṃ ca | tṛtīyasya tryaryamā yo jāta eveti madhyaṃdinaḥ | ā. 7-7 | iti ‖ viśvajiti mādhyaṃdinasavane maitrāvaruṇaḥ svaśastre prākṛtātsūktātpūrvaṃ yo jāta iti sāmasūktaṃ śaṃset | viśvajito 'gniṃ nara iti khaṇḍe sūtritaṃ | satrā madāso yo jāta evābhūreka iti sāmasūktāni | ā. 8-7 | iti ‖ agniṣṭunniṣkevalye nividdhānamidaṃ | śainājirābhyāmiti khaṇḍe sūtritaṃ | tiṣṭhā harī iti yo jāta eveti madhyaṃdinaḥ | ā. 9-7 | iti ‖ mahāvrate niṣkevalye yo jāta eveti sūktaṃ | ūrū iti khaṇḍe sūtritaṃ | vane na vā yo nyadhāyi cākan yo jāta eva prathamo manasvān | ai. ā. 5-3-1 iti ‖*
+
+*(Reference numerals "आ. ६-६", "आ. ७-७", "आ. ८-७", "आ. ९-७", "ऐ. आ. ५-३-१" are read from the strip, unzoomed. The file for this page has "2-2" for the second (garbled; p. 642 file gives 7-7), "8.73" for the third (my reading 8-7; p. 642 file gives 8-7) and agrees for 9-7 and 5-3-1; the first, 6-6, is not in the file for this page but agrees with p. 642. The ṛṣi-name spelling "गार्त्समदं" is as printed.)*
+
+*Gist: the itihāsa from the Bṛhaddevatā: Gṛtsamada, by tapas, took Indra's great form and moved unseen; the daityas Dhuni and Cumuri attacked him; he recognised their intent and praised Indra's deeds with this sūkta.*
+
+> अत्रेतिहासो बृहद्देवतायामुक्तः । संयुज्य तपसात्मानमैन्द्रं बिभ्रन्महद्वपुः । अदृश्यत मुहूर्तेन दिवि च व्योम्नि चेह च ॥ तमिन्द्र इति मत्वा तु दैत्यौ भीमपराक्रमौ । धुनिश्च चुमुरिश्चोभौ सायुधावभिसेततुः ॥ विदित्वा स तयोर्भावमृषिः पापं चिकीर्षतोः । यो जात इति सूक्तेन कर्माण्यैन्द्राण्यकीर्तयत् ॥
+
+*Gist: others tell it differently (three variants, the last two cited in the bhāṣya below): Gṛtsamada, taken for Indra, is surrounded by asuras, and answers them with this sūkta; the same story is told at length in the Mahābhārata.*
+
+> अन्ये त्वन्यथा वर्णयन्ति । पुरा किलेन्द्रादयो वैन्ययज्ञं समाजग्मुः । गृत्समदोऽपि तत्रागत्य सदस्यासीत् । दैत्याश्चेन्द्रजिघांसया तत्र समागमन् । तान् दृष्ट्वा निर्जगामेन्द्रो यज्ञाद्गृत्समदाकृतिः । स च गृत्समदो वैन्येन पूजितो यज्ञवाटान्निरगच्छत् । निर्गच्छन्तं तमृषिं दृष्ट्वा अयमेवेन्द्र इति मन्यमानास्तमसुराः परिवव्रुः । नाहमिन्द्रस्तुच्छः किन्त्वेवंगुणोपेतः स इत्यनेन सूक्तेन तान्प्रत्युवाच ॥ अपरे त्वेवं कथयन्ति । गृत्समदस्य यज्ञे प्रविष्टमेकाकिनमिन्द्रं ज्ञात्वासुराः परिवव्रुः । स इन्द्रो गृत्समदरूपेण यज्ञवाटान्निर्गत्य स्वर्गं जगाम । ततोऽसुरा इन्द्रो विलम्बित इत्यन्तः प्रविश्य गृत्समदं दृष्ट्वा पूर्वमेव गृत्समदो गतः अयं त्विन्द्रोऽस्मद्भयाद्गृत्समदरूपेणास्ते इति तं जग्रहुः । स तान् नाहमिन्द्रोऽयमित्यनेन सूक्तेन प्रत्युवाच । अयमेवार्थो महाभारते प्रपञ्चितः ॥
+
+> *anye tvanyathā varṇayanti | purā kilendrādayo vainyayajñaṃ samājagmuḥ | gṛtsamado 'pi tatrāgatya sadasyāsīt | daityāścendrajighāṃsayā tatra samāgaman | tān dṛṣṭvā nirjagāmendro yajñādgṛtsamadākṛtiḥ | sa ca gṛtsamado vainyena pūjito yajñavāṭānniragacchat | nirgacchantaṃ tamṛṣiṃ dṛṣṭvā ayamevendra iti manyamānāstamasurāḥ parivavruḥ | nāhamindrastucchaḥ kintvevaṃguṇopetaḥ sa ityanena sūktena tānpratyuvāca ‖ apare tvevaṃ kathayanti | gṛtsamadasya yajñe praviṣṭamekākinamindraṃ jñātvāsurāḥ parivavruḥ | sa indro gṛtsamadarūpeṇa yajñavāṭānnirgatya svargaṃ jagāma | tato 'surā indro vilambita ityantaḥ praviśya gṛtsamadaṃ dṛṣṭvā pūrvameva gṛtsamado gataḥ ayaṃ tvindro 'smadbhayādgṛtsamadarūpeṇāste iti taṃ jagrahuḥ | sa tān nāhamindro 'yamityanena sūktena pratyuvāca | ayamevārtho mahābhārate prapañcitaḥ ‖*
+
+*(The bhāṣya of the introduction ends here, at "प्रपञ्चितः ॥" at the foot of p. 641. Doubtful: "वैन्यय​ज्ञं" is printed as one word "वैन्ययज्ञं"; "अभिसेततुः" is as I read it; the Kannada p. 643 quotes the second and third variants again. In the line "नाहमिन्द्रस्तुच्छः" the strip is not perfectly clear to me on the first letter ("ना" read).)*
+
+---
+
+### Printed p. 642 (PDF 664)
+
+*(Header: "642", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2. A. 2. Sū. 12"; header numerals not zoomed.)*
+
+**अनुवादवु (Anuvāda)** — From this sūkta the second anuvāka of this second maṇḍala begins. In this anuvāka there are eleven sūktas. Among them, the sūkta beginning यो जात एव (*yo jāta eva*) is the first. It has fifteen Ṛks. Gṛtsamada is the ṛṣi of this sūkta; Indra is the deity; the metre is Triṣṭup. In the *saṃsava* [?] sacrifice (the Kannada word is printed so, as I read it), when the niṣkevalya-śastra mantras are recited, this sūkta यो जात एव (*yo jāta eva*) is to be recited **before** the nivid-dhānīya sūktas; this is stated in the Āśvalāyana Śrauta Sūtra, in the section beginning यदि पर्यायान् (*yadi paryāyān*), by the sūtra यो जात एवेति निष्केवल्ये (*yo jāta eveti niṣkevalye*) (Ā. 6-6). And on the third day of the *abhiplava* sacrifice, at the recitation of the niṣkevalya-śastra mantras, this sūkta यो जात एव (*yo jāta eva*) is to be recited as the nivid-dhānīya sūkta; this is stated by the Āśvalāyana Śrauta Sūtra तृतीयस्य त्र्यर्यमा यो जात एवेति मध्यंदिनः (*tṛtīyasya tryaryamā yo jāta eveti madhyaṃdinaḥ*) (Ā. 7-7). And in the *viśvajit* sacrifice, at the midday pressing, when the Maitrāvaruṇa recites his śastra, यो जात एव (*yo jāta eva*) is to be recited as a sāma-sūkta before those mantras; this is stated by the Āśvalāyana Śrauta Sūtra in the section विश्वजितोऽग्निं नर (*viśvajito 'gniṃ nara*), by the sūtra सत्रा मदासो यो जात एवाभूरेक इति सामसूक्तानि (*satrā madāso yo jāta evābhūreka iti sāmasūktāni*) (Ā. 8-7). And at the recitation of the niṣkevalya-śastra mantras connected with the praise of Agni, this sūkta is to be recited as a nivid sūkta; this is stated by the Āśvalāyana Śrauta Sūtra in the section शैनाजिराभ्यां (*śainājirābhyāṃ*), by the sūtra तिष्ठा हरी इति यो जात एवेति मध्यंदिनः (*tiṣṭhā harī iti yo jāta eveti madhyaṃdinaḥ*) (Ā. 9-7). In the sacrifice called *mahāvrata* too, for the recitation of the niṣkevalya-śastra mantras, this sūkta यो जात एव (*yo jāta eva*) is to be recited; this is said in the Aitareya Āraṇyaka, in the section ऊरू (*ūrū*), in the sentence वने न वा यो न्यधायि चाकन् यो जात एव प्रथमो मनस्वान् (*vane na vā yo nyadhāyi cākan yo jāta eva prathamo manasvān*) (Ai. Ā. 5-3-1).
+
+*(Reference numerals 6-6, 7-7, 8-7, 9-7, 5-3-1 read from the strip, unzoomed; the file for this page agrees with all of them.)*
+
+In the book called Bṛhaddevatā there is an itihāsa on the subject of this sūkta—
+
+> संयुज्य तपसात्मानमैन्द्रं बिभ्रन्महद्वपुः ।
+> अदृश्यत मुहूर्तेन दिवि च व्योम्नि चेह च ॥
+> तमिन्द्र इति मत्वा तु दैत्यौ भीमपराक्रमौ ।
+> धुनिश्च चुमुरिश्चोभौ सायुधावभिसेततुः ॥
+> विदित्वा स तयोर्भावमृषिः पापं चिकीर्षतोः ।
+> यो जात इति सूक्तेन कर्माण्यैन्द्राण्यकीर्तयत् ॥
+
+> *saṃyujya tapasātmānamaindraṃ bibhranmahadvapuḥ |*
+> *adṛśyata muhūrtena divi ca vyomni ceha ca ‖*
+> *tamindra iti matvā tu daityau bhīmaparākramau |*
+> *dhuniśca cumuriścobhau sāyudhāvabhisetatuḥ ‖*
+> *viditvā sa tayorbhāvamṛṣiḥ pāpaṃ cikīrṣatoḥ |*
+> *yo jāta iti sūktena karmāṇyaindrāṇyakīrtayat ‖*
+
+*(Printed without a reference number. The last word of the third line of the Kannada print reads "ಸೇತತುಃ"; I write अभिसेततुः as read.)*
+
+Once upon a time the ṛṣi Gṛtsamada, the seer of this sūkta, performed tapas, and by its power took on the great form of Indra, and for the space of a *muhūrta* he was moving about, unseen by the eye, in the regions where Indra dwells — the middle region (*antarikṣa*), heaven (*svarga*) and the rest. Then the two daityas named Dhuni and Cumuri, of great valour, thinking the ṛṣi Gṛtsamada himself to be Indra, [the print goes on to the next page]…
+
+---
+
+### Printed p. 643 (PDF 665)
+
+*(Header: "A. 2 A. 6 V. 7 ]" as it looks, "Ṛgvedasaṃhitā", "643"; header numerals not zoomed.)*
+
+…came rushing after the ṛṣi, flashing their weapons, in order to kill him. Gṛtsamada, who was in Indra's form, understood the evil intention of these daityas, and with this sūkta, which is the present subject, beginning यो जात एव (*yo jāta eva*), described Indra's deeds of daring and praised him; thus it is said. Besides this—
+
+> अन्ये त्वन्यथा वर्णयन्ति । पुरा किलेन्द्रादयो वैन्ययज्ञं समाजग्मुः । गृत्समदोऽपि तत्रागत्य सदस्यासीत् । दैत्याश्चेन्द्रजिघांसया तत्र समागमन् । तान् दृष्ट्वा निर्जगामेन्द्रो यज्ञाद्गृत्समदाकृतिः । स च गृत्समदो वैन्येन पूजितो यज्ञवाटान्निरगच्छत् । निर्गच्छन्तं तमृषिं दृष्ट्वा अयमेवेन्द्र इति मन्यमानास्तमसुराः परिवव्रुः । नाहमिन्द्रस्तुच्छः किन्त्वेवंगुणोपेत स इत्यनेन सूक्तेन तान्प्रत्युवाच ॥
+
+> *anye tvanyathā varṇayanti | purā kilendrādayo vainyayajñaṃ samājagmuḥ | gṛtsamado 'pi tatrāgatya sadasyāsīt | daityāścendrajighāṃsayā tatra samāgaman | tān dṛṣṭvā nirjagāmendro yajñādgṛtsamadākṛtiḥ | sa ca gṛtsamado vainyena pūjito yajñavāṭānniragacchat | nirgacchantaṃ tamṛṣiṃ dṛṣṭvā ayamevendra iti manyamānāstamasurāḥ parivavruḥ | nāhamindrastucchaḥ kintvevaṃguṇopeta sa ityanena sūktena tānpratyuvāca ‖*
+
+*(No reference printed. Printed "किन्त्वेवंगुणोपेत" without visarga, as I read; the bhāṣya on p. 641 has "उपेतः". The word "वैन्य" before "यज्ञं" is as in the bhāṣya.)*
+
+Now some tell it in another way — In the past, the devatās beginning with Indra had come to the sacrifice performed by Vena [the first occurrence in the print looks like "ವೇಸ…", later ones "ವೇನ"; I write Vena]. The ṛṣi Gṛtsamada also came there and was sitting. Then the daityas came there, wishing to kill Indra. Indra, understanding this trick, took the guise of Gṛtsamada and left the sacrificial ground and went away. But the ṛṣi Gṛtsamada remained there until the completion of Vena's sacrifice, and, honoured by Vena, was setting out for his hermitage. As he was going to his hermitage, the daityas saw the ṛṣi, thought "Indra himself is going, taking the form of the ṛṣi", and surrounded him. Then Gṛtsamada said to those daityas: "I am not that Indra; the qualities of that insignificant Indra are like this"; describing in every Ṛk one quality of Indra, he pacified them, saying "O daitya people, the one who has such qualities is that Indra, not I", and went away to his hermitage—
+
+> अपरे त्वेवं कथयन्ति । गृत्समदस्य यज्ञे प्रविष्टमेकाकिनमिन्द्रं ज्ञात्वासुराः परिवव्रुः । स इन्द्रो गृत्समदरूपेण यज्ञवाटान्निर्गत्य स्वर्गं जगाम । ततोऽसुरा इन्द्रो विलम्बित इत्यन्तः प्रविश्य गृत्समदं दृष्ट्वा पूर्वमेव गृत्समदो गतः अयं त्विन्द्रोऽस्मद्भयाद्गृत्समदरूपेणास्ते इति तं जग्रहुः । स तान् नाहमिन्द्रोऽयमित्यनेन सूक्तेन प्रत्युवाच । अयमेवार्थो महाभारते प्रपञ्चितः ॥
+
+> *apare tvevaṃ kathayanti | gṛtsamadasya yajñe praviṣṭamekākinamindraṃ jñātvāsurāḥ parivavruḥ | sa indro gṛtsamadarūpeṇa yajñavāṭānnirgatya svargaṃ jagāma | tato 'surā indro vilambita ityantaḥ praviśya gṛtsamadaṃ dṛṣṭvā pūrvameva gṛtsamado gataḥ ayaṃ tvindro 'smadbhayādgṛtsamadarūpeṇāste iti taṃ jagrahuḥ | sa tān nāhamindro 'yamityanena sūktena pratyuvāca | ayamevārtho mahābhārate prapañcitaḥ ‖*
+
+*(No reference printed; the text agrees with the bhāṣya on p. 641. In "नाहमिन्द्रोऽयमित्यनेन" the strip is clear.)*
+
+Still others say thus — The ṛṣi Gṛtsamada was once performing a sacrifice. Then Indra came in there alone; the asuras, knowing that he had entered, surrounded the sacrificial house. Meanwhile Indra, knowing this, took the form of the ṛṣi Gṛtsamada, went out of the sacrificial house and reached svarga, his place of residence. Afterwards the asuras waited and watched for a long time, but as Indra did not come out, they entered the sacrificial house, saw Gṛtsamada who was sitting there, and [said], "What is this?" [the Kannada print breaks off at "ಇದೇನು ?" at the foot of p. 643; it continues on p. 644].
+
+---
+
+**Progress note:** Done through printed p. 643 (PDF 665). Sūkta 11 ended on p. 640; p. 641 prints no grammar note or colophon for it and opens straight with the heading of Sūkta 12 (second anuvāka, 15 Ṛks, Gṛtsamada, Indra, Triṣṭubh). The bhāṣya introduction (Śrauta-sūtra uses, the itihāsa from the Bṛhaddevatā and the two further variants) and the Kannada anuvāda of it are written; Ṛk 1 is not yet begun. The Kannada narrative of the third variant is cut off at "ಇದೇನು ?" at the foot of p. 643 and continues on p. 644: the next batch resumes there (the asuras seeing Gṛtsamada), then probably Ṛk 1. Flags: FILE DISAGREE: p. 641 Ā. 8-7 (file "8.73", noise; p. 642 file agrees with my reading); p. 641 Ā. 7-7 (file "2-2", garbled; p. 642 file says 7-7); p. 641 Ā. 6-6 not in the file for that page, agrees with p. 642. Unzoomed numerals: running headers on pp. 641–643 (the varga numeral "7" on pp. 641/643 and "Sū. 12" on p. 642 read from the strip), all sūtra numbers. [?] places: "संसव" (Kannada "ಸಂಸವ…" as read), the first "ವೇನ…" of p. 643 (printed like "ವೇಸ"), "किन्त्वेवंगुणोपेत" and "अभिसेततुः" as read.
