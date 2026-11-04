@@ -22618,4 +22618,133 @@ In Ṛks like these the word घृत (*ghṛta*) is explained as "water". In t
 
 ---
 
-**Progress note:** Done through printed p. 598 (PDF 620). Sūkta 11: Ṛk 6 is complete on p. 596 (Bhāvārtha, printed English, Special Topics on sūryasya, ketū, harī). Ṛk 7 is complete on pp. 596–597 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics on ghṛtaścutam with Ṛgveda 1-164-47; the Special Topics on ghṛta-ścutam end on p. 598 and the one on parvataḥ follows). Ṛk 8 is begun on p. 598: Saṃhitā, Pada, bhāṣya, and the Pratipadārtha through मातृभिः. OPEN: the rest of the Pratipadārtha of Ṛk 8 (from "अद्भिः/with waters" onward), the Bhāvārtha, printed English and Special Topics follow on p. 599. Flags: no FILE DISAGREE (Nirukta 3-13, 2-28, 2-2, 2-24, 1-20, 2-21 and RV 1-164-47 all agree with the file). Unzoomed numerals: running headers on pp. 596–598 (including the varga numeral ४ on p. 597), the Ṛk numbers ७ and ८, and the Ṛk 8 Saṃhitā number, which is not seen on the strip. [?] places: रोहितोऽग्नेः as printed; व्यप्रथिष्ट (थ/त); the tense name ಲಜಃ/ಲುಜಃ read लुङ् (three places); अणः (अर्णः?); नैगमोभ्यो as printed; पर्वति; the Pada word पप्रथन्; and compound marks in the Pada.
+### Printed p. 599 (PDF 621)
+
+*(Header: "A. 2 A. 6 V. 4]", "Ṛgvedasaṃhitā", "599". The header numerals are unzoomed. The Pratipadārtha of Ṛk 8 continues from p. 598.)*
+
+**Pratipadārtha (continued)**
+
+- संवावशानः (*saṃvāvaśānaḥ*)—together, making sound;
+- अक्रान् (*akrān*)—moved about all around;
+- दूरे पारे (*dūre pāre*)—situated in the sky at a very great distance;
+- वाणीं (*vāṇīṃ*)—the middle-region speech (*mādhyamikā vāk*);
+- वर्धयन्तः (*vardhayantaḥ*)—the Maruts or the singers, who make it grow long;
+- इन्द्रेषितां (*indreṣitāṃ*)—sent by Indra;
+- धमनिं (*dhamaniṃ*)—that speech, of the nature of sound;
+- नि पप्रथन् (*ni paprathan*)—they manifested it greatly and increased it.
+
+**Bhāvārtha**
+
+The cloud, with a mind free from negligence, is stationed in the sky, and together with the middle-region speeches it moved about all around, making sound. The Maruts, or the singers, who make that middle-region speech, situated in the sky at a very great distance, grow long, manifested that speech, which is sent by Indra and is of the nature of sound, and increased it greatly.
+
+**English Translation (as printed)**
+
+The cloud, not heedless(of its office), is suspended(in the sky); resonant with maternal (waters), it has spread about ; (the winds), augmenting the sound in the distant horizon, have promulgated the voice uttered by Indra.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**नि पर्वतः सादि अप्रयुच्छन् (*ni parvataḥ sādi aprayucchan*)**—Here too the word पर्वत (*parvata*) means "cloud". Although the cloud is not negligent in calling forth rain and stays attentive, it did not pour out rain but sat quietly, that is, it floated in the sky; this is the idea.
+
+**सं मातृभिः वावशानः अक्रान् (*saṃ mātṛbhiḥ vāvaśānaḥ akrān*)**—The bhāṣya explains: मातृभिरद्भिर्माध्यमिकाभिर्वाग्भिर्वा संवावशानः सह शब्दं कुर्वाणोऽक्रान् । अक्रमीत् । इतस्ततः संचारमकरोत् । (*mātṛbhiradbhirmādhyamikābhirvāgbhirvā saṃvāvaśānaḥ saha śabdaṃ kurvāṇo 'krān | akramīt | itastataḥ saṃcāramakarot |*) Here, although the word मातृ (*mātṛ*) is stated among the names of rivers (Nirukta 2-24, agrees with the numeral file), the bhāṣyakāra has given the meaning अद्भिः (*adbhiḥ*), "with waters"; or माध्यमिका वाग्भिः (*mādhyamikā vāgbhiḥ*) means "by the sound of the form of the thunderbolt (*śiḍilu*) and thunder (*guḍugu*)". Yāska gives the explanation of the words माध्यमिका वाक् (*mādhyamikā vāk*) (Nirukta 11-27, agrees with the numeral file; the abbreviation before the number looks like ಸಿ and is read as ನಿ, Nirukta, from the context, unzoomed):
+
+> वागर्थेषु विधीयते तस्मान्माध्यमिकां वाचं मन्यन्ते
+
+> *vāgartheṣu vidhīyate tasmānmādhyamikāṃ vācaṃ manyante*
+
+And, he says, in explaining the Ṛk
+
+> यद्वाग्वदन्त्यविचेतनानि राष्ट्री देवानां निषसाद मन्द्रा ।
+> चतस्र ऊर्जं दुदुहे पयांसि क्व स्विदस्याः परमं जगाम ॥
+
+> *yadvāgvadantyavicetanāni rāṣṭrī devānāṃ niṣasāda mandrā |*
+> *catasra ūrjaṃ duduhe payāṃsi kva svidasyāḥ paramaṃ jagāma ‖*
+
+*(Source printed after it: ऋ. सं. (*ṛ. saṃ.*) 8-100-10, agrees with the numeral file. Gloss, mine and tentative: "When Vāc speaks things without understanding, the gladdening queen of the gods sat down; she milked out four nourishments (streams of milk); where has the highest of her gone?")*
+
+he says:
+
+> माध्यमिका वाग्वदन्ती निर्वचेयन्ती [?] अविचेतनानि अविज्ञातार्थानि शब्दरूपाणि स्तनयित्नुलक्षणानि यो [?] माध्यमिकानां देवतानाम् ।
+
+> *mādhyamikā vāgvadantī nirvaceyantī [?] avicetanāni avijñātārthāni śabdarūpāṇi stanayitnulakṣaṇāni yo [?] mādhyamikānāṃ devatānām |*
+
+*(Gist, mine and tentative: the middle-region speech, with its unrecognizable, sound-like forms having the mark of thunder, belongs to the deities of the middle region. Doubtful, unzoomed: the word निर्वचेयन्ती is printed ನಿರ್ವಚೆಯಂತೀ; and यो (possibly या). The passage continues on p. 600.)*
+
+---
+
+### Printed p. 600 (PDF 622)
+
+*(Header: "600", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11". The header numerals are unzoomed.)*
+
+That is, the speech of the deities situated in the sky is the middle-region speech (*mādhyamikā vāk*). The meaning of that speech is not known clearly, and it is of the form of the roar of the cloud: this is the idea that he has indicated. For the words मातृभिः सं वावशानः (*mātṛbhiḥ saṃ vāvaśānaḥ*) in the Ṛk in hand, the main idea is that the clouds in the sky, mingled with waters or with the sound of the cloud, keep moving about hither and thither in the sky itself (because they are struck by the wind).
+
+**दूरे पारे वाणीं वर्धयन्तः इन्द्रेषितां धमनि पप्रथन् नि (*dūre pāre vāṇīṃ vardhayantaḥ indreṣitāṃ dhamani paprathan ni*)**—For this sentence in the second half of the Ṛk, the bhāṣyakāra has given here two kinds of explanation: either the officiating priests (*ṛtvik*) mingle the sound of the hymns they recite with the roar of the cloud heard in the region of the sky at a very great distance; or the Marut deities (the Maruts, the violent storm-wind) join their blowing sound with the speech of Indra and make the sound grow greater. The main idea is this: when the rain (*vṛṣṭi*), together with the thunderbolt, lightning and thunder, pours down along with the wind that is blowing with great violence, the hymns and so on recited by the priests merge into the roar of the cloud heard at a very great distance; or the violent sound of the storm-wind blowing furiously merges into the roar of the cloud sent by Indra, and that sound spreads exceedingly everywhere.
+
+---
+
+**Ṛk 9**
+
+**Saṃhitā-pāṭha**
+
+> इन्द्रो महां सिन्धुमाशयानं मायाविनं वृत्रमस्फुरन्निः ।
+> अरेजेतां रोदसी भियाने कनिक्रदतो वृष्णो अस्य वज्रात् ॥
+
+**Pada-pāṭha**
+
+> इन्द्रः । महां । सिन्धुं । आऽशयानं । मायाऽविनं । वृत्रं । अस्फुरत् । निः ।
+> अरेजेतां । रोदसी इति । भियाने इति । कनिक्रदतः । वृष्णः । अस्य । वज्रात् ॥ ९ ॥
+
+> *indraḥ | mahāṃ | sindhuṃ | ā 'śayānaṃ | māyā 'vinaṃ | vṛtraṃ | asphurat | niḥ |*
+> *arejetāṃ | rodasī iti | bhiyāne iti | kanikradataḥ | vṛṣṇaḥ | asya | vajrāt ‖ 9 ‖*
+
+*(The Ṛk number ९ is read from the Pada line, unzoomed. The Saṃhitā lines show no number on this strip. In the Pada the small strokes after आ and माया are read as the compound mark (ऽ).)*
+
+**Sāyaṇa-bhāṣya**
+
+*Gist: Mighty Indra struck down Vṛtra, the deceiver lying in the cloud or water; heaven and earth, frightened by his roaring vajra, trembled.*
+
+> बलवानिन्द्रो महां सिन्धुम् । स्यन्दत इतस्ततः संचरतीति सिन्धुर्मेघः । तमाशयानं तमधिष्ठाय शयानं मायाविनं वृत्रमसुरम् । यद्वा सिन्धुरुदकम् । तदधिष्ठाय शयानं वृत्रम् । वृणोत्याकाशमिति वृत्रो मेघः । तं निरस्फुरत् । निरहन् । वृष्णो वर्षकस्यास्येन्द्रस्य कनिक्रदतः शब्दं कुर्वाणाद्वज्राद्भियाने भयं प्राप्ते रोदसी द्यावापृथिव्यावरेजेताम् । अकम्पेताम् ॥ दाधर्तिदर्धर्तीत्यादिना कनिक्रदत्यब्दो [?] निपातितः ॥
+
+> *balavānindro mahāṃ sindhum | syandata itastataḥ saṃcaratīti sindhurmeghaḥ | tamāśayānaṃ tamadhiṣṭhāya śayānaṃ māyāvinaṃ vṛtramasuram | yadvā sindhurudakam | tadadhiṣṭhāya śayānaṃ vṛtram | vṛṇotyākāśamiti vṛtro meghaḥ | taṃ nirasphurat | nirahan | vṛṣṇo varṣakasyāsyendrasya kanikradataḥ śabdaṃ kurvāṇādvajrādbhiyāne bhayaṃ prāpte rodasī dyāvāpṛthivyāvarejetām | akampetām ‖ dādhartidardhartītyādinā kanikradatyabdo [?] nipātitaḥ ‖*
+
+*(The grammatical tail says that the form कनिक्रदत् is irregularly formed by a rule beginning दाधर्ति दर्धर्ति. No sūtra number is printed. The word before निपातितः is printed ಅಬ್ದೋ; I keep it as printed [?]. It is Sanskrit and is not explained further here.)*
+
+### Printed p. 601 (PDF 623)
+
+*(Header: "A. 2 A. 6 V. 4]", "Ṛgvedasaṃhitā", "601". The header numerals are unzoomed. The bhāṣya of Ṛk 9 continues from p. 600.)*
+
+**Pratipadārtha**
+
+- इन्द्रः (*indraḥ*)—Indra;
+- महां (*mahāṃ*)—great;
+- सिन्धुं (*sindhuṃ*)—the cloud, or the water;
+- आशयानं (*āśayānaṃ*)—lying having resorted to it;
+- मायाविनं (*māyāvinaṃ*)—the deceiver;
+- वृत्रं (*vṛtraṃ*)—the asura;
+- निः अस्फुरत् (*niḥ asphurat*)—he destroyed completely;
+- वृष्णः (*vṛṣṇaḥ*)—of the showerer;
+- अस्य (*asya*)—of this Indra;
+- कनिक्रदतः (*kanikradataḥ*)—that makes sound;
+- वज्रात् (*vajrāt*)—from the vajra weapon;
+- भियाने (*bhiyāne*)—when fear was attained;
+- रोदसी (*rodasī*)—both heaven and earth;
+- अरेजेतां (*arejetāṃ*)—trembled.
+
+**Bhāvārtha**
+
+Indra completely destroyed the deceiver, the asura who lay having resorted to the great cloud. When fear was attained by the sound of the vajra weapon of this showerer Indra, heaven and earth both trembled.
+
+**English Translation (as printed)**
+
+The mighty Indra has shattered the guileful Vritra, reposing in the cloud: heaven and earth shook, alarmed at the thundering bolt of the showerer.
+
+**Special Topics (Viśeṣaviṣayagaḷu)**
+
+**सिन्धुं (*sindhuṃ*)**—स्यन्दते इतस्ततः संचरतीति सिन्धुर्मेघः । (*syandate itastataḥ saṃcaratīti sindhurmeghaḥ |*) Because the wind strikes it in the sky, it has the nature of moving hither and thither; therefore सिन्धु (*sindhu*) means the cloud. Here the word सिन्धु (*sindhu*) has the meaning "mass of water"; because it moves in the sky, or because the mass of water that moves in the sky is the cloud, such is the meaning.
+
+**वृत्रं (*vṛtraṃ*)**—The word वृत्र (*vṛtra*) is read among the names of cloud (Nirukta 2-21, agrees with the numeral file). वृणोत्याकाशमिति वृत्रो मेघः । (*vṛṇotyākāśamiti vṛtro meghaḥ |*) Because it has the nature of covering the whole sky, the mass of water in the sky is called वृत्र (*vṛtra*), that is, the cloud.
+
+**मायाविनं (*māyāvinaṃ*)**—It is well known that asuras are māyāvins. Māyāvins means those who carry out war and so on by tantra (stratagem) or deceit, that is, deceivers. That Indra destroyed such enemies by tantra, devices (*upāya*), deceit and the like is described in many places in the Ṛgveda.
+
+---
+
+**Progress note:** Done through printed p. 601 (PDF 623). Sūkta 11: Ṛk 8 is complete on pp. 599–600 (Pratipadārtha end, Bhāvārtha, printed English, Special Topics on nī parvataḥ, saṃ mātṛbhiḥ with Nirukta 2-24, 11-27 and RV 8-100-10, and dūre pāre). Ṛk 9 is complete through its Special Topics on sindhuṃ, vṛtraṃ (Nirukta 2-21) and māyāvinam on p. 601: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English. The print ends at the foot of p. 601 with the māyāvinam passage ending "varṇitavāgide"; any further Special Topics of Ṛk 9 (and Ṛk 10) would follow on p. 602, so Ṛk 9 is left open for that reason. Flags: no FILE DISAGREE (2-24, 11-27, 8-100-10, 2-21 all agree with the file). Unzoomed: running headers on pp. 599–601, the Ṛk number ९ (from the Pada line; none seen after the Saṃhitā). [?] places: निर्वचेयन्ती and यो in the Yāska-based passage on p. 599; कनिक्रदत्यब्दो in the grammatical tail of Ṛk 9; the Nirukta abbreviation before 11-27 (ಸಿ/ನಿ).
