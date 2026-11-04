@@ -48,8 +48,8 @@ SYS = """You compare a line of Sanskrit (Devanagari) from a transcription with a
 The transcription has doubtful readings marked [?] (a word or a character the transcriber could not read).
 The reference is noisy OCR in romanization: wrong letters, wrong word breaks, garbled words are common, so it is
 only a hint. Propose a replacement for a [?] ONLY if the reference text clearly supports it; otherwise say none.
-Never complete a word from your own memory of the passage. Answer with JSON only:
-{"items":[{"n":1,"context":"words around the [?]","proposal":"Devanagari or null","reference_reading":"quote from the reference or null",
+Never complete a word from your own memory of the passage. status: replace = the reference clearly gives the missing/corrected reading (give the whole corrected word incl. sandhi, one proposal per word, not per character); confirmed = the reference reads the same word the line has, so the [?] looks unnecessary; unsupported = the reference is silent or garbled; contradicted = the reference clearly differs from the line. Numerals (sutra numbers) in the reference OCR are very unreliable: do not replace a numeral unless the reference digits are unmistakable. Answer with JSON only:
+{"items":[{"n":1,"context":"words around the [?]","status":"replace|confirmed|unsupported|contradicted","proposal":"Devanagari or null","reference_reading":"quote from the reference or null",
  "confidence":"high|medium|low|none","note":"short"}],
  "other_differences":["short notes on words where the line and the reference disagree, if any"],
  "aligned":true|false}
