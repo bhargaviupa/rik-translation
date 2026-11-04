@@ -24139,4 +24139,172 @@ In the matters stated above, the account of Indra's killing Viśvarūpa, the bra
 
 ---
 
-**Progress note:** Done through printed p. 631 (PDF 653). Sūkta 11, Ṛk 19 is CLOSED (its Special Topics ended on p. 631 with the Earth/trees/women boons of the Taittirīya passage and the remark on the Veda–Purāṇa difference). Ṛk 20 is OPEN: only its Saṃhitā and Pada (numbered ॥ 20 ॥ as printed) are written; the Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha, printed English and Special Topics follow on p. 632. Flags: FILE DISAGREE / unsure: the printed reference after "ತೈ. ಸಂ. ೨-೫-೧-೧ ರಿಂದ" on p. 630 was read as 7 (flat-footed glyph) where the file reads 2 [?], unzoomed. Unzoomed: running headers (Maṃ. 2, A. 1, Sū. 11; A. 2 A. 6 V. 6), the Ṛk number 20. [?] places: p. 629 "ಆಲಾಗಾಯಿತು" (sense) and प्रत्यगृह्णन्त्स (word-end) and प्रत्यगृह्णन्त्स्ना; p. 630 the hooked ya/ma forms in the long Taittirīya quotation (यामरण्ये, याभ्यंक्ते, यांक्ते, ह्रीतमख्यपगल्भो) ; p. 631 "ಜ್ಜಿಕೋಳ್ಳುವ" and the omitted "ಗೆ ಹುಟ್ಟುವ" in the printed text. The Vedic ग्ं sign is written ꣳ; no English was printed on these pages.
+### Printed p. 632 (PDF 654)
+
+*(Header: "632", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 11"; header numerals not zoomed. The numeral file has no rows for this page. Ṛk 20 continues from p. 631.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Strengthened by Trita's Soma, Indra killed Arbuda; with the Aṅgirases he whirled his vajra like the sun's wheel and split Vala.*
+
+*(Grammatical tail, noted only: on अस्तः (*astaḥ*), a verb in the sense of "to strike down" in the imperfect, 3rd singular, with the Vedic elision of the vikaraṇa, guṇa, and loss of the ending -ti by a hal-… rule; on सूर्यः (*sūryaḥ*), the substitution of su for the genitive singular under "supāṃ sulug…". No sūtra numbers are printed. Doubtful readings are marked [?].)*
+
+> मन्दिनोऽस्य मदकरमिमं सुवानस्य सुतवतस्त्रितस्य तीर्णनमस्कस्य [?] महर्षेरर्थं वावृधानः सोमेन वर्धमान इन्द्रोऽर्बुदं ।
+> अम्बूनि ददाति [?] इत्यर्बुदो मेघः । अनुस्वारस्य रेफश्छान्दसः । यद्वा नाम्नैतत् । अर्बुदाख्यमसुरं न्यस्तः ॥
+> स्तृ [?] हिंसायामित्यस्य लङि तिपि बहुलं छन्दसीति विकरणस्य लुक् । गुणे कृते हल्ङ्यादिना तिलोपः ॥ नितरामवधीत् ।
+> महान्तं चिदर्बुदं नि क्रमीः पदा । (१-५१-६) ॥ इत्यादिष्वर्बुदवधः स्पष्टमुक्तः ।
+> किंच अङ्गिरस्वान् अङ्गिरोभिः सहित इन्द्रोऽवर्तयत् । असुरहननार्थं वज्रमभ्रामयत् । सूर्यो न । यथा सूर्यश्चक्रं भ्रामयति तद्वत् ।
+> यद्वा यस्मादसुराद्भिया सूर्यः स्वकीयं रथचक्रं नावर्तयत् । निषेधार्थीयोऽत्र नकारः । वर्तयितुं नाशकत् ।
+> तं वलं पणीनां प्रभुमसुरं भिनत् । वज्रेणाभिनत् ।
+> यद्वा द्विचक्रो हि पूर्वं सूर्यस्य रथः । तस्यैकं चक्रमिन्द्रेणापहृतम् । सूर्य इति सुपां सुलुगिति षष्ठ्येकवचनस्य सुः ।
+> सूर्यस्य सम्बन्ध्यपहृतं तदेकं चक्रमवर्तयत् । रक्षोहननार्थमभ्रामयत् । तेन चक्रेण वलमभिनच्च । नश्चार्थे ॥
+
+> *mandino 'sya madakaramimaṃ suvānasya sutavatastritasya tīrṇanamaskasya [?] maharṣerarthaṃ vāvṛdhānaḥ somena vardhamāna indro 'rbudaṃ |*
+> *ambūni dadāti [?] ityarbudo meghaḥ | anusvārasya rephaśchāndasaḥ | yadvā nāmnaitat | arbudākhyamasuraṃ nyastaḥ ‖*
+> *stṛ [?] hiṃsāyāmityasya laṅi tipi bahulaṃ chandasīti vikaraṇasya luk | guṇe kṛte halṅyādinā tilopaḥ ‖ nitarāmavadhīt |*
+> *mahāntaṃ cidarbudaṃ ni kramīḥ padā | (1-51-6) ‖ ityādiṣvarbudavadhaḥ spaṣṭamuktaḥ |*
+> *kiṃca aṅgirasvān aṅgirobhiḥ sahita indro 'vartayat | asurahananārthaṃ vajramabhrāmayat | sūryo na | yathā sūryaścakraṃ bhrāmayati tadvat |*
+> *yadvā yasmādasurādbhiyā sūryaḥ svakīyaṃ rathacakraṃ nāvartayat | niṣedhārthīyo 'tra nakāraḥ | vartayituṃ nāśakat |*
+> *taṃ valaṃ paṇīnāṃ prabhumasuraṃ bhinat | vajreṇābhinat |*
+> *yadvā dvicakro hi pūrvaṃ sūryasya rathaḥ | tasyaikaṃ cakramindreṇāpahṛtam | sūrya iti supāṃ sulugiti ṣaṣṭhyekavacanasya suḥ |*
+> *sūryasya sambandhyapahṛtaṃ tadekaṃ cakramavartayat | rakṣohananārthamabhrāmayat | tena cakreṇa valamabhinacca | naścārthe ‖*
+
+*(Printed reference inside the bhāṣya: "१-५१-६", read 1-51-6; the numeral file has no row for this page; unzoomed, it agrees with the same verse cited on p. 633. The two forms of the Kannada text of "अम्बूनि ददाति" are discussed under the doubts: the first letter of the verb is printed like "ಪ", whereas p. 633 prints "ददाति".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मन्दिनः (*mandinaḥ*)—intoxicating (producing exhilaration) | अस्य (*asya*)—this Soma-juice | सुवानस्य (*suvānasya*)—that is pressed | त्रितस्य (*tritasya*)—for the sake of the ṛṣi called Trita | वावृधानः (*vāvṛdhānaḥ*)—(by drinking the Soma-juice) having grown, (you) | अर्बुदं (*arbudaṃ*)—the cloud, or the asura called Arbuda | न्यस्तः (*nyastaḥ*)—have destroyed completely | सूर्यो न चक्रं (*sūryo na cakraṃ*)—as the sun turns his wheel | अङ्गिरस्वान् (*aṅgirasvān*)—joined with the ṛṣis called Aṅgiras | इन्द्रः (*indraḥ*)—Indra | अवर्तयत् (*avartayat*)—turned the vajra weapon | वलं (*valaṃ*)—the asura called Vala, the lord of the Paṇis | भिनत् (*bhinat*)—split (cut) asunder.
+
+**भावार्थ (Bhāvārtha)**
+
+You who have grown by drinking the intoxicating Soma-juice pressed for the ṛṣi Trita have slain the asura called Arbuda. As the sun turns his wheel, Indra, together with the ṛṣis called Aṅgiras, whirled his vajra weapon, and split asunder the asura called Vala, the lord of the Paṇis.
+
+**English Translation** *(as printed)*
+
+Invigorated (by the libation) of the exulting Trita, offering you the Soma, you have annihilated Arbuda: Indra aided by the Angirasas, has whirled round his bolt, as the sun turns round his wheel, and slain Vala.
+
+*(In the scan the "d" of "Indra" in the printed English is damaged and reads "In lra"; the word is Indra.)*
+
+---
+
+### Printed p. 633 (PDF 655)
+
+*(Header: "A. 2 A. 6 V. 6]" as it looks, "Ṛgvedasaṃhitā", "633"; header numerals not zoomed. The numeral file has seven rows for this page; see the notes at the references.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**अर्बुदं** (*arbudaṃ*)—the commentator's words, in bold:
+
+> अर्बुदं । अम्बूनि ददातीत्यर्बुदो मेघः । यद्वा नाम्नैतत् । अर्बुदाख्यमसुरं ।
+
+> *arbudaṃ | ambūni dadātītyarbudo meghaḥ | yadvā nāmnaitat | arbudākhyamasuraṃ |*
+
+Because it gives water (because it pours down water in the form of rain), the cloud is called Arbuda. Or, Arbuda is the name of a certain rākṣasa: thus the commentator has given two kinds of meaning. Yāska, for the word arbuda, has said—
+
+> अर्बुदो मेघो भवति । अरणमम्बु तद्दोऽम्बुदः । अम्बुमद्भातीति [?] वा । अम्बुमद्भवतीति [?] वा । स यथा महान् बहुर्भवति वर्षंस्तदिवार्बुदम् ॥
+
+> *arbudo megho bhavati | araṇamambu taddo 'mbudaḥ | ambumadbhātīti [?] vā | ambumadbhavatīti [?] vā | sa yathā mahān bahurbhavati varṣaṃstadivārbudam ‖*
+
+(नि. ३-१०)
+
+*(Printed "(ನಿ. ೩-೧೦)" = Nir. 3-10; the file agrees. Gloss (mine and tentative): "Arbuda is the cloud. Araṇa is water; that which gives it is ambuda. Or, it shines with water; or, it comes to be with water. As a great one becomes much when it rains, so is arbuda." The two "or" clauses are not explained in the Kannada; their words are marked [?].)*
+
+Thus he has given the etymology. Arbuda means the cloud: **अरणं** (*araṇaṃ*)—that which has the nature of going (araṇa-śīla, gamana-śīla); **अम्बु** (*ambu*), because it has the nature of flowing, is called araṇa or ambu, that is, water. **तद्दः** (*taddaḥ*)—from giving that (water), it is ambudaḥ or arbudaḥ; that is, the meaning is the cloud. It is well known that the cloud, when it rains, pours water in abundance. As that water is abundant, so the word arbudaḥ, which denotes the cloud, is also a word of number meaning "many" (greater). This is the explanation of the word arbuda; as a numeral, arbuda means a hundred crores (a thousand million). In the present context this meaning is not needed.
+
+When the word arbuda has the meaning of an asura of this name—
+
+> महान्तं चिदर्बुदं नि क्रमीः पदा सनादेव दस्युहत्याय जज्ञिषे ।
+
+> *mahāntaṃ cidarbudaṃ ni kramīḥ padā sanādeva dasyuhatyāya jajñiṣe |*
+
+(ऋ. सं. १-५१-६)
+
+*(Printed "(ಋ. ಸಂ. ೧-೫೧-೬)", 1-51-6; the file agrees. Gloss (mine and tentative): "Even the great Arbuda you trampled down with your foot; from of old you were born for the slaying of the Dasyus.")*
+
+> यो अर्बुदमव नीचा बबाधे तमिन्द्रं सोमस्य भृथे हिनोत ।
+
+> *yo arbudamava nīcā babādhe tamindraṃ somasya bhṛthe hinota |*
+
+(ऋ. सं. २-१४-४)
+
+*(Printed "(ಋ. ಸಂ. ೨-೧೪-೪)", 2-14-4; the file agrees. Gloss (mine and tentative): "He who pressed Arbuda down below: impel that Indra at the bearing (offering) of the Soma.")*
+
+> अहन् वृत्रमृचीषमम् [?] और्णवाभमहीशुवम् । हिमेनाविध्यदर्बुदम् ।
+
+> *ahan vṛtramṛcīṣamam [?] aurṇavābhamahīśuvam | himenāvidhyadarbudam |*
+
+(ऋ. सं. ८-३२-२६)
+
+*(Printed "(ಋ. ಸಂ. ಲ-೩೨-೨೬)", read 8-32-26 from the strip, not zoomed. FILE DISAGREE: the file gives "8.3.22-26", which I take to be a mis-grouping of the same digits. The word ऋचीषमम् (*ṛcīṣamam*) is printed ending in the hooked ma without a clear anusvāra; the ending is doubtful [?]. Gloss (mine and tentative): "He slew Vṛtra, Ṛcīṣama, Aurṇavābha, Ahīśuva (as names); with ice (snow) he pierced Arbuda.")*
+
+> निरर्बुदस्य मृगयस्य मायिनो निः पर्वतस्य गा आजः ।
+
+> *nirarbudasya mṛgayasya māyino niḥ parvatasya gā ājaḥ |*
+
+(ऋ. सं. ८-३-१९)
+
+*(Printed "(ಋ. ಸಂ: ಲ-೩-೧೯)" = 8-3-19; the file agrees. Gloss (mine and tentative): "From Arbuda, the hunter, the deceiver, you drove out the cows, out of the mountain.")*
+
+> न्यर्बुदस्य [?] विष्टपं वर्ष्माणं बृहतस्तिर । कृषे तदिन्द्र पौंस्यम् ॥
+
+> *nyarbudasya [?] viṣṭapaṃ varṣmāṇaṃ bṛhatastira | kṛṣe tadindra pauṃsyam ‖*
+
+(ऋ. सं. ८-३२-३)
+
+*(Printed "(ಋ. ಸಂ. ಲ-೩೨-೩)" = 8-32-3; the file agrees. The first letter of the first word is unclear in the strip, between न्य, स्य and सै; न्यर्बुदस्य (*nyarbudasya*) is the nearest reading [?]. Gloss (mine and tentative, uncertain): "…of Arbuda the (lofty) surface, the body, of the great one you laid low; this manly deed, Indra, you do.")*
+
+> इन्द्रो मह्ना महतो अर्णवस्य वि मूर्धानमभिनदर्बुदस्य ।
+
+> *indro mahnā mahato arṇavasya vi mūrdhānamabhinadarbudasya |*
+
+(ऋ. सं. १०-६७-१२)
+
+*(Printed "(ಋ. ಸಂ. ೧೦-೬೭-೧೨)", 10-67-12; the file agrees. Gloss (mine and tentative): "Indra by his greatness split the head of Arbuda, of the great flood (ocean).")*
+
+---
+
+### Printed p. 634 (PDF 656)
+
+*(Header: "634", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2. A. 1. Sū. 11"; header numerals not zoomed. Ṛk 20, Special Topics, continues.)*
+
+In these Ṛks there are descriptions that Indra killed the asura called Arbuda. But in the Ṛgveda the name of Arbuda is stated only in the Ṛks pointed out above, so there are no sources from which more can be learned about him.
+
+The word arbuda has, besides the meaning of an asura, also the meaning of a ṛṣi. In the Aitareya Brāhmaṇa (Ai. Brā. 26-1) it is said—
+
+> अर्बुदनामकः काद्रवेयः कश्चिदृषिः ।
+
+> *arbudanāmakaḥ kādraveyaḥ kaścidṛṣiḥ |*
+
+*(Printed "(ಐ. ಬ್ರಾ. ೨೬-೧)" = Ai. Brā. 26-1; the file agrees; unzoomed.)* That is, a certain ṛṣi belonging to the serpent race, born of the woman called Kadru. A story is told that this ṛṣi performed the work of a ṛtvij (priest) called grāvastut (grāva means the stone that crushes the Soma-creeper; the ṛtvij who praises it with mantras in the sacrifice at the time of the Soma-pressing is called grāvastut), one among the class of hotṛ priests. That matter is not relevant here, so it will be explained in the proper context.
+
+**अवर्तयत् सूर्यः न चक्रं** (*avartayat sūryaḥ na cakraṃ*; "सूर्यः" as printed in the headword)—here:
+
+> असुरहननार्थं वज्रमभ्रामयत् । सूर्यो न । यथा सूर्यश्चक्रं भ्रामयति तद्वत् ।
+
+> *asurahananārthaṃ vajramabhrāmayat | sūryo na | yathā sūryaścakraṃ bhrāmayati tadvat |*
+
+That is: Indra, for the slaying of the asura, whirled his vajra weapon as the sun turns his wheel; or the sense given is that he whirled it and struck. Here the word na is used in the sense of comparison. Or, he says:
+
+> यद्वा यस्मादसुराद्भिया सूर्यः स्वकीयं रथचक्रं नावर्तयत् । वर्तयितुं नाशकत् । निषेधार्थीयोऽत्र नकारः ।
+
+> *yadvā yasmādasurādbhiyā sūryaḥ svakīyaṃ rathacakraṃ nāvartayat | vartayituṃ nāśakat | niṣedhārthīyo 'tra nakāraḥ |*
+
+That is: the sun, from fear of this asura, did not turn his chariot wheel (another kind of meaning: he became unable to turn it. Here the word na is used in the sense of negation). He says again, in bold:
+
+> यद्वा द्विचक्रो हि पूर्वं सूर्यस्य रथः । तस्यैकं चक्रमिन्द्रेणापहृतम् । सूर्यस्य सम्बन्ध्यपहृतं तदेकं चक्रमवर्तयत् । रक्षोहननार्थमभ्रामयत् । तेन चक्रेण वलमभिनच्च । नश्चार्थे ।
+
+> *yadvā dvicakro hi pūrvaṃ sūryasya rathaḥ | tasyaikaṃ cakramindreṇāpahṛtam | sūryasya sambandhyapahṛtaṃ tadekaṃ cakramavartayat | rakṣohananārthamabhrāmayat | tena cakreṇa valamabhinacca | naścārthe |*
+
+*(As printed here, the grammatical remark "सूर्य इति सुपां सुलुगिति…", which stands in the bhāṣya on p. 632 after "इन्द्रेणापहृतम्", is not in this quotation.)*
+
+That is: the chariot of the sun had formerly two wheels. One of them Indra carried off for another reason. With that stolen wheel he now whirled it forcefully and struck, in order to destroy the rākṣasa called Vala: this is another kind of meaning. Here the word na is used in the sense of ca, "and". In this manner Sāyaṇa has given three kinds of meaning for this sentence—
+
+There is a somewhat obscure story. A wager was run between the horse called Etasa and the horses of the sun called the Harits, and the sun himself goes ahead. Then Indra obstructs the sun. At this time one wheel of the sun's chariot is lost. It may be that it is stated here that Indra struck and killed Vala with that very wheel.
+
+**वलं** (*valaṃ*)—concerning Vala the commentator has told an account before. The asura called Vala had carried off the cows of the gods and hidden them in a cave. Then Indra, with his army
+
+*(Printed p. 634 ends in mid-sentence at "ತನ್ನ ಸೈನ್ಯ", "his army"; the account of Vala continues on p. 635.)*
+
+---
+
+**Progress note:** Done through printed p. 634 (PDF 656). Sūkta 11, Ṛk 20 is OPEN: Sāyaṇa-bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written; its Special Topics (Viśeṣaviṣayagaḷu) are in progress and break off at the foot of p. 634 in the account of Vala, "ಆಗ ಇಂದ್ರನು ತನ್ನ ಸೈನ್ಯ…" ("Then Indra, with his army…"), to be continued on p. 635. Flags: FILE DISAGREE: the third Ṛk cited on p. 633 is printed "ಲ-೩೨-೨೬" (read 8-32-26 from the strip, not zoomed), where the file reads "8.3.22-26" (a mis-grouping, I think). Unzoomed numerals: running headers on all three pages; references 1-51-6, 2-14-4, 8-3-19, 8-32-3, 10-67-12, Nir. 3-10 and Ai. Brā. 26-1 (all agree with the file). [?] places: p. 632 bhāṣya तीर्णनमस्कस्य, ददाति (printed like पदाति), स्तृ (printed like "ಸ್ತ್ವಾ"); p. 633 अम्बुमद्भातीति, अम्बुमद्भवतीति, ऋचीषमम्, the first letter of न्यर्बुदस्य. On p. 634 the quoted bhāṣya omits the "सूर्य इति सुपां सुलुक्" remark that p. 632 has.
