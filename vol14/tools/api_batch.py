@@ -54,9 +54,18 @@ def main():
         if a.dry:
             n=sum(1 for u in user if u['type']=='image'); print('DRY: pages',pages,'images',n,'text chars',sum(len(u.get('text','')) for u in user),'system chars',len(sysprompt)); return 0
         t=time.time(); txt=''
-        with cl.messages.stream(model=a.model,max_tokens=a.max_tokens,system=[{'type':'text','text':sysprompt,'cache_control':{'type':'ephemeral'}}],messages=[{'role':'user','content':user}]) as st:
-            for x in st.text_stream: txt+=x
-            u=st.get_final_message().usage
+        for attempt in range(6):          # transient errors (overloaded 503/529, rate limit, dropped connection): wait and retry the whole call
+            try:
+                txt=''
+                with cl.messages.stream(model=a.model,max_tokens=a.max_tokens,system=[{'type':'text','text':sysprompt,'cache_control':{'type':'ephemeral'}}],messages=[{'role':'user','content':user}]) as st:
+                    for x in st.text_stream: txt+=x
+                    u=st.get_final_message().usage
+                break
+            except (anthropic.InternalServerError,anthropic.RateLimitError,anthropic.APIConnectionError,anthropic.APITimeoutError) as e:
+                wait=[20,60,120,240,480,900][attempt]
+                print(f'API busy ({type(e).__name__}); retry {attempt+1}/6 in {wait}s',flush=True); time.sleep(wait)
+        else:
+            print('STOP: API still unavailable after 6 tries; run again later.'); return 10
         cw=u.cache_creation_input_tokens or 0; cr=u.cache_read_input_tokens or 0
         usd=((u.input_tokens+1.25*cw+0.1*cr)*a.price_in+u.output_tokens*a.price_out)/1e6
         open(COST,'a').write(json.dumps(dict(pages=pages,model=a.model,inp=u.input_tokens,cache_write=cw,cache_read=cr,out=u.output_tokens,usd=round(usd,4),sec=round(time.time()-t)))+'\n')
