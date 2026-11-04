@@ -92,7 +92,7 @@ def api_fix(cl,model,items,cands,cf,price_in,price_out):
 BUDGET=[5.0]
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('vol',type=int); ap.add_argument('--html',nargs='*'); ap.add_argument('--file',help='translation file to use instead of the default for VOL (testing)'); ap.add_argument('--write',action='store_true')
-    ap.add_argument('--api',action='store_true'); ap.add_argument('--dry',action='store_true'); ap.add_argument('--model',default='claude-sonnet-5-5')
+    ap.add_argument('--api',action='store_true'); ap.add_argument('--cite',action='store_true',help='volume has no headed Samhita blocks (e.g. Vol 1): treat every Devanagari blockquote line as a possible Rik citation, matched anywhere in the reference'); ap.add_argument('--dry',action='store_true'); ap.add_argument('--model',default='claude-sonnet-5-5')
     ap.add_argument('--budget',type=float,default=5.0); ap.add_argument('--price-in',type=float,default=3.0); ap.add_argument('--price-out',type=float,default=15.0)
     ap.add_argument('--threshold',type=float,default=0.85); a=ap.parse_args(); BUDGET[0]=a.budget
     files=a.html or sorted(sum((glob.glob(os.path.join(ROOT,'refs','mandala',e)) for e in('*.html','*.htm','*.txt')),[]))
@@ -114,7 +114,32 @@ def main():
             r=s.ratio()
             if b is None or r>b[0]: b=(r,q)
         return b
-    for hi,idxs,head in find_blocks(L):
+    if a.cite:
+        cand=[m for m,l in enumerate(L) if l.startswith('> ') and not l.startswith('> *') and re.search('[\u0900-\u097F]',l)]
+        byl={}
+        for q,c in enumerate(cr): byl.setdefault(len(c),[]).append(q)
+        for m in cand:
+            ours=L[m][2:]
+            if any(ch in AC for ch in ours): continue
+            sk=acc.canon(ours)
+            if len(sk)<12: continue
+            b=None
+            for q in range(len(REF)):
+                c=cr[q]
+                if abs(len(c)-len(sk))>0.35*max(len(c),len(sk)): continue
+                s=difflib.SequenceMatcher(None,sk,c,autojunk=False)
+                if s.real_quick_ratio()<=(b[0] if b else 0) or s.quick_ratio()<=(b[0] if b else 0): continue
+                r=s.ratio()
+                if b is None or r>b[0]: b=(r,q)
+            if b is None or b[0]<a.threshold:
+                if b and b[0]>=0.6: rep.append(('NEAR',m+1,'.'.join(map(str,REF[b[1]][0])),round(b[0],2),ours[:50]))
+                continue
+            r,q=b; new=acc.transfer(ours,REF[q][1])
+            if acc.strip_ac(new)!=ours: rep.append(('ABORT',m+1,round(r,2),ours[:40])); continue
+            rid='.'.join(map(str,REF[q][0]))
+            if acc.canon(ours)!=cr[q]: rep.append(('DIFF',m+1,rid,round(r,3)))
+            L[m]='> '+new; rep.append(('OK',m+1,rid))
+    for hi,idxs,head in ([] if a.cite else find_blocks(L)):
         hint=re.search(r'Rik (\d+)\.(\d+)',head)
         for m in idxs:
             ours=L[m][2:]
