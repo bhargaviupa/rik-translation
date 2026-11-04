@@ -21432,4 +21432,147 @@ Grown by oblations, firewood, samit-sticks, ājya and the like, powerful—that 
 
 ---
 
-**Progress note:** Done through printed p. 571 (PDF 593); offset printed = PDF − 22 holds. Sūkta 10: Ṛk 3 is complete (its Viśeṣaviṣayagaḷu on शिरिणायां/अक्तुना, Ni. 2-18, ended on p. 569); Ṛk 4 is complete (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu on p. 571). Ṛk 5 is **open**: Saṃhitā, Pada, bhāṣya (with its grammatical tail) and the Pratipadārtha are written up to ⟦स्पृहयद्वर्णः⟧ (p. 571 ends in mid-Pratipadārtha: next page continues it with ⟦स्पृहयद्वर्णः⟧'s gloss, then ⟦अग्निः⟧, ⟦न⟧, ⟦अभिमृशे⟧ and the rest, followed by Bhāvārtha, printed English and Special Topics). Flags: FILE DISAGREE none (numeral file rows Ni. 2-18 ×2 agree); unzoomed numerals: varga numeral "2" in the headers of pp. 569 and 571 (file groups agree), ॥ ४ ॥ and ॥ ५ ॥. [?] places: p. 569 ⟦अस्यावश्यायेन⟧ (stray hooked sign) and the printed ⟦शीज्⟧; p. 570 ⟦अवकाशनवन्तेमन्नैरन्नादं⟧ and ⟦मर्यश्रीरित्येष⟧; p. 571 Ṛk 5 ⟦तन्वा⟧ (Saṃhitā, Pada), bhāṣya ⟦तेना⟧ and ⟦अतितेजस्वितयोभिमर्शनीयो⟧.
+### Printed p. 572 (PDF 594)
+
+*(Header: "572", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". The numeral file has no rows for this page. This page finishes the Pratipadārtha of Ṛk 5, then gives its Bhāvārtha, printed English and Viśeṣaviṣayagaḷu.)*
+
+*Pratipadārtha of Ṛk 5 (continued from p. 571; translated)*
+
+...(स्पृहयद्वर्णः (*spṛhayadvarṇaḥ*)—the colour that attracts the sacrificer: the one) who possesses (that colour). तन्वा (*tanvā*) [?] (printed in the bold headword like ತೆನ್ವಾ, i.e. *tenvā*; the Saṃhitā and Pada had तन्वा (*tanvā*) [?])—with lustre. जर्भुराणः (*jarbhurāṇaḥ*) (*jarbhurāṇaḥ*)—the one who is filled (full). अग्निः (*agniḥ*) (*agniḥ*)—Agni. नाभिमृशे (*nābhimṛśe*) (*nābhimṛśe*)—is endowed with a radiance that cannot be withstood.
+
+*Bhāvārtha (Kannada, translated)*
+
+To Agni, who pervades everywhere and who comes facing the sacrifice, I pour ājya in the form of a sprinkling. May Agni accept that ājya, offered together with a hymn of praise free of obstructers. Agni, who is resorted to by human beings, who has a colour that attracts the sacrificer, and who is filled with lustre, is endowed with a radiance that cannot be withstood.
+
+*English Translation (as printed)*
+
+I offer oblations to Agni, who is present at all (sacrifices); may he accept (them), offered with an unhesitating mind, (to him) who is the refuge of man, endowed with any form that may be desired, blazing with a radiance (that it is) not (possible) to endure.
+
+*(One letter of "unhesitating" is damaged in the print; read as unhesitating.)*
+
+*Viśeṣaviṣayagaḷu (Special Topics of Ṛk 5; translated)*
+
+आ विश्वतः प्रत्यञ्चं (*ā viśvataḥ pratyañcaṃ*)—Agni who is present everywhere and who comes facing the sacrifice; that is the meaning.
+
+अरक्षसा मनसा (*arakṣasā manasā*)—
+
+> बाधकरहितेन मनसा, स्तोत्रेण सह ।
+
+> *bādhakarahitena manasā, stotreṇa saha |*
+
+"With a mind free of obstructers" (a mind without bad thoughts), that is, with a good mind, with a mind fixed on Agni alone; or together with the hymn of praise.
+
+मर्यश्रीः (*maryaśrīḥ*)—
+
+> मर्यैर्मर्त्यैः श्रयणीयो भजनीयः ।
+
+> *maryairmartyaiḥ śrayaṇīyo bhajanīyaḥ |*
+
+One who is resorted to by human beings, or one who is praised. *(This printing of the bhāṣya words is clear; it is the same word-group that was marked [?] in the bhāṣya on p. 570.)*
+
+स्पृहयद्वर्णः (*spṛhayadvarṇaḥ*)—
+
+> योप्पशं [?] वर्णं यजमानः स्पृहयति तादृशवर्णोपेतः ।
+
+> *yoppaśaṃ [?] varṇaṃ yajamānaḥ spṛhayati tādṛśavarṇopetaḥ |*
+
+*(The first word is printed like ಯೋಪ್ಪಶಂ; the bhāṣya on p. 571 has यादृशं (*yādṛśaṃ*). The reading here is marked [?].)* The sacrificer who sacrifices to Agni desires Agni to be of a particular colour or form; the intention is: Agni who takes on the form the sacrificer needs.
+
+न अभिमृशे (*na abhimṛśe*)—
+
+> अतितेजस्वितया अभिमर्शनीयो न भवति ।
+
+> *atitejasvitayā abhimarśanīyo na bhavati |*
+
+Because Agni shines with excessive lustre, his lustre cannot be endured; that is the intention. *(Here the words are printed clearly as अतितेजस्वितया अभिमर्शनीयो (*atitejasvitayā abhimarśanīyo*), with the separate word अभिमर्शनीयो; this clears the [?] marked on p. 571.)*
+
+---
+
+### Printed p. 573 (PDF 595)
+
+*(Header: "A. 2 A. 6 V. 2" as printed (not zoomed; no numeral-file row for the header), "Ṛgvedasaṃhitā", printed number **573**. The numeral file has one row, the sūtra reference Pā. 6-4-68, which agrees with my reading.)*
+
+**Ṛk 6**
+
+*Saṃhitā-pāṭha*
+
+> ज्ञेया भागं सहसानो वरेण त्वादूतासो मनुवद्वदेम ।
+> अनूनमग्निं जुह्वा वचस्या मधुपृचं धनसा जोहवीमि ॥ ६ ॥
+
+> *jñeyā bhāgaṃ sahasāno vareṇa tvādūtāso manuvadvadema |*
+> *anūnamagniṃ juhvā vacasyā madhupṛcaṃ dhanasā johavīmi ‖ 6 ‖*
+
+*(॥ ६ ॥ read, not zoomed.)*
+
+*Pada-pāṭha*
+
+*(The small strokes in त्वाऽदूतासः, मनुऽवत्, मधुऽपृचं and धनऽसाः are the mark ऽ.)*
+
+> ज्ञेयाः । भागं । सहसानः । वरेण । त्वाऽदूतासः । मनुऽवत् । वदेम ।
+> अनूनं । अग्निं । जुह्वा । वचस्या । मधुऽपृचं । धनऽसाः । जोहवीमि ॥ ६ ॥
+
+*Sāyaṇa-bhāṣya*
+
+*(Gist: with his best splendour Agni overcomes foes; may he know (accept) the worthy stotra; we, with Agni as messenger, speak as Manu did; I call the full Agni with the ladle and praise. The bhāṣya runs over a line to the next strip.)*
+
+> वरेण । वारयत्यनेन शत्रूनिति वरं तेजः । तेन सहसानः शत्रूनभिभवन् त्वं भागं भजनीयं स्तोत्रं ज्ञेयाः । जानीहि ॥ आशीर्लिङि [?] वान्यस्य संयोगादेः । पा. ६-४-६८ । इत्येत्त्वं ॥ त्वादूतासः । त्वं दूतो येषामसि ते त्वादूतासः । यद्वा त्वया प्रेरिता वयं मनुवत् मनुरिव वदेम । स्तोत्रं ब्रूयामः । जुह्वा । हूयतेऽस्यामिति जुहूर्ज्वाला पात्रविशेषो वा । तयानूनं संपूर्णं मधुपृचं मधुना कर्मफलेन यजमानं संयोजयन्तमग्निं धनसा धनस्य संभक्त्राहं [?] वचस्या स्तुतिकामनया जोहवीमि । आह्वयामि ॥
+
+> *vareṇa | vārayatyanena śatrūniti varaṃ tejaḥ | tena sahasānaḥ śatrūnabhibhavan tvaṃ bhāgaṃ bhajanīyaṃ stotraṃ jñeyāḥ | jānīhi ‖ āśīrliṅi [?] vānyasya saṃyogādeḥ | pā. 6-4-68 | ityettvaṃ ‖ tvādūtāsaḥ | tvaṃ dūto yeṣāmasi te tvādūtāsaḥ | yadvā tvayā preritā vayaṃ manuvat manuriva vadema | stotraṃ brūyāmaḥ | juhvā | hūyate 'syāmiti juhūrjvālā pātraviśeṣo vā | tayānūnaṃ saṃpūrṇaṃ madhupṛcaṃ madhunā karmaphalena yajamānaṃ saṃyojayantamagniṃ dhanasā dhanasya saṃbhaktrāhaṃ [?] vacasyā stutikāmanayā johavīmi | āhvayāmi ‖*
+
+*(Grammatical tail: the rule is cited as Pā. 6-4-68 (printed numerals read ६-४-६८; the numeral file agrees) for the substitution of ए in the form ज्ञेयाः. Two places are marked [?]: the final letters of आशीर्लिङि (a small sign stands above the ङ/ज letter) and संभक्त्राहं (*saṃbhaktrāhaṃ*), the conjunct after भ being printed like क्त्र.)*
+
+*Pratipadārtha (Kannada, translated)*
+
+(O Agni) वरेण (*vareṇa*) (*vareṇa*)—with lustre. सहमानः (*sahamānaḥ*) (*sahamānaḥ*) (as printed in the Pratipadārtha; the Saṃhitā has सहसानः (*sahasānaḥ*))—you who overcome and defeat foes. भागं (*bhāgaṃ*) (*bhāgaṃ*)—the worshipful hymn of praise. ज्ञेयाः (*jñeyāḥ*) (*jñeyāḥ*)—know. त्वादूतासः (*tvādūtāsaḥ*) (*tvādūtāsaḥ*)—we who know you as the divine messenger. मनुवत् (*manuvat*) (*manuvat*)—as Manu praised formerly. वदेम (*vadema*) (*vadema*)—we recite your hymn of praise. जुह्वा (*juhvā*) (*juhvā*)—with the juhū vessel or with the flame. अनूनं (*anūnaṃ*) (*anūnaṃ*) (printed with a gap, ಅನ ನಂ [sic])—the one who is full. मधुपृचं (*madhupṛcaṃ*) (*madhupṛcaṃ*)—the one who unites (the sacrificer) with the sweet fruit of action. अग्निं (*agniṃ*) (*agniṃ*)—Agni. धनसाः (*dhanasāḥ*) (*dhanasāḥ*)—I who desire wealth. वचस्या (*vacasyā*) (*vacasyā*)—with praise. जोहवीमि (*johavīmi*) (*johavīmi*)—I call.
+
+*Bhāvārtha (Kannada, translated)*
+
+You who overcome foes with lustre, know and accept the worshipful hymn of praise. We who have known you as the divine messenger recite your hymn of praise as Manu praised you formerly. I, who desire wealth, call with praise that Agni who is full with his flame and who unites us with the sweet fruit of action.
+
+---
+
+### Printed p. 574 (PDF 596)
+
+*(Header: "574", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 1 Sū. 10". The numeral file has one row, the citation 10-63-7 at the foot of the page, which agrees with my reading.)*
+
+*English Translation (as printed)*
+
+Overpowering ( your foes ) with lustre, may you recognize your portion: may we, having you for our messenger, recite (praise) like Manu: desiring wealth, I offer oblation with the sacrificial ladle and with praises, to that entire Agni, who rewards (the worshipper) with the sweet (fruit) of the sacrifice.
+
+*Viśeṣaviṣayagaḷu (Special Topics of Ṛk 6; translated)*
+
+वरेण सहसानः (*vareṇa sahasānaḥ*)—
+
+> वारयत्यनेन शत्रूनिति वरं तेजः तेन सहसानः शत्रूनभिभवन् ।
+
+> *vārayatyanena śatrūniti varaṃ tejaḥ tena sahasānaḥ śatrūnabhibhavan |*
+
+Because it checks or defeats the enemy, वरं (*varaṃ*) (*varaṃ*) means lustre, prowess. The intention is: Agni who defeats his foes with such lustre.
+
+भागं (*bhāgaṃ*)—
+
+> भजनीयं स्तोत्रं ।
+
+> *bhajanīyaṃ stotraṃ |*
+
+Because the hymn goes to the gods and reaches them, the portion (भाग (*bhāga*)) is called stotra.
+
+त्वादूतासः मनुवद्वदेम (*tvādūtāsaḥ manuvadvadema*)—
+
+> त्वं दूतो येषामसि ते त्वादूतासः । यद्वा त्वया प्रेरिता वयं मनुवत् मनुरिव वदेम । स्तोत्रं ब्रूमः ।
+
+> *tvaṃ dūto yeṣāmasi te tvādūtāsaḥ | yadvā tvayā preritā vayaṃ manuvat manuriva vadema | stotraṃ brūmaḥ |*
+
+*(Printed ब्रूमः (*brūmaḥ*) here; the bhāṣya on p. 573 has ब्रूयामः.)* Those for whom you (Agni) are the messenger: that is, since Agni acts as messenger to the gods on behalf of human beings, "we who regard you as our messenger". Or: "we, impelled by you, recite the hymn of praise as Manu did"; that is the intention.
+
+The name of Manu occurs in many places in the Ṛgveda, but no fuller account is found anywhere. Manu is understood to be the original ancestor of the human race and the guide in the order of performing sacrifices and rites. When he was dividing his property among his children, his youngest son, named Nābhānediṣṭha, was studying in the gurukula under brahmacarya, and so received no share of the inheritance. When he finished his studies and came back and asked his father for his share, Manu sent word that he should go to the place where the Aṅgirasa ṛṣis were performing a sacrifice and, if he taught them some mantras, they would give him wealth as much as he wished.
+
+This account is related in the Aitareya Brāhmaṇa and in the Taittirīya Saṃhitā of the Yajurveda. Mainly because the sacrifice performed by Manu is famous, the matter of Manu's sacrifice is introduced there, in various places.
+
+As is known from the Ṛgveda, Manu was the one who began the sacrifices. Having kindled Agni, accompanied by the seven ṛṣis, he gave the first oblation to the gods. (Ṛ. Saṃ. 10-63-7)
+
+---
+
+---
+
+**Progress note:** Done through printed p. 574 (PDF 596); offset printed = PDF − 22 holds. Sūkta 10: Ṛk 5 is complete (Pratipadārtha end, Bhāvārtha, printed English and Viśeṣaviṣayagaḷu on p. 572). Ṛk 6 is written in full (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha on p. 573; printed English and Special Topics on p. 574). The Special Topics of Ṛk 6 end on p. 574 with the Manu passage and the citation (Ṛ. Saṃ. 10-63-7); more topics for Ṛk 6 may follow on p. 575, otherwise Ṛk 7 begins there. Flags: FILE DISAGREE none (Pā. 6-4-68 and 10-63-7 agree with the file); unzoomed numerals: page headers of pp. 572–574 and ॥ ६ ॥. Resolved: the [?] on अतितेजस्वितयोभिमर्शनीयो (p. 571) is cleared by the clear printing अतितेजस्वितया अभिमर्शनीयो on p. 572. [?] places: p. 572 ⟦तन्वा⟧ (printed like तेन्वा) and ⟦योप्पशं⟧; p. 573 आशीर्लिङि and संभक्त्राहं.
