@@ -10768,6 +10768,128 @@ Gist: Savitṛ, going, releases (the horses) with swift rays; he stops even the 
 
 यान् (*yān*) — Savitṛ who moves. आशुभिश्चित् (*āśubhiścit*) — by the swift-going rays. वि मुचाति (*vi mucāti*) — becomes released. अतमानं चित् (*atamānaṃ cit*) — even people who move constantly. एतोः (*etoḥ*) — from their moving. अरीरमत् (*arīramat*) — he stops. अह्यर्षणां (*ahyarṣaṇāṃ*) — of the warriors, the assailants of enemies (the Pratipadārtha continues on the next page).
 
+### Printed p. 341
+
+*Running head: Aṣṭaka 2 (printed "ಅ."), Adhyāya 8, Varga 2, p. 341 (Ṛgvedasaṃhitā).*
+
+(The Pratipadārtha of Ṛk 3 continues:) अविष्यां (*aviṣyāṃ*) — also the wish to go forward towards battle. न्ययान् (*nyayān*) — he checks and stops. सवितुः (*savituḥ*) — of the Sun. व्रतं अनु (*vrataṃ anu*) — after the work consisting of his movement. मोकी (*mokī*) — the night. आगात् (*āgāt*) — appears.
+
+*Stray line as supplied (kept, not deleted; in kn.md as an italic note): "। ಭಾನುವಾರ ।" (a Kannada word meaning "Sunday", between the Pratipadārtha and the Bhāvārtha).*
+
+**भावार्थ (Bhāvārtha)**
+
+Savitṛ, whose work is movement, is released from his swift-going rays. He makes even the people who move constantly stop their moving. He also checks and stops the wish of the warriors, the assailants of enemies, to go forward towards battle. After the work consisting of his movement, the night appears.
+
+**Printed English translation**
+
+The moving (Sun) is liberated by his rapid rays: verily he has stopped the traveller from his journey : he restrains the desire of warriors for combat, for night follows (the cessation of) the function of Savitri.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Having said so far that by the rule (vrata, the ordinance) of the god Savitṛ the activities of the world go on, and that Savitṛ rises for the happiness of the people, the sage now describes in this Ṛk that after Savitṛ has set, all the activities of the world stop and night appears.
+
+आशुभिः (*āśubhiḥ*) — शीघ्रगामिभिः रश्मिभिः (*śīghragāmibhiḥ raśmibhiḥ*): it means "by rays that spread swiftly". The word आशु (*āśu*) is read among the names for horse (Nighaṇṭu 2-27, printed "ಸಿ. ೨-೨೭") and among the names for "swift" (3-9, printed "ಸಿ. ೩-೯"). And the derivation is given: आश इति च शु इति च क्षिप्रनामनी भवतः (*āśa iti ca śu iti ca kṣipranāmanī bhavataḥ*) (6-1, printed "ಸಿ. ೬-೧") and आशवः क्षिप्रकारिणः (*āśavaḥ kṣiprakāriṇaḥ*) (9-9, printed "ಸಿ. ೯-೯"). Because the rays spread everywhere very quickly, the word आशु (*āśu*) is here explained as "rays".
+
+नूनं (*nūnaṃ*) — of this word Yāska says:
+
+> नूनमिति विचिकित्सार्थीयो भाषायामुभयमन्वध्यायं विचिकित्सार्थीयश्च
+> पदपूरणश्च ॥
+
+> *nūnamiti vicikitsārthīyo bhāṣāyāmubhayamanvadhyāyaṃ vicikitsārthīyaśca*
+> *padapūraṇaśca ‖*
+
+(Nirukta 1-5, printed "ನಿ. ೧-೫".) He explains that the word नूनं (*nūnaṃ*) is used in the sense of doubt (vicikitsā), that is, to convey a conclusion reached after deliberate examination, or also for filling out a pada (verse-quarter). He describes that in the Chandas (the Veda) the word नूनं (*nūnaṃ*) is used both in the sense of vicikitsā and in the sense of filling out the pada, while elsewhere it is used in the sense of vicikitsā. Durgācārya, the commentator on the Nirukta, says: विचिकित्सा नाम विवेकपूर्वको अवधारणाभिप्रायः (*vicikitsā nāma vivekapūrvako avadhāraṇābhiprāyaḥ*) — in circumstances where doubt arises, deciding by deliberation is called vicikitsā.
+
+### Printed p. 342
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2 (printed "ಮಂ. ೨."), Aṣṭaka 4 (as printed), Sūkta 38, p. 342.*
+
+The commentator (Sāyaṇa) says that in the present Ṛk it is used for filling out the pada.
+
+अतमानं (*atamānaṃ*) — this word, formed from the root अत सातत्यगमने (*ata sātatyagamane*) (printed with "!" after it), means people who move at all times (or who are engaged in some work or other).
+
+अह्यर्षणां अविष्यां (*ahyarṣaṇāṃ aviṣyāṃ*) —
+
+> अह्यर्षणां अविष्यां—अहिमाहंतारं शत्रुमर्षंत्यभिगच्छंतीत्यह्यर्षवः
+> तेषामपि गमनेच्छां ।
+
+> *ahyarṣaṇāṃ aviṣyāṃ—ahimāhaṃtāraṃ śatrumarṣaṃtyabhigacchaṃtītyahyarṣavaḥ*
+> *teṣāmapi gamanecchāṃ |*
+
+अहि (*ahi*) means people who wish to kill, that is, enemies. The warriors who rush forward to meet those enemies are called अह्यर्षवः (*ahyarṣavaḥ*). Their गमनेच्छॆ (*gamanecchè*) (wish to go) means their eagerness to fight, is the sense.
+
+यान् आशुभिश्चित् वि मुचाति आतमानं चित् एतोः आरीरमत् (*yān āśubhiścit vi mucāti ātamānaṃ cit etoḥ ārīramat*) (as printed: ಆತಮಾನಂ in the explanation, ಅತಮಾನಂ in the Ṛk) —
+
+> यान् आशुभिश्चित् वि मुचाति आतमानं चित् एतोः आरीरमत्—गच्छन्
+> सविता शीघ्रगामिभिरपि रश्मिभिः विमुच्यते नूनं सततं गच्छंतमपि जनं गमनात्
+> उपरमयति ।
+
+> *yān āśubhiścit vi mucāti ātamānaṃ cit etoḥ ārīramat—gacchan*
+> *savitā śīghragāmibhirapi raśmibhiḥ vimucyate nūnaṃ satataṃ gacchaṃtamapi janaṃ gamanāt*
+> *uparamayati |*
+
+Savitṛ (the Sun), who moves from morning to evening, after he has withdrawn from his rays, that is, after he has set, makes even the people who are by nature moving about, or who are busy with their tasks and works, stop their respective activities. In the daytime, while Savitṛ (the Sun) shines, all people are engaged in moving about and in other activities. After the sun has set, since darkness comes, people cannot do any work and have to keep quiet — this is the meaning.
+
+अह्यर्षणां अविष्यां नि अयान् (*ahyarṣaṇāṃ aviṣyāṃ ni ayān*) — when the sun has set, not only do the movement and other activities of the people stop, but even warriors who are eager for battle stop the battle they are fighting. That is, since Savitṛ has set and darkness comes, the work of battle stops — this is the meaning.
+
+सवितुः व्रतं अनु मोकी आगात् (*savituḥ vrataṃ anu mokī āgāt*) — the word मोकी (*mokī*) is read among the names for night (Nirukta 2-18, printed "ನಿ. ೨-೧೮"). After Savitṛ (the Sun) has stopped his work of movement, that is, after he has set, the night comes — this is the meaning.
+
+#### Ṛk 4
+
+*Note: in the Saṃhitā of Ṛk 4 the second line is garbled as supplied (ಉತ್ಸಂಹಾಯಾಸ್ಥಾದ್ವ ೦ ತೂರದರ್ಧರರಮತಿಃ, with a stray ೦), while the Pada reads ವಿ ಋತೂನ್ ಅದರ್ಧಃ ಅರಮತಿಃ [?]. Also ವಿತತಂ in the Saṃhitā against ವಿತ್ತತಂ in the Pada, and ಶಕ್ಕ in the Saṃhitā against ಶಕ್ಮ in the Pada and bhāṣya; all as supplied. The Pada begins with ಪುನರಿತಿ as supplied.*
+
+**॥ संहितापाठः ॥**
+
+> पुनः॒ सम॑व्य॒द्वित॑तं॒ वयं॑ती म॒ध्या कर्तो॒न्य॑धा॒च्छक्क॒ धीरः॑ ।
+> उत्सं॒हाया॑स्था॒द्व ० १॒॑तूर॑दर्धर॒रम॑तिः सवि॒ता दे॒व आगा॑त् ॥ ४ ॥
+
+> *punaḥ samavyadvitataṃ vayaṃtī madhyā kartonyadhācchakka dhīraḥ |*
+> *utsaṃhāyāsthādva 0 tūradardhararamatiḥ savitā deva āgāt ‖ 4 ‖*
+
+### Printed p. 343
+
+*Running head: Aṣṭaka 2 (printed "ಅ."), Adhyāya 8, Varga 2, p. 343 (Ṛgvedasaṃhitā).*
+
+**॥ पदपाठः ॥**
+
+> पुनरिति । सं । अव्यत् । वित्ततं । वयंती । मध्या । कर्तोः । नि । अधात् । शक्म । धीरः।
+> उत् । संहाय । अस्थात् । वि । ऋतून् । अदर्धः । अरमतिः । सविता । देवः । आ ।
+> आगात् ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वयंती वस्त्रं वयंती नारीव रात्रिर्विततमालोकं पुनः समव्यत् । संवे-
+> ष्टयते । पुनःशब्दः पूर्वेद्युरप्येवमकार्षिदिति द्योतयति । धीरः प्रज्ञोSपि
+> सर्वो लोकः कर्तोः क्रियमाणं कर्म ॥ कर्तोः कर्तवा इति तन्नामसु पाठात्॥
+> शक्म कर्तु० शक्यमपि मध्या मध्य उपक्रांतं कर्मापरिसमास्येत्यर्थः । न्यधात् ।
+> निहितवान् । सवितर्युपरत इति शेषः । सर्वो लोकः संहायॆ शय्यां विहायो-
+> दस्थात् । अवशिष्टं कर्म कर्तु० पुनरुत्तिष्ठति ॥ संपूर्वो जहातिः शय्यापरित्यागे
+> वर्तते । तथा च श्रूयते । कलिः शयानो भवति संजिहानस्तु द्वापरः । ऐ. ब्रा. ७-१५।
+> इति । सविता सर्वस्य प्रसविता सूर्योSरमतिरनुपरतिर्देवो द्योतमान आगात् ।
+> आगच्छति । उदेतीति यावत् । ऋतून् कालविशेषांश्च व्यदर्दः । विदारयति ॥
+
+> *vayaṃtī vastraṃ vayaṃtī nārīva rātrirvitatamālokaṃ punaḥ samavyat | saṃve-*
+> *ṣṭayate | punaḥśabdaḥ pūrvedyurapyevamakārṣiditi dyotayati | dhīraḥ prajñoSpi*
+> *sarvo lokaḥ kartoḥ kriyamāṇaṃ karma ‖ kartoḥ kartavā iti tannāmasu pāṭhāt‖*
+> *śakma kartu0 śakyamapi madhyā madhya upakrāṃtaṃ karmāparisamāsyetyarthaḥ | nyadhāt |*
+> *nihitavān | savitaryuparata iti śeṣaḥ | sarvo lokaḥ saṃhāyè śayyāṃ vihāyo-*
+> *dasthāt | avaśiṣṭaṃ karma kartu0 punaruttiṣṭhati ‖ saṃpūrvo jahātiḥ śayyāparityāge*
+> *vartate | tathā ca śrūyate | kaliḥ śayāno bhavati saṃjihānastu dvāparaḥ | ai. brā. 7-15|*
+> *iti | savitā sarvasya prasavitā sūryoSramatiranuparatirdevo dyotamāna āgāt |*
+> *āgacchati | udetīti yāvat | ṛtūn kālaviśeṣāṃśca vyadardaḥ | vidārayati ‖*
+
+Gist: Night, like a woman weaving cloth, again wraps the spread-out world; the wise man stops his work half-done; Savitṛ rises and the night is cut into seasons.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वयंती (*vayaṃtī*) — like a woman weaving cloth. विततं (*vitataṃ*) — the spread-out world. पुनः (*punaḥ*) — again. समव्यत् (*samavyat*) — (the night) covers. धीरः (*dhīraḥ*) — the wise man (the world). कर्तोः (*kartoḥ*) — from the work to be done. शक्त्य (*śaktya*) (printed so; the Pada and bhāṣya read ಶಕ್ಮ) — even though he has the strength to do the work. मध्या (*madhyā*) — in the middle of the work. न्यधात् (*nyadhāt*) — stops (and again after the rising of Savitṛ). संहाय (*saṃhāya*) — leaving the bed. उत् अस्थात् (*ut asthāt*) — rises up. सविता (*savitā*) — the Sun, the begetter (prasavitṛ) of the world. अरमतिः (*aramatiḥ*) — without any pause. देवः (*devaḥ*) — shining. अगात् (*agāt*) — appears again. ऋतून् (*ṛtūn*) — the divisions of time. वि आदर्धः (*vi ādardhaḥ*) (as printed) — he splits up and divides.
+
+**भावार्थ (Bhāvārtha)**
+
+Like a woman weaving cloth, the night again covers the spread-out world. The wise man, even though he has the strength to do the work, stops the work half-done after the night has arrived. Again, after the rising of Savitṛ, he leaves his bed and rises. The Sun, the begetter of the world, appears again shining, without any pause. He splits up and divides the divisions of time.
+
+*(The printed English translation and the Special Topics of Ṛk 4 follow on the next page, p. 344.)*
+
 ---
 
-**Progress note:** Done through printed p. 340 (PDF 340). pp. 338-340: Sukta 38 Rk 2 Special Topics end (vrata: rules, sacrifice; Nirukta quotes); Rk 3 Samhita, Pada, bhashya, Pratipadartha begun (continues p. 341); kn.md: Rk quotes made > blocks, garbled duplicate of 1-92-12 (jeti for ceti) kept as italic note; flags: 0 [?]; 'nimmagrah' as supplied; ref '3 32-8' and 'ma. sam.' as printed
+**Progress note:** Done through printed p. 343 (PDF 343). Sukta 38 Rk 3 complete (Pratipadartha end, Bhavartha, printed English, Special Topics on asu/nunam/atamanam); Rk 4 Samhita, Pada, bhashya, Pratipadartha, Bhavartha (printed English and Special Topics continue p. 344); kn.md: Nirukta/bhashya quotes in Special Topics made > blocks, stray line 'bhanuvara' kept as italic note, Bhavartha label inserted; flags: Rk 4 Samhita line 2 garbled as supplied [?]; Sanskrit 'ahyarsanam' etc as supplied
