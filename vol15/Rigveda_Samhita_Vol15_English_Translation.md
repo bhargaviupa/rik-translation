@@ -7575,6 +7575,94 @@ The bhāṣya cites a Pāṇini sūtra (Pā. 5-4-41) for the affix ताति�
 
 वसवः (*vasavaḥ*)—O you who provide dwelling-places; मरुतः (*marutaḥ*)—O Maruts; यः मर्त्यः (*yaḥ martyaḥ*)—whatever mortal; वृकताति (*vṛkatāti*)—like a cruel wolf; नः (*naḥ*)—towards us; रिपुः (*ripuḥ*)—enmity; दधे (*dadhe*)—fosters; रिषः (*riṣaḥ*)—from that harmful enemy; रक्षत (*rakṣata*)—protect (us); तं (*taṃ*)—that enemy; तपुषा (*tapuṣā*)—with the burning; चक्रिया (*cakriyā*)—weapon called ṛṣṭi; अभि वर्तयत (*abhi vartayata*)—make him turn away from us; रुद्राः (*rudrāḥ*)—O Maruts, sons of Rudra; अशसः (*aśasaḥ*)—of such a devouring asura; वधः (*vadhaḥ*)—the weapon that kills; अव हंतन (*ava haṃtana*)—destroy.
 
+### Printed p. 245
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, who provide dwelling-places, protect us from that harmful enemy, the man who fosters wolf-like enmity towards us as a cruel wolf would. With your burning weapon make that enemy turn away from us. O Maruts, sons of Rudra, destroy the weapon, the instrument of killing, of such a devouring asura.
+
+**Printed English translation**
+
+Maruts, grant ers [sic] of dwellings, protect us from the malignity of the man who cherishes wolf-like enmity against us : encompass him with your burning diseases ; ward off the murderous (weapon) of the devourer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वसवः (*vasavaḥ*)—वासयितारः (*vāsayitāraḥ*) (those who make [the sacrificers] dwell happily): thus the Marut deities are addressed. यः मर्त्यः वृकताति रिपुर्दधे रिषः रक्षत (*yaḥ martyaḥ vṛkatāti ripurdadhe riṣaḥ rakṣata*)—the Sanskrit explanation is यः मनुष्यः आदाता वृकः सन् रिपुतया आत्मानं धारयति हिंसकादस्मान् पालयत (*yaḥ manuṣyaḥ ādātā vṛkaḥ san riputayā ātmānaṃ dhārayati hiṃsakādasmān pālayata*). The prayer is: the man who behaves like a wolf towards the sacrificers and practises enmity against them is harmful to us; protect us from him. And: अस्माकं शत्रुभूतं मर्त्यं तपुषा चक्रिया अभिवर्तयत (*asmākaṃ śatrubhūtaṃ martyaṃ tapuṣā cakriyā abhivartayata*) is explained as तापयित्रा ऋष्ट्या शक्त्या निवर्तयत (*tāpayitrā ṛṣṭyā śaktyā nivartayata*); that is, turn him back with your all-consuming power known as ṛṣṭi, so that no harm may come to us sacrificers from one who is our enemy.
+
+For the word रुद्राः (*rudrāḥ*) the explanation is रुद्रपुत्राः रोरूयमाणाद्रवंतः (*rudraputrāḥ rorūyamāṇādravaṃtaḥ*): the Marut deities are addressed as sons of Rudra and as those who rush swiftly with a roaring sound. अशसः वधः अवहंतन (*aśasaḥ vadhaḥ avahaṃtana*)—भक्षकस्य राक्षसादेः हननसाधनमायुधं अस्मत्तः पृथक्कृत्य नाशयत (*bhakṣakasya rākṣasādeḥ hananasādhanamāyudhaṃ asmattaḥ pṛthakkṛtya nāśayata*): turn away from us the weapon that Rākṣasas and others, wishing to destroy us, employ to kill us, and destroy those Rākṣasas and the rest; thus protection is prayed for.
+
+### Printed p. 246
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> चि॒त्रं तद्वो॑ मरुतो॒ याम॑ चेकिते॒ पृश्न्या॒ यदूध॒रप्या॒पयो॒॑
+> दु॒हुः ।
+> यद्वा॑न्॒दे नव॑मानस्य रुद्रियास्त्रि॒तं जरा॑य जुर॒ताम॑दाभ्याः ॥१०॥
+
+**॥ पदपाठः ॥**
+
+> चित्रं । तत् । वः । मरुतः । याम । चेकिते । पृश्न्याः । यत् । ऊधः । अपि ।
+> अपयः । दुहुः ।
+> यत् । वा । निदे । नवमानस्य । रुद्रियाः । त्रितं । जराय । जुरतां । अदाभ्याः ॥१०॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतो वो युष्माकं चित्रं चायनीयं याम प्रापणं चेकिते ।
+> सर्वैर्ज्ञायते । इदानीं परोक्षवदाह । अपिशब्दः प्रसिद्धौ । यद्यदा खलु पृश्ना
+> माध्यमिकाया वाचः संबंधिनमूधरुद्धतं मेघमापयः प्रापयितारो मरुतो
+> दुहुः । दुहंति ॥ दुहेश्छांदसो लिट् । छंदसि चेति वक्तव्यमिति द्विर्वचनाभावः ॥
+> यद्वा यदा च नवमानस्य स्तुवतस्तितस्य निदे निंदकाय शत्रवे हिंसां कृतवंत इति
+> शेषः ॥ निदि कुत्सायां । क्विप् चेति क्विप् । तदानीं हे अदाभ्या अहिंस्या रुद्रिया
+> रुद्रस्य पुत्रा मरुतस्त्रितमृषिं जुरतां हिंसतां शत्रूणां जराय जरणाय
+> विनाशाय अभूतेति शेषः ॥
+
+> *he maruto vo yuṣmākaṃ citraṃ cāyanīyaṃ yāma prāpaṇaṃ cekite |*
+> *sarvairjñāyate | idānīṃ parokṣavadāha | apiśabdaḥ prasiddhau | yadyadā khalu pṛśnā*
+> *mādhyamikāyā vācaḥ saṃbaṃdhinamūdharuddhataṃ meghamāpayaḥ prāpayitāro maruto*
+> *duhuḥ | duhaṃti ‖ duheśchāṃdaso liṭ | chaṃdasi ceti vaktavyamiti dvirvacanābhāvaḥ ‖*
+> *yadvā yadā ca navamānasya stuvatastitasya nide niṃdakāya śatrave hiṃsāṃ kṛtavaṃta iti*
+> *śeṣaḥ ‖ nidi kutsāyāṃ | kvip ceti kvip | tadānīṃ he adābhyā ahiṃsyā rudriyā*
+> *rudrasya putrā marutastritamṛṣiṃ juratāṃ hiṃsatāṃ śatrūṇāṃ jarāya jaraṇāya*
+> *vināśāya abhūteti śeṣaḥ ‖*
+
+Gist: The coming of the Maruts is known to all, when they approach the lofty cloud and milk it for rain, and when they destroy the reviler of Trita, who praises them.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मरुतः (*marutaḥ*)—O Maruts; वः (*vaḥ*)—your; चित्रं (*citraṃ*)—wonderful; तत् याम (*tat yāma*)—coming; चेकिते (*cekite*)—is known by all; यत् (*yat*)—when; पृश्न्या? (*pṛśnyā?*)—related to Pṛśni; ऊधः (*ūdhaḥ*)—the cloud on high; अपयः (*apayaḥ*)—the Maruts who approach; दुहुः (*duhuḥ*)—call forth for the sake of rain; यद्वा (*yadvā*)—when indeed; नवमानस्य (*navamānasya*)—of Trita who praises (the line break splits the word); निदे (*nide*)—to the reviling asura they cause harm (then); अदाभ्याः (*adābhyāḥ*)—the unharmed ones; रुद्रियाः (*rudriyāḥ*)—the sons of Rudra, the Maruts; त्रितं (*tritaṃ*)—the sage called Trita; जुरतां (*juratāṃ*)—to the harming enemies; जराय (*jarāya*)—become destroyers.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, your wonderful coming is known to all. When the Maruts approach the lofty cloud that belongs to Pṛśni and call it forth for the sake of rain, when they cause harm to the reviling asura of Trita who praises them, then, unharmed and sons of Rudra, the Maruts become destroyers of the enemies who harm the sage Trita.
+
+### Printed p. 247
+
+**Printed English translation**
+
+Maruts, your moryeallous [sic] energy is well known, whereby, seizing the udder of heaven, you milked it (of the rain), destroyed the reviler of your worshipper, and (came), irresistible sons of Rudra, to Trita for the destruction of his enemies.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यत् पृश्न्याः ऊदः आपयः दुहुः (*yat pṛśnyāḥ ūdaḥ āpayaḥ duhuḥ*)—यदा खलु माध्यमिकाया वाचः संबंधिनं उद्धतं मेघं प्रापयितारो मरुतः दुहंति (*yadā khalu mādhyamikāyā vācaḥ saṃbaṃdhinaṃ uddhataṃ meghaṃ prāpayitāro marutaḥ duhaṃti*): at the time when the Marut deities envelop the cloud, full of waters belonging to the middle-region speech, and pour down rain-waters, वः चित्रं याम चेकिते (*vaḥ citraṃ yāma cekite*)—युष्माकं चायनीयं प्रापणं सर्वैः ज्ञायते (*yuṣmākaṃ cāyanīyaṃ prāpaṇaṃ sarvaiḥ jñāyate*): the desirable coming of the Maruts is known to all. And: यद्वा नवमानस्य निदे अदाभ्याः रुद्रियाः त्रितं जुरतां जराय (*yadvā navamānasya nide adābhyāḥ rudriyāḥ tritaṃ juratāṃ jarāya*), explained as यदा च स्तुवतः त्रितस्य निंदकाय हिंसां कृतवंतः अहिंस्याः रुद्रस्य पुत्राः मरुतः त्रितं ऋषिं हिंसतां शत्रूणां विनाशाय अभूत (*yadā ca stuvataḥ tritasya niṃdakāya hiṃsāṃ kṛtavaṃtaḥ ahiṃsyāḥ rudrasya putrāḥ marutaḥ tritaṃ ṛṣiṃ hiṃsatāṃ śatrūṇāṃ vināśāya abhūta*): when the Marut deities, who are not subject to the harm done by others and are sons of Rudra, destroy those who harm the sage Trita, who has fallen into calamity and is praising them, they are the cause of the destruction of the enemies of the sage Trita; thus it is described, and also that the coming of the Maruts is known to all. The meaning of the word त्रित (*trita*) (Trita) has been explained earlier.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> तान्नो॑ म॒हो म॒रुत॑ एव॒यान्नो॒ विष्णो॑रे॒षस्य॑ प्रभृ॒थे॑
+> ह॑वामहे
+> हिर॑ण्यवर्णान्नकु॒हान्य॒तस्रु॑चो ब्रह्म॒ण्यंतः॒ शंस्यं॒ राध॑ ईमहे ॥
+
+**॥ पदपाठः ॥**
+
+> तान् । वः । महः । मरुतः । एव्‌याव्नः । विष्णोः । एषस्य । प्रभृथे । हवामहे ।
+> हिरण्यवर्णान् । ककुहान् । यतस्रुचः । ब्रह्मण्यंतः । शंस्यं । राधः । ईमहे ॥
+
+> *tān | vaḥ | mahaḥ | marutaḥ | evyāvnaḥ | viṣṇoḥ | eṣasya | prabhṛthe | havāmahe |*
+> *hiraṇyavarṇān | kakuhān | yatasrucaḥ | brahmaṇyaṃtaḥ | śaṃsyaṃ | rādhaḥ | īmahe ‖*
+
 ---
 
-**Progress note:** Done through printed p. 244 (PDF 244). Sūkta 34 Ṛk 7 Special Topics end (p. 242); Ṛk 8 complete (pp. 242-243); Ṛk 9 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 244); Bhāvārtha and printed English follow. Flags: Saṃhitā/Pada ರುಕ್ಮ/ರುಕ್ಷ್ಮ and ಪಿನ್ನತೇ/ಪಿನ್ವತೇ as supplied; garbled labels replaced; no [?]
+**Progress note:** Done through printed p. 247 (PDF 247). Sūkta 34 Ṛk 9 Bhāvārtha, printed English, Special Topics (p. 245); Ṛk 10 complete (pp. 245-247); Ṛk 11 Saṃhitā and Pada (p. 247). Fixes to kn.md: stray lines '1 ಭಾನುವಾರ' and '-reverbs-' removed, '॥ ಶ್ರೀಪಾದಪದ್ಮ ॥' line removed, Pratipadārtha/Bhāvārtha labels inserted and un-quoted; printed English misprints 'grant ers', 'moryeallous' marked [sic]; no [?]
