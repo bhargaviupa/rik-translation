@@ -4475,6 +4475,98 @@ The word धुनयः (*dhunayaḥ*) is stated among the names of rivers (Si.
 > *ūrdhvo hyasthādadhyaṃtarikṣeSdhā vṛtrāya pra vadhaṃ jabhāra |*
 > *mihaṃ vasāna upa hīmadudrottigmyāyudho ajayacchatrumiṃdraḥ‖*
 
+### Printed p. 144
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2 [as printed; Maṇḍala 1], A. 3, Sū. 30, p. 144.*
+
+**॥ पदपाठः ॥**
+
+> ऊर्ध्वः । हि । अस्थात् । अधि । अंतरिक्षे । अध । वृत्राय । प्र । वधं । जभार ।
+> मिहं । वसानः । उप । हि । ईं । आदुद्रोत् । तिग्मयुधः । अजयत् । शत्रुं ।
+> इंद्रः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हिर्हेत् । यस्मादयं वृत्रो०तरिक्ष ऊर्ध्वः सन् सर्वमावृत्याध्यस्थात् ।
+> अधिष्ठितोऽभूत् । अथ अतः कारणात् वृत्राय वृत्रं प्रति वधं हननसाधनं वज्र-
+> मिंद्रःप्रजभार । प्रचिक्षेप ॥ हृग्रहोर्भः ॥ स हि स खलु वृत्रो मिहं वृष्टेः
+> सेक्तारं मेघं वसान आच्छादयन् ईमेनमिंद्रमुपादुद्रोत् । उपागमत् ॥
+> दु द्रु गतौ । लजि छांदसः शपः श्लुः ॥ तिग्मायुधस्तीक्ष्णायुध इंद्रः शत्रुं शातयि-
+> तारं तं वृत्रमजयत् । जितवान् ॥
+
+> *hirhet | yasmādayaṃ vṛtro0tarikṣa ūrdhvaḥ san sarvamāvṛtyādhyasthāt |*
+> *adhiṣṭhito 'bhūt | atha ataḥ kāraṇāt vṛtrāya vṛtraṃ prati vadhaṃ hananasādhanaṃ vajra-*
+> *miṃdraḥprajabhāra | pracikṣepa ‖ hṛgrahorbhaḥ ‖ sa hi sa khalu vṛtro mihaṃ vṛṣṭeḥ*
+> *sektāraṃ meghaṃ vasāna ācchādayan īmenamiṃdramupādudrot | upāgamat ‖*
+> *du dru gatau | laji chāṃdasaḥ śapaḥ śluḥ ‖ tigmāyudhastīkṣṇāyudha iṃdraḥ śatruṃ śātayi-*
+> *tāraṃ taṃ vṛtramajayat | jitavān ‖*
+
+Gist: because Vṛtra, rising up, stood covering everything in the atmosphere, Indra hurled the thunderbolt at him; Vṛtra, veiling the rain-giving cloud, rushed upon Indra, and Indra conquered him. The grammatical tail (roots हृग्रहोर्भः (*hṛgrahorbhaḥ*), दु द्रु गतौ (*du dru gatau*), शपः श्लुः (*śapaḥ śluḥ*)) is noted without explanation.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Hi — because (Vṛtra the demon); antarikṣe — in the atmosphere; ūrdhvaḥ — rising higher and higher; adhi asthāt — stood pervading everything; adha — therefore; vṛtrāya — towards Vṛtra; vadhaṃ — the thunderbolt, the instrument of slaying; pra jabhāra — (Indra) hurled; hi — that Vṛtra; mihaṃ — the cloud that sheds rain; vasānaḥ — [the Kannada reads "having struck", as printed]; īṃ — this Indra; upa adudrot — came rushing upon (him), to attack; tigmāyudhaḥ — the one with the sharp weapon; indraḥ — Indra; śatruṃ — the enemy Vṛtra; ajayat — conquered.
+
+**भावार्थ (Bhāvārtha)**
+
+Because Vṛtra, rising higher and higher in the atmosphere, stood pervading everything, Indra hurled his thunderbolt at him. Vṛtra, covering himself with the rain-shedding cloud, came rushing upon Indra to attack him. Indra, who has the sharp weapon, conquered his enemy Vṛtra.
+
+**Printed English translation**
+
+Inasmuch as he had soared aloft above the firmament, Indra hurled against Vritra his destructive (thunderbolt): enveloped in a cloud, he rushed upon Indra, but the wielder of the sharp-edged weapon triumphed over his foe.
+
+### Printed p. 145
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 12, p. 145.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the battle between the demon Vṛtra and Indra is described. Explaining the meaning of the word Vṛtra, Yāska says: मेघ इति नैरुक्ताः । त्वाष्टोऽसुर इत्यैतिहासिकाः । (*megha iti nairuktāḥ | tvāṣṭo 'sura ityaitihāsikāḥ |*) अपां जोतिषश्च मिश्रीभावकर्मणो वर्षकर्म जायते । (*apāṃ jotiṣaśca miśrībhāvakarmaṇo varṣakarma jāyate |*) तत्रोपमार्थेन युद्धवर्णा भवंति । (*tatropamārthena yuddhavarṇā bhavaṃti |*) अहिवत्तु खलु मंत्रवर्णा ब्राह्मणवादाश्च । (*ahivattu khalu maṃtravarṇā brāhmaṇavādāśca |*) निवृद्ध्या शरीरस्य स्रोतांसि निवारयांचकार । (*nivṛddhyā śarīrasya srotāṃsi nivārayāṃcakāra |*) तस्मिन् हते प्रसस्यंदिर आपः । (*tasmin hate prasasyaṃdira āpaḥ |*) वृत्रो वृणोतीर्वा, वर्ततीर्वा वर्धतीर्वा । (*vṛtro vṛṇotīrvā, vartatīrvā vardhatīrvā |*) यदवृणोत् तत् वृत्रस्य वृत्रत्वमिति विज्ञायते । (*yadavṛṇot tat vṛtrasya vṛtratvamiti vijñāyate |*) यदवर्तत तत् वृत्रस्य वृत्रत्वमिति विज्ञायते । (*yadavartata tat vṛtrasya vṛtratvamiti vijñāyate |*) यदवर्धत तत् वृत्रस्य वृत्रत्वमिति विज्ञायते । (*yadavardhata tat vṛtrasya vṛtratvamiti vijñāyate |*) (Ni. 2-18)
+
+The etymologists (Nairuktas) have said that Vṛtra means a cloud. In the cloud, after the waters have gathered together through the rays of the sun, rain is produced by the difference (greater or lesser proportion) in the mixture of light and water. This relation of less and more is described in the various Ṛks by comparing it with a battle. The cloud keeps the waters in a dense (solid) state and, without pouring rain on the earth, holds back the flow of the rivers. When these clouds are broken to pieces the waters come to the earth and so the rivers flow: thus one view (opinion) has been explained. In the Purāṇas it is said that Vṛtra the demon was the son of one Tvaṣṭṛ; that he held back even the clouds that pour rain-water, took on a body larger than they, grew every day, made the world waterless and was a thorn to the world; and that Indra struck and destroyed him with his thunderbolt and protected the world. Relying on this historical view, the power of Indra is described here. In the preceding Ṛk the flowing of the rivers and waters is stated through the very description of the slaying of Vṛtra. Because the word Vṛtra is derived from the root वृधु वृदौ (*vṛdhu vṛdau*), which teaches the sense of growing, here अंतरिक्षे ऊर्ध्वः अधि अस्थात् (*aṃtarikṣe ūrdhvaḥ adhi asthāt*) is described as वृतः अंतरिक्षे सर्वमावृत्य अधिष्ठितोSभूत् (*vṛtaḥ aṃtarikṣe sarvamāvṛtya adhiṣṭhitoSbhūt*), that is, he stood pervading and covering everything in the atmosphere. And because the word Vṛtra is also derived from the root वृञ् वरणे (*vṛñ varaṇe*), which teaches the sense of covering, and from the root वृतु वर्तने (*vṛtu vartane*), which teaches the sense of being, the meaning of वृत्रः मिहं वसानः उप अदुद्रोत् (*vṛtraḥ mihaṃ vasānaḥ upa adudrot*) is described as वृष्टेः सेक्तारं मेघं आच्छादर्य (*vṛṣṭeḥ sektāraṃ meghaṃ ācchādarya*) [sic, as supplied]: the demon Vṛtra, covering himself with the cloud that pours rain-water, confronted Indra.
+
+### Printed p. 146
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2 [as printed; Maṇḍala 1], A. 3, Sū. 30, p. 146.*
+
+तिग्मायुधः (*tigmāyudhaḥ*)—तीष्णायुधः (*tīṣṇāyudhaḥ*) [as supplied]. The word तिग्म (*tigma*) is read by Yāska among the names of the thunderbolt (Ni. 3-11). Sāyaṇa has given the meaning of this word as: Indra possesses a sharp weapon.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> बृह॑स्पते॒ तपु॒षाश्ने॑व विध्य॒ वृक॑द्वरसो॒ असु॑रस्य वी॒रान् ।
+> यथा॑ ज॒घंथ॑ धृष॒ता पु॒रा चि॑दे॒वा ज॑हि॒ शत्रु॑म॒स्माक॑मिंद्र ॥ ४ ॥
+
+**॥ पदपाठः ॥**
+
+> बृहस्पते । तपुषा । अश्ना इव । विध्य । वृकद्वरसः । असुरस्य । वीरान् ।
+> यथा । जघंध । धृषता । पुरा । चित् । एव । जहि । शत्रुं । अस्माकं । इंद्र ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते बृहतां परिवृढानां पालयितरिंद्र तपुषा तापकेन दीप्तेन
+> वज्रेणाश्नव अशन्येव वृकद्वरसः संवृतद्वारस्यासुरस्य वीरान् पुत्रान् । यद्वा
+> संवृतद्वारानसुरस्य वीरान् विध्य । ताडय ॥ वृणोतेः सृवृभूशुषिमुषिभ्यः किदिति
+> कर्मणि कन्प्रत्ययः । द्रु गत् । आस्मादौणादिकोऽसन्नत्ययः । वृकाणि संवृतानि
+> द्वरांसि द्वाराणि येषां । बहुव्रीह पूर्वपदप्रकृतिस्वरत्वं ॥ हे इंद्र पुरा
+> चित् पुरापि धृषता धर्षकेण बलेन यथा जघंथ त्वं हतवान् एवैवमेवास्माकं
+> शत्रुं जहि । नाशय ॥ हंतेर्ज इति हौ जादेशः ॥
+
+> *he bṛhaspate bṛhatāṃ parivṛḍhānāṃ pālayitariṃdra tapuṣā tāpakena dīptena*
+> *vajreṇāśnava aśanyeva vṛkadvarasaḥ saṃvṛtadvārasyāsurasya vīrān putrān | yadvā*
+> *saṃvṛtadvārānasurasya vīrān vidhya | tāḍaya ‖ vṛṇoteḥ sṛvṛbhūśuṣimuṣibhyaḥ kiditi*
+> *karmaṇi kanpratyayaḥ | dru gat | āsmādauṇādiko 'sannatyayaḥ | vṛkāṇi saṃvṛtāni*
+> *dvarāṃsi dvārāṇi yeṣāṃ | bahuvrīha pūrvapadaprakṛtisvaratvaṃ ‖ he iṃdra purā*
+> *cit purāpi dhṛṣatā dharṣakeṇa balena yathā jaghaṃtha tvaṃ hatavān evaivamevāsmākaṃ*
+> *śatruṃ jahi | nāśaya ‖ haṃterja iti hau jādeśaḥ ‖*
+
+Gist: O Indra, protector of the great, strike with the blazing bolt, like lightning, the sons of the demon whose doors are closed; as you struck in former times, so destroy our enemy. The grammatical tail (वृणोतेः …कित् (*vṛṇoteḥ …kit*) suffix, द्रु गत् (*dru gat*) Uṇādi suffix, bahuvrīhi accent, हंतेर्ज (*haṃterja*) substitution of ja for han before hi) is noted without explanation.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Bṛhaspate — O Indra, great protector; tapuṣā — with the burning weapon; aśnava [as printed] — as if striking with lightning; vṛkadvarasaḥ — covering the doors; asurasya — of the demon; vīrān — the mighty sons; vidhya — strike; indra — O Indra; purā cit — formerly also; dhṛṣatā — with the thunderbolt that strikes; yathā — in what manner; jaghantha [as printed; the Saṃhitā has जघंथ (*jaghaṃtha*), the Pada जघंध (*jaghaṃdha*)] — you struck; eva — in that same way; asmākaṃ — our; śatruṃ — enemy also; jahi — destroy.
+
 ---
 
-**Progress note:** Done through printed p. 143 (PDF 143). Sūkta 30 Ṛk 1 printed English and Special Topics; Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics; Ṛk 3 Saṃhitā only (Pada follows). Hand fix to kn.md: stray garbled line after p. 141 removed. Flags: accent script DIFF on 4 Saṃhitā lines (kept as supplied, unaccented); Ṛk 2 Saṃhitā/Pada have 'ಅರ್ಥ೦', Saṃhitā 'ಅತ್ರಾ' vs Pada 'ಅತ್ರ', 'ಧುನಯೋ' as supplied; p. 143 Ṛk 3 Saṃhitā 'ಅಧಾ'/'ಜಭಾರ' as supplied; Special Topics p. 143 cites 'ಸಿ. 2-22' (Si. for Ni.) as supplied; p. 143 running head Adhyāya 6 as supplied
+**Progress note:** Done through printed p. 146 (PDF 146). Sūkta 30 Ṛk 3 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; p. 145 Special Topics; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha and printed English follow). Hand fixes to kn.md: Ṛk 4 block split into Saṃhitā/Pada/bhāṣya blocks, garbled labels and stray lines removed, 'This image contains…' line and stray '10' removed, Pratipadārtha un-quoted. Flags: as supplied 'ಜಘಂಥ' (Saṃhitā) vs 'ಜಘಂಧ' (Pada), 'ತೀಷ್ಣಾಯುಧಃ', 'ಆಚ್ಛಾದರ್ಯ', running heads 'ಮಂ. ೨' for Maṇḍala 1; Ṛk 3 Pada 'ಅಂತರಿಕ್ಷೇ ... ಈಂ' as supplied
