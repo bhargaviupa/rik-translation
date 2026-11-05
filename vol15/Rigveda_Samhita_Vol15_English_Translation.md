@@ -24636,6 +24636,87 @@ The meaning of this Ṛk is easy. In it, it is praised that heaven and earth pra
 
 *[The window ends here, at the end of p. 796, after the Pada of Ṛk 11; the next window continues.]*
 
+### Printed p. 797
+
+*[Running head, p. 797: Aṣṭaka 2, Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> इयं सर्वॆषां सशूनां पशुपुरोडाशस्य स्विष्टकृतः पुरोनुवाक्या ।
+> सूत्र्यते हि । इळामग्ने पुरुदंसं सनिं गोर्होता यक्षदग्निं पुरोळाशस्य स्वदस्व
+> हवा समिषो दिदीहीति पुरोळाशस्विस्वकृत इति । आ. ३-५ ॥
+> हे अग्ने पुरुदंसं बहुकर्माणं गोर्गवां सनिं प्रदात्रीमिळां भूमिं
+> हवमानाय स्तुवते मह्यं शश्वत्तमं चिरकालं यथा भवति तथा साध । साधय ।
+> नोऽस्माकं सूनुः पुत्रस्तनयः संतानस्य विस्तारयिता विजावा पुत्रपौत्रादिरूपेण
+> स्वयं विजायत इति विजावा स्यात् । हे अग्ने सा प्रसिद्धा ते सुमतिस्त्वदीयानुग्रहबुद्धिरस्मे अस्मासु भूतु । भवतु ॥
+> अथवा
+> हे अग्ने पुरुदंसं । अपोऽस्नो दंसो वेष इति कर्मनामसु पठितत्वाद्दंसःशब्दः कर्मवाची । पुरूणि बहूनि दंसांसि कर्माणि यस्याः सा । तां बहुकर्माणं गोः सनिं गवादिपशून्संपादयित्रिमिळामेतन्नामिकां गोरूपां देवतां
+> शश्वत्तमं निरंतरं हवमानाय यजमानाय मह्यं साध । साधय। किंच नोऽस्माकं
+> सूनुः पुत्रस्तनयः पौत्रः स्याद्भवत्विति ते तव या सुमतिः शोभना बुद्धिः सा विजावाबंध्या सत्यस्मे आस्माकं भूतु । भवतु ॥ शश्वत्तमं उच्छादिषु पाठादंतोदात्तत्वं । साध । राध साध संसिद्धौ । अंतर्भावितण्यर्थोऽयं । लोट व्यत्ययेन
+> शप् । सेर्ह्यपिच्चेति हिरादेशः । तस्यातो हेरिति लुक् । निघातः । विजावा । जनी
+> प्रादुर्भावे । आस्मादन्येभ्योऽपि दृश्यंत इति वनिप् । विड्वनोरनुनासिकस्यादित्यात्वं ।
+> कृदुत्तरपदप्रकृतिस्वरत्वं । लिंगव्यत्ययः भूतु । भू सत्तायां । बहुलं छंदसीति
+> शपो लुक् । भूसुवोस्ति जीति गुणप्रतिषेधः ॥
+
+*(Gist: this Ṛk is the puroanuvākyā for the sviṣṭakṛt offering of the animal's oblation-cake in all animal sacrifices. Two ways of construing it: "O Agni, grant me the earth Iḷā, giver of cattle; may sons and grandsons be ours; may your good will be fruitful for us"; or, "grant me, the constant offerer, the cow-formed goddess Iḷā". The bhāṣya then gives grammatical notes (śaśvattamam, sādha, vijāvā, bhūtu), which are transcribed but not explained here.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(He) Agne: O Agni. Purudaṃsaṃ: distinguished by many works. Goḥ saniṃ: the bestower of cattle and the like. Iḷāṃ: the goddess named Iḷā, in the form of a cow. Śaśvattamaṃ: perpetually. Havamānāya: to me, who am performing the sacrifice. Sādha: accomplish (favour). Naḥ: to us. Sūnuḥ: a son. Tanayaḥ: a grandson. Syāt: let there be. (He) Agne: O Agni. Te: your. (Yā) sumatiḥ: whatever good will. Sā: that. Asme: for us. Vijāvā: unbarren. Bhūtu: let it be.
+
+### Printed p. 798
+
+*[Running head, p. 798: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 6.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, make the earth, named Iḷā and in the form of a cow, who gives the cattle that help in many works, favourable to us who are constantly engaged in performing sacrifice; and, O Agni, may your good will, that you should grant sons, grandsons and so on to the praisers, be always unbarren (fruitful) for us.
+
+**Printed English translation**
+
+Grant, Agni, to the offerer of the oblation, the earth, the bestower of cattle, the means of many (pious rites), such that it may be perpetual : may there be to us sons and grandsons, born in our race, and may your good-will ever be productive of benefits to us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The bhāṣyakāra has commented on this Ṛk, at the end of the first sūkta of this Maṇḍala, in one way, and afterwards on this same Ṛk at the end of the seventh sūkta of this Maṇḍala in another way; both ways of commentary are explained here. At the sviṣṭakṛt offering in the animal oblation-cake offering this Ṛk is to be recited as the puroanuvākyā mantra, as the Āśvalāyana Śrauta Sūtra explains in the sūtra
+
+⟦ಇಳಾಮಗ್ನೇ ಪುರುದಂಸಂ ಸನಿಂ ಗೋರ್ಹೋತಾ
+ಯಕ್ಷದಗ್ನಿಂ ಪುರೋಳಾಶಸ್ಯ ಸ್ವದಸ್ವ ಹವ್ಯಾ ಸಮಿಷೋ ದಿದೀಹೀತಿ ಪುರೋಳಾಶಸ್ವಿಸ್ಥಕೃತ ಇತಿ⟧ (Ā. 3-5)
+
+(the supplied text has the form स्विस्थकृत (*svisthakṛta*) and, in the bhāṣya, स्विस्वकृत (*svisvakṛta*)).
+
+पुरुदंसं-पुरूणि बहूनि दंसानि कर्माणि यस्याः सा । (*purudaṃsaṃ-purūṇi bahūni daṃsāni karmāṇi yasyāḥ sā |*) The word daṃsa is stated among the twenty-six names of work, अप्पः दंसः (*appaḥ daṃsaḥ*) and the rest (Ni. 3-2). The meaning is: possessing many works.
+
+गोः सनिं—गवादिपशून् संपादयित्रीं । (*goḥ saniṃ—gavādipaśūn saṃpādayitrīṃ |*) The word go has many meanings: earth, speech, animal, ray. Since the words goḥ saniṃ are epithets of the word iḷāṃ, the meaning is described that the goddess Iḷā grants everything beginning with cows.
+
+इळां—एतन्नामिकां गोरूपां देवतां । (*iḷāṃ—etannāmikāṃ gorūpāṃ devatāṃ |*) The word iḷā is stated among the names of the earth (Ni. 2-5); it is also stated among the names of speech (Ni. 2-23), among the names of food (Ni. 3-9) and among the names of cow (Ni. 3-6). And the word iḷā is formed from the root īś.
+
+### Printed p. 799
+
+*[Running head, p. 799: Aṣṭaka 2, Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+⟦ಅಭಿ ನ ಇಳಾ ಯೂಥಸ್ಯ ಮಾತಾ ಸ್ಮನ್ನದೀಭಿರುರ್ವಶೀ ವಾ ಗೃಣಾತು ।
+ಉರ್ವಶೀ ವಾ ಬೃಹದ್ದಿವಾ ಗೃಣಾನಾಭ್ಯೂರ್ವಾನಾ ಪ್ರಭೃಥಸ್ಯಾಯೋಃ ।
+ಸಿಷಕ್ತು ನ ಊರ್ಜವ್ಯಸ್ಯ ಪುಷ್ಟೇಃ ॥⟧
+(printed ಮ. सं (*saṃ*). 5-41-19, 20)
+
+In these Ṛks the goddess Iḷā or Iḍā is explained as a deity of the middle place. Sāyaṇa has explained the meaning as a deity named Iḷā who has taken the form of a cow.
+
+⟦ಶಶ್ವತ್ತಮಂ ಹವಮಾನಾಯ ಸಾಧ—ನಿರಂತರಂ ಹವಮಾನಾಯ ಯಜಮಾನಾಯ ಮಹ್ಯಂ
+ಸಾಧಯ ।⟧ Agni is prayed that the favour of the goddess Iḷā, who is in the form of a cow, full of abundant greatness, and who fulfils the desired aims of me, the sacrificer who always gratifies Agni with oblations, may be obtained.
+
+सूनुः—पुत्रः, तनयः पौत्रः । (*sūnuḥ—putraḥ, tanayaḥ pautraḥ |*) The words tanaya and sūnu are read among the fifteen names of offspring, तुक्, तोकं (*tuk, tokaṃ*) and the rest (Ni. 3-2).
+
+⟦ಏತಾ ವಿಶ್ವಾ ಸವನಾ ತೂತುಮಾ ಕೃಷೇ ಸ್ವಯಂ ಸೂನೋ ಸಹಸೋ ಯಾನಿ ದಧಿಷೇ ।
+ವರಾಯ ತೇ ಪಾತ್ರಂ ಧರ್ಮಣೇ ತನಾ ಯಜ್ಞೋ ಮಂತ್ರೋ ಬ್ರಹೋದ್ಯತಂ ವಚಃ ॥⟧
+(printed ಋ. सं (*saṃ*). 10-50-6, with an unclosed bracket; repeated as ಮ. सं (*saṃ*). 10-50-6)
+
+In this Ṛk the word सूनो (*sūno*) is explained as son, and Agni is called सहससूनो (*sahasasūno*), "son of strength" (printed with सहसस्पुत्र (*sahasasputra*) in brackets). Sāyaṇa explains the word sūnu as son and the word tanaya as grandson (son's son).
+
+सुमतिः—शोभना बुद्धिः । (*sumatiḥ—śobhanā buddhiḥ |*) The Nirukta authors explain देवसुमतिं (*devasumatiṃ*) as the auspicious thought of the gods; वैश्वानरस्य सुमत् सौ स्याम (*vaiśvānarasya sumat sau syāma*) (so printed) as being in the auspicious thought; and वयं देवस्य धीमहि सुमतिं सत्यधर्मणः (*vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ*) with the same sense, auspicious thought. Sāyaṇa prays that there may be, in our case, the auspicious thought of Agni, such as the birth and growth of sons, grandsons and so on, which Agni can grant to the sacrificers who have gratified him with oblations.
+
+*[The window ends here, at the end of p. 799, after the Special Topics of the last Ṛk of Sūkta 6. The supplied text of this window has no further lines; the source file continues with the closing lines of the adhyāya, which come in the next window.]*
+
 ---
 
-**Progress note:** Done through printed p. 796 (PDF 796). Sūkta 6 Ṛk 9 Special Topics end (wives of the gods); Ṛk 10 (full) and Special Topics; Ṛk 11 Saṃhitā and Pada
+**Progress note:** Done through printed p. 799 (PDF 799). Sūkta 6 Ṛk 11 (bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); end of the Sūkta 6 text
