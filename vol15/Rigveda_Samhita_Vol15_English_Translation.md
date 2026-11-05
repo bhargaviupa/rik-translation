@@ -8950,6 +8950,100 @@ Vigorous, he has generated himself as an embryo in those (waters): he is their i
 > *asminpade parame tasthivāṃsamadhvasmabhirviśvahā dhīdivāṃsaṃ |*
 > *āpo napre ghṛtamannaṃ vahaṃtīḥ svayamatkaiḥ pari dīyaṃti yahvīḥ ‖*
 
+### Printed p. 285
+
+**॥ पदपाठः ॥**
+
+> अस्मिन् । पदे । परमे । तस्थिवांसं । अध्वस्मभिः । विश्वहा । दीदिवांसं ।
+> आपः । नप्रे । घृतं । अन्नं । वहंतीः । स्वयं । अत्कैः । परि । दीयंति । यह्वीः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> परम उत्कृष्टेऽस्मिन्पदे०तरिक्षलक्षणे स्थाने तस्थिवांसं स्थितवंतमध्वस्मभि-
+> र्ध्वंसनरहितैस्तेजोभिर्विश्वहा सर्वाण्यहानि दीदिवांसं दीप्यमानमपां नपातं
+> यह्वीर्यहो महत्य आपः स्वयमात्मनैवात्करतनशील्कॆः सततगंतृभिः स्वकीयै
+> रूपैः परिदीयंति । परिगच्छंति ॥ दीयतिर्गतिकर्मा । दीज् क्षये । व्यत्ययेन
+> परस्मैपदं ॥ किं कुर्वत्यः । नप्रेऽपां नपाते घृतं क्षरणशीलोदकात्मकमन्नं
+> वहंतीर्वहंत्यः ॥
+
+*Gist: the waters, bearing watery food to their grandson Apāṃ napāt, who abides in the supreme intermediate region and shines daily with undecaying lustre, flow around him of their own accord.*
+
+The grammatical tail of the bhāṣya (दीयति (*dīyati*) as a verb of motion, from the root दीज् (*dīj*) "to waste away", with an irregular parasmaipada) is transcribed above and not explained.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ಪರಮೇ (parame)—in that supremely excellent; ಅಸ್ಮಿನ್ ಪದೇ (asmin pade)—place in the form of the atmosphere; ತಸ್ಥಿವಾಂಸಂ (tasthivāṃsaṃ)—who abides; ಅಧ್ವಸ್ಮಭಿಃ (adhvasmabhiḥ)—with undecaying radiances; ವಿಶ್ವಹಾ (viśvahā)—on all days; ದೀದಿವಾಂಸಂ (dīdivāṃsaṃ)—and who shines, the fire called Apāṃ napāt; ಯಹ್ವೀಃ (yahvīḥ)—of great form; ಅಪಃ (apaḥ)—the waters; ನಪ್ನೇ (napne)—to their grandson; ಧೃತಂ (dhṛtaṃ) [sic, as supplied; the Saṃhitā has ಘೃತಂ]—watery; ಅನ್ನಂ (annaṃ)—food; ವಹಂತೀಃ (vahaṃtīḥ)—carrying; ಸ್ವಯಂ (svayaṃ)—by their own impulse; ಅತ್ಕೈಃ (atkaiḥ)—with their own forms that move constantly; ಪರಿ ದೀಯಂತಿ (pari dīyaṃti)—flow around him.
+
+**भावार्थ (Bhāvārtha)**
+
+Having in view the fire called Apāṃ napāt, who abides in that supremely excellent place in the form of the atmosphere and shines on all days with undecaying radiances, the great waters, carrying watery food to their grandson, flow around him by their own impulse with their own forms that move constantly.
+
+**Printed English**
+
+The abundant waters, bearing sustenance to their grandson, flow round him wiih [sic] spontaneous movements; when abiding in his supreme sphere, and shining daily with imperishable (rays).
+
+### Printed p. 286
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The deity Apāṃ napāt is परमे पदे तस्थिंवांसं (*parame pade tasthiṃvāṃsaṃ*) (the supplied text has ತಸ್ಥಿಂವಾಂಸಂ)—उत्कृष्टे अंतरिक्षलक्षणे स्थाने स्थितवंतं (*utkṛṣṭe aṃtarikṣalakṣaṇe sthāne sthitavaṃtaṃ*). The word *paramapada* is explained as the atmosphere, which is the highest of all or the most excellent, and the deity is also described as one who dwells in the atmosphere.
+
+अध्वस्मभिः विश्वहा दीदिवांसं (*adhvasmabhiḥ viśvahā dīdivāṃsaṃ*)—ध्वंसनरहितैः तेजोभिः सर्वाण्यहानि दीप्यमानं (*dhvaṃsanarahitaiḥ tejobhiḥ sarvāṇyahāni dīpyamānaṃ*): it is explained that this deity shines at all times with his own lustres, which are not put down by other lights or which suffer no fall.
+
+यह्वीः आपः स्वयमत्कैः परि दीयंति (*yahvīḥ āpaḥ svayamatkaiḥ pari dīyaṃti*)—महत्यः आपः आत्मना सततगंतृभिः स्वकीयैः रूपैः परिगच्छंति (*mahatyaḥ āpaḥ ātmanā satatagaṃtṛbhiḥ svakīyaiḥ rūpaiḥ parigacchaṃti*). The abundant waters, of themselves, being all around with their respective forms which are endowed with the nature of flowing at all times, serve this deity.
+
+And नप्रे अपांनपाते धृतमन्नं वहंतीः (*napre apāṃnapāte dhṛtamannaṃ vahaṃtīḥ*): the meaning is given that the rivers too, flowing by nature, carry food in the form of water for this deity. From this it is indicated, and may be understood, that the common practice of the world is stated: just as dependants or kinsmen, who are close to a lord of lofty and honoured station and radiant, and who are favoured by him, serve him, so the waters and rivers serve this deity.
+
+The meaning of the word *paramapada* has been explained fully elsewhere.
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> अयां॑समग्ने सुक्षि॒तिं जना॒यायां॑समु म॒घव॑द्भ्यः सुवृ॒क्तिं ।
+> विश्वं॒ तद्भ॒द्रं यदवं॑ति दे॒वा बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> अयांसं । अग्ने । सुक्षितिं । जनाय । अयांसं । ऊं इति । मघवत्स्भ्यः ।
+> सुवृक्तिं ।
+> विश्वं । तत् । भद्रं । यत् । अवंति । देवाः । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+> *ayāṃsaṃ | agne | sukṣitiṃ | janāya | ayāṃsaṃ | ūṃ iti | maghavatsbhyaḥ |*
+> *suvṛktiṃ |*
+> *viśvaṃ | tat | bhadraṃ | yat | avaṃti | devāḥ | bṛhat | vadema | vidathe | suvīrāḥ ‖*
+
+### Printed p. 287
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने सुक्षितिं शोभननिवासं त्वामयांसं । उपागच्छं । किमर्थं ।
+> जनाय । अस्मदीयपुत्रादिजननार्थं । तथा मघवद्यो हविर्लक्षणधनयुक्तेभ्यो
+> यजमानेभ्यश्च सुवृक्तिं शोभनावर्जकं त्वद्विषयं स्तोत्रमयांसं । उपागच्छं॥
+> यम उपरमे ॥ अतः कारणाद्यद्भद्रं सर्वे देवा अवंति रक्षंति विश्वं सर्वं
+> तद्भद्रमस्माकं भवतु । सुवीराः सुपुत्रा वयं विदथे यज्ञे गृहे वा बृहत्
+> प्रौढं स्तोत्रं वदेम । उच्चारयाम ॥
+
+*Gist: Agni, I have come to you for offspring and with a hymn for the offerers; may all the good that the gods protect be ours, and may we, rich in sons, recite a mighty hymn at the sacrifice.*
+
+The grammatical tail of the bhāṣya (the root यम उपरमे (*yama uparame*), "to cease") is transcribed above and not explained.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ಅಗ್ನೇ (agne)—O Agni; ಸುಕ್ಷಿತಿಂ (sukṣitiṃ)—you, who have an excellent dwelling; ಜನಾಯ (janāya)—for the sake of offspring; ಆಯಾಂಸಂ (āyāṃsaṃ)—I have approached (to ask); ಮಘವದ್ಭ್ಯಃ (maghavadbhyaḥ)—for the sacrificers who are endowed with wealth in the form of oblations; ಸುವೃಕ್ತಿಂ (suvṛktiṃ)—a beautiful hymn; ಅಯಾಂಸಂ (ayāṃsaṃ)—I have approached, offering; ಯತ್ ಭದ್ರಂ (yat bhadraṃ)—which good; ದೇವಾಃ (devāḥ)—all the gods; ಅವಂತಿ (avaṃti)—protect; ವಿಶ್ವಂ ತತ್ (viśvaṃ tat)—all that good (may it also fall to us); ಸುವೀರಾಃ (suvīrāḥ)—we, endowed with excellent sons; ವಿದಥೇ (vidathe)—in the house of sacrifice; ಬೃಹತ್ (bṛhat)—a mature hymn; ವದೇಮ (vadema)—will recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, I have approached you, who have an excellent dwelling, to ask for offspring. I have approached, offering a beautiful hymn for the sacrificers endowed with wealth in the form of oblations. May all that good which all the gods protect fall to us also. We, endowed with excellent sons, will recite a mature hymn in the house of sacrifice.
+
+**Printed English**
+
+I:have [sic] come, Agni, to you, (the giver) of good dwellings. for the sake of offspring : I have come with a propitiatory hymn for the sake of the opulent (offerers of oblations) : may all the good which the gods defend (be ours) ; that, blessed with excellent descendants, we may worthily glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of the first half of this Ṛk may be said to be a prayer of the seer who saw the mantra, and that of the second half a prayer of the sacrificers (who perform the sacrifice).
+
 ---
 
-**Progress note:** Done through printed p. 284 (PDF 284). Sūkta 35 Ṛk 12 Special Topics, Ṛk 13 complete, Ṛk 14 Saṃhitā begun (Pada on p. 285); kn.md hand-fixes: Pratipadārtha split out of bhāṣya block and un-quoted; OCR slips kept: ತನ್ನಾ/ವಿವೇಶ, ಅಪ್ಪು, ಆಯಂ, ಮೇಘ ಮಧ್ಯ, ವಿದ್ಯದ್ರೂಪ in Bhāvārtha, ಕಾಷ್ಠಾಡಿ; accent DIFF 3 lines
+**Progress note:** Done through printed p. 287 (PDF 287). Sūkta 35 Ṛk 14 complete, Ṛk 15 Saṃhitā/Pada/bhāṣya/Pratipadārtha/Bhāvārtha/English/Special Topics complete (p. 287); kn.md fixes: garbled Bhāvārtha labels (ಭವಾರ್ಥ, ಭಾನುವಾರ) replaced by standard; OCR slips kept: ಧೃತಂ, ತಸ್ಥಿಂವಾಂಸಂ, ಶೀಲ್ಕೆಃ, ಅಧ್ವಸ್ಮಭಿ, ಮಘವತ್ಸ್ಭ್ಯಃ; accent DIFF 1 line
