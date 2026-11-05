@@ -11059,6 +11059,108 @@ The warrior, eager for victory, who has gone forth (to battle), turns back; (for
 > *tvayā hitamapyamapsu bhāgaṃ dhanvānvā mṛgayaso vi tasthuḥ |*
 > *vanāni vibho nakirasya tāni vratā devasya saviturminaṃti ‖ 7 ‖*
 
+### Printed p. 350
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 38, p. 350.*
+
+**॥ पदपाठः ॥**
+
+> त्वया । हितं । अप्यं । अप्सु । भागं । धन्व । अनु । आ । मृगयसः । वि । तस्थुः ।
+> वनानि । विभ्यः । नकिः । अस्य । तानि । व्रता । देवस्य । सवितुः । मिनंति ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सवितस्त्वयाप्संतरिक्षे ॥ आपः पृथिवीत्यंतरिक्षनामसु पाठात् ॥ जलाधारे
+> वा हितं निहितमप्यमपां संबंधिनं भागं धन्वानु निर्जलप्रदेशेश्वरणेषु मृग-
+> यसो मृगयमाणा मृगा आ समंताद्वितस्थुः । अधितिष्ठंति । किंच वनानि वृक्षा
+> विभ्यः पक्षिभ्य आवासादिरूपेण त्वया भागो दत्तः । अस्य देवस्य सवितुस्तानि तादृशानि
+> व्रता व्रतानि कर्माणि नकिर्मिनंति । केऽपि न हिंसंति ॥
+
+*Gist: Savitṛ, you have placed the share belonging to the waters in the firmament; animals search for it in waterless regions; you have made the trees dwellings for birds; no one can obstruct this god's works.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(सवितः (*savitaḥ*) — O Savitṛ). त्वया (*tvayā*) — by you. अप्पु (*appu*) (as supplied) — in the firmament. हितं (*hitaṃ*) — what has been placed. अप्यं (*apyaṃ*) — what belongs to the waters (the Kannada says "to the belly", उदरसंबंधवादुदू (*udarasaṃbaṃdhavādudū*), as supplied). भागं (*bhāgaṃ*) — the share. धन्वानु (*dhanvānu*) — in waterless forest regions. मृगयसः (*mṛgayasaḥ*) — the animals that search. आ (*ā*) — all around. वि तस्थुः (*vi tasthuḥ*) — stand pressing in. वनानि (*vanāni*) — the forest trees. विभ्यः (*vibhyaḥ*) — to the birds (you have arranged them as dwellings). अस्य देवस्य सवितुः (*asya devasya savituḥ*) — of this Savitṛ, who is divine in nature. तानि व्रता (*tāni vratā*) — such extraordinary works. नकिः मिनंति (*nakiḥ minaṃti*) — no one can obstruct.
+
+**भावार्थ (Bhāvārtha)**
+
+O Savitṛ, the animals that search in the waterless forest regions press in all around the share connected with water (or "the belly" as supplied) that you have placed in the firmament. You have arranged the forest trees to be dwellings for the birds. No one can obstruct the extraordinary works of this Savitṛ, who is divine in nature.
+
+**Printed English translation**
+
+The animals search in dry places for the watery element which has been collected in the firmament by you : the woods are assigned (by you) to the birds : no one obstructs these functions of the divine Savitri.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अप्यं (*apyaṃ*)—अपां संबंधिनं भागं (*apāṃ saṃbaṃdhinaṃ bhāgaṃ*) — the share that belongs to water, that is, the region of water.
+
+### Printed p. 351
+
+*Running head: Aṣṭaka 2, Adhyāya 8, Varga 3, Ṛgvedasaṃhitā, p. 351.*
+
+अप्पु (*appu*)—अंतरिक्षे (*aṃtarikṣe*) । Because the words आपः (*āpaḥ*) and पृथिवी (*pṛthivī*) are read among the names of the firmament (Ni. 2-10), अप्पु (*appu*) means "in the firmament".
+
+धन्व (*dhanva*)—The word धन्व (*dhanva*) is read among the names of the firmament (Ni. 2-10), and there is also the explanation धन्वांतरिक्षं धन्वंत्सस्मादापः (*dhanvāṃtarikṣaṃ dhanvaṃtsasmādāpaḥ*) (as supplied, the second part looks garbled) (Ni. 5-5). The Bhāṣyakāra explains it with निर्जलप्रदेशेश्वरणेषु (*nirjalapradeśeśvaraṇeṣu*) (as supplied): a waterless forest region.
+
+नकिः (*nakiḥ*)—The particle नकिः (*nakiḥ*) is read among the nine groups of pronominal words beginning हिकं नुकं (*hikaṃ nukaṃ*) (as supplied) (3-12). It means "not at all".
+
+त्वया अप्पु हितं अप्यं भागं धन्व अनु मृगयसः आ वि तस्थुः (*tvayā appu hitaṃ apyaṃ bhāgaṃ dhanva anu mṛgayasaḥ ā vi tasthuḥ*)—हे सवितः त्वया अंतरिक्षे निहितं अपां संबंधिनं भागं निर्जलप्रदेशेश्वरणेषु मृगयमाणा मृगाः आसमंतात् अधितिष्ठंति (*he savitaḥ tvayā aṃtarikṣe nihitaṃ apāṃ saṃbaṃdhinaṃ bhāgaṃ nirjalapradeśeśvaraṇeṣu mṛgayamāṇā mṛgāḥ āsamaṃtāt adhitiṣṭhaṃti*) । O god Savitṛ, in order that rain may fall you have established water in the firmament in the form of clouds. Since there has been no rain, there is no water anywhere on the earth. Therefore the animals of the forest, searching for the water that sustains life, roam in the waterless forest regions.
+
+वनानि विभ्यः (*vanāni vibhyaḥ*)—वृक्षा आवासादिरूपेण त्वया भागो दत्तः (*vṛkṣā āvāsādirūpeṇa tvayā bhāgo dattaḥ*) । Trees and the like have been arranged by you as dwelling places for birds.
+
+अस्य देवस्य सवितुः तानि व्रता नकिः मिनंति (*asya devasya savituḥ tāni vratā nakiḥ minaṃti*)—तादृशानि सवितुः कर्माणि केऽपि न हिंसंति (*tādṛśāni savituḥ karmāṇi ke 'pi na hiṃsaṃti*) । These rules of Savitṛ, that is, the works mentioned above, the wandering of animals in the forest for water and the nesting and dwelling of birds in trees, go on according to Savitṛ's command. No one is able to obstruct them; this is the meaning.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> या॒द्रा॒ध्यं१॒॑ वरु॑णो॒ योनि॒मप्य॒मनि॑शितं नि॒मिषि॒ जर्भु॑राणः ।
+> विश्वो॑ मार्तां॒डो व्र॒जमा प॒शुर्गा॑त्स्थ॒शो जन्मा॑नि सवि॒ता व्याकः॑ ॥
+
+> *yādrādhyaṃ varuṇo yonimapyamaniśitaṃ nimiṣi jarbhurāṇaḥ |*
+> *viśvo mārtāṃḍo vrajamā paśurgātsthaśo janmāni savitā vyākaḥ ‖*
+
+### Printed p. 352
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 38, p. 352.*
+
+**॥ पदपाठः ॥**
+
+> यार्त्स्राध्यं । वरुणः । योनिं । अप्यं । अनिशितं । निमिषि । जर्भुराणः ।
+> विश्वः । मार्तांडः । व्रजं । आ । पशुः । गात् । स्थतः । जन्मानि । सविता । वि । आ ।
+> अकरित्यकः ॥ ८ ॥
+
+> *yārtsrādhyaṃ | varuṇaḥ | yoniṃ | apyaṃ | aniśitaṃ | nimiṣi | jarbhurāṇaḥ |*
+> *viśvaḥ | mārtāṃḍaḥ | vrajaṃ | ā | paśuḥ | gāt | sthataḥ | janmāni | savitā | vi | ā |*
+> *akarityakaḥ ‖ 8 ‖*
+
+*Note: the Pada as supplied reads यार्त्स्राध्यं (*yārtsrādhyaṃ*), स्थतः (*sthataḥ*) and अकरित्यकः (*akarityakaḥ*) where the Saṃhitā has याद्राध्यं (*yādrādhyaṃ*), स्थशो (*sthaśo*) and व्याकः (*vyākaḥ*); noted, not altered.*
+
+**॥ सायणभाष्यम् ॥**
+
+> वरुणो याद्राध्यं यातां गच्छतां राध्यं राधनीयमप्यमाप्तुं योग्य-
+> मनिशितमतीक्ष्णं । सुखकरमिति यावत् । योनिं स्थानं निमिषि निमेषे सवितुरस्त-
+> मये सति विश्रमार्थं प्राणिभ्यः प्रयच्छति । वरुणस्य रात्रेनिर्वाहकत्वात् ।
+> जर्भुराणो भृशं गच्छन् विश्वः सर्वो मार्तांडो मृताद्भिन्नादंडादुत्पद्यमानः
+> पक्ष्यागात् । आगच्छति । विश्वः पशुरपि व्रजं गोष्ठमागात् । सविता प्रेरकः स्थशः स्थाने
+> स्थाने जन्मानि जातानि भूतानि व्याकः । पृथगकार्षित् ॥
+
+*Gist: at sunset Varuna grants moving beings a pleasant resting place; birds and cattle return to nests and pens; Savitṛ distributes creatures to their several places.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वरुणः (*varuṇaḥ*) — Varuṇa. याद्राध्यं (*yādrādhyaṃ*) — what is worthy of worship by moving living beings. अप्यं (*apyaṃ*) — what is fit to enter. अनिशितं (*aniśitaṃ*) — agreeable. योनिं (*yoniṃ*) — dwelling place. निमिषे (*nimiṣe*) — after sunset (he arranges it for the rest of living beings). जर्भुराणः (*jarbhurāṇaḥ*) — those that fly in haste. विश्वः (*viśvaḥ*) — all. मार्तांडः (*mārtāṃḍaḥ*) — birds. आ गात् (*ā gāt*) — come and gather (in their nests). पशुः (*paśuḥ*) — cattle also. व्रजं (*vrajaṃ*) — come and gather in the pen. सविता (*savitā*) — Savitṛ, the impeller. स्थशः (*sthaśaḥ*) — in the several directions. जन्मानि (*janmāni*) — living beings. व्याकः (*vyākaḥ*) — separated them one from another.
+
+**भावार्थ (Bhāvārtha)**
+
+After sunset Varuṇa arranges, for the rest of living beings, dwelling places that are worthy of worship by moving creatures, fit to enter and agreeable. All the birds, flying in haste, come and gather in their nests. Cattle also gather in their pens. Savitṛ, the impeller, has separated living beings one from another in all directions.
+
+**Printed English translation**
+
+The ever-going Varuna grants a cool, accessible, and agreeable place (of rest), to all moving (creachers) [sic], on the closing of eyes (of Savitri);
+
+*(The printed translation of this Ṛk breaks off here in the supplied text at the end of p. 352; it continues on p. 353.)*
+
 ---
 
-**Progress note:** Done through printed p. 349 (PDF 349). Sukta 38 Rk 5 Special Topics finished; Rk 6 complete; Rk 7 Samhita only (rest next window); Special Topics label garbled in source, variants devyasya/suras ya/arthakrta noted; flags: none
+**Progress note:** Done through printed p. 352 (PDF 352). Sukta 38 Rk 7 finished (Pada, bhasya, Pratipadartha, Special Topics); Rk 8 through printed English start (translation breaks off mid-Rk at p. 352 end, continues next window); Special Topics of Rk 8 next; flags: Pada/bhasya variant spellings noted, none altered
