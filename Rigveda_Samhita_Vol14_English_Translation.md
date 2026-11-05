@@ -33705,6 +33705,123 @@ Indra, the delighter(of all), the first act performed by you in ancient time was
 
 नर्यं (*naryaṃ*)—नराणां हितकरं (*narāṇāṃ hitakaraṃ*). The meaning is: beneficial to men.
 
+### Printed p. 902
+
+*(Header: "902 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 23]", as supplied; the page belongs to the end of Sūkta 22 and the beginning of Sūkta 23.)*
+
+नृतो (*nṛto*)—सर्वेषां नर्तयितः (*sarveṣāṃ nartayitaḥ*). The word means "one who makes all (with joy) dance", and in the vocative singular it is an epithet of the word Indra. But it cannot be said that the meaning stated here for this word is suitable to the context.
+
+अपः (*apaḥ*)—कर्म (*karma*). Since the word अपः (*apaḥ*) is read among the names of action (Ni. 3-1), अपः (*apaḥ*) means action, work.
+
+प्रथमं (*prathamaṃ*)—मुख्यवाद (*mukhyavāda*): principal, chief. For this word Yāska has given the etymology प्रथम इति मुख्यनाम प्रतमो भवति (*prathama iti mukhyanāma pratamo bhavati*) (Ni. 2-22) (as supplied).
+
+देवस्य (*devasya*)—विजिगीषोरसुरस्य (*vijigīṣorasurasya*). For this word the bhāṣyakāra has explained the meaning as "of the asura who desires to conquer".
+
+शवसा (*śavasā*)—The word शवः (*śavaḥ*) is read among the names of water (Ni. 2-24) and among the names of strength (Ni. 3-9) (the supplied text has ಪರಿತ for the usual ಪಠಿತ, "read"). Here it is used in the sense of strength.
+
+*(The Kannada line "ಇಪ್ಪತ್ತಮೂರನೆಯ ಸೂಕ್ತವು." ("the twenty-third sūkta") follows, with the stray characters ":0:" after it in the supplied text. Sūkta 22 has no Sanskrit colophon or Kannada closing line in the supplied text.)*
+
+## Sūkta 23
+
+**Sāyaṇa's introduction (Sanskrit):**
+
+> तृतीयेऽनुवाके दश सूक्तानि । तत्रेदमेकोनविंशत्यृचं गार्त्समदं
+> प्रथमं सूक्तं । अत्रेयमनुक्रमणिका । गणानामेकोना ब्राह्मणस्पत्यं ह बार्ह-
+> स्पत्यास्तु दृष्टलिंगाः पंचदश्यंत्ये त्रिष्टुभाविति । पंचदश्येकोनविंशी च त्रिष्टुभौ ।
+> शिष्टा जगत्यः । यासु बृहस्पतिशब्दः श्रूयते ता बार्हस्पत्याः । शिष्टा ब्राह्मणस्पत्याः ॥
+> प्रवर्ग्येऽभिष्टव एतत्तूक्तं । स्पष्टोदकमिति खंडे सूत्रितं । गणानां त्वा प्रथश्च
+> यस्य । आ- ४-६ । इति ॥
+
+**Anuvāda**
+
+The Kannada: "With this sūkta गणानां त्वा (*gaṇānāṃ tvā*) the third anuvāka of the second Maṇḍala begins. In this third anuvāka there are ten sūktas. Among them the sūkta गणानां त्वा (*gaṇānāṃ tvā*) is the first. It has nineteen Ṛks. Gṛtsamada is the ṛṣi of this sūkta. In the Anukramaṇikā it is said: गणानामेकोना ब्राह्मणस्पत्यं ह बार्हस्पत्यास्तु दृष्टलिंगाः पंचदश्यंत्ये त्रिष्टुभाविति (*gaṇānāmekonā brāhmaṇaspatyaṃ ha bārhaspatyāstu dṛṣṭaliṃgāḥ paṃcadaśyaṃtye triṣṭubhāviti*). The fifteenth and nineteenth Ṛks of this sūkta are in the Triṣṭup metre; the remaining Ṛks are in the Jagatī metre. The Ṛks that contain the word Bṛhaspati (the supplied text prints ಖೃಹಸ್ಪತಿ) have Bṛhaspati as deity; the remaining Ṛks have Brahmaṇaspati as deity. The application (viniyoga) of this sūkta in the abhiṣṭava of the sacrifice called Pravargya is explained by the sūtra गणानां त्वा प्रथश्च यस्य (*gaṇānāṃ tvā prathaśca yasya*) in the section called स्पष्टोदकं (*spaṣṭodakaṃ*) of the Āśvalāyana Śrauta Sūtra (Ā. 4-6)."
+
+### Printed p. 903
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 29] Ṛgveda Saṃhitā 903", as supplied.)*
+
+**Sūkta heading block:**
+
+> ॥ ओं ॥
+> सूक्त—२३
+> ॥ मंडल—२ ॥ अनुवाक—३ ॥ सूक्त—२३ ॥
+> ॥ अष्टक— २ ॥ अध्याय— ६ ॥ वर्ग—२९, ३०, ३१, ३२ ॥
+> । सूक्तदल्लिरुव ऋक्संख्यॆ-१९ ।
+> ऋषिः—गृत्समदः ॥
+> देवता—१, ५, ९, ११, १७, १९ ब्रह्मणस्पतिः ।
+> २-४, ६-८, १०, १२-१६, १८ बृहस्पतिः ॥
+> छंदः—१-१४, १६-१८, जगती । १५, १९ त्रिष्टुप्
+
+*(Number of Ṛks in the sūkta: 19. Ṛṣi: Gṛtsamada. Deities: Ṛks 1, 5, 9, 11, 17, 19 Brahmaṇaspati; Ṛks 2-4, 6-8, 10, 12-16, 18 Bṛhaspati. Metre: Ṛks 1-14 and 16-18 Jagatī; Ṛks 15 and 19 Triṣṭup. The Varga numbers are printed as 29, 30, 31, 32.)*
+
+#### Ṛk 1
+
+*(In the supplied text the Saṃhitā and Pada, and the label of the bhāṣya, were run together with a duplicate of both inside an HTML title attribute; the duplicate was left out, the Saṃhitā was joined into the two lines of the reference, and the Pada was set on its own lines. In the Saṃhitā the first words गणानां त्वा (*gaṇānāṃ tvā*) are printed in Kannada script and the rest in Devanagari, as supplied. In the first Pada line the supplied text had Telugu vowel and anusvara signs in the word *gaṇānāṃ*, which were written as the same signs in Kannada script. The Devanagari-script Saṃhitā and Pada words of the supplied text were converted letter for letter into Kannada script in kn.md. The Saṃhitā ends *sārdasaṃ* against the Pada and bhāṣya *sadanam*; left as supplied, no correction made.)*
+
+**॥ संहितापाठः ॥**
+
+> ग॒णानां॑ त्वा ग॒णप॑तिं हवामहे क॒विं क॑वी॒नामु॑प॒मश्र॑वस्तमं ।
+> ज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णाम् ब्रह्मणस्पत॒ आ नः॑ शृ॒ण्वन्नू॒तिभिः॑ सीद॒ सार्॑दसं ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> गणानां । त्वा । गणपतिं । हवामहे । कविं । कवीनां । उपमश्रवस्तमं ।
+> ज्येष्ठराजं । ब्रह्मणाम् । ब्रह्मणः । पते । आ । नः । शृण्वन् । ऊतिभिः । सीद । सदनम्॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते ब्रह्मणोऽन्नस्य परिवृढस्य कर्मणो वा पते पालयितः गणा-
+> नां देवादिगणानां संबंधिनं गणपतिं स्वियानां पतिं । कवीनां क्रांतदर्शिनां
+> कविं । उपमश्रवस्तमं । उपमीयतेऽनयेत्युपमा । सर्वेषामन्नानामुप-
+> मानं श्रवोऽन्नं यस्य स तथोक्तः । अतिशयेनोपमश्रवा उपमशवस्तमः ॥ उप-
+> मःमाज् माने । आतश्चोपसर्गे करणेऽज्‌प्रत्ययः । ज्यापोः संज्ञाछंदसोरिति
+> ह्रस्वत्वं॥ज्येष्ठराजं।ज्येष्ठाः प्रशस्यतमाः।तेषां मध्यॆ राजंतं ब्रह्मणां मंत्राणां
+
+> *he brahmaṇaspate brahmaṇo 'nnasya parivṛḍhasya karmaṇo vā pate pālayitaḥ gaṇā-*
+> *nāṃ devādigaṇānāṃ saṃbaṃdhinaṃ gaṇapatiṃ sviyānāṃ patiṃ | kavīnāṃ krāṃtadarśināṃ*
+> *kaviṃ | upamaśravastamaṃ | upamīyate 'nayetyupamā | sarveṣāmannānāmupa-*
+> *mānaṃ śravo 'nnaṃ yasya sa tathoktaḥ | atiśayenopamaśravā upamaśavastamaḥ ‖ upa-*
+> *maḥmāj māne | ātaścopasarge karaṇe 'jpratyayaḥ | jyāpoḥ saṃjñāchaṃdasoriti*
+> *hrasvatvaṃ‖jyeṣṭharājaṃ|jyeṣṭhāḥ praśasyatamāḥ|teṣāṃ madhyè rājaṃtaṃ brahmaṇāṃ maṃtrāṇāṃ*
+
+*(The bhāṣya continues on p. 904. In the supplied text the line ending the grammatical part reads उपमःमाज् माने (*upamaḥmāj māne*) in Kannada script, as supplied; not corrected.)*
+
+### Printed p. 904
+
+*(Header: "904 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 3 Sū. 25]", as supplied; the sūkta number 25 is printed in the header while the sūkta is the twenty-third.)*
+
+**Sāyaṇa-bhāṣya (continued)**
+
+> स्वामिनं त्वा त्वां हवामहे । अस्मिन्कर्मण्याह्वयामः । किंच नोऽस्माकं स्तुतीति
+> शृण्वन् त्वमूतिभिः पालनैर्हेभूतैः सादनं । सीदंत्यस्मिन्निति सदनं । यज्ञगृहमा-
+> सीद । उपविश ॥
+
+*Gist: O Brahmaṇaspati, lord of the gaṇas, wisest of poets, with food beyond compare, we call you to this rite; hear our praises and sit in the sacrificial house with your aids.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati (lord of the grown-up, extensive rites); गणानां (*gaṇānāṃ*)—belonging to the bands of gods; गणपतिं (*gaṇapatiṃ*)—lord of your own band; कवीनां (*kavīnāṃ*)—among poets who see beyond; कविं (*kaviṃ*)—the most excellent poet; उपमश्रवस्तमं (*upamaśravastamaṃ*)—one who has very excellent and measureless food; ज्येष्ठराजं (*jyeṣṭharājaṃ*)—one who shines among the praiseworthy; ब्रह्मणां (*brahmaṇāṃ*)—of the mantras; ब्रह्मणः पते (*brahmaṇaḥ pate*)—who are the lord; त्वा (*tvā*)—you; हवामहे (*havāmahe*)—we call (for the sake of this rite); नः (*naḥ*)—our praises; शृण्वन् (*śṛṇvan*)—hearing; ऊतिभिः (*ūtibhiḥ*)—with your protections (the supplied text prints ನಿನ for ನಿನ್ನ, "your"); सादनं (*sādanaṃ*)—to the sacrificial house; आ सीद (*ā sīda*)—come and sit.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, lord of the grown-up rites, belonging to the bands of gods (as supplied), lord of your own band, the most excellent poet among poets who see beyond, one who has measureless food, who shine among the praiseworthy, who are the lord of the mantras, we call you for the sake of this rite. Hearing our praises, come with your protections to the sacrificial house and sit.
+
+**Printed English translation**
+
+We invoke you, Brahmanaspati, chief leader of the(heavenly) bands: a sage of sages: abounding beyond measure in(every kind of) food: best lord of prayer; hearing our invocations, come with your protections, and sit down in the chamber of sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*(The Kannada heading of this section is विशेषविवरगळु (*viśeṣavivaragaḷu*), "special details", as supplied.)*
+
+There are in all 19 Ṛks in this sūkta. Among them the deity Brahmaṇaspati is praised in Ṛks 1, 5, 9, 11, 13 and 19 (as printed here; the heading block on p. 903 prints 17 in place of 13), and the deity Bṛhaspati in the remaining Ṛks. It is necessary to examine closely who these deities are and what their nature is. The great sage Yāska (the supplied text prints ಯಾಸ್ಯ) says in his Nirukta (Ni. 10-14) about Brahmaṇaspati as follows—
+
+ब्रह्मणस्पतिः । ब्रह्मणस्पतिर्ब्रह्मणः पाता ना पालयिता वा । (*brahmaṇaspatiḥ | brahmaṇaspatirbrahmaṇaḥ pātā nā pālayitā vā |*) (as supplied: पाता ना पालयिता (*pātā nā pālayitā*) with ನಾ, not corrected).
+
+Here, since the word brahma has the meanings food, wealth and hymn of praise (Ni. 3-9), ब्रह्मणः पाता (*brahmaṇaḥ pātā*) means अन्नस्यपाता (*annasyapātā*)—lord or overseer of food (provisions). How Brahmaṇaspati is the overseer of food, Yāska—
+
+*(The page ends here; the passage continues on p. 905.)*
+
 ---
 
-**Progress note:** Done through printed p. 901 (PDF 901). Sukta 22 Rk 3 Bhavartha, printed English, Special Topics done; Rk 4 Samhita (title-attribute first line, slips marked), Pada, bhasya, Pratipadartha, Bhavartha, printed English done; Special Topics of Rk 4 begun
+**Progress note:** Done through printed p. 904 (PDF 904). Sukta 22 Rk 4 Special Topics finished; Sukta 23 begun: introduction, Anuvada, heading block, Rk 1 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English done; general Special Topics of Sukta 23 begun (Yaska on Brahmanaspati, continues)
