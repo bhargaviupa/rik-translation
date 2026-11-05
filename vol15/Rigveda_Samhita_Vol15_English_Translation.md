@@ -18104,6 +18104,67 @@ The word vāja is read among the names of food (Ni. 3-9); the word bhānu is rea
 
 Mandrasya: belonging to the praised Vaiśvānara; varenyaṃ: the most excellent; ahryayaṃ [printed so; the Saṃhitā has ahrayam]: free from shame; ṛgmiyaṃ: praiseworthy. Vājaṃ: food.
 
+### Printed p. 573
+
+*[Running head, p. 573: Aṣṭaka 2, Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+Saniṣyantaḥ: we who desire. Bhṛgūṇāṃ: to the Bhṛgu sages. Rātiṃ: the giver of the desired object. Uśijaṃ: him who is the object of our longing. Kavikratuṃ: him of far-reaching wisdom. Divyena: born in the heavenly world. Śociṣā: with radiance. Rājantaṃ: him who shines. Agniṃ: Agni. Ā vṛṇīmahe: we worship.
+
+**भावार्थ (Bhāvārtha)**
+
+We, desiring food that belongs to the praised Vaiśvānara, that is most excellent, free from shame and praiseworthy, worship Agni, who gives the Bhṛgu sages the object of their desire, who is the object of our longing, of far-reaching wisdom, and who shines with a radiance born in the heavenly world.
+
+**Printed English translation**
+
+Desiring excellent food, inflicting no disgrace, we solicit the boon of the adorable (Vaishwanara) from Agni, the benefactor of the Bhrigus. the object our desires, who is acquainted with past acts, and shines with celestial splendour.
+
+*[The printed English is given as supplied: "Bhrigus. the object our desires".]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Bhṛgūṇām—Bhṛgu is a well-known sage. Yāska has given the explanation अर्चिषि भृगुः संबभूव । भृगुर्भृज्यमानो न देहे (*arciṣi bhṛguḥ saṃbabhūva | bhṛgurbhṛjyamāno na dehe*) (Ni. 3-17). Explaining this, Durgācārya says: ⟦ಪ್ರಜಾಪತಿನಾ ಕಿಲ ಶಕ್ರಮಾತ್ಮೀಯವಾದಾಯ ಅಗ್ನೌ ಹುತಂ । ತತ
+ಅರ್ಚಿಷಿ ಜ್ವಾಲಾಯಾಂ ಭೃಗುಃ ನಾಮ ಮಹಿರ್ಷಿಃ ಸಂಬಭೂವ ।⟧ That is, in the past Prajāpati took his own seed and offered it in the fire; from the flames of the fire that rose from that offering the great sage named Bhṛgu came into being; so it is said.
+
+There is a story about the sage Bhṛgu in the Aitareya Brāhmaṇa—
+
+⟦ಆಪೋ ವಾ ಅಸ್ಪರ್ಧಂತ ವಯಂ ಪೂರ್ವಂ ಯಜ್ಞಂ ವಕ್ಷ್ಯಾಮೋ ವಯಮಿತಿ ಯಾಶ್ಚೇಮಾಃ
+ಪೂರ್ವೇದ್ಯುರ್ವಸತೀವರ್ಯೋಗೃಹ್ಯಂತೇ ಯಾಶ್ಚ ಪ್ರಾತರೇಕಧನಾಸ್ತಾ ಭೃಗುರಪಶ್ಯದಾಪೋ
+ವೈ ಸ್ಪರ್ಧಂತ ಇತಿ ತಾ ಏತಯರ್ಚಾ ಸಮಜ್ಞಪಯತ್ಸಮನ್ಯಾ ಯಂತ್ಯುಪ ಯಂತ್ಯನ್ಯಾ ಇತಿ
+ತಾಃ ಸಮಜಾನತ ಸಂಜಾನಾನಾ ಹಾಸ್ಯಾಪೋ ಯಜ್ಞಂ ವಹಂತಿ ಯ ಏವಂ ವೇದ ॥⟧
+(Ai. Brā. 8-20, printed ಇ. ಬ್ರಾ.)
+
+In the past the waters called vasatīvarī, brought the previous day for the Soma sacrifice (those in the vessel), and the waters called ekadhanā contended with each other, each saying "I first, I first", over carrying out the sacrifice. Then the sage Bhṛgu, who was there, seeing this,
+
+### Printed p. 574
+
+*[Running head, p. 574: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+⟦ಸಮನ್ಯಾ ಯಂತ್ಯುಪ ಯಂತ್ಯನ್ಯಾಃ ಸಮಾನಮೂರ್ವಂ ನದ್ಯಃ ಪೃಣಂತಿ ।
+ತಮೂ ಶುಚಿಂ ಶುಚಯೋ ದೀದಿನಾಂಸಮಪಾಂ ನಪಾತಂ ಪರಿ ತಸ್ಥುರಾಪಃ ॥⟧
+(printed ಮ. ಸಂ ೨-೩೫-೩, i.e. Ṛ. Saṃ. 2-35-3)
+
+recited this Ṛk and appeased them. In the sacrifice of the sacrificer who knows this, those waters give up contention, remain at peace and help in the carrying out of the sacrifice. And so on.
+
+The great sage Bhṛgu is said to be the son of Varuṇa (बृगुर्वै वारुणिः । वरुणं पितरमुपससार (*bṛgurvai vāruṇiḥ | varuṇaṃ pitaramupasasāra*), Tai. Ā. 9-1), in places such as Śat. Brā. 11-6-1-1, Paṃ. Brā. 18-9-2 and Nirukta 3-17. In many contexts where Bhṛgus is used in the plural, they are mentioned in connection with Agni. The plural Bhṛgus occurs in the places Ṛ. Saṃ. 1-58-6; 1-127-7; 1-143-4; 2-4-2; 3-2-4; 4-7-1 and so on. That the Bhṛgu clan belonged to the renowned class of priests is stated in the Ṛks Ṛ. Saṃ. 7-18-6; 8-3-9; 8-6-18; 8-3-9; 8-102-4. In the Taittirīya Saṃhitā (Tai. Saṃ. 4-6-5-2; 5-6-8-6; 1-8-18; Tai. Brā. 1-8-2-5; Paṃ. Brā. 18-9-2) it is mentioned that the Bhṛgus played the part of priests in sacrificial rites such as the establishing of the fire and the Daśapeya kratu. In places such as Tai. Saṃ. 1-1-7-2; Mai. Saṃ. 1-1-8; Vājasaneyi Saṃhitā 1-18; Tai. Brā. 1-1-4-8; 3-2-7-6; Śat. Brā. 1-2-1-13 there are descriptions of the Bhṛgus in association with the Aṅgirasas.
+
+The word Bhṛgu occurs twenty-one times in the Ṛgveda. Besides this it is also used twice in the form bhṛguvat. It is used in the singular, as Bhṛgu, only once; therefore these Bhṛgus may denote a whole group of legendary persons. In the sūktas addressed to Agni alone it occurs about twelve times, and generally in contexts describing how men obtained Agni. Mātariśvan brought Agni to Bhṛgu as a treasure (1-60-1), or kindled for the Bhṛgus the Agni who was hidden (3-5-10). Mātariśvan and the gods created Agni; the Bhṛgus, exerting their power and strength, produced Agni (10-46-9). The Bhṛgus saw Agni hidden in the water (10-46-2), worshipped him there and established him in the house of men (2-4-2; compare 2-4-4). They made Agni settle well in the forest (6-15-2), or placed him among men like a treasure (1-58-6). Agni is a thing that came as a gift from the Bhṛgus (3-2-4). Having churned him well, they praised him with words of praise (1-127-7); having pleased him with songs in the form of praise and made him shine well (10-122-5), they afterwards made him dwell in the forests
+
+### Printed p. 575
+
+*[Running head, p. 575: Aṣṭaka 2, Adhyāya 8, Varga 17, Ṛgvedasaṃhitā.]*
+
+(4-7-1). They brought him to the navel region of the earth (1-143-4). Atharvan ordained special rites such as the homa; the Bhṛgus by their skill revealed the characteristics of the deity (10-92-10): although their cleverness is seen in the very production of Agni, they regarded it as an art. As the Bhṛgus fashioned a chariot, so the praisers fashion praise of Indra or of the Aśvins (4-16-20; 10-39-14).
+
+The Bhṛgus must be very ancient. Together with the sacrificers, the Aṅgirasas and the Atharvans, they included the Bhṛgus too and spoke of them all as their forefathers, fond of the soma juice (10-14-6), and the Bhṛgus, like the Aṅgirasas and Manu, praise Agni (8-43-13). They prayed to Indra that their prayer might be heard as the prayer of the Yatis and the Bhṛgus was heard (8-6-18), or that as he gave no help to the Yatis, the Bhṛgus and the Praskaṇvas, he might give help to them too (8-3-9). Along with the Druhyus and Turvaśa, the Bhṛgus are also said to be enemies of Sudās (7-18-6). In the above three sentences (7-6-18 [as printed]; 8-3-9; 7-18-6) the Bhṛgus appear to denote some small tribe. They are invited to the soma drink along with the thirty-three gods, the Aśvins, the Maruts (deities of the waters), Uṣas and Sūrya (8-35-3). They are compared to suns and called those of fulfilled desires (8-3-16; 9-101-13); in the latter the worshippers pray that, as the Bhṛgus drove away the demon, he may drive away the niggardly. Who the demons driven away by the Bhṛgus in the story here are is not known.
+
+Like Vasiṣṭha and other sages related to the Ṛgveda, the Bhṛgus may be said not to belong to the groups of sages now in use. As Aṅgiras is the chief of the Aṅgirasas and Vasiṣṭha of the Vasiṣṭhas, so Bhṛgu must be the chief of a group of sages called Bhṛgu.
+
+The descent of Agni from heaven and his being given to man are connected with Mātariśvan and the Bhṛgus. Of these, while Mātariśvan brings Agni from heaven, it is the work of the Bhṛgus to bring him into use on earth for the start and the performance of rites such as the sacrifice.
+
+In the other Vedas, Bhṛgu is the representative of a gotra (Ā. Ve. 5-19-1, as printed; Ai. Brā. 2-20-7); born from the seed of Prajāpati, he is accepted by Varuṇa as his son, whence he gets the name Vāruṇi (Ai. Brā. 3-34-1; Paṃ. Brā. 18-9-1); he is also stated clearly to be the son of Varuṇa (11-1-1).
+
+The word Bhṛgu is derived from the root bhrāj (to shine, to be bright). Some hold that Bhṛgu is a name of Agni, and others that it is the name for the lightning form of Agni.
+
 ---
 
-**Progress note:** Done through printed p. 572 (PDF 572). Sūkta 2 Ṛk 2 Special Topics; Ṛk 3 complete; Ṛk 4 begun (Pratipadārtha cut mid-list); 3 accent DIFF lines in review report
+**Progress note:** Done through printed p. 575 (PDF 575). Sūkta 2 Ṛk 4 complete: Pratipadārtha end, Bhāvārtha, printed English, Special Topics on the Bhṛgus
