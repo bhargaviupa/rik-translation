@@ -32034,6 +32034,115 @@ In the commentary on this Ṛk, the meaning which the commentator has given to �
 > *sa ranthayatsadivaḥ sārathaye śuṣṇamaśuṣaṃ kuyavaṃ kutsāya |*
 > *divodāsāya navatiṃ ca navendraḥ puro vairacchambarasya ‖ 6 ‖*
 
+### Printed p. 848
+
+*(Header: "848 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū 18]", as supplied; the Sūkta is 19.)*
+
+**॥ पदपाठः ॥**
+
+> पडॆपारः
+> सः । रंधयत् । सऽदिवः । सारथये । शुष्णं । अशुषं । कुयवं । कुत्साय ।
+> दिवःसदासाय । नवतिं । च । नव । इन्द्रः । पुरः । वि । ऐरत् । शम्बरस्य!! ६!!
+
+**॥ सायणभाष्यम् ॥**
+
+> सदिवो दीप्तियुक्तः स इंद्रः सारथय आत्मनः सारथ्यं कुर्वते कुत्साय
+> राजर्षये शुष्णं । शोषयति सर्वमिति शुष्णः कश्चिदसुरः! तमशुषं न केनापि
+> शोषणीयं! कुयुवमेतन्नामानमसुरं रंधयत् ॥ रध्यतिर्वशगमने ॥ वठमन-
+> यॆत् ॥ यद्वा रध हिंसासंराद्द्योरित्यस्य ण्यंतस्य रधिजभोरचीति नुम् ॥ अवधीत् ।
+> किंच स इंद्रो दिवोदासाय्कॆतन्नामकाय राजे शंबरस्सासुरस्य नव नवतिं पुरो
+> वैरत् । विदारितवान्!!
+
+*Gist: Indra subdued Aśuṣa, Śuṣṇa and Kuyava for Kutsa, his charioteer, and for Divodāsa split ninety-nine cities of Śambara.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सदिवः (*sadivaḥ*)—radiant. सः (*saḥ*)—Indra. सारथये (*sārathaye*)—who acts as charioteer of his chariot. कुत्साय (*kutsāya*)—to the royal sage named Kutsa. अशुषं (*aśuṣaṃ*)—Aśuṣa (an asura). शुष्णं (*śuṣṇaṃ*)—Śuṣṇa. कुयवं (*kuyavaṃ*)—Kuyava. रंधयत् (*raṃdhayat*)—made subject. इंद्रः (*iṃdraḥ*)—Indra. दिवोदासाय (*divodāsāya*)—for the king named Divodāsa. शंबरस्य (*śaṃbarasya*)—of the asura Śambara. नव नवतिं (*nava navatiṃ*)—ninety-nine in number. पुरः च (*puraḥ ca*)—the cities also. वैरत् (*vairat*)—split apart.
+
+**भावार्थ (Bhāvārtha)**
+
+The radiant Indra made the asuras Aśuṣa, Śuṣṇa and Kuyava subject to the royal sage named Kutsa, who acts as charioteer of his chariot. Indra split apart ninety-nine cities of the asura Śambara for the sake of the king named Divodāsa.
+
+**English Translation (as printed)**
+
+The radiant Indra subjected to Kutsa, his charioteer,(the Asuras), Shushna, Asusha, and Kuyava; and, for the sake of Divodasa, demolished the ninety and nine cities of Shambara.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the matters are those already stated before: that Indra destroyed the asura named Aśuṣa for Kutsa (p. 733); that Indra killed Śuṣṇa (p. 734) and Kuyava (p. 734); and that he destroyed ninety cities of Śambara for Divodāsa (p. 739).
+
+### Printed p. 849
+
+*(Header: "[A. 2 Adhyāya 6 Varga 24] Ṛgvedasaṃhitā 849", as supplied.)*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+*Note: the supplied text prints this Saṃhitā in mixed Kannada and Devanagari letters, and several words differ from the Pada below (for example the first words of the second quarter, `ಇನ್ನೋ ಚಥಮಹೇ…`, against the Pada `इन्द्र । उचथं । अहेम`, and `वधरदेवस्य` against `वधः । अदेवस्य`). The block is kept as supplied; it is not corrected.*
+
+> ए॒वा त॑ इन्नो॒ चथ॑महेम श्रव॒स्या न त्मना॑ वा॒जय॑न्तः ।
+> अ॒श्याम॒ु तत्साप्त॑माशुषा॒णा न॒नमो॒ वध॒रदे॑वस्य पी॒योः ॥७॥
+
+**॥ पदपाठः ॥**
+
+> एव । ते । इन्द्र । उचथं । अहेम । श्रवस्या । न । त्मना । वाजयंतः ।
+> अश्याम । तत् । साप्तं । आशुषाणाः । ननमः । वधः । अदेवस्य । पीयोः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र श्रवस्या ॥ सुपां सुलुगिति तृतीयायाः पूर्वसवर्णदीर्घः ॥ अन्ने-
+> च्छया वाजयंतस्त्वां बलिनं कुर्वंतः । यद्वा श्रवस्या यशःकामनया वाजयं-
+> तोऽन्नमिच्छंतः ॥ इच्छायामपि णिच् दृश्यते । अश्वायंतो गव्यंतो वाजयंत
+> इति क्यजंतत्वे चित्पातिपदिकस्यांतोदात्तत्वं स्यात् वाजयंतः शतक्रतुमिति यथा ॥
+> तादृशा वयं ते तुभ्यमेवोचथं स्तोत्रं त्मना आत्मना स्वयमेव नाहेम ।
+> इदानीं प्रापयेम ॥ अहि गतौ । न संप्रत्यर्थे ॥ आशुषाणाः ॥ अश्नोतेः कानचि
+> व्यत्ययो बहुलमिति लिट्यपि विकरणद्वय उप्रत्ययः स च ॥ त्वामश्नु वाना वयं
+> यदभिलषितं तत्साप्तं सप्तपुरुषसंबंधि साप्तपदीनं सख्यमश्याम । व्याप्नुयाम ।
+> अदेवस्य देवानिंद्रादीनजानतः पीयोः ॥ पीयतिर्हिंसाकर्मा ॥ हिंसकस्यासुरस्य
+> वधः ॥ वध्यंते शत्रवोऽनेनेति वधरायुधं ॥ ननमः । तदधो नमय ॥ ननमः!
+> णमु प्रह्वत्वे । ण्यंतस्य लुजि चजु रूपं । मितां ह्रस्व इति ह्रस्वः ॥
+
+*Gist: We, wishing for food and making you strong, offer praise of our own accord; may we gain your friendship; hurl the thunderbolt against the harmful godless asura.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra. श्रवस्या (*śravasyā*)—with desire for food. वाजयंतः (*vājayaṃtaḥ*)—we who make you strong. ते एव (*te eva*)—addressing you alone. उचथं (*ucathaṃ*)—praise. त्मना (*tmanā*)—by our own impulse. न (*na*)—now. अहेम (*ahema*)—we offer. आशुषाणाः (*āśuṣāṇāḥ*)—having taken refuge in (you). तत् (*tat*)—that well-known. साप्तं (*sāptaṃ*)—friendship. अश्याम (*aśyāma*)—may we attain. अदेवस्य (*adevasya*)—without devotion to the gods. पीयोः (*pīyoḥ*)—of the harmful asura. वधः (*vadhaḥ*)—the thunderbolt that kills. ननमः (*nanamaḥ*)—hurl (the text breaks off at the end of the page: "ಪ್ರಯೋಗಿಸು").
+
+### Printed p. 850
+
+*(Header: "850 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 19]".)*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, we who make you strong through desire for food now offer to you alone the praise composed of our own impulse. Having taken refuge in you alone, may we attain your well-known friendship. For the slaying of the asura named Pīyu, who has no devotion to the gods, hurl his slaying weapon, the thunderbolt.
+
+*(The label of this section is printed in the supplied text as "ಪ್ರಾರಂಭ".)*
+
+**English Translation (as printed)**
+
+Through desire of food, Indra, we, contributing to your vigour, spont-aneously address to you(our) praise; secure of you, may we rely upon your friendship; hurl your thunderbolt against the godless Piyu-
+
+*(The printed English breaks off here at the end of the page, as supplied.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उचथं (*ucathaṃ*)—This word is formed from the root वच परिभाषणे (*vaca paribhāṣaṇe*); it means uttering sentences, that is, praising.
+
+श्रवस्या (*śravasyā*)—The word श्रवः (*śravaḥ*) is read among the names for food (Ni. 3-9). The word श्रवः (*śravaḥ*) is also used in the sense of fame and praise (Ni. 9-11). By the grammatical rule सुपां सुलुगिति तृतीयायाः पूर्वसवर्णदीर्घः (*supāṃ sulugiti tṛtīyāyāḥ pūrvasavarṇadīrghaḥ*), श्रवस्या (*śravasyā*) is a word in the instrumental singular. It means "with desire for food" or "with desire for fame".
+
+न (*na*)—The particle न (*na*), as stated in नेति प्रतिषेधार्थियो भाषायां । उभयमन्वध्यायं। न संप्रत्यर्थे (*neti pratiṣedhārthiyo bhāṣāyāṃ | ubhayamanvadhyāyaṃ| na saṃpratyarthe*), is an indeclinable used in ordinary language in the sense of prohibition, and in the Vedas in the senses of prohibition and comparison. In the present Ṛk the word न (*na*) has the sense of संप्रति (*saṃprati*), that is, "now".
+
+त्मना (*tmanā*)—In the Vedic metre the form आत्मना (*ātmanā*) loses its initial letter and is used only as त्मना (*tmanā*). The word has just the sense of आत्मना (*ātmanā*), "by oneself".
+
+वाजयंतः (*vājayaṃtaḥ*)—वाजयंतोऽन्नमिच्छंतः (*vājayaṃto 'nnamicchaṃtaḥ*). The word वाज (*vāja*) is read among the names for food (Ni. 3-9). Therefore the meaning is "we who desire food".
+
+साप्तं (*sāptaṃ*)—सप्तपुरुषसंबंधि साप्तपदीनं सख्यं (*saptapuruṣasaṃbaṃdhi sāptapadīnaṃ sakhyaṃ*). The sense is affection, friendship.
+
+अदेवस्य (*adevasya*)—देवानिंद्रादीनजानतः (*devāniṃdrādīnajānataḥ*). One who does not praise the gods such as Indra, that is, an asura.
+
+पीयोः (*pīyoḥ*)—पीयतिर्हिंसाकर्मा हिंसकस्यासुरस्य (*pīyatirhiṃsākarmā hiṃsakasyāsurasya*). The word पीयु (*pīyu*), formed from the root पीयति (*pīyati*), which means causing harm, denotes an asura who causes harm to people
+
 ---
 
-**Progress note:** Done through printed p. 847 (PDF 847). Sukta 19 Rk 5 bhashya, Pratipadartha, Bhavartha, printed English, Special Topics (Etasha legend); Rk 6 Samhita written (Pada next)
+**Progress note:** Done through printed p. 850 (PDF 850). Sukta 19 Rk 6 Pada to Special Topics; Rk 7 Samhita (mixed-script supplied text, converted to Kannada letters in kn.md), Pada, bhashya, Pratipadartha, Bhavartha, printed English; Special Topics begun (page 850 ends mid-entry on Piyu)
