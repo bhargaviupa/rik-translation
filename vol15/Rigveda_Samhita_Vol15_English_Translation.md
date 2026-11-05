@@ -21998,7 +21998,7 @@ At the beginning of the third pressing, as soon as the Adhvaryu directs Maitrāv
 
 *[Running head, p. 710: Sāyaṇabhāṣyasahitā, Maṃ ೩ (no period after Maṃ, as printed), A. 1, Sū. 4.]*
 
-⟦ (*⟦*)⟧
+तदाहुर्यन्नार्भवीषु स्तुवशेSथ कस्मादार्भवः पवमान इत्याचक्षत इति । (*tadāhuryannārbhavīṣu stuvaśeStha kasmādārbhavaḥ pavamāna ityācakṣata iti |*)
 
 Is not the matter of a connection with the Ṛbhus at the time of the third pressing open to objection? Moreover, those who perform the Sāman chanting in the sacrifice do not praise the Ṛbhus with the Pavamāna stotra at the third pressing by adding Ṛks addressed to the Ṛbhus; they praise with mantras addressed to a deity other than the Ṛbhus, namely स्वादिष्टया मदिष्टया (*svādiṣṭayā madiṣṭayā*). So how the Pavamāna stotra comes to be ārbhava, that is, connected with the Ṛbhus, is also strange. The answer is given:
 
