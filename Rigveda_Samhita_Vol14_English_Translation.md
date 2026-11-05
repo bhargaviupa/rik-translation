@@ -29666,10 +29666,13 @@ gained in that(contest) the gold(of the Asuras); in the exhilaration of the Soma
 
 **॥ संहितापाठः ॥**
 
-*(The supplied text is garbled here: the verse appears twice, partly in Devanagari, with stray markup. The block gives the one reading, as supplied; two places differ from the Pada, दक्षिण against Pada दक्षिणा and विदधे against Pada विदथे, and are marked with a question mark in the block. Nothing was changed.)*
+*(The supplied text is garbled here: the verse appears twice, partly in Devanagari, with stray markup. The block gives the one reading, as supplied; two places differ from the Pada, दक्षिण against Pada दक्षिणा and विदधे against Pada विदथे, and are marked with a question mark in the block. Nothing was changed. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदि॑न्द्र॒ दक्षि॑ण [?] म॒घोनी॑ ।
-> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दधे॑ [?] सु॒वीराः॑ ॥ १० ॥
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १० ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadiṃdra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖ 10 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -29836,11 +29839,15 @@ In passages such as these it is stated that Indra is the best of the gods.
 
 **॥ पदपाठः ॥**
 
-*(The supplied text prints the Pada with the label garbled as "ಹಡಪಾರಃ", and the Devanagari lines carry stray image-markup text; the first Pada line survives only in that markup. The block was rebuilt from it. Kannada vowel signs and conjunct marks that had slipped into the Devanagari were rewritten in Devanagari script; no letter was changed. The Pada reads तन्वि where the Saṃhitā has तन्वी३, and शीर्षणी where the Saṃhitā has शीर्षणि; noted as supplied.)*
+*(The supplied text prints the Pada with the label garbled as "ಹಡಪಾರಃ", and the Devanagari lines carry stray image-markup text; the first Pada line survives only in that markup. The block was rebuilt from it. Kannada vowel signs and conjunct marks that had slipped into the Devanagari were rewritten in Devanagari script; no letter was changed. The Pada reads तन्वि where the Saṃhitā has तन्वी३, and शीर्षणी where the Saṃhitā has शीर्षणि; noted as supplied. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> यस्मात् । इंद्रात् । बृहतः । किं । चन । ऊं । ऋते । विश्वा । अस्मिन् । संभृता ।
+> यस्मात् । इंद्रात् । बृहतः । किं । चन । ऊं । ऋते । विश्वानि । अस्मिन् । संभृता ।
 > अधि । वीर्या ।
-> जठरे । सोमं । तन्वि । सहः । महः । हस्तं । वज्रं । भरति । शीर्षणी । क्रतुं ॥ २ ॥
+> जठरे । सोमं । तन्वि । सहः । महः । हस्ते । वज्रं । भरति । शीर्षणि । क्रतुं ॥ २ ॥
+
+> *yasmāt | iṃdrāt | bṛhataḥ | kiṃ | cana | ūṃ | ṛte | viśvāni | asmin | saṃbhṛtā |*
+> *adhi | vīryā |*
+> *jaṭhare | somaṃ | tanvi | sahaḥ | mahaḥ | haste | vajraṃ | bharati | śīrṣaṇi | kratuṃ ‖ 2 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30279,7 +30286,10 @@ The prayer is that, rather than removing the enemies' distress after it has surr
 **॥ संहितापाठः ॥**
 
 > नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
-> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ धृ॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दधे॑ सु॒वीराः॑ ॥ ९ ॥
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ९ ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadiṃdra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -30485,23 +30495,23 @@ Since the hymns and rites performed by these well-known persons are regarded as 
 
 **॥ संहितापाठः ॥**
 
-> स भू॑तु॒ यो ह॑ प्रथ॒मय॒ धाय॑स॒ ओजो॒ मिमा॑नो महि॒मान॒माति॑रत् ।
-> शूरो॒ यो यु॒त्सु त॒न्वं॑ परि॒व्यत॑ शी॒र्षणि॒ द्यां म॑हि॒ना प्रत्य॑मुंछत ॥ २ ॥
+> स भू॑तु॒ यो ह॑ प्रथ॒माय॒ धाय॑स॒ ओजो॒ मिमा॑नो महि॒मान॒माति॑रत् ।
+> शूरो॒ यो यु॒त्सु त॒न्वं॑ परि॒व्यत॑ शी॒र्षणि॒ द्यां म॑हि॒ना प्रत्य॑मुञ्चत ॥ २ ॥
 
-> *sa bhūtu yo ha prathamaya dhāyasa ojo mimāno mahimānamātirat |*
-> *śūro yo yutsu tanvaṃ parivyata śīrṣaṇi dyāṃ mahinā pratyamuṃchata ‖ 2 ‖*
+> *sa bhūtu yo ha prathamāya dhāyasa ojo mimāno mahimānamātirat |*
+> *śūro yo yutsu tanvaṃ parivyata śīrṣaṇi dyāṃ mahinā pratyamuñcata ‖ 2 ‖*
 
 **॥ पदपाठः ॥**
 
-> सः । भूतु । यः । ह । प्रथमाय । धायसे । ओजः । मिमानः । महिमानं । अ ।
+> सः । भूतु । यः । ह । प्रथमाय । धायसे । ओजः । मिमानः । महिमानं । आ ।
 > अतिरत् ।
-> शूरः । यः । युत्सु । तन्वं । परिव्यत । शीर्षणि । द्यां । महिनाप्रति । अमुञ्चित॥
+> शूरः । यः । युत्सु । तन्वं । परिव्यत । शीर्षणि । द्यां । महिना । प्रति । अमुञ्चत ॥
 
-> *saḥ | bhūtu | yaḥ | ha | prathamāya | dhāyase | ojaḥ | mimānaḥ | mahimānaṃ | a |*
+> *saḥ | bhūtu | yaḥ | ha | prathamāya | dhāyase | ojaḥ | mimānaḥ | mahimānaṃ | ā |*
 > *atirat |*
-> *śūraḥ | yaḥ | yutsu | tanvaṃ | parivyata | śīrṣaṇi | dyāṃ | mahināprati | amuñcita‖*
+> *śūraḥ | yaḥ | yutsu | tanvaṃ | parivyata | śīrṣaṇi | dyāṃ | mahinā | prati | amuñcata ‖*
 
-*(As supplied: the first Saṃhitā line was recovered from a stray attribute of the supplied text, and the supplied Saṃhitā reads प्रथमय where the Pada has ಪ್ರಥಮಾಯ; the second verse-line mixes scripts in the source. Reported, not changed.)*
+*(As supplied: the first Saṃhitā line was recovered from a stray attribute of the supplied text, and the supplied Saṃhitā reads प्रथमय where the Pada has ಪ್ರಥಮಾಯ; the second verse-line mixes scripts in the source. Reported, not changed. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30555,15 +30565,21 @@ In this Ṛk three glories of Indra are described. First, Indra prepared himself
 
 **॥ संहितापाठः ॥**
 
-> अधा॑र्क्ष्णोः प्रथ॒मं वी॒र्यं॑ म॒हद्यद॒स्याग्रे॒ ब्रह्म॑णा॒ शुष्म॒मैर॑यः ।
-> र॒थै॒ष्वेन॒ हर्य॑श्वेन॒ विच्यु॑ताः॒ प्र जी॒रयः॑ सिस्रते स॒ध्र्य१॒॑ङ्॑क
-> पृथक् ॥ ३ ॥
+> अधा॑कृणोः प्रथ॒मं वी॒र्यं॑ म॒हद्यद॒स्याग्रे॒ ब्रह्म॑णा॒ शुष्म॒मैर॑यः ।
+> र॒थे॒ष्ठेन॒ हर्य॑श्वेन॒ विच्यु॑ताः॒ प्र जी॒रयः॑ सिस्रते स॒ध्र्य१॒॑१क् पृथ॑क् ॥ ३ ॥
+
+> *adhākṛṇoḥ prathamaṃ vīryaṃ mahadyadasyāgre brahmaṇā śuṣmamairayaḥ |*
+> *ratheṣṭhena haryaśvena vicyutāḥ pra jīrayaḥ sisrate sadhrya1k pṛthak ‖ 3 ‖*
 
 **॥ पदपाठः ॥**
 
-> अध । अकृणोः । प्रथमं । वीर्यं । महत् । यत् । अस्य । अग्रे । ब्रह्मणा । शुष्मं ।
+> अध । आकृणोः । प्रथमं । वीर्यं । महत् । यत् । अस्य । अग्रे । ब्रह्मणा । शुष्मं ।
 > ऐरयः ।
-> रथेऽस्थेन । हरिऽअश्वेन । विच्युताः । प्र । जीरयः । सिस्रते । सध्र्यक् । पृथक् ॥ ३ ॥
+> रथेस्थेन । हरिअश्वेन । विच्युताः । प्र । जीरयः । सिस्रते । सध्र्य१क् । पृथक् ॥ ३ ॥
+
+> *adha | ākṛṇoḥ | prathamaṃ | vīryaṃ | mahat | yat | asya | agre | brahmaṇā | śuṣmaṃ |*
+> *airayaḥ |*
+> *rathesthena | hariaśvena | vicyutāḥ | pra | jīrayaḥ | sisrate | sadhrya1k | pṛthak ‖ 3 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30615,14 +30631,21 @@ In this Ṛk another aspect of Indra's valour is described. When Indra fights wi
 
 **॥ संहितापाठः ॥**
 
-> अधो॒ यो विश्वा॒ भुन॑ना॒भि म॒ज्जने॑शान॒कृत्प्रव॑या अ॒भ्यव॑ध्रत । [?]
+> अधा॒ यो विश्वा॒ भुव॑ना॒भि म॒ज्मने॑शान॒कृत्प्रव॑या अ॒भ्यव॑र्धत ।
 > आद्रोद॑सी॒ ज्योति॑षा॒ वह्नि॒रात॑नो॒त्सीव्य॒न्तमां॑सि॒ दुधि॑ता॒ सम॑व्ययत् ॥ ४ ॥
+
+> *adhā yo viśvā bhuvanābhi majmaneśānakṛtpravayā abhyavardhata |*
+> *ādrodasī jyotiṣā vahnirātanotsīvyantamāṃsi dudhitā samavyayat ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
 > अध । यः । विश्वा । भुवना । अभि । मज्मना । ईशानकृत् । प्रवयाः । अभि । अवर्धत ।
-> आत् । रोदसी इति । ज्योतिषा । वह्निः । आ । आतनोत् । सीव्यन् । तमांसि । दुधिता ।
+> आत् । रोदसी इति । ज्योतिषा । वह्निः । आ । अतनोत् । सीव्यन् । तमांसि । दुधिता ।
 > सं । अव्ययत् ॥
+
+> *adha | yaḥ | viśvā | bhuvanā | abhi | majmanā | īśānakṛt | pravayāḥ | abhi | avardhata |*
+> *āt | rodasī iti | jyotiṣā | vahniḥ | ā | atanot | sīvyan | tamāṃsi | dudhitā |*
+> *saṃ | avyayat ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -30919,9 +30942,11 @@ The details, what kind of wealth Indra should give him and how he should give it
 
 **॥ संहितापाठः ॥**
 
-> भोजं त्वामिंद्र वयं ह्वैमे [?]
-> वाजान् ।
-> अ॒वि॒ड्डी॑नद्र चि॒त्रया॑ न ऊ॒त्री कृ॒धि वृ॑षन्निद्र॒ वस्य॑सो नः ॥८॥
+> भो॒जं त्वामिं॑द्र व॒यं हु॑वेम द॒दिष्ट्वमि॒न्द्रापां॑सि॒ वाजा॑न् ।
+> अ॒वि॒ड्ढी॑न्द्र चि॒त्रया॑ न ऊ॒ती कृ॒धि वृ॑षन्निन्द्र॒ वस्य॑सो नः ॥ ८ ॥
+
+> *bhojaṃ tvāmiṃdra vayaṃ huvema dadiṣṭvamindrāpāṃsi vājān |*
+> *aviḍḍhīndra citrayā na ūtī kṛdhi vṛṣannindra vasyaso naḥ ‖ 8 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -30987,15 +31012,21 @@ This Ṛk and the next form the conclusion of this sūkta. A prayer is made that
 
 **॥ संहितापाठः ॥**
 
-> नू॒नं सा त्ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑न्द्र॒ दक्षि॑णा म॒घोनी॑ ।
-> शिक्ष्या॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथै॑ सु॒वीराः॑ ॥ ९ ॥
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ९ ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadiṃdra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
-*(The Pada block was printed with the Saṃhitā text and a stray HTML fragment repeated after it in the supplied text; the duplicate was removed in kn.md and the Pada kept once, as supplied. In the Saṃhitā the supplied spelling ಶಿಕ್ಷ್ಯಾ and the doubled त्ते, and in the Pada विदथै!, differ from the reference text; reported, not changed.)*
+*(The Pada block was printed with the Saṃhitā text and a stray HTML fragment repeated after it in the supplied text; the duplicate was removed in kn.md and the Pada kept once, as supplied. In the Saṃhitā the supplied spelling ಶಿಕ್ಷ್ಯಾ and the doubled त्ते, and in the Pada विदथै!, differ from the reference text; reported, not changed. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> नूनं । सा । त्ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
-> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथै! सुवीराः॥
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+> *nūnaṃ | sā | te | prati | varaṃ | jaritre | duhīyat | iṃdra | dakṣiṇā | maghonī |*
+> *śikṣa | stotṛbhyaḥ | mā | ati | dhak | bhagaḥ | naḥ | bṛhat | vadema | vidathe | suvīrāḥ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -31343,12 +31374,20 @@ In this Ṛk the sage describes that, so that Indra may come to the sacrificial 
 
 #### Ṛk 4
 
-*(The supplied text gives the Saṃhitā of this Ṛk only inside a garbled figure caption, mixed Devanagari and Kannada with an extraneous heading "406 kāvyaḥ"; it is not reproduced here and is left for the user. The Pada is taken from the same caption.)*
+*(The Saṃhitā of this Ṛk is not readable in the text of the supplied file: it stands there only as a picture embedded in the file, with a garbled machine reading as its caption. It is read here from that picture, letter for letter. The Pada under it was likewise taken from the picture; it prints "करिति कः" (*kariti kaḥ*) as given.)*
+
+**॥ संहितापाठः ॥**
+
+> आ द्वाभ्यां॒ हरि॑भ्यामिन्द्र या॒ह्या च॒तुर्भि॒रा ष॒ड्भिर्हू॒यमा॑नः ।
+> आष्टा॒भिर्द॒शभिः॑ सोम॒पेय॑म॒यं सु॒तः सु॑मख॒ मा मृध॑स्कः ॥ ४ ॥
+
+> *ā dvābhyāṃ haribhyāmindra yāhyā caturbhirā ṣaḍbhirhūyamānaḥ |*
+> *āṣṭābhirdaśabhiḥ somapeyamayaṃ sutaḥ sumakha mā mṛdhaskaḥ ‖ 4 ‖*
 
 **॥ पदपाठः ॥**
 
 > आ । द्वाभ्यां । हरिभ्यां । इन्द्र । याहि । आ । चतुःभिः । आ । षट्भिः । हूयमान ।
-> आ । अष्टाभिः । दशभिः । सोमपेयं । अयं । सुतः । सुमख । मा । मृधः । करिति कः [?] ॥ ४ ॥
+> आ । अष्टाभिः । दशभिः । सोमपेयं । अयं । सुतः । सुमख । मा । मृधः । करिति कः ॥ ४ ॥
 
 **॥ सायणभाष्यम् ॥**
 
@@ -32081,13 +32120,19 @@ In this Ṛk the matters are those already stated before: that Indra destroyed t
 
 *Note: the supplied text prints this Saṃhitā in mixed Kannada and Devanagari letters, and several words differ from the Pada below (for example the first words of the second quarter, `ಇನ್ನೋ ಚಥಮಹೇ…`, against the Pada `इन्द्र । उचथं । अहेम`, and `वधरदेवस्य` against `वधः । अदेवस्य`). The block is kept as supplied; it is not corrected.*
 
-> ए॒वा त॑ इन्नो॒ चथ॑महेम श्रव॒स्या न त्मना॑ वा॒जय॑न्तः ।
-> अ॒श्याम॒ु तत्साप्त॑माशुषा॒णा न॒नमो॒ वध॒रदे॑वस्य पी॒योः ॥७॥
+> ए॒वा त॑ इन्द्रो॒चथ॑महेम श्रव॒स्या न त्मना॑ वा॒जय॑न्तः ।
+> अ॒श्याम॒ तत्साप्त॑माशुषा॒णा न॒नमो॒ वध॒रदे॑वस्य पी॒योः ॥ ७ ॥
+
+> *evā ta indrocathamahema śravasyā na tmanā vājayantaḥ |*
+> *aśyāma tatsāptamāśuṣāṇā nanamo vadharadevasya pīyoḥ ‖ 7 ‖*
 
 **॥ पदपाठः ॥**
 
-> एव । ते । इन्द्र । उचथं । अहेम । श्रवस्या । न । त्मना । वाजयंतः ।
+> एव । ते । इन्द्र । उचथं । अहेम । श्रवस्या । न । त्मना । वाजयन्तः ।
 > अश्याम । तत् । साप्तं । आशुषाणाः । ननमः । वधः । अदेवस्य । पीयोः ॥ ७ ॥
+
+> *eva | te | indra | ucathaṃ | ahema | śravasyā | na | tmanā | vājayantaḥ |*
+> *aśyāma | tat | sāptaṃ | āśuṣāṇāḥ | nanamaḥ | vadhaḥ | adevasya | pīyoḥ ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -32220,19 +32265,25 @@ may Gṛtsamada and his relatives (we), who have composed a new hymn for you and
 
 *Note: the supplied text prints this Saṃhitā in mixed Kannada and Devanagari letters, and the same block again inside an HTML title attribute. The block is converted letter for letter to Kannada letters in kn.md and kept as supplied; it is not corrected. It differs from the Pada below in several places (for example `ತ್ರೀ` against the Pada `ತೇ`, `ದುಹೀಯಂದಿತ್ರ` against `ದುಹೀಯತ್ । ಇಂದ್ರ`, `ವಿದಧೇ` against `ವಿದಥೇ`), which are noted here, not settled.*
 
-> नू॒नं सा त्री॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यंदि॑त्र॒ दक्षि॑णा म॒घोनी॑ ।
-> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दधे॑ सु॒वीराः॑ ॥ ९ ॥
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ९ ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadiṃdra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
-*(The label is printed in the supplied text as "ಪರಪಾಠಃ"; the Pada ends in the supplied text with a stray fragment of the title attribute, which is left out.)*
+*(The label is printed in the supplied text as "ಪರಪಾಠಃ"; the Pada ends in the supplied text with a stray fragment of the title attribute, which is left out. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 > नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
 > शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे । सुवीराः ॥
 
+> *nūnaṃ | sā | te | prati | varaṃ | jaritre | duhīyat | iṃdra | dakṣiṇā | maghonī |*
+> *śikṣa | stotṛbhyaḥ | mā | ati | dhak | bhagaḥ | naḥ | bṛhat | vadema | vidathe | suvīrāḥ ‖*
+
 **॥ सायणभाष्यम् ॥**
 
-*(The label is garbled in the supplied text as "ಸಹಾಯಧಾನ್ಯ, C"; it is given here in the standard form. The text breaks off at the end of the page, with the end of the bhāṣya.)*
+*(The label is garbled in the supplied text as "ಸಹಾಯಧಾನ್ಯ, C"; it is given here in the standard form. The text breaks off at the end of the page, with the end of the bhāṣya. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 > अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्टच्छावाकस्याहरहः शस्य-
 > संज्ञकमभितष्ट्ववेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
@@ -32313,17 +32364,23 @@ The Kannada: "This sūkta, वयं ते वय (*vayaṃ te vaya*), is the n
 
 #### Ṛk 1
 
-*(The supplied text prints the Saṃhitā and Pada in damaged mixed Kannada-Devanagari letters, and again inside an HTML title attribute; the lines are taken from there and converted letter for letter, not corrected. They show visible slips against the bhāṣya, for example वयूं त्ते (*vayūṃ tte*) for वयं ते (*vayaṃ te*), शु (*śu*) for सु (*su*), दीध्यतौ (*dīdhyatau*) in the Saṃhitā against दीध्यतः (*dīdhyataḥ*) in the Pada, and न्यन् (*nyan*) for the bhāṣya's नृन् (*nṛn*); the labels are printed garbled as "ಸಂಹ ತಾಪಾಡಿ" and "ಸಾಯಣಭಾವ್ಯಂ" and are given in standard form.)*
+*(The supplied text prints the Saṃhitā and Pada in damaged mixed Kannada-Devanagari letters, and again inside an HTML title attribute; the lines are taken from there and converted letter for letter, not corrected. They show visible slips against the bhāṣya, for example वयूं त्ते (*vayūṃ tte*) for वयं ते (*vayaṃ te*), शु (*śu*) for सु (*su*), दीध्यतौ (*dīdhyatau*) in the Saṃhitā against दीध्यतः (*dīdhyataḥ*) in the Pada, and न्यन् (*nyan*) for the bhāṣya's नृन् (*nṛn*); the labels are printed garbled as "ಸಂಹ ತಾಪಾಡಿ" and "ಸಾಯಣಭಾವ್ಯಂ" and are given in standard form. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 **॥ संहितापाठः ॥**
 
-> व॒यूं त्ते॒ वय॑ इन्द्र वि॒द्धि शु णः॒ प्र भ॑रामहे वाज॒युर्न रथं॑ ।
-> वि॒प॒न्त्यवो॒ दीध्य॑तौ मनी॒षा सु॒म्न मिय॑क्षन्त॒ स्त्वा व॑तो॒ न्यन् ॥
+> व॒यं ते॒ वय॑ इन्द्र वि॒द्धि षु णः॒ प्र भ॑रामहे वाज॒युर्न रथं॑ ।
+> वि॒प॒न्यवो॒ दीध्य॑तो मनी॒षा सु॒म्नमिय॑क्षन्त॒स्त्वाव॑तो॒ नृन् ॥
+
+> *vayaṃ te vaya indra viddhi ṣu ṇaḥ pra bharāmahe vājayurna rathaṃ |*
+> *vipanyavo dīdhyato manīṣā sumnamiyakṣantastvāvato nṛn ‖*
 
 **॥ पदपाठः ॥**
 
-> वयूं । त्ते । वयः । इन्द्र । विद्धि । सु । नः । प्र । भरामहे । वाजयुः । न । रथं ।
-> विपन्त्यवः । दीध्यतः । मनीषा । सुम्न । इयक्षन्त । त्वावतः । न्यन् ॥ १ ॥
+> वयं । ते । वयः । इन्द्र । विद्धि । सु । नः । प्र । भरामहे । वाजयुः । न । रथं ।
+> विपन्यवः । दीध्यतः । मनीषा । सुम्नं । इयक्षन्तः । त्वावतः । नृन् ॥ १ ॥
+
+> *vayaṃ | te | vayaḥ | indra | viddhi | su | naḥ | pra | bharāmahe | vājayuḥ | na | rathaṃ |*
+> *vipanyavaḥ | dīdhyataḥ | manīṣā | sumnaṃ | iyakṣantaḥ | tvāvataḥ | nṛn ‖ 1 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -32571,18 +32628,23 @@ the desire of wealth of his present pious adorer.
 
 **॥ संहितापाठः ॥**
 
-*(The Saṃhitā label is garbled in the supplied text and is given in standard form. The first verse-line of the Saṃhitā survives only inside an HTML title attribute, in mixed Kannada and Devanagari letters with slips; it is converted letter for letter to Kannada letters and kept as supplied, not corrected. It lacks the word corresponding to the Pada's ब्रह्म (*brahma*), and differs from the Pada in अज्ञिरसामुचिथा (*ajñirasāmucithā*), जुजुष्मान्ह्मा (*jujuṣmānhmā*) and तूतोदिन्नो (*tūtodinno*) against अज्ञिरसां (*ajñirasāṃ*), उचथा (*ucathā*), जुजुष्वान् (*jujuṣvān*), तूतोत् (*tūtot*), इन्द्रः (*indraḥ*). Reported, not settled.)*
+*(The Saṃhitā label is garbled in the supplied text and is given in standard form. The first verse-line of the Saṃhitā survives only inside an HTML title attribute, in mixed Kannada and Devanagari letters with slips; it is converted letter for letter to Kannada letters and kept as supplied, not corrected. It lacks the word corresponding to the Pada's ब्रह्म (*brahma*), and differs from the Pada in अज्ञिरसामुचिथा (*ajñirasāmucithā*), जुजुष्मान्ह्मा (*jujuṣmānhmā*) and तूतोदिन्नो (*tūtodinno*) against अज्ञिरसां (*ajñirasāṃ*), उचथा (*ucathā*), जुजुष्वान् (*jujuṣvān*), तूतोत् (*tūtot*), इन्द्रः (*indraḥ*). Reported, not settled. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> सो अज्ञिरसामुचिथा जुजुष्मान्ह्मा तूतोदिन्नो
-> गातुमिष्णन् ।
-> मु॒ष्णन्मु॒षसः॒ सूर्ये॑ण स्त॒वानश्न॑स्य चिच्चिश्नथत्पू॒र्वाणैः ॥ ५ ॥
+> सो अज्ञि॑रसामु॒चथा॑ जुजु॒ष्वान्ब्रह्म॑ तूतो॒दिन्द्रो॑ गा॒तुमि॒ष्णन् ।
+> मु॒ष्णन्नु॒षसः॒ सूर्ये॑ण स्त॒वानश्न॑स्य चिच्छिश्नथत्पू॒र्व्याणि॑ ॥ ५ ॥
+
+> *so ajñirasāmucathā jujuṣvānbrahma tūtodindro gātumiṣṇan |*
+> *muṣṇannuṣasaḥ sūryeṇa stavānaśnasya cicchiśnathatpūrvyāṇi ‖ 5 ‖*
 
 **॥ पदपाठः ॥**
 
-*(The Pada was printed twice in the supplied text, the first time followed by a fragment of the title attribute; the duplicate and the fragment are left out.)*
+*(The Pada was printed twice in the supplied text, the first time followed by a fragment of the title attribute; the duplicate and the fragment are left out. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 > सः । अज्ञिरसां । उचथा । जुजुष्वान् । ब्रह्म । तूतोत् । इन्द्रः । गातुं । इष्णन् ।
-> मुष्णन् । उषसः । सूर्येण । स्तवान् । अश्नस्य । चित् । शिश्नथत् । पूर्वाणैः ॥ ५ ॥
+> मुष्णन् । उषसः । सूर्येण । स्तवान् । अश्नस्य । चित् । शिश्नथत् । पूर्व्याणि ॥ ५ ॥
+
+> *saḥ | ajñirasāṃ | ucathā | jujuṣvān | brahma | tūtot | indraḥ | gātuṃ | iṣṇan |*
+> *muṣṇan | uṣasaḥ | sūryeṇa | stavān | aśnasya | cit | śiśnathat | pūrvyāṇi ‖ 5 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -32696,17 +32758,23 @@ May the renowned and graceful Indra, who is verily divine, be present over men: 
 
 **॥ संहितापाठः ॥**
 
-*(The first line of the Saṃhitā survives only inside the title attribute of the supplied HTML and was converted letter for letter; the second line stood in the Saṃhitā block. Doubtful places: the first line has वृत्रहान (*vṛtrahāna*) where the Pada has वृत्रहा (*vṛtrahā*) and इन्ः (*inḥ*), and दासीरैरायद्वि (*dāsīrairāyadvi*) against Pada दासीः ऐरयत् वि (*dāsīḥ airayat vi*); in the second line क्षामुपश्च (*kṣāmupaśca*) against Pada क्षां अपः च (*kṣāṃ apaḥ ca*) and तूततोत् (*tūtatot*) against Pada तूतोत् (*tūtot*). Reported, not settled; no Ṛk number is printed after the Saṃhitā in the supplied text.)*
+*(The first line of the Saṃhitā survives only inside the title attribute of the supplied HTML and was converted letter for letter; the second line stood in the Saṃhitā block. Doubtful places: the first line has वृत्रहान (*vṛtrahāna*) where the Pada has वृत्रहा (*vṛtrahā*) and इन्ः (*inḥ*), and दासीरैरायद्वि (*dāsīrairāyadvi*) against Pada दासीः ऐरयत् वि (*dāsīḥ airayat vi*); in the second line क्षामुपश्च (*kṣāmupaśca*) against Pada क्षां अपः च (*kṣāṃ apaḥ ca*) and तूततोत् (*tūtatot*) against Pada तूतोत् (*tūtot*). Reported, not settled; no Ṛk number is printed after the Saṃhitā in the supplied text. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> स वृ॑त्र॒हान [?]॑ कृ॒ष्णयो॑नीः पुरंद॒रो दासी॑रैराय॒द्वि [?] ।
-> अज॑नय॒न्मन॑वे॒ क्षाम॒ुपश्च॑ [?] स॒त्राशंसं॒ यज॑मानस्य तूततोत् [?] ॥
+> स वृ॑त्र॒हेन्द्रः॑ कृ॒ष्णयो॑नीः पुरंद॒रो दासी॑रैरय॒द्वि ।
+> अज॑नय॒न्मन॑वे॒ क्षाम॒पश्च॑ स॒त्राशंसं॒ यज॑मानस्य तूतोत् ॥
+
+> *sa vṛtrahendraḥ kṛṣṇayonīḥ puraṃdaro dāsīrairayadvi |*
+> *ajanayanmanave kṣāmapaśca satrāśaṃsaṃ yajamānasya tūtot ‖*
 
 **॥ पदपाठः ॥**
 
-*(The Pada was printed twice in the supplied text, the first time followed by the title-attribute fragment; the duplicate and the fragment are left out. The Pada reads इन्ः (*inḥ*) [?] where Indra's name is expected.)*
+*(The Pada was printed twice in the supplied text, the first time followed by the title-attribute fragment; the duplicate and the fragment are left out. The Pada reads इन्ः (*inḥ*) [?] where Indra's name is expected. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> सः । वृत्रहा । इन्ः [?] । कृष्णयोनीः । पुरंदरः । दासीः । ऐरयत् । वि ।
+> सः । वृत्रहा । इन्द्रः । कृष्णयोनीः । पुरंदरः । दासीः । ऐरयत् । वि ।
 > अजनयत् । मनवे । क्षां । अपः । च । सत्रा । शंसं । यजमानस्य । तूतोत् ॥ ७ ॥
+
+> *saḥ | vṛtrahā | indraḥ | kṛṣṇayonīḥ | puraṃdaraḥ | dāsīḥ | airayat | vi |*
+> *ajanayat | manave | kṣāṃ | apaḥ | ca | satrā | śaṃsaṃ | yajamānasya | tūtot ‖ 7 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -32831,14 +32899,17 @@ It is said that those asuras had three chief cities, made respectively of iron, 
 
 ### Printed p. 872
 
-*(Header: "872 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 20]", as supplied. The page opens with the Saṃhitā of Ṛk 9. The supplied text prints the Saṃhitā and Pada in damaged mixed Kannada-Devanagari letters, and again inside an HTML title attribute; the lines are converted letter for letter, not corrected. They show visible slips against the bhāṣya, for example त्री (*trī*) for ते (*te*) in both the Saṃhitā and the Pada, and विदध (*vidadha*) with the following word run together in the Pada; the label before the bhāṣya is printed garbled and is given in standard form.)*
+*(Header: "872 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 20]", as supplied. The page opens with the Saṃhitā of Ṛk 9. The supplied text prints the Saṃhitā and Pada in damaged mixed Kannada-Devanagari letters, and again inside an HTML title attribute; the lines are converted letter for letter, not corrected. They show visible slips against the bhāṣya, for example त्री (*trī*) for ते (*te*) in both the Saṃhitā and the Pada, and विदध (*vidadha*) with the following word run together in the Pada; the label before the bhāṣya is printed garbled and is given in standard form. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 #### Ṛk 9
 
 **॥ संहितापाठः ॥**
 
-> नू॒नं सा त्री॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदि॑न्द्र॒ दक्षि॑ण म॒घोनी॑ ।
-> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दध॑ सु॒वीराः॑ ॥ ९ ॥
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ९ ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadiṃdra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
@@ -33081,17 +33152,23 @@ In this Ṛk too the yajamāna tells the priests to praise Indra, and he describ
 
 #### Ṛk 3
 
-*(The supplied text prints the Saṃhitā in damaged mixed Kannada, Devanagari and Malayalam letters: a garbled Kannada fragment "ಸಂಜೆ ಶಾರದೆ", then Devanagari lines, and again the whole verse inside an HTML title attribute; the Pada is printed twice, the first time followed by a fragment of the title attribute. The Saṃhitā is taken from the title attribute and converted letter for letter to Kannada letters, not corrected; the garbled fragment, the duplicate Pada and the title fragment are left out. It differs from the Pada in places, for example ಸತ್ರಾರಾಸೋ (*satrārāso*) against the Pada ಸತ್ರಾಸಹಃ, ಜೋಷಮುಕ್ತಿತಃ against the Pada's ಜೋಷಂ । ಉಕ್ಷಿತಃ, ಸಹುರ್ವಿರ್ಕ್ಷಾರಿತ against the Pada's ಸಹುರಿಃ । ವಿಷ್ಣು । ಅರಿತಃ; the Pada's ವಿಷ್ಣು also differs from the bhāṣya's and Pratipadārtha's ವಿಕ್ಷು. Reported, not settled. The label before the bhāṣya is printed garbled as "ಸಾಯುಣ್ಯಭಾಷ್ಯಂ" and is given in standard form.)*
+*(The supplied text prints the Saṃhitā in damaged mixed Kannada, Devanagari and Malayalam letters: a garbled Kannada fragment "ಸಂಜೆ ಶಾರದೆ", then Devanagari lines, and again the whole verse inside an HTML title attribute; the Pada is printed twice, the first time followed by a fragment of the title attribute. The Saṃhitā is taken from the title attribute and converted letter for letter to Kannada letters, not corrected; the garbled fragment, the duplicate Pada and the title fragment are left out. It differs from the Pada in places, for example ಸತ್ರಾರಾಸೋ (*satrārāso*) against the Pada ಸತ್ರಾಸಹಃ, ಜೋಷಮುಕ್ತಿತಃ against the Pada's ಜೋಷಂ । ಉಕ್ಷಿತಃ, ಸಹುರ್ವಿರ್ಕ್ಷಾರಿತ against the Pada's ಸಹುರಿಃ । ವಿಷ್ಣು । ಅರಿತಃ; the Pada's ವಿಷ್ಣು also differs from the bhāṣya's and Pratipadārtha's ವಿಕ್ಷು. Reported, not settled. The label before the bhāṣya is printed garbled as "ಸಾಯುಣ್ಯಭಾಷ್ಯಂ" and is given in standard form. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 **॥ संहितापाठः ॥**
 
-> स॒त्रा॒रा॒सो ज॑नभ॒क्षो ज॑नंस॒हश्च्यव॑नो यू॒ध्मो अनु॒ जोष॑मुक्ति॒तः ।
-> वृ॒तं॒च॒यः सहु॑र्वि॒र्क्षा॑रि॒त इन्द्र॑स्य वोचं॒ प्र कृ॒तानि॑ वी॒र्या॑ ॥ ३ ॥
+> स॒त्रा॒सा॒हो ज॑नभ॒क्षो ज॑नंस॒हश्च्यव॑नो यु॒ध्मो अनु॒ जोष॑मुक्षि॒तः ।
+> वृ॒तं॒च॒यः सहु॑रिर्वि॒क्ष्व॑रि॒त इन्द्र॑स्य वोचं॒ प्र कृ॒तानि॑ वी॒र्या॑ ॥ ३ ॥
+
+> *satrāsāho janabhakṣo janaṃsahaścyavano yudhmo anu joṣamukṣitaḥ |*
+> *vṛtaṃcayaḥ sahurirvikṣvarita indrasya vocaṃ pra kṛtāni vīryā ‖ 3 ‖*
 
 **॥ पदपाठः ॥**
 
 > सत्रासहः । जनभक्षः । जनंसहः । च्यवनः । युध्मः । अनु । जोषं । उक्षितः ।
-> वृतंचयः । सहुरिः । विष्णु । अरितः । इन्द्रस्य । वोचं । प्र । कृतानि । वीर्या ॥
+> वृतंचयः । सहुरिः । विक्षु । आरितः । इन्द्रस्य । वोचं । प्र । कृतानि । वीर्या ॥
+
+> *satrāsahaḥ | janabhakṣaḥ | janaṃsahaḥ | cyavanaḥ | yudhmaḥ | anu | joṣaṃ | ukṣitaḥ |*
+> *vṛtaṃcayaḥ | sahuriḥ | vikṣu | āritaḥ | indrasya | vocaṃ | pra | kṛtāni | vīryā ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -33653,24 +33730,31 @@ the divine(Soma) pervade the divine(Indra), the true Soma, the true(Indra).
 
 **॥ संहितापाठः ॥**
 
-*(The first line of the Saṃhitā survives only inside the title attribute of the supplied HTML and the rest in a block garbled with the Pada; both were converted letter for letter and joined into three lines (the supplied text breaks the first line at "ಪ್ರವಾ-" / "ಚ್ಯಂ"). Doubtful places, reported not settled: इन्र (*inra*) for Indra's name, also in the Pada; प्रारीणा (*prārīṇā*) against Pada अरिणा (*ariṇā*) and bhāṣya प्रारिणाः (*prāriṇāḥ*); भुनद्विश्वमभ्यादैवमोजसा (*bhunadviśvamabhyādaivamojasā*) against Pada भुवत् विश्वं अभि अदेवं ओजसा (*bhuvat viśvaṃ abhi adevaṃ ojasā*) and bhāṣya भुवत् (*bhuvat*); विदितादिषं (*viditādiṣaṃ*) against Pada विदात् इषं (*vidāt iṣaṃ*). No Ṛk number is printed after the Saṃhitā in the supplied text.)*
+*(The first line of the Saṃhitā survives only inside the title attribute of the supplied HTML and the rest in a block garbled with the Pada; both were converted letter for letter and joined into three lines (the supplied text breaks the first line at "ಪ್ರವಾ-" / "ಚ್ಯಂ"). Doubtful places, reported not settled: इन्र (*inra*) for Indra's name, also in the Pada; प्रारीणा (*prārīṇā*) against Pada अरिणा (*ariṇā*) and bhāṣya प्रारिणाः (*prāriṇāḥ*); भुनद्विश्वमभ्यादैवमोजसा (*bhunadviśvamabhyādaivamojasā*) against Pada भुवत् विश्वं अभि अदेवं ओजसा (*bhuvat viśvaṃ abhi adevaṃ ojasā*) and bhāṣya भुवत् (*bhuvat*); विदितादिषं (*viditādiṣaṃ*) against Pada विदात् इषं (*vidāt iṣaṃ*). No Ṛk number is printed after the Saṃhitā in the supplied text. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> तव॒ त्यन्नर्यं॑ नृ॒तोप॑ इन्र [?] प्रथ॒मं पू॒र्व्यं दि॒वि प्र॒वाच्यं॑ कृ॒तं ।
-> यद्दै॒वस्य॒ शव॑सा॒ प्रारी॑णा॒ [?] असुं॑ रि॒णन्न॒पः ।
-> भुन॒द्विश्व॑म॒भ्यादै॑व॒मोज॑सा [?] वि॒दादूर्जं॑ श॒तक्र॑तुर्वि॒दितादिषं॑ [?]॥
+> तव॒ त्यन्नर्यं॑ नृ॒तोऽप॑ इन्द्र प्रथ॒मं पू॒र्व्यं दि॒वि प्र॒वाच्यं॑ कृ॒तं ।
+> यद्दे॒वस्य॒ शव॑सा॒ प्रारि॑णा॒ असुं॑ रि॒णन्न॒पः ।
+> भुव॒द्विश्व॑म॒भ्यादे॑व॒मोज॑सा वि॒दादूर्जं॑ श॒तक्र॑तुर्वि॒दादिषं॑ ॥
+
+> *tava tyannaryaṃ nṛto 'pa indra prathamaṃ pūrvyaṃ divi pravācyaṃ kṛtaṃ |*
+> *yaddevasya śavasā prāriṇā asuṃ riṇannapaḥ |*
+> *bhuvadviśvamabhyādevamojasā vidādūrjaṃ śatakraturvidādiṣaṃ ‖*
 
 **॥ पदपाठः ॥**
 
-*(The Pada was printed twice in the supplied text, the second time followed by the title-attribute fragment; the duplicate is left out. Slips: a stray apostrophe after इन्र (*inra*); शवसा ! (*śavasā !*) with an exclamation mark for the danda, written here as danda; अप (*apa*) without visarga; the first विदात (*vidāta*) without virāma (the last word of the line is विदात् (*vidāt*)).)*
+*(The Pada was printed twice in the supplied text, the second time followed by the title-attribute fragment; the duplicate is left out. Slips: a stray apostrophe after इन्र (*inra*); शवसा ! (*śavasā !*) with an exclamation mark for the danda, written here as danda; अप (*apa*) without visarga; the first विदात (*vidāta*) without virāma (the last word of the line is विदात् (*vidāt*)). [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
-> तव । त्यत् । नर्यं । नृतो इति अप । इन्र [?] ' प्रथमं । पूर्व्यं । दिवि । प्रवाच्यं । कृतं ।
-> यत् । देवस्य । शवसा । प्र । अरिणा । असुं । रिणन् । अप [?] ।
-> भुवत् । विश्वं । अभि । अदेवं । ओजसा । विदात [?] । ऊर्जं । शतक्रतुः । विदात् ।
-> इषं ॥ ४ ॥
+> तव । त्यत् । नर्यं । नृतो इति । अपः । इन्द्र । प्रथमं । पूर्व्यं । दिवि । प्रवाच्यं । कृतं ।
+> यत् । देवस्य । शवसा । प्र । अरिणा । असुं । रिणन् । अपः ।
+> भुवत् । विश्वं । अभि । अदेवं । ओजसा । विदात् । ऊर्जं । शतक्रतुः । विदात् । इषं ॥ ४ ॥
+
+> *tava | tyat | naryaṃ | nṛto iti | apaḥ | indra | prathamaṃ | pūrvyaṃ | divi | pravācyaṃ | kṛtaṃ |*
+> *yat | devasya | śavasā | pra | ariṇā | asuṃ | riṇan | apaḥ |*
+> *bhuvat | viśvaṃ | abhi | adevaṃ | ojasā | vidāt | ūrjaṃ | śatakratuḥ | vidāt | iṣaṃ ‖ 4 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
-*(The label was printed कयणभाष्यं (*kayaṇabhāṣyaṃ*) in the supplied text; written in the standard form.)*
+*(The label was printed कयणभाष्यं (*kayaṇabhāṣyaṃ*) in the supplied text; written in the standard form. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 > नृतो सर्वेषां नर्तयितः हे इंद्र नर्यं नराणां हितकरं प्रथमं
 > प्रततं ॥ प्रथमं प्रततमिति यास्कः ॥ पूर्व्यं पूर्वकालभवं त्वया कृतं । तव त्यत्
@@ -33756,17 +33840,23 @@ The Kannada: "With this sūkta गणानां त्वा (*gaṇānāṃ t
 
 #### Ṛk 1
 
-*(In the supplied text the Saṃhitā and Pada, and the label of the bhāṣya, were run together with a duplicate of both inside an HTML title attribute; the duplicate was left out, the Saṃhitā was joined into the two lines of the reference, and the Pada was set on its own lines. In the Saṃhitā the first words गणानां त्वा (*gaṇānāṃ tvā*) are printed in Kannada script and the rest in Devanagari, as supplied. In the first Pada line the supplied text had Telugu vowel and anusvara signs in the word *gaṇānāṃ*, which were written as the same signs in Kannada script. The Devanagari-script Saṃhitā and Pada words of the supplied text were converted letter for letter into Kannada script in kn.md. The Saṃhitā ends *sārdasaṃ* against the Pada and bhāṣya *sadanam*; left as supplied, no correction made.)*
+*(In the supplied text the Saṃhitā and Pada, and the label of the bhāṣya, were run together with a duplicate of both inside an HTML title attribute; the duplicate was left out, the Saṃhitā was joined into the two lines of the reference, and the Pada was set on its own lines. In the Saṃhitā the first words गणानां त्वा (*gaṇānāṃ tvā*) are printed in Kannada script and the rest in Devanagari, as supplied. In the first Pada line the supplied text had Telugu vowel and anusvara signs in the word *gaṇānāṃ*, which were written as the same signs in Kannada script. The Devanagari-script Saṃhitā and Pada words of the supplied text were converted letter for letter into Kannada script in kn.md. The Saṃhitā ends *sārdasaṃ* against the Pada and bhāṣya *sadanam*; left as supplied, no correction made. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 **॥ संहितापाठः ॥**
 
 > ग॒णानां॑ त्वा ग॒णप॑तिं हवामहे क॒विं क॑वी॒नामु॑प॒मश्र॑वस्तमं ।
-> ज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णाम् ब्रह्मणस्पत॒ आ नः॑ शृ॒ण्वन्नू॒तिभिः॑ सीद॒ सार्॑दसं ॥ १ ॥
+> ज्ये॒ष्ठ॒राजं॒ ब्रह्म॑णां ब्रह्मणस्पत॒ आ नः॑ शृ॒ण्वन्नू॒तिभिः॑ सीद॒ साद॑नं ॥ १ ॥
+
+> *gaṇānāṃ tvā gaṇapatiṃ havāmahe kaviṃ kavīnāmupamaśravastamaṃ |*
+> *jyeṣṭharājaṃ brahmaṇāṃ brahmaṇaspata ā naḥ śṛṇvannūtibhiḥ sīda sādanaṃ ‖ 1 ‖*
 
 **॥ पदपाठः ॥**
 
 > गणानां । त्वा । गणपतिं । हवामहे । कविं । कवीनां । उपमश्रवस्तमं ।
-> ज्येष्ठराजं । ब्रह्मणाम् । ब्रह्मणः । पते । आ । नः । शृण्वन् । ऊतिभिः । सीद । सदनम्॥
+> ज्येष्ठराजं । ब्रह्मणां । ब्रह्मणः । पते । आ । नः । शृण्वन् । ऊतिभिः । सीद । सदनं ॥
+
+> *gaṇānāṃ | tvā | gaṇapatiṃ | havāmahe | kaviṃ | kavīnāṃ | upamaśravastamaṃ |*
+> *jyeṣṭharājaṃ | brahmaṇāṃ | brahmaṇaḥ | pate | ā | naḥ | śṛṇvan | ūtibhiḥ | sīda | sadanaṃ ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -34437,19 +34527,23 @@ Brihaspati, defender(from calamity), we invoke you, the protector of our persons
 
 #### Ṛk 9
 
-*(The supplied text has the label before the Saṃhitā garbled; it is given as the standard label. The first line of the Saṃhitā survives only inside a stray HTML title attribute, partly in Devanagari with slips; converted as supplied and the doubtful words marked [?]: सूपृधा (*sūpṛdhā*) against the Pada's सुवृधा (*suvṛdhā*), स्वाह्ना (*svāhnā*) (the Pada also has स्वाह्ना (*svāhnā*), the Pratipadārtha स्वार्हा (*svārhā*)), मनुष्पा (*manuṣpā*) against the Pada's मनुष्या (*manuṣyā*), ददौमहि (*dadaumahi*) against the Pada's ददीमहि (*dadīmahi*). In the Pada the supplied text reads जम्भयॆ (*jambhayè*) and lacks the stroke after तळितः (*taḷitaḥ*); not corrected. The Saṃhitā has the Kannada letter ळ (*ḷa*) in तळितो (*taḷito*), converted to ळ.)*
+*(The supplied text has the label before the Saṃhitā garbled; it is given as the standard label. The first line of the Saṃhitā survives only inside a stray HTML title attribute, partly in Devanagari with slips; converted as supplied and the doubtful words marked [?]: सूपृधा (*sūpṛdhā*) against the Pada's सुवृधा (*suvṛdhā*), स्वाह्ना (*svāhnā*) (the Pada also has स्वाह्ना (*svāhnā*), the Pratipadārtha स्वार्हा (*svārhā*)), मनुष्पा (*manuṣpā*) against the Pada's मनुष्या (*manuṣyā*), ददौमहि (*dadaumahi*) against the Pada's ददीमहि (*dadīmahi*). In the Pada the supplied text reads जम्भयॆ (*jambhayè*) and lacks the stroke after तळितः (*taḷitaḥ*); not corrected. The Saṃhitā has the Kannada letter ळ (*ḷa*) in तळितो (*taḷito*), converted to ळ. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 **॥ संहितापाठः ॥**
 
-> त्वया वयं सूपृधा [?] ब्रह्मणस्पते स्वाह्ना [?] वसु मनुष्पा [?]
-> ददौमहि [?] ।
+> त्वया॑ व॒यं सु॒वृधा॑ ब्रह्मणस्पते स्पा॒र्हा वसु॑ मनु॒ष्या द॑दीमहि ।
 > या नो॑ दू॒रे त॒ळितो॒ या अरा॑तयो॒ऽभि सन्ति॑ ज॒म्भया॒ ता अ॑न॒प्नसः॑ ॥ ९ ॥
+
+> *tvayā vayaṃ suvṛdhā brahmaṇaspate spārhā vasu manuṣyā dadīmahi |*
+> *yā no dūre taḷito yā arātayo 'bhi santi jambhayā tā anapnasaḥ ‖ 9 ‖*
 
 **॥ पदपाठः ॥**
 
-> त्वया । वयं । सुवृधा । ब्रह्मणः । पते । स्वाह्ना । वसु । मनुष्या । आ । ददी-
-> महि ।
-> याः । नः । दूरे । तळितः याः । अरातयः । अभि । सन्ति । जम्भयॆ। ताः । अनप्नसः॥९॥
+> त्वया । वयं । सुवृधा । ब्रह्मणः । पते । स्पार्हा । वसु । मनुष्या । आ । ददीमहि ।
+> याः । नः । दूरे । तळितः याः । अरातयः । अभि । सन्ति । जम्भय । ताः । अनप्नसः ॥ ९ ॥
+
+> *tvayā | vayaṃ | suvṛdhā | brahmaṇaḥ | pate | spārhā | vasu | manuṣyā | ā | dadīmahi |*
+> *yāḥ | naḥ | dūre | taḷitaḥ yāḥ | arātayaḥ | abhi | santi | jambhaya | tāḥ | anapnasaḥ ‖ 9 ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -34745,12 +34839,18 @@ Brihaspati is to be invoked in battles: he is to be approached with reverence: h
 **॥ संहितापाठः ॥**
 
 > तेजि॑ष्ठया तप॒नी र॒क्षस॑स्तप॒ ये त्वा॑ नि॒दे द॑धि॒रे दृ॒ष्टवी॑र्यं ।
-> आ॒विस्तत्कृ॑ष्ट॒ यदस॑त्त उ॒क्थ्यं१॒॑ बृह॑स्पते॒ वि प॑रि॒रापो॑ अर्दय॥
+> आ॒विस्तत्कृ॑ष्व॒ यदस॑त्त उ॒क्थ्यं१॒॑१ बृह॑स्पते॒ वि प॑रि॒रापो॑ अर्दय ॥
+
+> *tejiṣṭhayā tapanī rakṣasastapa ye tvā nide dadhire dṛṣṭavīryaṃ |*
+> *āvistatkṛṣva yadasatta ukthyaṃ1 bṛhaspate vi parirāpo ardaya ‖*
 
 **॥ पदपाठः ॥**
 
-> तेजिष्ठया । तपनी । रक्षसः । तप । ये । त्वा । निदे । ददिरे । दृष्टवीर्यं ।
-> आविः । तत् । कृष्ण । यत् । असत् । ते । उक्थ्यं । बृहस्पते । वि । परिरपः । अर्दय॥
+> तेजिष्ठया । तपनी । रक्षसः । तप । ये । त्वा । निदे । दधिरे । दृष्टवीर्यं ।
+> आविः । तत् । कृष्व । यत् । असत् । ते । उक्थ्यं । बृहस्पते । वि । परिरपः । अर्दय ॥
+
+> *tejiṣṭhayā | tapanī | rakṣasaḥ | tapa | ye | tvā | nide | dadhire | dṛṣṭavīryaṃ |*
+> *āviḥ | tat | kṛṣva | yat | asat | te | ukthyaṃ | bṛhaspate | vi | parirapaḥ | ardaya ‖*
 
 **॥ सायणभाष्यम् ॥**
 
@@ -34902,17 +35002,20 @@ English Translation of the Brahmana portion quoted above—He who wishes for bea
 **॥ संहितापाठः ॥**
 
 > मा नः॑ स्ते॒नेभ्यो॒ ये अ॒भि द्रु॒हस्प॒दे नि॑रा॒मिणो॑ रि॒पवोऽन्ने॑षु जागृ॒धुः ।
-> आ दे॒वाना॒मोह॑ते॒ वि व्रयौ॑ हृ॒दि बृह॑स्पते॒ न प॒रः साम्नो॑ विदुः ॥ १६ ॥
+> आ दे॒वाना॒मोह॑ते॒ वि व्रयो॑ हृ॒दि बृह॑स्पते॒ न प॒रः साम्नो॑ विदुः ॥ १६ ॥
+
+> *mā naḥ stenebhyo ye abhi druhaspade nirāmiṇo ripavo 'nneṣu jāgṛdhuḥ |*
+> *ā devānāmohate vi vrayo hṛdi bṛhaspate na paraḥ sāmno viduḥ ‖ 16 ‖*
 
 **॥ पदपाठः ॥**
 
-> मा । नः । स्तेनेभ्यः । ये । अभि । द्रुहः । पदे । निरामिणः । रिपवः । अन्नेषु। जगृधुः।
-> आ । देवानां । ओहते । वि । व्रयः । हृदि । बृहस्पते । न । परः । साम्नः । विदुः ॥१६॥
+> मा । नः । स्तेनेभ्यः । ये । अभि । द्रुहः । पदे । निरामिणः । रिपवः । अन्नेषु । जागृधुः ।
+> आ । देवानां । ओहते । वि । व्रयः । हृदि । बृहस्पते । न । परः । साम्नः । विदुः ॥ १६ ॥
 
-> *mā | naḥ | stenebhyaḥ | ye | abhi | druhaḥ | pade | nirāmiṇaḥ | ripavaḥ | anneṣu| jagṛdhuḥ|*
-> *ā | devānāṃ | ohate | vi | vrayaḥ | hṛdi | bṛhaspate | na | paraḥ | sāmnaḥ | viduḥ ‖16‖*
+> *mā | naḥ | stenebhyaḥ | ye | abhi | druhaḥ | pade | nirāmiṇaḥ | ripavaḥ | anneṣu | jāgṛdhuḥ |*
+> *ā | devānāṃ | ohate | vi | vrayaḥ | hṛdi | bṛhaspate | na | paraḥ | sāmnaḥ | viduḥ ‖ 16 ‖*
 
-*(Note: the first half-line of the Saṃhitā is missing from the body of the supplied text and survives only inside an image title attribute, mixed Devanagari and Kannada script, which has been used here letter for letter. The Saṃhitā there reads व्रयौ (*vrayau*) (in Devanagari) where the Pada has व्रयः (*vrayaḥ*); left as supplied.)*
+*(Note: the first half-line of the Saṃhitā is missing from the body of the supplied text and survives only inside an image title attribute, mixed Devanagari and Kannada script, which has been used here letter for letter. The Saṃhitā there reads व्रयौ (*vrayau*) (in Devanagari) where the Pada has व्रयः (*vrayaḥ*); left as supplied. [Updated Nov 5 2026: the verse lines of this block were afterwards read from the picture embedded in the supplied file and now follow it; slips mentioned here that concern those verse lines no longer apply.])*
 
 **॥ सायणभाष्यम् ॥**
 
