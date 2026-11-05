@@ -34872,6 +34872,94 @@ The splendour of Brahman (ब्रह्मवर्चस्सु (*brahmavar
 
 The explanation given above follows the meaning "splendour of Brahman" for the word द्रविण (*draviṇa*). Besides this, Sāyaṇa has also given another explanation, taking द्रविण (*draviṇa*) in the general sense "wealth" (the text of the window breaks off here, at the dash introducing it).
 
+### Printed p. 944
+
+*(Header: [944 Sāyaṇabhāṣyasahitā Maṃ. 2. A. 3. Sū 25], as supplied.)*
+
+यद्वा अर्य उदारोऽपि त्वया दत्तं धनमतीवाहर्हात् श्रद्दधीत । यच्च त्वद्दत्तं धनं जनेषु तव स्तोत्रं कुर्वाणेषु दीप्तियुक्तं कर्मसाधनं च विभाति यच्च धनं शवसान्नादिसमृद्ध्या दीदयत् स्वाश्रयं दीपयति तादृशं धनमस्मासु धेहि ॥ (*yadvā arya udāro 'pi tvayā dattaṃ dhanamatīvāharhāt śraddadhīta | yacca tvaddattaṃ dhanaṃ janeṣu tava stotraṃ kurvāṇeṣu dīptiyuktaṃ karmasādhanaṃ ca vibhāti yacca dhanaṃ śavasānnādisamṛddhyā dīdayat svāśrayaṃ dīpayati tādṛśaṃ dhanamasmāsu dhehi ‖*) That is: O Bṛhaspati, although you are of generous nature, the wealth you give we must accept with great faith; and the wealth you give is, for the people who praise you, a means to excellent rites such as sacrifices, and gives abundant food and the like, and is a support for all undertakings. Give us such excellent wealth: this is the main idea.
+
+The explanation of this Ṛk, given in the Aitareya-brāhmaṇa at the conclusion of the Āśvina-śastra mantras, is given here—
+
+बृहस्पते अति यदर्यो अर्हादित्येतया परिदध्यात्तेजस्कामो ब्रह्मवर्चसकामोऽतीव वान्यान्ब्रह्मवर्चसमहति ॥ (*bṛhaspate ati yadaryo arhādityetayā paridadhyāttejaskāmo brahmavarcasakāmo 'tīva vānyānbrahmavarcasamahati ‖*) The man who desires splendour and the splendour of Brahman, by reciting this Ṛk beginning बृहस्पते अति यदर्यो अर्हात् (*bṛhaspate ati yadaryo arhāt*) (during the recitation of the Āśvina-śastra mantras), obtains the splendour of Brahman in greater measure than all other men. Here the word अति (*ati*) indicates the meaning "than all other men".
+
+द्युमदिति द्युमदिव वै ब्रह्मवर्चसं विभातीति वीव वै ब्रह्मवर्चसं भाति । (*dyumaditi dyumadiva vai brahmavarcasaṃ vibhātīti vīva vai brahmavarcasaṃ bhāti |*) In the sentence of the second pāda of this Ṛk, द्युमद्विभाति क्रतुमज्जनेषु (*dyumadvibhāti kratumajjaneṣu*), the word द्युमत् (*dyumat*) praises a special quality of the splendour of Brahman: its quality is described by saying that the splendour of Brahman, joined with the wealth of learning and study, shines specially in the assemblies of learned people. Here the word द्युमत् (*dyumat*) means the radiant splendour of Brahman (consisting in the attainment of knowledge of Brahman), and the word वि (*vi*) means "specially".
+
+यद्दीदयच्छवस ऋतप्रजातेति दीदायेव वै ब्रह्मवर्चसं । (*yaddīdayacchavasa ṛtaprajāteti dīdāyeva vai brahmavarcasaṃ |*) The word दीदयत् (*dīdayat*) in the third pāda indicates the meaning that the splendour of Brahman shines well among Brahmins.
+
+तदस्मासु द्रविणं धेहि चित्रमिति चित्रमिव वै ब्रह्मवर्चसं । (*tadasmāsu draviṇaṃ dhehi citramiti citramiva vai brahmavarcasaṃ |*) The word चित्र (*citra*) in the fourth pāda, as an epithet of the splendour of Brahman, indicates that the splendour of Brahman arising from the Veda and from the practice enjoined by the śāstras is most wonderful.
+
+### Printed p. 945
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 32] Ṛgveda-saṃhitā, page 945, as supplied.)*
+
+ब्रह्मवर्चसी ब्रह्मयशसी भवति यत्रैवं विद्वानेतया परिदधाति तस्मादेवं विद्वानेतया परिदध्यात् ॥ (*brahmavarcasī brahmayaśasī bhavati yatraivaṃ vidvānetayā paridadhāti tasmādevaṃ vidvānetayā paridadhyāt ‖*) (इ. ब्रा. (*i. brā.*) 17-5, as supplied.) By reciting this Ṛk the man obtains the splendour of Brahman and fame. Therefore the man who desires the splendour of Brahman and renown should recite this Ṛk.
+
+English Translation of the Brahmana portion quoted above—He who wishes for beauty and acquirement of sacred knowledge ought to conclude with बृहस्पते अति यत् (*bṛhaspate ati yat*)(Ṛ, Saṃ. 2-23-15). Here the word अति (*ati*) i.e. beyond means that he acquires more of sacred knowledge than other men do. The term द्युमत् (*dyumat*) in the second pada means "acquirement of sacred knowledge" and विभाति (*vibhāti*) means, that the sacred knowlodge [sic] shines everywhere, as it were. The term दीदयित् (*dīdayit*) [sic, the Ṛk and the quotation have दीदयत् (*dīdayat*)] in the third pada means, that the sacred knowledge has been shining forth(in the Brahmanas). The term चित्र (*citra*) in the fourth pada means, that the sacred knowledge is, as it were apparent(चित्रं (*citraṃ*)). He at whose sacrifice there is Hotar knowing that he must con-clude [sic] with this verse becomes endowed with sacred knowledge and famous sanctity.
+(Martin Haug's Translation of Aitareya Brahmana p. 277).
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> मा नः॑ स्ते॒नेभ्यो॒ ये अ॒भि द्रु॒हस्प॒दे नि॑रा॒मिणो॑ रि॒पवोऽन्ने॑षु जागृ॒धुः ।
+> आ दे॒वाना॒मोह॑ते॒ वि व्रयौ॑ हृ॒दि बृह॑स्पते॒ न प॒रः साम्नो॑ विदुः ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> मा । नः । स्तेनेभ्यः । ये । अभि । द्रुहः । पदे । निरामिणः । रिपवः । अन्नेषु। जगृधुः।
+> आ । देवानां । ओहते । वि । व्रयः । हृदि । बृहस्पते । न । परः । साम्नः । विदुः ॥१६॥
+
+> *mā | naḥ | stenebhyaḥ | ye | abhi | druhaḥ | pade | nirāmiṇaḥ | ripavaḥ | anneṣu| jagṛdhuḥ|*
+> *ā | devānāṃ | ohate | vi | vrayaḥ | hṛdi | bṛhaspate | na | paraḥ | sāmnaḥ | viduḥ ‖16‖*
+
+*(Note: the first half-line of the Saṃhitā is missing from the body of the supplied text and survives only inside an image title attribute, mixed Devanagari and Kannada script, which has been used here letter for letter. The Saṃhitā there reads व्रयौ (*vrayau*) (in Devanagari) where the Pada has व्रयः (*vrayaḥ*); left as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते नोऽस्मान् स्तेनेभ्यः । स्त्यानमस्ति येष्टिति स्तेनाश्चौराः । तेभ्यो
+> मा दाः । तान् दर्शयति । ये चौरा द्रुहः प्राणद्रोहस्य पदे स्थाने निरामिणो
+
+> *he bṛhaspate no 'smān stenebhyaḥ | styānamasti yeṣṭiti stenāścaurāḥ | tebhyo*
+> *mā dāḥ | tān darśayati | ye caurā druhaḥ prāṇadrohasya pade sthāne nirāmiṇo*
+
+### Printed p. 946
+
+*(Header: [946 Sāyaṇabhāṣyasahitā Maṃ. 2 A. 3 Sū. 23], as supplied.)*
+
+> नितरां रमणशीला रिपवो हिंसकाः संतोऽन्नेषु परकीयेष्टभिजागृधुः । अभि-
+> कांक्षंति ॥ गृधु अभिकांक्षायां । लिट रूपं ॥ ये च देवानां वि व्रयो विशेषेण
+> वर्जनं ॥ व्री व्ली इति धूतू वर्जने वर्तेते । य एवं विद्वान् दक्षिणां प्रतिगृह्णाति
+> नैनं दक्षिणा व्लीनाति । तै. ब्रा. २-२-५-१ । इत्येकस्य वर्जनार्थे दृष्टस्यापि वर्ज-
+> नार्थत्वं ॥ तत् हृदि स्वकीये हृदयॆ आ ओहते । आवहंति । देवानां यागान्
+> स्तुतीश्च न करवामेति मन्यंत इति यावत् । तेभ्योऽस्मान् मा दा इति समन्वयः ।
+> ये पुमांसः साम्नः साममयात्तत्तः परः परस्तादन्यदुत्कृष्टं साम यद्रक्षोघ्नं
+> साम वै रक्षोहेति । न विदुः । न जानंति । किंतु सर्वसाधकं साम त्वामेव विदु-
+> षोऽस्मान् स्तेनेभ्यो मा दाः ॥
+
+> *nitarāṃ ramaṇaśīlā ripavo hiṃsakāḥ saṃto 'nneṣu parakīyeṣṭabhijāgṛdhuḥ | abhi-*
+> *kāṃkṣaṃti ‖ gṛdhu abhikāṃkṣāyāṃ | liṭa rūpaṃ ‖ ye ca devānāṃ vi vrayo viśeṣeṇa*
+> *varjanaṃ ‖ vrī vlī iti dhūtū varjane vartete | ya evaṃ vidvān dakṣiṇāṃ pratigṛhṇāti*
+> *nainaṃ dakṣiṇā vlīnāti | tai. brā. 2-2-5-1 | ityekasya varjanārthe dṛṣṭasyāpi varja-*
+> *nārthatvaṃ ‖ tat hṛdi svakīye hṛdayè ā ohate | āvahaṃti | devānāṃ yāgān*
+> *stutīśca na karavāmeti manyaṃta iti yāvat | tebhyo 'smān mā dā iti samanvayaḥ |*
+> *ye pumāṃsaḥ sāmnaḥ sāmamayāttattaḥ paraḥ parastādanyadutkṛṣṭaṃ sāma yadrakṣoghnaṃ*
+> *sāma vai rakṣoheti | na viduḥ | na jānaṃti | kiṃtu sarvasādhakaṃ sāma tvāmeva vidu-*
+> *ṣo 'smān stenebhyo mā dāḥ ‖*
+
+*Gist: O Bṛhaspati, do not give us over to thieves who delight in injuring life, covet others' food, harbour disbelief in the gods, and do not know the Sāman that destroys demons. The grammatical tail (the root गृधु (*gṛdhu*), the roots व्री (*vrī*) and व्ली (*vlī*) in the sense of avoiding) is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बृहस्पते (*bṛhaspate*)—O Bṛhaspati. ये (*ye*)—which thieves. द्रुहः (*druhaḥ*)—of the nature of injury. पदे (*pade*)—in the practice. निरामिणः (*nirāmiṇaḥ*)—take delight (and). रिपवः (*ripavaḥ*)—being injurious. अन्नेषु (*anneṣu*)—in the foods (belonging to others). अभि जागृधुः (*abhi jāgṛdhuḥ*)—grow covetousness. ये (*ye*)—which thieves. देवानां (*devānāṃ*)—in the worship of the gods. वि व्रयः (*vi vrayaḥ*)—special disbelief. हृदि (*hṛdi*)—in their hearts. आ ओहते (*ā ohate*)—have filled completely (and moreover). ये (*ye*)—which unbelievers. साम्नः (*sāmnaḥ*)—of your power that destroys demons. परः (*paraḥ*)—the greatness. न विदुः (*na viduḥ*)—do not know: such. स्तेनेभ्यः (*stenebhyaḥ*)—to thieves. नः (*naḥ*)—us. मा(दाः) (*mā(dāḥ)*)—do not give up so that we come under their control.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, those thieves who take delight in a practice of the nature of injury and, being injurious, grow covetousness for the foods belonging to others, who have filled their hearts completely with a special disbelief in the worship of the gods, and moreover those unbelievers who do not know the greatness of your power that destroys demons: do not give us up to such thieves so as to come under their control.
+
+**Printed English translation**
+
+Deliver us not to the thieves, the enemies delighting in violence, who seize ever upon the food(of others), those who cherish in their hearts the abandonment(of the gods);(they), Brihaspati, who do not know the extent of(your) power(against evil spirits).
+
 ---
 
-**Progress note:** Done through printed p. 943 (PDF 943). Sukta 23 Rik 15 bhasya, Pratipadartha, Bhavartha, printed English and start of Special Topics (draviṇa as brahmavarcas)
+**Progress note:** Done through printed p. 946 (PDF 946). Sukta 23 Rik 15 Special Topics (second sense of dravina, Aitareya-brahmana passage, Haug's translation) completed; Rik 16 Samhita, Pada, bhasya, Pratipadartha, Bhavartha and printed English written; Rik 16 Samhita first line recovered from an HTML title attribute
