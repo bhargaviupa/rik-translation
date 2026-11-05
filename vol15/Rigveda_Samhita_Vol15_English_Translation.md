@@ -16856,6 +16856,101 @@ Mighty suns like brilliant lightnings, associate with the self-shining Agni, gre
 
 अपारे ऊर्वे अंतः अमृतं दुहानाः बृहंतः भानव इत्— (*apāre ūrve aṃtaḥ amṛtaṃ duhānāḥ bṛhaṃtaḥ bhānava it—*) here it is explained: the suns, of great form, who pour water as rain in the middle of the unfathomable sea. Here the word ऊर्व (*ūrva*) means the sea or the submarine fire in the sea. The word अमृत (*amṛta*) means water (Ni. 2-24). It is not clear why the seer has used the plural भानवः (*bhānavaḥ*) in this sentence. It is not clear whether the twelve Ādityas are meant here by the word भानवः (*bhānavaḥ*), or whether, with the idea that the sun rising each day is different, the many suns rising on many days are meant. Perhaps for describing the immense brilliance of Agni by comparison, the illustration of many suns was stated. Besides, in this sentence अमृतं दुहानाः (*amṛtaṃ duhānāḥ*) is used as an epithet of the suns: those who pour water. Though the Sun does not himself pour rain, with his rays he draws up the waters of the sea and other reservoirs and that
 
+### Printed p. 533
+
+*[Running head, p. 533: Aṣṭaka 2, Adhyāya 8, Varga 15, Ṛgvedasaṃhitā.]*
+
+becomes transformed into the form of clouds; therefore the Sun can be said to be the indirect cause of rain.
+
+शुक्राः विद्युतो न स्वे सदसि गुहेव वृद्धं भाऋजीकं अग्निं सचंत— (*śukrāḥ vidyuto na sve sadasi guheva vṛddhaṃ bhāṛjīkaṃ agniṃ sacaṃta—*) Here the sentence स्वे सदसि गुहेव वृद्धं भाऋजीकं (*sve sadasi guheva vṛddhaṃ bhāṛjīkaṃ*) means Agni, who, though in his own abode, the atmosphere, grows in the midst of the clouds (as if hidden in a cave) so as not to be visible to anyone, and who shines by his own light. It is described here that very brilliant lightnings attend the Agni who is in the form of lightning in the middle of the clouds. Since lightnings are seen from time to time in the middle of clouds, the seer's idea is that they surround and attend the Agni who is in the form of lightning. In this way, as very brilliant electric rays, that is lightnings, attend the Agni hidden in the cloud region so that no one sees him, the suns in the atmosphere, causes of rain, attend Agni: this idea is stated here.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It shows a decorative pattern or design." (an ornament), kept as a note.]*
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> ईळे॑ च त्वा॒ यज॑मानो ह॒विर्भि॒रीळे॑सखि॒त्वं सु॑म॒तिं निका॑मः ।
+> दे॒वैरवो॑ मिमाहि॒ सं ज॑रि॒त्रे रक्षा॑ च नो॒ दम्ये॑भि॒रनी॑कैः ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> ईळे । च । त्वा । यजमानः । हविभिः । ईळे । सखित्वं । सुमतिं । निकामः ।
+> देवैः । अवः । मिमाहि । सं । जरित्रे । रक्ष । च । नः । दम्येभिः । अनीकैः ॥ १५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> यजमानोऽहं हविर्भिः साधनैस्त्वा त्वामीळे च । पश्वादिलक्षणं धनं च
+> याचे । सुमतिं शोभनां मतिं धर्मविषयां बुद्धिं निकामो नितरां कामयमानस्त्वया सह सखित्वमीळे । याचे । त्वं देवैः सह जरित्रे स्तोत्रे स्तोत्रं
+> कुर्वते मह्यमस्मदर्थमवः पश्वादिविषयां रक्षां मिमाहि । कुरु । दम्येभिर्दमनीय्नैर्नियंतव्यैः । प्रयत्ननियंतव्यतयोच्छृंखलतोक्ता । अनीकैस्तेजोभिर्नोऽस्मान् रक्ष च ॥
+
+*(Gist: I, the sacrificer, implore you with oblations for wealth in cattle, and for your friendship and good thought; with the gods protect me, the praiser, and guard us with your restrained flames. Hyphenated line breaks were joined.)*
+
+### Printed p. 534
+
+*[Running head, p. 534: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Yajamānaḥ: I, the performer of the sacrifice. Havirbhiḥ: by offering oblations. Tvā: you. Īḷe: I implore (for wealth). Sumatiṃ: excellent intelligence. Nikāmaḥ: desiring. Sakhitvaṃ ca: and friendship (with you). Īḷe: I beg. Devaiḥ: together with the gods. Jaritre: to me, the praiser. Avaḥ: protection (in the form of cattle and the like). Mimāhi: bring about. Damyebhiḥ: restrained. Anīkaiḥ: with flames. Naḥ: us. Rakṣa ca: protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, I, the performer of the sacrifice, implore you for wealth by offering oblations. Desiring excellent intelligence, I also beg your friendship. Together with the gods, grant me, the praiser, protection in the form of cattle and the like. Protect us with restrained flames.
+
+**Printed English translation**
+
+I, the institutor of the rite, worship you with oblations: desirous of your favour, I implore your friendship : grant, along with the gods, protection to him who praises you; preserve us with your well-regulated rays.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Having so far described Agni's various deeds and qualities, the seer now in this Ṛk and the following Ṛks prays that Agni give him, the sacrificer, wealth, protection and the like.
+
+सुमतिं— (*sumatiṃ—*) for the word सुमति (*sumati*) Yāska has given the etymology कल्याणीं मतिं (*kalyāṇīṃ matiṃ*), "an auspicious thought" (Ni. 2-11; 7-22; 11-11; 11-19; 12-39). But the word सुमति (*sumati*) is used not merely in the sense of divine, gracious intelligence but also in the sense of a human prayer or a person's excellent wish. For example—
+
+⟦ತುಭ್ಯಂ ಭರಂತಿ ಕ್ಷಿತಯೋ ಯವಿಷ್ಠ ಬಲಿಮಗ್ನೇ ಅಂತಿತ ಓತ ದೂರಾತ್ ।
+ಆ ಭಂದಿಷ್ಠಸ್ಯ ಸುಮತಿಂ ಚಿಕಿದ್ದಿ ಬೃಹತ್ತೇ ಅಗ್ನೇ ಮಹಿ ಶರ್ಮ ಭದ್ರಂ ॥⟧
+(Ṛ. Saṃ. 5-1-10)
+
+### Printed p. 535
+
+*[Running head, p. 535: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+⟦ಪ್ರ ವೋ ಮಹೇ ಮಹೀವೃಧೇ ಭರಧ್ವಂ ಪ್ರಚೇತಸೇ ಪ್ರ ಸುಮತಿಂ ಕೃಣುಧ್ವಂ ।
+ವಿಶಃ ಪೂರ್ವೀಃ ಪ್ರ ಚರಾ ಚರ್ಷಣಿಪ್ರಾಃ⟧
+(Ma. [printed ಮ., for Ṛ.] Saṃ. 7-31-10)
+
+In Ṛks such as these it is explained, "listen to the praiser's excellent praise" and "recite excellent praise addressed to Indra".
+
+⟦ದಮ್ಯೇಭಿಃ ಅನೀಕೈಃ—ದಮನೀಯೈರ್ನಿಯಂತವ್ಯೈಃ । ಪ್ರಯತ್ನನಿಯಂತವ್ಯತಯೋಚ್ಛೃಂ-
+ಖಲತೋಕ್ತಾ । ತೇಜೋಭಿಃ ।⟧ [the supplied text breaks the word प्रयत्ननियंतव्यतयोच्छृं-खलतोक्ता (*prayatnaniyaṃtavyatayocchṛṃ-khalatoktā*) at the line end] By his excessive brilliance (power of burning) Agni can do both evil and good. Therefore the meaning is indicated by the words दम्येभिः अनीकैः (*damyebhiḥ anīkaiḥ*): let Agni, restraining his brilliance, make his flames useful in our case so that houses, cattle and the like do not fall victim to Agni's burning power, and in destroying our enemies and protecting us from evil forces.
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> उ॒प॒क्षे॒तार॒स्तव॑ सुप्रणी॒तेऽग्ने॒ विश्वा॑नि॒ धन्या॒ दधा॑नाः ।
+> सु॒रेत॑सा॒ श्रव॑सा॒ तुंज॑माना अ॒भि ष्या॑म पृतना॒यूरदे॑वान् ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> उपक्षेतारः । तव । सुप्रनीते । अग्ने । विश्वानि । धन्या । दधानाः ।
+> सुरेतसा । श्रवसा । तुंजमानाः । अभि । स्याम । पृतनायून् । अदेवान् ॥ १६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सुप्रणीते शोभनप्रणयन हे अग्ने तवोपक्षेतार उपगंतारः ॥ अत्र
+> क्षितिर्गत्यर्थे वर्तते ॥ विश्वानि सर्वाणि धन्या धन्यानि पश्वादिधनप्राप्तिहेतुभूतानि
+> कर्माणि दधाना विदधानाः कुर्वंतस्तुंजमाना हवींषि प्रयच्छंतो वयं
+> सुरेतसा शोभनवीर्येण श्रवसा त्वत्कृतेनान्नेनादेवान् देवेभ्योऽन्यान् ।
+> नञ्वयुक्तन्यायेन राक्षसा एव गृह्यंते । यज्ञविघ्नकारिणस्तान्पृतनायूंश्च
+
+> *he supraṇīte śobhanapraṇayana he agne tavopakṣetāra upagaṃtāraḥ ‖ atra*
+> *kṣitirgatyarthe vartate ‖ viśvāni sarvāṇi dhanyā dhanyāni paśvādidhanaprāptihetubhūtāni*
+> *karmāṇi dadhānā vidadhānāḥ kurvaṃtastuṃjamānā havīṃṣi prayacchaṃto vayaṃ*
+> *suretasā śobhanavīryeṇa śravasā tvatkṛtenānnenādevān devebhyo 'nyān |*
+> *nañvayuktanyāyena rākṣasā eva gṛhyaṃte | yajñavighnakāriṇastānpṛtanāyūṃśca*
+
 ---
 
-**Progress note:** Done through printed p. 532 (PDF 532). Sukta 1 (Mandala 3) Rik 13 complete (pp. 530-531); Rik 14 complete through printed English and start of Special Topics (pp. 531-532), breaks off mid-sentence about the sun drawing up water. Flags: Rik 14 Samhita lacks closing number; Bhajiika/Bhayajika variants as supplied
+**Progress note:** Done through printed p. 535 (PDF 535). Sukta 1 (Mandala 3) Rik 14 Special Topics finished (p. 533); Rik 15 complete (pp. 533-535); Rik 16 Samhita, Pada and most of bhashya (p. 535), bhashya breaks off. Flags: Ma. Sam. for Ri. Sam. 7-31-10; hyphenated breaks joined in bhashya; 2 accent DIFF
