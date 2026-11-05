@@ -33970,6 +33970,83 @@ It can be said that the word kavi is used to convey the same quality as the word
 
 *(The page ends here; the last line is cut off in the supplied text and continues on the next page. A running title "[58] Vol. 14." with a stray repeated line appears at the foot: printer's signature.)*
 
+### Printed p. 914
+
+*(Header: "914 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2 A. 3 Sū. 23]", as supplied.)*
+
+*(Continued from p. 913, where the sentence about the word kavi breaks off.)* ...Although the word kavi is used there too, it will be explained later, as occasion arises, that the derivation (nirvacana) given there differs somewhat from this one. To show the true nature of the kavi, the Nirukta author quotes the Ṛk विश्वा रूपाणि प्रति मुंचते कविः प्रासावीद्भद्रं द्विपदे चतुष्पदे । वि नाकमख्यत्सपितः वरेण्योऽनु प्रयाणमुषसो वि राजति ॥ (*viśvā rūpāṇi prati muṃcate kaviḥ prāsāvīdbhadraṃ dvipade catuṣpade | vi nākamakhyatsapitaḥ vareṇyo 'nu prayāṇamuṣaso vi rājati ‖*) (Ma. Saṃ. 5-81-2) and explains what nature the word kavi, an epithet of Savitṛ here, shows. It is understood that this epithet belongs to Savitṛ because he makes all the forms of the world shine. That is, the meaning is that he has the power, by his own force, to bring to light the things that lie hidden and are not visible to the eye of the world, and to make them fall within the world's sight. In this very sense the name kavi is also well known for the stotṛ, the praiser. This idea is indicated in the Ṛk ब्रह्मा कृगोति वरुणो गातुविदं तमीमहे । व्यूणोति हृदा मतिं नव्यो जायतामृतं वित्तं मे अस्य रोदसी ॥ (*brahmā kṛgoti varuṇo gātuvidaṃ tamīmahe | vyūṇoti hṛdā matiṃ navyo jāyatāmṛtaṃ vittaṃ me asya rodasī ‖*) (Pu. Saṃ. 1-105-15) and likewise in other Ṛks. In this quoted Ṛk Sāyaṇa has explained the word व्यूर्णोति (*vyūrṇoti*) as "utters, makes manifest". The root ऊर्णुञ (*ūrṇuña*) - आच्छादने (*ācchādane*) ("to cover") has the meaning "hide, cover" and becomes ऊर्णोति (*ūrṇoti*). Here, joined with the preposition वि (*vi*), it gives the sense of removing the covering, that is, of taking away the hiding; the intention is "makes manifest". From this it can be understood that the power of creation, in the form of making manifest a feeling hidden in the mind, and the power of showing by making manifest what is hidden, are special qualities of the kavi or praiser. Therefore the word kavi is an epithet that conveys the common quality of Savitṛ and of the praiser, for both. Explaining this same characteristic and the work of the kavi, the Ṛksaṃhitā says—
+
+समानं नीळं वृषणो वसानाः सं जग्मिरे महिषा अवतीभिः । ऋतस्य पदं कवयो नि पांति गुहा नामानि दधिरे पराणि ॥ (*samānaṃ nīḷaṃ vṛṣaṇo vasānāḥ saṃ jagmire mahiṣā avatībhiḥ | ṛtasya padaṃ kavayo ni pāṃti guhā nāmāni dadhire parāṇi ‖*) (Ma. Saṃ. 10-5-2)
+
+बृहस्पते प्रथमं वाचो अग्रं यत्पुरत नामधेयं दधानाः । यदेषां श्रेष्ठं यदरिप्रमासीत्प्रेणा तदेषां निहितं गुहाविः ॥ (*bṛhaspate prathamaṃ vāco agraṃ yatpurata nāmadheyaṃ dadhānāḥ | yadeṣāṃ śreṣṭhaṃ yadaripramāsītpreṇā tadeṣāṃ nihitaṃ guhāviḥ ‖*) (Pu. Saṃ. 10-7-1)
+
+### Printed p. 915
+
+*(Header: "[A. 2 A. 6 V. 29] Ṛgveda-saṃhitā 915", as supplied.)*
+
+In all such Ṛks this idea is expressed. It is described that the kavis, entering the path of ṛta, have placed the most excellent secret names in the deepest hidden heart, and that they make them manifest so that the world may know them. This vision of the kavi too is possible only by means of the practice that consists in making manifest—
+
+यज्ञेन वाचः पदवीयमायन्तामन्वविंदन्नृषिसु प्रविष्टां । तामाभृत्या व्यदधुः पुरुत्रा तां सप्त रेभा अभि सं नवंते ॥ (*yajñena vācaḥ padavīyamāyantāmanvaviṃdannṛṣisu praviṣṭāṃ | tāmābhṛtyā vyadadhuḥ purutrā tāṃ sapta rebhā abhi saṃ navaṃte ‖*) (Ṛ. Saṃ. 10-71-3)
+
+The kavis obtained, by the means that is sacrifice, the speech that lay dormant in the ṛṣis, who see things beyond the senses. Afterwards, for the benefit of the world, they gave instruction to others also. The metres such as Gāyatrī serve this speech, which is of the nature of the principle of the universe. Thus in some places the Veda states the identity of creation, in the form of the manifestation of speech, with the work of the nature of sacrifice, and in other places the relation of effect and cause. This same idea is also stated in the Śatapatha-brāhmaṇa sentence—
+
+आयुरेतज्योतिः प्रविशति य एतमनु वा ब्रूते भक्षयति ना तस्य व्रतचर्याया सृष्टौ । (*āyuretajyotiḥ praviśati ya etamanu vā brūte bhakṣayati nā tasya vratacaryāyā sṛṣṭau |*) (Śa. Brā. 14-1-2-26)
+
+In the present Ṛk the word kavi is an epithet that shows the extraordinary quality of Brahmaṇaspati, who has knowledge of matters beyond the senses and is omniscient. Since this epithet is used in many places, it should be understood according to each context.
+
+आ नः शृण्वन् ऊतिभिः सीद सदनं (*ā naḥ śṛṇvan ūtibhiḥ sīda sadanaṃ*)—अस्माकं स्तुतीः शृण्वन् पालनैर्हेतुभूतैः यज्ञगृहं उपविश (*asmākaṃ stutīḥ śṛṇvan pālanairhetubhūtaiḥ yajñagṛhaṃ upaviśa*). The ṛṣi prays: O Brahmaṇaspati, hear our praises, come to our sacrificial house and sit there.
+
+#### Ṛk 2
+
+*(Sūkta 23, Ṛk 2; deity Bṛhaspati.)*
+
+**॥ संहितापाठः ॥**
+
+> दे॒वाश्चि॑त्ते असुर्य॒ प्रचे॑तसो॒ बृह॑स्पते य॒ज्ञियं॑ भा॒गमा॑नशुः ।
+> उ॒स्रा इ॑व॒ सूर्यो॒ ज्योति॑षा म॒हो विश्वे॑षा॒मिज्ज॑नि॒ता ब्रह्म॑णामसि ॥ २ ॥
+
+> *devāścitte asurya pracetaso bṛhaspate yajñiyaṃ bhāgamānaśuḥ |*
+> *usrā iva sūryo jyotiṣā maho viśveṣāmijjanitā brahmaṇāmasi ‖ 2 ‖*
+
+### Printed p. 916
+
+*(Header: "916 Sāyaṇa-bhāṣya-sahitā । Maṃ. 2. A. 3. Sū. 23", as supplied; the supplied text prints "ಸಾಯುಧಭಾಷ್ಯಸಹಿತಾ" with a slip in the word Sāyaṇa.)*
+
+**॥ पदपाठः ॥**
+
+*(The Ṛk number is not printed after the Pada in the supplied text. The Saṃhitā and Pada have ಅಸುರ್ಯ, the bhāṣya ಅಸುರ್ಯ and the Pratipadārtha ಆಸುರ; the Pada has ಯಜ್ಞಿಯು where the Saṃhitā has ಯಜ್ಞಿಯಂ; the verse in the Special Topics has ವ್ಯೂಣೋತಿ where the prose has ವ್ಯೂರ್ಣೋತಿ; the bhāṣya has ಆಪಿ, ಯಜ್ಜಿಯಂ, ಜನಯಿತ್ಯೈವ and ಬ್ರಹಣ್ವದ್ರಿಷ್ಯತಿ as supplied; all left as they stand.)*
+
+> देवाः । चित् । ते । असुर्य । प्रचेतसः । बृहस्पते । यज्ञियु । भागं । आनशुः ।
+> उस्राः इव । सूर्यः । ज्योतिषा । महः । विश्वेषां । इत् । जनिता । ब्रह्मणां । असि॥
+
+**॥ सायणभाष्यम् ॥**
+
+*(The label was printed ಕಾಯುಷಭಾಷ್ಯಂ in the supplied text and was run together with the Pada; separated and written in the standard form. Its grammatical tail, on the formation of उस्राः (*usrāḥ*) with the suffix rak and of जनिता (*janitā*) with loss of ṇi, is given in the block and not explained.)*
+
+> असुर्य असुराणां हंतः हे बृहस्पते प्रचेतसः प्रकृष्टज्ञानास्ते त्वदीया
+> देवाश्चित् देवा आपि यज्ञियं यज्ञार्हं भागमानशुः । प्राप्नुवन् । यद्वा प्रचे-
+> तस इति बृहस्पतेर्विशेषणं । प्रकृष्टज्ञानवतस्ते तव संबंधिनो देवा इति योज-
+> नीयं । यद्वा प्रचेतसः । विभक्तिपरिणामः । प्रचेतसि त्वयि सति देवा यज्जियं
+> भागमानशिरे । कर्मविघ्नकारिणामसुराणां रक्षोघ्नमंत्रैरपाकरणात् । न वै ब्रह-
+> ण्वद्रिष्यति । ऐ. ब्रा. १-१३ । इति श्रवणात् । ज्योतिषा तेजसा महो मंहनीयः
+> सूर्य उस्रा इव । उस्राः किरणाः ॥ स्थायितंचीत्यादिना रक्प्रत्ययः ॥ यथा किर-
+> णान् जनयति तथा विश्वेषां सर्वेषां ब्रह्मणां मंत्राणां जनिता जनयित्यैवासि ॥
+> जनिता मंत्र इति निपातनाण्णिलोपः ॥
+
+*Gist: through the wise Bṛhaspati, who removes obstructing asuras with rakṣoghna mantras, the gods obtained their sacrificial share; like the sun producing rays, he is the begetter of all mantras.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आसुर (*āsura*)—destroyer of asuras (as supplied); बृहस्पते (*bṛhaspate*)—O Bṛhaspati; प्रचेतसः (*pracetasaḥ*)—possessed of excellent knowledge; ते (*te*)—by connection with thee (through thee); देवाश्चित् (*devāścit*)—even the gods; यज्ञियं (*yajñiyaṃ*)—fit for sacrifice; भागं (*bhāgaṃ*)—the share; आनशुः (*ānaśuḥ*)—obtained; ज्योतिषा (*jyotiṣā*)—by splendour; महः (*mahaḥ*)—the revered; सूर्यः (*sūryaḥ*)—the sun; उस्राइव (*usrāiva*)—as he makes the rays spread (so thou too); विश्वेषां (*viśveṣāṃ*)—of all; ब्रह्मणां इत् (*brahmaṇāṃ it*)—even of the mantras; जनिता (*janitā*)—as maker; असि (*asi*)—thou art.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, destroyer of asuras, only through connection with thee, who hast excellent knowledge, did even the gods obtain the share fit for sacrifice. Just as the sun, revered for his splendour, brings out his rays, displays them and makes them spread, so thou too art the maker of all the mantras.
+
+**Printed English translation**
+
+Brihaspati, destroyer of the Asuras, through you the intelligent gods have obtained the sacrificial portion; in like manner as the adorable sun generates the(solar) rays by his radiance, so are you the generator of all prayers.
+
 ---
 
-**Progress note:** Done through printed p. 913 (PDF 913). Sukta 23 Special Topics: Brihaspati/Brahmanaspati vs Agni, viniyoga of Ganapati and planet mantras, word-notes on upamasravastama, jyesthaaraja, kavi
+**Progress note:** Done through printed p. 916 (PDF 916). Sukta 23 Rik 1 Special Topics end (kavi: Savitr, stotr, speech/sacrifice); Rik 2 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English
