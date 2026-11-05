@@ -12674,6 +12674,69 @@ Because it is the most important plant, the Soma plant is called the lord of all
 
 *[The text of p. 392 breaks off here, in mid-sentence, as supplied; it continues on p. 393.]*
 
+### Printed p. 393
+
+*[Running head, p. 393: Aṣṭaka 2, Adhyāya 8, Varga 6; Ṛgvedasaṃhitā 393.]*
+
+and it is also said to be the fundamental (root) one (1-91-22). In the Brāhmaṇas all trees are named *saumya* (सौम्य (*saumya*), connected with Soma, Śa. Brā. 12-1-1-2). Moreover, like other principal deities, Soma too has the name "king". He is the king of the rivers (9-89-2) and of the whole world (9-97-58); the king or father of the deities (9-86-10; 9-87-2; 9-109-4); the king of the divine men (9-97-24) and of the Brāhmaṇas (Vā. Saṃ. 9-40; Tai. Saṃ. 1-8-10; Mai. Saṃ. 2-6-9). That he is a deity has been said many times; only in one place (9-3-6 and 7) is he described as a deity who is *suta* (pressed out, squeezed) for the deities.
+
+In later literature "Soma" is the name of the moon. When the deities have drunk him and he has waned, the sun makes him full again. In the Chāndogya Upaniṣad (5-10-1) it is said that the moon is Soma, that he is the food of the deities, and that they drink him up. In the Brāhmaṇas themselves the identity of moon and Soma is a common matter: King Soma is the food of the deities and he is the moon (Śa. Brā. 1-6-4-5). That plant useful in yoga, or its juice, indicates the moon-deity (Kau. Brā. 7-10; 4-4). The opinion of the Brāhmaṇas is that the moon wanes day by day because the Pitṛs and the deities consume him, who is of the nature of nectar. In the Yajurveda it is said that the daughters of Prajāpati are the wives of the moon and that they are the cluster of stars. In the Atharvaveda (Ā. Va. 7-81-3 and 4; 11-6-7 etc.) wherever "Soma" occurs the meaning is generally the moon. Among the passages that state the identity of moon and Soma, the 85th sūkta of the tenth Maṇḍala (10-85), describing the marriage of Soma and Sūryā [printed "Sūraiya", sic], is the chief. Here Soma is in the lap of the stars. It is said that no one eats the Soma known to the priests, and that there is a difference between this Soma and that which they have to press. The secret of this is known only to the Brāhmaṇas. There are descriptions of Soma as heavenly, radiant, dispelling darkness and so on; moreover it has the name "Indu" (इंदु (*iṃdu*)) (6-44-21). It is compared to the moon reflected in the water in vessels (8-71-8; compare 1-105-1). The Soma described as *drapsa* (द्रप्प (*drappa*), a drop, a bead) and going to the sea (10-123-8) must also be the moon.
+
+In the opinion of some, Soma means the moon and nothing but the moon, not another deity. The whole ninth Maṇḍala praises this moon [as printed]; wherever this word occurs in the Ṛgveda it indicates either the Soma creeper or the moon, these two only. They argue that the juice that comes from that creeper is nectar, that the moon is the support of that nectar, that the moon is a more important deity than the sun, and that after him comes Indra. Others, again, say that the above opinion has insufficient support in the Ṛgveda [printed "Ṛgvada", sic] or none at all. However much support the identity of moon and Soma may find in later works, in the Ṛgveda [printed "Ṛgvada", sic], among the hundreds of ṛks addressed to the deity Soma, it is only rarely, here and there, that it is hinted at, and nowhere is it stated clearly.
+
+### Printed p. 394
+
+*[Running head, p. 394: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 40.]*
+
+Besides, none of the commentators has said that there is any basis for this point in the Veda.
+
+**Pūṣā-Pūṣan.** Of the deity called Pūṣan too we shall give a detailed account here. Since this deity is famous as one who searches for lost things and brings them back, in many ṛks there is a description of this kind. For this word (पूषा (*pūṣā*)) Yāska has given the etymology—
+
+*Quotation from the Nirukta, in Sanskrit:*
+
+> पूषा । अथ यद्रश्मिपोषं पुष्यति तत्पूषा भवति ॥
+
+> *pūṣā | atha yadraśmipoṣaṃ puṣyati tatpūṣā bhavati ‖*
+
+(Ni. 12-16)
+
+That is, because he nourishes with rays or beams, this deity has the name Pūṣā. From this etymology of the word, when this deity is described, epithets such as "endowed with brilliance", "luminous", "radiant" are used. From this very description they say that Pūṣan is one of the twelve Ādityas and a special form of the sun.
+
+*Quotation from the Bṛhaddevatā, in Sanskrit:*
+
+> पुष्यन् क्षितिं पोषयति प्रणुदन् रश्मिभिस्तमः ।
+> तेनैनमस्तौत्पूषेति भरद्वाजस्तु पंचभिः ॥
+
+> *puṣyan kṣitiṃ poṣayati praṇudan raśmibhistamaḥ |*
+> *tenainamastautpūṣeti bharadvājastu paṃcabhiḥ ‖*
+
+(Bṛ. De. 2-63)
+
+That is: since he destroys the darkness and nourishes the earth so that it grows, the name Pūṣan suits this deity. The seer Bharadvāja praised this deity with five sūktas, so it is stated in the work called Bṛhaddevatā.
+
+Pūṣan sees all living beings clearly, at one time (3-62-9). Like the sun he too is the lord of all things that move and do not move (1-115-1; 7-60-2). All living beings are known to him and he looks upon all living beings. Pūṣan was born on the way of far heaven and earth. His vehicle is the ram (*aja*); because he knows the paths, they call him the protector of the ways. He is the protector of every road (6-49-8). He is prayed to remove the trouble that may come on the road (6-54-9) and to make the road auspicious (10-59-7). On the highway and in the forest he is the one who shows the way. Therefore it is said that everyone setting out on a journey should travel invoking Pūṣan, the lord of the roads, and reciting the 53rd sūkta of the sixth Maṇḍala (6-53). It is said that all who have lost their way should take refuge in Pūṣan alone (Ā. Gṛ. 3-6-8; Sāṃ. Śrau. 3-4-9). It is his work to follow the cattle and protect them (6-54-5, 6, 10 and 6-58-2), to guard them so that they do not fall into a pit and get hurt, and to drive them home so that no harm befalls
+
+### Printed p. 395
+
+*[Running head, p. 395: Aṣṭaka 2, Adhyāya 8, Varga 6; Ṛgvedasaṃhitā 395.]*
+
+them, and to bring back the cattle that have strayed (6-54-7, 10), and so on.
+
+Pūṣan is used in the dual number with Soma (2-40) and Indra (6-57), the two; once (6-55-5) he is called Indra's brother. Apart from these two, he is most often addressed together with Bhaga (1-90-4; 4-30-24; 5-41-4; 5-46-2; 10-125-2; compare Śa. Brā. 11-4-3-3; Kā. Śrau. Sū. 5-13-1), and with Viṣṇu (1-90-5; 5-46-3; 6-21-9; 7-44-1; 10-66.5, as printed). In all these mantras Pūṣan and another deity are spoken of as exactly equal. With other deities too there is a use here and there.
+
+From the passages quoted so far it does not appear that Pūṣan is an element of nature. But many passages show that he is connected with the sun. Yāska too (Ni. 7-9) calls him the Āditya who protects all things. His chief functions are: setting the paths in order and bringing the dead to the place where the righteous are. By the first quality he is a guide and the protector of animals; that is, one may say that he is the one who improves the condition of the people.
+
+This word Pūṣan is formed from the root पुष् (*puṣ*) (to produce nourishment). This quality is clear both from his epithets (विश्ववेदाः (*viśvavedāḥ*) अनष्टवेदाः (*anaṣṭavedāḥ*), पुरूवसु (*purūvasu*), पुष्टिंभर (*puṣṭiṃbhara*)) and from the prayers for wealth (6-48-15; etc.). He is the lord of immense wealth, of a stream and a heap of riches (6-55-2 and 3). But the wealth obtained from Pūṣan is not connected with rain, as is the wealth obtained from Indra, Parjanya, the Maruts and others; it is connected with radiance [light]. In this world he is a fearless refuge for men and cattle; in the other world he shows the way to blissful regions. By these the condition of the people improves and the people become happy. That is, Pūṣan may be called the part of the sun which is beneficent to the people.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> सोमा॑पूषणा॒ जन॑ना रयी॒णां जन॑ना दि॒वो जन॑ना पृथि॒व्याः ।
+> जा॒त् विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभिं॑ ॥ १ ॥
+
+*[Note: in kn.md the two Sanskrit quotations on p. 394 (Nirukta and Bṛhaddevatā), printed as prose in the supplied text, were made `>` blocks with their references on their own lines; the Saṃhitā reads ಜಾತ್ as supplied. The page 393 text continues the sentence ending "and of all plants" of p. 392. No other changes.]*
+
 ---
 
-**Progress note:** Done through printed p. 392 (PDF 392). Sukta 40 Pithike continues (Samstavika quotations end, Soma essay: sacrifice, mixing, three pressings, immortality, Indra); text of p. 392 ends mid-sentence. Flags: ಧರ್ಕಾರೋ [?]; Somarudra heading without quotation; Agnisarjanya heading vs parjanya; colons changed to semicolons
+**Progress note:** Done through printed p. 395 (PDF 395). Sukta 40 Pithike: Soma essay ends (moon, identity), Pusan essay; Rik 1 Samhita only (Pada follows on p. 396). Flags: Samhita Rik 1 accent check DIFF 1 (jat for jata as supplied); prose Sanskrit quotations (Nirukta, Brhaddevata) made blocks
