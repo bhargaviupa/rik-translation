@@ -29026,4 +29026,128 @@ The Kannada: "In this sūkta it is described how Indra, having drunk soma, did m
 
 ---
 
-**Progress note:** Done through printed p. 755 (PDF 778). Sūkta 14 closed (Viśeṣaviṣayagaḷu of Ṛk 12 finished on p. 753; no colophon printed). Sūkta 15 opened (p. 753 intro, p. 754 heading block); Ṛk 1 is written through the printed English and the first four items of the Viśeṣaviṣayagaḷu; the last item (⟦त्रिकद्रुकेषु अपिबत् …⟧, "…the soma juice pressed and prepared…") is left open mid-sentence and continues on p. 756. The Pratipadārtha is split across the page break (pp. 754–755) as printed. Numeral file had 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed numerals: Āśvalāyana references "8-1" (Anuvāda; the Sanskrit-intro glyph may be 8 or 9) and "9-5"; varga "15, 16"; the Ṛk 1 number printed after the Saṃhitā; no number printed after the Pada. Doubtful [?]: "त्र्यैकमामुके"/"ತ್ರೀಕಮಾಮುಕ" (name of the rite), "लुङ्लङ्लिट". The bhāṣya chunk contains a stray correction paragraph about "संजाते सति" (a slip of mine in drafting; the reading is संजाते सति, ignore the word "संजातते"). Accents not reproduced.
+### Printed p. 756 (PDF 779)
+
+*(Header, read from the strip: "756", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 15" (small Kannada numerals). No numeral-file rows; nothing zoomed.)*
+
+*(Continuation of the last item of the Viśeṣaviṣayagaḷu of Ṛk 1, which broke off on p. 755 in mid-sentence; the first word on this page is a partial "…-vannu".)* The Kannada: "…[the pressed soma juice] — Indra drank it, and from its exhilaration (joy) he slew the demon Vṛtra. Thus the slaying of the demon Vṛtra, Indra's chief deed of daring, is described at the beginning. We have already explained at length the various meanings of the word अहि (*ahi*)."
+
+---
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अ॒वं॒शे द्याम॑स्तभायद्बृ॒हंत॒मा रोद॑सी अपृणदं॒तरि॑क्षं ।
+> स धा॑रयत्पृथि॒वीं प॒प्रथ॑च्च॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+> *avaṃśe dyāmastabhāyadbṛhaṃtamā rodasī apṛṇadaṃtarikṣaṃ |*
+> *sa dhārayatpṛthivīṃ paprathacca somasya tā mada iṃdraścakāra ‖*
+
+**॥ पदपाठः ॥**
+
+> अवंशे । द्यां । अस्तभायत् । बृहंतं । आ । रोदसी इति । अपृणत् । अंतरिक्षं ।
+> सः । धारयत् । पृथिवीं । पपप्रथत् [?] । च । सोमस्य । ता । मदे । इंद्रः । चकार ॥ २ ॥
+
+> *avaṃśe | dyāṃ | astabhāyat | bṛhaṃtaṃ | ā | rodasī iti | apṛṇat | aṃtarikṣaṃ |*
+> *saḥ | dhārayat | pṛthivīṃ | papaprathat [?] | ca | somasya | tā | made | iṃdraḥ | cakāra ‖ 2 ‖*
+
+*(The Pada word is printed ಪಪ್ರಥತ್ as I read it, i.e. पप्रथत्; I give it so: पप्रथत् । च ।)*
+
+> अवंशे । द्यां । अस्तभायत् । बृहंतं । आ । रोदसी इति । अपृणत् । अंतरिक्षं ।
+> सः । धारयत् । पृथिवीं । पप्रथत् । च । सोमस्य । ता । मदे । इंद्रः । चकार ॥ २ ॥
+
+> *avaṃśe | dyāṃ | astabhāyat | bṛhaṃtaṃ | ā | rodasī iti | apṛṇat | aṃtarikṣaṃ |*
+> *saḥ | dhārayat | pṛthivīṃ | paprathat | ca | somasya | tā | made | iṃdraḥ | cakāra ‖ 2 ‖*
+
+*(Ṛk number "2" printed after the Pada; none after the Saṃhitā. The first of the two Pada blocks above was written by slip and is superseded by the second; the word is पप्रथत्.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra set the sun, or heaven, in unsupported space, filled the firmament and heaven-earth with his radiance, upheld and spread out the earth; all this in soma's exhilaration.*
+
+> अवंश आकाशे द्यां द्योतमानं सूर्यं द्युलोकं वास्तभायत् । इंद्रोऽस्तभ्नात् । अनवलंबनस्य तस्यावस्थापनमकरोदित्यर्थः ॥ स्तंभु इति सौत्रो धातुः क्र्यादिः । लङ् व्यत्ययो बहुलमित्यहावपि शायजादेशः ॥ बृहंतं महदंतरिक्षं रोदसी द्यावापृथिव्यौ चापृणत् । स्वतेजसा पूरितवान् । किंच स इंद्रः पृथिवीं विस्तीर्णां भूमिं धारयत् । अधारयत् । तथा पप्रथच्च । एनां भूमिमप्रथयत् ॥ प्रथ प्रख्याने । ण्यंतस्य लुङि चङि रूपं । चङ्यन्यतरस्यामिति मध्योदात्तत्वं ॥ सोमस्य मदे हर्षे संजाते सति तानीमानि कर्माणीन्द्रश्चकार ॥
+
+> *avaṃśa ākāśe dyāṃ dyotamānaṃ sūryaṃ dyulokaṃ vāstabhāyat | iṃdro 'stabhnāt | anavalaṃbanasya tasyāvasthāpanamakarodityarthaḥ ‖ staṃbhu iti sautro dhātuḥ kryādiḥ | laṅ vyatyayo bahulamityahāvapi śāyajādeśaḥ ‖ bṛhaṃtaṃ mahadaṃtarikṣaṃ rodasī dyāvāpṛthivyau cāpṛṇat | svatejasā pūritavān | kiṃca sa iṃdraḥ pṛthivīṃ vistīrṇāṃ bhūmiṃ dhārayat | adhārayat | tathā paprathacca | enāṃ bhūmimaprathayat ‖ pratha prakhyāne | ṇyaṃtasya luṅi caṅi rūpaṃ | caṅyanyatarasyāmiti madhyodāttatvaṃ ‖ somasya made harṣe saṃjāte sati tānīmāni karmāṇīndraścakāra ‖*
+
+*(The grammatical tail is transcribed, not explained: the root स्तंभु (*staṃbhu*) of the Kryādi class; लङ् (*laṅ*) with the substitute शायच् (*śāyac*) by "vyatyayo bahulam"; the root प्रथ (*pratha*) with ṇic, luṅ and caṅ, and the middle accent by the sūtra "caṅyanyatarasyām". The words "इत्यहावपि" are printed so; doubtful [?]. No sūtra numbers are printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अवंशे (*avaṃśe*)—in unsupported space (sky). द्यां (*dyāṃ*)—the heaven, or the shining sun. अस्तभायत् (*astabhāyat*)—he established. बृहंतं (*bṛhaṃtaṃ*)—vast. अंतरिक्षं (*aṃtarikṣaṃ*)—the firmament too. रोदसी (*rodasī*)—heaven and earth too. अपृणत् (*apṛṇat*)—(with his own radiance) he filled. सः (*saḥ*)—that Indra. पृथिवीं (*pṛthivīṃ*)—the spread-out earth. धारयत् (*dhārayat*)—he upheld. पपप्रथत् (*papaprathat*) [?]*(as printed in the Pratipadārtha: पप्रथच्च (*paprathacca*))*—he made it manifest, so that it became famous in the world. सोमस्य (*somasya*)—by drinking the soma juice. मदे (*made*)—when exhilaration arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—did.
+
+*(The Pratipadārtha heads this word पप्रथच्च (*paprathacca*); the Pada-text spelling is as given above. Only the form printed in the Pratipadārtha is to be taken as its heading.)*
+
+**भावार्थ (Bhāvārtha)**
+
+*(Printed at the head of p. 757.)* The Kannada: "Indra established the heaven and the shining sun in unsupported space. He filled the vast firmament and heaven and earth with his own radiance. That Indra upheld the spread-out earth and made it renowned. When exhilaration arose from drinking the soma juice, Indra did these great deeds."
+
+---
+
+### Printed p. 757 (PDF 780)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 15 ]" (small Kannada numerals, unzoomed), "Ṛgvedasaṃhitā", "757". No numeral-file rows; nothing zoomed.)*
+
+**English Translation** *(as printed)*
+
+Who fixed the heaven in unsupported (space), and filled the spacious firmament, and heaven, and earth, (with light) : he it is who has upheld and has made the earth renowned : in the exhilaration of the Soma, Indra has done these (deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**अवंशे—आकाशे (*avaṃśe—ākāśe*)**—The Kannada: "'In the sky, or in the firmament' is the commentator's explanation. The word अवंश (*avaṃśa*) occurs in the Ṛgveda in this Ṛk and in Ṛk 1 of Ṛ. Saṃ. 7-58 [?] (the numerals "7-58-1" are as I read them, unzoomed; doubtful). It occurs nowhere else."
+
+**द्यां—द्योतमानं सूर्यं द्युलोकं वा (*dyāṃ—dyotamānaṃ sūryaṃ dyulokaṃ vā*)**—The Kannada: "Of the two senses, 'the shining sun' or 'the heavenly world (svarga)', either may be taken. And there is the explanation 'dyuḥ is a name of the day (ahas)': द्युरित्यह्नो नामधेयम् (*dyurityahno nāmadheyam*) (Ni. 1-7 [?]). The word द्यौः (*dyauḥ*) is read among the names of the day (Ni. 2-21 [?]). And there is also the explanation द्यौरादित्यो भवति (*dyaurādityo bhavati*). Here, as the commentator says, the meaning 'the sun' or 'heaven' may be taken for this word."
+
+*(The Nirukta numerals are printed small; I read them unzoomed and flag both.)*
+
+The Kannada: "In this Ṛk it is said that Indra has done these deeds of daring: establishing the sun in unsupported or baseless space, filling the firmament and heaven and earth with his boundless radiance, and setting the earth firmly so that it does not move; and it is also said that he did all these deeds from the joy arising from soma-drinking."
+
+---
+
+### Printed p. 758 (PDF 781)
+
+*(Header, read from the strip: "758", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 15". No numeral-file rows; nothing zoomed.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> सद्मे॑व॒ प्राचो॒ वि मि॑माय॒ मानै॒र्वज्रे॑ण॒ खान्य॑तृणन्न॒दीनां॑ ।
+> वृथा॑सृजत्प॒थिभि॑र्दीर्घया॒थैः सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+> *sadmeva prāco vi mimāya mānairvajreṇa khānyatṛṇannadīnāṃ |*
+> *vṛthāsṛjatpathibhirdīrghayāthaiḥ somasya tā mada iṃdraścakāra ‖*
+
+**॥ पदपाठः ॥**
+
+> सद्मऽइव । प्राचः । वि । मिमाय । मानैः । वज्रेण । खानि । अतृणत् । नदीनां ।
+> वृथा । असृजत् । पथिऽभिः । दीर्घऽयाथैः । सोमस्य । ता । मदे । इंद्रः । चकार ॥ ३ ॥
+
+> *sadma 'iva | prācaḥ | vi | mimāya | mānaiḥ | vajreṇa | khāni | atṛṇat | nadīnāṃ |*
+> *vṛthā | asṛjat | pathi 'bhiḥ | dīrgha 'yāthaiḥ | somasya | tā | made | iṃdraḥ | cakāra ‖ 3 ‖*
+
+*(Ṛk number "3" printed after the Pada; none after the Saṃhitā. The compound marks are printed as small subscript strokes.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: As builders measure a house facing east, Indra measured the eastward rivers, cut their outlets with the vajra, and made them flow along long courses without effort.*
+
+> सद्मेव यथा यज्ञगृहान्मानैः षट्त्रिंशत्प्रक्रमुप्राचीत्येवंरूपैः [?] परिमाण्यैः [?] प्राक्प्रवणान् कुर्वंति तद्वत् सिंधून् लोकान्वा मानैः परिमाण्यैः [?] प्राचः प्राङ्मुखान्विमिमाय । इंद्रो विशेषेण निर्मितवान् । तथा नदीनां खानि निर्गमनद्वाराणि वज्रेण चातृणत् । अखनत् । तृदि हिंसानादरयोः । रुधादि । लङ् ॥ तथा च मंत्रः । इंद्रो अस्मा अरदद्वज्रबाहुः । ३-३३-६ [?] । इति । तथा दीर्घयाथैर्बहुकालं गंतव्यैः पथिभिर्मार्गैर्वृथासृजत् । अनायासेन ता नदीः सृष्टवान् । सोमस्येति सिद्धार्थ इति ॥
+
+> *sadmeva yathā yajñagṛhānmānaiḥ ṣaṭtriṃśatprakramuprācītyevaṃrūpaiḥ [?] parimāṇyaiḥ [?] prākpravaṇān kurvaṃti tadvat siṃdhūn lokānvā mānaiḥ parimāṇyaiḥ [?] prācaḥ prāṅmukhānvimimāya | iṃdro viśeṣeṇa nirmitavān | tathā nadīnāṃ khāni nirgamanadvārāṇi vajreṇa cātṛṇat | akhanat | tṛdi hiṃsānādarayoḥ | rudhādi | laṅ ‖ tathā ca maṃtraḥ | iṃdro asmā aradadvajrabāhuḥ | 3-33-6 [?] | iti | tathā dīrghayāthairbahukālaṃ gaṃtavyaiḥ pathibhirmārgairvṛthāsṛjat | anāyāsena tā nadīḥ sṛṣṭavān | somasyeti siddhārtha iti ‖*
+
+*(Two small passages are doubtful: the measure-words "षट्त्रिंशत्प्रक्रमुप्राचीत्येवंरूपैः" and the repeated "परिमाण्यैः", both as I read them, unzoomed. The Ṛgveda reference after the quoted mantra "इंद्रो अस्मा अरदद्वज्रबाहुः" I read as 3-33-6, unzoomed; flagged. The grammatical tail—the root तृदि (*tṛdi*) in the sense of injuring and disregarding, Rudhādi class, लङ् (*laṅ*)—is transcribed, not explained.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सद्म इव (*sadma iva*)—like a sacrificial house. मानैः (*mānaiḥ*)—measuring with instruments of measure, as one builds. प्राचः (*prācaḥ*)—the eastward-facing quarters. वि मिमाय (*vi mimāya*)—he measured out and built in a special manner. नदीनां (*nadīnāṃ*)—for the rivers. खानि (*khāni*)—the flowing channels. वज्रेण (*vajreṇa*)—with the vajra weapon. अतृणत् (*atṛṇat*)—he cut open (and). दीर्घयाथैः (*dīrghayāthaiḥ*)—flowing for a long time. पथिभिः (*pathibhiḥ*)—by courses. वृथा (*vṛthā*)—without effort (without hindrance). असृजत् (*asṛjat*)—he created so that they flow. सोमस्य (*somasya*)—by drinking the soma juice. मदे (*made*)—when exhilaration arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—did.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "Just as one measures and builds a sacrificial house with instruments of measure, Indra measured out and built the eastward-facing quarters in a special manner. For the rivers he cut open the flowing channels in a special manner…" *(the page ends here, mid-sentence; the Bhāvārtha of Ṛk 3 continues on p. 759, not yet seen)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 758 (PDF 781). Sūkta 15: Ṛk 1 closed (last item of Viśeṣaviṣayagaḷu finished on p. 756). Ṛk 2 complete (pp. 756–757, with its Viśeṣaviṣayagaḷu). Ṛk 3 open: Saṃhitā, Pada (number 3 printed after the Pada), bhāṣya and Pratipadārtha written; the Bhāvārtha breaks off mid-sentence at the foot of p. 758 and continues on p. 759. Numeral file had 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed/doubtful: varga numeral in the p. 757 header (read 15); Ṛgveda reference "7-58-1" for ⟦अवंश⟧ (p. 757); Nirukta references "1-7" and "2-21"; Ṛgveda reference "3-33-6" in the bhāṣya of Ṛk 3; the bhāṣya words "षट्त्रिंशत्प्रक्रमुप्राचीत्येवंरूपैः", "परिमाण्यैः" and "इत्यहावपि". FLAG FOR CLEAN-UP: the Ṛk 2 chunk contains a duplicate Pada block (the first form "पपप्रथत्" is a slip, superseded by the second block with पप्रथत्) and a stray note under the Pratipadārtha about the heading word; remove the first Pada block and its note when the file is tidied. Accents not reproduced.
