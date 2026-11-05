@@ -34047,6 +34047,82 @@ O Bṛhaspati, destroyer of asuras, only through connection with thee, who hast 
 
 Brihaspati, destroyer of the Asuras, through you the intelligent gods have obtained the sacrificial portion; in like manner as the adorable sun generates the(solar) rays by his radiance, so are you the generator of all prayers.
 
+### Printed p. 917
+
+*(Header: "[A. 2 A. 6 V. 29] Ṛgveda-saṃhitā 917", as supplied.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*asurya*—असुराणां हंतः हे बृहस्पते (*asurāṇāṃ haṃtaḥ he bṛhaspate*). "O Bṛhaspati, destroyer of the asuras": the word असुर्य (*asurya*) is an epithet of Bṛhaspati. It is commonly held that Bṛhaspati destroys the asuras by uttering the rakṣoghna (demon-slaying) mantras.
+
+*pracetasaḥ*—The commentator has given three kinds of meaning for this word. (1) प्रकृष्टज्ञानास्ते देवाः (*prakṛṣṭajñānāste devāḥ*): "the gods who have excellent knowledge"; the word प्रचेतसः (*pracetasaḥ*) is then a nominative plural and an epithet of the word देवाः (*devāḥ*). Or (2) यद्वा प्रचेतस इति बृहस्पतेर्विशेषणं । प्रकृष्टज्ञानवतस्ते संबंधिनो देवाः (*yadvā pracetasa iti bṛhaspaterviśeṣaṇaṃ | prakṛṣṭajñānavataste saṃbaṃdhino devāḥ*): if प्रचेतसः (*pracetasaḥ*) is taken as a genitive singular, it is an epithet of ते (*te*) and conveys "of thee, Bṛhaspati, who hast excellent knowledge". Or (3) यद्वा प्रचेतसः! विभक्तिपरिणामः । प्रचेतसि त्वयि सति देवा यज्जियं भागमानशिरे (*yadvā pracetasaḥ! vibhaktipariṇāmaḥ | pracetasi tvayi sati devā yajjiyaṃ bhāgamānaśire*): if the genitive singular प्रचेतसः (*pracetasaḥ*) is taken as used in the sense of the locative प्रचेतसि (*pracetasi*), the meaning is that the gods obtained their share of the sacrifice in thee who hast excellent knowledge, that is, with thy help.
+
+*devāścit yajñiyaṃ bhāgamānaśuḥ*—The gods obtained, with Bṛhaspati's help, the share fit for sacrifice; this is the sense. The "help" of Bṛhaspati is explained thus: कर्मविघ्नकारिणामसुराणां रक्षोघ्नमंत्रैरपाकरणात् (*karmavighnakāriṇāmasurāṇāṃ rakṣoghnamaṃtrairapākaraṇāt*); that is, Bṛhaspati drives away, by reciting the rakṣoghna mantras and the like, the rākṣasas who cause obstruction to sacrificial rites. In support of this the commentator cites the Aitareya Brāhmaṇa sentence न वै ब्रह्मण्यद्रिष्यति (*na vai brahmaṇyadriṣyati*) (Ai. Brā. 1-13).
+
+*jyotiṣā mahaḥ sūryaḥ usrā iva viśveṣāṃ brahmaṇāṃ it janitā asi*—तेजसा मंहनीयः सूर्यः यथा किरणान् जनयति तथा त्वं सर्वेषां मंत्राणां जनयितैवासि (*tejasā maṃhanīyaḥ sūryaḥ yathā kiraṇān janayati tathā tvaṃ sarveṣāṃ maṃtrāṇāṃ janayitaivāsi*). Just as the sun, shining with great radiance through his brilliance, produces many rays, so thou, Bṛhaspati, art the producer of all the mantras. As the rays that issue from the sun's brilliance are numberless, Bṛhaspati himself is the maker of all mantras; that is, all mantras originate from Bṛhaspati; this is the meaning.
+
+*usrā iva*—The word उस्रा (*usrā*) is read among the names of cows (Ni. 3-9), and there is also an explanation (nirvacana): उस्रियेति गोनाम । उस्राविणोऽस्यां भोगाः । उस्रेति च (*usriyeti gonāma | usrāviṇo 'syāṃ bhogāḥ | usreti ca*) (Ni. 4-19). Although उस्रा (*usrā*) is read among the names of cows, here it is used in the sense of the sun's rays. The word go also has the meaning "ray".
+
+### Printed p. 918
+
+*(Header: "918 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2. A. 3 Sū. 23]", as supplied.)*
+
+#### Ṛk 3
+
+*(Sūkta 23, Ṛk 3; deity Bṛhaspati. The Pada has गोत्र्भविदं (*gotrbhavidaṃ*) where the Saṃhitā has गोत्रभिदं (*gotrabhidaṃ*), the bhāṣya has हंतारु (*haṃtāru*) and रप लप (*rapa lapa*), and the Bhāvārtha has राक्षसिरन्नु (*rākṣasirannu*); all as supplied.)*
+
+**॥ संहितापाठः ॥**
+
+> आ वि॒बाध्या॑ परि॒राप॒स्तमां॑सि च॒ ज्योति॑ष्मंतं॒ रथ॑मृ॒तस्य॑ तिष्ठसि।
+> बृह॑स्पते भी॒मनु॑मित्र॒दम्भ॑नं रक्षो॒हणं॑ गोत्र॒भिदं॑ स्व॒र्विदं॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । विबाध्य । परिरपः । तमांसि । च । ज्योतिष्मन्तं । रथं । ऋतस्य । तिष्ठसि ।
+> बृहस्पते । भीमं । अमित्रदम्भनं । रक्षःहनं । गोत्र्भविदं । स्वःविदं ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बृहस्पते परिरपः । परितो रपः पापरूपं रक्षः ॥ यद्वा रस लप व्यक्ता-
+> यां वाचि । क्विप् ॥ परिवदतो निंदकान् तमांसि च विबाध्य तेजसा निराकृत्य ज्योति-
+> ष्मंतं ज्योतिषा तद्वंतमृतस्य यज्ञस्य प्रापकं भीमं शत्रूणां भयंकरममित्र-
+> दंभनं शत्रूणां हिंसकं । तदेवाह रक्षोहणं रक्षसां हंतारु गोत्रभिदं
+> मेघानां भेत्तारं स्वर्विदं स्वर्गस्य लंभकं रथमातिष्ठसि । अधितिष्ठसि ॥
+
+*Gist: Bṛhaspati, having driven off revilers and darkness by his radiance, mounts the shining, fearsome, demon-killing, cloud-cleaving, heaven-winning chariot of sacrifice. The grammatical tail is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+बृहस्पते (*bṛhaspate*)—O Bṛhaspati. परिरपः (*parirapaḥ*)—the rakṣas that are of the nature of sin, or the revilers. तमांसि च (*tamāṃsi ca*)—and also the pitch darkness. विबाध्य (*vibādhya*)—having driven away by thy radiance. ज्योतिष्मंतं (*jyotiṣmaṃtaṃ*)—the radiant. ऋतस्य (*ṛtasya*)—that which leads to the sacrifice. भीमं (*bhīmaṃ*)—the fearsome (to enemies). अमित्रदंभनं (*amitradaṃbhanaṃ*)—the destroyer of enemies. रक्षोहणं (*rakṣohaṇaṃ*)—the slayer of rākṣasas. गोत्रभिदं (*gotrabhidaṃ*)—that which cleaves the cloud and frees (a way). स्वर्विदं (*svarvidaṃ*)—that which leads to heaven. रथं (*rathaṃ*)—the chariot. आ तिष्ठसि (*ā tiṣṭhasi*)—thou dost mount and sit.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, having driven away by thy radiance the revilers, who are of the nature of sin, and also the pitch darkness, thou dost mount and sit on the chariot that is radiant, that leads to the sacrifice, that is fearsome to enemies, that destroys enemies, that destroys rākṣasas [as supplied: "rākṣasis" (sic)], that cleaves the cloud and frees a way, and that leads to heaven.
+
+### Printed p. 919
+
+*(Header: "[A. 2 A. 6 V. 29] Ṛgveda-saṃhitā 919", as supplied.)*
+
+**Printed English translation**
+
+Having repelled revilers, and(dispersed) the darkness, you stand, Brihaspati, on the radiant chariot of sacrifice,(which is) formidable(to foes) the humiliator of enemies, the destroyer of evil spirits, the cleaver of the clouds, the attainer of heaven.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*(The supplied text prints the heading as विशेषविवरगळु (*viśeṣavivaragaḷu*).)* In this Ṛk the qualities of Bṛhaspati's chariot are described. The meaning of the Ṛk is also plain.
+
+*parirapaḥ*—परिरपः—परितो रपः पापरूपं रक्षः । यद्वा रप लप व्यक्तायां वाचि । परिवदतो निंदकान् (*parirapaḥ—parito rapaḥ pāparūpaṃ rakṣaḥ | yadvā rapa lapa vyaktāyāṃ vāci | parivadato niṃdakān*). Sāyaṇa has given two kinds of meaning for this word. The word रपः (*rapaḥ*) is spoken of among the names of sin; there is an explanation: रपो रिप्रमिति पापनामनी भवतः (*rapo ripramiti pāpanāmanī bhavataḥ*) (Ni. 4-21). Hence one kind of meaning of परिरपः (*parirapaḥ*) is "the rākṣasas, of the nature of sin, who are all around". Since the root रप (*rapa*) has the sense "speak loudly, revile", another kind of meaning of परिरपः (*parirapaḥ*) is "those who revile everywhere, or revile all, or those who slander".
+
+*ṛtasya*—Although the word ऋत (*ṛta*) has many meanings, here the meaning "sacrifice" is given. The various meanings of the word ऋत (*ṛta*) are explained at length in Ṛ. Saṃ. Part 10, pages 143 and 673.
+
+*gotrabhidaṃ*—The word गोत्र (*gotra*) is read among the names of cloud (Ni. 3-21). The meaning is "that which cleaves the cloud". The idea is that when Bṛhaspati's chariot travels through the sky it cleaves the clouds there, opens a way and so travels. Because Indra also splits the clouds and makes the water fall on the earth, the word गोत्रभिदं (*gotrabhidaṃ*) is used in many places of Indra as well.
+
+यो गोत्रभिद्दप्रभद्यो हरिष्याः स इंद्र चित्रा अभि तृंधि वाजान् (*yo gotrabhiddaprabhadyo hariṣyāḥ sa iṃdra citrā abhi tṛṃdhi vājān*) (Ṛ. Saṃ. 6-17-2)
+
+गोत्रभिदं गोविदं वज्रबाहुं जयंतमज्ज प्रमृणंतमोजसा (*gotrabhidaṃ govidaṃ vajrabāhuṃ jayaṃtamajja pramṛṇaṃtamojasā*) (Pu. Saṃ. 18-103-6, as printed)
+
+In these Ṛks the word गोत्रभित् (*gotrabhit*) is used as an epithet of Indra in the sense "he who cleaves the cloud (with the thunderbolt)".
+
 ---
 
-**Progress note:** Done through printed p. 916 (PDF 916). Sukta 23 Rik 1 Special Topics end (kavi: Savitr, stotr, speech/sacrifice); Rik 2 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English
+**Progress note:** Done through printed p. 919 (PDF 919). Sukta 23 Rik 2 Special Topics (pracetasah, usra); Rik 3 complete with printed English and Special Topics (parirapah, gotrabhid)
