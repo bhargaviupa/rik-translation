@@ -3116,6 +3116,104 @@ varuṇa: O Varuṇa; maghonaḥ: of the wealthy one; priyasya: of the favourabl
 
 O Varuṇa, before a wealthy, favourable, abundantly giving rich man, may I not say that my sons and other near kinsmen suffer in poverty and so ask him for wealth. May I not be left empty of the wealth gathered under restraint. Together with excellent sons we recite a mature hymn in the sacrificial house.
 
+### Printed p. 102
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 3 [as printed; should be 2], Adhyāya 3, Sūkta 27, p. 102.*
+
+**Printed English translation**
+
+May I never (have to) represent, Varuna, the destitution of a (once) opulent, dear, and munificent kinsman : may I never, royal Varuna, be devoid of well-regulated riches : (and) may we, blessed with excellent descendants, worthily glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+By the word वरुण (*varuṇa*) the Āditya is addressed here. It was explained earlier that Varuṇa too is one of the twelve Ādityas.
+
+मघोनः—धनवतः (*maghonaḥ—dhanavataḥ*): the word मघ (*magha*) is read by Yāska (Ni. 3-9) among the names of wealth; the meaning "possessed of wealth" is given.
+
+प्रियस्य भूरिदान्वः आपेः शुनं मा आ विदं (*priyasya bhūridānvaḥ āpeḥ śunaṃ mā ā vidaṃ*) (explained as): in the presence of a very generous, wealthy man, may I, the sacrificer, not become a petitioner by declaring poverty, saying that our sons and others are hungry. The prayer is explained thus: may we, the sacrificers, not have to go to a rich man who is beneficent and gives abundantly and ask for wealth, saying that our sons and the rest live in poverty.
+
+शूनं—शून्यं, यद्वा शूनं गतं प्राप्तं दारिद्रं (*śūnaṃ—śūnyaṃ, yadvā śūnaṃ gataṃ prāptaṃ dāridraṃ*): the meaning of the word शून (*śūna*) is explained as the absence of any kind of thing, or the poverty (want) that leads to a state of emptiness.
+
+राजन् सुयमात् रायः मा अवस्थाम् (*rājan suyamāt rāyaḥ mā avasthām*)—सुष्टु नियम्यते अनेन पुरुषो गृहे इति सुयमः (*suṣṭu niyamyate anena puruṣo gṛhe iti suyamaḥ*): Varuṇa is addressed by the word *rājan*, and it is prayed that by his favour the wealth gathered by us, the sacrificers, may never be destroyed.
+
+The sacrificers say: बृहद्वदेम विदथे सुवीराः (*bṛhadvadema vidathe suvīrāḥ*): at sacrifices, together with our excellent sons, we recite hymns; therefore bestow favour on us. This is the prayer.
+
+### Printed p. 103
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 9, p. 103.*
+
+## Sūkta 28 (Maṇḍala 2)
+
+*The twenty-eighth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> इदमित्येकादशर्चं षष्ठं सूक्तं । आत्रानुक्रम्यते' इदमेकादश वारुणमिति।
+> पूर्वसूक्ते कूर्मो गार्त्समदो हि वेत्युक्तत्वादस्कोत्तरस्य च कूर्मो
+> गृत्समदो वा ऋषिः । त्रिष्टुप् छंदः । वरुणो देवता । विनियोगो लैंगिकः ।
+> अत्र केचिदाहुः । इदमेकादशर्चं तु वारुणं भयपापनुत् । ऋणदारिद्र्यदुःस्वप्न-
+> नाशनं चेति शुश्रुम । ऋग्विधा. १२५-१ । इति ॥
+
+*Gist:* *idam* is the sixth sūkta of Anuvāka 3, of eleven ṛks, by Kūrma Gārtsamada or Gṛtsamada, in *triṣṭubh* metre, to Varuṇa; its application is by indication; the Ṛgvidhāna is quoted as saying it removes fear, sin, debt, poverty and bad dreams.
+
+**Anuvāda (Kannada).** The sūkta *idaṃ kaverādityasya* is the sixth sūkta of the third anuvāka; it has eleven ṛks. In the Anukramaṇikā it is said इदमेकादश वारुणं (*idamekādaśa vāruṇaṃ*) ("these eleven are to Varuṇa"). Since the previous sūkta states that the seer is कूर्मो गार्त्समदो हि वा (*kūrmo gārtsamado hi vā*), the seer of this sūkta and of the next is Kūrma, son of Gṛtsamada, or Gṛtsamada himself; the metre is *triṣṭubh*; the deity is Varuṇa; the application is *laiṅgika*. Concerning this sūkta, some say, from the verse इदमेकादशर्चं तु वारुणं भयपापनुत् । ऋणदारिद्र्यदुःस्वप्ननाशनं चेति शुश्रुम (*idamekādaśarcaṃ tu vāruṇaṃ bhayapāpanut | ṛṇadāridryaduḥsvapnanāśanaṃ ceti śuśruma*) (Ṛgvidhāna 2-21-1 as printed in the Anuvāda; the bhāṣya quotation prints the reference as 125-1), that for those who recite this eleven-ṛk hymn to Varuṇa, fear, sin, poverty and bad dreams are removed.
+
+**Sūkta—28**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 5 [as printed; the sūkta is the sixth of the anuvāka] ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 9, 10 ‖
+Number of ṛks in the Sūkta: 11 ·
+Ṛṣi: Kūrma Gārtsamada, or Gṛtsamada · Devatā: Varuṇa · Chandas: *triṣṭubh*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> इ॒दं क॒वेरा॑दि॒त्यस्य॑ स्व॒राजो॒ विश्वा॑नि॒ सान्त्य॒भ्य॑स्तु [?] म॒ह्ना ।
+> अति॒यो म॒न्द्रो [?] य॒जथा॑य दे॒वः सु॑की॒र्तिं भि॑क्षे॒ वरु॑णस्य॒ भूरेः॑॥
+
+> *idaṃ kaverādityasya svarājo viśvāni sāntyabhyastu [?] mahnā |*
+> *atiyo mandro [?] yajathāya devaḥ sukīrtiṃ bhikṣe varuṇasya bhūreḥ‖*
+
+*(The supplied text prints no Ṛk number after this verse. Possible slips flagged in the Kannada text: सान्त्यभ्यस्तु (*sāntyabhyastu*) (flagged in the Kannada text) where the Pada gives सन्ति (*santi*) and अभि (*abhi*) separately, and मन्द्रो (*mandro*) (flagged in the Kannada text) where the Pada gives मन्दः (*mandaḥ*).)*
+
+### Printed p. 104
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 28, p. 104.*
+
+**॥ पदपाठः ॥**
+
+> इदं । कवेः । आदित्यस्य । स्वराजः । विश्वानि । सन्ति । अभि । अस्तु । मह्ना ।
+> अति । यः । मन्दः । यजथाय । देवः । सुकीर्तिं । भिक्षे । वरुणस्य । भूरेः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> कवेः क्रांतदर्शिन आदित्यास्यादितेः पुत्रस्य स्वराजः स्वयमेव राजमानस्येश्वरस्य
+> वा वरुणस्येदं हविः स्तोत्रं वा यजमानः करोतीति शेषः । स च विश्वानि सर्वाणि
+> संति द्वितीयभावनिकारभांजि [?] भूतजातानि मह्ना महिम्ना वरुणप्रासादाल्लभेना-
+> भ्यस्तु । अभिभवतु । यो देवो द्योतमानो वरुणो यजथाय यष्टे
+> पुरुषाय अति अतिशयेन मंद्रः स्तुत्यो हर्षयिता वा भवति तस्य भूरेः भर्तुर्वरु-
+> णस्य सुकीर्तिं शोभनां स्तुतिं भिक्षे । प्रार्थये । यद्वा वरुणस्यॆति तृतीयार्थे
+> षष्ठी । तेन वरुणेन दातव्यां शोभनां कीर्तिमहं याचे ॥
+
+> *kaveḥ krāṃtadarśina ādityāsyāditeḥ putrasya svarājaḥ svayameva rājamānasyeśvarasya*
+> *vā varuṇasyedaṃ haviḥ stotraṃ vā yajamānaḥ karotīti śeṣaḥ | sa ca viśvāni sarvāṇi*
+> *saṃti dvitīyabhāvanikārabhāṃji [?] bhūtajātāni mahnā mahimnā varuṇaprāsādāllabhenā-*
+> *bhyastu | abhibhavatu | yo devo dyotamāno varuṇo yajathāya yaṣṭe*
+> *puruṣāya ati atiśayena maṃdraḥ stutyo harṣayitā vā bhavati tasya bhūreḥ bharturvaru-*
+> *ṇasya sukīrtiṃ śobhanāṃ stutiṃ bhikṣe | prārthaye | yadvā varuṇasyèti tṛtīyārthe*
+> *ṣaṣṭhī | tena varuṇena dātavyāṃ śobhanāṃ kīrtimahaṃ yāce ‖*
+
+*Gist:* This praise or oblation is offered to Varuṇa, son of Aditi, self-luminous and a lord; by his grace may the sacrificer overcome all beings; I ask of this delightful god the good fame he gives. (The word द्वितीयभावनिकारभांजि (*dvitīyabhāvanikārabhāṃji*) (flagged in the Kannada text) is unclear in the supplied text.)
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+kaveḥ: of the far-seeing one; ādityasya: of the son of Aditi; svarājaḥ: of the self-luminous one; varuṇasya: to Varuṇa; idaṃ: this oblation or hymn (is offered); (sa ca: the sacrificer who offers this oblation); viśvāni: all; santi: beings; mahnā: by (the greatness gained through Varuṇa's grace) majesty; abhyastu: may he bring under his control; devaḥ: shining; yaḥ: which Varuṇa; yajathāya: to the man who performs the sacrifice; ati: exceedingly; mandraḥ: is delighting; bhūreḥ: of such a Varuṇa, the supporter; sukīrtiṃ: the excellent praise; bhikṣe: I beg [or: bhūreḥ: from such a Varuṇa, the supporter; sukīrtiṃ: the auspicious fame; bhikṣe: I ask].
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer offers this oblation to Varuṇa, who is far-seeing, the son of Aditi, and self-luminous. Through his majesty gained by Varuṇa's favour may this sacrificer bring all beings under his control. From such a Varuṇa, the supporter, who is exceedingly delighting to the man who performs the sacrifice, I beg auspicious fame.
+
 ---
 
-**Progress note:** Done through printed p. 101 (PDF 101). Sūkta 27 Ṛk 16 (pp. 99-100) and Ṛk 17 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (p. 101); Printed English of Ṛk 17 to come. Hand fixes to kn.md: labels and > blocks set, stray lines removed. Flags [?]: Saṃhitā 16 ಉರಾವಾ (Pada ಉರೌ ಆ), Pada ಅಶ್ವೀಽಇವ, Pratipadārtha ವಿಚ್ಛತಾಃ (Saṃhitā ವಿಚೃತ್ತಾಃ), Saṃhitā 17 ರಾಜನ್ಸ್ಯಯಮಾದವ and Pada ಭೂರ್ಇದಾವ್ಯಃ; 'ದುಸ್ತರ್ರಾ' in Special Topics unflagged; accents DIFF 3 lines unmatched
+**Progress note:** Done through printed p. 104 (PDF 104). Sūkta 27 Ṛk 17 printed English and Special Topics (p. 102); Sūkta 28 (Varuṇa, 11 ṛks) introduction and Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (pp. 103-104); Special Topics of Ṛk 1 next. Hand fixes to kn.md: labels and > blocks set. Flags [?]: Saṃhitā ಸಾನ್ತ್ಯಭ್ಯಸ್ತು (Pada ಸನ್ತಿ), ಮನ್ದ್ರೋ (Pada ಮನ್ದಃ), bhāṣya ದ್ವಿತೀಯಭಾವನಿಕಾರಭಾಂಜಿ; no Ṛk number printed after Saṃhitā 1; running head p. 102 reads Maṇḍala 3 as supplied
