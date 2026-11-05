@@ -23871,6 +23871,98 @@ In these Ṛks the goddess Iḷā or Iḍā is explained as a deity of the middl
 
 *[The window ends here, at the end of p. 772, after this quotation and its reference; the next window continues.]*
 
+### Printed p. 773
+
+*[Running head, p. 773: Aṣṭaka 2, Adhyāya 8, Varga 26, Ṛgvedasaṃhitā.]*
+
+[continuing:] in this Ṛk the word सूनो (*sūno*) is explained as son, and Agni is called सहससूनो (*sahasasūno*), "son of strength" (printed with सहसस्पुत्र (*sahasasputra*) in brackets). Sāyaṇa explains the word sūnu as son and the word tanaya as grandson (son's son).
+
+सुमतिः—शोभना बुद्धिः । (*sumatiḥ—śobhanā buddhiḥ |*) The Nirukta authors explain देवसुमतिं (*devasumatiṃ*) as the auspicious thought of the gods; वैश्वानरस्य सुमत् स्याम (*vaiśvānarasya sumat syāma*) as being in the auspicious thought; and वयं देवस्य धीमहि सुमतिं सत्यधर्मणः (*vayaṃ devasya dhīmahi sumatiṃ satyadharmaṇaḥ*) with the same sense, auspicious thought. Sāyaṇa prays that there may be the auspicious thought of Agni, such as the birth and growth of sons, grandsons and so on, which Agni can grant to the sacrificers who have gratified him with oblations.
+
+## Sūkta 6 (Maṇḍala 3)
+
+*The sixth sūkta of the Third Maṇḍala.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> प्र कारव इत्येकादशर्चं षष्ठं सूक्तं वैश्वामित्रमाग्नेयं प्र कारव
+> इत्यनुक्रांतत्वात् ॥ प्रातरनुवाकाशिनशस्त्रयोः सूक्तविनियोगः पूर्वसूक्त एव
+> प्रत्यग्निरुषसस्त्रीणीत्यनेनोक्तः ॥ आद्याग्नेये पशौ हविषो याज्या । सूत्रितं च ।
+> प्र कारवो मनना वच्यमाना एकाचेतत्सरस्वती नदीनां । आ. ३-७। इति ॥ ऐभिरग्न इति
+> पात्नीवतग्रहस्य याज्या । सूत्रितं च । अग्नीध्रः पात्नीवतस्य यजत्यैभिरग्ने सरथं
+> याह्यर्वाजति । आ. ५-१९ । इति ॥
+
+> *pra kārava ityekādaśarcaṃ ṣaṣṭhaṃ sūktaṃ vaiśvāmitramāgneyaṃ pra kārava*
+> *ityanukrāṃtatvāt ‖ prātaranuvākāśinaśastrayoḥ sūktaviniyogaḥ pūrvasūkta eva*
+> *pratyagniruṣasastrīṇītyanenoktaḥ ‖ ādyāgneye paśau haviṣo yājyā | sūtritaṃ ca |*
+> *pra kāravo mananā vacyamānā ekācetatsarasvatī nadīnāṃ | ā. 3-7| iti ‖ aibhiragna iti*
+> *pātnīvatagrahasya yājyā | sūtritaṃ ca | agnīdhraḥ pātnīvatasya yajatyaibhiragne sarathaṃ*
+> *yāhyarvājati | ā. 5-19 | iti ‖*
+
+**Anuvāda (Kannada).** This sūkta, प्र कारवो मनना (*pra kāravo mananā*), is the sixth sūkta in the first anuvāka. It has eleven ṛks. The seer of this sūkta is Viśvāmitra; the deity is Agni; the Anukramaṇikā begins with "pra kāravaḥ". The application of this sūkta at the time of reciting the Prātaranuvāka and the Āśvina śastra mantras has been stated in the application of the previous sūkta by the sūtra प्रत्यग्निरुषसस्त्रीणि (*pratyagniruṣasastrīṇi*) (printed so, joined across a line break). The first ṛk of this sūkta is to be recited as the yājyā mantra when the oblation is offered in the animal sacrifice addressed to Agni, as the Āśvalāyana Śrauta Sūtra says प्र कारवो मनना वच्यमाना एका चेतत्सरस्वती नदीनां (*pra kāravo mananā vacyamānā ekā cetatsarasvatī nadīnāṃ*) (Ā. 3-7). And the ṛk ऐभिरग्ने (*aibhiragne*) of this sūkta (the 9th ṛk of this sūkta) is to be used as the yājyā mantra of the Pātnīvata graha, as the Āśvalāyana Śrauta Sūtra says अग्नीध्रः पात्नीवतस्य यजत्यैभिरग्ने सरथं याह्यर्वाजति (*agnīdhraḥ pātnīvatasya yajatyaibhiragne sarathaṃ yāhyarvājati*) (Ā. 5-19).
+
+### Printed p. 774
+
+*[Running head, p. 774: Sāyaṇabhāṣyasahitā, Maṃ. (printed without a period) 3, A. 1, Sū. 6.]*
+
+Sūkta—6. Maṇḍala—3. Anuvāka—1. Sūkta—6. Aṣṭaka—2. Adhyāya—8. Varga—26, 27. Number of ṛks in the sūkta—11. Ṛṣi—Viśvāmitra. Devatā—Agni. Chandas—Triṣṭubh. (These lines were inside the quotation block in the supplied text and were moved out.)
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> प्र का॑रवो मन॒ना व॒च्यमा॑ना देव॒द्रीचीं॑ नयत देव॒यंतः॑ ।
+> द॒क्षि॒णा॒वाड्वा॒जिनी॒ प्राचे॑ति ह॒विर्भरं॑त्य॒ग्नये॑ घृ॒ताची॑ ॥ १ ॥
+
+> *pra kāravo mananā vacyamānā devadrīcīṃ nayata devayaṃtaḥ |*
+> *dakṣiṇāvāḍvājinī prāceti havirbharaṃtyagnaye ghṛtācī ‖ 1 ‖*
+
+*[The supplied text has before the Pada a garbled label "॥ जपवाक्य ॥ (*‖ japavākya ‖*)" (for Pada-pāṭha), kept as a note in kn.md; it stood inside the Saṃhitā block, which was split.]*
+
+**॥ पदपाठः ॥**
+
+> प्र । कारवः । मनना । वच्यमानाः । देवद्रीचीं । नयत । देवयंतः ।
+> दक्षिणावाट् । वाजिनी । प्राची । एति । हविः । भरंती । अग्नये । घृताची ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे कारवः कर्तारो देवयंतो देवकामा यूयं मनना मननेन
+> मंत्रेण वच्यमानाः प्रेर्यमाणाः संतो देवद्रीचीं देवानंचंतीं स्रुचं
+> प्रणयत । प्रकर्षेण नयत । प्रापयत । दक्षिणावाट् अहवनीयस्य दक्षिणत उह्यमाना वाजिन्यन्नवती प्राची प्रागग्राग्नयेऽग्नर्थं हविर्भरंती हविर्धारयंती
+> धृताची धृतेनाक्ता स्रुक् एति । गच्छति ॥
+
+*(Gist: O devout ministrants, inspired by the mantra, bring forward the ladle (sruc) that goes to the south of the Āhavanīya, filled with food, facing east, carrying the oblation for Agni, filled with ghee.)*
+
+*[The supplied text has after the bhāṣya the garbled label "॥ प्रतिदार्थ ॥ (*‖ pratidārtha ‖*)" (for Pratipadārtha), inside the block; it is kept as a note in kn.md, the standard label inserted, and the Pratipadārtha lines moved out of the block.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Kāravaḥ: O sacrificers. Devayantaḥ: you who are devoted to the gods. Mananā: by the meditative praise. Vacyamānāḥ: being inspired. Devadrīcīṃ: the ladle (sukṣātra, so printed) that goes near and worships the gods. Pra nayata: bring forward. Dakṣiṇāvāṭ: that which is to be carried to the south side of the Āhavanīya. Vājinī: filled with food. Prācī: held facing east. Agnaye: for Agni. Haviḥ: the oblation. Bharantī: carrying. Ghṛtācī: filled with ghee, the ladle. Eti: approaches Agni.
+
+### Printed p. 775
+
+*[Running head, p. 775: Aṣṭaka 2, Adhyāya 8, Varga 26 (no period at the end, as printed), Ṛgvedasaṃhitā.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O sacrificers, you who are devoted to the gods, inspired by meditative praise, bring the ladle, the means of worshipping the gods. The ladle, to be carried to the south side of the Āhavanīya, filled with food, held facing east, carrying the oblation for Agni, filled with ghee, approaches Agni.
+
+**Printed English translation**
+
+Devout ministrants, who are to be inspired by prayer, bring forth (the ladle) destined for the worship of the gods, which is to be conveyed to the south (of the fire-altar), and which charged with (sacrificial) food, pointed to the east, containing the oblation, and filled with liquefied butter, proceeds to Agni.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+कारवः देवयंतः मनना वच्यमानाः देवद्रीचीं प्र नयत (*kāravaḥ devayaṃtaḥ mananā vacyamānāḥ devadrīcīṃ pra nayata*): the word kāravaḥ is read among the names of praisers (Ni. 3-19). Formed from the root डुकृञ् करणे (*ḍukṛñ karaṇe*), the word has the ordinary sense "makers". But in the Ṛgveda this word is generally used in the sense of praisers or sacrificers. In this sentence the sacrificer addresses the priests: O praisers, you who wish the gods to come to this sacrificial ground, inspired by the mantras you recite while meditating on the gods in your mind, bring for the offering the wooden ladle called sruc, used to offer ghee and the like in Agni; this is the chief purport of this sentence.
+
+दक्षिणावाट् वाजिनी प्राची अग्नये हविः भरंती धृताची एति (*dakṣiṇāvāṭ vājinī prācī agnaye haviḥ bharaṃtī dhṛtācī eti*): the qualities of the sruc mentioned above are described in this sentence. Since the priests carry this sruc, for the sake of the offering, to the place on the south side of the Āhavanīya fire on the sacrificial altar where the priests sit, this is described here by the word dakṣiṇāvāṭ. And in this sruc the food in the form of oblation is filled for the offering; ghee is also filled in it. They have placed the sruc, the offering ladle thus filled with oblation (food) and ghee, facing east near Agni to make the offering in Agni. The word वाजः (*vājaḥ*) is read among the names of food (Ni. 3-9). Although the word धृताची (*dhṛtācī*) is read among the names of night (Ni. 2-18), here it is used in the sense of the sruc filled with ghṛta (ghee).
+
+*[Stray line as supplied at the end of p. 775: (a line of Tamil numerals), kept as a note in kn.md.]*
+
+*[The window ends here, at the end of p. 775; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 772 (PDF 772). Sūkta 5 Ṛk 10 Special Topics end (Mātariśvan, Bhṛgu, Manu); Ṛk 11 (full) and Special Topics so far (Iḷā, goḥ saniṃ, sūnu)
+**Progress note:** Done through printed p. 775 (PDF 775). Sūkta 5 ends (Ṛk 11 Special Topics); Sūkta 6 (Maṇḍala 3) begins: Sāyaṇa intro, Ṛk 1 (full) and Special Topics (kāravaḥ, sruc)
