@@ -16063,6 +16063,99 @@ In Ṛks such as these, and in Ṛ. Saṃ. 10-31-2; 1-111-2; 4-37-2; 5-10-2; 5-4
 
 In the 51st sūkta of the tenth maṇḍala of the Ṛgveda (Ṛ. 10-51-6 to 9) this matter is described in detail:—
 
+### Printed p. 507
+
+*[Running head, p. 507: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+*(The Ṛgveda passage on Agni's hiding follows, Ṛ. Saṃ. 10-51-6 to 9, as one block:)*
+
+> अग्नेः पूर्वे भ्रातरो अर्थमेतं रथिवाध्वानमन्यावरीवुः ।
+> तस्माद्भिया वरुण दूरमायं गौरो न क्षेपोरविजे जायाः ॥
+> कुर्मस्त आयुरजरं यदग्ने यथा युक्तो जातवेदो न रिष्याः ।
+> अथा वहासि सुमनस्यमानो भागं देवेभ्यो हविषः सुजात ॥
+> प्रयाजान्मे अनुयाजांश्च केवलानूर्जस्वंतं हविषो दत्त भागं ।
+> धृतं चापां पुरुषं चौषधीनामग्नेश्च दीर्घमायुरस्तु देवाः ॥
+> तव प्रयाजा अनुयाजाश्च केवल उर्जस्वंतो हविषः संतु भागाः ।
+> तवाग्ने यज्ञो ३ यमस्तु सर्वस्तुभ्यं नमंतां प्रदिशश्च तसः ॥
+
+> *agneḥ pūrve bhrātaro arthametaṃ rathivādhvānamanyāvarīvuḥ |*
+> *tasmādbhiyā varuṇa dūramāyaṃ gauro na kṣeporavije jāyāḥ ‖*
+> *kurmasta āyurajaraṃ yadagne yathā yukto jātavedo na riṣyāḥ |*
+> *athā vahāsi sumanasyamāno bhāgaṃ devebhyo haviṣaḥ sujāta ‖*
+> *prayājānme anuyājāṃśca kevalānūrjasvaṃtaṃ haviṣo datta bhāgaṃ |*
+> *dhṛtaṃ cāpāṃ puruṣaṃ cauṣadhīnāmagneśca dīrghamāyurastu devāḥ ‖*
+> *tava prayājā anuyājāśca kevala urjasvaṃto haviṣaḥ saṃtu bhāgāḥ |*
+> *tavāgne yajño 3 yamastu sarvastubhyaṃ namaṃtāṃ pradiśaśca tasaḥ ‖*
+
+(म. सं. १०-५१-६ रिंद ९) (*(ma. saṃ. 10-51-6 riṃda 9)*) (the reference as printed: "Ma. Saṃ. 10-51-6 to 9")
+
+This sūkta is a conversation between the gods and Agni. The main point is: Agni had three elder brothers named Bhūpati, Bhuvanapati and Bhūtānāṃpati. Like Agni they used to bear the oblation to the gods in the sacrifice. While so doing, those three brothers died through the offerings made in the sacrifice with the word वषट् (*vaṣaṭ*), which are like a thunderbolt. Seeing that, Agni, the youngest, became afraid, went into the water and hid. While the gods were searching for Agni, fishes in the water told the gods that Agni was in the water. Then the gods came and conversed with Agni. That conversation is what is described in this sūkta. When the gods prayed to Agni to come up out of the water and bear the oblation to them as before, Agni said that since his brothers had died the same fate would befall him and therefore he would not come. When the gods said that they would not let him fear death and would make him free from fear of death, Agni said again: "Very well; besides saving me from the fear of death, you must give me in sacrifices certain special offerings such as the Prayājas, the Anuyājas, the Ūrjasvat, the Sviṣṭakṛt and the Ājyabhāga." The gods agreed, gave him the portions of oblation he asked for, granted the boons that he should take the chief part in the sacrifice, be saluted by all, and have long life, and appointed him as before to the work of bearing the oblation. This is the main intent of this sūkta.
+
+In the Taittirīya Saṃhitā of the Yajurveda it is stated on this matter as follows:—
+
+⟦ಅಗ್ನೇಸ್ತ್ರಯೋ ಜ್ಯಾಯಾಗ್ಂಸೋ ಭ್ರಾತರ ಆಸನ್ತೇ ದೇವೇಭ್ಯೋ ಹವ್ಯಂ ವಹಂತಃ ಪ್ರಾಮಿ-
+ಯಂತ ಸೋಽಗ್ನಿರಭಿಭೇದಿತ್ಥಂ ವಾವ ಸ್ಯ ಆರ್ತಿಮಾರಿಷ್ಯತೀತಿ ಸ ನಿಲಾಯತ ಸೋಽಪಃ
+ಪ್ರಾವಿಶತ್ತಂ ದೇವತಾಃ ಪ್ರೈಷಮೈಚ್ಛನ್ತಂ ಮತ್ಸ್ಯಃ ಪ್ರಾಬ್ರವೀತ್ತಮಶಪದ್ಧಿಯಾಧಿಯಾ⟧
+
+### Printed p. 508
+
+*[Running head, p. 508: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. [as printed] 1, Sū. 1.]*
+
+⟦ತ್ವಾ ವಧ್ಯಾಸುರ್ಯೋ ಮಾ ಪ್ರಾವೋಚ ಇತಿ ತಸ್ಮಾನ್ಮತ್ಸ್ಯಂ ಧಿಯಾಧಿಯಾ ಘ್ನಂತಿ ಶಪ್ತೋ
+ಹಿ ತಮನ್ವವಿಂದನ್ತಮಬ್ರುವನ್ನುಪ ನ ಆ ವರ್ತಸ್ವ ಹವ್ಯಂ ನೋ ವಹೇತಿ ಸೋಽಬ್ರವೀದ್ವರಂ
+ವೃಣೈ ಯದೇವ ಗೃಹೀತಸ್ಯಾಹುತಸ್ಯ ಬಹಿಃ ಪರಿಧಿಸ್ಕಂದಾತ್ತನ್ನೇ ಭ್ರಾತೃಣಾಂ ಭಾಗಧೇಯ
+ಮಸದಿತಿ ತಸ್ಮಾದ್ಯದ್ಗೃಹೀತಸ್ಯಾಹುತಸ್ಯ ಬಹಿಃ ಪರಿಧಿ ಸ್ಕಂದತಿ ತೇಷಾಂ ತದ್ಭಾಗಧೇಯಂ
+ತಾನೇವ ತೇನ ಪ್ರೀಣಾತಿ ಪರಿಧೀನ್ಸರಿ ದಧಾತಿ ರಕ್ಷಸಾಮಪಹತ್ಯೈ ॥⟧
+(Tai. Saṃ. 2-6-6-1)
+
+[The Taittirīya passage is split in the print at the page break, in the word धियाधिया (*dhiyādhiyā*) / त्वा (*tvā*).] Formerly Agni had three elder brothers. They used to carry to the gods the oblation given by the sacrificer in sacrifices and the like. When they died, Agni too, fearing that the same fate might overtake him, ran away, entered the water and hid so that no one could see him. When the gods were searching for where Agni had gone, a fish in the water told the gods that Agni was hiding in the water. Hearing this tale-bearing of the fish, Agni became angry and cursed that henceforth the fishes in the water should be caught and killed by people with such means as nets. Accordingly people even now catch fish, kill them and eat them. Afterwards, when the gods said to Agni, "O Agni, come back and be ready to do the work of bearing the oblation for us," Agni said that if they gave him the boon that the portion of the ājya and other offerings that falls outside the *paridhi* (the special *darbha* grasses placed on the four sides round the fire, so that demons may not come and disturb the sacrifice) when offerings are made in the sacrifice, should be the oblation-portion of his brothers, he would come from the water and carry the oblation to the gods as before. The gods consented and gave him the boon so. Such is the story.
+
+उ—उकारः पादपूरणः । (*u—ukāraḥ pādapūraṇaḥ |*) The word उ (*u*) in this Ṛk has no definite meaning. It is used merely to fill out the pāda. On this matter Yāska has given the etymology ⟦ಅಥಾಪಿ
+ಪದಪೂರಣ ಇದಮು ತದು⟧ (Ni. 1-5).
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> अव॑र्धयन्तु॒भगं॑ स॒प्त य॒ह्वीः श्वे॒तं ज॑ज्ञा॒नम॑रु॒षं म॑हि॒त्वा ।
+> शिशुं॒ न जा॒तम॒भ्या॑रु॒रश्वा॑ दे॒वासो॑ अ॒ग्निं जनि॑मन्वपुष्यन् ॥ ४ ॥
+
+> *avardhayantubhagaṃ sapta yahvīḥ śvetaṃ jajñānamaruṣaṃ mahitvā |*
+> *śiśuṃ na jātamabhyāruraśvā devāso agniṃ janimanvapuṣyan ‖ 4 ‖*
+
+### Printed p. 509
+
+*[Running head, p. 509: Aṣṭaka 2, Adhyāya 8, Varga 13, Ṛgvedasaṃhitā.]*
+
+**॥ पदपाठः ॥**
+
+> अवर्धयान् । सुभगं । सप्त । यह्वीः । श्वेतं । जज्ञानं । अरुषं । महित्वा ।
+> शिशुं । न । जातं । अभि । अरुः । अश्वाः । देवासः । अग्निं । जनिमन् । वपुष्यन् ॥ ४ ॥
+
+*(The Pada is printed ಅವರ್ಧಯಾನ್ and ಅರುಃ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> सप्त सर्पणशीला यह्वीर्यहो महत्यो नद्यः सुभगं शोभनधनं श्वेतं
+> शुभ्रं जज्ञानं जातं महित्वा महत्वेनारुषमारोचमानमप्पु स्थितमग्निमवर्धयन् । स्वकार्यभूताभिरोषधीभिर्वृद्धिं प्रापितवत्यः । यद्वा दिव्यमग्निमाफो
+> वर्धयंत्यबंधनत्वात्तस्य । किंच शिशुं न जातं यथा जातं शिशुमश्वा वडवा
+> अभ्यारुः । अभिगच्छंति । तथा नद्य उत्पन्नमग्निमभ्यारुः । अभिजग्मुः । अपि च देवासो
+> देवा अग्निं जनिमन् जन्मन्युदके वा वपुष्यन् । वपुर्दिप्तिमकुर्वन् ॥
+
+*(Gist: the seven great rivers made Agni grow when he was born, in the waters, with the plants that are their products; or the waters make the heavenly Agni grow, for it does not bind him; as mares go to a newborn foal, the rivers go to the newborn Agni; and the gods made his body shine at his birth.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Aśvāḥ: mares. Jātaṃ: born in their womb. Śiśuṃ na abhyāruḥ: as they approach the young one and caress it. Sapta: the seven (or those of moving nature). Yahvīḥ: the rivers, of great nature. Subhagaṃ: possessing excellent wealth. Śvetaṃ: pure. Jajñānaṃ: born. Mahitvā: by his greatness. Aruṣaṃ: of attractive form, Agni. Avardhayan: caressed and made grow. Devāsaḥ: the gods. Agniṃ: Agni. Janiman: immediately on his birth. Vapuṣyan: made his body shine.
+
+**भावार्थ (Bhāvārtha)**
+
+As mares approach the young one born in their womb and caress it, the seven great rivers caressed and made to grow Agni, who possesses excellent wealth, is pure, newly born and, by his greatness, of attractive form. As soon as this Agni was born, the gods made his body shine.
+
+**Printed English translation**
+
+The seven great rivers augmented in might the auspicious, pure, and radiant Agni as soon as he was born, in like manner as mares (tend) the newborn foal : the gods cherished the body (of Agni) at this birth.
+
 ---
 
-**Progress note:** Done through printed p. 506 (PDF 506). Sukta 1 (Mandala 3) Rik 3 complete (pp. 504-506): word notes on medhira, putadaksha (many Rik citations), darshata; the story of Agni hiding in the waters is introduced and breaks off at the citation of Rik 10-51-6 to 9. Flags: colon between two references in the list changed to semicolon in kn.md; variants svasrnam/svastyanam as supplied
+**Progress note:** Done through printed p. 509 (PDF 509). Sukta 1 (Mandala 3) Rik 3 Special Topics finished (pp. 507-509): Rik 10-51-6 to 9 on Agni hiding, the Taittiriya story (2-6-6-1); Rik 4 complete through printed English (p. 509). Flags: Ma. Sam. printed for Ri. Sam. 10-51; Pada avardhayan and aruh as supplied; hyphenated breaks joined in bhashya; 1 accent DIFF
