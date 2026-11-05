@@ -27661,4 +27661,106 @@ The Kannada says: the word *adhvaryu* means one who gives the yajña its form (c
 
 ---
 
-**Progress note:** Done through printed p. 722 (PDF 745). Sūkta 14, Ṛk 1 written: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Viśeṣaviṣayagaḷu so far. Ṛk 1 is left open in the Viśeṣaviṣayagaḷu: the entry "अंधः" has just quoted Yāska (नि. ५-१) at the foot of p. 722, and the next page continues the Kannada commentary on it; no grammar section has been seen yet. The title block of the sūkta (Ṛk count 12, Varga 13, 14) was written from the strip of p. 720. FILE DISAGREE: the file gives "नि. 1.4" on p. 720 (line 30), but the strip is read as नि. १-८; the p. 722 file row (1-8) supports this. No numerals were zoomed. Doubtful places: the Nirukta text "वाधीयोने[?]" (p. 722), "हृत्वामत्रेभिः[?]" and "त्रैर्मद्यं[?]" (p. 720), "इत्यन्ननामाध्यानीयं[?]" (p. 722), and the varga numeral in the p. 721 header (13?).
+### Printed p. 723 (PDF 746)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "723". This reading of the varga numeral, 13, also agrees with the header of p. 725.)*
+
+The Kannada continues the explanation of Yāska's remark on the word अंधः (*aṃdhaḥ*). It says: the word अंधः (*aṃdhaḥ*) is a name for food. Why? Because food is needed by everyone, it is prayed for (desired) by all; therefore अंधः (*aṃdhaḥ*) means food. अंधः (*aṃdhaḥ*) is also a name for darkness (the dark, *kattale*). Why? Because nothing is seen in the dark, nothing can be done in it. Even in everyday usage people say अंधंतम (*aṃdhaṃtama*) when it is dark, in the sense that it cannot be seen by the eye. In this matter there is also an example from the Veda, पश्य दक्षण्वान्न विचेतदंधः (*paśya dakṣaṇvānna vicetadaṃdhaḥ*) (R. Saṃ. 1-164-16, the numerals agree with the numeral file; not zoomed).
+
+*Gist: Sāyaṇa glosses आ सिंचत (*ā siṃcata*) with अग्नौ प्रक्षिपत (*agnau prakṣipata*), "throw into the fire", and अमत्र (*amatra*) with the camasa cups.*
+
+> आ अमत्रेभिः सिंचत मद्यं अंधः—हृत्वामत्रेभिः । अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः । त्रैर्मद्यं मदकरमंधः सोमलक्षणमन्नमासिंचत । अग्नौ प्रक्षिपत ।
+
+> *ā amatrebhiḥ siṃcata madyaṃ aṃdhaḥ—hṛtvāmatrebhiḥ | amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ | trairmadyaṃ madakaramaṃdhaḥ somalakṣaṇamannamāsiṃcata | agnau prakṣipata |*
+
+*(Reading note: the same words are printed here as on p. 720, "हृत्वामत्रेभिः" and "त्रैर्मद्यं"; they are read letter by letter, as printed, and not completed from memory.)*
+
+The Kannada says: in the previous sentence the Adhvaryus were directed to bring the soma to the uttaravedi for offering to Indra. The meaning of this sentence is: offer into the fire, in Indra's name, with the camasas (wooden ladles) the soma so brought, or the soma-form food. For the word अमत्र (*amatra*) the commentator says अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः (*amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ*); that is, when soma is drunk at the sacrifice, the ṛtvijas, Hotṛ and the rest, take it together, that is, all of them partake from one single vessel, or drink from it; for that reason such a vessel is called camasa. A camasa is made of wood, has a handle, and is in the shape of a ladle (*sauṭu*). With this camasa all the ṛtvijas drink the soma. Each one does not use a separate vessel; there is one vessel for all. Yāska, taking this very Ṛk as the example for the word अमत्रेभिः (*amatrebhiḥ*), says:
+
+> आमत्रेभिः सिंचता मद्यमंधः । आसिंचतामत्रैर्मदनीयमंधः । अमत्रं पात्रमा अस्मिन्नदंत्यमा पुनरनिर्मितं भवति पात्रं पानात् ।
+
+> *āmatrebhiḥ siṃcatā madyamaṃdhaḥ | āsiṃcatāmatrairmadanīyamaṃdhaḥ | amatraṃ pātramā asminnadaṃtyamā punaranirmitaṃ bhavati pātraṃ pānāt |*
+
+(नि. १-५, numerals as printed, and the numeral file agrees; not zoomed.)
+
+*(Reading note: the first word of the quotation is read with long ā, आमत्रेभिः (*āmatrebhiḥ*), as the sandhi of आ (*ā*) + अमत्रेभिः (*amatrebhiḥ*) requires; the print shows the letter ā there.)*
+
+That is: अमत्र (*amatra*) means a vessel. Why? Because from it (food, or soma) one takes little by little and partakes; such a vessel, like a ladle, is called अमत्र (*amatra*). अमा (*amā*) means "without measure". When a big vessel is full of soma juice in abundance (without measure or gauge), those who wish to drink it fill from it little by little with an अमत्र (*amatra*), or with the wooden ladle called camasa, and drink. (Like drinking tea or coffee by means of spoons [printed "drinkiog", sic].) Such a vessel is called अमत्र (*amatra*) or camasa. The sense of the sentence is: with such camasas fill the exhilarating, that is, joy-producing, soma-form food (and throw it into the fire in Indra's name). Because Indra is not a visible (*pratyakṣa*) deity, the oblations and the like given to him are offered in his name with mantras,
+
+---
+
+### Printed p. 724 (PDF 747)
+
+*(Header, read from the strip and not zoomed: "724", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+and since they have to be offered in the fire itself, the sense is understood that आ सिंचत (*ā siṃcata*) means "offer in the fire itself, with the vaṣaṭ call". Besides, in the second half of this Ṛk the word जुहोत (*juhota*) itself is used, meaning "offer the homa in the fire". Since the two words मद्यं (*madyaṃ*) and अंधः (*aṃdhaḥ*) occur in this sentence, the meaning could be taken either as "the oblation (food) in the form of exhilarating soma juice", or as two kinds of substance, "the exhilarating soma juice" and "the food that is the oblation". But since in all the Ṛks of this sūkta only the matter of soma juice is brought up, for Indra's drinking, the right way is to explain the words मद्यमंधः (*madyamaṃdhaḥ*) as the oblation in the form of soma, that is, the soma.
+
+*Gist: Indra, the hero, always desires the drinking of soma, more than all other gods; hence the Ṛṣi's prayers.*
+
+> कामी हि वीरः सदं अस्य पीतिं—वीरः स इंद्रोऽस्य सोमस्य पीतिं पानं प्रति सदं सदैव कामी हि कामयमानो हि ।
+
+> *kāmī hi vīraḥ sadaṃ asya pītiṃ—vīraḥ sa iṃdro 'sya somasya pītiṃ pānaṃ prati sadaṃ sadaiva kāmī hi kāmayamāno hi |*
+
+The Kannada says: is not the valiant Indra one who desires soma-drinking? is the chief meaning. Indra's attachment to soma-drinking is greater than that of all the other deities. Therefore all the ṛṣis have prayed that Indra come to the sacrifices they perform and drink the soma they offer.
+
+*Gist: Offer soma to Indra the showerer; he desires just this.*
+
+> जुहोत वृष्णे तत् इत् एषः वष्टि—तस्माद्वृष्णे वर्षित्र इंद्राय सोमं जुहोत । एष इंद्रस्तदित् तदेव सोमद्रव्यं वष्टि कामयते ।
+
+> *juhota vṛṣṇe tat it eṣaḥ vaṣṭi—tasmādvṛṣṇe varṣitra iṃdrāya somaṃ juhota | eṣa iṃdrastadit tadeva somadravyaṃ vaṣṭi kāmayate |*
+
+*(Reading note: here the print is clear: सोमद्रव्यं (*somadravyaṃ*). The reading सोमप्रव्यं (*somapravyaṃ*) given for p. 720 was doubtful; this clearer printing is taken to correct it. The earlier page is not edited.)*
+
+Therefore offer soma juice into the fire in the name of Indra, who gives rain or who bestows desired objects. Why? Because this very thing (that is, soma-drinking) Indra desires. Although what is said in the second and fourth pādas of this Ṛk is one and the same matter, the Ṛṣi has expressed the intention with different words and different sentences, in order to explain the meaning clearly.
+
+The commentary written on this Ṛk by Durgācārya, the commentator on the Nirukta, is given here, since it contains some clear explanations:
+
+*Gist: Durgācārya: the Ṛk is Gṛtsamada's, used in the Atirātra; the Adhvaryus are to bring soma and pour it into the fire for Indra, who always desires it.*
+
+> गृत्समदस्येयमार्षं । रात्रिपर्यायेः शस्यते । होतुः शस्त्रे विनियोक्ता । अस्यैव च शस्त्रस्य याज्यैषा ॥ हे अध्वर्यवः भरत प्रापयतेमं सोमं । एतस्माद्धविर्धानादुत्तरवेदिं इंद्राय इंद्रार्थं । अथवा भरत धारयता-ग्नेरुपरि । ततश्चैनं आमत्रेभिः अमत्रैः पात्रैः एभिः सोमचमस्यैः वषट्कारे प्राप्ते आसिंचत तस्मिन्नग्नौ । मद्यं मदनीयं एतत्सोमाख्यं अंधः । तस्मात् पुनरेवं ब्रवीमि । इतः यस्मात् कामी हि वीरः कामयत एव वीरः इंद्रः अस्य सोमस्य सदं सदैव नित्यकालमेव पीतिं पानमित्यर्थः । तस्मात् कारणात् जुहोत तस्मै वृष्णे वर्षित्रे इंद्राय एतं सोमं । किमेतमेव केवलं सोममेष कामयते ? नेत्युच्यते ।
+
+> *gṛtsamadasyeyamārṣaṃ | rātriparyāyeḥ śasyate | hotuḥ śastre viniyoktā | asyaiva ca śastrasya yājyaiṣā ‖ he adhvaryavaḥ bharata prāpayatemaṃ somaṃ | etasmāddhavirdhānāduttaravediṃ iṃdrāya iṃdrārthaṃ | athavā bharata dhārayatā-gnerupari | tataścainaṃ āmatrebhiḥ amatraiḥ pātraiḥ ebhiḥ somacamasyaiḥ vaṣaṭkāre prāpte āsiṃcata tasminnagnau | madyaṃ madanīyaṃ etatsomākhyaṃ aṃdhaḥ | tasmāt punarevaṃ bravīmi | itaḥ yasmāt kāmī hi vīraḥ kāmayata eva vīraḥ iṃdraḥ asya somasya sadaṃ sadaiva nityakālameva pītiṃ pānamityarthaḥ | tasmāt kāraṇāt juhota tasmai vṛṣṇe varṣitre iṃdrāya etaṃ somaṃ | kimetameva kevalaṃ somameṣa kāmayate ? netyucyate |*
+
+*(Reading note: "रात्रिपर्यायेः" is the form printed, as read, not corrected; the Kannada explanation below reads it as "in the rātri-paryāya". Read letter by letter and not completed from memory. The grammatical tail is not present here.)*
+
+---
+
+### Printed p. 725 (PDF 748)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13.]", "Ṛgvedasaṃhitā", "725".)*
+
+> तदिदेष वष्टि तत्तत्सोमप्रदानमेष इंद्रो वष्टि कामयते इत्यर्थः । न केवलं रात्रिपर्यायेष्वित्यर्थः । तस्मादासिंचते इमं सोमं मा विलंबध्वमित्यभिप्रायः । एवमत्र दानसंबंधात् अंधः शब्दोऽन्नार्थ उपपद्यते । पठितमपि चान्ननामसु । अनेकार्थत्वात्तु संदिह्यते इत्येष निगम उपात्तः ॥
+
+> *tadideṣa vaṣṭi tattatsomapradānameṣa iṃdro vaṣṭi kāmayate ityarthaḥ | na kevalaṃ rātriparyāyeṣvityarthaḥ | tasmādāsiṃcate imaṃ somaṃ mā vilaṃbadhvamityabhiprāyaḥ | evamatra dānasaṃbaṃdhāt aṃdhaḥ śabdo 'nnārtha upapadyate | paṭhitamapi cānnanāmasu | anekārthatvāttu saṃdihyate ityeṣa nigama upāttaḥ ‖*
+
+(नि. ५-१. दु. व्या., as printed; the numeral file agrees; not zoomed.)
+
+The Kannada says: this Ṛk was seen by Gṛtsamada. In the sacrifice called Atirātra, in the rātri-paryāya, this Ṛk is to be recited both for the śastra mantras that the Hotṛ recites and as the yājyā mantra of the śastra; such is its viniyoga. O priests called Adhvaryu, take this soma from the havirdhāna place to the uttaravedi for Indra's drinking. Afterwards, filling from the camasa vessels this intoxicating food in the form of soma juice, offer it into the fire. For this mighty Indra is attached to soma-drinking at all times. Therefore, in the fire, in the name of Indra, who gives the fruit of all desires, offer the soma. That very thing Indra desires. Not only by night; Indra desires soma-drinking at all times. Therefore offer the soma without delay. Since the word अंधः (*aṃdhaḥ*) also has the sense of "food", in order to indicate that in the Ṛk in hand the word अंधः (*aṃdhaḥ*) has the sense "food", the Niruktakāra has given the sentence आमत्रेभिः सिंचता मद्यमंधः (*āmatrebhiḥ siṃcatā madyamaṃdhaḥ*) from the Nigama (Veda) as an example: this is the chief purport of the above commentary.
+
+*(End of the Viśeṣaviṣayagaḷu of Ṛk 1. No grammar section is printed for this Ṛk; a short rule follows on the page, and then the next Ṛk.)*
+
+---
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ यो अ॒पो व॑व्रि॒वांसं॑ वृ॒त्रं ज॒घाना॒शन्ये॑व वृ॒क्षं ।
+> तस्मा॑ ए॒तं भ॑रत तद्व॒शाय॑ ए॒ष इंद्रो॑ अर्हति पी॒तिम॑स्य ॥
+
+> *adhvaryavo yo apo vavrivāṃsaṃ vṛtraṃ jaghānāśanyeva vṛkṣaṃ |*
+> *tasmā etaṃ bharata tadvaśāya eṣa iṃdro arhati pītimasya ‖*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । यः । अपः । वव्रिऽवांसं । वृत्रं । जघान । अशन्याऽइव । वृक्षं ।
+> तस्मै । एतं । भरत । तत्ऽवशाय । एषः । इंद्रः । अर्हति । पीतिं । अस्य ॥ २ ॥
+
+> *adhvaryavaḥ | yaḥ | apaḥ | vavri 'vāṃsaṃ | vṛtraṃ | jaghāna | aśanyā 'iva | vṛkṣaṃ |*
+> *tasmai | etaṃ | bharata | tat 'vaśāya | eṣaḥ | iṃdraḥ | arhati | pītiṃ | asya ‖ 2 ‖*
+
+*(Reading note: in the Pada the small stroke after वव्रि (*vavri*), अशन्या (*aśanyā*) and तत् (*tat*) is read as the compound/elision mark (ऽ), as the print shows it; the Saṃhitā accents are not reproduced. Ṛk 2 is begun here; its Sāyaṇa-bhāṣya starts on the next page.)*
+
+---
+
+**Progress note:** Done through printed p. 725 (PDF 748). Sūkta 14: Ṛk 1 is complete (Viśeṣaviṣayagaḷu closed on p. 725 with Durgācārya's commentary; no grammar section printed for it). Ṛk 2 is open: Saṃhitā and Pada written (the Pada ends "॥ २ ॥"); the Sāyaṇa-bhāṣya, Pratipadārtha and the rest follow on the next page. The varga numeral in the headers of pp. 723 and 725 is read 13 (supports the doubtful reading on p. 721). Numeral references (1-164-16, 1-5, 5-1) agree with the numeral file; none zoomed, no FILE DISAGREE. Doubtful or noted places: "हृत्वामत्रेभिः" and "त्रैर्मद्यं" (p. 723, read as printed, same as p. 720); "सोमद्रव्यं" on p. 724 is clearly printed and seems to correct the p. 720 reading "सोमप्रव्यं"; "रात्रिपर्यायेः" (p. 724, as printed); the compound marks in the Ṛk 2 Pada (वव्रिऽवांसं, अशन्याऽइव, तत्ऽवशाय).
