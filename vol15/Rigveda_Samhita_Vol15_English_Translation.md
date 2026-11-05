@@ -22726,6 +22726,124 @@ it is said that Tvaṣṭṛ is the maker of heaven and earth and the cause of f
 
 *[The window ends here, at the end of p. 735, after this quotation and its reference; the next window continues.]*
 
+### Printed p. 736
+
+*[Running head, p. 736: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 4.]*
+
+[continuing:] Indra says that Kṛṣṇa (so printed, for Tvaṣṭṛ) made for him a thunderbolt of iron. It is said in many mantras of the Ṛgveda that he made the sacrificial implements needed by the gods and many other things. It is well known that Tvaṣṭṛ is one of the twelve Ādityas; therefore Yāska has explained him as "shining". Among the Śruti sentences that state individual opinions about the deity Tvaṣṭṛ, those cited below indicate only the deity belonging to the Āprī sūkta.
+
+⟦ಹೋತಾಯಕ್ಷತ್ತ್ವಷ್ಟಾರಮಚಿಷ್ಟುಮಪಾಕಗ್ಂ ರೇತೋಧಾಂ ವಿಶ್ರವಸಂ ಯಶೋಧಾಂ ।
+ಪುರುರೂಪಮಕಾಮಕರ್ಶನಗ್ಂ ಸುಪೋಷಃ ಪೋಪೈಃ ಸ್ಯಾತ್ಸುವೀರೋ ವೀರೈರ್ವೇತ್ವಾಜ್ಯಸ್ಯ
+ಹೋತರ್ಯಜ ॥⟧
+(printed तै (*tai*). ब्र (*bra*). 3-6-2-2)
+
+In this mantra there are the epithets अचिष्टुं (*aciṣṭuṃ*), अपाकं (*apākaṃ*), रेतोधां (*retodhāṃ*), विश्रवसं (*viśravasaṃ*), यशोधां (*yaśodhāṃ*), पुरुरूपं (*pururūpaṃ*) and अकामकर्शनं (*akāmakarśanaṃ*). Of these:
+
+Acciṣṭuṃ: चेष्टनरहितं, चांचल्यरहितं, स्थिरं (*ceṣṭanarahitaṃ, cāṃcalyarahitaṃ, sthiraṃ*), that is, one who is steady, without restlessness;
+
+Apākaṃ: अजालं, प्राज्ञं । (*ajālaṃ, prājñaṃ |*), that is, not a child but a wise one;
+
+Retodhāṃ: पुत्रादिबीजस्य यजमाने धारयितारं । (*putrādibījasya yajamāne dhārayitāraṃ |*), that is, one who sows the seed of sons and so on in the sacrificer;
+
+Viśravasaṃ: विविधकीर्तियुक्तं । (*vividhakīrtiyuktaṃ |*), that is, one endowed with many kinds of fame;
+
+Yaśodhāṃ: यजमाने यशसः धारयितारं । (*yajamāne yaśasaḥ dhārayitāraṃ |*), that is, one who makes the sacrificer a sharer in fame;
+
+Pururūpaṃ: बहुरूपं (*bahurūpaṃ*), that is, one with many kinds of forms;
+
+Akāmakarśanaṃ (printed in the explanation as अकामकर्तनं (*akāmakartanaṃ*)): कामानां अनाशयितारं । (*kāmānāṃ anāśayitāraṃ |*), that is, one who makes the sacrificer's desired aims fruitful. It is thus explained.
+
+These epithets show Tvaṣṭṛ's individual nature. The Nirukta authors, showing the derivation of the word tvaṣṭṛ (8-14), say
+
+⟦ತ್ವಷ್ಟಾ ತೂರ್ಣಮಶ್ನುತ ಇತಿ ನೈರುಕ್ತಾಃ । ತ್ವಿಷೇರ್ವಾ
+ಸ್ಯಾದ್ದೀಪ್ತಿಕರ್ಮಣಸ್ತ್ವಕ್ಷತೇರ್ವಾ ಸ್ಯಾತ್ ಕರೋತಿಕರ್ಮಣಃ ।⟧
+
+that the name arises from pervading swiftly, according to the Nirukta authors, and
+
+### Printed p. 737
+
+*[Running head, p. 737: Aṣṭaka 2, Adhyāya 8, Varga 23, Ṛgvedasaṃhitā.]*
+
+[continuing:] it may be formed also from the root tviṣ with the sense "to shine", or from the root tvakṣ with the sense of doing. By these derivations it is understood that Tvaṣṭṛ is one who pervades swiftly, one who shines, and a maker. To show to which world this deity belongs they state ⟦ಮಾಧ್ಯಮಿಕಸ್ತ್ವಷ್ಟೇತ್ಯಾಹುರ್ಮಧ್ಯಮೇ ಚ ಸ್ಥಾನೇ ಸಮಾಮ್ನಾತಃ ।
+ಅಗ್ನಿರಿತಿ ಶಾಕಪೂಣಿಃ ।⟧, that some hold him to belong to the group of deities of the atmosphere, and Śākapūṇi that he is Agni. In the Bṛhaddevatā, approving the first view:
+
+⟦ತ್ವಷ್ಟಾ ರೂಪವಿಕರ್ತಾ ಚ ಯೋಽಸೌ ಮಾಧ್ಯಮಿಕೇ ಗಣೇ ।
+ಸ್ತುತಃ ಸ ಚ ನಿಪಾತೇನ ಸೂಕ್ತಂ ತಸ್ಯ ನ ವಿದ್ಯತೇ ।⟧
+(printed बृ (*bṛ*). दे (*de*). 3-25)
+
+in this verse it says he belongs to the group of deities of the middle world. Before this:
+
+⟦ತ್ವಷ್ಟಾ ತು ಯಸ್ತ್ವಯಮೇವ ಪಾರ್ಥಿವೋಗ್ನಿರಿತಿ ಸ್ತುತಿಃ ।
+ಪಾರ್ಥಿವಸ್ಯಾಸ್ಯ ವರ್ಚಃ ಸ್ಯುಃ ಕಸ್ಯಾಪ್ಯಕ್ ಚಾರ್ತವೇಷು ಚ ॥
+ತ್ವಷಿತಸ್ತ್ವಕ್ಷತೇರ್ವಾ ಸ್ಯಾತ್ ತೂರ್ಣಮಶ್ನುತ ಏವ ನಾ ।
+ಕರ್ಮಸೂತ್ತಾರಣೋ ವೇತಿ ತೇನ ನಾಮೈತದಶ್ನುತೇ ॥
+ಯಃ ಸಹಸ್ರತಮೋ ರಶ್ಮೀ ರವೇಶ್ಚಂದ್ರಮುಪಾಶ್ರಿತಃ ।
+ಸೋಽಪಿ ತ್ವಷ್ಟಾರಮೇವಾಗ್ನಿಂ ಪರಂ ಚೇಹ ಚ ಯನ್ಮಧು ॥⟧
+(Bṛ. De. 3-15 to 17)
+
+There are also suggestions in some places that the praise which belongs to the earthly Agni is addressed to Tvaṣṭṛ as a deity connected with the earth. In the sūktas concerned with the seasons too he is described as a part of Agni. Then the Bṛhaddevatā states the very derivation of the word tvaṣṭṛ given in the Nirukta. It also describes that the thousandth ray of the Sun, pervaded by the moon, pervades in honey, in the other world and on the earth, and likewise is in Tvaṣṭṛ. Chiefly the Bṛhaddevatā authors approve in this matter the opinion of Śākapūṇi stated in the Nirukta. In the Nighaṇṭu Tvaṣṭṛ is placed first with the Āprī deities (5-2), then with the deities of the atmosphere (5-5), and first among the deities of the heaven-world (5-6).
+
+The story of Tvaṣṭṛ and the seer Dadhīci has been told in the Special Topics of the sūkta 1-139. In the Aitareya Brāhmaṇa:
+
+⟦ತ್ವಷ್ಟಾರಂ ಯಜತಿ ವಾಗ್ವೈ ತ್ವಷ್ಟಾ ವಾಗ್ಫಿದಂ ಸರ್ವಂ । ತ್ವಾಷ್ಟ್ರಿಂ ವಾಚಮೇವ ಶತ್ರೀಣಾತಿ
+ವಾಚಂ ಯಜಮಾನೇ ದಧಾತಿ ।⟧
+(printed ಇ. ब्रा (*brā*). 2-4)
+
+*[Footnote artefact: in front of the next line the supplied text had the markdown marker "[^1]:", which was removed in kn.md.]*
+
+By this sentence the identity of Tvaṣṭṛ with speech (vāc) is stated; this is another opinion.
+
+*[Stray line as supplied at the foot of p. 737: "47", kept as a note in kn.md.]*
+
+### Printed p. 738
+
+*[Running head, p. 738: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+⟦ಯ ಇಮೇ ದ್ಯಾವಾಪೃಥಿವೀ ಜನಿತ್ರೀ ರೂಪೈರಪಿಂಶದ್ಭವನಾನಿ ವಿಶ್ವಾ ।
+ತಮದ್ಯ ಹೋತರಿಷಿತೋ ಯಜೀಯಾನ್ ದೇವಂ ತ್ವಷ್ಟಾರಮಿಹ ಯಕ್ಷಿ ವಿದ್ವಾನ್ ।⟧
+(Ṛ. Saṃ. 10-110-9)
+
+In this Ṛk it is praised that this deity has a divine birth, and that therefore he shows his antiquity (prāktanatva) even at the times of creation. The purport is that Tvaṣṭṛ is extremely ancient.
+
+इह त्वष्टारमग्रियं विश्वरूपमुपह्वये । अस्माकमस्तु केवलः ॥ (*iha tvaṣṭāramagriyaṃ viśvarūpamupahvaye | asmākamastu kevalaḥ ‖*)
+(Ṛ. Saṃ. 1-13-10)
+
+⟦ತ್ವಷ್ಟಾರಮಗ್ರಜಾಂ ಗೋಪಾಂ ಪುರೋಯಾವಾನಮಾ ಹುವೇ ।
+ಇಂದುರಿಂದ್ರೋ ವೃಷಾ ಹರಿಃ ಪವಮಾನಃ ಪ್ರಜಾಪತಿಃ ॥⟧
+(printed मि (*mi*). सं (*saṃ*). 9-5-9)
+
+In such Ṛks it is understood from the epithets agriya and agraja.
+
+त्वष्टा रूपाणि हि प्रभुः पशून्विश्वान्स्मानजे । तेषां नः स्नातिमा यज । (*tvaṣṭā rūpāṇi hi prabhuḥ paśūnviśvānsmānaje | teṣāṃ naḥ snātimā yaja |*)
+(Ṛ. Saṃ. 1-188-9)
+
+त्वष्टा रूपाणि विकरोति । (*tvaṣṭā rūpāṇi vikaroti |*)
+(Tai. Saṃ. 1-5-9-2)
+
+Such sentences praise Tvaṣṭṛ's work of making. Moreover he has the epithet viśvarūpa (Ṛ. Saṃ. 1-13-10).
+
+*[Image note as supplied in kn.md: "This image contains no text. It is a decorative symbol consisting of two curved lines connected by four circular shapes arranged symmetrically around an empty center."]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> वन॑स्प॒तेऽव॑ सृ॒जोप॑ दे॒वान॒ग्निर्ह॒विः श॑मि॒ता सू॑दयाति ।
+> सेदु॒ होता॑ स॒त्यत॑रो यजाति॒ यथा॑ दे॒वानां॒ जनि॑मानि॒ वेद॑ ॥१०॥
+
+> *vanaspate 'va sṛjopa devānagnirhaviḥ śamitā sūdayāti |*
+> *sedu hotā satyataro yajāti yathā devānāṃ janimāni veda ‖10‖*
+
+*[The supplied text has before the Pada a garbled label "॥ पवपाठ ॥ (*‖ pavapāṭha ‖*)" (for Pada-pāṭha), kept as a note in kn.md; it stood inside the Saṃhitā block, which was split.]*
+
+**॥ पदपाठः ॥**
+
+> वनस्पते । अव । सृज । उप । देवान् । अग्निः । हविः । शमिता । सूदयाति ।
+> सः । इत् । ऊं इति । होता । सत्यतरः । यजाति । यथा । देवानां । जनिमानि ।
+> वेद ॥ १० ॥
+
+*[The window ends here, at the end of p. 738, after the Pada of Ṛk 10; the next window continues with the bhāṣya.]*
+
 ---
 
-**Progress note:** Done through printed p. 735 (PDF 735). Sūkta 4 Ṛk 9 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics so far (Tvaṣṭṛ; Ni. 8-14; 10-110-9; 10-48-3)
+**Progress note:** Done through printed p. 738 (PDF 738). Sūkta 4 Ṛk 9 Special Topics end (Tvaṣṭṛ: Tai. Brā. 3-6-2-2, Ni. 8-14, Bṛ. De. 3-15 to 17, 3-25); Ṛk 10 Saṃhitā and Pada
