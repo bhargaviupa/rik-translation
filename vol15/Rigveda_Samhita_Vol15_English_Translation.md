@@ -15560,6 +15560,133 @@ Seer: हिरण्यगर्भः (*hiraṇyagarbhaḥ*). Deity: 1-2 क�
 > *anvidanumate tvaṃ manyāsmai śaṃ ca naskṛdhi |*
 > *kratve dakṣāya no hinu praṇa āyūṣi tārisat*
 
+### Printed p. 491
+
+*[Running head, p. 491: Aṣṭaka 2, Adhyāya 8, Varga 12, Ṛgvedasaṃhitā.]*
+
+*(The Khila mantras of the Second Maṇḍala continue; the mantras 5 to 8 follow here, with numbers as printed.)*
+
+> धाता ददातु नो रयिमीशानो जगतस्पतिः ।
+> स नः पूर्णेन वावनत् ॥ ५ ॥
+> धाता ददातु दाशुषे वसूनि प्रजाकामाय मीळ्हुषे दुरोणे ।
+> तस्मै देवा अमृताः सं व्ययंतां विश्वे देवासो अदितिः सजोषाः ॥ ६ ॥
+> धाता ददातु दाशुषे प्राचीं जीवातुमक्षितां ।
+> वयं देवस्य धीमहि सुमतिं वाजिनीवतः ॥ ७ ॥
+> धाता प्रजानामुत राय ईशे धातेदं विश्वं भुवनं जजान ।
+> धाता कृष्टीरनिमिवाभिचष्टे धात्र इद्दव्यं धृतवज्जु होत ॥ ८ ॥
+
+**Arthānuvāda (the meaning)**
+
+1. This mantra is the Puronuvākyā mantra of the deity Kuhū. The new-moon day on which the moon is not seen at all is called Kuhū. I invoke in this sacrifice the deity called Kuhū, who is possessed of beautiful wealth and knows sacrifices and the like. May that deity give us the joy of hearing, and wealth and fame belonging to the ancestors. O goddess, we serve you, such as you are, with an oblation.
+
+2. This mantra is the Yājyā mantra of the deity Kuhū. Among the gods this goddess Kuhū is the guardian of immortality or of water. May this goddess, invoked by us, know that the oblation and the cooked offering we make have been prepared for her. Having so known, may she give abundantly to the sacrificer who performs the sacrifice the wealth and nourishment he desires.
+
+3. The full-moon day on which the moon is not complete (ऊनचंद्रा र्पौमासी (*ūnacaṃdrā rpaumāsī*)) is called Anumati. This mantra is the Puronuvākyā mantra of the goddess Anumati. May the goddess Anumati make known to the gods the sacrifice we are now performing. May Agni, the carrier of the oblation to the gods, and Anumati, both of them, bring happiness to the sacrificer who offers the oblation.
+
+4. This mantra is the Yājyā mantra of the goddess Anumati. O goddess Anumati, knowing (or approving) the sacrifice we are performing, bring us happiness. Impel us in the sacrifice we perform for the sake of food, and arrange that we have long life.
+
+5. When the oblation in twelve pans is offered to Dhātṛ in the Devikā sacrifice, this mantra is the Puronuvākyā mantra of Dhātṛ. This mantra is in the Gāyatrī metre. May Dhātṛ (the Supreme Lord), who sustains and nourishes the whole world, give us wealth. That deity is the lord and protector of the world. May such a Dhātṛ bring us complete happiness.
+
+### Printed p. 492
+
+*[Running head, p. 492: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 43 [printed "ಸಯಣ…", a misspelled head: the page marker and heading were inserted by hand and p. 492 added to the window].]*
+
+6. This mantra is the Yājyā mantra of the deity Dhātṛ. May that Dhātṛ give wealth to the sacrificer, a householder who desires progeny, who has offered the oblation. For that sacrificer may the immortal gods, the Viśvedevas, and Aditi, mother of the gods, all together, being of equal affection, bring together wealth and the like.
+
+7. This Ṛk and the next may be used alternatively as Anuvākyā and Yājyā mantras. May this Dhātṛ give us the unfailing wealth needed for life. May we, wishing for food, hold, that is, show, a good disposition towards this god.
+
+8. This is a Yājyā mantra used alternatively. This Dhātṛ is lord over the giving to the sacrificer of progeny, that is of sons, grandsons and so on, and over wealth. This Dhātṛ has produced all these worlds. This god will give the sacrificer a son. The main intent is: we shall offer an oblation with ghee addressed to this god Dhātṛ.
+
+All these mantras, with slight differences, are read in the Taittirīya Saṃhitā (Tai. Saṃ. 3-3-11-2, 3, 4, 5).
+
+*[Stray line in the supplied text: "- 2453 -", kept as a note in kn.md.]*
+
+**The Pariśiṣṭa mantras to be recited at the end of the Second Maṇḍala.**
+
+> भद्रं वद दक्षिणतो भद्रमुत्तरतो वद ।
+> भद्रं पुरस्तान्नो वद भद्रं पश्चात् कपिंजल ॥ १ ॥
+> भद्रं वद पुत्रैर्भद्रं वद गृहेषु च ।
+> भद्रमस्माकं नो वद भद्रं नो अभयं वद ॥ २ ॥
+> भद्रमधस्तान्नो वद भद्रमुपरिष्टान्नो वद ।
+> भद्रंभद्रं न आ वद भद्रं नः सर्वतो वद ॥ ३ ॥
+> असपत्नः पुरस्तान्नः शिवं दक्षिणतस्कृधि ।
+> अभयं सततं पश्चाद्भद्रमुत्तरतो गृहे ॥ ४ ॥
+> यौवनानि महयसि जिग्गुषामिव दुंदुभिः ।
+> शकुंतक प्रदक्षिणं शतपत्राभि नो वद ॥ ५ ॥
+> आवदंस्त्वं शकुने भद्रमा वद तूष्टीमासीनः सुमतिं चिकिद्दि नः ।
+> यदुत्पतन् वदसि कर्करियथा बृहद्वदेम विदथे सुवीराः ॥ ६ ॥
+
+> *bhadraṃ vada dakṣiṇato bhadramuttarato vada |*
+> *bhadraṃ purastānno vada bhadraṃ paścāt kapiṃjala ‖ 1 ‖*
+> *bhadraṃ vada putrairbhadraṃ vada gṛheṣu ca |*
+> *bhadramasmākaṃ no vada bhadraṃ no abhayaṃ vada ‖ 2 ‖*
+> *bhadramadhastānno vada bhadramupariṣṭānno vada |*
+> *bhadraṃbhadraṃ na ā vada bhadraṃ naḥ sarvato vada ‖ 3 ‖*
+> *asapatnaḥ purastānnaḥ śivaṃ dakṣiṇataskṛdhi |*
+> *abhayaṃ satataṃ paścādbhadramuttarato gṛhe ‖ 4 ‖*
+> *yauvanāni mahayasi jigguṣāmiva duṃdubhiḥ |*
+> *śakuṃtaka pradakṣiṇaṃ śatapatrābhi no vada ‖ 5 ‖*
+> *āvadaṃstvaṃ śakune bhadramā vada tūṣṭīmāsīnaḥ sumatiṃ cikiddi naḥ |*
+> *yadutpatan vadasi karkariyathā bṛhadvadema vidathe suvīrāḥ ‖ 6 ‖*
+
+### Printed p. 493
+
+*[Running head, p. 493: Aṣṭaka 2, Adhyāya 8, Varga 12, Ṛgvedasaṃhitā.]*
+
+**Arthānuvāda (the meaning).** O kapiñjala bird, in order that good fortune come to us, utter only auspicious sound in the south, in the north, in front and behind. Speak an auspicious word so that it is well with our sons and our houses. Say that it be well with us and that no fear arise. Speak so that auspiciousness arises below us, above us and everywhere. Make it so that there is no enemy before us, that there is good fortune in the south, that for us there is always no fear, and that good fortune is in the north and in the house. O bird Śakunta, as you move about, provide us with the strength and capacity of youth and success in battles and the like. O kapiñjala bird, as you make a sound, utter welfare. When you sit silent, wish for our good. When singing, let your voice be sweet like the instrument called Karkari. In the sacrificial hall, praising your qualities abundantly, we shall recite your praise together with our sons, grandsons and so on.
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative symbol or doodle consisting of wavy lines and geometric shapes." (an ornament), kept as a note.]*
+
+**Colophon of the Second Maṇḍala (Sanskrit):**
+
+> इति सायणाचार्यविरचिते माधवीये
+> वेदार्थप्रकाशे द्वितीयाष्टके द्वितीये मंडले
+> चतुर्थोऽनुवाकः
+> समाप्तं च द्वितीयं मंडलं ॥
+
+> *iti sāyaṇācāryaviracite mādhavīye*
+> *vedārthaprakāśe dvitīyāṣṭake dvitīye maṃḍale*
+> *caturtho 'nuvākaḥ*
+> *samāptaṃ ca dvitīyaṃ maṃḍalaṃ ‖*
+
+**Kannada closing line:** इल्लिगॆ ऎरडनॆय मंडलवु समाप्तवादुदु. (*illigè èraḍanèya maṃḍalavu samāptavādudu.*) ("Here the Second Maṇḍala is completed.")
+
+> ॥ शुभं भूयात् ॥
+
+> *‖ śubhaṃ bhūyāt ‖*
+
+### Printed p. 494
+
+*[Running head, p. 494: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+## Maṇḍala 3
+
+*The Third Maṇḍala.*
+
+> ॥ श्रीः ॥
+> अथ तृतीयं मंडलं
+
+> *‖ śrīḥ ‖*
+> *atha tṛtīyaṃ maṃḍalaṃ*
+
+*[Ornament line in the supplied text: "— ❖ ❖ ❖ —" and the Kannada heading मूरनॆय मंडलवु (*mūranèya maṃḍalavu*) ("The Third Maṇḍala"); stray lines "ಪಿ ೧ ೦ ಕೆ." and "—" kept as a note in kn.md.]*
+
+**Pīṭhike (Introduction) to the Third Maṇḍala**
+
+The seer of the Third Maṇḍala of the Ṛgveda is Viśvāmitra, one of the seven seers. Although Viśvāmitra is well known as the seer of this maṇḍala, Viśvāmitra is the seer only of the following Ṛks: sūktas 1-12 of this maṇḍala (140 Ṛks in all); sūktas 24-32 (117 Ṛks); in sūkta 33, Ṛks 1-3, 5, 7, 9, 11-13 (9 Ṛks in all); sūktas 34-35 (22 Ṛks); in sūkta 36, Ṛks 1-9, 11 (10 Ṛks in all); sūktas 37-53 (144 Ṛks); sūktas 57-62 (56 Ṛks); and in sūkta 67 of the ninth maṇḍala Ṛks 13-15 (3 Ṛks); all these together make 501 Ṛks. For the other Ṛks remaining in this maṇḍala, others of Viśvāmitra's lineage are the seers. In the present part, sūktas 1-6 of this maṇḍala are included.
+
+Concerning the sage Viśvāmitra, Yāska says in his Nirukta—
+
+⟦(ಒಟ್ಟು ೧೪೦ ಋಕ್ಕುಗಳು); ೨೪-೩೨ ಸೂಕ್ತಗಳು (೧೧೭ ಋಕ್ಕುಗಳು); ೩೩ ನೇ ಸೂಕ್ತದಲ್ಲಿ ೧-೩, ೫, ೭, ೯,
+೧೧-೧೩ ಋಕ್ಕುಗಳು (ಒಟ್ಟು ೯ ಋಕ್ಕುಗಳು); ೩೪-೩೫ ಸೂಕ್ತಗಳು (೨೨ ಋಕ್ಕುಗಳು); ೩೬ ನೆಯ ಸೂಕ್ತದಲ್ಲಿ
+೧-೯, ೧೧ ಋಕ್ಕುಗಳು (ಒಟ್ಟು ೧೦ ಋಕ್ಕುಗಳು); ೩೭-೫೩ ಸೂಕ್ತಗಳು (೧೪೪ ಋಕ್ಕುಗಳು); ೫೭-೬೨ ಸೂಕ್ತ
+ಗಳು (೫೬ ಋಕ್ಕುಗಳು); ಒಂಭತ್ತನೆಯ ಮಂಡಲದ ೬೭ ನೆಯ ಸೂಕ್ತದಲ್ಲಿ ೧೩-೧೫ ಋಕ್ಕುಗಳು (೩ ಋಕ್ಕುಗಳು)
+ಇವೆಲ್ಲವೂ ಸೇರಿ ಆಗುವ ೫೦೧ ಋಕ್ಕುಗಳಿಗೆ ಮಾತ್ರ ವಿಶ್ವಾಮಿತ್ರನು ಋಷಿಯು ಈ ಮಂಡಲದಲ್ಲಿ ಉಳಿದಿರುವ
+ಇತರ ಋಕ್ಕುಗಳಿಗೆ ವಿಶ್ವಾಮಿತ್ರ ವಂಶಸ್ಥರಾದ ಇತರರು ಋಷಿಗಳು. ಪ್ರಸಕ್ತವಾದ ಈ ಭಾಗದಲ್ಲಿ ಈ ಮಂಡಲದ⟧
+(Si. [as printed] 9-24)
+
+—stating an ancient story. विश्वामित्र (*viśvāmitra*) means that this seer is a friend to all or all are his friends: such is the component sense of the word. This seer was the priest of a king named Sudās, son of Pijavana. Once, taking the wealth given by that king and setting out to go to his hermitage, he came to the confluence of the rivers Vipāś and Śutudri (of the Panjab
+
 ---
 
-**Progress note:** Done through printed p. 490 (PDF 490). Sukta 43 Rik 2 printed English and Special Topics finished (p. 488); Rik 3 complete (pp. 488-490); first Khila (Parisishta) mantras of Mandala 2 (Kuhu, Anumati) begin on p. 490 as a block and break off mid-mantra. No maṇḍala closing line yet. Flags: garbled line before Pada kept as note; tushti/tushni spellings as supplied; 1 accent DIFF
+**Progress note:** Done through printed p. 494 (PDF 494). Second Mandala ends: Khila mantras 5-8 and the Arthanuvada (p. 491-492), end-of-mandala mantras (p. 492), Sanskrit colophon and Kannada closing line (p. 493); Third Mandala begins p. 494 (heading, invocation, Pithike to Viswamitra) breaking off mid-sentence. p. 492 merged into p. 491 text, marker inserted by hand. Flags: Si. 9-24 printed; stray lines kept as notes
