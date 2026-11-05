@@ -7663,6 +7663,108 @@ Maruts, your moryeallous [sic] energy is well known, whereby, seizing the udder 
 > *tān | vaḥ | mahaḥ | marutaḥ | evyāvnaḥ | viṣṇoḥ | eṣasya | prabhṛthe | havāmahe |*
 > *hiraṇyavarṇān | kakuhān | yatasrucaḥ | brahmaṇyaṃtaḥ | śaṃsyaṃ | rādhaḥ | īmahe ‖*
 
+### Printed p. 248
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुत एवयान्न एवं गंतव्यं स्तोत्रं यज्ञं वा गंत्र्यन् महो
+> महतो महानुभावांस्तान्वो युष्मान्विष्टोर्व्यापकस्य ग्रहचमसादिषु सर्वत्र
+> व्याप्य वर्तमानस्यैषस्यॆषणीयस्य प्रार्थनीयस्य सोमस्य प्रभृथे प्रभरणेऽभिष-
+> वादिभिः प्रकर्षेण संपादने सति हवामहे । आह्वयामहे । आहूय च हिरण्य-
+> वर्णान् हितरमणीयवर्णान्वा ककुहान् श्रेष्ठान् स्तुत्यान्वा एवंभूतांस्तान्
+> यतस्रुचो यागायोद्यतस्रुचो ब्रह्मण्यंतः । ब्रह्म स्तोत्रं । तदिच्छंतो वयं
+> शंस्यं प्रशंसनीयं राधो धनमीमहे । याचामहे ॥
+
+> *he maruta evayānna evaṃ gaṃtavyaṃ stotraṃ yajñaṃ vā gaṃtryan maho*
+> *mahato mahānubhāvāṃstānvo yuṣmānviṣṭorvyāpakasya grahacamasādiṣu sarvatra*
+> *vyāpya vartamānasyaiṣasyèṣaṇīyasya prārthanīyasya somasya prabhṛthe prabharaṇe 'bhiṣa-*
+> *vādibhiḥ prakarṣeṇa saṃpādane sati havāmahe | āhvayāmahe | āhūya ca hiraṇya-*
+> *varṇān hitaramaṇīyavarṇānvā kakuhān śreṣṭhān stutyānvā evaṃbhūtāṃstān*
+> *yatasruco yāgāyodyatasruco brahmaṇyaṃtaḥ | brahma stotraṃ | tadicchaṃto vayaṃ*
+> *śaṃsyaṃ praśaṃsanīyaṃ rādho dhanamīmahe | yācāmahe ‖*
+
+Gist: We call the Maruts to the preparation of Soma in the cups; holding up our ladles and wishing to praise, we ask for praiseworthy wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+मरुतः (*marutaḥ*)—O Maruts; एवयाव्यः (*evayāvyaḥ*)—who come toward our sacrifice; महः (*mahaḥ*)—of great majesty; तान् वः (*tān vaḥ*)—you; विष्णोः (*viṣṇoḥ*)—that pervades the cups and the rest; एषस्य (*eṣasya*)—desirable (Soma); प्रभृथे (*prabhṛthe*)—for the sake of its preparation; हवामहे (*havāmahe*)—we call; and हिरण्यवर्णान् (*hiraṇyavarṇān*)—golden-hued; ककुहान् (*kakuhān*)—excellent, those Soma vessels; यतस्रुचः (*yatasrucaḥ*)—we who hold up the ladles for the sacrifice; ब्रह्मण्यंतः (*brahmaṇyaṃtaḥ*)—and are possessed of praise; शंस्य (*śaṃsya*)—praiseworthy; राधः (*rādhaḥ*)—wealth; ईमहे (*īmahe*)—we ask.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, you who come toward our sacrifice and are of great majesty, we call for the sake of the preparation of the desirable Soma that fills the cups and the rest. And we, who hold up the ladles for the sacrifice toward those golden-hued, excellent Soma vessels and are possessed of praise, ask for praiseworthy wealth.
+
+**Printed English translation**
+
+We invoke you, mighty Maruts, who frequent such sacrifices (as this, to be present) at the offering of the diffusive and desirable (libation): lifting up our ladles, and reciting their praise, we solicit the golden-hued and lofty Maruts for excellent wealth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing the Marut deities with हे मरुतः (*he marutaḥ*), the passage एवयाव्यः महः वः विष्णोः ऐषस्य प्रभृथे हवामहे (*evayāvyaḥ mahaḥ vaḥ viṣṇoḥ aiṣasya prabhṛthe havāmahe*) is explained: एवं गंतव्यं स्तोत्रं यज्ञं वा गन्तान् महानुभावान् (*evaṃ gaṃtavyaṃ stotraṃ yajñaṃ vā gantān mahānubhāvān*)
+
+### Printed p. 249
+
+युष्मान् ग्रहचमसादिषु सर्वत्र व्याप्य वर्तमानस्य प्रार्थनीयस्य सोमस्य अभिषवादिभिः प्रकर्षण संपादने सति आह्वयामहे (*yuṣmān grahacamasādiṣu sarvatra vyāpya vartamānasya prārthanīyasya somasya abhiṣavādibhiḥ prakarṣaṇa saṃpādane sati āhvayāmahe*). It is described thus: the sacrificers invite the Marut deities, of abundant majesty, who come on hearing the praise recited under a particular discipline, or who come to sacrifices performed in the prescribed manner, after the Soma has been prepared by pressing and the other rites, filling the vessels called graha or camasa, in which oblations are offered in the fire, and Soma being worthy of praise.
+
+ककुर्हा (*kakurhā*) [sic]—श्रेष्ठा स्तुत्यान् वा (*śreṣṭhā stutyān vā*): the word कुकुह (*kukuha*) [sic] is read by Yāska among the words for "great" (Nirukta 3-13). The Maruts are described as superior to all by their majesty (excellent), or as worthy of praise. And हिरण्यवर्णान् (*hiraṇyavarṇān*)—हितरमणीयवर्णान् (*hitaramaṇīyavarṇān*): of a colour pleasing to all, or of a charming radiance; having the bodily lustre of gold: so the Maruts are described.
+
+ब्रह्मण्यंतः यतस्रुचः (*brahmaṇyaṃtaḥ yatasrucaḥ*)—ब्रह्म स्तोत्रं तदिच्छंतः उद्यतस्रुचः (*brahma stotraṃ tadicchaṃtaḥ udyatasrucaḥ*): it is described that at the time of the sacrifice the priests recite the praises and hold up in their hands the vessels with which the oblation full of offerings is poured.
+
+शंस्यं राधः ईमहे (*śaṃsyaṃ rādhaḥ īmahe*)—प्रशंसनीयं धनं प्रार्थयामहे (*praśaṃsanīyaṃ dhanaṃ prārthayāmahe*): it is explained that in the sacrifices the sacrificers and priests invite the Maruts, fill the vessels used for the oblation with the offering-material and make them ready, stand ready to pour the oblation in the fire, offer the oblation to the Maruts, and then pray that excellent wealth be given.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> ते दश॑ग्वाः प्रथ॒मा य॒ज्ञमू॑हिरे॒ ते नो॑ हिन्वंतू॒षसो॒ व्यु॑ष्टिषु ।
+> उ॒षा न रा॒मीर॑रु॒णैरपो॑र्णुते म॒हो ज्योति॑षा शुच॒ता॑
+> गोअर्णसा ॥ १२ ॥
+
+> *te daśagvāḥ prathamā yajñamūhire te no hinvaṃtūṣaso vyuṣṭiṣu |*
+> *uṣā na rāmīraruṇairaporṇute maho jyotiṣā śucatā*
+> *goarṇasā ‖ 12 ‖*
+
+### Printed p. 250
+
+**॥ पदपाठः ॥**
+
+> ते । दशग्वाः । प्रथमाः । यज्ञं । ऊहिरे । ते । नः । हिन्वंतु । उषसः । विउष्टिषु ।
+> उषाः । न । रामीः । अरुणैः । अप । ऊर्णुते । महः । ज्योतिषा । शुचता ।
+> गोऽर्णसा ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतो दशग्वाः । ये दशभिर्मासैः सिद्धिं गता अंगिरसस्तद्रूपा भूता
+> प्रथमा आदित्येभ्यः प्रथमभाविनः संतो यज्ञमूहिरे । अवहन् । आदित्यानामंगि-
+> रसां च स्वर्गगमनं प्रति स्पर्धमानानां मध्यॆ पूर्वमेवांगिरसो यागाननु-
+> ष्ठाय स्वर्गं प्राप्ताः । तथा च श्रूयते । आदित्याश्चैवेहासन्नंगिरसश्च तेऽग्रेऽग्नि-
+> नाग्निमयजंतेति । तादृशास्त्र उषसो व्युष्टिषु विवासेषु प्रभातेषु सत्सु
+> नोऽस्मान् हिन्वंतु । प्रेरयंतु ॥ हि गतौ वृदौ च ॥ रामीः कृष्णवर्णा रात्रिरुषा
+> न यथोषा अरुणैरारोचमानैः स्वतेजोभिरपोर्णुते । अपवृणोत्यपसारयति।
+> तथा महो महता शुचता दीप्यमानेन गोअर्णसा गच्छदुदकेन ; ज्योतिषा
+> सूर्याख्येन तमो निवारयंति । सूर्यमंडलमावृण्वतो वृत्रादीन् हत्वा
+> सर्वं जगत्पकाशयंतीत्यर्थः ॥
+
+> *he maruto daśagvāḥ | ye daśabhirmāsaiḥ siddhiṃ gatā aṃgirasastadrūpā bhūtā*
+> *prathamā ādityebhyaḥ prathamabhāvinaḥ saṃto yajñamūhire | avahan | ādityānāmaṃgi-*
+> *rasāṃ ca svargagamanaṃ prati spardhamānānāṃ madhyè pūrvamevāṃgiraso yāgānanu-*
+> *ṣṭhāya svargaṃ prāptāḥ | tathā ca śrūyate | ādityāścaivehāsannaṃgirasaśca te 'gre 'gni-*
+> *nāgnimayajaṃteti | tādṛśāstra uṣaso vyuṣṭiṣu vivāseṣu prabhāteṣu satsu*
+> *no 'smān hinvaṃtu | prerayaṃtu ‖ hi gatau vṛdau ca ‖ rāmīḥ kṛṣṇavarṇā rātriruṣā*
+> *na yathoṣā aruṇairārocamānaiḥ svatejobhiraporṇute | apavṛṇotyapasārayati|*
+> *tathā maho mahatā śucatā dīpyamānena goarṇasā gacchadudakena ; jyotiṣā*
+> *sūryākhyena tamo nivārayaṃti | sūryamaṃḍalamāvṛṇvato vṛtrādīn hatvā*
+> *sarvaṃ jagatpakāśayaṃtītyarthaḥ ‖*
+
+Gist: The Maruts, in the form of the Aṅgirases who attained success in ten months, performed the sacrifice before the Ādityas; may they urge us at dawn, as Uṣas drives away the dark nights with her ruddy lights.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ते (*te*)—those same Maruts; दशग्वाः (*daśagvāḥ*)—having taken the form of the Aṅgirases who attained success in ten months; प्रथमाः (*prathamāḥ*)—ready before the Ādityas; यज्ञमूहिरे (*yajñamūhire*)—carried out the sacrifice; ते (*te*)—those same Maruts; उषसः (*uṣasaḥ*)—of Uṣas; व्युष्टिषु (*vyuṣṭiṣu*)—at the time of her manifestation; नः (*naḥ*)—us; हिन्वंतु (*hinvaṃtu*)—may they urge on; रामिाः (*rāmiāḥ*) [as printed]—the dark-coloured nights; उषाः (*uṣāḥ*)—Uṣas; अरुणैः (*aruṇaiḥ*)—with attractive lights; अपोर्णुते न (*aporṇute na*)—as she drives away and destroys (so also the Maruts); महः (*mahaḥ*)—great; शुचता (*śucatā*)—shining; गोअर्णसा (*goarṇasā*)—drawing up the water in the form of mist; ज्योतिषा (*jyotiṣā*)—with the light called the Sun (they destroy the darkness).
+
+**भावार्थ (Bhāvārtha)**
+
+Those same Maruts, having taken the form of the Aṅgirases who attained success in ten months, were ready before the Ādityas and carried out the sacrifice. May those same Maruts urge us at the time of the manifestation of Uṣas. Uṣas drives away the dark-coloured nights with her attractive
+
 ---
 
-**Progress note:** Done through printed p. 247 (PDF 247). Sūkta 34 Ṛk 9 Bhāvārtha, printed English, Special Topics (p. 245); Ṛk 10 complete (pp. 245-247); Ṛk 11 Saṃhitā and Pada (p. 247). Fixes to kn.md: stray lines '1 ಭಾನುವಾರ' and '-reverbs-' removed, '॥ ಶ್ರೀಪಾದಪದ್ಮ ॥' line removed, Pratipadārtha/Bhāvārtha labels inserted and un-quoted; printed English misprints 'grant ers', 'moryeallous' marked [sic]; no [?]
+**Progress note:** Done through printed p. 250 (PDF 250). Sūkta 34 Ṛk 11 bhāṣya through Special Topics (pp. 248-249); Ṛk 12 Saṃhitā, Pada, bhāṣya, Pratipadārtha and start of Bhāvārtha (p. 250, ends mid-sentence; continues next window). kn.md fixes: Pratipadārtha/Bhāvārtha split out of bhāṣya block and un-quoted, garbled labels replaced, 'This image contains' line removed; gist ≤25 words; no [?]
