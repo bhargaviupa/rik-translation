@@ -18373,6 +18373,135 @@ He has filled both heaven and earth and the spacious firmament, he whom the perf
 
 सः वाजसातये अध्वराय परिणीयते (*saḥ vājasātaye adhvarāya pariṇīyate*)—that Agni is carried from the place of churning to the northern altar for the sacrificial rites performed to gain food. The rite of carrying Agni with mantras to the northern altar immediately after the churning is called agnipraṇayana. It is important among the sacrificial rites. It is explained at length in the Aitareya Brāhmaṇa. Accordingly we have explained this rite at length in Part 14, pages 541 to 549 (printed so with Latin digits).
 
+### Printed p. 582
+
+*[Running head, p. 582: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> न॒म॒स्यत॑ ह॒व्यदा॑तिं स्वध्व॒रं दु॑व॒स्यत॒ दम्यं॑ जा॒तवे॑दसं ।
+> र॒थीर्यु॒तस्य॑ बृह॒तो विच॑र्षणिर॒ग्निर्दे॒वाना॑मभवत्पु॒रोहि॑तः ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> नमस्यत । हव्यदातिं । सुअध्वरं । दुवस्यत । दम्यं । जातवेदसं ।
+> रथीः । ऋतस्य । बृहतः । विचर्षणिः । अग्निः । देवानां । अभवत् । पुरःहितः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> रथीर्नेता बृहतो महत ऋतस्य यज्ञस्य विचर्षणिर्द्रष्टा योऽग्निर्देवानां पुरोहितः पुरस्ताद्दृष्टव्यतया स्थापितोऽभवत् हव्यदातिं देवेभ्यो
+> हविषां दातारं स्वध्वरं शोभनयज्ञं दम्यं दमेभ्यो गृहेभ्यो हितं जातवेदसं जातप्रज्ञं तमग्निं नमस्यत । पूजयत । दुवस्यत । परिचरत ॥
+
+*(Gist: worship Agni, who bears the oblations, is of good sacrifice, friendly to houses and wise; he was placed in front of the gods as leader and seer of the great sacrifice.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Rathīḥ: the leader. Bṛhataḥ: of the great. Ṛtasya: sacrifice. Vicarṣaṇiḥ: the overseer. Agniḥ: Agni. Devānāṃ: for the gods. Purohitaḥ: as the foremost leader. Abhavat: has been established. Havyadātiṃ: him who offers the oblation (to the gods). Svadhvaraṃ: the excellent performer of the sacrifice. Damyaṃ: him who is good for the house. Jātavedasaṃ: Agni, of far-reaching knowledge. Namasyata: worship. Duvasyata: and serve.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni, the leader and overseer of the great sacrifice, has been established as the priest of the gods. Worship Agni, who offers the oblation to the gods, is the excellent performer of the sacrifice, is good for the house and is of far-reaching knowledge. Serve him.
+
+**Printed English translation**
+
+Reverence the bearer of oblations (to the gods), him whose sacrifice is acceptable; worship him by whom all that exists is known, who is friendly to our dwellings; for Agni is the conductor of the great sacrifice, the beholder of all, who has been placed in front of the gods.
+
+### Printed p. 583
+
+*[Running head, p. 583: Aṣṭaka 2 (printed ಆ.), Adhyāya 8 (printed ಆ.), Varga 18, Ṛgvedasaṃhitā (printed ಮುಗ್ವೇದಸಂಹಿತಾ, apparently a misprint or reading slip). In the supplied text this head was not recognised, so p. 583 was merged into the text of p. 582; the page marker and heading were inserted by hand and the page added to pages.json.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Vicarṣaṇiḥ—since the word vicarṣaṇa is read among the verbs of seeing, this word means one who sees (Ni. 3-13).
+
+Svadhvaraṃ—Yāska explains the word adhvara: ⟦ಅಧ್ವರ ಇತಿ ಯಜ್ಞನಾಮ । ಧ್ವರತಿರ್ಹಿಂಸಾಕರ್ಮಾ
+ತತ್ಪ್ರತಿಷೇಧಃ ।⟧ That is, the root dhvar denotes harmful action, and adhvara means a sacrifice free from harmful action: so he states the explanation (Ni. 1-8). Since it is su + adhvara here, the sense is an excellent sacrifice, or one who carries out the sacrifice.
+
+Damyaṃ—the word dame is read among the names of the house (Ni. 3-13). Damya may be said to mean connected with the house, dwelling in the house, good for the house, and so on.
+
+Jātavedasaṃ—जातानां वेदितारं जातप्रज्ञं जातबलं वा । (*jātānāṃ veditāraṃ jātaprajñaṃ jātabalaṃ vā |*) Sāyaṇa has explained three kinds of meaning for the word jātavedaḥ, which indicates the nature of Agni: one who knows all that is born, one who has the intellectual power by which everything natural can be known, and one who has abundant power. Yāska says in the Nirukta—
+
+⟦ಜಾತಾನಿ ವೇದ । ಜಾತಾನಿ ನೈನಂ ವಿದುಃ । ಜಾತೇ ಜಾತೇ ವಿದ್ಯತ ಇತಿ ವಾ । ಜಾತವಿತ್ತೋ ನಾ
+ಜಾತಧನಃ । ಜಾತವಿದ್ಯೋ ವಾ ಜಾತಪ್ರಜ್ಞಾನಃ ।⟧
+(printed ಸಿ. 7-20, i.e. Ni. 7-20)
+
+In this world, once born, there is nothing that he does not know; therefore Agni is all-knowing. All born creatures know Agni; therefore he is fit to be known by all.
+
+⟦ಯತ್ತಜ್ಜಾತಃ ಪಶೂನವಿಂದತೇತಿ ತಜ್ಜಾತವೇದಸೋ ಜಾತವೇದಸ್ತ್ವಮಿತಿ ಬ್ರಾಹ್ಮಣಂ ತಸ್ಮಾತ್
+ಸರ್ವಾನೃತೂನ್ ಪಶವೋಽಗ್ನಿಮಭಿ ಸರ್ಪಂತೀತಿ ಚ ॥⟧
+
+This Śruti sentence says clearly that Agni pervades everything that is born. Having explained that Agni is possessed of wealth and that by nature Agni is full of knowledge, thus describing Agni's form and nature, he continues:
+
+⟦ಜಾತವೇದಸೇ ಸುನವಾಮ ಸೋಮಮರಾತೀಯತೋ ನಿ ದಹಾತಿ ವೇದಃ ।
+ಸ ನಃ ಪರ್ಷದತಿ ದುರ್ಗಾಣಿ ವಿಶ್ವಾ ನಾವೇವ ಸಿಂಧುಂ ದುರಿತಾತ್ಯಗ್ನಿಃ ॥⟧
+(printed ಮ. ಸಂ. 1-99-1, i.e. Ṛ. Saṃ. 1-99-1)
+
+And—
+
+### Printed p. 584
+
+*[Running head, p. 584: Sāyaṇabhāṣyasahitā, Maṃ. 3 (printed ಮೆ.), A. 1, Sū. 2.]*
+
+प्र नूनं जातवेदसमश्वं हिनोत वाजिनं । इदं नो बर्हिरासदे ॥ (*pra nūnaṃ jātavedasamaśvaṃ hinota vājinaṃ | idaṃ no barhirāsade ‖*)
+(Ṛ. Saṃ. 10-188-1)
+
+With these Ṛks he has explained also how Agni, called Jātavedas, is praised. And—
+
+⟦ತದೇತದೇಕಮೇವ ಜಾತವೇದಸ್ಯಂ ಗಾಯತ್ರಂ ತೃಚಂ ದಶತತೀಷು ವಿದ್ಯತೇ । ಯತ್ತು
+ಕಿಂಚಿದಾಗ್ನೇಯಂ ತಜ್ಞಾತವೇದಸಾನಾಂ ಸ್ಥಾನೇ ಯುಜ್ಯತೇ ॥⟧
+(printed ನಿ. 7-20)
+
+There are only three Ṛks in the Gāyatrī metre connected with Jātavedas, beginning with the words of the Ṛk quoted just above; there are no other Gāyatrī Ṛks which indicate Agni Jātavedas, and no application in rites. Therefore Agni himself is designated by the word jātavedāḥ.
+
+⟦ಸ ನ ಮನ್ಯೇತಾಯಮೇವಾಗ್ನಿರಿತ್ಯಪ್ಯೇತೇ ಉತ್ತರೇ ಜ್ಯೋತಿಷೀ ಜಾತವೇದಸೀ ಉಚ್ಯೇತೇ
+ತತೋ ನು ಮಧ್ಯಮಃ । ಅಭಿ ಪ್ರವಂತ ಸಮನೇವ ಯೋಷಾ ಇತಿ ತತ್ ಪುರುಸ್ತಾದ್ವಾಖ್ಯಾತಮಥಾಸಾವಾದಿತ್ಯ ಉದುತ್ಯಂ ಜಾತವೇದಸಮಿತಿ ತದುಪರಿಷ್ಟಾದ್ವಾಖ್ಯಾಸ್ಯಾಮಃ ॥⟧
+
+Although the nature of Agni is also described by the mantra अभि प्रवंत समनेव योषा (*abhi pravaṃta samaneva yoṣā*), in considering the meaning of the word jātavedas the word agni (the word used in the mantra beginning thus) is an epithet of the meaning of the word jātavedas; and by the mantra उदुत्यं जातवेदसं (*udutyaṃ jātavedasaṃ*) the Sun too is indicated by the word jātavedas: this is the sense. Durgācārya says—
+
+⟦ಜಾತವೇದಸಂ ಸೂರ್ಯಮುದ್ವಹಂತೀತಿ ತು ವಿಶೇಷಣವಿಶೇಷ್ಯಸಾಮಾನ್ಯಾಧಿಕರಣೈಕವಾಕ್ಯ
+ಪ್ರಸಿದ್ಧ್ಯಾ ಸ್ವನಿಗಮಸಿದ್ಧಮಸ್ಮಿನ್ ಮಂತ್ರೇ ಚಾತವೇದಾಃ ಸೂರ್ಯ ಇತಿ ॥⟧
+
+In the mantra उदुत्यं जातवेदसं (*udutyaṃ jātavedasaṃ*), in order to teach the identity of the Sun with the Agni called Jātavedas, he accepts a single sentence in the relation of qualifier and qualified, and discusses and describes the meaning that the Sun too is Jātavedas. And—
+
+⟦ಯಸ್ತು ಸೂಕ್ತಂ ಭಜತೇ ಯಸ್ಮೈ ಹವಿರ್ನಿರೂಪ್ಯತೇ ಅಯಮೇವ ಸೋಗ್ನಿರ್ಜಾತವೇದಾ
+ನಿಪಾತಮೇವೈತೇ ಉತ್ತರೇ ಜ್ಯೋತಿಷೀ ಏತೇನ ನಾಮಧೇಯೇನ ಭಜೇತೇ ॥⟧
+(printed ನಿ. 7-20)
+
+The Agni indicated by the word jātavedas in his terrestrial form is the one who, invoked in the sacrifices by the respective sūkta mantras, receives the oblations. Although lightning fire, Vaiśvānara fire and the Sun are varieties of Agni, or are indicated by the word jātavedas, the word jātavedas by usage indicates the terrestrial fire: so he has explained.
+
+### Printed p. 585
+
+*[Running head, p. 585: Aṣṭaka 2, Adhyāya 8, Varga 18, Ṛgvedasaṃhitā.]*
+
+⟦ಜಾತಾನಿ ವೇದ । ಜಾತಾನಿ ವೈನಂ ವಿದುಃ, ಜಾತೇ ಜಾತೇ ವಿದ್ಯತ ಇತಿ ವಾ; ಜಾತವಿತ್ತೋ ವಾ
+ಜಾತಧನೋ ವಾ ಜಾತವಿದ್ಯೋ ವಾ ಜಾತಜ್ಞಾನಃ ।⟧ The Nirukta authors have explained that it can be taken to mean one who knows all that is born, or that all that is born knows him, or that he pervades and is present in everything born, or that he possesses all the wealth that is born, or that he has the intelligence that knows everything (Ni. 7-19).
+
+The Bṛhaddevatā too has explained clearly the nature and the places of Jātavedas—
+
+⟦ಇಹಾಗ್ನಿಭೂತಸ್ತ್ವೃಷಿಭಿರ್ಲೋಕೇ ಸ್ತುತಿಭಿರೀಳಿತಃ ।
+ಜಾತವೇದಾಃ ಸ್ತುತೋ ಮಧ್ಯೆ ಸ್ತುತೋ ವೈಶ್ವಾನರೋ ದಿವಿ ॥⟧
+(Bṛ. De. 1-67)
+
+Saying in this verse that the sages call the fire on earth Agni, the fire in the middle world Jātavedas, and the one in the world of heaven Vaiśvānara, and continuing the same idea he says—
+
+⟦ವೈಶ್ವಾನರಂ ಶ್ರಿತೋ ಹ್ಯಗ್ನಿ ರಗ್ನಿಂ ವೈಶ್ವಾನರಃ ಶ್ರಿತಃ ।
+ಅನಯೋರ್ಜಾತವೇದಾಸ್ತು ಕಥೈತೇ ಜಾತವೇದಸಿ ॥⟧
+(Bṛ. De. 1-97)
+
+It is explained that Agni is contained in Vaiśvānara and Vaiśvānara in Agni, that Jātavedas is contained in both of these, and that the two are two parts of Jātavedas. Thus, having stated the places of Jātavedas in the first chapter, he gives the explanation of his nature in the second chapter.
+
+⟦ಭೂತಾನಿ ವೇದ ಯಜ್ಜಾತೋ ಜಾತವೇದಾಥ ಕಥ್ಯತೇ ।
+ಯಚ್ಚೈಷ ಜಾತವಿದ್ಯೋSಭೂತ್ ವಿತ್ತಂ ಜಾತೋSಧಿವೇತ್ತಿ ನಾ ॥⟧
+(Bṛ. De. 2-30)
+
+⟦ವಿದ್ಯತೇ ಸರ್ವಭೂತೈರ್ಹಿ ಯದ್ವಾ ಜಾತಃ ಪುನಃ ಪುನಃ ।
+ತೇನ್ವೈಷ ಮಧ್ಯಭಾಗೇಂದ್ರೋ ಜಾತವೇದಾ ಇತಿ ಸ್ತುತಃ ॥⟧
+(Bṛ. De. 2-31)
+
+The explanation of the Bṛhaddevatā is that Agni is praised as Jātavedas like Indra of the middle world: because he knows everything at the very moment of birth, or because knowledge was born in him, or because at birth he knows and obtains all wealth, or because whenever he is born again and again he is known by all beings. In the same way, in the Śatapatha Brāhmaṇa too,
+
 ---
 
-**Progress note:** Done through printed p. 581 (PDF 581). Sūkta 2 Ṛk 6 complete; Ṛk 7 complete incl. Special Topics (agnipraṇayana); 1 accent DIFF
+**Progress note:** Done through printed p. 585 (PDF 585). Sūkta 2 Ṛk 8 complete; Special Topics on Jātavedas cut mid-sentence (Śatapatha Brāhmaṇa); p. 583 head merged, fixed
