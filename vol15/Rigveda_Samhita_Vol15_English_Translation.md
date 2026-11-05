@@ -1608,6 +1608,117 @@ Kindling the fire, may (the worshipper) overcome the malevolent (disturbers of t
 
 *yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes (that sacrificer); *vīrebhiḥ*—together with his heroic sons; *vanuṣyataḥ*—the harming; *vīrān*—enemy sons; *vanavat*—he will strike down; (and) *gobhiḥ*—with cattle; *rayim*—wealth; *paprathat*—he extends and increases; *tmanā*—by his own power; *bodhati*—he knows everything; *tasya*—of that sacrificer; *tokam ca*—the son; *tanayam ca*—and the grandson; *vardhate*—gain increase.
 
+### Printed p. 53
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 4, Ṛgveda-saṃhitā, p. 53.*
+
+**भावार्थ (Bhāvārtha)**
+
+The sacrificer whom Brahmaṇaspati makes his friend, together with his heroic sons, strikes down the harming sons of his enemies; and he expands and increases his wealth together with cattle. By his own power he knows everything. The son and grandson of such a sacrificer attain increase.
+
+**Printed English translation**
+
+(Surrounded) by his descendants, may he surpass the malevolent descendants (of his adversaries), for hc [sic] is famed for great wealth of cattle, and understands (all things) of himself: his sons and grandsons prosper whom Brahmanaspathi makes his associate.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वीरेभिः वीरान् वनवत् (*vīrebhiḥ vīrān vanavat*)—Yāska explains वीरो वीरयत्यमित्रान् वेतेर्वा स्याद्गतिकर्मणो वीरयतेर्वा (*vīro vīrayatyamitrān vetervā syādgatikarmaṇo vīrayatervā*) (Ni. 1-7, printed "ಸಿ." [sic]). From this the word *vīra* means one who destroys others by his own power (a hero). Here Sāyaṇa explains वीरेभिः (*vīrebhiḥ*) as आत्मीयैः पुत्रैः (*ātmīyaiḥ putraiḥ*), the sons (children) of the sacrificer, and वीरान् (*vīrān*) as the sons of enemies. The sense is: by the favour of Brahmaṇaspati may the sacrificer subdue the enemy heroes by the heroes on his own side.
+
+गोभिः पप्रथत् (*gobhiḥ paprathat*)—गोभिस्सहितं धनं विस्तारयति (*gobhissahitaṃ dhanaṃ vistārayati*). For the word गौः (*gauḥ*) Yāska gives the meanings earth, animal, hide, phlegm, bowstring, the sun, the suṣumnā channel, rays (Ni. 2-5,6,7.8). Here the meaning "wealth in cows, consisting of cattle, horses, goats and other animals" (paśu) is given, and it is described that the sacrificer expands wealth of this kind by the favour of Brahmaṇaspati (the printed "ಬ್ರಹ್ಮಸ್ಪಣತಿ" is a slip of the supplied text).
+
+त्मना बोधति (*tmanā bodhati*)—आत्मनैव सर्वं जानाति अनन्याधीनज्ञानो भवति (*ātmanaiva sarvaṃ jānāti ananyādhīnajñāno bhavati*). त्मना (*tmanā*) is explained as "by his own nature"; the sense that the sacrificer does so by the favour of Brahmaṇaspati is thereby made explicit.
+
+तोकं तनयं वर्धते (*tokaṃ tanayaṃ vardhate*)—तोकं तनयस्तत्पुत्रः च प्रवृद्धो भवति (*tokaṃ tanayastatputraḥ ca pravṛddho bhavati*); or तोकं तनयं पुत्रं पौत्रं च वर्धयति ब्रह्मणस्पतिः (*tokaṃ tanayaṃ putraṃ pautraṃ ca vardhayati brahmaṇaspatiḥ*). Both senses are stated: Brahmaṇaspati makes the sacrificer's sons and grandsons increase, or by Brahmaṇaspati's favour they themselves increase.
+
+### Printed p. 54
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 25, p. 54.*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> सिंधु॒र्न क्षोदः॒ शिमी॑वा ऋघाय॒तो वृषे॑व॒ वध्रे॑र॒भि व॒ष्टो-॑
+> जसा ।
+> अ॒ग्नेरि॑व॒ प्रसि॑ति॒र्नाह॒ वर्त॑वे॒ यंयं॒ युजं॑ कृणु॒ते ब्रह्म॑ण॒स्पतिः॑॥
+
+**॥ पदपाठः ॥**
+
+> सिंधुः । न । क्षोदः । शिमीवान् । ऋघायतः । वृषाइव । वध्रीन् । अभि । वष्टि ।
+> ओजसा ।
+> अग्नेः इव । प्रसितिः । न । अह । वर्तवे । यंयं । युजं । कृणुते । ब्रह्मणः ।
+> पतिः ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सिंधुः स्यंदनशीला नदी क्षोदो न क्षुद्यमानं कूलं यथा भिनत्ति तथा
+> शिमीवान् । शिमाति कर्मनाम । ब्रह्मणस्पतेः परिचरणात्मना कर्मणा युक्तो
+> यजमान ऋघायतो हिंसतः शत्रून् ओजसा बलेनाभिवष्टि । हंतुमभितः
+> कामयते ॥ वश कांतौ ॥ इदमपरं निदर्शनं । वृषेव वध्रीन् । वध्रयो
+> निष्पिष्टमुष्का निर्वीर्या बलीवर्दाः । तान् यथा वृषा सेचनसमर्थः सवीर्यो
+> वृषभोऽभिभवति तद्वच्छत्रूनभिभवतीत्यर्थः । अपि चासावग्नेरिव प्रसितिः ।
+> प्रसीयते बध्यतेnनयेति प्रसितिर्ज्वाला ॥ षिञ् बंधने । करणे क्तिन् ॥ यथाग्ने-
+> र्ज्वालाप्रतिहतप्रसरा एवमपि न वर्तवे । वारयितुं निवर्तयितुं ना नैव
+> शक्यते ॥ अहशब्दोऽवधारणे । वृणोतेरंतर्भावितण्यर्थात् वर्ततेर्वा तुमर्थे
+> तवेन्प्रत्ययः । अन्यद्धतं ॥
+
+*Gist:* the sacrificer, engaged in service of Brahmaṇaspati, overcomes the harming enemies by strength as a river breaks its bank and a bull throws down weak old oxen; like fire's flame he cannot be checked.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*sindhuḥ*—the flowing river; *kṣodaḥ na*—as it cuts and splits its bank; *vadhrīn*—the impotent old oxen; *vṛṣeva*—as a strong bull throws them down; *śimāvān* [sic, as supplied]—the sacrificer engaged in the rite that serves Brahmaṇaspati; *yaghāyataḥ* [sic, as supplied]—the enemies who harm him; *ojasā*—by his strength; *abhi vaṣṭi*—surrounding them,
+
+### Printed p. 55
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 4, Ṛgveda-saṃhitā, p. 55.*
+
+he wishes to destroy them; *yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes (that sacrificer); *agneḥ iva prasitiḥ*—as fire spreads its flame and advances unobstructed; *na vartave aha*—(by anyone) he gains unstoppable increase.
+
+**भावार्थ (Bhāvārtha)**
+
+As a flowing river cuts and splits its bank, and as a strong bull throws down impotent old oxen, the sacrificer who is engaged in the service of Brahmaṇaspati wishes to surround with his strength and destroy the enemies who harm him. The sacrificer whom Brahmaṇaspati makes his friend gains an increase that no one can stop, as fire spreads its flame and advances unobstructed.
+
+**Printed English translation**
+
+As a river (washes away) its banks, so the devout worshipper, of Brahmanaspathi), [sic] overpowers his enemies by his strength, as a bull (overcomes) an ox : like the spreading flame of fire, it is impossible to stop him, whom Brahmanaspathi makes his associate.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+शिमीर्वा ऋघायतः ओजसा अभि वष्टि (*śimīrvā ṛghāyataḥ ojasā abhi vaṣṭi*)—The word शिमी (*śimī*) is read by Yāska among the names of action (Ni. 3-2), and it is also said शिमीति कर्मनाम, शमयतेर्वा शक्नोतेर्वा (*śimīti karmanāma, śamayatervā śaknotervā*) (Ni. 5-12). Sāyaṇa explains this passage as ब्रह्मणस्पतेः परिचरणात्मना कर्मणा युक्तो यजमानः हिंसतः शत्रुन् बलेन हंतुमभितः कामयते (*brahmaṇaspateḥ paricaraṇātmanā karmaṇā yukto yajamānaḥ hiṃsataḥ śatrun balena haṃtumabhitaḥ kāmayate*): the sacrificer who serves and worships Brahmaṇaspati desires to destroy with his strength those who harm him. Three similes are stated here. First, सिंधुः क्षोदः न (*siṃdhuḥ kṣodaḥ na*)—स्यंदनशीला नदी क्षुद्यमानं कूलं यथा भिनत्ति (*syaṃdanaśīlā nadī kṣudyamānaṃ kūlaṃ yathā bhinatti*): as a flowing river breaks and splits its bank. Second, वृषेव वध्रीन् (*vṛṣeva vadhrīn*)—वध्रयो निष्पिष्टमुष्का निर्वीर्या बलीवर्दाः र्तान् यथा सेचनसमर्थः सवीयः वृषभो अभिभवति (*vadhrayo niṣpiṣṭamuṣkā nirvīryā balīvardāḥ rtān yathā secanasamarthaḥ savīyaḥ vṛṣabho abhibhavati*) [the supplied text prints र्तान् (*rtān*) and सवीयः (*savīyaḥ*) thus]: as bulls of abundant strength gore and throw down feeble old oxen whose seed is crushed. Third, अग्नेरिव प्रसितिः (*agneriva prasitiḥ*)—यथा अग्निर्ज्वालाप्रतिहतप्रसरा वारयितुं निवर्तयितुं वा नैव शक्यते (*yathā agnirjvālāpratihataprasarā vārayituṃ nivartayituṃ vā naiva śakyate*): as the flame of a forest fire can neither be checked nor turned back; 
+
+### Printed p. 56
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 25, p. 56 (printed "ಸಾಯಣಭಾವ್ಯಸಹಿತಾ" in the supplied text).*
+
+thus it is described. By this it is described that the power of the sacrificer who has won Brahmaṇaspati's favour is most wonderful in overcoming his enemies.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तस्मा॑ अर्षंति दि॒व्या अ॑स॒श्चतः॒ स सत्व॑भिः प्रथ॒मो गोषु॑ गच्छति ।
+> अनि॑भृष्टतविषिर्हं॒त्योज॑सा॒ यंयं॒ युजं॑ कृणु॒ते ब्रह्म॑ण॒स्पतिः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> तस्मै । अर्षंति । दिव्याः । असश्चतः । सः । सत्त्वभिः । प्रथमः । गोषु । गच्छति ।
+> अनिभृष्टतविषिः । हंति । ओजसा । यंयं । युजं । कृणुते । ब्रह्मणः पतिः ॥ ४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> तस्यॆ यजमानाय दिव्या दिवि भवा वृष्टिलक्षणा आपोऽसश्चतोऽसज्यमाना
+> अनिरुद्धाः सत्योऽर्षंति । गच्छंति प्राप्नुवंति ॥ आर्तेर्लॆटि रूपं ॥ तथा स
+> यजमानः सत्वभिः । सत्वानः साधकाः परिचारकाः । तैः सहितः प्रथमोऽन्येभ्यो
+> यजमानेभ्यः पूर्वभावी सन् गोषु गच्छति । गवादिधनं प्राप्नोतीत्यर्थः । किंच
+> अनिभृष्टतविषिः । तविषीति बलनाम । अनिभृष्टा परैरबाधिता तविषी बलं यस्य
+> तादृशः सन् ओजसा बलेन हंति शत्रून् ॥
+
+*Gist:* for that sacrificer the rains of heaven pour unobstructed; with his attendants he is first to obtain cattle and wealth, and with unconquered strength he kills enemies.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*yaṃyam*—whichever sacrificer; *brahmaṇaspatiḥ*—Brahmaṇaspati; *yujam*—as a friend; *kṛṇute*—makes; *tasmai*—for that sacrificer; *divyāḥ*—the rains born of the heavenly world; *asaścataḥ*—without hindrance; *arṣanti*—pour; *haḥ* [sic, as supplied; for *saḥ*?]—he; *satvabhiḥ*—with his attendants; *prathamaḥ*—before other sacrificers; *goṣu*—wealth in the form of cattle; *gacchati*—obtains; *anibhṛṣṭatavisiḥ*—possessing strength that cannot be defeated by others; *ojasā*—by his vigour; *hanti*—he destroys (the enemies).
+
 ---
 
-**Progress note:** Done through printed p. 52 (PDF 52). Sūkta 25: Ṛk 1 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics, pp. 50-51); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 52). Flags: hand fixes to kn.md: Pratipadārtha/Bhāvārtha split from bhāṣya block with standard labels (garbled '೧. ಪ್ರಣವಾರ್ಥ', 'ಭಾಷೆ'), garbled Pada label on p. 52 replaced; 0 [?]; unmarked supplied slips: 'ಬ್ರಹಣಸ್ಪತೇ', 'ಪ್ರಜ್ವಲರ್ಯ', 'ಜೀನಿಸಿರುವಂತೆ' p. 51, 'ಯಂಽಯಂ' in Ṛk 2 Pada, 'ಟುಓಶ್ವಿ' in Ṛk 1 bhāṣya tail; accent script: 2 DIFF, 1 NOMATCH line (see accent report)
+**Progress note:** Done through printed p. 56 (PDF 56). Sūkta 25: Ṛk 2 Bhāvārtha, printed English, Special Topics (p. 53); Ṛk 3 complete (pp. 54-56); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha (p. 56). Window actually covers pp. 53-56 (p. 56 was merged into p. 55 text: marker/heading inserted, pages.json extended). Hand fixes to kn.md: Pratipadārtha split from bhāṣya blocks (garbled labels 'ಪ್ರತಿಸದರ್ಥ', '೧ ಪ್ರತಿಪಾರ್ಶ್ವ'), Pada label inserted for Ṛk 4 (garbled 'ಜವಡಾ'), stray 'This image contains no text' line removed. 0 [?]; unmarked supplied slips: 'ಸಿ.' for ನಿ. (Ni. 1-7), 'ಬ್ರಹ್ಮಸ್ಪಣತಿ', 'ಪೌತರನ್ನೂ', 'ವಧ್ರೀನ್/ವಧ್ರೇರ್', 'ಶಿಮಾವಾನ್', 'ಯಘಾಯತಃ', 'ಹಃ' for ಸಃ in Ṛk 4 Pratipadārtha, 'ರ್ತಾನ್', 'ಸವೀಯಃ'; accent script: 1 DIFF, 1 NOMATCH line
