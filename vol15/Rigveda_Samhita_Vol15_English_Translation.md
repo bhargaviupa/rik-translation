@@ -20548,6 +20548,102 @@ The resplendent and adorable Agni, riding in an auspicious chariot, has comprehe
 
 Sumadrathaḥ—सुमत्स्ययमित्यर्थः (*sumatsyayamityarthaḥ*) (Ni. 6-22). The Nirukta authors have explained this word as svayam, that is, acting of itself without the impulse of another. The word is also used in the sense of auspicious, excellent. सुमद्गणः, सुमदंशु॥ (*sumadgaṇaḥ, sumadaṃśu‖*) and so on
 
+### Printed p. 659
+
+*[Running head, p. 659: Aṣṭaka 2, Adhyāya 8, Varga 21, Ṛgvedasaṃhitā.]*
+
+wherever such uses occur, this is the sense. In the present Ṛk too, sumadrathaḥ is said to mean śobhanarathaḥ, an auspicious chariot.
+
+Suvṛktibhiḥ—the word suvṛkti is a synonym of praise. The purport is "with the most excellent praises".
+
+*[The supplied text has here the line: "This image contains no text. It is a decorative symbol or ornament consisting of three stylized floral elements connected by curved lines on either side.", kept as a note; it is a software description of a printed ornament.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> वैश्वा॑नर॒ तव॒ धामा॒न्या च॑क्रे॒ येभिः॑ स्व॒र्विदभ॑वो विचक्षण ।
+> जा॒त आपृ॑णो॒ भुव॑नानि॒ रोद॑सी॒ अग्ने॒ ता विश्वा॑ परि॒भूर॑सि॒ त्मना॑ ॥१०॥
+
+**॥ पदपाठः ॥**
+
+> वैश्वानर । तव । धामानि । चके । येभिः । स्वःऽवित् । अभवः । विचक्षण ।
+> जातः । अ । अपृणः । भुवनानि । रोदसी इति । अग्ने । ता । विश्वा । परिभूः । असि ।
+> त्मना ॥ १० ॥
+
+> *vaiśvānara | tava | dhāmāni | cake | yebhiḥ | svaḥ 'vit | abhavaḥ | vicakṣaṇa |*
+> *jātaḥ | a | apṛṇaḥ | bhuvanāni | rodasī iti | agne | tā | viśvā | paribhūḥ | asi |*
+> *tmanā ‖ 10 ‖*
+
+*(The Pada is printed ಧಾಮಾನಿ । ಚಕೇ and ಜಾತಃ । ಅ । ಅಪೃಣಃ, where the Saṃhitā has ಧಾಮಾನ್ಯಾ ಚಕ್ರೇ and ಜಾತ ಆಪೃಣೋ, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वैश्वानर तव धामानि त्वत्संबंधीनि तेजांस्याचके । अभिष्टौमि । हे विचक्षण
+> प्राज्ञ त्वं येभिर्यैस्तेजोभिः स्वर्वित् सर्ववित् सर्वज्ञोऽभवः । भवसि । जातमातस्त्वं भुवनानि भूतजातानि रोदसी द्यावापृथिव्यावापृणः । आपूरयः । हे अग्ने
+> विश्वा विश्वानि सर्वाणि ता तानि भूतजातानि त्मना आत्मना परिभूरसि । परिगृहीतासि ॥
+
+*(Gist: O Vaiśvānara, I praise the radiances by which you became omniscient; at birth you filled heaven and earth and all beings, and you encompass all by yourself.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vicakṣaṇa: the wise one. Vaiśvānara: O Agni, who are of the form of Vaiśvānara. Yebhiḥ: by which of your radiances. Svarvit: omniscient. Abhavaḥ: you have become. Tava dhāmāni: all those radiances of yours. A cake: I praise. Agne: O Agni (you). Jātaḥ: as soon as born. Bhuvanāni: all beings. Rodasī: heaven and earth. Apṛṇaḥ: you have pervaded. Viśvā: all. Tā: those beings. Tmanā: by your own impulse. Paribhūr asi: you have encompassed.
+
+### Printed p. 660
+
+*[Running head, p. 660: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, wise and of the form of Vaiśvānara, I praise all those radiances of yours by which you are omniscient. O Agni, as soon as you were born you pervaded all beings, and heaven and earth. You have encompassed all those beings by your own impulse.
+
+**Printed English translation**
+
+Vaishwanara, I celebrate your energies, whereby, O sage, you have become omniscient : as soon as born, Agni, you have occupied the realms (of space), and heaven and earth. and have comprehended all these with yourself.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the present Ṛk Agni's all-pervading radiance and world-protecting power are described. Earlier, in the fifth Ṛk of this same sūkta, the explanation of the eight names that indicate Agni's power and glory was given. Now the nature of these pervading powers of Agni and the order of their protection of the world are examined. All these are described in the Śatapatha Brāhmaṇa in this way. The pervading property that is described in the present Ṛk by भुवनानि रोदसी आप्पणः (*bhuvanāni rodasī āppaṇaḥ*) is thus made clear.
+
+⟦ವಿದ್ಯಾ ತೇ ಅಗ್ನೇ ತ್ರೇಧಾ ತ್ರಯಾಣೀತಿ । ಅಗ್ನಿರ್ವಾಯುರಾದಿತ್ಯ ಏತಾನಿ ಹಾಸ್ಯ ತಾನಿ ತ್ರೇಧಾ
+ತ್ರಯಾಣಿ ವಿದ್ಯಾ ತೇ ಧಾಮ ವಿಭೃತಾ ಪುರುತ್ರೇತಿ ಯದಿದಂ ಬಹುಧಾ ವಿಹ್ರಿಯತೇ ವಿದ್ಯಾ
+ತೇ ನಾಮ ಪರಮಂ ಗುಹಾ ಯದಿತಿ ಯವಿಷ್ಠ ಇತಿ ವಾ ಅಸ್ಯ ತನ್ನಾಮ ಪರಮಂ ಗುಹಾ
+ವಿದ್ಯಾ ತಮತ್ಸಂ ಯತ ಆಜಗಂಥೇತ್ಯಾಪೋ ವಾ ಉತ್ಸೋಽದ್ಭ್ಯೋ ವಾ ಏಷ ಪ್ರಥಮಮಾಜಗಾಮ ॥⟧
+(printed ಶ. ಬ್ರಾ. 6-7-4-4)
+
+"O Agni, we have told your three forms of the nature of the trivṛt. These three kinds, Agni, Vāyu and Āditya, are your other forms. We also know that these forms, with their subdivisions, spread over the whole universe. We know too that your highest name and your lowest name are very hidden, and that you arose from the water of the atmosphere and pervaded everywhere."
+
+### Printed p. 661
+
+*[Running head, p. 661: Aṣṭaka 2, Adhyāya 8, Varga 21 (closing bracket missing), Ṛgvedasaṃhitā.]*
+
+समुद्रे त्वा नृमणा अस्वंतरिति प्रजापतिर्वै नृमणा अप्सु त्वा प्रजापतिरित्येतन्नृचक्षा ईधेऽ दिवोऽग्न ऊधन्निति प्रजापतिर्वै नृचक्षा आपो दिव ऊधस्तृतीये त्वा रजसि तस्थिवाग्‌ंसमिति द्यौर्वै तृतीयग्ं रजोऽपामुपस्थे महिषा अवर्धन्निति प्राणा वै महिषा दिवि त्वा प्राणा अवर्धन्नित्येतत् ॥ (*samudre tvā nṛmaṇā asvaṃtariti prajāpatirvai nṛmaṇā apsu tvā prajāpatirityetannṛcakṣā īdhe ' divo 'gna ūdhanniti prajāpatirvai nṛcakṣā āpo diva ūdhastṛtīye tvā rajasi tasthivāgṃsamiti dyaurvai tṛtīyagṃ rajo 'pāmupasthe mahiṣā avardhanniti prāṇā vai mahiṣā divi tvā prāṇā avardhannityetat ‖*)
+(printed ಶ. ಬ್ರಾ. 6-7-4-5)
+
+The god with the power of a man made you blaze in the water of the atmosphere. Prajāpati himself is that god (Nṛmaṇa). He it was who made you blaze. In the udder of the world of heaven (the printed Kannada has "ಕೆಚ್ಚಲಿನಲ್ಲಿ") the god Nṛcakṣas made you blaze. Prajāpati himself is that god Nṛcakṣas. In the third world the buffaloes (mahiṣas) made you grow and become strong. The principal breaths are these buffaloes. They became the cause of your strength.
+
+“.......... सर्वदेवत्योऽग्नि र्यावानाग्नि र्यावत्यस्य मात्रा (*sarvadevatyo 'gni ryāvānāgni ryāvatyasya mātrā*)............”
+(printed ಶ. ಬ್ರಾ. 6-7-4-6; the printed passage has rows of dots before and after)
+
+Since he pervades all worlds, Agni is made up of the gods; all the gods are contained in him. Thus Agni's power is described. This universal-pervading form of Agni Vaiśvānara has been described in many Śruti sentences, as told before. In the present Ṛk too the same point is praised.
+
+Svarvit—for the word सर्ववित् (*sarvavit*) the meaning all-knowing is given.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> वै॒श्वा॒न॒रस्य॑ दं॒सना॑भ्यो बृ॒हदरि॑णा॒देकः॑ स्वप॒स्यया॑ क॒विः ।
+> उ॒भा पि॒तरा॑ म॒हय॑न्न जायता॒ग्निर्द्यावा॑पृथि॒वी भूरि॑रेतसा ॥११॥
+
+**॥ पदपाठः ॥**
+
+> वैश्वानरस्य । दंसनाभ्यः । बृहत् । अरिणात् । एकः । सुअपस्यया । कविः ।
+> उभा । पितरा । महयन् । अजायत । अग्निः । द्यावापृथिवी इति । भूरिरेतसा ॥ ११ ॥
+
+> *vaiśvānarasya | daṃsanābhyaḥ | bṛhat | ariṇāt | ekaḥ | suapasyayā | kaviḥ |*
+> *ubhā | pitarā | mahayan | ajāyata | agniḥ | dyāvāpṛthivī iti | bhūriretasā ‖ 11 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 658 (PDF 658). Sūkta 3 Ṛk 8 Special Topics (jātavedas, jūti); Ṛk 9 complete up to Special Topics on sumadratha
+**Progress note:** Done through printed p. 661 (PDF 661). Sūkta 3 Ṛk 9 Special Topics end; Ṛk 10 complete; Ṛk 11 Saṃhitā and Pada; accent DIFF logged
