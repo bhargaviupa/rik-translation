@@ -19004,6 +19004,95 @@ Apratiṣṭutaṃ—Yāska gives for this word the explanation अप्रत�
 
 Svardṛśaṃ—सर्वदृशं सर्वपदार्थविज्ञानयुक्तं । (*sarvadṛśaṃ sarvapadārthavijñānayuktaṃ |*) One seen by all, that is, all see him as he shines in heaven (in the atmosphere) in the form of the Sun; or, as another meaning, one who has knowledge of all things.
 
+### Printed p. 602
+
+*[Running head, p. 602: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> मं॒द्रं होता॑रं॒ शुचि॒मद्व॑याविनं॒ दमू॑नसमु॒क्थ्यं॑ वि॒श्वच॑र्षणिं।
+> रथं॒ न चि॒त्रं वपु॑षाय दर्श॒तं मनु॑र्हितं॒ सद॒मिद्रा॒य॑
+> ईमहे ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> मंद्रं । होतारं । शुचिं । अद्वयाविनं । दमूनसं । उक्ष्यं । विश्वचर्षणिं ।
+> रथं । न । चित्रं । वपुषाय । दर्शतं । मनुःहितं । सदं । इत् । रायः ।
+> ईमहे ॥ १५ ॥
+
+*(The Pada is printed ಉಕ್ಷ್ಯಂ, ವಪುಷಾಯ and ರಾಯಃ, where the Saṃhitā has ಉಕ್ಥ್ಯಂ, ವಪುಷಾಯ and ರಾಯ; the Saṃhitā is also printed ಸದಮಿದ್ರಾಯ ಈಮಹೇ as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> मंद्रं स्तुत्यं होतारं देवानामाह्वातारं शुचिं सर्वदा शुद्धमद्वयाविनमकुटिलं दमूनसं दानमनसमुक्थ्यं श्रेष्ठं विश्वचर्षणिं विश्वस्य द्रष्टारं चित्रं
+> नानाविधवर्णं रथं न रथमिव वपुषाय रूपार्थं दर्शतं दर्शनीयं सदमित्
+> सदैव मनुर्हितं सर्वेभ्यो मनुष्येभ्यो हितं तमग्निं रायो धनानीमहे ।
+> याचामहे । अत्र याज्ञार्थत्वादस्य द्विकर्मकत्वं ॥
+
+*(Gist: we ask wealth of Agni, praised, invoker of the gods, pure, straight, generous, excellent, all-seeing, many-coloured like a chariot, lovely, always kind to men.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mandraṃ: the praiseworthy. Hotāraṃ: him who invites the gods (to the sacrifice). Śuciṃ: (ever) pure. Advayāvinaṃ: him who is without crookedness. Damūnasaṃ: him who has a giving (generous) mind. Utham [printed so; the Saṃhitā has ukthyam]: him who is worthy of praise. Viśvacarṣaṇiṃ: him who can see everything. Rathaṃ na: like a chariot. Citraṃ: him who has many kinds of colour. Vapuṣāya: by the beauty of body. Darśataṃ: him who is worth seeing. Sadamit: always. Manurhitaṃ: him who is kind to men. Agni: Agni. Rāyaḥ: wealth. Īmahe: we ask.
+
+**भावार्थ (Bhāvārtha)**
+
+We ask wealth of Agni, the praiseworthy, the invoker of the gods to the sacrifice, the pure, the straight, the generous-minded, the worthy of praise, the all-seeing, many-coloured like a chariot, worth seeing, and always kind to men.
+
+### Printed p. 603
+
+*[Running head, p. 603: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+**Printed English translation**
+
+We solicit wealth of the adorable (Agni), the invoker of the gods, the pure, the single-minded, the munificent, the commendable, the beholder of all, who is many-coloured like a chariot, elegant in form, and always friendly to mankind.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Advayāvinaṃ—द्वयहीनं अकुटिलं । (*dvayahīnaṃ akuṭilaṃ |*) One free of duplicity, that is, thinking one way in the mind and acting another way in deed: this kind of nature is found in wicked people. The meaning is that he has no such nature, that he is straightforward.
+
+Damūnasaṃ—Yāska has given the explanation दमूनाः क्षेत्रसाधाः (*damūnāḥ kṣetrasādhāḥ*) (Ni. 2-2). Saying that the word damūnāḥ is a name of Agni, दमूना अग्नि रुच्यते दममनाः । (*damūnā agni rucyate damamanāḥ |*)—
+
+⟦ದಮೂನಾ ದಮಮನಾ ವಾ, ದಾನಮನಾ ವಾ, ದಾಂತಮನಾ ವಾ । ಅಪಿ ನಾ ದಮ ಇತಿ
+ಗೃಹನಾಮ ತನ್ಮನಾಃ ಸ್ಯಾತ್ । ಮನೋ ಮನೋತೇಃ ।⟧
+(Ni. 4-4)
+
+he gives the explanation. That is, one whose mind is in restraint, that is, whose mind is not cruel; or one whose mind is set on giving wealth and the like to those who praise him; or one whose mind is fixed on the persons who practise the yamas and niyamas, that is, who has a mind of favour towards them; or, dama being a name of the house, one whose mind is in it: that is, in the house of the sacrificer who performs the sacrifice he always dwells under the name Gṛhapati Agni and favours them. Thus the meaning is explained.
+
+## Sūkta 3 (Maṇḍala 3)
+
+*The third sūkta of the Third Maṇḍala.*
+
+*[Garbled heading as supplied before the introduction: "ಪಿ ೬ ರಿ ಕೆ." (for Pīṭhike), kept as a note in kn.md.]*
+
+**Pīṭhike (Introduction) to Sūkta 3**
+
+1. The identity of Agni and the Agniṣṭoma; the power of Agni—The present sūkta, and the preceding one, that is, the second sūkta beginning with the mantra "Vaiśvānarāya", are both to be recited at the time of the recitation of the Āgnimāruta śastra, according to the Aśvalāyana Śrauta Sūtra rule,
+
+### Printed p. 604
+
+*[Running head, p. 604: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3 (the sūkta number is now 3).]*
+
+and so it has been indicated. But the previous sūkta is to be recited, by rule, on the third day of the rites called Pṛṣṭhyābhiplava. The sentence of the Aitareya Āraṇyaka states ⟦ವೈಶ್ವಾನರಾಯ ಧಿಷಣಾಮೃತಾವೃಧ ಇತ್ಯಾಗ್ನಿಮಾರುತಸ್ಯ
+ಪ್ರತಿಪದಂತಃ⟧ (Ai. Ā. 1-5-3). The present sūkta is stated, ⟦ಅಸ್ಯ
+ಸೂಕ್ತಸ್ಯಾಗ್ನಿಷ್ಟೋಮೇ ಆಗ್ನಿಮಾರುತೇ ಶಸ್ತ್ರೇ ವಿನಿಯೋಗಃ⟧, to be connected with the Āgnimāruta śastra, which has to be recited at the time of the Agniṣṭoma (Ā. Śrau. Sū. 5-20).
+
+The glory of the Vaiśvānara principle praised by the mantras of this sūkta is most venerable and fit for meditation. This Vaiśvānara principle is the root of the universe, its support, and the representative of the sacrifice. Therefore, having understood the nature of the Agniṣṭoma and the Āgnimāruta śastra, one should understand the nature of Vaiśvānara praised in this sūkta, which is their part.
+
+अग्नेयमग्निष्टोम आलभते । अग्निर्वा अग्निष्टोमः (*agneyamagniṣṭoma ālabhate | agnirvā agniṣṭomaḥ*)
+(printed ಶ. ಬ್ರಾ. 5-1-3-1, i.e. Śat. Brā. 5-1-3-1)
+
+In these sentences the identity of Agni and the Agniṣṭoma is stated. In such contexts Sāyaṇa has explained clearly the meaning of the word agniṣṭoma: ⟦ಅಗ್ನಿಃ ಸೂಯತೇಽಸ್ಮಿನ್ ಇತ್ಯಗ್ನಿಷ್ಟೋಮೋ
+ನಾಮ ಸಾಮ ; ತಸ್ಮಿನ್ ವಿಷಯಭೂತಃ ಆಗ್ನೇಯಂ ಆಲಭತೇ⟧ and अग्निष्टोमसंस्थः क्रतुः (*agniṣṭomasaṃsthaḥ kratuḥ*). By such explanatory sentences the nature of the Agniṣṭoma is told, in some places as the mantra to be recited at a fixed time at the end of the Soma sacrifice, and in other places as a separate special kratu forming part of the Jyotiṣṭoma sacrifice. According to the second explanation, if the Agniṣṭoma is a special kratu, then Vaiśvānara Agni, of the form of universal light, and the Agniṣṭoma, which is a part of the Jyotiṣṭoma, are directly related. Since it also has mantras in praise of Agni, the name Agniṣṭoma became established. The Aitareya Brāhmaṇa describes its nature in the form of a legend, and also states that other kratus too are special acts that increase its glory (Ai. Brā. 14.39-44). We shall explain it briefly here—
+
+⟦ದೇವಾ ವಾ ಅಸುರೈರ್ಯುದ್ಧಮುಪಪ್ರಾಯನ್ ವಿಜಯಾಯ ತಾನಗ್ನಿರ್ನಾನ್ವಕಾಮಯತೈತುಂ
+ತಂ ದೇವಾ ಅಬ್ರುವನ್ನಪಿ ತ್ವಮೇಹ್ಯಸ್ಮಾಕಂ ವೈಶ್ವಮೇಕೋಽಸೀತಿ ಸ ನಾಸ್ತುತೋಽನ್ನೇಷ್ಯಾಮೀತ್ಯಬ್ರವೀತ್ಸುತನುಮೇತಿ ತಥೇತಿ ತಂ ತೇ ಸಮುತ್ಕ್ರಮ್ಯೋಪ ನಿವೃತ್ತಾಸ್ತುವಂಸ್ತಾನ್
+ಸ್ತುತೋಽನುಪ್ರೈತ್ಸ ತ್ರಿಶ್ರೇಣಿರ್ಭೂತ್ವಾ ತ್ರ್ಯನೀಕೋಽಸುರಾನ್ಯುದ್ಧಮುಪಪ್ರಾಯದ್ವಿಜಯಾಯ ತ್ರಿಶ್ರೇಣಿರಿತಿ ಚ್ವಂದಾಂಸ್ಯೇವ ಶ್ರೇಣೀರಕುರುತ ತ್ರ್ಯನೀಕ ಇತಿ ಸವನಾನ್ಯೇವಾನೀಕಾನಿ
+ತಾನಸಂಭಾವ್ಯಂ ಪರಾಭಾವಯತ್ತತೋ ವೈ ದೇವಾ ಅಭವನರಾಸುರಾ ಭವತ್ಯಾತ್ಮನಾ
+ಪರಾಸ್ಯ ದ್ವಿಷನ್ಸಾಪ್ತಾ ಭ್ರಾತೃವ್ಯೋ ಭವತಿ ಯ ಏವಂ ವೇದ ॥⟧
+
 ---
 
-**Progress note:** Done through printed p. 601 (PDF 601). Sūkta 2 Ṛk 13 Special Topics (Mātariśvan) end; Ṛk 14 complete up to start of Special Topics; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 604 (PDF 604). Sūkta 2 Ṛk 15 complete (end of Sūkta 2); Sūkta 3 begun: Pīṭhike (Agni and Agniṣṭoma), Aitareya Brāhmaṇa legend cut at end of quoted passage; accent DIFF/NOMATCH logged
