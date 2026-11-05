@@ -6546,6 +6546,108 @@ Rudra is स्थिरेभिरंगैः (*sthirebhiraṃgaiḥ*) (द�
 
 O Rudra, you who are worthy of worship bear arrows and bow. Being worthy of worship, you wear a necklace that is worthy of worship and of many forms. Being worthy of praise, you protect this whole and great world. O Rudra, there is none at all other than you who has greater strength than you.
 
+### Printed p. 214
+
+*Running head: [214 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 4. Sū. 33.] (as supplied).*
+
+**Printed English translation**
+
+Worthy ( of reverence ), you bear arrows and a bow : worthy
+(of praise), you wear an adorable and omniform necklace; worthy (of
+adoration), you preserve all this vast universe: there is no one more
+powerful than you.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Rudra as "O Rudra", the text says that this Rudra, being himself worthy of worship, bears bow and arrows; that he wears यजनीयं पूजनीयं विश्वरूपं निष्कं हारं बिभर्षि (*yajanīyaṃ pūjanīyaṃ viśvarūpaṃ niṣkaṃ hāraṃ bibharṣi*), necklaces that are worthy of worship and of manifold forms; and that अर्हन्नेव इदं विश्वं अभ्वं दयसे (*arhanneva idaṃ viśvaṃ abhvaṃ dayase*), he protects all this vast world. Thus the power, the adornment and the wondrous work of this Rudra are described. And ओजेयः न वै अस्ति (*ojeyaḥ na vai asti*) [as supplied; the Ṛk has ओजीयः] — त्वत्तः अन्यत् किंचित् बलवत्तरं न खलु विद्यते (*tvattaḥ anyat kiṃcit balavattaraṃ na khalu vidyate*): since nothing other than this Rudra, nothing greater in strength, exists, त्वमेव उक्तव्यापारेषु योज्यः (*tvameva uktavyāpāreṣu yojyaḥ*) — it is said that Rudra alone is capable of performing the work of protecting this world.
+
+अभ्वं (*abhvaṃ*)—अतिविस्तृतं (*ativistṛtaṃ*). Yāska has read the word अभ्व (*abhva*) among the names of "great" (Ni. 3-13). Sāyaṇa takes this word as an adjective of विश्वं (*viśvaṃ*) and explains the meaning as "very vast".
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्तु मु॒ग्रं ।
+> मृ॒ळा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो॒ऽन्यं ते॑ अ॒स्मन्नि व॑पंतु॒ सेनाः॑ ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> स्तुहि । श्रुतं । गर्तसदं । युवानं । मृगं । न । भीमं । उपहत्नुं । उग्रं ।
+> मृळ । जरित्रे । रुद्र । स्तवानः । अन्यं । ते । अस्मत् । नि । वपंतु । सेनाः ॥ ११ ॥
+
+> *stuhi | śrutaṃ | gartasadaṃ | yuvānaṃ | mṛgaṃ | na | bhīmaṃ | upahatnuṃ | ugraṃ |*
+> *mṛḷa | jaritre | rudra | stavānaḥ | anyaṃ | te | asmat | ni | vapaṃtu | senāḥ ‖ 11 ‖*
+
+### Printed p. 215
+
+*Running head: [A. 2. A. 7. V. 18.] Ṛgveda-saṃhitā 215 (as supplied).*
+
+**॥ सायणभाष्यम् ॥**
+
+> प्रयाणे मृगस्यामनोज्ञवचः श्रुत्वा स्तुहि श्रुतमित्येतां जपेत् । सूत्रितं
+> च । स्तुहि श्रुतं गर्तसदं युवानमिति मृगस्य । गृ. ३-१०-१०. । इति ॥
+> हे स्तोतः श्रुतं विश्रुतं प्रख्यातं रुद्रं स्तुहि । कीदृशं । गर्तसदं । गर्तो
+> रथः । तत्र सीदंतं युवानं नित्यतरुणं मृगं न भीमं मृगं सिंहमिव भयंकरं ।
+> उपहत्नुमुपहंतारं शत्रूणां मुग्रमुद्गूर्णं । हे रुद्र त्वं स्तवानोSस्माभिः
+> स्तूयमानः सन् जरित्रॆ स्तोत्रे मह्यं मृळ । सुखय । ते त्वदीयाः सेना
+> अस्मदन्यमस्मद्व्यतिरिक्तं पुरुषं निवपंतु । निघ्नंतु ॥
+
+> *prayāṇe mṛgasyāmanojñavacaḥ śrutvā stuhi śrutamityetāṃ japet | sūtritaṃ*
+> *ca | stuhi śrutaṃ gartasadaṃ yuvānamiti mṛgasya | gṛ. 3-10-10. | iti ‖*
+> *he stotaḥ śrutaṃ viśrutaṃ prakhyātaṃ rudraṃ stuhi | kīdṛśaṃ | gartasadaṃ | garto*
+> *rathaḥ | tatra sīdaṃtaṃ yuvānaṃ nityataruṇaṃ mṛgaṃ na bhīmaṃ mṛgaṃ siṃhamiva bhayaṃkaraṃ |*
+> *upahatnumupahaṃtāraṃ śatrūṇāṃ mugramudgūrṇaṃ | he rudra tvaṃ stavānoSsmābhiḥ*
+> *stūyamānaḥ san jaritrè stotre mahyaṃ mṛḷa | sukhaya | te tvadīyāḥ senā*
+> *asmadanyamasmadvyatiriktaṃ puruṣaṃ nivapaṃtu | nighnaṃtu ‖*
+
+Gist: On hearing the harsh cry of a wild animal on a journey one should recite this Ṛk (Gṛhya sūtra cited). Praise the renowned Rudra, seated in his car, ever young, terrible as a lion; the hosts are asked to destroy our other enemies.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(O praiser); [praise] Rudra, who sits in the chariot, ever youthful, terrible like a lion, the destroyer of enemies, possessed of manifest strength, and renowned. Rudra, being praised by us, bring happiness to me, the praiser. Let your hosts destroy the enemy other than ourselves.
+
+**भावार्थ (Bhāvārtha)**
+
+O praiser, praise and pray to Rudra, who sits in the chariot, ever youthful, terrible as a lion, destroyer of enemies, possessed of manifest strength and renowned. O Rudra, being praised by us, bring happiness to me, the praiser. May your hosts destroy the enemy other than ourselves.
+
+**Printed English translation**
+
+Glorify the renowned Rudra, riding in his car, ever youthful, destructive, fierce like a formidable wild beast: Rudra, propitiated by praise, grant happiness to him who praises (you), and let your hosts destroy him who is our adversary.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+That this Ṛk स्तुहि श्रुतं (*stuhi śrutaṃ*) is to be recited when, on a journey, one hears the harsh cry of wild animals, is set out by the Āśvalāyana Gṛhya Sūtra, स्तुहि श्रुतं गर्तसदं युवानमिति मृगस्य (*stuhi śrutaṃ gartasadaṃ yuvānamiti mṛgasya*) (Ā. Gṛ. 3-10-10).
+
+In the first half of this Ṛk the Ṛṣi, seer of the mantra, addresses the priest who praises at the sacrifice. हे स्तोतः (*he stotaḥ*), O praising priest —
+
+### Printed p. 216
+
+*Running head: [216 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 4. Sū. 33.] (as supplied).*
+
+श्रुतं गर्तसदॆं (*śrutaṃ gartasadèṃ*) [sic, as supplied] युवानं मृगं न भीमं उपहत्तुं उग्रं रुद्रं स्तुहि (*yuvānaṃ mṛgaṃ na bhīmaṃ upahattuṃ ugraṃ rudraṃ stuhi*) — प्रख्यातं, रथे सीदंतं (*prakhyātaṃ, rathe sīdaṃtaṃ*) ... "praise Rudra, the renowned, seated in the chariot, ever young, terrible like a lion, the destroyer of enemies, the uplifted (fierce one)." Rudra is famous because he is full of greatness; he is seated in a chariot; like a lion he is terrible to all; he is mighty. The command is expressed: praise Rudra of such majesty. In the second half the prayer of the sacrificer is stated, addressing Rudra: हे रुद्र स्तवानः त्वं जरित्रॆ मह्यं मृळ (*he rudra stavānaḥ tvaṃ jaritrè mahyaṃ mṛḷa*) — "O Rudra, praised by us, give happiness to me, the praiser"; so it is prayed that Rudra, praised by us the sacrificers, be gracious to us who have recited the praise; and ते सेनाः अस्मत् अन्यं नि वपंतु (*te senāḥ asmat anyaṃ ni vapaṃtu*) — "let your hosts destroy the person other than ourselves": let Rudra's hosts leave us who praise and destroy another man.
+
+गर्तसदं (*gartasadaṃ*)—रथे सीदंतं (*rathe sīdaṃtaṃ*). Yāska has read the word गर्त (*garta*) among the names of the house (Ni. 3-13). And citing the Ṛk (Ṛ. Saṃ. 1-124-7)
+
+ಅಭ್ರಾತೇವ ಪುಂಸ ಏತಿ ಪ್ರತೀಚೀ ಗರ್ತಾ ರುಗಿವ ಸನಯೇ ಧನಾನಾಂ ।
+ಜಾಯೇವ ಪತ್ಯ ಉಶತೀ ಸುವಾಸಾ ಉಷಾ ಹಸ್ರೇವ ನಿ ರಿಣೀತೇ ಅಪ್ಸಃ ॥
+
+he describes the meaning of the word गर्त (*garta*) as गर्तः सभा स्थाणुः (*gartaḥ sabhā sthāṇuḥ*) (Ni. 3-5). And: श्मशानसंचयोपि गर्त उच्यते (*śmaśānasaṃcayopi garta ucyate*), and गुरतेरपगूर्णॆ भवति (*guraterapagūrṇè bhavati*); and in the Ṛk (cited as "Mi. Saṃ. 5-62-8", as printed)
+
+ಹಿರಣ್ಯರೂಪಮುಷಸೋ ವ್ಯುಷ್ಟಾವಯಃಸ್ಥೂಣಮುದಿತಾ ಸೂರ್ಯಸ್ಯ ।
+ಆ ರೋಹಥೋ ವರುಣ ಮಿತ್ರ ಗರ್ತಮತಶ್ಚಕ್ಷಾಥೇ ಅದಿತಿಂ ದಿತಿಂ ಚ ।
+
+the word गर्त (*garta*) also: रथोपि गर्त उच्यते । गृणातेः स्तुतिकर्मणः । स्तुततमं यानं (*rathopi garta ucyate | gṛṇāteḥ stutikarmaṇaḥ | stutatamaṃ yānaṃ*) (Ni. 3-5). Thus four meanings are given: the house (in the gambling place) where the dice-pieces are placed, a house, the pit in a cemetery, and the chariot (the text says "house, house", as supplied). Here Sāyaṇa says it is used in the sense of chariot.
+
+#### Ṛk 12
+
+**॥ संहितापाठः ॥**
+
+> कु॒मा॒रश्चि॑त्पि॒तरं॒ वंद॑मानं॒ प्रति॑ नानाम रुद्रोप॒यंतं॑ ।
+> भूरे॑र्दा॒तारं॒ सत्प॑तिं गृणीषे स्तु॒तस्त्वं भे॑ष॒जा रा॑स्य॒स्मे ॥ १२ ॥
+
+> *kumāraścitpitaraṃ vaṃdamānaṃ prati nānāma rudropayaṃtaṃ |*
+> *bhūrerdātāraṃ satpatiṃ gṛṇīṣe stutastvaṃ bheṣajā rāsyasme ‖ 12 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 213 (PDF 213). Sūkta 33 Ṛk 8 Special Topics end; Ṛk 9 complete; Ṛk 10 through Bhāvārtha (printed English and Special Topics follow on p. 214). kn.md: Saṃhitā/Pada/bhāṣya blocks split, garbled labels (: ಚರಿತ್ರೆ ., ಜಯಬಾಹು, ಪ್ರತಿವಾರ್ಘ, ೦ ಸಂಹಿತಾಪಾಠ ೦) replaced by standard labels, Pratipadārtha un-quoted, stray ' ೪ ... ೦ ' removed; as supplied: Pratipadārtha ಅಸುರಂ vs ಅಸುರ್ಯಂ, garbled ಹಿರಣ್ಮಯ್ಕೆರ್ in bhāṣya, ತೇಜಶ್ಯಾಲಿಯು/ಅಂತಶ್ಯಕ್ತಿ spellings
+**Progress note:** Done through printed p. 216 (PDF 216). Sūkta 33 Ṛk 10 complete (printed English, Special Topics); Ṛk 11 complete; Ṛk 12 Saṃhitā only (Pada follows on p. 217). As supplied: ಓಜೇಯಃ for ओजीयः, ಶ್ರುತಂ ಗರ್ತಸದೆಂ, 'ಮಿ. ಸಂ. ೫-೬೨-೮' (Ṛ. Saṃ.?), ಉಪಹತ್ತುಂ vs ಉಪಹತ್ನುಂ, repeated 'ಮನೆ, ಮನೆ'; accent script reported 2 DIFF lines in this window.
