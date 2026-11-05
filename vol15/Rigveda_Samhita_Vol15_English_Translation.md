@@ -16951,6 +16951,151 @@ In Ṛks such as these it is explained, "listen to the praiser's excellent prais
 > *suretasā śobhanavīryeṇa śravasā tvatkṛtenānnenādevān devebhyo 'nyān |*
 > *nañvayuktanyāyena rākṣasā eva gṛhyaṃte | yajñavighnakāriṇastānpṛtanāyūṃśca*
 
+### Printed p. 536
+
+*[Running head, p. 536: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+*(Continuation of the Ṛk 16 bhāṣya, which broke off at the end of p. 535, as a following block:)*
+
+> शरीराद्युपद्रवकारिणः शत्रुंश्चाभिष्याम । अभिभवेम । यद्वा देवानपूजयतः
+> शत्रुनिति योज्यं ॥
+
+*(Gist: may we overcome the enemies who trouble our bodies; or the enemies of those who do not worship the gods.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Supraṇīte: you who have a gracious leadership. Agne: O Agni. Tava: you. Upakṣetāraḥ: approaching. Viśvāni: all. Dhanyā: the rites that are the cause of wealth in cattle and the like. Dadhānāḥ: doing. Tuṃjamānāḥ: offering oblations. We who are so. Surerasā: endowed with excellent vigour. Śravasā: with food. Adevān: the godless asuras. Pṛtanāyūn: and other enemies. Abhiṣyāma: may we overcome.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, of gracious leadership, we who approach you, perform all the rites that are the cause of wealth in cattle and the like, and offer oblations, may we overcome, with food endowed with excellent vigour, the godless asuras and other enemies.
+
+**Printed English translation**
+
+Approching [sic] you, benevolent Agni, and performing all holy acts that are the cause of opulence, offering oblations with earnestness and in abundance, may we overcome the hostile hosts that are without gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सुप्रणीते—शोभनप्रणयन । (*supraṇīte—śobhanapraṇayana |*) The prayer is made that Agni be our guide in sacrifices and other rites and in other undertakings.
+
+उपक्षेतारः-उपगंतारः । अत्र क्षितिर्गत्यर्थे वर्तते । (*upakṣetāraḥ-upagaṃtāraḥ | atra kṣitirgatyarthe vartate |*) Since the meaning of motion is given here to the word क्षिति (*kṣiti*), the sense is: we who have come near you, O Agni.
+
+धन्या—धन्यानि । पश्वादिधनप्राप्तिहेतुभूतानि कर्माणि । (*dhanyā—dhanyāni | paśvādidhanaprāptihetubhūtāni karmāṇi |*) Here धन्या (*dhanyā*) means the sacrifices and other rites performed to obtain wealth, such as cattle, which provide wealth.
+
+तुंजमानाः — (*tuṃjamānāḥ —*) since the root तुंजति (*tuṃjati*) is read among the acts of giving (Ni. 3-19), तुंजमानाः (*tuṃjamānāḥ*) means offering oblations.
+
+आदेवान् पृतनायून्—देवेभ्योऽन्यान् । राक्षसा विव गृह्यंते । यज्ञ (*ādevān pṛtanāyūn—devebhyo 'nyān | rākṣasā viva gṛhyaṃte | yajña*) [the supplied text writes राक्षसा विव गृह्यंते (*rākṣasā viva gṛhyaṃte*) and आदेवान् (*ādevān*) where the Saṃhitā has अदेवान् (*adevān*)]
+
+### Printed p. 537
+
+*[Running head, p. 537: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+—आदेवान् (*ādevān*) means those who are not gods, that is, asuras, rākṣasas and the like who cause obstacles to sacrificial rites. ⟦ಪೃತನಾಯೂನ್—ಇತರ ಶುತ್ರುಗಳನ್ನೂ । ಅಭಿಷ್ಯಾಮ—ಜಯಿಸವಂತಾಗಲಿ ।
+
+*ಭಾವಾರ್ಥ*
+
+ಅನುಗ್ರಹಾತ್ಮಕವಾದ ನೇತೃತ್ವವುಳ್ಳ ಎಲೈ ಅಗ್ನಿಯೇ, ನಿನ್ನನ್ನು ಸಮೀಪಿಸುವವರಾಗಿಯೂ, ಸಮಸ್ತವಾದ
+ಪಶ್ವಾದಿಧನಕ್ಕೆ ಹೇತುಭೂತವಾದ ಕರ್ಮಗಳನ್ನು ಮಾಡುವವರಾಗಿಯೂ, ಹವಿಸ್ಸನ್ನರ್ಪಿಸುವವರಾಗಿಯೂ ಇರುವ
+ನಾವು ಉತ್ತಮವಾದ ವೀರ್ಯದಿಂದ ಕೂಡಿದ ಅನ್ನದಿಂದ ದೈವಭಕ್ತಿಯಿಲ್ಲದ ಅಸುರರನ್ನೂ, ಇತರ ಶತ್ರುಗಳನ್ನೂ ಜಯಿ
+ಸುವಂತಾಗಲಿ.
+
+*English Translation.*
+
+Approching you, benevolent Agni, and performing all holy acts
+that are the cause of opulence, offering oblations with earnestness and in
+abundance, may we overcome the hostile hosts that are without gods.
+
+*ವಿಶೇಷವಿಷಯಗಳು*
+
+ಸುಪ್ರಣೀತೇ—ಶೋಭನಪ್ರಣಯನ । ಯಜ್ಞಾದಿಕರ್ಮಗಳಲ್ಲಿಯೂ, ಇತರ ಕೆಲಸಕಾರ್ಯಗಳಲ್ಲಿಯೂ
+ಅಗ್ನಿಯು ನಮಗೆ ಮಾರ್ಗದರ್ಶಕನಾಗಿರಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸಿದೆ.
+ಉಪಕ್ಷೇತಾರಃ-ಉಪಗಂತಾರಃ । ಅತ್ರ ಕ್ಷಿತಿರ್ಗತ್ಯರ್ಥೇ ವರ್ತತೇ । ಕ್ಷಿತಿಶಬ್ದಕ್ಕೆ ಇಲ್ಲಿ ಗತ್ಯರ್ಥವನ್ನು
+ಹೇಳಿರುವುದರಿಂದ, ಎಲೈ ಅಗ್ನಿಯೇ, ನಿನ್ನ ಸಮೀಪಕ್ಕೆ ಬಂದಿರುವ ನಾವು ಎಂದರ್ಥವು.
+ಧನ್ಯಾ—ಧನ್ಯಾನಿ । ಪಶ್ವಾದಿಧನಪ್ರಾಪ್ತಿಹೇತುಭೂತಾನಿ ಕರ್ಮಾಣಿ । ಇಲ್ಲಿ ಧನ್ಯಾ ಎಂದರೆ ಧನವನ್ನು
+ಒದಗಿಸಿಕೊಡುವ, ಪಶುಗಳೇ ಮೊದಲಾದ ಧನಪ್ರಾಪ್ತಿಗಾಗಿ ಮಾಡುವ ಯಜ್ಞಯಾ ಗಾದಿ ಕರ್ಮಗಳನ್ನು
+ಎಂದಭಿಪ್ರಾಯವು.
+ತುಂಜಮಾನಾಃ — ತುಂಜತಿಧಾತುವು ದಾನಕರ್ಮಗಳಲ್ಲಿ ಪಠಿತವಾಗಿರುವುದರಿಂದ (ನಿ. ೩-೧೯)
+ತುಂಜಮಾನಾಃ ಎಂದರೆ ಹವಿಸ್ಸನ್ನು ಅರ್ಪಿಸುವ ಎಂದರ್ಥವು.
+ಆದೇವಾನ್ ಪೃತನಾಯೂನ್—ದೇವೇಭ್ಯೋಽನ್ಯಾನ್ । ರಾಕ್ಷಸಾ ವಿವ ಗೃಹ್ಯಂತೇ । ಯಜ್ಞ-
+ವಿಘ್ನಕಾರಿಣಸ್ತಾನ್ । ಆದೇವಾನ್ ಎಂದರೆ ದೇವತೆಗಳಲ್ಲದವರನ್ನು ಎಂದರೆ ಯಜ್ಞ ಕರ್ಮಗಳಿಗೆ ವಿಘ್ನವನ್ನುಂಟು
+
+<!-- printed 537 -->
+*[ಅ. ೨. ಅ. ೮. ವ. ೧೬.] ಋಗ್ವೇದಸಂಹಿತಾ 53 7]*
+
+ಮಾಡುವ ಅಸುರರು, ರಾಕ್ಷಸರು ಮುಂತಾದವರನ್ನು ಎಂದರ್ಥವು, ಪೃತನಾಯೂನ್— ಎಂದರೆ ಶರೀರಾದ್ಯುಪದ್ರವ-
+ಕಾರಿಣಃ ಶತ್ರುವಂಶ್ಚ ।⟧ means enemies who harm our bodies in battles and the like. The wish is expressed that we may overcome these two kinds of enemies.
+
+#### Ṛk 17
+
+**॥ संहितापाठः ॥**
+
+> आ दे॒वाना॑मभवः के॒तुर॑ग्ने मं॒द्रो विश्वा॑नि॒ काव्या॑नि वि॒द्वान् ।
+> प्रति॒मर्ता॑ अवासयो॒ दमू॑ना॒ अनु॑ दे॒वान्र॑थि॒रो या॑सि॒ साध॑न् ॥
+
+> *ā devānāmabhavaḥ keturagne maṃdro viśvāni kāvyāni vidvān |*
+> *pratimartā avāsayo damūnā anu devānrathiro yāsi sādhan ‖*
+
+*(The Ṛk number ॥ ೧೭ ॥ is missing after the Saṃhitā in the supplied text.)*
+
+**॥ पदपाठः ॥**
+
+> आ । देवानां । अभवः । केतुः । अग्ने । मंद्रः । विश्वानि । काव्यानि । विद्वान् ।
+> प्रति । मर्तान् । अवासयः । दमूनाः । अनु । देवान् । रथिरः । यासि । साधन् ॥
+
+*(The Pada also lacks its closing number.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने मंद्रः स्तुत्यः केतुर्यज्ञेषु देवानां प्रज्ञापकस्त्वमाभवः । आ
+> समंताद्भवसि । सर्वव्यापको भवसीत्यर्थः । किंच विश्वानि सर्वाणि काव्यानि यजमानादिभिः कृतानि स्तोत्राणि विद्वान् जानन् त्वं मर्तान् मर्त्यान् स्तोत्यन् स्वाभिलषितवस्तु संपादनेन प्रीतान् विधाय गृहेषु प्रत्यवासयः । प्रतिवासयसि । रथिरो
+> रथी साधन् देवानां हितानि कर्माणि साधयन् देवान् अनु यासि च। अनुगच्छसि च॥
+
+*(Gist: O Agni, praiseworthy, indicator of the sacrifice for the gods, you pervade everywhere; knowing all the praises made by sacrificers, you make the mortals dwell contented in their houses; as a charioteer you follow the gods, accomplishing their ends. Hyphenated line breaks were joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Mandraḥ: praiseworthy. Devānāṃ: to the gods. Ketuḥ: the giver of notice of the sacrifice, you. Ā abhavaḥ: stand pervading all around. Viśvāni: all. Kāvyāni: the praises and so on (made by the sacrificer). Vidvān: you who know. Martān: men (devotees). Prati avāsayaḥ: make dwell comfortably (in their respective houses). Damūnāḥ: calm of mind. Rathiraḥ: a charioteer. Sādhan: performing the good of the gods. Devān: the gods. Anu yāsi: follow.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, praiseworthy, giver of notice of the sacrifice to the gods, you stand pervading everywhere. Knowing the praises and so on made by the sacrificer, you make devoted men dwell comfortably in their houses. As a charioteer, with calm mind, performing the good of the gods, you follow the gods.
+
+### Printed p. 538
+
+*[Running head, p. 538: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+**Printed English translation**
+
+You, Agni, are the commendable announcer of the gods, cognizant of all secred [sic] rites ; placid, you abide amongst mortals, and like a charioteer, you follow the gods, accomplishing (their wishes).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+मंद्रः—मंद्रा ऎंब शब्दवु वाङ्नामगळल्लि पठितवागिदॆ (*maṃdraḥ—maṃdrā èṃba śabdavu vāṅnāmagaḷalli paṭhitavāgidè*) (Ni. 2-23); and there is the etymology मदना हर्षकारी (*madanā harṣakārī*) (Ni. 11-28). Here the sense "praiseworthy" is given.
+
+दमूनाः— (*damūnāḥ—*) on the word दमूनाः (*damūnāḥ*) Yāska, giving the etymology, quotes this Ṛk—
+
+⟦ಜುಷ್ಟೋ ದಮೂನಾ ಅತಿಥಿರ್ದುರೋಣ ಇಮಂ ನೋ ಯಜ್ಞಮುಪ ಯಾಹಿ ವಿದ್ವಾನ್ ।
+ವಿಶ್ವಾ ಅಗ್ನೇ ಅಭಿಯುಜೋ ವಿಹತ್ಯಾ ಶತ್ರೂಯತಾಮಾಭರಾ ಭೋಜನಾನಿ ॥⟧
+
+—and says:
+
+⟦ದಮೂನಾ ದಮಮನಾ ವಾ, ದಾನಮನಾ ವಾ, ದಾಂತಮನಾ ವಾ । ಅಪಿ ನಾ ದಮ ಇತಿ ಗೃಹ
+ನಾಮ ತನ್ಮನಾಃ ಸ್ಯಾತ್ । ಮನೋ ಮನೋತೇಃ ।⟧
+
+दमूनाः (*damūnāḥ*) means one of a mind not cruel, or of a mind to give, or one who keeps his mind under control, or, since दम (*dama*) means a house, one whose mind is to be in houses; thus he has explained many kinds of meaning for the word दमूनाः (*damūnāḥ*).
+
+*[The supplied text has here a software-generated line: "This image contains no text. It is a decorative graphic design consisting of black swirls and loops on a white background." (an ornament), kept as a note.]*
+
+#### Ṛk 18
+
+**॥ संहितापाठः ॥**
+
+> नि दु॑रो॒णे अ॒मृतो॒ मर्त्या॑नां॒ राजा॑ ससाद वि॒दथा॑नि॒ साध॑न् ।
+> घृ॒तप्र॑तीक उर्वि॒या व्य॑द्यौद॒ग्निर्विश्वा॑नि॒ काव्या॑नि वि॒द्वान् ॥ १८ ॥
+
+> *ni duroṇe amṛto martyānāṃ rājā sasāda vidathāni sādhan |*
+> *ghṛtapratīka urviyā vyadyaudagnirviśvāni kāvyāni vidvān ‖ 18 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 535 (PDF 535). Sukta 1 (Mandala 3) Rik 14 Special Topics finished (p. 533); Rik 15 complete (pp. 533-535); Rik 16 Samhita, Pada and most of bhashya (p. 535), bhashya breaks off. Flags: Ma. Sam. for Ri. Sam. 7-31-10; hyphenated breaks joined in bhashya; 2 accent DIFF
+**Progress note:** Done through printed p. 538 (PDF 538). Sukta 1 (Mandala 3) Rik 16 complete (p. 536-537); Rik 17 complete (pp. 537-538); Rik 18 Samhita at end of p. 538. Flags: Rik 17 Samhita/Pada lack closing numbers; adevan/adevan spelling variants as supplied; 1 accent DIFF
