@@ -10508,6 +10508,131 @@ Many matters concerning the deity Savitṛ we shall explain in detail when we gi
 
 स्वस्तौ—अविनाशे क्षेमे । (*svastau—avināśe kṣeme |*) Yāska's etymology is स्वस्तित्यविनाशि नाम (*svastityavināśi nāma*) (Nirukta 3-21): well-being that does not perish, or wealth and other prosperity.
 
+### Printed p. 335
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2 (printed "ಅ."), Adhyāya 8, Varga 2, p. 335.*
+
+(Continuation of the Special Topics on Ṛk 1; the page opens in the middle of a sentence, and the first letters are printed as supplied, तपदाः (*tapadāḥ*) for what should be तदपाः (*tadapāḥ*) [?].) तपदाः वह्निः स्यः देवः सविता सवाय शश्वत्तमं उत् अस्थात् (*tapadāḥ vahniḥ syaḥ devaḥ savitā savāya śaśvattamaṃ ut asthāt*)—this god Savitṛ is the cause of the world's activities and the one who nourishes the world. This well-known Savitṛ rises every day so that all the activities of the creatures of the world, such as creation and continuance, may go on.
+
+नूनं देवेभ्यः रत्नं वि हि धाति (*nūnaṃ devebhyaḥ ratnaṃ vi hi dhāti*)—this god will now give delightful wealth and the like to the priests and sacrificers who are praising him.
+
+अथ वीतिहोत्रं स्वस्तौ आ अभजत् (*atha vītihotraṃ svastau ā abhajat*)—here the word अथ (*atha*) is said to have the sense of "and" (samuccaya). And may this god become a sharer in the matter of producing well-being for the sacrificer who desires to perform a sacrifice addressed to him or is performing it; that is, the meaning is that he should produce well-being for the sacrificer.
+
+हि (*hi*)—the word हि (*hi*) is used here merely to fill out the foot (pādapūraṇa).
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> विश्व॑स्य॒ हि श्रु॒ष्टये॑ दे॒व ऊ॒र्ध्वर्न् प्र बा॒हवा॑ पृ॒थुपा॑णिः॒ सिस॑र्ति ।
+> आप॑श्चिदस्य व्र॒त आ निम्म॑ग्रा अ॒यं चि॒द्वातो॑ रमते॒ परि॑ज्मन् ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> विश्वस्य । हि । श्रुष्टये । देवः । ऊर्ध्वः । प्र । बाहवा । पृथुपाणिः । सिसर्ति ।
+> आपः । चित् । अस्य । व्रते । आ । निमृग्राः । आयं । चित् । वातः । रमते । परिङ्मन् ॥
+
+> *viśvasya | hi | śruṣṭaye | devaḥ | ūrdhvaḥ | pra | bāhavā | pṛthupāṇiḥ | sisarti |*
+> *āpaḥ | cit | asya | vrate | ā | nimṛgrāḥ | āyaṃ | cit | vātaḥ | ramate | pariṅman ‖*
+
+*Note: the supplied text reads ऊर्ध्वर्न् (*ūrdhvarn*) and निम्मग्रा (*nimmagrā*) in the Saṃhitā against ऊर्ध्वः (*ūrdhvaḥ*) and निमृग्राः (*nimṛgrāḥ*) in the Pada, and अयं (*ayaṃ*) in the Saṃhitā against आयं (*āyaṃ*) in the Pada; reported as supplied. The bhāṣya has अयं चिद्वातः (*ayaṃ cidvātaḥ*).*
+
+**॥ सायणभाष्यम् ॥**
+
+> देवो द्योतमानः सविता पृथुपाणिर्महत्करो विश्वस्य श्रुष्टये जगतः
+> सुखायोर्ध्व उद्दतः सन् बाहवा बाहू प्रसिसर्ति । प्रसारयति । आपश्चित् आपोS-
+> प्यस्य व्रते प्रसवाख्यॆ कर्मणि सति ॥ व्रतं कर्वरमिति तन्नामसु पाठात् ॥ आ स्यंदंत
+> इति शेषः। ताश्च निमृग्रा नितरां शोधयित्यो गंगादिरूपेण जगत्पावयंतीत्यर्थः।
+> अयं चिद्वातोऽयमपि वायः परिज्मन् परितो गते व्याप्ते०तरिक्षे रमते ॥
+
+> *devo dyotamānaḥ savitā pṛthupāṇirmahatkaro viśvasya śruṣṭaye jagataḥ*
+> *sukhāyordhva uddataḥ san bāhavā bāhū prasisarti | prasārayati | āpaścit āpoS-*
+> *pyasya vrate prasavākhyè karmaṇi sati ‖ vrataṃ karvaramiti tannāmasu pāṭhāt ‖ ā syaṃdaṃta*
+> *iti śeṣaḥ| tāśca nimṛgrā nitarāṃ śodhayityo gaṃgādirūpeṇa jagatpāvayaṃtītyarthaḥ|*
+> *ayaṃ cidvāto 'yamapi vāyaḥ parijman parito gate vyāpte0tarikṣe ramate ‖*
+
+Gist: Savitṛ, large-handed, rising for the good of the world, stretches out his arms; the waters flow in his work, purifying as Gaṅgā and the rest; the wind too moves in the all-pervading atmosphere.
+
+### Printed p. 336
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Aṣṭaka 4 (as printed), Sūkta 38, p. 336.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*devaḥ* — the shining Savitṛ. *pṛthupāṇiḥ* — having extended hands (rays). *viśvasya* — of the world. *śruṣṭaye hi* — for the happiness indeed. *ūrdhvaḥ* — rising up, having dawned. *bāhavā* — his arms. *pra sisarti* — spreads out. *nimṛgrāḥ* — those that purify the world in the forms of Gaṅgā and so on. *āpaścit* — the waters also. *asya vrate* — on account of the work (of the nature of creation) of this Savitṛ. *ā (syandante)* — flow, running on. *ayaṃ cidvātaḥ* — this wind also. *parijman* — in this all-pervading atmosphere. *ramate* — sports.
+
+**भावार्थ (Bhāvārtha)**
+
+The shining Savitṛ, with extended rays, rises up for the happiness of the world and spreads out his arms. The waters too, which purify the world in the forms of Gaṅgā and the rest, flow on account of this work of Savitṛ, which is of the nature of creation. This wind also sports in this all-pervading atmosphere.
+
+**Printed English translation**
+
+The divine, vast-handed (Savitri), having risen, stretches forth his arms for the delight of all : the purifying waters (flow) for (the fulfilment of) his rites, and this circumambient air sports (in the firmament).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*viśvasya śruṣṭaye* — विश्वस्य श्रुष्टये—जगतः सुखाय (*viśvasya śruṣṭaye—jagataḥ sukhāya*). *Śruṣṭi* means happiness; the meaning is "for the happiness of the whole world". Yāska has read the word *śruṣṭi* among the names for "quick" (kṣipra): having said in the etymology श्रुष्टीति क्षिप्रनाम—आशु अष्टीति (*śruṣṭīti kṣipranāma—āśu aṣṭīti*) (Ni. 6-13), and elsewhere श्रुष्टीवरीः-सुखवत्यः (*śruṣṭīvarīḥ-sukhavatyaḥ*) (Ni. 6-22) ("happy ones"), the commentator has accepted the meaning "happiness" for the word *śruṣṭi* in the present Ṛk and explained it so.
+
+*vrate* — the word व्रतं (*vrataṃ*) is listed among the names of work (Ni. 3-1). Explaining this word in detail, Yāska says—
+
+> व्रतमित कर्मनाम वृणोतीति सतः ।
+> इदमपीतरत् व्रतमेतस्मादेव निवृत्तिकर्म वारयतीति सतः ।
+> अन्नमपि व्रतमुच्यते यदाव्रणोति शरीरं ।
+
+> *vratamita karmanāma vṛṇotīti sataḥ |*
+> *idamapītarat vratametasmādeva nivṛttikarma vārayatīti sataḥ |*
+> *annamapi vratamucyate yadāvraṇoti śarīraṃ |*
+
+(Reference printed (सि. २-१३) (*(si. 2-13)*), i.e. "Si. 2-13" as supplied; probably Nirukta, but the print has *Si.*.)
+
+### Printed p. 337
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2 (printed "ಅ."), Adhyāya 8, Varga 2, p. 337.*
+
+Thus he has given three meanings of the word *vrata*. That is: because the good or bad work done by a man pervades him, work is called *vrata*; or this work may also be a work of restraint, that is, because it holds back, i.e. prevents, work that he does not want or that is forbidden by the śāstra, it is called *vrata*; and because it pervades the body, food too is called *vrata*; so he has explained.
+
+1. (1) The word *vrata* is used in the sense of preventing, checking, protecting—
+
+> याः पार्थिवासो या अपामपि व्रते ता नो देवीः सुहवाः शर्म यच्छत ।
+
+> *yāḥ pārthivāso yā apāmapi vrate tā no devīḥ suhavāḥ śarma yacchata |*
+
+(Ṛ. Saṃ. 5-46-7.) In the word *vrate* of this Ṛk the meaning is *vṛjina*, that is, protection (as printed, in English: "protection") made by averting evil. The prayer is: may the goddesses who are on the earth and the goddesses who are in the water release us from distress and bring us protection and happiness. Here *vrate* means the protection that rescues from distress.
+
+> तासां नि चिक्क्युः कवयो निवानं परेषु या गुह्येषु व्रतेषु ।
+
+> *tāsāṃ ni cikkyuḥ kavayo nivānaṃ pareṣu yā guhyeṣu vrateṣu |*
+
+(Ṛ. Saṃ. 10-114-2.) The poets (sages) discovered what was hidden in caves where no one could see it; here *vrateṣu* is used as an adjective of *guhyeṣu*, with the meaning "hidden".
+
+> ददृश्र एषामवमा सदांसि परेषु या गुह्येषु व्रतेषु ।
+
+> *dadṛśra eṣāmavamā sadāṃsi pareṣu yā guhyeṣu vrateṣu |*
+
+(Ṛ. Saṃ. 3-54-5.)
+
+> असि यमो अस्यादित्यो अर्वन्नसि त्रितो गुह्येन व्रतेन ।
+
+> *asi yamo asyādityo arvannasi trito guhyena vratena |*
+
+(Ṛ. Saṃ. 1-163-3.) Here too the word *vratena* is used in the sense "hidden".
+
+(2) *Vrata* indicates a prohibitory rule, "such a work shall not be done", or a rule of dharma, "just such a work must be done" (law or ordinance)—
+
+> यच्चिद्दि ते विशो यथा प्र देव वरुण व्रतं । मिनीमसि द्यविद्यवि ॥
+
+> *yacciddi te viśo yathā pra deva varuṇa vrataṃ | minīmasi dyavidyavi ‖*
+
+(Ṛ. Saṃ. 1-25-1, printed "ಋಂ. ಸಂ."; the Kannada print has no closing mark before the reference.) O Varuṇa, since we are mere men, whichever of your ordinances we transgress (do not take note of it, and complete the work).
+
+> य उ श्रिया दमेष्टा दोषोषासि प्रशस्यते । यस्य व्रतं न मायते ।
+
+> *ya u śriyā dameṣṭā doṣoṣāsi praśasyate | yasya vrataṃ na māyate |*
+
+The (Agni) whose ordinance is not transgressed...................................
+
+22 (Ṛ. Saṃ. 2-8-3) (the stray "22" before the reference is as supplied).
+
 ---
 
-**Progress note:** Done through printed p. 334 (PDF 334). pp. 332-334: Sukta 38 Rk 1 bhashya, Pratipadartha, Bhavartha, printed English, Special Topics (Savitr, with Nirukta quotes); flags: 3 [?] (headword nitihotram for vitihotram, svasau for svastau, prajapratiye); Pada reads tattvapasah vs bhashya tadapah; no Sukta 37 continuation on these pages
+**Progress note:** Done through printed p. 337 (PDF 337). pp. 335-337: Sukta 38 Rk 1 Special Topics end; Rk 2 Samhita, Pada, bhashya, Pratipadartha, Bhavartha, printed English; Special Topics on sruṣṭi and vrata begun (Nirukta and Rk quotes in full); Pratipadartha un-quoted and Nirukta/Rk quotes made > blocks in kn.md; flags: 2 [?] (tapadah for tadapah at p. 335 start; Samhita/Pada spelling differences in Rk 2 noted as supplied; stray 22 before ref 2-8-3; Si. 2-13 reference as printed; Special Topics continues on p. 338)
