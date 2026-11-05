@@ -23210,6 +23210,93 @@ Samiddhaḥ: formed from the root इंधी दीप्तौ (*iṃdhī dī
 
 *[The window ends here, at the end of p. 750; the next window continues.]*
 
+### Printed p. 751
+
+*[Running head, p. 751: Aṣṭaka 2, Adhyāya 8, Varga 24, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> प्रेद्व॒ग्निर्वा॑वृधे॒ स्तोमे॑भिर्गि॒र्भिः स्तो॑तृ॒णां न॑म॒स्य॑ उ॒क्तैः ।
+> पू॒र्वीर्यु॒तस्य॑ सं॒दृश॑श्चका॒नः सं दू॒तो अ॑द्यौदु॒षसो॑ विरो॒के॥
+
+**॥ पदपाठः ॥**
+
+> प्र । इत् । ऊं इति । अग्निः । ववृधे । स्तोमेभिः । गीःभिः । स्तोतृणां । नमस्यः ।
+> उक्थैः ।
+> पूर्विः । ऋतस्य । संदृशः । चकानः । सं । दूतः । अद्यात् । उषसः । विरोके॥२॥
+
+**॥ सायणभाष्यम् ॥**
+
+> नमस्यः पूज्यो योऽग्निः स्तोतृणां स्तोतृर्गिर्भिर्वाग्भिरुक्थैः शस्त्रैश्च
+> प्रववृधे वृद्धिं प्राप्नोति दूतो देवानां दूतः सः पूर्विर्बह्वीर्यतस्यादित्यस्य
+> संदृशो दीप्तीश्च कानः कामयमानः सन् उषसो विरोके विरोचने प्रातःकाले
+> समद्यौत् । द्योतते । इत् उ पूर्णा ॥
+
+*(Gist: Agni, worshipful, grows by the praises and śastras of the singers; emulating the sun's many rays, the messenger of the gods shines at the dawn's glimmer.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Namasyaḥ: the worshipful. Agniḥ: Agni. Stotṛṇāṃ: of the praisers. Stomebhiḥ: by the stotras. Gīrbhiḥ: by the words of praise. Ukthaiḥ (printed उक्षैः (*ukṣaiḥ*)): by the śastra mantras. Pra vavṛdhe: attains growth. Dūtaḥ: Agni, the messenger of the gods. Pūrvīḥ: many in number. Yatasya (so printed): of the Āditya. Saṃdṛśaḥ: the radiant rays. Cakānaḥ: emulating. Uṣasaḥ: of Uṣas. Viroke: at the dawn, which indicates the appearance. Saṃ adyaut: shines.
+
+**भावार्थ (Bhāvārtha)**
+
+The worshipful Agni grows by the stotras, the words of praise and the śastras of the praisers. Agni, the messenger of the gods, emulating the many radiant rays of the Āditya, shines at the dawn that indicates the appearance of Uṣas.
+
+**Printed English translation**
+
+The adorable Agni is magnified by the hymns, the prayers, the praises, of (his) worshippers : emulating the many glories of the sun, the messenger (of the gods) shines forth at the glimmering of the dawn.
+
+### Printed p. 752
+
+*[Running head, p. 752: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 5.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+समस्यः अग्निः स्तोतृणां स्तोमेभिः उक्तैः गीर्भिः प्र ववृधे इत् । (*samasyaḥ agniḥ stotṛṇāṃ stomebhiḥ uktaiḥ gīrbhiḥ pra vavṛdhe it |*) (printed समस्यः (*samasyaḥ*)): since the word नमः (*namaḥ*) has the meanings salutation, praise and food, namasyaḥ may be said to mean worshipful, worthy to be saluted, fit for offering oblations and the like. Agni, worshipful to all, grows in this sacrificial altar by the śastra mantras recited by the praisers, that is, the hotṛs, the Sāman-chanting priests such as the Udgātṛ and others, by the verbal praises, by the recitation of the stomas such as the Trivṛt, and by the Sāman chanting; that is, being praised, he shines well, blazing and radiant; this is the purport. We have explained before the difference between stoma and stotra and the detailed description of the stomas. The stomas are sung by priests such as the Udgātṛ along with Sāman mantras. The ukthas or śastra mantras are recited by priests of the Hotṛ group together with Ṛgveda mantras. Both kinds of mantra recitation occur in the sacrifice. Here it is said that Agni grows by such praising sentences. It is said in many places in the Ṛgveda that by praising the gods, that is, by singing their virtues with Vedic mantras, the power of the gods increases. Śruti sentences such as त्वां वर्धंतु नो गिरः (*tvāṃ vardhaṃtu no giraḥ*) and वर्धंतु त्वा सुष्टुतयो गिरो मे (*vardhaṃtu tvā suṣṭutayo giro me*) support this.
+
+दूतः पूर्विः ऋतस्य संदृशः चकानः उषसः विरोके सं अद्यात् (*dūtaḥ pūrviḥ ṛtasya saṃdṛśaḥ cakānaḥ uṣasaḥ viroke saṃ adyāt*): it is said that Agni, the messenger of the gods, shone at the time of Uṣas as the sun shines with many rays. It is said in the Veda अग्निर्देवानां दूत आसीत्कावोऽसुराणां (*agnirdevānāṃ dūta āsītkāvo 'surāṇāṃ*), that is, Agni was the messenger of the gods, and Kāvya the messenger of the asuras. Here "messenger" means, as in the Śruti sentence ⟦ಪರೋಕ್ಷಂ
+ವಾ ಅನ್ಯೇ ದೇವಾ ಇಜ್ಯಂತೇ ।⟧ (Tai. Saṃ. 1-7-2-1, printed "तै (*tai*).. सं (*saṃ*)."), that if an oblation is to be offered to the gods, it must be offered only by offering it in Agni. For the gods do not receive oblations and the like directly; they receive them indirectly, that is, through Agni. Therefore Agni receives the stotras and the like recited by the sacrificers and priests in the sacrifice, and the oblations offered to the gods, and carries them to the gods in heaven. So in the Vedas Agni is praised as the messenger standing between men and the gods.
+
+The word पूर्विः (*pūrviḥ*) is formed from puru, "much", and is used in the sense of "many". The sun that rises after the time of Uṣas, being at first of gentle form, shines in due order with its many rays and at midday with extreme radiance. This very order
+
+### Printed p. 753
+
+*[Running head, p. 753: Aṣṭaka 2, Adhyāya 8, Varga 24, Ṛgvedasaṃhitā.]*
+
+[continuing:] it is said here that Agni follows. That is, Agni established in the sacrifice, though of gentle form at the beginning of the sacrifice, gradually becomes kindled and grows by the substances the priests offer, such as wood, kindling-sticks, ghee and oblations, and shines with great brilliance; so he is described by the likeness to the rays of the sun.
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> अधा॑य्य॒ग्निर्मानु॑षीषु वि॒क्ष्व१॒ं॑पां गर्भो॑ मि॒त्र ऋ॒तेन॒ साध॑न् ।
+> आ ह॑र्य॒तो य॑ज॒तः सान्व॑स्था॒दभू॑दु॒ विप्रो॒ हव्यो॑ मती॒नां ॥३॥
+
+**॥ पदपाठः ॥**
+
+> अधायि । अग्निः । मानुषीषु । विक्षु । अपां । गर्भः । मित्रः । ऋतेन । साधन् ।
+> आ । हर्यतः । यजतः । सानु । अस्थात् । अभूत् । ऊं इति । विप्रः । हव्यः ।
+> मतीनां ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> मित्रो यजमानानां मित्रभूत ऋतेन सत्येन साधन् कामान् साधयन्
+> अपां गर्भोऽग्निर्मानुषीषु मनोः संबंधिनीषु विक्षु प्रजास्वधायि । देवैराहितः।
+> किंच हर्यतः स्पृहणीयो यजतो यष्टव्यः स सानूच्छ्रितं धिष्ण्यमुत्तरवेद्याख्यमास्थात् । अध्यतिष्ठत् । विप्रः प्राज्ञोऽग्निर्मतीनां मातृणां स्तोतृणां
+> हव्यः स्तुत्योऽभूत् ॥
+
+*(Gist: Agni, friend of the sacrificers, accomplishing wishes by truth, the womb of the waters, is established among Manu's people; desirable and worshipful, he stands on the upper altar; praised by the singers.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mitraḥ: the friend of the sacrificers. Ṛtena: by truth. Sādhan: one who accomplishes the desired aims. Apāṃ garbhaḥ: one who is the womb of the waters. Agniḥ: Agni. Mānuṣīṣu: of the descendants of Manu. Vikṣu: among the people. Adhāyi: has been established (by the gods). Haryataḥ: the desirable. Yajataḥ: the worshipful Agni. Sānu: the raised region in the form of the upper altar. Ā asthāt: stands resting on. Vipraḥ: the wise Agni. Matīnāṃ: for the praisers. Havyaḥ: worshipful. Abhūt: has become (printed "अदनु (*adanu*)", as supplied).
+
+*[Stray line as supplied at the end of p. 753: "48", kept as a note in kn.md.]*
+
+*[The window ends here, at the end of p. 753, after the Pratipadārtha of Ṛk 3; the next window continues with the Bhāvārtha.]*
+
 ---
 
-**Progress note:** Done through printed p. 750 (PDF 750). Sūkta 5 (Maṇḍala 3) begins: Sāyaṇa intro, Ṛk 1 (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) and Special Topics so far
+**Progress note:** Done through printed p. 753 (PDF 753). Sūkta 5 Ṛk 2 (full) and Special Topics; Ṛk 3 Saṃhitā, Pada, bhāṣya, Pratipadārtha
