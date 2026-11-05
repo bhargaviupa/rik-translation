@@ -1,5 +1,37 @@
 # Rigveda Samhita — Volume 15 (Kannada → English translation)
 
+### Printed p. 1
+
+*Note: printed p. 1 was missing from the first pass (it has no running head, so the page splitter did not find it); it is inserted here, before p. 2. Its last sentence breaks off and continues at the top of p. 2.*
+
+*Title page of the volume: invocation, title, and the start of the Pīṭhike. (The supplied text has the Om sign above the invocation; it is left out of the Kannada file, which is Kannada script only, and of the Sanskrit block here.)*
+
+> ॥ श्रीः ॥
+> ॥ श्री गणाधिपतये नमः ॥
+
+> *‖ śrīḥ ‖*
+> *‖ śrī gaṇādhipataye namaḥ ‖*
+
+> वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे ।
+> यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननं ॥
+> यस्य निश्वसितं वेदा यो वेदेभ्योऽखिलं जगत् ।
+> निर्ममे तमहं वंदे विद्यातीर्थमहेश्वरं ॥
+> वेदः शिवः शिवो वेदो वेदाध्यायी सदाशिवः ।
+> तस्मात्सर्वप्रयत्नेन वेदमेव सदा जपेत् ॥
+
+> *vāgīśādyāḥ sumanasaḥ sarvārthānāmupakrame |*
+> *yaṃ natvā kṛtakṛtyāḥ syustaṃ namāmi gajānanaṃ ‖*
+> *yasya niśvasitaṃ vedā yo vedebhyo 'khilaṃ jagat |*
+> *nirmame tamahaṃ vaṃde vidyātīrthamaheśvaraṃ ‖*
+> *vedaḥ śivaḥ śivo vedo vedādhyāyī sadāśivaḥ |*
+> *tasmātsarvaprayatnena vedameva sadā japet ‖*
+
+Sāyaṇa-bhāṣya-sahitā Ṛgveda-saṃhitā, Part 15. In the Second Aṣṭaka, the Seventh Adhyāya. The twenty-fourth sūkta in the Second Maṇḍala.
+
+**Pīṭhike (Introduction)**
+
+This part begins with the sūkta called सेमामविड्डि (*semāmaviḍḍi*) [?], which praises the deities Bṛhaspati and Brahmaṇaspati. Who are these deities? What is their nature? It is necessary to examine this matter closely. Gṛtsamada is the sage of this sūkta, addressed to Bṛhaspati, and of the sūkta before it. In both these sūktas Bṛhaspati is praised in some Ṛks and Brahmaṇaspati in others. To both these deities, many common
+
 ### Printed p. 2
 
 *Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24.* (Pīṭhike, continued from the preceding page.)
