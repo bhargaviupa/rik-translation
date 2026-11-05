@@ -26575,4 +26575,110 @@ and for the word असिन्वती (*asinvatī*) in it gives the explanat
 
 ---
 
-**Progress note:** Done through printed p. 695 (PDF 718). Sūkta 13, Ṛk 4 is OPEN: Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English written; the Viśeṣaviṣayagaḷu is in progress and breaks off at the end of p. 695 in the middle of a sentence ("Even in the meaning relating to Agni, Yāska's …"), to be continued on p. 696. No grammar pages. No FILE DISAGREE (file rows "10-79-1" and "6-4" on p. 695 agree with the strip as seen, unzoomed). Unzoomed numerals: headers of pp. 693–695. [?] places: ending of Pada word "दंष्ट्र्यैः" (p. 693; the earlier Saṃhitā reading "दंष्ट्र्यः" of p. 692 remains as written); "त्वयो दत्तं" kept as printed.
+### Printed p. 696 (PDF 719)
+
+*(Header: "696", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed]. Continuation of the Viśeṣaviṣayagaḷu of Ṛk 4 from p. 695, resuming in the middle of the sentence. The numeral file has rows for the Ṛg-veda references "10-69-2", "7-39-6" and "8-45-38". They agree with the strip as seen, unzoomed. The row "3.6" in line 8 is not a reference; it is noise from "ಮತ್ತು—".)*
+
+…explanation alone fits properly. For in the Ṛk quoted as the illustration this word is used with reference to Agni. And—
+
+*(The Ṛk is quoted in the source as a separate centred line; the reference is printed "Ṛ. Saṃ. 10-69-2" [as printed; on p. 695 the Ṛk with the word असिन्वती was cited as 10-79-1]. The reading "निहितमृथगक्षी" is uncertain at the letters मृथ [?]; the printed ma carries a hook, which is not the vowel u.)*
+
+> गुहा शिरो निहितमृथगक्षी [?] असिन्वन्नत्ति जिह्वया वनानि ।
+
+> *guhā śiro nihitamṛthagakṣī [?] asinvannatti jihvayā vanāni |*
+
+(Ṛ. Saṃ. 10-69-2, as printed)
+
+In this Ṛk also, for the word असिन्वन् (*asinvan*) the commentator has explained the meaning with the words असिन्वन् दंत्रैरसंखादजिह्वया [?] (*asinvan daṃtrairasaṃkhādajihvayā [?]*) *(the word before असंखाद is doubtful: printed as if दंत्रैः)*. Here too the meaning relates to Agni. When Agni burns oblations or forests, he does not chew slowly with his teeth (his flames), but spreads quickly and eats, that is, burns. The word असिन्वन् (*asinvan*) appears to be used exactly in this sense. Therefore the meaning relating to Agni that the commentator has given in the present Ṛk may well be the ṛṣi's intention. Besides, the word असिन्वन् (*asinvan*) occurs in the Ṛks Ṛ. Saṃ. 7-39-6 and 8-45-38, but there the commentator has taken these words to be formed from the root असु-क्षेपणे (*asu-kṣepaṇe*) (meaning "to throw"), and has explained the meaning accordingly.
+
+---
+
+#### Ṛk 5
+
+*(Reading notes: the Ṛk number "5" is printed at the end of the Saṃhitā and again at the end of the Pada. The last word of the Saṃhitā, "अजनन्सास्युक्थ्यः", is read as printed, with the Pada showing अजनन् । सः । असि । उक्थ्यः. In the Pada the compound mark ऽ is printed in संऽदृशे, अहिऽहन् and उदऽभिः. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> अधा॑कृणोः पृथि॒वीं सं॒दृशे॑ दि॒वे यो धौ॑ती॒नाम॑हिह॒न्नारि॑णक्प॒थः ।
+> तं त्वा॒ स्तोमे॑भिरु॒दभि॒र्न वा॒जिनं॑ दे॒वं दे॒वा अ॑जन॒न्सास्यु॒क्थ्यः॑ ॥ ५ ॥
+
+> *adhākṛṇoḥ pṛthivīṃ saṃdṛśe dive yo dhautīnāmahihannāriṇakpathaḥ |*
+> *taṃ tvā stomebhirudabhirna vājinaṃ devaṃ devā ajanansāsyukthyaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> अध । अकृणोः । पृथिवीं । संऽदृशे । दिवे । यः । धौतीनां । अहिऽहन् । अरिणक् । पथः ।
+> तं । त्वा । स्तोमेभिः । उदऽभिः । न । वाजिनं । देवं । देवाः । अजनन् । सः । असि ।
+> उक्थ्यः ॥ ५ ॥
+
+> *adha | akṛṇoḥ | pṛthivīṃ | saṃ 'dṛśe | dive | yaḥ | dhautīnāṃ | ahi 'han | ariṇak | pathaḥ |*
+> *taṃ | tvā | stomebhiḥ | uda 'bhiḥ | na | vājinaṃ | devaṃ | devāḥ | ajanan | saḥ | asi |*
+> *ukthyaḥ ‖ 5 ‖*
+
+---
+
+### Printed p. 697 (PDF 720)
+
+*(Header: "A. 2 A. 6 V. 10 ]", "Ṛgvedasaṃhitā", "697" [numerals unzoomed; the numeral file has no row for this page]. Continuation of Ṛk 5. In the grammatical tail of the bhāṣya, a few words are doubtful: "लजुसिप्", "हल्ङ्यादिना", "हन्तेर्हे" and "पद्दन्नोमा". They are written as read, with [?]. No sūtra numbers are printed.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, you made the earth fit to be seen by the shining Sun and opened the paths of the flowing rivers; the gods made you divine with hymns, as a horse is strengthened with water.*
+
+> हे इन्द्र अध अपि च त्वं दिवे द्योतमानाय सूर्याय पृथिवीं चलितां सतीं दृढीकृत्य संदृशे संदर्शनीयामकृणोः । अकरोः ॥ दृशे विख्ये चेति केस्प्रत्ययान्तत्वेन निपातितः ॥ यश्च त्वं धौतीनां चलन्तीनां नदीनां पथो मार्गानरिणक् । अरेचयः । गन्तुं योग्यानकरोरित्यर्थः ॥ रुचिर् विरेचने । लजुसिप् [?] । तस्य हल्ङ्यादिना [?] लोपः ॥ अहिहन् अहेर्वृत्रस्य मेघस्य वा हन्तेर्हे [?] इन्द्र देवाः स्तोतारस्तं तादृशं देवं त्वां स्तोमेभिः स्तोत्रैरजनन् । तत्र दृष्टान्तः । उदभिर्न वाजिनं । यथा वाजिनमश्वमुदभिरुदकैर्वर्धयन्ति तद्वत् ॥ पद्दन्नोमा [?] -सित्यादिनोदकस्योदन्भावः ॥ शेषं सिद्धम् ॥
+
+> *he indra adha api ca tvaṃ dive dyotamānāya sūryāya pṛthivīṃ calitāṃ satīṃ dṛḍhīkṛtya saṃdṛśe saṃdarśanīyāmakṛṇoḥ | akaroḥ ‖ dṛśe vikhye ceti kespratyayāntatvena nipātitaḥ ‖ yaśca tvaṃ dhautīnāṃ calantīnāṃ nadīnāṃ patho mārgānariṇak | arecayaḥ | gantuṃ yogyānakarorityarthaḥ ‖ rucir virecane | lajusip [?] | tasya halṅyādinā [?] lopaḥ ‖ ahihan ahervṛtrasya meghasya vā hanterhe [?] indra devāḥ stotārastaṃ tādṛśaṃ devaṃ tvāṃ stomebhiḥ stotrairajanan | tatra dṛṣṭāntaḥ | udabhirna vājinaṃ | yathā vājinamaśvamudabhirudakairvardhayanti tadvat ‖ paddannomā [?] -sityādinodakasyodanbhāvaḥ ‖ śeṣaṃ siddham ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra.) अध (*adha*)—apart from the extraordinary deeds described above. दिवे (*dive*)—for the shining Sun. पृथिवीं (*pṛthivīṃ*)—the earth. संदृशे (*saṃdṛśe*)—fit for seeing. अकृणोः (*akṛṇoḥ*)—you have made. यः (*yaḥ*)—you who. धौतीनां (*dhautīnāṃ*)—of the flowing rivers. पथः (*pathaḥ*)—the paths. अरिणक् (*ariṇak*)—have laid out. अहिहन् (*ahihan*)—O Indra, slayer of Vṛtra. देवं तं त्वा (*devaṃ taṃ tvā*)—you, of such divine nature (printed "ದೇವಕಾತ್ಮನಾದ", apparently a misprint for "ದೇವತಾತ್ಮನಾದ" [sic]). देवाः (*devāḥ*)—the worshippers. वाजिनं (*vājinaṃ*)—a horse. उदभिर्न (*udabhirna*)—as one makes it strong with water. स्तोमेभिः (*stomebhiḥ*)—with hymns. अजनन् (*ajanan*)—they made you grow. सः (*saḥ*)—such a one. उक्थ्यः असि (*ukthyaḥ asi*)—you are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, apart from the extraordinary deeds described above, you made the earth fit to be seen by the shining Sun. O Indra, slayer of Vṛtra, you who laid out the paths of the flowing rivers, such a divine being as you the worshippers made grow great with hymns, as one makes a horse strong with water. Such as you are, you are praiseworthy.
+
+**English Translation** *(as printed)*
+
+Inasmuch as you have rendered earth visible to heaven, and set open the path of the rivers by slaying Ahi; therefore the gods have rendered you divine by praises, as (men) invigorate a horse by water; (and) you are, (Indra), to be praised.
+
+---
+
+### Printed p. 698 (PDF 721)
+
+*(Header: "698", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13" [numerals unzoomed; the numeral file has no row for this page]. The Viśeṣaviṣayagaḷu of Ṛk 5 begins at the top of the page and breaks off at its end, in the middle of a sentence.)*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अध अकृणोः पृथिवीं संदृशे दिवे (*adha akṛṇoḥ pṛthivīṃ saṃdṛśe dive*)—
+
+> हे इन्द्र अध अपि च त्वं दिवे द्योतमानाय सूर्याय पृथिवीं चलितां सतीं दृढीकृत्य संदृशे संदर्शनीयामकृणोः ।
+
+> *he indra adha api ca tvaṃ dive dyotamānāya sūryāya pṛthivīṃ calitāṃ satīṃ dṛḍhīkṛtya saṃdṛśe saṃdarśanīyāmakṛṇoḥ |*
+
+O Indra, making this trembling earth firm so that it does not move, you made it visible to the Sun shining in the sky (antarikṣa): such is the commentator's meaning. Or another kind of meaning can also be given. Between the earth and the Sun, in the antarikṣa, you struck with the vajra weapon Vṛtra who pervaded it, or the clouds, and made the water fall on the earth as rain. Thus you destroyed the clouds that had covered the Sun so that it could not be seen in the antarikṣa, and made the earth come within the Sun's sight. When clouds gather and it is dark in the antarikṣa, the Sun is not seen, and the earth is not seen by the Sun. At such a time Indra injures the clouds and makes rain, and thereby destroys the clouds. The antarikṣa then becomes clear without any covering, and the Sun sees the earth well: this is the main intention.
+
+यः धौतीनां अहिहन् अरिणक् पथः (*yaḥ dhautīnāṃ ahihan ariṇak pathaḥ*)—
+
+> यश्च त्वं धौतीनां चलन्तीनां नदीनां पथो मार्गानरिणक् । अरेचयः । गन्तुं योग्यानकरोरित्यर्थः ।
+
+> *yaśca tvaṃ dhautīnāṃ calantīnāṃ nadīnāṃ patho mārgānariṇak | arecayaḥ | gantuṃ yogyānakarorityarthaḥ |*
+
+O Indra, you killed the demon Vṛtra who held back the rain in the antarikṣa, or the clouds, and made the rain fall to the earth. You laid out the way by which those rain-waters go to the sea. All the rain that falls on the earth reaches a river. The river goes "of its own", that is, it flows in a definite channel and reaches the sea. Ordinarily the river's water flows as far as the sea along one definite course (or one that gradually slopes lower as it proceeds). Since that course is always the same, without variation, the main intention is that Indra built that definite course along which the river flows.
+
+अहिहन् (*ahihan*)—
+
+> अहेर्वृत्रस्य मेघस्य वा हन्तः
+
+> *ahervṛtrasya meghasya vā hantaḥ*
+
+*(printed "अहेर्वृत्रस्य मेघस्य वा हंतः")* Vṛtrāsura, or the cloud. Since Indra is the destroyer of these, he is addressed by the word अहिहन् (*ahihan*).
+
+तं त्वा स्तोमेभिः उदभिः न वाजिनं देवं देवा अजनन् (*taṃ tvā stomebhiḥ udabhiḥ na vājinaṃ devaṃ devā ajanan*)—O Indra, the commentator's explanation is that the devas, as one makes a horse grow with water, praise with hymns and the like the qualities of you who performed the bold deeds described above, and make you endowed with qualities. The meaning of this sentence is not clear. The devatās praise you (Indra) with hymns. The main intention is that Indra's power increases through hymns. When hymns are chanted, the power of the devatās
+
+*(The passage continues on p. 699.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 698 (PDF 721). Sūkta 13, Ṛk 5 is OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. The Viśeṣaviṣayagaḷu is in progress and breaks off at the end of p. 698 in the middle of a sentence ("When hymns are chanted, the power of the devatās …"), to be continued on p. 699. On p. 696 the Ṛk 4 Viśeṣaviṣayagaḷu was completed. No grammar pages. No FILE DISAGREE: the file rows "10-69-2" (printed so on p. 696, whereas p. 695 cited the Ṛk with असिन्वती as 10-79-1), "7-39-6" and "8-45-38" agree with the strip as seen, unzoomed. Unzoomed numerals: headers of pp. 696–698; Ṛk number 5. [?] places: the Ṛk quoted on p. 696 (मृथ in "निहितमृथगक्षी"); bold bhāṣya word "दंत्रैरसंखादजिह्वया"; in the bhāṣya tail of Ṛk 5 "लजुसिप्", "हल्ङ्यादिना", "हन्तेर्हे", "पद्दन्नोमा". Accent marks not reproduced.
