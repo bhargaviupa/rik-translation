@@ -24537,6 +24537,105 @@ in this there is no distinction between great and small among the gods. There is
 
 *[The window ends here, at the end of p. 793, at the end of the Ṛk 9 Special Topics; the next window continues.]*
 
+### Printed p. 794
+
+*[Running head, p. 794: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+[continuing the Ṛk 9 Special Topics:] देवपत्नियॆ (*devapatniyè*) (so printed): when the names of the wives of the gods are given in the Ṛgveda, the names of the wives of only some principal gods are given. Namely, इंद्राणी, वरुणानी, अग्नाया (*iṃdrāṇī, varuṇānī, agnāyā*): the wife of Indra is called Indrāṇī, the wife of Varuṇa Varuṇānī, and the wife of Agni Agnāyī. On this Yāska:
+
+⟦ಇಂದ್ರಾಣೀಂದ್ರಸ್ಯ ಪತ್ನ್ಯಗ್ನಾಯ್ಯಗ್ನೇಃ ಪತ್ನ್ಯಶ್ವಿನ್ಯಶ್ವಿನೋಃ ಪತ್ನಿರಾಟ್ ರಾಜತೇ ।
+ರೋದಸೀ ರುದ್ರಸ್ಯ ಪತ್ನಿ । ವರುಣಾನೀ ಚ ವರುಣಸ್ಯ ಪತ್ನಿ ।⟧
+(printed सि (*si*). 12-46)
+
+has said so. These are called the wives of the gods. In some Ṛks their names are not given separately but are stated collectively as "wives of the gods". We give some Ṛks as examples:
+
+⟦ಇಂದ್ರಾಣೀಮಾಸು ನಾರಿಷು ಸುಭಗಾಮಹಮಶ್ರವಂ ।
+ನಹ್ಯಸ್ಯಾ ಅಪರಂ ಚನ ಜರಸಾ ಮರತೇ ಪತಿರ್ವಿಶ್ವಸ್ಮಾದಿಂದ್ರ ಉತ್ತರಃ ॥⟧
+(Ṛ. Saṃ. 10-86-11)
+(printed ಮ. सं (*saṃ*) 10-86-12)
+
+उताहमस्मि वीरिणेंद्रपत्नी मरुत्सखा विश्वस्मादिंद्र उत्तरः ॥ (*utāhamasmi vīriṇeṃdrapatnī marutsakhā viśvasmādiṃdra uttaraḥ ‖*)
+(Ṛ. Saṃ. 10-86-9)
+
+इंद्राणीमह्व ऊतये वरुणानीं स्वस्तये । (*iṃdrāṇīmahva ūtaye varuṇānīṃ svastaye |*)
+(Ṛ. Saṃ. 2-32-8)
+
+⟦ಉತ ಗ್ನಾ ವ್ಯಂತು ದೇವಪತ್ನೀರಿಂದ್ರಾಣ್ಯ ೧ ಗ್ಯಾಯ್ಯಶ್ವಿನೀ ರಾಟ್ ।
+ಆ ರೋದಸೀ ವರುಣಾನೀ ಶೃಣೋತು ವ್ಯಂತು ದೇವೀರ್ಯ ಋತುರ್ಜನೀನಾಂ ॥⟧
+(printed ಮ. सं (*saṃ*). 5-46-8)
+
+⟦ದೇವಾನಾಂ ಪತ್ನಿರುಶತೀರವಂತು ನಃ ಪ್ರಾವಂತು ನಸ್ತುಜಯೇ ವಾಜಸಾತಯೇ ।
+ಯಾಃ ಪಾರ್ಥಿವಾಸೋ ಯಾ ಅಪಾಮಪಿ ವ್ರತೇ ತಾ ನೋ ದೇವೀಸ್ಸುಹವಾಃ ಶರ್ಮ ಯಚ್ಛತ ॥⟧
+(printed ಮ. सं (*saṃ*). 5-46-7)
+
+In these and many other Ṛks the names of the wives of the gods are read.
+
+*[Image note as supplied in kn.md: "This image contains no text. It is a decorative graphic design consisting of black swirls and loops on a white background."]*
+
+### Printed p. 795
+
+*[Running head, p. 795: Ā. (printed so for A.) 2, Ā. 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> स होता॒ यस्य॒ रोद॑सी चिदु॒र्वी य॒ज्ञंय॑ज्ञम॒भि वृ॒धे गृ॑णी॒तः ।
+> प्राची॑ अध्व॒रेव॑ तस्थतुः सु॒मेके॑ ऋ॒ताव॑री ऋ॒तजा॑तस्य स॒त्ये ॥१०॥
+
+**॥ पदपाठः ॥**
+
+> सः । होता । यस्य । रोदसी इति । चित् । उर्वी इति । यज्ञंयज्ञं । अभि । वृधे ।
+> गृणीतः ।
+> प्राची इति । अध्वराइव । तस्थतुः । सुमेके इति सुमेके । ऋतवरी इत्यृतवरी ।
+> ऋतजातस्य । सत्ये इति ॥ १० ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> स एव होता भवति उर्वि विस्तीर्णे रोदसी चित् द्यावापृथिव्यावपि
+> यस्याग्नेयज्ञंयज्ञं सर्वं यज्ञं वृधे समृद्धयेऽभिगृणीतः । प्रशंसतः ।
+> ऋतजातस्य । जातसत्यस्य होतुः सुमेके सुरूपे ऋतावरी उदकवत्यौ सत्ये
+> सत्यस्वरूपे प्राची अनुकूले तस्थतुः । तिष्ठतः । कथमिव । अध्वरेव । अध्वराविव ।
+> यज्ञाविव ॥
+
+*(Gist: he alone is the hotṛ whose sacrifice the vast heaven and earth praise at every sacrifice for increase; the two, fair, watery, true and favourable, stand by the truth-born hotṛ like two sacrifices.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Urvi: very extensive. Rodasī cit: heaven and earth too. Yasya: whose Agni's greatness. Yajñaṃ yajñaṃ: at every sacrifice. Vṛdhe: for prosperity (the supplied text had Devanagari letters in this word; rewritten in Kannada letters one for one). Abhi gṛṇītaḥ: praise. Saḥ: he. Hotā: becomes the hotṛ. Sumeke: of one form. Ṛtāvarī: charged with water. Satye: of true nature. Prācī: favourable (heaven and earth). Ṛtajātasya: in the presence of this truth-born Agni. Adhvareva: like excellent sacrifices. Tasthatuḥ: stand waiting.
+
+**भावार्थ (Bhāvārtha)**
+
+The very extensive heaven and earth too, whose greatness of Agni they praise at every sacrifice for prosperity, that Agni is the hotṛ for the sacrifices.
+
+### Printed p. 796
+
+*[Running head, p. 796: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 6.]*
+
+Heaven and earth, of one form, charged with water, of true nature and favourable, stand waiting like excellent sacrifices in the presence of this truth-born Agni.
+
+**Printed English translation**
+
+He is the invoker (of the gods), whom the spacious heaven and earth glorify, for the sake of increase, at repeated sacrifices : charged with water, they await like holy rites, propitious to the real presence of him who is born of truth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The meaning of this Ṛk is easy. In it, it is praised that heaven and earth praise Agni and are helpers to him in the sacrificial rites. Heaven and earth praise this Agni who invokes the gods to come to the sacrifices. In every sacrifice, that is, in all the sacrifices men perform addressed to the gods, this Agni carries out the offering and gives the sacrificers the fruit of the sacrifice. It is through Agni that a sacrifice is carried out successfully. Near this Agni, of true nature, these heaven and earth, of good form, of true nature and charged with rain-water, take form and stand as helpers to Agni like two sacrifices that serve him; this is the chief purport.
+
+#### Ṛk 11
+
+**॥ संहितापाठः ॥**
+
+> इळा॑मग्ने पुरु॒दंसं॑ स॒निं गोः श॑श्वत्त॒मं हव॑मानाय साध ।
+> स्यान्नः॑ सू॒नुस्तन॑यो वि॒जावाग्ने॒ सा ते॑ सुम॒तिर्भू॑त्व॒स्मे ॥ ११ ॥
+
+**॥ पदपाठः ॥**
+
+> इळां । अग्ने । पुरुदंसं । सनिं । गोः । शश्वत्तमं । हवमानाय । साध ।
+> स्यात् । नः । सूनुः । तनयः । विजावा । अग्ने । सा । ते । सुमतिः । भूतु । अस्मे इति॥
+
+*[The window ends here, at the end of p. 796, after the Pada of Ṛk 11; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 793 (PDF 793). Sūkta 6 Ṛk 9 Special Topics (the thirty-three gods: Nirukta 7-5; Ṛks 1-34-11, 1-45-2, 8-30-2, 8-35-3, 9-92-4; Śat. Brā., Ai. Brā. 2-18; 3-9-9, 1-27-13, 8-30-1)
+**Progress note:** Done through printed p. 796 (PDF 796). Sūkta 6 Ṛk 9 Special Topics end (wives of the gods); Ṛk 10 (full) and Special Topics; Ṛk 11 Saṃhitā and Pada
