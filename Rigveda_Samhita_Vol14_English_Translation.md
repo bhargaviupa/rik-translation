@@ -31571,6 +31571,84 @@ Come hither, Indra, (having heard) my prayer: yoke your two universal steeds to 
 > *śatrūṇāṃ jetāro bhavema | yadvā prāye prāye | prakarṣaṇeyate gamyate*
 > *yoddhṛbhiiriti prāyaṃ yuddhaṃ | tasminyuddhe jigīvāṃsaḥ śatrūn jitavaṃto bhavema ‖*
 
+### Printed p. 833
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 22] Ṛgvedasaṃhitā 833".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्रेण (*iṃdreṇa*)—with Indra; मे (*me*)—my; सख्यं (*sakhyaṃ*)—friendship; न वि योषत् (*na vi yoṣat*)—may (ever) not be separated; अस्य (*asya*)—of this Indra; दक्षिणा (*dakṣiṇā*)—the gift; अस्मभ्यं (*asmabhyaṃ*)—to us; दुहीत (*duhīta*)—may it yield what is desired; ज्येष्ठे (*jyeṣṭhe*)—which is praiseworthy; वरूथे (*varūthe*)—which saves (from calamity); गभस्तौ उप (*gabhastau upa*)—in the protection of the arm; स्याम (*syāma*)—may we be; प्राये प्राये (*prāye prāye*) [the text prints प्राये—प्राये (*prāye—prāye*) twice]—at every entering (even at every time of battle); जिगीवांसः (*jigīvāṃsaḥ*)—may we be victors over the enemies.
+
+**भावार्थ (Bhāvārtha)**
+
+May my friendship with Indra never be separated. May the gift of this Indra yield us what we desire. May we remain in the protection of the arm of Indra, which is praiseworthy and saves from calamity. May we be victorious over the enemies in every battle as well.
+
+**Printed English translation**
+
+Never may my friendship with Indra be disunited: may his liberality(ever) yield us(our desires); may we be within the excellent defence of(his protecting) arms: may we be victorious in every battle-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+न मे इंद्रेण सख्यं वि योषत् (*na me iṃdreṇa sakhyaṃ vi yoṣat*)—इंद्रेण सह मम सख्यं यष्टव्यलक्षणं सख्यं न कदाचिदपि वियुज्यतां । (*iṃdreṇa saha mama sakhyaṃ yaṣṭavyalakṣaṇaṃ sakhyaṃ na kadācidapi viyujyatāṃ |*) May my friendship with Indra not be separated at any time; that is, the intention is that Indra's friendship may remain firm for me always. Here the commentator explains what kind of friendship there is between the god Indra and the human sacrificer, and describes it thus: the relationship in which the human sacrificer worships the god Indra with sacrifices and other rites and with hymns and the like, and obtains his favour, is the friendship between the sacrificer and Indra.
+
+अस्मभ्यं अस्य दक्षिणा दुहीत (*asmabhyaṃ asya dakṣiṇā duhīta*)—अस्येंद्रस्य दक्षिणेंद्रकर्तृत्वं दानमस्मभ्यं अभिमतफलं दुग्धां । (*asyeṃdrasya dakṣiṇeṃdrakartṛtvaṃ dānamasmabhyaṃ abhimataphalaṃ dugdhāṃ |*) May the gift that Indra gives us milk out (that is, fulfil) our desires; this is the meaning. Here the word दक्षिणा (*dakṣiṇā*) has been explained as "gift". We have written a detailed explanation of this word, its derivation and so on, on pages 638 to 640 of this same volume.
+
+उप ज्येष्ठे वरूथे गभस्तौ (*upa jyeṣṭhe varūthe gabhastau*)—ज्येष्ठेऽतिशयेन प्रशस्ते वरूथ आपदां पारके वरणीये वा गभस्तौ बाहावुप समीपे वर्तिनः स्याम । (*jyeṣṭhe 'tiśayena praśaste varūtha āpadāṃ pārake varaṇīye vā gabhastau bāhāvupa samīpe vartinaḥ syāma |*) The arm of Indra, that is, the strength of the arm,
+(Printed p. 833 ends here; the sentence continues on p. 834.)
+
+### Printed p. 834
+
+*(Header: "834 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 18]".)*
+
+is exceedingly praiseworthy. It protects us from calamities (difficulties), and everyone desires the protection of this arm. The sage wishes that we may be in the protection of such an arm-strength of Indra, that is, in the shelter of his protection. Although the word वरूथ (*varūtha*) is read among the names of a house (Nir. 3-13), here it is used as an epithet of the word गभस्ति (*gabhasti*) in the sense of "warding off calamity" or "desirable to all". The word गभस्ति (*gabhasti*) is read both among the names of the arm (Nir. 3-8) and among the names of rays (Nir. 2-15). Here the word गभस्ति (*gabhasti*) is used in the sense of arm.
+
+प्रायेप्राये जिगीवांसः स्याम (*prāyeprāye jigīvāṃsaḥ syāma*)—सोमपानार्थमिंद्रस्य यज्ञशालायां प्रवेशे प्रवेशे जिगीवांसः शत्रूणां जेतारो भवेम । यद्वा प्रायेप्राये प्रकर्षणेयते गम्यते योद्धृभिरिति प्रायं युद्धं । तस्मिन्युद्धे शत्रून् जितवंतो भवेम । (*somapānārthamiṃdrasya yajñaśālāyāṃ praveśe praveśe jigīvāṃsaḥ śatrūṇāṃ jetāro bhavema | yadvā prāyeprāye prakarṣaṇeyate gamyate yoddhṛbhiriti prāyaṃ yuddhaṃ | tasminyuddhe śatrūn jitavaṃto bhavema |*) Sāyaṇa has given two kinds of meaning for this sentence. One meaning is that, giving the word प्राये (*prāye*) the sense of "entering", we may conquer our enemies when Indra enters the sacrificial hall to drink Soma; the other is that, since warriors charge forward against the enemies in battle, the word प्राय (*prāya*) is given the sense of "battle", and we may defeat the enemies and be victorious in every battle (by Indra's favour). Since the word जिगीवांसः (*jigīvāṃsaḥ*), "let us be victorious", occurs in this sentence, the second meaning, in which प्रायेप्राये (*prāyeprāye*) means "battle" and we defeat the enemies in battle and become victorious, is the more suitable. To speak of conquering enemies in the sense of Indra's entering the sacrificial hall does not seem so suitable; there is no connection at all between entering the sacrificial hall and conquering enemies. Therefore the second meaning is the one to be accepted. The repetition प्राये प्राये (*prāye prāye*) indicates the sense "in every battle". In this matter there are many examples such as भरेभरे (*bharebhare*), दिवेदिवे (*divedive*) and so on.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदिं॑द्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ ९ ॥
+
+> *nūnaṃ sā te prati varaṃ jaritre duhīyadiṃdra dakṣiṇā maghonī |*
+> *śikṣā stotṛbhyo māti dhagbhago no bṛhadvadema vidathe suvīrāḥ ‖ 9 ‖*
+
+### Printed p. 835
+
+*(Header: "[Aṣṭaka 2, Adhyāya 6, Varga 22] Ṛgvedasaṃhitā 835".)*
+
+**॥ पदपाठः ॥**
+
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथेसुवीराः॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः शस्य-
+> संज्ञकमभितष्टैवेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
+> नूनं सा त इत्यंतमुत्तमं । आ. ७_४ । इति ॥
+> हे इंद्र या दक्षिणा दक्षमुत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोत्रे वरं श्रेष्ठमभिमतमर्थं नूनं
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्नि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृ-
+> भ्योऽस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्य माति धक् ॥ दहेर्दानार्थस्य
+> लुजि मंत्रे घसेत्यादिना चेर्लुक् ॥ नोऽस्थानतिक्रम्यान्येभ्यो दक्षिणां मा दाः ।
+> प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः। यद्वा नोऽस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्र-
+> पौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश्य
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतीर्वा
+> स्याद्गतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि. १-७ ॥
+
+*Gist: Indra, may your wealthy gift fulfil the singer's desire; give it to us first, not passing us over; with good sons we shall recite abundant praise at this sacrifice.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+इंद्र (*iṃdra*)—O Indra; ते (*te*)—which is given by you; मघोनी (*maghonī*)—possessed of abundant wealth; सा दक्षिणा (*sā dakṣiṇā*)—that gift; जरित्रे (*jaritre*)—to the praising sacrificer; नूनं (*nūnaṃ*)—certainly; वरं (*varaṃ*)—excellently; प्रति दुहीयत् (*prati duhīyat*)—fulfils the desire (give us such a gift); स्तोतृभ्यः (*stotṛbhyaḥ*)—to us also, who are praisers; शिक्ष (*śikṣa*)—give; भगः (*bhagaḥ*)—you, the venerable; नः (*naḥ*)—us; माति धक् (*māti dhak*)—do not disregard; सुवीराः (*suvīrāḥ*)—we, accompanied by excellent heroic sons; विदथे (*vidathe*)—in this sacrifice; बृहत् (*bṛhat*)—abundant hymn; वदेम (*vadema*)—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, that gift given by you, possessed of abundant wealth, certainly fulfils the desire of the praising sacrificer in an excellent manner.
+
 ---
 
-**Progress note:** Done through printed p. 832 (PDF 832). Sukta 18 Rk 6 completed (Pratipadartha end, Bhavartha, English, Special Topics); Rk 7 complete; Rk 8 Samhita, Pada, bhasya placed (Pratipadartha onward in next window)
+**Progress note:** Done through printed p. 835 (PDF 835). Sukta 18 Rk 8 completed (Pratipadartha, Bhavartha, English, Special Topics); Rk 9 Samhita, Pada, bhasya, Pratipadartha placed; Bhavartha begun (continues next window)
