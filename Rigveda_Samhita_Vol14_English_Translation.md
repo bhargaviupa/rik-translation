@@ -27569,4 +27569,96 @@ The sūkta beginning अध्वर्यवो भरत (*adhvaryavo bharata*
 
 ---
 
-**Progress note:** Done through printed p. 719 (PDF 742). Sūkta 13 is complete (end of the Viśeṣa of Ṛk 12 on p. 717; Ṛk 13 complete on pp. 717–719; no grammar section printed). Sūkta 14 is begun: the Sāyaṇa introduction and the Anuvāda are written (12 Ṛks; ṛṣi Gṛtsamada; Indra; Triṣṭubh); Ṛk 1 starts on p. 720, nothing of it written. Numeral file agreed with the strips on all rows (10-61-8 on p. 717; "31-822" read as Pā. 3-1-8-2; Ā. 6-4 twice on p. 719); none zoomed. Header numerals unzoomed: p. 717 varga digit doubtful (13 or 12). [?] places: "अकर्मकत्वं" (p. 717 bhāṣya); the reading "भोग्यमिच्छेः" (p. 717 bhāṣya) was settled from the Pratipadārtha but not zoomed; the last digit of the Pāṇini reference (3-1-8-2) is unzoomed.
+### Printed p. 720 (PDF 743)
+
+*(Header, read from the strip and not zoomed: "720", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14". The sūkta's title block follows. It repeats the details already given in the Sāyaṇa introduction, in the Kannada printer's form: "Om". Sūkta—14. Maṇḍala—2, Anuvāka—2, Sūkta—14. Aṣṭaka—2, Adhyāya—6, Varga—13, 14. Number of Ṛks in the sūkta—12. Ṛṣi—Gṛtsamada. Devatā—Indra. Chandas—Triṣṭubh. The numerals are as read from the strip, not zoomed. The word "Saṃhitāpāṭhaḥ" is printed in small type above the verse.)*
+
+---
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> अध्व॑र्यवो॒ भर॒तेन्द्रा॑य॒ सोम॒माम॑त्रेभिः सिंचता॒ मद्य॒मंधः॑ ।
+> का॒मी हि वी॒रः सद॑मस्य पी॒तिं जु॒होत॒ वृष्णे॒ तदिदे॒ष व॑ष्टि ॥
+
+> *adhvaryavo bharatendrāya somamāmatrebhiḥ siṃcatā madyamaṃdhaḥ |*
+> *kāmī hi vīraḥ sadamasya pītiṃ juhota vṛṣṇe tadideṣa vaṣṭi ‖*
+
+*(Reading note: "सोममामत्रेभिः" is read letter by letter with the hooked *ma*; the line break "मद्य- / मंधः" is joined as "मद्यमंधः". Accent marks are not reproduced.)*
+
+**॥ पदपाठः ॥**
+
+> अध्वर्यवः । भरत । इन्द्राय । सोमं । आ । अमत्रेभिः । सिंचत । मद्यं । अंधः ।
+> कामी । हि । वीरः । सदं । अस्य । पीतिं । जुहोत । वृष्णे । तत् । इत् । एषः । वष्टि ॥ १ ॥
+
+> *adhvaryavaḥ | bharata | indrāya | somaṃ | ā | amatrebhiḥ | siṃcata | madyaṃ | aṃdhaḥ |*
+> *kāmī | hi | vīraḥ | sadaṃ | asya | pītiṃ | juhota | vṛṣṇe | tat | it | eṣaḥ | vaṣṭi ‖ 1 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Gṛtsamada addresses the Adhvaryus: bring soma for Indra and pour the exhilarating soma-food into the fire with the cups; the hero Indra always desires to drink it.*
+
+> गृत्समदो ब्रूते । अध्वर्यवः अध्वरस्य नेतारः । अध्वरं यजमानायेच्छंतः ॥ कव्यध्वरपृतनस्यर्चि लोप इत्यकारलोपः । अत्र यास्कः । अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति । नि. १-८ ॥ हे अध्वर्यवः इंद्राय देवाय सोमं हविर्धानादुत्तरवेदिं प्रति भरत । हरत ॥ आमंत्रितस्याविद्यमानत्वादनिघातः ॥ हृत्वामत्रेभिः[?] । अमा सहादंत्यत्र होत्रादय इत्यमत्राणि चमसाः । त्रैर्मद्यं[?] मदकरमंधः सोमलक्षणमन्नमा सिंचत । अग्नौ प्रक्षिपत । अत्र यास्कः । आ सिंचतामत्रैर्मदनीयमंधोऽमत्रं पात्रमा अस्मिन्नदंति । नि. ५-१ । इति । वीरः स इंद्रोऽस्य सोमस्य पीतिं पानं प्रति सदं सदैव कामी हि । कामयमानो हि । तस्माद्वृष्णे वर्षित्र इंद्राय सोमं जुहोत । जुहुत ॥ हु दानादनयोः । लोटि तप्तनप्तनथनाश्चेति तबादेशः ॥ एष इंद्रस्तदित् तदेव सोमप्रव्यं वष्टि । कामयते ॥
+
+> *gṛtsamado brūte | adhvaryavaḥ adhvarasya netāraḥ | adhvaraṃ yajamānāyecchaṃtaḥ ‖ kavyadhvarapṛtanasyarci lopa ityakāralopaḥ | atra yāskaḥ | adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti | ni. 1-8 ‖ he adhvaryavaḥ iṃdrāya devāya somaṃ havirdhānāduttaravediṃ prati bharata | harata ‖ āmaṃtritasyāvidyamānatvādanighātaḥ ‖ hṛtvāmatrebhiḥ[?] | amā sahādaṃtyatra hotrādaya ityamatrāṇi camasāḥ | trairmadyaṃ[?] madakaramaṃdhaḥ somalakṣaṇamannamā siṃcata | agnau prakṣipata | atra yāskaḥ | ā siṃcatāmatrairmadanīyamaṃdho 'matraṃ pātramā asminnadaṃti | ni. 5-1 | iti | vīraḥ sa iṃdro 'sya somasya pītiṃ pānaṃ prati sadaṃ sadaiva kāmī hi | kāmayamāno hi | tasmādvṛṣṇe varṣitra iṃdrāya somaṃ juhota | juhuta ‖ hu dānādanayoḥ | loṭi taptanaptanathanāśceti tabādeśaḥ ‖ eṣa iṃdrastadit tadeva somapravyaṃ vaṣṭi | kāmayate ‖*
+
+*(Reading notes: the reference "नि. १-८" at the end of the Yāska quotation is as read from the strip; the numeral file gives "1.4" for this line, so FILE DISAGREE; not zoomed. "नि. ५-१" agrees with the file; not zoomed. "हृत्वामत्रेभिः[?]" and "त्रैर्मद्यं[?]" are literal readings, doubtful: the second may be meant as "तैः", but this was not settled. "सोमप्रव्यं" is as read. The sūtra "तप्तनप्तनथनाश्च" is given without a number, none being printed. The grammatical tail is transcribed and not explained.)*
+
+---
+
+### Printed p. 721 (PDF 744)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 13 ]" with the varga numeral doubtful, "Ṛgvedasaṃhitā", "721". The page-foot signature "[46]  Vol. 14." is printed at the bottom of the page.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अध्वर्यवः (*adhvaryavaḥ*)—O Adhvaryus. इन्द्राय (*indrāya*)—with reference to Indra, for Indra. सोमं (*somaṃ*)—the soma juice. भरत (*bharata*)—bring it (taking it). अमत्रेभिः (*amatrebhiḥ*)—with the camasa vessels. मद्यं (*madyaṃ*)—exhilarating. अंधः (*aṃdhaḥ*)—the food that is soma. आ सिंचत (*ā siṃcata*; printed "सिंचते", sic)—(around the fire) offer all round in the form of sprinkling. वीरः (*vīraḥ*)—the valiant Indra. अस्य (*asya*)—of this soma juice. पीतिं (*pītiṃ*)—the drinking. सदं (*sadaṃ*)—always. कामी हि (*kāmī hi*)—desires indeed; (therefore). वृष्णे (*vṛṣṇe*)—to Indra, the giver of desired objects. जुहोत (*juhota*)—offer soma and perform homa. एषः (*eṣaḥ*)—Indra. तदित् (*tadit*)—that very soma. वष्टि (*vaṣṭi*)—desires.
+
+**भावार्थ (Bhāvārtha)**
+
+O Adhvaryus, bring the soma juice for Indra. With the camasa vessels offer the exhilarating food that is soma, sprinkling it round the fire. The valiant Indra always desires to drink this soma juice. Therefore offer this soma to Indra, the giver of desired objects, and perform the homa.
+
+**English Translation** *(as printed)*
+
+Priests, bring the Soma libation for Indra; sprinkle with ladles the exhilarating beverage: he, the hero, is ever desirous of the draught: offer the libation to the showerer (of benefits), for, verily, he desires it.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+This sūkta begins with the sentence अध्वर्यवो भरतेन्द्राय सोमं (*adhvaryavo bharatendrāya somaṃ*). The meaning of this sentence is: "O priests called Adhvaryu, bring soma juice for Indra." Every Ṛk of this sūkta, except the last Ṛk, begins with the word अध्वर्यवः (*adhvaryavaḥ*). In every Ṛk, besides one or two heroic deeds of Indra and the matter of Indra's drinking soma being stated, there is also either the sentence अध्वर्यवो भरतेन्द्राय सोमं (*adhvaryavo bharatendrāya somaṃ*) above, or another sentence that contains its meaning.
+
+अध्वर्यवः—अध्वरस्य नेतारः । अध्वरं यजमानायेच्छंतः (*adhvaryavaḥ—adhvarasya netāraḥ | adhvaraṃ yajamānāyecchaṃtaḥ*)—*adhvara* means the yajña. One who stands in front in it, that is, takes the leading part and carries out the various functions of the yajña, is called Adhvaryu. Or: one who wishes to perform the yajña for the sake of the yajamāna, that is, a ṛtvij who stands as the yajamāna's representative and performs the many ritual functions to be done in the yajña, is called Adhvaryu. Though many ṛtvik priests take part in a yajña, among them the Hotṛ and the Adhvaryu take the leading part: the Hotṛ in the recitation of mantras, and the Adhvaryu in all the other ritual functions.
+
+---
+
+### Printed p. 722 (PDF 745)
+
+*(Header, read from the strip and not zoomed: "722", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 14".)*
+
+Therefore the Adhvaryu especially has to be given attention in all the ritual functions carried out in the yajña. That is why the ṛtvijas called Adhvaryus are addressed here, to prepare soma juice and bring it for Indra's soma-drinking. In the discussion on the derivation of the word *adhvaryu*, Yāska says:
+
+> अध्वर्युरध्वरयुरध्वरं युनक्त्यध्वरस्य नेताध्वरं कामयत इति वा । अपि वाधीयोने[?] युरुपबंधः । अध्वर इति यज्ञनाम । ध्वरतिर्हिंसाकर्मा तत्प्रतिषेधः ।
+
+> *adhvaryuradhvarayuradhvaraṃ yunaktyadhvarasya netādhvaraṃ kāmayata iti vā | api vādhīyone[?] yurupabaṃdhaḥ | adhvara iti yajñanāma | dhvaratirhiṃsākarmā tatpratiṣedhaḥ |*
+
+(नि. १-८, as read from the strip, not zoomed; the numeral file agrees with 1-8 for this line.)
+
+*(Reading note: "वाधीयोने[?]" is a literal reading and doubtful. The strip shows no *n* with a virāma there, and the hook on *ya* in this print makes *ya*/*yu* hard to tell apart. It is not completed from memory. From the Kannada explanation that follows, the sense is "one who has studied". The words "अध्वरयुः", "युनक्ति" and "युरुपबंधः" are read as the Kannada gloss quotes them, "अध्वरं युनक्तीति अध्वरयुः" and "*yu* is an upasarga".)*
+
+The Kannada says: the word *adhvaryu* means one who gives the yajña its form (carries out the yajña). How? In the word अध्वर्युः (*adhvaryuḥ*) the vowel *a* after the letter *r* has undergone elision according to the Vedic grammar. If it is restored, it becomes अध्वरयुः (*adhvarayuḥ*). For this Yāska has given the derivation अध्वरं युनक्तीति अध्वरयुः (*adhvaraṃ yunaktīti adhvarayuḥ*), "one who joins (engages in) the yāga". अध्वरस्य नेता (*adhvarasya netā*) means: one who conducts the yāga. Or अध्वरं कामयते कर्तुमित्यध्वर्युः (*adhvaraṃ kāmayate kartumityadhvaryuḥ*): because he desires to perform the yajña (for the yajamāna), this ṛtvij is called Adhvaryu. Or अपि वा अधीयाने युरुपबंधः (*api vā adhīyāne yurupabaṃdhaḥ*): if *yu* is counted as an upasarga, the sense is the Brāhmaṇa (ṛtvij) who has studied the adhvara or yajña (that is, the Yajurveda that teaches the matters relating to the yajña). Here, because the root *dhvarati* has the sense of "do violence", *dhvara* means violence. *Adhvara* means the action or yajña that is without *dhvara*, that is, without violence; thus the word *adhvara* has been explained. Therefore the chief meaning is: *adhvarayu* or *adhvaryu* is the ṛtvij who performs the yajña-karma (the action that is not of the nature of violence).
+
+अध्वर्यवः भरत इन्द्राय सोमं—हे अध्वर्यवः इन्द्राय देवाय सोमं हविर्धानादुत्तरवेदिं प्रति भरत (*adhvaryavaḥ bharata indrāya somaṃ—he adhvaryavaḥ indrāya devāya somaṃ havirdhānāduttaravediṃ prati bharata*)—"O priests called Adhvaryu, bring the soma juice that is in the havirdhāna place to the uttaravedi, to offer it to Indra": thus the sage Gṛtsamada (or the yajamāna) has spoken, addressing the Adhvaryus.
+
+अंधः (*aṃdhaḥ*)—The word अंधः (*aṃdhaḥ*) is read among the names of food (नि. ३-९, as printed; the numeral file agrees; not zoomed). Besides this, Yāska has given a derivation for this word:
+
+> अंध इत्यन्ननामाध्यानीयं[?] भवति । तमोऽस्यंध उच्यते नास्मिन् ध्यानं भवति । न दर्शनमंधंतम इत्यभिभाषंते । अयमपीतरोऽन्ध एतस्मादेव । पश्यदक्षण्वान्न विचेतदंधः इत्यपि निगमो भवति ॥
+
+> *aṃdha ityannanāmādhyānīyaṃ[?] bhavati | tamo 'syaṃdha ucyate nāsmin dhyānaṃ bhavati | na darśanamaṃdhaṃtama ityabhibhāṣaṃte | ayamapītaro 'ndha etasmādeva | paśyadakṣaṇvānna vicetadaṃdhaḥ ityapi nigamo bhavati ‖*
+
+(नि. ५-१, as printed; the numeral file agrees; not zoomed.)
+
+*(Reading notes: "इत्यन्ननामाध्यानीयं[?]" is doubtful: the strip shows a mark after "इत्य" that was not resolved. The words "अंधंतम" and "पश्यदक्षण्वान्न" are read letter by letter from the strip. The Viśeṣaviṣayagaḷu of Ṛk 1 is not yet closed on this page; the next page follows. No grammar section has been printed so far for this Ṛk.)*
+
+---
+
+**Progress note:** Done through printed p. 722 (PDF 745). Sūkta 14, Ṛk 1 written: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English and the Viśeṣaviṣayagaḷu so far. Ṛk 1 is left open in the Viśeṣaviṣayagaḷu: the entry "अंधः" has just quoted Yāska (नि. ५-१) at the foot of p. 722, and the next page continues the Kannada commentary on it; no grammar section has been seen yet. The title block of the sūkta (Ṛk count 12, Varga 13, 14) was written from the strip of p. 720. FILE DISAGREE: the file gives "नि. 1.4" on p. 720 (line 30), but the strip is read as नि. १-८; the p. 722 file row (1-8) supports this. No numerals were zoomed. Doubtful places: the Nirukta text "वाधीयोने[?]" (p. 722), "हृत्वामत्रेभिः[?]" and "त्रैर्मद्यं[?]" (p. 720), "इत्यन्ननामाध्यानीयं[?]" (p. 722), and the varga numeral in the p. 721 header (13?).
