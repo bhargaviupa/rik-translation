@@ -65,7 +65,7 @@ for (pg, ln), f in seen_ctx.items():
 print("extra file rows from adjacent plain numbers in column E:", extra, "; from 'ref, N' / 'ref ಮತ್ತು N' extensions:", ext)
 mrows = collections.defaultdict(list); cur = None; printed = None; seq = 0
 for n, l in enumerate(open(a.md, encoding="utf8").read().split("\n"), 1):
-    m = re.match(r"#+\s*Page\s+(\w+)\s*\(PDF\s*(\d+)", l)
+    m = re.match(r"#+\s*(?:Page|Printed p\.)\s+(\w+)\s*\(PDF\s*(\d+)", l)
     if m: printed, cur = m.group(1), int(m.group(2))
     if cur is None or l.startswith("|") or l.startswith("#"): continue
     segs = []
