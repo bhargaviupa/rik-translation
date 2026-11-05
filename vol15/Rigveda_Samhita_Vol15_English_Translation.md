@@ -15052,6 +15052,116 @@ On this Ṛk Yāska has given the etymology ⟦ದ್ಯಾವಾಪೃಥಿವ
 
 There are twenty-four words, beginning with स्वधे पुरंधी (*svadhe puraṃdhī*), that indicate the sense of the word द्यावापृथिवी (*dyāvāpṛthivī*) (Ni. 3-22). In the Taittirīya Saṃhitā द्यौः पितः पृथिवि मातः (*dyauḥ pitaḥ pṛthivi mātaḥ*) is said, that is, heaven is addressed as father and earth as mother. In the Ṛgveda, too, there are mantras in many places that express this sense. In many places it is said that Heaven and Earth are the parents of the gods. In the Ṛgveda the world is generally described as heaven, atmosphere and earth
 
+### Printed p. 475
+
+*[Running head, p. 475: Aṣṭaka 2 [printed ಆ.], Adhyāya 8, Varga 10, Ṛgvedasaṃhitā.]*
+
+(the universe) into three main divisions (worlds). In heaven too there are three divisions: नाक (*nāka*) (the high excellent place in heaven), विष्टप (*viṣṭapa*) (the middle region of heaven) and पृष्ठ (*pṛṣṭha*) (the lower part of heaven). Though in the atmosphere there are no special divisions, words such as व्योमन् (*vyoman*), रोचन (*rocana*) (the radiant region) and अंतरिक्ष (*aṃtarikṣa*) indicate differences of meaning; and the word पृथिवी (*pṛthivī*) is also called by names such as पृथिवी (*pṛthivī*) (the extensive region), मही (*mahī*) (the great region), इळा (*iḷā*) (this world) and वसुमती (*vasumatī*) (the wealthy one). In the Ṛgveda the word द्यावापृथिवी (*dyāvāpṛthivī*) is generally used as meaning the presiding deities of heaven and earth.
+
+#### Ṛk 21
+
+**॥ संहितापाठः ॥**
+
+> आ वा॑मु॒पस्थ॑मद्रुहा दे॒वाः सी॑दंतु य॒ज्ञियाः॑ ।
+> इ॒हाद्य सोम॑पीतये ॥ २१ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । वां । उपस्थं । अद्रुहा । देवाः । सीदंतु । यज्ञियाः ।
+> इह । आद्य । सोमपीतये ॥ २१ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अद्रुहा द्रोहवर्जिते हे हविर्धाने तद्रूपे द्यावापृथिव्यौ ना नां
+> युवयोरुपस्थं समीपं यज्ञिया यज्ञार्हा देवा इह यज्ञेऽद्यास्मिन्नहनि
+> सोमपीतये सोमपानायासीदंतु ॥
+
+*(Gist: O blameless Havirdhāna deities, may the gods worthy of sacrifice sit near you today to drink the soma.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Adruhā: O Havirdhāna deities, wishing no harm. Vāṃ: your. Upasthaṃ: near. Yajñiyāḥ: worthy of the sacrifice. Devāḥ: the gods. Iha: at this sacrifice. Adya: today. Somapītaye: for the drinking of soma. Ā sīdantu: let them come and sit.
+
+**भावार्थ (Bhāvārtha)**
+
+O Havirdhāna deities, wishing no harm, may the gods worthy of the sacrifice come and sit near you today at this sacrifice for the drinking of soma.
+
+### Printed p. 476
+
+*[Running head, p. 476: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 42 [printed so, though the sūkta is still 41 at the head of the page].]*
+
+**Printed English translation**
+
+May the adorable gods, devoid of malice, sit down to-day nigh to you both to drink the Soma juice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+आद्रुहा (*ādruhā*)—not wishing harm or evil; having no desire that harm come to others.
+
+यज्ञियाः (*yajñiyāḥ*)—worthy of sacrifice, that is, the gods who are invited by us at this sacrifice to drink the soma.
+
+अद्य—अस्मिन्नहनि । (*adya—asminnahani |*) This day, or now, in the sacrificial rite we are performing.
+
+*[The sūkta number at the head of p. 476, Sū. 42, differs from 41 on the preceding pages, as supplied.]*
+
+*[Here Sūkta 41 ends. After it the supplied text has the title line नलवत्तॆरडनॆय सूक्तवु. (*nalavattèraḍanèya sūktavu.*) ("The forty-second sūkta.").]*
+
+## Sūkta 42 (Maṇḍala 2)
+
+*The forty-second sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+**॥ सायणभाष्यम् ॥**
+
+> कनिक्रददिति तृचं दशमं सूक्तं । अत्रैवमनुक्रमणिका । कनिक्रदत्तृचमिति ।
+> मंडलद्रष्टा गृत्समदोऽस्य ऋषियु । त्रिष्टुप् छंदः । कपिंजलरूपींद्रो देवता ॥
+> वयसाममनोज्ञां वाचं श्रुत्वातत्तूक्तं जपेत् । सूत्रितं च । वयसाममनोज्ञा वाचः श्रुत्वा कनिक्रदज्जनुषं प्रब्रुवाण इति सूक्ते जपेत् । आ. गृ. ३-१०-९। इति ॥
+
+*[Note: in kn.md the Sanskrit introduction was made into a `>` block with an inserted label, and a hyphenated line break was joined.]*
+
+**Anuvāda (Kannada).** This sūkta beginning कनिक्रदत् (*kanikradat*) is the tenth sūkta in the fourth anuvāka. It has three Ṛks. The Anukramaṇikā says कनिक्रदत्तृचं (*kanikradattṛcaṃ*). For this sūkta Gṛtsamada, the seer of this maṇḍala, is the seer; Indra in the form of the kapiñjala bird is the deity; the metre is Triṣṭubh. If one hears the indistinct or harsh cry of birds, this sūkta and the next sūkta are to be repeated, as explained by the sūtra of the Āśvalāyana Gṛhya Sūtra ⟦ವಯಸಾಮಮನೋಜ್ಞಾಂ ವಾಚಃ
+ಶ್ರುತ್ವಾ ಕನಿಕ್ರದಜ್ಜನುಷಂ ಪ್ರಬ್ರುವಾಣ ಇತಿ ಸೂಕ್ತೇ ಜಪೇತ್⟧. (A stray fragment follows in the supplied text: "ಆ. ಗೃ. ೩-೧೦-೯)".)
+
+**Sūkta 42** — Maṇḍala 2, Anuvāka 4, Sūkta 42; Aṣṭaka 2, Adhyāya 8, Varga 11. Number of ṛks in the sūkta: 3. Seer: Gṛtsamada. Deity: Indra in the form of the kapiñjala bird. Metre: Triṣṭubh.
+
+### Printed p. 477
+
+*[Running head, p. 477: Aṣṭaka 2, Adhyāya 8, Varga 11, Ṛgvedasaṃhitā.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> कनि॑क्रदज्ज॒नुषं॑ प्रब्रुवा॒ण इय॑र्ति॒ वाच॑मरि॒तेव॒ नावं॑ ।
+> सु॒मं॒गल॑श्च शकुने॒ भवा॑सि॒ मा त्वा॒ का चि॑दभि॒भा विश्वा॑ विदत् ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> कनिक्रदत् । जनुषं । प्रब्रुवाणः । इयर्ति । वाचं । अरिताइव । नावं ।
+> सुमंगलः । च । शकुने । भवासि । मा । त्वा । का । चित् । अभिभा । विश्वा । विदत् ॥
+
+*[The supplied text has before the bhāṣya a garbled label "೧ ಸಾಯಣಭಾಷ್ಯಂ ೧", kept as a note in kn.md.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> कनिक्रदत् पुनःपुनः शब्दायमानो जनुषं जनिष्यमाणमर्थं प्रब्रुवाणः
+> सूचयन् कपिंजलोऽरितेव कर्णधार इव नावं वाचमियर्ति । प्रेरयति । अथ
+> प्रत्यक्षकृतः । हे शकुने कपिंजल त्वं सुमंगलः प्रकृष्टकल्याणश्च भवासि । भव । किंच
+> काचिदभिभा कोऽप्यभिभवस्त्वा त्वां विश्वा विश्वतः सर्वासु दिक्षु मा विदत् । मा
+> प्रापत् । शकुनिः शक्नोत्युन्नेतुमात्मानं । न्यक्रंदीज्जन प्रब्रुवाणो यथास्य
+> शब्दस्तथा नामेरयति वाचमीरयितेव नावं । सुमंगलश्च शकुने भव कल्याणमंगलो मंगलं गिरतेर्गृणात्यर्थे गिरत्यनर्थानिति वेति यास्कः । नि. ९-४ ॥
+
+*(Gist: the kapiñjala bird, crying again and again and foretelling what will happen, sends forth its voice like a helmsman steering a boat; O bird, be of good omen, and let no calamity find you from any quarter. A hyphenated line break was joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Kanikradat: (the kapiñjala bird) crying again and again. Januṣaṃ: what will come into being. Prabruvāṇaḥ: foretelling beforehand. Nāvaṃ: to steer the boat. Aritā iva: as a boatman gives directions. Vācaṃ: its cry. Iyarti: sends forth. Śakune: O kapiñjala bird! (tvaṃ, you). Sumaṅgalaśca: furnished with excellent auspiciousness. Bhavāsi: be. Kā cidabhibhā: any kind of calamity. Tvā: you. Viśvā: from any quarter. Mā vidat: let it not approach.
+
+**भावार्थ (Bhāvārtha)**
+
+The kapiñjala bird, crying again and again and foretelling beforehand what will come into being, sends forth its cry as a boatman gives directions to steer a boat. O kapiñjala bird, may you have good fortune. May no calamity approach you from any quarter.
+
 ---
 
-**Progress note:** Done through printed p. 474 (PDF 474). Sukta 41 Rik 19 Special Topics finished (pp. 472-473): north-east story, three debts, Soma as king, Apastamba on the cart; Rik 20 complete (pp. 473-474) with Heaven and Earth note continuing to end of p. 474. Flags: garbled bhashya label kept as note; Ai. Bra. printed i. Bra.; 2 accent DIFF; ends mid-sentence
+**Progress note:** Done through printed p. 477 (PDF 477). Sukta 41 complete (Rik 20 note finished p. 475; Rik 21 complete pp. 475-476); Sukta 42 begins on p. 476: Sayana introduction, Anuvada, heading; Rik 1 complete on p. 477. Flags: garbled bhashya label kept as note; Ni. 9-4 inside bhashya; 2 accent DIFF
