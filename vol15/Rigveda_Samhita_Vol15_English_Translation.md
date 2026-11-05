@@ -18808,6 +18808,100 @@ Vaiśvānara, praised by the singers, ascends as soon as he is born, like an anc
 
 Glorified by his adorers, Vaishwanara of old ascended to the heaven that is above the firmament, bestowing wealth upon his (present) worshipper, as he did in former times; he travels, ever vigilant, the common path (of the gods).
 
+### Printed p. 596
+
+*[Running head, p. 596: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In the previous Ṛk Vaiśvānara Agni was described as being in the bodies of creatures in the form of the digestive fire (the printed Kannada has "ಜಾರರಾಗ್ನಿ", as supplied); in this Ṛk his being in the atmosphere in the form of Āditya is explained.
+
+Pratnathā—since the word pratna is read among the names of the ancient (Ni. 3-20), it means the ancient one. The Sun is very ancient; he has been there for a long time in the past, and will be there in future: this is the sense.
+
+Divaḥ pṛṣṭhaṃ—in the world of heaven, nāka is the highest region; pṛṣṭha is said to be the lowest. But it is said that this pṛṣṭha lies between the upper part of the atmosphere and the lower part of heaven.
+
+Nākaṃ—Yāska explains the word nāka thus:
+
+⟦ನಾಕ ಆದಿತ್ಯೋ ಭವತಿ । ನೇತಾ ರಸಾನಾಂ ಭಾಸಾಂ ಜ್ಯೋತಿಷಾಂ ಪ್ರಣಯಃ । ಅಥ ದ್ಯೌಃ ।
+ಕಮಿತಿ ಸುಖನಾಮ । ತತ್ ಪ್ರತಿಷಿದ್ಧಂ ಪ್ರತಿಷಿಧ್ಯೇತ । “ ನ ವಾ ಅಮುಂ ಲೋಕಂ
+ಜಗ್ಮುಷೇ ಕಿಂಚ ನಾಕಂ ” । ನ ವಾ ಅಮುಂ ಲೋಕಂ ಗತವತೇ ಕಿಂಚ ನಾಸುಖಂ
+ಪುಣ್ಯಕೃತೋ ಹ್ಯೇವ ತತ್ರ ಗಚ್ಛಂತಿ ।⟧
+(printed ಸಿ. 9-14, i.e. Ni. 9-14)
+
+Nāka means also Āditya. That is, since Āditya is the carrier of sap, that is, he draws up with his rays the saps in liquid form such as water, or spreads light or radiance everywhere, the word nāka also means Āditya. Besides, "atha dyauḥ" means that the word nāka means heaven too. साधारणांतुत्तराणि षट् दिवश्चादित्यस्य च (*sādhāraṇāṃtuttarāṇi ṣaṭ divaścādityasya ca*) means that six words beginning with nāka are common synonyms of the world of heaven and of Āditya (2-13, as printed, with no work named). Explaining the parts of the word nāka: ka is happiness; aka, what is opposed to it, is sorrow; na + aka = nāka, a place where there is no sorrow, heaven, that is, a place free from lack of happiness, devoid of sorrow. He then gives as example the Śruti sentence
+
+न ना अमुं लोकं जग्मुषे किं च नाकं । (*na nā amuṃ lokaṃ jagmuṣe kiṃ ca nākaṃ |*)
+(printed ಕಾರಕಂ. ಸಂ. 21-2)
+
+That is, for this world (heaven) there is no sorrow at all; only those who have done meritorious acts enter this world. Thus he has explained the meaning of the word nāka.
+
+### Printed p. 597
+
+*[Running head, p. 597: Aṣṭaka 2, Adhyāya 8, Varga 19, Ṛgvedasaṃhitā.]*
+
+⟦ಸುಮನ್ಮಭಿಃ ಭಂದಮಾನಃ ವೈಶ್ವಾನರಃ ಪ್ರತ್ನಥಾ ದಿವಃ ಪೃಷ್ಠಂ ನಾಕಂ ಆರುಹತ್-ಸ್ತೋತೃಭಿಃ
+ಸ್ತೂಯಮಾನಃ ವೈಶ್ವಾನರಃ ಜಾತಮಾತ್ರ ಏವ ಚಿರಂತನ ಇವ ದಿವಃ ಪೃಷ್ಠಂ ನಾಕಂ ಅಂತರಿಕ್ಷಸ್ಯ
+ಉಪರಿತನಪ್ರದೇಶಂ ಆರೋಹತಿ ।⟧ The ancient Vaiśvānara, praised in many ways by the people who sing his praise, ascends (in the form of the Sun) to heaven, the lower part of the world of heaven and the upper part of the atmosphere.
+
+⟦ಸಃ ಪೂರ್ವವತ್ ಜಂತವೇ ಧನಂ ಜನಯತ್ ಜಾಗೃವಿಃ ಸಮಾನಂ ಅಜ್ಮಂ ಪರ್ಯೇತಿ-ಸಃ
+ವೈಶ್ವಾನರಃ ಪೂರ್ವೇಭ್ಯ ಋಷಿಭ್ಯ ಇವ ಸ್ತೋತ್ರೇ ಯಜಮಾನಾಯ ಪಶ್ವಾದಿಲಕ್ಷಣಂ ಧನಂ ಸಂಪಾದಯನ್ ಸದಾ ಪ್ರಬುದ್ಧಃ ಸರ್ವೇಷಾಂ ದೇವಾನಾಂ ಸಾಧಾರಣಮಾಕಾಶಮಾರ್ಗಂ ಸೂರ್ಯರೂಪೇಣ
+ಗಚ್ಛತಿ ।⟧ This Vaiśvānara, bestowing wealth on this sacrificer who is praising, as he gave to the sages of old, and ever vigilant, travels in the form of the Sun on the path of the sky, the path of movement for all the gods: this is the meaning.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> ऋ॒तावा॑नं य॒ज्ञियं॒ विप्र॑मु॒क्थ्य१॒ं॑ मा यं द॒धे मा॑त॒रिश्वा॒॑॑
+> दिवि क्षयं ।
+> तं चि॒त्रया॑मं॒ हरि॑केशमीमहे सुदी॒तिम॒ग्निं सु॑वि॒ताय॒ नव्य॑से ॥
+
+**॥ पदपाठः ॥**
+
+> ऋतवानं । यज्ञियं । विप्रं । उक्ष्यं । आ । यं । दधे । मातरिश्वा । दिवि । क्षयं ।
+> तं । चित्रयामं । हरिकेशं । ईमहे । सुदीतिं । अग्निं । सुविताय । नव्यसे ॥१३॥
+
+> *ṛtavānaṃ | yajñiyaṃ | vipraṃ | ukṣyaṃ | ā | yaṃ | dadhe | mātariśvā | divi | kṣayaṃ |*
+> *taṃ | citrayāmaṃ | harikeśaṃ | īmahe | sudītiṃ | agniṃ | suvitāya | navyase ‖13‖*
+
+*(The Pada is printed ಋತವಾನಂ, ಉಕ್ಷ್ಯಂ and ಆ । ಯಂ । ದಧೇ, where the Saṃhitā has ಋತಾವಾನಂ, ಉಕ್ಥ್ಯಂ and ಮಾ ಯಂ ದಧೇ, as supplied.)*
+
+*[The supplied text has before the bhāṣya a garbled label "೧ ಸಾಯಣಭಾಷ್ಯಂ ೧" (for Sāyaṇa-bhāṣya), kept as a note in kn.md; the bhāṣya was made a separate block.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> ऋतावानं बलवंतं यज्ञियं यज्ञार्हं विप्रं मेधाविनमुक्थं स्तुत्यं
+> दिवि द्युलोके क्षयं निवसंतं यमग्निं मातरिश्वा वायुर्द्युलोकादाहृत्य
+> पृथिव्यामादधे । आहितवान् । चित्रयामं नानाविधगमनं हरिकेशं पिंगलार्चिषं
+> सुदीतिं शोभनदीप्तिं तमग्निं नव्यसे नवतराय सुविताय सुष्टु प्राप्तव्याय
+> धनाय तदर्थमीमहे । याचामहे ॥
+
+*(Gist: Agni, mighty, worthy of sacrifice, wise and praiseworthy, dwelling in heaven, whom Mātariśvan brought to earth: we ask that tawny-haired, bright Agni for new, excellent wealth.)*
+
+### Printed p. 598
+
+*[Running head, p. 598: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 2.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Ṛtāvānaṃ: mighty. Yajñiyaṃ: worthy of sacrifice. [The supplied text has a stray "1" here.] Vipraṃ: wise. Utkaṃ (printed so; the Saṃhitā has ukthyam): worthy of praise. Divi: in the world of heaven. Kṣayaṃ: dwelling. Yaṃ: whom. Mātariśvā: the wind. Ā dadhe: brought to earth and established. Citrayāmaṃ: of various movement. Harikeśaṃ: with tawny flames. Sudītiṃ: of excessive radiance. Taṃ agniṃ: that same Agni. Navyase: new. Suvitāya: for wealth. Īmahe: I ask.
+
+**भावार्थ (Bhāvārtha)**
+
+I ask for new and praiseworthy wealth that same Agni, mighty, worthy of sacrifice, wise, worthy of praise and dwelling in the world of heaven, whom Mātariśvan brought to earth and established, of various movement, with tawny flames and of excessive radiance.
+
+**Printed English translation**
+
+We implore for present riches, the many-moving, tawny-rayed, resplendent Agni, whom mighty, venerable, wise, adorable, and dwelling in the sky, the wind (brought down) and deposited (upon the earth).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Mātariśvā—मातरिश्वा वायुर्मातर्यंतरिक्षे श्वसिति मातराश्वनितीति वा । (*mātariśvā vāyurmātaryaṃtarikṣe śvasiti mātarāśvanitīti vā |*) Since it breathes in the atmosphere or moves in it, the wind gets the name Mātariśvan. In the Ṛk Ṛ. Saṃ. 1-94-4 they take the word to mean Agni, and in Ṛ. Saṃ. 1-141-3 the sacrificers. But apart from one or two such places, everywhere else Mātariśvan means the wind.
+
+अन्यं मातरिश्वा दिव आ जभार (*anyaṃ mātariśvā diva ā jabhāra*)—the supernatural manifestation and the earthly production of Agni, who is the sacrifice in essence, are described in many ways. Agni, who is the banner of the sacrifices, the means of the vidatha, the father of rites such as the sacrifices and the king of the adhvaras (see the descriptions in the Ṛks Ṛ. Saṃ. 3-3-3; 3-11-2; 4-2-3 and so on), was first manifested to the wind in the form of lightning, as in the Ṛgveda Saṃhitā (the supplied line breaks off here: "ಋಕ್ಸಂಹಿತೆಯ")
+
+श्वमग्ने प्रथमो मातरिश्वन आविर्भिव सुक्रतॆया विवस्वते । (*śvamagne prathamo mātariśvana āvirbhiva sukratèyā vivasvate |*)
+(printed ಮ. ಸಂ. 1-31-3, i.e. Ṛ. Saṃ. 1-31-3)
+
 ---
 
-**Progress note:** Done through printed p. 595 (PDF 595). Sūkta 2 Ṛk 11 complete; Ṛk 12 complete up to printed English; 1 accent DIFF
+**Progress note:** Done through printed p. 598 (PDF 598). Sūkta 2 Ṛk 12 Special Topics; Ṛk 13 complete; Special Topics (Mātariśvan) cut at a broken line; accent DIFF/NOMATCH logged
