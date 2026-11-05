@@ -29356,4 +29356,132 @@ He tranquillized this great river, (so that it) might be crossed ; he conveyed a
 
 ---
 
-**Progress note:** Done through printed p. 763 (PDF 787); the task labels (762–764) were each one too high, since the headers read 761, 762, 763, so offset 24 holds. Sūkta 15: Ṛk 4 is complete (Bhāvārtha, printed English, and the Viśeṣaviṣayagaḷu with the six cited Ṛks). The Viśeṣaviṣayagaḷu ends on p. 762 before a rule line. Ṛk 5 is open: Saṃhitā (number ५ printed after the Saṃhitā), Pada, bhāṣya with gist, Pratipadārtha and Bhāvārtha are written; the printed English is begun and breaks off mid-sentence at the foot of p. 763 ("…unable to pass over it,"). The rest of the English and the Viśeṣaviṣayagaḷu come on p. 764. Numeral file: 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed and doubtful: the cited references (1-112-23, 10-113-9, 2-15-9, 7-19-4, 6-20-13, 6-26-6, 4-30-21), the Āśvalāyana reference 9-8, the Pāṇini reference 3-4-13, and the varga numerals in the headers. Doubtful readings: the garbled words in citation 1 and the end of citation 4, तप in citation 4, and स्तोतॄणां. The Ṛk 2 chunk still holds a duplicate Pada block to be tidied. Accents not reproduced.
+### Printed p. 764 (PDF 788)
+
+*(Header, read from the strip: "764", "Sāyaṇabhāṣyasahitā", "[ Maṃ. 2 A. 2 Sū. 15" in small Kannada numerals. The task label said 765; the header reads 764, so offset 24 holds. No numeral-file rows; nothing zoomed.)*
+
+*(Printed English of Ṛk 5, continued from p. 763:)*
+
+and who, having crossed, proceeded to realize the wealth they sought : in the exhilaration of the Soma, Indra has done these (deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+**अतिमूर्ति (*Atimūrti*)**: The Kannada: "In the one-day sacrifice named Atimūrti, this Ṛk स ईं महीं (*sa īṃ mahīṃ*) is to be recited as the first Ṛk of the sūkta at the beginning of the Marutvatīya-śastra mantras. This is explained in the Āśvalāyana Śrautasūtra, in the section (khaṇḍa) 'Atimūrtinā', by the sūtra स ईं महीं धुनिमेतोररम्णात् (*sa īṃ mahīṃ dhunimetoraramṇāt*) (Ā. 9-8)." *(Numerals "9-8", as in the bhāṣya reference on p. 763; unzoomed.)*
+
+**धुनिं (*Dhuniṃ*)**: The Kannada: "The word धुनयः (*dhunayaḥ*) is read among the names of rivers (Ni. 2-24 [?]; numerals unclear, unzoomed). For this word the bhāṣyakāra has explained the meaning thus:"
+
+*Gist: Dhuni, 'destroyer of the sins of those who praise', is the river Paruṣṇī. (Here the river-name is printed* परुष्णी*; the bhāṣya on p. 763 was read* पुरुष्णी *— the clearer reading here is* परुष्णी*.)*
+
+> धुनोति स्तोतॄणां [?] पापानीति धुनिः परुष्णी नदी ।
+
+> *dhunoti stotṝṇāṃ [?] pāpānīti dhuniḥ paruṣṇī nadī |*
+
+The Kannada: "That is, because it destroys the sins of those who praise, 'dhuniḥ' means a river. Here the explanation is given that it means the river named Paruṣṇī. In the Nirukta, the commentator on the Nirukta says:"
+
+*Gist: The word dhuni comes from the root dhūñ 'to shake': rivers shake the trees on their banks, or themselves move because of their nature of going.*
+
+> धुनयः । धूञ् कंपने भौवादिः । धुन्वंति कंपयंति तीरवृक्षादीनि, कंपंते वा स्वयं गमनशीलत्वात् ।
+
+> *dhunayaḥ | dhūñ kaṃpane bhauvādiḥ | dhunvaṃti kaṃpayaṃti tīravṛkṣādīni, kaṃpaṃte vā svayaṃ gamanaśīlatvāt |*
+
+The Kannada: "That is, the word dhuni is derived from the root धूञ् (*dhūñ*) meaning 'to shake'. Because they make the trees and the like on the bank shake, or, while flowing, because the water itself (the water) has the nature of moving, the rivers have the name धुनयः (*dhunayaḥ*): so he has explained."
+
+*Gist: Indra reduced the great river's water so that it could be crossed.*
+
+> सः ईं महीं धुनिं एतोः अरम्णात्—महाजलां नदीमल्पोदकामकरोदित्यर्थः ।
+
+> *saḥ īṃ mahīṃ dhuniṃ etoḥ aramṇāt—mahājalāṃ nadīmalpodakāmakarodityarthaḥ |*
+
+The Kannada: "That is, 'he made a river of great water into one of little water'. The main intention is that Indra, by making the river that was flowing deep and with a wide bed, full of abundant water, into one with little water, made it possible for people to cross. In former times it was not possible for ordinary people to cross big rivers that flowed deep and wide. Crossing rivers with abundant water and a wide bed, such as the Sindhu, Gaṅgā and the like, was a great difficulty. There were no big boats. Crossing by a small boat or a coracle (haragōlu) or other means was dangerous. Even the names of bridges did not exist. In such a time, crossing rivers or making others cross was reckoned a great act of daring. Therefore, describing that Indra made the water of the river less, so that crossing became possible, he has called this one of Indra's daring deeds."
+
+*Gist: Indra safely took across the sages who were unable to cross the great rivers. (The word is printed* आपारयत् *in this bold heading, as printed.)*
+
+> सः अस्नात्वान् आपारयत् स्वस्ति—तरणासमर्थान् ऋषीन् क्षेमेणापारयत्
+
+> *saḥ asnātvān āpārayat svasti—taraṇāsamarthān ṛṣīn kṣemeṇāpārayat*
+
+The Kannada: "Indra safely took across the sages who, without the strength to cross big rivers, were suffering. In this sentence, since the word अस्नात्वान् (*asnātvān*) means only 'those unable to cross', it is not necessary to say that Indra took only the sages across." *(The sentence continues on the next page.)*
+
+---
+
+### Printed p. 765 (PDF 789)
+
+*(Header, read from the strip: "A. 2 A. 6 V. 16 ]" in small Kannada numerals (varga read as 16, unzoomed), "Ṛgvedasaṃhitā", "765". The task label said 766; the header reads 765. No numeral-file rows; nothing zoomed.)*
+
+The Kannada, continued: "It may be said that Indra took across kings who praise Indra, or heroes in the service of kings, or other people. Moreover, the following—"
+
+*Gist: 'They crossed and set out for wealth'; the word rayim shows that anyone going to other lands for wealth may be meant, not sages alone.*
+
+> ते उत्स्नाय रयिं अभि प्र तस्थुः
+
+> *te utsnāya rayiṃ abhi pra tasthuḥ*
+
+The Kannada: "'They crossed the river and went forward to acquire wealth': since there is this sentence (that is, since in this sentence the word रयिं (*rayiṃ*) is used in the sense 'for the gaining of wealth'), those who cross the river and go to other countries for the gaining of wealth may be any of kings, kings' soldiers, merchants desirous of wealth, other ordinary people and the like. It cannot be said that this applies only to the sages. Even if the sages have a desire for wealth, they need not travel about the country and so on for it. They can obtain it merely by praying to Indra."
+
+---
+
+**॥ संहितापाठः ॥** *(Ṛk 6 begins; the small heading "Saṃhitāpāṭhaḥ" is printed above it.)*
+
+#### Ṛk 6
+
+> सोदं॑चं॒ सिंधु॑मरिणान्महि॒त्वा वज्रे॒णान॑ उ॒षसः॒ सं पि॑पेष ।
+> अ॒ज॒वसो॑ ज॒विनी॑भिर्विवृ॒श्चन्सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+> *sodaṃcaṃ siṃdhumariṇānmahitvā vajreṇāna uṣasaḥ saṃ pipeṣa |*
+> *ajavaso javinībhirvivṛścansomasya tā mada iṃdraścakāra ‖*
+
+*(Ṛk number "६" printed after the Saṃhitā, between double daṇḍas. The sandhi after विवृश्चन् is as read from the strip: unzoomed [?]. The Saṃhitā breaks across the line at "…उषसः सं | पिपेष".)*
+
+---
+
+### Printed p. 766 (PDF 790)
+
+*(Header, read from the strip: "766", "Sāyaṇabhāṣyasahitā", "[ Maṃ. 2 A. 2 Sū 15" in small Kannada numerals. The task label said 767; the header reads 766. No numeral-file rows; nothing zoomed.)*
+
+**॥ पदपाठः ॥** *(heading printed at the foot of p. 765, above the Pada)*
+
+> सः । उदंचं । सिंधुं । अरिणात् । महित्वा । वज्रेण । अनः । उषसः । सं । पिपेष ।
+> अजवसः । जविनीभिः । विवृश्चन् । सोमस्य । ता । मदे । इंद्रः । चकार ॥ ६ ॥
+
+> *saḥ | udaṃcaṃ | siṃdhuṃ | ariṇāt | mahitvā | vajreṇa | anaḥ | uṣasaḥ | saṃ | pipeṣa |*
+> *ajavasaḥ | javinībhiḥ | vivṛścan | somasya | tā | made | iṃdraḥ | cakāra ‖ 6 ‖*
+
+*(Ṛk number "6" printed after the Pada.)*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra turned the east-flowing river northward by his might, and with the thunderbolt ground to powder the wagon of Uṣas, scattering the slow armies with his swift ones.*
+
+> स इंद्रः सिंधुं प्रांचं संतं महित्वा स्वकीयेन महिम्नोदंचमरिणात् । उदङ्मुखमकरोत् ॥ सिंधुशब्दश्छंदसि पुल्लिंगः ॥ उषस उषोदेव्या अनः शकटं वज्रेण संपिपेष । चूर्णी चकार । एतच्च दिवश्चिद्घा दुहितरं । ४-३०-९ । इत्यत्र स्पष्टं वक्ष्यते । किं कुर्वन् । अजवसो जवहीना दुर्बलाः सेना[?] जविनीभिर्जवयुक्ताभिः सेनाभिर्विवृश्चन् । विशेषेण भिंदन् । पिपेषेति समन्वयः । ओव्रश्चू भेदने । शतरि ग्रहिज्यादिना संप्रसारणं । शिष्टं स्पष्टं ॥
+
+> *sa iṃdraḥ siṃdhuṃ prāṃcaṃ saṃtaṃ mahitvā svakīyena mahimnodaṃcamariṇāt | udaṅmukhamakarot ‖ siṃdhuśabdaśchaṃdasi pulliṃgaḥ ‖ uṣasa uṣodevyā anaḥ śakaṭaṃ vajreṇa saṃpipeṣa | cūrṇī cakāra | etacca divaścidghā duhitaraṃ | 4-30-9 | ityatra spaṣṭaṃ vakṣyate | kiṃ kurvan | ajavaso javahīnā durbalāḥ senā[?] javinībhirjavayuktābhiḥ senābhirvivṛścan | viśeṣeṇa bhiṃdan | pipeṣeti samanvayaḥ | ovraścū bhedane | śatari grahijyādinā saṃprasāraṇaṃ | śiṣṭaṃ spaṣṭaṃ ‖*
+
+*(Doubtful: the visarga-like place after सेना, where a black smudge covers the print, [?]; the reference "4-30-9" is read from the strip, unzoomed. The grammatical tail is transcribed, not explained: the root ओव्रश्चू in the sense of cutting, and saṃprasāraṇa before the śatṛ suffix by the rule beginning "grahi-jyā…". No sūtra numbers are printed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—Indra. सिंधुं (*siṃdhuṃ*)—the river (that was flowing eastward). महित्वा (*mahitvā*)—by his own greatness. उदंचं (*udaṃcaṃ*)—so as to flow northward. अरिणात् (*ariṇāt*)—he made. उषसः (*uṣasaḥ*)—of the goddess Uṣas. अजवसः (*ajavasaḥ*)—the weak armies. जविनीभिः (*javinībhiḥ*)—with his own swift armies. विवृश्चन् (*vivṛścan*)—scattering completely and destroying. अनः (*anaḥ*)—her wagon. वज्रेण (*vajreṇa*)—with his own thunderbolt. सं पिपेष (*saṃ pipeṣa*)—he ground to powder. सोमस्य (*somasya*)—by the drinking of the soma juice. मदे (*made*)—when exhilaration arose. ता (*tā*)—these great deeds. इंद्रः (*iṃdraḥ*)—Indra. चकार (*cakāra*)—did.
+
+**भावार्थ (Bhāvārtha)**
+
+The Kannada: "Indra, by his greatness, made the river that was flowing eastward flow northward. Scattering completely and destroying the weak armies of the goddess Uṣas with his own swift armies, he ground her wagon to powder with his thunderbolt. When exhilaration arose from drinking the soma juice, Indra did these great deeds."
+
+**English Translation** *(as printed)*
+
+By his great power he turned the Sindhu towards the north ; with his thunderbolt he ground to pieces the waggon of the dawn, scattering the tardy enemy with his swift forces, in the exhilaration of the Soma, Indra has done these (deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*Gist: Indra turned the east-flowing Sindhu to flow north.*
+
+> सः उदंचं सिंधुं अरिणात् महित्वा—स इंद्रः सिंधुं प्रांचं संतं महित्वा स्वकीयेन महिम्नोदंचमरिणात् उदङ्मुखमकरोत् ।
+
+> *saḥ udaṃcaṃ siṃdhuṃ ariṇāt mahitvā—sa iṃdraḥ siṃdhuṃ prāṃcaṃ saṃtaṃ mahitvā svakīyena mahimnodaṃcamariṇāt udaṅmukhamakarot |*
+
+The Kannada: "Here it is said that Indra, by his greatness, turned the river that was flowing toward the east so that it flowed toward the north. Here सिंधुं (*siṃdhuṃ*) means generally any river whatever; it is not clear that it is the famous river named Sindhu. Since the river Sindhu flows neither toward the east nor toward the north, some other river must have been indicated. It is not possible to say which river that is. Since this matter is hinted at in Ṛ. Saṃ. 4-30-11 [?], probably there, as said there, it may be the river named Vipāśī. Or, since the river Sindhu is mentioned in Ṛ. Saṃ. 4-30-12 [?], it may be the river Sindhu itself." *(Both references unzoomed; the digits "11" and "12" are as read.)*
+
+**वज्रेण अनः उषसः संपिपेष (*Vajreṇa anaḥ uṣasaḥ saṃpipeṣa*)**: The Kannada: "Indra, with his thunderbolt, ground the wagon of the goddess Uṣas, or her chariot, to powder, that is, pulverized it. This matter—" *(The sentence breaks off here at the foot of the page, with a dash, and continues on the next page, not yet seen.)*
+
+---
+
+**Progress note:** Done through printed p. 766 (PDF 790); the task labels (765–767) were each one too high, since the headers read 764, 765, 766, so offset 24 holds. Sūkta 15: Ṛk 5 is complete (printed English finished on p. 764; the Viśeṣaviṣayagaḷu ends on p. 765 before a rule line). Ṛk 6 is open: Saṃhitā, Pada, bhāṣya with gist, Pratipadārtha, Bhāvārtha and printed English are written; the Viśeṣaviṣayagaḷu is begun (Sindhu turned north; the sentence on Uṣas's wagon breaks off at the foot of p. 766 with "This matter—"). Numeral file: 0 rows; nothing zoomed (single-call reading). FILE DISAGREE: none. Unzoomed and doubtful: the Nighaṇṭu reference (read 2-24 [?]), the Āśvalāyana reference 9-8, the bhāṣya reference 4-30-9, the references 4-30-11 and 4-30-12, the varga numeral 16 in the p. 765 header, the smudged place after सेना in the Ṛk 6 bhāṣya, the sandhi विवृश्चन्सोमस्य in the Saṃhitā, स्तोतॄणां, and परुष्णी (here) against पुरुष्णी (p. 763 bhāṣya). The bold heading on p. 764 prints आपारयत् (as printed). Accents not reproduced.
