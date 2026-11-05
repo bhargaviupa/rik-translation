@@ -8873,6 +8873,83 @@ To this Agni called Apāṃ napāt, the first among many deities and our friend,
 
 To him our friend, the first of many (deities), we offer worship with sacrifices, oblations, and prostration: I decorate the high place
 
+### Printed p. 282
+
+(of his presence) : I nourish him with fuel ; I nourish him with (sacrificial) viands :  I glorify him with hymns.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अस्मै बहूनां अवमाय (*asmai bahūnāṃ avamāya*)—पुरोवर्तिने देवानां आद्याय (*purovartine devānāṃ ādyāya*) (to him who is present before us, the first of the gods). The word बहु (*bahu*) is established in the sense of *prabhūta* (much, many). For this word, which is always used as an adjective, the word देवानां (*devānāṃ*) has been supplied as the noun qualified. The word अवम (*avama*) always conveys the sense "inferior"; here the sense "first" is given, and it is described that because this Apāṃ napāt deity is the first among the gods worthy of the sacrifice, and regards the sacrificers as friends, being सख्यॆ (*sakhyè*)—समानख्यानाय (*samānakhyānāya*) (of equal renown), the sacrificers worship this deity नमसा हविर्भिः (*namasā havirbhiḥ*) with salutations and with offerings of oblations.
+
+सानु संमार्ज्जि (*sānu saṃmārjji*)—समुच्च्रितप्रदेशं सम्यक् शोधयामि अलंकरोमि वा (*samuccritapradeśaṃ samyak śodhayāmi alaṃkaromi vā*) (I cleanse well, or adorn, the raised place). Since the place where this fire Apāṃ napāt is set is the altar (*vedi*) in the sacrificial hall, it is explained that the sacrificer or the priests make this raised place pure or adorn it.
+
+बिल्मैः (*bilmaiḥ*)—भासनैः काष्ठैः (*bhāsanaiḥ kāṣṭhaiḥ*) (with shining pieces of wood). Yāska explains the word बिल्म (*bilma*) as बिल्मं भिल्मं भासनमिति वा (*bilmaṃ bhilmaṃ bhāsanamiti vā*) (Nir. 1-20). Durgācārya, explaining the formation of the word बिल्म (*bilma*) as भिदेर्भासतीर्वा बिल्म शब्दः (*bhiderbhāsatīrvā bilma śabdaḥ*), describes the meaning of the word *bilma* as भेदो व्यासः अथवा भासनमेव बिल्मशब्देनोच्यते (*bhedo vyāsaḥ athavā bhāsanameva bilmaśabdenocyate*), that is, explaining or making bright. Here Sāyaṇa has given the meaning "fuel (wood), the means of making the fire blaze".
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> स ईं॒ वृषा॑जनय॒त्तासु॒ गर्भं॒ स ईं॒ शिशु॑र्धयति॒ तं रि॑हंति ।
+> सो अ॒पां नपा॒दन॑भिम्लातवर्णो॒ऽन्यस्ये॑वे॒ह त॒न्ना॑ विवेष ॥ १३ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । ईं । वृषा । अजनयत् । तासु । गर्भ० । सः । ईं । शिशुः । धयति । तं । रिहंति।
+> सः । अपां । नपात् । अनभिम्लातवर्णः । अन्यस्य इव । इह । तन्ना । विवेष ॥ १३ ॥
+
+> *saḥ | īṃ | vṛṣā | ajanayat | tāsu | garbha0 | saḥ | īṃ | śiśuḥ | dhayati | taṃ | rihaṃti|*
+> *saḥ | apāṃ | napāt | anabhimlātavarṇaḥ | anyasya iva | iha | tannā | viveṣa ‖ 13 ‖*
+
+### Printed p. 283
+
+**॥ सायणभाष्यम् ॥**
+
+> स ईं सोऽयमपांनपात्संज्ञको देवो वृषा सेक्ता भूत्वा तासु मेघ-
+> स्थास्वप्सु गर्भमजनयत् । स्वात्मानमेव गर्भरूपेण वर्षणार्थ० कृतवानित्यर्थः ।
+> गर्भो भूत्वा च स ईं सोऽयं माध्यमिको वैद्युतोऽग्निस्तासां शिशुः पुत्रः
+> सन् धयति । मेघस्थास्ताः पिबति । अबंधनो ह्यसौ । तं पुत्रस्थानीयमद्भिरापश्च
+> रिहंति । लिहंति ॥ लिह आस्वादने । कपिलकादित्वाल्लत्वविकल्पः ॥ सोऽयमपांनपात्
+> वृष्ट्या सह भूमौ निपतितोऽनभिम्लातवर्णः । अभितो म्लातो म्लानः क्षीणो
+> वर्णो यस्य तद्विपरीतोऽत्यर्थ० दीप्यमानः सन् इहास्मिन् लोकेऽन्यस्येव ।
+> इवशब्दोऽवधारणे । अन्यस्य पार्थिवस्यॆवाग्नेस्तन्वा शरीरेण काष्ठेंधनलक्षणेन
+> विवेष ! व्याप्पो बभूव ॥ विष्णु व्याप्त् ॥
+
+*Gist: the fire Apāṃ napāt, becoming the impregnator, produced himself as an embryo in the cloud-waters, drinks them as their child, and as the earthly fire pervades this world with a body of wood.*
+
+The grammatical tail of the bhāṣya (on the root *lih*, with optional *l* for *r*, and the root *viṣ*/*vyāp*) is transcribed above and not explained; the last words are garbled in the supplied text.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+स ईं (*sa īṃ*)—that same fire called Apāṃ napāt; वृषा (*vṛṣā*)—being possessed of the power of sprinkling; तासु (*tāsu*)—in the waters abiding in the cloud; गर्भं (*garbhaṃ*)—an embryo; अजनयत् (*ajanayat*)—produced (for himself). स ईं (*sa īṃ*)—that same fire who has himself created his embryo; शिशुः (*śiśuḥ*)—born as an infant in the form of lightning; धयति (*dhayati*)—drinks (the waters abiding in the cloud); तं (*taṃ*)—this fire; रिहंति (*rihaṃti*)—(the waters) touch; सः अपां नपात् (*saḥ apāṃ napāt*)—that same fire called Apāṃ napāt; अनभिम्लातवर्णः (*anabhimlātavarṇaḥ*)—possessing a radiance that does not decay in the least; इह (*iha*)—on this earth; अन्यस्येव तन्वा (*anyasyeva tanvā*)—with the bodies of wood and the like of the earthly fire, which is other than the lightning form; विवेष (*viveṣa*)—has pervaded.
+
+**भावार्थ (Bhāvārtha)**
+
+That same fire called Apāṃ napāt, possessed of the power of sprinkling, created for himself his own embryo in the waters abiding in the cloud. Afterwards, born himself as an infant in the form of lightning, he drinks the waters abiding in the cloud. The waters touch this fire. That same fire, with a radiance that does not decay in the least, has pervaded this earth with the bodies, wood and the like, of the earthly fire, which is other than the lightning form.
+
+**Printed English**
+
+Vigorous, he has generated himself as an embryo in those (waters): he is their infant; he sucks them; they bedew him (with moisture); the grandson of the waters of untarnished splendour has descended to this (earth) in the form of a different (fire).
+
+### Printed p. 284
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स ईं वृषा तासु गर्भं अजनयत् (*sa īṃ vṛṣā tāsu garbhaṃ ajanayat*)—सोऽयमपां नपात्संज्ञको देवः सेक्ता भूत्वा मेघस्थास्वप्पु स्वात्मानमेव गर्भरूपेण वर्षणार्थं कृतवान् (*so 'yamapāṃ napātsaṃjñako devaḥ sektā bhūtvā meghasthāsvappu svātmānameva garbharūpeṇa varṣaṇārthaṃ kṛtavān*). It has been explained earlier that the deity Apāṃ napāt exists in the form of the lightning-fire in the midst of the clouds, and in the form of the submarine fire in the midst of the sea. It is explained here, by showing as an illustration the course by which a living creature comes into the womb, is born, grows and spreads in the world, that this deity, being in the midst of the cloud, came into being in the manner of the world, and that this deity, being in the form of an infant, grows and pervades the world. Since the waters in the clouds are in a dense (solid) form, this deity is in the midst of the clouds so that the rain-waters may fall to the earth. To this eternal deity (who has neither birth nor death) the state of being in the womb is attributed. After coming out of the womb (after birth) the infant needs food in order to grow; likewise स ईं शिशुः धयति (*sa īṃ śiśuḥ dhayati*)—सोयं माध्यमिकः वैद्युतः अग्निः तासां शिशुपुत्रस्सन् मेघस्थाः ताः पिबति । अबंधनोसौ (*soyaṃ mādhyamikaḥ vaidyutaḥ agniḥ tāsāṃ śiśuputrassan meghasthāḥ tāḥ pibati | abaṃdhanosau*). This deity, existing in the form of the lightning-fire, a deity of the middle region, becoming the infant of the waters, drinks the waters that are in the clouds, just as an infant takes food for the growth of its body: so it is described.
+
+अपांनपात् अनभिम्लातवर्णः इह अन्यस्येव तन्ना विवेश (*apāṃnapāt anabhimlātavarṇaḥ iha anyasyeva tannā viveśa*) [sic, as supplied: तन्ना विवेश (*tannā viveśa*)] आयं वृष्टा सह भूमौ निपतितः म्लातः म्लानः क्षीणः वर्णो यस्य तद्विपरीतः अत्यर्थं दीप्यमानः अस्मिन् लोके पार्थिवस्यॆवाग्ने काष्ठेंधनत्वलक्षणेन शरीरेण व्याप्तो बभूव (*āyaṃ vṛṣṭā saha bhūmau nipatitaḥ mlātaḥ mlānaḥ kṣīṇaḥ varṇo yasya tadviparītaḥ atyarthaṃ dīpyamānaḥ asmin loke pārthivasyèvāgne kāṣṭheṃdhanatvalakṣaṇena śarīreṇa vyāpto babhūva*). It is described that the clouds, together with the rain-waters, pervade the earth; that he, taking the form of the earthly fire, which is other than the food in the form of his lightning-fire [the supplied text reads आहार (*āhāra*), "food"], pervades the whole world; and that this earthly fire takes, in his own form, the wood-fuels necessary for his growth.
+
+अनभिम्लातवर्णः (*anabhimlātavarṇaḥ*)—अभितः क्षीणः वर्णः यस्य तद्विपरीतः अत्यर्थं दीप्यमानः (*abhitaḥ kṣīṇaḥ varṇaḥ yasya tadviparītaḥ atyarthaṃ dīpyamānaḥ*). The meaning is described thus: that which is devoid of lustre in every way is *abhimlāta-varṇa*, and, opposed to it, that which is endowed with abundant lustre is *anabhimlāta-varṇa*.
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मिन्प॒दे प॑र॒मे त॑स्थि॒वांस॑मध्व॒स्मभि॑र्वि॒श्वहा॑ धीदि॒वांसं॑ ।
+> आपो॒ नप्रे॑ घृ॒तमन्नं॒ वहं॑तीः स्व॒यमत्कैः॒ परि॑ दीयंति य॒ह्वीः ॥
+
+> *asminpade parame tasthivāṃsamadhvasmabhirviśvahā dhīdivāṃsaṃ |*
+> *āpo napre ghṛtamannaṃ vahaṃtīḥ svayamatkaiḥ pari dīyaṃti yahvīḥ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 281 (PDF 281). Sūkta 35 Ṛk 11 complete, Ṛk 12 begun (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha; printed English cut at end of p. 281, continues on p. 282); kn.md hand-fixes: garbled Pada and bhāṣya labels replaced by standard ones; OCR slips kept: ಅಪಾನಂ ಪಾತ್ (Ṛk 12 Pratipadārtha), ನಾನು/ನಾ in bhāṣya Ṛk 12, ನಶೀತಿ in Special Topics
+**Progress note:** Done through printed p. 284 (PDF 284). Sūkta 35 Ṛk 12 Special Topics, Ṛk 13 complete, Ṛk 14 Saṃhitā begun (Pada on p. 285); kn.md hand-fixes: Pratipadārtha split out of bhāṣya block and un-quoted; OCR slips kept: ತನ್ನಾ/ವಿವೇಶ, ಅಪ್ಪು, ಆಯಂ, ಮೇಘ ಮಧ್ಯ, ವಿದ್ಯದ್ರೂಪ in Bhāvārtha, ಕಾಷ್ಠಾಡಿ; accent DIFF 3 lines
