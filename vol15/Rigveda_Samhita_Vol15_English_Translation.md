@@ -17511,6 +17511,70 @@ In this sūkta and in the next sūkta the sage Viśvāmitra has praised Vaiśvā
 > *ekaṃ sadviprā bahudhā vadaṃtyagniṃ yamaṃ mātariśvānamāhuḥ ‖*
 (Ṛ. Saṃ. 1-164-46, as printed "ಋ ಸಂ.")
 
+### Printed p. 551
+
+*[Running head, p. 551: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+⟦ಇಮಮೇವಾಗ್ನಿಂ ಮಹಾಂತಮಾತ್ಮಾನಮೇಕಮಾತ್ಮಾನಂ ಬಹುಧಾ ಮೇಧಾವಿನೋ ವದಂತಿ ।
+ಅಗ್ನಿಃ ಸರ್ವಾ ದೇವತಾಃ ಇತಿ ಬ್ರಾಹ್ಮಣಮಪಿ ಭವತಿ⟧ (Ni. 7-18). All worship this same great, universal-souled Agni, addressing him by different names such as Indra. And there are Śruti sentences also that for all the fire-portions that appear in other forms in different contexts, this Vaiśvānara Agni is the origin, and all the other forms are branches of this Vaiśvānara Agni.
+
+⟦ವಯಾ ಇದಗ್ನೇ ಅಗ್ನಯಸ್ತೇ ಅನ್ಯೇ ತ್ವೇ ವಿಶ್ವೇ ಅಮೃತಾ ಮಾದಯಂತೇ ।
+ವೈಶ್ವಾನರ ನಾಭಿರಸಿ ಕ್ಷಿತೀನಾಂ ಸ್ತೂಣೇವ ಜನಾ ಉಪಮಿದ್ಯಯಂಥ ॥⟧
+(Ṛ. Saṃ. 1-59-1)
+
+Vaiśvānara Agni is the cause of the existence and movement of the whole world, gods and men and all, and is the guide of all the doings of the world. Therefore the Śrutis that teach the performance of rites and the Śrutis that teach spiritual knowledge alike declare the necessity of the worship of Vaiśvānara Agni, saying that all beings desiring their own welfare and the welfare of the world must know the nature of this Vaiśvānara Agni, the soul of the universe, and worship him. The Saṃhitās such as the Ṛgveda say वैश्वानरस्य सुमतौ स्याम (*vaiśvānarasya sumatau syāma*) (Ṛ. Saṃ. 1-98-1); the Brāhmaṇas such as the Śatapatha say ⟦ಸ ಯೋ ಹ್ಯೇತಮೇವಮಗ್ನಿಂ ವೈಶ್ವಾನರಂ
+ಪುರುಷವಿಧಂ ಪುರುಷೇಂತಃ ಪ್ರತಿಷ್ಠಿತಂ ವೇದಾಪ ಪುನರ್ಮೃತ್ಯುಂ ಜಯತಿ ಸರ್ವಮಾಯುರೇತಿ ।⟧—all who know the nature of this Vaiśvānara Agni, hidden within the person and of the form of the person, conquer death and attain a full life (Śat. Brā. 10-6-1-11); and the Upaniṣads such as the Chāndogya say ⟦ಅಥ ಯ ಏತದೇವಂ ವಿದ್ವಾನಗ್ನಿ ಹೋತ್ರಂ ಜುಹೋತಿ ತಸ್ಯ ಸರ್ವೇಷು ಲೋಕೇಷು
+ಸರ್ವೇಷು ಭೂತೇಷು ಸರ್ವೆಷ್ಟಾತ್ಮಸು ಹುತಂ ಭವತಿ ।⟧—thus, the man who, knowing the nature of Vaiśvānara Agni, performs the Agnihotra, makes the offering as though in all beings, in all worlds, and in all selves (Chā. Up. 5-24-2). Hence it is highly necessary to understand in this context what the nature of this deity is and what relation this deity has to the performance of rites and to the acquisition of spiritual knowledge. In the Ṛk Ṛ. Saṃ. 1-98-1, ⟦ರಾಜಾ ಹಿ ಕಂ
+ಭುವನಾನಾಮಭಿಶ್ರೀಃ ।⟧ Vaiśvānara is described as the venerable lord of all beings. But the Nirukta authors, with the question who that Vaiśvānara is, in explaining this very Ṛk, take many examples and conclude that Vaiśvānara is the terrestrial Agni. Their explanation is as follows—
+
+⟦ವೈಶ್ವಾನರಃ ಕಸ್ಮಾದ್ವಿಶ್ವಾನ್ನರಾನ್ನಯತಿ ।
+ವಿಶ್ವ ಏನಂ ನರಾ ನಯಂತೀತಿ ವಾ ।
+ಅಪಿ ವಾ ವಿಶ್ವಾಸರ ಏವ ಸ್ಯಾತ್ ಪ್ರತ್ಯೃತಃ ಸರ್ವಾಣಿ ಭೂತಾನಿ ತಸ್ಯ ವೈಶ್ವಾನರಃ ॥⟧
+(Ni. 7-21)
+
+### Printed p. 552
+
+*[Running head, p. 552: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 1.]*
+
+That is: he is the guide and leader of all; or all lead him in the sacrifice as the chief deity; or because, pervading everywhere, he has entered all beings. Explaining the Ṛk वैश्वानरस्य सुमत् स्याम (*vaiśvānarasya sumat syāma*) thus, they state the nature of this deity: ⟦ಇತೋ ಜಾತಃ ಸರ್ವಮಿದಮಭಿಪಶ್ಯತಿ ವೈಶ್ವಾನರಃ ಸಂಯತತೇ ಸೂರ್ಯೇಣ ರಾಜಾ ಯಃ
+ಸರ್ವೇಷಾಂ ಭೂತಾನಾಮಭಿಶ್ರಯಣೀಯಸ್ತಸ್ಯ ವಯಂ ವೈಶ್ವಾನರಸ್ಯ ಕಲ್ಯಾಣ್ಯಾಂ ಮತ್ ಸ್ಯಾಮೇತಿ ।⟧ Since he is lord of all and refuge of all, let us all be worthy of this Vaiśvānara's gracious glance. Having explained the sense of the Ṛk—that born as the terrestrial Agni he surveys the whole world and unites with the Sun—they raise the question तत्को वैश्वानरः । (*tatko vaiśvānaraḥ |*) "Who is this Vaiśvānara?" (Ni. 6-22), discuss the disagreement of the traditions, and at the end give their settled opinion. In their discussion they first state the defect in the views that Vaiśvānara is a deity of the atmosphere.
+
+मध्यम इत्याचार्याः । वर्षकर्मणा ह्येनं स्तौति । प्र नू महित्वं वृषभस्य वोचं । (*madhyama ityācāryāḥ | varṣakarmaṇā hyenaṃ stauti | pra nū mahitvaṃ vṛṣabhasya vocaṃ |*) (Ṛ. Saṃ. 1-59-6): the teachers hold that he is a deity of the atmosphere, because he is praised as the cause of rain, as described in this Ṛk. Besides—
+
+⟦ಏಷಾಂ ಲೋಕಾನಾಂ ರೋಹೇಣ ಸವನಾನಾಂ ರೋಹ ಆಮ್ಮಾತೋ ರೋಹಾತ್ ಪ್ರತ್ಯಾ-
+ರೋಹಶ್ಚಿಕೀರ್ಷಿತಸ್ತಾಮನುಕೃತಿಂ ಹೋತಾಗ್ನಿಮಾರುತೇ ಶಸ್ತ್ರೇ ವೈಶ್ವಾನರೀಯೇಣ
+ಸೂಕ್ತೇನ ಪ್ರತಿಪದ್ಯೇತೇ ॥⟧
+
+⟦ಸೂರ್ಯಪ್ರಸೂತಾವಗ್ನೀ ತು ದೃಷ್ಟೌ ಪಾರ್ಥಿವಮಧ್ಯಮಾ ।
+ಏತೇಷಾಮೇವ ಲೋಕಾನಾಂ ತ್ರಯಾಣಾಮಧ್ವರೇಽಧ್ವರೇ ॥
+ರೋಹಾತ್ಪತ್ಯವರೋಹೇಣ ಚಿಕೀರ್ಷನ್ನಗ್ನಿಮಾರುತಂ ।
+ಶಸ್ತ್ರಂ ವೈಶ್ವಾನರೀಯೇಣ ಸೂಕ್ತೇನ ಪ್ರತಿಪದ್ಯತೇ ॥⟧
+(Bṛ. De. 1-101; 1-102)
+
+There is a rule that the excess of the offerings must follow the order of ascent through earth, atmosphere and heaven. After the order of ascent the order of descent must be followed. Following this sequence, in this Vaiśvānarīya sūkta which the sacrificer recites addressing Agni and the Maruts, Vaiśvānara is praised first in the descending order. With this idea, having stated the prior view that this Vaiśvānara is अथासावादित्य इति पूर्वे यज्ञिकाः । (*athāsāvāditya iti pūrve yajñikāḥ |*), the Āditya, as the ancient sacrificers hold, they continue—
+
+### Printed p. 553
+
+*[Running head, p. 553: Aṣṭaka 2, Adhyāya 8, Varga 16, Ṛgvedasaṃhitā.]*
+
+⟦ಸೋಽಪಿ ನ ಸ್ತೋತ್ರಿಯಮಾದ್ರಿಯತಾಗ್ನೇಯೋ ಹಿ ಭವತಿ । ತತ ಆಗಚ್ಛತಿ ಮಧ್ಯಸ್ಥಾನಾ
+ದೇವತಾ ರುದ್ರಂ ಚ ಮರುತಶ್ಚ ತತೋಽಗ್ನಿಮಿಹಸ್ಥಾನಮತ್ರ ವೈ ಸ್ತೋತ್ರಿಯಂ ಶಂಸತಿ ।⟧ Since this sūkta is mainly addressed to Agni, and afterwards, addressing Rudra and the Maruts, the sacrificer again praises the Agni belonging to the terrestrial world, in the terrestrial sacrificial hall in which he recites this sūkta, they refute the above view, saying that the Vaiśvānara Agni referred to here is a terrestrial deity and not one of the atmosphere. And supporting their view that this Vaiśvānara Agni is a terrestrial deity, they cite fitting Śruti sentences.
+
+अथाप्याह—इतो जातो विश्वमिदं वि चष्टे वैश्वानरो यतते सूर्येण । (*athāpyāha—ito jāto viśvamidaṃ vi caṣṭe vaiśvānaro yatate sūryeṇa |*)
+(Ṛ. Saṃ. 1-98-1)
+
+⟦ನ ಚ ಪುನರಾತ್ಮನಾತ್ಮಾ ಸಂಯತತೇಽನ್ಯೇನೈವಾನ್ಯಃ ಸಂಯತತ ಇತ ಇಮಮಾದಧಾತ್ಯಮು-
+ತೋಽಮುಷ್ಯ ರಶ್ಮಯಃ ಪ್ರಾದುರ್ಭವಂತೀತೋಽಸ್ಯಾರ್ಚಿಷಸ್ತಯೋರ್ಭಾಸೋಃ ಸಂಸಂಗಂ
+ದೃಷ್ಟೈವಮವಕ್ಷ್ಯತ್ ।⟧
+
+The statement of the Saṃhitā text that Vaiśvānara extends himself and joins the Sun also supports this view. If Vaiśvānara were the Sun himself, it would be impossible for him to extend himself and join himself. It is natural to say that one thing extends and joins with another. After the sacrificer has kindled Agni on earth, its rays spread to the world above and appear there too. Seeing them join and become one with the rays of Āditya spread in the atmosphere, it is described as यतते सूर्येण (*yatate sūryeṇa*). Moreover—
+
+⟦ಅಥ ಯಾನ್ಯೇತಾನ್ಯೌತ್ತಮಿಕಾನಿ ಸೂಕ್ತಾನಿ ಭಾಗಾನಿ ವಾ ಸಾವಿತ್ರಾಣಿ ನಾ ಸೌರ್ಯಾಣಿ ವಾ
+ಪೌಷ್ಣಾನಿ ವಾ ವೈಷ್ಣವಾನಿ ವಾ ವೈಶ್ಯದೇವ್ಯಾನಿ ವಾ ತೇಷು ವೈಶ್ವಾನರೀಯಾಃ ಪ್ರವಾದಾ
+ಅಭವಿಷ್ಯನ್ನಾದಿತ್ಯಕರ್ಮಣಾ ಚೈನಮಸ್ತೋಷ್ಯನ್ನಿತ್ಯುದೇಷೀತ್ಯಸ್ತಮೇಷೀತಿ ವಿಪರೈಷೀತಿ ।⟧
+
+If Vaiśvānara were the Sun himself, then the nature and activity of atmospheric deities such as Savitṛ, Pūṣan, Viṣṇu and the Viśvedevas would have to be supplied and described in him, and descriptions such as "he rises, he sets, he revolves" would have to be present. But since only descriptions relating to Agni are here, it becomes firmly known that he is a synonym of the terrestrial Agni. On the basis of these and other grounds,
+
 ---
 
-**Progress note:** Done through printed p. 550 (PDF 550). Sukta 1 (Mandala 3) Rik 23 complete (pp. 548-550) - end of the sukta; Sukta 2 begins at end of p. 550: title line, stray line, Pithike on Vaishvanara Agni, Rik 1-164-46 block; breaks off before the main Pithike continues. Flags: garbled Pratipadartha label kept as note; Ma. Sam. printed for Ri. Sam. 5-41-19,20 and 10-50-6; Rik 23 Pada lacks closing number
+**Progress note:** Done through printed p. 553 (PDF 553). Sūkta 2 Pīṭhike on Vaiśvānara Agni continues (Nirukta discussion); no hand-fixes
