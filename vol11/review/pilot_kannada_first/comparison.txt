@@ -1,0 +1,49 @@
+== PDF 171: existing 61 words (12 [?]), Kannada-first 54 words (2 [?])
+  replace: EXISTING मैत्रावरुणमुक्थमाश्रयन्ते | KANNADA-FIRST मैत्रावरुणस्योक्थमाश्रयंते सोऽब्रवीदिंद्रः कश्चाहं चेमा- नितोऽसुरान्स्तोत्स्यावहा
+  replace: EXISTING सोऽब्रवीदिन्द्रः कः [?] साहं क्वेमानितोऽसुरानोत्स्यानहा [?] इत्थं चेत् [?] ब्रवीद्वरुणस्त्वा [?] … | KANNADA-FIRST इत्यहं चेत्यब्रवीद्वरुणस्तस्मादैंद्रावरुणं
+  replace: EXISTING नुदेताम् [?] | KANNADA-FIRST नुदेतां
+  replace: EXISTING यच्छतम् | KANNADA-FIRST यच्छतं
+  insert: EXISTING - | KANNADA-FIRST (ऋ. सं. ७-८२-१)
+  replace: EXISTING ते [?] | KANNADA-FIRST ततोऽपहता
+  replace: EXISTING कः | KANNADA-FIRST कश्चाहं चेमानितोऽसुरान्स्तोत्स्यावहा
+  replace: EXISTING साहं क्वेमानितोऽसुरानोत्स्यानहा | KANNADA-FIRST इत्यहं चेत्यब्रवीद्बृहस्पतिस्त- स्मादैंद्राबार्हस्पत्यं ब्राह्मणाच्छंसी तृतीयसवने शंसतींद्रश्च हि तान्बृ- हस्पतिश्च हि ततो नुदेतां
+  delete: EXISTING इत्थं चेत् [?] ब्रवीद्बृहस्पतिस्त्वा [?] ब्राह्मणाच्छंसिनस्तृतीयसवने शंसन्तीन्द्रश्च हि तान्बृहस्पतिश्च ततो नुदेताम् [?] । | KANNADA-FIRST -
+  identical words: 27
+== PDF 276: existing 69 words (11 [?]), Kannada-first 60 words (1 [?])
+  replace: EXISTING मादयित्र्यौ जिह्वे ज्वाले ययोस्तौ [?] । | KANNADA-FIRST मादनज्वालौ
+  replace: EXISTING यजमानानाम् | KANNADA-FIRST यज- मानानां संभक्तारौ
+  replace: EXISTING गृणातेर्यङ्लुगन्तात् क्विप् छान्दसो | KANNADA-FIRST गृणतेर्यज्लुगंतात् [?] क्विपि च्छांदसे
+  replace: EXISTING । कस्मिन्नुपपदे वनसे [?] … छन्दसि वनसनरक्षमथानीत्य [?] प्रत्ययः | KANNADA-FIRST तस्मिन्नुप- पदे वनतेश्छंदसि वनसनरक्षिमथामितीन्प्रत्ययः
+  replace: EXISTING मध्यमस्थानेऽन्तेभ्यो [?] | KANNADA-FIRST मध्यमस्थानश्चेत्युभौ
+  replace: EXISTING फलसाधकभूतम् | KANNADA-FIRST फल- साधनभूतं
+  replace: EXISTING स्वायतमित्यादिना | KANNADA-FIRST स्थायितंचेत्यादिना
+  delete: EXISTING । | KANNADA-FIRST -
+  replace: EXISTING द्युलोकवासिनो देवान् | KANNADA-FIRST द्युलोकवासिदेवान्
+  replace: EXISTING त्रैदशीषु | KANNADA-FIRST तैर्हविषः
+  insert: EXISTING - | KANNADA-FIRST ईदृशं नोऽस्मदीयमिमं यज्ञ- मद्य यक्षतां
+  delete: EXISTING उद्दशं [?] नोऽस्मदीयमिमं यज्ञमद्य यक्षतां | KANNADA-FIRST -
+  insert: EXISTING - | KANNADA-FIRST वा
+  insert: EXISTING - | KANNADA-FIRST सम्यज्ञावाहयतामित्यर्थः
+  delete: EXISTING सम्यग्भूर्वाहयतामित्यर्थः ॥ | KANNADA-FIRST -
+  identical words: 35
+== PDF 435: existing 83 words (13 [?]), Kannada-first 125 words (6 [?])
+  replace: EXISTING नोऽस्माकं यः शत्रुरघायुः पापेच्छुः | KANNADA-FIRST नोऽस्मान्यस्मद्रक्षितान्
+  replace: EXISTING ... अररिवान् अस्मद्दानप्रतिबन्धकः | KANNADA-FIRST योऽघायुर्मारणादिरूपपापेच्छावान् अररिवानदाता
+  replace: EXISTING [...] रातेर्लुङ् | KANNADA-FIRST अस्मद्दानप्रतिबंधक इत्यर्थः
+  replace: EXISTING छान्दसः ... | KANNADA-FIRST रातेश्छांदसस्य लिटः
+  replace: EXISTING अरातिवा अदातापि | KANNADA-FIRST अरातीवा स्वयमदानवान्
+  delete: EXISTING ... स्वयमदावान् | KANNADA-FIRST -
+  replace: EXISTING ... | KANNADA-FIRST छंदसि वनिपमिच्छंतीति [?] मत्वर्थीयो वनिप् ॥ शत्रुत्वमाचरन्
+  replace: EXISTING न दद्यात् | KANNADA-FIRST स दपामिति
+  delete: EXISTING ... निन्दाभ्यां | KANNADA-FIRST -
+  replace: EXISTING ... स्वसन्तं | KANNADA-FIRST निंदाद्यारोपेण दाननिवारणं वाचिको मंत्रः
+  replace: EXISTING ... मर्चयति | KANNADA-FIRST यद्वा
+  replace: EXISTING उद्वेजयतीत्यर्थः | KANNADA-FIRST मायाहेतुकेन विरुद्ध- रूपेण द्विविधेन मंत्रेण
+  replace: EXISTING ... पुनरस्तु | KANNADA-FIRST यो विरुद्धमाचरति तन्न सुकीर्तयति यच्च प्रियं ब्रूते तन्न करोति अन्यत्ररोत्यन्यददतीत्येवं
+  replace: EXISTING ... तस्मै ... अनुमृक्षीष्ट अनुकरेण | KANNADA-FIRST मंत्रस्वरूपद्वैविध्यं
+  replace: EXISTING ... दुरुक्तैः ... | KANNADA-FIRST पूर्वं मानस- वाचिकभेदेन इदानीं वाचिककायिकभेदेनेति विवेकः । ईदृशेन मंत्रेण यः शत्रु- र्मर्चयति भर्त्सयति विधेयान् करोति वास्मान् । स मंत्रैकदेशो मानसरूपोऽस्- मै पुनर्गुरुरस्तु ॥ षष्ठ्यर्थे चतुर्थी ॥ प्रयोक्त्रेव पुनर्गरितास्तु । तथा दुरुक्तैर्दुर्वाक्यैर्निंदारूपैर्वाचिकैस्तन्वं स्वकीयां तनुमनु मृक्षीष्ट । अनु- मार्ष्टु । अनुक्रमेण लुंपतु ।
+  replace: EXISTING मन्त्रः अस्मै प्रयोक्त्रैव गुरुर्गरीयान् | KANNADA-FIRST मंत्रोऽस्मै प्रयोक्त्रेव गुरुर्गरितास्तु
+  replace: EXISTING अस्तु ... दुरुक्तैः कोऽरातिः स्वतनुमेव | KANNADA-FIRST अन्यान्यस्यस्मन्यक्काराय
+  replace: EXISTING ... | KANNADA-FIRST प्रयुक्तानि निष्ठुरभाषणानि संति । तैर्दुर्- रुक्तैः सोऽरातिः स्वतनुमेवावलुंपतु । स्वात्मानमेवावृत्य
+  delete: EXISTING *[small type; largely illegible; only fragments read]* | KANNADA-FIRST -
+  identical words: 31
