@@ -30780,6 +30780,111 @@ In this Ṛk four heroic deeds of Indra are described. They will be explained on
 
 *(The bhāṣya breaks off at the foot of p. 808 and continues on the next page.)*
 
+### Printed p. 809
+
+*(Header: "[A. 2. A. 6. V. 20.] Ṛgvedasaṃhitā 809".)*
+
+*(The bhāṣya of Ṛk 6 continues from p. 808.)*
+
+> ततोऽप्युत्कृष्टाद्देदसो ज्ञानात् तद्विशिष्टं बाहुभ्यां स्वकीयाभ्यां बाहुभ्यां
+> यमाकृणोत् । तुविष्टणिर्बहुकीर्तिर्महास्वनो वा स इंद्रो येन ज्ञानेन
+> क्रिविमेतन्नामानमसुरं वज्रेण हत्वी ॥ स्नात्वादयश्चेति त्वी ॥ हत्वा ताडयित्वा
+> पृथिव्यां भूमौ शयध्यै शयनाय दीर्घनिद्राय्कॆ न्यवृणक् ॥ वृणक्तिर्हिंसाकर्मा ॥
+> न्यवधीत् ॥
+
+> *tato 'pyutkṛṣṭāddedaso jñānāt tadviśiṣṭaṃ bāhubhyāṃ svakīyābhyāṃ bāhubhyāṃ*
+> *yamākṛṇot | tuviṣṭaṇirbahukīrtirmahāsvano vā sa iṃdro yena jñānena*
+> *krivimetannāmānamasuraṃ vajreṇa hatvī ‖ snātvādayaśceti tvī ‖ hatvā tāḍayitvā*
+> *pṛthivyāṃ bhūmau śayadhyai śayanāya dīrghanidrāykè nyavṛṇak ‖ vṛṇaktirhiṃsākarmā ‖*
+> *nyavadhīt ‖*
+
+Gist: Indra, father and protector of all, superior in knowledge, made the world with his arms and can protect it; he struck down Krivi with the thunderbolt.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पिता (*pitā*)—Indra, the protector; विश्वस्माज्जनुषः (*viśvasmājjanuṣaḥ*)—than all human beings; परि (*pari*)—superior; वेदसॆः (*vedasèḥ*) (as supplied)—endowed with knowledge; बाहुभ्यां (*bāhubhyāṃ*)—with his arms; यं (*yaṃ*)—which world; आ अकृणोत् (*ā akṛṇot*)—he constructed (and); तुविष्वणिः (*tuviṣvaṇiḥ*) (as supplied; the bhāṣya has तुविष्टणिः (*tuviṣṭaṇiḥ*))—making a great noise; येन (*yena*)—by which knowledge of his; क्रिविं (*kriviṃ*)—the asura called Krivi; वज्रेण (*vajreṇa*)—with the thunderbolt weapon; हत्वी (*hatvī*)—having struck; पृथिव्यां (*pṛthivyāṃ*)—on the ground; शयध्यै (*śayadhyai*)—so that he lay dead; नि अवृणक् (*ni avṛṇak*)—he made (him); सः (*saḥ*)—that Indra; अस्मै (*asmai*)—for the protection of this world; अलं (*alaṃ*)—is fully capable.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, the protector, endowed with superior knowledge, constructed the world with his arms; and, making a great noise, by his knowledge he struck the asura called Krivi with the thunderbolt and made him lie dead on the ground. That Indra is fully capable of protecting the world.
+
+**Printed English translation (Ṛk 6)**
+
+Sufficient was he for(the protection of) this(world), which he, its defender, fabricated with his two arms for the sake of all mankind, over whom he was supreme by his wisdom; whereby,(also), he, the loud-shouting, having struck Krivi with the thunderbolt, consigned him to(eternal) slumber on the earth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सः अस्मै अरं (*saḥ asmai araṃ*) (बभूव (*babhūva*))—स तादृश इंद्रः अस्मै जगते अरमलं पर्याप्तो बभूव । रक्षकत्वेन स्वामी बभूवेत्यर्थः । (*sa tādṛśa iṃdraḥ asmai jagate aramalaṃ paryāpto babhūva | rakṣakatvena svāmī babhūvetyarthaḥ |*) Such an Indra is fully able to protect the world, that is, to guard the world. How is that?
+
+पिता विश्वस्मात् जनुषः परि वेदसः बाहुभ्यां यं आ अकृणोत् (*pitā viśvasmāt januṣaḥ pari vedasaḥ bāhubhyāṃ yaṃ ā akṛṇot*)—सर्वस्य पालकः प्रजापतिः स इंद्रः सर्वस्माज्जनात् ततोऽप्युत्कृष्टात् ज्ञानात् स्वकीयाभ्यां बाहुभ्यां यं अकृणोत् । (*sarvasya pālakaḥ prajāpatiḥ sa iṃdraḥ sarvasmājjanāt tato 'pyutkṛṣṭāt jñānāt svakīyābhyāṃ bāhubhyāṃ yaṃ akṛṇot |*) Indra, being the protector of everything and, in the form of Prajāpati, of all
+
+### Printed p. 810
+
+*(Header: "810 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 17]".)*
+
+people, and superior to them in knowledge, is able to protect the world which he created with his arms. Indra is the greatest of all in knowledge; he is the protector of all, like a father. Such an Indra created this world with his arms, that is, by his own power. Not only that: he alone is capable of protecting this world that he has created. This is the main purport.
+
+तुविष्टणिः येन क्रिविं वज्रेण हत्वी पृथिव्यां शयध्यै नि अवृणक् (*tuviṣṭaṇiḥ yena kriviṃ vajreṇa hatvī pṛthivyāṃ śayadhyai ni avṛṇak*)—Moreover, Indra, who has great fame or roars much like a hero, by his surpassing knowledge or power struck down with the thunderbolt the asura called Krivi and made him lie dead on the earth. Krivi is an asura; like Vṛtra he covers the clouds and obstructs rain. The slaying of this asura is mentioned in the present Ṛk and also in these Ṛks:
+
+अध त्विषीमा अभ्योजसा क्रिविं युधाभवदा रोदसी अप्पणदस्य मज्मना प्र वावृधे । (*adha tviṣīmā abhyojasā kriviṃ yudhābhavadā rodasī appaṇadasya majmanā pra vāvṛdhe |*) (Ma. Saṃ. 2-22-2)
+
+प्र यो ननक्षे अभ्योजसा क्रिविं वधैः शुष्णं निघोषयन् । (*pra yo nanakṣe abhyojasā kriviṃ vadhaiḥ śuṣṇaṃ nighoṣayan |*) (Ma. Saṃ 8-51-8)
+
+Although the word क्रिवि (*krivi*) is read in the Ṛks Ṛ. Saṃ. 1-30-1, 5-44-4, 8-70-24, 8-22-12, 8.87-1, 9.9-6, there the word क्रिवि (*krivi*) is used only in the sense of a well. The word क्रिवि (*krivi*) is listed among the names of wells (Ni. 3-19).
+
+हत्वी (*hatvī*)—हत्वा (*hatvā*)! Having slain. By the sūtra statement स्नात्वादयश्चेति त्वी (*snātvādayaśceti tvī*) the suffix त्वी (*tvī*) comes, and the word हत्वा (*hatvā*) becomes हत्वी (*hatvī*). This kind of usage is not generally current, but is seen rarely in a few places. The word हत्वी (*hatvī*) is read in this Ṛk and in the Ṛks Ṛ. Saṃ. 2-20-8, 2-30-10, 3-34-9. Like it, the word भूत्वी (*bhūtvī*) is read in the Ṛks Ṛ. Saṃ. 7-104-18, 10-85-29, 10-145-5.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> अ॒मा॒जूरि॑व पि॒त्रोः सचा॑ स॒ती स॑मा॒नादा सद॑स॒स्त्वामि॑ये॒ भगं॑ ।
+
+> *amājūriva pitroḥ sacā satī samānādā sadasastvāmiye bhagaṃ |*
+
+### Printed p. 811
+
+*(Header: "[A. 2. A. 6. V. 20.] Ṛgvedasaṃhitā 811".)*
+
+> कृधि प्रकेतमुप मास्या भर दद्धि भागं तन्नो३येन मामहः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> अमाजूः इव । पित्रोः । सचा । सती । समानात् । आ । सदसः । त्वां । इये । भगं ।
+> कृधि । प्रकेतं । उप । मासि । आ । भर । दद्धि । भागं । तन्वः । येन । ममहः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र अमाजूर्यावज्जीवं गृह एव जीर्यंती पित्रोः सचा मातापितृ-
+> भ्यां सह भवंती तयोः शुशूषणपरा पतिमलभमाना सती दुहिता समानादात्मनः
+> पित्रोश्च साधारणात्सदसो गृहात् ॥ अधिकरणे चोपसंख्यानमिति पंचमी ॥ गृह
+> उपस्थायैव यथा भागं याचति तथा स्तोताहं भगं भजनीयं धनं त्वामिये ॥
+> ई गत्यादिषु । लिट्टुत्तम इति व्यत्ययेनात्मनेपदं । इयजादेशः ॥ त्वां याचे ।
+> तत्र देयं धनं प्रकेतं प्रकर्षेण ज्ञातव्यं विश्वजनीयं कृधि । कुरु । तत्रोप-
+> मासि । एतावदिदं धनमिति कुरु । आभर । तत्र धनं संपादय । भागं भजनीयं धनं
+> तन्नः शरीराय मह्यमिति यावत् दद्धि । देहि । येन धनेन ममहः । स्तोत निमा-
+> न्सूजयसि ॥
+
+> *he iṃdra amājūryāvajjīvaṃ gṛha eva jīryaṃtī pitroḥ sacā mātāpitṛ-*
+> *bhyāṃ saha bhavaṃtī tayoḥ śuśūṣaṇaparā patimalabhamānā satī duhitā samānādātmanaḥ*
+> *pitrośca sādhāraṇātsadaso gṛhāt ‖ adhikaraṇe copasaṃkhyānamiti paṃcamī ‖ gṛha*
+> *upasthāyaiva yathā bhāgaṃ yācati tathā stotāhaṃ bhagaṃ bhajanīyaṃ dhanaṃ tvāmiye ‖*
+> *ī gatyādiṣu | liṭṭuttama iti vyatyayenātmanepadaṃ | iyajādeśaḥ ‖ tvāṃ yāce |*
+> *tatra deyaṃ dhanaṃ praketaṃ prakarṣeṇa jñātavyaṃ viśvajanīyaṃ kṛdhi | kuru | tatropa-*
+> *māsi | etāvadidaṃ dhanamiti kuru | ābhara | tatra dhanaṃ saṃpādaya | bhāgaṃ bhajanīyaṃ dhanaṃ*
+> *tannaḥ śarīrāya mahyamiti yāvat daddhi | dehi | yena dhanena mamahaḥ | stota nimā-*
+> *nsūjayasi ‖*
+
+Gist: As a husbandless daughter serving her parents asks her family home for her share, so the worshipper asks Indra for wealth that is known, measured and given.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अमाजूः (*amājūḥ*)—until she is old; पित्रोः सचा (*pitroḥ sacā*)—(without getting a husband) serving her parents and staying with them; सती (*satī*)—a virtuous daughter; समानात् (*samānāt*)—belonging to her parents; आ सदसः इव (*ā sadasaḥ iva*)—as she asks from the house for the property needed for her livelihood; भगं (*bhagaṃ*)—the venerable wealth; त्वां (*tvāṃ*)—from you; इये (*iye*)—I pray (for that wealth); प्रकेतं (*praketaṃ*)—making it manifest, so that all know; कृधि (*kṛdhi*)—make; उप मासि (*upa māsi*)—make known also the measure of that wealth; आ भर (*ā bhara*)—bring (to me); येन (*yena*)—by which wealth; ममहः (*mamahaḥ*)—you honour (your praisers); such; भागं (*bhāgaṃ*)—venerable wealth; तन्नः (*tannaḥ*)—for the nourishment of my body; दद्धि (*daddhi*)—give.
+
+**भावार्थ (Bhāvārtha)**
+
+A virtuous daughter who, without getting a husband, serves her parents and stays with them until she grows old, asks from her parents' own house for the property needed for her livelihood [the sentence breaks off at the foot of p. 811 and continues on the next page].
+
 ---
 
-**Progress note:** Done through printed p. 808 (PDF 808). Sukta 17 Rk 5 completed (Samhita continuation, Pada, bhasya, Special Topics); Rk 6 begun (bhasya breaks off at foot of p. 808)
+**Progress note:** Done through printed p. 811 (PDF 811). Sukta 17 Rk 6 completed (bhasya tail, Pratipadartha, Bhavartha, printed English, Special Topics on Krivi and hatvi); Rk 7 begun: Samhita, Pada, bhasya, Pratipadartha, Bhavartha begun (breaks off at foot of p. 811). Rk 7 Samhita second line left unaccented (supplied tannoe3yena vs reference)
