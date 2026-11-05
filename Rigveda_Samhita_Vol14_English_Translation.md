@@ -32563,6 +32563,95 @@ the desire of wealth of his present pious adorer.
 
 इयानः ब्रह्मण्यतः नूतनस्य आयोः (*iyānaḥ brahmaṇyataḥ nūtanasya āyoḥ*)—Since the word आयुः (*āyuḥ*) is read among the names of man (Ni 3-7) [as printed, no full stop], आयोः (*āyoḥ*) means "of a man". नूतनस्य (*nūtanasya*)—of the new, that is, one who now (at the present time) is praising Indra. The chief sense is: may Indra fulfil the desired objects of the man, the sacrificer, who is now (in this sacrifice) praising, asking for what he needs in the matter of wealth.
 
+### Printed p. 863
+
+*(Header: "[A. 2. Adhyāya 6. Varga 25] Ṛgvedasaṃhitā 863", as supplied.)*
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+*(The Saṃhitā label is garbled in the supplied text and is given in standard form. The first verse-line of the Saṃhitā survives only inside an HTML title attribute, in mixed Kannada and Devanagari letters with slips; it is converted letter for letter to Kannada letters and kept as supplied, not corrected. It lacks the word corresponding to the Pada's ब्रह्म (*brahma*), and differs from the Pada in अज्ञिरसामुचिथा (*ajñirasāmucithā*), जुजुष्मान्ह्मा (*jujuṣmānhmā*) and तूतोदिन्नो (*tūtodinno*) against अज्ञिरसां (*ajñirasāṃ*), उचथा (*ucathā*), जुजुष्वान् (*jujuṣvān*), तूतोत् (*tūtot*), इन्द्रः (*indraḥ*). Reported, not settled.)*
+
+> सो अज्ञिरसामुचिथा जुजुष्मान्ह्मा तूतोदिन्नो
+> गातुमिष्णन् ।
+> मु॒ष्णन्मु॒षसः॒ सूर्ये॑ण स्त॒वानश्न॑स्य चिच्चिश्नथत्पू॒र्वाणैः ॥ ५ ॥॑
+
+**॥ पदपाठः ॥**
+
+*(The Pada was printed twice in the supplied text, the first time followed by a fragment of the title attribute; the duplicate and the fragment are left out.)*
+
+> सः । अज्ञिरसां । उचथा । जुजुष्वान् । ब्रह्म । तूतोत् । इन्द्रः । गातुं । इष्णन् ।
+> मुष्णन् । उषसः । सूर्येण । स्तवान् । अश्नस्य । चित् । शिश्नथत् । पूर्वाणैः ॥ ५ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अंगिरसां संबंधीन्युचथोक्कानि जुजुष्वान् । जुषी प्रीतिसेवनयोरित्यस्य
+> लिट क्वसौ रूपं ॥ सेवमानः स इंद्रो गातुं पणिभिरुपद्रुतानामंगिरसां मार्ग-
+> मिष्णन् प्रेरयन् ब्रह्म तेषां स्तोत्रं कामप्रदानेन तूतोत् ॥ तु वृद्धावित्यस्य
+> लजि बहुलं छंदसीति विकरणस्य श्लुः ॥ अवर्धयत् । किंच स्तवान् स्तोतृभिः स्तूय-
+> मानः सूर्येण स्वात्मभूतेनोषसो मुष्णन् अपहरन् । उदिते हि सूर्य
+> उषसो न्यावर्तंते । तादृशः स इंद्रोऽश्नस्य । अश्नुते स्वतेजसा सर्वं जगदित्यश्च
+> कश्चिदसुरः । तस्य पूर्वाणि पुरातनानि पुराणि बलानि वा शिश्नथत् । अश्नथयत् । शिथि-
+> लीचकार ॥
+
+*Gist: Indra, enjoying the hymns of the Angirasas, showed them the way to the cattle taken by the Paṇis and fulfilled their prayer; praised, he took away the radiance of the dawns by the sun and destroyed the old strongholds of the demon Aśna.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अंगिरसां (*aṃgirasāṃ*)—of the Aṅgirā sages; उचथा (*ucathā*)—the hymns that are spoken words; जुजुष्वान् (*jujuṣvān*)—enjoying; सः इंद्रः (*saḥ iṃdraḥ*)—that Indra; गातुं (*gātuṃ*)—the way (of seeking the cattle); इष्टन् (*iṣṭan*) [sic, as supplied]—urging on; ब्रह्म (*brahma*)—their praise; तूतोत् (*tūtot*)—(as the giver of their desired object) he fulfilled; स्तवान् (*stavān*)—being praised by the praisers; सूरैण (*sūraiṇa*) [sic, as supplied]—by the sun, who is of his own nature; उषसः (*uṣasaḥ*)—of the dawn (the radiance); मुष्णन् (*muṣṇan*)—taking away; अश्वस्य (*aśvasya*) [as supplied; the Pada and bhāṣya have अश्नस्य (*aśnasya*)]—of the demon called Aśva (Aśna); पूर्व्याणि (*pūrvyāṇi*)—the ancient cities; शिश्नथत् (*śiśnathat*)—he destroyed.
+
+**भावार्थ (Bhāvārtha)**
+
+Enjoying the hymns, spoken by the Aṅgirā sages, Indra showed them the way to the cattle carried off by the Paṇis and fulfilled the desire they had asked for by their praise.
+
+### Printed p. 864
+
+*(Header: "864 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2 Sū. 20]", as supplied.)*
+
+Praised by the praisers, he took away the light of the dawn by the sun, who is of his own nature, and destroyed the ancient cities of the demon named Aśva (Aśna).
+
+**English Translation (as printed)**
+
+Propitiated by the hymns of the Angirasas, Indra granted their prayer, and directed them on the way(to recover their cattle): carrying of [sic] the dawns by the(light of the) sun, he, animated by praise, demolished the ancient cities of Ashna.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अंगिरसां (*aṃgirasāṃ*)—A detailed account of the Aṅgirases has been given by us many times: in Ṛ. Saṃ. part 1, pages 641 to 642, and also at the references printed as 3 dash 520, 5 dash 672, 6 dash 365, 8 dash 187 and 10 dash 522 (part and page). In verses such as Ṛ. Saṃ. 10-62-4, 5 the Aṅgirases are said to be sons of Agni or of the live coal, and sons of the gods. The idea is that one Aṅgiras was the original ancestor and the rest were his sons. These Aṅgirases are called our fathers in places such as Ṛ. Saṃ. 1-62-2 and 1-71-2. On many occasions they are praised together with the Vasus, Rudras, Ādityas and others. It is said that they found the fire hidden in the forests (5-11-6), that they framed the first rules relating to the sacrifice (10-67-2), and that through the sacrifice they gained immortality and Indra's friendship (10-62-1).
+
+Indra and they are very closely related. In the present verse and in Ṛ. Saṃ. 8-52-3 it is said that Indra showed them the cattle. For their sake he opened the doors of the cow-pens (1-51-3), threw down the demon named Vala and drove the cattle out (8-14-8). Accompanied by them, Indra pierced Vala (2-11-20) and drove out the cattle that were confined (6-17-6). On two occasions (1-100-4, 1-130-3) he is called the leader of the Aṅgirases (*aṅgirastama*). In the matter of the release of the cattle, Indra, praised by the song of the Aṅgirases, pierced Vala (2-15-8) and broke open the doors of the cow-pens (4-16-18). Having killed Vala, he opened the doors of his fortress (6-18-5). The song of the Aṅgirases has a special distinction (10-78-5, 1-107-2). In the episode of the release of the cattle the part of the Aṅgirases appears to be greater than the part of Indra. Keeping Indra with them, the Aṅgirases emptied the cow-pens and horse-stalls (10-62-7). By the power of the rites they had performed they drove the cattle out and pierced and killed Vala (10-62-2). They made the sun rise in the sky, and the earth *(continues on the next page)*
+
+### Printed p. 865
+
+*(Header: "[A. 2. Adhyāya 6. Varga 26] Ṛgvedasaṃhitā 865", as supplied.)*
+
+was spread out widely (10-62-3). By the power of the sacrifice they had performed they broke the rock, freed the cattle from bondage, and shouted with joy together with them (4-3-11). Singing, they found the cattle (1-62-2); by their songs they broke the rock and saw the light. The part of the Aṅgirases also appears in the episode in which the divine bitch named Saramā found, for Indra, the cattle carried off by the demons called Paṇis (10-108-8, 10); in this matter Saramā helped Indra and the Aṅgirases (1-62-3, 1-72-8). Bṛhaspati too has a part in the work of releasing the cattle carried off by the Paṇis (10-108-6, 11).
+
+Agni too is called many times the leader among the Aṅgirases (1-75-2). Among the company of the fathers the ancient Aṅgiras is one (1-139-1). In the Anukramaṇikā it is said that the Aṅgirases belong to a family of priests. They are called Atharvāṅgirases, and the Atharvaveda has the name Atharvāṅgirasa. Many such details concerning the Aṅgirases are described here and there.
+
+मुष्णन् उषसः सूर्येण (*muṣṇan uṣasaḥ sūryeṇa*)—The statement that the radiance of the dawn was taken away by the sun means that as soon as the sun has risen, the greater brightness of the sun lessens the ordinary light of the dawn period (as supplied: साम्यान (*sāmyāna*)). That is, the meaning is that the brightness of the sun is far greater than the light of the dawn period.
+
+अश्नस्य पूर्वाणि (*aśnasya pūrvāṇi*)—अश्नुते स्वतेजसा सर्वं जगदित्यश्चः कश्चिदसुरः । तस्य पुरातनानि पुराणि बलानि वा । (*aśnute svatejasā sarvaṃ jagadityaścaḥ kaścidasuraḥ | tasya purātanāni purāṇi balāni vā |*) (as supplied; the bhāṣya has जगदित्यश्च (*jagadityaśca*)). The meaning is: Indra destroyed the ancient cities, or his soldiers, of a certain demon who was famous under the name Aśna because he used to devour and ruin everything by his power.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+*(The label is garbled in the supplied text ("ಸಂಪುಟ ತಾತ್ಪಾರಕಃ") and is given in standard form; the Ṛk number is not printed after the Saṃhitā in the supplied text, and none is supplied. The Saṃhitā is joined across the line-end hyphen in दस्म-तमः (*dasma-tamaḥ*). It differs from the Pada in इन्नो (*inno*) against इन्द्रः (*indraḥ*), भुवन्मनुषे (*bhuvanmanuṣe*) against भुवत् । मनुषे (*bhuvat | manuṣe*), साह्वाञ्छिरो (*sāhvāñchiro*) against सह्वान् । शिरः (*sahvān | śiraḥ*) and भरद्दासस्य (*bharaddāsasya*) against भरत् । दासस्य (*bharat | dāsasya*); reported, not settled.)*
+
+> स ह॑ श्रु॒त इन्नो॒ नाम॑ दे॒व ऊ॒र्ध्वो भु॑व॒न्मनु॑षे द॒स्मत॑मः ।
+> अव॑ प्रि॒यम॑र्शसा॒नस्य॑ सा॒ह्वाञ्छिरो॑ भरद्दा॒सस्य॑ स्व॒धावा॑न् ॥
+
+**॥ पदपाठः ॥**
+
+*(The supplied text ends the window with a stray footer fragment, "[55] Vol. 14.", which is left out.)*
+
+> सः । ह । श्रुतः । इन्द्रः । नाम । देवः । ऊर्ध्वः । भुवत् । मनुषे । दस्मतमः ।
+> अव । प्रियं । अर्शसानस्य । सह्वान् । शिरः । भरत् । दासस्य । स्वधावान् ॥ ६ ॥
+
+> *saḥ | ha | śrutaḥ | indraḥ | nāma | devaḥ | ūrdhvaḥ | bhuvat | manuṣe | dasmatamaḥ |*
+> *ava | priyaṃ | arśasānasya | sahvān | śiraḥ | bharat | dāsasya | svadhāvān ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 862 (PDF 862). Sukta 20: Rk 3 bhashya completed with Pratipadartha, Bhavartha, English, Special Topics; Rk 4 Samhita (label restored in kn.md), Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics complete; one garbled Rik reference marked [?]
+**Progress note:** Done through printed p. 865 (PDF 865). Sukta 20: Rk 5 Samhita (first line from title attribute, converted to Kannada letters), Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics complete; Rk 6 Samhita and Pada only, rest follows
