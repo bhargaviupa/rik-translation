@@ -29580,6 +29580,114 @@ Conscious of the disappearancee [sic] of the damsels, tho(Rishi) [sic] Paravrij,
 > *abhinat | tathā gavāṃ nirodhakasya parvatasya dṛṃhitāni śilābhirdṛḍhīkṛtāni dvārāṇi*
 > [49] Vol. 14.
 
+### Printed p. 770
+
+*(Header: "770", "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 2 Sū. 15". The page begins in the middle of the Sāyaṇa-bhāṣya of Ṛk 8.)*
+
+> वैरत् । उद्घाटितवान् । तदेवाह । एषां पर्वतानां कृत्रिमाणि क्रियया निर्वृ-
+> त्तानि रोधांसि निरुद्धानि द्वाराणि रिणक् । उदघाटयत् । गतमन्यत् ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अंगिरोभिः (*aṅgirobhiḥ*)—by the sages called Aṅgirases. गृणानः (*gṛṇānaḥ*)—Indra, praised. वलं (*valaṃ*)—the Asura named Vala. भिनत् (*bhinat*)—split. पर्वतस्य (*parvatasya*)—of the mountain. दृंहितानि (*dṛṃhitāni*)—the doors made firm with stones [sic: supplied text has द्यंहितानि]. वि ऐरत् (*vi airat*)—caused to open. एषां (*eṣāṃ*)—of these mountains. कृत्रिमाणि (*kṛtrimāṇi*)—artificial, and रोधांसि (*rodhāṃsi*)—obstructing doors. रिणक् (*riṇak*)—tearing them apart, he released them. सोमस्य (*somasya*)—by drinking soma juice. मदे (*made*)—when exhilaration arose. इंद्रः (*iṃdraḥ*)—Indra. ता (*tā*)—these great deeds. चकार (*cakāra*)—did.
+
+**भावार्थ (Bhāvārtha)**
+
+Indra, praised by the sages called Aṅgirases, split the Asura named Vala. He caused the doors of the mountain, made firm with stones, to open. And he tore apart the artificial, obstructing doors of these mountains and released them. When exhilaration arose from the drinking of soma juice, Indra did these great deeds.
+
+**English Translation** *(as printed)*
+
+Praised by the Angirasas, he destroyed Vala: he forced open the firm shut(doors) of the mountain; he broke down their artificial defences: in the exhilaration of the Soma, Indra has done these(deeds)-
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वलं (*valaṃ*)—About the Asura named Vala, see what we have written on pages 634–635 of this same volume.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> स्वप्ने॑ना॒भ्युप्या॒ चुमु॑रिं॒ धुनिं॑ च ज॒घंथ॒ दस्युं॒ प्रद॒भीति॑-
+> मावः ।
+> रं॒भी चि॒दत्र॑ विविदे॒ हिर॑ण्यं॒ सोम॑स्य॒ ता मद॒ इंद्र॑श्चकार ॥
+
+> *svapnenābhyupyā cumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ pradabhīti-*
+> *māvaḥ |*
+> *raṃbhī cidatra vivide hiraṇyaṃ somasya tā mada iṃdraścakāra ‖*
+
+### Printed p. 771
+
+*(Header: "Aṣṭaka 2, Adhyāya 6, Varga 16", "Ṛgvedasaṃhitā", "771".)*
+
+**॥ पदपाठः ॥**
+
+> स्वप्नेन । अभिउप्य । चुमुरिं । धुनिं । च । जघंथ । दस्युं । प्र । दभीतिं । आवः ।
+> रंभी । चित् । अत्र । विविदे । हिरण्यं । सोमस्य । ता । मदे । इंद्रः । चकार ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra put the Asuras Chumuri and Dhuni into long sleep and protected the royal sage Dabhiti; Dabhiti's chamberlain gained the Asuras' wealth in that fight.*
+
+> अतिमूर्तिनाम्मेकाहे निष्केवल्ये सूक्तमुखीया स्वप्नेनेत्येषा । सूत्रितं ।
+> स्वप्नेनाभ्युप्या चुमुरिं धुनिं चेति सूक्तमुखीया । आ ९-८ । इति ॥
+> स त्वं दस्युं सर्वस्योपक्षपयितारं चुमुरिं धुनिं च एतन्नामानावसुरौ
+> स्वप्नेन दीर्घनिद्रयाभ्युप्य संयोज्य जघंथ । हतवानसि । ततस्ताभ्यां युध्यमानं
+> दभीतिं राजर्षि० प्रावः । रक्षितवानसि । तथा च मंत्रवर्णः । त्वं नि दस्युं चुमुरिं
+> धुनिं चास्वापयो दभीतये सुहंतु । ७-१९-४ । इति ॥ आवः । अवते रक्षणार्थस्य
+> लज सिपि रूपं ॥ रंभी चित् वेत्रधारी चास्य दौवारिकोऽत्रास्मिन्युद्धे तयोरसुर-
+> योर्हिरण्यं धनं विविदे । लेभे ॥ विद्यॆ लाभे स्वरितेत् । तानीमानि कर्माणि
+> सोमस्य मदे सति चकारेति ॥
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इंद्र (*iṃdra*)—O Indra) दस्युं (*dasyuṃ*)—the violent, चुमुरिं (*chumuriṃ*)—Asura named Chumuri, धुनिं च (*dhuniṃ ca*)—and the Asura named Dhuni; स्वप्नेन (*svapnena*)—with long sleep, अभ्युप्य (*abhyupya*)—joining (them), जघंथ (*jaghaṃtha*)—you have killed. दभीतिं (*dabhītiṃ*)—the royal sage named Dabhiti; प्र आवः (*pra āvaḥ*)—you have protected fully. रंभी चित् (*raṃbhī cit*)—(Dabhiti's) chamberlain holding a staff; अत्र (*atra*)—in this battle; हिरण्यं (*hiraṇyaṃ*)—the wealth (of the Asuras); विविदे (*vivide*)—obtained. सोमस्य (*somasya*)—by drinking soma juice; मदे (*made*)—when exhilaration arose; इंद्रः (*iṃdraḥ*)—Indra; ता (*tā*)—these great deeds; चकार (*cakāra*)—did.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you have joined the violent Asura named Chumuri and the Asura named Dhuni with long sleep. You have fully protected the royal sage named Dabhiti. Dabhiti's chamberlain holding a staff obtained the wealth of the Asuras in this battle. When exhilaration arose from the drinking of soma juice, Indra did these great deeds.
+
+**English Translation** *(as printed; continues on the next page)*
+
+You have slain the Dasyus, Chumuri and Dhuni, having cast them into(profound) sleep: you have protected Dabhiti, whilst his chamberlain
+
+### Printed p. 772
+
+*(Header: "772", "Sāyaṇabhāṣyasahitā", "Maṃ. 2 A. 2 Sū. 15".)*
+
+gained in that(contest) the gold(of the Asuras); in the exhilaration of the Soma, Indra has done these(deeds).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+स्वप्नेन अभ्युप्य चुमुरिं धुनिं च जघंथ दस्युं (*svapnena abhyupya chumuriṃ dhuniṃ ca jaghaṃtha dasyuṃ*)—O Indra, Indra is praised as having, to protect the royal sage named Dabhiti, made the Asuras Chamuri and Dhuni, together with their soldiers, sleep-bound (stupefied) on the battlefield. We have explained this matter at length on pages 551–552 of Volume 10.
+
+रंभी चित् (*raṃbhī cit*)—वेत्रधारी चास्य दौवारिकोऽत्रास्मिन्युद्धे तयोरसुरयोर्हि-रण्यं धनं विविदे लेभे (*vetradhārī cāsya dauvāriko 'trāsminyuddhe tayorasurayorhi-raṇyaṃ dhanaṃ vivide lebhe*). Here, for the word रंभी (*raṃbhī*), Sāyaṇa has given the meaning *vetradhārī*, that is, one holding a cane in his hand: Dabhiti's servant or doorkeeper. The main purport is that after Indra had defeated the Asuras Chumuri and Dhuni in the battle, Dabhiti's servant seized their wealth and so on on Dabhiti's behalf. *(The sentence is printed without its final verb, as supplied.)*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+*(The supplied text is garbled here: the verse appears twice, partly in Devanagari, with stray markup. The block gives the one reading, as supplied; two places differ from the Pada, दक्षिण against Pada दक्षिणा and विदधे against Pada विदथे, and are marked with a question mark in the block. Nothing was changed.)*
+
+> नू॒नं सा ते॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यदि॑न्द्र॒ दक्षि॑ण [?] म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दधे॑ [?] सु॒वीराः॑ ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे।सुवीराः॥
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: (begins) On the Mādhyandina pressings of the Ahargaṇa days the Acchāvāka's Sūkta; this Ṛk is recited at its end. The text breaks off at the foot of the page.*
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्वच्छावाकस्याहरहः तस्य-
+> संज्ञकमभितष्टैवेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
+> नूनं सा त अत्यंतमुत्तमं । आ. ७_४ । इति ॥
+
+> *ahargaṇeṣu mādhyaṃdinasavaneṣu tāyamānarūpeṣvacchāvākasyāharahaḥ tasya-*
+> *saṃjñakamabhitaṣṭaiveti sūktaṃ | nūnaṃ sā ta ityeṣā tasyāṃte śaṃsanīyā | sūtritaṃ ca |*
+> *nūnaṃ sā ta atyaṃtamuttamaṃ | ā. 7_4 | iti ‖*
+
 ---
 
-**Progress note:** Done through printed p. 769 (PDF 769). Sukta 15 Rk 7 complete (printed English with [sic]); Rk 8 begun, bhashya breaks off at foot of p. 769
+**Progress note:** Done through printed p. 772 (PDF 772). Done through printed p. 772 (PDF 772). Sukta 15 Rk 8 closed; Rk 9 complete; Rk 10 begun, bhashya breaks off at foot of p. 772. Rk 10 Samhita text garbled in supplied text, 2 places [?]
