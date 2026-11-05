@@ -399,6 +399,88 @@ That is: Bṛhaspati, who is like a father because he protects us, who is to be 
 > *varṣaṇārthaṃ vidāritavān ‖ dvai vidāraṇa ityasmādyajalugaṃtāllajyetadrūpaṃ ‖ tadanaṃtara-*
 > *macyutā acyutāni naiścalyena meghè 'vasthitānyudakāni prācyāvayat prakarṣeṇāgama-*
 
+### Printed p. 15
+
+*Running head: [A. 2 A. 6 V. 1.] Ṛgveda-saṃhitā, p. 15 (as supplied).*
+
+**Sāyaṇa-bhāṣya** (continued)
+
+> यत् । मेघान्निरगमयदित्यर्थः । तथा वसुमंतं गोरूपधनवंतं पर्वतं
+> वलनाम्नासुरेण बिलद्वारे विधानार्थं निहितं शिलोच्चयं आ च अभिमुख्येन चेत् ॥
+> चशब्दश्चेदर्थः । समुच्चयार्थत्वे तु चवायोगे प्रथमेति पूर्वस्याच्यावय-
+> दित्यस्याद्युदात्तत्वं स्यात् अस्य च सर्वानुदात्तत्वं । चेदर्थे तु निपातैर्यद्यदिहंतेति
+> निघातप्रतिषेधः सिध्यति ॥ व्यविशत् । विशेषेण प्रविशति । तदानीं तद्दोरूपं
+> धनं प्राप्नोदित्यर्थः ॥
+
+> *yat | meghānniragamayadityarthaḥ | tathā vasumaṃtaṃ gorūpadhanavaṃtaṃ parvataṃ*
+> *valanāmnāsureṇa biladvāre vidhānārthaṃ nihitaṃ śiloccayaṃ ā ca abhimukhyena cet ‖*
+> *caśabdaścedarthaḥ | samuccayārthatve tu cavāyoge prathameti pūrvasyācyāvaya-*
+> *dityasyādyudāttatvaṃ syāt asya ca sarvānudāttatvaṃ | cedarthe tu nipātairyadyadihaṃteti*
+> *nighātapratiṣedhaḥ sidhyati ‖ vyaviśat | viśeṣeṇa praviśati | tadānīṃ taddorūpaṃ*
+> *dhanaṃ prāpnodityarthaḥ ‖*
+
+Gist: the Ṛk's last part says that he came near the mountain holding the wealth in the form of cattle, which Vala had placed at the cave-mouth, and entered it, obtaining that wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*yaḥ brahmaṇaspatiḥ*—that same Brahmaṇaspati who; *ojasā*—by strength; *nantāni*—the asuras who deserved punishment; *ni anamat*—punished and made humble; *uta*—and; *manyunā*—in wrath; *śambarāṇi*—the clouds; *vi adardaḥ*—(for the sake of rain) split; *acyutā*—the waters that were without motion (in the cloud); *prācyāvayat*—made to flow; *vasumantaṃ*—holding wealth in the form of cattle; *parvataṃ*—the mountain; *ā ca*—and approached (facing it); *vi aviśat*—entered fully.
+
+**भावार्थ (Bhāvārtha)**
+
+The renowned Brahmaṇaspati punished by his strength the asuras who deserved punishment and made them humble. And in wrath he split the clouds and so helped the falling of rain. He made the waters, which stood motionless in the cloud, flow. He approached the mountain that holds wealth in the form of cattle and entered it.
+
+**Printed English**
+
+(You are) that Brahmanaspati who, by his might, has humbled those who deserved humiliation; who in his wrath rent the clouds asunder ; who sent down the undescending (waters) and made way into the mountain (cave), opulent (in cattle).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*yaḥ brahmaṇaspatiḥ nantvāni ojasā ni anamat* (as supplied)—ब्रह्मणस्पतिः नमनीयानि राक्षसादीनि बलेन नितरामनमयत् (*brahmaṇaspatiḥ namanīyāni rākṣasādīni balena nitarāmanamayat*) (Brahmaṇaspati made the demons and others, who were to be bent, bow down utterly by strength). That Brahmaṇaspati made the wicked or the asuras, who had to be restrained (because they were puffed up and intoxicated), walk bowed down by his own power; that is, he suppressed their ego and pride and made them subject to the rules of Bṛhaspati [sic as supplied: *bṛhaspati*]. Here the word *nantvāni* is formed from the root *ṇamu prahvatve* [sic as supplied] and is used in the sense "to be bent down", that is, "(people) to be punished". Since those who come under punishment are wicked doers of evil deeds, the commentator has given the word *nantvāni* the meaning "demons, asuras".
+
+### Printed p. 16
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 16.*
+
+उत मन्युना शंबराणि वि अदर्दः (*uta manyunā śaṃbarāṇi vi adardaḥ*)—स ब्रह्मणस्पतिः मन्युना क्रोधेन वा मेघान् वर्षणार्थं विदारितवान् (*sa brahmaṇaspatiḥ manyunā krodhena vā meghān varṣaṇārthaṃ vidāritavān*) (that Brahmaṇaspati split the clouds, by *manyu* or by anger, for the sake of rain). And that Brahmaṇaspati split the clouds for rain by his power of mantra or by anger. The idea is that he angrily split the clouds, which had held the waters back in themselves without raining, and made them rain.
+
+*manyunā*—For the word *manyu* Yāska gives the derivation मन्युर्मन्यतेर्दिप्तिकर्मणः क्रोधकर्मणो वधकर्मणो वा मन्यंत्यस्मादिषवः (*manyurmanyaterdiptikarmaṇaḥ krodhakarmaṇo vadhakarmaṇo vā manyaṃtyasmādiṣavaḥ*) (Ni. 10-29): that is, he says that the word *manyu*, formed from the root *manyati*, has the sense of illumining, of anger, or of slaying. He also says that *manyu* may be the name of a deity of that name, and in support of this cites the Ṛk—
+
+⟦ತ್ವಯಾ ಮನ್ಯೋ ಸರಥಮಾರುಜಂತೋ ಹರ್ಷಮಾಣಾಸೋ ಧೃಷಿತಾ ಮರುತ್ವಃ ।
+ತಿಗ್ಮೇಷವ ಆಯುಧಾ ಸಂಶಿಶಾನಾ ಅಭಿ ಪ್ರ ಯಂತು ನರೋ ಅಗ್ನಿರೂಪಾಃ ॥⟧
+(Pu. Saṃ. 10-84-1)
+
+The deity Manyu is praised in the 83rd and 84th sūktas of the 10th Maṇḍala.
+
+*śambarāṇi*—The word *śambara* is read among the names of the cloud (Ni. 2-21). For the word *śambara*, formed from the root *śamu upaśame*, the commentary says: शमयति नाशयति आसुरानिति शंबो वज्रः । शंबोऽस्य प्रहर्तृत्वेनास्ति । रो मत्त्वर्थीयः । प्रहरति हि वज्रः इंद्रप्रेरितो मेघान् (*śamayati nāśayati āsurāniti śaṃbo vajraḥ | śaṃbo 'sya prahartṛtvenāsti | ro mattvarthīyaḥ | praharati hi vajraḥ iṃdraprerito meghān*) (*śamba* is the thunderbolt, because it pacifies, that is destroys, the asuras; it is his as striker; the suffix *ra* is in the sense of possession; for the thunderbolt, impelled by Indra, strikes the clouds). Because it destroys asuras and others, Indra's thunderbolt is called *śamba*; since that thunderbolt, impelled by Indra, splits the clouds for rain, the cloud is called *śambara*. Or: यद्वा संपूर्वात् वृणोतेः इत्यपि संबरः सन् वर्णव्यतयेन शंबरः । संवियते मेघेनाकाशं इति शंबरः (*yadvā saṃpūrvāt vṛṇoteḥ ityapi saṃbaraḥ san varṇavyatayena śaṃbaraḥ | saṃviyate meghenākāśaṃ iti śaṃbaraḥ*) (or, from *vṛṇoti* with the prefix *saṃ*, it is *sambara*, and by interchange of letter *śambara*; the sky is covered by the cloud, hence *śambara*). That is, the word *sambara* may be formed from the root *vṛṇoti*, "to cover", with the prefix *saṃ*; by a change of letter *sambaraḥ* becomes *śambaraḥ*; since the sky is covered by the cloud, the cloud is called *śambara*. Or *śambara* may also mean water; the word *śambara* is also read among the 101 [as supplied] names of water (Ni. 2-24). Since such water is in this cloud, the cloud is called *śambara*.
+
+### Printed p. 17
+
+*Running head: [A. 2. A. 7. V. 1.] Ṛgveda-saṃhitā, p. 17 (as supplied).*
+
+अच्युता प्र अच्यवयत् (*acyutā pra acyavayat*)—तदनंतरमच्युता अच्युतानि नैश्चल्येन मेघेवस्थितान्युदकानि प्रकर्षणागमयत् । मेघान्निरगमयदित्यर्थः (*tadanaṃtaramacyutā acyutāni naiścalyena meghevasthitānyudakāni prakarṣaṇāgamayat | meghānniragamayadityarthaḥ*) (afterwards he made the unmoved waters, standing motionless in the cloud, come forth; the sense is that he made them come out of the clouds). He made all the waters, which were gathered motionless in the clouds, move; that is, he made them fall on the earth in the form of rain.
+
+वसुमंतं पर्वतं आ च वि अविशत् (*vasumaṃtaṃ parvataṃ ā ca vi aviśat*)—गोरूपधनवंतं पर्वतं वलनाम्मासुरेण द्वारे सिधानार्थं निहितं शिलोच्चयं अभिमुख्येन विशेषेण प्रविशति । तदानीं तद्दोरूपं धनं प्राप्नोदित्यर्थः (*gorūpadhanavaṃtaṃ parvataṃ valanāmmāsureṇa dvāre sidhānārthaṃ nihitaṃ śiloccayaṃ abhimukhyena viśeṣeṇa praviśati | tadānīṃ taddorūpaṃ dhanaṃ prāpnodityarthaḥ*) (as supplied; the readings *vala-nāmmāsureṇa* and *sidhānārtham* differ from the bhāṣya's own printing on p. 15). The asura named Vala stole the cows of the gods, hid them in a cave of the mountain, and, so that they should not escape, closed the mouth of that cave with a great rock. Brahmaṇaspati, by his power of mantra, found the mountain where the cows were hidden, removed the rock at the cave-mouth, went to the cows and freed them from bondage: this is the main idea. Moreover, since the word *parvata* also means cloud (Ni. 2-21), the words *vasumantaṃ parvataṃ* may also be given the meaning "the cloud holding wealth in the form of water". In that case the sentence may be understood: Brahmaṇaspati entered, by his power of mantra, the cloud full of waters and impelled it to pour down rain.
+
+*(A small stray image-description line appears in the supplied text here; it carries no text.)*
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> तद्दे॒वानां॑ दे॒वत॑नाय॒ कर्त्व॒मश्र॑थन्दृ॒ळ्हा व्र॑दंत वीळि॒ता ।
+> उद्गा आ॑ज॒दभि॑न॒द्ब्रह्म॑णा न॒लमगू॑ह॒त्तमो॒ व्य॑चक्षय॒त्स्वः॑ ॥ ३ ॥
+
+**॥ पदपाठः ॥**
+
+> तत् । देवानां । देवतमाय । कर्त्वं । अश्रथन् । दृळ्हा । अव्रदंतॆ । वीळिता ।
+> उत् । गाः । आजत् । अभिनत् । ब्रह्मणा । वलं । अगूहत् । तमः । वि । अचक्षयत् ।
+> स्व १ रिति स्वः ॥ ३ ॥
+
+> *tat | devānāṃ | devatamāya | kartvaṃ | aśrathan | dṛḷhā | avradaṃtè | vīḷitā |*
+> *ut | gāḥ | ājat | abhinat | brahmaṇā | valaṃ | agūhat | tamaḥ | vi | acakṣayat |*
+> *sva 1 riti svaḥ ‖ 3 ‖*
+> 2
+
 ---
 
-**Progress note:** Done through printed p. 14 (PDF 14). Sūkta 24: printed English of Ṛk 1, Special Topics on Ṛk 1 (pp. 12–14), Ṛk 2 Saṃhitā, Pada and start of bhāṣya (bhāṣya breaks off mid-sentence at end of p. 14). Doubt: ಮಹತ್ತೂರಿತವಾದ (p. 13) [?]; supplied-text oddities kept: 'ಮಕ್ಕಳಲ್ಲಿ' p. 12, 'ಬೃಹಸ್ಪತಿರ್ಹಂತ್ಯಮಿತ್ರಮರ್ಕೆಃ', 'ಪಶಯೋ'; Pada 'ಯೆಃ ನನ್ನ್ತಾನಿ' vs Saṃhitā; sources cite 'ಪು. ಸಂ.' as supplied. No hand fixes to kn.md.
+**Progress note:** Done through printed p. 17 (PDF 17). Sūkta 24 Ṛk 2 bhāṣya end, Pratipadārtha, Bhāvārtha, printed English, Special Topics (pp. 15–17); Ṛk 3 Saṃhitā and Pada. Flags: Saṃhitā/Pada of Ṛk 3 accent DIFF (unaccented, printed spelling differs from reference, see accent_report); supplied-text oddities kept: 'ನನ್ತಾನಿ'/'ನಂತ್ವಾನಿ', 'ಬೃಹಸ್ಪತಿ', 'ಣಮು ಪ್ರಹ್ವತ್ತೇ', 'ವಲನಾಮ್ಮಾ', 'ಸಿಧಾನಾರ್ಥಂ', stray image-description line on p. 17. No hand fixes to kn.md.
