@@ -35047,6 +35047,116 @@ Twashtri engendered you(chief) amongst all beings,(whence) you are the reciter o
 
 यद्वा कविः त्वष्टा साम्नः साम्नः त्वामजीजनत् (*yadvā kaviḥ tvaṣṭā sāmnaḥ sāmnaḥ tvāmajījanat*)—Sāyaṇa: क्रांतदर्शि त्वष्टा सर्वस्यापि साम्नः सारेण त्वामजीजवत् (*krāṃtadarśi tvaṣṭā sarvasyāpi sāmnaḥ sāreṇa tvāmajījavat*) (the supplied text has त्वामजीजवत् (*tvāmajījavat*), where the bhāṣya on p. 948 has त्वामजीजनत् (*tvāmajījanat*) [sic]). Or: the far-seeing god Tvaṣṭṛ made you out of the essence of all the Sāma-mantras. This is another manner of explaining the meaning.
 
+### Printed p. 950
+
+*(Header: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 3, Sū. 23, page 950, as supplied.)*
+
+**Special Topics** *(continued from p. 949; Ṛk 17)*
+
+साम्नः साम्नः कविः (*sāmnaḥ sāmnaḥ kaviḥ*)—Sāyaṇa: "Therefore you are the *kavi* of every Sāman. The root *ku* denotes sound; the suffix *i* is added by the rule 'ac iri' (as printed); so *kavi* means one who utters, the maker." Accordingly you are the utterer of all the Sāma-mantras and also their composer. The commentator thus says that the word कवि (*kavi*) is formed from the root कु (*ku*) and that कवि (*kavi*) therefore means one who utters a mantra.
+
+सः ब्रह्मणस्पतिः महः ऋतस्य धर्तरि ऋणचित् (*saḥ brahmaṇaspatiḥ mahaḥ ṛtasya dhartari ṛṇacit*)—Sāyaṇa: "That Brahmaṇaspati gathers, as it were, a debt owed to the worshipper who is the upholder of the great sacrifice; hence *ṛṇacit*." That Brahmaṇaspati is grateful (mindful of a benefit received) towards the sacrificer who is performing the great sacrifice. The sacrificer's sacrifice and praise directed to Brahmaṇaspati make Brahmaṇaspati his debtor, that is, one who feels he must return a favour for a favour. The sacrificer regards praising Brahmaṇaspati itself as a debt, and to discharge that debt Brahmaṇaspati gives the sacrificer wealth and the like. This is the purport.
+
+(सः) ऋणयाः (*(saḥ) ṛṇayāḥ*)—Sāyaṇa: "the one who removes (makes separate) the debt in the form of sin." That Brahmaṇaspati is the destroyer of the debt in the form of sin. Here "debt" means the fruit of action done earlier; if that action was bad it is sin. The purport is that Brahmaṇaspati destroys such sin.
+
+(सः) द्रुहः हंता (*(saḥ) druhaḥ haṃtā*)—Sāyaṇa: "the slayer of the Asura who is the hater of the sacrifice." That Bṛhaspati (so the supplied text, though the word under comment is Brahmaṇaspati) is the slayer of the Asura who practises treacherous action.
+
+#### Ṛk 18
+
+**॥ संहितापाठः ॥**
+
+> तव॑ श्रि॒ये व्य॑जिहीत॒ पर्व॑तो॒ गवां॑ गो॒त्रमु॒दसृ॑जो॒ यद॑ज्जिरः ।
+> इन्द्रे॑ण यु॒जा तम॑सा॒ परी॑वृतं॒ बृह॑स्पते॒ निर॒पामौ॑ब्बो अर्ण॒वं ॥ १८ ॥
+
+**॥ पदपाठः ॥**
+
+> तव । श्रिये । वि । अजिहीत । पर्वतः । गवां । गोत्रं । उत्असृजः । यत् ।
+> अज्गरः ।
+> इन्द्रेण । युजा । तमसा । परिवृतं । बृहस्पते । निः । अपां । औब्बः । अर्णवं ॥
+
+> *tava | śriye | vi | ajihīta | parvataḥ | gavāṃ | gotraṃ | utasṛjaḥ | yat |*
+> *ajgaraḥ |*
+> *indreṇa | yujā | tamasā | parivṛtaṃ | bṛhaspate | niḥ | apāṃ | aubbaḥ | arṇavaṃ ‖*
+
+*(Note: the Saṃhitā as supplied reads मौब्बो (*maubbo*) at the end of the second line, where the Pada and the bhāṣya have औब्बः (*aubbaḥ*); the Pada has अज्गरः (*ajgaraḥ*) for the Saṃhitā यदज्जिरः (*yadajjiraḥ*) (…ಅಜ್ಜಿರಃ), and उत्असृजः (*utasṛjaḥ*); all left as supplied.)*
+
+### Printed p. 951
+
+*(Header: [Aṣṭaka 2, Adhyāya 6, Varga 32] Ṛgveda-saṃhitā, page 951, as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> अंगिर आंगिरस हे बृहस्पते गवामावारको बलेनाधिष्ठितः पर्वतस्तव श्रिय
+> आश्रयणार्थं व्यजिहीत । विवृतद्वारतामगच्छत् । ततस्त्वं यद्यदा गोत्रं ॥ इनित्र-
+> कट्यचश्चेति समूहार्थे त्रप्रत्ययः॥ गवां समूहमुदसृजः। निरगमयः। तदेंद्रेण
+> युजा सहायेन युक्तस्त्वं तमसा वृत्रासुरेण परीवृतं परित आक्रांतमपाम-
+> र्णवं स्थानभूतं मेघं निरौब्बः । नितरामधोमुखमकार्षिः ॥
+
+*Gist: O Bṛhaspati, the cow-hiding mountain opened for your glory; when you released the herd of cows, you, with Indra's help, turned the cloud, enveloped by Vṛtra, upside down. The grammatical tail (suffix* tra *in* gotram*) is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+अंगिरः (*aṃgiraḥ*)—born in the line of Aṅgiras. बृहस्पते (*bṛhaspate*)—O Bṛhaspati. गवां (*gavāṃ*)—having cows (hidden by Vala). पर्वतः (*parvataḥ*)—the mountain. तव श्रिये (*tava śriye*)—for your resort (or for your glory). व्यजिहीत (*vyajihīta*)—gave up the path (opened a way) (afterwards). यत् (*yat*)—when. गोत्रं (*gotraṃ*)—the herd of cows. उदसृजः (*udasṛjaḥ*)—you released from bondage (then). इंद्रेण युजा (*iṃdreṇa yujā*)—joined with Indra. तमसा (*tamasā*)—by Vṛtra. परीवृतं (*parīvṛtaṃ*)—enveloped, and. आपां (*āpāṃ*)—for the waters. अर्णवं (*arṇavaṃ*)—the cloud that is their resort. निः औब्बः (*niḥ aubbaḥ*)—you made turn completely downward (made the stream of water flow downward).
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, born in the line of Aṅgiras, the mountain that held the cows hidden by Vala gave up the way for your glory. Afterwards, when you released the herd of cows from bondage, you, joined with Indra, made the cloud, which was enveloped by Vṛtra and was the resort of the waters, turn completely downward, so that the stream of water flows downward.
+
+**Printed English translation**
+
+When Brihaspati, descendant of Angiras, for your glory, Parvata had concealed the herd of cows, you set them free, and with your associate, Indra, sent down the ocean of water which had been enveloped by dark-ness [sic: line-end hyphen as printed].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अंगिर: (*aṃgira:*)—Since Bṛhaspati is well known as born in the line of Aṅgiras, he is addressed here by the very word अंगिरः (*aṃgiraḥ*).
+
+### Printed p. 952
+
+*(Header: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 3, Sū. 25 as supplied (the sūkta in hand is 23); page 952.)*
+
+गोत्रं (*gotraṃ*)—Sāyaṇa: "the herd of cows." The herd of cows. Although the word गोत्र (*gotra*) also means a cloud, here only a herd of cows is meant. Here गवां गोत्रं (*gavāṃ gotraṃ*) is a doubled expression (the same idea twice); such doubled usage is found in many places in the Ṛgveda.
+
+पर्वतः (*parvataḥ*)—The word पर्वत (*parvata*) is read among the names of cloud (Nir. 2-21) and among the names of mountain. Here पर्वत (*parvata*) means a hill. We have written the etymology of the word पर्वत (*parvata*) in Part 10, page 18; see there.
+
+#### Ṛk 19
+
+**॥ संहितापाठः ॥**
+
+> ब्रह्म॑णस्पते॒ त्वम॒स्य य॒न्ता सू॒क्तस्य॑ बोधि॒ तन॑यं च जिन्व ।
+> विश्वं॒ तद्भ॒द्रं यदव॑न्ति दे॒वा बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> ब्रह्मणः । पते । त्वं । अस्य । यन्ता । सुउक्तस्य । बोधि । तनयं । च । जिन्त ।
+> विश्वं । तत् । भद्रं । यत् । अवन्ति । देवाः । बृहत् । वदेम । विदथे । सुवीराः ॥ १९ ॥
+
+> *brahmaṇaḥ | pate | tvaṃ | asya | yantā | suuktasya | bodhi | tanayaṃ | ca | jinta |*
+> *viśvaṃ | tat | bhadraṃ | yat | avanti | devāḥ | bṛhat | vadema | vidathe | suvīrāḥ ‖ 19 ‖*
+
+*(Note: the Pada as supplied reads जिन्त (*jinta*) where the Saṃhitā has जिन्व (*jinva*), and सुउक्तस्य (*suuktasya*); left as supplied.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते ब्रह्मणां स्तोत्राणामधिपते अस्य जगतो यंता नियाम-
+> कस्त्वं सूक्तस्यास्मदीयमिदं ब्राह्मणस्पत्यं सूक्तं बोधि। बुध्यस्व त्वं। तनयं पुत्र-
+> पौत्रादिलक्षणं संतानं जिन्व ॥ जिविः प्रीणनार्थः । लोटि रूपं ॥ प्रीणय भवादृशा
+> देवा यदवंति रक्षंति तत्तादृशं विश्वं सर्वं भद्रं कल्याणं भवति । अतो वयं
+> विदथेऽस्मिन्यज्ञे सुवीराः शोभनपुत्रपौत्राः संतो बृहत्प्रभूतमिदं स्तोत्रं
+> वदेम । ब्रूयाम ॥
+
+> *he brahmaṇaspate brahmaṇāṃ stotrāṇāmadhipate asya jagato yaṃtā niyāma-*
+> *kastvaṃ sūktasyāsmadīyamidaṃ brāhmaṇaspatyaṃ sūktaṃ bodhi| budhyasva tvaṃ| tanayaṃ putra-*
+> *pautrādilakṣaṇaṃ saṃtānaṃ jinva ‖ jiviḥ prīṇanārthaḥ | loṭi rūpaṃ ‖ prīṇaya bhavādṛśā*
+> *devā yadavaṃti rakṣaṃti tattādṛśaṃ viśvaṃ sarvaṃ bhadraṃ kalyāṇaṃ bhavati | ato vayaṃ*
+> *vidathe 'sminyajñe suvīrāḥ śobhanaputrapautrāḥ saṃto bṛhatprabhūtamidaṃ stotraṃ*
+> *vadema | brūyāma ‖*
+
+*Gist: O Brahmaṇaspati, ruler of this world, attend to our hymn and please our offspring; whatever the gods protect is good, so, rich in sons, we shall speak a great hymn at this sacrifice. The grammatical tail (जिविः (*jiviḥ*) in the sense of pleasing, imperative form) is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+ब्रह्मणस्पते (*brahmaṇaspate*)—O Brahmaṇaspati. अस्य (*asya*)—of this world. यंता (*yaṃtā*)—the controller. त्वं (*tvaṃ*)—you. सूक्तस्य (*sūktasya*)—this hymn addressed to you. जोधि (*jodhi*) [sic: the Saṃhitā and bhāṣya have बोधि (*bodhi*)]—know. तनयं च (*tanayaṃ ca*)—and (our) offspring in the form of sons, grandsons and so on. जिन्व (*jinva*)—please. देवाः (*devāḥ*)—the gods like you. यदवंति (*yadavaṃti*)—whatever protection they grant. तत् विश्वं (*tat viśvaṃ*)—all those kinds of protection too. भद्रं (*bhadraṃ*)—are auspicious (therefore). विदथे (*vidathe*)—in this sacrifice. सुवीराः (*suvīrāḥ*)—we, possessing excellent sons, grandsons and so on. बृहत् (*bṛhat*)—abundant hymn. वदेम (*vadema*)—we shall speak (the supplied text has परिसुवॆवु (*parisuvèvu*), "we shall ...", a slip as supplied).
+
 ---
 
-**Progress note:** Done through printed p. 949 (PDF 949). Sukta 23 Rik 16 Special Topics (thief, Nirukta stena, Samaveda sama derivation) completed; Rik 17 Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English written; Rik 17 Special Topics begun (first two senses of tvashta); Samhita lines joined for accent matching
+**Progress note:** Done through printed p. 952 (PDF 952). Sukta 23 Rik 17 Special Topics completed; Riks 18 (Samhita, Pada, bhasya, Pratipadartha, Bhavartha, printed English, Special Topics) and 19 (Samhita, Pada, bhasya, Pratipadartha) written; Rik 18 Samhita lines joined for accent matching (supplied spellings yadajjirah, maubbo differ from reference); Rik 19 Bhavartha and printed English follow
