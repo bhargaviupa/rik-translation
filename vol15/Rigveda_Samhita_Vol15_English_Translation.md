@@ -5818,6 +5818,105 @@ Addressing this goddess by the words हे राके (*he rāke*), in या
 > *sinīvāli pṛthuṣṭuke yā devānāmasi svasā |*
 > *juṣasva havyamāhutaṃ prajāṃ devi didiḍḍi naḥ ‖ 6 ‖*
 
+### Printed p. 189
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 15, p. 189.*
+
+**॥ पदपाठः ॥**
+
+> सिनीवालि । पृथुस्तुके । या । देवानां । असि । स्वसा ।
+> जुषस्व । हव्यं । आहुतं । प्रजां । देवि । दिदिड्डि । नः ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> सिनिवाल्या यागे सिनीवालीत्यादिके द्वे याज्यानुवाक्ये । सूत्रं पूर्व-
+> मुदाहृतं ॥
+> दृष्टचंद्रामावास्या सिनीवाली । हे सिनीवालि पृथुष्टुके पृथुजघने पृथु-
+> संहते वा या त्वं देवानां स्वसासि स्वयंसंचारिणी भगिनी वा भवसि सा त्वमाहु-
+> तमाभिमुख्येनाग्नौ प्रक्षिप्तं हव्यमस्मदीयं हविर्जुषस्व । सेवस्व । किंच हे देवि
+> सिनीवालि नोऽस्माकं प्रजां पुत्रादिकां दिदिड्डि । उपचिनु अतिसर्जय वा । देही-
+> त्यर्थः ॥ दिह उपचये । लोट छांदसः शपः श्लुः । दिश अतिसर्जन इत्यस्माद्वा ॥
+
+> *sinivālyā yāge sinīvālītyādike dve yājyānuvākye | sūtraṃ pūrva-*
+> *mudāhṛtaṃ ‖*
+> *dṛṣṭacaṃdrāmāvāsyā sinīvālī | he sinīvāli pṛthuṣṭuke pṛthujaghane pṛthu-*
+> *saṃhate vā yā tvaṃ devānāṃ svasāsi svayaṃsaṃcāriṇī bhaginī vā bhavasi sā tvamāhu-*
+> *tamābhimukhyenāgnau prakṣiptaṃ havyamasmadīyaṃ havirjuṣasva | sevasva | kiṃca he devi*
+> *sinīvāli no 'smākaṃ prajāṃ putrādikāṃ didiḍḍi | upacinu atisarjaya vā | dehī-*
+> *tyarthaḥ ‖ diha upacaye | loṭa chāṃdasaḥ śapaḥ śluḥ | diśa atisarjana ityasmādvā ‖*
+
+*Gist:* The Sinīvālī sacrifice uses this and the next Ṛk as yājyā and anuvākyā (the sūtra was cited earlier). Sinīvālī is the new-moon day on which the moon is seen as a thin sliver; O broad-hipped one, sister of the gods, enjoy our oblation and give us offspring. The tail explains *didiḍḍi* (from दिह (*diha*) or दिश (*diśa*)).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पृथुष्टुके (*pṛthuṣṭuke*)—having broad hips. सिनीवालि (*sinīvāli*)—O goddess Sinīvālī. या (*yā*)—you who. देवानां (*devānāṃ*)—of the gods. स्वसा असि (*svasā asi*)—are the sister; such a you. आहुतं (*āhutaṃ*)—offered (into the fire). हव्यं (*havyaṃ*)—the oblation. जुषस्व (*juṣasva*)—partake of. देवि (*devi*)—O goddess. नः (*naḥ*)—to us. प्रजां (*prajāṃ*)—sons and the like. दिदिड्डि (*didiḍḍi*)—give. (The printed text has "ಎಲೆಲ ದೇವಿಯೇ" for "O goddess"; read as an evident slip for "ಎಲೈ", as printed.)
+
+**भावार्थ (Bhāvārtha)**
+
+O goddess Sinīvālī, of broad hips, you who are the sister of the gods, such a you, partake of the oblation we have offered in the fire. O goddess, give us sons and the like.
+
+**Printed English translation**
+
+Wide-hipped Sinivali, who are the sister of the gods, accept the offered oblation, and grant us, goddess, progeny.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+It has been said earlier (Āśvalāyana-śrauta-sūtra, as printed "ಆ. ೫-೨೦") that in the Sinīvālī sacrifice this Ṛk beginning सिनीवालि (*sinīvāli*) and the next Ṛk beginning या सुबाहुः (*yā subāhuḥ*) are to be used as the yājyā and the purorucā/anuvākyā mantras.
+
+
+### Printed p. 190
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Adhyāya 3, Sūkta 32, p. 190.*
+
+The new-moon day (amāvāsyā) is of two kinds. Of these, the new-moon day on which the moon is seen as a mere sliver is known as Sinīvālī. This very sense is explained by the words "dṛṣṭacandrā amāvāsyā sinīvālī". The deity presiding over this new-moon day is addressed by the word हे सिनीवालि (*he sinīvāli*). She is described as पृथुष्टके (*pṛthuṣṭake*) [sic, as printed]—"pṛthujaghane pṛthusaṃhate vā", having a stout lower belly, or a strong bodily frame; and as देवानां स्वसा आसि (*devānāṃ svasā āsi*)—"svayaṃsaṃcāriṇī bhaginī vā bhavasi", one who moves about at her own will, or the sister of the gods. The Ṛk further wishes that she partake of the oblation offered into the fire ("āhutaṃ haviḥ juṣasva") by the sacrificers in her name; and it prays नः प्रजां दिदिड्डि (*naḥ prajāṃ didiḍḍi*) that this goddess increase or bestow sons and the like upon us sacrificers who offer shares of oblation in the sacrifices.
+
+If on the day of new moon the moon is seen by itself as a mere sliver, that new-moon day is called by the name Sinīvālī; hence the explanation "dṛṣṭacandrā amāvāsyā sīnivālī" is given here. Yāska says: सिनीवाली कुहूरिति देव पत्न्याविति नैरुक्ताः । अमावास्या इति याज्ञिकाः । या पूर्वा अमावास्या सा सीनीवाली, या उत्तरा सा कुहूरिति विज्ञायते (*sinīvālī kuhūriti deva patnyāviti nairuktāḥ | amāvāsyā iti yājñikāḥ | yā pūrvā amāvāsyā sā sīnīvālī, yā uttarā sā kuhūriti vijñāyate*) (words as printed). That is: the Nairuktas hold that the two goddesses named Sīnīvālī and Kuhū are wives of gods; the ritualists hold that the time called amāvāsyā is of two kinds, Sīnīvālī and Kuhū (the earlier new-moon day is Sīnīvālī, the later is known as Kuhū). Having set out the two views, the commentator cites the Taittirīya Brāhmaṇa passage that teaches this.
+
+Further: सिनीवाली सिनमन्नं भवति सिनाति भूतानि वालं पर्व वृणोतेः तस्मिन्नन्नवती वालिनी वा, वालेनेवास्यामणुत्वाच्चंद्रमाः सेवितव्यो भवति इति वा (*sinīvālī sinamannaṃ bhavati sināti bhūtāni vālaṃ parva vṛṇoteḥ tasminnannavatī vālinī vā, vālenevāsyāmaṇutvāccaṃdramāḥ sevitavyo bhavati iti vā*) (Nirukta 11-32, as printed). *Sina* means food, which binds (nourishes) living beings and makes them possessed of food; since the gods desire oblations at the parva (junction) time, Sinīvālī is she who is filled with food—one kind of meaning. Secondly, the word *vāla* is used in the sense of *bāla* (a young boy): she is filled with oblations dear to the gods, or is served by the moon, which is minute in form, like a *vāla* (hair). 
+
+Also, citing this very mantra, he explains: सिनीवाली पृथुजघने, स्तुकः स्त्यायतेः संघातः । पृथुकेशस्तुते पृथुष्टुते वा । या त्वं देवानामसि स्वसा । स्वसा सु असा । स्नेषु सीदतीति वा । जुषस्व हव्यमदनं प्रजां च देवि दितुनः (*sinīvālī pṛthujaghane, stukaḥ styāyateḥ saṃghātaḥ | pṛthukeśastute pṛthuṣṭute vā | yā tvaṃ devānāmasi svasā | svasā su asā | sneṣu sīdatīti vā | juṣasva havyamadanaṃ prajāṃ ca devi ditunaḥ*) (Nirukta 11-34, as printed), and gives the meaning thus.
+
+
+### Printed p. 191
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 15, p. 191.*
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> या सु॑बा॒हुः स्वं॑गु॒रिः सु॒षूमा॑ बहु॒सूव॑री ।
+> तस्यै॑ वि॒श्वत्नै॑ ह॒विः सि॑नीवा॒लै जु॑होतन ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> या । सुबाहुः । सुअंगुरिः । सुसूमा । बहुसूवरी ।
+> तस्यै । विश्वत्स्थलि । हविः । सिनीवालैलि । जुहोतन ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> या सिनीवाली सुबाहुः शोभनबाहुः स्वंगुरिः शोभनांगुलिः सुषूमा
+> सुष्टु प्रसवित्री ॥ षूज् प्राणिप्रसवे । अन्येभोऽपि दृश्यंत इति मनिन् । कृदुत्तर
+> पदप्रकृतिस्वरत्वं ॥ बहुसूवरी बह्नीनां प्रजानां सवित्री ॥ तेनैव सूत्रेण क्वनिप्स्
+> वनो र चेति जीब्रेफौ । कृदुत्तरपदप्रकृतिस्वरत्वं ॥ तस्यॆ सीनीवालै विश्वत्न्यै ।
+> विशां पालयित्र्यै ॥ विभाषा सपूर्वस्येति पत्युर्नकारांतादेशः । आयस्मयादित्वेन
+> भत्वाद्विसो जश्वाभावः । परादिश्चंदसि बहुलमित्युत्तरपदाद्युदात्तत्वं ॥ हे
+> ऋत्विग्यजमाना हविर्जुहोतन । जुहुत ॥ तप्तनप्तनथनाश्चेति तनबादेशः ॥
+
+*Gist:* Sinīvālī has beautiful arms and fingers, bears children well and is mother of many, and protects the people; priests and sacrificers, offer the oblation to her. The tail explains *suṣūmā*, *bahusūvarī*, *viśvatnyai* and *juhotana*.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+या (*yā*)—she who. सुबाहुः (*subāhuḥ*)—having excellent arms. स्वंगुरिः (*svaṃguriḥ*)—having excellent fingers. सुषूमा (*suṣūmā*)—having borne excellent sons. बहुसूवरी (*bahusūvarī*)—having many sons. तस्यै (*tasyai*)—to such a one. विश्वत्नै (*viśvatnai*)—the protectress of the people. सिनीवाल्यै (*sinīvālyai*)—to the goddess Sinīvālī. हविः (*haviḥ*)—oblation. जुहोतन (*juhotana*)—offer.
+
+**भावार्थ (Bhāvārtha)**
+
+O sacrificers, to that goddess Sinīvālī who has excellent arms, excellent fingers, excellent sons and many sons, offer the oblation.
+
+**Printed English translation**
+
+Offer the oblation to that Sinivali, the protectress of mankind, who has beautiful fingers, who is the parent of many children, and who had numerous childrn [sic].
+
 ---
 
-**Progress note:** Done through printed p. 188 (PDF 188). Sūkta 32 Ṛk 4 printed English and Special Topics finished; Ṛk 5 (Rākā) complete; Ṛk 6 (Sinīvālī) Saṃhitā only (continues p. 189). kn.md: stray 'This image…' line and ॥ śrīrāmacandrāya namaḥ ॥ line removed, Ṛk 6 Saṃhitā given label/block; Pratipadārtha Ṛk 5 starts at p. 187 end; accent DIFF 1 (Ṛk 6)
+**Progress note:** Done through printed p. 191 (PDF 191). Sūkta 32 Ṛk 6 (Sinīvālī) complete with Special Topics; Ṛk 7 complete (p. 191); kn.md: Pratipadārtha split out of bhāṣya block, stray digit line removed; accent DIFF 1 (Ṛk 6 Saṃhitā)
