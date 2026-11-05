@@ -21782,6 +21782,77 @@ The Ṛks of this sūkta are in the Triṣṭubh metre, and this sūkta has ten 
 
 *[The window ends here, at the end of p. 700, with this Śruti sentence on the third pressing; the next window continues.]*
 
+### Printed p. 701
+
+*[Running head, p. 701: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+At the third pressing the sūkta इहोप यात शवसो नपातः (*ihopa yāta śavaso napātaḥ*) (Ṛ. Saṃ. 4-35-1) is to be recited as the Unnīyamāna sūkta.
+
+The Unnīyamāna sūkta to be recited at the third pressing:
+
+⟦ಇಹೋಪ ಯಾತ ಶವಸೋ ನಪಾತಃ ಸೌಧನ್ವನಾ ಋಭವೋ ಮಾಪ ಭೂತ ।
+ಅಸ್ಮಿನ್ ಹಿ ವಃ ಸವನೇ ರತ್ನಧೇಯಂ ಗಮಂತ್ವಿಂದ್ರಮನು ವೋ ಮದಾಸಃ ॥ ೧ ॥
+ಆಗನ್ನಭೂಣಾಮಿಹ ರತ್ನ ಧೇಯಮಭೂತ್ಸೋಮಸ್ಯ ಸುಷುತಸ್ಯ ಪ್ರೀತಿಃ ।
+ಸುಕೃತ್ಯಯಾ ಯತ್ಸ್ವಪಸ್ಯಯಾ ಚ ಏಕಂ ವಿಚಕ್ರ ಚಮಸಂ ಚತುರ್ಧಾ ॥ ೨ ॥
+ವ್ಯಕೃಣೋತ ಚಮಸಂ ಚತುರ್ಧಾ ಸಖೇ ವಿ ಶಿಕ್ಷೇತ್ಯಬ್ರವೀತ ।
+ಅಭೈತ ವಾಜಾ ಅಮೃತಸ್ಯ ಪಂಥಾಂ ಗಣಂ ದೇವಾನಾಮೃಭವಃ ಸುಹಸ್ತಾಃ ॥ ೩ ॥
+ಕಿಂಮಯಃ ಸ್ವಿಚ್ಚಮಸ ಏಷ ಆಸ ಯಂ ಕಾವ್ಯನ ಚತುರೋ ವಿಚಕ್ರ ।
+ಆಥಾ ಸುನುಧ್ವಂ ಸವನಂ ಮದಾಯ ಪಾತ ಋಭವೋ ಮಧುನಃ ಸೋಮ್ಯಸ್ಯ ॥ ೪ ॥
+ಶಚ್ಯಾಕರ್ತ ಪಿತರಾ ಯುವಾನಾ ಶಚ್ಯಾಕರ್ತ ಚಮಸಂ ದೇವಪಾನಂ ।
+ಶಚ್ಯಾ ಹರೀ ಧನುತರಾವತಷ್ಟೇಂದ್ರವಾಹಾವೃಭವೋ ವಾಜರತ್ನಾಃ ॥ ೫ ॥
+ಯೋ ವಃ ಸುನೋತ್ಯಭಿಪಿತ್ವೇ ಅಹ್ನಾಂ ತೀವ್ರಂ ವಾಜಾಸಃ ಸವನಂ ಮದಾಯ ।
+ತಸ್ಮೈ ರಯಿಮೃಭವಃ ಸರ್ವವೀರಮಾ ತಕ್ಷತ ವೃಷಣೋ ಮಂದಸಾನಾಃ ॥ ೬ ॥
+ಪ್ರಾತಃ ಸುತಮಪಿಬೋ ಹರ್ಯಶ್ಚ ಮಾಧ್ಯಂದಿನಂ ಸವನಂ ಕೇವಲಂ ತೇ ।
+ಸಮೃಭುಭಿಃ ಪಿಬಸ್ವ ರತ್ನಧೇಭಿಃ ಸಖೀರ್ಯಾ ಇಂದ್ರ ಚಕೃಷೇ ಸುಕೃತ್ಯಾ ॥ ೭ ॥
+ಯೇ ದೇವಾಸೋ ಅಭವತಾ ಸುಕೃತ್ಯಾ ಶ್ಯೀನಾ ಇವೇದಧಿ ದಿವಿ ನಿಷೇದ ।
+ತೇ ರತ್ನಂ ಧಾತ ಶವಸೋ ನಪಾತಃ ಸೌಧನ್ವನಾ ಅಭವತಾಮೃತಾಸಃ ॥ ೮ ॥
+ಯತ್ತೃತೀಯಂ ಸವನಂ ರತ್ನಧೇಯಮಕೃಣುಧ್ವಂ ಸ್ವಪಸ್ಯಾ ಸುಹಸ್ತಾಃ ।
+ತದೃಭವಃ ಪರಿಷಿಕ್ತಂ ವ ಏತತ್ಸಂ ಮದೇಭಿರಿಂದ್ರಿಯೇಭಿಃ ಪಿಬಧ್ವಂ. ॥ ೯ ॥⟧
+(Ṛ. Saṃ. 4-35-1 to 9)
+
+This sūkta too, like the sūkta recited at the morning pressing, has nine Ṛks. All these Ṛks should be in the Jagatī metre. (But it is not so; they are in the Triṣṭubh metre, as the text says in brackets.) If the nine Ṛks of this third pressing are compared with the ten Ṛks of the sūkta of the midday pressing, a deficiency of one Ṛk is seen here too, that is, there is one less. It is well known in the world that offspring (children) born from a small, that is, narrow, birth-passage grow up to be full-grown (big)
+
+### Printed p. 702
+
+*[Running head, p. 702: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no period after 3, as printed), A. 1, Sū. 4.]*
+
+so that a deficiency of mantras is fitting for the sake of producing the embryo. There is also a Taittirīya Śruti sentence न्यूनाद्धि प्रजाः प्रजायंते (*nyūnāddhi prajāḥ prajāyaṃte*), "from the deficient, indeed, offspring are born".
+
+⟦ತದ್ಯದೇತಾನಿ ಕೇವಲಸೂಕ್ತಾನ್ಯನ್ನಾಹ ಯಜಮಾನಮೇವ ತದ್ಗರ್ಭಂ ಭೂತಂ ಪ್ರಜನಯತಿ
+ಯಜ್ಞಾದೇವಯೋನ್ಯೈ ।⟧
+
+There are differences of opinion about the manner of reciting these Unnīyamāna sūktas. Namely, one opinion is that all the Ṛks in these sūktas must be recited. Another opinion is that, since the seven priests take the main part in these pressings, only seven Ṛks in all, one for each priest, must be recited in each sūkta. Of these two opinions, the procedure that enjoins the recitation of the complete sūkta is the proper one. For it is well known that the sacrificer, who holds the complete form of the embryo, is produced through the divine womb of the form of the sacrifice; that is, by the recitation of the complete sūkta the rite is performed with all its parts and the sacrificer obtains the complete fruit of the sacrifice; this is the meaning. Therefore the procedure of reciting the complete sūkta is the proper one.
+
+⟦ತೇ ಹೈಕೇ ಸಪ್ತ ಸಪ್ತಾನ್ವಾಹುಃ ಸಪ್ತ ಪ್ರಾತಃಸವನೇ ಸಪ್ತ ಮಾಧ್ಯಂದಿನೇ ಸವನೇ ಸಪ್ತ
+ತೃತೀಯಸವನೇ ಯಾವತ್ಯೋ ವೈ ಪುರೋನುವಾಕ್ಯಾಸ್ತಾವತ್ಯೋ ಯಾಜ್ಯಾಃ ಸಪ್ತ ವೈ
+ಪ್ರಾಂಚೋ ಯಜಂತಿ ಸಪ್ತ ವಷಟ್ಕುರ್ವಂತಿ ತಾಸಾಮೇತಾ ಪುರೋಽನುವಾಕ್ಯಾ
+ಇತಿ ವದಂತಃ ।⟧
+
+Having described the first difference of opinion, they now state the nature of the second. As is the order in sacrifices and the like, in all three pressings beginning with the morning pressing, seven priests take part: Hotṛ, Maitrāvaruṇa, Brāhmaṇācchaṃsin, Neṣṭṛ, Potṛ, Āgnīdhra and Acchāvāka (as printed). The yājyā mantras (offering mantras) recited, one each, by each of them, make seven in all. Ordinarily, before reciting each yājyā mantra (the mantra for making the offering), a mantra called puroanuvākyā must be recited in order to invite the gods. Therefore it follows that there must be as many puroanuvākyā mantras as there are yājyā mantras. Since in each pressing, beginning with the morning pressing, the seven priests recite only seven yājyā mantras, if the Ṛks of this Unnīyamāna sūkta, recited before them, are taken to be the puroanuvākyā mantras, then, corresponding to the seven yājyā mantras, only seven Ṛks of this sūkta need be recited for the puroanuvākyā mantras. The procedure of saying only seven Ṛks of each of the 9, 10 and 9 Ṛks of the three Unnīyamāna sūktas, without reciting them in full, is the second difference of opinion. It will be explained here clearly that this second opinion is not correct.
+
+### Printed p. 703
+
+*[Running head, p. 703: Ā. (printed so for A.) 2, Ā. 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+⟦ತತ್ತಥಾ ನ ಕುರ್ಯಾದ್ಯಜಮಾನಸ್ಯ ಹ ತೇ ರೇತೋ ವಿಲುಂಪಂತ್ಯಥೋ ಯಜಮಾನಮೇವ
+ಯಜಮಾನೋ ಹಿ ಸೂಕ್ತಂ ।⟧
+
+Of the two procedures stated before, the second, of reciting only seven Ṛks of each sūkta, must on no account be followed. For if the complete sūkta is not recited, the sacrificer's power of producing offspring, that is, his semen, is destroyed. Besides, destruction also occurs to the sacrificer. Since the sūkta is of the form of the sacrificer, if the complete sūkta is not recited, harm indeed comes to the sacrificer from that.
+
+⟦ನವಭಿರ್ವಾ ಏತಂ ಮೈತ್ರಾವರುಣೋಽಸ್ಮಾಲ್ಲೋಕಾದಂತರಿಕ್ಷಲೋಕಮಭಿಪ್ರವಹತಿ ದಶಭಿರಂತರಿಕ್ಷಲೋಕಾದಮುಂ ಲೋಕಮಭ್ಯಂತರಿಕ್ಷಲೋಕೋ ಹಿ ಜ್ಯೇಷ್ಠೋ ನವಭಿರಮುಷ್ಮಾಲ್ಲೋಕಾತ್ಸ್ವರ್ಗಂ ಲೋಕಮಭಿ ನ ಹ ವೈ ತೇ ಯಜಮಾನಂ ಸ್ವರ್ಗಂ ಲೋಕಮಭಿ
+ವೋಳ್ಹುಮರ್ಹಂತಿ ಯೇ ಸಪ್ತ ಸಪ್ತಾನ್ವಾಹುಸ್ತಸ್ಮಾತ್ಕೇವಲಶ ಏವ ಸೂಕ್ತಾನ್ಯನುಬ್ರೂಯಾತ್ ॥⟧ (printed ಐ. ब्रा (*brā*). 28-9)
+
+Having shown the fault in the second procedure, they praise the merits of the first. The Unnīyamāna sūkta of nine Ṛks recited at the morning pressing carries the sacrificer who performs the sacrifice from the world of the earth to the world of the atmosphere. Thereafter the Unnīyamāna sūkta of ten Ṛks recited at the midday pressing carries the sacrificer from the atmospheric world to the world called Nākapṛṣṭha, the lower part of heaven. This Nākapṛṣṭha is very extensive and excellent, in the upper part of the atmosphere. Having reached this excellent world by the recitation of the Unnīyamāna sūkta of ten Ṛks, the sacrificer, by the Unnīyamāna sūkta of nine Ṛks recited at the third pressing, leaves Nākapṛṣṭha and goes straight to the world of heaven. The second procedure stated before, that is, the procedure of reciting seven Ṛks of the Unnīyamāna sūktas, is unable, because of the deficiency in the number of Ṛks, to carry the sacrificer to heaven; that is, if the second procedure is followed, the sacrificer does not reach heaven. Therefore, so that the sacrificer may reach heaven, the Unnīyamāna sūktas must be recited in full at the pressings.
+
+Here ends the procedure of reciting the Unnīyamāna sūktas.
+
+An account of the mantras to be recited by the seven hotṛs at the morning pressing:
+
+⟦ಅಥಾಹ ಯದೈಂದ್ರೋ ವೈ ಯಜ್ಞೋSಥ ಕಸ್ಮಾದ್ವಾವೇವ ಪ್ರಾತಃಸವನೇ ಪ್ರಸ್ಥಿತಾನಾಂ
+ಪ್ರತ್ಯಕ್ಷಾದ್ಯಂದ್ರೀಭ್ಯಾಂ ಯಜತೋ ಹೋತಾ ಚೈವ ಬ್ರಾಹ್ಮಣಾಚ್ಛಂಸೀ ಚೇದಂ ತೇ⟧
+
+*[The window ends here, at the end of p. 703, in the middle of this Sanskrit sentence, which breaks off at its last words as supplied; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 700 (PDF 700). Sūkta 4 Ṛk 5 Special Topics (Unnīyamāna sūktas: 1-16 Ṛks 6-9, rūpasamṛddha; midday sūkta 7-21)
+**Progress note:** Done through printed p. 703 (PDF 703). Sūkta 4 Ṛk 5 Special Topics (third-pressing Unnīyamāna sūkta 4-35; the two opinions on reciting them; Ai. Brā. 28-9; seven-hotṛ mantras begun)
