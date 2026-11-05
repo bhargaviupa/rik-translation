@@ -705,6 +705,125 @@ Let us, through your favour, overwhelm all our foes, like torrents of water.
 
 धारा उदन्या इव (*dhārā udanyā iva*) — Rivers flowing deep and swift with abundant water cannot easily be crossed by people. But a small stream with only a little water, flowing gently, people pass over without effort. Likewise, the prayer is expressed here that we may defeat our enemies without effort.
 
+### Printed p. 522
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 7, p. 522.*
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> शुचिः॑ पावक॒ वंद्योऽग्ने॑ बृ॒हद्वि रो॑चसे ।
+> त्वं घृ॒तेभि॒राहु॑तः ॥ ४ ॥
+
+> *śuciḥ pāvaka vaṃdyo 'gne bṛhadvi rocase |*
+> *tvaṃ ghṛtebhirāhutaḥ ‖ 4 ‖*
+
+**॥ पदपाठः ॥**
+
+> शुचिः । पावक । वंद्यः । अग्ने । बृहत् । वि । रोचसे ।
+> त्वं । धृतेभिः । आहुतः ॥ ४ ॥
+
+> *śuciḥ | pāvaka | vaṃdyaḥ | agne | bṛhat | vi | rocase |*
+> *tvaṃ | dhṛtebhiḥ | āhutaḥ ‖ 4 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे पावक शोधकाग्ने शुचिः शुद्धो वंद्यो नमस्कार्यः सन् बृहत् महत्
+> अत्यधिकं विरोचसे । विविधं दीप्यसे । यतस्त्वं घृतेभिर्घृतैराहुतः । समंता-
+> सिक्तः । अतो विरोचसे ॥
+
+*Gist:* O purifying Agni, being pure and worthy of homage you shine widely, since you are sprinkled all round with ghee.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+पावक (*pāvaka*) — purifier; अग्ने (*agne*) — O Agni; शुचिः (*śuciḥ*) — pure; वंद्यः (*vaṃdyaḥ*) — worthy of homage; त्वं (*tvaṃ*) — you; धृतेभिः (*dhṛtebhiḥ*) — with offerings of ghee; आहुतः (*āhutaḥ*) — sprinkled; बृहत् (*bṛhat*) — exceedingly; वि रोचसे (*vi rocase*) — you shine in many ways.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, purifier, pure and worthy of homage, you are sprinkled with offerings of ghee and shine exceedingly and in many ways.
+
+**Printed English translation**
+
+Purifier, Agni, holy, adorable, you shine exceedingly when(you are) worshipped with(oblations of) butter.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पावक (*pāvaka*), शुचिः (*śuciḥ*), वंद्य (*vaṃdya*) — Many substances are purified by being burnt in fire. By heating water, all the impurities in it are destroyed and it becomes fit for drinking. Likewise things or places infested with insects, germs and the like can be purified by fire. Because many such purifying works are accomplished by fire, Agni is called पावक (*pāvaka*) — (the passage breaks off at the page end with "पावक (*pāvaka*)-"; it continues on p. 523)
+
+### Printed p. 523
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 28, Ṛgveda-saṃhitā, p. 523.*
+
+(Continuation of the Special Topics of Ṛk 4:) ... the purifier; शुचिः (*śuciḥ*) — one who is pure by himself; वंद्यः (*vaṃdyaḥ*) — therefore worthy of homage: Agni is praised with these epithets.
+
+अग्ने बृहत् विरोचसे त्वं धृतेभिः आहुतः (*agne bṛhat virocase tvaṃ dhṛtebhiḥ āhutaḥ*) — The meaning of this sentence is plain. When ghee, samidh, havis, firewood and the like are put into the fire and offered, the flames of Agni grow by the ghee-oblation (offering clarified butter) and shine with great brilliance. Therefore, O Agni, you are praised as blazing greatly through the ghee-oblation.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> त्वं नो॑ असि भार॒ताग्ने॑ व॒शाभि॑रु॒क्षभिः॑ ।
+> अ॒ष्टाप॑दीभि॒राहु॑तः ॥ ५ ॥
+
+> *tvaṃ no asi bhāratāgne vaśābhirukṣabhiḥ |*
+> *aṣṭāpadībhirāhutaḥ ‖ 5 ‖*
+
+**॥ पदपाठः ॥**
+
+> त्वं । नः । असि । भारत । अग्ने । वशाभिः । उक्ष्षभिः ।
+> अष्टापदीभिः । आहुतः ॥ ५ ॥
+
+> *tvaṃ | naḥ | asi | bhārata | agne | vaśābhiḥ | ukṣṣabhiḥ |*
+> *aṣṭāpadībhiḥ | āhutaḥ ‖ 5 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे भारत ऋत्विजां पुत्रस्थानीयाग्ने नोऽस्मदीयस्त्वं वशाभिर्वंध्याभि-
+> र्गोभिः उक्षभिः सेक्तृभिर्बलीवर्दैः अष्टापदीभिर्गर्भिणीभिश्चाहुत आराधितोऽसि ॥
+
+*Gist:* O Agni, son-like to the priests, you are worshipped by us with barren cows, bulls and pregnant cows.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+भारत (*bhārata*) — one who is like a son to the priests; अग्ने (*agne*) — O Agni; नः (*naḥ*) — related to us; त्वं (*tvaṃ*) — you; वशाभिः (*vaśābhiḥ*) — with barren cows; उक्षभिः (*ukṣabhiḥ*) — with bulls; अष्टापदीभिः (*aṣṭāpadībhiḥ*) — with pregnant animals; आहुतः असि (*āhutaḥ asi*) — you are worshipped (by offering these).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, who are like a son to the priests, you who are related to us are worshipped with barren cows, bulls and pregnant animals, that is, by offering these as oblations.
+
+### Printed p. 524
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 7, p. 524.*
+
+**Printed English translation**
+
+Agni, descendant of Bharata, you are entirely ours. when sacrificed to with pregnant cows, with barren cows, or bulls.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+भारत (*bhārata*) — The word भारत (*bhārata*) is read among the names of priests (Ni. 3-19). Here the commentator explains the word भारत (*bhārata*) as ऋत्विजां पुत्रस्थानीय (*ṛtvijāṃ putrasthānīya*), "O Agni, who are like a son to the priests". At the beginning of the sacrifice the priests produce Agni by churning in the fire-sticks (araṇi), so it is proper to say that Agni stands in the place of a son to the priests.
+
+वशाभिः उक्षभिः अष्टापदीभिः आहुतः (*vaśābhiḥ ukṣabhiḥ aṣṭāpadībhiḥ āhutaḥ*) — वशाभिर्वंध्याभिर्गोभिः उक्षभिः सेक्तृभि-र्बलिवर्द्यैः अष्टापदीभिर्गर्भिणीभिश्चाहुतः (*vaśābhirvaṃdhyābhirgobhiḥ ukṣabhiḥ sektṛbhi-rbalivardyaiḥ aṣṭāpadībhirgarbhiṇībhiścāhutaḥ*). Sāyaṇa explains: O Agni, you are worshipped by the barren cows we offer you, by bulls capable of impregnating, and by cows with young. Although animals are of these three kinds, the offering of cows as oblations into the fire is nowhere found. Or the words वशाभिः (*vaśābhiḥ*) and the rest need not mean cows; other animals fit for sacrifice, such as goats, must be what is meant here. The word अष्टापदीभिः (*aṣṭāpadībhiḥ*) means an animal with eight feet: the four natural feet of a pregnant animal and the four feet of the calf in the womb together make eight. Therefore the word अष्टापडीभिः (*aṣṭāpaḍībhiḥ*) (as printed; the earlier form has अष्टापदीभिः (*aṣṭāpadībhiḥ*)) is used to designate a female animal with young.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> द्र्व॑न्नः स॒र्पिरा॑सुतिः प्र॒त्नो होता॒ वरे॑ण्यः ।
+> सह॑सस्पु॒त्रो अद्भु॑तः ॥ ६ ॥
+
+> *drvannaḥ sarpirāsutiḥ pratno hotā vareṇyaḥ |*
+> *sahasasputro adbhutaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> द्रुऽन्नः । सर्पिऽआसुतिः । प्रत्नः । होता । वरेण्यः ।
+> सहसः । पुत्रः । अद्भुतः ॥ ६ ॥
+
+> *dru 'nnaḥ | sarpi 'āsutiḥ | pratnaḥ | hotā | vareṇyaḥ |*
+> *sahasaḥ | putraḥ | adbhutaḥ ‖ 6 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 521 (PDF 521). Sukta 7 Rk 1 end, Rk 2, Rk 3; Rk 3 Pada label restored in kn.md; Rk 2 Pada reads bevasya
+**Progress note:** Done through printed p. 524 (PDF 524). Sukta 7 Rk 4-5 complete, Rk 6 Samhita and Pada; labels and blocks of Rk 4, 5, 6 repaired in kn.md
