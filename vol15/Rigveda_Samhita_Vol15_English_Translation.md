@@ -6288,6 +6288,89 @@ to that malevolent disposition (that purposes our destruction).
 
 This Rudra is ऋदूदरः सुहवः बभ्रुः सुशिप्रः (*ṛdūdaraḥ suhavaḥ babhruḥ suśipraḥ*) — शोभनाह्वानः भर्ता सर्वस्य बभ्रुवर्णो वा शिप्रे हनूनासिके वा सुशिप्रः (*śobhanāhvānaḥ bhartā sarvasya babhruvarṇo vā śipre hanūnāsike vā suśipraḥ*) — "soft-bellied", that is, of fierce [text breaks off here] (continued on the next page)
 
+### Printed p. 205
+
+dress, ornaments and the like, yet he has an intention that produces welfare. Because the invocation of this god is beneficial, he is one of good invocation, the lord of all; or one whose body has a golden-brown lustre; one who has handsome cheeks or a nose; or, describing this god, the sacrificers (say): हविर्भिः हवीमभिः हवते स्तोमेभिः अवदिषीय (*havirbhiḥ havīmabhiḥ havate stomebhiḥ avadiṣīya*), चरुपुरोडाशादिभिः सहितैः आह्वानैः स्तुतिलक्षणै, स्त्युयते स्तोत्रैः अवखंडयामि—पृथक्करोमि (*carupuroḍāśādibhiḥ sahitaiḥ āhvānaiḥ stutilakṣaṇai, styuyate stotraiḥ avakhaṃḍayāmi—pṛthakkaromi*) (as supplied): by the offerings of oblations such as cooked offerings and cakes, and by invocations in the form of praise, having praised and gratified (him), we so act that no anger arises in this god; and अस्यॆ मनाय्कॆ नः मा रीरधत् (*asyè manāykè naḥ mā rīradhat*), हन्मीति मन्यमाना बुद्धिमना तस्यॆ अस्मान् मा वशं नैषीत् (*hanmīti manyamānā buddhimanā tasyè asmān mā vaśaṃ naiṣīt*)—it is prayed that the intention of destroying others, which exists (in him), may not arise towards the sacrificers.
+
+ऋदूदरः (*ṛdūdaraḥ*): Yāska explains ऋदूदरः सोमो मृदूदरो मृदुरुदरेष्टिति वा (*ṛdūdaraḥ somo mṛdūdaro mṛdurudareṣṭiti vā*) (Si. 6-4 [as supplied]) as "one with a soft middle part", or "soft in the middle (inside)", and as the Soma (creeper); and he has explained the word शिप्र (*śipra*) as the cheeks or the nose.
+
+सुशिप्रः (*suśipraḥ*): Yāska: सुशिप्रमेतेन व्याख्यातं । हनू नासिके वा, हनुः हंतेः । नासिका नसतेः (*suśiprametena vyākhyātaṃ | hanū nāsike vā, hanuḥ haṃteḥ | nāsikā nasateḥ*) (Ni. 6-17); he has explained the meaning of the word शिप्र as the cheeks or the nose.
+
+बभ्रुः (*babhruḥ*): In explaining the meaning of the word बभ्रु (*babhru*), Yāska cites the Ṛk या ओषधीः पूर्वा जाता देवेभ्यस्त्रियुगं पुरा । मन्यॆ नु बभ्रूणामहं शतं धामानि सप्त च ॥ (*yā oṣadhīḥ pūrvā jātā devebhyastriyugaṃ purā | manyè nu babhrūṇāmahaṃ śataṃ dhāmāni sapta ca ‖*) (Ṛ. Saṃ. 10-97-1) and explains बभ्रूणां बभ्रुवर्णानां (*babhrūṇāṃ babhruvarṇānāṃ*) (Ni. 9-29). Durgācārya gives the meaning: ओषधयः स्वभावतः पच्यमानाः सर्वा एव बभ्रुवर्णाः कपिलाः संपद्यंते (*oṣadhayaḥ svabhāvataḥ pacyamānāḥ sarvā eva babhruvarṇāḥ kapilāḥ saṃpadyaṃte*); that is, the herbs take on a golden-brown colour at the time they generally ripen.
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> उन्मा॑ ममंद वृष॒भो म॒रुत्वा॒न्त्वक्षी॑यसा॒ वय॑सा॒ नाध॑मानं ।
+> घृणी॑व च्छा॒याम॑र॒पा अ॑ती॒या वि॑वासेयं रु॒द्रस्य॑ सु॒म्मं ॥ ६ ॥
+
+> *unmā mamaṃda vṛṣabho marutvāntvakṣīyasā vayasā nādhamānaṃ |*
+> *ghṛṇīva cchāyāmarapā atīyā vivāseyaṃ rudrasya summaṃ ‖ 6 ‖*
+
+### Printed p. 206
+
+**॥ पदपाठः ॥**
+
+> उत् । मा । ममंद । वृषभः । मरुत्वान् । त्वक्षीयसा । वयसा । नाधमानं ।
+> घृणि इव । छायां। अरपाः । अतीय । आ । विवासेयं । रुद्रस्य । सुम्नं ॥ ६ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वृषभः कामानां वर्षिता मरुत्वान् मरुद्भिः पुत्रैर्युक्तो रुद्रो नाध
+> मानं याचमानं मामां त्वक्षीयसा दीप्तेन वयसान्नेनोन मंद । उत्कर्षेण
+> तर्पयतु । अपि जाहं फृणीव छायां यथा सूर्यकिरणसंतप्तश्चायां प्रविशति
+> एवं रुद्रस्य सुम्मं सुखमरपा आपापः सन् अशीय । व्याप्प्नुयां । तदर्थं तं
+> रुद्रमाविवासेयं । परिचरेयं ॥ विवासतिः परिचरणकर्मा ॥
+
+*Gist:* May Rudra, showerer of desires and accompanied by the Maruts, gratify me, a suppliant, with bright food; free from sin I would attain his happiness as one scorched by the sun's rays enters shade. The tail explains *vivāsati* as a verb of serving.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वृषभः (*vṛṣabhaḥ*)—the one who showers the desired object; मरुत्वान् (*marutvān*)—accompanied by the Marut deities; that Rudra; नाधमानं (*nādhamānaṃ*)—who begs in humility; मा (*mā*)—me; त्वक्षीयसा (*tvakṣīyasā*)—with bright; वयसा (*vayasā*)—with food; उत् ममन्द (*ut mamanda*)—may he gratify exceedingly; (and may I also) घृणीव (*ghṛṇīva*)—like one scorched by the heat of the sun; छायां (*chāyāṃ*)—takes refuge in the shade; रुद्रस्य (*rudrasya*)—obtainable from Rudra; सुम्मं (*summaṃ*)—happiness; अरपाः (*arapāḥ*)—being free from sin; अशीय (*aśīya*)—may I obtain fully.
+
+**भावार्थ (Bhāvārtha)**
+
+May Rudra, who showers the desired object and is accompanied by the Marut deities, gratify me, who beg in humility, exceedingly with bright food. May I also, being free from sin, fully obtain the happiness obtainable from Rudra, as one scorched by the heat of the sun takes refuge in the shade.
+
+**Printed English translation**
+
+May the showerer of benifits [sic], the lord of Maruts, gratify me his
+suppliant with invigorating food : may I, free from sin, so propitiate
+Rudra, that I may attain to his felicity, as a man, distressed by heat,
+(finds relief) in the shade.
+
+### Printed p. 207
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+वृषभः (*vṛṣabhaḥ*)—कामानां वर्षिता (*kāmānāṃ varṣitā*): the quality of the god Rudra is described thus, that he gives desired things to those who take refuge in him. May this Rudra, मरुत्वान् (*marutvān*), accompanied by his sons the Marut deities, fulfil the prayer of the sacrificers by granting bright food and so produce satisfaction; and फृणीव छायां रुद्रस्य सुम्नं अरसा आशीय—यथा सूर्यकिरणसंतप्तः छायां प्रविशति एवं रुद्रस्य सुखं अपापः व्यापु यां (*phṛṇīva chāyāṃ rudrasya sumnaṃ arasā āśīya—yathā sūryakiraṇasaṃtaptaḥ chāyāṃ praviśati evaṃ rudrasya sukhaṃ apāpaḥ vyāpu yāṃ*) (as supplied): as one scorched by the sharp heat of the sun takes refuge in the shade, so the sacrificer, free from sins, will obtain the happiness granted by Rudra—thus the sacrificer's blessing is described.
+
+अरपाः (*arapāḥ*)—अपापः (*apāpaḥ*): रपोरिप्रमिति पापनामनी भवतः (*raporipramiti pāpanāmanī bhavataḥ*) (Ni. 4-21): Yāska explains that the two words रपः and रिप्र (*rapaḥ*, *ripra*) both denote sin. Here the word अरपाः is explained as one without sin.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> क्व१॒ं॑ स्य ते॑ रुद्र मृळ॒याकु॒र्हस्तो॒ यो अस्ति॑ भेष॒जो जला॑षः ।
+> अ॒प॒भ॒र्तान् रप॑सो॒ दैव्य॑सा॒भी नु मा॑ वृषभ चक्षमीथाः ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> क्व । स्यः । ते । रुद्र । मृळयाकुः । हस्तः । यः । अस्ति । भेषजः । जलाषः ।
+> अपभर्ता । रहसः । दैव्यस्य । अभि । नु । मा । वृषभ । चक्षमीथाः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे रुद्र ते तव मृळयाकुः सुखयिता स्यः स हस्तः क्व कुत्र वर्तते । यो
+> हस्तो भेषजो भैषज्यकृत् जलाषः सर्वेषां सुखकरोऽस्ति । भवति । स हस्तो
+> विद्यत एव । तेन हस्तेन मां रक्षेति भावः । अपि च हे वृषभ कामानां वर्षितः
+> दैव्यस्य देवकृतस्य रपसः पापस्यापभर्तापहर्ता विनाशयिता भूत्वा कृतापराधं
+> मां नु क्षिप्रमभिचक्षमीथाः । अभिक्षमस्व । क्षमूष् सहने । लजि छांदसः शपः श्लुः ।
+> बहुलं छंदसीतीडागमः ॥
+
+*Gist:* Where is that gracious, healing hand of yours, Rudra? With it protect me; showerer of desires, remove the sin caused by the gods and forgive me quickly. The tail explains *abhicakṣamīthāḥ*.
+
 ---
 
-**Progress note:** Done through printed p. 204 (PDF 204). Sūkta 33 Ṛk 4 completed (Pratipadārtha end, Bhāvārtha, printed English, Special Topics); Ṛk 5 complete except Special Topics, which breaks off mid-sentence on p. 204; kn.md: Bhāvārtha label fixed, Ṛk 5 Pratipadārtha split out of bhāṣya block and unquoted, bhāṣya split by page break placed as two blocks; as supplied: Ṛk 5 'ऋदूदरः' (Saṃhitā) vs 'यदूवरः' (Pada) vs 'यूदूदरः' (bhāṣya) vs 'ऋतूदरः' (Pratipadārtha), 'ವೀರ್ರಾನ್', 'ದುಷ್ಟತೌ', 'ಸುಹೂತೀ' for sahūtī, 'ವೈದ್ಯರಲ್ಲಿಲ್ಲಾ'; Ṛk 5 Saṃhitā has no ṛk number (Pada has ५)
+**Progress note:** Done through printed p. 207 (PDF 207). Sūkta 33 Ṛk 5 Special Topics completed; Ṛk 6 complete; Ṛk 7 through bhāṣya gist (Pratipadārtha onward next); kn.md: image-description lines removed, p.206 Pada/bhāṣya labels fixed (garbled 'ಪದಪಾಠ'/'ಸಯಣಭದ್ರ' replaced), Bhāvārtha label fixed; as supplied: 'Si. 6-4' for Ni., 'ಋದೂದರಃ', 'ಫೃಣೀವ', 'ಅರಸಾ' for arapāḥ, 'ವೈನ್ಯ', 'ಸೂರನ', 'ವ್ಯಾಪು ಯಾಂ'
