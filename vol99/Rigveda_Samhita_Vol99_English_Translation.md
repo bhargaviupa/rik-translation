@@ -501,6 +501,105 @@ Sage Agni, you penetrate the innermost(man) knowing the birth of both(the worshi
 
 दूतो जन्मेव मित्रः (*dūto janmeva mitraḥ*)—here an illustration is given. जनेभ्यो हितो विशेषेण मित्रेभ्यो हितो दूत इव । स यथा प्रजानां चित्तवृत्तिज्ञानाय राज्ञा प्रेरितस्तासां मनो जानाति तद्वत् त्वमप्यस्माकमंतरीयस इत्यर्थः (*janebhyo hito viśeṣeṇa mitrebhyo hito dūta iva | sa yathā prajānāṃ cittavṛttijñānāya rājñā preritastāsāṃ mano jānāti tadvat tvamapyasmākamaṃtarīyasa ityarthaḥ*). Agni is praised as being like a messenger who is a well-wisher of people, and especially of those who are friends. How? In the world a messenger sent by the king, moving among the people to learn their minds, learns their wishes and reports them to the king; in the same way Agni too enters the minds of men and, like a well-wisher, makes their heart's desire known to the gods to whom it is directed: this is the intention.
 
+### Printed p. 516
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 6, p. 516.*
+
+(Continuing the Special Topics of Ṛk 7:) Although an explanation has been given of this Ṛk in a way that makes some sense, it cannot be said that the correct meaning is just this. There remains room for doubt about the main intention.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> स वि॒द्वा आ च॑ पिप्रयो॒ यक्षि॑ चिकित्सॆ आनु॒षक् ।
+> आ चा॒स्मिन्त्स॑त्सि ब॒र्हिषि॑ ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> सः । विद्वान् । आ । च । पिप्रयः । यक्षि । चिकित्वः । आनुषक् ।
+> आ । च । अस्मिन् । सत्सि । बर्हिषि ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने स त्वं विद्वान् विशेषाभिज्ञः सन् आ च पिप्रयः । सर्वतोऽस्मान्सू-
+> रय च कामैः । हे चिकित्सश्चेतनावन् आनुषक् अनुक्रमेण यक्षि । यज देवान् ।
+> आसत्सि । आसीद चास्मिन् स्त्रीणे बर्हिषि ॥
+
+*Gist:* Agni, knowing, satisfy us on every side, worship the gods in order, and sit on this spread sacred grass.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+सः (*saḥ*)—(O Agni) you. विद्वान् (*vidvān*)—knowing everything. आ च (*ā ca*)—in every way. पिप्रयः (*piprayaḥ*)—fulfil our desired aims. चिकित्स्यः (*cikitsyaḥ*)—you, who are wise. आनुषक् (*ānuṣak*)—in order. यक्षि (*yakṣi*)—worship (the gods). अस्मिन् (*asmin*)—spread here. बर्हिषि च (*barhiṣi ca*)—and on the seat of darbha grass. आ सत्सि (*ā satsi*)—sit down.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, you who know all, fulfil our desired aims in every way, and worship the gods in order. Sit down also on the darbha-grass seat spread here.
+
+**Printed English**
+
+Agni, you are all-wise; fulfil(our desires): you, who are intelligent, worship( the gods) in order; and sit down on this sacred grass.
+
+### Printed p. 517
+
+*Running head: Aṣṭaka 2, Adhyāya 5, Varga 28, Ṛgveda-saṃhitā, p. 517.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+आनुषक् (*ānuṣak*)—the meaning is "in order". For this word Yāska has said: आनुषगिति नामानुपूर्वस्यानुषक्तं भवति । स्तृणंति बर्हिरानुषक् इत्यपि निगमो भवति (*ānuṣagiti nāmānupūrvasyānuṣaktaṃ bhavati | stṛṇaṃti barhirānuṣak ityapi nigamo bhavati*). That is, he says that आनुषक् (*ānuṣak*) is a synonym of the words अनुपूर्व (*anupūrva*) and अनुक्रम (*anukrama*), which give the sense "one after another", and he has given the example स्तृणंति बर्हिरानुषक् (*stṛṇaṃti barhirānuṣak*):
+
+आ घा ये अग्निमिंधते स्त्रणंति बर्हिरानुषक् । येषामिंद्रो युवा सखा ॥ (*ā ghā ye agnimiṃdhate straṇaṃti barhirānuṣak | yeṣāmiṃdro yuvā sakhā ‖*) (Mi. Saṃ. 8-45-1) [abbreviation as supplied]
+
+In this example it is said: first they kindle the fire; afterwards they spread the darbha grass called barhis as a seat. Here kindling the fire is one act; spreading the darbha grass is another act. After the first act, kindling the fire, the second act, spreading the darbha grass, is performed. When acts are done in this way, one after another in order, the word आनुषक् (*ānuṣak*) is used to indicate that order. In the present Ṛk also there are three acts of Agni: fulfilling our desired aims, worshipping the gods, and sitting on the darbha grass. The word आनुषक् (*ānuṣak*) is used here so that they be done knowing the order.
+
+*The seventh sūkta.*
+
+## Sūkta 7 (Maṇḍala 2)
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> श्रेष्ठं यविष्टेति षडृचं सप्तमं सूक्तं सोमाहुत्यार्षमाग्नेयं
+> गायत्रं ॥ प्रातरनुवाकाश्विनशस्त्रयोर्गायत्रे छंदस्यस्य विनियोगः पूर्वसूकु
+> एवोक्तः ॥ श्रवणाकर्मण्याद्या विनियुक्ता ॥
+
+*Gist:* *śreṣṭhaṃ yaviṣṭha* is the seventh sūkta, six ṛks, Gāyatrī, deity Agni, seer Somāhuti Bhārgava; used in the Prātaranuvāka and Āśvina-śastra; Ṛk 1 in the Śravaṇākarman.
+
+**Anuvāda (Kannada)**
+
+This sūkta *śreṣṭhaṃ yaviṣṭha* is the seventh sūkta in the first anuvāka. It has six ṛks. The seer of this sūkta is Somāhuti Bhārgava; the deity is Agni; the metre is Gāyatrī. It was said earlier (in the introduction of the preceding sūkta itself) that this sūkta is applied to the Gāyatrī ṛks at the time of reciting the Prātaranuvāka and the Āśvina-śastra mantras. The first Ṛk of this sūkta is applied in the Śravaṇākarman.
+
+### Printed p. 518
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 1, Sū. 7, p. 518.*
+
+**Heading of the sūkta (as supplied)**
+
+Om. Sūkta 7. Maṇḍala 2, Anuvāka 1, Sūkta 7. Aṣṭaka 2, Adhyāya 5, Varga 28. Number of ṛks in the sūkta: 6. Seer: Somāhuti Bhārgava. Deity: Agni. Metre: Gāyatrī.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> श्रेष्ठं॑ यविष्ठ भार॒ताग्ने॑ द्यु॒मंत॒मा भ॑र ।
+> वसो॑ पुरु॒स्पृहं॑ र॒यिं ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> श्रेष्ठं । यविष्ठ । भारत । अग्ने । द्युमंतं । आ । भर ।
+> वसो इति । पुरुस्पृहं । रयिं ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने यविष्ठ युवत्तम हे भारत । भरता ऋत्विजः । तेषां संबंधी
+> भारतः । तेऽध्वर्याद्वादिभिर्मंथनहविःस्तोत्रादिना व्याप्रियमाणत्वात् । तादृश हे
+> वसो वासक व्याप्त वा एवंरूपाग्ने श्रेष्ठमतिप्रशस्यं द्युमंतं दीप्तिमंतं पुरु-
+> स्पृहं बहुभिरर्थिभिः स्पृहणीयं रयिमाभर । आहर ॥
+
+*Gist:* O Agni, youngest, Bhārata (of the priests), bring the best, shining, much-desired wealth.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यविष्ठ (*yaviṣṭha*)—most youthful. भारत (*bhārata*)—kinsman of the priests. वसो (*vaso*)—giver of dwelling. अग्ने (*agne*)—O Agni. श्रेष्ठं (*śreṣṭhaṃ*)—most praiseworthy. द्युमंतं (*dyumaṃtaṃ*)—brilliant. पुरुस्पृहं (*puruspṛhaṃ*)—desired by many. रयिं (*rayiṃ*)—wealth. आ भर (*ā bhara*)—bring.
+
 ---
 
-**Progress note:** Done through printed p. 515 (PDF 515). Sukta 6 Rks 6-7; Rk 7 Samhita/Pada spelling oddities, accent DIFF/NOMATCH
+**Progress note:** Done through printed p. 518 (PDF 518). Sukta 6 Rk 8 (Samhita line 1 supplied chikitse vs Pada chikitvah), Sukta 7 intro and Rk 1; accent DIFFs on 3 lines
