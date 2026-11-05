@@ -12853,6 +12853,88 @@ as its explanation. That is, fruits or herbs in trees such as *vanaspati*, fille
 
 That is, because in her (the cow) the juice (milk), the means of enjoyment, flows (is milked), the cow is called *usriyā* or *usrā*. Among those, a cow in youth, that is, fit to give milk, is meant.
 
+### Printed p. 399
+
+*(Editorial note: in the supplied text the Sanskrit quotations on this page ran on as prose; they have been set as `>` blocks in the Kannada file, with the references on their own lines, and a hyphenated line break inside the bhāṣya quotation has been joined.)*
+
+> आभ्यां सोमापूषभ्यां इंद्रः आमासु उस्रियासु अंतः पक्वं जनत्—एताभ्यां सोमापूषभ्यां सह इंद्रः तरुणेषु गोषु मध्यॆ ऊधः प्रदेशे परिपक्वं जनयति ।
+
+> *ābhyāṃ somāpūṣabhyāṃ iṃdraḥ āmāsu usriyāsu aṃtaḥ pakvaṃ janat—etābhyāṃ somāpūṣabhyāṃ saha iṃdraḥ taruṇeṣu goṣu madhyè ūdhaḥ pradeśe paripakvaṃ janayati |*
+
+Along with these deities Soma and Pūṣan, Indra fills the udders of cows in their youth with ripe milk, that is, milk fit for use. This act of Indra is described in the Ṛks
+
+> आमासु पक्वमैरय आ सूर्यं रोहयो दिवि ।
+
+> *āmāsu pakvamairaya ā sūryaṃ rohayo divi |*
+
+(Ṛ. Saṃ. 8-89-7)
+
+> आमासु चिद्दधिषे पक्वमंतः पयः कृष्णासु रुशद्रोहिणेषु ।
+
+> *āmāsu ciddadhiṣe pakvamaṃtaḥ payaḥ kṛṣṇāsu ruśadrohiṇeṣu |*
+
+(Ṛ. Saṃ. 1-62-9)
+
+In the second example quoted above it is described that Indra fills even black or red cows with white milk: whatever the colour of the cow, its milk is white only; this is described as arising from Indra's surpassing power. About the phrase आ सूर्यं रोहयो दिवि (*ā sūryaṃ rohayo divi*) in the first example, the commentator gives an ancient story:
+
+> पूर्वं पणयो नामासुरा अंगिरसां गा आपहृत्यांधकारावृते कस्मिंश्चित्पर्वते ताः स्थापितवंतः । ततोऽज्जिरस इंद्रं स्तुत्वा गाः पुनरस्मभ्यमाहरेति तैरुक्त इंद्रो गवां स्थानं तमसावृतं दृष्ट्वा तत्र गोदर्शनाय द्युलोके सर्वप्रकाशकं सूर्यमारोहितवान् स्थापितवान् ॥
+
+> *pūrvaṃ paṇayo nāmāsurā aṃgirasāṃ gā āpahṛtyāṃdhakārāvṛte kasmiṃścitparvate tāḥ sthāpitavaṃtaḥ | tato 'jjirasa iṃdraṃ stutvā gāḥ punarasmabhyamāhareti tairukta iṃdro gavāṃ sthānaṃ tamasāvṛtaṃ dṛṣṭvā tatra godarśanāya dyuloke sarvaprakāśakaṃ sūryamārohitavān sthāpitavān ‖*
+
+(Ṛ. Saṃ. 8-89-7, Sā. Bhā.)
+
+In former times the asuras called Paṇis stole the cows of the Aṅgirases and kept them in a cave full of dense darkness in a certain mountain. The Aṅgiras sages then praised and pleased Indra and prayed that he bring back their cows. Indra, seeing that the place of the cows was very dark and that searching was impossible, and knowing that light was necessary to find the cows, set in the sky the sun that illumines everything with its radiance. By the light of that sun it became possible to search out and bring the cows: this is the ancient story. In the present Ṛk also, the statement इमौ तमांसि गूहतामजुष्टॆ (*imau tamāṃsi gūhatāmajuṣṭè*) (the darkness that had spread here was destroyed by Soma and Pūṣan), although it concerns Soma and Pūṣan, may be supposed to support that same matter of Indra's setting the sun in the sky to find the cows.
+
+### Printed p. 400
+
+#### Ṛk 3
+
+**॥ संहितापाठः ॥**
+
+> सोमा॑पूषणा॒ रज॑सो वि॒मानं॑ स॒प्तच॑क्रं॒ रथ॒मवि॑श्वमिन्वं ।
+> वि॒षू॒वृतं॒ मन॑सा यु॒ज्यमा॑नं॒ तं जि॑न्वथो वृषणा॒ पंच॑रश्मिं ॥
+
+**॥ पदपाठः ॥**
+
+> सोमापूषणा । रजसः । विमानं । सप्तचक्रं । रथं । अविश्वमिन्वं ।
+> विषुवृतं । मनसा । युज्यमानं । तं । जिन्वथः । वृषणा । पंचरश्मिं ॥ ३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वृषणा वृषणौ कामानां वर्षितारौ सोमपूषणा हे सोमपोषणा
+> रजसो लोकस्य । लोका रजांस्युच्यंत इति यास्कः । विमानं परिच्छेदकं । सर्वमानमित्यर्थः । सप्तचक्रं सप्तर्तुचक्रं । त्रयोदशो मासः सप्तम ऋतुः । अस्ति
+> त्रयोदशो मास इति श्रुतेः । अविश्वमिन्वं विश्वस्यापरिच्छेद्यं विषुवृतं विश्वक्
+> सर्वत्र परिवर्तमानं पंचरश्मिं पंचर्तुरश्मिं । हेमंतशिशिरयोः समासेनर्तवः
+> पंच । तथा च श्रूयते । द्वादश मासाः पंचर्तवो हेमंतशिशिरयोः समासेन ।
+> ऐ. ब्रा. १-१ । इति । मनसा युज्यमानं मनोमात्रेण युज्यमानं । तं प्रसिद्धं
+> रथं जिन्वथः । आस्मान्प्रति प्रेरयथः ॥
+
+*Gist:* Soma and Pūṣan, showerers of desires, are asked to send to us the seven-wheeled (seven-season) chariot that measures the world and is yoked by the mind; Sāyaṇa takes the seven as the seasons including the thirteenth month and the five reins as five seasons (Hemanta and Śiśira counted together), citing the Aitareya Brāhmaṇa (as printed, 1-1).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वृषणा (*vṛṣaṇā*)—showerers of desires. सोमापूषणा (*somāpūṣaṇā*)—O Soma and Pūṣan deities. रजसः (*rajasaḥ*)—of the world. विमानं (*vimānaṃ*)—that which divides and measures. सप्तचक्रं (*saptacakraṃ*)—having seven wheels in the form of seasons. अविश्वमिन्वं (*aviśvaminvaṃ*)—not distinct from the universe. विषुवृतं (*viṣuvṛtaṃ*)—pervading everywhere. पंचरश्मिं (*paṃcaraśmiṃ*)—having five reins (the Kannada print reads कडिवाणगुळुळ्ळदू (*kaḍivāṇaguḷuḷḷadū*) for "having reins", apparently a misprint). मनसा (*manasā*)—by the mind alone. युज्यमानं (*yujyamānaṃ*)—to be yoked and made ready. तं (*taṃ*)—that well-known. रथं (*rathaṃ*)—chariot. जिन्वधः (*jinvadhaḥ*) (as printed; the bhāṣya and Pada read जिन्वथः (*jinvathaḥ*))—urge towards us.
+
+**भावार्थ (Bhāvārtha)**
+
+O Soma and Pūṣan, showerers of desires: the chariot that divides and measures the world, has seven wheels in the form of seasons, has no state distinct from the universe, is pervading everywhere, has five reins, is to be yoked and made ready by the mind alone, and is well known: urge it towards us.
+
+### Printed p. 401
+
+**Printed English translation**
+
+Soma and Pushan, showeres [sic] (of benifits [sic]), direct towards us the seven-wheeled car, the measure of the spheres, undistinguishable from the universe, everywhere existing, (guided) by five reins, and to be harnessed by the mind.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk the sage prays to Soma and Pūṣan: send towards us the chariot that has seven wheels, has the reins of five (horses), is able to travel everywhere, and is to be yoked and made ready by mere resolve of the mind. The chariot here is the year (*saṃvatsara*). The six seasons of the year together with the intercalary thirteenth month make seven seasons, the seven wheels. The five seasons: since there is a custom of calling the last two of the six seasons together by the name हेमंतशिशिरौ (*hemaṃtaśiśirau*), the total is stated here as five seasons. Those five seasons are the reins of the five horses. Such a chariot, the year, is all-pervading, that is, time contains everything; there is nothing distinct from it. The prayer is uttered here: come to us with such a chariot. It is said in the introduction to this sūkta that the deity Pūṣan is of the nature of Āditya (the sun). Since the divisions of time, year, seasons, months, days and so on, arise from the course of the sun, this is described here as the chariot of Soma and Pūṣan and is invoked.
+
+वृषणा सोमापूषणा रजसः विमानं (*vṛṣaṇā somāpūṣaṇā rajasaḥ vimānaṃ*)—O Soma and Pūṣan, who pour out desired things, your (chariot) divides and measures the world. Here रजसः (*rajasaḥ*) means लोकस्य (*lokasya*); according to Yāska's explanation लोकाः रजांस्युच्यंते (*lokāḥ rajāṃsyucyaṃte*) (Ni. 4-19), the word *rajas* means world. To divide and measure the world means: as a stretch of land is measured by the going of a chariot, so by the chariot of time the extent of the worlds, or the extent of time, is divided. The sense is that by the course of Soma and Pūṣan, or of Āditya (the going of the chariot), the divisions of year, season, month, fortnight and day come about. This is what is described here by the words लोकस्य विमानं (*lokasya vimānaṃ*).
+
+सप्तचक्रं रथं अविश्वमिन्वं विषूवृतं (*saptacakraṃ rathaṃ aviśvaminvaṃ viṣūvṛtaṃ*)—Here the seven wheels are the seven seasons. Ordinarily there are six seasons in a year, one season to every two months. When an intercalary month occurs there are thirteen months in the year. That thirteenth month alone, as one (text breaks off at the end of this page)
+
+*Stray line kept from the supplied text (a lone number at the end of the window, not part of the sense):* 26
+
 ---
 
-**Progress note:** Done through printed p. 398 (PDF 398). Sukta 40 Rik 1 (Pada, bhasya, Pratipadartha, Special Topics) and Rik 2 complete to its Special Topics (Nirukta quotes as blocks). Flags: garbled labels (Samhita, Pada, bhasya, Pratipadartha of Rik 2) replaced by standard ones and kept as notes; Rik 2 Pada reads imam/dev/jayaman as supplied; Special Topics of Rik 2 may continue on p. 399
+**Progress note:** Done through printed p. 401 (PDF 401). Sukta 40 Rik 2 Special Topics finished (p. 399); Rik 3 complete through Bhavartha and printed English; its Special Topics begins and breaks off mid-sentence at end of p. 401. Flags: hand-fixes to kn.md (quotes into blocks, hyphen joins, refs on own lines), lone '26' kept as note, Pratipadartha print jinvadhah as printed
