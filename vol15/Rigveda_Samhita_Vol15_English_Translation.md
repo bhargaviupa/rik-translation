@@ -4187,6 +4187,119 @@ The meaning that Sāyaṇa gives to the first half of this Ṛk does not fit wel
 > *vyayeyaṃ |*
 > *trādhvaṃ no devā nijuro vṛkasya trādhvaṃ kartādavapado yajatrāḥ‖*
 
+### Printed p. 135
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 11] Ṛgveda-saṃhitā 135.*
+
+(Ṛk 6 continues; its Saṃhitā was given on p. 134.)
+
+**॥ पदपाठः ॥**
+
+> अर्वांचः । अद्य । भवत । यजत्राः । आ । वः । हार्दि । भयमानः । व्ययेयं ।
+> त्राध्वं । नः । देवाः । निजुरः । वृकस्य । त्राध्वं । कर्तात् । अव्यपदः । यजत्राः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे यजत्रा यष्टव्या देवा अद्येदानीमर्वांचोऽस्मदभिमुखा भवत ।
+> वो युष्माकं हार्दि हृद्यवस्थितं रक्षणं भयमानो बिभ्यदहमाव्ययेयं ।
+> आभिमुख्येन प्राप्नुयां ॥ व्यय गत् भौवादिकः ॥ हे देवा वृकस्य तस्करस्यारण्य-
+> शुनो वा संबंधिनो निजुरो निहननात्॥ जूरी हिंसार्थः । अस्मात्संपदादिलक्षणो
+> भावे क्विप् । छांदसो ह्रस्वः ॥ नोऽस्मान् त्राध्वं । त्रायध्वं ॥ तथा हे यजत्रा
+> अवपद आपदः कर्तात्कर्तुः सकाशात् त्राध्वं । त्रायध्वं ॥
+
+> *he yajatrā yaṣṭavyā devā adyedānīmarvāṃco 'smadabhimukhā bhavata |*
+> *vo yuṣmākaṃ hārdi hṛdyavasthitaṃ rakṣaṇaṃ bhayamāno bibhyadahamāvyayeyaṃ |*
+> *ābhimukhyena prāpnuyāṃ ‖ vyaya gat bhauvādikaḥ ‖ he devā vṛkasya taskarasyāraṇya-*
+> *śuno vā saṃbaṃdhino nijuro nihananāt‖ jūrī hiṃsārthaḥ | asmātsaṃpadādilakṣaṇo*
+> *bhāve kvip | chāṃdaso hrasvaḥ ‖ no 'smān trādhvaṃ | trāyadhvaṃ ‖ tathā he yajatrā*
+> *avapada āpadaḥ kartātkartuḥ sakāśāt trādhvaṃ | trāyadhvaṃ ‖*
+
+*Gist:* O adorable gods, turn to us today; fearing, may I obtain your heartfelt protection; protect us from the wolf's (or thief's) violence and from the one who causes calamity. The tail explains व्यय (*vyaya*) (root *vyay*, bhū-class), निजुरः (*nijuraḥ*) (from the root *jūr*, with a Vedic shortening) and त्राध्वं (*trādhvaṃ*) = त्रायध्वं (*trāyadhvaṃ*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यजत्राः (*yajatrāḥ*)—O gods worthy of sacrifice; अद्य (*adya*)—at this time of the sacrifice; अर्वांचः (*arvāṃcaḥ*)—facing us; भवत (*bhavata*)—be; वः (*vaḥ*)—your; हार्दि (*hārdi*)—protection given with affection; भयमानः (*bhayamānaḥ*)—I, who am afraid; आ व्ययेयं (*ā vyayeyaṃ*)—may I obtain fully; देवाः (*devāḥ*)—O gods; वृकस्य (*vṛkasya*)—of the thief or the wolf; निजुरः (*nijuraḥ*)—from the violence; नः (*naḥ*)—us; त्राध्वं (*trādhvaṃ*)—protect; यजत्राः (*yajatrāḥ*)—O revered gods; अवपदः (*avapadaḥ*)—calamities; कर्तात् (*kartāt*)—from one who causes; त्राध्वं (*trādhvaṃ*)—protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods worthy of sacrifice, be facing us at this time of the sacrifice. May I, being afraid, obtain fully your protection given with affection. O revered gods, protect us from the violence of the thief. Protect us also from those who cause calamities.
+
+**English Translation**
+
+Adorable (deities), be present to-day, that, apprehensive of danger, I may feel sure of your hearty (support): protect us, gods, from the rapacity of the wolf: protect us, adorable (deities), from him who would work us misfortune.
+
+### Printed p. 136
+
+*Running head: [136] Sāyaṇa-bhāṣya-sahitā [Maṇḍala 2 as supplied, Adhyāya 3, Sūkta 29].*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यजत्राः (*yajatrāḥ*)—the word has been explained as "worthy of sacrifice". By it the gods worthy of sacrifice are addressed: because the sacrificers are fearful, the gods' presence at the times of sacrifice is prayed for, so that the sacrificers may receive the gods' wholehearted protection. After the prayer for protection from fear caused by the gods, protection for the sacrificers is prayed for here from the visible harmful creatures, the thief and the wolf, and from wicked people who cause calamity.
+
+वृकस्य (*vṛkasya*)—तस्करस्य अरण्यतुनो वा (*taskarasya araṇyatuno vā*) [sic, as supplied, probably for *araṇyaśuno*]. The many meanings of the word *vṛka* were explained earlier. Here the meaning given is the thief or the wolf (wild dog) and other creatures that do violence.
+
+अवपदः (*avapadaḥ*)—आपदः (*āpadaḥ*). The word *avapadaḥ* is explained as calamities.
+
+यजत्राः अद्य अर्वांचः भवत (*yajatrāḥ adya arvāṃcaḥ bhavata*)—हे यष्टव्या देवा इदानीमस्मदभिमुखा भवत (*he yaṣṭavyā devā idānīmasmadabhimukhā bhavata*). O gods worthy of sacrifice, that is, worshipped in the sacrifice; "now", that is, at this time while the sacrifice is going on: it is prayed that you come facing us (in front of us) and be seated.
+
+वः हार्दि भयमानः आ व्यवेयं (*vaḥ hārdi bhayamānaḥ ā vyaveyaṃ*) [as supplied; the Saṃhitā and bhāṣya have व्ययेयं (*vyayeyaṃ*)]—हे देवा युष्माकं हृद्यवस्थितं रक्षणं बिभ्यदहमाभिमुख्येन प्राप्नुयां (*he devā yuṣmākaṃ hṛdyavasthitaṃ rakṣaṇaṃ bibhyadahamābhimukhyena prāpnuyāṃ*). O gods, it is in your minds to remove the fear I have and protect me; may I obtain that protection. What is the fear that has come upon me?—यजत्राः निजुरः वृकस्य अवपदः कर्तात् त्राध्वं (*yajatrāḥ nijuraḥ vṛkasya avapadaḥ kartāt trādhvaṃ*): O gods worthy of sacrifice, remove the fear that may come from the violent wolf, the thief, and wicked people who cause calamities, and protect me; thus the gods are prayed to.
+
+#### Ṛk 7
+
+**॥ संहितापाठः ॥**
+
+> माहं म॒घोनो॑ वरुण प्रि॒यस्य॑ भूरि॒दान्न॒ आ वि॑दं॒ शून॑मा॒पेः।
+> मा रा॒यो रा॑जन्तु॒यमा॒दव॑ स्थां बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑॥
+
+> *māhaṃ maghono varuṇa priyasya bhūridānna ā vidaṃ śūnamāpeḥ|*
+> *mā rāyo rājantuyamādava sthāṃ bṛhadvadema vidathe suvīrāḥ‖*
+
+### Printed p. 137
+
+*Running head: [Aṣṭaka 2, Adhyāya 7, Varga 11] Ṛgveda-saṃhitā 137.*
+
+**॥ पदपाठः ॥**
+
+> मा । अहं । मघोनः । वरुण । प्रियस्य । भूर्इदान्वः । आ । विदं । शूनं । आपेः ।
+> मा । रायः । राजन् । सुयमात् । अव । स्थां । बृहत् । वदेम । विदथे । सु-
+> वीराः ॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे वरुण मघोनो धनवतः प्रियस्यानुकूलस्य भूरिदाव्यो भूरेर्बहुलस्य
+> दातुराड्यस्याहं मा आविदं । मावेदयानि । आवेदनं विज्ञापनं मा करवाणि । किं
+> तदनावेद्यं । आपेर्ज्ञातेः शूनं शून्यं दारिद्रं ॥ वर्णलोपश्कांदसः ॥ यद्वा
+> शूनं गतं प्राप्तं दारिद्रं ॥ टुओश्वि गतिवृद्ध्योः । श्विदितो निष्ठायामितीट् प्रति-
+> षेधः । यजादित्वात्संप्रसारणं । ओदितश्चति नकारः । वृषादित्वादाद्युदात्तत्वं ॥
+> एतदुक्तं भवति । अस्मदीयाः पुत्रादयः क्षुधिता इति प्रभुप्रभुसमीपेऽभिधाय
+> याचमानो मा भूवमिति । हे राजन् सुयमात् । सुष्टु नियम्यतेऽनेन पुरुषो
+> गृह इति सुयमः ॥ ईषद्दुःसुष्टिति खलु ॥ ताद्बशाद्रायो धनान्मावस्थां ।
+> अवयुत्य स्थितो मा भूवं । वयं सुवीराः शोभनपुत्रा विदथे यज्ञॆ गृहे
+> वर्तमानाः संतो बृहत् फौढं स्तोत्रं वदेम । उच्चारयाम ॥
+
+> *he varuṇa maghono dhanavataḥ priyasyānukūlasya bhūridāvyo bhūrerbahulasya*
+> *dāturāḍyasyāhaṃ mā āvidaṃ | māvedayāni | āvedanaṃ vijñāpanaṃ mā karavāṇi | kiṃ*
+> *tadanāvedyaṃ | āperjñāteḥ śūnaṃ śūnyaṃ dāridraṃ ‖ varṇalopaśkāṃdasaḥ ‖ yadvā*
+> *śūnaṃ gataṃ prāptaṃ dāridraṃ ‖ ṭuośvi gativṛddhyoḥ | śvidito niṣṭhāyāmitīṭ prati-*
+> *ṣedhaḥ | yajāditvātsaṃprasāraṇaṃ | oditaścati nakāraḥ | vṛṣāditvādādyudāttatvaṃ ‖*
+> *etaduktaṃ bhavati | asmadīyāḥ putrādayaḥ kṣudhitā iti prabhuprabhusamīpe 'bhidhāya*
+> *yācamāno mā bhūvamiti | he rājan suyamāt | suṣṭu niyamyate 'nena puruṣo*
+> *gṛha iti suyamaḥ ‖ īṣadduḥsuṣṭiti khalu ‖ tādbaśādrāyo dhanānmāvasthāṃ |*
+> *avayutya sthito mā bhūvaṃ | vayaṃ suvīrāḥ śobhanaputrā vidathe yajñè gṛhe*
+> *vartamānāḥ saṃto bṛhat phauḍhaṃ stotraṃ vadema | uccārayāma ‖*
+
+*Gist:* O Varuṇa, may I not have to report to a wealthy, generous patron the poverty of my kinsmen, nor be left bereft of wealth; with good sons we shall recite a sublime hymn in the sacrificial house. The tail explains शूनं (*śūnaṃ*) (loss of a letter, Vedic; or from the root *śvi*, with sūtras on the augment and contraction, numbers not legible in this note) and सुयमात् (*suyamāt*).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वरुण (*varuṇa*)—O Varuṇa; मघोनः (*maghonaḥ*)—of the wealthy, प्रियस्य (*priyasya*)—the favourable, भूरिदाव्यः (*bhūridāvyaḥ*)—the lavish giver, the rich man (before him); अहं (*ahaṃ*)—I; आपेः (*āpeḥ*)—of my near kinsman; शूनं (*śūnaṃ*)—the poverty; मा आ विदं (*mā ā vidaṃ*)—may I not have to state; राजन् (*rājan*)—O Varuṇa, lord; सुयमात् (*suyamāt*)—from [wealth] accumulated in due order; रायः (*rāyaḥ*)—from wealth; मा अव स्थां (*mā ava sthāṃ*)—may I not be left empty; (वयं (*vayaṃ*)—we); सुवीराः (*suvīrāḥ*)—together with excellent sons; विदथे (*vidathe*)—in the sacrificial house; बृहत् (*bṛhat*)—a sublime hymn; वदेम (*vadema*)—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Varuṇa, may I not have to go before the rich man, who is wealthy, favourable and a lavish giver, and say that my sons and other near kinsmen suffer from poverty, asking him for wealth. May I not be left empty of wealth accumulated in due order. With excellent sons we shall recite a sublime hymn in the sacrificial house.
+
+*Note on readings: the Saṃhitā has भूरिदान्न (*bhūridānna*), the Pada भूर्इदान्वः (*bhūridānvaḥ*) and the bhāṣya भूरिदाव्यो (*bhūridāvyo*), as supplied; the Pada's भूर्इदान्वः (*bhūridānvaḥ*) and the Pratipadārtha's भूरिदाव्यः (*bhūridāvyaḥ*) differ. The Pada ends "॥ ೭ ॥" as printed.*
+
 ---
 
-**Progress note:** Done through printed p. 134 (PDF 134). Sūkta 29 Ṛk 4 Pratipadārtha to Special Topics, Ṛk 5 complete, Ṛk 6 Saṃhitā (Pada continues p. 134/135). Hand fixes to kn.md: stray image line removed, 'Englis Translation' label fixed. Flags: Pratipadārtha OCR forms ಸ್ಥೆ, ನಾಧಮಾನಸ್ಯ ಮಧ್ಯಂ, ಯುಷ್ಮಾವತ್ತು, ಗ್ರೇಭಿಷ್ಟ and ಚಕೃಡ್ವೇ as supplied; running head reads Maṇḍala 2 as supplied
+**Progress note:** Done through printed p. 137 (PDF 137). Sūkta 29 Ṛk 6 Pada to Pratipadārtha/Bhāvārtha/English, Special Topics; Ṛk 7 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha (printed English follows on p. 138). Hand fixes to kn.md: garbled labels replaced, Pada/bhāṣya split, Bhāvārtha label fixed, stray image line removed. Flags: Ṛk 7 Saṃhitā ಭೂರಿದಾನ್ನ / Pada ಭೂರ್ಇದಾನ್ವಃ / bhāṣya ಭೂರಿದಾವ್ಯೋ differ as supplied; special-topics ವ್ಯವೇಯಂ as supplied; Ṛk 6 Pada lacks ॥ ೬ ॥ in supplied text
