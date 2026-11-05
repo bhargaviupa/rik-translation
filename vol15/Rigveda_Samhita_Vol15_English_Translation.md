@@ -11571,6 +11571,125 @@ In the Taittirīya Saṃhitā—फल्गुनीनक्षत्रमर
 
 Aryaman—In the sūktas addressed to the Ādityas, in general the Ādityas meant are Mitra, Varuṇa and Aryaman. As we have said before, in the Ṛgveda (Ṛ. Saṃ. 2-27-1) Mitra, Aryaman, Bhaga,
 
+### Printed p. 365
+
+*[Running head, p. 365: A. 2, A. 8, Va. 3, Ṛgvedasaṃhitā.]*
+
+Varuṇa, Dakṣa, Aṃśa: only the names of these six persons are there. In Ṛ. Saṃ. 9-114-3 the number of the Ādityas is given as seven, and in Ṛ. Saṃ. 10-72-8 it is said that Aditi first presented seven sons to the gods and afterwards obtained the eighth, Mārtaṇḍa. In Atharvaveda 8-9-21 and in Tai. Brā. 1-1-9-1 also it is said that Aditi had eight sons: Mitra, Aryaman, Varuṇa, Aṃśa, Bhaga, Dhātṛ, Indra and Vivasvān. In the Śatapatha Brāhmaṇa (Śa. Brā. 6-1-2-8; 11-6-3-8) the Ādityas are said to be twelve, one for each month. In the Purāṇas and the like too the Ādityas are twelve in number.
+
+Although the name of the deity Aryaman occurs in the Ṛgveda in about a hundred places, since he has no complete personality Yāska, in his Nirukta (Nighaṇṭu), when explaining the derivation of the names of the deities, has left out the name of this deity Aryaman. Except in two mantras, everywhere else he is mentioned only together with other deities, and that mostly together with Mitra and Varuṇa. Addressing Agni, in the context of wooing maidens, it is said:
+
+> त्वमर्यमा भवसि यत्कनीनां नाम स्वधावन् गुह्यं बिभर्षि ।
+
+> *tvamaryamā bhavasi yatkanīnāṃ nāma svadhāvan guhyaṃ bibharṣi |*
+
+(Ma. Saṃ. 5-3-2) *[as supplied: ಮ. (Ma.) for ಋ. (Ṛ.)]*
+
+that is, "you are Aryaman."
+
+> भगो अर्यमा सविता पुरंधिर्मह्यं त्वादुर्गार्हपत्याय देवाः ।
+
+> *bhago aryamā savitā puraṃdhirmahyaṃ tvādurgārhapatyāya devāḥ |*
+
+(Ṛ. Saṃ. 10-85-36)
+
+In this Ṛk the bridegroom says: "O gods, Bhaga, Aryaman, Savitṛ and Purandhi gave this bride to me, to help me in the householder's stage of life."
+
+> न तमंहो न दुरितं देवासो अष्ट मर्त्यं ।
+> सजोषसो यमर्यमा मित्रो नयंति वरुणो अति द्विषः ॥
+
+> *na tamaṃho na duritaṃ devāso aṣṭa martyaṃ |*
+> *sajoṣaso yamaryamā mitro nayaṃti varuṇo ati dviṣaḥ ‖*
+
+(Ṛ. Saṃ. 10-126-1)
+
+> शुनमस्मभ्यमूतये वरुणो मित्रो अर्यमा ।
+> शर्म यच्छंतु सप्रथ आदित्यासो यदीमहे अति द्विषः ॥
+
+> *śunamasmabhyamūtaye varuṇo mitro aryamā |*
+> *śarma yacchaṃtu sapratha ādityāso yadīmahe ati dviṣaḥ ‖*
+
+(Ma. Saṃ. 10-126-7) *[as supplied: ಮ. (Ma.) for ಋ. (Ṛ.)]*
+
+Although the deities of Ṛ. Saṃ. 10-126 are called Viśvedevas, it is chiefly the Ādityas who are praised here in the Ṛks cited above. Moreover, the words देवासः अष्ट (*devāsaḥ aṣṭa*) in the first Ṛk refer to the eight Ādityas (nowhere in the Veda is the number of the Ādityas said to be more than eight). Again, the word आदित्यासः (*ādityāsaḥ*) in the 7th Ṛk shows the same clearly. In every Ṛk of this sūkta (except the last Ṛk) the refrain वरुणो मित्रो अर्यमा (*varuṇo mitro aryamā*)
+
+### Printed p. 366
+
+*[Running head, p. 366: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 38.]*
+
+("Varuṇa, Mitra, Aryaman"), the names of Mitra, Varuṇa and Aryaman, is repeated again and again like a refrain, which indicates that among the Ādityas these three, Mitra, Varuṇa and Aryaman, hold the chief place. Since the subject of Aryaman is not much described in the Ṛgveda, a detailed account is not possible.
+
+Rudra—The explanation of the word Rudra by the Nirukta-writer is as follows:
+
+> रुद्रो रौतीति सतः रोरूयमाणो द्रवतीति ना रोदयतेर्वा । यदरुदत्तद्रुद्रस्य रुद्रत्वं इति काठकं । यदरोदीत्तद्रुद्रस्य रुद्रत्वं इति हारिद्रविकं ॥
+
+> *rudro rautīti sataḥ rorūyamāṇo dravatīti nā rodayatervā | yadarudattadrudrasya rudratvaṃ iti kāṭhakaṃ | yadarodīttadrudrasya rudratvaṃ iti hāridravikaṃ ‖*
+
+(Ni. 10-5)
+
+रुद्रनॆंदरॆ रौति-स्तनयित्नुशब्दं करोति (*rudranèṃdarè rauti-stanayitnuśabdaṃ karoti*): Rudra is one who makes a sound like the thunder of a cloud; or रोरूयमाणो द्रवति (*rorūyamāṇo dravati*): one who moves swiftly while roaring; or रोदयतेः (*rodayateḥ*): one who makes enemies weep; and so on. In the Ṛgveda Rudra is not an influential deity, but in the Yajurveda, the Purāṇas and the like Rudra is regarded as a very important deity.
+
+*[Kannada text note: the supplied text prints the two lines of the Nirukta quotation with a hyphenated line break (ಯದರು- / ದತ್ತ…); joined in kn.md as one block. The prose Sanskrit quotations of this page and the previous one were made `>` blocks with the reference on its own line.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+> भगं॒ धियं॑ वा॒जयं॑तः॒ पुरं॑धिं॒ नरा॒शंसो॒ ग्नास्पति॑र्नो अव्याः ।
+> आ॒ये वा॒मस्य॑ संग॒थे र॑यी॒णां प्रि॒या दे॒वस्य॑ सवि॒तुः स्या॑म ॥ १० ॥
+
+**॥ पदपाठः ॥**
+
+> भगं । धियं । वाजयंतः । पुरंधिं । नराशंसः । ग्नापतिः । नः । अव्याः ।
+> आअये । वामस्य । संगथे । रयाणां । प्रियाः । देवस्य । सविशुः । स्याम ॥ ११॥
+
+> *bhagaṃ | dhiyaṃ | vājayaṃtaḥ | puraṃdhiṃ | narāśaṃsaḥ | gnāpatiḥ | naḥ | avyāḥ |*
+> *āaye | vāmasya | saṃgathe | rayāṇāṃ | priyāḥ | devasya | saviśuḥ | syāma ‖ 11‖*
+
+*[Note: the supplied text prints the number 11 after the Pada, against 10 after the Saṃhitā, and reads ग्नापतिः (*gnāpatiḥ*) in the Pada against ग्नास्पतिः (*gnāspatiḥ*) in the Saṃhitā, रयाणां (*rayāṇāṃ*) against रयीणां (*rayīṇāṃ*) and सविशुः (*saviśuḥ*) against सवितुः (*savituḥ*); all kept as supplied, to be settled by the user.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> भगं भजनीयं धियं ध्यातव्यं पुरंधिं पुरस्य धारयितारं बहुप्रज्ञं वा
+> सवितारं ॥ पुरंधिर्बहुधिरिति यास्कः ॥ वाजयंतो वाजिनं बलिनं कुर्वतः ॥ विभक्ति
+> व्यत्ययः ॥ नः स्तुवतोऽस्मान् नराशंसो नरैः शंसनीयो ग्नास्पतिर्देवपत्नीनां
+> पतिश्चंदसां पतिर्वा ॥ तथा च श्रूयते छंदांसि वै ग्ना इति उत ग्ना व्यंतु देवपत्नीः । ऋग्वे. ५-४६-८ । इति च ॥ सविताव्याः । अव्यात् । किंच वामस्य धनस्य
+
+> *bhagaṃ bhajanīyaṃ dhiyaṃ dhyātavyaṃ puraṃdhiṃ purasya dhārayitāraṃ bahuprajñaṃ vā*
+> *savitāraṃ ‖ puraṃdhirbahudhiriti yāskaḥ ‖ vājayaṃto vājinaṃ balinaṃ kurvataḥ ‖ vibhakti*
+> *vyatyayaḥ ‖ naḥ stuvato 'smān narāśaṃso naraiḥ śaṃsanīyo gnāspatirdevapatnīnāṃ*
+> *patiścaṃdasāṃ patirvā ‖ tathā ca śrūyate chaṃdāṃsi vai gnā iti uta gnā vyaṃtu devapatnīḥ | ṛgve. 5-46-8 | iti ca ‖ savitāvyāḥ | avyāt | kiṃca vāmasya dhanasya*
+
+### Printed p. 367
+
+*[Running head, p. 367: A. 2, A. 8, Va. 3, Ṛgvedasaṃhitā.]*
+
+> रयीणां पशूनां च ॥ तथा च श्रूयते पशवो वै रयिरिति ॥ आय आगमने
+> संगथे संगमने च निमित्ते देवस्य द्योतमानस्य सवितुः प्रेरकस्य वयं प्रियाः
+> स्याम । भवेम ॥
+
+*Gist: Savitṛ, worthy of worship and of meditation, very wise, praised by men and guardian of the gods' wives, is to protect us; may we be dear to him for gaining wealth and cattle.*
+
+*[Note: a label सायणभाष्यं (*sāyaṇabhāṣyaṃ*) was inserted in kn.md before the bhāṣya, the bhāṣya block was split from the Pada block, and a hyphenated line break (ದೇವ- / ಪತ್ನೀಃ) was joined; the bhāṣya, split by the page break, is placed as two blocks.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+भगं (*bhagaṃ*)—the worshipful; धियं (*dhiyaṃ*)—worthy of meditation; पुरंधिं (*puraṃdhiṃ*)—and all-wise Savitṛ; वाजयंतः (*vājayaṃtaḥ*)—worshipping (him); नः (*naḥ*)—us; नराशंसः (*narāśaṃsaḥ*)—the one praised by men; ग्नास्पतिः (*gnāspatiḥ*)—the protector of the gods' wives, Savitṛ; अव्याः (*avyāḥ*)—may he protect. वामस्य (*vāmasya*)—of wealth (and); रयीणां (*rayīṇāṃ*)—of cattle; आये (*āye*)—for the gain; संगथे (*saṃgathe*)—for the accumulation; देवस्य (*devasya*)—of the divine; सवितुः (*savituḥ*)—to Savitṛ; प्रियाः (*priyāḥ*)—(we) as beloved ones; स्याम (*syāma*)—may we be.
+
+**भावार्थ (Bhāvārtha)**
+
+May Savitṛ, who is praised by men and is the protector of the gods' wives, protect us who worship the worshipful, meditation-worthy, all-knowing Savitṛ. May we be beloved of the divine Savitṛ, for the gain and the accumulation of wealth and cattle.
+
+**Printed English translation**
+
+May he, who is adored by men, the protector of the wives (of the gods), preserve us; when worshipping him, who is auspicious, the object of meditation, and the all-wise : may we be the beloved of the divinc [sic] Savitri, that we may (thence be successful) in accumulation of wealth and the acquisition of cattle.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+पुरंधिं— पुरस्य धारयितारं बहुप्रज्ञं वा (*puraṃdhiṃ— purasya dhārayitāraṃ bahuprajñaṃ vā*) ।—One who holds and nourishes our cities (puras). Or, since the word धी (*dhī*) also means wisdom, Purandhi is also understood as one possessed of much wisdom. Yāska has given the explanation of the word Purandhi as पुरंधिर्बहुधीः (*puraṃdhirbahudhīḥ*) (Ni. 6-13). The meaning is one of abundant intelligence, a discerning person.
+
+नराशंसः—नरैः शंसनीयः (*narāśaṃsaḥ—naraiḥ śaṃsanīyaḥ*) ।—One praised by men. There is also a separate deity Narāśaṃsa. This deity is said to be a transformation of Agni. A detailed account of this deity we have given in the Āprī-sūktas (see Ṛ. Saṃ. part 8, page 546).
+
 ---
 
-**Progress note:** Done through printed p. 364 (PDF 364). Sukta 38 Rk 9 Special Topics continued (Varuna: waters, ordinances, noose, forgiveness; Aryaman begun), pp. 362-364; text ends mid-sentence on p. 364 (Bhaga,); flags: 6 Sanskrit quotations made > blocks (refs on own line), Taittiriya quotations inline, ma. for r. kept as supplied, colon between refs 1-25-11 and 6-74-4 changed to semicolon in kn.md, ref 4--4-9-2 printed with two hyphens
+**Progress note:** Done through printed p. 367 (PDF 367). Sukta 38: Special Topics of Rk 9 finished (Aditya numbers, Aryaman, Rudra); Rk 10 complete incl. Special Topics begun (Purandhi, Narashamsa), text ends p. 367 after Narashamsa; flags: 6 Sanskrit quotations made > blocks, ma. for r. kept as supplied, Pada numbered 11 vs Samhita 10 and Pada readings gnapatih/rayanam/savishuh differ from Samhita, Rk 10 label inserted in kn.md
