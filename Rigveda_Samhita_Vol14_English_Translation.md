@@ -32467,6 +32467,102 @@ O Indra, protect us with your protections. You protect from enemies the men who 
 
 *(The bhāṣya of this Ṛk breaks off at the end of printed p. 859 with अत्र (*atra*) and continues on the next page.)*
 
+### Printed p. 860
+
+*(Header: "860 Sāyaṇabhāṣyasahitā [Maṃ. 2. A. 2. Sū. 20]".)*
+
+> पृथग्निर्देशः । एवमयं यजमानमूती ऊत्या रक्षणेन प्रनेषत् ॥ नयतेर्लेटि
+> सिब्बहुलमिति सिप् । अडागमः । तिजि चोदात्तवतीति गतेर्निघातः ॥ कर्मणां पारं
+> प्रापयेत् ॥
+
+*Gist: Indra, being young, a friend and auspicious, is the protector of us men; he leads the sacrificer who praises, cooks and chants to the end of the rite.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यः (*yaḥ*)—the Indra who; शंसंतं (*śaṃsaṃtaṃ*)—the one who praises; शशमानं (*śaśamānaṃ*)—who is engaged in the rite; पचंतं (*pacaṃtaṃ*)—who cooks the oblations; स्तुवंतं (*stuvaṃtaṃ*)—who recites the Sāmans: him, the sacrificer; ऊती (*ūtī*)—by his protections; प्रनेषत् (*praneṣat*)—brings to the end of the rite and makes a sharer in the rite; such; युवा (*yuvā*)—young; जोहूत्रः (*johūtraḥ*)—called by all; सखा (*sakhā*)—a friend; शिवः (*śivaḥ*)—a giver of happiness; स इंद्रः (*sa iṃdraḥ*)—that Indra; नरां (*narāṃ*)—we who are leaders of the rite; नः (*naḥ*)—to us; पाता (*pātā*)—as protector; अस्तु (*astu*)—may he be.
+
+**भावार्थ (Bhāvārtha)**
+
+May that Indra be protector of us, the leaders of the rite: he who, with his protections, brings the sacrificer who praises, is engaged in the rite, cooks the oblations and recites the Sāmans to the end of the rite and makes him a sharer in it; who is young, called by all, a friend, and a giver of happiness.
+
+**English Translation (as printed)**
+
+May that young, adorable Indra, ever be the friend, the benefactor, and protector of us, his worshippers; who, with his protection, may conduct(to the object of his worship) him who repeats(to him) prayer and praise, who prepares the oblation, and recites(his) commendations.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+युवा—तरुणो यष्टाणां फलस्य शमयिता वा । (*yuvā—taruṇo yaṣṭāṇāṃ phalasya śamayitā vā |*) For the word युवा (*yuvā*) two senses are given: a young man, or one who gives fruits and the like to those who worship him by sacrifices and so on.
+
+जोहूत्रः—स्तोतृभिराह्वातव्यो होतव्यो वा । (*johūtraḥ—stotṛbhirāhvātavyo hotavyo vā |*) One who is to be invoked by the praisers, or one who is to be sacrificed to by oblations and the like. This word is also read in the Ṛks Ṛ. Saṃ. 2-0-1 1-18-9 [?] (the supplied reference is garbled and split by a line break; read here as two parts, as the check parses it).
+
+नरां—कर्मनेतृणामस्माकं । (*narāṃ—karmanetṛṇāmasmākaṃ |*) The meaning is: for us (men) who carry out rites such as sacrifices.
+
+### Printed p. 861
+
+*(Header: "[A. 2. Adhyāya 6. Varga 25] Ṛgvedasaṃhitā 861".)*
+
+तंसंतं—स्तुवंतं । (*taṃsaṃtaṃ—stuvaṃtaṃ |*) (as printed; the headword is शंसंतं (*śaṃsaṃtaṃ*) above) Praising; one who praises the qualities of Indra, or one who recites the śastra mantras.
+
+शशमानं (*śaśamānaṃ*)—The word शशमान (*śaśamāna*) is read among the words for worship-actions (Ni. 3-9). The meaning is: one who worships Indra by sacrifices and the like. And Yāska gives for this word the explanation शशमानः । शशमानः शंसमानः । यो वां यज्ञैः शशमानो ह दाशति (*śaśamānaḥ | śaśamānaḥ śaṃsamānaḥ | yo vāṃ yajñaiḥ śaśamāno ha dāśati*) (Ṛ. Saṃ. 1-151-7), इत्यपि निगमो भवति (*ityapi nigamo bhavati*) (Ni. 6-8). Although the meaning "praising or extolling the qualities" can be given, since this word, as in the example, is connected with rites such as sacrifices, the meaning "praising by rites such as sacrifices" is the fitting one.
+
+#### Ṛk 4
+
+**॥ संहितापाठः ॥**
+
+> तमु॑ स्तुष॒ इन्द्रं॒ तं गृ॑णीषे॒ यस्मि॑न्पु॒रा ना॑वृ॒धुः शा॑श॒दुश्च॑ ।
+> स वस्वः॒ कामं॑ पीपरदिया॒नो ब्र॑ह्मण्य॒तो नूत॑नस्या॒योः ॥
+
+**॥ पदपाठः ॥**
+
+> तं । ऊं इति । स्तुषे । इन्प्रं । तं । गृणीषे । यस्मिन् । पुरा । ववृधुः । शारदुः ।
+> च ।
+> सः । वस्वः । कामं । पीपरत् । इयानः । ब्रह्मण्यतः । नूतनस्य । आयोः ॥ ४ ॥
+
+> *taṃ | ūṃ iti | stuṣe | inpraṃ | taṃ | gṛṇīṣe | yasmin | purā | vavṛdhuḥ | śāraduḥ |*
+> *ca |*
+> *saḥ | vasvaḥ | kāmaṃ | pīparat | iyānaḥ | brahmaṇyataḥ | nūtanasya | āyoḥ ‖ 4 ‖*
+
+*(The supplied Saṃhitā has नावृधुः (*nāvṛdhuḥ*) and शाशदुश्च (*śāśaduśca*) where the Pada has ववृधुः (*vavṛdhuḥ*) and शारदुः (*śāraduḥ*), the bhāṣya वावृधुः (*vāvṛdhuḥ*) and शाशदुश्च (*śāśaduśca*), the Pratipadārtha वावृधुः (*vāvṛdhuḥ*) and शाकदुः (*śākaduḥ*), and the Special Topics ववृधुः (*vavṛdhuḥ*) and शापदुः (*śāpaduḥ*); the Saṃhitā label was lost in the supplied text and is given in standard form.)*
+
+**॥ सायणभाष्यम् ॥**
+
+> तमु तमेवेंद्रं स्तुषे । स्तौमि । तथा तमिंद्रं गृणीषे । शंसामि ॥ उभ-
+> यत्र पुरुषव्यत्ययः । यस्मिन्निंद्रॆ पुरा पूर्वं स्तोतारो वावृधुः । प्रवृद्धा
+> अभवन् । शाशदुश्च । शत्रुन् हिंसितवंतश्च ॥ शद्लृ शातने । लिट तुजादीनामित्यभ्या-
+> सस्य दीर्घः ॥ इयानः स्तोतृभिर्याच्यमानः स इंद्रो ब्रह्मण्यतः स्तोत्रमिच्छतो
+> नूतनस्यायोर्मनुष्यस्य यजमानस्य वस्वो वसुनः काममभिलाषं पीपरत् ।
+> अभिलषितफलदानेन पूरयतु ॥
+
+*Gist: I praise that same Indra, in whom earlier praisers prospered and slew enemies; asked by praisers, may he fulfil the wish for wealth of the present pious man.*
+
+### Printed p. 862
+
+*(Header: "862 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 20]".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+यस्मिन् (*yasmin*)—in the shelter of which Indra; पुरा (*purā*)—formerly; वावृधुः (*vāvṛdhuḥ*)—(the praisers) obtained growth; च (*ca*)—and; शाकदुः (*śākaduḥ*)—became destroyers of enemies: such; तमु इंद्रं (*tamu iṃdraṃ*)—that very Indra; स्तुषे (*stuṣe*)—I praise; तं (*taṃ*)—him alone; गृणीषे (*gṛṇīṣe*)—I extol; इयानः (*iyānaḥ*)—asked by the praisers; सः (*saḥ*)—that Indra; ब्रह्मण्यतः (*brahmaṇyataḥ*)—the praiser; नूतनस्य (*nūtanasya*)—and new; आयोः (*āyoḥ*)—of the man (the sacrificer); वस्वः कामं (*vasvaḥ kāmaṃ*)—the desire for wealth; पीपरत् (*pīparat*)—may he fulfil.
+
+**भावार्थ (Bhāvārtha)**
+
+I praise that very Indra in whose shelter the praisers formerly obtained growth and became destroyers of enemies; I extol him alone. May Indra, asked by the praisers, fulfil the desire for wealth of the sacrificer, who is a praiser and a new man.
+
+**English Translation (as printed)**
+
+I laud that Indra, I glorify him, in whom of old(his worshippers)
+prospered, and overcame(their enemies): may he, when solicited, gratify
+the desire of wealth of his present pious adorer.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+उ—अथाप्युकार एतस्मिन्नेवार्थे (*u—athāpyukāra etasminnevārthe*) (Ni. 1-5). Yāska's explanation is that the particle उ (*u*) is used in the sense of एव (*eva*) (that very).
+
+यस्मिन् पुरा ववृधुः शापदुः च—यस्मिन्निंद्रे पूर्वं स्तोतारो प्रवृद्धा अभवन् शत्रून् हिंसितवंतश्च । (*yasmin purā vavṛdhuḥ śāpaduḥ ca—yasminniṃdre pūrvaṃ stotāro pravṛddhā abhavan śatrūn hiṃsitavaṃtaśca |*) (as printed) The sacrificers, the praising ṛtvijs and others too, having in the past many times pleased Indra with praises and with rites such as sacrifices, obtained by his favour the desired objects such as wealth and grew; and by Indra's favour alone they also conquered their enemies in battles. The sage describes that he will praise such an Indra.
+
+सः वस्वः कामं पीपरत्—वसुनः काममभिलाषं पूरयतु । (*saḥ vasvaḥ kāmaṃ pīparat—vasunaḥ kāmamabhilāṣaṃ pūrayatu |*) The meaning is: may Indra fulfil the wish for which (the praisers) ask for wealth, the wish they desire for themselves.
+
+इयानः ब्रह्मण्यतः नूतनस्य आयोः (*iyānaḥ brahmaṇyataḥ nūtanasya āyoḥ*)—Since the word आयुः (*āyuḥ*) is read among the names of man (Ni 3-7) [as printed, no full stop], आयोः (*āyoḥ*) means "of a man". नूतनस्य (*nūtanasya*)—of the new, that is, one who now (at the present time) is praising Indra. The chief sense is: may Indra fulfil the desired objects of the man, the sacrificer, who is now (in this sacrifice) praising, asking for what he needs in the matter of wealth.
+
 ---
 
-**Progress note:** Done through printed p. 859 (PDF 859). Sukta 20: Rk 1 Special Topics completed; Rk 2 complete; Rk 3 Samhita and Pada written, bhashya begun (breaks off at 'atra'); Rk 3 Pada label was garbled and normalised
+**Progress note:** Done through printed p. 862 (PDF 862). Sukta 20: Rk 3 bhashya completed with Pratipadartha, Bhavartha, English, Special Topics; Rk 4 Samhita (label restored in kn.md), Pada, bhashya, Pratipadartha, Bhavartha, English, Special Topics complete; one garbled Rik reference marked [?]
