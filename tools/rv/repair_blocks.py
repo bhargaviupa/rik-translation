@@ -24,7 +24,7 @@ def pool(P,p):
     return toks
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('--md'); ap.add_argument('--src',action='append'); ap.add_argument('--first',type=int); ap.add_argument('--last',type=int)
-    ap.add_argument('--apply',action='store_true'); ap.add_argument('--tsv'); a=ap.parse_args()
+    ap.add_argument('--apply',action='store_true'); ap.add_argument('--only',default=''); ap.add_argument('--tsv'); a=ap.parse_args()
     P=html_pages.load_many(a.src); L=open(a.md,encoding='utf8').read().split('\n'); page=None; cache={}; log=[]; stat={'confirmed':0,'changed':0,'left':0,'nomatch':0}
     for i,l in enumerate(L):
         m=re.match(r'### Printed p\. (\d+)',l)
@@ -59,16 +59,25 @@ def main():
             stat[st]+=1
             log.append((i+1,page,st,round(sc),' '.join(old[(rep[0] if rep else jj):(rep[1] if rep else jj+1)]), ' '.join(rep[2]) if rep else ''))
         if a.apply:
-            for j,jj,st,rep in sorted(edits,key=lambda e:-e[0]):
-                if st=='confirmed':
-                    new[j]=new[j].replace('[?]','').strip() or None
-                elif st=='changed':
-                    i1,i2,w=rep; new[i1:i2]=[' '.join(w)]+[None]*0; 
-                    # remove the [?] token that followed (index shifted): handled by cleanup below
-            new=[t for t in new if t]
-            out=' '.join(t for t in new)
-            if any(e[2]=='changed' for e in edits): out=re.sub(r'\s*\[\?\]','',out,count=0) if all(e[2]!='left' for e in edits) else out
-            L[i]='> '+out
+            sel=[e for e in edits if e[2]=='confirmed' or (a.only!='confirmed' and e[2]=='changed')]
+            if sel:
+                # IAST block paired with this Devanagari block: the line with the same index after the block
+                a0=i
+                while a0>0 and L[a0-1].startswith('> ') and not L[a0-1].startswith('> *'): a0-=1
+                b0=i
+                while b0<len(L) and L[b0].startswith('> ') and not L[b0].startswith('> *'): b0+=1
+                ii=(b0+1+(i-a0)) if (b0+1<len(L) and L[b0]=='' and L[b0+1].startswith('> *')) else None
+                itok=L[ii][2:].split() if ii is not None else None
+                for j,jj,st,rep in sorted(sel,key=lambda e:-e[0]):
+                    if st=='confirmed':
+                        if old[j]=='[?]': new[j]=None
+                        else: new[j]=new[j].replace('[?]','')
+                        if itok is not None and len(itok)==len(old) and '[?]' in itok[j]:
+                            itok[j]=None if itok[j]=='[?]' else itok[j].replace('[?]','')
+                    else:
+                        i1,i2,w=rep; new[i1:i2]=[' '.join(w)]+[None]*(i2-i1-1)
+                L[i]='> '+' '.join(t for t in new if t)
+                if itok is not None and len(itok)==len(old): L[ii]='> '+' '.join(t for t in itok if t)
     print(stat)
     if a.tsv: open(a.tsv,'w',encoding='utf8').write('\n'.join('\t'.join(map(str,r)) for r in log)+'\n')
     if a.apply: open(a.md,'w',encoding='utf8').write('\n'.join(L))
