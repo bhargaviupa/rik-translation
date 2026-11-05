@@ -6823,6 +6823,139 @@ May the javelin of Rudra avoid us : may the great displeasure of the radiant dei
 > *eva | babhro iti | vṛṣabha | cekitāna | yathā | deva | hṛṇīṣe | na | haṃsi |*
 > *havanaśrut | naḥ | rudra | iha | bodhi | bṛhat | vadema | vidathe | suvīrāḥ ‖ 15 ‖*
 
+### Printed p. 223
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 18, p. 223.*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे बभ्रो जगतो भर्तर्बभ्रुवर्ण वा वृषभ कामानां वर्षितः चेकितान
+> सर्वं जानन् हे देव द्योतमान रुद्र यथा येन प्रकारेण न हृणीषे न क्रुध्यसि
+> न च हंसि ॥ हृणीज् लज्जायां अयं क्रुध्यतिकर्मा च ॥ एवं हवनश्रुत् अस्मदीय-
+> माह्वानं शृण्वन् नोऽस्मान् हे रुद्र इहास्मिन्देशे बोधि । बुध्यस्व । विदथे यज्ञे
+> गृहे वा सुवीराः शोभनपुत्राः संतो बृहत् प्रौढं त्वदीयं स्तोत्रं वदेम ।
+> उच्चारयाम ॥
+
+> *he babhro jagato bhartarbabhruvarṇa vā vṛṣabha kāmānāṃ varṣitaḥ cekitāna*
+> *sarvaṃ jānan he deva dyotamāna rudra yathā yena prakāreṇa na hṛṇīṣe na krudhyasi*
+> *na ca haṃsi ‖ hṛṇīj lajjāyāṃ ayaṃ krudhyatikarmā ca ‖ evaṃ havanaśrut asmadīya-*
+> *māhvānaṃ śṛṇvan no 'smān he rudra ihāsmindeśe bodhi | budhyasva | vidathe yajñe*
+> *gṛhe vā suvīrāḥ śobhanaputrāḥ saṃto bṛhat prauḍhaṃ tvadīyaṃ stotraṃ vadema |*
+> *uccārayāma ‖*
+
+Gist: Rudra, bearer of the world, showerer and all-knowing, is asked to hear the invocation, not to be angry or slay, and to know the sacrificers who will praise him with fine sons; the grammatical remark is on the root *hṛṇīj* (shame; here "be angry").
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Babhro—O bearer of the whole world; vṛṣabha—showerer of desires; cekitāna—all-knowing; deva—radiant; rudra—O Rudra; yathā—in whatever way; na hṛṇīṣe—you are not angry (with us); na ca haṃsi—and do not slay us in wrath (in that way); havanaśrut—as hearer of our invocation; naḥ—us; iha—in this sacrificial place; bodhi—know; vidathe—in the sacrificial house; suvīrāḥ—we, accompanied by excellent heroic sons; bṛhat—your mature praise; vadema—we recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, bearer of the whole world, showerer of desires, all-knowing and radiant: in the way in which you are not angry with us and do not slay us in wrath, hear our invocation and know us in this sacrificial place. In the sacrificial house, accompanied by heroic sons, we recite your mature praise.
+
+**Printed English translation**
+
+Cherisher of the world, showerer (of benefits), omniscient and divine (Rudra), hearer of our invocation, so consider us on this occasion, that you may not be irate, nor slay us, but that, blessed with excellent descendants, we may worthily glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Rudra with the words बभ्रो (*babhro*), वृषभ (*vṛṣabha*), चेकितान (*cekitāna*) and देव (*deva*), the commentary describes his greatness: he rules the whole world as its lord; he fulfils the desires of those who serve him; he knows everything and is all-knowing; he shines with lustre or brilliance [the supplied text reads "ನರ್ಣಿಸಿ" for "describing"; I take it as *varṇisi*, as supplied]. As to the sacrificers, यथा न हृणीषे न च हंसि (*yathā na hṛṇīṣe na ca haṃsi*)—the god is not angry and does not cause destruction; नः हवनश्रुत् बोधि (*naḥ havanaśrut bodhi*)—we sacrificers pray that, hearing the invocation we make in the sacrifices, he may know us rightly; and विदथे सुवीराः बृहत् वदेम (*vidathe suvīrāḥ bṛhat vadema*)—in sacrifices and in houses, with our sons of good qualities, we shall recite the mature praises of this god. So it is explained.
+
+### Printed p. 224
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 34, p. 224.*
+
+## Sūkta 34 (Maṇḍala 2)
+
+*The thirty-fourth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> धारावरा इति पंचदशर्चं द्वितीयं सूक्तं गार्त्समदं मारुतं । अंत्या
+> त्रिष्टुप् शिष्टा जगत्यः । तथा चानुक्रांतं । धारावरा मारुतं त्रिष्टुबंतमिति ॥
+> पृष्याभिप्लवषडहयोस्तृतीयेऽहन्याग्नि मारुतशस्त्रस्येदं मारुतनिविद्वानं । सूत्रि-
+> तं च । वैश्वानराय धिषषां धारावरा मरुतस्त्वमग्ने प्रथमो अंगिरा इत्याग्नि-
+> मारुतं । आ. ७-७. । इति ॥
+
+*Gist:* the second sūkta of the fourth anuvāka, of fifteen ṛks, of the Gārtsamada seer, for the Maruts; the last ṛk in *triṣṭubh*, the rest in *jagatī*; the Anukramaṇī is quoted, and the use at the third day of the Pṛṣṭhya and Abhiplava ṣaḍahas, in the Āgnimāruta recitation, is cited from the Āśvalāyana Śrauta-sūtra (7-7).
+
+**Anuvāda (Kannada).** This sūkta beginning धारावरा (*dhārāvarā*) is the second sūkta in the fourth anuvāka. It has fifteen ṛks. Gṛtsamada is the seer of this sūkta; the Maruts are the deity; the last ṛk is in *triṣṭubh* metre, the remaining ṛks in *jagatī* metre. What the Anukramaṇikā says—धारावरा मारुतं त्रिष्टुबंतमिति (*dhārāvarā mārutaṃ triṣṭubaṃtamiti*)—is explained: on the third day of the sacrifices called Pṛṣṭhya [as supplied: "ಸೃಷ್ಟ್ಯ"] and Abhiplava-ṣaḍaha, at the beginning of the recitation of the Āgnimāruta-śastra mantras, this sūkta is to be used for the nivid mantras, as set out by the Āśvalāyana Śrauta-sūtra sūtra वैश्वानराय धिषणां धारावरा (*vaiśvānarāya dhiṣaṇāṃ dhārāvarā*) मरुतस्त्वमग्ने प्रथमो अंगिरा इत्याग्निमारुतं (*marutastvamagne prathamo aṃgirā ityāgnimārutaṃ*) (Ā. 7-7).
+
+**Sūkta 34** — Maṇḍala 2, Anuvāka 4, Sūkta 34; Aṣṭaka 2, Adhyāya 7, Vargas 19, 20, 21. Number of ṛks in the sūkta: 15. Seer: Gṛtsamada. Deity: the Maruts. Metre: Ṛks 1–14 *jagatī*; Ṛk 15 *triṣṭubh*.
+
+### Printed p. 225
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 19, p. 225.*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> धा॒रा॒व॒रा म॒रुतो॑ धृ॒ष्ट्वो॑ जसो मृ॒गा न भी॒मास्तवि॑षीभिर॒र्चिनः॑।
+> अ॒ग्नयो॒ न शु॑शुचा॒ना ऋ॑जी॒षिणो॒ भृमिं॒ धमं॑तो॒ अप॒ गा॑
+> अवृण्वत ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> धारावराः । मरुतः । धृष्णुओजसः । मृगाः । न । भीमाः । तविषीभिः । अर्चिनः ।
+> अग्नयः । न । शुशुचानाः । ऋजीषिणः । भृमिं । धमंतः । अप । गाः । अवृण्वत ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> धारावरा उदकधारयांतरिक्षमावृण्वंतः । यद्वा धाराणां धृतानां
+> स्थिराणां वृक्षादीनां निवारयितारश्चालायितारः । धृष्ट्वोऽजसः परेषां धर्षकेण
+> बलेन युक्ताः । आत एव मृगा न भीमाः । सिंहा इव भयंकराः । तविषीभिरात्मीय्यै-
+> र्बलैर्वृष्टिप्रदानादिनार्चिनः सर्वं जगत्पूजयंतः । अग्नयो न शुशुचाना दीप्ता
+> वह्नय इव दीप्यमानाः ॥ शुच दीप्तौ । लिटः कानच् ॥ ऋजीषिणः । ऋजीषमुदकं
+> तद्वंतः । यद्वा ऋजीषोऽपगतसारः सोमः । तेन युक्ताः । तृतीयसवने
+> ह्याग्निमारुते मरुतः स्तूयंते । तत्र च सवनद्वयेऽभिसुतं गतसारं सोममभि-
+> षुण्वंति । अतस्तेषां तद्युक्तत्वं । एवंभूता मरुतो भृमिं भ्राम्यंतं मेघं
+> धमंतो वर्षणार्थमितस्ततः प्रेरयंतो गास्तदंतर्गता वर्ष्या अपोऽपावृण्वत ।
+> अपावृताः कुर्वंति यथा सर्वैदृश्यंते तथा प्रवर्षंतीत्यर्थः । यद्वा
+> भृम्याख्यो वीणाविशेषः । तं धमंतो वादयंतो गा वलनाम्मा सुरेणापिहिता
+> अपावृण्वत । अपगतावरणा अकुर्वन् ॥
+
+> *dhārāvarā udakadhārayāṃtarikṣamāvṛṇvaṃtaḥ | yadvā dhārāṇāṃ dhṛtānāṃ*
+> *sthirāṇāṃ vṛkṣādīnāṃ nivārayitāraścālāyitāraḥ | dhṛṣṭvo 'jasaḥ pareṣāṃ dharṣakeṇa*
+> *balena yuktāḥ | āta eva mṛgā na bhīmāḥ | siṃhā iva bhayaṃkarāḥ | taviṣībhirātmīyyai-*
+> *rbalairvṛṣṭipradānādinārcinaḥ sarvaṃ jagatpūjayaṃtaḥ | agnayo na śuśucānā dīptā*
+> *vahnaya iva dīpyamānāḥ ‖ śuca dīptau | liṭaḥ kānac ‖ ṛjīṣiṇaḥ | ṛjīṣamudakaṃ*
+> *tadvaṃtaḥ | yadvā ṛjīṣo 'pagatasāraḥ somaḥ | tena yuktāḥ | tṛtīyasavane*
+> *hyāgnimārute marutaḥ stūyaṃte | tatra ca savanadvaye 'bhisutaṃ gatasāraṃ somamabhi-*
+> *ṣuṇvaṃti | atasteṣāṃ tadyuktatvaṃ | evaṃbhūtā maruto bhṛmiṃ bhrāmyaṃtaṃ meghaṃ*
+> *dhamaṃto varṣaṇārthamitastataḥ prerayaṃto gāstadaṃtargatā varṣyā apo 'pāvṛṇvata |*
+> *apāvṛtāḥ kurvaṃti yathā sarvaidṛśyaṃte tathā pravarṣaṃtītyarthaḥ | yadvā*
+> *bhṛmyākhyo vīṇāviśeṣaḥ | taṃ dhamaṃto vādayaṃto gā valanāmmā sureṇāpihitā*
+> *apāvṛṇvata | apagatāvaraṇā akurvan ‖*
+
+Gist: the Maruts are explained as water-streamed encirclers of the sky, or movers of firm trees; mighty like lions; filled with rain-water or with soma; they blow the wandering cloud and release its rain; alternatively they play the *bhṛmi* lute and release the cows hidden by the Asura.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Dhārāvarāḥ—those who envelop the sky with streams of water, or who make firmly standing trees and the like move; dhṛṣṇvojasaḥ [as supplied: धृष्णोऽजसः (*dhṛṣṇo 'jasaḥ*)]—those with strength that crushes enemies; mṛgā na—like lions; bhīmāḥ—of fearful form; taviṣībhiḥ—by their own powers; arcinaḥ—who honour the world; agnayo na—like blazing fires; śuśucānāḥ—shining; [rjīṣiṇaḥ—possessing water (the supplied text reads यजीषिणः (*yajīṣiṇaḥ*) here, while the Saṃhitā and Pada have ऋजीषिणः (*ṛjīṣiṇaḥ*))]; marutaḥ—the Maruts; bhṛmiṃ—the wandering clouds;
+
+### Printed p. 226
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 34, p. 226.*
+
+dhamantaḥ—urging on for rain; gāḥ—the waters contained in them; apa avṛṇata [as supplied; the Saṃhitā has अवृण्वत (*avṛṇvata*)]—cause to pour down in the form of rain.
+
+**भावार्थ (Bhāvārtha)**
+
+The Maruts, who make firmly standing trees and the like move, who have strength that crushes enemies, who are fearful in form like lions, who honour the world by their own powers, who shine like blazing fires and who possess water, urge the wandering clouds on for rain and cause the waters within them to pour down as rain.
+
+**Printed English translation**
+
+The Maruts, shedders of showers, endowed with resistless might, like formidable lions, reverencing (the world) by their energies, resplendent as fires, laden with water, and blowing about the wandering cloud, give vent to its (collected) rain.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+धारावराः (*dhārāvarāḥ*)—the commentary explains the word in three ways, citing उदकधारया अंतरिक्षमावृण्वंतः (*udakadhārayā aṃtarikṣamāvṛṇvaṃtaḥ*) and the alternatives. The Maruts pervade the sky with streams of rain-water (drops falling without interval in one even manner); or they make firmly standing trees and the like move; or they, by their own power, protect and bear the whole world.
+
+धृष्ट्वोऽजसः मृगा न भीमाः (*dhṛṣṭvo 'jasaḥ mṛgā na bhīmāḥ*)—endowed with a force that overcomes enemies, and therefore fearful like lions; the might of the Maruts is compared with the might of the lion.
+
+तविषीभिः अर्चिनः (*taviṣībhiḥ arcinaḥ*)—by their own strength, through the rain-waters they bestow, they make the whole world worthy of worship (of praise). अग्नयो न शुशुचानाः (*agnayo na śuśucānāḥ*)—shining abundantly with splendour, like blazing fires. So it is described.
+
 ---
 
-**Progress note:** Done through printed p. 222 (PDF 222). Sūkta 33 Ṛk 14 complete (Pada, bhāṣya, Special Topics); Ṛk 15 Saṃhitā and Pada only (bhāṣya follows on p. 223). As supplied: Latin 'v' in bhāṣya ಯಜಮಾನೇಭ್ಯೋvವತನುಷ್ಟ (avagraha), Special Topics spellings ಶ್ವೇಷಸ್ಯ/ಮಾಢ್ವಃ/ಶೋಕಾಯ vs Saṃhitā, Pada ಮಘವತ್ಽಭ್ಯಃ/ತನುಷ್ಪ/ಮಾಢ್ವಃ; 'Englis Translation.' label fixed
+**Progress note:** Done through printed p. 226 (PDF 226). Sūkta 33 Ṛk 15 complete; Sūkta 34 introduction and Ṛk 1 complete (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, Special Topics). Page 224 marker inserted by hand (merged into p. 223 text). As supplied: ನರ್ಣಿಸಿ (p. 223), ಸೃಷ್ಟ್ಯ for Pṛṣṭhya, bhāṣya ಆತ್ಮೀಯ್ಯೈ, Pratipadārtha ಯಜೀಷಿಣಃ/ಅವೃಣತ vs Saṃhitā ಋಜೀಷಿಣಃ/ಅವೃಣ್ವತ; Saṃhitā line 2 of Ṛk 1 had accent mismatches (2 DIFF, 1 NOMATCH)
