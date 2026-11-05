@@ -21049,6 +21049,99 @@ Of the ten Āprī sūktas in the Ṛgveda this is the fifth. Those born in the g
 ⟦ಅಗ್ನೇ ಸಮಿತ್ಸಮಿತ್ ಸುಮನಾಃ ಬೋಧಿ— ಹೇ ಅಗ್ನೇ ಅತ್ಯರ್ಥಂ ಸಮಿದ್ಧಸ್ತ್ವಂ ಅಸ್ಮದ್ವಿಷಯೇ
 ಕಲ್ಯಾಣಮನಾಃ ಬುಧ್ಯಸ್ವ ।⟧ O Agni, you who are well kindled and shine with great brightness, show a mind of favour towards us. The purport is: do not be indifferent towards us, but show a mind of favour. The word samit is read twice. Words that are read twice (vīpsā) indicate the sense "many times", as the word divedive has the sense "every day". Therefore the word samit samit, with its double repetition, may be given the meaning "kindled again and again", or "kindled and shining exceedingly". Generally in the first Ṛk of the Āprī sūktas, when Agni, the deity of that Ṛk, is designated, the word samiddhaḥ is used (the supplied text breaks off here in the middle of the Kannada word ಉಪಯೋಗಿಸುವುದ…, "is us…").
 
+### Printed p. 677
+
+*[Running head, p. 677: Aṣṭaka 2 (printed ಅ. ೨. ಆ. ಲ. ವ. ೨೨., apparently a misprint), Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+*[Join with the previous window: it ended at the foot of p. 676 with the Kannada "…ಉಪಯೋಗಿಸುವುದ" ("is us…"). The first word of p. 677 is ರೂಢಿಯಾಗಿದೆ ("is the custom"), so the sentence reads: "…the use of the word samiddhaḥ is the custom." The break falls inside the word; nothing is supplied beyond that.]*
+
+is the custom. But in the present Ṛk the doubly-read word samitsamit is used. For in each pāda of this Ṛk one word is read twice to make a rhyme. Therefore in the first pāda "samit samit", in the second "śucāśucā", in the third "deva devān", and in the fourth "sakhā sakhīn" are read, and the Ṛk is thus made rhyming. This shows the compositional skill of the seer of the Maṇḍala, Viśvāmitra.
+
+शुचाशुचा वस्वः सुमतिं अस्मे रासि—अत्यर्थं प्रसर्पकेण ज्योतिषा युक्तस्त्वं धनस्य विषयां शोभनां बुद्धिं देहि । (*śucāśucā vasvaḥ sumatiṃ asme rāsi—atyarthaṃ prasarpakeṇa jyotiṣā yuktastvaṃ dhanasya viṣayāṃ śobhanāṃ buddhiṃ dehi |*) — O Agni, you who spread everywhere and shine with the most brilliant radiance, give us good sense concerning wealth. The word vasu is read among the names of wealth (Ni. 3-9). For the word sumati Yāska has given the meaning kalyāṇī mati (Ni. 2-12). The word asme is used in the meanings of all seven cases. We have explained this at length before, with examples. Here the sense of the dative is given for this word.
+
+⟦ದೇವ ದೇವಾನ್ ಯಜನಾಯ ಆ ವಕ್ಷಿ—ಹೇ ದ್ಯೋತಮಾನ ಯಜನೀಯಾನ್ ದೇವಾನ್
+ಯಜ್ಞಾರ್ಥಂ ಆ ವಹಸಿ ।⟧ — O shining Agni, bring the gods worthy of sacrifice to this sacrifice that we are performing, to receive the oblation.
+
+⟦ಸಖಾ ಸುಮನಾಃ ಸಖೀನ್ ಯಕ್ಷಿ—ಹೇ ಅಗ್ನೇ ದೇವಾನಾಂ ಸಖಾ ತ್ವಂ ಸುಮನಾಃ ಸನ್
+ಸಖಿಭೂತಾನ್ ದೇವಾನ್ ಯಜಸ್ವ ।⟧ — O Agni, friend of the gods, with an excellent mind perform the sacrifice here to your friends, the gods. To "sacrifice to the gods" here means: take the oblations and the like that we, the sacrificers, offer to the gods in you (Agni) in this sacrifice we are performing, to the respective gods and offer them.
+
+समिद्धः—सम्यग्दीपितः एतन्नामकः त्वं । (*samiddhaḥ—samyagdīpitaḥ etannāmakaḥ tvaṃ |*) Sāyaṇa explains: you who are famous by the name Samiddhaḥ. The kindled Agni, who holds the first place in the Āprī sūkta, is meant.
+
+⟦ಇಧ್ಮೋ ಯಃ ಸರ್ವಮೇವಾಗ್ನಿರಯಂ ಹೀಧ್ಮಃ ಸಮಿಧ್ಯತೇ ।
+ಧ್ಮಾತೇರ್ವೈ ತತ್ಕೃತಂ ರೂಪಂ ಧ್ಮಾತೋ ಹೀಧ್ಮಃ ಸಮಿಧ್ಯತೇ ॥⟧
+(printed ಬೃ. ದೇ. 2-188)
+
+Here the identity of the firewood idhma and the all-pervading Agni is stated. The word idhma is derived from the root dhmā (to blow): it gets this name because it blazes after being blown. The author of the Bṛhaddevatā
+
+### Printed p. 678
+
+*[Running head, p. 678: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 4.]*
+
+has given the derivation of the words idhma and samiddha. This derivation follows the explanation of the Nirukta authors. In the Nirukta too,
+
+शासामिध्मः प्रथमागामी भवति । इद्मः समिंधनात् । (*śāsāmidhmaḥ prathamāgāmī bhavati | idmaḥ samiṃdhanāt |*)
+(printed ನಿ. 8-5)
+
+it is said regarding the first deity of the Āprī sūkta. In the Taittirīya Brāhmaṇa too, at the beginning of the Praiṣa sūkta,
+
+⟦ಹೋತಾ ಯಕ್ಷದಗ್ನಿಗ್ಂ ಸಮಿಧಾ ಸಮಿದ್ಧಂ ಸುಷಮಿಧಾ ನಾಭಾ ಪ್ರಥಿವ್ಯಾಃ ಸಂಗಥೇ
+ವಾಮಸ್ಯ ।⟧ (printed ತೈ. ಬ್ರಾ. 3-6-2-1)
+
+the sacrificers are addressed as performing the sacrifice to Agni, who is called Samidh and is joined with the deity of the first prayāja.
+
+Here one more point is to be noted. The proper name Idhma does not occur in the Āprī sūktas. This name is absent from the Praiṣa sūkta too. It is mentioned only in the Sarvānukramaṇī—
+
+सुसमिद्द इतीध्मः समिद्धो वा अग्नि (*susamidda itīdhmaḥ samiddho vā agni*)............इति प्रत्यृचं देवताः । (*iti pratyṛcaṃ devatāḥ |*)
+
+Since the use of this word is not in this context in the Aitareya Brāhmaṇa either, it is known that Śaunaka and Kātyāyana followed the Nirukta authors in using it. Besides, the epithet samiddha or susamiddha is used in seven sūktas, and the epithet samidh in the remaining three sūktas, Ṛ. Saṃ. 3-4-1; 7-2-1; 10-70-1. The first duty of this Agni called Samiddha is to invite the gods. In the opening Ṛks of the sūktas 1-13-1, 1-142-1, 3-4-1 and 10-110-1, as in the prayer in the Ṛk ⟦ಸುಸಮಿದ್ಧೋನ
+ಆ ವಹ ದೇವಾ ಅಗ್ನೇ ಹವಿಷ್ಮತೇ⟧ (Ṛ. Saṃ. 1-13-1), the duty of Agni is indicated. Besides this, there is a prayer that he carry the oblations and the like.
+
+There has been a difference of opinion from the beginning as to whether this deity is Agni at all. The Nirukta authors cite this difference of opinion and then state their own.
+
+यज्ञेध्म इति कात्थक्यः (*yajñedhma iti kātthakyaḥ*) (Ni. 8-5), अग्निरिति शाकपूणिः (*agniriti śākapūṇiḥ*) (8-5): having stated the views of the respective sages, they afterwards state their own opinion: आग्नेय इति तु स्थितिः (*āgneya iti tu sthitiḥ*) (Ni. 8-22). In the Aitareya Brāhmaṇa—
+
+⟦ಸಮಿಧೋ ಯಜತಿ । ಪ್ರಾಣಾ ವೈ ಸಮಿಧಃ । ಪ್ರಾಣಾ ಹೀದಂ ಸರ್ವಂ ಸಮಿಂಧತೇ ಯದಿದಂ
+ಕಿಂಚ ಪ್ರಾಣಾನೇವ ತತ್ಪ್ರೀಣಾತಿ ಪ್ರಾಣಾನ್ಯಜಮಾನೇ ದಧಾತಿ ।⟧
+(printed ಇ. ಬ್ರಾ. 2-4)
+
+### Printed p. 679
+
+*[Running head, p. 679: Aṣṭaka 2, Adhyāya 8, Varga 22, Ṛgvedasaṃhitā.]*
+
+Although the identity of samidh and breath is stated by such sentences, it can be said on the strength of many other grounds that this deity must be Agni himself.
+
+#### Ṛk 2
+
+*[Garbled label as supplied before the Saṃhitā: "೧ ಸಂಹಿತಾಪಾಠ ೧" (for Saṃhitā-pāṭha), kept as a note in kn.md; the Saṃhitā, printed as plain lines, was made a block. No verse number is printed after the Saṃhitā; ॥ ೨ ॥ follows the Pada.]*
+
+**॥ संहितापाठः ॥**
+
+> यं दे॒वास॒स्त्रिरह॑न्ना॒यजं॑ते दि॒वेदि॑वे॒ वरु॑णो मि॒त्रो अ॒ग्निः ।
+> सेमं य॒ज्ञं मधु॑मंतं कृधी न॒स्तनू॑नपाद्घृ॒तयो॑निं वि॒धन्तं॑॥
+
+**॥ पदपाठः ॥**
+
+> यं । देवासः । त्रिः । अहन् । आयजंते । दिवेदिवे । वरुणः । मित्रः । अग्निः ।
+> सः । इमं । यज्ञं । मधुमंतं । कृधि । नः । तनूनपात् । घृतयोनिं ।
+> विधंतं ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वरुणो मित्रोऽग्निः एते त्रयो देवा यमग्निं दिवेदिवे प्रतिदिवसं अहन्
+> अहनि त्रिः प्रातर्मध्याह्नसायंतनेषु सवनेषु त्रिवारमायजंते हे तनूनपात्
+> तनूनां शरीराणां न पातयितः स त्वं धृतयोनिं धृतस्योदकस्य कारणं विधंतं
+> विधीयमानं क्रियमाणं नोऽस्मदीयमिमं यज्ञं मधुमंतं । मध्वित्युदकनाम । वृष्ट्यादिफलयुक्तं कृधि । कुरु ॥
+
+*(Gist: Varuṇa, Mitra and Agni worship Agni daily at the three pressings; O Tanūnapāt, make our sacrifice rich in water and rain, with ghee as its source.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Devāsaḥ: the gods. Varuṇaḥ: Varuṇa. Mitraḥ: Mitra. Agniḥ: Agni. Yaṃ: whom, you. Dive-dive: every day. Ahan: in the day. Triḥ: at the three times. Āyajante: worship, (such a one). Tanūnapāt: O Agni, in the form of "Tanūnapāt". Saḥ: you. Ghṛtayoniṃ: so as to be a cause of water. Vidhantaṃ: being performed. Naḥ: our. Imaṃ yajñaṃ: this sacrifice. Madhumantaṃ: so as to be endowed with water. Kṛdhi: make.
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, in the form of Tanūnapāt, make this sacrifice of ours, which is performed so as to be a cause of water, endowed with water; you whom Varuṇa, Mitra and Agni worship every day at the three times.
+
 ---
 
-**Progress note:** Done through printed p. 676 (PDF 676). Sūkta 4: Pīṭhike ends; Sāyaṇa intro, Anuvāda, Ṛk 1 complete; Special Topics cut mid-word at 'ಉಪಯೋಗಿಸುವುದ'; accent DIFF logged
+**Progress note:** Done through printed p. 679 (PDF 679). Sūkta 4 Ṛk 1 Special Topics (samiddha, idhma, Brāhmaṇa views); Ṛk 2 up to Bhāvārtha; join with previous window flagged
