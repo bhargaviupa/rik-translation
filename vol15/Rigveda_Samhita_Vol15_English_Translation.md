@@ -5076,6 +5076,90 @@ Number of ṛks in the Sūkta: 7 ·
 
 *(The bhāṣya continues on p. 162.)*
 
+### Printed p. 162
+
+*(The bhāṣya of Ṛk 1 continues from p. 161.)*
+
+> गच्छंति ॥ पतेश्छांदसे लुजि लृदित्वात् चेरजादेशः । पतः पुमिति पुमागमः ॥
+> कीदृशा वयः । श्रवस्यवोSन्नकामाः । हृषीवंतः प्राप्तहर्षाः । वनर्षदो वने
+> वृक्षादौ निषण्णाः ॥ सांहितिकश्छांदसो रेफोपजनः ॥
+
+*Gist:* Mitra and Varuṇa, with the three divine groups, are to protect our chariot as it travels for food, as birds fly out from the woods; *vasma* is a dwelling-place.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Mitrāvaruṇā—O Mitra and Varuṇa! Śravasyavaḥ—seeking food; hṛṣīvantaḥ—joyful; vanarṣadaḥ—sitting in forest trees; vayo na—like birds; yat—when; rathāḥ—our chariots; vasmanaspari—in other regions; pra paptan—move about (at that time); ādityaiḥ—with the Ādityas; rudraiḥ—with the Rudras; vasubhiḥ—with the Vasus; sacābhuvā—being together; asmākaṃ—our; rathaṃ—chariot (set out for food); avataṃ—protect.
+
+**भावार्थ (Bhāvārtha)**
+
+O Mitra and Varuṇa, when our chariots move about in other regions in search of food, like birds that seek food, are joyful and sit in the forest trees, at that time, being together with the Ādityas, the Rudras and the Vasus, protect our chariot.
+
+**Printed English translation**
+
+Mitra and Varuna, associated with the Adityas, the Rudras, and the Vasus, protect our (sacrificial) chariot, when (it goes) about (from one place to another); like birds that fly down, seeking for food, rejoicing, and resting in the woods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Mitra and Varuṇa, the bhāṣya says: these two are accompanied by three groups of gods: the twelve Ādityas beginning with Dhātṛ and Aryaman, the eleven Rudras, and the eight Vasus named Dhara, Dhruva and so on (the eleven and eight being counted by number, the twelve being the well-known Ādityas). It explains that they should protect our chariot, set out to obtain food (अन्नलाभाय प्रवृत्तं अस्माकं रथं अवतं (*annalābhāya pravṛttaṃ asmākaṃ rathaṃ avataṃ*)).
+
+### Printed p. 163
+
+श्रवस्यवः, हृषीवंतः, वनर्षदः वयो न वस्मनस्परि प्रपप्तन् (*śravasyavaḥ, hṛṣīvaṃtaḥ, vanarṣadaḥ vayo na vasmanaspari prapaptan*)—the bhāṣya explains that our chariots, like birds that desire food, are joyful and sit in trees of the forest, go forth vigorously from their dwelling-place to other regions above/beyond. It compares our chariots to birds that leave their dwellings and move about in different places to obtain food and the like.
+
+वस्मनस्परि (*vasmanaspari*)—वसंत्यस्मिन्निति वस्म निवासस्थानं। तस्मान् स्थानात् उपरि देशांतरे (*vasaṃtyasminniti vasma nivāsasthānaṃ| tasmān sthānāt upari deśāṃtare*). The word *vasma* means a place fit for dwelling; the chariot is described as moving in regions other than that.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+> अध॑ स्मा न॒ उद॑वता सजोषसो॒ रथं॑ देवासो अ॒भि वि॒क्षु वा॑ज॒-
+> युं ।
+> यदा॒शवः॒ पद्या॑भि॒स्तित्र॑तो॒ रजः॑ पृथि॒व्याः सान्॒ जंघ॑नंत पा॒णिभिः॑ ॥
+
+**॥ पदपाठः ॥**
+
+> अध । स्म । नः । उत् । आवत । सजोषसः। रथं। देवासः । अभि । विक्षु । वाजयुं ।
+> यत् । अशवः । पद्याभिः । तित्रतः । रजः । पृथिव्याः । सान्। जंघनंत। पाणिभिः ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे सजोषसः समानं प्रीयमाणा देवासो देवा आध आधुना नोऽस्माकं
+> वाजयुं वाजमन्नं कामयमानं गतिविशेषयुक्तं वा रथं विक्षु प्रजासु जनप-
+> देस्वभिमुखमुदवत । उदगमयत ॥ अवतिरत्र गत्यर्थः ॥ यद्यदास्मिन्प्रथे युक्ता
+> आशवो व्यापनशीला आश्वाः पद्याभिः पादसाध्याभिर्गतिभी रजो रंजकं मार्गं
+> तित्रतस्तरंतः ॥ तरतेः शतरि बहुलं छंदसीति शपः श्लुः । बहुलं छंदसीत्यभ्यास-
+> स्यॆत्वं । अभ्यस्तानामादिरित्याद्युदात्तत्वं ॥ पृथिव्याः प्रथिताया भूमेः सानौ
+> समुच्च्रिते प्रदेशे पाणिभिः पाण्युपलक्षितैः पादैर्जंघनंत । अत्यर्थं गच्छंति ॥
+> हंतेर्यज्लुगंताच्छांदसो लज् । व्यत्ययेनात्मनेपदं । बहुलं छंदसीति
+> शपो लुगभावः ॥
+
+*Gist:* The gods of equal affection are asked to drive our food-seeking chariot forward among the people, when the swift horses trample the high ground raising dust; *ava* here means motion.
+
+### Printed p. 164
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Sajoṣasaḥ—of equal affection; devāsaḥ—O gods; yat—when; āśavaḥ—the horses yoked to our chariot; padyābhiḥ—with their paces; rajaḥ—dust; titrataḥ—making rise; pṛthivyāḥ—of the earth; sānau—in the elevated region; pāṇibhiḥ—with their feet; jaṅghananta—gallop; adha—at that time; naḥ—our; vājayuṃ—set out for food; rathaṃ—chariot; vikṣu abhi—among the people; udavata—cause to move happily.
+
+**भावार्थ (Bhāvārtha)**
+
+O gods of equal affection, when the horses yoked to our chariot, raising the dust with their paces, gallop with their feet on the elevated region of the earth, at that time make our chariot, set out for food, move happily among the people.
+
+**Printed English translation**
+
+Propitiated divinities, protect our chariot, gone forth in quest of food among the people, when the quick (horses), raising the dust with their paces, trample with their feet upon the high places of the earth.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सजोषसः देवासः (*sajoṣasaḥ devāsaḥ*)—समानं प्रीयमाणाः देवाः (*samānaṃ prīyamāṇāḥ devāḥ*): the word *sajoṣasaḥ* is explained as those who are always equally pleased; the gods are described as of this nature.
+
+वाजयुं (*vājayuṃ*)—वाजमन्नं कामयमानं, गतिविशेषयुक्तं वा (*vājamannaṃ kāmayamānaṃ, gativiśeṣayuktaṃ vā*). This word is used as an epithet of *rathaṃ* (chariot). The word *vāja* is read in the senses of food and so on. Sāyaṇa explains it as desiring food, or as having a swift motion. Addressing the gods, the sacrificers pray that their chariots, travelling for food, may be swift and may go facing the people and the various regions.
+
+Further, आशवः पद्याभिः रजः तित्रतः (*āśavaḥ padyābhiḥ rajaḥ titrataḥ*)—⟦ವ್ಯಾಪನಶೀಲಾಃ ಅಶ್ವಾಃ ಪಾದಸಾಧ್ಯಾಭಿರ್ಗ-
+ಶಿಭಿಃ ರಂಜಕಂ ಮಾರ್ಗಂ ತರಂತಃ⟧: swift horses cross the road, making dust rise with their paces; and पृथिव्याः सानौ पाणिभिः जंघनंत (*pṛthivyāḥ sānau pāṇibhiḥ jaṃghanaṃta*)—
+
+*(The Special Topics continue on p. 165.)*
+
 ---
 
-**Progress note:** Done through printed p. 161 (PDF 161). Sūkta 30 Ṛk 11 completed (Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Sūkta 31 begun, Ṛk 1 Saṃhitā, Pada and bhāṣya start (bhāṣya continues on p. 162). Flags: kn.md hand-fixed (bhāṣya label split out of Pada block, divider line removed, Sūkta 31 intro put in a block with label, stray '11' removed); Pratipadārtha 'ದಿವೇದಿನೇ' vs Saṃhitā 'ದಿವೇದಿವೇ' as supplied; Anuvāda gives Adhyāya 6 in running head p.161 as printed
+**Progress note:** Done through printed p. 164 (PDF 164). Sūkta 31 Ṛk 1 completed (bhāṣya tail, Pratipadārtha, Bhāvārtha, printed English, Special Topics); Ṛk 2 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (cut off at end of p. 164, continues p. 165). Flags: kn.md hand-fixed (Bhāvārtha label inserted in Ṛk 2, stray '। ಭಾಷಾರ್ಥ ॥' line removed); accent script reported 2 DIFF, 1 NOMATCH lines
