@@ -1,0 +1,2 @@
+# Page-order flags for the user (Vol 15)
+- Printed p. 235 (Sūkta 34, after Ṛk 4): the supplied text's running head reads 237 (splitter used 235). Its content opens with a fresh Special Topics list (samanyavaḥ, dhenubhiḥ, raṣyadūdhabhiḥ, pathibhiḥ, madhor madāya) that does not continue p. 234's broken sentence ("ಇದರಿಂದ ಎರಡು"). It was translated as supplied under a Special Topics heading with a note. Please check against the scan whether a page is missing or misordered (rig_15_1.md around line 9680).
