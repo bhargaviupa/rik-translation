@@ -6744,6 +6744,85 @@ Marutaḥ—O Maruts, sons of Rudra; vaḥ—your; yā—which; bheṣajā—med
 
 O Maruts, sons of Rudra and showerers of desires, whichever of your medicines are pure, whichever are comforting, whichever our father Manu chose, those, and also the two kinds of medicines belonging to Rudra, the disease-destroying and the fear-removing, I wish to obtain.
 
+### Printed p. 220
+
+**Printed English translation**
+
+Maruts, I solicit of you those medicaments which are pure ; those, showerers (of benifits) [sic] which give great pleasure; those which confer felicity ; those which (our) sire, Manu, selected; and those (medicaments) of Rudra which are the alleviation (of disease), and defence (against danger).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+The Maruts, the sons of Rudra, are praised in this Ṛk as हे मरुतः—रुद्रपुत्राः (*he marutaḥ—rudraputrāḥ*). These Maruts are वृषणः—कामानां वर्षितारः (*vṛṣaṇaḥ—kāmānāṃ varṣitāraḥ*), that is, they fulfil all the desires of the sacrificers; therefore the sacrificers pray to the Maruts for bodily health, so as to pass their lives happily; the prayer is made for the medicines obtainable through their favour and also for the favour of Rudra.
+
+वः यानि भेषजा शुचीनि शंतमा मयोभु नः पिता अवृणीत । भेषजानि अस्मदारोग्यहेतुभूतानि, शुद्धानि निर्मलानि, अतिशयेन सुखकराणि, मयस्य सुखस्य भावयित्यणि, अस्मत्पिता मनु? युष्मदीयानि भेषजानि अवृणीत । (*vaḥ yāni bheṣajā śucīni śaṃtamā mayobhu naḥ pitā avṛṇīta | bheṣajāni asmadārogyahetubhūtāni, śuddhāni nirmalāni, atiśayena sukhakarāṇi, mayasya sukhasya bhāvayityaṇi, asmatpitā manu? yuṣmadīyāni bheṣajāni avṛṇīta |*) The medicines connected with the Maruts are the means of producing health in us, the sacrificers; they are pure, they bring abundant happiness, and they also produce happiness; therefore our father Manu has chosen these medicines: thus the greatness of the medicines is stated. (The quoted Sanskrit is given as supplied, including "ಮಯಸ್ಯ", "ಭಾವಯಿತ್ಯಣಿ" and "ಮನು?".) And तानि भेषजानि रुद्रस्य शंयोश्च वश्मि महादेवसंबंधि शमनीयानां रोगाणामुपशमनं यावनीयानां भयानामस्मत्तः पृथक्करणं तदुभयं च प्रार्थये (*tāni bheṣajāni rudrasya śaṃyośca vaśmi mahādevasaṃbaṃdhi śamanīyānāṃ rogāṇāmupaśamanaṃ yāvanīyānāṃ bhayānāmasmattaḥ pṛthakkaraṇaṃ tadubhayaṃ ca prārthaye*)—the sacrificers have prayed for the favour that is connected with Mahādeva, that destroys (allays) diseases and removes fears in situations where fear arises, and for the medicines connected with the Maruts [sic: as printed] (these two).
+
+शंयुः (*śaṃyuḥ*)—Yāska explains this word as सुखंयुः (*sukhaṃyuḥ*) (Ni. 4-21). Durgācārya takes शं युः (*śaṃ yuḥ*) as two words, explaining शं (*śaṃ*) as रोगाणां उपशमनं (*rogāṇāṃ upaśamanaṃ*), the destruction of diseases, and युः (*yuḥ*) as भयानां यावनं (*bhayānāṃ yāvanaṃ*), the state in which fears do not arise.
+
+### Printed p. 221
+
+#### Ṛk 14
+
+**॥ संहितापाठः ॥**
+
+> परि॑ णो हे॒ती रु॒द्रस्य॑ वृज्याः॒ परि॑ त्वे॒षस्य॑ दुर्म॒तिर्म॒ही गा॑त् ।
+> अव॑ स्थि॒रा म॒घव॑द्भ्यस्तनुष्व॒ मीढ्व॑स्तो॒काय॒ तन॑याय मृळ ॥ १४ ॥
+
+**॥ पदपाठः ॥**
+
+> परि । नः । हेतिः । रुद्रस्य । वृज्याः । परि । त्वेषस्य । दुःमतिः । मही । गात् ।
+> अव । स्थिरा । मघवत्ऽभ्यः । तनुष्प । माढ्वः । तोकाय । तनयाय । मृळ ॥ १४ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> रुद्रस्य महादेवस्य हेतिरायुधं नोऽस्मान्परिवृज्याः । परिवर्जयतु ।
+> यथा त्वेषस्य दीप्तस्य रुद्रस्य मही महती दुर्मतिर्दुःखकारिणी बुद्धिश्च परिगात् ।
+> अस्मान्वर्जयित्वान्यत्र गच्छतु ॥ अपपरी वर्जने । पा. १-४-८८. ॥ हे मीढ्वः सेचन-
+> समर्थ रुद्र स्थिरा स्थिराणि त्वदीयानि धनूंषि मघवद्भो हविर्लक्षणधनयुक्तेभ्यो
+> यजमानेभ्योvवतनुष्ट । अवततज्यानि कुरु । तथा तोकायास्मत्पुत्राय तनयाय
+> तत्पुत्राय च मृळ । सुखं कुरु ॥
+
+> *rudrasya mahādevasya hetirāyudhaṃ no 'smānparivṛjyāḥ | parivarjayatu |*
+> *yathā tveṣasya dīptasya rudrasya mahī mahatī durmatirduḥkhakāriṇī buddhiśca parigāt |*
+> *asmānvarjayitvānyatra gacchatu ‖ apaparī varjane | pā. 1-4-88. ‖ he mīḍhvaḥ secana-*
+> *samartha rudra sthirā sthirāṇi tvadīyāni dhanūṃṣi maghavadbho havirlakṣaṇadhanayuktebhyo*
+> *yajamānebhyovvatanuṣṭa | avatatajyāni kuru | tathā tokāyāsmatputrāya tanayāya*
+> *tatputrāya ca mṛḷa | sukhaṃ kuru ‖*
+
+Gist: may Rudra's weapon and wrathful mind pass us by; may he turn his bows from the sacrificers and make our sons and grandsons happy. Grammar tail: the sūtra cited is as printed (Pā. 1-4-88).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Rudrasya—of Rudra; hetiḥ—the weapon; naḥ—us; pari vṛjyāḥ—may it leave, not making us its target; tveṣasya—of the radiant Rudra; mahī—the great; durmatiḥ—the painful, wrath-like mind; pari gāt—may it turn its aim elsewhere than at us; mīḍhvaḥ—O Rudra, showerer of desires; sthirā—your strong bows; maghavadbhyaḥ—from the sacrificers who possess wealth in the form of oblations; ava tanuṣva—turn away to another quarter; tokāya—to our sons; tanayāya—to our grandsons; mṛḷa—bring happiness.
+
+**भावार्थ (Bhāvārtha)**
+
+May we not become targets of Rudra's weapon. May the great, painful, wrath-like mind of the radiant Rudra turn its aim elsewhere than at us. O Rudra, showerer of desires, turn your strong bows away from the sacrificers who possess wealth in the form of oblations. Bring happiness to our sons and our grandsons.
+
+### Printed p. 222
+
+**Printed English translation**
+
+May the javelin of Rudra avoid us : may the great displeasure of the radiant deity pass away (from us) : showerer of benefits, turn away your strong (bow) from the wealthy (offerers of oblations), and bestow happiness upon (our) sons and grandsons.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+रुद्रस्य हेतिः नः परि वृज्याः (*rudrasya hetiḥ naḥ pari vṛjyāḥ*)—the prayer is that the weapon of Mahādeva, which uproots enemies, may be kept far from us, the sacrificers; and श्वेषस्य दुर्मतिः परिगात् (*śveṣasya durmatiḥ parigāt*) (as printed; the Saṃhitā has त्वेषस्य (*tveṣasya*))—that the evil mind of this fiery Rudra, which causes sorrow to enemies, may not be directed at us, the sacrificers, but may rest on others. The word माढ्वः (*māḍhvaḥ*) (as printed; the Saṃhitā has मीढ्वः (*mīḍhvaḥ*)) is explained as सेचनसमर्थः (*secanasamarthaḥ*), able to grant rain, Rudra being thus addressed; and स्थिरा मघवद्भ्यः अवतनुष्प—स्थिराणि त्वदीयानि धनूंषि हविर्लक्षणधनयुक्तेभ्यः यजमानेभ्यः अवततज्यानि :कुरु (*sthirā maghavadbhyaḥ avatanuṣpa—sthirāṇi tvadīyāni dhanūṃṣi havirlakṣaṇadhanayuktebhyaḥ yajamānebhyaḥ avatatajyāni :kuru*)—the prayer is that Rudra's bow be turned away from the sacrificers who possess wealth in the form of oblations and directed at other people; and शोकाय तनयाय मृळ (*śokāya tanayāya mṛḷa*) (as printed; the Saṃhitā has तोकाय (*tokāya*))—that the sacrificers' sons and grandsons be kept in happiness.
+
+#### Ṛk 15
+
+**॥ संहितापाठः ॥**
+
+> ए॒वा ब॑भ्रो वृषभ चेकितान॒ यथा॑ देव॒ न हृ॑णी॒षे न हंसि॑ ।
+> ह॒व॒न॒श्रुन्नो॑ रुद्रे॒ह बो॑धि बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १५ ॥
+
+**॥ पदपाठः ॥**
+
+> एव । बभ्रो इति । वृषभ । चेकितान । यथा । देव । हृणीषे । न । हंसि ।
+> हवनश्रुत् । नः । रुद्र । इह । बोधि । बृहत् । वदेम । विदथे । सुवीराः ॥ १५ ॥
+
+> *eva | babhro iti | vṛṣabha | cekitāna | yathā | deva | hṛṇīṣe | na | haṃsi |*
+> *havanaśrut | naḥ | rudra | iha | bodhi | bṛhat | vadema | vidathe | suvīrāḥ ‖ 15 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 219 (PDF 219). Sūkta 33 Ṛk 12 complete (Pada, bhāṣya, Special Topics); Ṛk 13 complete through Bhāvārtha (printed English follows on p. 220). As supplied: Pada ಧೂರೇಃ vs Saṃhitā भूरेः, bhāṣya garbled ಭಾವಯಿ-ತ್ಯಣಿ, 'ಸಂಹಿತಾ 217 label ಆ. ೬'; accent script 2 DIFF lines
+**Progress note:** Done through printed p. 222 (PDF 222). Sūkta 33 Ṛk 14 complete (Pada, bhāṣya, Special Topics); Ṛk 15 Saṃhitā and Pada only (bhāṣya follows on p. 223). As supplied: Latin 'v' in bhāṣya ಯಜಮಾನೇಭ್ಯೋvವತನುಷ್ಟ (avagraha), Special Topics spellings ಶ್ವೇಷಸ್ಯ/ಮಾಢ್ವಃ/ಶೋಕಾಯ vs Saṃhitā, Pada ಮಘವತ್ಽಭ್ಯಃ/ತನುಷ್ಪ/ಮಾಢ್ವಃ; 'Englis Translation.' label fixed
