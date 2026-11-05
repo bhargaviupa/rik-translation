@@ -6648,6 +6648,102 @@ the word गर्त (*garta*) also: रथोपि गर्त उच्य�
 > *kumāraścitpitaraṃ vaṃdamānaṃ prati nānāma rudropayaṃtaṃ |*
 > *bhūrerdātāraṃ satpatiṃ gṛṇīṣe stutastvaṃ bheṣajā rāsyasme ‖ 12 ‖*
 
+### Printed p. 217
+
+**॥ पदपाठः ॥**
+
+> कुमारः । चित् । पितरं वंदमानं प्रति । ननाम रुद्र । उपयंतं ।
+> धूरेः । दातारं । सत्पतिं । गृणीषे । स्तुतः । त्वं । भेषजा । रासि । अस्मे इति ॥ १२ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> वंदमानं आयुष्मान् भव सौम्यति स्तुवंतं पितरं कुमारश्चित् यथा
+> कुमारः ॥ चिदित्येतदुपमार्थे ॥ हे रुद्र उपयंतमस्मत्समीपे गच्छंतं त्वां
+> प्रतिननाम । प्रतिनतोऽस्मि । अपि च भूरेर्बहुनो धनस्य दातारं सत्पतिं सशां
+> पालयितारं ॥ पत्यावैश्वर्य इति पूर्वपदप्रकृतिस्वरत्वं ॥ हे रुद्र एवंभूतं
+> त्वां गृणीषे । सौमि ॥ मिपस्तिजां शिजो भवंतीति से आदेशः । स्तुतश्च त्वमस्मे
+> अस्मभ्यं भेषजा भेषजानि रासि । देहि ॥
+
+> *vaṃdamānaṃ āyuṣmān bhava saumyati stuvaṃtaṃ pitaraṃ kumāraścit yathā*
+> *kumāraḥ ‖ cidityetadupamārthe ‖ he rudra upayaṃtamasmatsamīpe gacchaṃtaṃ tvāṃ*
+> *pratinanāma | pratinato 'smi | api ca bhūrerbahuno dhanasya dātāraṃ satpatiṃ saśāṃ*
+> *pālayitāraṃ ‖ patyāvaiśvarya iti pūrvapadaprakṛtisvaratvaṃ ‖ he rudra evaṃbhūtaṃ*
+> *tvāṃ gṛṇīṣe | saumi ‖ mipastijāṃ śijo bhavaṃtīti se ādeśaḥ | stutaśca tvamasme*
+> *asmabhyaṃ bheṣajā bheṣajāni rāsi | dehi ‖*
+
+Gist: Rudra, I bow to you as a son to a father who blesses him; you are the giver of much wealth and protector of the good; being praised, give us healing herbs.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Rudra—O Rudra; vandamānam—(the father) who speaks the blessing "be long-lived"; pitaram—the father; kumāraś cit—as a son bows and salutes; upayantam—to you who come towards us; prati nanāma—coming face to face I bow; bhūreḥ—of abundant wealth; dātāram—the giver; satpatim—the protector of the good; gṛṇīṣe—I praise; stutaḥ tvam—you praised by us; asme—to us; bheṣajā—medicines; rāsi—give.
+
+**भावार्थ (Bhāvārtha)**
+
+O Rudra, as a son bows to the father who pronounces the blessing "be long-lived", and salutes him, so I come face to face with you, who approach towards us, and bow. I praise you, the giver of abundant wealth and protector of the good. Being praised by us, give us medicines.
+
+**Printed English translation**
+
+I bow, Rudra, to you, approaching (our rite), as a boy to his father when pronouncing a blessing upon him : I glorify you, the giver of much (wealth), the protector of the virtuous ; thus glorified, bestow healing herbs upon me.
+
+### Printed p. 218
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+हे रुद्र—उपयंतं वंदमानं पितरं कुमारश्चित् प्रति ननाम (*he rudra—upayaṃtaṃ vaṃdamānaṃ pitaraṃ kumāraścit prati nanāma*) — addressing Rudra: O Rudra, while you move near us the sacrificers, as a son performs obeisance to a father who blesses him with "be long-lived", so we the sacrificers perform obeisances to you. And भूरेः दातारं सत्पतिं गृणीषे (*bhūreḥ dātāraṃ satpatiṃ gṛṇīṣe*) — we praise you, the giver of abundant wealth and protector of the good, by reciting hymns. It is thus explained. And स्तुतः त्वं आस्मे भेषजा रासि (*stutaḥ tvaṃ āsme bheṣajā rāsi*) — you, praised by us, grant us medicines so that diseases and the like do not come. This is the explanation.
+
+In कुमारश्चित् (*kumāraścit*) the word चित् (*cit*) is used in the sense of comparison. Yāska explains, with examples, that the word चित् (*cit*) has several uses: चिदित्येषो अनेककर्मा, आचार्यश्चिदिदं ब्रूयादिति पूजायां, दधि चिदित्युपमार्थे, कुल्माषांश्चिदित्यवकुत्सिते (*cidityeṣo anekakarmā, ācāryaścididaṃ brūyāditi pūjāyāṃ, dadhi cidityupamārthe, kulmāṣāṃścidityavakutsite*) — that is, the word conveys the senses of honour, comparison and disparagement.
+
+The particle अस्मे (*asme*) is used in all seven case-relations (Ni. 6-7), Yāska says, and he gives examples of all of them. Here Sāyaṇa has explained the meaning as used in the dative.
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> या वो॑ भेष॒जा म॑रुतः॒ शुची॑नि॒ या शंत॑मा वृषणो॒ या॒॑
+> म॑यो॒भु ।
+> यानि॒ मनु॒रवृ॑णीता पि॒ता न॒स्ता शं च॒ योश्च॑ रु॒द्रस्य॑ वत्मि ॥ १३ ॥
+
+> *yā vo bheṣajā marutaḥ śucīni yā śaṃtamā vṛṣaṇo yā*
+> *mayobhu |*
+> *yāni manuravṛṇītā pitā nastā śaṃ ca yośca rudrasya vatmi ‖ 13 ‖*
+
+### Printed p. 219
+
+**॥ पदपाठः ॥**
+
+> या । वः । भेषजा । मरुतः । शुचीनि । या । शंतमा । वृषणः । या । मयःभु ।
+> यानि । मनुः । अवृणीत । पिता । नः । ता । शं । च । योः । च । रुद्रस्य । वश्मि ॥ १३ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे मरुतो रुद्रपुत्रा वो युष्माकं या यानि भेषजा भेषजान्यस्मदा-
+> रोग्य हेतुभूतान्षधानि शुचीनि शुद्धानि निर्मलानि संति । हे वृषणः कामानां
+> वर्षितारो मरुतो या यानि च युष्मदीयानि भेषजानि शंतमा अतिशयेन
+> सुखकराणि ! या यानि च भेषजानि मयोभु मयोभूनि मयसः सुखस्य भावयि-
+> त्यणि नोऽस्मत्पिता मनुर्यानि भेषजानि युष्मदीयान्यवृणीत वृतवान् ता तानि
+> भेषजानि रुद्रस्य महादेवस्य संबंधि शं च योश्च यच्छमनीयानां रोगाणा-
+> मुपशमनं यावनीयानां भयानां यद्यावनमस्मत्तः पृथक्करणं तदुभयं च
+> वश्मि ! कामये ॥ वश कांत् ! आदादिकः ॥
+
+> *he maruto rudraputrā vo yuṣmākaṃ yā yāni bheṣajā bheṣajānyasmadā-*
+> *rogya hetubhūtānṣadhāni śucīni śuddhāni nirmalāni saṃti | he vṛṣaṇaḥ kāmānāṃ*
+> *varṣitāro maruto yā yāni ca yuṣmadīyāni bheṣajāni śaṃtamā atiśayena*
+> *sukhakarāṇi ! yā yāni ca bheṣajāni mayobhu mayobhūni mayasaḥ sukhasya bhāvayi-*
+> *tyaṇi no 'smatpitā manuryāni bheṣajāni yuṣmadīyānyavṛṇīta vṛtavān tā tāni*
+> *bheṣajāni rudrasya mahādevasya saṃbaṃdhi śaṃ ca yośca yacchamanīyānāṃ rogāṇā-*
+> *mupaśamanaṃ yāvanīyānāṃ bhayānāṃ yadyāvanamasmattaḥ pṛthakkaraṇaṃ tadubhayaṃ ca*
+> *vaśmi ! kāmaye ‖ vaśa kāṃt ! ādādikaḥ ‖*
+
+Gist: the Maruts' medicines are pure, most comforting and beneficial; those chosen by Manu, and Rudra's two (curing diseases, removing fears), I desire.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Marutaḥ—O Maruts, sons of Rudra; vaḥ—your; yā—which; bheṣajā—medicines; śucīni—are pure; vṛṣaṇaḥ—O Maruts who shower desires; yā—which of your medicines; śantamā—are comforting; yā—which medicines; mayobhu—establish happiness; yāni—which medicines; naḥ pitā—our father; manuḥ—Manu; avṛṇīta—chose; tā—those medicines; ca—and; rudrasya—belonging to Rudra; śam—the disease-destroying; yoḥ ca—and that which produces freedom from fear (these two kinds of medicines); vaśmi—I wish to obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+O Maruts, sons of Rudra and showerers of desires, whichever of your medicines are pure, whichever are comforting, whichever our father Manu chose, those, and also the two kinds of medicines belonging to Rudra, the disease-destroying and the fear-removing, I wish to obtain.
+
 ---
 
-**Progress note:** Done through printed p. 216 (PDF 216). Sūkta 33 Ṛk 10 complete (printed English, Special Topics); Ṛk 11 complete; Ṛk 12 Saṃhitā only (Pada follows on p. 217). As supplied: ಓಜೇಯಃ for ओजीयः, ಶ್ರುತಂ ಗರ್ತಸದೆಂ, 'ಮಿ. ಸಂ. ೫-೬೨-೮' (Ṛ. Saṃ.?), ಉಪಹತ್ತುಂ vs ಉಪಹತ್ನುಂ, repeated 'ಮನೆ, ಮನೆ'; accent script reported 2 DIFF lines in this window.
+**Progress note:** Done through printed p. 219 (PDF 219). Sūkta 33 Ṛk 12 complete (Pada, bhāṣya, Special Topics); Ṛk 13 complete through Bhāvārtha (printed English follows on p. 220). As supplied: Pada ಧೂರೇಃ vs Saṃhitā भूरेः, bhāṣya garbled ಭಾವಯಿ-ತ್ಯಣಿ, 'ಸಂಹಿತಾ 217 label ಆ. ೬'; accent script 2 DIFF lines
