@@ -26681,4 +26681,132 @@ O Indra, you killed the demon Vṛtra who held back the rain in the antarikṣa,
 
 ---
 
-**Progress note:** Done through printed p. 698 (PDF 721). Sūkta 13, Ṛk 5 is OPEN: Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha and printed English are written. The Viśeṣaviṣayagaḷu is in progress and breaks off at the end of p. 698 in the middle of a sentence ("When hymns are chanted, the power of the devatās …"), to be continued on p. 699. On p. 696 the Ṛk 4 Viśeṣaviṣayagaḷu was completed. No grammar pages. No FILE DISAGREE: the file rows "10-69-2" (printed so on p. 696, whereas p. 695 cited the Ṛk with असिन्वती as 10-79-1), "7-39-6" and "8-45-38" agree with the strip as seen, unzoomed. Unzoomed numerals: headers of pp. 696–698; Ṛk number 5. [?] places: the Ṛk quoted on p. 696 (मृथ in "निहितमृथगक्षी"); bold bhāṣya word "दंत्रैरसंखादजिह्वया"; in the bhāṣya tail of Ṛk 5 "लजुसिप्", "हल्ङ्यादिना", "हन्तेर्हे", "पद्दन्नोमा". Accent marks not reproduced.
+### Printed p. 699 (PDF 722)
+
+*(Header: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "699". The header numbers were read from the strip, unzoomed; the numeral file gave only "2 6" for it. This is the continuation of the Viśeṣaviṣayagaḷu of Ṛk 5 from p. 698, resuming in the middle of the sentence.)*
+
+…grows exceedingly, or shines: it is the ṛṣis' usage to say so. Many sentences with the sense "May our words of praise, that is, our hymns, make you (Indra) grow—may they praise you" are found in various places (compare **त्वां वर्धन्तु नो गिरः (*tvāṃ vardhantu no giraḥ*)**). The illustration **उदभिः न वाजिनं (*udabhiḥ na vājinaṃ*)** ("as [one makes] a horse [grow] with water"), given to make the sense of this sentence clear, does not fit the meaning. It is not clear what the proper meaning is of the sentence "as one makes a horse grow with water". Perhaps it may be explained thus: as by giving water to a horse that has walked a long way and is tired, its fatigue is removed and its former strength returns; or as a horse that looks dirty from dust and the like is washed with water and made to look fine. But these meanings do not fit this context.
+
+---
+
+#### Ṛk 6
+
+*(Reading notes: the Ṛk number "6" is printed at the end of both the Saṃhitā and the Pada, as seen unzoomed. In the Saṃhitā the printed glyph order in "वर्धनमार्द्रादा" and in the Pada "आर्द्रात्" is hard to follow (it looks like आद्र्रात्); it is read here as आर्द्रात्, as the Pratipadārtha has "ಆದ್ರ್ರಾತ್" and the bhāṣya has "तथार्द्रात्काण्डात्". The printed ma carries a hook, which is not the vowel u. In the Pada the compound mark ऽ is printed in शेवऽधिं and मधुऽमत्. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यो भोज॑नं च॒ दय॑से च॒ वर्ध॑नमा॒र्द्रादा शुष्कं॒ मधु॑मद्दु॒दोहि॑थ ।
+> स शे॑व॒धिं नि द॑धिषे वि॒वस्व॑ति॒ विश्व॒स्यैक॑ ईशिषे॒ सास्यु॒क्थ्यः॑ ॥ ६ ॥
+
+> *yo bhojanaṃ ca dayase ca vardhanamārdrādā śuṣkaṃ madhumaddudohitha |*
+> *sa śevadhiṃ ni dadhiṣe vivasvati viśvasyaika īśiṣe sāsyukthyaḥ ‖ 6 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । भोजनं । च । दयसे । च । वर्धनं । आर्द्रात् । आ । शुष्कं । मधुऽमत् । दुदोहिथ ।
+> सः । शेवऽधिं । नि । दधिषे । विवस्वति । विश्वस्य । एकः । ईशिषे । सः । असि । उक्थ्यः ॥ ६ ॥
+
+> *yaḥ | bhojanaṃ | ca | dayase | ca | vardhanaṃ | ārdrāt | ā | śuṣkaṃ | madhu 'mat | dudohitha |*
+> *saḥ | śeva 'dhiṃ | ni | dadhiṣe | vivasvati | viśvasya | ekaḥ | īśiṣe | saḥ | asi | ukthyaḥ ‖ 6 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, you give food, wealth and strength to the sacrificers; you milk sweet dry grain from the green stalk; you place a store of wealth with the one who serves you; you alone rule the world.*
+
+> हे इन्द्र यस्त्वं भोजनं । भुज्यत इति भोजनमन्नादि । च दयसे । यजमानेभ्यः प्रयच्छसि ॥ दय दानगतिरक्षणहिंसाग्रहणेषु आत्मनेपदी ॥ किंच वर्धनं वृद्धिकरं धनं बलं वा दयसे । तथार्द्रात्काण्डात् शुष्कमनार्द्रं व्रीह्यादिकं मधुमत् मधुररसोपेतं दुदोहिथ । दुग्धवानसि ॥ दुहेर्लिटि क्रादिनियमादिडागमः ॥ स ताद‍ृशस्त्वं विवस्वति ते परिचरणं कुर्वाणे यजमाने शेवधिं धनसदनं निदधिषे [?] । निदधासि । किं बहुना । विश्वस्य सर्वस्य जगत एकोऽद्वितीय इव सन् ईशिषे । स्वामी भवसि ॥ ईश ऐश्वर्ये । ईशः स इतीडागमः ॥ स इत्यादि सिद्धम् ॥
+
+> *he indra yastvaṃ bhojanaṃ | bhujyata iti bhojanamannādi | ca dayase | yajamānebhyaḥ prayacchasi ‖ daya dānagatirakṣaṇahiṃsāgrahaṇeṣu ātmanepadī ‖ kiṃca vardhanaṃ vṛddhikaraṃ dhanaṃ balaṃ vā dayase | tathārdrātkāṇḍāt śuṣkamanārdraṃ vrīhyādikaṃ madhumat madhurarasopetaṃ dudohitha | dugdhavānasi ‖ duherliṭi krādiniyamādiḍāgamaḥ ‖ sa tādṛśastvaṃ vivasvati te paricaraṇaṃ kurvāṇe yajamāne śevadhiṃ dhanasadanaṃ nidadhiṣe [?] | nidadhāsi | kiṃ bahunā | viśvasya sarvasya jagata eko 'dvitīya iva san īśiṣe | svāmī bhavasi ‖ īśa aiśvarye | īśaḥ sa itīḍāgamaḥ ‖ sa ityādi siddham ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+*(Printed p. 700 (PDF 723); header "700", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13", read from the strip, unzoomed.)*
+
+(इन्द्र (*indra*)—O Indra.) यः (*yaḥ*)—you who. भोजनं (*bhojanaṃ*)—foods and the like. दयसे (*dayase*)—(to the sacrificers and others) you give. च (*ca*)—and. वर्धनं च (*vardhanaṃ ca*)—wealth that causes increase, and strength, you also give (in the same way). आर्द्रात् (*ārdrāt*)—from the green stalk. शुष्कं (*śuṣkaṃ*)—dry grain and the like. मधुमत् (*madhumat*)—as if endowed with sweet juice. दुदोहिथ (*dudohitha*)—you have milked. सः (*saḥ*)—such a one as you. विवस्वति (*vivasvati*)—in the sacrificer who offers you service. शेवधिं (*śevadhiṃ*)—a deposit of wealth. नि दधिषे (*ni dadhiṣe*)—you place. (And) विश्वस्य (*viśvasya*)—of the whole world. एकः (*ekaḥ*)—the one without a second. ईशिषे (*īśiṣe*)—you are lord. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—you are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who give the sacrificers and others food and the like, and wealth and strength that cause increase, you who have milked dry grain from the green stalk as if filled with sweet juice, such a one as you place a deposit of wealth in the sacrificer who offers you service. You are the lord of the whole world, without a second. Such a one as you are praiseworthy.
+
+**English Translation** *(as printed)*
+
+(You are he) who bestow both food and increase, and milk the dry nutritious (grain) from out the humid stalk: he, who gives wealth to the worshipper, and are sole sovereign of the Universe; you are he, (Indra), who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+यो भोजनं च दयसे च वर्धनं (*yo bhojanaṃ ca dayase ca vardhanaṃ*)—
+
+*Quoted bhāṣya, shortened by the commentator (Kannada comment follows).*
+
+> भुज्यत इति भोजनमन्नादि । यस्त्वं भोजनं, वर्धनं वृद्धिकरं धनं बलं वा यजमानेभ्यः प्रयच्छसि ।
+
+> *bhujyata iti bhojanamannādi | yastvaṃ bhojanaṃ, vardhanaṃ vṛddhikaraṃ dhanaṃ balaṃ vā yajamānebhyaḥ prayacchasi |*
+
+You, who are Indra, give to the sacrificers who perform sacrifice, or to the ṛtvijs who chant the hymns, food and the like, and wealth that brings increase, or strength: this is the intention.
+
+आर्द्रात् आ शुष्कं मधुमत् दुदोहिथ (*ārdrāt ā śuṣkaṃ madhumat dudohitha*)—
+
+> तथार्द्रात्काण्डात् शुष्कमनार्द्रं व्रीह्यादिकं मधुमत् मधुररसोपेतं दुदोहिथ दुग्धवानसि ।
+
+> *tathārdrātkāṇḍāt śuṣkamanārdraṃ vrīhyādikaṃ madhumat madhurarasopetaṃ dudohitha dugdhavānasi |*
+
+"You will provide, from the green stalk, well-dried and tasty grains such as rice": this is Sāyaṇa's explanation. In this sentence there is no word that points to grain; still, the commentator has supplied that word (adhyāhāra) and explained the meaning. Or it may be the ṛṣi's intention that "you bring forth the sweet Soma juice from the fresh Soma creeper" (continues on p. 701). 
+
+---
+
+### Printed p. 701 (PDF 724)
+
+*(Header: "A. 2 A. 6 V. 11. |", "Ṛgvedasaṃhitā", "701", unzoomed. Continuation of the Ṛk 6 Viśeṣaviṣayagaḷu. The reference "Ni. 3-13" is printed "(ನಿ. ೩-೧೩)"; the numeral file gave 3-13, in agreement with the strip.)*
+
+*(The sentence of p. 700 continues:)* …the sweet Soma juice. But then, it is said, 'the word शुष्कं (*śuṣkaṃ*) would be left without meaning' [the opening quotation mark is printed alone]. In any case the meaning of this sentence is not clear.
+
+शेवधिं (*śevadhiṃ*)—The word शेवं (*śevaṃ*) is listed among the names for "happiness" (Ni. 3-13). The commentator has explained the word शेवधिं (*śevadhiṃ*) as धनसदनं (*dhanasadanaṃ*), that is, "a store, a treasure", an immeasurable mass of wealth. Since happiness is obtained from wealth, this meaning too can be given.
+
+विश्वस्य एक ईशिषे (*viśvasya eka īśiṣe*)—
+
+> सर्वस्य जगत एकोऽद्वितीय इव सन् ईशिषे स्वामी भवसि ।
+
+> *sarvasya jagata eko 'dvitīya iva san īśiṣe svāmī bhavasi |*
+
+You alone are lord of the whole universe. There is no other equal to you. The greatness of Indra is described: "You are the master of all."
+
+---
+
+#### Ṛk 7
+
+*(Reading notes: the Ṛk number "7" is read in the Pada, printed "|| ೭ ||", unzoomed; at the end of the Saṃhitā the number was not visible on the strip. In the Saṃhitā "ऊर्वा" there is a small sign above the letters, which is not reproduced [?]. The first words "पुष्पिणीः" and "प्रस्वः" were read together with the Pratipadārtha and the bhāṣya, unzoomed [?]. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> यः पु॒ष्पिणी॑श्च प्र॒स्व॑श्च॒ धर्म॒णाधि॒ दाने॒ व्य१॒॑वनी॒रधा॑रयः ।
+> यश्चास॑मा॒ अज॑नो दि॒द्युतो॑ दि॒व उ॒रुरू॒र्वा अ॒भितः॒ सास्यु॒क्थ्यः॑ ॥ ७ ॥
+
+> *yaḥ puṣpiṇīśca prasvaśca dharmaṇādhi dāne vyavanīradhārayaḥ |*
+> *yaścāsamā ajano didyuto diva ururūrvā abhitaḥ sāsyukthyaḥ ‖ 7 ‖*
+
+**॥ पदपाठः ॥**
+
+> यः । पुष्पिणीः । च । प्रऽस्वः । च । धर्मणा । अधि । दाने । वि । अवनीः । अधारयः ।
+> यः । च । असमाः । अजनः । दिद्युतः । दिवः । उरुः । ऊर्वान् । अभितः । सः । असि ।
+> उक्थ्यः ॥ ७ ॥
+
+> *yaḥ | puṣpiṇīḥ | ca | pra 'svaḥ | ca | dharmaṇā | adhi | dāne | vi | avanīḥ | adhārayaḥ |*
+> *yaḥ | ca | asamāḥ | ajanaḥ | didyutaḥ | divaḥ | uruḥ | ūrvān | abhitaḥ | saḥ | asi |*
+> *ukthyaḥ ‖ 7 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Indra, you sustain flowering, fruiting plants in the field by your act, bring forth the sky's varied lights, and great hosts of beings or mountains all round.*
+
+> हे इन्द्र यस्त्वं पुष्पिणीः पुष्पवतीश्च प्रस्वः प्रसूताः प्रसूयमाना वावनीरवित्रीरोषधीर्दानेऽधि [?] ॥ उपलूयन्ते सस्यान्यत्रेति दानं क्षेत्रं । अधिकरणे ल्युट् ॥ तस्मिन् क्षेत्रे धर्मणा सकललक्षणेन कर्मणा व्यधारयः । न्यदधाः । यश्च त्वं दिवो द्योतमानस्य सूर्यस्यासमा विषमा नानाप्रकारा दिद्युतो दीप्तीरजनः । अजनयः । यद्वा दिवो नक्षत्राणि ॥ जनेर्लजं [?] व्यत्ययेन शप् ॥ यश्चोरुर्महांस्त्वमभितः सर्वत ऊर्वान् महतः प्राणिनिकायान् पर्वतान्वाजनयः शिष्टं स्पष्टं ॥
+
+> *he indra yastvaṃ puṣpiṇīḥ puṣpavatīśca prasvaḥ prasūtāḥ prasūyamānā vāvanīravitrīroṣadhīrdāne 'dhi [?] ‖ upalūyante sasyānyatreti dānaṃ kṣetraṃ | adhikaraṇe lyuṭ ‖ tasmin kṣetre dharmaṇā sakalalakṣaṇena karmaṇā vyadhārayaḥ | nyadadhāḥ | yaśca tvaṃ divo dyotamānasya sūryasyāsamā viṣamā nānāprakārā didyuto dīptīrajanaḥ | ajanayaḥ | yadvā divo nakṣatrāṇi ‖ janerlajaṃ [?] vyatyayena śap ‖ yaścorurmahāṃstvamabhitaḥ sarvata ūrvān mahataḥ prāṇinikāyān parvatānvājanayaḥ śiṣṭaṃ spaṣṭaṃ ‖*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(इन्द्र (*indra*)—O Indra.) यः (*yaḥ*)—you who. पुष्पिणीः (*puṣpiṇīḥ*)—those endowed with flowers. च (*ca*)—and. प्रस्वः (*prasvaḥ*)—those that give fruits. अवनीः (*avanīḥ*)—the plants. दाने अधि (*dāne adhi*)—in the field.
+
+*(The Pratipadārtha breaks off at the end of p. 701 and continues on p. 702.)*
+
+---
+
+**Progress note:** Done through printed p. 701 (PDF 724). Sūkta 13: the Ṛk 5 Viśeṣaviṣayagaḷu is completed (p. 699), Ṛk 6 is complete (Saṃhitā to Viśeṣaviṣayagaḷu, pp. 699–701), and Ṛk 7 is OPEN: Saṃhitā, Pada and bhāṣya are written, and the Pratipadārtha is written up to "दाने अधि—क्षेत्रदल्लि" and breaks off at the end of p. 701. Bhāvārtha, printed English and Viśeṣaviṣayagaḷu are to follow from p. 702. No grammar pages. No FILE DISAGREE: the reference "Ni. 3-13" agrees with the strip. Unzoomed numerals: headers of pp. 699–701 (Varga 11 on pp. 699 and 701), Ṛk numbers 6 and 7 (the Ṛk 7 number was read only in the Pada). [?] places: Ṛk 6 glyph order in "आर्द्रात्"; "निदधिषे" (प/द); Ṛk 7 first letters of "पुष्पिणीः" and "प्रस्वः"; the sign above "ऊर्वा" in the Saṃhitā; the bhāṣya words "वावनीरवित्रीरोषधीर्दानेऽधि" and "जनेर्लजं". Accent marks not reproduced.
