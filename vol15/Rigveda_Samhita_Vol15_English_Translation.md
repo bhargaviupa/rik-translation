@@ -2057,6 +2057,108 @@ Brahmanaspathi leads by a straight path (to his reward), the worshipper who prop
 
 तं प्राचा प्रनयति—ब्रह्मणस्पतिः ऋजुना मार्गेण प्रकृष्टं फलं प्रापयति (*taṃ prācā pranayati—brahmaṇaspatiḥ ṛjunā mārgeṇa prakṛṣṭaṃ phalaṃ prāpayati*): Brahmaṇaspati, pleased by the offerings of oblations and the like, accompanied by the substances beginning with ghee (printed धृतादि (*dhṛtādi*)) which have been prepared (the supplied text breaks off here, at the end of the page, after "ಬ್ರಹ್ಮಣಸ್ಪತಿಯು").
 
+### Printed p. 68
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 27, p. 68.*
+
+leads the sacrificer along the right path and makes him a sharer of excellent fruit. Here the word प्राचा (*prācā*) is explained as प्राचीनेन (*prācīnena*): it is made clear that the meaning is a straight path followed by the forefathers.
+
+ईं अंहसः उरुष्यति—एनं पापात् रक्षति (*īṃ aṃhasaḥ uruṣyati—enaṃ pāpāt rakṣati*): for the particle ईं (*īṃ*) the meaning "this sacrificer" is given here. Yāska has explained पादपूरणास्ते अनर्थकाः कमीमिद्विति (*pādapūraṇāste anarthakāḥ kamīmidviti*) (Ni. 1-9): the particles कं, ईं, इत्, उ (*kaṃ, īṃ, it, u*) are employed only to fill out a sentence and convey no meaning of their own. Having commented उरुष्यती रक्षाकर्मा इति यास्कः (*uruṣyatī rakṣākarmā iti yāskaḥ*), it is described that Brahmaṇaspati protects the sacrificer from sins.
+
+For the word अंहोश्चित् (*aṃhościt*), two meanings are given: अवृत्तेर्दारिद्र्यात् यद्वा अगत्य हंतुरपि (*avṛtterdāridryāt yadvā agatya haṃturapi*), that is, from poverty (want of livelihood), or from one who comes near and kills; it is stated that Brahmaṇaspati protects from these.
+
+अस्मै अद्भुतः—आचार्यभूतः महान् (*asmai adbhutaḥ—ācāryabhūtaḥ mahān*): the word अद्भुत (*adbhuta*) is stated among the names of "great" (Ni. 3-13). It is described that Brahmaṇaspati, being a teacher and a revered one to the sacrificer, performs abundant service for him.
+
+## Sūkta 27 (Maṇḍala 2)
+
+*The twenty-seventh sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> इमा गिर इति सप्तदशर्चं पंचमं सूक्तं गृत्समदपुत्रस्य कूर्मस्यार्षं
+> गृत्समदस्यैव वा त्रैष्टुभमादित्यदेवताकं । तथा चानुक्रांतं । इमा गिरस्त्रूना
+> कूर्मो गार्त्समदो हि वादित्यमिति ॥ सूक्तविनियोगो लैंगिकः । आदित्यदेवताके
+> पशौ पुरोडाशस्यॆमा गिर इत्येषानुवाक्या । अग्नीषोमाविति खंडे सूत्रितं । इमा
+> गिर आदित्येभ्यो धृतसूस्त आदित्यास उरवो गभीराः । आ-३-८ । इति ॥
+
+*Gist:* *imā giraḥ* is the fifth sūkta of Anuvāka 3, of seventeen ṛks, by Kūrma son of Gṛtsamada (or Gṛtsamada himself), in *triṣṭubh* metre, with the Ādityas as deity; its application is by indication (*laiṅgika*), the first ṛk being the *anuvākyā* for the oblation cake in an animal sacrifice to the Ādityas.
+
+**Anuvāda (Kannada).** The sūkta *imā giraḥ* is the fifth sūkta of the third anuvāka. It has seventeen ṛks. The seer of this sūkta is Kūrma, son of Gṛtsamada, or it is said that Gṛtsamada himself is the seer. The Ādityas are the deity; the metre is *triṣṭubh*. In the Anukramaṇikā it is said: इमा गिरस्त्रूना कूर्मो गार्त्समदो हि वादित्यमिति (*imā girastrūnā kūrmo gārtsamado hi vādityamiti*) [as supplied]. The application of the sūkta is *laiṅgika* (by indication). In an animal sacrifice related to the Ādityas, the first ṛk of this sūkta, *imā giraḥ*, is to be recited as the *anuvākyā* mantra while the oblation cake is offered; this is set out by the sūtra *imā gira ādityebhyo ghṛtasūsta ādityāsa uravo gabhīrāḥ* in the section *Agnīṣomau* of the Āśvalāyana Śrauta-sūtra (Ā. 3-8).
+
+### Printed p. 69
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 6, p. 69.*
+
+**Sūkta—27**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 27 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 6, 7, 8 ‖
+Number of ṛks in the Sūkta: 17 ·
+Ṛṣi: as supplied "ಕರ್ಮೋ ಗಾತ್ಸರ್ಮವೋ ಗೃತ್ಸಮದೋ ವಾ" (Kūrma Gārtsamada, or Gṛtsamada; the supplied reading is garbled, left as supplied) · Devatā: the Ādityas · Chandas: *triṣṭubh* (the supplied text has "ಭಂದುಃ" for the label).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> इ॒मा गिर॑ आदि॒त्येभ्यो॑ घृ॒तस्नूः॑ स॒नाद्राज॑भ्यो जु॒ह्वा॑ जुहोमि ।
+> शृ॒णोतु॑ मि॒त्रो अ॑र्य॒मा भगो॑ नस्तुविजा॒तो वरु॑णो॒ दक्षो॒॑
+> अंशः ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> इमाः । गिरः । आदित्येभ्यः । धृतस्नूः । सनात् । राजभ्यः । जुह्वा । जुहोमि ।
+> शृणोतु । मित्रः । अर्यमा । भगः । नः । तुविजातः । वरुणः । दक्षः । अंशः ॥ १ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> आदित्येभ्योऽदितेः पुत्रेभ्यो राजभ्यो राजमानेभ्य ईश्वरेभ्यो वा
+> मित्रादिभ्यो धृतस्नूर्घृतप्रस्राविणीर्घृतं क्षरंतीरिमा गिरः स्तुतिलक्षणा वाचः
+> सनात्सर्वदा जुह्वा । वाज्ञामैतत् । वागिंद्रियेण जुहोमि । प्रयच्छामि । करो-
+> मिति यावत् ! यद्वा जुहूस्थानीयेन धृतं क्षरंति वाग्रूपाणि हवींषि जुहोमि।
+> आदित्यानुद्दिश्य त्यजामि । मंत्राणां पयोघृतादिक्षणहेतुत्वं च य ऋचोऽधीते
+> पयसः कूल्या अस्येत्यादिना तैत्तिरीयके स्पष्टमाम्मातं । तै. आ. २. १०. ७. ।
+> नोऽस्मदीयस्ता गिरो मित्रादयः प्रत्येकं शृणोतु । ते च तैत्तिरीयेऽष्टौ
+> पुत्रासो आदितेरित्युपक्रम्य स्पष्टमनुक्रांताः । मित्रश्च वरुणश्च धाता चार्यमा
+
+> *ādityebhyo 'diteḥ putrebhyo rājabhyo rājamānebhya īśvarebhyo vā*
+> *mitrādibhyo dhṛtasnūrghṛtaprasrāviṇīrghṛtaṃ kṣaraṃtīrimā giraḥ stutilakṣaṇā vācaḥ*
+> *sanātsarvadā juhvā | vājñāmaitat | vāgiṃdriyeṇa juhomi | prayacchāmi | karo-*
+> *miti yāvat ! yadvā juhūsthānīyena dhṛtaṃ kṣaraṃti vāgrūpāṇi havīṃṣi juhomi|*
+> *ādityānuddiśya tyajāmi | maṃtrāṇāṃ payoghṛtādikṣaṇahetutvaṃ ca ya ṛco 'dhīte*
+> *payasaḥ kūlyā asyetyādinā taittirīyake spaṣṭamāmmātaṃ | tai. ā. 2. 10. 7. |*
+> *no 'smadīyastā giro mitrādayaḥ pratyekaṃ śṛṇotu | te ca taittirīye 'ṣṭau*
+> *putrāso āditerityupakramya spaṣṭamanukrāṃtāḥ | mitraśca varuṇaśca dhātā cāryamā*
+
+### Printed p. 70
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṇḍala 2, Adhyāya 3, Sūkta 27, p. 70.*
+
+> च अंशुश्च भगश्च इंद्रश्च विवस्वांश्चेत्येत इति । मित्रः प्रमीतेस्त्रायकः । यद्वा
+> सर्वेषां स्निग्धः । अरीन् यच्छति नियच्छतीत्यर्यमा ! भगो भजनीयो देवः ।
+> तुवीति बहुनाम । बहुषु देशेष्वनुग्रहार्थं प्रादुर्भूतः । वरुणविशेषणमेतत् ।
+> पापस्य निवारणाद्वरुणः । दक्षः समर्थः । एतच्चांशस्य विशेषणं । एते प्रत्येकं
+> शृण्वंतु ॥
+
+*Gist:* To the Ādityas, sons of Aditi, I offer these ghee-flowing praises with the ladle of speech; may Mitra, Aryaman, Bhaga, Varuṇa, Dakṣa and Aṃśa each hear them.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+आदित्येभ्यः (*ādityebhyaḥ*)—to the sons of Aditi; राजभ्यः (*rājabhyaḥ*)—to the shining ones, the deities Mitra and the rest, addressing them; धृतस्नूः (*dhṛtasnūḥ*)—that cause ghee to flow; इमा गिरः (*imā giraḥ*)—these words in the form of praise; सनात् (*sanāt*)—always; जुह्वा (*juhvā*)—by means of the ladle (*juhū*) that is the organ of speech; जुहोमि (*juhomi*)—I offer [the supplied text has "ಆರ್ಪಿಸುತ್ತೇನೆ"]; नः (*naḥ*)—these praise-words of ours; मित्रः (*mitraḥ*)—Mitra; अर्यमा (*aryamā*)—Aryaman; भगः (*bhagaḥ*)—Bhaga; तुविजातः (*tuvijātaḥ*)—(for the good of the world) born in many places; वरुणः (*varuṇaḥ*)—Varuṇa; दक्षः (*dakṣaḥ*)—Dakṣa; अंशः (*aṃśaḥ*)—Aṃśa; शृणोतु (*śṛṇotu*)—let hear.
+
+**भावार्थ (Bhāvārtha)**
+
+To the sons of Aditi, the shining Mitra and the other deities, I offer always these praise-words, which cause ghee to flow, by means of the ladle that is the organ of speech. May Mitra, Aryaman, Bhaga, Varuṇa who is born in many places for the good of the world, Dakṣa and Aṃśa hear these praise-words of ours.
+
+**Printed English translation**
+
+I present cotinually [sic], with the ladle (of speech), these oblation-droping [sic] hymns to the royal Adityas: May Mitra, Aryaman, Bhaga, the multipresent Varuna, the powerful Ansha, hear us.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+आदित्येभ्यः राजभ्यः धृतस्नूः गिरः जुह्वा जुहोमि—आदितिपुत्रेभ्यः राजमानेभ्य ईश्वरेभ्यो वा मित्रादिभ्यः धृतं क्षरंतीः स्तुतिलक्षणाः वाचः वागिंद्रियेण करोमि (*ādityebhyaḥ rājabhyaḥ dhṛtasnūḥ giraḥ juhvā juhomi—āditiputrebhyaḥ rājamānebhya īśvarebhyo vā mitrādibhyaḥ dhṛtaṃ kṣaraṃtīḥ stutilakṣaṇāḥ vācaḥ vāgiṃdriyeṇa karomi*): one kind of meaning has been described thus: to the sons of Goddess Aditi, who shine with brilliance or are lords of all, Mitra and the rest, I offer, with the organ of speech, praises that pour nectar (ghee), as one makes an oblation with the ladle, the instrument of sacrifice.
+
+Secondly: यद्वा जुहूस्थानीयेन धृतं क्षरंति वाग्रूपाणि हवींषि आदित्यानुद्दिश्य त्यजामि (*yadvā juhūsthānīyena dhṛtaṃ kṣaraṃti vāgrūpāṇi havīṃṣi ādityānuddiśya tyajāmi*): addressing the Ādityas, with the [supplied text breaks off here, at the end of the page, in the words "ಜೂಹೂ ಎಂಬ ಹೋಮ"] ladle called *juhū*, the sacrificial instrument of oblation
+
 ---
 
-**Progress note:** Done through printed p. 67 (PDF 67). Sūkta 26 Ṛk 2 Special Topics end (p. 64); Ṛk 3 complete (pp. 64-65, Special Topics into p. 66); Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (breaks off at 'ಬ್ರಹ್ಮಣಸ್ಪತಿಯು', p. 67). Hand fixes to kn.md: p. 65 marker/head inserted (merged into p. 64 Pada block), stray accent-number lines '೧ ಜಾಯುಷಾಷ್ಟಕಃ ೧' and '೧ ಹವಸಾತಿ ೨' removed, missing labels added, Pratipadārtha/Bhāvārtha taken out of bhāṣya block, stray '5' removed. Unmarked supplied slips: ವೃತ್ತತೂರ್ಯೆ, ಕೃಣುಷ್ಟ, ಚರುಪುರೋಡಾರಾದಿ, ನರದೊಡನೆ, ಧೃತವದ್ಭಿಃ/ಧೃತಾದಿ, ಆಸಸಿ
+**Progress note:** Done through printed p. 70 (PDF 70). Sūkta 26 Ṛk 4 Special Topics end (p. 68); Sūkta 27 intro, header, Ṛk 1 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Special Topics begun (breaks off at 'ಜೂಹೂ ಎಂಬ ಹೋಮ', p. 70). Hand fixes to kn.md: Anuvāda and Sūkta header lines taken out of > blocks, Pratipadārtha label added and taken out of bhāṣya block. Supplied slips left: ಕರ್ಮೋ ಗಾತ್ಸರ್ಮವೋ (ṛṣi), ಭಂದುಃ, ಅ೦ಹಸಃ, ಪ್ರತಿವಾರ್ಘ, ಆರ್ಪಿಸುತ್ತೇನೆ
