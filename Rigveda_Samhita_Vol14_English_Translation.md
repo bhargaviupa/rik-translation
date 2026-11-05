@@ -27461,4 +27461,112 @@ In this Ṛk the word परावृक् (*parāvṛk*) occurs, but Sāyaṇa
 
 ---
 
-**Progress note:** Done through printed p. 716 (PDF 739). Sūkta 13, Ṛk 12 is OPEN: its Bhāvārtha, printed English and most of the Viśeṣaviṣayagaḷu (arama­yaḥ, sarapasaḥ, turvītaye/vayyāya, Parāvṛk with the Vedic Index quotation ending "P. 492–493)") are written; p. 717 should show whether the Viśeṣa continues, the grammar section and the end of the Ṛk. Numeral file agreed with the strips on all rows (1-112-6, 1-61-11, 1-54-6, 4-19-6, 1-36-18, 1-112-23, 2-3-6, 9-68-8, 2-15-7, 10-61-8; none zoomed); 1-112-8 (p. 716) was not in the file, read from the strip, unzoomed. Headers of pp. 714–716 unzoomed (the Adhyāya digit of the p. 716 header looks like 3, doubtful). [?] places: "क्षरन्तीं" (Ṛ. Saṃ. 4-19-6 line, p. 715); "नो" in the 10-61-8 quotation; "परावृक्त" in the English quotation; "अतिक्लान्तौ/पर्यटन्तौ" in the Skandasvāmi quotation. The doubtful clause on p. 713, "चक्षुर्दानादसंगु[?]करणात्", is printed clearly on p. 716 as "चक्षुर्दानादपंगुकरणात्".
+### Printed p. 717 (PDF 740)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]" [the varga numeral is doubtful, it could be 12], "Ṛgvedasaṃhitā", "717". The page opens with the end of the Viśeṣaviṣayagaḷu of Ṛk 12, continuing from p. 716.)*
+
+If their opinion is examined together with the preceding and following contexts, one has to say that they did not understand the meaning of the Ṛk Ṛ. Saṃ. 10-61-8 correctly (the numerals "10-61-8" as printed; they agree with the numeral file). The word परावृज् (*parāvṛj*) in this Ṛk indicates the name of the sage spoken of above, but they take a wrong meaning, namely that he is going towards the south, and so they express a doubt. Their opinion that Sāyaṇa's explanation, that the word परावृक् (*parāvṛk*) indicates the name of a sage, is itself not correct, is also not sound.
+
+*(End of the Viśeṣaviṣayagaḷu of Ṛk 12. No grammar section is printed for this Ṛk.)*
+
+---
+
+#### Ṛk 13
+
+**॥ संहितापाठः ॥**
+
+> अ॒स्मभ्यं॒ तद्व॑सो दा॒नाय॒ राधः॒ सम॑र्थयस्व ब॒हु ते॑ वस॒व्यं॑ ।
+> इन्द्र॒ यच्चि॒त्रं श्र॑व॒स्या अनु॒ द्यून्बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
+
+> *asmabhyaṃ tadvaso dānāya rādhaḥ samarthayasva bahu te vasavyaṃ |*
+> *indra yaccitraṃ śravasyā anu dyūnbṛhadvadema vidathe suvīrāḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> अस्मभ्यं । तत् । वसो इति । दानाय । राधः । सं । अर्थयस्व । बहु । ते । वसव्यं ।
+> इन्द्र । यत् । चित्रं । श्रवस्याः । अनु । द्यून् । बृहत् । वदेम । विदथे । सुऽवीराः ॥ १३ ॥
+
+> *asmabhyaṃ | tat | vaso iti | dānāya | rādhaḥ | saṃ | arthayasva | bahu | te | vasavyaṃ |*
+> *indra | yat | citraṃ | śravasyāḥ | anu | dyūn | bṛhat | vadema | vidathe | su 'vīrāḥ ‖ 13 ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: O Indra, give us fully, for giving and enjoying, the abundant wealth you have and wish us to enjoy day by day; with good sons we shall recite abundant śastra mantras at the sacrifice.*
+
+> वसो सर्वस्य वासक वसुमन् । हे इन्द्र स्तोतृभ्योऽस्मभ्यं तद्राधो धनं दानाय । उपलक्षणमेतत् । भोगाय च समर्थयस्व । देहि । अस्मान् संगमयेत्यर्थः ॥ अर्थ याचने चुरादिरदंते आत्मनेपदी ॥ ते तव तद्बहु प्रभूतं वसव्यं ॥ वस्वेव वसव्यं । वस्वादित्वात् स्वार्थिको यत् ॥ तादृशं प्रभूतं धनमस्ति खलु । चित्रं चायनीयं यद्धनमनु द्यून् अन्वहं ॥ कालाध्वनोरिति द्वितीया ॥ श्रवस्याः । भोग्यमिच्छेः ॥ अंतर्णीतण्यर्थत्वादकर्मकत्वं[?] । यथा रोदितीति । स त्वन्यः । द्वे ह्यत्र कर्मणी उद्देश्यकर्म च विधेयकर्मांतर्भूतं । उद्देश्यकर्मणा सकर्मको भविष्यति । यथा माणवकं पुत्रीयतीति भाष्ये उदाहृतं । पा. ३-१-८-२ । श्रवःशब्दाच्छंदसि परेच्छायां क्यच् । तदंतस्य लेट्यडागमो रूपं ॥ सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम ॥
+
+> *vaso sarvasya vāsaka vasuman | he indra stotṛbhyo 'smabhyaṃ tadrādho dhanaṃ dānāya | upalakṣaṇametat | bhogāya ca samarthayasva | dehi | asmān saṃgamayetyarthaḥ ‖ artha yācane curādiradaṃte ātmanepadī ‖ te tava tadbahu prabhūtaṃ vasavyaṃ ‖ vasveva vasavyaṃ | vasvāditvāt svārthiko yat ‖ tādṛśaṃ prabhūtaṃ dhanamasti khalu | citraṃ cāyanīyaṃ yaddhanamanu dyūn anvahaṃ ‖ kālādhvanoriti dvitīyā ‖ śravasyāḥ | bhogyamiccheḥ ‖ aṃtarṇītaṇyarthatvādakarmakatvaṃ[?] | yathā roditīti | sa tvanyaḥ | dve hyatra karmaṇī uddeśyakarma ca vidheyakarmāṃtarbhūtaṃ | uddeśyakarmaṇā sakarmako bhaviṣyati | yathā māṇavakaṃ putrīyatīti bhāṣye udāhṛtaṃ | pā. 3-1-8-2 | śravaḥśabdācchaṃdasi parecchāyāṃ kyac | tadaṃtasya leṭyaḍāgamo rūpaṃ ‖ suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema ‖*
+
+*(Reading notes: the end-of-line division "स / त्वन्यः" is read as "स त्वन्यः". The word "भोग्यमिच्छेः" is read with the printed hook-sign as *ma*. The word "अकर्मकत्वं" is read with doubt [?]. The reference "पा. ३-१-८-२" is as printed and agrees with the numeral file ("31-822"); it was not zoomed. The grammatical remarks are transcribed and not explained.)*
+
+---
+
+### Printed p. 718 (PDF 741)
+
+*(Header, read from the strip and not zoomed: "718", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+वसो (*vaso*)—O wealthy one. इन्द्र (*indra*)—O Indra. चित्रं (*citraṃ*)—of many kinds and delightful. यत् (*yat*)—which wealth. अनु द्यून् (*anu dyūn*)—every day. श्रवस्याः (*śravasyāḥ*)—do you wish us to enjoy it, or: do you wish that we should enjoy it. ते (*te*)—belonging to you, बहु (*bahu*)—abundant, वसव्यं (*vasavyaṃ*)—and rich in possessions. तत् राधः (*tat rādhaḥ*)—that wealth. अस्मभ्यं (*asmabhyaṃ*)—to us. दानाय (*dānāya*)—both for giving and for enjoyment. समर्थयस्व (*samarthayasva*)—give fully. सुवीराः (*suvīrāḥ*)—we, endowed with excellent sons. विदथे (*vidathe*)—at this sacrifice. बृहत् (*bṛhat*)—abundant śastra and other mantras. वदेम (*vadema*)—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O wealthy Indra, give us fully, both for giving (to others) and for our enjoyment, that wealth which you wish us to enjoy day by day, which is abundant in you and full of riches. We, endowed with excellent sons, shall recite abundant śastra and other mantras at this sacrifice.
+
+**English Translation** *(as printed)*
+
+Possessor of riches, exert your ability to bestow wealth upon us; for yours is great affluence: may you, Indra, be disposed to grant us exceeding abundance day by day, so that, blessed with worthy descendants, we may glorify you at (our) sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Up to now the heroic deeds of Indra have been described in many ways. Now, in this last Ṛk of the sūkta, as a conclusion, Indra is praised and he is prayed to give wealth and the like.
+
+वसो—सर्वस्य वासक वसुमन् हे इन्द्र (*vaso—sarvasya vāsaka vasuman he indra*)—"Giver of a dwelling to all, or: wealthy O Indra". The commentator gives this word two kinds of meaning.
+
+अस्मभ्यं दानाय राधः समर्थयस्व (*asmabhyaṃ dānāya rādhaḥ samarthayasva*)—the sense is: give wealth to us, both for giving to others and for our own enjoyment.
+
+बहु ते वसव्यं (*bahu te vasavyaṃ*)—from this sentence the sense is conveyed that Indra has much wealth and the like, and that therefore Indra is able to give wealth and the like to those who praise him.
+
+---
+
+### Printed p. 719 (PDF 742)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 13 ]", "Ṛgvedasaṃhitā", "719".)*
+
+इन्द्र यत् चित्रं श्रवस्याः अनु द्यून् (*indra yat citraṃ śravasyāḥ anu dyūn*)—O Indra, Indra is prayed to give to us, who desire wealth, wealth and other things of many kinds every day.
+
+बृहत् वदेम विदथे सुवीराः (*bṛhat vadema vidathe suvīrāḥ*)—
+
+> सुवीराः कल्याणपुत्रपौत्राः संतो वयं विदथेऽस्मिन्यज्ञे बृहत् प्रभूतं शस्त्रादिकं वाक्यं वदेम ॥
+
+> *suvīrāḥ kalyāṇaputrapautrāḥ saṃto vayaṃ vidathe 'sminyajñe bṛhat prabhūtaṃ śastrādikaṃ vākyaṃ vadema ‖*
+
+Accompanied by excellent sons, grandsons and the like and by valiant servants, we shall, for your pleasure, Indra, recite abundant śastra and other mantras at this sacrifice: as is said in the earlier sūktas, so at the end of this sūkta too the sage has expressed this wish.
+
+*(End of Sūkta 13. The Kannada prints the heading of the next sūkta:)*
+
+---
+
+## हदिनाल्कनेय सूक्तवु — Fourteenth Sūkta (Hadinālkaneya sūktavu)
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: Sūkta "adhvaryavo bharata", twelve Ṛks, third sūkta of the anuvāka, by Gṛtsamada, in Triṣṭubh, addressed to Indra. Its use (viniyoga) is by indication (laiṅgika), in the Atirātra.*
+
+> अध्वर्यवो भरतेति द्वादशर्चं तृतीयं सूक्तं गार्त्समदं त्रैष्टुभमैन्द्रं । अध्वर्यवो द्वादशेत्यनुक्रांतं ॥ सूक्तविनियोगो लैंगिकः । अतिरात्रे प्रथमे पर्याये होतुः शस्त्रयाज्याध्वर्यव इत्येषा । अध्वर्यवो भरतेन्द्राय सोममिति याज्या । आ. ६-४ । इति सूत्रितं ॥
+
+> *adhvaryavo bharateti dvādaśarcaṃ tṛtīyaṃ sūktaṃ gārtsamadaṃ traiṣṭubhamaindraṃ | adhvaryavo dvādaśetyanukrāṃtaṃ ‖ sūktaviniyogo laiṃgikaḥ | atirātre prathame paryāye hotuḥ śastrayājyādhvaryava ityeṣā | adhvaryavo bharatendrāya somamiti yājyā | ā. 6-4 | iti sūtritaṃ ‖*
+
+*(Reading note: the line break "त्रैष्टुभ- / मैन्द्रं" is joined as "त्रैष्टुभमैन्द्रं". The sūtra reference "आ. ६-४" is as printed and agrees with the numeral file; not zoomed.)*
+
+**अनुवाद (Anuvāda)**
+
+The sūkta beginning अध्वर्यवो भरत (*adhvaryavo bharata*) is the third sūkta in the second anuvāka. It has twelve Ṛks. The ṛṣi of this sūkta is Gṛtsamada; the deity is Indra; the metre is Triṣṭubh. The Anukramaṇikā says अध्वर्यवो द्वादश (*adhvaryavo dvādaśa*) and so on. The use (viniyoga) of this sūkta is laiṅgika (by indication). In the sacrifice called Atirātra, in the first paryāya, the Hotṛ is to recite the first Ṛk of this sūkta अध्वर्यवो भरत (*adhvaryavo bharata*) as the śastra-yājyā mantra; this is set out in Āśvalāyana's Śrauta Sūtra, in the sūtra अध्वर्यवो भरतेन्द्राय सोममिति याज्या (*adhvaryavo bharatendrāya somamiti yājyā*) (Ā. 6-4, as printed; the numerals agree with the numeral file).
+
+*(The page ends here, with a rule. Ṛk 1 of Sūkta 14 begins on the next page.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 719 (PDF 742). Sūkta 13 is complete (end of the Viśeṣa of Ṛk 12 on p. 717; Ṛk 13 complete on pp. 717–719; no grammar section printed). Sūkta 14 is begun: the Sāyaṇa introduction and the Anuvāda are written (12 Ṛks; ṛṣi Gṛtsamada; Indra; Triṣṭubh); Ṛk 1 starts on p. 720, nothing of it written. Numeral file agreed with the strips on all rows (10-61-8 on p. 717; "31-822" read as Pā. 3-1-8-2; Ā. 6-4 twice on p. 719); none zoomed. Header numerals unzoomed: p. 717 varga digit doubtful (13 or 12). [?] places: "अकर्मकत्वं" (p. 717 bhāṣya); the reading "भोग्यमिच्छेः" (p. 717 bhāṣya) was settled from the Pratipadārtha but not zoomed; the last digit of the Pāṇini reference (3-1-8-2) is unzoomed.
