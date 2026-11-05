@@ -16463,6 +16463,91 @@ O Agni, son of strength, sustained by all, you shine bearing bright and swift fl
 
 Son of strength, sustained by all, you shine, possessing bright and rapid rays: when the vigorous Agni is magnified by praise, then the showers of sweet rain descend.
 
+### Printed p. 520
+
+*[Running head, p. 520: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1 [printed "೧" without the stop], Sū. 1.]*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+सहसः सूनो—सहसस्पुत्र । (*sahasaḥ sūno—sahasasputra |*) When fire is produced between two *araṇi* sticks, great force is required to churn with the upper *araṇi*; therefore it is a very common practice in the Ṛgveda to call the fire produced by such application of force सहसः सूनुः (*sahasaḥ sūnuḥ*), "son of strength". "Agni sustained by all" means that all establish this Agni in their houses and sacrificial grounds and praise him. Such an Agni shines with his bright and swift rays. As soon as the sacrificer in the sacrifice describes Agni's qualities with praises and so on and makes him grow, streams of very sweet water fall on the earth as rain. That is: since Agni, who is worshipped or praised by all, is in the form of lightning in the region of clouds in the atmosphere, he appears very brilliant. When it is said that his rays move with great force, it is intended that lightning, shining very brilliantly, appears and moves in the atmosphere with great force. The main intent is that as soon as sacrificers and others praise such an Agni in the sacrifice, rain with thunder, thunderbolt and lightning falls in torrents in the atmosphere on the earth.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> पि॒त्चु॒दूध॑र्ज॒नुषा॑ विवेद॒ व्य॑स्य॒ धारा॑ असृज॒द्वि धेनाः॑ ।
+> गुहा॒ चरं॑तं॒ सखि॑भिः शि॒वेभि॑र्दि॒वो य॒ह्वीभि॒र्न गुहा॑ बभूव ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> पितुः । चित् । ऊधः । जनुषा । विवेद । वि । अस्य । धाराः । असृजत् । वि । धेनाः ।
+> गुहा । चरंतं । सखिभिः । शिवेभिः । दिवः । यह्वीभिः । न । गुहा । बभूव ॥ ९ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> पितुरंतरिक्षस्योधरूधःस्थानीयं जलप्रदेशमयमग्निर्जनुषा स्वयमेव
+> विवेद । जानाति । किंचायमग्नि रस्क्योधसः संबंधिन्यो धाराः पयोधारा व्यसृजत्।
+
+> *pituraṃtarikṣasyodharūdhaḥsthānīyaṃ jalapradeśamayamagnirjanuṣā svayameva*
+> *viveda | jānāti | kiṃcāyamagni raskyodhasaḥ saṃbaṃdhinyo dhārāḥ payodhārā vyasṛjat|*
+
+### Printed p. 521
+
+*[Running head, p. 521: Aṣṭaka 2, Adhyāya 8, Varga 14, Ṛgvedasaṃhitā.]*
+
+> धेना माध्यमिका वाचश्च विसृजति । शिवेभिः शिवंकरैः सखिभिरात्मनः सखिभूतैर्वायुःभिर्दिवो यह्वीभिरंतरिक्षस्यापत्यभूताभिरद्भिश्च सह गुहा गुहायां चरंतं वर्तमानमेनमग्निं गुहा चित् गुहायां स्थितः कोऽपि न बभूव । प्रापुं समर्थो
+> नाभवत् ॥
+
+*(Gist: Agni knows by his very birth the udder-like watery region of the atmosphere, his father; he lets its streams and the speech of the middle region go forth; no one could reach him lurking in the cave with the winds and the waters. The bhāṣya block is split where the print splits it at the page break; hyphenated line breaks were joined.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Agniḥ: Agni.) Pituḥ: of his father, the atmosphere. Ūdhaḥ: the watery region like an udder. Januṣā: by his very birth. Viveda: knows. Asya: contained in this udder. Dhārāḥ: the streams of water. Vi asṛjat: released and made to flow. Dhenāḥ vi: also manifested the speech of the middle region. Śivebhiḥ: with auspicious ones. Sakhibhiḥ: his friends, the winds. Divaḥ: of the atmosphere. Yahvībhiḥ: with the waters, like children. Guhā: in the cave (hiding). Carantaṃ: this Agni who is hidden within. (To obtain) Guhā cit: though in that same cave. Na babhūva: no one was able.
+
+**भावार्थ (Bhāvārtha)**
+
+Agni knows by his very birth the watery region, like an udder, of his father the atmosphere. He releases the streams of water contained in this udder and makes them flow. He also manifests the speech of the middle region. No one was able to obtain this Agni, hidden in the cave with the auspicious winds, his friends, and with the waters that are like children of the atmosphere, though he was in that same cave.
+
+**Printed English translation**
+
+At his birth he knew the udder of his parent, and let forth its torreents [sic], and its speech (of thunder); there was no one to detect him, lurking in the deep, with his auspicious associates, (the winds), and the many (waters) of the firemament [sic].
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ಪಿತುಃ ಚಿತ್ ಊಧಃ ಜನುಷಾ ವಿವೇದ—ಅಂತರಿಕ್ಷಸ್ಯ ಮಧ್ಯೇ ಊಧಸ್ಥಾನೀಯಂ ಜಲಪ್ರದೇಶ
+ಮಗ್ನಿಃ ಸ್ವಯಮೇವ ಜಾನಾತಿ ।⟧ Here पितुः (*pituḥ*) means the atmosphere between Heaven and Earth, who are Agni's mother and father. The clouds massed in this atmosphere are the mother's ऊध (*ūdha*), that is, breast or udder; the water in the cloud is the milk in the breast. As a newborn child knows by himself the milk in his mother's breast, so Agni, in the form of lightning, has known by himself, without anyone's help, the cloud-waters in the atmosphere, which are like milk in the breast
+
+### Printed p. 522
+
+*[Running head, p. 522: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. [as printed] 1, Sū. 1.]*
+
+: this is the intent.
+
+अस्य धाराः वि अस्यजत् धेनाः वि (*asya dhārāḥ vi asyajat dhenāḥ vi*) [as supplied; अस्यजत् (*asyajat*) for असृजत् (*asṛjat*)]—further, this Agni in the form of lightning, appearing in the atmosphere, poured as rain the waters stored in the clouds, the breasts of the atmosphere. And he was manifested also in the form of the speech of the middle region. That is, from time to time shining lightning (Agni) appeared in the middle of the clouds and caused the rain to fall, and thunderbolt and thunder were also heard in the atmosphere: this is the intent.
+
+शिवेभिः सखिभिः दिवः यह्वीभिः गुहाः चरंतं गुहा चित् न बभूव (*śivebhiḥ sakhibhiḥ divaḥ yahvībhiḥ guhāḥ caraṃtaṃ guhā cit na babhūva*)—since a strong wind arises when it rains, the wind is described as friend to Agni (lightning). Since the waters fall from the clouds in the atmosphere as rain, the waters are described also as the children of the atmosphere. गुहा चरंतं (*guhā caraṃtaṃ*) means that, as an object in a cave stays hidden without falling under the people's sight, so, though he is right there, he is seen by no one. The heavy rain with thunder, thunderbolt, lightning and a violently blowing wind is described here, and the greatness of Agni is explained: that all this is due to the power of Agni in the form of lightning, and that no one has the strength or capacity to know it.
+
+*[Stray line in the supplied text: "೧ ಕಂಠೀರವ ।", kept as a note in kn.md.]*
+
+#### Ṛk 10
+
+**॥ संहितापाठः ॥**
+
+*(In the supplied text the Saṃhitā and Pada of Ṛk 10 stand without their labels; the labels were inserted by hand. The Saṃhitā is printed with ॥ ೧೦ ॥ typed as "। ೧೦ ॥" at its end.)*
+
+> पि॒तुश्च॒ गर्भं॑ जनि॒तुश्च॑ बभ्रे पू॒र्विरेको॑ अधय॒त्पिप्था॑नाः ।
+> वृष्णे॑ स॒पत्नी॒ शुच॑ये॒ संबं॑धू उ॒भे अ॑स्मै मनु॒ष्ये॒३॒॑ऽसि पा॑हि । १० ॥
+
+**॥ पदपाठः ॥**
+
+> पितुः । च । गर्भं । जनितुः । च । बभ्रे । पूर्वीः । एकः । अधयत् । पीप्यानाः ।
+> वृष्णे । सपत्नी इति सपत्नी । शुचये । सबंधू इति सबंधू । उभे इति । अस्मै ।
+> मनुष्ये इति । नि । पाहि ॥ १० ॥
+
+> *pituḥ | ca | garbhaṃ | janituḥ | ca | babhre | pūrvīḥ | ekaḥ | adhayat | pīpyānāḥ |*
+> *vṛṣṇe | sapatnī iti sapatnī | śucaye | sabaṃdhū iti sabaṃdhū | ubhe iti | asmai |*
+> *manuṣye iti | ni | pāhi ‖ 10 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 519 (PDF 519). Sukta 1 (Mandala 3) Rik 6 Special Topics finished (p. 517); Rik 7 complete (pp. 517-518); Rik 8 complete through printed English (p. 519), Special Topics to follow. Flags: garbled Pratipadartha label kept as note; English translation label order corrected in kn.md; hyphenated breaks joined in blocks; 2 accent DIFF
+**Progress note:** Done through printed p. 522 (PDF 522). Sukta 1 (Mandala 3) Rik 8 Special Topics finished (p. 520); Rik 9 complete (pp. 520-522); Rik 10 Samhita and Pada at end of p. 522 (labels inserted by hand). Flags: Rik 10 Samhita printed with closing number typed as danda 10; stray line kept as note; asyajat spelling; 3 accent DIFF
