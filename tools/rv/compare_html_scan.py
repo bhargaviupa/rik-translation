@@ -22,7 +22,7 @@ def main():
     ap=argparse.ArgumentParser(); ap.add_argument('--html',nargs='+'); ap.add_argument('--dir'); ap.add_argument('--pages',nargs='+',type=int); ap.add_argument('--sheet'); a=ap.parse_args()
     P={}
     for _f in a.html: P.update(html_pages.load(_f))
-     tot=dict(h=0,s=0,eq=0,one=0,more=0,ins=0,dele=0); rows=[]; per=[]
+    tot=dict(h=0,s=0,eq=0,one=0,more=0,ins=0,dele=0); rows=[]; per=[]
     for pg in a.pages:
         f=os.path.join(a.dir,f'printed{pg}.txt')
         if not os.path.exists(f): print('missing',f); continue
@@ -54,7 +54,7 @@ def chars_mode():
     ap=argparse.ArgumentParser(); ap.add_argument('--html',nargs='+'); ap.add_argument('--dir'); ap.add_argument('--pages',nargs='+',type=int); ap.add_argument('--sheet'); ap.add_argument('--chars',action='store_true'); a=ap.parse_args()
     P={}
     for _f in a.html: P.update(html_pages.load(_f))
-     KN='[\u0C80-\u0CFF]'; tot=dict(h=0,eq=0); rows=[]; per=[]
+    KN='[\u0C80-\u0CFF]'; tot=dict(h=0,eq=0); rows=[]; per=[]
     for pg in a.pages:
         f=os.path.join(a.dir,f'printed{pg}.txt')
         s=''.join(norm_text(open(f,encoding='utf8').read())); h=''.join(norm_text(P.get(pg,'')))
