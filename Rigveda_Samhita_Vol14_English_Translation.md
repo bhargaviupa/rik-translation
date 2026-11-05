@@ -27075,4 +27075,144 @@ All live depending on Indra alone: that is, Indra alone provides food and the li
 
 ---
 
-**Progress note:** Done through printed p. 707 (PDF 730). Sūkta 13: Ṛk 8's Viśeṣaviṣayagaḷu is finished on p. 705. Ṛk 9 is written in full (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English) with its Viśeṣaviṣayagaḷu through p. 707; the Viśeṣaviṣayagaḷu may continue on p. 708, so check its first lines before opening Ṛk 10 (or the sūkta's close). No grammar pages. No FILE DISAGREE: the file's 6-47-18 (bhāṣya and Viśeṣa), Ni. 6-13, 1-112-23, 10-113-9 and 2-15-9 agree with the strips. Unzoomed numerals: headers of pp. 705–707, the Ṛk 9 number. [?] places: the bhāṣya's "ऽदर्थं", "नाद्याद्यद्यैनं" ("न तस्येशे…" quotation), "उपक्षपयित्वान्" and "लजु" (printed so; probably the same blemish as the earlier "लजं"); the Nirukta quotation "आशु अष्टीति" in the Viśeṣa; the vowel in "मायाभिः" in the Viśeṣa quotation. Accent marks are not reproduced.
+### Printed p. 708 (PDF 731)
+
+*(Header, read from the strip and not zoomed: "708", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13". The Viśeṣaviṣayagaḷu of Ṛk 9 ends at the top of the page.)*
+
+*(Reading note: in the quoted Ṛk below, the third word is printed so that the letter before भी looks like द्ध; it is read as दभीतये, the same word as in Ṛk 9. The reference is printed "Ṛ. Saṃ. 4-30-21", which agrees with the numeral file.)*
+
+> अस्वापयद्दभीतये सहस्रा त्रिशतं हथैः । दासानामिन्द्रो मायया ॥
+
+> *asvāpayaddabhītaye sahasrā triśataṃ hathaiḥ | dāsānāmindro māyayā ‖*
+
+*(Ṛg. Saṃ. 4-30-21, as printed.)* In this Ṛk it is said that Indra, by his own magic (माया (*māyā*)), for Dabhīti's sake, put thirty thousand (मूವತ್ತು ಸಹಸ್ರ, "thirty thousand" in the Kannada) dāsa people to sleep.
+
+---
+
+#### Ṛk 10
+
+*(Reading notes: the Ṛk number is printed "॥ १० ॥" at the end of the Saṃhitā; the Pada ends "॥" with the number as on the strip. The Saṃhitā is converted letter by letter from the Kannada. In the Pada the compound sign (ऽ) is read after वि in "विऽस्तिरः" and after सं in "संऽदृशः" as printed. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> विश्वेदनु॑ रोध॒ना अ॑स्य॒ पौंस्यं॑ द॒दुर॑स्मै दधि॒रे कृ॒त्नवे॒ धनं॑ ।
+> षळ॑स्तभ्ना वि॒ष्टिरः॒ पञ्च॑ सं॒दृशः॒ परि॑ प॒रो अ॑भवः॒ सास्यु॒क्थ्यः॑ ॥ १० ॥
+
+> *viśvedanu rodhanā asya pauṃsyaṃ dadurasmai dadhire kṛtnave dhanaṃ |*
+> *ṣaḷastabhnā viṣṭiraḥ pañca saṃdṛśaḥ pari paro abhavaḥ sāsyukthyaḥ ‖ 10 ‖*
+
+**॥ पदपाठः ॥**
+
+> विश्वा । इत् । अनु । रोधनाः । अस्य । पौंस्यं । ददुः । अस्मै । दधिरे । कृत्नवे । धनं ।
+> षट् । अस्तभ्नाः । विऽस्तिरः । पञ्च । संऽदृशः । परि । परः । अभवः । सः । असि । उक्थ्यः ॥
+
+> *viśvā | it | anu | rodhanāḥ | asya | pauṃsyaṃ | daduḥ | asmai | dadhire | kṛtnave | dhanaṃ |*
+> *ṣaṭ | astabhnāḥ | vi 'stiraḥ | pañca | saṃ 'dṛśaḥ | pari | paraḥ | abhavaḥ | saḥ | asi | ukthyaḥ ‖*
+
+**॥ सायणभाष्यम् ॥**
+
+*Gist: all rivers flow following Indra's might; sacrificers give him oblations and all bear wealth for him; he has restrained the six wide expanses and protects the five peoples.*
+
+> विश्वेत् ॥ सुपां सुलुगिति जस आकारः ॥ सर्वा एव रोधना रोधस्स्तत्यो [?] नद्योऽस्येन्द्रस्य पौंस्यं । पुंसो भावः पौंस्यं । वीर्यमिति यावत् । अनु तद्वीर्यमनु वर्तन्ते । अस्मा इन्द्राय ददुः । हविर्लक्षणमन्नं यजमानाः प्रयच्छन्ति । किंच कृत्नवे कर्मणां कर्त्रे इन्द्राय धनं दधिरे । सर्वे जना धारयन्ति । तथा च मन्त्रः । इन्द्राय द्याव ओषधीरुतापो रयिं रक्षन्ति जीरयो वनानि । ३-५१-५ । इति । विष्टिरो विस्तीर्णाः षट् षट्संख्याका उर्वीः । ताश्च द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधय इत्येवंरूपाः । ता अस्तभ्नाः । नियमितवानसि । संदृशः । सम्यक् पश्यन्तीति संदृशो जनाः । पञ्च संदृशः पञ्च जनास् परि सर्वतः परः पारयिता पालयिता वाभवः । भवसि । गतमन्यत् ॥
+
+> *viśvet ‖ supāṃ sulugiti jasa ākāraḥ ‖ sarvā eva rodhanā rodhasstatyo [?] nadyo 'syendrasya pauṃsyaṃ | puṃso bhāvaḥ pauṃsyaṃ | vīryamiti yāvat | anu tadvīryamanu vartante | asmā indrāya daduḥ | havirlakṣaṇamannaṃ yajamānāḥ prayacchanti | kiṃca kṛtnave karmaṇāṃ kartre indrāya dhanaṃ dadhire | sarve janā dhārayanti | tathā ca mantraḥ | indrāya dyāva oṣadhīrutāpo rayiṃ rakṣanti jīrayo vanāni | 3-51-5 | iti | viṣṭiro vistīrṇāḥ ṣaṭ ṣaṭsaṃkhyākā urvīḥ | tāśca dyauśca pṛthivī cāhaśca rātriścāpaścauṣadhaya ityevaṃrūpāḥ | tā astabhnāḥ | niyamitavānasi | saṃdṛśaḥ | samyak paśyantīti saṃdṛśo janāḥ | pañca saṃdṛśaḥ pañca janās pari sarvataḥ paraḥ pārayitā pālayitā vābhavaḥ | bhavasi | gatamanyat ‖*
+
+**ज्ञापकम्:** the Ṛgveda reference in the bhāṣya is printed "३-५१-५" (Ṛg. 3-51-5), which agrees with the numeral file. The word after रोधना… in the first sentence ("रोधस्स्तत्यो", also repeated at the start of the Viśeṣa) is read with doubt; it is glossed there in Kannada as "in their own beds, between the two banks". The bhāṣya's grammatical remark at the start (the *jas* ending replaced by *ā* by the sūtra *supāṃ suluk…*) is transcribed and not explained.
+
+---
+
+### Printed p. 709 (PDF 732)
+
+*(Header, read from the strip and not zoomed: "A. 2 A. 6 V. 11 ]", "Ṛgvedasaṃhitā", "709".)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(continued from p. 708) विश्वा इत् (*viśvā it*)—all. रोधनाः (*rodhanāḥ*)—the rivers also. अस्य (*asya*)—of you who are Indra in form. पौंस्यं (*pauṃsyaṃ*)—the heroic deed. अनु (*anu*)—following (and as its result) flow. अस्मै (*asmai*)—to you, such an Indra. ददुः (*daduḥ*)—(the sacrificers) offer (the oblation). कृत्नवे (*kṛtnave*)—to you, the doer of excellent deeds. धनं (*dhanaṃ*)—wealth. दधिरे (*dadhire*)—(all) offer. विस्तिरः (*vistiraḥ*)—you who pervade widely. षट् (*ṣaṭ*)—the six creations of yours, the earth and the rest. अस्तभ्नाः (*astabhnāḥ*)—have kept under control. पञ्च संदृशः (*pañca saṃdṛśaḥ*)—the five peoples also. परि (*pari*)—everywhere. परः (*paraḥ*)—as the protector. अभवः (*abhavaḥ*)—you have been. सः (*saḥ*)—such a one as you. उक्थ्यः असि (*ukthyaḥ asi*)—are praiseworthy.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, all the rivers, following your heroic deed as you who are Indra in form, flow as its result. The sacrificers offer the oblation to you. They offer wealth also to you, the excellent doer of deeds. You, who pervade widely, have kept under control your six creations, the earth and the rest. And you protect the five peoples everywhere. Such a one as you are exceedingly praiseworthy.
+
+**English Translation** *(as printed)*
+
+You are he, from whose manhood all the rivers (have proceeded); to whom (the pious) have given (offerings); to whom, doer of mighty deeds, they have presented wealth: you are he, who have regulated the six expansive (objects), and are the protector of the five (races), that look up to you: you are he who is to be praised.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+विश्वा इत् अनु रोधनाः अस्य पौंस्यं (*viśvā it anu rodhanāḥ asya pauṃsyaṃ*)—Here रोधनाः (*rodhanāḥ*) means रोधस्स्तत्यो नद्यः (*rodhasstatyo nadyaḥ*) [?]: "in their own beds", that is, the rivers that flow between two banks. पौंस्यं (*pauṃsyaṃ*) means पुंसो भावः (*puṃso bhāvaḥ*): the heroic power that should be natural to men, or excess of ability. All the rivers too flow following Indra's heroic power alone, that is, his excess of ability. That is, the intention is that rivers flow in their own beds only by Indra's ability.
+
+ददुः अस्मै (*daduḥ asmai*)—
+
+> हविर्लक्षणमन्नं इन्द्राय यजमानाः प्रयच्छन्ति ।
+
+> *havirlakṣaṇamannaṃ indrāya yajamānāḥ prayacchanti |*
+
+In the sacrifice the institutors offer food in the form of the oblation, with Indra in view.
+
+दधिरे कृत्नवे धनं (*dadhire kṛtnave dhanaṃ*)—
+
+> कृत्नवे कर्मणां कर्त्रे इन्द्राय धनं दधिरे । सर्वे जना धारयन्ति ।
+
+> *kṛtnave karmaṇāṃ kartre indrāya dhanaṃ dadhire | sarve janā dhārayanti |*
+
+Here, for the word कृत्नवे (*kṛtnave*) the commentator gives कर्मणां कर्त्रे इन्द्राय (*karmaṇāṃ kartre indrāya*), that is, "for Indra who does deeds of daring". For the word सुरूपकृत्नुं (*surūpakṛtnuṃ*) (Ṛg. Saṃ. 1-4-1, as printed; agrees with the numeral file) the commentator explained the meaning of the word कृत्न (*kṛtna*) just as he has said here: शोभनरूपोपेतस्य कर्मणः कर्तारमिन्द्रं (*śobhanarūpopetasya karmaṇaḥ kartāramindraṃ*) ("Indra, the doer of a deed endowed with a beautiful form"). Therefore the intention of this sentence is: the people, or the institutor and the priests, offer wealth for Indra, who does many deeds of daring such as the slaying of Vṛtra; that is, in the sacrifice they offer wealth in the form of the oblation or of Soma. On this matter—
+
+*(continues on p. 710)*
+
+---
+
+### Printed p. 710 (PDF 733)
+
+*(Header, read from the strip and not zoomed: "710", "Sāyaṇabhāṣyasahitā", "[Maṃ. 2 A. 2 Sū. 13".)*
+
+> इन्द्राय द्याव ओषधीरुतापो रयिं रक्षन्ति जीरयो वनानि ।
+
+> *indrāya dyāva oṣadhīrutāpo rayiṃ rakṣanti jīrayo vanāni |*
+
+*(Ṛg. Saṃ. 3-51-5, as printed; agrees with the numeral file.)* Having quoted this Ṛk, the commentator explains the meaning that the heaven, the herbs and trees, the waters, men and trees all protect and keep what wealth they have in themselves (the things in the form of wealth), in order to offer it to Indra.
+
+षट् अस्तभ्नाः विस्तिरः (*ṣaṭ astabhnāḥ vistiraḥ*)—
+
+> विष्टिरो विस्तीर्णाः षट् षट्संख्याका उर्वीः । ताश्च द्यौश्च पृथिवी चाहश्च रात्रिश्चापश्चौषधय इत्येवंरूपाः । ता अस्तभ्नाः नियमितवानसि ।
+
+> *viṣṭiro vistīrṇāḥ ṣaṭ ṣaṭsaṃkhyākā urvīḥ | tāśca dyauśca pṛthivī cāhaśca rātriścāpaścauṣadhaya ityevaṃrūpāḥ | tā astabhnāḥ niyamitavānasi |*
+
+Six kinds of wide regions have come under your control. Heaven, earth, day, night, water, herbs and trees: all these six kinds are very wide, that is, their extent is very great. Yet the intention is that Indra alone is the controller of them all.
+
+पञ्च संदृशः परि परः अभवः (*pañca saṃdṛśaḥ pari paraḥ abhavaḥ*)—For the word संदृशः (*saṃdṛśaḥ*) in this sentence the commentator says:
+
+> सम्यक् पश्यन्तीति संदृशो जनाः
+
+> *samyak paśyantīti saṃdṛśo janāḥ*
+
+Because they are able to see (or understand) well, संदृश (*saṃdṛśa*) is explained as "people", and पञ्च संदृशः (*pañca saṃdṛśaḥ*) is said to mean the five peoples. Some say that the five peoples are five kinds of people: gandharvas, pitṛs, gods, asuras and rākṣasas. The view of Upamanyu and others is that they are five kinds of people made up of the Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra and the hunter caste called Niṣāda. Sāyaṇa has approved this. Niṣādas are those who kill living beings, or, because sin is full in them, the Nirukta-writers call them Niṣādas. Besides, in that age there may have been five main tribes (tribes) or settlements. We have written the detailed account of these five peoples, and Yāska's explanation in this matter, in Ṛ. Saṃ. parts 2-296, 8-227, 9-321 and 13-407 (as printed; agree with the numeral file). The main intention is that you, Indra, carry such five peoples across from hardship, or protect them.
+
+---
+
+#### Ṛk 11
+
+*(Reading notes: the Ṛk number is not visible on these strips: the Saṃhitā and the Pada each end with a double daṇḍa only. The page ends with the Pada. In the Pada the compound sign (ऽ) is read after सु in "सुऽप्रवाचनं" and after जातू in "जातूऽस्थिरस्य" as printed. Accent marks are not reproduced.)*
+
+**॥ संहितापाठः ॥**
+
+> सु॒प्र॒वा॒च॒नं तव॑ वीर वी॒र्यं१॒॑ यदेके॑न॒ क्रतु॑ना वि॒न्दसे॒ वसु॑ ।
+> जा॒तूष्ठि॑रस्य॒ प्र वयः॒ सह॑स्वतो॒ या च॒कर्थ॒ सेन्द्र॒ विश्वा॑स्यु॒क्थ्यः॑ ॥
+
+> *supravācanaṃ tava vīra vīryaṃ yadekena kratunā vindase vasu |*
+> *jātūṣṭhirasya pra vayaḥ sahasvato yā cakartha sendra viśvāsyukthyaḥ ‖*
+
+**॥ पदपाठः ॥**
+
+> सुऽप्रवाचनं । तव । वीर । वीर्यं । यत् । एकेन । क्रतुना । विन्दसे । वसु ।
+> जातूऽस्थिरस्य । प्र । वयः । सहस्वतः । या । चकर्थ । सः । इन्द्र । विश्वा । असि । उक्थ्यः ॥
+
+> *su 'pravācanaṃ | tava | vīra | vīryaṃ | yat | ekena | kratunā | vindase | vasu |*
+> *jātū 'sthirasya | pra | vayaḥ | sahasvataḥ | yā | cakartha | saḥ | indra | viśvā | asi | ukthyaḥ ‖*
+
+*(Ṛk 11 is left open: the bhāṣya, Pratipadārtha and the rest follow on p. 711.)*
+
+---
+
+---
+
+**Progress note:** Done through printed p. 710 (PDF 733). Sūkta 13: the Viśeṣaviṣayagaḷu of Ṛk 9 is finished at the top of p. 708 (Ṛg. 4-30-21 quotation). Ṛk 10 is written in full (Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English, Viśeṣaviṣayagaḷu, which ends on p. 710 with the Pañcajana discussion). Ṛk 11 is OPEN: only the Saṃhitā and Pada are written (the Ṛk number is not visible on the strips: the verse ends with ॥ alone); the next page (p. 711) should begin with its Sāyaṇa-bhāṣya. No grammar pages. No FILE DISAGREE: 4-30-21, 3-51-5 (twice), 1-4-1, and the Pañcajana references 2-296, 8-227, 9-321, 13-407 agree with the strips. Unzoomed numerals: headers of pp. 708–710, the Ṛk 10 number. [?] places: "रोधस्स्तत्यो" in the bhāṣya and Viśeṣa; the quoted Ṛk's third word (दभीतये, printed with a द्ध-like letter) on p. 708; "चौषधय" (औ vs आ) on p. 708 (clear on p. 710); Pada compound signs in "जातूऽस्थिरस्य". Accent marks are not reproduced.
