@@ -4567,6 +4567,105 @@ Gist: O Indra, protector of the great, strike with the blazing bolt, like lightn
 
 Bṛhaspate — O Indra, great protector; tapuṣā — with the burning weapon; aśnava [as printed] — as if striking with lightning; vṛkadvarasaḥ — covering the doors; asurasya — of the demon; vīrān — the mighty sons; vidhya — strike; indra — O Indra; purā cit — formerly also; dhṛṣatā — with the thunderbolt that strikes; yathā — in what manner; jaghantha [as printed; the Saṃhitā has जघंथ (*jaghaṃtha*), the Pada जघंध (*jaghaṃdha*)] — you struck; eva — in that same way; asmākaṃ — our; śatruṃ — enemy also; jahi — destroy.
 
+### Printed p. 147
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 12, p. 147.*
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, great protector: with the burning weapon strike, as with lightning, the mighty sons of the Asura who have shut the doors. O Indra, as you formerly smote the Asuras with the thunderbolt, so now destroy our enemy.
+
+**Printed English translation**
+
+Pierce, Brihaspathi, with a radiant shaft, as with a thunderbolt, the sons of Asura guarding his gates : in like manner as you formerly slew Vritra by your prowess, so now destroy our enemy.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+बृहस्पते (*bṛhaspate*)—बृहतां परिवृढानां पालयितः (*bṛhatāṃ parivṛḍhānāṃ pālayitaḥ*). The word Bṛhaspati is explained by Yāska as बृहस्पतिः बृहतः पाता ना पालयिता ना (*bṛhaspatiḥ bṛhataḥ pātā nā pālayitā nā*) (Ni. 10-12, as printed "ಸಿ. ೧೦-೧೨"). Explaining the sense as "protector of the mighty", Sāyaṇa describes Indra as the one addressed by this word.
+
+वृकद्वरसः असुरस्य वीरान् (*vṛkadvarasaḥ asurasya vīrān*)—वृकाणि संवृतानि द्वारांसि द्वाराणि येषां (*vṛkāṇi saṃvṛtāni dvārāṃsi dvārāṇi yeṣāṃ*). For the word वीर (*vīra*) he gives वीरान्—पुत्रान् यद्वा संवृतद्वारानसुरस्य वीरान् (*vīrān—putrān yadvā saṃvṛtadvārānasurasya vīrān*). For the word वृकद्वरसः (*vṛkadvarasaḥ*) two kinds of meaning are given: the sons of the Asura who have closed the entrances so that they cannot be entered; or the Asura heroes who have closed the ways so that Indra cannot enter.
+
+To open the doors closed by the Asuras: अश्नव तपुषा विध्य—दीप्तेन वज्रेण अशन्येव ताडय (*aśnava tapuṣā vidhya—dīptena vajreṇa aśanyeva tāḍaya*). The meaning is explained thus: let him strike the Asuras' sons and the Asura heroes with the thunderbolt that blazes with his own splendour, as one strikes with lightning. And पुरा चित् धृषता यथा जघंथ एव आस्माकं शत्रुं जहि (*purā cit dhṛṣatā yathā jaghaṃtha eva āsmākaṃ śatruṃ jahi*): the sense of "and" is given to the word चित् (*cit*), and the sacrificers' wish is described: as Indra formerly struck the enemies with the thunderbolt that overcomes enemies, so may he now strike the enemies of the sacrificers.
+
+#### Ṛk 5
+
+**॥ संहितापाठः ॥**
+
+> अव॑ क्षिप दि॒वो अश्मा॑नमु॒च्चा येन॒ शत्रुं॑ मंदसा॒नो नि॒जूर्वाः॑ ।
+> तो॒कस्य॑ सा॒त् तन॑यस्य॒ भूरे॑र॒स्मा अ॒र्धं कृ॑णुतादिंद्र॒ गोनां॑ ॥
+
+> *ava kṣipa divo aśmānamuccā yena śatruṃ maṃdasāno nijūrvāḥ |*
+> *tokasya sāt tanayasya bhūrerasmā ardhaṃ kṛṇutādiṃdra gonāṃ ‖*
+
+### Printed p. 148
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2 [as printed; Maṇḍala 1], A. 3, Sū. 30, p. 148.*
+
+**॥ पदपाठः ॥**
+
+> अव । क्षिप । दिवः । अश्मानं । उच्चा । येन । शत्रुं । मंदसानः । निजूर्वाः ।
+> तोकस्य । साता । तनयस्य । भूरेः । आस्मान् । अर्धं । कृणुतात् । इंद्र । गोनां ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे इंद्र दिवो नभसः सकाशादश्मानमश्मवत्कठिनं वज्रमुच्चा उच्चैर्वर्त-
+> मानस्त्वमवक्षिप्त । अस्मदीयान् शत्रूनुद्दिश्यावस्ताक्षिप । येन वज्रेण मंदसानः
+> स्तोतृभिः स्तूयमानः सन् शत्रुं निजूर्वाः । न्यहिंसीः ॥ जुर्वि हिंसार्थः ।
+> लेट्यडागमः ॥ तथा तोकस्य भूरेर्भर्तव्यस्य तनयस्य पौत्रस्य सात् संभजने ॥
+> निमित्ते सप्तम्येषा ॥ संभजनार्थं । तथा हे इंद्र गोनां गवां संभजनार्थं
+> चास्मान् अस्माकं ॥ विभक्तिव्यत्ययः ॥ अर्धं समृद्धिं कृणुतात् । कुरु ॥ गोः
+> पादांत इति गोशब्द स्यामो नुडागमः ॥
+
+> *he iṃdra divo nabhasaḥ sakāśādaśmānamaśmavatkaṭhinaṃ vajramuccā uccairvarta-*
+> *mānastvamavakṣipta | asmadīyān śatrūnuddiśyāvastākṣipa | yena vajreṇa maṃdasānaḥ*
+> *stotṛbhiḥ stūyamānaḥ san śatruṃ nijūrvāḥ | nyahiṃsīḥ ‖ jurvi hiṃsārthaḥ |*
+> *leṭyaḍāgamaḥ ‖ tathā tokasya bhūrerbhartavyasya tanayasya pautrasya sāt saṃbhajane ‖*
+> *nimitte saptamyeṣā ‖ saṃbhajanārthaṃ | tathā he iṃdra gonāṃ gavāṃ saṃbhajanārthaṃ*
+> *cāsmān asmākaṃ ‖ vibhaktivyatyayaḥ ‖ ardhaṃ samṛddhiṃ kṛṇutāt | kuru ‖ goḥ*
+> *pādāṃta iti gośabda syāmo nuḍāgamaḥ ‖*
+
+Gist: O Indra, standing high, hurl from the sky the stone-hard thunderbolt, with which, praised, you slew the enemy, at our foes; and bring us prosperity for our sons, grandsons and cattle. The grammatical tail (the root जुर्वि (*jurvi*) in the sense of injuring and the लेट् (*leṭ*) augment; the locative of cause; the substitution of नुडागमः (*nuḍāgamaḥ*) after गो (*go*)) is noted without explanation.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Indra—O Indra; yena—with which thunderbolt; mandasānaḥ—you who are praised with hymns; śatruṃ—the enemy; nijūrvāḥ—you slew (such a one); aśmānaṃ—the hard thunderbolt; divaḥ—from the sky; uccā—you who stand in the upper region; ava kṣipa—hurl upon the enemy; tokasya—of the son (and); bhūreḥ—who is to be nourished; tanayasya—of the grandson; sāt—for the nourishing; gonāṃ—for the nourishing of the cows; asmān—to us; arthaṃ [as printed; the Saṃhitā and bhāṣya have अर्धं (*ardhaṃ*)]—prosperity of wealth; kṛṇutāt—bring about.
+
+**भावार्थ (Bhāvārtha)**
+
+O Indra, you who are praised by the singers: with the hard thunderbolt with which you slay the enemy, standing in the upper region hurl it from the sky upon the enemy. For the protection of my son to be nourished and of my grandson, and for the protection of the cows, bring about for us prosperity of wealth.
+
+**Printed English translation**
+
+You, being on high, cast down from heaven the adamantine (thunderbolt), wherewith, when exhilarated, you slew your foe; and make us affluent in the possession of many sons, and grandsons, and cattle.
+
+### Printed p. 149
+
+*Running head: Ṛgveda-saṃhitā, Aṣṭaka 2, Adhyāya 7, Varga 13, p. 149.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Indra: दिवः अश्मानं उच्चा अव क्षिप—उच्चैर्वर्तमानस्त्वं नभसस्सकाशात् अस्मदीयान् शत्रून् उद्दिश्य अश्ववत्कठिनं वज्रं प्रक्षिप (*divaḥ aśmānaṃ uccā ava kṣipa—uccairvartamānastvaṃ nabhasassakāśāt asmadīyān śatrūn uddiśya aśvavatkaṭhinaṃ vajraṃ prakṣipa*) [sic: अश्ववत् (*aśvavat*) as supplied; the bhāṣya has अश्मवत् (*aśmavat*)]. Giving for the word अश्मानं (*aśmānaṃ*) the meaning "harder than stone", the text expresses the wish that Indra, who stands in the highest region of all, may hurl such a thunderbolt for the destruction of our enemies, the sacrificers' enemies.
+
+तोकस्य तनयस्य सात् गोनां अस्मान् अर्थं कृणुतात् पुत्रस्य पौत्रस्य संभजने निमित्ते गवां संभजनार्थं च अस्माकं समृद्धिं कुरु (*tokasya tanayasya sāt gonāṃ asmān arthaṃ kṛṇutāt putrasya pautrasya saṃbhajane nimitte gavāṃ saṃbhajanārthaṃ ca asmākaṃ samṛddhiṃ kuru*). Yāska reads the words तोक (*toka*) and तनय (*tanaya*) among the names of offspring (Ni. 3-2, as printed "ನಿ. ೩-೨"). He explains their derivation: तोकं शुद्यतेः तनयं तनोतेः (*tokaṃ śudyateḥ tanayaṃ tanoteḥ*) (Ni. 10-8). And in
+
+उषस्तच्चित्रमाभरास्मभ्यं वाजिनीवति । येन तोकं च तनयं च धामहे ॥ (*uṣastaccitramābharāsmabhyaṃ vājinīvati | yena tokaṃ ca tanayaṃ ca dhāmahe ‖*) (Ṛ. Saṃ. 1-92-13)
+
+the word तोक (*toka*) is explained as son and the word तनय (*tanaya*) as grandson. Here, addressing Indra, the sacrificers pray that their sons, grandsons (children's children), cows and the like may be nourished, and that wealth and the like may increase so that they may live in comfort.
+
+Yāska gives many meanings of the word गो (*go*) (Ni. 2-5). Sāyaṇa explains it as "cows".
+
+#### Ṛk 6
+
+**॥ संहितापाठः ॥**
+
+> प्र हि क्रतुं॑ वृ॒हथो॒ यं व॑नु॒थो र॒ध्रस्य॑ स्थो॒ यज॑मानस्य॒
+> चो॒दौ ।
+> इंद्रा॑सोमा यु॒वम॒स्मै अ॑विष्टम॒स्मिन्भ॒यस्थे॑ कृणुतमु लो॒कं ॥
+
+> *pra hi kratuṃ vṛhatho yaṃ vanutho radhrasya stho yajamānasya*
+> *codau |*
+> *iṃdrāsomā yuvamasmai aviṣṭamasminbhayasthe kṛṇutamu lokaṃ ‖*
+
 ---
 
-**Progress note:** Done through printed p. 146 (PDF 146). Sūkta 30 Ṛk 3 Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English; p. 145 Special Topics; Ṛk 4 Saṃhitā, Pada, bhāṣya, Pratipadārtha (Bhāvārtha and printed English follow). Hand fixes to kn.md: Ṛk 4 block split into Saṃhitā/Pada/bhāṣya blocks, garbled labels and stray lines removed, 'This image contains…' line and stray '10' removed, Pratipadārtha un-quoted. Flags: as supplied 'ಜಘಂಥ' (Saṃhitā) vs 'ಜಘಂಧ' (Pada), 'ತೀಷ್ಣಾಯುಧಃ', 'ಆಚ್ಛಾದರ್ಯ', running heads 'ಮಂ. ೨' for Maṇḍala 1; Ṛk 3 Pada 'ಅಂತರಿಕ್ಷೇ ... ಈಂ' as supplied
+**Progress note:** Done through printed p. 149 (PDF 149). Sūkta 30 Ṛk 4 Bhāvārtha, printed English, Special Topics; Ṛk 5 complete with Special Topics; Ṛk 6 Saṃhitā only (Pada follows). Flags as supplied: 'ಅಶ್ವವತ್' (p. 149) vs bhāṣya 'ಅಶ್ಮವತ್', Pada 'ಆಸ್ಮಾನ್'/'ಸಾತಾ' vs Saṃhitā, Pratipadārtha 'ಅರ್ಥಂ' vs 'ಅರ್ಧಂ', 'ಸಿ. ೧೦-೧೨', Ṛk 6 Saṃhitā block spans three lines.
