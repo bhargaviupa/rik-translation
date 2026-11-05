@@ -20168,6 +20168,96 @@ The gods have placed in this world the delightful Agni in a delightful chariot, 
 
 In the previous Ṛk Agni was described and praised by epithets such as bhūrivarpasā, and in the present Ṛk by the epithets vigāhaṃ, taviṣībhiḥ and āvṛtaṃ. In this Ṛk he is praised as Agni who pervades everywhere, is endowed with powers of all kinds and sustains the world. The great power of Agni and his fame under many names owing to his many powers are described in the Śatapatha in this way.
 
+### Printed p. 647
+
+*[Running head, p. 647: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+⟦ತದ್ಯಾನಿ ತಾನಿ ಭೂತಾನಿ । ಋತವಸ್ತೇಽತ ಯಃ ಸ ಭೂತಾನಾಂ ಪತಿಃ ಸಂವತ್ಸರಃ ಸೋಽಥ ಯಾ
+ಸೋಷಾಃ ಪತ್ನ್ಯೌಷಸೀ ಸಾ ತಾನೀಮಾನಿ ಭೂತಾನಿ ಚ ಭೂತಾನಾಂ ಚ ಪತಿಃ ಸಂವತ್ಸರ
+ಉಷಸಿ ರೇತೋಽಸಿಂಚನ್ತ್ಸ ಸಂವತ್ಸರೇ ಕುಮಾರೋಽಜಾಯತ ಸೋ ರೋದೀತ್ ॥⟧
+(printed ಶ. ಬ್ರಾ. 6-1-3-8)
+
+All the beings created by Prajāpati are of the nature of seasons. Prajāpati himself is the year. His wife is Uṣas. Prajāpati and these beings sowed the seed in Uṣas. Within the year a boy was born. He began to weep.
+
+⟦ತಂ ಪ್ರಜಾಪತಿರಬ್ರವೀತ್ । ಕುಮಾರ ಕಿಗ್೦ರೋದಿಷಿ ಯಚ್ಛ್ರಮಾತ್ತಪಸೋಽಧಿಜಾತೋಽಸೀತಿ
+ಸೋಽಬ್ರವೀದನಪಹತಪಾಪ್ಮಾ ವಾಅಸ್ಮ್ಯಹಿತನಾಮಾ ನಾಮ ಮೇ ಧೇಹೀತಿ ತಸ್ಮಾತ್ಪುತ್ರಸ
+ಜಾತಸ್ಯ ನಾಮ ಕುರ್ಯಾತ್ ॥⟧
+(printed ಶ. ಬ್ರ. 6-1-3-9)
+
+Prajāpati said to him, "Boy, why do you weep? You were born of toil and of the fruit of austerity; you should not weep." Then Agni said, "After I was born, no name was given to me. Therefore I am not free from fault. Give me a name." A name should be given as soon as a son is born.
+
+⟦ತಮಬ್ರವೀದ್ರುದ್ರೋಽಸೀತಿ । ತದ್ಯದಸ್ಯ ತನ್ನಾಮಾಕರೋದಗ್ನಿಸ್ತದ್ರೂಪಮಭವದಗ್ನಿ ವಗ್ಂ
+ರುದ್ರೋ ಯದರೋದೀತ್ತಸ್ಮಾದ್ರುದ್ರಃ ಸೋಽಬ್ರವೀಜ್ಜಾಯಾನ್ವಾ ಅತೋಽಸ್ಮಿ ಧೇಹ್ಯೇವ
+ಮೇ ನಾಮೇತಿ ।⟧
+(printed ಶ. ಬ್ರಾ. 6-1-3-10)
+
+Then Prajāpati said, "Because you wept, I have called you by the name Rudra." Agni did indeed become of the form of Rudra. Even so he said, "I have greater power than this Rudra form. Give me another name."
+
+⟦ತಮಬ್ರವೀತ್ಸರ್ವೋಽಸೀತಿ । ತದ್ಯದಸ್ಯ ತನ್ನಾಮಾಕರೋದಾಪಸ್ತದ್ರೂಪಮಭವನ್ನಾ ಪೋ ವೈ
+ಸರ್ವೋಽದ್ಭೋ ಹೀದಗ್ಂ ಸರ್ವಂ ಜಾಯತೇ ಸೋಽಬ್ರವೀಜ್ಜ್ಯಾಯಾನ್ಯಾ ಅತೋಽಸ್ಮಿ
+ಧೇಹ್ಯೇವ ಮೇ ನಾಮೇತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ 6-1-3-11)
+
+"Then you are Sarva (all-named)," said Prajāpati. Since all beings in the world are born from water, water is all-named. Since Prajāpati gave Agni this name, Agni was transformed into this form, and said, "I have still greater power. Give me another name."
+
+### Printed p. 648
+
+*[Running head, p. 648: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+तमब्रवीत्पशुपतिरसीति । तॆद्यदस्य तन्नामाकरोदोषधयस्तद्रूपमभवन्नोषधयो वै पशुपतिस्तस्माद्यदा पशव ओषधीर्लभंतेSथ पतीयंति सोSब्रवीज्जायान्वा अतोऽस्मि धेह्येव मे नामेति ॥ (*tamabravītpaśupatirasīti | tèdyadasya tannāmākarodoṣadhayastadrūpamabhavannoṣadhayo vai paśupatistasmādyadā paśava oṣadhīrlabhaṃteStha patīyaṃti soSbravījjāyānvā ato 'smi dhehyeva me nāmeti ‖*)
+(printed ಶ. ಬ್ರಾ. 6-1-3-13)
+
+"Then be famous as Paśupati," he said. This name is because Paśupati is of the nature of plants, and because cattle become masters (strong) after they obtain plants; and Agni took the form of Paśupati, that is, of plants, and entered into them. "I have still greater power. Give me a name suited to it," he said.
+
+⟦ತಮಬ್ರವೀದುಗ್ರೋಽಸೀತಿ । ತದ್ಯದಸ್ಯ ತನ್ನಾಮಾಕರೋದ್ವಾಯುಸ್ತದ್ರೂಪಮಭವದ್ವಾಯುರ್ವಾ ಉಗ್ರಸ್ತಸ್ಮಾದ್ಯದಾ ಬಲವದ್ವಾತ್ಯುಗ್ರೋ ವಾತೀತ್ಯಾಹುಃ ಸೋSಬ್ರವೀಜ್ಜಾಯಾನ್ವಾ
+ಅತೋSಸ್ಮಿ ಧೇಹ್ಯೇವ ಮೇ ನಾಮೇತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 6-1-3-13)
+
+"Then I call you Ugra," he said. The name is because the wind is Ugra, and it is customary to say "Ugra blows" when the wind blows strongly; and Agni was transformed into this form. "I have still greater power than this. Give me a name to match," he said.
+
+⟦ತಮಬ್ರವೀದಶನಿರಸೀತಿ । ತದ್ಯದಸ್ಯ ತನ್ನಾ ಮಾಕರೋದ್ವಿದ್ಯುತ್ತದ್ರೂಪಮಭವದ್ವಿದ್ಯುದ್ವಾ
+ಆ ಶ ನಿ ಸ್ತ ಸ್ಮಾದ್ಯಂ ವಿದ್ಯುದ್ಧಂತ್ಯಶನಿರಬಧೀದಿತ್ಯಾಹುಃ ಸೋಽಬ್ರವೀಜ್ಜಾಯಾನ್ವಾ
+ಅತೋಽಸ್ಮಿ ಧೇಹ್ಯೇವ ಮೇ ನಾಮೇತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 6-1-3-14)
+
+"Then be famous as Aśani," said Prajāpati. When lightning strikes it is customary to say "the aśani has struck", so lightning is the form of Aśani. After Agni was given this name he was transformed into this form. "I have still greater strength. Give me a name like it," he said.
+
+⟦ತಮಬ್ರವೀದ್ಭವೋಽಸೀತಿ ॥ ತದ್ಯದಸ್ಯ ತನ್ನಾಮಾಕರೋತ್ಪರ್ಜನ್ಯಸ್ತದ್ರೂಪಮಭವತ್ಪರ್ಜನ್ಯೋ
+ವೈ ಭವಃ ಪರ್ಜನ್ಯಾದ್ಧೀದಗ್ಂ ಸರ್ವಂ ಭವತಿ ಸೋಽಬ್ರವೀಜ್ಜಾಯಾನ್ವಾ ಅತೋಽಸ್ಮಿ
+ಧೇಹ್ಯೇವ ಮೇ ನಾಮೇತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 6--1-3-15, as supplied)
+
+"Because of still greater power, be famous as Bhava," he said. At once Parjanya became this form (or Agni himself became of the form of Parjanya). Since everything in the world arises from Parjanya (bhavati), Parjanya has the name Bhava. Since this power was chiefly Agni's, Agni was given this name. "I have still greater strength. Give me a name suited to it," Agni asked.
+
+### Printed p. 649
+
+*[Running head, p. 649: Aṣṭaka 2, Adhyāya 8, Varga 20, Ṛgvedasaṃhitā.]*
+
+⟦ತಮಬ್ರವೀನ್ಮಹಾದೇವೋಽಸೀತಿ । ತದ್ಯದಸ್ಯ ತನ್ಮಾಮಾಕರೋಚ್ಚಂದ್ರಮಾಸ್ತದ್ರೂಪಮಭವತ್ಪ್ರಜಾಪತಿರ್ವೈ ಚಂದ್ರಮಾಃ ಪ್ರಜಾಪತಿರ್ವೈ ಮಹಾನ್ ದೇವಃ ಸೋಽಬ್ರವೀಜ್ಜಾಯಾನ್ವಾ
+ಅತೋಽಸ್ಮಿ ಧೇಹ್ಯೇವ ಮೇ ನಾಮೇತಿ ।⟧
+(printed ಶ. ಬ್ರಾ. 6-1-3-16)
+
+"Therefore you are Mahādeva," Prajāpati said. The moon is Mahādeva; Mahādeva is Prajāpati. After this name was given to Agni, the moon became this form. "Yet I have greater power than this. Give me a name suited to it," he asked.
+
+⟦ತಮಬ್ರವೀದೀಶಾನೋಽಸೀತಿ । ತದ್ಯದಸ್ಯ ತನ್ನಾಮಾಕರೋದಾದಿತ್ಯಸ್ತದ್ರೂಪಮಭವದಾದಿತ್ಯೋ ವಾ ಈಶಾನ ಆದಿತ್ಯೋ ಹ್ಯಸ್ಯ ಸರ್ವಸ್ಯೇಷ್ಟೋ ಸೋಽಬ್ರವೀದೇತಾವಾನ್ವಾ ಅಸ್ಮಿ
+ಮಾ ಮೇತಃ ಪರೋ ನಾಮ ಧಾ ಇತಿ ॥⟧
+(printed ಶ. ಬ್ರಾ. 6-1-3-17)
+
+"For this reason be famous as Īśāna (lord of all)," Prajāpati said. Since Āditya is lord of the world, and therefore is famous as Īśāna, Āditya became of the form of Agni; "all these are my powers; there is no need to give any more names," he said.
+
+तान्येतान्यष्टावग्निरूपाणि । कुमारो नवमः सैनाग्ने स्त्रिवृत्ता ॥ (*tānyetānyaṣṭāvagnirūpāṇi | kumāro navamaḥ saināgne strivṛttā ‖*)
+(printed ಶ. ಬ್ರಾ. 6-1-3-18)
+
+Thus these eight, Rudra, Sarva, Paśupati, Ugra, Aśani, Bhava, Mahādeva and Īśāna, are names of Agni that indicate his power. Each name indicates a different kind of power. Kumāra, of the nature of the trivṛt, is the ninth name of Agni. These great powers are described in the present Ṛk as vigāhaṃ, taviṣībhiḥ and āvṛtaṃ.
+
+Bhūrṇiṃ—भर्तारं । (*bhartāraṃ |*) The meaning is the lord who upholds and nourishes the world. This word is derived from the root bhuraṇ (to bear and nourish, dhāraṇapoṣaṇayoḥ), which means both bearing and nourishing.
+
+⟦ಯನ್ನಾಸತ್ಯಾ ಭುರಣ್ಯಥೋ ಯದ್ವಾ ದೇವ ಭಿಷಜ್ಯಥಃ ।
+ಅಯಂ ವಾಂ ವತ್ಸೋ ಮತಿಭಿರ್ನ ವಿಂಧತೇ ಹವಿಷ್ಮಂತಂ ಹಿ ಗಚ್ಛಥಃ ॥⟧
+(Ṛ. Saṃ. 8-9-6)
+
+Here भुरण्यथः सर्वं जगत्पोषयथः । (*bhuraṇyathaḥ sarvaṃ jagatpoṣayathaḥ |*): "you nourish the whole world", is the praise. Since it is derived from the same root, in the present Ṛk too the meaning is nourisher. The use of this word in the sense of going has been told before and explained with examples.
+
 ---
 
-**Progress note:** Done through printed p. 646 (PDF 646). Sūkta 3 Ṛk 4 complete; Ṛk 5 complete up to start of Special Topics; accent DIFF/NOMATCH logged
+**Progress note:** Done through printed p. 649 (PDF 649). Sūkta 3 Ṛk 5 Special Topics: Śatapatha Brāhmaṇa 6-1-3 (the nine names of Agni), bhūrṇi
