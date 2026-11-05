@@ -20644,6 +20644,86 @@ Svarvit—for the word सर्ववित् (*sarvavit*) the meaning all-kno
 > *vaiśvānarasya | daṃsanābhyaḥ | bṛhat | ariṇāt | ekaḥ | suapasyayā | kaviḥ |*
 > *ubhā | pitarā | mahayan | ajāyata | agniḥ | dyāvāpṛthivī iti | bhūriretasā ‖ 11 ‖*
 
+### Printed p. 662
+
+*[Running head, p. 662: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> वैश्वानरस्याग्नेर्दंसनाभ्यस्तोषकारीभ्यः क्रियाभ्यो बृहन्महद्धनं भवतीति
+> यत् तदवितथं । यतः कारणादेको मुख्यः कविरग्निः स्वपस्यया शोभनयज्ञादिकर्मेच्छया यजमानादिभ्यो धनमरिणात् । ददाति । सोऽयमग्निर्भूरिरेतसा
+> बहुरेतस्कावुभोभौ पितरा पितरौ मातापितरौ द्यावापृथिव्यौ महयन्नूजयन्
+> अजायत ॥
+
+*(Gist: from acts that please Vaiśvānara great wealth arises; the sole wise Agni gives wealth to sacrificers in return for good works; he was born honouring his parents, heaven and earth, rich in seed.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Vaiśvānarasya: offered to Agni in the form of Vaiśvānara. Daṃsanābhyaḥ: from works that give delight. Bṛhat: abundant wealth (is obtained). Ekaḥ: the chief. Kaviḥ: the wise Agni. Svapasyayā: out of desire for excellent works. Ariṇāt: gives (wealth to the sacrificer). Agniḥ: that same Agni. Bhūriretasā: possessed of abundant generative power. Pitarā: parents of the world. Ubhā dyāvāpṛthivī: both heaven and earth. Mahayan: worshipping. Ajāyata: was born.
+
+**भावार्थ (Bhāvārtha)**
+
+By performing works that give delight to Agni, in the form of Vaiśvānara, abundant wealth is obtained. The chief and wise Agni gives wealth to the sacrificer from the desire for excellent works. That same Agni was born worshipping heaven and earth, who are the parents of the world and possessed of abundant generative power.
+
+**Printed English translation**
+
+From acts that are acceptable to Vaishwanara comes great (wealth); for he, the sage (Agni) alone, bestows (the reward) of zeal in (the performance of) his worship: adoring both his prolific friends, heaven and earth, Agni was born.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+⟦ವೈಶ್ವಾನರಸ್ಯ ದಂಸನಾಭ್ಯಃ ಬೃಹತ್—ಅಗ್ನೇಃ ತೋಷಕಾರೀಭ್ಯಃ ಕ್ರಿಯಾಭ್ಯಃ ಮಹದ್ಧನಂ
+ಭವತೀತಿ ಯತ್ ತದವಿತಥಂ⟧ — that great wealth comes to the sacrificers from the sacrifices and other works done for the pleasure of Vaiśvānara Agni, and that this is not false; the meaning is that he will certainly give. In this sentence there is neither the word for wealth nor a verb to complete the sentence
+
+### Printed p. 663
+
+*[Running head, p. 663: Aṣṭaka 2, Adhyāya 8, Varga 21, Ṛgvedasaṃhitā.]*
+
+and therefore the bhāṣyakāra, supplying the words धनं भवति (*dhanaṃ bhavati*), has explained the meaning of the sentence.
+
+Daṃsanābhyaḥ—the word daṃsa is read among the twenty-six names of work (Ni. 3-1). Here work means the sacrifices and other works that please Vaiśvānara Agni. The meaning is that Agni gives abundant wealth, or their desired ends, to the priests and sacrificers who do such sacrificial works and to other people who make praises and the like.
+
+एकः कविः स्वपस्यया अरिणात्—देवेषु मुख्यः क्रांतदर्शि अग्निः शोभनयज्ञादिकर्मेच्छया यजमानादिभ्यो धनं ददाति । (*ekaḥ kaviḥ svapasyayā ariṇāt—deveṣu mukhyaḥ krāṃtadarśi agniḥ śobhanayajñādikarmecchayā yajamānādibhyo dhanaṃ dadāti |*) The same point as in the previous sentence is told in this sentence too. Here also the word dhana must be supplied. The chief meaning of the sentence: Agni, chief among the gods and far-seeing, gives wealth to the sacrificers and others who perform the sacrifice, with the wish that they perform the sacrificial works, that is, to help them perform them. The word eka here is not a numeral; it is used in the sense of "chief".
+
+Svapasyayā—the word apaḥ is read among the names of work (Ni. 3-1). Su + apaḥ = svapaḥ, that is, excellent work. Svapasyā means the desire to do excellent work. Here excellent work means sacrificial work.
+
+अग्निः भूरिरेतसा पितरा उभा द्यावापृथिवी महयन् आजायत—सोऽयमग्निः बहुरेतस्कौ उभौ पितरौ मातापितरौ द्यावापृथिव्यौ पूजयन्नजायत । (*agniḥ bhūriretasā pitarā ubhā dyāvāpṛthivī mahayan ājāyata—so 'yamagniḥ bahuretaskau ubhau pitarau mātāpitarau dyāvāpṛthivyau pūjayannajāyata |*) This Agni, worshipping (honouring) heaven and earth, who are able to produce many creatures by their seed, who are protectors of all and are his own parents, was born. That is, as soon as this Agni was born he worshipped with honours his parents, heaven and earth.
+
+Bhūriretasā—since the word bhūri is read among the names of "many" (Ni. 3-13), bhūri means abundant. The word retaḥ is read among the names of water (Ni. 2-24). Retas means seed, the capacity to produce sons and the like. Therefore bhūriretasā means that these heaven and earth are capable of producing many creatures by their seed. It is well known that many creatures are born on earth. Or, if retaḥ is taken to mean water, then bhūriretasā may be said to mean those having abundant water, that is, endowed with water
+
+### Printed p. 664
+
+*[Running head, p. 664: Sāyaṇabhāṣyasahitā, Maṃ. 3, A. 1, Sū. 3.]*
+
+this is the meaning that can be stated. On earth there are many reservoirs of water such as rivers and seas; in the atmosphere (heaven) there are clouds, the cause of rain, that is, full of water. It is therefore proper to take heaven and earth as endowed with abundant water.
+
+Pitarā—मातापितरौ । (*mātāpitarau |*) The bhāṣyakāra's explanation is "heaven and earth, who are the parents". For the word pitṛ Yāska says पिता पाता वा पालयिता वा (*pitā pātā vā pālayitā vā*) (Ni. 4-21): that is, the word pitā, derived from the root pā (to protect), indicates one who protects or nourishes. Therefore for the word pitarā the meaning "the parents" or "protecting and nourishing all creatures" can be given. This word is an epithet of dyāvāpṛthivī, in the dual accusative form. The word pitarā in this Ṛk does not indicate the father alone; it indicates both father and mother. In the Ṛgveda the dual pitarā indicates both parents.
+
+युवाना पितरा पुनः सत्यमंत्रा ऋजूयवः । (*yuvānā pitarā punaḥ satyamaṃtrā ṛjūyavaḥ |*)
+(Ṛ. Saṃ. 1-20-4)
+
+सौधन्वनासः स्वपस्यया नरो जिव्री युवाना पितराकृणोतन । (*saudhanvanāsaḥ svapasyayā naro jivrī yuvānā pitarākṛṇotana |*)
+(Ṛ. Saṃ. 1-110-8)
+
+सुरेतसा पितरा भूम चक्रतुरुरु प्रजया अमृतं वरीमभिः । (*suretasā pitarā bhūma cakratururu prajayā amṛtaṃ varīmabhiḥ |*)
+(Ṛ. Saṃ. 1-159-2)
+
+संमील्य यद्भवना पर्यसर्पत क्व स्वित्तात्या पितरा वा आसतुः । (*saṃmīlya yadbhavanā paryasarpata kva svittātyā pitarā vā āsatuḥ |*)
+(Ṛ. Saṃ. 1-161-12)
+
+In these Ṛks, and in the Ṛks Ṛ. Saṃ. 3-7-1; 3-54-16; 4-33-3; 4-34-9; 4-35-5; 4-36-3; 7-53-2; 7-67-1; 10-11-6; 10-12-4; 10-39-6; 10-61-1; 10-65-8, the word pitarā means just parents. Besides, the word mātarā too means not only mother but parents.
+
+प्र वो नपातमपां कृणुध्वं प्र मातरा रास्सिनस्यायोः । (*pra vo napātamapāṃ kṛṇudhvaṃ pra mātarā rāssinasyāyoḥ |*)
+(Ṛ. Saṃ. 1-122-4)
+
+कृष्णपुत्रौ वेविजे अस्य सक्षिता उभा तरेते अभि मातरा शिशुं । (*kṛṣṇaputrau vevije asya sakṣitā ubhā tarete abhi mātarā śiśuṃ |*)
+(Ṛ. Saṃ. 1-140-3)
+
+ता ई वर्धंति मह्यस्य पौंस्यं नि मातरा नयति रेतसे भुजे । (*tā ī vardhaṃti mahyasya pauṃsyaṃ ni mātarā nayati retase bhuje |*)
+(Ṛ. Saṃ. 1-155-3)
+
+ते सूनवः स्वपसः सुदंससो मही जज्जुर्मातरा पूर्वचित्तये । (*te sūnavaḥ svapasaḥ sudaṃsaso mahī jajjurmātarā pūrvacittaye |*)
+(Ṛ. Saṃ. 1-159-3)
+
 ---
 
-**Progress note:** Done through printed p. 661 (PDF 661). Sūkta 3 Ṛk 9 Special Topics end; Ṛk 10 complete; Ṛk 11 Saṃhitā and Pada; accent DIFF logged
+**Progress note:** Done through printed p. 664 (PDF 664). Sūkta 3 Ṛk 11 complete incl. Special Topics (dṃsanā, svapasyā, bhūriretasā, pitarā)
