@@ -13,3 +13,4 @@ pp. 405-407 | sonnet | tool_uses 18 | subagent_tokens 109018 | 1.9 min
 pp. 408-410 | sonnet | tokens n/a | ~3 min
 | 767-769 | sonnet | 6 tool uses | 90944 tokens | ~1 min |
 | 770-772 | sonnet | 10 tool uses | 98974 tokens | ~2 min |
+| 773-775 | sonnet | n/a | see agent | ~2 min |
