@@ -34309,6 +34309,100 @@ deceit against us.
 
 ह्वरः (*hvaraḥ*)—the word ह्वरः (*hvaraḥ*) is read among the names of anger (Ni. 3-9). Since this word is formed from the root ह्वृ कौटिल्ये (*hvṛ kauṭilye*), the word ह्वर (*hvara*) can be said to have the meanings crooked (deceitful) nature, evil mind, anger.
 
+### Printed p. 926
+
+*(Header: "926 Sāyaṇa-bhāṣya-sahitā [Maṃ. 2. A. 3. Sū. 23]", as supplied.)*
+
+#### Ṛk 7
+
+*(The supplied text has a stray word संकष्टगळु (*saṃkaṣṭagaḷu*) above the Saṃhitā; left as supplied.)*
+
+**॥ संहितापाठः ॥**
+
+> उ॒त वा॒ यो नो॑ म॒र्चया॒दना॑गसोराती॒ना मर्तः॑ सानु॒को वृकं॑ ।
+> बृह॑स्पते॒ अप॒ तं व॑र्तया प॒थः सु॒गं नो॑ अ॒स्यै दे॒ववी॑तये कृधि ॥ ७ ॥
+
+**॥ पदपाठः ॥**
+
+> उत । वा । यः । नः । मर्चयात् । अनागसः । अरातिवा । मर्तः । सानुकः । वृकः ।
+> बृहस्पते । अप । तं । वर्तय । पथः । सुगं । नः।अस्यै । देववीतये । कृधि॥ ७ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> उत वा अपि च हे बृहस्पते अराशीवाभिमुखमागमनवान् सानुकः समु-
+> च्छ्रितः ॥ नानु समुच्छ्रितमिति यास्कः । नि. २-२४ ॥ वृकः ॥ वृक आदाने ॥ धनादीना-
+> मादाता यो मर्तो मनुष्योऽनागसोऽपराधहीनान्नोऽस्मान् मर्चयात् ॥
+> मर्चयतिर्हिंसाकर्मा ॥ हिंस्यात् । तं मर्तं पथो वैदिकान्मार्गादपवर्तय ।
+> निवर्तय । नोऽस्माकमस्यॆ देववीतिये । देवानां वीतिं सोव-भक्षणमर्चय-
+> तीति देववीतियर्यज्ञः । अस्य देववीतियेऽस्मै यज्ञाय नोऽस्माकं सुगं सुष्टु
+> गंतव्यं मार्गं कृधि । कुरु! यज्ञानुष्ठानाय सुमतिं देहीत्यर्थः ॥
+
+*Gist: Bṛhaspati is asked to turn away from the Vedic path the thieving, hostile man who harms the blameless, and to make the way easy for this sacrifice and give good sense for performing it. The grammatical tail (the Nirukta reference) is not explained.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+उत वा (*uta vā*)—and. बृहस्पते (*bṛhaspate*)—O Bṛhaspati. अरातीवा (*arātīvā*)—he who, being hostile to us, confronts us. सानुकः (*sānukaḥ*)—the self-conceited. वृकः (*vṛkaḥ*)—of the nature of a thief. यः मर्तः (*yaḥ martaḥ*)—which man. अनागसः (*anāgasaḥ*)—although we are blameless. नः (*naḥ*)—us. मर्चयात् (*marcayāt*)—may harm. तं (*taṃ*)—him. पथः (*pathaḥ*)—from the Vedic path. अप वर्तय (*apa vartaya*)—turn back. अस्यै देववीतये (*asyai devavītaye*)—for this sacrifice. नः (*naḥ*)—for us. सुगं (*sugaṃ*)—an excellent way. कृधि (*kṛdhi*)—make.
+
+**भावार्थ (Bhāvārtha)**
+
+O Bṛhaspati, the man who, being hostile to us, confronts us, self-conceited and of a thieving nature, harms us although we are blameless: turn him back from the Vedic path. Prepare an excellent way for us for this sacrifice. *(The supplied text reads जोरपरनू (*joraparanū*), apparently for चोरपरनू (*coraparanū*); not corrected.)*
+
+### Printed p. 927
+
+*(Header: "[A. 2. A. 6. V. 30.] Ṛgveda-saṃhitā 927", as supplied.)*
+
+**Printed English translation**
+
+Turn aside from(the true) path, Brihaspati, the arrogant and savage man who advances to injure us, although unoffending, and keep us in the right way for(the completion of) this offering to the gods.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+अरातीवा (*arātīvā*)—one who confronts us, coming against us, or one who is our enemy. Yāska has given the etymology of the word अराति (*arāti*): अरातीः अमित्रान् (*arātīḥ amitrān*)—those who are not friends are enemies (Ni. 11-1). And, quoting the Ṛk
+
+त्वया वयं सुवृधा ब्रह्मणस्पते स्पार्हा वसु मनुष्या ददीमहि । (*tvayā vayaṃ suvṛdhā brahmaṇaspate spārhā vasu manuṣyā dadīmahi |*)
+या नो दूरे तळितो या अरातयोऽभि संति जंभया ता अनप्नसः ॥ (*yā no dūre taḷito yā arātayo 'bhi saṃti jaṃbhayā tā anapnasaḥ ‖*)
+(Ma. Saṃ. 2-23-9)
+
+he has given, for the word अरातयः (*arātayaḥ*) occurring in it, the etymology अदानकर्मणो वा अदानप्रज्ञो वा (*adānakarmaṇo vā adānaprajño vā*) (Ni. 3-23-11). The word अराति (*arāti*), formed from the root रा-दाने (*rā-dāne*), means one who gives nothing; that is, one who gives nothing to friends, or who offers no oblations and the like to the gods and others. And अस्माकमभिमतानर्थान् ददतो ये निवारयंति ते अरातयः (*asmākamabhimatānarthān dadato ye nivārayaṃti te arātayaḥ*): those who prevent the givers from giving us the desired objects are named अरातयः (*arātayaḥ*), enemies; this too may be the meaning. Or न दातव्यमस्माभिरेभ्य इत्येवं येषां प्रज्ञा ते अदानप्रज्ञाः (*na dātavyamasmābhirebhya ityevaṃ yeṣāṃ prajñā te adānaprajñāḥ*): those who have the thought "nothing is to be given to these" are called अदानप्रज्ञरु (*adānaprajñaru*) or अरातयः (*arātayaḥ*) (enemies); it may also be so interpreted. Thus the meaning has been explained.
+
+वृकः (*vṛkaḥ*)—the word वृक (*vṛka*) is read among the names of the thunderbolt (Ni. 3-11) and among the names of the thief (Ni. 3-19). Besides, according to the etymology वृकश्चंद्रमा भवति निवृतज्योतिष्को वा विकृतज्योतिष्को वा विक्रांत ज्योतिष्को ना (*vṛkaścaṃdramā bhavati nivṛtajyotiṣko vā vikṛtajyotiṣko vā vikrāṃta jyotiṣko nā*) (Ni 5-21), the word वृक (*vṛka*) also means the moon. In the present Ṛk the word वृक (*vṛka*) is used in the sense of thief, robber. The word वृक (*vṛka*), formed from the root वृक आदाने (*vṛka ādāne*), is explained as धनादीनामादाता (*dhanādīnāmādātā*)—one who carries off wealth and the like, a thief.
+
+देववीतये (*devavītaye*)—देवानां वीतिं सोमभक्षणमर्चयतीति देववीतिर्यज्ञः । (*devānāṃ vītiṃ somabhakṣaṇamarcayatīti devavītiryajñaḥ |*) Since the Soma desired by the gods is offered in it, देववीति (*devavīti*) means the sacrifice.
+
+### Printed p. 928
+
+*(Header: "928 Sāyaṇa-bhāṣya-sahitā [Maṃ 2. A. 3. Sū. 23.]", as supplied.)*
+
+सुगं (*sugaṃ*)—सुष्टु गंतव्यं मार्गं कुरु । यज्ञानुष्ठानाय सुमतिं देहीत्यर्थः । (*suṣṭu gaṃtavyaṃ mārgaṃ kuru | yajñānuṣṭhānāya sumatiṃ dehītyarthaḥ |*) Make a way along which one goes well; that is, make our mind turn to good works such as the performance of sacrifice; this is the meaning.
+
+अनागसः (*anāgasaḥ*)—आग आज्‌पूर्वाद्दमेः । अवश्यमेवैतदागच्छति कर्तारमित्यागः (*āga ājpūrvāddameḥ | avaśyamevaitadāgacchati kartāramityāgaḥ*) (Ni. 11-24). The word आगः (*āgaḥ*) is formed from the root गम्ल गत् (*gamla gat*) [sic, as supplied] with the prefix आ (*ā*); since it follows the doer (the one who has done the deed) without leaving him, it gives the meaning sin. Therefore the word अनागसः (*anāgasaḥ*), in the opposite sense, means those who commit no sin or fault. Since there is the etymology अनागाः अनपराधः (*anāgāḥ anaparādhaḥ*) (Ni. 10-11), अनागसः (*anāgasaḥ*) (said to be dual plural, as supplied) means us, who commit no fault whatever.
+
+#### Ṛk 8
+
+*(The supplied text has the label before the Saṃhitā garbled as संधिताकारः (*saṃdhitākāraḥ*); it is given as the standard label. In the Pada the supplied text reads श्राकारं (*śrākāraṃ*), दुःएवाः (*duḥevāḥ*) and उत् 5तरं (*ut 5taraṃ*), apparently slips; not corrected.)*
+
+**॥ संहितापाठः ॥**
+
+> त्रा॒तारं॑ त्वा त॒नूनां॑ हवाम॒हेऽव॑स्पर्तरधिव॒क्तार॑मस्म॒युं।
+> बृह॑स्पते देव॒निदो॒ नि ब॑र्हय॒ मा दु॒रेवा॒ उत्त॑रं सु॒म्ममुन्न॑शन् ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> श्राकारं । त्वा । तनूनां । हवामहे । अवस्पर्तः । अधिवक्तारं । अस्मयुं ।
+> बृहस्पते । देवनिदः । नि । बर्हय । मा । दुःएवाः । उत् 5तरं । सुम्नं । उत् ।
+> नशन् ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> अवस्पर्शः उपद्रवेभ्यः पारयितः । यद्वा अवसा रक्षणेनापद्भ्यः पारयितः हे
+> बृहस्पते तनूनामंगानां पुत्रादीनां वा त्रातारं पालयितारमधिवक्तारमस्मासु
+> पक्षपातेनाधिकं वक्तारमस्मयुं हविष्पदानस्मान् कामयमानं त्वां हवामहे ।
+> अस्मिन्मण्याह्वयामः । किंच देवनिदो देवनिंदकानसुरान् निबर्हय । विनाशय ।
+> मरेवा दुष्टगमना दुर्बुद्धयः शत्रव उत्तरमुत्कृष्टतरं सुम्मं सुखं मा
+> उन्नतन् । मा व्याप्नुवंतु ॥
+
+*Gist: Bṛhaspati, protector and speaker for us, who desires us, is invoked; he is asked to destroy the gods' revilers and not to let evil-minded enemies attain a better happiness. The printed page ends here.*
+
 ---
 
-**Progress note:** Done through printed p. 925 (PDF 925). Sukta 23 Rik 5 completed (Pratipadartha, Bhavartha, printed English, Special Topics: duritam, dvayavinah, dhvarasah); Rik 6 complete through Special Topics (pathikrt, vrata, mati, hvarah)
+**Progress note:** Done through printed p. 928 (PDF 928). Sukta 23 Rik 7 complete through Special Topics (arativa, vrka, devavitaye, suga, anagasah); Rik 8 Samhita, Pada, Bhasya given; text ends at printed p. 928 of this window
