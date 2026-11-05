@@ -27,3 +27,4 @@ pp. 408-410 | sonnet | tokens n/a | ~3 min
 | 806-808 | sonnet | n/a | see agent | ~2 min |
 | 809-811 | sonnet | n/a | see agent | ~2 min |
 | 812-814 | sonnet | n/a | see agent | ~2 min |
+| 815-817 | sonnet | n/a | see agent | ~2 min |
