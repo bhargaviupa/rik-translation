@@ -24353,6 +24353,97 @@ That is, the word cit has many meanings and is used according to the context. Sa
 
 *[The window ends here, at the end of p. 787, after the bhāṣya of Ṛk 8; the next window continues.]*
 
+### Printed p. 788
+
+*[Running head, p. 788: Sāyaṇabhāṣyasahitā, Maṃ. 3, Ā. (printed so for A.) 1, Sū. 6.]*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Urau: in the vast. Antarikṣe: in the atmosphere. Ye devāḥ: whichever gods. Madanti: are joyful. Divaḥ: of the sun. Rocane: in the atmosphere that holds the radiance. Ye vā: whichever gods. Santi: are. Ūmāḥ vā: whichever ancestors named Ūma. Yajatrāḥ: worthy of sacrifice. Ye: whichever gods. Suhavāsaḥ: having excellent invocation. Āyemire: come. Ratyaḥ (so printed, for rathyaḥ): fit for the chariot. Aśvāḥ: whatever horses of yours there are (come to our sacrifice with all of them).
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, the gods who sport in the vast atmosphere, the gods who are in the world holding the Āditya's radiance, the ancestors named Ūma, the gods who come with excellent invocation, and the horses of yours fit for your excellent chariot: come towards our sacrifice with all of them.
+
+**Printed English translation**
+
+The deities who sport in the spacious (firmament) ; those who are in the luminous sphere of heaven ; the adorable Umas, who come when worthily invoked ; the horses, Agni, that are fit for your car.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk, taking in all the gods who are in the atmosphere, the gods who are in heaven, the ancestor-deities called Ūma, and whatever other gods worthy of sacrifice there are, Agni is prayed to come to the sacrifice we are performing, with the horses named Rohita harnessed to your chariot. In this Ṛk the sentence is incomplete, without a verb. Therefore everything said in this Ṛk must be construed together with what is said in the next Ṛk.
+
+Here the bhāṣyakāra has explained the word ऊमाः (*ūmāḥ*) as the ancestor-deities called Ūma. Since who these ancestors are, what their nature is, and so on, are not stated in the Ṛgveda, we have not come to know anything further about them.
+
+### Printed p. 789
+
+*[Running head, p. 789: Aṣṭaka 2 (printed "ಅ. ೮" without the period after ೮), Adhyāya 8, Varga 27, Ṛgvedasaṃhitā.]*
+
+In this Ṛk Agni is praised and is prayed to come to the sacrificial ground, bringing the various gods in the three worlds and the ancestor-deities. Which are these three worlds? Who are the gods in them? How many are they? What is their nature? We have explained these and similar matters in detail in the first part, the Pīṭhikā section; but here, quoting Saṃhitā sentences and Nirukta statements as the context requires, the number and nature of all those gods will be told in the Special Topics of the next Ṛk.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+> ऐभि॑रग्ने स॒रथं॑ याह्य॒र्वाज् ना॑नार॒थं वा॑ वि॒भवो॒ ह्यश्वाः॑ ।
+> पत्नी॑वतस्त्रिं॒शतं॒ त्रींश्च॑ दे॒वान॑नुष्व॒धमा व॑ह मा॒दय॑स्व ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+> आ । एभिः । अग्ने । सरदं । याहि । अर्वाज् । नानारथं । वा । विभवः । हि । अश्वाः ।
+> पत्नीऽवतः । त्रिंशतं । त्रीन् । च । देवान् । अनुस्वधं । आ । वह । मादयस्व ॥ ९ ॥
+
+> *ā | ebhiḥ | agne | saradaṃ | yāhi | arvāj | nānārathaṃ | vā | vibhavaḥ | hi | aśvāḥ |*
+> *patnī 'vataḥ | triṃśataṃ | trīn | ca | devān | anusvadhaṃ | ā | vaha | mādayasva ‖ 9 ‖*
+
+*(In the Pada सरदं (*saradaṃ*) is printed so for sarathaṃ, as supplied.)*
+
+*[The supplied text has at the end of the Pada block a garbled line "। शायणभाष्यं । (*| śāyaṇabhāṣyaṃ |*)" (for Sāyaṇa-bhāṣya), kept as a note in kn.md and moved out of the block.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अग्ने एभिः पूर्वोक्तैर्देवगणैः सार्धं सरथं समानरथं नानारथं वा
+> त्वद्रथं समारोप्यायाह्यर्वाज् अस्मदभिमुखमायाहि । यतः कारणात्तेऽश्वा
+> विभवः प्रभवः समर्थाः ॥ हिः प्रसिद्धौ ॥ पत्नीवतः पत्निभिः सहितान् त्रिंशतं त्रींश्च
+> त्रयस्त्रिंशतं देवांश्चानुष्वधं बलार्थमन्नार्थं वावह । मादयस्व सोमेनेति
+> विशेषः ॥
+
+*(Gist: come to us, O Agni, with these gods in one chariot or in separate chariots, for your horses are able; bring the thirty-three gods with their wives for strength and food, and gladden them with Soma.)*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+Agne: O Agni. Ebhiḥ: with the gods described before. Sarathaṃ: seated in one chariot. Nānārathaṃ vā: or seated in separate chariots. Arvāk: towards our sacrifice. Ā yāhi: come. Aśvāḥ: your horses. Vibhavaḥ hi: are they not able (to bring everyone)? Patnī vataḥ: together with their wives. Triṃśataṃ trīṃśca devān: the three hundred and three gods (as supplied). Anuṣvadhaṃ: for the drinking of Soma. Ā vaha: bring. Mādayasva: gratify them (with the Soma juice).
+
+### Printed p. 790
+
+*[Running head, p. 790: Sāyaṇabhāṣyasahitā, Maṃ. 3 (no period after 3), Ā. (printed so for A.) 1, Sū. 6.]*
+
+**भावार्थ (Bhāvārtha)**
+
+O Agni, with the gods described before, seated in one chariot or in separate chariots, come towards our sacrifice. Bring the three hundred and three gods (as supplied) with their wives for the drinking of Soma. Gratify them with the Soma (printed "सोमरदिंद (*somaradiṃda*)").
+
+**Printed English translation**
+
+With all these in one chariot, Agni, or in many (chariots), come to our presence, for your horses are able : bring the three and thirty divinities with their wives, for the sake of (the sacrificial food, and exhilarate them (all with the Soma libation).
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this Ṛk too, as in the previous Ṛk, Agni is prayed to bring the gods to the sacrificial ground. But besides saying that the wives of the gods are also to be brought, the number of the gods is stated: त्रिंशतं त्रिंशच्च देवान् (*triṃśataṃ triṃśacca devān*) (printed so), "three hundred and three gods" (as supplied; the printed English of this Ṛk says "three and thirty"). In the Ṛgveda the description of the number of the gods is of various kinds. The seer of this sūkta, Viśvāmitra, himself in the ninth sūkta of this Maṇḍala:
+
+त्रीणि शता त्री सहस्राण्यग्निं त्रिंशच्च देवा नव चासपर्यन् । (*trīṇi śatā trī sahasrāṇyagniṃ triṃśacca devā nava cāsaparyan |*)
+(Ṛ. Saṃ. 3-9-9)
+
+says that the number of the gods is three thousand three hundred and thirty-three (as supplied). Other seers say the number of the gods is thirty-three. Who these are and what their details are will be examined according to the Nirukta authors' statements, and then the matters concerning this in other Ṛks will be shown with examples.
+
+It is said in detail (vyaṣṭi) that there are three thousand three hundred and thirty-three gods. It is also explained that all these gods worship Agni. Sāyaṇa explains that the gods are described in the aggregate (samaṣṭi) in the Bṛhadāraṇyaka Upaniṣad:
+
+⟦ದೇವಸಂಖ್ಯಾಚ ಬೃಹದಾರಣ್ಯಕೇ ಅಭಿಹಿತಾ—ಮಹಿಮಾನ ಏವೈಷಾಮೇತೇ ತ್ರಯಸ್ತ್ರಿಂಶತ್ತ್ವೇವ
+ದೇವಾ ಇತಿ । ಕತಮೇ ತೇ ತ್ರಯಸ್ತ್ರಿಂಶದಷ್ಟೌ ವಸವ ಏಕಾದಶ ರುದ್ರಾ ದ್ವಾದಶಾದಿತ್ಯಾಸ್ತ
+ಏಕತ್ರಿಂಶದಿಂದ್ರಶ್ಚೈವ ಪ್ರಜಾಪತಿಶ್ಚ ತ್ರಯಸ್ತ್ರಿಂಶಾ ॥⟧
+(printed बृ आ (*bṛ ā*). 3-9, i.e. Bṛ. Ā. 3-9)
+
+*[The window ends here, at the end of p. 790, after the Bṛhadāraṇyaka quotation and its reference; the next window continues.]*
+
 ---
 
-**Progress note:** Done through printed p. 787 (PDF 787). Sūkta 6 Ṛk 6 Special Topics end; Ṛk 7 (full) and Special Topics (cit, Ni. 1-4); Ṛk 8 Saṃhitā, Pada, bhāṣya
+**Progress note:** Done through printed p. 790 (PDF 790). Sūkta 6 Ṛk 8 Pratipadārtha to Special Topics; Ṛk 9 (full) and Special Topics begun (number of the gods; Ṛ. Saṃ. 3-9-9; Bṛ. Ā. 3-9)
