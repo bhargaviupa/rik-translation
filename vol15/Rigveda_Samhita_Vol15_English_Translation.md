@@ -1408,6 +1408,120 @@ O Brahmaṇaspati, grant that we may be, on all days, lords of wealth that is ex
 
 May we, Brahmanaspathi, be daily in the possession of well-regulated and food-supplying wealth: add for us posterity to posterity, since you, who are the ruler (of all), accept my invocation with (offered sacrificial) food.
 
+### Printed p. 47
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 3, Ṛgveda-saṃhitā, p. 47.*
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the word ब्रह्मणस्पते (*brahmaṇaspate*) is explained as मंत्राधिपते (*maṃtrādhipate*): Brahmaṇaspati is the lord (master) of all mantras; thus the address is explained.
+
+The sacrificers: रायः विश्वहा रथ्यः स्याम (*rāyaḥ viśvahā rathyaḥ syāma*) — the wish is prayed for that they be lords, at all times, of riches that are certainly worth protecting and that come with food. For the word रथ्यः (*rathyaḥ*) the meaning is given as रथाः एषां संति (*rathāḥ eṣāṃ saṃti*), "those who possess chariots", lords.
+
+नः वीरेषु वीर्रा उपपृच्छि (*naḥ vīreṣu vīrrā upapṛcchi*) (as supplied; the Ṛk reads *vīrān upa pṛṅgi*) — the word वीरेषु (*vīreṣu*) is explained as "those born of virility", i.e. sons; the prayer is that Brahmaṇaspati grant us, the sacrificers, grandsons as well.
+
+ईशानः (*īśānaḥ*) — it is explained that Bṛhaspati is the lord of everything, and since this god desires ब्रह्मणा मे हवं वेषि (*brahmaṇā me havaṃ veṣi*), the invocation in the form of praise made by the sacrificer who comes with food in the form of the oblation, the wish is also expressed that he fulfil the sacrificers' desire.
+
+Yāska has read the word ब्रह्म (*brahma*) among the names of wealth (Ni. 3-9) and also among the names of food. Here it is used in the sense of food.
+
+#### Ṛk 16
+
+**॥ संहितापाठः ॥**
+
+> ब्रह्म॑णस्पते॒ त्वम॒स्य यं॒ता सू॒क्तस्य॑ बोधि॒ तन॑यं च जिन्व ।
+> विश्वं॒ तद्भ॒द्रं यदवं॑ति दे॒वा बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥ १६ ॥
+
+**॥ पदपाठः ॥**
+
+> ब्रह्मणः । पते । त्वं । अस्य । यंता । सुउक्तस्य । बोधि । तनयं । च । जिन्व ।
+> विश्वं । तत् । भद्रं । यत् । अवंति । देवाः । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे ब्रह्मणस्पते यंता सर्वस्य जगतो नियंता त्वमस्य सूक्तस्येदं सूक्तं॥
+> क्रियाग्रहणं कर्तव्यमिति कर्मणः संप्रदानत्वाच्च तुर्थ्यर्थे षष्ठी॥ बोधि। बुध्यस्व ।
+
+> *he brahmaṇaspate yaṃtā sarvasya jagato niyaṃtā tvamasya sūktasyedaṃ sūktaṃ‖*
+> *kriyāgrahaṇaṃ kartavyamiti karmaṇaḥ saṃpradānatvācca turthyarthe ṣaṣṭhī‖ bodhi| budhyasva |*
+
+### Printed p. 48
+
+*Running head: Sāyaṇa-bhāṣya-sahitā, Maṃ. 2, A. 3, Sū. 24, p. 48.*
+
+> बुद्धा तनयं पुत्रं चास्मभ्यं जिन्व । प्रेरय ॥ जिविः प्रीणनार्थः । अत्र प्रेरणे
+> वर्तते धातूनामनेकार्थत्वात् ॥ यद्भद्रं कल्याणं देवाः सर्वॆSवंति रक्षंति
+> विश्वं सर्वं तद्भद्रं च जिन्वेति शेषः । वयं च सुवीराः शोभनैर्विरैः पुत्रपौत्रा-
+> दिभिरुपेताः संतो बृहत् प्रौढं स्तोत्रं विदथे । विदंति यष्टव्यतयास्मिन्देवान्
+> जानंतीति विदथो यज्ञः । तस्मिन् वदेम । ब्रूयाम ॥ ३ ॥
+
+> *buddhā tanayaṃ putraṃ cāsmabhyaṃ jinva | preraya ‖ jiviḥ prīṇanārthaḥ | atra preraṇe*
+> *vartate dhātūnāmanekārthatvāt ‖ yadbhadraṃ kalyāṇaṃ devāḥ sarvèSvaṃti rakṣaṃti*
+> *viśvaṃ sarvaṃ tadbhadraṃ ca jinveti śeṣaḥ | vayaṃ ca suvīrāḥ śobhanairviraiḥ putrapautrā-*
+> *dibhirupetāḥ saṃto bṛhat prauḍhaṃ stotraṃ vidathe | vidaṃti yaṣṭavyatayāsmindevān*
+> *jānaṃtīti vidatho yajñaḥ | tasmin vadema | brūyāma ‖ 3 ‖*
+
+Gist: O Brahmaṇaspati, controller of the world, hear this hymn and send us a son; send us all the good that the gods protect; blessed with fine sons may we recite exalted praise at the sacrifice (*vidatha* = sacrifice).
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+brahmaṇaspate—O Brahmaṇaspati. yantā—controller of the whole world. tvaṃ—you. asya sūktasya—(recited by us) this hymn. bodhi—understand. yat—by which greatness. bhadraṃ—all good. devāḥ—the gods. avanti—protect. viśvaṃ—the whole. tat—that good. jinva—cause to come to us; (therefore) tanayaṃ ca—a son also (jinva—cause to be born to us). suvīrāḥ—we, accompanied by sons and others endowed with virility. bṛhat—exalted praise. vidathe—in this sacrifice. vadema—we shall recite.
+
+**भावार्थ (Bhāvārtha)**
+
+O Brahmaṇaspati, you, controller of the whole world, understand (hear) this hymn [पतितवाद (*patitavāda*) (*patitavāda*), "fallen", as supplied; presumably *paṭhita*, "recited" — [?]] by us. By the same greatness by which the gods protect all good, cause all good to come to us also. Therefore bring about the gain of a son. We, accompanied by sons and others endowed with virility, shall recite exalted praise at this sacrifice.
+
+**Printed English translation**
+
+Brahmanaspathi, you are the regulator of this (world), understand (the purport of) our hymn, and grant us posterity; for all is prosperous that the gods protect : (and therefore) may we, blessed with excellent descendants, glorify you at this sacrifice.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+Addressing Brahmaṇaspati, it is explained that this god is सर्वस्य जगतो नियंता (*sarvasya jagato niyaṃtā*), the controller of the whole world, and that अस्य सूक्तस्य बोधि (*asya sūktasya bodhi*) means he should listen to this hymn that we recite (the text prints पडिसुव (*paḍisuva*), "that we cause", for the expected पठिसुव (*paṭhisuva*) — as supplied).
+
+तनयं च जिन्व—पुत्रं च प्रेरय । जिविः प्रीणनार्थोSत्र प्रेरणे वर्तते । (*tanayaṃ ca jinva—putraṃ ca preraya | jiviḥ prīṇanārthoStra preraṇe vartate |*) The root जिवि (*jivi*) is used in the sense "to gladden", but here it is used in the sense "to impel"
+
+### Printed p. 49
+
+*Running head: Aṣṭaka 2, Adhyāya 7, Varga 4, Ṛgveda-saṃhitā, p. 49.*
+
+(Special Topics continued.) — thus Sāyaṇa explains; and the prayer is that Brahmaṇaspati hear this hymn of ours and impel our sons also to recite this hymn; and सर्वॆ देवाः सर्वं अवंति तत् भद्रं च जिन्व (*sarvè devāḥ sarvaṃ avaṃti tat bhadraṃ ca jinva*): that all the gods impel the good that protects the whole world to come to us.
+
+सुवीराः—शोभनैः वीरैः पुत्रपौत्रादिभिरुपेताः (*suvīrāḥ—śobhanaiḥ vīraiḥ putrapautrādibhirupetāḥ*) — the word सुवीर (*suvīra*) is explained as children and grandchildren endowed with all kinds of good qualities; it is described that, accompanied by them, we recite exalted praises at sacrifices.
+
+विदथे—यष्टव्यतया अस्मिन् देवान् जानाति इति विदथो यज्ञः । (*vidathe—yaṣṭavyatayā asmin devān jānāti iti vidatho yajñaḥ |*) The meaning of the word *vidatha* is explained: the rite in which oblations are offered with the gods in view is called a sacrifice.
+
+## Sūkta 25 (Maṇḍala 2)
+
+*The twenty-fifth sūkta.*
+
+**Sāyaṇa's introduction to the sūkta** (Sanskrit, transcribed; see the Anuvāda below for the sense):
+
+> इंधान इति पंचर्चं तृतीयं सूक्तं गार्त्समदं जागतं ब्राह्मणस्पत्यं ।
+> तथा चानुक्रांतं । इंधानः पंच जागतं त्विति । लैंगिको विनियोगः ॥
+
+*Gist:* *indhānaḥ* is the third sūkta of Anuvāka 3, of five ṛks, by Gṛtsamada, in *jagatī* metre, with Brahmaṇaspati as deity; the application is by indication (*liṅga*).
+
+**Anuvāda (Kannada).** The sūkta *indhāno agniṃ* is the third sūkta of the third anuvāka. It has five ṛks. The seer of this sūkta is Gṛtsamada; the deity is Brahmaṇaspati; the metre is *jagatī*. In the Anukramaṇikā it is said: इंधानः पंच जागतं तु (*iṃdhānaḥ paṃca jāgataṃ tu*). The application (*viniyoga*) is *laiṅgika*.
+
+**Sūkta—25**
+
+Maṇḍala 2 ‖ Anuvāka 3 ‖ Sūkta 25 ‖
+Aṣṭaka 2 ‖ Adhyāya 7 ‖ Varga 4 ‖
+Number of ṛks in the Sūkta: 5 ·
+Ṛṣi: Gṛtsamada · Devatā: as supplied बृह्णस्पतिः (*bṛhṇaspatiḥ*) (the Anuvāda gives Brahmaṇaspati) · Chandas: *jagatī*.
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> इंधा॑नो अ॒ग्निं व॑नवद्वनुष्य॒तः कृ॒तब्र॑ह्मा शूशुवद्रा॒तह॑व्य॒ इत् ।
+> जा॒तेन॑ जा॒तमति॒ स प्र स॑र्सृते॒ यंयं॒ युजं॑ कृणु॒ते ब्रह्म॑ण॒-
+> स्पतिः॑ ॥ १ ॥
+
+> *iṃdhāno agniṃ vanavadvanuṣyataḥ kṛtabrahmā śūśuvadrātahavya it |*
+> *jātena jātamati sa pra sarsṛte yaṃyaṃ yujaṃ kṛṇute brahmaṇa-*
+> *spatiḥ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 46 (PDF 46). Sūkta 24: Ṛk 13 Special Topics finished (p. 43); Ṛk 14 complete (pp. 43-45); Ṛk 15 Saṃhitā, Pada, bhāṣya, Pratipadārtha, Bhāvārtha, printed English (pp. 45-46); no Special Topics yet for Ṛk 15. Flags: hand fixes to kn.md: p. 44 merged into p. 43 (marker/heading inserted), garbled labels (ಹದಪಾದಃ, ಪ.ತಿಪದಾರ್ಥ, ಭಾಷಾರ್ಥ, ಭವಾರ್ಥ) replaced by standard ones, Pratipadārtha/Bhāvārtha unblocked; 1 [?] (Pratipadārtha p. 44 'ಅನುಭವತ್' vs ಅಭವತ್); unmarked supplied slips: Ṛk 15 Pada 'ವೇಷಿ' vs Saṃhitā 'ವೇಶಿ', 'ವೀರವ್ಯಂತರಾದ' p. 46, 'ನಿಮ್ಮ ದೇಶ', 'ಉದಜತ್' (p. 45 vs ಉದಾಜತ್), 'ಪರಿತವಾಗಿದೆ'
+**Progress note:** Done through printed p. 49 (PDF 49). Sūkta 24: Ṛk 15 Special Topics (p. 47), Ṛk 16 complete (pp. 47-49); Sūkta 25 introduction and Ṛk 1 Saṃhitā (p. 49). Flags: hand fixes to kn.md: stray divider line and a duplicate empty bhāṣya label removed, Sūkta 25 intro block split into bhāṣya block + Anuvāda prose + header prose; 1 [?] (Bhāvārtha Ṛk 16 'ಪತಿತವಾದ' for presumably ಪಠಿತ); unmarked supplied slips: 'ವೀರ್ರಾ' p. 47, 'ಪಡಿಸುವ' p. 48, 'ಬೃಹ್ಣಸ್ಪತಿಃ' in Sūkta 25 header, 'ಸರ್ವೆ' p. 48-49
