@@ -32143,6 +32143,113 @@ Through desire of food, Indra, we, contributing to your vigour, spont-aneously a
 
 पीयोः (*pīyoḥ*)—पीयतिर्हिंसाकर्मा हिंसकस्यासुरस्य (*pīyatirhiṃsākarmā hiṃsakasyāsurasya*). The word पीयु (*pīyu*), formed from the root पीयति (*pīyati*), which means causing harm, denotes an asura who causes harm to people
 
+### Printed p. 851
+
+*(Header: "[A. 2 Adhyāya 6 Varga 24] Ṛgvedasaṃhitā 851", as supplied.)*
+
+…or one may take it as the name of an asura, "the asura named Pīyu". The last quarter of this Ṛk, which contains the word पीयोः (*pīyoḥ*), is also read in a Ṛk seen by the sage Agastya:
+
+भिनत्पुरो न भिदो अदेवीर्ननमो वधरदेवस्य पीयोः (*bhinatpuro na bhido adevīrnanamo vadharadevasya pīyoḥ*) (Maṃ. Saṃ. 1-174-8).
+
+Since this word is used nowhere else, not much can be said about this asura.
+
+#### Ṛk 8
+
+**॥ संहितापाठः ॥**
+
+> ए॒वा ते॑ गृत्सम॒दाः शू॑र॒ मन्मा॑व॒स्यवो॒ न व॒युना॑नि तक्षुः ।
+> ब्र॒ह्म॒ण्यन्त॑ इन्द्र ते॒ नवी॑य॒ इष॒मूर्जं॑ सुक्षि॒तिं सु॒म्मम॑श्युः ॥ ८ ॥
+
+**॥ पदपाठः ॥**
+
+> एव । ते । गृत्सॆमदाः । शूर । मन्म । अवस्यवः । न । वयुनानि । तक्षुः ।
+> ब्रह्मण्यन्तः । इन्द्रु । ते । नवीयः । इषं । ऊर्जं । सुक्षितिं । सुम्नं । अश्युः ॥ ८ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> शूर बलवन् हे इंद्र ते तुभ्यं गृत्समदाः । अत्र यास्कः । गृत्समदो गृत्स-
+> मदनो गृत्स इति मेधाविनाम गृणातेः स्तुतिकर्मणः । नि. ९-५ । इति । तथाविधा मन्म
+> मननीयं स्तोत्रं ते तुभ्यमेव तक्षुः ततक्षुः । चक्रुः । तत्र दृष्टांतः । अवस्यवो
+> न ॥ अवः। गत्यर्थादवतेरसुनि रूपमव इति॥ अवो गमनमिच्छंतः पुमांसो वयु-
+> नानि मार्गान् यथा कुर्वंति तद्वत् । किंच नवीयः ॥ सुपां सुलुगिति षष्ठ्या
+> लुक् ॥ नवीयसो नवतरस्य ते तव ब्रह्मण्यंतः स्तोत्रं कर्तुमिच्छंतो गृत्समदाः
+> सुक्षितिमिषं शोभननिवासोपेतमन्न मूर्जं बलं सुम्मं सुखं चाश्युः । प्राप्पु-
+> युः । एकस्मिन् गृत्समदे बहुवचनं परोक्षनिर्देशश्च ॥
+
+*Gist: Indra, the Gṛtsamadas have composed for you alone a thoughtful hymn, as travellers make roads; wishing to praise you, may they obtain food, strength and happiness.*
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+शूर (*śūra*)—mighty. इंद्र (*iṃdra*)—O Indra. गृत्समदाः (*gṛtsamadāḥ*)—the sage called Gṛtsamada, who is wise and full of joy, and his relatives. मन्म (*manma*)—a praise worth pondering. ते एव (*te eva*)—
+
+### Printed p. 852
+
+*(Header: "852 Sāyaṇabhāṣyasahitā [Maṃ. 2 A. 2. Sū. 19]", as supplied.)*
+
+for you alone (aimed at you). अवस्यवः (*avasyavaḥ*)—those who desire to travel. वयुनानि न (*vayunāni na*)—like those who make roads. तक्षुः (*takṣuḥ*)—have fashioned. नवीयः (*navīyaḥ*)—venerable. ते (*te*)—your. ब्रह्मण्यंतः (*brahmaṇyaṃtaḥ*)—the Gṛtsamada sages who wish to recite praise. सुक्षितिं (*sukṣitiṃ*)—together with excellent houses [the supplied text has "!" here]. इषं (*iṣaṃ*)—food. ऊर्जं (*ūrjaṃ*)—strength. सुम्मं (*summaṃ*)—happiness. अश्युः (*aśyuḥ*)—may they obtain.
+
+**भावार्थ (Bhāvārtha)**
+
+*(The label of this section is printed in the supplied text as "ಭಾನುವಾರ!"; it is given here in the standard form.)*
+
+O mighty Indra, the sages called Gṛtsamada, who are wise and full of joy, have composed for you alone a praise worth pondering, as those who wish to travel make roads. May these sages, who wish to recite praise of you, the venerable, obtain food together with excellent houses, strength and happiness.
+
+**English Translation (as printed)**
+
+Thus, hero, have the Gritsamadas fabricated praises to you, as they who are desirous of travelling(construct) roads: may those who worship you, adorable Indra, obtain food, strength, habitations, and felicity.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+*(The label of this section is printed in the supplied text as "ವಿಶೇಷವಿವರಗಳು"; it is given here in the standard form.)*
+
+गृत्समदाः (*gṛtsamadāḥ*)—Because the plural गृत्समदाः (*gṛtsamadāḥ*) is used, the meaning is the sage Gṛtsamada together with his relatives or descendants, or those belonging to that sage's retinue. For this word Yāska has given the explanation गृत्समदो गृत्समदनो गृत्स इति मेधाविनि नाम गृणातेः स्तुतिकर्मणः (*gṛtsamado gṛtsamadano gṛtsa iti medhāvini nāma gṛṇāteḥ stutikarmaṇaḥ*) (Ni. 5-9). That is, the word गृत्स (*gṛtsa*), formed from the root गृणाति (*gṛṇāti*) meaning "to praise", means "wise" (intelligent). Therefore the word गृत्समद (*gṛtsamada*) means a sage who is wise and joyful.
+
+अवस्यवो न (*avasyavo na*)—वयुनानि तक्षुः अवः! गत्यर्थादवतेरसुनि रूपमव इति अवो गमनमिच्छंतः पुमांसो वयुनानि मार्गान् यथा कुर्वंति तद्वत् (*vayunāni takṣuḥ avaḥ! gatyarthādavaterasuni rūpamava iti avo gamanamicchaṃtaḥ pumāṃso vayunāni mārgān yathā kurvaṃti tadvat*). Since the root अवति (*avati*) has the sense of going, the word अवः (*avaḥ*) formed from it means "going". अवस्यवः (*avasyavaḥ*) means those who desire to go, that is, people who wish to travel; as such people make for themselves a convenient road, so we, descendants of Gṛtsamada, desiring food, will compose hymns and the like for Indra: this is the idea.
+
+इंद्र ते ब्रह्मण्यंतः नवीयः इषं ऊर्जं सुक्षितिं सुम्नं अश्युः (*iṃdra te brahmaṇyaṃtaḥ navīyaḥ iṣaṃ ūrjaṃ sukṣitiṃ sumnaṃ aśyuḥ*)—नवीयः नवतरस्य ते ब्रह्मण्यंतः स्तोत्रं कर्तुमिच्छंतो गृत्समदा सुक्षितिमिषं शोभननिवासोपेतमन्नमूर्जं बलं सुम्नं सुखं चाश्युः प्राप्नुयुः (*navīyaḥ navatarasya te brahmaṇyaṃtaḥ stotraṃ kartumicchaṃto gṛtsamadā sukṣitimiṣaṃ śobhananivāsopetamannamūrjaṃ balaṃ sumnaṃ sukhaṃ cāśyuḥ prāpnuyuḥ*). O Indra,
+
+### Printed p. 853
+
+*(Header: "[A. 2 Adhyāya 6 Varga 24] Ṛgvedasaṃhitā 853", as supplied.)*
+
+may Gṛtsamada and his relatives (we), who have composed a new hymn for you and wish to praise you, obtain an excellent dwelling (a house), and food, strength and happiness: thus the sage has praised Indra and expressed his wish.
+
+#### Ṛk 9
+
+**॥ संहितापाठः ॥**
+
+*Note: the supplied text prints this Saṃhitā in mixed Kannada and Devanagari letters, and the same block again inside an HTML title attribute. The block is converted letter for letter to Kannada letters in kn.md and kept as supplied; it is not corrected. It differs from the Pada below in several places (for example `ತ್ರೀ` against the Pada `ತೇ`, `ದುಹೀಯಂದಿತ್ರ` against `ದುಹೀಯತ್ । ಇಂದ್ರ`, `ವಿದಧೇ` against `ವಿದಥೇ`), which are noted here, not settled.*
+
+> नू॒नं सा त्री॒ प्रति॒ वरं॑ जरि॒त्रे दु॑ही॒यंदि॑त्र॒ दक्षि॑णा म॒घोनी॑ ।
+> शिक्षा॑ स्तो॒तृभ्यो॒ माति॑ ध॒ग्भगो॑ नो बृ॒हद्व॑देम वि॒दधे॑ सु॒वीराः॑ ॥ ९ ॥
+
+**॥ पदपाठः ॥**
+
+*(The label is printed in the supplied text as "ಪರಪಾಠಃ"; the Pada ends in the supplied text with a stray fragment of the title attribute, which is left out.)*
+
+> नूनं । सा । ते । प्रति । वरं । जरित्रे । दुहीयत् । इंद्र । दक्षिणा । मघोनी ।
+> शिक्ष । स्तोतृभ्यः । मा । अति । धक् । भगः । नः । बृहत् । वदेम । विदथे । सुवीराः ॥
+
+**॥ सायणभाष्यम् ॥**
+
+*(The label is garbled in the supplied text as "ಸಹಾಯಧಾನ್ಯ, C"; it is given here in the standard form. The text breaks off at the end of the page, with the end of the bhāṣya.)*
+
+> अहर्गणेषु माध्यंदिनसवनेषु तायमानरूपेष्टच्छावाकस्याहरहः शस्य-
+> संज्ञकमभितष्ट्ववेति सूक्तं । नूनं सा त इत्येषा तस्यांते शंसनीया । सूत्रितं च ।
+> नूनं सा त इत्यंतमुत्तमं । आ. ७-४ । इति ॥
+> हे इंद्र या दक्षिणा दक्षमुत्साहनं करोतीति दक्षिणा स्तोतृभ्यो देया ते
+> त्वत्संबंधिनी मघोनी धनवती जरित्रे स्तोतृवे वरं श्रेष्ठमभिमतमर्थं नूनं
+> प्रतिदुहीयत् । इदानीं प्रतिदोग्नि । संपादयतीत्यर्थः । तादृशीं दक्षिणां स्तोतृ-
+> भ्योऽस्मभ्यं शिक्ष । प्रयच्छ । किंच भगो भजनीयस्यं माति धक् ॥ दहेर्दानार्थस्य
+> लुजः मंत्रे घसेत्यदिना चेर्लुक् ॥ नोऽस्मानतिक्रम्यान्येभ्यो दक्षिणां मा दाः ।
+> प्रथममस्मभ्यं दत्वा पश्चादन्येभ्यो दीयतामित्यर्थः। यद्वा नोऽस्माकं कामान्
+> मा धक् । मा धाक्षीः । अपेक्षितफलदानेन पूरयेत्यर्थः । सुवीराः शोभनपुत्र-
+> पौत्राः संतो वयं विदथेऽस्मिन् ज्ञे बृहत् प्रभूतं स्तोत्रं वदेम । त्वामुद्दिश्य
+> ब्रवाम ॥ अत्र सा ते प्रतिदुग्धामिति प्रकृत्य वीरो वीरयत्यमित्रान् वेतेर्वा
+> स्याद्धतिकर्मणो वीरयतेर्वेत्यंतं निरुक्तमनुसंधेयं । नि. १-७ ॥
+
+*Gist: This is the last Ṛk of the hymn to be recited at the end of the Acchāvāka's śastra; Indra, give the sacrificial fee that grants the wish, and do not burn our desires; with good sons we shall speak a great praise at the sacrifice.*
+
 ---
 
-**Progress note:** Done through printed p. 850 (PDF 850). Sukta 19 Rk 6 Pada to Special Topics; Rk 7 Samhita (mixed-script supplied text, converted to Kannada letters in kn.md), Pada, bhashya, Pratipadartha, Bhavartha, printed English; Special Topics begun (page 850 ends mid-entry on Piyu)
+**Progress note:** Done through printed p. 853 (PDF 853). Sukta 19 Rk 7 Special Topics finished; Rk 8 complete; Rk 9 Samhita (mixed-script supplied text converted letter for letter to Kannada), Pada and bhashya; text ends at the end of the bhashya
