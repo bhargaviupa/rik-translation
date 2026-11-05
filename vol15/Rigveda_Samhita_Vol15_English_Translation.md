@@ -9746,6 +9746,100 @@ Now the matters concerning the Ṛtuyāja oblations explained in the Aitareya Br
 
 The oblations made to the deities presiding over the Ṛtus, Madhu, Mādhava and the rest, are called Ṛtuyāja. The Ṛtuyājas are of the nature of the vital breaths; here "breath" means prāṇa, apāna and vyāna. By performing these Ṛtuyāja oblations it becomes possible for the vital breaths to stay firmly in the sacrificer who performs the sacrifice. If a man is to live long, the breaths must stay firmly in him; if they leave the body and go out, death occurs. Therefore there is the Vedic sentence of prayer, प्राणापानौ मृत्योर्मा पातं प्राणापानौ मा मा हासिष्टं (*prāṇāpānau mṛtyormā pātaṃ prāṇāpānau mā mā hāsiṣṭaṃ*) (Tai. Saṃ. 3-1-7-1): "May the prāṇa and apāna that dwell in me protect me from death; may they not leave me." So that the vital breaths may stay firmly in the sacrificer and he may be long-lived, these oblations called Ṛtuyāja are made. These Ṛtuyājas, or Ṛtugrahas, are twelve. Among them the first six have some special features; these will be explained here —
 
+### Printed p. 311
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 8, Varga 1, p. 311 (the first abbreviation is printed "ಅ." as supplied).*
+
+*(Fixes in kn.md by the translator: prose lines un-quoted from the `>` blocks and the Brāhmaṇa quotations made separate Sanskrit blocks; the first word of the first quotation is garbled in the supplied text and is marked [?].)*
+
+The Brāhmaṇa passage continues (the opening word of the quotation is garbled in the supplied text [?]; the sense is that the six oblations with the singular *ṛtunā* are offered as the breath):
+
+> हळ् [?] ऋतूनेति यजंति प्राणमेव तद्यजमाने दधति ।
+
+> *haḷ [?] ṛtūneti yajaṃti prāṇameva tadyajamāne dadhati |*
+
+In the sacrifice the Adhvaryu tells the Maitrāvaruṇa to recite the Praiṣa mantra. Then the Maitrāvaruṇa addresses the six priests beginning with the Hotṛ (Hotṛ, Potṛ, Neṣṭṛ, Āgnīdhra, Brahman and Maitrāvaruṇa) by the Praiṣa mantra and directs that each of them recite one Yājyā mantra, six mantras in all, and make the oblation. Accordingly these priests recite the six mantras in which the singular of the word Ṛtu is used ("may he drink Soma with the Ṛtu"), invite Indra and the other deities together with the Ṛtu deities to drink the Soma, and make the oblation. These six Ṛtuyāja oblations are of the nature of the breath prāṇa. (Here prāṇa means drawing the outer air into the body, that is, taking the breath in.) By making these six oblations, which are of the nature of prāṇa, the Hotṛ and the other priests cause the prāṇa to stand firm in the sacrificer.
+
+> चत्वार ऋतुभिरिति यजंत्यपानमेव तद्यजमाने दधति ।
+
+> *catvāra ṛtubhiriti yajaṃtyapānameva tadyajamāne dadhati |*
+
+Now the special matter of mantras 7 to 10 is explained. In the same order as before, the Maitrāvaruṇa, commanded by the Adhvaryu, indicates through Praiṣa mantras to the Hotṛ and the other priests that the four mantras from the seventh to the tenth, which have Draviṇodas as deity and in which the plural of the word Ṛtu is used ("with the Ṛtus, Soma"), are to be recited and the oblations made. Accordingly the Hotṛ and the others make four oblations. These four oblations are of the nature of the breath apāna. (Apāna means letting the air in the body out, breathing out.) By making these four oblations, which are of the nature of apāna, the Hotṛ and the others cause the apāna to dwell in the sacrificer.
+
+> द्विर्यतुनेत्युपरिष्पाद्वा नमेव [?] तद्यजमाने दधति ।
+
+> *dviryatunetyupariṣpādvā nameva [?] tadyajamāne dadhati |*
+
+Now mantras 11 and 12 are explained. As before, the Maitrāvaruṇa, commanded by the Adhvaryu, recites the Praiṣa mantra addressed to the Adhvaryu and the sacrificer. Hearing that Praiṣa mantra, the Adhvaryu and the sacrificer recite the two mantras with the Aśvins and Agni (printed "ಅಗ್ನ", as supplied) as deities, which have the singular use "with the Ṛtu, Soma", and make the oblations. These two oblations are of the nature of vyāna (vyāna means the air in the body that pervades the whole body and moves about in it). By making these oblations the Adhvaryu and the sacrificer cause all the priests to make the vyāna breath stand firm in the sacrificer. This procedure, that is, the Adhvaryu's telling the Maitrāvaruṇa to recite the Praiṣa mantra and so on —
+
+### Printed p. 312
+
+*Running head: Sāyaṇabhāṣyasahitā, Maṇḍala 2, Anuvāka 4, Sūkta 37, p. 312 (as supplied).*
+
+the sage Āpastamba has described in this way:
+
+> ऋतुना प्रेष्यति त्रिष्टाद्येष्टध्वर्युः संप्रेष्य-
+> त्येवं प्रतिप्रस्थाता पात्रयोर्मुखे पर्यावृत्यर्तुभिः प्रेष्यति द्वयोरध्वर्यु-
+> रेवं प्रतिप्रस्थाता पुनः पर्यावृत्यर्तुना प्रेष्यति सकृदध्वर्यर्वं प्रतिप्रस्थाता ।
+
+> *ṛtunā preṣyati triṣṭādyeṣṭadhvaryuḥ saṃpreṣya-*
+> *tyevaṃ pratiprasthātā pātrayormukhe paryāvṛtyartubhiḥ preṣyati dvayoradhvaryu-*
+> *revaṃ pratiprasthātā punaḥ paryāvṛtyartunā preṣyati sakṛdadhvaryarvaṃ pratiprasthātā |*
+
+(The Sanskrit above is the sūtra as supplied; its sense follows from the explanation just given: the Adhvaryu sends the Maitrāvaruṇa with the singular *ṛtunā*, the Pratiprasthātā turns to the vessels and uses the plural *ṛtubhiḥ* for two, and then again the singular, once.) This is what he has said. Thus, regarding the reciting [?] of the first six mantras with the singular of the word Ṛtu, then of mantras 7 to 10 with the plural, and then of mantras 11 and 12 again with the singular, there is this sentence of the Taittirīya Saṃhitā:
+
+> ऋतुना प्रेष्यति षट्कत्व आह षड्वा ऋतव ऋतूनेव प्रीणाति
+> ऋतुभिरिति चतुश्चतुष्पद एव पशून्प्रीणाति द्विः पुनर्यतुनाह द्विपद एव प्रीणाति ॥
+
+> *ṛtunā preṣyati ṣaṭkatva āha ṣaḍvā ṛtava ṛtūneva prīṇāti*
+> *ṛtubhiriti catuścatuṣpada eva paśūnprīṇāti dviḥ punaryatunāha dvipada eva prīṇāti ‖*
+
+Gist: with the singular "with the Ṛtu" six times he says it, for there are six Ṛtus, so he pleases the Ṛtus; with "with the Ṛtus" four-footed beasts are pleased; "again twice with the Ṛtu" pleases the two-footed.
+
+> स वा आयं प्राणस्त्रेधा विहितः प्राणोपानो व्यान इति तद्यदृतुन ऋतुभि-
+> र्यतुनेति यजंति प्राणानां संतत्यै प्राणानामव्यवच्छेदाय ।
+
+> *sa vā āyaṃ prāṇastredhā vihitaḥ prāṇopāno vyāna iti tadyadṛtuna ṛtubhi-*
+> *ryatuneti yajaṃti prāṇānāṃ saṃtatyai prāṇānāmavyavacchedāya |*
+
+This breath, the prāṇa, is of three kinds: prāṇa, apāna and vyāna. Prāṇa means drawing the outer air into the body; apāna means letting out the air that is within the body; vyāna means the air that pervades all parts of the body and moves about in it. These twelve Ṛtuyāja oblations are divided into three groups. In the first group, mantras 1 to 6 (six) are used with the singular "with the Ṛtu" (*ṛtunā*) and offered; thereby the prāṇa stands firm in the body of the sacrificer. In the second group, mantras 7 to 10 (four) are used with the plural "with the Ṛtus" (*ṛtubhiḥ*) and offered; thereby the apāna stands firm. In the third group are mantras 11 and 12 (two mantras); these are again offered with the singular *ṛtunā*; thereby the vyāna stands firm in the body. Thus by dividing the twelve Ṛtuyājas as 6+4+2=12 into three groups and offering them, one helps the three kinds of breath, prāṇa, apāna and vyāna, to stay firm in the body of the sacrificer, and to be without interruption so that they do not depart.
+
+> प्राणा वा ऋतुयाजा नर्तुयाजानामनु वषट्कुर्यादसंस्थिता वा ऋतव
+> एकैक एव । यदृतुयाजानामनु वषट्कुर्यादसंस्थितानृतून्संस्थापये-
+> त्संस्था वा एषा यदनुवषट्कारो य एनं तत्र ब्रूयादसंस्थितानृतून्स-
+> मतिष्ठिपद्दुःषमं भविष्यतीति शश्वत्तथा स्युत्तस्मान्नर्तुयाजानामनुवष-
+
+> *prāṇā vā ṛtuyājā nartuyājānāmanu vaṣaṭkuryādasaṃsthitā vā ṛtava*
+> *ekaika eva | yadṛtuyājānāmanu vaṣaṭkuryādasaṃsthitānṛtūnsaṃsthāpaye-*
+> *tsaṃsthā vā eṣā yadanuvaṣaṭkāro ya enaṃ tatra brūyādasaṃsthitānṛtūnsa-*
+> *matiṣṭhipadduḥṣamaṃ bhaviṣyatīti śaśvattathā syuttasmānnartuyājānāmanuvaṣa-*
+
+(Ai. Brā. 9-29)
+
+### Printed p. 313
+
+*Running head: Ṛgvedasaṃhitā, Aṣṭaka 2, Adhyāya 8, Varga 1, p. 313 (the first abbreviation is printed "ಅ." as supplied).*
+
+The Ṛtuyāja oblations are of the nature of the breath. (This matter is also stated in the Kauṣītaki Brāhmaṇa 13-9 and the Gopatha Brāhmaṇa 8-7.) As we know from everyday experience, the Ṛtus, spring and the rest, have no end: as one ends, another follows, one after the other, in an unbroken succession. After the six Ṛtus, Vasanta, Grīṣma, Varṣā, Śarad, Hemanta and Śiśira, are over, spring and the rest begin again. For them there is no break. Therefore, when the Hotṛ recites the Yājyā mantras in the Ṛtuyāja oblations, he must not pronounce the *vaṣaṭkāra* at the end of the mantra. Since the Ṛtus come by a cyclic change, one after another, there is no end to them; therefore it is said that the *vaṣaṭkāra* must not be recited in the oblation. If it were recited, the cyclic order of the Ṛtus would be broken, and as a result illness, poverty and other sorrows would come to the sacrificer. Therefore, so that sorrow and poverty may not befall the sacrificer, the Yājyā mantras in the Ṛtuyāja oblations must not be offered with the *vaṣaṭkāra*.
+
+*(The supplied text prints, as plain lines between the end of this passage and the Saṃhitā, the usual sūkta heading lines; they are summarised in the next paragraph.)*
+
+**Sūkta 37** — Maṇḍala 2, Anuvāka 4, Sūkta 37; Aṣṭaka 2, Adhyāya 8, Varga 1. Number of ṛks in the sūkta: 6. Seer: Gṛtsamada. Deities: 1–4. Draviṇodas; 5. the Aśvins; 6. Agni. Metre: Triṣṭubh (as printed; Sāyaṇa's introduction above calls the sūkta *jāgata*).
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> मंद॑स्व हो॒त्रादनु॒ जोष॒मंध॒सोऽध्व॑र्यवः॒ स पू॒र्णां॒॑॑
+> व॑ष्ट्या॒सिचं॑ ।
+> तस्मा॑ ए॒तं भ॑रत तद्व॒शो द॒दिर्हो॒त्रात्सोमं॑ द्रविणोदः॒ पिब॒॑॑
+> ऋतुभिः ॥ १ ॥
+
+> *maṃdasva hotrādanu joṣamaṃdhaso 'dhvaryavaḥ sa pūrṇāṃ*
+> *vaṣṭyāsicaṃ |*
+> *tasmā etaṃ bharata tadvaśo dadirhotrātsomaṃ draviṇodaḥ piba*
+> *ṛtubhiḥ ‖ 1 ‖*
+
 ---
 
-**Progress note:** Done through printed p. 310 (PDF 310). pp. 308-310: Sūkta 37 introduction continued (Ṛtuyāja priests/deities, table, Aitareya Brāhmaṇa passage begun); Sūkta 37 summary and Ṛk 1 not yet reached; kn.md: prose unquoted, Sanskrit line kept as block, no doubts
+**Progress note:** Done through printed p. 313 (PDF 313). pp. 311-313: Sūkta 37 introduction ends (Aitareya Brāhmaṇa on the Ṛtuyājas as prāṇa/apāna/vyāna, Āpastamba and Taittirīya quotations, no vaṣaṭkāra); Sūkta 37 summary and Ṛk 1 Saṃhitā only (Pada not yet reached); open flags: garbled opening word of the Brāhmaṇa quotation (p. 311), ನಮೇವ in the third quotation, ಪರಿಸಬೇಕೆಂಬ (p. 312) marked [?]
