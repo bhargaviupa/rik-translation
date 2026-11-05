@@ -11803,6 +11803,132 @@ The main purport: O god Savitṛ, whatever wealth you give to other praisers, ob
 
 **Sūkta 39** — the heading lines of the supplied text: Sūkta 39; Maṇḍala 2, Anuvāka 4, Sūkta 39; Aṣṭaka 2, Adhyāya 8, Varga 4, 5 (as printed). Number of ṛks in the sūkta: 8 (printed मुक्संख्यॆ (*muksaṃkhyè*), as supplied). Seer: printed महिषि—गृत्समदः (*mahiṣi—gṛtsamadaḥ*) ("mahiṣi", as supplied, for ṛṣi): Gṛtsamada. Deity: Aśvins. Metre: Triṣṭubh.
 
+### Printed p. 371
+
+*[Running head, p. 371: Aṣṭaka 2, Adhyāya 8, Varga 4; Ṛgvedasaṃhitā 371.]*
+
+#### Ṛk 1
+
+**॥ संहितापाठः ॥**
+
+> ग्रावा॑णेव॒ तदिदर्थं॑ जरेथे॒ गृध्रे॑व वृ॒क्षं नि॑धि॒मंत॒मच्छ॑ ।
+> ब्र॒ह्माणे॑व वि॒दथ॑ उक्त॒शासा॑ दू॒तेव॒ हव्या॒ जन्या॑ पुरु॒त्रा ॥ १ ॥
+
+**॥ पदपाठः ॥**
+
+> ग्रावाणाइव । तत् । इत् । अर्थं । जरेथे इति । गृध्राइव । वृक्षं । निधिमंतं
+> अच्छ ।
+> ब्रह्माणाइव । विदथे । उक्तशसा । दूताइव । हव्या । जन्या । पुरुत्रा ॥ १ ॥
+
+> *grāvāṇāiva | tat | it | arthaṃ | jarethe iti | gṛdhrāiva | vṛkṣaṃ | nidhimaṃtaṃ*
+> *accha |*
+> *brahmāṇāiva | vidathe | uktaśasā | dūtāiva | havyā | janyā | purutrā ‖ 1 ‖*
+
+*[Note: in kn.md the label before the bhāṣya was garbled (ಃ ಸಹಾಯಣಭಾಷ್ಯಂ, as supplied) and was replaced by the standard label; the Pada block and the bhāṣya, which the script had run together, were separated; hyphenated line breaks in the bhāṣya were joined. Pada reads ग्रावाणाइव (*grāvāṇāiva*) and गृध्राइव (*gṛdhrāiva*) for Saṃhitā ग्रावाणेव (*grāvāṇeva*) and गृध्रेव (*gṛdhreva*), as supplied.]*
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विन् ग्रावाणेव अरातिं प्रति प्रेषितौ पाषाणाविव तदर्थ० ॥ अर्तॆर्धातोरर्थशब्दः । अर्थोऽर्तेरिति यास्कः । नि. १-१८ ॥ तमरातिमित्यर्थः । इदिति
+> पूरणः । जरेथे । जरयेथे । अरातिं बाधेथां । यद्वा यथा गुरू ग्रावाणौ क्षिप्तौ
+> तदानीमेव शीघ्रं गच्छतस्तथा तत् तमर्थ० गंतारं जरेथे । शीघ्रं गत्वा स्तुतमित्यर्थः ॥ जरतिः स्तुतिकर्मा ॥ किंच गृध्रेव गृध्राविव पक्षिणाविव वृक्षं फलितं वृक्षं
+> निधिमंतं धनवंतं यजमानमच्छ । आगच्छतमिति शेषः । विदथे यज्ञे ॥ विदथः
+> सवनमिति यज्ञनामसु पाठात् ॥ उक्तशासोकश्चशंसितार् ब्रह्माणेव ब्राह्मणाविव ।
+> जन्या जनपदेषु दूतेव राज्ञा प्रेषितौ दूताविव पुरुत्रा बहुभिः पुरुषैर्हव्या
+> ह्वातव्यौ युवां । अत्रोपमेयद्वित्वानुसारेणोपमानद्वित्वं ॥
+
+> *he aśvin grāvāṇeva arātiṃ prati preṣitau pāṣāṇāviva tadartha0 ‖ artèrdhātorarthaśabdaḥ | artho 'rteriti yāskaḥ | ni. 1-18 ‖ tamarātimityarthaḥ | iditi*
+> *pūraṇaḥ | jarethe | jarayethe | arātiṃ bādhethāṃ | yadvā yathā gurū grāvāṇau kṣiptau*
+> *tadānīmeva śīghraṃ gacchatastathā tat tamartha0 gaṃtāraṃ jarethe | śīghraṃ gatvā stutamityarthaḥ ‖ jaratiḥ stutikarmā ‖ kiṃca gṛdhreva gṛdhrāviva pakṣiṇāviva vṛkṣaṃ phalitaṃ vṛkṣaṃ*
+> *nidhimaṃtaṃ dhanavaṃtaṃ yajamānamaccha | āgacchatamiti śeṣaḥ | vidathe yajñe ‖ vidathaḥ*
+> *savanamiti yajñanāmasu pāṭhāt ‖ uktaśāsokaścaśaṃsitār brahmāṇeva brāhmaṇāviva |*
+> *janyā janapadeṣu dūteva rājñā preṣitau dūtāviva purutrā bahubhiḥ puruṣairhavyā*
+> *hvātavyau yuvāṃ | atropameyadvitvānusāreṇopamānadvitvaṃ ‖*
+
+Gist: Like two stones hurled at the foe, the Aśvins crush the foe; like two vultures to a fruit-laden tree they come to the wealthy sacrificer; like two priests and two royal messengers they are invoked by many.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau—O Aśvin gods). Grāvāṇeva—like stones thrown at an enemy. Tat artham—that enemy. Jarethe—destroy (him). Vṛkṣam—to the tree; Gṛdhreva—like a vulture going towards it. Vidathe—in the sacrificial house. Uktaśāsā—reciting the *ukta*. Brahmāṇeva—like Brāhmaṇas. Janyā—in the land. Dūteva—like royal messengers. Purutrā—by many sacrificers. Havyā—you who are to be invoked. Nidhimantam—to the wealthy sacrificer. Accha—come to him.
+
+### Printed p. 372
+
+*[Running head, p. 372: Sāyaṇabhāṣyasahitā, Maṃ. 3 [sic, as supplied; elsewhere Maṃ. 2], A. 4, Sū. 39.]*
+
+**भावार्थ (Bhāvārtha)**
+
+*[Note: the label was garbled in the supplied text (೧ ಭಾನಾರ್ಥ ೧) and was replaced by the standard label.]*
+
+O Aśvin gods, like stones thrown at the enemy, descend swiftly and destroy the foes. Like a vulture going towards a tree, like Brāhmaṇas reciting the *ukta* in the sacrificial house, like royal messengers in the land, you who are invoked by many sacrificers, come towards the wealthy sacrificer.
+
+**English Translation (as printed)**
+
+Descend, Ashwins, like falling stones, for the purpose (of destroying our foes); hasten to the presence of the wealth-possessing (worshippers), like, vultures to a tree: like two Brahmanas repeating hymns, (be present) at the sacrifice, and come like (royal) messengers in the land, welcomed by many people.
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this sūkta the Aśvin gods are praised. In seven of its eight ṛks, all except the last, various similes (illustrations) are used in praying to the Aśvins; the use of many similes is the special feature of this sūkta. In many instances the simile does not fit exactly or is not apt to the occasion.
+
+ग्रावाणेव तत् अर्थं इत् जरेथे—ग्रावाणेव अरातिं प्रति प्रेषितौ साषा-णाविव तमरातिं बाधेथां । (*grāvāṇeva tat arthaṃ it jarethe—grāvāṇeva arātiṃ prati preṣitau sāṣā-ṇāviva tamarātiṃ bādhethāṃ |*) [Line break inside the quotation, as supplied; the hyphen joins साषाणाविव (*sāṣāṇāviva*), while the bhāṣya above reads पाषाणाविव (*pāṣāṇāviva*).] Here the commentator explains the word अर्थं (*arthaṃ*) as *arāti*, an enemy. For the word *artha*, formed from the root ऋ गतौ (*ṛ gatau*), the meaning is "the enemy who rushes forward (in battle)". Yāska states the etymology अर्थोSर्तॆः (*arthoSrtèḥ*) [as supplied, with a Latin S]; that is, according to the Kannada, the word *artha* is formed from the root आर्ति (*ārti*) (*ārti*), which indicates going; this is the sense of the etymology. O Aśvin gods, as stones thrown at enemies cause them pain, so you afflict them: such is the intention.
+
+वृक्षं गृध्रेव निधिमंतं अच्छ—पक्षिणाविव फलितं वृक्षं । (*vṛkṣaṃ gṛdhreva nidhimaṃtaṃ accha—pakṣiṇāviva phalitaṃ vṛkṣaṃ |*) As birds quickly approach trees laden with fruit, so come towards our wealthy sacrificer.
+
+विदथे उक्तशासा ब्रह्माणेव-यज्ञे उक्तशंसितारौ ब्राह्मणाविव । (*vidathe uktaśāsā brahmāṇeva-yajñe uktaśaṃsitārau brāhmaṇāviva |*) The word *vidatha* is read among the names of sacrifice (Ni. 3-19). As Brāhmaṇas who recite the *ukta* and other mantras come to a sacrifice, so come to our sacrificial ground.
+
+### Printed p. 373
+
+*[Running head, p. 373: Aṣṭaka 2, Adhyāya 8, Varga 4; Ṛgvedasaṃhitā 373 (printed ಮುಗ್ವೇದಸಂಹಿತಾ, as supplied). The supplied text had merged this page into the previous one; the page marker and this heading were inserted by hand and p. 373 appended to pages.json.]*
+
+जन्या दूतेव—जनपदेषु राज्ञा प्रेषितौ दूताविव । (*janyā dūteva—janapadeṣu rājñā preṣitau dūtāviva |*) As a king sends his messengers into his realm and the messengers receive honour from the people, so you come to our sacrificial ground and be honoured with worship and the like: such is the intention.
+
+पुरुत्रा हव्या—बहुभिः पुरुषैः ह्वातव्यौ । (*purutrā havyā—bahubhiḥ puruṣaiḥ hvātavyau |*) Those who are called by many men performing sacrifices to come to the sacrificial ground. It is desired that you, endowed with such greatness, come to our sacrificial ground also.
+
+#### Ṛk 2
+
+**॥ संहितापाठः ॥**
+
+*[Note: in the supplied text a software-generated line stood in the Saṃhitā block: "This image contains no text. It is a decorative symbol or logo consisting of three stylized shapes connected by lines, resembling an abstract flower or geometric ornament." It is kept as an italic note in kn.md and removed from the block. Saṃhitā reads प्रात्रर्यावाणा (*prātraryāvāṇā*) against Pada प्रातःयावाना (*prātaḥyāvānā*) and the Pratipadārtha प्रातर्यावाणा (*prātaryāvāṇā*), as supplied.]*
+
+> प्रा॒त्॒रर्यावा॑णा र॒थ्ये॑व वी॒राजेव॑ य॒मा वर॒मा स॑चेथे ।
+> मेने॑इव त॒न्वा॒३॒॑शुंभ॑माने॒ दंप॑तीव क्रतु॒विदा॒ जने॑षु ॥ २ ॥
+
+**॥ पदपाठः ॥**
+
+> प्रातःयावाना । रथ्याइव । वीरा । अजाइव । यमा । वरं । आ । सचेथेइति ।
+> मेने इवेति मेनेइव । तन्वा । शुंभमाने इति । दंपती इवेति दंपतीइव ।
+> क्रतुविदा । जनेषु ॥ २ ॥
+
+**॥ सायणभाष्यम् ॥**
+
+> हे अश्विन् प्रातर्यावाणा प्रातरेव यज्ञार्थं गंतारौ रथ्येव रथिनाविव
+> वीर् स्वकर्मणि शूरौ । अजेवाजाविव भागाविव यमा यमलौ । मेने इव नार्याविव तन्ना शरीरेण शुंभमाने शोभमान् । दंपतीव जायापती इव संगतौ जनेषु
+> विषयेषु क्रतुविदा कर्मविदौ युवां वरं संभक्तारमासचेथे । आगच्छत ॥
+
+*[Note: a hyphenated line break in the bhāṣya was joined in kn.md.]*
+
+Gist: The Aśvins go at dawn to the sacrifice, like two charioteer heroes, like a pair of twins, shining in body like two beautiful women, like husband and wife, skilled in rites among men; they come to the worshipper.
+
+**प्रतिपदार्थ (Pratipadārtha)**
+
+(Aśvinau—O Aśvin gods). Rathyeva vīrā—like two heroes seated in a chariot. Prātaryāvāṇā—going to the sacrifice at dawn itself. Ajīva [sic, as supplied; the Saṃhitā has अजाइव (*ajāiva*)]—like a pair of goats. Yamā—twins. Tanvā—by charming bodies. Śumbhamāne—shining.
+
+### Printed p. 374
+
+*[Running head, p. 374: Sāyaṇabhāṣyasahitā, Maṃ. 2, A. 4, Sū. 39.]*
+
+Mene iva—like two beautiful women. Dampatīva—like a husband and wife joined together. Janeṣu—among the people who perform sacrifice. Kratuvidā—you who know the nature of the rite being performed. Varam—to the sacrificer who worships in the best manner. Ā sacethe—come, both of you, together.
+
+**भावार्थ (Bhāvārtha)**
+
+O Aśvin gods, going at dawn itself to the sacrifice like two heroes seated in a chariot, twins like a pair of goats, like two beautiful women shining with charming bodies, like husband and wife, knowing the nature of the rites performed among the people who sacrifice, come, both of you together, to the sacrificer who worships in the best manner.
+
+**English Translation (as printed)**
+
+Moving at dawn like two heroes in a car ; like a pair of goats; like two women lovely in form ; or like husband and wife ; come together, knowing (how sacred) rites (are to be celebrated) amongst men, (to bestow) happiness (on the worshipper)
+
+**विशेषविषयगळु (Viśeṣaviṣayagaḷu)**
+
+In this ṛk the Aśvins are described by several similes. प्रातर्यावाणा—प्रातरेव यज्ञार्थं गंतारौ । (*prātaryāvāṇā—prātareva yajñārthaṃ gaṃtārau |*) Those who go towards the sacrifice at dawn itself. Ordinarily the Aśvins, Uṣas and Savitṛ are invoked at dawn; so these are gods who go to the sacrifice at dawn. The Aśvins appear like two heroes seated in a chariot; like two goats of one form, that is, of like shape — the form of the two Aśvins is exactly the same, no difference is seen between them, so they are described as of like form, like twins; they are also like two beautiful women shining with charming bodies, and shine like a husband and wife endowed with beauty and youth. "Knowing the rites performed by people" means: knowing who in the land performs a sacrifice and at what times, they go there at their invitation. It is stated that such Aśvins should come together, both, to our sacrificial ground.
+
 ---
 
-**Progress note:** Done through printed p. 370 (PDF 370). Sukta 38 Rk 10 Special Topics finished (Gnaspati), Rk 11 complete, Sukta 39 introduction begun (no Rk yet); flags: Pada reads arbhyah and Pratipadartha adrishyah against Samhita adbhyah, bhashya adbho-ntariksha as supplied, Nirukta ref letter si. and Ni. 24-46 as printed, Anuvada grane-va vs Sanskrit grave-nevа, 2 quotations made > blocks, stray figure 24 kept as note
+**Progress note:** Done through printed p. 374 (PDF 374). Sukta 39 Rk 1 and Rk 2 complete; p. 373 merged in supplied text (marker inserted by hand); flags: Samhita pratrarya-vana vs Pada pratahyavana, pratipadartha ajiva, Nirukta etymology arthorthe with Latin S as supplied, bhashya label garbled and replaced, ornament line kept as note
